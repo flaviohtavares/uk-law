@@ -34,7 +34,7 @@ Regulation 27(2)
 
 In this Schedule—
 
-- “[^key-b168bcd2639996ff9a9b8ab5ffdbae0b]**domestic violence**” has the meaning given by regulation 96(5);
+- “[^c-b168bcd2639996ff9a9b8ab5ffdbae0b]**domestic violence**” has the meaning given by regulation 96(5);
 - “**exempt accommodation**” has the meaning given in paragraph 1 of Schedule 1;
 - “**extended benefit unit**” has the meaning given in paragraph 8;
 - “**housing cost contribution**” has the meaning given in paragraph 12;
@@ -51,7 +51,7 @@ In this Schedule—
   - (b) a registered housing association;
 - “**the UC Housing Costs Regulations**” means the Universal Credit Housing Costs (Executive Determinations) Regulations (Northern Ireland) 2016 [^c22824851];
 - “**registered housing association**” means a housing association which is registered in a register maintained under Article 14 of the Housing (Northern Ireland) Order 1992 [^c22824861];
-- “[^key-d96726f00fc2ead8c6284b7e804b3de5]**relative**” has the meaning given by Article 2(2) of the Family Homes and Domestic Violence (Northern Ireland) Order 1998;
+- “[^c-d96726f00fc2ead8c6284b7e804b3de5]**relative**” has the meaning given by Article 2(2) of the Family Homes and Domestic Violence (Northern Ireland) Order 1998;
 - “**relevant payments**” has the meaning given in paragraph 3;
 - “**renter**” means a single renter within the meaning of paragraph 1(2) or each of joint renters;
 - “renter who requires overnight care” is to be understood in accordance with paragraph 11(3) to (5);
@@ -71,21 +71,21 @@ In this Schedule—
 - (a) for the purposes of calculations under Part 4 of this Schedule, has the meaning given in paragraph 8 of Schedule 1, and
 - (b) for the purposes of calculations under Part 5 of this Schedule, is to be understood in accordance with paragraphs 8 and 9 of Schedule 1.
 
-### PART 2 — Exception to inclusion of housing costs element[^key-2420bd5efc5682a9a142f3da2ba0e945]
+### PART 2 — Exception to inclusion of housing costs element[^c-2420bd5efc5682a9a142f3da2ba0e945]
 
 #### 4. No housing costs element for 16 or 17 year old care leavers
 
 Article 16(1) of the Order (housing costs) does not apply to any renter who is 16 or 17 years old and is a care leaver.
 
-#### 4A. No housing costs element for certain renters aged at least 18 but under 22[^key-bed1cc994b3e6590d10cd04c83c3242b]
+#### 4A. No housing costs element for certain renters aged at least 18 but under 22[^c-bed1cc994b3e6590d10cd04c83c3242b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4B. Persons to whom paragraph 4A does not apply - general[^key-bed1cc994b3e6590d10cd04c83c3242b]
+#### 4B. Persons to whom paragraph 4A does not apply - general[^c-bed1cc994b3e6590d10cd04c83c3242b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4C. Persons to whom paragraph 4A does not apply – periods of work[^key-bed1cc994b3e6590d10cd04c83c3242b]
+#### 4C. Persons to whom paragraph 4A does not apply – periods of work[^c-bed1cc994b3e6590d10cd04c83c3242b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -220,25 +220,25 @@ Where “RFP” is the number of rent free periods in the 12 month period in que
 
 (1) A renter is entitled to an additional bedroom if they satisfy any of the following conditions—
 
-- (a)[^key-0a64a65207939f8ad6eec62064bdada3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) the foster parent condition [^key-6b9f5e49d73af52788439aa66f827edd]...; [^key-bfe4c2964d2c63ed20534e1029be05a9]...
-- (c) the disabled child condition (see sub-paragraph (6)); or[^key-5c738c16473b2c85328bfddaa2552531]
-- (d)[^key-5a1ba85b63ae94bd77281e7f773b0bf8] the disabled person condition (see sub-paragraph (6A)).
+- (a)[^c-0a64a65207939f8ad6eec62064bdada3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the foster parent condition [^c-6b9f5e49d73af52788439aa66f827edd]...; [^c-bfe4c2964d2c63ed20534e1029be05a9]...
+- (c) the disabled child condition (see sub-paragraph (6)); or[^c-5c738c16473b2c85328bfddaa2552531]
+- (d)[^c-5a1ba85b63ae94bd77281e7f773b0bf8] the disabled person condition (see sub-paragraph (6A)).
 
-(2)[^key-47f7d8f2b38835473470bf70e0dc92de] Sub-paragraphs (A1) and (1) apply subject to sub-paragraphs (8) and (9).
+(2)[^c-47f7d8f2b38835473470bf70e0dc92de] Sub-paragraphs (A1) and (1) apply subject to sub-paragraphs (8) and (9).
 
-(3) A person satisfies[^key-ab07a12abad5a600f2a44385d414be09] the overnight care condition if—
+(3) A person satisfies[^c-ab07a12abad5a600f2a44385d414be09] the overnight care condition if—
 
 - (a) they are in receipt of—
   - (i) the care component of disability living allowance at the middle or highest rate;
-  - (ia)[^key-5505bbd57a9252740b31470140ed45bb] the care component of child disability payment at the middle or highest rate in accordance with regulation 11(5) of the DACYP Regulations;
-  - (ib)[^key-5b90d8a5bfbf054e53390387b3e0b47d] the care component of Scottish adult disability living allowance at the highest or middle rate in accordance with regulation 6(4) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
-  - (ii) attendance allowance; [^key-f53be45688944319a5ddb8473df7f3e2]...
-  - (iia)[^key-403e2666bc9059cb686d3949d7e65c35] pension age disability payment;
+  - (ia)[^c-5505bbd57a9252740b31470140ed45bb] the care component of child disability payment at the middle or highest rate in accordance with regulation 11(5) of the DACYP Regulations;
+  - (ib)[^c-5b90d8a5bfbf054e53390387b3e0b47d] the care component of Scottish adult disability living allowance at the highest or middle rate in accordance with regulation 6(4) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
+  - (ii) attendance allowance; [^c-f53be45688944319a5ddb8473df7f3e2]...
+  - (iia)[^c-403e2666bc9059cb686d3949d7e65c35] pension age disability payment;
   - (iii) the daily living component of personal independence payment;
-  - or[^key-3327f528569d018c391666e7cfec19dc]
+  - or[^c-3327f528569d018c391666e7cfec19dc]
   - (iv) the daily living component of adult disability payment at the standard or enhanced rate
-- (b) one or more persons who do not live in the renter's accommodation are engaged to provide overnight care for the person[^key-5e421f9a6a387746183750ec827afe1a] and to stay overnight in the accommodation on a regular basis; and
+- (b) one or more persons who do not live in the renter's accommodation are engaged to provide overnight care for the person[^c-5e421f9a6a387746183750ec827afe1a] and to stay overnight in the accommodation on a regular basis; and
 - (c) overnight care is provided under arrangements entered into for that purpose.
 
 (4) A renter satisfies the foster parent condition if the renter is—
@@ -248,30 +248,30 @@ Where “RFP” is the number of rent free periods in the 12 month period in que
 
 (5) For the purposes of sub-paragraph (4) “**foster parent**” includes a person who would be a foster parent, but for the fact that they do not currently have any child placed with them, provided that any period since the date when their last placement ended (or, if they have not yet had a child placed with them, since the date when they were approved to be a foster parent) does not exceed 12 months.
 
-(6)[^key-15e25f3457e0edbeeffdb95a82fda73c] A renter satisfies the disabled child condition if they or another member of their extended benefit unit are responsible for a child who would (but for the provisions of this paragraph) be expected to share a bedroom and that child is—
+(6)[^c-15e25f3457e0edbeeffdb95a82fda73c] A renter satisfies the disabled child condition if they or another member of their extended benefit unit are responsible for a child who would (but for the provisions of this paragraph) be expected to share a bedroom and that child is—
 
 - (a) in receipt of—
   - (i) the care component of disability living allowance at the middle or highest rate; or
   - (ii) the care component of child disability payment at the middle or highest rate in accordance with regulation 11(5) of the DACYP Regulations; and
 - (b) that child is, by virtue of their disability, not reasonably able to share a room with another child;
 
-(6A)[^key-4ee091f8589ff565fd7629d67741531c] A renter satisfies the disabled person condition if they would (but for the provisions of this paragraph) be expected to share a bedroom with a joint renter and—
+(6A)[^c-4ee091f8589ff565fd7629d67741531c] A renter satisfies the disabled person condition if they would (but for the provisions of this paragraph) be expected to share a bedroom with a joint renter and—
 
 - (a) the renter is in receipt of—
   - (i) the care component of disability living allowance at the middle or highest rate;
-  - (ia)[^key-b5d447eb6a5a4c6743a32aec89beeede] the care component of child disability payment at the middle or highest rate in accordance with regulation 11(5) of the DACYP Regulations;
-  - (ib)[^key-8617137933d3caa63217b935213cd739] the care component of Scottish adult disability living allowance at the highest or middle rate in accordance with regulation 6(4) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
-  - (ii) attendance allowance [^key-f2ad00f5a8e9c5b5b6d519157a67cc1c]...;
-  - (iia)[^key-605e8d26267f653f8bcd7d192d4918ab] pension age disability payment [^key-a0fce1813e5b14db10f401532e908939]...;
-  - (iii) the daily living component of personal independence payment; [^key-87db493bc3208a83e0609047f850d6ff]...
-  - (iv)[^key-8f80bdb128b61c7d3b13757ba1b3d22c] the daily living component of adult disability payment at the standard or enhanced rate; and
+  - (ia)[^c-b5d447eb6a5a4c6743a32aec89beeede] the care component of child disability payment at the middle or highest rate in accordance with regulation 11(5) of the DACYP Regulations;
+  - (ib)[^c-8617137933d3caa63217b935213cd739] the care component of Scottish adult disability living allowance at the highest or middle rate in accordance with regulation 6(4) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
+  - (ii) attendance allowance [^c-f2ad00f5a8e9c5b5b6d519157a67cc1c]...;
+  - (iia)[^c-605e8d26267f653f8bcd7d192d4918ab] pension age disability payment [^c-a0fce1813e5b14db10f401532e908939]...;
+  - (iii) the daily living component of personal independence payment; [^c-87db493bc3208a83e0609047f850d6ff]...
+  - (iv)[^c-8f80bdb128b61c7d3b13757ba1b3d22c] the daily living component of adult disability payment at the standard or enhanced rate; and
 - (b) the renter is, by virtue of their disability, not reasonably able to share a bedroom with the joint renter.
 
-(7)[^key-ed666701217fbee23b005d4a19b1a4c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-ed666701217fbee23b005d4a19b1a4c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Where a renter, or one or both of joint renters, satisfy the disabled child condition in relation to one or more children, they are entitled to as many additional bedrooms as are necessary to ensure that each such child has their own bedroom.
 
-(9)[^key-b5028659673117f32755db568ecc2921] The renter is, or joint renters are, entitled to one additional bedroom for each of the following that apply—
+(9)[^c-b5028659673117f32755db568ecc2921] The renter is, or joint renters are, entitled to one additional bedroom for each of the following that apply—
 
 - (a) one or more persons satisfy the overnight care condition;
 - (b) the renter, or one or both of joint renters, satisfies the foster parent condition;
@@ -296,7 +296,7 @@ Where “RFP” is the number of rent free periods in the 12 month period in que
 
 (3) Where the sum of all the housing cost contributions to be deducted in the renter's case exceeds the amount referred to in sub-paragraph (2)—
 
-- (a)[^key-7091576311c45a74abebfb3f15cc74eb] the amount determined under this Schedule is to be reduced to nil; but
+- (a)[^c-7091576311c45a74abebfb3f15cc74eb] the amount determined under this Schedule is to be reduced to nil; but
 - (b) no further reduction in respect of housing cost contributions is to be made from the renter's award.
 
 ##### 14. Exempt renters
@@ -310,19 +310,19 @@ Where “RFP” is the number of rent free periods in the 12 month period in que
 
 - (a) who is blind;
 - (b) in receipt of the care component of disability living allowance at the middle or highest rate;
-- (ba)[^key-672cc560236d4694e53dd96b3d718abe] in receipt of the care component of child disability payment at the middle or highest rate in accordance with regulation 11(5) of the DACYP Regulations;
-- (bb)[^key-9984e6c40241d5fb6e49dc5c39d14a01] [^key-628738b3ae15a8aeada08040c7b814d2]... in receipt of the care component of Scottish adult disability living allowance at the highest or middle rate in accordance with regulation 6(4) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
+- (ba)[^c-672cc560236d4694e53dd96b3d718abe] in receipt of the care component of child disability payment at the middle or highest rate in accordance with regulation 11(5) of the DACYP Regulations;
+- (bb)[^c-9984e6c40241d5fb6e49dc5c39d14a01] [^c-628738b3ae15a8aeada08040c7b814d2]... in receipt of the care component of Scottish adult disability living allowance at the highest or middle rate in accordance with regulation 6(4) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
 - (c) in receipt of attendance allowance;
-- (ca)[^key-f15b99bd185552cf082e14da8be0d6b7] in receipt of pension age disability payment;
+- (ca)[^c-f15b99bd185552cf082e14da8be0d6b7] in receipt of pension age disability payment;
 - (d) in receipt of the daily living component of a personal independence payment;
-- (da)[^key-c7461f251631ca2c8de4f854e7c67e0a] [^key-1322cc6788d2ce7d3a830b9db19dedb6]... in receipt of the daily living component of adult disability payment at the standard or enhanced rate;
-- (e) who is entitled to a payment within paragraph (b) , (bb)[^key-58997db013245e139403515af6f9f2e2] , (c) ,[^key-4227f94ded0eabfc62834148806ba391] (ca),[^key-ad6dd1bd5e6346f34cae499484e2728b] (d) or (da) but is not receiving it under, as the case may be—
+- (da)[^c-c7461f251631ca2c8de4f854e7c67e0a] [^c-1322cc6788d2ce7d3a830b9db19dedb6]... in receipt of the daily living component of adult disability payment at the standard or enhanced rate;
+- (e) who is entitled to a payment within paragraph (b) , (bb)[^c-58997db013245e139403515af6f9f2e2] , (c) ,[^c-4227f94ded0eabfc62834148806ba391] (ca),[^c-ad6dd1bd5e6346f34cae499484e2728b] (d) or (da) but is not receiving it under, as the case may be—
   - (i) regulation 8 of the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992 [^c22824871],
   - (ii) regulation 6 of the Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992 [^c22824881],
-  - (iii) regulation 19 of the Social Security (General Benefit) Regulations (Northern Ireland) 1984 [^c22824891], [^key-a4cbd0cd6daabc19ae54af24fccc27ec]...
-  - (iv) regulations under Article 91 of the Order (hospital in-patients). [^key-4e119bc90170fee1395540f61a896e4d]...
-  - (v)[^key-7f7c5fa3d6fbbe338683d06f51b9efe9] regulation 28 (effect of admission to hospital on ongoing entitlement to Adult Disability Payment) of the Disability Assistance for Working Age People (Scotland) Regulations 2022 , [^key-8098d0c2aca1b3fb307a25fa9b8dc613]...
-  - (vi)[^key-45eb5ce4db79769738bbe50527d57584] regulation 20 (effect of admission to hospital on ongoing entitlement to pension age disability payment) of the Disability Assistance for Older People (Scotland) Regulations 2024, or[^key-4517e6c46cc54f02f57c5362072a6bad]
+  - (iii) regulation 19 of the Social Security (General Benefit) Regulations (Northern Ireland) 1984 [^c22824891], [^c-a4cbd0cd6daabc19ae54af24fccc27ec]...
+  - (iv) regulations under Article 91 of the Order (hospital in-patients). [^c-4e119bc90170fee1395540f61a896e4d]...
+  - (v)[^c-7f7c5fa3d6fbbe338683d06f51b9efe9] regulation 28 (effect of admission to hospital on ongoing entitlement to Adult Disability Payment) of the Disability Assistance for Working Age People (Scotland) Regulations 2022 , [^c-8098d0c2aca1b3fb307a25fa9b8dc613]...
+  - (vi)[^c-45eb5ce4db79769738bbe50527d57584] regulation 20 (effect of admission to hospital on ongoing entitlement to pension age disability payment) of the Disability Assistance for Older People (Scotland) Regulations 2024, or[^c-4517e6c46cc54f02f57c5362072a6bad]
   - (vii) regulation 23 (effect of admission to hospital on ongoing entitlement to Scottish adult disability living allowance) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025.
 
 ##### 15. No deduction for housing cost contributions in respect of certain non-dependants
@@ -334,21 +334,21 @@ Where “RFP” is the number of rent free periods in the 12 month period in que
 - (a) who is under 21 years old;
 - (b) in receipt of state pension credit;
 - (c) in receipt of the care component of disability living allowance at the middle or highest rate;
-- (ca)[^key-754e5510a7283063c4ab87b6f7e3b8da] in receipt of the care component of Scottish adult disability living allowance at the highest or middle rate;
+- (ca)[^c-754e5510a7283063c4ab87b6f7e3b8da] in receipt of the care component of Scottish adult disability living allowance at the highest or middle rate;
 - (d) in receipt of attendance allowance;
-- (da)[^key-9573ca3a416adb9b3c0f57a3dac4e7c7] in receipt of pension age disability payment;
+- (da)[^c-9573ca3a416adb9b3c0f57a3dac4e7c7] in receipt of pension age disability payment;
 - (e) in receipt of the daily living component of personal independence payment;
-- (ea)[^key-7ac1498964f7caa3f24b84dd3220f4ab] a person in receipt of the daily living component of adult disability payment at the standard or enhanced rate;
-- (f) who is entitled to a payment within paragraph (c), , (ca)[^key-d26e35641303f96859f0ec572073ad33] (d) ,[^key-f2307498e3db8d609990161275f8ccfe] (da),[^key-a110a32573e7cfc572bd325ba764f22b] (e) or (ea) but is not receiving it under, as the case may be—
+- (ea)[^c-7ac1498964f7caa3f24b84dd3220f4ab] a person in receipt of the daily living component of adult disability payment at the standard or enhanced rate;
+- (f) who is entitled to a payment within paragraph (c), , (ca)[^c-d26e35641303f96859f0ec572073ad33] (d) ,[^c-f2307498e3db8d609990161275f8ccfe] (da),[^c-a110a32573e7cfc572bd325ba764f22b] (e) or (ea) but is not receiving it under, as the case may be—
   - (i) regulation 8 of the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992,
   - (ii) regulation 6 of the Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992,
-  - (iii) regulation 19 of the Social Security (General Benefit) Regulations (Northern Ireland) 1984[^key-db708fdb93523e569479e7fbe02d6cf9], [^key-dfd227f0fc2992c8c21225dd0035b87e]...
-  - (iv) regulations under Article 91 of the Order; [^key-2b2d5baeab7a0814d899247255008ec3]...[^key-d74c8fa14cce029742244dac85d89095]
-  - (v) regulation 28 (effect of admission to hospital on ongoing entitlement to Adult Disability Payment) of the Disability Assistance for Working Age People (Scotland) Regulations 2022 , [^key-8dec9668dd308c1a34f45cc9f9b80a99]...
-  - (vi)[^key-9670d682c47a51c9d0c4a051133307ef] regulation 20 (effect of admission to hospital on ongoing entitlement to pension age disability payment) of the Disability Assistance for Older People (Scotland) Regulations 2024, or[^key-d117d1829d115a7c04e48cbe97d96293]
+  - (iii) regulation 19 of the Social Security (General Benefit) Regulations (Northern Ireland) 1984[^c-db708fdb93523e569479e7fbe02d6cf9], [^c-dfd227f0fc2992c8c21225dd0035b87e]...
+  - (iv) regulations under Article 91 of the Order; [^c-2b2d5baeab7a0814d899247255008ec3]...[^c-d74c8fa14cce029742244dac85d89095]
+  - (v) regulation 28 (effect of admission to hospital on ongoing entitlement to Adult Disability Payment) of the Disability Assistance for Working Age People (Scotland) Regulations 2022 , [^c-8dec9668dd308c1a34f45cc9f9b80a99]...
+  - (vi)[^c-9670d682c47a51c9d0c4a051133307ef] regulation 20 (effect of admission to hospital on ongoing entitlement to pension age disability payment) of the Disability Assistance for Older People (Scotland) Regulations 2024, or[^c-d117d1829d115a7c04e48cbe97d96293]
   - (vii) regulation 23 (effect of admission to hospital on ongoing entitlement to Scottish adult disability living allowance) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025.
 - (g) in receipt of carer's allowance;
-- (ga)[^key-ddaa3600a6fd7b198c849c0f34b8d85f] in receipt of carer support payment;
+- (ga)[^c-ddaa3600a6fd7b198c849c0f34b8d85f] in receipt of carer support payment;
 - (h) is a prisoner;
 - (i) is responsible for a child under 5 years old;
 - (j) is a member of the armed forces away on operations who—
@@ -366,7 +366,7 @@ Where “RFP” is the number of rent free periods in the 12 month period in que
 - (a) all relevant payments in respect of accommodation A and all relevant payments in respect of accommodation B, and
 - (b) the total number of bedrooms in accommodation A and accommodation B taken together.
 
-(3)[^key-693b5ee8369b1edeb2e0b9f97d1d0563] The single calculation is to be made under Part 5 of this Schedule in any case where the renter’s liability to make rent payments in respect of accommodation A and accommodation B is to a provider of social housing.
+(3)[^c-693b5ee8369b1edeb2e0b9f97d1d0563] The single calculation is to be made under Part 5 of this Schedule in any case where the renter’s liability to make rent payments in respect of accommodation A and accommodation B is to a provider of social housing.
 
 (4) In any other case, the single calculation is to be made under Part 4 of this Schedule.
 
@@ -419,15 +419,15 @@ If a deduction was made for housing cost contributions in respect of both the ho
 
 (3) In this paragraph, references to “the home accommodation” and “the other accommodation” are to be understood in accordance with paragraph 5 of Schedule 3.
 
-### PART 4 — Private rented sector ...[^key-f5cfba6bd70ca899677e995e157590bf]
+### PART 4 — Private rented sector ...[^c-f5cfba6bd70ca899677e995e157590bf]
 
 #### 19. Application of Part 4
 
-(1)[^key-7cde4e2468e1c4a764a9fccc9cd9165d] This Part applies to renters who are liable to make rent payments to a person other than a provider of social housing.
+(1)[^c-7cde4e2468e1c4a764a9fccc9cd9165d] This Part applies to renters who are liable to make rent payments to a person other than a provider of social housing.
 
 (2) Sub-paragraph (1) applies irrespective of whether renters are also liable to make service charge payments.
 
-#### 20. Meaning of “temporary accommodation”[^key-3e2959c2ec8df613270989bcbb80f2b4]
+#### 20. Meaning of “temporary accommodation”[^c-3e2959c2ec8df613270989bcbb80f2b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -496,7 +496,7 @@ The result is the renter's core rent.
 
 (3) Where the only persons liable to make relevant payments are listed persons, the allocated amount is the amount resulting from step 3 in sub-paragraph (2).
 
-(4)[^key-20eb16cc95a5550e092781533f84748b] Where the persons liable for the relevant payments are one or more listed persons and one or more other persons, the allocated amount is to be found by applying the formula—
+(4)[^c-20eb16cc95a5550e092781533f84748b] Where the persons liable for the relevant payments are one or more listed persons and one or more other persons, the allocated amount is to be found by applying the formula—
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2016/216)
 
@@ -574,11 +574,11 @@ In calculating the amount of a renter's housing costs element under paragraph 21
 
 ##### 28. Renters excepted from shared accommodation
 
-(1) “**Excepted person**” means any renter (“E”) who falls within any of sub-paragraphs (2) to (5C)[^key-f62a7985da669bfd423bbbf936661b34] .
+(1) “**Excepted person**” means any renter (“E”) who falls within any of sub-paragraphs (2) to (5C)[^c-f62a7985da669bfd423bbbf936661b34] .
 
-(2) E is at least 18 but under 25 years[^key-ebcd3f6c52056807d64db4d76191c019] old and was a care leaver (within the meaning of regulation 8) before reaching the age of 18.
+(2) E is at least 18 but under 25 years[^c-ebcd3f6c52056807d64db4d76191c019] old and was a care leaver (within the meaning of regulation 8) before reaching the age of 18.
 
-(3) E is at least 16[^key-d3298cb236bccb8a12d65b949ae9e2dc] but under 35 years old and—
+(3) E is at least 16[^c-d3298cb236bccb8a12d65b949ae9e2dc] but under 35 years old and—
 
 - (a) has, for a total of at least 3 months (whether or not continuously), lived in one or more hostels for homeless people, and
 - (b) whilst E was living in such a hostel, was offered and has accepted support services which the Department considers are intended to assist E to be rehabilitated or resettled within the community.
@@ -586,18 +586,18 @@ In calculating the amount of a renter's housing costs element under paragraph 21
 (4) E is under 35 years old and is in receipt of—
 
 - (a) the care component of disability living allowance at the middle or highest rate;
-- (aa)[^key-3b70f5475a2e88d37276014af3184281] the care component of child disability payment at the middle or highest rate in accordance with regulation 11(5) of the DACYP Regulations;
-- (ab)[^key-6e355a2931b6e8fb2f8838abb646a783] the care component of Scottish adult disability living allowance at the highest or middle rate in accordance with regulation 6(4) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
-- (b) attendance allowance, [^key-83aedc1fc43bba554452b40c5f71318c]...
+- (aa)[^c-3b70f5475a2e88d37276014af3184281] the care component of child disability payment at the middle or highest rate in accordance with regulation 11(5) of the DACYP Regulations;
+- (ab)[^c-6e355a2931b6e8fb2f8838abb646a783] the care component of Scottish adult disability living allowance at the highest or middle rate in accordance with regulation 6(4) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
+- (b) attendance allowance, [^c-83aedc1fc43bba554452b40c5f71318c]...
 - (c) the daily living component of personal independence payment.
-- or[^key-b9498e008cde883c646cc52bdc793225]
+- or[^c-b9498e008cde883c646cc52bdc793225]
 - (d) the daily living component of adult disability payment at the standard or enhanced rate
 
 (5) E is under 35 years old and he is the subject of risk management pursuant to arrangements established under Part 3 of the Criminal Justice (Northern Ireland ) Order 2008 [^c22824911]
 
-(5A)[^key-3af381f949f0d076bac4e0c80a264181] E is under 35 years old and satisfies the foster carer condition (within the meaning of paragraph 11(4)).
+(5A)[^c-3af381f949f0d076bac4e0c80a264181] E is under 35 years old and satisfies the foster carer condition (within the meaning of paragraph 11(4)).
 
-(5B)[^key-4bc6467421c34a744cb79b0c485168b8] E is under 35 years old and—
+(5B)[^c-4bc6467421c34a744cb79b0c485168b8] E is under 35 years old and—
 
 - (a) after attaining the age of 16 had domestic violence inflicted upon or threatened against them (“the victim”) by their partner or former partner, or by a relative; and
 - (b) provides evidence from a person acting in an official capacity which demonstrates that—
@@ -609,7 +609,7 @@ In calculating the amount of a renter's housing costs element under paragraph 21
 (6) In this paragraph—
 
 - “care home”, “registered charity” and “voluntary organisation” have the meaning given in Schedule 1;
-- “[^key-f51e011b3f7689620b5491bb8a2c805b]**competent authority**” means a person who is a competent authority within the meaning of the Trafficking Convention;
+- “[^c-f51e011b3f7689620b5491bb8a2c805b]**competent authority**” means a person who is a competent authority within the meaning of the Trafficking Convention;
 - “**compulsory labour**”, “**forced labour**”, “**servitude**” and “**slavery**” have the same meaning as in Article 4 of the Convention for the Protection of Human Rights and Fundamental Freedoms, agreed by the Council of Europe at Rome on 4th November 1950 as it has effect for the time being in relation to the United Kingdom;
 - “**hostel**” means a building—
   - (a) in which there is provided, for persons generally or for a class of persons, domestic accommodation, otherwise than in separate and self-contained premises, and either board or facilities for the preparation of food adequate to the needs of those persons, or both;
@@ -619,16 +619,16 @@ In calculating the amount of a renter's housing costs element under paragraph 21
     - (iii) managed by a voluntary organisation or registered charity and provides care, support or supervision with a view to assisting those persons to be rehabilitated or resettled within the community, and
   - (c) which is not a care home;
 - “**hostel for homeless people**” means a hostel the main purpose of which is to provide accommodation together with care, support or supervision for homeless people with a view to assisting such persons to be rehabilitated or resettled within the community.
-- “[^key-f78d71e280964858e4b67f95a1777b02]**person acting in an official capacity**” means a health care professional (within the meaning given by regulation 96(5)), a police officer, a registered social worker (within the meaning given by regulation 96(5)), the victim’s employer, or any public, voluntary, or charitable body which has had direct contact with the victim in connection with domestic violence;
+- “[^c-f78d71e280964858e4b67f95a1777b02]**person acting in an official capacity**” means a health care professional (within the meaning given by regulation 96(5)), a police officer, a registered social worker (within the meaning given by regulation 96(5)), the victim’s employer, or any public, voluntary, or charitable body which has had direct contact with the victim in connection with domestic violence;
 - “**positive conclusive grounds determination relating to modern slavery**” means a determination made by a competent authority that an individual is a victim of trafficking in human beings, slavery, servitude or forced or compulsory labour;
 - “**the Trafficking Convention**” means the Council of Europe Convention on Action against Trafficking in Human Beings (done at Warsaw on 16th May 2005);
 - “**trafficking in human beings**” has the same meaning as in the Trafficking Convention.
 
-### PART 5 — Social rented sector ...[^key-b2b1ba39061f040c13316741f271e0c5][^key-90ebc26ae7b62823c2c31cc31f64a504]
+### PART 5 — Social rented sector ...[^c-b2b1ba39061f040c13316741f271e0c5][^c-90ebc26ae7b62823c2c31cc31f64a504]
 
-#### 29. Application of Part 5[^key-b2b1ba39061f040c13316741f271e0c5]
+#### 29. Application of Part 5[^c-b2b1ba39061f040c13316741f271e0c5]
 
-(1)[^key-5a273be74b7604e7cfcb0a21823e68b7] This Part applies to renters who are liable to make rent payments to a provider of social housing.
+(1)[^c-5a273be74b7604e7cfcb0a21823e68b7] This Part applies to renters who are liable to make rent payments to a provider of social housing.
 
 (2) Sub-paragraph (1) applies irrespective of whether renters are also liable to make service charge payments.
 
@@ -652,7 +652,7 @@ the lower amount is to be used in making the calculation under this Part instead
 
 #### The calculation of the housing costs element under this Part
 
-##### 32. The amount of housing costs element[^key-b2b1ba39061f040c13316741f271e0c5][^key-095454861da6bf9dd07bd5ddcdf6b3cf][^key-b2b1ba39061f040c13316741f271e0c5]
+##### 32. The amount of housing costs element[^c-b2b1ba39061f040c13316741f271e0c5][^c-095454861da6bf9dd07bd5ddcdf6b3cf][^c-b2b1ba39061f040c13316741f271e0c5]
 
 (1) The amount of the renter's housing costs element under this Part is to be calculated by reference to the formula—
 
@@ -664,7 +664,7 @@ where—
 
 “HCC” is the sum of the housing cost contributions (if any) under paragraph 12.
 
-##### 33. Determining the amount from which HCC deductions are to be made[^key-b2b1ba39061f040c13316741f271e0c5]
+##### 33. Determining the amount from which HCC deductions are to be made[^c-b2b1ba39061f040c13316741f271e0c5]
 
 Except where paragraph 34 applies, amount S referred to in paragraph 32 is to be found as follows—
 
@@ -686,7 +686,7 @@ Determine under paragraph 35(1) whether an under-occupation deduction is to be m
 
 The result is amount S from which the sum of the housing cost contributions are to be deducted under paragraph 32.
 
-##### 34. Determining the amount from which HCC deductions are to be made: joint tenants[^key-b2b1ba39061f040c13316741f271e0c5]
+##### 34. Determining the amount from which HCC deductions are to be made: joint tenants[^c-b2b1ba39061f040c13316741f271e0c5]
 
 (1) This paragraph applies where, in respect of the accommodation occupied by the renter, one or more persons other than the renter is liable to make relevant payments which are of the same description as those for which the renter is liable and which are to be taken into account under paragraph 5.
 
@@ -712,7 +712,7 @@ The result is amount S from which the sum of the housing cost contributions are 
 
 (3) Where the only persons liable to make relevant payments are listed persons, amount S is the amount resulting from step 3 in sub-paragraph (2) less the amount of the under-occupation deduction (if any) required by paragraph 35.
 
-(4)[^key-2ace76c71b1e5648e6c6ac0f324f15df] Where the persons liable for the relevant payments are one or more listed persons and one or more other persons, amount S is to be found by the applying the formula—
+(4)[^c-2ace76c71b1e5648e6c6ac0f324f15df] Where the persons liable for the relevant payments are one or more listed persons and one or more other persons, amount S is to be found by the applying the formula—
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2016/216)
 
@@ -726,11 +726,11 @@ where—
 
 (5) If the Department is satisfied that it would be unreasonable to determine amount S in accordance with sub-paragraph (4), amount S is to be determined in such manner as the Department considers appropriate in all the circumstances, having regard (among other things) to the number of persons liable and the proportion of the relevant payments for which each of them is liable.
 
-##### 35. Under-occupancy deduction[^key-b2b1ba39061f040c13316741f271e0c5][^key-5c3deec80fd14b69c697008bf869ee58][^key-b2b1ba39061f040c13316741f271e0c5]
+##### 35. Under-occupancy deduction[^c-b2b1ba39061f040c13316741f271e0c5][^c-5c3deec80fd14b69c697008bf869ee58][^c-b2b1ba39061f040c13316741f271e0c5]
 
 (1) A deduction for under-occupancy is to be made under this paragraph where the number of bedrooms in the accommodation exceeds the number of bedrooms to which the renter is entitled under paragraphs 7 to 11.
 
-(2)[^key-6cf59e19a5d82b9ae7950ca645544730] Where a deduction is to be made, the amount of the deduction is to be determined by the formula—
+(2)[^c-6cf59e19a5d82b9ae7950ca645544730] Where a deduction is to be made, the amount of the deduction is to be determined by the formula—
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2016/216)
 
@@ -743,13 +743,13 @@ where—
 
 “B” is the relevant percentage.
 
-(3)[^key-b2980a5f1817ebdfab4d1bd0ebf25dba] The relevant percentage is 14% in the case of one excess bedroom.
+(3)[^c-b2980a5f1817ebdfab4d1bd0ebf25dba] The relevant percentage is 14% in the case of one excess bedroom.
 
-(4)[^key-7544673e08d52d403cfdc8f2be14182f] The relevant percentage is 25% in the case of 2 or more excess bedrooms.
+(4)[^c-7544673e08d52d403cfdc8f2be14182f] The relevant percentage is 25% in the case of 2 or more excess bedrooms.
 
 (5) No deduction for under-occupation is to be made in calculating the amount of the renter's housing costs element under this Part in any case to which regulation 27(4) to (6) (equity–sharing lease) applies.
 
-(6)[^key-74cd52f5030adde448cb296a5de5adc5]
+(6)[^c-74cd52f5030adde448cb296a5de5adc5]
 
 - (a) No deduction for under occupation is to be made in calculating the amount of a renter’s housing cost element under this part where—
   - (i) domestic violence has been inflicted upon or threatened against the claimant or a member of the claimants extended benefit unit (“the victim”) by that person’s partner or former partner, or by a relative;
@@ -759,13 +759,13 @@ where—
     - (ab) the victim has made contact with the person acting in an official capacity in relation to such an incident.
 - (b) In this paragraph—
 
-- “[^key-64933fdb6519daf965938d7d20c717d2]**person acting in an official capacity**” has the meaning given to it in regulation 96(5) of these Regulations;
-- [^key-23dbd66f485d13da5823e4b588718b8f]...
+- “[^c-64933fdb6519daf965938d7d20c717d2]**person acting in an official capacity**” has the meaning given to it in regulation 96(5) of these Regulations;
+- [^c-23dbd66f485d13da5823e4b588718b8f]...
 - “sanctuary scheme” means a scheme operated by a provider of social housing enabling victims of domestic violence to remain in their homes through the installation of additional security to the property or the perimeter of the property at which the victim resides.
 
 ## Annotations
 
-[^key-b168bcd2639996ff9a9b8ab5ffdbae0b]: Textual amendment: Words in [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/2) inserted (1.10.2022) by [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/2/a)
+[^c-b168bcd2639996ff9a9b8ab5ffdbae0b]: Textual amendment: Words in [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/2) inserted (1.10.2022) by [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/2/a)
 
 [^c22824841]: Marginal citation: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52).
 
@@ -773,83 +773,83 @@ where—
 
 [^c22824861]: Marginal citation: [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725).
 
-[^key-d96726f00fc2ead8c6284b7e804b3de5]: Textual amendment: Words in [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/2) inserted (1.10.2022) by [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/2/b)
+[^c-d96726f00fc2ead8c6284b7e804b3de5]: Textual amendment: Words in [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/2) inserted (1.10.2022) by [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/2/b)
 
-[^key-2420bd5efc5682a9a142f3da2ba0e945]: Textual amendment: Word in Sch. 4 Pt. 2 heading substituted (31.12.2018) by [The Universal Credit and Jobseekers Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/187)](https://www.legislation.gov.uk/nisr/2018/187), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/187/regulation/1/3), [3(8)(a)](https://www.legislation.gov.uk/nisr/2018/187/regulation/3/8/a)
+[^c-2420bd5efc5682a9a142f3da2ba0e945]: Textual amendment: Word in Sch. 4 Pt. 2 heading substituted (31.12.2018) by [The Universal Credit and Jobseekers Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/187)](https://www.legislation.gov.uk/nisr/2018/187), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/187/regulation/1/3), [3(8)(a)](https://www.legislation.gov.uk/nisr/2018/187/regulation/3/8/a)
 
-[^key-bed1cc994b3e6590d10cd04c83c3242b]: Textual amendment: Sch. 4 paras. 4A-4C omitted (31.12.2018) by virtue of [The Universal Credit and Jobseekers Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/187)](https://www.legislation.gov.uk/nisr/2018/187), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/187/regulation/1/3), [3(8)(b)](https://www.legislation.gov.uk/nisr/2018/187/regulation/3/8/b)
+[^c-bed1cc994b3e6590d10cd04c83c3242b]: Textual amendment: Sch. 4 paras. 4A-4C omitted (31.12.2018) by virtue of [The Universal Credit and Jobseekers Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/187)](https://www.legislation.gov.uk/nisr/2018/187), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/187/regulation/1/3), [3(8)(b)](https://www.legislation.gov.uk/nisr/2018/187/regulation/3/8/b)
 
 [^M_F_a95dc1e2-b0d7-4b4d-d95b-f9efd37320d4]: Textual amendment: Sch. 4 para. 11(A1) inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(a)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/a)
 
-[^key-0a64a65207939f8ad6eec62064bdada3]: Textual amendment: Sch. 4 para. 11(1)(a) omitted (coming into force in accordance with reg. 1(3) of the amending Rule) by virtue of [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(b)(i)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/b/i)
+[^c-0a64a65207939f8ad6eec62064bdada3]: Textual amendment: Sch. 4 para. 11(1)(a) omitted (coming into force in accordance with reg. 1(3) of the amending Rule) by virtue of [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(b)(i)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/b/i)
 
-[^key-6b9f5e49d73af52788439aa66f827edd]: Textual amendment: Words in Sch. 4 para. 11(1)(b) omitted (coming into force in accordance with reg. 1(3) of the amending Rule) by virtue of [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(b)(ii)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/b/ii)
+[^c-6b9f5e49d73af52788439aa66f827edd]: Textual amendment: Words in Sch. 4 para. 11(1)(b) omitted (coming into force in accordance with reg. 1(3) of the amending Rule) by virtue of [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(b)(ii)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/b/ii)
 
-[^key-bfe4c2964d2c63ed20534e1029be05a9]: Textual amendment: Word in Sch. 4 para. 11(1)(b) omitted (coming into force in accordance with reg. 1(3) of the amending Rule) by virtue of [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(b)(iii)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/b/iii)
+[^c-bfe4c2964d2c63ed20534e1029be05a9]: Textual amendment: Word in Sch. 4 para. 11(1)(b) omitted (coming into force in accordance with reg. 1(3) of the amending Rule) by virtue of [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(b)(iii)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/b/iii)
 
-[^key-5c738c16473b2c85328bfddaa2552531]: Textual amendment: Word in Sch. 4 para. 11(1)(c) inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(b)(iv)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/b/iv)
+[^c-5c738c16473b2c85328bfddaa2552531]: Textual amendment: Word in Sch. 4 para. 11(1)(c) inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(b)(iv)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/b/iv)
 
-[^key-5a1ba85b63ae94bd77281e7f773b0bf8]: Textual amendment: Sch. 4 para. 11(1)(d) inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(b)(v)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/b/v)
+[^c-5a1ba85b63ae94bd77281e7f773b0bf8]: Textual amendment: Sch. 4 para. 11(1)(d) inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(b)(v)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/b/v)
 
-[^key-47f7d8f2b38835473470bf70e0dc92de]: Textual amendment: Sch. 4 para. 11(2) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(c)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/c)
+[^c-47f7d8f2b38835473470bf70e0dc92de]: Textual amendment: Sch. 4 para. 11(2) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(c)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/c)
 
-[^key-ab07a12abad5a600f2a44385d414be09]: Textual amendment: Words in Sch. 4 para. 11(3) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(d)(i)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/d/i)
+[^c-ab07a12abad5a600f2a44385d414be09]: Textual amendment: Words in Sch. 4 para. 11(3) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(d)(i)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/d/i)
 
-[^key-5505bbd57a9252740b31470140ed45bb]: Textual amendment: [Sch. 4 para. 11(3)(a)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/3/a)[(ia)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/3/ia) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [Sch. 12 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2021/786/schedule/12/paragraph/8/2/a)
+[^c-5505bbd57a9252740b31470140ed45bb]: Textual amendment: [Sch. 4 para. 11(3)(a)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/3/a)[(ia)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/3/ia) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [Sch. 12 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2021/786/schedule/12/paragraph/8/2/a)
 
-[^key-5b90d8a5bfbf054e53390387b3e0b47d]: Textual amendment: [Sch. 4 para. 11(3)(a)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/3/a)[(ib)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/3/ib) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(a)(i)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/a/i)
+[^c-5b90d8a5bfbf054e53390387b3e0b47d]: Textual amendment: [Sch. 4 para. 11(3)(a)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/3/a)[(ib)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/3/ib) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(a)(i)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/a/i)
 
-[^key-f53be45688944319a5ddb8473df7f3e2]: Textual amendment: Word in [Sch. 4 para. 11(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/3/a/ii) omitted (21.3.2022) by virtue of [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(a)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/a/i)
+[^c-f53be45688944319a5ddb8473df7f3e2]: Textual amendment: Word in [Sch. 4 para. 11(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/3/a/ii) omitted (21.3.2022) by virtue of [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(a)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/a/i)
 
-[^key-403e2666bc9059cb686d3949d7e65c35]: Textual amendment: [Sch. 4 para. 11(3)(a)(iia)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/3/a) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(a)(i)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/a/i)
+[^c-403e2666bc9059cb686d3949d7e65c35]: Textual amendment: [Sch. 4 para. 11(3)(a)(iia)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/3/a) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(a)(i)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/a/i)
 
-[^key-3327f528569d018c391666e7cfec19dc]: Textual amendment: [Sch. 4 para. 11(3)(a)(iv)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/3/a/iv) and word inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/a/ii)
+[^c-3327f528569d018c391666e7cfec19dc]: Textual amendment: [Sch. 4 para. 11(3)(a)(iv)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/3/a/iv) and word inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/a/ii)
 
-[^key-5e421f9a6a387746183750ec827afe1a]: Textual amendment: Words in Sch. 4 para. 11(3)(b) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(d)(ii)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/d/ii)
+[^c-5e421f9a6a387746183750ec827afe1a]: Textual amendment: Words in Sch. 4 para. 11(3)(b) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(d)(ii)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/d/ii)
 
-[^key-15e25f3457e0edbeeffdb95a82fda73c]: Textual amendment: [Sch. 4 para. 11(6)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6) substituted (27.1.2025) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/3)](https://www.legislation.gov.uk/nisr/2025/3), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/nisr/2025/3/regulation/5/2/a)
+[^c-15e25f3457e0edbeeffdb95a82fda73c]: Textual amendment: [Sch. 4 para. 11(6)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6) substituted (27.1.2025) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/3)](https://www.legislation.gov.uk/nisr/2025/3), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/nisr/2025/3/regulation/5/2/a)
 
-[^key-4ee091f8589ff565fd7629d67741531c]: Textual amendment: Sch. 4 para. 11(6A) inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(e)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/e)
+[^c-4ee091f8589ff565fd7629d67741531c]: Textual amendment: Sch. 4 para. 11(6A) inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(e)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/e)
 
-[^key-b5d447eb6a5a4c6743a32aec89beeede]: Textual amendment: [Sch. 4 para. 11(6A)(a)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/a)[(ia)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/ia) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [Sch. 12 para. 8(2)(c)](https://www.legislation.gov.uk/uksi/2021/786/schedule/12/paragraph/8/2/c)
+[^c-b5d447eb6a5a4c6743a32aec89beeede]: Textual amendment: [Sch. 4 para. 11(6A)(a)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/a)[(ia)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/ia) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [Sch. 12 para. 8(2)(c)](https://www.legislation.gov.uk/uksi/2021/786/schedule/12/paragraph/8/2/c)
 
-[^key-8617137933d3caa63217b935213cd739]: Textual amendment: [Sch. 4 para. 11(6A)(a)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/a)[(ib)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/ib) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/a/ii)
+[^c-8617137933d3caa63217b935213cd739]: Textual amendment: [Sch. 4 para. 11(6A)(a)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/a)[(ib)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/ib) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/a/ii)
 
-[^key-f2ad00f5a8e9c5b5b6d519157a67cc1c]: Textual amendment: Words in [Sch. 4 para. 11(6A)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/a/ii) omitted (27.1.2025) by virtue of [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/3)](https://www.legislation.gov.uk/nisr/2025/3), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2), [5(2)(b)(i)](https://www.legislation.gov.uk/nisr/2025/3/regulation/5/2/b/i)
+[^c-f2ad00f5a8e9c5b5b6d519157a67cc1c]: Textual amendment: Words in [Sch. 4 para. 11(6A)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/a/ii) omitted (27.1.2025) by virtue of [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/3)](https://www.legislation.gov.uk/nisr/2025/3), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2), [5(2)(b)(i)](https://www.legislation.gov.uk/nisr/2025/3/regulation/5/2/b/i)
 
-[^key-605e8d26267f653f8bcd7d192d4918ab]: Textual amendment: [Sch. 4 para. 11(6A)(a)(iia)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/a) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/a/ii)
+[^c-605e8d26267f653f8bcd7d192d4918ab]: Textual amendment: [Sch. 4 para. 11(6A)(a)(iia)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/a) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/a/ii)
 
-[^key-a0fce1813e5b14db10f401532e908939]: Textual amendment: Words in [Sch. 4 para. 11(6A)(a)(iia)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/a) omitted (27.1.2025) by virtue of [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/3)](https://www.legislation.gov.uk/nisr/2025/3), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2), [5(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2025/3/regulation/5/2/b/ii)
+[^c-a0fce1813e5b14db10f401532e908939]: Textual amendment: Words in [Sch. 4 para. 11(6A)(a)(iia)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/a) omitted (27.1.2025) by virtue of [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/3)](https://www.legislation.gov.uk/nisr/2025/3), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2), [5(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2025/3/regulation/5/2/b/ii)
 
-[^key-87db493bc3208a83e0609047f850d6ff]: Textual amendment: Word in [Sch. 4 para. 11(6A)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/a/iii) omitted (21.3.2022) by virtue of [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(b)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/b/i)
+[^c-87db493bc3208a83e0609047f850d6ff]: Textual amendment: Word in [Sch. 4 para. 11(6A)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/a/iii) omitted (21.3.2022) by virtue of [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(b)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/b/i)
 
-[^key-8f80bdb128b61c7d3b13757ba1b3d22c]: Textual amendment: [Sch. 4 para. 11(6A)(a)(iv)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/a/iv) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/b/ii)
+[^c-8f80bdb128b61c7d3b13757ba1b3d22c]: Textual amendment: [Sch. 4 para. 11(6A)(a)(iv)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/11/6A/a/iv) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/b/ii)
 
-[^key-ed666701217fbee23b005d4a19b1a4c8]: Textual amendment: Sch. 4 para. 11(7) omitted (coming into force in accordance with reg. 1(3) of the amending Rule) by virtue of [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(f)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/f)
+[^c-ed666701217fbee23b005d4a19b1a4c8]: Textual amendment: Sch. 4 para. 11(7) omitted (coming into force in accordance with reg. 1(3) of the amending Rule) by virtue of [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(f)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/f)
 
-[^key-b5028659673117f32755db568ecc2921]: Textual amendment: Sch. 4 para. 11(9) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(g)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/g)
+[^c-b5028659673117f32755db568ecc2921]: Textual amendment: Sch. 4 para. 11(9) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/70)](https://www.legislation.gov.uk/nisr/2017/70), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/70/regulation/1/3), [4(g)](https://www.legislation.gov.uk/nisr/2017/70/regulation/4/g)
 
 [^M_F_214f79b5-3878-4dab-957a-413d777ba74e]: Textual amendment: Sum in Sch. 4 para. 13(1) substituted (coming into operation in accordance with art. 1(1)(n) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(n)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/n), [32(3)](https://www.legislation.gov.uk/nisr/2026/59/article/32/3)
 
-[^key-7091576311c45a74abebfb3f15cc74eb]: Modification: Sum in Sch. 4 para. 13(3)(a) substituted (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(3)(b)](https://www.legislation.gov.uk/nisr/2018/56/article/27/3/b)
+[^c-7091576311c45a74abebfb3f15cc74eb]: Modification: Sum in Sch. 4 para. 13(3)(a) substituted (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(3)(b)](https://www.legislation.gov.uk/nisr/2018/56/article/27/3/b)
 
-[^key-672cc560236d4694e53dd96b3d718abe]: Textual amendment: [Sch. 4 para. 14(2)(ba)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/ba) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [Sch. 12 para. 8(3)](https://www.legislation.gov.uk/uksi/2021/786/schedule/12/paragraph/8/3)
+[^c-672cc560236d4694e53dd96b3d718abe]: Textual amendment: [Sch. 4 para. 14(2)(ba)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/ba) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [Sch. 12 para. 8(3)](https://www.legislation.gov.uk/uksi/2021/786/schedule/12/paragraph/8/3)
 
-[^key-9984e6c40241d5fb6e49dc5c39d14a01]: Textual amendment: [Sch. 4 para. 14(2)(bb)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/bb) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(b)(i)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/b/i)
+[^c-9984e6c40241d5fb6e49dc5c39d14a01]: Textual amendment: [Sch. 4 para. 14(2)(bb)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/bb) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(b)(i)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/b/i)
 
-[^key-628738b3ae15a8aeada08040c7b814d2]: Textual amendment: Words in [Sch. 4 para. 14(2)(bb)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/bb) omitted (16.7.2026) by virtue of [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [17](https://www.legislation.gov.uk/uksi/2026/679/article/17)
+[^c-628738b3ae15a8aeada08040c7b814d2]: Textual amendment: Words in [Sch. 4 para. 14(2)(bb)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/bb) omitted (16.7.2026) by virtue of [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [17](https://www.legislation.gov.uk/uksi/2026/679/article/17)
 
-[^key-f15b99bd185552cf082e14da8be0d6b7]: Textual amendment: [Sch. 4 para. 14(2)(ca)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/ca) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(b)(i)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/b/i)
+[^c-f15b99bd185552cf082e14da8be0d6b7]: Textual amendment: [Sch. 4 para. 14(2)(ca)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/ca) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(b)(i)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/b/i)
 
-[^key-c7461f251631ca2c8de4f854e7c67e0a]: Textual amendment: [Sch. 4 para. 14(2)(da)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/da) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(c)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/c)
+[^c-c7461f251631ca2c8de4f854e7c67e0a]: Textual amendment: [Sch. 4 para. 14(2)(da)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/da) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(c)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/c)
 
-[^key-1322cc6788d2ce7d3a830b9db19dedb6]: Textual amendment: Words in [Sch. 4 para. 14(2)(da)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/da) omitted (16.7.2026) by virtue of [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [17](https://www.legislation.gov.uk/uksi/2026/679/article/17)
+[^c-1322cc6788d2ce7d3a830b9db19dedb6]: Textual amendment: Words in [Sch. 4 para. 14(2)(da)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/da) omitted (16.7.2026) by virtue of [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [17](https://www.legislation.gov.uk/uksi/2026/679/article/17)
 
-[^key-58997db013245e139403515af6f9f2e2]: Textual amendment: Word in [Sch. 4 para. 14(2)(e)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/b/ii/aa)
+[^c-58997db013245e139403515af6f9f2e2]: Textual amendment: Word in [Sch. 4 para. 14(2)(e)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/b/ii/aa)
 
-[^key-4227f94ded0eabfc62834148806ba391]: Textual amendment: Words in [Sch. 4 para. 14(2)(e)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e) substituted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(d)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/d/i)
+[^c-4227f94ded0eabfc62834148806ba391]: Textual amendment: Words in [Sch. 4 para. 14(2)(e)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e) substituted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(d)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/d/i)
 
-[^key-ad6dd1bd5e6346f34cae499484e2728b]: Textual amendment: Word in [Sch. 4 para. 14(2)(e)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/b/ii/aa)
+[^c-ad6dd1bd5e6346f34cae499484e2728b]: Textual amendment: Word in [Sch. 4 para. 14(2)(e)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/b/ii/aa)
 
 [^c22824871]: Marginal citation: SR. [1992 No. 32](https://www.legislation.gov.uk/ukcm/1992/32); regulation 8 was amended by regulation 3(2) of S.R. [1992 No. 481](https://www.legislation.gov.uk/ukcm/1992/481), [regulation 4(2)](https://www.legislation.gov.uk/ukcm/1992/481/regulation/4/2) of S.R. [1999 No. 221](https://www.legislation.gov.uk/ukcm/1999/221) and regulation 3(2) of S.R. [2000 No. 195](https://www.legislation.gov.uk/ukcm/2000/195).
 
@@ -857,100 +857,100 @@ where—
 
 [^c22824891]: Marginal citation: S.R. [1984 No. 92](https://www.legislation.gov.uk/ukcm/1984/92).
 
-[^key-a4cbd0cd6daabc19ae54af24fccc27ec]: Textual amendment: Word in [Sch. 4 para. 14(2)(e)(iii)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e/iii) omitted (21.3.2022) by virtue of [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/d/ii)
+[^c-a4cbd0cd6daabc19ae54af24fccc27ec]: Textual amendment: Word in [Sch. 4 para. 14(2)(e)(iii)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e/iii) omitted (21.3.2022) by virtue of [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/d/ii)
 
-[^key-4e119bc90170fee1395540f61a896e4d]: Textual amendment: Word in [Sch. 4 para. 14(2)(e)(iv)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e/iv) omitted (21.10.2024) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/b/ii/bb)
+[^c-4e119bc90170fee1395540f61a896e4d]: Textual amendment: Word in [Sch. 4 para. 14(2)(e)(iv)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e/iv) omitted (21.10.2024) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/b/ii/bb)
 
-[^key-7f7c5fa3d6fbbe338683d06f51b9efe9]: Textual amendment: [Sch. 4 para. 14(2)(e)(v)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e/v) and word inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(d)(iii)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/d/iii)
+[^c-7f7c5fa3d6fbbe338683d06f51b9efe9]: Textual amendment: [Sch. 4 para. 14(2)(e)(v)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e/v) and word inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(d)(iii)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/d/iii)
 
-[^key-8098d0c2aca1b3fb307a25fa9b8dc613]: Textual amendment: Word in [Sch. 4 para. 14(2)(e)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/b/ii/bb)
+[^c-8098d0c2aca1b3fb307a25fa9b8dc613]: Textual amendment: Word in [Sch. 4 para. 14(2)(e)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/b/ii/bb)
 
-[^key-45eb5ce4db79769738bbe50527d57584]: Textual amendment: [Sch. 4 para. 14(2)(e)(vi)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e/vi) and word inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/b/ii/cc)
+[^c-45eb5ce4db79769738bbe50527d57584]: Textual amendment: [Sch. 4 para. 14(2)(e)(vi)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e/vi) and word inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/b/ii/cc)
 
-[^key-4517e6c46cc54f02f57c5362072a6bad]: Textual amendment: [Sch. 4 para. 14(2)(e)(vii)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e/vii) and word inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/b/ii/cc)
+[^c-4517e6c46cc54f02f57c5362072a6bad]: Textual amendment: [Sch. 4 para. 14(2)(e)(vii)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/14/2/e/vii) and word inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/b/ii/cc)
 
-[^key-754e5510a7283063c4ab87b6f7e3b8da]: Textual amendment: [Sch. 4 para. 15(2)(ca)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/ca) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(c)(i)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/c/i)
+[^c-754e5510a7283063c4ab87b6f7e3b8da]: Textual amendment: [Sch. 4 para. 15(2)(ca)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/ca) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(c)(i)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/c/i)
 
-[^key-9573ca3a416adb9b3c0f57a3dac4e7c7]: Textual amendment: [Sch. 4 para. 15(2)(da)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/da) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(c)(i)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/c/i)
+[^c-9573ca3a416adb9b3c0f57a3dac4e7c7]: Textual amendment: [Sch. 4 para. 15(2)(da)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/da) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(c)(i)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/c/i)
 
-[^key-7ac1498964f7caa3f24b84dd3220f4ab]: Textual amendment: [Sch. 4 para. 15(2)(ea)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/ea) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(e)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/e)
+[^c-7ac1498964f7caa3f24b84dd3220f4ab]: Textual amendment: [Sch. 4 para. 15(2)(ea)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/ea) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(e)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/e)
 
-[^key-d26e35641303f96859f0ec572073ad33]: Textual amendment: Words in [Sch. 4 para. 15(2)(f)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/c/ii/aa)
+[^c-d26e35641303f96859f0ec572073ad33]: Textual amendment: Words in [Sch. 4 para. 15(2)(f)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/c/ii/aa)
 
-[^key-f2307498e3db8d609990161275f8ccfe]: Textual amendment: Words in [Sch. 4 para. 15(2)(f)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f) substituted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(f)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/f/i)
+[^c-f2307498e3db8d609990161275f8ccfe]: Textual amendment: Words in [Sch. 4 para. 15(2)(f)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f) substituted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(f)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/f/i)
 
-[^key-a110a32573e7cfc572bd325ba764f22b]: Textual amendment: Word in [Sch. 4 para. 15(2)(f)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/c/ii/aa)
+[^c-a110a32573e7cfc572bd325ba764f22b]: Textual amendment: Word in [Sch. 4 para. 15(2)(f)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/c/ii/aa)
 
-[^key-db708fdb93523e569479e7fbe02d6cf9]: Textual amendment: Words in Sch. 4 para. 15(2)(f)(iii) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by virtue of [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(17)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/17)
+[^c-db708fdb93523e569479e7fbe02d6cf9]: Textual amendment: Words in Sch. 4 para. 15(2)(f)(iii) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by virtue of [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(17)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/17)
 
-[^key-dfd227f0fc2992c8c21225dd0035b87e]: Textual amendment: Word in [Sch. 4 para. 15(2)(f)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f) omitted (21.3.2022) by virtue of [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(f)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/f/ii)
+[^c-dfd227f0fc2992c8c21225dd0035b87e]: Textual amendment: Word in [Sch. 4 para. 15(2)(f)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f) omitted (21.3.2022) by virtue of [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(f)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/f/ii)
 
-[^key-2b2d5baeab7a0814d899247255008ec3]: Textual amendment: Word in [Sch. 4 para. 15(2)(f)(iv)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f/iv) omitted (21.10.2024) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/c/ii/bb)
+[^c-2b2d5baeab7a0814d899247255008ec3]: Textual amendment: Word in [Sch. 4 para. 15(2)(f)(iv)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f/iv) omitted (21.10.2024) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/c/ii/bb)
 
-[^key-d74c8fa14cce029742244dac85d89095]: Textual amendment: [Sch. 4 para. 15(2)(f)(v)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f/v) and word inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(f)(iii)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/f/iii)
+[^c-d74c8fa14cce029742244dac85d89095]: Textual amendment: [Sch. 4 para. 15(2)(f)(v)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f/v) and word inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(f)(iii)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/f/iii)
 
-[^key-8dec9668dd308c1a34f45cc9f9b80a99]: Textual amendment: Word in [Sch. 4 para. 15(2)(f)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/c/ii/bb)
+[^c-8dec9668dd308c1a34f45cc9f9b80a99]: Textual amendment: Word in [Sch. 4 para. 15(2)(f)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/c/ii/bb)
 
-[^key-9670d682c47a51c9d0c4a051133307ef]: Textual amendment: [Sch. 4 para. 15(2)(f)(vi)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f/vi) and word inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(c)(ii)(cc)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/c/ii/cc)
+[^c-9670d682c47a51c9d0c4a051133307ef]: Textual amendment: [Sch. 4 para. 15(2)(f)(vi)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f/vi) and word inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [30(7)(c)(ii)(cc)](https://www.legislation.gov.uk/uksi/2024/919/article/30/7/c/ii/cc)
 
-[^key-d117d1829d115a7c04e48cbe97d96293]: Textual amendment: [Sch. 4 para. 15(2)(f)(vii)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f/vii) and word inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(c)(ii)(cc)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/c/ii/cc)
+[^c-d117d1829d115a7c04e48cbe97d96293]: Textual amendment: [Sch. 4 para. 15(2)(f)(vii)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/f/vii) and word inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(c)(ii)(cc)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/c/ii/cc)
 
-[^key-ddaa3600a6fd7b198c849c0f34b8d85f]: Textual amendment: [Sch. 4 para. 15(2)(ga)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/ga) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [51(8)](https://www.legislation.gov.uk/uksi/2023/1218/article/51/8)
+[^c-ddaa3600a6fd7b198c849c0f34b8d85f]: Textual amendment: [Sch. 4 para. 15(2)(ga)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/15/2/ga) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [51(8)](https://www.legislation.gov.uk/uksi/2023/1218/article/51/8)
 
-[^key-693b5ee8369b1edeb2e0b9f97d1d0563]: Textual amendment: [Sch. 4 para. 16(3)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/16/3) substituted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(19)(b)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/19/b) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
+[^c-693b5ee8369b1edeb2e0b9f97d1d0563]: Textual amendment: [Sch. 4 para. 16(3)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/16/3) substituted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(19)(b)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/19/b) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
 
-[^key-f5cfba6bd70ca899677e995e157590bf]: Textual amendment: Words in [Sch. 4 Pt. 4](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/part/4) heading omitted (8.5.2018) by virtue of [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(19)(c)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/19/c) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
+[^c-f5cfba6bd70ca899677e995e157590bf]: Textual amendment: Words in [Sch. 4 Pt. 4](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/part/4) heading omitted (8.5.2018) by virtue of [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(19)(c)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/19/c) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
 
-[^key-7cde4e2468e1c4a764a9fccc9cd9165d]: Textual amendment: [Sch. 4 para. 19(1)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/19/1) substituted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(19)(d)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/19/d) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
+[^c-7cde4e2468e1c4a764a9fccc9cd9165d]: Textual amendment: [Sch. 4 para. 19(1)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/19/1) substituted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(19)(d)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/19/d) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
 
-[^key-3e2959c2ec8df613270989bcbb80f2b4]: Textual amendment: [Sch. 4 para. 20](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/20) omitted (8.5.2018) by virtue of [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(19)(e)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/19/e) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
+[^c-3e2959c2ec8df613270989bcbb80f2b4]: Textual amendment: [Sch. 4 para. 20](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/20) omitted (8.5.2018) by virtue of [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(19)(e)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/19/e) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
 
-[^key-20eb16cc95a5550e092781533f84748b]: Modification: Sum in Sch. 4 para. 23(4) specified (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2018/56/article/27), [Sch. 17](https://www.legislation.gov.uk/nisr/2018/56/schedule/17)
+[^c-20eb16cc95a5550e092781533f84748b]: Modification: Sum in Sch. 4 para. 23(4) specified (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2018/56/article/27), [Sch. 17](https://www.legislation.gov.uk/nisr/2018/56/schedule/17)
 
-[^key-f62a7985da669bfd423bbbf936661b34]: Textual amendment: Word in [Sch. 4 para. 28(1)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/1) substituted (1.10.2022) by [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/3/a)
+[^c-f62a7985da669bfd423bbbf936661b34]: Textual amendment: Word in [Sch. 4 para. 28(1)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/1) substituted (1.10.2022) by [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/3/a)
 
-[^key-ebcd3f6c52056807d64db4d76191c019]: Textual amendment: Words in [Sch. 4 para. 28(2)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/2) substituted (31.5.2021) by [The Housing Benefit and Universal Credit (Care Leavers and Homeless) Regulations (Northern Ireland) 2021 (S.R. 2021/118)](https://www.legislation.gov.uk/nisr/2021/118), [regs. 1](https://www.legislation.gov.uk/nisr/2021/118/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2021/118/regulation/3/2/a)
+[^c-ebcd3f6c52056807d64db4d76191c019]: Textual amendment: Words in [Sch. 4 para. 28(2)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/2) substituted (31.5.2021) by [The Housing Benefit and Universal Credit (Care Leavers and Homeless) Regulations (Northern Ireland) 2021 (S.R. 2021/118)](https://www.legislation.gov.uk/nisr/2021/118), [regs. 1](https://www.legislation.gov.uk/nisr/2021/118/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2021/118/regulation/3/2/a)
 
-[^key-d3298cb236bccb8a12d65b949ae9e2dc]: Textual amendment: Word in [Sch. 4 para. 28(3)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/3) substituted (31.5.2021) by [The Housing Benefit and Universal Credit (Care Leavers and Homeless) Regulations (Northern Ireland) 2021 (S.R. 2021/118)](https://www.legislation.gov.uk/nisr/2021/118), [regs. 1](https://www.legislation.gov.uk/nisr/2021/118/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2021/118/regulation/3/2/b)
+[^c-d3298cb236bccb8a12d65b949ae9e2dc]: Textual amendment: Word in [Sch. 4 para. 28(3)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/3) substituted (31.5.2021) by [The Housing Benefit and Universal Credit (Care Leavers and Homeless) Regulations (Northern Ireland) 2021 (S.R. 2021/118)](https://www.legislation.gov.uk/nisr/2021/118), [regs. 1](https://www.legislation.gov.uk/nisr/2021/118/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2021/118/regulation/3/2/b)
 
-[^key-3b70f5475a2e88d37276014af3184281]: Textual amendment: [Sch. 4 para. 28(4)(aa)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/4/aa) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [Sch. 12 para. 8(4)](https://www.legislation.gov.uk/uksi/2021/786/schedule/12/paragraph/8/4)
+[^c-3b70f5475a2e88d37276014af3184281]: Textual amendment: [Sch. 4 para. 28(4)(aa)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/4/aa) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [Sch. 12 para. 8(4)](https://www.legislation.gov.uk/uksi/2021/786/schedule/12/paragraph/8/4)
 
-[^key-6e355a2931b6e8fb2f8838abb646a783]: Textual amendment: [Sch. 4 para. 28(4)(ab)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/4/ab) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(d)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/d)
+[^c-6e355a2931b6e8fb2f8838abb646a783]: Textual amendment: [Sch. 4 para. 28(4)(ab)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/4/ab) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(8)(d)](https://www.legislation.gov.uk/uksi/2025/227/article/32/8/d)
 
-[^key-83aedc1fc43bba554452b40c5f71318c]: Textual amendment: Word in [Sch. 4 para. 28(4)(b)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/4/b) omitted (21.3.2022) by virtue of [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(g)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/g/i)
+[^c-83aedc1fc43bba554452b40c5f71318c]: Textual amendment: Word in [Sch. 4 para. 28(4)(b)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/4/b) omitted (21.3.2022) by virtue of [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(g)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/g/i)
 
-[^key-b9498e008cde883c646cc52bdc793225]: Textual amendment: [Sch. 4 para. 28(4)(d)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/4/d) and word inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(g)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/g/ii)
+[^c-b9498e008cde883c646cc52bdc793225]: Textual amendment: [Sch. 4 para. 28(4)(d)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/4/d) and word inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(8)(g)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/28/8/g/ii)
 
 [^c22824911]: Marginal citation: [S.I. 2008/1216 (N.I.1)](https://www.legislation.gov.uk/nisi/2008/1216).
 
-[^key-3af381f949f0d076bac4e0c80a264181]: Textual amendment: Sch. 4 para. 28(5A) inserted (28.11.2018) by [The Universal Credit and Jobseekers Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/187)](https://www.legislation.gov.uk/nisr/2018/187), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/187/regulation/1/2), [3(8)(c)(ii)](https://www.legislation.gov.uk/nisr/2018/187/regulation/3/8/c/ii)
+[^c-3af381f949f0d076bac4e0c80a264181]: Textual amendment: Sch. 4 para. 28(5A) inserted (28.11.2018) by [The Universal Credit and Jobseekers Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/187)](https://www.legislation.gov.uk/nisr/2018/187), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/187/regulation/1/2), [3(8)(c)(ii)](https://www.legislation.gov.uk/nisr/2018/187/regulation/3/8/c/ii)
 
-[^key-4bc6467421c34a744cb79b0c485168b8]: Textual amendment: [Sch. 4 para. 28(5B)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/5B)[(5C)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/5C) inserted (1.10.2022) by [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/3/b)
+[^c-4bc6467421c34a744cb79b0c485168b8]: Textual amendment: [Sch. 4 para. 28(5B)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/5B)[(5C)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/5C) inserted (1.10.2022) by [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/3/b)
 
-[^key-f51e011b3f7689620b5491bb8a2c805b]: Textual amendment: Words in [Sch. 4 para. 28(6)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/6) inserted (1.10.2022) by [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(3)(c)(i)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/3/c/i)
+[^c-f51e011b3f7689620b5491bb8a2c805b]: Textual amendment: Words in [Sch. 4 para. 28(6)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/6) inserted (1.10.2022) by [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(3)(c)(i)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/3/c/i)
 
-[^key-f78d71e280964858e4b67f95a1777b02]: Textual amendment: Words in [Sch. 4 para. 28(6)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/6) inserted (1.10.2022) by [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/3/c/ii)
+[^c-f78d71e280964858e4b67f95a1777b02]: Textual amendment: Words in [Sch. 4 para. 28(6)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/28/6) inserted (1.10.2022) by [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/3/c/ii)
 
-[^key-b2b1ba39061f040c13316741f271e0c5]: Modification: Sch. 4 Pt. 5 applied by [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006), art. 137A(2)(c) (as inserted (13.10.2016) by The Welfare Reform and Work (Northern Ireland) Order 2016 ([S.I. 2016/999 (N.I. 1)](https://www.legislation.gov.uk/uksi/2016/999)), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2016/999/article/2/2/d), [19(2)](https://www.legislation.gov.uk/uksi/2016/999/article/19/2))
+[^c-b2b1ba39061f040c13316741f271e0c5]: Modification: Sch. 4 Pt. 5 applied by [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006), art. 137A(2)(c) (as inserted (13.10.2016) by The Welfare Reform and Work (Northern Ireland) Order 2016 ([S.I. 2016/999 (N.I. 1)](https://www.legislation.gov.uk/uksi/2016/999)), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2016/999/article/2/2/d), [19(2)](https://www.legislation.gov.uk/uksi/2016/999/article/19/2))
 
-[^key-90ebc26ae7b62823c2c31cc31f64a504]: Textual amendment: Words in [Sch. 4 Pt. 5](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/part/5) heading omitted (8.5.2018) by virtue of [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(19)(f)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/19/f) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
+[^c-90ebc26ae7b62823c2c31cc31f64a504]: Textual amendment: Words in [Sch. 4 Pt. 5](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/part/5) heading omitted (8.5.2018) by virtue of [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(19)(f)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/19/f) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
 
-[^key-5a273be74b7604e7cfcb0a21823e68b7]: Textual amendment: [Sch. 4 para. 29(1)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/29/1) substituted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(19)(g)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/19/g) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
+[^c-5a273be74b7604e7cfcb0a21823e68b7]: Textual amendment: [Sch. 4 para. 29(1)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/29/1) substituted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(19)(g)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/19/g) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
 
-[^key-095454861da6bf9dd07bd5ddcdf6b3cf]: Modification: Sum in Sch. 4 para. 32 specified (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2018/56/article/27), [Sch. 17](https://www.legislation.gov.uk/nisr/2018/56/schedule/17)
+[^c-095454861da6bf9dd07bd5ddcdf6b3cf]: Modification: Sum in Sch. 4 para. 32 specified (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2018/56/article/27), [Sch. 17](https://www.legislation.gov.uk/nisr/2018/56/schedule/17)
 
-[^key-2ace76c71b1e5648e6c6ac0f324f15df]: Modification: Sum in Sch. 4 para. 34(4) specified (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2018/56/article/27), [Sch. 17](https://www.legislation.gov.uk/nisr/2018/56/schedule/17)
+[^c-2ace76c71b1e5648e6c6ac0f324f15df]: Modification: Sum in Sch. 4 para. 34(4) specified (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2018/56/article/27), [Sch. 17](https://www.legislation.gov.uk/nisr/2018/56/schedule/17)
 
-[^key-5c3deec80fd14b69c697008bf869ee58]: Modification: Sch. 4 para. 35 applied by [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006), art. 137A(2)(d) (as inserted (13.10.2016) by The Welfare Reform and Work (Northern Ireland) Order 2016 ([S.I. 2016/999 (N.I. 1)](https://www.legislation.gov.uk/uksi/2016/999)), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2016/999/article/2), [19(2)](https://www.legislation.gov.uk/uksi/2016/999/article/19))
+[^c-5c3deec80fd14b69c697008bf869ee58]: Modification: Sch. 4 para. 35 applied by [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006), art. 137A(2)(d) (as inserted (13.10.2016) by The Welfare Reform and Work (Northern Ireland) Order 2016 ([S.I. 2016/999 (N.I. 1)](https://www.legislation.gov.uk/uksi/2016/999)), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2016/999/article/2), [19(2)](https://www.legislation.gov.uk/uksi/2016/999/article/19))
 
-[^key-6cf59e19a5d82b9ae7950ca645544730]: Modification: Sum in Sch. 4 para. 35(2) specified (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2018/56/article/27), [Sch. 17](https://www.legislation.gov.uk/nisr/2018/56/schedule/17)
+[^c-6cf59e19a5d82b9ae7950ca645544730]: Modification: Sum in Sch. 4 para. 35(2) specified (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2018/56/article/27), [Sch. 17](https://www.legislation.gov.uk/nisr/2018/56/schedule/17)
 
-[^key-b2980a5f1817ebdfab4d1bd0ebf25dba]: Modification: Sum in Sch. 4 para. 35(3) specified (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2018/56/article/27), [Sch. 17](https://www.legislation.gov.uk/nisr/2018/56/schedule/17)
+[^c-b2980a5f1817ebdfab4d1bd0ebf25dba]: Modification: Sum in Sch. 4 para. 35(3) specified (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2018/56/article/27), [Sch. 17](https://www.legislation.gov.uk/nisr/2018/56/schedule/17)
 
-[^key-7544673e08d52d403cfdc8f2be14182f]: Modification: Sum in Sch. 4 para. 35(4) specified (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2018/56/article/27), [Sch. 17](https://www.legislation.gov.uk/nisr/2018/56/schedule/17)
+[^c-7544673e08d52d403cfdc8f2be14182f]: Modification: Sum in Sch. 4 para. 35(4) specified (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2018/56/article/27), [Sch. 17](https://www.legislation.gov.uk/nisr/2018/56/schedule/17)
 
-[^key-74cd52f5030adde448cb296a5de5adc5]: Textual amendment: [Sch. 4 para. 35(6)(a)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/35/5/a)[(b)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/35/5/b) inserted (1.10.2021) by [The Housing Benefit and Universal Credit (Sanctuary Schemes) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/248)](https://www.legislation.gov.uk/nisr/2021/248), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/248/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2021/248/regulation/3)
+[^c-74cd52f5030adde448cb296a5de5adc5]: Textual amendment: [Sch. 4 para. 35(6)(a)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/35/5/a)[(b)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/35/5/b) inserted (1.10.2021) by [The Housing Benefit and Universal Credit (Sanctuary Schemes) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/248)](https://www.legislation.gov.uk/nisr/2021/248), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/248/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2021/248/regulation/3)
 
-[^key-64933fdb6519daf965938d7d20c717d2]: Textual amendment: Words in [Sch. 4 para. 35(6)(b)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/35/6/b) substituted (1.10.2022) by [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/4/a)
+[^c-64933fdb6519daf965938d7d20c717d2]: Textual amendment: Words in [Sch. 4 para. 35(6)(b)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/35/6/b) substituted (1.10.2022) by [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/4/a)
 
-[^key-23dbd66f485d13da5823e4b588718b8f]: Textual amendment: Word in [Sch. 4 para. 35(6)(b)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/35/6/b) omitted (1.10.2022) by virtue of [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/4/b)
+[^c-23dbd66f485d13da5823e4b588718b8f]: Textual amendment: Word in [Sch. 4 para. 35(6)(b)](https://www.legislation.gov.uk/nisr/2016/216/schedule/4/paragraph/35/6/b) omitted (1.10.2022) by virtue of [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/nisr/2022/211/regulation/3/4/b)

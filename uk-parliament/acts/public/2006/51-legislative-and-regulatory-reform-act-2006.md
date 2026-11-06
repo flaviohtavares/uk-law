@@ -61,7 +61,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - (a) a public general Act or local Act (whether passed before or after the commencement of this section), [^c2021127]...
 - (aa)[^c2021143] a Measure or Act of the Assembly,
-- (ab)[^key-c70a4af2875f91315960fca7258ff998] any assimilated direct[^key-183eb6ccd54b440a40adcccdac6e6e72] legislation, or
+- (ab)[^c-c70a4af2875f91315960fca7258ff998] any assimilated direct[^c-183eb6ccd54b440a40adcccdac6e6e72] legislation, or
 - (b)[^c2021143] any Order in Council, order, rules, regulations, scheme, warrant, byelaw or other subordinate instrument made at any time under— ,[^c2021148]
 - (a) an Act referred to in paragraph (a), or
 - (b) a Measure or Act of the Assembly,
@@ -219,7 +219,7 @@ the reference in subsection (1)(b)(ii) to a fine exceeding level 5 on the standa
 
 (4) If an order under this Part making provision creating an offence, or altering the penalty for an offence, is made before the date on which section 281(5) of the Criminal Justice Act 2003 (c. 44) comes into force, the order must provide that, in relation to a summary offence committed before that date, any reference to a term of imprisonment of 51 weeks is to be read as a reference to six months.
 
-(5) If an order under this Part making provision creating an offence, or altering the penalty for an offence, is made before 2 May 2022[^key-c97ba5f575207453d1d61e17f723bd55], the order must provide that, in relation to an offence triable either way committed before that date, any reference to a term of imprisonment of twelve months is to be read as a reference to six months.
+(5) If an order under this Part making provision creating an offence, or altering the penalty for an offence, is made before 2 May 2022[^c-c97ba5f575207453d1d61e17f723bd55], the order must provide that, in relation to an offence triable either way committed before that date, any reference to a term of imprisonment of twelve months is to be read as a reference to six months.
 
 (6) Subsection (1) does not apply to provision which merely restates an enactment.
 
@@ -282,7 +282,7 @@ except with the agreement of the Welsh Ministers.
   - (ii) the affirmative resolution procedure (see section 17); or
   - (iii) the super-affirmative resolution procedure (see section 18).
 
-(3)[^key-91a57cbbfe1b2f09bdfb8823654c8d84] Paragraph 4 of Schedule 8 to the European Union (Withdrawal) Act 2018 (procedure for certain modifications of assimilated direct[^key-e9c490be37e152ee36e694694bad51fc] legislation [^key-9ab590e77968f938e884650b9214df03]...) does not apply in relation to orders under this Part.
+(3)[^c-91a57cbbfe1b2f09bdfb8823654c8d84] Paragraph 4 of Schedule 8 to the European Union (Withdrawal) Act 2018 (procedure for certain modifications of assimilated direct[^c-e9c490be37e152ee36e694694bad51fc] legislation [^c-9ab590e77968f938e884650b9214df03]...) does not apply in relation to orders under this Part.
 
 #### 13. Consultation
 
@@ -345,7 +345,7 @@ the requirements of this section shall be taken to have been satisfied in relati
 
 (6) In subsection (2)(e) “**function of legislating**” has the same meaning as in section 4.
 
-#### 15. Determination of Parliamentary procedure[^key-3312a01905550746d1564cdb90193571][^key-7da5d2e63a05a82e72f10363ca1f2ea1]
+#### 15. Determination of Parliamentary procedure[^c-3312a01905550746d1564cdb90193571][^c-7da5d2e63a05a82e72f10363ca1f2ea1]
 
 (1) The explanatory document laid with a draft order under section 14 must contain a recommendation by the Minister as to which of the following should apply in relation to the making of an order pursuant to the draft order—
 
@@ -371,7 +371,7 @@ the requirements of this section shall be taken to have been satisfied in relati
 
 (7) In this section the “**30-day period**” means the period of 30 days beginning with the day on which the draft order was laid before Parliament under section 14.
 
-#### 16. Negative resolution procedure[^key-3312a01905550746d1564cdb90193571][^key-7da5d2e63a05a82e72f10363ca1f2ea1]
+#### 16. Negative resolution procedure[^c-3312a01905550746d1564cdb90193571][^c-7da5d2e63a05a82e72f10363ca1f2ea1]
 
 (1) For the purposes of this Part, the “**negative resolution procedure**” in relation to the making of an order pursuant to a draft order laid under section 14 is as follows.
 
@@ -392,7 +392,7 @@ the requirements of this section shall be taken to have been satisfied in relati
 
 (8) For the purpose of calculating the 40-day period in a case where a recommendation is made under subsection (4) by a committee of either House but the recommendation is rejected by that House under subsection (5), no account shall be taken of any day between the day on which the recommendation was made and the day on which the recommendation was rejected.
 
-#### 17. Affirmative resolution procedure[^key-3312a01905550746d1564cdb90193571][^key-7da5d2e63a05a82e72f10363ca1f2ea1]
+#### 17. Affirmative resolution procedure[^c-3312a01905550746d1564cdb90193571][^c-7da5d2e63a05a82e72f10363ca1f2ea1]
 
 (1) For the purposes of this Part the “**affirmative resolution procedure**” in relation to the making of an order pursuant to a draft order laid under section 14 is as follows.
 
@@ -411,7 +411,7 @@ the requirements of this section shall be taken to have been satisfied in relati
 
 (7) For the purpose of calculating the 40-day period in a case where a recommendation is made under subsection (3) by a committee of either House but the recommendation is rejected by that House under subsection (4), no account shall be taken of any day between the day on which the recommendation was made and the day on which the recommendation was rejected.
 
-#### 18. Super-affirmative resolution procedure[^key-3312a01905550746d1564cdb90193571][^key-7da5d2e63a05a82e72f10363ca1f2ea1]
+#### 18. Super-affirmative resolution procedure[^c-3312a01905550746d1564cdb90193571][^c-7da5d2e63a05a82e72f10363ca1f2ea1]
 
 (1) For the purposes of this Part the “**super-affirmative resolution procedure**” in relation to the making of an order pursuant to a draft order laid under section 14 is as follows.
 
@@ -455,11 +455,11 @@ made during the 60-day period with regard to the draft order.
 
 ### General
 
-#### 19. Calculation of time periods[^key-3312a01905550746d1564cdb90193571][^key-7da5d2e63a05a82e72f10363ca1f2ea1]
+#### 19. Calculation of time periods[^c-3312a01905550746d1564cdb90193571][^c-7da5d2e63a05a82e72f10363ca1f2ea1]
 
 In calculating any period of days for the purposes of sections 15 to 18, no account shall be taken of any time during which Parliament is dissolved or prorogued or during which either House is adjourned for more than four days.
 
-#### 20. Combination with powers under European Communities Act 1972[^key-61dcc0afa283815eba792f8626192adf]
+#### 20. Combination with powers under European Communities Act 1972[^c-61dcc0afa283815eba792f8626192adf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -515,13 +515,13 @@ In calculating any period of days for the purposes of sections 15 to 18, no acco
 
 - (a) a regulatory function so far as exercisable in Scotland, if or to the extent that the function relates to matters which are not reserved matters;
 - (b) a regulatory function so far as exercisable in Northern Ireland, if or to the extent that the function relates to matters which are transferred matters; or
-- (c)[^key-5d77ee29798eb547d69191e7dff3ebbb] a Welsh regulatory function.
+- (c)[^c-5d77ee29798eb547d69191e7dff3ebbb] a Welsh regulatory function.
 
-(4) The Welsh Ministers[^c2021210] may by order in accordance with this section specify Welsh regulatory functions[^key-1a1f5b3fecff0b6433b8703208aa3db8] as functions to which sections 21 and 22 apply.
+(4) The Welsh Ministers[^c2021210] may by order in accordance with this section specify Welsh regulatory functions[^c-1a1f5b3fecff0b6433b8703208aa3db8] as functions to which sections 21 and 22 apply.
 
-(5)[^key-07a0e098c0e677b0aef36e39421c485e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-07a0e098c0e677b0aef36e39421c485e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^c2021314][^key-d584c70c1c2a0020878a84fb0182366e] Before making an order under this section, the authority making the order must consult the following—
+(6)[^c2021314][^c-d584c70c1c2a0020878a84fb0182366e] Before making an order under this section, the authority making the order must consult the following—
 
 - (a) any person (other than the authority) whose functions are to be specified in the order;
 - (b) such other persons as the authority considers appropriate.
@@ -539,9 +539,9 @@ In calculating any period of days for the purposes of sections 15 to 18, no acco
 - “**reserved matter**” and “**Scotland**” have the same meanings as in the Scotland Act 1998 (c. 46);
 - “**transferred matter**” and “**Northern Ireland**” have the same meanings as in the Northern Ireland Act 1998 (c. 47);
 - “**Wales**” has the same meaning as in the Government of Wales Act 2006[^c2021216].
-- [^key-4de206f0655bc5ab36f277fb8b292323]...
+- [^c-4de206f0655bc5ab36f277fb8b292323]...
 
-(11)[^key-385a57e3739789bd5196aa129d70bbec] For the purposes of this section a regulatory function is a ““Welsh regulatory function”” if or to the extent that it is exercisable in relation to Wales and is a function which—
+(11)[^c-385a57e3739789bd5196aa129d70bbec] For the purposes of this section a regulatory function is a ““Welsh regulatory function”” if or to the extent that it is exercisable in relation to Wales and is a function which—
 
 - (a) could be conferred by provision falling within the legislative competence of the National Assembly for Wales (see section 108A of the Government of Wales Act 2006), or
 - (b) relates to matters in respect of which functions are exercisable by the Welsh Ministers.
@@ -572,7 +572,7 @@ In calculating any period of days for the purposes of sections 15 to 18, no acco
 
 #### 26. EEA agreement and EEA state
 
-(1)[^key-9af44442c847223c72a812772e9d4d6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-9af44442c847223c72a812772e9d4d6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In that Act, in section 24 (application to Northern Ireland), in subsection (4), after “The Corporation Tax Acts” insert— “ EEA agreement and EEA state; ”.
 
@@ -594,13 +594,13 @@ In calculating any period of days for the purposes of sections 15 to 18, no acco
 
 #### 27. Power to make orders, rules and schemes
 
-(1)[^key-c9e495b533680886e27c2821104a8a1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-c9e495b533680886e27c2821104a8a1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-c9e495b533680886e27c2821104a8a1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c9e495b533680886e27c2821104a8a1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c2021233] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f7da7e0cbb715bbe3464c2ce58f89d55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f7da7e0cbb715bbe3464c2ce58f89d55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Where any enactment passed, or subordinate legislation made, before the coming into force of this section refers to regulations under subsection (2) of section 2 of the European Communities Act 1972, a Minister of the Crown may by order or regulations amend the enactment or subordinate legislation so that it includes a reference to any order, rules or scheme under that subsection.
 
@@ -608,7 +608,7 @@ In calculating any period of days for the purposes of sections 15 to 18, no acco
 
 - (a) so far as exercisable in relation to a matter the exercise of functions in respect of which is within devolved competence (within the meaning of the Scotland Act 1998), shall also be exercisable by the Scottish Ministers;
 - (b) so far as exercisable in relation to a transferred matter (within the meaning of the Northern Ireland Act 1998 (c. 47)), shall also be exercisable by a Northern Ireland department;
-- (c)[^key-b9b6e530c9d50a4cd00f16b4d32739ca] so far as they are powers that—
+- (c)[^c-b9b6e530c9d50a4cd00f16b4d32739ca] so far as they are powers that—
   - (i) could be conferred by provision falling within the legislative competence of the National Assembly for Wales, or
   - (ii) are exercisable in relation to matters in respect of which functions are exercisable by the Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh Government,
 
@@ -631,11 +631,11 @@ In calculating any period of days for the purposes of sections 15 to 18, no acco
 - (a) “**enactment**” includes Acts of the Scottish Parliament and Northern Ireland legislation;
 - (b) “**subordinate legislation**” means any Order in Council, order, rules, regulations, scheme, warrant, byelaws or other instrument made under any Act, Act of the Scottish Parliament or Northern Ireland legislation.
 
-#### 28. Power to make ambulatory references to Community instruments[^key-6359835398acec2d90ee9afa6dab9b0a]
+#### 28. Power to make ambulatory references to Community instruments[^c-6359835398acec2d90ee9afa6dab9b0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 29. Combination of powers[^key-a8371ab65842cb55ef1f060b00ccc30e]
+#### 29. Combination of powers[^c-a8371ab65842cb55ef1f060b00ccc30e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -676,7 +676,7 @@ In calculating any period of days for the purposes of sections 15 to 18, no acco
 
 .
 
-(2)[^key-e57399744e8450748a2cda802a88eb04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e57399744e8450748a2cda802a88eb04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Article 17 of the Deregulation and Contracting Out (Northern Ireland) Order 1996 (S.I. 1996/1632 (N.I. 11)), in paragraph (1), for “section 1 of the Regulatory Reform Act 2001” substitute “ section 1 or 2 of the Legislative and Regulatory Reform Act 2006 ”.
 
@@ -750,9 +750,9 @@ Section 30
 
 [^c2021143]: Textual amendment: [S. 1(6)(aa)](https://www.legislation.gov.uk/ukpga/2006/51/section/1/6/aa) inserted by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 144(b)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/144/b)(the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see [ss. 46](https://www.legislation.gov.uk/uksi/2007/1388/section/46), [161(5)](https://www.legislation.gov.uk/uksi/2007/1388/section/161/5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32))
 
-[^key-c70a4af2875f91315960fca7258ff998]: Textual amendment: [S. 1(6)(ab)](https://www.legislation.gov.uk/ukpga/2006/51/section/1/6/ab) inserted (29.6.2023) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2023/28/section/16/2), [22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-c70a4af2875f91315960fca7258ff998]: Textual amendment: [S. 1(6)(ab)](https://www.legislation.gov.uk/ukpga/2006/51/section/1/6/ab) inserted (29.6.2023) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2023/28/section/16/2), [22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-183eb6ccd54b440a40adcccdac6e6e72]: Textual amendment: Words in [s. 1(6)(ab)](https://www.legislation.gov.uk/ukpga/2006/51/section/1/6/ab) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/6/2) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-183eb6ccd54b440a40adcccdac6e6e72]: Textual amendment: Words in [s. 1(6)(ab)](https://www.legislation.gov.uk/ukpga/2006/51/section/1/6/ab) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/6/2) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
 [^c2021148]: Textual amendment: Words in [s. 1(6)(b)](https://www.legislation.gov.uk/ukpga/2006/51/section/1/6/b) substituted by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 144(c)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/144/c)(the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see [ss. 46](https://www.legislation.gov.uk/uksi/2007/1388/section/46), [161(5)](https://www.legislation.gov.uk/uksi/2007/1388/section/161/5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32))
 
@@ -762,55 +762,55 @@ Section 30
 
 [^c2021187]: Textual amendment: Words in [s. 4(6)](https://www.legislation.gov.uk/ukpga/2006/51/section/4/6) substituted by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 145(c)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/145/c)(the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see [ss. 46](https://www.legislation.gov.uk/uksi/2007/1388/section/46), [161(5)](https://www.legislation.gov.uk/uksi/2007/1388/section/161/5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32))
 
-[^key-c97ba5f575207453d1d61e17f723bd55]: Textual amendment: Words in [s. 6(5)](https://www.legislation.gov.uk/ukpga/2006/51/section/6/5) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-c97ba5f575207453d1d61e17f723bd55]: Textual amendment: Words in [s. 6(5)](https://www.legislation.gov.uk/ukpga/2006/51/section/6/5) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
 [^c2021195]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/2006/51/section/11) substituted by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 146](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/146)(the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see [ss. 46](https://www.legislation.gov.uk/uksi/2007/1388/section/46), [161(5)](https://www.legislation.gov.uk/uksi/2007/1388/section/161/5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32))
 
-[^key-91a57cbbfe1b2f09bdfb8823654c8d84]: Textual amendment: [S. 12(3)](https://www.legislation.gov.uk/ukpga/2006/51/section/12/3) inserted (29.6.2023) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/16/3), [22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-91a57cbbfe1b2f09bdfb8823654c8d84]: Textual amendment: [S. 12(3)](https://www.legislation.gov.uk/ukpga/2006/51/section/12/3) inserted (29.6.2023) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/16/3), [22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-e9c490be37e152ee36e694694bad51fc]: Textual amendment: Words in [s. 12(3)](https://www.legislation.gov.uk/ukpga/2006/51/section/12/3) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/6/3) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-e9c490be37e152ee36e694694bad51fc]: Textual amendment: Words in [s. 12(3)](https://www.legislation.gov.uk/ukpga/2006/51/section/12/3) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/6/3) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-9ab590e77968f938e884650b9214df03]: Textual amendment: Words in [s. 12(3)](https://www.legislation.gov.uk/ukpga/2006/51/section/12/3) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 62](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/62)
+[^c-9ab590e77968f938e884650b9214df03]: Textual amendment: Words in [s. 12(3)](https://www.legislation.gov.uk/ukpga/2006/51/section/12/3) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 62](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/62)
 
 [^c2021202]: Textual amendment: [S. 13(1)(c)](https://www.legislation.gov.uk/ukpga/2006/51/section/13/1/c) substituted by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 147](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/147)(the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see [ss. 46](https://www.legislation.gov.uk/uksi/2007/1388/section/46), [161(5)](https://www.legislation.gov.uk/uksi/2007/1388/section/161/5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32))
 
-[^key-3312a01905550746d1564cdb90193571]: Modification: Ss. 15-19 applied (with modifications) (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/7/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/411/article/2/b)
+[^c-3312a01905550746d1564cdb90193571]: Modification: Ss. 15-19 applied (with modifications) (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/7/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/411/article/2/b)
 
-[^key-7da5d2e63a05a82e72f10363ca1f2ea1]: Modification: Ss. 15-19 applied (with modifications) by 2004 c. 21, s. 5E(3) (as inserted (18.2.2012) for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section)[9(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/1), [240(4)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/4/b); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c))
+[^c-7da5d2e63a05a82e72f10363ca1f2ea1]: Modification: Ss. 15-19 applied (with modifications) by 2004 c. 21, s. 5E(3) (as inserted (18.2.2012) for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section)[9(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/1), [240(4)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/4/b); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c))
 
-[^key-61dcc0afa283815eba792f8626192adf]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/2006/51/section/20) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
+[^c-61dcc0afa283815eba792f8626192adf]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/2006/51/section/20) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
 
 [^c2022622]: Subordinate legislation: [S. 23(6)](https://www.legislation.gov.uk/ukpga/2006/51/section/23/6) power fully exercised: 6.4.2008 appointed by {[S.I. 2007/3548](https://www.legislation.gov.uk/uksi/2007/3548)}, art. 2
 
-[^key-5d77ee29798eb547d69191e7dff3ebbb]: Textual amendment: S. 24(3)(c) substituted (1.10.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 17(a)](https://www.legislation.gov.uk/ukpga/2016/12/section/17/a), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/695/article/3/a)
+[^c-5d77ee29798eb547d69191e7dff3ebbb]: Textual amendment: S. 24(3)(c) substituted (1.10.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 17(a)](https://www.legislation.gov.uk/ukpga/2016/12/section/17/a), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/695/article/3/a)
 
 [^c2021210]: Textual amendment: Words in s. 24(4) substituted by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 148(a)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/148/a)(the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see [ss. 46](https://www.legislation.gov.uk/uksi/2007/1388/section/46), [161(5)](https://www.legislation.gov.uk/uksi/2007/1388/section/161/5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32))
 
-[^key-1a1f5b3fecff0b6433b8703208aa3db8]: Textual amendment: Words in s. 24(4) substituted (1.10.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 17(b)](https://www.legislation.gov.uk/ukpga/2016/12/section/17/b), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/695/article/3/a)
+[^c-1a1f5b3fecff0b6433b8703208aa3db8]: Textual amendment: Words in s. 24(4) substituted (1.10.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 17(b)](https://www.legislation.gov.uk/ukpga/2016/12/section/17/b), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/695/article/3/a)
 
-[^key-07a0e098c0e677b0aef36e39421c485e]: Textual amendment: S. 24(5) omitted (4.7.2016) by virtue of [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 18](https://www.legislation.gov.uk/ukpga/2016/12/section/18), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/b)
+[^c-07a0e098c0e677b0aef36e39421c485e]: Textual amendment: S. 24(5) omitted (4.7.2016) by virtue of [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 18](https://www.legislation.gov.uk/ukpga/2016/12/section/18), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/b)
 
 [^c2021314]: Modification: S. 24(6) excluded (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/3/2), [324](https://www.legislation.gov.uk/ukpga/2009/23/section/324); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-d584c70c1c2a0020878a84fb0182366e]: Modification: S. 24(6) excluded (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/3/2), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-d584c70c1c2a0020878a84fb0182366e]: Modification: S. 24(6) excluded (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/3/2), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
 [^c2021212]: Textual amendment: S. 24(9A) inserted by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 148(b)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/148/b)(the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see [ss. 46](https://www.legislation.gov.uk/uksi/2007/1388/section/46), [161(5)](https://www.legislation.gov.uk/uksi/2007/1388/section/161/5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32))
 
 [^c2021216]: Textual amendment: Words in s. 24(10) substituted by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 148(c)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/148/c) (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see [ss. 46](https://www.legislation.gov.uk/uksi/2007/1388/section/46), [161(5)](https://www.legislation.gov.uk/uksi/2007/1388/section/161/5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32))
 
-[^key-4de206f0655bc5ab36f277fb8b292323]: Textual amendment: Words in s. 24(10) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 66(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/66/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-4de206f0655bc5ab36f277fb8b292323]: Textual amendment: Words in s. 24(10) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 66(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/66/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
-[^key-385a57e3739789bd5196aa129d70bbec]: Textual amendment: S. 24(11) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 66(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/66/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-385a57e3739789bd5196aa129d70bbec]: Textual amendment: S. 24(11) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 66(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/66/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
-[^key-9af44442c847223c72a812772e9d4d6a]: Textual amendment: [S. 26(1)](https://www.legislation.gov.uk/ukpga/2006/51/section/26/1) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
+[^c-9af44442c847223c72a812772e9d4d6a]: Textual amendment: [S. 26(1)](https://www.legislation.gov.uk/ukpga/2006/51/section/26/1) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
 
-[^key-c9e495b533680886e27c2821104a8a1e]: Textual amendment: S. 27(1)(2) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
+[^c-c9e495b533680886e27c2821104a8a1e]: Textual amendment: S. 27(1)(2) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
 
 [^c2021233]: Textual amendment: S. 27(3) omitted by virtue of [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 149(a)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/149/a) (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see [ss. 46](https://www.legislation.gov.uk/uksi/2007/1388/section/46), [161(5)](https://www.legislation.gov.uk/uksi/2007/1388/section/161/5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32))
 
-[^key-f7da7e0cbb715bbe3464c2ce58f89d55]: Textual amendment: S. 27(4) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
+[^c-f7da7e0cbb715bbe3464c2ce58f89d55]: Textual amendment: S. 27(4) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
 
-[^key-b9b6e530c9d50a4cd00f16b4d32739ca]: Textual amendment: S. 27(6)(c) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 67](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/67) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-b9b6e530c9d50a4cd00f16b4d32739ca]: Textual amendment: S. 27(6)(c) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 67](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/67) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
 [^c2021241]: Textual amendment: Words in s. 27(7)(a) substituted by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 149(c)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/149/c)(the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see [ss. 46](https://www.legislation.gov.uk/uksi/2007/1388/section/46), [161(5)](https://www.legislation.gov.uk/uksi/2007/1388/section/161/5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32))
 
@@ -820,8 +820,8 @@ Section 30
 
 [^c2021249]: Textual amendment: S. 27(8)(d) inserted by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 149(d)(iii)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/149/d/iii)(the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see [ss. 46](https://www.legislation.gov.uk/uksi/2007/1388/section/46), [161(5)](https://www.legislation.gov.uk/uksi/2007/1388/section/161/5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32))
 
-[^key-6359835398acec2d90ee9afa6dab9b0a]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/2006/51/section/28) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
+[^c-6359835398acec2d90ee9afa6dab9b0a]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/2006/51/section/28) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
 
-[^key-a8371ab65842cb55ef1f060b00ccc30e]: Textual amendment: [S. 29](https://www.legislation.gov.uk/ukpga/2006/51/section/29) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
+[^c-a8371ab65842cb55ef1f060b00ccc30e]: Textual amendment: [S. 29](https://www.legislation.gov.uk/ukpga/2006/51/section/29) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
 
-[^key-e57399744e8450748a2cda802a88eb04]: Textual amendment: [S. 31(2)](https://www.legislation.gov.uk/ukpga/2006/51/section/31/2) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 123(d)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/123/d); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-e57399744e8450748a2cda802a88eb04]: Textual amendment: [S. 31(2)](https://www.legislation.gov.uk/ukpga/2006/51/section/31/2) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 123(d)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/123/d); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)

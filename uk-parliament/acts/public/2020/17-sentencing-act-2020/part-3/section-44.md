@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Criminal courts charge duty where court dealing with offender for offence[^key-ac4d9065185d913669030c594b3aefc2]
+## 44. Criminal courts charge duty where court dealing with offender for offence[^c-ac4d9065185d913669030c594b3aefc2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the Crown Court or a magistrates' court deals with an offender for an offe
 
 ## Annotations
 
-[^key-ac4d9065185d913669030c594b3aefc2]: Commencement: S. 44 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ac4d9065185d913669030c594b3aefc2]: Commencement: S. 44 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

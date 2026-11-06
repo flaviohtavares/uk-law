@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Keeping electric lines installed above ground[^key-eee6cbe657cc4dfaa36e04bdbcaf7be1][^key-16d3b2157ebf287c5c4b43e868596cdb]
+## 78. Keeping electric lines installed above ground[^c-eee6cbe657cc4dfaa36e04bdbcaf7be1][^c-16d3b2157ebf287c5c4b43e868596cdb]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ An infrastructure consent order may include provision authorising an electric li
 
 ## Annotations
 
-[^key-eee6cbe657cc4dfaa36e04bdbcaf7be1]: Commencement: S. 78 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-eee6cbe657cc4dfaa36e04bdbcaf7be1]: Commencement: S. 78 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-16d3b2157ebf287c5c4b43e868596cdb]: Commencement: [S. 78](https://www.legislation.gov.uk/asc/2024/3/section/78) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-16d3b2157ebf287c5c4b43e868596cdb]: Commencement: [S. 78](https://www.legislation.gov.uk/asc/2024/3/section/78) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

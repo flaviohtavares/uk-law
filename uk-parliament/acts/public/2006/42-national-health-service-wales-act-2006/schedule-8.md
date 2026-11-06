@@ -24,7 +24,7 @@ Section 177
 
 ### General ophthalmic . . . services expenditure[^c20959861]
 
-**1.** (1) In section 174 and 175[^key-cb39df11cd713f2e3669879560375a4b] and this Schedule, “**general ophthalmic [^c20959601]. . . services expenditure**” means expenditure of a Local Health Board which—
+**1.** (1) In section 174 and 175[^c-cb39df11cd713f2e3669879560375a4b] and this Schedule, “**general ophthalmic [^c20959601]. . . services expenditure**” means expenditure of a Local Health Board which—
 
 - (a) is attributable to the payment of remuneration to persons providing general ophthalmic services[^c20959891], and
 - (b) is not excluded by sub-paragraph (2).
@@ -37,12 +37,12 @@ Section 177
 
 ### Main expenditure
 
-**2.**[^c20959971] (1)[^key-1141fd71653559b4ad918cbed9c33342] In section 174 “**main expenditure**”, in relation to a Local Health Board and the year in question, means—
+**2.**[^c20959971] (1)[^c-1141fd71653559b4ad918cbed9c33342] In section 174 “**main expenditure**”, in relation to a Local Health Board and the year in question, means—
 
 - (a) expenditure of the Local Health Board attributable to the reimbursement in that year of expenses of persons providing general ophthalmic services which are designated expenses incurred in connection with the provision of those services (or in giving instruction in matters relating to those services), and
 - (b) any other expenditure of the Local Health Board attributable to the performance of its functions in that year (other than general ophthalmic services expenditure).
 
-(2)[^key-95750a9e262b8a9f69c13034e010b7c9] In section 175 “**expenditure**” includes the use of resources through their consumption or reduction in value.
+(2)[^c-95750a9e262b8a9f69c13034e010b7c9] In section 175 “**expenditure**” includes the use of resources through their consumption or reduction in value.
 
 **3.** (1) For each financial year, the Welsh Ministers must apportion among all Local Health Boards, in such manner as they consider appropriate, the total of the remuneration referable to the cost of drugs which is paid by each Local Health Board in that year.
 
@@ -91,7 +91,7 @@ Section 177
 
 [^c20959861]: Textual amendment: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2006/42/schedule/8/paragraph/1): words in preceding cross-heading repealed (21.5.2010) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 140](https://www.legislation.gov.uk/ukpga/2008/14/section/140), [166](https://www.legislation.gov.uk/ukpga/2008/14/section/166), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170), [Sch. 12 para. 10(4)](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/10/4), [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/4); [S.I. 2010/1457](https://www.legislation.gov.uk/uksi/2010/1457), [art. 2](https://www.legislation.gov.uk/uksi/2010/1457/article/2)
 
-[^key-cb39df11cd713f2e3669879560375a4b]: Textual amendment: Words in [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/ukpga/2006/42/schedule/8/paragraph/1/1) substituted (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(8)](https://www.legislation.gov.uk/anaw/2014/2/section/2/8), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
+[^c-cb39df11cd713f2e3669879560375a4b]: Textual amendment: Words in [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/ukpga/2006/42/schedule/8/paragraph/1/1) substituted (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(8)](https://www.legislation.gov.uk/anaw/2014/2/section/2/8), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
 
 [^c20959601]: Textual amendment: Words in Sch. 8 para. 1(1) repealed (21.5.2010) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 140](https://www.legislation.gov.uk/ukpga/2008/14/section/140), [166](https://www.legislation.gov.uk/ukpga/2008/14/section/166), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170), [Sch. 12 para. 10(2)(a)](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/10/2/a), [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/4); [S.I. 2010/1457](https://www.legislation.gov.uk/uksi/2010/1457), [art. 2](https://www.legislation.gov.uk/uksi/2010/1457/article/2)
 
@@ -103,9 +103,9 @@ Section 177
 
 [^c20959971]: Textual amendment: Sch. 8 para. 2 substituted (21.5.2010) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 140](https://www.legislation.gov.uk/ukpga/2008/14/section/140), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170), [Sch. 12 para. 10(5)](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/10/5); [S.I. 2010/1457](https://www.legislation.gov.uk/uksi/2010/1457), [art. 2](https://www.legislation.gov.uk/uksi/2010/1457/article/2)
 
-[^key-1141fd71653559b4ad918cbed9c33342]: Textual amendment: Sch. 8 para. 2(1): Sch. 8 para. 2 renumbered as Sch. 8 para. 2(1) (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(9)](https://www.legislation.gov.uk/anaw/2014/2/section/2/9), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
+[^c-1141fd71653559b4ad918cbed9c33342]: Textual amendment: Sch. 8 para. 2(1): Sch. 8 para. 2 renumbered as Sch. 8 para. 2(1) (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(9)](https://www.legislation.gov.uk/anaw/2014/2/section/2/9), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
 
-[^key-95750a9e262b8a9f69c13034e010b7c9]: Textual amendment: [Sch. 8 para. 2(2)](https://www.legislation.gov.uk/ukpga/2006/42/schedule/8/paragraph/2/2) inserted (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(9)](https://www.legislation.gov.uk/anaw/2014/2/section/2/9), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
+[^c-95750a9e262b8a9f69c13034e010b7c9]: Textual amendment: [Sch. 8 para. 2(2)](https://www.legislation.gov.uk/ukpga/2006/42/schedule/8/paragraph/2/2) inserted (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(9)](https://www.legislation.gov.uk/anaw/2014/2/section/2/9), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
 
 [^c20960001]: Textual amendment: [Sch. 8 para. 3A](https://www.legislation.gov.uk/ukpga/2006/42/schedule/8/paragraph/3A) inserted (21.5.2010) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 140](https://www.legislation.gov.uk/ukpga/2008/14/section/140), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170), [Sch. 12 para. 10(6)](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/10/6); [S.I. 2010/1457](https://www.legislation.gov.uk/uksi/2010/1457), [art. 2](https://www.legislation.gov.uk/uksi/2010/1457/article/2)
 

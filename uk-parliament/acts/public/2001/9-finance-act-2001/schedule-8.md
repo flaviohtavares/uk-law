@@ -63,8 +63,8 @@ then, if and to the extent that they would not be liable to do so apart from thi
 (3) In that sub-paragraph the amounts referred to in paragraph (c)—
 
 - (a) do not include any amount payable under this paragraph;
-- (b) do not include the amount of any interest for which provision is made by virtue of section 30(3)(f) or 30B(6)(d);[^key-00b13304d024376df9f870466a232d04]
-- (ba)[^key-228b6bdca35989aa2b6fa9c4467785b7] do not include the amount of any tax credit to which a person is entitled by virtue of section 30B(1); but
+- (b) do not include the amount of any interest for which provision is made by virtue of section 30(3)(f) or 30B(6)(d);[^c-00b13304d024376df9f870466a232d04]
+- (ba)[^c-228b6bdca35989aa2b6fa9c4467785b7] do not include the amount of any tax credit to which a person is entitled by virtue of section 30B(1); but
 - (c) do include any amount due (in respect of an adjustment of overpaid interest) by way of a repayment under—
   - (i) paragraph 11(3) of Schedule 5 to this Act; or
   - (ii) paragraph 6(3) of Schedule 10 to this Act.
@@ -101,7 +101,7 @@ then, if and to the extent that they would not be liable to do so apart from thi
 
 (9) The Commissioners shall not be liable to pay interest under this paragraph except on the making of a claim for that purpose.
 
-(10) A claim under this paragraph must be in writing and must be made not more than 4 years[^key-ee6d4c741088a8d86fde6cc8366a37a4] after the end of the applicable period to which it relates.
+(10) A claim under this paragraph must be in writing and must be made not more than 4 years[^c-ee6d4c741088a8d86fde6cc8366a37a4] after the end of the applicable period to which it relates.
 
 (11) References in this paragraph—
 
@@ -277,7 +277,7 @@ the Commissioners may make a supplementary assessment of the amount of the exces
 
 (2) For the purposes of this paragraph, an insolvency procedure is applied to a person if—
 
-- (a) a bankruptcy order, winding-up order or administration order is made or an administrator is appointed[^key-251ec163f5ed52892a376e017c53beea] in relation to that person or an award of sequestration is made on that person’s estate;
+- (a) a bankruptcy order, winding-up order or administration order is made or an administrator is appointed[^c-251ec163f5ed52892a376e017c53beea] in relation to that person or an award of sequestration is made on that person’s estate;
 - (b) that person is put into administrative receivership;
 - (c) that person passes a resolution for voluntary winding up;
 - (d) any voluntary arrangement approved in accordance with—
@@ -286,20 +286,20 @@ the Commissioners may make a supplementary assessment of the amount of the exces
 
   comes into force in relation to that person;
 - (e) a deed of arrangement registered in accordance with—
-  - (i)[^key-e4db9bcf108267f2f3a4bfbd8a57cee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-e4db9bcf108267f2f3a4bfbd8a57cee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) Chapter I of Part VIII of that Order,
 
   takes effect in relation to that person;
 - (f) [^c12450651]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i) that person’s estate becomes vested in any other person as that person’s trustee under a trust deed (within the meaning of the Bankruptcy (Scotland) Act 2016[^key-dbf835a69bba6ec812d9fb170d3fcaf6]).
+- (i) that person’s estate becomes vested in any other person as that person’s trustee under a trust deed (within the meaning of the Bankruptcy (Scotland) Act 2016[^c-dbf835a69bba6ec812d9fb170d3fcaf6]).
 
 (3) In this paragraph references, in relation to any person, to the application of an insolvency procedure to that person shall not include—
 
-- (a) the making of a bankruptcy order, winding-up order[^key-1c061d0e4ccd8b561a158abb6c16995e]... or award of sequestration or the appointment of an administrator[^key-b6ba763bf8417400d94f690ea7f352de] at a time when any such arrangement or deed as is mentioned in paragraph (d), (e) or (i) of sub-paragraph (2) above is in force in relation to that person;
+- (a) the making of a bankruptcy order, winding-up order[^c-1c061d0e4ccd8b561a158abb6c16995e]... or award of sequestration or the appointment of an administrator[^c-b6ba763bf8417400d94f690ea7f352de] at a time when any such arrangement or deed as is mentioned in paragraph (d), (e) or (i) of sub-paragraph (2) above is in force in relation to that person;
 - (b) the making of a winding-up order at any of the following times, that is to say—
-  - (i)[^key-110d9135432bde6c428ef21f43e7a6ed] immediately upon the appointment of an administrator in respect of the person ceasing to have effect;
+  - (i)[^c-110d9135432bde6c428ef21f43e7a6ed] immediately upon the appointment of an administrator in respect of the person ceasing to have effect;
   - (ii) when that person is being wound up voluntarily;
   - (iii) when that person is in administrative receivership;
 
@@ -310,7 +310,7 @@ the Commissioners may make a supplementary assessment of the amount of the exces
 
 (5) In this paragraph—
 
-- “**administration order**” means an administration order under Schedule B1 to[^key-0d50fadfd548bba6ab79deb3d99057d6] the Insolvency Act 1986 (c. 45) or Article 21 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)) ;
+- “**administration order**” means an administration order under Schedule B1 to[^c-0d50fadfd548bba6ab79deb3d99057d6] the Insolvency Act 1986 (c. 45) or Article 21 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)) ;
 - “**administrative receiver**” means an administrative receiver within the meaning of section 251 of that Act of 1986 or Article 5(1) of that Order of 1989.
 
 ### 12. Supplemental provisions of Schedule
@@ -326,33 +326,33 @@ the Commissioners may make a supplementary assessment of the amount of the exces
 
 (3) In this paragraph “**trustee in bankruptcy**” includes, as respects Scotland—
 
-- (a) a trustee or interim trustee in the sequestration, under the Bankruptcy (Scotland) Act 2016, of a person’s estate;[^key-a12e4a0c1ef3712e6f3e5cad27d013a8] and
+- (a) a trustee or interim trustee in the sequestration, under the Bankruptcy (Scotland) Act 2016, of a person’s estate;[^c-a12e4a0c1ef3712e6f3e5cad27d013a8] and
 - (b) a trustee acting under a trust deed (within the meaning of that Act).
 
 (4) The powers conferred by paragraphs 9 and 10 of this Schedule are without prejudice to any power of the Commissioners to provide by tax credit regulations for any amount to be set against another.
 
 ## Annotations
 
-[^key-00b13304d024376df9f870466a232d04]: Textual amendment: Words in [Sch. 8 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/8/paragraph/2/3/b) substituted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 61(6)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/61/6/a)
+[^c-00b13304d024376df9f870466a232d04]: Textual amendment: Words in [Sch. 8 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/8/paragraph/2/3/b) substituted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 61(6)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/61/6/a)
 
-[^key-228b6bdca35989aa2b6fa9c4467785b7]: Textual amendment: [Sch. 8 para. 2(3)(ba)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/8/paragraph/2/3/ba) inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 61(6)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/61/6/b)
+[^c-228b6bdca35989aa2b6fa9c4467785b7]: Textual amendment: [Sch. 8 para. 2(3)(ba)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/8/paragraph/2/3/ba) inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 61(6)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/61/6/b)
 
-[^key-ee6d4c741088a8d86fde6cc8366a37a4]: Textual amendment: Words in Sch. 8 para. 2(10) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 30](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/30); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2010/867/article/9))
+[^c-ee6d4c741088a8d86fde6cc8366a37a4]: Textual amendment: Words in Sch. 8 para. 2(10) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 30](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/30); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2010/867/article/9))
 
-[^key-251ec163f5ed52892a376e017c53beea]: Textual amendment: Words in Sch. 8 para. 11(2)(a) inserted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 37(a)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/37/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+[^c-251ec163f5ed52892a376e017c53beea]: Textual amendment: Words in Sch. 8 para. 11(2)(a) inserted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 37(a)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/37/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
 
-[^key-e4db9bcf108267f2f3a4bfbd8a57cee8]: Textual amendment: Sch. 8 para. 11(2)(e)(i) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(15)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/15/b) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-e4db9bcf108267f2f3a4bfbd8a57cee8]: Textual amendment: Sch. 8 para. 11(2)(e)(i) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(15)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/15/b) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
 
 [^c12450651]: Textual amendment: Sch. 8 para. 11(2)(f)(g)(h) repealed (*retrospective* to 1.4.2002) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [ss. 132(3)](https://www.legislation.gov.uk/ukpga/2002/23/section/132/3), [141](https://www.legislation.gov.uk/ukpga/2002/23/section/141), [Sch. 38 para. 10](https://www.legislation.gov.uk/ukpga/2002/23/schedule/38/paragraph/10), [Sch. 40 Pt. 4(3)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/40/part/4/3)
 
-[^key-dbf835a69bba6ec812d9fb170d3fcaf6]: Textual amendment: Word in Sch. 8 para. 11(2)(i) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 24(4)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/24/4/a)
+[^c-dbf835a69bba6ec812d9fb170d3fcaf6]: Textual amendment: Word in Sch. 8 para. 11(2)(i) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 24(4)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/24/4/a)
 
-[^key-1c061d0e4ccd8b561a158abb6c16995e]: Textual amendment: Words in Sch. 8 para. 11(3)(a) omitted (15.9.2003) by virtue of [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 37(b)(i)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/37/b/i) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+[^c-1c061d0e4ccd8b561a158abb6c16995e]: Textual amendment: Words in Sch. 8 para. 11(3)(a) omitted (15.9.2003) by virtue of [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 37(b)(i)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/37/b/i) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
 
-[^key-b6ba763bf8417400d94f690ea7f352de]: Textual amendment: Words in Sch. 8 para. 11(3)(a) inserted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 37(b)(ii)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/37/b/ii) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+[^c-b6ba763bf8417400d94f690ea7f352de]: Textual amendment: Words in Sch. 8 para. 11(3)(a) inserted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 37(b)(ii)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/37/b/ii) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
 
-[^key-110d9135432bde6c428ef21f43e7a6ed]: Textual amendment: Sch. 8 para. 11(3)(b)(i) substituted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 37(c)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/37/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+[^c-110d9135432bde6c428ef21f43e7a6ed]: Textual amendment: Sch. 8 para. 11(3)(b)(i) substituted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 37(c)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/37/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
 
-[^key-0d50fadfd548bba6ab79deb3d99057d6]: Textual amendment: Words in Sch. 8 para. 11(5) substituted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 37(d)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/37/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+[^c-0d50fadfd548bba6ab79deb3d99057d6]: Textual amendment: Words in Sch. 8 para. 11(5) substituted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 37(d)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/37/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
 
-[^key-a12e4a0c1ef3712e6f3e5cad27d013a8]: Textual amendment: Words in Sch. 8 para. 12(3)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 24(4)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/24/4/b)
+[^c-a12e4a0c1ef3712e6f3e5cad27d013a8]: Textual amendment: Words in Sch. 8 para. 12(3)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 24(4)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/24/4/b)

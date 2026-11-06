@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Declarations as to election expenses: candidates on a registered party’s regional list[^key-bdbe5962ea9d5bc8bc160e3b917d63b3]
+## 49. Declarations as to election expenses: candidates on a registered party’s regional list[^c-bdbe5962ea9d5bc8bc160e3b917d63b3]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdbe5962ea9d5bc8bc160e3b917d63b3]: Commencement: Art. 49 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-bdbe5962ea9d5bc8bc160e3b917d63b3]: Commencement: Art. 49 in force at 16.12.2015 in accordance with art. 1(1)

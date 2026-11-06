@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Agreements with Network Rail[^key-27d7d8e33935ec5c69f4c49a5a14c381]
+## 11. Agreements with Network Rail[^c-27d7d8e33935ec5c69f4c49a5a14c381]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ together with any rights and obligations (whether or not statutory) of Network R
 
 ## Annotations
 
-[^key-27d7d8e33935ec5c69f4c49a5a14c381]: Commencement: Art. 11 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-27d7d8e33935ec5c69f4c49a5a14c381]: Commencement: Art. 11 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

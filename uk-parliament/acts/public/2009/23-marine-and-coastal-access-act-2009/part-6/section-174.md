@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Duty of co-operation[^key-ba98949f41357824e389fff4e561df9c]
+## 174. Duty of co-operation[^c-ba98949f41357824e389fff4e561df9c]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ The authority for an IFC district must take such steps as it considers appropria
 
 ## Annotations
 
-[^key-ba98949f41357824e389fff4e561df9c]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2009/23/section/174) in force at 1.10.2010 by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/d)
+[^c-ba98949f41357824e389fff4e561df9c]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2009/23/section/174) in force at 1.10.2010 by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/d)

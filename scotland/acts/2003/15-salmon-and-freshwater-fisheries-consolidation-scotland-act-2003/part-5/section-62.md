@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Jurisdiction in respect of offences committed on sea coast or at sea[^key-8cba94ed251df28868c32de7bb0bf7bd]
+## 62. Jurisdiction in respect of offences committed on sea coast or at sea[^c-8cba94ed251df28868c32de7bb0bf7bd]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any offence committed under this Act on the sea coast, or at sea beyond the ordi
 
 ## Annotations
 
-[^key-8cba94ed251df28868c32de7bb0bf7bd]: Commencement: S. 62 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-8cba94ed251df28868c32de7bb0bf7bd]: Commencement: S. 62 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

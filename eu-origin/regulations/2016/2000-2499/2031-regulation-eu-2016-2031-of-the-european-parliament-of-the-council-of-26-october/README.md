@@ -32,7 +32,7 @@ of 26 October 2016
 
 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC
 
-[^key-c80aed2943a37ad81259ee6168030d6d]
+[^c-c80aed2943a37ad81259ee6168030d6d]
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -434,7 +434,7 @@ HAVE ADOPTED THIS REGULATION:
 
 - [Section Article 3 — Definition of quarantine pests](section-article-3.md)
 
-#### Section 2 — GB quarantine pests[^key-79d55c02d8af290ab5873620a7a49f9d]
+#### Section 2 — GB quarantine pests[^c-79d55c02d8af290ab5873620a7a49f9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -467,7 +467,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 30 — Measures concerning provisional GB quarantine pests](section-article-30.md)
 - [Section Article 31 — More stringent requirements ...](section-article-31.md)
 
-#### Section 3 — PFA quarantine pests[^key-ce8c61228e24584c753b972c6d637e0f]
+#### Section 3 — PFA quarantine pests[^c-ce8c61228e24584c753b972c6d637e0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -476,7 +476,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 34 — Surveys on PFA quarantine pests](section-article-34.md)
 - [Section Article 35 — Amendment of extent and revocation of recognition of protected zones](section-article-35.md)
 
-### CHAPTER III — GB regulated non-quarantine pests[^key-f44a4367cdc8ba5554f9335d5419b2e4]
+### CHAPTER III — GB regulated non-quarantine pests[^c-f44a4367cdc8ba5554f9335d5419b2e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -489,7 +489,7 @@ HAVE ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-#### Section 1 — Measures relating to Great Britain[^key-44e7a0ac5cbf449dc23df2f41f435b1b]
+#### Section 1 — Measures relating to Great Britain[^c-44e7a0ac5cbf449dc23df2f41f435b1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -507,7 +507,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 51 — Amendment of Annexes III and IV](section-article-51.md)
 - [Section Article 52 — Temporary measures by Member States concerning imminent danger](section-article-52.md)
 
-#### Section 2 — Measures relating to GB pest-free areas[^key-df26b28ad967d502a95ae4df7c27a253]
+#### Section 2 — Measures relating to GB pest-free areas[^c-df26b28ad967d502a95ae4df7c27a253]
 
 *Extent: E+W+S+N.I.*
 
@@ -544,7 +544,7 @@ HAVE ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-#### Section 1 — Phytosanitary certificates required for the introduction of plants, plant products and other objects into Great Britain[^key-46e680ab2493ea21fa9702a4482499a1]
+#### Section 1 — Phytosanitary certificates required for the introduction of plants, plant products and other objects into Great Britain[^c-46e680ab2493ea21fa9702a4482499a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -557,7 +557,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 76 — Conditions to be fulfilled by a phytosanitary certificate](section-article-76.md)
 - [Section Article 77 — Invalidation of phytosanitary certificate](section-article-77.md)
 
-#### Section 2 — UK plant passports required for the movement of plants, plant products and other objects within or into Great Britain[^key-5c4c05dd731ffb0a377ec3e02c4225ce][^key-a53a1a9bbf8149d18f7b188341f6b8ff]
+#### Section 2 — UK plant passports required for the movement of plants, plant products and other objects within or into Great Britain[^c-5c4c05dd731ffb0a377ec3e02c4225ce][^c-a53a1a9bbf8149d18f7b188341f6b8ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -592,7 +592,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 98 — Authorisation and supervision of registered operators applying the mark of wood packaging material in Great Britain](section-article-98.md)
 - [Section Article 99 — Attestations other than the mark of wood packaging material](section-article-99.md)
 
-#### Section 4 — Export of plants, plant products and other objects from Great Britain[^key-554c21e57c1c63ed385728f8d70dac17]
+#### Section 4 — Export of plants, plant products and other objects from Great Britain[^c-554c21e57c1c63ed385728f8d70dac17]
 
 *Extent: E+W+S+N.I.*
 
@@ -635,11 +635,11 @@ HAVE ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-[^key-11ffc7e7a072ee2642938fd39dfdbe89]...
+[^c-11ffc7e7a072ee2642938fd39dfdbe89]...
 
 ## Annotations
 
-[^key-c80aed2943a37ad81259ee6168030d6d]: Modification: Regulation applied in part (with modifications) (25.2.2025) by [The Movement of Goods (Northern Ireland to Great Britain) (Animals, Feed and Food, Plant Health etc.) (Transitory Provision and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/217)](https://www.legislation.gov.uk/uksi/2025/217), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/217/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/217/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/217/schedule/1)
+[^c-c80aed2943a37ad81259ee6168030d6d]: Modification: Regulation applied in part (with modifications) (25.2.2025) by [The Movement of Goods (Northern Ireland to Great Britain) (Animals, Feed and Food, Plant Health etc.) (Transitory Provision and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/217)](https://www.legislation.gov.uk/uksi/2025/217), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/217/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/217/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/217/schedule/1)
 
 [^f00001]: Footnote: [OJ C 170, 5.6.2014, p. 104](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2014.170.01.0104.01.ENG).
 
@@ -687,22 +687,22 @@ HAVE ADOPTED THIS REGULATION:
 
 [^f00023]: Footnote: Regulation (EU) No 1143/2014 of the European Parliament and of the Council of 22 October 2014 on the prevention and management of the introduction and spread of invasive alien species ([OJ L 317, 4.11.2014, p. 35](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.317.01.0035.01.ENG)).
 
-[^key-79d55c02d8af290ab5873620a7a49f9d]: Textual amendment: Word in [Ch. 2 Section 2](https://www.legislation.gov.uk/eur/2016/2031/chapter/2/section/2) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/2) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-79d55c02d8af290ab5873620a7a49f9d]: Textual amendment: Word in [Ch. 2 Section 2](https://www.legislation.gov.uk/eur/2016/2031/chapter/2/section/2) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/2) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-ce8c61228e24584c753b972c6d637e0f]: Textual amendment: Word in [Ch. 2 Section 3](https://www.legislation.gov.uk/eur/2016/2031/chapter/2/section/3) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(31)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/31) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-ce8c61228e24584c753b972c6d637e0f]: Textual amendment: Word in [Ch. 2 Section 3](https://www.legislation.gov.uk/eur/2016/2031/chapter/2/section/3) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(31)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/31) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-f44a4367cdc8ba5554f9335d5419b2e4]: Textual amendment: Word in Ch. 3 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [28(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/28/2) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-f44a4367cdc8ba5554f9335d5419b2e4]: Textual amendment: Word in Ch. 3 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [28(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/28/2) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-44e7a0ac5cbf449dc23df2f41f435b1b]: Textual amendment: Words in [Ch. 4 Section 1](https://www.legislation.gov.uk/eur/2016/2031/chapter/4/section/1) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/2) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-44e7a0ac5cbf449dc23df2f41f435b1b]: Textual amendment: Words in [Ch. 4 Section 1](https://www.legislation.gov.uk/eur/2016/2031/chapter/4/section/1) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/2) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-df26b28ad967d502a95ae4df7c27a253]: Textual amendment: Words in [Ch. 4 Section 2](https://www.legislation.gov.uk/eur/2016/2031/chapter/4/section/2) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(16)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/16) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-df26b28ad967d502a95ae4df7c27a253]: Textual amendment: Words in [Ch. 4 Section 2](https://www.legislation.gov.uk/eur/2016/2031/chapter/4/section/2) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(16)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/16) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-46e680ab2493ea21fa9702a4482499a1]: Textual amendment: Words in [Ch. 6 Section 1](https://www.legislation.gov.uk/eur/2016/2031/chapter/6/section/1) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/2) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-46e680ab2493ea21fa9702a4482499a1]: Textual amendment: Words in [Ch. 6 Section 1](https://www.legislation.gov.uk/eur/2016/2031/chapter/6/section/1) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/2) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-5c4c05dd731ffb0a377ec3e02c4225ce]: Textual amendment: Words in [Ch. 6 Section 2](https://www.legislation.gov.uk/eur/2016/2031/chapter/6/section/2) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(11)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/11/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-5c4c05dd731ffb0a377ec3e02c4225ce]: Textual amendment: Words in [Ch. 6 Section 2](https://www.legislation.gov.uk/eur/2016/2031/chapter/6/section/2) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(11)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/11/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-a53a1a9bbf8149d18f7b188341f6b8ff]: Textual amendment: Words in [Ch. 6 Section 2](https://www.legislation.gov.uk/eur/2016/2031/chapter/6/section/2) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(11)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/11/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-a53a1a9bbf8149d18f7b188341f6b8ff]: Textual amendment: Words in [Ch. 6 Section 2](https://www.legislation.gov.uk/eur/2016/2031/chapter/6/section/2) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(11)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/11/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-554c21e57c1c63ed385728f8d70dac17]: Textual amendment: Words in [Ch. 6 Section 4](https://www.legislation.gov.uk/eur/2016/2031/chapter/6/section/4) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(40)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/40) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-554c21e57c1c63ed385728f8d70dac17]: Textual amendment: Words in [Ch. 6 Section 4](https://www.legislation.gov.uk/eur/2016/2031/chapter/6/section/4) heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(40)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/40) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-11ffc7e7a072ee2642938fd39dfdbe89]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [33(3)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/33/3) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-11ffc7e7a072ee2642938fd39dfdbe89]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [33(3)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/33/3) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

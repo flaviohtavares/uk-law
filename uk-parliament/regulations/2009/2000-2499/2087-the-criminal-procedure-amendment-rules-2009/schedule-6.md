@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6[^key-26218c844a31c13848277c51a854e6ba]
+## SCHEDULE 6[^c-26218c844a31c13848277c51a854e6ba]
 
 *Extent: E+W*
 
@@ -223,7 +223,7 @@ Rule 23
 
 ## Annotations
 
-[^key-26218c844a31c13848277c51a854e6ba]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2009/2087/schedule/6) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-26218c844a31c13848277c51a854e6ba]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2009/2087/schedule/6) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
 
 [^f00081]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25).
 

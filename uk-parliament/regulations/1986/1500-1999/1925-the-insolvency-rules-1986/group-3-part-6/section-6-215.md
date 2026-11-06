@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.215. Application for suspension of discharge[^key-3e12fb729dc4712a6dbdfdef522ef28b]
+## 6.215. Application for suspension of discharge[^c-3e12fb729dc4712a6dbdfdef522ef28b]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e12fb729dc4712a6dbdfdef522ef28b]: Textual amendment: Rule 6.215 substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/47) (with [rule 9(4)](https://www.legislation.gov.uk/uksi/2003/1730/article/9/4))
+[^c-3e12fb729dc4712a6dbdfdef522ef28b]: Textual amendment: Rule 6.215 substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/47) (with [rule 9(4)](https://www.legislation.gov.uk/uksi/2003/1730/article/9/4))
 
 [^m00047]: Marginal citation: \[FORM 4.20\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Establishment of voluntary registers[^key-16b0d92744f7f01033a21a25ab8f04df]
+## 228. Establishment of voluntary registers[^c-16b0d92744f7f01033a21a25ab8f04df]
 
 *Extent: E+W*
 
@@ -136,4 +136,4 @@ After section 25C of the National Health Service Reform and Health Care Professi
 
 ## Annotations
 
-[^key-16b0d92744f7f01033a21a25ab8f04df]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2012/7/section/228) in force at 1.12.2012 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)
+[^c-16b0d92744f7f01033a21a25ab8f04df]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2012/7/section/228) in force at 1.12.2012 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)

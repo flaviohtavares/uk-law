@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Review of provisions relating to counselling information requests[^key-baa08f0ccd9d72908c55bc1ee6b9e521][^key-074eb8d2b2ac8266cb72538714c96a71]
+## 30. Review of provisions relating to counselling information requests[^c-baa08f0ccd9d72908c55bc1ee6b9e521][^c-074eb8d2b2ac8266cb72538714c96a71]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-baa08f0ccd9d72908c55bc1ee6b9e521]: Commencement: S. 30 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-baa08f0ccd9d72908c55bc1ee6b9e521]: Commencement: S. 30 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-074eb8d2b2ac8266cb72538714c96a71]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2024/21/section/30) in force at 12.1.2026 by [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2025/1168/regulation/3/c)
+[^c-074eb8d2b2ac8266cb72538714c96a71]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2024/21/section/30) in force at 12.1.2026 by [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2025/1168/regulation/3/c)

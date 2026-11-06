@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Limits on power under section 5(1)[^key-1ce69a36bcc1bbb3a9a0cb770f15eee7]
+## 6. Limits on power under section 5(1)[^c-1ce69a36bcc1bbb3a9a0cb770f15eee7]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ce69a36bcc1bbb3a9a0cb770f15eee7]: Commencement: S. 6 in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/411/article/2/b)
+[^c-1ce69a36bcc1bbb3a9a0cb770f15eee7]: Commencement: S. 6 in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/411/article/2/b)

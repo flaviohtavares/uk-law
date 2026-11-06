@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, after consulting the persons and bodies specified in section 149(3), makes the following Order in exercise of the powers conferred by sections 149(1), 151, 180(2) and 316(1)(b) of the Marine and Coastal Access Act 2009[^f00001].
 
-## 1. Citation and commencement[^key-a0acc85cf2147fbac489ba0bebccefd5]
+## 1. Citation and commencement[^c-a0acc85cf2147fbac489ba0bebccefd5]
 
 (1) This Order may be cited as the Southern Inshore Fisheries and Conservation Order 2010.
 
 (2) This Order comes into force on 1st October 2010.
 
-## 2. Interpretation[^key-85f7b5e2df0f22a8a4fd9ba3d8ed16cc]
+## 2. Interpretation[^c-85f7b5e2df0f22a8a4fd9ba3d8ed16cc]
 
 (1) In this Order—
 
@@ -69,7 +69,7 @@ The Secretary of State, after consulting the persons and bodies specified in sec
 
 (2) Expressions used in this Order and in Chapter 1 of Part 6 of the Marine Act have the same meaning in this Order as they have in that Chapter.
 
-## 3. The Southern Inshore Fisheries and Conservation District[^key-40b2f33812e1c7d7eb8bc38a11e9948f]
+## 3. The Southern Inshore Fisheries and Conservation District[^c-40b2f33812e1c7d7eb8bc38a11e9948f]
 
 (1) There is to be an inshore fisheries and conservation district known as the Southern Inshore Fisheries and Conservation District (“the district”).
 
@@ -80,9 +80,9 @@ The Secretary of State, after consulting the persons and bodies specified in sec
 
 (3) The “relevant councils” are—
 
-- [^key-bf95a84bb1cf73ac695c746b3777c2a5]...
-- Bournemouth , Christchurch and Poole[^key-b4def7edd8a0ebc2447639040212b503] Council;
-- Dorset [^key-96a951cf2e26ec2e6bf78eaeea9a3c43]... Council;
+- [^c-bf95a84bb1cf73ac695c746b3777c2a5]...
+- Bournemouth , Christchurch and Poole[^c-b4def7edd8a0ebc2447639040212b503] Council;
+- Dorset [^c-96a951cf2e26ec2e6bf78eaeea9a3c43]... Council;
 - Hampshire County Council;
 - Isle of Wight Council;
 - Portsmouth City Council;
@@ -104,11 +104,11 @@ The Secretary of State, after consulting the persons and bodies specified in sec
 - (b) “co-ordinate” means a co-ordinate of latitude and longitude on the World Geodetic System 1984; and
 - (c) “nautical mile” means an international nautical mile of 1,852 metres.
 
-## 4. The Southern Inshore Fisheries and Conservation Authority[^key-4ab461e4b45c62c9599a282ccc7e9c86]
+## 4. The Southern Inshore Fisheries and Conservation Authority[^c-4ab461e4b45c62c9599a282ccc7e9c86]
 
 The inshore fisheries and conservation authority for the district[^f00004] is to be known as the Southern Inshore Fisheries and Conservation Authority.
 
-## 5. Membership of the Authority[^key-ef3bd422bb3de3cae74c81aaa8c10abb]
+## 5. Membership of the Authority[^c-ef3bd422bb3de3cae74c81aaa8c10abb]
 
 (1) The Authority is to consist of 21 members.
 
@@ -122,7 +122,7 @@ The inshore fisheries and conservation authority for the district[^f00004] is to
 
 | Relevant council | Number of members |
 | --- | --- |
-| Bournemouth, Christchurch and Poole Council[^key-c8373e64bedf6d709e978ff9723d720d] | 2 |
+| Bournemouth, Christchurch and Poole Council[^c-c8373e64bedf6d709e978ff9723d720d] | 2 |
 | Dorset Council | 2 |
 | Hampshire County Council | 2 |
 | Isle of Wight Council | 1 |
@@ -131,7 +131,7 @@ The inshore fisheries and conservation authority for the district[^f00004] is to
 
 (4) One of the additional members is to be appointed by the Environment Agency and the other is to be appointed by Natural England.
 
-## 6. Terms of appointment[^key-7cd0dc4de9b9b26ded99e2d2865c616f]
+## 6. Terms of appointment[^c-7cd0dc4de9b9b26ded99e2d2865c616f]
 
 (1) A person appointed as a member of the Authority holds and vacates office in accordance with the terms of the appointment.
 
@@ -139,7 +139,7 @@ The inshore fisheries and conservation authority for the district[^f00004] is to
 
 (3) Paragraph (1) is subject to articles 9 to 11.
 
-## 7. Appointment of Chair[^key-a226b21b3a9f98d6efbf460d12bc272a]
+## 7. Appointment of Chair[^c-a226b21b3a9f98d6efbf460d12bc272a]
 
 (1) The Authority must appoint from among its members a person to be the chair of the Authority.
 
@@ -149,7 +149,7 @@ The inshore fisheries and conservation authority for the district[^f00004] is to
 
 (4) The chair holds office for the period beginning with the meeting at which the chair is appointed and ending with the first meeting of the Authority held after the beginning of the following financial year, but this is subject to articles 8 to 11.
 
-## 8. Removal of Chair[^key-9d0e04c06bcfa1ce7e2571979045f8b5]
+## 8. Removal of Chair[^c-9d0e04c06bcfa1ce7e2571979045f8b5]
 
 (1) The Authority may remove a person from the office of chair if the condition in paragraph (2) is met.
 
@@ -172,7 +172,7 @@ but paragraph (b) is subject to the further application of this article and to a
 
 (6) A person who has been removed from the office of chair under this article is not eligible to be re-appointed as chair.
 
-## 9. Resignation from office[^key-7bb1f4bfa2684374eb0ccb5eb413bc31]
+## 9. Resignation from office[^c-7bb1f4bfa2684374eb0ccb5eb413bc31]
 
 (1) A person may resign as a member of the Authority by giving notice in writing to—
 
@@ -195,7 +195,7 @@ but paragraph (b) is subject to the further application of this article and to a
 
 but paragraph (b) is subject to the further application of this article and to articles 8, 10 and 11.
 
-## 10. Suspension of membership[^key-470b0d82c61855eeac9cac1ecbb01e22]
+## 10. Suspension of membership[^c-470b0d82c61855eeac9cac1ecbb01e22]
 
 (1) The Authority or the relevant appointing body may suspend the appointment of any member against whom criminal proceedings are commenced.
 
@@ -213,7 +213,7 @@ the suspension ends on the acquittal, discontinuance or withdrawal.
 - (a) as a member of the Authority; and
 - (b) if the council member is the chair, as chair.
 
-## 11. Termination of membership[^key-f27e8473b809498ca119cd4bc621a743]
+## 11. Termination of membership[^c-f27e8473b809498ca119cd4bc621a743]
 
 (1) A person’s appointment as a member of the Authority ceases in any of the following circumstances—
 
@@ -245,14 +245,14 @@ but paragraph (b) is subject to the further application of this article and to a
 
 (7) In paragraph (6) “enactment” includes an enactment contained in subordinate legislation.
 
-## 12. Eligibility for appointment or re-appointment[^key-5fd4206db105dd240cf3013a21af6eb1]
+## 12. Eligibility for appointment or re-appointment[^c-5fd4206db105dd240cf3013a21af6eb1]
 
 A person is not eligible for appointment or re-appointment as a member of the Authority if—
 
 - (a) the person has been convicted of a criminal offence; and
 - (b) the conviction is not spent for the purposes of the Rehabilitation of Offenders Act 1974[^f00008].
 
-## 13. Quorum and general procedure[^key-f581cb04c364304878b8365e26f776c8]
+## 13. Quorum and general procedure[^c-f581cb04c364304878b8365e26f776c8]
 
 (1) A meeting of the Authority is quorate if—
 
@@ -262,7 +262,7 @@ A person is not eligible for appointment or re-appointment as a member of the Au
 
 (2) The relevant councils may not make standing orders as respects the Authority under section 106 of the Local Government Act 1972[^f00009] (standing orders with respect to proceedings).
 
-## 14. Chairing of meetings[^key-edbb299ac454b8123af197799bc10b24]
+## 14. Chairing of meetings[^c-edbb299ac454b8123af197799bc10b24]
 
 (1) The Authority must appoint from among its members a person (the “vice-chair”) who is to chair any meeting of the Authority which the chair is unable to chair (but see paragraphs (4) and (5)).
 
@@ -274,7 +274,7 @@ A person is not eligible for appointment or re-appointment as a member of the Au
 
 (5) A person who has been removed from the office of vice-chair under article 8 is not eligible to be appointed as chair or re-appointed as vice-chair.
 
-## 15. Expenses and allowances[^key-3cafb78dc101185948fe9103f5ee6b42]
+## 15. Expenses and allowances[^c-3cafb78dc101185948fe9103f5ee6b42]
 
 (1) The Authority may reimburse the expenses of its members incurred in connection with attending a meeting of the Authority or otherwise carrying out the functions of the Authority.
 
@@ -284,7 +284,7 @@ A person is not eligible for appointment or re-appointment as a member of the Au
 
 (4) The Authority must determine, before the beginning of each financial year, the circumstances in which a member is eligible under this article for the reimbursement of expenses incurred in that year or the receipt of an allowance in respect of that year.
 
-## 16. Expenses of the Authority[^key-2a113309878ca15bf0ff42145961b218]
+## 16. Expenses of the Authority[^c-2a113309878ca15bf0ff42145961b218]
 
 (1) The expenses incurred by the Authority must be defrayed by the relevant councils in accordance with paragraph (2)[^f00010].
 
@@ -292,7 +292,7 @@ A person is not eligible for appointment or re-appointment as a member of the Au
 
 | Relevant council | Percentage |
 | --- | --- |
-| Bournemouth, Christchurch and Poole Council[^key-5744b9e8d6867b2eeda4d2aa579d47b1] | 11.14% |
+| Bournemouth, Christchurch and Poole Council[^c-5744b9e8d6867b2eeda4d2aa579d47b1] | 11.14% |
 | Dorset Council | 24.79% |
 | Hampshire County Council | 40.40% |
 | Isle of Wight Council | 14.35% |
@@ -301,7 +301,7 @@ A person is not eligible for appointment or re-appointment as a member of the Au
 
 (3) Before the consideration of any motion by virtue of subsection (4) of section 180 of the Marine Act to veto the total amount of expenses incurred by the Authority which is to be defrayed pursuant to that section, the Authority must give notice in writing of that motion to each council member.
 
-## 17. Delegation of Authority’s functions[^key-c61f6431564eeedf19cbab145bee06f7]
+## 17. Delegation of Authority’s functions[^c-c61f6431564eeedf19cbab145bee06f7]
 
 (1) If the Authority considers it necessary or expedient for the exercise of its functions, it may authorise a sub-committee or any member or employee of the Authority to exercise any of the Authority’s functions.
 
@@ -309,7 +309,7 @@ A person is not eligible for appointment or re-appointment as a member of the Au
 
 (3) Paragraph (1) does not prevent the Authority from exercising the function itself.
 
-## 18. Validity of acts and proceedings[^key-7f08f5458eb43f1a6362287f7c595101]
+## 18. Validity of acts and proceedings[^c-7f08f5458eb43f1a6362287f7c595101]
 
 The validity of anything done by the Authority, or by any sub-committee of the Authority, is not affected by any of the following—
 
@@ -330,14 +330,14 @@ Department for Environment, Food and Rural Affairs
 
 Article 3(5)
 
-### PART 1 — The western boundary of the district[^key-5c5c0b1300811dbba406cda719a3ec7d]
+### PART 1 — The western boundary of the district[^c-5c5c0b1300811dbba406cda719a3ec7d]
 
 | Points | Latitude |  | Longitude |
 | --- | --- | --- | --- |
 | 1 | 50° 43.07′ N | : | 2° 56.78′ W |
 | 2 | 50° 36.36′ N | : | 2° 56.78′ W |
 
-### PART 2 — The eastern boundary of the district[^key-22fa7910528873c90b21ae2504ebba02]
+### PART 2 — The eastern boundary of the district[^c-22fa7910528873c90b21ae2504ebba02]
 
 | Points | Latitude |  | Longitude |
 | --- | --- | --- | --- |
@@ -360,27 +360,27 @@ A full impact assessment of the effect that the 2009 Act will have on the costs 
 
 [^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-a0acc85cf2147fbac489ba0bebccefd5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/2198/article/1) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-a0acc85cf2147fbac489ba0bebccefd5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/2198/article/1) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
-[^key-85f7b5e2df0f22a8a4fd9ba3d8ed16cc]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/2198/article/2) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-85f7b5e2df0f22a8a4fd9ba3d8ed16cc]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/2198/article/2) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
 [^f00002]: Footnote: By virtue of article 2(2) “relevant council” has the same meaning as in section 186(1) of the Marine Act. Article 3(3) of this Order identifies the particular councils whose areas form part of the Southern Inshore Fisheries and Conservation District.
 
-[^key-40b2f33812e1c7d7eb8bc38a11e9948f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/2198/article/3) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-40b2f33812e1c7d7eb8bc38a11e9948f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/2198/article/3) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
-[^key-bf95a84bb1cf73ac695c746b3777c2a5]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2198/article/3/3) omitted (27.9.2019) by virtue of [The Southern Inshore Fisheries and Conservation (Amendment) Order 2019 (S.I. 2019/1223)](https://www.legislation.gov.uk/uksi/2019/1223), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1223/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/1223/article/2/2/a)
+[^c-bf95a84bb1cf73ac695c746b3777c2a5]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2198/article/3/3) omitted (27.9.2019) by virtue of [The Southern Inshore Fisheries and Conservation (Amendment) Order 2019 (S.I. 2019/1223)](https://www.legislation.gov.uk/uksi/2019/1223), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1223/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/1223/article/2/2/a)
 
-[^key-b4def7edd8a0ebc2447639040212b503]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2198/article/3/3) substituted (27.9.2019) by [The Southern Inshore Fisheries and Conservation (Amendment) Order 2019 (S.I. 2019/1223)](https://www.legislation.gov.uk/uksi/2019/1223), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1223/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/1223/article/2/2/b)
+[^c-b4def7edd8a0ebc2447639040212b503]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2198/article/3/3) substituted (27.9.2019) by [The Southern Inshore Fisheries and Conservation (Amendment) Order 2019 (S.I. 2019/1223)](https://www.legislation.gov.uk/uksi/2019/1223), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1223/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/1223/article/2/2/b)
 
-[^key-96a951cf2e26ec2e6bf78eaeea9a3c43]: Textual amendment: Word in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2198/article/3/3) omitted (27.9.2019) by virtue of [The Southern Inshore Fisheries and Conservation (Amendment) Order 2019 (S.I. 2019/1223)](https://www.legislation.gov.uk/uksi/2019/1223), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1223/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/1223/article/2/2/c)
+[^c-96a951cf2e26ec2e6bf78eaeea9a3c43]: Textual amendment: Word in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2198/article/3/3) omitted (27.9.2019) by virtue of [The Southern Inshore Fisheries and Conservation (Amendment) Order 2019 (S.I. 2019/1223)](https://www.legislation.gov.uk/uksi/2019/1223), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1223/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/1223/article/2/2/c)
 
 [^f00003]: Footnote: 1965 III p.6452A, amended by the Territorial Waters (Amendment) Order in Council 1979, 1979 III p.2866. These baselines are used in the Fishing Boats (European Economic Community) Designation Order 1983 ([S.I. 1983/253](https://www.legislation.gov.uk/uksi/1983/253)) to designate, for the purposes of section 2(1) of the Fishery Limits Act 1976, the areas in which fishing boats registered in Member States other than the United Kingdom may fish.
 
-[^key-4ab461e4b45c62c9599a282ccc7e9c86]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/2198/article/4) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-4ab461e4b45c62c9599a282ccc7e9c86]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/2198/article/4) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
 [^f00004]: Footnote: Section 150(1) of the Marine Act provides that there is to be an inshore fisheries and conservation authority for every inshore fisheries and conservation district established under section 149 of that Act.
 
-[^key-ef3bd422bb3de3cae74c81aaa8c10abb]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/2198/article/5) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-ef3bd422bb3de3cae74c81aaa8c10abb]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/2198/article/5) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
 [^f00005]: Footnote: See section 151(1)(a) and (5)(a) and (b) of the Marine Act.
 
@@ -388,42 +388,42 @@ A full impact assessment of the effect that the 2009 Act will have on the costs 
 
 [^f00007]: Footnote: See section 151(1)(c) and (5)(c) of the Marine Act.
 
-[^key-c8373e64bedf6d709e978ff9723d720d]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2010/2198/article/5/3) substituted (27.9.2019) by [The Southern Inshore Fisheries and Conservation (Amendment) Order 2019 (S.I. 2019/1223)](https://www.legislation.gov.uk/uksi/2019/1223), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1223/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1223/article/2/3)
+[^c-c8373e64bedf6d709e978ff9723d720d]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2010/2198/article/5/3) substituted (27.9.2019) by [The Southern Inshore Fisheries and Conservation (Amendment) Order 2019 (S.I. 2019/1223)](https://www.legislation.gov.uk/uksi/2019/1223), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1223/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1223/article/2/3)
 
-[^key-7cd0dc4de9b9b26ded99e2d2865c616f]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/2198/article/6) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-7cd0dc4de9b9b26ded99e2d2865c616f]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/2198/article/6) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
-[^key-a226b21b3a9f98d6efbf460d12bc272a]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/2198/article/7) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-a226b21b3a9f98d6efbf460d12bc272a]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/2198/article/7) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
-[^key-9d0e04c06bcfa1ce7e2571979045f8b5]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/2198/article/8) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-9d0e04c06bcfa1ce7e2571979045f8b5]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/2198/article/8) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
-[^key-7bb1f4bfa2684374eb0ccb5eb413bc31]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2010/2198/article/9) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-7bb1f4bfa2684374eb0ccb5eb413bc31]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2010/2198/article/9) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
-[^key-470b0d82c61855eeac9cac1ecbb01e22]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/2198/article/10) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-470b0d82c61855eeac9cac1ecbb01e22]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/2198/article/10) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
-[^key-f27e8473b809498ca119cd4bc621a743]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2010/2198/article/11) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-f27e8473b809498ca119cd4bc621a743]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2010/2198/article/11) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
-[^key-5fd4206db105dd240cf3013a21af6eb1]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2010/2198/article/12) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-5fd4206db105dd240cf3013a21af6eb1]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2010/2198/article/12) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
 [^f00008]: Footnote: [1974 c.53](https://www.legislation.gov.uk/ukpga/1974/53).
 
-[^key-f581cb04c364304878b8365e26f776c8]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2010/2198/article/13) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-f581cb04c364304878b8365e26f776c8]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2010/2198/article/13) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
 [^f00009]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-edbb299ac454b8123af197799bc10b24]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2010/2198/article/14) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-edbb299ac454b8123af197799bc10b24]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2010/2198/article/14) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
-[^key-3cafb78dc101185948fe9103f5ee6b42]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2010/2198/article/15) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-3cafb78dc101185948fe9103f5ee6b42]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2010/2198/article/15) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
-[^key-2a113309878ca15bf0ff42145961b218]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2010/2198/article/16) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-2a113309878ca15bf0ff42145961b218]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2010/2198/article/16) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
 [^f00010]: Footnote: Section 180(1) and (2) of the Marine Act requires each relevant council to defray such portion of the expenses incurred by the authority for an IFC district as may be specified in, or determined in accordance with, the order establishing the district.
 
-[^key-5744b9e8d6867b2eeda4d2aa579d47b1]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/16/2) substituted (27.9.2019) by [The Southern Inshore Fisheries and Conservation (Amendment) Order 2019 (S.I. 2019/1223)](https://www.legislation.gov.uk/uksi/2019/1223), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1223/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/1223/article/2/4)
+[^c-5744b9e8d6867b2eeda4d2aa579d47b1]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/16/2) substituted (27.9.2019) by [The Southern Inshore Fisheries and Conservation (Amendment) Order 2019 (S.I. 2019/1223)](https://www.legislation.gov.uk/uksi/2019/1223), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1223/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/1223/article/2/4)
 
-[^key-c61f6431564eeedf19cbab145bee06f7]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2010/2198/article/17) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-c61f6431564eeedf19cbab145bee06f7]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2010/2198/article/17) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
-[^key-7f08f5458eb43f1a6362287f7c595101]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2010/2198/article/18) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-7f08f5458eb43f1a6362287f7c595101]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2010/2198/article/18) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
-[^key-5c5c0b1300811dbba406cda719a3ec7d]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2010/2198/schedule/part/1) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-5c5c0b1300811dbba406cda719a3ec7d]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2010/2198/schedule/part/1) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
 
-[^key-22fa7910528873c90b21ae2504ebba02]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2010/2198/schedule/part/2) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)
+[^c-22fa7910528873c90b21ae2504ebba02]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2010/2198/schedule/part/2) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2198/article/1/2)

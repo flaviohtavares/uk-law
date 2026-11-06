@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17D. Harbour closure orders: procedure[^key-69aae47cc88a5f40904ad0440f0f8383]
+## 17D. Harbour closure orders: procedure[^c-69aae47cc88a5f40904ad0440f0f8383]
 
 *Extent: E+W+S*
 
@@ -24,11 +24,11 @@ summary: ''
 
 (2) In relation to closure orders made otherwise than on the application of the harbour authority Part 1 of Schedule 3 has effect with any necessary modifications, in particular—
 
-- (a)[^key-89179d069335c6c3ac93be2d56d44fe8] ignore paragraphs 3, 4A, 4B(2), 4C(2), 5(2), 6(2)(a) and (c), (3) and (4), 7, 8A, 9, 10(6) to (8), 13 and 14,
+- (a)[^c-89179d069335c6c3ac93be2d56d44fe8] ignore paragraphs 3, 4A, 4B(2), 4C(2), 5(2), 6(2)(a) and (c), (3) and (4), 7, 8A, 9, 10(6) to (8), 13 and 14,
 - (b) treat a reference to the applicant as a reference to the Secretary of State,
 - (c) treat a reference to the application for an order as a reference to the proposal to make an order,
-- (d) treat a reference to being notified of a proposed application as a reference to proposing to make an order, [^key-d723fc79a27a9afd43e21c3722803067]...
-- (e)[^key-195a9dae57a01b952c34947136604b74] paragraph 4B applies as if for sub-paragraph (1) there were substituted—
+- (d) treat a reference to being notified of a proposed application as a reference to proposing to make an order, [^c-d723fc79a27a9afd43e21c3722803067]...
+- (e)[^c-195a9dae57a01b952c34947136604b74] paragraph 4B applies as if for sub-paragraph (1) there were substituted—
 
   > (1) The Secretary of State must make a screening decision in respect of the proposed order—
   >
@@ -48,10 +48,10 @@ summary: ''
 
 ## Annotations
 
-[^key-69aae47cc88a5f40904ad0440f0f8383]: Textual amendment: Ss. 17A-17F and cross-heading inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2013/23/section/6/1), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3); [S.I. 2013/2006](https://www.legislation.gov.uk/wsi/2013/2006), [art. 2](https://www.legislation.gov.uk/wsi/2013/2006/article/2)
+[^c-69aae47cc88a5f40904ad0440f0f8383]: Textual amendment: Ss. 17A-17F and cross-heading inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2013/23/section/6/1), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3); [S.I. 2013/2006](https://www.legislation.gov.uk/wsi/2013/2006), [art. 2](https://www.legislation.gov.uk/wsi/2013/2006/article/2)
 
-[^key-89179d069335c6c3ac93be2d56d44fe8]: Textual amendment: [S. 17D(2)(a)](https://www.legislation.gov.uk/ukpga/1964/40/section/17D/2/a) substituted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/1/paragraph/3/a) (with [Sch. 6 para. 2(2)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/2/2))
+[^c-89179d069335c6c3ac93be2d56d44fe8]: Textual amendment: [S. 17D(2)(a)](https://www.legislation.gov.uk/ukpga/1964/40/section/17D/2/a) substituted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/1/paragraph/3/a) (with [Sch. 6 para. 2(2)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/2/2))
 
-[^key-d723fc79a27a9afd43e21c3722803067]: Textual amendment: Word in [s. 17D(2)(d)](https://www.legislation.gov.uk/ukpga/1964/40/section/17D/2/d) omitted (5.12.2017) by virtue of [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/1/paragraph/3/b) (with [Sch. 6 para. 2(2)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/2/2))
+[^c-d723fc79a27a9afd43e21c3722803067]: Textual amendment: Word in [s. 17D(2)(d)](https://www.legislation.gov.uk/ukpga/1964/40/section/17D/2/d) omitted (5.12.2017) by virtue of [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/1/paragraph/3/b) (with [Sch. 6 para. 2(2)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/2/2))
 
-[^key-195a9dae57a01b952c34947136604b74]: Textual amendment: [Ss. 17D(2)(e)-(h)](https://www.legislation.gov.uk/ukpga/1964/40/section/17D/2/e) substituted for [s. 17D(2)(e)](https://www.legislation.gov.uk/ukpga/1964/40/section/17D/2/e) (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/1/paragraph/3/c) (with [Sch. 6 paras. 2(2)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/2/2), [3(1)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/3/1))
+[^c-195a9dae57a01b952c34947136604b74]: Textual amendment: [Ss. 17D(2)(e)-(h)](https://www.legislation.gov.uk/ukpga/1964/40/section/17D/2/e) substituted for [s. 17D(2)(e)](https://www.legislation.gov.uk/ukpga/1964/40/section/17D/2/e) (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/1/paragraph/3/c) (with [Sch. 6 paras. 2(2)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/2/2), [3(1)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/3/1))

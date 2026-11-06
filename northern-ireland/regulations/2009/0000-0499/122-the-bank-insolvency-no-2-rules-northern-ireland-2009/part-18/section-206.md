@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 206. Title of proceedings[^key-471bd7a8e095a26ca05910802971d946]
+## 206. Title of proceedings[^c-471bd7a8e095a26ca05910802971d946]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Every proceeding under Part 2 of the 2009 Act shall, with any necessary addition
 
 ## Annotations
 
-[^key-471bd7a8e095a26ca05910802971d946]: Commencement: Rule 206 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-471bd7a8e095a26ca05910802971d946]: Commencement: Rule 206 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

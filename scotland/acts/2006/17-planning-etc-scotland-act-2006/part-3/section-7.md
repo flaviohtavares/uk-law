@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Applications for planning permission and certain consents[^key-bdcbdb5d67d593cd9d827ef544c05deb]
+## 7. Applications for planning permission and certain consents[^c-bdcbdb5d67d593cd9d827ef544c05deb]
 
 *Extent: S*
 
-(1)[^key-257b80a005a9d2e17aebc410598a67dd] For section 32 of the principal Act (form and content of applications for planning permission) substitute—
+(1)[^c-257b80a005a9d2e17aebc410598a67dd] For section 32 of the principal Act (form and content of applications for planning permission) substitute—
 
 > **32. Applications for planning permission**
 >
@@ -49,7 +49,7 @@ summary: ''
 
 .
 
-(2)[^key-257b80a005a9d2e17aebc410598a67dd] In section 182 of that Act (regulations controlling display of advertisements), after subsection (2) insert—
+(2)[^c-257b80a005a9d2e17aebc410598a67dd] In section 182 of that Act (regulations controlling display of advertisements), after subsection (2) insert—
 
 > (2A) The regulations may also make provision as to—
 >
@@ -79,6 +79,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdcbdb5d67d593cd9d827ef544c05deb]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2006/17/section/7) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
+[^c-bdcbdb5d67d593cd9d827ef544c05deb]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2006/17/section/7) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
 
-[^key-257b80a005a9d2e17aebc410598a67dd]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/asp/2006/17/section/7/1)[(2)](https://www.legislation.gov.uk/asp/2006/17/section/7/2) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-257b80a005a9d2e17aebc410598a67dd]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/asp/2006/17/section/7/1)[(2)](https://www.legislation.gov.uk/asp/2006/17/section/7/2) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

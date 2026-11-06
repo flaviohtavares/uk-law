@@ -54,7 +54,7 @@ Her Majesty, in exercise of the powers conferred upon Her by sections 445 and 45
 
 ## Contents
 
-### PART A1 — Introduction[^key-327c947de188e9493d8ef5a19d46e885]
+### PART A1 — Introduction[^c-327c947de188e9493d8ef5a19d46e885]
 
 *Extent: E+W+S+N.I.*
 
@@ -244,4 +244,4 @@ Article 70 sets out the functions that seconded constables in Scotland cannot ex
 
 [^f00001]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 445(2)(b) was amended by paragraphs 47 and 71, of Schedule 14 to the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)) and paragraphs 121 and 139 in Part 6 of Schedule 8, to the Serious Crime Act 2007 (c. 27).
 
-[^key-327c947de188e9493d8ef5a19d46e885]: Textual amendment: [Pt. A1](https://www.legislation.gov.uk/uksi/2013/2605/part/A1) heading substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [37(1)](https://www.legislation.gov.uk/uksi/2021/638/article/37/1)
+[^c-327c947de188e9493d8ef5a19d46e885]: Textual amendment: [Pt. A1](https://www.legislation.gov.uk/uksi/2013/2605/part/A1) heading substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [37(1)](https://www.legislation.gov.uk/uksi/2021/638/article/37/1)

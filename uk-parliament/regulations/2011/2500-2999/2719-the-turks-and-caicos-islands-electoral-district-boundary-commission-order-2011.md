@@ -32,7 +32,7 @@ summary: ''
 
 Caribbean And North Atlantic Territories
 
-The Turks and Caicos Islands (Electoral District Boundary Commission) Order 2011 (revoked)[^key-d5d91c8930bfbfff4205f71848fc10a4]
+The Turks and Caicos Islands (Electoral District Boundary Commission) Order 2011 (revoked)[^c-d5d91c8930bfbfff4205f71848fc10a4]
 
 Made
 
@@ -50,36 +50,36 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-d5d91c8930bfbfff4205f71848fc10a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d5d91c8930bfbfff4205f71848fc10a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d5d91c8930bfbfff4205f71848fc10a4]
+## 1. Citation and commencement[^c-d5d91c8930bfbfff4205f71848fc10a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d5d91c8930bfbfff4205f71848fc10a4]
+## 2. Interpretation[^c-d5d91c8930bfbfff4205f71848fc10a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Establishment of Electoral District Boundary Commission[^key-d5d91c8930bfbfff4205f71848fc10a4]
+## 3. Establishment of Electoral District Boundary Commission[^c-d5d91c8930bfbfff4205f71848fc10a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Functions of Electoral District Boundary Commission[^key-d5d91c8930bfbfff4205f71848fc10a4]
+## 4. Functions of Electoral District Boundary Commission[^c-d5d91c8930bfbfff4205f71848fc10a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Qualifications for registration as an elector[^key-d5d91c8930bfbfff4205f71848fc10a4]
+## 5. Qualifications for registration as an elector[^c-d5d91c8930bfbfff4205f71848fc10a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d5d91c8930bfbfff4205f71848fc10a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d5d91c8930bfbfff4205f71848fc10a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d5d91c8930bfbfff4205f71848fc10a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d5d91c8930bfbfff4205f71848fc10a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d5d91c8930bfbfff4205f71848fc10a4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2719) revoked (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 5](https://www.legislation.gov.uk/uksi/2024/1128/article/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-d5d91c8930bfbfff4205f71848fc10a4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2719) revoked (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 5](https://www.legislation.gov.uk/uksi/2024/1128/article/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))

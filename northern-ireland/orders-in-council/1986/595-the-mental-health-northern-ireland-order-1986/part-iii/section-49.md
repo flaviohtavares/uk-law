@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Procedure in relation to unfitness to be tried[^key-b63eaa01ab8db2885f546e25c0f3edff][^key-b0ff22537e98a8b5fba6c75cd25b4e0a]
+## 49. Procedure in relation to unfitness to be tried[^c-b63eaa01ab8db2885f546e25c0f3edff][^c-b0ff22537e98a8b5fba6c75cd25b4e0a]
 
 *Extent: N.I.*
 
@@ -39,9 +39,9 @@ summary: ''
 
 ## Annotations
 
-[^key-b63eaa01ab8db2885f546e25c0f3edff]: Modification: Art. 49 modified (temp.) (2.4.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 10 para. 10(1)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/10/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/10/2) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [art. 2(c)](https://www.legislation.gov.uk/nisr/2020/58/article/2/c)
+[^c-b63eaa01ab8db2885f546e25c0f3edff]: Modification: Art. 49 modified (temp.) (2.4.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 10 para. 10(1)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/10/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/10/2) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [art. 2(c)](https://www.legislation.gov.uk/nisr/2020/58/article/2/c)
 
-[^key-b0ff22537e98a8b5fba6c75cd25b4e0a]: Modification: [Art. 49](https://www.legislation.gov.uk/nisi/1986/595/article/49) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-b0ff22537e98a8b5fba6c75cd25b4e0a]: Modification: [Art. 49](https://www.legislation.gov.uk/nisi/1986/595/article/49) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
 [^c17124601]: Textual amendment: [2004 c. 28](https://www.legislation.gov.uk/ukpga/2004/28)
 

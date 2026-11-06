@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. SFO's pre-investigation powers in relation to bribery and corruption: foreign officers etc.[^key-9868e6080b650a2612725d89fe06527b]
+## 59. SFO's pre-investigation powers in relation to bribery and corruption: foreign officers etc.[^c-9868e6080b650a2612725d89fe06527b]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9868e6080b650a2612725d89fe06527b]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2008/4/section/59) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/33)
+[^c-9868e6080b650a2612725d89fe06527b]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2008/4/section/59) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/33)

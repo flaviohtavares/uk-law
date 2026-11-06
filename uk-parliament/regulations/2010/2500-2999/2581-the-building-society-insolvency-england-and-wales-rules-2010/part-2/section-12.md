@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Persons entitled to copy of application[^key-fbd10c347039ef7f5c9c9f960edc139b]
+## 12. Persons entitled to copy of application[^c-fbd10c347039ef7f5c9c9f960edc139b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbd10c347039ef7f5c9c9f960edc139b]: Commencement: Rule 12 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-fbd10c347039ef7f5c9c9f960edc139b]: Commencement: Rule 12 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

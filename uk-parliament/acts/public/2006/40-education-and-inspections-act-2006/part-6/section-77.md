@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Local authorities in England: provision of travel arrangements etc for children[^key-81ffb0eb20e62c98df124b83aeaf3944]
+## 77. Local authorities in England: provision of travel arrangements etc for children[^c-81ffb0eb20e62c98df124b83aeaf3944]
 
 *Extent: E+W*
 
-(1)[^key-f745108ce338834486ec59aea948ee56][^key-81c0797c376990b50c6a2761182ed5a2] After section 508A of EA 1996 (inserted by section 76 above) insert—
+(1)[^c-f745108ce338834486ec59aea948ee56][^c-81c0797c376990b50c6a2761182ed5a2] After section 508A of EA 1996 (inserted by section 76 above) insert—
 
 > **508B. Local authorities in England: travel arrangements for eligible children**
 >
-> (1) A local authority[^key-0ea7acc4831332590d0c9da4689eca3c] in England must make, in the case of an eligible child in the authority's area to whom subsection (2) applies, such travel arrangements as they consider necessary in order to secure that suitable home to school travel arrangements, for the purpose of facilitating the child's attendance at the relevant educational establishment in relation to him, are made and provided free of charge in relation to the child.
+> (1) A local authority[^c-0ea7acc4831332590d0c9da4689eca3c] in England must make, in the case of an eligible child in the authority's area to whom subsection (2) applies, such travel arrangements as they consider necessary in order to secure that suitable home to school travel arrangements, for the purpose of facilitating the child's attendance at the relevant educational establishment in relation to him, are made and provided free of charge in relation to the child.
 >
 > (2) This subsection applies to an eligible child if—
 >
@@ -95,18 +95,18 @@ summary: ''
 >
 > (4) Regulations may require a local authority to publish, at such times and in such manner as may be prescribed, such information as may be prescribed with respect to the authority's policy and arrangements relating to the discharge of their functions under section 508B or 508C.
 
-(2)[^key-fc361d633ec3ec568ec68832e6e70495][^key-6c6f426c5af7f999735c3222c237a179] Schedule 8 (which inserts Schedule 35B to EA 1996) has effect.
+(2)[^c-fc361d633ec3ec568ec68832e6e70495][^c-6c6f426c5af7f999735c3222c237a179] Schedule 8 (which inserts Schedule 35B to EA 1996) has effect.
 
 ## Annotations
 
-[^key-81ffb0eb20e62c98df124b83aeaf3944]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/3)
+[^c-81ffb0eb20e62c98df124b83aeaf3944]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/3)
 
-[^key-f745108ce338834486ec59aea948ee56]: Commencement: S. 77(1) in force at 1.4.2007 for specified purposes by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(m)](https://www.legislation.gov.uk/uksi/2007/935/article/5/m)
+[^c-f745108ce338834486ec59aea948ee56]: Commencement: S. 77(1) in force at 1.4.2007 for specified purposes by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(m)](https://www.legislation.gov.uk/uksi/2007/935/article/5/m)
 
-[^key-81c0797c376990b50c6a2761182ed5a2]: Commencement: S. 77(1) in force at 1.9.2007 in so far as not already in force by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/b)
+[^c-81c0797c376990b50c6a2761182ed5a2]: Commencement: S. 77(1) in force at 1.9.2007 in so far as not already in force by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/b)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
 
-[^key-fc361d633ec3ec568ec68832e6e70495]: Commencement: S. 77(2) in force at 1.9.2007 for specified purposes by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/c)
+[^c-fc361d633ec3ec568ec68832e6e70495]: Commencement: S. 77(2) in force at 1.9.2007 for specified purposes by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/c)
 
-[^key-6c6f426c5af7f999735c3222c237a179]: Commencement: S. 77(2) in force at 1.9.2008 in so far as not already in force by [S.I. 2008/1971](https://www.legislation.gov.uk/uksi/2008/1971), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1971/article/2/b)
+[^c-6c6f426c5af7f999735c3222c237a179]: Commencement: S. 77(2) in force at 1.9.2008 in so far as not already in force by [S.I. 2008/1971](https://www.legislation.gov.uk/uksi/2008/1971), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1971/article/2/b)

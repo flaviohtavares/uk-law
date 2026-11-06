@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Amendment of regulation 19[^key-da9d56acff9a1a1a35546d46626c056e]
+## 7. Amendment of regulation 19[^c-da9d56acff9a1a1a35546d46626c056e]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ In regulation 19 (calculation of income and capital of members of claimant’s f
 
 ## Annotations
 
-[^key-da9d56acff9a1a1a35546d46626c056e]: Commencement: Reg. 7 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-da9d56acff9a1a1a35546d46626c056e]: Commencement: Reg. 7 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)

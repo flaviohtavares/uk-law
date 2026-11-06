@@ -64,13 +64,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In so far as not already applied[^f00002] in relation to harm so far as attributable to any radioactivity possessed by any substance, Part 2A applies in relation to and for the purposes of dealing with such harm, and has effect with the modifications made by regulations 5 to 17.
 
-## 4. Interpretation of modifications[^key-e084331fc64a6a5d724893d778ff5b6c]
+## 4. Interpretation of modifications[^c-e084331fc64a6a5d724893d778ff5b6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 5. Section 78A (preliminary)
 
-(1)[^key-cc6db3e293916e5680e5ca7d80cbcd2c] Section 78A (preliminary) has effect with the following modifications.
+(1)[^c-cc6db3e293916e5680e5ca7d80cbcd2c] Section 78A (preliminary) has effect with the following modifications.
 
 (2) For subsection (2), substitute—
 
@@ -83,18 +83,18 @@ In so far as not already applied[^f00002] in relation to harm so far as attribut
 >
 > (2A) “Land contaminated by a nuclear occurrence” means land which is contaminated land by reason of the presence in, on or under that land of any substances, in so far as by reason of that presence damage to that land has occurred, being—
 >
-> - (a) damage caused in breach of any duty imposed by section 7, 7B,[^key-cf3f48064bb96e0a764314ca350c996f] 8, 9 or 10 of the 1965 Act, or deemed to be so caused by section 12(2) of that Act;
-> - (b) damage which would have been so caused or would have been deemed by section 12(2) of the 1965 Act to have been so caused if, in section 7(1A)(b) or (1C)(b)[^key-39e29b5836746098533f0f9783d921b5] of that Act, the words “other than the licensee” or, in section 10(1)(b)[^key-e4319e5b0039fde6cb69bb55c0ccbf7b] of that Act, the words “other than that operator” had not been enacted;
-> - (ba)[^key-c96f9db3ec1a41510e38cd8f91a47e45] damage caused by preventive measures taken after a breach of a duty imposed by section 7, 7B, 8, 9 or 10 of the 1965 Act in respect of which a claim for compensation may be made under section 11H(2) of the 1965 Act or could have been made if section 11H(4) of the 1965 Act had not been enacted; or
+> - (a) damage caused in breach of any duty imposed by section 7, 7B,[^c-cf3f48064bb96e0a764314ca350c996f] 8, 9 or 10 of the 1965 Act, or deemed to be so caused by section 12(2) of that Act;
+> - (b) damage which would have been so caused or would have been deemed by section 12(2) of the 1965 Act to have been so caused if, in section 7(1A)(b) or (1C)(b)[^c-39e29b5836746098533f0f9783d921b5] of that Act, the words “other than the licensee” or, in section 10(1)(b)[^c-e4319e5b0039fde6cb69bb55c0ccbf7b] of that Act, the words “other than that operator” had not been enacted;
+> - (ba)[^c-c96f9db3ec1a41510e38cd8f91a47e45] damage caused by preventive measures taken after a breach of a duty imposed by section 7, 7B, 8, 9 or 10 of the 1965 Act in respect of which a claim for compensation may be made under section 11H(2) of the 1965 Act or could have been made if section 11H(4) of the 1965 Act had not been enacted; or
 > - (c) damage in respect of which any relevant foreign operator or other person is liable under any relevant foreign law, or for which he would be so liable—
->   - (i) but for any exclusion or limitation of liability applying by virtue of any provision of that law made for purposes corresponding to those of section 13(3) or (4)(a), 15, 16(1), (1ZA), (1ZB), (2), (3B) or (3C)[^key-b9e2aa0a01aa769b462d3fb3c3eae153] or 18 of the 1965 Act; or
+>   - (i) but for any exclusion or limitation of liability applying by virtue of any provision of that law made for purposes corresponding to those of section 13(3) or (4)(a), 15, 16(1), (1ZA), (1ZB), (2), (3B) or (3C)[^c-b9e2aa0a01aa769b462d3fb3c3eae153] or 18 of the 1965 Act; or
 >   - (ii) if any such relevant foreign law which does not contain provision made for purposes corresponding to those of section 13(4)(b) of the 1965 Act did contain such provision.
 
 .
 
 (3) For subsection (4), substitute—
 
-> (4) “Harm” means lasting exposure to any person resulting from the after-effects of an[^key-25dd1deba8315c11fb6d2f08f6ca0f9f] emergency, past practice or past work activity (except in section 78E(4A)(a))[^key-4168e6e4ee91dda07f9018a1fcc24753].
+> (4) “Harm” means lasting exposure to any person resulting from the after-effects of an[^c-25dd1deba8315c11fb6d2f08f6ca0f9f] emergency, past practice or past work activity (except in section 78E(4A)(a))[^c-4168e6e4ee91dda07f9018a1fcc24753].
 
 .
 
@@ -130,17 +130,17 @@ In so far as not already applied[^f00002] in relation to harm so far as attribut
 >   - (ii) of restoring the land to its former state; or
 > - (c) the making of subsequent inspections from time to time for the purpose of keeping under review the condition of the land;
 >
-> and references to remediating[^key-3d905e74de00fbb9fc2fe3c2f91a65e4] shall be construed accordingly.
+> and references to remediating[^c-3d905e74de00fbb9fc2fe3c2f91a65e4] shall be construed accordingly.
 >
 > (7A) For the purpose of paragraph (b) of subsection (7) above, “the doing of any works, the carrying out of any operations or the taking of any steps in relation to any such land” shall include ensuring that—
 >
 > - (a) any such area is demarcated;
-> - (aa)[^key-28d9e9eddd934595fd9ac1d475e8d574] affected members of the public are identified;
+> - (aa)[^c-28d9e9eddd934595fd9ac1d475e8d574] affected members of the public are identified;
 > - (ab) assessment of the means available to the individuals identified under paragraph (aa) for controlling their own exposure is made;
 > - (b) arrangements for the monitoring of the harm are made;
-> - (c)[^key-e67d64adfbe97ad75cebcfd5e815c2fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-> - (d) access to or use of land or buildings situated in the demarcated area is regulated ; and[^key-a457e36e6bd20ff719edacc632745639]
-> - (e)[^key-de7dff8fd084c7465cc7e485a91ddd1d] any other appropriate protective or remedial measure is implemented.
+> - (c)[^c-e67d64adfbe97ad75cebcfd5e815c2fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (d) access to or use of land or buildings situated in the demarcated area is regulated ; and[^c-a457e36e6bd20ff719edacc632745639]
+> - (e)[^c-de7dff8fd084c7465cc7e485a91ddd1d] any other appropriate protective or remedial measure is implemented.
 
 .
 
@@ -159,18 +159,18 @@ In so far as not already applied[^f00002] in relation to harm so far as attribut
   > - “licensee”, “relevant foreign law” and “relevant foreign operator” have the meanings given by section 26(1) of the 1965 Act;
 
   ;
-- (d)[^key-5cedf984ef9da36109390e569e31f353] for the definition of “substance”, substitute—
+- (d)[^c-5cedf984ef9da36109390e569e31f353] for the definition of “substance”, substitute—
 
   > - “substance” means, whether in solid or liquid form or in the form of a gas or vapour, any substance containing radionuclides which have resulted from the after-effects of an emergency or have been processed as part of a past practice or past work activity;
 
   ;
-- (e)[^key-c42aa67fb0d5f7244281823d808b273a] after the definition of “unitary authority”, insert—
+- (e)[^c-c42aa67fb0d5f7244281823d808b273a] after the definition of “unitary authority”, insert—
 
   > - and any other word or expression used both in this Part and in Council Directive 2013/59/Euratom, laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom, has the same meaning for the purposes of this Part as it has in that Directive.
 
   .
 
-(9)[^key-a86f327edd767ffa37de504d6f92717a] After subsection (9) insert—
+(9)[^c-a86f327edd767ffa37de504d6f92717a] After subsection (9) insert—
 
 > (9A) When reading Council Directive 2013/59/Euratom for the purposes of subsection (9), Article 4(43) of that Directive (definition of inspection) is to be read as if, for the words “any competent authority”, there were substituted “the enforcing authority”.
 
@@ -215,7 +215,7 @@ In so far as not already applied[^f00002] in relation to harm so far as attribut
 > - (a) the cost which is likely to be involved; and
 > - (b) the seriousness of the harm in question.
 >
-> (4A)[^key-b9771669b989f08ee03b2205188108cc] Where remediation includes the implementation of a protective or remedial measure, that part of the remediation which consists of the implementation of any such measure may be considered reasonable only—
+> (4A)[^c-b9771669b989f08ee03b2205188108cc] Where remediation includes the implementation of a protective or remedial measure, that part of the remediation which consists of the implementation of any such measure may be considered reasonable only—
 >
 > - (a) where the measure does more good than harm; and
 > - (b) where the form, scale and duration of the measure is optimised.
@@ -226,7 +226,7 @@ In so far as not already applied[^f00002] in relation to harm so far as attribut
 
 (4) In subsection (5), in paragraph (b), omit “, or waters are,”.
 
-## 9. Section 78F (determination of the appropriate person to bear responsibility for remediation)[^key-f5714a871cd44bcd40ef7c6a5abdc377]
+## 9. Section 78F (determination of the appropriate person to bear responsibility for remediation)[^c-f5714a871cd44bcd40ef7c6a5abdc377]
 
 (1) Section 78F (determination of the appropriate person to bear responsibility for remediation) has effect with the following modifications—
 
@@ -261,7 +261,7 @@ In so far as not already applied[^f00002] in relation to harm so far as attribut
 
 .
 
-## 11. Section 78H (restrictions and prohibitions on serving remediation notices)[^key-76336060bb22bf9970d01eea3d1deb28]
+## 11. Section 78H (restrictions and prohibitions on serving remediation notices)[^c-76336060bb22bf9970d01eea3d1deb28]
 
 Section 78H (restrictions and prohibitions on serving remediation notices) has effect with the following modifications—
 
@@ -300,7 +300,7 @@ Section 78J is omitted.
 
 ## 14. Section 78N (powers of the enforcing authority to carry out remediation)
 
-(1)[^key-44b6c946759ab8796122a732087324a6] Section 78N (powers of the enforcing authority to carry out remediation) has effect with the following modifications.
+(1)[^c-44b6c946759ab8796122a732087324a6] Section 78N (powers of the enforcing authority to carry out remediation) has effect with the following modifications.
 
 (2) In subsection (1), omit “or waters”.
 
@@ -376,7 +376,7 @@ Subsection (1) of section 78P (recovery of, and security for, the cost of remedi
 
 ## 17. Section 78YB (interaction of Part 2A with other enactments)
 
-(1)[^key-0fe8fcba0c301eabb3b741eb07cb0f72] Section 78YB (interaction of Part 2A with other enactments) has effect with the following modifications.
+(1)[^c-0fe8fcba0c301eabb3b741eb07cb0f72] Section 78YB (interaction of Part 2A with other enactments) has effect with the following modifications.
 
 (2) In subsection (1)—
 
@@ -387,31 +387,31 @@ Subsection (1) of section 78P (recovery of, and security for, the cost of remedi
 
 > (4A) Nothing in this Part applies in respect of land which, except for this subsection, would otherwise fall to be regarded as contaminated land within a nuclear site.
 >
-> (4AA)[^key-47b6d4add70b346ba4f4a6e1e90c7fa8] Nothing in this Part applies in respect of land which, except for this subsection, would otherwise fall to be regarded as contaminated land within a relevant disposal site.
+> (4AA)[^c-47b6d4add70b346ba4f4a6e1e90c7fa8] Nothing in this Part applies in respect of land which, except for this subsection, would otherwise fall to be regarded as contaminated land within a relevant disposal site.
 >
 > (4B) Nothing in this Part applies in respect of land which, except for this subsection, would otherwise fall to be regarded as contaminated land on a site—
 >
 > - (a) in respect of which there is no nuclear site licence in force; and
 > - (b) which is used by or on behalf of the Secretary of State for Defence for a purpose which, if section 1 of the 1965 Act applied to the Crown, would require the authority of a nuclear site licence in respect of that site.
 >
-> (4BA)[^key-1014ac664a16852108b4d21dc3beee0c] Nothing in this Part applies in respect of land which, except for this subsection, would otherwise fall to be regarded as contaminated land within a site used by the Secretary of State for Defence for a purpose which, if section 7B of the 1965 Act applied to the Crown, would cause the site to be a relevant disposal site.
+> (4BA)[^c-1014ac664a16852108b4d21dc3beee0c] Nothing in this Part applies in respect of land which, except for this subsection, would otherwise fall to be regarded as contaminated land within a site used by the Secretary of State for Defence for a purpose which, if section 7B of the 1965 Act applied to the Crown, would cause the site to be a relevant disposal site.
 >
 > (4C) Nothing in this Part applies in respect of land which, except for this subsection, would otherwise fall to be regarded as contaminated land if—
 >
-> - (a) action is required to be taken by a local authority under paragraph (3) of regulation 17 (implementation of emergency plans) of the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^key-96848a32d051733831063a6f701f0c60]; and
+> - (a) action is required to be taken by a local authority under paragraph (3) of regulation 17 (implementation of emergency plans) of the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^c-96848a32d051733831063a6f701f0c60]; and
 > - (b) that action would for the purposes of Part 2A amount to remediation of the relevant land.
 
 (4) For subsection 5, substitute—
 
 > (5) In this section—
 >
-> - “enforcement action” means action under regulation 36, 37 or 42 of the Environmental Permitting (England and Wales) Regulations 2016[^key-0b4c84ab8575284b041f28e92a399145] (in this subsection referred to as “the 2016 Regulations[^key-cb3ffdcb05cda8bf9723c2e20b9bed45]”);
+> - “enforcement action” means action under regulation 36, 37 or 42 of the Environmental Permitting (England and Wales) Regulations 2016[^c-0b4c84ab8575284b041f28e92a399145] (in this subsection referred to as “the 2016 Regulations[^c-cb3ffdcb05cda8bf9723c2e20b9bed45]”);
 > - “licensed site”, “nuclear site licence” and, in relation to a licensee, “period of responsibility” have the meaning given by section 26(1) of the 1965 Act;
 > - “nuclear site” means any licensed site in respect of which, or part of which—
 >   - (a) a nuclear site licence is for the time being in force; or
 >   - (b) after the revocation or surrender of a nuclear site licence, the period of responsibility of the licensee has not come to an end; and
 > - “regulated facility” has the meaning given in regulation 8 of the 2016 Regulations.
-> - “relevant disposal site” has the meaning given by section 7B of the[^key-5157abea7794ff699cfac90df0b9bc69] 1965 Act.
+> - “relevant disposal site” has the meaning given by section 7B of the[^c-5157abea7794ff699cfac90df0b9bc69] 1965 Act.
 
 .
 
@@ -434,7 +434,7 @@ Subsection (1) of section 78P (recovery of, and security for, the cost of remedi
 
   .
 
-## 19. Modification of the Contaminated Land (England) Regulations 2006[^key-22fca0ae7374216e68e83959f7c26259]
+## 19. Modification of the Contaminated Land (England) Regulations 2006[^c-22fca0ae7374216e68e83959f7c26259]
 
 The Contaminated Land (England) Regulations 2006 apply with the modification that in regulation 7, after paragraph (1)(n) there is inserted—
 
@@ -448,7 +448,7 @@ Minister of State,
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE — DIRECTIVE DEFINITIONS[^key-f54d2f88bed57f633c4cb7b28def1af9]
+## SCHEDULE — DIRECTIVE DEFINITIONS[^c-f54d2f88bed57f633c4cb7b28def1af9]
 
 **No longer in force.**
 
@@ -482,64 +482,64 @@ A Regulatory Impact Assessment and a Transposition Note in relation to these Reg
 
 [^f00002]: Footnote: S.I. [2005/3467](https://www.legislation.gov.uk/uksi/2005/3467).
 
-[^key-e084331fc64a6a5d724893d778ff5b6c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/1379/regulation/4) revoked (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/3245/regulation/4)
+[^c-e084331fc64a6a5d724893d778ff5b6c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/1379/regulation/4) revoked (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/3245/regulation/4)
 
-[^key-cc6db3e293916e5680e5ca7d80cbcd2c]: Textual amendment: Reg. 5 substituted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/3245/regulation/3/2)
+[^c-cc6db3e293916e5680e5ca7d80cbcd2c]: Textual amendment: Reg. 5 substituted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/3245/regulation/3/2)
 
-[^key-cf3f48064bb96e0a764314ca350c996f]: Textual amendment: Word in reg. 5(2) inserted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/2/a) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+[^c-cf3f48064bb96e0a764314ca350c996f]: Textual amendment: Word in reg. 5(2) inserted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/2/a) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
 
-[^key-39e29b5836746098533f0f9783d921b5]: Textual amendment: Words in reg. 5(2) substituted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/2/b) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+[^c-39e29b5836746098533f0f9783d921b5]: Textual amendment: Words in reg. 5(2) substituted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/2/b) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
 
-[^key-e4319e5b0039fde6cb69bb55c0ccbf7b]: Textual amendment: Word in reg. 5(2) substituted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(2)(c)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/2/c) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+[^c-e4319e5b0039fde6cb69bb55c0ccbf7b]: Textual amendment: Word in reg. 5(2) substituted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(2)(c)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/2/c) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
 
-[^key-c96f9db3ec1a41510e38cd8f91a47e45]: Textual amendment: Reg. 5(2) inserted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(2)(d)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/2/d) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+[^c-c96f9db3ec1a41510e38cd8f91a47e45]: Textual amendment: Reg. 5(2) inserted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(2)(d)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/2/d) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
 
-[^key-b9e2aa0a01aa769b462d3fb3c3eae153]: Textual amendment: Words in reg. 5(2) substituted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(2)(e)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/2/e) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+[^c-b9e2aa0a01aa769b462d3fb3c3eae153]: Textual amendment: Words in reg. 5(2) substituted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(2)(e)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/2/e) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
 
-[^key-25dd1deba8315c11fb6d2f08f6ca0f9f]: Textual amendment: Word in reg. 5(3) substituted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/a/i)
+[^c-25dd1deba8315c11fb6d2f08f6ca0f9f]: Textual amendment: Word in reg. 5(3) substituted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/a/i)
 
-[^key-4168e6e4ee91dda07f9018a1fcc24753]: Textual amendment: Words in reg. 5(3) inserted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/a/ii)
+[^c-4168e6e4ee91dda07f9018a1fcc24753]: Textual amendment: Words in reg. 5(3) inserted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/a/ii)
 
-[^key-3d905e74de00fbb9fc2fe3c2f91a65e4]: Textual amendment: Words in reg. 5(6) substituted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/b)
+[^c-3d905e74de00fbb9fc2fe3c2f91a65e4]: Textual amendment: Words in reg. 5(6) substituted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/b)
 
-[^key-28d9e9eddd934595fd9ac1d475e8d574]: Textual amendment: Words in reg. 5(6) inserted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/c/i)
+[^c-28d9e9eddd934595fd9ac1d475e8d574]: Textual amendment: Words in reg. 5(6) inserted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/c/i)
 
-[^key-e67d64adfbe97ad75cebcfd5e815c2fd]: Textual amendment: Words in reg. 5(6) omitted (22.6.2018) by virtue of [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/c/ii)
+[^c-e67d64adfbe97ad75cebcfd5e815c2fd]: Textual amendment: Words in reg. 5(6) omitted (22.6.2018) by virtue of [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/c/ii)
 
-[^key-a457e36e6bd20ff719edacc632745639]: Textual amendment: Word in reg. 5(6) inserted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/c/iii)
+[^c-a457e36e6bd20ff719edacc632745639]: Textual amendment: Word in reg. 5(6) inserted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/c/iii)
 
-[^key-de7dff8fd084c7465cc7e485a91ddd1d]: Textual amendment: Words in reg. 5(6) inserted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/c/iv)
+[^c-de7dff8fd084c7465cc7e485a91ddd1d]: Textual amendment: Words in reg. 5(6) inserted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/c/iv)
 
-[^key-5cedf984ef9da36109390e569e31f353]: Textual amendment: Reg. 5(8)(d) substituted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(d)(i)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/d/i)
+[^c-5cedf984ef9da36109390e569e31f353]: Textual amendment: Reg. 5(8)(d) substituted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(d)(i)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/d/i)
 
-[^key-c42aa67fb0d5f7244281823d808b273a]: Textual amendment: Reg. 5(8)(e) substituted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/d/ii)
+[^c-c42aa67fb0d5f7244281823d808b273a]: Textual amendment: Reg. 5(8)(e) substituted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/2/d/ii)
 
-[^key-a86f327edd767ffa37de504d6f92717a]: Textual amendment: Reg. 5(9) inserted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2019/24/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a86f327edd767ffa37de504d6f92717a]: Textual amendment: Reg. 5(9) inserted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2019/24/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b9771669b989f08ee03b2205188108cc]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2006/1379/regulation/8/3) substituted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/3)
+[^c-b9771669b989f08ee03b2205188108cc]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2006/1379/regulation/8/3) substituted (22.6.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/3/3)
 
-[^key-f5714a871cd44bcd40ef7c6a5abdc377]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/1379/regulation/9) substituted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/3245/regulation/3/3)
+[^c-f5714a871cd44bcd40ef7c6a5abdc377]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/1379/regulation/9) substituted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/3245/regulation/3/3)
 
-[^key-76336060bb22bf9970d01eea3d1deb28]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/1379/regulation/11) substituted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2007/3245/regulation/3/4)
+[^c-76336060bb22bf9970d01eea3d1deb28]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/1379/regulation/11) substituted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2007/3245/regulation/3/4)
 
-[^key-44b6c946759ab8796122a732087324a6]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/1379/regulation/14) substituted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2007/3245/regulation/3/5)
+[^c-44b6c946759ab8796122a732087324a6]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/1379/regulation/14) substituted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2007/3245/regulation/3/5)
 
-[^key-0fe8fcba0c301eabb3b741eb07cb0f72]: Textual amendment: Reg. 17 substituted (6.4.2008) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2008 (S.I. 2008/520)](https://www.legislation.gov.uk/uksi/2008/520), [regs. 1](https://www.legislation.gov.uk/uksi/2008/520/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2008/520/regulation/2/3)
+[^c-0fe8fcba0c301eabb3b741eb07cb0f72]: Textual amendment: Reg. 17 substituted (6.4.2008) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2008 (S.I. 2008/520)](https://www.legislation.gov.uk/uksi/2008/520), [regs. 1](https://www.legislation.gov.uk/uksi/2008/520/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2008/520/regulation/2/3)
 
-[^key-47b6d4add70b346ba4f4a6e1e90c7fa8]: Textual amendment: Words in reg. 17(3) inserted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/3/a) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+[^c-47b6d4add70b346ba4f4a6e1e90c7fa8]: Textual amendment: Words in reg. 17(3) inserted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/3/a) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
 
-[^key-1014ac664a16852108b4d21dc3beee0c]: Textual amendment: Words in reg. 17(3) inserted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/3/b) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+[^c-1014ac664a16852108b4d21dc3beee0c]: Textual amendment: Words in reg. 17(3) inserted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/3/b) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
 
-[^key-96848a32d051733831063a6f701f0c60]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/uksi/2006/1379/regulation/17/3) substituted (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 6](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
+[^c-96848a32d051733831063a6f701f0c60]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/uksi/2006/1379/regulation/17/3) substituted (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 6](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
 
-[^key-0b4c84ab8575284b041f28e92a399145]: Textual amendment: Words in reg. 17(4) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 21(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/21/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-0b4c84ab8575284b041f28e92a399145]: Textual amendment: Words in reg. 17(4) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 21(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/21/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-cb3ffdcb05cda8bf9723c2e20b9bed45]: Textual amendment: Words in reg. 17(4) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 21(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/21/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-cb3ffdcb05cda8bf9723c2e20b9bed45]: Textual amendment: Words in reg. 17(4) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 21(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/21/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-5157abea7794ff699cfac90df0b9bc69]: Textual amendment: Words in reg. 17(4) inserted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/3/b) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+[^c-5157abea7794ff699cfac90df0b9bc69]: Textual amendment: Words in reg. 17(4) inserted (4.5.2016) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [arts. 1](https://www.legislation.gov.uk/uksi/2016/562/article/1), [2](https://www.legislation.gov.uk/uksi/2016/562/article/2), [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/9/3/b) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
 
 [^f00005]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-22fca0ae7374216e68e83959f7c26259]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2006/1379/regulation/19) inserted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2007/3245/regulation/3/7)
+[^c-22fca0ae7374216e68e83959f7c26259]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2006/1379/regulation/19) inserted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2007/3245/regulation/3/7)
 
-[^key-f54d2f88bed57f633c4cb7b28def1af9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2006/1379/schedule) revoked (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/3245/regulation/4)
+[^c-f54d2f88bed57f633c4cb7b28def1af9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2006/1379/schedule) revoked (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/3245/regulation/4)

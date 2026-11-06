@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 260. Scheme administration[^key-8c26654015323eedd18f5f8b9779f35b]
+## 260. Scheme administration[^c-8c26654015323eedd18f5f8b9779f35b]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ as the authority requests.
 
 ## Annotations
 
-[^key-8c26654015323eedd18f5f8b9779f35b]: Commencement: S. 260 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)
+[^c-8c26654015323eedd18f5f8b9779f35b]: Commencement: S. 260 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)

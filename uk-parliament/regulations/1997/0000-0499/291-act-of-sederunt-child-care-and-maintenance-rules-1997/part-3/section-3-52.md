@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.52. Signature of warrants[^key-b9b53d0377d86fd07705cc9a171652db]
+## 3.52. Signature of warrants[^c-b9b53d0377d86fd07705cc9a171652db]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9b53d0377d86fd07705cc9a171652db]: Textual amendment: Rule 3.52 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(40)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/40) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-b9b53d0377d86fd07705cc9a171652db]: Textual amendment: Rule 3.52 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(40)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/40) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

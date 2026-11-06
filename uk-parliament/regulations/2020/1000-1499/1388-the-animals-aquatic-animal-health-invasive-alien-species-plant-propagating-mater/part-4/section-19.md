@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Application of, and modifications to, [Directive 2006/88/EC](https://www.legislation.gov.uk/european/directive/2006/0088)[^key-5709b48878005dec2e631fd158b1ff5b]
+## 19. Application of, and modifications to, [Directive 2006/88/EC](https://www.legislation.gov.uk/european/directive/2006/0088)[^c-5709b48878005dec2e631fd158b1ff5b]
 
 *Extent: E+W+S*
 
@@ -26,11 +26,11 @@ summary: ''
 
 (3) In this regulation—
 
-- (a) “**relevant instrument**” means any instrument that is adopted pursuant to the Council Directive before IP completion day and is assimilated direct[^key-75315fe97e66147f94157a0282dad6f5] legislation;
+- (a) “**relevant instrument**” means any instrument that is adopted pursuant to the Council Directive before IP completion day and is assimilated direct[^c-75315fe97e66147f94157a0282dad6f5] legislation;
 - (b) “**the Council Directive**” means Council [Directive 2006/88/EC](https://www.legislation.gov.uk/european/directive/2006/0088) on animal health requirements for aquaculture animals and products thereof, and on the prevention and control of certain diseases in aquatic animals.
 
 ## Annotations
 
-[^key-5709b48878005dec2e631fd158b1ff5b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2020/1388/regulation/19) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-5709b48878005dec2e631fd158b1ff5b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2020/1388/regulation/19) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
-[^key-75315fe97e66147f94157a0282dad6f5]: Textual amendment: Words in [reg. 19(3)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/19/3/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 48](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/48)
+[^c-75315fe97e66147f94157a0282dad6f5]: Textual amendment: Words in [reg. 19(3)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/19/3/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 48](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/48)

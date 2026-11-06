@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.4. Removal of solicitor who has ceased to act on application of another party[^key-6882da7161214fef986d7fadd457854a]
+## 42.4. Removal of solicitor who has ceased to act on application of another party[^c-6882da7161214fef986d7fadd457854a]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ any other party may apply for an order declaring that the solicitor has ceased t
 
 ## Annotations
 
-[^key-6882da7161214fef986d7fadd457854a]: Commencement: [Rule 42.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/42.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-6882da7161214fef986d7fadd457854a]: Commencement: [Rule 42.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/42.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

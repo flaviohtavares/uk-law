@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Sale of Tobacco (Prescribed Document) Regulations 2010 (revoked)[^key-73f67e884901e88b2121fdabcf0b7abc]
+The Sale of Tobacco (Prescribed Document) Regulations 2010 (revoked)[^c-73f67e884901e88b2121fdabcf0b7abc]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2011
 
-[^key-73f67e884901e88b2121fdabcf0b7abc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73f67e884901e88b2121fdabcf0b7abc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-73f67e884901e88b2121fdabcf0b7abc]
+## 1. Citation and commencement[^c-73f67e884901e88b2121fdabcf0b7abc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Sale of tobacco products to persons under 18 – prescribed document[^key-73f67e884901e88b2121fdabcf0b7abc]
+## 2. Sale of tobacco products to persons under 18 – prescribed document[^c-73f67e884901e88b2121fdabcf0b7abc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73f67e884901e88b2121fdabcf0b7abc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73f67e884901e88b2121fdabcf0b7abc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-73f67e884901e88b2121fdabcf0b7abc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73f67e884901e88b2121fdabcf0b7abc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-73f67e884901e88b2121fdabcf0b7abc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/406) revoked (1.10.2013) by [The Sale of Tobacco (Prescribed Documents) (Scotland) Regulations 2013 (S.S.I. 2013/202)](https://www.legislation.gov.uk/ssi/2013/202), [regs. 1](https://www.legislation.gov.uk/ssi/2013/202/regulation/1), [3](https://www.legislation.gov.uk/ssi/2013/202/regulation/3)
+[^c-73f67e884901e88b2121fdabcf0b7abc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/406) revoked (1.10.2013) by [The Sale of Tobacco (Prescribed Documents) (Scotland) Regulations 2013 (S.S.I. 2013/202)](https://www.legislation.gov.uk/ssi/2013/202), [regs. 1](https://www.legislation.gov.uk/ssi/2013/202/regulation/1), [3](https://www.legislation.gov.uk/ssi/2013/202/regulation/3)

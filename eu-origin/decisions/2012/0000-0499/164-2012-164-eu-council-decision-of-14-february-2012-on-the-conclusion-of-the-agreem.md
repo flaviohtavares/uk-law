@@ -31,10 +31,10 @@ summary: ''
 
 of 14 February 2012 on the conclusion of the Agreement between the European Union and Georgia on protection of geographical indications of agricultural products and foodstuffs (revoked)
 
-[^key-ef5692cd71ec0ca9b91fea1249384100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef5692cd71ec0ca9b91fea1249384100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-ef5692cd71ec0ca9b91fea1249384100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-ef5692cd71ec0ca9b91fea1249384100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef5692cd71ec0ca9b91fea1249384100]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 32](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef5692cd71ec0ca9b91fea1249384100]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 32](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

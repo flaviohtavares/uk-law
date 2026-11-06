@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Voting as proxy[^key-695138a144202f78154e7316c5b28699]
+## 66. Voting as proxy[^c-695138a144202f78154e7316c5b28699]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ may apply to the registration officer for his or her referendum ballot paper to 
 
 ## Annotations
 
-[^key-695138a144202f78154e7316c5b28699]: Commencement: Reg. 66 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-695138a144202f78154e7316c5b28699]: Commencement: Reg. 66 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

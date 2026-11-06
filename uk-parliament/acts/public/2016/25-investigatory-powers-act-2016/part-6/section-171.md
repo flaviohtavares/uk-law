@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Safeguards relating to the retention and disclosure of data[^key-30b40dd45d4fd26ec66e75641fe9c8bc]
+## 171. Safeguards relating to the retention and disclosure of data[^c-30b40dd45d4fd26ec66e75641fe9c8bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ This is subject to subsection (8).
 
 ## Annotations
 
-[^key-30b40dd45d4fd26ec66e75641fe9c8bc]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2016/25/section/171) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/f)
+[^c-30b40dd45d4fd26ec66e75641fe9c8bc]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2016/25/section/171) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Proposed placement[^key-350162c76e575b78f3bffe59d50fcb2f]
+## 32. Proposed placement[^c-350162c76e575b78f3bffe59d50fcb2f]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ to the adoption panel.
 
 ## Annotations
 
-[^key-350162c76e575b78f3bffe59d50fcb2f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2005/1313/regulation/32) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-350162c76e575b78f3bffe59d50fcb2f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2005/1313/regulation/32) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)

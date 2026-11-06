@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21.10. Compromise etc. by or on behalf of a child or protected party[^key-45ca8667c1772b0ff63d17f60708884a]
+## 21.10. Compromise etc. by or on behalf of a child or protected party[^c-45ca8667c1772b0ff63d17f60708884a]
 
 *Extent: E+W*
 
@@ -29,15 +29,15 @@ no settlement, compromise or payment (including any voluntary interim payment) a
 
 (2) Where—
 
-- (a) before proceedings in which a claim is made by or on behalf of, or against, a child or protected party (whether alone or with any other person) are begun, an agreement is reached for a settlement or compromise or a payment (including any voluntary interim payment) which relates to the claim[^key-8dd2627cbc67c17f58dbddf4bb5507be]; and
-- (b) the sole purpose of proceedings is to obtain the approval of the court to a settlement or compromise or a payment (including any voluntary interim payment) which relates to the claim[^key-338d69443fdc28b6e8d7fc35dcb506f3],
+- (a) before proceedings in which a claim is made by or on behalf of, or against, a child or protected party (whether alone or with any other person) are begun, an agreement is reached for a settlement or compromise or a payment (including any voluntary interim payment) which relates to the claim[^c-8dd2627cbc67c17f58dbddf4bb5507be]; and
+- (b) the sole purpose of proceedings is to obtain the approval of the court to a settlement or compromise or a payment (including any voluntary interim payment) which relates to the claim[^c-338d69443fdc28b6e8d7fc35dcb506f3],
 
 the claim must—
 
 - (i) be made using the procedure set out in Part 8 (alternative procedure for claims); and
-- (ii) include a request to the court for approval of the settlement or compromise or payment (including any voluntary interim payment)[^key-9d3bce6ae7a382460367224268f46e7f].
+- (ii) include a request to the court for approval of the settlement or compromise or payment (including any voluntary interim payment)[^c-9d3bce6ae7a382460367224268f46e7f].
 
-(3)[^key-2afe7af743b791a8cc427157b98a7424] The documents supporting any application or request for approval must include—
+(3)[^c-2afe7af743b791a8cc427157b98a7424] The documents supporting any application or request for approval must include—
 
 - (a) a draft consent order setting out the proposed settlement terms;
 - (b) details of whether or to what extent liability is admitted;
@@ -52,27 +52,27 @@ the claim must—
 
 (5) If the settlement includes periodical payments, the draft consent order must satisfy the requirements of rules 41.8 and 41.9 as appropriate.
 
-(6) In proceedings to which Section IV[^key-b67a44d8b3371d87012308159bd94830] of Part 45 applies, the court will not make an order for detailed assessment of the costs payable to the child or protected party but will assess the costs in the manner set out in that Section.
+(6) In proceedings to which Section IV[^c-b67a44d8b3371d87012308159bd94830] of Part 45 applies, the court will not make an order for detailed assessment of the costs payable to the child or protected party but will assess the costs in the manner set out in that Section.
 
 (7) Where settlement of a claim by or on behalf of a dependent child includes agreement on a sum to be apportioned to the dependent child, the parties must provide to the court in addition details of—
 
 - (a) the claimed loss of future earnings in respect of the deceased;
 - (b) the nature and extent of the dependency.
 
-(Rule 46.4[^key-22423762252cbca0c621cd834584c8b1] contains provisions about costs where money is payable to a child or protected party.)
+(Rule 46.4[^c-22423762252cbca0c621cd834584c8b1] contains provisions about costs where money is payable to a child or protected party.)
 
 ## Annotations
 
-[^key-45ca8667c1772b0ff63d17f60708884a]: Textual amendment: Pt. 21 substituted (1.10.2007) by [The Civil Procedure (Amendment) Rules 2007 (S.I. 2007/2204)](https://www.legislation.gov.uk/uksi/2007/2204), [rule 1](https://www.legislation.gov.uk/uksi/2007/2204/rule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/2204/schedule/2)
+[^c-45ca8667c1772b0ff63d17f60708884a]: Textual amendment: Pt. 21 substituted (1.10.2007) by [The Civil Procedure (Amendment) Rules 2007 (S.I. 2007/2204)](https://www.legislation.gov.uk/uksi/2007/2204), [rule 1](https://www.legislation.gov.uk/uksi/2007/2204/rule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/2204/schedule/2)
 
-[^key-8dd2627cbc67c17f58dbddf4bb5507be]: Textual amendment: Words in rule 21.10(2)(a) substituted (1.10.2021) by [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2021/855/rule/4/1/a)
+[^c-8dd2627cbc67c17f58dbddf4bb5507be]: Textual amendment: Words in rule 21.10(2)(a) substituted (1.10.2021) by [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2021/855/rule/4/1/a)
 
-[^key-338d69443fdc28b6e8d7fc35dcb506f3]: Textual amendment: Words in rule 21.10(2)(b) substituted (1.10.2021) by [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [4(1)(b)(i)](https://www.legislation.gov.uk/uksi/2021/855/rule/4/1/b/i)
+[^c-338d69443fdc28b6e8d7fc35dcb506f3]: Textual amendment: Words in rule 21.10(2)(b) substituted (1.10.2021) by [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [4(1)(b)(i)](https://www.legislation.gov.uk/uksi/2021/855/rule/4/1/b/i)
 
-[^key-9d3bce6ae7a382460367224268f46e7f]: Textual amendment: Words in rule 21.10(2)(b)(ii) inserted (1.10.2021) by [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [4(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/855/rule/4/1/b/ii)
+[^c-9d3bce6ae7a382460367224268f46e7f]: Textual amendment: Words in rule 21.10(2)(b)(ii) inserted (1.10.2021) by [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [4(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/855/rule/4/1/b/ii)
 
-[^key-2afe7af743b791a8cc427157b98a7424]: Textual amendment: Rule 21.10(3)-(7) substituted for [rule 21.10(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/21.10/3) (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [14(11)](https://www.legislation.gov.uk/uksi/2023/105/rule/14/11)
+[^c-2afe7af743b791a8cc427157b98a7424]: Textual amendment: Rule 21.10(3)-(7) substituted for [rule 21.10(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/21.10/3) (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [14(11)](https://www.legislation.gov.uk/uksi/2023/105/rule/14/11)
 
-[^key-b67a44d8b3371d87012308159bd94830]: Textual amendment: Words in [rule 21.10(6)](https://www.legislation.gov.uk/uksi/1998/3132/rule/21.10/6) substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/7/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-b67a44d8b3371d87012308159bd94830]: Textual amendment: Words in [rule 21.10(6)](https://www.legislation.gov.uk/uksi/1998/3132/rule/21.10/6) substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/7/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-22423762252cbca0c621cd834584c8b1]: Textual amendment: Word in rule 21.10 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/article/2), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2013/262/rule/7/a/ii) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/article/22))
+[^c-22423762252cbca0c621cd834584c8b1]: Textual amendment: Word in rule 21.10 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/article/2), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2013/262/rule/7/a/ii) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/article/22))

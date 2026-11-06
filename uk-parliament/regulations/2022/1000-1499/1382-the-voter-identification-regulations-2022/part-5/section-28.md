@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Notification as to replacement[^key-9388b588b903bfc546f2d90bf54f64aa]
+## 28. Notification as to replacement[^c-9388b588b903bfc546f2d90bf54f64aa]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ The registration officer must notify a person to whom this Chapter applies thatâ
 
 ## Annotations
 
-[^key-9388b588b903bfc546f2d90bf54f64aa]: Commencement: Reg. 28 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-9388b588b903bfc546f2d90bf54f64aa]: Commencement: Reg. 28 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

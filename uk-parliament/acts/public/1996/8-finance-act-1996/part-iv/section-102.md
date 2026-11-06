@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Discounted securities: income tax provisions.[^key-802bddcf1fdd0b37dacf9ca3f6404cb3][^key-afdb1dc146c49171b8233892e3e1c890]
+## 102. Discounted securities: income tax provisions.[^c-802bddcf1fdd0b37dacf9ca3f6404cb3][^c-afdb1dc146c49171b8233892e3e1c890]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-802bddcf1fdd0b37dacf9ca3f6404cb3]: Textual amendment: S. 102 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 487](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/487), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-802bddcf1fdd0b37dacf9ca3f6404cb3]: Textual amendment: S. 102 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 487](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/487), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-afdb1dc146c49171b8233892e3e1c890]: Modification: Pt. 4 Ch. 2 modified (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 7 para. 14(5)-(7)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/7/paragraph/14/5)
+[^c-afdb1dc146c49171b8233892e3e1c890]: Modification: Pt. 4 Ch. 2 modified (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 7 para. 14(5)-(7)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/7/paragraph/14/5)

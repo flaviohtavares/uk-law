@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Referrals: findings of fact immaterial[^key-2015749d105543b5f3dd2cf32ac1f7a5]
+## 52. Referrals: findings of fact immaterial[^c-2015749d105543b5f3dd2cf32ac1f7a5]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2015749d105543b5f3dd2cf32ac1f7a5]: Commencement: S. 52 in force at 12.10.2009 by [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule)
+[^c-2015749d105543b5f3dd2cf32ac1f7a5]: Commencement: S. 52 in force at 12.10.2009 by [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule)

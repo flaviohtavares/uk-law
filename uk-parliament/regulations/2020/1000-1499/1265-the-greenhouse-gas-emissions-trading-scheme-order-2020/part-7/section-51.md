@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Installations: failure to comply with conditions of permit, etc.[^key-bd77930617da011712b5c3705305e49e]
+## 51. Installations: failure to comply with conditions of permit, etc.[^c-bd77930617da011712b5c3705305e49e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 - (a) article 52;
 - (b) article 56.
-- (c)[^key-6d5b22ee9b98098fe3adb339a8e4c109] article 57.
+- (c)[^c-6d5b22ee9b98098fe3adb339a8e4c109] article 57.
 
 (3) The civil penalty is—
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd77930617da011712b5c3705305e49e]: Commencement: Art. 51 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-bd77930617da011712b5c3705305e49e]: Commencement: Art. 51 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-6d5b22ee9b98098fe3adb339a8e4c109]: Textual amendment: Art. 51(2)(c) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [18(2)](https://www.legislation.gov.uk/uksi/2024/1366/article/18/2)
+[^c-6d5b22ee9b98098fe3adb339a8e4c109]: Textual amendment: Art. 51(2)(c) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [18(2)](https://www.legislation.gov.uk/uksi/2024/1366/article/18/2)

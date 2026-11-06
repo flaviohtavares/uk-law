@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Extinguishment of rights, and removal of apparatus, of statutory undertakers etc.[^key-d4aaaf07935c384dc4b4190d6ec52857][^key-96889b2e8eea8dfbb9b669db0456e356]
+## 75. Extinguishment of rights, and removal of apparatus, of statutory undertakers etc.[^c-d4aaaf07935c384dc4b4190d6ec52857][^c-96889b2e8eea8dfbb9b669db0456e356]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4aaaf07935c384dc4b4190d6ec52857]: Commencement: S. 75 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-d4aaaf07935c384dc4b4190d6ec52857]: Commencement: S. 75 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-96889b2e8eea8dfbb9b669db0456e356]: Commencement: [S. 75](https://www.legislation.gov.uk/asc/2024/3/section/75) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-96889b2e8eea8dfbb9b669db0456e356]: Commencement: [S. 75](https://www.legislation.gov.uk/asc/2024/3/section/75) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

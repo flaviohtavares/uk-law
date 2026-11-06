@@ -26,7 +26,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-20e18c7df4023eb1d364ef9e5174ead8]Regulation (EU) No 1235/2010 of the European Parliament and of the Council
+[^c-20e18c7df4023eb1d364ef9e5174ead8]Regulation (EU) No 1235/2010 of the European Parliament and of the Council
 
 of 15 December 2010
 
@@ -630,7 +630,7 @@ It shall apply from 2 July 2012.
 
 ## Annotations
 
-[^key-20e18c7df4023eb1d364ef9e5174ead8]: Textual amendment: Regulation revoked in part (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(r)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/r) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-20e18c7df4023eb1d364ef9e5174ead8]: Textual amendment: Regulation revoked in part (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(r)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/r) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00001]: Footnote: [OJ C 306, 16.12.2009, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2009.306.01.0022.01.ENG).
 

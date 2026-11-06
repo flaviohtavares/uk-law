@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44A. Endorsement of driving record in accordance with order[^key-c2625a82aa7271027d53c6fa85785916]
+## 44A. Endorsement of driving record in accordance with order[^c-c2625a82aa7271027d53c6fa85785916]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2625a82aa7271027d53c6fa85785916]: Textual amendment: S. 44A inserted (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/9/3), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(8)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/8)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/b)
+[^c-c2625a82aa7271027d53c6fa85785916]: Textual amendment: S. 44A inserted (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/9/3), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(8)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/8)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/b)

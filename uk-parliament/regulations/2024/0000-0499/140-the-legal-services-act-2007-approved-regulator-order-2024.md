@@ -46,11 +46,11 @@ The Lord Chancellor makes the following Order in exercise of the power conferred
 
 In accordance with section 206(5) of the Act, a draft of this instrument was laid before Parliament and approved by resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-6ba31ba96c739c5a57a695da2ab4fdd7]
+## 1. Citation and commencement[^c-6ba31ba96c739c5a57a695da2ab4fdd7]
 
 This Order may be cited as the Legal Services Act 2007 (Approved Regulator) Order 2024 and comes into force 21 days after the day on which it is made.
 
-## 2. Cancellation of designation as approved regulator[^key-68baac1ca27f40aaf1e22a51e0d67926]
+## 2. Cancellation of designation as approved regulator[^c-68baac1ca27f40aaf1e22a51e0d67926]
 
 The designation of the Association of Chartered Certified Accountants as an approved regulator in relation to probate activities[^f00002] is cancelled from the date that this Order comes into force.
 
@@ -74,8 +74,8 @@ A full impact assessment has not been prepared for this Order as no, or no signi
 
 [^f00001]: Footnote: [2007 c. 29](https://www.legislation.gov.uk/ukpga/2007/29).
 
-[^key-6ba31ba96c739c5a57a695da2ab4fdd7]: Commencement: Art. 1 in force at 29.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/140/article/1)
+[^c-6ba31ba96c739c5a57a695da2ab4fdd7]: Commencement: Art. 1 in force at 29.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/140/article/1)
 
-[^key-68baac1ca27f40aaf1e22a51e0d67926]: Commencement: Art. 2 in force at 29.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/140/article/1)
+[^c-68baac1ca27f40aaf1e22a51e0d67926]: Commencement: Art. 2 in force at 29.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/140/article/1)
 
 [^f00002]: Footnote: “**Probate activities**” are a reserved legal activity under section 12(1)(d) of the Legal Services Act 2007. Paragraph 6(1) of Schedule 2 to that Act makes provision about what constitutes such activity.

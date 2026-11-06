@@ -37,7 +37,7 @@ Made
 
 The Department for the Economy[^f00001] makes the following order in exercise of the powers conferred by section 120(2) and (3) of the Insolvency (Amendment) Act (Northern Ireland) 2026[^f00002].
 
-## 1. Citation and Interpretation[^key-e0cb7ed3736576f103b6ba5de5b5d0e9]
+## 1. Citation and Interpretation[^c-e0cb7ed3736576f103b6ba5de5b5d0e9]
 
 (1) This Order may be cited as the Insolvency (Amendment) (2026 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2026.
 
@@ -48,7 +48,7 @@ The Department for the Economy[^f00001] makes the following order in exercise of
 - “**the 1995 Order**” means the Insolvent Partnerships Order (Northern Ireland) 1995[^f00004];
 - “**the 2002 Order**” means the Company Directors Disqualification (Northern Ireland) Order 2002[^f00005].
 
-## 2. Provisions coming into operation on 16th October 2026[^key-c25a283ae0a11fb84741e31013f9e811]
+## 2. Provisions coming into operation on 16th October 2026[^c-c25a283ae0a11fb84741e31013f9e811]
 
 (1) The day appointed for the coming into operation of the provisions of the Act mentioned in paragraph (2) is 16th October 2026.
 
@@ -116,7 +116,7 @@ The Department for the Economy[^f00001] makes the following order in exercise of
   - (xxxii) paragraph 85;
   - (xxxiii) paragraphs 87 to 95.
 
-## 3. Provisions coming into operation on 24th December 2026[^key-5c25c4ef99112ed68eb2698e037c10b3]
+## 3. Provisions coming into operation on 24th December 2026[^c-5c25c4ef99112ed68eb2698e037c10b3]
 
 (1) The day appointed for the coming into operation of the provisions of the Act mentioned in paragraph (2) is 24th December 2026.
 
@@ -135,7 +135,7 @@ The Department for the Economy[^f00001] makes the following order in exercise of
   - (iii) paragraph 84 insofar as it relates to paragraph 86 of Schedule 4;
   - (iv) paragraph 86.
 
-## 4. Provisions coming into operation on 16th October 2026 for the purpose of enabling the exercise of any power to make provision by regulations, rules or order or to prepare and issue guidance[^key-659787bcaf8693e834f4943a7905600e]
+## 4. Provisions coming into operation on 16th October 2026 for the purpose of enabling the exercise of any power to make provision by regulations, rules or order or to prepare and issue guidance[^c-659787bcaf8693e834f4943a7905600e]
 
 (1) The day appointed for the coming into operation of the provisions of the Act mentioned in paragraph (2) for the purpose only of enabling the exercise of any power to make provision by regulations, rules or order made by statutory rule or to prepare and issue guidance is 16th October 2026.
 
@@ -190,7 +190,7 @@ The Department for the Economy[^f00001] makes the following order in exercise of
   - (xiv) paragraph 49;
   - (xv) paragraph 61.
 
-## 5. Transitional provisions[^key-0d64e48c65b9690a0e8462a85542f0f4]
+## 5. Transitional provisions[^c-0d64e48c65b9690a0e8462a85542f0f4]
 
 (1) Articles 208ZA to 208ZC of the 1989 Order and the amendments to Article 178 of that Order (as made by section 2 of the Act) apply in respect of the carrying on of any business of the company on or after 16th October 2026.
 
@@ -309,7 +309,7 @@ Article 5 contain transitional provisions.
 
 [^f00002]: Footnote: [2026 c.6 (N.I.)](https://www.legislation.gov.uk/nia/2026/6).
 
-[^key-e0cb7ed3736576f103b6ba5de5b5d0e9]: Commencement: Art. 1 in operation at made date
+[^c-e0cb7ed3736576f103b6ba5de5b5d0e9]: Commencement: Art. 1 in operation at made date
 
 [^f00003]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
@@ -317,10 +317,10 @@ Article 5 contain transitional provisions.
 
 [^f00005]: Footnote: [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150).
 
-[^key-c25a283ae0a11fb84741e31013f9e811]: Commencement: Art. 2 in operation at made date
+[^c-c25a283ae0a11fb84741e31013f9e811]: Commencement: Art. 2 in operation at made date
 
-[^key-5c25c4ef99112ed68eb2698e037c10b3]: Commencement: Art. 3 in operation at made date
+[^c-5c25c4ef99112ed68eb2698e037c10b3]: Commencement: Art. 3 in operation at made date
 
-[^key-659787bcaf8693e834f4943a7905600e]: Commencement: Art. 4 in operation at made date
+[^c-659787bcaf8693e834f4943a7905600e]: Commencement: Art. 4 in operation at made date
 
-[^key-0d64e48c65b9690a0e8462a85542f0f4]: Commencement: Art. 5 in operation at made date
+[^c-0d64e48c65b9690a0e8462a85542f0f4]: Commencement: Art. 5 in operation at made date

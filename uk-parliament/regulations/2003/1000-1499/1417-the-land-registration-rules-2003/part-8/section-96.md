@@ -33,8 +33,8 @@ summary: ''
 
 (4) The registrar may make such enquiries and serve such notices as he thinks fit in order to determine the application.
 
-(5) A note of the terms of any order made by the registrar under section 41(2) of the Act must, if appropriate,[^key-b313dbf155eabb929b6bbee6acea720a] be entered in the register.
+(5) A note of the terms of any order made by the registrar under section 41(2) of the Act must, if appropriate,[^c-b313dbf155eabb929b6bbee6acea720a] be entered in the register.
 
 ## Annotations
 
-[^key-b313dbf155eabb929b6bbee6acea720a]: Textual amendment: Words in rule 96(5) inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/36) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-b313dbf155eabb929b6bbee6acea720a]: Textual amendment: Words in rule 96(5) inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/36) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

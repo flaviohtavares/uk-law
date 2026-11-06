@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Each registration may be subject to the levying of a fee, which shall represent the cost of inserting and maintaining the information in the database referred to in Article 48. The competent authority [^key-9f3a2a92733826a9710f20bb6f1b186d]... shall approve the amount of the fee charged by the manager of the database.
+Each registration may be subject to the levying of a fee, which shall represent the cost of inserting and maintaining the information in the database referred to in Article 48. The competent authority [^c-9f3a2a92733826a9710f20bb6f1b186d]... shall approve the amount of the fee charged by the manager of the database.
 
 ## Annotations
 
-[^key-9f3a2a92733826a9710f20bb6f1b186d]: Textual amendment: Words in [Art. 53](https://www.legislation.gov.uk/eur/2008/889/article/53) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(31)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f3a2a92733826a9710f20bb6f1b186d]: Textual amendment: Words in [Art. 53](https://www.legislation.gov.uk/eur/2008/889/article/53) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(31)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

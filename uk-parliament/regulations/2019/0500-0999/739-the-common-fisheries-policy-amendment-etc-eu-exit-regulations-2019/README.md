@@ -113,7 +113,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 - [Section 26 — Council Regulation (EC) No 734/2008 on the protection of vulnerable marine ecosystems in the high seas from the adverse impacts of bottom fishing gears](part-8/section-26.md)
 - [Section 27 — Regulation (EU) 2016/2336 of the European Parliament and of the Council establishing specific conditions for fishing for deep sea stocks in the north-east Atlantic and provisions for fishing in international waters of the north-east Atlantic](part-8/section-27.md)
 
-### PART 9 — AMENDMENT OF THE EUROPEAN MARITIME AND FISHERIES FUND REGULATIONS[^key-664ebef8a8b4dfed5ef9264a08534801]
+### PART 9 — AMENDMENT OF THE EUROPEAN MARITIME AND FISHERIES FUND REGULATIONS[^c-664ebef8a8b4dfed5ef9264a08534801]
 
 *Extent: E+W+S+N.I.*
 
@@ -155,4 +155,4 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23688011]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-664ebef8a8b4dfed5ef9264a08534801]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/uksi/2019/739/part/9) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(5)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/5)
+[^c-664ebef8a8b4dfed5ef9264a08534801]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/uksi/2019/739/part/9) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(5)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/5)

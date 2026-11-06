@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Licensing Act 2003: guidance[^c22719791][^key-c71fc25971a7bf5127a5a18c47689a88]
+## 140. Licensing Act 2003: guidance[^c22719791][^c-c71fc25971a7bf5127a5a18c47689a88]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In the Licensing Act 2003, in section 182 (guidance) omit subsections (2) and (4
 
 [^c22719791]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2017/3/section/140) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-c71fc25971a7bf5127a5a18c47689a88]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2017/3/section/140) in force at 6.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/f)
+[^c-c71fc25971a7bf5127a5a18c47689a88]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2017/3/section/140) in force at 6.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/f)

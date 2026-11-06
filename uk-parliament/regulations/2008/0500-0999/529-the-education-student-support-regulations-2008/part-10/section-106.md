@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Provision of United Kingdom national insurance number[^key-a5ccbe3adf8428732d2aa21e0322d283]
+## 106. Provision of United Kingdom national insurance number[^c-a5ccbe3adf8428732d2aa21e0322d283]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5ccbe3adf8428732d2aa21e0322d283]: Commencement: Reg. 106 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-a5ccbe3adf8428732d2aa21e0322d283]: Commencement: Reg. 106 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

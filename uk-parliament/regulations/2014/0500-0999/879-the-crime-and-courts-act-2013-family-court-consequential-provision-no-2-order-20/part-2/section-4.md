@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**4.**[^key-2636a031a19dfc4d03ae2ad16579f341] Omit rule 4.
+**4.**[^c-2636a031a19dfc4d03ae2ad16579f341] Omit rule 4.
 
 ## Annotations
 
-[^key-2636a031a19dfc4d03ae2ad16579f341]: Commencement: Art. 4 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-2636a031a19dfc4d03ae2ad16579f341]: Commencement: Art. 4 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

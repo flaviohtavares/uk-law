@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 275. Forfeiture etc of prohibited items[^key-e840000708109432d7e94192eb23818a]
+## 275. Forfeiture etc of prohibited items[^c-e840000708109432d7e94192eb23818a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e840000708109432d7e94192eb23818a]: Commencement: S. 275 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
+[^c-e840000708109432d7e94192eb23818a]: Commencement: S. 275 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Further amendments relating to appeals in criminal cases[^key-d58c85020883fdf81424e0275680e1a9]
+## 47. Further amendments relating to appeals in criminal cases[^c-d58c85020883fdf81424e0275680e1a9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 8 amends the Criminal Appeal Act 1968 (c. 19), the Criminal Appeal (Nor
 
 ## Annotations
 
-[^key-d58c85020883fdf81424e0275680e1a9]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2008/4/section/47) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/26)
+[^c-d58c85020883fdf81424e0275680e1a9]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2008/4/section/47) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/26)

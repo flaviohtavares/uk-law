@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Death of service provider[^key-87c7b44b47137cdbfa46de5f33789a9a]
+## 71. Death of service provider[^c-87c7b44b47137cdbfa46de5f33789a9a]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87c7b44b47137cdbfa46de5f33789a9a]: Commencement: [Reg. 71](https://www.legislation.gov.uk/wsi/2019/169/regulation/71) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-87c7b44b47137cdbfa46de5f33789a9a]: Commencement: [Reg. 71](https://www.legislation.gov.uk/wsi/2019/169/regulation/71) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

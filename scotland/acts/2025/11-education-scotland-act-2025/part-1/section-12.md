@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. The teacher and practitioner charter[^key-4f29e5012592dc491c3f3848a3fc9ae0][^key-a36790e0a31c70f0b1b0fe0d10fffcf3]
+## 12. The teacher and practitioner charter[^c-4f29e5012592dc491c3f3848a3fc9ae0][^c-a36790e0a31c70f0b1b0fe0d10fffcf3]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f29e5012592dc491c3f3848a3fc9ae0]: Commencement: S. 12 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-4f29e5012592dc491c3f3848a3fc9ae0]: Commencement: S. 12 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-a36790e0a31c70f0b1b0fe0d10fffcf3]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2025/11/section/12) in force at 31.8.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(7)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/7), [sch. Pt. 4](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/4)
+[^c-a36790e0a31c70f0b1b0fe0d10fffcf3]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2025/11/section/12) in force at 31.8.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(7)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/7), [sch. Pt. 4](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/4)

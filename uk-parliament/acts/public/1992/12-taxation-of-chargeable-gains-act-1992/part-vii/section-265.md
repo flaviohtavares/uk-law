@@ -29,8 +29,8 @@ the Treasury may by order designate that organisation for the purposes of this s
 
 (2) The Treasury may by order designate any of the Communities or the European Investment Bank for the purposes of this section.
 
-(3) Where an organisation has been designated for the purposes of this section, then any security issued by the organisation shall be taken, for the purposes of this Act[^key-c035ee62a52f0193ea72ffeea707bfda], to be situated outside the United Kingdom.
+(3) Where an organisation has been designated for the purposes of this section, then any security issued by the organisation shall be taken, for the purposes of this Act[^c-c035ee62a52f0193ea72ffeea707bfda], to be situated outside the United Kingdom.
 
 ## Annotations
 
-[^key-c035ee62a52f0193ea72ffeea707bfda]: Textual amendment: Words in s. 265(3) substituted (with effect in accordance with Sch. 4 para. 10(1) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/4/paragraph/3/2)
+[^c-c035ee62a52f0193ea72ffeea707bfda]: Textual amendment: Words in s. 265(3) substituted (with effect in accordance with Sch. 4 para. 10(1) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/4/paragraph/3/2)

@@ -33,7 +33,7 @@ ACQUISITION OF LAND, WALES
 
 TOWN AND COUNTRY PLANNING, WALES
 
-The Town and Country Planning (Blight Provisions) (Wales) Order 2011 (revoked)[^key-dc46a16f9e0b03584c28ba1bfb2ecfc0]
+The Town and Country Planning (Blight Provisions) (Wales) Order 2011 (revoked)[^c-dc46a16f9e0b03584c28ba1bfb2ecfc0]
 
 Made
 
@@ -47,28 +47,28 @@ Coming into force
 
 1 April 2011
 
-[^key-dc46a16f9e0b03584c28ba1bfb2ecfc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc46a16f9e0b03584c28ba1bfb2ecfc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-dc46a16f9e0b03584c28ba1bfb2ecfc0]
+## 1. Title, application and commencement[^c-dc46a16f9e0b03584c28ba1bfb2ecfc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Limit of annual value[^key-dc46a16f9e0b03584c28ba1bfb2ecfc0]
+## 2. Limit of annual value[^c-dc46a16f9e0b03584c28ba1bfb2ecfc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-dc46a16f9e0b03584c28ba1bfb2ecfc0]
+## 3. Revocation[^c-dc46a16f9e0b03584c28ba1bfb2ecfc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dc46a16f9e0b03584c28ba1bfb2ecfc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc46a16f9e0b03584c28ba1bfb2ecfc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dc46a16f9e0b03584c28ba1bfb2ecfc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc46a16f9e0b03584c28ba1bfb2ecfc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc46a16f9e0b03584c28ba1bfb2ecfc0]: Textual amendment: Order revoked (5.7.2019) by [The Town and Country Planning (Blight Provisions) (Wales) Order 2019 (S.I. 2019/1018)](https://www.legislation.gov.uk/uksi/2019/1018), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1018/article/1), [3](https://www.legislation.gov.uk/uksi/2019/1018/article/3)
+[^c-dc46a16f9e0b03584c28ba1bfb2ecfc0]: Textual amendment: Order revoked (5.7.2019) by [The Town and Country Planning (Blight Provisions) (Wales) Order 2019 (S.I. 2019/1018)](https://www.legislation.gov.uk/uksi/2019/1018), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1018/article/1), [3](https://www.legislation.gov.uk/uksi/2019/1018/article/3)

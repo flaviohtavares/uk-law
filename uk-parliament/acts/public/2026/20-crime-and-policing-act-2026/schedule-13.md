@@ -28,11 +28,11 @@ Section 98
 
 *Extent: E+W*
 
-**1.**[^key-6cfa050847ee1387fd74b6d323d785d7] The Sexual Offences Act 2003 is amended as follows.
+**1.**[^c-6cfa050847ee1387fd74b6d323d785d7] The Sexual Offences Act 2003 is amended as follows.
 
 *Extent: E+W*
 
-**2.**[^key-894e8d0f0ce92df1b6b6f9a3e1248484] After section 66A insert—
+**2.**[^c-894e8d0f0ce92df1b6b6f9a3e1248484] After section 66A insert—
 
 > **66AA. Sharing semen-defaced image**
 >
@@ -79,7 +79,7 @@ Section 98
 
 *Extent: E+W*
 
-**3.**[^key-9f125a1b6849071d1195f35c2fd05a8e] After section 66AA (inserted by paragraph 2) insert—
+**3.**[^c-9f125a1b6849071d1195f35c2fd05a8e] After section 66AA (inserted by paragraph 2) insert—
 
 > **66AB. Taking or recording intimate photograph or film**
 >
@@ -210,7 +210,7 @@ Section 98
 
 *Extent: E+W*
 
-**4.**[^key-ff75a07515c8babe7f3c291c1453f573] (1) Section 66B (sharing or threatening to share intimate photograph or film) is amended as follows.
+**4.**[^c-ff75a07515c8babe7f3c291c1453f573] (1) Section 66B (sharing or threatening to share intimate photograph or film) is amended as follows.
 
 (2) After subsection (5) insert—
 
@@ -220,7 +220,7 @@ Section 98
 
 *Extent: E+W*
 
-**5.**[^key-6f53ae7433668db74c3044554719ebf6] In section 66C (sharing or threatening to share intimate photograph or film: exemptions)—
+**5.**[^c-6f53ae7433668db74c3044554719ebf6] In section 66C (sharing or threatening to share intimate photograph or film: exemptions)—
 
 - (a) in subsection (1)—
   - (i) in paragraph (a), for “taken” substitute “, or A reasonably believes that it was, taken or recorded”, and
@@ -229,7 +229,7 @@ Section 98
 
 *Extent: E+W*
 
-**6.**[^key-cb45bf9fbf073ac70ffd2dafba27ca08] (1) Section 66D (sharing or threatening to share intimate photograph or film: interpretation) is amended as follows.
+**6.**[^c-cb45bf9fbf073ac70ffd2dafba27ca08] (1) Section 66D (sharing or threatening to share intimate photograph or film: interpretation) is amended as follows.
 
 (2) In subsection (1), for “66B and” substitute “66AB to”.
 
@@ -258,11 +258,11 @@ Section 98
 
 *Extent: E+W*
 
-**7.**[^key-4f52fd6be7d729c414d510a9d6fe3e25] In section 66G (definitions for purposes of sections 66E and 66F), omit subsection (8).
+**7.**[^c-4f52fd6be7d729c414d510a9d6fe3e25] In section 66G (definitions for purposes of sections 66E and 66F), omit subsection (8).
 
 *Extent: E+W*
 
-**8.**[^key-9dfbf55ece9273d3dec791d5c3c9eb40] In section 66H (time limits for prosecuting summary offences)—
+**8.**[^c-9dfbf55ece9273d3dec791d5c3c9eb40] In section 66H (time limits for prosecuting summary offences)—
 
 - (a) in subsection (1), for “under section 66E or 66F” substitute “to which this section applies”;
 - (b) after subsection (1) insert—
@@ -282,11 +282,11 @@ Section 98
 
 *Extent: E+W*
 
-**9.**[^key-05a9352347145b016980db2203ef408a] In section 67 (voyeurism), omit subsection (3).
+**9.**[^c-05a9352347145b016980db2203ef408a] In section 67 (voyeurism), omit subsection (3).
 
 *Extent: E+W*
 
-**10.**[^key-e6cd8a782747fd45756752244503f388] In section 67A (voyeurism: additional offences)—
+**10.**[^c-e6cd8a782747fd45756752244503f388] In section 67A (voyeurism: additional offences)—
 
 - (a) omit subsection (2), and
 - (b) after subsection (3B) insert—
@@ -295,7 +295,7 @@ Section 98
 
 *Extent: E+W*
 
-**11.**[^key-5be8510d7588431385358d23337cc71a] (1) Section 77 (sections 75 and 76: relevant acts) is amended as follows.
+**11.**[^c-5be8510d7588431385358d23337cc71a] (1) Section 77 (sections 75 and 76: relevant acts) is amended as follows.
 
 (2) For “sections 75 and 76 apply” substitute “section 75 or 76 applies”.
 
@@ -312,11 +312,11 @@ Section 98
 
 *Extent: E+W*
 
-**12.**[^key-03ef43a126e7353ea8ba695fab3e2614] In section 78 (meaning of “**sexual**”), for “66B” substitute “66AB”.
+**12.**[^c-03ef43a126e7353ea8ba695fab3e2614] In section 78 (meaning of “**sexual**”), for “66B” substitute “66AB”.
 
 *Extent: E+W*
 
-**13.**[^key-d3dbd2b5caa04a90b76d559ac80170ec] In section 79 (Part 1: general interpretation), after subsection (10) insert—
+**13.**[^c-d3dbd2b5caa04a90b76d559ac80170ec] In section 79 (Part 1: general interpretation), after subsection (10) insert—
 
 > (11) The “**maximum term for summary offences**”, in relation to an offence, means—
 >
@@ -325,13 +325,13 @@ Section 98
 
 *Extent: E+W*
 
-**14.**[^key-8940ed7b8f9c3e3faa0e8ba49d3826ed] In section 136A(3A) (specified child sex offences), in paragraph (c), after “66A,” insert “66AB(2) and (3), 66AD(2),”.
+**14.**[^c-8940ed7b8f9c3e3faa0e8ba49d3826ed] In section 136A(3A) (specified child sex offences), in paragraph (c), after “66A,” insert “66AB(2) and (3), 66AD(2),”.
 
 *Extent: E+W*
 
-**15.**[^key-619766014fe754486d1c39d9dbe8cd51] In Schedule 2 (sexual offences to which section 72(1) to (3) applies), in paragraph 1(a), for “and 47 to 50” substitute “, 47 to 50, 66AB(2) and (3), and 66B(2), (3) and (4)”.
+**15.**[^c-619766014fe754486d1c39d9dbe8cd51] In Schedule 2 (sexual offences to which section 72(1) to (3) applies), in paragraph 1(a), for “and 47 to 50” substitute “, 47 to 50, 66AB(2) and (3), and 66B(2), (3) and (4)”.
 
-**16.**[^key-7de0bb570800b94c1b058097ce2531db] In Schedule 3 (sexual offences for purposes of Part 2), after paragraph 33A insert—
+**16.**[^c-7de0bb570800b94c1b058097ce2531db] In Schedule 3 (sexual offences for purposes of Part 2), after paragraph 33A insert—
 
 > **33AA.** An offence under section 66AB(3) of this Act (taking or recording intimate photograph or film for purpose of obtaining sexual gratification) if—
 >
@@ -360,7 +360,7 @@ Section 98
 
 ### Part 2 — Further amendments in connection with offences
 
-#### 17. Children and Young Persons Act [1933 (c. 12)](https://www.legislation.gov.uk/ukpga/1933/12)[^key-7addb9df2a93805951b1ab1c4e31658d]
+#### 17. Children and Young Persons Act [1933 (c. 12)](https://www.legislation.gov.uk/ukpga/1933/12)[^c-7addb9df2a93805951b1ab1c4e31658d]
 
 *Extent: E+W*
 
@@ -368,7 +368,7 @@ Section 98
 
 In Schedule 1 to the Children and Young Persons Act 1933 (offences against children and young persons with respect to which special provisions of Act apply), in the first entry relating to the Sexual Offences Act 2003, after “66A,” insert “66AB, 66AD,”.
 
-#### 18. Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60)[^key-1ee24029b12aa5e1e3c36d5b8c24a676]
+#### 18. Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60)[^c-1ee24029b12aa5e1e3c36d5b8c24a676]
 
 *Extent: E+W*
 
@@ -376,7 +376,7 @@ In Schedule 1 to the Children and Young Persons Act 1933 (offences against child
 
 In section 65A of the Police and Criminal Evidence Act 1984 (“**qualifying offences**” for the purposes of Part 5 of that Act), in subsection (2)(p) after “66A,” insert “66AB(2) and (3), 66AD(2),”.
 
-#### 19. Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44)[^key-fe1bcec1813bc34016e284ad5d163631]
+#### 19. Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44)[^c-fe1bcec1813bc34016e284ad5d163631]
 
 *Extent: E+W*
 
@@ -395,7 +395,7 @@ In section 65A of the Police and Criminal Evidence Act 1984 (“**qualifying off
 - (a) after “66A,” insert “66AB(2) or (3), 66AD(2),”, and
 - (b) for the words from “(exposure” to “voyeurism)” substitute “(offences relating to exposure, voyeurism and intimate photographs or films)”.
 
-#### 20. Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52)[^key-83ccfa5f93e1fb9768fe1c4eea75029f]
+#### 20. Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52)[^c-83ccfa5f93e1fb9768fe1c4eea75029f]
 
 **Not yet in force.**
 
@@ -425,7 +425,7 @@ In section 65A of the Police and Criminal Evidence Act 1984 (“**qualifying off
   > - (a) it appears to be of a person who was the subject of the request to which the offence relates (whether or not it is what was requested), and
   > - (b) it was in the offender’s possession, or under the offender’s control, as a result of that request.
 
-#### 21. Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12)[^key-cc21c4be6e307f4efb52a8cf1905d2a0]
+#### 21. Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12)[^c-cc21c4be6e307f4efb52a8cf1905d2a0]
 
 *Extent: E+W*
 
@@ -436,7 +436,7 @@ In section 116 of the Anti-social Behaviour, Crime and Policing Act 2014 (inform
 - (a) after “66A,” insert “66AB(2) and (3), 66AD(2),”, and
 - (b) for the words from “(exposure” to “voyeurism)” substitute “(offences relating to exposure, voyeurism and intimate photographs or films)”.
 
-#### 22. Modern Slavery Act [2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30)[^key-fcc37c3be7f85497661ef670112a0c76]
+#### 22. Modern Slavery Act [2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30)[^c-fcc37c3be7f85497661ef670112a0c76]
 
 *Extent: E+W*
 
@@ -450,7 +450,7 @@ In Schedule 4 to the Modern Slavery Act 2015 (offences to which defence in secti
 
 .
 
-#### 23. Sentencing Code[^key-57f6fe39e6a2cb3609225a99fa59a988]
+#### 23. Sentencing Code[^c-57f6fe39e6a2cb3609225a99fa59a988]
 
 *Extent: E+W*
 
@@ -488,7 +488,7 @@ In Schedule 4 to the Modern Slavery Act 2015 (offences to which defence in secti
 
 .
 
-#### 24. Online Safety Act [2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50)[^key-bbe26a29f1e3bdae1a4c8c444bd20bf5][^key-a7c9f3a87a256d2bb69075428743a839]
+#### 24. Online Safety Act [2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50)[^c-bbe26a29f1e3bdae1a4c8c444bd20bf5][^c-a7c9f3a87a256d2bb69075428743a839]
 
 In [Schedule 7](https://www.legislation.gov.uk/ukpga/2023/50/schedule/7) to the [Online Safety Act 2023](https://www.legislation.gov.uk/ukpga/2023/50/contents) (priority offences), in paragraph 28A (Sexual Offences Act 2003), at the end insert—
 
@@ -497,52 +497,52 @@ In [Schedule 7](https://www.legislation.gov.uk/ukpga/2023/50/schedule/7) to the 
 
 ## Annotations
 
-[^key-6cfa050847ee1387fd74b6d323d785d7]: Commencement: Sch. 13 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-6cfa050847ee1387fd74b6d323d785d7]: Commencement: Sch. 13 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-894e8d0f0ce92df1b6b6f9a3e1248484]: Commencement: Sch. 13 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-894e8d0f0ce92df1b6b6f9a3e1248484]: Commencement: Sch. 13 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-9f125a1b6849071d1195f35c2fd05a8e]: Commencement: Sch. 13 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-9f125a1b6849071d1195f35c2fd05a8e]: Commencement: Sch. 13 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-ff75a07515c8babe7f3c291c1453f573]: Commencement: Sch. 13 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-ff75a07515c8babe7f3c291c1453f573]: Commencement: Sch. 13 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-6f53ae7433668db74c3044554719ebf6]: Commencement: Sch. 13 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-6f53ae7433668db74c3044554719ebf6]: Commencement: Sch. 13 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-cb45bf9fbf073ac70ffd2dafba27ca08]: Commencement: Sch. 13 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-cb45bf9fbf073ac70ffd2dafba27ca08]: Commencement: Sch. 13 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-4f52fd6be7d729c414d510a9d6fe3e25]: Commencement: Sch. 13 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-4f52fd6be7d729c414d510a9d6fe3e25]: Commencement: Sch. 13 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-9dfbf55ece9273d3dec791d5c3c9eb40]: Commencement: Sch. 13 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-9dfbf55ece9273d3dec791d5c3c9eb40]: Commencement: Sch. 13 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-05a9352347145b016980db2203ef408a]: Commencement: Sch. 13 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-05a9352347145b016980db2203ef408a]: Commencement: Sch. 13 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-e6cd8a782747fd45756752244503f388]: Commencement: Sch. 13 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-e6cd8a782747fd45756752244503f388]: Commencement: Sch. 13 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-5be8510d7588431385358d23337cc71a]: Commencement: Sch. 13 para. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5be8510d7588431385358d23337cc71a]: Commencement: Sch. 13 para. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-03ef43a126e7353ea8ba695fab3e2614]: Commencement: Sch. 13 para. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-03ef43a126e7353ea8ba695fab3e2614]: Commencement: Sch. 13 para. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-d3dbd2b5caa04a90b76d559ac80170ec]: Commencement: Sch. 13 para. 13 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-d3dbd2b5caa04a90b76d559ac80170ec]: Commencement: Sch. 13 para. 13 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-8940ed7b8f9c3e3faa0e8ba49d3826ed]: Commencement: Sch. 13 para. 14 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8940ed7b8f9c3e3faa0e8ba49d3826ed]: Commencement: Sch. 13 para. 14 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-619766014fe754486d1c39d9dbe8cd51]: Commencement: Sch. 13 para. 15 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-619766014fe754486d1c39d9dbe8cd51]: Commencement: Sch. 13 para. 15 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-7de0bb570800b94c1b058097ce2531db]: Commencement: Sch. 13 para. 16 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-7de0bb570800b94c1b058097ce2531db]: Commencement: Sch. 13 para. 16 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-7addb9df2a93805951b1ab1c4e31658d]: Commencement: Sch. 13 para. 17 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-7addb9df2a93805951b1ab1c4e31658d]: Commencement: Sch. 13 para. 17 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-1ee24029b12aa5e1e3c36d5b8c24a676]: Commencement: Sch. 13 para. 18 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-1ee24029b12aa5e1e3c36d5b8c24a676]: Commencement: Sch. 13 para. 18 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-fe1bcec1813bc34016e284ad5d163631]: Commencement: Sch. 13 para. 19 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-fe1bcec1813bc34016e284ad5d163631]: Commencement: Sch. 13 para. 19 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-83ccfa5f93e1fb9768fe1c4eea75029f]: Commencement: Sch. 13 para. 20 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-83ccfa5f93e1fb9768fe1c4eea75029f]: Commencement: Sch. 13 para. 20 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-cc21c4be6e307f4efb52a8cf1905d2a0]: Commencement: Sch. 13 para. 21 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-cc21c4be6e307f4efb52a8cf1905d2a0]: Commencement: Sch. 13 para. 21 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-fcc37c3be7f85497661ef670112a0c76]: Commencement: Sch. 13 para. 22 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-fcc37c3be7f85497661ef670112a0c76]: Commencement: Sch. 13 para. 22 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-57f6fe39e6a2cb3609225a99fa59a988]: Commencement: Sch. 13 para. 23 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-57f6fe39e6a2cb3609225a99fa59a988]: Commencement: Sch. 13 para. 23 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-bbe26a29f1e3bdae1a4c8c444bd20bf5]: Commencement: Sch. 13 para. 24 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-bbe26a29f1e3bdae1a4c8c444bd20bf5]: Commencement: Sch. 13 para. 24 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-a7c9f3a87a256d2bb69075428743a839]: Commencement: [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/2026/20/schedule/13/paragraph/24) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z9)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z9)
+[^c-a7c9f3a87a256d2bb69075428743a839]: Commencement: [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/2026/20/schedule/13/paragraph/24) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z9)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z9)

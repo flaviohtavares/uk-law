@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Referendum question and statement[^key-8bb0dfc315d0ea9f5d3c3e7b123995dd]
+## 4. Referendum question and statement[^c-8bb0dfc315d0ea9f5d3c3e7b123995dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bb0dfc315d0ea9f5d3c3e7b123995dd]: Commencement: Art. 4 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-8bb0dfc315d0ea9f5d3c3e7b123995dd]: Commencement: Art. 4 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

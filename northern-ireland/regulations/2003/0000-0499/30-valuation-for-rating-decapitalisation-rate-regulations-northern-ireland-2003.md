@@ -31,7 +31,7 @@ summary: ''
 
 RATES
 
-Valuation for Rating (Decapitalisation Rate) Regulations (Northern Ireland) 2003 (revoked)[^key-9df1a2b368aa01ffb9c2de5209b6c99b]
+Valuation for Rating (Decapitalisation Rate) Regulations (Northern Ireland) 2003 (revoked)[^c-9df1a2b368aa01ffb9c2de5209b6c99b]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into operation
 
 1st April 2003
 
-[^key-9df1a2b368aa01ffb9c2de5209b6c99b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9df1a2b368aa01ffb9c2de5209b6c99b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9df1a2b368aa01ffb9c2de5209b6c99b]
+## 1. Citation and commencement[^c-9df1a2b368aa01ffb9c2de5209b6c99b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9df1a2b368aa01ffb9c2de5209b6c99b]
+## 2. Interpretation[^c-9df1a2b368aa01ffb9c2de5209b6c99b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application of Regulations[^key-9df1a2b368aa01ffb9c2de5209b6c99b]
+## 3. Application of Regulations[^c-9df1a2b368aa01ffb9c2de5209b6c99b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Decapitalisation Rate[^key-9df1a2b368aa01ffb9c2de5209b6c99b]
+## 4. Decapitalisation Rate[^c-9df1a2b368aa01ffb9c2de5209b6c99b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-9df1a2b368aa01ffb9c2de5209b6c99b]
+## 5. Revocation[^c-9df1a2b368aa01ffb9c2de5209b6c99b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9df1a2b368aa01ffb9c2de5209b6c99b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9df1a2b368aa01ffb9c2de5209b6c99b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9df1a2b368aa01ffb9c2de5209b6c99b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9df1a2b368aa01ffb9c2de5209b6c99b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9df1a2b368aa01ffb9c2de5209b6c99b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/30) revoked (1.10.2009) by [Valuation for Rating (Decapitalisation Rate) Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/241)](https://www.legislation.gov.uk/nisr/2009/241), [regs. 1](https://www.legislation.gov.uk/nisr/2009/241/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/2009/241/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/nisr/2009/241/regulation/5/2))
+[^c-9df1a2b368aa01ffb9c2de5209b6c99b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/30) revoked (1.10.2009) by [Valuation for Rating (Decapitalisation Rate) Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/241)](https://www.legislation.gov.uk/nisr/2009/241), [regs. 1](https://www.legislation.gov.uk/nisr/2009/241/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/2009/241/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/nisr/2009/241/regulation/5/2))

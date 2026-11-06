@@ -36,52 +36,52 @@ implementing Regulation (EU) No 692/2011 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-7fcba80a7b37cedcf93b84e485ed8ca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fcba80a7b37cedcf93b84e485ed8ca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-7fcba80a7b37cedcf93b84e485ed8ca1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7fcba80a7b37cedcf93b84e485ed8ca1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7fcba80a7b37cedcf93b84e485ed8ca1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7fcba80a7b37cedcf93b84e485ed8ca1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-7fcba80a7b37cedcf93b84e485ed8ca1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-7fcba80a7b37cedcf93b84e485ed8ca1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-7fcba80a7b37cedcf93b84e485ed8ca1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-7fcba80a7b37cedcf93b84e485ed8ca1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fcba80a7b37cedcf93b84e485ed8ca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fcba80a7b37cedcf93b84e485ed8ca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — Structure of quality reports[^key-7fcba80a7b37cedcf93b84e485ed8ca1]
+## ANNEX I — Structure of quality reports[^c-7fcba80a7b37cedcf93b84e485ed8ca1]
 
-[^key-7fcba80a7b37cedcf93b84e485ed8ca1] Arrangements and structure for providing metadata
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-7fcba80a7b37cedcf93b84e485ed8ca1] Contents of the metadata and quality reports
+[^c-7fcba80a7b37cedcf93b84e485ed8ca1] Arrangements and structure for providing metadata
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Aggregate tables for the transmission of data listed in Annex I and Sections 1 and 3 of Annex II to Regulation (EU) No 692/2011[^key-7fcba80a7b37cedcf93b84e485ed8ca1]
-
-[^key-7fcba80a7b37cedcf93b84e485ed8ca1] File structure and codification
+[^c-7fcba80a7b37cedcf93b84e485ed8ca1] Contents of the metadata and quality reports
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fcba80a7b37cedcf93b84e485ed8ca1] Header
+## ANNEX II — Aggregate tables for the transmission of data listed in Annex I and Sections 1 and 3 of Annex II to Regulation (EU) No 692/2011[^c-7fcba80a7b37cedcf93b84e485ed8ca1]
+
+[^c-7fcba80a7b37cedcf93b84e485ed8ca1] File structure and codification
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fcba80a7b37cedcf93b84e485ed8ca1] Data
+[^c-7fcba80a7b37cedcf93b84e485ed8ca1] Header
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fcba80a7b37cedcf93b84e485ed8ca1] Notes
+[^c-7fcba80a7b37cedcf93b84e485ed8ca1] Data
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Micro-data files for the transmission of data listed in Section 2 of Annex II to Regulation (EU) No 692/2011[^key-7fcba80a7b37cedcf93b84e485ed8ca1]
+[^c-7fcba80a7b37cedcf93b84e485ed8ca1] Notes
 
-[^key-7fcba80a7b37cedcf93b84e485ed8ca1] File structure and codification
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III — Micro-data files for the transmission of data listed in Section 2 of Annex II to Regulation (EU) No 692/2011[^c-7fcba80a7b37cedcf93b84e485ed8ca1]
+
+[^c-7fcba80a7b37cedcf93b84e485ed8ca1] File structure and codification
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7fcba80a7b37cedcf93b84e485ed8ca1]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 197](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/197); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7fcba80a7b37cedcf93b84e485ed8ca1]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 197](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/197); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

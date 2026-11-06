@@ -31,7 +31,7 @@ summary: ''
 
 Representation Of The People
 
-The Parliamentary Elections (Returning Officers’ Charges) Order 2010 (revoked)[^key-94c439aab3ef93b760d3b054007c6257]
+The Parliamentary Elections (Returning Officers’ Charges) Order 2010 (revoked)[^c-94c439aab3ef93b760d3b054007c6257]
 
 Made
 
@@ -39,49 +39,49 @@ Made
 
 Coming into force in accordance with article 1(1)
 
-[^key-94c439aab3ef93b760d3b054007c6257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94c439aab3ef93b760d3b054007c6257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-94c439aab3ef93b760d3b054007c6257]
+## 1. Citation, commencement, extent and interpretation[^c-94c439aab3ef93b760d3b054007c6257]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-94c439aab3ef93b760d3b054007c6257]
+## 2. Revocation[^c-94c439aab3ef93b760d3b054007c6257]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Overall maximum recoverable amount[^key-94c439aab3ef93b760d3b054007c6257]
+## 3. Overall maximum recoverable amount[^c-94c439aab3ef93b760d3b054007c6257]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Maximum recoverable amount for specified services[^key-94c439aab3ef93b760d3b054007c6257]
+## 4. Maximum recoverable amount for specified services[^c-94c439aab3ef93b760d3b054007c6257]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-94c439aab3ef93b760d3b054007c6257] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-94c439aab3ef93b760d3b054007c6257] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Maximum recoverable amount for specified expenses[^key-94c439aab3ef93b760d3b054007c6257]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-94c439aab3ef93b760d3b054007c6257] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 8. Overall maximum recoverable amount at an uncontested election[^key-94c439aab3ef93b760d3b054007c6257]
+## 6. Maximum recoverable amount for specified expenses[^c-94c439aab3ef93b760d3b054007c6257]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-94c439aab3ef93b760d3b054007c6257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-94c439aab3ef93b760d3b054007c6257] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Overall maximum recoverable amount at an uncontested election[^c-94c439aab3ef93b760d3b054007c6257]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-94c439aab3ef93b760d3b054007c6257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Overall maximum recoverable amounts and maximum recoverable amounts for the specified services and the specified expenses for constituencies[^key-94c439aab3ef93b760d3b054007c6257]
+## SCHEDULE 1 — Overall maximum recoverable amounts and maximum recoverable amounts for the specified services and the specified expenses for constituencies[^c-94c439aab3ef93b760d3b054007c6257]
 
 Articles 3(1), 4(1) and 6(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Overall maximum recoverable amounts and maximum recoverable amounts for the specified services and the specified expenses for constituencies where a parliamentary general election is taken together with the ordinary day of election of councillors in 2010[^key-94c439aab3ef93b760d3b054007c6257]
+## SCHEDULE 2 — Overall maximum recoverable amounts and maximum recoverable amounts for the specified services and the specified expenses for constituencies where a parliamentary general election is taken together with the ordinary day of election of councillors in 2010[^c-94c439aab3ef93b760d3b054007c6257]
 
 Regulations 3(2), 4(2) and 6(2)
 
@@ -89,8 +89,8 @@ Regulations 3(2), 4(2) and 6(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-94c439aab3ef93b760d3b054007c6257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94c439aab3ef93b760d3b054007c6257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-94c439aab3ef93b760d3b054007c6257]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/830) revoked (27.2.2015) by [The Parliamentary Elections (Returning Officers' Charges) Order 2015 (S.I. 2015/476)](https://www.legislation.gov.uk/uksi/2015/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/476/article/1/1), [2](https://www.legislation.gov.uk/uksi/2015/476/article/2)
+[^c-94c439aab3ef93b760d3b054007c6257]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/830) revoked (27.2.2015) by [The Parliamentary Elections (Returning Officers' Charges) Order 2015 (S.I. 2015/476)](https://www.legislation.gov.uk/uksi/2015/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/476/article/1/1), [2](https://www.legislation.gov.uk/uksi/2015/476/article/2)

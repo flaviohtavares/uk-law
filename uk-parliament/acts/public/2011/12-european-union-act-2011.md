@@ -28,134 +28,134 @@ summary: ''
 
 **No longer in force.**
 
-European Union Act 2011 (repealed)[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+European Union Act 2011 (repealed)[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 2011 c. 12
 
-[^key-0d32e4d0e611b8d27854ccc5b3a37573]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d32e4d0e611b8d27854ccc5b3a37573]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Part 1[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+## Part 1[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
-#### 1.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 1.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 2.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 3.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 4.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 5.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 6.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 7.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 8.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 9.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 10.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 11.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 12.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 13.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part 2[^key-0d32e4d0e611b8d27854ccc5b3a37573]
-
-### 15.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 14.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+## Part 2[^c-0d32e4d0e611b8d27854ccc5b3a37573]
+
+### 15.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+### 16.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part 3[^key-0d32e4d0e611b8d27854ccc5b3a37573]
-
-#### 18.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+### 17.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+## Part 3[^c-0d32e4d0e611b8d27854ccc5b3a37573]
+
+#### 18.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 19.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 20.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22.[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+#### 21.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 22.[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+## SCHEDULE 1[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-0d32e4d0e611b8d27854ccc5b3a37573]
+## SCHEDULE 2[^c-0d32e4d0e611b8d27854ccc5b3a37573]
 
-**1.**[^key-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-0d32e4d0e611b8d27854ccc5b3a37573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0d32e4d0e611b8d27854ccc5b3a37573]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2011/12) repealed (4.7.2018 for the repeal of ss. 1-13, 14(1), 15(1), Sch. 1, 31.12.2020 in so far as not already in force) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2018/16/schedule/9) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [regs. 3(i)](https://www.legislation.gov.uk/uksi/2018/808/regulation/3/i), [4](https://www.legislation.gov.uk/uksi/2018/808/regulation/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2018/808/regulation/8))
+[^c-0d32e4d0e611b8d27854ccc5b3a37573]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2011/12) repealed (4.7.2018 for the repeal of ss. 1-13, 14(1), 15(1), Sch. 1, 31.12.2020 in so far as not already in force) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2018/16/schedule/9) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [regs. 3(i)](https://www.legislation.gov.uk/uksi/2018/808/regulation/3/i), [4](https://www.legislation.gov.uk/uksi/2018/808/regulation/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2018/808/regulation/8))

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] is considering suspending an NHS chemist (C) from a pharmaceutical list under section 154(1) or section 155(2) of the 2006 Act [^c21647021] (which relate to suspension and suspension pending appeal), before reaching its decision, it must—
+(1) Where NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] is considering suspending an NHS chemist (C) from a pharmaceutical list under section 154(1) or section 155(2) of the 2006 Act [^c21647021] (which relate to suspension and suspension pending appeal), before reaching its decision, it must—
 
 - (a) notify C of the action NHS England is considering taking and its grounds for considering taking that action; and
 - (b) as part of that notification—
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21647021]: Marginal citation: [Section 154](https://www.legislation.gov.uk/uksi/2013/349/section/154) has been amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“**the 2012 Act**”), Schedule 4, paragraph 81, and by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22). Section 155 has been amended by the 2012 Act, Schedule 4, paragraph 82, and by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
 

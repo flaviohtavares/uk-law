@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130AD. Revaluation of new state scheme pension debits and credits[^key-4ce7f39be5a1f31f58d7a5f038fb5cfb]
+## 130AD. Revaluation of new state scheme pension debits and credits[^c-4ce7f39be5a1f31f58d7a5f038fb5cfb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Whenever the Secretary of State makes an order under section 148AD of the Great 
 
 ## Annotations
 
-[^key-4ce7f39be5a1f31f58d7a5f038fb5cfb]: Textual amendment: S. 130AD inserted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 11 para. 7](https://www.legislation.gov.uk/nia/2015/5/schedule/11/paragraph/7)
+[^c-4ce7f39be5a1f31f58d7a5f038fb5cfb]: Textual amendment: S. 130AD inserted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 11 para. 7](https://www.legislation.gov.uk/nia/2015/5/schedule/11/paragraph/7)

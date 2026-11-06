@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 174A. Repayment charges: registered social landlords[^key-89a3e38d74e4683fce137be981eb203a]
+## 174A. Repayment charges: registered social landlords[^c-89a3e38d74e4683fce137be981eb203a]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ as they think fit.
 
 ## Annotations
 
-[^key-89a3e38d74e4683fce137be981eb203a]: Textual amendment: S. 174A inserted (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 85(3)](https://www.legislation.gov.uk/asp/2014/14/section/85/3), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-89a3e38d74e4683fce137be981eb203a]: Textual amendment: S. 174A inserted (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 85(3)](https://www.legislation.gov.uk/asp/2014/14/section/85/3), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

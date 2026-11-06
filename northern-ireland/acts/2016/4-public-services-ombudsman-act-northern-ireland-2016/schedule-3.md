@@ -25,7 +25,7 @@ Section 12.
 ### Northern Ireland Assembly
 
 - Assembly Commission
-- The Independent Remuneration Board[^key-20a3394f170503a90643520c8455d906]
+- The Independent Remuneration Board[^c-20a3394f170503a90643520c8455d906]
 
 ### Northern Ireland Departments
 
@@ -81,7 +81,7 @@ Section 12.
 - The Northern Ireland Social Care Council
 - The Patient and Client Council
 - The Regional Agency for Public Health and Social Well-being
-- [^key-8750aa367e1ec828a9ff79f6e6ef09bb]...
+- [^c-8750aa367e1ec828a9ff79f6e6ef09bb]...
 - The Regional Business Services Organisation
 - A general health care provider
 - An independent provider of health and social care
@@ -123,12 +123,12 @@ Section 12.
 
 - The Agri-Food and Biosciences Institute
 - Civil Service Commissioners for Northern Ireland
-- Commissioner for the Ulster Scots and the Ulster British tradition[^key-6f649a49b7004a0f9967d76d74c31451]
+- Commissioner for the Ulster Scots and the Ulster British tradition[^c-6f649a49b7004a0f9967d76d74c31451]
 - The Comptroller and Auditor General
 - The Equality Commission for Northern Ireland
 - The General Consumer Council for Northern Ireland
 - The Health and Safety Executive for Northern Ireland
-- The Historical Institutional Abuse Redress Board established under section 1 of the Historical Institutional Abuse (Northern Ireland) Act 2019[^key-06eaf437b4b02bed95eedb54ac44ebc0]
+- The Historical Institutional Abuse Redress Board established under section 1 of the Historical Institutional Abuse (Northern Ireland) Act 2019[^c-06eaf437b4b02bed95eedb54ac44ebc0]
 - Irish Language Commissioner
 - The Livestock and Meat Commission for Northern Ireland
 - The Northern Ireland Audit Office
@@ -136,7 +136,7 @@ Section 12.
 - The Northern Ireland Fire and Rescue Service Board
 - The Office of Identity and Cultural Expression
 - The Office of the Commissioner for Older People for Northern Ireland
-- The Office of the Commissioner for Survivors of Institutional Childhood Abuse[^key-13e2fcd8a90bdfbd1de3b226665e5288]
+- The Office of the Commissioner for Survivors of Institutional Childhood Abuse[^c-13e2fcd8a90bdfbd1de3b226665e5288]
 - Ulster Sheltered Employment Limited
 - A new town commission established under the New Towns Acts (Northern Ireland) 1965 to 1968
 - An implementation body to which the North/South Co-operation (Implementation Bodies) (Northern Ireland) Order 1999 applies
@@ -151,12 +151,12 @@ Notes:
 
 [^c22561851]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/3) wholly in operation at 1.4.17; [Sch. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/3) in operation for specified purposes at 1.4.2016 see [s. 64(1)](https://www.legislation.gov.uk/nia/2016/4/section/64/1); [Sch. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/3) in operation for specified purposes at 1.10.2016 see [s. 64(3)(c)](https://www.legislation.gov.uk/nia/2016/4/section/64/3/c); [Sch. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/3) in operation for specified purposes at 1.4.2017 see [s. 64(4)(a)](https://www.legislation.gov.uk/nia/2016/4/section/64/4/a)
 
-[^key-20a3394f170503a90643520c8455d906]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/3) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(3)(d)(i)](https://www.legislation.gov.uk/nia/2025/5/section/7/3/d/i), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-20a3394f170503a90643520c8455d906]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/3) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(3)(d)(i)](https://www.legislation.gov.uk/nia/2025/5/section/7/3/d/i), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-8750aa367e1ec828a9ff79f6e6ef09bb]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 250(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/250/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-8750aa367e1ec828a9ff79f6e6ef09bb]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 250(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/250/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-6f649a49b7004a0f9967d76d74c31451]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/3) inserted (6.12.2022) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2022/45/section/9/4), [10(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/1)
+[^c-6f649a49b7004a0f9967d76d74c31451]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/3) inserted (6.12.2022) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2022/45/section/9/4), [10(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/1)
 
-[^key-06eaf437b4b02bed95eedb54ac44ebc0]: Textual amendment: Words in Sch. 3 inserted (27.3.2020) by [Historical Institutional Abuse (Northern Ireland) Act 2019 (c. 31)](https://www.legislation.gov.uk/ukpga/2019/31), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/31/section/33/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/14); [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+[^c-06eaf437b4b02bed95eedb54ac44ebc0]: Textual amendment: Words in Sch. 3 inserted (27.3.2020) by [Historical Institutional Abuse (Northern Ireland) Act 2019 (c. 31)](https://www.legislation.gov.uk/ukpga/2019/31), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/31/section/33/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/14); [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
 
-[^key-13e2fcd8a90bdfbd1de3b226665e5288]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/3) inserted (2.11.2020) by [Historical Institutional Abuse (Northern Ireland) Act 2019 (c. 31)](https://www.legislation.gov.uk/ukpga/2019/31), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/31/section/33/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/15); [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-13e2fcd8a90bdfbd1de3b226665e5288]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/3) inserted (2.11.2020) by [Historical Institutional Abuse (Northern Ireland) Act 2019 (c. 31)](https://www.legislation.gov.uk/ukpga/2019/31), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/31/section/33/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/15); [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)

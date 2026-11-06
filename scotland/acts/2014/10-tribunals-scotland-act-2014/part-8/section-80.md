@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Ancillary regulations[^key-41b95c133b5363fa4603e9f721293117]
+## 80. Ancillary regulations[^c-41b95c133b5363fa4603e9f721293117]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41b95c133b5363fa4603e9f721293117]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2014/10/section/80) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-41b95c133b5363fa4603e9f721293117]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2014/10/section/80) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

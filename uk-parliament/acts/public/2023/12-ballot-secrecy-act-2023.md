@@ -36,7 +36,7 @@ An Act to make provision for ensuring the secrecy of ballots cast in polling sta
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Amendment of the Representation of the People Act 1983[^key-7834fb3c2e272bed5713272e234e23c1][^key-10580372cd99ef1744aa6445c4fce16d]
+## 1. Amendment of the Representation of the People Act 1983[^c-7834fb3c2e272bed5713272e234e23c1][^c-10580372cd99ef1744aa6445c4fce16d]
 
 In the Representation of the People Act 1983, before section 63 insert—
 
@@ -69,7 +69,7 @@ In the Representation of the People Act 1983, before section 63 insert—
 >
 > (5) This section does not have effect in relation to an election in Scotland or Wales under the local government Act.
 
-## 2. Amendment of Northern Ireland legislation[^key-94f6f6dd85685cf5ba655f53bcee442a][^key-1da108cd54e8cafe887149df3b3b66c1]
+## 2. Amendment of Northern Ireland legislation[^c-94f6f6dd85685cf5ba655f53bcee442a][^c-1da108cd54e8cafe887149df3b3b66c1]
 
 *Extent: N.I.*
 
@@ -110,7 +110,7 @@ In the Representation of the People Act 1983, before section 63 insert—
 
 .
 
-## 3. Extent, commencement and short title[^key-315e980d04b9c88e01f5b2d51d98201e]
+## 3. Extent, commencement and short title[^c-315e980d04b9c88e01f5b2d51d98201e]
 
 (1) Section 1, section 2(2) and this section extend to England and Wales, Scotland and Northern Ireland.
 
@@ -132,12 +132,12 @@ In the Representation of the People Act 1983, before section 63 insert—
 
 ## Annotations
 
-[^key-7834fb3c2e272bed5713272e234e23c1]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/12/section/3/4)
+[^c-7834fb3c2e272bed5713272e234e23c1]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/12/section/3/4)
 
-[^key-10580372cd99ef1744aa6445c4fce16d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/12/section/1) in force at 2.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 8](https://www.legislation.gov.uk/uksi/2023/1145/regulation/8)
+[^c-10580372cd99ef1744aa6445c4fce16d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/12/section/1) in force at 2.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 8](https://www.legislation.gov.uk/uksi/2023/1145/regulation/8)
 
-[^key-94f6f6dd85685cf5ba655f53bcee442a]: Commencement: S. 2 not in force at Royal Assent, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/12/section/3/4)
+[^c-94f6f6dd85685cf5ba655f53bcee442a]: Commencement: S. 2 not in force at Royal Assent, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/12/section/3/4)
 
-[^key-1da108cd54e8cafe887149df3b3b66c1]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/12/section/2) in force at 2.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 8](https://www.legislation.gov.uk/uksi/2023/1145/regulation/8)
+[^c-1da108cd54e8cafe887149df3b3b66c1]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/12/section/2) in force at 2.5.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 8](https://www.legislation.gov.uk/uksi/2023/1145/regulation/8)
 
-[^key-315e980d04b9c88e01f5b2d51d98201e]: Commencement: S. 3 in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/12/section/3/3)
+[^c-315e980d04b9c88e01f5b2d51d98201e]: Commencement: S. 3 in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/12/section/3/3)

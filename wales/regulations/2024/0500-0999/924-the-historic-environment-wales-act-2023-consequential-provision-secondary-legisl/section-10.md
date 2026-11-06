@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. The Crop Residues (Burning) Regulations 1993[^key-9e1b01f4ab5937325a4998b01e617bd8]
+## 10. The Crop Residues (Burning) Regulations 1993[^c-9e1b01f4ab5937325a4998b01e617bd8]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In regulation 2(1) of the Crop Residues (Burning) Regulations 1993[^f00010], in 
 
 ## Annotations
 
-[^key-9e1b01f4ab5937325a4998b01e617bd8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2024/924/regulation/10) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-9e1b01f4ab5937325a4998b01e617bd8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2024/924/regulation/10) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 1993/1366](https://www.legislation.gov.uk/uksi/1993/1366).

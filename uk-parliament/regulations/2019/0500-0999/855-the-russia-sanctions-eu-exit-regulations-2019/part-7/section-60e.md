@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60E. Trade: exceptions in relation to maritime goods and maritime technology[^key-080b7a73ff1096abc9d0c9b85a242e96]
+## 60E. Trade: exceptions in relation to maritime goods and maritime technology[^c-080b7a73ff1096abc9d0c9b85a242e96]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-080b7a73ff1096abc9d0c9b85a242e96]: Textual amendment: Regs. 60E-60G inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2022/792/regulation/10/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-080b7a73ff1096abc9d0c9b85a242e96]: Textual amendment: Regs. 60E-60G inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2022/792/regulation/10/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))

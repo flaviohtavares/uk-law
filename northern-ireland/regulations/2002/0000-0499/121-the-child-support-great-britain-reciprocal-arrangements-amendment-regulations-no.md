@@ -33,7 +33,7 @@ FAMILY LAW
 
 CHILD SUPPORT
 
-The Child Support (Great Britain Reciprocal Arrangements) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^key-9de8ed2c66df9e72687479ace1044f35]
+The Child Support (Great Britain Reciprocal Arrangements) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^c-9de8ed2c66df9e72687479ace1044f35]
 
 Made
 
@@ -43,36 +43,36 @@ Coming into operation
 
 16th April 2002
 
-[^key-9de8ed2c66df9e72687479ace1044f35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9de8ed2c66df9e72687479ace1044f35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-9de8ed2c66df9e72687479ace1044f35]
+## 1. Citation, commencement and interpretation[^c-9de8ed2c66df9e72687479ace1044f35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Child Support (Great Britain Reciprocal Arrangements) Regulations[^key-9de8ed2c66df9e72687479ace1044f35]
+## 2. Amendment of the Child Support (Great Britain Reciprocal Arrangements) Regulations[^c-9de8ed2c66df9e72687479ace1044f35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9de8ed2c66df9e72687479ace1044f35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9de8ed2c66df9e72687479ace1044f35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — SCHEDULE TO BE INSERTED INTO THE CHILD SUPPORT (GREAT BRITAIN RECIPROCAL ARRANGEMENTS) REGULATIONS (NORTHERN IRELAND) 1993 AS SCHEDULE 1B TO THOSE REGULATIONS[^key-9de8ed2c66df9e72687479ace1044f35]
+## SCHEDULE 1 — SCHEDULE TO BE INSERTED INTO THE CHILD SUPPORT (GREAT BRITAIN RECIPROCAL ARRANGEMENTS) REGULATIONS (NORTHERN IRELAND) 1993 AS SCHEDULE 1B TO THOSE REGULATIONS[^c-9de8ed2c66df9e72687479ace1044f35]
 
 Regulation 2(3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — SCHEDULE TO BE INSERTED INTO THE CHILD SUPPORT (GREAT BRITAIN RECIPROCAL ARRANGEMENTS) REGULATIONS (NORTHERN IRELAND) 1993 AS SCHEDULE 3 TO THOSE REGULATIONS[^key-9de8ed2c66df9e72687479ace1044f35]
+## SCHEDULE 2 — SCHEDULE TO BE INSERTED INTO THE CHILD SUPPORT (GREAT BRITAIN RECIPROCAL ARRANGEMENTS) REGULATIONS (NORTHERN IRELAND) 1993 AS SCHEDULE 3 TO THOSE REGULATIONS[^c-9de8ed2c66df9e72687479ace1044f35]
 
 Regulation 2(5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9de8ed2c66df9e72687479ace1044f35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9de8ed2c66df9e72687479ace1044f35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9de8ed2c66df9e72687479ace1044f35]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/121) revoked (16.7.2003) by [Education (Student Support) Regulations (Northern Ireland) 2003 (S.R. 2003/298)](https://www.legislation.gov.uk/nisr/2003/298), [regs. 1](https://www.legislation.gov.uk/nisr/2003/298/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2003/298/regulation/3/1)
+[^c-9de8ed2c66df9e72687479ace1044f35]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/121) revoked (16.7.2003) by [Education (Student Support) Regulations (Northern Ireland) 2003 (S.R. 2003/298)](https://www.legislation.gov.uk/nisr/2003/298), [regs. 1](https://www.legislation.gov.uk/nisr/2003/298/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2003/298/regulation/3/1)

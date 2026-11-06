@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32ZA. Details of industrial action etc to be included in annual return[^key-4be59a5a2af72172d697a8d2beda0b44]
+## 32ZA. Details of industrial action etc to be included in annual return[^c-4be59a5a2af72172d697a8d2beda0b44]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4be59a5a2af72172d697a8d2beda0b44]: Textual amendment: S. 32ZA omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 79(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/79/1), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(9)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/9)
+[^c-4be59a5a2af72172d697a8d2beda0b44]: Textual amendment: S. 32ZA omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 79(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/79/1), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(9)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/9)

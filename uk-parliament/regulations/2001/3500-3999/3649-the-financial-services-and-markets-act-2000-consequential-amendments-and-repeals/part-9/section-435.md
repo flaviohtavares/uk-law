@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 435. Winding up of an authorised deposit taker or former authorised institution[^key-ddc01c6e78edce449bb45a6727b22291]
+## 435. Winding up of an authorised deposit taker or former authorised institution[^c-ddc01c6e78edce449bb45a6727b22291]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ddc01c6e78edce449bb45a6727b22291]: Commencement: Art. 435 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ddc01c6e78edce449bb45a6727b22291]: Commencement: Art. 435 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00300]: Footnote: Article 12 of the [Financial Services and Markets Act 2000 (Transitional Provisions and Savings) (Civil Remedies, Discipline, Criminal Offences etc.) (No. 2) Order 2001 (S.I. 2001/ 3083)](https://www.legislation.gov.uk/uksi/2001/3083) provides that a former authorised institution may be treated as if it were a person who has been an authorised person for the purposes of s.367(1)(a) of the Financial Services and Markets Act 2000.

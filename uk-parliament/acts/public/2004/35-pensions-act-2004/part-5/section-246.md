@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246. Borrowing by trustees[^key-2c726eb8addb7321d73159928c05e633]
+## 246. Borrowing by trustees[^c-2c726eb8addb7321d73159928c05e633]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ After section 36 of the Pensions Act 1995 insert—
 
 ## Annotations
 
-[^key-2c726eb8addb7321d73159928c05e633]: Commencement: S. 246 in force at 4.12.2005 for specified purposes and 30.12.2005 in so far as not already in force by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/1)
+[^c-2c726eb8addb7321d73159928c05e633]: Commencement: S. 246 in force at 4.12.2005 for specified purposes and 30.12.2005 in so far as not already in force by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/1)

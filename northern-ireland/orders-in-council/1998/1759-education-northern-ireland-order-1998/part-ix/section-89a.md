@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89A. Ulster Scots in education[^key-2f7845f26344ce76631366bb5f4711ff]
+## 89A. Ulster Scots in education[^c-2f7845f26344ce76631366bb5f4711ff]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ It shall be the duty of the Department to encourage and facilitate the use and u
 
 ## Annotations
 
-[^key-2f7845f26344ce76631366bb5f4711ff]: Textual amendment: [Art. 89A](https://www.legislation.gov.uk/nisi/1998/1759/article/89A) inserted (26.2.2025) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [ss. 5](https://www.legislation.gov.uk/ukpga/2022/45/section/5), [10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2); [S.I. 2025/214](https://www.legislation.gov.uk/uksi/2025/214), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/214/regulation/2/1/b)
+[^c-2f7845f26344ce76631366bb5f4711ff]: Textual amendment: [Art. 89A](https://www.legislation.gov.uk/nisi/1998/1759/article/89A) inserted (26.2.2025) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [ss. 5](https://www.legislation.gov.uk/ukpga/2022/45/section/5), [10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2); [S.I. 2025/214](https://www.legislation.gov.uk/uksi/2025/214), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/214/regulation/2/1/b)

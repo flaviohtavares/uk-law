@@ -32,7 +32,7 @@ FAMILY LAW;
 
 SOCIAL SECURITY
 
-The Social Security (Adjudication) and Child Support (Amendment) Regulations (Northern Ireland) 1996 (revoked)[^key-42384cac9c423f3793e46656c569f74f]
+The Social Security (Adjudication) and Child Support (Amendment) Regulations (Northern Ireland) 1996 (revoked)[^c-42384cac9c423f3793e46656c569f74f]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 28th February 1996
 
-[^key-42384cac9c423f3793e46656c569f74f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42384cac9c423f3793e46656c569f74f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-42384cac9c423f3793e46656c569f74f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Social Security (Adjudication) Regulations[^key-42384cac9c423f3793e46656c569f74f]
+## 1. Citation, commencement and interpretation[^c-42384cac9c423f3793e46656c569f74f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Child Support Appeal Tribunals (Procedure) Regulations[^key-42384cac9c423f3793e46656c569f74f][^key-bf165f02244f816946f930e5260e51f4]
+## 2. Amendment of the Social Security (Adjudication) Regulations[^c-42384cac9c423f3793e46656c569f74f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-42384cac9c423f3793e46656c569f74f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 3. Amendment of the Child Support Appeal Tribunals (Procedure) Regulations[^c-42384cac9c423f3793e46656c569f74f][^c-bf165f02244f816946f930e5260e51f4]
 
-[^key-42384cac9c423f3793e46656c569f74f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-42384cac9c423f3793e46656c569f74f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-42384cac9c423f3793e46656c569f74f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-42384cac9c423f3793e46656c569f74f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1996/24) revoked (1.6.1999 for specified purposes, 5.7.1999 for specified purposes, 6.9.1999 for specified purposes, 5.10.1999 for specified purposes, 18.10.1999 for specified purposes, 29.11.1999 in so far as not already in operation) by [The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (S.R. 1999/162)](https://www.legislation.gov.uk/nisr/1999/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1), [59(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/1), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/162/schedule/3) (with [reg. 59(2)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/2)[(3)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/3))
+[^c-42384cac9c423f3793e46656c569f74f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1996/24) revoked (1.6.1999 for specified purposes, 5.7.1999 for specified purposes, 6.9.1999 for specified purposes, 5.10.1999 for specified purposes, 18.10.1999 for specified purposes, 29.11.1999 in so far as not already in operation) by [The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (S.R. 1999/162)](https://www.legislation.gov.uk/nisr/1999/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1), [59(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/1), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/162/schedule/3) (with [reg. 59(2)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/2)[(3)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/3))
 
-[^key-bf165f02244f816946f930e5260e51f4]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1996/24/regulation/3) revoked (21.10.1996) by [The Social Security (Adjudication) and Child Support (Amendment No. 2) Regulations (Northern Ireland) 1996 (S.R. 1996/457)](https://www.legislation.gov.uk/nisr/1996/457), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1996/457/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/1996/457/regulation/5)
+[^c-bf165f02244f816946f930e5260e51f4]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1996/24/regulation/3) revoked (21.10.1996) by [The Social Security (Adjudication) and Child Support (Amendment No. 2) Regulations (Northern Ireland) 1996 (S.R. 1996/457)](https://www.legislation.gov.uk/nisr/1996/457), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1996/457/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/1996/457/regulation/5)

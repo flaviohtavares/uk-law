@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Recommendations to create parish councils[^key-08ad4b0d5486416f88929a874f4b59bc][^key-1ef9b49ef682be9751477ce5e06b8120][^key-19de6d487163622b4109b6b04355bd87]
+## 94. Recommendations to create parish councils[^c-08ad4b0d5486416f88929a874f4b59bc][^c-1ef9b49ef682be9751477ce5e06b8120][^c-19de6d487163622b4109b6b04355bd87]
 
 *Extent: E+W*
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-08ad4b0d5486416f88929a874f4b59bc]: Commencement: S. 94 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/337/article/2/b)
+[^c-08ad4b0d5486416f88929a874f4b59bc]: Commencement: S. 94 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/337/article/2/b)
 
-[^key-1ef9b49ef682be9751477ce5e06b8120]: Modification: [S. 94](https://www.legislation.gov.uk/ukpga/2007/28/section/94): functions made exercisable (18.3.2022) by [The North Yorkshire (Structural Changes) Order 2022 (S.I. 2022/328)](https://www.legislation.gov.uk/uksi/2022/328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/328/article/1/1), [7(3)(k)](https://www.legislation.gov.uk/uksi/2022/328/article/7/3/k)
+[^c-1ef9b49ef682be9751477ce5e06b8120]: Modification: [S. 94](https://www.legislation.gov.uk/ukpga/2007/28/section/94): functions made exercisable (18.3.2022) by [The North Yorkshire (Structural Changes) Order 2022 (S.I. 2022/328)](https://www.legislation.gov.uk/uksi/2022/328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/328/article/1/1), [7(3)(k)](https://www.legislation.gov.uk/uksi/2022/328/article/7/3/k)
 
-[^key-19de6d487163622b4109b6b04355bd87]: Modification: [S. 94](https://www.legislation.gov.uk/ukpga/2007/28/section/94) applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [17(k)](https://www.legislation.gov.uk/uksi/2022/331/article/17/k)
+[^c-19de6d487163622b4109b6b04355bd87]: Modification: [S. 94](https://www.legislation.gov.uk/ukpga/2007/28/section/94) applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [17(k)](https://www.legislation.gov.uk/uksi/2022/331/article/17/k)

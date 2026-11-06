@@ -73,7 +73,7 @@ This subsection does not have effect in relation to poultry.”
 
 Where, apart from this section, any power to make provision by an order under the [^c946167]Animal Health Act 1981 does not include power to provide for its operation in or over territorial waters of the United Kingdom adjacent to Great Britain, it shall be treated as including such a power unless the context otherwise requires.
 
-### 4. Removal of restriction on powers as to infected places.[^key-918f9436f414c6f64c37f22124386114]
+### 4. Removal of restriction on powers as to infected places.[^c-918f9436f414c6f64c37f22124386114]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -85,96 +85,96 @@ Where, apart from this section, any power to make provision by an order under th
 
 ### 6. Licences.
 
-For section 3 of that Act (regulations for securing humane conditions of slaughter) there is substituted— *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
+For section 3 of that Act (regulations for securing humane conditions of slaughter) there is substituted— *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
 
-> **3 (Extent: S) (affected by repeal, see note). Regulations for securing humane conditions of slaughter. (Extent: S) (affected by repeal, see note)[^key-1825fc26ea2c6dd74b3b839b5d1b0664][^key-1825fc26ea2c6dd74b3b839b5d1b0664]**
+> **3 (Extent: S) (affected by repeal, see note). Regulations for securing humane conditions of slaughter. (Extent: S) (affected by repeal, see note)[^c-1825fc26ea2c6dd74b3b839b5d1b0664][^c-1825fc26ea2c6dd74b3b839b5d1b0664]**
 >
-> (1 (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] The Ministers may make regulations for the purpose of securing humane conditions and practices in connection with the slaughter of birds to which this Act applies. *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
+> (1 (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] The Ministers may make regulations for the purpose of securing humane conditions and practices in connection with the slaughter of birds to which this Act applies. *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
 >
-> (2 (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] The regulations may— *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
+> (2 (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] The regulations may— *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] specify conditions to be observed in connection with the confinement and treatment of any such birds while awaiting slaughter and in connection with the slaughter of any such birds; *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
-> - (b (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] prohibit the slaughter of any such birds or any activity connected with their slaughter— *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
->   - (i (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] on premises to which the regulations apply, or *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
->   - (ii (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] by methods or in circumstances of any description specified in the regulations, *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
+> - (a (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] specify conditions to be observed in connection with the confinement and treatment of any such birds while awaiting slaughter and in connection with the slaughter of any such birds; *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
+> - (b (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] prohibit the slaughter of any such birds or any activity connected with their slaughter— *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
+>   - (i (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] on premises to which the regulations apply, or *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
+>   - (ii (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] by methods or in circumstances of any description specified in the regulations, *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
 >
->   except under and in accordance with the terms of a licence under the regulations; *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
-> - (c (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] require occupiers of premises to which the regulations apply to secure that the provisions of the regulations are complied with on the premises; *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
-> - (d (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] make different provision for different cases; *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
-> - (e (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] provide, in the case of any contravention of any provision of the regulations, for the creation of offences and their punishment on summary conviction with a fine of an amount not exceeding that specified in the regulations. *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
+>   except under and in accordance with the terms of a licence under the regulations; *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
+> - (c (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] require occupiers of premises to which the regulations apply to secure that the provisions of the regulations are complied with on the premises; *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
+> - (d (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] make different provision for different cases; *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
+> - (e (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] provide, in the case of any contravention of any provision of the regulations, for the creation of offences and their punishment on summary conviction with a fine of an amount not exceeding that specified in the regulations. *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
 >
-> (3 (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] The regulations may include provision in respect of— *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
+> (3 (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] The regulations may include provision in respect of— *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] the granting, modification, suspension and revocation of licences by local authorities and, in connection with those matters, the charging of such reasonable fees as the authority concerned may determine; *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
-> - (b (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] the requirements to be satisfied for the granting of licences and the conditions to which they are to be subject; and *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
-> - (c (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] the duration of licences. *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
+> - (a (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] the granting, modification, suspension and revocation of licences by local authorities and, in connection with those matters, the charging of such reasonable fees as the authority concerned may determine; *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
+> - (b (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] the requirements to be satisfied for the granting of licences and the conditions to which they are to be subject; and *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
+> - (c (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] the duration of licences. *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
 >
-> (4 (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] The amount that may be specified under subsection (2)(e) of this section is an amount not exceeding level 3 on the standard scale. *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
+> (4 (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] The amount that may be specified under subsection (2)(e) of this section is an amount not exceeding level 3 on the standard scale. *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
 >
-> (5 (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] Subsections (2) and (3) of this section are without prejudice to the generality of subsection (1) of this section. *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
+> (5 (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] Subsections (2) and (3) of this section are without prejudice to the generality of subsection (1) of this section. *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
 >
-> (6 (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] The Ministers shall, before making any regulations under this section, consult with such persons or bodies as seem to them representative of the interests concerned. *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
+> (6 (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] The Ministers shall, before making any regulations under this section, consult with such persons or bodies as seem to them representative of the interests concerned. *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
 >
-> (7 (Extent: S) (affected by repeal, see note))[^key-1825fc26ea2c6dd74b3b839b5d1b0664] The power to make regulations under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(Extent: S)* *(affected by repeal, see note)*[^key-1825fc26ea2c6dd74b3b839b5d1b0664]
+> (7 (Extent: S) (affected by repeal, see note))[^c-1825fc26ea2c6dd74b3b839b5d1b0664] The power to make regulations under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(Extent: S)* *(affected by repeal, see note)*[^c-1825fc26ea2c6dd74b3b839b5d1b0664]
 
 ### 7. Codes of practice.
 
-After section 3 of that Act there is inserted— *(Extent: S)* *(affected by repeal, see note)*[^key-b1ea535d26bce06ee00698c8322ef9a4]
+After section 3 of that Act there is inserted— *(Extent: S)* *(affected by repeal, see note)*[^c-b1ea535d26bce06ee00698c8322ef9a4]
 
-> **3A (Extent: S) (affected by repeal, see note). Codes of practice. (Extent: S) (affected by repeal, see note)[^key-b1ea535d26bce06ee00698c8322ef9a4][^key-b1ea535d26bce06ee00698c8322ef9a4]**
+> **3A (Extent: S) (affected by repeal, see note). Codes of practice. (Extent: S) (affected by repeal, see note)[^c-b1ea535d26bce06ee00698c8322ef9a4][^c-b1ea535d26bce06ee00698c8322ef9a4]**
 >
-> (1 (Extent: S) (affected by repeal, see note))[^key-b1ea535d26bce06ee00698c8322ef9a4] The Ministers may from time to time after consultation with such persons or bodies as seem to them representative of the interests concerned— *(Extent: S)* *(affected by repeal, see note)*[^key-b1ea535d26bce06ee00698c8322ef9a4]
+> (1 (Extent: S) (affected by repeal, see note))[^c-b1ea535d26bce06ee00698c8322ef9a4] The Ministers may from time to time after consultation with such persons or bodies as seem to them representative of the interests concerned— *(Extent: S)* *(affected by repeal, see note)*[^c-b1ea535d26bce06ee00698c8322ef9a4]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-b1ea535d26bce06ee00698c8322ef9a4] prepare and issue codes of practice for the purpose of providing practical guidance in respect of any provision of this Act or regulations under it; and *(Extent: S)* *(affected by repeal, see note)*[^key-b1ea535d26bce06ee00698c8322ef9a4]
-> - (b (Extent: S) (affected by repeal, see note))[^key-b1ea535d26bce06ee00698c8322ef9a4] revise any such code by revoking, varying, amending or adding to the provisions of the code. *(Extent: S)* *(affected by repeal, see note)*[^key-b1ea535d26bce06ee00698c8322ef9a4]
+> - (a (Extent: S) (affected by repeal, see note))[^c-b1ea535d26bce06ee00698c8322ef9a4] prepare and issue codes of practice for the purpose of providing practical guidance in respect of any provision of this Act or regulations under it; and *(Extent: S)* *(affected by repeal, see note)*[^c-b1ea535d26bce06ee00698c8322ef9a4]
+> - (b (Extent: S) (affected by repeal, see note))[^c-b1ea535d26bce06ee00698c8322ef9a4] revise any such code by revoking, varying, amending or adding to the provisions of the code. *(Extent: S)* *(affected by repeal, see note)*[^c-b1ea535d26bce06ee00698c8322ef9a4]
 >
-> (2 (Extent: S) (affected by repeal, see note))[^key-b1ea535d26bce06ee00698c8322ef9a4] A code prepared in pursuance of this section and any alterations proposed to be made on a revision of such a code shall be laid before both Houses of Parliament, and the Ministers shall not issue the code or revised code, as the case may be, until after the end of the period of 40 days beginning with the day on which the code or the proposed alterations were so laid. *(Extent: S)* *(affected by repeal, see note)*[^key-b1ea535d26bce06ee00698c8322ef9a4]
+> (2 (Extent: S) (affected by repeal, see note))[^c-b1ea535d26bce06ee00698c8322ef9a4] A code prepared in pursuance of this section and any alterations proposed to be made on a revision of such a code shall be laid before both Houses of Parliament, and the Ministers shall not issue the code or revised code, as the case may be, until after the end of the period of 40 days beginning with the day on which the code or the proposed alterations were so laid. *(Extent: S)* *(affected by repeal, see note)*[^c-b1ea535d26bce06ee00698c8322ef9a4]
 >
-> (3 (Extent: S) (affected by repeal, see note))[^key-b1ea535d26bce06ee00698c8322ef9a4] If, within the period mentioned in subsection (2) of this section, either House resolves that the code be not issued or the proposed alterations be not made, as the case may be, the Ministers shall not issue the code or revised code (without prejudice to their power under that subsection to lay further codes or proposed alterations before Parliament). *(Extent: S)* *(affected by repeal, see note)*[^key-b1ea535d26bce06ee00698c8322ef9a4]
+> (3 (Extent: S) (affected by repeal, see note))[^c-b1ea535d26bce06ee00698c8322ef9a4] If, within the period mentioned in subsection (2) of this section, either House resolves that the code be not issued or the proposed alterations be not made, as the case may be, the Ministers shall not issue the code or revised code (without prejudice to their power under that subsection to lay further codes or proposed alterations before Parliament). *(Extent: S)* *(affected by repeal, see note)*[^c-b1ea535d26bce06ee00698c8322ef9a4]
 >
-> (4 (Extent: S) (affected by repeal, see note))[^key-b1ea535d26bce06ee00698c8322ef9a4] For the purposes of subsection (2) of this section— *(Extent: S)* *(affected by repeal, see note)*[^key-b1ea535d26bce06ee00698c8322ef9a4]
+> (4 (Extent: S) (affected by repeal, see note))[^c-b1ea535d26bce06ee00698c8322ef9a4] For the purposes of subsection (2) of this section— *(Extent: S)* *(affected by repeal, see note)*[^c-b1ea535d26bce06ee00698c8322ef9a4]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-b1ea535d26bce06ee00698c8322ef9a4] where a code or proposed alterations are laid before each House of Parliament on different days, the later day shall be taken to be the day on which the code or the proposed alterations, as the case may be, were laid before both Houses; and *(Extent: S)* *(affected by repeal, see note)*[^key-b1ea535d26bce06ee00698c8322ef9a4]
-> - (b (Extent: S) (affected by repeal, see note))[^key-b1ea535d26bce06ee00698c8322ef9a4] in reckoning any period of 40 days, no account shall be taken of any time during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days. *(Extent: S)* *(affected by repeal, see note)*[^key-b1ea535d26bce06ee00698c8322ef9a4]
+> - (a (Extent: S) (affected by repeal, see note))[^c-b1ea535d26bce06ee00698c8322ef9a4] where a code or proposed alterations are laid before each House of Parliament on different days, the later day shall be taken to be the day on which the code or the proposed alterations, as the case may be, were laid before both Houses; and *(Extent: S)* *(affected by repeal, see note)*[^c-b1ea535d26bce06ee00698c8322ef9a4]
+> - (b (Extent: S) (affected by repeal, see note))[^c-b1ea535d26bce06ee00698c8322ef9a4] in reckoning any period of 40 days, no account shall be taken of any time during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days. *(Extent: S)* *(affected by repeal, see note)*[^c-b1ea535d26bce06ee00698c8322ef9a4]
 >
-> (5 (Extent: S) (affected by repeal, see note))[^key-b1ea535d26bce06ee00698c8322ef9a4] The Ministers shall cause any code issued or revised under this section to be printed and distributed, and may make such arrangements as they think fit for its distribution, including causing copies of it to be put on sale to the public at such reasonable price as the Ministers may determine. *(Extent: S)* *(affected by repeal, see note)*[^key-b1ea535d26bce06ee00698c8322ef9a4]
+> (5 (Extent: S) (affected by repeal, see note))[^c-b1ea535d26bce06ee00698c8322ef9a4] The Ministers shall cause any code issued or revised under this section to be printed and distributed, and may make such arrangements as they think fit for its distribution, including causing copies of it to be put on sale to the public at such reasonable price as the Ministers may determine. *(Extent: S)* *(affected by repeal, see note)*[^c-b1ea535d26bce06ee00698c8322ef9a4]
 >
-> (6 (Extent: S) (affected by repeal, see note))[^key-b1ea535d26bce06ee00698c8322ef9a4] A failure on the part of any person to follow any guidance contained in a code issued under this section shall not of itself render that person liable to proceedings of any kind. *(Extent: S)* *(affected by repeal, see note)*[^key-b1ea535d26bce06ee00698c8322ef9a4]
+> (6 (Extent: S) (affected by repeal, see note))[^c-b1ea535d26bce06ee00698c8322ef9a4] A failure on the part of any person to follow any guidance contained in a code issued under this section shall not of itself render that person liable to proceedings of any kind. *(Extent: S)* *(affected by repeal, see note)*[^c-b1ea535d26bce06ee00698c8322ef9a4]
 >
-> (7 (Extent: S) (affected by repeal, see note))[^key-b1ea535d26bce06ee00698c8322ef9a4] If, in proceedings against any person for an offence consisting of the contravention of any provision of this Act or of regulations under it, it is shown that, at any material time, he failed to follow any guidance contained in a code issued under this section, being guidance which was relevant to the provision concerned, that failure may be relied on by the prosecution as tending to establish his guilt. *(Extent: S)* *(affected by repeal, see note)*[^key-b1ea535d26bce06ee00698c8322ef9a4]
+> (7 (Extent: S) (affected by repeal, see note))[^c-b1ea535d26bce06ee00698c8322ef9a4] If, in proceedings against any person for an offence consisting of the contravention of any provision of this Act or of regulations under it, it is shown that, at any material time, he failed to follow any guidance contained in a code issued under this section, being guidance which was relevant to the provision concerned, that failure may be relied on by the prosecution as tending to establish his guilt. *(Extent: S)* *(affected by repeal, see note)*[^c-b1ea535d26bce06ee00698c8322ef9a4]
 
 ### 8. Powers of entry under 1967 Act.
 
-For section 4 of that Act (power to enter premises where slaughter for purposes of preparation for sale for human consumption takes place) there is substituted— *(Extent: S)* *(affected by repeal, see note)*[^key-0c2eebb8819baf78d584f74a7d127cbb]
+For section 4 of that Act (power to enter premises where slaughter for purposes of preparation for sale for human consumption takes place) there is substituted— *(Extent: S)* *(affected by repeal, see note)*[^c-0c2eebb8819baf78d584f74a7d127cbb]
 
-> **4 (Extent: S) (affected by repeal, see note). Power of entry. (Extent: S) (affected by repeal, see note)[^key-0c2eebb8819baf78d584f74a7d127cbb][^key-0c2eebb8819baf78d584f74a7d127cbb]**
+> **4 (Extent: S) (affected by repeal, see note). Power of entry. (Extent: S) (affected by repeal, see note)[^c-0c2eebb8819baf78d584f74a7d127cbb][^c-0c2eebb8819baf78d584f74a7d127cbb]**
 >
-> (1 (Extent: S) (affected by repeal, see note))[^key-0c2eebb8819baf78d584f74a7d127cbb] Where the power conferred by this subsection is exercisable in relation to any premises to which regulations under section 3 of this Act apply, a person authorised in that behalf by the Minister of Agriculture, Fisheries and Food or the Secretary of State or by the local authority within whose area the premises are situated may enter the premises for the purpose of ascertaining whether there is, or has been, on those premises any contravention of any provision of this Act or of any regulation made or code of practice issued under it. *(Extent: S)* *(affected by repeal, see note)*[^key-0c2eebb8819baf78d584f74a7d127cbb]
+> (1 (Extent: S) (affected by repeal, see note))[^c-0c2eebb8819baf78d584f74a7d127cbb] Where the power conferred by this subsection is exercisable in relation to any premises to which regulations under section 3 of this Act apply, a person authorised in that behalf by the Minister of Agriculture, Fisheries and Food or the Secretary of State or by the local authority within whose area the premises are situated may enter the premises for the purpose of ascertaining whether there is, or has been, on those premises any contravention of any provision of this Act or of any regulation made or code of practice issued under it. *(Extent: S)* *(affected by repeal, see note)*[^c-0c2eebb8819baf78d584f74a7d127cbb]
 >
-> (2 (Extent: S) (affected by repeal, see note))[^key-0c2eebb8819baf78d584f74a7d127cbb] Where it is, or appears to the person so authorised to be, the case that the slaughter of birds to which this Act applies is in progress on the premises, the power conferred by subsection (1) of this section is exercisable at any time. *(Extent: S)* *(affected by repeal, see note)*[^key-0c2eebb8819baf78d584f74a7d127cbb]
+> (2 (Extent: S) (affected by repeal, see note))[^c-0c2eebb8819baf78d584f74a7d127cbb] Where it is, or appears to the person so authorised to be, the case that the slaughter of birds to which this Act applies is in progress on the premises, the power conferred by subsection (1) of this section is exercisable at any time. *(Extent: S)* *(affected by repeal, see note)*[^c-0c2eebb8819baf78d584f74a7d127cbb]
 >
-> (3 (Extent: S) (affected by repeal, see note))[^key-0c2eebb8819baf78d584f74a7d127cbb] Where it is, or appears to the person so authorised to be, the case that— *(Extent: S)* *(affected by repeal, see note)*[^key-0c2eebb8819baf78d584f74a7d127cbb]
+> (3 (Extent: S) (affected by repeal, see note))[^c-0c2eebb8819baf78d584f74a7d127cbb] Where it is, or appears to the person so authorised to be, the case that— *(Extent: S)* *(affected by repeal, see note)*[^c-0c2eebb8819baf78d584f74a7d127cbb]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-0c2eebb8819baf78d584f74a7d127cbb] the slaughter of such birds has within 48 hours been in progress on the premises, or *(Extent: S)* *(affected by repeal, see note)*[^key-0c2eebb8819baf78d584f74a7d127cbb]
-> - (b (Extent: S) (affected by repeal, see note))[^key-0c2eebb8819baf78d584f74a7d127cbb] such birds are on the premises for the purpose of their being slaughtered, *(Extent: S)* *(affected by repeal, see note)*[^key-0c2eebb8819baf78d584f74a7d127cbb]
+> - (a (Extent: S) (affected by repeal, see note))[^c-0c2eebb8819baf78d584f74a7d127cbb] the slaughter of such birds has within 48 hours been in progress on the premises, or *(Extent: S)* *(affected by repeal, see note)*[^c-0c2eebb8819baf78d584f74a7d127cbb]
+> - (b (Extent: S) (affected by repeal, see note))[^c-0c2eebb8819baf78d584f74a7d127cbb] such birds are on the premises for the purpose of their being slaughtered, *(Extent: S)* *(affected by repeal, see note)*[^c-0c2eebb8819baf78d584f74a7d127cbb]
 >
-> the power conferred by subsection (1) of this section is exercisable at all reasonable hours. *(Extent: S)* *(affected by repeal, see note)*[^key-0c2eebb8819baf78d584f74a7d127cbb]
+> the power conferred by subsection (1) of this section is exercisable at all reasonable hours. *(Extent: S)* *(affected by repeal, see note)*[^c-0c2eebb8819baf78d584f74a7d127cbb]
 >
-> (4 (Extent: S) (affected by repeal, see note))[^key-0c2eebb8819baf78d584f74a7d127cbb] A person who intentionally obstructs a person in the exercise of his powers under subsection (1) of this section shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale. *(Extent: S)* *(affected by repeal, see note)*[^key-0c2eebb8819baf78d584f74a7d127cbb]
+> (4 (Extent: S) (affected by repeal, see note))[^c-0c2eebb8819baf78d584f74a7d127cbb] A person who intentionally obstructs a person in the exercise of his powers under subsection (1) of this section shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale. *(Extent: S)* *(affected by repeal, see note)*[^c-0c2eebb8819baf78d584f74a7d127cbb]
 
 ### 9. Enforcement of 1967 Act.
 
-For section 6 of that Act (power to institute proceedings) there is substituted— *(Extent: S)* *(affected by repeal, see note)*[^key-96992f55438fa9c9f506e850024e82a9]
+For section 6 of that Act (power to institute proceedings) there is substituted— *(Extent: S)* *(affected by repeal, see note)*[^c-96992f55438fa9c9f506e850024e82a9]
 
-> **6 (Extent: S) (affected by repeal, see note). Execution and enforcement. (Extent: S) (affected by repeal, see note)[^key-96992f55438fa9c9f506e850024e82a9][^key-96992f55438fa9c9f506e850024e82a9]**
+> **6 (Extent: S) (affected by repeal, see note). Execution and enforcement. (Extent: S) (affected by repeal, see note)[^c-96992f55438fa9c9f506e850024e82a9][^c-96992f55438fa9c9f506e850024e82a9]**
 >
-> (1 (Extent: S) (affected by repeal, see note))[^key-96992f55438fa9c9f506e850024e82a9] Every local authority shall execute and enforce in their area the provisions of this Act and of regulations under section 3 of this Act. *(Extent: S)* *(affected by repeal, see note)*[^key-96992f55438fa9c9f506e850024e82a9]
+> (1 (Extent: S) (affected by repeal, see note))[^c-96992f55438fa9c9f506e850024e82a9] Every local authority shall execute and enforce in their area the provisions of this Act and of regulations under section 3 of this Act. *(Extent: S)* *(affected by repeal, see note)*[^c-96992f55438fa9c9f506e850024e82a9]
 >
-> (2 (Extent: S) (affected by repeal, see note))[^key-96992f55438fa9c9f506e850024e82a9] In particular, every local authority shall, for the purpose of securing the execution of those provisions, make arrangements for the supervision by persons having such qualifications as may be specified in the regulations of any premises in their area to which the regulations apply. *(Extent: S)* *(affected by repeal, see note)*[^key-96992f55438fa9c9f506e850024e82a9]
+> (2 (Extent: S) (affected by repeal, see note))[^c-96992f55438fa9c9f506e850024e82a9] In particular, every local authority shall, for the purpose of securing the execution of those provisions, make arrangements for the supervision by persons having such qualifications as may be specified in the regulations of any premises in their area to which the regulations apply. *(Extent: S)* *(affected by repeal, see note)*[^c-96992f55438fa9c9f506e850024e82a9]
 >
-> (3 (Extent: S) (affected by repeal, see note))[^key-96992f55438fa9c9f506e850024e82a9] Arrangements under subsection (2) of this section shall comply with such directions as the Ministers may give from time to time. *(Extent: S)* *(affected by repeal, see note)*[^key-96992f55438fa9c9f506e850024e82a9]
+> (3 (Extent: S) (affected by repeal, see note))[^c-96992f55438fa9c9f506e850024e82a9] Arrangements under subsection (2) of this section shall comply with such directions as the Ministers may give from time to time. *(Extent: S)* *(affected by repeal, see note)*[^c-96992f55438fa9c9f506e850024e82a9]
 >
-> (4 (Extent: S) (affected by repeal, see note))[^key-96992f55438fa9c9f506e850024e82a9] This section does not authorise a local authority in Scotland to institute proceedings for any offence. *(Extent: S)* *(affected by repeal, see note)*[^key-96992f55438fa9c9f506e850024e82a9]
+> (4 (Extent: S) (affected by repeal, see note))[^c-96992f55438fa9c9f506e850024e82a9] This section does not authorise a local authority in Scotland to institute proceedings for any offence. *(Extent: S)* *(affected by repeal, see note)*[^c-96992f55438fa9c9f506e850024e82a9]
 
 ## Controls over Breeding of Livestock
 
@@ -251,7 +251,7 @@ and references in section 10 of this Act to regulations under that section or li
 
 (4) The power conferred by section 10 of this Act to make regulations shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 12. Removal of controls on keeping of bulls and stallions.[^key-b71fe30e01b73060792db9c8a1b11ba1]
+### 12. Removal of controls on keeping of bulls and stallions.[^c-b71fe30e01b73060792db9c8a1b11ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -374,9 +374,9 @@ In section 57 of the Medicines Act 1968 (power to extend or modify exemptions un
 
 (1) This Act may be cited as the Animal Health and Welfare Act 1984.
 
-(2)[^key-e8fbee1a6956f43ee6d3b24f1022ceee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e8fbee1a6956f43ee6d3b24f1022ceee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-fbbc430db9d0a505e1647cda9dd71349][^c946186] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-fbbc430db9d0a505e1647cda9dd71349][^c946186] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c946188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -491,17 +491,17 @@ Section 16.
 
 [^c946167]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
 
-[^key-918f9436f414c6f64c37f22124386114]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1984/40/section/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
+[^c-918f9436f414c6f64c37f22124386114]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1984/40/section/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
 
 [^c946169]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1984/40/section/5) repealed (1.4.1995) by [S.I. 1995/731](https://www.legislation.gov.uk/uksi/1995/731), [reg. 28(1)](https://www.legislation.gov.uk/uksi/1995/731/regulation/28/1), [Sch. 13](https://www.legislation.gov.uk/uksi/1995/731/schedule/13).
 
-[^key-1825fc26ea2c6dd74b3b839b5d1b0664]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1984/40/section/6) repealed (S.) (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
+[^c-1825fc26ea2c6dd74b3b839b5d1b0664]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1984/40/section/6) repealed (S.) (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
 
-[^key-b1ea535d26bce06ee00698c8322ef9a4]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1984/40/section/7) repealed (S.) (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
+[^c-b1ea535d26bce06ee00698c8322ef9a4]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1984/40/section/7) repealed (S.) (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
 
-[^key-0c2eebb8819baf78d584f74a7d127cbb]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1984/40/section/8) repealed (S.) (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
+[^c-0c2eebb8819baf78d584f74a7d127cbb]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1984/40/section/8) repealed (S.) (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
 
-[^key-96992f55438fa9c9f506e850024e82a9]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1984/40/section/9) repealed (S.) (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
+[^c-96992f55438fa9c9f506e850024e82a9]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1984/40/section/9) repealed (S.) (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
 
 [^c946171]: Textual amendment: Words in [s. 10(6)](https://www.legislation.gov.uk/ukpga/1984/40/section/10/6) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. XIV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XIV) Group2.
 
@@ -511,7 +511,7 @@ Section 16.
 
 [^c946174]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-b71fe30e01b73060792db9c8a1b11ba1]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1984/40/section/12) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
+[^c-b71fe30e01b73060792db9c8a1b11ba1]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1984/40/section/12) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
 
 [^c946177]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
@@ -523,9 +523,9 @@ Section 16.
 
 [^c946181]: Marginal citation: [S.I. 1978/201](https://www.legislation.gov.uk/uksi/1978/201).
 
-[^key-e8fbee1a6956f43ee6d3b24f1022ceee]: Textual amendment: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1984/40/section/17/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
+[^c-e8fbee1a6956f43ee6d3b24f1022ceee]: Textual amendment: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1984/40/section/17/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
 
-[^key-fbbc430db9d0a505e1647cda9dd71349]: Textual amendment: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1984/40/section/17/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
+[^c-fbbc430db9d0a505e1647cda9dd71349]: Textual amendment: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1984/40/section/17/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
 
 [^c946186]: Modification: Power of appointment conferred by s. 17(3) fully exercised: 16. 8. 1985 appointed by [S.I. 1985/1267](https://www.legislation.gov.uk/uksi/1985/1267), [art. 2](https://www.legislation.gov.uk/uksi/1985/1267/article/2)
 

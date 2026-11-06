@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Entitlement to full retirement pension (active members)[^key-23fc2d81fb4169855e5865718fd0d180]
+## 80. Entitlement to full retirement pension (active members)[^c-23fc2d81fb4169855e5865718fd0d180]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23fc2d81fb4169855e5865718fd0d180]: Commencement: Reg. 80 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-23fc2d81fb4169855e5865718fd0d180]: Commencement: Reg. 80 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

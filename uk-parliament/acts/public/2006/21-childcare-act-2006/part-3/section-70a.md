@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70A. Voluntary removal from a childcare register: childminder agencies[^key-ba9a0c0c3532a78838c251146e39ba45]
+## 70A. Voluntary removal from a childcare register: childminder agencies[^c-ba9a0c0c3532a78838c251146e39ba45]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba9a0c0c3532a78838c251146e39ba45]: Textual amendment: [S. 70A](https://www.legislation.gov.uk/ukpga/2006/21/section/70A) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/38); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-ba9a0c0c3532a78838c251146e39ba45]: Textual amendment: [S. 70A](https://www.legislation.gov.uk/ukpga/2006/21/section/70A) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/38); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)

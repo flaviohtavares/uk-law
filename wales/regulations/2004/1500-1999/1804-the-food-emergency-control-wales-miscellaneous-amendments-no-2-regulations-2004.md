@@ -30,7 +30,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food (Emergency Control) (Wales) (Miscellaneous Amendments) (No. 2) Regulations 2004 (revoked)[^key-9bc19998a7313275b8b70147f1610da7]
+The Food (Emergency Control) (Wales) (Miscellaneous Amendments) (No. 2) Regulations 2004 (revoked)[^c-9bc19998a7313275b8b70147f1610da7]
 
 Made
 
@@ -40,40 +40,40 @@ Coming into force
 
 31 July 2004
 
-[^key-9bc19998a7313275b8b70147f1610da7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bc19998a7313275b8b70147f1610da7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-9bc19998a7313275b8b70147f1610da7]
+## 1. Title and commencement[^c-9bc19998a7313275b8b70147f1610da7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Food (Peanuts from China) (Emergency Control) (Wales) (No. 2) Regulations 2002[^key-9bc19998a7313275b8b70147f1610da7]
+## 2. Amendment to the Food (Peanuts from China) (Emergency Control) (Wales) (No. 2) Regulations 2002[^c-9bc19998a7313275b8b70147f1610da7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Wales) (No. 2) Regulations 2002[^key-9bc19998a7313275b8b70147f1610da7]
+## 3. Amendment to the Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Wales) (No. 2) Regulations 2002[^c-9bc19998a7313275b8b70147f1610da7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to the Food (Brazil Nuts) (Emergency Control) (Wales) Regulations 2003[^key-9bc19998a7313275b8b70147f1610da7]
+## 4. Amendment to the Food (Brazil Nuts) (Emergency Control) (Wales) Regulations 2003[^c-9bc19998a7313275b8b70147f1610da7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to the Food (Pistachios from Iran) (Emergency Control) (Wales) (No. 2) Regulations 2003[^key-9bc19998a7313275b8b70147f1610da7]
+## 5. Amendment to the Food (Pistachios from Iran) (Emergency Control) (Wales) (No. 2) Regulations 2003[^c-9bc19998a7313275b8b70147f1610da7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment to the Food (Peanuts from Egypt) (Emergency Control) (Wales) Regulations 2003[^key-9bc19998a7313275b8b70147f1610da7]
+## 6. Amendment to the Food (Peanuts from Egypt) (Emergency Control) (Wales) Regulations 2003[^c-9bc19998a7313275b8b70147f1610da7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9bc19998a7313275b8b70147f1610da7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bc19998a7313275b8b70147f1610da7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9bc19998a7313275b8b70147f1610da7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bc19998a7313275b8b70147f1610da7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9bc19998a7313275b8b70147f1610da7]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-9bc19998a7313275b8b70147f1610da7]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

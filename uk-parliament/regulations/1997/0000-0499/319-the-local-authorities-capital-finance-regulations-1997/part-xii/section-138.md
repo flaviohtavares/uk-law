@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138. Commutation adjustments to minimum revenue provision[^key-4282ef928ed454ad73abeb33790add39]
+## 138. Commutation adjustments to minimum revenue provision[^c-4282ef928ed454ad73abeb33790add39]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ where—
 
 ## Annotations
 
-[^key-4282ef928ed454ad73abeb33790add39]: Commencement: Reg. 138 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-4282ef928ed454ad73abeb33790add39]: Commencement: Reg. 138 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

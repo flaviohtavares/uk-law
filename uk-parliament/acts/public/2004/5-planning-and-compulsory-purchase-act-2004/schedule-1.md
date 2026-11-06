@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — Local development orders: procedure[^key-d730a5926ec14169b5c3e777e2f242eb][^key-b592e6e3fab40ba15e5c5c43a2fd1949][^key-32c5ace5491099d1fcc98ef4b799f89c]
+## SCHEDULE 1 — Local development orders: procedure[^c-d730a5926ec14169b5c3e777e2f242eb][^c-b592e6e3fab40ba15e5c5c43a2fd1949][^c-32c5ace5491099d1fcc98ef4b799f89c]
 
 *Extent: E+W*
 
 Section 40
 
-[^key-32c5ace5491099d1fcc98ef4b799f89c]
+[^c-32c5ace5491099d1fcc98ef4b799f89c]
 
 In the principal Act after Schedule 4 (special provision as to land use in 1948) there is inserted the following Schedule—
 
@@ -79,8 +79,8 @@ In the principal Act after Schedule 4 (special provision as to land use in 1948)
 
 ## Annotations
 
-[^key-d730a5926ec14169b5c3e777e2f242eb]: Commencement: Sch. 1 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-d730a5926ec14169b5c3e777e2f242eb]: Commencement: Sch. 1 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-b592e6e3fab40ba15e5c5c43a2fd1949]: Commencement: Sch. 1 in force at 10.5.2006 for E. so far as not already in force by [S.I. 2006/1061](https://www.legislation.gov.uk/uksi/2006/1061), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1061/article/2/c)
+[^c-b592e6e3fab40ba15e5c5c43a2fd1949]: Commencement: Sch. 1 in force at 10.5.2006 for E. so far as not already in force by [S.I. 2006/1061](https://www.legislation.gov.uk/uksi/2006/1061), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1061/article/2/c)
 
-[^key-32c5ace5491099d1fcc98ef4b799f89c]: Commencement: Sch. 1 in force at 30.4.2012 for W. so far as not already in force by [S.I. 2012/1100](https://www.legislation.gov.uk/uksi/2012/1100), [art. 2](https://www.legislation.gov.uk/uksi/2012/1100/article/2)
+[^c-32c5ace5491099d1fcc98ef4b799f89c]: Commencement: Sch. 1 in force at 30.4.2012 for W. so far as not already in force by [S.I. 2012/1100](https://www.legislation.gov.uk/uksi/2012/1100), [art. 2](https://www.legislation.gov.uk/uksi/2012/1100/article/2)

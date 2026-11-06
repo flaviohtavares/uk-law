@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Provision for securing welfare[^key-14aa1a6ab1857bca2d06a019cc2f0184]
+## 26. Provision for securing welfare[^c-14aa1a6ab1857bca2d06a019cc2f0184]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ as they consider appropriate.
 
 ## Annotations
 
-[^key-14aa1a6ab1857bca2d06a019cc2f0184]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2006/11/section/26) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-14aa1a6ab1857bca2d06a019cc2f0184]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2006/11/section/26) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

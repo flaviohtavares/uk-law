@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Voluntary redundancy[^key-205c99402698befb9e94b25f86d37910]
+## 71. Voluntary redundancy[^c-205c99402698befb9e94b25f86d37910]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-205c99402698befb9e94b25f86d37910]: Commencement: Reg. 71 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-205c99402698befb9e94b25f86d37910]: Commencement: Reg. 71 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00059]: Footnote: [1965 c. 19 (N.I.)](https://www.legislation.gov.uk/apni/1965/19)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Voluntary withdrawal of approval[^key-e54a8c6eb1d21afd23df93c75a32de20]
+## 50. Voluntary withdrawal of approval[^c-e54a8c6eb1d21afd23df93c75a32de20]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e54a8c6eb1d21afd23df93c75a32de20]: Commencement: Reg. 50 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-e54a8c6eb1d21afd23df93c75a32de20]: Commencement: Reg. 50 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

@@ -41,153 +41,153 @@ relating to a proceeding under Article 81(1) of the EC Treaty
 
 (2007/236/EC) (revoked)
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd575c7095a6a8752b25fa347321e2e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 On 20 October 2004, the Commission adopted a Decision relating to a proceeding under Article 81 of the EC Treaty. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003, the Commission herewith publishes the names of the parties and the main content of the Decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets. A non-confidential version of the full text of the decision can be found in the authentic languages of the case and in the Commission's working languages at DG COMP website at http://europa.eu.int/comm/competition/index\_en.html
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]SUMMARY OF THE DECISION
+[^c-cd575c7095a6a8752b25fa347321e2e8]SUMMARY OF THE DECISION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]1.
+[^c-cd575c7095a6a8752b25fa347321e2e8]1.
 
 INTRODUCTION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]2.
+[^c-cd575c7095a6a8752b25fa347321e2e8]2.
 
 ORIGIN OF THE CASE AND PROCEDURE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]3.
+[^c-cd575c7095a6a8752b25fa347321e2e8]3.
 
 PARTIES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]3.1.
+[^c-cd575c7095a6a8752b25fa347321e2e8]3.1.
 
 Processors’ side
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]3.2.
+[^c-cd575c7095a6a8752b25fa347321e2e8]3.2.
 
 Producers’ side
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]4.
+[^c-cd575c7095a6a8752b25fa347321e2e8]4.
 
 THE SECTOR CONCERNED: SPANISH RAW TOBACCO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]5.
+[^c-cd575c7095a6a8752b25fa347321e2e8]5.
 
 THE REGULATORY FRAMEWORK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]5.1.
+[^c-cd575c7095a6a8752b25fa347321e2e8]5.1.
 
 The CMO for raw tobacco
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]5.2.
+[^c-cd575c7095a6a8752b25fa347321e2e8]5.2.
 
 National legislation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]6.
+[^c-cd575c7095a6a8752b25fa347321e2e8]6.
 
 PRACTICES ADDRESSED IN THE DECISION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]6.1.
+[^c-cd575c7095a6a8752b25fa347321e2e8]6.1.
 
 The processors’ cartel
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]6.2.
+[^c-cd575c7095a6a8752b25fa347321e2e8]6.2.
 
 The producers’ cartel
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]7.
+[^c-cd575c7095a6a8752b25fa347321e2e8]7.
 
 LEGAL ASSESSMENT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]8.
+[^c-cd575c7095a6a8752b25fa347321e2e8]8.
 
 LIABILITY OF DELTAFINA AND THE MOTHER COMPANIES OF WWTE AND AGROEXPANSIÓN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]9.
+[^c-cd575c7095a6a8752b25fa347321e2e8]9.
 
 FINES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]9.1.
+[^c-cd575c7095a6a8752b25fa347321e2e8]9.1.
 
 Gravity of the infringement
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]9.2.
+[^c-cd575c7095a6a8752b25fa347321e2e8]9.2.
 
 Individual weight and deterrence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8](i)
+[^c-cd575c7095a6a8752b25fa347321e2e8](i)
 
 As far as the processors’ cartel (to include Deltafina) is concerned, the Commission considers that fines should be scaled down in consideration of the contribution to the illegal conduct of and the market position enjoyed by each party involved.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8](ii)
+[^c-cd575c7095a6a8752b25fa347321e2e8](ii)
 
 Concerning the producer representatives’ behaviour, the Decision concludes that only a symbolic fine is appropriate for the following reasons.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]9.3.
+[^c-cd575c7095a6a8752b25fa347321e2e8]9.3.
 
 Duration of the infringement
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]9.4.
+[^c-cd575c7095a6a8752b25fa347321e2e8]9.4.
 
 Aggravating circumstances
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]9.5.
+[^c-cd575c7095a6a8752b25fa347321e2e8]9.5.
 
 Attenuating circumstances
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]9.6.
+[^c-cd575c7095a6a8752b25fa347321e2e8]9.6.
 
 Upper limit to the fine
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]9.7.
+[^c-cd575c7095a6a8752b25fa347321e2e8]9.7.
 
 Application of the 1996 Leniency Notice
 
@@ -195,4 +195,4 @@ Application of the 1996 Leniency Notice
 
 ## Annotations
 
-[^key-cd575c7095a6a8752b25fa347321e2e8]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cd575c7095a6a8752b25fa347321e2e8]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

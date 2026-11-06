@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 11 — REMOVAL OF IMPORTANT HEDGEROWS[^key-fe8e2634fadacb7cfd833a9a65eb5e91]
+## SCHEDULE 11 — REMOVAL OF IMPORTANT HEDGEROWS[^c-fe8e2634fadacb7cfd833a9a65eb5e91]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ Article 32
 
 ## Annotations
 
-[^key-fe8e2634fadacb7cfd833a9a65eb5e91]: Commencement: Sch. 11 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-fe8e2634fadacb7cfd833a9a65eb5e91]: Commencement: Sch. 11 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)

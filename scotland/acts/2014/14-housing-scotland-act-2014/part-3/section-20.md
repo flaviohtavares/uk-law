@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Houses in multiple occupation[^key-ee7dca05dae9e56da012ed268cf35745]
+## 20. Houses in multiple occupation[^c-ee7dca05dae9e56da012ed268cf35745]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee7dca05dae9e56da012ed268cf35745]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2014/14/section/20) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-ee7dca05dae9e56da012ed268cf35745]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2014/14/section/20) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

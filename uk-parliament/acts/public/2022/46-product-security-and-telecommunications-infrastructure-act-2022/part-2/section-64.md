@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Compensation relating to code rights: Northern Ireland[^key-a46777d1532a97c0c66811c83ca2c0a2][^key-868bf201eb47f16eb8aff225600b5f00]
+## 64. Compensation relating to code rights: Northern Ireland[^c-a46777d1532a97c0c66811c83ca2c0a2][^c-868bf201eb47f16eb8aff225600b5f00]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,6 +86,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a46777d1532a97c0c66811c83ca2c0a2]: Commencement: S. 64 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-a46777d1532a97c0c66811c83ca2c0a2]: Commencement: S. 64 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-868bf201eb47f16eb8aff225600b5f00]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2022/46/section/64) in force at 7.4.2026 by [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/d) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2025/1326/regulation/6))
+[^c-868bf201eb47f16eb8aff225600b5f00]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2022/46/section/64) in force at 7.4.2026 by [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/d) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2025/1326/regulation/6))

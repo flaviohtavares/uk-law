@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237B. Relevant provisions of this Chapter and corresponding purposes[^key-3973b9f3a2cac42531704f01b76ec1a5]
+## 237B. Relevant provisions of this Chapter and corresponding purposes[^c-3973b9f3a2cac42531704f01b76ec1a5]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ In the following table—
 
 ## Annotations
 
-[^key-3973b9f3a2cac42531704f01b76ec1a5]: Textual amendment: [Ss. 237A](https://www.legislation.gov.uk/ukpga/2003/44/section/237A), [237B](https://www.legislation.gov.uk/ukpga/2003/44/section/237B) inserted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/59/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/b)
+[^c-3973b9f3a2cac42531704f01b76ec1a5]: Textual amendment: [Ss. 237A](https://www.legislation.gov.uk/ukpga/2003/44/section/237A), [237B](https://www.legislation.gov.uk/ukpga/2003/44/section/237B) inserted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/59/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/b)

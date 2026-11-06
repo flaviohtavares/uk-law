@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Limited duration tenancies, modern limited duration tenancies and repairing tenancies: rent review[^key-eee3280ed1c3127d483af22ae08c5d44]
+## 102. Limited duration tenancies, modern limited duration tenancies and repairing tenancies: rent review[^c-eee3280ed1c3127d483af22ae08c5d44]
 
 *Extent: S*
 
@@ -114,4 +114,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eee3280ed1c3127d483af22ae08c5d44]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2016/18/section/102) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-eee3280ed1c3127d483af22ae08c5d44]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2016/18/section/102) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))

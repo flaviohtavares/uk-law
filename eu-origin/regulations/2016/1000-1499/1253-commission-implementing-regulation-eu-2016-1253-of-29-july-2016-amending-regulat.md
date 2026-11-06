@@ -188,7 +188,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 Article 1(3) and Article 1(4) shall apply to reference periods from January 2017.
 
-[^key-efb9d59f5bc23c18f444743678a30155]...
+[^c-efb9d59f5bc23c18f444743678a30155]...
 
 Done at Brussels, 29 July 2016.
 
@@ -224,4 +224,4 @@ Jean-Claude Juncker
 
 [^f00012]: Footnote: Regulation (EC) No 223/2009 of the European Parliament and of the Council of 11 March 2009 on European statistics and repealing Regulation (EC, Euratom) No 1101/2008 of the European Parliament and of the Council on the transmission of data subject to statistical confidentiality to the Statistical Office of the European Communities, Council Regulation (EC) No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of the European Communities ([OJ L 87, 31.3.2009, p. 164](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.087.01.0164.01.ENG)).’.
 
-[^key-efb9d59f5bc23c18f444743678a30155]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/1253/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [14(g)](https://www.legislation.gov.uk/uksi/2019/47/regulation/14/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-efb9d59f5bc23c18f444743678a30155]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/1253/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [14(g)](https://www.legislation.gov.uk/uksi/2019/47/regulation/14/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

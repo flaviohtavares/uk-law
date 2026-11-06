@@ -43,12 +43,12 @@ summary: ''
 
 (5) Where more than one descriptor specified for an activity applies to a claimant, only the descriptor with the highest score in respect of each activity which applies is to be counted.
 
-(6) Subject to paragraph (7),[^key-d4c1db919745f6b73b7e1151d7eb239b] a claimant is to be treated as having limited capability for work if any of the circumstances set out in Schedule 8 applies.
+(6) Subject to paragraph (7),[^c-d4c1db919745f6b73b7e1151d7eb239b] a claimant is to be treated as having limited capability for work if any of the circumstances set out in Schedule 8 applies.
 
-(7)[^key-86bebbeb4ea074eb00a9e6a89307317f] Where the circumstances set out in paragraph 4 or 5 of Schedule 8 apply, a claimant may only be treated as having limited capability for work if the claimant does not have limited capability for work as determined in accordance with an assessment under this Part.
+(7)[^c-86bebbeb4ea074eb00a9e6a89307317f] Where the circumstances set out in paragraph 4 or 5 of Schedule 8 apply, a claimant may only be treated as having limited capability for work if the claimant does not have limited capability for work as determined in accordance with an assessment under this Part.
 
 ## Annotations
 
-[^key-d4c1db919745f6b73b7e1151d7eb239b]: Textual amendment: Words in [reg. 39(6)](https://www.legislation.gov.uk/uksi/2013/376/regulation/39/6) inserted (28.4.2014) by [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2014/597/regulation/2/4/a)
+[^c-d4c1db919745f6b73b7e1151d7eb239b]: Textual amendment: Words in [reg. 39(6)](https://www.legislation.gov.uk/uksi/2013/376/regulation/39/6) inserted (28.4.2014) by [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2014/597/regulation/2/4/a)
 
-[^key-86bebbeb4ea074eb00a9e6a89307317f]: Textual amendment: [Reg. 39(7)](https://www.legislation.gov.uk/uksi/2013/376/regulation/39/7) inserted (28.4.2014) by [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/597/regulation/2/4/b)
+[^c-86bebbeb4ea074eb00a9e6a89307317f]: Textual amendment: [Reg. 39(7)](https://www.legislation.gov.uk/uksi/2013/376/regulation/39/7) inserted (28.4.2014) by [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/597/regulation/2/4/b)

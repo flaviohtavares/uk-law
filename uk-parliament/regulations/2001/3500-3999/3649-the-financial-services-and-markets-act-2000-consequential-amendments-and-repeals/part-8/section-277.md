@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 277. Interpretation[^key-6bd1ac0a92ca4f5de6de87216383be3e]
+## 277. Interpretation[^c-6bd1ac0a92ca4f5de6de87216383be3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6bd1ac0a92ca4f5de6de87216383be3e]: Commencement: Art. 277 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-6bd1ac0a92ca4f5de6de87216383be3e]: Commencement: Art. 277 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00198]: Footnote: The definition of “unit trust scheme” was amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60) Schedule 16, paragraph 7.

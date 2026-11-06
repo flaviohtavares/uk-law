@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Annual report about information provided under mandatory reporting requirements[^key-241fec09ad63ee0e7f9605c77748e371][^key-42e55f6b6096d59f1c2997922371754d]
+## 19. Annual report about information provided under mandatory reporting requirements[^c-241fec09ad63ee0e7f9605c77748e371][^c-42e55f6b6096d59f1c2997922371754d]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-241fec09ad63ee0e7f9605c77748e371]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-241fec09ad63ee0e7f9605c77748e371]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-42e55f6b6096d59f1c2997922371754d]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/30/section/19) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/c)
+[^c-42e55f6b6096d59f1c2997922371754d]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/30/section/19) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/c)

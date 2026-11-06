@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment[^f00001], being the Department concerned[^f00002], in exercise of the powers conferred on it by Articles 2(5), 17(1), (2), (3), (4), (5) and (6)[^f00003] and 55(2) of, and paragraphs 1(1) to (4), 2(1), 5(1), 7, 8, 10, 12(1) and (3), 13, 14(1), 15 and 19 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00004] and of every other power enabling it in that behalf and for the purpose of giving effect without modifications to proposals submitted to it by the Health and Safety Executive for Northern Ireland under Article 13(1A)[^f00005] of that Order after the carrying out by the said Executive of consultations in accordance with Article 46(3)[^f00006] of that Order, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-c8fd23cf4f90c2602d6331cb9569fd8b]
+## 1. Citation and commencement[^c-c8fd23cf4f90c2602d6331cb9569fd8b]
 
 These Regulations may be cited as the Control of Substances Hazardous to Health Regulations (Northern Ireland) 2003 and shall come into operation on 28th February 2003.
 
-## 2. Interpretation[^key-49458eada39bfceacc7e2cd4beea77aa]
+## 2. Interpretation[^c-49458eada39bfceacc7e2cd4beea77aa]
 
 (1) In these Regulations–
 
@@ -53,36 +53,36 @@ These Regulations may be cited as the Control of Substances Hazardous to Health 
 - “appointed doctor” means a registered medical practitioner appointed for the time being in writing by the Executive for the purpose of these Regulations;
 - “approved” means approved for the time being in writing;
 - “approved classification” of a biological agent means the classification of that agent approved by the Executive;
-- [^key-08ce819adbedef81709f6b5065f0693c]...
+- [^c-08ce819adbedef81709f6b5065f0693c]...
 - “biological agent” means a micro-organism, cell culture, or human endoparasite, whether or not genetically modified, which may cause infection, allergy, toxicity or otherwise create a hazard to human health;
-- “carcinogen” means—[^key-e16c0cdd5084e1e5ffcecaa7285e991b]
+- “carcinogen” means—[^c-e16c0cdd5084e1e5ffcecaa7285e991b]
   - (a) a substance or mixture which meets the criteria for classification as a category 1A or 1B carcinogen set out on Annex I to the CLP Regulation whether or not the substance or mixture would be required to be classified under the Regulation; or
   - (b) a substance or mixture which is—
     - (i) referred to in Schedule 1; or
     - (ii) released by a process referred to in Schedule 1 and is a substance hazardous to health;
 - “cell culture” means the in-vitro growth of cells derived from multicellular organisms;
-- “the CLP Regulation” means Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No. 1907/2006, of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;[^key-d6856c8195b68fe735a565ae56deee17]
-- [^key-e8bc105a5cf634a402004888af338ad7]...
-- “The CLP Regulation” means Regulation (EC) No 1272/2008 of the European Parliament and of the Council on the classification, labelling and packaging of substances and mixtures amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006;[^key-64576e9c0ba51c2a597473da6306ffd3]
+- “the CLP Regulation” means Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No. 1907/2006, of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;[^c-d6856c8195b68fe735a565ae56deee17]
+- [^c-e8bc105a5cf634a402004888af338ad7]...
+- “The CLP Regulation” means Regulation (EC) No 1272/2008 of the European Parliament and of the Council on the classification, labelling and packaging of substances and mixtures amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006;[^c-64576e9c0ba51c2a597473da6306ffd3]
 - “control measure” means a measure taken to reduce exposure to a substance hazardous to health (including the provision of systems of work and supervision, the cleaning of workplaces, premises, plant and equipment, the provision and use of engineering controls and personal protective equipment);
 - “employment medical adviser” means an employment medical adviser appointed under Article 48(3) of the 1978 Order;
 - “fumigation” means an operation in which a substance is released into the atmosphere so as to form a gas to control or kill pests or other undesirable organisms;
 - “Group”, in relation to a biological agent, means one of the four hazard Groups specified in paragraph 2 of Schedule 3 to which that agent is assigned;
 - “hazard”, in relation to a substance, means the intrinsic property of that substance which has the potential to cause harm to the health of a person;
-- “hazard statement” has the meaning that it has in Article 2 of the CLP Regulation;[^key-59d2217e37c138eb11985aa12e6e20ce]
+- “hazard statement” has the meaning that it has in Article 2 of the CLP Regulation;[^c-59d2217e37c138eb11985aa12e6e20ce]
 - “health surveillance” means assessment of the state of health of an employee, as related to exposure to substances hazardous to health, and includes biological monitoring;
 - “health record” means any record kept under regulation 11(3) and in relation to any employee “personal health record” means any such record as relates to him;
 - “inhalable dust” means airborne material which is capable of entering the nose and mouth during breathing, as defined by BS EN 481 1993;
-- [^key-ca76c879b7fc5d3675dadc04f89048a3]...
+- [^c-ca76c879b7fc5d3675dadc04f89048a3]...
 - “medical examination” includes any laboratory tests and X-rays that a relevant doctor may require;
 - “micro-organism” means a microbiological entity, cellular or non-cellular, which is capable of replication or of transferring genetic material;
 - “monitoring record” means any record kept under regulation 10(5) and in relation to any employee “personal monitoring record” means any such record as relates to him;
 - “mine” has the meaning assigned to it by section 156 of the Mines Act (Northern Ireland) 1969[^f00008];
-- “mixture” means a mixture or solution composed of two or more substances;[^key-600ac43c960f99d24668c298d832c377]
-- “mutagen” means a substance or mixture which meets the criteria for classification as a category 1A or 1B germ cell mutation set out in Annex 1 to the CLP Regulation, whether or not the substance or mixture would be required to be classified under that Regulation;[^key-3127eb24e43661b948e09f691db7a1cd]
-- [^key-eaefcd40ab619e6ece85c7f0a42f8ddf]...
+- “mixture” means a mixture or solution composed of two or more substances;[^c-600ac43c960f99d24668c298d832c377]
+- “mutagen” means a substance or mixture which meets the criteria for classification as a category 1A or 1B germ cell mutation set out in Annex 1 to the CLP Regulation, whether or not the substance or mixture would be required to be classified under that Regulation;[^c-3127eb24e43661b948e09f691db7a1cd]
+- [^c-eaefcd40ab619e6ece85c7f0a42f8ddf]...
 - “personal protective equipment” means all equipment (including clothing) which is intended to be worn or held by a person at work and which protects that person against one or more risks to his health, and any addition or accessory designed to meet that objective;
-- [^key-ba6b43c4bf6b1ce5b6c2eda1332973ed]...
+- [^c-ba6b43c4bf6b1ce5b6c2eda1332973ed]...
 - “public road” includes any part of a public road and any bridge or tunnel over or through which passes a public road, as defined by Article 2 of the Road Traffic (Northern Ireland) Order 1995[^f00009];
 - “registered dentist” has the meaning assigned to it in section 53(1) of the Dentists Act 1984[^f00010];
 - “registered medical practitioner” means a fully registered person within the meaning of the Medical Act 1983[^f00011];
@@ -90,12 +90,12 @@ These Regulations may be cited as the Control of Substances Hazardous to Health 
 - “respirable dust” means airborne material which is capable of penetrating to the gas exchange region of the lung, as defined by BS EN 481 1993;
 - “risk”, in relation to the exposure of an employee to a substance hazardous to health, means the likelihood that the potential for harm to the health of a person will be attained under the conditions of use and exposure and also the extent of that harm;
 - “the risk assessment” means the assessment of risk required by regulation 6(1)(a);
-- [^key-1bd8b32a4200a5ff773ea4fa5f37b80a]...
-- “safety data sheet” means a safety data sheet within the meaning of Regulation (EC) 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals;[^key-9fc8ef431b4e4cc142ca3494a3a1ddba]
+- [^c-1bd8b32a4200a5ff773ea4fa5f37b80a]...
+- “safety data sheet” means a safety data sheet within the meaning of Regulation (EC) 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals;[^c-9fc8ef431b4e4cc142ca3494a3a1ddba]
 - “substance” means a natural or artificial substance whether in solid or liquid form or in the form of a gas or vapour (including micro-organisms);
-- “substance hazardous to health” means a substance (including a mixture[^key-1fc90faf33dc7e020ce588f038ad1b1b])–
-  - (a) which meets the criteria for classification as hazardous within any health hazard class laid down in the CLP Regulation whether or not the substance is classified under that Regulation;[^key-55537482c65813ff1aafdf80e24ec5c0]
-  - (b) for which the Executive has approved a workplace exposure limit[^key-f039fee57a5c73dac236194d6f2ca2bb];
+- “substance hazardous to health” means a substance (including a mixture[^c-1fc90faf33dc7e020ce588f038ad1b1b])–
+  - (a) which meets the criteria for classification as hazardous within any health hazard class laid down in the CLP Regulation whether or not the substance is classified under that Regulation;[^c-55537482c65813ff1aafdf80e24ec5c0]
+  - (b) for which the Executive has approved a workplace exposure limit[^c-f039fee57a5c73dac236194d6f2ca2bb];
   - (c) which is a biological agent;
   - (d) which is dust of any kind, except dust which is a substance within paragraph (a) or (b), when present at a concentration in air equal to or greater than–
     - (i) 10 mg/m<sup>3</sup>, as a time-weighted average over an 8-hour period, of inhalable dust; or
@@ -109,13 +109,13 @@ These Regulations may be cited as the Control of Substances Hazardous to Health 
     - (ii) where facilities are provided for use in connection with that place of work,
 
     other than a public road.
-- “workplace exposure limit” for a substance hazardous to health means the exposure limit approved by the Executive for that substance in relation to the specified reference period when calculated by a method approved by the Executive, as contained in the Great Britain Health and Safety Executive publication “EH/40 Workplace Exposure Limits 2005” as updated from time to time.[^key-c7859167027d3878117d6d7ce992e64e]
+- “workplace exposure limit” for a substance hazardous to health means the exposure limit approved by the Executive for that substance in relation to the specified reference period when calculated by a method approved by the Executive, as contained in the Great Britain Health and Safety Executive publication “EH/40 Workplace Exposure Limits 2005” as updated from time to time.[^c-c7859167027d3878117d6d7ce992e64e]
 
 (2) In these Regulations, a reference to an employee being exposed to a substance hazardous to health is a reference to the exposure of that employee to a substance hazardous to health arising out of or in connection with work at the workplace.
 
 (3) Where a biological agent has an approved classification, any reference in these Regulations to a particular Group in relation to that agent shall be taken as a reference to the Group to which that agent has been assigned in that approved classification.
 
-## 3. Duties under these Regulations[^key-4e9325e292e7ac61ba1877f7cc9d6445]
+## 3. Duties under these Regulations[^c-4e9325e292e7ac61ba1877f7cc9d6445]
 
 (1) Where a duty is placed by these Regulations on an employer in respect of his employees, he shall, so far as is reasonably practicable, be under a like duty in respect of any other person, whether at work or not, who may be affected by the work carried out by the employer except that the duties of the employer–
 
@@ -124,31 +124,31 @@ These Regulations may be cited as the Control of Substances Hazardous to Health 
 
 (2) These Regulations shall apply to a self-employed person as they apply to an employer and an employee and as if that self-employed person were both an employer and an employee, except that regulations 10 and 11 shall not apply to a self-employed person.
 
-(3)[^key-6bbd449365ec49bf9c2e347c4dc31bde] These Regulations shall not apply to the master or crew of a ship or to the employer of such persons in respect of the normal shipboard activities of a ship’s crew which –
+(3)[^c-6bbd449365ec49bf9c2e347c4dc31bde] These Regulations shall not apply to the master or crew of a ship or to the employer of such persons in respect of the normal shipboard activities of a ship’s crew which –
 
 - (a) are carried out solely by the crew under the direction of the master; and
 - (b) are not liable to expose persons other than the master and crew to a risk to their health and safety,
 
 and for the purposes of this paragraph “ship” includes every description of vessel used in navigation, other than a ship forming part of Her Majesty’s Navy.
 
-## 4. Prohibitions relating to certain substances[^key-9bf026f74f34be399bc0d920b6e25cd3]
+## 4. Prohibitions relating to certain substances[^c-9bf026f74f34be399bc0d920b6e25cd3]
 
 (1) Those substances described in Column 1 of Schedule 2 are prohibited to the extent set out in the corresponding entry in Column 2 of that Schedule.
 
 (2) A person shall not supply during the course of or for use at work any of the following substances or articles, namely–
 
-- (a)[^key-c97a3864acf729a535a95d7d6205c950] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c97a3864acf729a535a95d7d6205c950] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) matches made with white phosphorus.
 
-(3)[^key-7800ce088b9cdb915d8a4983e8ded996] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7800ce088b9cdb915d8a4983e8ded996] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of regulations 6 to 13[^key-e88599daca6e5a0b63df5c84d729f482]
+## 5. Application of regulations 6 to 13[^c-e88599daca6e5a0b63df5c84d729f482]
 
 (1) Regulations 6 to 13 shall have effect with a view to protecting persons against a risk to their health, whether immediate or delayed, arising from exposure to substances hazardous to health except–
 
 - (a) where and to the extent that the following Regulations apply, namely–
   - (i) the Control of Lead at Work Regulations (Northern Ireland) 2003[^f00012]; or
-  - (ii) the Control of Asbestos Regulations (Northern Ireland) 2012[^key-d8a47ce3f2fc26352e6441bd2a6016b2];
+  - (ii) the Control of Asbestos Regulations (Northern Ireland) 2012[^c-d8a47ce3f2fc26352e6441bd2a6016b2];
 - (b) where the substance is hazardous to health solely by virtue of its radioactive, explosive or flammable properties, or solely because it is at a high or low temperature or a high pressure;
 - (c) where the risk to health is a risk to the health of a person to whom the substance is administered in the course of his medical treatment.
 
@@ -156,11 +156,11 @@ and for the purposes of this paragraph “ship” includes every description of 
 
 - (a) registered medical practitioner;
 - (b) registered dentist; or
-- (c) other person who is an appropriate practitioner for the purposes of regulation 214 of the Human Medicines Regulations 2012[^key-908871dac8f8dfeaafa755a17c19ae3f],
+- (c) other person who is an appropriate practitioner for the purposes of regulation 214 of the Human Medicines Regulations 2012[^c-908871dac8f8dfeaafa755a17c19ae3f],
 
 and includes any such examination or treatment conducted for the purpose of research.
 
-## 6. Assessment of the risk to health created by work involving substances hazardous to health[^key-b59ac68a166f4aea31e8536c15481bae]
+## 6. Assessment of the risk to health created by work involving substances hazardous to health[^c-b59ac68a166f4aea31e8536c15481bae]
 
 (1) An employer shall not carry out work which is liable to expose any employees to any substance hazardous to health unless he has–
 
@@ -174,7 +174,7 @@ and includes any such examination or treatment conducted for the purpose of rese
 - (c) the level, type and duration of exposure;
 - (d) the circumstances of the work, including the amount of the substance involved;
 - (e) activities, such as maintenance, where there is the potential for a high level of exposure;
-- (f) any relevant workplace exposure limit[^key-5dbad87833547eaeecf967734d61c44c] or similar occupational exposure limit;
+- (f) any relevant workplace exposure limit[^c-5dbad87833547eaeecf967734d61c44c] or similar occupational exposure limit;
 - (g) the effect of preventive and control measures which have been or will be taken in accordance with regulation 7;
 - (h) the results of relevant health surveillance;
 - (i) the results of monitoring of exposure in accordance with regulation 10;
@@ -195,7 +195,7 @@ and where, as a result of the review, changes to the risk assessment are require
 - (a) the significant findings of the risk assessment as soon as is practicable after the risk assessment is made; and
 - (b) the steps which he has taken to meet the requirements of regulation 7.
 
-## 7. Prevention or control of exposure to substances hazardous to health[^key-e147d763546bef33bda5b542da4511ae]
+## 7. Prevention or control of exposure to substances hazardous to health[^c-e147d763546bef33bda5b542da4511ae]
 
 (1) Every employer shall ensure that the exposure of his employees to substances hazardous to health is either prevented or, where this is not reasonably practicable, adequately controlled.
 
@@ -218,10 +218,10 @@ and where, as a result of the review, changes to the risk assessment are require
 - (d) the control of the working environment, including appropriate general ventilation; and
 - (e) appropriate hygiene measures including adequate washing facilities.
 
-(5) Without prejudice to the generality of paragraph (1), where it is not reasonably practicable to prevent exposure to a carcinogen or mutagen[^key-76b6518cb0c7bb5e8a65f4a0d27cc230], the employer shall apply the following measures in addition to those required by paragraph (3)–
+(5) Without prejudice to the generality of paragraph (1), where it is not reasonably practicable to prevent exposure to a carcinogen or mutagen[^c-76b6518cb0c7bb5e8a65f4a0d27cc230], the employer shall apply the following measures in addition to those required by paragraph (3)–
 
 - (a) totally enclosing the process and handling systems, unless this is not reasonably practicable;
-- (b) the prohibition of eating, drinking and smoking in areas that may be contaminated by carcinogens or mutagens[^key-f9d13a0aa2cc06ebc7f31a5c7363d7b1];
+- (b) the prohibition of eating, drinking and smoking in areas that may be contaminated by carcinogens or mutagens[^c-f9d13a0aa2cc06ebc7f31a5c7363d7b1];
 - (c) cleaning floors, walls and other surfaces at regular intervals and whenever necessary;
 - (d) designating those areas and installations which may be contaminated by carcinogens or mutagens and using suitable and sufficient warning signs; and
 - (e) storing, handling and disposing of carcinogens or mutagens safely, including using closed and clearly labelled containers.
@@ -239,30 +239,30 @@ and where, as a result of the review, changes to the risk assessment are require
   - (ii) where appropriate, the prohibition of eating, drinking, smoking and the application of cosmetics in working areas where there is a risk of contamination by biological agents; and
 - (h) where there are human patients or animals which are, or are suspected of being, infected with a Group 3 or 4 biological agent, the employer shall select the most suitable control and containment measures from those listed in Part II of Schedule 3 with a view to controlling adequately the risk of infection.
 
-(7)[^key-d71082353bfd4d10f8c70e79e5b69456] Without prejudice to the generality of paragraph (1), where there is exposure to a substance hazardous to health, control of that exposure shall only be treated as adequate if –
+(7)[^c-d71082353bfd4d10f8c70e79e5b69456] Without prejudice to the generality of paragraph (1), where there is exposure to a substance hazardous to health, control of that exposure shall only be treated as adequate if –
 
 - (a) the principles of good practice for the control of exposure to substances hazardous to health set out in Schedule 2A are applied;
 - (b) any workplace exposure limit approved for that substance is not exceeded; and
 - (c) for a substance –
-  - (i) which carries the hazard statement H340, H350 or H350i[^key-20fdb5110b7cf6e400251950e8249dbd], or for a substance or process which is listed in Schedule 1, or
-  - (ii) which carries the hazard statement H334[^key-c78cd19b3b1dc81dc8c424e00d60e81f], or which is listed in section C of the Great Britain Health and Safety Executive publication “Asthmagen? Critical assessments of the evidence for agents implicated in occupational asthma” as updated from time to time, or any other substance which the risk assessment has shown to be a potential cause of occupational asthma,
+  - (i) which carries the hazard statement H340, H350 or H350i[^c-20fdb5110b7cf6e400251950e8249dbd], or for a substance or process which is listed in Schedule 1, or
+  - (ii) which carries the hazard statement H334[^c-c78cd19b3b1dc81dc8c424e00d60e81f], or which is listed in section C of the Great Britain Health and Safety Executive publication “Asthmagen? Critical assessments of the evidence for agents implicated in occupational asthma” as updated from time to time, or any other substance which the risk assessment has shown to be a potential cause of occupational asthma,
 
   exposure is reduced to as low a level as is reasonably practicable.
 
-(8)[^key-1b76190d758c08988f7ffc6ed2b84c23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-1b76190d758c08988f7ffc6ed2b84c23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Personal protective equipment provided by an employer in accordance with this regulation shall be suitable for the purpose and shall–
 
-- (a) comply with any legal requirement[^key-f3f7451f7c0c0cd8d34a4aa82e770ef2] which is applicable to that item of personal protective equipment; or
+- (a) comply with any legal requirement[^c-f3f7451f7c0c0cd8d34a4aa82e770ef2] which is applicable to that item of personal protective equipment; or
 - (b) in the case of respiratory protective equipment, where no provision referred to in sub-paragraph (a) applies, be of a type approved or shall conform to a standard approved, in either case, by the Executive.
 
 (10) Without prejudice to the provisions of this regulation, Schedule 3 shall have effect in relation to work with biological agents.
 
 (11) In this regulation, “adequate” means adequate having regard only to the nature of the substance and the nature and degree of exposure to substances hazardous to health.
 
-(12)[^key-657bffe807c590396847a8995beef972] In paragraph (9)(a), “legal requirement” means any requirement of the Personal Protective Equipment Regulations 2002 or Regulation (EU) 2016/425 of the European Parliament and of the Council on personal protective equipment and repealing Council Directive 89/686/EEC (OJ No L81, 31.3.2016, p51).
+(12)[^c-657bffe807c590396847a8995beef972] In paragraph (9)(a), “legal requirement” means any requirement of the Personal Protective Equipment Regulations 2002 or Regulation (EU) 2016/425 of the European Parliament and of the Council on personal protective equipment and repealing Council Directive 89/686/EEC (OJ No L81, 31.3.2016, p51).
 
-## 8. Use of control measures, etc.[^key-4e4b60232b5bfcadca20bee092427412]
+## 8. Use of control measures, etc.[^c-4e4b60232b5bfcadca20bee092427412]
 
 (1) Every employer who provides any control measure, other thing or facility in accordance with these Regulations shall take all reasonable steps to ensure that it is properly used or applied as the case may be.
 
@@ -271,9 +271,9 @@ and where, as a result of the review, changes to the risk assessment are require
 - (a) take all reasonable steps to ensure it is returned after use to any accommodation provided for it; and
 - (b) if he discovers a defect therein, report it forthwith to his employer.
 
-## 9. Maintenance, examination and testing of control measures[^key-0faf421535816636ae06843d438ae1f0]
+## 9. Maintenance, examination and testing of control measures[^c-0faf421535816636ae06843d438ae1f0]
 
-(1)[^key-fdbc764cdbde9f993d6b4833147621df] Every employer who provides any control measure to meet the requirements of regulation 7 shall ensure that –
+(1)[^c-fdbc764cdbde9f993d6b4833147621df] Every employer who provides any control measure to meet the requirements of regulation 7 shall ensure that –
 
 - (a) in the case of plant and equipment, including engineering controls and personal protective equipment, it is maintained in an efficient state, in efficient working order, in good repair and in a clean condition; and
 - (b) in the case of the provision of systems of work and supervision and of any other measure, it is reviewed at suitable intervals and revised if necessary.
@@ -297,7 +297,7 @@ and where, as a result of the review, changes to the risk assessment are require
 
 (7) The employer shall ensure that the equipment referred to in paragraph (6) is subsequently decontaminated and cleaned or, if necessary, destroyed.
 
-## 10. Monitoring exposure at the workplace[^key-7e2c9e6a1cab98e7c6e480234f1463ef]
+## 10. Monitoring exposure at the workplace[^c-7e2c9e6a1cab98e7c6e480234f1463ef]
 
 (1) Where the risk assessment indicates that–
 
@@ -330,7 +330,7 @@ from the date of the last entry made in it.
 - (b) provide the Executive with copies of such monitoring records as the Executive may require; and
 - (c) if he ceases to trade, notify forthwith the Executive thereof in writing and make available to the Executive all monitoring records kept by him.
 
-## 11. Health surveillance[^key-5b286ad4f877b317142b659f20cb0383]
+## 11. Health surveillance[^c-5b286ad4f877b317142b659f20cb0383]
 
 (1) Where it is appropriate for the protection of the health of his employees who are, or are liable to be, exposed to a substance hazardous to health, the employer shall ensure that such employees are under suitable health surveillance.
 
@@ -372,7 +372,7 @@ from the date of the last entry made in it.
 
 (11) Where an employee or an employer is aggrieved by a decision recorded in the health record by a relevant doctor to suspend an employee from work which exposes him to a substance hazardous to health (or to impose conditions on such work), he may, by an application in writing to the Executive within 28 days of the date on which he was notified of the decision, apply for that decision to be reviewed in accordance with a procedure approved for the purposes of this paragraph by the Department of Enterprise, Trade and Investment, and the result of that review shall be notified to the employee and employer and entered in the health record in accordance with the approved procedure.
 
-## 12. Information, instruction and training for persons who may be exposed to substances hazardous to health[^key-b12ea2487910870f7ae5b795809ad4b1]
+## 12. Information, instruction and training for persons who may be exposed to substances hazardous to health[^c-b12ea2487910870f7ae5b795809ad4b1]
 
 (1) Every employer who undertakes work which is liable to expose an employee to a substance hazardous to health shall provide that employee with suitable and sufficient information, instruction and training.
 
@@ -380,12 +380,12 @@ from the date of the last entry made in it.
 
 - (a) details of the substances hazardous to health to which the employee is liable to be exposed including–
   - (i) the names of those substances and the risk which they present to health;
-  - (ii) any relevant workplace exposure limit[^key-aa1098b9061d6d15860411525e99a30a] or similar occupational exposure limit;
+  - (ii) any relevant workplace exposure limit[^c-aa1098b9061d6d15860411525e99a30a] or similar occupational exposure limit;
   - (iii) access to any relevant safety data sheet; and
   - (iv) other legislative provisions which concern the hazardous properties of those substances;
 - (b) the significant findings of the risk assessment;
 - (c) the appropriate precautions and actions to be taken by the employee in order to safeguard himself and other employees at the workplace;
-- (d) the results of any monitoring of exposure in accordance with regulation 10 and, in particular, in the case of a substance hazardous to health for which a workplace exposure limit[^key-85fb6f3e5f8942f0fbf0700c9c9fdb20] has been approved, the employee or his representatives shall be informed forthwith, if the results of such monitoring show that the workplace exposure limit has been exceeded;
+- (d) the results of any monitoring of exposure in accordance with regulation 10 and, in particular, in the case of a substance hazardous to health for which a workplace exposure limit[^c-85fb6f3e5f8942f0fbf0700c9c9fdb20] has been approved, the employee or his representatives shall be informed forthwith, if the results of such monitoring show that the workplace exposure limit has been exceeded;
 - (e) the collective results of any health surveillance undertaken in accordance with regulation 11 in a form calculated to prevent those results from being identified as relating to a particular person; and
 - (f) where employees are working with a Group 4 biological agent or material that may contain such an agent, the provision of written instructions and, if appropriate, the display of notices which outline the procedures for handling such an agent or material.
 
@@ -398,7 +398,7 @@ from the date of the last entry made in it.
 
 (5) Where containers and pipes for substances hazardous to health used at work are not marked in accordance with any relevant legislation listed in Schedule 7, the employer shall, without prejudice to any derogations provided for in that legislation, ensure that the contents of those containers and pipes, together with the nature of those contents and any associated hazards, are clearly identifiable.
 
-## 13. Arrangements to deal with accidents, incidents and emergencies[^key-8a62683b37e0898f7010b2c4a5d4d889]
+## 13. Arrangements to deal with accidents, incidents and emergencies[^c-8a62683b37e0898f7010b2c4a5d4d889]
 
 (1) Subject to paragraph (4) and without prejudice to the relevant provisions of the Management of Health and Safety at Work Regulations (Northern Ireland) 2000[^f00016], in order to protect the health of his employees from an accident, incident or emergency related to the presence of a substance hazardous to health at the workplace, the employer shall ensure that–
 
@@ -430,14 +430,14 @@ from the date of the last entry made in it.
   - (i) the causes of that incident or accident; and
   - (ii) the measures taken or to be taken to rectify the situation.
 
-(4) Paragraph (1) and, provided the substance hazardous to health is not a carcinogen, a mutagen or a biological agent[^key-36fcc624c11b91c1784149277354e24f], paragraph (3) shall not apply where–
+(4) Paragraph (1) and, provided the substance hazardous to health is not a carcinogen, a mutagen or a biological agent[^c-36fcc624c11b91c1784149277354e24f], paragraph (3) shall not apply where–
 
 - (a) the results of the risk assessment show that, because of the quantity of each substance hazardous to health present at the workplace, there is only a slight risk to the health of employees; and
 - (b) the measures taken by the employer to comply with the duty under regulation 7(1) are sufficient to control that risk.
 
 (5) An employee shall report forthwith, to his employer or to any other employee of that employer with specific responsibility for the health and safety of his fellow employees, any accident or incident which has or may have resulted in the release of a biological agent which could cause severe human disease.
 
-## 14. Provisions relating to certain fumigations[^key-609cbdcc21a0b295f19c17e92df91b79]
+## 14. Provisions relating to certain fumigations[^c-609cbdcc21a0b295f19c17e92df91b79]
 
 (1) This regulation shall apply to fumigations in which the fumigant used or intended to be used is hydrogen cyanide, phosphine or methyl bromide, except that paragraph (2) shall not apply to fumigations using the fumigant specified in Column 1 of Schedule 8 when the nature of the fumigation is that specified in the corresponding entry in Column 2 of that Schedule.
 
@@ -450,11 +450,11 @@ at least 24 hours in advance, or such shorter time in advance as the persons req
 
 (3) An employer who undertakes a fumigation to which this regulation applies shall ensure that, before the fumigant is released, suitable warning notices have been affixed at all points of reasonable access to the premises or to those parts of the premises in which the fumigation is to be carried out and that after the fumigation has been completed, and the premises are safe to enter, those warning notices are removed.
 
-## 15. Exemption certificates[^key-0cc34c0e09673517428ee773b8013818]
+## 15. Exemption certificates[^c-0cc34c0e09673517428ee773b8013818]
 
 (1) Subject to paragraph (2) the Executive may, by a certificate in writing, exempt any person or class of persons or any substance or class of substances from all or any of the requirements or prohibitions imposed by regulations 4 (to the extent permitted by article 9 of Council Directive [98/24/EC](https://www.legislation.gov.uk/european/directive/1998/0024)), 8, 9, 11(8), (10) and (11) and 14 and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by the Executive by a further certificate in writing.
 
-(1A)[^key-e719ce3a472f0637c07782069d90cf2b] Article 9 of Council Directive 98/24/EC has effect for the purpose of paragraph (1) as if for the references to “Member States” there were substituted references to “the Executive”
+(1A)[^c-e719ce3a472f0637c07782069d90cf2b] Article 9 of Council Directive 98/24/EC has effect for the purpose of paragraph (1) as if for the references to “Member States” there were substituted references to “the Executive”
 
 (2) The Executive shall not grant any such exemption unless having regard to the circumstances of the case and, in particular, to–
 
@@ -463,7 +463,7 @@ at least 24 hours in advance, or such shorter time in advance as the persons req
 
 it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
 
-## 16. Exemptions relating to the Ministry of Defence, etc.[^key-2b63926239fdff6eda263c6c9bbacbeb]
+## 16. Exemptions relating to the Ministry of Defence, etc.[^c-2b63926239fdff6eda263c6c9bbacbeb]
 
 (1) In this regulation–
 
@@ -485,25 +485,25 @@ from all or any of the requirements or prohibitions imposed by these Regulations
 - (a) any visiting force; or
 - (b) members of a visiting force working in or attached to a headquarters.
 
-## 17. Application within the territorial sea[^key-eed977b82b85638af7e9bc16090bef2c]
+## 17. Application within the territorial sea[^c-eed977b82b85638af7e9bc16090bef2c]
 
 Within the territorial sea these Regulations shall apply only to and in relation to the premises and activities to which any of paragraphs 2 to 6 of Schedule 10 applies.
 
-## 18. Revocation and savings[^key-ba19156767e9587a3e3c1d2a6f97d8a3]
+## 18. Revocation and savings[^c-ba19156767e9587a3e3c1d2a6f97d8a3]
 
 (1) The Control of Substances Hazardous to Health Regulations (Northern Ireland) 2000[^f00019] are hereby revoked.
 
 (2) Any record or register required to be kept under the Regulations revoked by paragraph (1) shall, notwithstanding that revocation, be kept in the same manner and for the same period as specified in those Regulations as if these Regulations had not been made, except that the Executive may approve the keeping of records at a place or in a form other than at the place where, or in the form in which, records were required to be kept under the Regulations so revoked.
 
-## 19. Extension of meaning of “work”[^key-f24a6e57586c4e8c4addbd09c705a38e]
+## 19. Extension of meaning of “work”[^c-f24a6e57586c4e8c4addbd09c705a38e]
 
 For the purposes of Part II of the 1978 Order the meaning of “work” shall be extended to include any activity involving the consignment, storage or use of a Group 2, 3 or 4 biological agent and the meaning of “at work” shall be extended accordingly, and in that connection the references to employer in paragraphs 5 and 6 of Schedule 3 include references to any person carrying out such an activity.
 
-## 20. Modification of Article 5(2) of the 1978 Order[^key-bdcb3a3eb5687356d5b6c57768e99a63]
+## 20. Modification of Article 5(2) of the 1978 Order[^c-bdcb3a3eb5687356d5b6c57768e99a63]
 
 Article 5(2) of the 1978 Order shall be modified in relation to an activity involving the consignment, storage or use of any of the biological agents referred to in regulation 19 so as to have effect as if the reference therein to a self-employed person is a reference to any person who is not an employer or an employee and the reference therein to his undertaking includes a reference to such an activity.
 
-## 21. Defence[^key-f6c4e23ae7a154a7074c3e5fa4ae38ae]
+## 21. Defence[^c-f6c4e23ae7a154a7074c3e5fa4ae38ae]
 
 Subject to regulation 21 of the Management of Health and Safety at Work Regulations (Northern Ireland) 2000[^f00020], in any proceedings for an offence consisting of a contravention of these Regulations it shall be a defence for any person to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of that offence.
 
@@ -515,11 +515,11 @@ A senior officer of the
 
 Department of Enterprise, Trade and Investment
 
-## SCHEDULE 1 — OTHER SUBSTANCES AND PROCESSES TO WHICH THE DEFINITION OF “CARCINOGEN” RELATES[^key-02f3d95113dbb39025a0598d487d5598]
+## SCHEDULE 1 — OTHER SUBSTANCES AND PROCESSES TO WHICH THE DEFINITION OF “CARCINOGEN” RELATES[^c-02f3d95113dbb39025a0598d487d5598]
 
 Regulation 2(1)
 
-[^key-02f3d95113dbb39025a0598d487d5598]
+[^c-02f3d95113dbb39025a0598d487d5598]
 
 - Aflatoxins.
 - Arsenic.
@@ -534,7 +534,7 @@ Regulation 2(1)
 - Rubber manufacturing and processing giving rise to rubber process dust and rubber fume.
 - Used engine oils.
 
-The following polychlorodibenzodioxins:[^key-e1430d01a3a294453ffa379c646fa12b]
+The following polychlorodibenzodioxins:[^c-e1430d01a3a294453ffa379c646fa12b]
 
 - 2, 3, 7, 8-TCDD
 - 1, 2, 3, 7, 8-PeCDD
@@ -558,7 +558,7 @@ The following polychlorodibenzofurans:
 - OCDF
 - where T = tetra, Pe = penta, Hx = hexa, Hp = hepta and O = octa.
 
-## SCHEDULE 2 — PROHIBITION OF CERTAIN SUBSTANCES HAZARDOUS TO HEALTH FOR CERTAIN PURPOSES[^key-ac7a54c52d4cc1e853526e6faa1728b3]
+## SCHEDULE 2 — PROHIBITION OF CERTAIN SUBSTANCES HAZARDOUS TO HEALTH FOR CERTAIN PURPOSES[^c-ac7a54c52d4cc1e853526e6faa1728b3]
 
 Regulation 4(1)
 
@@ -587,9 +587,9 @@ Regulation 4(1)
 </tbody>
 </table>
 
-[^key-859b5a2d6b227d90fbc7ff8b018130af][^key-bb08ab6b514047ebc9e820af3c5dccaa][^key-4102eec78919df61dd9015f03af6a954][^key-4102eec78919df61dd9015f03af6a954][^key-4102eec78919df61dd9015f03af6a954][^key-4102eec78919df61dd9015f03af6a954][^key-4102eec78919df61dd9015f03af6a954][^key-4102eec78919df61dd9015f03af6a954]
+[^c-859b5a2d6b227d90fbc7ff8b018130af][^c-bb08ab6b514047ebc9e820af3c5dccaa][^c-4102eec78919df61dd9015f03af6a954][^c-4102eec78919df61dd9015f03af6a954][^c-4102eec78919df61dd9015f03af6a954][^c-4102eec78919df61dd9015f03af6a954][^c-4102eec78919df61dd9015f03af6a954][^c-4102eec78919df61dd9015f03af6a954]
 
-## SCHEDULE 2A — PRINCIPLES OF GOOD PRACTICE FOR THE CONTROL OF EXPOSURE TO SUBSTANCES HAZARDOUS TO HEALTH[^key-3235854c8e7e4ab56d245dd5eb4c7888]
+## SCHEDULE 2A — PRINCIPLES OF GOOD PRACTICE FOR THE CONTROL OF EXPOSURE TO SUBSTANCES HAZARDOUS TO HEALTH[^c-3235854c8e7e4ab56d245dd5eb4c7888]
 
 Regulation 7(7)
 
@@ -608,11 +608,11 @@ Regulations 2(1) and 7(6)(a) and (10)
 
 ### PART I — provisions of general application to biological agents
 
-#### 1. Interpretation[^key-981971b83dde56477653392c1fcd1546]
+#### 1. Interpretation[^c-981971b83dde56477653392c1fcd1546]
 
 In this Schedule “diagnostic service” means any activity undertaken solely with the intention of analysing specimens or samples from a human patient or animal in which a biological agent is or is suspected of being present for purposes relating to the assessment of the clinical progress, or assistance in the clinical management, of that patient or animal.
 
-#### 2. Classification of biological agents[^key-2851397cfe39827c1044215ad5bce861]
+#### 2. Classification of biological agents[^c-2851397cfe39827c1044215ad5bce861]
 
 (1) Where a biological agent does not have an approved classification, the employer shall provisionally classify that agent in accordance with sub-paragraph (2), having regard to the nature of the agent and the properties of which he may reasonably be expected to be aware.
 
@@ -625,7 +625,7 @@ In this Schedule “diagnostic service” means any activity undertaken solely w
 
 (3) Where an employer is using a biological agent which has an approved classification and the risk of infection for that particular agent is different from that expected, the employer shall reclassify the agent in consultation with the Executive as if performing a provisional classification under sub-paragraph (2).
 
-#### 3. Special control measures for laboratories, animal rooms and industrial processes[^key-e925ba466113fe2c957847c011e42dbc]
+#### 3. Special control measures for laboratories, animal rooms and industrial processes[^c-e925ba466113fe2c957847c011e42dbc]
 
 (1) Every employer who is engaged in any of the activities specified in sub-paragraph (3) shall ensure that measures taken to control adequately the exposure of his employees to biological agents include, in particular, the most suitable combination of containment measures from those listed in Parts II and III as appropriate, taking into account–
 
@@ -658,7 +658,7 @@ In this Schedule “diagnostic service” means any activity undertaken solely w
 
 (6) The Executive shall not approve any guidelines under paragraph (5) unless it is satisfied that the health of any person who is likely to be affected by the use of those guidelines will not be prejudiced.
 
-#### 4. List of employees exposed to certain biological agents[^key-de66ab15cbc5db110727b7d3a5db5732]
+#### 4. List of employees exposed to certain biological agents[^c-de66ab15cbc5db110727b7d3a5db5732]
 
 (1) Subject to sub-paragraph (2), every employer shall keep a list of employees exposed to a Group 3 or Group 4 biological agent, indicating the type of work done and, where known, the biological agent to which they have been exposed, and records of exposures, accidents and incidents, as appropriate.
 
@@ -673,7 +673,7 @@ In this Schedule “diagnostic service” means any activity undertaken solely w
 
 (5) Each employee shall have access to the information on the list which relates to him personally.
 
-#### 5. Notification of the use of biological agents[^key-d4c122902ab36cce474982316e3a1b07]
+#### 5. Notification of the use of biological agents[^c-d4c122902ab36cce474982316e3a1b07]
 
 (1) Subject to sub-paragraphs (7) and (8), an employer shall not use for the first time one or more biological agents in Group 2, 3 or 4 at particular premises for any of the activities listed in paragraph 3(3) unless he has–
 
@@ -712,7 +712,7 @@ In this Schedule “diagnostic service” means any activity undertaken solely w
 
 (9) The requirement in sub-paragraph (2) to notify use of a biological agent specified in Part V shall not apply to an employer whose only use of that agent is in relation to the provision of a diagnostic service provided that use will not involve a process likely to propagate, concentrate or otherwise increase the risk of exposure to that agent.
 
-#### 6. Notification of the consignment of biological agents[^key-650dc0ed498c90a59d343ccb48b2e551]
+#### 6. Notification of the consignment of biological agents[^c-650dc0ed498c90a59d343ccb48b2e551]
 
 (1) An employer shall not consign a Group 4 biological agent or anything containing, or suspected of containing, such an agent to any other premises, whether or not those premises are under his ownership or control, unless he has notified the Executive in writing of his intention to do so at least 30 days in advance or before such shorter time as the Executive may approve and with that notification has furnished the particulars specified in sub-paragraph (4).
 
@@ -738,7 +738,7 @@ In this Schedule “diagnostic service” means any activity undertaken solely w
 - (j) the route which will be taken; and
 - (k) the proposed date of transportation.
 
-### PART II — containment measures for health and veterinary care facilities, laboratories and animal rooms[^key-aa53ff3314eb82d7146a6e7e6cc8a287]
+### PART II — containment measures for health and veterinary care facilities, laboratories and animal rooms[^c-aa53ff3314eb82d7146a6e7e6cc8a287]
 
 <table>
 <thead>
@@ -763,7 +763,7 @@ In this Schedule “diagnostic service” means any activity undertaken solely w
 </tbody>
 </table>
 
-### PART III — containment measures for industrial processes[^key-69ba60af3e60ffa71f1d25a1145db249]
+### PART III — containment measures for industrial processes[^c-69ba60af3e60ffa71f1d25a1145db249]
 
 <table>
 <thead>
@@ -792,13 +792,13 @@ In this Schedule “diagnostic service” means any activity undertaken solely w
 </tbody>
 </table>
 
-### PART IV — biohazard sign[^key-9f3c27a92bdf6a0484dff208c562f91b]
+### PART IV — biohazard sign[^c-9f3c27a92bdf6a0484dff208c562f91b]
 
 The biohazard sign required by regulation 7(6)(a) shall be in the form shown below–
 
 [image: see source](https://www.legislation.gov.uk/nisr/2003/34/images/nisr_20030034_en_001)
 
-### PART V — biological agents whose use is to be notified in accordance with paragraph 5(2) of part i[^key-b9061aacefd9a0afbd17f45a8fcf155b]
+### PART V — biological agents whose use is to be notified in accordance with paragraph 5(2) of part i[^c-b9061aacefd9a0afbd17f45a8fcf155b]
 
 Any Group 3 or 4 agent.
 
@@ -808,7 +808,7 @@ The following Group 2 agents–
 - *Corynebacterium diphtheriae;*
 - *Neisseria meningitides.*
 
-## SCHEDULE 4 — FREQUENCY OF THOROUGH EXAMINATION AND TEST OF LOCAL EXHAUST VENTILATION PLANT USED IN CERTAIN PROCESSES[^key-d353e99b376e204d8884449ca09eb003]
+## SCHEDULE 4 — FREQUENCY OF THOROUGH EXAMINATION AND TEST OF LOCAL EXHAUST VENTILATION PLANT USED IN CERTAIN PROCESSES[^c-d353e99b376e204d8884449ca09eb003]
 
 Regulation 9(2)(a)
 
@@ -825,7 +825,7 @@ Regulation 9(2)(a)
 </tbody>
 </table>
 
-## SCHEDULE 5 — SPECIFIC SUBSTANCES AND PROCESSES FOR WHICH MONITORING IS REQUIRED[^key-e9e9d4b8508d55eef5c237685051cd4e]
+## SCHEDULE 5 — SPECIFIC SUBSTANCES AND PROCESSES FOR WHICH MONITORING IS REQUIRED[^c-e9e9d4b8508d55eef5c237685051cd4e]
 
 Regulation 10(4)
 
@@ -840,7 +840,7 @@ Regulation 10(4)
 </tbody>
 </table>
 
-## SCHEDULE 6 — MEDICAL SURVEILLANCE[^key-6ee067d950b66bf6012de1d323f4b520]
+## SCHEDULE 6 — MEDICAL SURVEILLANCE[^c-6ee067d950b66bf6012de1d323f4b520]
 
 Regulation 11(2)(a) and (5)
 
@@ -861,19 +861,19 @@ Regulation 11(2)(a) and (5)
 </tbody>
 </table>
 
-## SCHEDULE 7 — LEGISLATION CONCERNED WITH THE LABELLING OF CONTAINERS AND PIPES[^key-71d02a36b938ae8341b2fef9423e4fe2]
+## SCHEDULE 7 — LEGISLATION CONCERNED WITH THE LABELLING OF CONTAINERS AND PIPES[^c-71d02a36b938ae8341b2fef9423e4fe2]
 
 Regulation 12(5)
 
-[^key-71d02a36b938ae8341b2fef9423e4fe2]
+[^c-71d02a36b938ae8341b2fef9423e4fe2]
 
-- [^key-552fa92f8412b4ac1720bf8e2ce3e807]...[^key-e2bd0e35466d7ffbabc5d05f5d26c08b]
+- [^c-552fa92f8412b4ac1720bf8e2ce3e807]...[^c-e2bd0e35466d7ffbabc5d05f5d26c08b]
 - Health and Safety (Safety Signs and Signals) Regulations (Northern Ireland) 1996 (S.R. 1996 No. 119);
 - The Good Laboratory Practice Regulations 1999 (S.I. 1999/3106);
-- the CLP Regulation[^key-ce94b00e9baa80851eef190a16b997f1]; and
+- the CLP Regulation[^c-ce94b00e9baa80851eef190a16b997f1]; and
 - The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010[^M_F_1f7ae552-651b-4371-d052-1f5422141ad3].
 
-## SCHEDULE 8 — FUMIGATIONS EXCEPTED FROM REGULATION 14[^key-794bcaa206968c57db6fce0aa4fb85ae]
+## SCHEDULE 8 — FUMIGATIONS EXCEPTED FROM REGULATION 14[^c-794bcaa206968c57db6fce0aa4fb85ae]
 
 Regulation 14(1)
 
@@ -909,7 +909,7 @@ Regulation 14(2)
 
 ### PART I — persons to whom notifications must be made
 
-**1.**[^key-e2cd084893e587a873a20fabc70ef6e1] In the case of a fumigation to be carried out within the area of a harbour authority, advance notification of fumigation shall, for the purposes of regulation 14(2)(a), be given to–
+**1.**[^c-e2cd084893e587a873a20fabc70ef6e1] In the case of a fumigation to be carried out within the area of a harbour authority, advance notification of fumigation shall, for the purposes of regulation 14(2)(a), be given to–
 
 - (a) that authority;
 - (b) an inspector appointed under Article 21 of the 1978 Order, if that inspector so requires; and
@@ -917,7 +917,7 @@ Regulation 14(2)
   - (i) is to be carried out on a sea-going ship, the Fire Authority for Northern Ireland and the officer in charge of the office of Her Majesty’s Customs and Excise at the harbour, or
   - (ii) is the space fumigation of a building, the Fire Authority for Northern Ireland.
 
-**2.**[^key-2130c94eea3a0c0b953212546af45ec6] In the case of a fumigation, other than a fumigation to which paragraph (1) applies, advance notification of fumigation shall be given to–
+**2.**[^c-2130c94eea3a0c0b953212546af45ec6] In the case of a fumigation, other than a fumigation to which paragraph (1) applies, advance notification of fumigation shall be given to–
 
 - (a) the sub-divisional commander of the Police Service of Northern Ireland for the sub-division in which the fumigation is to be carried out;
 - (b) an inspector appointed under Article 21 of the 1978 Order, if that inspector so requires; and
@@ -925,7 +925,7 @@ Regulation 14(2)
 
 ### PART II — information to be given in advance notice of fumigations
 
-**3.**[^key-bb8d53d2183bdf2f9d49286019597935] The information to be given in a notification made for the purposes of regulation 14(2) shall include the following–
+**3.**[^c-bb8d53d2183bdf2f9d49286019597935] The information to be given in a notification made for the purposes of regulation 14(2) shall include the following–
 
 - (a) the name, address and place of business of the fumigator and his telephone number;
 - (b) the name of the person requiring the fumigation to be carried out;
@@ -938,7 +938,7 @@ Regulation 14(2)
 
 Regulation 17
 
-### 1. Interpretation[^key-7298c565d15f65764c67c41c0135af62]
+### 1. Interpretation[^c-7298c565d15f65764c67c41c0135af62]
 
 (1) In this Schedule–
 
@@ -955,7 +955,7 @@ Regulation 17
 
 (3) Any reference in this Schedule to premises and activities includes a reference to any person, article or substance on those premises or engaged in, or, as the case may be, used or for use in connection with any such activity, but does not include a reference to an aircraft which is airborne.
 
-### 2. Offshore installations[^key-a32041e4a0db5ce27808cc648c8dd6eb]
+### 2. Offshore installations[^c-a32041e4a0db5ce27808cc648c8dd6eb]
 
 (1) This paragraph shall apply to and in relation to–
 
@@ -984,7 +984,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 - (d) a mobile structure which has been taken out of use and is not yet being moved with a view to its being used for any of the purposes specified in sub-paragraph (2); and
 - (e) any part of a pipeline.
 
-### 3. Wells[^key-568b5941c515d6e72043dbb7c9da00e3]
+### 3. Wells[^c-568b5941c515d6e72043dbb7c9da00e3]
 
 (1) Subject to sub-paragraph (2), this paragraph applies to and in relation to–
 
@@ -993,7 +993,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 (2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
 
-### 4. Pipelines[^key-3d367cecb894c8e95bbeaa69d885480c]
+### 4. Pipelines[^c-3d367cecb894c8e95bbeaa69d885480c]
 
 (1) This paragraph applies to and in relation to–
 
@@ -1025,11 +1025,11 @@ together with any supplementary unit which is ordinarily connected to it, and al
   - (e) any activities incidental to the activities described in heads (a) to (d);
   - (f) a diving operation in connection with any of the works mentioned in heads (a) to (e) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
 
-### 5. Mines[^key-d1605d5fe1352e4a677ef97d455d37bd]
+### 5. Mines[^c-d1605d5fe1352e4a677ef97d455d37bd]
 
 This paragraph applies to and in relation to a mine within the territorial sea or extending beyond it, and any activity in connection with it, while it is being worked.
 
-### 6. Other activities[^key-5c8413f7a8e5c6dd7519bc3eebc54d08]
+### 6. Other activities[^c-5c8413f7a8e5c6dd7519bc3eebc54d08]
 
 (1) Subject to paragraph (2), this paragraph applies to and in relation to–
 
@@ -1099,33 +1099,33 @@ This paragraph applies to and in relation to a mine within the territorial sea o
 
 [^f00006]: Footnote: Article 46(3) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18
 
-[^key-c8fd23cf4f90c2602d6331cb9569fd8b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-c8fd23cf4f90c2602d6331cb9569fd8b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-49458eada39bfceacc7e2cd4beea77aa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/34/regulation/2) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-49458eada39bfceacc7e2cd4beea77aa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/34/regulation/2) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-08ce819adbedef81709f6b5065f0693c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) omitted (27.7.2009) by virtue of [The Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2009 (S.R. 2009/238)](https://www.legislation.gov.uk/nisr/2009/238), [regs. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1), [17](https://www.legislation.gov.uk/nisr/2009/238/regulation/17), [Sch. 7](https://www.legislation.gov.uk/nisr/2009/238/schedule/7)
+[^c-08ce819adbedef81709f6b5065f0693c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) omitted (27.7.2009) by virtue of [The Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2009 (S.R. 2009/238)](https://www.legislation.gov.uk/nisr/2009/238), [regs. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1), [17](https://www.legislation.gov.uk/nisr/2009/238/regulation/17), [Sch. 7](https://www.legislation.gov.uk/nisr/2009/238/schedule/7)
 
-[^key-e16c0cdd5084e1e5ffcecaa7285e991b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/a)
+[^c-e16c0cdd5084e1e5ffcecaa7285e991b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/a)
 
-[^key-d6856c8195b68fe735a565ae56deee17]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) inserted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/c)
+[^c-d6856c8195b68fe735a565ae56deee17]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) inserted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/c)
 
-[^key-e8bc105a5cf634a402004888af338ad7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) omitted (1.7.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/b)
+[^c-e8bc105a5cf634a402004888af338ad7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) omitted (1.7.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/b)
 
-[^key-64576e9c0ba51c2a597473da6306ffd3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) added (27.7.2009) by [The Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2009 (S.R. 2009/238)](https://www.legislation.gov.uk/nisr/2009/238), [regs. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1), [17](https://www.legislation.gov.uk/nisr/2009/238/regulation/17), [Sch. 7](https://www.legislation.gov.uk/nisr/2009/238/schedule/7)
+[^c-64576e9c0ba51c2a597473da6306ffd3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) added (27.7.2009) by [The Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2009 (S.R. 2009/238)](https://www.legislation.gov.uk/nisr/2009/238), [regs. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1), [17](https://www.legislation.gov.uk/nisr/2009/238/regulation/17), [Sch. 7](https://www.legislation.gov.uk/nisr/2009/238/schedule/7)
 
-[^key-59d2217e37c138eb11985aa12e6e20ce]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) inserted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(d)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/d)
+[^c-59d2217e37c138eb11985aa12e6e20ce]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) inserted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(d)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/d)
 
-[^key-ca76c879b7fc5d3675dadc04f89048a3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) omitted (1.6.2005) by virtue of [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/a/i)
+[^c-ca76c879b7fc5d3675dadc04f89048a3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) omitted (1.6.2005) by virtue of [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/a/i)
 
 [^f00008]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-600ac43c960f99d24668c298d832c377]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) inserted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(e)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/e)
+[^c-600ac43c960f99d24668c298d832c377]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) inserted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(e)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/e)
 
-[^key-3127eb24e43661b948e09f691db7a1cd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(f)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/f)
+[^c-3127eb24e43661b948e09f691db7a1cd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(f)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/f)
 
-[^key-eaefcd40ab619e6ece85c7f0a42f8ddf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) omitted (1.6.2005) by virtue of [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/a/ii)
+[^c-eaefcd40ab619e6ece85c7f0a42f8ddf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) omitted (1.6.2005) by virtue of [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/a/ii)
 
-[^key-ba6b43c4bf6b1ce5b6c2eda1332973ed]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) omitted (1.7.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(g)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/g)
+[^c-ba6b43c4bf6b1ce5b6c2eda1332973ed]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) omitted (1.7.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(g)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/g)
 
 [^f00009]: Footnote: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994)
 
@@ -1133,178 +1133,178 @@ This paragraph applies to and in relation to a mine within the territorial sea o
 
 [^f00011]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54)
 
-[^key-1bd8b32a4200a5ff773ea4fa5f37b80a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) omitted (1.7.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(i)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/i)
+[^c-1bd8b32a4200a5ff773ea4fa5f37b80a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) omitted (1.7.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(i)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/i)
 
-[^key-9fc8ef431b4e4cc142ca3494a3a1ddba]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(h)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/h)
+[^c-9fc8ef431b4e4cc142ca3494a3a1ddba]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(h)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/h)
 
-[^key-1fc90faf33dc7e020ce588f038ad1b1b]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(j)(i)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/j/i)
+[^c-1fc90faf33dc7e020ce588f038ad1b1b]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(j)(i)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/j/i)
 
-[^key-55537482c65813ff1aafdf80e24ec5c0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(j)(ii)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/j/ii)
+[^c-55537482c65813ff1aafdf80e24ec5c0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(2)(j)(ii)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/2/j/ii)
 
-[^key-f039fee57a5c73dac236194d6f2ca2bb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) substituted (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(a)(iv)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/a/iv)
+[^c-f039fee57a5c73dac236194d6f2ca2bb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) substituted (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(a)(iv)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/a/iv)
 
-[^key-c7859167027d3878117d6d7ce992e64e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) added (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(a)(v)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/a/v)
+[^c-c7859167027d3878117d6d7ce992e64e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/2/1) added (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(a)(v)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/a/v)
 
-[^key-4e9325e292e7ac61ba1877f7cc9d6445]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/34/regulation/3) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-4e9325e292e7ac61ba1877f7cc9d6445]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/34/regulation/3) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-6bbd449365ec49bf9c2e347c4dc31bde]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2003/34/regulation/3/3) substituted (1.5.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/b)
+[^c-6bbd449365ec49bf9c2e347c4dc31bde]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2003/34/regulation/3/3) substituted (1.5.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/b)
 
-[^key-9bf026f74f34be399bc0d920b6e25cd3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/34/regulation/4) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-9bf026f74f34be399bc0d920b6e25cd3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/34/regulation/4) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-c97a3864acf729a535a95d7d6205c950]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/nisr/2003/34/regulation/4/2/a) omitted (1.6.2009) by virtue of [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 5 paras. 5](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/5/paragraph/5), [6](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/5/paragraph/6)
+[^c-c97a3864acf729a535a95d7d6205c950]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/nisr/2003/34/regulation/4/2/a) omitted (1.6.2009) by virtue of [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 5 paras. 5](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/5/paragraph/5), [6](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/5/paragraph/6)
 
-[^key-7800ce088b9cdb915d8a4983e8ded996]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2003/34/regulation/4/3) revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/4)
+[^c-7800ce088b9cdb915d8a4983e8ded996]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2003/34/regulation/4/3) revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/4)
 
-[^key-e88599daca6e5a0b63df5c84d729f482]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/34/regulation/5) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-e88599daca6e5a0b63df5c84d729f482]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/34/regulation/5) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
 [^f00012]: Footnote: [S.R. 2003 No. 35](https://www.legislation.gov.uk/nisr/2003/35)
 
-[^key-d8a47ce3f2fc26352e6441bd2a6016b2]: Textual amendment: Words in [reg. 5(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2003/34/regulation/5/1/a/ii) substituted (28.5.2012) by [The Control of Asbestos Regulations (Northern Ireland) 2012 (S.R. 2012/179)](https://www.legislation.gov.uk/nisr/2012/179), [regs. 1](https://www.legislation.gov.uk/nisr/2012/179/regulation/1), [33(2)](https://www.legislation.gov.uk/nisr/2012/179/regulation/33/2), [Sch. 4](https://www.legislation.gov.uk/nisr/2012/179/schedule/4) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2012/179/regulation/3/5))
+[^c-d8a47ce3f2fc26352e6441bd2a6016b2]: Textual amendment: Words in [reg. 5(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2003/34/regulation/5/1/a/ii) substituted (28.5.2012) by [The Control of Asbestos Regulations (Northern Ireland) 2012 (S.R. 2012/179)](https://www.legislation.gov.uk/nisr/2012/179), [regs. 1](https://www.legislation.gov.uk/nisr/2012/179/regulation/1), [33(2)](https://www.legislation.gov.uk/nisr/2012/179/regulation/33/2), [Sch. 4](https://www.legislation.gov.uk/nisr/2012/179/schedule/4) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2012/179/regulation/3/5))
 
-[^key-908871dac8f8dfeaafa755a17c19ae3f]: Textual amendment: Words in [reg. 5(2)(c)](https://www.legislation.gov.uk/nisr/2003/34/regulation/5/2/c) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 111](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/111) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-908871dac8f8dfeaafa755a17c19ae3f]: Textual amendment: Words in [reg. 5(2)(c)](https://www.legislation.gov.uk/nisr/2003/34/regulation/5/2/c) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 111](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/111) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-b59ac68a166f4aea31e8536c15481bae]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/34/regulation/6) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-b59ac68a166f4aea31e8536c15481bae]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/34/regulation/6) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-5dbad87833547eaeecf967734d61c44c]: Textual amendment: Words in [reg. 6(2)(f)](https://www.legislation.gov.uk/nisr/2003/34/regulation/6/2/f) substituted (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(c)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/c)
+[^c-5dbad87833547eaeecf967734d61c44c]: Textual amendment: Words in [reg. 6(2)(f)](https://www.legislation.gov.uk/nisr/2003/34/regulation/6/2/f) substituted (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(c)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/c)
 
-[^key-e147d763546bef33bda5b542da4511ae]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/34/regulation/7) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-e147d763546bef33bda5b542da4511ae]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/34/regulation/7) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-76b6518cb0c7bb5e8a65f4a0d27cc230]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/5) added (11.7.2003) by [Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/288)](https://www.legislation.gov.uk/nisr/2003/288), [regs. 1](https://www.legislation.gov.uk/nisr/2003/288/regulation/1), [2(b)(i)](https://www.legislation.gov.uk/nisr/2003/288/regulation/2/b/i)
+[^c-76b6518cb0c7bb5e8a65f4a0d27cc230]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/5) added (11.7.2003) by [Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/288)](https://www.legislation.gov.uk/nisr/2003/288), [regs. 1](https://www.legislation.gov.uk/nisr/2003/288/regulation/1), [2(b)(i)](https://www.legislation.gov.uk/nisr/2003/288/regulation/2/b/i)
 
-[^key-f9d13a0aa2cc06ebc7f31a5c7363d7b1]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/5) added (11.7.2003) by [Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/288)](https://www.legislation.gov.uk/nisr/2003/288), [regs. 1](https://www.legislation.gov.uk/nisr/2003/288/regulation/1), [2(b)(ii)](https://www.legislation.gov.uk/nisr/2003/288/regulation/2/b/ii)
+[^c-f9d13a0aa2cc06ebc7f31a5c7363d7b1]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/5) added (11.7.2003) by [Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/288)](https://www.legislation.gov.uk/nisr/2003/288), [regs. 1](https://www.legislation.gov.uk/nisr/2003/288/regulation/1), [2(b)(ii)](https://www.legislation.gov.uk/nisr/2003/288/regulation/2/b/ii)
 
-[^key-d71082353bfd4d10f8c70e79e5b69456]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/7) substituted (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(d)(i)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/d/i)
+[^c-d71082353bfd4d10f8c70e79e5b69456]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/7) substituted (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(d)(i)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/d/i)
 
-[^key-20fdb5110b7cf6e400251950e8249dbd]: Textual amendment: Words in [reg. 7(7)(c)(i)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/7/c/i) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/3/a)
+[^c-20fdb5110b7cf6e400251950e8249dbd]: Textual amendment: Words in [reg. 7(7)(c)(i)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/7/c/i) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/3/a)
 
-[^key-c78cd19b3b1dc81dc8c424e00d60e81f]: Textual amendment: Words in [reg. 7(7)(c)(ii)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/7/c/ii) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/3/b)
+[^c-c78cd19b3b1dc81dc8c424e00d60e81f]: Textual amendment: Words in [reg. 7(7)(c)(ii)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/7/c/ii) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/3/b)
 
-[^key-1b76190d758c08988f7ffc6ed2b84c23]: Textual amendment: [Reg. 7(8)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/8) omitted (1.6.2005) by virtue of [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(d)(ii)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/d/ii)
+[^c-1b76190d758c08988f7ffc6ed2b84c23]: Textual amendment: [Reg. 7(8)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/8) omitted (1.6.2005) by virtue of [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(d)(ii)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/d/ii)
 
-[^key-f3f7451f7c0c0cd8d34a4aa82e770ef2]: Textual amendment: Words in [reg. 7(9)(a)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/9/a) substituted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 5(a)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/5/a) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+[^c-f3f7451f7c0c0cd8d34a4aa82e770ef2]: Textual amendment: Words in [reg. 7(9)(a)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/9/a) substituted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 5(a)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/5/a) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
 
-[^key-657bffe807c590396847a8995beef972]: Textual amendment: [Reg. 7(12)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/12) inserted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 5(b)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/5/b) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+[^c-657bffe807c590396847a8995beef972]: Textual amendment: [Reg. 7(12)](https://www.legislation.gov.uk/nisr/2003/34/regulation/7/12) inserted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 5(b)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/5/b) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
 
-[^key-4e4b60232b5bfcadca20bee092427412]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/34/regulation/8) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-4e4b60232b5bfcadca20bee092427412]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/34/regulation/8) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-0faf421535816636ae06843d438ae1f0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/34/regulation/9) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-0faf421535816636ae06843d438ae1f0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/34/regulation/9) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-fdbc764cdbde9f993d6b4833147621df]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/9/1) substituted (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(e)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/e)
+[^c-fdbc764cdbde9f993d6b4833147621df]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/nisr/2003/34/regulation/9/1) substituted (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(e)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/e)
 
-[^key-7e2c9e6a1cab98e7c6e480234f1463ef]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2003/34/regulation/10) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-7e2c9e6a1cab98e7c6e480234f1463ef]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2003/34/regulation/10) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-5b286ad4f877b317142b659f20cb0383]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2003/34/regulation/11) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-5b286ad4f877b317142b659f20cb0383]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2003/34/regulation/11) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-b12ea2487910870f7ae5b795809ad4b1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2003/34/regulation/12) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-b12ea2487910870f7ae5b795809ad4b1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2003/34/regulation/12) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-aa1098b9061d6d15860411525e99a30a]: Textual amendment: Words in [reg. 12(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2003/34/regulation/12/2/a/ii) substituted (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(f)(i)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/f/i)
+[^c-aa1098b9061d6d15860411525e99a30a]: Textual amendment: Words in [reg. 12(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2003/34/regulation/12/2/a/ii) substituted (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(f)(i)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/f/i)
 
-[^key-85fb6f3e5f8942f0fbf0700c9c9fdb20]: Textual amendment: Words in [reg. 12(2)(d)](https://www.legislation.gov.uk/nisr/2003/34/regulation/12/2/d) substituted (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(f)(ii)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/f/ii)
+[^c-85fb6f3e5f8942f0fbf0700c9c9fdb20]: Textual amendment: Words in [reg. 12(2)(d)](https://www.legislation.gov.uk/nisr/2003/34/regulation/12/2/d) substituted (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(f)(ii)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/f/ii)
 
-[^key-8a62683b37e0898f7010b2c4a5d4d889]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2003/34/regulation/13) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-8a62683b37e0898f7010b2c4a5d4d889]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2003/34/regulation/13) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
 [^f00016]: Footnote: [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388)
 
-[^key-36fcc624c11b91c1784149277354e24f]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/nisr/2003/34/regulation/13/4) substituted (11.7.2003) by [Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/288)](https://www.legislation.gov.uk/nisr/2003/288), [regs. 1](https://www.legislation.gov.uk/nisr/2003/288/regulation/1), [2(c)](https://www.legislation.gov.uk/nisr/2003/288/regulation/2/c)
+[^c-36fcc624c11b91c1784149277354e24f]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/nisr/2003/34/regulation/13/4) substituted (11.7.2003) by [Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/288)](https://www.legislation.gov.uk/nisr/2003/288), [regs. 1](https://www.legislation.gov.uk/nisr/2003/288/regulation/1), [2(c)](https://www.legislation.gov.uk/nisr/2003/288/regulation/2/c)
 
-[^key-609cbdcc21a0b295f19c17e92df91b79]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2003/34/regulation/14) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-609cbdcc21a0b295f19c17e92df91b79]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2003/34/regulation/14) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-0cc34c0e09673517428ee773b8013818]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2003/34/regulation/15) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-0cc34c0e09673517428ee773b8013818]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2003/34/regulation/15) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-e719ce3a472f0637c07782069d90cf2b]: Textual amendment: [Reg. 15(1A)](https://www.legislation.gov.uk/nisr/2003/34/regulation/15/1A) inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [7(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/7/2)
+[^c-e719ce3a472f0637c07782069d90cf2b]: Textual amendment: [Reg. 15(1A)](https://www.legislation.gov.uk/nisr/2003/34/regulation/15/1A) inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [7(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/7/2)
 
-[^key-2b63926239fdff6eda263c6c9bbacbeb]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2003/34/regulation/16) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-2b63926239fdff6eda263c6c9bbacbeb]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2003/34/regulation/16) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
 [^f00017]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67)
 
 [^f00018]: Footnote: [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736)
 
-[^key-eed977b82b85638af7e9bc16090bef2c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2003/34/regulation/17) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-eed977b82b85638af7e9bc16090bef2c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2003/34/regulation/17) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-ba19156767e9587a3e3c1d2a6f97d8a3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2003/34/regulation/18) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-ba19156767e9587a3e3c1d2a6f97d8a3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2003/34/regulation/18) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
 [^f00019]: Footnote: [S.R. 2000 No. 120](https://www.legislation.gov.uk/nisr/2000/120)
 
-[^key-f24a6e57586c4e8c4addbd09c705a38e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2003/34/regulation/19) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-f24a6e57586c4e8c4addbd09c705a38e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2003/34/regulation/19) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-bdcb3a3eb5687356d5b6c57768e99a63]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2003/34/regulation/20) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-bdcb3a3eb5687356d5b6c57768e99a63]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2003/34/regulation/20) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-f6c4e23ae7a154a7074c3e5fa4ae38ae]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2003/34/regulation/21) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-f6c4e23ae7a154a7074c3e5fa4ae38ae]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2003/34/regulation/21) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
 [^f00020]: Footnote: [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388)
 
-[^key-02f3d95113dbb39025a0598d487d5598]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2003/34/schedule/1) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-02f3d95113dbb39025a0598d487d5598]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2003/34/schedule/1) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-e1430d01a3a294453ffa379c646fa12b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2003/34/schedule/1) added (11.7.2003) by [Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/288)](https://www.legislation.gov.uk/nisr/2003/288), [regs. 1](https://www.legislation.gov.uk/nisr/2003/288/regulation/1), [2(d)](https://www.legislation.gov.uk/nisr/2003/288/regulation/2/d)
+[^c-e1430d01a3a294453ffa379c646fa12b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2003/34/schedule/1) added (11.7.2003) by [Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/288)](https://www.legislation.gov.uk/nisr/2003/288), [regs. 1](https://www.legislation.gov.uk/nisr/2003/288/regulation/1), [2(d)](https://www.legislation.gov.uk/nisr/2003/288/regulation/2/d)
 
-[^key-ac7a54c52d4cc1e853526e6faa1728b3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2003/34/schedule/2) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-ac7a54c52d4cc1e853526e6faa1728b3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2003/34/schedule/2) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-859b5a2d6b227d90fbc7ff8b018130af]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2003/34/schedule/2) substituted (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/14) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
+[^c-859b5a2d6b227d90fbc7ff8b018130af]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2003/34/schedule/2) substituted (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/14) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
 
-[^key-bb08ab6b514047ebc9e820af3c5dccaa]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2003/34/schedule/2) omitted (1.7.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(4)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/4)
+[^c-bb08ab6b514047ebc9e820af3c5dccaa]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2003/34/schedule/2) omitted (1.7.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(4)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/4)
 
-[^key-4102eec78919df61dd9015f03af6a954]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2003/34/schedule/2) revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/4)
+[^c-4102eec78919df61dd9015f03af6a954]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2003/34/schedule/2) revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/4)
 
-[^key-3235854c8e7e4ab56d245dd5eb4c7888]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/nisr/2003/34/schedule/2A) inserted (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(h)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/h), [Sch.](https://www.legislation.gov.uk/nisr/2005/165/schedule)
+[^c-3235854c8e7e4ab56d245dd5eb4c7888]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/nisr/2003/34/schedule/2A) inserted (1.6.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/165)](https://www.legislation.gov.uk/nisr/2005/165), [regs. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1), [3(h)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/h), [Sch.](https://www.legislation.gov.uk/nisr/2005/165/schedule)
 
-[^key-981971b83dde56477653392c1fcd1546]: Commencement: [Sch. 3 Pt. I para. 1](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/I/paragraph/1) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-981971b83dde56477653392c1fcd1546]: Commencement: [Sch. 3 Pt. I para. 1](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/I/paragraph/1) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-2851397cfe39827c1044215ad5bce861]: Commencement: [Sch. 3 Pt. I para. 2](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/I/paragraph/2) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-2851397cfe39827c1044215ad5bce861]: Commencement: [Sch. 3 Pt. I para. 2](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/I/paragraph/2) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-e925ba466113fe2c957847c011e42dbc]: Commencement: [Sch. 3 Pt. I para. 3](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/I/paragraph/3) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-e925ba466113fe2c957847c011e42dbc]: Commencement: [Sch. 3 Pt. I para. 3](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/I/paragraph/3) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-de66ab15cbc5db110727b7d3a5db5732]: Commencement: [Sch. 3 Pt. I para. 4](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/I/paragraph/4) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-de66ab15cbc5db110727b7d3a5db5732]: Commencement: [Sch. 3 Pt. I para. 4](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/I/paragraph/4) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-d4c122902ab36cce474982316e3a1b07]: Commencement: [Sch. 3 Pt. I para. 5](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/I/paragraph/5) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-d4c122902ab36cce474982316e3a1b07]: Commencement: [Sch. 3 Pt. I para. 5](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/I/paragraph/5) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
 [^f00024]: Footnote: [S.R. 2001 No. 295](https://www.legislation.gov.uk/nisr/2001/295)
 
-[^key-650dc0ed498c90a59d343ccb48b2e551]: Commencement: [Sch. 3 Pt. I para. 6](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/I/paragraph/6) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-650dc0ed498c90a59d343ccb48b2e551]: Commencement: [Sch. 3 Pt. I para. 6](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/I/paragraph/6) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-aa53ff3314eb82d7146a6e7e6cc8a287]: Commencement: [Sch. 3 Pt. II](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/II) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-aa53ff3314eb82d7146a6e7e6cc8a287]: Commencement: [Sch. 3 Pt. II](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/II) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-69ba60af3e60ffa71f1d25a1145db249]: Commencement: [Sch. 3 Pt. III](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/III) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-69ba60af3e60ffa71f1d25a1145db249]: Commencement: [Sch. 3 Pt. III](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/III) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-9f3c27a92bdf6a0484dff208c562f91b]: Commencement: [Sch. 3 Pt. IV](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/IV) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-9f3c27a92bdf6a0484dff208c562f91b]: Commencement: [Sch. 3 Pt. IV](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/IV) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-b9061aacefd9a0afbd17f45a8fcf155b]: Commencement: [Sch. 3 Pt. V](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/V) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-b9061aacefd9a0afbd17f45a8fcf155b]: Commencement: [Sch. 3 Pt. V](https://www.legislation.gov.uk/nisr/2003/34/schedule/3/part/V) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-d353e99b376e204d8884449ca09eb003]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2003/34/schedule/4) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-d353e99b376e204d8884449ca09eb003]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2003/34/schedule/4) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-e9e9d4b8508d55eef5c237685051cd4e]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2003/34/schedule/5) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-e9e9d4b8508d55eef5c237685051cd4e]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2003/34/schedule/5) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-6ee067d950b66bf6012de1d323f4b520]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2003/34/schedule/6) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-6ee067d950b66bf6012de1d323f4b520]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2003/34/schedule/6) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-71d02a36b938ae8341b2fef9423e4fe2]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/2003/34/schedule/7) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-71d02a36b938ae8341b2fef9423e4fe2]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/2003/34/schedule/7) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-552fa92f8412b4ac1720bf8e2ce3e807]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/nisr/2003/34/schedule/7) omitted (19.5.2010) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010 (S.R. 2010/160)](https://www.legislation.gov.uk/nisr/2010/160), [regs. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1), [30](https://www.legislation.gov.uk/nisr/2010/160/regulation/30), [Sch. 5](https://www.legislation.gov.uk/nisr/2010/160/schedule/5)
+[^c-552fa92f8412b4ac1720bf8e2ce3e807]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/nisr/2003/34/schedule/7) omitted (19.5.2010) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010 (S.R. 2010/160)](https://www.legislation.gov.uk/nisr/2010/160), [regs. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1), [30](https://www.legislation.gov.uk/nisr/2010/160/regulation/30), [Sch. 5](https://www.legislation.gov.uk/nisr/2010/160/schedule/5)
 
-[^key-e2bd0e35466d7ffbabc5d05f5d26c08b]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/nisr/2003/34/schedule/7) substituted (1.8.2006) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006 (S.R. 2006/173)](https://www.legislation.gov.uk/nisr/2006/173), [reg. 1](https://www.legislation.gov.uk/nisr/2006/173/regulation/1), [Sch. 13 para. 9](https://www.legislation.gov.uk/nisr/2006/173/schedule/13/paragraph/9)
+[^c-e2bd0e35466d7ffbabc5d05f5d26c08b]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/nisr/2003/34/schedule/7) substituted (1.8.2006) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006 (S.R. 2006/173)](https://www.legislation.gov.uk/nisr/2006/173), [reg. 1](https://www.legislation.gov.uk/nisr/2006/173/regulation/1), [Sch. 13 para. 9](https://www.legislation.gov.uk/nisr/2006/173/schedule/13/paragraph/9)
 
-[^key-ce94b00e9baa80851eef190a16b997f1]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/nisr/2003/34/schedule/7) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(5)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/5)
+[^c-ce94b00e9baa80851eef190a16b997f1]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/nisr/2003/34/schedule/7) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [9(5)](https://www.legislation.gov.uk/nisr/2015/265/regulation/9/5)
 
 [^M_F_1f7ae552-651b-4371-d052-1f5422141ad3]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/nisr/2003/34/schedule/7) substituted (19.5.2010) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010 (S.R. 2010/160)](https://www.legislation.gov.uk/nisr/2010/160), [regs. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1), [30](https://www.legislation.gov.uk/nisr/2010/160/regulation/30), [Sch. 5](https://www.legislation.gov.uk/nisr/2010/160/schedule/5)
 
-[^key-794bcaa206968c57db6fce0aa4fb85ae]: Commencement: [Sch. 8](https://www.legislation.gov.uk/nisr/2003/34/schedule/8) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-794bcaa206968c57db6fce0aa4fb85ae]: Commencement: [Sch. 8](https://www.legislation.gov.uk/nisr/2003/34/schedule/8) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-e2cd084893e587a873a20fabc70ef6e1]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/nisr/2003/34/schedule/9/paragraph/1) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-e2cd084893e587a873a20fabc70ef6e1]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/nisr/2003/34/schedule/9/paragraph/1) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-2130c94eea3a0c0b953212546af45ec6]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/nisr/2003/34/schedule/9/paragraph/2) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-2130c94eea3a0c0b953212546af45ec6]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/nisr/2003/34/schedule/9/paragraph/2) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-bb8d53d2183bdf2f9d49286019597935]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/nisr/2003/34/schedule/9/paragraph/3) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-bb8d53d2183bdf2f9d49286019597935]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/nisr/2003/34/schedule/9/paragraph/3) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-7298c565d15f65764c67c41c0135af62]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/nisr/2003/34/schedule/10/paragraph/1) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-7298c565d15f65764c67c41c0135af62]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/nisr/2003/34/schedule/10/paragraph/1) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
 [^f00025]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1 was amended by the Oil and Gas (Enterprise) Act 1982 ([1982 c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), Schedule 3, paragraph 1
 
 [^f00026]: Footnote: [S.R. 1994 No. 146](https://www.legislation.gov.uk/nisr/1994/146)
 
-[^key-a32041e4a0db5ce27808cc648c8dd6eb]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/nisr/2003/34/schedule/10/paragraph/2) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-a32041e4a0db5ce27808cc648c8dd6eb]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/nisr/2003/34/schedule/10/paragraph/2) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-568b5941c515d6e72043dbb7c9da00e3]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/nisr/2003/34/schedule/10/paragraph/3) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-568b5941c515d6e72043dbb7c9da00e3]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/nisr/2003/34/schedule/10/paragraph/3) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-3d367cecb894c8e95bbeaa69d885480c]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/nisr/2003/34/schedule/10/paragraph/4) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-3d367cecb894c8e95bbeaa69d885480c]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/nisr/2003/34/schedule/10/paragraph/4) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-d1605d5fe1352e4a677ef97d455d37bd]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/nisr/2003/34/schedule/10/paragraph/5) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-d1605d5fe1352e4a677ef97d455d37bd]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/nisr/2003/34/schedule/10/paragraph/5) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
 
-[^key-5c8413f7a8e5c6dd7519bc3eebc54d08]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/nisr/2003/34/schedule/10/paragraph/6) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)
+[^c-5c8413f7a8e5c6dd7519bc3eebc54d08]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/nisr/2003/34/schedule/10/paragraph/6) in operation at 28.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/34/regulation/1)

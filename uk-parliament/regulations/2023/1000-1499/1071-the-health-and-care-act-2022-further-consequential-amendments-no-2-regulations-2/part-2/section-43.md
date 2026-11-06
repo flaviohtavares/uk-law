@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Amendment of the Infrastructure Planning (Compulsory Acquisition) Regulations 2010[^key-cb8e14ce629f183f3a0133029fbc10bf]
+## 43. Amendment of the Infrastructure Planning (Compulsory Acquisition) Regulations 2010[^c-cb8e14ce629f183f3a0133029fbc10bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb8e14ce629f183f3a0133029fbc10bf]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2023/1071/regulation/43) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-cb8e14ce629f183f3a0133029fbc10bf]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2023/1071/regulation/43) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00034]: Footnote: [S.I. 2010/104](https://www.legislation.gov.uk/uksi/2010/104), amended by [S.I. 2013/522](https://www.legislation.gov.uk/uksi/2013/522); there are other amending instruments but none is relevant.

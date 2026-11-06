@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 147. Information and documents[^key-20c2466b88999a018b71315dd907f12c]
+## 147. Information and documents[^c-20c2466b88999a018b71315dd907f12c]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20c2466b88999a018b71315dd907f12c]: Commencement: S. 147 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-20c2466b88999a018b71315dd907f12c]: Commencement: S. 147 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

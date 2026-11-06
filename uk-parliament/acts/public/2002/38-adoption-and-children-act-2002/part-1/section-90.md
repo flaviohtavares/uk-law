@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Section 89: supplementary[^key-0377c42c060d9d1ebd6e570484a80d47]
+## 90. Section 89: supplementary[^c-0377c42c060d9d1ebd6e570484a80d47]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ habitually reside in England and Wales.
 
 ## Annotations
 
-[^key-0377c42c060d9d1ebd6e570484a80d47]: Commencement: S. 90 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/f) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-0377c42c060d9d1ebd6e570484a80d47]: Commencement: S. 90 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/f) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

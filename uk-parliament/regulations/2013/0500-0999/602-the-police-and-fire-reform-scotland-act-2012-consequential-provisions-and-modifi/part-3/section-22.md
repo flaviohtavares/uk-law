@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Powers of Northern Ireland Board employee in Scotland[^key-adbfaaffc2490918a36b60c1c4039d12]
+## 22. Powers of Northern Ireland Board employee in Scotland[^c-adbfaaffc2490918a36b60c1c4039d12]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adbfaaffc2490918a36b60c1c4039d12]: Commencement: Art. 22 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-adbfaaffc2490918a36b60c1c4039d12]: Commencement: Art. 22 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)

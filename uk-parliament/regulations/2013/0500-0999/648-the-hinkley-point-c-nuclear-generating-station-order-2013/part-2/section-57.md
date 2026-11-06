@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Period for completion of works and termination of works powers[^key-5bb3ca130b6d21f5e1b1fa4bd10531b1]
+## 57. Period for completion of works and termination of works powers[^c-5bb3ca130b6d21f5e1b1fa4bd10531b1]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bb3ca130b6d21f5e1b1fa4bd10531b1]: Commencement: Art. 57 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-5bb3ca130b6d21f5e1b1fa4bd10531b1]: Commencement: Art. 57 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

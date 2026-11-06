@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 303E. Documents to which sections 303C and 303D apply[^key-e72eee702d0d60fbe9ffba67cb92221b]
+## 303E. Documents to which sections 303C and 303D apply[^c-e72eee702d0d60fbe9ffba67cb92221b]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e72eee702d0d60fbe9ffba67cb92221b]: Textual amendment: Ss. 303C-303F and cross-heading inserted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 1(2)](https://www.legislation.gov.uk/asp/2025/14/section/1/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(a)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/a)
+[^c-e72eee702d0d60fbe9ffba67cb92221b]: Textual amendment: Ss. 303C-303F and cross-heading inserted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 1(2)](https://www.legislation.gov.uk/asp/2025/14/section/1/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(a)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/a)

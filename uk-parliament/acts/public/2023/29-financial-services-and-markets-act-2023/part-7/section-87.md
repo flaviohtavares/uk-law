@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Short title[^key-9c5bd3a583d9b445b8b0a4206340564e]
+## 87. Short title[^c-9c5bd3a583d9b445b8b0a4206340564e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Financial Services and Markets Act 2023.
 
 ## Annotations
 
-[^key-9c5bd3a583d9b445b8b0a4206340564e]: Commencement: S. 87 in force at Royal Assent, see [s. 86(1)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/a)
+[^c-9c5bd3a583d9b445b8b0a4206340564e]: Commencement: S. 87 in force at Royal Assent, see [s. 86(1)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/a)

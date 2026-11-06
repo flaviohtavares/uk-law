@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Working with others[^key-a253b83844271c73de42001187581fbf][^key-1dd78b6183aeb7ea1e6b79ee54deb788]
+## 42. Working with others[^c-a253b83844271c73de42001187581fbf][^c-1dd78b6183aeb7ea1e6b79ee54deb788]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ The Chief Inspector must work in collaboration with others, in every case in whi
 
 ## Annotations
 
-[^key-a253b83844271c73de42001187581fbf]: Commencement: S. 42 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-a253b83844271c73de42001187581fbf]: Commencement: S. 42 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-1dd78b6183aeb7ea1e6b79ee54deb788]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2025/11/section/42) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-1dd78b6183aeb7ea1e6b79ee54deb788]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2025/11/section/42) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

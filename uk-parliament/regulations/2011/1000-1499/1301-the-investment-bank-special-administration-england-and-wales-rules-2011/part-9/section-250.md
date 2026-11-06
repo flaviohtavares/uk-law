@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 250. Application of following rules[^key-6845df03ea1101c801c418be7cb0ca39]
+## 250. Application of following rules[^c-6845df03ea1101c801c418be7cb0ca39]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6845df03ea1101c801c418be7cb0ca39]: Commencement: [Rule 250](https://www.legislation.gov.uk/uksi/2011/1301/rule/250) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-6845df03ea1101c801c418be7cb0ca39]: Commencement: [Rule 250](https://www.legislation.gov.uk/uksi/2011/1301/rule/250) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
 [^f00019]: Footnote: Section 236 was amended by [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18).

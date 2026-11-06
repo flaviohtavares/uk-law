@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59B. Right to require review[^key-f571927d208b973e0f05610b51003deb]
+## 59B. Right to require review[^c-f571927d208b973e0f05610b51003deb]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f571927d208b973e0f05610b51003deb]: Textual amendment: Ss. 59A-59G inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 206](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/206)
+[^c-f571927d208b973e0f05610b51003deb]: Textual amendment: Ss. 59A-59G inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 206](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/206)

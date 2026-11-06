@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Costs paid otherwise than out of the assets of the PPP company[^key-4da54b00297fc57b401cb41a8df3656f]
+## 61. Costs paid otherwise than out of the assets of the PPP company[^c-4da54b00297fc57b401cb41a8df3656f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the amount of costs is decided by detailed assessment under an order of th
 
 ## Annotations
 
-[^key-4da54b00297fc57b401cb41a8df3656f]: Commencement: [Rule 61](https://www.legislation.gov.uk/uksi/2007/3141/rule/61) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-4da54b00297fc57b401cb41a8df3656f]: Commencement: [Rule 61](https://www.legislation.gov.uk/uksi/2007/3141/rule/61) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

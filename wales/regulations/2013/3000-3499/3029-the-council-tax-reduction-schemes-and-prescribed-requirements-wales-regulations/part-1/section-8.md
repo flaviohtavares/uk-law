@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Households[^key-1339609fcb7151c6360a9adab18f8647]
+## 8. Households[^c-1339609fcb7151c6360a9adab18f8647]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ summary: ''
 
 (2) A child or young person is not be treated as a member of the applicant’s household where that child or young person is—
 
-- (a) placed with the applicant or the applicant’s partner by a local authority under section 22C or 23(2)(a) of the Children Act 1989[^f00071] or by a voluntary organisation under section 59(1)(a) of that Act, or in Scotland boarded out or placed[^key-52e66961f48de7a0ff86659f74894db5] with the applicant or the applicant’s partner under a relevant enactment; or
-- (aa)[^key-20923d4c67884ddff4d1e9e39554cf51] placed with the applicant or the applicant’s partner by a local authority under section 81 of the Social Services and Well-being (Wales) Act 2014; or
+- (a) placed with the applicant or the applicant’s partner by a local authority under section 22C or 23(2)(a) of the Children Act 1989[^f00071] or by a voluntary organisation under section 59(1)(a) of that Act, or in Scotland boarded out or placed[^c-52e66961f48de7a0ff86659f74894db5] with the applicant or the applicant’s partner under a relevant enactment; or
+- (aa)[^c-20923d4c67884ddff4d1e9e39554cf51] placed with the applicant or the applicant’s partner by a local authority under section 81 of the Social Services and Well-being (Wales) Act 2014; or
 - (b) placed, or in Scotland boarded out, with the applicant or the applicant’s partner prior to adoption; or
 - (c) placed for adoption with the applicant or the applicant’s partner in accordance with the Adoption and Children Act 2002[^f00072] or the Adoption Agencies (Scotland) Regulations 2009[^f00073], or the Adoption (Northern Ireland) Order 1987[^f00074].
 
@@ -56,19 +56,19 @@ summary: ''
 - (l) the Family Law Act 1986[^f00086];
 - (m) the Children Act 1989[^f00087];
 - (n) the Children (Scotland) Act 1995[^f00088];
-- (o) the Armed Forces Act 2006[^f00089]; [^key-8211f85b291931fb696c765049f25d5e]...
-- (oa)[^key-625c9d5f9fd0e15441d6ae6044a76f87] the Children’s Hearings (Scotland) Act 2011; and
+- (o) the Armed Forces Act 2006[^f00089]; [^c-8211f85b291931fb696c765049f25d5e]...
+- (oa)[^c-625c9d5f9fd0e15441d6ae6044a76f87] the Children’s Hearings (Scotland) Act 2011; and
 - (p) the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00090].
 
 ## Annotations
 
-[^key-1339609fcb7151c6360a9adab18f8647]: Commencement: Reg. 8 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-1339609fcb7151c6360a9adab18f8647]: Commencement: Reg. 8 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00071]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41); section 23 was substituted by sections 22A to 22F by section 8(1) of the Children and Young Persons Act [2008 (c.23)](https://www.legislation.gov.uk/ukpga/2008/23). Section 22C is in force in England but only section 22C(11) is in force in Wales. Section 59(1)(a) was amended by section 49 of the Children Act [2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31) and paragraph 2 of Schedule 1 to the Children and Young Persons Act 2008.
 
-[^key-52e66961f48de7a0ff86659f74894db5]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/8/2/a) inserted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [4(a)](https://www.legislation.gov.uk/wsi/2014/66/regulation/4/a)
+[^c-52e66961f48de7a0ff86659f74894db5]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/8/2/a) inserted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [4(a)](https://www.legislation.gov.uk/wsi/2014/66/regulation/4/a)
 
-[^key-20923d4c67884ddff4d1e9e39554cf51]: Textual amendment: Reg. 8(2)(aa) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2016/50/regulation/4)
+[^c-20923d4c67884ddff4d1e9e39554cf51]: Textual amendment: Reg. 8(2)(aa) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2016/50/regulation/4)
 
 [^f00072]: Footnote: [2002 c.38](https://www.legislation.gov.uk/ukpga/2002/38).
 
@@ -106,8 +106,8 @@ summary: ''
 
 [^f00089]: Footnote: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-8211f85b291931fb696c765049f25d5e]: Textual amendment: Word in [reg. 8(5)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/8/5) omitted (15.1.2014) by virtue of [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/wsi/2014/66/regulation/4/b/i)
+[^c-8211f85b291931fb696c765049f25d5e]: Textual amendment: Word in [reg. 8(5)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/8/5) omitted (15.1.2014) by virtue of [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/wsi/2014/66/regulation/4/b/i)
 
-[^key-625c9d5f9fd0e15441d6ae6044a76f87]: Textual amendment: [Reg. 8(5)(oa)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/8/5/oa) inserted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [4(b)(ii)](https://www.legislation.gov.uk/wsi/2014/66/regulation/4/b/ii)
+[^c-625c9d5f9fd0e15441d6ae6044a76f87]: Textual amendment: [Reg. 8(5)(oa)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/8/5/oa) inserted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [4(b)(ii)](https://www.legislation.gov.uk/wsi/2014/66/regulation/4/b/ii)
 
 [^f00090]: Footnote: [2012 c.10](https://www.legislation.gov.uk/ukpga/2012/10).

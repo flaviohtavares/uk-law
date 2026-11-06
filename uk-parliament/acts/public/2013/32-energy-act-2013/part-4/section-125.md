@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Right to transfer the government pipe-line and storage system[^key-97d0e655b863453ac8d4609c44d63331]
+## 125. Right to transfer the government pipe-line and storage system[^c-97d0e655b863453ac8d4609c44d63331]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97d0e655b863453ac8d4609c44d63331]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2013/32/section/125) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)
+[^c-97d0e655b863453ac8d4609c44d63331]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2013/32/section/125) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)

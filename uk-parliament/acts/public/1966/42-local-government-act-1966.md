@@ -53,7 +53,7 @@ An Act to make further provision, in relation to England and Wales, with respect
 
 (1) Subject to the provisions of this section the Secretary of State may pay, to local authorities who in his opinion are required to make special provision in the exercise of any of their functions in consequence of the presence within their areas of persons belonging to ethnic minorities whose language or customs differ from those of the rest of the community, grants of such amounts as he may with the consent of the Treasury determine on account of expenditure of such description (being expenditure in respect of the employment of staff) as he may so determine.
 
-(2) This section shall apply to a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004,[^key-55493917b40cb1d9a5401cea2108d76f] the London Fire Commissioner[^key-cb0c0c376488b2f27a903479a4a0c0d4] a[^c667771] police and crime commissioner, the Mayor's Office for Policing and Crime[^key-3a82971e05b583ce1157b7626e5bb7f3] , a joint authority established by Part 4 of the Local Government Act 1985, an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009 and a combined authority established under section 103 of that Act as it applies to a local authority.[^key-72f4c544e675928e92d6b46610d88ee5]
+(2) This section shall apply to a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004,[^c-55493917b40cb1d9a5401cea2108d76f] the London Fire Commissioner[^c-cb0c0c376488b2f27a903479a4a0c0d4] a[^c667771] police and crime commissioner, the Mayor's Office for Policing and Crime[^c-3a82971e05b583ce1157b7626e5bb7f3] , a joint authority established by Part 4 of the Local Government Act 1985, an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009 and a combined authority established under section 103 of that Act as it applies to a local authority.[^c-72f4c544e675928e92d6b46610d88ee5]
 
 #### 12, 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c667774]
 
@@ -126,7 +126,7 @@ There shall be defrayed out of moneys provided by Parliament—
 - (a) any sums required for the payment of grants under this Act or of other expenses of a Minister under this Act; and
 - (b) any increase attributable to the provisions of this Act in the sums payable out of such moneys under any other Act.
 
-### 43. †Consequential amendments and repeals.[^key-6143518c9a3da8fcac94561a25c1a220][^c667834]
+### 43. †Consequential amendments and repeals.[^c-6143518c9a3da8fcac94561a25c1a220][^c667834]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -152,10 +152,10 @@ Section 35.
 
 |  | Enactments specifying fees | Relevant Minister |
 | --- | --- | --- |
-| 1\. | [^key-c6f09b50be982b922810d4cf1c85fabe]. . . |  |
+| 1\. | [^c-c6f09b50be982b922810d4cf1c85fabe]. . . |  |
 | 2\. | . . . [^c667942] |  |
 | 3\. | . . . [^c667943] | The Treasury. |
-| 4\. | [^key-c6f09b50be982b922810d4cf1c85fabe]. . . |  |
+| 4\. | [^c-c6f09b50be982b922810d4cf1c85fabe]. . . |  |
 | 5\. | . . . [^c667943] |  |
 | 6\. | . . . [^c667946] |  |
 | 7\. | . . . [^c667947] |  |
@@ -185,43 +185,43 @@ Section 35.
 
 ## SCHEDULE 4 — . . .[^c667973]
 
-## SCHEDULE 5 — Consequential Amendments[^key-6b11f6f914ba752a9441083a59bb134f]
+## SCHEDULE 5 — Consequential Amendments[^c-6b11f6f914ba752a9441083a59bb134f]
 
 Section 43.
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Town and Country Planning Act 1959[^key-6b11f6f914ba752a9441083a59bb134f]
-
-**May not be in force at this date. Check the source.**
-
-**5.**[^key-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### The Town and Country Planning Act 1959[^c-6b11f6f914ba752a9441083a59bb134f]
 
 **May not be in force at this date. Check the source.**
 
-**6.**[^key-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**7.**[^key-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**8.**[^key-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+**8.**[^c-6b11f6f914ba752a9441083a59bb134f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 6 — . . .[^c667982]
 
@@ -249,15 +249,15 @@ Section 43.
 
 [^c667768]: Textual amendment: S. 11 substituted (20.9.1993 with effect as mentioned in s. 1(2) of the amending Act) by [1993 c. 27](https://www.legislation.gov.uk/ukpga/1993/27), [ss. 1(1)(2)](https://www.legislation.gov.uk/ukpga/1993/27/section/1/1/2), [3(3)](https://www.legislation.gov.uk/ukpga/1993/27/section/3/3)
 
-[^key-55493917b40cb1d9a5401cea2108d76f]: Textual amendment: Words in [s. 11(2)](https://www.legislation.gov.uk/ukpga/1966/42/section/11/2) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/16); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-55493917b40cb1d9a5401cea2108d76f]: Textual amendment: Words in [s. 11(2)](https://www.legislation.gov.uk/ukpga/1966/42/section/11/2) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/16); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-cb0c0c376488b2f27a903479a4a0c0d4]: Textual amendment: Words in [s. 11(2)](https://www.legislation.gov.uk/ukpga/1966/42/section/11/2) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/26); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-cb0c0c376488b2f27a903479a4a0c0d4]: Textual amendment: Words in [s. 11(2)](https://www.legislation.gov.uk/ukpga/1966/42/section/11/2) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/26); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
 [^c667771]: Textual amendment: Words in s. 11(2) inserted (1.4.1995) by [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29), [s. 43](https://www.legislation.gov.uk/ukpga/1994/29/section/43), [Sch. 4 Pt. I para. 3](https://www.legislation.gov.uk/ukpga/1994/29/schedule/4/part/I/paragraph/3); [S.I. 1994/3262](https://www.legislation.gov.uk/uksi/1994/3262), [art. 4(1)](https://www.legislation.gov.uk/uksi/1994/3262/article/4/1) , [Sch.](https://www.legislation.gov.uk/uksi/1994/3262/schedule) (with [art. 4(2)-(8)](https://www.legislation.gov.uk/uksi/1994/3262/article/4/2))
 
-[^key-3a82971e05b583ce1157b7626e5bb7f3]: Textual amendment: Words in s. 11(2) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 84](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/84); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/19))
+[^c-3a82971e05b583ce1157b7626e5bb7f3]: Textual amendment: Words in s. 11(2) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 84](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/84); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/19))
 
-[^key-72f4c544e675928e92d6b46610d88ee5]: Textual amendment: Words in s. 11(2) substituted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/4); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+[^c-72f4c544e675928e92d6b46610d88ee5]: Textual amendment: Words in s. 11(2) substituted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/4); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
 
 [^c667774]: Textual amendment: [Ss. 12](https://www.legislation.gov.uk/ukpga/1966/42/section/12), [13](https://www.legislation.gov.uk/ukpga/1966/42/section/13) repealed by [Statute Law (Repeals) Act 1975 (c. 10)](https://www.legislation.gov.uk/ukpga/1975/10), [Sch. Pt. VIII](https://www.legislation.gov.uk/ukpga/1975/10/schedule/part/VIII)
 
@@ -311,7 +311,7 @@ Section 43.
 
 [^c667833]: Textual amendment: [S. 41(2)(3)](https://www.legislation.gov.uk/ukpga/1966/42/section/41/2/3) repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1/part/IV)
 
-[^key-6143518c9a3da8fcac94561a25c1a220]: Textual amendment: [S. 43](https://www.legislation.gov.uk/ukpga/1966/42/section/43) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-6143518c9a3da8fcac94561a25c1a220]: Textual amendment: [S. 43](https://www.legislation.gov.uk/ukpga/1966/42/section/43) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
 [^c667834]: Modification: Unreliable margin note
 
@@ -323,7 +323,7 @@ Section 43.
 
 [^c667840]: Textual amendment: Sch. 3 Pt. I repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
 
-[^key-c6f09b50be982b922810d4cf1c85fabe]: Textual amendment: Words in Sch. 3 Pt. II repealed (1.8.2007) by [Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(j)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/j)
+[^c-c6f09b50be982b922810d4cf1c85fabe]: Textual amendment: Words in Sch. 3 Pt. II repealed (1.8.2007) by [Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(j)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/j)
 
 [^c667942]: Textual amendment: Sch. 3 Pt. II para. 2 repealed by [Late Night Refreshment Houses Act 1969 (c. 53)](https://www.legislation.gov.uk/ukpga/1969/53), [Sch.](https://www.legislation.gov.uk/ukpga/1969/53/schedule)
 
@@ -369,6 +369,6 @@ Section 43.
 
 [^c667973]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1966/42/schedule/4) repealed by [General Rate Act 1967 (c. 9)](https://www.legislation.gov.uk/ukpga/1967/9), [Sch. 14](https://www.legislation.gov.uk/ukpga/1967/9/schedule/14)
 
-[^key-6b11f6f914ba752a9441083a59bb134f]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukpga/1966/42/schedule/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-6b11f6f914ba752a9441083a59bb134f]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukpga/1966/42/schedule/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
 [^c667982]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/1966/42/schedule/6) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)

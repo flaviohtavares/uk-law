@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Free Allocation Regulation amended[^key-24560d0f0a939d827497ab385374ab57]
+## 46. Free Allocation Regulation amended[^c-24560d0f0a939d827497ab385374ab57]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 (which amends Commission Delegated Regulation (EU) 2019/331 for the p
 
 ## Annotations
 
-[^key-24560d0f0a939d827497ab385374ab57]: Commencement: Art. 46 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-24560d0f0a939d827497ab385374ab57]: Commencement: Art. 46 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)

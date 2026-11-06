@@ -28,7 +28,7 @@ summary: ''
 
 > (2A) In the case of a vehicle having an engine with a cylinder capacity not exceeding 1,100 cubic centimetres, the general rate is £100.
 
-(4)[^key-d76273170bd0e90b47a5866ff08eaede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d76273170bd0e90b47a5866ff08eaede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Subsection (1) above has effect in relation to any licence issued after 9th March 1999; and subsections (2) to (4) above have effect in relation to any licence taken out for a period beginning on or after 1st June 1999.
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c1126210]: Marginal citation: [1944 c.22](https://www.legislation.gov.uk/ukpga/1944/22)
 
-[^key-d76273170bd0e90b47a5866ff08eaede]: Textual amendment: [S. 8(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/8/4) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/1)
+[^c-d76273170bd0e90b47a5866ff08eaede]: Textual amendment: [S. 8(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/8/4) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/1)

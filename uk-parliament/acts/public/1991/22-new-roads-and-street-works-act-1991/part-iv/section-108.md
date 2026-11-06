@@ -25,7 +25,7 @@ summary: ''
 - (a) if the road is a public road, the roads authority, and
 - (b) if the road is not a public road, the road managers.
 
-(2) In the case of a road for which the Secretary of State is the roads authority but in relation to which a local roads authority acts as his agent under section 4 of the Roads (Scotland) Act 1984, the local roads authority shall be regarded as the road works authority for the purposes of section 112B (duty to enter certain information in Scottish Road Works Register)[^key-e3c1de26fa4ef903583357408d63a983] (the road works register) and sections 113 to 119 (advance notice and co-ordination of works).
+(2) In the case of a road for which the Secretary of State is the roads authority but in relation to which a local roads authority acts as his agent under section 4 of the Roads (Scotland) Act 1984, the local roads authority shall be regarded as the road works authority for the purposes of section 112B (duty to enter certain information in Scottish Road Works Register)[^c-e3c1de26fa4ef903583357408d63a983] (the road works register) and sections 113 to 119 (advance notice and co-ordination of works).
 
 (3) Subsection (1)(b) has effect subject to section 146 as regards the application of this Part to prospective public roads.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e3c1de26fa4ef903583357408d63a983]: Textual amendment: Words in [s. 108(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/108/2) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 19(2)](https://www.legislation.gov.uk/asp/2005/12/section/19/2), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-e3c1de26fa4ef903583357408d63a983]: Textual amendment: Words in [s. 108(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/108/2) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 19(2)](https://www.legislation.gov.uk/asp/2005/12/section/19/2), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
 
 [^c16932911]: Textual amendment: Words in [s. 108(6)(a)](https://www.legislation.gov.uk/ukpga/1991/22/section/108/6/a) substituted (1.4.2002) by [Water Industry (Scotland) Act 2002 (asp. 3)](https://www.legislation.gov.uk/asp/2002/3), [s. 71](https://www.legislation.gov.uk/asp/2002/3/section/71), [Sch. 7 para. 21(2)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/21/2) (with [s. 67](https://www.legislation.gov.uk/asp/2002/3/section/67)); [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2](https://www.legislation.gov.uk/ssi/2002/118/article/2)

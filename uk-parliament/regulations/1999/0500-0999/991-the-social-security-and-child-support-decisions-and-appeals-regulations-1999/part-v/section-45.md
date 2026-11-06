@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Procedure following a referral under section 28D(1)(b) of the Child Support Act[^key-e78fce3de58c3b46636fb49a93701a9c]
+## 45. Procedure following a referral under section 28D(1)(b) of the Child Support Act[^c-e78fce3de58c3b46636fb49a93701a9c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e78fce3de58c3b46636fb49a93701a9c]: Textual amendment: Regs. 39-47 omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683) , [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1) , [Sch. 1 para. 126](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/126) (with [arts. 3(2)(c)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/2/c) , [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4) )
+[^c-e78fce3de58c3b46636fb49a93701a9c]: Textual amendment: Regs. 39-47 omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683) , [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1) , [Sch. 1 para. 126](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/126) (with [arts. 3(2)(c)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/2/c) , [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4) )

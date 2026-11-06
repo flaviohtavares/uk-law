@@ -31,7 +31,7 @@ summary: ''
 
 POLICE
 
-[^key-e6da2b927f40426547e655a01150161d]The Police Federation (Amendment) Regulations 1975 (revoked)
+[^c-e6da2b927f40426547e655a01150161d]The Police Federation (Amendment) Regulations 1975 (revoked)
 
 Made
 
@@ -49,19 +49,19 @@ Coming into Operation
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-e6da2b927f40426547e655a01150161d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e6da2b927f40426547e655a01150161d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-e6da2b927f40426547e655a01150161d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e6da2b927f40426547e655a01150161d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-e6da2b927f40426547e655a01150161d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e6da2b927f40426547e655a01150161d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-e6da2b927f40426547e655a01150161d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e6da2b927f40426547e655a01150161d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -77,14 +77,14 @@ Whitehall
 
 **No longer in force.**
 
-[^key-e6da2b927f40426547e655a01150161d]APPENDIX
+[^c-e6da2b927f40426547e655a01150161d]APPENDIX
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e6da2b927f40426547e655a01150161d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e6da2b927f40426547e655a01150161d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e6da2b927f40426547e655a01150161d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1975/1739) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))
+[^c-e6da2b927f40426547e655a01150161d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1975/1739) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))

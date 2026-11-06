@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Transitional provision: trade licences[^key-ce065e05707453ef698d715126ead46f]
+## 70. Transitional provision: trade licences[^c-ce065e05707453ef698d715126ead46f]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ and such a licence or authorisation is referred to in this regulation as an “*
 
 ## Annotations
 
-[^key-ce065e05707453ef698d715126ead46f]: Commencement: Reg. 70 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-ce065e05707453ef698d715126ead46f]: Commencement: Reg. 70 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)

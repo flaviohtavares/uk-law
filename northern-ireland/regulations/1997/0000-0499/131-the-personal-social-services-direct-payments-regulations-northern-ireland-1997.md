@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the power conferred on it by Article 15A(1)(*b*), (2), (3) and (8) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-78a2890112c0f8c15ebfd46b4a8a599d]
+## 1. Citation, commencement and interpretation[^c-78a2890112c0f8c15ebfd46b4a8a599d]
 
 (1) These Regulations may be cited as the Personal Social Services (Direct Payments) Regulations (Northern Ireland) 1997 and shall come into operation on 1st April 1997.
 
@@ -49,7 +49,7 @@ The Department of Health and Social Services, in exercise of the power conferred
 - “the Order” means the Health and Personal Social Services (Northern Ireland) Order 1972; and
 - “the 1986 Order” means the Mental Health (Northern Ireland) Order 1986[^f00002].
 
-## 2. Persons to whom direct payments may be made[^key-926af9d8c2c41c51701fe415feaeacdf]
+## 2. Persons to whom direct payments may be made[^c-926af9d8c2c41c51701fe415feaeacdf]
 
 (1) Subject to paragraph (2) a person—
 
@@ -60,7 +60,7 @@ is hereby prescribed for the purposes of Article 15A(1)(*b*) of the Order.
 
 (2) Paragraph (1) does not apply to a person:—
 
-- (a)[^key-ebaad5cb58f9568ce3175e64ffdeae4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ebaad5cb58f9568ce3175e64ffdeae4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) who is required to submit to treatment for his mental condition or for his drug or alcohol dependency by virtue of a requirement of—
   - (i) a probation order within the meaning of section 1 of the Probation Act (Northern Ireland) 1950[^f00004]; or
   - (ii) a combination order within the meaning of Article 15 of the Criminal Justice (Northern Ireland) Order 1996[^f00005];
@@ -71,7 +71,7 @@ is hereby prescribed for the purposes of Article 15A(1)(*b*) of the Order.
 - (e) in respect of whom there is in force a condition imposed in accordance with Article 48(2) or 78(4) (including such a condition which has been varied in accordance with Article 78(5) or 80(3)) of the 1986 Order; or
 - (f) in respect of whom there is in force a supervision and treatment order within the meaning given by Part I of Schedule 2A to the 1986 Order[^f00006].
 
-## 3. Persons from whom services may not be secured by means of a direct payment[^key-b0623654677f690c749a6d8985a4f4d0]
+## 3. Persons from whom services may not be secured by means of a direct payment[^c-b0623654677f690c749a6d8985a4f4d0]
 
 The following persons are prescribed for the purposes of Article 15A(2) of the Order—
 
@@ -88,7 +88,7 @@ The following persons are prescribed for the purposes of Article 15A(2) of the O
 - (d) the spouse of any person specified in sub-paragraph (*c*) who lives in the same household as the payee; and
 - (e) a person who lives with any person specified in sub-paragraph (*c*) as that person’s spouse.
 
-## 4. Maximum period of residential accommodation which may be secured by means of a direct payment[^key-6ce7f26e508e496d205bae02c7a56330]
+## 4. Maximum period of residential accommodation which may be secured by means of a direct payment[^c-6ce7f26e508e496d205bae02c7a56330]
 
 (1) Subject to paragraph (2), the power to make a payment under Article 15A(1) of the Order shall not be exercisable in relation to the provision of residential accommodation for any person for a period in excess of four weeks in any period of twelve months.
 
@@ -116,15 +116,15 @@ Lastly, these Regulations prescribe for the purposes of Article 15A(3) the maxim
 
 [^f00001]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); Article 15A was inserted by Article 3 of the Personal Social Services (Direct Payments) (Northern Ireland) Order 1996 ([S.I. 1996/1923 (N.I. 19)](https://www.legislation.gov.uk/nisi/1996/1923))
 
-[^key-78a2890112c0f8c15ebfd46b4a8a599d]: Commencement: Reg. 1 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/131/regulation/1/1)
+[^c-78a2890112c0f8c15ebfd46b4a8a599d]: Commencement: Reg. 1 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/131/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595); Relevant amending instruments are [S.I. 1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429) and [S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160)
 
-[^key-926af9d8c2c41c51701fe415feaeacdf]: Commencement: Reg. 2 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/131/regulation/1/1)
+[^c-926af9d8c2c41c51701fe415feaeacdf]: Commencement: Reg. 2 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/131/regulation/1/1)
 
 [^f00003]: Footnote: [1978 c. 53](https://www.legislation.gov.uk/ukpga/1978/53); Section 1(1) was amended by Schedule 5 to the Mental Health (Northern Ireland) Order 1986 ([S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595))
 
-[^key-ebaad5cb58f9568ce3175e64ffdeae4a]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/1997/131/regulation/2/2/a) omitted (26.5.2000) by virtue of [The Personal Social Services (Direct Payments) (Amendment) Regulations (Northern Ireland) 2000 (S.R. 2000/114)](https://www.legislation.gov.uk/nisr/2000/114), [regs. 1](https://www.legislation.gov.uk/nisr/2000/114/regulation/1), [2](https://www.legislation.gov.uk/nisr/2000/114/regulation/2)
+[^c-ebaad5cb58f9568ce3175e64ffdeae4a]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/1997/131/regulation/2/2/a) omitted (26.5.2000) by virtue of [The Personal Social Services (Direct Payments) (Amendment) Regulations (Northern Ireland) 2000 (S.R. 2000/114)](https://www.legislation.gov.uk/nisr/2000/114), [regs. 1](https://www.legislation.gov.uk/nisr/2000/114/regulation/1), [2](https://www.legislation.gov.uk/nisr/2000/114/regulation/2)
 
 [^f00004]: Footnote: [1950 c. 7](https://www.legislation.gov.uk/apni/1950/7); Section 1 is prospectively repealed by [S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160) Schedule 7 and replaced by Article 10 thereof
 
@@ -132,6 +132,6 @@ Lastly, these Regulations prescribe for the purposes of Article 15A(3) the maxim
 
 [^f00006]: Footnote: Schedule 2A is prospectively inserted by [S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160) Schedule 4
 
-[^key-b0623654677f690c749a6d8985a4f4d0]: Commencement: Reg. 3 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/131/regulation/1/1)
+[^c-b0623654677f690c749a6d8985a4f4d0]: Commencement: Reg. 3 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/131/regulation/1/1)
 
-[^key-6ce7f26e508e496d205bae02c7a56330]: Commencement: Reg. 4 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/131/regulation/1/1)
+[^c-6ce7f26e508e496d205bae02c7a56330]: Commencement: Reg. 4 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/131/regulation/1/1)

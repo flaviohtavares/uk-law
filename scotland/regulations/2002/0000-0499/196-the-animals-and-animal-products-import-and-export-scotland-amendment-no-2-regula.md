@@ -33,7 +33,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Animals and Animal Products (Import and Export) (Scotland) Amendment (No. 2) Regulations 2002 (revoked)[^key-040b9531d10d1c78d6ea3f866bc00223]
+The Animals and Animal Products (Import and Export) (Scotland) Amendment (No. 2) Regulations 2002 (revoked)[^c-040b9531d10d1c78d6ea3f866bc00223]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 20th April 2002
 
-[^key-040b9531d10d1c78d6ea3f866bc00223]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-040b9531d10d1c78d6ea3f866bc00223]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-040b9531d10d1c78d6ea3f866bc00223]
+## 1. Citation and commencement[^c-040b9531d10d1c78d6ea3f866bc00223]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Animals and Animal Products (Import and Export) (Scotland) Regulations 2000[^key-040b9531d10d1c78d6ea3f866bc00223]
+## 2. Amendment of the Animals and Animal Products (Import and Export) (Scotland) Regulations 2000[^c-040b9531d10d1c78d6ea3f866bc00223]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-040b9531d10d1c78d6ea3f866bc00223]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-040b9531d10d1c78d6ea3f866bc00223]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-040b9531d10d1c78d6ea3f866bc00223]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-040b9531d10d1c78d6ea3f866bc00223]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-040b9531d10d1c78d6ea3f866bc00223]: Textual amendment: Regulations revoked (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2007/194/schedule/10) (with [reg. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2))
+[^c-040b9531d10d1c78d6ea3f866bc00223]: Textual amendment: Regulations revoked (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2007/194/schedule/10) (with [reg. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2))

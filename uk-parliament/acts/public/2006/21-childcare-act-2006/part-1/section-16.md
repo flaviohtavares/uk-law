@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Amendments of Children Act 2004[^key-962baf8ecac1853a1ad46a3c58b017ad]
+## 16. Amendments of Children Act 2004[^c-962baf8ecac1853a1ad46a3c58b017ad]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-962baf8ecac1853a1ad46a3c58b017ad]: Commencement: S. 16 in force at 1.4.2007 by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 3](https://www.legislation.gov.uk/uksi/2007/1019/article/3)
+[^c-962baf8ecac1853a1ad46a3c58b017ad]: Commencement: S. 16 in force at 1.4.2007 by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 3](https://www.legislation.gov.uk/uksi/2007/1019/article/3)

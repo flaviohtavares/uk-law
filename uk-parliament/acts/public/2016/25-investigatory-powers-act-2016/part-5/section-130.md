@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Safeguards relating to disclosure of material overseas[^key-055b619fafcfc7dea31e78d9e9c12160]
+## 130. Safeguards relating to disclosure of material overseas[^c-055b619fafcfc7dea31e78d9e9c12160]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-055b619fafcfc7dea31e78d9e9c12160]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2016/25/section/130) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/o) (with [reg. 24](https://www.legislation.gov.uk/uksi/2018/652/regulation/24))
+[^c-055b619fafcfc7dea31e78d9e9c12160]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2016/25/section/130) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/o) (with [reg. 24](https://www.legislation.gov.uk/uksi/2018/652/regulation/24))

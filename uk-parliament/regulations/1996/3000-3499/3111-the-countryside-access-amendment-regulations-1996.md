@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-The Countryside Access (Amendment) Regulations 1996 (revoked)[^key-02023137ea22444a728e9fe4632f7239]
+The Countryside Access (Amendment) Regulations 1996 (revoked)[^c-02023137ea22444a728e9fe4632f7239]
 
 Made
 
@@ -44,24 +44,24 @@ Coming into force
 
 1st January 1997
 
-[^key-02023137ea22444a728e9fe4632f7239]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02023137ea22444a728e9fe4632f7239]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-02023137ea22444a728e9fe4632f7239]
+## 1. Title, commencement and extent[^c-02023137ea22444a728e9fe4632f7239]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to previous Regulations[^key-02023137ea22444a728e9fe4632f7239]
+## 2. Amendments to previous Regulations[^c-02023137ea22444a728e9fe4632f7239]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02023137ea22444a728e9fe4632f7239]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02023137ea22444a728e9fe4632f7239]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-02023137ea22444a728e9fe4632f7239]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02023137ea22444a728e9fe4632f7239]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-02023137ea22444a728e9fe4632f7239]: Textual amendment: Regulations revoked (1.10.2018) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/908/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2018/908/regulation/2/b)
+[^c-02023137ea22444a728e9fe4632f7239]: Textual amendment: Regulations revoked (1.10.2018) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/908/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2018/908/regulation/2/b)

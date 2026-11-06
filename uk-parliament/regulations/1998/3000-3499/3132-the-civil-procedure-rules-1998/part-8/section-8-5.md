@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8.5. Filing and serving written evidence[^key-db2839aa2b1b5d307734cf841174ea01]
+## 8.5. Filing and serving written evidence[^c-db2839aa2b1b5d307734cf841174ea01]
 
 *Extent: E+W*
 
@@ -24,9 +24,9 @@ summary: ''
 
 (2) The claimant must serve their written evidence on the defendant with the claim form.
 
-(3) A defendant who wishes to rely on written evidence must file it when they file their acknowledgment of service unless the defendant has indicated on their acknowledgement of service an intention to contest jurisdiction, in which case the evidence must be filed within fourteen days of filing the acknowledgment of service if no such application is made[^key-c5f8af0ace927327263059072fcf6310].
+(3) A defendant who wishes to rely on written evidence must file it when they file their acknowledgment of service unless the defendant has indicated on their acknowledgement of service an intention to contest jurisdiction, in which case the evidence must be filed within fourteen days of filing the acknowledgment of service if no such application is made[^c-c5f8af0ace927327263059072fcf6310].
 
-(4) If a defendant files their evidence[^key-ad4cacd1e2f911260b7d182c04e9b353], they must also, at the same time, serve a copy of their evidence on the other parties.
+(4) If a defendant files their evidence[^c-ad4cacd1e2f911260b7d182c04e9b353], they must also, at the same time, serve a copy of their evidence on the other parties.
 
 (5) The claimant may, within 14 days of service of the defendant’s evidence on them, file further written evidence in reply.
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-db2839aa2b1b5d307734cf841174ea01]: Textual amendment: [Rule 8.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.5) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/9/2)
+[^c-db2839aa2b1b5d307734cf841174ea01]: Textual amendment: [Rule 8.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.5) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/9/2)
 
-[^key-c5f8af0ace927327263059072fcf6310]: Textual amendment: Words in [rule 8.5(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.5/3) inserted (1.10.2025) by [The Civil Procedure (Amendment No. 2) Rules 2025 (S.I. 2025/893)](https://www.legislation.gov.uk/uksi/2025/893), [rules 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/893/rule/1/2/b), [5(2)(a)](https://www.legislation.gov.uk/uksi/2025/893/rule/5/2/a)
+[^c-c5f8af0ace927327263059072fcf6310]: Textual amendment: Words in [rule 8.5(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.5/3) inserted (1.10.2025) by [The Civil Procedure (Amendment No. 2) Rules 2025 (S.I. 2025/893)](https://www.legislation.gov.uk/uksi/2025/893), [rules 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/893/rule/1/2/b), [5(2)(a)](https://www.legislation.gov.uk/uksi/2025/893/rule/5/2/a)
 
-[^key-ad4cacd1e2f911260b7d182c04e9b353]: Textual amendment: Words in [rule 8.5(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.5/4) substituted (1.10.2025) by [The Civil Procedure (Amendment No. 2) Rules 2025 (S.I. 2025/893)](https://www.legislation.gov.uk/uksi/2025/893), [rules 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/893/rule/1/2/b), [5(2)(b)](https://www.legislation.gov.uk/uksi/2025/893/rule/5/2/b)
+[^c-ad4cacd1e2f911260b7d182c04e9b353]: Textual amendment: Words in [rule 8.5(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.5/4) substituted (1.10.2025) by [The Civil Procedure (Amendment No. 2) Rules 2025 (S.I. 2025/893)](https://www.legislation.gov.uk/uksi/2025/893), [rules 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/893/rule/1/2/b), [5(2)(b)](https://www.legislation.gov.uk/uksi/2025/893/rule/5/2/b)

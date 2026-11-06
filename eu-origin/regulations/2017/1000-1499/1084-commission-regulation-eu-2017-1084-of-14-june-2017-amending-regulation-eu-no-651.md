@@ -35,20 +35,20 @@ amending Regulation (EU) No 651/2014 as regards aid for port and airport infrast
 
 (Text with EEA relevance) (revoked)
 
-[^key-acc6cd3fe4c2d2769797945777789eac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-acc6cd3fe4c2d2769797945777789eac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-acc6cd3fe4c2d2769797945777789eac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-acc6cd3fe4c2d2769797945777789eac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-acc6cd3fe4c2d2769797945777789eac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-acc6cd3fe4c2d2769797945777789eac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-acc6cd3fe4c2d2769797945777789eac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-acc6cd3fe4c2d2769797945777789eac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-acc6cd3fe4c2d2769797945777789eac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-acc6cd3fe4c2d2769797945777789eac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-acc6cd3fe4c2d2769797945777789eac]
+## ANNEX[^c-acc6cd3fe4c2d2769797945777789eac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-acc6cd3fe4c2d2769797945777789eac]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(u)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/u) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-acc6cd3fe4c2d2769797945777789eac]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(u)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/u) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

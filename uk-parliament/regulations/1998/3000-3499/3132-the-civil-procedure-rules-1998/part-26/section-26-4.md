@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26.4. Directions questionnaire[^key-62406252147bc7fc9cba2c32481e196d]
+## 26.4. Directions questionnaire[^c-62406252147bc7fc9cba2c32481e196d]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ whichever is the sooner.
 - (a) shall serve the notice of proposed allocation before the proceedings are transferred; and
 - (b) shall not transfer the proceedings until all parties have complied with the notice or the time for doing so has expired.
 
-(5) If rule 15.10 [^key-9b6c8c1bc8a2ff72d6042d509caa14e0]... applies, the court shall not serve a notice under rule 26.4(1)[^key-9fcd65207b88f4ca446c6d1ebd2e3b07] until the claimant has filed a notice requiring the proceedings to continue.
+(5) If rule 15.10 [^c-9b6c8c1bc8a2ff72d6042d509caa14e0]... applies, the court shall not serve a notice under rule 26.4(1)[^c-9fcd65207b88f4ca446c6d1ebd2e3b07] until the claimant has filed a notice requiring the proceedings to continue.
 
 (6) If a notice is served under paragraph (1)—
 
@@ -68,7 +68,7 @@ whichever is the sooner.
 - (a) the court shall serve a further notice on that party, requiring them to comply within 7 days; and
 - (b) if that party fails to comply with the notice served under sub-paragraph (a), the party’s statement of case shall be struck out without further order of the court.
 
-(10) If a claim is a claim to which rule 26.2 applies and a party does not comply with the notice served under [^key-002c1bd512fa84bca174bc5395776f12]... paragraph (1) by the date specified, the court may make such order as it considers appropriate, including—
+(10) If a claim is a claim to which rule 26.2 applies and a party does not comply with the notice served under [^c-002c1bd512fa84bca174bc5395776f12]... paragraph (1) by the date specified, the court may make such order as it considers appropriate, including—
 
 - (a) an order for directions;
 - (b) an order striking out the claim;
@@ -83,10 +83,10 @@ whichever is the sooner.
 
 ## Annotations
 
-[^key-62406252147bc7fc9cba2c32481e196d]: Textual amendment: Pt. 26 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/572/schedule/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-62406252147bc7fc9cba2c32481e196d]: Textual amendment: Pt. 26 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/572/schedule/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-9b6c8c1bc8a2ff72d6042d509caa14e0]: Textual amendment: Words in rule 26.4(5) omitted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [16(4)(a)(i)](https://www.legislation.gov.uk/uksi/2023/788/rule/16/4/a/i)
+[^c-9b6c8c1bc8a2ff72d6042d509caa14e0]: Textual amendment: Words in rule 26.4(5) omitted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [16(4)(a)(i)](https://www.legislation.gov.uk/uksi/2023/788/rule/16/4/a/i)
 
-[^key-9fcd65207b88f4ca446c6d1ebd2e3b07]: Textual amendment: Word in rule 26.4(5) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [16(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/788/rule/16/4/a/ii)
+[^c-9fcd65207b88f4ca446c6d1ebd2e3b07]: Textual amendment: Word in rule 26.4(5) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [16(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/788/rule/16/4/a/ii)
 
-[^key-002c1bd512fa84bca174bc5395776f12]: Textual amendment: Word in rule 26.4(10) omitted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [16(4)(b)](https://www.legislation.gov.uk/uksi/2023/788/rule/16/4/b)
+[^c-002c1bd512fa84bca174bc5395776f12]: Textual amendment: Word in rule 26.4(10) omitted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [16(4)(b)](https://www.legislation.gov.uk/uksi/2023/788/rule/16/4/b)

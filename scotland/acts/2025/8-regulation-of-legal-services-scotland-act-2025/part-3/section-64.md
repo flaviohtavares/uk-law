@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Unregulated providers of legal services: register, annual contributions and complaints contributions[^key-0ab523a8fc3debfd20ac316930f86849]
+## 64. Unregulated providers of legal services: register, annual contributions and complaints contributions[^c-0ab523a8fc3debfd20ac316930f86849]
 
 *Extent: S*
 
@@ -111,4 +111,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ab523a8fc3debfd20ac316930f86849]: Commencement: S. 64 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-0ab523a8fc3debfd20ac316930f86849]: Commencement: S. 64 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

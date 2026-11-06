@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Suspension: procedure[^key-e6c917333bed950354504bdbc39ff829]
+## 17. Suspension: procedure[^c-e6c917333bed950354504bdbc39ff829]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6c917333bed950354504bdbc39ff829]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/29/section/17) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/b)
+[^c-e6c917333bed950354504bdbc39ff829]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/29/section/17) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.23. Orders and transfer of cases[^key-17f61f0dc7461a7dcf1481e94bea801e]
+## 3.23. Orders and transfer of cases[^c-17f61f0dc7461a7dcf1481e94bea801e]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ in another sheriff court in the same sheriffdom.
 
 ## Annotations
 
-[^key-17f61f0dc7461a7dcf1481e94bea801e]: Commencement: Rule 3.23 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-17f61f0dc7461a7dcf1481e94bea801e]: Commencement: Rule 3.23 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

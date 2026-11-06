@@ -25,7 +25,7 @@ summary: ''
 - (a) is founded on the same facts or evidence as a count charging an indictable offence; or
 - (b) is part of a series of offences of the same or similar character as an indictable offence which is also charged,
 
-but only if (in either case) the facts or evidence relating to the offence were disclosed in a preliminary[^key-bd38aeda94fce2f84280a643a6b59d5a]... inquiry under the [^m00012] Magistrates' Courts (Northern Ireland) Order 1981.
+but only if (in either case) the facts or evidence relating to the offence were disclosed in a preliminary[^c-bd38aeda94fce2f84280a643a6b59d5a]... inquiry under the [^m00012] Magistrates' Courts (Northern Ireland) Order 1981.
 
 (2) Where a count charging an offence to which this Article applies is included in an indictment, the offence shall be tried in the same manner as if it were an indictable offence; but the Crown Court may only deal with the offender in respect of it in a manner in which a court of summary jurisdiction could have dealt with him.
 
@@ -55,7 +55,7 @@ but only if (in either case) the facts or evidence relating to the offence were 
 
 [^c2177367]: Modification: [Art. 9](https://www.legislation.gov.uk/nisi/1996/1320/article/9) functions of the Secretary of State are transferred to the Department of Justice (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [4(1)(2)](https://www.legislation.gov.uk/uksi/2010/976/article/4/1/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2010/976/schedule/1/paragraph/18) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-bd38aeda94fce2f84280a643a6b59d5a]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/nisi/1996/1320/article/9/1) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 13](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/13); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-bd38aeda94fce2f84280a643a6b59d5a]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/nisi/1996/1320/article/9/1) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 13](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/13); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^m00012]: Marginal citation: 1981 NI 26
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Composition of committees[^key-ad695f302a23ad8d5e35cf0a0f44d8e8]
+## 29. Composition of committees[^c-ad695f302a23ad8d5e35cf0a0f44d8e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad695f302a23ad8d5e35cf0a0f44d8e8]: Textual amendment: S. 29 omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 14](https://www.legislation.gov.uk/ukpga/2017/4/section/14), [71(2)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/b) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
+[^c-ad695f302a23ad8d5e35cf0a0f44d8e8]: Textual amendment: S. 29 omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 14](https://www.legislation.gov.uk/ukpga/2017/4/section/14), [71(2)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/b) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))

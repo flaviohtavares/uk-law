@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 182. Application to court by administrator[^key-edbebee7c4df2227bd703634bd68f004]
+## 182. Application to court by administrator[^c-edbebee7c4df2227bd703634bd68f004]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edbebee7c4df2227bd703634bd68f004]: Commencement: [Rule 182](https://www.legislation.gov.uk/nisr/2026/11/rule/182) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-edbebee7c4df2227bd703634bd68f004]: Commencement: [Rule 182](https://www.legislation.gov.uk/nisr/2026/11/rule/182) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

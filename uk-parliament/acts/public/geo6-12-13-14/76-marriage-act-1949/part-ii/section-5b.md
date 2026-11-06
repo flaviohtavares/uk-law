@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5B. Marriages involving person of acquired gender[^key-d3b3f8767b89ba4b0042ea1844ce1c01]
+## 5B. Marriages involving person of acquired gender[^c-d3b3f8767b89ba4b0042ea1844ce1c01]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3b3f8767b89ba4b0042ea1844ce1c01]: Textual amendment: S. 5B inserted (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2004/7/schedule/4/paragraph/3); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
+[^c-d3b3f8767b89ba4b0042ea1844ce1c01]: Textual amendment: S. 5B inserted (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2004/7/schedule/4/paragraph/3); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)

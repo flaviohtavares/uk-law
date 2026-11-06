@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Secure psychiatric services[^key-93edaac77d5684af3ee5daa2c3aa488d][^c2191273]
+## 16. Secure psychiatric services[^c-93edaac77d5684af3ee5daa2c3aa488d][^c2191273]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93edaac77d5684af3ee5daa2c3aa488d]: Commencement: S. 16 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-93edaac77d5684af3ee5daa2c3aa488d]: Commencement: S. 16 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191273]: Commencement: S. 16 partly in force: s. 16 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

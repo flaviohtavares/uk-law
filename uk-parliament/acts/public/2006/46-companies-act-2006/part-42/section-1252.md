@@ -25,7 +25,7 @@ summary: ''
 (2) The body designated by a delegation order may be either—
 
 - (a) a body corporate which is established by the order, or
-- (b) subject to section 1253, a body (including the competent authority, and whether[^key-e90bbecee9fc55ff917b1d0540416eaa] a body corporate or an unincorporated association) which is already in existence (“an existing body”).
+- (b) subject to section 1253, a body (including the competent authority, and whether[^c-e90bbecee9fc55ff917b1d0540416eaa] a body corporate or an unincorporated association) which is already in existence (“an existing body”).
 
 (3) A delegation order has the effect of making the body designated by the order designated under section 5 of the Freedom of Information Act 2000 (c. 36) (further powers to designate public authorities).
 
@@ -70,6 +70,6 @@ must be subject to the reservation that the function is exercisable only with th
 
 [^c18959571]: Commencement: S. 1252 wholly in force at 6.4.2008; s. 1252 not in force at Royal Assent, see s. 1300; s. 1252 in force for specified purposes at 20.1.2007 by [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/3) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) and with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5)); s. 1252 in force at 6.4.2008 by [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 3(1)(u)](https://www.legislation.gov.uk/uksi/2007/3495/article/3/1/u) (with savings in [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12), [Sch. 4 paras. 37-42](https://www.legislation.gov.uk/uksi/2007/3495/schedule/4/paragraph/37))
 
-[^key-e90bbecee9fc55ff917b1d0540416eaa]: Textual amendment: Words in s. 1252(2)(b) substituted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 39(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/39/2)
+[^c-e90bbecee9fc55ff917b1d0540416eaa]: Textual amendment: Words in s. 1252(2)(b) substituted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 39(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/39/2)
 
 [^c19703671]: Textual amendment: Words in s. 1252(7)(a) substituted (6.4.2008) by [The Statutory Auditors and Third Country Auditors Regulations 2007 (S.I. 2007/3494)](https://www.legislation.gov.uk/uksi/2007/3494), [reg. 12](https://www.legislation.gov.uk/uksi/2007/3494/regulation/12)

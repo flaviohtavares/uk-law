@@ -45,7 +45,7 @@ summary: ''
 
 - (b) the district council if requested by the council to do so[^c16884701];
 - (c) the person (if any) in consequence of whose application or appeal the alteration is made, where not the Department or the district council;
-- (d) except where the alteration is made under Article 50(1)( *a*)(ii) or (iii)[^key-5a33117f0a418fcc576dbd49376653d2] or ( *b*), the occupier of the hereditament, where not the person mentioned in sub-paragraph ( *c*); [^c19661681]. . .
+- (d) except where the alteration is made under Article 50(1)( *a*)(ii) or (iii)[^c-5a33117f0a418fcc576dbd49376653d2] or ( *b*), the occupier of the hereditament, where not the person mentioned in sub-paragraph ( *c*); [^c19661681]. . .
 - (e) where the alteration is made in consequence of an appeal, every other person on whom a copy of the notice of appeal was served who submitted comments or furnished evidence in connection with the appeal and[^c19662631]
 - (f) a water undertaker or sewerage undertaker if it so requests.
 
@@ -69,7 +69,7 @@ summary: ''
 
 [^c16884701]: Textual amendment: [1998 NI 22](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-5a33117f0a418fcc576dbd49376653d2]: Textual amendment: Words in [art. 56(8)(d)](https://www.legislation.gov.uk/nisi/1977/2157/article/56/8/d) substituted (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2009/8/schedule/1/paragraph/6); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
+[^c-5a33117f0a418fcc576dbd49376653d2]: Textual amendment: Words in [art. 56(8)(d)](https://www.legislation.gov.uk/nisi/1977/2157/article/56/8/d) substituted (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2009/8/schedule/1/paragraph/6); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
 
 [^c19661681]: Textual amendment: Word in art. 56(8)(d) repealed (1.4.2007) by [Rates (Amendment) (Northern Ireland) Order 2006 (S.I. 2006/2954 (N.I. 18))](https://www.legislation.gov.uk/nisi/2006/2954), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3), [39](https://www.legislation.gov.uk/nisi/2006/2954/article/39), [41](https://www.legislation.gov.uk/nisi/2006/2954/article/41), [Sch. 2 para. 36(4)(b)](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/36/4/b), [Sch. 3](https://www.legislation.gov.uk/nisi/2006/2954/schedule/3); [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(4)](https://www.legislation.gov.uk/nisr/2006/464/article/2/4)
 

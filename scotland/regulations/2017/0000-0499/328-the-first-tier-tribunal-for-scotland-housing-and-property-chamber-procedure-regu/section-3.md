@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Transitional provision[^key-4c06926e81c4a9c28f6a0f78f5532e6c]
+## 3. Transitional provision[^c-4c06926e81c4a9c28f6a0f78f5532e6c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any application to the First-tier Tribunal for Scotland Housing and Property Cha
 
 ## Annotations
 
-[^key-4c06926e81c4a9c28f6a0f78f5532e6c]: Commencement: Reg. 3 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-4c06926e81c4a9c28f6a0f78f5532e6c]: Commencement: Reg. 3 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)

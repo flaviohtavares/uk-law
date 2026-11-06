@@ -28,7 +28,7 @@ summary: ''
 (2) But such a power may be exercised if the person is convicted—
 
 - (a) of the offence of treason; or
-- (b) of one or more offences under the Official Secrets Acts 1911 to 1989 [^c22152331] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^key-6f797e1bd277215a3655a8df92e9a4ec] for which the person has been sentenced on the same occasion—
+- (b) of one or more offences under the Official Secrets Acts 1911 to 1989 [^c22152331] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^c-6f797e1bd277215a3655a8df92e9a4ec] for which the person has been sentenced on the same occasion—
   - (i) to a term of imprisonment of at least ten years, or
   - (ii) to two or more consecutive terms amounting in the aggregate to at least ten years.
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c22152331]: Marginal citation: Section 16(2) of the [Official Secrets Act 1989 (c. 6)](https://www.legislation.gov.uk/ukpga/1989/6) provides that that Act and the Official Secrets Acts 1911 to 1989 may be cited together as the Official Secrets Acts 1911 to 1989.
 
-[^key-6f797e1bd277215a3655a8df92e9a4ec]: Textual amendment: Words in [reg. 106(2)(b)](https://www.legislation.gov.uk/nisr/2014/188/regulation/106/2/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 35](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/35)
+[^c-6f797e1bd277215a3655a8df92e9a4ec]: Textual amendment: Words in [reg. 106(2)(b)](https://www.legislation.gov.uk/nisr/2014/188/regulation/106/2/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 35](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/35)

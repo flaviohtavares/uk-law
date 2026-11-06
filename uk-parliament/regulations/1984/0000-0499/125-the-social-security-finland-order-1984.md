@@ -50,7 +50,7 @@ And Whereas the Convention has been ratified by the said Governments and the ins
 
 And Whereas by section 143 of the Social Security Act 1975[^f00003] and section 15(1) of the Child Benefit Act 1975[^f00004] it is provided that Her Majesty may by Order in Council make provision for modifying or adapting the said Social Security Act and for modifying the provisions of Part I of the said Child Benefit Act and regulations made under it in their application to cases affected by agreements with other governments providing for reciprocity in matters specified in those sections:
 
-Now, therefore, Her Majesty, in pursuance of the said section 143, and the said section 15(1), and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^key-9c7f61b15928260fc62b7decc1fe041f][^M_C_c0211d8f-ab6d-4067-b91a-dfc544e59545][^M_C_63c601f5-7406-42d6-ae4c-7f5b32c97c12][^M_C_59c46b6f-ae24-450b-a3f9-51f5cc7bea0e][^M_C_bb7f7ba3-dc13-49a9-a547-44f77ebed1ff][^key-ccf8c986bca0130c53b2b0c52bc4752e][^key-80ae84c36dee12d3faaf0311462571fc]
+Now, therefore, Her Majesty, in pursuance of the said section 143, and the said section 15(1), and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^c-9c7f61b15928260fc62b7decc1fe041f][^M_C_c0211d8f-ab6d-4067-b91a-dfc544e59545][^M_C_63c601f5-7406-42d6-ae4c-7f5b32c97c12][^M_C_59c46b6f-ae24-450b-a3f9-51f5cc7bea0e][^M_C_bb7f7ba3-dc13-49a9-a547-44f77ebed1ff][^c-ccf8c986bca0130c53b2b0c52bc4752e][^c-80ae84c36dee12d3faaf0311462571fc]
 
 ## 1. Citation
 
@@ -74,9 +74,9 @@ N.E. Leigh
 
 Clerk of the Privy Council
 
-## SCHEDULE 1[^key-a1a5b63617f76f3ab5a26a06fefedfe2]
+## SCHEDULE 1[^c-a1a5b63617f76f3ab5a26a06fefedfe2]
 
-[^key-a1a5b63617f76f3ab5a26a06fefedfe2](*The provisions inserted or substituted by the amending protocols are shown in italics*.)
+[^c-a1a5b63617f76f3ab5a26a06fefedfe2](*The provisions inserted or substituted by the amending protocols are shown in italics*.)
 
 > CONVENTION ON SOCIAL SECURITY BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF THE REPUBLIC OF FINLAND
 >
@@ -399,9 +399,9 @@ Art. 1(1)(x)-(z) inserted (31.12.1992) by [The Social Security (Finland) Order 1
 
 Art. 2A inserted (31.12.1992) by [The Social Security (Finland) Order 1992 (S.I. 1992/3210)](https://www.legislation.gov.uk/uksi/1992/3210), [art. 2](https://www.legislation.gov.uk/uksi/1992/3210/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/3210/schedule)
 
-## SCHEDULE 2[^key-a1a5b63617f76f3ab5a26a06fefedfe2]
+## SCHEDULE 2[^c-a1a5b63617f76f3ab5a26a06fefedfe2]
 
-[^key-a1a5b63617f76f3ab5a26a06fefedfe2]
+[^c-a1a5b63617f76f3ab5a26a06fefedfe2]
 
 > PROTOCOL CONCERNING HEALTH CARE AND CO-OPERATION IN THE FIELD OF MEDICINE AND PUBLIC HEALTH
 >
@@ -470,7 +470,7 @@ The Convention relates to reciprocity in contributions, sickness and maternity b
 
 [^f00004]: Footnote: Section 15 was amended by section 6(2) of the Social Security Act 1981.
 
-[^key-9c7f61b15928260fc62b7decc1fe041f]: Modification: Instrument modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
+[^c-9c7f61b15928260fc62b7decc1fe041f]: Modification: Instrument modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
 
 [^M_C_c0211d8f-ab6d-4067-b91a-dfc544e59545]: Modification: Instrument modified (11.4.1988) by [The Social Security (Reciprocal Agreements) Order 1988 (S.I. 1988/591)](https://www.legislation.gov.uk/uksi/1988/591), [art. 2](https://www.legislation.gov.uk/uksi/1988/591/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1988/591/schedule)
 
@@ -480,11 +480,11 @@ The Convention relates to reciprocity in contributions, sickness and maternity b
 
 [^M_C_bb7f7ba3-dc13-49a9-a547-44f77ebed1ff]: Modification: Instrument modified (6.4.1987) by [Social Security Act 1986 (1986 c.50)](https://www.legislation.gov.uk/ukpga/1986/50), [art. 18(1)(b)](https://www.legislation.gov.uk/ukpga/1986/50/article/18/1/b)
 
-[^key-ccf8c986bca0130c53b2b0c52bc4752e]: Modification: Order modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
+[^c-ccf8c986bca0130c53b2b0c52bc4752e]: Modification: Order modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
 
-[^key-80ae84c36dee12d3faaf0311462571fc]: Modification: [Order](https://www.legislation.gov.uk/uksi/1984/125) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
+[^c-80ae84c36dee12d3faaf0311462571fc]: Modification: [Order](https://www.legislation.gov.uk/uksi/1984/125) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
 
-[^key-a1a5b63617f76f3ab5a26a06fefedfe2]: Modification: [Schs. 1-2](https://www.legislation.gov.uk/uksi/1984/125/schedule/1) modified (5.12.2005) by [The Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
+[^c-a1a5b63617f76f3ab5a26a06fefedfe2]: Modification: [Schs. 1-2](https://www.legislation.gov.uk/uksi/1984/125/schedule/1) modified (5.12.2005) by [The Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
 
 [^M_F_f5957a12-09d9-4579-9b06-a6ae08e0efcb]: Textual amendment: Art. 1(1)(x)-(z) inserted (31.12.1992) by [The Social Security (Finland) Order 1992 (S.I. 1992/3210)](https://www.legislation.gov.uk/uksi/1992/3210), [art. 2](https://www.legislation.gov.uk/uksi/1992/3210/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/3210/schedule)
 

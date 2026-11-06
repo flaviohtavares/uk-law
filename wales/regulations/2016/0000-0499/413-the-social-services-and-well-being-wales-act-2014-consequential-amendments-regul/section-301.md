@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**301.**[^key-5cd36e2d7852a1f0ccc941de545d6417] For section 86 (children’s homes provided, equipped and maintained by the Welsh Ministers) substitute—
+**301.**[^c-5cd36e2d7852a1f0ccc941de545d6417] For section 86 (children’s homes provided, equipped and maintained by the Welsh Ministers) substitute—
 
 > **86. Children’s homes provided, equipped and maintained by Welsh Ministers or Secretary of State**
 >
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cd36e2d7852a1f0ccc941de545d6417]: Commencement: Reg. 301 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-5cd36e2d7852a1f0ccc941de545d6417]: Commencement: Reg. 301 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

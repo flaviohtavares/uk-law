@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Schedule 5 substituted[^key-b365a7b29ba7b6b47f78adc9477b99ef]
+## 36. Schedule 5 substituted[^c-b365a7b29ba7b6b47f78adc9477b99ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -509,7 +509,7 @@ For Schedule 5 substitute—
 
 ## Annotations
 
-[^key-b365a7b29ba7b6b47f78adc9477b99ef]: Commencement: Art. 36 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-b365a7b29ba7b6b47f78adc9477b99ef]: Commencement: Art. 36 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
 
 [^c24385261]: Marginal citation: ISO 14065:2013 specifies principles and requirements for bodies that undertake validation or verification of greenhouse gas (GHG) assertions. It can be accessed at https://www.iso.org/standard/60168.html. A copy may be inspected at the Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London SW1H 0ET.
 

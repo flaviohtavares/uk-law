@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Electronic balloting[^key-453ae296dabd01f0df7fae6148236696]
+## 73. Electronic balloting[^c-453ae296dabd01f0df7fae6148236696]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-453ae296dabd01f0df7fae6148236696]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2025/36/section/73) in force at 18.2.2026, see [s. 159(2)(j)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/j)
+[^c-453ae296dabd01f0df7fae6148236696]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2025/36/section/73) in force at 18.2.2026, see [s. 159(2)(j)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/j)

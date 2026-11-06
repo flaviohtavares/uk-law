@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Liability of nominated individual[^key-9ade07c7d25b462e0707f6ce1d5c8b6e]
+## 26. Liability of nominated individual[^c-9ade07c7d25b462e0707f6ce1d5c8b6e]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ A also commits the offence.
 
 ## Annotations
 
-[^key-9ade07c7d25b462e0707f6ce1d5c8b6e]: Commencement: S. 26 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-9ade07c7d25b462e0707f6ce1d5c8b6e]: Commencement: S. 26 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

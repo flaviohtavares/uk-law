@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-b025e9b87cf06ef0ef9c9336edc595bf] Subject to subsections (A2) and (A3), this section applies only to a transaction entered into by a Northern Ireland participant before 1 July 2017.
+(A1)[^c-b025e9b87cf06ef0ef9c9336edc595bf] Subject to subsections (A2) and (A3), this section applies only to a transaction entered into by a Northern Ireland participant before 1 July 2017.
 
 (A2) This section does not apply to a transaction entered into before 1 July 2017 which is required to be recorded in a report—
 
@@ -36,7 +36,7 @@ summary: ''
 
 (1) A person who is or has been a member or employee of the Commission must not disclose any information which –
 
-- (a) relates to a transaction to which this section applies[^key-1eb98268a869ee0327d6966ffdcafc36], and
+- (a) relates to a transaction to which this section applies[^c-1eb98268a869ee0327d6966ffdcafc36], and
 - (b) has been obtained by the Commission in the exercise of their functions under this Part,
 
 except in the following cases.
@@ -54,7 +54,7 @@ for the purpose of verifying information given in a Northern Ireland report.
 
 (5) A person who contravenes subsection (1) is guilty of an offence.
 
-(6)[^key-dc85ad7fd9feb8aec7753b7e65d478e3] A person does not contravene subsection (1) if that person discloses information relating to a transaction to which this section applies where—
+(6)[^c-dc85ad7fd9feb8aec7753b7e65d478e3] A person does not contravene subsection (1) if that person discloses information relating to a transaction to which this section applies where—
 
 - (a) the transaction was entered into on or after 1 January 2014 but before 1 July 2017,
 - (b) the Northern Ireland report recording the transaction does not state that the transaction was entered into before 1 July 2017, and
@@ -85,8 +85,8 @@ for the purpose of verifying information given in a Northern Ireland report.
 
 [^c20069971]: Textual amendment: Pt. 4A (ss. 71F-71X) inserted (11.9.2006 for E.W.S. for specified purposes, 1.1.2007 for N.I. for specified purposes, 1.7.2008 for N.I. for specified purposes, 15.9.2014 for N.I. in so far as not already in force) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 61(1)](https://www.legislation.gov.uk/ukpga/2006/22/section/61/1), [77(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2); [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), [art. 3](https://www.legislation.gov.uk/uksi/2006/1972/article/3), [Sch. 1 para. 20(a)](https://www.legislation.gov.uk/uksi/2006/1972/schedule/1/paragraph/20/a) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2006/1972/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1972/schedule/2)) (as substituted by [S.I. 2006/2268](https://www.legislation.gov.uk/uksi/2006/2268), [art. 3](https://www.legislation.gov.uk/uksi/2006/2268/article/3)); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 4](https://www.legislation.gov.uk/uksi/2006/3412/article/4) (subject to [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2)); [S.I. 2008/1656](https://www.legislation.gov.uk/uksi/2008/1656), [art. 2](https://www.legislation.gov.uk/uksi/2008/1656/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2008/1656/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1656/schedule/1)); [S.I. 2014/1809](https://www.legislation.gov.uk/uksi/2014/1809), [art. 2](https://www.legislation.gov.uk/uksi/2014/1809/article/2)
 
-[^key-b025e9b87cf06ef0ef9c9336edc595bf]: Textual amendment: S. 71Z4(A1)-(A4) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/328/article/3/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2018/328/article/12))
+[^c-b025e9b87cf06ef0ef9c9336edc595bf]: Textual amendment: S. 71Z4(A1)-(A4) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/328/article/3/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2018/328/article/12))
 
-[^key-1eb98268a869ee0327d6966ffdcafc36]: Textual amendment: Words in s. 71Z4(1)(a) substituted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2018/328/article/3/3) (with [art. 12](https://www.legislation.gov.uk/uksi/2018/328/article/12))
+[^c-1eb98268a869ee0327d6966ffdcafc36]: Textual amendment: Words in s. 71Z4(1)(a) substituted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2018/328/article/3/3) (with [art. 12](https://www.legislation.gov.uk/uksi/2018/328/article/12))
 
-[^key-dc85ad7fd9feb8aec7753b7e65d478e3]: Textual amendment: S. 71Z4(6)-(9) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2018/328/article/3/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2018/328/article/12))
+[^c-dc85ad7fd9feb8aec7753b7e65d478e3]: Textual amendment: S. 71Z4(6)-(9) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2018/328/article/3/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2018/328/article/12))

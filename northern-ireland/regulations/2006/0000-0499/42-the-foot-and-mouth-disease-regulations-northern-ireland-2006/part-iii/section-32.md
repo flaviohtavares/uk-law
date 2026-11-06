@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Measures applicable in respect of protection zones and surveillance zones[^key-cf3ac9a9d5ce0411a0e52b09acb8a3fe]
+## 32. Measures applicable in respect of protection zones and surveillance zones[^c-cf3ac9a9d5ce0411a0e52b09acb8a3fe]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf3ac9a9d5ce0411a0e52b09acb8a3fe]: Commencement: Reg. 32 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-cf3ac9a9d5ce0411a0e52b09acb8a3fe]: Commencement: Reg. 32 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

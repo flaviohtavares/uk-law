@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.19. Enforcement of court orders[^key-283053fde4f3a0194e7e19d28ed4da12]
+## 7.19. Enforcement of court orders[^c-283053fde4f3a0194e7e19d28ed4da12]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ This applies whether or not the secondary court has jurisdiction to take insolve
 
 ## Annotations
 
-[^key-283053fde4f3a0194e7e19d28ed4da12]: Commencement: [Rule 7.19](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.19) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-283053fde4f3a0194e7e19d28ed4da12]: Commencement: [Rule 7.19](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.19) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

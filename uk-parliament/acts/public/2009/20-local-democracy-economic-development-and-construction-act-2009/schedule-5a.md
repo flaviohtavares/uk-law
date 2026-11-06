@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5A — COMBINED AUTHORITIES: OVERVIEW AND SCRUTINY COMMITTEES AND AUDIT COMMITTEES[^key-32e430c1d73491762033890b7fea3cf4][^key-7328a8cc822e04d0c9ba76eef1586e92]
+## SCHEDULE 5A — COMBINED AUTHORITIES: OVERVIEW AND SCRUTINY COMMITTEES AND AUDIT COMMITTEES[^c-32e430c1d73491762033890b7fea3cf4][^c-7328a8cc822e04d0c9ba76eef1586e92]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 - (b) to make reports or recommendations to the authority with respect to the discharge of any functions that are the responsibility of the authority;
 - (c) to make reports or recommendations to the authority on matters that affect the authority's area or the inhabitants of the area.
 
-(3)[^key-4615d08adc445ce616cdb2534753b4eb][^key-5ca66f5a647f15f3e584394517ed74bb] If the combined authority is a mayoral combined authority, the arrangements must also ensure that the combined authority's overview and scrutiny committee has power (or its overview and scrutiny committees have power between them)—
+(3)[^c-4615d08adc445ce616cdb2534753b4eb][^c-5ca66f5a647f15f3e584394517ed74bb] If the combined authority is a mayoral combined authority, the arrangements must also ensure that the combined authority's overview and scrutiny committee has power (or its overview and scrutiny committees have power between them)—
 
 - (a) to review or scrutinise decisions made, or other action taken, in connection with the discharge by the mayor of any general functions;
 - (b) to make reports or recommendations to the mayor with respect to the discharge of any general functions;
@@ -41,7 +41,7 @@ summary: ''
 - (a) power to direct that a decision is not to be implemented while it is under review or scrutiny by the overview and scrutiny committee, and
 - (b) power to recommend that the decision be reconsidered.
 
-(4A)[^key-e104a9d564162db3766e1ff706e5f3ca] Paragraph 9 of Schedule 5BA makes provision about particular functions of overview and scrutiny committees in relation to commissioners appointed under section 107CA.
+(4A)[^c-e104a9d564162db3766e1ff706e5f3ca] Paragraph 9 of Schedule 5BA makes provision about particular functions of overview and scrutiny committees in relation to commissioners appointed under section 107CA.
 
 (5) An overview and scrutiny committee of a combined authority must publish details of how it proposes to exercise its powers in relation to the review and scrutiny of decisions made but not yet implemented and its arrangements in connection with the exercise of those powers.
 
@@ -88,7 +88,7 @@ summary: ''
 (2) Provision under sub-paragraph (1) may in particular include provision—
 
 - (a) about the membership of an overview and scrutiny committee and the voting rights of such members;
-- (aa)[^key-7e94a99e44a040362ea6259fb47f1cde] about the payment of allowances to members of such a committee who are members of a constituent council;
+- (aa)[^c-7e94a99e44a040362ea6259fb47f1cde] about the payment of allowances to members of such a committee who are members of a constituent council;
 - (b) about the person who is to be chair of such a committee;
 - (c) for the appointment of a person to act as a scrutiny officer of an overview and scrutiny committee;
 - (d) about how and by whom matters may be referred to an overview and scrutiny committee;
@@ -142,22 +142,22 @@ summary: ''
 
 - (a) the membership of a combined authority's audit committee;
 - (b) the appointment of the members;
-- (c)[^key-7b5afdfb12bdec9fce727d09b2957701] the payment of allowances to members of the committee who are members of a constituent council (within the meaning of paragraph 3).
+- (c)[^c-7b5afdfb12bdec9fce727d09b2957701] the payment of allowances to members of the committee who are members of a constituent council (within the meaning of paragraph 3).
 
 (4) Provision must be made under sub-paragraph (3) so as to ensure that at least one member of an audit committee is an independent person (as defined by the order).
 
 ## Annotations
 
-[^key-32e430c1d73491762033890b7fea3cf4]: Modification: [Sch. 5A](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5A) applied (with modifications) (2.11.2018) by [The Newcastle Upon Tyne, North Tyneside and Northumberland Combined Authority (Establishment and Functions) Order 2018 (S.I. 2018/1133)](https://www.legislation.gov.uk/uksi/2018/1133), [art. 1](https://www.legislation.gov.uk/uksi/2018/1133/article/1), [Sch. 2 para. 4(5)](https://www.legislation.gov.uk/uksi/2018/1133/schedule/2/paragraph/4/5) (with [art. 28](https://www.legislation.gov.uk/uksi/2018/1133/article/28))
+[^c-32e430c1d73491762033890b7fea3cf4]: Modification: [Sch. 5A](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5A) applied (with modifications) (2.11.2018) by [The Newcastle Upon Tyne, North Tyneside and Northumberland Combined Authority (Establishment and Functions) Order 2018 (S.I. 2018/1133)](https://www.legislation.gov.uk/uksi/2018/1133), [art. 1](https://www.legislation.gov.uk/uksi/2018/1133/article/1), [Sch. 2 para. 4(5)](https://www.legislation.gov.uk/uksi/2018/1133/schedule/2/paragraph/4/5) (with [art. 28](https://www.legislation.gov.uk/uksi/2018/1133/article/28))
 
-[^key-7328a8cc822e04d0c9ba76eef1586e92]: Textual amendment: Sch. 5A inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/1/schedule/3)
+[^c-7328a8cc822e04d0c9ba76eef1586e92]: Textual amendment: Sch. 5A inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/1/schedule/3)
 
-[^key-4615d08adc445ce616cdb2534753b4eb]: Modification: [Sch. 5A para. 1(3)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5A/paragraph/1/3) applied (with modifications) by S.I. 2017/469, Sch. 1 para. 4 (as inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [9](https://www.legislation.gov.uk/uksi/2020/641/article/9))
+[^c-4615d08adc445ce616cdb2534753b4eb]: Modification: [Sch. 5A para. 1(3)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5A/paragraph/1/3) applied (with modifications) by S.I. 2017/469, Sch. 1 para. 4 (as inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [9](https://www.legislation.gov.uk/uksi/2020/641/article/9))
 
-[^key-5ca66f5a647f15f3e584394517ed74bb]: Modification: [Sch. 5A para. 1(3)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5A/paragraph/1/3) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/7)
+[^c-5ca66f5a647f15f3e584394517ed74bb]: Modification: [Sch. 5A para. 1(3)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5A/paragraph/1/3) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/7)
 
-[^key-e104a9d564162db3766e1ff706e5f3ca]: Textual amendment: [Sch. 5A para. 1(4A)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5A/paragraph/1/4A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 9(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/9/6), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-e104a9d564162db3766e1ff706e5f3ca]: Textual amendment: [Sch. 5A para. 1(4A)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5A/paragraph/1/4A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 9(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/9/6), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-7e94a99e44a040362ea6259fb47f1cde]: Textual amendment: [Sch. 5A para. 3(2)(aa)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5A/paragraph/3/2/aa) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/70/1/a), [255(2)(j)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/j) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-7e94a99e44a040362ea6259fb47f1cde]: Textual amendment: [Sch. 5A para. 3(2)(aa)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5A/paragraph/3/2/aa) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/70/1/a), [255(2)(j)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/j) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-7b5afdfb12bdec9fce727d09b2957701]: Textual amendment: [Sch. 5A para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5A/paragraph/4/3/c) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 70(1)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/70/1/b), [255(2)(j)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/j) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-7b5afdfb12bdec9fce727d09b2957701]: Textual amendment: [Sch. 5A para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5A/paragraph/4/3/c) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 70(1)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/70/1/b), [255(2)(j)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/j) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

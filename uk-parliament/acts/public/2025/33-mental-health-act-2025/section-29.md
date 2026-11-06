@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Detention periods[^key-8272f1a61ad59d32dee7e3440a589e33]
+## 29. Detention periods[^c-8272f1a61ad59d32dee7e3440a589e33]
 
 *Extent: E+W+S+N.I.*
 
@@ -136,4 +136,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8272f1a61ad59d32dee7e3440a589e33]: Commencement: S. 29 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-8272f1a61ad59d32dee7e3440a589e33]: Commencement: S. 29 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

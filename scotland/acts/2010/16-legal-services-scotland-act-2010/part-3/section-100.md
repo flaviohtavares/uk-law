@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Ministerial intervention[^key-fc355b45c569136a4248d23d8a9546fd]
+## 100. Ministerial intervention[^c-fc355b45c569136a4248d23d8a9546fd]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc355b45c569136a4248d23d8a9546fd]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2010/16/section/100) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-fc355b45c569136a4248d23d8a9546fd]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2010/16/section/100) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**286.**[^key-ab3075f3b47d45151c422b6fc060217c] Omit paragraph 50 of Schedule 5 to the Health and Social Care Act 2012 (amendment to section 24C(2) of the Children Act 1989).
+**286.**[^c-ab3075f3b47d45151c422b6fc060217c] Omit paragraph 50 of Schedule 5 to the Health and Social Care Act 2012 (amendment to section 24C(2) of the Children Act 1989).
 
 ## Annotations
 
-[^key-ab3075f3b47d45151c422b6fc060217c]: Commencement: Reg. 286 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-ab3075f3b47d45151c422b6fc060217c]: Commencement: Reg. 286 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**30.**[^key-ccd48344db3d820d19d723097198e0e6] In paragraph 3—
+**30.**[^c-ccd48344db3d820d19d723097198e0e6] In paragraph 3—
 
 - (a) in sub-paragraph (2), in the substituted section 3(1) of the 1972 Act, for “a magistrates’ court” substitute “the family court”; and
 - (b) in sub-paragraph (5), in the substituted section 3(6E), for “a magistrates’ court” substitute “the family court”.
 
 ## Annotations
 
-[^key-ccd48344db3d820d19d723097198e0e6]: Commencement: Art. 30 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-ccd48344db3d820d19d723097198e0e6]: Commencement: Art. 30 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

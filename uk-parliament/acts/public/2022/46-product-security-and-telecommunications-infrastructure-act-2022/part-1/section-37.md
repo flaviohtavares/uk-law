@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Determining the amount of a penalty[^key-1ad4c4eaad2591c3a13413bd83f2cd6d][^key-202e32b7afd8128f7da0d35da5e342af]
+## 37. Determining the amount of a penalty[^c-1ad4c4eaad2591c3a13413bd83f2cd6d][^c-202e32b7afd8128f7da0d35da5e342af]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1ad4c4eaad2591c3a13413bd83f2cd6d]: Commencement: S. 37 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-1ad4c4eaad2591c3a13413bd83f2cd6d]: Commencement: S. 37 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-202e32b7afd8128f7da0d35da5e342af]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/46/section/37) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-202e32b7afd8128f7da0d35da5e342af]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/46/section/37) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

@@ -33,7 +33,7 @@ of 21 June 1989
 
 laying down common marketing standards for preserved sardines and trade descriptions for preserved sardines and sardine-type products[^c000001]
 
-[^key-2daf466dcc6ae1e2e95bbab96d8982c4]
+[^c-2daf466dcc6ae1e2e95bbab96d8982c4]
 
 THE COUNCIL OF THE EUROPEAN COMMUNITIES,
 
@@ -59,7 +59,7 @@ Whereas the Commission should have responsibility for the adoption of any techni
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** This Regulation defines the standards governing the marketing of preserved sardines and the trade descriptions for preserved sardines and preserved sardine-type products marketed in the United Kingdom[^key-33d6e20d4049cf337811144ccc6278eb].
+**Article 1.** This Regulation defines the standards governing the marketing of preserved sardines and the trade descriptions for preserved sardines and preserved sardine-type products marketed in the United Kingdom[^c-33d6e20d4049cf337811144ccc6278eb].
 
 **Article 1a.**[^c000002] For the purposes of this Regulation:
 
@@ -148,7 +148,7 @@ These covering media may be mixed, but olive oil may not be mixed with other oil
   By way of derogation from Article 2, second indent at point (b) of this Article, preparations using homogenized sardine flesh, involving the disappearance of its muscular structure, may contain the flesh of other fish which have undergone the same treatment provided that the proportion of sardines is at least 25 %.
 - ((d)) The trade description, as defined in this Article, shall be reserved for the products referred to in Article 2.
 
-**Article 7a.** 1. Without prejudice to Directive 2000/13/EC, preserved sardine-type products may be marketed in the United Kingdom[^key-135ff0793fc9bb500ac22f1cccda7084] under a trade description consisting of the word ‘sardines’ joined together with the scientific name of the species and the geographic area where the species was caught.
+**Article 7a.** 1. Without prejudice to Directive 2000/13/EC, preserved sardine-type products may be marketed in the United Kingdom[^c-135ff0793fc9bb500ac22f1cccda7084] under a trade description consisting of the word ‘sardines’ joined together with the scientific name of the species and the geographic area where the species was caught.
 
 2. Wherever the trade description provided for in paragraph 1 is marked on the container of a preserved sardine-type product, it shall be displayed in a clear and distinct manner.
 
@@ -158,11 +158,11 @@ These covering media may be mixed, but olive oil may not be mixed with other oil
 
 5. Only one species shall be marketed under a single trade description.
 
-**Article 8.**[^key-98536cb7c7dde8478bb01ad0cbe0c583] A fisheries administration may make regulations in relation to the application of this Regulation, in particular the sampling plan for assessing conformity of manufacturing batches with the requirements of this Regulation.
+**Article 8.**[^c-98536cb7c7dde8478bb01ad0cbe0c583] A fisheries administration may make regulations in relation to the application of this Regulation, in particular the sampling plan for assessing conformity of manufacturing batches with the requirements of this Regulation.
 
 Article 43 of Regulation (EU) No 1379/2013 applies in relation to regulations made under this Article in the same way that it applies to regulations made under that Regulation.
 
-**Article 9.**[^key-89bc441f33c99c0a5f596af3d712d9e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-89bc441f33c99c0a5f596af3d712d9e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
@@ -170,7 +170,7 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EC) No 1181/2003 of 2 July 2003 amending Council Regulation (EEC) No 2136/89 laying down common marketing standards for preserved sardines](https://www.legislation.gov.uk/eur/2003/1181).
 
-[^key-2daf466dcc6ae1e2e95bbab96d8982c4]: Modification: Regulation applied (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-2daf466dcc6ae1e2e95bbab96d8982c4]: Modification: Regulation applied (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00001]: Footnote: [OJ No L 379, 31. 12. 1981, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1981.379.01.0001.01.ENG).
 
@@ -184,7 +184,7 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^f00006]: Footnote: [OJ No L 311, 4. 11. 1978, p. 21](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1978.311.01.0021.01.ENG).
 
-[^key-33d6e20d4049cf337811144ccc6278eb]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/1989/2136/article/1) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [22(2)](https://www.legislation.gov.uk/uksi/2019/739/regulation/22/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-33d6e20d4049cf337811144ccc6278eb]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/1989/2136/article/1) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [22(2)](https://www.legislation.gov.uk/uksi/2019/739/regulation/22/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000002]: Textual amendment: Inserted by [Commission Regulation (EC) No 1181/2003 of 2 July 2003 amending Council Regulation (EEC) No 2136/89 laying down common marketing standards for preserved sardines](https://www.legislation.gov.uk/eur/2003/1181).
 
@@ -192,8 +192,8 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^c000004]: Textual amendment: Inserted by [Commission Regulation (EC) No 1345/2008 of 23 December 2008 amending Council Regulation (EEC) No 2136/89 laying down common marketing standards for preserved sardines and trade descriptions for preserved sardines and sardine-type products](https://www.legislation.gov.uk/eur/2008/1345).
 
-[^key-135ff0793fc9bb500ac22f1cccda7084]: Textual amendment: Words in [Art. 7a](https://www.legislation.gov.uk/eur/1989/2136/article/7a) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [22(3)](https://www.legislation.gov.uk/uksi/2019/739/regulation/22/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-135ff0793fc9bb500ac22f1cccda7084]: Textual amendment: Words in [Art. 7a](https://www.legislation.gov.uk/eur/1989/2136/article/7a) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [22(3)](https://www.legislation.gov.uk/uksi/2019/739/regulation/22/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-98536cb7c7dde8478bb01ad0cbe0c583]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/1989/2136/article/8) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [35(2)](https://www.legislation.gov.uk/uksi/2019/753/regulation/35/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-98536cb7c7dde8478bb01ad0cbe0c583]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/1989/2136/article/8) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [35(2)](https://www.legislation.gov.uk/uksi/2019/753/regulation/35/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-89bc441f33c99c0a5f596af3d712d9e3]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/1989/2136/article/9) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [22(4)](https://www.legislation.gov.uk/uksi/2019/739/regulation/22/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-89bc441f33c99c0a5f596af3d712d9e3]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/1989/2136/article/9) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [22(4)](https://www.legislation.gov.uk/uksi/2019/739/regulation/22/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -31,8 +31,8 @@ summary: ''
 - (b) require the vehicle to be taken to the nearest suitable and available weighing or measuring equipment;
 - (c) require the person in charge of the vehicle to have it check-weighed.
 
-(3) The powers conferred by subsection (2) above shall be exercised only to such extent as may appear to the inspector reasonably necessary in order to secure that the provisions of this Act [^key-715569c7783787d1c90504b8e3774131]... and of any instrument made under those provisions are duly observed.
+(3) The powers conferred by subsection (2) above shall be exercised only to such extent as may appear to the inspector reasonably necessary in order to secure that the provisions of this Act [^c-715569c7783787d1c90504b8e3774131]... and of any instrument made under those provisions are duly observed.
 
 ## Annotations
 
-[^key-715569c7783787d1c90504b8e3774131]: Textual amendment: Words in [s. 40(3)](https://www.legislation.gov.uk/ukpga/1985/72/section/40/3) omitted (6.4.2006) by virtue of [The Weights and Measures (Packaged Goods) Regulations 2006 (S.I. 2006/659)](https://www.legislation.gov.uk/uksi/2006/659), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/659/regulation/1/1), [Sch. 1 Pt. 2(5)](https://www.legislation.gov.uk/uksi/2006/659/schedule/1/part/2/5) (with [reg. 21](https://www.legislation.gov.uk/uksi/2006/659/regulation/21))
+[^c-715569c7783787d1c90504b8e3774131]: Textual amendment: Words in [s. 40(3)](https://www.legislation.gov.uk/ukpga/1985/72/section/40/3) omitted (6.4.2006) by virtue of [The Weights and Measures (Packaged Goods) Regulations 2006 (S.I. 2006/659)](https://www.legislation.gov.uk/uksi/2006/659), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/659/regulation/1/1), [Sch. 1 Pt. 2(5)](https://www.legislation.gov.uk/uksi/2006/659/schedule/1/part/2/5) (with [reg. 21](https://www.legislation.gov.uk/uksi/2006/659/regulation/21))

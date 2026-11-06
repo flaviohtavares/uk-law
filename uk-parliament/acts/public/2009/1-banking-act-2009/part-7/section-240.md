@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Meetings[^key-282a4b461df29f5281f9b7379f4dd0b5]
+## 240. Meetings[^c-282a4b461df29f5281f9b7379f4dd0b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-282a4b461df29f5281f9b7379f4dd0b5]: Commencement: S. 240 in force at 1.6.2009 by [S.I. 2009/1296](https://www.legislation.gov.uk/uksi/2009/1296), [art. 2](https://www.legislation.gov.uk/uksi/2009/1296/article/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/1296/schedule/paragraph/3)
+[^c-282a4b461df29f5281f9b7379f4dd0b5]: Commencement: S. 240 in force at 1.6.2009 by [S.I. 2009/1296](https://www.legislation.gov.uk/uksi/2009/1296), [art. 2](https://www.legislation.gov.uk/uksi/2009/1296/article/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/1296/schedule/paragraph/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 835. Relief for delayed remittances[^key-a01fd9c8ce4ec326255841ba2447547f]
+## 835. Relief for delayed remittances[^c-a01fd9c8ce4ec326255841ba2447547f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a01fd9c8ce4ec326255841ba2447547f]: Textual amendment: [Ss. 833-837](https://www.legislation.gov.uk/ukpga/2005/5/section/833) omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/54)
+[^c-a01fd9c8ce4ec326255841ba2447547f]: Textual amendment: [Ss. 833-837](https://www.legislation.gov.uk/ukpga/2005/5/section/833) omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/54)

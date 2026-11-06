@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.4. Notice, etc. to solicitors[^key-b1b7efcebdd2f96d22eb723b40abf2eb]
+## 13.4. Notice, etc. to solicitors[^c-b1b7efcebdd2f96d22eb723b40abf2eb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where under the Act or the Rules a notice or other document is required or autho
 
 ## Annotations
 
-[^key-b1b7efcebdd2f96d22eb723b40abf2eb]: Commencement: Rule 13.4 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b1b7efcebdd2f96d22eb723b40abf2eb]: Commencement: Rule 13.4 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

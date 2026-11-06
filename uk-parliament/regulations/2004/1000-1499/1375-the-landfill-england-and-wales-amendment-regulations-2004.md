@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION, ENGLAND AND WALES
 
-The Landfill (England and Wales) (Amendment) Regulations 2004 (revoked)[^key-52d0ba6d0d402341a266d06d668313c7]
+The Landfill (England and Wales) (Amendment) Regulations 2004 (revoked)[^c-52d0ba6d0d402341a266d06d668313c7]
 
 Made
 
@@ -52,60 +52,60 @@ for all other purposes
 
 16th July 2005
 
-[^key-52d0ba6d0d402341a266d06d668313c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52d0ba6d0d402341a266d06d668313c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-52d0ba6d0d402341a266d06d668313c7]
+## 1. Citation, commencement and extent[^c-52d0ba6d0d402341a266d06d668313c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-52d0ba6d0d402341a266d06d668313c7]
+## 2. Interpretation[^c-52d0ba6d0d402341a266d06d668313c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the 2002 Regulations[^key-52d0ba6d0d402341a266d06d668313c7]
+## 3. Amendment of the 2002 Regulations[^c-52d0ba6d0d402341a266d06d668313c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Part 1 (Preliminary)[^key-52d0ba6d0d402341a266d06d668313c7]
+## 4. Amendment of Part 1 (Preliminary)[^c-52d0ba6d0d402341a266d06d668313c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Part II (Landfill Permits)[^key-52d0ba6d0d402341a266d06d668313c7]
+## 5. Amendment of Part II (Landfill Permits)[^c-52d0ba6d0d402341a266d06d668313c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Substitution of Schedule 1 (Waste acceptance criteria)[^key-52d0ba6d0d402341a266d06d668313c7]
+## 6. Substitution of Schedule 1 (Waste acceptance criteria)[^c-52d0ba6d0d402341a266d06d668313c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of Schedule 3 (Minimum monitoring procedures for landfills)[^key-52d0ba6d0d402341a266d06d668313c7]
+## 7. Amendment of Schedule 3 (Minimum monitoring procedures for landfills)[^c-52d0ba6d0d402341a266d06d668313c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Schedule 4 (Transitional Provisions)[^key-52d0ba6d0d402341a266d06d668313c7]
+## 8. Amendment of Schedule 4 (Transitional Provisions)[^c-52d0ba6d0d402341a266d06d668313c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the 2000 Regulations[^key-52d0ba6d0d402341a266d06d668313c7]
+## 9. Amendment of the 2000 Regulations[^c-52d0ba6d0d402341a266d06d668313c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52d0ba6d0d402341a266d06d668313c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52d0ba6d0d402341a266d06d668313c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Amendment to Schedule 1of the 2002 Regulations[^key-52d0ba6d0d402341a266d06d668313c7]
+## SCHEDULE — Amendment to Schedule 1of the 2002 Regulations[^c-52d0ba6d0d402341a266d06d668313c7]
 
 Regulation 6
 
-**1.**[^key-52d0ba6d0d402341a266d06d668313c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-52d0ba6d0d402341a266d06d668313c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-52d0ba6d0d402341a266d06d668313c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52d0ba6d0d402341a266d06d668313c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-52d0ba6d0d402341a266d06d668313c7]: Textual amendment: Regulations revoked (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
+[^c-52d0ba6d0d402341a266d06d668313c7]: Textual amendment: Regulations revoked (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))

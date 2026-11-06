@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Payment of grants and loans[^key-84270b09d7ce3925789f615da641300b]
+## 33. Payment of grants and loans[^c-84270b09d7ce3925789f615da641300b]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84270b09d7ce3925789f615da641300b]: Commencement: Reg. 33 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-84270b09d7ce3925789f615da641300b]: Commencement: Reg. 33 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)

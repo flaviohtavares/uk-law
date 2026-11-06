@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Power to amend law relating to local freedoms[^key-3b0ce99c4f22684269cba12b6da91f7b]
+## 28. Power to amend law relating to local freedoms[^c-3b0ce99c4f22684269cba12b6da91f7b]
 
 *Extent: E+W*
 
@@ -179,4 +179,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b0ce99c4f22684269cba12b6da91f7b]: Commencement: S. 28 in force at 12.1.2010, see s. 148(1)(d)
+[^c-3b0ce99c4f22684269cba12b6da91f7b]: Commencement: S. 28 in force at 12.1.2010, see s. 148(1)(d)

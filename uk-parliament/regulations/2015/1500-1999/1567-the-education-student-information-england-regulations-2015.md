@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 253A(1) and 262(3) of the Apprenticeships, Skills, Children and Learning Act 2009[^f00001].
 
-## 1. Citation, commencement and application[^key-89b5781198856553f4fd1ec9628007da]
+## 1. Citation, commencement and application[^c-89b5781198856553f4fd1ec9628007da]
 
 (1) These Regulations may be cited as the Education (Student Information) (England) Regulations 2015 and come into force on 1st September 2015.
 
 (2) These Regulations apply in relation to student information which may be provided by a person in England only.
 
-## 2. Interpretation[^key-13c8dceb9046a3ed0ccfa78e03514b7e]
+## 2. Interpretation[^c-13c8dceb9046a3ed0ccfa78e03514b7e]
 
 (1) In these Regulations—
 
@@ -78,7 +78,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (e) where the student is a child looked after by a local authority (within the meaning of section 22(1) of the Children Act 1989), that local authority;
 - (f) where the information relates to a student or former student of a school which is not maintained by a local authority, the local authority for the area in which the school is situated.
 
-## 3. Prescribed circumstances[^key-38244175cfc4995a317c6253e3af3602]
+## 3. Prescribed circumstances[^c-38244175cfc4995a317c6253e3af3602]
 
 (1) The following circumstances are prescribed for the purposes of section 253A(1) of the 2009 Act—
 
@@ -102,7 +102,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (h) the Further Education Commissioner; and
 - (i) the Sixth-Form Commissioner.
 
-## 4. Prescribed student information[^key-00211e6980cb106119795e883affc9a0]
+## 4. Prescribed student information[^c-00211e6980cb106119795e883affc9a0]
 
 The following description of student information is prescribed for the purposes of section 253A(1) of the 2009 Act—
 
@@ -110,7 +110,7 @@ The following description of student information is prescribed for the purposes 
 - (b) in the case of a student who is or was undertaking a 16 to 19 Study Programme, the information listed in Part 2 of Schedule 1; and
 - (c) in the case of any student, the information listed in Part 3 of Schedule 1.
 
-## 5. Prescribed Persons and prescribed categories of person[^key-a7844e2ad8765908b24421436396683a]
+## 5. Prescribed Persons and prescribed categories of person[^c-a7844e2ad8765908b24421436396683a]
 
 The following persons and categories of person are prescribed for the purposes of section 253A(1) of the 2009 Act—
 
@@ -131,7 +131,7 @@ Regulation 4
 
 ### PART 1 — Student information: Fourth key stage
 
-**1.**[^key-0ea80b509da2debcf982036c84b50c7b] (1) In the case of each student, the following information—
+**1.**[^c-0ea80b509da2debcf982036c84b50c7b] (1) In the case of each student, the following information—
 
 - (a) the student’s gender, date of birth, and surname followed by first name or, if there are more than one, each forename;
 - (b) the date of the student’s admission to the institution;
@@ -155,7 +155,7 @@ Regulation 4
 
 ### PART 2 — Student information: 16 to 19 Study Programmes
 
-**1.**[^key-f975293011629c5f0caf4109269c2733] (1) The number of registered students aged 16, 17, 18 or 19 who, during the reporting information year or any of the information years preceding that year, were entered for a relevant entry level or level 1, 2, 3 qualification[^f00015] approved under section 98 of the 2000 Act for the purposes of section 96 of that Act.
+**1.**[^c-f975293011629c5f0caf4109269c2733] (1) The number of registered students aged 16, 17, 18 or 19 who, during the reporting information year or any of the information years preceding that year, were entered for a relevant entry level or level 1, 2, 3 qualification[^f00015] approved under section 98 of the 2000 Act for the purposes of section 96 of that Act.
 
 (2) In the case of each registered student aged 16, 17, 18 or 19, the following information—
 
@@ -176,25 +176,25 @@ Regulation 4
 
 ### PART 3 — Student information: general
 
-**1.**[^key-f367607dfecff9fc22fe436739530c64] The name, address and telephone number of the educational institution, work-based learning provider or the learning provider attended by the student.
+**1.**[^c-f367607dfecff9fc22fe436739530c64] The name, address and telephone number of the educational institution, work-based learning provider or the learning provider attended by the student.
 
-**2.**[^key-87ee43994bc43aa1f60c95d5af28db23] The number of students—
+**2.**[^c-87ee43994bc43aa1f60c95d5af28db23] The number of students—
 
 - (a) enrolled or registered with the educational institution or learning provider at the start of the spring term of the reporting information year; or
 - (b) undertaking work with the work-based learning provider at the start of the spring term of the reporting information year.
 
-**3.**[^key-89cd5e06c68cd7ebbb8982bdeffad6c2] The age range of the students enrolled or registered at the educational institution or learning provider or undertaking work with the work-based learning provider in the reporting information year.
+**3.**[^c-89cd5e06c68cd7ebbb8982bdeffad6c2] The age range of the students enrolled or registered at the educational institution or learning provider or undertaking work with the work-based learning provider in the reporting information year.
 
-**4.**[^key-7dd5f630650ee59b841da3b29589ece8] The number of students enrolled or registered at the educational institution or learning provider or undertaking work with the work-based learning provider aged 16, 17, 18 or 19 in the reporting information year.
+**4.**[^c-7dd5f630650ee59b841da3b29589ece8] The number of students enrolled or registered at the educational institution or learning provider or undertaking work with the work-based learning provider aged 16, 17, 18 or 19 in the reporting information year.
 
-**5.**[^key-c30b8024800897fd69475f33468eed2d] The classification of the provider as a—
+**5.**[^c-c30b8024800897fd69475f33468eed2d] The classification of the provider as a—
 
 - (a) further education institution;
 - (b) 16 to 19 Academy;
 - (c) work-based learning provider; or
 - (d) learning provider.
 
-**6.**[^key-e7ce87a588a1020c059ab2949e759597] The numbers of male and female students enrolled or registered with the educational institution or learning provider or undertaking work with the work-based learning provider in the reporting information year.
+**6.**[^c-e7ce87a588a1020c059ab2949e759597] The numbers of male and female students enrolled or registered with the educational institution or learning provider or undertaking work with the work-based learning provider in the reporting information year.
 
 ## SCHEDULE 2 — Prescribed persons and prescribed categories of person
 
@@ -204,15 +204,15 @@ Regulation 5
 
 #### CHAPTER 1 — Prescribed Persons
 
-**1.**[^key-6f62ac55f5885957ba5a6a8585016630] (1) the Joint Council for Qualifications;
+**1.**[^c-6f62ac55f5885957ba5a6a8585016630] (1) the Joint Council for Qualifications;
 
 (2) the Office for Standards in Education, Children’s Services and Skills;
 
 (3) Her Majesty’s Chief Inspector of Education and Training in Wales[^f00016];
 
-(4) the Office for Students[^key-43660d1a7d11b590471a390a407ba475];
+(4) the Office for Students[^c-43660d1a7d11b590471a390a407ba475];
 
-(5) the Commission for Tertiary Education and Research[^key-47aae334f7369728a7e80f29bcdc431e];
+(5) the Commission for Tertiary Education and Research[^c-47aae334f7369728a7e80f29bcdc431e];
 
 (6) a relevant local authority;
 
@@ -245,15 +245,15 @@ Regulation 5
 
 (17) the Office of Qualifications and Examinations Regulation;
 
-(18) the Further Education Commissioner; [^key-023f9d77274e074b3302ee0cbb727e15]...
+(18) the Further Education Commissioner; [^c-023f9d77274e074b3302ee0cbb727e15]...
 
-(19) the Sixth-Form Commissioner ; and[^key-88121ea075c24a921f3c8708691eb824]
+(19) the Sixth-Form Commissioner ; and[^c-88121ea075c24a921f3c8708691eb824]
 
 (20) Qualifications Wales.
 
 #### CHAPTER 2 — Prescribed categories of person
 
-**2.**[^key-7e07c47b2ab0d2703ca82fb60048760d] (1) institutions within the further education sector or 16 to 19 Academies;
+**2.**[^c-7e07c47b2ab0d2703ca82fb60048760d] (1) institutions within the further education sector or 16 to 19 Academies;
 
 (2) work-based learning providers;
 
@@ -271,7 +271,7 @@ and who require student information for that purpose.
 
 #### CHAPTER 1 — Prescribed Persons
 
-**1.**[^key-66f31a91a711b8dea958894293f34ee9] (1) the Joint Council for Qualifications;
+**1.**[^c-66f31a91a711b8dea958894293f34ee9] (1) the Joint Council for Qualifications;
 
 (2) the Office for Standards in Education, Children’s Services and Skills;
 
@@ -300,7 +300,7 @@ and who require student information for that purpose.
 
 #### CHAPTER 2 — Prescribed categories of person
 
-**2.**[^key-a2ce378f6abfa85678d0b5d6818ab9f2] (1) institutions within the further education sector or 16 to 19 Academies;
+**2.**[^c-a2ce378f6abfa85678d0b5d6818ab9f2] (1) institutions within the further education sector or 16 to 19 Academies;
 
 (2) work-based learning providers; and
 
@@ -322,9 +322,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22). Section 253A was inserted by section 79 of the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26). For the definitions of ‘prescribed’ and ‘regulations’ see section 264(1) of the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22).
 
-[^key-89b5781198856553f4fd1ec9628007da]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-89b5781198856553f4fd1ec9628007da]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
-[^key-13c8dceb9046a3ed0ccfa78e03514b7e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1567/regulation/2) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-13c8dceb9046a3ed0ccfa78e03514b7e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1567/regulation/2) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
 [^f00002]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
@@ -336,7 +336,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00006]: Footnote: [2010 c. 32](https://www.legislation.gov.uk/ukpga/2010/32). Section 4(3) was amended by section 57(1) and (3) of, and paragraphs 1 and 2 of Schedule 13 to, the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21).
 
-[^key-38244175cfc4995a317c6253e3af3602]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1567/regulation/3) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-38244175cfc4995a317c6253e3af3602]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1567/regulation/3) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
 [^f00007]: Footnote: “the fourth key stage” is defined in section 82(1)(d) of the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32).
 
@@ -346,11 +346,11 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00010]: Footnote: The Office of Qualifications and Examinations Regulation is a Non-Ministerial Department established under section 127 of the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22).
 
-[^key-00211e6980cb106119795e883affc9a0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1567/regulation/4) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-00211e6980cb106119795e883affc9a0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1567/regulation/4) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
-[^key-a7844e2ad8765908b24421436396683a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1567/regulation/5) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-a7844e2ad8765908b24421436396683a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1567/regulation/5) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
-[^key-0ea80b509da2debcf982036c84b50c7b]: Commencement: [Sch. 1 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/1/paragraph/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-0ea80b509da2debcf982036c84b50c7b]: Commencement: [Sch. 1 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/1/paragraph/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
 [^f00011]: Footnote: Section 324(1) of the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56) provides for the making and maintaining by a local authority of a statement of special educational needs in respect of a child. Section 324(1) was repealed in relation to England but remains in force by virtue of Article 11 Children and Families Act 2014 (Transitional and Saving Provisions) (No.2) Order 2014 ([S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270)).
 
@@ -360,29 +360,29 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00014]: Footnote: “a relevant qualification” is defined in section 96(5) of the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21). Sub-section (5) was substituted, for sub-sections (5)–(7) as originally enacted, by sections 174 and 192 of, and paragraphs 26 and 27(1) and (4) of Schedule 12 to, the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22).
 
-[^key-f975293011629c5f0caf4109269c2733]: Commencement: [Sch. 1 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/2/paragraph/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-f975293011629c5f0caf4109269c2733]: Commencement: [Sch. 1 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/2/paragraph/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
 [^f00015]: Footnote: “Entry level”, “level 1, 2 and 3” qualifications are provided for by Annex E of the Regulatory Arrangements for the Qualifications and Credit Framework, published in August 2008, and available at the following link: https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/371294/2008-08-15-regulatory-arrangements-qcf-august08.pdf
 
-[^key-f367607dfecff9fc22fe436739530c64]: Commencement: [Sch. 1 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/3/paragraph/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-f367607dfecff9fc22fe436739530c64]: Commencement: [Sch. 1 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/3/paragraph/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
-[^key-87ee43994bc43aa1f60c95d5af28db23]: Commencement: [Sch. 1 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/3/paragraph/2) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-87ee43994bc43aa1f60c95d5af28db23]: Commencement: [Sch. 1 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/3/paragraph/2) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
-[^key-89cd5e06c68cd7ebbb8982bdeffad6c2]: Commencement: [Sch. 1 Pt. 3 para. 3](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/3/paragraph/3) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-89cd5e06c68cd7ebbb8982bdeffad6c2]: Commencement: [Sch. 1 Pt. 3 para. 3](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/3/paragraph/3) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
-[^key-7dd5f630650ee59b841da3b29589ece8]: Commencement: [Sch. 1 Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/3/paragraph/4) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-7dd5f630650ee59b841da3b29589ece8]: Commencement: [Sch. 1 Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/3/paragraph/4) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
-[^key-c30b8024800897fd69475f33468eed2d]: Commencement: [Sch. 1 Pt. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/3/paragraph/5) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-c30b8024800897fd69475f33468eed2d]: Commencement: [Sch. 1 Pt. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/3/paragraph/5) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
-[^key-e7ce87a588a1020c059ab2949e759597]: Commencement: [Sch. 1 Pt. 3 para. 6](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/3/paragraph/6) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-e7ce87a588a1020c059ab2949e759597]: Commencement: [Sch. 1 Pt. 3 para. 6](https://www.legislation.gov.uk/uksi/2015/1567/schedule/1/part/3/paragraph/6) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
-[^key-6f62ac55f5885957ba5a6a8585016630]: Commencement: [Sch. 2 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/part/1/paragraph/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-6f62ac55f5885957ba5a6a8585016630]: Commencement: [Sch. 2 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/part/1/paragraph/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
 [^f00016]: Footnote: Her Majesty’s Chief Inspector of Education and Training in Wales is appointed by Order in Council under section 19 of the Education Act [2005 (c.18)](https://www.legislation.gov.uk/ukpga/2005/18).
 
-[^key-43660d1a7d11b590471a390a407ba475]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/part/1/paragraph/1/4) substituted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [38](https://www.legislation.gov.uk/uksi/2019/1027/regulation/38)
+[^c-43660d1a7d11b590471a390a407ba475]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/part/1/paragraph/1/4) substituted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [38](https://www.legislation.gov.uk/uksi/2019/1027/regulation/38)
 
-[^key-47aae334f7369728a7e80f29bcdc431e]: Textual amendment: Words in [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/paragraph/1/5) substituted (1.8.2024) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Regulations 2024 (S.I. 2024/803)](https://www.legislation.gov.uk/wsi/2024/803), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/803/regulation/1/2), [10(2)](https://www.legislation.gov.uk/wsi/2024/803/regulation/10/2)
+[^c-47aae334f7369728a7e80f29bcdc431e]: Textual amendment: Words in [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/paragraph/1/5) substituted (1.8.2024) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Regulations 2024 (S.I. 2024/803)](https://www.legislation.gov.uk/wsi/2024/803), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/803/regulation/1/2), [10(2)](https://www.legislation.gov.uk/wsi/2024/803/regulation/10/2)
 
 [^f00019]: Footnote: The Student Loans Company Limited is a company limited by shares registered in England No. 2401034.
 
@@ -390,12 +390,12 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00021]: Footnote: The Higher Education Statistics Agency is a company limited by guarantee registered in England No. 2766993.
 
-[^key-023f9d77274e074b3302ee0cbb727e15]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 1(18)](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/part/1/paragraph/1/18) revoked (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/uksi/2016/236), [regs. 1](https://www.legislation.gov.uk/uksi/2016/236/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2016/236/regulation/20/a)
+[^c-023f9d77274e074b3302ee0cbb727e15]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 1(18)](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/part/1/paragraph/1/18) revoked (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/uksi/2016/236), [regs. 1](https://www.legislation.gov.uk/uksi/2016/236/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2016/236/regulation/20/a)
 
-[^key-88121ea075c24a921f3c8708691eb824]: Textual amendment: [Sch. 2 Pt. 1 para. 1(20)](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/part/1/paragraph/1/20) and word added (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/uksi/2016/236), [regs. 1](https://www.legislation.gov.uk/uksi/2016/236/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2016/236/regulation/20/b)
+[^c-88121ea075c24a921f3c8708691eb824]: Textual amendment: [Sch. 2 Pt. 1 para. 1(20)](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/part/1/paragraph/1/20) and word added (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/uksi/2016/236), [regs. 1](https://www.legislation.gov.uk/uksi/2016/236/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2016/236/regulation/20/b)
 
-[^key-7e07c47b2ab0d2703ca82fb60048760d]: Commencement: [Sch. 2 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/part/1/paragraph/2) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-7e07c47b2ab0d2703ca82fb60048760d]: Commencement: [Sch. 2 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/part/1/paragraph/2) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
-[^key-66f31a91a711b8dea958894293f34ee9]: Commencement: [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/part/2/paragraph/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-66f31a91a711b8dea958894293f34ee9]: Commencement: [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/part/2/paragraph/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
 
-[^key-a2ce378f6abfa85678d0b5d6818ab9f2]: Commencement: [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/part/2/paragraph/2) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)
+[^c-a2ce378f6abfa85678d0b5d6818ab9f2]: Commencement: [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/1567/schedule/2/part/2/paragraph/2) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1567/regulation/1/1)

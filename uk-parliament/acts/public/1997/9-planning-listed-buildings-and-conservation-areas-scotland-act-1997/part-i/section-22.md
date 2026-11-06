@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Procedure for section 21 orders: opposed cases.[^key-16306ca2bec90d4974391646a0dd5106][^key-0481d14bae1c8a1056cb3179ae30282c]
+## 22. Procedure for section 21 orders: opposed cases.[^c-16306ca2bec90d4974391646a0dd5106][^c-0481d14bae1c8a1056cb3179ae30282c]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) the owner of the building affected,
 - (b) the lessee of that building,
 - (c) the occupier of that building, and
-- (ca)[^key-d61ed27752fd78da60d7e169724d34c1] Historic Environment Scotland,
+- (ca)[^c-d61ed27752fd78da60d7e169724d34c1] Historic Environment Scotland,
 - (cb) such other persons as may be prescribed,
 - (d) any other person who in their opinion will be affected by the order.
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-16306ca2bec90d4974391646a0dd5106]: Modification: [S. 22](https://www.legislation.gov.uk/ukpga/1997/9/section/22) savings for effects of 2014 asp 19, Sch. 3 para. 10 (1.10.2015) by [The Historic Environment Scotland Act 2014 (Saving, Transitional and Consequential Provisions) Order 2015 (S.S.I. 2015/239)](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [18](https://www.legislation.gov.uk/ssi/2015/239/article/18)
+[^c-16306ca2bec90d4974391646a0dd5106]: Modification: [S. 22](https://www.legislation.gov.uk/ukpga/1997/9/section/22) savings for effects of 2014 asp 19, Sch. 3 para. 10 (1.10.2015) by [The Historic Environment Scotland Act 2014 (Saving, Transitional and Consequential Provisions) Order 2015 (S.S.I. 2015/239)](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [18](https://www.legislation.gov.uk/ssi/2015/239/article/18)
 
-[^key-0481d14bae1c8a1056cb3179ae30282c]: Modification: Ss. 6-25 applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
+[^c-0481d14bae1c8a1056cb3179ae30282c]: Modification: Ss. 6-25 applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
 
-[^key-d61ed27752fd78da60d7e169724d34c1]: Textual amendment: [S. 22(2)(ca)](https://www.legislation.gov.uk/ukpga/1997/9/section/22/2/ca)[(cb)](https://www.legislation.gov.uk/ukpga/1997/9/section/22/2/cb) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 10](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/10) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
+[^c-d61ed27752fd78da60d7e169724d34c1]: Textual amendment: [S. 22(2)(ca)](https://www.legislation.gov.uk/ukpga/1997/9/section/22/2/ca)[(cb)](https://www.legislation.gov.uk/ukpga/1997/9/section/22/2/cb) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 10](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/10) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)

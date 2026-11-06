@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by paragraph 8(1)(d) of Schedule 8 to the Protection of Freedoms Act 2012[^f00001].
 
-## 1. Citation, commencement, extent and interpretation[^key-f8f12018bdab7646df305371e4800a4b]
+## 1. Citation, commencement, extent and interpretation[^c-f8f12018bdab7646df305371e4800a4b]
 
 (1) This Order may be cited as the Disclosure and Barring Service (Core Functions) Order 2012 and comes into force on 1st December 2012.
 
@@ -56,7 +56,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (3) In this Order “the 1997 Act” means the Police Act 1997[^f00002].
 
-## 2. Core functions under Part 5 of the Police Act 1997[^key-44a84c18af80a332371f551497cfddb8]
+## 2. Core functions under Part 5 of the Police Act 1997[^c-44a84c18af80a332371f551497cfddb8]
 
 The following functions are specified as core functions of the Disclosure and Barring Service[^f00003] under Part 5 of the 1997 Act for the purposes of Schedule 8 to the Protection of Freedoms Act 2012—
 
@@ -64,9 +64,9 @@ The following functions are specified as core functions of the Disclosure and Ba
 - (b) determining the conditions on which an application under section 113A or 113B of the 1997 Act can be transmitted electronically (in accordance with sections 113A(2A) and 113B(2A) of the 1997 Act;
 - (c) the identification of the relevant chief officer under section 113B(9) of the 1997 Act;
 - (d) imposing any conditions concerning information to be provided in relation to a request for update information under section 116A(2)[^f00006] of the 1997 Act;
-- (e)[^key-a645cbeca82c6a5339b7810a752b5d74] handling any disputes raised under section 117 of the 1997 Act, except for any disputes raised in relation to the accuracy of information contained in a criminal conviction certificate within the meaning of section 112 of the 1997 Act;
-- (f)[^key-40d26630dc040f1c3f4f5466633b4caf] verifying identity under section 118 of the 1997 Act, except in relation to an application for a criminal conviction certificate within the meaning of section 112 of the 1997 Act;
-- (g)[^key-b92dfdb8e137a1f0805a3eb3856d37c8] receiving information under section 119(1) of the 1997 Act, other than information made available for the purpose of carrying out functions under Part 5 of the 1997 Act relating to an application for a criminal conviction certificate within the meaning of section 112 of the 1997 Act;
+- (e)[^c-a645cbeca82c6a5339b7810a752b5d74] handling any disputes raised under section 117 of the 1997 Act, except for any disputes raised in relation to the accuracy of information contained in a criminal conviction certificate within the meaning of section 112 of the 1997 Act;
+- (f)[^c-40d26630dc040f1c3f4f5466633b4caf] verifying identity under section 118 of the 1997 Act, except in relation to an application for a criminal conviction certificate within the meaning of section 112 of the 1997 Act;
+- (g)[^c-b92dfdb8e137a1f0805a3eb3856d37c8] receiving information under section 119(1) of the 1997 Act, other than information made available for the purpose of carrying out functions under Part 5 of the 1997 Act relating to an application for a criminal conviction certificate within the meaning of section 112 of the 1997 Act;
 - (h) requiring information from the chief officer of police under section 119(1B)[^f00010] of the 1997 Act;
 - (i) paying such fee as the Secretary of State considers appropriate under section 119(3)[^f00011] of the 1997 Act;
 - (j) receiving information under section 119(4)[^f00012] of the 1997 Act for the purposes of considering any application for registration, any application mentioned in section 116A(4)(a) or (5)(a), or the determination of whether a person should continue to be a registered person;
@@ -95,11 +95,11 @@ These functions include decision-making about what information needs to be submi
 
 [^f00001]: Footnote: [2012 c. 9](https://www.legislation.gov.uk/ukpga/2012/9).
 
-[^key-f8f12018bdab7646df305371e4800a4b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/2522/article/1) in force at 1.12.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2522/article/1/1)
+[^c-f8f12018bdab7646df305371e4800a4b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/2522/article/1) in force at 1.12.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2522/article/1/1)
 
 [^f00002]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
-[^key-44a84c18af80a332371f551497cfddb8]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/2522/article/2) in force at 1.12.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2522/article/1/1)
+[^c-44a84c18af80a332371f551497cfddb8]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/2522/article/2) in force at 1.12.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2522/article/1/1)
 
 [^f00003]: Footnote: The Disclosure and Barring Service was established by section 87(1) of the Protection of Freedoms Act 2012.
 
@@ -109,11 +109,11 @@ These functions include decision-making about what information needs to be submi
 
 [^f00006]: Footnote: Section 116A was inserted by section 83 of the Protection of Freedoms Act 2012.
 
-[^key-a645cbeca82c6a5339b7810a752b5d74]: Textual amendment: [Art. 2(e)](https://www.legislation.gov.uk/uksi/2012/2522/article/2/e) substituted (10.3.2014) by [The Disclosure and Barring Service (Core Functions) (Amendment) Order 2014 (S.I. 2014/238)](https://www.legislation.gov.uk/uksi/2014/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/238/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/238/article/2/2/a)
+[^c-a645cbeca82c6a5339b7810a752b5d74]: Textual amendment: [Art. 2(e)](https://www.legislation.gov.uk/uksi/2012/2522/article/2/e) substituted (10.3.2014) by [The Disclosure and Barring Service (Core Functions) (Amendment) Order 2014 (S.I. 2014/238)](https://www.legislation.gov.uk/uksi/2014/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/238/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/238/article/2/2/a)
 
-[^key-40d26630dc040f1c3f4f5466633b4caf]: Textual amendment: [Art. 2(f)](https://www.legislation.gov.uk/uksi/2012/2522/article/2/f) substituted (10.3.2014) by [The Disclosure and Barring Service (Core Functions) (Amendment) Order 2014 (S.I. 2014/238)](https://www.legislation.gov.uk/uksi/2014/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/238/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/238/article/2/2/b)
+[^c-40d26630dc040f1c3f4f5466633b4caf]: Textual amendment: [Art. 2(f)](https://www.legislation.gov.uk/uksi/2012/2522/article/2/f) substituted (10.3.2014) by [The Disclosure and Barring Service (Core Functions) (Amendment) Order 2014 (S.I. 2014/238)](https://www.legislation.gov.uk/uksi/2014/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/238/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/238/article/2/2/b)
 
-[^key-b92dfdb8e137a1f0805a3eb3856d37c8]: Textual amendment: [Art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2522/article/2/g) substituted (10.3.2014) by [The Disclosure and Barring Service (Core Functions) (Amendment) Order 2014 (S.I. 2014/238)](https://www.legislation.gov.uk/uksi/2014/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/238/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/238/article/2/2/c)
+[^c-b92dfdb8e137a1f0805a3eb3856d37c8]: Textual amendment: [Art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2522/article/2/g) substituted (10.3.2014) by [The Disclosure and Barring Service (Core Functions) (Amendment) Order 2014 (S.I. 2014/238)](https://www.legislation.gov.uk/uksi/2014/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/238/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/238/article/2/2/c)
 
 [^f00010]: Footnote: Section 119(1B) was inserted by section 63 of, and paragraph 14 of Schedule 9 to, the Safeguarding Vulnerable Groups Act 2006.
 

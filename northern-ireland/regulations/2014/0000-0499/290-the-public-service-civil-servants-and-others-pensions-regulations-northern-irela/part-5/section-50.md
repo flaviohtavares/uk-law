@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Closure of deferred member’s account after gap in pensionable service not exceeding 5 years[^key-dc03a66317f30e6b0213700c2170d4ec]
+## 50. Closure of deferred member’s account after gap in pensionable service not exceeding 5 years[^c-dc03a66317f30e6b0213700c2170d4ec]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc03a66317f30e6b0213700c2170d4ec]: Commencement: [Reg. 50](https://www.legislation.gov.uk/nisr/2014/290/regulation/50) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-dc03a66317f30e6b0213700c2170d4ec]: Commencement: [Reg. 50](https://www.legislation.gov.uk/nisr/2014/290/regulation/50) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

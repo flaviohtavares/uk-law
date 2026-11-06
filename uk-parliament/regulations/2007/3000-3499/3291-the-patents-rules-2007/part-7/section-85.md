@@ -22,7 +22,7 @@ summary: ''
 
 (1) The conditions prescribed for the purposes of making an order for security for costs under section 107(4) are that the party against whom the order is made—
 
-- (a) is resident outside the United Kingdom [^key-1480e815da0b65c592e6ece269a566d8]...;
+- (a) is resident outside the United Kingdom [^c-1480e815da0b65c592e6ece269a566d8]...;
 - (b) is a company or other body (whether incorporated inside or outside the United Kingdom) and there is reason to believe that it will be unable to pay another party's costs if ordered to do so;
 - (c) has changed his address for service with a view to evading the consequences of the litigation;
 - (d) has furnished an incorrect address for service; or
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1480e815da0b65c592e6ece269a566d8]: Textual amendment: Words in [rule 85(1)](https://www.legislation.gov.uk/uksi/2007/3291/rule/85/1) omitted (31.12.2020) by virtue of [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1480e815da0b65c592e6ece269a566d8]: Textual amendment: Words in [rule 85(1)](https://www.legislation.gov.uk/uksi/2007/3291/rule/85/1) omitted (31.12.2020) by virtue of [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

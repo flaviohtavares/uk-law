@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Articles 5(4) and 218(1) of the Road Traffic (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, and in accordance with Article 19C(3) of that Order with the approval of the Department of Finance and Personnel, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-0d6c512ea6ce5df7e2581b0156c1ca5d]
+## 1. Citation and commencement[^c-0d6c512ea6ce5df7e2581b0156c1ca5d]
 
 These Regulations may be cited as the Motor Vehicles (Driving Licences) (Amendment) (Test Fees) Regulations (Northern Ireland) 1996 and shall come into operation on 3rd June 1996.
 
-## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1994[^key-1dc586ff23abc6d04071fe4b05fe9354]
+## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1994[^c-1dc586ff23abc6d04071fe4b05fe9354]
 
 For regulation 15 (fees in respect of tests) of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1994[^f00002] there shall be substituted—
 
@@ -100,8 +100,8 @@ In the case of a test for all types of vehicles, except a motor cycle, which is 
 
 [^f00001]: Footnote: S.I. [1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2(2) for the definition of “Department” and “prescribed”; Articles 5 and 19C were substituted by Sch. 1 to [S.I. 1991/197 (N.I. 3)](https://www.legislation.gov.uk/nisi/1991/197)
 
-[^key-0d6c512ea6ce5df7e2581b0156c1ca5d]: Commencement: Reg. 1 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/141/regulation/1)
+[^c-0d6c512ea6ce5df7e2581b0156c1ca5d]: Commencement: Reg. 1 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/141/regulation/1)
 
-[^key-1dc586ff23abc6d04071fe4b05fe9354]: Commencement: Reg. 2 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/141/regulation/1)
+[^c-1dc586ff23abc6d04071fe4b05fe9354]: Commencement: Reg. 2 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/141/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1994 No. 365](https://www.legislation.gov.uk/nisr/1994/365) as amended by [S.R. 1995 No. 152](https://www.legislation.gov.uk/nisr/1995/152)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Power to amend section 6 of the Land Registers (Scotland) Act 1868[^key-2c28022f96d5dacee7360caeaff573e9]
+## 38. Power to amend section 6 of the Land Registers (Scotland) Act 1868[^c-2c28022f96d5dacee7360caeaff573e9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ If, under section 37(3)(a), the Scottish Ministers amend this Act, they may, in 
 
 ## Annotations
 
-[^key-2c28022f96d5dacee7360caeaff573e9]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2012/5/section/38) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-2c28022f96d5dacee7360caeaff573e9]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2012/5/section/38) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

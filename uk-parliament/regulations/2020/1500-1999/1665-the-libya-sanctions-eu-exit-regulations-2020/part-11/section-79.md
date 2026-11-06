@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Restrictions on exercise of maritime enforcement powers[^key-0ca782ba16ff9e64ac46a740f07f3ec2]
+## 79. Restrictions on exercise of maritime enforcement powers[^c-0ca782ba16ff9e64ac46a740f07f3ec2]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ca782ba16ff9e64ac46a740f07f3ec2]: Commencement: Reg. 79 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-0ca782ba16ff9e64ac46a740f07f3ec2]: Commencement: Reg. 79 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
 
 [^c24412161]: Marginal citation: Command 8941.

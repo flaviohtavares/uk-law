@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State for the Environment, Transport and the Regions, in exercise of the powers conferred on him by sections 64(3) and 65(4) of the Local Government Finance Act 1988[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation, commencement and extent[^key-aeb96443a76d9afcd490d15f9aeb9ba9]
+## 1. Citation, commencement and extent[^c-aeb96443a76d9afcd490d15f9aeb9ba9]
 
 These Regulations, which extend to England only, may be cited as the Non-Domestic Rating (Telecommunications Apparatus) (England) Regulations 2000 and shall come into force on 1st October 2000.
 
-## 2. Interpretation[^key-2e5810a5e20f7e11281d56748b62c2f7]
+## 2. Interpretation[^c-2e5810a5e20f7e11281d56748b62c2f7]
 
 In these Regulations—
 
@@ -71,7 +71,7 @@ In these Regulations—
 
   and for the purposes of determining whether a hereditament is occupied exclusively by telecommunications apparatus, the presence on the site of, and of accommodation for, personnel for the sole purpose of maintaining, repairing, operating or safeguarding that apparatus shall be disregarded.
 
-## 3. Treatment of telecommunications apparatus[^key-902fb8e7991f02cc823d9a8ee7776527]
+## 3. Treatment of telecommunications apparatus[^c-902fb8e7991f02cc823d9a8ee7776527]
 
 (1) This paragraph applies to telecommunications apparatus, other then excepted apparatus, which is—
 
@@ -102,12 +102,12 @@ Regulation 2 contains definitions, and regulation 3 provides that telecommunicat
 
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). There are amendments to these provisions which are not relevant to these Regulations. This power is devolved, so far as exercisable in relation to Wales, to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)); *see* the reference to the Local Government Finance Act 1988 in Schedule 1.
 
-[^key-aeb96443a76d9afcd490d15f9aeb9ba9]: Commencement: Reg. 1 in force at 1.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2421/regulation/1)
+[^c-aeb96443a76d9afcd490d15f9aeb9ba9]: Commencement: Reg. 1 in force at 1.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2421/regulation/1)
 
-[^key-2e5810a5e20f7e11281d56748b62c2f7]: Commencement: Reg. 2 in force at 1.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2421/regulation/1)
+[^c-2e5810a5e20f7e11281d56748b62c2f7]: Commencement: Reg. 2 in force at 1.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2421/regulation/1)
 
 [^f00002]: Footnote: [1949 c. 54](https://www.legislation.gov.uk/ukpga/1949/54).
 
 [^f00003]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12).
 
-[^key-902fb8e7991f02cc823d9a8ee7776527]: Commencement: Reg. 3 in force at 1.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2421/regulation/1)
+[^c-902fb8e7991f02cc823d9a8ee7776527]: Commencement: Reg. 3 in force at 1.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2421/regulation/1)

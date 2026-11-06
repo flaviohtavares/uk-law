@@ -33,10 +33,10 @@ summary: ''
 
 of 1 October 1976 laying down additional provisions concerning surveys to determine the production potential of plantations of certain species of fruit trees to be made by Member States (revoked)
 
-[^key-9164f216afdc0a25a8218f9efa07daeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9164f216afdc0a25a8218f9efa07daeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-9164f216afdc0a25a8218f9efa07daeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-9164f216afdc0a25a8218f9efa07daeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9164f216afdc0a25a8218f9efa07daeb]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/1)
+[^c-9164f216afdc0a25a8218f9efa07daeb]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/1)

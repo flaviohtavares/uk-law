@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Amendments to Title 2, Chapter 7[^key-8809f1581726c457a9e63dc98a618995]
+## 17. Amendments to Title 2, Chapter 7[^c-8809f1581726c457a9e63dc98a618995]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8809f1581726c457a9e63dc98a618995]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-8809f1581726c457a9e63dc98a618995]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)

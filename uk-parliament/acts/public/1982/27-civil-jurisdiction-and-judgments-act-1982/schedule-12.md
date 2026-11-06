@@ -58,7 +58,7 @@ Sections 15(4), 23(2) and 36(6).
 
 #### Magistrates’ Courts Act 1980 (c. 43)
 
-**7.**[^key-4e94bf276b63ed9f12574d1c1f338ba0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4e94bf276b63ed9f12574d1c1f338ba0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Magistrates’ Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I. 26))
 
@@ -187,4 +187,4 @@ Sections 15(4), 23(2) and 36(6).
 
 [^M_F_ae9814e7-7b25-47cb-9c15-6cd9bc0913c8]: Textual amendment: Sch. 12 Pt. 1 para. 3 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-4e94bf276b63ed9f12574d1c1f338ba0]: Textual amendment: Sch. 12 para. 7 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-4e94bf276b63ed9f12574d1c1f338ba0]: Textual amendment: Sch. 12 para. 7 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

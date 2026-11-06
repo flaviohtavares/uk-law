@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18.[^key-cb42e28a748d09cb25ec56af56d1eb22]
+## 18.[^c-cb42e28a748d09cb25ec56af56d1eb22]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ For Article 12, substitute—
 >
 > **1.**
 >
-> Within seven months from the date of publication of the Food Safety Authority's opinion, the appropriate authority must, by prescribing an update of the list, authorise the placing on the market within Great Britain *(Extent: E+W+S)*[^key-b44ed9fc9e138bc200b1cd5fc7508761] of a novel food, taking into account the following—
+> Within seven months from the date of publication of the Food Safety Authority's opinion, the appropriate authority must, by prescribing an update of the list, authorise the placing on the market within Great Britain *(Extent: E+W+S)*[^c-b44ed9fc9e138bc200b1cd5fc7508761] of a novel food, taking into account the following—
 >
 > - (a) the conditions provided for in points (a) and (b) of Article 7 and, where applicable, in point (c) of that Article;
 > - (b) any relevant provision of retained direct EU legislation, including the precautionary principle as referred to in Article 7 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178);
@@ -41,6 +41,6 @@ For Article 12, substitute—
 
 ## Annotations
 
-[^key-cb42e28a748d09cb25ec56af56d1eb22]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-cb42e28a748d09cb25ec56af56d1eb22]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b44ed9fc9e138bc200b1cd5fc7508761]: Textual amendment: Words in reg. 18 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/15/5)
+[^c-b44ed9fc9e138bc200b1cd5fc7508761]: Textual amendment: Words in reg. 18 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/15/5)

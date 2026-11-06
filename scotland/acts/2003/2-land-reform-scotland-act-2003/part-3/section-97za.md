@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97ZA. Meaning of creditor in standard security with right to sell[^key-4b69b0fd66a6db466ddc0fd248714252]
+## 97ZA. Meaning of creditor in standard security with right to sell[^c-4b69b0fd66a6db466ddc0fd248714252]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Any reference in this Part to a creditor in a standard security with a right to 
 
 ## Annotations
 
-[^key-4b69b0fd66a6db466ddc0fd248714252]: Textual amendment: [S. 97ZA](https://www.legislation.gov.uk/asp/2003/2/section/97ZA) inserted (24.2.2021) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 73](https://www.legislation.gov.uk/asp/2015/6/section/73), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))
+[^c-4b69b0fd66a6db466ddc0fd248714252]: Textual amendment: [S. 97ZA](https://www.legislation.gov.uk/asp/2003/2/section/97ZA) inserted (24.2.2021) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 73](https://www.legislation.gov.uk/asp/2015/6/section/73), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))

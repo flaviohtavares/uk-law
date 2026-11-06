@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Providers of search services: duties of care[^key-abec211f99c2bb2052a865c3b1a93538][^key-5cc496e489c35da6f46c7619080fd876]
+## 24. Providers of search services: duties of care[^c-abec211f99c2bb2052a865c3b1a93538][^c-5cc496e489c35da6f46c7619080fd876]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-abec211f99c2bb2052a865c3b1a93538]: Commencement: S. 24 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-abec211f99c2bb2052a865c3b1a93538]: Commencement: S. 24 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-5cc496e489c35da6f46c7619080fd876]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2023/50/section/24) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)
+[^c-5cc496e489c35da6f46c7619080fd876]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2023/50/section/24) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)

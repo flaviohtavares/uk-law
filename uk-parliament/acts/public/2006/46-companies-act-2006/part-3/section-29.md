@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Resolutions and agreements affecting a company's constitution[^key-8fa0d23e131c9d0a3cd49964bf56d1b1][^key-0efd256abbc93c91ec289a008e63d8c9]
+## 29. Resolutions and agreements affecting a company's constitution[^c-8fa0d23e131c9d0a3cd49964bf56d1b1][^c-0efd256abbc93c91ec289a008e63d8c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8fa0d23e131c9d0a3cd49964bf56d1b1]: Modification: [S. 29](https://www.legislation.gov.uk/ukpga/2006/46/section/29) modified (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/4/1), [39(a)](https://www.legislation.gov.uk/uksi/2019/138/regulation/39/a), [41](https://www.legislation.gov.uk/uksi/2019/138/regulation/41) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/c))
+[^c-8fa0d23e131c9d0a3cd49964bf56d1b1]: Modification: [S. 29](https://www.legislation.gov.uk/ukpga/2006/46/section/29) modified (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/4/1), [39(a)](https://www.legislation.gov.uk/uksi/2019/138/regulation/39/a), [41](https://www.legislation.gov.uk/uksi/2019/138/regulation/41) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/c))
 
-[^key-0efd256abbc93c91ec289a008e63d8c9]: Modification: [S. 29](https://www.legislation.gov.uk/ukpga/2006/46/section/29) power to apply (with or without modifications) conferred (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 8](https://www.legislation.gov.uk/ukpga/2017/19/section/8), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-0efd256abbc93c91ec289a008e63d8c9]: Modification: [S. 29](https://www.legislation.gov.uk/ukpga/2006/46/section/29) power to apply (with or without modifications) conferred (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 8](https://www.legislation.gov.uk/ukpga/2017/19/section/8), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

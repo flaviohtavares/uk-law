@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.42.1. Interpretation[^key-4dea6755b010b07abef86cb798ced6e0]
+## 3.42.1. Interpretation[^c-4dea6755b010b07abef86cb798ced6e0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In this Part—
 
 ## Annotations
 
-[^key-4dea6755b010b07abef86cb798ced6e0]: Textual amendment: Ch. 3 Pt. 42 inserted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [10(2)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/10/2)
+[^c-4dea6755b010b07abef86cb798ced6e0]: Textual amendment: Ch. 3 Pt. 42 inserted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [10(2)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/10/2)

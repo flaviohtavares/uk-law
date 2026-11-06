@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Recovery of costs incurred by the Secretary of State[^key-88526f3ad53ca657e1fb28a72626eba0]
+## 30. Recovery of costs incurred by the Secretary of State[^c-88526f3ad53ca657e1fb28a72626eba0]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88526f3ad53ca657e1fb28a72626eba0]: Commencement: Reg. 30 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-88526f3ad53ca657e1fb28a72626eba0]: Commencement: Reg. 30 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
 [^f00023]: Footnote: Section 303A was inserted by section 1(1) of the [Town and Country Planning (Costs of Inquiries etc) Act 1995 (c. 49)](https://www.legislation.gov.uk/ukpga/1995/49) and amended by paragraph 11 of Schedule 6 to the Planning and Compulsory Purchase Act 2004.

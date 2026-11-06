@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 184. Notification relating to the administrator[^key-d92f287d96f818109c7364141a7f1be2]
+## 184. Notification relating to the administrator[^c-d92f287d96f818109c7364141a7f1be2]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In addition to the information required by rule 183, a notification relating to 
 
 ## Annotations
 
-[^key-d92f287d96f818109c7364141a7f1be2]: Commencement: Rule 184 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-d92f287d96f818109c7364141a7f1be2]: Commencement: Rule 184 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

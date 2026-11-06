@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Amendment of the Care Planning, Placement and Case Review (Wales) Regulations 2015 (Welsh language text)[^key-ce5cc57bd6e8b0caa70535129668ba19]
+## 83. Amendment of the Care Planning, Placement and Case Review (Wales) Regulations 2015 (Welsh language text)[^c-ce5cc57bd6e8b0caa70535129668ba19]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce5cc57bd6e8b0caa70535129668ba19]: Commencement: [Reg. 83](https://www.legislation.gov.uk/uksi/2023/1071/regulation/83) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-ce5cc57bd6e8b0caa70535129668ba19]: Commencement: [Reg. 83](https://www.legislation.gov.uk/uksi/2023/1071/regulation/83) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

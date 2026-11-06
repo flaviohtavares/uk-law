@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Community orders and suspended sentence orders: requirements[^key-9bc2f132d64c758d2ccb7b999786aaf0][^key-17bb615d4e64a10af928914a16e91f64][^key-9bcd54630655e26ee6aafd184f7f77f5][^key-f1d8dbd64f00218d06f586bfcecb5d27]
+## SCHEDULE 9 — Community orders and suspended sentence orders: requirements[^c-9bc2f132d64c758d2ccb7b999786aaf0][^c-17bb615d4e64a10af928914a16e91f64][^c-9bcd54630655e26ee6aafd184f7f77f5][^c-f1d8dbd64f00218d06f586bfcecb5d27]
 
 *Extent: E+W*
 
@@ -26,16 +26,16 @@ Sections 200 and 286
 
 #### Requirement and obligation of offender
 
-**1.**[^key-c78234d99cb902a287957dc637672d94][^key-235e04c29d76e96f3d2da9f34d270cb9] (1)[^key-d404e405325032490977f103c377b198] In this Code “**unpaid work requirement**”, in relation to a relevant order, means a requirement that the offender must perform unpaid work in accordance with the instructions of the responsible officer as to—
+**1.**[^c-c78234d99cb902a287957dc637672d94][^c-235e04c29d76e96f3d2da9f34d270cb9] (1)[^c-d404e405325032490977f103c377b198] In this Code “**unpaid work requirement**”, in relation to a relevant order, means a requirement that the offender must perform unpaid work in accordance with the instructions of the responsible officer as to—
 
 - (a) the work to be performed, and
-- (b) the times [^key-e078f0a78f9d0f6c45c698fb040c2f91]... at which the offender is to perform it.
+- (b) the times [^c-e078f0a78f9d0f6c45c698fb040c2f91]... at which the offender is to perform it.
 
-(2)[^key-7587b562c89735e039684b3fd913827a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7587b562c89735e039684b3fd913827a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Number of hours of unpaid work to be specified in order
 
-**2.**[^key-97521a6672fa3612c685daa323fc0e29][^key-235e04c29d76e96f3d2da9f34d270cb9] (1)[^key-9a7911a1fb43f8d8e28c71d4aa9b77b7] The number of hours which a person may be required to work under an unpaid work requirement—
+**2.**[^c-97521a6672fa3612c685daa323fc0e29][^c-235e04c29d76e96f3d2da9f34d270cb9] (1)[^c-9a7911a1fb43f8d8e28c71d4aa9b77b7] The number of hours which a person may be required to work under an unpaid work requirement—
 
 - (a) must be specified in the relevant order, and
 - (b) must, in aggregate, be—
@@ -60,14 +60,14 @@ But the total number of hours which are not concurrent must not exceed the maxim
 
 #### Restriction on imposing unpaid work requirement
 
-**3.**[^key-9d4c097050e7edfdf6378aad2ab30ecf][^key-235e04c29d76e96f3d2da9f34d270cb9][^key-aeadff384ae9bfd1020b5769812c34a1] (1) A court may not include an unpaid work requirement in a relevant order unless it is satisfied—
+**3.**[^c-9d4c097050e7edfdf6378aad2ab30ecf][^c-235e04c29d76e96f3d2da9f34d270cb9][^c-aeadff384ae9bfd1020b5769812c34a1] (1) A court may not include an unpaid work requirement in a relevant order unless it is satisfied—
 
 - (a) that the offender is a suitable person to perform work under such a requirement, and
 - (b) that provision for the offender to work under such a requirement can be made under the arrangements for persons to perform work under such a requirement which exist in the offender's home local justice area.
 
 (2) In making a decision under sub-paragraph (1)(a), the court must (if it thinks necessary) hear an officer of a provider of probation services.
 
-#### Reduction in number of hours of work required by unpaid work requirement[^key-11e4885898d9f963dd458bcbeeb0e8b8]
+#### Reduction in number of hours of work required by unpaid work requirement[^c-11e4885898d9f963dd458bcbeeb0e8b8]
 
 **3A.** (1) This paragraph applies where—
 
@@ -108,16 +108,16 @@ any work performed by the offender at any time after that failure to attend or r
 - (a) may make consequential amendments (including amendments of primary legislation);
 - (b) are subject to the affirmative resolution procedure.
 
-### PART 2 — Probation requirement[^key-57cb3c45f6797145291c1efeffc3b95a]
+### PART 2 — Probation requirement[^c-57cb3c45f6797145291c1efeffc3b95a]
 
 #### Requirement
 
-**4.**[^key-2c207a52fb8e0bc04497b081586222ce][^key-235e04c29d76e96f3d2da9f34d270cb9] (1) In this Code “[^key-10d3d674fe61a92d8d30785f1e9f5a21]**probation requirement**”, in relation to a relevant order, means a requirement that, during the relevant period, the offender must comply with any instructions given by the responsible officer to do either or both of the following—
+**4.**[^c-2c207a52fb8e0bc04497b081586222ce][^c-235e04c29d76e96f3d2da9f34d270cb9] (1) In this Code “[^c-10d3d674fe61a92d8d30785f1e9f5a21]**probation requirement**”, in relation to a relevant order, means a requirement that, during the relevant period, the offender must comply with any instructions given by the responsible officer to do either or both of the following—
 
 - (a) attend appointments;
 - (b) participate in activities.
 
-(2)[^key-1ab58d7edbe6381de2739ff212aff926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1ab58d7edbe6381de2739ff212aff926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In this paragraph “**the relevant period**” means—
 
@@ -126,7 +126,7 @@ any work performed by the offender at any time after that failure to attend or r
 
 #### Instructions given by responsible officer
 
-**5.**[^key-33eaf764a3dc60370ef6df70567e50a6][^key-235e04c29d76e96f3d2da9f34d270cb9] (1) Any instructions given by the responsible officer pursuant to the probation requirement[^key-916230d70a58f01064baa6a495c765a6] must be given with a view to promoting the offender's rehabilitation.
+**5.**[^c-33eaf764a3dc60370ef6df70567e50a6][^c-235e04c29d76e96f3d2da9f34d270cb9] (1) Any instructions given by the responsible officer pursuant to the probation requirement[^c-916230d70a58f01064baa6a495c765a6] must be given with a view to promoting the offender's rehabilitation.
 
 (2) Sub-paragraph (1) does not prevent the responsible officer giving instructions with a view to other purposes in addition to rehabilitation.
 
@@ -156,7 +156,7 @@ any work performed by the offender at any time after that failure to attend or r
 
 ### PART 3 — Programme requirement
 
-**6.**[^key-a9464a09c8fa1230adc5c839036e14cc][^key-235e04c29d76e96f3d2da9f34d270cb9] (1) In this Code “**programme requirement**”, in relation to a relevant order, means a requirement that the offender must—
+**6.**[^c-a9464a09c8fa1230adc5c839036e14cc][^c-235e04c29d76e96f3d2da9f34d270cb9] (1) In this Code “**programme requirement**”, in relation to a relevant order, means a requirement that the offender must—
 
 - (a) in accordance with instructions given by the responsible officer participate in an accredited programme at a particular place, and
 - (b) while at that place, comply with instructions given by, or under the authority of, the person in charge of the programme.
@@ -178,7 +178,7 @@ any work performed by the offender at any time after that failure to attend or r
 
 #### Requirement
 
-**7.**[^key-83302e37521cdf6ab52cb835eda6236f][^key-235e04c29d76e96f3d2da9f34d270cb9] (1) In this Code “**prohibited activity requirement**”, in relation to a relevant order, means a requirement that the offender must refrain from participating in activities—
+**7.**[^c-83302e37521cdf6ab52cb835eda6236f][^c-235e04c29d76e96f3d2da9f34d270cb9] (1) In this Code “**prohibited activity requirement**”, in relation to a relevant order, means a requirement that the offender must refrain from participating in activities—
 
 - (a) on one or more particular days, or
 - (b) for a particular period.
@@ -192,9 +192,9 @@ any work performed by the offender at any time after that failure to attend or r
 
 #### Restriction on imposing prohibited activity requirement
 
-**8.**[^key-856db437d1f40e8dac3943f0435492fd][^key-235e04c29d76e96f3d2da9f34d270cb9] A court may not include a prohibited activity requirement in a relevant order unless it has consulted an officer of a provider of probation services.
+**8.**[^c-856db437d1f40e8dac3943f0435492fd][^c-235e04c29d76e96f3d2da9f34d270cb9] A court may not include a prohibited activity requirement in a relevant order unless it has consulted an officer of a provider of probation services.
 
-### Part 4A — Driving prohibition requirement[^key-47c59bdd8f3d002b2286d25260539246]
+### Part 4A — Driving prohibition requirement[^c-47c59bdd8f3d002b2286d25260539246]
 
 **8A.** (1) In this Code “**driving prohibition requirement**”, in relation to a relevant order, means a requirement prohibiting the offender from driving a motor vehicle on a road or other public place.
 
@@ -221,7 +221,7 @@ any work performed by the offender at any time after that failure to attend or r
 - “**motor vehicle**” has the same meaning as in the Road Traffic Act 1988 except that for this purpose section 189(1) of that Act is to be read as if paragraph (c) (certain electrically assisted pedal cycles not to be treated as motor vehicles) were omitted;
 - “**road**” has the same meaning as in the Road Traffic Act 1988 (see section 192 of that Act).
 
-### Part 4B — Public event attendance prohibition requirement[^key-8d72268a90790c3491ec38a486048ace]
+### Part 4B — Public event attendance prohibition requirement[^c-8d72268a90790c3491ec38a486048ace]
 
 **8B.** (1) In this Code “**public event attendance prohibition requirement**”, in relation to a relevant order, means a requirement prohibiting the offender from attending a public event.
 
@@ -242,7 +242,7 @@ any work performed by the offender at any time after that failure to attend or r
 
 (5) In this paragraph “**public event**” means any event to which the public or a section of the public has access, whether on payment or otherwise.
 
-### Part 4C — Drinking establishment entry prohibition requirement[^key-022502f78ce4ee7f51fac398e93ab594]
+### Part 4C — Drinking establishment entry prohibition requirement[^c-022502f78ce4ee7f51fac398e93ab594]
 
 **8C.** (1) In this Code “**drinking establishment entry prohibition requirement**”, in relation to a relevant order, means a requirement prohibiting the offender from entering a drinking establishment.
 
@@ -273,38 +273,38 @@ any work performed by the offender at any time after that failure to attend or r
 
 #### Requirement
 
-**9.**[^key-5b2e084d09714fe408a517895671b52e][^key-235e04c29d76e96f3d2da9f34d270cb9] (1)[^key-ae74a7161cd3ab9fec5939c71aca9b49] In this Code “**curfew requirement**”, in relation to a relevant order, means a requirement that the offender must remain, for particular periods (“curfew periods”), at a particular place.
+**9.**[^c-5b2e084d09714fe408a517895671b52e][^c-235e04c29d76e96f3d2da9f34d270cb9] (1)[^c-ae74a7161cd3ab9fec5939c71aca9b49] In this Code “**curfew requirement**”, in relation to a relevant order, means a requirement that the offender must remain, for particular periods (“curfew periods”), at a particular place.
 
-(2)[^key-ae74a7161cd3ab9fec5939c71aca9b49] A relevant order which imposes a curfew requirement must specify—
+(2)[^c-ae74a7161cd3ab9fec5939c71aca9b49] A relevant order which imposes a curfew requirement must specify—
 
 - (a) the curfew periods, and
 - (b) the place at which the offender must remain for each curfew period.
 
-(3)[^key-ae74a7161cd3ab9fec5939c71aca9b49] Different places or different curfew periods may be specified for different days.
+(3)[^c-ae74a7161cd3ab9fec5939c71aca9b49] Different places or different curfew periods may be specified for different days.
 
-(4)[^key-ae74a7161cd3ab9fec5939c71aca9b49] The curfew periods specified must amount to—
+(4)[^c-ae74a7161cd3ab9fec5939c71aca9b49] The curfew periods specified must amount to—
 
-- (a) not less than 2 hours in any day, [^key-0b0f659b6072e517f3af0400bbf92bee]...
-- (b) not more than the relevant number of hours[^key-e335d7855b4c82b9ed944256a1be7246] in any day , and[^key-6677476812a2822c787db5b9cdda17fc]
+- (a) not less than 2 hours in any day, [^c-0b0f659b6072e517f3af0400bbf92bee]...
+- (b) not more than the relevant number of hours[^c-e335d7855b4c82b9ed944256a1be7246] in any day , and[^c-6677476812a2822c787db5b9cdda17fc]
 - (c) not more than 112 hours in any period of 7 days beginning with the day of the week on which the requirement first takes effect.
 
-(4A)[^key-3784c121e5f8f2b548a39162bb57d7a4][^key-8a38a8942756aac60afef7d10a222c0d] In sub-paragraph (4) “**the relevant number of hours**” means—
+(4A)[^c-3784c121e5f8f2b548a39162bb57d7a4][^c-8a38a8942756aac60afef7d10a222c0d] In sub-paragraph (4) “**the relevant number of hours**” means—
 
 - (a) in relation to a relevant order in respect of an offence of which the offender was convicted before the day on which section 150 of the Police, Crime, Sentencing and Courts Act 2022 came into force, 16 hours, and
 - (b) in relation to a relevant order in respect of an offence of which the offender was convicted on or after that day, 20 hours.
 
-(5) The specified curfew periods must fall within the relevant period[^key-7f18edd161529025a7f4158d210f2273] beginning with the day on which the requirement first takes effect.
+(5) The specified curfew periods must fall within the relevant period[^c-7f18edd161529025a7f4158d210f2273] beginning with the day on which the requirement first takes effect.
 
-(6)[^key-5660ac7bed6bdd18fc4e2558cc723230] In sub-paragraph (5) “**the relevant period**” means—
+(6)[^c-5660ac7bed6bdd18fc4e2558cc723230] In sub-paragraph (5) “**the relevant period**” means—
 
 - (a) in relation to a relevant order in respect of an offence of which the offender was convicted before the day on which section 150 of the Police, Crime, Sentencing and Courts Act 2022 came into force, the period of 12 months, and
 - (b) in relation to a relevant order in respect of an offence of which the offender was convicted on or after that day, the period of 2 years.
 
 #### Requirements where court imposes curfew requirement
 
-**10.**[^key-921a293c930a6bdf4ec37245a7eeca26][^key-235e04c29d76e96f3d2da9f34d270cb9] (1)[^key-ecafd1147fe182312e0a3caa58431283] Before making a relevant order imposing a curfew requirement, the court must obtain and consider information about each place proposed to be specified in the order.
+**10.**[^c-921a293c930a6bdf4ec37245a7eeca26][^c-235e04c29d76e96f3d2da9f34d270cb9] (1)[^c-ecafd1147fe182312e0a3caa58431283] Before making a relevant order imposing a curfew requirement, the court must obtain and consider information about each place proposed to be specified in the order.
 
-(2)[^key-ecafd1147fe182312e0a3caa58431283] That information must include information as to the attitude of persons likely to be affected by the offender's enforced presence there.
+(2)[^c-ecafd1147fe182312e0a3caa58431283] That information must include information as to the attitude of persons likely to be affected by the offender's enforced presence there.
 
 (3) Where the court makes a relevant order imposing a curfew requirement it must also impose an electronic compliance monitoring requirement (see paragraph 29) for securing compliance with it, unless—
 
@@ -313,7 +313,7 @@ any work performed by the offender at any time after that failure to attend or r
   - (ii) paragraph 34(1) (arrangements in relevant area), or
 - (b) in the particular circumstances of the case, it considers it inappropriate to do so.
 
-#### Power of responsible officer to vary curfew requirement[^key-5e166c71d8992cfb14fb4c69cd2f0ae6]
+#### Power of responsible officer to vary curfew requirement[^c-5e166c71d8992cfb14fb4c69cd2f0ae6]
 
 **10A.** (1) This paragraph applies where—
 
@@ -371,7 +371,7 @@ any work performed by the offender at any time after that failure to attend or r
 
 #### Requirement
 
-**11.**[^key-dcf58fff0385a9f15af733f461ac30e2][^key-235e04c29d76e96f3d2da9f34d270cb9] (1) In this Code “**exclusion requirement**”, in relation to a relevant order, means a provision prohibiting the offender from entering a particular place (the “prohibited place”) for a particular period (the “exclusion period”).
+**11.**[^c-dcf58fff0385a9f15af733f461ac30e2][^c-235e04c29d76e96f3d2da9f34d270cb9] (1) In this Code “**exclusion requirement**”, in relation to a relevant order, means a provision prohibiting the offender from entering a particular place (the “prohibited place”) for a particular period (the “exclusion period”).
 
 (2) A relevant order which imposes an exclusion requirement must specify—
 
@@ -393,7 +393,7 @@ any work performed by the offender at any time after that failure to attend or r
 
 #### Requirement where court imposes exclusion requirement
 
-**12.**[^key-2f82f5df302e01eecd6386468ba8ec6d][^key-235e04c29d76e96f3d2da9f34d270cb9] Where the court makes a relevant order imposing an exclusion requirement it must also impose an electronic compliance monitoring requirement (see paragraph 29) for securing compliance with it, unless—
+**12.**[^c-2f82f5df302e01eecd6386468ba8ec6d][^c-235e04c29d76e96f3d2da9f34d270cb9] Where the court makes a relevant order imposing an exclusion requirement it must also impose an electronic compliance monitoring requirement (see paragraph 29) for securing compliance with it, unless—
 
 - (a) it is prevented from doing so by—
   - (i) paragraph 33 (consent of person whose co-operation is required), or
@@ -404,7 +404,7 @@ any work performed by the offender at any time after that failure to attend or r
 
 #### Requirement
 
-**13.**[^key-a7f359c06bb5b0f11c5fb4d9e577c48e][^key-235e04c29d76e96f3d2da9f34d270cb9][^key-153ae4f2723359a7cf89235d488b846e] (1) In this Code “**residence requirement**”, in relation to a relevant order, means a requirement that, for a particular period (“the required period”), the offender must reside—
+**13.**[^c-a7f359c06bb5b0f11c5fb4d9e577c48e][^c-235e04c29d76e96f3d2da9f34d270cb9][^c-153ae4f2723359a7cf89235d488b846e] (1) In this Code “**residence requirement**”, in relation to a relevant order, means a requirement that, for a particular period (“the required period”), the offender must reside—
 
 - (a) at a particular place (“the required place”), or
 - (b) if the order so permits, at the required place or, with the prior approval of the responsible officer, at some other place.
@@ -419,11 +419,11 @@ any work performed by the offender at any time after that failure to attend or r
 
 #### Requirement where court imposes residence requirement
 
-**14.**[^key-6c363253a46cdd42b8cd59f3f9dd88d0][^key-235e04c29d76e96f3d2da9f34d270cb9][^key-ae5a047a8be45f32e1a16f202f4fbeb3] Before making a relevant order containing a residence requirement, the court must consider the home surroundings of the offender.
+**14.**[^c-6c363253a46cdd42b8cd59f3f9dd88d0][^c-235e04c29d76e96f3d2da9f34d270cb9][^c-ae5a047a8be45f32e1a16f202f4fbeb3] Before making a relevant order containing a residence requirement, the court must consider the home surroundings of the offender.
 
 ### PART 8 — Foreign travel prohibition requirement
 
-**15.**[^key-220d6ef309029f112de746dc6d89e84f][^key-235e04c29d76e96f3d2da9f34d270cb9] (1) In this Code “**foreign travel prohibition requirement**”, in relation to a relevant order, means a requirement prohibiting the offender from travelling, on a particular day or days, or for a particular period, to a particular country or territory (or particular countries or territories) outside the British Islands.
+**15.**[^c-220d6ef309029f112de746dc6d89e84f][^c-235e04c29d76e96f3d2da9f34d270cb9] (1) In this Code “**foreign travel prohibition requirement**”, in relation to a relevant order, means a requirement prohibiting the offender from travelling, on a particular day or days, or for a particular period, to a particular country or territory (or particular countries or territories) outside the British Islands.
 
 (2) A relevant order which imposes a foreign travel prohibition requirement must specify—
 
@@ -444,7 +444,7 @@ any work performed by the offender at any time after that failure to attend or r
 
 #### Requirement
 
-**16.**[^key-fa81735b7d0e95b70846fb581d7ab0d0][^key-235e04c29d76e96f3d2da9f34d270cb9] (1) In this Code “**mental health treatment requirement**”, in relation to a relevant order, means a requirement that the offender must submit, during a particular period or particular periods, to mental health treatment, which may be—
+**16.**[^c-fa81735b7d0e95b70846fb581d7ab0d0][^c-235e04c29d76e96f3d2da9f34d270cb9] (1) In this Code “**mental health treatment requirement**”, in relation to a relevant order, means a requirement that the offender must submit, during a particular period or particular periods, to mental health treatment, which may be—
 
 - (a) in-patient treatment,
 - (b) institution-based out-patient treatment, or
@@ -491,17 +491,17 @@ but may not otherwise specify the nature of the treatment.
 
 #### Restrictions on imposing mental health treatment requirement
 
-**17.**[^key-5ed9b691bf44857fef4c49ba2b0e58a9][^key-235e04c29d76e96f3d2da9f34d270cb9] (1) A court may not include a mental health treatment requirement in a relevant order unless the following conditions are met—
+**17.**[^c-5ed9b691bf44857fef4c49ba2b0e58a9][^c-235e04c29d76e96f3d2da9f34d270cb9] (1) A court may not include a mental health treatment requirement in a relevant order unless the following conditions are met—
 
 - (a) the need for treatment condition,
 - (b) the arrangements condition, and
-- (c)[^key-c57e2021e94a5425054e22c7e3c4db9b] the consent condition.
+- (c)[^c-c57e2021e94a5425054e22c7e3c4db9b] the consent condition.
 
 (2) The need for treatment condition is that the court is satisfied that the mental condition of the offender—
 
 - (a) requires treatment,
 - (b) may be susceptible to treatment, and
-- (c)[^key-ae4059d4393137c7314071f1d39ac228] does not warrant the making of a hospital order or guardianship order within the meaning of the Mental Health Act 1983.
+- (c)[^c-ae4059d4393137c7314071f1d39ac228] does not warrant the making of a hospital order or guardianship order within the meaning of the Mental Health Act 1983.
 
 (3) The arrangements condition is that the court is satisfied that arrangements—
 
@@ -516,7 +516,7 @@ Those arrangements include arrangements for the reception of the offender, where
 
 #### Alternative arrangements for mental health treatment made by practitioner
 
-**18.**[^key-8a902d822d22dbea0dc4fbc398f50f7d][^key-235e04c29d76e96f3d2da9f34d270cb9][^key-bb9038d0a848668115658f077c4bb507] (1) This paragraph applies where—
+**18.**[^c-8a902d822d22dbea0dc4fbc398f50f7d][^c-235e04c29d76e96f3d2da9f34d270cb9][^c-bb9038d0a848668115658f077c4bb507] (1) This paragraph applies where—
 
 - (a) an offender is being treated in pursuance of a mental health treatment requirement, and
 - (b) the treatment practitioner considers that part of the treatment can be better or more conveniently given in or at an institution or place—
@@ -543,7 +543,7 @@ Those arrangements include arrangements for the reception of the offender, where
 
 #### Requirement
 
-**19.**[^key-c0c27b752fe4a71bbc44e6913bf306c3][^key-235e04c29d76e96f3d2da9f34d270cb9] (1)[^key-22517f3adfb0e3ee99fc05e1fdf74b61] In this Code “**drug rehabilitation requirement**”, in relation to a relevant order, means a requirement that during a period specified in the order (“the treatment and testing period”) the offender—
+**19.**[^c-c0c27b752fe4a71bbc44e6913bf306c3][^c-235e04c29d76e96f3d2da9f34d270cb9] (1)[^c-22517f3adfb0e3ee99fc05e1fdf74b61] In this Code “**drug rehabilitation requirement**”, in relation to a relevant order, means a requirement that during a period specified in the order (“the treatment and testing period”) the offender—
 
 - (a) must submit to drug rehabilitation treatment, which may be resident treatment or non-resident treatment, and
 - (b) for the purpose of ascertaining whether there is any drug in the offender's body during that period, must provide samples in accordance with directions given by—
@@ -597,12 +597,12 @@ but must not otherwise specify the nature of the treatment.
 
 #### Restriction on imposing drug rehabilitation requirement
 
-**20.**[^key-e157a274a83d7fa716632c061099becc][^key-235e04c29d76e96f3d2da9f34d270cb9] (1) A court may not impose a drug rehabilitation requirement unless the following conditions are met—
+**20.**[^c-e157a274a83d7fa716632c061099becc][^c-235e04c29d76e96f3d2da9f34d270cb9] (1) A court may not impose a drug rehabilitation requirement unless the following conditions are met—
 
 - (a) the need for treatment condition,
 - (b) the arrangements condition,
 - (c) the suitability condition, and
-- (d)[^key-a767ba88e4d355c91c459a892ab1a63f] the consent condition.
+- (d)[^c-a767ba88e4d355c91c459a892ab1a63f] the consent condition.
 
 (2) The need for treatment condition is that the court is satisfied—
 
@@ -628,7 +628,7 @@ Those arrangements include arrangements for the reception of the offender, where
 
 #### Drug rehabilitation requirement: provision for review by court
 
-**21.**[^key-90090114c363ff8e5ef913b2c81b6996][^key-b41f3fd64505ed02fc6e0c5f613df11c] (1) A relevant order imposing a drug rehabilitation requirement—
+**21.**[^c-90090114c363ff8e5ef913b2c81b6996][^c-b41f3fd64505ed02fc6e0c5f613df11c] (1) A relevant order imposing a drug rehabilitation requirement—
 
 - (a) must include provision for review if the treatment and testing period is more than 12 months, and
 - (b) may do so in any other case.
@@ -664,14 +664,14 @@ the court may specify in the order a magistrates' court which acts in the offend
 
 is to be treated as having been made by the Crown Court.
 
-(7)[^key-23db13c978c7eabe3ea8a98de8b8b9bc] Nothing in this paragraph or paragraph 22 applies in relation to—
+(7)[^c-23db13c978c7eabe3ea8a98de8b8b9bc] Nothing in this paragraph or paragraph 22 applies in relation to—
 
 - (a) a community order that qualifies for special procedures for the purposes of section 217A, or
 - (b) a suspended sentence order that qualifies for special procedures for the purposes of section 293A.
 
 #### Periodic review of drug rehabilitation requirement
 
-**22.**[^key-943a902762b4be2d72d4b35fa042f22c][^key-04afbb757fa98dc153985bd4fc0ca1c7] (1) This paragraph applies in relation to a relevant order which imposes a drug rehabilitation requirement that is subject to review.
+**22.**[^c-943a902762b4be2d72d4b35fa042f22c][^c-04afbb757fa98dc153985bd4fc0ca1c7] (1) This paragraph applies in relation to a relevant order which imposes a drug rehabilitation requirement that is subject to review.
 
 (2) At a review hearing the court may, after considering the officer's report referred to in paragraph 21(2)(d) (“the review officer's report”), amend the relevant order, so far as it relates to the drug rehabilitation requirement.
 
@@ -726,7 +726,7 @@ the court may require the offender to attend a hearing of the court at a specifi
 
 the officer must apply under paragraph 18 of Schedule 10 (amendment of requirements of community order) or paragraph 25 of Schedule 16 (amendment of community requirements of suspended sentence order) to the responsible court for the order to be amended.
 
-### PART 10A — Drug testing requirement[^key-04dffa43f37dcc5afa8bb4d7b7fe5548]
+### PART 10A — Drug testing requirement[^c-04dffa43f37dcc5afa8bb4d7b7fe5548]
 
 #### Requirement
 
@@ -770,7 +770,7 @@ the officer must apply under paragraph 18 of Schedule 10 (amendment of requireme
 
 #### Requirement
 
-**23.**[^key-7bb43e92f66363d63527aa2deeaf69d7][^key-0f01f5f1f0acb850c13a2557f73d9d95] (1) In this Code “**alcohol treatment requirement**”, in relation to a relevant order, means a requirement that during a period specified in the order the offender must submit to alcohol dependency treatment, which may be—
+**23.**[^c-7bb43e92f66363d63527aa2deeaf69d7][^c-0f01f5f1f0acb850c13a2557f73d9d95] (1) In this Code “**alcohol treatment requirement**”, in relation to a relevant order, means a requirement that during a period specified in the order the offender must submit to alcohol dependency treatment, which may be—
 
 - (a) resident treatment,
 - (b) institution-based treatment, or
@@ -807,7 +807,7 @@ but must not otherwise specify the nature of the treatment.
 
 #### Restrictions on imposing alcohol treatment requirement
 
-**24.**[^key-e9e5ae3a8ed6b3328f35423a9b561dd0][^key-0f01f5f1f0acb850c13a2557f73d9d95] (1) A court may not impose an alcohol treatment requirement unless the following conditions are met—
+**24.**[^c-e9e5ae3a8ed6b3328f35423a9b561dd0][^c-0f01f5f1f0acb850c13a2557f73d9d95] (1) A court may not impose an alcohol treatment requirement unless the following conditions are met—
 
 - (a) the need for treatment condition,
 - (b) the arrangements condition, and
@@ -835,7 +835,7 @@ Those arrangements include arrangements for the reception of the offender, where
 
 #### Requirement
 
-**25.**[^key-ac228a5d97c09bd7e46512d3c332b515][^key-0f01f5f1f0acb850c13a2557f73d9d95] (1) In this Code “**alcohol abstinence and monitoring requirement**”, in relation to a relevant order, means a requirement that, during a particular period (“the abstinence and monitoring period”), the offender—
+**25.**[^c-ac228a5d97c09bd7e46512d3c332b515][^c-0f01f5f1f0acb850c13a2557f73d9d95] (1) In this Code “**alcohol abstinence and monitoring requirement**”, in relation to a relevant order, means a requirement that, during a particular period (“the abstinence and monitoring period”), the offender—
 
 - (a) must—
   - (i) abstain from consuming alcohol, or
@@ -883,7 +883,7 @@ Paragraph (a) is subject to sub-paragraph (3).
 
 #### Restriction on imposing alcohol abstinence and monitoring requirement
 
-**26.**[^key-7fca44631e7131a02cbd47a3e7a1215d][^key-0f01f5f1f0acb850c13a2557f73d9d95] (1) A relevant order may not include both—
+**26.**[^c-7fca44631e7131a02cbd47a3e7a1215d][^c-0f01f5f1f0acb850c13a2557f73d9d95] (1) A relevant order may not include both—
 
 - (a) an alcohol treatment requirement, and
 - (b) an alcohol abstinence and monitoring requirement.
@@ -903,11 +903,11 @@ Paragraph (a) is subject to sub-paragraph (3).
 
 (5) The availability of arrangements condition is that the court has been notified by the Secretary of State that arrangements for monitoring of the kind to be specified in the relevant order are available in the offender's home local justice area (and the notice has not been withdrawn).
 
-### PART 13 — Attendance centre requirement : offenders convicted before the day on which section 152 of the Police, Crime, Sentencing and Courts Act 2022 came into force[^key-294fd4dc7237e9a3eab34889c6450184]
+### PART 13 — Attendance centre requirement : offenders convicted before the day on which section 152 of the Police, Crime, Sentencing and Courts Act 2022 came into force[^c-294fd4dc7237e9a3eab34889c6450184]
 
 #### Requirement
 
-**27.**[^key-48cb7784f85671d309400e272e06c80a][^key-0f01f5f1f0acb850c13a2557f73d9d95] (1) In this Code “**attendance centre requirement**”, in relation to a relevant order, means a requirement that the offender must attend at an attendance centre for a particular number of hours.
+**27.**[^c-48cb7784f85671d309400e272e06c80a][^c-0f01f5f1f0acb850c13a2557f73d9d95] (1) In this Code “**attendance centre requirement**”, in relation to a relevant order, means a requirement that the offender must attend at an attendance centre for a particular number of hours.
 
 (2) A relevant order which imposes an attendance centre requirement must specify the aggregate number of hours for which the offender may be required to attend at an attendance centre
 
@@ -939,7 +939,7 @@ Paragraph (a) is subject to sub-paragraph (3).
 
 #### Restriction on imposing attendance centre requirement
 
-**28.**[^key-9ed8d92d61ebdf01a6ce8832c9a4b4e5][^key-9bcd54630655e26ee6aafd184f7f77f5] A court may not impose an attendance centre requirement in a relevant order unless the court—
+**28.**[^c-9ed8d92d61ebdf01a6ce8832c9a4b4e5][^c-9bcd54630655e26ee6aafd184f7f77f5] A court may not impose an attendance centre requirement in a relevant order unless the court—
 
 - (a) has been notified by the Secretary of State that an attendance centre is available for persons of the offender's description (and the notice has not been withdrawn), and
 - (b) is satisfied that an attendance centre which is available for persons of the offender's description is reasonably accessible to the offender, having regard to the means of access available to the offender and any other circumstances.
@@ -948,7 +948,7 @@ Paragraph (a) is subject to sub-paragraph (3).
 
 #### Electronic compliance monitoring requirement
 
-**29.**[^key-3b3e3b538d9b2d8b1fa8bdf98b1afbc3][^key-0f01f5f1f0acb850c13a2557f73d9d95] (1)[^key-16e7ddfd9e1486eabaabfee19ed20771] In this Code “**electronic compliance monitoring requirement**”, in relation to a relevant order, means a requirement for securing the electronic monitoring of the offender's compliance with other requirements imposed by the order during a period (“the monitoring period”)—
+**29.**[^c-3b3e3b538d9b2d8b1fa8bdf98b1afbc3][^c-0f01f5f1f0acb850c13a2557f73d9d95] (1)[^c-16e7ddfd9e1486eabaabfee19ed20771] In this Code “**electronic compliance monitoring requirement**”, in relation to a relevant order, means a requirement for securing the electronic monitoring of the offender's compliance with other requirements imposed by the order during a period (“the monitoring period”)—
 
 - (a) specified in the order, or
 - (b) determined by the responsible officer in accordance with the relevant order.
@@ -967,17 +967,17 @@ Paragraph (a) is subject to sub-paragraph (3).
 
 #### Electronic whereabouts monitoring requirement
 
-**30.**[^key-877f90cba1077a2fc0a79e21a8550331][^key-0f01f5f1f0acb850c13a2557f73d9d95] In this Code “**electronic whereabouts monitoring requirement**”, in relation to a relevant order, means a requirement to submit to electronic monitoring of the offender's whereabouts (otherwise than for the purpose of monitoring the offender's compliance with any other requirement included in the order) during a period specified in the order.
+**30.**[^c-877f90cba1077a2fc0a79e21a8550331][^c-0f01f5f1f0acb850c13a2557f73d9d95] In this Code “**electronic whereabouts monitoring requirement**”, in relation to a relevant order, means a requirement to submit to electronic monitoring of the offender's whereabouts (otherwise than for the purpose of monitoring the offender's compliance with any other requirement included in the order) during a period specified in the order.
 
 #### Electronic monitoring: person responsible for monitoring
 
-**31.**[^key-f820f768475b1573d633d6e7d8a2a2b2][^key-0f01f5f1f0acb850c13a2557f73d9d95][^key-2dfaef0f2ef09d7bcf670f896bc32a96] (1) A relevant order which includes an electronic monitoring requirement must include provision for making a person responsible for the monitoring.
+**31.**[^c-f820f768475b1573d633d6e7d8a2a2b2][^c-0f01f5f1f0acb850c13a2557f73d9d95][^c-2dfaef0f2ef09d7bcf670f896bc32a96] (1) A relevant order which includes an electronic monitoring requirement must include provision for making a person responsible for the monitoring.
 
 (2) The person who is made responsible for the monitoring must be of a description specified in regulations made by the Secretary of State.
 
 #### Electronic monitoring: general
 
-**32.**[^key-f9292f3772232e026a917f1522783927][^key-0f01f5f1f0acb850c13a2557f73d9d95][^key-2dfaef0f2ef09d7bcf670f896bc32a96] Where a relevant order imposes an electronic monitoring requirement, the offender must (in particular)—
+**32.**[^c-f9292f3772232e026a917f1522783927][^c-0f01f5f1f0acb850c13a2557f73d9d95][^c-2dfaef0f2ef09d7bcf670f896bc32a96] Where a relevant order imposes an electronic monitoring requirement, the offender must (in particular)—
 
 - (a) submit, as required from time to time by the responsible officer or the person responsible for the monitoring, to—
   - (i) being fitted with, or installation of, any necessary apparatus, and
@@ -987,7 +987,7 @@ Paragraph (a) is subject to sub-paragraph (3).
 
 #### Restriction on imposing electronic monitoring: general
 
-**33.**[^key-c299cf9086b699e4ee4dc1016fd8ae7d][^key-0f01f5f1f0acb850c13a2557f73d9d95][^key-2dfaef0f2ef09d7bcf670f896bc32a96] Where—
+**33.**[^c-c299cf9086b699e4ee4dc1016fd8ae7d][^c-0f01f5f1f0acb850c13a2557f73d9d95][^c-2dfaef0f2ef09d7bcf670f896bc32a96] Where—
 
 - (a) it is proposed to include in a relevant order an electronic monitoring requirement, but
 - (b) there is a person (other than the offender) without whose co-operation it will not be practicable to secure the monitoring,
@@ -996,12 +996,12 @@ the requirement may not be included in the order without that person's consent.
 
 #### Restriction on imposing an electronic compliance monitoring requirement
 
-**34.**[^key-bc42001cae162aaf0be7b07068f2e2fd][^key-0f01f5f1f0acb850c13a2557f73d9d95] (1)[^key-24f0033c3f263d6fda562eba98c7d238] A court may not include an electronic compliance monitoring requirement in a relevant order in respect of an offender unless—
+**34.**[^c-bc42001cae162aaf0be7b07068f2e2fd][^c-0f01f5f1f0acb850c13a2557f73d9d95] (1)[^c-24f0033c3f263d6fda562eba98c7d238] A court may not include an electronic compliance monitoring requirement in a relevant order in respect of an offender unless—
 
 - (a) the court has been notified by the Secretary of State that electronic monitoring arrangements are available in the relevant area (see sub-paragraphs (2) to (4)) (and the notice has not been withdrawn), and
 - (b) the court is satisfied that the necessary provision can be made under those arrangements.
 
-(2)[^key-24f0033c3f263d6fda562eba98c7d238] In the case of a relevant order containing—
+(2)[^c-24f0033c3f263d6fda562eba98c7d238] In the case of a relevant order containing—
 
 - (a) a curfew requirement, or
 - (b) an exclusion requirement,
@@ -1016,7 +1016,7 @@ For this purpose, “**place**”, in relation to an exclusion requirement, has 
 
 #### Restriction on imposing electronic whereabouts monitoring requirement
 
-**35.**[^key-7ab134ccfc37004c244a3f09f262064a][^key-0f01f5f1f0acb850c13a2557f73d9d95] A court may not include an electronic whereabouts monitoring requirement in a relevant order in respect of an offender unless—
+**35.**[^c-7ab134ccfc37004c244a3f09f262064a][^c-0f01f5f1f0acb850c13a2557f73d9d95] A court may not include an electronic whereabouts monitoring requirement in a relevant order in respect of an offender unless—
 
 - (a) the court has been notified by the Secretary of State that electronic monitoring arrangements are available in the local justice area proposed to be specified in the order (and the notice has not been withdrawn),
 - (b) the court is satisfied that—
@@ -1026,160 +1026,160 @@ For this purpose, “**place**”, in relation to an exclusion requirement, has 
 
 ## Annotations
 
-[^key-9bc2f132d64c758d2ccb7b999786aaf0]: Modification: Sch. 9 applied (in part) (with modifications) by 2006 c. 52, s. 183 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 8](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/8) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-9bc2f132d64c758d2ccb7b999786aaf0]: Modification: Sch. 9 applied (in part) (with modifications) by 2006 c. 52, s. 183 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 8](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/8) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-17bb615d4e64a10af928914a16e91f64]: Modification: Sch. 9 applied (in part) (with modifications) by 2006 c. 52, s. 178(2)-(4) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 3(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/3/3) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-17bb615d4e64a10af928914a16e91f64]: Modification: Sch. 9 applied (in part) (with modifications) by 2006 c. 52, s. 178(2)-(4) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 3(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/3/3) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-9bcd54630655e26ee6aafd184f7f77f5]: Modification: Sch. 9 applied (with modifications) by 2003 c. 44, s. 300(6), Sch. 31 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 paras. 241(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/241/5), [249](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/249) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-9bcd54630655e26ee6aafd184f7f77f5]: Modification: Sch. 9 applied (with modifications) by 2003 c. 44, s. 300(6), Sch. 31 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 paras. 241(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/241/5), [249](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/249) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-f1d8dbd64f00218d06f586bfcecb5d27]: Modification: Sch. 9 applied (in part) (with modifications) by 2006 c. 52, s. 182(3)-(5) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 7(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/7/5) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-f1d8dbd64f00218d06f586bfcecb5d27]: Modification: Sch. 9 applied (in part) (with modifications) by 2006 c. 52, s. 182(3)-(5) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 7(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/7/5) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-c78234d99cb902a287957dc637672d94]: Commencement: Sch. 9 para. 1 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c78234d99cb902a287957dc637672d94]: Commencement: Sch. 9 para. 1 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-235e04c29d76e96f3d2da9f34d270cb9]: Modification: Sch. 9 paras. 1-20 modified by 2006 c. 52, s. 200(1)(c)(iv) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 19](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/19) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-235e04c29d76e96f3d2da9f34d270cb9]: Modification: Sch. 9 paras. 1-20 modified by 2006 c. 52, s. 200(1)(c)(iv) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 19](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/19) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-d404e405325032490977f103c377b198]: Modification: Sch. 9 para. 1(1) applied (with modifications) by 2003 c. 44, Sch. 19A paras. 1-3 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-d404e405325032490977f103c377b198]: Modification: Sch. 9 para. 1(1) applied (with modifications) by 2003 c. 44, Sch. 19A paras. 1-3 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-e078f0a78f9d0f6c45c698fb040c2f91]: Textual amendment: Words in [Sch. 9 para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/1/1/b) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 36(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/1/a/i), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/3)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)
+[^c-e078f0a78f9d0f6c45c698fb040c2f91]: Textual amendment: Words in [Sch. 9 para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/1/1/b) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 36(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/1/a/i), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/3)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)
 
-[^key-7587b562c89735e039684b3fd913827a]: Textual amendment: [Sch. 9 para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/1/2) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 36(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/1/a/ii), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/3)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)
+[^c-7587b562c89735e039684b3fd913827a]: Textual amendment: [Sch. 9 para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/1/2) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 36(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/1/a/ii), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/3)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)
 
-[^key-97521a6672fa3612c685daa323fc0e29]: Commencement: Sch. 9 para. 2 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-97521a6672fa3612c685daa323fc0e29]: Commencement: Sch. 9 para. 2 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-9a7911a1fb43f8d8e28c71d4aa9b77b7]: Modification: Sch. 9 para. 2(1) applied (with modifications) by 2003 c. 44, Sch. 19A paras. 1-3 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-9a7911a1fb43f8d8e28c71d4aa9b77b7]: Modification: Sch. 9 para. 2(1) applied (with modifications) by 2003 c. 44, Sch. 19A paras. 1-3 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-9d4c097050e7edfdf6378aad2ab30ecf]: Commencement: Sch. 9 para. 3 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9d4c097050e7edfdf6378aad2ab30ecf]: Commencement: Sch. 9 para. 3 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-aeadff384ae9bfd1020b5769812c34a1]: Modification: Sch. 9 para. 3 applied (with modifications) by 2003 c. 44, Sch. 19A paras. 1-3 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-aeadff384ae9bfd1020b5769812c34a1]: Modification: Sch. 9 para. 3 applied (with modifications) by 2003 c. 44, Sch. 19A paras. 1-3 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-11e4885898d9f963dd458bcbeeb0e8b8]: Textual amendment: Sch. 9 para. 3A and cross-heading inserted (22.1.2026 for enabling the exercise of power to make regulations) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 37(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/37/3), [49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c) (with [s. 37(8)](https://www.legislation.gov.uk/ukpga/2026/2/section/37/8))
+[^c-11e4885898d9f963dd458bcbeeb0e8b8]: Textual amendment: Sch. 9 para. 3A and cross-heading inserted (22.1.2026 for enabling the exercise of power to make regulations) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 37(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/37/3), [49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c) (with [s. 37(8)](https://www.legislation.gov.uk/ukpga/2026/2/section/37/8))
 
-[^key-57cb3c45f6797145291c1efeffc3b95a]: Textual amendment: Words in [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/part/2) heading substituted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 13(5)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/13/5/a), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/b) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-57cb3c45f6797145291c1efeffc3b95a]: Textual amendment: Words in [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/part/2) heading substituted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 13(5)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/13/5/a), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/b) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
 
-[^key-2c207a52fb8e0bc04497b081586222ce]: Commencement: Sch. 9 para. 4 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2c207a52fb8e0bc04497b081586222ce]: Commencement: Sch. 9 para. 4 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-10d3d674fe61a92d8d30785f1e9f5a21]: Textual amendment: Words in [Sch. 9 para. 4(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/4/1) substituted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 13(5)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/13/5/b), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/b) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-10d3d674fe61a92d8d30785f1e9f5a21]: Textual amendment: Words in [Sch. 9 para. 4(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/4/1) substituted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 13(5)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/13/5/b), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/b) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
 
-[^key-1ab58d7edbe6381de2739ff212aff926]: Textual amendment: [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/4/2) omitted (1.10.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 12](https://www.legislation.gov.uk/ukpga/2026/2/section/12), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/a) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-1ab58d7edbe6381de2739ff212aff926]: Textual amendment: [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/4/2) omitted (1.10.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 12](https://www.legislation.gov.uk/ukpga/2026/2/section/12), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/a) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
 
-[^key-33eaf764a3dc60370ef6df70567e50a6]: Commencement: Sch. 9 para. 5 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-33eaf764a3dc60370ef6df70567e50a6]: Commencement: Sch. 9 para. 5 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-916230d70a58f01064baa6a495c765a6]: Textual amendment: Words in [Sch. 9 para. 5(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/5/1) substituted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 13(5)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/13/5/c), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/b) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-916230d70a58f01064baa6a495c765a6]: Textual amendment: Words in [Sch. 9 para. 5(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/5/1) substituted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 13(5)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/13/5/c), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/b) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
 
-[^key-a9464a09c8fa1230adc5c839036e14cc]: Commencement: Sch. 9 para. 6 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a9464a09c8fa1230adc5c839036e14cc]: Commencement: Sch. 9 para. 6 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-83302e37521cdf6ab52cb835eda6236f]: Commencement: Sch. 9 para. 7 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-83302e37521cdf6ab52cb835eda6236f]: Commencement: Sch. 9 para. 7 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-856db437d1f40e8dac3943f0435492fd]: Commencement: Sch. 9 para. 8 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-856db437d1f40e8dac3943f0435492fd]: Commencement: Sch. 9 para. 8 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-47c59bdd8f3d002b2286d25260539246]: Textual amendment: [Sch. 9 Pt. 4A](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/part/4A) inserted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 14(7)](https://www.legislation.gov.uk/ukpga/2026/2/section/14/7), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/d) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-47c59bdd8f3d002b2286d25260539246]: Textual amendment: [Sch. 9 Pt. 4A](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/part/4A) inserted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 14(7)](https://www.legislation.gov.uk/ukpga/2026/2/section/14/7), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/d) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
 
-[^key-8d72268a90790c3491ec38a486048ace]: Textual amendment: [Sch. 9 Pt. 4B](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/part/4B) inserted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 15(6)](https://www.legislation.gov.uk/ukpga/2026/2/section/15/6), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/f) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-8d72268a90790c3491ec38a486048ace]: Textual amendment: [Sch. 9 Pt. 4B](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/part/4B) inserted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 15(6)](https://www.legislation.gov.uk/ukpga/2026/2/section/15/6), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/f) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
 
-[^key-022502f78ce4ee7f51fac398e93ab594]: Textual amendment: [Sch. 9 Pt. 4C](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/part/4C) inserted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 16(6)](https://www.legislation.gov.uk/ukpga/2026/2/section/16/6), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/g) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-022502f78ce4ee7f51fac398e93ab594]: Textual amendment: [Sch. 9 Pt. 4C](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/part/4C) inserted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 16(6)](https://www.legislation.gov.uk/ukpga/2026/2/section/16/6), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/g) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
 
-[^key-5b2e084d09714fe408a517895671b52e]: Commencement: Sch. 9 para. 9 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-5b2e084d09714fe408a517895671b52e]: Commencement: Sch. 9 para. 9 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ae74a7161cd3ab9fec5939c71aca9b49]: Modification: Sch. 9 para. 9(1)-(4) applied (with modifications) by [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44), [Sch. 19A paras. 1-3](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19A/paragraph/1) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)) and as amended (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 150(8)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/8/b))
+[^c-ae74a7161cd3ab9fec5939c71aca9b49]: Modification: Sch. 9 para. 9(1)-(4) applied (with modifications) by [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44), [Sch. 19A paras. 1-3](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19A/paragraph/1) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)) and as amended (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 150(8)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/8/b))
 
-[^key-0b0f659b6072e517f3af0400bbf92bee]: Textual amendment: Word in [Sch. 9 para. 9(4)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/9/4/a) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 150(2)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/2/a), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
+[^c-0b0f659b6072e517f3af0400bbf92bee]: Textual amendment: Word in [Sch. 9 para. 9(4)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/9/4/a) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 150(2)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/2/a), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
 
-[^key-e335d7855b4c82b9ed944256a1be7246]: Textual amendment: Words in [Sch. 9 para. 9(4)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/9/4/b) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 150(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/2/b), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
+[^c-e335d7855b4c82b9ed944256a1be7246]: Textual amendment: Words in [Sch. 9 para. 9(4)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/9/4/b) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 150(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/2/b), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
 
-[^key-6677476812a2822c787db5b9cdda17fc]: Textual amendment: [Sch. 9 para. 9(4)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/9/4/c) and word inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 150(2)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/2/c), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
+[^c-6677476812a2822c787db5b9cdda17fc]: Textual amendment: [Sch. 9 para. 9(4)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/9/4/c) and word inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 150(2)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/2/c), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
 
-[^key-3784c121e5f8f2b548a39162bb57d7a4]: Modification: [Sch. 9 para. 9(4A)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/9/4A) applied (with modifications) (28.6.2022) by 2003 c. 44, Sch. 19A paras. 2, 3 (as amended by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 150(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/8), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q))
+[^c-3784c121e5f8f2b548a39162bb57d7a4]: Modification: [Sch. 9 para. 9(4A)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/9/4A) applied (with modifications) (28.6.2022) by 2003 c. 44, Sch. 19A paras. 2, 3 (as amended by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 150(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/8), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q))
 
-[^key-8a38a8942756aac60afef7d10a222c0d]: Textual amendment: [Sch. 9 para. 9(4A)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/9/4A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 150(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/3), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
+[^c-8a38a8942756aac60afef7d10a222c0d]: Textual amendment: [Sch. 9 para. 9(4A)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/9/4A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 150(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/3), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
 
-[^key-7f18edd161529025a7f4158d210f2273]: Textual amendment: Words in [Sch. 9 para. 9(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/9/5) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 150(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/4), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
+[^c-7f18edd161529025a7f4158d210f2273]: Textual amendment: Words in [Sch. 9 para. 9(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/9/5) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 150(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/4), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
 
-[^key-5660ac7bed6bdd18fc4e2558cc723230]: Textual amendment: [Sch. 9 para. 9(6)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/9/6) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 150(5)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/5), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
+[^c-5660ac7bed6bdd18fc4e2558cc723230]: Textual amendment: [Sch. 9 para. 9(6)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/9/6) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 150(5)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/5), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
 
-[^key-921a293c930a6bdf4ec37245a7eeca26]: Commencement: Sch. 9 para. 10 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-921a293c930a6bdf4ec37245a7eeca26]: Commencement: Sch. 9 para. 10 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ecafd1147fe182312e0a3caa58431283]: Modification: Sch. 9 para. 10(1)(2) applied (with modifications) by 2003 c. 44, Sch. 19A paras. 1-3 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-ecafd1147fe182312e0a3caa58431283]: Modification: Sch. 9 para. 10(1)(2) applied (with modifications) by 2003 c. 44, Sch. 19A paras. 1-3 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-5e166c71d8992cfb14fb4c69cd2f0ae6]: Textual amendment: [Sch. 9 para. 10A](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/10A) and cross-heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 151(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/151/2), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
+[^c-5e166c71d8992cfb14fb4c69cd2f0ae6]: Textual amendment: [Sch. 9 para. 10A](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/10A) and cross-heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 151(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/151/2), [208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
 
-[^key-dcf58fff0385a9f15af733f461ac30e2]: Commencement: Sch. 9 para. 11 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-dcf58fff0385a9f15af733f461ac30e2]: Commencement: Sch. 9 para. 11 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-2f82f5df302e01eecd6386468ba8ec6d]: Commencement: Sch. 9 para. 12 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2f82f5df302e01eecd6386468ba8ec6d]: Commencement: Sch. 9 para. 12 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a7f359c06bb5b0f11c5fb4d9e577c48e]: Commencement: Sch. 9 para. 13 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a7f359c06bb5b0f11c5fb4d9e577c48e]: Commencement: Sch. 9 para. 13 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-153ae4f2723359a7cf89235d488b846e]: Modification: Sch. 9 para. 13 modified by 2006 c. 52, Sch. 6 para. 3(1) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 11(5)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/11/5/a) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-153ae4f2723359a7cf89235d488b846e]: Modification: Sch. 9 para. 13 modified by 2006 c. 52, Sch. 6 para. 3(1) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 11(5)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/11/5/a) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-6c363253a46cdd42b8cd59f3f9dd88d0]: Commencement: Sch. 9 para. 14 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6c363253a46cdd42b8cd59f3f9dd88d0]: Commencement: Sch. 9 para. 14 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ae5a047a8be45f32e1a16f202f4fbeb3]: Modification: Sch. 9 para. 14 excluded by 2006 c. 52, Sch. 6 para. 3(3) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 11(5)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/11/5/b) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-ae5a047a8be45f32e1a16f202f4fbeb3]: Modification: Sch. 9 para. 14 excluded by 2006 c. 52, Sch. 6 para. 3(3) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 11(5)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/11/5/b) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-220d6ef309029f112de746dc6d89e84f]: Commencement: Sch. 9 para. 15 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-220d6ef309029f112de746dc6d89e84f]: Commencement: Sch. 9 para. 15 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-fa81735b7d0e95b70846fb581d7ab0d0]: Commencement: Sch. 9 para. 16 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fa81735b7d0e95b70846fb581d7ab0d0]: Commencement: Sch. 9 para. 16 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-5ed9b691bf44857fef4c49ba2b0e58a9]: Commencement: Sch. 9 para. 17 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-5ed9b691bf44857fef4c49ba2b0e58a9]: Commencement: Sch. 9 para. 17 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c57e2021e94a5425054e22c7e3c4db9b]: Modification: Sch. 9 para. 17(1)(c) excluded by 2006 c. 52, Sch. 6 para. 4(1) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 11(6)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/11/6/a) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-c57e2021e94a5425054e22c7e3c4db9b]: Modification: Sch. 9 para. 17(1)(c) excluded by 2006 c. 52, Sch. 6 para. 4(1) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 11(6)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/11/6/a) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-ae4059d4393137c7314071f1d39ac228]: Modification: Sch. 9 para. 17(2)(c) excluded by 2006 s. 52, ss. 200, 202 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 paras. 19](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/19), [20(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/20/b) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-ae4059d4393137c7314071f1d39ac228]: Modification: Sch. 9 para. 17(2)(c) excluded by 2006 s. 52, ss. 200, 202 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 paras. 19](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/19), [20(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/20/b) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-8a902d822d22dbea0dc4fbc398f50f7d]: Commencement: Sch. 9 para. 18 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8a902d822d22dbea0dc4fbc398f50f7d]: Commencement: Sch. 9 para. 18 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-bb9038d0a848668115658f077c4bb507]: Modification: Sch. 9 para. 18 modified by 2006 c. 52, Sch. 6 para. 4(2) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 11(6)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/11/6/b) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-bb9038d0a848668115658f077c4bb507]: Modification: Sch. 9 para. 18 modified by 2006 c. 52, Sch. 6 para. 4(2) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 11(6)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/11/6/b) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-c0c27b752fe4a71bbc44e6913bf306c3]: Commencement: Sch. 9 para. 19 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c0c27b752fe4a71bbc44e6913bf306c3]: Commencement: Sch. 9 para. 19 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-22517f3adfb0e3ee99fc05e1fdf74b61]: Modification: Sch. 9 para. 19(1) modified by 2006 c. 52, Sch. 6 para. 5(1) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 11(7)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/11/7/a)[(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/11/7/b) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-22517f3adfb0e3ee99fc05e1fdf74b61]: Modification: Sch. 9 para. 19(1) modified by 2006 c. 52, Sch. 6 para. 5(1) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 11(7)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/11/7/a)[(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/11/7/b) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-e157a274a83d7fa716632c061099becc]: Commencement: Sch. 9 para. 20 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e157a274a83d7fa716632c061099becc]: Commencement: Sch. 9 para. 20 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a767ba88e4d355c91c459a892ab1a63f]: Modification: Sch. 9 para. 20(1)(d) excluded by 2006 c. 52, Sch. 6 para. 5(3) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 11(7)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/11/7/c) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-a767ba88e4d355c91c459a892ab1a63f]: Modification: Sch. 9 para. 20(1)(d) excluded by 2006 c. 52, Sch. 6 para. 5(3) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 11(7)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/11/7/c) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-90090114c363ff8e5ef913b2c81b6996]: Commencement: Sch. 9 para. 21 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-90090114c363ff8e5ef913b2c81b6996]: Commencement: Sch. 9 para. 21 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-b41f3fd64505ed02fc6e0c5f613df11c]: Modification: Sch. 9 para. 21 modified by 2006 c. 52, s. 179 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 4](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/4) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-b41f3fd64505ed02fc6e0c5f613df11c]: Modification: Sch. 9 para. 21 modified by 2006 c. 52, s. 179 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 4](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/4) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-23db13c978c7eabe3ea8a98de8b8b9bc]: Textual amendment: [Sch. 9 para. 21(7)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/21/7) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r), [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/11)
+[^c-23db13c978c7eabe3ea8a98de8b8b9bc]: Textual amendment: [Sch. 9 para. 21(7)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/paragraph/21/7) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r), [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/11)
 
-[^key-943a902762b4be2d72d4b35fa042f22c]: Commencement: Sch. 9 para. 22 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-943a902762b4be2d72d4b35fa042f22c]: Commencement: Sch. 9 para. 22 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-04afbb757fa98dc153985bd4fc0ca1c7]: Modification: Sch. 9 para. 22 modified by 2006 c. 52, s. 179 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 4](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/4) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-04afbb757fa98dc153985bd4fc0ca1c7]: Modification: Sch. 9 para. 22 modified by 2006 c. 52, s. 179 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 4](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/4) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-04dffa43f37dcc5afa8bb4d7b7fe5548]: Textual amendment: [Sch. 9 Pt. 10A](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/part/10A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s), [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/15/paragraph/6)
+[^c-04dffa43f37dcc5afa8bb4d7b7fe5548]: Textual amendment: [Sch. 9 Pt. 10A](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/part/10A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s), [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/15/paragraph/6)
 
-[^key-7bb43e92f66363d63527aa2deeaf69d7]: Commencement: Sch. 9 para. 23 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7bb43e92f66363d63527aa2deeaf69d7]: Commencement: Sch. 9 para. 23 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-0f01f5f1f0acb850c13a2557f73d9d95]: Modification: Sch. 9 paras. 23-35 modified by 2006 c. 52, s. 200(1)(c)(iv) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 19](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/19) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-0f01f5f1f0acb850c13a2557f73d9d95]: Modification: Sch. 9 paras. 23-35 modified by 2006 c. 52, s. 200(1)(c)(iv) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 19](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/19) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-e9e5ae3a8ed6b3328f35423a9b561dd0]: Commencement: Sch. 9 para. 24 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e9e5ae3a8ed6b3328f35423a9b561dd0]: Commencement: Sch. 9 para. 24 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ac228a5d97c09bd7e46512d3c332b515]: Commencement: Sch. 9 para. 25 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ac228a5d97c09bd7e46512d3c332b515]: Commencement: Sch. 9 para. 25 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-7fca44631e7131a02cbd47a3e7a1215d]: Commencement: Sch. 9 para. 26 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7fca44631e7131a02cbd47a3e7a1215d]: Commencement: Sch. 9 para. 26 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-294fd4dc7237e9a3eab34889c6450184]: Textual amendment: Words in [Sch. 9 Pt. 13](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/part/13) heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 152(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/152/4), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(q)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/q)
+[^c-294fd4dc7237e9a3eab34889c6450184]: Textual amendment: Words in [Sch. 9 Pt. 13](https://www.legislation.gov.uk/ukpga/2020/17/schedule/9/part/13) heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 152(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/152/4), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(q)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/q)
 
-[^key-48cb7784f85671d309400e272e06c80a]: Commencement: Sch. 9 para. 27 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-48cb7784f85671d309400e272e06c80a]: Commencement: Sch. 9 para. 27 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-9ed8d92d61ebdf01a6ce8832c9a4b4e5]: Commencement: Sch. 9 para. 28 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9ed8d92d61ebdf01a6ce8832c9a4b4e5]: Commencement: Sch. 9 para. 28 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-3b3e3b538d9b2d8b1fa8bdf98b1afbc3]: Commencement: Sch. 9 para. 29 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3b3e3b538d9b2d8b1fa8bdf98b1afbc3]: Commencement: Sch. 9 para. 29 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-16e7ddfd9e1486eabaabfee19ed20771]: Modification: Sch. 9 para. 29(1) applied (with modifications) by 2003 c. 44, Sch. 19A paras. 1-3 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-16e7ddfd9e1486eabaabfee19ed20771]: Modification: Sch. 9 para. 29(1) applied (with modifications) by 2003 c. 44, Sch. 19A paras. 1-3 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-877f90cba1077a2fc0a79e21a8550331]: Commencement: Sch. 9 para. 30 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-877f90cba1077a2fc0a79e21a8550331]: Commencement: Sch. 9 para. 30 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-f820f768475b1573d633d6e7d8a2a2b2]: Commencement: Sch. 9 para. 31 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f820f768475b1573d633d6e7d8a2a2b2]: Commencement: Sch. 9 para. 31 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-2dfaef0f2ef09d7bcf670f896bc32a96]: Modification: Sch. 9 paras. 31-33 applied (with modifications) by 2003 c. 44, Sch. 19A paras. 1-3 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-2dfaef0f2ef09d7bcf670f896bc32a96]: Modification: Sch. 9 paras. 31-33 applied (with modifications) by 2003 c. 44, Sch. 19A paras. 1-3 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-f9292f3772232e026a917f1522783927]: Commencement: Sch. 9 para. 32 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f9292f3772232e026a917f1522783927]: Commencement: Sch. 9 para. 32 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c299cf9086b699e4ee4dc1016fd8ae7d]: Commencement: Sch. 9 para. 33 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c299cf9086b699e4ee4dc1016fd8ae7d]: Commencement: Sch. 9 para. 33 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-bc42001cae162aaf0be7b07068f2e2fd]: Commencement: Sch. 9 para. 34 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-bc42001cae162aaf0be7b07068f2e2fd]: Commencement: Sch. 9 para. 34 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-24f0033c3f263d6fda562eba98c7d238]: Modification: Sch. 9 para. 34(1)(2) applied (with modifications) by 2003 c. 44, Sch. 19A paras. 1-3 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-24f0033c3f263d6fda562eba98c7d238]: Modification: Sch. 9 para. 34(1)(2) applied (with modifications) by 2003 c. 44, Sch. 19A paras. 1-3 (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 248(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/248/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-7ab134ccfc37004c244a3f09f262064a]: Commencement: Sch. 9 para. 35 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7ab134ccfc37004c244a3f09f262064a]: Commencement: Sch. 9 para. 35 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

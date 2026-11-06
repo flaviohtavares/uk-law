@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Duty to publish a personnel statement[^key-c20ca105ab88bfc9747321344e784b58][^key-c118922ec0af70b4cec44f6bc38cd149]
+## 52. Duty to publish a personnel statement[^c-c20ca105ab88bfc9747321344e784b58][^c-c118922ec0af70b4cec44f6bc38cd149]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c20ca105ab88bfc9747321344e784b58]: Commencement: S. 52 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-c20ca105ab88bfc9747321344e784b58]: Commencement: S. 52 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-c118922ec0af70b4cec44f6bc38cd149]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2025/21/section/52) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(b)(i)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/b/i)
+[^c-c118922ec0af70b4cec44f6bc38cd149]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2025/21/section/52) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(b)(i)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/b/i)

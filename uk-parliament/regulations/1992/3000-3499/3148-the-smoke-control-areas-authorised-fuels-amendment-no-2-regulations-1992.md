@@ -44,11 +44,11 @@ Coming into force
 
 The Secretary of State for the Environment as respects England and Wales and the Secretary of State for Scotland as respects Scotland, in exercise of the powers conferred by section 34(1)[^f00001] of the Clean Air Act 1956[^f00002] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-4ffe3f500a8afe5cb0f055ab0b41edce]
+## 1. Citation and commencement[^c-4ffe3f500a8afe5cb0f055ab0b41edce]
 
 These Regulations may be cited as the Smoke Control Areas (Authorised Fuels) (Amendment) (No. 2) Regulations 1992 and shall come into force on 7th January 1993.
 
-## 2. Authorised fuels for the purposes of the Clean Air Act 1956[^key-37a18c5e27805eba872cb9e009fdc87b]
+## 2. Authorised fuels for the purposes of the Clean Air Act 1956[^c-37a18c5e27805eba872cb9e009fdc87b]
 
 (1) Schedule 1 to the Smoke Control Areas (Authorised Fuels) Regulations 1991[^f00003] shall be amended as follows.
 
@@ -116,8 +116,8 @@ Section 11 of the Clean Air Act 1956 makes the occupier of a building within a s
 
 [^f00002]: Footnote: [1956 c. 52](https://www.legislation.gov.uk/ukpga/1956/52).
 
-[^key-4ffe3f500a8afe5cb0f055ab0b41edce]: Commencement: Reg. 1 in force at 7.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/3148/regulation/1)
+[^c-4ffe3f500a8afe5cb0f055ab0b41edce]: Commencement: Reg. 1 in force at 7.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/3148/regulation/1)
 
-[^key-37a18c5e27805eba872cb9e009fdc87b]: Commencement: Reg. 2 in force at 7.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/3148/regulation/1)
+[^c-37a18c5e27805eba872cb9e009fdc87b]: Commencement: Reg. 2 in force at 7.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/3148/regulation/1)
 
 [^f00003]: Footnote: S.I. [1991/1282](https://www.legislation.gov.uk/uksi/1991/1282), amended by S.I. [1992/72](https://www.legislation.gov.uk/uksi/1992/72).

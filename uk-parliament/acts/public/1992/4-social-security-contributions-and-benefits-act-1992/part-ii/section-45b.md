@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45B. Reduction of additional pension in Category A retirement pension: pension sharing.[^key-3079a2bb33ff5d3b48f6eed0b92f3779]
+## 45B. Reduction of additional pension in Category A retirement pension: pension sharing.[^c-3079a2bb33ff5d3b48f6eed0b92f3779]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (6) For the purposes of subsection (3) above, the relevant revaluation percentage is the percentage specified, in relation to earnings factors for the tax year in which the pensioner became subject to the debit, by the last order under section 148 of the Administration Act to come into force before the end of the final relevant year.
 
-(7)[^key-3d23a871ed186fd1165a24f333379070] The Secretary of State may by regulations make provision about the calculation and verification of cash equivalents for the purposes of this section.
+(7)[^c-3d23a871ed186fd1165a24f333379070] The Secretary of State may by regulations make provision about the calculation and verification of cash equivalents for the purposes of this section.
 
 (7A) The power conferred by subsection (7) above includes power to provide—
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3079a2bb33ff5d3b48f6eed0b92f3779]: Textual amendment: S. 45B inserted (11.11.1999 for specified purposes, 1.12.2000 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(5)(a)](https://www.legislation.gov.uk/ukpga/1998/14/section/89/5/a), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1998/14/schedule/6/paragraph/2); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/1998/2209/schedule/part/IV)
+[^c-3079a2bb33ff5d3b48f6eed0b92f3779]: Textual amendment: S. 45B inserted (11.11.1999 for specified purposes, 1.12.2000 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(5)(a)](https://www.legislation.gov.uk/ukpga/1998/14/section/89/5/a), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1998/14/schedule/6/paragraph/2); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/1998/2209/schedule/part/IV)
 
-[^key-3d23a871ed186fd1165a24f333379070]: Textual amendment: S. 45B(7)(7A) substituted for s. 45B(7) (29.9.2000) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/41/2), [86(1)(b)(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/1/b); [S.I. 2000/2666](https://www.legislation.gov.uk/uksi/2000/2666), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/3309/article/2/1)
+[^c-3d23a871ed186fd1165a24f333379070]: Textual amendment: S. 45B(7)(7A) substituted for s. 45B(7) (29.9.2000) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/41/2), [86(1)(b)(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/1/b); [S.I. 2000/2666](https://www.legislation.gov.uk/uksi/2000/2666), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/3309/article/2/1)

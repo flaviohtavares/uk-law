@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## SCHEDULE 5 — Amendment of Pastoral Measure 1983[^key-f20cfe3dc0c3c03a4374a40442cd3956]
+## SCHEDULE 5 — Amendment of Pastoral Measure 1983[^c-f20cfe3dc0c3c03a4374a40442cd3956]
 
 *Extent: E*
 
@@ -24,96 +24,96 @@ Section 63(1)
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**6.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**7.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**8.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**9.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**10.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**11.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**12.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**13.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**14.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**15.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**16.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**17.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**18.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**19.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**20.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**21.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**22.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**23.**[^key-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-f20cfe3dc0c3c03a4374a40442cd3956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f20cfe3dc0c3c03a4374a40442cd3956]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukcm/2007/1/schedule/5) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-f20cfe3dc0c3c03a4374a40442cd3956]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukcm/2007/1/schedule/5) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Societies which may be registered.[^key-8a13278a59a94b86aae484ad13706363]
+## 1. Societies which may be registered.[^c-8a13278a59a94b86aae484ad13706363]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a13278a59a94b86aae484ad13706363]: Textual amendment: Ss. 1, 1A substituted (6.4.2018) for s. 1 by [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 8(1)](https://www.legislation.gov.uk/nia/2016/16/section/8/1), [17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2) (with [Sch. 2 paras. 2](https://www.legislation.gov.uk/nia/2016/16/schedule/2/paragraph/2), [3](https://www.legislation.gov.uk/nia/2016/16/schedule/2/paragraph/3)); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(b)](https://www.legislation.gov.uk/nisr/2017/217/article/2/b)
+[^c-8a13278a59a94b86aae484ad13706363]: Textual amendment: Ss. 1, 1A substituted (6.4.2018) for s. 1 by [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 8(1)](https://www.legislation.gov.uk/nia/2016/16/section/8/1), [17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2) (with [Sch. 2 paras. 2](https://www.legislation.gov.uk/nia/2016/16/schedule/2/paragraph/2), [3](https://www.legislation.gov.uk/nia/2016/16/schedule/2/paragraph/3)); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(b)](https://www.legislation.gov.uk/nisr/2017/217/article/2/b)

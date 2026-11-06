@@ -34,7 +34,7 @@ Section 96
 
 ### Agriculture (Miscellaneous Provisions) Act 1963[^c10347571]
 
-**4.**[^key-8dd281e541dcc9dd29986135917af0a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8dd281e541dcc9dd29986135917af0a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### London Government Act 1963[^c10347581]
 
@@ -46,14 +46,14 @@ Section 96
 
 ### Agriculture Act I967[^c10347601]
 
-**7.**[^key-5f567d1d8de7ad5ecfe1e0ed2fee7ba1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5f567d1d8de7ad5ecfe1e0ed2fee7ba1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Agriculture (Miscellaneous Provisions) Act 1968[^c10347611]
 
-**8.** In section 8(2) of the Agriculture (Miscellaneous Provisions) Act 1968— *(Extent: E+W)* *(affected by repeal, see note)*[^key-13c182a8d4dbf881c827ffaa3aedc302]
+**8.** In section 8(2) of the Agriculture (Miscellaneous Provisions) Act 1968— *(Extent: E+W)* *(affected by repeal, see note)*[^c-13c182a8d4dbf881c827ffaa3aedc302]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-13c182a8d4dbf881c827ffaa3aedc302] for “section 59 of the Diseases of Animals Act 1950” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^key-13c182a8d4dbf881c827ffaa3aedc302] “ section 50 of the Animal Health Act 1981 ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-13c182a8d4dbf881c827ffaa3aedc302] and *(Extent: E+W)* *(affected by repeal, see note)*[^key-13c182a8d4dbf881c827ffaa3aedc302]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-13c182a8d4dbf881c827ffaa3aedc302] for “in subsection (2) the words from ’and shall’ onwards were omitted” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^key-13c182a8d4dbf881c827ffaa3aedc302] “ paragraph (b)(ii) were omitted from subsection (2) ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-13c182a8d4dbf881c827ffaa3aedc302]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-13c182a8d4dbf881c827ffaa3aedc302]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-13c182a8d4dbf881c827ffaa3aedc302] for “section 59 of the Diseases of Animals Act 1950” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^c-13c182a8d4dbf881c827ffaa3aedc302] “ section 50 of the Animal Health Act 1981 ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-13c182a8d4dbf881c827ffaa3aedc302] and *(Extent: E+W)* *(affected by repeal, see note)*[^c-13c182a8d4dbf881c827ffaa3aedc302]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-13c182a8d4dbf881c827ffaa3aedc302] for “in subsection (2) the words from ’and shall’ onwards were omitted” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^c-13c182a8d4dbf881c827ffaa3aedc302] “ paragraph (b)(ii) were omitted from subsection (2) ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-13c182a8d4dbf881c827ffaa3aedc302]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-13c182a8d4dbf881c827ffaa3aedc302]
 
 ### Transport Act 1968[^c10347621]
 
@@ -94,7 +94,7 @@ Section 96
 
 [^c10347571]: Marginal citation: [1963 c. 11](https://www.legislation.gov.uk/ukpga/1963/11).
 
-[^key-8dd281e541dcc9dd29986135917af0a8]: Textual amendment: Sch. 5 para. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
+[^c-8dd281e541dcc9dd29986135917af0a8]: Textual amendment: Sch. 5 para. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
 
 [^c10347581]: Marginal citation: [1963 c. 33](https://www.legislation.gov.uk/ukpga/1963/33).
 
@@ -102,11 +102,11 @@ Section 96
 
 [^c10347601]: Marginal citation: [1967 c. 22](https://www.legislation.gov.uk/ukpga/1967/22).
 
-[^key-5f567d1d8de7ad5ecfe1e0ed2fee7ba1]: Textual amendment: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/1981/22/schedule/5/paragraph/7) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-5f567d1d8de7ad5ecfe1e0ed2fee7ba1]: Textual amendment: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/1981/22/schedule/5/paragraph/7) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
 
 [^c10347611]: Marginal citation: [1968 c. 34](https://www.legislation.gov.uk/ukpga/1968/34).
 
-[^key-13c182a8d4dbf881c827ffaa3aedc302]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/1981/22/schedule/5/paragraph/8) repealed (E.W.) (1.10.2007 for E., 24.10.2007 for W.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/2711](https://www.legislation.gov.uk/uksi/2007/2711), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2007/2711/article/2/b/ii); [S.I. 2007/3065](https://www.legislation.gov.uk/wsi/2007/3065), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2007/3065/article/2/b/ii)
+[^c-13c182a8d4dbf881c827ffaa3aedc302]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/1981/22/schedule/5/paragraph/8) repealed (E.W.) (1.10.2007 for E., 24.10.2007 for W.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/2711](https://www.legislation.gov.uk/uksi/2007/2711), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2007/2711/article/2/b/ii); [S.I. 2007/3065](https://www.legislation.gov.uk/wsi/2007/3065), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2007/3065/article/2/b/ii)
 
 [^c10347621]: Marginal citation: [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73)
 

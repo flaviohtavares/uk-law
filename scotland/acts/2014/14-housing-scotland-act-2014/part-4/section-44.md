@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Offence of operating as a letting agent without registration[^key-6a5511b1d68360c2c7bc7027f46abf30]
+## 44. Offence of operating as a letting agent without registration[^c-6a5511b1d68360c2c7bc7027f46abf30]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a5511b1d68360c2c7bc7027f46abf30]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2014/14/section/44) in force at 2.10.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/412/article/3)) (as amended (1.12.2017) by S.S.I. 2017/330, art. 2)
+[^c-6a5511b1d68360c2c7bc7027f46abf30]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2014/14/section/44) in force at 2.10.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/412/article/3)) (as amended (1.12.2017) by S.S.I. 2017/330, art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Guaranteed minimum pension for surviving spouses and civil partners[^key-fabecf2c449e1300c187cced9aa9609a]
+## 66. Guaranteed minimum pension for surviving spouses and civil partners[^c-fabecf2c449e1300c187cced9aa9609a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ a pension the weekly rate of which is equal to the guaranteed minimum is payable
 
 ## Annotations
 
-[^key-fabecf2c449e1300c187cced9aa9609a]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2014/2336/regulation/66) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-fabecf2c449e1300c187cced9aa9609a]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2014/2336/regulation/66) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

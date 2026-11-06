@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, ENGLAND
 
-The Pennine Acute Hospitals National Health Service Trust (Establishment) and the Bury Health Care National Health Service Trust, the Rochdale Healthcare National Health Service Trust, the Oldham National Health Service Trust and the North Manchester Healthcare National Health Service Trust (Dissolution) Order 2002 (revoked)[^key-936d6931e8decdd227fc783506508ff6]
+The Pennine Acute Hospitals National Health Service Trust (Establishment) and the Bury Health Care National Health Service Trust, the Rochdale Healthcare National Health Service Trust, the Oldham National Health Service Trust and the North Manchester Healthcare National Health Service Trust (Dissolution) Order 2002 (revoked)[^c-936d6931e8decdd227fc783506508ff6]
 
 Made
 
@@ -47,48 +47,48 @@ article 8
 
 1st April 2002
 
-[^key-936d6931e8decdd227fc783506508ff6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-936d6931e8decdd227fc783506508ff6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-936d6931e8decdd227fc783506508ff6]
+## 1. Citation, commencement and interpretation[^c-936d6931e8decdd227fc783506508ff6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Establishment and name of trust[^key-936d6931e8decdd227fc783506508ff6]
+## 2. Establishment and name of trust[^c-936d6931e8decdd227fc783506508ff6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Nature and functions of the trust[^key-936d6931e8decdd227fc783506508ff6]
+## 3. Nature and functions of the trust[^c-936d6931e8decdd227fc783506508ff6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Directors of the trust[^key-936d6931e8decdd227fc783506508ff6]
+## 4. Directors of the trust[^c-936d6931e8decdd227fc783506508ff6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Operational date and accounting date of the trust[^key-936d6931e8decdd227fc783506508ff6]
+## 5. Operational date and accounting date of the trust[^c-936d6931e8decdd227fc783506508ff6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Limited functions before operational date[^key-936d6931e8decdd227fc783506508ff6]
+## 6. Limited functions before operational date[^c-936d6931e8decdd227fc783506508ff6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Assistance by Health Authorities before the operational date[^key-936d6931e8decdd227fc783506508ff6]
+## 7. Assistance by Health Authorities before the operational date[^c-936d6931e8decdd227fc783506508ff6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Dissolution of NHS trusts[^key-936d6931e8decdd227fc783506508ff6]
+## 8. Dissolution of NHS trusts[^c-936d6931e8decdd227fc783506508ff6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-936d6931e8decdd227fc783506508ff6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-936d6931e8decdd227fc783506508ff6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-936d6931e8decdd227fc783506508ff6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-936d6931e8decdd227fc783506508ff6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-936d6931e8decdd227fc783506508ff6]: Textual amendment: Order revoked (1.10.2021) by [The Pennine Acute Hospitals National Health Service Trust (Dissolution) Order 2021 (S.I. 2021/1085)](https://www.legislation.gov.uk/uksi/2021/1085), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1085/article/1), [3](https://www.legislation.gov.uk/uksi/2021/1085/article/3)
+[^c-936d6931e8decdd227fc783506508ff6]: Textual amendment: Order revoked (1.10.2021) by [The Pennine Acute Hospitals National Health Service Trust (Dissolution) Order 2021 (S.I. 2021/1085)](https://www.legislation.gov.uk/uksi/2021/1085), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1085/article/1), [3](https://www.legislation.gov.uk/uksi/2021/1085/article/3)

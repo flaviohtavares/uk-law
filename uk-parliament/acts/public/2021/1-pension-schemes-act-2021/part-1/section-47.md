@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Powers to extend definition of qualifying schemes[^c24459251][^key-dda363b239dc4bb460e1079c6e258ffa]
+## 47. Powers to extend definition of qualifying schemes[^c24459251][^c-dda363b239dc4bb460e1079c6e258ffa]
 
 *Extent: E+W+S*
 
@@ -41,7 +41,7 @@ summary: ''
 - (a) modifying or amending this Part;
 - (b) making consequential modifications or amendments of any other enactment.
 
-(4A)[^key-f5e97a0c70e4dc2e530d10bde99a9324] Where regulations under this section make provision in relation to an unconnected multiple employer scheme that corresponds or is similar to provision contained in regulations under another provision of this Part made in relation to a single or connected employer scheme, the regulations under this section are to be treated for the purposes of this Part as having been made under that other provision of this Part to the extent that they contain such provision.
+(4A)[^c-f5e97a0c70e4dc2e530d10bde99a9324] Where regulations under this section make provision in relation to an unconnected multiple employer scheme that corresponds or is similar to provision contained in regulations under another provision of this Part made in relation to a single or connected employer scheme, the regulations under this section are to be treated for the purposes of this Part as having been made under that other provision of this Part to the extent that they contain such provision.
 
 (5) Regulations under this section are subject to affirmative resolution procedure.
 
@@ -49,6 +49,6 @@ summary: ''
 
 [^c24459251]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2021/1/section/47) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-dda363b239dc4bb460e1079c6e258ffa]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2021/1/section/47) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-dda363b239dc4bb460e1079c6e258ffa]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2021/1/section/47) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
 
-[^key-f5e97a0c70e4dc2e530d10bde99a9324]: Textual amendment: [S. 47(4A)](https://www.legislation.gov.uk/ukpga/2021/1/section/47/4A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [20](https://www.legislation.gov.uk/uksi/2025/1313/regulation/20)
+[^c-f5e97a0c70e4dc2e530d10bde99a9324]: Textual amendment: [S. 47(4A)](https://www.legislation.gov.uk/ukpga/2021/1/section/47/4A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [20](https://www.legislation.gov.uk/uksi/2025/1313/regulation/20)

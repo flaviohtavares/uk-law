@@ -43,7 +43,7 @@ The Secretary of State for Health makes the following Order in exercise of power
 
 The Secretary of State has given the notices required by sections 2 and 4 of the Public Health (Control of Disease) Act 1984 and has not received any notice of objection.
 
-## 1. Citation, commencement and interpretation[^key-c78bd09a8681de2912063f887ad1929d]
+## 1. Citation, commencement and interpretation[^c-c78bd09a8681de2912063f887ad1929d]
 
 (1) This Order may be cited as the Hull and Goole Port Health Authority Order 2011 and shall come into force on 24th March 2011.
 
@@ -60,7 +60,7 @@ The Secretary of State has given the notices required by sections 2 and 4 of the
 
 (5) References in this Order to reference points shall be construed as references to National Grid reference points.
 
-## 2. The port health district[^key-0b5b465ed07154f862686e8b415bc26c]
+## 2. The port health district[^c-0b5b465ed07154f862686e8b415bc26c]
 
 (1) For the purposes of the Act, the part of the Port of Humber described in paragraph (2) together with the land and water described in paragraph (3) shall be a port health district.
 
@@ -68,13 +68,13 @@ The Secretary of State has given the notices required by sections 2 and 4 of the
 
 (3) The land and water described in this paragraph are such part of the district of the specified riparian authorities as is adjacent to or abuts on the waters of the part of the Port of Humber described in paragraph (2) and which comprises the whole of any wharf and of the area within the gates of any dock and the buildings upon it.
 
-## 3. The port health authority[^key-c97dbe8d9f008b1d06ce209b2e46306b]
+## 3. The port health authority[^c-c97dbe8d9f008b1d06ce209b2e46306b]
 
 (1) The port health authority for the port health district constituted under article 2 shall be a joint board consisting of eleven members of whom six shall be appointed by the Kingston upon Hull City Council, two shall be appointed by the East Riding of Yorkshire Council and three shall be appointed by the North Lincolnshire Council.
 
 (2) The joint board constituted under paragraph (1) shall be called the Hull and Goole Port Health Authority.
 
-## 4. Appointment of members and meetings of the joint board[^key-6c00065d01943269dbe0940ed814b7db]
+## 4. Appointment of members and meetings of the joint board[^c-6c00065d01943269dbe0940ed814b7db]
 
 (1) The specified riparian authorities shall appoint members to the joint board at meetings to be held in June each year.
 
@@ -90,13 +90,13 @@ The Secretary of State has given the notices required by sections 2 and 4 of the
 
 (7) A person appointed to the joint board shall cease to be a member of the board if they cease to be a member of the specified riparian authority by which they were appointed.
 
-## 5. Retirement of members[^key-682144fde9ff31fa03f17d0b9ffbcc70]
+## 5. Retirement of members[^c-682144fde9ff31fa03f17d0b9ffbcc70]
 
 (1) All members of the joint board shall retire from office and the newly appointed members shall come into office on 1st June each year.
 
 (2) A retiring member of the joint board may be re-appointed to the board for a further term of office if at the time of their re-appointment they are otherwise qualified to be appointed.
 
-## 6. Chair of the joint board[^key-f208fcb2bacb540a6788f91d7cf12933]
+## 6. Chair of the joint board[^c-f208fcb2bacb540a6788f91d7cf12933]
 
 (1) The chair of the joint board shall be elected annually by the members of the board from amongst the members.
 
@@ -108,7 +108,7 @@ The Secretary of State has given the notices required by sections 2 and 4 of the
 
 (5) During their term of office the chair shall continue to be a member of the joint board.
 
-## 7. Application of provisions of the Local Government Act 1972 to the joint board[^key-22bdc640caa91cc5a285db5cd60a2e2c]
+## 7. Application of provisions of the Local Government Act 1972 to the joint board[^c-22bdc640caa91cc5a285db5cd60a2e2c]
 
 (1) The provisions of the Local Government Act 1972 listed in Schedule 1 shall apply to the joint board as port health authority.
 
@@ -118,11 +118,11 @@ The Secretary of State has given the notices required by sections 2 and 4 of the
 - (b) a reference in that Act to an office held under that Act or otherwise shall be read as a reference to the office of member of the joint board; and
 - (c) a reference in that Act to functions shall be read as functions conferred on the joint board as port health authority under this Order.
 
-## 8. Jurisdiction[^key-037c9843c62ab0ea33004b54c23ef6ff]
+## 8. Jurisdiction[^c-037c9843c62ab0ea33004b54c23ef6ff]
 
 The joint board shall have jurisdiction as port health authority over all waters and land within the port health district.
 
-## 9. Functions assigned to the joint board[^key-7b0d0953f9ac3f19678debc01258f4c4]
+## 9. Functions assigned to the joint board[^c-7b0d0953f9ac3f19678debc01258f4c4]
 
 (1) There are assigned to the joint board as port health authority the functions, rights and liabilities of a local authority or a food authority under the enactments specified in Schedule 2, insofar as they are applicable to a port health authority and to any land, waters, premises, vessels or persons within its jurisdiction.
 
@@ -133,7 +133,7 @@ The joint board shall have jurisdiction as port health authority over all waters
 
 (3) This article shall not apply to any vessel belonging to Her Majesty or to any vessel engaged in the service of Her Majesty, whether belonging to Her Majesty or not, or to any vessel belonging to the armed forces of any country to which the provisions of the Visiting Forces Act 1952[^f00003] apply by virtue of section 1 of that Act.
 
-## 10. Expenses[^key-080196a030f2307174b8b02a0d691b7c]
+## 10. Expenses[^c-080196a030f2307174b8b02a0d691b7c]
 
 (1) Any expenses incurred by the joint board shall be defrayed out of a common fund to be contributed to by the specified riparian authorities in the following proportions—
 
@@ -153,7 +153,7 @@ The joint board shall have jurisdiction as port health authority over all waters
 
 (4) A single arbitrator agreed upon by the specified riparian authorities (or in default of agreement a person nominated by the President of the Chartered Institute of Arbitrators for the time being) may determine the contribution of each specified riparian authority.
 
-## 11. Revocation[^key-d07c874cddc26be84916aada9eff8157]
+## 11. Revocation[^c-d07c874cddc26be84916aada9eff8157]
 
 The Hull and Goole Port Health Authority Order 1982 is revoked[^f00004].
 
@@ -167,7 +167,7 @@ Department of Health
 
 23rd March 2011
 
-## SCHEDULE 1 — Provisions of the Local Government Act 1972 applied to the joint board[^key-3647fe0ce285a31029eb6fcdce60e980]
+## SCHEDULE 1 — Provisions of the Local Government Act 1972 applied to the joint board[^c-3647fe0ce285a31029eb6fcdce60e980]
 
 Article 7
 
@@ -193,7 +193,7 @@ Article 7
 | Sections 222-223 | Legal proceedings |
 | Sections 224-234 | Documents and notices etc |
 
-## SCHEDULE 2 — Functions assigned to the joint board[^key-df85f52b7f17b9e4c3709da30cf0026d]
+## SCHEDULE 2 — Functions assigned to the joint board[^c-df85f52b7f17b9e4c3709da30cf0026d]
 
 Article 9
 
@@ -266,35 +266,35 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-c78bd09a8681de2912063f887ad1929d]: Commencement: Art. 1 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
+[^c-c78bd09a8681de2912063f887ad1929d]: Commencement: Art. 1 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
 
-[^key-0b5b465ed07154f862686e8b415bc26c]: Commencement: Art. 2 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
+[^c-0b5b465ed07154f862686e8b415bc26c]: Commencement: Art. 2 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
 
-[^key-c97dbe8d9f008b1d06ce209b2e46306b]: Commencement: Art. 3 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
+[^c-c97dbe8d9f008b1d06ce209b2e46306b]: Commencement: Art. 3 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
 
-[^key-6c00065d01943269dbe0940ed814b7db]: Commencement: Art. 4 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
+[^c-6c00065d01943269dbe0940ed814b7db]: Commencement: Art. 4 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
 
-[^key-682144fde9ff31fa03f17d0b9ffbcc70]: Commencement: Art. 5 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
+[^c-682144fde9ff31fa03f17d0b9ffbcc70]: Commencement: Art. 5 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
 
-[^key-f208fcb2bacb540a6788f91d7cf12933]: Commencement: Art. 6 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
+[^c-f208fcb2bacb540a6788f91d7cf12933]: Commencement: Art. 6 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
 
-[^key-22bdc640caa91cc5a285db5cd60a2e2c]: Commencement: Art. 7 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
+[^c-22bdc640caa91cc5a285db5cd60a2e2c]: Commencement: Art. 7 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
 
-[^key-037c9843c62ab0ea33004b54c23ef6ff]: Commencement: Art. 8 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
+[^c-037c9843c62ab0ea33004b54c23ef6ff]: Commencement: Art. 8 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
 
-[^key-7b0d0953f9ac3f19678debc01258f4c4]: Commencement: Art. 9 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
+[^c-7b0d0953f9ac3f19678debc01258f4c4]: Commencement: Art. 9 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
 
 [^f00003]: Footnote: [1952 c.67](https://www.legislation.gov.uk/ukpga/1952/67).
 
-[^key-080196a030f2307174b8b02a0d691b7c]: Commencement: Art. 10 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
+[^c-080196a030f2307174b8b02a0d691b7c]: Commencement: Art. 10 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
 
-[^key-d07c874cddc26be84916aada9eff8157]: Commencement: Art. 11 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
+[^c-d07c874cddc26be84916aada9eff8157]: Commencement: Art. 11 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
 
 [^f00004]: Footnote: [SI 1982/1854](https://www.legislation.gov.uk/uksi/1982/1854).
 
-[^key-3647fe0ce285a31029eb6fcdce60e980]: Commencement: Sch. 1 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
+[^c-3647fe0ce285a31029eb6fcdce60e980]: Commencement: Sch. 1 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
 
-[^key-df85f52b7f17b9e4c3709da30cf0026d]: Commencement: Sch. 2 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
+[^c-df85f52b7f17b9e4c3709da30cf0026d]: Commencement: Sch. 2 in force at 24.3.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1)
 
 [^f00005]: Footnote: [S.I. 2010/658](https://www.legislation.gov.uk/uksi/2010/658).
 

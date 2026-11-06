@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Submission of primary bid form to OFCOM[^key-861714a5d5dda19771c6bb928758c792]
+## 54. Submission of primary bid form to OFCOM[^c-861714a5d5dda19771c6bb928758c792]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-861714a5d5dda19771c6bb928758c792]: Commencement: Reg. 54 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-861714a5d5dda19771c6bb928758c792]: Commencement: Reg. 54 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

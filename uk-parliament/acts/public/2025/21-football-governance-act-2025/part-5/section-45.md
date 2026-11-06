@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Duty not to operate a team in relation to a prohibited competition[^key-1cc735fba5c20fe0ca9cef90e3131d3e][^key-ef3ece8e639c5e2e26ea0d6118fa7575]
+## 45. Duty not to operate a team in relation to a prohibited competition[^c-1cc735fba5c20fe0ca9cef90e3131d3e][^c-ef3ece8e639c5e2e26ea0d6118fa7575]
 
 *Extent: E+W*
 
@@ -74,6 +74,6 @@ and must have regard to any representations duly made.
 
 ## Annotations
 
-[^key-1cc735fba5c20fe0ca9cef90e3131d3e]: Commencement: S. 45 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-1cc735fba5c20fe0ca9cef90e3131d3e]: Commencement: S. 45 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-ef3ece8e639c5e2e26ea0d6118fa7575]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2025/21/section/45) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(b)(i)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/b/i)
+[^c-ef3ece8e639c5e2e26ea0d6118fa7575]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2025/21/section/45) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(b)(i)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/b/i)

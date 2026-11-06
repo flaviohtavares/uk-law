@@ -48,7 +48,7 @@ Coming into force
 
 11th September 2006
 
-The Secretary of State for Transport makes the following Rules in exercise of the powers conferred by sections 6, 6A, 7(3)(b) and (c) and (4) and 10 of the Transport and Works Act 1992 [^c15886461]. In so far as these Rules relate to Wales they are made with the agreement of the National Assembly for Wales [^c15886471].[^key-8ed4e493a52ea5f5a6214e5e6c7b724a]
+The Secretary of State for Transport makes the following Rules in exercise of the powers conferred by sections 6, 6A, 7(3)(b) and (c) and (4) and 10 of the Transport and Works Act 1992 [^c15886461]. In so far as these Rules relate to Wales they are made with the agreement of the National Assembly for Wales [^c15886471].[^c-8ed4e493a52ea5f5a6214e5e6c7b724a]
 
 ## Contents
 
@@ -356,4 +356,4 @@ A full Regulatory Impact Assessment of the effect that this instrument will have
 
 [^c15886471]: Marginal citation: For the requirement for agreement to the exercise of functions in relation to Wales, see [article 5(1)](https://www.legislation.gov.uk/uksi/2006/1466/article/5/1) of, and Schedule 2 to, the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672) and the entry in Schedule 2 relating to the Transport and Works Act 1992.
 
-[^key-8ed4e493a52ea5f5a6214e5e6c7b724a]: Modification: Rules: power to amend or revoke conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-8ed4e493a52ea5f5a6214e5e6c7b724a]: Modification: Rules: power to amend or revoke conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

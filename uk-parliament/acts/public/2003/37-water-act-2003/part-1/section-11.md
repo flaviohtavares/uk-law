@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Who may apply for a licence[^key-a52f12d56027d3c137dbbd9020e76728]
+## 11. Who may apply for a licence[^c-a52f12d56027d3c137dbbd9020e76728]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a52f12d56027d3c137dbbd9020e76728]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2003/37/section/11) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(f)](https://www.legislation.gov.uk/uksi/2006/984/article/2/f) (with [Sch. para. 6](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/6)[7(3)](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/7/3))
+[^c-a52f12d56027d3c137dbbd9020e76728]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2003/37/section/11) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(f)](https://www.legislation.gov.uk/uksi/2006/984/article/2/f) (with [Sch. para. 6](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/6)[7(3)](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/7/3))

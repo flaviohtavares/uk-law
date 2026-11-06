@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 222. Service of notices following appointment[^key-dc6e1424ed2a9a1fa0b271c80889c9eb]
+## 222. Service of notices following appointment[^c-dc6e1424ed2a9a1fa0b271c80889c9eb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 7.41 of the 1991 Rules.
 
 ## Annotations
 
-[^key-dc6e1424ed2a9a1fa0b271c80889c9eb]: Commencement: Rule 222 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-dc6e1424ed2a9a1fa0b271c80889c9eb]: Commencement: Rule 222 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 226. Principal court rules and practice to apply[^key-13405d9670b063448a8bad256294dcef]
+## 226. Principal court rules and practice to apply[^c-13405d9670b063448a8bad256294dcef]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ The Rules of the Supreme Court (Northern Ireland) 1980[^f00024] and the practice
 
 ## Annotations
 
-[^key-13405d9670b063448a8bad256294dcef]: Commencement: Rule 226 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-13405d9670b063448a8bad256294dcef]: Commencement: Rule 226 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
 
 [^f00024]: Footnote: [S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346)

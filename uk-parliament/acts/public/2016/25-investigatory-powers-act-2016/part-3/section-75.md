@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Judicial approval for local authority authorisations[^key-214ffff299a70ca76beb8f752943b643]
+## 75. Judicial approval for local authority authorisations[^c-214ffff299a70ca76beb8f752943b643]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-214ffff299a70ca76beb8f752943b643]: Textual amendment: S. 75 omitted (5.2.2019) by virtue of [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/15) (see S.I. 2019/174, reg. 2(c))
+[^c-214ffff299a70ca76beb8f752943b643]: Textual amendment: S. 75 omitted (5.2.2019) by virtue of [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/15) (see S.I. 2019/174, reg. 2(c))

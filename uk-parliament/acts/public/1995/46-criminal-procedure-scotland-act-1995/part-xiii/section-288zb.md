@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288ZB. References of compatibility issues to the High Court or Supreme Court[^M_C_c9d87c42-32f0-4492-f6b7-6914a4a7ce3f][^key-882aa22fdb7caae8e044f5c4c6bae05d]
+## 288ZB. References of compatibility issues to the High Court or Supreme Court[^M_C_c9d87c42-32f0-4492-f6b7-6914a4a7ce3f][^c-882aa22fdb7caae8e044f5c4c6bae05d]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^M_C_c9d87c42-32f0-4492-f6b7-6914a4a7ce3f]: Modification: S. 288ZB(1)(4)(5)(7) modified (22.4.2013) by [The Scotland Act 2012 (Transitional and Consequential Provisions) Order 2013 (S.I. 2013/7)](https://www.legislation.gov.uk/uksi/2013/7), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/7/article/1/1), [6](https://www.legislation.gov.uk/uksi/2013/7/article/14)
 
-[^key-882aa22fdb7caae8e044f5c4c6bae05d]: Textual amendment: S. 288ZB inserted (22.4.2013) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 35](https://www.legislation.gov.uk/ukpga/2012/11/section/35), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/6/article/2/b)
+[^c-882aa22fdb7caae8e044f5c4c6bae05d]: Textual amendment: S. 288ZB inserted (22.4.2013) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 35](https://www.legislation.gov.uk/ukpga/2012/11/section/35), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/6/article/2/b)

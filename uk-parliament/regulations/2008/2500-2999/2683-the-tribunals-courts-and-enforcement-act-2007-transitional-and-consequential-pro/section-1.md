@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, commencement and extent[^key-0a6d3909f3c415c9b9cabe6a9b8b6589]
+## 1. Citation, commencement and extent[^c-0a6d3909f3c415c9b9cabe6a9b8b6589]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Tribunals, Courts and Enforcement Act 2007 (Trans
 
 ## Annotations
 
-[^key-0a6d3909f3c415c9b9cabe6a9b8b6589]: Commencement: Art. 1 in force at 3.11.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1)
+[^c-0a6d3909f3c415c9b9cabe6a9b8b6589]: Commencement: Art. 1 in force at 3.11.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1)

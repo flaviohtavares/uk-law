@@ -16,336 +16,336 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 21 — Powers relating to potentially infectious persons[^key-36483edac7a29baec105062be447abb2]
+## SCHEDULE 21 — Powers relating to potentially infectious persons[^c-36483edac7a29baec105062be447abb2]
 
 *Extent: E+W+S+N.I.*
 
 Section 51
 
-### PART 1 — Overview and interpretation[^key-36483edac7a29baec105062be447abb2]
+### PART 1 — Overview and interpretation[^c-36483edac7a29baec105062be447abb2]
 
 **No longer in force.**
 
-#### Overview[^key-36483edac7a29baec105062be447abb2]
+#### Overview[^c-36483edac7a29baec105062be447abb2]
 
-**1.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Potentially infectious persons[^key-36483edac7a29baec105062be447abb2]
+#### Potentially infectious persons[^c-36483edac7a29baec105062be447abb2]
 
-**2.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Other definitions[^key-36483edac7a29baec105062be447abb2]
+#### Other definitions[^c-36483edac7a29baec105062be447abb2]
 
-**3.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Powers relating to potentially infectious persons in England[^key-36483edac7a29baec105062be447abb2]
-
-**No longer in force.**
-
-#### Declarations of risks of coronavirus in England[^key-36483edac7a29baec105062be447abb2]
-
-**4.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Powers to direct or remove persons to a place suitable for screening and assessment[^key-36483edac7a29baec105062be447abb2]
-
-**6.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Powers exercisable at a screening and assessment place: public health officers[^key-36483edac7a29baec105062be447abb2]
-
-**8.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**12.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Powers exercisable at a screening and assessment place: constables and immigration officers[^key-36483edac7a29baec105062be447abb2]
-
-**13.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Powers exercisable after assessment[^key-36483edac7a29baec105062be447abb2]
-
-**14.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**15.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**16.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**17.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Children[^key-36483edac7a29baec105062be447abb2]
-
-**18.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Formalities[^key-36483edac7a29baec105062be447abb2]
-
-**19.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Ancillary powers[^key-36483edac7a29baec105062be447abb2]
-
-**20.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Guidance and advice[^key-36483edac7a29baec105062be447abb2]
-
-**21.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### End of transmission control period[^key-36483edac7a29baec105062be447abb2]
-
-**22.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Offences[^key-36483edac7a29baec105062be447abb2]
-
-**23.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Revocation of regulations[^key-36483edac7a29baec105062be447abb2]
-
-**24.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 3 — Powers relating to potentially infectious persons in Scotland[^key-36483edac7a29baec105062be447abb2]
-
-#### Declarations of risks of coronavirus in Scotland[^key-36483edac7a29baec105062be447abb2]
+### PART 2 — Powers relating to potentially infectious persons in England[^c-36483edac7a29baec105062be447abb2]
 
 **No longer in force.**
 
-**25.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Declarations of risks of coronavirus in England[^c-36483edac7a29baec105062be447abb2]
 
-**26.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Powers to direct or remove persons to a place suitable for screening and assessment[^key-36483edac7a29baec105062be447abb2]
+**5.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**No longer in force.**
+#### Powers to direct or remove persons to a place suitable for screening and assessment[^c-36483edac7a29baec105062be447abb2]
 
-**27.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Powers exercisable at a screening and assessment place: public health officers[^key-36483edac7a29baec105062be447abb2]
+#### Powers exercisable at a screening and assessment place: public health officers[^c-36483edac7a29baec105062be447abb2]
 
-**No longer in force.**
+**8.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Powers exercisable at a screening and assessment place: constables and immigration officers[^c-36483edac7a29baec105062be447abb2]
 
-#### Powers exercisable at a screening and assessment place: constables and immigration officers[^key-36483edac7a29baec105062be447abb2]
+**13.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**No longer in force.**
+#### Powers exercisable after assessment[^c-36483edac7a29baec105062be447abb2]
 
-**34.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Powers exercisable after assessment[^key-36483edac7a29baec105062be447abb2]
+**15.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**No longer in force.**
+**16.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Children[^c-36483edac7a29baec105062be447abb2]
 
-**37.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Formalities[^c-36483edac7a29baec105062be447abb2]
 
-**39.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Children[^key-36483edac7a29baec105062be447abb2]
+#### Ancillary powers[^c-36483edac7a29baec105062be447abb2]
 
-**No longer in force.**
+**20.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**40.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Guidance and advice[^c-36483edac7a29baec105062be447abb2]
 
-#### Formalities[^key-36483edac7a29baec105062be447abb2]
+**21.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**No longer in force.**
+#### End of transmission control period[^c-36483edac7a29baec105062be447abb2]
 
-**41.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Ancillary powers[^key-36483edac7a29baec105062be447abb2]
+#### Offences[^c-36483edac7a29baec105062be447abb2]
 
-**No longer in force.**
+**23.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**42.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Revocation of regulations[^c-36483edac7a29baec105062be447abb2]
 
-#### Guidance and advice[^key-36483edac7a29baec105062be447abb2]
+**24.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**No longer in force.**
+### PART 3 — Powers relating to potentially infectious persons in Scotland[^c-36483edac7a29baec105062be447abb2]
 
-**43.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### End of transmission control period[^key-36483edac7a29baec105062be447abb2]
+#### Declarations of risks of coronavirus in Scotland[^c-36483edac7a29baec105062be447abb2]
 
 **No longer in force.**
 
-**44.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Offences[^key-36483edac7a29baec105062be447abb2]
+**26.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**No longer in force.**
-
-**45.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Modifications of Public Health etc. (Scotland) Act 2008[^key-36483edac7a29baec105062be447abb2]
-
-**46.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Constables[^key-36483edac7a29baec105062be447abb2]
+#### Powers to direct or remove persons to a place suitable for screening and assessment[^c-36483edac7a29baec105062be447abb2]
 
 **No longer in force.**
 
-**47.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — Powers relating to potentially infectious persons in Wales[^key-36483edac7a29baec105062be447abb2]
+**28.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**No longer in force.**
-
-#### Declarations of risks of coronavirus in Wales[^key-36483edac7a29baec105062be447abb2]
-
-**48.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**49.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Powers to direct or remove persons to a place suitable for screening and assessment[^key-36483edac7a29baec105062be447abb2]
-
-**50.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**51.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Powers exercisable at a screening and assessment place: public health officers[^key-36483edac7a29baec105062be447abb2]
-
-**52.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**53.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**54.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**55.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**56.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Powers exercisable at a screening and assessment place: constables and immigration officers[^key-36483edac7a29baec105062be447abb2]
-
-**57.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Powers exercisable after assessment[^key-36483edac7a29baec105062be447abb2]
-
-**58.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**59.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**60.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**61.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Children[^key-36483edac7a29baec105062be447abb2]
-
-**62.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Formalities[^key-36483edac7a29baec105062be447abb2]
-
-**63.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Ancillary powers[^key-36483edac7a29baec105062be447abb2]
-
-**64.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Guidance and advice[^key-36483edac7a29baec105062be447abb2]
-
-**65.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### End of transmission control period[^key-36483edac7a29baec105062be447abb2]
-
-**66.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Offences[^key-36483edac7a29baec105062be447abb2]
-
-**67.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Revocation of regulations[^key-36483edac7a29baec105062be447abb2]
-
-**68.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 5 — Powers relating to potentially infectious persons in Northern Ireland[^key-36483edac7a29baec105062be447abb2]
+#### Powers exercisable at a screening and assessment place: public health officers[^c-36483edac7a29baec105062be447abb2]
 
 **No longer in force.**
 
-#### Declarations of risks of coronavirus in Northern Ireland[^key-36483edac7a29baec105062be447abb2]
+**29.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**69.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**70.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Powers to direct or remove persons to a place suitable for screening and assessment[^key-36483edac7a29baec105062be447abb2]
+**32.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**71.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**72.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Powers exercisable at a screening and assessment place: constables and immigration officers[^c-36483edac7a29baec105062be447abb2]
 
-#### Powers exercisable at a screening and assessment place: public health officers[^key-36483edac7a29baec105062be447abb2]
+**No longer in force.**
 
-**73.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**74.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Powers exercisable after assessment[^c-36483edac7a29baec105062be447abb2]
 
-**75.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**No longer in force.**
 
-**76.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**77.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Powers exercisable at a screening and assessment place: constables and immigration officers[^key-36483edac7a29baec105062be447abb2]
+**37.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**78.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Powers exercisable after assessment[^key-36483edac7a29baec105062be447abb2]
+**39.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**79.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Children[^c-36483edac7a29baec105062be447abb2]
 
-**80.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**No longer in force.**
 
-**81.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**82.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Formalities[^c-36483edac7a29baec105062be447abb2]
 
-#### Children[^key-36483edac7a29baec105062be447abb2]
+**No longer in force.**
 
-**83.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Formalities[^key-36483edac7a29baec105062be447abb2]
+#### Ancillary powers[^c-36483edac7a29baec105062be447abb2]
 
-**84.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**No longer in force.**
 
-#### Ancillary powers[^key-36483edac7a29baec105062be447abb2]
+**42.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**85.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Guidance and advice[^c-36483edac7a29baec105062be447abb2]
 
-#### Guidance and advice[^key-36483edac7a29baec105062be447abb2]
+**No longer in force.**
 
-**86.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### End of transmission control period[^key-36483edac7a29baec105062be447abb2]
+#### End of transmission control period[^c-36483edac7a29baec105062be447abb2]
 
-**87.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**No longer in force.**
 
-#### Offences[^key-36483edac7a29baec105062be447abb2]
+**44.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**88.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Offences[^c-36483edac7a29baec105062be447abb2]
 
-#### Supplementary interpretation[^key-36483edac7a29baec105062be447abb2]
+**No longer in force.**
 
-**89.**[^key-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Modifications of Public Health etc. (Scotland) Act 2008[^c-36483edac7a29baec105062be447abb2]
+
+**46.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Constables[^c-36483edac7a29baec105062be447abb2]
+
+**No longer in force.**
+
+**47.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 4 — Powers relating to potentially infectious persons in Wales[^c-36483edac7a29baec105062be447abb2]
+
+**No longer in force.**
+
+#### Declarations of risks of coronavirus in Wales[^c-36483edac7a29baec105062be447abb2]
+
+**48.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**49.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Powers to direct or remove persons to a place suitable for screening and assessment[^c-36483edac7a29baec105062be447abb2]
+
+**50.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**51.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Powers exercisable at a screening and assessment place: public health officers[^c-36483edac7a29baec105062be447abb2]
+
+**52.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**53.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**54.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**55.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**56.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Powers exercisable at a screening and assessment place: constables and immigration officers[^c-36483edac7a29baec105062be447abb2]
+
+**57.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Powers exercisable after assessment[^c-36483edac7a29baec105062be447abb2]
+
+**58.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**59.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**60.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**61.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Children[^c-36483edac7a29baec105062be447abb2]
+
+**62.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Formalities[^c-36483edac7a29baec105062be447abb2]
+
+**63.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Ancillary powers[^c-36483edac7a29baec105062be447abb2]
+
+**64.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Guidance and advice[^c-36483edac7a29baec105062be447abb2]
+
+**65.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### End of transmission control period[^c-36483edac7a29baec105062be447abb2]
+
+**66.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Offences[^c-36483edac7a29baec105062be447abb2]
+
+**67.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Revocation of regulations[^c-36483edac7a29baec105062be447abb2]
+
+**68.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 5 — Powers relating to potentially infectious persons in Northern Ireland[^c-36483edac7a29baec105062be447abb2]
+
+**No longer in force.**
+
+#### Declarations of risks of coronavirus in Northern Ireland[^c-36483edac7a29baec105062be447abb2]
+
+**69.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**70.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Powers to direct or remove persons to a place suitable for screening and assessment[^c-36483edac7a29baec105062be447abb2]
+
+**71.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**72.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Powers exercisable at a screening and assessment place: public health officers[^c-36483edac7a29baec105062be447abb2]
+
+**73.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**74.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**75.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**76.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**77.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Powers exercisable at a screening and assessment place: constables and immigration officers[^c-36483edac7a29baec105062be447abb2]
+
+**78.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Powers exercisable after assessment[^c-36483edac7a29baec105062be447abb2]
+
+**79.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**80.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**81.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**82.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Children[^c-36483edac7a29baec105062be447abb2]
+
+**83.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Formalities[^c-36483edac7a29baec105062be447abb2]
+
+**84.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Ancillary powers[^c-36483edac7a29baec105062be447abb2]
+
+**85.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Guidance and advice[^c-36483edac7a29baec105062be447abb2]
+
+**86.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### End of transmission control period[^c-36483edac7a29baec105062be447abb2]
+
+**87.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Offences[^c-36483edac7a29baec105062be447abb2]
+
+**88.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Supplementary interpretation[^c-36483edac7a29baec105062be447abb2]
+
+**89.**[^c-36483edac7a29baec105062be447abb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-36483edac7a29baec105062be447abb2]: Textual amendment: Sch. 21 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-36483edac7a29baec105062be447abb2]: Textual amendment: Sch. 21 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

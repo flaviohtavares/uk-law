@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 115. Penalty in respect of benefit fraud not resulting in overpayment[^key-ae42b34a98417bc135796f974174a903]
+## 115. Penalty in respect of benefit fraud not resulting in overpayment[^c-ae42b34a98417bc135796f974174a903]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae42b34a98417bc135796f974174a903]: Commencement: [Art. 115](https://www.legislation.gov.uk/nisi/2015/2006/article/115) in operation at 4.4.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 4(b)](https://www.legislation.gov.uk/nisr/2016/46/article/4/b)
+[^c-ae42b34a98417bc135796f974174a903]: Commencement: [Art. 115](https://www.legislation.gov.uk/nisi/2015/2006/article/115) in operation at 4.4.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 4(b)](https://www.legislation.gov.uk/nisr/2016/46/article/4/b)

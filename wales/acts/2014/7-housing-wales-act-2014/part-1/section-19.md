@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Licence application requirements[^key-ee61f8e2b9b5d010a1a7a16f6a604167][^key-f932b0d4008569ee7e964ddc251969d8]
+## 19. Licence application requirements[^c-ee61f8e2b9b5d010a1a7a16f6a604167][^c-f932b0d4008569ee7e964ddc251969d8]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ee61f8e2b9b5d010a1a7a16f6a604167]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2014/7/section/19) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-ee61f8e2b9b5d010a1a7a16f6a604167]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2014/7/section/19) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-f932b0d4008569ee7e964ddc251969d8]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2014/7/section/19) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(i)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/i)
+[^c-f932b0d4008569ee7e964ddc251969d8]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2014/7/section/19) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(i)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/i)

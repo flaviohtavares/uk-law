@@ -32,7 +32,7 @@ summary: ''
 
 ROAD TRAFFIC
 
-The Passenger and Goods Vehicles (Community Recording Equipment Regulation) Regulations 2006 (revoked)[^key-e53ff7ed78419f7cd4801a275dd4f74f]
+The Passenger and Goods Vehicles (Community Recording Equipment Regulation) Regulations 2006 (revoked)[^c-e53ff7ed78419f7cd4801a275dd4f74f]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 3rd January 2007
 
-[^key-e53ff7ed78419f7cd4801a275dd4f74f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e53ff7ed78419f7cd4801a275dd4f74f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-e53ff7ed78419f7cd4801a275dd4f74f]
+## 1. Citation and Commencement[^c-e53ff7ed78419f7cd4801a275dd4f74f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of definition of the Community Recording Equipment Regulation[^key-e53ff7ed78419f7cd4801a275dd4f74f]
+## 2. Amendment of definition of the Community Recording Equipment Regulation[^c-e53ff7ed78419f7cd4801a275dd4f74f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-e53ff7ed78419f7cd4801a275dd4f74f]
+## 3. Revocation[^c-e53ff7ed78419f7cd4801a275dd4f74f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e53ff7ed78419f7cd4801a275dd4f74f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e53ff7ed78419f7cd4801a275dd4f74f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e53ff7ed78419f7cd4801a275dd4f74f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e53ff7ed78419f7cd4801a275dd4f74f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e53ff7ed78419f7cd4801a275dd4f74f]: Textual amendment: Regulations revoked (23.4.2010) by [The Passenger and Goods Vehicles (Community Recording Equipment Regulation) Regulations 2010 (S.I. 2010/892)](https://www.legislation.gov.uk/uksi/2010/892), [regs. 1](https://www.legislation.gov.uk/uksi/2010/892/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/892/regulation/2)
+[^c-e53ff7ed78419f7cd4801a275dd4f74f]: Textual amendment: Regulations revoked (23.4.2010) by [The Passenger and Goods Vehicles (Community Recording Equipment Regulation) Regulations 2010 (S.I. 2010/892)](https://www.legislation.gov.uk/uksi/2010/892), [regs. 1](https://www.legislation.gov.uk/uksi/2010/892/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/892/regulation/2)

@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 5) Regulations 2021 (revoked)[^key-5dd9cba216307d51111187fcaf3674fb]
+The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 5) Regulations 2021 (revoked)[^c-5dd9cba216307d51111187fcaf3674fb]
 
 Made
 
@@ -45,79 +45,79 @@ Coming into force
 
 at 4.00 a.m. on 9 April 2021
 
-[^key-5dd9cba216307d51111187fcaf3674fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5dd9cba216307d51111187fcaf3674fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-5dd9cba216307d51111187fcaf3674fb]
+## PART 1 — General[^c-5dd9cba216307d51111187fcaf3674fb]
 
-### 1. Title and coming into force[^key-5dd9cba216307d51111187fcaf3674fb]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendments[^key-5dd9cba216307d51111187fcaf3674fb]
-
-### 2. Amendments to the Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020[^key-5dd9cba216307d51111187fcaf3674fb]
+### 1. Title and coming into force[^c-5dd9cba216307d51111187fcaf3674fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment to regulation 3[^key-5dd9cba216307d51111187fcaf3674fb]
+## PART 2 — Amendments[^c-5dd9cba216307d51111187fcaf3674fb]
+
+### 2. Amendments to the Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020[^c-5dd9cba216307d51111187fcaf3674fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendments to regulation 6B[^key-5dd9cba216307d51111187fcaf3674fb]
+### 3. Amendment to regulation 3[^c-5dd9cba216307d51111187fcaf3674fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment to regulation 6D[^key-5dd9cba216307d51111187fcaf3674fb]
+### 4. Amendments to regulation 6B[^c-5dd9cba216307d51111187fcaf3674fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment to regulation 6G[^key-5dd9cba216307d51111187fcaf3674fb]
+### 5. Amendment to regulation 6D[^c-5dd9cba216307d51111187fcaf3674fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. New regulation 6K[^key-5dd9cba216307d51111187fcaf3674fb]
+### 6. Amendment to regulation 6G[^c-5dd9cba216307d51111187fcaf3674fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendments to regulation 9[^key-5dd9cba216307d51111187fcaf3674fb]
+### 7. New regulation 6K[^c-5dd9cba216307d51111187fcaf3674fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendments to regulation 10[^key-5dd9cba216307d51111187fcaf3674fb]
+### 8. Amendments to regulation 9[^c-5dd9cba216307d51111187fcaf3674fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendments to regulation 12E[^key-5dd9cba216307d51111187fcaf3674fb]
+### 9. Amendments to regulation 10[^c-5dd9cba216307d51111187fcaf3674fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendments to regulation 14[^key-5dd9cba216307d51111187fcaf3674fb]
+### 10. Amendments to regulation 12E[^c-5dd9cba216307d51111187fcaf3674fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendments to regulation 16[^key-5dd9cba216307d51111187fcaf3674fb]
+### 11. Amendments to regulation 14[^c-5dd9cba216307d51111187fcaf3674fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. New Schedule 1D[^key-5dd9cba216307d51111187fcaf3674fb]
+### 12. Amendments to regulation 16[^c-5dd9cba216307d51111187fcaf3674fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Amendments to Schedule 2[^key-5dd9cba216307d51111187fcaf3674fb]
+### 13. New Schedule 1D[^c-5dd9cba216307d51111187fcaf3674fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Amendments to Schedule 3A[^key-5dd9cba216307d51111187fcaf3674fb]
+### 14. Amendments to Schedule 2[^c-5dd9cba216307d51111187fcaf3674fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5dd9cba216307d51111187fcaf3674fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 15. Amendments to Schedule 3A[^c-5dd9cba216307d51111187fcaf3674fb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5dd9cba216307d51111187fcaf3674fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-5dd9cba216307d51111187fcaf3674fb]EXPLANATORY NOTE
+[^c-5dd9cba216307d51111187fcaf3674fb]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -141,4 +141,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-5dd9cba216307d51111187fcaf3674fb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/454) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 36](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/36)
+[^c-5dd9cba216307d51111187fcaf3674fb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/454) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 36](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/36)

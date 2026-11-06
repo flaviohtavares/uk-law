@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Grant of local authority application under Chapter 4[^key-2da6e211c1d841dc095025b139198f66][^key-6d0077bcd56f479e870dc4dd854f2e3d]
+## 84. Grant of local authority application under Chapter 4[^c-2da6e211c1d841dc095025b139198f66][^c-6d0077bcd56f479e870dc4dd854f2e3d]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2da6e211c1d841dc095025b139198f66]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2010/8/section/84) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-2da6e211c1d841dc095025b139198f66]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2010/8/section/84) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-6d0077bcd56f479e870dc4dd854f2e3d]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2010/8/section/84) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-6d0077bcd56f479e870dc4dd854f2e3d]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2010/8/section/84) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

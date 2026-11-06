@@ -361,7 +361,7 @@ for either or both the purposes mentioned in subsection (6).
 - (b) provide that the Commissioner may make a joint report with the Children's Commissioner for Wales where they have discharged their respective functions under this Act and the Care Standards Act 2000 (c. 14) in relation to the same matters;
 - (c) make provision about the publication of a report;
 - (d) specify any further action which the Commissioner is required or permitted to take after making a report.
-- (e)[^key-c3a7c704a2af2f365a9b0479ac73088e] provide that the Commissioner may make a joint report with the Welsh Language Commissioner where they have discharged their respective functions under this Act and the Welsh Language (Wales) Measure 2011 in relation to the same matters.
+- (e)[^c-c3a7c704a2af2f365a9b0479ac73088e] provide that the Commissioner may make a joint report with the Welsh Language Commissioner where they have discharged their respective functions under this Act and the Welsh Language (Wales) Measure 2011 in relation to the same matters.
 
 (4) Subject to subsection (5), a report made by the Commissioner under the regulations must not—
 
@@ -405,9 +405,9 @@ for either or both the purposes mentioned in subsection (6).
 
 relates to or raises a matter which could be the subject of an investigation by another ombudsman (the “connected matter”).
 
-(2) Where the Commissioner considers it appropriate, he may (as respects the Welsh Language Commissioner) or must (as respects another Ombudsman)[^key-cf64ea214a889429d2e3c0522dccff3e] inform the other ombudsman about the connected matter.
+(2) Where the Commissioner considers it appropriate, he may (as respects the Welsh Language Commissioner) or must (as respects another Ombudsman)[^c-cf64ea214a889429d2e3c0522dccff3e] inform the other ombudsman about the connected matter.
 
-(3) Where the Commissioner considers that the case also relates to or raises a matter which he is entitled to examine himself (the “older people matter”), he may (as respects the Welsh Language Commissioner) or must (as respects another Ombudsman)[^key-2df02e030223ddfbc14a47b2d0ec5921] also if he considers it appropriate—
+(3) Where the Commissioner considers that the case also relates to or raises a matter which he is entitled to examine himself (the “older people matter”), he may (as respects the Welsh Language Commissioner) or must (as respects another Ombudsman)[^c-2df02e030223ddfbc14a47b2d0ec5921] also if he considers it appropriate—
 
 - (a) inform the other ombudsman about the Commissioner's proposals for the investigation of the case; and
 - (b) consult the other ombudsman about those proposals.
@@ -423,13 +423,13 @@ relates to or raises a matter which could be the subject of an investigation by 
 - (a) that the case is not one which relates to or raises a matter that he is entitled to examine himself, and
 - (b) that it is appropriate to do so,
 
-he may (as respects the Welsh Language Commissioner) or must (as respects another Ombudsman)[^key-536223b8d98b48a986d622dcb7a62324] inform the person whose case it is, or another person interested in it that he thinks fit, about how to secure the referral of the connected matter to the other ombudsman.
+he may (as respects the Welsh Language Commissioner) or must (as respects another Ombudsman)[^c-536223b8d98b48a986d622dcb7a62324] inform the person whose case it is, or another person interested in it that he thinks fit, about how to secure the referral of the connected matter to the other ombudsman.
 
 (6) In this section “**other ombudsman**” means—
 
 - (a) the Public Services Ombudsman for Wales;
 - (b) the Children's Commissioner for Wales.
-- (c)[^key-145df12cca0582d49f776a03d0fb0461] the Welsh Language Commissioner.
+- (c)[^c-145df12cca0582d49f776a03d0fb0461] the Welsh Language Commissioner.
 
 (7) In this section “**investigation**” includes examination and inquiry, and cognate expressions are to be construed accordingly.
 
@@ -450,9 +450,9 @@ he may (as respects the Welsh Language Commissioner) or must (as respects anothe
 (1) This section applies to—
 
 - (a) information obtained by the Commissioner in the discharge of any of his functions;
-- (b) information obtained by the Commissioner from the Public Services Ombudsman for Wales by virtue of section 34V[^M_F_8a6ff80a-0ddd-4e2c-dc65-97d6c5a8ab2b] of the Public Services Ombudsman (Wales) Act 2005 (c. 10) (working jointly with the Commissioner for Older People in Wales) or section 66 of the Public Services Ombudsman (Wales) Act 2019 (working jointly with specified persons)[^key-c4a94cb037f03a8f38e3df86393d4836] ;
+- (b) information obtained by the Commissioner from the Public Services Ombudsman for Wales by virtue of section 34V[^M_F_8a6ff80a-0ddd-4e2c-dc65-97d6c5a8ab2b] of the Public Services Ombudsman (Wales) Act 2005 (c. 10) (working jointly with the Commissioner for Older People in Wales) or section 66 of the Public Services Ombudsman (Wales) Act 2019 (working jointly with specified persons)[^c-c4a94cb037f03a8f38e3df86393d4836] ;
 - (c) information obtained by the Commissioner from another ombudsman by virtue of any provision in an enactment relating to that ombudsman which corresponds to any provision of section 17;
-- (d) information obtained by the Commissioner from the Information Commission[^key-4f69512632d318a09f16d7319e9cc2d4] by virtue of section 76 of the Freedom of Information Act 2000 (c. 36) (disclosure between Information Commission and ombudsmen).
+- (d) information obtained by the Commissioner from the Information Commission[^c-4f69512632d318a09f16d7319e9cc2d4] by virtue of section 76 of the Freedom of Information Act 2000 (c. 36) (disclosure between Information Commission and ombudsmen).
 
 (2) Information to which this section applies must not be disclosed except where its disclosure is authorised by subsection (3).
 
@@ -464,7 +464,7 @@ he may (as respects the Welsh Language Commissioner) or must (as respects anothe
 - (d) for the purpose of an inquiry with a view to the taking of proceedings mentioned in paragraph (c);
 - (e) for the purpose of proceedings under section 11;
 - (f) if the information is to the effect that a person is likely to constitute a threat to the health or safety of one or more persons and the disclosure is to a person to whom the Commissioner thinks it should be disclosed in the public interest;
-- (g) if the information is information to which subsection (6) applies and the disclosure is to the Information Commission[^key-68b94d2b7fbd5d5c4d7109cc5dfe3ff3];
+- (g) if the information is information to which subsection (6) applies and the disclosure is to the Information Commission[^c-68b94d2b7fbd5d5c4d7109cc5dfe3ff3];
 - (h) if the information was obtained by the Commissioner more than 70 years before the date of the disclosure and the disclosure is to a person to whom the Commissioner thinks it should be disclosed in the public interest.
 
 (4) The condition is that the disclosure is—
@@ -479,16 +479,16 @@ he may (as respects the Welsh Language Commissioner) or must (as respects anothe
 
 (6) This subsection applies to information if it appears to the Commissioner to relate to—
 
-- (a) a matter in respect of which the Information Commission[^key-62e7e5dbf1e585357a5d734678cb6e96] could exercise a power conferred by an enactment mentioned in subsection (7); or
+- (a) a matter in respect of which the Information Commission[^c-62e7e5dbf1e585357a5d734678cb6e96] could exercise a power conferred by an enactment mentioned in subsection (7); or
 - (b) the commission of an offence mentioned in subsection (8).
 
 (7) The enactments are—
 
-- (a)[^key-aa0bf701cae9f56b449a6957bd913cd4] sections 142 to 154, 160 to 164 or 174 to 176 of, or Schedule 15 to, the Data Protection Act 2018 (certain provisions relating to enforcement);
+- (a)[^c-aa0bf701cae9f56b449a6957bd913cd4] sections 142 to 154, 160 to 164 or 174 to 176 of, or Schedule 15 to, the Data Protection Act 2018 (certain provisions relating to enforcement);
 - (b) section 48 of the Freedom of Information Act 2000 (c. 36) (practice recommendations); and
 - (c) Part 4 of that Act (enforcement).
 
-(8)[^key-593246cb57ceccc401d7bf179bf0930e] The offences are those under—
+(8)[^c-593246cb57ceccc401d7bf179bf0930e] The offences are those under—
 
 - (a) a provision of the Data Protection Act 2018 other than paragraph 15 of Schedule 15 (obstruction of execution of warrant etc); or
 - (b) section 77 of the Freedom of Information Act 2000 (offence of altering etc records with intent to prevent disclosure).
@@ -626,7 +626,7 @@ In considering, for the purposes of this Act, what constitutes the interests of 
 - “**enactment**” includes an enactment contained in an Act passed in the Session in which this Act is passed or in a later Session;
 - “**family health service provider in Wales**” means—
   - (a) a person who provides services under a contract entered into by that person with a Local Health Board under section 42 or 57 of the National Health Service (Wales) Act 2006[^c2102459][^c2102459] (c. 49);
-  - (b) a person who has undertaken to provide in Wales general ophthalmic services[^c2102463] , or both general ophthalmic services and other ophthalmic services in accordance with arrangements made with a Local Health Board,[^key-0351831f9796616eb27c73bd14f719fb] under [^key-718aefded184c16df5ba2764923a9e77]... that Act, or pharmaceutical services under Chapter 1 of Part 7[^c2102463] of that Act;
+  - (b) a person who has undertaken to provide in Wales general ophthalmic services[^c2102463] , or both general ophthalmic services and other ophthalmic services in accordance with arrangements made with a Local Health Board,[^c-0351831f9796616eb27c73bd14f719fb] under [^c-718aefded184c16df5ba2764923a9e77]... that Act, or pharmaceutical services under Chapter 1 of Part 7[^c2102463] of that Act;
   - (c) an individual who provides in Wales primary medical services or primary dental services in accordance with arrangements made under section 50 or 64 of that Act[^c2102465][^c2102465](except as an employee of, or otherwise on behalf of, a Welsh health service body or an independent provider in Wales);
   - (d) [^c2102467]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**family health services**” means services provided in Wales which are mentioned in any of paragraphs (a) to (d) of the definition of “family health service provider in Wales”;
@@ -848,7 +848,7 @@ as may have been provided for under the terms of his appointment.
 
 ### Examinations by the Comptroller and Auditor General
 
-**14.**[^key-557dc3722ed47cbfb3b6e4e586f55a4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-557dc3722ed47cbfb3b6e4e586f55a4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Evidence
 
@@ -905,7 +905,7 @@ Section 3
 
 *Health and social care*
 
-- Social Care Wales[^key-c642af4df9cbd1a845c3d94c9d17449c].
+- Social Care Wales[^c-c642af4df9cbd1a845c3d94c9d17449c].
 - A Local Health Board.
 - An NHS trust managing a hospital or other establishment or facility in Wales.
 - A Special Health Authority discharging functions in relation to Wales.
@@ -919,13 +919,13 @@ Section 3
 
 - The National Council for Education and Training for Wales.
 - The Office of Her Majesty's Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru.
-- The Commission for Tertiary Education and Research[^key-6b55786ed8fba38804972e359277c2fc].
+- The Commission for Tertiary Education and Research[^c-6b55786ed8fba38804972e359277c2fc].
 - A further education corporation discharging functions in relation to Wales.
 - A higher education corporation discharging functions in relation to Wales.
-- A tertiary education provider (other than one mentioned elsewhere in this Schedule) that is registered in a category specified in regulations made for the purposes of section 88 or 105 of the Tertiary Education and Research (Wales) Act 2022[^key-2032d94f006695d026d666560256e52a].
+- A tertiary education provider (other than one mentioned elsewhere in this Schedule) that is registered in a category specified in regulations made for the purposes of section 88 or 105 of the Tertiary Education and Research (Wales) Act 2022[^c-2032d94f006695d026d666560256e52a].
 - The governing body of a maintained school in Wales at which further education is provided.
-- [^key-7416b03742f41a6193054671b3739fd2]...
-- Qualifications Wales.[^key-c28add17f1baab760bfd92bd37e2b75f]
+- [^c-7416b03742f41a6193054671b3739fd2]...
+- Qualifications Wales.[^c-c28add17f1baab760bfd92bd37e2b75f]
 
 *Arts and leisure*
 
@@ -939,14 +939,14 @@ Section 3
 *Environment*
 
 - A National Park authority for a National Park in Wales.
-- The Natural Resources Body for Wales[^key-8212927629066fd90fd418fefb67bcb2].
+- The Natural Resources Body for Wales[^c-8212927629066fd90fd418fefb67bcb2].
 - The Environment Agency.
 - The Forestry Commissioners.
 
 *Miscellaneous*
 
 - The Welsh Development Agency.
-- Comisiynydd y Gymraeg (The Welsh Language Commissioner).[^key-18be56c81416f593e6e97c6574294e88]
+- Comisiynydd y Gymraeg (The Welsh Language Commissioner).[^c-18be56c81416f593e6e97c6574294e88]
 - An agricultural wages committee for an area wholly in, or consisting of, Wales.
 
 ## SCHEDULE 3 — Persons whose arrangements are subject to review under section 5
@@ -970,7 +970,7 @@ A county council or county borough council in Wales.
 - The National Council for Education and Training for Wales.
 - A further education corporation discharging functions in relation to Wales.
 - A higher education corporation discharging functions in relation to Wales.
-- A tertiary education provider (other than one mentioned elsewhere in this Schedule) that is registered in a category specified in regulations made for the purposes of section 88 or 105 of the Tertiary Education and Research (Wales) Act 2022[^key-b90a232d89545b6f8787790334619230].
+- A tertiary education provider (other than one mentioned elsewhere in this Schedule) that is registered in a category specified in regulations made for the purposes of section 88 or 105 of the Tertiary Education and Research (Wales) Act 2022[^c-b90a232d89545b6f8787790334619230].
 - The governing body of a maintained school in Wales at which further education is provided.
 
 ## SCHEDULE 4 — Minor and consequential amendments
@@ -1075,7 +1075,7 @@ Section 22
 
 [^c2102518]: Textual amendment: Words in s. 15(2) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2/3), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 134](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/134)
 
-[^key-c3a7c704a2af2f365a9b0479ac73088e]: Textual amendment: [S. 15(3)(e)](https://www.legislation.gov.uk/ukpga/2006/30/section/15/3/e) inserted (7.7.2015) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [s. 156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/mwa/2011/1/schedule/3/paragraph/8); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(g)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/g)
+[^c-c3a7c704a2af2f365a9b0479ac73088e]: Textual amendment: [S. 15(3)(e)](https://www.legislation.gov.uk/ukpga/2006/30/section/15/3/e) inserted (7.7.2015) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [s. 156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/mwa/2011/1/schedule/3/paragraph/8); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(g)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/g)
 
 [^c2102522]: Textual amendment: Words in [s. 16(4)](https://www.legislation.gov.uk/ukpga/2006/30/section/16/4) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see [ss. 46](https://www.legislation.gov.uk/ukpga/2006/30/section/46), [161(5)](https://www.legislation.gov.uk/ukpga/2006/30/section/161/5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2/3), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 135(2)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/135/2)
 
@@ -1083,13 +1083,13 @@ Section 22
 
 [^c2102526]: Textual amendment: Words in [s. 16(5)](https://www.legislation.gov.uk/ukpga/2006/30/section/16/5) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see [ss. 46](https://www.legislation.gov.uk/ukpga/2006/30/section/46), [161(5)](https://www.legislation.gov.uk/ukpga/2006/30/section/161/5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2/3), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 135(3)(b)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/135/3/b)
 
-[^key-cf64ea214a889429d2e3c0522dccff3e]: Textual amendment: Words in s. 17(2) substituted (7.7.2015) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [s. 156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2), [Sch. 3 para. 9(a)](https://www.legislation.gov.uk/mwa/2011/1/schedule/3/paragraph/9/a); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(g)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/g)
+[^c-cf64ea214a889429d2e3c0522dccff3e]: Textual amendment: Words in s. 17(2) substituted (7.7.2015) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [s. 156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2), [Sch. 3 para. 9(a)](https://www.legislation.gov.uk/mwa/2011/1/schedule/3/paragraph/9/a); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(g)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/g)
 
-[^key-2df02e030223ddfbc14a47b2d0ec5921]: Textual amendment: Words in s. 17(3) substituted (7.7.2015) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [s. 156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/mwa/2011/1/schedule/3/paragraph/9/b); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(g)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/g)
+[^c-2df02e030223ddfbc14a47b2d0ec5921]: Textual amendment: Words in s. 17(3) substituted (7.7.2015) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [s. 156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/mwa/2011/1/schedule/3/paragraph/9/b); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(g)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/g)
 
-[^key-536223b8d98b48a986d622dcb7a62324]: Textual amendment: Words in s. 17(5) substituted (7.7.2015) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [s. 156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2), [Sch. 3 para. 9(c)](https://www.legislation.gov.uk/mwa/2011/1/schedule/3/paragraph/9/c); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(g)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/g)
+[^c-536223b8d98b48a986d622dcb7a62324]: Textual amendment: Words in s. 17(5) substituted (7.7.2015) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [s. 156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2), [Sch. 3 para. 9(c)](https://www.legislation.gov.uk/mwa/2011/1/schedule/3/paragraph/9/c); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(g)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/g)
 
-[^key-145df12cca0582d49f776a03d0fb0461]: Textual amendment: [S. 17(6)(c)](https://www.legislation.gov.uk/ukpga/2006/30/section/17/6/c) inserted (7.7.2015) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [s. 156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2), [Sch. 3 para. 9(d)](https://www.legislation.gov.uk/mwa/2011/1/schedule/3/paragraph/9/d); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(g)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/g)
+[^c-145df12cca0582d49f776a03d0fb0461]: Textual amendment: [S. 17(6)(c)](https://www.legislation.gov.uk/ukpga/2006/30/section/17/6/c) inserted (7.7.2015) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [s. 156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2), [Sch. 3 para. 9(d)](https://www.legislation.gov.uk/mwa/2011/1/schedule/3/paragraph/9/d); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(g)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/g)
 
 [^c2102529]: Textual amendment: Words in s. 17(8) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2/3), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 136(2)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/136/2)
 
@@ -1099,17 +1099,17 @@ Section 22
 
 [^M_F_8a6ff80a-0ddd-4e2c-dc65-97d6c5a8ab2b]: Textual amendment: Word in s. 18(1)(b) substituted (1.11.2014) by Social Services and Well-being (Wales) Act 2014 (anaw 4), s. 199, Sch. 3 para. 33; [S.I. 2014/2718](https://www.legislation.gov.uk/uksi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2718/article/2/b)
 
-[^key-c4a94cb037f03a8f38e3df86393d4836]: Textual amendment: Words in s. 18(1)(b) inserted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 23](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/23); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-c4a94cb037f03a8f38e3df86393d4836]: Textual amendment: Words in s. 18(1)(b) inserted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 23](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/23); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
 
-[^key-4f69512632d318a09f16d7319e9cc2d4]: Textual amendment: Words in [s. 18(1)(d)](https://www.legislation.gov.uk/ukpga/2006/30/section/18/1/d) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/35); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-4f69512632d318a09f16d7319e9cc2d4]: Textual amendment: Words in [s. 18(1)(d)](https://www.legislation.gov.uk/ukpga/2006/30/section/18/1/d) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/35); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-68b94d2b7fbd5d5c4d7109cc5dfe3ff3]: Textual amendment: Words in [s. 18(3)(g)](https://www.legislation.gov.uk/ukpga/2006/30/section/18/3/g) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/35); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-68b94d2b7fbd5d5c4d7109cc5dfe3ff3]: Textual amendment: Words in [s. 18(3)(g)](https://www.legislation.gov.uk/ukpga/2006/30/section/18/3/g) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/35); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-62e7e5dbf1e585357a5d734678cb6e96]: Textual amendment: Words in [s. 18(6)(a)](https://www.legislation.gov.uk/ukpga/2006/30/section/18/6/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/35); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-62e7e5dbf1e585357a5d734678cb6e96]: Textual amendment: Words in [s. 18(6)(a)](https://www.legislation.gov.uk/ukpga/2006/30/section/18/6/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/35); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-aa0bf701cae9f56b449a6957bd913cd4]: Textual amendment: S. 18(7)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 112(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/112/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 47(1)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/47/1)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-aa0bf701cae9f56b449a6957bd913cd4]: Textual amendment: S. 18(7)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 112(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/112/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 47(1)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/47/1)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-593246cb57ceccc401d7bf179bf0930e]: Textual amendment: S. 18(8) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 112(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/112/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 47(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/47/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-593246cb57ceccc401d7bf179bf0930e]: Textual amendment: S. 18(8) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 112(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/112/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 47(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/47/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
 [^c2102449]: Textual amendment: Words in s. 18(9)(a) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2/3), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 137(2)(a)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/137/2/a)
 
@@ -1137,9 +1137,9 @@ Section 22
 
 [^c2102463]: Textual amendment: [S. 27(1)](https://www.legislation.gov.uk/ukpga/2006/30/section/27/1): words in definition of "family health service provider in Wales" substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 2](https://www.legislation.gov.uk/ukpga/2006/43/section/2), [8](https://www.legislation.gov.uk/ukpga/2006/43/section/8), [Sch. 1 para. 306(a)(ii)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/306/a/ii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-0351831f9796616eb27c73bd14f719fb]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/2006/30/section/27/1) inserted (20.10.2023) by [The National Health Service (Ophthalmic Services) (Wales) Regulations 2023 (S.I. 2023/1053)](https://www.legislation.gov.uk/wsi/2023/1053), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/wsi/2023/1053/schedule/5/paragraph/2/2/a)
+[^c-0351831f9796616eb27c73bd14f719fb]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/2006/30/section/27/1) inserted (20.10.2023) by [The National Health Service (Ophthalmic Services) (Wales) Regulations 2023 (S.I. 2023/1053)](https://www.legislation.gov.uk/wsi/2023/1053), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/wsi/2023/1053/schedule/5/paragraph/2/2/a)
 
-[^key-718aefded184c16df5ba2764923a9e77]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/2006/30/section/27/1) omitted (20.10.2023) by virtue of [The National Health Service (Ophthalmic Services) (Wales) Regulations 2023 (S.I. 2023/1053)](https://www.legislation.gov.uk/wsi/2023/1053), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2), [Sch. 5 para. 2(2)(b)](https://www.legislation.gov.uk/wsi/2023/1053/schedule/5/paragraph/2/2/b)
+[^c-718aefded184c16df5ba2764923a9e77]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/2006/30/section/27/1) omitted (20.10.2023) by virtue of [The National Health Service (Ophthalmic Services) (Wales) Regulations 2023 (S.I. 2023/1053)](https://www.legislation.gov.uk/wsi/2023/1053), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2), [Sch. 5 para. 2(2)(b)](https://www.legislation.gov.uk/wsi/2023/1053/schedule/5/paragraph/2/2/b)
 
 [^c2102465]: Textual amendment: [S. 27(1)](https://www.legislation.gov.uk/ukpga/2006/30/section/27/1): words in definition of "family health service provider in Wales" substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 2](https://www.legislation.gov.uk/ukpga/2006/43/section/2), [8](https://www.legislation.gov.uk/ukpga/2006/43/section/8), [Sch. 1 para. 306(a)(iii)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/306/a/iii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
@@ -1205,26 +1205,26 @@ Section 22
 
 [^c2102560]: Textual amendment: Words in Sch. 1 para. 11(4)(a) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2/3), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 141(10)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/141/10)
 
-[^key-557dc3722ed47cbfb3b6e4e586f55a4c]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2006/30/schedule/1/paragraph/14) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 65](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/65) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-557dc3722ed47cbfb3b6e4e586f55a4c]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2006/30/schedule/1/paragraph/14) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 65](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/65) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
 [^c2102562]: Textual amendment: Words in Sch. 1 para. 19(1) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2/3), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 141(11)(a)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/141/11/a)
 
 [^c2102564]: Textual amendment: Words in Sch. 1 para. 19(2) substituted (the amendment coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) in accordance with art. 1(2)(3) of the amending S.I. and see ss. 46, 161(5) of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2/3), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 141(11)(b)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/141/11/b)
 
-[^key-c642af4df9cbd1a845c3d94c9d17449c]: Textual amendment: Words in Sch. 2 substituted (3.4.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 52](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/52); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-c642af4df9cbd1a845c3d94c9d17449c]: Textual amendment: Words in Sch. 2 substituted (3.4.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 52](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/52); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
 
-[^key-6b55786ed8fba38804972e359277c2fc]: Textual amendment: Words in Sch. 2 substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 19(2)(a)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/19/2/a) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xi)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xi) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-6b55786ed8fba38804972e359277c2fc]: Textual amendment: Words in Sch. 2 substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 19(2)(a)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/19/2/a) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xi)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xi) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
 
-[^key-2032d94f006695d026d666560256e52a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/30/schedule/2) substituted (31.7.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 19(2)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/19/2/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 21(1)(b)](https://www.legislation.gov.uk/wsi/2026/62/article/21/1/b) (with [art. 21(2)](https://www.legislation.gov.uk/wsi/2026/62/article/21/2)[(4)](https://www.legislation.gov.uk/wsi/2026/62/article/21/4))
+[^c-2032d94f006695d026d666560256e52a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/30/schedule/2) substituted (31.7.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 19(2)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/19/2/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 21(1)(b)](https://www.legislation.gov.uk/wsi/2026/62/article/21/1/b) (with [art. 21(2)](https://www.legislation.gov.uk/wsi/2026/62/article/21/2)[(4)](https://www.legislation.gov.uk/wsi/2026/62/article/21/4))
 
-[^key-7416b03742f41a6193054671b3739fd2]: Textual amendment: Words in Sch. 2 omitted (21.9.2015) by virtue of [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 1 para. 39(a)](https://www.legislation.gov.uk/anaw/2015/5/schedule/1/paragraph/39/a); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-7416b03742f41a6193054671b3739fd2]: Textual amendment: Words in Sch. 2 omitted (21.9.2015) by virtue of [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 1 para. 39(a)](https://www.legislation.gov.uk/anaw/2015/5/schedule/1/paragraph/39/a); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-c28add17f1baab760bfd92bd37e2b75f]: Textual amendment: Words in Sch. 2 inserted (21.9.2015) by [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 1 para. 39(b)](https://www.legislation.gov.uk/anaw/2015/5/schedule/1/paragraph/39/b); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-c28add17f1baab760bfd92bd37e2b75f]: Textual amendment: Words in Sch. 2 inserted (21.9.2015) by [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 1 para. 39(b)](https://www.legislation.gov.uk/anaw/2015/5/schedule/1/paragraph/39/b); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-8212927629066fd90fd418fefb67bcb2]: Textual amendment: Words in Sch. 2 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 435](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/435) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-8212927629066fd90fd418fefb67bcb2]: Textual amendment: Words in Sch. 2 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 435](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/435) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-18be56c81416f593e6e97c6574294e88]: Textual amendment: Words in Sch. 2 substituted (1.4.2012) by [The Welsh Language (Wales) Measure 2011 (Transfer of functions, Transitional and Consequential Provisions) Order 2012 (S.I. 2012/990)](https://www.legislation.gov.uk/wsi/2012/990), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2012/990/article/1/2), [10](https://www.legislation.gov.uk/wsi/2012/990/article/10)
+[^c-18be56c81416f593e6e97c6574294e88]: Textual amendment: Words in Sch. 2 substituted (1.4.2012) by [The Welsh Language (Wales) Measure 2011 (Transfer of functions, Transitional and Consequential Provisions) Order 2012 (S.I. 2012/990)](https://www.legislation.gov.uk/wsi/2012/990), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2012/990/article/1/2), [10](https://www.legislation.gov.uk/wsi/2012/990/article/10)
 
-[^key-b90a232d89545b6f8787790334619230]: Textual amendment: Words in Sch. 3 substituted (31.7.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 19(3)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/19/3) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 21(1)(c)](https://www.legislation.gov.uk/wsi/2026/62/article/21/1/c) (with [art. 21(2)](https://www.legislation.gov.uk/wsi/2026/62/article/21/2)[(5)](https://www.legislation.gov.uk/wsi/2026/62/article/21/5))
+[^c-b90a232d89545b6f8787790334619230]: Textual amendment: Words in Sch. 3 substituted (31.7.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 19(3)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/19/3) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 21(1)(c)](https://www.legislation.gov.uk/wsi/2026/62/article/21/1/c) (with [art. 21(2)](https://www.legislation.gov.uk/wsi/2026/62/article/21/2)[(5)](https://www.legislation.gov.uk/wsi/2026/62/article/21/5))
 
 [^M_F_a9ad4b88-d432-4abe-887f-bbb6baaa17da]: Textual amendment: Sch. 4 para. 2(2)(3) omitted (1.11.2014) by virtue of Social Services and Well-being (Wales) Act 2014 (anaw 4), s. 199, Sch. 3 para. 34; [S.I. 2014/2718](https://www.legislation.gov.uk/uksi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2718/article/2/b)

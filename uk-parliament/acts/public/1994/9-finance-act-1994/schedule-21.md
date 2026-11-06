@@ -104,9 +104,9 @@ Section 228.
 
 ### Assessment and collection of tax
 
-**9.**[^key-ef16abe7dd36f388d83bdabd81652107] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ef16abe7dd36f388d83bdabd81652107] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e603d029b8be8728ef5b41c62bbe305d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e603d029b8be8728ef5b41c62bbe305d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.**[^c14461511] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -166,8 +166,8 @@ Section 228.
 
 [^c14461491]: Textual amendment: Sch. 21 para. 1(1)(3)(a) repealed (31.7.1997 with effect in accordance with s. 36, Sch. 6 of the repealing Act) by [1997 c. 58](https://www.legislation.gov.uk/ukpga/1997/58), [s. 52](https://www.legislation.gov.uk/ukpga/1997/58/section/52), [Sch. 8 Pt. II(11)](https://www.legislation.gov.uk/ukpga/1997/58/schedule/8/part/II/11), Note
 
-[^key-ef16abe7dd36f388d83bdabd81652107]: Textual amendment: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/1994/9/schedule/21/paragraph/9) repealed (with effect in accordance with Sch. 11 Pt. 2(11) Note of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 2(11)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/2/11)
+[^c-ef16abe7dd36f388d83bdabd81652107]: Textual amendment: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/1994/9/schedule/21/paragraph/9) repealed (with effect in accordance with Sch. 11 Pt. 2(11) Note of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 2(11)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/2/11)
 
-[^key-e603d029b8be8728ef5b41c62bbe305d]: Textual amendment: [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/1994/9/schedule/21/paragraph/10) repealed (with effect in accordance with Sch. 11 Pt. 2(11) Note of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 2(11)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/2/11)
+[^c-e603d029b8be8728ef5b41c62bbe305d]: Textual amendment: [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/1994/9/schedule/21/paragraph/10) repealed (with effect in accordance with Sch. 11 Pt. 2(11) Note of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 2(11)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/2/11)
 
 [^c14461511]: Textual amendment: Sch. 21 para. 11 repealed (31.7.1997 with effect as mentioned in the Note to Sch. 8 Pt. II(5) of the repealing Act) by [1997 c. 38](https://www.legislation.gov.uk/ukpga/1997/38), [s. 52](https://www.legislation.gov.uk/ukpga/1997/38/section/52), [Sch. 8 Pt. II(5)](https://www.legislation.gov.uk/ukpga/1997/38/schedule/8/part/II/5)

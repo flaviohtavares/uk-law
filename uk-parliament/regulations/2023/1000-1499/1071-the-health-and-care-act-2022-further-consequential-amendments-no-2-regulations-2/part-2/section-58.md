@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Amendment of the Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) Regulations 2013[^key-59584e6278943b5acfb31299f88473d9]
+## 58. Amendment of the Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) Regulations 2013[^c-59584e6278943b5acfb31299f88473d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59584e6278943b5acfb31299f88473d9]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2023/1071/regulation/58) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-59584e6278943b5acfb31299f88473d9]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2023/1071/regulation/58) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00047]: Footnote: [S.I. 2013/218](https://www.legislation.gov.uk/uksi/2013/218), to which there are amendments not relevant to these Regulations.

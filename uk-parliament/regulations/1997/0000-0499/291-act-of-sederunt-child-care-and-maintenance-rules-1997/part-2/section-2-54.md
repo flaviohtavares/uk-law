@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.54. Hearing[^key-db309ec78891d8cad21964f55de5220e]
+## 2.54. Hearing[^c-db309ec78891d8cad21964f55de5220e]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
 (3) The petitioners or, where a serial number has been assigned under rule 2.49, the sheriff clerk, must intimate the date of the hearing in Form 24 by registered post or recorded delivery letter to—
 
 - (a) every person whose whereabouts are known to them and whose agreement is required;
-- (b) the reporting officer appointed under rule 2.50[^key-f2539782db2c283b44be305c4076cc75];
+- (b) the reporting officer appointed under rule 2.50[^c-f2539782db2c283b44be305c4076cc75];
 - (c) the curator *ad litem* appointed under rule 2.50(1); and
 - (d) any person on whom intimation has been ordered under paragraph (2)(b).
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-db309ec78891d8cad21964f55de5220e]: Textual amendment: Ch. 2 Pt. 6 substituted (6.4.2010) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Human Fertilisation and Embryology Act 2008) 2010 (S.S.I. 2010/137)](https://www.legislation.gov.uk/ssi/2010/137), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/2/2) (with [para. 3](https://www.legislation.gov.uk/ssi/2010/137/paragraph/3))
+[^c-db309ec78891d8cad21964f55de5220e]: Textual amendment: Ch. 2 Pt. 6 substituted (6.4.2010) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Human Fertilisation and Embryology Act 2008) 2010 (S.S.I. 2010/137)](https://www.legislation.gov.uk/ssi/2010/137), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/2/2) (with [para. 3](https://www.legislation.gov.uk/ssi/2010/137/paragraph/3))
 
-[^key-f2539782db2c283b44be305c4076cc75]: Textual amendment: Words in rule 2.54(3)(b) substituted (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [7(4)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/7/4)
+[^c-f2539782db2c283b44be305c4076cc75]: Textual amendment: Words in rule 2.54(3)(b) substituted (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [7(4)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/7/4)

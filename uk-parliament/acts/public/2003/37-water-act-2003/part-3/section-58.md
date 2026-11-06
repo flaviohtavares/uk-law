@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-557fc613d9a5f35d3dd2f6fa65e491dc][^key-b56f8eb3ab4bcebd4614e4a0c8aa9ddc][^key-f3ad018abec39bcc9367ad9c783de840][^key-084ab10b4f6f1da8429bf03315adcb75] The WIA is amended as follows.
+(1)[^c-557fc613d9a5f35d3dd2f6fa65e491dc][^c-b56f8eb3ab4bcebd4614e4a0c8aa9ddc][^c-f3ad018abec39bcc9367ad9c783de840][^c-084ab10b4f6f1da8429bf03315adcb75] The WIA is amended as follows.
 
-(2)[^key-0f0feabbb7dd47b1eec4e6a50b2d20ae][^key-e5fc4d9412f07729c7f90748c26bb4df] For section 87 (fluoridation of water supplies at request of health authorities) there is substituted—
+(2)[^c-0f0feabbb7dd47b1eec4e6a50b2d20ae][^c-e5fc4d9412f07729c7f90748c26bb4df] For section 87 (fluoridation of water supplies at request of health authorities) there is substituted—
 
 > **87. Fluoridation of water supplies at request of relevant authorities**
 >
@@ -143,9 +143,9 @@ summary: ''
 >
 > (8) But (except where it is reasonably practicable to terminate the arrangements separately), arrangements to which section 87(8)(a) or (b) applied may only be terminated by the relevant authorities acting jointly.
 
-(3)[^key-3006e28c79306e3b100b68092f68a785] In section 88 (power to vary permitted fluoridation agents), in subsection (1), for “87(4)” there is substituted “ 87C(2) ”.
+(3)[^c-3006e28c79306e3b100b68092f68a785] In section 88 (power to vary permitted fluoridation agents), in subsection (1), for “87(4)” there is substituted “ 87C(2) ”.
 
-(4)[^key-3006e28c79306e3b100b68092f68a785] After section 88 there is inserted—
+(4)[^c-3006e28c79306e3b100b68092f68a785] After section 88 there is inserted—
 
 > **88A. Power to vary target concentration of fluoride**
 >
@@ -163,7 +163,7 @@ summary: ''
 >
 > (5) An order amending or revoking an order under subsection (1) above made by virtue of subsection (4)(a) above must also be made by the Secretary of State and the Assembly acting jointly.
 
-(5)[^key-61eb379c987c6f4662be97e571733d7f][^key-c48313ed73befd843cd2cb9fe070612f][^key-7b10eddbb4265eede3d22b3bf5ae3b36] For section 89 there is substituted—
+(5)[^c-61eb379c987c6f4662be97e571733d7f][^c-c48313ed73befd843cd2cb9fe070612f][^c-7b10eddbb4265eede3d22b3bf5ae3b36] For section 89 there is substituted—
 
 > **89. Consultation**
 >
@@ -192,7 +192,7 @@ summary: ''
 > - (b) in relation to England (except in a case to which paragraph (a) applies), means the Secretary of State; and
 > - (c) in relation to Wales (except in a case to which paragraph (a) applies), means the Assembly.
 
-(6)[^key-61eb379c987c6f4662be97e571733d7f][^key-7b10eddbb4265eede3d22b3bf5ae3b36] For section 90 (indemnities in respect of fluoridation) there is substituted—
+(6)[^c-61eb379c987c6f4662be97e571733d7f][^c-7b10eddbb4265eede3d22b3bf5ae3b36] For section 90 (indemnities in respect of fluoridation) there is substituted—
 
 > **90. Indemnities in respect of fluoridation**
 >
@@ -229,7 +229,7 @@ summary: ''
 >
 > (6) This section ceases to apply in relation to any arrangements under section 87(1) above if those arrangements are terminated.
 
-(7)[^key-ef4d6c7e0f9b39c8871089cf57bf0b44] For section 91 (pre-1985 fluoridation schemes) there is substituted—
+(7)[^c-ef4d6c7e0f9b39c8871089cf57bf0b44] For section 91 (pre-1985 fluoridation schemes) there is substituted—
 
 > **91. Pre-1985 fluoridation schemes**
 >
@@ -253,15 +253,15 @@ summary: ''
 > - “**the appointed day**” means the day on which section 58 of the Water Act 2003 comes into force; and
 > - “**relevant pre-1985 arrangements**” means arrangements in pursuance of which a scheme for increasing the fluoride content of water was being operated by a water undertaker by virtue of paragraph 1 of Schedule 7 to this Act immediately before the appointed day.
 
-(8)[^key-61eb379c987c6f4662be97e571733d7f][^key-7b10eddbb4265eede3d22b3bf5ae3b36][^key-601998c3fd47d6b30af6510a7e79d269] In section 213 (powers to make regulations), after subsection (1) there is inserted—
+(8)[^c-61eb379c987c6f4662be97e571733d7f][^c-7b10eddbb4265eede3d22b3bf5ae3b36][^c-601998c3fd47d6b30af6510a7e79d269] In section 213 (powers to make regulations), after subsection (1) there is inserted—
 
 > (1A) But on the occasion of the first exercise by the Secretary of State of the power to make regulations under each of sections 89 and 90 above, the instrument containing the regulations shall not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 >
 > (1B) The power of the Assembly to make regulations under section 89 above shall be exercisable by statutory instrument.
 
-(9)[^key-ef4d6c7e0f9b39c8871089cf57bf0b44] Schedule 7 (pre-1985 fluoridation schemes) shall cease to have effect.
+(9)[^c-ef4d6c7e0f9b39c8871089cf57bf0b44] Schedule 7 (pre-1985 fluoridation schemes) shall cease to have effect.
 
-(10)[^key-748a295513e9bed92d0d185e2fece9d1] In section 1(7) of the Water (Fluoridation) Act 1985 (c. 63) (water fluoridated outwith Scotland), for the words from “by a water undertaker” to the end there is substituted
+(10)[^c-748a295513e9bed92d0d185e2fece9d1] In section 1(7) of the Water (Fluoridation) Act 1985 (c. 63) (water fluoridated outwith Scotland), for the words from “by a water undertaker” to the end there is substituted
 
 > pursuant to arrangements—
 >
@@ -270,11 +270,11 @@ summary: ''
 
 .
 
-(11)[^key-8871ba1b1212cfe01cfebedaee528738][^key-084ab10b4f6f1da8429bf03315adcb75] With effect from the commencement day, any relevant application shall have effect for the purposes of subsection (1) of section 87 of the WIA as a request made by a relevant authority under that subsection.
+(11)[^c-8871ba1b1212cfe01cfebedaee528738][^c-084ab10b4f6f1da8429bf03315adcb75] With effect from the commencement day, any relevant application shall have effect for the purposes of subsection (1) of section 87 of the WIA as a request made by a relevant authority under that subsection.
 
-(12)[^key-8871ba1b1212cfe01cfebedaee528738][^key-084ab10b4f6f1da8429bf03315adcb75] Any other application made before the commencement day ceases to have effect on that day.
+(12)[^c-8871ba1b1212cfe01cfebedaee528738][^c-084ab10b4f6f1da8429bf03315adcb75] Any other application made before the commencement day ceases to have effect on that day.
 
-(13)[^key-8871ba1b1212cfe01cfebedaee528738][^key-084ab10b4f6f1da8429bf03315adcb75] In subsections (11) and (12)—
+(13)[^c-8871ba1b1212cfe01cfebedaee528738][^c-084ab10b4f6f1da8429bf03315adcb75] In subsections (11) and (12)—
 
 - “**commencement day**” means the day when this section comes into force, and
 - “**relevant application**” means an application which—
@@ -282,34 +282,34 @@ summary: ''
   - (b) has not been withdrawn, and
   - (c) has not been rejected in writing by the water undertaker to which it was made.
 
-(14)[^key-8871ba1b1212cfe01cfebedaee528738][^key-084ab10b4f6f1da8429bf03315adcb75] In subsections (12) and (13) “**application**” means an application made under section 87 of the WIA as it was in force at the time when the application was made (and includes an application made under section 1 of the Water (Fluoridation) Act 1985 and having effect as if made under section 87 of the WIA).
+(14)[^c-8871ba1b1212cfe01cfebedaee528738][^c-084ab10b4f6f1da8429bf03315adcb75] In subsections (12) and (13) “**application**” means an application made under section 87 of the WIA as it was in force at the time when the application was made (and includes an application made under section 1 of the Water (Fluoridation) Act 1985 and having effect as if made under section 87 of the WIA).
 
 ## Annotations
 
-[^key-557fc613d9a5f35d3dd2f6fa65e491dc]: Commencement: S. 58(1) in force at 18.2.2005 for specified purposes for E. by [S.I. 2005/344](https://www.legislation.gov.uk/uksi/2005/344), [art. 2](https://www.legislation.gov.uk/uksi/2005/344/article/2)
+[^c-557fc613d9a5f35d3dd2f6fa65e491dc]: Commencement: S. 58(1) in force at 18.2.2005 for specified purposes for E. by [S.I. 2005/344](https://www.legislation.gov.uk/uksi/2005/344), [art. 2](https://www.legislation.gov.uk/uksi/2005/344/article/2)
 
-[^key-b56f8eb3ab4bcebd4614e4a0c8aa9ddc]: Commencement: S. 58(1) in force at 1.8.2008 for specified purposes for E. by [S.I. 2008/1922](https://www.legislation.gov.uk/uksi/2008/1922), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1922/article/2/d)
+[^c-b56f8eb3ab4bcebd4614e4a0c8aa9ddc]: Commencement: S. 58(1) in force at 1.8.2008 for specified purposes for E. by [S.I. 2008/1922](https://www.legislation.gov.uk/uksi/2008/1922), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1922/article/2/d)
 
-[^key-f3ad018abec39bcc9367ad9c783de840]: Commencement: S. 58(1) in force at 25.2.2009 for specified purposes for E. by [S.I. 2009/359](https://www.legislation.gov.uk/uksi/2009/359), [art. 2(f)](https://www.legislation.gov.uk/uksi/2009/359/article/2/f) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/359/schedule/paragraph/1))
+[^c-f3ad018abec39bcc9367ad9c783de840]: Commencement: S. 58(1) in force at 25.2.2009 for specified purposes for E. by [S.I. 2009/359](https://www.legislation.gov.uk/uksi/2009/359), [art. 2(f)](https://www.legislation.gov.uk/uksi/2009/359/article/2/f) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/359/schedule/paragraph/1))
 
-[^key-084ab10b4f6f1da8429bf03315adcb75]: Commencement: S. 58(1) (11)-(14) in force at 26.3.2010 for E. in so far as not already in force by [S.I. 2010/975](https://www.legislation.gov.uk/uksi/2010/975), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/975/article/2/a)
+[^c-084ab10b4f6f1da8429bf03315adcb75]: Commencement: S. 58(1) (11)-(14) in force at 26.3.2010 for E. in so far as not already in force by [S.I. 2010/975](https://www.legislation.gov.uk/uksi/2010/975), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/975/article/2/a)
 
-[^key-0f0feabbb7dd47b1eec4e6a50b2d20ae]: Commencement: S. 58(2) in force at 1.8.2008 for specified purposes for E. by [S.I. 2008/1922](https://www.legislation.gov.uk/uksi/2008/1922), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1922/article/2/a)
+[^c-0f0feabbb7dd47b1eec4e6a50b2d20ae]: Commencement: S. 58(2) in force at 1.8.2008 for specified purposes for E. by [S.I. 2008/1922](https://www.legislation.gov.uk/uksi/2008/1922), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1922/article/2/a)
 
-[^key-e5fc4d9412f07729c7f90748c26bb4df]: Commencement: S. 58(2) in force at 25.2.2009 for E. in so far as not already in force by [S.I. 2009/359](https://www.legislation.gov.uk/uksi/2009/359), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/359/article/2/a) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/359/schedule/paragraph/1))
+[^c-e5fc4d9412f07729c7f90748c26bb4df]: Commencement: S. 58(2) in force at 25.2.2009 for E. in so far as not already in force by [S.I. 2009/359](https://www.legislation.gov.uk/uksi/2009/359), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/359/article/2/a) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/359/schedule/paragraph/1))
 
-[^key-3006e28c79306e3b100b68092f68a785]: Commencement: S. 58(3)(4) in force at 25.2.2009 for E. by [S.I. 2009/359](https://www.legislation.gov.uk/uksi/2009/359), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/359/article/2/b) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/359/schedule/paragraph/1))
+[^c-3006e28c79306e3b100b68092f68a785]: Commencement: S. 58(3)(4) in force at 25.2.2009 for E. by [S.I. 2009/359](https://www.legislation.gov.uk/uksi/2009/359), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/359/article/2/b) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/359/schedule/paragraph/1))
 
-[^key-61eb379c987c6f4662be97e571733d7f]: Commencement: S. 58(5)(6)(8) in force at 18.2.2005 for specified purposes for E. by [S.I. 2005/344](https://www.legislation.gov.uk/uksi/2005/344), [art. 2](https://www.legislation.gov.uk/uksi/2005/344/article/2)
+[^c-61eb379c987c6f4662be97e571733d7f]: Commencement: S. 58(5)(6)(8) in force at 18.2.2005 for specified purposes for E. by [S.I. 2005/344](https://www.legislation.gov.uk/uksi/2005/344), [art. 2](https://www.legislation.gov.uk/uksi/2005/344/article/2)
 
-[^key-c48313ed73befd843cd2cb9fe070612f]: Commencement: S. 58(5) in force at 1.8.2008 for specified purposes for E. by [S.I. 2008/1922](https://www.legislation.gov.uk/uksi/2008/1922), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1922/article/2/b)
+[^c-c48313ed73befd843cd2cb9fe070612f]: Commencement: S. 58(5) in force at 1.8.2008 for specified purposes for E. by [S.I. 2008/1922](https://www.legislation.gov.uk/uksi/2008/1922), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1922/article/2/b)
 
-[^key-7b10eddbb4265eede3d22b3bf5ae3b36]: Commencement: S. 58(5)(6)(8) in force at 25.2.2009 for E. in so far as not already in force by [S.I. 2009/359](https://www.legislation.gov.uk/uksi/2009/359), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/359/article/2/c) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/359/schedule/paragraph/1))
+[^c-7b10eddbb4265eede3d22b3bf5ae3b36]: Commencement: S. 58(5)(6)(8) in force at 25.2.2009 for E. in so far as not already in force by [S.I. 2009/359](https://www.legislation.gov.uk/uksi/2009/359), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/359/article/2/c) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/359/schedule/paragraph/1))
 
-[^key-ef4d6c7e0f9b39c8871089cf57bf0b44]: Commencement: S. 58(7)(9) in force at 26.3.2010 for E. by [S.I. 2010/975](https://www.legislation.gov.uk/uksi/2010/975), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/975/article/2/a)
+[^c-ef4d6c7e0f9b39c8871089cf57bf0b44]: Commencement: S. 58(7)(9) in force at 26.3.2010 for E. by [S.I. 2010/975](https://www.legislation.gov.uk/uksi/2010/975), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/975/article/2/a)
 
-[^key-601998c3fd47d6b30af6510a7e79d269]: Commencement: [S. 58(8)](https://www.legislation.gov.uk/ukpga/2003/37/section/58/8) in force at 31.1.2017 for W. by [S.I. 2017/88](https://www.legislation.gov.uk/wsi/2017/88), [art. 2](https://www.legislation.gov.uk/wsi/2017/88/article/2)
+[^c-601998c3fd47d6b30af6510a7e79d269]: Commencement: [S. 58(8)](https://www.legislation.gov.uk/ukpga/2003/37/section/58/8) in force at 31.1.2017 for W. by [S.I. 2017/88](https://www.legislation.gov.uk/wsi/2017/88), [art. 2](https://www.legislation.gov.uk/wsi/2017/88/article/2)
 
-[^key-748a295513e9bed92d0d185e2fece9d1]: Commencement: S. 58(10) in force at 25.2.2009 by [S.I. 2009/359](https://www.legislation.gov.uk/uksi/2009/359), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/359/article/2/d)
+[^c-748a295513e9bed92d0d185e2fece9d1]: Commencement: S. 58(10) in force at 25.2.2009 by [S.I. 2009/359](https://www.legislation.gov.uk/uksi/2009/359), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/359/article/2/d)
 
-[^key-8871ba1b1212cfe01cfebedaee528738]: Commencement: S. 58(11)-(14) in force at 25.2.2009 for specified purposes for E. by [S.I. 2009/359](https://www.legislation.gov.uk/uksi/2009/359), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/359/article/2/e)
+[^c-8871ba1b1212cfe01cfebedaee528738]: Commencement: S. 58(11)-(14) in force at 25.2.2009 for specified purposes for E. by [S.I. 2009/359](https://www.legislation.gov.uk/uksi/2009/359), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/359/article/2/e)

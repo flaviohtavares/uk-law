@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 184. Suspension of penalty for careless inaccuracy under section 182[^key-9affa4357cc4d43150d9261dddc0705a]
+## 184. Suspension of penalty for careless inaccuracy under section 182[^c-9affa4357cc4d43150d9261dddc0705a]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9affa4357cc4d43150d9261dddc0705a]: Commencement: [S. 184](https://www.legislation.gov.uk/asp/2014/16/section/184) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-9affa4357cc4d43150d9261dddc0705a]: Commencement: [S. 184](https://www.legislation.gov.uk/asp/2014/16/section/184) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

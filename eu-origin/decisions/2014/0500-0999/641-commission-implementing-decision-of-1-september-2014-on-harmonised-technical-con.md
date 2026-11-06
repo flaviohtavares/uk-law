@@ -39,28 +39,28 @@ on harmonised technical conditions of radio spectrum use by wireless audio progr
 
 (2014/641/EU) (revoked)
 
-[^key-da1aa0dac0bc3eea935e7617bc218344]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da1aa0dac0bc3eea935e7617bc218344]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-da1aa0dac0bc3eea935e7617bc218344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-da1aa0dac0bc3eea935e7617bc218344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-da1aa0dac0bc3eea935e7617bc218344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-da1aa0dac0bc3eea935e7617bc218344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-da1aa0dac0bc3eea935e7617bc218344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-da1aa0dac0bc3eea935e7617bc218344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-da1aa0dac0bc3eea935e7617bc218344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-da1aa0dac0bc3eea935e7617bc218344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-da1aa0dac0bc3eea935e7617bc218344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-da1aa0dac0bc3eea935e7617bc218344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-da1aa0dac0bc3eea935e7617bc218344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-da1aa0dac0bc3eea935e7617bc218344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-da1aa0dac0bc3eea935e7617bc218344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-da1aa0dac0bc3eea935e7617bc218344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-da1aa0dac0bc3eea935e7617bc218344]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da1aa0dac0bc3eea935e7617bc218344]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-da1aa0dac0bc3eea935e7617bc218344]
+## ANNEX[^c-da1aa0dac0bc3eea935e7617bc218344]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-da1aa0dac0bc3eea935e7617bc218344]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/33); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da1aa0dac0bc3eea935e7617bc218344]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/33); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

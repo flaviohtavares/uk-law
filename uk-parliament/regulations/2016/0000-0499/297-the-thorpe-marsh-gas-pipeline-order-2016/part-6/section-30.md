@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Temporary use of land for maintaining the authorised development[^key-950a7fdbb1486aacdebccba1805a299f]
+## 30. Temporary use of land for maintaining the authorised development[^c-950a7fdbb1486aacdebccba1805a299f]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ the requirement to serve not less than 28 days’ notice under paragraph (3) doe
 
 ## Annotations
 
-[^key-950a7fdbb1486aacdebccba1805a299f]: Commencement: Art. 30 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-950a7fdbb1486aacdebccba1805a299f]: Commencement: Art. 30 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)

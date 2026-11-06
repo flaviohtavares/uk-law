@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Amount to be treated as consideration on disposal of deep discount securities etc.[^key-67d88c761f083cd045020fc1ea797452]
+## 118. Amount to be treated as consideration on disposal of deep discount securities etc.[^c-67d88c761f083cd045020fc1ea797452]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67d88c761f083cd045020fc1ea797452]: Textual amendment: S. 118 repealed (with effect in accordance with s. 105(1) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 41 Pt. V(3)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/3) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/1996/8/schedule/15))
+[^c-67d88c761f083cd045020fc1ea797452]: Textual amendment: S. 118 repealed (with effect in accordance with s. 105(1) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 41 Pt. V(3)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/3) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/1996/8/schedule/15))

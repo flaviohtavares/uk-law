@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 385. Information about interests in Crown land[^key-3803ff277f02b254499783b3f3e01a80]
+## 385. Information about interests in Crown land[^c-3803ff277f02b254499783b3f3e01a80]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3803ff277f02b254499783b3f3e01a80]: Commencement: S. 385 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3803ff277f02b254499783b3f3e01a80]: Commencement: S. 385 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

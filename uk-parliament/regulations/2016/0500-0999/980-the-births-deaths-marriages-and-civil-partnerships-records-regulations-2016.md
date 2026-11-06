@@ -51,65 +51,65 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 65A(5) of the Marriage Act 1949, before making these Regulations the Secretary of State has consulted the Registrar General.
 
-## 1. Citation, commencement and interpretation[^key-1bd1fba5db2d949198099278571e40a7]
+## 1. Citation, commencement and interpretation[^c-1bd1fba5db2d949198099278571e40a7]
 
 (1) These Regulations may be cited as the Births, Deaths, Marriages and Civil Partnerships Records Regulations 2016 and come into force on 7th November 2016.
 
 (2) In these Regulations—
 
-- [^key-cf8740b31e4fea2beb4fd40e55b06ee9]...
-- “online view service” means a service provided via the website for the General Register Office which allows a person to—[^key-015465ca9feb9da689542b12cfba8a6d]
+- [^c-cf8740b31e4fea2beb4fd40e55b06ee9]...
+- “online view service” means a service provided via the website for the General Register Office which allows a person to—[^c-015465ca9feb9da689542b12cfba8a6d]
   - (a) search via that website for an entry in the Registrar General’s certified copies of entries, and
   - (b) if the search locates the entry, submit a request via that website to view a record of information contained in that entry in electronic format;
-- [^key-94d1b350660f47fd04a3dc5f9b1d9c77]...
-- [^key-cf8740b31e4fea2beb4fd40e55b06ee9]...
-- [^key-cf8740b31e4fea2beb4fd40e55b06ee9]...
-- [^key-cf8740b31e4fea2beb4fd40e55b06ee9]...
+- [^c-94d1b350660f47fd04a3dc5f9b1d9c77]...
+- [^c-cf8740b31e4fea2beb4fd40e55b06ee9]...
+- [^c-cf8740b31e4fea2beb4fd40e55b06ee9]...
+- [^c-cf8740b31e4fea2beb4fd40e55b06ee9]...
 
-## 2. Provision of the information contained in a birth record in electronic format[^key-094547d8d065a515aa596b3347d88238][^key-96b2f5f5ba8bf1cd8376963002a180ce]
+## 2. Provision of the information contained in a birth record in electronic format[^c-094547d8d065a515aa596b3347d88238][^c-96b2f5f5ba8bf1cd8376963002a180ce]
 
-(1)[^key-9a7530ccd52fb2b4dd0e29fe7b711997] The Registrar General may provide a record of information contained in an entry in the Registrar General’s certified copies of entries in the birth register, in electronic format, following—
-
-- (a) a request for the Registrar General to search for the entry and provide the record of information, or
-- (b) a request made via the online view service.
-
-(2) A request for the Registrar General to undertake a search and provide information under paragraph (1)(a)[^key-a189faed133586d12e251fbc35cd875a] must be made via the website for the General Register Office[^key-1f33c631f56b9120fafe2d1e4eca3835].
-
-(2A)[^key-c3c46a6ad23181d6cded2692c9a261de] A record of information provided by the Registrar General in response to a request made via the online view service must be provided via the website for the General Register Office.
-
-(3) The Registrar General may charge a fee for each record provided under paragraph (1) [^key-17eec5ef4a9bb2394482c53436541ec5]... and the fee charged is payable to the Registrar General.
-
-## 3. Provision of the information contained in a death record in electronic format[^key-84db99d41f02624b41f6a11ca9827620][^key-e69cd2d5c906fdd9acfc66607f9f86a0]
-
-(1)[^key-e5d875de356a4e24f646e2e68eb09911] The Registrar General may provide a record of information contained in an entry in the Registrar General’s certified copies of entries in the death register, in electronic format, following—
+(1)[^c-9a7530ccd52fb2b4dd0e29fe7b711997] The Registrar General may provide a record of information contained in an entry in the Registrar General’s certified copies of entries in the birth register, in electronic format, following—
 
 - (a) a request for the Registrar General to search for the entry and provide the record of information, or
 - (b) a request made via the online view service.
 
-(2) A request for the Registrar General to undertake a search and provide information under paragraph (1) (a)[^key-b282cca431ab262286cf2f9bd893872a] must be made via the website for the General Register Office[^key-9077b9ca80ba8e7e3489d4369c89a888].
+(2) A request for the Registrar General to undertake a search and provide information under paragraph (1)(a)[^c-a189faed133586d12e251fbc35cd875a] must be made via the website for the General Register Office[^c-1f33c631f56b9120fafe2d1e4eca3835].
 
-(2A)[^key-498fd16216a04a2a1d45eefb834f03f3] A record of information provided by the Registrar General in response to a request made via the online view service must be provided via the website for the General Register Office.
+(2A)[^c-c3c46a6ad23181d6cded2692c9a261de] A record of information provided by the Registrar General in response to a request made via the online view service must be provided via the website for the General Register Office.
 
-(3) The Registrar General may charge a fee for each record provided under paragraph (1) [^key-3c385b688eb89312d69846fa6b28b197]... and the fee charged is payable to the Registrar General.
+(3) The Registrar General may charge a fee for each record provided under paragraph (1) [^c-17eec5ef4a9bb2394482c53436541ec5]... and the fee charged is payable to the Registrar General.
 
-## 4. Provision of the information contained in a marriage record in electronic format[^key-4c3d998231afa7149b3ccb6a58942c0e][^key-6d21babd51092cab20b32902701d02c1]
+## 3. Provision of the information contained in a death record in electronic format[^c-84db99d41f02624b41f6a11ca9827620][^c-e69cd2d5c906fdd9acfc66607f9f86a0]
 
-(1)[^key-9763055004f5a5143fb4928c53010715] The Registrar General may provide a record of information contained in a marriage entry in the Registrar General’s certified copies of entries in any marriage register book, entries in the marriage register made under section 53D(10)(a) of the Marriage Act 1949[^key-f42ca60a27186d82ddaa79a83446100b] and conversion register, in electronic format, following—
+(1)[^c-e5d875de356a4e24f646e2e68eb09911] The Registrar General may provide a record of information contained in an entry in the Registrar General’s certified copies of entries in the death register, in electronic format, following—
 
 - (a) a request for the Registrar General to search for the entry and provide the record of information, or
-- (b) in the case of an entry in any marriage register book[^key-4c2b98c68eec2c1def5c5d9905665a96], a request made via the online view service.
+- (b) a request made via the online view service.
 
-(2) A request for the Registrar General to undertake a search and provide information under paragraph (1) (a)[^key-7d367e61eee0b4c99a7da2dd78c45460] must be made via the website for the General Register Office[^key-a1368e811b2145d9c8f82caa94105d25].
+(2) A request for the Registrar General to undertake a search and provide information under paragraph (1) (a)[^c-b282cca431ab262286cf2f9bd893872a] must be made via the website for the General Register Office[^c-9077b9ca80ba8e7e3489d4369c89a888].
 
-(2A)[^key-5617a7a4b15d98d4ae059bb31436ca33] A record of information provided by the Registrar General in response to a request made via the online view service must be provided via the website for the General Register Office.
+(2A)[^c-498fd16216a04a2a1d45eefb834f03f3] A record of information provided by the Registrar General in response to a request made via the online view service must be provided via the website for the General Register Office.
 
-(3) The Registrar General may charge a fee for each record provided under paragraph (1) [^key-b8f6d8b6419307c44bb202341ddb1e7d]... and the fee charged is payable to the Registrar General.
+(3) The Registrar General may charge a fee for each record provided under paragraph (1) [^c-3c385b688eb89312d69846fa6b28b197]... and the fee charged is payable to the Registrar General.
 
-## 5. Provision of information contained in a birth record to Government departments[^key-51dc462cc7f0515bac71de679c485497][^key-43ed3aa3c92966e2a8b618207c8feddd]
+## 4. Provision of the information contained in a marriage record in electronic format[^c-4c3d998231afa7149b3ccb6a58942c0e][^c-6d21babd51092cab20b32902701d02c1]
+
+(1)[^c-9763055004f5a5143fb4928c53010715] The Registrar General may provide a record of information contained in a marriage entry in the Registrar General’s certified copies of entries in any marriage register book, entries in the marriage register made under section 53D(10)(a) of the Marriage Act 1949[^c-f42ca60a27186d82ddaa79a83446100b] and conversion register, in electronic format, following—
+
+- (a) a request for the Registrar General to search for the entry and provide the record of information, or
+- (b) in the case of an entry in any marriage register book[^c-4c2b98c68eec2c1def5c5d9905665a96], a request made via the online view service.
+
+(2) A request for the Registrar General to undertake a search and provide information under paragraph (1) (a)[^c-7d367e61eee0b4c99a7da2dd78c45460] must be made via the website for the General Register Office[^c-a1368e811b2145d9c8f82caa94105d25].
+
+(2A)[^c-5617a7a4b15d98d4ae059bb31436ca33] A record of information provided by the Registrar General in response to a request made via the online view service must be provided via the website for the General Register Office.
+
+(3) The Registrar General may charge a fee for each record provided under paragraph (1) [^c-b8f6d8b6419307c44bb202341ddb1e7d]... and the fee charged is payable to the Registrar General.
+
+## 5. Provision of information contained in a birth record to Government departments[^c-51dc462cc7f0515bac71de679c485497][^c-43ed3aa3c92966e2a8b618207c8feddd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Fees[^key-cd28ee9fff083988e8f4f9f91d650ecd]
+## 6. Fees[^c-cd28ee9fff083988e8f4f9f91d650ecd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -141,62 +141,62 @@ A full impact assessment has not been produced for this instrument. The impact o
 
 [^f00004]: Footnote: [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30). Sub-section (5)(ba) of section 9 was inserted by section 99(1) and (3) of the Deregulation Act 2015 and sub-section (5C) was inserted by section 89(1) and (2)(a) of, and paragraph 5 of Part 1 of Schedule 15 to, the Immigration Act 2016.
 
-[^key-1bd1fba5db2d949198099278571e40a7]: Commencement: Reg. 1 in force at 7.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/1/1)
+[^c-1bd1fba5db2d949198099278571e40a7]: Commencement: Reg. 1 in force at 7.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/1/1)
 
-[^key-cf8740b31e4fea2beb4fd40e55b06ee9]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/1/2) omitted (28.5.2024) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees and Records) (Amendment) Regulations 2024 (S.I. 2024/598)](https://www.legislation.gov.uk/uksi/2024/598), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/598/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2024/598/regulation/7/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/598/regulation/8))
+[^c-cf8740b31e4fea2beb4fd40e55b06ee9]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/1/2) omitted (28.5.2024) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees and Records) (Amendment) Regulations 2024 (S.I. 2024/598)](https://www.legislation.gov.uk/uksi/2024/598), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/598/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2024/598/regulation/7/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/598/regulation/8))
 
-[^key-015465ca9feb9da689542b12cfba8a6d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/1/2) inserted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/2/a)
+[^c-015465ca9feb9da689542b12cfba8a6d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/1/2) inserted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/2/a)
 
-[^key-94d1b350660f47fd04a3dc5f9b1d9c77]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/1/2) omitted (9.11.2020) by virtue of [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/2/b)
+[^c-94d1b350660f47fd04a3dc5f9b1d9c77]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/1/2) omitted (9.11.2020) by virtue of [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/2/b)
 
-[^key-094547d8d065a515aa596b3347d88238]: Commencement: Reg. 2 in force at 7.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/1/1)
+[^c-094547d8d065a515aa596b3347d88238]: Commencement: Reg. 2 in force at 7.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/1/1)
 
-[^key-96b2f5f5ba8bf1cd8376963002a180ce]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2016/980/regulation/2) heading substituted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/3/a)
+[^c-96b2f5f5ba8bf1cd8376963002a180ce]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2016/980/regulation/2) heading substituted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/3/a)
 
-[^key-9a7530ccd52fb2b4dd0e29fe7b711997]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/2/1) substituted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/3/b)
+[^c-9a7530ccd52fb2b4dd0e29fe7b711997]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/2/1) substituted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/3/b)
 
-[^key-a189faed133586d12e251fbc35cd875a]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/2/2) inserted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/3/c/i)
+[^c-a189faed133586d12e251fbc35cd875a]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/2/2) inserted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/3/c/i)
 
-[^key-1f33c631f56b9120fafe2d1e4eca3835]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/2/2) substituted (28.5.2024) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees and Records) (Amendment) Regulations 2024 (S.I. 2024/598)](https://www.legislation.gov.uk/uksi/2024/598), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/598/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2024/598/regulation/7/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/598/regulation/8))
+[^c-1f33c631f56b9120fafe2d1e4eca3835]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/2/2) substituted (28.5.2024) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees and Records) (Amendment) Regulations 2024 (S.I. 2024/598)](https://www.legislation.gov.uk/uksi/2024/598), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/598/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2024/598/regulation/7/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/598/regulation/8))
 
-[^key-c3c46a6ad23181d6cded2692c9a261de]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/uksi/2016/980/regulation/2/2A) inserted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/3/d)
+[^c-c3c46a6ad23181d6cded2692c9a261de]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/uksi/2016/980/regulation/2/2A) inserted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/3/d)
 
-[^key-17eec5ef4a9bb2394482c53436541ec5]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2016/980/regulation/2/3) omitted (16.2.2019) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) and Multilingual Standard Forms Regulations 2018 (S.I. 2018/1268)](https://www.legislation.gov.uk/uksi/2018/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/7/a)
+[^c-17eec5ef4a9bb2394482c53436541ec5]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2016/980/regulation/2/3) omitted (16.2.2019) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) and Multilingual Standard Forms Regulations 2018 (S.I. 2018/1268)](https://www.legislation.gov.uk/uksi/2018/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/7/a)
 
-[^key-84db99d41f02624b41f6a11ca9827620]: Commencement: Reg. 3 in force at 7.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/1/1)
+[^c-84db99d41f02624b41f6a11ca9827620]: Commencement: Reg. 3 in force at 7.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/1/1)
 
-[^key-e69cd2d5c906fdd9acfc66607f9f86a0]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2016/980/regulation/3) heading substituted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/4/a)
+[^c-e69cd2d5c906fdd9acfc66607f9f86a0]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2016/980/regulation/3) heading substituted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/4/a)
 
-[^key-e5d875de356a4e24f646e2e68eb09911]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/3/1) substituted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/4/b)
+[^c-e5d875de356a4e24f646e2e68eb09911]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/3/1) substituted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/4/b)
 
-[^key-b282cca431ab262286cf2f9bd893872a]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/3/2) inserted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(4)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/4/c/i)
+[^c-b282cca431ab262286cf2f9bd893872a]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/3/2) inserted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(4)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/4/c/i)
 
-[^key-9077b9ca80ba8e7e3489d4369c89a888]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/3/2) substituted (28.5.2024) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees and Records) (Amendment) Regulations 2024 (S.I. 2024/598)](https://www.legislation.gov.uk/uksi/2024/598), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/598/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2024/598/regulation/7/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/598/regulation/8))
+[^c-9077b9ca80ba8e7e3489d4369c89a888]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/3/2) substituted (28.5.2024) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees and Records) (Amendment) Regulations 2024 (S.I. 2024/598)](https://www.legislation.gov.uk/uksi/2024/598), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/598/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2024/598/regulation/7/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/598/regulation/8))
 
-[^key-498fd16216a04a2a1d45eefb834f03f3]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2016/980/regulation/3/2A) inserted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/4/d)
+[^c-498fd16216a04a2a1d45eefb834f03f3]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2016/980/regulation/3/2A) inserted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/4/d)
 
-[^key-3c385b688eb89312d69846fa6b28b197]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2016/980/regulation/3/3) omitted (16.2.2019) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) and Multilingual Standard Forms Regulations 2018 (S.I. 2018/1268)](https://www.legislation.gov.uk/uksi/2018/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/7/b)
+[^c-3c385b688eb89312d69846fa6b28b197]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2016/980/regulation/3/3) omitted (16.2.2019) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) and Multilingual Standard Forms Regulations 2018 (S.I. 2018/1268)](https://www.legislation.gov.uk/uksi/2018/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/7/b)
 
-[^key-4c3d998231afa7149b3ccb6a58942c0e]: Commencement: Reg. 4 in force at 7.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/1/1)
+[^c-4c3d998231afa7149b3ccb6a58942c0e]: Commencement: Reg. 4 in force at 7.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/1/1)
 
-[^key-6d21babd51092cab20b32902701d02c1]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2016/980/regulation/4) heading substituted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/5/a)
+[^c-6d21babd51092cab20b32902701d02c1]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2016/980/regulation/4) heading substituted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/5/a)
 
-[^key-9763055004f5a5143fb4928c53010715]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/4/1) substituted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/5/b)
+[^c-9763055004f5a5143fb4928c53010715]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/4/1) substituted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/5/b)
 
-[^key-f42ca60a27186d82ddaa79a83446100b]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/4/1) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 72(2)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/72/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-f42ca60a27186d82ddaa79a83446100b]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/980/regulation/4/1) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 72(2)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/72/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-4c2b98c68eec2c1def5c5d9905665a96]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2016/980/regulation/4/1/b) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 72(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/72/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-4c2b98c68eec2c1def5c5d9905665a96]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2016/980/regulation/4/1/b) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 72(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/72/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-7d367e61eee0b4c99a7da2dd78c45460]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/4/2) inserted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(5)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/5/c/i)
+[^c-7d367e61eee0b4c99a7da2dd78c45460]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/4/2) inserted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(5)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/5/c/i)
 
-[^key-a1368e811b2145d9c8f82caa94105d25]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/4/2) substituted (28.5.2024) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees and Records) (Amendment) Regulations 2024 (S.I. 2024/598)](https://www.legislation.gov.uk/uksi/2024/598), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/598/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2024/598/regulation/7/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/598/regulation/8))
+[^c-a1368e811b2145d9c8f82caa94105d25]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/980/regulation/4/2) substituted (28.5.2024) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees and Records) (Amendment) Regulations 2024 (S.I. 2024/598)](https://www.legislation.gov.uk/uksi/2024/598), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/598/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2024/598/regulation/7/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/598/regulation/8))
 
-[^key-5617a7a4b15d98d4ae059bb31436ca33]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/uksi/2016/980/regulation/4/2A) inserted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(5)(d)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/5/d)
+[^c-5617a7a4b15d98d4ae059bb31436ca33]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/uksi/2016/980/regulation/4/2A) inserted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(5)(d)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/5/d)
 
-[^key-b8f6d8b6419307c44bb202341ddb1e7d]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2016/980/regulation/4/3) omitted (16.2.2019) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) and Multilingual Standard Forms Regulations 2018 (S.I. 2018/1268)](https://www.legislation.gov.uk/uksi/2018/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/7/c)
+[^c-b8f6d8b6419307c44bb202341ddb1e7d]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2016/980/regulation/4/3) omitted (16.2.2019) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) and Multilingual Standard Forms Regulations 2018 (S.I. 2018/1268)](https://www.legislation.gov.uk/uksi/2018/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/7/c)
 
-[^key-51dc462cc7f0515bac71de679c485497]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/980/regulation/5) omitted (28.5.2024) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees and Records) (Amendment) Regulations 2024 (S.I. 2024/598)](https://www.legislation.gov.uk/uksi/2024/598), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/598/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2024/598/regulation/7/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/598/regulation/8))
+[^c-51dc462cc7f0515bac71de679c485497]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/980/regulation/5) omitted (28.5.2024) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees and Records) (Amendment) Regulations 2024 (S.I. 2024/598)](https://www.legislation.gov.uk/uksi/2024/598), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/598/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2024/598/regulation/7/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/598/regulation/8))
 
-[^key-43ed3aa3c92966e2a8b618207c8feddd]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2016/980/regulation/5) heading substituted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/6)
+[^c-43ed3aa3c92966e2a8b618207c8feddd]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2016/980/regulation/5) heading substituted (9.11.2020) by [The Births, Deaths and Marriages (Records and Fees) (Amendment) Regulations 2020 (S.I. 2020/1093)](https://www.legislation.gov.uk/uksi/2020/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2020/1093/regulation/2/6)
 
-[^key-cd28ee9fff083988e8f4f9f91d650ecd]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2016/980/regulation/6) omitted (16.2.2019) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) and Multilingual Standard Forms Regulations 2018 (S.I. 2018/1268)](https://www.legislation.gov.uk/uksi/2018/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2), [7(d)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/7/d)
+[^c-cd28ee9fff083988e8f4f9f91d650ecd]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2016/980/regulation/6) omitted (16.2.2019) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) and Multilingual Standard Forms Regulations 2018 (S.I. 2018/1268)](https://www.legislation.gov.uk/uksi/2018/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2), [7(d)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/7/d)

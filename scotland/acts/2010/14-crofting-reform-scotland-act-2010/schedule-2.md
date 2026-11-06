@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — PERSONS RESPONSIBLE FOR APPLICATIONS FOR REGISTRATION[^key-b4f0e9577e8a963d9f2c5967895d90de][^key-963e0bd299febd8d300851a71f6238a0]
+## SCHEDULE 2 — PERSONS RESPONSIBLE FOR APPLICATIONS FOR REGISTRATION[^c-b4f0e9577e8a963d9f2c5967895d90de][^c-963e0bd299febd8d300851a71f6238a0]
 
 *Extent: S*
 
@@ -45,7 +45,7 @@ First registration
 | The making of an application as mentioned in section 4(4)(l)(iii) | The crofter making the application |
 | The division of a croft as mentioned in section 4(4)(m) | The Commission |
 | The letting of a croft as mentioned in section 4(4)(n) | The person to whom the croft is let |
-| The making of an application as mentioned in section 4(4)(l)(iia)[^key-c6bcb70d95181252a2ed145580eda609] | The owner-occupier crofter making the application |
+| The making of an application as mentioned in section 4(4)(l)(iia)[^c-c6bcb70d95181252a2ed145580eda609] | The owner-occupier crofter making the application |
 | The making of an application as mentioned in section 4(4)(o) | The owner-occupier crofter making the application |
 | The preparation of a reorganisation scheme as mentioned in section 4(4)(p) | The Commission |
 | The making of an application as mentioned in section 4(4)(q) | The crofter making the application |
@@ -71,7 +71,7 @@ Registration of registered crofts
 | The re-letting of the croft as mentioned in section 5(3)(k)(ii) | The landlord whose proposals for re-letting were approved under section 23(5ZB) of the 1993 Act |
 | The letting of the croft as mentioned in section 5(3)(k)(iii) | The person to whom the croft is let |
 | The letting of the croft as mentioned in section 5(3)(k)(iv) | The person to whom the croft is let |
-| The making of a direction as mentioned in section 5(3)(l) | The person[^key-153a9112f94be28ea1a6bdf066b33833] who applied for the direction |
+| The making of a direction as mentioned in section 5(3)(l) | The person[^c-153a9112f94be28ea1a6bdf066b33833] who applied for the direction |
 | The division of a croft as mentioned in section 5(3)(m) | The Commission |
 | The letting of a croft as mentioned in section 5(3)(n) | The person to whom the croft is let |
 | The preparation of a reorganisation scheme as mentioned in section 5(3)(o) | The Commission |
@@ -80,10 +80,10 @@ Registration of registered crofts
 
 ## Annotations
 
-[^key-b4f0e9577e8a963d9f2c5967895d90de]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2010/14/schedule/2) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)
+[^c-b4f0e9577e8a963d9f2c5967895d90de]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2010/14/schedule/2) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)
 
-[^key-963e0bd299febd8d300851a71f6238a0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2010/14/schedule/2) in force at 30.11.2013 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c)
+[^c-963e0bd299febd8d300851a71f6238a0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2010/14/schedule/2) in force at 30.11.2013 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c)
 
-[^key-c6bcb70d95181252a2ed145580eda609]: Textual amendment: Words in Sch. 2 inserted (retrospective to 1.10.2011) by [Crofting (Amendment) (Scotland) Act 2013 (asp 10)](https://www.legislation.gov.uk/asp/2013/10), [ss. 3](https://www.legislation.gov.uk/asp/2013/10/section/3), [6](https://www.legislation.gov.uk/asp/2013/10/section/6), [Sch. para. 2(6)(a)](https://www.legislation.gov.uk/asp/2013/10/schedule/paragraph/2/6/a)
+[^c-c6bcb70d95181252a2ed145580eda609]: Textual amendment: Words in Sch. 2 inserted (retrospective to 1.10.2011) by [Crofting (Amendment) (Scotland) Act 2013 (asp 10)](https://www.legislation.gov.uk/asp/2013/10), [ss. 3](https://www.legislation.gov.uk/asp/2013/10/section/3), [6](https://www.legislation.gov.uk/asp/2013/10/section/6), [Sch. para. 2(6)(a)](https://www.legislation.gov.uk/asp/2013/10/schedule/paragraph/2/6/a)
 
-[^key-153a9112f94be28ea1a6bdf066b33833]: Textual amendment: Word in Sch. 2 substituted (retrospective to 1.10.2011) by [Crofting (Amendment) (Scotland) Act 2013 (asp 10)](https://www.legislation.gov.uk/asp/2013/10), [ss. 3](https://www.legislation.gov.uk/asp/2013/10/section/3), [6](https://www.legislation.gov.uk/asp/2013/10/section/6), [Sch. para. 2(6)(b)](https://www.legislation.gov.uk/asp/2013/10/schedule/paragraph/2/6/b)
+[^c-153a9112f94be28ea1a6bdf066b33833]: Textual amendment: Word in Sch. 2 substituted (retrospective to 1.10.2011) by [Crofting (Amendment) (Scotland) Act 2013 (asp 10)](https://www.legislation.gov.uk/asp/2013/10), [ss. 3](https://www.legislation.gov.uk/asp/2013/10/section/3), [6](https://www.legislation.gov.uk/asp/2013/10/section/6), [Sch. para. 2(6)(b)](https://www.legislation.gov.uk/asp/2013/10/schedule/paragraph/2/6/b)

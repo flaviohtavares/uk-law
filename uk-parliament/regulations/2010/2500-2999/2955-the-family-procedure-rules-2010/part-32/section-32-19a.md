@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32.19A. Variation, remission, discharge or cancellation of registration of an order registered in the family court – procedure in the family court[^key-b7533772d6e67060f0823a98ad78fe72]
+## 32.19A. Variation, remission, discharge or cancellation of registration of an order registered in the family court – procedure in the family court[^c-b7533772d6e67060f0823a98ad78fe72]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7533772d6e67060f0823a98ad78fe72]: Textual amendment: Rule 32.19A inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [98](https://www.legislation.gov.uk/uksi/2013/3204/rule/98) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-b7533772d6e67060f0823a98ad78fe72]: Textual amendment: Rule 32.19A inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [98](https://www.legislation.gov.uk/uksi/2013/3204/rule/98) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)

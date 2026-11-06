@@ -31,7 +31,7 @@ summary: ''
 
 Sheriff Court
 
-Act of Sederunt (Commissary Business) (Amendment) 2009 (revoked)[^key-aae230ee6adfa0e826aa33a5cb6b3572]
+Act of Sederunt (Commissary Business) (Amendment) 2009 (revoked)[^c-aae230ee6adfa0e826aa33a5cb6b3572]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 31st August 2009
 
-[^key-aae230ee6adfa0e826aa33a5cb6b3572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aae230ee6adfa0e826aa33a5cb6b3572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-aae230ee6adfa0e826aa33a5cb6b3572]
+## 1. Citation and commencement[^c-aae230ee6adfa0e826aa33a5cb6b3572]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to Act of Sederunt (Commissary Business) 1975[^key-aae230ee6adfa0e826aa33a5cb6b3572]
+## 2. Amendment to Act of Sederunt (Commissary Business) 1975[^c-aae230ee6adfa0e826aa33a5cb6b3572]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aae230ee6adfa0e826aa33a5cb6b3572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aae230ee6adfa0e826aa33a5cb6b3572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-aae230ee6adfa0e826aa33a5cb6b3572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aae230ee6adfa0e826aa33a5cb6b3572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aae230ee6adfa0e826aa33a5cb6b3572]: Textual amendment: Instrument revoked (30.11.2013) by [Act of Sederunt (Commissary Business) 2013 (S.S.I. 2013/291)](https://www.legislation.gov.uk/ssi/2013/291), [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2), [sch. 5](https://www.legislation.gov.uk/ssi/2013/291/schedule/5)
+[^c-aae230ee6adfa0e826aa33a5cb6b3572]: Textual amendment: Instrument revoked (30.11.2013) by [Act of Sederunt (Commissary Business) 2013 (S.S.I. 2013/291)](https://www.legislation.gov.uk/ssi/2013/291), [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2), [sch. 5](https://www.legislation.gov.uk/ssi/2013/291/schedule/5)

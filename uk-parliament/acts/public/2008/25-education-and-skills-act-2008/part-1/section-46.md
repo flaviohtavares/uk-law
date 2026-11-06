@@ -24,7 +24,7 @@ summary: ''
 
 (1) This section applies where—
 
-- (a) a local authority[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6] has given a notice to a person under section 45(2),
+- (a) a local authority[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6] has given a notice to a person under section 45(2),
 - (b) this Part still applies to the person, and
 - (c) at any time after the date specified in the notice under section 45(2)(b), it appears to the local authority that the person is, without reasonable excuse, failing to fulfil the duty imposed by section 2.
 
@@ -62,4 +62,4 @@ and may specify other prescribed requirements relating to the description of edu
 
 ## Annotations
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

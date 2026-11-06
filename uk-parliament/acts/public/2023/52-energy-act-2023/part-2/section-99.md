@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Designation of strategy and policy statement[^key-fbb13c6a41df4018e0a8a1fe7af24a48]
+## 99. Designation of strategy and policy statement[^c-fbb13c6a41df4018e0a8a1fe7af24a48]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbb13c6a41df4018e0a8a1fe7af24a48]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2023/52/section/99) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-fbb13c6a41df4018e0a8a1fe7af24a48]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2023/52/section/99) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

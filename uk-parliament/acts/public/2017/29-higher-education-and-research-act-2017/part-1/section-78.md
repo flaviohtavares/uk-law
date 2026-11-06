@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Power to require information and advice from the OfS[^key-92d63864a97f0e9823edb78716d7ee1b]
+## 78. Power to require information and advice from the OfS[^c-92d63864a97f0e9823edb78716d7ee1b]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92d63864a97f0e9823edb78716d7ee1b]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2017/29/section/78) in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/l)
+[^c-92d63864a97f0e9823edb78716d7ee1b]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2017/29/section/78) in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/l)

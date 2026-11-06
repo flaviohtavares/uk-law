@@ -77,7 +77,7 @@ In determining in the case of any person the end of any such term as is mentione
 
 If, in the case of any such term as is mentioned in paragraph 4 above, leave of absence is granted to the person in question for a period comprising or immediately following the date on which that term would otherwise be completed, the Defence Council may postpone the completion of that term until a date not later than the expiry of his leave.
 
-### Special agreements and the Army Reserve[^key-67963aace79d0fea2cbe4c142624c9b5]
+### Special agreements and the Army Reserve[^c-67963aace79d0fea2cbe4c142624c9b5]
 
 **No longer in force (ended 1997-04-01).**
 
@@ -114,6 +114,6 @@ In the case of a person who does not for the time being hold a commission—
 
 [^c11529341]: Textual amendment: Sch. 1 para. 5(*c*)(ii) and the word “or” immediately preceding it repealed by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [s. 170(2)](https://www.legislation.gov.uk/ukpga/1988/33/section/170/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/16)
 
-[^key-67963aace79d0fea2cbe4c142624c9b5]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1980/9) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-67963aace79d0fea2cbe4c142624c9b5]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1980/9) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
 
 [^c11529361]: Marginal citation: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18).

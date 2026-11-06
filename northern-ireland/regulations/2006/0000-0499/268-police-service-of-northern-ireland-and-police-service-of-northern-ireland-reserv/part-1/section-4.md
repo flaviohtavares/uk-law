@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Weekly rate of pensions and allowances[^key-596e603c526e421aad1bb0e6345ef28b]
+## 4. Weekly rate of pensions and allowances[^c-596e603c526e421aad1bb0e6345ef28b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-596e603c526e421aad1bb0e6345ef28b]: Commencement: Reg. 4 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-596e603c526e421aad1bb0e6345ef28b]: Commencement: Reg. 4 in operation at 25.7.2006 with effect in accordance with reg. 1

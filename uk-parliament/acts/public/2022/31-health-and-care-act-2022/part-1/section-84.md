@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Removal of functions relating to competition etc[^key-42a9b2eda82a501cbbd07830c2017215][^key-0f44b3b262bbe0350e25168ca47bdeea]
+## 84. Removal of functions relating to competition etc[^c-42a9b2eda82a501cbbd07830c2017215][^c-0f44b3b262bbe0350e25168ca47bdeea]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42a9b2eda82a501cbbd07830c2017215]: Commencement: S. 84 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-42a9b2eda82a501cbbd07830c2017215]: Commencement: S. 84 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-0f44b3b262bbe0350e25168ca47bdeea]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2022/31/section/84) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-0f44b3b262bbe0350e25168ca47bdeea]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2022/31/section/84) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Intervention notices[^key-f0dfd2b9cd213e2cc56d7e5e76ded791][^key-d3f966fc03d45fd239ea59a7c10b70ef]
+## 20. Intervention notices[^c-f0dfd2b9cd213e2cc56d7e5e76ded791][^c-d3f966fc03d45fd239ea59a7c10b70ef]
 
 *Extent: E+W*
 
-(1) If the appropriate national authority considers that a network management[^key-6b2235e766d2f59d4a3ef3b95fdf0a64] authority may be failing properly to perform any of their duties under sections 16 and 17 it may give a notice stating that it is of that opinion (an “intervention notice”) to the authority.
+(1) If the appropriate national authority considers that a network management[^c-6b2235e766d2f59d4a3ef3b95fdf0a64] authority may be failing properly to perform any of their duties under sections 16 and 17 it may give a notice stating that it is of that opinion (an “intervention notice”) to the authority.
 
 (2) An intervention notice must—
 
 - (a) give brief particulars of the grounds for giving the notice; and
-- (b) offer the network management[^key-7e5f55c1a3a5d42fce44ed16e94540ec] authority the opportunity (within a specified period) to make representations or proposals about any matter raised by the notice.
+- (b) offer the network management[^c-7e5f55c1a3a5d42fce44ed16e94540ec] authority the opportunity (within a specified period) to make representations or proposals about any matter raised by the notice.
 
-(3) The notice may also require the network management[^key-91ca41d3a58fa945be7fba64b60b7b81] authority to provide the national authority, within the period specified under subsection (2)(b), with specified information.
+(3) The notice may also require the network management[^c-91ca41d3a58fa945be7fba64b60b7b81] authority to provide the national authority, within the period specified under subsection (2)(b), with specified information.
 
 (4) Any information specified in the notice must be information that the national authority considers will assist it in deciding what further action (if any) to take.
 
@@ -35,12 +35,12 @@ summary: ''
 
 ## Annotations
 
-[^key-f0dfd2b9cd213e2cc56d7e5e76ded791]: Commencement: S. 20 in force at 4.1.2005 for E. by [S.I. 2004/3110](https://www.legislation.gov.uk/uksi/2004/3110), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3110/article/2/a)
+[^c-f0dfd2b9cd213e2cc56d7e5e76ded791]: Commencement: S. 20 in force at 4.1.2005 for E. by [S.I. 2004/3110](https://www.legislation.gov.uk/uksi/2004/3110), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3110/article/2/a)
 
-[^key-d3f966fc03d45fd239ea59a7c10b70ef]: Commencement: S. 20 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/b)
+[^c-d3f966fc03d45fd239ea59a7c10b70ef]: Commencement: S. 20 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/b)
 
-[^key-6b2235e766d2f59d4a3ef3b95fdf0a64]: Textual amendment: Words in s. 20(1) substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 139](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/139); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-6b2235e766d2f59d4a3ef3b95fdf0a64]: Textual amendment: Words in s. 20(1) substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 139](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/139); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-7e5f55c1a3a5d42fce44ed16e94540ec]: Textual amendment: Words in s. 20(2)(b) substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 139](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/139); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-7e5f55c1a3a5d42fce44ed16e94540ec]: Textual amendment: Words in s. 20(2)(b) substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 139](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/139); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-91ca41d3a58fa945be7fba64b60b7b81]: Textual amendment: Words in s. 20(3) substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 139](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/139); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-91ca41d3a58fa945be7fba64b60b7b81]: Textual amendment: Words in s. 20(3) substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 139](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/139); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

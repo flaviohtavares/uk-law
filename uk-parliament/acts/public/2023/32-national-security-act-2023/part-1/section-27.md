@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Arrest without warrant[^key-c5892de52f25bc3b919560b46834db2b][^key-9ff6fc829084c899ba16ae026610f123]
+## 27. Arrest without warrant[^c-c5892de52f25bc3b919560b46834db2b][^c-9ff6fc829084c899ba16ae026610f123]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,6 +72,6 @@ the person may be detained pending the conclusion of proceedings on the applicat
 
 ## Annotations
 
-[^key-c5892de52f25bc3b919560b46834db2b]: Commencement: S. 27 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-c5892de52f25bc3b919560b46834db2b]: Commencement: S. 27 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-9ff6fc829084c899ba16ae026610f123]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2023/32/section/27) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-9ff6fc829084c899ba16ae026610f123]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2023/32/section/27) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

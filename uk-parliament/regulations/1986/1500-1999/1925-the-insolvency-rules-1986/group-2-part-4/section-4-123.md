@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.123. Removal of liquidator by Secretary of State[^key-1dcc0d4987b884e222e6ae9997127879]
+## 4.123. Removal of liquidator by Secretary of State[^c-1dcc0d4987b884e222e6ae9997127879]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dcc0d4987b884e222e6ae9997127879]: Commencement: [Rule 4.123](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.123) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1dcc0d4987b884e222e6ae9997127879]: Commencement: [Rule 4.123](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.123) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

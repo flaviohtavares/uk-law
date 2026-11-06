@@ -22,15 +22,15 @@ summary: ''
 
 (1) This section applies to a loan (and so it falls within section 500(c)) if it is made by the insurer under a policy or contract—
 
-- (a) to an individual falling within subsection (2), or[^key-50db39c840ecadd2a87fb9c0cb032ad5]
+- (a) to an individual falling within subsection (2), or[^c-50db39c840ecadd2a87fb9c0cb032ad5]
 - (b) to trustees falling within subsection (3), or
-- (c)[^key-c0f12d0380e70bf52aec49b001aa19f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-c0f12d0380e70bf52aec49b001aa19f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) An individual falls within this subsection at any time if, were a gain to arise in respect of the policy or contract at that time, the individual would be liable for tax under this Chapter as a result of section 465 (person liable: individuals).
 
 (3) Trustees fall within this subsection at any time if, were a gain to arise in respect of the policy or contract at that time, they would be liable for tax under this Chapter as a result of section 467 (person liable: UK resident trustees).
 
-(4)[^key-f2f36b76c82fbe19865bd89303487833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f2f36b76c82fbe19865bd89303487833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) For the purposes of subsection (1), a loan—
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-50db39c840ecadd2a87fb9c0cb032ad5]: Textual amendment: Word in s. 501(1)(a) inserted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 14(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/14/a)
+[^c-50db39c840ecadd2a87fb9c0cb032ad5]: Textual amendment: Word in s. 501(1)(a) inserted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 14(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/14/a)
 
-[^key-c0f12d0380e70bf52aec49b001aa19f9]: Textual amendment: S. 501(1)(c) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 14(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/14/a)
+[^c-c0f12d0380e70bf52aec49b001aa19f9]: Textual amendment: S. 501(1)(c) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 14(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/14/a)
 
-[^key-f2f36b76c82fbe19865bd89303487833]: Textual amendment: S. 501(4) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 14(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/14/b)
+[^c-f2f36b76c82fbe19865bd89303487833]: Textual amendment: S. 501(4) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 14(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/14/b)

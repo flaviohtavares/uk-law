@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Consultation on standards and guidance[^key-aa2a84bc27f8385c29287475e79345a4]
+## 113. Consultation on standards and guidance[^c-aa2a84bc27f8385c29287475e79345a4]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Before setting, revising or withdrawing standards under section 111 or issuing, 
 
 ## Annotations
 
-[^key-aa2a84bc27f8385c29287475e79345a4]: Commencement: [S. 113](https://www.legislation.gov.uk/anaw/2014/7/section/113) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-aa2a84bc27f8385c29287475e79345a4]: Commencement: [S. 113](https://www.legislation.gov.uk/anaw/2014/7/section/113) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

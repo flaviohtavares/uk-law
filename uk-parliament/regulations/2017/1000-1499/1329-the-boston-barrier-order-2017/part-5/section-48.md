@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Arbitration in respect of removal of vessels[^key-ecc877a2d1303ea0230c462a5da54bb9]
+## 48. Arbitration in respect of removal of vessels[^c-ecc877a2d1303ea0230c462a5da54bb9]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ and any dispute under this article is to be determined in accordance with articl
 
 ## Annotations
 
-[^key-ecc877a2d1303ea0230c462a5da54bb9]: Commencement: Art. 48 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-ecc877a2d1303ea0230c462a5da54bb9]: Commencement: Art. 48 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Composition of Appeal Tribunal.[^key-fc965b899416ff812c8ec8d63d413d3f]
+## 28. Composition of Appeal Tribunal.[^c-fc965b899416ff812c8ec8d63d413d3f]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc965b899416ff812c8ec8d63d413d3f]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/1996/17/section/28) substituted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/35/3), [51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4) (with [s. 36](https://www.legislation.gov.uk/ukpga/2022/35/section/36)); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1194/regulation/3))
+[^c-fc965b899416ff812c8ec8d63d413d3f]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/1996/17/section/28) substituted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/35/3), [51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4) (with [s. 36](https://www.legislation.gov.uk/ukpga/2022/35/section/36)); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1194/regulation/3))

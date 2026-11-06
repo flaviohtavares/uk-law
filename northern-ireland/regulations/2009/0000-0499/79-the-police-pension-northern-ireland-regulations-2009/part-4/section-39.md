@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Calculation of child survivors’ pensions[^key-6bfcaa229118b2cbb10bfcb7ded2b1aa]
+## 39. Calculation of child survivors’ pensions[^c-6bfcaa229118b2cbb10bfcb7ded2b1aa]
 
 *Extent: N.I.*
 
@@ -51,12 +51,12 @@ his child survivor’s pension shall be withdrawn or reduced in accordance with 
 (9) In this regulation—
 
 - “excess remuneration” means the annual amount by which the annual rate of the relevant child survivor’s remuneration exceeds the specified rate.
-- “specified rate” means a sum equivalent to the annual rate (rounded up to the nearest £1) of the standard allowance included in an award of universal credit, for a single claimant aged under 25 years, as specified in regulation 38 of the Universal Credit Regulations (Northern Ireland) 2016[^key-b9fe1f504eaf6d764fb1f8aa41f74694] as uprated from time to time in accordance with an order under section 132(1) of the Social Security Administration (Northern Ireland) Act 1992[^f00016].
+- “specified rate” means a sum equivalent to the annual rate (rounded up to the nearest £1) of the standard allowance included in an award of universal credit, for a single claimant aged under 25 years, as specified in regulation 38 of the Universal Credit Regulations (Northern Ireland) 2016[^c-b9fe1f504eaf6d764fb1f8aa41f74694] as uprated from time to time in accordance with an order under section 132(1) of the Social Security Administration (Northern Ireland) Act 1992[^f00016].
 
 ## Annotations
 
-[^key-6bfcaa229118b2cbb10bfcb7ded2b1aa]: Commencement: Reg. 39 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-6bfcaa229118b2cbb10bfcb7ded2b1aa]: Commencement: Reg. 39 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
-[^key-b9fe1f504eaf6d764fb1f8aa41f74694]: Textual amendment: Words in [reg. 39(9)](https://www.legislation.gov.uk/nisr/2009/79/regulation/39/9) substituted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [55](https://www.legislation.gov.uk/nisr/2016/236/regulation/55)
+[^c-b9fe1f504eaf6d764fb1f8aa41f74694]: Textual amendment: Words in [reg. 39(9)](https://www.legislation.gov.uk/nisr/2009/79/regulation/39/9) substituted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [55](https://www.legislation.gov.uk/nisr/2016/236/regulation/55)
 
 [^f00016]: Footnote: [1992 c.8](https://www.legislation.gov.uk/ukpga/1992/8)

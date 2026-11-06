@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Chair at meetings[^key-671109d5834a344e8da5caec238c0d36]
+## 45. Chair at meetings[^c-671109d5834a344e8da5caec238c0d36]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-671109d5834a344e8da5caec238c0d36]: Commencement: [Rule 45](https://www.legislation.gov.uk/nisr/2026/11/rule/45) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-671109d5834a344e8da5caec238c0d36]: Commencement: [Rule 45](https://www.legislation.gov.uk/nisr/2026/11/rule/45) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

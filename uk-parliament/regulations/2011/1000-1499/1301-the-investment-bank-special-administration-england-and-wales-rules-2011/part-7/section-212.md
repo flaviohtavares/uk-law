@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 212. Application to replace (special administration)[^key-2e9fda598651fde8957625b4bbd8a0eb]
+## 212. Application to replace (special administration)[^c-2e9fda598651fde8957625b4bbd8a0eb]
 
 *Extent: E+W*
 
@@ -28,8 +28,8 @@ summary: ''
 
 - (a) the person who made the application for a special administration order;
 - (b) the investment bank (if neither the investment bank nor its directors are the applicant);
-- (c) on the person nominated for appointment as administrator; [^key-690cf67eb967edff488428c199027e15]...
-- (d)[^key-136a3342aeb3c23c64c08131e9a7134a] the FCA (if not the applicant); and
+- (c) on the person nominated for appointment as administrator; [^c-690cf67eb967edff488428c199027e15]...
+- (d)[^c-136a3342aeb3c23c64c08131e9a7134a] the FCA (if not the applicant); and
 - (e) if the application relates to a PRA-authorised person, the PRA (if not the applicant).
 
 (4) Rule 10 shall apply to the service of an application under paragraph 91(1) as it applies to service of the application for a special administration order.
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2e9fda598651fde8957625b4bbd8a0eb]: Commencement: [Rule 212](https://www.legislation.gov.uk/uksi/2011/1301/rule/212) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-2e9fda598651fde8957625b4bbd8a0eb]: Commencement: [Rule 212](https://www.legislation.gov.uk/uksi/2011/1301/rule/212) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-690cf67eb967edff488428c199027e15]: Textual amendment: Word in [art. 212(3)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/212/3/c) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(w)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/w/i) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-690cf67eb967edff488428c199027e15]: Textual amendment: Word in [art. 212(3)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/212/3/c) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(w)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/w/i) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
 
-[^key-136a3342aeb3c23c64c08131e9a7134a]: Textual amendment: [Art. 212(3)(d)](https://www.legislation.gov.uk/uksi/2011/1301/article/212/3/d)[(e)](https://www.legislation.gov.uk/uksi/2011/1301/article/212/3/e) substituted for [art. 212(3)(d)](https://www.legislation.gov.uk/uksi/2011/1301/article/212/3/d) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(w)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/w/ii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-136a3342aeb3c23c64c08131e9a7134a]: Textual amendment: [Art. 212(3)(d)](https://www.legislation.gov.uk/uksi/2011/1301/article/212/3/d)[(e)](https://www.legislation.gov.uk/uksi/2011/1301/article/212/3/e) substituted for [art. 212(3)(d)](https://www.legislation.gov.uk/uksi/2011/1301/article/212/3/d) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(w)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/w/ii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

@@ -30,7 +30,7 @@ summary: ''
 
 BANKING
 
-The Banking Coordination (Second Council Directive) Regulations 1992 (revoked)[^key-1cd1a22cefe03369d691453e857d689d]
+The Banking Coordination (Second Council Directive) Regulations 1992 (revoked)[^c-1cd1a22cefe03369d691453e857d689d]
 
 Made
 
@@ -40,11 +40,11 @@ Coming into force
 
 1st January 1993
 
-[^key-1cd1a22cefe03369d691453e857d689d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cd1a22cefe03369d691453e857d689d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL[^key-1cd1a22cefe03369d691453e857d689d]
+### PART I — GENERAL[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,13 +53,13 @@ Coming into force
 - [Section 1 — Citation and commencement](part-i/section-1.md)
 - [Section 2 — Interpretation: general](part-i/section-2.md)
 
-### PART II — RECOGNITION OF EUROPEAN INSTITUTIONS[^key-1cd1a22cefe03369d691453e857d689d]
+### PART II — RECOGNITION OF EUROPEAN INSTITUTIONS[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Preliminary[^key-1cd1a22cefe03369d691453e857d689d]
+#### Preliminary[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,7 +68,7 @@ Coming into force
 - [Section 3 — European institutions](part-ii/section-3.md)
 - [Section 4 — Authorised and permitted activities](part-ii/section-4.md)
 
-#### Effect of recognition[^key-1cd1a22cefe03369d691453e857d689d]
+#### Effect of recognition[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,7 +77,7 @@ Coming into force
 - [Section 5 — Authorisations and licences not required](part-ii/section-5.md)
 - [Section 6 — Procedural requirements for carrying on listed activities](part-ii/section-6.md)
 
-#### Effect of non-recognition[^key-1cd1a22cefe03369d691453e857d689d]
+#### Effect of non-recognition[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ Coming into force
 
 - [Section 7 — Prohibition on carrying on certain listed activities](part-ii/section-7.md)
 
-#### Functions of Bank[^key-1cd1a22cefe03369d691453e857d689d]
+#### Functions of Bank[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -98,7 +98,7 @@ Coming into force
 - [Section 12 — Prohibition or restriction on information from supervisory authority](part-ii/section-12.md)
 - [Section 13 — Obligation of Bank where institution ceases to be a European institution etc.](part-ii/section-13.md)
 
-#### Functions of Board[^key-1cd1a22cefe03369d691453e857d689d]
+#### Functions of Board[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,7 +109,7 @@ Coming into force
 - [Section 16 — Power to restrict the carrying on of investment business](part-ii/section-16.md)
 - [Section 17 — Limitations on Board’s powers](part-ii/section-17.md)
 
-#### Functions of Director[^key-1cd1a22cefe03369d691453e857d689d]
+#### Functions of Director[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -118,13 +118,13 @@ Coming into force
 - [Section 18 — Power to prohibit the carrying on of Consumer Credit Act business](part-ii/section-18.md)
 - [Section 19 — Power to restrict the carrying on of Consumer Credit Act business](part-ii/section-19.md)
 
-### PART III — RECOGNITION IN OTHER MEMBER STATES OF UK INSTITUTIONS[^key-1cd1a22cefe03369d691453e857d689d]
+### PART III — RECOGNITION IN OTHER MEMBER STATES OF UK INSTITUTIONS[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Preliminary[^key-1cd1a22cefe03369d691453e857d689d]
+#### Preliminary[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -133,7 +133,7 @@ Coming into force
 - [Section 20 — UK institutions etc.](part-iii/section-20.md)
 - [Section 21 — Authorised and permitted activities](part-iii/section-21.md)
 
-#### Procedural requirements[^key-1cd1a22cefe03369d691453e857d689d]
+#### Procedural requirements[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -141,7 +141,7 @@ Coming into force
 
 - [Section 22 — Procedural requirements for carrying on certain listed activities](part-iii/section-22.md)
 
-#### Regulation of UK subsidiaries for recognition purposes[^key-1cd1a22cefe03369d691453e857d689d]
+#### Regulation of UK subsidiaries for recognition purposes[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -150,13 +150,13 @@ Coming into force
 - [Section 23 — Restriction on activities of UK subsidiaries](part-iii/section-23.md)
 - [Section 24 — Restriction on information from supervisory authority](part-iii/section-24.md)
 
-### PART IV — AMENDMENTS OF BANKING ACT[^key-1cd1a22cefe03369d691453e857d689d]
+### PART IV — AMENDMENTS OF BANKING ACT[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Authorisations[^key-1cd1a22cefe03369d691453e857d689d]
+#### Authorisations[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -169,7 +169,7 @@ Coming into force
 - [Section 29 — Revocation or restriction on information from supervisory authority](part-iv/section-29.md)
 - [Section 30 — Notice of revocation, restriction or surrender](part-iv/section-30.md)
 
-#### Objections to controllers[^key-1cd1a22cefe03369d691453e857d689d]
+#### Objections to controllers[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -177,7 +177,7 @@ Coming into force
 
 - [Section 31 — Objections to controllers](part-iv/section-31.md)
 
-#### Implementation of certain EC decisions[^key-1cd1a22cefe03369d691453e857d689d]
+#### Implementation of certain EC decisions[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -185,7 +185,7 @@ Coming into force
 
 - [Section 32 — Implementation of certain EC decisions](part-iv/section-32.md)
 
-#### Information and investigations[^key-1cd1a22cefe03369d691453e857d689d]
+#### Information and investigations[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -197,7 +197,7 @@ Coming into force
 - [Section 36 — Information and production of documents](part-iv/section-36.md)
 - [Section 37 — Investigations on behalf of the Bank](part-iv/section-37.md)
 
-#### Restrictions on disclosure of information[^key-1cd1a22cefe03369d691453e857d689d]
+#### Restrictions on disclosure of information[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -209,7 +209,7 @@ Coming into force
 - [Section 41 — Information supplied to Bank by relevant overseas authority etc.](part-iv/section-41.md)
 - [Section 42 — Disclosure of information obtained under other Acts](part-iv/section-42.md)
 
-#### Interpretation[^key-1cd1a22cefe03369d691453e857d689d]
+#### Interpretation[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -219,7 +219,7 @@ Coming into force
 - [Section 44 — Meaning of “related company”](part-iv/section-44.md)
 - [Section 45 — Other interpretation of Banking Act](part-iv/section-45.md)
 
-#### Miscellaneous[^key-1cd1a22cefe03369d691453e857d689d]
+#### Miscellaneous[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -228,7 +228,7 @@ Coming into force
 - [Section 46 — Savings for certain institutions](part-iv/section-46.md)
 - [Section 47 — Other amendments of Banking Act](part-iv/section-47.md)
 
-### PART V — AMENDMENTS OF FINANCIAL SERVICES ACT[^key-1cd1a22cefe03369d691453e857d689d]
+### PART V — AMENDMENTS OF FINANCIAL SERVICES ACT[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -244,7 +244,7 @@ Coming into force
 - [Section 55 — Other amendments of Financial Services Act](part-v/section-55.md)
 - [Section 56 — Construction of Part V](part-v/section-56.md)
 
-### PART VI — AMENDMENTS OF CONSUMER CREDIT ACT[^key-1cd1a22cefe03369d691453e857d689d]
+### PART VI — AMENDMENTS OF CONSUMER CREDIT ACT[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -258,7 +258,7 @@ Coming into force
 - [Section 62 — Restrictions on disclosure of information](part-vi/section-62.md)
 - [Section 63 — Power to modify subordinate legislation in relation to European institutions](part-vi/section-63.md)
 
-### PART VII — AMENDMENTS OF INSURANCE COMPANIES ACT[^key-1cd1a22cefe03369d691453e857d689d]
+### PART VII — AMENDMENTS OF INSURANCE COMPANIES ACT[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -268,13 +268,13 @@ Coming into force
 - [Section 65 — Application of Part II of Act](part-vii/section-65.md)
 - [Section 66 — Meaning of “insurance business”](part-vii/section-66.md)
 
-### PART VIII — AMENDMENTS OF BUILDING SOCIETIES ACT[^key-1cd1a22cefe03369d691453e857d689d]
+### PART VIII — AMENDMENTS OF BUILDING SOCIETIES ACT[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Constitution[^key-1cd1a22cefe03369d691453e857d689d]
+#### Constitution[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -283,7 +283,7 @@ Coming into force
 - [Section 67 — Establishment of building societies](part-viii/section-67.md)
 - [Section 68 — Initial authorisation to raise funds and borrow money](part-viii/section-68.md)
 
-#### Powers of control of Commission[^key-1cd1a22cefe03369d691453e857d689d]
+#### Powers of control of Commission[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -296,7 +296,7 @@ Coming into force
 - [Section 73 — Criteria for prudent management](part-viii/section-73.md)
 - [Section 74 — Exercise of powers on information from supervisory authority](part-viii/section-74.md)
 
-#### Information[^key-1cd1a22cefe03369d691453e857d689d]
+#### Information[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -306,7 +306,7 @@ Coming into force
 - [Section 76 — Confidentiality of certain information obtained by Commission](part-viii/section-76.md)
 - [Section 77 — Information disclosed to Commission from other sources](part-viii/section-77.md)
 
-#### Accounts and audit[^key-1cd1a22cefe03369d691453e857d689d]
+#### Accounts and audit[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -314,7 +314,7 @@ Coming into force
 
 - [Section 78 — Accounting records and systems of business control etc.](part-viii/section-78.md)
 
-#### Miscellaneous and supplemental[^key-1cd1a22cefe03369d691453e857d689d]
+#### Miscellaneous and supplemental[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -324,7 +324,7 @@ Coming into force
 - [Section 80 — Meaning of “associate”](part-viii/section-80.md)
 - [Section 81 — Other interpretation of Building Societies Act](part-viii/section-81.md)
 
-### PART IX — SUPPLEMENTAL[^key-1cd1a22cefe03369d691453e857d689d]
+### PART IX — SUPPLEMENTAL[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -349,16 +349,16 @@ Coming into force
 
 **No longer in force.**
 
-[^key-1cd1a22cefe03369d691453e857d689d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cd1a22cefe03369d691453e857d689d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-1cd1a22cefe03369d691453e857d689d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cd1a22cefe03369d691453e857d689d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1cd1a22cefe03369d691453e857d689d]: Textual amendment: Regulations revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/2/a) (with savings in [S.I. 2001/3646](https://www.legislation.gov.uk/uksi/2001/3646), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3646/article/1/1), [12(1)](https://www.legislation.gov.uk/uksi/2001/3646/article/12/1))
+[^c-1cd1a22cefe03369d691453e857d689d]: Textual amendment: Regulations revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/2/a) (with savings in [S.I. 2001/3646](https://www.legislation.gov.uk/uksi/2001/3646), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3646/article/1/1), [12(1)](https://www.legislation.gov.uk/uksi/2001/3646/article/12/1))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

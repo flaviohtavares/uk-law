@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-bc1f09ad9913e38ccd54058ddeb708d1] This section applies to an agreement that—
+(1)[^c-bc1f09ad9913e38ccd54058ddeb708d1] This section applies to an agreement that—
 
 - (a) is made by an authorised person (“**the provider**”) in the course of carrying on a regulated activity,
 - (b) is not made in contravention of the general prohibition,
@@ -29,9 +29,9 @@ summary: ''
   - (i) a regulated activity carried on by the third party in contravention of the general prohibition, or
   - (ii) a credit-related regulated activity carried on by the third party in contravention of section 20.
 
-(1ZA)[^key-7b5c79fbdbca1b7bbffff7e4aaef1d6d] But this section does not apply to a regulated credit agreement or a regulated consumer hire agreement unless the provider knows before the agreement is made that the third party had some involvement in the making of the agreement or matters preparatory to its making.
+(1ZA)[^c-7b5c79fbdbca1b7bbffff7e4aaef1d6d] But this section does not apply to a regulated credit agreement or a regulated consumer hire agreement unless the provider knows before the agreement is made that the third party had some involvement in the making of the agreement or matters preparatory to its making.
 
-(1A) An agreement to which this section applies[^key-2faa667d875e89b8bc8c2b7c106bff65] is unenforceable against the other party.
+(1A) An agreement to which this section applies[^c-2faa667d875e89b8bc8c2b7c106bff65] is unenforceable against the other party.
 
 (2)[^c1709137] The other party is entitled to recover—
 
@@ -45,7 +45,7 @@ summary: ''
 
 (4) This section does not apply if the regulated activity is accepting deposits.
 
-(5)[^key-b648499f22233af432020ba2faf3cf78] For the purposes of subsection (1ZA)—
+(5)[^c-b648499f22233af432020ba2faf3cf78] For the purposes of subsection (1ZA)—
 
 - “**regulated consumer hire agreement**” has the meaning given by article 60N of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (S.I. 2001/544);
 - “**regulated credit agreement**” has the meaning given by article 60B of that Order.
@@ -56,10 +56,10 @@ summary: ''
 
     S. 27(1)(2) applied (1.12.2001) by [S.I. 2001/3083](https://www.legislation.gov.uk/uksi/2001/3083), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3083/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2001/3083/article/5/2); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-bc1f09ad9913e38ccd54058ddeb708d1]: Textual amendment: S. 27(1)(1A) substituted for s. 27(1) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/6) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-bc1f09ad9913e38ccd54058ddeb708d1]: Textual amendment: S. 27(1)(1A) substituted for s. 27(1) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/6) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-7b5c79fbdbca1b7bbffff7e4aaef1d6d]: Textual amendment: [S. 27(1ZA)](https://www.legislation.gov.uk/ukpga/2000/8/section/27/1ZA) inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/28/2), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/v)
+[^c-7b5c79fbdbca1b7bbffff7e4aaef1d6d]: Textual amendment: [S. 27(1ZA)](https://www.legislation.gov.uk/ukpga/2000/8/section/27/1ZA) inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/28/2), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/v)
 
-[^key-2faa667d875e89b8bc8c2b7c106bff65]: Textual amendment: Words in [s. 27(1A)](https://www.legislation.gov.uk/ukpga/2000/8/section/27/1A) substituted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/28/3), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/v)
+[^c-2faa667d875e89b8bc8c2b7c106bff65]: Textual amendment: Words in [s. 27(1A)](https://www.legislation.gov.uk/ukpga/2000/8/section/27/1A) substituted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/28/3), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/v)
 
-[^key-b648499f22233af432020ba2faf3cf78]: Textual amendment: [S. 27(5)](https://www.legislation.gov.uk/ukpga/2000/8/section/27/5) inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 28(4)](https://www.legislation.gov.uk/ukpga/2016/14/section/28/4), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/v)
+[^c-b648499f22233af432020ba2faf3cf78]: Textual amendment: [S. 27(5)](https://www.legislation.gov.uk/ukpga/2000/8/section/27/5) inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 28(4)](https://www.legislation.gov.uk/ukpga/2016/14/section/28/4), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/v)

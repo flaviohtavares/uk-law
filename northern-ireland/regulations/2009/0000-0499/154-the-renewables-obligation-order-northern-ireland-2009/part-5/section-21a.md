@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21A. Circumstances in which no NIROCs are to be issued in respect of electricity generated from bioliquid[^key-3ab4d1f16d5e07d590938a7890331370][^key-c3b94dab9ced14a2778eed87e6f13571]
+## 21A. Circumstances in which no NIROCs are to be issued in respect of electricity generated from bioliquid[^c-3ab4d1f16d5e07d590938a7890331370][^c-c3b94dab9ced14a2778eed87e6f13571]
 
 *Extent: N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ab4d1f16d5e07d590938a7890331370]: Textual amendment: Art. 22A renumbered as art. 21A (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [9](https://www.legislation.gov.uk/nisr/2013/116/article/9) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-3ab4d1f16d5e07d590938a7890331370]: Textual amendment: Art. 22A renumbered as art. 21A (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [9](https://www.legislation.gov.uk/nisr/2013/116/article/9) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
 
-[^key-c3b94dab9ced14a2778eed87e6f13571]: Textual amendment: [Arts. 22A](https://www.legislation.gov.uk/nisr/2009/154/article/22A), [22B](https://www.legislation.gov.uk/nisr/2009/154/article/22B) inserted (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [9](https://www.legislation.gov.uk/nisr/2011/169/article/9) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))
+[^c-c3b94dab9ced14a2778eed87e6f13571]: Textual amendment: [Arts. 22A](https://www.legislation.gov.uk/nisr/2009/154/article/22A), [22B](https://www.legislation.gov.uk/nisr/2009/154/article/22B) inserted (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [9](https://www.legislation.gov.uk/nisr/2011/169/article/9) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))

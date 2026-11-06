@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Protection against adverse treatment: amendment of new public schemes[^key-35178042b2d15d8db6bb71e6429cdabb]
+## 114. Protection against adverse treatment: amendment of new public schemes[^c-35178042b2d15d8db6bb71e6429cdabb]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35178042b2d15d8db6bb71e6429cdabb]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2022/7/section/114) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)
+[^c-35178042b2d15d8db6bb71e6429cdabb]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2022/7/section/114) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)

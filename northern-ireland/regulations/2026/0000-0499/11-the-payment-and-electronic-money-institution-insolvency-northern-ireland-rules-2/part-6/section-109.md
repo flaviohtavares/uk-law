@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 109. Notice of the bar date[^key-503dd97d1ea091011ca4b7b590b2b6dc]
+## 109. Notice of the bar date[^c-503dd97d1ea091011ca4b7b590b2b6dc]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-503dd97d1ea091011ca4b7b590b2b6dc]: Commencement: [Rule 109](https://www.legislation.gov.uk/nisr/2026/11/rule/109) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-503dd97d1ea091011ca4b7b590b2b6dc]: Commencement: [Rule 109](https://www.legislation.gov.uk/nisr/2026/11/rule/109) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

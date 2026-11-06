@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 211. Provision of benefit information statements to members[^key-34f0438dba1ec4e77cbd570cb960565a]
+## 211. Provision of benefit information statements to members[^c-34f0438dba1ec4e77cbd570cb960565a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The scheme manager must provide an annual benefit information statement to each 
 
 ## Annotations
 
-[^key-34f0438dba1ec4e77cbd570cb960565a]: Commencement: [Reg. 211](https://www.legislation.gov.uk/ssi/2014/292/regulation/211) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-34f0438dba1ec4e77cbd570cb960565a]: Commencement: [Reg. 211](https://www.legislation.gov.uk/ssi/2014/292/regulation/211) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

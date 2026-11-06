@@ -40,9 +40,9 @@ summary: ''
 
 (5) In this section “**relevant provision**” means—
 
-- (a) Chapter 2 of Part 23 of CTA 2010 (matters which are distributions), except section 1000(2),[^key-fa4f7617e3bfb6ba8ae0b9cdbad0477d] and
+- (a) Chapter 2 of Part 23 of CTA 2010 (matters which are distributions), except section 1000(2),[^c-fa4f7617e3bfb6ba8ae0b9cdbad0477d] and
 - (b) Part 3 of ITEPA 2003 (employment income: earnings and benefits etc treated as earnings).
 
 ## Annotations
 
-[^key-fa4f7617e3bfb6ba8ae0b9cdbad0477d]: Textual amendment: Words in s. 847(5)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 658](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/658) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-fa4f7617e3bfb6ba8ae0b9cdbad0477d]: Textual amendment: Words in s. 847(5)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 658](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/658) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

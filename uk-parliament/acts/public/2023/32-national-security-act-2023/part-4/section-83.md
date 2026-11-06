@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Interpretation[^key-c79c46b54bb3b142959e2d13d1e2bbd9][^key-4832e0806d9b15eee5c7131679455ccc]
+## 83. Interpretation[^c-c79c46b54bb3b142959e2d13d1e2bbd9][^c-4832e0806d9b15eee5c7131679455ccc]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c79c46b54bb3b142959e2d13d1e2bbd9]: Commencement: S. 83 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-c79c46b54bb3b142959e2d13d1e2bbd9]: Commencement: S. 83 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-4832e0806d9b15eee5c7131679455ccc]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/32/section/83) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-4832e0806d9b15eee5c7131679455ccc]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/32/section/83) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

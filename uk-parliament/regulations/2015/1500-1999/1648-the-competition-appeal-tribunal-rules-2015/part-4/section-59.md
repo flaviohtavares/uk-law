@@ -41,8 +41,8 @@ the security must be given.
 (5) Where a defendant seeks security for costs against the claimant, the conditions are that—
 
 - (a) the claimant is—
-  - (i) resident out of the jurisdiction; [^key-5e52f6bcce6e04e34332efc20e8dc365]...
-  - (ii)[^key-5e52f6bcce6e04e34332efc20e8dc365] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) resident out of the jurisdiction; [^c-5e52f6bcce6e04e34332efc20e8dc365]...
+  - (ii)[^c-5e52f6bcce6e04e34332efc20e8dc365] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the claimant is a company or other body (whether incorporated in or outside the United Kingdom) and there is reason to believe that it will be unable to pay the defendant's costs if ordered to do so;
 - (c) the claimant has changed its address since the claim was commenced with a view to evading the consequences of the litigation;
 - (d) the claimant failed to give its address in the claim form, or gave an incorrect address in that form;
@@ -59,6 +59,6 @@ and is a person against whom a costs order may be made.
 
 ## Annotations
 
-[^key-5e52f6bcce6e04e34332efc20e8dc365]: Textual amendment: [Rule 59(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1648/rule/59/5/a/ii) and word omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/8/4) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e52f6bcce6e04e34332efc20e8dc365]: Textual amendment: [Rule 59(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1648/rule/59/5/a/ii) and word omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/8/4) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22671711]: Marginal citation: [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41); [section 47B](https://www.legislation.gov.uk/uksi/2015/1648/section/47B) was substituted by paragraph 5 of Schedule 8 to the [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15).

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Specified persons for the purposes of the debt provisions[^key-4a4f8a9577251c90ff04fc9a9a873706]
+## SCHEDULE 7 — Specified persons for the purposes of the debt provisions[^c-4a4f8a9577251c90ff04fc9a9a873706]
 
 *Extent: E+W+S+N.I.*
 
 Section 48
 
-### PART 1 — UK AND ENGLISH BODIES[^key-34baa9e5ba5a2ce0dd4c4125a905ca96]
+### PART 1 — UK AND ENGLISH BODIES[^c-34baa9e5ba5a2ce0dd4c4125a905ca96]
 
 *Extent: E+W*
 
@@ -44,9 +44,9 @@ Section 48
 
 *Extent: E+W+S+N.I.*
 
-**5.** The Secretary of State for Business and Trade, in relation to the Secretary of State’s relevant business functions[^key-594ec3b429db050e9ea61b9059cea162].
+**5.** The Secretary of State for Business and Trade, in relation to the Secretary of State’s relevant business functions[^c-594ec3b429db050e9ea61b9059cea162].
 
-**5A.**[^key-41884be187da0b8412cd03b93f92aede] The Secretary of State for Energy Security and Net Zero.
+**5A.**[^c-41884be187da0b8412cd03b93f92aede] The Secretary of State for Energy Security and Net Zero.
 
 **5B.** The Secretary of State for Science, Innovation and Technology, in relation to the Secretary of State’s relevant SIT functions.
 
@@ -96,20 +96,20 @@ Section 48
 
 *Extent: E+W+S+N.I.*
 
-**17.**[^key-ed2ef6f9bd9c8d5cb3cc9d8dea50d868] A person providing services to a specified person who —
+**17.**[^c-ed2ef6f9bd9c8d5cb3cc9d8dea50d868] A person providing services to a specified person who —
 
 - (a) falls within this Part of this Schedule; and
 - (b) is a public authority,
 
 in respect of the taking of action in connection with debt owed to a public authority or to the Crown.
 
-**17A.**[^key-fa247fcc7a692ec2e07a1c4135dc00a8] In this Part of this Schedule—
+**17A.**[^c-fa247fcc7a692ec2e07a1c4135dc00a8] In this Part of this Schedule—
 
 - “**relevant business function**” has the meaning given in article 11(3) of the 2023 Transfer of Functions Order;
 - “**relevant SIT function**” has the meaning given in article 9(4) of the 2023 Transfer of Functions Order;
 - “**the 2023 Transfer of Functions Order**” means the Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 ([S.I. 2023/424](https://www.legislation.gov.uk/uksi/2023/424)).
 
-### PART 2 — WELSH BODIES[^key-f334ffc28d6730b508a792683880d129]
+### PART 2 — WELSH BODIES[^c-f334ffc28d6730b508a792683880d129]
 
 *Extent: E+W*
 
@@ -132,7 +132,7 @@ in respect of the taking of action in connection with debt owed to a public auth
 
 in respect of the taking of action in connection with debt owed to a public authority or to the Crown.
 
-### PART 3 — SCOTTISH BODIES[^key-00362b54c89590621e7d9bf826fb2d26]
+### PART 3 — SCOTTISH BODIES[^c-00362b54c89590621e7d9bf826fb2d26]
 
 *Extent: S*
 
@@ -173,18 +173,18 @@ in respect of the taking of action in connection with debt owed to a public auth
 
 ## Annotations
 
-[^key-4a4f8a9577251c90ff04fc9a9a873706]: Commencement: Sch. 7 in force at 1.5.2018 for E.W.S. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(qq)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/qq); Sch. 7 in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/w)
+[^c-4a4f8a9577251c90ff04fc9a9a873706]: Commencement: Sch. 7 in force at 1.5.2018 for E.W.S. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(qq)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/qq); Sch. 7 in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/w)
 
-[^key-34baa9e5ba5a2ce0dd4c4125a905ca96]: Textual amendment: Sch. 7 Pt. 1 heading inserted (E.W.) (26.4.2018) by [The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551)](https://www.legislation.gov.uk/wsi/2018/551), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/551/regulation/1/2), [Sch. para. 4(2)](https://www.legislation.gov.uk/wsi/2018/551/schedule/paragraph/4/2)
+[^c-34baa9e5ba5a2ce0dd4c4125a905ca96]: Textual amendment: Sch. 7 Pt. 1 heading inserted (E.W.) (26.4.2018) by [The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551)](https://www.legislation.gov.uk/wsi/2018/551), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/551/regulation/1/2), [Sch. para. 4(2)](https://www.legislation.gov.uk/wsi/2018/551/schedule/paragraph/4/2)
 
-[^key-594ec3b429db050e9ea61b9059cea162]: Textual amendment: Words in [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2017/30/schedule/7/paragraph/5) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 18(7)(a)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/18/7/a) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-594ec3b429db050e9ea61b9059cea162]: Textual amendment: Words in [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2017/30/schedule/7/paragraph/5) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 18(7)(a)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/18/7/a) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-41884be187da0b8412cd03b93f92aede]: Textual amendment: [Sch. 7 paras. 5A](https://www.legislation.gov.uk/ukpga/2017/30/schedule/7/paragraph/5A), [5B](https://www.legislation.gov.uk/ukpga/2017/30/schedule/7/paragraph/5B) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 18(7)(b)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/18/7/b) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-41884be187da0b8412cd03b93f92aede]: Textual amendment: [Sch. 7 paras. 5A](https://www.legislation.gov.uk/ukpga/2017/30/schedule/7/paragraph/5A), [5B](https://www.legislation.gov.uk/ukpga/2017/30/schedule/7/paragraph/5B) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 18(7)(b)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/18/7/b) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-ed2ef6f9bd9c8d5cb3cc9d8dea50d868]: Textual amendment: Sch. 7 para. 17 substituted (26.4.2018) by [The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551)](https://www.legislation.gov.uk/wsi/2018/551), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/551/regulation/1/2), [Sch. para. 4(3)](https://www.legislation.gov.uk/wsi/2018/551/schedule/paragraph/4/3)
+[^c-ed2ef6f9bd9c8d5cb3cc9d8dea50d868]: Textual amendment: Sch. 7 para. 17 substituted (26.4.2018) by [The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551)](https://www.legislation.gov.uk/wsi/2018/551), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/551/regulation/1/2), [Sch. para. 4(3)](https://www.legislation.gov.uk/wsi/2018/551/schedule/paragraph/4/3)
 
-[^key-fa247fcc7a692ec2e07a1c4135dc00a8]: Textual amendment: [Sch. 7 para. 17A](https://www.legislation.gov.uk/ukpga/2017/30/schedule/7/paragraph/17A) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 18(7)(c)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/18/7/c) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-fa247fcc7a692ec2e07a1c4135dc00a8]: Textual amendment: [Sch. 7 para. 17A](https://www.legislation.gov.uk/ukpga/2017/30/schedule/7/paragraph/17A) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 18(7)(c)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/18/7/c) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-f334ffc28d6730b508a792683880d129]: Textual amendment: Sch. 7 Pt. 2 inserted (E.W.) (26.4.2018) by [The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551)](https://www.legislation.gov.uk/wsi/2018/551), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/551/regulation/1/2), [Sch. para. 4(4)](https://www.legislation.gov.uk/wsi/2018/551/schedule/paragraph/4/4)
+[^c-f334ffc28d6730b508a792683880d129]: Textual amendment: Sch. 7 Pt. 2 inserted (E.W.) (26.4.2018) by [The Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551)](https://www.legislation.gov.uk/wsi/2018/551), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/551/regulation/1/2), [Sch. para. 4(4)](https://www.legislation.gov.uk/wsi/2018/551/schedule/paragraph/4/4)
 
-[^key-00362b54c89590621e7d9bf826fb2d26]: Textual amendment: [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2017/30/schedule/7/part/3) inserted (16.3.2022) by [The Digital Government (Scottish Bodies) Regulations 2022 (S.S.I. 2022/91)](https://www.legislation.gov.uk/ssi/2022/91), [regs. 1](https://www.legislation.gov.uk/ssi/2022/91/regulation/1), [2](https://www.legislation.gov.uk/ssi/2022/91/regulation/2)
+[^c-00362b54c89590621e7d9bf826fb2d26]: Textual amendment: [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2017/30/schedule/7/part/3) inserted (16.3.2022) by [The Digital Government (Scottish Bodies) Regulations 2022 (S.S.I. 2022/91)](https://www.legislation.gov.uk/ssi/2022/91), [regs. 1](https://www.legislation.gov.uk/ssi/2022/91/regulation/1), [2](https://www.legislation.gov.uk/ssi/2022/91/regulation/2)

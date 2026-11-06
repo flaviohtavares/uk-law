@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 153. Amount payable under court order to former spouse or civil partner[^key-52776f1f7925a78c345f3661878dac24]
+## 153. Amount payable under court order to former spouse or civil partner[^c-52776f1f7925a78c345f3661878dac24]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52776f1f7925a78c345f3661878dac24]: Commencement: Reg. 153 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-52776f1f7925a78c345f3661878dac24]: Commencement: Reg. 153 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

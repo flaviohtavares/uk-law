@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Regulation of remedies for arrears of rentcharges[^key-5328ca9d3d571d76bbcfa56b7d687d2f]
+## 113. Regulation of remedies for arrears of rentcharges[^c-5328ca9d3d571d76bbcfa56b7d687d2f]
 
 *Extent: E+W*
 
@@ -122,4 +122,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5328ca9d3d571d76bbcfa56b7d687d2f]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2024/22/section/113) in force at 24.7.2024, see [s. 124(2)(a)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/a)
+[^c-5328ca9d3d571d76bbcfa56b7d687d2f]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2024/22/section/113) in force at 24.7.2024, see [s. 124(2)(a)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/a)

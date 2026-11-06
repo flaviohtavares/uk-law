@@ -31,7 +31,7 @@ summary: ''
 
 CLEAN AIR, WALES
 
-The Smoke Control Areas (Authorised Fuels) (Wales) (Amendment) Regulations 2011 (revoked)[^key-fa4fe62ebcdcd6903f25333a45772db8]
+The Smoke Control Areas (Authorised Fuels) (Wales) (Amendment) Regulations 2011 (revoked)[^c-fa4fe62ebcdcd6903f25333a45772db8]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 31 December 2011
 
-[^key-fa4fe62ebcdcd6903f25333a45772db8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa4fe62ebcdcd6903f25333a45772db8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-fa4fe62ebcdcd6903f25333a45772db8]
+## 1. Title, commencement and application[^c-fa4fe62ebcdcd6903f25333a45772db8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-fa4fe62ebcdcd6903f25333a45772db8]
+## 2. Amendments[^c-fa4fe62ebcdcd6903f25333a45772db8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving[^key-fa4fe62ebcdcd6903f25333a45772db8]
+## 3. Saving[^c-fa4fe62ebcdcd6903f25333a45772db8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa4fe62ebcdcd6903f25333a45772db8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa4fe62ebcdcd6903f25333a45772db8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fa4fe62ebcdcd6903f25333a45772db8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa4fe62ebcdcd6903f25333a45772db8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fa4fe62ebcdcd6903f25333a45772db8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/2909) revoked (11.4.2014) by [The Smoke Control Areas (Authorised Fuels) (Wales) Regulations 2014 (S.I. 2014/684)](https://www.legislation.gov.uk/wsi/2014/684), [reg. 3(c)](https://www.legislation.gov.uk/wsi/2014/684/regulation/3/c)
+[^c-fa4fe62ebcdcd6903f25333a45772db8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/2909) revoked (11.4.2014) by [The Smoke Control Areas (Authorised Fuels) (Wales) Regulations 2014 (S.I. 2014/684)](https://www.legislation.gov.uk/wsi/2014/684), [reg. 3(c)](https://www.legislation.gov.uk/wsi/2014/684/regulation/3/c)

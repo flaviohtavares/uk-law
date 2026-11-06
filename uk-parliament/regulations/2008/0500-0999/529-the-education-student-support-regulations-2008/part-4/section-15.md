@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Events[^key-fe59a4b417fb85b9024a8ccb7a3f976f]
+## 15. Events[^c-fe59a4b417fb85b9024a8ccb7a3f976f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ The events are—
 
 ## Annotations
 
-[^key-fe59a4b417fb85b9024a8ccb7a3f976f]: Commencement: Reg. 15 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-fe59a4b417fb85b9024a8ccb7a3f976f]: Commencement: Reg. 15 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

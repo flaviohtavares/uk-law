@@ -26,8 +26,8 @@ summary: ''
 
 (3) For the purposes of any such inquiry the Commission, or a person appointed by the Commission to conduct it, may (subject to the provisions of this section) direct any person (P)—
 
-- (a) to provide[^key-727c57f2d093c5be428fe2e5b07632bb] accounts and statements in writing with respect to any matter in question at the inquiry, being a matter on which P has or can reasonably obtain information, or to return answers in writing to any questions or inquiries addressed to P on any such matter, and to verify any such accounts, statements or answers by statutory declaration;
-- (b) to provide[^key-414dfdc5c8893eda7e317252404cd07a] copies of documents in P's custody or under P's control which relate to any matter in question at the inquiry, and to verify any such copies by statutory declaration;
+- (a) to provide[^c-727c57f2d093c5be428fe2e5b07632bb] accounts and statements in writing with respect to any matter in question at the inquiry, being a matter on which P has or can reasonably obtain information, or to return answers in writing to any questions or inquiries addressed to P on any such matter, and to verify any such accounts, statements or answers by statutory declaration;
+- (b) to provide[^c-414dfdc5c8893eda7e317252404cd07a] copies of documents in P's custody or under P's control which relate to any matter in question at the inquiry, and to verify any such copies by statutory declaration;
 - (c) to attend at a specified time and place and give evidence or produce any such documents.
 
 (4) For the purposes of any such inquiry evidence may be taken on oath, and the person conducting the inquiry may for that purpose administer oaths, or may instead of administering an oath require P to make and subscribe a declaration of the truth of the matters about which P is examined.
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-727c57f2d093c5be428fe2e5b07632bb]: Textual amendment: Word in [s. 22(3)(a)](https://www.legislation.gov.uk/nia/2008/12/section/22/3/a) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 6(1)(a)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/6/1/a)
+[^c-727c57f2d093c5be428fe2e5b07632bb]: Textual amendment: Word in [s. 22(3)(a)](https://www.legislation.gov.uk/nia/2008/12/section/22/3/a) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 6(1)(a)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/6/1/a)
 
-[^key-414dfdc5c8893eda7e317252404cd07a]: Textual amendment: Word in [s. 22(3)(b)](https://www.legislation.gov.uk/nia/2008/12/section/22/3/b) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 6(1)(a)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/6/1/a)
+[^c-414dfdc5c8893eda7e317252404cd07a]: Textual amendment: Word in [s. 22(3)(b)](https://www.legislation.gov.uk/nia/2008/12/section/22/3/b) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 6(1)(a)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/6/1/a)

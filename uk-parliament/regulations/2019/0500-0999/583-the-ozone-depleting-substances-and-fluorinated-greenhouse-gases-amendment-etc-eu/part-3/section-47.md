@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Article 15 (reduction of the quantity of hydrofluorocarbons placed on the market)[^key-36299333307bd22c5e0a265d0bd37640]
+## 47. Article 15 (reduction of the quantity of hydrofluorocarbons placed on the market)[^c-36299333307bd22c5e0a265d0bd37640]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,9 +25,9 @@ summary: ''
 (2) In paragraph 1—
 
 - (a) for “Commission” substitute “appropriate regulator”;
-- (b) for “the Union” substitute “any part of Great Britain[^key-8c1d4b9916104d62ad3cfb6df4f845de]”.
+- (b) for “the Union” substitute “any part of Great Britain[^c-8c1d4b9916104d62ad3cfb6df4f845de]”.
 
-(3) In paragraph 2, in the second subparagraph, in points (a) and (c), for “the Union”, in each place it occurs, substitute “any part of Great Britain[^key-0105816238cea69b37c15389dd79d46f]”.
+(3) In paragraph 2, in the second subparagraph, in points (a) and (c), for “the Union”, in each place it occurs, substitute “any part of Great Britain[^c-0105816238cea69b37c15389dd79d46f]”.
 
 (4) In paragraph 4—
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-36299333307bd22c5e0a265d0bd37640]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-36299333307bd22c5e0a265d0bd37640]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-8c1d4b9916104d62ad3cfb6df4f845de]: Textual amendment: Words in [reg. 47(2)(b)](https://www.legislation.gov.uk/uksi/2019/583/regulation/47/2/b) substituted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(22)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/22)
+[^c-8c1d4b9916104d62ad3cfb6df4f845de]: Textual amendment: Words in [reg. 47(2)(b)](https://www.legislation.gov.uk/uksi/2019/583/regulation/47/2/b) substituted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(22)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/22)
 
-[^key-0105816238cea69b37c15389dd79d46f]: Textual amendment: Words in [reg. 47(3)](https://www.legislation.gov.uk/uksi/2019/583/regulation/47/3) substituted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(22)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/22)
+[^c-0105816238cea69b37c15389dd79d46f]: Textual amendment: Words in [reg. 47(3)](https://www.legislation.gov.uk/uksi/2019/583/regulation/47/3) substituted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(22)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/22)

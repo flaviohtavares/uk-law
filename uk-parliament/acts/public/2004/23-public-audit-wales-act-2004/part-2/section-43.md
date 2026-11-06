@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Co-operation with Audit Commission[^key-f6a26c751b3687fbc43b8755dfee0d6c]
+## 43. Co-operation with Audit Commission[^c-f6a26c751b3687fbc43b8755dfee0d6c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6a26c751b3687fbc43b8755dfee0d6c]: Textual amendment: S. 43 omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 60](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/60); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-f6a26c751b3687fbc43b8755dfee0d6c]: Textual amendment: S. 43 omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 60](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/60); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)

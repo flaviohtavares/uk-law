@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Power to construct and maintain authorised project[^key-02fab8ed65137719a08cb879ad6fcded]
+## 5. Power to construct and maintain authorised project[^c-02fab8ed65137719a08cb879ad6fcded]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02fab8ed65137719a08cb879ad6fcded]: Commencement: Art. 5 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-02fab8ed65137719a08cb879ad6fcded]: Commencement: Art. 5 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)

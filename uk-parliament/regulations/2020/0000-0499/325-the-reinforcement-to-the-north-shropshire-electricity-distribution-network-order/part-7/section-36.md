@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Service of notices[^key-22b96ab6acc64047c75a5d0043df5b98]
+## 36. Service of notices[^c-22b96ab6acc64047c75a5d0043df5b98]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-22b96ab6acc64047c75a5d0043df5b98]: Commencement: Art. 36 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-22b96ab6acc64047c75a5d0043df5b98]: Commencement: Art. 36 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030771]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).

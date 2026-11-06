@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Pensionable pay[^key-481dff7a6ad4efeef54c52608be693b4]
+## 17. Pensionable pay[^c-481dff7a6ad4efeef54c52608be693b4]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-481dff7a6ad4efeef54c52608be693b4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/19/regulation/17) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-481dff7a6ad4efeef54c52608be693b4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/19/regulation/17) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

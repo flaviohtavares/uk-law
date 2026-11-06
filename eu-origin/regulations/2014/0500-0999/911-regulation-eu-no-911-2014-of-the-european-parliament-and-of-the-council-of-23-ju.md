@@ -35,42 +35,42 @@ on multiannual funding for the action of the European Maritime Safety Agency in 
 
 (Text with EEA relevance) (revoked)
 
-[^key-06989f88b44e97fb6adeec8c6472d620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06989f88b44e97fb6adeec8c6472d620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-06989f88b44e97fb6adeec8c6472d620]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-06989f88b44e97fb6adeec8c6472d620]
+## Article 1. Subject matter[^c-06989f88b44e97fb6adeec8c6472d620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Scope[^key-06989f88b44e97fb6adeec8c6472d620]
+## Article 2. Definitions[^c-06989f88b44e97fb6adeec8c6472d620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Union funding[^key-06989f88b44e97fb6adeec8c6472d620]
+## Article 3. Scope[^c-06989f88b44e97fb6adeec8c6472d620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Monitoring existing capabilities[^key-06989f88b44e97fb6adeec8c6472d620]
+## Article 4. Union funding[^c-06989f88b44e97fb6adeec8c6472d620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Protection of the Union’s financial interests[^key-06989f88b44e97fb6adeec8c6472d620]
+## Article 5. Monitoring existing capabilities[^c-06989f88b44e97fb6adeec8c6472d620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Mid-term evaluation[^key-06989f88b44e97fb6adeec8c6472d620]
+## Article 6. Protection of the Union’s financial interests[^c-06989f88b44e97fb6adeec8c6472d620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force and date of application[^key-06989f88b44e97fb6adeec8c6472d620]
+## Article 7. Mid-term evaluation[^c-06989f88b44e97fb6adeec8c6472d620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06989f88b44e97fb6adeec8c6472d620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 8. Entry into force and date of application[^c-06989f88b44e97fb6adeec8c6472d620]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-06989f88b44e97fb6adeec8c6472d620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06989f88b44e97fb6adeec8c6472d620]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(l)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/l); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-06989f88b44e97fb6adeec8c6472d620]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(l)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/l); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

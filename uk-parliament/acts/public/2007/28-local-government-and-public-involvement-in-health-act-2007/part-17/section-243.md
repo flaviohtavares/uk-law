@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243. Power to make further amendments and repeals[^key-3fbebd82e16c524f147ea405c1a05a9e]
+## 243. Power to make further amendments and repeals[^c-3fbebd82e16c524f147ea405c1a05a9e]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fbebd82e16c524f147ea405c1a05a9e]: Commencement: S. 243 in force at 21.2.2008 by [S.I. 2008/461](https://www.legislation.gov.uk/uksi/2008/461), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/461/article/2/1/e)
+[^c-3fbebd82e16c524f147ea405c1a05a9e]: Commencement: S. 243 in force at 21.2.2008 by [S.I. 2008/461](https://www.legislation.gov.uk/uksi/2008/461), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/461/article/2/1/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 160. Disclaimer presumed valid and effective[^key-3a7b493e1e37032af21a414e56e1bf4d]
+## 160. Disclaimer presumed valid and effective[^c-3a7b493e1e37032af21a414e56e1bf4d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Any disclaimer of property by the administrator is presumed valid and effective,
 
 ## Annotations
 
-[^key-3a7b493e1e37032af21a414e56e1bf4d]: Commencement: [Rule 160](https://www.legislation.gov.uk/nisr/2026/11/rule/160) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-3a7b493e1e37032af21a414e56e1bf4d]: Commencement: [Rule 160](https://www.legislation.gov.uk/nisr/2026/11/rule/160) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

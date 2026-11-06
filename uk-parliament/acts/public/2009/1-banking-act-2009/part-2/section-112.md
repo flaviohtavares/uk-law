@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Replacement[^key-87b274ff65b433c842b52a42472403f3]
+## 112. Replacement[^c-87b274ff65b433c842b52a42472403f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87b274ff65b433c842b52a42472403f3]: Commencement: S. 112 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-87b274ff65b433c842b52a42472403f3]: Commencement: S. 112 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)

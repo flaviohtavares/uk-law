@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Genocide, crimes against humanity and war crimes: retrospective application[^key-2d97c27216ae4badc2fb57cd6b48e2b6]
+## 33. Genocide, crimes against humanity and war crimes: retrospective application[^c-2d97c27216ae4badc2fb57cd6b48e2b6]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ After section 9 of the International Criminal Court (Scotland) Act 2001 (asp 13)
 
 ## Annotations
 
-[^key-2d97c27216ae4badc2fb57cd6b48e2b6]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2010/13/section/33) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-2d97c27216ae4badc2fb57cd6b48e2b6]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2010/13/section/33) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

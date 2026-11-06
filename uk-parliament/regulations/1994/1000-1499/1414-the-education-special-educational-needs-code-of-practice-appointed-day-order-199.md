@@ -46,11 +46,11 @@ Coming into force
 
 In exercise of the powers conferred by section 158(4) of the Education Act 1993[^f00001] the Secretary of State for Education hereby makes the following Order:—
 
-## 1. Citation and commencement[^key-c2c8823f16e45481d42f7dbfd7995492]
+## 1. Citation and commencement[^c-c2c8823f16e45481d42f7dbfd7995492]
 
 This Order may be cited as the Education (Special Educational Needs Code of Practice) (Appointed Day) Order 1994 and shall come into force on 1st September 1994.
 
-## 2. Appointed Day[^key-3fcc76683ca8e3152aaddbbfbefdab95]
+## 2. Appointed Day[^c-3fcc76683ca8e3152aaddbbfbefdab95]
 
 1st September 1994 is hereby appointed as the day on which the Code of Practice on the Identification and Assessment of Special Educational Needs issued pursuant to Section 158(4) of the Education Act 1993 on 25th May 1994 shall come into effect.
 
@@ -72,6 +72,6 @@ Copies of the Code of Practice on the Identification and Assessment of Special E
 
 [^f00001]: Footnote: [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35).
 
-[^key-c2c8823f16e45481d42f7dbfd7995492]: Commencement: Art. 1 in force at 1.9.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/1414/article/1)
+[^c-c2c8823f16e45481d42f7dbfd7995492]: Commencement: Art. 1 in force at 1.9.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/1414/article/1)
 
-[^key-3fcc76683ca8e3152aaddbbfbefdab95]: Commencement: Art. 2 in force at 1.9.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/1414/article/1)
+[^c-3fcc76683ca8e3152aaddbbfbefdab95]: Commencement: Art. 2 in force at 1.9.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/1414/article/1)

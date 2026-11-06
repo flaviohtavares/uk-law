@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Amendments to the Energy Order[^key-f5a973d75c5b99799d27b61208f9c129]
+## 83. Amendments to the Energy Order[^c-f5a973d75c5b99799d27b61208f9c129]
 
 *Extent: N.I.*
 
@@ -93,13 +93,13 @@ In Article 2 of the Energy Order, there shall be inserted at the appropriate pla
 
 .
 
-**84.**[^key-9a34aa73f70d10106017278d2a75bb3f] In Article 38 of the Energy Order—
+**84.**[^c-9a34aa73f70d10106017278d2a75bb3f] In Article 38 of the Energy Order—
 
 - (a) In paragraph (1), for the words “European Parliament and Council Directive [2003/54/EC](https://www.legislation.gov.uk/european/directive/2003/0054) concerning common rules for the internal market in electricity and repealing Directive [96/92/EC](https://www.legislation.gov.uk/european/directive/1996/0092)” there shall be substituted the words “the Electricity Directive”; and
 - (b) in paragraph (2), for the words “European Parliament and Council Directive [2003/55/EC](https://www.legislation.gov.uk/european/directive/2003/0055) concerning common rules for the internal market in natural gas and repealing Directive [98/30/EC](https://www.legislation.gov.uk/european/directive/1998/0030)” there shall be substituted “the Gas Directive”.
 
 ## Annotations
 
-[^key-f5a973d75c5b99799d27b61208f9c129]: Commencement: Reg. 83 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-f5a973d75c5b99799d27b61208f9c129]: Commencement: Reg. 83 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-9a34aa73f70d10106017278d2a75bb3f]: Commencement: Reg. 84 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-9a34aa73f70d10106017278d2a75bb3f]: Commencement: Reg. 84 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

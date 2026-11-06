@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Sanctions: information powers[^key-ab1f07668f4be12b2e4074714abf607d]
+## 57. Sanctions: information powers[^c-ab1f07668f4be12b2e4074714abf607d]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab1f07668f4be12b2e4074714abf607d]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2016/20/section/57) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-ab1f07668f4be12b2e4074714abf607d]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2016/20/section/57) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

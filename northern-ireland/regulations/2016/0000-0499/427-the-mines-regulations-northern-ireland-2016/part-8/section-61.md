@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Appraisal of tips[^key-daa728c0b39d57253ee6aa16d0346940]
+## 61. Appraisal of tips[^c-daa728c0b39d57253ee6aa16d0346940]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-daa728c0b39d57253ee6aa16d0346940]: Commencement: [Reg. 61](https://www.legislation.gov.uk/nisr/2016/427/regulation/61) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-daa728c0b39d57253ee6aa16d0346940]: Commencement: [Reg. 61](https://www.legislation.gov.uk/nisr/2016/427/regulation/61) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

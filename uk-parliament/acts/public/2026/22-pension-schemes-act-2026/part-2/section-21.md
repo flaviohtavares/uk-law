@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Interpretation of Chapter[^key-ccbab1ac51e9955530206b73cfe1948b]
+## 21. Interpretation of Chapter[^c-ccbab1ac51e9955530206b73cfe1948b]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-ccbab1ac51e9955530206b73cfe1948b]: Commencement: S. 21 not in force at Royal Assent, see [s. 133(4)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/a)
+[^c-ccbab1ac51e9955530206b73cfe1948b]: Commencement: S. 21 not in force at Royal Assent, see [s. 133(4)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/a)

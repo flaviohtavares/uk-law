@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Coordinating officer[^key-83a868903463f66efe0847f16992a50c]
+## 14. Coordinating officer[^c-83a868903463f66efe0847f16992a50c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83a868903463f66efe0847f16992a50c]: Commencement: S. 14 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-83a868903463f66efe0847f16992a50c]: Commencement: S. 14 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

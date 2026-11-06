@@ -67,7 +67,7 @@ summary: ''
 - “**sexual harm**” means physical or psychological harm caused by the relevant sex offender doing anything which would constitute an offence listed in Schedule 3 if done in any part of the United Kingdom; and
 - “**responsible authorities**” has the meaning given by section 10(7) of the Management of Offenders etc. (Scotland) Act 2005.
 
-(8) In this section and sections 88D to 88G, “**relevant chief constable**” means the chief constable of the Police Service of Scotland[^key-64f87d7dd96f402d71a2155c55c156e2].
+(8) In this section and sections 88D to 88G, “**relevant chief constable**” means the chief constable of the Police Service of Scotland[^c-64f87d7dd96f402d71a2155c55c156e2].
 
 ## Annotations
 
@@ -75,4 +75,4 @@ summary: ''
 
 [^c20944051]: Textual amendment: Ss. 88A-88I inserted (S.) (25.10.2010 at 17.00 hours) by [The Sexual Offences Act 2003 (Remedial) (Scotland) Order 2010 (S.S.I. 2010/370)](https://www.legislation.gov.uk/ssi/2010/370), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2010/370/article/1/1), [3](https://www.legislation.gov.uk/ssi/2010/370/article/3) (which Order is revoked and re-enacted with modifications (28.1.2011) by [The Sexual Offences Act 2003 (Remedial) (Scotland) Order 2011 (S.S.I. 2011/45)](https://www.legislation.gov.uk/ssi/2011/45))
 
-[^key-64f87d7dd96f402d71a2155c55c156e2]: Textual amendment: Words in s. 88C(8) substituted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 20(4)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/4)
+[^c-64f87d7dd96f402d71a2155c55c156e2]: Textual amendment: Words in s. 88C(8) substituted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 20(4)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/4)

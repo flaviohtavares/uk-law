@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Assessment of value of land etc.[^key-e7756b6d920cbe3e548c3eb58f9c823c]
+## 65. Assessment of value of land etc.[^c-e7756b6d920cbe3e548c3eb58f9c823c]
 
 *Extent: S*
 
@@ -89,4 +89,4 @@ to assess the value of the land or tenant's interest to which the application re
 
 ## Annotations
 
-[^key-e7756b6d920cbe3e548c3eb58f9c823c]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2016/18/section/65) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-e7756b6d920cbe3e548c3eb58f9c823c]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2016/18/section/65) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

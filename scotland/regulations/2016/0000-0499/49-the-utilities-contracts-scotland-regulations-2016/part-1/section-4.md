@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Utilities[^key-4d849022ef4fe2e1c993d1b85f007b3b]
+## 4. Utilities[^c-4d849022ef4fe2e1c993d1b85f007b3b]
 
 *Extent: S*
 
@@ -51,24 +51,24 @@ summary: ''
 
 - (a) procurement with a prior call for competition in accordance with—
   - (i) these Regulations or the Utilities Contracts (Scotland) Regulations 2012[^f00025];
-  - (ii) the Public Contracts (Scotland) Regulations or the Public Contracts (Scotland) Regulations 2012[^f00026]; or[^key-370be125e258d2d4b5fadfd86e206e5c]
-  - (iii) the Concession Contracts Directive; [^key-2ae183be580a53da36b1ee1e25520885]...
-  - (iv)[^key-aa4b33868b91d640b01b2b9b9e8f9817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (aa)[^key-85a90802f252e0ffc78ab3df787fa64b] procedures in accordance with section 19 of the Procurement Act 2023; and
+  - (ii) the Public Contracts (Scotland) Regulations or the Public Contracts (Scotland) Regulations 2012[^f00026]; or[^c-370be125e258d2d4b5fadfd86e206e5c]
+  - (iii) the Concession Contracts Directive; [^c-2ae183be580a53da36b1ee1e25520885]...
+  - (iv)[^c-aa4b33868b91d640b01b2b9b9e8f9817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-85a90802f252e0ffc78ab3df787fa64b] procedures in accordance with section 19 of the Procurement Act 2023; and
 - (b) procedures in accordance with other legal acts of the EU as mentioned in Annex II of the Utilities Contracts Directive, as amended from time to time.
 
 ## Annotations
 
-[^key-4d849022ef4fe2e1c993d1b85f007b3b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/49/regulation/4) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-4d849022ef4fe2e1c993d1b85f007b3b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/49/regulation/4) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
 [^f00025]: Footnote: [S.S.I. 2012/89](https://www.legislation.gov.uk/ssi/2012/89).
 
 [^f00026]: Footnote: [S.S.I. 2012/88](https://www.legislation.gov.uk/ssi/2012/88).
 
-[^key-370be125e258d2d4b5fadfd86e206e5c]: Textual amendment: Word in [reg. 4(6)](https://www.legislation.gov.uk/ssi/2016/49/regulation/4/6) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/21/3/a)
+[^c-370be125e258d2d4b5fadfd86e206e5c]: Textual amendment: Word in [reg. 4(6)](https://www.legislation.gov.uk/ssi/2016/49/regulation/4/6) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/21/3/a)
 
-[^key-2ae183be580a53da36b1ee1e25520885]: Textual amendment: Word in [reg. 4(6)](https://www.legislation.gov.uk/ssi/2016/49/regulation/4/6) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/21/3/b)
+[^c-2ae183be580a53da36b1ee1e25520885]: Textual amendment: Word in [reg. 4(6)](https://www.legislation.gov.uk/ssi/2016/49/regulation/4/6) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/21/3/b)
 
-[^key-aa4b33868b91d640b01b2b9b9e8f9817]: Textual amendment: [Reg. 4(6)(a)(iv)](https://www.legislation.gov.uk/ssi/2016/49/regulation/4/6/a/iv) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [21(3)(c)](https://www.legislation.gov.uk/uksi/2025/163/regulation/21/3/c)
+[^c-aa4b33868b91d640b01b2b9b9e8f9817]: Textual amendment: [Reg. 4(6)(a)(iv)](https://www.legislation.gov.uk/ssi/2016/49/regulation/4/6/a/iv) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [21(3)(c)](https://www.legislation.gov.uk/uksi/2025/163/regulation/21/3/c)
 
-[^key-85a90802f252e0ffc78ab3df787fa64b]: Textual amendment: [Reg. 4(6)(aa)](https://www.legislation.gov.uk/ssi/2016/49/regulation/4/6/aa) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [21(3)(d)](https://www.legislation.gov.uk/uksi/2025/163/regulation/21/3/d)
+[^c-85a90802f252e0ffc78ab3df787fa64b]: Textual amendment: [Reg. 4(6)(aa)](https://www.legislation.gov.uk/ssi/2016/49/regulation/4/6/aa) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [21(3)(d)](https://www.legislation.gov.uk/uksi/2025/163/regulation/21/3/d)

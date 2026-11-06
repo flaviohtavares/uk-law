@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^key-c05f33776bf2925b0072d63c55b93321]
+The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^c-c05f33776bf2925b0072d63c55b93321]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 1st April 2011
 
-[^key-c05f33776bf2925b0072d63c55b93321]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c05f33776bf2925b0072d63c55b93321]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c05f33776bf2925b0072d63c55b93321]
+## 1. Citation and commencement[^c-c05f33776bf2925b0072d63c55b93321]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-c05f33776bf2925b0072d63c55b93321]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-c05f33776bf2925b0072d63c55b93321]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-c05f33776bf2925b0072d63c55b93321]
+## 3. Revocation[^c-c05f33776bf2925b0072d63c55b93321]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c05f33776bf2925b0072d63c55b93321]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c05f33776bf2925b0072d63c55b93321]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c05f33776bf2925b0072d63c55b93321]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c05f33776bf2925b0072d63c55b93321]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c05f33776bf2925b0072d63c55b93321]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2011/90) revoked (1.4.2012) by [The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/107)](https://www.legislation.gov.uk/nisr/2012/107), [reg. 3](https://www.legislation.gov.uk/nisr/2012/107/regulation/3)
+[^c-c05f33776bf2925b0072d63c55b93321]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2011/90) revoked (1.4.2012) by [The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/107)](https://www.legislation.gov.uk/nisr/2012/107), [reg. 3](https://www.legislation.gov.uk/nisr/2012/107/regulation/3)

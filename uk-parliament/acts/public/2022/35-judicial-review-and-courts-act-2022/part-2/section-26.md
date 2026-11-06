@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Process for making Online Procedure Rules[^key-7fb2f09a48ed39f46623f19761feaa49][^key-8a18208459c7d3b8f43b21a7b9627ec9]
+## 26. Process for making Online Procedure Rules[^c-7fb2f09a48ed39f46623f19761feaa49][^c-8a18208459c7d3b8f43b21a7b9627ec9]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7fb2f09a48ed39f46623f19761feaa49]: Commencement: S. 26 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-7fb2f09a48ed39f46623f19761feaa49]: Commencement: S. 26 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-8a18208459c7d3b8f43b21a7b9627ec9]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/35/section/26) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-8a18208459c7d3b8f43b21a7b9627ec9]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/35/section/26) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)

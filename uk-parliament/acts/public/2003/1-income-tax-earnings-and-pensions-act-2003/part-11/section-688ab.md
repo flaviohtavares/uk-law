@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 688AB. Workers’ providing services through intermediaries etc: cases where taxes already paid[^key-b61401cf9e6092da7171f1e47b175a7d]
+## 688AB. Workers’ providing services through intermediaries etc: cases where taxes already paid[^c-b61401cf9e6092da7171f1e47b175a7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ in a case where an estimate of that amount is treated as having been recovered f
 
 ## Annotations
 
-[^key-b61401cf9e6092da7171f1e47b175a7d]: Textual amendment: S. 688AB inserted (with effect in accordance with s. 17(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/17/1)
+[^c-b61401cf9e6092da7171f1e47b175a7d]: Textual amendment: S. 688AB inserted (with effect in accordance with s. 17(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/17/1)

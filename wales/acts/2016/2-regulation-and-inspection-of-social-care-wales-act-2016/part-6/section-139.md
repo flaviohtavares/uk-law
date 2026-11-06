@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Disposals: further provision about conditional registration and suspension orders[^key-c7444bb4805c5d7a801288de0cf95f63]
+## 139. Disposals: further provision about conditional registration and suspension orders[^c-c7444bb4805c5d7a801288de0cf95f63]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7444bb4805c5d7a801288de0cf95f63]: Commencement: [S. 139](https://www.legislation.gov.uk/anaw/2016/2/section/139) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-c7444bb4805c5d7a801288de0cf95f63]: Commencement: [S. 139](https://www.legislation.gov.uk/anaw/2016/2/section/139) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

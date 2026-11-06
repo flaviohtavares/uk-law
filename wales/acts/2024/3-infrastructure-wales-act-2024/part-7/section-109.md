@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Rights of entry: Crown land[^key-31a5c99d399843f6564c7909d4e96921][^key-492dfa0bbd76e7fcf041476254052dff]
+## 109. Rights of entry: Crown land[^c-31a5c99d399843f6564c7909d4e96921][^c-492dfa0bbd76e7fcf041476254052dff]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Sections 106 and 107 do not apply to Crown land.
 
 ## Annotations
 
-[^key-31a5c99d399843f6564c7909d4e96921]: Commencement: S. 109 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-31a5c99d399843f6564c7909d4e96921]: Commencement: S. 109 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-492dfa0bbd76e7fcf041476254052dff]: Commencement: [S. 109](https://www.legislation.gov.uk/asc/2024/3/section/109) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-492dfa0bbd76e7fcf041476254052dff]: Commencement: [S. 109](https://www.legislation.gov.uk/asc/2024/3/section/109) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

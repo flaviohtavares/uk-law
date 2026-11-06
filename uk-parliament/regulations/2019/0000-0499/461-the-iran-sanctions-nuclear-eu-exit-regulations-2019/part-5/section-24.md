@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Transfer of restricted technology to a place in Iran or a person connected with Iran[^key-0f98d7fb55d8d576f12780300b388737][^key-4e957583adcf1004bd4909e0f4139991]
+## 24. Transfer of restricted technology to a place in Iran or a person connected with Iran[^c-0f98d7fb55d8d576f12780300b388737][^c-4e957583adcf1004bd4909e0f4139991]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f98d7fb55d8d576f12780300b388737]: Commencement: Reg. 24 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-0f98d7fb55d8d576f12780300b388737]: Commencement: Reg. 24 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-4e957583adcf1004bd4909e0f4139991]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2019/461/regulation/24) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4e957583adcf1004bd4909e0f4139991]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2019/461/regulation/24) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

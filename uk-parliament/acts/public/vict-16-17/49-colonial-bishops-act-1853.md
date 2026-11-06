@@ -31,14 +31,14 @@ Colonial Bishops Act 1853 (repealed)
 
 1853 c.49
 
-[^key-9309fcc3678f4e61827e58458ee67136]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9309fcc3678f4e61827e58458ee67136]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1.] Ordination of persons by colonial bishop other than the bishop of the diocese valid.[^key-9309fcc3678f4e61827e58458ee67136]
+## 1.] Ordination of persons by colonial bishop other than the bishop of the diocese valid.[^c-9309fcc3678f4e61827e58458ee67136]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9309fcc3678f4e61827e58458ee67136]: Textual amendment: Act repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 1](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/1); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-9309fcc3678f4e61827e58458ee67136]: Textual amendment: Act repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 1](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/1); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)

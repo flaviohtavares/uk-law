@@ -44,15 +44,15 @@ Coming into operation
 
 We, the Crown Court Rules Committee, in exercise of the powers conferred upon us by section 52(1) of the Judicature (Northern Ireland) Act 1978[^f00001] and paragraph 4(8) of Schedule 1 to the Children’s Evidence (Northern Ireland) Order 1995[^f00002] and of all other powers enabling us in that behalf, hereby with the concurrence of the Lord Chancellor make the following Rules:—
 
-## 1. Citation and commencement[^key-ad132d0ffb61678a7c422cc23e0ddaa1]
+## 1. Citation and commencement[^c-ad132d0ffb61678a7c422cc23e0ddaa1]
 
 These Rules may be cited as the Crown Court (Children’s Evidence) (Dismissal of Transferred Charges) Rules (Northern Ireland) 1996 and shall come into operation on 8th April 1996.
 
-## 2. Interpretation[^key-635464990f21c247a781f1aad8f19b57]
+## 2. Interpretation[^c-635464990f21c247a781f1aad8f19b57]
 
 (1) In these Rules, unless the context otherwise requires—
 
-- “the chief clerk” means the chief clerk of the Court at the place where a case is to be tried and includes such other civil servants in the Department of Justice[^key-05deaf668df10d735981468bc691fa15] as may be authorised to act on his behalf for the purpose in question;
+- “the chief clerk” means the chief clerk of the Court at the place where a case is to be tried and includes such other civil servants in the Department of Justice[^c-05deaf668df10d735981468bc691fa15] as may be authorised to act on his behalf for the purpose in question;
 - “the Director of Public Prosecutions” means the Director of Public Prosecutions for Northern Ireland;
 - “the Order” means the Children’s Evidence (Northern Ireland) Order 1995 and a reference to an Article or Schedule by number is a reference to the Article or Schedule so numbered in the Order.
 
@@ -60,7 +60,7 @@ These Rules may be cited as the Crown Court (Children’s Evidence) (Dismissal o
 
 (3) The forms set out in the Schedule to these Rules or forms substantially to the like effect may be used with such variations as the circumstances may require.
 
-## 3. Oral applications for dismissal[^key-f702d49b851da33393f1733d3df17c69]
+## 3. Oral applications for dismissal[^c-f702d49b851da33393f1733d3df17c69]
 
 (1) Where notice of transfer has been given under Article 4 and a person to whom it relates intends to apply orally under paragraph 4(1) of Schedule 1 for any charge in the case to be dismissed, he shall give notice in writing in Form 1 of his intention to the chief clerk.
 
@@ -86,7 +86,7 @@ These Rules may be cited as the Crown Court (Children’s Evidence) (Dismissal o
 
 (8) Where an application for dismissal under paragraph 4(1) of Schedule 1 is to be made orally, the chief clerk shall list the application for hearing before a judge of the Crown Court.
 
-## 4. Written applications for dismissal[^key-cb16f4047f939edb3f5c0bd8580a4243]
+## 4. Written applications for dismissal[^c-cb16f4047f939edb3f5c0bd8580a4243]
 
 (1) A written application for dismissal under paragraph 4(1) of Schedule 1 shall be made in Form 1.
 
@@ -96,7 +96,7 @@ These Rules may be cited as the Crown Court (Children’s Evidence) (Dismissal o
 
 (4) A written application for dismissal shall be made not later than 14 days after the day on which the notice of transfer was given unless the time for making the application is extended, either before or after it expires, by the Crown Court; and paragraphs (4) and (5) of rule 3 above shall apply for the purposes of this paragraph as if the references therein to giving notice of intention to make an oral application were references to making a written application under this rule.
 
-## 5. Reply by prosecution[^key-5f6ba01c47c58d0bd952d0b5ec1807b9]
+## 5. Reply by prosecution[^c-5f6ba01c47c58d0bd952d0b5ec1807b9]
 
 (1) Not later than 7 days from the date of service of notice of intention to apply orally for the dismissal of any charge contained in a notice of transfer, the Director of Public Prosecutions may apply to the Crown Court for leave under paragraph 4(4) of Schedule 1 to adduce oral evidence at the hearing of the application.
 
@@ -117,7 +117,7 @@ may be extended, either before or after it expires, by the Crown Court on an app
 
 (7) An application for an extension of time under paragraph (6) above shall be made in writing in Form 2 and shall be served on the chief clerk; and a copy thereof shall be served at the same time on the applicant for dismissal and on any other person to whom the notice of transfer relates.
 
-## 6. Determination of applications for dismissal — procedural matters[^key-36804da53ab36a3bdb7c812d5d1ad01e]
+## 6. Determination of applications for dismissal — procedural matters[^c-36804da53ab36a3bdb7c812d5d1ad01e]
 
 (1) A judge may grant leave for a witness to give oral evidence on an application for dismissal notwithstanding that notice of intention to call the witness has not been given in accordance with the foregoing provisions of these Rules.
 
@@ -153,7 +153,7 @@ Mackay of Clashfern, C.
 
 Dated 5th March 1996.
 
-## SCHEDULE[^key-c60b9f8e881afac23dbddc6ef23dc3a6]
+## SCHEDULE[^c-c60b9f8e881afac23dbddc6ef23dc3a6]
 
 Rule 2
 
@@ -215,18 +215,18 @@ Rule 6 provides for the notification of determination on applications where ther
 
 [^f00002]: Footnote: S.I. [1995/757 (N.I. 3)](https://www.legislation.gov.uk/nisi/1995/757)
 
-[^key-ad132d0ffb61678a7c422cc23e0ddaa1]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
+[^c-ad132d0ffb61678a7c422cc23e0ddaa1]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
 
-[^key-635464990f21c247a781f1aad8f19b57]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/1996/70/article/2) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
+[^c-635464990f21c247a781f1aad8f19b57]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/1996/70/article/2) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
 
-[^key-05deaf668df10d735981468bc691fa15]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/1996/70/article/2/1) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 24](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/24) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
+[^c-05deaf668df10d735981468bc691fa15]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/1996/70/article/2/1) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 24](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/24) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
 
-[^key-f702d49b851da33393f1733d3df17c69]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/1996/70/article/3) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
+[^c-f702d49b851da33393f1733d3df17c69]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/1996/70/article/3) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
 
-[^key-cb16f4047f939edb3f5c0bd8580a4243]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/1996/70/article/4) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
+[^c-cb16f4047f939edb3f5c0bd8580a4243]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/1996/70/article/4) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
 
-[^key-5f6ba01c47c58d0bd952d0b5ec1807b9]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/1996/70/article/5) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
+[^c-5f6ba01c47c58d0bd952d0b5ec1807b9]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/1996/70/article/5) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
 
-[^key-36804da53ab36a3bdb7c812d5d1ad01e]: Commencement: [Rule 6](https://www.legislation.gov.uk/nisr/1996/70/article/6) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
+[^c-36804da53ab36a3bdb7c812d5d1ad01e]: Commencement: [Rule 6](https://www.legislation.gov.uk/nisr/1996/70/article/6) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
 
-[^key-c60b9f8e881afac23dbddc6ef23dc3a6]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1996/70/schedule) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
+[^c-c60b9f8e881afac23dbddc6ef23dc3a6]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1996/70/schedule) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)

@@ -48,11 +48,11 @@ The Tribunal Procedure Committee has made the following Rules in exercise of the
 
 The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of that Schedule to that Act.
 
-## 1. Citation and commencement[^key-955a3eb0eeb0159bc3bdf25401896d72]
+## 1. Citation and commencement[^c-955a3eb0eeb0159bc3bdf25401896d72]
 
 These Rules may be cited as the Tribunal Procedure (Amendment No. 3) Rules 2010 and come into force on 29th November 2010.
 
-## 2. Amendments to the Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009[^key-d5088e62c4a786b2304a9ce14599ddfa]
+## 2. Amendments to the Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009[^c-d5088e62c4a786b2304a9ce14599ddfa]
 
 (1) The Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009[^f00002] are amended as follows.
 
@@ -81,7 +81,7 @@ These Rules may be cited as the Tribunal Procedure (Amendment No. 3) Rules 2010 
 
 .
 
-## 3. Amendments to the Tribunal Procedure (First-tier Tribunal) (Health, Education and Social Care Chamber) Rules 2008[^key-ce0c4fb091dc7ad4b5542b3cb6c12e52]
+## 3. Amendments to the Tribunal Procedure (First-tier Tribunal) (Health, Education and Social Care Chamber) Rules 2008[^c-ce0c4fb091dc7ad4b5542b3cb6c12e52]
 
 (1) The Tribunal Procedure (First-tier Tribunal) (Health, Education and Social Care Chamber) Rules 2008[^f00005] are amended as follows.
 
@@ -128,11 +128,11 @@ These Rules may be cited as the Tribunal Procedure (Amendment No. 3) Rules 2010 
   >
   > [^f01000]
 
-## 4. Amendment to the Asylum and Immigration Tribunal (Procedure) Rules 2005[^key-993c791f88c64423c19b3dd17c72c276]
+## 4. Amendment to the Asylum and Immigration Tribunal (Procedure) Rules 2005[^c-993c791f88c64423c19b3dd17c72c276]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to the Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008[^key-c4df70e1d5f2d99bed91c29b9c617b41]
+## 5. Amendment to the Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008[^c-c4df70e1d5f2d99bed91c29b9c617b41]
 
 (1) The Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008[^f00011] are amended as follows.
 
@@ -161,7 +161,7 @@ These Rules may be cited as the Tribunal Procedure (Amendment No. 3) Rules 2010 
 
 .
 
-## 6. Amendments to the Tribunal Procedure (First-tier Tribunal) (Tax Chamber) Rules 2009[^key-cad163fd98ab40524aadfeb830dcbdf0]
+## 6. Amendments to the Tribunal Procedure (First-tier Tribunal) (Tax Chamber) Rules 2009[^c-cad163fd98ab40524aadfeb830dcbdf0]
 
 (1) The Tribunal Procedure (First-tier Tribunal) (Tax Chamber) Rules 2009[^f00012] are amended as follows.
 
@@ -252,7 +252,7 @@ These Rules may be cited as the Tribunal Procedure (Amendment No. 3) Rules 2010 
 
   .
 
-## 7. Amendment to the Tribunal Procedure (War Pensions and Armed Forces Compensation Chamber) Rules 2008[^key-f47f4a12d02a5e0b01a843df9d40c68e]
+## 7. Amendment to the Tribunal Procedure (War Pensions and Armed Forces Compensation Chamber) Rules 2008[^c-f47f4a12d02a5e0b01a843df9d40c68e]
 
 (1) The Tribunal Procedure (War Pensions and Armed Forces Compensation Chamber) Rules 2008[^f00016] are amended as follows.
 
@@ -282,7 +282,7 @@ These Rules may be cited as the Tribunal Procedure (Amendment No. 3) Rules 2010 
 
 .
 
-## 8. Amendment to the Tribunal Procedure (Upper Tribunal) Rules 2008[^key-a46f61042dc6945c7b359de6690ea9bf]
+## 8. Amendment to the Tribunal Procedure (Upper Tribunal) Rules 2008[^c-a46f61042dc6945c7b359de6690ea9bf]
 
 (1) The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00017] are amended as follows.
 
@@ -344,9 +344,9 @@ Rule 8 inserts a new rule 48 into the Tribunal Procedure (Upper Tribunal) Rules 
 
 [^f00001]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15)
 
-[^key-955a3eb0eeb0159bc3bdf25401896d72]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1) in force at 29.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1)
+[^c-955a3eb0eeb0159bc3bdf25401896d72]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1) in force at 29.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1)
 
-[^key-d5088e62c4a786b2304a9ce14599ddfa]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2010/2653/rule/2) in force at 29.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1)
+[^c-d5088e62c4a786b2304a9ce14599ddfa]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2010/2653/rule/2) in force at 29.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1)
 
 [^f00002]: Footnote: [S.I. 2009/1976](https://www.legislation.gov.uk/uksi/2009/1976), as amended by [S.I. 2010/43](https://www.legislation.gov.uk/uksi/2010/43).
 
@@ -354,7 +354,7 @@ Rule 8 inserts a new rule 48 into the Tribunal Procedure (Upper Tribunal) Rules 
 
 [^f00004]: Footnote: [2005 c. 19](https://www.legislation.gov.uk/ukpga/2005/19)
 
-[^key-ce0c4fb091dc7ad4b5542b3cb6c12e52]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2010/2653/rule/3) in force at 29.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1)
+[^c-ce0c4fb091dc7ad4b5542b3cb6c12e52]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2010/2653/rule/3) in force at 29.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1)
 
 [^f00005]: Footnote: [S.I. 2008/2699](https://www.legislation.gov.uk/uksi/2008/2699), as amended by [S.I. 2009/1975](https://www.legislation.gov.uk/uksi/2009/1975) and [S.I. 2010/43](https://www.legislation.gov.uk/uksi/2010/43).
 
@@ -368,9 +368,9 @@ Rule 8 inserts a new rule 48 into the Tribunal Procedure (Upper Tribunal) Rules 
 
     [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15)
 
-[^key-993c791f88c64423c19b3dd17c72c276]: Textual amendment: [Rule 4](https://www.legislation.gov.uk/uksi/2010/2653/rule/4) revoked (20.10.2014) by [The Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014 (S.I. 2014/2604)](https://www.legislation.gov.uk/uksi/2014/2604), [rule 45](https://www.legislation.gov.uk/uksi/2014/2604/rule/45)
+[^c-993c791f88c64423c19b3dd17c72c276]: Textual amendment: [Rule 4](https://www.legislation.gov.uk/uksi/2010/2653/rule/4) revoked (20.10.2014) by [The Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014 (S.I. 2014/2604)](https://www.legislation.gov.uk/uksi/2014/2604), [rule 45](https://www.legislation.gov.uk/uksi/2014/2604/rule/45)
 
-[^key-c4df70e1d5f2d99bed91c29b9c617b41]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2010/2653/rule/5) in force at 29.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1)
+[^c-c4df70e1d5f2d99bed91c29b9c617b41]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2010/2653/rule/5) in force at 29.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1)
 
 [^f00011]: Footnote: [S.I. 2008/2685](https://www.legislation.gov.uk/uksi/2008/2685), as amended by [S.I. 2009/1975](https://www.legislation.gov.uk/uksi/2009/1975). There are other amendments but none is relevant.
 
@@ -386,7 +386,7 @@ Rule 8 inserts a new rule 48 into the Tribunal Procedure (Upper Tribunal) Rules 
 
     [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002)
 
-[^key-cad163fd98ab40524aadfeb830dcbdf0]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2010/2653/rule/6) in force at 29.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1)
+[^c-cad163fd98ab40524aadfeb830dcbdf0]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2010/2653/rule/6) in force at 29.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1)
 
 [^f00012]: Footnote: [S.I. 2009/273](https://www.legislation.gov.uk/uksi/2009/273), as amended by [S.I. 2010/43](https://www.legislation.gov.uk/uksi/2010/43).
 
@@ -396,10 +396,10 @@ Rule 8 inserts a new rule 48 into the Tribunal Procedure (Upper Tribunal) Rules 
 
 [^f00015]: Footnote: [2009 c. 13](https://www.legislation.gov.uk/ukpga/2009/13). Section 6A was inserted by section 31(5) of the Constitutional Reform and Governance Act [2010 (c 25)](https://www.legislation.gov.uk/ukpga/2010/25).
 
-[^key-f47f4a12d02a5e0b01a843df9d40c68e]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2010/2653/rule/7) in force at 29.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1)
+[^c-f47f4a12d02a5e0b01a843df9d40c68e]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2010/2653/rule/7) in force at 29.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1)
 
 [^f00016]: Footnote: [S.I. 2008/2686](https://www.legislation.gov.uk/uksi/2008/2686). There are no relevant amendments.
 
-[^key-a46f61042dc6945c7b359de6690ea9bf]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2010/2653/rule/8) in force at 29.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1)
+[^c-a46f61042dc6945c7b359de6690ea9bf]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2010/2653/rule/8) in force at 29.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2653/rule/1)
 
 [^f00017]: Footnote: [S.I. 2008/2698](https://www.legislation.gov.uk/uksi/2008/2698). These Rules were also amended by [S.I. 2010/747](https://www.legislation.gov.uk/uksi/2010/747).

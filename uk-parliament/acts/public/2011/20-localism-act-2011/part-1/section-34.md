@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Offences[^key-036ce839f2af240172a336a17710c27c][^key-e21fc208ea5601363575be18ca8ab0a9]
+## 34. Offences[^c-036ce839f2af240172a336a17710c27c][^c-e21fc208ea5601363575be18ca8ab0a9]
 
 *Extent: E+W*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-036ce839f2af240172a336a17710c27c]: Commencement: S. 34 in force at 1.7.2012 by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6), [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2)
+[^c-036ce839f2af240172a336a17710c27c]: Commencement: S. 34 in force at 1.7.2012 by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6), [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2)
 
-[^key-e21fc208ea5601363575be18ca8ab0a9]: Modification: S. 34 applied by 1959 c. xlvi s. 11(3)(e) (as substituted (15.1.2014) by [Humber Bridge Act 2013 (c. vi)](https://www.legislation.gov.uk/ukla/2013/6), [s. 1(1)](https://www.legislation.gov.uk/ukla/2013/6/section/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukla/2013/6/schedule/1/paragraph/1))
+[^c-e21fc208ea5601363575be18ca8ab0a9]: Modification: S. 34 applied by 1959 c. xlvi s. 11(3)(e) (as substituted (15.1.2014) by [Humber Bridge Act 2013 (c. vi)](https://www.legislation.gov.uk/ukla/2013/6), [s. 1(1)](https://www.legislation.gov.uk/ukla/2013/6/section/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukla/2013/6/schedule/1/paragraph/1))

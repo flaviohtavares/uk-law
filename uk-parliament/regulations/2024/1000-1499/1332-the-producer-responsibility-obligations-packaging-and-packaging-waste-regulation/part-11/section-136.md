@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Implementation of relevant deposit schemes[^key-66d45660fc51d3e0ecb588cb29c9f8ad]
+## 136. Implementation of relevant deposit schemes[^c-66d45660fc51d3e0ecb588cb29c9f8ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66d45660fc51d3e0ecb588cb29c9f8ad]: Commencement: Reg. 136 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-66d45660fc51d3e0ecb588cb29c9f8ad]: Commencement: Reg. 136 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

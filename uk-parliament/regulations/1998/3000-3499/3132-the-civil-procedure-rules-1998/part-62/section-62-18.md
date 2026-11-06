@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62.18. Enforcement of awards[^key-61ad487b8f6703fe6a308989f3dd26b8]
+## 62.18. Enforcement of awards[^c-61ad487b8f6703fe6a308989f3dd26b8]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ to enforce an award in the same manner as a judgment or order may be made withou
 (8) An order giving permission may be served out of the jurisdiction—
 
 - (a) without permission; and
-- (b) in accordance with rules 6.40 to 6.46[^key-30ccabaa9ef10aabdb6c6f4d18c11e3b] as if the order were an arbitration claim form.
+- (b) in accordance with rules 6.40 to 6.46[^c-30ccabaa9ef10aabdb6c6f4d18c11e3b] as if the order were an arbitration claim form.
 
 (9) Within 14 days after service of the order or, if the order is to be served out of the jurisdiction, within such other period as the court may set—
 
@@ -79,6 +79,6 @@ to enforce an award in the same manner as a judgment or order may be made withou
 
 ## Annotations
 
-[^key-61ad487b8f6703fe6a308989f3dd26b8]: Textual amendment: Pt. 62 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 6](https://www.legislation.gov.uk/uksi/2001/4015/schedule/6)
+[^c-61ad487b8f6703fe6a308989f3dd26b8]: Textual amendment: Pt. 62 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 6](https://www.legislation.gov.uk/uksi/2001/4015/schedule/6)
 
-[^key-30ccabaa9ef10aabdb6c6f4d18c11e3b]: Textual amendment: Words in [rule 62.18(8)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.18/8/b) substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [34(c)](https://www.legislation.gov.uk/uksi/2008/2178/rule/34/c)
+[^c-30ccabaa9ef10aabdb6c6f4d18c11e3b]: Textual amendment: Words in [rule 62.18(8)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.18/8/b) substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [34(c)](https://www.legislation.gov.uk/uksi/2008/2178/rule/34/c)

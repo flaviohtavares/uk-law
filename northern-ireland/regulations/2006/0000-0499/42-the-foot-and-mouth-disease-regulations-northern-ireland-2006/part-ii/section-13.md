@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Tracing of possible disease spread[^key-73cfcec87adf2552f07fa4d0567215a8]
+## 13. Tracing of possible disease spread[^c-73cfcec87adf2552f07fa4d0567215a8]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ and in sub-paragraphs (a) and (b) “premises” includes premises outside North
 
 ## Annotations
 
-[^key-73cfcec87adf2552f07fa4d0567215a8]: Commencement: Reg. 13 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-73cfcec87adf2552f07fa4d0567215a8]: Commencement: Reg. 13 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

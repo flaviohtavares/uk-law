@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 212. Compensation for effects of orders relating to minerals[^key-71ba07e8fa774c9657b2fc7d67f8f223]
+## 212. Compensation for effects of orders relating to minerals[^c-71ba07e8fa774c9657b2fc7d67f8f223]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In Schedule 16—
 
 ## Annotations
 
-[^key-71ba07e8fa774c9657b2fc7d67f8f223]: Commencement: S. 212 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-71ba07e8fa774c9657b2fc7d67f8f223]: Commencement: S. 212 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Tobacco Retailer (Fixed Penalty) (General) (Amendment) Regulations (Northern Ireland) 2021 (revoked)[^key-081785c5990618b87970ea1cf8aeb7bf]
+The Tobacco Retailer (Fixed Penalty) (General) (Amendment) Regulations (Northern Ireland) 2021 (revoked)[^c-081785c5990618b87970ea1cf8aeb7bf]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 1st February 2022
 
-[^key-081785c5990618b87970ea1cf8aeb7bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-081785c5990618b87970ea1cf8aeb7bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-081785c5990618b87970ea1cf8aeb7bf]
+## 1. Citation and commencement[^c-081785c5990618b87970ea1cf8aeb7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Tobacco Retailer (Fixed Penalty) (General) Regulations (Northern Ireland) 2016[^key-081785c5990618b87970ea1cf8aeb7bf]
+## 2. Amendment of the Tobacco Retailer (Fixed Penalty) (General) Regulations (Northern Ireland) 2016[^c-081785c5990618b87970ea1cf8aeb7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-081785c5990618b87970ea1cf8aeb7bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-081785c5990618b87970ea1cf8aeb7bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-081785c5990618b87970ea1cf8aeb7bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-081785c5990618b87970ea1cf8aeb7bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-081785c5990618b87970ea1cf8aeb7bf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2021/326) revoked (29.10.2026) by [The Tobacco Retailer (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/156)](https://www.legislation.gov.uk/nisr/2026/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/156/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2026/156/regulation/4)
+[^c-081785c5990618b87970ea1cf8aeb7bf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2021/326) revoked (29.10.2026) by [The Tobacco Retailer (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/156)](https://www.legislation.gov.uk/nisr/2026/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/156/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2026/156/regulation/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Persons under 18[^key-fe23600e9cabb79b5716543de1d90b79]
+## 71. Persons under 18[^c-fe23600e9cabb79b5716543de1d90b79]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe23600e9cabb79b5716543de1d90b79]: Commencement: [Art. 71](https://www.legislation.gov.uk/nisi/2015/2006/article/71) in operation at 31.10.2016 by [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(b)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/b)
+[^c-fe23600e9cabb79b5716543de1d90b79]: Commencement: [Art. 71](https://www.legislation.gov.uk/nisi/2015/2006/article/71) in operation at 31.10.2016 by [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(b)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/b)

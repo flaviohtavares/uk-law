@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Transfer of youth rehabilitation orders to Northern Ireland[^key-a3a5c326fec56f5a97bde1c3a0b69e87]
+## SCHEDULE 8 — Transfer of youth rehabilitation orders to Northern Ireland[^c-a3a5c326fec56f5a97bde1c3a0b69e87]
 
 *Extent: E+W+N.I.*
 
@@ -26,7 +26,7 @@ Section 196
 
 #### Making of youth rehabilitation order where offender will reside in Northern Ireland
 
-**1.**[^key-7e0d917e83fe66e7d55d7d61f6f69d01] (1) This paragraph applies where—
+**1.**[^c-7e0d917e83fe66e7d55d7d61f6f69d01] (1) This paragraph applies where—
 
 - (a) a youth rehabilitation order is available to a court dealing with an offender, and
 - (b) the court is satisfied that the offender—
@@ -42,7 +42,7 @@ Section 196
 
 #### Amendment of youth rehabilitation order where offender will reside in Northern Ireland
 
-**2.**[^key-8f01c662a3f1c963b5ee6ae4ff97c4b4] (1) This paragraph applies where—
+**2.**[^c-8f01c662a3f1c963b5ee6ae4ff97c4b4] (1) This paragraph applies where—
 
 - (a) a youth rehabilitation order is in force,
 - (b) the appropriate court (within the meaning given in paragraph 14 of Schedule 7) is satisfied that the offender—
@@ -63,14 +63,14 @@ Section 196
 
 #### Requirements: availability and restrictions
 
-**3.**[^key-8ebe21b8424cbd0a59697abc66336ead] This Part of this Schedule applies where a court makes or amends a youth rehabilitation order in accordance with Part 1 of this Schedule.
+**3.**[^c-8ebe21b8424cbd0a59697abc66336ead] This Part of this Schedule applies where a court makes or amends a youth rehabilitation order in accordance with Part 1 of this Schedule.
 
-**4.**[^key-9fc19b4f1bf476a681be8c7b238279d5] The order must not impose either of the following requirements—
+**4.**[^c-9fc19b4f1bf476a681be8c7b238279d5] The order must not impose either of the following requirements—
 
 - (a) a local authority residence requirement;
 - (b) a fostering requirement.
 
-**5.**[^key-e58845bcbdaad9e26821984b9242c42d] (1) The order must not impose a locally based requirement unless it appears to the court that—
+**5.**[^c-e58845bcbdaad9e26821984b9242c42d] (1) The order must not impose a locally based requirement unless it appears to the court that—
 
 - (a) arrangements exist for persons to comply with such a requirement in Northern Ireland, and
 - (b) provision can be made for the offender to comply with the requirement under those arrangements.
@@ -85,14 +85,14 @@ Section 196
 - (f) a drug treatment requirement;
 - (g) a drug testing requirement;
 - (h) an education requirement;
-- (i) an electronic monitoring requirement *(affected by repeal, see note)*[^key-c3e618bfdfbd09265102002dd1cd8517] an electronic compliance monitoring requirement.
-- (j)[^key-fda486de21f979dbeca911ed4ad854fc] an electronic whereabouts monitoring requirement.
+- (i) an electronic monitoring requirement *(affected by repeal, see note)*[^c-c3e618bfdfbd09265102002dd1cd8517] an electronic compliance monitoring requirement.
+- (j)[^c-fda486de21f979dbeca911ed4ad854fc] an electronic whereabouts monitoring requirement.
 
-**6.**[^key-dccd42e8c032f5d81f496584767a4cee] The number of hours, days or months in respect of which any requirement of the order is imposed must not be greater than the number of hours, days or months in respect of which a court in Northern Ireland could impose a similar requirement in a corresponding order.
+**6.**[^c-dccd42e8c032f5d81f496584767a4cee] The number of hours, days or months in respect of which any requirement of the order is imposed must not be greater than the number of hours, days or months in respect of which a court in Northern Ireland could impose a similar requirement in a corresponding order.
 
 #### Further provisions where offender resides or will reside in Northern Ireland
 
-**7.**[^key-0509598415d37b8e3905638bee6fa361] In a case where a court makes or amends a youth rehabilitation order in accordance with Part 1 of this Schedule, Chapter 1 of this Part of this Code (youth rehabilitation orders) has effect as if—
+**7.**[^c-0509598415d37b8e3905638bee6fa361] In a case where a court makes or amends a youth rehabilitation order in accordance with Part 1 of this Schedule, Chapter 1 of this Part of this Code (youth rehabilitation orders) has effect as if—
 
 - (a) any reference to the responsible officer were a reference to the person who is to be responsible for the offender's supervision under the order;
 - (b) section 188 (offender's home local justice area to be specified in order) were omitted;
@@ -102,8 +102,8 @@ Section 196
   - (iii) paragraph 23(4) (residence requirement: restriction on requiring residence at hostel or other institution);
   - (iv) paragraphs 32(1)(b) and (3) and 35(2)(a) and (3) (availability of requirements to be notified by Secretary of State: drug treatment and testing and electronic monitoring);
   - (v) paragraph 42(2) (persons responsible for electronic monitoring);
-  - (vi) paragraph 44(2) and (3) (availability of requirements for electronic monitoring *(affected by repeal, see note)*[^key-a026ed7cd0947713cc79cf102cd6f088] electronic compliance monitoring);
-  - (vii)[^key-4cfbd5f6a34a8fcfc10953b7978ae93f] paragraph 48(2) (availability of requirements for electronic whereabouts monitoring;
+  - (vi) paragraph 44(2) and (3) (availability of requirements for electronic monitoring *(affected by repeal, see note)*[^c-a026ed7cd0947713cc79cf102cd6f088] electronic compliance monitoring);
+  - (vii)[^c-4cfbd5f6a34a8fcfc10953b7978ae93f] paragraph 48(2) (availability of requirements for electronic whereabouts monitoring;
 - (d) in Part 5 of that Schedule (attendance centre requirement), any reference to an attendance centre were to an attendance centre as defined by Article 50(1) of the Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. 1998/1504 (N. I. 9));
 - (e) in paragraph 28 of that Schedule (mental health treatment requirement), in sub-paragraph (2), for the definition of “in-patient treatment” there were substituted—
 
@@ -116,11 +116,11 @@ Section 196
 
 #### Application
 
-**8.**[^key-26c5d1c5c92b7e67e4501933064cc372] This Part of this Schedule applies in a case where a court makes or amends a youth rehabilitation order in accordance with Part 1 of this Schedule.
+**8.**[^c-26c5d1c5c92b7e67e4501933064cc372] This Part of this Schedule applies in a case where a court makes or amends a youth rehabilitation order in accordance with Part 1 of this Schedule.
 
 #### Explanation to be given by court before order is made or amended
 
-**9.**[^key-e99efa92275f7a7a27c010b56914465d] Before making or amending the youth rehabilitation order, the court must explain to the offender in ordinary language—
+**9.**[^c-e99efa92275f7a7a27c010b56914465d] Before making or amending the youth rehabilitation order, the court must explain to the offender in ordinary language—
 
 - (a) the effect of paragraph 15(1) (order to be treated as corresponding order),
 - (b) the requirements of the legislation in Northern Ireland relating to corresponding orders,
@@ -129,13 +129,13 @@ Section 196
 
 #### Matters to be specified in the order
 
-**10.**[^key-e4c68de58e433f7c33b0618eccc49590] (1) The youth rehabilitation order must specify as the corresponding order for the purposes of this Schedule an order that may be made by a court in Northern Ireland.
+**10.**[^c-e4c68de58e433f7c33b0618eccc49590] (1) The youth rehabilitation order must specify as the corresponding order for the purposes of this Schedule an order that may be made by a court in Northern Ireland.
 
 (2) If the youth rehabilitation order is made by the Crown Court and includes a direction under section 189, the order must specify the youth court or other magistrates' court in England and Wales which is to be the relevant court in England and Wales for the purposes of this Schedule.
 
 #### Provision of copies
 
-**11.**[^key-7511019e5315af8139a389f263d7d88f] (1) The court which makes or amends the youth rehabilitation order must forthwith—
+**11.**[^c-7511019e5315af8139a389f263d7d88f] (1) The court which makes or amends the youth rehabilitation order must forthwith—
 
 - (a) provide each of the persons mentioned in sub-paragraph (2) with a copy of the order as made or amended, and
 - (b) provide the home court with—
@@ -184,7 +184,7 @@ the court must also forthwith provide the person specified in the corresponding 
 </tbody>
 </table>
 
-[^key-ea98fa3d23c8cb4f8ebc09114665e2cd][^key-ededd28555de2333a2d809df96fbaab7]
+[^c-ea98fa3d23c8cb4f8ebc09114665e2cd][^c-ededd28555de2333a2d809df96fbaab7]
 
 (5) This paragraph has effect in place of section 190.
 
@@ -192,11 +192,11 @@ the court must also forthwith provide the person specified in the corresponding 
 
 #### Application
 
-**12.**[^key-2909b31e4e86c5ee0ba96f76a2b229ca] This Part of this Schedule applies where a youth rehabilitation order is made or amended in accordance with Part 1 of this Schedule.
+**12.**[^c-2909b31e4e86c5ee0ba96f76a2b229ca] This Part of this Schedule applies where a youth rehabilitation order is made or amended in accordance with Part 1 of this Schedule.
 
 #### Duty of offender to keep in touch with relevant officer
 
-**13.**[^key-27b75e84d8cc3a7f111c3d4db5858a19] (1) The offender—
+**13.**[^c-27b75e84d8cc3a7f111c3d4db5858a19] (1) The offender—
 
 - (a) must keep in touch with the relevant officer in accordance with any instructions the relevant officer may give the offender from time to time, and
 - (b) must notify the relevant officer of any change of address.
@@ -207,17 +207,17 @@ the court must also forthwith provide the person specified in the corresponding 
 
 #### Direction by Crown Court in Northern Ireland that proceedings in Northern Ireland be before a court of summary jurisdiction
 
-**14.**[^key-c81e197faa8ff0209790903dd7a4d1bd] Where the youth rehabilitation order was made or amended by the Crown Court, the Crown Court in Northern Ireland may direct that any proceedings in Northern Ireland in relation to the order be before a court of summary jurisdiction.
+**14.**[^c-c81e197faa8ff0209790903dd7a4d1bd] Where the youth rehabilitation order was made or amended by the Crown Court, the Crown Court in Northern Ireland may direct that any proceedings in Northern Ireland in relation to the order be before a court of summary jurisdiction.
 
 #### Effect of the youth rehabilitation order in Northern Ireland
 
-**15.**[^key-07dd70dbe14b459cc59421a2f9aaef74] (1) The youth rehabilitation order is to be treated in Northern Ireland as if it were a corresponding order and the legislation which has effect in Northern Ireland in relation to such orders applies accordingly.
+**15.**[^c-07dd70dbe14b459cc59421a2f9aaef74] (1) The youth rehabilitation order is to be treated in Northern Ireland as if it were a corresponding order and the legislation which has effect in Northern Ireland in relation to such orders applies accordingly.
 
 (2) Sub-paragraph (1) is subject to the following provisions of this Part of this Schedule.
 
 #### Powers of the home court in respect of the youth rehabilitation order
 
-**16.**[^key-aece7ad60c2ebc6165ec67eec8c93edb] (1) The home court may exercise any relevant local power in relation to the youth rehabilitation order, subject to the following restrictions.
+**16.**[^c-aece7ad60c2ebc6165ec67eec8c93edb] (1) The home court may exercise any relevant local power in relation to the youth rehabilitation order, subject to the following restrictions.
 
 (2) A “**relevant local power**” means a power which the home court could exercise in relation to a corresponding order by virtue of the legislation that applies in Northern Ireland in relation to such orders.
 
@@ -237,7 +237,7 @@ the court must also forthwith provide the person specified in the corresponding 
 - (a) has just been convicted by or before the court in England and Wales of the offence in respect of which the youth rehabilitation order was made, but
 - (b) is the same age as when in fact convicted of the offence.
 
-**17.**[^key-a2cbf1eeb0fdbe82371a42f9805ed58e] (1) The home court may require the offender to appear before the relevant court in England and Wales if sub-paragraph (2) or (3) applies.
+**17.**[^c-a2cbf1eeb0fdbe82371a42f9805ed58e] (1) The home court may require the offender to appear before the relevant court in England and Wales if sub-paragraph (2) or (3) applies.
 
 (2) This sub-paragraph applies where it appears to the home court upon a complaint being made to a lay magistrate in Northern Ireland that the offender has breached one or more requirements of the order.
 
@@ -248,7 +248,7 @@ the court must also forthwith provide the person specified in the corresponding 
 
 #### Breach of requirement: certificate of home court
 
-**18.**[^key-4cc1d0310e0a20fbc52fffc54e52a7ed] (1) Where the home court requires the offender to appear before the relevant court in England and Wales by virtue of paragraph 17(2) (breach of a requirement of the order) the home court must send the court in England and Wales—
+**18.**[^c-4cc1d0310e0a20fbc52fffc54e52a7ed] (1) Where the home court requires the offender to appear before the relevant court in England and Wales by virtue of paragraph 17(2) (breach of a requirement of the order) the home court must send the court in England and Wales—
 
 - (a) a certificate certifying that the offender has breached a requirement of the order specified in the certificate, and
 - (b) such other particulars of the case as may be desirable.
@@ -257,7 +257,7 @@ the court must also forthwith provide the person specified in the corresponding 
 
 #### Powers of court in England or Wales where offender required to appear under paragraph 17
 
-**19.**[^key-e50c4ec2d4f9a4c0cae29dd4b76e38e1] (1) This paragraph applies where under paragraph 17 the home court requires the offender to appear before the relevant court in England and Wales.
+**19.**[^c-e50c4ec2d4f9a4c0cae29dd4b76e38e1] (1) This paragraph applies where under paragraph 17 the home court requires the offender to appear before the relevant court in England and Wales.
 
 (2) The relevant court may issue a warrant for the offender's arrest.
 
@@ -267,7 +267,7 @@ This is subject to paragraph 20.
 
 (4) Any enactment relating to the exercise of such powers has effect accordingly, with any reference in it to the responsible officer being read as a reference to the relevant officer.
 
-**20.**[^key-9d0144e83bfaf7237c061ac07d48a6ac] (1) This paragraph applies where—
+**20.**[^c-9d0144e83bfaf7237c061ac07d48a6ac] (1) This paragraph applies where—
 
 - (a) the relevant court in England and Wales is exercising a power to amend a youth rehabilitation order by virtue of paragraph 19(3), and
 - (b) the offender resides in Northern Ireland.
@@ -303,7 +303,7 @@ so that it is imposed in respect of more hours, days or months than the maximum 
 
 ### PART 5 — Interpretation
 
-**21.**[^key-c8aa80f41aa306d0a84821cccac49893] (1) For the purposes of this Schedule, in relation to a youth rehabilitation order—
+**21.**[^c-c8aa80f41aa306d0a84821cccac49893] (1) For the purposes of this Schedule, in relation to a youth rehabilitation order—
 
 - “**breach**”, in relation to a requirement of the order, means a failure to comply with it, and related expressions are to be read accordingly;
 - “**corresponding order**” means the order specified under paragraph 10(1);
@@ -322,58 +322,58 @@ so that it is imposed in respect of more hours, days or months than the maximum 
 
 ## Annotations
 
-[^key-a3a5c326fec56f5a97bde1c3a0b69e87]: Modification: Sch. 8 applied (with modifications) by 2008 c. 4, s. 39(6)(d), Sch. 7 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 paras. 266(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/266/5), [270](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/270) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-a3a5c326fec56f5a97bde1c3a0b69e87]: Modification: Sch. 8 applied (with modifications) by 2008 c. 4, s. 39(6)(d), Sch. 7 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 paras. 266(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/266/5), [270](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/270) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-7e0d917e83fe66e7d55d7d61f6f69d01]: Commencement: Sch. 8 para. 1 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7e0d917e83fe66e7d55d7d61f6f69d01]: Commencement: Sch. 8 para. 1 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-8f01c662a3f1c963b5ee6ae4ff97c4b4]: Commencement: Sch. 8 para. 2 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8f01c662a3f1c963b5ee6ae4ff97c4b4]: Commencement: Sch. 8 para. 2 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-8ebe21b8424cbd0a59697abc66336ead]: Commencement: Sch. 8 para. 3 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8ebe21b8424cbd0a59697abc66336ead]: Commencement: Sch. 8 para. 3 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-9fc19b4f1bf476a681be8c7b238279d5]: Commencement: Sch. 8 para. 4 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9fc19b4f1bf476a681be8c7b238279d5]: Commencement: Sch. 8 para. 4 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-e58845bcbdaad9e26821984b9242c42d]: Commencement: Sch. 8 para. 5 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e58845bcbdaad9e26821984b9242c42d]: Commencement: Sch. 8 para. 5 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c3e618bfdfbd09265102002dd1cd8517]: Textual amendment: Words in [Sch. 8 para. 5(2)(i)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/8/paragraph/5/2/i) substituted (28.4.2022 for specified purposes, 3.7.2023 in relation to specified areas until 3.1.2025) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2022/32/section/161), [208(4)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/r), [Sch. 17 para. 14(2)(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/17/paragraph/14/2/a); [S.I. 2023/705](https://www.legislation.gov.uk/uksi/2023/705), [regs. 2](https://www.legislation.gov.uk/uksi/2023/705/regulation/2), [3](https://www.legislation.gov.uk/uksi/2023/705/regulation/3), [4(1)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/705/schedule) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/2))
+[^c-c3e618bfdfbd09265102002dd1cd8517]: Textual amendment: Words in [Sch. 8 para. 5(2)(i)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/8/paragraph/5/2/i) substituted (28.4.2022 for specified purposes, 3.7.2023 in relation to specified areas until 3.1.2025) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2022/32/section/161), [208(4)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/r), [Sch. 17 para. 14(2)(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/17/paragraph/14/2/a); [S.I. 2023/705](https://www.legislation.gov.uk/uksi/2023/705), [regs. 2](https://www.legislation.gov.uk/uksi/2023/705/regulation/2), [3](https://www.legislation.gov.uk/uksi/2023/705/regulation/3), [4(1)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/705/schedule) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/2))
 
-[^key-fda486de21f979dbeca911ed4ad854fc]: Textual amendment: [Sch. 8 para. 5(2)(j)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/8/paragraph/5/2/j) inserted (28.4.2022 for specified purposes, 3.7.2023 in relation to specified areas until 3.1.2025) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2022/32/section/161), [208(4)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/r), [Sch. 17 para. 14(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/17/paragraph/14/2/b); [S.I. 2023/705](https://www.legislation.gov.uk/uksi/2023/705), [regs. 2](https://www.legislation.gov.uk/uksi/2023/705/regulation/2), [3](https://www.legislation.gov.uk/uksi/2023/705/regulation/3), [4(1)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/705/schedule) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/2))
+[^c-fda486de21f979dbeca911ed4ad854fc]: Textual amendment: [Sch. 8 para. 5(2)(j)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/8/paragraph/5/2/j) inserted (28.4.2022 for specified purposes, 3.7.2023 in relation to specified areas until 3.1.2025) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2022/32/section/161), [208(4)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/r), [Sch. 17 para. 14(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/17/paragraph/14/2/b); [S.I. 2023/705](https://www.legislation.gov.uk/uksi/2023/705), [regs. 2](https://www.legislation.gov.uk/uksi/2023/705/regulation/2), [3](https://www.legislation.gov.uk/uksi/2023/705/regulation/3), [4(1)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/705/schedule) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/2))
 
-[^key-dccd42e8c032f5d81f496584767a4cee]: Commencement: Sch. 8 para. 6 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-dccd42e8c032f5d81f496584767a4cee]: Commencement: Sch. 8 para. 6 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-0509598415d37b8e3905638bee6fa361]: Commencement: Sch. 8 para. 7 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0509598415d37b8e3905638bee6fa361]: Commencement: Sch. 8 para. 7 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a026ed7cd0947713cc79cf102cd6f088]: Textual amendment: Words in [Sch. 8 para. 7(c)(vi)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/8/paragraph/7/c/vi) substituted (28.4.2022 for specified purposes, 3.7.2023 in relation to specified areas until 3.1.2025) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2022/32/section/161), [208(4)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/r), [Sch. 17 para. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/17/paragraph/14/3/a); [S.I. 2023/705](https://www.legislation.gov.uk/uksi/2023/705), [regs. 2](https://www.legislation.gov.uk/uksi/2023/705/regulation/2), [3](https://www.legislation.gov.uk/uksi/2023/705/regulation/3), [4(1)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/705/schedule) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/2))
+[^c-a026ed7cd0947713cc79cf102cd6f088]: Textual amendment: Words in [Sch. 8 para. 7(c)(vi)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/8/paragraph/7/c/vi) substituted (28.4.2022 for specified purposes, 3.7.2023 in relation to specified areas until 3.1.2025) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2022/32/section/161), [208(4)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/r), [Sch. 17 para. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/17/paragraph/14/3/a); [S.I. 2023/705](https://www.legislation.gov.uk/uksi/2023/705), [regs. 2](https://www.legislation.gov.uk/uksi/2023/705/regulation/2), [3](https://www.legislation.gov.uk/uksi/2023/705/regulation/3), [4(1)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/705/schedule) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/2))
 
-[^key-4cfbd5f6a34a8fcfc10953b7978ae93f]: Textual amendment: [Sch. 8 para. 7(c)(vii)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/8/paragraph/7/c/vii) inserted (28.4.2022 for specified purposes, 3.7.2023 in relation to specified areas until 3.1.2025) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2022/32/section/161), [208(4)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/r), [Sch. 17 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/17/paragraph/14/3/b); [S.I. 2023/705](https://www.legislation.gov.uk/uksi/2023/705), [regs. 2](https://www.legislation.gov.uk/uksi/2023/705/regulation/2), [3](https://www.legislation.gov.uk/uksi/2023/705/regulation/3), [4(1)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/705/schedule) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/2))
+[^c-4cfbd5f6a34a8fcfc10953b7978ae93f]: Textual amendment: [Sch. 8 para. 7(c)(vii)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/8/paragraph/7/c/vii) inserted (28.4.2022 for specified purposes, 3.7.2023 in relation to specified areas until 3.1.2025) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2022/32/section/161), [208(4)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/r), [Sch. 17 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/17/paragraph/14/3/b); [S.I. 2023/705](https://www.legislation.gov.uk/uksi/2023/705), [regs. 2](https://www.legislation.gov.uk/uksi/2023/705/regulation/2), [3](https://www.legislation.gov.uk/uksi/2023/705/regulation/3), [4(1)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/705/schedule) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/2))
 
-[^key-26c5d1c5c92b7e67e4501933064cc372]: Commencement: Sch. 8 para. 8 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-26c5d1c5c92b7e67e4501933064cc372]: Commencement: Sch. 8 para. 8 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-e99efa92275f7a7a27c010b56914465d]: Commencement: Sch. 8 para. 9 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e99efa92275f7a7a27c010b56914465d]: Commencement: Sch. 8 para. 9 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-e4c68de58e433f7c33b0618eccc49590]: Commencement: Sch. 8 para. 10 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e4c68de58e433f7c33b0618eccc49590]: Commencement: Sch. 8 para. 10 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-7511019e5315af8139a389f263d7d88f]: Commencement: Sch. 8 para. 11 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7511019e5315af8139a389f263d7d88f]: Commencement: Sch. 8 para. 11 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ea98fa3d23c8cb4f8ebc09114665e2cd]: Textual amendment: Words in [Sch. 8 para. 11(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/8/paragraph/11/4) Table substituted (28.4.2022 for specified purposes, 3.7.2023 in relation to specified areas until 3.1.2025) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2022/32/section/161), [208(4)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/r), [Sch. 17 para. 14(4)(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/17/paragraph/14/4/a); [S.I. 2023/705](https://www.legislation.gov.uk/uksi/2023/705), [regs. 2](https://www.legislation.gov.uk/uksi/2023/705/regulation/2), [3](https://www.legislation.gov.uk/uksi/2023/705/regulation/3), [4(1)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/705/schedule) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/2))
+[^c-ea98fa3d23c8cb4f8ebc09114665e2cd]: Textual amendment: Words in [Sch. 8 para. 11(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/8/paragraph/11/4) Table substituted (28.4.2022 for specified purposes, 3.7.2023 in relation to specified areas until 3.1.2025) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2022/32/section/161), [208(4)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/r), [Sch. 17 para. 14(4)(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/17/paragraph/14/4/a); [S.I. 2023/705](https://www.legislation.gov.uk/uksi/2023/705), [regs. 2](https://www.legislation.gov.uk/uksi/2023/705/regulation/2), [3](https://www.legislation.gov.uk/uksi/2023/705/regulation/3), [4(1)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/705/schedule) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/2))
 
-[^key-ededd28555de2333a2d809df96fbaab7]: Textual amendment: Words in [Sch. 8 para. 11(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/8/paragraph/11/4) Table inserted (28.4.2022 for specified purposes, 3.7.2023 in relation to specified areas until 3.1.2025) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2022/32/section/161), [208(4)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/r), [Sch. 17 para. 14(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/17/paragraph/14/4/b); [S.I. 2023/705](https://www.legislation.gov.uk/uksi/2023/705), [regs. 2](https://www.legislation.gov.uk/uksi/2023/705/regulation/2), [3](https://www.legislation.gov.uk/uksi/2023/705/regulation/3), [4(1)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/705/schedule) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/2))
+[^c-ededd28555de2333a2d809df96fbaab7]: Textual amendment: Words in [Sch. 8 para. 11(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/8/paragraph/11/4) Table inserted (28.4.2022 for specified purposes, 3.7.2023 in relation to specified areas until 3.1.2025) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2022/32/section/161), [208(4)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/r), [Sch. 17 para. 14(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/17/paragraph/14/4/b); [S.I. 2023/705](https://www.legislation.gov.uk/uksi/2023/705), [regs. 2](https://www.legislation.gov.uk/uksi/2023/705/regulation/2), [3](https://www.legislation.gov.uk/uksi/2023/705/regulation/3), [4(1)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/705/schedule) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/2))
 
-[^key-2909b31e4e86c5ee0ba96f76a2b229ca]: Commencement: Sch. 8 para. 12 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2909b31e4e86c5ee0ba96f76a2b229ca]: Commencement: Sch. 8 para. 12 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-27b75e84d8cc3a7f111c3d4db5858a19]: Commencement: Sch. 8 para. 13 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-27b75e84d8cc3a7f111c3d4db5858a19]: Commencement: Sch. 8 para. 13 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c81e197faa8ff0209790903dd7a4d1bd]: Commencement: Sch. 8 para. 14 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c81e197faa8ff0209790903dd7a4d1bd]: Commencement: Sch. 8 para. 14 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-07dd70dbe14b459cc59421a2f9aaef74]: Commencement: Sch. 8 para. 15 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-07dd70dbe14b459cc59421a2f9aaef74]: Commencement: Sch. 8 para. 15 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-aece7ad60c2ebc6165ec67eec8c93edb]: Commencement: Sch. 8 para. 16 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-aece7ad60c2ebc6165ec67eec8c93edb]: Commencement: Sch. 8 para. 16 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a2cbf1eeb0fdbe82371a42f9805ed58e]: Commencement: Sch. 8 para. 17 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a2cbf1eeb0fdbe82371a42f9805ed58e]: Commencement: Sch. 8 para. 17 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4cc1d0310e0a20fbc52fffc54e52a7ed]: Commencement: Sch. 8 para. 18 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4cc1d0310e0a20fbc52fffc54e52a7ed]: Commencement: Sch. 8 para. 18 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-e50c4ec2d4f9a4c0cae29dd4b76e38e1]: Commencement: Sch. 8 para. 19 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e50c4ec2d4f9a4c0cae29dd4b76e38e1]: Commencement: Sch. 8 para. 19 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-9d0144e83bfaf7237c061ac07d48a6ac]: Commencement: Sch. 8 para. 20 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9d0144e83bfaf7237c061ac07d48a6ac]: Commencement: Sch. 8 para. 20 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c8aa80f41aa306d0a84821cccac49893]: Commencement: Sch. 8 para. 21 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c8aa80f41aa306d0a84821cccac49893]: Commencement: Sch. 8 para. 21 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

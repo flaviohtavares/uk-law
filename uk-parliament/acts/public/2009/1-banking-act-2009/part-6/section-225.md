@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. Organisation[^key-ad7e4395ebe8716e20c7d96e01a10a2a]
+## 225. Organisation[^c-ad7e4395ebe8716e20c7d96e01a10a2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Expenses incurred and sums received by the Bank of England in connection with it
 
 ## Annotations
 
-[^key-ad7e4395ebe8716e20c7d96e01a10a2a]: Commencement: S. 225 in force at 23.11.2009 by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-ad7e4395ebe8716e20c7d96e01a10a2a]: Commencement: S. 225 in force at 23.11.2009 by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)

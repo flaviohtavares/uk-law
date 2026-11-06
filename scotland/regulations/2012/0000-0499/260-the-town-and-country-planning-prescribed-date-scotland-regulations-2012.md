@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning
 
-The Town and Country Planning (Prescribed Date) (Scotland) Regulations 2012 (revoked)[^key-9ae3268993bb4a2ba052f8dafb66c717]
+The Town and Country Planning (Prescribed Date) (Scotland) Regulations 2012 (revoked)[^c-9ae3268993bb4a2ba052f8dafb66c717]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 10th November 2012
 
-[^key-9ae3268993bb4a2ba052f8dafb66c717]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ae3268993bb4a2ba052f8dafb66c717]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9ae3268993bb4a2ba052f8dafb66c717]
+## 1. Citation and commencement[^c-9ae3268993bb4a2ba052f8dafb66c717]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed date[^key-9ae3268993bb4a2ba052f8dafb66c717]
+## 2. Prescribed date[^c-9ae3268993bb4a2ba052f8dafb66c717]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-9ae3268993bb4a2ba052f8dafb66c717]
+## 3. Revocation[^c-9ae3268993bb4a2ba052f8dafb66c717]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9ae3268993bb4a2ba052f8dafb66c717]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ae3268993bb4a2ba052f8dafb66c717]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9ae3268993bb4a2ba052f8dafb66c717]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ae3268993bb4a2ba052f8dafb66c717]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9ae3268993bb4a2ba052f8dafb66c717]: Textual amendment: Regulations revoked (30.3.2014) by [The Town and Country Planning (Prescribed Date) (Scotland) Regulations 2013 (S.S.I. 2013/350)](https://www.legislation.gov.uk/ssi/2013/350), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/350/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2013/350/regulation/3)
+[^c-9ae3268993bb4a2ba052f8dafb66c717]: Textual amendment: Regulations revoked (30.3.2014) by [The Town and Country Planning (Prescribed Date) (Scotland) Regulations 2013 (S.S.I. 2013/350)](https://www.legislation.gov.uk/ssi/2013/350), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/350/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2013/350/regulation/3)

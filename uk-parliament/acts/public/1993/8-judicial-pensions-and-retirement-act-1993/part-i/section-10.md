@@ -87,13 +87,13 @@ but paragraphs (c) and (d) above have effect only in relation to a voluntary con
   - (b) such additional benefits so mentioned as may be prescribed; and
   - (c) such retained benefits as may be prescribed;
 - authorised provider”, in relation to the investment of any sums paid by way of voluntary contributions or the provision of any benefit, means—[^c13953591]
-  - (a) a person who has permission under Part 4A[^key-290487232263679f072721c633567060] of the Financial Services and Markets Act 2000 to invest such sums or, as the case may be, to provide that benefit;
-  - (b) [^key-904e962d22dbbbf3661eaca963d5cfec]...
-  - (c) [^key-904e962d22dbbbf3661eaca963d5cfec]...
+  - (a) a person who has permission under Part 4A[^c-290487232263679f072721c633567060] of the Financial Services and Markets Act 2000 to invest such sums or, as the case may be, to provide that benefit;
+  - (b) [^c-904e962d22dbbbf3661eaca963d5cfec]...
+  - (c) [^c-904e962d22dbbbf3661eaca963d5cfec]...
 - “**employment**” has the same meaning as it has in the Pension Schemes Act 1993[^c13953601] (and accordingly includes employment as a self-employed earner, within the meaning of section 2 of the Social Security Contributions and Benefits Act 1992);
 - “[^c13953621]**insurer**” means—
   - (a) a person who has permission under Part 4A of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance;
-  - (b) [^key-4ea7bc166b91aaa9e883c1b5d3e683df]...
+  - (b) [^c-4ea7bc166b91aaa9e883c1b5d3e683df]...
 - “**occupational pension scheme**” has the meaning given by section 1 of the Pension Schemes Act 1993[^c13953631] or, in relation to Northern Ireland, section 1 of the Pension Schemes (Northern Ireland) Act 1993[^c13953641];
 - “**personal pension scheme**” has the meaning given by section 1 of the Pension Schemes Act 1993[^c13953651] or, in relation to Northern Ireland, section 1 of the Pension Schemes (Northern Ireland) Act 1993[^c13953661];
 - “**prescribed**” means specified in, or determined in accordance with, regulations;
@@ -112,13 +112,13 @@ and, where a person’s voluntary contributions are made by deduction from salar
 - (b) any relevant order under that section; and
 - (c) Schedule 2 to that Act.
 
-(8B)[^key-6b0bc946a3d018df52a5e4e8a45cd695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8B)[^c-6b0bc946a3d018df52a5e4e8a45cd695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8C)[^key-6b0bc946a3d018df52a5e4e8a45cd695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8C)[^c-6b0bc946a3d018df52a5e4e8a45cd695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8D)[^key-6b0bc946a3d018df52a5e4e8a45cd695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8D)[^c-6b0bc946a3d018df52a5e4e8a45cd695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8E)[^key-6b0bc946a3d018df52a5e4e8a45cd695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8E)[^c-6b0bc946a3d018df52a5e4e8a45cd695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Without prejudice to section 29(6) below, regulations under this section may make different provision for different classes or descriptions of voluntary contributions scheme.
 
@@ -141,15 +141,15 @@ and, where a person’s voluntary contributions are made by deduction from salar
 
 [^c13953591]: Textual amendment: Definition of “authorised provider” in s. 10(8) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [112(3)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/112/3/a)
 
-[^key-290487232263679f072721c633567060]: Textual amendment: Words in s. 10(8) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 75(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/75/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-290487232263679f072721c633567060]: Textual amendment: Words in s. 10(8) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 75(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/75/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-904e962d22dbbbf3661eaca963d5cfec]: Textual amendment: Words in s. 10(8) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 33(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/33/2/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-904e962d22dbbbf3661eaca963d5cfec]: Textual amendment: Words in s. 10(8) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 33(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/33/2/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c13953601]: Textual amendment: S. 10(8): words in the definition of “employment”substituted (7.2.1994) by [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48), [s. 190](https://www.legislation.gov.uk/ukpga/1993/48/section/190), [Sch. 8 para. 46(1)(a)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/46/1/a) (with [s. 6(8)](https://www.legislation.gov.uk/ukpga/1993/48/section/6/8)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
 [^c13953621]: Textual amendment: Definition of “insurer” in s. 10(8) inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [112(3)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/112/3/b)
 
-[^key-4ea7bc166b91aaa9e883c1b5d3e683df]: Textual amendment: Words in s. 10(8) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 33(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/33/2/a/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ea7bc166b91aaa9e883c1b5d3e683df]: Textual amendment: Words in s. 10(8) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 33(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/33/2/a/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c13953631]: Textual amendment: S. 10(8): words in the definition of “occupational pension scheme” substituted (7.2.1994) by [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48), [s. 190](https://www.legislation.gov.uk/ukpga/1993/48/section/190), [Sch. 8 para. 46(1)(b)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/46/1/b) (with [s. 6(8)](https://www.legislation.gov.uk/ukpga/1993/48/section/6/8)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
@@ -169,4 +169,4 @@ and, where a person’s voluntary contributions are made by deduction from salar
 
 [^c13953691]: Textual amendment: S. 10(8A)-(8E) inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [112(4)](https://www.legislation.gov.uk/uksi/2001/3649/article/112/4)
 
-[^key-6b0bc946a3d018df52a5e4e8a45cd695]: Textual amendment: S. 10(8B)-(8E) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 33(2)(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/33/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b0bc946a3d018df52a5e4e8a45cd695]: Textual amendment: S. 10(8B)-(8E) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 33(2)(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/33/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

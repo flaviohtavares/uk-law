@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Disclosure restrictions[^key-921c059772a54dcbabc85c0d050bb345]
+## 57. Disclosure restrictions[^c-921c059772a54dcbabc85c0d050bb345]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-921c059772a54dcbabc85c0d050bb345]: Textual amendment: [S. 57](https://www.legislation.gov.uk/asp/2007/14/section/57) repealed (30.9.2024 for specified purposes, 1.4.2025 in so far as not already in force) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 5(11)](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/5/11) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-921c059772a54dcbabc85c0d050bb345]: Textual amendment: [S. 57](https://www.legislation.gov.uk/asp/2007/14/section/57) repealed (30.9.2024 for specified purposes, 1.4.2025 in so far as not already in force) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 5(11)](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/5/11) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

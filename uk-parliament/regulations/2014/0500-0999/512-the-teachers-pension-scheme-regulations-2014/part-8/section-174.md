@@ -40,7 +40,7 @@ summary: ''
 (5) The scheme manager may, on the application of a beneficiary to whom a pension is payable under Part 6, commute that pension by paying a lump sum to the beneficiary if—
 
 - (a) the application is made when the beneficiary applies under regulation 162 for payment of the pension; and
-- (b)[^key-3e59469fbf8ccd5b01d0c4af96e9b96c] the lump sum is a trivial commutation lump sum death benefit as defined in paragraph 20 of Schedule 29 to FA 2004.
+- (b)[^c-3e59469fbf8ccd5b01d0c4af96e9b96c] the lump sum is a trivial commutation lump sum death benefit as defined in paragraph 20 of Schedule 29 to FA 2004.
 
 (6) A lump sum payable under this regulation is to be determined by the scheme manager after taking advice from the scheme actuary.
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c22421211]: Marginal citation: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171).
 
-[^key-3e59469fbf8ccd5b01d0c4af96e9b96c]: Textual amendment: [Reg. 174(5)(b)](https://www.legislation.gov.uk/uksi/2014/512/regulation/174/5/b) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [14](https://www.legislation.gov.uk/uksi/2014/2652/regulation/14)
+[^c-3e59469fbf8ccd5b01d0c4af96e9b96c]: Textual amendment: [Reg. 174(5)(b)](https://www.legislation.gov.uk/uksi/2014/512/regulation/174/5/b) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [14](https://www.legislation.gov.uk/uksi/2014/2652/regulation/14)

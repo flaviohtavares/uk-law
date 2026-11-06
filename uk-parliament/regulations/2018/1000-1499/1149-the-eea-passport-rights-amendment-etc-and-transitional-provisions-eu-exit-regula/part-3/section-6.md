@@ -49,7 +49,7 @@ summary: ''
   > and
   >
   > - (c) be made—
-  >   - (i) during such period, ending no later than two years beginning with the day on which IP completion day[^key-f4abce187bce6027527938ec4be531c0] occurs, as the regulator to which it is to be made may direct, or
+  >   - (i) during such period, ending no later than two years beginning with the day on which IP completion day[^c-f4abce187bce6027527938ec4be531c0] occurs, as the regulator to which it is to be made may direct, or
   >   - (ii) if the regulator to which it is to be made does not direct such a period, before the end of two years beginning with the day on which IP completion day occurs.
 
   ;
@@ -97,4 +97,4 @@ summary: ''
 
 [^c23428841]: Marginal citation: Part 4A is inserted by section 11(2) of the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-f4abce187bce6027527938ec4be531c0]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2018/1149/regulation/6) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/b)
+[^c-f4abce187bce6027527938ec4be531c0]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2018/1149/regulation/6) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/b)

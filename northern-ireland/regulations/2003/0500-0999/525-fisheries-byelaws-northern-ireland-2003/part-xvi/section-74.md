@@ -20,8 +20,8 @@ summary: ''
 
 **No longer in force.**
 
-**74.**[^key-ce5f6c7e3b40467b4ccd18aec171c103] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**74.**[^c-ce5f6c7e3b40467b4ccd18aec171c103] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ce5f6c7e3b40467b4ccd18aec171c103]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/525) revoked (1.3.2014) by [Fisheries Regulations (Northern Ireland) 2014 (S.R. 2014/17)](https://www.legislation.gov.uk/nisr/2014/17), [regs. 1](https://www.legislation.gov.uk/nisr/2014/17/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/17/regulation/3), [Sch. 8](https://www.legislation.gov.uk/nisr/2014/17/schedule/8)
+[^c-ce5f6c7e3b40467b4ccd18aec171c103]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/525) revoked (1.3.2014) by [Fisheries Regulations (Northern Ireland) 2014 (S.R. 2014/17)](https://www.legislation.gov.uk/nisr/2014/17), [regs. 1](https://www.legislation.gov.uk/nisr/2014/17/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/17/regulation/3), [Sch. 8](https://www.legislation.gov.uk/nisr/2014/17/schedule/8)

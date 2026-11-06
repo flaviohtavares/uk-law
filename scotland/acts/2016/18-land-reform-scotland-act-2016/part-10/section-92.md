@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Repairing tenancies: creation[^key-e0451a94360eda96e21806c359ac63ad]
+## 92. Repairing tenancies: creation[^c-e0451a94360eda96e21806c359ac63ad]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0451a94360eda96e21806c359ac63ad]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2016/18/section/92) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-e0451a94360eda96e21806c359ac63ad]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2016/18/section/92) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))

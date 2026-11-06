@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Use of surveillance[^key-f0f9bb3b4c51d9964fd5f5a0b7ef172e]
+## 21. Use of surveillance[^c-f0f9bb3b4c51d9964fd5f5a0b7ef172e]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ Subject to any requirements for electronic monitoring imposed by a court under a
 
 ## Annotations
 
-[^key-f0f9bb3b4c51d9964fd5f5a0b7ef172e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2005/176/regulation/21) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-f0f9bb3b4c51d9964fd5f5a0b7ef172e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2005/176/regulation/21) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

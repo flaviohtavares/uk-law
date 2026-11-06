@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148FA. Cases where ss. 148A to 148F do not apply: plant or machinery held as trading stock[^key-953bd3c89c50b7551df04e0dbc563d3b][^c19154671]
+## 148FA. Cases where ss. 148A to 148F do not apply: plant or machinery held as trading stock[^c-953bd3c89c50b7551df04e0dbc563d3b][^c19154671]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ those amounts, and any other amounts which (as a result of this section) are to 
 
 ## Annotations
 
-[^key-953bd3c89c50b7551df04e0dbc563d3b]: Textual amendment: S. 148FA and cross-heading inserted (with effect in accordance with Sch. 20 para. 10(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 10(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/10/2)
+[^c-953bd3c89c50b7551df04e0dbc563d3b]: Textual amendment: S. 148FA and cross-heading inserted (with effect in accordance with Sch. 20 para. 10(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 10(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/10/2)
 
 [^c19154671]: Textual amendment: Pt. 2 Ch. 10A, (ss 148A-148J) inserted (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 81](https://www.legislation.gov.uk/ukpga/2006/25/section/81), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/13)

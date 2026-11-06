@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Power to modify energy licences in connection with green deal payments[^key-58b487a4762246a9936f16b1264476da]
+## 17. Power to modify energy licences in connection with green deal payments[^c-58b487a4762246a9936f16b1264476da]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58b487a4762246a9936f16b1264476da]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2011/16/section/17) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(v)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/v)
+[^c-58b487a4762246a9936f16b1264476da]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2011/16/section/17) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(v)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/v)

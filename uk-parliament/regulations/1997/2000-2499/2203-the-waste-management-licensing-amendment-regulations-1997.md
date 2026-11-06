@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State for the Environment as respects England, the Secretary of State for Wales as respects Wales and the Secretary of State for Scotland as respects Scotland, in exercise of the powers conferred on them by section 74(6) of the Environmental Protection Act 1990[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-302ce08b35c53593798ee4084550414c]
+## 1. Citation and commencement[^c-302ce08b35c53593798ee4084550414c]
 
 These Regulations may be cited as the Waste Management Licensing (Amendment) Regulations 1997 and shall come into force on 9th October 1997.
 
-## 2. Technical Competence[^key-7bfdedb737b26744e7d52396331cb738]
+## 2. Technical Competence[^c-7bfdedb737b26744e7d52396331cb738]
 
 For Table 1 in regulation 4 of the Waste Management Licensing Regulations 1994[^f00002], there shall be substituted:
 
@@ -114,8 +114,8 @@ These Regulations replace that Table so as to reclassify certain types of facili
 
 [^f00001]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-302ce08b35c53593798ee4084550414c]: Commencement: Reg. 1 in force at 9.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2203/regulation/1)
+[^c-302ce08b35c53593798ee4084550414c]: Commencement: Reg. 1 in force at 9.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2203/regulation/1)
 
-[^key-7bfdedb737b26744e7d52396331cb738]: Commencement: Reg. 2 in force at 9.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2203/regulation/1)
+[^c-7bfdedb737b26744e7d52396331cb738]: Commencement: Reg. 2 in force at 9.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2203/regulation/1)
 
 [^f00002]: Footnote: S.I. [1994/1056](https://www.legislation.gov.uk/uksi/1994/1056); regulation 4 was amended by S.I. [1996/634](https://www.legislation.gov.uk/uksi/1996/634).

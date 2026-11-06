@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Revocation of recognition[^key-05169aeaadbf2497f8c4a086a210458a]
+## 8. Revocation of recognition[^c-05169aeaadbf2497f8c4a086a210458a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05169aeaadbf2497f8c4a086a210458a]: Textual amendment: Reg. 8 omitted (28.4.2026) by virtue of [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/538/regulation/8)
+[^c-05169aeaadbf2497f8c4a086a210458a]: Textual amendment: Reg. 8 omitted (28.4.2026) by virtue of [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/538/regulation/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11B. Failure to satisfy requirements imposed under a scheme[^key-ef6a50208412de836018ca9afcd29269]
+## 11B. Failure to satisfy requirements imposed under a scheme[^c-ef6a50208412de836018ca9afcd29269]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,11 +25,11 @@ summary: ''
 - (a) remove from the appropriate register, or refuse to retain in the appropriate register, the registrant’s name; or
 - (b) refuse to restore the person’s name to the appropriate register.
 
-(1A)[^key-e5c4c0265fdcc1cb79aa7a2d627d27f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-e5c4c0265fdcc1cb79aa7a2d627d27f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1B)[^key-e5c4c0265fdcc1cb79aa7a2d627d27f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-e5c4c0265fdcc1cb79aa7a2d627d27f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1C)[^key-e5c4c0265fdcc1cb79aa7a2d627d27f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1C)[^c-e5c4c0265fdcc1cb79aa7a2d627d27f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) If it appears to the registrar that a person has failed to satisfy requirements for additional education and training imposed upon him under a scheme by virtue of section 11A(2)(e) above, the registrar may—
 
@@ -61,6 +61,6 @@ the registrar must make the entry.
 
 ## Annotations
 
-[^key-ef6a50208412de836018ca9afcd29269]: Textual amendment: Ss. 11A, 11B inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 14](https://www.legislation.gov.uk/uksi/2005/848/article/14) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-ef6a50208412de836018ca9afcd29269]: Textual amendment: Ss. 11A, 11B inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 14](https://www.legislation.gov.uk/uksi/2005/848/article/14) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-e5c4c0265fdcc1cb79aa7a2d627d27f3]: Textual amendment: S. 11B(1A)-(1C) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/8) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5c4c0265fdcc1cb79aa7a2d627d27f3]: Textual amendment: S. 11B(1A)-(1C) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/8) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

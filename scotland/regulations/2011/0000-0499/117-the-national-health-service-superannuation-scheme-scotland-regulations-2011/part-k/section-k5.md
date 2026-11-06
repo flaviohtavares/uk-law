@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-f75719325fd72f0bbe298823b7bed530] This paragraph applies where a guaranteed minimum pension has been transferred to this Section of the scheme and the member—
+(1)[^c-f75719325fd72f0bbe298823b7bed530] This paragraph applies where a guaranteed minimum pension has been transferred to this Section of the scheme and the member—
 
 - (a) subsequently leaves contracted-out employment under this Section of the scheme before 6th April 2016; or
 - (b) was in contracted-out employment under this Section of the scheme on 5th April 2016 but leaves pensionable employment on or after 6th April 2016.
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f75719325fd72f0bbe298823b7bed530]: Textual amendment: Reg. K5(1)(1A) substituted for reg. K5(1) (with effect in accordance with reg. 1(2)(f) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2017/27/regulation/8) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-f75719325fd72f0bbe298823b7bed530]: Textual amendment: Reg. K5(1)(1A) substituted for reg. K5(1) (with effect in accordance with reg. 1(2)(f) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2017/27/regulation/8) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))

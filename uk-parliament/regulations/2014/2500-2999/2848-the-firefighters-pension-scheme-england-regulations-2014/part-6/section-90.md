@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Increase in eligible child’s pension where there is no surviving partner[^key-32883cc7693415de12920f1783efd9ce]
+## 90. Increase in eligible child’s pension where there is no surviving partner[^c-32883cc7693415de12920f1783efd9ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32883cc7693415de12920f1783efd9ce]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/2014/2848/regulation/90) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-32883cc7693415de12920f1783efd9ce]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/2014/2848/regulation/90) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

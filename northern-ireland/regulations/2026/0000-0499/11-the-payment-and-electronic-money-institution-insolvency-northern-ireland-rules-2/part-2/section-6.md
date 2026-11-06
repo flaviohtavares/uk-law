@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Statement of proposed administrator[^key-b5491ec7ff1255c9aa4c9efed1690a44]
+## 6. Statement of proposed administrator[^c-b5491ec7ff1255c9aa4c9efed1690a44]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ An application for a special administration order must be accompanied by a state
 
 ## Annotations
 
-[^key-b5491ec7ff1255c9aa4c9efed1690a44]: Commencement: [Rule 6](https://www.legislation.gov.uk/nisr/2026/11/rule/6) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-b5491ec7ff1255c9aa4c9efed1690a44]: Commencement: [Rule 6](https://www.legislation.gov.uk/nisr/2026/11/rule/6) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

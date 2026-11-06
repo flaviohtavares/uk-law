@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Reminder of the need for an anonymous elector’s document: transitional provision[^key-5e0470fc974a8b74147273964d0a22a3]
+## 26. Reminder of the need for an anonymous elector’s document: transitional provision[^c-5e0470fc974a8b74147273964d0a22a3]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5e0470fc974a8b74147273964d0a22a3]: Commencement: Reg. 26 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-5e0470fc974a8b74147273964d0a22a3]: Commencement: Reg. 26 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00053]: Footnote: Section 9C was inserted by section 10(1) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), and was amended by paragraph 8 of Schedule 4 to the Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6).

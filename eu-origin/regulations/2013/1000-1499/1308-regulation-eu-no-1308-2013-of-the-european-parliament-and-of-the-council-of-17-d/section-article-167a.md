@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 167a. Marketing rules to improve and stabilise the operation of the common market in olive oils[^key-975155aee2454ffe93cd68cbdc43adac]
+## Article 167a. Marketing rules to improve and stabilise the operation of the common market in olive oils[^c-975155aee2454ffe93cd68cbdc43adac]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-975155aee2454ffe93cd68cbdc43adac]: Textual amendment: [Art. 167a](https://www.legislation.gov.uk/eur/2013/1308/article/167a) omitted (22.7.2022) by virtue of [The Common Agricultural Policy (Cross-Compliance Exemptions and Transitional Regulation) (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/861)](https://www.legislation.gov.uk/uksi/2022/861), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/861/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2022/861/regulation/4/3)
+[^c-975155aee2454ffe93cd68cbdc43adac]: Textual amendment: [Art. 167a](https://www.legislation.gov.uk/eur/2013/1308/article/167a) omitted (22.7.2022) by virtue of [The Common Agricultural Policy (Cross-Compliance Exemptions and Transitional Regulation) (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/861)](https://www.legislation.gov.uk/uksi/2022/861), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/861/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2022/861/regulation/4/3)

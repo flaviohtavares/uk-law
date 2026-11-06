@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Biodiversity credits[^key-5cb43d535e86fb642a1bd2b006b0f3d0][^key-b630ad5ca5877b658696b0cb86ed3c3a]
+## 101. Biodiversity credits[^c-5cb43d535e86fb642a1bd2b006b0f3d0][^c-b630ad5ca5877b658696b0cb86ed3c3a]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5cb43d535e86fb642a1bd2b006b0f3d0]: Commencement: S. 101 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-5cb43d535e86fb642a1bd2b006b0f3d0]: Commencement: S. 101 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-b630ad5ca5877b658696b0cb86ed3c3a]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2021/30/section/101) in force at 12.2.2024 by [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4))
+[^c-b630ad5ca5877b658696b0cb86ed3c3a]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2021/30/section/101) in force at 12.2.2024 by [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4))

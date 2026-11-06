@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Liability relating to construction products: limitation in England and Wales[^key-50d07945a3f3f82fa6e252f9b32da099]
+## 150. Liability relating to construction products: limitation in England and Wales[^c-50d07945a3f3f82fa6e252f9b32da099]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ In the Limitation Act 1980, after section 10A insert—
 
 ## Annotations
 
-[^key-50d07945a3f3f82fa6e252f9b32da099]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2022/30/section/150) in force at 28.6.2022, see [s. 170(3)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/e)
+[^c-50d07945a3f3f82fa6e252f9b32da099]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2022/30/section/150) in force at 28.6.2022, see [s. 170(3)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/e)

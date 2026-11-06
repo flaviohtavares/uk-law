@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128I. Limits on contributions by unretired FPJABS members[^key-73af1ad52439faa59a794455bec473bf]
+## 128I. Limits on contributions by unretired FPJABS members[^c-73af1ad52439faa59a794455bec473bf]
 
 *Extent: E+W+S+N.I.*
 
 (1) The aggregate amount of the lump sum payments an unretired FPJABS member may make is the smaller of—
 
-- (a) the amount equal to the sum of the amounts determined for each tax year during the period beginning with the assumed contribution commencement date and ending with the day before the periodic contributions start date in accordance with the following formula—[^key-be3b2735ae87ce9b41a6da5cdcb7f6a7]
+- (a) the amount equal to the sum of the amounts determined for each tax year during the period beginning with the assumed contribution commencement date and ending with the day before the periodic contributions start date in accordance with the following formula—[^c-be3b2735ae87ce9b41a6da5cdcb7f6a7]
 
   [formula: see source](https://www.legislation.gov.uk/uksi/2017/522)
 
@@ -59,6 +59,6 @@ where—
 
 ## Annotations
 
-[^key-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
+[^c-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
 
-[^key-be3b2735ae87ce9b41a6da5cdcb7f6a7]: Textual amendment: Formula in [reg. 128I(1)(a)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128I/1/a) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2024/1358/regulation/29)
+[^c-be3b2735ae87ce9b41a6da5cdcb7f6a7]: Textual amendment: Formula in [reg. 128I(1)(a)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128I/1/a) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2024/1358/regulation/29)

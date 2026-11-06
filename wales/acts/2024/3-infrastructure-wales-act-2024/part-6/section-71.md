@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Commons, open spaces etc: compulsory acquisition of rights over land[^key-b89ebcb77674f5fc5dc057a5758e7208][^key-450e65bb3458efd35ba4fbe79a7af221]
+## 71. Commons, open spaces etc: compulsory acquisition of rights over land[^c-b89ebcb77674f5fc5dc057a5758e7208][^c-450e65bb3458efd35ba4fbe79a7af221]
 
 *Extent: E+W*
 
@@ -75,6 +75,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b89ebcb77674f5fc5dc057a5758e7208]: Commencement: S. 71 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-b89ebcb77674f5fc5dc057a5758e7208]: Commencement: S. 71 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-450e65bb3458efd35ba4fbe79a7af221]: Commencement: [S. 71](https://www.legislation.gov.uk/asc/2024/3/section/71) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-450e65bb3458efd35ba4fbe79a7af221]: Commencement: [S. 71](https://www.legislation.gov.uk/asc/2024/3/section/71) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

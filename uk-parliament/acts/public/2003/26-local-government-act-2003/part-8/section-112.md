@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Standards Board for England: delegation[^key-1f5e06e26072d5fa907c8e78de8380c3]
+## 112. Standards Board for England: delegation[^c-1f5e06e26072d5fa907c8e78de8380c3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f5e06e26072d5fa907c8e78de8380c3]: Textual amendment: S. 112 repealed (1.7.2012 for specified purposes, 22.11.2012 for remaining purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6) [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended ([3](https://www.legislation.gov.uk/uksi/2012/1463/article/3).[7](https://www.legislation.gov.uk/uksi/2012/1463/article/7).[2012](https://www.legislation.gov.uk/uksi/2012/1463/article/2012)) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), [art. 2](https://www.legislation.gov.uk/uksi/2012/1714/article/2)); [S.I. 2012/2913](https://www.legislation.gov.uk/uksi/2012/2913), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2913/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2012/2913/article/2/c) (with [arts. 5](https://www.legislation.gov.uk/uksi/2012/2913/article/5), [6](https://www.legislation.gov.uk/uksi/2012/2913/article/6))
+[^c-1f5e06e26072d5fa907c8e78de8380c3]: Textual amendment: S. 112 repealed (1.7.2012 for specified purposes, 22.11.2012 for remaining purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6) [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended ([3](https://www.legislation.gov.uk/uksi/2012/1463/article/3).[7](https://www.legislation.gov.uk/uksi/2012/1463/article/7).[2012](https://www.legislation.gov.uk/uksi/2012/1463/article/2012)) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), [art. 2](https://www.legislation.gov.uk/uksi/2012/1714/article/2)); [S.I. 2012/2913](https://www.legislation.gov.uk/uksi/2012/2913), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2913/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2012/2913/article/2/c) (with [arts. 5](https://www.legislation.gov.uk/uksi/2012/2913/article/5), [6](https://www.legislation.gov.uk/uksi/2012/2913/article/6))

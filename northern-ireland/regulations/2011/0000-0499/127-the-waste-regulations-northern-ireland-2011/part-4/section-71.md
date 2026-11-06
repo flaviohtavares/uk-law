@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Amendment of the Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2010[^key-6deb2d31a6f1ad398945748f4594b57a]
+## 71. Amendment of the Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2010[^c-6deb2d31a6f1ad398945748f4594b57a]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6deb2d31a6f1ad398945748f4594b57a]: Commencement: Reg. 71 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-6deb2d31a6f1ad398945748f4594b57a]: Commencement: Reg. 71 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00064]: Footnote: [S.R. 2010 No. 64](https://www.legislation.gov.uk/nisr/2010/64)

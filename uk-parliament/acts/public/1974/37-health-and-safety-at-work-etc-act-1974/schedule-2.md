@@ -29,11 +29,11 @@ Section 10
 **1.** The Executive shall consist of—
 
 - (a) the Chair of the Executive, and
-- (b) at least seven and no more than twelve[^key-17137342a865ae4462ccda2d0ff3a013] other members (referred to in this Schedule as “ **members** ”).
+- (b) at least seven and no more than twelve[^c-17137342a865ae4462ccda2d0ff3a013] other members (referred to in this Schedule as “ **members** ”).
 
 **2.** (1) The Secretary of State shall appoint the Chair of the Executive.
 
-(2) Subject to sub-paragraph (3A),[^key-f7540743147ee0dea8835190f24064ed] The Secretary of State shall appoint the other members of the Executive according to sub-paragraph (3).
+(2) Subject to sub-paragraph (3A),[^c-f7540743147ee0dea8835190f24064ed] The Secretary of State shall appoint the other members of the Executive according to sub-paragraph (3).
 
 (3) The Secretary of State—
 
@@ -43,9 +43,9 @@ Section 10
 - (d) may appoint up to four other members after consulting, as he considers appropriate—
   - (i) the Scottish Ministers,
   - (ii) the Welsh Ministers, or
-  - (iii) such organisations as he considers appropriate, including professional bodies, whose activities are concerned with matters relating to the general purposes of this Part [^key-bfa07401b7c6fef943785094b4bfe622]....
+  - (iii) such organisations as he considers appropriate, including professional bodies, whose activities are concerned with matters relating to the general purposes of this Part [^c-bfa07401b7c6fef943785094b4bfe622]....
 
-(3A)[^key-98b1bb8d1254ff9d91318e2a3923eec1] The Office for Nuclear Regulation may appoint a member from among the non-executive members of the Office for Nuclear Regulation (“an ONR member”).
+(3A)[^c-98b1bb8d1254ff9d91318e2a3923eec1] The Office for Nuclear Regulation may appoint a member from among the non-executive members of the Office for Nuclear Regulation (“an ONR member”).
 
 (3B) The Office for Nuclear Regulation must notify the Executive and the Secretary of State whenever it appoints an ONR member.
 
@@ -57,11 +57,11 @@ Section 10
 
 *Extent: E+W+S+N.I.*
 
-**3.** Subject to paragraphs 4 , 4A[^key-6b5f02ce6c0e9669747a5fbef3a75946] and 5, a person shall hold and vacate office as the Chair or as another member according to the terms of the instrument appointing him to that office.
+**3.** Subject to paragraphs 4 , 4A[^c-6b5f02ce6c0e9669747a5fbef3a75946] and 5, a person shall hold and vacate office as the Chair or as another member according to the terms of the instrument appointing him to that office.
 
-**4.** The Chair or any other member of the Executive , other than an ONR member,[^key-8183bd9f033df4b946437febe951e72a] may at any time resign his office by giving notice in writing to the Secretary of State.
+**4.** The Chair or any other member of the Executive , other than an ONR member,[^c-8183bd9f033df4b946437febe951e72a] may at any time resign his office by giving notice in writing to the Secretary of State.
 
-**4A.**[^key-d795a5bd12435fcdea04adc6763a8a31] (1) An ONR member may at any time resign from office by giving notice in writing to the Office for Nuclear Regulation.
+**4A.**[^c-d795a5bd12435fcdea04adc6763a8a31] (1) An ONR member may at any time resign from office by giving notice in writing to the Office for Nuclear Regulation.
 
 (2) An ONR member ceases to be a member of the Executive upon ceasing to be a non-executive member of the Office for Nuclear Regulation.
 
@@ -73,10 +73,10 @@ Section 10
 - (b) ceases to be a non-executive member of the Office for Nuclear Regulation, or
 - (c) is removed from office.
 
-**5.** The Secretary of State may remove a Chair or other member , other than an ONR member,[^key-c7fc839bf817788a9226d98518eb9345] who—
+**5.** The Secretary of State may remove a Chair or other member , other than an ONR member,[^c-c7fc839bf817788a9226d98518eb9345] who—
 
 - (a) has been absent from meetings of the Executive for a period longer than six months without the permission of the Executive;
-- (b) has become bankrupt or has had a debt relief order (under Part 7A of the Insolvency Act 1986) made in respect of him or[^key-f2214d1840b1adcd071efea2288ba2db] has made an arrangement with his creditors;
+- (b) has become bankrupt or has had a debt relief order (under Part 7A of the Insolvency Act 1986) made in respect of him or[^c-f2214d1840b1adcd071efea2288ba2db] has made an arrangement with his creditors;
 - (c) in Scotland, has had his estate sequestrated or has made a trust deed for creditors or a composition contract;
 - (d) has become incapacitated by physical or mental illness; or
 - (e) is otherwise, in the opinion of the Secretary of State, unable or unfit to carry out his functions.
@@ -85,18 +85,18 @@ Section 10
 
 *Extent: E+W+S+N.I.*
 
-**6.** (1) The Executive shall pay —[^key-93a8adc4460cfa10b0989a57424a518e]
+**6.** (1) The Executive shall pay —[^c-93a8adc4460cfa10b0989a57424a518e]
 
 - (a) to each member, other than an ONR member, such remuneration, and
 - (b) to each member such travelling and other allowances,
 
 as may be determined by the Secretary of State.
 
-(2) The Executive shall pay to, or in respect of, any member other than an ONR member[^key-d36560c319a91eca0c8ec7f005ba2563] , such sums by way of pension, superannuation allowances and gratuities as the Secretary of State may determine.
+(2) The Executive shall pay to, or in respect of, any member other than an ONR member[^c-d36560c319a91eca0c8ec7f005ba2563] , such sums by way of pension, superannuation allowances and gratuities as the Secretary of State may determine.
 
-(3) Where a person ceases to be a member other than an ONR member[^key-84b29bf60744bed88652bd86199b6664] otherwise than on the expiry of his term of office, and the Secretary of State determines that there are special circumstances which make it right that he should receive compensation, the Executive shall pay to him such amount by way of compensation as the Secretary of State may determine.
+(3) Where a person ceases to be a member other than an ONR member[^c-84b29bf60744bed88652bd86199b6664] otherwise than on the expiry of his term of office, and the Secretary of State determines that there are special circumstances which make it right that he should receive compensation, the Executive shall pay to him such amount by way of compensation as the Secretary of State may determine.
 
-(4)[^key-eb7905e7ada9e1229055698e0f9897b9] Where—
+(4)[^c-eb7905e7ada9e1229055698e0f9897b9] Where—
 
 - (a) a member appointed under paragraph 4(4)(a) of Schedule 7 to the Energy Act 2013 to be a member of the Office for Nuclear Regulation (the “ HSE member of the ONR”)—
   - (i) ceases to be the HSE member of the ONR otherwise than on the expiry of his or her term of office as HSE member of the ONR, but
@@ -145,7 +145,7 @@ the Executive may pay the member such amount by way of compensation as the Secre
 (3) The Executive—
 
 - (a) shall authorise such of its members of staff as it considers fit to authorise for that purpose, to perform on its behalf those of its functions which consist of the enforcement of the relevant statutory provisions in any particular case; but
-- (b) shall not authorise any member or committee of the Executive to make decisions concerning the enforcement of the relevant statutory provisions [^key-454146bca3830878583b9b2733ebcfd9]... in any particular case.
+- (b) shall not authorise any member or committee of the Executive to make decisions concerning the enforcement of the relevant statutory provisions [^c-454146bca3830878583b9b2733ebcfd9]... in any particular case.
 
 (4) The Executive shall not authorise any person to legislate by subordinate instrument.
 
@@ -179,7 +179,7 @@ the Executive may pay the member such amount by way of compensation as the Secre
 
 **12.** (1) The fixing of the common seal of the Executive shall be authenticated by the signature of the Chair or some other person authorised by the Executive to act for that purpose.
 
-(2) A document purporting to be duly executed under the seal of the Executive or signed on its behalf[^key-53ca487ddf5396f12e99a55c7d47e7a0] shall be received in evidence and shall be deemed to be so executed or signed[^key-0e58c8d7bfe77f3981be185fe1a47000] unless the contrary is proved.
+(2) A document purporting to be duly executed under the seal of the Executive or signed on its behalf[^c-53ca487ddf5396f12e99a55c7d47e7a0] shall be received in evidence and shall be deemed to be so executed or signed[^c-0e58c8d7bfe77f3981be185fe1a47000] unless the contrary is proved.
 
 (3) This paragraph does not apply to Scotland.
 
@@ -187,34 +187,34 @@ the Executive may pay the member such amount by way of compensation as the Secre
 
 [^c19975101]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 20](https://www.legislation.gov.uk/uksi/2008/960/article/20), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/960/schedule/1) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 
-[^key-17137342a865ae4462ccda2d0ff3a013]: Textual amendment: Word in [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/1/b) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-17137342a865ae4462ccda2d0ff3a013]: Textual amendment: Word in [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/1/b) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-f7540743147ee0dea8835190f24064ed]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/2/2) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-f7540743147ee0dea8835190f24064ed]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/2/2) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-bfa07401b7c6fef943785094b4bfe622]: Textual amendment: Words in [Sch. 2 para. 2(3)(d)(iii)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/2/3/d/iii) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/8/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-bfa07401b7c6fef943785094b4bfe622]: Textual amendment: Words in [Sch. 2 para. 2(3)(d)(iii)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/2/3/d/iii) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/8/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
 
-[^key-98b1bb8d1254ff9d91318e2a3923eec1]: Textual amendment: [Sch. 2 para. 2(3A)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/2/3A), [(3B)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/2/3B) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(4)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/4); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-98b1bb8d1254ff9d91318e2a3923eec1]: Textual amendment: [Sch. 2 para. 2(3A)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/2/3A), [(3B)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/2/3B) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(4)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/4); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-6b5f02ce6c0e9669747a5fbef3a75946]: Textual amendment: Word in [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/3) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(5)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/5); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-6b5f02ce6c0e9669747a5fbef3a75946]: Textual amendment: Word in [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/3) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(5)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/5); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-8183bd9f033df4b946437febe951e72a]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/4) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(6)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/6); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-8183bd9f033df4b946437febe951e72a]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/4) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(6)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/6); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-d795a5bd12435fcdea04adc6763a8a31]: Textual amendment: [Sch. 2 para. 4A](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/4A) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(7)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/7); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-d795a5bd12435fcdea04adc6763a8a31]: Textual amendment: [Sch. 2 para. 4A](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/4A) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(7)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/7); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-c7fc839bf817788a9226d98518eb9345]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/5) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(8)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/8); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-c7fc839bf817788a9226d98518eb9345]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/5) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(8)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/8); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-f2214d1840b1adcd071efea2288ba2db]: Textual amendment: Words in Sch. 2 para. 5(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/6) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-f2214d1840b1adcd071efea2288ba2db]: Textual amendment: Words in Sch. 2 para. 5(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/6) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
-[^key-93a8adc4460cfa10b0989a57424a518e]: Textual amendment: Words in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/6/1) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(10)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/10); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-93a8adc4460cfa10b0989a57424a518e]: Textual amendment: Words in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/6/1) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(10)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/10); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-d36560c319a91eca0c8ec7f005ba2563]: Textual amendment: Words in [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/6/2) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(11)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/11); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-d36560c319a91eca0c8ec7f005ba2563]: Textual amendment: Words in [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/6/2) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(11)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/11); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-84b29bf60744bed88652bd86199b6664]: Textual amendment: Words in [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/6/3) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(12)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/12); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-84b29bf60744bed88652bd86199b6664]: Textual amendment: Words in [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/6/3) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(12)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/12); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-eb7905e7ada9e1229055698e0f9897b9]: Textual amendment: Sch. 2 para. 6(4) inserted (10.3.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(13)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/13); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 3(f)(i)](https://www.legislation.gov.uk/uksi/2014/251/article/3/f/i)
+[^c-eb7905e7ada9e1229055698e0f9897b9]: Textual amendment: Sch. 2 para. 6(4) inserted (10.3.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 15(13)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/15/13); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 3(f)(i)](https://www.legislation.gov.uk/uksi/2014/251/article/3/f/i)
 
-[^key-454146bca3830878583b9b2733ebcfd9]: Textual amendment: Words in [Sch. 2 para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/9/3/b) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/8/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-454146bca3830878583b9b2733ebcfd9]: Textual amendment: Words in [Sch. 2 para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/9/3/b) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/8/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
 
-[^key-53ca487ddf5396f12e99a55c7d47e7a0]: Textual amendment: Words in [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/12/2) inserted (E.W.S.) (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5), [Sch. 1 para. 8(4)(a)](https://www.legislation.gov.uk/ukpga/2022/30/schedule/1/paragraph/8/4/a); [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/a)
+[^c-53ca487ddf5396f12e99a55c7d47e7a0]: Textual amendment: Words in [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/12/2) inserted (E.W.S.) (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5), [Sch. 1 para. 8(4)(a)](https://www.legislation.gov.uk/ukpga/2022/30/schedule/1/paragraph/8/4/a); [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/a)
 
-[^key-0e58c8d7bfe77f3981be185fe1a47000]: Textual amendment: Words in [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/12/2) inserted (E.W.S.) (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5), [Sch. 1 para. 8(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/schedule/1/paragraph/8/4/b); [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/a)
+[^c-0e58c8d7bfe77f3981be185fe1a47000]: Textual amendment: Words in [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/1974/37/schedule/2/paragraph/12/2) inserted (E.W.S.) (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5), [Sch. 1 para. 8(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/schedule/1/paragraph/8/4/b); [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/a)

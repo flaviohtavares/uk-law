@@ -41,11 +41,11 @@ Coming into force
 
 The Registrar General, in exercise of powers conferred upon her by sections 2(4), 8(2), 12(2) and (3)(a), 14(2), 18(4), 19(5), 21(2), 25(5), 36(1), 36(2)(a) to (d) and (f), 36(3) of, and paragraph 5(3) of Schedule 1 to, the Civil Partnership Act 2004,[^f00001] with the approval of the Chancellor of the Exchequer, makes the following Regulations:
 
-## 1. Citation and commencement[^key-d441feeb9e589a44c9cd3d20a3980625]
+## 1. Citation and commencement[^c-d441feeb9e589a44c9cd3d20a3980625]
 
 These Regulations may be cited as the Civil Partnership (Registration Provisions) Regulations 2005 and shall come into force on 5th December 2005.
 
-## 2. Interpretation[^key-b84e7b1f26e3c460d54e8d44a0ae2a7a]
+## 2. Interpretation[^c-b84e7b1f26e3c460d54e8d44a0ae2a7a]
 
 (1) In these Regulations, unless the context otherwise requires:—
 
@@ -59,7 +59,7 @@ These Regulations may be cited as the Civil Partnership (Registration Provisions
 - (b) any reference in a regulation to a numbered paragraph is a reference to the paragraph in that regulation bearing that number; and
 - (c) any reference to a numbered form is to the form bearing that number in Schedule 1 to these Regulations and any reference to a numbered space on a form is to the space bearing that number on that form.
 
-## 3. Forms of notice of proposed civil partnership[^key-802c3a85161a7c92adbed3f539143db1]
+## 3. Forms of notice of proposed civil partnership[^c-802c3a85161a7c92adbed3f539143db1]
 
 The information to be contained in and the forms of notice of proposed civil partnership to be given are—
 
@@ -69,25 +69,25 @@ The information to be contained in and the forms of notice of proposed civil par
 - (d) where notice of proposed civil partnership is given by a party who is subject to immigration control and where either party is, or both parties are, aged under 18, form 4 if attested in England or form 4(w) if attested in Wales;
 - (e) where notice of proposed civil partnership is given under the special procedure, form 5 if attested in England or form 5 (w) if attested in Wales.
 
-## 4. Information in and manner of making statements in relation to housebound or detained persons[^key-2454b2b65b291e377c27969823c48c18]
+## 4. Information in and manner of making statements in relation to housebound or detained persons[^c-2454b2b65b291e377c27969823c48c18]
 
 (1) A medical statement required by section 18 of the 2004 Act (house-bound persons) must contain the information in and be made by completing, form 6 if the person is house-bound in England or form 6 (w) if the person is house-bound in Wales.
 
 (2) A supporting statement required by section 19 of the 2004 Act (detained persons) must contain the information in and be made by completing form 7 if the person is detained in England or form 7 (w) if the person is detained in Wales.
 
-## 5. Declaration for proposed civil partnership of certain persons related by affinity[^key-999c7d2d64bd0a2564b62946d54d8a88]
+## 5. Declaration for proposed civil partnership of certain persons related by affinity[^c-999c7d2d64bd0a2564b62946d54d8a88]
 
 (1) The form of declaration to be made under paragraph 5(1)(b) of Schedule 1 to the 2004 Act shall contain the information in form 8 if the notice of proposed civil partnership is, or has been, attested in England or form 8 (w) if the notice of proposed civil partnership is, or has been, attested in Wales.
 
 (2) The declaration shall be signed in the space provided, by the person making it, in the presence of the authorised person[^f00002] who shall also sign the declaration in the space provided.
 
-## 6. Issue of the civil partnership document by the registration authority[^key-3a0d5bf79dc232c7d4a8637b99c14b83]
+## 6. Issue of the civil partnership document by the registration authority[^c-3a0d5bf79dc232c7d4a8637b99c14b83]
 
 (1) A civil partnership schedule issued under section 14 (1) of the 2004 Act (issue of civil partnership schedule) shall contain the information in form 9 if the registration authority is in England or form 9(w) if the registration authority is in Wales.
 
 (2) A licence issued under section 25 (2) of the 2004 Act (issue of Registrar General’s licence) shall contain the information in form 10 if the registration authority is in England or form 10 (w) if the registration authority is in Wales.
 
-## 7. Applications to the Registrar General to shorten the waiting period[^key-46e80178b99cea9a6d7120ccdd5ddc5e]
+## 7. Applications to the Registrar General to shorten the waiting period[^c-46e80178b99cea9a6d7120ccdd5ddc5e]
 
 (1) This regulation applies to the making and granting of an application to the Registrar General to shorten the waiting period[^f00003] under section 12(1) of the 2004 Act (power to shorten the waiting period).
 
@@ -104,14 +104,14 @@ The information to be contained in and the forms of notice of proposed civil par
 
 (6) After the Registrar General has considered the application she shall as soon as practicable notify the applicant and the registration authority which forwarded the completed application form of her decision.
 
-## 8. Shortening of the waiting period by the registration authority[^key-6640bb07273d89fd8fdbd6de232f764d]
+## 8. Shortening of the waiting period by the registration authority[^c-6640bb07273d89fd8fdbd6de232f764d]
 
 A registration authority may shorten the waiting period on behalf of the Registrar General if —
 
 - (a) there has been an unavoidable delay in recording the notice of proposed civil partnership in accordance with section 8(5) of the 2004 Act; and
 - (b) in consequence of that delay, the proposed civil partners will be unable to form a civil partnership on the date which had been agreed with the authorised person when the notice of proposed civil partnership was attested.
 
-## 9. Contents of civil partnership document[^key-cfd0210b10093f24f326387ede40fdc9]
+## 9. Contents of civil partnership document[^c-cfd0210b10093f24f326387ede40fdc9]
 
 (1) A registration authority issuing a civil partnership document[^f00004] must ensure that the document contains the information entered in accordance with paragraphs (2) to (4) of this regulation.
 
@@ -164,7 +164,7 @@ A registration authority may shorten the waiting period on behalf of the Registr
   - (a) the mother of either party to the civil partnership is deceased, it shall enter the word “deceased” after the surname;
   - (b) either party wishes to record a step-mother’s name instead of the mother’s name, it shall enter the word “step-mother” after the surname, provided she is or has been married to the father.
 
-## 10. Verification and amendment of contents of civil partnership document at formation of civil partnership[^key-88bd3987753fce20790b621ac4b8f8aa]
+## 10. Verification and amendment of contents of civil partnership document at formation of civil partnership[^c-88bd3987753fce20790b621ac4b8f8aa]
 
 (1) Before a civil partnership document is signed under section 2(1) of the 2004 Act (formation of civil partnership by registration), the civil partnership registrar shall confirm that the information entered in the document is complete and correct and shall amend it as necessary.
 
@@ -172,11 +172,11 @@ A registration authority may shorten the waiting period on behalf of the Registr
 
 (3) Where either of the civil partners sign the civil partnership document by making a mark or by signing in characters other than those used in the English or Welsh languages, the civil partnership registrar shall enter against the mark or signature the words “The mark (or signature) of . . . . .” inserting the surname and forename of the person.
 
-## 11. Information to be recorded in the register[^key-0f98a1bd87ea70b1fe170fc72da3b6ac]
+## 11. Information to be recorded in the register[^c-0f98a1bd87ea70b1fe170fc72da3b6ac]
 
 The relevant registration authority shall comply with its obligations under section 2(4) of the 2004 Act by recording in the register the information on form 12 if the civil partnership was formed in England or form 12(w) if the civil partnership was formed in Wales.
 
-## 12. Completion of forms[^key-3b5d67742f103cb2a72962ba16a8cea6]
+## 12. Completion of forms[^c-3b5d67742f103cb2a72962ba16a8cea6]
 
 (1) Forms 1 (w), 2 (w), 3 (w), 4 (w), 5 (w), 8 (w), 9 (w), 10 (w) and 11 (w) shall be completed in English, and shall also be completed in Welsh if—
 
@@ -189,7 +189,7 @@ The relevant registration authority shall comply with its obligations under sect
 
 (2) Where a form of words set out in column 1 of Schedule 2 is used in completing a form in English, the form of words set out opposite to it in column 2 shall be used where the form is completed in Welsh.
 
-## 13. Searches of indexes of civil partnership records kept by the Registrar General and issue of copies[^key-10a342c1bb2760f4fd40af9810bd82c5]
+## 13. Searches of indexes of civil partnership records kept by the Registrar General and issue of copies[^c-10a342c1bb2760f4fd40af9810bd82c5]
 
 (1) The Registrar General shall cause indexes of all entries in the register[^f00005] to be made and to be kept in the General Register Office.
 
@@ -201,7 +201,7 @@ The relevant registration authority shall comply with its obligations under sect
 
 (5) No certified copy or certified extract purporting to have been given by the General Register Office shall be of any force or effect unless it is sealed or stamped in accordance with paragraph (3).
 
-## 14. Searches of indexes of civil partnership records kept by registration authorities and issue of copies[^key-91ec6474a41b5fb52690506465562621]
+## 14. Searches of indexes of civil partnership records kept by registration authorities and issue of copies[^c-91ec6474a41b5fb52690506465562621]
 
 (1) Every registration authority shall cause indexes of entries in the civil partnership register relating to all civil partnerships formed in its area to be made and to be kept with other records in its register office.[^f00006]
 
@@ -215,7 +215,7 @@ The relevant registration authority shall comply with its obligations under sect
 
 (6) The registration authority shall account to the Registrar General for all forms for certified copies and certified extracts supplied by her in such manner and at such times as she may require.
 
-## 15. Access to civil partnership records[^key-963dbbced4a237d695d998310b172ff1]
+## 15. Access to civil partnership records[^c-963dbbced4a237d695d998310b172ff1]
 
 (1) The civil partners, at the time of the formation of the civil partnership, shall be entitled to apply for a certified copy and a certified extract of the entry relating to it in the civil partnership register on payment of the fee prescribed under section 34(1) of the 2004 Act.
 
@@ -229,11 +229,11 @@ The relevant registration authority shall comply with its obligations under sect
 
 (6) A registration authority shall not disclose any records relating to civil partnerships held by it except in accordance with this regulation.
 
-## 16. Unrestricted access to civil partnership records[^key-b06b9917ca4fe8ca0eb0c2ac5d58f41b]
+## 16. Unrestricted access to civil partnership records[^c-b06b9917ca4fe8ca0eb0c2ac5d58f41b]
 
 An applicant for a certified copy shall be entitled to such a certificate without being required to provide the full addresses of both civil partners as recorded in the entry of the register, on and after the first of January in the year following the 50<sup>th</sup>: anniversary of the formation of the civil partnership.
 
-## 17. Retention of documents relating to civil partnerships[^key-73024f7be4372624288d83abae6683ec]
+## 17. Retention of documents relating to civil partnerships[^c-73024f7be4372624288d83abae6683ec]
 
 (1) A registration authority shall—
 
@@ -242,17 +242,17 @@ An applicant for a certified copy shall be entitled to such a certificate withou
 
 (2) The Registrar General shall retain the civil partnership documents together with other records kept by her.
 
-## 18. Duties of the civil partnership registrar and the authorised person[^key-1d6bd31dfa3c4292951d465fc1527b4e]
+## 18. Duties of the civil partnership registrar and the authorised person[^c-1d6bd31dfa3c4292951d465fc1527b4e]
 
 A civil partnership registrar and an authorised person shall immediately report any breach of the 2004 Act or an offence under the 2004 Act or the Perjury Act 1911[^f00007] to the Registrar General in writing and shall deliver to the Registrar General such documents in his possession relating to the offence or breach as the Register General may require.
 
-## 19. Corrections of errors generally[^key-93bd2e6161898974b231c9bd7a2dfac2]
+## 19. Corrections of errors generally[^c-93bd2e6161898974b231c9bd7a2dfac2]
 
 (1) An error in the civil partnership register shall only be corrected in accordance with these Regulations if the entry in the civil partnership register is complete.
 
 (2) For the purpose of these Regulations an entry in the civil partnership register is complete when the registration authority has discharged its duty under section 2(4) of the 2004 Act (formation of civil partnership by registration).
 
-## 20. Correction of errors[^key-d79e7992952fd6cb77375462929d865b]
+## 20. Correction of errors[^c-d79e7992952fd6cb77375462929d865b]
 
 If—
 
@@ -276,7 +276,7 @@ Signed by authority of the Chancellor of the Exchequer
 
 15th November 2005
 
-## SCHEDULE 1[^key-35a1b41db8493535ff36f611d224c91b]
+## SCHEDULE 1[^c-35a1b41db8493535ff36f611d224c91b]
 
 Prescribed forms
 
@@ -313,7 +313,7 @@ Regulation 2(2)(c)
 | 13 | 15 | Certified extract of an entry in the civil partnership register | Civil Partnership Act, section 36(2)(f) |
 | 13 (w) | 15 | Certified extract of an entry in the civil partnership register with (Welsh translation) | Civil Partnership Act, section 36(2)(f) |
 
-## SCHEDULE 2[^key-d315a5157b9790512098766f26a7bd11]
+## SCHEDULE 2[^c-d315a5157b9790512098766f26a7bd11]
 
 Regulation 10
 
@@ -369,58 +369,58 @@ These Regulations have no impact on the costs of business, charities or voluntar
 
 [^f00001]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-d441feeb9e589a44c9cd3d20a3980625]: Commencement: Reg. 1 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-d441feeb9e589a44c9cd3d20a3980625]: Commencement: Reg. 1 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
-[^key-b84e7b1f26e3c460d54e8d44a0ae2a7a]: Commencement: Reg. 2 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-b84e7b1f26e3c460d54e8d44a0ae2a7a]: Commencement: Reg. 2 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
-[^key-802c3a85161a7c92adbed3f539143db1]: Commencement: Reg. 3 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-802c3a85161a7c92adbed3f539143db1]: Commencement: Reg. 3 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
-[^key-2454b2b65b291e377c27969823c48c18]: Commencement: Reg. 4 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-2454b2b65b291e377c27969823c48c18]: Commencement: Reg. 4 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
-[^key-999c7d2d64bd0a2564b62946d54d8a88]: Commencement: Reg. 5 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-999c7d2d64bd0a2564b62946d54d8a88]: Commencement: Reg. 5 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
 [^f00002]: Footnote: For the meaning of “authorised person” see the 2004 Act, section 8(6).
 
-[^key-3a0d5bf79dc232c7d4a8637b99c14b83]: Commencement: Reg. 6 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-3a0d5bf79dc232c7d4a8637b99c14b83]: Commencement: Reg. 6 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
-[^key-46e80178b99cea9a6d7120ccdd5ddc5e]: Commencement: Reg. 7 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-46e80178b99cea9a6d7120ccdd5ddc5e]: Commencement: Reg. 7 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
 [^f00003]: Footnote: For the meaning of “waiting period” see the 2004 Act, section 11.
 
-[^key-6640bb07273d89fd8fdbd6de232f764d]: Commencement: Reg. 8 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-6640bb07273d89fd8fdbd6de232f764d]: Commencement: Reg. 8 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
-[^key-cfd0210b10093f24f326387ede40fdc9]: Commencement: Reg. 9 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-cfd0210b10093f24f326387ede40fdc9]: Commencement: Reg. 9 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
 [^f00004]: Footnote: For the meaning of “civil partnership document” see the 2004 Act, section 7.
 
-[^key-88bd3987753fce20790b621ac4b8f8aa]: Commencement: Reg. 10 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-88bd3987753fce20790b621ac4b8f8aa]: Commencement: Reg. 10 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
-[^key-0f98a1bd87ea70b1fe170fc72da3b6ac]: Commencement: Reg. 11 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-0f98a1bd87ea70b1fe170fc72da3b6ac]: Commencement: Reg. 11 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
-[^key-3b5d67742f103cb2a72962ba16a8cea6]: Commencement: Reg. 12 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-3b5d67742f103cb2a72962ba16a8cea6]: Commencement: Reg. 12 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
-[^key-10a342c1bb2760f4fd40af9810bd82c5]: Commencement: Reg. 13 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-10a342c1bb2760f4fd40af9810bd82c5]: Commencement: Reg. 13 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
 [^f00005]: Footnote: For the meaning of “the register” see section 30(4) of the 2004 Act, section 30(4).
 
-[^key-91ec6474a41b5fb52690506465562621]: Commencement: Reg. 14 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-91ec6474a41b5fb52690506465562621]: Commencement: Reg. 14 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
 [^f00006]: Footnote: For the meaning of “register office” see the 2004 Act 2004, section 6(3C). This section was inserted in the 2004 Act by paragraph 2 of the Schedule to the Civil Partnership (Amendments to Registration Provisions) Order (S.I. [2005/2000](https://www.legislation.gov.uk/uksi/2005/2000)).
 
-[^key-963dbbced4a237d695d998310b172ff1]: Commencement: Reg. 15 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-963dbbced4a237d695d998310b172ff1]: Commencement: Reg. 15 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
-[^key-b06b9917ca4fe8ca0eb0c2ac5d58f41b]: Commencement: Reg. 16 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-b06b9917ca4fe8ca0eb0c2ac5d58f41b]: Commencement: Reg. 16 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
-[^key-73024f7be4372624288d83abae6683ec]: Commencement: Reg. 17 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-73024f7be4372624288d83abae6683ec]: Commencement: Reg. 17 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
-[^key-1d6bd31dfa3c4292951d465fc1527b4e]: Commencement: Reg. 18 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-1d6bd31dfa3c4292951d465fc1527b4e]: Commencement: Reg. 18 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
 [^f00007]: Footnote: [1911 c. 6](https://www.legislation.gov.uk/ukpga/1911/6).
 
-[^key-93bd2e6161898974b231c9bd7a2dfac2]: Commencement: Reg. 19 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-93bd2e6161898974b231c9bd7a2dfac2]: Commencement: Reg. 19 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
-[^key-d79e7992952fd6cb77375462929d865b]: Commencement: Reg. 20 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-d79e7992952fd6cb77375462929d865b]: Commencement: Reg. 20 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
-[^key-35a1b41db8493535ff36f611d224c91b]: Commencement: Sch. 1 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-35a1b41db8493535ff36f611d224c91b]: Commencement: Sch. 1 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
 
-[^key-d315a5157b9790512098766f26a7bd11]: Commencement: Sch. 2 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)
+[^c-d315a5157b9790512098766f26a7bd11]: Commencement: Sch. 2 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3176/regulation/1)

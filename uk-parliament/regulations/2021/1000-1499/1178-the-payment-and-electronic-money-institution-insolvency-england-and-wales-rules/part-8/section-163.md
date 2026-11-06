@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 163. Fixing of remuneration[^key-b5ebe8202fc4b7be67797607f0eed978]
+## 163. Fixing of remuneration[^c-b5ebe8202fc4b7be67797607f0eed978]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5ebe8202fc4b7be67797607f0eed978]: Commencement: Rule 163 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-b5ebe8202fc4b7be67797607f0eed978]: Commencement: Rule 163 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

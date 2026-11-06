@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 309B. Excluded activities: subsidised generation of heat and subsidised production of gas or fuel[^key-89bcd7d8bed4b01d36fccbc4dd104a45]
+## 309B. Excluded activities: subsidised generation of heat and subsidised production of gas or fuel[^c-89bcd7d8bed4b01d36fccbc4dd104a45]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89bcd7d8bed4b01d36fccbc4dd104a45]: Textual amendment: S. 309B omitted (with effect in accordance with s. 28(6) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 28(4)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/28/4/c)
+[^c-89bcd7d8bed4b01d36fccbc4dd104a45]: Textual amendment: S. 309B omitted (with effect in accordance with s. 28(6) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 28(4)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/28/4/c)

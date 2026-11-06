@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Notification that supplementary bid not valid[^key-061e7ed1d6a4944f5b7524d84d553954]
+## 65. Notification that supplementary bid not valid[^c-061e7ed1d6a4944f5b7524d84d553954]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a bidder submits a supplementary bid that is not a valid supplementary bid
 
 ## Annotations
 
-[^key-061e7ed1d6a4944f5b7524d84d553954]: Commencement: Reg. 65 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-061e7ed1d6a4944f5b7524d84d553954]: Commencement: Reg. 65 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

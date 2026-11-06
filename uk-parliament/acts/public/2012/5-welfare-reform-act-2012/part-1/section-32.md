@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Power to make supplementary and consequential provision etc[^key-fc4bace10e8a54c84ebec4acf8f66109]
+## 32. Power to make supplementary and consequential provision etc[^c-fc4bace10e8a54c84ebec4acf8f66109]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc4bace10e8a54c84ebec4acf8f66109]: Commencement: S. 32 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/16)
+[^c-fc4bace10e8a54c84ebec4acf8f66109]: Commencement: S. 32 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/16)

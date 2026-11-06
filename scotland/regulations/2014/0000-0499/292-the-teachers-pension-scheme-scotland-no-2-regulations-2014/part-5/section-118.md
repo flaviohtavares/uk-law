@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Entitlement to short-service serious ill-health grant[^key-088004a258627cf8fcb2a3c6663c1722]
+## 118. Entitlement to short-service serious ill-health grant[^c-088004a258627cf8fcb2a3c6663c1722]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-088004a258627cf8fcb2a3c6663c1722]: Commencement: [Reg. 118](https://www.legislation.gov.uk/ssi/2014/292/regulation/118) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-088004a258627cf8fcb2a3c6663c1722]: Commencement: [Reg. 118](https://www.legislation.gov.uk/ssi/2014/292/regulation/118) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

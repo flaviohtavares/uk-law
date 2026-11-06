@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Failure to give notice to occupiers[^key-1ba5c15a08e9adba205b1ed16dd0eef1]
+## 42. Failure to give notice to occupiers[^c-1ba5c15a08e9adba205b1ed16dd0eef1]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ba5c15a08e9adba205b1ed16dd0eef1]: Commencement: [S. 42](https://www.legislation.gov.uk/mwa/2011/5/section/42) in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(d)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/d)
+[^c-1ba5c15a08e9adba205b1ed16dd0eef1]: Commencement: [S. 42](https://www.legislation.gov.uk/mwa/2011/5/section/42) in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(d)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/d)

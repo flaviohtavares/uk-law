@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. River basin management plans[^key-811cfee36a392cfd49b29ca83be2628c]
+## 10. River basin management plans[^c-811cfee36a392cfd49b29ca83be2628c]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-811cfee36a392cfd49b29ca83be2628c]: Commencement: S. 10 in force at 1.6.2005 by [S.S.I. 2005/235](https://www.legislation.gov.uk/ssi/2005/235), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/235/article/2/a)
+[^c-811cfee36a392cfd49b29ca83be2628c]: Commencement: S. 10 in force at 1.6.2005 by [S.S.I. 2005/235](https://www.legislation.gov.uk/ssi/2005/235), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/235/article/2/a)

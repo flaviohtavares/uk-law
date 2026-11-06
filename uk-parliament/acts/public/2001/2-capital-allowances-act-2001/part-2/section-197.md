@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Disposal values in avoidance cases[^key-b8184b95e0e6d1a82eeaaace30d953b8][^key-d03da92dd5e4b88aa6e7b821216d4cc0][^key-61884cd6d626db8c24cf70e799042b45]
+## 197. Disposal values in avoidance cases[^c-b8184b95e0e6d1a82eeaaace30d953b8][^c-d03da92dd5e4b88aa6e7b821216d4cc0][^c-61884cd6d626db8c24cf70e799042b45]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,8 +42,8 @@ where—
 
 ## Annotations
 
-[^key-b8184b95e0e6d1a82eeaaace30d953b8]: Modification: Pt. 2 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 19](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/19)
+[^c-b8184b95e0e6d1a82eeaaace30d953b8]: Modification: Pt. 2 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 19](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/19)
 
-[^key-d03da92dd5e4b88aa6e7b821216d4cc0]: Modification: Pt. 2 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/35)
+[^c-d03da92dd5e4b88aa6e7b821216d4cc0]: Modification: Pt. 2 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/35)
 
-[^key-61884cd6d626db8c24cf70e799042b45]: Modification: Pt. 2 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 paras. 36](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/36), [37](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/37)
+[^c-61884cd6d626db8c24cf70e799042b45]: Modification: Pt. 2 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 paras. 36](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/36), [37](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/37)

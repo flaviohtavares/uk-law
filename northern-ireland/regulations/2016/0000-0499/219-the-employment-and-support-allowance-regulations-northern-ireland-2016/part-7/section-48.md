@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Claimants subject to work-focused interview requirement only[^key-a53e4c703050b2020f7accc7668fbf91]
+## 48. Claimants subject to work-focused interview requirement only[^c-a53e4c703050b2020f7accc7668fbf91]
 
 *Extent: N.I.*
 
-(1) For the purposes of section 11E(1)(a) of the Act (persons subject to work-focused interview requirement only) the prescribed age is 3[^key-82dea0ecb0276d88912571b5ff49648a].
+(1) For the purposes of section 11E(1)(a) of the Act (persons subject to work-focused interview requirement only) the prescribed age is 3[^c-82dea0ecb0276d88912571b5ff49648a].
 
 (2) A claimant falls within section 11E of the Act if—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a53e4c703050b2020f7accc7668fbf91]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2016/219/regulation/48) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-a53e4c703050b2020f7accc7668fbf91]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2016/219/regulation/48) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
-[^key-82dea0ecb0276d88912571b5ff49648a]: Textual amendment: Word in [reg. 48(1)](https://www.legislation.gov.uk/nisr/2016/219/regulation/48/1) substituted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Income Support (Work-Related Activity) and Miscellaneous Amendments Regulations (Northern Ireland) 2017 (S.R. 2017/18)](https://www.legislation.gov.uk/nisr/2017/18), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/18/regulation/1/1), [17](https://www.legislation.gov.uk/nisr/2017/18/regulation/17)
+[^c-82dea0ecb0276d88912571b5ff49648a]: Textual amendment: Word in [reg. 48(1)](https://www.legislation.gov.uk/nisr/2016/219/regulation/48/1) substituted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Income Support (Work-Related Activity) and Miscellaneous Amendments Regulations (Northern Ireland) 2017 (S.R. 2017/18)](https://www.legislation.gov.uk/nisr/2017/18), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/18/regulation/1/1), [17](https://www.legislation.gov.uk/nisr/2017/18/regulation/17)

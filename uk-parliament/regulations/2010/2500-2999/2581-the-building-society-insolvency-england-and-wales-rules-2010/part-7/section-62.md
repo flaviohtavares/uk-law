@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Cost of proving[^key-28d149d856dff3f478f0f00f47648a93]
+## 62. Cost of proving[^c-28d149d856dff3f478f0f00f47648a93]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28d149d856dff3f478f0f00f47648a93]: Commencement: Rule 62 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-28d149d856dff3f478f0f00f47648a93]: Commencement: Rule 62 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00027]: Footnote: Paragraph (2) was amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

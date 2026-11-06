@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Schedule 1 (payments for added pension)[^key-088601b181e0092eca215fc67d4f8bee]
+## 115. Schedule 1 (payments for added pension)[^c-088601b181e0092eca215fc67d4f8bee]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 has effect (including as to the deduction of payments for added pensi
 
 ## Annotations
 
-[^key-088601b181e0092eca215fc67d4f8bee]: Commencement: [Reg. 115](https://www.legislation.gov.uk/uksi/2014/2848/regulation/115) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-088601b181e0092eca215fc67d4f8bee]: Commencement: [Reg. 115](https://www.legislation.gov.uk/uksi/2014/2848/regulation/115) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

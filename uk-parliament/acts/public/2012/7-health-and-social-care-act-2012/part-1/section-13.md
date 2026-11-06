@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Duties of clinical commissioning groups as to commissioning certain health services[^key-f7ded0e2a3eef7c68fbb5a06668d0c8c][^c2191271]
+## 13. Duties of clinical commissioning groups as to commissioning certain health services[^c-f7ded0e2a3eef7c68fbb5a06668d0c8c][^c2191271]
 
 *Extent: E+W*
 
-(1)[^key-113449809947f35d0cc902555b3c3923] Section 3 of the National Health Service Act 2006 is amended as follows.
+(1)[^c-113449809947f35d0cc902555b3c3923] Section 3 of the National Health Service Act 2006 is amended as follows.
 
-(2)[^key-055303480c90455c9b256c272cc72ade] In subsection (1)—
+(2)[^c-055303480c90455c9b256c272cc72ade] In subsection (1)—
 
 - (a) for the words from the beginning to “reasonable requirements” substitute “A clinical commissioning group must arrange for the provision of the following to such extent as it considers necessary to meet the reasonable requirements of the persons for whom it has responsibility”, and
 - (b) in each of paragraphs (d) and (e) for the words “as he considers” substitute “as the group considers”.
 
-(3)[^key-055303480c90455c9b256c272cc72ade] After that subsection insert—
+(3)[^c-055303480c90455c9b256c272cc72ade] After that subsection insert—
 
 > (1A) For the purposes of this section, a clinical commissioning group has responsibility for—
 >
@@ -48,20 +48,20 @@ summary: ''
 >
 > (1E) The duty in subsection (1) does not apply in relation to a service or facility if the Board has a duty to arrange for its provision.
 
-(4)[^key-055303480c90455c9b256c272cc72ade] After subsection (1E) insert—
+(4)[^c-055303480c90455c9b256c272cc72ade] After subsection (1E) insert—
 
 > (1F) In exercising its functions under this section and section 3A, a clinical commissioning group must act consistently with—
 >
 > - (a) the discharge by the Secretary of State and the Board of their duty under section 1(1) (duty to promote a comprehensive health service), and
 > - (b) the objectives and requirements for the time being specified in the mandate published under section 13A.
 
-(5)[^key-055303480c90455c9b256c272cc72ade] Omit subsections (2) and (3).
+(5)[^c-055303480c90455c9b256c272cc72ade] Omit subsections (2) and (3).
 
 (6) For the heading to section 3 substitute “Duties of clinical commissioning groups as to commissioning certain health services”.
 
 (7) For the cross-heading preceding section 3 substitute “Arrangements for the provision of certain health services”.
 
-(8)[^key-95f2b847eee040ad1284efaae8f4cdc7] In section 272 of that Act (orders, regulations, rules and directions), in subsection (6) before paragraph (za) insert—
+(8)[^c-95f2b847eee040ad1284efaae8f4cdc7] In section 272 of that Act (orders, regulations, rules and directions), in subsection (6) before paragraph (za) insert—
 
 > - (zza) regulations under section 3(1D),
 
@@ -69,12 +69,12 @@ summary: ''
 
 ## Annotations
 
-[^key-f7ded0e2a3eef7c68fbb5a06668d0c8c]: Commencement: S. 13 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-f7ded0e2a3eef7c68fbb5a06668d0c8c]: Commencement: S. 13 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191271]: Commencement: S. 13 partly in force: s. 13 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)
 
-[^key-113449809947f35d0cc902555b3c3923]: Commencement: S. 13(1) in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-113449809947f35d0cc902555b3c3923]: Commencement: S. 13(1) in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-055303480c90455c9b256c272cc72ade]: Commencement: S. 13(2)-(5) in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-055303480c90455c9b256c272cc72ade]: Commencement: S. 13(2)-(5) in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-95f2b847eee040ad1284efaae8f4cdc7]: Commencement: S. 13(8) in force at 1.2.2013 in so far as not already in force by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-95f2b847eee040ad1284efaae8f4cdc7]: Commencement: S. 13(8) in force at 1.2.2013 in so far as not already in force by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)

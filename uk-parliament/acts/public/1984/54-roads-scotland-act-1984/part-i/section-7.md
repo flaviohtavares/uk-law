@@ -43,9 +43,9 @@ in accordance with the provisions of Parts II and III of Schedule 1 to this Act.
 
 (7) Before making or confirming a scheme under this section, the Secretary of State shall give due consideration to the requirements of local and national planning, and to the requirements of agriculture and industry.
 
-(8)[^key-7d946720cab650f778d73fd016b42abc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-7d946720cab650f778d73fd016b42abc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9) [^key-a0f260b4b3647077915b260aa8414063]... Schedule 2 to this Act shall have effect with respect to the validity and date of operation of schemes under this section[^key-49ef397de36ddfe4a4e0b019a320ec8f] .
+(9) [^c-a0f260b4b3647077915b260aa8414063]... Schedule 2 to this Act shall have effect with respect to the validity and date of operation of schemes under this section[^c-49ef397de36ddfe4a4e0b019a320ec8f] .
 
 (10) A scheme under this section may be submitted to the Secretary of State jointly by any two or more local roads authorities, and any such scheme may determine which of those authorities shall be the special road authority for the special road and may provide—
 
@@ -58,8 +58,8 @@ in accordance with the provisions of Parts II and III of Schedule 1 to this Act.
 
 [^c1610613]: Marginal citation: [1949 c. 32](https://www.legislation.gov.uk/ukpga/1949/32).
 
-[^key-7d946720cab650f778d73fd016b42abc]: Textual amendment: S. 7(8) repealed (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2) (with S.S.I. 2007/517, arts. 1(1), 4(2)-(4))
+[^c-7d946720cab650f778d73fd016b42abc]: Textual amendment: S. 7(8) repealed (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2) (with S.S.I. 2007/517, arts. 1(1), 4(2)-(4))
 
-[^key-a0f260b4b3647077915b260aa8414063]: Textual amendment: Words in s. 7(9) repealed (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 2 para. 2(a)](https://www.legislation.gov.uk/asp/2007/8/schedule/2/paragraph/2/a); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2) (with S.S.I. 2007/517, arts. 1(1), 4(2)-(4))
+[^c-a0f260b4b3647077915b260aa8414063]: Textual amendment: Words in s. 7(9) repealed (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 2 para. 2(a)](https://www.legislation.gov.uk/asp/2007/8/schedule/2/paragraph/2/a); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2) (with S.S.I. 2007/517, arts. 1(1), 4(2)-(4))
 
-[^key-49ef397de36ddfe4a4e0b019a320ec8f]: Textual amendment: Words in s. 7(9) substituted (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 2 para. 2(b)](https://www.legislation.gov.uk/asp/2007/8/schedule/2/paragraph/2/b); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2) (with S.S.I. 2007/517, arts. 1(1), 4(2)-(4))
+[^c-49ef397de36ddfe4a4e0b019a320ec8f]: Textual amendment: Words in s. 7(9) substituted (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 2 para. 2(b)](https://www.legislation.gov.uk/asp/2007/8/schedule/2/paragraph/2/b); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2) (with S.S.I. 2007/517, arts. 1(1), 4(2)-(4))

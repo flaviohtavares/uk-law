@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Removal of restrictions on times for marriage or civil partnership[^key-8cea6a3b61b3cdafad4c379edffb56bc]
+## 114. Removal of restrictions on times for marriage or civil partnership[^c-8cea6a3b61b3cdafad4c379edffb56bc]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8cea6a3b61b3cdafad4c379edffb56bc]: Commencement: S. 114 in force at 1.10.2012 by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(m)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/m)
+[^c-8cea6a3b61b3cdafad4c379edffb56bc]: Commencement: S. 114 in force at 1.10.2012 by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(m)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/m)

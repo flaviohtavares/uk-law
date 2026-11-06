@@ -31,7 +31,7 @@ Land Charges Act 1972
 
 An Act to consolidate certain enactments relating to the registration of land charges and other instruments and matters affecting land.
 
-\[9th August 1972\][^c8233081][^c8232991][^c8233121][^c8233051][^c8232971][^c8232981][^c8233001][^c8233011][^c8233021][^c8233031][^c8233041][^c8233061][^c8233071][^c8233091][^c8233101][^c8233111][^c8233131][^key-a4dfadcd1f76213654ef78c9302f141d][^key-9620c90ad2ecf264fd7a4673160a22eb][^key-5106ab8c6d2bbd8b8be6bb87a69e3817][^key-a1e39686473bd6e3624190d8a6768e0b][^key-9c71aa8281ada205b8558f451834ff58][^key-baa362995e6c6db7c1ea92ada7f41040]
+\[9th August 1972\][^c8233081][^c8232991][^c8233121][^c8233051][^c8232971][^c8232981][^c8233001][^c8233011][^c8233021][^c8233031][^c8233041][^c8233061][^c8233071][^c8233091][^c8233101][^c8233111][^c8233131][^c-a4dfadcd1f76213654ef78c9302f141d][^c-9620c90ad2ecf264fd7a4673160a22eb][^c-5106ab8c6d2bbd8b8be6bb87a69e3817][^c-a1e39686473bd6e3624190d8a6768e0b][^c-9c71aa8281ada205b8558f451834ff58][^c-baa362995e6c6db7c1ea92ada7f41040]
 
 ## Preliminary
 
@@ -42,7 +42,7 @@ An Act to consolidate certain enactments relating to the registration of land ch
 - (a) a register of land charges;
 - (b) a register of pending actions;
 - (c) a register of writs and orders affecting land;
-- (d)[^key-5b55514b70be48453b66357a5b4a207e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-5b55514b70be48453b66357a5b4a207e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) a register of annuities,
 
 and shall also continue to keep there an index whereby all entries made in any of those registers can readily be traced.
@@ -59,13 +59,13 @@ and shall also continue to keep there an index whereby all entries made in any o
 
 (6)[^c8233271] Subject to the provisions of this Act, registration may be vacated pursuant to an order of the court.
 
-(6A)[^c8233281] The county court[^key-3d2ee0661a59d36da9073975627c1db0] have jurisdiction under subsection (6) above—
+(6A)[^c8233281] The county court[^c-3d2ee0661a59d36da9073975627c1db0] have jurisdiction under subsection (6) above—
 
 - (a) in the case of a land charge of Class C(i), C(ii) or D(i), if the amount does not exceed £30,000;
 - (b) in the case of a land charge of Class C(iii), if it is for a specified capital sum of money not exceeding £30,000 or, where it is not for a specified capital sum, if the capital value of the land affected does not exceed £30,000;
 - (c) in the case of a land charge of Class A, Class B, Class C(iv), Class D(ii), Class D(iii) or Class E if the capital value of the land affected does not exceed £30,000;
 - (d) in the case of a land charge of Class F, if the land affected by it is the subject of an order made by the court under section 1 of the Matrimonial Homes Act 1983 or section 33 of the Family Law Act 1996[^c8233291] or an application for an order under either of those sections[^c8233301] relating to that land has been made to the court;
-- (e)[^key-c86b123285fd09f034b2a1e11ec089b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-c86b123285fd09f034b2a1e11ec089b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6B)[^c8233311] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -140,9 +140,9 @@ and for this purpose—
 
 (7) In the case of a land charge for securing money created by a company before 1st January 1970 or so created at any time as a floating charge, registration underany of the enactments mentioned in subsection (8) below shall be sufficient in place of registration under this Act, and shall have effect as if the land charge had been registered under this Act.
 
-(8) The enactments referred to in subsection (7) above are section 93 of the [^c8233951]Companies (Consolidation) Act 1908, section 79 of the [^c8233961]Companies Act 1929 . . . [^c8233971] section 95 of the [^c8233981]Companies Act 1948 , sections 395 to 398 of the Companies Act 1985 and Part 25 of the Companies Act 2006 and regulations made under section 1052 of that Act[^key-382199e9e90d0d1e784c5a96892226b4].
+(8) The enactments referred to in subsection (7) above are section 93 of the [^c8233951]Companies (Consolidation) Act 1908, section 79 of the [^c8233961]Companies Act 1929 . . . [^c8233971] section 95 of the [^c8233981]Companies Act 1948 , sections 395 to 398 of the Companies Act 1985 and Part 25 of the Companies Act 2006 and regulations made under section 1052 of that Act[^c-382199e9e90d0d1e784c5a96892226b4].
 
-### 4. Effect of land charges and protection of purchasers.[^c8234151][^key-9fa4c885eaef994a8ca37f68412a2845]
+### 4. Effect of land charges and protection of purchasers.[^c8234151][^c-9fa4c885eaef994a8ca37f68412a2845]
 
 (1) A land charge of Class A (other than a land improvement charge registered after 31st December 1969) or of Class B shall, when registered, take effect as if it had been created by a deed of charge by way of legal mortgage, but without prejudice to the priority of the charge.
 
@@ -168,15 +168,15 @@ and for this purpose—
 
 - (a) a pending land action;
 - (b) a petition in bankruptcy filed on or after 1st January 1926.
-- (c)[^key-db2333ecd20c17acec2959fe428c67bd] a bankruptcy application.
+- (c)[^c-db2333ecd20c17acec2959fe428c67bd] a bankruptcy application.
 
 (2) Subject to general rules under section 16 of this Act, every application for registration under this section shall contain particulars of the title of the proceedings and the name, address and description of the estate owner or other person whose estate or interest is intended to be affected.
 
 (3) An application for registration shall also state—
 
-- (a) if it relates to a pending land action, the court in which and the day on which the action was commenced; [^key-b0651c3e1f3a497706cb1467eea362fd]...
-- (b) if it relates to a petition in bankruptcy, the court in which and the day on which the petition was filed,and[^key-71f70f1b2ef4cc337469828da7d65467]
-- (c)[^key-95078e4a85be1883263bb98a73b72ee2] if it relates to a bankruptcy application, the date on which the bankruptcy application was made.
+- (a) if it relates to a pending land action, the court in which and the day on which the action was commenced; [^c-b0651c3e1f3a497706cb1467eea362fd]...
+- (b) if it relates to a petition in bankruptcy, the court in which and the day on which the petition was filed,and[^c-71f70f1b2ef4cc337469828da7d65467]
+- (c)[^c-95078e4a85be1883263bb98a73b72ee2] if it relates to a bankruptcy application, the date on which the bankruptcy application was made.
 
 (4) The registrar shall forthwith enter the particulars in the register, in the name of the estate owner or other person whose estate or interest is intended to be affected.
 
@@ -186,11 +186,11 @@ and for this purpose—
 
 (6) No fee shall be charged for the registration of a petition in bankruptcy if the application for registration is made by the registrar of the court in which the petition is filed.
 
-(6A)[^key-a9ce8cadc57d263b8a6d6059143801b1] No fee shall be charged for the registration of a bankruptcy application.
+(6A)[^c-a9ce8cadc57d263b8a6d6059143801b1] No fee shall be charged for the registration of a bankruptcy application.
 
 (7) A pending land action shall not bind a purchaser without express notice of it unless it is for the time being registered under this section.
 
-(8) A bankruptcy application or[^key-9e738059ed2c6823a3c6ba2410d8afd4] petition in bankruptcy shall not bind a purchaser of a legal estate in good faith, for money or money’s worth, [^c8234251]. . . unless it is for the time being registered under this section.
+(8) A bankruptcy application or[^c-9e738059ed2c6823a3c6ba2410d8afd4] petition in bankruptcy shall not bind a purchaser of a legal estate in good faith, for money or money’s worth, [^c8234251]. . . unless it is for the time being registered under this section.
 
 (9)[^c8234261] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -215,16 +215,16 @@ and for this purpose—
 
 (3) No fee shall be charged for the registration of a bankruptcy order[^c8234631] if the application for registration is made by an official receiver.
 
-(4)[^c8234641][^c8234651][^c8234661] Except as provided by subsection (5) below and by section 37(5) of the[^c8234671] Senior Courts Act 1981[^key-e99ba86583bf3d5320dd248a2de66907] and section 107(3) of the County Courts Act 1984[^c8234681] (which make special provision as to receiving orders in respect of land of judgment debtors) every such writ and order as is mentioned in subsection (1) above, and every delivery in execution or other proceeding taken pursuant to any such writ or order, or in obedience to any such writ or order, shall be void as against a purchaser of the land unless the writ or order is for the time being registered under this section.
+(4)[^c8234641][^c8234651][^c8234661] Except as provided by subsection (5) below and by section 37(5) of the[^c8234671] Senior Courts Act 1981[^c-e99ba86583bf3d5320dd248a2de66907] and section 107(3) of the County Courts Act 1984[^c8234681] (which make special provision as to receiving orders in respect of land of judgment debtors) every such writ and order as is mentioned in subsection (1) above, and every delivery in execution or other proceeding taken pursuant to any such writ or order, or in obedience to any such writ or order, shall be void as against a purchaser of the land unless the writ or order is for the time being registered under this section.
 
 (5)[^c8234691] Subject to subsection (6) below, the title of a trustee in bankruptcy shall be void as against a purchaser of a legal estate in good faith for money or money’s worth unless the bankruptcy order is for the time being registered under this section.
 
-(6) Where a bankruptcy application or[^key-bc721e7770fdeaf1f83e6e26759706c0] petition in bankruptcy has been registered under section 5 above, the title of the trustee in bankruptcy shall be void as against a purchaser of a legal estate in good faith for money or money’s worth . . . [^c8234701] claiming under a conveyance made after the date of registration, unless at the date of the conveyance either—[^key-4267a667b870cbd78b4ef08441fb0915]
+(6) Where a bankruptcy application or[^c-bc721e7770fdeaf1f83e6e26759706c0] petition in bankruptcy has been registered under section 5 above, the title of the trustee in bankruptcy shall be void as against a purchaser of a legal estate in good faith for money or money’s worth . . . [^c8234701] claiming under a conveyance made after the date of registration, unless at the date of the conveyance either—[^c-4267a667b870cbd78b4ef08441fb0915]
 
 - (a) the registration of the application or the petition is in force; or
 - (b) a receiving order on the application or the petition is registered under this  section.
 
-### 7. The register of deeds of arrangement affecting land.[^key-7d6146682d2622e0ce2c52028df974b0]
+### 7. The register of deeds of arrangement affecting land.[^c-7d6146682d2622e0ce2c52028df974b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -312,11 +312,11 @@ A solicitor, or a trustee, personal representative, agent or other person in a f
 
 ### 14. Exclusion of matters affecting registered land or created by instruments necessitating registration of land.
 
-(1) This Act shall not apply to instruments or matters required to be registered or re-registered on or after 1st January 1926, if and so far as they affect registered land, and can be protected under the Land Registration Act 2002[^key-e788f635cb6793c3884c2fc512be25ed].
+(1) This Act shall not apply to instruments or matters required to be registered or re-registered on or after 1st January 1926, if and so far as they affect registered land, and can be protected under the Land Registration Act 2002[^c-e788f635cb6793c3884c2fc512be25ed].
 
 (2) Nothing in this Act imposes on the registrar any obligation to ascertain whether or not an instrument or matter affects registered land.
 
-(3) Where an instrument executed on or after 27th July 1971 conveys, grants or assigns an estate in land and creates a land charge affecting that estate, this Act shall not apply to the land charge, so far as it affects that estate, if under section 7 of the Land Registration Act 2002 (effect of failure to comply with requirement of registration)[^key-27fdb8f5d6cfb5c373c773e605797a95] the instrument will, unless the necessary application for registration under that Act is made within the time allowed by or under section 6 of that Act[^key-7e4a180a3110e3643092ff3779e71e38] , become void so far as respects the conveyance, grant or assignment of that estate.
+(3) Where an instrument executed on or after 27th July 1971 conveys, grants or assigns an estate in land and creates a land charge affecting that estate, this Act shall not apply to the land charge, so far as it affects that estate, if under section 7 of the Land Registration Act 2002 (effect of failure to comply with requirement of registration)[^c-27fdb8f5d6cfb5c373c773e605797a95] the instrument will, unless the necessary application for registration under that Act is made within the time allowed by or under section 6 of that Act[^c-7e4a180a3110e3643092ff3779e71e38] , become void so far as respects the conveyance, grant or assignment of that estate.
 
 ### 15. Application to the Crown.
 
@@ -326,7 +326,7 @@ A solicitor, or a trustee, personal representative, agent or other person in a f
 
 ### 16. General rules.[^c8234811]
 
-(1)[^key-f40ea012fe8ab95ce9e15998a09f2162] The Secretary of State[^key-383c8ce895f83e740c056d05572eea91] may, with the concurrence of the Treasury as to fees, make such general rules as may be required for carrying this Act into effect, and in particular—
+(1)[^c-f40ea012fe8ab95ce9e15998a09f2162] The Secretary of State[^c-383c8ce895f83e740c056d05572eea91] may, with the concurrence of the Treasury as to fees, make such general rules as may be required for carrying this Act into effect, and in particular—
 
 - (a) as to forms and contents of applications for registration, modes of identifying where practicable the land affected, requisitions for and certificates of official searches, and regulating the practice of the registry in connection therewith;
 - (b) for providing for the mode of registration of a land charge (and in the case of a puisne mortgage, general equitable charge, estate contract, restrictive covenant or equitable easement by reference to the instrument imposing or creating the charge, interest or restriction, or an extract from that instrument) and for the cancellation without an order of court of the registration of a land charge, on its cesser, or with the consent of the person entitled to it, or on sufficient evidence being furnished that the land charge has been overreached under the provisions of any Act or otherwise;
@@ -339,7 +339,7 @@ A solicitor, or a trustee, personal representative, agent or other person in a f
 - (j) for requiring the registrar to take steps in relation to any instrument or matter in respect of which compensation has been claimed under section 25 of the [^c8234821]Law of Property Act 1969 which would be likely to bring that instrument or matter to the notice of any person who subsequently makes a search of the registers kept under section 1 of this Act or requires such a search to be made in relation to the estate or interest affected by the instrument or matter; and
 - (k) for authorising the use of the index kept under this Act in any manner which will serve that purpose, notwithstanding that its use in that manner is not otherwise authorised by or by virtue of this Act.
 
-(2) The power [^key-d4d6570be062bf8200496eda568af8e0]... to make rules under section[^c8234831]412 of the Insolvency Act 1986[^c8234841] shall include power to make rules as respects the registration and re-registration of a bankruptcy application or[^key-eff9a05303d09b82bf4986c1b8a44a8a] petition in bankruptcy under section 5 of this Act and a bankruptcy order under section 6 of this Act, as if the registration and re-registration were required by Parts VIII to XI of that Act
+(2) The power [^c-d4d6570be062bf8200496eda568af8e0]... to make rules under section[^c8234831]412 of the Insolvency Act 1986[^c8234841] shall include power to make rules as respects the registration and re-registration of a bankruptcy application or[^c-eff9a05303d09b82bf4986c1b8a44a8a] petition in bankruptcy under section 5 of this Act and a bankruptcy order under section 6 of this Act, as if the registration and re-registration were required by Parts VIII to XI of that Act
 
 ### 17. Interpretation.
 
@@ -349,7 +349,7 @@ A solicitor, or a trustee, personal representative, agent or other person in a f
 - “**the Board**” means the Commissioners of Inland Revenue;
 - “**conveyance**” includes a mortgage, charge, lease, assent, vesting declaration, vesting instrument, release and every other assurance of property, or of an interest in property, by any instrument except a will, and “**convey**” has a corresponding meaning;
 - “**court**” means the High Court, or the county court in a case where that court has jurisdiction;
-- [^key-f85b322654511639fc5b5dd644361e70]...
+- [^c-f85b322654511639fc5b5dd644361e70]...
 - “**estate owner**”, “**legal estate**”, “**equitable interest**”, [^c8234961]. . ., “**charge by way of legal mortgage**”, and “[^c8234971]**will**” have the same meanings as in the [^c8234981]Law of Property Act 1925;
 - “**judgment**” includes any order or decree having the effect of a judgment;
 - “**land**” includes land of any tenure and mines and minerals, whether or not severed from the surface, buildings or parts of buildings (whether the division is horizontal, vertical or made in any other way) and other corporeal hereditaments, also a manor, an advowson and a rent and other incorporeal hereditaments, and an easement, right, privilege or benefit in, over or derived from land, but not an undivided share in land, and “**hereditament**” means real property which, on an intestacy occurring before 1st January 1926, might have devolved on an heir;
@@ -357,7 +357,7 @@ A solicitor, or a trustee, personal representative, agent or other person in a f
 - “**pending land action**” means any action or proceeding pending in court relating to land or any interest in or charge on land;
 - “**prescribed**” means prescribed by rules made pursuant to this Act;
 - “**purchaser**” means any person (including a mortgagee or lessee) who, for valuable consideration, takes any interest in land or in a charge on land, and “**purchase**” has a corresponding meaning;
-- “**registrar**” means the Chief Land Registrar, “**registry**” means Her Majesty’s Land Registry, and “**registered land**” has the same meaning as in the Land Registration Act 2002[^key-3a92c9802e8af21ec092745ffdd5ecee] ;
+- “**registrar**” means the Chief Land Registrar, “**registry**” means Her Majesty’s Land Registry, and “**registered land**” has the same meaning as in the Land Registration Act 2002[^c-3a92c9802e8af21ec092745ffdd5ecee] ;
 - “**tenant for life**”, “**statutory owner**”, “**vesting instrument**” and “**settlement**” have the same meanings as in the [^c8235021]Settled Land Act 1925.
 
 (2) For the purposes of any provision in this Act requiring or authorising anything to be done at or delivered or sent to the registry, any reference to the registry shall, if the registrar so directs, be read as a reference to such office of the registry (whether in London or elsewhere) as may be specified in the direction.
@@ -372,7 +372,7 @@ A solicitor, or a trustee, personal representative, agent or other person in a f
 
 (3) The enactments specified in Schedule 5 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
 
-(4)[^key-08cf10cf3bbeec30fcf500edfb380c55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-08cf10cf3bbeec30fcf500edfb380c55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In so far as any entry in a register or instrument made or other thing whatsoever done under any enactment repealed by this Act could have been made or done under a corresponding provision in this Act, it shall have effect as if made or done under that corresponding provision; and for the purposes of this provision any entry in a register which under section 24 of the Land Charges Act 1925 had effect as if made under that Act shall, so far as may be necessary for the continuity of the law, be treated as made under this Act.
 
@@ -419,7 +419,7 @@ Section 2.
 | (c) The Landlord and Tenant Act 1927 (17 & 18 Geo. 5. c. 36) | Paragraph (7) of Schedule 1 (charge in respect of improvements to business premises). |
 | (d) The Land Drainage Act 1991(1991 c. 59)[^c8235131] | Section 34(2)[^c8235141] (charge in respect of sum paid in commutation of certain obligations to repair banks, water-courses etc). |
 | (e) The Tithe Act 1936 (26 Geo. 5 & 1 Edw. 8. c. 43) | Section 30(1) (charge for redemption of corn rents etc.). |
-| (f) [^key-1422307f769cac911238fd44c2b50255]... | [^key-1422307f769cac911238fd44c2b50255]. . . |
+| (f) [^c-1422307f769cac911238fd44c2b50255]... | [^c-1422307f769cac911238fd44c2b50255]. . . |
 | (g) The Agricultural Holdings Act 1948 | Section 74 (charge in respect of sums due to[^c8235151] occupier of agricultural holding).<br>. . . [^c8235161] |
 | (h) The Corn Rents Act 1963 (1963 c. 14) | Section 1(5) (charge under a scheme for the apportionment or redemption of corn rents or other payments in lieu of tithes). |
 | (i) The Agricultural Holdings Act 1986[^c8235171] | Section 85 (charges in respect of sums due to tenant of agricultural holding). |
@@ -544,21 +544,21 @@ Section 18.
 
     Act extended (1.1.1996) by [1995 c. 30](https://www.legislation.gov.uk/ukpga/1995/30), [s. 20(6)](https://www.legislation.gov.uk/ukpga/1995/30/section/20/6) (with [s. 26(1)(2)](https://www.legislation.gov.uk/ukpga/1995/30/section/26/1/2)); [S.I. 1996/2963](https://www.legislation.gov.uk/uksi/1996/2963), [art.2](https://www.legislation.gov.uk/uksi/1996/2963/article/2).
 
-[^key-a4dfadcd1f76213654ef78c9302f141d]: Modification: Act applied (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 248(2)(b)](https://www.legislation.gov.uk/ukpga/2002/29/section/248/2/b), [458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-a4dfadcd1f76213654ef78c9302f141d]: Modification: Act applied (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 248(2)(b)](https://www.legislation.gov.uk/ukpga/2002/29/section/248/2/b), [458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-9620c90ad2ecf264fd7a4673160a22eb]: Modification: Act applied (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 47(2)(b)](https://www.legislation.gov.uk/ukpga/2002/29/section/47/2/b), [458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
+[^c-9620c90ad2ecf264fd7a4673160a22eb]: Modification: Act applied (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 47(2)(b)](https://www.legislation.gov.uk/ukpga/2002/29/section/47/2/b), [458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
 
-[^key-5106ab8c6d2bbd8b8be6bb87a69e3817]: Modification: Act applied (31.12.2005) by [The Criminal Justice (International Co-operation) Act 1990 (Enforcement of Overseas Forfeiture Orders) Order 2005 (S.I. 2005/3180)](https://www.legislation.gov.uk/uksi/2005/3180), [art. 11(2)(a)](https://www.legislation.gov.uk/uksi/2005/3180/article/11/2/a)
+[^c-5106ab8c6d2bbd8b8be6bb87a69e3817]: Modification: Act applied (31.12.2005) by [The Criminal Justice (International Co-operation) Act 1990 (Enforcement of Overseas Forfeiture Orders) Order 2005 (S.I. 2005/3180)](https://www.legislation.gov.uk/uksi/2005/3180), [art. 11(2)(a)](https://www.legislation.gov.uk/uksi/2005/3180/article/11/2/a)
 
-[^key-a1e39686473bd6e3624190d8a6768e0b]: Modification: Act applied (1.1.2006) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (S.I. 2005/3181)](https://www.legislation.gov.uk/uksi/2005/3181), [arts. 14](https://www.legislation.gov.uk/uksi/2005/3181/article/14), 153
+[^c-a1e39686473bd6e3624190d8a6768e0b]: Modification: Act applied (1.1.2006) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (S.I. 2005/3181)](https://www.legislation.gov.uk/uksi/2005/3181), [arts. 14](https://www.legislation.gov.uk/uksi/2005/3181/article/14), 153
 
-[^key-9c71aa8281ada205b8558f451834ff58]: Modification: Act applied by S.I. 2005/3181, art. 141L (as inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3))
+[^c-9c71aa8281ada205b8558f451834ff58]: Modification: Act applied by S.I. 2005/3181, art. 141L (as inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3))
 
-[^key-baa362995e6c6db7c1ea92ada7f41040]: Modification: Act modified (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 17(1)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/17/1/a)
+[^c-baa362995e6c6db7c1ea92ada7f41040]: Modification: Act modified (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 17(1)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/17/1/a)
 
 [^c8233251]: Modification: S. 1 amended by [S.I. 1990/776](https://www.legislation.gov.uk/uksi/1990/776), [art. 4(1)(e)](https://www.legislation.gov.uk/uksi/1990/776/article/4/1/e)
 
-[^key-5b55514b70be48453b66357a5b4a207e]: Textual amendment: S. 1(1)(d) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(7)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/7/a) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-5b55514b70be48453b66357a5b4a207e]: Textual amendment: S. 1(1)(d) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(7)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/7/a) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
 
 [^c8233261]: Textual amendment: S. 1(3)(3A) substituted for section 1(3) (with savings) by [Local Land Charges Act 1975 (c.76, SIF 98:2)](https://www.legislation.gov.uk/ukpga/1975/76) ss. 17(1)(a), 19(2)–(4),
 
@@ -566,13 +566,13 @@ Section 18.
 
 [^c8233281]: Textual amendment: S. 1(6A) substituted (1. 7. 1991) (for s. 1(6A) which was inserted by [County Courts Act 1984 (c. 28, SIF 34)](https://www.legislation.gov.uk/ukpga/1984/28), [s. 148(1)](https://www.legislation.gov.uk/ukpga/1984/28/section/148/1), [Sch. 2 Pt. IV](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/part/IV)) by [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), [art. 2(8)](https://www.legislation.gov.uk/uksi/1991/724/article/2/8), [Sch Pt. I](https://www.legislation.gov.uk/uksi/1991/724/schedule/part/I)
 
-[^key-3d2ee0661a59d36da9073975627c1db0]: Textual amendment: Words in s. 1(6A) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 97](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/97); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-3d2ee0661a59d36da9073975627c1db0]: Textual amendment: Words in s. 1(6A) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 97](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/97); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c8233291]: Textual amendment: Words in s. 1(6A)(d) inserted (1.10.1997) by [1996 c. 27](https://www.legislation.gov.uk/ukpga/1996/27), [s. 66(1)](https://www.legislation.gov.uk/ukpga/1996/27/section/66/1), [Sch. 8 Pt. III para. 46(a)](https://www.legislation.gov.uk/ukpga/1996/27/schedule/8/part/III/paragraph/46/a) (with [Sch. 9 paras. 5](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9/paragraph/5), [8-10](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9/paragraph/8)); [S.I. 1997/1892](https://www.legislation.gov.uk/uksi/1997/1892), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/1997/1892/article/3/1/b).
 
 [^c8233301]: Textual amendment: Words in s. 1(6A)(d) substituted (1.10.1997) by [1996 c. 27](https://www.legislation.gov.uk/ukpga/1996/27), [s. 66(1)](https://www.legislation.gov.uk/ukpga/1996/27/section/66/1), [Sch. 8 Pt. III para. 46(b)](https://www.legislation.gov.uk/ukpga/1996/27/schedule/8/part/III/paragraph/46/b) (with [Sch. 9 paras. 5](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9/paragraph/5), [8-10](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9/paragraph/8)); [S.I. 1997/1892](https://www.legislation.gov.uk/uksi/1997/1892), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/1997/1892/article/3/1/b).
 
-[^key-c86b123285fd09f034b2a1e11ec089b1]: Textual amendment: S. 1(6A)(e) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(7)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/7/a) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-c86b123285fd09f034b2a1e11ec089b1]: Textual amendment: S. 1(6A)(e) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(7)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/7/a) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
 
 [^c8233311]: Textual amendment: S. 1(6B) (which was inserted by [County Courts Act 1984 (c. 28, SIF 34)](https://www.legislation.gov.uk/ukpga/1984/28), [s. 148(1)](https://www.legislation.gov.uk/ukpga/1984/28/section/148/1), [Sch. 2 Pt. IV](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/part/IV)) omitted (1. 7. 1991) by virtue of [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), [art. 2(8)](https://www.legislation.gov.uk/uksi/1991/724/article/2/8), [Sch Pt. I](https://www.legislation.gov.uk/uksi/1991/724/schedule/part/I)
 
@@ -620,11 +620,11 @@ Section 18.
 
 [^c8233981]: Marginal citation: [1948 c. 38](https://www.legislation.gov.uk/ukpga/1948/38).
 
-[^key-382199e9e90d0d1e784c5a96892226b4]: Textual amendment: Words in s. 3(8) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/23) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-382199e9e90d0d1e784c5a96892226b4]: Textual amendment: Words in s. 3(8) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/23) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c8234151]: Modification: S. 4 extended (1.12.1991) by [Water Resources Act 1991 (c. 57, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/57), [ss. 158(4)(b)](https://www.legislation.gov.uk/ukpga/1991/57/section/158/4/b), [225(2)(3)](https://www.legislation.gov.uk/ukpga/1991/57/section/225/2/3) (with [ss. 16(6)](https://www.legislation.gov.uk/ukpga/1991/57/section/16/6), [178](https://www.legislation.gov.uk/ukpga/1991/57/section/178), [179](https://www.legislation.gov.uk/ukpga/1991/57/section/179), [182](https://www.legislation.gov.uk/ukpga/1991/57/section/182), [222(3)](https://www.legislation.gov.uk/ukpga/1991/57/section/222/3), [224(1)](https://www.legislation.gov.uk/ukpga/1991/57/section/224/1), [Sch. 22 paras. 1](https://www.legislation.gov.uk/ukpga/1991/57/schedule/22/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/1991/57/schedule/22/paragraph/2), [4](https://www.legislation.gov.uk/ukpga/1991/57/schedule/22/paragraph/4), [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/1991/57/schedule/23/paragraph/6))
 
-[^key-9fa4c885eaef994a8ca37f68412a2845]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1972/61/section/4) applied (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 17(1)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/17/1/b), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
+[^c-9fa4c885eaef994a8ca37f68412a2845]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1972/61/section/4) applied (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 17(1)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/17/1/b), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
 
 [^c8234161]: Modification: S. 4(6) modified by [Housing Act 1985 (c.68, SIF 61)](https://www.legislation.gov.uk/ukpga/1985/68), [Sch. 9A para. 6(2)](https://www.legislation.gov.uk/ukpga/1985/68/schedule/9A/paragraph/6/2) (as inserted by [Housing and Planning Act 1986 (c.63, SIF 61)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 8(2)](https://www.legislation.gov.uk/ukpga/1986/63/section/8/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/63/schedule/2))
 
@@ -634,19 +634,19 @@ Section 18.
 
 [^c8234191]: Textual amendment: Words substituted by [Capital Transfer Tax Act 1984 (c. 51, SIF 65)](https://www.legislation.gov.uk/ukpga/1984/51), [s. 276](https://www.legislation.gov.uk/ukpga/1984/51/section/276), [Sch. 8 para. 3(2)](https://www.legislation.gov.uk/ukpga/1984/51/schedule/8/paragraph/3/2)
 
-[^key-db2333ecd20c17acec2959fe428c67bd]: Textual amendment: [S. 5(1)(c)](https://www.legislation.gov.uk/ukpga/1972/61/section/5/1/c) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/2/a/i)
+[^c-db2333ecd20c17acec2959fe428c67bd]: Textual amendment: [S. 5(1)(c)](https://www.legislation.gov.uk/ukpga/1972/61/section/5/1/c) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/2/a/i)
 
-[^key-b0651c3e1f3a497706cb1467eea362fd]: Textual amendment: Word in [s. 5(3)(a)](https://www.legislation.gov.uk/ukpga/1972/61/section/5/3/a) omitted (6.4.2016) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/2/b/i)
+[^c-b0651c3e1f3a497706cb1467eea362fd]: Textual amendment: Word in [s. 5(3)(a)](https://www.legislation.gov.uk/ukpga/1972/61/section/5/3/a) omitted (6.4.2016) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/2/b/i)
 
-[^key-71f70f1b2ef4cc337469828da7d65467]: Textual amendment: Word in [s. 5(3)(b)](https://www.legislation.gov.uk/ukpga/1972/61/section/5/3/b) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/2/b/ii)
+[^c-71f70f1b2ef4cc337469828da7d65467]: Textual amendment: Word in [s. 5(3)(b)](https://www.legislation.gov.uk/ukpga/1972/61/section/5/3/b) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/2/b/ii)
 
-[^key-95078e4a85be1883263bb98a73b72ee2]: Textual amendment: [S. 5(3)(c)](https://www.legislation.gov.uk/ukpga/1972/61/section/5/3/c) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/2/b/iii)
+[^c-95078e4a85be1883263bb98a73b72ee2]: Textual amendment: [S. 5(3)(c)](https://www.legislation.gov.uk/ukpga/1972/61/section/5/3/c) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/2/b/iii)
 
 [^c8234241]: Textual amendment: S. 5(4A) inserted (1.7.1995) by [1994 c. 36](https://www.legislation.gov.uk/ukpga/1994/36), [ss. 15(3)(5)](https://www.legislation.gov.uk/ukpga/1994/36/section/15/3), [20](https://www.legislation.gov.uk/ukpga/1994/36/section/20); [S.I. 1995/1317](https://www.legislation.gov.uk/uksi/1995/1317), [art.2](https://www.legislation.gov.uk/uksi/1995/1317/article/2).
 
-[^key-a9ce8cadc57d263b8a6d6059143801b1]: Textual amendment: [S. 5(6A)](https://www.legislation.gov.uk/ukpga/1972/61/section/5/6A) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(2)(c)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/2/c)
+[^c-a9ce8cadc57d263b8a6d6059143801b1]: Textual amendment: [S. 5(6A)](https://www.legislation.gov.uk/ukpga/1972/61/section/5/6A) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(2)(c)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/2/c)
 
-[^key-9e738059ed2c6823a3c6ba2410d8afd4]: Textual amendment: Words in [s. 5(8)](https://www.legislation.gov.uk/ukpga/1972/61/section/5/8) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(2)(d)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/2/d)
+[^c-9e738059ed2c6823a3c6ba2410d8afd4]: Textual amendment: Words in [s. 5(8)](https://www.legislation.gov.uk/ukpga/1972/61/section/5/8) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(2)(d)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/2/d)
 
 [^c8234251]: Textual amendment: Words repealed by [Insolvency Act 1985 (c.65, SIF 66)](https://www.legislation.gov.uk/ukpga/1985/65), [s. 235(1)(3)](https://www.legislation.gov.uk/ukpga/1985/65/section/235/1), [Sch. 8 para. 21(2)](https://www.legislation.gov.uk/ukpga/1985/65/schedule/8/paragraph/21/2), [Sch. 10 Pt. III](https://www.legislation.gov.uk/ukpga/1985/65/schedule/10/part/III) (with saving in [Insolvency Act 1986 (c.45, SIF 66)](https://www.legislation.gov.uk/ukpga/1986/45), [s. 437](https://www.legislation.gov.uk/ukpga/1986/45/section/437), [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/1986/45/schedule/11/paragraph/10))
 
@@ -676,19 +676,19 @@ Section 18.
 
 [^c8234671]: Textual amendment: Words substituted by [Supreme Court Act 1981 (c.54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(1)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1981/54/schedule/5)
 
-[^key-e99ba86583bf3d5320dd248a2de66907]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-e99ba86583bf3d5320dd248a2de66907]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c8234681]: Textual amendment: Words substituted by [County Courts Act 1984 (c.28, SIF 34)](https://www.legislation.gov.uk/ukpga/1984/28), [s. 148(1)](https://www.legislation.gov.uk/ukpga/1984/28/section/148/1), [Sch. 2 Pt. IV para. 18](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/part/IV/paragraph/18)
 
 [^c8234691]: Textual amendment: S. 6(5) substituted by [Insolvency Act 1985 (c.65, SIF 66)](https://www.legislation.gov.uk/ukpga/1985/65), [s. 235(1)](https://www.legislation.gov.uk/ukpga/1985/65/section/235/1), [Sch. 8 para. 21(3)(c)](https://www.legislation.gov.uk/ukpga/1985/65/schedule/8/paragraph/21/3/c) (with saving in [Insolvency Act 1986 (c.45, SIF 66)](https://www.legislation.gov.uk/ukpga/1986/45), [s. 437](https://www.legislation.gov.uk/ukpga/1986/45/section/437), [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/1986/45/schedule/11/paragraph/10))
 
-[^key-bc721e7770fdeaf1f83e6e26759706c0]: Textual amendment: Words in s. 6(6) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/3/a)
+[^c-bc721e7770fdeaf1f83e6e26759706c0]: Textual amendment: Words in s. 6(6) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/3/a)
 
 [^c8234701]: Textual amendment: Words repealed by [Insolvency Act 1985 (c.65, SIF 66)](https://www.legislation.gov.uk/ukpga/1985/65), [s. 235(1)(3)](https://www.legislation.gov.uk/ukpga/1985/65/section/235/1/3), [Sch. 8 para. 21(3)(d)](https://www.legislation.gov.uk/ukpga/1985/65/schedule/8/paragraph/21/3/d), [Sch. 10 Pt. III](https://www.legislation.gov.uk/ukpga/1985/65/schedule/10/part/III) (with saving in [Insolvency Act 1986 (c.45, SIF 66)](https://www.legislation.gov.uk/ukpga/1986/45), [s. 437](https://www.legislation.gov.uk/ukpga/1986/45/section/437), [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/1986/45/schedule/11/paragraph/10))
 
-[^key-4267a667b870cbd78b4ef08441fb0915]: Textual amendment: Words in s. 6(6) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/3/b)
+[^c-4267a667b870cbd78b4ef08441fb0915]: Textual amendment: Words in s. 6(6) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/3/b)
 
-[^key-7d6146682d2622e0ce2c52028df974b0]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1972/61/section/7) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(7)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/7/b) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-7d6146682d2622e0ce2c52028df974b0]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1972/61/section/7) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(7)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/7/b) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
 
 [^c8234751]: Modification: S. 12 extended (1.1.1992) by [Administration of Justice Act 1985 (c. 61, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1985/61), [s. 9](https://www.legislation.gov.uk/ukpga/1985/61/section/9), [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/1985/61/schedule/2/paragraph/37)(*c*); [S.I. 1991/2683](https://www.legislation.gov.uk/uksi/1991/2683), [art.2](https://www.legislation.gov.uk/uksi/1991/2683/article/2)
 
@@ -696,31 +696,31 @@ Section 18.
 
 [^c8234741]: Modification: S. 12 extended by [Administration of Justice Act 1985 (c.61, SIF 98:1)](https://www.legislation.gov.uk/ukpga/1985/61), [s. 34(2)](https://www.legislation.gov.uk/ukpga/1985/61/section/34/2)(*c*)
 
-[^key-e788f635cb6793c3884c2fc512be25ed]: Textual amendment: Words in s. 14(1) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 10(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/10/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-e788f635cb6793c3884c2fc512be25ed]: Textual amendment: Words in s. 14(1) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 10(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/10/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
-[^key-27fdb8f5d6cfb5c373c773e605797a95]: Textual amendment: Words in s. 14(3) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/10/3/a) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-27fdb8f5d6cfb5c373c773e605797a95]: Textual amendment: Words in s. 14(3) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/10/3/a) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
-[^key-7e4a180a3110e3643092ff3779e71e38]: Textual amendment: Words in s. 14(3) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/10/3/b) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-7e4a180a3110e3643092ff3779e71e38]: Textual amendment: Words in s. 14(3) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/10/3/b) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c8234801]: Marginal citation: [1922 c. 16](https://www.legislation.gov.uk/ukpga/1922/16).
 
 [^c8234811]: Modification: S.16 extended (1.10.1997) by [1996 c. 27](https://www.legislation.gov.uk/ukpga/1996/27), [s. 32](https://www.legislation.gov.uk/ukpga/1996/27/section/32), [Sch. 4 para. 4(6)](https://www.legislation.gov.uk/ukpga/1996/27/schedule/4/paragraph/4/6) (with [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9/paragraph/5)); [S.I. 1997/1892](https://www.legislation.gov.uk/uksi/1997/1892), [art.3(a)](https://www.legislation.gov.uk/uksi/1997/1892/article/3/a).
 
-[^key-f40ea012fe8ab95ce9e15998a09f2162]: Modification: S. 16(1) functions transferred (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/2436/schedule/1/paragraph/2)
+[^c-f40ea012fe8ab95ce9e15998a09f2162]: Modification: S. 16(1) functions transferred (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/2436/schedule/1/paragraph/2)
 
-[^key-383c8ce895f83e740c056d05572eea91]: Textual amendment: Words in s. 16(1) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/3)
+[^c-383c8ce895f83e740c056d05572eea91]: Textual amendment: Words in s. 16(1) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/3)
 
 [^c8234821]: Marginal citation: [1969 c. 59](https://www.legislation.gov.uk/ukpga/1969/59).
 
-[^key-d4d6570be062bf8200496eda568af8e0]: Textual amendment: Words in s. 16(2) repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 75](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/75), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e), [30(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/b)
+[^c-d4d6570be062bf8200496eda568af8e0]: Textual amendment: Words in s. 16(2) repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 75](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/75), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e), [30(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/b)
 
 [^c8234831]: Textual amendment: Words substituted by [Insolvency Act 1985 (c.65, SIF 66)](https://www.legislation.gov.uk/ukpga/1985/65), [s. 235(1)](https://www.legislation.gov.uk/ukpga/1985/65/section/235/1), [Sch. 8 para. 21(4)](https://www.legislation.gov.uk/ukpga/1985/65/schedule/8/paragraph/21/4) (with saving in [Insolvency Act 1986 (c.45, SIF 66)](https://www.legislation.gov.uk/ukpga/1986/45), [s. 437](https://www.legislation.gov.uk/ukpga/1986/45/section/437), [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/1986/45/schedule/11/paragraph/10))
 
 [^c8234841]: Textual amendment: Words substituted by [Insolvency Act 1986 (c. 45, SIF 66)](https://www.legislation.gov.uk/ukpga/1986/45), [s. 439(2)](https://www.legislation.gov.uk/ukpga/1986/45/section/439/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1986/45/schedule/14)
 
-[^key-eff9a05303d09b82bf4986c1b8a44a8a]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/ukpga/1972/61/section/16/2) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/4)
+[^c-eff9a05303d09b82bf4986c1b8a44a8a]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/ukpga/1972/61/section/16/2) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/4/4)
 
-[^key-f85b322654511639fc5b5dd644361e70]: Textual amendment: Words in s. 17(1) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(7)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/7/c) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-f85b322654511639fc5b5dd644361e70]: Textual amendment: Words in s. 17(1) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(7)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/7/c) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
 
 [^c8234961]: Textual amendment: Definition in s. 17(1) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch.4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art.2](https://www.legislation.gov.uk/uksi/1996/2974/article/2).
 
@@ -732,13 +732,13 @@ Section 18.
 
 [^c8235001]: Marginal citation: [1899 c. 46](https://www.legislation.gov.uk/ukpga/1899/46).
 
-[^key-3a92c9802e8af21ec092745ffdd5ecee]: Textual amendment: Words in s. 17(1) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 10(4)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/10/4) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-3a92c9802e8af21ec092745ffdd5ecee]: Textual amendment: Words in s. 17(1) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 10(4)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/10/4) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c8235021]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18).
 
 [^c8235031]: Textual amendment: S. 18(2) repealed (with savings) by [Local Land Charges Act 1975 (c.76, SIF 98:2)](https://www.legislation.gov.uk/ukpga/1975/76) s. 19, Sch. 2
 
-[^key-08cf10cf3bbeec30fcf500edfb380c55]: Textual amendment: S. 18(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
+[^c-08cf10cf3bbeec30fcf500edfb380c55]: Textual amendment: S. 18(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
 
 [^c8235051]: Marginal citation: [1889 c. 63](https://www.legislation.gov.uk/ukpga/1889/63).
 
@@ -746,7 +746,7 @@ Section 18.
 
 [^c8235141]: Textual amendment: Words in Sch. 2 para. 1(d) substituted (1.12.1991) by virtue of [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 2](https://www.legislation.gov.uk/ukpga/1991/60/section/2), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 1 para. 21(b)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/21/b)
 
-[^key-1422307f769cac911238fd44c2b50255]: Textual amendment: [Sch. 2 para. 1(f)](https://www.legislation.gov.uk/ukpga/1972/61/schedule/2/paragraph/1/f) repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
+[^c-1422307f769cac911238fd44c2b50255]: Textual amendment: [Sch. 2 para. 1(f)](https://www.legislation.gov.uk/ukpga/1972/61/schedule/2/paragraph/1/f) repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
 
 [^c8235151]: Textual amendment: Words substituted by [Agricultural Holdings Act 1986 (c.5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [ss. 99](https://www.legislation.gov.uk/ukpga/1986/5/section/99), [100](https://www.legislation.gov.uk/ukpga/1986/5/section/100), [101](https://www.legislation.gov.uk/ukpga/1986/5/section/101), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1986/5/schedule/13/paragraph/3), [Sch. 14 para. 51(1)(2)](https://www.legislation.gov.uk/ukpga/1986/5/schedule/14/paragraph/51/1/2), [Sch. 15 Pt. I](https://www.legislation.gov.uk/ukpga/1986/5/schedule/15/part/I)
 

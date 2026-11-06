@@ -43,12 +43,12 @@ the Secretary of State is to treat the claimant as possessing such earnings (if 
 - (d) to a claimant who is participating in a work placement approved in writing by the Secretary of State before the placement starts;
 - (e) in sub-paragraph (d) “**work placement**” means practical work experience with an employer, which is neither paid nor undertaken in expectation of payment.
 
-(5)[^key-9a2616f9c9dffdf5faa3c44a32547a90] Paragraphs (1) and (3) do not apply in respect of any amount of income other than earnings, or earnings derived from employment as an employed earner, arising out of the claimant participating as a service user[^key-939a14bce1f0202cabfd1be51bc94a47].
+(5)[^c-9a2616f9c9dffdf5faa3c44a32547a90] Paragraphs (1) and (3) do not apply in respect of any amount of income other than earnings, or earnings derived from employment as an employed earner, arising out of the claimant participating as a service user[^c-939a14bce1f0202cabfd1be51bc94a47].
 
 ## Annotations
 
 [^c1918962]: Textual amendment: Regulation 75 was substituted by [S.I. 1997/2863](https://www.legislation.gov.uk/uksi/1997/2863).
 
-[^key-9a2616f9c9dffdf5faa3c44a32547a90]: Textual amendment: Reg. 108(5) added (for specified purposes and with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/2/d), [11(10)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/10)
+[^c-9a2616f9c9dffdf5faa3c44a32547a90]: Textual amendment: Reg. 108(5) added (for specified purposes and with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/2/d), [11(10)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/10)
 
-[^key-939a14bce1f0202cabfd1be51bc94a47]: Textual amendment: Words in reg. 108(5) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [13(30)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/13/30)
+[^c-939a14bce1f0202cabfd1be51bc94a47]: Textual amendment: Words in reg. 108(5) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [13(30)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/13/30)

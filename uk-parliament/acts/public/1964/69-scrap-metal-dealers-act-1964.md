@@ -29,87 +29,87 @@ Scrap Metal Dealers Act 1964 (repealed)
 
 1964 c.69
 
-[^key-a23790f69f0ddfabf1fe3fbbe83b9bde]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a23790f69f0ddfabf1fe3fbbe83b9bde]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Registration of scrap metal dealers.[^key-a23790f69f0ddfabf1fe3fbbe83b9bde][^key-a23790f69f0ddfabf1fe3fbbe83b9bde]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Records of dealings.[^key-a23790f69f0ddfabf1fe3fbbe83b9bde][^key-a23790f69f0ddfabf1fe3fbbe83b9bde]
+## 1. Registration of scrap metal dealers.[^c-a23790f69f0ddfabf1fe3fbbe83b9bde][^c-a23790f69f0ddfabf1fe3fbbe83b9bde]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Special provisions as to records in certain cases.[^key-a23790f69f0ddfabf1fe3fbbe83b9bde][^key-a23790f69f0ddfabf1fe3fbbe83b9bde]
+## 2. Records of dealings.[^c-a23790f69f0ddfabf1fe3fbbe83b9bde][^c-a23790f69f0ddfabf1fe3fbbe83b9bde]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3A. Offence of buying scrap metal for cash Et ceteralaetc[^key-a23790f69f0ddfabf1fe3fbbe83b9bde][^key-a23790f69f0ddfabf1fe3fbbe83b9bde]
+## 3. Special provisions as to records in certain cases.[^c-a23790f69f0ddfabf1fe3fbbe83b9bde][^c-a23790f69f0ddfabf1fe3fbbe83b9bde]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Power for court to impose additional requirements on convicted dealers.[^key-a23790f69f0ddfabf1fe3fbbe83b9bde][^key-a23790f69f0ddfabf1fe3fbbe83b9bde]
+## 3A. Offence of buying scrap metal for cash Et ceteralaetc[^c-a23790f69f0ddfabf1fe3fbbe83b9bde][^c-a23790f69f0ddfabf1fe3fbbe83b9bde]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Notification of destruction of motor vehicles[^key-a23790f69f0ddfabf1fe3fbbe83b9bde][^key-a23790f69f0ddfabf1fe3fbbe83b9bde]
+## 4. Power for court to impose additional requirements on convicted dealers.[^c-a23790f69f0ddfabf1fe3fbbe83b9bde][^c-a23790f69f0ddfabf1fe3fbbe83b9bde]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Other offences relating to scrap metal.[^key-a23790f69f0ddfabf1fe3fbbe83b9bde][^key-a23790f69f0ddfabf1fe3fbbe83b9bde]
+## 4A. Notification of destruction of motor vehicles[^c-a23790f69f0ddfabf1fe3fbbe83b9bde][^c-a23790f69f0ddfabf1fe3fbbe83b9bde]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Rights of entry and inspection.[^key-a23790f69f0ddfabf1fe3fbbe83b9bde][^key-a23790f69f0ddfabf1fe3fbbe83b9bde]
+## 5. Other offences relating to scrap metal.[^c-a23790f69f0ddfabf1fe3fbbe83b9bde][^c-a23790f69f0ddfabf1fe3fbbe83b9bde]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Partnerships.[^key-a23790f69f0ddfabf1fe3fbbe83b9bde][^key-a23790f69f0ddfabf1fe3fbbe83b9bde]
+## 6. Rights of entry and inspection.[^c-a23790f69f0ddfabf1fe3fbbe83b9bde][^c-a23790f69f0ddfabf1fe3fbbe83b9bde]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Financial provisions.[^key-a23790f69f0ddfabf1fe3fbbe83b9bde][^key-a23790f69f0ddfabf1fe3fbbe83b9bde]
+## 7. Partnerships.[^c-a23790f69f0ddfabf1fe3fbbe83b9bde][^c-a23790f69f0ddfabf1fe3fbbe83b9bde]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Interpretation.[^key-a23790f69f0ddfabf1fe3fbbe83b9bde][^key-a23790f69f0ddfabf1fe3fbbe83b9bde]
+## 8. Financial provisions.[^c-a23790f69f0ddfabf1fe3fbbe83b9bde][^c-a23790f69f0ddfabf1fe3fbbe83b9bde]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Repeals.[^key-a23790f69f0ddfabf1fe3fbbe83b9bde][^key-a23790f69f0ddfabf1fe3fbbe83b9bde]
+## 9. Interpretation.[^c-a23790f69f0ddfabf1fe3fbbe83b9bde][^c-a23790f69f0ddfabf1fe3fbbe83b9bde]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Short title, commencement and extent.[^key-a23790f69f0ddfabf1fe3fbbe83b9bde][^key-a23790f69f0ddfabf1fe3fbbe83b9bde]
+## 10. Repeals.[^c-a23790f69f0ddfabf1fe3fbbe83b9bde][^c-a23790f69f0ddfabf1fe3fbbe83b9bde]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE — ENACTMENTS REPEALED[^key-a23790f69f0ddfabf1fe3fbbe83b9bde]
+## 11. Short title, commencement and extent.[^c-a23790f69f0ddfabf1fe3fbbe83b9bde][^c-a23790f69f0ddfabf1fe3fbbe83b9bde]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE — ENACTMENTS REPEALED[^c-a23790f69f0ddfabf1fe3fbbe83b9bde]
 
 **No longer in force.**
 
@@ -117,4 +117,4 @@ Scrap Metal Dealers Act 1964 (repealed)
 
 ## Annotations
 
-[^key-a23790f69f0ddfabf1fe3fbbe83b9bde]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1964/69) repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/a), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
+[^c-a23790f69f0ddfabf1fe3fbbe83b9bde]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1964/69) repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/a), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))

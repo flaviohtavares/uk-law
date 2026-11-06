@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171ZQ. Crown employment-Part 12ZB[^key-078e62575b12860a9390beadc9342127]
+## 171ZQ. Crown employment-Part 12ZB[^c-078e62575b12860a9390beadc9342127]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The provisions of this Part of this Act apply in relation to persons employed by
 
 ## Annotations
 
-[^key-078e62575b12860a9390beadc9342127]: Textual amendment: Pt. 12ZB inserted (8.12.2002) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 4](https://www.legislation.gov.uk/ukpga/2002/22/section/4), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/2)
+[^c-078e62575b12860a9390beadc9342127]: Textual amendment: Pt. 12ZB inserted (8.12.2002) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 4](https://www.legislation.gov.uk/ukpga/2002/22/section/4), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/2)

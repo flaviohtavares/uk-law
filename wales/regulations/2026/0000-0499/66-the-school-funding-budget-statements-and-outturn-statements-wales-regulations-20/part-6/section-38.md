@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Timing of publication of outturn statements[^key-1ee31aa0694a78cd3467ed06fe7011ca]
+## 38. Timing of publication of outturn statements[^c-1ee31aa0694a78cd3467ed06fe7011ca]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ An outturn statement must be published before 31 July following the end of the f
 
 ## Annotations
 
-[^key-1ee31aa0694a78cd3467ed06fe7011ca]: Commencement: Reg. 38 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-1ee31aa0694a78cd3467ed06fe7011ca]: Commencement: Reg. 38 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

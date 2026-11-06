@@ -54,7 +54,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 5(1) of that Act, the Secretary of State has consulted the Scottish Ministers, the Welsh Ministers and the Department of Health in Northern Ireland before making these Regulations.
 
-## 1. Citation, commencement and interpretation[^key-f02181a42ce56b432f7c991eeb60c065]
+## 1. Citation, commencement and interpretation[^c-f02181a42ce56b432f7c991eeb60c065]
 
 (1) These Regulations may be cited as the Healthcare (European Economic Area and Switzerland Arrangements) (EU Exit) Regulations 2019.
 
@@ -77,13 +77,13 @@ In accordance with section 5(1) of that Act, the Secretary of State has consulte
 - “**maternity application**” means an application for authorisation to travel to a member state (or another member state) for the purpose of receiving healthcare in connection with giving birth in that member state;
 - “**member state**” means an EEA state or Switzerland;
 - “**relevant health board**” means—
-  - (a) in relation to England and in relation to relevant persons, NHS England, the body corporate[^key-ab79b3a421effa8f32cafdba3ce7f504] established under section 1H of the National Health Service Act 2006 [^c23891281];
+  - (a) in relation to England and in relation to relevant persons, NHS England, the body corporate[^c-ab79b3a421effa8f32cafdba3ce7f504] established under section 1H of the National Health Service Act 2006 [^c23891281];
   - (b) in relation to Wales, a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006;
   - (c) in relation to Scotland, a Health Board constituted under section 2 of the National Health Service (Scotland) Act 1978 [^c23891291];
   - (d) in relation to Northern Ireland, the Regional Health and Social Care Board established under section 7 of the Health and Social Care (Reform) Act (Northern Ireland) 2009 [^c23891301]; and
 - “**relevant person**” means a person residing in a member state needing authorisation from the United Kingdom to travel to another member state for the purpose of receiving healthcare under a healthcare arrangement.
 
-## 2. Functions relating to healthcare payments and assisting the Secretary of State[^key-1998584df31e8dfd867a2bca7f080ab6]
+## 2. Functions relating to healthcare payments and assisting the Secretary of State[^c-1998584df31e8dfd867a2bca7f080ab6]
 
 Subject to, and in accordance with, such instructions as the Secretary of State may give, the Authority must—
 
@@ -93,13 +93,13 @@ Subject to, and in accordance with, such instructions as the Secretary of State 
   - (ii) functions in giving effect to healthcare arrangements; and
   - (iii) functions otherwise in connection with the provision of healthcare in a member state.
 
-## 3. Functions relating to transitional reciprocal arrangements[^key-47893e4255c833f622c354502945c54d]
+## 3. Functions relating to transitional reciprocal arrangements[^c-47893e4255c833f622c354502945c54d]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Functions relating to healthcare arrangements[^key-3f3d0be11b27ceefa25b5418609a27d7]
+## 4. Functions relating to healthcare arrangements[^c-3f3d0be11b27ceefa25b5418609a27d7]
 
 (1) The Authority must give effect to the obligations and commitments of the United Kingdom under any listed healthcare arrangements.
 
@@ -119,7 +119,7 @@ Subject to, and in accordance with, such instructions as the Secretary of State 
 
 (5) But the power in paragraph (4) does not include a power to give effect to a listed healthcare arrangement to the extent that doing so involves the exercise of a function exercisable by a devolved authority under regulation 6(3) or another enactment.
 
-## 5. Functions relating to information and advice[^key-1f6dc691b963c6722ed3b0b8651354aa]
+## 5. Functions relating to information and advice[^c-1f6dc691b963c6722ed3b0b8651354aa]
 
 (1) The Authority must establish and maintain a service making available to the public information and advice in relation to—
 
@@ -129,7 +129,7 @@ Subject to, and in accordance with, such instructions as the Secretary of State 
 
 (2) The service referred to in paragraph (1) may include information and advice in relation to such other matters relating to healthcare arrangements or in connection with the provision of healthcare in a member state as the Authority considers appropriate.
 
-## 6. Functions relating to authorisation for planned healthcare[^key-77566276b79eefaa132485f588d842a4]
+## 6. Functions relating to authorisation for planned healthcare[^c-77566276b79eefaa132485f588d842a4]
 
 (1) Relevant health boards must determine planned healthcare applications, and must do so in accordance with any listed healthcare arrangements.
 
@@ -147,11 +147,11 @@ Subject to, and in accordance with, such instructions as the Secretary of State 
 
 (4) In this regulation, “**planned healthcare application**” means an application for authorisation to travel to a member state (or another member state) for the purpose of receiving healthcare under a listed healthcare arrangement.
 
-## 7. Duty to act in accordance with healthcare arrangements[^key-27f3836e545b62eb50fc8e47d65279ca]
+## 7. Duty to act in accordance with healthcare arrangements[^c-27f3836e545b62eb50fc8e47d65279ca]
 
 Health service bodies must, when exercising functions and insofar as not already required by regulation 4 or 6, act in accordance with any listed healthcare arrangements.
 
-## 8. List of healthcare arrangements[^key-a73875445e7eeaff8e8e43da9077603f]
+## 8. List of healthcare arrangements[^c-a73875445e7eeaff8e8e43da9077603f]
 
 (1) The Secretary of State must maintain a list for the purposes of regulations 4 to 7 and 9.
 
@@ -168,7 +168,7 @@ Health service bodies must, when exercising functions and insofar as not already
 
 (6) The Secretary of State must publish the list and keep it up to date.
 
-## 9. Transitional provision[^key-5c9d19954dde679144a6374b2c6b66c5]
+## 9. Transitional provision[^c-5c9d19954dde679144a6374b2c6b66c5]
 
 (1) This paragraph applies where a listed healthcare arrangement makes provision as to rights, obligations or liabilities acquired, accrued or incurred under the arrangement before the arrangement end time.
 
@@ -235,7 +235,7 @@ An impact assessment has not been prepared for these Regulations. An assessment 
 
 [^c23891161]: Marginal citation: [2019 c. 14](https://www.legislation.gov.uk/ukpga/2019/14) (“**the 2019 Act**”).
 
-[^key-f02181a42ce56b432f7c991eeb60c065]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-f02181a42ce56b432f7c991eeb60c065]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23891171]: Marginal citation: “Exit day” is defined by Schedule 1 to the [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) (“**the 1978 Act**”).
 
@@ -259,7 +259,7 @@ An impact assessment has not been prepared for these Regulations. An assessment 
 
 [^c23891271]: Marginal citation: *See* section 3 of the 2019 Act as to the meaning of “healthcare agreement”.
 
-[^key-ab79b3a421effa8f32cafdba3ce7f504]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1293/regulation/1/3) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [102(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/102/2)
+[^c-ab79b3a421effa8f32cafdba3ce7f504]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1293/regulation/1/3) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [102(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/102/2)
 
 [^c23891281]: Marginal citation: Section 1H was inserted by the 2012 Act, section 9. Transitory modifications are made by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831).
 
@@ -267,18 +267,18 @@ An impact assessment has not been prepared for these Regulations. An assessment 
 
 [^c23891301]: Marginal citation: [2009 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1).
 
-[^key-1998584df31e8dfd867a2bca7f080ab6]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1998584df31e8dfd867a2bca7f080ab6]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-47893e4255c833f622c354502945c54d]: Textual amendment: Reg. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [18](https://www.legislation.gov.uk/uksi/2020/1348/regulation/18)
+[^c-47893e4255c833f622c354502945c54d]: Textual amendment: Reg. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [18](https://www.legislation.gov.uk/uksi/2020/1348/regulation/18)
 
-[^key-3f3d0be11b27ceefa25b5418609a27d7]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-3f3d0be11b27ceefa25b5418609a27d7]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-1f6dc691b963c6722ed3b0b8651354aa]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1f6dc691b963c6722ed3b0b8651354aa]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-77566276b79eefaa132485f588d842a4]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-77566276b79eefaa132485f588d842a4]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-27f3836e545b62eb50fc8e47d65279ca]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-27f3836e545b62eb50fc8e47d65279ca]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-a73875445e7eeaff8e8e43da9077603f]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-a73875445e7eeaff8e8e43da9077603f]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-5c9d19954dde679144a6374b2c6b66c5]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-5c9d19954dde679144a6374b2c6b66c5]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

@@ -28,7 +28,7 @@ summary: ''
 
 (4) Chapter 5 contains additional rules about the calculation of the profits of a property business.
 
-(5)[^key-037a18cf8b5465b9cb8b4e904636453e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-037a18cf8b5465b9cb8b4e904636453e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Chapters 7, 8 and 9 apply the charge to corporation tax on income to—
 
@@ -47,4 +47,4 @@ and contain related rules.
 
 ## Annotations
 
-[^key-037a18cf8b5465b9cb8b4e904636453e]: Textual amendment: [S. 202(5)](https://www.legislation.gov.uk/ukpga/2009/4/section/202/5) omitted (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 5(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/5/2), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-037a18cf8b5465b9cb8b4e904636453e]: Textual amendment: [S. 202(5)](https://www.legislation.gov.uk/ukpga/2009/4/section/202/5) omitted (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 5(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/5/2), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))

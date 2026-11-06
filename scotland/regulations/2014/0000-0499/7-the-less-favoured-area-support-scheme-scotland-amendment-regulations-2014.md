@@ -84,7 +84,7 @@ In Schedule 5 (rates of payment for less favoured area support)—
 - (a) in Part I (more disadvantaged land), in the second column of the table, after “Scheme 2013 payment”, insert “ , Scheme 2014 payment ”; and
 - (b) in Part II (less disadvantaged land), in the second column of the table, after “Scheme 2013 payment”, insert “ , Scheme 2014 payment ”.
 
-## 7. Amendment of the Rural Payments (Appeals) (Scotland) Regulations 2009[^key-d450218ab18835c6493070b359d21b9b]
+## 7. Amendment of the Rural Payments (Appeals) (Scotland) Regulations 2009[^c-d450218ab18835c6493070b359d21b9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -118,4 +118,4 @@ A business and regulatory impact assessment has not been prepared for this instr
 
 [^c21992091]: Marginal citation: [S.S.I. 2010/273](https://www.legislation.gov.uk/ssi/2010/273), amended by [S.S.I. 2011/73](https://www.legislation.gov.uk/ssi/2011/73), [S.S.I. 2012/24](https://www.legislation.gov.uk/ssi/2012/24) and [S.S.I. 2013/9](https://www.legislation.gov.uk/ssi/2013/9).
 
-[^key-d450218ab18835c6493070b359d21b9b]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/7/regulation/7) revoked (12.6.2015) by [The Rural Payments (Appeals) (Scotland) Regulations 2015 (S.S.I. 2015/194)](https://www.legislation.gov.uk/ssi/2015/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1), [11(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/1/b/ii) (with [reg. 11(2)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/3))
+[^c-d450218ab18835c6493070b359d21b9b]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/7/regulation/7) revoked (12.6.2015) by [The Rural Payments (Appeals) (Scotland) Regulations 2015 (S.S.I. 2015/194)](https://www.legislation.gov.uk/ssi/2015/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1), [11(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/1/b/ii) (with [reg. 11(2)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/3))

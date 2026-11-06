@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 103. Assessment of compensation: valuation date[^key-401dfcd1272b6b5f0bed92d375173791]
+## 103. Assessment of compensation: valuation date[^c-401dfcd1272b6b5f0bed92d375173791]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-401dfcd1272b6b5f0bed92d375173791]: Commencement: S. 103 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-401dfcd1272b6b5f0bed92d375173791]: Commencement: S. 103 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

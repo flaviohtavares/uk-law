@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Application of Act to Scotland: modifications[^key-f3ce7f6e8d264699c00c7231fa3f121e]
+## 236. Application of Act to Scotland: modifications[^c-f3ce7f6e8d264699c00c7231fa3f121e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The modifications set out in Schedule 12 have effect in the application of this 
 
 ## Annotations
 
-[^key-f3ce7f6e8d264699c00c7231fa3f121e]: Commencement: S. 236 in force at 6.4.2009 for S. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/400/article/4/c)
+[^c-f3ce7f6e8d264699c00c7231fa3f121e]: Commencement: S. 236 in force at 6.4.2009 for S. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/400/article/4/c)

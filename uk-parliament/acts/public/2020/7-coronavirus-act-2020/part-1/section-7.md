@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Temporary registration of social workers: Scotland[^key-07ac63d8a7966d5695cf5ee5c02e6604]
+## 7. Temporary registration of social workers: Scotland[^c-07ac63d8a7966d5695cf5ee5c02e6604]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07ac63d8a7966d5695cf5ee5c02e6604]: Textual amendment: S. 7 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-07ac63d8a7966d5695cf5ee5c02e6604]: Textual amendment: S. 7 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

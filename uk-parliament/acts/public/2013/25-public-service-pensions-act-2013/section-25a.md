@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Extension of schemes where definition of “the judiciary” expanded[^key-ded7c5b4d2e2001e6182be326d4f6c56]
+## 25A. Extension of schemes where definition of “the judiciary” expanded[^c-ded7c5b4d2e2001e6182be326d4f6c56]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ded7c5b4d2e2001e6182be326d4f6c56]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/2013/25/section/25A) inserted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 97(2)](https://www.legislation.gov.uk/ukpga/2022/7/section/97/2), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-ded7c5b4d2e2001e6182be326d4f6c56]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/2013/25/section/25A) inserted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 97(2)](https://www.legislation.gov.uk/ukpga/2022/7/section/97/2), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

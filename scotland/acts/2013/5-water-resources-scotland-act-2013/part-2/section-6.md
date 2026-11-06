@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Prohibition arising[^key-def8475757972396bdca61c2cf261081]
+## 6. Prohibition arising[^c-def8475757972396bdca61c2cf261081]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-def8475757972396bdca61c2cf261081]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2013/5/section/6) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-def8475757972396bdca61c2cf261081]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2013/5/section/6) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

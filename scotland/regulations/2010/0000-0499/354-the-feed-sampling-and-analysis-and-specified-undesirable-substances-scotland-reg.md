@@ -50,11 +50,11 @@ There has been consultation as required by section 84(1) of the Agriculture Act 
 
 ## PART 1 — General and introductory
 
-### 1. Citation, extent and commencement[^key-53dd520d15596af33182171915c8468d]
+### 1. Citation, extent and commencement[^c-53dd520d15596af33182171915c8468d]
 
 These Regulations may be cited as the Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010, extend to Scotland only and come into force on 15th November 2010.
 
-### 2. Interpretation[^key-0fd191568dacffdf02bd55a105766303]
+### 2. Interpretation[^c-0fd191568dacffdf02bd55a105766303]
 
 (1) In these Regulations—
 
@@ -68,7 +68,7 @@ These Regulations may be cited as the Feed (Sampling and Analysis and Specified 
 
 (3) Any reference to a numbered section is a reference to the section so numbered in the Act as modified by these Regulations.
 
-### 3. Prescribed metric substitution[^key-c1d914106f7342b9f2e6801f011d95a5]
+### 3. Prescribed metric substitution[^c-c1d914106f7342b9f2e6801f011d95a5]
 
 For the purposes of its application to feeding stuffs, the Act is to be read as if—
 
@@ -77,7 +77,7 @@ For the purposes of its application to feeding stuffs, the Act is to be read as 
 
 ## PART 2 — Miscellaneous requirements relating to sampling and analysis
 
-### 4. Methods of sending a final sample[^key-54905a08a1ab3a9b62cd104be6414216]
+### 4. Methods of sending a final sample[^c-54905a08a1ab3a9b62cd104be6414216]
 
 Any final sample required to be sent to any person pursuant to—
 
@@ -89,16 +89,16 @@ Any final sample required to be sent to any person pursuant to—
 
 may be sent by any appropriate method or delivered by hand.
 
-### 5. Qualifications of analysts[^key-43ce4b330a1ff04396e82066c018a845]
+### 5. Qualifications of analysts[^c-43ce4b330a1ff04396e82066c018a845]
 
-The prescribed qualifications for an analyst for the purposes of section 67A(7)[^key-9f513f4783593f1b7400389cec9edec3] (agricultural analyst and deputy agricultural analyst qualifications) in so far is it relates to feeding stuffs and the required qualifications for a person analysing feed for the purposes of the GM Feed Regulations are that—
+The prescribed qualifications for an analyst for the purposes of section 67A(7)[^c-9f513f4783593f1b7400389cec9edec3] (agricultural analyst and deputy agricultural analyst qualifications) in so far is it relates to feeding stuffs and the required qualifications for a person analysing feed for the purposes of the GM Feed Regulations are that—
 
 - (a) the person must—
   - (i) be a Chartered Chemist or possess a Mastership in Chemical Analysis awarded by the Royal Society of Chemistry; and
   - (ii) be a Fellow or Member of the Royal Society of Chemistry; and
-- (b) the person’s practical experience of the examination of feed must be attested by an analyst appointed under section 67A(2)(a)[^key-03168ff524605c85a20cc4f678e0eb1f] (appointment of agricultural analysts and deputy agricultural analysts).
+- (b) the person’s practical experience of the examination of feed must be attested by an analyst appointed under section 67A(2)(a)[^c-03168ff524605c85a20cc4f678e0eb1f] (appointment of agricultural analysts and deputy agricultural analysts).
 
-### 6. Analysis other than in the course of official controls[^key-21e3863a25a7fca13871ddf6472bc4b1]
+### 6. Analysis other than in the course of official controls[^c-21e3863a25a7fca13871ddf6472bc4b1]
 
 (1) Where a sample of feed is to be analysed pursuant to—
 
@@ -107,9 +107,9 @@ The prescribed qualifications for an analyst for the purposes of section 67A(7)[
 
 the method of analysis shall be the appropriate one, if any, set out in Regulation 152/2009.
 
-(2) In cases where there is no appropriate method of analysis in Regulation 152/2009, the analysis shall be carried out in the manner referred to in Article 34(2)(a) or, as appropriate, (b) of Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations[^key-c45d47354a56e2ccf2f1fcacaed84565] [(EC) No 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999), [(EC) No 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396), [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069), [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107), (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) and [(EC) No 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/european/directive/1998/0058), [1999/74/EC](https://www.legislation.gov.uk/european/directive/1999/0074), [2007/43/EC](https://www.legislation.gov.uk/european/directive/2007/0043), [2008/119/EC](https://www.legislation.gov.uk/european/directive/2008/0119) and [2008/120/EC](https://www.legislation.gov.uk/european/directive/2008/0120), and repealing Regulations [(EC) No 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/european/directive/1989/0608), [89/662/EEC](https://www.legislation.gov.uk/european/directive/1989/0662), [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425), [91/496/EEC](https://www.legislation.gov.uk/european/directive/1991/0496), [96/23/EC](https://www.legislation.gov.uk/european/directive/1996/0023), [96/93/EC](https://www.legislation.gov.uk/european/directive/1996/0093) and [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/european/decision/1992/0438).
+(2) In cases where there is no appropriate method of analysis in Regulation 152/2009, the analysis shall be carried out in the manner referred to in Article 34(2)(a) or, as appropriate, (b) of Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations[^c-c45d47354a56e2ccf2f1fcacaed84565] [(EC) No 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999), [(EC) No 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396), [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069), [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107), (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) and [(EC) No 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/european/directive/1998/0058), [1999/74/EC](https://www.legislation.gov.uk/european/directive/1999/0074), [2007/43/EC](https://www.legislation.gov.uk/european/directive/2007/0043), [2008/119/EC](https://www.legislation.gov.uk/european/directive/2008/0119) and [2008/120/EC](https://www.legislation.gov.uk/european/directive/2008/0120), and repealing Regulations [(EC) No 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/european/directive/1989/0608), [89/662/EEC](https://www.legislation.gov.uk/european/directive/1989/0662), [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425), [91/496/EEC](https://www.legislation.gov.uk/european/directive/1991/0496), [96/23/EC](https://www.legislation.gov.uk/european/directive/1996/0023), [96/93/EC](https://www.legislation.gov.uk/european/directive/1996/0093) and [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/european/decision/1992/0438).
 
-### 7. Form of certificate of analysis[^key-584ac0eb6d14f4711ed5940eb601ab01]
+### 7. Form of certificate of analysis[^c-584ac0eb6d14f4711ed5940eb601ab01]
 
 The certificate of analysis of any feed to be sent pursuant to—
 
@@ -121,11 +121,11 @@ must be in the form set out in Schedule 1 and must be completed in accordance wi
 
 ## PART 3 — Amendment and modification of other legislation with regard to sampling and analysis
 
-### 8. Amendment or modification of the Act[^key-f9b225c9daa862aeb746e26faf4b9af1]
+### 8. Amendment or modification of the Act[^c-f9b225c9daa862aeb746e26faf4b9af1]
 
 The Act is amended or as the case may be modified in accordance with regulations 9 to 20.
 
-### 9. Section 66 of the Act[^key-3aaa7fd74ea90df208680b0a1dbfb8e2]
+### 9. Section 66 of the Act[^c-3aaa7fd74ea90df208680b0a1dbfb8e2]
 
 In section 66(1) (interpretation of Part IV), insert at the appropriate place the following definitions:—
 
@@ -137,7 +137,7 @@ In section 66(1) (interpretation of Part IV), insert at the appropriate place 
 
 .
 
-### 10. Section 68 of the Act[^key-94bb80b94776f3f36cd901205bded64b]
+### 10. Section 68 of the Act[^c-94bb80b94776f3f36cd901205bded64b]
 
 Section 68 (duty of seller to give statutory statement) in so far as it applies in relation to feeding stuffs applies as if—
 
@@ -146,11 +146,11 @@ Section 68 (duty of seller to give statutory statement) in so far as it applies
   - (i) “final sample” were substituted for “sample taken from the portion in question”; and
   - (ii) “in accordance with Regulation 152/2009” were substituted for “in the prescribed manner”.
 
-### 11. Section 69 of the Act[^key-47ab133f17f1af2438de885990efbdbd]
+### 11. Section 69 of the Act[^c-47ab133f17f1af2438de885990efbdbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Section 70 of the Act[^key-3c48e01ef2e13a18b47551f37d442153]
+### 12. Section 70 of the Act[^c-3c48e01ef2e13a18b47551f37d442153]
 
 Section 70 (use of names or expressions with prescribed meanings) in so far as it applies in relation to feeding stuffs applies as if—
 
@@ -159,7 +159,7 @@ Section 70 (use of names or expressions with prescribed meanings) in so far as 
   - (i) “final sample” were substituted for “sampled portion”; and
   - (ii) “that sample” were substituted for “the sample taken from that portion”.
 
-### 13. Section 71 of the Act[^key-d7a52d42d65b3a754a4c21891017562e]
+### 13. Section 71 of the Act[^c-d7a52d42d65b3a754a4c21891017562e]
 
 Section 71 (particulars to be given of certain attributes if claimed to be present) in so far as it applies in relation to feeding stuffs applies as if—
 
@@ -168,19 +168,19 @@ Section 71 (particulars to be given of certain attributes if claimed to be pres
   - (i) “final sample” were substituted for “sampled portion”; and
   - (ii) “that sample” were substituted for “the sample taken from that portion”.
 
-### 14. Section 73 of the Act[^key-9e06a8cc78acfa296d73924c8871da1d]
+### 14. Section 73 of the Act[^c-9e06a8cc78acfa296d73924c8871da1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Section 73A of the Act[^key-a4cd0df4f62430b253c2424c3f1759c1]
+### 15. Section 73A of the Act[^c-a4cd0df4f62430b253c2424c3f1759c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Section 75 of the Act[^key-4290b00e8f315890cc13636c0b79c598]
+### 16. Section 75 of the Act[^c-4290b00e8f315890cc13636c0b79c598]
 
 Section 75 (purchaser’s right to have sample taken and analysed), in so far as it applies in relation to feeding stuffs, applies as if in subsection (1) “in accordance with Regulation 152/2009” were substituted for “in the prescribed manner”.
 
-### 17. Section 76 of the Act[^key-293f221fa8f3487f1e51b3ee8f4abbea]
+### 17. Section 76 of the Act[^c-293f221fa8f3487f1e51b3ee8f4abbea]
 
 Section 76 (inspector’s power to enter premises and take samples) in so far as it applies in relation to feeding stuffs applies as if—
 
@@ -191,7 +191,7 @@ Section 76 (inspector’s power to enter premises and take samples) in so far a
 
   .
 
-### 18. Section 77 of the Act[^key-21b845cb187eddccd515585fd95e666b]
+### 18. Section 77 of the Act[^c-21b845cb187eddccd515585fd95e666b]
 
 Section 77 (division of samples and analysis by agricultural analyst) in so far as it applies in relation to feeding stuffs applies as if—
 
@@ -222,7 +222,7 @@ Section 77 (division of samples and analysis by agricultural analyst) in so far
   - (iii) “in such manner, if any, as may be prescribed” were omitted; and
   - (iv) in paragraph (b) “subsection (1)(a)(ii)” were substituted for “subsection (1)(b)(ii)”.
 
-### 19. Section 78 of the Act[^key-5599d69d31c2265a1cb607c2d5e6604a]
+### 19. Section 78 of the Act[^c-5599d69d31c2265a1cb607c2d5e6604a]
 
 Section 78 (further analysis by Government Chemist) in so far as it applies in relation to feeding stuffs applies as if—
 
@@ -249,14 +249,14 @@ Section 78 (further analysis by Government Chemist) in so far as it applies in r
   - (i) “in such manner, if any, as may be prescribed any part of” were omitted; and
   - (ii) “the sample” were substituted for “the part”.
 
-### 20. Section 79 of the Act[^key-d50629f3ed3a13ca1f03683defbd5eb9]
+### 20. Section 79 of the Act[^c-d50629f3ed3a13ca1f03683defbd5eb9]
 
 Section 79 (supplementary provisions relating to samples and analysis) in so far as it applies in relation to feeding stuffs applies as if in subsection (3)—
 
 - (a) “is specified by Regulation 152/2009 or” were inserted after “quality of any material”; and
 - (b) “the method so specified or prescribed” were substituted for “the method prescribed”.
 
-### 21. Amendment of the Feed Hygiene Regulations[^key-e543137cfea1ed24deaf9c4091a7c4b9]
+### 21. Amendment of the Feed Hygiene Regulations[^c-e543137cfea1ed24deaf9c4091a7c4b9]
 
 (1) The Feed Hygiene Regulations are amended in accordance with paragraphs (2) to (6).
 
@@ -307,7 +307,7 @@ Section 79 (supplementary provisions relating to samples and analysis) in so far
 
 .
 
-### 22. Amendment of the GM Feed Regulations[^key-d00441f7a493de087b23fd307e45b884]
+### 22. Amendment of the GM Feed Regulations[^c-d00441f7a493de087b23fd307e45b884]
 
 (1) The GM Feed Regulations are amended in accordance with paragraphs (2) to (4).
 
@@ -317,13 +317,13 @@ Section 79 (supplementary provisions relating to samples and analysis) in so far
 
 (4) Omit regulation 7 (application of various provisions of the Feeding Stuffs (Sampling and Analysis) Regulations 1999).
 
-### 23. Amendment of the Official Feed and Food Controls Regulations (Scotland) Regulations 2009[^key-bebbd63e44e9d2d889688f3ee2a4dcdd]
+### 23. Amendment of the Official Feed and Food Controls Regulations (Scotland) Regulations 2009[^c-bebbd63e44e9d2d889688f3ee2a4dcdd]
 
 (1) The Official Feed and Food Controls (Scotland) Regulations 2009[^f00010] are amended in accordance with paragraph (2).
 
 (2) In Schedule 2 (definition of relevant feed law), in paragraph (b) for “the Feeding Stuffs (Sampling and Analysis) Regulations 1999” substitute “the Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010”.
 
-### 24. Revocations[^key-2623aebcc1e31c305d4de27aee5890d6]
+### 24. Revocations[^c-2623aebcc1e31c305d4de27aee5890d6]
 
 The following are revoked:—
 
@@ -337,7 +337,7 @@ The following are revoked:—
 
 ## PART 4 — Undesirable substances
 
-### 25. Amendment of the Feeding Stuffs (Scotland) Regulations 2005[^key-287d24b4c945d14b270d89c479e285fe]
+### 25. Amendment of the Feeding Stuffs (Scotland) Regulations 2005[^c-287d24b4c945d14b270d89c479e285fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -355,27 +355,27 @@ Edinburgh
 
 Regulation 7
 
-### PART I[^key-dc65fabfe55a1525653ef61a36809b88]
+### PART I[^c-dc65fabfe55a1525653ef61a36809b88]
 
 ### PART II — Notes for completion of certificate
 
-**1.**[^key-f635bdadae80acbddfead127efaeacbf] Insert the name of the local authority in whose area the sample was taken[^key-35c5cbfee14f9e97e4853e3d54003785].
+**1.**[^c-f635bdadae80acbddfead127efaeacbf] Insert the name of the local authority in whose area the sample was taken[^c-35c5cbfee14f9e97e4853e3d54003785].
 
-**2.**[^key-3a5c5a7611d5b7e53a2a7f2f08d9f9f2] Insert date.
+**2.**[^c-3a5c5a7611d5b7e53a2a7f2f08d9f9f2] Insert date.
 
-**3.**[^key-3ba3ac6ea6113bccbf9b1371b2ed73a6] Insert name of person submitting the sample for analysis and mode of transport.
+**3.**[^c-3ba3ac6ea6113bccbf9b1371b2ed73a6] Insert name of person submitting the sample for analysis and mode of transport.
 
-**4.**[^key-046c31e6e1218579b2b75fa5f98367b7] Insert the name or description applied to the material.
+**4.**[^c-046c31e6e1218579b2b75fa5f98367b7] Insert the name or description applied to the material.
 
-**5.**[^key-c90aae884b4524530838ea99e02d8762] Insert the distinguishing mark on the sample and the date of sampling shown.
+**5.**[^c-c90aae884b4524530838ea99e02d8762] Insert the distinguishing mark on the sample and the date of sampling shown.
 
-**6.**[^key-ec7e6d02bb466a5e0a0b2b0935279fc6] Indicate the particulars marked, labelled or otherwise documented.
+**6.**[^c-ec7e6d02bb466a5e0a0b2b0935279fc6] Indicate the particulars marked, labelled or otherwise documented.
 
-**7.**[^key-8b10d39b54695570a365a6eb5f1f922c] Insert the relevant results, the conclusions drawn from those results and any other relevant observations. Expand this section as necessary.
+**7.**[^c-8b10d39b54695570a365a6eb5f1f922c] Insert the relevant results, the conclusions drawn from those results and any other relevant observations. Expand this section as necessary.
 
-**8.**[^key-4788cd22b3abe17595796a4147631bee] In the case of analysis of substances for which no method is prescribed by relevant EU legislation, after the results indicate the method used.
+**8.**[^c-4788cd22b3abe17595796a4147631bee] In the case of analysis of substances for which no method is prescribed by relevant EU legislation, after the results indicate the method used.
 
-## SCHEDULE 2 — ENTRIES TO BE SUBSTITUTED IN CHAPTER A OF SCHEDULE 5 TO THE FEEDING STUFFS (SCOTLAND) REGULATIONS 2005[^key-b3640ec86defca73655465ebc281e6f0]
+## SCHEDULE 2 — ENTRIES TO BE SUBSTITUTED IN CHAPTER A OF SCHEDULE 5 TO THE FEEDING STUFFS (SCOTLAND) REGULATIONS 2005[^c-b3640ec86defca73655465ebc281e6f0]
 
 **No longer in force.**
 
@@ -411,9 +411,9 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00003]: Footnote: O.J. No. L 31, 1.2.2002, p.1, as last amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision 1999/468 with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (O.J. No. L 188, 18.7.2009, p.14).
 
-[^key-53dd520d15596af33182171915c8468d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-53dd520d15596af33182171915c8468d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-0fd191568dacffdf02bd55a105766303]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/354/regulation/2) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-0fd191568dacffdf02bd55a105766303]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/354/regulation/2) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
 [^f00004]: Footnote: O.J. No. L 54, 26.2.2009, p.1.
 
@@ -421,59 +421,59 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00006]: Footnote: [S.S.I. 2004/433](https://www.legislation.gov.uk/ssi/2004/433), as amended by [S.S.I. 2005/246](https://www.legislation.gov.uk/ssi/2005/246) and [2007/493](https://www.legislation.gov.uk/ssi/2007/493).
 
-[^key-c1d914106f7342b9f2e6801f011d95a5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/354/regulation/3) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-c1d914106f7342b9f2e6801f011d95a5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/354/regulation/3) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-54905a08a1ab3a9b62cd104be6414216]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/354/regulation/4) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-54905a08a1ab3a9b62cd104be6414216]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/354/regulation/4) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-43ce4b330a1ff04396e82066c018a845]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/354/regulation/5) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-43ce4b330a1ff04396e82066c018a845]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/354/regulation/5) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-9f513f4783593f1b7400389cec9edec3]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/ssi/2010/354/regulation/5) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/ssi/2020/467/regulation/8/2/a)
+[^c-9f513f4783593f1b7400389cec9edec3]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/ssi/2010/354/regulation/5) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/ssi/2020/467/regulation/8/2/a)
 
-[^key-03168ff524605c85a20cc4f678e0eb1f]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/ssi/2010/354/regulation/5) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/ssi/2020/467/regulation/8/2/b)
+[^c-03168ff524605c85a20cc4f678e0eb1f]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/ssi/2010/354/regulation/5) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/ssi/2020/467/regulation/8/2/b)
 
-[^key-21e3863a25a7fca13871ddf6472bc4b1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/354/regulation/6) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-21e3863a25a7fca13871ddf6472bc4b1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/354/regulation/6) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-c45d47354a56e2ccf2f1fcacaed84565]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/ssi/2010/354/regulation/6/2) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/ssi/2019/407/regulation/8/2/a)
+[^c-c45d47354a56e2ccf2f1fcacaed84565]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/ssi/2010/354/regulation/6/2) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/ssi/2019/407/regulation/8/2/a)
 
-[^key-584ac0eb6d14f4711ed5940eb601ab01]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/354/regulation/7) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-584ac0eb6d14f4711ed5940eb601ab01]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/354/regulation/7) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-f9b225c9daa862aeb746e26faf4b9af1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2010/354/regulation/8) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-f9b225c9daa862aeb746e26faf4b9af1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2010/354/regulation/8) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-3aaa7fd74ea90df208680b0a1dbfb8e2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2010/354/regulation/9) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-3aaa7fd74ea90df208680b0a1dbfb8e2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2010/354/regulation/9) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-94bb80b94776f3f36cd901205bded64b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2010/354/regulation/10) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-94bb80b94776f3f36cd901205bded64b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2010/354/regulation/10) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-47ab133f17f1af2438de885990efbdbd]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2010/354/regulation/11) revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/9)
+[^c-47ab133f17f1af2438de885990efbdbd]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2010/354/regulation/11) revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/9)
 
-[^key-3c48e01ef2e13a18b47551f37d442153]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2010/354/regulation/12) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-3c48e01ef2e13a18b47551f37d442153]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2010/354/regulation/12) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-d7a52d42d65b3a754a4c21891017562e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2010/354/regulation/13) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-d7a52d42d65b3a754a4c21891017562e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2010/354/regulation/13) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-9e06a8cc78acfa296d73924c8871da1d]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/ssi/2010/354/regulation/14) revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/9)
+[^c-9e06a8cc78acfa296d73924c8871da1d]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/ssi/2010/354/regulation/14) revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/9)
 
-[^key-a4cd0df4f62430b253c2424c3f1759c1]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/ssi/2010/354/regulation/15) revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/9)
+[^c-a4cd0df4f62430b253c2424c3f1759c1]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/ssi/2010/354/regulation/15) revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/9)
 
-[^key-4290b00e8f315890cc13636c0b79c598]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2010/354/regulation/16) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-4290b00e8f315890cc13636c0b79c598]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2010/354/regulation/16) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-293f221fa8f3487f1e51b3ee8f4abbea]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2010/354/regulation/17) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-293f221fa8f3487f1e51b3ee8f4abbea]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2010/354/regulation/17) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-21b845cb187eddccd515585fd95e666b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2010/354/regulation/18) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-21b845cb187eddccd515585fd95e666b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2010/354/regulation/18) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-5599d69d31c2265a1cb607c2d5e6604a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2010/354/regulation/19) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-5599d69d31c2265a1cb607c2d5e6604a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2010/354/regulation/19) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-d50629f3ed3a13ca1f03683defbd5eb9]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2010/354/regulation/20) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-d50629f3ed3a13ca1f03683defbd5eb9]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2010/354/regulation/20) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-e543137cfea1ed24deaf9c4091a7c4b9]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2010/354/regulation/21) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-e543137cfea1ed24deaf9c4091a7c4b9]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2010/354/regulation/21) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
 [^f00009]: Footnote: [S.I. 1999/1663](https://www.legislation.gov.uk/uksi/1999/1663), as amended by [S.S.I. 2001/104](https://www.legislation.gov.uk/ssi/2001/104), [2002/285](https://www.legislation.gov.uk/ssi/2002/285), [2003/277](https://www.legislation.gov.uk/ssi/2003/277), [2004/414](https://www.legislation.gov.uk/ssi/2004/414), [2005/605](https://www.legislation.gov.uk/ssi/2005/605) and [2006/16](https://www.legislation.gov.uk/ssi/2006/16).
 
-[^key-d00441f7a493de087b23fd307e45b884]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2010/354/regulation/22) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-d00441f7a493de087b23fd307e45b884]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2010/354/regulation/22) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-bebbd63e44e9d2d889688f3ee2a4dcdd]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2010/354/regulation/23) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-bebbd63e44e9d2d889688f3ee2a4dcdd]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2010/354/regulation/23) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
 [^f00010]: Footnote: [S.S.I. 2009/446](https://www.legislation.gov.uk/ssi/2009/446), as amended by [S.S.I. 2010/5](https://www.legislation.gov.uk/ssi/2010/5) and [177](https://www.legislation.gov.uk/ssi/2010/177).
 
-[^key-2623aebcc1e31c305d4de27aee5890d6]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2010/354/regulation/24) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-2623aebcc1e31c305d4de27aee5890d6]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2010/354/regulation/24) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
 [^f00011]: Footnote: [S.S.I. 2001/104](https://www.legislation.gov.uk/ssi/2001/104).
 
@@ -487,26 +487,26 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00016]: Footnote: [S.S.I. 2006/16](https://www.legislation.gov.uk/ssi/2006/16).
 
-[^key-287d24b4c945d14b270d89c479e285fe]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/ssi/2010/354/regulation/25) revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/9)
+[^c-287d24b4c945d14b270d89c479e285fe]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/ssi/2010/354/regulation/25) revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/9)
 
-[^key-dc65fabfe55a1525653ef61a36809b88]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/part/1) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-dc65fabfe55a1525653ef61a36809b88]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/part/1) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-f635bdadae80acbddfead127efaeacbf]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/1) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-f635bdadae80acbddfead127efaeacbf]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/1) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-35c5cbfee14f9e97e4853e3d54003785]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/1) inserted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [8(3)](https://www.legislation.gov.uk/ssi/2020/467/regulation/8/3)
+[^c-35c5cbfee14f9e97e4853e3d54003785]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/1) inserted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [8(3)](https://www.legislation.gov.uk/ssi/2020/467/regulation/8/3)
 
-[^key-3a5c5a7611d5b7e53a2a7f2f08d9f9f2]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/2) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-3a5c5a7611d5b7e53a2a7f2f08d9f9f2]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/2) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-3ba3ac6ea6113bccbf9b1371b2ed73a6]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/3) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-3ba3ac6ea6113bccbf9b1371b2ed73a6]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/3) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-046c31e6e1218579b2b75fa5f98367b7]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/4) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-046c31e6e1218579b2b75fa5f98367b7]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/4) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-c90aae884b4524530838ea99e02d8762]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/5) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-c90aae884b4524530838ea99e02d8762]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/5) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-ec7e6d02bb466a5e0a0b2b0935279fc6]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/6) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-ec7e6d02bb466a5e0a0b2b0935279fc6]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/6) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-8b10d39b54695570a365a6eb5f1f922c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/7) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-8b10d39b54695570a365a6eb5f1f922c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/7) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-4788cd22b3abe17595796a4147631bee]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/8) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
+[^c-4788cd22b3abe17595796a4147631bee]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2010/354/schedule/1/paragraph/8) in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1)
 
-[^key-b3640ec86defca73655465ebc281e6f0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2010/354/schedule/2) revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/9)
+[^c-b3640ec86defca73655465ebc281e6f0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2010/354/schedule/2) revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/9)

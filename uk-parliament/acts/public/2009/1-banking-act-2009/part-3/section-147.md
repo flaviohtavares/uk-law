@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Administrator's proposals[^key-b46e3ab1cd534245bfb440615ecedcf0]
+## 147. Administrator's proposals[^c-b46e3ab1cd534245bfb440615ecedcf0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (5) But a bank administrator who is unable to agree a statement with the Bank of England may apply to the court for directions under paragraph 63 of Schedule B1 to the Insolvency Act 1986 (as applied by section 145); and the court may make any order, including dispensing with the need for the Bank of England's agreement.
 
-(6) The bank administrator must send the statement to the PRA and a copy of it to the FCA[^key-c6069db382a2994151650ea1341d95a1].
+(6) The bank administrator must send the statement to the PRA and a copy of it to the FCA[^c-c6069db382a2994151650ea1341d95a1].
 
 (7) The bank administrator may revise the statement (and subsections (4) to (6) apply to a revised statement as to the original).
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b46e3ab1cd534245bfb440615ecedcf0]: Commencement: S. 147 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-b46e3ab1cd534245bfb440615ecedcf0]: Commencement: S. 147 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
 
-[^key-c6069db382a2994151650ea1341d95a1]: Textual amendment: Words in s. 147(6) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 47](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/47) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-c6069db382a2994151650ea1341d95a1]: Textual amendment: Words in s. 147(6) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 47](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/47) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

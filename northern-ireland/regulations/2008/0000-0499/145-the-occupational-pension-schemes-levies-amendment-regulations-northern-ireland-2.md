@@ -31,7 +31,7 @@ summary: ''
 
 Pensions
 
-The Occupational Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^key-05610f2f148d37792c7e5ba1caae37bd]
+The Occupational Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^c-05610f2f148d37792c7e5ba1caae37bd]
 
 Approved by resolution of the Assembly on 23rd June 2008
 
@@ -43,26 +43,26 @@ Coming into operation
 
 1st April 2008
 
-[^key-05610f2f148d37792c7e5ba1caae37bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05610f2f148d37792c7e5ba1caae37bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-05610f2f148d37792c7e5ba1caae37bd]
+## 1. Citation and commencement[^c-05610f2f148d37792c7e5ba1caae37bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Occupational Pension Schemes (Levies) Regulations[^key-05610f2f148d37792c7e5ba1caae37bd]
+## 2. Amendment of the Occupational Pension Schemes (Levies) Regulations[^c-05610f2f148d37792c7e5ba1caae37bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-05610f2f148d37792c7e5ba1caae37bd]
+## 3. Revocation[^c-05610f2f148d37792c7e5ba1caae37bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05610f2f148d37792c7e5ba1caae37bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05610f2f148d37792c7e5ba1caae37bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05610f2f148d37792c7e5ba1caae37bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05610f2f148d37792c7e5ba1caae37bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-05610f2f148d37792c7e5ba1caae37bd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/145) revoked (1.4.2012) by [The Occupational and Personal Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/98)](https://www.legislation.gov.uk/nisr/2012/98), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/98/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2012/98/regulation/4/b)
+[^c-05610f2f148d37792c7e5ba1caae37bd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/145) revoked (1.4.2012) by [The Occupational and Personal Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/98)](https://www.legislation.gov.uk/nisr/2012/98), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/98/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2012/98/regulation/4/b)

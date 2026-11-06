@@ -36,22 +36,22 @@ concerning the authorisation of an enzyme preparation of endo-1,4-beta-xylanase 
 
 (Text with EEA relevance) (revoked)
 
-[^key-06f4dabf9aa773307240ebe934954376]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06f4dabf9aa773307240ebe934954376]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-06f4dabf9aa773307240ebe934954376] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-06f4dabf9aa773307240ebe934954376] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-06f4dabf9aa773307240ebe934954376] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-06f4dabf9aa773307240ebe934954376] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06f4dabf9aa773307240ebe934954376]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06f4dabf9aa773307240ebe934954376]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-06f4dabf9aa773307240ebe934954376]
+## ANNEX[^c-06f4dabf9aa773307240ebe934954376]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06f4dabf9aa773307240ebe934954376]: Textual amendment: Regulation revoked (E.) (22.12.2023) by [The Feed Additives (Authorisations) (England) Regulations 2023 (S.I. 2023/1196)](https://www.legislation.gov.uk/uksi/2023/1196), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1196/schedule/14/part/1); Regulation revoked (S.) (22.12.2023) by [The Feed Additives (Authorisations) (Scotland) Regulations 2023 (S.S.I. 2023/339)](https://www.legislation.gov.uk/ssi/2023/339), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/339/regulation/1/1), [sch. 14 para. 7](https://www.legislation.gov.uk/ssi/2023/339/schedule/14/paragraph/7); and Regulation revoked (W.) (22.12.2023) by [The Feed Additives (Authorisations) (Wales) Regulations 2023 (S.I. 2023/1276)](https://www.legislation.gov.uk/wsi/2023/1276), [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/1276/regulation/1/2/c), [Sch. 14](https://www.legislation.gov.uk/wsi/2023/1276/schedule/14) (with [reg. 4](https://www.legislation.gov.uk/wsi/2023/1276/regulation/4))
+[^c-06f4dabf9aa773307240ebe934954376]: Textual amendment: Regulation revoked (E.) (22.12.2023) by [The Feed Additives (Authorisations) (England) Regulations 2023 (S.I. 2023/1196)](https://www.legislation.gov.uk/uksi/2023/1196), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1196/schedule/14/part/1); Regulation revoked (S.) (22.12.2023) by [The Feed Additives (Authorisations) (Scotland) Regulations 2023 (S.S.I. 2023/339)](https://www.legislation.gov.uk/ssi/2023/339), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/339/regulation/1/1), [sch. 14 para. 7](https://www.legislation.gov.uk/ssi/2023/339/schedule/14/paragraph/7); and Regulation revoked (W.) (22.12.2023) by [The Feed Additives (Authorisations) (Wales) Regulations 2023 (S.I. 2023/1276)](https://www.legislation.gov.uk/wsi/2023/1276), [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/1276/regulation/1/2/c), [Sch. 14](https://www.legislation.gov.uk/wsi/2023/1276/schedule/14) (with [reg. 4](https://www.legislation.gov.uk/wsi/2023/1276/regulation/4))

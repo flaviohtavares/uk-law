@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Control of vehicles[^key-58cd7df7876fc9f9ca7cd2313dd25742]
+## 42. Control of vehicles[^c-58cd7df7876fc9f9ca7cd2313dd25742]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58cd7df7876fc9f9ca7cd2313dd25742]: Commencement: Reg. 42 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-58cd7df7876fc9f9ca7cd2313dd25742]: Commencement: Reg. 42 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

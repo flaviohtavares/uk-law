@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Disclosure by Commission: Revenue and Customs information[^key-ec21c8896b68246ee54f9d4faa56ded5][^key-e76d4cef60309cbfaf4194b729f36c80][^key-a1f7631542e7fa29bda22deac16195a1][^key-93ffd6e71d24d59ddcd2b39b9d6c58aa]
+## 57. Disclosure by Commission: Revenue and Customs information[^c-ec21c8896b68246ee54f9d4faa56ded5][^c-e76d4cef60309cbfaf4194b729f36c80][^c-a1f7631542e7fa29bda22deac16195a1][^c-93ffd6e71d24d59ddcd2b39b9d6c58aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (6) In the application of this section to Northern Ireland, the reference to 12 months in subsection (4) is to be read as a reference to 6 months.
 
-(6A)[^key-a525401cb7e4a14b2d9f1f80ac9195e1] In the application of this section to England and Wales, the reference in subsection (4)(a) to 12 months is to be read as a reference to the general limit in a magistrates’ court
+(6A)[^c-a525401cb7e4a14b2d9f1f80ac9195e1] In the application of this section to England and Wales, the reference in subsection (4)(a) to 12 months is to be read as a reference to the general limit in a magistrates’ court
 
 (7) In this section “**Revenue and Customs information**” means information held as mentioned in section 18(1) of the Commissioners for Revenue and Customs Act 2005.
 
@@ -53,12 +53,12 @@ summary: ''
 
 ## Annotations
 
-[^key-ec21c8896b68246ee54f9d4faa56ded5]: Modification: S. 57 modified (1.9.2013) by [The Charities Act 2011 (Principal Regulators of Exempt Charities) Regulations 2013 (S.I. 2013/1764)](https://www.legislation.gov.uk/uksi/2013/1764), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1764/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2013/1764/regulation/5/1)
+[^c-ec21c8896b68246ee54f9d4faa56ded5]: Modification: S. 57 modified (1.9.2013) by [The Charities Act 2011 (Principal Regulators of Exempt Charities) Regulations 2013 (S.I. 2013/1764)](https://www.legislation.gov.uk/uksi/2013/1764), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1764/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2013/1764/regulation/5/1)
 
-[^key-e76d4cef60309cbfaf4194b729f36c80]: Modification: S. 57 modified (1.9.2013) by [The Charities Act 2011 (Principal Regulators of Exempt Charities) Regulations 2013 (S.I. 2013/1764)](https://www.legislation.gov.uk/uksi/2013/1764), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1764/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2013/1764/regulation/5/2)
+[^c-e76d4cef60309cbfaf4194b729f36c80]: Modification: S. 57 modified (1.9.2013) by [The Charities Act 2011 (Principal Regulators of Exempt Charities) Regulations 2013 (S.I. 2013/1764)](https://www.legislation.gov.uk/uksi/2013/1764), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1764/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2013/1764/regulation/5/2)
 
-[^key-a1f7631542e7fa29bda22deac16195a1]: Modification: [S. 57](https://www.legislation.gov.uk/ukpga/2011/25/section/57) modified (9.1.2023) by S.I. 2011/1726, reg. 6(3) (as inserted by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/3/c))
+[^c-a1f7631542e7fa29bda22deac16195a1]: Modification: [S. 57](https://www.legislation.gov.uk/ukpga/2011/25/section/57) modified (9.1.2023) by S.I. 2011/1726, reg. 6(3) (as inserted by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/3/c))
 
-[^key-93ffd6e71d24d59ddcd2b39b9d6c58aa]: Modification: [S. 57](https://www.legislation.gov.uk/ukpga/2011/25/section/57) modified (9.1.2023) by S.I. 2011/1726, reg. 6(2) (as amended by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/3/b/i))
+[^c-93ffd6e71d24d59ddcd2b39b9d6c58aa]: Modification: [S. 57](https://www.legislation.gov.uk/ukpga/2011/25/section/57) modified (9.1.2023) by S.I. 2011/1726, reg. 6(2) (as amended by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/3/b/i))
 
-[^key-a525401cb7e4a14b2d9f1f80ac9195e1]: Textual amendment: [S. 57(6A)](https://www.legislation.gov.uk/ukpga/2011/25/section/57/6A) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/24/2)
+[^c-a525401cb7e4a14b2d9f1f80ac9195e1]: Textual amendment: [S. 57(6A)](https://www.legislation.gov.uk/ukpga/2011/25/section/57/6A) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/24/2)

@@ -31,10 +31,10 @@ summary: ''
 
 of 18 July 2001 relating to a proceeding under Article 81 of the EC Treaty and Article 53 of the EEA Agreement — Case COMP/E-1/36.490 — Graphite electrodes (Text with EEA relevance.)(notified under document number C(2001) 1986) (revoked)
 
-[^key-d3c446c925b6e0ee0075a731a0fb9859]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3c446c925b6e0ee0075a731a0fb9859]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-d3c446c925b6e0ee0075a731a0fb9859] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-d3c446c925b6e0ee0075a731a0fb9859] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d3c446c925b6e0ee0075a731a0fb9859]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d3c446c925b6e0ee0075a731a0fb9859]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76.1. Scope and interpretation[^key-aff08cb562443cad7c83cb0da0e8e7a6]
+## 76.1. Scope and interpretation[^c-aff08cb562443cad7c83cb0da0e8e7a6]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 - (d) “controlled person”, has the same meaning as in section 15(1) of the Act;
 - (e) “legal representative” is to be construed in accordance with paragraph 11 of the Schedule to the Act;
 - (f) “open material” means any relevant material that the Secretary of State does not object to disclosing to a relevant party;
-- (g)[^key-5562fb32158f257acd0f525cfcd3b684] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-5562fb32158f257acd0f525cfcd3b684] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) “relevant material” has the same meaning as in paragraph 4(5) of the Schedule to the Act;
 - (i) “relevant party” has the same meaning as in paragraph 11 of the Schedule to the Act;
 - (j) “special advocate” means a person appointed under paragraph 7 of the Schedule to the Act.
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aff08cb562443cad7c83cb0da0e8e7a6]: Textual amendment: [Pt. 76](https://www.legislation.gov.uk/uksi/1998/3132/part/76) inserted (14.3.2005) by [The Civil Procedure (Amendment No. 2) Rules 2005 (S.I. 2005/656)](https://www.legislation.gov.uk/uksi/2005/656), [rule 1](https://www.legislation.gov.uk/uksi/2005/656/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/656/schedule)
+[^c-aff08cb562443cad7c83cb0da0e8e7a6]: Textual amendment: [Pt. 76](https://www.legislation.gov.uk/uksi/1998/3132/part/76) inserted (14.3.2005) by [The Civil Procedure (Amendment No. 2) Rules 2005 (S.I. 2005/656)](https://www.legislation.gov.uk/uksi/2005/656), [rule 1](https://www.legislation.gov.uk/uksi/2005/656/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/656/schedule)
 
-[^key-5562fb32158f257acd0f525cfcd3b684]: Textual amendment: [Rule 76.1(3)(g)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.1/3/g) omitted (6.4.2008) by virtue of [The Civil Procedure (Amendment No.2) Rules 2007 (S.I. 2007/3543)](https://www.legislation.gov.uk/uksi/2007/3543), [rules 1(b)](https://www.legislation.gov.uk/uksi/2007/3543/rule/1/b), [10(a)](https://www.legislation.gov.uk/uksi/2007/3543/rule/10/a)
+[^c-5562fb32158f257acd0f525cfcd3b684]: Textual amendment: [Rule 76.1(3)(g)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.1/3/g) omitted (6.4.2008) by virtue of [The Civil Procedure (Amendment No.2) Rules 2007 (S.I. 2007/3543)](https://www.legislation.gov.uk/uksi/2007/3543), [rules 1(b)](https://www.legislation.gov.uk/uksi/2007/3543/rule/1/b), [10(a)](https://www.legislation.gov.uk/uksi/2007/3543/rule/10/a)

@@ -39,7 +39,7 @@ summary: ''
 (7) The provisions are—
 
 - (a) section 49;
-- (b)[^key-379280463a8e4e716a15ad0537187d95] articles 9, 10 and 11 of the Children’s Hearing (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013, so far as they apply to anything done in England and Wales;
+- (b)[^c-379280463a8e4e716a15ad0537187d95] articles 9, 10 and 11 of the Children’s Hearing (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013, so far as they apply to anything done in England and Wales;
 - (c) section 32(3) of the [^c15166151]Children and Young Persons Act 1969 (compelling, persuading, inciting or assisting any person to be absent from detention, etc.), so far as it applies in relation to anything done in England and Wales;
 - (d) section 2 of the [^c15166161]Child Abduction Act 1984.
 
@@ -49,7 +49,7 @@ summary: ''
 
 [^c15166131]: Textual amendment: Word in s. 51(1) substituted (1.4.2002) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [s. 116](https://www.legislation.gov.uk/ukpga/2000/14/section/116), [Sch. 4 para. 14(7)](https://www.legislation.gov.uk/ukpga/2000/14/schedule/4/paragraph/14/7); [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), [art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2001/4150/article/3/3/a) (subject to transitional provision in [art. 4](https://www.legislation.gov.uk/uksi/2001/4150/article/4) of the commencing [S.I](https://www.legislation.gov.uk/uksi/2001/4150/section/I). and to the amendment of [art. 3](https://www.legislation.gov.uk/uksi/2001/4150/article/3) by [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493), [art. 6](https://www.legislation.gov.uk/uksi/2002/1493/article/6)); [S.I. 2002/920](https://www.legislation.gov.uk/uksi/2002/920), [art. 3(3)(d)](https://www.legislation.gov.uk/uksi/2002/920/article/3/3/d) (with [art. 3(4)-(10)](https://www.legislation.gov.uk/uksi/2002/920/article/3/4) and transitional provisions in [Schs. 1-3](https://www.legislation.gov.uk/uksi/2002/920/schedule/1)))
 
-[^key-379280463a8e4e716a15ad0537187d95]: Textual amendment: [S. 51(7)(b)](https://www.legislation.gov.uk/ukpga/1989/41/section/51/7/b) substituted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/2/3)
+[^c-379280463a8e4e716a15ad0537187d95]: Textual amendment: [S. 51(7)(b)](https://www.legislation.gov.uk/ukpga/1989/41/section/51/7/b) substituted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/2/3)
 
 [^c15166151]: Marginal citation: [1969 c. 54](https://www.legislation.gov.uk/ukpga/1969/54).
 

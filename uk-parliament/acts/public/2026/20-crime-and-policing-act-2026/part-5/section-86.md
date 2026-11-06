@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Section 85: meaning of “relevant local authority” and “relevant police force”[^key-19f9a253fff85cb6e35be2aab0c1d9af]
+## 86. Section 85: meaning of “relevant local authority” and “relevant police force”[^c-19f9a253fff85cb6e35be2aab0c1d9af]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19f9a253fff85cb6e35be2aab0c1d9af]: Commencement: S. 86 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-19f9a253fff85cb6e35be2aab0c1d9af]: Commencement: S. 86 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

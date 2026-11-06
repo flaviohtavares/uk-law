@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Procedure for attaching or varying financial discretionary licence conditions[^key-4a526b84350899f6b180f9f676fd36f1][^key-4559604fc4569965d1bfc45f1e3a3db2]
+## 23. Procedure for attaching or varying financial discretionary licence conditions[^c-4a526b84350899f6b180f9f676fd36f1][^c-4559604fc4569965d1bfc45f1e3a3db2]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a526b84350899f6b180f9f676fd36f1]: Commencement: S. 23 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-4a526b84350899f6b180f9f676fd36f1]: Commencement: S. 23 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-4559604fc4569965d1bfc45f1e3a3db2]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2025/21/section/23) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(ix)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/ix)
+[^c-4559604fc4569965d1bfc45f1e3a3db2]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2025/21/section/23) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(ix)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/ix)

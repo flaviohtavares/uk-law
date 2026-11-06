@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 259. Electronic delivery of special administration documents to court[^key-d1e6ae9fbdf1aa2094f0f54524dbef10]
+## 259. Electronic delivery of special administration documents to court[^c-d1e6ae9fbdf1aa2094f0f54524dbef10]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1e6ae9fbdf1aa2094f0f54524dbef10]: Commencement: [Rule 259](https://www.legislation.gov.uk/nisr/2026/11/rule/259) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-d1e6ae9fbdf1aa2094f0f54524dbef10]: Commencement: [Rule 259](https://www.legislation.gov.uk/nisr/2026/11/rule/259) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

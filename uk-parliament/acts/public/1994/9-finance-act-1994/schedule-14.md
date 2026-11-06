@@ -26,17 +26,17 @@ Section 112.
 
 ### The new sections
 
-**2.**[^key-089fbfe17b636856c02496089e276e4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-089fbfe17b636856c02496089e276e4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Other amendments
 
-**3.**[^key-acf03bfe921ff5f88848ea48bff9e2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-acf03bfe921ff5f88848ea48bff9e2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-50a02f5ad1ab0a197d184683ca921ab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-50a02f5ad1ab0a197d184683ca921ab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c7cc67029309368782d7cfca16756885] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c7cc67029309368782d7cfca16756885] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-30bb3a2e6f71de0da695155500ebb08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-30bb3a2e6f71de0da695155500ebb08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Commencement
 
@@ -51,12 +51,12 @@ to be shown as available for distribution as foreign income dividends unless the
 
 ## Annotations
 
-[^key-089fbfe17b636856c02496089e276e4e]: Textual amendment: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/1994/9/schedule/14/paragraph/2) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-089fbfe17b636856c02496089e276e4e]: Textual amendment: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/1994/9/schedule/14/paragraph/2) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
-[^key-acf03bfe921ff5f88848ea48bff9e2b6]: Textual amendment: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/1994/9/schedule/14/paragraph/3) repealed (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-acf03bfe921ff5f88848ea48bff9e2b6]: Textual amendment: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/1994/9/schedule/14/paragraph/3) repealed (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-50a02f5ad1ab0a197d184683ca921ab2]: Textual amendment: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/1994/9/schedule/14/paragraph/4) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-50a02f5ad1ab0a197d184683ca921ab2]: Textual amendment: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/1994/9/schedule/14/paragraph/4) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
-[^key-c7cc67029309368782d7cfca16756885]: Textual amendment: Sch. 14 para. 5 repealed (1.4.2009) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-c7cc67029309368782d7cfca16756885]: Textual amendment: Sch. 14 para. 5 repealed (1.4.2009) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-30bb3a2e6f71de0da695155500ebb08a]: Textual amendment: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/1994/9/schedule/14/paragraph/6) repealed (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-30bb3a2e6f71de0da695155500ebb08a]: Textual amendment: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/1994/9/schedule/14/paragraph/6) repealed (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

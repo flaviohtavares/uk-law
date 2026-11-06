@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. London charging schemes: 10 year plan for share[^key-26a935c671fcd19f2fceb0cb94b46cd0]
+## 120. London charging schemes: 10 year plan for share[^c-26a935c671fcd19f2fceb0cb94b46cd0]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26a935c671fcd19f2fceb0cb94b46cd0]: Commencement: S. 120 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-26a935c671fcd19f2fceb0cb94b46cd0]: Commencement: S. 120 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

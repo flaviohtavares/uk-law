@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Periodic reports by the Secretary of State[^key-809de62cce43deea47686f5569857181]
+## 14. Periodic reports by the Secretary of State[^c-809de62cce43deea47686f5569857181]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-809de62cce43deea47686f5569857181]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2015/7/section/14) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-809de62cce43deea47686f5569857181]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2015/7/section/14) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

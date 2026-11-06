@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Transfer of staff and property to Historic Environment Scotland[^key-80a0e99e2fa785ab500ae6c8860bf1cf]
+## 19. Transfer of staff and property to Historic Environment Scotland[^c-80a0e99e2fa785ab500ae6c8860bf1cf]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 5 contains provision about the transfer to Historic Environment Scotlan
 
 ## Annotations
 
-[^key-80a0e99e2fa785ab500ae6c8860bf1cf]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2014/19/section/19) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-80a0e99e2fa785ab500ae6c8860bf1cf]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2014/19/section/19) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)

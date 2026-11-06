@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Obtaining information from outwith United Kingdom[^key-bee07c4552b614f38099386c56a3669c]
+## 105. Obtaining information from outwith United Kingdom[^c-bee07c4552b614f38099386c56a3669c]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ After section 194I of the 1995 Act insert—
 
 ## Annotations
 
-[^key-bee07c4552b614f38099386c56a3669c]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2010/13/section/105) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-bee07c4552b614f38099386c56a3669c]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2010/13/section/105) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

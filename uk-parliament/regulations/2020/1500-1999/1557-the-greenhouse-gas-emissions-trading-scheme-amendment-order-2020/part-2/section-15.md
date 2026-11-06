@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Chapter 4 of Part 2 inserted[^key-c19e7a014b0f9f28e705531ab30e75d3]
+## 15. Chapter 4 of Part 2 inserted[^c-c19e7a014b0f9f28e705531ab30e75d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ After article 25 insert—
 
 ## Annotations
 
-[^key-c19e7a014b0f9f28e705531ab30e75d3]: Commencement: Art. 15 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-c19e7a014b0f9f28e705531ab30e75d3]: Commencement: Art. 15 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Penalty for failure to pay tax on time[^key-ee041cb5c8f80b5b0ab7aff898ab86a6]
+## 75. Penalty for failure to pay tax on time[^c-ee041cb5c8f80b5b0ab7aff898ab86a6]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In section 122 of TCMA (penalty for failure to pay tax on time) (substituted by 
 
 ## Annotations
 
-[^key-ee041cb5c8f80b5b0ab7aff898ab86a6]: Commencement: [S. 75](https://www.legislation.gov.uk/anaw/2017/3/section/75) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-ee041cb5c8f80b5b0ab7aff898ab86a6]: Commencement: [S. 75](https://www.legislation.gov.uk/anaw/2017/3/section/75) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

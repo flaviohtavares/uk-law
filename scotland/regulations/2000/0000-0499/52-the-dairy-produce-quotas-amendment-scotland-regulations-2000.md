@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-The Dairy Produce Quotas Amendment (Scotland) Regulations 2000 (revoked)[^key-9d76876daddeb2539a66c61645526ac4]
+The Dairy Produce Quotas Amendment (Scotland) Regulations 2000 (revoked)[^c-9d76876daddeb2539a66c61645526ac4]
 
 Made
 
@@ -44,44 +44,44 @@ Coming into force
 
 1st April 2000
 
-[^key-9d76876daddeb2539a66c61645526ac4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d76876daddeb2539a66c61645526ac4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-9d76876daddeb2539a66c61645526ac4]
+## 1. Citation, commencement, interpretation and extent[^c-9d76876daddeb2539a66c61645526ac4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 1997 Regulations[^key-9d76876daddeb2539a66c61645526ac4]
+## 2. Amendment of the 1997 Regulations[^c-9d76876daddeb2539a66c61645526ac4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-9d76876daddeb2539a66c61645526ac4]
+## 3.[^c-9d76876daddeb2539a66c61645526ac4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-9d76876daddeb2539a66c61645526ac4]
+## 4.[^c-9d76876daddeb2539a66c61645526ac4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-9d76876daddeb2539a66c61645526ac4]
+## 5.[^c-9d76876daddeb2539a66c61645526ac4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-9d76876daddeb2539a66c61645526ac4]
+## 6.[^c-9d76876daddeb2539a66c61645526ac4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-9d76876daddeb2539a66c61645526ac4]
+## 7.[^c-9d76876daddeb2539a66c61645526ac4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d76876daddeb2539a66c61645526ac4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d76876daddeb2539a66c61645526ac4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9d76876daddeb2539a66c61645526ac4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d76876daddeb2539a66c61645526ac4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9d76876daddeb2539a66c61645526ac4]: Textual amendment: Regulations revoked (31.3.2002) by [The Dairy Produce Quotas (Scotland) Regulations 2002 (S.S.I. 2002/110)](https://www.legislation.gov.uk/ssi/2002/110), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/110/regulation/1/1), [34(1)(c)](https://www.legislation.gov.uk/ssi/2002/110/regulation/34/1/c)
+[^c-9d76876daddeb2539a66c61645526ac4]: Textual amendment: Regulations revoked (31.3.2002) by [The Dairy Produce Quotas (Scotland) Regulations 2002 (S.S.I. 2002/110)](https://www.legislation.gov.uk/ssi/2002/110), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/110/regulation/1/1), [34(1)(c)](https://www.legislation.gov.uk/ssi/2002/110/regulation/34/1/c)

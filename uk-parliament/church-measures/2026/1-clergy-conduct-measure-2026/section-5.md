@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 5. President and Deputy President of Tribunals: functions[^key-d8778fa58c574787799364a2c3ec56df]
+## 5. President and Deputy President of Tribunals: functions[^c-d8778fa58c574787799364a2c3ec56df]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8778fa58c574787799364a2c3ec56df]: Commencement: S. 5 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-d8778fa58c574787799364a2c3ec56df]: Commencement: S. 5 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

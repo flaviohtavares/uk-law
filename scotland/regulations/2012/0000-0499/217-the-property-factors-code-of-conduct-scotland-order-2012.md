@@ -32,7 +32,7 @@ summary: ''
 
 Property Factors
 
-The Property Factors (Code of Conduct) (Scotland) Order 2012 (revoked)[^key-7130e30653a78c5ca5cf8660a986cb46]
+The Property Factors (Code of Conduct) (Scotland) Order 2012 (revoked)[^c-7130e30653a78c5ca5cf8660a986cb46]
 
 Made
 
@@ -40,24 +40,24 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-7130e30653a78c5ca5cf8660a986cb46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7130e30653a78c5ca5cf8660a986cb46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7130e30653a78c5ca5cf8660a986cb46]
+## 1. Citation and commencement[^c-7130e30653a78c5ca5cf8660a986cb46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Code of Practice[^key-7130e30653a78c5ca5cf8660a986cb46]
+## 2. Code of Practice[^c-7130e30653a78c5ca5cf8660a986cb46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7130e30653a78c5ca5cf8660a986cb46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7130e30653a78c5ca5cf8660a986cb46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7130e30653a78c5ca5cf8660a986cb46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7130e30653a78c5ca5cf8660a986cb46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7130e30653a78c5ca5cf8660a986cb46]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2012/217) revoked (3.3.2021) by [The Property Factors (Code of Conduct) (Scotland) Order 2021 (S.S.I. 2021/113)](https://www.legislation.gov.uk/ssi/2021/113), [arts. 1](https://www.legislation.gov.uk/ssi/2021/113/article/1), [3](https://www.legislation.gov.uk/ssi/2021/113/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2021/113/article/4))
+[^c-7130e30653a78c5ca5cf8660a986cb46]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2012/217) revoked (3.3.2021) by [The Property Factors (Code of Conduct) (Scotland) Order 2021 (S.S.I. 2021/113)](https://www.legislation.gov.uk/ssi/2021/113), [arts. 1](https://www.legislation.gov.uk/ssi/2021/113/article/1), [3](https://www.legislation.gov.uk/ssi/2021/113/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2021/113/article/4))

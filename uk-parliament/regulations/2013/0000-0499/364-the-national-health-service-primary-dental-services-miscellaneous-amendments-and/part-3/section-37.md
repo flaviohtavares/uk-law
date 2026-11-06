@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Amendment of regulation 21[^key-a1413be8e36062665119bf84d0b9d456]
+## 37. Amendment of regulation 21[^c-a1413be8e36062665119bf84d0b9d456]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 21 (right to a general dental services contract), in paragraphs (1
 
 ## Annotations
 
-[^key-a1413be8e36062665119bf84d0b9d456]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2013/364/regulation/37) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-a1413be8e36062665119bf84d0b9d456]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2013/364/regulation/37) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

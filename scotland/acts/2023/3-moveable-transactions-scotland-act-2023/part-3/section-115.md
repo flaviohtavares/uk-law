@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Competence of registration of electronic documents[^key-d8269dbd92846a71444ce85457e2b7a6][^key-442e1da443bc07e51c096259bfd7e74a]
+## 115. Competence of registration of electronic documents[^c-d8269dbd92846a71444ce85457e2b7a6][^c-442e1da443bc07e51c096259bfd7e74a]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Section 9G(1)(d) of the Requirements of Writing (Scotland) Act 1995 (registratio
 
 ## Annotations
 
-[^key-d8269dbd92846a71444ce85457e2b7a6]: Commencement: S. 115 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-d8269dbd92846a71444ce85457e2b7a6]: Commencement: S. 115 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-442e1da443bc07e51c096259bfd7e74a]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2023/3/section/115) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-442e1da443bc07e51c096259bfd7e74a]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2023/3/section/115) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)

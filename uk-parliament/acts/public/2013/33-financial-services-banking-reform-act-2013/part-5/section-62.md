@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Duty to consider exercise of powers under Competition Act 1998[^key-6d7ae303ba6c6288f819a2cdbad4d0a7]
+## 62. Duty to consider exercise of powers under Competition Act 1998[^c-6d7ae303ba6c6288f819a2cdbad4d0a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d7ae303ba6c6288f819a2cdbad4d0a7]: Commencement: S. 62 in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/a)
+[^c-6d7ae303ba6c6288f819a2cdbad4d0a7]: Commencement: S. 62 in force at 1.4.2015 by [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/a)

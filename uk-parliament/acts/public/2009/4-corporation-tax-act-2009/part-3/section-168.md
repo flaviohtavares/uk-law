@@ -22,7 +22,7 @@ summary: ''
 
 For the purposes of sections 164 to 167 two persons are connected with each other if any of the following tests is met—
 
-- (a) they are connected with each other within the meaning of section 1122 of CTA 2010[^key-518be1b17fa3292a62dbdfa7a1939e69],
+- (a) they are connected with each other within the meaning of section 1122 of CTA 2010[^c-518be1b17fa3292a62dbdfa7a1939e69],
 - (b) one of them is a firm and the other has a right to a share of the assets or income of the firm,
 - (c) one of them is a body corporate and the other has control over that body,
 - (d) both of them are firms and some other person has a right to a share of the assets or income of both of them, or
@@ -30,4 +30,4 @@ For the purposes of sections 164 to 167 two persons are connected with each othe
 
 ## Annotations
 
-[^key-518be1b17fa3292a62dbdfa7a1939e69]: Textual amendment: Words in s. 168 substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 599](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/599) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-518be1b17fa3292a62dbdfa7a1939e69]: Textual amendment: Words in s. 168 substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 599](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/599) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

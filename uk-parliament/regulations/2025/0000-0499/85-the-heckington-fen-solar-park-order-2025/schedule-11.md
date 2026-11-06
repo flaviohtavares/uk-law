@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 11 — DOCUMENTS AND PLANS TO BE CERTIFIED[^key-d1e982e5121df45eac6c298f86a12f7b]
+## SCHEDULE 11 — DOCUMENTS AND PLANS TO BE CERTIFIED[^c-d1e982e5121df45eac6c298f86a12f7b]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ Article 37
 
 ## Annotations
 
-[^key-d1e982e5121df45eac6c298f86a12f7b]: Commencement: Sch. 11 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-d1e982e5121df45eac6c298f86a12f7b]: Commencement: Sch. 11 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)

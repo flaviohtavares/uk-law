@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 99A. Meaning of “relevant person”[^key-e3c21b2a28765352dee3027ff4af1dd0]
+## 99A. Meaning of “relevant person”[^c-e3c21b2a28765352dee3027ff4af1dd0]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In this Part references to a “**relevant person**”, in relation to any premi
 
 ## Annotations
 
-[^key-e3c21b2a28765352dee3027ff4af1dd0]: Textual amendment: [S. 99A](https://www.legislation.gov.uk/ukpga/2003/17/section/99A) inserted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 112(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/112/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 112(14)](https://www.legislation.gov.uk/ukpga/2011/13/section/112/14)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-e3c21b2a28765352dee3027ff4af1dd0]: Textual amendment: [S. 99A](https://www.legislation.gov.uk/ukpga/2003/17/section/99A) inserted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 112(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/112/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 112(14)](https://www.legislation.gov.uk/ukpga/2011/13/section/112/14)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

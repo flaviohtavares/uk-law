@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Prescribed cases[^key-f843e5d1f32a25de01ef54776544da30]
+## 6. Prescribed cases[^c-f843e5d1f32a25de01ef54776544da30]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f843e5d1f32a25de01ef54776544da30]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/1035/regulation/6) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-f843e5d1f32a25de01ef54776544da30]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/1035/regulation/6) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

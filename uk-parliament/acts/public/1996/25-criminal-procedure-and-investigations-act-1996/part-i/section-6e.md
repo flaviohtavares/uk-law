@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6E. Disclosure by accused: further provisions[^c18987571][^key-8c1811d7ba0c092c4e68960ff664e626]
+## 6E. Disclosure by accused: further provisions[^c18987571][^c-8c1811d7ba0c092c4e68960ff664e626]
 
 *Extent: E+W+N.I.*
 
@@ -51,4 +51,4 @@ the statement shall, unless the contrary is proved, be deemed to be given with t
 
 [^c18987571]: Textual amendment: S. 6E inserted (4.4.2005 for E.W. and 15.7.2005 for N.I.) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2003/44/section/33/2), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2](https://www.legislation.gov.uk/uksi/2005/950/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/950/schedule/1); [S.I.2005/1817](https://www.legislation.gov.uk/uksi/2005/1817), [art. 2](https://www.legislation.gov.uk/uksi/2005/1817/article/2)
 
-[^key-8c1811d7ba0c092c4e68960ff664e626]: Modification: Pt. I power to apply (with modifications) conferred by SI 2015/1490 rule 23.2 Note (as inserted (2.4.2018) by [The Criminal Procedure (Amendment) Rules 2018 (S.I. 2018/132)](https://www.legislation.gov.uk/uksi/2018/132), [rules 1](https://www.legislation.gov.uk/uksi/2018/132/rule/1), [11(a)(v)](https://www.legislation.gov.uk/uksi/2018/132/rule/11/a/v))
+[^c-8c1811d7ba0c092c4e68960ff664e626]: Modification: Pt. I power to apply (with modifications) conferred by SI 2015/1490 rule 23.2 Note (as inserted (2.4.2018) by [The Criminal Procedure (Amendment) Rules 2018 (S.I. 2018/132)](https://www.legislation.gov.uk/uksi/2018/132), [rules 1](https://www.legislation.gov.uk/uksi/2018/132/rule/1), [11(a)(v)](https://www.legislation.gov.uk/uksi/2018/132/rule/11/a/v))

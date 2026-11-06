@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124H. Obligations to limit internet access[^key-347030a69461bf5ff832793505c1fb12]
+## 124H. Obligations to limit internet access[^c-347030a69461bf5ff832793505c1fb12]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-347030a69461bf5ff832793505c1fb12]: Textual amendment: S. 124H inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 10](https://www.legislation.gov.uk/ukpga/2010/24/section/10), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-347030a69461bf5ff832793505c1fb12]: Textual amendment: S. 124H inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 10](https://www.legislation.gov.uk/ukpga/2010/24/section/10), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

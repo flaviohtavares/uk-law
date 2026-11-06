@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Offence of serious violation of Second Protocol[^key-edb77a120825520d415afa08f4d65df6]
+## 3. Offence of serious violation of Second Protocol[^c-edb77a120825520d415afa08f4d65df6]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edb77a120825520d415afa08f4d65df6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/6/section/3) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-edb77a120825520d415afa08f4d65df6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/6/section/3) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

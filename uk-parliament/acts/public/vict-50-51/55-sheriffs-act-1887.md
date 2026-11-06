@@ -137,7 +137,7 @@ A person shall not, while he is sheriff of a county, act as a justice of the pea
 
 (2) Any sheriff or officer of a sheriff concerned in the execution of process directed to the sheriff, other than process for the recovery of the aforesaid sums due to the Crown, may demand, take, and receive such fees and poundage as may from time to time be fixed by the Lord Chancellor, with the advice and consent of the judges of the Court of Appeal and High Court, or any three of them, and with the concurrence of the Treasury.
 
-(2A)[^key-918a5199c0863d4627a79144cb6b270c] Subsection (2) does not apply to the execution of process under a power to use the procedure in Schedule 12 to the Tribunals, Courts and Enforcement Act 2007 (taking control of goods).
+(2A)[^c-918a5199c0863d4627a79144cb6b270c] Subsection (2) does not apply to the execution of process under a power to use the procedure in Schedule 12 to the Tribunals, Courts and Enforcement Act 2007 (taking control of goods).
 
 (3) Any sheriff or officer of a sheriff, and any officer arresting or having in custody any person by virtue of any action, writ, or attachment, shall not demand or take any reward to do his office except such remuneration as is given to the sheriffs by the Crown, [^c573635]. . . and such fees and poundage as are above-mentioned or are allowed by or in pursuance of any other Act, and, save as allowed by this Act, shall not demand or take directly or indirectly any reward for doing his office or duty or for abstaining therefrom, or in respect of the mode in which he does his office or duty.
 
@@ -251,7 +251,7 @@ and such forfeiture and damages may be recovered by such person as a debt by an 
 
 (1) Nothing in this Act shall affect the privilege of the mayor, commonalty, and citizens of the city of London to elect the [^c573695]. . . sheriffs of London.
 
-(2) Unless otherwise directed by order of Her Majesty in Council, warrants signifying the approval by Her Majesty of the election of the [^c573695]. . . sheriffs of London shall be prepared under the seal of the Chancellor of the Exchequer at the central office of the Senior Courts[^key-7fba3eb6ca589d9004432696e1fde8cf], which warrants may be delivered to the said sheriffs or their duly authorised agents without fee on the thirtieth day of September or between that day and the twelfth day of November in every year, and an entry of the grant of such warrants shall be made on the roll of the court, and unless such warrant be stayed by order of Her Majesty in Council on or before the said thirtieth day of September, the election of such [^c573695]. . . sheriffs shall be deemed to be approved by Her Majesty.
+(2) Unless otherwise directed by order of Her Majesty in Council, warrants signifying the approval by Her Majesty of the election of the [^c573695]. . . sheriffs of London shall be prepared under the seal of the Chancellor of the Exchequer at the central office of the Senior Courts[^c-7fba3eb6ca589d9004432696e1fde8cf], which warrants may be delivered to the said sheriffs or their duly authorised agents without fee on the thirtieth day of September or between that day and the twelfth day of November in every year, and an entry of the grant of such warrants shall be made on the roll of the court, and unless such warrant be stayed by order of Her Majesty in Council on or before the said thirtieth day of September, the election of such [^c573695]. . . sheriffs shall be deemed to be approved by Her Majesty.
 
 (3) All warrants and documents relating to the said [^c573695]. . . sheriffs which heretofore have been filed and recorded in the central office of the Senior Courts shall continue to be so filed and recorded.
 
@@ -352,14 +352,14 @@ TABLE
 
 | (1) | (2) |
 | --- | --- |
-| Bedfordshire[^c573750] | Bedford, Central Bedfordshire[^key-2bed59faf53994257e96040247a1d28a] and Luton |
+| Bedfordshire[^c573750] | Bedford, Central Bedfordshire[^c-2bed59faf53994257e96040247a1d28a] and Luton |
 | Buckinghamshire | Buckinghamshire and Milton Keynes |
 | Cambridgeshire[^c573752] | Cambridgeshire and Peterborough |
-| Cheshire | Cheshire East, Cheshire West and Chester, and[^key-f21bed9997cdb3d81c70f76ab15a2bec], Halton and Warrington |
-| Cumbria[^key-8637b09c33b8c1260c1ec2f653a67cce] | Cumberland, Westmorland and Furness |
+| Cheshire | Cheshire East, Cheshire West and Chester, and[^c-f21bed9997cdb3d81c70f76ab15a2bec], Halton and Warrington |
+| Cumbria[^c-8637b09c33b8c1260c1ec2f653a67cce] | Cumberland, Westmorland and Furness |
 | Derbyshire | Derbyshire and Derby |
 | Devon | Devon, Plymouth and Torbay |
-| Dorset | Bournemouth, Christchurch and Poole and Dorset[^key-0c43826f52b2367b3da44edf9e30676c] |
+| Dorset | Bournemouth, Christchurch and Poole and Dorset[^c-0c43826f52b2367b3da44edf9e30676c] |
 | Durham | Durham , Darlington[^c573758] and Hartlepool and so much of the county of Stockton-on-Tees as lies north of the line for the time being of the centre of the River Tees |
 | The East Riding of Yorkshire | The East Riding of Yorkshire and Kingston upon Hull (City of) |
 | East Sussex | East Sussex and Brighton and Hove |
@@ -370,7 +370,7 @@ TABLE
 | Lancashire | Lancashire, Blackburn and Blackpool |
 | Leicestershire | Leicestershire and Leicester |
 | Lincolnshire | Lincolnshire, North Lincolnshire and North East Lincolnshire |
-| Northamptonshire[^key-03249019e0adab9e0447eff4a92cec1a] | North Northamptonshire and West Northamptonshire |
+| Northamptonshire[^c-03249019e0adab9e0447eff4a92cec1a] | North Northamptonshire and West Northamptonshire |
 | North Yorkshire | North Yorkshire, Middlesbrough, Redcar and Cleveland and York and so much of the county of Stockton-on-Tees as lies south of the centre for the time being of the river Tees |
 | Nottinghamshire | Nottinghamshire and Nottingham |
 | Shropshire | Shropshire and The Wrekin |
@@ -446,7 +446,7 @@ TABLE
 
 [^c573634]: Textual amendment: S. 20(1) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/I) Group 1
 
-[^key-918a5199c0863d4627a79144cb6b270c]: Textual amendment: [S. 20(2A)](https://www.legislation.gov.uk/ukpga/Vict/50-51/55/section/20/2A) inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 20](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/20) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-918a5199c0863d4627a79144cb6b270c]: Textual amendment: [S. 20(2A)](https://www.legislation.gov.uk/ukpga/Vict/50-51/55/section/20/2A) inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 20](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/20) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c573635]: Textual amendment: Words in s. 20(3) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/I) Group 1
 
@@ -510,7 +510,7 @@ TABLE
 
 [^c573695]: Textual amendment: Words repealed by [Statute Law Revision Act 1908 (c. 49)](https://www.legislation.gov.uk/ukpga/1908/49)
 
-[^key-7fba3eb6ca589d9004432696e1fde8cf]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-7fba3eb6ca589d9004432696e1fde8cf]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c573699]: Textual amendment: Words in s. 33(4) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/I) Group 1
 
@@ -550,18 +550,18 @@ TABLE
 
 [^c573750]: Textual amendment: Entries in Sch. 2A inserted (1.4.1997) by [S.I. 1996/2009](https://www.legislation.gov.uk/uksi/1996/2009), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/1996/2009/article/2/1/b)
 
-[^key-2bed59faf53994257e96040247a1d28a]: Textual amendment: Words in Sch. 2A substituted (1.4.2009) by [Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [11(a)](https://www.legislation.gov.uk/uksi/2009/837/article/11/a)
+[^c-2bed59faf53994257e96040247a1d28a]: Textual amendment: Words in Sch. 2A substituted (1.4.2009) by [Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [11(a)](https://www.legislation.gov.uk/uksi/2009/837/article/11/a)
 
 [^c573752]: Textual amendment: Entries in Sch. 2A inserted (1.4.1998) by [S.I. 1997/1992](https://www.legislation.gov.uk/uksi/1997/1992), [art. 3](https://www.legislation.gov.uk/uksi/1997/1992/article/3)
 
-[^key-f21bed9997cdb3d81c70f76ab15a2bec]: Textual amendment: Words in Sch. 2A substituted (1.4.2009) by [Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [11(b)](https://www.legislation.gov.uk/uksi/2009/837/article/11/b)
+[^c-f21bed9997cdb3d81c70f76ab15a2bec]: Textual amendment: Words in Sch. 2A substituted (1.4.2009) by [Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [11(b)](https://www.legislation.gov.uk/uksi/2009/837/article/11/b)
 
-[^key-8637b09c33b8c1260c1ec2f653a67cce]: Textual amendment: Words in [Sch. 2A](https://www.legislation.gov.uk/ukpga/Vict/50-51/55/schedule/2A) Table inserted (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [29](https://www.legislation.gov.uk/uksi/2022/331/article/29)
+[^c-8637b09c33b8c1260c1ec2f653a67cce]: Textual amendment: Words in [Sch. 2A](https://www.legislation.gov.uk/ukpga/Vict/50-51/55/schedule/2A) Table inserted (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [29](https://www.legislation.gov.uk/uksi/2022/331/article/29)
 
-[^key-0c43826f52b2367b3da44edf9e30676c]: Textual amendment: Words in Sch. 2A substituted (1.4.2019) by [The Local Government (Structural and Boundary Changes) (Supplementary Provision and Miscellaneous Amendments) Order 2019 (S.I. 2019/615)](https://www.legislation.gov.uk/uksi/2019/615), [arts. 1](https://www.legislation.gov.uk/uksi/2019/615/article/1), [5](https://www.legislation.gov.uk/uksi/2019/615/article/5)
+[^c-0c43826f52b2367b3da44edf9e30676c]: Textual amendment: Words in Sch. 2A substituted (1.4.2019) by [The Local Government (Structural and Boundary Changes) (Supplementary Provision and Miscellaneous Amendments) Order 2019 (S.I. 2019/615)](https://www.legislation.gov.uk/uksi/2019/615), [arts. 1](https://www.legislation.gov.uk/uksi/2019/615/article/1), [5](https://www.legislation.gov.uk/uksi/2019/615/article/5)
 
 [^c573758]: Textual amendment: Word in Sch. 2A inserted (1.4.1997) by [S.I. 1996/2009](https://www.legislation.gov.uk/uksi/1996/2009), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1996/2009/article/2/1/a)
 
-[^key-03249019e0adab9e0447eff4a92cec1a]: Textual amendment: Words in Sch. 2A inserted (1.4.2021) by [The Northamptonshire (Structural Changes) (Supplementary Provision and Amendment) Order 2021 (S.I. 2021/272)](https://www.legislation.gov.uk/uksi/2021/272), [arts. 1](https://www.legislation.gov.uk/uksi/2021/272/article/1), [3](https://www.legislation.gov.uk/uksi/2021/272/article/3)
+[^c-03249019e0adab9e0447eff4a92cec1a]: Textual amendment: Words in Sch. 2A inserted (1.4.2021) by [The Northamptonshire (Structural Changes) (Supplementary Provision and Amendment) Order 2021 (S.I. 2021/272)](https://www.legislation.gov.uk/uksi/2021/272), [arts. 1](https://www.legislation.gov.uk/uksi/2021/272/article/1), [3](https://www.legislation.gov.uk/uksi/2021/272/article/3)
 
 [^c573769]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/Vict/50-51/55/schedule/3) repealed by [Statute Law Revision Act 1908 (c. 49)](https://www.legislation.gov.uk/ukpga/1908/49)

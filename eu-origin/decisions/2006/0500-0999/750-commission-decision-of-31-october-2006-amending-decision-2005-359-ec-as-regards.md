@@ -37,18 +37,18 @@ amending Decision 2005/359/EC as regards the ports of unloading of oak (*Quercus
 
 (2006/750/EC) (revoked)
 
-[^key-6bbac6cd58a8f91d34bb55afdeae989d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6bbac6cd58a8f91d34bb55afdeae989d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-6bbac6cd58a8f91d34bb55afdeae989d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6bbac6cd58a8f91d34bb55afdeae989d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6bbac6cd58a8f91d34bb55afdeae989d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6bbac6cd58a8f91d34bb55afdeae989d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6bbac6cd58a8f91d34bb55afdeae989d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6bbac6cd58a8f91d34bb55afdeae989d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-6bbac6cd58a8f91d34bb55afdeae989d]
+## ANNEX[^c-6bbac6cd58a8f91d34bb55afdeae989d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6bbac6cd58a8f91d34bb55afdeae989d]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/10) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-6bbac6cd58a8f91d34bb55afdeae989d]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/10) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

@@ -26,11 +26,11 @@ Section 186
 
 #### Designation orders
 
-**1.**[^key-254c60204f484e44cfd69b8676cbb05b] In this Part of this Schedule “**designation order**” means an order made under section 86A(6) of the Immigration and Asylum Act 1999 (c. 33) (designated qualifying regulators entitled to authorise persons to provide immigration advice and immigration services).
+**1.**[^c-254c60204f484e44cfd69b8676cbb05b] In this Part of this Schedule “**designation order**” means an order made under section 86A(6) of the Immigration and Asylum Act 1999 (c. 33) (designated qualifying regulators entitled to authorise persons to provide immigration advice and immigration services).
 
 #### Continuity of existing rights
 
-**2.**[^key-2c577fdca3a18a65e7089d9c538052c4] Each of the following bodies is a qualifying regulator for the purposes of Part 5 of the Immigration and Asylum Act 1999—
+**2.**[^c-2c577fdca3a18a65e7089d9c538052c4] Each of the following bodies is a qualifying regulator for the purposes of Part 5 of the Immigration and Asylum Act 1999—
 
 - (a) the Law Society;
 - (b) the Institute of Legal Executives;
@@ -38,7 +38,7 @@ Section 186
 
 #### Application to become a qualifying regulator
 
-**3.**[^key-38e0ae8865170eacd20cba6fe09b7880] (1) This paragraph applies where a body wishes to become a qualifying regulator for the purposes of Part 5 of the Immigration and Asylum Act 1999.
+**3.**[^c-38e0ae8865170eacd20cba6fe09b7880] (1) This paragraph applies where a body wishes to become a qualifying regulator for the purposes of Part 5 of the Immigration and Asylum Act 1999.
 
 (2) A body may apply to the Board for the Board—
 
@@ -62,14 +62,14 @@ Section 186
 
 #### Consultation and representations
 
-**4.**[^key-b3fbc242d8d74d77d812cca655ef1caa] Paragraphs 4 to 12 of Schedule 4 (consultation requirements etc in relation to applications for designation as approved regulator) apply in relation to an application under paragraph 3 as they apply in relation to an application under paragraph 3 of that Schedule, but as if—
+**4.**[^c-b3fbc242d8d74d77d812cca655ef1caa] Paragraphs 4 to 12 of Schedule 4 (consultation requirements etc in relation to applications for designation as approved regulator) apply in relation to an application under paragraph 3 as they apply in relation to an application under paragraph 3 of that Schedule, but as if—
 
 - (a) in paragraphs 6(2), 7(2), and 9(3) of that Schedule the references to making an order under paragraph 17 in accordance with the recommendation were references to making a designation order in respect of the applicant, and
 - (b) in paragraph 6(2) of that Schedule the reference to the market for reserved legal services were a reference to the market for immigration advice and immigration services.
 
 #### Determination of application
 
-**5.**[^key-0124b39f2ccf0b26a8046bbaffabc201] (1) The Board must make rules specifying how it will determine applications under paragraph 3.
+**5.**[^c-0124b39f2ccf0b26a8046bbaffabc201] (1) The Board must make rules specifying how it will determine applications under paragraph 3.
 
 (2) Rules under sub-paragraph (1) must, in particular, provide that the Board may grant an application only if it is satisfied—
 
@@ -86,7 +86,7 @@ Section 186
 
 (4) In subsection (2)(c) the reference to persons who are also authorised by the applicant to carry on activities which are reserved legal activities includes, in relation to any application by the Law Society, registered foreign lawyers (within the meaning of section 89 of the Courts and Legal Services Act 1990).
 
-**6.**[^key-48d0eb0a28f7173497679dd8854f1c63] (1) After considering—
+**6.**[^c-48d0eb0a28f7173497679dd8854f1c63] (1) After considering—
 
 - (a) the application and accompanying material,
 - (b) any other information provided by the applicant,
@@ -105,7 +105,7 @@ the Board must decide whether to grant the application.
 
 #### Effect of application
 
-**7.**[^key-0d0f4ac4122e6dfaf06f24c9f4c5c52e] (1) Where an application is granted under paragraph 6, the decision notice must specify that the applicant is a qualifying regulator for the purposes of Part 5 of the Immigration and Asylum Act 1999 (c. 33).
+**7.**[^c-0d0f4ac4122e6dfaf06f24c9f4c5c52e] (1) Where an application is granted under paragraph 6, the decision notice must specify that the applicant is a qualifying regulator for the purposes of Part 5 of the Immigration and Asylum Act 1999 (c. 33).
 
 (2) Where an application is granted under paragraph 6, the proposed regulatory arrangements are at the same time treated as having been approved by the Board.
 
@@ -113,7 +113,7 @@ the Board must decide whether to grant the application.
 
 #### Loss of qualifying regulator status
 
-**8.**[^key-eae45808d244bc5013f498f807f39d36] (1) Where a qualifying regulator—
+**8.**[^c-eae45808d244bc5013f498f807f39d36] (1) Where a qualifying regulator—
 
 - (a) ceases to be an approved regulator, or
 - (b) ceases to be a designated qualifying regulator within the meaning of section 86A of the Immigration and Asylum Act 1999 by virtue of an order under subsection (3) or (4) of that section,
@@ -126,19 +126,19 @@ it also ceases to be a qualifying regulator.
 
 ### Part 2 — Amendments of the Immigration and Asylum Act 1999 (c. 33)
 
-**9.**[^key-8c28d9b291abf91f2ac964bb782c708c] The Immigration and Asylum Act 1999 is amended in accordance with this Part of this Schedule.
+**9.**[^c-8c28d9b291abf91f2ac964bb782c708c] The Immigration and Asylum Act 1999 is amended in accordance with this Part of this Schedule.
 
-**10.**[^key-fd782f0b10e271994e63078568b416bb] In section 82(1) (interpretation of Part 5), after the definition of “designated professional body” insert—
+**10.**[^c-fd782f0b10e271994e63078568b416bb] In section 82(1) (interpretation of Part 5), after the definition of “designated professional body” insert—
 
 > “**designated qualifying regulator**” has the meaning given by section 86A;
 
 .
 
-**11.**[^key-b4ea5bdf6dfead98a7588dea062688ff] In section 83 (the Immigration Services Commissioner), after subsection (6) insert—
+**11.**[^c-b4ea5bdf6dfead98a7588dea062688ff] In section 83 (the Immigration Services Commissioner), after subsection (6) insert—
 
 > (6A) The duties imposed on the Commissioner by subsections (3) and (5) apply in relation to persons within section 84(2)(ba) only to the extent that those duties have effect in relation to the Commissioner's functions under section 92 or 92A.
 
-**12.**[^key-6935cb1fdbb3b6732dde65bfa7a15db6] (1) Section 84 (provision of immigration services) is amended as follows.
+**12.**[^c-6935cb1fdbb3b6732dde65bfa7a15db6] (1) Section 84 (provision of immigration services) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -158,7 +158,7 @@ it also ceases to be a qualifying regulator.
 >
 > (3B) In subsection (3A) “**regulatory arrangements**” has the same meaning as in the Legal Services Act 2007 (see section 21 of that Act).
 
-**13.**[^key-a6d88e6f3e4096ad53a2fe6d2ea14853] (1) Section 86 (designated professional bodies) is amended as follows.
+**13.**[^c-a6d88e6f3e4096ad53a2fe6d2ea14853] (1) Section 86 (designated professional bodies) is amended as follows.
 
 (2) Omit subsections (1)(a), (d) and (e) and (4)(b).
 
@@ -171,7 +171,7 @@ it also ceases to be a qualifying regulator.
 
 (5) In subsection (8) after “that a body” insert “ (other than a body in England and Wales) ”.
 
-**14.**[^key-ed912d8137ba0015c12fe93cb4e179e3] After section 86 insert—
+**14.**[^c-ed912d8137ba0015c12fe93cb4e179e3] After section 86 insert—
 
 > **86A. Designated qualifying regulators**
 >
@@ -216,7 +216,7 @@ it also ceases to be a qualifying regulator.
 > - “**qualifying regulator**” means a body which is a qualifying regulator for the purposes of this Part of this Act by virtue of Part 1 of Schedule 18 to the Legal Services Act 2007 (approved regulators approved by the Legal Services Board in relation to immigration matters);
 > - “**relevant authorised persons**”, in relation to a designated qualifying regulator, means persons who are authorised by the designated qualifying regulator to provide immigration advice or immigration services.
 
-**15.**[^key-a7097d9cbe74c06993bf85faefb09265] (1) Section 90 (orders by disciplinary bodies) is amended as follows.
+**15.**[^c-a7097d9cbe74c06993bf85faefb09265] (1) Section 90 (orders by disciplinary bodies) is amended as follows.
 
 (2) In subsection (2), for paragraph (a) substitute—
 
@@ -243,13 +243,13 @@ it also ceases to be a qualifying regulator.
   >
   > - (b) a person who is authorised by the designated qualifying regulator concerned to provide immigration advice or immigration services.
 
-**16.**[^key-f76ea775682ee88647253b04cf7c5963] In section 166(4) (orders requiring approval by Parliament), after paragraph (d) insert—
+**16.**[^c-f76ea775682ee88647253b04cf7c5963] In section 166(4) (orders requiring approval by Parliament), after paragraph (d) insert—
 
 > - (da) section 86A(3),
 
 .
 
-**17.**[^key-a532905395edf49aa570473e5e7e4e97] (1) Schedule 5 (the Immigration Services Commissioner) is amended as follows.
+**17.**[^c-a532905395edf49aa570473e5e7e4e97] (1) Schedule 5 (the Immigration Services Commissioner) is amended as follows.
 
 (2) In paragraph 3 (code of standards)—
 
@@ -346,36 +346,36 @@ it also ceases to be a qualifying regulator.
 
 ## Annotations
 
-[^key-254c60204f484e44cfd69b8676cbb05b]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/1) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-254c60204f484e44cfd69b8676cbb05b]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/1) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-2c577fdca3a18a65e7089d9c538052c4]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/2) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-2c577fdca3a18a65e7089d9c538052c4]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/2) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-38e0ae8865170eacd20cba6fe09b7880]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/3) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-38e0ae8865170eacd20cba6fe09b7880]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/3) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-b3fbc242d8d74d77d812cca655ef1caa]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/4) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-b3fbc242d8d74d77d812cca655ef1caa]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/4) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-0124b39f2ccf0b26a8046bbaffabc201]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/5) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-0124b39f2ccf0b26a8046bbaffabc201]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/5) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-48d0eb0a28f7173497679dd8854f1c63]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/6) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-48d0eb0a28f7173497679dd8854f1c63]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/6) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-0d0f4ac4122e6dfaf06f24c9f4c5c52e]: Commencement: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/7) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-0d0f4ac4122e6dfaf06f24c9f4c5c52e]: Commencement: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/7) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-eae45808d244bc5013f498f807f39d36]: Commencement: [Sch. 18 para. 8](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/8) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-eae45808d244bc5013f498f807f39d36]: Commencement: [Sch. 18 para. 8](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/8) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-8c28d9b291abf91f2ac964bb782c708c]: Commencement: [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/9) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-8c28d9b291abf91f2ac964bb782c708c]: Commencement: [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/9) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-fd782f0b10e271994e63078568b416bb]: Commencement: [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/10) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-fd782f0b10e271994e63078568b416bb]: Commencement: [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/10) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-b4ea5bdf6dfead98a7588dea062688ff]: Commencement: [Sch. 18 para. 11](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/11) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-b4ea5bdf6dfead98a7588dea062688ff]: Commencement: [Sch. 18 para. 11](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/11) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-6935cb1fdbb3b6732dde65bfa7a15db6]: Commencement: [Sch. 18 para. 12](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/12) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-6935cb1fdbb3b6732dde65bfa7a15db6]: Commencement: [Sch. 18 para. 12](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/12) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-a6d88e6f3e4096ad53a2fe6d2ea14853]: Commencement: [Sch. 18 para. 13](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/13) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-a6d88e6f3e4096ad53a2fe6d2ea14853]: Commencement: [Sch. 18 para. 13](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/13) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-ed912d8137ba0015c12fe93cb4e179e3]: Commencement: [Sch. 18 para. 14](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/14) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-ed912d8137ba0015c12fe93cb4e179e3]: Commencement: [Sch. 18 para. 14](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/14) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-a7097d9cbe74c06993bf85faefb09265]: Commencement: [Sch. 18 para. 15](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/15) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-a7097d9cbe74c06993bf85faefb09265]: Commencement: [Sch. 18 para. 15](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/15) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-f76ea775682ee88647253b04cf7c5963]: Commencement: [Sch. 18 para. 16](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/16) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-f76ea775682ee88647253b04cf7c5963]: Commencement: [Sch. 18 para. 16](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/16) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
 
-[^key-a532905395edf49aa570473e5e7e4e97]: Commencement: [Sch. 18 para. 17](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/17) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-a532905395edf49aa570473e5e7e4e97]: Commencement: [Sch. 18 para. 17](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/17) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)

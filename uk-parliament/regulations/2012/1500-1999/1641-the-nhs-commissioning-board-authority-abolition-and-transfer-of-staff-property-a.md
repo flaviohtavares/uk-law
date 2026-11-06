@@ -48,7 +48,7 @@ The Secretary of State has consulted such bodies as the Secretary of State has r
 
 ## PART 1 — General
 
-### 1. Citation, commencement and extent[^key-d0ab050024f74bbe969fa59decec970a]
+### 1. Citation, commencement and extent[^c-d0ab050024f74bbe969fa59decec970a]
 
 (1) This Order may be cited as the NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012.
 
@@ -69,21 +69,21 @@ The Secretary of State has consulted such bodies as the Secretary of State has r
 
 ## PART 2 — Abolition of the NHS Commissioning Board Authority
 
-### 2. Interpretation[^key-f6ea0d564cc805e567c76382fd633c8c]
+### 2. Interpretation[^c-f6ea0d564cc805e567c76382fd633c8c]
 
 In this Part—
 
 - “the Act” means the National Health Service Act 2006;
 - “the Authority” means the NHS Commissioning Board Authority established under article 2 of the NHS Commissioning Board Authority (Establishment and Constitution) Order 2011[^f00005];
-- [^key-409e3f81f2c44a1686cd511fa4d7bb97]...
-- “[^key-703f9ac46de01684b0f7309462c163e2] **NHS England**” means the body corporate established under section 1H of the Act;
+- [^c-409e3f81f2c44a1686cd511fa4d7bb97]...
+- “[^c-703f9ac46de01684b0f7309462c163e2] **NHS England**” means the body corporate established under section 1H of the Act;
 - “the transfer date” means the date on which this Part comes into force by virtue of article 1(2).
 
-### 3. Abolition of the Authority[^key-b97a44473c860e0da12fdf177e19bcad]
+### 3. Abolition of the Authority[^c-b97a44473c860e0da12fdf177e19bcad]
 
 The Authority is abolished.
 
-### 4. Transfer of staff to NHS England[^key-915b0eccf735f97075e063cbc281ba7b][^key-34df0c1156d679eaadae079150e91065]
+### 4. Transfer of staff to NHS England[^c-915b0eccf735f97075e063cbc281ba7b][^c-34df0c1156d679eaadae079150e91065]
 
 (1) This paragraph applies to any person who—
 
@@ -114,7 +114,7 @@ The Authority is abolished.
 
 (10) Paragraphs (2), (3) and (5) to (8) are without prejudice to any right of a person arising apart from this article to terminate that person’s contract of employment without notice in acceptance of a repudiatory breach of contract by the employer.
 
-### 5. Transfer of property and liabilities[^key-d3bc7a205421d7a748192b7761dcfc97]
+### 5. Transfer of property and liabilities[^c-d3bc7a205421d7a748192b7761dcfc97]
 
 (1) Any property held by the Authority immediately before the transfer date which is identified in Schedule 1 is to transfer, on the transfer date, to NHS England.
 
@@ -124,7 +124,7 @@ The Authority is abolished.
 
 (4) Any right relating to property held by the Authority immediately before the transfer date that was enforceable by or against the Authority before the transfer date is, on or after that date, to be enforceable by or against NHS England.
 
-### 6. Transfer of other liabilities and winding up of affairs[^key-3441c137f61ddc340b857ca6f54a1a62]
+### 6. Transfer of other liabilities and winding up of affairs[^c-3441c137f61ddc340b857ca6f54a1a62]
 
 (1) On the transfer date, all liabilities of the Authority not mentioned in articles 4 and 5 are to transfer to NHS England .
 
@@ -141,7 +141,7 @@ The Authority is abolished.
 
 (5) NHS England must take such action as may be necessary for the winding up of the affairs of the Authority.
 
-### 7. Supplementary provision[^key-61062356f29e9c48dac8cdede17c10d3]
+### 7. Supplementary provision[^c-61062356f29e9c48dac8cdede17c10d3]
 
 (1) Any act or omission by, or in relation to, the Authority before the transfer date in respect of—
 
@@ -167,17 +167,17 @@ is deemed to have effect as if done by, or in relation to, and may be continued 
 - (a) irrespective of any requirement for consent that would otherwise apply (whether arising under any enactment, instrument, agreement or otherwise); and
 - (b) whether or not they would otherwise be capable of being transferred.
 
-### 8. Amendments and revocations consequential on the abolition of the Authority[^key-99111ed1b40388b42a69902f5fef5f25]
+### 8. Amendments and revocations consequential on the abolition of the Authority[^c-99111ed1b40388b42a69902f5fef5f25]
 
 The amendments and revocations in Schedule 2 have effect.
 
 ## PART 3 — Amendments to subordinate legislation consequential on the provisions of the Health and Social Care Act 2012 relating to NHS England and clinical commissioning groups and Monitor
 
-### 9. Amendments consequential on provisions relating to the establishment of NHS England and clinical commissioning groups[^key-c1fb4e93a0cedd642230c825418774fc]
+### 9. Amendments consequential on provisions relating to the establishment of NHS England and clinical commissioning groups[^c-c1fb4e93a0cedd642230c825418774fc]
 
 The amendments in Schedule 3 have effect.
 
-### 10. Amendments consequential on provisions relating to Monitor[^key-0c92b5a002820a0df913ebecc57c3630]
+### 10. Amendments consequential on provisions relating to Monitor[^c-0c92b5a002820a0df913ebecc57c3630]
 
 The amendments in Schedule 4 have effect.
 
@@ -195,7 +195,7 @@ Department of Health
 
 Part 2, article 5(1)
 
-### 1. Furniture, fittings, plant, equipment and machinery[^key-bac5db47503b55c50c59d015bf899db5]
+### 1. Furniture, fittings, plant, equipment and machinery[^c-bac5db47503b55c50c59d015bf899db5]
 
 (1) The property and liabilities which the Authority has in relation to the items specified in sub-paragraph (2) are to transfer to NHS England on the transfer date.
 
@@ -207,7 +207,7 @@ Part 2, article 5(1)
 - (d) all goods, stocks, inventory, stores and raw materials used by or in connection with, or otherwise attributable, to the functions of the Authority;
 - (e) all assets, whether tangible or intangible, purchased through money supplied by the Department of Health in relation to the Authority’s work in preparing for the establishment of NHS England .
 
-### 2. Contracts and agreements[^key-6d43569272e2381170269b01c54206e7]
+### 2. Contracts and agreements[^c-6d43569272e2381170269b01c54206e7]
 
 (1) The property and liabilities which the Authority has in relation to the contracts and agreements specified in sub-paragraph (2) are to transfer to NHS England on the transfer date.
 
@@ -217,7 +217,7 @@ Part 2, article 5(1)
 - (b) all policies of insurance taken out and maintained by the Authority in relation to any of the functions of the Authority; and
 - (c) all other contracts, agreements, arrangements, engagements, assignments and orders which relate to any of the functions of the Authority.
 
-### 3. Intellectual property and records[^key-45528726c3358c250901b714cda78c5d]
+### 3. Intellectual property and records[^c-45528726c3358c250901b714cda78c5d]
 
 (1) The intellectual property and liabilities which the Authority has in relation to the items specified in sub-paragraph (2) are to transfer to NHS England on the transfer date.
 
@@ -236,19 +236,19 @@ Part 2, article 5(1)
 
 Part 2, article 8
 
-### 1. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^key-fe527a8c0ece8dbb695109d07093479a]
+### 1. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^c-fe527a8c0ece8dbb695109d07093479a]
 
 In regulation 11(5) of the National Health Service (Membership and Procedure) Regulations 1990[^f00011] (disqualification for appointment of chairman and non-executive directors), omit sub-paragraph (i).
 
-### 2. The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^key-64c7fd027b94f073bbd79aca360f8941]
+### 2. The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^c-64c7fd027b94f073bbd79aca360f8941]
 
 In Schedule 1 to the Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^f00012] (Special Health Authorities of which the Chairman and Members are not disqualified under regulation 5(1)(e)), omit “NHS Commissioning Board Authority”.
 
-### 3. The NHS Commissioning Board Authority (Establishment and Constitution) Order 2011[^key-b474d639dfea733c15f3f3ff91b63ff3]
+### 3. The NHS Commissioning Board Authority (Establishment and Constitution) Order 2011[^c-b474d639dfea733c15f3f3ff91b63ff3]
 
 The NHS Commissioning Board Authority (Establishment and Constitution) Order 2011[^f00013] is revoked.
 
-### 4. The NHS Commissioning Board Authority Regulations 2011[^key-311907e5bb2690d7c0bab65eb03f46ee]
+### 4. The NHS Commissioning Board Authority Regulations 2011[^c-311907e5bb2690d7c0bab65eb03f46ee]
 
 The NHS Commissioning Board Authority Regulations 2011[^f00014] are revoked save as kept in force by article 6(4).
 
@@ -256,7 +256,7 @@ The NHS Commissioning Board Authority Regulations 2011[^f00014] are revoked save
 
 Part 3, article 9
 
-### 1. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^key-6b755f25402ccdda8d44837d0903b64e]
+### 1. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^c-6b755f25402ccdda8d44837d0903b64e]
 
 (1) The National Health Service Trusts (Membership and Procedure) Regulations 1990[^f00015] are amended as follows.
 
@@ -302,7 +302,7 @@ Part 3, article 9
 
 .
 
-### 2. The National Health Service Litigation Authority Regulations 1995[^key-21069b49c78a38283485de6260a2d9d6]
+### 2. The National Health Service Litigation Authority Regulations 1995[^c-21069b49c78a38283485de6260a2d9d6]
 
 (1) The National Health Service Litigation Authority Regulations 1995[^f00016] are amended as follows.
 
@@ -336,15 +336,15 @@ Part 3, article 9
 
 .
 
-### 3. The National Health Service Litigation Authority (Establishment and Constitution) Order 1995[^key-d02a239e0bce1590aacaf1d30ed0b3cc]
+### 3. The National Health Service Litigation Authority (Establishment and Constitution) Order 1995[^c-d02a239e0bce1590aacaf1d30ed0b3cc]
 
 In article 1(2) of the National Health Service Litigation Authority (Establishment and Constitution) Order 1995[^f00017] (interpretation), in the definition of “NHS body”, after “Special Health Authority,” insert “the National Health Service Commissioning Board, a clinical commissioning group,”.
 
-### 4. The National Health Service (Clinical Negligence Scheme) Regulations 1996[^key-e2dd27159210816b23db0f175c00328e]
+### 4. The National Health Service (Clinical Negligence Scheme) Regulations 1996[^c-e2dd27159210816b23db0f175c00328e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. The National Health Service (Existing Liabilities Scheme) Regulations 1996[^key-0e3327d47bcc7e9ef24ee9e6885785e5]
+### 5. The National Health Service (Existing Liabilities Scheme) Regulations 1996[^c-0e3327d47bcc7e9ef24ee9e6885785e5]
 
 In regulation 3(a) of the National Health Service (Existing Liabilities Scheme) Regulations 1996[^f00019] (eligible bodies), after sub-paragraph (iv) insert—
 
@@ -352,7 +352,7 @@ In regulation 3(a) of the National Health Service (Existing Liabilities Scheme) 
 
 .
 
-### 6. The National Health Service (Liabilities to Third Parties Scheme) Regulations 1999[^key-c32b2ae813b55ea753e3010d74a1bc14]
+### 6. The National Health Service (Liabilities to Third Parties Scheme) Regulations 1999[^c-c32b2ae813b55ea753e3010d74a1bc14]
 
 In regulation 3 of the National Health Service (Liabilities to Third Parties Scheme) Regulations 1999[^f00020] (eligible bodies)—
 
@@ -368,7 +368,7 @@ In regulation 3 of the National Health Service (Liabilities to Third Parties Sch
 
   .
 
-### 7. The National Health Service (Property Expenses Scheme) Regulations 1999[^key-f61a2df18f403b758b93b8409be48555]
+### 7. The National Health Service (Property Expenses Scheme) Regulations 1999[^c-f61a2df18f403b758b93b8409be48555]
 
 In regulation 3 of the National Health Service (Property Expenses Scheme) Regulations 1999[^f00021] (eligible bodies)—
 
@@ -384,7 +384,7 @@ In regulation 3 of the National Health Service (Property Expenses Scheme) Regula
 
   .
 
-### 8. The Medicines for Human Use (Clinical Trials) Regulations 2004[^key-c862081bcebed791aef6886db1ec1a37]
+### 8. The Medicines for Human Use (Clinical Trials) Regulations 2004[^c-c862081bcebed791aef6886db1ec1a37]
 
 (1) The Medicines for Human Use (Clinical Trials) Regulations 2004[^f00022] are amended as follows.
 
@@ -408,7 +408,7 @@ In regulation 3 of the National Health Service (Property Expenses Scheme) Regula
   ; and
 - (b) in paragraph 6(6)(a)(ii), after “health service body” insert “or the governing body of a clinical commissioning group”.
 
-### 9. The NHS Blood and Transplant (Gwaed a Thrawsblaniadau’r GIG) Regulations 2005[^key-75e6d844541909fa52123251dce7895f]
+### 9. The NHS Blood and Transplant (Gwaed a Thrawsblaniadau’r GIG) Regulations 2005[^c-75e6d844541909fa52123251dce7895f]
 
 (1) The NHS Blood and Transplant (Gwaed a Thrawsblaniadau’r GIG) Regulations 2005[^f00023] are amended as follows.
 
@@ -448,7 +448,7 @@ In regulation 3 of the National Health Service (Property Expenses Scheme) Regula
 
 .
 
-### 10. The NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2005[^key-ff6cf167b34a06614ab0b63622c713d8]
+### 10. The NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2005[^c-ff6cf167b34a06614ab0b63622c713d8]
 
 (1) The NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2005[^f00024] are amended as follows.
 
@@ -498,7 +498,7 @@ In regulation 3 of the National Health Service (Property Expenses Scheme) Regula
 
 .
 
-### 11. The Care Quality Commission (Registration) Regulations 2009[^key-e06a77b0b896b749c4b6402ee465d73d]
+### 11. The Care Quality Commission (Registration) Regulations 2009[^c-e06a77b0b896b749c4b6402ee465d73d]
 
 (1) The Care Quality Commission (Registration) Regulations 2009[^f00025] are amended as follows.
 
@@ -518,7 +518,7 @@ In regulation 3 of the National Health Service (Property Expenses Scheme) Regula
 
 .
 
-### 12. The Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009[^key-f4433ac497ece1a5fd217489562ddf42]
+### 12. The Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009[^c-f4433ac497ece1a5fd217489562ddf42]
 
 (1) The English text of the Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009[^f00026] is amended as follows.
 
@@ -610,7 +610,7 @@ In regulation 3 of the National Health Service (Property Expenses Scheme) Regula
 
   .
 
-### 13. The Welsh Health Specialised Services Committee (Wales) Regulations 2009[^key-9e0863fbd0285c5ef7ae85f973bb29a4]
+### 13. The Welsh Health Specialised Services Committee (Wales) Regulations 2009[^c-9e0863fbd0285c5ef7ae85f973bb29a4]
 
 (1) The English text of the Welsh Health Specialised Services Committee (Wales) Regulations 2009[^f00027] is amended as follows.
 
@@ -642,7 +642,7 @@ In regulation 3 of the National Health Service (Property Expenses Scheme) Regula
 
 (8) At the end of paragraph 1(4) of Schedule 2, insert “ac eithrio grŵp comisiynu clinigol, neu fel un sydd wedi dal swydd cadeirydd neu aelod o gorff llywodraethu grŵp comisiynu clinigol”.
 
-### 14. The Local Health Boards (Constitution, Membership and Procedures) (Wales) Regulations 2009[^key-4a5f41a0e750b9fcbd4aa941596a5a90]
+### 14. The Local Health Boards (Constitution, Membership and Procedures) (Wales) Regulations 2009[^c-4a5f41a0e750b9fcbd4aa941596a5a90]
 
 (1) The English text of the Local Health Boards (Constitution, Membership and Procedures) (Wales) Regulations 2009[^f00028] is amended as follows.
 
@@ -674,7 +674,7 @@ In regulation 3 of the National Health Service (Property Expenses Scheme) Regula
 
 (8) At the end of paragraph 1(4) of Schedule 2, insert “ac eithrio grŵp comisiynu clinigol, neu fel un sydd wedi dal swydd cadeirydd neu aelod o gorff llywodraethu grŵp comisiynu clinigol”.
 
-### 15. The Health Research Authority Regulations 2011[^key-ac6b04e54dfa4a28474382092a914bfc]
+### 15. The Health Research Authority Regulations 2011[^c-ac6b04e54dfa4a28474382092a914bfc]
 
 (1) The Health Research Authority Regulations 2011[^f00029] are amended as follows.
 
@@ -704,7 +704,7 @@ In regulation 3 of the National Health Service (Property Expenses Scheme) Regula
 
   .
 
-### 16. The National Health Service Trust Development Authority Regulations 2012[^key-c862f662d3051596be07dd19900de755]
+### 16. The National Health Service Trust Development Authority Regulations 2012[^c-c862f662d3051596be07dd19900de755]
 
 (1) The National Health Service Trust Development Authority Regulations 2012[^f00030] are amended as follows.
 
@@ -746,7 +746,7 @@ In regulation 3 of the National Health Service (Property Expenses Scheme) Regula
 
   .
 
-### 17. The Health Education England Regulations 2012[^key-5507744197174c156a6d2f529920ac8a]
+### 17. The Health Education England Regulations 2012[^c-5507744197174c156a6d2f529920ac8a]
 
 (1) The Health Education England Regulations 2012[^f00031] are amended as follows.
 
@@ -780,7 +780,7 @@ In regulation 3 of the National Health Service (Property Expenses Scheme) Regula
 
 Part 3, article 10
 
-### 1. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^key-df11c42ccf516d5f81ac54ef3395fc30]
+### 1. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^c-df11c42ccf516d5f81ac54ef3395fc30]
 
 (1) The National Health Service Trusts (Membership and Procedure) Regulations 1990[^f00032] are amended as follows.
 
@@ -795,7 +795,7 @@ Part 3, article 10
 
 (3) In regulation 11(1) (disqualification for appointment of chairman and non-executive directors), in sub-paragraph (i) for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
 
-### 2. The National Health Service Litigation Authority Regulations 1995[^key-eadc9bbfff173c9f1e788966ae121796]
+### 2. The National Health Service Litigation Authority Regulations 1995[^c-eadc9bbfff173c9f1e788966ae121796]
 
 (1) The National Health Service Litigation Authority Regulations 1995[^f00034] are amended as follows.
 
@@ -806,7 +806,7 @@ Part 3, article 10
 
 (3) In regulation 7(1)(g) (disqualification for appointment), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
 
-### 3. The Health Authorities (Membership and Procedure) Regulations 1996[^key-1853010a94382d55f4b4d19eadf0836a]
+### 3. The Health Authorities (Membership and Procedure) Regulations 1996[^c-1853010a94382d55f4b4d19eadf0836a]
 
 (1) The Health Authorities (Membership and Procedure) Regulations 1996[^f00035] are amended as follows.
 
@@ -821,7 +821,7 @@ Part 3, article 10
 
 (3) In regulation 10(1)(m) (disqualification for appointment), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
 
-### 4. The National Institute for Clinical Excellence Regulations 1999[^key-6db759cf9158042fc537d4580cd97232]
+### 4. The National Institute for Clinical Excellence Regulations 1999[^c-6db759cf9158042fc537d4580cd97232]
 
 In regulation 1(2) of the National Institute for Clinical Excellence Regulations 1999[^f00036] (interpretation)—
 
@@ -832,14 +832,14 @@ In regulation 1(2) of the National Institute for Clinical Excellence Regulations
   ; and
 - (b) omit the definition of “Independent Regulator of NHS Foundation Trusts”.
 
-### 5. The Public Interest Disclosure (Prescribed Persons) Order 1999[^key-e8d41e62d877a8e6f7afabf625cc4337]
+### 5. The Public Interest Disclosure (Prescribed Persons) Order 1999[^c-e8d41e62d877a8e6f7afabf625cc4337]
 
 (1) In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order 1999[^f00037] (persons prescribed for the purposes of section 43F of the Employment Rights Act 1996)—
 
 - (a) for “Independent Regulator of NHS Foundation Trusts”, in each place it occurs, substitute “Monitor”; and
 - (b) in paragraph (b) of the description of matters in respect of which that body is prescribed omit “under the National Health Service Act 2006”.
 
-### 6. The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^key-8f423fcec528fc6199839d4959c112e8]
+### 6. The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^c-8f423fcec528fc6199839d4959c112e8]
 
 (1) The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^f00038] are amended as follows.
 
@@ -854,7 +854,7 @@ In regulation 1(2) of the National Institute for Clinical Excellence Regulations
 
 (3) In regulation 5(1)(k) (disqualification for appointment: chairman and non-officer members), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
 
-### 7. The National Treatment Agency Regulations 2001[^key-63950a6d4e98a8a21a9036e05bf0ca07]
+### 7. The National Treatment Agency Regulations 2001[^c-63950a6d4e98a8a21a9036e05bf0ca07]
 
 (1) The National Treatment Agency Regulations 2001[^f00039] are amended as follows.
 
@@ -869,7 +869,7 @@ In regulation 1(2) of the National Institute for Clinical Excellence Regulations
 
 (3) In regulation 3(1)(g) (disqualification for appointment), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
 
-### 8. The Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Regulations 2002[^key-1858f3340e76bdbffc4c4d6ec56d9624]
+### 8. The Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Regulations 2002[^c-1858f3340e76bdbffc4c4d6ec56d9624]
 
 (1) The Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Regulations 2002[^f00040] are amended as follows.
 
@@ -877,11 +877,11 @@ In regulation 1(2) of the National Institute for Clinical Excellence Regulations
 
 (3) In regulation 4A(1)(a) (consultation of committees by NHS Foundation Trusts), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
 
-### 9. The Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^key-453e5cf68f0f78e1a3b744f48363d269]
+### 9. The Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^c-453e5cf68f0f78e1a3b744f48363d269]
 
 In the Annex to Schedule 1 to the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^f00041] (list of regulators), for the entry for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
 
-### 10. The Health Protection Agency Regulations 2005[^key-2c864fca12fd49679f550e0803928a01]
+### 10. The Health Protection Agency Regulations 2005[^c-2c864fca12fd49679f550e0803928a01]
 
 In regulation 1(3) of the Health Protection Agency Regulations 2005[^f00042] (interpretation), in the definition of “health service body”, for paragraph (j) substitute—
 
@@ -889,23 +889,23 @@ In regulation 1(3) of the Health Protection Agency Regulations 2005[^f00042] (in
 
 .
 
-### 11. The Health and Social Care Information Centre Regulations 2005[^key-c831528531aad784ec346096cdc03de3]
+### 11. The Health and Social Care Information Centre Regulations 2005[^c-c831528531aad784ec346096cdc03de3]
 
 In regulation 3(1)(h) of the Health and Social Care Information Centre Regulations 2005[^f00043] (disqualification for appointment), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
 
-### 12. The NHS Institute for Innovation and Improvement Regulations 2005[^key-11637ee211e2eaa5b903dc2733f297f1]
+### 12. The NHS Institute for Innovation and Improvement Regulations 2005[^c-11637ee211e2eaa5b903dc2733f297f1]
 
 In regulation 3(1)(h) of the NHS Institute for Innovation and Improvement Regulations 2005[^f00044] (disqualification for appointment), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
 
-### 13. The NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2005[^key-692d36b0715de53f904c62efb14dfba3]
+### 13. The NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2005[^c-692d36b0715de53f904c62efb14dfba3]
 
 In regulation 3(1)(h) of the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2005[^f00045] (disqualification for appointment), for “the Independent Regulator of NHS foundation trusts” substitute “Monitor”.
 
-### 14. NHS Blood and Transplant (Gwaed a Thrawsblaniadau’r GIG) Regulations 2005[^key-1e54bd58b4f8999d8d8d2f360e0792cc]
+### 14. NHS Blood and Transplant (Gwaed a Thrawsblaniadau’r GIG) Regulations 2005[^c-1e54bd58b4f8999d8d8d2f360e0792cc]
 
 In regulation 3(1)(h) of the NHS Blood and Transplant (Gwaed a Thrawsblaniadau’r GIG) Regulations 2005[^f00046] (disqualification for appointment), for “the Independent Regulator of NHS foundation trusts” substitute “Monitor”.
 
-### 15. The Care Quality Commission (Membership) Regulations 2008[^key-72cc69076b436f6068e8ca9873878a33]
+### 15. The Care Quality Commission (Membership) Regulations 2008[^c-72cc69076b436f6068e8ca9873878a33]
 
 In regulation 1(2) of the Care Quality Commission (Membership) Regulations 2008[^f00047] (interpretation), in the definition of “NHS body”, for paragraph (c) substitute—
 
@@ -913,7 +913,7 @@ In regulation 1(2) of the Care Quality Commission (Membership) Regulations 2008[
 
 .
 
-### 16. The National Information Governance Board for Health and Social Care Regulations 2008[^key-10b0a7026bb553030844c635bdac64fa]
+### 16. The National Information Governance Board for Health and Social Care Regulations 2008[^c-10b0a7026bb553030844c635bdac64fa]
 
 In regulation 1(3) of the National Information Governance Board for Health and Social Care Regulations 2008[^f00048] (interpretation), in the definition of “health service body”, for paragraph (h) substitute—
 
@@ -921,7 +921,7 @@ In regulation 1(3) of the National Information Governance Board for Health and S
 
 .
 
-### 17. The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009[^key-d9eba636c11b79cdb72481bf7e87ee94]
+### 17. The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009[^c-d9eba636c11b79cdb72481bf7e87ee94]
 
 (1) Schedule 3 to the Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009[^f00049] (transitory, transitional and saving provisions in relation to the functions of the CHAI and the CSCI under the 2003 Act) is amended as follows.
 
@@ -930,7 +930,7 @@ In regulation 1(3) of the National Information Governance Board for Health and S
 - (a) in the heading to that paragraph, for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”; and
 - (b) in sub-paragraph (1)(b), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
 
-### 18. The Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009[^key-9617f39b14090edf69a63d17b0f3f6f4]
+### 18. The Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009[^c-9617f39b14090edf69a63d17b0f3f6f4]
 
 (1) The English text of the Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009[^f00050] is amended as follows.
 
@@ -958,15 +958,15 @@ In regulation 1(3) of the National Information Governance Board for Health and S
 
 (6) In regulation 15(1)(e) (datgymhwyso rhag penodi cadeirydd a chyfarwyddwyr anweithredol), for “Rheolydd Annibynnol Ymddiriedolaethau Sefydledig GIG” substitute “Monitor”.
 
-### 19. The Medical Profession (Responsible Officers) Regulations 2010[^key-a69d2be5b1f610eb5e62060263718ba0]
+### 19. The Medical Profession (Responsible Officers) Regulations 2010[^c-a69d2be5b1f610eb5e62060263718ba0]
 
 In regulation 9(4) of the Medical Profession (Responsible Officers) Regulations 2010[^f00051] (nomination of responsible officer by the Secretary of State), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
 
-### 20. The Equality Act 2010 (Specific Duties) Regulations 2011[^key-56323ccb1136e2d246d192629fcfa0b7]
+### 20. The Equality Act 2010 (Specific Duties) Regulations 2011[^c-56323ccb1136e2d246d192629fcfa0b7]
 
 In Schedule 1 to the Equality Act 2010 (Specific Duties) Regulations 2011[^f00052] (public authorities required to publish information), for the entry for the Independent Regulator of NHS Foundation Trusts substitute “Monitor”.
 
-### 21. The Health Research Authority Regulations 2011[^key-05a98dd46c0f66a2660de896690bd2d7]
+### 21. The Health Research Authority Regulations 2011[^c-05a98dd46c0f66a2660de896690bd2d7]
 
 In regulation 1(2) of the Health Research Authority Regulations 2011[^f00053] (interpretation), in the definition of “health service body”, for sub-paragraph (f) substitute—
 
@@ -974,7 +974,7 @@ In regulation 1(2) of the Health Research Authority Regulations 2011[^f00053] (i
 
 .
 
-### 22. The National Health Service Trust Development Authority Regulations 2012[^key-51d275a0a912db9978a41d46f69bd910]
+### 22. The National Health Service Trust Development Authority Regulations 2012[^c-51d275a0a912db9978a41d46f69bd910]
 
 (1) The National Health Service Trust Development Authority Regulations 2012[^f00054] are amended as follows.
 
@@ -986,7 +986,7 @@ In regulation 1(2) of the Health Research Authority Regulations 2011[^f00053] (i
 
 (3) In paragraph 3(1)(h) (disqualification for appointment), for “chairman or another member of the Independent Regulator of NHS foundation trusts” substitute “chair or another member of Monitor”.
 
-### 23. The Health Education England Regulations 2012[^key-afc9477c0d03ce8781e238fc95015c9b]
+### 23. The Health Education England Regulations 2012[^c-afc9477c0d03ce8781e238fc95015c9b]
 
 In regulation 1(2) of the Health Education England Regulations 2012[^f00055] (interpretation), in the definition of “health service body”, for paragraph (f) substitute—
 
@@ -1018,222 +1018,222 @@ A full impact assessment has not been produced for this Order as the instrument 
 
 [^f00003]: Footnote: *See* section 28(7) of the National Health Service 2006 for the requirement to consult.
 
-[^key-d0ab050024f74bbe969fa59decec970a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1641/article/1) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-d0ab050024f74bbe969fa59decec970a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1641/article/1) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00004]: Footnote: Section 1H(1) of the National Health Service Act 2006 is inserted by section 9 of the Health and Social Care Act 2012.
 
-[^key-f6ea0d564cc805e567c76382fd633c8c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/1641/article/2) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-f6ea0d564cc805e567c76382fd633c8c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/1641/article/2) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00005]: Footnote: [S.I. 2011/2237](https://www.legislation.gov.uk/uksi/2011/2237).
 
-[^key-409e3f81f2c44a1686cd511fa4d7bb97]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1641/article/2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [54(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/54/2/a)
+[^c-409e3f81f2c44a1686cd511fa4d7bb97]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1641/article/2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [54(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/54/2/a)
 
-[^key-703f9ac46de01684b0f7309462c163e2]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1641/article/2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [54(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/54/2/b)
+[^c-703f9ac46de01684b0f7309462c163e2]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1641/article/2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [54(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/54/2/b)
 
-[^key-b97a44473c860e0da12fdf177e19bcad]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1641/article/3) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-b97a44473c860e0da12fdf177e19bcad]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1641/article/3) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
-[^key-915b0eccf735f97075e063cbc281ba7b]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1641/article/4) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-915b0eccf735f97075e063cbc281ba7b]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1641/article/4) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
-[^key-34df0c1156d679eaadae079150e91065]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-34df0c1156d679eaadae079150e91065]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-d3bc7a205421d7a748192b7761dcfc97]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1641/article/5) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-d3bc7a205421d7a748192b7761dcfc97]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1641/article/5) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
-[^key-3441c137f61ddc340b857ca6f54a1a62]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/1641/article/6) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-3441c137f61ddc340b857ca6f54a1a62]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/1641/article/6) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00007]: Footnote: [S.I. 2011/2250](https://www.legislation.gov.uk/uksi/2011/2250).
 
-[^key-61062356f29e9c48dac8cdede17c10d3]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1641/article/7) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-61062356f29e9c48dac8cdede17c10d3]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1641/article/7) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00008]: Footnote: The functions of the Authority are set out in article 3 of [S.I. 2011/2237](https://www.legislation.gov.uk/uksi/2011/2237) and in the NHS Commissioning Board Authority (Functions of the Authority) Directions 2011, signed on 31st October 2011, as amended by the NHS Commissioning Board Authority (Functions of the Authority) (Amendment) Directions 2012 signed on 31st May 2012.
 
-[^key-99111ed1b40388b42a69902f5fef5f25]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/1641/article/8) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-99111ed1b40388b42a69902f5fef5f25]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/1641/article/8) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
-[^key-c1fb4e93a0cedd642230c825418774fc]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/1641/article/9) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-c1fb4e93a0cedd642230c825418774fc]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/1641/article/9) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
-[^key-0c92b5a002820a0df913ebecc57c3630]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2012/1641/article/10) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-0c92b5a002820a0df913ebecc57c3630]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2012/1641/article/10) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
-[^key-bac5db47503b55c50c59d015bf899db5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2012/1641/schedule/1/paragraph/1) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-bac5db47503b55c50c59d015bf899db5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2012/1641/schedule/1/paragraph/1) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00009]: Footnote: The National Reporting and Learning System is the system for recording patient safety incidents which was designed by the National Patient Safety Agency, a special health authority established by the National Patient Safety Agency (Establishment and Constitution) Order 2001 ([S.I. 2001/1743](https://www.legislation.gov.uk/uksi/2001/1743)), and which is operated by Imperial College Healthcare National Health Service Trust pursuant to article 2(1) of the Imperial College Healthcare National Health Service Trust Directions 2012, signed on 30th March 2012. A “patient safety incident” is defined by article 1(4) of those Directions as meaning any unintended or unexpected incident that could have or did lead to harm for one or more patients receiving services provided under the National Health Service Act 2006.
 
-[^key-6d43569272e2381170269b01c54206e7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2012/1641/schedule/1/paragraph/2) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-6d43569272e2381170269b01c54206e7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2012/1641/schedule/1/paragraph/2) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
-[^key-45528726c3358c250901b714cda78c5d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2012/1641/schedule/1/paragraph/3) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-45528726c3358c250901b714cda78c5d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2012/1641/schedule/1/paragraph/3) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00010]: Footnote: The “patient safety function” and the “NRLS oversight function” are functions conferred on the Authority as of 1st June 2012 by virtue of amendments made to the NHS Commissioning Board Authority (Functions of the Authority) Directions 2011, signed on 31st October 2011, by paragraph 4 of the NHS Commissioning Board Authority (Functions of the Authority) (Amendment) Directions 2012, signed on 31st May 2012.
 
-[^key-fe527a8c0ece8dbb695109d07093479a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/1641/schedule/2/paragraph/1) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-fe527a8c0ece8dbb695109d07093479a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/1641/schedule/2/paragraph/1) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00011]: Footnote: [S.I. 1990/2024](https://www.legislation.gov.uk/uksi/1990/2024). Paragraph (5) of regulation 11 was inserted by [S.I. 1997/2990](https://www.legislation.gov.uk/uksi/1997/2990) and sub-paragraph (i) was inserted by [S.I. 2011/2237](https://www.legislation.gov.uk/uksi/2011/2237).
 
-[^key-64c7fd027b94f073bbd79aca360f8941]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/1641/schedule/2/paragraph/2) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-64c7fd027b94f073bbd79aca360f8941]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/1641/schedule/2/paragraph/2) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00012]: Footnote: [S.I. 2000/89](https://www.legislation.gov.uk/uksi/2000/89).
 
-[^key-b474d639dfea733c15f3f3ff91b63ff3]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/1641/schedule/2/paragraph/3) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-b474d639dfea733c15f3f3ff91b63ff3]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/1641/schedule/2/paragraph/3) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00013]: Footnote: [S.I 2011/2237](https://www.legislation.gov.uk/uksi/2011/2237).
 
-[^key-311907e5bb2690d7c0bab65eb03f46ee]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2012/1641/schedule/2/paragraph/4) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-311907e5bb2690d7c0bab65eb03f46ee]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2012/1641/schedule/2/paragraph/4) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00014]: Footnote: [S.I 2011/2250](https://www.legislation.gov.uk/uksi/2011/2250).
 
-[^key-6b755f25402ccdda8d44837d0903b64e]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/1) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-6b755f25402ccdda8d44837d0903b64e]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/1) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00015]: Footnote: [S.I. 1990/2024](https://www.legislation.gov.uk/uksi/1990/2024). Relevant amending instruments are [S.I. 1996/1755](https://www.legislation.gov.uk/uksi/1996/1755), [S.I. 1998/646](https://www.legislation.gov.uk/uksi/1998/646), [S.I. 2000/2434](https://www.legislation.gov.uk/uksi/2000/2434), [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [2861](https://www.legislation.gov.uk/uksi/2002/2861), [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696), [S.I. 2005/525](https://www.legislation.gov.uk/uksi/2005/525), [1622](https://www.legislation.gov.uk/uksi/2005/1622) and [2078](https://www.legislation.gov.uk/uksi/2005/2078), [S.I. 2006/552](https://www.legislation.gov.uk/uksi/2006/552) and [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581).
 
-[^key-21069b49c78a38283485de6260a2d9d6]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/2) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-21069b49c78a38283485de6260a2d9d6]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/2) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00016]: Footnote: [S.I. 1995/2801](https://www.legislation.gov.uk/uksi/1995/2801). Relevant amending instruments are [S.I. 1998/646](https://www.legislation.gov.uk/uksi/1998/646), [S.I. 2000/696](https://www.legislation.gov.uk/uksi/2000/696) and [2433](https://www.legislation.gov.uk/uksi/2000/2433), [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [2861](https://www.legislation.gov.uk/uksi/2002/2861), [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696) and [S.I. 2006/552](https://www.legislation.gov.uk/uksi/2006/552).
 
-[^key-d02a239e0bce1590aacaf1d30ed0b3cc]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/3) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-d02a239e0bce1590aacaf1d30ed0b3cc]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/3) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00017]: Footnote: [S.I. 1995/2800](https://www.legislation.gov.uk/uksi/1995/2800) as amended by [S.I. 2005/1445](https://www.legislation.gov.uk/uksi/2005/1445). There are other amending instruments but none is relevant.
 
-[^key-e2dd27159210816b23db0f175c00328e]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/4) revoked (1.4.2015) by [The National Health Service (Clinical Negligence Scheme) Regulations 2015 (S.I. 2015/559)](https://www.legislation.gov.uk/uksi/2015/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2015/559/regulation/22), [Sch.](https://www.legislation.gov.uk/uksi/2015/559/schedule)
+[^c-e2dd27159210816b23db0f175c00328e]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/4) revoked (1.4.2015) by [The National Health Service (Clinical Negligence Scheme) Regulations 2015 (S.I. 2015/559)](https://www.legislation.gov.uk/uksi/2015/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2015/559/regulation/22), [Sch.](https://www.legislation.gov.uk/uksi/2015/559/schedule)
 
-[^key-0e3327d47bcc7e9ef24ee9e6885785e5]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/5) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-0e3327d47bcc7e9ef24ee9e6885785e5]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/5) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00019]: Footnote: [S.I. 1996/686](https://www.legislation.gov.uk/uksi/1996/686). Relevant amending instruments are [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696), [S.I. 2005/604](https://www.legislation.gov.uk/uksi/2005/604) and [S.I. 2006/2469](https://www.legislation.gov.uk/uksi/2006/2469).
 
-[^key-c32b2ae813b55ea753e3010d74a1bc14]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/6) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-c32b2ae813b55ea753e3010d74a1bc14]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/6) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00020]: Footnote: [S.I. 1999/873](https://www.legislation.gov.uk/uksi/1999/873) as amended by [S.I. 2000/2385](https://www.legislation.gov.uk/uksi/2000/2385) and [2469](https://www.legislation.gov.uk/uksi/2000/2469), [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696) and [S.I. 2005/604](https://www.legislation.gov.uk/uksi/2005/604).
 
-[^key-f61a2df18f403b758b93b8409be48555]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/7) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-f61a2df18f403b758b93b8409be48555]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/7) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00021]: Footnote: [S.I. 1999/874](https://www.legislation.gov.uk/uksi/1999/874) as amended by [S.I. 2000/2342](https://www.legislation.gov.uk/uksi/2000/2342), [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696) and [S.I. 2005/604](https://www.legislation.gov.uk/uksi/2005/604).
 
-[^key-c862081bcebed791aef6886db1ec1a37]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/8) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-c862081bcebed791aef6886db1ec1a37]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/8) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00022]: Footnote: [S.I. 2004/1031](https://www.legislation.gov.uk/uksi/2004/1031). Relevant amending instruments are [S.I. 2006/562](https://www.legislation.gov.uk/uksi/2006/562), [S.I. 2008/941](https://www.legislation.gov.uk/uksi/2008/941) and [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581).
 
-[^key-75e6d844541909fa52123251dce7895f]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/9) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-75e6d844541909fa52123251dce7895f]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/9) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00023]: Footnote: [S.I. 2005/2531](https://www.legislation.gov.uk/uksi/2005/2531). Relevant amending instruments are [S.I. 2008/2250](https://www.legislation.gov.uk/uksi/2008/2250) and [S.I. 2011/2851](https://www.legislation.gov.uk/uksi/2011/2851).
 
-[^key-ff6cf167b34a06614ab0b63622c713d8]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/10) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-ff6cf167b34a06614ab0b63622c713d8]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/10) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00024]: Footnote: [S.I. 2005/2415](https://www.legislation.gov.uk/uksi/2005/2415). Relevant amending instruments are [S.I. 2006/633](https://www.legislation.gov.uk/uksi/2006/633), [S.I. 2008/2250](https://www.legislation.gov.uk/uksi/2008/2250) and [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581).
 
-[^key-e06a77b0b896b749c4b6402ee465d73d]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/11) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-e06a77b0b896b749c4b6402ee465d73d]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/11) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00025]: Footnote: [S.I. 2009/3112](https://www.legislation.gov.uk/uksi/2009/3112) as amended by [S.I. 2012/1186](https://www.legislation.gov.uk/uksi/2012/1186). There are other amending instruments but none is relevant.
 
-[^key-f4433ac497ece1a5fd217489562ddf42]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/12) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-f4433ac497ece1a5fd217489562ddf42]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/12) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00026]: Footnote: [S.I. 2009/1385 (W. 141)](https://www.legislation.gov.uk/wsi/2009/1385) as amended by [S.I. 2011/990](https://www.legislation.gov.uk/uksi/2011/990) and [2581](https://www.legislation.gov.uk/uksi/2011/2581).
 
-[^key-9e0863fbd0285c5ef7ae85f973bb29a4]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/13) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-9e0863fbd0285c5ef7ae85f973bb29a4]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/13) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00027]: Footnote: [S.I. 2009/3097 (W. 270)](https://www.legislation.gov.uk/wsi/2009/3097).
 
-[^key-4a5f41a0e750b9fcbd4aa941596a5a90]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/14) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-4a5f41a0e750b9fcbd4aa941596a5a90]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/14) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00028]: Footnote: [S.I. 2009/779 (W. 67)](https://www.legislation.gov.uk/wsi/2009/779).
 
-[^key-ac6b04e54dfa4a28474382092a914bfc]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/15) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-ac6b04e54dfa4a28474382092a914bfc]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/15) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00029]: Footnote: [S.I. 2011/2341](https://www.legislation.gov.uk/uksi/2011/2341), as amended by [S.I. 2012/1108](https://www.legislation.gov.uk/uksi/2012/1108).
 
-[^key-c862f662d3051596be07dd19900de755]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/16) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-c862f662d3051596be07dd19900de755]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/16) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00030]: Footnote: [S.I. 2012/922](https://www.legislation.gov.uk/uksi/2012/922).
 
-[^key-5507744197174c156a6d2f529920ac8a]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/17) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+[^c-5507744197174c156a6d2f529920ac8a]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/17) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
 
 [^f00031]: Footnote: [S.I. 2012/1290](https://www.legislation.gov.uk/uksi/2012/1290).
 
-[^key-df11c42ccf516d5f81ac54ef3395fc30]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/1) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-df11c42ccf516d5f81ac54ef3395fc30]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/1) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00032]: Footnote: [S.I.1990/2024](https://www.legislation.gov.uk/uksi/1990/2024). Relevant amendments were made by [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696).
 
 [^f00033]: Footnote: Monitor is the body corporate, formerly known as the Independent Regulator of NHS Foundation Trusts, continued under section 61(1) of the Health and Social Care Act 2012.
 
-[^key-eadc9bbfff173c9f1e788966ae121796]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/2) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-eadc9bbfff173c9f1e788966ae121796]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/2) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00034]: Footnote: [S.I.1995/2801](https://www.legislation.gov.uk/uksi/1995/2801). Relevant amendments were made by [S.I. 1998/646](https://www.legislation.gov.uk/uksi/1998/646), [S.I. 2000/696](https://www.legislation.gov.uk/uksi/2000/696) and [2433](https://www.legislation.gov.uk/uksi/2000/2433), [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696) and [S.I. 2006/1722](https://www.legislation.gov.uk/uksi/2006/1722).
 
-[^key-1853010a94382d55f4b4d19eadf0836a]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/3) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-1853010a94382d55f4b4d19eadf0836a]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/3) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00035]: Footnote: [S.I.1996/707](https://www.legislation.gov.uk/uksi/1996/707). Relevant amendments were made by [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696).
 
-[^key-6db759cf9158042fc537d4580cd97232]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/4) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-6db759cf9158042fc537d4580cd97232]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/4) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00036]: Footnote: [S.I.1999/260](https://www.legislation.gov.uk/uksi/1999/260). Relevant amendments were made by [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696), [S.I. 2005/498](https://www.legislation.gov.uk/uksi/2005/498), [S.I. 2005/1622](https://www.legislation.gov.uk/uksi/2005/1622), [S.I. 2008/2250](https://www.legislation.gov.uk/uksi/2008/2250) and [S.I. 2011/2851](https://www.legislation.gov.uk/uksi/2011/2851).
 
-[^key-e8d41e62d877a8e6f7afabf625cc4337]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/5) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-e8d41e62d877a8e6f7afabf625cc4337]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/5) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00037]: Footnote: [S.I.1999/1549](https://www.legislation.gov.uk/uksi/1999/1549). The Schedule to the Order was substituted by [S.I. 2003/1993](https://www.legislation.gov.uk/uksi/2003/1993). The entry relating to the Independent Regulator of NHS Foundation Trusts was inserted by [S.I. 2009/2457](https://www.legislation.gov.uk/uksi/2009/2457). There are other amending instruments but none is relevant.
 
-[^key-8f423fcec528fc6199839d4959c112e8]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/6) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-8f423fcec528fc6199839d4959c112e8]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/6) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00038]: Footnote: [S.I. 2000/89](https://www.legislation.gov.uk/uksi/2000/89). Relevant amendments were made by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [2861](https://www.legislation.gov.uk/uksi/2002/2861), [S.I. 2003/1616](https://www.legislation.gov.uk/uksi/2003/1616), [S.I. 2004/664](https://www.legislation.gov.uk/uksi/2004/664) and [696](https://www.legislation.gov.uk/uksi/2004/696), [S.I. 2005/525](https://www.legislation.gov.uk/uksi/2005/525) and [1622](https://www.legislation.gov.uk/uksi/2005/1622), [S.I. 2006/552](https://www.legislation.gov.uk/uksi/2006/552) and [562](https://www.legislation.gov.uk/uksi/2006/562), [S.I. 2008/2250](https://www.legislation.gov.uk/uksi/2008/2250) and [S.I. 2011/2851](https://www.legislation.gov.uk/uksi/2011/2851).
 
-[^key-63950a6d4e98a8a21a9036e05bf0ca07]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/7) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-63950a6d4e98a8a21a9036e05bf0ca07]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/7) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00039]: Footnote: [S.I. 2001/715](https://www.legislation.gov.uk/uksi/2001/715). Relevant amendments were made by [S.I. 2001/4044](https://www.legislation.gov.uk/uksi/2001/4044), [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696) and [S.I. 2006/1722](https://www.legislation.gov.uk/uksi/2006/1722).
 
-[^key-1858f3340e76bdbffc4c4d6ec56d9624]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/8) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-1858f3340e76bdbffc4c4d6ec56d9624]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/8) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00040]: Footnote: [S.I. 2002/3048](https://www.legislation.gov.uk/uksi/2002/3048). Relevant amendments were made by [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696) and [S.I. 2010/720](https://www.legislation.gov.uk/uksi/2010/720).
 
-[^key-453e5cf68f0f78e1a3b744f48363d269]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/9) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-453e5cf68f0f78e1a3b744f48363d269]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/9) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00041]: Footnote: [S.I. 2004/1861](https://www.legislation.gov.uk/uksi/2004/1861). The Annex to Schedule 1 was substituted by [S.I. 2010/131](https://www.legislation.gov.uk/uksi/2010/131) and amended by [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581) and [S.I. 2012/725](https://www.legislation.gov.uk/uksi/2012/725).
 
-[^key-2c864fca12fd49679f550e0803928a01]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/10) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-2c864fca12fd49679f550e0803928a01]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/10) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00042]: Footnote: [S.I. 2005/408](https://www.legislation.gov.uk/uksi/2005/408). Relevant amendments were made by [S.I. 2005/1622](https://www.legislation.gov.uk/uksi/2005/1622) and [3491](https://www.legislation.gov.uk/uksi/2005/3491) and [S.I. 2008/2250](https://www.legislation.gov.uk/uksi/2008/2250).
 
-[^key-c831528531aad784ec346096cdc03de3]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/11) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-c831528531aad784ec346096cdc03de3]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/11) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00043]: Footnote: [S.I. 2005/500](https://www.legislation.gov.uk/uksi/2005/500). There are no relevant amendments.
 
-[^key-11637ee211e2eaa5b903dc2733f297f1]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/12) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-11637ee211e2eaa5b903dc2733f297f1]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/12) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00044]: Footnote: [S.I. 2005/1447](https://www.legislation.gov.uk/uksi/2005/1447). There are no relevant amendments.
 
-[^key-692d36b0715de53f904c62efb14dfba3]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/13) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-692d36b0715de53f904c62efb14dfba3]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/13) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00045]: Footnote: [S.I. 2005/2415](https://www.legislation.gov.uk/uksi/2005/2415). Relevant amendments were made by [S.I. 2006/633](https://www.legislation.gov.uk/uksi/2006/633).
 
-[^key-1e54bd58b4f8999d8d8d2f360e0792cc]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/14) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-1e54bd58b4f8999d8d8d2f360e0792cc]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/14) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00046]: Footnote: [S.I. 2005/2531](https://www.legislation.gov.uk/uksi/2005/2531). Relevant amendments were made by [S.I. 2006/640](https://www.legislation.gov.uk/uksi/2006/640) and [S.I. 2010/671](https://www.legislation.gov.uk/uksi/2010/671).
 
-[^key-72cc69076b436f6068e8ca9873878a33]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/15) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-72cc69076b436f6068e8ca9873878a33]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/15) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00047]: Footnote: [S.I. 2008/2252](https://www.legislation.gov.uk/uksi/2008/2252). Relevant amendments were made by [S.I. 2011/2851](https://www.legislation.gov.uk/uksi/2011/2851).
 
-[^key-10b0a7026bb553030844c635bdac64fa]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/16) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-10b0a7026bb553030844c635bdac64fa]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/16) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00048]: Footnote: [S.I. 2008/2558](https://www.legislation.gov.uk/uksi/2008/2558). Relevant amendments were made by [S.I. 2011/2851](https://www.legislation.gov.uk/uksi/2011/2851).
 
-[^key-d9eba636c11b79cdb72481bf7e87ee94]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/17) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-d9eba636c11b79cdb72481bf7e87ee94]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/17) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00049]: Footnote: [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462). There are no relevant amendments.
 
-[^key-9617f39b14090edf69a63d17b0f3f6f4]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/18) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-9617f39b14090edf69a63d17b0f3f6f4]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/18) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00050]: Footnote: [S.I. 2009/1385 (W.141)](https://www.legislation.gov.uk/wsi/2009/1385). Relevant amendments were made by [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581).
 
-[^key-a69d2be5b1f610eb5e62060263718ba0]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/19) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-a69d2be5b1f610eb5e62060263718ba0]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/19) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00051]: Footnote: [S.I. 2010/2841](https://www.legislation.gov.uk/uksi/2010/2841). There are no relevant amendments.
 
-[^key-56323ccb1136e2d246d192629fcfa0b7]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/20) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-56323ccb1136e2d246d192629fcfa0b7]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/20) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00052]: Footnote: [S.I. 2011/2260](https://www.legislation.gov.uk/uksi/2011/2260). Schedule 1 was amended by [S.I. 2012/641](https://www.legislation.gov.uk/uksi/2012/641).
 
-[^key-05a98dd46c0f66a2660de896690bd2d7]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/21) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-05a98dd46c0f66a2660de896690bd2d7]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/21) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00053]: Footnote: [S.I. 2011/2341](https://www.legislation.gov.uk/uksi/2011/2341) as amended by [S.I. 2012/1108](https://www.legislation.gov.uk/uksi/2012/1108).
 
-[^key-51d275a0a912db9978a41d46f69bd910]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/22) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-51d275a0a912db9978a41d46f69bd910]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/22) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00054]: Footnote: [S.I. 2012/922](https://www.legislation.gov.uk/uksi/2012/922).
 
-[^key-afc9477c0d03ce8781e238fc95015c9b]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/23) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+[^c-afc9477c0d03ce8781e238fc95015c9b]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/23) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
 
 [^f00055]: Footnote: [S.I. 2012/1290](https://www.legislation.gov.uk/uksi/2012/1290).

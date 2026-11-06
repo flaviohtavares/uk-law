@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Minimum per pupil amount[^key-3e27fd69cce27990b404c0045a0b4023]
+## 27. Minimum per pupil amount[^c-3e27fd69cce27990b404c0045a0b4023]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ where—
 
 ## Annotations
 
-[^key-3e27fd69cce27990b404c0045a0b4023]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2025/42/regulation/27) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-3e27fd69cce27990b404c0045a0b4023]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2025/42/regulation/27) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

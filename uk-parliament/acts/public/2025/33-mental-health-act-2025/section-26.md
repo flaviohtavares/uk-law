@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Discharge of patients: role of nominated person[^key-1c8dab3b5746e3837deb6fd2df727b21]
+## 26. Discharge of patients: role of nominated person[^c-1c8dab3b5746e3837deb6fd2df727b21]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In section 25 of the Mental Health Act 1983 (restrictions on discharge by neares
 
 ## Annotations
 
-[^key-1c8dab3b5746e3837deb6fd2df727b21]: Commencement: S. 26 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-1c8dab3b5746e3837deb6fd2df727b21]: Commencement: S. 26 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Replacement of building society liquidator by creditors[^key-94e31bb786cb1a25861d115867d8706c]
+## 85. Replacement of building society liquidator by creditors[^c-94e31bb786cb1a25861d115867d8706c]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-94e31bb786cb1a25861d115867d8706c]: Commencement: Rule 85 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-94e31bb786cb1a25861d115867d8706c]: Commencement: Rule 85 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00035]: Footnote: Paragraphs (3) to (5) were substituted by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).
 

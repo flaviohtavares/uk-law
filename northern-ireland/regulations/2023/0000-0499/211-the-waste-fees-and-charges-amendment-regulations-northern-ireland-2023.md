@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Agriculture, Environment and Rural Affairs[^f00001], is an appropriate authority for the purposes of paragraph 8 of Schedule 4 to the European Union (Withdrawal) Act 2018[^f00002]and makes the following Regulations in exercise of the powers conferred by paragraph 7(2) of Schedule 4 to that Act and in exercise of the powers conferred by Articles 39(1), (2) and (3) of the Waste and Contaminated Land(Northern Ireland) Order 1997[^f00003], and now vested in it[^f00004].
 
-## 1. Citation, commencement and interpretation[^key-0e0aed59080338a2cf514b0970bec0f7]
+## 1. Citation, commencement and interpretation[^c-0e0aed59080338a2cf514b0970bec0f7]
 
 (1) These Regulations may be cited as the Waste (Fees and Charges) (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 2nd Jan 2024.
 
-## 2. Amendment of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations (Northern Ireland) 1999[^key-c79eb026df3244f5798aabc971f20da1]
+## 2. Amendment of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations (Northern Ireland) 1999[^c-c79eb026df3244f5798aabc971f20da1]
 
 (1) The Controlled Waste (Registration of Carriers and Seizures of Vehicles) Regulations (Northern Ireland) 1999[^f00005] are amended in accordance with paragraph (2).
 
@@ -56,7 +56,7 @@ The Department for Agriculture, Environment and Rural Affairs[^f00001], is an ap
 - (b) In paragraph (8)(b) for “£79” substitute “£82”;
 - (c) In paragraph (8)(c) for “£41” substitute “£42”.
 
-## 3. Amendment of the Waste Management Licensing Regulations (Northern Ireland) 2003[^key-43093beb4021753b7d7464104cba9b0a]
+## 3. Amendment of the Waste Management Licensing Regulations (Northern Ireland) 2003[^c-43093beb4021753b7d7464104cba9b0a]
 
 (1) The Waste Management Licensing Regulations (Northern Ireland) 2003 [^f00006] are amended in accordance with paragraph (2).
 
@@ -94,12 +94,12 @@ Also amended is paragraph 3(10) of Schedule 4 to the Waste Management Licensing 
 
 [^f00004]: Footnote: [S.R. 2016 c. 76](https://www.legislation.gov.uk/nisr/2016/76), Article 8(1)(c)
 
-[^key-0e0aed59080338a2cf514b0970bec0f7]: Commencement: Reg. 1 in operation at 2.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/211/regulation/1/1)
+[^c-0e0aed59080338a2cf514b0970bec0f7]: Commencement: Reg. 1 in operation at 2.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/211/regulation/1/1)
 
-[^key-c79eb026df3244f5798aabc971f20da1]: Commencement: Reg. 2 in operation at 2.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/211/regulation/1/1)
+[^c-c79eb026df3244f5798aabc971f20da1]: Commencement: Reg. 2 in operation at 2.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/211/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1999 No. 362](https://www.legislation.gov.uk/nisr/1999/362) the relevant amendments are [S.R. 2003 No. 493](https://www.legislation.gov.uk/nisr/2003/493), [S.R. 2010 No. 84](https://www.legislation.gov.uk/nisr/2010/84), [S.R. 2011 No. 127](https://www.legislation.gov.uk/nisr/2011/127), [S.R. 2012 No. 112](https://www.legislation.gov.uk/nisr/2012/112), [S.R. 2013 No. 248](https://www.legislation.gov.uk/nisr/2013/248), [S.R. 2015 No. 21](https://www.legislation.gov.uk/nisr/2015/21), [S.R. 2016 No. 401](https://www.legislation.gov.uk/nisr/2016/401), [S.R. 2017 No. 221](https://www.legislation.gov.uk/nisr/2017/221), [S.R. 2018 No. 91](https://www.legislation.gov.uk/nisr/2018/91), [S.R. 2019 No. 83](https://www.legislation.gov.uk/nisr/2019/83) and [S.R.2020 No. 112](https://www.legislation.gov.uk/nisr/2020/112), [S.R. 2022 No. 127](https://www.legislation.gov.uk/nisr/2022/127).
 
-[^key-43093beb4021753b7d7464104cba9b0a]: Commencement: Reg. 3 in operation at 2.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/211/regulation/1/1)
+[^c-43093beb4021753b7d7464104cba9b0a]: Commencement: Reg. 3 in operation at 2.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/211/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 2003 No. 493](https://www.legislation.gov.uk/nisr/2003/493) the relevant amendments are [S.R. 2010 No. 84](https://www.legislation.gov.uk/nisr/2010/84), [S.R. 2011 No. 232](https://www.legislation.gov.uk/nisr/2011/232), [S.R. 2012 No. 112](https://www.legislation.gov.uk/nisr/2012/112), [S.R. 2013 No.248](https://www.legislation.gov.uk/nisr/2013/248), [S.R. 2015 No. 21](https://www.legislation.gov.uk/nisr/2015/21), [S.R. 2016 No. 401](https://www.legislation.gov.uk/nisr/2016/401), [S.R. 2017 No. 221](https://www.legislation.gov.uk/nisr/2017/221), [S.R. 2018 No. 91](https://www.legislation.gov.uk/nisr/2018/91), [S.R. 2019 No. 83](https://www.legislation.gov.uk/nisr/2019/83), [S.R. 2020 No. 112](https://www.legislation.gov.uk/nisr/2020/112) and [S.R. 2021 No.182](https://www.legislation.gov.uk/nisr/2021/182), [S.R. 2022 No. 127](https://www.legislation.gov.uk/nisr/2022/127).

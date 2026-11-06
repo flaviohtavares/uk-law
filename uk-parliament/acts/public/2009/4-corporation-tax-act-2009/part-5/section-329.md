@@ -26,12 +26,12 @@ summary: ''
 - (b) it incurs any expenses for purposes connected—
   - (i) with entering into it, or
   - (ii) with giving effect to any obligation which might arise under it, and
-- (c) had the company entered into the relationship or transaction, the expenses would be expenses within section 306A(1)(c)[^key-e1f1f6748a80d6a00903c03af6f732da].
+- (c) had the company entered into the relationship or transaction, the expenses would be expenses within section 306A(1)(c)[^c-e1f1f6748a80d6a00903c03af6f732da].
 
-(2) The expenses are treated as expenses in relation to which debits may be brought into account in accordance with section 307(2)[^key-148975d17a1856fef9351c89b58fad66] to the same extent as if the company had entered into the relationship or transaction.
+(2) The expenses are treated as expenses in relation to which debits may be brought into account in accordance with section 307(2)[^c-148975d17a1856fef9351c89b58fad66] to the same extent as if the company had entered into the relationship or transaction.
 
 ## Annotations
 
-[^key-e1f1f6748a80d6a00903c03af6f732da]: Textual amendment: Words in s. 329(1)(c) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 22(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/22/2)
+[^c-e1f1f6748a80d6a00903c03af6f732da]: Textual amendment: Words in s. 329(1)(c) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 22(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/22/2)
 
-[^key-148975d17a1856fef9351c89b58fad66]: Textual amendment: Words in s. 329(2) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 22(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/22/3)
+[^c-148975d17a1856fef9351c89b58fad66]: Textual amendment: Words in s. 329(2) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 22(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/22/3)

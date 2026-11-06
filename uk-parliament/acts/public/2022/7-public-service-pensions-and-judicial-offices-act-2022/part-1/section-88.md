@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Restriction of existing schemes[^key-84058e9bda8d9e4b565fef4a5aecc38f][^key-18747fa413d68bb86ba8b0af2b58fe1e]
+## 88. Restriction of existing schemes[^c-84058e9bda8d9e4b565fef4a5aecc38f][^c-18747fa413d68bb86ba8b0af2b58fe1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-84058e9bda8d9e4b565fef4a5aecc38f]: Commencement: S. 88 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-84058e9bda8d9e4b565fef4a5aecc38f]: Commencement: S. 88 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-18747fa413d68bb86ba8b0af2b58fe1e]: Commencement: S. 88 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-18747fa413d68bb86ba8b0af2b58fe1e]: Commencement: S. 88 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

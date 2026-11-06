@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Regulation of loans etc: Northern Ireland[^key-c8de5f553ebc1b0b2548898ea7b22f61]
+## 63. Regulation of loans etc: Northern Ireland[^c-c8de5f553ebc1b0b2548898ea7b22f61]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,10 +48,10 @@ summary: ''
 - “**controlled transaction**” has the same meaning as in Schedule 7A to that Act (see paragraphs 1 and 2 of that Schedule);
 - “**relevant matter**” has the same meaning as in section 62 of this Act (see subsection (2) of that section).
 
-(8)[^key-8bbcce60befde6d4fd85e34be5c1f120] For the purposes of this section, section 1(3) of the Northern Ireland (Miscellaneous Provisions) Act 2014 (which amends section 71E of the 2000 Act) is treated as provision made by the 2006 Act.
+(8)[^c-8bbcce60befde6d4fd85e34be5c1f120] For the purposes of this section, section 1(3) of the Northern Ireland (Miscellaneous Provisions) Act 2014 (which amends section 71E of the 2000 Act) is treated as provision made by the 2006 Act.
 
 ## Annotations
 
-[^key-c8de5f553ebc1b0b2548898ea7b22f61]: Modification: S. 63 modified (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2014/13/section/26/1), [28(1)(i)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/i)
+[^c-c8de5f553ebc1b0b2548898ea7b22f61]: Modification: S. 63 modified (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2014/13/section/26/1), [28(1)(i)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/i)
 
-[^key-8bbcce60befde6d4fd85e34be5c1f120]: Textual amendment: S. 63(8) inserted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2014/13/section/2/3), [28(1)(b)(iii)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/b/iii)
+[^c-8bbcce60befde6d4fd85e34be5c1f120]: Textual amendment: S. 63(8) inserted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2014/13/section/2/3), [28(1)(b)(iii)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/b/iii)

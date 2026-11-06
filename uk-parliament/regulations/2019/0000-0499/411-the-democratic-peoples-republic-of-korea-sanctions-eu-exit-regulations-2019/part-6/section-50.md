@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Purchase etc. of certain goods and rights[^key-78582cf951e0f902045d781ffa6aadf3][^key-4cbd45571cfa3e668284c3ad4b645380]
+## 50. Purchase etc. of certain goods and rights[^c-78582cf951e0f902045d781ffa6aadf3][^c-4cbd45571cfa3e668284c3ad4b645380]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78582cf951e0f902045d781ffa6aadf3]: Commencement: Reg. 50 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-78582cf951e0f902045d781ffa6aadf3]: Commencement: Reg. 50 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-4cbd45571cfa3e668284c3ad4b645380]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2019/411/regulation/50) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4cbd45571cfa3e668284c3ad4b645380]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2019/411/regulation/50) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

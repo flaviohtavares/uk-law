@@ -35,54 +35,54 @@ on addressing unjustified geo-blocking and other forms of discrimination based o
 
 (Text with EEA relevance) (revoked)
 
-[^key-2f703c82cda01af4558a458c39b31431]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f703c82cda01af4558a458c39b31431]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Objective and scope[^key-2f703c82cda01af4558a458c39b31431]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-2f703c82cda01af4558a458c39b31431]
+## Article 1. Objective and scope[^c-2f703c82cda01af4558a458c39b31431]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Access to online interfaces[^key-2f703c82cda01af4558a458c39b31431]
+## Article 2. Definitions[^c-2f703c82cda01af4558a458c39b31431]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Access to goods or services[^key-2f703c82cda01af4558a458c39b31431]
+## Article 3. Access to online interfaces[^c-2f703c82cda01af4558a458c39b31431]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Non-discrimination for reasons related to payment[^key-2f703c82cda01af4558a458c39b31431]
+## Article 4. Access to goods or services[^c-2f703c82cda01af4558a458c39b31431]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Agreements on passive sales[^key-2f703c82cda01af4558a458c39b31431]
+## Article 5. Non-discrimination for reasons related to payment[^c-2f703c82cda01af4558a458c39b31431]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Enforcement[^key-2f703c82cda01af4558a458c39b31431]
+## Article 6. Agreements on passive sales[^c-2f703c82cda01af4558a458c39b31431]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Assistance to consumers[^key-2f703c82cda01af4558a458c39b31431]
+## Article 7. Enforcement[^c-2f703c82cda01af4558a458c39b31431]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Review clause[^key-2f703c82cda01af4558a458c39b31431]
+## Article 8. Assistance to consumers[^c-2f703c82cda01af4558a458c39b31431]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Amendments to Regulations (EC) No 2006/2004 and (EU)2017/2394 and Directive 2009/22/EC[^key-2f703c82cda01af4558a458c39b31431]
+## Article 9. Review clause[^c-2f703c82cda01af4558a458c39b31431]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Final provisions[^key-2f703c82cda01af4558a458c39b31431]
+## Article 10. Amendments to Regulations (EC) No 2006/2004 and (EU)2017/2394 and Directive 2009/22/EC[^c-2f703c82cda01af4558a458c39b31431]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f703c82cda01af4558a458c39b31431]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 11. Final provisions[^c-2f703c82cda01af4558a458c39b31431]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2f703c82cda01af4558a458c39b31431]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2f703c82cda01af4558a458c39b31431]: Textual amendment: Regulation revoked (31.12.2020) by The Geo-[Blocking Regulation (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/880)](https://www.legislation.gov.uk/uksi/2019/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/880/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/880/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f703c82cda01af4558a458c39b31431]: Textual amendment: Regulation revoked (31.12.2020) by The Geo-[Blocking Regulation (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/880)](https://www.legislation.gov.uk/uksi/2019/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/880/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/880/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

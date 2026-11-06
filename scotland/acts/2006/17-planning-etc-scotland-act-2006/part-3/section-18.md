@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Call-in of applications by Scottish Ministers[^key-638f05a7538e543a6f458aeb8195074e]
+## 18. Call-in of applications by Scottish Ministers[^c-638f05a7538e543a6f458aeb8195074e]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ In section 46 of the principal Act (call-in of applications by Scottish Minister
 
 ## Annotations
 
-[^key-638f05a7538e543a6f458aeb8195074e]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2006/17/section/18) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-638f05a7538e543a6f458aeb8195074e]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2006/17/section/18) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

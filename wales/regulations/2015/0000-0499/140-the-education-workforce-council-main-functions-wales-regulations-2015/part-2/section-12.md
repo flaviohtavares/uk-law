@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Removal of entries from the Register[^key-eee9be650c103bd702bda26792703101]
+## 12. Removal of entries from the Register[^c-eee9be650c103bd702bda26792703101]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The Council may make provision—
 
 ## Annotations
 
-[^key-eee9be650c103bd702bda26792703101]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2015/140/regulation/12) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-eee9be650c103bd702bda26792703101]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2015/140/regulation/12) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

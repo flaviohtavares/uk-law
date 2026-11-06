@@ -45,11 +45,11 @@ summary: ''
 
 - (a) the scheme shall specify the total amount of that property; and
 - (b) the donor of any part of that amount shall be entitled, if the donor makes a claim not later than 6 months after the date on which the scheme is made, to recover from the charity for which the property is applied a sum equal to that part, less any expenses properly incurred by the charity trustees after that date in connection with claims relating to the donor's gift; and
-- (c) the scheme may include directions as to the provision to be made for meeting any claims made in accordance with paragraph (b)[^key-3243d1f7b319b30274e42fdf95a8c64a].
+- (c) the scheme may include directions as to the provision to be made for meeting any claims made in accordance with paragraph (b)[^c-3243d1f7b319b30274e42fdf95a8c64a].
 
 (6) Where—
 
-- (a) any sum is, in accordance with any such directions, set aside for meeting claims made in accordance with subsection (5)(b)[^key-89d8ae11244550dd92b90efc461f12ff], but
+- (a) any sum is, in accordance with any such directions, set aside for meeting claims made in accordance with subsection (5)(b)[^c-89d8ae11244550dd92b90efc461f12ff], but
 - (b) the aggregate amount of any such claims actually made exceeds the relevant amount,
 
 then, if the Commission so directs, each of the donors in question shall be entitled only to such proportion of the relevant amount as the amount of that donor's claim bears to the aggregate amount referred to in paragraph (b); and for this purpose “**the relevant amount**” means the amount of the sum so set aside after deduction of any expenses properly incurred by the charity trustees in connection with claims relating to the donors' gifts.
@@ -64,6 +64,6 @@ then, if the Commission so directs, each of the donors in question shall be enti
 
 ## Annotations
 
-[^key-3243d1f7b319b30274e42fdf95a8c64a]: Textual amendment: Words in [s. 27(5)(c)](https://www.legislation.gov.uk/nia/2008/12/section/27/5/c) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/7/2)
+[^c-3243d1f7b319b30274e42fdf95a8c64a]: Textual amendment: Words in [s. 27(5)(c)](https://www.legislation.gov.uk/nia/2008/12/section/27/5/c) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/7/2)
 
-[^key-89d8ae11244550dd92b90efc461f12ff]: Textual amendment: Words in [s. 27(6)(a)](https://www.legislation.gov.uk/nia/2008/12/section/27/6/a) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/7/3)
+[^c-89d8ae11244550dd92b90efc461f12ff]: Textual amendment: Words in [s. 27(6)(a)](https://www.legislation.gov.uk/nia/2008/12/section/27/6/a) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/7/3)

@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Non-compliance with improvement notices[^key-dadcafc9e2d3c07d03e7794df17ad857][^key-969ce6f7b8c97087f1d0c009d365964c]
+## 14. Non-compliance with improvement notices[^c-dadcafc9e2d3c07d03e7794df17ad857][^c-969ce6f7b8c97087f1d0c009d365964c]
 
 *Extent: E+W+S*
 
-(1) A person carrying on a retail pharmacy business at or from[^key-b1adddb4978dc3a3a2ec66200bad5456] a registered pharmacy who fails to comply with the terms of an improvement notice served under article 13 commits an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+(1) A person carrying on a retail pharmacy business at or from[^c-b1adddb4978dc3a3a2ec66200bad5456] a registered pharmacy who fails to comply with the terms of an improvement notice served under article 13 commits an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-(1A)[^key-ef9b9c56a7c9841e364b42f89fbefa87] But no offence is committed if the failure to comply with the terms of an improvement notice relates to matters included in the improvement notice—
+(1A)[^c-ef9b9c56a7c9841e364b42f89fbefa87] But no offence is committed if the failure to comply with the terms of an improvement notice relates to matters included in the improvement notice—
 
 - (a) pursuant to article 13(1)(a); or
 - (b) pursuant to article 13(1)(b), if the failure is to comply with standards set under article 7(1) that the Registrar has made a condition of the entry of the registered premises in the Register pursuant to section 74D of the Medicines Act 1968 (conditional registration: Great Britain).
 
-(2) Where an inspector is reasonably satisfied that a person carrying on a retail pharmacy business at or from[^key-123c300be0649fc98c73d40d8689c9ff] a registered pharmacy has failed to comply with the terms of an improvement notice served under article 13, the inspector must give notice of that fact in writing to the Registrar.
+(2) Where an inspector is reasonably satisfied that a person carrying on a retail pharmacy business at or from[^c-123c300be0649fc98c73d40d8689c9ff] a registered pharmacy has failed to comply with the terms of an improvement notice served under article 13, the inspector must give notice of that fact in writing to the Registrar.
 
 (3) The obligation imposed by paragraph (2) applies whether or not proceedings are to be brought against the person for an offence under paragraph (1).
 
@@ -36,7 +36,7 @@ summary: ''
 - (a) remove the entry of the registered pharmacy from the Register; or
 - (b) suspend that entry pending compliance by the person with such requirements or conditions as the Registrar considers it necessary to impose.
 
-(4A)[^key-c368e6f8726ece3c2693e4d57afcae60] But if the failure to comply with terms of the improvement notice relates to matters included in the improvement notice—
+(4A)[^c-c368e6f8726ece3c2693e4d57afcae60] But if the failure to comply with terms of the improvement notice relates to matters included in the improvement notice—
 
 - (a) pursuant to article 13(1)(a); or
 - (b) pursuant to article 13(1)(b), if the failure is to comply with standards set under article 7(1) that the Registrar has made a condition of the entry of the registered premises in the Register pursuant to section 74D of the Medicines Act 1968,
@@ -62,14 +62,14 @@ but no proceedings may be begun after the expiry of the period of two years begi
 
 ## Annotations
 
-[^key-dadcafc9e2d3c07d03e7794df17ad857]: Commencement: Art. 14 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-dadcafc9e2d3c07d03e7794df17ad857]: Commencement: Art. 14 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-969ce6f7b8c97087f1d0c009d365964c]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2010/231/article/14) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-969ce6f7b8c97087f1d0c009d365964c]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2010/231/article/14) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
-[^key-b1adddb4978dc3a3a2ec66200bad5456]: Textual amendment: Words in [art. 14(1)](https://www.legislation.gov.uk/uksi/2010/231/article/14/1) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [23(2)](https://www.legislation.gov.uk/uksi/2016/372/article/23/2); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-b1adddb4978dc3a3a2ec66200bad5456]: Textual amendment: Words in [art. 14(1)](https://www.legislation.gov.uk/uksi/2010/231/article/14/1) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [23(2)](https://www.legislation.gov.uk/uksi/2016/372/article/23/2); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
-[^key-ef9b9c56a7c9841e364b42f89fbefa87]: Textual amendment: [Art. 14(1A)](https://www.legislation.gov.uk/uksi/2010/231/article/14/1A) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [23(3)](https://www.legislation.gov.uk/uksi/2016/372/article/23/3); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-ef9b9c56a7c9841e364b42f89fbefa87]: Textual amendment: [Art. 14(1A)](https://www.legislation.gov.uk/uksi/2010/231/article/14/1A) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [23(3)](https://www.legislation.gov.uk/uksi/2016/372/article/23/3); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
-[^key-123c300be0649fc98c73d40d8689c9ff]: Textual amendment: Words in [art. 14(2)](https://www.legislation.gov.uk/uksi/2010/231/article/14/2) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [23(4)](https://www.legislation.gov.uk/uksi/2016/372/article/23/4); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-123c300be0649fc98c73d40d8689c9ff]: Textual amendment: Words in [art. 14(2)](https://www.legislation.gov.uk/uksi/2010/231/article/14/2) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [23(4)](https://www.legislation.gov.uk/uksi/2016/372/article/23/4); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
-[^key-c368e6f8726ece3c2693e4d57afcae60]: Textual amendment: [Art. 14(4A)](https://www.legislation.gov.uk/uksi/2010/231/article/14/4A) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [23(5)](https://www.legislation.gov.uk/uksi/2016/372/article/23/5); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-c368e6f8726ece3c2693e4d57afcae60]: Textual amendment: [Art. 14(4A)](https://www.legislation.gov.uk/uksi/2010/231/article/14/4A) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [23(5)](https://www.legislation.gov.uk/uksi/2016/372/article/23/5); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Temporary powers in relation to EU sanctions lists[^key-3a0f021b0aaa5cbb0ccb551b2bb72042]
+## 34. Temporary powers in relation to EU sanctions lists[^c-3a0f021b0aaa5cbb0ccb551b2bb72042]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a0f021b0aaa5cbb0ccb551b2bb72042]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2018/13/section/34) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
+[^c-3a0f021b0aaa5cbb0ccb551b2bb72042]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2018/13/section/34) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)

@@ -31,7 +31,7 @@ summary: ''
 
 and where a sum has been so agreed or determined the operator is liable to pay that sum to the highway authority and is not liable to proceedings for the recovery of the excess expenses under subsection (1) above.
 
-(4)[^key-fee7c31c13d0291712ebf16fd64a05cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-fee7c31c13d0291712ebf16fd64a05cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Proceedings for the recovery of any sums under this section shall be commenced within 12 months from the time at which the damage has been done or, where the damage is the consequence of any particular building contract or work extending over a long period, not later than 6 months from the date of completion of the contract or work.
 
@@ -39,4 +39,4 @@ and where a sum has been so agreed or determined the operator is liable to pay t
 
 ## Annotations
 
-[^key-fee7c31c13d0291712ebf16fd64a05cf]: Textual amendment: [S. 59(4)](https://www.legislation.gov.uk/ukpga/1980/66/section/59/4) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 87](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/87); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-fee7c31c13d0291712ebf16fd64a05cf]: Textual amendment: [S. 59(4)](https://www.legislation.gov.uk/ukpga/1980/66/section/59/4) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 87](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/87); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

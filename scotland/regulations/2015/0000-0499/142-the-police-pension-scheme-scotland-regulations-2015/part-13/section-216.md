@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 216. Evidence of entitlement[^key-371e40b3001b4dc2945516a822535c74]
+## 216. Evidence of entitlement[^c-371e40b3001b4dc2945516a822535c74]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-371e40b3001b4dc2945516a822535c74]: Commencement: Reg. 216 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-371e40b3001b4dc2945516a822535c74]: Commencement: Reg. 216 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

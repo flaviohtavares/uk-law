@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Restrictions on group relief[^key-0c15de831373cf85a88f66a842eba050]
+## SCHEDULE 7 — Restrictions on group relief[^c-0c15de831373cf85a88f66a842eba050]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,32 +24,32 @@ summary: ''
 
 Section 41.
 
-### Introductory[^key-0c15de831373cf85a88f66a842eba050]
+### Introductory[^c-0c15de831373cf85a88f66a842eba050]
 
-**1.**[^key-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### New limits[^key-0c15de831373cf85a88f66a842eba050]
+### New limits[^c-0c15de831373cf85a88f66a842eba050]
 
-**2.**[^key-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Consequential amendments[^key-0c15de831373cf85a88f66a842eba050]
+### Consequential amendments[^c-0c15de831373cf85a88f66a842eba050]
 
-**3.**[^key-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Commencement[^key-0c15de831373cf85a88f66a842eba050]
+### Commencement[^c-0c15de831373cf85a88f66a842eba050]
 
-**9.**[^key-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-0c15de831373cf85a88f66a842eba050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c15de831373cf85a88f66a842eba050]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/1997/58/schedule/7) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-0c15de831373cf85a88f66a842eba050]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/1997/58/schedule/7) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

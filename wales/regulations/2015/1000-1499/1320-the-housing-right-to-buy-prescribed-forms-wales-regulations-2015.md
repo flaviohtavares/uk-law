@@ -41,7 +41,7 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of powers conferred upon the Secretary of State by section 176(1) and (5) of the Housing Act 1985[^f00001] as extended by section 26(3) of the Welsh Language Act 1993[^f00002] and now vested in them[^f00003].
 
-## 1. Title, commencement, application and interpretation[^key-c46f6e69598bef444fbdba67e7be322b]
+## 1. Title, commencement, application and interpretation[^c-c46f6e69598bef444fbdba67e7be322b]
 
 (1) The title of these Regulations is the Housing (Right to Buy) (Prescribed Forms) (Wales) Regulations 2015 and they come into force on 22 January 2015.
 
@@ -49,31 +49,31 @@ The Welsh Ministers make the following Regulations in exercise of powers conferr
 
 (3) In these Regulations, “the Act” (“*y Ddeddf*”) means the Housing Act 1985.
 
-## 2. Notice claiming to exercise the right to buy[^key-6dbe4758c60ac50f16552cbb6d22c6e8]
+## 2. Notice claiming to exercise the right to buy[^c-6dbe4758c60ac50f16552cbb6d22c6e8]
 
 A notice under section 122(1) of the Act[^f00004] is one which is in the form set out in Schedule 1, or in a form substantially to the like effect.
 
-## 3. Notice in reply to tenant’s right to buy claim[^key-17567d29a846e645f4698e0d1f323c22]
+## 3. Notice in reply to tenant’s right to buy claim[^c-17567d29a846e645f4698e0d1f323c22]
 
 A notice under section 124(1) of the Act[^f00005] is one which is in the form set out in Schedule 2, or in a form substantially to the like effect.
 
-## 4. Initial notice of delay[^key-61ddcc5fa0a02bb9bbf2be628ecaaad1]
+## 4. Initial notice of delay[^c-61ddcc5fa0a02bb9bbf2be628ecaaad1]
 
 A notice under section 153A(1) of the Act[^f00006] is one which is in the form set out in Schedule 3, or in a form substantially to the like effect.
 
-## 5. Initial notice of delay - landlord’s counter notice[^key-8a243928584018bea6393c9f94fe52f8]
+## 5. Initial notice of delay - landlord’s counter notice[^c-8a243928584018bea6393c9f94fe52f8]
 
 A notice under section 153A(3)(b) of the Act[^f00007] is one which is in the form set out in Schedule 4, or in a form substantially to the like effect.
 
-## 6. Operative notice of delay[^key-5c606f20eab8a437ba296bb8122dafb2]
+## 6. Operative notice of delay[^c-5c606f20eab8a437ba296bb8122dafb2]
 
 A notice under section 153A(5) of the Act is one which is in the form set out in Schedule 5, or a form substantially to the like effect.
 
-## 7. Prescribed particulars to be contained in the notices[^key-ce88e0c300d3f4370d5c312e4730b0c4]
+## 7. Prescribed particulars to be contained in the notices[^c-ce88e0c300d3f4370d5c312e4730b0c4]
 
 The particulars to be contained in a notice prescribed by regulations 2 to 6 are those required by that form.
 
-## 8. Revocations, savings and transitional provisions[^key-ac010980a157b26d2d87617b3fc002b8]
+## 8. Revocations, savings and transitional provisions[^c-ac010980a157b26d2d87617b3fc002b8]
 
 (1) The Regulations specified in Schedule 6 are revoked in relation to Wales.
 
@@ -87,41 +87,41 @@ Minister of Communities and Tackling Poverty, one of the Welsh Ministers
 
 SCHEDULES
 
-## SCHEDULE 1 — FORM WRTB1 — NOTICE CLAIMING TO EXERCISE THE RIGHT TO BUY[^key-d4c469d9700314e779f4789bcc080c88][^key-c52fe9e0b2ffcb5e4920640c1059cde7]
+## SCHEDULE 1 — FORM WRTB1 — NOTICE CLAIMING TO EXERCISE THE RIGHT TO BUY[^c-d4c469d9700314e779f4789bcc080c88][^c-c52fe9e0b2ffcb5e4920640c1059cde7]
 
 Regulation 2
 
 [image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_001)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_002)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_003)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_004)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_005)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_006)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_007)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_008)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_009)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_010)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_011)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_012)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_013)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_014)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_015)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_016)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_017)[image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_018)
 
-## SCHEDULE 2 — FORM WRTB2 — NOTICE IN REPLY TO TENANT’S RIGHT TO BUY CLAIM[^key-e824f605a5c8533e4a0d39c9d045dd60]
+## SCHEDULE 2 — FORM WRTB2 — NOTICE IN REPLY TO TENANT’S RIGHT TO BUY CLAIM[^c-e824f605a5c8533e4a0d39c9d045dd60]
 
 Regulation 3
 
 [image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_019) [image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_020) [image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_021) [image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_022) [image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_023) [image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_024) [image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_025)
 
-## SCHEDULE 3 — FORM WRTB3 — INITIAL NOTICE OF DELAY[^key-3810b99019e40315a1f37cce57c25a06]
+## SCHEDULE 3 — FORM WRTB3 — INITIAL NOTICE OF DELAY[^c-3810b99019e40315a1f37cce57c25a06]
 
 Regulation 4
 
 [image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_026) [image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_027) [image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_028)
 
-## SCHEDULE 4 — FORM WRTB4 — INITIAL NOTICE OF DELAY - LANDLORD’S COUNTER NOTICE[^key-f67222ddc1f09d0c9adfe677ac079106]
+## SCHEDULE 4 — FORM WRTB4 — INITIAL NOTICE OF DELAY - LANDLORD’S COUNTER NOTICE[^c-f67222ddc1f09d0c9adfe677ac079106]
 
 Regulation 5
 
 [image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_029) [image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_030)
 
-## SCHEDULE 5 — FORM WRTB5 — OPERATIVE NOTICE OF DELAY[^key-834e9c27b2256ce401264e45bebae4b5]
+## SCHEDULE 5 — FORM WRTB5 — OPERATIVE NOTICE OF DELAY[^c-834e9c27b2256ce401264e45bebae4b5]
 
 Regulation 6
 
 [image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_031) [image: see source](https://www.legislation.gov.uk/wsi/2015/1320/images/wsi_20151320_en_032)
 
-## SCHEDULE 6 — REVOCATIONS[^key-c904e4fe30e87b0390a7a516d5a01474]
+## SCHEDULE 6 — REVOCATIONS[^c-c904e4fe30e87b0390a7a516d5a01474]
 
 Regulation 8
 
-[^key-c904e4fe30e87b0390a7a516d5a01474]
+[^c-c904e4fe30e87b0390a7a516d5a01474]
 
 - Housing (Right to Buy) (Prescribed Forms) Regulations 1986[^f00008]
 - Housing (Right to Buy) (Prescribed Forms) (Amendment) Regulations 1989[^f00009]
@@ -161,43 +161,43 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: Functions of the Secretary of State, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), article 2 and Schedule 1. Those functions were subsequently transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-c46f6e69598bef444fbdba67e7be322b]: Commencement: Reg. 1 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
+[^c-c46f6e69598bef444fbdba67e7be322b]: Commencement: Reg. 1 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
 
-[^key-6dbe4758c60ac50f16552cbb6d22c6e8]: Commencement: Reg. 2 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
+[^c-6dbe4758c60ac50f16552cbb6d22c6e8]: Commencement: Reg. 2 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
 
 [^f00004]: Footnote: Section 122(1) has been amended by section 32 of the Housing (Wales) Measure [2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5).
 
-[^key-17567d29a846e645f4698e0d1f323c22]: Commencement: Reg. 3 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
+[^c-17567d29a846e645f4698e0d1f323c22]: Commencement: Reg. 3 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
 
 [^f00005]: Footnote: Section 124(1) has been amended by section 31 of the Housing (Wales) Measure [2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5).
 
-[^key-61ddcc5fa0a02bb9bbf2be628ecaaad1]: Commencement: Reg. 4 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
+[^c-61ddcc5fa0a02bb9bbf2be628ecaaad1]: Commencement: Reg. 4 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
 
 [^f00006]: Footnote: Section 153A was inserted by the Housing Act [1988 (c.50)](https://www.legislation.gov.uk/ukpga/1988/50). Subsection (1) has been amended by section 31 of the Housing (Wales) Measure [2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5) and by section 187 of, and Schedules 21 and 22 to the Leasehold Reform, Housing and Urban Development Act [1993 (c.28)](https://www.legislation.gov.uk/ukpga/1993/28).
 
-[^key-8a243928584018bea6393c9f94fe52f8]: Commencement: Reg. 5 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
+[^c-8a243928584018bea6393c9f94fe52f8]: Commencement: Reg. 5 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
 
 [^f00007]: Footnote: Section 153A(3) has been amended by Schedule 21 to the Leasehold Reform, Housing and Urban Development Act [1993 (c.28)](https://www.legislation.gov.uk/ukpga/1993/28).
 
-[^key-5c606f20eab8a437ba296bb8122dafb2]: Commencement: Reg. 6 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
+[^c-5c606f20eab8a437ba296bb8122dafb2]: Commencement: Reg. 6 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
 
-[^key-ce88e0c300d3f4370d5c312e4730b0c4]: Commencement: Reg. 7 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
+[^c-ce88e0c300d3f4370d5c312e4730b0c4]: Commencement: Reg. 7 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
 
-[^key-ac010980a157b26d2d87617b3fc002b8]: Commencement: Reg. 8 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
+[^c-ac010980a157b26d2d87617b3fc002b8]: Commencement: Reg. 8 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
 
-[^key-d4c469d9700314e779f4789bcc080c88]: Commencement: Sch. 1 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
+[^c-d4c469d9700314e779f4789bcc080c88]: Commencement: Sch. 1 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
 
-[^key-c52fe9e0b2ffcb5e4920640c1059cde7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2015/1320/schedule/1) Pt. D: words "in force from time to time" substituted for word "£16,000" (19.10.2015) by [The Housing (Right to Buy) (Prescribed Forms) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1795)](https://www.legislation.gov.uk/uksi/2015/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1795/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1795/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1795/regulation/3))
+[^c-c52fe9e0b2ffcb5e4920640c1059cde7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2015/1320/schedule/1) Pt. D: words "in force from time to time" substituted for word "£16,000" (19.10.2015) by [The Housing (Right to Buy) (Prescribed Forms) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1795)](https://www.legislation.gov.uk/uksi/2015/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1795/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1795/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1795/regulation/3))
 
-[^key-e824f605a5c8533e4a0d39c9d045dd60]: Commencement: Sch. 2 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
+[^c-e824f605a5c8533e4a0d39c9d045dd60]: Commencement: Sch. 2 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
 
-[^key-3810b99019e40315a1f37cce57c25a06]: Commencement: Sch. 3 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
+[^c-3810b99019e40315a1f37cce57c25a06]: Commencement: Sch. 3 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
 
-[^key-f67222ddc1f09d0c9adfe677ac079106]: Commencement: Sch. 4 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
+[^c-f67222ddc1f09d0c9adfe677ac079106]: Commencement: Sch. 4 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
 
-[^key-834e9c27b2256ce401264e45bebae4b5]: Commencement: Sch. 5 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
+[^c-834e9c27b2256ce401264e45bebae4b5]: Commencement: Sch. 5 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
 
-[^key-c904e4fe30e87b0390a7a516d5a01474]: Commencement: Sch. 6 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
+[^c-c904e4fe30e87b0390a7a516d5a01474]: Commencement: Sch. 6 in force at 22.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1320/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1986/2194](https://www.legislation.gov.uk/uksi/1986/2194).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Duties where occupiers are on residential premises entered without warrant[^key-7719d1fd81864d27b4bca6d47d41e2d7]
+## 127. Duties where occupiers are on residential premises entered without warrant[^c-7719d1fd81864d27b4bca6d47d41e2d7]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7719d1fd81864d27b4bca6d47d41e2d7]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2025/26/section/127) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-7719d1fd81864d27b4bca6d47d41e2d7]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2025/26/section/127) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

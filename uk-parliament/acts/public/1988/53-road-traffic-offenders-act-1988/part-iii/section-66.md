@@ -24,7 +24,7 @@ summary: ''
 
 - (a) a notice to owner has been served on a vehicle-hire firm,
 - (b) at the time of the alleged offence the vehicle in respect of which the notice was served was let to another person by the vehicle-hire firm under a hiring agreement to which this section applies, and
-- (c) within the period allowed for response to the notice the firm provides the relevant person[^key-b81df3d5df9d89c37b15630f5381b6e3] with the documents mentioned in subsection (2) below.
+- (c) within the period allowed for response to the notice the firm provides the relevant person[^c-b81df3d5df9d89c37b15630f5381b6e3] with the documents mentioned in subsection (2) below.
 
 (2) Those documents are a statement on an official form, signed by or on behalf of the firm, stating that at the time of the alleged offence the vehicle concerned was hired under a hiring agreement to which this section applies, together with—
 
@@ -42,7 +42,7 @@ and accordingly references in this Part of this Act (with the exceptions mention
 
 This subsection does not apply to references to a notice to owner in this section or in section 81(2)(b) of or Part I of Schedule 4 to this Act.
 
-(5) In any case where this section applies, a person authorised in that behalf by the person[^key-a5a37f3cf5ee21ff91e144a1764c2c10] to whom the documents mentioned in subsection (2) above are provided may, at any reasonable time within six months after service of the notice to owner (and on the production of his authority) require the firm to produce the originals of the hiring agreement and statement of liability in question.
+(5) In any case where this section applies, a person authorised in that behalf by the person[^c-a5a37f3cf5ee21ff91e144a1764c2c10] to whom the documents mentioned in subsection (2) above are provided may, at any reasonable time within six months after service of the notice to owner (and on the production of his authority) require the firm to produce the originals of the hiring agreement and statement of liability in question.
 
 (6) If a vehicle-hire firm fails to produce the original of a document when required to do so under subsection (5) above, this section shall thereupon cease to apply (and section 64 of this Act shall apply accordingly in any such case after that time as it applies in a case where the person on whom the notice to owner was served has failed to provide a statutory statement of ownership in response to the notice within the period allowed).
 
@@ -50,8 +50,8 @@ This subsection does not apply to references to a notice to owner in this sectio
 
 (8) In this section—
 
-- “**hiring agreement**” refers only to an agreement which contains such particulars as may be prescribed and does not include a hire-purchase agreement within the meaning of the [^c18164461]Consumer Credit Act 1974, [^key-c8fbcd8b4c673de3f2d94d8dc38eae52]...
-- “[^key-bc76af7c2bffbdd865763bb5bf29d32e]**relevant person**” means—
+- “**hiring agreement**” refers only to an agreement which contains such particulars as may be prescribed and does not include a hire-purchase agreement within the meaning of the [^c18164461]Consumer Credit Act 1974, [^c-c8fbcd8b4c673de3f2d94d8dc38eae52]...
+- “[^c-bc76af7c2bffbdd865763bb5bf29d32e]**relevant person**” means—
 - (a) if the fixed penalty notice was fixed by a constable, the chief officer of police by or on whose behalf the notice to owner was served, and
 - (b) if it was fixed by a vehicle examiner, the Secretary of State, and
 
@@ -61,12 +61,12 @@ This subsection does not apply to references to a notice to owner in this sectio
 
 [^c18164451]: Modification: Definitions in s. 66 applied (1.10.1991) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 82(1)](https://www.legislation.gov.uk/ukpga/1991/40/section/82/1); [S.I. 1991/2054](https://www.legislation.gov.uk/uksi/1991/2054), [art. 3](https://www.legislation.gov.uk/uksi/1991/2054/article/3),Sch
 
-[^key-b81df3d5df9d89c37b15630f5381b6e3]: Textual amendment: Words in s. 66(1)(c) substituted (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/9/2); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-b81df3d5df9d89c37b15630f5381b6e3]: Textual amendment: Words in s. 66(1)(c) substituted (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/9/2); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-a5a37f3cf5ee21ff91e144a1764c2c10]: Textual amendment: Word in s. 66(5) substituted (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/9/3); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-a5a37f3cf5ee21ff91e144a1764c2c10]: Textual amendment: Word in s. 66(5) substituted (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/9/3); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
 [^c18164461]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-c8fbcd8b4c673de3f2d94d8dc38eae52]: Textual amendment: Word in s. 66(8) repealed (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/2); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/d)
+[^c-c8fbcd8b4c673de3f2d94d8dc38eae52]: Textual amendment: Word in s. 66(8) repealed (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/2); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/d)
 
-[^key-bc76af7c2bffbdd865763bb5bf29d32e]: Textual amendment: Words in s. 66(8) inserted (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 1 para. 9(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/9/4); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-bc76af7c2bffbdd865763bb5bf29d32e]: Textual amendment: Words in s. 66(8) inserted (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 1 para. 9(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/9/4); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)

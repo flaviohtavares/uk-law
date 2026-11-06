@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 9 — List of Medical Certificates[^key-1d1b89cc63a2568894f8dc4485f3e511]
+## SCHEDULE 9 — List of Medical Certificates[^c-1d1b89cc63a2568894f8dc4485f3e511]
 
 *Extent: N.I.*
 
@@ -46,7 +46,7 @@ Regulation 3(2) and Schedule 2 paragraph 42(1)
 
 ## Annotations
 
-[^key-1d1b89cc63a2568894f8dc4485f3e511]: Commencement: Sch. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-1d1b89cc63a2568894f8dc4485f3e511]: Commencement: Sch. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00058]: Footnote: 28 & 29 Vict. c. 73
 

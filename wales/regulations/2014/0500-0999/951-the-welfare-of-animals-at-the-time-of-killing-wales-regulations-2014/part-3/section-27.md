@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Additional requirements for killing animals in accordance with religious rites[^key-38691ba6d1d82b72e29eb5bdb08c2a8d]
+## 27. Additional requirements for killing animals in accordance with religious rites[^c-38691ba6d1d82b72e29eb5bdb08c2a8d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 3 has effect.
 
 ## Annotations
 
-[^key-38691ba6d1d82b72e29eb5bdb08c2a8d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2014/951/regulation/27) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-38691ba6d1d82b72e29eb5bdb08c2a8d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2014/951/regulation/27) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

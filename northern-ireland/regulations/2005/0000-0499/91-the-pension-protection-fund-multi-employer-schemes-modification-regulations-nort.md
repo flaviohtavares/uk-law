@@ -41,7 +41,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 ## PART I — PRELIMINARY
 
-### 1. Citation, commencement and interpretation[^key-c459e463a6ca5344ae73e6dc72edd0cd]
+### 1. Citation, commencement and interpretation[^c-c459e463a6ca5344ae73e6dc72edd0cd]
 
 (1) These Regulations may be cited as the Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations (Northern Ireland) 2005 and shall come into operation –
 
@@ -75,7 +75,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 ## PART II — SEGREGATED SCHEMES: SINGLE EMPLOYER SECTIONS
 
-### 2. Application and effect[^key-0b14fd05ddcc2d04faae483dbf5525c3][^key-abd0fc26cd6ebfaf7c1c825e46a5baf8]
+### 2. Application and effect[^c-0b14fd05ddcc2d04faae483dbf5525c3][^c-abd0fc26cd6ebfaf7c1c825e46a5baf8]
 
 (1) This regulation applies to a section of a segregated scheme with one employer in relation to that section in circumstances where –
 
@@ -93,7 +93,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (3) Paragraph (2) shall not have effect in relation to Article 157 (initial levy).
 
-### 3. Notification of insolvency events, confirmation of scheme status etc.[^key-07afbd5a1cc8a51f75f6445c57de697f][^key-4875ec6788bcafc57a41eed6d6a4dc57]
+### 3. Notification of insolvency events, confirmation of scheme status etc.[^c-07afbd5a1cc8a51f75f6445c57de697f][^c-4875ec6788bcafc57a41eed6d6a4dc57]
 
 (1) Article 104 (duty to notify insolvency events in respect of employers) shall be modified in its application to a section of a segregated scheme to which regulation 2 applies so that it shall be read as if –
 
@@ -144,7 +144,7 @@ The Department for Social Development, in exercise of the powers conferred on it
   ; and
 - (b) in paragraph (4)(b) for “ceases to be involved with the scheme” there were substituted “ceases to be involved with the relevant section of the scheme”.
 
-### 4. Eligible schemes[^key-09c8fe4d88b39341f025a8a85d91ffcb]
+### 4. Eligible schemes[^c-09c8fe4d88b39341f025a8a85d91ffcb]
 
 (1) Except as otherwise provided in this Part, for the purposes of Part III of the Order, except Chapter 4, as it applies in the case of a section of a segregated scheme to which regulation 2 applies, references to “an eligible scheme” shall be read as if they were references to a section of a segregated scheme in circumstances where that section, if it were a scheme, would not be –
 
@@ -153,7 +153,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (2) Paragraph (1) shall not apply for the purposes of Articles 157 to 164 (the levies).
 
-### 5. Board’s duty where application or notification received under Article 113[^key-56a32033341de64b7bd0e30efd35a059][^key-6ea17e8832e8df38cd882bbca414a485]
+### 5. Board’s duty where application or notification received under Article 113[^c-56a32033341de64b7bd0e30efd35a059][^c-6ea17e8832e8df38cd882bbca414a485]
 
 (1) Article 113 (applications and notifications for the purposes of Article 112) shall be modified in its application to a section of a segregated scheme to which regulation 2 applies so that it shall be read as if –
 
@@ -186,7 +186,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
   .
 
-### 6. Protected liabilities and assessment periods[^key-4291b06182ae7a19ecc3cac5858c9da8]
+### 6. Protected liabilities and assessment periods[^c-4291b06182ae7a19ecc3cac5858c9da8]
 
 (1) Article 115 (protected liabilities) shall be modified in its application to a section of a segregated scheme to which regulation 2 applies so that it shall be read as if for paragraph (1) there were substituted the following paragraph –
 
@@ -200,7 +200,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (2) Article 116 (assessment periods) shall be modified in its application to a section of a segregated scheme to which regulation 2 applies so that it shall be read as if in paragraphs (2) and (4) after “an assessment period” there were inserted “in relation to a section of a segregated scheme”.
 
-### 7. Directions and power to validate contraventions of Article 119[^key-991e992969aa213653b5c9c1cbadc862]
+### 7. Directions and power to validate contraventions of Article 119[^c-991e992969aa213653b5c9c1cbadc862]
 
 (1) Article 118 (directions) shall be modified in its application to a section of a segregated scheme to which regulation 2 applies so that it shall be read as if –
 
@@ -215,7 +215,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 .
 
-### 8. Valuation of assets[^key-fe32e2fa7bbb9ae5655546b078192b2a]
+### 8. Valuation of assets[^c-fe32e2fa7bbb9ae5655546b078192b2a]
 
 (1) Article 127 (Board’s obligation to obtain valuation of assets and protected liabilities) shall be modified in its application to a section of a segregated scheme to which regulation 2 applies so that it shall be read as if in paragraph (2) for “the scheme” there were substituted “the relevant section of the scheme”.
 
@@ -237,7 +237,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
   .
 
-### 9. Refusal to assume responsibility for a scheme[^key-62c5588bc7a5a9775e3b383e0a99e34b][^key-f3a9622cff2fd1f799cb49a55a070f4c]
+### 9. Refusal to assume responsibility for a scheme[^c-62c5588bc7a5a9775e3b383e0a99e34b][^c-f3a9622cff2fd1f799cb49a55a070f4c]
 
 (1) Article 130 (schemes which become eligible schemes) shall be modified in its application to a section of a segregated scheme to which regulation 2 applies so that it shall be read as if –
 
@@ -294,7 +294,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
   .
 
-### 10. Reconsideration and duty to assume responsibility for a scheme following reconsideration[^key-1dd016f77f9e52062cb768711477d4cb]
+### 10. Reconsideration and duty to assume responsibility for a scheme following reconsideration[^c-1dd016f77f9e52062cb768711477d4cb]
 
 (1) Article 135 (application for reconsideration) shall be modified in its application to a section of a segregated scheme to which regulation 2 applies so that it shall be read as if in paragraph (8) in the definition of “protected benefits quotation” for the words from ““protected benefits quotation”, in relation to a scheme, means” to “from the reconsideration time” there were substituted –
 
@@ -324,7 +324,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
   .
 
-### 11. Closed schemes and requirement to wind up schemes with sufficient assets to meet protected liabilities[^key-9e1182bc7eefae2e37ce3bf74432c426]
+### 11. Closed schemes and requirement to wind up schemes with sufficient assets to meet protected liabilities[^c-9e1182bc7eefae2e37ce3bf74432c426]
 
 (1) Article 137 (closed schemes) shall be modified in its application to a section of a segregated scheme to which regulation 2 applies so that it shall be read as if –
 
@@ -355,7 +355,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 .
 
-### 12. Transfer notices and assumption of responsibility[^key-80097a4eac47d9e095833a387abd09bc]
+### 12. Transfer notices and assumption of responsibility[^c-80097a4eac47d9e095833a387abd09bc]
 
 (1) Article 144 (transfer notice) shall be modified in its application to a section of a segregated scheme to which regulation 2 applies so that it shall be read as if –
 
@@ -381,7 +381,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (3) In Schedule 5 to the Order (transfer of property, rights and liabilities to the Board) paragraph 1 shall be modified in its application to a section of a segregated scheme to which regulation 2 applies so that it shall be read as if for “an occupational pension scheme” there were substituted “a section of a segregated multi-employer scheme”.
 
-### 13. The pension compensation provisions[^key-9a0c3ae708f807458f329a02d9fe9833]
+### 13. The pension compensation provisions[^c-9a0c3ae708f807458f329a02d9fe9833]
 
 (1) Article 146 (the pension compensation provisions) shall be modified in its application to a section of a segregated scheme to which regulation 2 applies so that it shall be read as if in paragraph (1) –
 
@@ -396,7 +396,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 ## PART III — SEGREGATED SCHEMES: MULTI-EMPLOYER SECTIONS WITHOUT REQUIREMENT FOR PARTIAL WIND UP ON WITHDRAWAL OF PARTICIPATING EMPLOYER
 
-### 14. Application and effect[^key-636bbdbab1e51c9e0399fb32854538ef][^key-13ecc7ece2360ffdd294b8472d13f1d2]
+### 14. Application and effect[^c-636bbdbab1e51c9e0399fb32854538ef][^c-13ecc7ece2360ffdd294b8472d13f1d2]
 
 (1) This paragraph applies to a multi-employer section of a segregated scheme the rules of which do not provide for the partial winding up of the section when an employer in relation to the section ceases to participate in the scheme in circumstances where –
 
@@ -419,7 +419,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (4) Paragraph (3) shall not have effect in relation to Article 157 (initial levy).
 
-### 15. Notification of insolvency events, confirmation of scheme status etc.[^key-c5aea9526009d49799052a9c14c12728][^key-22f4beb3991a6eba32e8f7629ce9b8da]
+### 15. Notification of insolvency events, confirmation of scheme status etc.[^c-c5aea9526009d49799052a9c14c12728][^c-22f4beb3991a6eba32e8f7629ce9b8da]
 
 (1) Article 104 (duty to notify insolvency events in respect of employers) shall be modified so that it shall be read as if, in its application to a multi-employer section of a segregated scheme to which paragraph (1) or (2) of regulation 14 applies –
 
@@ -496,7 +496,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 .
 
-### 16. Eligible schemes[^key-c2c3f422f8f90c0f967e7230a8323e17]
+### 16. Eligible schemes[^c-c2c3f422f8f90c0f967e7230a8323e17]
 
 (1) Except as otherwise provided in this Part, for the purposes of Part III of the Order, except Chapter 4, as it applies in the case of a section of a multi-employer scheme to which paragraph (1) or (2) of regulation 14 applies, references to an “eligible scheme” shall be read as if they were references to a multi-employer section of a segregated scheme in circumstances where that section, if it were a scheme, would not be –
 
@@ -505,7 +505,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (2) Paragraph (1) shall not apply for the purposes of Articles 157 to 164 (the levies).
 
-### 17. Duty to assume responsibility for schemes[^key-658b2725a0e12f7a904420957c0b792f]
+### 17. Duty to assume responsibility for schemes[^c-658b2725a0e12f7a904420957c0b792f]
 
 (1) Article 111 (duty to assume responsibility for schemes following insolvency event) shall only have effect in relation to a multi-employer section of a segregated scheme in the circumstances described in regulation 14(1) and (2) and, for those purposes, shall be modified so that it shall be read as if –
 
@@ -610,7 +610,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
     .
 
-### 18. Board’s duty where application or notification received under Article 113[^key-13c48dfee5cb470d895fc1c4abcdf794][^key-762ced50d1ac5725ee19c65381c10c41]
+### 18. Board’s duty where application or notification received under Article 113[^c-13c48dfee5cb470d895fc1c4abcdf794][^c-762ced50d1ac5725ee19c65381c10c41]
 
 Article 114 (Board’s duty where application or notification received under Article 113) shall be modified in its application to a multi-employer section of a segregated scheme to which paragraph (1) or (2) of regulation 14 applies so that it shall be read as if –
 
@@ -630,7 +630,7 @@ Article 114 (Board’s duty where application or notification received under Art
 
   .
 
-### 19. Protected liabilities[^key-71ea3f3251daa2b4004f03782fe8cdcf]
+### 19. Protected liabilities[^c-71ea3f3251daa2b4004f03782fe8cdcf]
 
 Article 115 (protected liabilities) shall be modified in its application to a multi-employer section of a segregated scheme to which paragraph (1) or (2) of regulation 14 applies so that it shall be read as if for paragraph (1) there were substituted the following paragraph –
 
@@ -642,7 +642,7 @@ Article 115 (protected liabilities) shall be modified in its application to a mu
 
 .
 
-### 20. Assessment periods[^key-8c11c98b928662920ab71df47cf5cedd]
+### 20. Assessment periods[^c-8c11c98b928662920ab71df47cf5cedd]
 
 Article 116 (assessment periods) shall be modified so that it shall be read as if, in its application to a multi-employer section of a segregated scheme to which –
 
@@ -659,7 +659,7 @@ Article 116 (assessment periods) shall be modified so that it shall be read as i
     - (cc) after “an assessment period” there were inserted “in relation to a multi-employer section of an eligible scheme”, and
   - (ii) in paragraph (4) for “in relation to an eligible scheme, an application is made under Article 113(1) or a notification is received under Article 113(5(a)” there were substituted “in relation to a multi-employer section of a segregated scheme which is, for the purposes of this Part, an eligible scheme, an application is made under Article 113(1) or a notification is received under Article 113(5)(a) in respect of one or more of the employers at a time when an insolvency event has occurred in relation to all other employers in relation to that section of the scheme and, where applicable, an insolvency practitioner is still required by law to be appointed to act in relation to each of those employers.”.
 
-### 21. Directions[^key-9c1a55b4069fbfde5bed9e65c1adaa59]
+### 21. Directions[^c-9c1a55b4069fbfde5bed9e65c1adaa59]
 
 Article 118 (directions) shall be modified in its application to a multi-employer section of a segregated scheme to which paragraph (1) or (2) of regulation 14 applies so that it shall be read as if –
 
@@ -668,7 +668,7 @@ Article 118 (directions) shall be modified in its application to a multi-employe
   - (ii) for “in relation to the scheme” there were substituted “in relation to the segregated scheme in question”; and
 - (b) in paragraph (3)(a)(i) for “the trustees or managers” there were substituted “any trustees or managers”.
 
-### 22. Restrictions on winding up, discharge of liabilities etc. and power to validate contraventions of Article 119[^key-bc4ee8663f3bf9a18bce8a9f3f626de3]
+### 22. Restrictions on winding up, discharge of liabilities etc. and power to validate contraventions of Article 119[^c-bc4ee8663f3bf9a18bce8a9f3f626de3]
 
 (1) Article 119 (restrictions on winding up, discharge of liabilities etc.) shall be modified in its application to a multi-employer section of a segregated scheme to which paragraph (1) or (2) of regulation 14 applies so that it shall be read as if after paragraph (2) there were inserted the following paragraph –
 
@@ -685,7 +685,7 @@ Article 118 (directions) shall be modified in its application to a multi-employe
 
   .
 
-### 23. Valuation of assets[^key-831822cbdcde1421fe30fed52a0231c7]
+### 23. Valuation of assets[^c-831822cbdcde1421fe30fed52a0231c7]
 
 (1) Article 127 (Board’s obligation to obtain valuation of assets and protected liabilities) shall be modified in its application to a multi-employer section of a segregated scheme to which paragraph (1) or (2) of regulation 14 applies so that it shall be read as if in paragraph (2) for “the scheme” there were substituted “the relevant section of the scheme”.
 
@@ -709,7 +709,7 @@ Article 118 (directions) shall be modified in its application to a multi-employe
 
   .
 
-### 24. Refusal to assume responsibility for a scheme[^key-eb990a5a2bf68bdd06ea44388fffd8a9][^key-d5fb7d08d3f228cf00920734ec9dd94e]
+### 24. Refusal to assume responsibility for a scheme[^c-eb990a5a2bf68bdd06ea44388fffd8a9][^c-d5fb7d08d3f228cf00920734ec9dd94e]
 
 (1) Article 130 (schemes which become eligible schemes) shall be modified in its application to a multi-employer section of a segregated scheme to which paragraph (1) or (2) of regulation 14 applies so that it shall be read as if –
 
@@ -773,7 +773,7 @@ Article 118 (directions) shall be modified in its application to a multi-employe
 
   .
 
-### 25. Reconsideration, closed schemes and requirement to wind up schemes with sufficient assets to meet protected liabilities[^key-6f0f48457989deb54af154861cb7b8b1]
+### 25. Reconsideration, closed schemes and requirement to wind up schemes with sufficient assets to meet protected liabilities[^c-6f0f48457989deb54af154861cb7b8b1]
 
 (1) Article 135 (application for reconsideration) shall be modified in its application to a multi-employer section of a segregated scheme to which paragraph (1) or (2) of regulation 14 applies so that it shall be read as if in paragraph (8) in the definition of “protected benefits quotation” for the words from ““protected benefits quotation”, in relation to a scheme, means” to “from the reconsideration time” there were substituted –
 
@@ -832,7 +832,7 @@ Article 118 (directions) shall be modified in its application to a multi-employe
 
 .
 
-### 26. Transfer notices and assumption of responsibility for a scheme[^key-13fec516a4f6f342faa7367744c0e23a]
+### 26. Transfer notices and assumption of responsibility for a scheme[^c-13fec516a4f6f342faa7367744c0e23a]
 
 (1) Article 144 (transfer notice) shall be modified in its application to a multi-employer section of a segregated scheme to which paragraph (1) or (2) of regulation 14 applies so that it shall be read as if –
 
@@ -858,7 +858,7 @@ Article 118 (directions) shall be modified in its application to a multi-employe
 
 (3) In Schedule 5 to the Order (transfer of property, rights and liabilities to the Board) paragraph 1 shall be modified in its application to a multi-employer section of a segregated scheme to which paragraph (1) or (2) of regulation 14 applies so that it shall be read as if for “an occupational pension scheme” there were substituted “a multi-employer section of a segregated multi-employer scheme”.
 
-### 27. The pension compensation provisions[^key-86198f8b6eaad0d82e424ddd52464ad5]
+### 27. The pension compensation provisions[^c-86198f8b6eaad0d82e424ddd52464ad5]
 
 (1) Article 146 (the pension compensation provisions) shall be modified in its application to a multi-employer section of a segregated scheme to which paragraph (1) or (2) of regulation 14 applies so that paragraph (1) shall be read as if –
 
@@ -873,7 +873,7 @@ Article 118 (directions) shall be modified in its application to a multi-employe
 
 ## PART IV — SEGREGATED SCHEMES: NON-SEGREGATED MULTI-EMPLOYER SECTIONS OF SEGREGATED SCHEMES WITH REQUIREMENT FOR PARTIAL WIND UP ON WITHDRAWAL OF PARTICIPATING EMPLOYER
 
-### 28. Application and effect[^key-4040ee37ec27c742a42313afd49ccfe6][^key-03654d964ed1fe121611a67e61f2df89]
+### 28. Application and effect[^c-4040ee37ec27c742a42313afd49ccfe6][^c-03654d964ed1fe121611a67e61f2df89]
 
 (1) This regulation applies to a non-segregated multi-employer section of a segregated scheme in circumstances where –
 
@@ -903,7 +903,7 @@ the segregation requirement shall, in relation to the employer referred to in su
 
 (5) Paragraph (4) shall not have effect in relation to Article 157 (initial levy).
 
-### 29. Notification of insolvency events, confirmation of scheme status etc.[^key-33766fc153a952864fdc869f1da114bd][^key-d201fbbe843a007e86218c4ae3ce9a80]
+### 29. Notification of insolvency events, confirmation of scheme status etc.[^c-33766fc153a952864fdc869f1da114bd][^c-d201fbbe843a007e86218c4ae3ce9a80]
 
 (1) Article 104 (duty to notify insolvency events in respect of employers) shall be modified in its application to a segregated part to which regulation 28 applies so that it shall be read as if –
 
@@ -968,7 +968,7 @@ the segregation requirement shall, in relation to the employer referred to in su
 
 .
 
-### 30. Eligible schemes[^key-aee9e316c08e1f5f742b151ba60f716e]
+### 30. Eligible schemes[^c-aee9e316c08e1f5f742b151ba60f716e]
 
 (1) Except as otherwise provided in this Part, for the purposes of Part III of the Order, except Chapter 4, as it applies in the case of a segregated part to which regulation 28 applies, references to an “eligible scheme” shall be read as if they were references to a segregated part of a multi-employer section of a segregated scheme in circumstances where that segregated part, if it were a scheme, would not be –
 
@@ -977,7 +977,7 @@ the segregation requirement shall, in relation to the employer referred to in su
 
 (2) Paragraph (1) shall not apply for the purposes of Articles 157 to 164 (the levies).
 
-### 31. Duty to assume responsibility for schemes[^key-a7072d9e8e3df50a3edabcac4112997d]
+### 31. Duty to assume responsibility for schemes[^c-a7072d9e8e3df50a3edabcac4112997d]
 
 (1) Article 111 (duty to assume responsibility for schemes following insolvency event) shall be modified in its application to a segregated part to which regulation 28 applies so that it shall be read as if in paragraph (2)(a) after “at the relevant time” there were inserted “as determined by the Board’s valuation of the section as a whole under Article 127”.
 
@@ -996,7 +996,7 @@ the segregation requirement shall, in relation to the employer referred to in su
 
   .
 
-### 32. Board’s duty where application or notification received under Article 113[^key-80e0fe8bd07b36f20da40959c138d685][^key-6e4e1ccb28ef2517a4444e3439d10779]
+### 32. Board’s duty where application or notification received under Article 113[^c-80e0fe8bd07b36f20da40959c138d685][^c-6e4e1ccb28ef2517a4444e3439d10779]
 
 Article 114 (Board’s duty where application or notification received under Article 113) shall be modified in its application to a segregated part to which regulation 28 applies so that it shall be read as if –
 
@@ -1016,7 +1016,7 @@ Article 114 (Board’s duty where application or notification received under Art
 
   .
 
-### 33. Protected liabilities[^key-7150249621e041e5be11ccd5f94a7077]
+### 33. Protected liabilities[^c-7150249621e041e5be11ccd5f94a7077]
 
 Article 115 (protected liabilities) shall be modified in its application to a segregated part to which regulation 28 applies so that it shall be read as if for paragraph (1) there were substituted the following paragraph –
 
@@ -1028,11 +1028,11 @@ Article 115 (protected liabilities) shall be modified in its application to a se
 
 .
 
-### 34. Assessment periods[^key-8ba858c9295fdd23e5c3678eefe32e25]
+### 34. Assessment periods[^c-8ba858c9295fdd23e5c3678eefe32e25]
 
 Article 116 (assessment periods) shall be modified in its application to a segregated part to which regulation 28 applies so that it shall be read as if in paragraph (2) after “an assessment period” there were inserted “in relation to a segregated part of a multi-employer section of a segregated scheme”.
 
-### 35. Directions[^key-c5ae4a69b05586ee678d0663b6de76a0]
+### 35. Directions[^c-c5ae4a69b05586ee678d0663b6de76a0]
 
 Article 118 (directions) shall be modified in its application to a non-segregated multi-employer section to which regulation 28 applies so that it shall be read as if –
 
@@ -1043,7 +1043,7 @@ Article 118 (directions) shall be modified in its application to a non-segregate
 - (b) in paragraph (3)(a) for head (i) there were substituted the following head –
   - (i) any trustees or managers of the scheme in relation to which the segregated part relates,”.
 
-### 36. Restrictions on winding up, discharge of liabilities etc., and power to validate contraventions of Article 119[^key-5501629bb8d3b990f097d8844155db3c]
+### 36. Restrictions on winding up, discharge of liabilities etc., and power to validate contraventions of Article 119[^c-5501629bb8d3b990f097d8844155db3c]
 
 (1) Article 119 (restrictions on winding up, discharge of liabilities etc.) shall be modified in its application to a segregated part to which regulation 28 applies so that it shall be read as if –
 
@@ -1060,7 +1060,7 @@ Article 118 (directions) shall be modified in its application to a non-segregate
 
 .
 
-### 37. Board to act as creditor of the employer[^key-af7010453a355c2bb7418a50cc8110cb]
+### 37. Board to act as creditor of the employer[^c-af7010453a355c2bb7418a50cc8110cb]
 
 Article 121 (Board to act as creditor of the employer) shall be modified in its application to a segregated part to which regulation 28 applies so that it shall be read as if –
 
@@ -1071,7 +1071,7 @@ Article 121 (Board to act as creditor of the employer) shall be modified in its 
 
   .
 
-### 38. Valuation of assets[^key-f20053dcd903fa9783992a343e5c01b4][^key-5603c60a73d0e1452bdfbc0151261574]
+### 38. Valuation of assets[^c-f20053dcd903fa9783992a343e5c01b4][^c-5603c60a73d0e1452bdfbc0151261574]
 
 (1) Article 127 (Board’s obligation to obtain valuation of assets and protected liabilities) shall be modified in its application to a segregated part to which regulation 28 applies, so that it shall be read as if –
 
@@ -1110,7 +1110,7 @@ Article 121 (Board to act as creditor of the employer) shall be modified in its 
 
   .
 
-### 39. Refusal to assume responsibility for a scheme[^key-77917c3681a8d5cff90ab25d994ea2f9][^key-ab3dc57195d4c6821bf2e5c67fd6aa46]
+### 39. Refusal to assume responsibility for a scheme[^c-77917c3681a8d5cff90ab25d994ea2f9][^c-ab3dc57195d4c6821bf2e5c67fd6aa46]
 
 (1) Article 130 (schemes which become eligible schemes) shall be modified in its application to a segregated part to which regulation 28 applies so that it shall be read as if –
 
@@ -1167,7 +1167,7 @@ Article 121 (Board to act as creditor of the employer) shall be modified in its 
 
   .
 
-### 40. Reconsideration[^key-101ccb3596b9dc6e6e511d419ae17497]
+### 40. Reconsideration[^c-101ccb3596b9dc6e6e511d419ae17497]
 
 (1) Article 135 (application for reconsideration) shall be modified in its application to a segregated part to which regulation 28 applies so that it shall be read as if in paragraph (8) in the definition of “protected benefits quotation” for the words from ““protected benefits quotation”, in relation to a scheme, means” to “from the reconsideration time” there were substituted –
 
@@ -1202,7 +1202,7 @@ Article 121 (Board to act as creditor of the employer) shall be modified in its 
 
   .
 
-### 41. Closed schemes and requirements to wind up schemes with sufficient assets[^key-7b486c1f1329f7344b278058c1daee4f]
+### 41. Closed schemes and requirements to wind up schemes with sufficient assets[^c-7b486c1f1329f7344b278058c1daee4f]
 
 (1) Article 137 (closed schemes) shall be modified in its application to a segregated part to which regulation 28 applies so that it shall be read as if –
 
@@ -1247,7 +1247,7 @@ Article 121 (Board to act as creditor of the employer) shall be modified in its 
 
 .
 
-### 42. Transfer notices and assumption of responsibility for a scheme[^key-893d93543961684739673ea69bd4c96d]
+### 42. Transfer notices and assumption of responsibility for a scheme[^c-893d93543961684739673ea69bd4c96d]
 
 (1) Article 144 (transfer notice) shall be modified in its application to a segregated part to which regulation 28 applies so that it shall be read as if –
 
@@ -1282,7 +1282,7 @@ Article 121 (Board to act as creditor of the employer) shall be modified in its 
 
 (3) In Schedule 5 to the Order (transfer of property, rights and liabilities to the Board) paragraph 1 shall be modified in its application to a segregated part to which regulation 28 applies so that it shall be read as if for “an occupational pension scheme” there were substituted “a segregated part of a multi-employer section of a segregated multi-employer scheme”.
 
-### 43. Further actuarial valuation of segregated parts[^key-5296d96c6d098aea6b33230c8c99216f]
+### 43. Further actuarial valuation of segregated parts[^c-5296d96c6d098aea6b33230c8c99216f]
 
 Part III of the Order shall be modified in its application to a segregated part to which regulation 28 applies so that it shall be read as if after Article 144 (transfer notice) there were inserted the following Article –
 
@@ -1303,7 +1303,7 @@ Part III of the Order shall be modified in its application to a segregated part 
 
 .
 
-### 44. The pension compensation provisions[^key-1b2f27ba2b1223d0217ff272b3344789]
+### 44. The pension compensation provisions[^c-1b2f27ba2b1223d0217ff272b3344789]
 
 (1) Article 146 (the pension compensation provisions) shall be modified in its application to a segregated part to which regulation 28 applies so that paragraph (1) shall be read as if –
 
@@ -1318,7 +1318,7 @@ Part III of the Order shall be modified in its application to a segregated part 
 
 ## PART V — NON-SEGREGATED SCHEMES: SCHEMES WITH A REQUIREMENT FOR PARTIAL WIND UP ON THE WITHDRAWAL OF A PARTICIPATING EMPLOYER
 
-### 45. Application and effect[^key-772e0413fe395d14c3593f2ea66b7839][^key-ba0a707ab9d83b61c7fbfe4cbb2aef21]
+### 45. Application and effect[^c-772e0413fe395d14c3593f2ea66b7839][^c-ba0a707ab9d83b61c7fbfe4cbb2aef21]
 
 (1) This regulation applies to a non-segregated scheme in circumstances where –
 
@@ -1348,7 +1348,7 @@ the segregation requirement shall, in relation to the employer referred to in su
 
 (5) Paragraph (4) shall not have effect in relation to Article 157 (initial levy).
 
-### 46. Notification of insolvency events, confirmation of scheme status etc.[^key-42a16efdce66102d68a2ac9d8588c577][^key-a6c4029c8c14960998a57435b0565386]
+### 46. Notification of insolvency events, confirmation of scheme status etc.[^c-42a16efdce66102d68a2ac9d8588c577][^c-a6c4029c8c14960998a57435b0565386]
 
 (1) Article 104 (duty to notify insolvency events in respect of employers) shall be modified in its application to a segregated part to which regulation 45 applies so that it shall be read as if –
 
@@ -1413,7 +1413,7 @@ the segregation requirement shall, in relation to the employer referred to in su
 
 .
 
-### 47. Eligible schemes[^key-2ac6dd0de0d2794a7d798a757ac2a819]
+### 47. Eligible schemes[^c-2ac6dd0de0d2794a7d798a757ac2a819]
 
 (1) Except as otherwise provided in this Part, for the purposes of Part III of the Order, except Chapter 4, as it applies in the case of a segregated part to which regulation 45 applies, references to “an eligible scheme” shall be read as if they were references to a segregated part of the scheme in circumstances where that segregated part, if it were a scheme, would not be –
 
@@ -1422,7 +1422,7 @@ the segregation requirement shall, in relation to the employer referred to in su
 
 (2) Paragraph (1) shall not apply for the purposes of Articles 157 to 164 (the levies).
 
-### 48. Duty to assume responsibility for schemes[^key-f97b343f0a2fbc5efefc435a4a157115]
+### 48. Duty to assume responsibility for schemes[^c-f97b343f0a2fbc5efefc435a4a157115]
 
 (1) Article 111 (duty to assume responsibility for schemes following insolvency event) shall be modified in its application to a segregated part to which regulation 45 applies so that it shall be read as if in paragraph (2)(a) for the words after “at the relevant time” there were substituted “, as determined by the Board’s valuation of the scheme under Article 127, was less than the amount of the protected liabilities of that part as determined by that valuation”.
 
@@ -1441,7 +1441,7 @@ the segregation requirement shall, in relation to the employer referred to in su
 
   .
 
-### 49. Board’s duty where application or notification received under Article 113[^key-e2b07443886d9113de29d900f201a8a2][^key-a85a634dd09347ad30a231d6633e8679]
+### 49. Board’s duty where application or notification received under Article 113[^c-e2b07443886d9113de29d900f201a8a2][^c-a85a634dd09347ad30a231d6633e8679]
 
 Article 114 (Board’s duty where application or notification received under Article 113) shall be modified in its application to a segregated part to which regulation 45 applies so that it shall be read as if –
 
@@ -1461,7 +1461,7 @@ Article 114 (Board’s duty where application or notification received under Art
 
   .
 
-### 50. Protected liabilities and assessment period[^key-2874bb8b7fc1f8ba2e3b047ded3b03d9]
+### 50. Protected liabilities and assessment period[^c-2874bb8b7fc1f8ba2e3b047ded3b03d9]
 
 (1) Article 115 (protected liabilities) shall be modified in its application to a segregated part to which regulation 45 applies so that it shall be read as if for paragraph (1) there were substituted the following paragraph –
 
@@ -1475,7 +1475,7 @@ Article 114 (Board’s duty where application or notification received under Art
 
 (2) Article 116 (assessment periods) shall be modified in its application to a segregated part to which regulation 45 applies so that it shall be read as if in paragraph (2) after “an assessment period” there were inserted “in relation to a segregated part of a non-segregated scheme”.
 
-### 51. Directions[^key-9431dbc8ac87d5387210195aa55858a5]
+### 51. Directions[^c-9431dbc8ac87d5387210195aa55858a5]
 
 Article 118 (directions) shall be modified in its application to a segregated part to which regulation 45 applies so that it shall be read as if –
 
@@ -1489,7 +1489,7 @@ Article 118 (directions) shall be modified in its application to a segregated pa
 
   .
 
-### 52. Restrictions on winding up, discharge of liabilities etc. and power to validate contraventions of Article 119[^key-340a8e28dd1b118b54b833a9e1ae3c8d]
+### 52. Restrictions on winding up, discharge of liabilities etc. and power to validate contraventions of Article 119[^c-340a8e28dd1b118b54b833a9e1ae3c8d]
 
 (1) Article 119 (restrictions on winding up, discharge of liabilities etc.) shall be modified in its application to a segregated part to which regulation 45 applies so that it shall be read as if –
 
@@ -1506,7 +1506,7 @@ Article 118 (directions) shall be modified in its application to a segregated pa
 
 .
 
-### 53. Board to act as creditor of the employer[^key-a9aa87eb1a4bd413ef11d29fdf7a718b]
+### 53. Board to act as creditor of the employer[^c-a9aa87eb1a4bd413ef11d29fdf7a718b]
 
 Article 121 (Board to act as creditor of the employer) shall be modified in its application to a segregated part to which regulation 45 applies so that it shall be read as if –
 
@@ -1517,7 +1517,7 @@ Article 121 (Board to act as creditor of the employer) shall be modified in its 
 
   .
 
-### 54. Valuation of assets[^key-f2b83ec6a1e69baae1215193696b45e8][^key-3f5fec68953ca0c3cc7b77cab5461d79]
+### 54. Valuation of assets[^c-f2b83ec6a1e69baae1215193696b45e8][^c-3f5fec68953ca0c3cc7b77cab5461d79]
 
 (1) Article 127 (Board’s obligation to obtain valuation of assets and protected liabilities) shall be modified in its application to a segregated part to which regulation 45 applies, so that it shall be read as if –
 
@@ -1556,7 +1556,7 @@ Article 121 (Board to act as creditor of the employer) shall be modified in its 
 
   .
 
-### 55. Refusal to assume responsibility for a scheme[^key-55c3e2f1801fa3feca9b0fce212a55f6][^key-4410309ab333675d561592176851f8b6]
+### 55. Refusal to assume responsibility for a scheme[^c-55c3e2f1801fa3feca9b0fce212a55f6][^c-4410309ab333675d561592176851f8b6]
 
 (1) Article 130 (schemes which become eligible schemes) shall be modified in its application to a segregated part to which regulation 45 applies, so that it shall be read as if –
 
@@ -1613,7 +1613,7 @@ Article 121 (Board to act as creditor of the employer) shall be modified in its 
 
   .
 
-### 56. Reconsideration[^key-e897433c84dbf261b7e59bef044cc319]
+### 56. Reconsideration[^c-e897433c84dbf261b7e59bef044cc319]
 
 (1) Article 135 (application for reconsideration) shall be modified in its application to a segregated part to which regulation 45 applies, so that it shall be read as if in paragraph (8) in the definition of “protected benefits quotation” for the words from ““protected benefits quotation”, in relation to a scheme, means” to “from the reconsideration time” there were substituted –
 
@@ -1648,7 +1648,7 @@ Article 121 (Board to act as creditor of the employer) shall be modified in its 
 
   .
 
-### 57. Closed schemes and requirement to wind up schemes with sufficient assets[^key-49be8d470ca64c8c5f0184a292425f84]
+### 57. Closed schemes and requirement to wind up schemes with sufficient assets[^c-49be8d470ca64c8c5f0184a292425f84]
 
 (1) Article 137 (closed schemes) shall be modified in its application to a segregated part to which regulation 45 applies so that it shall be read as if –
 
@@ -1693,7 +1693,7 @@ Article 121 (Board to act as creditor of the employer) shall be modified in its 
 
 .
 
-### 58. Transfer notices and assumption of responsibility for a scheme[^key-15158944a6ac706193b029e61ccef915]
+### 58. Transfer notices and assumption of responsibility for a scheme[^c-15158944a6ac706193b029e61ccef915]
 
 (1) Article 144 (transfer notice) shall be modified in its application to a segregated part to which regulation 45 applies, so that it shall be read as if –
 
@@ -1728,7 +1728,7 @@ Article 121 (Board to act as creditor of the employer) shall be modified in its 
 
 (3) In Schedule 5 to the Order (transfer of property, rights and liabilities to the Board) paragraph 1 shall be modified in its application to a segregated part to which regulation 45 applies so that it shall be read as if for “an occupational pension scheme” there were substituted “a segregated part of a non-segregated multi-employer scheme”.
 
-### 59. Further actuarial valuation of segregated parts[^key-1f7fd8404deff55488766f036a1d5682]
+### 59. Further actuarial valuation of segregated parts[^c-1f7fd8404deff55488766f036a1d5682]
 
 Part III of the Order shall be modified in its application to a segregated part to which regulation 45 applies so that it shall be read as if after Article 144 (transfer notice) there were inserted the following Article –
 
@@ -1749,7 +1749,7 @@ Part III of the Order shall be modified in its application to a segregated part 
 
 .
 
-### 60. The pension compensation provisions[^key-5962a4177a61a8d65dbd68417bdfa377]
+### 60. The pension compensation provisions[^c-5962a4177a61a8d65dbd68417bdfa377]
 
 (1) Article 146 (the pension compensation provisions) shall be modified in its application to a segregated part to which regulation 45 applies so that it shall be read as if in paragraph (1) –
 
@@ -1764,7 +1764,7 @@ Part III of the Order shall be modified in its application to a segregated part 
 
 ## PART VI — NON-SEGREGATED SCHEMES: SCHEMES WITHOUT PROVISION FOR PARTIAL WIND UP ON WITHDRAWAL OF A PARTICIPATING EMPLOYER
 
-### 61. Application and effect[^key-4a81f94c3ab47e5cf4240f79e6fc686b]
+### 61. Application and effect[^c-4a81f94c3ab47e5cf4240f79e6fc686b]
 
 (1) This paragraph applies to a multi-employer scheme which is not divided into two or more sections (“non-segregated scheme”) the rules of which do not provide for the partial winding up of the scheme when an employer in relation to the scheme ceases to participate in the scheme in circumstances where –
 
@@ -1776,7 +1776,7 @@ Part III of the Order shall be modified in its application to a segregated part 
 - (a) an insolvency event occurs in relation to one or more of the employers in relation to the scheme at a time when an insolvency event has occurred in relation to all other employers in relation to the scheme and, where applicable, an insolvency practitioner is still required by law to be appointed to act in relation to each of those employers; or
 - (b) one or more of the employers in relation to the scheme is unlikely to continue as a going concern and meets the requirements prescribed under Article 113(1)(b) (applications and notifications for the purposes of Article 112) at a time when an insolvency event has occurred in relation to all other employers in relation to the scheme and, where applicable, an insolvency practitioner is still required by law to be appointed to act in relation to each of those employers.
 
-### 62. Notification of insolvency events, confirmation of scheme status etc.[^key-4477d2815a689ace186a6e994d4b8b9f]
+### 62. Notification of insolvency events, confirmation of scheme status etc.[^c-4477d2815a689ace186a6e994d4b8b9f]
 
 (1) Article 104 (duty to notify insolvency events in respect of employers) shall be modified so that it shall be read as if, in its application to a non-segregated scheme to which paragraph (1) or (2) of regulation 61 applies –
 
@@ -1853,13 +1853,13 @@ Part III of the Order shall be modified in its application to a segregated part 
 
   .
 
-### 63. Eligible schemes[^key-a90236f639d946262c638c631ce7d7c5][^key-df5976f6eeae0e768493c7b5f4dc741f]
+### 63. Eligible schemes[^c-a90236f639d946262c638c631ce7d7c5][^c-df5976f6eeae0e768493c7b5f4dc741f]
 
 (1) Article 110 (eligible schemes) shall be modified in its application to a non-segregated scheme to which paragraph (1) or (2) of regulation 61 applies so that it shall be read as if in paragraph (1) for “an occupational pension scheme” there were substituted “a non-segregated scheme”.
 
 (2) Paragraph (1) shall not have effect in relation to Article 157 to 164 (the levies).
 
-### 64. Duty to assume responsibility for schemes[^key-6b351aa62c70c7b7665d9c407d72fe82]
+### 64. Duty to assume responsibility for schemes[^c-6b351aa62c70c7b7665d9c407d72fe82]
 
 (1) Article 111 (duty to assume responsibility for schemes following insolvency event) shall only have effect in relation to a non-segregated scheme in the circumstances described in regulation 61(1) and (2) and, for those purposes, shall be modified so that it shall be read as if –
 
@@ -1919,7 +1919,7 @@ Part III of the Order shall be modified in its application to a segregated part 
 
   .
 
-### 65. Applications and notifications[^key-3862a931aa6117d0233f53f6273b2360]
+### 65. Applications and notifications[^c-3862a931aa6117d0233f53f6273b2360]
 
 (1) Article 113 (applications and notifications for the purposes of Article 112) shall be modified so that it shall be read as if, in its application to a non-segregated scheme to which –
 
@@ -1980,7 +1980,7 @@ Part III of the Order shall be modified in its application to a segregated part 
 
   .
 
-### 66. Assessment periods[^key-443fd7a351dec02ea74780b1a2ee6429]
+### 66. Assessment periods[^c-443fd7a351dec02ea74780b1a2ee6429]
 
 Article 116 (assessment periods) shall be modified so that it shall be read as if, in its application to a non-segregated scheme to which –
 
@@ -1997,7 +1997,7 @@ Article 116 (assessment periods) shall be modified so that it shall be read as i
     - (cc) after “an assessment period” there were inserted “in relation to the scheme”, and
   - (ii) in paragraph (4) for “in relation to an eligible scheme, an application is made under Article 113(1) or a notification is received under Article 113(5)(a), an assessment period” there were substituted “in relation to a non-segregated scheme which is, for the purposes of this Part, an eligible scheme, an application is made under Article 113(1) or a notification is received under Article 113(5)(a) in respect of one or more of the employers in relation to the scheme at a time when an insolvency event has occurred in relation to all other employers in relation to the scheme and, where applicable, an insolvency practitioner is still required by law to be appointed to act in relation to each of those employers, an assessment period”.
 
-### 67. Restrictions on winding up, discharge of liabilities etc. and power to validate contraventions of Article 119[^key-c3f54fc2dadc21c79193a0fb56d09192]
+### 67. Restrictions on winding up, discharge of liabilities etc. and power to validate contraventions of Article 119[^c-c3f54fc2dadc21c79193a0fb56d09192]
 
 (1) Article 119 (restrictions on winding up, discharge of liabilities etc.) shall be modified in its application to a non-segregated scheme to which paragraph (1) or (2) of regulation 61 applies so that it shall be read as if after paragraph (2) there were inserted the following paragraph –
 
@@ -2007,13 +2007,13 @@ Article 116 (assessment periods) shall be modified so that it shall be read as i
 
 (2) Article 120 (power to validate contraventions of Article 119) shall be modified in its application to a non-segregated scheme to which paragraph (1) or (2) of regulation 61 applies so that it shall be read as if in paragraph (2)(c) for “in relation to the employer or, if there is no such insolvency practitioner, the employer” there were substituted “in relation to an employer or, if there is no such insolvency practitioner, that employer”.
 
-### 68. Valuation of assets[^key-073e3328828ec309f1f86c6ce75d848e]
+### 68. Valuation of assets[^c-073e3328828ec309f1f86c6ce75d848e]
 
 (1) Article 128 (approval of valuation) shall be modified in its application to a non-segregated scheme to which paragraph (1) or (2) of regulation 61 applies so that it shall be read as if in paragraph (2)(b)(iii) for “in relation to the employer or, if there is no such insolvency practitioner, the employer” there were substituted “in relation to an employer or, if there is no such insolvency practitioner, that employer”.
 
 (2) Article 129 (binding valuations) shall be modified in its application to a non-segregated scheme to which paragraph (1) or (2) of regulation 61 applies so that it shall be read as if in paragraph (3)(c) for “in relation to the employer or, if there is no such insolvency practitioner, the employer” there were substituted “in relation to an employer or, if there is no such insolvency practitioner, that employer”.
 
-### 69. Refusal to assume responsibility[^key-d50a728fb25445ea3de64dcbccd7003c]
+### 69. Refusal to assume responsibility[^c-d50a728fb25445ea3de64dcbccd7003c]
 
 (1) Article 130 (schemes which become eligible schemes) shall be modified in its application to a non-segregated scheme to which paragraph (1) or (2) of regulation 61 applies so that it shall be read as if –
 
@@ -2030,7 +2030,7 @@ Article 116 (assessment periods) shall be modified so that it shall be read as i
 - (a) in paragraph (5)(c) for “the employer” there were substituted “any employer”; and
 - (b) in paragraph (7)(c) for “the employer” there were substituted “any employer”.
 
-### 70. Transfer notices and the pension compensation provisions[^key-78a7fac3903550fa6e28be9f09897910]
+### 70. Transfer notices and the pension compensation provisions[^c-78a7fac3903550fa6e28be9f09897910]
 
 (1) Article 144 (transfer notice) shall be modified in its application to a non-segregated scheme to which paragraph (1) or (2) of regulation 61 applies so that it shall be read as if –
 
@@ -2055,7 +2055,7 @@ Article 116 (assessment periods) shall be modified so that it shall be read as i
 
 ## PART VII — NON-SEGREGATED SCHEME WITH AN OPTION TO SEGREGATE ON THE WITHDRAWAL OF A PARTICIPATING EMPLOYER
 
-### 71. Application and effect[^key-c7cab2a3d79e5e2bbb0f5890d9ce4f01]
+### 71. Application and effect[^c-c7cab2a3d79e5e2bbb0f5890d9ce4f01]
 
 (1) This regulation applies to a non-segregated multi-employer scheme in circumstances –
 
@@ -2116,7 +2116,7 @@ Article 116 (assessment periods) shall be modified so that it shall be read as i
 
 ## PART VIII — SEGREGATED SCHEMES: MULTI-EMPLOYER SECTIONS OF SEGREGATED SCHEMES WITH AN OPTION TO SEGREGATE ON THE WITHDRAWAL OF A PARTICIPATING EMPLOYER
 
-### 72. Application and effect[^key-3c0a6ad6e47aec500e14d1aa3c179322]
+### 72. Application and effect[^c-3c0a6ad6e47aec500e14d1aa3c179322]
 
 (1) This regulation applies to a multi-employer section of a segregated scheme in circumstances –
 
@@ -2177,7 +2177,7 @@ Article 116 (assessment periods) shall be modified so that it shall be read as i
 
 ## PART IX — MULTI-EMPLOYER SCHEMES: THE PENSION PROTECTION LEVIES
 
-### 73. Modification of Articles 158 to 164: segregated schemes[^key-e1bfb541d1b7f91bb94b488d5c496055][^key-413c1c968b21a142f3ab14c87b418fa5][^key-1da5069ff6863a58c0668fb19540c16f]
+### 73. Modification of Articles 158 to 164: segregated schemes[^c-e1bfb541d1b7f91bb94b488d5c496055][^c-413c1c968b21a142f3ab14c87b418fa5][^c-1da5069ff6863a58c0668fb19540c16f]
 
 (1) This regulation applies to a segregated scheme.
 
@@ -2190,7 +2190,7 @@ Article 116 (assessment periods) shall be modified so that it shall be read as i
 
 (3) For the purposes of this regulation, Article 162 (valuations to determine scheme underfunding) shall be modified so that it shall be read as if in paragraph (1)(a) for “an actuarial valuation of the scheme” there were substituted “an actuarial valuation of the section”.
 
-### 74. Modification of Articles 158 to 164: non-segregated schemes[^key-249f64b8ce2cb85b0eb2572910db1a49][^key-02fe419e65aaf77c6d7c604d8c5a7535]
+### 74. Modification of Articles 158 to 164: non-segregated schemes[^c-249f64b8ce2cb85b0eb2572910db1a49][^c-02fe419e65aaf77c6d7c604d8c5a7535]
 
 (1) This regulation applies to a multi-employer scheme which is not divided into two or more sections (“a non-segregated scheme”).
 
@@ -2228,7 +2228,7 @@ Article 116 (assessment periods) shall be modified so that it shall be read as i
 
   .
 
-### 75. Modification of Articles 158 to 164: multi-employer sections of segregated schemes[^key-58d315e0ce7d7df0da603a59cb307c96]
+### 75. Modification of Articles 158 to 164: multi-employer sections of segregated schemes[^c-58d315e0ce7d7df0da603a59cb307c96]
 
 (1) This regulation applies to a multi-employer section of a segregated scheme.
 
@@ -2299,200 +2299,200 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-c459e463a6ca5344ae73e6dc72edd0cd]: Commencement: Reg. 1 in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-c459e463a6ca5344ae73e6dc72edd0cd]: Commencement: Reg. 1 in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
 [^f00002]: Footnote: Article 75 is amended by Article 248 of the Pensions (Northern Ireland) Order 2005
 
-[^key-0b14fd05ddcc2d04faae483dbf5525c3]: Commencement: Reg. 2(1)(2)(a)(3) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-0b14fd05ddcc2d04faae483dbf5525c3]: Commencement: Reg. 2(1)(2)(a)(3) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-abd0fc26cd6ebfaf7c1c825e46a5baf8]: Commencement: Reg. 2(2)(b) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-abd0fc26cd6ebfaf7c1c825e46a5baf8]: Commencement: Reg. 2(2)(b) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-07afbd5a1cc8a51f75f6445c57de697f]: Commencement: Reg. 3(1)(2)(a)-(c)(e)(3)-(5) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-07afbd5a1cc8a51f75f6445c57de697f]: Commencement: Reg. 3(1)(2)(a)-(c)(e)(3)-(5) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-4875ec6788bcafc57a41eed6d6a4dc57]: Commencement: Reg. 3(2)(d) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-4875ec6788bcafc57a41eed6d6a4dc57]: Commencement: Reg. 3(2)(d) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-09c8fe4d88b39341f025a8a85d91ffcb]: Commencement: Reg. 4 in operation at 1.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/b)
+[^c-09c8fe4d88b39341f025a8a85d91ffcb]: Commencement: Reg. 4 in operation at 1.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/b)
 
-[^key-56a32033341de64b7bd0e30efd35a059]: Commencement: Reg. 5(1)(2)(a)-(c)(e) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-56a32033341de64b7bd0e30efd35a059]: Commencement: Reg. 5(1)(2)(a)-(c)(e) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-6ea17e8832e8df38cd882bbca414a485]: Commencement: Reg. 5(2)(d) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-6ea17e8832e8df38cd882bbca414a485]: Commencement: Reg. 5(2)(d) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-4291b06182ae7a19ecc3cac5858c9da8]: Commencement: Reg. 6 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-4291b06182ae7a19ecc3cac5858c9da8]: Commencement: Reg. 6 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-991e992969aa213653b5c9c1cbadc862]: Commencement: Reg. 7 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-991e992969aa213653b5c9c1cbadc862]: Commencement: Reg. 7 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-fe32e2fa7bbb9ae5655546b078192b2a]: Commencement: Reg. 8 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-fe32e2fa7bbb9ae5655546b078192b2a]: Commencement: Reg. 8 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-62c5588bc7a5a9775e3b383e0a99e34b]: Commencement: Reg. 9(1)(a)(2)(a) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-62c5588bc7a5a9775e3b383e0a99e34b]: Commencement: Reg. 9(1)(a)(2)(a) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-f3a9622cff2fd1f799cb49a55a070f4c]: Commencement: Reg. 9(1)(b)-(d)(2)(b)(c)(3) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-f3a9622cff2fd1f799cb49a55a070f4c]: Commencement: Reg. 9(1)(b)-(d)(2)(b)(c)(3) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-1dd016f77f9e52062cb768711477d4cb]: Commencement: Reg. 10 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-1dd016f77f9e52062cb768711477d4cb]: Commencement: Reg. 10 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-9e1182bc7eefae2e37ce3bf74432c426]: Commencement: Reg. 11 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-9e1182bc7eefae2e37ce3bf74432c426]: Commencement: Reg. 11 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-80097a4eac47d9e095833a387abd09bc]: Commencement: Reg. 12 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-80097a4eac47d9e095833a387abd09bc]: Commencement: Reg. 12 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-9a0c3ae708f807458f329a02d9fe9833]: Commencement: Reg. 13 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-9a0c3ae708f807458f329a02d9fe9833]: Commencement: Reg. 13 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-636bbdbab1e51c9e0399fb32854538ef]: Commencement: Reg. 14(1)(2)(3)(a)(4) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-636bbdbab1e51c9e0399fb32854538ef]: Commencement: Reg. 14(1)(2)(3)(a)(4) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-13ecc7ece2360ffdd294b8472d13f1d2]: Commencement: Reg. 14(3)(b) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-13ecc7ece2360ffdd294b8472d13f1d2]: Commencement: Reg. 14(3)(b) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-c5aea9526009d49799052a9c14c12728]: Commencement: Reg. 15(1)(2)(a)-(d)(f)(g)(3)-(5) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-c5aea9526009d49799052a9c14c12728]: Commencement: Reg. 15(1)(2)(a)-(d)(f)(g)(3)-(5) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-22f4beb3991a6eba32e8f7629ce9b8da]: Commencement: Reg. 15(2)(e) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-22f4beb3991a6eba32e8f7629ce9b8da]: Commencement: Reg. 15(2)(e) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-c2c3f422f8f90c0f967e7230a8323e17]: Commencement: Reg. 16 in operation at 1.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/b)
+[^c-c2c3f422f8f90c0f967e7230a8323e17]: Commencement: Reg. 16 in operation at 1.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/b)
 
-[^key-658b2725a0e12f7a904420957c0b792f]: Commencement: Reg. 17 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-658b2725a0e12f7a904420957c0b792f]: Commencement: Reg. 17 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-13c48dfee5cb470d895fc1c4abcdf794]: Commencement: Reg. 18(a)(b)(d)(e) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-13c48dfee5cb470d895fc1c4abcdf794]: Commencement: Reg. 18(a)(b)(d)(e) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-762ced50d1ac5725ee19c65381c10c41]: Commencement: Reg. 18(c) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-762ced50d1ac5725ee19c65381c10c41]: Commencement: Reg. 18(c) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-71ea3f3251daa2b4004f03782fe8cdcf]: Commencement: Reg. 19 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-71ea3f3251daa2b4004f03782fe8cdcf]: Commencement: Reg. 19 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-8c11c98b928662920ab71df47cf5cedd]: Commencement: Reg. 20 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-8c11c98b928662920ab71df47cf5cedd]: Commencement: Reg. 20 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-9c1a55b4069fbfde5bed9e65c1adaa59]: Commencement: Reg. 21 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-9c1a55b4069fbfde5bed9e65c1adaa59]: Commencement: Reg. 21 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-bc4ee8663f3bf9a18bce8a9f3f626de3]: Commencement: Reg. 22 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-bc4ee8663f3bf9a18bce8a9f3f626de3]: Commencement: Reg. 22 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-831822cbdcde1421fe30fed52a0231c7]: Commencement: Reg. 23 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-831822cbdcde1421fe30fed52a0231c7]: Commencement: Reg. 23 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-eb990a5a2bf68bdd06ea44388fffd8a9]: Commencement: Reg. 24(1)(a)(2)(a) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-eb990a5a2bf68bdd06ea44388fffd8a9]: Commencement: Reg. 24(1)(a)(2)(a) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-d5fb7d08d3f228cf00920734ec9dd94e]: Commencement: Reg. 24(1)(b)-(e)(2)(b)-(e)(3) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-d5fb7d08d3f228cf00920734ec9dd94e]: Commencement: Reg. 24(1)(b)-(e)(2)(b)-(e)(3) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-6f0f48457989deb54af154861cb7b8b1]: Commencement: Reg. 25 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-6f0f48457989deb54af154861cb7b8b1]: Commencement: Reg. 25 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-13fec516a4f6f342faa7367744c0e23a]: Commencement: Reg. 26 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-13fec516a4f6f342faa7367744c0e23a]: Commencement: Reg. 26 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-86198f8b6eaad0d82e424ddd52464ad5]: Commencement: Reg. 27 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-86198f8b6eaad0d82e424ddd52464ad5]: Commencement: Reg. 27 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-4040ee37ec27c742a42313afd49ccfe6]: Commencement: Reg. 28(1)-(3)(4)(a)(5) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-4040ee37ec27c742a42313afd49ccfe6]: Commencement: Reg. 28(1)-(3)(4)(a)(5) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-03654d964ed1fe121611a67e61f2df89]: Commencement: Reg. 28(4)(b) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-03654d964ed1fe121611a67e61f2df89]: Commencement: Reg. 28(4)(b) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-33766fc153a952864fdc869f1da114bd]: Commencement: Reg. 29(1)(2)(a)-(c)(e)(3)-(5) in operation at 6.4.2025, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-33766fc153a952864fdc869f1da114bd]: Commencement: Reg. 29(1)(2)(a)-(c)(e)(3)-(5) in operation at 6.4.2025, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-d201fbbe843a007e86218c4ae3ce9a80]: Commencement: Reg. 29(2)(d) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-d201fbbe843a007e86218c4ae3ce9a80]: Commencement: Reg. 29(2)(d) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-aee9e316c08e1f5f742b151ba60f716e]: Commencement: Reg. 30 in operation at 1.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/b)
+[^c-aee9e316c08e1f5f742b151ba60f716e]: Commencement: Reg. 30 in operation at 1.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/b)
 
-[^key-a7072d9e8e3df50a3edabcac4112997d]: Commencement: Reg. 31 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-a7072d9e8e3df50a3edabcac4112997d]: Commencement: Reg. 31 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-80e0fe8bd07b36f20da40959c138d685]: Commencement: Reg. 32(a)-(c)(e) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-80e0fe8bd07b36f20da40959c138d685]: Commencement: Reg. 32(a)-(c)(e) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-6e4e1ccb28ef2517a4444e3439d10779]: Commencement: Reg. 32(d) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-6e4e1ccb28ef2517a4444e3439d10779]: Commencement: Reg. 32(d) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-7150249621e041e5be11ccd5f94a7077]: Commencement: Reg. 33 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-7150249621e041e5be11ccd5f94a7077]: Commencement: Reg. 33 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-8ba858c9295fdd23e5c3678eefe32e25]: Commencement: Reg. 34 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-8ba858c9295fdd23e5c3678eefe32e25]: Commencement: Reg. 34 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-c5ae4a69b05586ee678d0663b6de76a0]: Commencement: Reg. 35 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-c5ae4a69b05586ee678d0663b6de76a0]: Commencement: Reg. 35 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-5501629bb8d3b990f097d8844155db3c]: Commencement: Reg. 36 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-5501629bb8d3b990f097d8844155db3c]: Commencement: Reg. 36 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-af7010453a355c2bb7418a50cc8110cb]: Commencement: Reg. 37 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-af7010453a355c2bb7418a50cc8110cb]: Commencement: Reg. 37 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-f20053dcd903fa9783992a343e5c01b4]: Commencement: Reg. 38(1)(a)-(c)(d)(ii)(iii)(2)(3) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-f20053dcd903fa9783992a343e5c01b4]: Commencement: Reg. 38(1)(a)-(c)(d)(ii)(iii)(2)(3) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-5603c60a73d0e1452bdfbc0151261574]: Commencement: Reg. 38(1)(d)(i) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-5603c60a73d0e1452bdfbc0151261574]: Commencement: Reg. 38(1)(d)(i) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-77917c3681a8d5cff90ab25d994ea2f9]: Commencement: Reg. 39(1)(a)(2)(a) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-77917c3681a8d5cff90ab25d994ea2f9]: Commencement: Reg. 39(1)(a)(2)(a) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-ab3dc57195d4c6821bf2e5c67fd6aa46]: Commencement: Reg. 39(1)(b)-(d)(2)(b)(c)(3) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-ab3dc57195d4c6821bf2e5c67fd6aa46]: Commencement: Reg. 39(1)(b)-(d)(2)(b)(c)(3) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-101ccb3596b9dc6e6e511d419ae17497]: Commencement: Reg. 40 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-101ccb3596b9dc6e6e511d419ae17497]: Commencement: Reg. 40 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-7b486c1f1329f7344b278058c1daee4f]: Commencement: Reg. 41 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-7b486c1f1329f7344b278058c1daee4f]: Commencement: Reg. 41 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-893d93543961684739673ea69bd4c96d]: Commencement: Reg. 42 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-893d93543961684739673ea69bd4c96d]: Commencement: Reg. 42 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
 [^f00003]: Footnote: *See* regulation 10(1)(a) of [S.R. 2005 No. 55](https://www.legislation.gov.uk/nisr/2005/55)
 
-[^key-5296d96c6d098aea6b33230c8c99216f]: Commencement: Reg. 43 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-5296d96c6d098aea6b33230c8c99216f]: Commencement: Reg. 43 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-1b2f27ba2b1223d0217ff272b3344789]: Commencement: Reg. 44 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-1b2f27ba2b1223d0217ff272b3344789]: Commencement: Reg. 44 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-772e0413fe395d14c3593f2ea66b7839]: Commencement: Reg. 45(1)-(3)(4)(a)(5) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-772e0413fe395d14c3593f2ea66b7839]: Commencement: Reg. 45(1)-(3)(4)(a)(5) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-ba0a707ab9d83b61c7fbfe4cbb2aef21]: Commencement: Reg. 45(4)(b) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-ba0a707ab9d83b61c7fbfe4cbb2aef21]: Commencement: Reg. 45(4)(b) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-42a16efdce66102d68a2ac9d8588c577]: Commencement: Reg. 46(1)(2)(a)-(c)(e)(3)-(5) in operation at 14.3.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-42a16efdce66102d68a2ac9d8588c577]: Commencement: Reg. 46(1)(2)(a)-(c)(e)(3)-(5) in operation at 14.3.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-a6c4029c8c14960998a57435b0565386]: Commencement: Reg. 46(2)(d) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-a6c4029c8c14960998a57435b0565386]: Commencement: Reg. 46(2)(d) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-2ac6dd0de0d2794a7d798a757ac2a819]: Commencement: Reg. 47 in operation at 1.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/b)
+[^c-2ac6dd0de0d2794a7d798a757ac2a819]: Commencement: Reg. 47 in operation at 1.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/b)
 
-[^key-f97b343f0a2fbc5efefc435a4a157115]: Commencement: Reg. 48 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-f97b343f0a2fbc5efefc435a4a157115]: Commencement: Reg. 48 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-e2b07443886d9113de29d900f201a8a2]: Commencement: Reg. 49(a)-(c)(e) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-e2b07443886d9113de29d900f201a8a2]: Commencement: Reg. 49(a)-(c)(e) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-a85a634dd09347ad30a231d6633e8679]: Commencement: Reg. 49(d) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-a85a634dd09347ad30a231d6633e8679]: Commencement: Reg. 49(d) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-2874bb8b7fc1f8ba2e3b047ded3b03d9]: Commencement: Reg. 50 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-2874bb8b7fc1f8ba2e3b047ded3b03d9]: Commencement: Reg. 50 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-9431dbc8ac87d5387210195aa55858a5]: Commencement: Reg. 51 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-9431dbc8ac87d5387210195aa55858a5]: Commencement: Reg. 51 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-340a8e28dd1b118b54b833a9e1ae3c8d]: Commencement: Reg. 52 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-340a8e28dd1b118b54b833a9e1ae3c8d]: Commencement: Reg. 52 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-a9aa87eb1a4bd413ef11d29fdf7a718b]: Commencement: Reg. 53 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-a9aa87eb1a4bd413ef11d29fdf7a718b]: Commencement: Reg. 53 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-f2b83ec6a1e69baae1215193696b45e8]: Commencement: Reg. 54(1)(a)-(c)(d)(ii)(iii)(2)(3) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-f2b83ec6a1e69baae1215193696b45e8]: Commencement: Reg. 54(1)(a)-(c)(d)(ii)(iii)(2)(3) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-3f5fec68953ca0c3cc7b77cab5461d79]: Commencement: Reg. 54(1)(d)(i) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-3f5fec68953ca0c3cc7b77cab5461d79]: Commencement: Reg. 54(1)(d)(i) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-55c3e2f1801fa3feca9b0fce212a55f6]: Commencement: Reg. 55(1)(a)(2)(a) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-55c3e2f1801fa3feca9b0fce212a55f6]: Commencement: Reg. 55(1)(a)(2)(a) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-4410309ab333675d561592176851f8b6]: Commencement: Reg. 55(1)(b)-(d)(2)(b)(c)(3) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-4410309ab333675d561592176851f8b6]: Commencement: Reg. 55(1)(b)-(d)(2)(b)(c)(3) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-e897433c84dbf261b7e59bef044cc319]: Commencement: Reg. 56 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-e897433c84dbf261b7e59bef044cc319]: Commencement: Reg. 56 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-49be8d470ca64c8c5f0184a292425f84]: Commencement: Reg. 57 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-49be8d470ca64c8c5f0184a292425f84]: Commencement: Reg. 57 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-15158944a6ac706193b029e61ccef915]: Commencement: Reg. 58 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-15158944a6ac706193b029e61ccef915]: Commencement: Reg. 58 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-1f7fd8404deff55488766f036a1d5682]: Commencement: Reg. 59 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-1f7fd8404deff55488766f036a1d5682]: Commencement: Reg. 59 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-5962a4177a61a8d65dbd68417bdfa377]: Commencement: Reg. 60 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-5962a4177a61a8d65dbd68417bdfa377]: Commencement: Reg. 60 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-4a81f94c3ab47e5cf4240f79e6fc686b]: Commencement: Reg. 61 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-4a81f94c3ab47e5cf4240f79e6fc686b]: Commencement: Reg. 61 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-4477d2815a689ace186a6e994d4b8b9f]: Commencement: Reg. 62 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-4477d2815a689ace186a6e994d4b8b9f]: Commencement: Reg. 62 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-a90236f639d946262c638c631ce7d7c5]: Commencement: Reg. 63(1) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-a90236f639d946262c638c631ce7d7c5]: Commencement: Reg. 63(1) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-df5976f6eeae0e768493c7b5f4dc741f]: Commencement: Reg. 63(2) in operation at 1.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/b)
+[^c-df5976f6eeae0e768493c7b5f4dc741f]: Commencement: Reg. 63(2) in operation at 1.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/b)
 
-[^key-6b351aa62c70c7b7665d9c407d72fe82]: Commencement: Reg. 64 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-6b351aa62c70c7b7665d9c407d72fe82]: Commencement: Reg. 64 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-3862a931aa6117d0233f53f6273b2360]: Commencement: Reg. 65 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-3862a931aa6117d0233f53f6273b2360]: Commencement: Reg. 65 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-443fd7a351dec02ea74780b1a2ee6429]: Commencement: Reg. 66 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-443fd7a351dec02ea74780b1a2ee6429]: Commencement: Reg. 66 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-c3f54fc2dadc21c79193a0fb56d09192]: Commencement: Reg. 67 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-c3f54fc2dadc21c79193a0fb56d09192]: Commencement: Reg. 67 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-073e3328828ec309f1f86c6ce75d848e]: Commencement: Reg. 68 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-073e3328828ec309f1f86c6ce75d848e]: Commencement: Reg. 68 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-d50a728fb25445ea3de64dcbccd7003c]: Commencement: Reg. 69 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-d50a728fb25445ea3de64dcbccd7003c]: Commencement: Reg. 69 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-78a7fac3903550fa6e28be9f09897910]: Commencement: Reg. 70 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-78a7fac3903550fa6e28be9f09897910]: Commencement: Reg. 70 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-c7cab2a3d79e5e2bbb0f5890d9ce4f01]: Commencement: Reg. 71 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-c7cab2a3d79e5e2bbb0f5890d9ce4f01]: Commencement: Reg. 71 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-3c0a6ad6e47aec500e14d1aa3c179322]: Commencement: Reg. 72 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-3c0a6ad6e47aec500e14d1aa3c179322]: Commencement: Reg. 72 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-e1bfb541d1b7f91bb94b488d5c496055]: Commencement: Reg. 73(1)(2)(a) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-e1bfb541d1b7f91bb94b488d5c496055]: Commencement: Reg. 73(1)(2)(a) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-413c1c968b21a142f3ab14c87b418fa5]: Commencement: Reg. 73(2)(b) in operation at 1.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/b)
+[^c-413c1c968b21a142f3ab14c87b418fa5]: Commencement: Reg. 73(2)(b) in operation at 1.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/b)
 
-[^key-1da5069ff6863a58c0668fb19540c16f]: Commencement: Reg. 73(3) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
+[^c-1da5069ff6863a58c0668fb19540c16f]: Commencement: Reg. 73(3) in operation at 14.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/a)
 
-[^key-249f64b8ce2cb85b0eb2572910db1a49]: Commencement: Reg. 74(1) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-249f64b8ce2cb85b0eb2572910db1a49]: Commencement: Reg. 74(1) in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
 
-[^key-02fe419e65aaf77c6d7c604d8c5a7535]: Commencement: Reg. 74(2) in operation at 1.4.2025, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/b)
+[^c-02fe419e65aaf77c6d7c604d8c5a7535]: Commencement: Reg. 74(2) in operation at 1.4.2025, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/b)
 
-[^key-58d315e0ce7d7df0da603a59cb307c96]: Commencement: Reg. 75 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)
+[^c-58d315e0ce7d7df0da603a59cb307c96]: Commencement: Reg. 75 in operation at 6.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/91/regulation/1/1/c)

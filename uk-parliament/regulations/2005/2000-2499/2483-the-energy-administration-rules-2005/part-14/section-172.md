@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 172. False claim of status as creditor[^key-7ca8a67bdaa144b10b263deceef4123f]
+## 172. False claim of status as creditor[^c-7ca8a67bdaa144b10b263deceef4123f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ca8a67bdaa144b10b263deceef4123f]: Commencement: Rule 172 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-7ca8a67bdaa144b10b263deceef4123f]: Commencement: Rule 172 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

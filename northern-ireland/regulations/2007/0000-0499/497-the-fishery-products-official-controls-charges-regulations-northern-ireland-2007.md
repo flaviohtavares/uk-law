@@ -47,23 +47,23 @@ As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislati
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-5729534636640bcd2c7f301180f9eaf1]
+### 1. Citation and commencement[^c-5729534636640bcd2c7f301180f9eaf1]
 
 These Regulations may be cited as the Fishery Products (Official Controls Charges) Regulations (Northern Ireland) 2007 and shall come into operation on 1st January 2008.
 
-### 2. Interpretation[^key-2ab4b84981a60312b7a9fa781bf0c1d0]
+### 2. Interpretation[^c-2ab4b84981a60312b7a9fa781bf0c1d0]
 
 (1) In these Regulations —
 
-- “Directive 2004/41”, “Regulation 2406/96”, “Regulation 852/2004”, “Regulation 853/2004”, “Regulation 1688/2005”, “Regulation 2073/2005”, “Regulation 2074/2005”, “Regulation 2015/1375”, “Regulation 2017/185”, “Regulation 2017/625”, “Regulation 2019/624” and “Regulation 2019/627” have the meanings respectively given to them in the Schedule;[^key-db70a0b5f2fe34d4b87bc86c54e50ed9]
+- “Directive 2004/41”, “Regulation 2406/96”, “Regulation 852/2004”, “Regulation 853/2004”, “Regulation 1688/2005”, “Regulation 2073/2005”, “Regulation 2074/2005”, “Regulation 2015/1375”, “Regulation 2017/185”, “Regulation 2017/625”, “Regulation 2019/624” and “Regulation 2019/627” have the meanings respectively given to them in the Schedule;[^c-db70a0b5f2fe34d4b87bc86c54e50ed9]
 - “EEA State” means a member State, Norway, Iceland or Liechtenstein;
 - “establishment” has the meaning given to it in paragraph 1(c) of Article 2 of Regulation 852/2004;
-- “first placing on the market” has the meaning that it bears in Regulation 2017/625[^key-f69595311f852655dca4c246a0e4c58d];
-- “first sale in a fish market” shall be construed in accordance with the phrase “first sale in fish market” in Regulation 2017/625[^key-2b045e1108cde55323bd7f0cd236a309];
+- “first placing on the market” has the meaning that it bears in Regulation 2017/625[^c-f69595311f852655dca4c246a0e4c58d];
+- “first sale in a fish market” shall be construed in accordance with the phrase “first sale in fish market” in Regulation 2017/625[^c-2b045e1108cde55323bd7f0cd236a309];
 - “fishery products” has the meaning given to it in point 3.1 of Annex I to Regulation 853/2004;
 - “imported” means introduced into Northern Ireland other than from the United Kingdom, Channel Islands or the Isle of Man;
-- “official controls” shall be construed in accordance with the definition of the term “official control” in Article 2(1) of Regulation 2017/625[^key-af9faf9274e8f54168f0a448e8967d13];
-- “processing” has the meaning that it bears in Regulation 2017/625[^key-9f9dda9089eaebcf660b7c1b14da8987];
+- “official controls” shall be construed in accordance with the definition of the term “official control” in Article 2(1) of Regulation 2017/625[^c-af9faf9274e8f54168f0a448e8967d13];
+- “processing” has the meaning that it bears in Regulation 2017/625[^c-9f9dda9089eaebcf660b7c1b14da8987];
 - “processing establishment” means an establishment at which processing occurs;
 - “relevant district council” means the district council in whose district there arises an obligation under these Regulations to pay a charge to that district council;
 - “relevant fishery products” means fishery products which —
@@ -88,20 +88,20 @@ These Regulations may be cited as the Fishery Products (Official Controls Charge
   - (f) picarels of the species *Maena smaris*; and
   - (g) sprat of the species *Sprattus sprattus*;
 - “third country”, except in the expression “third country import”, means any country or territory, other than Greenland, which does not comprise the whole or part of an EEA State;
-- “third country import” means an import in respect of which third country import means an import in respect of which a charge[^key-ed0eaf559553cc819b5005712487d6ac] set out in Annex 4 to Regulation 2017/625 is payable[^key-5bf1ec105b6489eca77aa1939057349c]; and
+- “third country import” means an import in respect of which third country import means an import in respect of which a charge[^c-ed0eaf559553cc819b5005712487d6ac] set out in Annex 4 to Regulation 2017/625 is payable[^c-5bf1ec105b6489eca77aa1939057349c]; and
 - “vendor” means —
   - (a) where a first placing on the market or first sale in a fish market of relevant fishery products or relevant landed fishery products is effected on behalf of the owner or master of a vessel by another person, that other person; and
   - (b) where there is a first placing on the market or first sale in a fish market of relevant fishery products or relevant landed fishery products in any other circumstances, the owner or master of the vessel from which they are landed.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-(3)[^key-5a713f53559d44b1da3a9ad3d351f739] In these Regulations, any reference to an EU instrument defined in the Schedule is a reference to that instrument as amended from time to time.
+(3)[^c-5a713f53559d44b1da3a9ad3d351f739] In these Regulations, any reference to an EU instrument defined in the Schedule is a reference to that instrument as amended from time to time.
 
-### 3. Actual costs[^key-9dd47dec13ae2af2d55e756c6aff0fa1]
+### 3. Actual costs[^c-9dd47dec13ae2af2d55e756c6aff0fa1]
 
-For the purposes of these Regulations, the actual costs of exercising official controls are the aggregate of the costs of the items referred to in Articles 81 and 82 of Regulation 2017/625[^key-dd61cd12b504eed733e1c7d68bed9143] directly incurred in the exercise of the official controls required under Title 6 of and Annex 6 to Regulation 2019/627[^key-921c5b9e3309b6a911dec954733ccf49].
+For the purposes of these Regulations, the actual costs of exercising official controls are the aggregate of the costs of the items referred to in Articles 81 and 82 of Regulation 2017/625[^c-dd61cd12b504eed733e1c7d68bed9143] directly incurred in the exercise of the official controls required under Title 6 of and Annex 6 to Regulation 2019/627[^c-921c5b9e3309b6a911dec954733ccf49].
 
-### 4. Sterling equivalents of Euro[^key-3f587c79d384e23545171ed60959c3a8]
+### 4. Sterling equivalents of Euro[^c-3f587c79d384e23545171ed60959c3a8]
 
 (1) Any reference in these Regulations to a specified number of Euros shall be deemed to be a reference to the Sterling equivalent of that number calculated in accordance with paragraph (2).
 
@@ -110,10 +110,10 @@ For the purposes of these Regulations, the actual costs of exercising official c
 (3) The Euro/Sterling conversion rate shall be —
 
 - (a) for 2008, 1 Euro = £0.67575; and
-- (b) in each subsequent year until the coming into operation of the Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019[^key-dfbcd6fb0e7750e04ff8278020051dfd], the rate published in the C Series of the Official Journal of the European Union on the first working day of the September of the preceding year or, if no rate is published in it on that day, the first rate published in it thereafter;
-- (c)[^key-d086cd9258866e70451ceb7491b32dda] after the coming into operation of the Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019, the average of the rates published in the C Series of the Official Journal of the European Union for each of the days during the period of charge when the rate is published.
+- (b) in each subsequent year until the coming into operation of the Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019[^c-dfbcd6fb0e7750e04ff8278020051dfd], the rate published in the C Series of the Official Journal of the European Union on the first working day of the September of the preceding year or, if no rate is published in it on that day, the first rate published in it thereafter;
+- (c)[^c-d086cd9258866e70451ceb7491b32dda] after the coming into operation of the Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019, the average of the rates published in the C Series of the Official Journal of the European Union for each of the days during the period of charge when the rate is published.
 
-### 5. Account period[^key-a56c217a310ec7d0458415d2e750caad]
+### 5. Account period[^c-a56c217a310ec7d0458415d2e750caad]
 
 (1) For the purposes of these Regulations, the account period shall be one month or such longer period not exceeding twelve months as is determined by the relevant district council.
 
@@ -122,14 +122,14 @@ For the purposes of these Regulations, the actual costs of exercising official c
 - (a) making returns; and
 - (b) collecting charges.
 
-### 6. Recovery of charges[^key-33e534b9b41ee6e9124f2c9c742b5bfb]
+### 6. Recovery of charges[^c-33e534b9b41ee6e9124f2c9c742b5bfb]
 
 Where a duty to pay a charge under these Regulations is imposed on more than one person, the district council to which the charge is payable may recover it —
 
 - (a) jointly from any two or more of them; or
 - (b) separately from any one of them.
 
-### 7. Calculation, payment and repayment of charges[^key-3624944ffe5f0dafbdafb0034a66a008]
+### 7. Calculation, payment and repayment of charges[^c-3624944ffe5f0dafbdafb0034a66a008]
 
 (1) Where the relevant district council becomes aware that a charge is due to it under these Regulations it shall —
 
@@ -142,7 +142,7 @@ Where a duty to pay a charge under these Regulations is imposed on more than one
 - (b) where the correct amount is less than the amount calculated under that paragraph and that amount has not been recovered, it shall recover the lesser amount in accordance with that paragraph; and
 - (c) where no charge is payable or the charge payable is less than the amount calculated under that paragraph, and that amount has been recovered, it shall repay the difference.
 
-### 8. Appeals[^key-9c9c21bdafca21bb0755ad92aa026dc5]
+### 8. Appeals[^c-9c9c21bdafca21bb0755ad92aa026dc5]
 
 (1) A person may appeal against any decision of the relevant district council imposing a charge under these Regulations.
 
@@ -152,13 +152,13 @@ Where a duty to pay a charge under these Regulations is imposed on more than one
 
 (4) If the court determines that a charge payable under these Regulations is less than the charge that has been paid, the relevant district council shall reimburse the overpayment to the successful appellant.
 
-### 9. Sums remitted from one district council to another[^key-ffa7874ed0e4b2ffdcaf251ed9ea7910]
+### 9. Sums remitted from one district council to another[^c-ffa7874ed0e4b2ffdcaf251ed9ea7910]
 
-In any case where the exercise of official controls is deferred and the district council responsible for the exercise of the official controls required under Title 6 of and Annex 6 to Regulation 2019/627[^key-ea400637e2148fc122edc8cb88824f8b] (“district council A”) is not the relevant district council to which a charge is required to be paid under these Regulations (“district council B”), district council B shall remit to district council A a sum equal to any amount received by district council B which is referable to official controls exercised by district council A.
+In any case where the exercise of official controls is deferred and the district council responsible for the exercise of the official controls required under Title 6 of and Annex 6 to Regulation 2019/627[^c-ea400637e2148fc122edc8cb88824f8b] (“district council A”) is not the relevant district council to which a charge is required to be paid under these Regulations (“district council B”), district council B shall remit to district council A a sum equal to any amount received by district council B which is referable to official controls exercised by district council A.
 
 ## PART 2 — OFFICIAL CONTROLS CHARGES OTHER THAN CHARGES FOR THIRD COUNTRY IMPORTS
 
-### 10. Payment of landings charge in respect of the first placing on the market of relevant fishery products or relevant landed fishery products and the first sale in a fish market of relevant fishery products or relevant landed fishery products[^key-5dfad9905777da48c4ff4a8402a7a948]
+### 10. Payment of landings charge in respect of the first placing on the market of relevant fishery products or relevant landed fishery products and the first sale in a fish market of relevant fishery products or relevant landed fishery products[^c-5dfad9905777da48c4ff4a8402a7a948]
 
 (1) Each of the following is a chargeable transaction for the purposes of this regulation and regulation 11—
 
@@ -169,7 +169,7 @@ In any case where the exercise of official controls is deferred and the district
 
 (2) Subject to paragraph (8), where there is a chargeable transaction for the purposes of this regulation and regulation 11, the vendor shall pay the charge determined in accordance with paragraphs (3) to (7) (“the landings charge”) to the relevant district council.
 
-(3) Subject to paragraph (7), where the chargeable transaction is the first placing on the market of relevant fishery products or relevant landed fishery products; the landings charge shall be a contribution towards the expenditure incurred in exercising the official controls required under Title 6 of and Annex 6 to Regulation 2019/627[^key-b676984c536571852c42f99b6e9e8ad7], calculated at the rate of 1 Euro per tonne for the first 50 tonnes and 0.5 Euro per tonne for each additional tonne of relevant fishery products or relevant landed fishery products first placed on the market in a calendar month.
+(3) Subject to paragraph (7), where the chargeable transaction is the first placing on the market of relevant fishery products or relevant landed fishery products; the landings charge shall be a contribution towards the expenditure incurred in exercising the official controls required under Title 6 of and Annex 6 to Regulation 2019/627[^c-b676984c536571852c42f99b6e9e8ad7], calculated at the rate of 1 Euro per tonne for the first 50 tonnes and 0.5 Euro per tonne for each additional tonne of relevant fishery products or relevant landed fishery products first placed on the market in a calendar month.
 
 (4) Where the chargeable transaction is the first sale in a fish market of relevant fishery products, the landings charge shall be a contribution towards the expenditure incurred in exercising the official controls required under Title 6 of and Annex 6 to Regulation 2019/627, calculated at the rate of 1 Euro per tonne for the first 50 tonnes and 0.5 Euro per tonne for each additional tonne of relevant fishery products first sold in a fish market in a calendar month.
 
@@ -186,7 +186,7 @@ the landings charge shall be a contribution towards the expenditure incurred in 
 
 (8) Where the actual costs of exercising the official controls required under Title 6 of and Annex 6 to Regulation 2019/627 are less than the landings charge, the vendor shall pay an amount equal to those costs to the relevant district council, instead of the landings charge.
 
-### 11. Returns and records relating to relevant fishery products or relevant landed fishery products[^key-cf8a0c030d56e149f27d4999b041466c]
+### 11. Returns and records relating to relevant fishery products or relevant landed fishery products[^c-cf8a0c030d56e149f27d4999b041466c]
 
 (1) Within 7 days of the end of each account period, the vendor shall make a written return to the relevant district council to which the landings charge is payable in respect of the aggregate of chargeable transactions that he has entered into during that period.
 
@@ -224,7 +224,7 @@ the landings charge shall be a contribution towards the expenditure incurred in 
 
 shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 12. Charge in respect of processing establishments[^key-29f6859c1a1270105a6acd02b68bdae1]
+### 12. Charge in respect of processing establishments[^c-29f6859c1a1270105a6acd02b68bdae1]
 
 (1) Subject to paragraph (3), the proprietor or operator of a processing establishment shall pay the charge determined in accordance with paragraph (2) (“the processing establishment charge”) to the relevant district council.
 
@@ -232,7 +232,7 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 (3) Where the actual costs of exercising the official controls required under Title 6 of and Annex 6 to Regulation 2019/627 are less than the processing establishment charge, the proprietor or operator shall pay an amount equal to those costs to the relevant district council, instead of the processing establishment charge.
 
-### 13. Returns and records relating to processing establishments[^key-7af1f37dde4665abb7b0dda9c87ee9ea]
+### 13. Returns and records relating to processing establishments[^c-7af1f37dde4665abb7b0dda9c87ee9ea]
 
 (1) Within 7 days of the end of each account period, the proprietor or operator who is responsible for paying the processing establishment charge shall make a written return to the relevant district council to which that charge is payable in respect of the fishery products which have entered the establishment concerned during that period.
 
@@ -254,7 +254,7 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 14. Revocation[^key-39a7394b0bc6d685b2512f9e3d8a62c4]
+### 14. Revocation[^c-39a7394b0bc6d685b2512f9e3d8a62c4]
 
 The Fishery Products (Official Controls Charges) Regulations (Northern Ireland) 2006[^f00008] are revoked.
 
@@ -264,7 +264,7 @@ Andrew McCormick
 
 A senior officer of the Department of Health, Social Services and Public Safety
 
-## SCHEDULE — DEFINITIONS OF EU LEGISLATION[^key-1b2772a100b8e7539e387b398cd3a167]
+## SCHEDULE — DEFINITIONS OF EU LEGISLATION[^c-1b2772a100b8e7539e387b398cd3a167]
 
 - “Directive 2004/41” means [Directive 2004/41/EC](https://www.legislation.gov.uk/european/directive/2004/0041) of the European Parliament and of the Council repealing certain Directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption and amending Council Directives [89/662/EEC](https://www.legislation.gov.uk/european/directive/1989/0662) and [92/118/EEC](https://www.legislation.gov.uk/european/directive/1992/0118) and Council [Decision 95/408/EC](https://www.legislation.gov.uk/european/decision/1995/0408);
 - “Regulation 2406/96” means Council Regulation [(EC) No. 2406/96](https://www.legislation.gov.uk/european/regulation/1996/2406) laying down common marketing standards for certain fishery products;
@@ -311,66 +311,66 @@ These Regulations —
 
 [^f00004]: Footnote: OJ No. L31, 1.2.2002, p.1 as last amended by [Commission Regulation (EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) amending Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council as regards the number and names of the permanent Scientific Panels of the European Food Safety Authority (OJ No. L100, 8.4.2006, p.3
 
-[^key-5729534636640bcd2c7f301180f9eaf1]: Commencement: Reg. 1 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
+[^c-5729534636640bcd2c7f301180f9eaf1]: Commencement: Reg. 1 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
 
-[^key-2ab4b84981a60312b7a9fa781bf0c1d0]: Commencement: Reg. 2 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
+[^c-2ab4b84981a60312b7a9fa781bf0c1d0]: Commencement: Reg. 2 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
 
-[^key-db70a0b5f2fe34d4b87bc86c54e50ed9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/nisr/2019/220/regulation/3/a/i)
+[^c-db70a0b5f2fe34d4b87bc86c54e50ed9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/nisr/2019/220/regulation/3/a/i)
 
-[^key-f69595311f852655dca4c246a0e4c58d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/nisr/2019/220/regulation/3/a)
+[^c-f69595311f852655dca4c246a0e4c58d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/nisr/2019/220/regulation/3/a)
 
-[^key-2b045e1108cde55323bd7f0cd236a309]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [3(a)(iii)](https://www.legislation.gov.uk/nisr/2019/220/regulation/3/a)
+[^c-2b045e1108cde55323bd7f0cd236a309]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [3(a)(iii)](https://www.legislation.gov.uk/nisr/2019/220/regulation/3/a)
 
-[^key-af9faf9274e8f54168f0a448e8967d13]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [3(a)(iv)](https://www.legislation.gov.uk/nisr/2019/220/regulation/3/a)
+[^c-af9faf9274e8f54168f0a448e8967d13]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [3(a)(iv)](https://www.legislation.gov.uk/nisr/2019/220/regulation/3/a)
 
-[^key-9f9dda9089eaebcf660b7c1b14da8987]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [3(a)(v)](https://www.legislation.gov.uk/nisr/2019/220/regulation/3/a)
+[^c-9f9dda9089eaebcf660b7c1b14da8987]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [3(a)(v)](https://www.legislation.gov.uk/nisr/2019/220/regulation/3/a)
 
-[^key-ed0eaf559553cc819b5005712487d6ac]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [14(2)(b)](https://www.legislation.gov.uk/nisr/2019/5/regulation/14/2/b)
+[^c-ed0eaf559553cc819b5005712487d6ac]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [14(2)(b)](https://www.legislation.gov.uk/nisr/2019/5/regulation/14/2/b)
 
-[^key-5bf1ec105b6489eca77aa1939057349c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [3(a)(vi)](https://www.legislation.gov.uk/nisr/2019/220/regulation/3/a)
+[^c-5bf1ec105b6489eca77aa1939057349c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [3(a)(vi)](https://www.legislation.gov.uk/nisr/2019/220/regulation/3/a)
 
 [^f00006]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-5a713f53559d44b1da3a9ad3d351f739]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/3) inserted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2019/220/regulation/3/b)
+[^c-5a713f53559d44b1da3a9ad3d351f739]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2007/497/regulation/2/3) inserted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2019/220/regulation/3/b)
 
-[^key-9dd47dec13ae2af2d55e756c6aff0fa1]: Commencement: Reg. 3 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
+[^c-9dd47dec13ae2af2d55e756c6aff0fa1]: Commencement: Reg. 3 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
 
-[^key-dd61cd12b504eed733e1c7d68bed9143]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2007/497/regulation/3) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2019/220/regulation/4/a)
+[^c-dd61cd12b504eed733e1c7d68bed9143]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2007/497/regulation/3) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2019/220/regulation/4/a)
 
-[^key-921c5b9e3309b6a911dec954733ccf49]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2007/497/regulation/3) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2019/220/regulation/4/b)
+[^c-921c5b9e3309b6a911dec954733ccf49]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2007/497/regulation/3) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2019/220/regulation/4/b)
 
-[^key-3f587c79d384e23545171ed60959c3a8]: Commencement: Reg. 4 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
+[^c-3f587c79d384e23545171ed60959c3a8]: Commencement: Reg. 4 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
 
-[^key-dfbcd6fb0e7750e04ff8278020051dfd]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2007/497/regulation/4/3) inserted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2019/220/regulation/5/a)
+[^c-dfbcd6fb0e7750e04ff8278020051dfd]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2007/497/regulation/4/3) inserted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2019/220/regulation/5/a)
 
-[^key-d086cd9258866e70451ceb7491b32dda]: Textual amendment: [Reg. 4(3)(c)](https://www.legislation.gov.uk/nisr/2007/497/regulation/4/3/c) inserted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2019/220/regulation/5/b)
+[^c-d086cd9258866e70451ceb7491b32dda]: Textual amendment: [Reg. 4(3)(c)](https://www.legislation.gov.uk/nisr/2007/497/regulation/4/3/c) inserted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2019/220/regulation/5/b)
 
-[^key-a56c217a310ec7d0458415d2e750caad]: Commencement: Reg. 5 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
+[^c-a56c217a310ec7d0458415d2e750caad]: Commencement: Reg. 5 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
 
-[^key-33e534b9b41ee6e9124f2c9c742b5bfb]: Commencement: Reg. 6 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
+[^c-33e534b9b41ee6e9124f2c9c742b5bfb]: Commencement: Reg. 6 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
 
-[^key-3624944ffe5f0dafbdafb0034a66a008]: Commencement: Reg. 7 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
+[^c-3624944ffe5f0dafbdafb0034a66a008]: Commencement: Reg. 7 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
 
-[^key-9c9c21bdafca21bb0755ad92aa026dc5]: Commencement: Reg. 8 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
+[^c-9c9c21bdafca21bb0755ad92aa026dc5]: Commencement: Reg. 8 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1991/762 (N.I.7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I.1996 **/**1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633) and paragraphs 26 to 42 of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28) and [S.R. 2004 No. 482](https://www.legislation.gov.uk/nisr/2004/482). The definition of “food” in Article 2(2) of [S.I. 1991/762 (N.I.7)](https://www.legislation.gov.uk/nisi/1991/762) was substituted by [S.R. 2004 No. 482](https://www.legislation.gov.uk/nisr/2004/482)
 
-[^key-ffa7874ed0e4b2ffdcaf251ed9ea7910]: Commencement: Reg. 9 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
+[^c-ffa7874ed0e4b2ffdcaf251ed9ea7910]: Commencement: Reg. 9 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
 
-[^key-ea400637e2148fc122edc8cb88824f8b]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/nisr/2007/497/regulation/9) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [6](https://www.legislation.gov.uk/nisr/2019/220/regulation/6)
+[^c-ea400637e2148fc122edc8cb88824f8b]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/nisr/2007/497/regulation/9) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [6](https://www.legislation.gov.uk/nisr/2019/220/regulation/6)
 
-[^key-5dfad9905777da48c4ff4a8402a7a948]: Commencement: Reg. 10 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
+[^c-5dfad9905777da48c4ff4a8402a7a948]: Commencement: Reg. 10 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
 
-[^key-b676984c536571852c42f99b6e9e8ad7]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/nisr/2007/497/part/2) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [7](https://www.legislation.gov.uk/nisr/2019/220/regulation/7)
+[^c-b676984c536571852c42f99b6e9e8ad7]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/nisr/2007/497/part/2) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [regs. 1](https://www.legislation.gov.uk/nisr/2019/220/regulation/1), [7](https://www.legislation.gov.uk/nisr/2019/220/regulation/7)
 
-[^key-cf8a0c030d56e149f27d4999b041466c]: Commencement: Reg. 11 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
+[^c-cf8a0c030d56e149f27d4999b041466c]: Commencement: Reg. 11 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
 
-[^key-29f6859c1a1270105a6acd02b68bdae1]: Commencement: Reg. 12 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
+[^c-29f6859c1a1270105a6acd02b68bdae1]: Commencement: Reg. 12 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
 
-[^key-7af1f37dde4665abb7b0dda9c87ee9ea]: Commencement: Reg. 13 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
+[^c-7af1f37dde4665abb7b0dda9c87ee9ea]: Commencement: Reg. 13 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
 
-[^key-39a7394b0bc6d685b2512f9e3d8a62c4]: Commencement: Reg. 14 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
+[^c-39a7394b0bc6d685b2512f9e3d8a62c4]: Commencement: Reg. 14 in operation at 1.1.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1)
 
 [^f00008]: Footnote: [SR 2006 No. 485](https://www.legislation.gov.uk/nisr/2006/485)
 
-[^key-1b2772a100b8e7539e387b398cd3a167]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2007/497/schedule) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [reg. 8](https://www.legislation.gov.uk/nisr/2019/220/regulation/8), [Sch.](https://www.legislation.gov.uk/nisr/2019/220/schedule)
+[^c-1b2772a100b8e7539e387b398cd3a167]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2007/497/schedule) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/220)](https://www.legislation.gov.uk/nisr/2019/220), [reg. 8](https://www.legislation.gov.uk/nisr/2019/220/regulation/8), [Sch.](https://www.legislation.gov.uk/nisr/2019/220/schedule)

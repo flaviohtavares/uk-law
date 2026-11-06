@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Circumstances in which a person is to be treated as available[^key-c406bdb3e39efa928adb360ff1296fef]
+## 14. Circumstances in which a person is to be treated as available[^c-c406bdb3e39efa928adb360ff1296fef]
 
 *Extent: N.I.*
 
@@ -71,4 +71,4 @@ for the time required to deal with the emergency or other circumstance and for a
 
 ## Annotations
 
-[^key-c406bdb3e39efa928adb360ff1296fef]: Commencement: Reg. 14 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-c406bdb3e39efa928adb360ff1296fef]: Commencement: Reg. 14 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

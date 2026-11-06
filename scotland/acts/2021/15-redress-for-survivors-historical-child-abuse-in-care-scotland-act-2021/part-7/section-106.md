@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Guidance[^key-02a5e7a1b26d31a0bf28a091db68b466]
+## 106. Guidance[^c-02a5e7a1b26d31a0bf28a091db68b466]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02a5e7a1b26d31a0bf28a091db68b466]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2021/15/section/106) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-02a5e7a1b26d31a0bf28a091db68b466]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2021/15/section/106) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

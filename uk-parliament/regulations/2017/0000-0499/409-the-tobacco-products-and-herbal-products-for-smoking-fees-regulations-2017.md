@@ -52,7 +52,7 @@ The Secretary of State has been designated for the purpose of section 2(2) of th
 
 The Treasury has consented to the making of these Regulations as required by section 56(1) of the Finance Act 1973.
 
-## 1. Citation, commencement and interpretation[^key-1b313e72c9339aa80862a3206b6a9900]
+## 1. Citation, commencement and interpretation[^c-1b313e72c9339aa80862a3206b6a9900]
 
 (1) These Regulations may be cited as the Tobacco Products and Herbal Products for Smoking (Fees) Regulations 2017, and shall come into force on 6th April 2017.
 
@@ -61,18 +61,18 @@ The Treasury has consented to the making of these Regulations as required by sec
 - “the 2016 Regulations” means the Tobacco and Related Products Regulations 2016[^f00004];
 - “cigarette”, “hand rolling tobacco”, “novel tobacco product”, and “producer” have the same meaning as in the 2016 Regulations.
 
-(3)[^key-14e49cef5c81b16eb9a79b8a36e93e23] For the purposes of these Regulations, the relevant areas are—
+(3)[^c-14e49cef5c81b16eb9a79b8a36e93e23] For the purposes of these Regulations, the relevant areas are—
 
 - (a) Great Britain (including the GB travel retail sector), and
 - (b) Northern Ireland (including the NI travel retail sector).
 
 (4) For the purposes of paragraph (3), “GB travel retail sector” and “NI travel retail sector” have the meanings given in the 2016 Regulations (see regulation 2 of those Regulations).
 
-## 2. Measurement and verification of emission levels from cigarettes: annual fee[^key-c8b7b098623ae5e25eafcf25a632c080]
+## 2. Measurement and verification of emission levels from cigarettes: annual fee[^c-c8b7b098623ae5e25eafcf25a632c080]
 
 (1) An annual fee is payable in respect of each variant of a brand of cigarettes in relation to which the Secretary of State requires a sample, under regulation 14(4) of the 2016 Regulations, in the fee period.
 
-(1A)[^key-32cbca166f5e9326ba0d74bb87df66fe] But only one annual fee is payable in respect of a variant brand of cigarettes which—
+(1A)[^c-32cbca166f5e9326ba0d74bb87df66fe] But only one annual fee is payable in respect of a variant brand of cigarettes which—
 
 - (a) is manufactured for supply in both of the relevant areas, or
 - (b) is manufactured for supply otherwise than in the relevant areas.
@@ -94,7 +94,7 @@ The Treasury has consented to the making of these Regulations as required by sec
   - (c) the quantity of each ingredient in the cigarette; or
   - (d) the tar, nicotine and carbon monoxide emission levels of the cigarette.
 
-## 3. Tobacco products: reporting fee[^key-bb2bd0de641e68555f4b1ecc5568e325]
+## 3. Tobacco products: reporting fee[^c-bb2bd0de641e68555f4b1ecc5568e325]
 
 (1) A fee is payable in respect of—
 
@@ -103,7 +103,7 @@ The Treasury has consented to the making of these Regulations as required by sec
 
 (2) Where a producer submits a notification in accordance with regulation 22 of the 2016 Regulations, and at the same time submits information in accordance with regulation 18(1) of those Regulations in relation to the same product, only one fee is payable.
 
-(2A)[^key-04b0f03ca04cf0aa5aa8b6f3c3d1a404] In addition, only one fee is payable where—
+(2A)[^c-04b0f03ca04cf0aa5aa8b6f3c3d1a404] In addition, only one fee is payable where—
 
 - (a) a producer—
   - (i) submits information in accordance with regulation 18(1) of the 2016 Regulations relating to the supply of a tobacco product in one of the relevant areas, and
@@ -120,11 +120,11 @@ The Treasury has consented to the making of these Regulations as required by sec
 
 (6) The fee is payable by the person who submitted the information and is payable to the Secretary of State.
 
-## 4. Tobacco products: annual reporting fee[^key-3bf09e29270c64f8cb34b5d365cfb1e4]
+## 4. Tobacco products: annual reporting fee[^c-3bf09e29270c64f8cb34b5d365cfb1e4]
 
 (1) An annual fee is payable in respect of each product for which a submission has been made under regulation 18(1), or a notification has been submitted under regulation 22, of the 2016 Regulations (“the submission”).
 
-(1A)[^key-c2e8a53207220fa68435357595b2316a] But only one annual fee is payable for a product for which—
+(1A)[^c-c2e8a53207220fa68435357595b2316a] But only one annual fee is payable for a product for which—
 
 - (a) a submission has been made under regulation 18(1), or a notification has been submitted under regulation 22, of the 2016 Regulations relating to the supply of it in one of the relevant areas, and
 - (b) a submission has also been made, or notification has also been submitted, under either of those provisions relating to its supply in the other relevant area.
@@ -145,13 +145,13 @@ and thereafter is payable each year on 1st March.
 
 (5) If the Secretary of State is notified under regulation 18(5) of the 2016 Regulations that the product has been withdrawn from the market, no fee is payable on the 1st March following that notification and thereafter; but any annual fee payable prior to or on the date of notification remains payable.
 
-(6)[^key-76eb0dc8c60c57252691b4099f58f7cc] But where a submission has been made under regulation 18(1), or a notification submitted under regulation 22, of the 2016 Regulations, relating to the supply of a product in both of the relevant areas, the annual fee ceases to be payable only if the Secretary of State is notified under regulation 18(5) of those Regulations that the product has been withdrawn from the market in Great Britain and from the market in Northern Ireland.
+(6)[^c-76eb0dc8c60c57252691b4099f58f7cc] But where a submission has been made under regulation 18(1), or a notification submitted under regulation 22, of the 2016 Regulations, relating to the supply of a product in both of the relevant areas, the annual fee ceases to be payable only if the Secretary of State is notified under regulation 18(5) of those Regulations that the product has been withdrawn from the market in Great Britain and from the market in Northern Ireland.
 
-## 5. Herbal products for smoking: reporting fee[^key-91db5956d4a9da68c39855e77b9961b9]
+## 5. Herbal products for smoking: reporting fee[^c-91db5956d4a9da68c39855e77b9961b9]
 
 (1) A fee is payable in respect of each submission made to the Secretary of State under regulation 29(1) of the 2016 Regulations (submission of ingredients information relating to a herbal product for smoking).
 
-(1A)[^key-d21d23fd9edb1f3ae0ffc1a306b332b7] But only one fee is payable where—
+(1A)[^c-d21d23fd9edb1f3ae0ffc1a306b332b7] But only one fee is payable where—
 
 - (a) a submission is made under regulation 29(1) of the 2016 Regulations in relation to the supply of a product in one of the relevant areas, and
 - (b) a submission is also made under regulation 29(1) of the 2016 Regulations in relation to the supply of the same product in the other relevant area.
@@ -162,11 +162,11 @@ and thereafter is payable each year on 1st March.
 
 (4) The fee is payable by the person who made the submission and is payable to the Secretary of State.
 
-## 6. Herbal products for smoking: annual reporting fee[^key-fc5b961d6ea9f24cfbdb8b853534bf39]
+## 6. Herbal products for smoking: annual reporting fee[^c-fc5b961d6ea9f24cfbdb8b853534bf39]
 
 (1) An annual fee is payable in respect of each product for which a submission has been made under regulation 29(1) the 2016 Regulations (“the submission”).
 
-(1A)[^key-b765f686adac59bd3dbc018ef36e6408] But only one annual fee is payable in respect of a product for which—
+(1A)[^c-b765f686adac59bd3dbc018ef36e6408] But only one annual fee is payable in respect of a product for which—
 
 - (a) a submission has been made under regulation 29(1) of the 2016 Regulations in relation to the supply of a product in one of the relevant areas, and
 - (b) a submission has also been made under that regulation in relation to its supply in the other relevant area.
@@ -184,13 +184,13 @@ and thereafter is payable each year on 1st March.
 
 (5) If the Secretary of State is notified that the product has been withdrawn from the market, no fee is payable on the 1st March following that notification and thereafter; but any annual fee payable prior to or on the date of notification remains payable.
 
-(6)[^key-b5cbe3c66ef2a3a10f535e50fe18ef78] But where a submission has been made under regulation 29(1) of the 2016 Regulations relating to the supply of a product in both of the relevant areas, the annual fee ceases to be payable only if the Secretary of State is notified that the product has been withdrawn from the market in Great Britain and from the market in Northern Ireland.
+(6)[^c-b5cbe3c66ef2a3a10f535e50fe18ef78] But where a submission has been made under regulation 29(1) of the 2016 Regulations relating to the supply of a product in both of the relevant areas, the annual fee ceases to be payable only if the Secretary of State is notified that the product has been withdrawn from the market in Great Britain and from the market in Northern Ireland.
 
-## 7. Civil proceedings to recover unpaid fees[^key-7e35b2e4c0121fe35829bbdbf00219fa]
+## 7. Civil proceedings to recover unpaid fees[^c-7e35b2e4c0121fe35829bbdbf00219fa]
 
 All unpaid sums due by way of any fees payable under these Regulations are recoverable as debts due to the Crown.
 
-## 8. Amendments to the 2016 Regulations: consequences of non-payment of reporting fees[^key-099fa5748a654d9ebb932e0df0350f54]
+## 8. Amendments to the 2016 Regulations: consequences of non-payment of reporting fees[^c-099fa5748a654d9ebb932e0df0350f54]
 
 (1) The 2016 Regulations are amended as follows.
 
@@ -292,38 +292,38 @@ An impact assessment of the effects that this instrument will have on the costs 
 
 [^f00003]: Footnote: [S.I. 2014/2705](https://www.legislation.gov.uk/uksi/2014/2705).
 
-[^key-1b313e72c9339aa80862a3206b6a9900]: Commencement: Reg. 1 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+[^c-1b313e72c9339aa80862a3206b6a9900]: Commencement: Reg. 1 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2016/507](https://www.legislation.gov.uk/uksi/2016/507), amended by [S.I. 2016/1127](https://www.legislation.gov.uk/uksi/2016/1127).
 
-[^key-14e49cef5c81b16eb9a79b8a36e93e23]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/4) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/2)
+[^c-14e49cef5c81b16eb9a79b8a36e93e23]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/4) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/2)
 
-[^key-c8b7b098623ae5e25eafcf25a632c080]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+[^c-c8b7b098623ae5e25eafcf25a632c080]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
 
-[^key-32cbca166f5e9326ba0d74bb87df66fe]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2017/409/regulation/2/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/3)
+[^c-32cbca166f5e9326ba0d74bb87df66fe]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2017/409/regulation/2/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/3)
 
-[^key-bb2bd0de641e68555f4b1ecc5568e325]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+[^c-bb2bd0de641e68555f4b1ecc5568e325]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
 
-[^key-04b0f03ca04cf0aa5aa8b6f3c3d1a404]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2017/409/regulation/3/2A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/4)
+[^c-04b0f03ca04cf0aa5aa8b6f3c3d1a404]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2017/409/regulation/3/2A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/4)
 
-[^key-3bf09e29270c64f8cb34b5d365cfb1e4]: Commencement: Reg. 4 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+[^c-3bf09e29270c64f8cb34b5d365cfb1e4]: Commencement: Reg. 4 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
 
-[^key-c2e8a53207220fa68435357595b2316a]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/uksi/2017/409/regulation/4/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(5)(a)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/5/a)
+[^c-c2e8a53207220fa68435357595b2316a]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/uksi/2017/409/regulation/4/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(5)(a)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/5/a)
 
-[^key-76eb0dc8c60c57252691b4099f58f7cc]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/uksi/2017/409/regulation/4/6) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(5)(b)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/5/b)
+[^c-76eb0dc8c60c57252691b4099f58f7cc]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/uksi/2017/409/regulation/4/6) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(5)(b)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/5/b)
 
-[^key-91db5956d4a9da68c39855e77b9961b9]: Commencement: Reg. 5 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+[^c-91db5956d4a9da68c39855e77b9961b9]: Commencement: Reg. 5 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
 
-[^key-d21d23fd9edb1f3ae0ffc1a306b332b7]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2017/409/regulation/5/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/6)
+[^c-d21d23fd9edb1f3ae0ffc1a306b332b7]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2017/409/regulation/5/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/6)
 
-[^key-fc5b961d6ea9f24cfbdb8b853534bf39]: Commencement: Reg. 6 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+[^c-fc5b961d6ea9f24cfbdb8b853534bf39]: Commencement: Reg. 6 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
 
-[^key-b765f686adac59bd3dbc018ef36e6408]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2017/409/regulation/6/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(7)(a)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/7/a)
+[^c-b765f686adac59bd3dbc018ef36e6408]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2017/409/regulation/6/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(7)(a)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/7/a)
 
-[^key-b5cbe3c66ef2a3a10f535e50fe18ef78]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2017/409/regulation/6/6) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(7)(b)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/7/b)
+[^c-b5cbe3c66ef2a3a10f535e50fe18ef78]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2017/409/regulation/6/6) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(7)(b)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/7/b)
 
-[^key-7e35b2e4c0121fe35829bbdbf00219fa]: Commencement: Reg. 7 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+[^c-7e35b2e4c0121fe35829bbdbf00219fa]: Commencement: Reg. 7 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
 
-[^key-099fa5748a654d9ebb932e0df0350f54]: Commencement: Reg. 8 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+[^c-099fa5748a654d9ebb932e0df0350f54]: Commencement: Reg. 8 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
 
 [^f00005]: Footnote: [Directive 2014/40/EU](https://www.legislation.gov.uk/european/directive/2014/0040) of the European Parliament and of the Council on the approximation of laws, regulations and administrative provisions of the Member States concerning the manufacture, presentation and sale of tobacco and related products and repealing [Directive 2001/37/EC](https://www.legislation.gov.uk/european/directive/2001/0037). OJ L 127, 29.4.2014, p.1 as amended by Commission Delegated [Directive 2014/109/EU](https://www.legislation.gov.uk/european/directive/2014/0109), OJ L 360, 17.12.2014, p.22.

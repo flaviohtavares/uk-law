@@ -26,16 +26,16 @@ summary: ''
 
 (3) An authorisation may be given—
 
-- (a) where the road specified is in England and Wales[^key-c80abfdf6309b5dfda1e4e655c493bd4] and is wholly or partly within a police area other than one mentioned in paragraphs (b) or (c), by a police officer for the area who is of at least the rank of assistant chief constable;
+- (a) where the road specified is in England and Wales[^c-c80abfdf6309b5dfda1e4e655c493bd4] and is wholly or partly within a police area other than one mentioned in paragraphs (b) or (c), by a police officer for the area who is of at least the rank of assistant chief constable;
 - (b) where the road specified is wholly or partly in the metropolitan police district, by a police officer for the district who is of at least the rank of commander of the metropolitan police;
 - (c) where the road specified is wholly or partly in the City of London, by a police officer for the City who is of at least the rank of commander in the City of London police force;
-- (ca)[^key-77ac03dfe2c32955b570933701612404] where the road specified is in Scotland, by a constable of the Police Service of Scotland who is of at least the rank of assistant chief constable;
+- (ca)[^c-77ac03dfe2c32955b570933701612404] where the road specified is in Scotland, by a constable of the Police Service of Scotland who is of at least the rank of assistant chief constable;
 - (d) where the road specified is in Northern Ireland, by a member of the Royal Ulster Constabulary who is of at least the rank of assistant chief constable.
 
 (4) If an authorisation is given orally, the person giving it shall confirm it in writing as soon as is reasonably practicable.
 
 ## Annotations
 
-[^key-c80abfdf6309b5dfda1e4e655c493bd4]: Textual amendment: Words in s. 48(3)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 32(2)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/32/2/a)
+[^c-c80abfdf6309b5dfda1e4e655c493bd4]: Textual amendment: Words in s. 48(3)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 32(2)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/32/2/a)
 
-[^key-77ac03dfe2c32955b570933701612404]: Textual amendment: S. 48(3)(ca) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 32(2)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/32/2/b)
+[^c-77ac03dfe2c32955b570933701612404]: Textual amendment: S. 48(3)(ca) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 32(2)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/32/2/b)

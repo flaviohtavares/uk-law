@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 28.2. Revocation[^key-db0aa06265ca143be2ad0e68b9e05a85]
+## 28.2. Revocation[^c-db0aa06265ca143be2ad0e68b9e05a85]
 
 *Extent: E*
 
@@ -24,7 +24,7 @@ The Faculty Jurisdiction (Appeals) Rules 1998[^f00012] and the Faculty Jurisdict
 
 ## Annotations
 
-[^key-db0aa06265ca143be2ad0e68b9e05a85]: Commencement: [Rule 28.2](https://www.legislation.gov.uk/uksi/2015/1568/article/28.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-db0aa06265ca143be2ad0e68b9e05a85]: Commencement: [Rule 28.2](https://www.legislation.gov.uk/uksi/2015/1568/article/28.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
 
 [^f00012]: Footnote: [S.I. 1998/1713](https://www.legislation.gov.uk/uksi/1998/1713).
 

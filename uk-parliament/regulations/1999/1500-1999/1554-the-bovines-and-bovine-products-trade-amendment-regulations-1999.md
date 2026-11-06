@@ -45,7 +45,7 @@ Coming into force
 
 30th June 1999
 
-The Minister of Agriculture, Fisheries and Food and the Secretary of State, being Ministers designated[^c16409361] for the purposes of section 2(2) of the European Communities Act 1972[^c16409371] in relation to the common agricultural policy of the European Community, acting jointly in exercise of the powers conferred on them by that section, hereby make the following Regulations:–[^key-88e00257fa241782b947d00ead83e866]
+The Minister of Agriculture, Fisheries and Food and the Secretary of State, being Ministers designated[^c16409361] for the purposes of section 2(2) of the European Communities Act 1972[^c16409371] in relation to the common agricultural policy of the European Community, acting jointly in exercise of the powers conferred on them by that section, hereby make the following Regulations:–[^c-88e00257fa241782b947d00ead83e866]
 
 ## 1. Title, commencement and extent
 
@@ -73,4 +73,4 @@ These Regulations amend the Bovines and Bovine Products (Trade) Regulations 1999
 
 [^c16409371]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-88e00257fa241782b947d00ead83e866]: Textual amendment: Regulations revoked (S.) (3.5.2006) by [The TSE (Scotland) Amendment (No. 2) Regulations 2006 (S.S.I. 2006/231)](https://www.legislation.gov.uk/ssi/2006/231), [reg. 1](https://www.legislation.gov.uk/ssi/2006/231/schedule), [sch.](https://www.legislation.gov.uk/ssi/2006/231/schedule)
+[^c-88e00257fa241782b947d00ead83e866]: Textual amendment: Regulations revoked (S.) (3.5.2006) by [The TSE (Scotland) Amendment (No. 2) Regulations 2006 (S.S.I. 2006/231)](https://www.legislation.gov.uk/ssi/2006/231), [reg. 1](https://www.legislation.gov.uk/ssi/2006/231/schedule), [sch.](https://www.legislation.gov.uk/ssi/2006/231/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Power to deviate[^key-8cf5c2411b15669eab7880efcec79bcb]
+## 6. Power to deviate[^c-8cf5c2411b15669eab7880efcec79bcb]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ In constructing or maintaining any of the scheduled works, the Company may—
 
 ## Annotations
 
-[^key-8cf5c2411b15669eab7880efcec79bcb]: Commencement: Art. 6 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-8cf5c2411b15669eab7880efcec79bcb]: Commencement: Art. 6 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

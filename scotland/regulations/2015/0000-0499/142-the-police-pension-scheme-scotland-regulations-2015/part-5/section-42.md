@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Late payment supplement[^key-340aac239941278ec548b6e3643bab84]
+## 42. Late payment supplement[^c-340aac239941278ec548b6e3643bab84]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Part, “late payment supplement”, in relation to the provisional amou
 
 ## Annotations
 
-[^key-340aac239941278ec548b6e3643bab84]: Commencement: Reg. 42 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-340aac239941278ec548b6e3643bab84]: Commencement: Reg. 42 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

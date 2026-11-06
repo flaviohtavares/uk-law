@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Decision on notifiable change[^key-258b785363f4d661d5d96a14af1f21cb]
+## 30. Decision on notifiable change[^c-258b785363f4d661d5d96a14af1f21cb]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ it may decide to make the change with any modifications it considers necessary.
 
 ## Annotations
 
-[^key-258b785363f4d661d5d96a14af1f21cb]: Commencement: S. 30 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-258b785363f4d661d5d96a14af1f21cb]: Commencement: S. 30 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

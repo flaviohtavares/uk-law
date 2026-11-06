@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Reports by policing committees to Policing Board[^key-0b5bdc14a58f0c69dc00e2125e0c4d31]
+## 30. Reports by policing committees to Policing Board[^c-0b5bdc14a58f0c69dc00e2125e0c4d31]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b5bdc14a58f0c69dc00e2125e0c4d31]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2011/24/section/30) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-0b5bdc14a58f0c69dc00e2125e0c4d31]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2011/24/section/30) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)

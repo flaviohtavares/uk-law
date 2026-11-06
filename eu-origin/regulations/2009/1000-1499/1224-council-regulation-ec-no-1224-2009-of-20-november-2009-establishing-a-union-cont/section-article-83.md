@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 83. Infringements detected outside the waters of the inspecting Member State[^key-fb3a7563514c0b7964fd874a2e30df89]
+## Article 83. Infringements detected outside the waters of the inspecting Member State[^c-fb3a7563514c0b7964fd874a2e30df89]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb3a7563514c0b7964fd874a2e30df89]: Textual amendment: [Arts. 79-83](https://www.legislation.gov.uk/eur/2009/1224/article/79) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(78)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/78); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb3a7563514c0b7964fd874a2e30df89]: Textual amendment: [Arts. 79-83](https://www.legislation.gov.uk/eur/2009/1224/article/79) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(78)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/78); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

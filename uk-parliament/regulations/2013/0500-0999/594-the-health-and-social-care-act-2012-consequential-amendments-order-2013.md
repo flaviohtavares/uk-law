@@ -44,7 +44,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 A draft of this Order has been laid before and approved by resolution of each House of Parliament in accordance with section 304(5) of that Act.
 
-## 1. Citation, commencement and extent[^key-d81e9c492e3818df8791dd099c37a019]
+## 1. Citation, commencement and extent[^c-d81e9c492e3818df8791dd099c37a019]
 
 (1) This Order may be cited as the Health and Social Care Act 2012 (Consequential Amendments) Order 2013.
 
@@ -52,19 +52,19 @@ A draft of this Order has been laid before and approved by resolution of each Ho
 
 (3) Any amendment made by this Order has the same extent as the provision amended.
 
-## 2. Amendment of the Vehicle Excise and Registration Act 1994[^key-f9f5cba8bf1e485aef620165bff5410a]
+## 2. Amendment of the Vehicle Excise and Registration Act 1994[^c-f9f5cba8bf1e485aef620165bff5410a]
 
 In paragraph 7 of Schedule 2 to the Vehicle Excise and Registration Act 1994[^f00002] (vehicles exempt from vehicle excise duty), omit sub-paragraph (d) (together with the “or” following it).
 
-## 3. Amendment of the Education Act 1996[^key-ff4c08a2a32868971f0db40dc8afe517]
+## 3. Amendment of the Education Act 1996[^c-ff4c08a2a32868971f0db40dc8afe517]
 
 In section 403(2) of the Education Act 1996[^f00003] (sex education: manner of provision), for “section 28(6) of the National Health Service Act 2006” substitute “the National Health Service Act 2006 (see section 275(1) of that Act)”.
 
-## 4. Amendments of the Audit Commission Act 1998[^key-764710d14e29b7f95e10a6a2955f0398]
+## 4. Amendments of the Audit Commission Act 1998[^c-764710d14e29b7f95e10a6a2955f0398]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Local Government Act 2000[^key-ab71d156a5c50d30c11ccd2d2c356aba]
+## 5. Amendment of the Local Government Act 2000[^c-ab71d156a5c50d30c11ccd2d2c356aba]
 
 In section 9FF(6) of the Local Government Act 2000[^f00011] (reports and recommendations of overview and scrutiny committees: duties of certain partner authorities)—
 
@@ -77,7 +77,7 @@ In section 9FF(6) of the Local Government Act 2000[^f00011] (reports and recomme
 - (b) at the end of paragraph (a), insert “or”, and
 - (c) omit paragraph (c) and the “or” immediately preceding it.
 
-## 6. Amendment of the Local Government and Public Involvement in Health Act 2007[^key-9107cd52eddcc77e1e290d8173c69522]
+## 6. Amendment of the Local Government and Public Involvement in Health Act 2007[^c-9107cd52eddcc77e1e290d8173c69522]
 
 In section 104(2) of the Local Government and Public Involvement in Health Act 2007[^f00012] (application of Chapter: partner authorities)—
 
@@ -89,11 +89,11 @@ In section 104(2) of the Local Government and Public Involvement in Health Act 2
   , and
 - (b) omit paragraph (k).
 
-## 7. Amendment of the Welfare Reform Act 2012[^key-3b998989deb6da7c93942dac9b211296]
+## 7. Amendment of the Welfare Reform Act 2012[^c-3b998989deb6da7c93942dac9b211296]
 
 In section 130(4)(a) of the Welfare Reform Act 2012[^f00013] (information-sharing in relation to provision of overnight care etc), omit “a Primary Care Trust,”.
 
-## 8. Consequential repeals[^key-f4f493447ef6fea6c9c3fd717c447d8f]
+## 8. Consequential repeals[^c-f4f493447ef6fea6c9c3fd717c447d8f]
 
 In consequence of the amendments made by articles 2 and 3, omit paragraphs 170(b) and 183 of Schedule 1 to the National Health Service (Consequential Provisions) Act 2006[^f00014].
 
@@ -121,30 +121,30 @@ A full impact assessment has not been produced for this instrument as the Order 
 
 [^f00001]: Footnote: [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7).
 
-[^key-d81e9c492e3818df8791dd099c37a019]: Commencement: Art. 1 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
+[^c-d81e9c492e3818df8791dd099c37a019]: Commencement: Art. 1 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
 
-[^key-f9f5cba8bf1e485aef620165bff5410a]: Commencement: Art. 2 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
+[^c-f9f5cba8bf1e485aef620165bff5410a]: Commencement: Art. 2 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
 
 [^f00002]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22). Paragraph 7(ba) of Schedule 2 is inserted by the Health and Social Care (Community Health and Standards) Act [2003 (c.43)](https://www.legislation.gov.uk/ukpga/2003/43), Schedule 4, paragraph 96; paragraph 7(d) is inserted by [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90), Schedule 1, paragraph 28, and amended by the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 1, paragraphs 169, 170. The word “or” following paragraph 7(d) is inserted by the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), Schedule 5, paragraph 39.
 
-[^key-ff4c08a2a32868971f0db40dc8afe517]: Commencement: Art. 3 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
+[^c-ff4c08a2a32868971f0db40dc8afe517]: Commencement: Art. 3 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
 
 [^f00003]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 403(2) is amended by the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), Schedule 30, paragraph 102, the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), section 148(1) and (5), and the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 1, paragraphs 181 and 183.
 
-[^key-764710d14e29b7f95e10a6a2955f0398]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2013/594/article/4) revoked (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a)
+[^c-764710d14e29b7f95e10a6a2955f0398]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2013/594/article/4) revoked (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a)
 
-[^key-ab71d156a5c50d30c11ccd2d2c356aba]: Commencement: Art. 5 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
+[^c-ab71d156a5c50d30c11ccd2d2c356aba]: Commencement: Art. 5 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
 
 [^f00011]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22). Section 9FF is inserted by the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), Schedule 2, paragraph 1.
 
-[^key-9107cd52eddcc77e1e290d8173c69522]: Commencement: Art. 6 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
+[^c-9107cd52eddcc77e1e290d8173c69522]: Commencement: Art. 6 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
 
 [^f00012]: Footnote: [2007 c. 28](https://www.legislation.gov.uk/ukpga/2007/28). Section 104(2) is amended by the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), Schedule 4, paragraph 68, the Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), Schedule 6, paragraph 121(1), (3), the Public Bodies Act [2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), Schedule 6 and the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), Schedule 16, paragraphs 366 and 367.
 
-[^key-3b998989deb6da7c93942dac9b211296]: Commencement: Art. 7 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
+[^c-3b998989deb6da7c93942dac9b211296]: Commencement: Art. 7 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
 
 [^f00013]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-f4f493447ef6fea6c9c3fd717c447d8f]: Commencement: Art. 8 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
+[^c-f4f493447ef6fea6c9c3fd717c447d8f]: Commencement: Art. 8 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
 
 [^f00014]: Footnote: [2006 c. 43](https://www.legislation.gov.uk/ukpga/2006/43).

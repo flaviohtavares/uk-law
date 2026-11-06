@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 10 — Index of expressions[^key-9396e384b34e080c8b11a685174ed5b9]
+## SCHEDULE 10 — Index of expressions[^c-9396e384b34e080c8b11a685174ed5b9]
 
 *Extent: S*
 
@@ -40,7 +40,7 @@ summary: ''
 | legal member (Upper) | Section 16(2) |
 | judicial member (First-tier) | Section 19(1) |
 | judicial member (Upper) | Section 19(2) |
-| extra judge (First-tier)[^key-5db19eb414107fce26d6c730fd3f4d9b] | Section 19(4) |
+| extra judge (First-tier)[^c-5db19eb414107fce26d6c730fd3f4d9b] | Section 19(4) |
 | extra judge (Upper) | Section 19(4) |
 | appointment and assignment (various positions) | Section 32(1) to (4) |
 | transfer-in to membership (various positions) | Section 29(a) and (b) |
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9396e384b34e080c8b11a685174ed5b9]: Commencement: [Sch. 10](https://www.legislation.gov.uk/asp/2014/10/schedule/10) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-9396e384b34e080c8b11a685174ed5b9]: Commencement: [Sch. 10](https://www.legislation.gov.uk/asp/2014/10/schedule/10) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-5db19eb414107fce26d6c730fd3f4d9b]: Textual amendment: Words in [sch. 10](https://www.legislation.gov.uk/asp/2014/10/schedule/10) inserted (13.5.2022) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 16(8)](https://www.legislation.gov.uk/asp/2020/18/section/16/8), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2022/146](https://www.legislation.gov.uk/ssi/2022/146), [reg. 2](https://www.legislation.gov.uk/ssi/2022/146/regulation/2)
+[^c-5db19eb414107fce26d6c730fd3f4d9b]: Textual amendment: Words in [sch. 10](https://www.legislation.gov.uk/asp/2014/10/schedule/10) inserted (13.5.2022) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 16(8)](https://www.legislation.gov.uk/asp/2020/18/section/16/8), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2022/146](https://www.legislation.gov.uk/ssi/2022/146), [reg. 2](https://www.legislation.gov.uk/ssi/2022/146/regulation/2)

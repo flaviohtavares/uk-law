@@ -42,7 +42,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 37(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament[^f00002].
 
-## 1. Citation and commencement[^key-defae71f8d45817945f82a00116f56a3]
+## 1. Citation and commencement[^c-defae71f8d45817945f82a00116f56a3]
 
 (1) These Regulations may be cited as the Criminal Legal Aid and Assistance by Way of Representation (Miscellaneous Amendment) (Scotland) Regulations 2026.
 
@@ -50,15 +50,15 @@ In accordance with section 37(2) of that Act, a draft of this instrument has bee
 
 (3) Regulations 3(2) and 4 to 10 come into force on 14 December 2026.
 
-## 2. Application[^key-293335d7d514fed00af1208dfcf4b722]
+## 2. Application[^c-293335d7d514fed00af1208dfcf4b722]
 
 (1) Regulation 3(3) applies only in relation to cases where the work is done on or after 1 April 2026.
 
 (2) Regulations 3(2) and 4 to 10 apply only in relation to criminal legal assistance provided in respect of proceedings where the complaint was served on or after 14 December 2026.
 
-## 3. Amendment of the Criminal Legal Aid (Scotland) (Fees) Regulations 1989[^key-29339d3d920142e136cef6d3f2c695f0][^key-cf1cf0ef26cdd2e6672f0dad1470820b]
+## 3. Amendment of the Criminal Legal Aid (Scotland) (Fees) Regulations 1989[^c-29339d3d920142e136cef6d3f2c695f0][^c-cf1cf0ef26cdd2e6672f0dad1470820b]
 
-(1)[^key-29339d3d920142e136cef6d3f2c695f0] The Criminal Legal Aid (Scotland) (Fees) Regulations 1989[^f00003] are amended as follows.
+(1)[^c-29339d3d920142e136cef6d3f2c695f0] The Criminal Legal Aid (Scotland) (Fees) Regulations 1989[^f00003] are amended as follows.
 
 (2) At the start of regulation 6 (duty solicitors’ fees), insert—
 
@@ -71,7 +71,7 @@ In accordance with section 37(2) of that Act, a draft of this instrument has bee
 
 .
 
-(3)[^key-29339d3d920142e136cef6d3f2c695f0] In schedule 1A (fees of solicitors), in paragraph 5 (preparation fee) of Part 2 of the Table of Fees (fees for solemn first instance proceedings)—
+(3)[^c-29339d3d920142e136cef6d3f2c695f0] In schedule 1A (fees of solicitors), in paragraph 5 (preparation fee) of Part 2 of the Table of Fees (fees for solemn first instance proceedings)—
 
 - (a) in sub-paragraph (a)(i) after “trial”, insert—
 
@@ -84,13 +84,13 @@ In accordance with section 37(2) of that Act, a draft of this instrument has bee
 
   .
 
-## 4. Amendment of the Advice and Assistance (Financial Limit) (Scotland) Regulations 1993[^key-3bdd3493cf1a0ebed092e8c5233dba14]
+## 4. Amendment of the Advice and Assistance (Financial Limit) (Scotland) Regulations 1993[^c-3bdd3493cf1a0ebed092e8c5233dba14]
 
 **Not yet in force.**
 
 In regulation 3(c) (financial limit) of the Advice and Assistance (Financial Limit) (Scotland) Regulations 1993[^f00004], omit sub-paragraphs (iv) and (v).
 
-## 5. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^key-8cd7de2ad78a7463747fa165f7978b2f]
+## 5. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^c-8cd7de2ad78a7463747fa165f7978b2f]
 
 **Not yet in force.**
 
@@ -103,7 +103,7 @@ In regulation 3(c) (financial limit) of the Advice and Assistance (Financial Lim
 - (a) “(b) fees, as undernoted, for work other than or subsequent to that described in schedule 1B of the Criminal Legal Aid (Fixed Payments) (Scotland) Regulations 1999—”,
 - (b) paragraph 1A (supplementary fee at a holiday court sitting).
 
-## 6. Amendment of the Criminal Legal Aid (Scotland) Regulations 1996[^key-0f7c6b0aaea36383344d7bdf15df1b7b]
+## 6. Amendment of the Criminal Legal Aid (Scotland) Regulations 1996[^c-0f7c6b0aaea36383344d7bdf15df1b7b]
 
 **Not yet in force.**
 
@@ -195,7 +195,7 @@ In regulation 3(c) (financial limit) of the Advice and Assistance (Financial Lim
 
 .
 
-## 7. Amendment of the Criminal Legal Aid (Fixed Payments) (Scotland) Regulations 1999[^key-6d942b5f018eb0bae4dec200a03a09ef]
+## 7. Amendment of the Criminal Legal Aid (Fixed Payments) (Scotland) Regulations 1999[^c-6d942b5f018eb0bae4dec200a03a09ef]
 
 **Not yet in force.**
 
@@ -281,7 +281,7 @@ In regulation 3(c) (financial limit) of the Advice and Assistance (Financial Lim
 
 (7) After schedule 2, insert schedules 3 and 4 in the schedule of these Regulations.
 
-## 8. Amendment of the Advice and Assistance (Assistance by Way of Representation) (Scotland) Regulations 2003[^key-e1cdcc7da48e48e574a54c3ab01f08ab]
+## 8. Amendment of the Advice and Assistance (Assistance by Way of Representation) (Scotland) Regulations 2003[^c-e1cdcc7da48e48e574a54c3ab01f08ab]
 
 **Not yet in force.**
 
@@ -290,7 +290,7 @@ In the Advice and Assistance (Assistance by Way of Representation) (Scotland) Re
 - (a) regulation 3(a) (miscellaneous proceedings),
 - (b) regulations 6, 6A and 7 (summary criminal proceedings).
 
-## 9. Amendment of the Criminal Legal Assistance (Fees and Information etc.) (Scotland) Regulations 2008[^key-1b0734de4ce0385135cd03709aa3981f]
+## 9. Amendment of the Criminal Legal Assistance (Fees and Information etc.) (Scotland) Regulations 2008[^c-1b0734de4ce0385135cd03709aa3981f]
 
 **Not yet in force.**
 
@@ -344,7 +344,7 @@ In the Advice and Assistance (Assistance by Way of Representation) (Scotland) Re
   - (i) after “first”, insert “to fourth”,
   - (ii) for “second or third” substitute “fifth”.
 
-## 10. Amendment of the Criminal Legal Assistance (Duty Solicitors) (Scotland) Regulations 2011[^key-38219df18d7e837b0f1a0c44e36cd14d]
+## 10. Amendment of the Criminal Legal Assistance (Duty Solicitors) (Scotland) Regulations 2011[^c-38219df18d7e837b0f1a0c44e36cd14d]
 
 **Not yet in force.**
 
@@ -367,7 +367,7 @@ Edinburgh
 
 19th February 2026
 
-## SCHEDULE — Schedules 3 and 4 of the Criminal Legal Aid (Fixed Payments) (Scotland) Regulations 1999[^key-c146ab75ff93f76bf451b937cea8d2fd]
+## SCHEDULE — Schedules 3 and 4 of the Criminal Legal Aid (Fixed Payments) (Scotland) Regulations 1999[^c-c146ab75ff93f76bf451b937cea8d2fd]
 
 **Not yet in force.**
 
@@ -468,46 +468,46 @@ Regulation 10 amends the Criminal Legal Assistance (Duty Solicitors) (Scotland) 
 
 [^f00002]: Footnote: The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). The Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-defae71f8d45817945f82a00116f56a3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2026/107/regulation/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/2)
+[^c-defae71f8d45817945f82a00116f56a3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2026/107/regulation/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/2)
 
-[^key-293335d7d514fed00af1208dfcf4b722]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2026/107/regulation/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/2)
+[^c-293335d7d514fed00af1208dfcf4b722]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2026/107/regulation/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/2)
 
-[^key-29339d3d920142e136cef6d3f2c695f0]: Commencement: [Reg. 3(1)](https://www.legislation.gov.uk/ssi/2026/107/regulation/3/1)[(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/3/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/2)
+[^c-29339d3d920142e136cef6d3f2c695f0]: Commencement: [Reg. 3(1)](https://www.legislation.gov.uk/ssi/2026/107/regulation/3/1)[(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/3/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/2)
 
-[^key-cf1cf0ef26cdd2e6672f0dad1470820b]: Commencement: Reg. 3(2) in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
+[^c-cf1cf0ef26cdd2e6672f0dad1470820b]: Commencement: Reg. 3(2) in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
 
 [^f00003]: Footnote: [S.I. 1989/1491](https://www.legislation.gov.uk/uksi/1989/1491). Schedule 1A was inserted by [S.S.I. 2023/135](https://www.legislation.gov.uk/ssi/2023/135).
 
-[^key-3bdd3493cf1a0ebed092e8c5233dba14]: Commencement: Reg. 4 in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
+[^c-3bdd3493cf1a0ebed092e8c5233dba14]: Commencement: Reg. 4 in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
 
 [^f00004]: Footnote: [S.I. 1993/3187](https://www.legislation.gov.uk/uksi/1993/3187). Paragraph (c) of regulation 3 was inserted by [S.S.I. 2008/251](https://www.legislation.gov.uk/ssi/2008/251).
 
-[^key-8cd7de2ad78a7463747fa165f7978b2f]: Commencement: Reg. 5 in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
+[^c-8cd7de2ad78a7463747fa165f7978b2f]: Commencement: Reg. 5 in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
 
 [^f00005]: Footnote: [S.I. 1996/2447](https://www.legislation.gov.uk/uksi/1996/2447). Regulation 14A was inserted by [S.S.I. 2008/240](https://www.legislation.gov.uk/ssi/2008/240). The table of fees in schedule 3 was substituted by [S.S.I. 2023/135](https://www.legislation.gov.uk/ssi/2023/135).
 
-[^key-0f7c6b0aaea36383344d7bdf15df1b7b]: Commencement: Reg. 6 in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
+[^c-0f7c6b0aaea36383344d7bdf15df1b7b]: Commencement: Reg. 6 in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
 
 [^f00006]: Footnote: [S.I. 1996/2555](https://www.legislation.gov.uk/uksi/1996/2555). Regulation 7A was inserted by [S.S.I. 2010/377](https://www.legislation.gov.uk/ssi/2010/377).
 
 [^f00007]: Footnote: Regulation 17(5) is inserted by paragraph (6) below.
 
-[^key-6d942b5f018eb0bae4dec200a03a09ef]: Commencement: Reg. 7 in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
+[^c-6d942b5f018eb0bae4dec200a03a09ef]: Commencement: Reg. 7 in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
 
 [^f00008]: Footnote: [S.I. 1999/491](https://www.legislation.gov.uk/uksi/1999/491). Relevantly amended by [S.S.I. 2008/240](https://www.legislation.gov.uk/ssi/2008/240), [S.S.I. 2013/92](https://www.legislation.gov.uk/ssi/2013/92) and [S.S.I. 2014/366](https://www.legislation.gov.uk/ssi/2014/366). The definition of “relevant ABWOR” in regulation 2, regulations 3(3), 4(1A) to (1D), (7), (7B) and (10), 4A(10) and (11) and schedule 1B were inserted by [S.S.I. 2008/240](https://www.legislation.gov.uk/ssi/2008/240). Regulation 4A was inserted by [S.S.I. 2002/247](https://www.legislation.gov.uk/ssi/2002/247).
 
-[^key-e1cdcc7da48e48e574a54c3ab01f08ab]: Commencement: Reg. 8 in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
+[^c-e1cdcc7da48e48e574a54c3ab01f08ab]: Commencement: Reg. 8 in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
 
 [^f00009]: Footnote: [S.S.I. 2003/179](https://www.legislation.gov.uk/ssi/2003/179). Regulation 6A was inserted by [S.S.I. 2006/345](https://www.legislation.gov.uk/ssi/2006/345).
 
-[^key-1b0734de4ce0385135cd03709aa3981f]: Commencement: Reg. 9 in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
+[^c-1b0734de4ce0385135cd03709aa3981f]: Commencement: Reg. 9 in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
 
 [^f00010]: Footnote: [S.S.I. 2008/240](https://www.legislation.gov.uk/ssi/2008/240). Regulation 1A was inserted by [S.S.I. 2022/30](https://www.legislation.gov.uk/ssi/2022/30).
 
-[^key-38219df18d7e837b0f1a0c44e36cd14d]: Commencement: Reg. 10 in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
+[^c-38219df18d7e837b0f1a0c44e36cd14d]: Commencement: Reg. 10 in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
 
 [^f00011]: Footnote: [S.S.I. 2011/163](https://www.legislation.gov.uk/ssi/2011/163). Paragraph (5A) of regulation 7 was inserted by [S.S.I. 2020/191](https://www.legislation.gov.uk/ssi/2020/191). Paragraph (8) of regulation 7 was substituted by [S.S.I. 2022/229](https://www.legislation.gov.uk/ssi/2022/229).
 
 [^f00012]: Footnote: [2016 asp 1](https://www.legislation.gov.uk/asp/2016/1).
 
-[^key-c146ab75ff93f76bf451b937cea8d2fd]: Commencement: Sch. in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)
+[^c-c146ab75ff93f76bf451b937cea8d2fd]: Commencement: Sch. in force at 14.12.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/107/regulation/1/3)

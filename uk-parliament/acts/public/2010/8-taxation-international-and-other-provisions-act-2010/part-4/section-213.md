@@ -24,8 +24,8 @@ summary: ''
 
 (2) Subsection (1) does not apply in relation to claims under section 174.
 
-(3)[^key-43c76bf246a70d52f1578d91239a4000] But a claim under section 174 may not be made if the claim would affect the operation of sections 165A to 165E or 416ZC to 416ZE of CAA 2001.
+(3)[^c-43c76bf246a70d52f1578d91239a4000] But a claim under section 174 may not be made if the claim would affect the operation of sections 165A to 165E or 416ZC to 416ZE of CAA 2001.
 
 ## Annotations
 
-[^key-43c76bf246a70d52f1578d91239a4000]: Textual amendment: S. 213(3) inserted (with effect in accordance with Sch. 32 para. 16 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 32 para. 15](https://www.legislation.gov.uk/ukpga/2013/29/schedule/32/paragraph/15)
+[^c-43c76bf246a70d52f1578d91239a4000]: Textual amendment: S. 213(3) inserted (with effect in accordance with Sch. 32 para. 16 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 32 para. 15](https://www.legislation.gov.uk/ukpga/2013/29/schedule/32/paragraph/15)

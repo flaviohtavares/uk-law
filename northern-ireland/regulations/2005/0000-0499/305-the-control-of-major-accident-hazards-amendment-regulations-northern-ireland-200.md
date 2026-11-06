@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Control of Major Accident Hazards (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-dd0cb38569880bee9b8ce0d39f045869]
+The Control of Major Accident Hazards (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-dd0cb38569880bee9b8ce0d39f045869]
 
 Made
 
@@ -41,27 +41,27 @@ Coming into operation
 
 25th July 2005
 
-[^key-dd0cb38569880bee9b8ce0d39f045869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd0cb38569880bee9b8ce0d39f045869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-dd0cb38569880bee9b8ce0d39f045869]
+## 1. Citation, commencement and interpretation[^c-dd0cb38569880bee9b8ce0d39f045869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Control of Major Accident Hazards Regulations (Northern Ireland) 2000[^key-dd0cb38569880bee9b8ce0d39f045869]
+## 2. Amendment of the Control of Major Accident Hazards Regulations (Northern Ireland) 2000[^c-dd0cb38569880bee9b8ce0d39f045869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd0cb38569880bee9b8ce0d39f045869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd0cb38569880bee9b8ce0d39f045869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — THE SCHEDULE TO BE SUBSTITUTED FOR SCHEDULE 1 TO THE CONTROL OF MAJOR ACCIDENT HAZARDS REGULATIONS (NORTHERN IRELAND) 2000[^key-dd0cb38569880bee9b8ce0d39f045869]
+## SCHEDULE — THE SCHEDULE TO BE SUBSTITUTED FOR SCHEDULE 1 TO THE CONTROL OF MAJOR ACCIDENT HAZARDS REGULATIONS (NORTHERN IRELAND) 2000[^c-dd0cb38569880bee9b8ce0d39f045869]
 
 Regulation 2(11)
 
-> **SCHEDULE 1[^key-dd0cb38569880bee9b8ce0d39f045869]**
+> **SCHEDULE 1[^c-dd0cb38569880bee9b8ce0d39f045869]**
 >
 > DANGEROUS SUBSTANCES TO WHICH THE REGULATIONS APPLY
 >
@@ -69,32 +69,32 @@ Regulation 2(11)
 >
 > Regulations 2(1) and (8) and 3(1)
 >
-> **PART I — introduction[^key-dd0cb38569880bee9b8ce0d39f045869]**
+> **PART I — introduction[^c-dd0cb38569880bee9b8ce0d39f045869]**
 >
-> **1.**[^key-dd0cb38569880bee9b8ce0d39f045869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-dd0cb38569880bee9b8ce0d39f045869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-dd0cb38569880bee9b8ce0d39f045869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-dd0cb38569880bee9b8ce0d39f045869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-dd0cb38569880bee9b8ce0d39f045869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-dd0cb38569880bee9b8ce0d39f045869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-dd0cb38569880bee9b8ce0d39f045869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-dd0cb38569880bee9b8ce0d39f045869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-dd0cb38569880bee9b8ce0d39f045869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-dd0cb38569880bee9b8ce0d39f045869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-dd0cb38569880bee9b8ce0d39f045869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-dd0cb38569880bee9b8ce0d39f045869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-dd0cb38569880bee9b8ce0d39f045869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-dd0cb38569880bee9b8ce0d39f045869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART II — named substances[^key-dd0cb38569880bee9b8ce0d39f045869]**
+> **PART II — named substances[^c-dd0cb38569880bee9b8ce0d39f045869]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART III — categories of substances and preparations not specifically named in part ii[^key-dd0cb38569880bee9b8ce0d39f045869]**
+> **PART III — categories of substances and preparations not specifically named in part ii[^c-dd0cb38569880bee9b8ce0d39f045869]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd0cb38569880bee9b8ce0d39f045869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd0cb38569880bee9b8ce0d39f045869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dd0cb38569880bee9b8ce0d39f045869]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/305) revoked (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [reg. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2015/325/schedule/7) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2))
+[^c-dd0cb38569880bee9b8ce0d39f045869]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/305) revoked (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [reg. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2015/325/schedule/7) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Amendment of the Digital Health and Care Wales (Membership and Procedure) Regulations 2020 (English language text)[^key-76a79bbc518c1fc02755aa40b05071df]
+## 105. Amendment of the Digital Health and Care Wales (Membership and Procedure) Regulations 2020 (English language text)[^c-76a79bbc518c1fc02755aa40b05071df]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-76a79bbc518c1fc02755aa40b05071df]: Commencement: [Reg. 105](https://www.legislation.gov.uk/uksi/2023/1071/regulation/105) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-76a79bbc518c1fc02755aa40b05071df]: Commencement: [Reg. 105](https://www.legislation.gov.uk/uksi/2023/1071/regulation/105) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00084]: Footnote: [S.I. 2020/1469 (W. 315)](https://www.legislation.gov.uk/wsi/2020/1469), to which there are amendments not relevant to these Regulations.

@@ -73,9 +73,9 @@ Provided that nothing in this section—
 
 (1B) Any order under this section may provide for interest to be calculated at different rates in respect of different parts of the period for which interest is given, whether that period is the whole or part of the period mentioned in subsection (1) of this section.
 
-(1C)[^key-5075a11993bff63b0906d611a6b4bf6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1C)[^c-5075a11993bff63b0906d611a6b4bf6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1D) In this section ”personal injuries’ includes any disease and any impairment of a person’s physical or mental condition, [^key-82f6f561bfeda838fe0871a0e28754c5] ...
+(1D) In this section ”personal injuries’ includes any disease and any impairment of a person’s physical or mental condition, [^c-82f6f561bfeda838fe0871a0e28754c5] ...
 
 (2)[^c606401] . . .
 
@@ -123,8 +123,8 @@ Provided that nothing in this section—
 
 [^c606397]: Textual amendment: S. 3(1A)–(1D) inserted by [Administration of Justice Act 1969 (c. 58)](https://www.legislation.gov.uk/ukpga/1969/58), [s. 22](https://www.legislation.gov.uk/ukpga/1969/58/section/22)
 
-[^key-5075a11993bff63b0906d611a6b4bf6c]: Textual amendment: S. 3(1C) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/1) Group 4
+[^c-5075a11993bff63b0906d611a6b4bf6c]: Textual amendment: S. 3(1C) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/1) Group 4
 
-[^key-82f6f561bfeda838fe0871a0e28754c5]: Textual amendment: Words in s. 3(1D) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/1) Group 4
+[^c-82f6f561bfeda838fe0871a0e28754c5]: Textual amendment: Words in s. 3(1D) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/1) Group 4
 
 [^c606401]: Textual amendment: S. 3(2) repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6), [s. 1](https://www.legislation.gov.uk/ukpga/1950/6/section/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1950/6/schedule/1)

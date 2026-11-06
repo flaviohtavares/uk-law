@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation and commencement[^key-c3de336730d895ea662313214827943f]
+## 1. Citation and commencement[^c-c3de336730d895ea662313214827943f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the National Health Service (General Dental Se
 
 ## Annotations
 
-[^key-c3de336730d895ea662313214827943f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-c3de336730d895ea662313214827943f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)

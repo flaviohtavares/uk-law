@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69A. Sub-fund settlements[^key-a806ea81214f5c809c33c9666479f265]
+## 69A. Sub-fund settlements[^c-a806ea81214f5c809c33c9666479f265]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4ZA (which makes provision about sub-fund settlements) shall have effec
 
 ## Annotations
 
-[^key-a806ea81214f5c809c33c9666479f265]: Textual amendment: S. 69A inserted (with effect in accordance with Sch. 12 para. 6(3) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 6(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/6/1)
+[^c-a806ea81214f5c809c33c9666479f265]: Textual amendment: S. 69A inserted (with effect in accordance with Sch. 12 para. 6(3) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 6(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/6/1)

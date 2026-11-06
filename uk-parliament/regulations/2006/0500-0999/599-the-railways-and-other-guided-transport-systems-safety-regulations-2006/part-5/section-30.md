@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to paragraphs (2) and (3), the Office of Rail and Road[^key-9da75ee49f34df33ccb806e8ed0f23b9] may, by certificate in writing, exempt any person or class of persons or any transport system or part of a transport system from any requirement or prohibition imposed by these Regulations.
+(1) Subject to paragraphs (2) and (3), the Office of Rail and Road[^c-9da75ee49f34df33ccb806e8ed0f23b9] may, by certificate in writing, exempt any person or class of persons or any transport system or part of a transport system from any requirement or prohibition imposed by these Regulations.
 
 (2) The Office of Rail and Road shall not grant any such exemption in relation to any requirement or prohibition imposed by Part 2 or 3 in relation to an operation carried out on the mainline railway other than an exemption to an operator of last resort from the requirement to copy the documents referred to in regulation 17(3)(a)(i) and (ii) to an affected party or to notify an affected party as the case may be.
 
@@ -44,4 +44,4 @@ at any time by a further certificate in writing.
 
 ## Annotations
 
-[^key-9da75ee49f34df33ccb806e8ed0f23b9]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/uksi/2006/599/regulation/30) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(u)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/u)
+[^c-9da75ee49f34df33ccb806e8ed0f23b9]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/uksi/2006/599/regulation/30) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(u)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/u)

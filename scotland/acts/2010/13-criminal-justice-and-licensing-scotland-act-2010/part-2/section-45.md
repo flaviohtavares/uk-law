@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Penalties for offences of brothel-keeping and living on the earnings of prostitution[^key-8119ec1a45b478cde6ec428865df0bf8]
+## 45. Penalties for offences of brothel-keeping and living on the earnings of prostitution[^c-8119ec1a45b478cde6ec428865df0bf8]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8119ec1a45b478cde6ec428865df0bf8]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2010/13/section/45) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-8119ec1a45b478cde6ec428865df0bf8]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2010/13/section/45) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

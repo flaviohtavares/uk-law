@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. High-street uses and premises[^key-60ca1fa9a3f939da92910cad745e73d1][^key-118e14edf920d1772d6d2c038e6f2e2f]
+## 192. High-street uses and premises[^c-60ca1fa9a3f939da92910cad745e73d1][^c-118e14edf920d1772d6d2c038e6f2e2f]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ if a contract was entered into under section 204 and a tenancy was granted furth
 
 ## Annotations
 
-[^key-60ca1fa9a3f939da92910cad745e73d1]: Commencement: S. 192 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-60ca1fa9a3f939da92910cad745e73d1]: Commencement: S. 192 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-118e14edf920d1772d6d2c038e6f2e2f]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2023/55/section/192) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)
+[^c-118e14edf920d1772d6d2c038e6f2e2f]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2023/55/section/192) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)

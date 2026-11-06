@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Evidence of grant of probate etc.[^key-09769247d8df461e4efd9cb7ba5767d2]
+## 82. Evidence of grant of probate etc.[^c-09769247d8df461e4efd9cb7ba5767d2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The production to a company of any document which is by law sufficient evidence 
 
 ## Annotations
 
-[^key-09769247d8df461e4efd9cb7ba5767d2]: Commencement: [Reg. 82](https://www.legislation.gov.uk/nisr/2004/335/regulation/82) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-09769247d8df461e4efd9cb7ba5767d2]: Commencement: [Reg. 82](https://www.legislation.gov.uk/nisr/2004/335/regulation/82) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

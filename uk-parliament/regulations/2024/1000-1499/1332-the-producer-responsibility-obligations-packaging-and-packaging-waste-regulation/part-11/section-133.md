@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Delegation of approved persons’ functions[^key-e7a91d7ba894748daadb1bc1b3eb43bf]
+## 133. Delegation of approved persons’ functions[^c-e7a91d7ba894748daadb1bc1b3eb43bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7a91d7ba894748daadb1bc1b3eb43bf]: Commencement: Reg. 133 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-e7a91d7ba894748daadb1bc1b3eb43bf]: Commencement: Reg. 133 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

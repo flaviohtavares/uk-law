@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: N.I.*
 
-**19.**[^key-43da089512244a71ac36b958f60030fd] In the italic heading before section 119 for “*Widows' and Children’s Pensions*” substitute “*Widows', Surviving Civil Partners' and Children’s Pensions*”.
+**19.**[^c-43da089512244a71ac36b958f60030fd] In the italic heading before section 119 for “*Widows' and Children’s Pensions*” substitute “*Widows', Surviving Civil Partners' and Children’s Pensions*”.
 
 ## Annotations
 
-[^key-43da089512244a71ac36b958f60030fd]: Commencement: Art. 19 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-43da089512244a71ac36b958f60030fd]: Commencement: Art. 19 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

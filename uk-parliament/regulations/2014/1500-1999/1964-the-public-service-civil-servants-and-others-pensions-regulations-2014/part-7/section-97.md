@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Option for pension credit member to commute part of pension[^key-a4e21107167ce3698384a65c5206cdf9]
+## 97. Option for pension credit member to commute part of pension[^c-a4e21107167ce3698384a65c5206cdf9]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4e21107167ce3698384a65c5206cdf9]: Commencement: [Reg. 97](https://www.legislation.gov.uk/uksi/2014/1964/regulation/97) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-a4e21107167ce3698384a65c5206cdf9]: Commencement: [Reg. 97](https://www.legislation.gov.uk/uksi/2014/1964/regulation/97) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

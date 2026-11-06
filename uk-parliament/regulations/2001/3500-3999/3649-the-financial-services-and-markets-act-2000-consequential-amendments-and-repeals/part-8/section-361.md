@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 361. Meaning of “financial institution”[^key-3ad14e407261b1cd9ba5ca3a72ec7568]
+## 361. Meaning of “financial institution”[^c-3ad14e407261b1cd9ba5ca3a72ec7568]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ad14e407261b1cd9ba5ca3a72ec7568]: Commencement: Art. 361 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-3ad14e407261b1cd9ba5ca3a72ec7568]: Commencement: Art. 361 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00255]: Footnote: Sub-paragraph (1) was amended by [S.I. 2000/2952](https://www.legislation.gov.uk/uksi/2000/2952).

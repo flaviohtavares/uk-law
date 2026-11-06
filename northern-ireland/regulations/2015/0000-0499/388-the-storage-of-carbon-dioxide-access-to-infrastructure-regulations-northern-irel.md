@@ -40,15 +40,15 @@ Coming into operation
 
 4th January 2016
 
-The Department of Enterprise, Trade and Investment is a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the environment.[^key-c67f37c4dd41db253121bf516a3e5d30]
+The Department of Enterprise, Trade and Investment is a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the environment.[^c-c67f37c4dd41db253121bf516a3e5d30]
 
-The Department of Enterprise, Trade and Investment makes these Regulations in exercise of the powers conferred by section 2(2) of that Act.[^key-c67f37c4dd41db253121bf516a3e5d30]
+The Department of Enterprise, Trade and Investment makes these Regulations in exercise of the powers conferred by section 2(2) of that Act.[^c-c67f37c4dd41db253121bf516a3e5d30]
 
-## 1. Citation and commencement[^key-96d35600672c3eb3869f504470a8e757]
+## 1. Citation and commencement[^c-96d35600672c3eb3869f504470a8e757]
 
 These Regulations may be cited as the Storage of Carbon Dioxide (Access to Infrastructure) Regulations (Northern Ireland) 2015, and come into operation on 4th January 2016.
 
-## 2. Interpretation[^key-759e209dd7deea815ab6831e0fa907d3]
+## 2. Interpretation[^c-759e209dd7deea815ab6831e0fa907d3]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] applies to these Regulations as it applies to an Act of the Assembly.
 
@@ -94,7 +94,7 @@ These Regulations may be cited as the Storage of Carbon Dioxide (Access to Infra
 - “CO<sub>2</sub> stream”;
 - “storage site”.
 
-## 3. Meaning of “owner”[^key-ab087ef55573c8f65aa6499acfd1d805]
+## 3. Meaning of “owner”[^c-ab087ef55573c8f65aa6499acfd1d805]
 
 (1) Except as provided in paragraph (2), in these Regulations “owner”, in relation to relevant infrastructure, means any of the following—
 
@@ -119,7 +119,7 @@ These Regulations may be cited as the Storage of Carbon Dioxide (Access to Infra
 
 (3) In this regulation “storage licence” means the licence under which the use of a place as the storage site is authorised.
 
-## 4. Meaning of “associate”[^key-0383a7ac0b23e4b1a825144ea2b4e097]
+## 4. Meaning of “associate”[^c-0383a7ac0b23e4b1a825144ea2b4e097]
 
 (1) For the purposes of regulations 11(7), 11(9) and 16(3) a person is an associate of another if—
 
@@ -150,7 +150,7 @@ and paragraphs (2) to (6) set out the circumstances in which one person (“A”
 - (a) any rights and powers possessed by a person as nominee for it; and
 - (b) any rights and powers possessed by a body corporate which it controls (including rights and powers which such a body corporate would be taken to possess by virtue of this paragraph).
 
-## 5. Meaning of “pipe-line”[^key-78e95a085ff30a91a4c9cee7d4aaec95]
+## 5. Meaning of “pipe-line”[^c-78e95a085ff30a91a4c9cee7d4aaec95]
 
 (1) Subject to paragraph (2), in these Regulations “pipe-line” means a pipe or system of pipes for the conveyance of any thing, together with any apparatus and works associated with such a pipe or system.
 
@@ -174,7 +174,7 @@ and paragraphs (2) to (6) set out the circumstances in which one person (“A”
 
 (4) In paragraph (3)(g), the reference to a pipe, or system of pipes, which is used to convey carbon dioxide includes a pipe or system which is not being used for any purpose but which is intended to be used to convey carbon dioxide.
 
-## 6. Relevant storage site: variation conditions[^key-994bc1398cb59c017cc43123c2edad41]
+## 6. Relevant storage site: variation conditions[^c-994bc1398cb59c017cc43123c2edad41]
 
 (1) Subject to paragraph (5), this regulation applies where an application for a storage permit in respect of a relevant storage site is considered by the Department.
 
@@ -197,7 +197,7 @@ and paragraphs (2) to (6) set out the circumstances in which one person (“A”
 - (d) the Health and Safety Executive for Northern Ireland;
 - (e) the planning authority or, in the case of an offshore relevant storage site, the Crown Estate Commissioners.
 
-## 7. Pipe-line variation notices[^key-3f0d7f2936df37e5042e034485a331ed]
+## 7. Pipe-line variation notices[^c-3f0d7f2936df37e5042e034485a331ed]
 
 (1) Where a person proposes to make an application for the grant of planning permission for the construction of a relevant pipe-line or, in the case of an offshore relevant pipe-line, the grant of a Crown lease, the person shall give not less than six months’ notice to the Department that such application is to be made.
 
@@ -230,7 +230,7 @@ and paragraphs (2) to (6) set out the circumstances in which one person (“A”
 
 (6) The Department shall serve a copy of the pipe-line variation notice on the planning authority or, in the case of an offshore relevant pipe-line, the Crown Estate Commissioners.
 
-## 8. Notices relating to costs etc.[^key-4f34e6fd980c065b56a9ca7a18961e6b]
+## 8. Notices relating to costs etc.[^c-4f34e6fd980c065b56a9ca7a18961e6b]
 
 (1) Subject to regulation 9(2), where a storage permit is granted subject to a variation condition or a pipe-line variation notice has been served, the Department may serve a notice in accordance with paragraph (2) on—
 
@@ -246,7 +246,7 @@ and paragraphs (2) to (6) set out the circumstances in which one person (“A”
 
 (3) In paragraph (2) “specified” means specified in the notice.
 
-## 9. Acquisition of rights to use proposed relevant infrastructure[^key-f510743d2d08acafdb2243b6d979dc41]
+## 9. Acquisition of rights to use proposed relevant infrastructure[^c-f510743d2d08acafdb2243b6d979dc41]
 
 (1) Where a relevant storage site is proposed to be constructed pursuant to a storage permit to which a variation condition is attached or a pipe-line variation notice has been served in respect of the proposed construction of a relevant pipe-line, any person other than the holder may make an application to the Department under regulation 11(4) in respect of the proposed relevant infrastructure.
 
@@ -254,13 +254,13 @@ and paragraphs (2) to (6) set out the circumstances in which one person (“A”
 
 (3) In the circumstances set out in paragraphs (1) and (2), regulations 11 and 12 have effect as if references to relevant infrastructure were references to the infrastructure as it would be once constructed in accordance with the variation condition or pipe-line variation notice, and as if references to the owner of the relevant infrastructure were references to the person who will be the owner of the proposed infrastructure.
 
-## 10. Pipe-line diversions[^key-ddae732c5756d0574acf4a5d805ac899]
+## 10. Pipe-line diversions[^c-ddae732c5756d0574acf4a5d805ac899]
 
 (1) If, in respect of a length of proposed relevant pipe-line, a pipe-line variation notice has been served and that pipe-line is to be diverted, the pipe-line shall continue for the purposes of and after the diversion to be subject to any direction contained in the pipe-line variation notice.
 
 (2) If, in respect of a length of relevant pipe-line, any requirements are imposed by virtue of a modification notice and the pipe-line is to be diverted or is subsequently diverted, the pipe-line shall continue for the purposes of and after the diversion to be subject to any requirements imposed by the notice.
 
-## 11. Acquisition of rights to use relevant infrastructure[^key-4874b0b8210d3379e2d095554e2cfeec]
+## 11. Acquisition of rights to use relevant infrastructure[^c-4874b0b8210d3379e2d095554e2cfeec]
 
 (1) This regulation applies where—
 
@@ -330,7 +330,7 @@ and references in these Regulations to the “access application” are to the a
 
 (13) An access notice does not have effect unless and until the applicant has given notice to the Department and owner of acceptance of the terms of the access notice in such manner and within such period as is specified in that notice.
 
-## 12. Compulsory modifications of relevant infrastructure[^key-3e3214b4d868a11029f07d844af7d2dc]
+## 12. Compulsory modifications of relevant infrastructure[^c-3e3214b4d868a11029f07d844af7d2dc]
 
 (1) This regulation applies where—
 
@@ -377,7 +377,7 @@ and references in these Regulations to the “access application” are to the a
 
 (11) A modification notice does not have effect unless and until the Department has served an access notice in respect of the relevant infrastructure that is the subject of the access application.
 
-## 13. Variation of access notices and modification notices[^key-a5332154305754a91e89879d53def764]
+## 13. Variation of access notices and modification notices[^c-a5332154305754a91e89879d53def764]
 
 (1) Subject to paragraph (2), an access notice or a modification notice may be varied or set aside by the agreement of all the persons on whom it was served.
 
@@ -396,7 +396,7 @@ and references in these Regulations to the “access application” are to the a
 
 (6) For the purposes of this regulation, an access notice or a modification notice is to be treated as having been served on a person (“P”) if there has been assigned to P a right which is secured by the notice.
 
-## 14. Powers of the Department to require information[^key-a4e14e7ff347d65227a573e3d1cd23a9]
+## 14. Powers of the Department to require information[^c-a4e14e7ff347d65227a573e3d1cd23a9]
 
 (1) The Department may by notice require any person listed in paragraph (2) to provide the Department with specified information for the purpose of enabling the Department to decide—
 
@@ -428,7 +428,7 @@ and references in these Regulations to the “access application” are to the a
 
 (7) In this regulation “specified” means specified in a notice under paragraph (1) or (3).
 
-## 15. Effect of access notice and modification notice on other consent regimes[^key-0320bcefb8d9df367bfff51a6551b7b1]
+## 15. Effect of access notice and modification notice on other consent regimes[^c-0320bcefb8d9df367bfff51a6551b7b1]
 
 (1) The use of relevant infrastructure by any person in accordance with a right secured to that person by virtue of these Regulations is not a contravention of section 17(1) of the Energy Act 2008.
 
@@ -439,7 +439,7 @@ and references in these Regulations to the “access application” are to the a
 
 (3) Paragraph (2) does not apply to the extent that a modification notice has been varied by agreement pursuant to regulation 13(1).
 
-## 16. Publication of capacity information[^key-efdec2a2e45c66c5d925e91f4b174cb2]
+## 16. Publication of capacity information[^c-efdec2a2e45c66c5d925e91f4b174cb2]
 
 (1) The owner of relevant infrastructure shall publish—
 
@@ -462,7 +462,7 @@ and references in these Regulations to the “access application” are to the a
 
 (4) If there is no capacity which is or can reasonably be made available, as described in paragraph (3)(a), the owner is not required to publish the information referred to in paragraph (3)(b).
 
-## 17. Provision of false information[^key-e38829550debb4fc52ec540c11e955c8]
+## 17. Provision of false information[^c-e38829550debb4fc52ec540c11e955c8]
 
 (1) A person (“P”) is guilty of an offence if, in circumstances falling within paragraph (2), P provides false information to the Department for the purpose of—
 
@@ -483,7 +483,7 @@ and references in these Regulations to the “access application” are to the a
 
 (5) For the purposes of this regulation and regulation 18, section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited” and, where the affairs of a body corporate are managed by its members, applies in relation to the acts or defaults of a member in connection with the member’s functions of management as if the member were a director of the body corporate.
 
-## 18. Compliance with pipe-line variation notices[^key-71569e385f42be680391748c6c35078f]
+## 18. Compliance with pipe-line variation notices[^c-71569e385f42be680391748c6c35078f]
 
 (1) A person (“P”) is guilty of an offence if—
 
@@ -497,7 +497,7 @@ and references in these Regulations to the “access application” are to the a
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine.
 
-## 19. Civil proceedings[^key-78b88e105e22baaba7bfa88da1486f49]
+## 19. Civil proceedings[^c-78b88e105e22baaba7bfa88da1486f49]
 
 (1) The obligation of a person to comply with a notice under regulation 8(1), an access notice or a modification notice is a duty owed to any person who may be affected by a contravention of the notice.
 
@@ -557,11 +557,11 @@ Regulation 19 provides that the duty of a person to comply with a notice under r
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-c67f37c4dd41db253121bf516a3e5d30]: Modification: Regulations: power to amend or revoke conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 128](https://www.legislation.gov.uk/ukpga/2023/52/section/128), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-c67f37c4dd41db253121bf516a3e5d30]: Modification: Regulations: power to amend or revoke conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 128](https://www.legislation.gov.uk/ukpga/2023/52/section/128), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-96d35600672c3eb3869f504470a8e757]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-96d35600672c3eb3869f504470a8e757]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-759e209dd7deea815ab6831e0fa907d3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/388/regulation/2) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-759e209dd7deea815ab6831e0fa907d3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/388/regulation/2) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
@@ -575,40 +575,40 @@ Regulation 19 provides that the duty of a person to comply with a notice under r
 
 [^f00008]: Footnote: [S.R. 2015 No. 387](https://www.legislation.gov.uk/nisr/2015/387).
 
-[^key-ab087ef55573c8f65aa6499acfd1d805]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/388/regulation/3) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-ab087ef55573c8f65aa6499acfd1d805]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/388/regulation/3) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-0383a7ac0b23e4b1a825144ea2b4e097]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/388/regulation/4) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-0383a7ac0b23e4b1a825144ea2b4e097]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/388/regulation/4) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-78e95a085ff30a91a4c9cee7d4aaec95]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/388/regulation/5) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-78e95a085ff30a91a4c9cee7d4aaec95]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/388/regulation/5) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
 [^f00009]: Footnote: [1965 c. 20 (N.I.)](https://www.legislation.gov.uk/apni/1965/20).
 
 [^f00010]: Footnote: [1949 c. 2 (N.I.)](https://www.legislation.gov.uk/apni/1949/2).
 
-[^key-994bc1398cb59c017cc43123c2edad41]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/388/regulation/6) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-994bc1398cb59c017cc43123c2edad41]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/388/regulation/6) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-3f0d7f2936df37e5042e034485a331ed]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2015/388/regulation/7) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-3f0d7f2936df37e5042e034485a331ed]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2015/388/regulation/7) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-4f34e6fd980c065b56a9ca7a18961e6b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/388/regulation/8) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-4f34e6fd980c065b56a9ca7a18961e6b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/388/regulation/8) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-f510743d2d08acafdb2243b6d979dc41]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/388/regulation/9) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-f510743d2d08acafdb2243b6d979dc41]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/388/regulation/9) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-ddae732c5756d0574acf4a5d805ac899]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/388/regulation/10) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-ddae732c5756d0574acf4a5d805ac899]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/388/regulation/10) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-4874b0b8210d3379e2d095554e2cfeec]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2015/388/regulation/11) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-4874b0b8210d3379e2d095554e2cfeec]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2015/388/regulation/11) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-3e3214b4d868a11029f07d844af7d2dc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/388/regulation/12) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-3e3214b4d868a11029f07d844af7d2dc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/388/regulation/12) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-a5332154305754a91e89879d53def764]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2015/388/regulation/13) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-a5332154305754a91e89879d53def764]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2015/388/regulation/13) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-a4e14e7ff347d65227a573e3d1cd23a9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/388/regulation/14) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-a4e14e7ff347d65227a573e3d1cd23a9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/388/regulation/14) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-0320bcefb8d9df367bfff51a6551b7b1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2015/388/regulation/15) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-0320bcefb8d9df367bfff51a6551b7b1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2015/388/regulation/15) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-efdec2a2e45c66c5d925e91f4b174cb2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2015/388/regulation/16) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-efdec2a2e45c66c5d925e91f4b174cb2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2015/388/regulation/16) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-e38829550debb4fc52ec540c11e955c8]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/388/regulation/17) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-e38829550debb4fc52ec540c11e955c8]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/388/regulation/17) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-71569e385f42be680391748c6c35078f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/388/regulation/18) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-71569e385f42be680391748c6c35078f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/388/regulation/18) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
 
-[^key-78b88e105e22baaba7bfa88da1486f49]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2015/388/regulation/19) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)
+[^c-78b88e105e22baaba7bfa88da1486f49]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2015/388/regulation/19) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/388/regulation/1)

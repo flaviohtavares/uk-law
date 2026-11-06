@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 10(1) of, and paragraphs 1, 3, 3A, 4, 5 and 6(2)(*d*) of Schedule 3 to, the Health and Personal Social Services (Northern Ireland) Order 1991[^f00001] and of all other powers enabling it in that behalf, having consulted the persons or bodies referred to in Article 10(2) of that Order, hereby makes the following order:
 
-## 1. Citation, commencement and interpretation[^key-e1fb2a978a47b5b9c680182ebf052855]
+## 1. Citation, commencement and interpretation[^c-e1fb2a978a47b5b9c680182ebf052855]
 
 (1) This order may be cited as the Sperrin Lakeland Health and Social Services Trust (Establishment) Order (Northern Ireland) 1996 and shall come into operation on 25th March 1996.
 
@@ -53,11 +53,11 @@ The Department of Health and Social Services, in exercise of the powers conferre
 - “relevant functions” has the meaning assigned to it by Article 3(2) of the Health and Personal Social Services (Northern Ireland) Order 1994[^f00002];
 - “the trust” means the Sperrin Lakeland Health and Social Services Trust established by Article 2.
 
-## 2. Establishment of the trust[^key-37bf5e7e36f12910e159ffdab5ab88fb]
+## 2. Establishment of the trust[^c-37bf5e7e36f12910e159ffdab5ab88fb]
 
 There is hereby established an HSS trust which shall be called the Sperrin Lakeland Health and Social Services Trust.
 
-## 3. Nature and functions of the trust[^key-05577983e460b28f8d2243e6ab038d8f]
+## 3. Nature and functions of the trust[^c-05577983e460b28f8d2243e6ab038d8f]
 
 (1) The trust is established for the purposes specified in Article 10(1) of the Order.
 
@@ -67,22 +67,22 @@ There is hereby established an HSS trust which shall be called the Sperrin Lakel
 - (b) to manage community-based health and personal social services provided from Sperrin Lakeland Unit, 15 Elliott Place, Enniskillen, Co. Fermanagh BT74 7HQ and to own those and any associated premises; and
 - (c) to exercise, on behalf of Health and Social Services Boards, such relevant functions as are so exercisable by the trust by virtue of authorisations for the time being in operation under Article 3(1) of the Health and Personal Social Services (Northern Ireland) Order 1994.
 
-## 4. Operational area of the trust[^key-1f47a1b2abf795d51388fbd2c89070d8]
+## 4. Operational area of the trust[^c-1f47a1b2abf795d51388fbd2c89070d8]
 
 The operational area of the trust shall be—
 
 - (a) for the purposes of the statutory provisions specified in Part I of the Schedule, the local government districts of Fermanagh, Omagh and the following wards in the local government district of Strabane, that is to say Castlederg, Clare, the following townlands in the ward of Finn, that is to say Ballyfolliard, Creevy Lower, Creevy Upper, Dunrevan, Erganagh, Inisclan, Listymore, Lurganboy, Priestsessagh, Tullydoortans and Tullywhisker, the wards of Glenderg, Newtownstewart, Plumbridge (with the exception of the following townlands, that is to say Ballykerry and Meendamph) and the following townlands in the ward of Victoria Bridge, that is to say Ardstraw, Beagh, Brocklis, Carnkenny, Clady Blair, Clady Haliday, Fyfin, Glenglush, Kileen, Kilstrull, Kinkit, Knockiniller, Knockroe, Ligfordrum, Miltown, Skinboy, Stonewalls, Stoneyfalls, Tievenny and Urbalreagh;
 - (b) for the purposes of the statutory provisions specified in Part II of the Schedule, Northern Ireland.
 
-## 5. Directors of the trust[^key-edf0c9a9195bab867594f84645739ddb]
+## 5. Directors of the trust[^c-edf0c9a9195bab867594f84645739ddb]
 
 The trust shall have, in addition to the chairman, 5 non-executive directors and 5 executive directors.
 
-## 6. Operational date of the trust[^key-1b94887e788919dcc5c1b61c6261b3dc]
+## 6. Operational date of the trust[^c-1b94887e788919dcc5c1b61c6261b3dc]
 
 The operational date of the trust shall be 1st April 1996.
 
-## 7. Limited functions before operational date[^key-a6c2c5aa2be37b29e6328dec94da5fe3]
+## 7. Limited functions before operational date[^c-a6c2c5aa2be37b29e6328dec94da5fe3]
 
 Between its establishment and operational date, the trust shall have the limited functions of—
 
@@ -92,7 +92,7 @@ Between its establishment and operational date, the trust shall have the limited
 
 for the purpose of enabling it to begin to operate satisfactorily with effect from its operational date.
 
-## 8. Assistance by a relevant body before operational date[^key-e0cf679b1ba2d0b4b50c2bea62347551]
+## 8. Assistance by a relevant body before operational date[^c-e0cf679b1ba2d0b4b50c2bea62347551]
 
 (1) The Western Health and Social Services Board shall—
 
@@ -110,7 +110,7 @@ for the purpose of enabling it to begin to operate satisfactorily with effect fr
 
 (4) The relevant body specified for the purposes of paragraph 3(1)(*f*) of Schedule 3 to the Order (relevant body which is to make the scheme under Article 11 of the Order for the transfer of staff) in relation to the trust shall be the Western Health and Social Services Board.
 
-## 9. Restriction on disposal of assets[^key-9c2249d4bae77ab39ef6275ad369f68d]
+## 9. Restriction on disposal of assets[^c-9c2249d4bae77ab39ef6275ad369f68d]
 
 The sum specified for the purposes of paragraph 6(2)(*d*) of Schedule 3 to the Order (maximum value of freely disposable assets) in relation to the trust shall be £500,000.
 
@@ -126,7 +126,7 @@ Assistant Secretary
 
 Article 4
 
-### Part I[^key-e8c4b559ba2ceaed302de416d34352f0]
+### Part I[^c-e8c4b559ba2ceaed302de416d34352f0]
 
 | *Statutory Provision* | *Relevant Function* |
 | --- | --- |
@@ -139,7 +139,7 @@ Article 4
 | Adoption (Northern Ireland) Order 1987[^f00009] | All relevant functions |
 | Disabled Persons (Northern Ireland) Act 1989[^f00010] | All relevant functions |
 
-### Part II[^key-b64bf9b32bfef612065b4277d6cb2a3c]
+### Part II[^c-b64bf9b32bfef612065b4277d6cb2a3c]
 
 | *Statutory Provision* | *Relevant Function* |
 | --- | --- |
@@ -161,27 +161,27 @@ The order also specifies the operational date of the trust (Article 6) and makes
 
 [^f00001]: Footnote: S.I. [1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194); Article 10(1) was amended, and paragraph 3A of Schedule 3 was inserted, by S.I. [1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429); paragraph 1 of Schedule 3 is cited for the definition of “an order”
 
-[^key-e1fb2a978a47b5b9c680182ebf052855]: Commencement: Art. 1 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
+[^c-e1fb2a978a47b5b9c680182ebf052855]: Commencement: Art. 1 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
 
 [^f00002]: Footnote: S.I. [1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429); the relevant functions are specified in [S.R. 1994 No. 64](https://www.legislation.gov.uk/nisr/1994/64)
 
-[^key-37bf5e7e36f12910e159ffdab5ab88fb]: Commencement: Art. 2 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
+[^c-37bf5e7e36f12910e159ffdab5ab88fb]: Commencement: Art. 2 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
 
-[^key-05577983e460b28f8d2243e6ab038d8f]: Commencement: Art. 3 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
+[^c-05577983e460b28f8d2243e6ab038d8f]: Commencement: Art. 3 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
 
-[^key-1f47a1b2abf795d51388fbd2c89070d8]: Commencement: Art. 4 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
+[^c-1f47a1b2abf795d51388fbd2c89070d8]: Commencement: Art. 4 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
 
-[^key-edf0c9a9195bab867594f84645739ddb]: Commencement: Art. 5 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
+[^c-edf0c9a9195bab867594f84645739ddb]: Commencement: Art. 5 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
 
-[^key-1b94887e788919dcc5c1b61c6261b3dc]: Commencement: Art. 6 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
+[^c-1b94887e788919dcc5c1b61c6261b3dc]: Commencement: Art. 6 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
 
-[^key-a6c2c5aa2be37b29e6328dec94da5fe3]: Commencement: Art. 7 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
+[^c-a6c2c5aa2be37b29e6328dec94da5fe3]: Commencement: Art. 7 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
 
-[^key-e0cf679b1ba2d0b4b50c2bea62347551]: Commencement: Art. 8 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
+[^c-e0cf679b1ba2d0b4b50c2bea62347551]: Commencement: Art. 8 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
 
-[^key-9c2249d4bae77ab39ef6275ad369f68d]: Commencement: Art. 9 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
+[^c-9c2249d4bae77ab39ef6275ad369f68d]: Commencement: Art. 9 in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
 
-[^key-e8c4b559ba2ceaed302de416d34352f0]: Commencement: Sch. Pt. I in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
+[^c-e8c4b559ba2ceaed302de416d34352f0]: Commencement: Sch. Pt. I in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
 
 [^f00003]: Footnote: [1968 c. 34 (N.I.)](https://www.legislation.gov.uk/apni/1968/34)
 
@@ -199,4 +199,4 @@ The order also specifies the operational date of the trust (Article 6) and makes
 
 [^f00010]: Footnote: [1989 c. 10](https://www.legislation.gov.uk/ukpga/1989/10)
 
-[^key-b64bf9b32bfef612065b4277d6cb2a3c]: Commencement: Sch. Pt. II in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)
+[^c-b64bf9b32bfef612065b4277d6cb2a3c]: Commencement: Sch. Pt. II in operation at 25.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/116/article/1/1)

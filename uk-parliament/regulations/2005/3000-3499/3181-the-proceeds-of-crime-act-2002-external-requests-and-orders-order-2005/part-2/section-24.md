@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Appeal to Supreme Court about external orders[^key-4ff31a42d9e8941d588f2c07abf529fc][^key-becb690ec8b27f5d90ba4228e0819678]
+## 24. Appeal to Supreme Court about external orders[^c-4ff31a42d9e8941d588f2c07abf529fc][^c-becb690ec8b27f5d90ba4228e0819678]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ff31a42d9e8941d588f2c07abf529fc]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2005/3181/article/24) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-4ff31a42d9e8941d588f2c07abf529fc]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2005/3181/article/24) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-becb690ec8b27f5d90ba4228e0819678]: Textual amendment: Words in [art. 24](https://www.legislation.gov.uk/uksi/2005/3181/article/24) substituted (6.6.2011) by [The Constitutional Reform Act 2005 (Consequential Amendments) Order 2011 (S.I. 2011/1242)](https://www.legislation.gov.uk/uksi/2011/1242), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1242/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2011/1242/article/8/2)
+[^c-becb690ec8b27f5d90ba4228e0819678]: Textual amendment: Words in [art. 24](https://www.legislation.gov.uk/uksi/2005/3181/article/24) substituted (6.6.2011) by [The Constitutional Reform Act 2005 (Consequential Amendments) Order 2011 (S.I. 2011/1242)](https://www.legislation.gov.uk/uksi/2011/1242), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1242/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2011/1242/article/8/2)

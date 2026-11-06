@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Extension of 2016 Act[^key-98a62775a60e34979995fd119850b9a2][^key-b9690664f802a57d2244827835c5ad66]
+## 63. Extension of 2016 Act[^c-98a62775a60e34979995fd119850b9a2][^c-b9690664f802a57d2244827835c5ad66]
 
 *Extent: N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-98a62775a60e34979995fd119850b9a2]: Commencement: S. 63 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-98a62775a60e34979995fd119850b9a2]: Commencement: S. 63 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-b9690664f802a57d2244827835c5ad66]: Textual amendment: [S. 63](https://www.legislation.gov.uk/nia/2014/8/section/63) substituted (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 7 para. 5](https://www.legislation.gov.uk/nia/2016/4/schedule/7/paragraph/5) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/2/paragraph/9))
+[^c-b9690664f802a57d2244827835c5ad66]: Textual amendment: [S. 63](https://www.legislation.gov.uk/nia/2014/8/section/63) substituted (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 7 para. 5](https://www.legislation.gov.uk/nia/2016/4/schedule/7/paragraph/5) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/2/paragraph/9))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 125. Further provision as to claims[^key-55037923f212cb8330a5be40699074d5]
+## 125. Further provision as to claims[^c-55037923f212cb8330a5be40699074d5]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55037923f212cb8330a5be40699074d5]: Commencement: [S. 125](https://www.legislation.gov.uk/asp/2016/21/section/125) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-55037923f212cb8330a5be40699074d5]: Commencement: [S. 125](https://www.legislation.gov.uk/asp/2016/21/section/125) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

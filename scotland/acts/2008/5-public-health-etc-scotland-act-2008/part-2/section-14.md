@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Health risk states: duties on registered medical practitioners[^key-7f867b4a4b17171777e28a71d3ad0be1]
+## 14. Health risk states: duties on registered medical practitioners[^c-7f867b4a4b17171777e28a71d3ad0be1]
 
 *Extent: S*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f867b4a4b17171777e28a71d3ad0be1]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2008/5/section/14) in force at 1.1.2010 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)
+[^c-7f867b4a4b17171777e28a71d3ad0be1]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2008/5/section/14) in force at 1.1.2010 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)

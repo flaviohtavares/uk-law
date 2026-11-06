@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Power to give directions to the College[^key-97ee2ceec0d8f2a3b0be8caa51a5054a]
+## 126. Power to give directions to the College[^c-97ee2ceec0d8f2a3b0be8caa51a5054a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ After section 40B of the Police Act 1996 there is inserted—
 
 ## Annotations
 
-[^key-97ee2ceec0d8f2a3b0be8caa51a5054a]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2014/12/section/126) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)
+[^c-97ee2ceec0d8f2a3b0be8caa51a5054a]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2014/12/section/126) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)

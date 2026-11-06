@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94B. Interpretation of expressions used in the definition of “flight restriction zone of a protected aerodrome”[^key-90cb6872f1057b7dd05fb8b18b45caf2][^key-66643e9782e343c2ccbeefef9fef2639][^key-bf68e479d6d963e493b6a10763f34329]
+## 94B. Interpretation of expressions used in the definition of “flight restriction zone of a protected aerodrome”[^c-90cb6872f1057b7dd05fb8b18b45caf2][^c-66643e9782e343c2ccbeefef9fef2639][^c-bf68e479d6d963e493b6a10763f34329]
 
 *Extent: E+W+S+N.I.*
 
-(1) This article makes provision about the meaning of expressions used in the definition of “flight restriction zone of a protected aerodrome”[^key-137a5028259d4b0326324cae37be0e84] in article 94A(7) that applies in relation to a protected aerodrome which is—
+(1) This article makes provision about the meaning of expressions used in the definition of “flight restriction zone of a protected aerodrome”[^c-137a5028259d4b0326324cae37be0e84] in article 94A(7) that applies in relation to a protected aerodrome which is—
 
-- (a) an [^key-6ac3d41bac259dfe40bb367186bd08e2]... certified aerodrome,
+- (a) an [^c-6ac3d41bac259dfe40bb367186bd08e2]... certified aerodrome,
 - (b) a Government aerodrome, or
 - (c) a national licensed aerodrome,
 
@@ -63,12 +63,12 @@ that is neither within the aerodrome traffic zone nor within any runway protecti
 
 ## Annotations
 
-[^key-90cb6872f1057b7dd05fb8b18b45caf2]: Textual amendment: Arts. 94A, 94B substituted (13.3.2019) by [The Air Navigation (Amendment) Order 2019 (S.I. 2019/261)](https://www.legislation.gov.uk/uksi/2019/261), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/261/article/1/2), [4](https://www.legislation.gov.uk/uksi/2019/261/article/4)
+[^c-90cb6872f1057b7dd05fb8b18b45caf2]: Textual amendment: Arts. 94A, 94B substituted (13.3.2019) by [The Air Navigation (Amendment) Order 2019 (S.I. 2019/261)](https://www.legislation.gov.uk/uksi/2019/261), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/261/article/1/2), [4](https://www.legislation.gov.uk/uksi/2019/261/article/4)
 
-[^key-66643e9782e343c2ccbeefef9fef2639]: Textual amendment: Arts. 94A-94G inserted (30.7.2018 for specified purposes, 30.11.2019 in so far as not already in force) by [The Air Navigation (Amendment) Order 2018 (S.I. 2018/623)](https://www.legislation.gov.uk/uksi/2018/623), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/623/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2018/623/regulation/1/4), [7](https://www.legislation.gov.uk/uksi/2018/623/article/7)
+[^c-66643e9782e343c2ccbeefef9fef2639]: Textual amendment: Arts. 94A-94G inserted (30.7.2018 for specified purposes, 30.11.2019 in so far as not already in force) by [The Air Navigation (Amendment) Order 2018 (S.I. 2018/623)](https://www.legislation.gov.uk/uksi/2018/623), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/623/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2018/623/regulation/1/4), [7](https://www.legislation.gov.uk/uksi/2018/623/article/7)
 
-[^key-bf68e479d6d963e493b6a10763f34329]: Textual amendment: Words in [art. 94B](https://www.legislation.gov.uk/uksi/2016/765/article/94B) heading substituted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/879/article/5/2)
+[^c-bf68e479d6d963e493b6a10763f34329]: Textual amendment: Words in [art. 94B](https://www.legislation.gov.uk/uksi/2016/765/article/94B) heading substituted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/879/article/5/2)
 
-[^key-137a5028259d4b0326324cae37be0e84]: Textual amendment: Words in [art. 94B(1)](https://www.legislation.gov.uk/uksi/2016/765/article/94B/1) substituted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/879/article/5/2)
+[^c-137a5028259d4b0326324cae37be0e84]: Textual amendment: Words in [art. 94B(1)](https://www.legislation.gov.uk/uksi/2016/765/article/94B/1) substituted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/879/article/5/2)
 
-[^key-6ac3d41bac259dfe40bb367186bd08e2]: Textual amendment: Word in [art. 94B(1)(a)](https://www.legislation.gov.uk/uksi/2016/765/article/94B/1/a) omitted (31.12.2020) by virtue of [The Unmanned Aircraft (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1593)](https://www.legislation.gov.uk/uksi/2020/1593), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1593/regulation/1/2), [85(3)](https://www.legislation.gov.uk/uksi/2020/1593/regulation/85/3)
+[^c-6ac3d41bac259dfe40bb367186bd08e2]: Textual amendment: Word in [art. 94B(1)(a)](https://www.legislation.gov.uk/uksi/2016/765/article/94B/1/a) omitted (31.12.2020) by virtue of [The Unmanned Aircraft (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1593)](https://www.legislation.gov.uk/uksi/2020/1593), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1593/regulation/1/2), [85(3)](https://www.legislation.gov.uk/uksi/2020/1593/regulation/85/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31A (Extent: E) (affected by repeal, see note). Costs (Extent: E) (affected by repeal, see note)[^key-f49c35ea34de0f3a229dbd276152052c][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]
+## 31A (Extent: E) (affected by repeal, see note). Costs (Extent: E) (affected by repeal, see note)[^c-f49c35ea34de0f3a229dbd276152052c][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Section 250(5) of the Local Government Act 1972 (costs) shall apply to Tribunal 
 
 ## Annotations
 
-[^key-f49c35ea34de0f3a229dbd276152052c]: Textual amendment: [Reg. 31A](https://www.legislation.gov.uk/uksi/1992/664/regulation/31A) inserted (21.12.1995) by [The National Health Service (Service Committees and Tribunal) Amendment Regulations 1995 (S.I. 1995/3091)](https://www.legislation.gov.uk/uksi/1995/3091), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/3091/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/1995/3091/regulation/13/2) (with [reg. 15(1)](https://www.legislation.gov.uk/uksi/1995/3091/regulation/15/1))
+[^c-f49c35ea34de0f3a229dbd276152052c]: Textual amendment: [Reg. 31A](https://www.legislation.gov.uk/uksi/1992/664/regulation/31A) inserted (21.12.1995) by [The National Health Service (Service Committees and Tribunal) Amendment Regulations 1995 (S.I. 1995/3091)](https://www.legislation.gov.uk/uksi/1995/3091), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/3091/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/1995/3091/regulation/13/2) (with [reg. 15(1)](https://www.legislation.gov.uk/uksi/1995/3091/regulation/15/1))
 
 [^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]: Textual amendment: Regulations revoked (E.) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/1/1/a)

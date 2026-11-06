@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Exclusivity terms unenforceable in zero hours contracts[^key-9bc81cc7c9f40e42dc399b1806abe2bf]
+## 153. Exclusivity terms unenforceable in zero hours contracts[^c-9bc81cc7c9f40e42dc399b1806abe2bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,4 +95,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bc81cc7c9f40e42dc399b1806abe2bf]: Commencement: S. 153 in force at 26.5.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/g)
+[^c-9bc81cc7c9f40e42dc399b1806abe2bf]: Commencement: S. 153 in force at 26.5.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/g)

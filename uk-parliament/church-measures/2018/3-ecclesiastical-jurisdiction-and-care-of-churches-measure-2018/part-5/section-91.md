@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 91. Conditions on reservation under section 90[^key-f162ed23f6269d2ad15dae882fe7a7c5]
+## 91. Conditions on reservation under section 90[^c-f162ed23f6269d2ad15dae882fe7a7c5]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f162ed23f6269d2ad15dae882fe7a7c5]: Commencement: [S. 91](https://www.legislation.gov.uk/ukcm/2018/3/section/91) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-f162ed23f6269d2ad15dae882fe7a7c5]: Commencement: [S. 91](https://www.legislation.gov.uk/ukcm/2018/3/section/91) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

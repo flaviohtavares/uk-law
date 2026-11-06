@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Property etc. transfers to the HCA and the Welsh Ministers[^key-280b1f86fad5be1c16bb9c499ddb660d]
+## 51. Property etc. transfers to the HCA and the Welsh Ministers[^c-280b1f86fad5be1c16bb9c499ddb660d]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the transfer to the HCA of designated property, rights or liabilities of—
   - (i) the Urban Regeneration Agency,
   - (ii) the Commission for the New Towns,
-  - (iii)[^key-bc645a2c1106f852828fac295d975c48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ., or
+  - (iii)[^c-bc645a2c1106f852828fac295d975c48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ., or
   - (iv) a Minister of the Crown, or
 - (b) the transfer to the Welsh Ministers of designated property, rights or liabilities of—
   - (i) the Urban Regeneration Agency, or
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-280b1f86fad5be1c16bb9c499ddb660d]: Commencement: S. 51 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)
+[^c-280b1f86fad5be1c16bb9c499ddb660d]: Commencement: S. 51 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)
 
-[^key-bc645a2c1106f852828fac295d975c48]: Textual amendment: S. 51(1)(a)(iii) (but not the final "or") repealed (1.7.2012 at 0.02 a.m.) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6) (with Note 1); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
+[^c-bc645a2c1106f852828fac295d975c48]: Textual amendment: S. 51(1)(a)(iii) (but not the final "or") repealed (1.7.2012 at 0.02 a.m.) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6) (with Note 1); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
 
 [^M_F_89a4d7bf-fbf3-4b4c-fd7b-9e3106cda4c4]: Textual amendment: S. 51(3A) inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 31(3)](https://www.legislation.gov.uk/ukpga/2015/7/section/31/3), [57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 155. Defences[^key-df3bdbf15e440560cba206fe6af7fe79]
+## 155. Defences[^c-df3bdbf15e440560cba206fe6af7fe79]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ it is not an offence to do anything as agent for that owner which would otherwis
 
 ## Annotations
 
-[^key-df3bdbf15e440560cba206fe6af7fe79]: Commencement: [S. 155](https://www.legislation.gov.uk/asp/2006/1/section/155) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-df3bdbf15e440560cba206fe6af7fe79]: Commencement: [S. 155](https://www.legislation.gov.uk/asp/2006/1/section/155) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

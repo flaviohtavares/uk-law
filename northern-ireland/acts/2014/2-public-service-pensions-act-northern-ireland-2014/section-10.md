@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Pension age[^key-6901e3545bfa6dd3dd39c0deeadaa0ed]
+## 10. Pension age[^c-6901e3545bfa6dd3dd39c0deeadaa0ed]
 
 *Extent: N.I.*
 
@@ -64,4 +64,4 @@ the change to the person's normal or deferred pension age must under the scheme 
 
 ## Annotations
 
-[^key-6901e3545bfa6dd3dd39c0deeadaa0ed]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2014/2/section/10) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/f)
+[^c-6901e3545bfa6dd3dd39c0deeadaa0ed]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2014/2/section/10) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/f)

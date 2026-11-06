@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. The “eligibility” and “transfer” conditions[^key-ffce4649b3b62d639277fc8f008e9337]
+## 33A. The “eligibility” and “transfer” conditions[^c-ffce4649b3b62d639277fc8f008e9337]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ In this case, the CCA meets the eligibility condition in relation to each of tho
 
 ## Annotations
 
-[^key-ffce4649b3b62d639277fc8f008e9337]: Textual amendment: [S. 33A](https://www.legislation.gov.uk/ukpga/2023/55/section/33A) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 46(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/46/5), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-ffce4649b3b62d639277fc8f008e9337]: Textual amendment: [S. 33A](https://www.legislation.gov.uk/ukpga/2023/55/section/33A) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 46(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/46/5), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

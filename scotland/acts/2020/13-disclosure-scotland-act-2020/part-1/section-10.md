@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Non-disclosable children's hearing outcomes[^key-2a8871ddc041b1dbc538a94ffb05d77b]
+## 10. Non-disclosable children's hearing outcomes[^c-2a8871ddc041b1dbc538a94ffb05d77b]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a8871ddc041b1dbc538a94ffb05d77b]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/13/section/10) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-2a8871ddc041b1dbc538a94ffb05d77b]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/13/section/10) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

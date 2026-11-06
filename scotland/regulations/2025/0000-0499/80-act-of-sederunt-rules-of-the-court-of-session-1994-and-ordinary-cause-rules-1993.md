@@ -47,7 +47,7 @@ In accordance with section 4 of the Scottish Civil Justice Council and Criminal 
 
 The Court of Session therefore makes this Act of Sederunt under the powers conferred by sections 103(1) and 104(1) of the Courts Reform (Scotland) Act 2014[^f00002], section 48 of the Civil Jurisdiction and Judgments Act 1982[^f00003] and all other powers enabling it to do so.
 
-## 1. Citation, interpretation and commencement, etc.[^key-298b6ea21c8272651493f0de83445b68][^key-5d0a1e4c8d40bd9d129f0d2238275b84][^key-d7b4b7e94f94500feb70dc8518da4a7b]
+## 1. Citation, interpretation and commencement, etc.[^c-298b6ea21c8272651493f0de83445b68][^c-5d0a1e4c8d40bd9d129f0d2238275b84][^c-d7b4b7e94f94500feb70dc8518da4a7b]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Miscellaneous) 2025.
 
@@ -61,7 +61,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (6) A certified copy is to be inserted in the Books of Sederunt.
 
-## 2. Amendment of the Rules of the Court of Session 1994 – currency conversion[^key-d880bcd08b3cbbea696d0e5122f62c83]
+## 2. Amendment of the Rules of the Court of Session 1994 – currency conversion[^c-d880bcd08b3cbbea696d0e5122f62c83]
 
 (1) The Rules of the Court of Session 1994[^f00005] are amended in accordance with this paragraph and paragraph 3.
 
@@ -115,7 +115,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
   > - (b) any declaration of currency conversion under rule 62.2(1)(a).
 
   ;
-- (f) in rule 62.46(2)(c)[^key-9a40259f77d5f1b43edc81a5f160575c] (registration under the Liner Conferences Act)[^f00012], for “certificate of currency conversion under rule 62.2(1)(b)” substitute “declaration of currency conversion under rule 62.2(1)(a)”;
+- (f) in rule 62.46(2)(c)[^c-9a40259f77d5f1b43edc81a5f160575c] (registration under the Liner Conferences Act)[^f00012], for “certificate of currency conversion under rule 62.2(1)(b)” substitute “declaration of currency conversion under rule 62.2(1)(a)”;
 - (g) in rule 62.54B(1) (registration under the POCA Order in Council of 2005: further provision)[^f00013], for “certificate” substitute “declaration”;
 - (h) for rule 62.58(4)(c) (registration of Convention award)[^f00014] substitute—
 
@@ -129,7 +129,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - (a) after Form 7.1 (form of application to Extractor for extract of a decree)[^f00017] insert Form 7.5 (form of declaration of rate of exchange) as set out in schedule 1 of this Act of Sederunt;
 - (b) for Form 62.2 (form of certificate of currency conversion) substitute Form 62.2 (form of declaration of rate of exchange) as set out in schedule 2 of this Act of Sederunt.
 
-## 3. Amendment of the Rules of the Court of Session 1994 – 2019 Hague Convention[^key-abab26775434d3e0fd49ece7b573ca72]
+## 3. Amendment of the Rules of the Court of Session 1994 – 2019 Hague Convention[^c-abab26775434d3e0fd49ece7b573ca72]
 
 In Chapter 62—
 
@@ -168,7 +168,7 @@ In Chapter 62—
   - (iv) omit paragraphs (3) and (3A);
   - (v) after paragraph (3AA) insert—
 
-    > (3AAA)[^key-d51c19731a9ad11365a8f2b1eb301c2a] For applications to which paragraph (1)(bb) applies, in the case referred to in Article 11 (judicial settlements) of the 2019 Hague Convention, in addition to the information specified in paragraph (2) there must be produced with the petition a certificate of a court of the State of origin that the judicial settlement or a part of it is enforceable in the same manner as a judgment in the State of origin.
+    > (3AAA)[^c-d51c19731a9ad11365a8f2b1eb301c2a] For applications to which paragraph (1)(bb) applies, in the case referred to in Article 11 (judicial settlements) of the 2019 Hague Convention, in addition to the information specified in paragraph (2) there must be produced with the petition a certificate of a court of the State of origin that the judicial settlement or a part of it is enforceable in the same manner as a judgment in the State of origin.
 
     ;
   - (vi) in paragraph (3AB) after “Convention” insert “or Article 12(3) of the 2019 Hague Convention”;
@@ -260,7 +260,7 @@ In Chapter 62—
   - (i) for Form 62.28 (form of petition for registration of a judgment under section 4 of the Civil Jurisdiction and Judgments Act 1982 or under Article 38, Article 57 or Article 58 of the Lugano Convention)[^f00037] substitute Form 62.28 (form of petition for registration of a judgment under section 4B or 4C of the Civil Jurisdiction and Judgments Act 1982, the 2005 Hague Convention or the 2019 Hague Convention) as set out in schedule 3 of this Act of Sederunt; and
   - (ii) omit Form 62.33 (form of notice of decree and warrant for registration of a judgment under section 4 of the Civil Jurisdiction and Judgments Act 1982 or under Article 38, Article 57 or Article 58 of the Lugano Convention)[^f00038].
 
-## 4. Amendment of the Ordinary Cause Rules 1993 – currency conversion[^key-49975520b444f3a48b1566ac07bd3e5b]
+## 4. Amendment of the Ordinary Cause Rules 1993 – currency conversion[^c-49975520b444f3a48b1566ac07bd3e5b]
 
 (1) The Ordinary Cause Rules 1993[^f00039] are amended in accordance with this paragraph.
 
@@ -288,7 +288,7 @@ In Chapter 62—
 
 (3) In Appendix 1 (forms)[^f00040], for Form G18 (form of certificate of rate of exchange) substitute the form set out in schedule 4 of this Act of Sederunt.
 
-## 5. Saving provision[^key-833541ee1f804e78c2c8e2fd0f74bda5]
+## 5. Saving provision[^c-833541ee1f804e78c2c8e2fd0f74bda5]
 
 Where an application is made under section 4B of the Civil Jurisdiction and Judgments Act 1982[^f00041] (registration and enforcement of judgments under the 2005 Hague Convention) before the date on which the Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024[^f00042] come into force, Part V of Chapter 62 of the Rules of the Court of Session 1994 applies to that application as if the amendments made to Part V by paragraph 3 of this Act of Sederunt had not been made.
 
@@ -302,19 +302,19 @@ Edinburgh
 
 19th March 2025
 
-## SCHEDULE 1[^key-3b484dba77701978d4840e61a768490f]
+## SCHEDULE 1[^c-3b484dba77701978d4840e61a768490f]
 
 Paragraph 2(4)(a)
 
-## SCHEDULE 2[^key-a0ed1358e4f5f3710f48489b73e61cb1]
+## SCHEDULE 2[^c-a0ed1358e4f5f3710f48489b73e61cb1]
 
 Paragraph 2(4)(b)
 
-## SCHEDULE 3[^key-0e0de1ab14c34405f6b8bbf8f2b81d80]
+## SCHEDULE 3[^c-0e0de1ab14c34405f6b8bbf8f2b81d80]
 
 Paragraph 3(n)(i)
 
-## SCHEDULE 4[^key-56b74ed3e9bf7245e7832f91d0289a95]
+## SCHEDULE 4[^c-56b74ed3e9bf7245e7832f91d0289a95]
 
 Paragraph 4(3)
 
@@ -338,15 +338,15 @@ The changes relating to currency conversion certificates in paragraphs 2 and 4 a
 
 [^f00003]: Footnote: [1982 c. 27](https://www.legislation.gov.uk/ukpga/1982/27). Section 48 was last amended by the Private International Law (Implementation of Agreements) Act [2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), schedule 5, paragraph 1 and prospectively amended and modified by [S.I. 2024/713](https://www.legislation.gov.uk/uksi/2024/713).
 
-[^key-298b6ea21c8272651493f0de83445b68]: Commencement: [Para. 1(1)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/1), [(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3), [(4)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/4), [(6)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/6) in force at 30.4.2025 for specified purposes, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3)
+[^c-298b6ea21c8272651493f0de83445b68]: Commencement: [Para. 1(1)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/1), [(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3), [(4)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/4), [(6)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/6) in force at 30.4.2025 for specified purposes, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3)
 
-[^key-5d0a1e4c8d40bd9d129f0d2238275b84]: Commencement: [Para. 1(1)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/1), [(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3), [(4)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/4), [(6)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/6) in force at 1.7.2025 in so far as not already in force, see [para. 1(5)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/5)
+[^c-5d0a1e4c8d40bd9d129f0d2238275b84]: Commencement: [Para. 1(1)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/1), [(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3), [(4)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/4), [(6)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/6) in force at 1.7.2025 in so far as not already in force, see [para. 1(5)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/5)
 
-[^key-d7b4b7e94f94500feb70dc8518da4a7b]: Commencement: [Para. 1(2)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/2), [(5)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/5) in force at 1.7.2025, see [para. 1(5)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/5)
+[^c-d7b4b7e94f94500feb70dc8518da4a7b]: Commencement: [Para. 1(2)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/2), [(5)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/5) in force at 1.7.2025, see [para. 1(5)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/5)
 
 [^f00004]: Footnote: This date will be as determined under Article 28(2)(a) of that Convention and will be notified in the London, Edinburgh and Belfast Gazettes.
 
-[^key-d880bcd08b3cbbea696d0e5122f62c83]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2025/80/paragraph/2) in force at 30.4.2025, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3)
+[^c-d880bcd08b3cbbea696d0e5122f62c83]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2025/80/paragraph/2) in force at 30.4.2025, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3)
 
 [^f00005]: Footnote: The Rules of the Court of Session 1994 are in schedule 2 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 ([S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443)), last amended by [S.S.I. 2025/61](https://www.legislation.gov.uk/ssi/2025/61).
 
@@ -362,7 +362,7 @@ The changes relating to currency conversion certificates in paragraphs 2 and 4 a
 
 [^f00011]: Footnote: Rule 62.37 was substituted by [S.S.I. 2004/52](https://www.legislation.gov.uk/ssi/2004/52).
 
-[^key-9a40259f77d5f1b43edc81a5f160575c]: Textual amendment: Words in [para. 2(3)(f)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/2/3/f) substituted (1.7.2025) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Miscellaneous) (Amendment) 2025 (S.S.I. 2025/171)](https://www.legislation.gov.uk/ssi/2025/171), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/171/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2025/171/paragraph/2/2)
+[^c-9a40259f77d5f1b43edc81a5f160575c]: Textual amendment: Words in [para. 2(3)(f)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/2/3/f) substituted (1.7.2025) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Miscellaneous) (Amendment) 2025 (S.S.I. 2025/171)](https://www.legislation.gov.uk/ssi/2025/171), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/171/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2025/171/paragraph/2/2)
 
 [^f00012]: Footnote: Rule 62.46(2)(c) was amended by [S.I. 1996/2168](https://www.legislation.gov.uk/uksi/1996/2168).
 
@@ -376,7 +376,7 @@ The changes relating to currency conversion certificates in paragraphs 2 and 4 a
 
 [^f00017]: Footnote: Form 7.1 was substituted by [S.I. 1996/1756](https://www.legislation.gov.uk/uksi/1996/1756).
 
-[^key-abab26775434d3e0fd49ece7b573ca72]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2025/80/paragraph/3) in force at 1.7.2025, see [para. 1(5)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/5)
+[^c-abab26775434d3e0fd49ece7b573ca72]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2025/80/paragraph/3) in force at 1.7.2025, see [para. 1(5)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/5)
 
 [^f00018]: Footnote: Part V of Chapter 62 was last amended by [S.S.I. 2020/440](https://www.legislation.gov.uk/ssi/2020/440).
 
@@ -388,7 +388,7 @@ The changes relating to currency conversion certificates in paragraphs 2 and 4 a
 
 [^f00022]: Footnote: [1982 c. 27](https://www.legislation.gov.uk/ukpga/1982/27). Section 4C was inserted by [S.I. 2024/713](https://www.legislation.gov.uk/uksi/2024/713).
 
-[^key-d51c19731a9ad11365a8f2b1eb301c2a]: Textual amendment: Words in [para. 3(c)(v)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/3/c/v) substituted (1.7.2025) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Miscellaneous) (Amendment) 2025 (S.S.I. 2025/171)](https://www.legislation.gov.uk/ssi/2025/171), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/171/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2025/171/paragraph/2/3)
+[^c-d51c19731a9ad11365a8f2b1eb301c2a]: Textual amendment: Words in [para. 3(c)(v)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/3/c/v) substituted (1.7.2025) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Miscellaneous) (Amendment) 2025 (S.S.I. 2025/171)](https://www.legislation.gov.uk/ssi/2025/171), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/171/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2025/171/paragraph/2/3)
 
 [^f00023]: Footnote: Rule 62.29 was last amended by [S.S.I. 2020/440](https://www.legislation.gov.uk/ssi/2020/440).
 
@@ -422,22 +422,22 @@ The changes relating to currency conversion certificates in paragraphs 2 and 4 a
 
 [^f00038]: Footnote: Form 62.33 was substituted by [S.S.I. 2015/26](https://www.legislation.gov.uk/ssi/2015/26) and last amended by [S.S.I. 2019/85](https://www.legislation.gov.uk/ssi/2019/85).
 
-[^key-49975520b444f3a48b1566ac07bd3e5b]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2025/80/paragraph/4) in force at 30.4.2025, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3)
+[^c-49975520b444f3a48b1566ac07bd3e5b]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2025/80/paragraph/4) in force at 30.4.2025, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3)
 
 [^f00039]: Footnote: The Ordinary Cause Rules 1993 are in schedule 1 of the Sheriff Court (Scotland) Act [1907 (c. 51)](https://www.legislation.gov.uk/ukpga/1907/51). Schedule 1 was substituted by [S.I. 1993/1956](https://www.legislation.gov.uk/uksi/1993/1956) and last amended by [S.S.I. 2024/353](https://www.legislation.gov.uk/ssi/2024/353).
 
 [^f00040]: Footnote: Appendix 1 was substituted by [S.I. 1993/1956](https://www.legislation.gov.uk/uksi/1993/1956) and last amended by [S.S.I. 2024/353](https://www.legislation.gov.uk/ssi/2024/353).
 
-[^key-833541ee1f804e78c2c8e2fd0f74bda5]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2025/80/paragraph/5) in force at 30.4.2025, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3)
+[^c-833541ee1f804e78c2c8e2fd0f74bda5]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2025/80/paragraph/5) in force at 30.4.2025, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3)
 
 [^f00041]: Footnote: [1982 c. 27](https://www.legislation.gov.uk/ukpga/1982/27). Section 4B was inserted by [S.I. 2015/1644](https://www.legislation.gov.uk/uksi/2015/1644) and amended by [S.I. 2024/713](https://www.legislation.gov.uk/uksi/2024/713).
 
 [^f00042]: Footnote: [S.I. 2024/713](https://www.legislation.gov.uk/uksi/2024/713).
 
-[^key-3b484dba77701978d4840e61a768490f]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2025/80/schedule/1) in force at 30.4.2025, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3)
+[^c-3b484dba77701978d4840e61a768490f]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2025/80/schedule/1) in force at 30.4.2025, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3)
 
-[^key-a0ed1358e4f5f3710f48489b73e61cb1]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2025/80/schedule/2) in force at 30.4.2025, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3)
+[^c-a0ed1358e4f5f3710f48489b73e61cb1]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2025/80/schedule/2) in force at 30.4.2025, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3)
 
-[^key-0e0de1ab14c34405f6b8bbf8f2b81d80]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2025/80/schedule/3) in force at 1.7.2025, see [para. 1(5)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/5)
+[^c-0e0de1ab14c34405f6b8bbf8f2b81d80]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2025/80/schedule/3) in force at 1.7.2025, see [para. 1(5)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/5)
 
-[^key-56b74ed3e9bf7245e7832f91d0289a95]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2025/80/schedule/4) in force at 30.4.2025, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3)
+[^c-56b74ed3e9bf7245e7832f91d0289a95]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2025/80/schedule/4) in force at 30.4.2025, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3)

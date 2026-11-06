@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Commission Decision [95/84/EC](https://www.legislation.gov.uk/european/decision/1995/0084) concerning the implementation of the Annex to Council Regulation [(EEC) No 2930/86](https://www.legislation.gov.uk/european/regulation/1986/2930) defining the characteristics of fishing vessels[^key-bf973226e879342e70cd42df27a6f1d4]
+## 34. Commission Decision [95/84/EC](https://www.legislation.gov.uk/european/decision/1995/0084) concerning the implementation of the Annex to Council Regulation [(EEC) No 2930/86](https://www.legislation.gov.uk/european/regulation/1986/2930) defining the characteristics of fishing vessels[^c-bf973226e879342e70cd42df27a6f1d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf973226e879342e70cd42df27a6f1d4]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-bf973226e879342e70cd42df27a6f1d4]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)

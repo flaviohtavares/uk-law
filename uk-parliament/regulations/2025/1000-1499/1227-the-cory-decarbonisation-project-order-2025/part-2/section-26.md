@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Oversailing rights[^key-dc5f181c532be33035f457677d6c308b]
+## 26. Oversailing rights[^c-dc5f181c532be33035f457677d6c308b]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc5f181c532be33035f457677d6c308b]: Commencement: Art. 26 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-dc5f181c532be33035f457677d6c308b]: Commencement: Art. 26 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

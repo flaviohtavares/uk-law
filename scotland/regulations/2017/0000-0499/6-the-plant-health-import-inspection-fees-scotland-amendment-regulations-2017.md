@@ -46,17 +46,17 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 56(1) and (2) of the Finance Act 1973[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and extent[^key-08e11255458c5fadd3985e522c5e024b]
+## 1. Citation, commencement and extent[^c-08e11255458c5fadd3985e522c5e024b]
 
 (1) These Regulations may be cited as the Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2017 and come into force on 11th February 2017.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Amendment of the Plant Health (Import Inspection Fees) (Scotland) Regulations 2014[^key-d762eb2135ee078b1048e7a7009978ea]
+## 2. Amendment of the Plant Health (Import Inspection Fees) (Scotland) Regulations 2014[^c-d762eb2135ee078b1048e7a7009978ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-57c2193c7a474caa3cd501698fe3e36a]
+## 3. Revocation[^c-57c2193c7a474caa3cd501698fe3e36a]
 
 Regulation 2(a) of the Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2015[^f00003] is revoked.
 
@@ -128,11 +128,11 @@ No business and regulatory impact assessment has been prepared for this instrume
 
 [^f00001]: Footnote: [1973 c.51](https://www.legislation.gov.uk/ukpga/1973/51). The reference to a Government department in section 56(1) is to be read as a reference to the Scottish Administration by virtue of article 2(2) of the Scotland Act (Consequential Modifications) (No. 2) Order 1999 ([S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)) and the functions of the Minister transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). The requirement to obtain the consent of the Treasury was removed by section 55 of the Scotland Act 1998.
 
-[^key-08e11255458c5fadd3985e522c5e024b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/6/regulation/1) in force at 11.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/6/regulation/1/1)
+[^c-08e11255458c5fadd3985e522c5e024b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/6/regulation/1) in force at 11.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/6/regulation/1/1)
 
-[^key-d762eb2135ee078b1048e7a7009978ea]: Textual amendment: Reg. 2 revoked (19.3.2018) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/22)](https://www.legislation.gov.uk/ssi/2018/22), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/22/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2018/22/regulation/3)
+[^c-d762eb2135ee078b1048e7a7009978ea]: Textual amendment: Reg. 2 revoked (19.3.2018) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/22)](https://www.legislation.gov.uk/ssi/2018/22), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/22/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2018/22/regulation/3)
 
-[^key-57c2193c7a474caa3cd501698fe3e36a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/6/regulation/3) in force at 11.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/6/regulation/1/1)
+[^c-57c2193c7a474caa3cd501698fe3e36a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/6/regulation/3) in force at 11.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/6/regulation/1/1)
 
 [^f00003]: Footnote: [S.S.I. 2015/392](https://www.legislation.gov.uk/ssi/2015/392).
 

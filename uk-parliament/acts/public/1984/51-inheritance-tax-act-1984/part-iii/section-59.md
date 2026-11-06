@@ -36,7 +36,7 @@ summary: ''
 (3) Where the acquisition mentioned in paragraph (b) of subsection (2) above was before 14th March 1975—
 
 - (a) the condition set out in paragraph (a) of that subsection shall be treated as satisfied if the business of the company was at the time of the acquisition such as is described in that paragraph, and
-- (b) that condition need not be satisfied if the company[^c13608741] —[^key-25d19c391f255ae4c218fd7cfa115044]
+- (b) that condition need not be satisfied if the company[^c13608741] —[^c-25d19c391f255ae4c218fd7cfa115044]
   - (i) is an insurance company (within the meaning of Part 2 of the Finance Act 2012), and
   - (ii) has permission under Part 4A of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance.
 
@@ -50,6 +50,6 @@ summary: ''
 
 [^c13608741]: Textual amendment: Words in s. 59(3) substituted (1.5.1995 with effect as mentioned in [s. 52(5)](https://www.legislation.gov.uk/ukpga/1995/4/section/52/5) of the amending Act) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 52(4)](https://www.legislation.gov.uk/ukpga/1995/4/section/52/4)
 
-[^key-25d19c391f255ae4c218fd7cfa115044]: Textual amendment: Words in s. 59(3)(b) substituted (31.1.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/3/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-25d19c391f255ae4c218fd7cfa115044]: Textual amendment: Words in s. 59(3)(b) substituted (31.1.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/3/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c13608781]: Textual amendment: S. 59(4) added (1.12.2001 with effect as mentioned in art. 5(4) of the amending S.I.) by [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629), [art. 5(1)(3)(4)](https://www.legislation.gov.uk/uksi/2001/3629/article/5/1/3/4)

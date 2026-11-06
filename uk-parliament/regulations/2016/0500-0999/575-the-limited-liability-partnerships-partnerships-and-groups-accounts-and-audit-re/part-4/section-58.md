@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Amendments to Part 1 of Schedule 2 (provisions applying to all LLPs: information on related undertakings required whether preparing non-IAS or IAS accounts)[^key-3513525bdf15380375b104a48062c28b]
+## 58. Amendments to Part 1 of Schedule 2 (provisions applying to all LLPs: information on related undertakings required whether preparing non-IAS or IAS accounts)[^c-3513525bdf15380375b104a48062c28b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ In Part 1 of Schedule 2 (provisions applying to all LLPs: information on related
 
 ## Annotations
 
-[^key-3513525bdf15380375b104a48062c28b]: Commencement: Reg. 58 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-3513525bdf15380375b104a48062c28b]: Commencement: Reg. 58 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

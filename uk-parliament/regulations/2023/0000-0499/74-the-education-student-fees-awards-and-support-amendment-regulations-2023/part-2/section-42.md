@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Amendments relating to courses for initial further education teacher training[^key-0d070b4f807a88f66757cdd00538b42c]
+## 42. Amendments relating to courses for initial further education teacher training[^c-0d070b4f807a88f66757cdd00538b42c]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ summary: ''
 
 .
 
-**43.**[^key-c4f4a3fe545d97fd01d3ae308308ebe5] In regulation 2A (as inserted by regulation 13 of these Regulations)—
+**43.**[^c-c4f4a3fe545d97fd01d3ae308308ebe5] In regulation 2A (as inserted by regulation 13 of these Regulations)—
 
 - (a) in paragraph (5) (definition of “course designation event”), at the end of sub-paragraph (c) insert—
 
@@ -76,7 +76,7 @@ summary: ''
 
   .
 
-**44.**[^key-24f48b396eed4ff597c237286a6f1f36] After regulation 2A insert—
+**44.**[^c-24f48b396eed4ff597c237286a6f1f36] After regulation 2A insert—
 
 > **2B. Recognition of initial further education teacher training courses**
 >
@@ -91,19 +91,19 @@ summary: ''
 
 .
 
-**45.**[^key-be3570aa7129ebe6c255e5d25e0f269c] In regulation 12(4ZA) (previous course)[^f00044], for sub-paragraph (a) (other than “and” at the end of that sub-paragraph) substitute—
+**45.**[^c-be3570aa7129ebe6c255e5d25e0f269c] In regulation 12(4ZA) (previous course)[^f00044], for sub-paragraph (a) (other than “and” at the end of that sub-paragraph) substitute—
 
 > - (a) the current course is a course falling within regulation 2(1ZA)(e), (f), (g), (h) or (i);
 
 .
 
-**46.**[^key-8edf0e832ca20ee04d6def67dfd500eb] In regulation 13(2ZA) (miscellaneous)[^f00045], for sub-paragraph (a) (other than “and” at the end of that sub-paragraph) substitute—
+**46.**[^c-8edf0e832ca20ee04d6def67dfd500eb] In regulation 13(2ZA) (miscellaneous)[^f00045], for sub-paragraph (a) (other than “and” at the end of that sub-paragraph) substitute—
 
 > - (a) the current course is a course falling within regulation 2(1ZA)(e), (f), (g), (h) or (i);
 
 .
 
-**47.**[^key-2bb3d18d380921e4cbca9b98f16ae7d2] In regulation 144(6A) (fee loans for designated part-time courses beginning on or after 1st September 2012)[^f00046], for sub-paragraph (a) (other than “and” at the end of that sub-paragraph) substitute—
+**47.**[^c-2bb3d18d380921e4cbca9b98f16ae7d2] In regulation 144(6A) (fee loans for designated part-time courses beginning on or after 1st September 2012)[^f00046], for sub-paragraph (a) (other than “and” at the end of that sub-paragraph) substitute—
 
 > - (a) the current course is a course falling within regulation 2(1ZA)(e), (f), (g), (h) or (i);
 
@@ -111,7 +111,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0d070b4f807a88f66757cdd00538b42c]: Commencement: Reg. 42 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-0d070b4f807a88f66757cdd00538b42c]: Commencement: Reg. 42 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00038]: Footnote: Paragraph (1A) was inserted by [S.I. 2021/127](https://www.legislation.gov.uk/uksi/2021/127). There are other amending instruments but none is relevant.
 
@@ -123,20 +123,20 @@ summary: ''
 
 [^f00042]: Footnote: The Office of Qualifications and Examinations Regulation was established by section 127 of the Apprenticeships, Skills, Children and Learning Act 2009.
 
-[^key-c4f4a3fe545d97fd01d3ae308308ebe5]: Commencement: Reg. 43 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-c4f4a3fe545d97fd01d3ae308308ebe5]: Commencement: Reg. 43 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-24f48b396eed4ff597c237286a6f1f36]: Commencement: Reg. 44 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-24f48b396eed4ff597c237286a6f1f36]: Commencement: Reg. 44 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00043]: Footnote: Copies of the current version of the occupational standard for a “learning and skills teacher” are available at https://www.instituteforapprenticeships.org/apprenticeship-standards/learning-and-skills-teacher-v1-1.
 
-[^key-be3570aa7129ebe6c255e5d25e0f269c]: Commencement: Reg. 45 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-be3570aa7129ebe6c255e5d25e0f269c]: Commencement: Reg. 45 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00044]: Footnote: Paragraph (4ZA) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
-[^key-8edf0e832ca20ee04d6def67dfd500eb]: Commencement: Reg. 46 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-8edf0e832ca20ee04d6def67dfd500eb]: Commencement: Reg. 46 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00045]: Footnote: Paragraph (2ZA) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
-[^key-2bb3d18d380921e4cbca9b98f16ae7d2]: Commencement: Reg. 47 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-2bb3d18d380921e4cbca9b98f16ae7d2]: Commencement: Reg. 47 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00046]: Footnote: Paragraph (6A) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).

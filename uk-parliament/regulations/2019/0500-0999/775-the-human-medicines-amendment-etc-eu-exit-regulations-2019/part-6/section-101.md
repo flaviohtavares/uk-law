@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Amendment of regulation 108 (application for renewal of certificate)[^key-ea602d51b6dca6bb8fdc16aa660d61a6]
+## 101. Amendment of regulation 108 (application for renewal of certificate)[^c-ea602d51b6dca6bb8fdc16aa660d61a6]
 
 *Extent: E+W+S+N.I.*
 
-In regulation 108(2), for “must be established in the European Union” substitute—[^key-49c561569578b29bc970b0134cceadaa]
+In regulation 108(2), for “must be established in the European Union” substitute—[^c-49c561569578b29bc970b0134cceadaa]
 
 > , where it is applying for renewal of—
 >
@@ -34,6 +34,6 @@ In regulation 108(2), for “must be established in the European Union” substi
 
 ## Annotations
 
-[^key-ea602d51b6dca6bb8fdc16aa660d61a6]: Commencement: Reg. 101 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ea602d51b6dca6bb8fdc16aa660d61a6]: Commencement: Reg. 101 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-49c561569578b29bc970b0134cceadaa]: Textual amendment: Words in reg. 101 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 78](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/78)
+[^c-49c561569578b29bc970b0134cceadaa]: Textual amendment: Words in reg. 101 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 78](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/78)

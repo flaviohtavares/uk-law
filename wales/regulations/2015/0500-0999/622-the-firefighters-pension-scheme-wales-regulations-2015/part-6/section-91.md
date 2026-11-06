@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Reduction in pensions in cases of wide age disparity[^key-adeafcc87c3f526a45ca0139a5606ecd]
+## 91. Reduction in pensions in cases of wide age disparity[^c-adeafcc87c3f526a45ca0139a5606ecd]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adeafcc87c3f526a45ca0139a5606ecd]: Commencement: Reg. 91 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-adeafcc87c3f526a45ca0139a5606ecd]: Commencement: Reg. 91 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

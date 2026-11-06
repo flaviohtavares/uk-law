@@ -29,7 +29,7 @@ Trainees must be told and must understand:—
 - — the aims of the approved training course;
 - — the importance of having the right equipment and clothing.
 
-**2.** Trainees' eyesight must be tested. Trainees must be able to read, in good daylight (with the aid of corrective lenses if worn) either—[^key-63a6bdf57e05e9e456daff8f84bf5ed1]
+**2.** Trainees' eyesight must be tested. Trainees must be able to read, in good daylight (with the aid of corrective lenses if worn) either—[^c-63a6bdf57e05e9e456daff8f84bf5ed1]
 
 - a vehicle registration mark containing letters and figures 79 millimetres high and 57 millimetres wide at a distance of 20.5 metres, or
 - a vehicle registration mark containing letters and figures 79 millimetres high and 50 millimetres wide at a distance of 20 metres.
@@ -39,7 +39,7 @@ Trainees must be told and must understand:—
 Trainees must receive practical on site training at the conclusion of which they must fulfil the following requirements, that is to say they must:—
 
 - — be familiar with the motor cycle, its controls and how it works;
-- — be able to carry out basic machine checks to a satisfactory standard and (except in a case where the course is to be completed on a motor bicycle and side-car combination or a three-wheeled moped)[^key-3aeacfb3c758b5b416025fda7181589c] be able to take the bike on and off the stand satisfactorily;
+- — be able to carry out basic machine checks to a satisfactory standard and (except in a case where the course is to be completed on a motor bicycle and side-car combination or a three-wheeled moped)[^c-3aeacfb3c758b5b416025fda7181589c] be able to take the bike on and off the stand satisfactorily;
 - — be able to wheel the machine around to the left and right showing proper balance and bring the motorcycle to a controlled halt by braking;
 - — be able to start and stop the engine satisfactorily.
 
@@ -102,6 +102,6 @@ Trainees must undertake on road riding for a period of not less than two hours. 
 
 ## Annotations
 
-[^key-63a6bdf57e05e9e456daff8f84bf5ed1]: Textual amendment: Words in Sch. 12 substituted (21.2.2003) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2003 (S.I. 2003/166)](https://www.legislation.gov.uk/uksi/2003/166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/166/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2003/166/regulation/9)
+[^c-63a6bdf57e05e9e456daff8f84bf5ed1]: Textual amendment: Words in Sch. 12 substituted (21.2.2003) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2003 (S.I. 2003/166)](https://www.legislation.gov.uk/uksi/2003/166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/166/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2003/166/regulation/9)
 
-[^key-3aeacfb3c758b5b416025fda7181589c]: Textual amendment: Words in Sch. 12 inserted (1.2.2001) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2001 (S.I. 2001/53)](https://www.legislation.gov.uk/uksi/2001/53), [regs. 1](https://www.legislation.gov.uk/uksi/2001/53/regulation/1), [12](https://www.legislation.gov.uk/uksi/2001/53/regulation/12)
+[^c-3aeacfb3c758b5b416025fda7181589c]: Textual amendment: Words in Sch. 12 inserted (1.2.2001) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2001 (S.I. 2001/53)](https://www.legislation.gov.uk/uksi/2001/53), [regs. 1](https://www.legislation.gov.uk/uksi/2001/53/regulation/1), [12](https://www.legislation.gov.uk/uksi/2001/53/regulation/12)

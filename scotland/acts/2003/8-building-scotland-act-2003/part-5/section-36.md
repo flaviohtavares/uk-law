@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Forms[^key-5df6846d86a69964be1226135b4c99b8]
+## 36. Forms[^c-5df6846d86a69964be1226135b4c99b8]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5df6846d86a69964be1226135b4c99b8]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2003/8/section/36) in force at 22.9.2004 for specified purposes and 1.5.2005 in so far as not already in force by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2004/404/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/404/schedule/1)
+[^c-5df6846d86a69964be1226135b4c99b8]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2003/8/section/36) in force at 22.9.2004 for specified purposes and 1.5.2005 in so far as not already in force by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2004/404/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/404/schedule/1)

@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-d8cbb77ecd16317d9caf075bae402cd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-d8cbb77ecd16317d9caf075bae402cd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-d8cbb77ecd16317d9caf075bae402cd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d8cbb77ecd16317d9caf075bae402cd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 81 of the Finance Act 1999 (c. 16) (acquisitions disregarded under insurance companies concession), at the end add—
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8cbb77ecd16317d9caf075bae402cd3]: Textual amendment: [S. 67(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/67/1)[(2)](https://www.legislation.gov.uk/ukpga/2002/23/section/67/2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-d8cbb77ecd16317d9caf075bae402cd3]: Textual amendment: [S. 67(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/67/1)[(2)](https://www.legislation.gov.uk/ukpga/2002/23/section/67/2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

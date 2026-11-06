@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Transitional provision relating to Parts 1 and 2[^key-320e6607cb830eb92670dffed098104c]
+## 24. Transitional provision relating to Parts 1 and 2[^c-320e6607cb830eb92670dffed098104c]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-320e6607cb830eb92670dffed098104c]: Commencement: S. 24 in force at 25.6.2024, see [s. 25(1)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/c)
+[^c-320e6607cb830eb92670dffed098104c]: Commencement: S. 24 in force at 25.6.2024, see [s. 25(1)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/c)

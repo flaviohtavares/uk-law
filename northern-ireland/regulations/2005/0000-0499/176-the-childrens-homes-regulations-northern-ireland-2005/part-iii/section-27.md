@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Children’s case records[^key-d1189d23be4f6002217db3261c587769]
+## 27. Children’s case records[^c-d1189d23be4f6002217db3261c587769]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ for at least seventy-five years from the date of birth of the child to whom it r
 
 ## Annotations
 
-[^key-d1189d23be4f6002217db3261c587769]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2005/176/regulation/27) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-d1189d23be4f6002217db3261c587769]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2005/176/regulation/27) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

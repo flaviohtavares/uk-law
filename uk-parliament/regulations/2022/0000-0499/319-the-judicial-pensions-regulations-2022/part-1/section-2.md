@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-0254d144da421c8abca0b7eceb4ff577][^key-0254d144da421c8abca0b7eceb4ff577]
+## 2. Interpretation[^c-0254d144da421c8abca0b7eceb4ff577][^c-0254d144da421c8abca0b7eceb4ff577]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,7 +99,7 @@ In these Regulations—
 - “medical certificate” is a certificate prepared by a registered medical practitioner at the request of the scheme manager;
 - “member” means an active member, deferred member, pensioner member or pension credit member of this scheme;
 - “member contributions” has the meaning given in regulation 105 (rate of member contributions);
-- “[^key-47911321822723de999481f08470ece4]**neonatal care leave**” means leave under section 80EF (neonatal care leave) of the Employment Rights Act 1996;
+- “[^c-47911321822723de999481f08470ece4]**neonatal care leave**” means leave under section 80EF (neonatal care leave) of the Employment Rights Act 1996;
 - “normal minimum pension age” has the same meaning as in section 279(1) (other definitions) of FA 2004[^f00021];
 - “normal pension age”, in relation to this scheme, is determined in accordance with section 10 (pensions age) of the Act;
 - “occupational pension scheme” has the meaning given in section 1 (categories of pension schemes) of PSA 1993;
@@ -155,9 +155,9 @@ In these Regulations—
 - “statutory pay” means—
   - (a) statutory adoption pay within the meaning of section 171ZL(1) (entitlement) of the Social Security Contributions and Benefits Act 1992(24)[^f00029];
   - (b) statutory maternity pay within the meaning of section 164(1) (statutory maternity pay - entitlement and liability to pay) of the Social Security Contributions and Benefits Act 1992;
-  - (c) statutory paternity pay within the meaning of section 171ZA(1) (entitlement: birth) or 171ZB(1) (entitlement: adoption) of the Social Security Contributions and Benefits Act 1992[^f00030]; [^key-0be55526293217451cb9d7a55166a40e]...
-  - (d) statutory shared parental pay within the meaning of section 171ZU (entitlement: birth) or section 171ZV (entitlement: adoption) of the Social Security Contributions and Benefits Act 1992[^f00031] ; or[^key-786aae7a11e56356197ef8f530bacf06]
-  - (e) statutory neonatal care pay within the meaning of section 171ZZ16 (entitlement) of the Social Security Contributions and Benefits Acts 1992;[^key-aad44610eda9e888f1202d1b1a517a42]
+  - (c) statutory paternity pay within the meaning of section 171ZA(1) (entitlement: birth) or 171ZB(1) (entitlement: adoption) of the Social Security Contributions and Benefits Act 1992[^f00030]; [^c-0be55526293217451cb9d7a55166a40e]...
+  - (d) statutory shared parental pay within the meaning of section 171ZU (entitlement: birth) or section 171ZV (entitlement: adoption) of the Social Security Contributions and Benefits Act 1992[^f00031] ; or[^c-786aae7a11e56356197ef8f530bacf06]
+  - (e) statutory neonatal care pay within the meaning of section 171ZZ16 (entitlement) of the Social Security Contributions and Benefits Acts 1992;[^c-aad44610eda9e888f1202d1b1a517a42]
 - “surviving adult”, in relation to a deceased member of this scheme, has the meaning given in regulation 76 (surviving adults);
 - “surviving adult’s pension” has the meaning given in regulation 78 (meaning of “surviving adult’s pension”);
 - “surviving civil partner” has the meaning given in regulation 76;
@@ -171,7 +171,7 @@ In these Regulations—
 
 ## Annotations
 
-[^key-0254d144da421c8abca0b7eceb4ff577]: Commencement: Reg. 2 in force at 18.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/2)
+[^c-0254d144da421c8abca0b7eceb4ff577]: Commencement: Reg. 2 in force at 18.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2015/182](https://www.legislation.gov.uk/uksi/2015/182) as amended by [S.I. 2017/508](https://www.legislation.gov.uk/uksi/2017/508) and [S.I. 2021/36](https://www.legislation.gov.uk/uksi/2021/36).
 
@@ -205,7 +205,7 @@ In these Regulations—
 
 [^f00020]: Footnote: [S.I. 1999/3312](https://www.legislation.gov.uk/uksi/1999/3312), to which there are amendments not relevant to these Regulations.
 
-[^key-47911321822723de999481f08470ece4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/319/regulation/2) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(2)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/2/a)
+[^c-47911321822723de999481f08470ece4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/319/regulation/2) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(2)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/2/a)
 
 [^f00021]: Footnote: There are amendments to section 279(1) but none are relevant.
 
@@ -227,10 +227,10 @@ In these Regulations—
 
 [^f00030]: Footnote: Sections 171ZA and 171ZB were inserted by the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22) section 2. Subsections (1) of those sections were amended by the Work and Families Act [2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18) Schedule 1 paragraphs 12 and 13.
 
-[^key-0be55526293217451cb9d7a55166a40e]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2022/319/regulation/2) omitted (6.4.2025) by virtue of [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/2/b/i)
+[^c-0be55526293217451cb9d7a55166a40e]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2022/319/regulation/2) omitted (6.4.2025) by virtue of [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/2/b/i)
 
 [^f00031]: Footnote: Sections 171ZU and 171ZV were inserted by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6) section 119(1).
 
-[^key-786aae7a11e56356197ef8f530bacf06]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2022/319/regulation/2) substituted for colon (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/2/b/ii)
+[^c-786aae7a11e56356197ef8f530bacf06]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2022/319/regulation/2) substituted for colon (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/2/b/ii)
 
-[^key-aad44610eda9e888f1202d1b1a517a42]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/319/regulation/2) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/2/b/iii)
+[^c-aad44610eda9e888f1202d1b1a517a42]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/319/regulation/2) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/2/b/iii)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) No course of study leading to an external qualification shall be provided for pupils of compulsory school age by or on behalf of a grant-aided school unless the qualification is for the time being approved by the Department.
 
-(2)[^key-ed05844d3ccde4c59e5e1facc7129806] No course of study leading to an external qualification shall be provided for pupils who have attained the upper limit of compulsory school age by or on behalf of a grant-aided school unless the qualification is for the time being approved by the Department.
+(2)[^c-ed05844d3ccde4c59e5e1facc7129806] No course of study leading to an external qualification shall be provided for pupils who have attained the upper limit of compulsory school age by or on behalf of a grant-aided school unless the qualification is for the time being approved by the Department.
 
 (3)[^c17054051] No course of study leading to an external qualification shall be provided for persons under the age of 19 who are in full time attendance at an institution of further education by or on behalf of the institution unless the qualification is for the time being approved by the Department.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ed05844d3ccde4c59e5e1facc7129806]: Commencement: [Art. 81(2)](https://www.legislation.gov.uk/nisi/1998/1759/article/81/2) in operation at 6.3.2015 by [S.R. 2015/127](https://www.legislation.gov.uk/nisr/2015/127), [art. 2](https://www.legislation.gov.uk/nisr/2015/127/article/2)
+[^c-ed05844d3ccde4c59e5e1facc7129806]: Commencement: [Art. 81(2)](https://www.legislation.gov.uk/nisi/1998/1759/article/81/2) in operation at 6.3.2015 by [S.R. 2015/127](https://www.legislation.gov.uk/nisr/2015/127), [art. 2](https://www.legislation.gov.uk/nisr/2015/127/article/2)
 
 [^c17054051]: Textual amendment: functions transf. by SR 1999/481

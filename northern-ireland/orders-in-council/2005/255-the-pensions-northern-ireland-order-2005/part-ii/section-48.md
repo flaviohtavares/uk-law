@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Restoration orders where transactions at an undervalue[^c17103171][^key-eeb59a484ff5344c3c1d4262d9215ad9]
+## 48. Restoration orders where transactions at an undervalue[^c17103171][^c-eeb59a484ff5344c3c1d4262d9215ad9]
 
 *Extent: N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 [^c17103171]: Textual amendment: mod. by SR 2005/378
 
-[^key-eeb59a484ff5344c3c1d4262d9215ad9]: Modification: [Art. 48](https://www.legislation.gov.uk/nisi/2005/255/article/48) modified (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [14(4)](https://www.legislation.gov.uk/nisr/2022/192/regulation/14/4)
+[^c-eeb59a484ff5344c3c1d4262d9215ad9]: Modification: [Art. 48](https://www.legislation.gov.uk/nisi/2005/255/article/48) modified (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [14(4)](https://www.legislation.gov.uk/nisr/2022/192/regulation/14/4)

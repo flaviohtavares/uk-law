@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Aviation security directions etc[^key-1795c2044dd52cef4f84b75599cbf154]
+## 78. Aviation security directions etc[^c-1795c2044dd52cef4f84b75599cbf154]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1795c2044dd52cef4f84b75599cbf154]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2012/19/section/78) in force at 1.4.2014 by [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
+[^c-1795c2044dd52cef4f84b75599cbf154]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2012/19/section/78) in force at 1.4.2014 by [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)

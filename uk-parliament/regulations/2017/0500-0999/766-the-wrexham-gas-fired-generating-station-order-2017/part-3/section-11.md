@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Temporary prohibition or restriction of use of streets[^key-41500cf5aa30ff1f290219dc70dcdd0c]
+## 11. Temporary prohibition or restriction of use of streets[^c-41500cf5aa30ff1f290219dc70dcdd0c]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41500cf5aa30ff1f290219dc70dcdd0c]: Commencement: Art. 11 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-41500cf5aa30ff1f290219dc70dcdd0c]: Commencement: Art. 11 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)

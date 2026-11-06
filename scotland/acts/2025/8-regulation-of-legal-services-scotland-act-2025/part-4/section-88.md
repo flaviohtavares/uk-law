@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Non-solicitor investors: factors as to fitness[^key-cc837461f905c967897d42070db1d7d4]
+## 88. Non-solicitor investors: factors as to fitness[^c-cc837461f905c967897d42070db1d7d4]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ In section 64 (factors as to fitness) of the 2010 Act—
 
 ## Annotations
 
-[^key-cc837461f905c967897d42070db1d7d4]: Commencement: S. 88 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-cc837461f905c967897d42070db1d7d4]: Commencement: S. 88 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

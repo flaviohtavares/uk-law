@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Students becoming eligible in the course of an academic year[^key-312d38dc4317a9d57909554960b19b4b]
+## 73. Students becoming eligible in the course of an academic year[^c-312d38dc4317a9d57909554960b19b4b]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) the student, his spouse, his civil partner or his parent is recognised as a refugee or becomes a person with leave to enter or remain;
 - (c) the state of which the student is a national accedes to the European Community where the student has been ordinarily resident in the United Kingdom and Islands throughout the three-year period immediately preceding the first day of the first academic year of the course;
 - (d) the student acquires the right of permanent residence;
-- (da)[^key-2a054cbf896f7339b98c58a9b7c8dff7] the student becomes the child of a Turkish worker;
+- (da)[^c-2a054cbf896f7339b98c58a9b7c8dff7] the student becomes the child of a Turkish worker;
 - (e) the student becomes a person described in paragraph 6(1)(a) of Part 2 of Schedule 2; or
 - (f) the student becomes the child of a Swiss national.
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-312d38dc4317a9d57909554960b19b4b]: Commencement: [Reg. 73](https://www.legislation.gov.uk/nisr/2007/195/regulation/73) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-312d38dc4317a9d57909554960b19b4b]: Commencement: [Reg. 73](https://www.legislation.gov.uk/nisr/2007/195/regulation/73) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-2a054cbf896f7339b98c58a9b7c8dff7]: Textual amendment: [Reg. 73(2)(da)](https://www.legislation.gov.uk/nisr/2007/195/regulation/73/2/da) inserted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [21](https://www.legislation.gov.uk/nisr/2007/293/regulation/21)
+[^c-2a054cbf896f7339b98c58a9b7c8dff7]: Textual amendment: [Reg. 73(2)(da)](https://www.legislation.gov.uk/nisr/2007/195/regulation/73/2/da) inserted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [21](https://www.legislation.gov.uk/nisr/2007/293/regulation/21)

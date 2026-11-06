@@ -38,7 +38,7 @@ Part IV (except sections 39, [^c15341781]. . . 47(1)(a)(ii) and (v), 54 and 56).
 
 Sections 100 and 101.
 
-Sections 104 to 107[^key-117edecd6e2db885246b7e506ff4b40e]..., and so much of section 115 as relates to those sections.
+Sections 104 to 107[^c-117edecd6e2db885246b7e506ff4b40e]..., and so much of section 115 as relates to those sections.
 
 Sections 134, 135, 136, 137, 146, 150,. . . [^c15341791], 160, 161 and 164.
 
@@ -76,7 +76,7 @@ In Schedule 18, Part I,. . . [^c15341791]
 
 [^c15341781]: Textual amendment: Word in Sch. 17 Pt. I repealed (1.4.1994) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [ss. 150(1)(o)](https://www.legislation.gov.uk/ukpga/1993/43/section/150/1/o), [152(3)](https://www.legislation.gov.uk/ukpga/1993/43/section/152/3), [Sch.14](https://www.legislation.gov.uk/ukpga/1993/43/schedule/14); [S.I. 1994/571](https://www.legislation.gov.uk/uksi/1994/571), [art. 5](https://www.legislation.gov.uk/uksi/1994/571/article/5)
 
-[^key-117edecd6e2db885246b7e506ff4b40e]: Textual amendment: Words in Sch. 17 Pt. I repealed (1.4.2007) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 176](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/176), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2007/816](https://www.legislation.gov.uk/uksi/2007/816), [art. 2(b)(c)](https://www.legislation.gov.uk/uksi/2007/816/article/2/b/c)
+[^c-117edecd6e2db885246b7e506ff4b40e]: Textual amendment: Words in Sch. 17 Pt. I repealed (1.4.2007) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 176](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/176), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2007/816](https://www.legislation.gov.uk/uksi/2007/816), [art. 2(b)(c)](https://www.legislation.gov.uk/uksi/2007/816/article/2/b/c)
 
 [^c15341791]: Textual amendment: Words repealed by [House of Commons Disqualification Act 1975 (c. 24)](https://www.legislation.gov.uk/ukpga/1975/24), [Sch. 3](https://www.legislation.gov.uk/ukpga/1975/24/schedule/3) and [Northern Ireland Assembly Disqualification Act 1975 (c. 25)](https://www.legislation.gov.uk/ukpga/1975/25), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1975/25/schedule/3/part/I)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Notification of requirement of secrecy[^key-d55840b4d672046e6d7b5dc2d744d2ca][^key-e8d575e45bfcb0ad5d5235289b0b8aaf]
+## 70. Notification of requirement of secrecy[^c-d55840b4d672046e6d7b5dc2d744d2ca][^c-e8d575e45bfcb0ad5d5235289b0b8aaf]
 
 *Extent: S*
 
@@ -24,8 +24,8 @@ The returning officer shall make such arrangements as he thinks fit to ensure th
 
 ## Annotations
 
-[^key-d55840b4d672046e6d7b5dc2d744d2ca]: Commencement: Reg. 70 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-d55840b4d672046e6d7b5dc2d744d2ca]: Commencement: Reg. 70 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
-[^key-e8d575e45bfcb0ad5d5235289b0b8aaf]: Modification: [Reg. 70](https://www.legislation.gov.uk/uksi/2001/497/regulation/70) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/24)
+[^c-e8d575e45bfcb0ad5d5235289b0b8aaf]: Modification: [Reg. 70](https://www.legislation.gov.uk/uksi/2001/497/regulation/70) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/24)
 
 [^f00042]: Footnote: Section 66(6) was amended by Schedule 3 to the 1985 Act.

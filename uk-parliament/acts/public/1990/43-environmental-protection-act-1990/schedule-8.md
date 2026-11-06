@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Amendment of Enactments relating to Countryside Matters[^key-ecca02f9befb178ccc653cce18f76981]
+## SCHEDULE 8 — Amendment of Enactments relating to Countryside Matters[^c-ecca02f9befb178ccc653cce18f76981]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,48 +24,48 @@ summary: ''
 
 Section 130.
 
-### National Parks and Access to the Countryside Act 1949 (c. 97)[^key-ecca02f9befb178ccc653cce18f76981]
+### National Parks and Access to the Countryside Act 1949 (c. 97)[^c-ecca02f9befb178ccc653cce18f76981]
 
 *Extent: E+W*
 
-**1.**[^key-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Countryside Act 1968 (c. 41)[^key-ecca02f9befb178ccc653cce18f76981]
+### The Countryside Act 1968 (c. 41)[^c-ecca02f9befb178ccc653cce18f76981]
 
-**2.**[^key-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Local Government Act 1972 (c.70)[^key-ecca02f9befb178ccc653cce18f76981]
+### Local Government Act 1972 (c.70)[^c-ecca02f9befb178ccc653cce18f76981]
 
 *Extent: E+W+S*
 
-**3.**[^key-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Local Government Act 1974 (c.7)[^key-ecca02f9befb178ccc653cce18f76981]
+### Local Government Act 1974 (c.7)[^c-ecca02f9befb178ccc653cce18f76981]
 
 *Extent: E+W*
 
-**4.**[^key-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Highways Act 1980 (c. 66)[^key-ecca02f9befb178ccc653cce18f76981]
+### Highways Act 1980 (c. 66)[^c-ecca02f9befb178ccc653cce18f76981]
 
-**5.**[^key-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Wildlife and Countryside Act 1981 (c. 69)[^key-ecca02f9befb178ccc653cce18f76981]
+### Wildlife and Countryside Act 1981 (c. 69)[^c-ecca02f9befb178ccc653cce18f76981]
 
-**6.**[^key-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Road Traffic Regulation Act 1984 (c.27)[^key-ecca02f9befb178ccc653cce18f76981]
-
-*Extent: E+W+S*
-
-**7.**[^key-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### The Water Act 1989 (c. 15)[^key-ecca02f9befb178ccc653cce18f76981]
+### The Road Traffic Regulation Act 1984 (c.27)[^c-ecca02f9befb178ccc653cce18f76981]
 
 *Extent: E+W+S*
 
-**8.**[^key-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Water Act 1989 (c. 15)[^c-ecca02f9befb178ccc653cce18f76981]
+
+*Extent: E+W+S*
+
+**8.**[^c-ecca02f9befb178ccc653cce18f76981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ecca02f9befb178ccc653cce18f76981]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/1990/43/schedule/8) repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [8(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/article/8/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ecca02f9befb178ccc653cce18f76981]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/1990/43/schedule/8) repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [8(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/article/8/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

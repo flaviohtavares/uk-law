@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Publication of details of sanctions[^key-16f1939780fa5375b052d388d27d0003]
+## 53. Publication of details of sanctions[^c-16f1939780fa5375b052d388d27d0003]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ the OGA must publish details of the cancellation or withdrawal.
 
 ## Annotations
 
-[^key-16f1939780fa5375b052d388d27d0003]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2016/20/section/53) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-16f1939780fa5375b052d388d27d0003]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2016/20/section/53) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

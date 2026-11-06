@@ -28,7 +28,7 @@ summary: ''
 
 (4) The period of eligibility terminates when the eligible student (“A”)—
 
-- (a) withdraws from A's designated course in circumstances where the Secretary of State has not transferred or converted or will not transfer or convert A's status as an eligible student under regulation 7, 132, 139B or 139C[^key-5f3f7f60babc592629c0fa700fe620f3]; or
+- (a) withdraws from A's designated course in circumstances where the Secretary of State has not transferred or converted or will not transfer or convert A's status as an eligible student under regulation 7, 132, 139B or 139C[^c-5f3f7f60babc592629c0fa700fe620f3]; or
 - (b) abandons or is expelled from A's designated course.
 
 (5) The Secretary of State may terminate the period of eligibility where A has shown by A's conduct that A is unfitted to receive support.
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f3f7f60babc592629c0fa700fe620f3]: Textual amendment: Words in [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/6/4/a) substituted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2018/472/regulation/4)
+[^c-5f3f7f60babc592629c0fa700fe620f3]: Textual amendment: Words in [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/6/4/a) substituted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2018/472/regulation/4)

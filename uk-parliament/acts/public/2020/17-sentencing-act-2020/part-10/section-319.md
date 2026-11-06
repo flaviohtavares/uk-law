@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 319. Mandatory sentence requirement not to affect power to impose fine[^key-c4819f8227da26bc74da6525865a8997]
+## 319. Mandatory sentence requirement not to affect power to impose fine[^c-c4819f8227da26bc74da6525865a8997]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in this Chapter which requires the court to impose a particular term of 
 
 ## Annotations
 
-[^key-c4819f8227da26bc74da6525865a8997]: Commencement: S. 319 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c4819f8227da26bc74da6525865a8997]: Commencement: S. 319 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

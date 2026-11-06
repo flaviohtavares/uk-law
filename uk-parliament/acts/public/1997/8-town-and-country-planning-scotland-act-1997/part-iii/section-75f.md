@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75F. Good neighbour agreements: appeals[^key-c365f5aedc4eb91105f0af1391c347ce]
+## 75F. Good neighbour agreements: appeals[^c-c365f5aedc4eb91105f0af1391c347ce]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ as may be prescribed.
 
 ## Annotations
 
-[^key-c365f5aedc4eb91105f0af1391c347ce]: Textual amendment: [Ss. 75D-75G](https://www.legislation.gov.uk/ukpga/1997/8/section/75D) inserted (12.12.2008 for specified purposes, 1.2.2011 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 24](https://www.legislation.gov.uk/asp/2006/17/section/24), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)
+[^c-c365f5aedc4eb91105f0af1391c347ce]: Textual amendment: [Ss. 75D-75G](https://www.legislation.gov.uk/ukpga/1997/8/section/75D) inserted (12.12.2008 for specified purposes, 1.2.2011 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 24](https://www.legislation.gov.uk/asp/2006/17/section/24), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)

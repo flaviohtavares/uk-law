@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35A. Relevant linked cases – limited capability for work-related activity[^key-a814d7b07834e246a16b107108f093f0]
+## 35A. Relevant linked cases – limited capability for work-related activity[^c-a814d7b07834e246a16b107108f093f0]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ A claimant is to be treated as having limited capability for work-related activi
 
 ## Annotations
 
-[^key-a814d7b07834e246a16b107108f093f0]: Textual amendment: [Reg. 35A](https://www.legislation.gov.uk/nisr/2008/280/regulation/35A) inserted (1.5.2012) by [The Employment and Support Allowance (Amendment of Linking Rules) Regulations (Northern Ireland) 2012 (S.R. 2012/160)](https://www.legislation.gov.uk/nisr/2012/160), [regs. 1](https://www.legislation.gov.uk/nisr/2012/160/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2012/160/regulation/2/4)
+[^c-a814d7b07834e246a16b107108f093f0]: Textual amendment: [Reg. 35A](https://www.legislation.gov.uk/nisr/2008/280/regulation/35A) inserted (1.5.2012) by [The Employment and Support Allowance (Amendment of Linking Rules) Regulations (Northern Ireland) 2012 (S.R. 2012/160)](https://www.legislation.gov.uk/nisr/2012/160), [regs. 1](https://www.legislation.gov.uk/nisr/2012/160/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2012/160/regulation/2/4)

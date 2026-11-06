@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Driving disqualification order[^key-a9e4397f1852c146c66602ece9e2fb96]
+## 162. Driving disqualification order[^c-a9e4397f1852c146c66602ece9e2fb96]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Code “**driving disqualification order**” means an order made under 
 
 ## Annotations
 
-[^key-a9e4397f1852c146c66602ece9e2fb96]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2020/17/section/162) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a9e4397f1852c146c66602ece9e2fb96]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2020/17/section/162) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

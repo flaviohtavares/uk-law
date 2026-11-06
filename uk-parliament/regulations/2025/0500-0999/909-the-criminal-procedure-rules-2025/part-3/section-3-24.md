@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.24. Application for non-jury trial containing information withheld from a defendant[^key-5464754c6243217a56d9ed8072f06cd4]
+## 3.24. Application for non-jury trial containing information withheld from a defendant[^c-5464754c6243217a56d9ed8072f06cd4]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5464754c6243217a56d9ed8072f06cd4]: Commencement: [Rule 3.24](https://www.legislation.gov.uk/uksi/2025/909/rule/3.24) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-5464754c6243217a56d9ed8072f06cd4]: Commencement: [Rule 3.24](https://www.legislation.gov.uk/uksi/2025/909/rule/3.24) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -141,7 +141,7 @@ In the Social Security and Child Support (Decisions and Appeals) Regulations 199
 
     .
 
-## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-da72068d0ff99a262654584a29b84a35]
+## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-da72068d0ff99a262654584a29b84a35]
 
 After regulation 30 of the Social Security (Claims and Payments) Regulations 1987 [^c1584310], there shall be inserted the following regulation—
 
@@ -159,20 +159,20 @@ After regulation 30 of the Social Security (Claims and Payments) Regulations 198
 
 ## 6. Amendment of the Housing Benefit (General) Regulations 1987 and of the Council Tax Benefit (General) Regulations 1992
 
-In both the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-c85dca551d13395824779a3a61bf2916] [^c1584311] and the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-c85dca551d13395824779a3a61bf2916] [^c1584312]—
+In both the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-c85dca551d13395824779a3a61bf2916] [^c1584311] and the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-c85dca551d13395824779a3a61bf2916] [^c1584312]—
 
-- (a) after paragraph 4 of Schedule 4 (sums to be disregarded in the calculation of income other than earnings), there shall be inserted the following paragraph— *(affected by repeal, see note)*[^key-c85dca551d13395824779a3a61bf2916]
+- (a) after paragraph 4 of Schedule 4 (sums to be disregarded in the calculation of income other than earnings), there shall be inserted the following paragraph— *(affected by repeal, see note)*[^c-c85dca551d13395824779a3a61bf2916]
 
   > **4A.**
   >
-  > Where the claimant is a member of a joint-claim couple for the purposes of the Jobseekers Act 1995 and his partner is on an income-based jobseeker’s allowance, the whole of the claimant’s income. *(affected by repeal, see note)*[^key-c85dca551d13395824779a3a61bf2916]
+  > Where the claimant is a member of a joint-claim couple for the purposes of the Jobseekers Act 1995 and his partner is on an income-based jobseeker’s allowance, the whole of the claimant’s income. *(affected by repeal, see note)*[^c-c85dca551d13395824779a3a61bf2916]
 
   ;
-- (b) after paragraph 5 of Schedule 5 (capital to be disregarded), there shall be inserted the following paragraph— *(affected by repeal, see note)*[^key-c85dca551d13395824779a3a61bf2916]
+- (b) after paragraph 5 of Schedule 5 (capital to be disregarded), there shall be inserted the following paragraph— *(affected by repeal, see note)*[^c-c85dca551d13395824779a3a61bf2916]
 
   > **5A.**
   >
-  > Where the claimant is a member of a joint-claim couple for the purposes of the Jobseekers Act 1995 and his partner is on an income-based jobseeker’s allowance, the whole of the claimant’s capital. *(affected by repeal, see note)*[^key-c85dca551d13395824779a3a61bf2916]
+  > Where the claimant is a member of a joint-claim couple for the purposes of the Jobseekers Act 1995 and his partner is on an income-based jobseeker’s allowance, the whole of the claimant’s capital. *(affected by repeal, see note)*[^c-c85dca551d13395824779a3a61bf2916]
 
   .
 
@@ -248,11 +248,11 @@ These Regulations do not impose any charge on business.
 
 [^c1584309]: Marginal citation: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-da72068d0ff99a262654584a29b84a35]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/518/regulation/5) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-da72068d0ff99a262654584a29b84a35]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/518/regulation/5) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1584310]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
-[^key-c85dca551d13395824779a3a61bf2916]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2001/518/regulation/6) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-c85dca551d13395824779a3a61bf2916]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2001/518/regulation/6) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1584311]: Marginal citation: [S.I. 1987/1971](https://www.legislation.gov.uk/uksi/1987/1971); the relevant amending instrument is [S.I. 1996/1510](https://www.legislation.gov.uk/uksi/1996/1510).
 

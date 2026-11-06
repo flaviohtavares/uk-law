@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Payment of lump sum death benefit[^key-e6263c17e7cc773fa0fa23d515689eb8]
+## 121. Payment of lump sum death benefit[^c-e6263c17e7cc773fa0fa23d515689eb8]
 
 *Extent: E+W+S+N.I.*
 
-(1) A lump sum death benefit may be paid[^key-97c6ba39a14f039ef1944ea63ea261e8] where—
+(1) A lump sum death benefit may be paid[^c-97c6ba39a14f039ef1944ea63ea261e8] where—
 
 - (a) an active, deferred or pensioner member of this scheme dies; or
 - (b) a pension credit member of this scheme dies before any benefits attributable (directly or indirectly) to a pension credit become payable.
@@ -35,12 +35,12 @@ summary: ''
 - (a) the day on which the scheme manager first knew of the member’s death; and
 - (b) the day on which the scheme manager could reasonably be expected to have known of the member’s death.
 
-(4)[^key-ce5713f0c4b105ccbaaee55ea72f6be6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ce5713f0c4b105ccbaaee55ea72f6be6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e6263c17e7cc773fa0fa23d515689eb8]: Commencement: [Reg. 121](https://www.legislation.gov.uk/uksi/2014/1964/regulation/121) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-e6263c17e7cc773fa0fa23d515689eb8]: Commencement: [Reg. 121](https://www.legislation.gov.uk/uksi/2014/1964/regulation/121) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-97c6ba39a14f039ef1944ea63ea261e8]: Textual amendment: Words in [reg. 121(1)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/121/1) substituted (1.4.2022) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2022 (S.I. 2022/330)](https://www.legislation.gov.uk/uksi/2022/330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/330/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/330/regulation/3/a)
+[^c-97c6ba39a14f039ef1944ea63ea261e8]: Textual amendment: Words in [reg. 121(1)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/121/1) substituted (1.4.2022) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2022 (S.I. 2022/330)](https://www.legislation.gov.uk/uksi/2022/330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/330/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/330/regulation/3/a)
 
-[^key-ce5713f0c4b105ccbaaee55ea72f6be6]: Textual amendment: [Reg. 121(4)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/121/4) omitted (1.4.2022) by virtue of [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2022 (S.I. 2022/330)](https://www.legislation.gov.uk/uksi/2022/330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/330/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/330/regulation/3/b)
+[^c-ce5713f0c4b105ccbaaee55ea72f6be6]: Textual amendment: [Reg. 121(4)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/121/4) omitted (1.4.2022) by virtue of [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2022 (S.I. 2022/330)](https://www.legislation.gov.uk/uksi/2022/330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/330/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/330/regulation/3/b)

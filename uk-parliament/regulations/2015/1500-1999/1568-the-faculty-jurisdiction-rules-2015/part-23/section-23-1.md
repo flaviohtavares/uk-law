@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 23.1. Appeal from consistory court – initial application to chancellor[^key-2f82203e07104427a5976d835b4fbad2]
+## 23.1. Appeal from consistory court – initial application to chancellor[^c-2f82203e07104427a5976d835b4fbad2]
 
 *Extent: E*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f82203e07104427a5976d835b4fbad2]: Commencement: [Rule 23.1](https://www.legislation.gov.uk/uksi/2015/1568/article/23.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-2f82203e07104427a5976d835b4fbad2]: Commencement: [Rule 23.1](https://www.legislation.gov.uk/uksi/2015/1568/article/23.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

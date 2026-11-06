@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Power to make pro-competition interventions[^key-08dbb058ea729715db1fdd74ec98a706][^key-6c67d7dfafbd4c5933f23044053a2e63]
+## 46. Power to make pro-competition interventions[^c-08dbb058ea729715db1fdd74ec98a706][^c-6c67d7dfafbd4c5933f23044053a2e63]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-08dbb058ea729715db1fdd74ec98a706]: Commencement: S. 46 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-08dbb058ea729715db1fdd74ec98a706]: Commencement: S. 46 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-6c67d7dfafbd4c5933f23044053a2e63]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2024/13/section/46) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-6c67d7dfafbd4c5933f23044053a2e63]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2024/13/section/46) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

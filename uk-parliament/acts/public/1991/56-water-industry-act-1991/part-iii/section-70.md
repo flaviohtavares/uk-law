@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to subsection (3) below, where a water undertaker’s supply system is used for the purposes of supplying water[^c19806951] to any premises and that water is unfit for human consumption, the relevant persons[^c19806961] shall be guilty of an offence and liable on summary conviction, or on conviction on indictment, to a fine[^key-85be2c03510761b91248b95c2ffa2def].
+(1) Subject to subsection (3) below, where a water undertaker’s supply system is used for the purposes of supplying water[^c19806951] to any premises and that water is unfit for human consumption, the relevant persons[^c19806961] shall be guilty of an offence and liable on summary conviction, or on conviction on indictment, to a fine[^c-85be2c03510761b91248b95c2ffa2def].
 
 (1A)[^c19806971] For the purposes of subsection (1) above, the relevant persons are—
 
@@ -49,7 +49,7 @@ summary: ''
 
 [^c19806961]: Textual amendment: Words in s. 70(1) substituted (1.10.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/20/2/b); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(t)(iv)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/t/iv) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2528/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2004/2528/schedule))
 
-[^key-85be2c03510761b91248b95c2ffa2def]: Textual amendment: Words in s. 70(1) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 23(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/23/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-85be2c03510761b91248b95c2ffa2def]: Textual amendment: Words in s. 70(1) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 23(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/23/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c19806971]: Textual amendment: S. 70(1A) inserted (1.10.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 20(3)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/20/3); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(t)(iv)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/t/iv) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2528/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2004/2528/schedule))
 

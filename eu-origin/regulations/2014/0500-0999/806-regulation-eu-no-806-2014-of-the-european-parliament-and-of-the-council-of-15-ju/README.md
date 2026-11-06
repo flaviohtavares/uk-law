@@ -34,11 +34,11 @@ of 15 July 2014
 
 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010 (revoked)
 
-[^key-af67c27dfc94b0afbe41539cbcdc70fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af67c27dfc94b0afbe41539cbcdc70fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL PROVISIONS[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+### PART I — GENERAL PROVISIONS[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,19 +52,19 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 - [Section Article 6 — General principles](section-article-6.md)
 - [Section Article 7 — Division of tasks within the SRM](section-article-7.md)
 
-### PART II — SPECIFIC PROVISIONS[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+### PART II — SPECIFIC PROVISIONS[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE I — FUNCTIONS WITHIN THE SRM AND PROCEDURAL RULES[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+#### TITLE I — FUNCTIONS WITHIN THE SRM AND PROCEDURAL RULES[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — Resolution planning[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+##### CHAPTER 1 — Resolution planning[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,7 +88,7 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 - [Section Article 12j — Breaches of the minimum requirement for own funds and eligible liabilities](section-article-12j.md)
 - [Section Article 12k — Transitional and post-resolution arrangements](section-article-12k.md)
 
-##### CHAPTER 2 — Early intervention[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+##### CHAPTER 2 — Early intervention[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,7 +96,7 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 
 - [Section Article 13 — Early intervention](section-article-13.md)
 
-##### CHAPTER 3 — Resolution[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+##### CHAPTER 3 — Resolution[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,7 +119,7 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 - [Section Article 28 — Monitoring by the Board](section-article-28.md)
 - [Section Article 29 — Implementation of decisions under this Regulation](section-article-29.md)
 
-##### CHAPTER 4 — Cooperation[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+##### CHAPTER 4 — Cooperation[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -130,7 +130,7 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 - [Section Article 32 — Consultation of, and cooperation with, non-participating Member States and third countries](section-article-32.md)
 - [Section Article 33 — Recognition and enforcement of third-country resolution proceedings](section-article-33.md)
 
-##### CHAPTER 5 — Investigatory powers[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+##### CHAPTER 5 — Investigatory powers[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -141,7 +141,7 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 - [Section Article 36 — On-site inspections](section-article-36.md)
 - [Section Article 37 — Authorisation by a judicial authority](section-article-37.md)
 
-##### CHAPTER 6 — Penalties[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+##### CHAPTER 6 — Penalties[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -152,13 +152,13 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 - [Section Article 40 — Hearing of the persons subject to the proceedings](section-article-40.md)
 - [Section Article 41 — Disclosure, nature, enforcement and allocation of fines and periodic penalty payments](section-article-41.md)
 
-### PART III — INSTITUTIONAL FRAMEWORK[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+### PART III — INSTITUTIONAL FRAMEWORK[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE I — THE BOARD[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+#### TITLE I — THE BOARD[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -172,7 +172,7 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 - [Section Article 47 — Independence](section-article-47.md)
 - [Section Article 48 — Seat](section-article-48.md)
 
-#### TITLE II — PLENARY SESSION OF THE BOARD[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+#### TITLE II — PLENARY SESSION OF THE BOARD[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -183,7 +183,7 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 - [Section Article 51 — Meeting of the plenary session of the Board](section-article-51.md)
 - [Section Article 52 — General provisions on the decision-making process](section-article-52.md)
 
-#### TITLE III — EXECUTIVE SESSION OF THE BOARD[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+#### TITLE III — EXECUTIVE SESSION OF THE BOARD[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -193,7 +193,7 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 - [Section Article 54 — Tasks](section-article-54.md)
 - [Section Article 55 — Decision-making](section-article-55.md)
 
-#### TITLE IV — CHAIR[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+#### TITLE IV — CHAIR[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -201,13 +201,13 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 
 - [Section Article 56 — Appointment and tasks](section-article-56.md)
 
-#### TITLE V — FINANCIAL PROVISIONS[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+#### TITLE V — FINANCIAL PROVISIONS[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — General provisions[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+##### CHAPTER 1 — General provisions[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -224,13 +224,13 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 - [Section Article 65 — Contributions to the administrative expenditures of the Board](section-article-65.md)
 - [Section Article 66 — Anti-fraud measures](section-article-66.md)
 
-##### CHAPTER 2 — The Single Resolution Fund[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+##### CHAPTER 2 — The Single Resolution Fund[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-###### Section 1 — Constitution of the Fund[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+###### Section 1 — Constitution of the Fund[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -245,7 +245,7 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 - [Section Article 73 — Alternative funding means](section-article-73.md)
 - [Section Article 74 — Access to financial facility](section-article-74.md)
 
-###### Section 2 — Administration of the Fund[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+###### Section 2 — Administration of the Fund[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -253,7 +253,7 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 
 - [Section Article 75 — Investments](section-article-75.md)
 
-###### Section 3 — Use of the Fund[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+###### Section 3 — Use of the Fund[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -264,7 +264,7 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 - [Section Article 78 — Mutualisation of national financing arrangements in the case of group resolution involving institutions in non-participating Member States](section-article-78.md)
 - [Section Article 79 — Use of deposit guarantee schemes in the context of resolution](section-article-79.md)
 
-#### TITLE VI — OTHER PROVISIONS[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+#### TITLE VI — OTHER PROVISIONS[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -284,7 +284,7 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 - [Section Article 91 — Security rules on the protection of classified and sensitive non-classified information](section-article-91.md)
 - [Section Article 92 — Court of Auditors](section-article-92.md)
 
-### PART IV — POWERS OF EXECUTION AND FINAL PROVISIONS[^key-af67c27dfc94b0afbe41539cbcdc70fb]
+### PART IV — POWERS OF EXECUTION AND FINAL PROVISIONS[^c-af67c27dfc94b0afbe41539cbcdc70fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -302,8 +302,8 @@ establishing uniform rules and a uniform procedure for the resolution of credit 
 
 **No longer in force.**
 
-[^key-af67c27dfc94b0afbe41539cbcdc70fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af67c27dfc94b0afbe41539cbcdc70fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af67c27dfc94b0afbe41539cbcdc70fb]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [33(h)](https://www.legislation.gov.uk/uksi/2019/710/regulation/33/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af67c27dfc94b0afbe41539cbcdc70fb]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [33(h)](https://www.legislation.gov.uk/uksi/2019/710/regulation/33/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

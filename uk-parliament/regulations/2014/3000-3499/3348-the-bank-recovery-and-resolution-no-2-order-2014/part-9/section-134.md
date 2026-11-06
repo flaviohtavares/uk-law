@@ -22,15 +22,15 @@ summary: ''
 
 (1) The Bank must exercise the powers conferred by section 3A of the Banking Act 2009—
 
-- (a) to ensure that a group institution[^key-3197a6537acb649fc34e8639274ac9b4] is required at all times to maintain a minimum requirement; and
+- (a) to ensure that a group institution[^c-3197a6537acb649fc34e8639274ac9b4] is required at all times to maintain a minimum requirement; and
 - (b) with the object of ensuring that at all times the institution meets the minimum requirement specified in a direction given for that purpose.
 
-(2)[^key-9afb87de0cee819aa187a78bb07f9665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9afb87de0cee819aa187a78bb07f9665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-9afb87de0cee819aa187a78bb07f9665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9afb87de0cee819aa187a78bb07f9665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3197a6537acb649fc34e8639274ac9b4]: Textual amendment: Words in [art. 134(1)(a)](https://www.legislation.gov.uk/uksi/2014/3348/article/134/1/a) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 75(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/75/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3197a6537acb649fc34e8639274ac9b4]: Textual amendment: Words in [art. 134(1)(a)](https://www.legislation.gov.uk/uksi/2014/3348/article/134/1/a) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 75(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/75/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9afb87de0cee819aa187a78bb07f9665]: Textual amendment: [Art. 134(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/134/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3348/article/134/3) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 75(3)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/75/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9afb87de0cee819aa187a78bb07f9665]: Textual amendment: [Art. 134(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/134/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3348/article/134/3) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 75(3)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/75/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

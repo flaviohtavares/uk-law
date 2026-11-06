@@ -24,9 +24,9 @@ Section 24.
 
 ### Main amendments
 
-**1.**[^key-13b84a9ce6c6c9001cd9d007fb5cf2b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-13b84a9ce6c6c9001cd9d007fb5cf2b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-13b84a9ce6c6c9001cd9d007fb5cf2b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-13b84a9ce6c6c9001cd9d007fb5cf2b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Other amendments
 
@@ -60,7 +60,7 @@ Section 24.
 
 ## Annotations
 
-[^key-13b84a9ce6c6c9001cd9d007fb5cf2b2]: Textual amendment: Sch. 6 paras. 1-3 repealed (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-13b84a9ce6c6c9001cd9d007fb5cf2b2]: Textual amendment: Sch. 6 paras. 1-3 repealed (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^M_F_c6f966ce-6124-46cd-9011-377ae8ed7f38]: Textual amendment: Sch. 6 para. 3 repealed (28.7.2000 with effect as mentioned in Sch. 40 Pt. II(11) Note 3 of the amending Act) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 156](https://www.legislation.gov.uk/ukpga/2000/17/section/156), [Sch. 40 Pt. II(11)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/11)
 

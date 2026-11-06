@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 169. Arrangements for obtaining specialist advice[^key-1c8e8ade137423a1dc9777e7a8d80380][^key-f0ad4ba703d54ac513e9e0f2f4be5aac]
+## 169. Arrangements for obtaining specialist advice[^c-1c8e8ade137423a1dc9777e7a8d80380][^c-f0ad4ba703d54ac513e9e0f2f4be5aac]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c8e8ade137423a1dc9777e7a8d80380]: Commencement: S. 169 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-1c8e8ade137423a1dc9777e7a8d80380]: Commencement: S. 169 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-f0ad4ba703d54ac513e9e0f2f4be5aac]: Commencement: [S. 169](https://www.legislation.gov.uk/asc/2023/3/section/169) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-f0ad4ba703d54ac513e9e0f2f4be5aac]: Commencement: [S. 169](https://www.legislation.gov.uk/asc/2023/3/section/169) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

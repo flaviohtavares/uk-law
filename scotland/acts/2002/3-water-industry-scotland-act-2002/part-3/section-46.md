@@ -25,7 +25,7 @@ summary: ''
 - (a) for the purposes of any of its functions, or
 - (b) for the purpose of the provision, by some person other than itself, of—
   - (i) a supply of water to the public, or
-  - (ii) a system, to which the public is to have access, of drains, sewers, sustainable urban drainage systems[^key-bbf6d3085f30bb6c33991c1286b82d16] or sewage treatment works,
+  - (ii) a system, to which the public is to have access, of drains, sewers, sustainable urban drainage systems[^c-bbf6d3085f30bb6c33991c1286b82d16] or sewage treatment works,
 
   acquire by agreement any land (other than water rights) wherever situated.
 
@@ -44,4 +44,4 @@ are hereby incorporated with this section; and, in construing those Acts for the
 
 ## Annotations
 
-[^key-bbf6d3085f30bb6c33991c1286b82d16]: Textual amendment: Words in s. 46(1)(b)(ii) inserted (30.11.2007) by [Water Environment and Water Services (Scotland) Act 2003 (asp 3)](https://www.legislation.gov.uk/asp/2003/3), [s. 38(1)](https://www.legislation.gov.uk/asp/2003/3/section/38/1), [sch. 3 para. 24](https://www.legislation.gov.uk/asp/2003/3/schedule/3/paragraph/24); [S.S.I. 2007/512](https://www.legislation.gov.uk/ssi/2007/512), [art. 2(c)](https://www.legislation.gov.uk/ssi/2007/512/article/2/c)
+[^c-bbf6d3085f30bb6c33991c1286b82d16]: Textual amendment: Words in s. 46(1)(b)(ii) inserted (30.11.2007) by [Water Environment and Water Services (Scotland) Act 2003 (asp 3)](https://www.legislation.gov.uk/asp/2003/3), [s. 38(1)](https://www.legislation.gov.uk/asp/2003/3/section/38/1), [sch. 3 para. 24](https://www.legislation.gov.uk/asp/2003/3/schedule/3/paragraph/24); [S.S.I. 2007/512](https://www.legislation.gov.uk/ssi/2007/512), [art. 2(c)](https://www.legislation.gov.uk/ssi/2007/512/article/2/c)

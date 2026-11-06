@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 199. Limitation on appeals[^key-0ab28250073ba326d490102771bd38a6]
+## 199. Limitation on appeals[^c-0ab28250073ba326d490102771bd38a6]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0ab28250073ba326d490102771bd38a6]: Commencement: Reg. 199 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-0ab28250073ba326d490102771bd38a6]: Commencement: Reg. 199 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00077]: Footnote: See paragraph 1 of Schedule 1 for the meaning of “medical decision”.
 

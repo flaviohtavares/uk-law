@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Crown rights[^key-305d607ead31f934dcce59f2a1a735aa]
+## 56. Crown rights[^c-305d607ead31f934dcce59f2a1a735aa]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-305d607ead31f934dcce59f2a1a735aa]: Commencement: Art. 56 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-305d607ead31f934dcce59f2a1a735aa]: Commencement: Art. 56 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Failure to comply with direction: seizure[^key-fa19c87abb05c3e8ad50f3c23904fd70]
+## 62. Failure to comply with direction: seizure[^c-fa19c87abb05c3e8ad50f3c23904fd70]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa19c87abb05c3e8ad50f3c23904fd70]: Commencement: S. 62 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/b)
+[^c-fa19c87abb05c3e8ad50f3c23904fd70]: Commencement: S. 62 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/b)

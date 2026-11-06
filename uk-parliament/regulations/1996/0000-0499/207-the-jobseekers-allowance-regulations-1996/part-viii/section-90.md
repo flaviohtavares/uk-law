@@ -14,10 +14,10 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 90. Child support[^key-1da00a9bf8afc3bfef6b87a0e514ab29]
+## 90. Child support[^c-1da00a9bf8afc3bfef6b87a0e514ab29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1da00a9bf8afc3bfef6b87a0e514ab29]: Textual amendment: [Reg. 90](https://www.legislation.gov.uk/uksi/1996/207/regulation/90) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [reg. 3(4)(a)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/3/4/a)
+[^c-1da00a9bf8afc3bfef6b87a0e514ab29]: Textual amendment: [Reg. 90](https://www.legislation.gov.uk/uksi/1996/207/regulation/90) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [reg. 3(4)(a)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/3/4/a)

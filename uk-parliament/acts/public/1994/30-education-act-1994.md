@@ -33,7 +33,7 @@ An Act to make provision about teacher training and related matters; to make pro
 
 \[21st July 1994\] [^c834114]
 
-[^c834115][^c834116]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-f7e8498817bf9f4038f67c52706cf107][^key-324d42c37dcd35ed0bccf0b47d3686e8][^key-b43a623f19dbd02369dba336589bfbe8][^key-cf7294695a8450de725ee50817862f0c]
+[^c834115][^c834116]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-f7e8498817bf9f4038f67c52706cf107][^c-324d42c37dcd35ed0bccf0b47d3686e8][^c-b43a623f19dbd02369dba336589bfbe8][^c-cf7294695a8450de725ee50817862f0c]
 
 ## Part I — Teacher Training
 
@@ -41,87 +41,87 @@ An Act to make provision about teacher training and related matters; to make pro
 
 ### The Teacher Training Agency
 
-#### 1. The Teacher Training Agency.[^key-cac072332cb6500f9881ed259d36e37e]
+#### 1. The Teacher Training Agency.[^c-cac072332cb6500f9881ed259d36e37e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Membership, &c. of the agency.[^key-cac072332cb6500f9881ed259d36e37e]
+#### 2. Membership, &c. of the agency.[^c-cac072332cb6500f9881ed259d36e37e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Funding
 
-#### 3. The funding agencies.[^key-cac072332cb6500f9881ed259d36e37e]
+#### 3. The funding agencies.[^c-cac072332cb6500f9881ed259d36e37e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Qualifying activities and eligible institutions.[^key-cac072332cb6500f9881ed259d36e37e]
+#### 4. Qualifying activities and eligible institutions.[^c-cac072332cb6500f9881ed259d36e37e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Grants, loans and other payments.[^key-cac072332cb6500f9881ed259d36e37e]
+#### 5. Grants, loans and other payments.[^c-cac072332cb6500f9881ed259d36e37e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Provisions supplementary to s. 5.[^key-cac072332cb6500f9881ed259d36e37e]
+#### 6. Provisions supplementary to s. 5.[^c-cac072332cb6500f9881ed259d36e37e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Grants to the funding agencies.[^key-cac072332cb6500f9881ed259d36e37e]
+#### 7. Grants to the funding agencies.[^c-cac072332cb6500f9881ed259d36e37e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Directions by the Secretary of State.[^key-cac072332cb6500f9881ed259d36e37e]
+#### 8. Directions by the Secretary of State.[^c-cac072332cb6500f9881ed259d36e37e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Joint exercise of functions.[^key-cac072332cb6500f9881ed259d36e37e]
+#### 9. Joint exercise of functions.[^c-cac072332cb6500f9881ed259d36e37e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Efficiency studies.[^key-cac072332cb6500f9881ed259d36e37e]
+#### 10. Efficiency studies.[^c-cac072332cb6500f9881ed259d36e37e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Research.[^key-cac072332cb6500f9881ed259d36e37e]
+#### 11. Research.[^c-cac072332cb6500f9881ed259d36e37e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### General duty of Secretary of State[^c834123]
 
-#### 11A. General duty of Secretary of State with respect to teacher training.[^key-aae61d3f9c4fcb5ab618afe6002dd7c3]
+#### 11A. General duty of Secretary of State with respect to teacher training.[^c-aae61d3f9c4fcb5ab618afe6002dd7c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Supplementary provisions
 
-#### 12. Power of schools to provide courses of initial teacher training.[^key-4db38bf7901bf8edb81897cb4a6072b6][^c834145]
+#### 12. Power of schools to provide courses of initial teacher training.[^c-4db38bf7901bf8edb81897cb4a6072b6][^c834145]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Grants for teacher training.[^key-4db38bf7901bf8edb81897cb4a6072b6]
+#### 13. Grants for teacher training.[^c-4db38bf7901bf8edb81897cb4a6072b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Qualification of teachers, &c.[^key-4db38bf7901bf8edb81897cb4a6072b6]
+#### 14. Qualification of teachers, &c.[^c-4db38bf7901bf8edb81897cb4a6072b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Duty to provide information, &c.[^key-4db38bf7901bf8edb81897cb4a6072b6]
+#### 15. Duty to provide information, &c.[^c-4db38bf7901bf8edb81897cb4a6072b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Additional, supplementary and ancillary functions.[^key-4db38bf7901bf8edb81897cb4a6072b6]
+#### 16. Additional, supplementary and ancillary functions.[^c-4db38bf7901bf8edb81897cb4a6072b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. The Teaching as a Career Unit: transfer of property and staff.[^key-4db38bf7901bf8edb81897cb4a6072b6]
+#### 17. The Teaching as a Career Unit: transfer of property and staff.[^c-4db38bf7901bf8edb81897cb4a6072b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 18. Power to reimburse certain payments to persons formerly employed in teacher training.
 
-(1) The Office for Students[^key-84e796df9f9c858f80975f4457a2d6e0] [^key-1379ad1815352e0d11cfe9fc3df03833]... may make payments, subject to such terms and conditions as it thinks[^key-a9af458ae4bf3833d449229ae7603788] fit, to—
+(1) The Office for Students[^c-84e796df9f9c858f80975f4457a2d6e0] [^c-1379ad1815352e0d11cfe9fc3df03833]... may make payments, subject to such terms and conditions as it thinks[^c-a9af458ae4bf3833d449229ae7603788] fit, to—
 
 - (a)[^c834164] the governing body of a grant-maintained school or grant-maintained special school, or
 - (b) a further education corporation or the governing body of any institution designated under section 28 of the [^c834165]Further and Higher Education Act 1992,
@@ -138,28 +138,28 @@ ceased before 1st April 1989 to be employed in a college for the training of tea
 
 (3) The amount of the safeguarded salary payment is the amount by which, in consequence of the matters mentioned in subsection (2), a person’s salary exceeds that which would normally be appropriate to the post held by him.
 
-(4) A body to which subsection (1)(a) or (b) applies shall give to the Office for Students[^key-de44b24f152df48d2c559df7c034fd6d] [^key-83374cc5966870da5dd55f6d6a6fcd10]... such information as it[^key-47bcae71352192dad4888a56baac66fd] may require for the purposes of the exercise of its power under that subsection.
+(4) A body to which subsection (1)(a) or (b) applies shall give to the Office for Students[^c-de44b24f152df48d2c559df7c034fd6d] [^c-83374cc5966870da5dd55f6d6a6fcd10]... such information as it[^c-47bcae71352192dad4888a56baac66fd] may require for the purposes of the exercise of its power under that subsection.
 
-#### 18A. Inspection of institutions training teachers for schools.[^key-88498e4435a9ed427bfe20ede4035067][^c834171]
+#### 18A. Inspection of institutions training teachers for schools.[^c-88498e4435a9ed427bfe20ede4035067][^c834171]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 18B. Inspection of teacher training[^M_C_ae42cf62-c32c-4c9e-936c-2cfa208fe8e6]
 
-(1) Her Majesty's Chief Inspector of Education, Children's Services and Skills[^key-1383db6234652694a6a10eb121d1ee90] (“**the Chief Inspector**”) may inspect and report on—
+(1) Her Majesty's Chief Inspector of Education, Children's Services and Skills[^c-1383db6234652694a6a10eb121d1ee90] (“**the Chief Inspector**”) may inspect and report on—
 
 - (a) any initial training of teachers, or specialist teaching assistants, for schools, or
 - (b) any in-service training of such teachers or assistants,
 
 which is provided by a training provider.
 
-(2)[^key-7970a64954675ea40286ffce3f54ccc1] If requested to do so by the Secretary of State, the Chief Inspector must inspect and report on such one or more relevant training providers in England as may be specified in the Secretary of State's request.
+(2)[^c-7970a64954675ea40286ffce3f54ccc1] If requested to do so by the Secretary of State, the Chief Inspector must inspect and report on such one or more relevant training providers in England as may be specified in the Secretary of State's request.
 
 (3) The Chief Inspector may at any time give advice to—
 
-- (a)[^key-ffceb64fcd43c1a5c6a5bfac9898fbeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) the Secretary of State[^key-d0aa591723c3f7ff29c4582e9584c410] , [^key-af1db810b7c46a3e43f37aca2bfc88a5]...
-- (c)[^key-af1db810b7c46a3e43f37aca2bfc88a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ffceb64fcd43c1a5c6a5bfac9898fbeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the Secretary of State[^c-d0aa591723c3f7ff29c4582e9584c410] , [^c-af1db810b7c46a3e43f37aca2bfc88a5]...
+- (c)[^c-af1db810b7c46a3e43f37aca2bfc88a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 on any matter connected with training falling within subsection (1)(a) or (b).
 
@@ -168,7 +168,7 @@ on any matter connected with training falling within subsection (1)(a) or (b).
 - (a) make such reports of inspections carried out by him under this section as he considers appropriate, and
 - (b) arrange for any such report to be published in such manner as he considers appropriate,
 
-[^key-2f95a4b683384579ded239af616882f5]...
+[^c-2f95a4b683384579ded239af616882f5]...
 
 (5) When inspecting a training provider under this section, the Chief Inspector has at all reasonable times—
 
@@ -182,7 +182,7 @@ and section 58 of the 2005 Act (inspection of computer records) applies for the 
 - (a) must give the Chief Inspector all assistance in connection with the exercise of his functions under this section which he is reasonably able to give, and
 - (b) must secure that all such assistance is also given by persons who work for the training provider.
 
-(7) The Chief Inspector may not carry out any inspection under subsection (1) of training provided by a training provider in Wales[^key-adc1754e87906d338ea3a0d2b39078e3] unless—
+(7) The Chief Inspector may not carry out any inspection under subsection (1) of training provided by a training provider in Wales[^c-adc1754e87906d338ea3a0d2b39078e3] unless—
 
 - (a) at least eight weeks previously, he has given notice of his intention to carry out the inspection—
   - (i) to the training provider concerned, or
@@ -198,9 +198,9 @@ and any such notice may (without prejudice to any other lawful method of giving 
 
 (9) Nothing in this section confers any right or imposes any duty, whether as regards the carrying out of any inspection or otherwise, in relation to any course which consists of instruction given wholly or mainly for purposes other than training falling within subsection (1)(a) or (b).
 
-(10) Any reference in this section to the Chief Inspector is to be read, in relation to any inspection which he is authorised or required to carry out under this section, as including a reference to any person authorised to act on his behalf under paragraph 9(1) of Schedule 12 to the Education and Inspections Act 2006[^key-0983adcbc1d77fb03672433804c0c698] .
+(10) Any reference in this section to the Chief Inspector is to be read, in relation to any inspection which he is authorised or required to carry out under this section, as including a reference to any person authorised to act on his behalf under paragraph 9(1) of Schedule 12 to the Education and Inspections Act 2006[^c-0983adcbc1d77fb03672433804c0c698] .
 
-(11) Nothing in this section is to be taken as prejudicing the generality of paragraph 9(1) of that Schedule.[^key-2e3f1861b28dcb0e866237ca3cc26a4e]
+(11) Nothing in this section is to be taken as prejudicing the generality of paragraph 9(1) of that Schedule.[^c-2e3f1861b28dcb0e866237ca3cc26a4e]
 
 (12) In this section—
 
@@ -227,7 +227,7 @@ which is provided by a training provider in Wales.
 (3) The Chief Inspector may at any time give advice to—
 
 - (a) the Assembly,
-- (b)[^key-624f00f3da60530eb4018046bff70ca1] the Commission for Tertiary Education and Research, or
+- (b)[^c-624f00f3da60530eb4018046bff70ca1] the Commission for Tertiary Education and Research, or
 - (c) the General Teaching Council for Wales,
 
 on any matter connected with training falling within subsection (1)(a) or (b).
@@ -263,7 +263,7 @@ and section 58 of the 2005 Act (inspection of computer records) applies for the 
 - (a) must be given in writing, and
 - (b) may be sent by post;
 
-and any such notice may (without prejudice to any other lawful method of giving it) be addressed to a training provider at any address which the training provider has notified to the Commission for Tertiary Education and Research[^key-0904c9c6fba1252853cfb871c5219e50] as its address.
+and any such notice may (without prejudice to any other lawful method of giving it) be addressed to a training provider at any address which the training provider has notified to the Commission for Tertiary Education and Research[^c-0904c9c6fba1252853cfb871c5219e50] as its address.
 
 (9) Nothing in this section confers any right or imposes any duty, whether as regards the carrying out of any inspection or otherwise, in relation to any course which consists of instruction given wholly or mainly for purposes other than training falling within subsection (1)(a) or (b).
 
@@ -274,7 +274,7 @@ and any such notice may (without prejudice to any other lawful method of giving 
 (12) In this section—
 
 - (a) “**the 2005 Act**” means the Education Act 2005;
-- (b)[^key-272d9d161d839f49f6690b97501cc598] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-272d9d161d839f49f6690b97501cc598] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) “**training provider**” has the same meaning as in Part 3 of the 2005 Act;
 - (d) “**relevant training provider**” means any training provider who provides training falling within subsection (1)(a) or (b);
 - (e) “**in-service training**” includes any training provided to a teacher serving an induction period (within the meaning of section 19 of the Teaching and Higher Education Act 1998);
@@ -282,21 +282,21 @@ and any such notice may (without prejudice to any other lawful method of giving 
 
 #### 19. Interpretation.
 
-(1)[^key-99b5eab20c028c10e7e6d7ab0a4e234f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-99b5eab20c028c10e7e6d7ab0a4e234f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-99b5eab20c028c10e7e6d7ab0a4e234f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-99b5eab20c028c10e7e6d7ab0a4e234f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-99b5eab20c028c10e7e6d7ab0a4e234f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-99b5eab20c028c10e7e6d7ab0a4e234f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-99b5eab20c028c10e7e6d7ab0a4e234f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-99b5eab20c028c10e7e6d7ab0a4e234f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Expressions[^key-f7318ab2b9c2c760d6ead59f6e65dc3a] used in this Part and in the Education Act 1996[^c834178], have the same meaning in this Part as in that Act.
+(5) Expressions[^c-f7318ab2b9c2c760d6ead59f6e65dc3a] used in this Part and in the Education Act 1996[^c834178], have the same meaning in this Part as in that Act.
 
 ## Part II — Students’ Unions
 
 *Extent: E+W+S*
 
-### 20. Meaning of “students’ union”.[^key-596ef5a71fd222359e87f00f76f66140]
+### 20. Meaning of “students’ union”.[^c-596ef5a71fd222359e87f00f76f66140]
 
 (1) In this Part a “**students’ union**” means—
 
@@ -328,13 +328,13 @@ and references to a representative body whose principal purposes include represe
 
 (1) The establishments in England and Wales to which this Part applies are—
 
-- (za)[^key-0a0cba4d1531ef9e1b536f96d3604649] any registered higher education provider of a description prescribed by regulations made for the purposes of section 39(1) of the Higher Education and Research Act 2017;
+- (za)[^c-0a0cba4d1531ef9e1b536f96d3604649] any registered higher education provider of a description prescribed by regulations made for the purposes of section 39(1) of the Higher Education and Research Act 2017;
 - (a) any university receiving financial support under section 65 of the [^c834182]Further and Higher Education Act 1992;
-- (b) any institution in Wales[^key-0dd23f823eac95d12d0819798c060b3d] conducted by a higher education corporation or further education corporation within the meaning of that Act;
-- (ba)[^key-921104b82977564090919099de5068d4] any sixth form college;
-- (c) any institution designated under section 129 of the [^c834183]Education Reform Act 1988 [^key-b2aa73b7e03bbe339efb07b623143cbd]...;
+- (b) any institution in Wales[^c-0dd23f823eac95d12d0819798c060b3d] conducted by a higher education corporation or further education corporation within the meaning of that Act;
+- (ba)[^c-921104b82977564090919099de5068d4] any sixth form college;
+- (c) any institution designated under section 129 of the [^c834183]Education Reform Act 1988 [^c-b2aa73b7e03bbe339efb07b623143cbd]...;
 - (d) any institution designated under section 28 of the [^c834184]Further and Higher Education Act 1992 as eligible to receive support from funds administered by a further education funding council;
-- (da)[^key-34f7011ee4037bfa685417898a88f3c0] any institution in Wales designated under section 28 of the Further and Higher Education Act 1992;
+- (da)[^c-34f7011ee4037bfa685417898a88f3c0] any institution in Wales designated under section 28 of the Further and Higher Education Act 1992;
 - (e) any institution substantially dependent on financial support under section 6(5) of that Act (certain institutions providing facilities for part-time, or adult, further education);
 - (f) any institution designated, or of a description designated, by order of the Secretary of State;
 - (g) any college, school or hall in an establishment within any of the above paragraphs.
@@ -342,11 +342,11 @@ and references to a representative body whose principal purposes include represe
 (2) The establishments in Scotland to which this Part applies are—
 
 - (a) any institution within the higher education sector for the purposes of section 56(2) of the [^c834185]Further and Higher Education (Scotland) Act 1992;
-- (b) any college of further education (within the meaning of section 36(1) of that Act), the board of management of which is established in pursuance of Part 1[^key-2694bafb55a3c77f26da25262352caf0] of that Act;
+- (b) any college of further education (within the meaning of section 36(1) of that Act), the board of management of which is established in pursuance of Part 1[^c-2694bafb55a3c77f26da25262352caf0] of that Act;
 - (c) any central institution within the meaning of section 135(1) of the [^c834186]Education (Scotland) Act 1980;
 - (d) any institution designated, or of a description designated, by order of the Secretary of State.
 
-(2A)[^key-f4f26b257e32ad87cbcf4f2366372f53] For the purposes of subsection (1)(b), institution in Wales means an institution whose activities are wholly or mainly carried out in Wales[^key-df429191fc2fbab9b43d329c502590b0].
+(2A)[^c-f4f26b257e32ad87cbcf4f2366372f53] For the purposes of subsection (1)(b), institution in Wales means an institution whose activities are wholly or mainly carried out in Wales[^c-df429191fc2fbab9b43d329c502590b0].
 
 (3) For the purposes of subsection (1)(e) an institution is substantially dependent on financial support under section 6(5) of the [^c834187]Further and Higher Education Act 1992 in any year in which such support amounts to 25 per cent. or more of its income.
 
@@ -356,7 +356,7 @@ For this purpose “**year**” means an accounting year of the institution, and
 
 (5) References in this Part to the governing body of an establishment are to the executive governing body which has responsibility for the conduct of affairs of the establishment and the management and administration of its revenue and property.
 
-### 22. Requirements to be observed in relation to students’ unions.[^c834188][^key-34d0d5f2bea728fd4cdef4fecd6ca9d5]
+### 22. Requirements to be observed in relation to students’ unions.[^c834188][^c-34d0d5f2bea728fd4cdef4fecd6ca9d5]
 
 (1) The governing body of every establishment to which this Part applies shall take such steps as are reasonably practicable to secure that any students’ union for students at the establishment operates in a fair and democratic manner and is accountable for its finances.
 
@@ -428,11 +428,11 @@ For this purpose “**year**” means an accounting year of the institution, and
 
 ### 23. Orders and directions.
 
-(1) Any power of the Secretary of State to make orders under [^key-bee8215b921c71faaf5b3a255bafbf87]... II shall be exercised by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+(1) Any power of the Secretary of State to make orders under [^c-bee8215b921c71faaf5b3a255bafbf87]... II shall be exercised by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(2) Orders under [^key-bee8215b921c71faaf5b3a255bafbf87]... II may make different provision for different cases, circumstances or areas and may contain such incidental, supplementary or transitional provisions as the Secretary of State thinks fit.
+(2) Orders under [^c-bee8215b921c71faaf5b3a255bafbf87]... II may make different provision for different cases, circumstances or areas and may contain such incidental, supplementary or transitional provisions as the Secretary of State thinks fit.
 
-(3)[^key-c6566f8aba09bd666cb9aa1ce50d93fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c6566f8aba09bd666cb9aa1ce50d93fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 24. Consequential amendments.
 
@@ -478,7 +478,7 @@ The provisions of this Act come into force on such day as the Secretary of State
 
 SCHEDULES
 
-## SCHEDULE 1 — The Teacher Training Agency[^key-e233103d0a6b8b5ecf41c44b3fb6c975]
+## SCHEDULE 1 — The Teacher Training Agency[^c-e233103d0a6b8b5ecf41c44b3fb6c975]
 
 *Extent: E+W*
 
@@ -486,65 +486,65 @@ SCHEDULES
 
 Section 2(5).
 
-### Supplementary powers[^key-e233103d0a6b8b5ecf41c44b3fb6c975]
+### Supplementary powers[^c-e233103d0a6b8b5ecf41c44b3fb6c975]
 
-**1.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Chief officer[^key-e233103d0a6b8b5ecf41c44b3fb6c975]
+### Chief officer[^c-e233103d0a6b8b5ecf41c44b3fb6c975]
 
-**2.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Tenure of members of the agency[^key-e233103d0a6b8b5ecf41c44b3fb6c975]
+### Tenure of members of the agency[^c-e233103d0a6b8b5ecf41c44b3fb6c975]
 
-**3.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Salaries, allowances and pensions[^key-e233103d0a6b8b5ecf41c44b3fb6c975]
+### Salaries, allowances and pensions[^c-e233103d0a6b8b5ecf41c44b3fb6c975]
 
-**5.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Staff[^key-e233103d0a6b8b5ecf41c44b3fb6c975]
+### Staff[^c-e233103d0a6b8b5ecf41c44b3fb6c975]
 
-**6.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Committees[^key-e233103d0a6b8b5ecf41c44b3fb6c975]
+### Committees[^c-e233103d0a6b8b5ecf41c44b3fb6c975]
 
-**8.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Delegation of functions[^key-e233103d0a6b8b5ecf41c44b3fb6c975]
+### Delegation of functions[^c-e233103d0a6b8b5ecf41c44b3fb6c975]
 
-**9.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Proceedings[^key-e233103d0a6b8b5ecf41c44b3fb6c975]
+### Proceedings[^c-e233103d0a6b8b5ecf41c44b3fb6c975]
 
-**10.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Application of seal and proof of instruments[^key-e233103d0a6b8b5ecf41c44b3fb6c975]
+### Application of seal and proof of instruments[^c-e233103d0a6b8b5ecf41c44b3fb6c975]
 
-**14.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Accounts[^key-e233103d0a6b8b5ecf41c44b3fb6c975]
+### Accounts[^c-e233103d0a6b8b5ecf41c44b3fb6c975]
 
-**16.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Annual reports[^key-e233103d0a6b8b5ecf41c44b3fb6c975]
+### Annual reports[^c-e233103d0a6b8b5ecf41c44b3fb6c975]
 
-**17.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Status of agency[^key-e233103d0a6b8b5ecf41c44b3fb6c975]
+### Status of agency[^c-e233103d0a6b8b5ecf41c44b3fb6c975]
 
-**18.**[^key-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-e233103d0a6b8b5ecf41c44b3fb6c975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Consequential amendments
 
@@ -552,7 +552,7 @@ Section 24.
 
 ### Public Records Act 1958 (c.51)
 
-**1.**[^key-5d205fbb965c6c520510e9b6760bf9e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5d205fbb965c6c520510e9b6760bf9e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Education Act 1962 (c. 12)
 
@@ -566,11 +566,11 @@ Section 24.
 
 ### Superannuation Act 1972 (c.11)
 
-**3.**[^key-ae1481f4eb05c23714f83984707b063e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ae1481f4eb05c23714f83984707b063e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### House of Commons Disqualification Act 1975 (c.24)
 
-**4.**[^key-767c7b4d5d9171709fda4443b7146d0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-767c7b4d5d9171709fda4443b7146d0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Sex Discrimination Act 1975 (c.65)
 
@@ -631,11 +631,11 @@ Section 24.
 
 **8.** (1)[^c834203] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-cf95d3d913fa68432d11b3f60b22ef35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cf95d3d913fa68432d11b3f60b22ef35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-cf95d3d913fa68432d11b3f60b22ef35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cf95d3d913fa68432d11b3f60b22ef35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-cf95d3d913fa68432d11b3f60b22ef35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cf95d3d913fa68432d11b3f60b22ef35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5)[^c834203] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -665,21 +665,21 @@ Section 24.
 
 [^c834116]: Modification: Act (except ss. 2, 3(2), 17 and Sch. 1 and functions relating to the Teacher Training Agency other than so far as functions are conferred by s. 1(3)): certain functions transferred (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch.1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-f7e8498817bf9f4038f67c52706cf107]: Modification: Act excluded (1.7.2004 for E., 31.3.2011 for W.) by [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [ss. 29(3)](https://www.legislation.gov.uk/ukpga/2004/8/section/29/3), [52(1)](https://www.legislation.gov.uk/ukpga/2004/8/section/52/1); [S.I. 2011/297](https://www.legislation.gov.uk/wsi/2011/297), [art. 4(a)](https://www.legislation.gov.uk/wsi/2011/297/article/4/a)
+[^c-f7e8498817bf9f4038f67c52706cf107]: Modification: Act excluded (1.7.2004 for E., 31.3.2011 for W.) by [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [ss. 29(3)](https://www.legislation.gov.uk/ukpga/2004/8/section/29/3), [52(1)](https://www.legislation.gov.uk/ukpga/2004/8/section/52/1); [S.I. 2011/297](https://www.legislation.gov.uk/wsi/2011/297), [art. 4(a)](https://www.legislation.gov.uk/wsi/2011/297/article/4/a)
 
-[^key-324d42c37dcd35ed0bccf0b47d3686e8]: Modification: Act applied (E.W.) (1.4.2005) by [The Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
+[^c-324d42c37dcd35ed0bccf0b47d3686e8]: Modification: Act applied (E.W.) (1.4.2005) by [The Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
 
-[^key-b43a623f19dbd02369dba336589bfbe8]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
+[^c-b43a623f19dbd02369dba336589bfbe8]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
 
-[^key-cf7294695a8450de725ee50817862f0c]: Modification: Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
+[^c-cf7294695a8450de725ee50817862f0c]: Modification: Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
 
-[^key-cac072332cb6500f9881ed259d36e37e]: Textual amendment: Ss. 1-11 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/11), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
+[^c-cac072332cb6500f9881ed259d36e37e]: Textual amendment: Ss. 1-11 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/11), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
 
 [^c834123]: Textual amendment: S. 11A and crossheading inserted (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(1)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/1), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 37 Pt. I para.126](https://www.legislation.gov.uk/ukpga/1996/56/schedule/37/part/I/paragraph/126) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39)).
 
-[^key-aae61d3f9c4fcb5ab618afe6002dd7c3]: Textual amendment: S. 11A repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/7); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-aae61d3f9c4fcb5ab618afe6002dd7c3]: Textual amendment: S. 11A repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/7); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-4db38bf7901bf8edb81897cb4a6072b6]: Textual amendment: [Ss. 12-17](https://www.legislation.gov.uk/ukpga/1994/30/section/12) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/12), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
+[^c-4db38bf7901bf8edb81897cb4a6072b6]: Textual amendment: [Ss. 12-17](https://www.legislation.gov.uk/ukpga/1994/30/section/12) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/12), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
 
 [^c834145]: Modification: S. 12 extended (21.9.1994) by [S.I. 1994/2247](https://www.legislation.gov.uk/uksi/1994/2247), [art. 2](https://www.legislation.gov.uk/uksi/1994/2247/article/2).
 
@@ -687,11 +687,11 @@ Section 24.
 
     S. 12 explained (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 294(1)](https://www.legislation.gov.uk/ukpga/1996/56/section/294/1), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39)).
 
-[^key-84e796df9f9c858f80975f4457a2d6e0]: Textual amendment: Words in s. 18(1) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 27(2)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/27/2); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s)
+[^c-84e796df9f9c858f80975f4457a2d6e0]: Textual amendment: Words in s. 18(1) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 27(2)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/27/2); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s)
 
-[^key-1379ad1815352e0d11cfe9fc3df03833]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/1994/30/section/18/1) omitted (1.8.2024) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(2)(a)(i)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/2/a/i) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-1379ad1815352e0d11cfe9fc3df03833]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/1994/30/section/18/1) omitted (1.8.2024) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(2)(a)(i)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/2/a/i) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
 
-[^key-a9af458ae4bf3833d449229ae7603788]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/1994/30/section/18/1) substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(2)(a)(ii)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/2/a/ii) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-a9af458ae4bf3833d449229ae7603788]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/1994/30/section/18/1) substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(2)(a)(ii)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/2/a/ii) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
 
 [^c834164]: Textual amendment: S. 18(1)(a) repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/3), [Sch.31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1).
 
@@ -701,101 +701,101 @@ Section 24.
 
 [^c834167]: Marginal citation: [S.I. 1981/1086](https://www.legislation.gov.uk/uksi/1981/1086).
 
-[^key-de44b24f152df48d2c559df7c034fd6d]: Textual amendment: Words in s. 18(4) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/27/3/a); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s)
+[^c-de44b24f152df48d2c559df7c034fd6d]: Textual amendment: Words in s. 18(4) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/27/3/a); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s)
 
-[^key-83374cc5966870da5dd55f6d6a6fcd10]: Textual amendment: Words in [s. 18(4)](https://www.legislation.gov.uk/ukpga/1994/30/section/18/4) omitted (1.8.2024) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(2)(b)(i)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/2/b/i) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-83374cc5966870da5dd55f6d6a6fcd10]: Textual amendment: Words in [s. 18(4)](https://www.legislation.gov.uk/ukpga/1994/30/section/18/4) omitted (1.8.2024) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(2)(b)(i)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/2/b/i) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
 
-[^key-47bcae71352192dad4888a56baac66fd]: Textual amendment: Words in [s. 18(4)](https://www.legislation.gov.uk/ukpga/1994/30/section/18/4) substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(2)(b)(ii)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/2/b/ii) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-47bcae71352192dad4888a56baac66fd]: Textual amendment: Words in [s. 18(4)](https://www.legislation.gov.uk/ukpga/1994/30/section/18/4) substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(2)(b)(ii)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/2/b/ii) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
 
-[^key-88498e4435a9ed427bfe20ede4035067]: Textual amendment: Ss. 18B-18C substituted (1.9.2005) for s. 18A by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/13)
+[^c-88498e4435a9ed427bfe20ede4035067]: Textual amendment: Ss. 18B-18C substituted (1.9.2005) for s. 18A by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/13)
 
 [^c834171]: Textual amendment: S. 18A inserted (1.10.1998) by [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30), [s. 20](https://www.legislation.gov.uk/ukpga/1998/30/section/20) (with [s. 42(8)](https://www.legislation.gov.uk/ukpga/1998/30/section/42/8)); [S.I. 1998/2215](https://www.legislation.gov.uk/uksi/1998/2215), [art. 2](https://www.legislation.gov.uk/uksi/1998/2215/article/2).
 
 [^M_C_ae42cf62-c32c-4c9e-936c-2cfa208fe8e6]: Modification: S. 18B modified (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2005/18/schedule/15/paragraph/5)
 
-[^key-1383db6234652694a6a10eb121d1ee90]: Textual amendment: Words in s. 18B(1) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 19(2)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/19/2); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-1383db6234652694a6a10eb121d1ee90]: Textual amendment: Words in s. 18B(1) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 19(2)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/19/2); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
-[^key-7970a64954675ea40286ffce3f54ccc1]: Textual amendment: S. 18B(2) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 19(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/19/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-7970a64954675ea40286ffce3f54ccc1]: Textual amendment: S. 18B(2) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 19(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/19/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
-[^key-ffceb64fcd43c1a5c6a5bfac9898fbeb]: Textual amendment: S. 18B(3)(a) repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 19(4)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/19/4), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)
+[^c-ffceb64fcd43c1a5c6a5bfac9898fbeb]: Textual amendment: S. 18B(3)(a) repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 19(4)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/19/4), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)
 
-[^key-d0aa591723c3f7ff29c4582e9584c410]: Textual amendment: Words in [s. 18B(3)](https://www.legislation.gov.uk/ukpga/1994/30/section/18B/3)[(8)](https://www.legislation.gov.uk/ukpga/1994/30/section/18B/8) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/8); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-d0aa591723c3f7ff29c4582e9584c410]: Textual amendment: Words in [s. 18B(3)](https://www.legislation.gov.uk/ukpga/1994/30/section/18B/3)[(8)](https://www.legislation.gov.uk/ukpga/1994/30/section/18B/8) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/8); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-af1db810b7c46a3e43f37aca2bfc88a5]: Textual amendment: [S. 18B(3)(c)](https://www.legislation.gov.uk/ukpga/1994/30/section/18B/3/c) and word omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/18); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-af1db810b7c46a3e43f37aca2bfc88a5]: Textual amendment: [S. 18B(3)(c)](https://www.legislation.gov.uk/ukpga/1994/30/section/18B/3/c) and word omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/18); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-2f95a4b683384579ded239af616882f5]: Textual amendment: Words in s. 18B(4) repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 19(5)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/19/5), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)
+[^c-2f95a4b683384579ded239af616882f5]: Textual amendment: Words in s. 18B(4) repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 19(5)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/19/5), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)
 
-[^key-adc1754e87906d338ea3a0d2b39078e3]: Textual amendment: Words in s. 18B(7) inserted (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 164](https://www.legislation.gov.uk/ukpga/2008/25/section/164), [173(2)(c)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/2/c)
+[^c-adc1754e87906d338ea3a0d2b39078e3]: Textual amendment: Words in s. 18B(7) inserted (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 164](https://www.legislation.gov.uk/ukpga/2008/25/section/164), [173(2)(c)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/2/c)
 
-[^key-0983adcbc1d77fb03672433804c0c698]: Textual amendment: Words in s. 18B(10) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 19(6)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/19/6); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-0983adcbc1d77fb03672433804c0c698]: Textual amendment: Words in s. 18B(10) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 19(6)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/19/6); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
-[^key-2e3f1861b28dcb0e866237ca3cc26a4e]: Textual amendment: Words in s. 18B(11) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 19(7)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/19/7); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-2e3f1861b28dcb0e866237ca3cc26a4e]: Textual amendment: Words in s. 18B(11) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 19(7)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/19/7); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
 [^M_C_492fadfb-4f10-410a-8aeb-0681fadeb4e6]: Modification: S. 18C modified (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2005/18/schedule/15/paragraph/5)
 
-[^key-624f00f3da60530eb4018046bff70ca1]: Textual amendment: [S. 18C(3)(b)](https://www.legislation.gov.uk/ukpga/1994/30/section/18C/3/b) substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(3)(a)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/3/a) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-624f00f3da60530eb4018046bff70ca1]: Textual amendment: [S. 18C(3)(b)](https://www.legislation.gov.uk/ukpga/1994/30/section/18C/3/b) substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(3)(a)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/3/a) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
 
-[^key-0904c9c6fba1252853cfb871c5219e50]: Textual amendment: Words in [s. 18C(8)](https://www.legislation.gov.uk/ukpga/1994/30/section/18C/8) substituted (1.8.2024) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Regulations 2024 (S.I. 2024/803)](https://www.legislation.gov.uk/wsi/2024/803), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/803/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2024/803/regulation/4/2)
+[^c-0904c9c6fba1252853cfb871c5219e50]: Textual amendment: Words in [s. 18C(8)](https://www.legislation.gov.uk/ukpga/1994/30/section/18C/8) substituted (1.8.2024) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Regulations 2024 (S.I. 2024/803)](https://www.legislation.gov.uk/wsi/2024/803), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/803/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2024/803/regulation/4/2)
 
-[^key-272d9d161d839f49f6690b97501cc598]: Textual amendment: [S. 18C(12)(b)](https://www.legislation.gov.uk/ukpga/1994/30/section/18C/12/b) omitted (1.8.2024) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(3)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/3/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-272d9d161d839f49f6690b97501cc598]: Textual amendment: [S. 18C(12)(b)](https://www.legislation.gov.uk/ukpga/1994/30/section/18C/12/b) omitted (1.8.2024) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(3)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/3/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
 
-[^key-99b5eab20c028c10e7e6d7ab0a4e234f]: Textual amendment: S. 19(1)-(4) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 14 para. 14(a)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/14/a), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
+[^c-99b5eab20c028c10e7e6d7ab0a4e234f]: Textual amendment: S. 19(1)-(4) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 14 para. 14(a)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/14/a), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
 
-[^key-f7318ab2b9c2c760d6ead59f6e65dc3a]: Textual amendment: Word in s. 19(5) substituted (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 14 para. 14(b)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/14/b)
+[^c-f7318ab2b9c2c760d6ead59f6e65dc3a]: Textual amendment: Word in s. 19(5) substituted (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 14 para. 14(b)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/14/b)
 
 [^c834178]: Textual amendment: Words in s. 19(5) substituted (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(1)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/1), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 37 Pt. I para. 128(b)](https://www.legislation.gov.uk/ukpga/1996/56/schedule/37/part/I/paragraph/128/b) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39)).
 
-[^key-596ef5a71fd222359e87f00f76f66140]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/1994/30/section/20) modified (W.) (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [3(c)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/3/c)
+[^c-596ef5a71fd222359e87f00f76f66140]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/1994/30/section/20) modified (W.) (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [3(c)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/3/c)
 
-[^key-0a0cba4d1531ef9e1b536f96d3604649]: Textual amendment: [S. 21(1)(za)](https://www.legislation.gov.uk/ukpga/1994/30/section/21/1/za) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/6/2/a)
+[^c-0a0cba4d1531ef9e1b536f96d3604649]: Textual amendment: [S. 21(1)(za)](https://www.legislation.gov.uk/ukpga/1994/30/section/21/1/za) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/6/2/a)
 
 [^c834182]: Marginal citation: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^key-0dd23f823eac95d12d0819798c060b3d]: Textual amendment: Words in [s. 21(1)(b)](https://www.legislation.gov.uk/ukpga/1994/30/section/21/1/b) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/6/2/b)
+[^c-0dd23f823eac95d12d0819798c060b3d]: Textual amendment: Words in [s. 21(1)(b)](https://www.legislation.gov.uk/ukpga/1994/30/section/21/1/b) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/6/2/b)
 
-[^key-921104b82977564090919099de5068d4]: Textual amendment: S. 21(1)(ba) inserted (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a), [Sch. 1 para. 95](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/95) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
+[^c-921104b82977564090919099de5068d4]: Textual amendment: S. 21(1)(ba) inserted (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a), [Sch. 1 para. 95](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/95) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
 
 [^c834183]: Marginal citation: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
 
-[^key-b2aa73b7e03bbe339efb07b623143cbd]: Textual amendment: Words in s. 21(1)(c) omitted (W.) (1.8.2024) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(4)(a)(iii)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/4/a/iii) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-b2aa73b7e03bbe339efb07b623143cbd]: Textual amendment: Words in s. 21(1)(c) omitted (W.) (1.8.2024) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(4)(a)(iii)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/4/a/iii) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
 
 [^c834184]: Marginal citation: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^key-34f7011ee4037bfa685417898a88f3c0]: Textual amendment: S. 21(1)(da) inserted (W.) (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(4)(a)(iv)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/4/a/iv) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-34f7011ee4037bfa685417898a88f3c0]: Textual amendment: S. 21(1)(da) inserted (W.) (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(4)(a)(iv)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/4/a/iv) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
 
 [^c834185]: Marginal citation: [1992 c. 37](https://www.legislation.gov.uk/ukpga/1992/37).
 
-[^key-2694bafb55a3c77f26da25262352caf0]: Textual amendment: Words in s. 21(2)(b) substituted (S.) (10.10.2013) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [sch. para. 3](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/3); [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
+[^c-2694bafb55a3c77f26da25262352caf0]: Textual amendment: Words in s. 21(2)(b) substituted (S.) (10.10.2013) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [sch. para. 3](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/3); [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
 
 [^c834186]: Marginal citation: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
 
-[^key-f4f26b257e32ad87cbcf4f2366372f53]: Textual amendment: [S. 21(2A)](https://www.legislation.gov.uk/ukpga/1994/30/section/21/2A) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/6/3)
+[^c-f4f26b257e32ad87cbcf4f2366372f53]: Textual amendment: [S. 21(2A)](https://www.legislation.gov.uk/ukpga/1994/30/section/21/2A) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/6/3)
 
-[^key-df429191fc2fbab9b43d329c502590b0]: Textual amendment: Words in s. 21(2A) substituted (W.) (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(4)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/4/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-df429191fc2fbab9b43d329c502590b0]: Textual amendment: Words in s. 21(2A) substituted (W.) (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 7(4)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/7/4/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
 
 [^c834187]: Marginal citation: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
 [^c834188]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/1994/30/section/22) wholly in force at 1.4.1995: s. 22 not in force at Royal Assent see [s. 26](https://www.legislation.gov.uk/ukpga/1994/30/section/26); [s. 22(1)(2)(6)-(9)](https://www.legislation.gov.uk/ukpga/1994/30/section/22/1/2/6) in force at 21.9.1994 and s. 22(3)-(5) in force at 1.4.1995 by [S.I. 1994/2204](https://www.legislation.gov.uk/uksi/1994/2204), [art.2(2)](https://www.legislation.gov.uk/uksi/1994/2204/article/2/2).
 
-[^key-34d0d5f2bea728fd4cdef4fecd6ca9d5]: Modification: [S. 22](https://www.legislation.gov.uk/ukpga/1994/30/section/22) modified (W.) (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [3(c)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/3/c)
+[^c-34d0d5f2bea728fd4cdef4fecd6ca9d5]: Modification: [S. 22](https://www.legislation.gov.uk/ukpga/1994/30/section/22) modified (W.) (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [3(c)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/3/c)
 
 [^c834189]: Marginal citation: [1986 c. 61](https://www.legislation.gov.uk/ukpga/1986/61).
 
-[^key-bee8215b921c71faaf5b3a255bafbf87]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/ukpga/1994/30/section/23/1)[(2)](https://www.legislation.gov.uk/ukpga/1994/30/section/23/2) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
+[^c-bee8215b921c71faaf5b3a255bafbf87]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/ukpga/1994/30/section/23/1)[(2)](https://www.legislation.gov.uk/ukpga/1994/30/section/23/2) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
 
-[^key-c6566f8aba09bd666cb9aa1ce50d93fd]: Textual amendment: [S. 23(3)](https://www.legislation.gov.uk/ukpga/1994/30/section/23/3) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
+[^c-c6566f8aba09bd666cb9aa1ce50d93fd]: Textual amendment: [S. 23(3)](https://www.legislation.gov.uk/ukpga/1994/30/section/23/3) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
 
 [^c834190]: Subordinate legislation: [S. 26](https://www.legislation.gov.uk/ukpga/1994/30/section/26) power fully exercised (23.8.1994): 21.9.1994 appointed for the commencement of the whole Act by [S.I. 1994/2204](https://www.legislation.gov.uk/uksi/1994/2204) with the exception of s. 22(3)-(5) for which 1.4.1995 is appointed.
 
 [^c834191]: Textual amendment: [S. 27(2)](https://www.legislation.gov.uk/ukpga/1994/30/section/27/2) repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 38 Pt.I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39)).
 
-[^key-e233103d0a6b8b5ecf41c44b3fb6c975]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1994/30/schedule/1) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 14 para. 15](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/15), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
+[^c-e233103d0a6b8b5ecf41c44b3fb6c975]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1994/30/schedule/1) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 14 para. 15](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/15), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
 
-[^key-5d205fbb965c6c520510e9b6760bf9e1]: Textual amendment: Sch. 2 para. 1 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
+[^c-5d205fbb965c6c520510e9b6760bf9e1]: Textual amendment: Sch. 2 para. 1 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
 
-[^key-ae1481f4eb05c23714f83984707b063e]: Textual amendment: Sch. 2 para. 3 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
+[^c-ae1481f4eb05c23714f83984707b063e]: Textual amendment: Sch. 2 para. 3 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
 
-[^key-767c7b4d5d9171709fda4443b7146d0b]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1994/30/schedule/2/paragraph/4) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
+[^c-767c7b4d5d9171709fda4443b7146d0b]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1994/30/schedule/2/paragraph/4) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
 
 [^c834193]: Textual amendment: [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/1994/30/schedule/2/paragraph/5/2) repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 38 Pt.I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39)).
 
@@ -807,6 +807,6 @@ Section 24.
 
 [^c834203]: Textual amendment: Sch. 2 para. 8(1)(5) repealed (11.9.1998) by [1998 c. 18](https://www.legislation.gov.uk/ukpga/1998/18), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/1998/18/section/54/3), [55(2)](https://www.legislation.gov.uk/ukpga/1998/18/section/55/2), [Sch.5](https://www.legislation.gov.uk/ukpga/1998/18/schedule/5).
 
-[^key-cf95d3d913fa68432d11b3f60b22ef35]: Textual amendment: Sch. 2 para. 8(2)-(4) repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 38 Pt. I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39)) and Sch. 2, para. 8(4) is expressed to be repealed (1.8.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 3](https://www.legislation.gov.uk/uksi/2003/1667/article/3); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-cf95d3d913fa68432d11b3f60b22ef35]: Textual amendment: Sch. 2 para. 8(2)-(4) repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 38 Pt. I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39)) and Sch. 2, para. 8(4) is expressed to be repealed (1.8.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 3](https://www.legislation.gov.uk/uksi/2003/1667/article/3); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
 [^c834208]: Textual amendment: [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/ukpga/1994/30/schedule/2/paragraph/10/3) repealed (1.9.1996) by [1996 c. 50](https://www.legislation.gov.uk/ukpga/1996/50), [s. 10](https://www.legislation.gov.uk/ukpga/1996/50/section/10), [Sch.4](https://www.legislation.gov.uk/ukpga/1996/50/schedule/4); [S.I. 1996/2022](https://www.legislation.gov.uk/uksi/1996/2022), [art.2](https://www.legislation.gov.uk/uksi/1996/2022/article/2).

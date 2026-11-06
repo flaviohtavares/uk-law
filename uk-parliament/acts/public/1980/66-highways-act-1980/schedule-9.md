@@ -42,7 +42,7 @@ Sections 73, 74.
 
 **9.** If the authority revoke the line, they shall—
 
-- (a) give notice of the revocation to every owner, lessee or occupier of land affected and to the Chief Land Registrar[^key-4dcf5850ca350526e555036bbc57dba6]; and
+- (a) give notice of the revocation to every owner, lessee or occupier of land affected and to the Chief Land Registrar[^c-4dcf5850ca350526e555036bbc57dba6]; and
 - (b) indicate on the plan prepared in accordance with paragraph 8 above the extent to which the line has been revoked.
 
 **10.** Where a local highway authority prescribe a line or revoke a line or any part thereof they shall do so by resolution.
@@ -53,4 +53,4 @@ Sections 73, 74.
 
 [^c13440891]: Textual amendment: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/1980/66/schedule/9/paragraph/3) repealed by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 102](https://www.legislation.gov.uk/ukpga/1985/51/section/102), [Sch. 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17)
 
-[^key-4dcf5850ca350526e555036bbc57dba6]: Textual amendment: Words in [Sch. 9 para. 9(a)](https://www.legislation.gov.uk/ukpga/1980/66/schedule/9/paragraph/9/a) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 35](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/35) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-4dcf5850ca350526e555036bbc57dba6]: Textual amendment: Words in [Sch. 9 para. 9(a)](https://www.legislation.gov.uk/ukpga/1980/66/schedule/9/paragraph/9/a) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 35](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/35) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))

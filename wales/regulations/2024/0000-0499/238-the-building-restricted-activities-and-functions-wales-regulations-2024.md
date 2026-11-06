@@ -47,7 +47,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 1(1
 
 In accordance with section 14(7)[^f00002] of the Building Act 1984 the Welsh Ministers have consulted the Building Regulations Advisory Committee for Wales and any other person that the Welsh Ministers consider appropriate.
 
-## 1. Title, application and coming into force[^key-e7d3406a4906003d8c09d5b6d7f8d38a]
+## 1. Title, application and coming into force[^c-e7d3406a4906003d8c09d5b6d7f8d38a]
 
 (1) The title of these Regulations is the Building (Restricted Activities and Functions) (Wales) Regulations 2024.
 
@@ -55,30 +55,30 @@ In accordance with section 14(7)[^f00002] of the Building Act 1984 the Welsh Min
 
 (3) These Regulations come into force on 6 April 2024.
 
-## 2. Interpretation[^key-571bd24d8765226ddc327865e48c7c13]
+## 2. Interpretation[^c-571bd24d8765226ddc327865e48c7c13]
 
 (1) In these Regulations—
 
 - “**the 1984 Act**” (“***Deddf 1984***”) means the Building Act 1984;
 - “**the 2010 Regulations**” (“***Rheoliadau 2010***”) means the Building Regulations 2010[^f00003];
-- “[^key-d9e8b8c309b53f3e67075cf50d803880]**the 2024 Regulations**” (“***Rheoliadau 2024***”) means the Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024;
-- [^key-0213c3b9db5420efb8bdfaae6f6cfdb0]...
+- “[^c-d9e8b8c309b53f3e67075cf50d803880]**the 2024 Regulations**” (“***Rheoliadau 2024***”) means the Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024;
+- [^c-0213c3b9db5420efb8bdfaae6f6cfdb0]...
 - “**building**” (“***adeilad***”) has the meaning given in regulation 2 of the 2010 Regulations;
 - “**building work**” (“***gwaith adeiladu***”) has the meaning given in regulation 3 of the 2010 Regulations.
 
 (2) Subject to paragraph (1), words and expressions used in these Regulations and the 1984 Act have the same meaning as in that Act.
 
-## 3. Building control authorities: restricted activities and functions[^key-c1fa567414f9d3a6a6f1ef94dc6686b7]
+## 3. Building control authorities: restricted activities and functions[^c-c1fa567414f9d3a6a6f1ef94dc6686b7]
 
 (1) For the purposes of section 46A(1) of the 1984 Act, the following activities are prescribed as a restricted activity—
 
-- (a) where plans relating to any building work are submitted to a building control authority[^key-52029dc1ff3bbf5a3efcb24549daba38] under any provision of the 2010 Regulations or the Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025[^key-819d1eb2305f079b382eabcd34c31f15], the checking of those plans for compliance with any requirement of the building regulations[^f00005] which is applicable to that building work;
+- (a) where plans relating to any building work are submitted to a building control authority[^c-52029dc1ff3bbf5a3efcb24549daba38] under any provision of the 2010 Regulations or the Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025[^c-819d1eb2305f079b382eabcd34c31f15], the checking of those plans for compliance with any requirement of the building regulations[^f00005] which is applicable to that building work;
 - (b) where an inspection of building work is to be carried out by a building control authority for the purpose of checking compliance with any requirement of the building regulations which is applicable to the work, the carrying out of that inspection and scheduling the stages or points for inspections.
 
 (2) For the purposes of section 46A(2) of the 1984 Act, the following functions are prescribed as a restricted function—
 
 - (a) determining an application for a direction under section 8 of the 1984 Act (relaxation of building regulations);
-- (b) determining an application for building control approval under regulation 14D (determination of applications for building control approval with full plans: Wales) of the 2010 Regulations and regulation 7 (building control approval applications for HRB work or stage of HRB work: decisions) and regulation 15 (building control approval applications for work to existing HRB: decisions) of the Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025, including exercising, in relation to such an application, a power in—[^key-b7da36c5cbab60334a2b30dfa381a07b],
+- (b) determining an application for building control approval under regulation 14D (determination of applications for building control approval with full plans: Wales) of the 2010 Regulations and regulation 7 (building control approval applications for HRB work or stage of HRB work: decisions) and regulation 15 (building control approval applications for work to existing HRB: decisions) of the Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025, including exercising, in relation to such an application, a power in—[^c-b7da36c5cbab60334a2b30dfa381a07b],
   - (i) section 19(1) of the 1984 Act (use of short-lived materials),
   - (ii) section 21(4) of the 1984 Act (provision of drainage), or
   - (iii) section 25(1) of the 1984 Act (provision of water supply);
@@ -96,19 +96,19 @@ In accordance with section 14(7)[^f00002] of the Building Act 1984 the Welsh Min
 - (n) deciding, where regulation 18 of the 2010 Regulations (unauthorised building work) applies, whether—
   - (i) a regularisation certificate under regulation 18 of the 2010 Regulations may be given;
   - (ii) any reasonable steps are required under regulation 18(3) of the 2010 Regulations;
-- (o) deciding, where regulation 17(1) of the 2024 Regulations[^key-665465eb48ed3fe2e9a0df428e45ec3c] (partly completed work) applies, whether—
-  - (i) plans given under regulation 17(2)(a) of the 2024 Regulations[^key-e12a16dd1ac21e86622a463cd20dd304] are sufficient to show that the intended work would not contravene any requirement of the 2010 Regulations;
-  - (ii) an owner should be required to cut into, lay open or pull down any of the work under regulation 17(2)(b) of the 2024 Regulations[^key-53ffb3971167b177ebd88f4ecfc70f08].
-- (p)[^key-4deca59d9ef524557c00cfca0be74eeb] giving approval, that staged higher-risk building work, may proceed beyond a point specified in a requirement imposed in the approval of that work;
+- (o) deciding, where regulation 17(1) of the 2024 Regulations[^c-665465eb48ed3fe2e9a0df428e45ec3c] (partly completed work) applies, whether—
+  - (i) plans given under regulation 17(2)(a) of the 2024 Regulations[^c-e12a16dd1ac21e86622a463cd20dd304] are sufficient to show that the intended work would not contravene any requirement of the 2010 Regulations;
+  - (ii) an owner should be required to cut into, lay open or pull down any of the work under regulation 17(2)(b) of the 2024 Regulations[^c-53ffb3971167b177ebd88f4ecfc70f08].
+- (p)[^c-4deca59d9ef524557c00cfca0be74eeb] giving approval, that staged higher-risk building work, may proceed beyond a point specified in a requirement imposed in the approval of that work;
 - (q) determining a change control application for higher-risk building work;
 - (r) determining is a controlled change to a higher-risk building work is a notifiable or major change;
 - (s) giving a compliance notice under section 35B of the 1984 Act (compliance notices);
 - (t) giving a stop notice under section 35C of the 1984 Act (stop notices);
-- (u)[^key-eaad570d6ed783862ff2bf048a3eba28] determining an application under [regulation 43](https://www.legislation.gov.uk/wsi/2025/1321/regulation/43) of the [Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025](https://www.legislation.gov.uk/wsi/2025/1321/contents) (completion certificate applications: decisions);
+- (u)[^c-eaad570d6ed783862ff2bf048a3eba28] determining an application under [regulation 43](https://www.legislation.gov.uk/wsi/2025/1321/regulation/43) of the [Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025](https://www.legislation.gov.uk/wsi/2025/1321/contents) (completion certificate applications: decisions);
 - (v) determining a partial completion certificate under regulation 44 of the Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025 (partial completion certificates);
 - (w) an application of regularisation of unauthorised building work under regulation 46 of the Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025 (regularisation of unauthorised building work).
 
-## 4. Registered building control approvers: restricted activities and functions[^key-d174c21c9729b8b53748677e14742033]
+## 4. Registered building control approvers: restricted activities and functions[^c-d174c21c9729b8b53748677e14742033]
 
 (1) For the purposes of section 54B(2) of the 1984 Act, the following activities are prescribed as a restricted activity—
 
@@ -148,25 +148,25 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: Section 14(7) was amended by paragraph 17(3) of Schedule 5 to the 2022 Act. This amendment took effect from 5 September 2023 and is subject to transitional provisions specified in regulation 5 of the Building Safety Act 2022 (Commencement No. 3, Transitional and Saving Provisions) (Wales) Regulations 2023 ([S.I. 2023/914 (W. 141)](https://www.legislation.gov.uk/wsi/2023/914)). The consultation referred to in the preamble to these Regulations was started before 5 September 2023.
 
-[^key-e7d3406a4906003d8c09d5b6d7f8d38a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/238/regulation/1) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/238/regulation/1/3)
+[^c-e7d3406a4906003d8c09d5b6d7f8d38a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/238/regulation/1) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/238/regulation/1/3)
 
-[^key-571bd24d8765226ddc327865e48c7c13]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/238/regulation/2) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/238/regulation/1/3)
+[^c-571bd24d8765226ddc327865e48c7c13]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/238/regulation/2) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/238/regulation/1/3)
 
 [^f00003]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), amended by [S.I. 2013/747 (W. 89)](https://www.legislation.gov.uk/wsi/2013/747), [S.I. 2013/2621 (W. 258)](https://www.legislation.gov.uk/wsi/2013/2621), [S.I. 2014/110 (W. 10)](https://www.legislation.gov.uk/wsi/2014/110), [S.I. 2015/1486 (W. 165)](https://www.legislation.gov.uk/wsi/2015/1486), [S.I. 2016/611 (W. 168)](https://www.legislation.gov.uk/wsi/2016/611), [S.I. 2018/558 (W. 97)](https://www.legislation.gov.uk/wsi/2018/558); there are other amending instruments but none is relevant.
 
-[^key-d9e8b8c309b53f3e67075cf50d803880]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2024/238/regulation/2/1) inserted (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [41(2)(a)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/41/2/a)
+[^c-d9e8b8c309b53f3e67075cf50d803880]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2024/238/regulation/2/1) inserted (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [41(2)(a)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/41/2/a)
 
-[^key-0213c3b9db5420efb8bdfaae6f6cfdb0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2024/238/regulation/2/1) omitted (1.1.2025) by virtue of [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [41(2)(b)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/41/2/b)
+[^c-0213c3b9db5420efb8bdfaae6f6cfdb0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2024/238/regulation/2/1) omitted (1.1.2025) by virtue of [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [41(2)(b)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/41/2/b)
 
-[^key-c1fa567414f9d3a6a6f1ef94dc6686b7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/238/regulation/3) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/238/regulation/1/3)
+[^c-c1fa567414f9d3a6a6f1ef94dc6686b7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/238/regulation/3) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/238/regulation/1/3)
 
-[^key-52029dc1ff3bbf5a3efcb24549daba38]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/1) substituted (1.7.2026) by [The Building Safety Act 2022 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/55)](https://www.legislation.gov.uk/wsi/2026/55), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/1/2), [12(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/12/2) (with [reg. 13](https://www.legislation.gov.uk/wsi/2026/55/regulation/13))
+[^c-52029dc1ff3bbf5a3efcb24549daba38]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/1) substituted (1.7.2026) by [The Building Safety Act 2022 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/55)](https://www.legislation.gov.uk/wsi/2026/55), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/1/2), [12(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/12/2) (with [reg. 13](https://www.legislation.gov.uk/wsi/2026/55/regulation/13))
 
-[^key-819d1eb2305f079b382eabcd34c31f15]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/1/a) inserted (1.7.2026) by [The Building etc. (Amendment) (Wales) Regulations 2026 (W.S.I. 2026/60)](https://www.legislation.gov.uk/wsi/2026/60), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2026/60/regulation/1/2/a), [6(2)](https://www.legislation.gov.uk/wsi/2026/60/regulation/6/2)
+[^c-819d1eb2305f079b382eabcd34c31f15]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/1/a) inserted (1.7.2026) by [The Building etc. (Amendment) (Wales) Regulations 2026 (W.S.I. 2026/60)](https://www.legislation.gov.uk/wsi/2026/60), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2026/60/regulation/1/2/a), [6(2)](https://www.legislation.gov.uk/wsi/2026/60/regulation/6/2)
 
 [^f00005]: Footnote: See the definition of “building regulations” in section 122 of the 1984 Act.
 
-[^key-b7da36c5cbab60334a2b30dfa381a07b]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/2/b) substituted (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [18(2)(a)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/18/2/a) (with [reg. 21](https://www.legislation.gov.uk/wsi/2025/1320/regulation/21))
+[^c-b7da36c5cbab60334a2b30dfa381a07b]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/2/b) substituted (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [18(2)(a)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/18/2/a) (with [reg. 21](https://www.legislation.gov.uk/wsi/2025/1320/regulation/21))
 
 [^f00006]: Footnote: See the definition of “section 36 notice” in section 36(4) of the 1984 Act.
 
@@ -174,17 +174,17 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: Regulation 17A was inserted into the Building Regulations 2010 ([S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214)) by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119).
 
-[^key-665465eb48ed3fe2e9a0df428e45ec3c]: Textual amendment: Words in [reg. 3(2)(o)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/2/o) substituted (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [41(3)(a)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/41/3/a)
+[^c-665465eb48ed3fe2e9a0df428e45ec3c]: Textual amendment: Words in [reg. 3(2)(o)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/2/o) substituted (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [41(3)(a)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/41/3/a)
 
-[^key-e12a16dd1ac21e86622a463cd20dd304]: Textual amendment: Words in [reg. 3(2)(o)(i)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/2/o/i) substituted (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [41(3)(b)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/41/3/b)
+[^c-e12a16dd1ac21e86622a463cd20dd304]: Textual amendment: Words in [reg. 3(2)(o)(i)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/2/o/i) substituted (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [41(3)(b)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/41/3/b)
 
-[^key-53ffb3971167b177ebd88f4ecfc70f08]: Textual amendment: Words in [reg. 3(2)(o)(ii)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/2/o/ii) substituted (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [41(3)(c)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/41/3/c)
+[^c-53ffb3971167b177ebd88f4ecfc70f08]: Textual amendment: Words in [reg. 3(2)(o)(ii)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/2/o/ii) substituted (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [41(3)(c)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/41/3/c)
 
-[^key-4deca59d9ef524557c00cfca0be74eeb]: Textual amendment: [Reg. 3(2)(p)-(w)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/2/p) inserted (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [18(2)(b)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/18/2/b) (with [reg. 21](https://www.legislation.gov.uk/wsi/2025/1320/regulation/21))
+[^c-4deca59d9ef524557c00cfca0be74eeb]: Textual amendment: [Reg. 3(2)(p)-(w)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/2/p) inserted (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [18(2)(b)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/18/2/b) (with [reg. 21](https://www.legislation.gov.uk/wsi/2025/1320/regulation/21))
 
-[^key-eaad570d6ed783862ff2bf048a3eba28]: Textual amendment: [Reg. 3(2)(u)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/2/u) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/112/regulation/4)
+[^c-eaad570d6ed783862ff2bf048a3eba28]: Textual amendment: [Reg. 3(2)(u)](https://www.legislation.gov.uk/wsi/2024/238/regulation/3/2/u) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/112/regulation/4)
 
-[^key-d174c21c9729b8b53748677e14742033]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/238/regulation/4) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/238/regulation/1/3)
+[^c-d174c21c9729b8b53748677e14742033]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/238/regulation/4) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/238/regulation/1/3)
 
 [^f00009]: Footnote: See the definition of “initial notice” in section 47(1) of the 1984 Act.
 

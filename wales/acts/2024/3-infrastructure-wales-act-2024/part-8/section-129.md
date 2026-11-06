@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 129. Power to consult and duty to respond to consultation[^key-526c189cdaedfa985a8a9f48bbbbcf38][^key-a5a4d931511dff132be41de518d9edc4]
+## 129. Power to consult and duty to respond to consultation[^c-526c189cdaedfa985a8a9f48bbbbcf38][^c-a5a4d931511dff132be41de518d9edc4]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-526c189cdaedfa985a8a9f48bbbbcf38]: Commencement: S. 129 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-526c189cdaedfa985a8a9f48bbbbcf38]: Commencement: S. 129 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-a5a4d931511dff132be41de518d9edc4]: Commencement: [S. 129](https://www.legislation.gov.uk/asc/2024/3/section/129) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(i)](https://www.legislation.gov.uk/wsi/2025/698/article/3/i)
+[^c-a5a4d931511dff132be41de518d9edc4]: Commencement: [S. 129](https://www.legislation.gov.uk/asc/2024/3/section/129) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(i)](https://www.legislation.gov.uk/wsi/2025/698/article/3/i)

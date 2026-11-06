@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Protection of private shellfish beds[^key-5f9217cedc0f928cc33aad822e3a8504]
+## 210. Protection of private shellfish beds[^c-5f9217cedc0f928cc33aad822e3a8504]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f9217cedc0f928cc33aad822e3a8504]: Commencement: [S. 210](https://www.legislation.gov.uk/ukpga/2009/23/section/210) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)
+[^c-5f9217cedc0f928cc33aad822e3a8504]: Commencement: [S. 210](https://www.legislation.gov.uk/ukpga/2009/23/section/210) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)

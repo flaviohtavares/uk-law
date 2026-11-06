@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Appeals[^c22796011][^key-f362917bf5b2d837234da7b8b673ed52]
+## 56. Appeals[^c22796011][^c-f362917bf5b2d837234da7b8b673ed52]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c22796011]: Commencement: [Pt. 3](https://www.legislation.gov.uk/ukpga/2017/32/part/3): s. 56 in force at Royal Assent for specified purposes, see [s. 59(1)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/59/1/a)
 
-[^key-f362917bf5b2d837234da7b8b673ed52]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2017/32/section/56) in force at 1.4.2018 for the purposes of the amendments made by that section by [S.I. 2018/298](https://www.legislation.gov.uk/uksi/2018/298), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/298/regulation/2/2)
+[^c-f362917bf5b2d837234da7b8b673ed52]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2017/32/section/56) in force at 1.4.2018 for the purposes of the amendments made by that section by [S.I. 2018/298](https://www.legislation.gov.uk/uksi/2018/298), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/298/regulation/2/2)

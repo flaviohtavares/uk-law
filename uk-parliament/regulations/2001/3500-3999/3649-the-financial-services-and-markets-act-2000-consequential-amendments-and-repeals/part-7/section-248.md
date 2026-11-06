@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248. Investment of sums collected[^key-bb0926f51d9d8ea1709ce6eb2090171c]
+## 248. Investment of sums collected[^c-bb0926f51d9d8ea1709ce6eb2090171c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb0926f51d9d8ea1709ce6eb2090171c]: Commencement: Art. 248 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-bb0926f51d9d8ea1709ce6eb2090171c]: Commencement: Art. 248 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00171]: Footnote: The words now being substituted were themselves substituted by the Fossil Fuels Levy (Scotland) Amendment Regulations 1996 ([S.I. 1996/1512) (S.135)](https://www.legislation.gov.uk/uksi/1996/1512) regulation 2.)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Hybrid occupational pension schemes.[^key-d068554e7a79ec432d652c498d5fb059]
+## 149. Hybrid occupational pension schemes.[^c-d068554e7a79ec432d652c498d5fb059]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d068554e7a79ec432d652c498d5fb059]: Textual amendment: [S. 149](https://www.legislation.gov.uk/ukpga/1995/26/section/149) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b), [6(3)](https://www.legislation.gov.uk/uksi/2011/1730/article/6/3)
+[^c-d068554e7a79ec432d652c498d5fb059]: Textual amendment: [S. 149](https://www.legislation.gov.uk/ukpga/1995/26/section/149) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b), [6(3)](https://www.legislation.gov.uk/uksi/2011/1730/article/6/3)

@@ -54,7 +54,7 @@ In accordance with section 18(11)(a) of the Marriage (Same Sex Couples) Act 2013
 
 The Secretary of State, in exercise of those powers, makes the following Order:
 
-## 1. Citation, commencement, interpretation and extent[^key-90c4f69b0ed3490fe612e9ae836e84bc]
+## 1. Citation, commencement, interpretation and extent[^c-90c4f69b0ed3490fe612e9ae836e84bc]
 
 (1) This Order may be cited as the Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014.
 
@@ -76,23 +76,23 @@ The Secretary of State, in exercise of those powers, makes the following Order:
 
 (7) Article 3 and Schedule 2 extend to Scotland only.
 
-## 2. Amendments to enactments etc.[^key-7a6c2bee50424a84691843e6fd4b5c66]
+## 2. Amendments to enactments etc.[^c-7a6c2bee50424a84691843e6fd4b5c66]
 
 Schedule 1 (which amends enactments etc. in consequence of the 2013 Act, the 2014 Act and the Civil Partnership Act 2004) has effect.
 
-## 3. Amendments to enactments etc.: Scotland[^key-ea5a828c7d795fc047c30decdf25e613]
+## 3. Amendments to enactments etc.: Scotland[^c-ea5a828c7d795fc047c30decdf25e613]
 
 *Extent: S*
 
 Schedule 2 (which amends enactments etc. in consequence of the 2014 Act and the Civil Partnership Act 2004) has effect.
 
-## 4. Amendments to enactments etc. concerning the Church of England[^key-d7bf2d92e7a250d0798794e1f442886a]
+## 4. Amendments to enactments etc. concerning the Church of England[^c-d7bf2d92e7a250d0798794e1f442886a]
 
 *Extent: E+W*
 
 Schedule 3 (which amends enactments etc. concerning the Church of England in consequence of the 2013 Act) has effect.
 
-## 5. Consequential provisions relating to certified copies of entries of consular marriages[^key-2f86ccc89b7ac64c9f1d1285b2d69fe5]
+## 5. Consequential provisions relating to certified copies of entries of consular marriages[^c-2f86ccc89b7ac64c9f1d1285b2d69fe5]
 
 Schedule 4 (which makes consequential provision concerning legislation on consular marriages) has effect.
 
@@ -112,7 +112,7 @@ Article 2
 
 ### PART 1 — Enactments: general
 
-#### 1. Marriage (Authorised Persons) Regulations 1952[^key-dece8cbde76f30c09fc8715ad6dc5211][^key-dece8cbde76f30c09fc8715ad6dc5211]
+#### 1. Marriage (Authorised Persons) Regulations 1952[^c-dece8cbde76f30c09fc8715ad6dc5211][^c-dece8cbde76f30c09fc8715ad6dc5211]
 
 *Extent: E+W*
 
@@ -121,7 +121,7 @@ In regulation 2 of the Marriage (Authorised Persons) Regulations 1952[^f00005] (
 - (a) for “70” substitute “70 or 70A”, and
 - (b) for “that section” substitute “those sections”.
 
-#### 2. Service Departments Registers Order 1959[^key-e8d60870c055f118b0835cb019383df7][^key-4c45bb101381593b1732fc6768ffb494]
+#### 2. Service Departments Registers Order 1959[^c-e8d60870c055f118b0835cb019383df7][^c-4c45bb101381593b1732fc6768ffb494]
 
 (1) The Service Departments Registers Order 1959[^f00006] is amended as follows.
 
@@ -175,13 +175,13 @@ In regulation 2 of the Marriage (Authorised Persons) Regulations 1952[^f00005] (
 
   .
 
-#### 3. Registration of Births, Deaths and Marriages Regulations 1968[^key-d9f145951d4dd797072318fcd0493c28]
+#### 3. Registration of Births, Deaths and Marriages Regulations 1968[^c-d9f145951d4dd797072318fcd0493c28]
 
 *Extent: E+W*
 
 In regulation 11 of the Registration of Births, Deaths and Marriages Regulations 1968[^f00012] (statistical returns), after “marriages” insert “(including marriages resulting from the conversion of a civil partnership under section 9 of the Marriage (Same Sex Couples) Act 2013 and regulations made under that section)”.
 
-#### 4. Social Security (Credits) Regulations 1975[^key-74b6688100e6e367f807919889063424]
+#### 4. Social Security (Credits) Regulations 1975[^c-74b6688100e6e367f807919889063424]
 
 *Extent: E+W+S*
 
@@ -194,7 +194,7 @@ In regulation 11 of the Registration of Births, Deaths and Marriages Regulations
 - (a) omit sub-paragraphs (a) and (b), and
 - (b) after “consisting of” insert “two people who are not married to or civil partners of each other but are living together as a married couple.”.
 
-#### 5. Social Security (Widow’s Benefit, Retirement Pensions and Other Benefits) (Transitional) Regulations 1979[^key-74ad58b92a6e9024ca755658a5f44254]
+#### 5. Social Security (Widow’s Benefit, Retirement Pensions and Other Benefits) (Transitional) Regulations 1979[^c-74ad58b92a6e9024ca755658a5f44254]
 
 *Extent: E+W+S*
 
@@ -205,7 +205,7 @@ In regulation 7(10) of the Social Security (Widow’s Benefit, Retirement Pensio
 - (c) after “former spouse’s” insert “or former civil partner’s”, and
 - (d) after “whichever is the earlier” insert “(or, in the case of a civil partnership, the year 1975/76)”.
 
-#### 6. Registration of Marriages Regulations 1986[^key-4adca2e73b4b17689fb14baec5a6d15b]
+#### 6. Registration of Marriages Regulations 1986[^c-4adca2e73b4b17689fb14baec5a6d15b]
 
 *Extent: E+W*
 
@@ -222,13 +222,13 @@ In regulation 11(2) of the Registration of Marriages Regulations 1986[^f00017] (
 
   .
 
-#### 7. Registration of Births and Deaths Regulations 1987[^key-c5cc780abb8877ea55dbd99982ba97ce]
+#### 7. Registration of Births and Deaths Regulations 1987[^c-c5cc780abb8877ea55dbd99982ba97ce]
 
 *Extent: E+W*
 
 In regulation 9(7)(b) of the Registration of Births and Deaths Regulations 1987[^f00018] (entry of particulars on registration), after “child” insert “(and where the marriage results from the conversion of a civil partnership under section 9 of the Marriage (Same Sex Couples) Act 2013 and regulations made under that section, the name to be entered is that used for the conversion, if different)”.
 
-#### 8. Standards Committees (Wales) Regulations 2001[^key-86e21878f2d6864920bfec3beefdd682]
+#### 8. Standards Committees (Wales) Regulations 2001[^c-86e21878f2d6864920bfec3beefdd682]
 
 *Extent: E+W*
 
@@ -236,7 +236,7 @@ In regulation 9(7)(b) of the Registration of Births and Deaths Regulations 1987[
 
 (2) In the Welsh text, in the Standards Committees (Wales) Regulations 2001, in regulation 2 (dehongli), in the definition of “aelod panel lleyg” (*“lay panel member”*), after “briod” insert “neu’n bartner sifil”.
 
-#### 9. Special Guardianship (Wales) Regulations 2005[^key-2df8775eb4e26297f1c9e0af8a8b1b9c]
+#### 9. Special Guardianship (Wales) Regulations 2005[^c-2df8775eb4e26297f1c9e0af8a8b1b9c]
 
 *Extent: E+W*
 
@@ -244,7 +244,7 @@ In regulation 9(7)(b) of the Registration of Births and Deaths Regulations 1987[
 
 (2) In the Welsh text, in each of paragraph 3(c) and paragraph 4(d) of the Schedule to the Special Guardianship (Wales) Regulations 2005 (adroddiadau – materion a ragnodwyd at ddibenion adran 14A(8)(b) o Ddeddf Plant 1989), after “bartneriaeth sifil” insert “(neu o ran priodas sy’n deillio o drosi partneriaeth sifil o dan adran 9 o Ddeddf Priodas (Cyplau o’r Un Rhyw) 2013 a rheoliadau a wnaed o dan yr adran honno, ddyddiad a lle’r bartneriaeth sifil yr ymrwymwyd iddi’n wreiddiol gan y cwpl)”.
 
-#### 10. Civil Partnership (Registration Provisions) Regulations 2005[^key-2761301c0bbd8205dddf37ea0e90fa26]
+#### 10. Civil Partnership (Registration Provisions) Regulations 2005[^c-2761301c0bbd8205dddf37ea0e90fa26]
 
 *Extent: E+W*
 
@@ -266,7 +266,7 @@ In regulation 9(7)(b) of the Registration of Births and Deaths Regulations 1987[
 
 *Extent: E+W*
 
-#### 11. Public service pension schemes: general[^key-2424a7641d4fd81e29d12ace474308eb][^key-2424a7641d4fd81e29d12ace474308eb]
+#### 11. Public service pension schemes: general[^c-2424a7641d4fd81e29d12ace474308eb][^c-2424a7641d4fd81e29d12ace474308eb]
 
 (1) The public service pension schemes referred to in the second column of the table at sub-paragraph (2) are amended in accordance with columns 3 and 4 of that table.
 
@@ -313,7 +313,7 @@ In regulation 9(7)(b) of the Registration of Births and Deaths Regulations 1987[
 
 .
 
-**12.**[^key-af83052bd748635c8343c76c51b1c7bc] (1) In each of the enactments set out at sub-paragraph (4), any reference to a “widow” includes a woman who is the surviving spouse of a woman to whom sub-paragraph (3) applies.
+**12.**[^c-af83052bd748635c8343c76c51b1c7bc] (1) In each of the enactments set out at sub-paragraph (4), any reference to a “widow” includes a woman who is the surviving spouse of a woman to whom sub-paragraph (3) applies.
 
 (2) In each of the enactments set out at sub-paragraph (4)(c) to (g), any reference to a “husband” includes a woman to whom sub-paragraph (3) applies.
 
@@ -332,7 +332,7 @@ In regulation 9(7)(b) of the Registration of Births and Deaths Regulations 1987[
 - (f) the Transport Holding Company (Compensation to Employees) Regulations 1972[^f00033], and
 - (g) the Vehicle and Driving Licences (Compensation to Officers) Regulations 1977[^f00034].
 
-#### 13. Police Pensions Regulations 1987[^key-eeaae6a9ba244b8daf639d2044938cd3][^key-eeaae6a9ba244b8daf639d2044938cd3]
+#### 13. Police Pensions Regulations 1987[^c-eeaae6a9ba244b8daf639d2044938cd3][^c-eeaae6a9ba244b8daf639d2044938cd3]
 
 (1) The Police Pensions Regulations 1987[^f00035] are amended as follows.
 
@@ -390,7 +390,7 @@ In regulation 9(7)(b) of the Registration of Births and Deaths Regulations 1987[
 
   .
 
-#### 14. National Health Service Pension Scheme Regulations 1995[^key-32fe62ae266105a4bfddcff919c98b84][^key-32fe62ae266105a4bfddcff919c98b84]
+#### 14. National Health Service Pension Scheme Regulations 1995[^c-32fe62ae266105a4bfddcff919c98b84][^c-32fe62ae266105a4bfddcff919c98b84]
 
 In regulation A4 of the National Health Service Pension Scheme Regulations 1995[^f00041] (civil partnerships and marriage of same sex couples), after paragraph (5) insert—
 
@@ -403,7 +403,7 @@ In regulation A4 of the National Health Service Pension Scheme Regulations 1995[
 
 .
 
-#### 15. Armed Forces Pension Scheme Order 2005[^key-3fffddbe7c6e288bba94fada624ba8aa][^key-3fffddbe7c6e288bba94fada624ba8aa]
+#### 15. Armed Forces Pension Scheme Order 2005[^c-3fffddbe7c6e288bba94fada624ba8aa][^c-3fffddbe7c6e288bba94fada624ba8aa]
 
 In rule E.1 of Part E of Schedule 1 to the Armed Forces Pension Scheme Order 2005[^f00042] (surviving spouses’ and civil partners’ pensions), after paragraph (4) insert—
 
@@ -416,7 +416,7 @@ In rule E.1 of Part E of Schedule 1 to the Armed Forces Pension Scheme Order 200
 
 .
 
-#### 16. Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^key-c0d875456d932567c0a5c47975f220a3][^key-c0d875456d932567c0a5c47975f220a3]
+#### 16. Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^c-c0d875456d932567c0a5c47975f220a3][^c-c0d875456d932567c0a5c47975f220a3]
 
 (1) Part E of Schedule 1 to the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^f00043] (death benefits) is amended as follows.
 
@@ -456,7 +456,7 @@ In rule E.1 of Part E of Schedule 1 to the Armed Forces Pension Scheme Order 200
 
 .
 
-**17.**[^key-7580d60215b77ba515af209cc4c1d3a3] (1) Schedule 2[^f00044] to the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (Naval and Marines Attributable Benefits Scheme) is amended as follows.
+**17.**[^c-7580d60215b77ba515af209cc4c1d3a3] (1) Schedule 2[^f00044] to the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (Naval and Marines Attributable Benefits Scheme) is amended as follows.
 
 (2) In Part A, in rule A.1 (interpretation), after the definition of “relevant disabling condition” insert—
 
@@ -496,7 +496,7 @@ In rule E.1 of Part E of Schedule 1 to the Armed Forces Pension Scheme Order 200
 
   .
 
-#### 18. Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010[^key-3995344882d73a2ad0979b11f4a8afa3][^key-3995344882d73a2ad0979b11f4a8afa3]
+#### 18. Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010[^c-3995344882d73a2ad0979b11f4a8afa3][^c-3995344882d73a2ad0979b11f4a8afa3]
 
 (1) Part E of Schedule 1 to the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010[^f00045] (death benefits) is amended as follows.
 
@@ -536,7 +536,7 @@ In rule E.1 of Part E of Schedule 1 to the Armed Forces Pension Scheme Order 200
 
 .
 
-**19.**[^key-88b63e691493fa1f32ec996444eadf52] (1) Schedule 2[^f00046] to the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010 (Army Attributable Benefits Scheme) is amended as follows.
+**19.**[^c-88b63e691493fa1f32ec996444eadf52] (1) Schedule 2[^f00046] to the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010 (Army Attributable Benefits Scheme) is amended as follows.
 
 (2) In Part A, in rule A.1 (interpretation), after the definition of “relevant disabling condition”, insert—
 
@@ -576,7 +576,7 @@ In rule E.1 of Part E of Schedule 1 to the Armed Forces Pension Scheme Order 200
 
   .
 
-#### 20. Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^key-2a107a3db299bc500588c36ceb12004e][^key-2a107a3db299bc500588c36ceb12004e]
+#### 20. Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^c-2a107a3db299bc500588c36ceb12004e][^c-2a107a3db299bc500588c36ceb12004e]
 
 (1) Part E of Schedule 1 to the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^f00047] (death benefits) is amended as follows.
 
@@ -616,7 +616,7 @@ In rule E.1 of Part E of Schedule 1 to the Armed Forces Pension Scheme Order 200
 
 .
 
-**21.**[^key-98e96e80576a1a1184f3a4b51007f903] (1) Schedule 2[^f00048] to the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (Royal Air Force Attributable Benefits Scheme) is amended as follows.
+**21.**[^c-98e96e80576a1a1184f3a4b51007f903] (1) Schedule 2[^f00048] to the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (Royal Air Force Attributable Benefits Scheme) is amended as follows.
 
 (2) In Part A, in rule A.1 (interpretation), after the definition of “relevant disabling condition” insert—
 
@@ -656,7 +656,7 @@ In rule E.1 of Part E of Schedule 1 to the Armed Forces Pension Scheme Order 200
 
   .
 
-#### 22. Reserve Forces Non Regular Permanent Staff (Pension and Attributable Benefits Schemes) Regulations 2011[^key-02dfc7634004eb7a666d60e8baede8b7][^key-02dfc7634004eb7a666d60e8baede8b7]
+#### 22. Reserve Forces Non Regular Permanent Staff (Pension and Attributable Benefits Schemes) Regulations 2011[^c-02dfc7634004eb7a666d60e8baede8b7][^c-02dfc7634004eb7a666d60e8baede8b7]
 
 (1) The Reserve Forces Non Regular Permanent Staff (Pension and Attributable Benefits Schemes) Regulations 2011[^f00049] are amended as follows.
 
@@ -710,7 +710,7 @@ In rule E.1 of Part E of Schedule 1 to the Armed Forces Pension Scheme Order 200
 
 Article 3
 
-### 1. Armed Forces Pension Scheme Order 2005[^key-7bb32b0e91499ffaee5325b2533cdf7c]
+### 1. Armed Forces Pension Scheme Order 2005[^c-7bb32b0e91499ffaee5325b2533cdf7c]
 
 (1) Part E of Schedule 1 to the Armed Forces Pension Scheme Order 2005[^f00050] (death benefits) is amended as follows.
 
@@ -727,7 +727,7 @@ Article 3
 
 (3) In each of rules E.3(6)(a), E.4(3)(a) and E.5(3)(a), before “civil partner” insert “person who was married to someone of the same sex or a”.
 
-### 2. Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^key-28fc48d046fe007e0435d15534e8d29a]
+### 2. Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^c-28fc48d046fe007e0435d15534e8d29a]
 
 (1) Part E of Schedule 1 to the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^f00051] (death benefits) is amended as follows.
 
@@ -787,7 +787,7 @@ Article 3
 
 (6) In rule E.30(4) (death attributable to service), for “widow’s pension” in each place it occurs substitute “surviving spouse’s or civil partner’s pension”.
 
-**3.**[^key-b90344dd35a7d1f2ca1c0f3b0ecfb161] (1) Schedule 2[^f00052] to the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (Naval and Marines Attributable Benefits Scheme) is amended as follows.
+**3.**[^c-b90344dd35a7d1f2ca1c0f3b0ecfb161] (1) Schedule 2[^f00052] to the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (Naval and Marines Attributable Benefits Scheme) is amended as follows.
 
 (2) In Part A, in rule A.1 (interpretation) after the definition of “relevant disabling condition” insert—
 
@@ -837,7 +837,7 @@ Article 3
 
 .
 
-### 4. Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010[^key-6fe024f276896d1cb114cfe65c6e35bb]
+### 4. Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010[^c-6fe024f276896d1cb114cfe65c6e35bb]
 
 (1) Part E of Schedule 1 to the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010[^f00053] (death benefits) is amended as follows.
 
@@ -897,7 +897,7 @@ Article 3
 
 (6) In rule E.30(4) (death attributable to service), for “widow’s pension” in each place it occurs substitute “surviving spouse’s or civil partner’s pension”.
 
-**5.**[^key-5477deee937ea2881ea7b889797d2be9] (1) Schedule 2[^f00054] to the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010 (Army Attributable Benefits Scheme) is amended as follows.
+**5.**[^c-5477deee937ea2881ea7b889797d2be9] (1) Schedule 2[^f00054] to the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010 (Army Attributable Benefits Scheme) is amended as follows.
 
 (2) In Part A, in rule A.1 (interpretation) after the definition of “relevant disabling condition” insert—
 
@@ -947,7 +947,7 @@ Article 3
 
 .
 
-### 6. Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^key-315547c3f4fa70cc5b9e7111710ff2a9]
+### 6. Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^c-315547c3f4fa70cc5b9e7111710ff2a9]
 
 (1) Part E of Schedule 1 to the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^f00055] (death benefits) is amended as follows.
 
@@ -1007,7 +1007,7 @@ Article 3
 
 (6) In rule E.30(4) (death attributable to service), for “widow’s pension” in each place it occurs substitute “surviving spouse’s or civil partner’s pension”.
 
-**7.**[^key-d4a70cd4d062068abffb61108a7e00d8] (1) Schedule 2[^f00056] to the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (Royal Air Force Attributable Benefits Scheme) is amended as follows.
+**7.**[^c-d4a70cd4d062068abffb61108a7e00d8] (1) Schedule 2[^f00056] to the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (Royal Air Force Attributable Benefits Scheme) is amended as follows.
 
 (2) In Part A, in rule A.1 (interpretation) after the definition of “relevant disabling condition” insert—
 
@@ -1057,7 +1057,7 @@ Article 3
 
 .
 
-### 8. Reserve Forces Non Regular Permanent Staff (Pension and Attributable Benefits Schemes) Regulations 2011[^key-8deaa1dfc49ddb8806f16efa5c17c8ec]
+### 8. Reserve Forces Non Regular Permanent Staff (Pension and Attributable Benefits Schemes) Regulations 2011[^c-8deaa1dfc49ddb8806f16efa5c17c8ec]
 
 (1) The Reserve Forces Non Regular Permanent Staff (Pension and Attributable Benefits Schemes) Regulations 2011[^f00057] are amended as follows.
 
@@ -1105,7 +1105,7 @@ Article 3
 
 .
 
-### 9. Postal Services Act 2011 (Transfer of Accrued Pension Rights) Order 2012[^key-102ca90c10fb25e14319c9832d45e213]
+### 9. Postal Services Act 2011 (Transfer of Accrued Pension Rights) Order 2012[^c-102ca90c10fb25e14319c9832d45e213]
 
 (1) The Royal Mail Statutory Pension Scheme in Schedule 1 to the Postal Services Act 2011 (Transfer of Accrued Pension Rights) Order 2012[^f00058] is amended as follows.
 
@@ -1152,7 +1152,7 @@ Article 3
 
 .
 
-### 10. Public service pension schemes: general[^key-fa25909d94058ddc12937c5dabd1ca59]
+### 10. Public service pension schemes: general[^c-fa25909d94058ddc12937c5dabd1ca59]
 
 (1) In each of the enactments set out at sub-paragraph (4), any reference to a “widow” includes a woman who is the surviving spouse of a woman to whom sub-paragraph (3) applies.
 
@@ -1178,39 +1178,39 @@ Article 3
 
 Article 4
 
-### 1. Church Property (Miscellaneous Provisions) Measure 1960[^key-5b1311c7b5adf982f3f856f449e8e622][^key-5b1311c7b5adf982f3f856f449e8e622]
+### 1. Church Property (Miscellaneous Provisions) Measure 1960[^c-5b1311c7b5adf982f3f856f449e8e622][^c-5b1311c7b5adf982f3f856f449e8e622]
 
 In the Church Property (Miscellaneous Provisions) Measure 1960[^f00065], in section 20 (provisions as to pensions of Church Estates Commissioners), in subsection (2A), after “widower” insert “(whether or not of the same or the opposite sex to the deceased),”.
 
-### 2. Clergy Pensions Measure 1961[^key-353456ac53680372e976c822093ba904]
+### 2. Clergy Pensions Measure 1961[^c-353456ac53680372e976c822093ba904]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Clergy Pensions (Amendment) Measure 1972[^key-353456ac53680372e976c822093ba904]
+### 3. Clergy Pensions (Amendment) Measure 1972[^c-353456ac53680372e976c822093ba904]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Deaconesses and Lay Workers (Pensions) Measure 1980[^key-353456ac53680372e976c822093ba904]
+### 4. Deaconesses and Lay Workers (Pensions) Measure 1980[^c-353456ac53680372e976c822093ba904]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Church of England Pensions Regulations 1988[^key-353456ac53680372e976c822093ba904]
+### 5. Church of England Pensions Regulations 1988[^c-353456ac53680372e976c822093ba904]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Pensions Measure 1997[^key-353456ac53680372e976c822093ba904]
+### 6. Pensions Measure 1997[^c-353456ac53680372e976c822093ba904]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Church of England (Pensions) Measure 2003[^key-353456ac53680372e976c822093ba904]
+### 7. Church of England (Pensions) Measure 2003[^c-353456ac53680372e976c822093ba904]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Mission and Pastoral Measure 2011[^key-ccd830efd831884483ca196ca436a4fb][^key-ccd830efd831884483ca196ca436a4fb]
+### 8. Mission and Pastoral Measure 2011[^c-ccd830efd831884483ca196ca436a4fb][^c-ccd830efd831884483ca196ca436a4fb]
 
 In Schedule 4 to the Mission and Pastoral Measure 2011[^f00072] (compensation of clergy), after paragraph 11(3) insert—
 
@@ -1224,13 +1224,13 @@ In Schedule 4 to the Mission and Pastoral Measure 2011[^f00072] (compensation of
 
 Article 5
 
-**1.**[^key-e7fd716f9505fa959a80c047906d7316] (1) Any person is entitled to obtain, from the Registrar General for England and Wales or from the Registrar General for Scotland a certified copy of any entry in a marriage register book transmitted to that Registrar General under section 10 of the Foreign Marriage Act 1892[^f00073] or article 6 of the Foreign Marriage Order 1970[^f00074] as the case may be, on payment of a fee.
+**1.**[^c-e7fd716f9505fa959a80c047906d7316] (1) Any person is entitled to obtain, from the Registrar General for England and Wales or from the Registrar General for Scotland a certified copy of any entry in a marriage register book transmitted to that Registrar General under section 10 of the Foreign Marriage Act 1892[^f00073] or article 6 of the Foreign Marriage Order 1970[^f00074] as the case may be, on payment of a fee.
 
 (2) The fee payable under sub-paragraph (1) is the same fee as is for the time being charged by that Registrar General for the provision of a certified copy of, and any necessary search for, an entry in the records in their custody of marriages performed in England and Wales or Scotland, as the case may be.
 
 (3) A certified copy provided under sub-paragraph (1) shall be sufficient evidence of the marriage.
 
-**2.**[^key-649387eab548bf59a540a8fc0414d218] (1) Any person is entitled to obtain, from the Registrar General for England and Wales or from the Registrar General for Scotland, a certified copy of any of the documents specified in sub-paragraph (3) transmitted to that Registrar General in accordance with article 7 of the Foreign Marriage Order 1970[^f00075] on payment of a fee.
+**2.**[^c-649387eab548bf59a540a8fc0414d218] (1) Any person is entitled to obtain, from the Registrar General for England and Wales or from the Registrar General for Scotland, a certified copy of any of the documents specified in sub-paragraph (3) transmitted to that Registrar General in accordance with article 7 of the Foreign Marriage Order 1970[^f00075] on payment of a fee.
 
 (2) The fee payable under sub-paragraph (1) is the same fee as is for the time being charged by that Registrar General for the provision of a certified copy of, and any necessary search for, an entry in the records in their custody of marriages performed in England and Wales or Scotland, as the case may be.
 
@@ -1244,7 +1244,7 @@ Article 5
 
 (5) In this paragraph a “foreign marriage” means a marriage solemnized in a foreign country.
 
-**3.**[^key-16b9edd1b4018af7d39bb7beafc5a256] Where the Registrar General for England and Wales receives a certified copy of an entry in a marriage register book kept under section 9 of the Foreign Marriage Act 1892, relating to a party shown to be from Northern Ireland, that Registrar General shall send a copy of that entry to the Registrar General for Northern Ireland.
+**3.**[^c-16b9edd1b4018af7d39bb7beafc5a256] Where the Registrar General for England and Wales receives a certified copy of an entry in a marriage register book kept under section 9 of the Foreign Marriage Act 1892, relating to a party shown to be from Northern Ireland, that Registrar General shall send a copy of that entry to the Registrar General for Northern Ireland.
 
 EXPLANATORY NOTE
 
@@ -1298,25 +1298,25 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00003]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-90c4f69b0ed3490fe612e9ae836e84bc]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/3061/article/1) in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2/3)
+[^c-90c4f69b0ed3490fe612e9ae836e84bc]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/3061/article/1) in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2/3)
 
 [^f00004]: Footnote: [2014 asp 5](https://www.legislation.gov.uk/asp/2014/5).
 
-[^key-7a6c2bee50424a84691843e6fd4b5c66]: Commencement: Art. 2 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-7a6c2bee50424a84691843e6fd4b5c66]: Commencement: Art. 2 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
-[^key-ea5a828c7d795fc047c30decdf25e613]: Commencement: Art. 3 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
+[^c-ea5a828c7d795fc047c30decdf25e613]: Commencement: Art. 3 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
 
-[^key-d7bf2d92e7a250d0798794e1f442886a]: Commencement: Art. 4 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-d7bf2d92e7a250d0798794e1f442886a]: Commencement: Art. 4 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
-[^key-2f86ccc89b7ac64c9f1d1285b2d69fe5]: Commencement: Art. 5 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-2f86ccc89b7ac64c9f1d1285b2d69fe5]: Commencement: Art. 5 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
-[^key-dece8cbde76f30c09fc8715ad6dc5211]: Commencement: Sch. 1 para. 1 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-dece8cbde76f30c09fc8715ad6dc5211]: Commencement: Sch. 1 para. 1 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00005]: Footnote: [S.I. 1952/1869](https://www.legislation.gov.uk/uksi/1952/1869); regulation 2 was amended by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). The functions of the Admiralty under these Regulations were transferred to the Secretary of State by virtue of section 3(2) of the Defence (Transfer of Functions) Act [1964 (c. 15)](https://www.legislation.gov.uk/ukpga/1964/15).
 
-[^key-e8d60870c055f118b0835cb019383df7]: Commencement: Sch. 1 para. 2 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-e8d60870c055f118b0835cb019383df7]: Commencement: Sch. 1 para. 2 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
-[^key-4c45bb101381593b1732fc6768ffb494]: Modification: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/2): amendents extended (N.I.) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-4c45bb101381593b1732fc6768ffb494]: Modification: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/2): amendents extended (N.I.) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^f00006]: Footnote: [S.I. 1959/406](https://www.legislation.gov.uk/uksi/1959/406).
 
@@ -1330,11 +1330,11 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00011]: Footnote: [S.I. 2014/1108](https://www.legislation.gov.uk/uksi/2014/1108).
 
-[^key-d9f145951d4dd797072318fcd0493c28]: Commencement: Sch. 1 para. 3 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-d9f145951d4dd797072318fcd0493c28]: Commencement: Sch. 1 para. 3 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00012]: Footnote: [S.I. 1968/2049](https://www.legislation.gov.uk/uksi/1968/2049).
 
-[^key-74b6688100e6e367f807919889063424]: Commencement: Sch. 1 para. 4 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-74b6688100e6e367f807919889063424]: Commencement: Sch. 1 para. 4 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00013]: Footnote: [S.I. 1975/556](https://www.legislation.gov.uk/uksi/1975/556).
 
@@ -1342,31 +1342,31 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00015]: Footnote: The Schedule was inserted by [S.I. 2011/709](https://www.legislation.gov.uk/uksi/2011/709).
 
-[^key-74ad58b92a6e9024ca755658a5f44254]: Commencement: Sch. 1 para. 5 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-74ad58b92a6e9024ca755658a5f44254]: Commencement: Sch. 1 para. 5 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00016]: Footnote: [S.I. 1979/643](https://www.legislation.gov.uk/uksi/1979/643); regulation 7 was amended by [S.I. 1981/1627](https://www.legislation.gov.uk/uksi/1981/1627) and by [S.I. 2009/2206](https://www.legislation.gov.uk/uksi/2009/2206).
 
-[^key-4adca2e73b4b17689fb14baec5a6d15b]: Commencement: Sch. 1 para. 6 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-4adca2e73b4b17689fb14baec5a6d15b]: Commencement: Sch. 1 para. 6 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00017]: Footnote: [S.I. 1986/1442](https://www.legislation.gov.uk/uksi/1986/1442); regulation 11(2)(ea) was inserted by [S.I. 2005/3177](https://www.legislation.gov.uk/uksi/2005/3177). There are other amendments to regulation 11 not relevant to this Order.
 
-[^key-c5cc780abb8877ea55dbd99982ba97ce]: Commencement: Sch. 1 para. 7 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-c5cc780abb8877ea55dbd99982ba97ce]: Commencement: Sch. 1 para. 7 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00018]: Footnote: [S.I. 1987/2088](https://www.legislation.gov.uk/uksi/1987/2088); regulation 9(7) was substituted by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amendments to regulation 9 not relevant to this Order.
 
-[^key-86e21878f2d6864920bfec3beefdd682]: Commencement: Sch. 1 para. 8 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-86e21878f2d6864920bfec3beefdd682]: Commencement: Sch. 1 para. 8 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00019]: Footnote: [S.I. 2001/2283 (W. 172)](https://www.legislation.gov.uk/wsi/2001/2283); to which there are amendments not relevant to this Order.
 
-[^key-2df8775eb4e26297f1c9e0af8a8b1b9c]: Commencement: Sch. 1 para. 9 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-2df8775eb4e26297f1c9e0af8a8b1b9c]: Commencement: Sch. 1 para. 9 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00020]: Footnote: [S.I. 2005/1513 (W. 117)](https://www.legislation.gov.uk/wsi/2005/1513).
 
-[^key-2761301c0bbd8205dddf37ea0e90fa26]: Commencement: Sch. 1 para. 10 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-2761301c0bbd8205dddf37ea0e90fa26]: Commencement: Sch. 1 para. 10 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00021]: Footnote: [S.I. 2005/3176](https://www.legislation.gov.uk/uksi/2005/3176).
 
-[^key-2424a7641d4fd81e29d12ace474308eb]: Commencement: Sch. 1 para. 11 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-2424a7641d4fd81e29d12ace474308eb]: Commencement: Sch. 1 para. 11 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00022]: Footnote: The Scheme is in Schedule 2 to [S.I. 1992/129](https://www.legislation.gov.uk/uksi/1992/129). Paragraphs 1 and 2 were inserted into Part 3 of Schedule 1 to the Scheme by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560). There are other amendments to Schedule 1 to the Scheme not relevant to this Order. The name of the Scheme was changed to the Firefighters’ Pension Scheme by [S.I. 2004/2306](https://www.legislation.gov.uk/uksi/2004/2306). By virtue of [S.I. 2006/3432](https://www.legislation.gov.uk/uksi/2006/3432), subject to certain savings, the Scheme has no effect in relation to any person who takes up employment with an English fire and rescue authority on or after 6th April 2006.
 
@@ -1380,7 +1380,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00027]: Footnote: [2004 c. 7](https://www.legislation.gov.uk/ukpga/2004/7).
 
-[^key-af83052bd748635c8343c76c51b1c7bc]: Commencement: Sch. 1 para. 12 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-af83052bd748635c8343c76c51b1c7bc]: Commencement: Sch. 1 para. 12 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00028]: Footnote: [S.I. 1944/500](https://www.legislation.gov.uk/uksi/1944/500); to which there are amendments not relevant to this Order.
 
@@ -1396,7 +1396,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00034]: Footnote: [S.I. 1977/1316](https://www.legislation.gov.uk/uksi/1977/1316); to which there are amendments not relevant to this Order.
 
-[^key-eeaae6a9ba244b8daf639d2044938cd3]: Commencement: Sch. 1 para. 13 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-eeaae6a9ba244b8daf639d2044938cd3]: Commencement: Sch. 1 para. 13 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00035]: Footnote: [S.I. 1987/257](https://www.legislation.gov.uk/uksi/1987/257).
 
@@ -1410,79 +1410,79 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00040]: Footnote: Paragraph 1A was inserted in relation to England and Wales by [S.I. 2006/740](https://www.legislation.gov.uk/uksi/2006/740) and amended by [S.I. 2014/79](https://www.legislation.gov.uk/uksi/2014/79).
 
-[^key-32fe62ae266105a4bfddcff919c98b84]: Commencement: Sch. 1 para. 14 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-32fe62ae266105a4bfddcff919c98b84]: Commencement: Sch. 1 para. 14 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00041]: Footnote: [S.I. 1995/300](https://www.legislation.gov.uk/uksi/1995/300). Regulation A4 was inserted by [S.I. 2014/78](https://www.legislation.gov.uk/uksi/2014/78).
 
-[^key-3fffddbe7c6e288bba94fada624ba8aa]: Commencement: Sch. 1 para. 15 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-3fffddbe7c6e288bba94fada624ba8aa]: Commencement: Sch. 1 para. 15 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00042]: Footnote: [S.I. 2005/438](https://www.legislation.gov.uk/uksi/2005/438). Part E of Schedule 1 was amended by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107) and [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560). There are other amendments to [S.I. 2005/438](https://www.legislation.gov.uk/uksi/2005/438) which are not relevant to this Order.
 
-[^key-c0d875456d932567c0a5c47975f220a3]: Commencement: Sch. 1 para. 16 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-c0d875456d932567c0a5c47975f220a3]: Commencement: Sch. 1 para. 16 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00043]: Footnote: Order in Council made pursuant to section 3 of the [Naval and Marine Pay and Pensions Act 1865 (28 and 29 Vict c. 73)](https://www.legislation.gov.uk/ukpga/1865/73). This Order in Council and its amending orders are not statutory instruments. Schedule 1 was substituted in its entirety by the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2010 and subsequently amended by the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2012 and by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107) and [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560). Copies can be obtained from www.gov.uk/government/publications/armed-forces-pension-scheme-1975-regulations. Hard copies are available from CDP-Remuneration, Armed Forces Pensions, Level 6 Zone M, Ministry of Defence, Main Building, London SW1A 2HB.
 
-[^key-7580d60215b77ba515af209cc4c1d3a3]: Commencement: Sch. 1 para. 17 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-7580d60215b77ba515af209cc4c1d3a3]: Commencement: Sch. 1 para. 17 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00044]: Footnote: Schedule 2 to the Order was amended by the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2010 and the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2012 and by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107) and [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-3995344882d73a2ad0979b11f4a8afa3]: Commencement: Sch. 1 para. 18 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-3995344882d73a2ad0979b11f4a8afa3]: Commencement: Sch. 1 para. 18 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00045]: Footnote: Royal Warrant made under section 2 of the [Pensions and Yeomanry Pay Act 1884 (47 and 48 Vict c. 55)](https://www.legislation.gov.uk/ukpga/1884/55) and prerogative powers. This Warrant and the warrants which amend it are not statutory instruments. Schedule 1 was substituted in its entirety by the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Warrant 2010 and was subsequently amended by the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme (Amendment) Warrant 2012 and by [S.I 2014/107](https://www.legislation.gov.uk/uksi/2014/107) and [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560). Copies can be obtained from www.gov.uk/government/publications/armed-forces-pension-scheme-1975-regulations. Hard copies are available from CDP-Remuneration, Armed Forces Pensions, Level 6 Zone M, Ministry of Defence, Main Building, London SW1A 2HB.
 
-[^key-88b63e691493fa1f32ec996444eadf52]: Commencement: Sch. 1 para. 19 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-88b63e691493fa1f32ec996444eadf52]: Commencement: Sch. 1 para. 19 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00046]: Footnote: Schedule 2 was amended by the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Warrant 2010 and by the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme (Amendment) Warrant 2012 and by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107) and [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-2a107a3db299bc500588c36ceb12004e]: Commencement: Sch. 1 para. 20 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-2a107a3db299bc500588c36ceb12004e]: Commencement: Sch. 1 para. 20 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00047]: Footnote: Queen’s Order made under section 2(1) of the [Air Force (Constitution) Act 1917 (7 and 8 Geo 5 c. 51)](https://www.legislation.gov.uk/ukpga/1917/51). This Order and its amending orders are not statutory instruments. Schedule 1 was substituted by the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2010 and subsequently amended by the Air Force Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2012 and by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107) and [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560). Copies can be obtained from www.gov.uk/government/publications/armed-forces-pension-scheme-1975-regulations. Hard copies are available from CDP-Remuneration, Armed Forces Pensions, Level 6 Zone M, Ministry of Defence, Main Building, London SW1A 2HB.
 
-[^key-98e96e80576a1a1184f3a4b51007f903]: Commencement: Sch. 1 para. 21 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-98e96e80576a1a1184f3a4b51007f903]: Commencement: Sch. 1 para. 21 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00048]: Footnote: Schedule 2 was amended by the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2010 and the Air Force Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2012 and by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107) and [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-02dfc7634004eb7a666d60e8baede8b7]: Commencement: Sch. 1 para. 22 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-02dfc7634004eb7a666d60e8baede8b7]: Commencement: Sch. 1 para. 22 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00049]: Footnote: These regulations are not statutory instruments. Copies can be found at www.gov.uk/government/publications/reserve-forces-pension-scheme-regulations. Hard copies can be obtained from CDP-Remuneration, Armed Forces Pensions, Level 6 Zone M, Ministry of Defence, Main Building, London SW1A 2HB. These regulations were amended by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107).
 
-[^key-7bb32b0e91499ffaee5325b2533cdf7c]: Commencement: Sch. 2 para. 1 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
+[^c-7bb32b0e91499ffaee5325b2533cdf7c]: Commencement: Sch. 2 para. 1 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
 
 [^f00050]: Footnote: [S.I. 2005/438](https://www.legislation.gov.uk/uksi/2005/438). There are amendments to [S.I. 2005/438](https://www.legislation.gov.uk/uksi/2005/438) which are not relevant to this Order.
 
-[^key-28fc48d046fe007e0435d15534e8d29a]: Commencement: Sch. 2 para. 2 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
+[^c-28fc48d046fe007e0435d15534e8d29a]: Commencement: Sch. 2 para. 2 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
 
 [^f00051]: Footnote: Order in Council made pursuant to section 3 of the [Naval and Marine Pay and Pensions Act 1865 (28 and 29 Vict c. 73)](https://www.legislation.gov.uk/ukpga/1865/73). This Order in Council and its amending orders are not statutory instruments. Schedule 1 was substituted in its entirety by the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2010 and subsequently amended by the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2012. Copies can be obtained from www.gov.uk/government/publications/armed-forces-pension-scheme-1975-regulations. Hard copies are available from CDP-Remuneration, Armed Forces Pensions, Level 6 Zone M, Ministry of Defence, Main Building, London SW1A 2HB.
 
-[^key-b90344dd35a7d1f2ca1c0f3b0ecfb161]: Commencement: Sch. 2 para. 3 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
+[^c-b90344dd35a7d1f2ca1c0f3b0ecfb161]: Commencement: Sch. 2 para. 3 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
 
 [^f00052]: Footnote: Schedule 2 was amended by the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2010 and subsequently amended by the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2012.
 
-[^key-6fe024f276896d1cb114cfe65c6e35bb]: Commencement: Sch. 2 para. 4 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
+[^c-6fe024f276896d1cb114cfe65c6e35bb]: Commencement: Sch. 2 para. 4 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
 
 [^f00053]: Footnote: Royal Warrant made under section 2 of the [Pensions and Yeomanry Pay Act 1884 (47 and 48 Vict c. 55)](https://www.legislation.gov.uk/ukpga/1884/55) and prerogative powers. This Warrant and the warrants which amend it are not statutory instruments. Schedule 1 was substituted in its entirety by the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Warrant 2010 and was subsequently amended by the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme (Amendment) Warrant 2012. Copies can be obtained from www.gov.uk/government/publications/armed-forces-pension-scheme-1975-regulations. Hard copies are available from CDP-Remuneration, Armed Forces Pensions, Level 6 Zone M, Ministry of Defence, Main Building, London SW1A 2HB.
 
-[^key-5477deee937ea2881ea7b889797d2be9]: Commencement: Sch. 2 para. 5 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
+[^c-5477deee937ea2881ea7b889797d2be9]: Commencement: Sch. 2 para. 5 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
 
 [^f00054]: Footnote: Schedule 2 was amended by the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Warrant 2010 and was subsequently amended by the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme (Amendment) Warrant 2012.
 
-[^key-315547c3f4fa70cc5b9e7111710ff2a9]: Commencement: Sch. 2 para. 6 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
+[^c-315547c3f4fa70cc5b9e7111710ff2a9]: Commencement: Sch. 2 para. 6 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
 
 [^f00055]: Footnote: Queen’s Order made under section 2(1) of the [Air Force (Constitution) Act 1917 (7 and 8 Geo 5 c. 51)](https://www.legislation.gov.uk/ukpga/1917/51). This Order and its amending orders are not statutory instruments. Schedule 1 was substituted by the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2010 and subsequently amended by the Air Force Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2012. Copies can be obtained from www.gov.uk/government/publications/armed-forces-pension-scheme-1975-regulations and in relation to England and Wales by S.I. [2014/107](https://www.legislation.gov.uk/uksi/2014/107) and [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560). Hard copies are available from CDP-Remuneration, Armed Forces Pensions, Level 6 Zone M, Ministry of Defence, Main Building, London SW1A 2HB.
 
-[^key-d4a70cd4d062068abffb61108a7e00d8]: Commencement: Sch. 2 para. 7 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
+[^c-d4a70cd4d062068abffb61108a7e00d8]: Commencement: Sch. 2 para. 7 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
 
 [^f00056]: Footnote: Schedule 2 was amended by the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2010 and the Air Force Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2012.
 
-[^key-8deaa1dfc49ddb8806f16efa5c17c8ec]: Commencement: Sch. 2 para. 8 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
+[^c-8deaa1dfc49ddb8806f16efa5c17c8ec]: Commencement: Sch. 2 para. 8 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
 
 [^f00057]: Footnote: These regulations are not statutory instruments. Copies can be found at www.gov.uk/government/publications/reserve-forces-pension-scheme-regulations. Hard copies can be obtained from CDP-Remuneration, Armed Forces Pensions, Level 6 Zone M, Ministry of Defence, Main Building, London SW1A 2HB.
 
-[^key-102ca90c10fb25e14319c9832d45e213]: Commencement: Sch. 2 para. 9 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
+[^c-102ca90c10fb25e14319c9832d45e213]: Commencement: Sch. 2 para. 9 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
 
 [^f00058]: Footnote: [S.I. 2012/687](https://www.legislation.gov.uk/uksi/2012/687).
 
-[^key-fa25909d94058ddc12937c5dabd1ca59]: Commencement: Sch. 2 para. 10 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
+[^c-fa25909d94058ddc12937c5dabd1ca59]: Commencement: Sch. 2 para. 10 in force at 16.12.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3)
 
 [^f00059]: Footnote: [S.I. 1944/500](https://www.legislation.gov.uk/uksi/1944/500), to which there are amendments not relevant to this Order.
 
@@ -1496,24 +1496,24 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00064]: Footnote: [S.I. 1977/1316](https://www.legislation.gov.uk/uksi/1977/1316), to which there are amendments not relevant to this Order.
 
-[^key-5b1311c7b5adf982f3f856f449e8e622]: Commencement: Sch. 3 para. 1 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-5b1311c7b5adf982f3f856f449e8e622]: Commencement: Sch. 3 para. 1 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00065]: Footnote: [1960 No. 1](https://www.legislation.gov.uk/ukcm/1960/1). Subsection (2A) was originally inserted by the Church Commissioners Measure [1964 No. 8](https://www.legislation.gov.uk/ukcm/1964/8) and was substituted by the Church of England (Miscellaneous Provisions) Measure [2005 No. 3](https://www.legislation.gov.uk/ukcm/2005/3) and amended by [S.I. 2005/3325](https://www.legislation.gov.uk/uksi/2005/3325). There are other amendments to section 20 not relevant to this Order.
 
-[^key-353456ac53680372e976c822093ba904]: Textual amendment: [Sch. 3 paras. 2-7](https://www.legislation.gov.uk/uksi/2014/3061/schedule/3/paragraph/2) revoked (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-353456ac53680372e976c822093ba904]: Textual amendment: [Sch. 3 paras. 2-7](https://www.legislation.gov.uk/uksi/2014/3061/schedule/3/paragraph/2) revoked (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-ccd830efd831884483ca196ca436a4fb]: Commencement: Sch. 3 para. 8 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-ccd830efd831884483ca196ca436a4fb]: Commencement: Sch. 3 para. 8 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00072]: Footnote: [2011 No. 3](https://www.legislation.gov.uk/ukcm/2011/3). Schedule 4 was amended by [S.I. 2012/992](https://www.legislation.gov.uk/uksi/2012/992) and Church of England (Miscellaneous Provisions) Measure [2014 No. 1](https://www.legislation.gov.uk/ukcm/2014/1).
 
-[^key-e7fd716f9505fa959a80c047906d7316]: Commencement: Sch. 4 para. 1 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-e7fd716f9505fa959a80c047906d7316]: Commencement: Sch. 4 para. 1 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00073]: Footnote: [1892 c. 23](https://www.legislation.gov.uk/ukpga/1892/23). The Foreign Marriage Act 1892 was repealed in relation to England and Wales and Scotland by section 13(2) of the 2013 Act.
 
 [^f00074]: Footnote: [S.I. 1970/1539](https://www.legislation.gov.uk/uksi/1970/1539). Article 6 was amended by [S.I. 1990/598](https://www.legislation.gov.uk/uksi/1990/598).
 
-[^key-649387eab548bf59a540a8fc0414d218]: Commencement: Sch. 4 para. 2 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-649387eab548bf59a540a8fc0414d218]: Commencement: Sch. 4 para. 2 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
 
 [^f00075]: Footnote: Article 7 was amended by [S.I. 1990/598](https://www.legislation.gov.uk/uksi/1990/598) and revoked by [S.I. 2013/2875](https://www.legislation.gov.uk/uksi/2013/2875) subject to saving provision.
 
-[^key-16b9edd1b4018af7d39bb7beafc5a256]: Commencement: Sch. 4 para. 3 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)
+[^c-16b9edd1b4018af7d39bb7beafc5a256]: Commencement: Sch. 4 para. 3 in force at 10.12.2014 for E.W. and 16.12.2014 for S., see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)

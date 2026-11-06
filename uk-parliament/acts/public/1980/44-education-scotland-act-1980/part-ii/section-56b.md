@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56B. Regulations under section 56A: further provision[^key-8608734752f764c044f7ab6f4a3b3395]
+## 56B. Regulations under section 56A: further provision[^c-8608734752f764c044f7ab6f4a3b3395]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8608734752f764c044f7ab6f4a3b3395]: Textual amendment: Ss. 56A-56D and cross-heading inserted (12.5.2008 for specified purposes, 4.8.2008 in so far as not already in force) by [Schools (Health Promotion and Nutrition) (Scotland) Act 2007 (asp 15)](https://www.legislation.gov.uk/asp/2007/15), [ss. 3](https://www.legislation.gov.uk/asp/2007/15/section/3), [11(2)](https://www.legislation.gov.uk/asp/2007/15/section/11/2); [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2008/171/article/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
+[^c-8608734752f764c044f7ab6f4a3b3395]: Textual amendment: Ss. 56A-56D and cross-heading inserted (12.5.2008 for specified purposes, 4.8.2008 in so far as not already in force) by [Schools (Health Promotion and Nutrition) (Scotland) Act 2007 (asp 15)](https://www.legislation.gov.uk/asp/2007/15), [ss. 3](https://www.legislation.gov.uk/asp/2007/15/section/3), [11(2)](https://www.legislation.gov.uk/asp/2007/15/section/11/2); [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2008/171/article/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)

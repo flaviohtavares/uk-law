@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 475B. Meaning of “matched”[^key-929887b7091f68cdfba4d97914b0b6cb]
+## 475B. Meaning of “matched”[^c-929887b7091f68cdfba4d97914b0b6cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ and “**unmatched**” is to be construed accordingly.
 
 ## Annotations
 
-[^key-929887b7091f68cdfba4d97914b0b6cb]: Textual amendment: S. 475B and cross-heading inserted (with effect in accordance with Sch. 7 para. 12 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2016/24/schedule/7/paragraph/10)
+[^c-929887b7091f68cdfba4d97914b0b6cb]: Textual amendment: S. 475B and cross-heading inserted (with effect in accordance with Sch. 7 para. 12 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2016/24/schedule/7/paragraph/10)

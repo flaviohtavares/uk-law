@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Keeping of documents[^key-28e9aa15d128194b9de30a2f890d05b9]
+## 27. Keeping of documents[^c-28e9aa15d128194b9de30a2f890d05b9]
 
 *Extent: N.I.*
 
@@ -72,4 +72,4 @@ are kept at an address in Northern Ireland notified to the competent authority, 
 
 ## Annotations
 
-[^key-28e9aa15d128194b9de30a2f890d05b9]: Commencement: Reg. 27 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-28e9aa15d128194b9de30a2f890d05b9]: Commencement: Reg. 27 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

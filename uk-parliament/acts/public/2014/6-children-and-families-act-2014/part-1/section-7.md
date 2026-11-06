@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. The Adoption and Children Act Register[^key-cb8b239baf87f6eb0a904670bb67bd89]
+## 7. The Adoption and Children Act Register[^c-cb8b239baf87f6eb0a904670bb67bd89]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb8b239baf87f6eb0a904670bb67bd89]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/6/section/7) in force at 13.5.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(b)](https://www.legislation.gov.uk/uksi/2014/889/article/5/b)
+[^c-cb8b239baf87f6eb0a904670bb67bd89]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/6/section/7) in force at 13.5.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(b)](https://www.legislation.gov.uk/uksi/2014/889/article/5/b)

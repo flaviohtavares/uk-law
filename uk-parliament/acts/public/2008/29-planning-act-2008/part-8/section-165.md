@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Rights of entry: supplementary provisions[^c19534401][^key-7f027edfc772b9118ff68dd05043f913]
+## 165. Rights of entry: supplementary provisions[^c19534401][^c-7f027edfc772b9118ff68dd05043f913]
 
 *Extent: E+W+S*
 
@@ -32,16 +32,16 @@ summary: ''
 
 (4) If any damage is caused to land or chattels in the exercise of a relevant right of entry, compensation may be recovered by any person suffering the damage from the local planning authority that authorised the entry.
 
-(5) Except so far as otherwise provided by regulations, any question of disputed compensation under subsection (4) is to be referred to and determined by the Upper Tribunal[^key-b545ba55ae76b9e2137576d3f0ef26f0].
+(5) Except so far as otherwise provided by regulations, any question of disputed compensation under subsection (4) is to be referred to and determined by the Upper Tribunal[^c-b545ba55ae76b9e2137576d3f0ef26f0].
 
-(6) In relation to the determination of any such question, the provisions of section[^key-63b7f2b40207aef666582ab261c94b81]4 of the Land Compensation Act 1961 (c. 33) apply subject to any necessary modifications and to any other prescribed modifications.
+(6) In relation to the determination of any such question, the provisions of section[^c-63b7f2b40207aef666582ab261c94b81]4 of the Land Compensation Act 1961 (c. 33) apply subject to any necessary modifications and to any other prescribed modifications.
 
 ## Annotations
 
 [^c19534401]: Commencement: S. 165 partly in force; s. 165 in force for certain purposes at Royal Assent see s. 241
 
-[^key-7f027edfc772b9118ff68dd05043f913]: Commencement: S. 165 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(j)](https://www.legislation.gov.uk/uksi/2010/101/article/3/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-7f027edfc772b9118ff68dd05043f913]: Commencement: S. 165 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(j)](https://www.legislation.gov.uk/uksi/2010/101/article/3/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-b545ba55ae76b9e2137576d3f0ef26f0]: Textual amendment: Words in s. 165(5) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 294(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/294/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-b545ba55ae76b9e2137576d3f0ef26f0]: Textual amendment: Words in s. 165(5) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 294(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/294/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-63b7f2b40207aef666582ab261c94b81]: Textual amendment: Word in s. 165(6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 294(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/294/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-63b7f2b40207aef666582ab261c94b81]: Textual amendment: Word in s. 165(6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 294(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/294/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

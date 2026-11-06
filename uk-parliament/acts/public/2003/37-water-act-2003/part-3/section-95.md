@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Requisition of lateral drains[^key-d5d2d7a2d3dee7961133feb12631bae4]
+## 95. Requisition of lateral drains[^c-d5d2d7a2d3dee7961133feb12631bae4]
 
 *Extent: E+W*
 
@@ -152,4 +152,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5d2d7a2d3dee7961133feb12631bae4]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2003/37/section/95) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-d5d2d7a2d3dee7961133feb12631bae4]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2003/37/section/95) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

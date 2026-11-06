@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-6016cc84889b9dc5ec0f2ccbd41b8ce1]
+## 1. Citation and commencement[^c-6016cc84889b9dc5ec0f2ccbd41b8ce1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Willington C Gas Pipeline Order 2014 and comes in
 
 ## Annotations
 
-[^key-6016cc84889b9dc5ec0f2ccbd41b8ce1]: Commencement: Art. 1 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-6016cc84889b9dc5ec0f2ccbd41b8ce1]: Commencement: Art. 1 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)

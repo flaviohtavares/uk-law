@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12A. Higher amount for long-term empty dwellings: Wales[^key-32d6ac07c2c71e8baf8be2611e9e208e]
+## 12A. Higher amount for long-term empty dwellings: Wales[^c-32d6ac07c2c71e8baf8be2611e9e208e]
 
 *Extent: E+W*
 
-(1)[^key-c9f866af98252db4898236da826a9c71] For any financial year, a billing authority in Wales may determine in relation to its area, or such part of its area as it may specify, that if on any day a dwelling is a long-term empty dwelling the amount of council tax payable in respect of the dwelling and the day is increased by such percentage of not more than 300 as it may specify in the determination.
+(1)[^c-c9f866af98252db4898236da826a9c71] For any financial year, a billing authority in Wales may determine in relation to its area, or such part of its area as it may specify, that if on any day a dwelling is a long-term empty dwelling the amount of council tax payable in respect of the dwelling and the day is increased by such percentage of not more than 300 as it may specify in the determination.
 
 (1A) Where a determination is made in accordance with subsection (1) and a discount applies, the authority must calculate the amount of council tax payable by first adding the percentage increase mentioned in subsection (1) and then subtracting the discount.
 
@@ -35,7 +35,7 @@ summary: ''
 - (a) the physical characteristics of, or other matters relating to, dwellings;
 - (b) the circumstances of, or other matters relating to, any person who is liable to the amount of council tax concerned.
 
-(6)[^key-8d03377d9114ea01d9802f54cb5b132e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8d03377d9114ea01d9802f54cb5b132e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) A billing authority may make a determination varying or revoking a determination under this section for a financial year, but only before the beginning of the year.
 
@@ -67,8 +67,8 @@ summary: ''
 
 ## Annotations
 
-[^key-32d6ac07c2c71e8baf8be2611e9e208e]: Textual amendment: Ss. 12A, 12B inserted (16.12.2015 for the insertion of s. 12B, 1.4.2016 for the insertion of s. 12A) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 139(2)](https://www.legislation.gov.uk/anaw/2014/7/section/139/2), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2015/2046](https://www.legislation.gov.uk/wsi/2015/2046), [art. 2](https://www.legislation.gov.uk/wsi/2015/2046/article/2)
+[^c-32d6ac07c2c71e8baf8be2611e9e208e]: Textual amendment: Ss. 12A, 12B inserted (16.12.2015 for the insertion of s. 12B, 1.4.2016 for the insertion of s. 12A) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 139(2)](https://www.legislation.gov.uk/anaw/2014/7/section/139/2), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2015/2046](https://www.legislation.gov.uk/wsi/2015/2046), [art. 2](https://www.legislation.gov.uk/wsi/2015/2046/article/2)
 
-[^key-c9f866af98252db4898236da826a9c71]: Textual amendment: [S. 12A(1)](https://www.legislation.gov.uk/ukpga/1992/14/section/12A/1)[(1A)](https://www.legislation.gov.uk/ukpga/1992/14/section/12A/1A) substituted for [s. 12A(1)](https://www.legislation.gov.uk/ukpga/1992/14/section/12A/1) (1.4.2026) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 18(7)(a)](https://www.legislation.gov.uk/asc/2024/6/section/18/7/a), [23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7); [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)
+[^c-c9f866af98252db4898236da826a9c71]: Textual amendment: [S. 12A(1)](https://www.legislation.gov.uk/ukpga/1992/14/section/12A/1)[(1A)](https://www.legislation.gov.uk/ukpga/1992/14/section/12A/1A) substituted for [s. 12A(1)](https://www.legislation.gov.uk/ukpga/1992/14/section/12A/1) (1.4.2026) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 18(7)(a)](https://www.legislation.gov.uk/asc/2024/6/section/18/7/a), [23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7); [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)
 
-[^key-8d03377d9114ea01d9802f54cb5b132e]: Textual amendment: [S. 12A(6)](https://www.legislation.gov.uk/ukpga/1992/14/section/12A/6) omitted (1.4.2026) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 18(7)(b)](https://www.legislation.gov.uk/asc/2024/6/section/18/7/b), [23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7); [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)
+[^c-8d03377d9114ea01d9802f54cb5b132e]: Textual amendment: [S. 12A(6)](https://www.legislation.gov.uk/ukpga/1992/14/section/12A/6) omitted (1.4.2026) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 18(7)(b)](https://www.legislation.gov.uk/asc/2024/6/section/18/7/b), [23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7); [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)

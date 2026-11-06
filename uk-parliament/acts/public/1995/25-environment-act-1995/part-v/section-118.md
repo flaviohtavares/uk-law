@@ -35,7 +35,7 @@ summary: ''
 >
 > (4) The power of the Secretary of State to make an order under this section shall be exercisable by statutory instrument; and a statutory instrument containing such an order shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(2)[^key-2c7bda37944a357199793fb07850ef83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2c7bda37944a357199793fb07850ef83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For section 76 of the [^c14543041]Environmental Protection Act 1990 (which provides for Part II of that Act to have effect in its application to the Isles of Scilly with modifications specified by order) there shall be substituted—
 
@@ -50,7 +50,7 @@ summary: ''
 > - (a) make different provision for different cases, including different provision in relation to different persons, circumstances or localities; and
 > - (b) contain such supplemental, consequential and transitional provision as the Secretary of State considers appropriate, including provision saving provision repealed by or under any enactment.
 
-(4)[^key-1028163bf1ceaa0769b67bbbbfe91922] For section 222 of the [^c14543051]Water Industry Act 1991 (application to Isles of Scilly) there shall be substituted—
+(4)[^c-1028163bf1ceaa0769b67bbbbfe91922] For section 222 of the [^c14543051]Water Industry Act 1991 (application to Isles of Scilly) there shall be substituted—
 
 > **222. Application to the Isles of Scilly.**
 >
@@ -65,7 +65,7 @@ summary: ''
 >
 > (4) The power of the Secretary of State to make an order under this section shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(5)[^key-1028163bf1ceaa0769b67bbbbfe91922] For section 224 of the [^c14543061]Water Resources Act 1991 (application to Isles of Scilly) there shall be substituted—
+(5)[^c-1028163bf1ceaa0769b67bbbbfe91922] For section 224 of the [^c14543061]Water Resources Act 1991 (application to Isles of Scilly) there shall be substituted—
 
 > **224. Application to the Isles of Scilly.**
 >
@@ -101,11 +101,11 @@ summary: ''
 
 [^c14543021]: Marginal citation: [1989 c. 14](https://www.legislation.gov.uk/ukpga/1989/14).
 
-[^key-2c7bda37944a357199793fb07850ef83]: Textual amendment: [S. 118(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/118/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-2c7bda37944a357199793fb07850ef83]: Textual amendment: [S. 118(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/118/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c14543041]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-1028163bf1ceaa0769b67bbbbfe91922]: Commencement: [S. 118(4)](https://www.legislation.gov.uk/ukpga/1995/25/section/118/4)[(5)](https://www.legislation.gov.uk/ukpga/1995/25/section/118/5) in force at 1.4.2020 in so far as not already in force by [S.I. 2020/216](https://www.legislation.gov.uk/uksi/2020/216), [art. 2](https://www.legislation.gov.uk/uksi/2020/216/article/2)
+[^c-1028163bf1ceaa0769b67bbbbfe91922]: Commencement: [S. 118(4)](https://www.legislation.gov.uk/ukpga/1995/25/section/118/4)[(5)](https://www.legislation.gov.uk/ukpga/1995/25/section/118/5) in force at 1.4.2020 in so far as not already in force by [S.I. 2020/216](https://www.legislation.gov.uk/uksi/2020/216), [art. 2](https://www.legislation.gov.uk/uksi/2020/216/article/2)
 
 [^c14543051]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 

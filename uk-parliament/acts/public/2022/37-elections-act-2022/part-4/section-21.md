@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Codes of practice on expenses[^key-9b296a7c245272ed8b2542f910e5408c][^key-931321cf0115c37be91f4b23fc885c6d]
+## 21. Codes of practice on expenses[^c-9b296a7c245272ed8b2542f910e5408c][^c-931321cf0115c37be91f4b23fc885c6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b296a7c245272ed8b2542f910e5408c]: Commencement: S. 21 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-9b296a7c245272ed8b2542f910e5408c]: Commencement: S. 21 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-931321cf0115c37be91f4b23fc885c6d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/37/section/21) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-931321cf0115c37be91f4b23fc885c6d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/37/section/21) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)

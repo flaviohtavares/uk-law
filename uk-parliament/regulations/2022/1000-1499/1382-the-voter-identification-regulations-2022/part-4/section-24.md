@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Offence in respect of contravention of regulation 21(4) or (6), 22(2) or (3) or 23(3) or (4)[^key-cfd583d535bed1195d5d158dd3fe22ab]
+## 24. Offence in respect of contravention of regulation 21(4) or (6), 22(2) or (3) or 23(3) or (4)[^c-cfd583d535bed1195d5d158dd3fe22ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfd583d535bed1195d5d158dd3fe22ab]: Commencement: Reg. 24 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-cfd583d535bed1195d5d158dd3fe22ab]: Commencement: Reg. 24 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

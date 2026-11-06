@@ -43,25 +43,25 @@ The Office of Communications (“OFCOM”) make the following Regulations in exe
 
 Before making these Regulations, OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act, and have considered the representations made to them before the time specified in the notice in accordance with section 122(4)(c) of the Act.
 
-## 1. Citation, commencement and extent[^key-2d26246dbf96f05cda39afd4d23750c4]
+## 1. Citation, commencement and extent[^c-2d26246dbf96f05cda39afd4d23750c4]
 
 (1) These Regulations may be cited as the Wireless Telegraphy (Register) Regulations 2012 and shall come into force on 13<sup>th </sup>September 2012.
 
 (2) These Regulations shall not extend to the Channels Islands or to the Isle of Man.
 
-## 2. Revocation[^key-412de5825c1bd3ad7a45c4a92a3c69d1]
+## 2. Revocation[^c-412de5825c1bd3ad7a45c4a92a3c69d1]
 
 The Regulations set out in Schedule 1 are hereby revoked.
 
-## 3. Public register of information[^key-4273505cbc8a402ef18d1268ffd48ede]
+## 3. Public register of information[^c-4273505cbc8a402ef18d1268ffd48ede]
 
 OFCOM shall establish and maintain a public register of relevant information to which these Regulations apply.
 
-## 4. Relevant information[^key-717a8c6ec730cdb639064da7c3564ae7]
+## 4. Relevant information[^c-717a8c6ec730cdb639064da7c3564ae7]
 
 (1) The description of relevant information prescribed for the purposes of section 31(2) of the Wireless Telegraphy Act 2006 is information which relates to the issue, renewal or variation of wireless telegraphy licences or grants of recognised spectrum access of a class specified in Column 1 of each Part of Schedule 2 which apply to a station or apparatus operating within any of the frequency bands specified in Column 2 of the same Part and which—
 
-- (a) in respect of a licence or grant of recognised spectrum access of a class specified in Column 1 of Parts 2 to 15[^key-93f9d6e3a13fb2a2c36a4cf6d493f4f5] of Schedule 2 relates to the matters set out in paragraph (2); and
+- (a) in respect of a licence or grant of recognised spectrum access of a class specified in Column 1 of Parts 2 to 15[^c-93f9d6e3a13fb2a2c36a4cf6d493f4f5] of Schedule 2 relates to the matters set out in paragraph (2); and
 - (b) in respect of a licence or grant of recognised spectrum access of a class specified in Column 1 of Part 1 of Schedule 2 relates to the matters set out in both paragraphs (2) and (3).
 
 (2) The matters referred to in regulation 4(1)(a) are—
@@ -88,7 +88,7 @@ For and on behalf of the Office of Communications
 
 SCHEDULES
 
-## SCHEDULE 1 — REVOCATIONS[^key-9e6023e2bd2b648937310be6e5d8da9b]
+## SCHEDULE 1 — REVOCATIONS[^c-9e6023e2bd2b648937310be6e5d8da9b]
 
 Regulation 2
 
@@ -109,16 +109,16 @@ Regulation 2
 
 Regulation 4
 
-### PART 1[^key-f557b47b25bd05bd8374a4a8eac434fc]
+### PART 1[^c-f557b47b25bd05bd8374a4a8eac434fc]
 
 | Column 1 | Column 2 |
 | --- | --- |
 | **Class** | **Frequency bands** |
-| Self Coordinated Links | [^key-84031ea17a8745d38cd7acaca3a29454]. . . |
+| Self Coordinated Links | [^c-84031ea17a8745d38cd7acaca3a29454]. . . |
 |  | 71.125–75.875 GHz |
 |  | 81.125–85.875 GHz |
 
-### PART 2[^key-110ba4cc5da80a532580629767fc0a3e]
+### PART 2[^c-110ba4cc5da80a532580629767fc0a3e]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -126,18 +126,18 @@ Regulation 4
 | Broadband Fixed Wireless Access | 412.0–414.0 MHz |
 | Spectrum Access | 422.0–424.0 MHz |
 |  | 542–550 MHz |
-|  | 703–733 MHz[^key-270d882eb8bdf17a9e3a1189e1e7f09b] |
-|  | 738–788 MHz[^key-e83263b5286f79e3fc03b597734db7aa] |
-|  | 791-821[^key-d667e5415323410a0477272537d60723] MHz |
+|  | 703–733 MHz[^c-270d882eb8bdf17a9e3a1189e1e7f09b] |
+|  | 738–788 MHz[^c-e83263b5286f79e3fc03b597734db7aa] |
+|  | 791-821[^c-d667e5415323410a0477272537d60723] MHz |
 |  | 832-862 MHz |
 |  | 1452–1492 MHz |
 |  | 1785–1805 MHz |
-|  | 2350-2390 MHz[^key-15210daaffb0b36b8e094ccf7142e802] |
-|  | 2500-2690[^key-67f831fef8aa5cf3705a72b6d0e8ae1b] MHz |
-|  | 3410–3800[^key-3ae43dbf81bc2075e9da2090970175d6] |
-|  | [^key-2ee016118169ec40c1956b837a8f80a4]. . . |
+|  | 2350-2390 MHz[^c-15210daaffb0b36b8e094ccf7142e802] |
+|  | 2500-2690[^c-67f831fef8aa5cf3705a72b6d0e8ae1b] MHz |
+|  | 3410–3800[^c-3ae43dbf81bc2075e9da2090970175d6] |
+|  | [^c-2ee016118169ec40c1956b837a8f80a4]. . . |
 |  | 3580–3600 MHz |
-|  | [^key-f6535c00a4ba29ab8b0e2ce999381857]. . . |
+|  | [^c-f6535c00a4ba29ab8b0e2ce999381857]. . . |
 |  | 3925–4009 MHz |
 |  | 10.125–10.225 GHz |
 |  | 10.475–10.575 GHz |
@@ -148,7 +148,7 @@ Regulation 4
 |  | 40.50–42.00 GHz |
 |  | 42.00–43.50 GHz |
 
-### PART 3[^key-2f08fe4d0222f20705e17bf279bc8371]
+### PART 3[^c-2f08fe4d0222f20705e17bf279bc8371]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -158,7 +158,7 @@ Regulation 4
 |  | 3600–4200 MHz |
 |  | 5925–6425 MHz |
 |  | 6425–7125 MHz |
-|  | 7425-8400 MHz[^key-6b96505065c0574218b8bb8b7fd78538] |
+|  | 7425-8400 MHz[^c-6b96505065c0574218b8bb8b7fd78538] |
 |  | 10.7–11.7 GHz |
 |  | 12.75–13.25 GHz |
 |  | 14.25–15.35 GHz |
@@ -172,14 +172,14 @@ Regulation 4
 |  | 51.4–52.6 GHz |
 |  | 55.78–57 GHz |
 
-### PART 4[^key-39b614da498e9ead5fcda95d06846b9f]
+### PART 4[^c-39b614da498e9ead5fcda95d06846b9f]
 
 | Column 1 | Column 2 |
 | --- | --- |
 | **Class** | **Frequency band** |
 | Scanning Telemetry | 457.5–464 MHz |
 
-### PART 5[^key-9dbea5433f34190eae378fcb32fa0be8]
+### PART 5[^c-9dbea5433f34190eae378fcb32fa0be8]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -187,7 +187,7 @@ Regulation 4
 | Concurrent Spectrum Access | 1781.7–1785.0 MHz |
 |  | 1876.7–1880.0 MHz |
 
-### PART 6[^key-e0b6b6286fa326a30df60f956e3b466a]
+### PART 6[^c-e0b6b6286fa326a30df60f956e3b466a]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -198,19 +198,19 @@ Regulation 4
 | Receive-Only Earth Stations (Fixed Satellite Service) | 406.1–412 MHz<br>414–422 MHz |
 | Receive-Only Earth Stations (Meteorological Satellite Service) | 424–425 MHz<br>429–430 MHz<br>606–614 MHz<br>1400–1427 MHz<br>1610.6–1613.8 MHz<br>1660–1670 MHz<br>1690–1710 MHz |
 |  | 2690–2700 MHz<br>3400–3480 MHz |
-|  | 3500–3580 MHz<br>3600–4200 MHz<br>7750–7900[^key-1b174efb8de66fc000ea259e94d02542] MHz<br>10.6–10.7 GHz<br>15.35–15.40 GHz |
+|  | 3500–3580 MHz<br>3600–4200 MHz<br>7750–7900[^c-1b174efb8de66fc000ea259e94d02542] MHz<br>10.6–10.7 GHz<br>15.35–15.40 GHz |
 |  | 22.01–22.50 GHz |
 |  | 22.81–22.86 GHz |
 |  | 23.07–23.12 GHz |
 |  | 23.6–24.0 GHz |
-|  | 25.5–26.5 GHz[^key-d2e8bea82187043404a3fe011aeec2da] |
+|  | 25.5–26.5 GHz[^c-d2e8bea82187043404a3fe011aeec2da] |
 |  | 31.3–31.8 GHz |
 |  | 42.5–43.5 GHz |
 |  | 48.94–49.04 GHz |
-| Receive-Only Earth Stations (Earth Exploration Satellite Service)[^key-48296d2cd3754b268b9a445d5ae25834] |  |
+| Receive-Only Earth Stations (Earth Exploration Satellite Service)[^c-48296d2cd3754b268b9a445d5ae25834] |  |
 | Receive-Only Earth Stations (Space Research Service) |  |
 
-### PART 7[^key-a35d3c91f1ce541c9dacdc5b16362844]
+### PART 7[^c-a35d3c91f1ce541c9dacdc5b16362844]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -221,7 +221,7 @@ Regulation 4
 | Business Radio (Area Defined) | 136–208 MHz |
 | Business Radio (Technically Assigned) | 425–470 MHz |
 
-### PART 8[^key-4ecdc5af9ff99b4eb4db38865ab8b0fe]
+### PART 8[^c-4ecdc5af9ff99b4eb4db38865ab8b0fe]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -233,7 +233,7 @@ Regulation 4
 |  | 1899.9–1980 MHz |
 |  | 2110–2170 MHz |
 
-### PART 9[^key-397ab4a7db71d08372c12d9eae4d573b]
+### PART 9[^c-397ab4a7db71d08372c12d9eae4d573b]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -241,7 +241,7 @@ Regulation 4
 | Coastal Station Radio (International) | 137.962–165.043 MHz |
 | Coastal Station Radio (International) Area Defined<br>Coastal Station Radio (Marina)<br>Coastal Station Radio (UK)<br>Coastal Station Radio (UK) Area Defined<br>Coastal Station Radio (Training School) |  |
 
-### PART 10[^key-9b0bf843f3e41ccea89a5fcb6dded994]
+### PART 10[^c-9b0bf843f3e41ccea89a5fcb6dded994]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -257,7 +257,7 @@ Regulation 4
 |  | 3155–3230 kHz |
 |  | 3500–3800 kHz |
 
-### PART 11[^key-ffd04da7fd670e5f61fe8bb58bd72c7b]
+### PART 11[^c-ffd04da7fd670e5f61fe8bb58bd72c7b]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -284,7 +284,7 @@ Regulation 4
 |  | 1525–1559 MHz |
 |  | 1626.5–1660.5 MHz |
 
-### PART 12[^key-30bc06e01555c14f007d26a28d1f8466]
+### PART 12[^c-30bc06e01555c14f007d26a28d1f8466]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -299,21 +299,21 @@ Regulation 4
 |  | 28.4545–28.8265 GHz |
 |  | 29.4625–30 GHz |
 
-### PART 13[^key-640a49c70815bf7125f3d6d5a7c3b160]
+### PART 13[^c-640a49c70815bf7125f3d6d5a7c3b160]
 
 | Column 1 | Column 2 |
 | --- | --- |
 | **Class** | **Frequency bands** |
 | Satellite (Complementary Ground Components of a Mobile Satellite System) | 1980–2010 MHz<br>2170 –2200 MHz |
 
-### PART 14[^key-f6360a38f67237a199c84a0620aab17a]
+### PART 14[^c-f6360a38f67237a199c84a0620aab17a]
 
 | Column 1 | Column 2 |
 | --- | --- |
 | **Class** | **Frequency bands** |
 | Global Navigation Satellite System (GNSS) Repeaters | 1164–1300 MHz<br>1559–1610 MHz |
 
-### PART 15[^key-3428cba43363a03aa2d0f660b201e970]
+### PART 15[^c-3428cba43363a03aa2d0f660b201e970]
 
 | **Column 1** | **Column 2** |
 | --- | --- |
@@ -334,70 +334,70 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00001]: Footnote: [2006 c.36](https://www.legislation.gov.uk/ukpga/2006/36)
 
-[^key-2d26246dbf96f05cda39afd4d23750c4]: Commencement: Reg. 1 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-2d26246dbf96f05cda39afd4d23750c4]: Commencement: Reg. 1 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-412de5825c1bd3ad7a45c4a92a3c69d1]: Commencement: Reg. 2 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-412de5825c1bd3ad7a45c4a92a3c69d1]: Commencement: Reg. 2 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-4273505cbc8a402ef18d1268ffd48ede]: Commencement: Reg. 3 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-4273505cbc8a402ef18d1268ffd48ede]: Commencement: Reg. 3 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-717a8c6ec730cdb639064da7c3564ae7]: Commencement: Reg. 4 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-717a8c6ec730cdb639064da7c3564ae7]: Commencement: Reg. 4 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-93f9d6e3a13fb2a2c36a4cf6d493f4f5]: Textual amendment: Word in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/4/1/a) substituted (2.6.2025) by [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/571/regulation/3/2)
+[^c-93f9d6e3a13fb2a2c36a4cf6d493f4f5]: Textual amendment: Word in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/4/1/a) substituted (2.6.2025) by [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/571/regulation/3/2)
 
-[^key-9e6023e2bd2b648937310be6e5d8da9b]: Commencement: Sch. 1 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-9e6023e2bd2b648937310be6e5d8da9b]: Commencement: Sch. 1 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-f557b47b25bd05bd8374a4a8eac434fc]: Commencement: Sch. 2 Pt. 1 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-f557b47b25bd05bd8374a4a8eac434fc]: Commencement: Sch. 2 Pt. 1 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-84031ea17a8745d38cd7acaca3a29454]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/1) omitted (2.6.2025) by virtue of [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/571/regulation/3/3/a)
+[^c-84031ea17a8745d38cd7acaca3a29454]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/1) omitted (2.6.2025) by virtue of [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/571/regulation/3/3/a)
 
-[^key-110ba4cc5da80a532580629767fc0a3e]: Commencement: Sch. 2 Pt. 2 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-110ba4cc5da80a532580629767fc0a3e]: Commencement: Sch. 2 Pt. 2 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-270d882eb8bdf17a9e3a1189e1e7f09b]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) substituted (10.6.2019) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2019 (S.I. 2019/952)](https://www.legislation.gov.uk/uksi/2019/952), [regs. 1](https://www.legislation.gov.uk/uksi/2019/952/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2019/952/regulation/2/a)
+[^c-270d882eb8bdf17a9e3a1189e1e7f09b]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) substituted (10.6.2019) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2019 (S.I. 2019/952)](https://www.legislation.gov.uk/uksi/2019/952), [regs. 1](https://www.legislation.gov.uk/uksi/2019/952/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2019/952/regulation/2/a)
 
-[^key-e83263b5286f79e3fc03b597734db7aa]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) substituted (10.6.2019) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2019 (S.I. 2019/952)](https://www.legislation.gov.uk/uksi/2019/952), [regs. 1](https://www.legislation.gov.uk/uksi/2019/952/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2019/952/regulation/2/b)
+[^c-e83263b5286f79e3fc03b597734db7aa]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) substituted (10.6.2019) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2019 (S.I. 2019/952)](https://www.legislation.gov.uk/uksi/2019/952), [regs. 1](https://www.legislation.gov.uk/uksi/2019/952/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2019/952/regulation/2/b)
 
-[^key-d667e5415323410a0477272537d60723]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) inserted (5.4.2013) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2013 (S.I. 2013/640)](https://www.legislation.gov.uk/uksi/2013/640), [regs. 1](https://www.legislation.gov.uk/uksi/2013/640/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2013/640/regulation/2/a)
+[^c-d667e5415323410a0477272537d60723]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) inserted (5.4.2013) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2013 (S.I. 2013/640)](https://www.legislation.gov.uk/uksi/2013/640), [regs. 1](https://www.legislation.gov.uk/uksi/2013/640/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2013/640/regulation/2/a)
 
-[^key-15210daaffb0b36b8e094ccf7142e802]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) inserted (1.2.2018) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2018 (S.I. 2018/90)](https://www.legislation.gov.uk/uksi/2018/90), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/90/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/90/regulation/2/a)
+[^c-15210daaffb0b36b8e094ccf7142e802]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) inserted (1.2.2018) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2018 (S.I. 2018/90)](https://www.legislation.gov.uk/uksi/2018/90), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/90/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/90/regulation/2/a)
 
-[^key-67f831fef8aa5cf3705a72b6d0e8ae1b]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) inserted (5.4.2013) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2013 (S.I. 2013/640)](https://www.legislation.gov.uk/uksi/2013/640), [regs. 1](https://www.legislation.gov.uk/uksi/2013/640/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2013/640/regulation/2/b)
+[^c-67f831fef8aa5cf3705a72b6d0e8ae1b]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) inserted (5.4.2013) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2013 (S.I. 2013/640)](https://www.legislation.gov.uk/uksi/2013/640), [regs. 1](https://www.legislation.gov.uk/uksi/2013/640/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2013/640/regulation/2/b)
 
-[^key-3ae43dbf81bc2075e9da2090970175d6]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) substituted (10.6.2019) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2019 (S.I. 2019/952)](https://www.legislation.gov.uk/uksi/2019/952), [regs. 1](https://www.legislation.gov.uk/uksi/2019/952/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2019/952/regulation/2/c)
+[^c-3ae43dbf81bc2075e9da2090970175d6]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) substituted (10.6.2019) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2019 (S.I. 2019/952)](https://www.legislation.gov.uk/uksi/2019/952), [regs. 1](https://www.legislation.gov.uk/uksi/2019/952/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2019/952/regulation/2/c)
 
-[^key-2ee016118169ec40c1956b837a8f80a4]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) deleted (1.2.2018) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2018 (S.I. 2018/90)](https://www.legislation.gov.uk/uksi/2018/90), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/90/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2018/90/regulation/2/c)
+[^c-2ee016118169ec40c1956b837a8f80a4]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) deleted (1.2.2018) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2018 (S.I. 2018/90)](https://www.legislation.gov.uk/uksi/2018/90), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/90/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2018/90/regulation/2/c)
 
-[^key-f6535c00a4ba29ab8b0e2ce999381857]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) repealed (10.6.2019) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2019 (S.I. 2019/952)](https://www.legislation.gov.uk/uksi/2019/952), [regs. 1](https://www.legislation.gov.uk/uksi/2019/952/regulation/1), [2(d)](https://www.legislation.gov.uk/uksi/2019/952/regulation/2/d)
+[^c-f6535c00a4ba29ab8b0e2ce999381857]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/2) repealed (10.6.2019) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2019 (S.I. 2019/952)](https://www.legislation.gov.uk/uksi/2019/952), [regs. 1](https://www.legislation.gov.uk/uksi/2019/952/regulation/1), [2(d)](https://www.legislation.gov.uk/uksi/2019/952/regulation/2/d)
 
-[^key-2f08fe4d0222f20705e17bf279bc8371]: Commencement: Sch. 2 Pt. 3 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-2f08fe4d0222f20705e17bf279bc8371]: Commencement: Sch. 2 Pt. 3 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-6b96505065c0574218b8bb8b7fd78538]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/3) substituted (2.6.2025) by [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2025/571/regulation/3/3/b)
+[^c-6b96505065c0574218b8bb8b7fd78538]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/3) substituted (2.6.2025) by [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2025/571/regulation/3/3/b)
 
-[^key-39b614da498e9ead5fcda95d06846b9f]: Commencement: Sch. 2 Pt. 4 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-39b614da498e9ead5fcda95d06846b9f]: Commencement: Sch. 2 Pt. 4 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-9dbea5433f34190eae378fcb32fa0be8]: Commencement: Sch. 2 Pt. 5 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-9dbea5433f34190eae378fcb32fa0be8]: Commencement: Sch. 2 Pt. 5 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-e0b6b6286fa326a30df60f956e3b466a]: Commencement: Sch. 2 Pt. 6 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-e0b6b6286fa326a30df60f956e3b466a]: Commencement: Sch. 2 Pt. 6 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-1b174efb8de66fc000ea259e94d02542]: Textual amendment: Words in [Sch. 2 Pt. 6](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/6) substituted (10.7.2015) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2015 (S.I. 2015/1400)](https://www.legislation.gov.uk/uksi/2015/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1400/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1400/regulation/2/2/a)
+[^c-1b174efb8de66fc000ea259e94d02542]: Textual amendment: Words in [Sch. 2 Pt. 6](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/6) substituted (10.7.2015) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2015 (S.I. 2015/1400)](https://www.legislation.gov.uk/uksi/2015/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1400/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1400/regulation/2/2/a)
 
-[^key-d2e8bea82187043404a3fe011aeec2da]: Textual amendment: Words in [Sch. 2 Pt. 6](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/6) inserted (10.7.2015) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2015 (S.I. 2015/1400)](https://www.legislation.gov.uk/uksi/2015/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1400/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1400/regulation/2/2/b)
+[^c-d2e8bea82187043404a3fe011aeec2da]: Textual amendment: Words in [Sch. 2 Pt. 6](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/6) inserted (10.7.2015) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2015 (S.I. 2015/1400)](https://www.legislation.gov.uk/uksi/2015/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1400/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1400/regulation/2/2/b)
 
-[^key-48296d2cd3754b268b9a445d5ae25834]: Textual amendment: Words in [Sch. 2 Pt. 6](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/6) inserted (10.7.2015) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2015 (S.I. 2015/1400)](https://www.legislation.gov.uk/uksi/2015/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1400/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/1400/regulation/2/1)
+[^c-48296d2cd3754b268b9a445d5ae25834]: Textual amendment: Words in [Sch. 2 Pt. 6](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/6) inserted (10.7.2015) by [The Wireless Telegraphy (Register) (Amendment) Regulations 2015 (S.I. 2015/1400)](https://www.legislation.gov.uk/uksi/2015/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1400/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/1400/regulation/2/1)
 
-[^key-a35d3c91f1ce541c9dacdc5b16362844]: Commencement: Sch. 2 Pt. 7 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-a35d3c91f1ce541c9dacdc5b16362844]: Commencement: Sch. 2 Pt. 7 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-4ecdc5af9ff99b4eb4db38865ab8b0fe]: Commencement: Sch. 2 Pt. 8 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-4ecdc5af9ff99b4eb4db38865ab8b0fe]: Commencement: Sch. 2 Pt. 8 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-397ab4a7db71d08372c12d9eae4d573b]: Commencement: Sch. 2 Pt. 9 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-397ab4a7db71d08372c12d9eae4d573b]: Commencement: Sch. 2 Pt. 9 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-9b0bf843f3e41ccea89a5fcb6dded994]: Commencement: Sch. 2 Pt. 10 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-9b0bf843f3e41ccea89a5fcb6dded994]: Commencement: Sch. 2 Pt. 10 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-ffd04da7fd670e5f61fe8bb58bd72c7b]: Commencement: Sch. 2 Pt. 11 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-ffd04da7fd670e5f61fe8bb58bd72c7b]: Commencement: Sch. 2 Pt. 11 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-30bc06e01555c14f007d26a28d1f8466]: Commencement: Sch. 2 Pt. 12 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-30bc06e01555c14f007d26a28d1f8466]: Commencement: Sch. 2 Pt. 12 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-640a49c70815bf7125f3d6d5a7c3b160]: Commencement: Sch. 2 Pt. 13 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-640a49c70815bf7125f3d6d5a7c3b160]: Commencement: Sch. 2 Pt. 13 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-f6360a38f67237a199c84a0620aab17a]: Commencement: Sch. 2 Pt. 14 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
+[^c-f6360a38f67237a199c84a0620aab17a]: Commencement: Sch. 2 Pt. 14 in force at 13.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1)
 
-[^key-3428cba43363a03aa2d0f660b201e970]: Textual amendment: [Sch. 2 Pt. 15](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/15) inserted (2.6.2025) by [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2025/571/regulation/3/3/c)
+[^c-3428cba43363a03aa2d0f660b201e970]: Textual amendment: [Sch. 2 Pt. 15](https://www.legislation.gov.uk/uksi/2012/2186/schedule/2/part/15) inserted (2.6.2025) by [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2025/571/regulation/3/3/c)

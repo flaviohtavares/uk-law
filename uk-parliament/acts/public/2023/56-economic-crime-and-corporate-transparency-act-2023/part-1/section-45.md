@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Registrar’s power to change a director’s service address[^key-c1da1a0aadfc35e539f69bc4a47c7a68][^key-6b4696b714d12e0da3a66d4178426f0b]
+## 45. Registrar’s power to change a director’s service address[^c-c1da1a0aadfc35e539f69bc4a47c7a68][^c-6b4696b714d12e0da3a66d4178426f0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ For section 246 of the Companies Act 2006 substitute—
 
 ## Annotations
 
-[^key-c1da1a0aadfc35e539f69bc4a47c7a68]: Commencement: S. 45 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-c1da1a0aadfc35e539f69bc4a47c7a68]: Commencement: S. 45 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-6b4696b714d12e0da3a66d4178426f0b]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2023/56/section/45) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z7)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z7)
+[^c-6b4696b714d12e0da3a66d4178426f0b]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2023/56/section/45) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z7)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z7)

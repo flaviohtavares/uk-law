@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Quota areas under the Potato Marketing Scheme.[^key-28c8e7c1a39f87db01b0075055be17ea]
+## 59. Quota areas under the Potato Marketing Scheme.[^c-28c8e7c1a39f87db01b0075055be17ea]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28c8e7c1a39f87db01b0075055be17ea]: Textual amendment: [S. 59](https://www.legislation.gov.uk/ukpga/1993/37/section/59) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-28c8e7c1a39f87db01b0075055be17ea]: Textual amendment: [S. 59](https://www.legislation.gov.uk/ukpga/1993/37/section/59) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Termination of banning orders[^key-a9e8a2bd5b3f3187196245271bbe2698]
+## 47. Termination of banning orders[^c-a9e8a2bd5b3f3187196245271bbe2698]
 
 *Extent: N.I.*
 
@@ -35,10 +35,10 @@ summary: ''
 
 (5) The court may order the applicant to pay all or any part of the costs of an application under this section.
 
-(6) In the case of a banning order made by a magistrates' court, the reference in subsection (1) to the court by which it was made includes a reference to any magistrates' court [^key-b8cc2a22c84ac73f00a1a5ff39c00187]....
+(6) In the case of a banning order made by a magistrates' court, the reference in subsection (1) to the court by which it was made includes a reference to any magistrates' court [^c-b8cc2a22c84ac73f00a1a5ff39c00187]....
 
 ## Annotations
 
-[^key-a9e8a2bd5b3f3187196245271bbe2698]: Commencement: S. 47 in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(d)](https://www.legislation.gov.uk/nisr/2011/370/article/3/d)
+[^c-a9e8a2bd5b3f3187196245271bbe2698]: Commencement: S. 47 in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(d)](https://www.legislation.gov.uk/nisr/2011/370/article/3/d)
 
-[^key-b8cc2a22c84ac73f00a1a5ff39c00187]: Textual amendment: Words in [s. 47(6)](https://www.legislation.gov.uk/nia/2011/24/section/47/6) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 142(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/142/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-b8cc2a22c84ac73f00a1a5ff39c00187]: Textual amendment: Words in [s. 47(6)](https://www.legislation.gov.uk/nia/2011/24/section/47/6) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 142(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/142/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

@@ -50,7 +50,7 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 113(1), 114(1) and (2), 115(1) and (2) and 195(1) and (2) of the Health and Social Care (Community Health and Standards) Act 2003[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement, interpretation and application[^key-59e8801089ef957a6979beacbbb252ed]
+## 1. Citation, commencement, interpretation and application[^c-59e8801089ef957a6979beacbbb252ed]
 
 (1) These Regulations may be cited as the Local Authority Social Services and National Health Service Complaints (England) (Amendment) Regulations 2009.
 
@@ -60,11 +60,11 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 
 (4) These Regulations apply in relation to England.
 
-## 2. Amendment of regulation 1 of the Complaints Regulations[^key-f5c30fce5f7c1628606a305db4fdcc11]
+## 2. Amendment of regulation 1 of the Complaints Regulations[^c-f5c30fce5f7c1628606a305db4fdcc11]
 
 In paragraphs (3) and (4) of regulation 1 of the Complaints Regulations (citation, commencement, effect and application), for “1st April 2010” substitute “1st October 2010”.
 
-## 3. Amendment of regulation 6 of the Complaints Regulations[^key-d076244d01bbb77f6bbe107e0f3b5947]
+## 3. Amendment of regulation 6 of the Complaints Regulations[^c-d076244d01bbb77f6bbe107e0f3b5947]
 
 In regulation 6 of the Complaints Regulations (duty to handle complaints), after paragraph (1), insert—
 
@@ -80,7 +80,7 @@ In regulation 6 of the Complaints Regulations (duty to handle complaints), after
 
 .
 
-## 4. Amendment of regulation 8 of the Complaints Regulations[^key-c1d093b8269b451216839954574ffd96]
+## 4. Amendment of regulation 8 of the Complaints Regulations[^c-c1d093b8269b451216839954574ffd96]
 
 (1) Regulation 8 of the Complaints Regulations (complaints not required to be dealt with) is amended in accordance with the following paragraphs.
 
@@ -122,12 +122,12 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [2003 c. 43](https://www.legislation.gov.uk/ukpga/2003/43).
 
-[^key-59e8801089ef957a6979beacbbb252ed]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1) in force at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2)
+[^c-59e8801089ef957a6979beacbbb252ed]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1) in force at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2)
 
 [^f00002]: Footnote: [S.I.2009/309](https://www.legislation.gov.uk/uksi/2009/309).
 
-[^key-f5c30fce5f7c1628606a305db4fdcc11]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1768/regulation/2) in force at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2)
+[^c-f5c30fce5f7c1628606a305db4fdcc11]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1768/regulation/2) in force at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2)
 
-[^key-d076244d01bbb77f6bbe107e0f3b5947]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1768/regulation/3) in force at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2)
+[^c-d076244d01bbb77f6bbe107e0f3b5947]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1768/regulation/3) in force at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2)
 
-[^key-c1d093b8269b451216839954574ffd96]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1768/regulation/4) in force at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2)
+[^c-c1d093b8269b451216839954574ffd96]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1768/regulation/4) in force at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2)

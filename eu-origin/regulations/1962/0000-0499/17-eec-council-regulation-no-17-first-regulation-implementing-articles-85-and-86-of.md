@@ -32,10 +32,10 @@ summary: ''
 
 EEC Council: Regulation No 17: First Regulation implementing Articles 85 and 86 of the Treaty (revoked)
 
-[^key-4c88722316a6eb1272642c849fe7da79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c88722316a6eb1272642c849fe7da79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-4c88722316a6eb1272642c849fe7da79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-4c88722316a6eb1272642c849fe7da79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4c88722316a6eb1272642c849fe7da79]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/1/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c88722316a6eb1272642c849fe7da79]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/1/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

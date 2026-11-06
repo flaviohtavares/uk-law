@@ -210,7 +210,7 @@ The Department may issue out of the Consolidated Fund and apply to the service o
 
 (2) The sum specified in Part 1 of a Schedule 2 estimate as a money requirement may be used by the person to whom the estimate relates for the purposes specified in Part 2 of the estimate.
 
-### 12. Power to borrow[^key-258481a3771e99d7e6d09f3a1aa4269c]
+### 12. Power to borrow[^c-258481a3771e99d7e6d09f3a1aa4269c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1689,7 +1689,7 @@ PUBLIC PROSECUTION SERVICE FOR NORTHERN IRELAND ESTIMATE
 
 [^M_I_66f8523d-2066-4f72-b084-dfdb8d3dcdf9]: Commencement: S. 11 coming into force at Royal Assent
 
-[^key-258481a3771e99d7e6d09f3a1aa4269c]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/2023/3/section/12) omitted (18.9.2023) by virtue of [Northern Ireland Budget (No. 2) Act 2023 (c. 43)](https://www.legislation.gov.uk/ukpga/2023/43), [s. 5(3)](https://www.legislation.gov.uk/ukpga/2023/43/section/5/3)
+[^c-258481a3771e99d7e6d09f3a1aa4269c]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/2023/3/section/12) omitted (18.9.2023) by virtue of [Northern Ireland Budget (No. 2) Act 2023 (c. 43)](https://www.legislation.gov.uk/ukpga/2023/43), [s. 5(3)](https://www.legislation.gov.uk/ukpga/2023/43/section/5/3)
 
 [^M_I_1af4c46c-ce49-4e41-ecdf-e01dfb521931]: Commencement: S. 13 coming into force at Royal Assent
 

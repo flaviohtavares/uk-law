@@ -29,7 +29,7 @@ summary: ''
 
 (3) The regulations may provide that if an asset formerly recognised by the finance lessor for accounting purposes as an intangible fixed asset becomes subject to a finance lease (and so comes to be accounted for as a financial asset), the value of the asset so created is recognised as realisation proceeds of the intangible fixed asset on the change of accounting treatment.
 
-(4) The regulations may provide that assets partially excluded from this Part by sections 810 to 813 [^key-abf0fd7d0f9b54eae26bbe3810d23643]... (assets excluded except as respects royalties) are entirely excluded from this Part as respects the finance lessor if they—
+(4) The regulations may provide that assets partially excluded from this Part by sections 810 to 813 [^c-abf0fd7d0f9b54eae26bbe3810d23643]... (assets excluded except as respects royalties) are entirely excluded from this Part as respects the finance lessor if they—
 
 - (a) are subject to a finance lease, and
 - (b) are accounted for by the finance lessor as financial assets.
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abf0fd7d0f9b54eae26bbe3810d23643]: Textual amendment: Words in s. 855(4) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 178](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/178)
+[^c-abf0fd7d0f9b54eae26bbe3810d23643]: Textual amendment: Words in s. 855(4) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 178](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/178)

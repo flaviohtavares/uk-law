@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Legal professional privilege[^key-070748054954096037bb6b6978f69ec4]
+## 91. Legal professional privilege[^c-070748054954096037bb6b6978f69ec4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in this Part requires any person to produce a document which that person
 
 ## Annotations
 
-[^key-070748054954096037bb6b6978f69ec4]: Commencement: Art. 91 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-070748054954096037bb6b6978f69ec4]: Commencement: Art. 91 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

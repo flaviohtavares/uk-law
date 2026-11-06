@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58A. Voluntary withdrawal of the approval of a scheme[^key-829c0196fcf874f96986cdac109a988d]
+## 58A. Voluntary withdrawal of the approval of a scheme[^c-829c0196fcf874f96986cdac109a988d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-829c0196fcf874f96986cdac109a988d]: Textual amendment: [Reg. 58A](https://www.legislation.gov.uk/uksi/2013/3113/regulation/58A) inserted (25.12.2015) by [The Waste Electrical and Electronic Equipment (Amendment) Regulations 2015 (S.I. 2015/1968)](https://www.legislation.gov.uk/uksi/2015/1968), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1968/regulation/1), [2(28)](https://www.legislation.gov.uk/uksi/2015/1968/regulation/2/28)
+[^c-829c0196fcf874f96986cdac109a988d]: Textual amendment: [Reg. 58A](https://www.legislation.gov.uk/uksi/2013/3113/regulation/58A) inserted (25.12.2015) by [The Waste Electrical and Electronic Equipment (Amendment) Regulations 2015 (S.I. 2015/1968)](https://www.legislation.gov.uk/uksi/2015/1968), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1968/regulation/1), [2(28)](https://www.legislation.gov.uk/uksi/2015/1968/regulation/2/28)

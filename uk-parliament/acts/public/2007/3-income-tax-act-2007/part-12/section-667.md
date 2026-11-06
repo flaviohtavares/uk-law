@@ -24,8 +24,8 @@ summary: ''
 
 (2) Subsection (3) applies if the trustees of a settlement—
 
-- (a) are non-UK resident [^key-c79ecddde18c2337bcfed890e5c3be0f]... throughout a tax year in which an interest period or part of an interest period falls, and
-- (b) would have been treated as making an amount or an additional amount of qualifying accrued income profits in the interest period if the trustees had been UK resident [^key-150db18e2cc3731b4d8ceb0ac8ce6c8e]... during a part of each such tax year.
+- (a) are non-UK resident [^c-c79ecddde18c2337bcfed890e5c3be0f]... throughout a tax year in which an interest period or part of an interest period falls, and
+- (b) would have been treated as making an amount or an additional amount of qualifying accrued income profits in the interest period if the trustees had been UK resident [^c-150db18e2cc3731b4d8ceb0ac8ce6c8e]... during a part of each such tax year.
 
 (3) The amount or additional amount of qualifying accrued income profits that the trustees would have been treated as making is to be taken to be income arising under the settlement for the purposes of Chapter 5 of Part 5 of ITTOIA 2005.
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c79ecddde18c2337bcfed890e5c3be0f]: Textual amendment: Words in [s. 667(2)(a)](https://www.legislation.gov.uk/ukpga/2007/3/section/667/2/a) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 23(2)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/23/2/a)
+[^c-c79ecddde18c2337bcfed890e5c3be0f]: Textual amendment: Words in [s. 667(2)(a)](https://www.legislation.gov.uk/ukpga/2007/3/section/667/2/a) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 23(2)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/23/2/a)
 
-[^key-150db18e2cc3731b4d8ceb0ac8ce6c8e]: Textual amendment: Words in [s. 667(2)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/667/2/b) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 23(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/23/2/b)
+[^c-150db18e2cc3731b4d8ceb0ac8ce6c8e]: Textual amendment: Words in [s. 667(2)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/667/2/b) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 23(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/23/2/b)

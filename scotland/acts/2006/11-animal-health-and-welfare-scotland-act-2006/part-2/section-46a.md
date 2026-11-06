@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46A. Fixed penalty notices for certain offences[^key-1243ec7a56ca440773dae67a9dc0c6f2]
+## 46A. Fixed penalty notices for certain offences[^c-1243ec7a56ca440773dae67a9dc0c6f2]
 
 *Extent: S*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1243ec7a56ca440773dae67a9dc0c6f2]: Textual amendment: S. 46A inserted (30.11.2020) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 2](https://www.legislation.gov.uk/asp/2020/14/section/2), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule)
+[^c-1243ec7a56ca440773dae67a9dc0c6f2]: Textual amendment: S. 46A inserted (30.11.2020) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 2](https://www.legislation.gov.uk/asp/2020/14/section/2), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule)

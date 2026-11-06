@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 288. The Schedule[^key-2e533940b31f3389e845036c54aab502]
+## 288. The Schedule[^c-2e533940b31f3389e845036c54aab502]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Schedule, which applies relevant schedules to the 1991 Rules, has effect.
 
 ## Annotations
 
-[^key-2e533940b31f3389e845036c54aab502]: Commencement: Rule 288 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-2e533940b31f3389e845036c54aab502]: Commencement: Rule 288 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

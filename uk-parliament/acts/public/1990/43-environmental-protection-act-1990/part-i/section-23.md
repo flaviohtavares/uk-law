@@ -39,7 +39,7 @@ summary: ''
 
 (2) A person guilty of an offence under paragraph (a), (c) or (l) of subsection (1) above shall be liable:
 
-- (a) on summary conviction, to a fine[^key-ce6ee61a8052fc64ee093d271e1127ca] or to imprisonment for a term not exceeding three months, or to both[^c13733401];
+- (a) on summary conviction, to a fine[^c-ce6ee61a8052fc64ee093d271e1127ca] or to imprisonment for a term not exceeding three months, or to both[^c13733401];
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years, or to both.
 
 (3) A person guilty of an offence under paragraph (b), (g), (h), (i) or (j) of subsection (1) above shall be liable—
@@ -92,7 +92,7 @@ summary: ''
 
 [^c13733361]: Textual amendment: S. 23(1)(d)-(f)(k) repealed (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1/3), [Sch. 22 para. 59(2)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/59/2), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-ce6ee61a8052fc64ee093d271e1127ca]: Textual amendment: Words in s. 23(2)(a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 22(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/22/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-ce6ee61a8052fc64ee093d271e1127ca]: Textual amendment: Words in s. 23(2)(a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 22(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/22/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c13733401]: Textual amendment: Words in s. 23(2)(a) inserted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 59(3)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/59/3) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 

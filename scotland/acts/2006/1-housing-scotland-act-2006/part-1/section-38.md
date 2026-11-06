@@ -41,9 +41,9 @@ summary: ''
 
 (9) Refusal by the sheriff to grant any warrant sought under this section does not affect the validity of the work notice, demolition notice or repairing standard enforcement order in relation to which the warrant was sought.
 
-(10) Nothing in an enactment mentioned in subsection (11)[^key-8f5b76c438579dc3625f118071dd9fbc] restricts the power of a local authority to apply for, or the power of the sheriff to grant, a warrant under subsection (4).
+(10) Nothing in an enactment mentioned in subsection (11)[^c-8f5b76c438579dc3625f118071dd9fbc] restricts the power of a local authority to apply for, or the power of the sheriff to grant, a warrant under subsection (4).
 
-(11)[^key-50a6f69cc09f74ef13bde2901710f8e4] The enactments referred to in subsection (10) are—
+(11)[^c-50a6f69cc09f74ef13bde2901710f8e4] The enactments referred to in subsection (10) are—
 
 - (a) the Rent (Scotland) Act 1984,
 - (b) Part 2 of the Housing (Scotland) Act 1988,
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f5b76c438579dc3625f118071dd9fbc]: Textual amendment: Words in [s. 38(10)](https://www.legislation.gov.uk/asp/2006/1/section/38/10) substituted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 9(2)(a)](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/9/2/a); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-8f5b76c438579dc3625f118071dd9fbc]: Textual amendment: Words in [s. 38(10)](https://www.legislation.gov.uk/asp/2006/1/section/38/10) substituted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 9(2)(a)](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/9/2/a); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-50a6f69cc09f74ef13bde2901710f8e4]: Textual amendment: [S. 38(11)](https://www.legislation.gov.uk/asp/2006/1/section/38/11) inserted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 9(2)(b)](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/9/2/b); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-50a6f69cc09f74ef13bde2901710f8e4]: Textual amendment: [S. 38(11)](https://www.legislation.gov.uk/asp/2006/1/section/38/11) inserted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 9(2)(b)](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/9/2/b); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

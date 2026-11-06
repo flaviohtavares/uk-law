@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Financial provision[^key-8a5b65facc6003763b1fce90cb7fe40e]
+## 203. Financial provision[^c-8a5b65facc6003763b1fce90cb7fe40e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ There is to be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-8a5b65facc6003763b1fce90cb7fe40e]: Commencement: S. 203 in force at Royal Assent, see [s. 208(4)(ac)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/ac)
+[^c-8a5b65facc6003763b1fce90cb7fe40e]: Commencement: S. 203 in force at Royal Assent, see [s. 208(4)(ac)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/ac)

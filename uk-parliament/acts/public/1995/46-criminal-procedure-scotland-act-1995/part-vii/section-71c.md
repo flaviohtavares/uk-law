@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71C. Written record of state of preparation: sheriff court[^key-8877f40f29753f4f25dbdc8c6c1e90a9]
+## 71C. Written record of state of preparation: sheriff court[^c-8877f40f29753f4f25dbdc8c6c1e90a9]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ as may be prescribed by act of adjournal.
 
 ## Annotations
 
-[^key-8877f40f29753f4f25dbdc8c6c1e90a9]: Textual amendment: S. 71C inserted (29.5.2017 for specified purposes) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 80(3)](https://www.legislation.gov.uk/asp/2016/1/section/80/3), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 3(1)](https://www.legislation.gov.uk/ssi/2017/99/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2017/99/article/3/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2017/99/article/6))
+[^c-8877f40f29753f4f25dbdc8c6c1e90a9]: Textual amendment: S. 71C inserted (29.5.2017 for specified purposes) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 80(3)](https://www.legislation.gov.uk/asp/2016/1/section/80/3), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 3(1)](https://www.legislation.gov.uk/ssi/2017/99/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2017/99/article/3/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2017/99/article/6))

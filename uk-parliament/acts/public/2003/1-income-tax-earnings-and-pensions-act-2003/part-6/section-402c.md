@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 402C. The termination awards to which section 402B applies[^key-3ada096baf0ee1fd1de90ac63d178ab2]
+## 402C. The termination awards to which section 402B applies[^c-3ada096baf0ee1fd1de90ac63d178ab2]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ada096baf0ee1fd1de90ac63d178ab2]: Textual amendment: Ss. 402A-402E inserted (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/3)
+[^c-3ada096baf0ee1fd1de90ac63d178ab2]: Textual amendment: Ss. 402A-402E inserted (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/3)

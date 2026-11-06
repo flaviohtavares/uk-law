@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Modification or removal of conditions[^key-00f4e09dc3d744debe0cc83a3b1c4d9e]
+## 18. Modification or removal of conditions[^c-00f4e09dc3d744debe0cc83a3b1c4d9e]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00f4e09dc3d744debe0cc83a3b1c4d9e]: Commencement: S. 18 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-00f4e09dc3d744debe0cc83a3b1c4d9e]: Commencement: S. 18 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))

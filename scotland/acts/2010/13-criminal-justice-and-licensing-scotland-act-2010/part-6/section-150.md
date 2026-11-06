@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 150. Special counsel[^key-8863d2a4d42f5929845d6b64d7afabb6]
+## 150. Special counsel[^c-8863d2a4d42f5929845d6b64d7afabb6]
 
 *Extent: S*
 
@@ -55,7 +55,7 @@ summary: ''
 
 (10) In this section and section 152—
 
-- “[^key-55529986fb0bf605716da439aa24743f] **accused** ” includes—
+- “[^c-55529986fb0bf605716da439aa24743f] **accused** ” includes—
   - (a) appellant or, where the order relates to section 136(2), 137(2) or 138(2), other person to whom the section concerned applies, and
   - (b) respondent,
 - “**appellant**” has the meaning given by section 132,
@@ -63,7 +63,7 @@ summary: ''
   - (a) an application for a non-notification order,
   - (b) an application for review of the grant or refusal of a non-notification order,
   - (c) an appeal relating to such an order,
-- “[^key-601c0b19e5e1dae8728dfba0b3119600] **respondent** ” has the meaning given by section 140A,
+- “[^c-601c0b19e5e1dae8728dfba0b3119600] **respondent** ” has the meaning given by section 140A,
 - “**restricted notification case**” means a case where the court is determining—
   - (a) an application for a restricted notification order,
   - (b) an application for review of the grant or refusal of a restricted notification order,
@@ -71,8 +71,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8863d2a4d42f5929845d6b64d7afabb6]: Commencement: S. 150 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-8863d2a4d42f5929845d6b64d7afabb6]: Commencement: S. 150 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-55529986fb0bf605716da439aa24743f]: Textual amendment: Words in s. 150(10) substituted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 25(a)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/25/a); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-55529986fb0bf605716da439aa24743f]: Textual amendment: Words in s. 150(10) substituted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 25(a)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/25/a); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-601c0b19e5e1dae8728dfba0b3119600]: Textual amendment: Words in s. 150(10) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 25(b)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/25/b); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-601c0b19e5e1dae8728dfba0b3119600]: Textual amendment: Words in s. 150(10) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 25(b)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/25/b); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)

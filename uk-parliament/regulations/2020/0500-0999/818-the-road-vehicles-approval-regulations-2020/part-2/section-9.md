@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Withdrawal of approvals: mistake or error[^key-f15546e690c1f60232538e3ad093536c]
+## 9. Withdrawal of approvals: mistake or error[^c-f15546e690c1f60232538e3ad093536c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f15546e690c1f60232538e3ad093536c]: Commencement: Reg. 9 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-f15546e690c1f60232538e3ad093536c]: Commencement: Reg. 9 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)

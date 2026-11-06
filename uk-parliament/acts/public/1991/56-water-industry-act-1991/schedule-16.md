@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 16 — PROCEDURE ON APPEALS UNDER SECTION 207A[^key-db6a5be95833767248ed1b6338a69734]
+## SCHEDULE 16 — PROCEDURE ON APPEALS UNDER SECTION 207A[^c-db6a5be95833767248ed1b6338a69734]
 
 *Extent: E+W+S+N.I.*
 
@@ -120,4 +120,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db6a5be95833767248ed1b6338a69734]: Textual amendment: Sch. 16 inserted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2014/21/schedule/6); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(l)](https://www.legislation.gov.uk/uksi/2016/465/article/2/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-db6a5be95833767248ed1b6338a69734]: Textual amendment: Sch. 16 inserted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2014/21/schedule/6); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(l)](https://www.legislation.gov.uk/uksi/2016/465/article/2/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)

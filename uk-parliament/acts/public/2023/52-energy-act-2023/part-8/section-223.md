@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223. Heat networks: licensing authority in Scotland[^key-6be4ac99a73ca41efe3e6e39902f67aa]
+## 223. Heat networks: licensing authority in Scotland[^c-6be4ac99a73ca41efe3e6e39902f67aa]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6be4ac99a73ca41efe3e6e39902f67aa]: Commencement: S. 223 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-6be4ac99a73ca41efe3e6e39902f67aa]: Commencement: S. 223 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

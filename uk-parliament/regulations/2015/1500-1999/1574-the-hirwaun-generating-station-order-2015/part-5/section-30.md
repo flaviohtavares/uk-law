@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Plots 1\_ER-6\_ER and plots 1\_GR-11a\_GR[^key-4f875117163f1fc3085606877c5ebcd0]
+## 30. Plots 1\_ER-6\_ER and plots 1\_GR-11a\_GR[^c-4f875117163f1fc3085606877c5ebcd0]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f875117163f1fc3085606877c5ebcd0]: Commencement: Art. 30 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-4f875117163f1fc3085606877c5ebcd0]: Commencement: Art. 30 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
 [^f00024]: Footnote: [S.I. 1995/418](https://www.legislation.gov.uk/uksi/1995/418).

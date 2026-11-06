@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**11.**[^key-85800c0619588b53fff5028bae233033] In regulation 8(1) for “UK” substitute “NI”.
+**11.**[^c-85800c0619588b53fff5028bae233033] In regulation 8(1) for “UK” substitute “NI”.
 
 ## Annotations
 
-[^key-85800c0619588b53fff5028bae233033]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-85800c0619588b53fff5028bae233033]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

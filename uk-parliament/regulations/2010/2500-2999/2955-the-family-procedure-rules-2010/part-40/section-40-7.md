@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40.7. Effect of interim charging order in relation to securities[^key-3dbb655a015a8798d9ff7ba0628b5784]
+## 40.7. Effect of interim charging order in relation to securities[^c-3dbb655a015a8798d9ff7ba0628b5784]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3dbb655a015a8798d9ff7ba0628b5784]: Textual amendment: [Pt. 40](https://www.legislation.gov.uk/uksi/2010/2955/part/40) inserted (6.4.2016) by [The Family Procedure (Amendment) Rules 2016 (S.I. 2016/355)](https://www.legislation.gov.uk/uksi/2016/355), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/355/rule/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2016/355/rule/8/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/355/schedule/2) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/355/rule/9))
+[^c-3dbb655a015a8798d9ff7ba0628b5784]: Textual amendment: [Pt. 40](https://www.legislation.gov.uk/uksi/2010/2955/part/40) inserted (6.4.2016) by [The Family Procedure (Amendment) Rules 2016 (S.I. 2016/355)](https://www.legislation.gov.uk/uksi/2016/355), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/355/rule/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2016/355/rule/8/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/355/schedule/2) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/355/rule/9))

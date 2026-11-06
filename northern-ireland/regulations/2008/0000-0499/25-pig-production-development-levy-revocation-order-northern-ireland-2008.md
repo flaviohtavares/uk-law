@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-Pig Production Development (Levy) Revocation Order (Northern Ireland) 2008 (revoked)[^key-b6ce8c7e320dd36e12510865b634251e]
+Pig Production Development (Levy) Revocation Order (Northern Ireland) 2008 (revoked)[^c-b6ce8c7e320dd36e12510865b634251e]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 1st April 2008
 
-[^key-b6ce8c7e320dd36e12510865b634251e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6ce8c7e320dd36e12510865b634251e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b6ce8c7e320dd36e12510865b634251e]
+## 1. Citation and commencement[^c-b6ce8c7e320dd36e12510865b634251e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-b6ce8c7e320dd36e12510865b634251e]
+## 2. Revocation[^c-b6ce8c7e320dd36e12510865b634251e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b6ce8c7e320dd36e12510865b634251e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6ce8c7e320dd36e12510865b634251e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b6ce8c7e320dd36e12510865b634251e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6ce8c7e320dd36e12510865b634251e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b6ce8c7e320dd36e12510865b634251e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/25) revoked (1.4.2008) by [Pig Production Development (Levy) Revocation (No 2) Order (Northern Ireland) 2008 (S.R. 2008/83)](https://www.legislation.gov.uk/nisr/2008/83), [arts. 1](https://www.legislation.gov.uk/nisr/2008/83/article/1), [2(b)](https://www.legislation.gov.uk/nisr/2008/83/article/2/b)
+[^c-b6ce8c7e320dd36e12510865b634251e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/25) revoked (1.4.2008) by [Pig Production Development (Levy) Revocation (No 2) Order (Northern Ireland) 2008 (S.R. 2008/83)](https://www.legislation.gov.uk/nisr/2008/83), [arts. 1](https://www.legislation.gov.uk/nisr/2008/83/article/1), [2(b)](https://www.legislation.gov.uk/nisr/2008/83/article/2/b)

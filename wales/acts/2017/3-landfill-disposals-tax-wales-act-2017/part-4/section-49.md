@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Power to issue charging notice after issuing preliminary notice[^key-bccdf66f89635b6d8a14d2d5a583534d]
+## 49. Power to issue charging notice after issuing preliminary notice[^c-bccdf66f89635b6d8a14d2d5a583534d]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bccdf66f89635b6d8a14d2d5a583534d]: Commencement: [S. 49](https://www.legislation.gov.uk/anaw/2017/3/section/49) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-bccdf66f89635b6d8a14d2d5a583534d]: Commencement: [S. 49](https://www.legislation.gov.uk/anaw/2017/3/section/49) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Application of this Part to partnerships[^key-3458c41bae9b3ea0b8fa5f8213b45c7e][^key-18adafa9903c44173a2da09c4ea19c7e]
+## 145. Application of this Part to partnerships[^c-3458c41bae9b3ea0b8fa5f8213b45c7e][^c-18adafa9903c44173a2da09c4ea19c7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ the partner, as well as the partnership, is guilty of the offence and liable to 
 
 ## Annotations
 
-[^key-3458c41bae9b3ea0b8fa5f8213b45c7e]: Commencement: S. 145 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-3458c41bae9b3ea0b8fa5f8213b45c7e]: Commencement: S. 145 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-18adafa9903c44173a2da09c4ea19c7e]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2025/36/section/145) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(45)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/45)
+[^c-18adafa9903c44173a2da09c4ea19c7e]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2025/36/section/145) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(45)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/45)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Discharge of water[^key-65bf4bef539291c6bc106c4ab550ed4d]
+## 14. Discharge of water[^c-65bf4bef539291c6bc106c4ab550ed4d]
 
 *Extent: E+W+S*
 
@@ -44,11 +44,11 @@ summary: ''
 - (a) “**public sewer or drain**” means a sewer or drain which belongs to the Environment Agency, an internal drainage board, a joint planning board, a local authority, a sewerage undertaker or an urban development corporation; and
 - (b) other expressions, excluding watercourse, used both in this article and in the Water Resources Act 1991[^f00039] have the same meaning as in that Act.
 
-(10) If a person who receives an application for consent or approval fails to notify the undertaker of a decision within 28 days of receiving an application for consent under paragraph (3) or approval under sub-paragraph (4)(a)[^key-8ae3541195e826f5d5bdf73a2faa9e84] that person is deemed to have granted consent or given approval, as the case may be.
+(10) If a person who receives an application for consent or approval fails to notify the undertaker of a decision within 28 days of receiving an application for consent under paragraph (3) or approval under sub-paragraph (4)(a)[^c-8ae3541195e826f5d5bdf73a2faa9e84] that person is deemed to have granted consent or given approval, as the case may be.
 
 ## Annotations
 
-[^key-65bf4bef539291c6bc106c4ab550ed4d]: Commencement: Art. 14 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-65bf4bef539291c6bc106c4ab550ed4d]: Commencement: Art. 14 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
 [^f00037]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by section 35(8)(a) of the Competition and Service (Utilities) Act [1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43) and sections 36(2) and 99 of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37). There are other amendments to this section which are not relevant to this Order.
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^f00039]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-8ae3541195e826f5d5bdf73a2faa9e84]: Textual amendment: Words in [art. 14(10)](https://www.legislation.gov.uk/uksi/2025/85/article/14/10) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)
+[^c-8ae3541195e826f5d5bdf73a2faa9e84]: Textual amendment: Words in [art. 14(10)](https://www.legislation.gov.uk/uksi/2025/85/article/14/10) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)

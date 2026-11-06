@@ -31,10 +31,10 @@ summary: ''
 
 of 23 July 1999 on the conclusion of two cooperation agreements between the European Atomic Energy Community and the Cabinet of Ministers of Ukraine in the field of nuclear safety and in the field of controlled nuclear fusion (notified under document number C(1999) 2405) (revoked)
 
-[^key-5dea8ba8cac715f416309a5ef4993a5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5dea8ba8cac715f416309a5ef4993a5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-5dea8ba8cac715f416309a5ef4993a5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-5dea8ba8cac715f416309a5ef4993a5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5dea8ba8cac715f416309a5ef4993a5a]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-5dea8ba8cac715f416309a5ef4993a5a]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

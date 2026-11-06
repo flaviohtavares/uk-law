@@ -48,7 +48,7 @@ For the purposes of paragraph (3) of Article 11 of the Framework Regulation, the
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and extent[^key-ebe93d1cf14beeef867e25b745578bc9]
+### 1. Citation, commencement and extent[^c-ebe93d1cf14beeef867e25b745578bc9]
 
 (1) These Regulations may be cited as the Ecodesign for Energy-Related Products and Energy Information (Lighting Products) Regulations 2021.
 
@@ -62,7 +62,7 @@ For the purposes of paragraph (3) of Article 11 of the Framework Regulation, the
 
 ### CHAPTER 1 — GENERAL
 
-#### 2. Interpretation[^key-93b21f97923d76e699bb06dd5e74700a]
+#### 2. Interpretation[^c-93b21f97923d76e699bb06dd5e74700a]
 
 *Meaning of “light source”*
 
@@ -206,7 +206,7 @@ which has the optical characteristics specified in paragraph (2) and meets the c
 
 ### CHAPTER 2 — ECODESIGN FOR LIGHT SOURCES AND SEPARATE CONTROL GEARS
 
-#### 3. Application[^key-2156c5eb32bd2f61c7d1603e5a493863]
+#### 3. Application[^c-2156c5eb32bd2f61c7d1603e5a493863]
 
 (1) Subject to paragraph (2) and regulation 5, this Chapter applies to—
 
@@ -223,17 +223,17 @@ placed on the market or put into service on or after 1st October 2021, including
   - (ii) [Commission Regulation (EC) No 245/2009](https://www.legislation.gov.uk/european/regulation/2009/0245); or
   - (iii) [Commission Regulation (EC) No 1194/2012](https://www.legislation.gov.uk/european/regulation/2012/1194).
 
-#### 4. Ecodesign requirements[^key-851ad1292efa9eb23704e745e4eccc44]
+#### 4. Ecodesign requirements[^c-851ad1292efa9eb23704e745e4eccc44]
 
 (1) A light source or separate control gear must conform to the ecodesign requirements set out in Schedule 3 when it is placed on the market or put into service.
 
 (2) Manufacturers, authorised representatives and importers of light sources or separate control gears must comply with paragraphs 4 to 8 and 10 of Schedule 3 (information requirements).
 
-#### 5. Exemptions[^key-e8c600df25133a4e0256a205d3e78caa]
+#### 5. Exemptions[^c-e8c600df25133a4e0256a205d3e78caa]
 
 Schedule 4 specifies exemptions from the requirements of this Chapter.
 
-#### 6. Removal of light sources and separate control gears[^key-777680f4c0c2e0ce831025dd6f1ab4e1]
+#### 6. Removal of light sources and separate control gears[^c-777680f4c0c2e0ce831025dd6f1ab4e1]
 
 (1) Manufacturers, authorised representatives and importers of containing products must ensure that light sources and separate control gears can be replaced with the use of commonly available tools and without permanent damage to the containing product.
 
@@ -262,7 +262,7 @@ without permanent damage to the containing product.
 
 (7) For purposes of paragraph (4), “professional repairer” means a person who provides services of repair and professional maintenance of light sources and separate control gears.
 
-#### 7. Conformity assessment[^key-889a692c3777b16e43003e3a51b896e5]
+#### 7. Conformity assessment[^c-889a692c3777b16e43003e3a51b896e5]
 
 (1) For the purposes of the assessment procedure referred to in Schedule 1A to the 2010 Regulations[^f00014], a manufacturer assessing whether a product model conforms with these Regulations must use either—
 
@@ -275,11 +275,11 @@ without permanent damage to the containing product.
 - (b) the information specified in paragraph 9 of Schedule 3; and
 - (c) the details and results of any measurements or calculations carried out in accordance with regulation 9.
 
-#### 8. Verification procedure for market surveillance purposes[^key-ce065b2fb4d53dd500907c8c5c902bf9]
+#### 8. Verification procedure for market surveillance purposes[^c-ce065b2fb4d53dd500907c8c5c902bf9]
 
 The market surveillance authority[^f00015] must use the verification procedure set out in Schedules 2 and 5 when verifying the conformity of a product model with the requirements of these Regulations.
 
-#### 9. Measurements and calculations[^key-c1772cbe5882e12426fcd40ef5544501]
+#### 9. Measurements and calculations[^c-c1772cbe5882e12426fcd40ef5544501]
 
 (1) The measurements and calculations required by this Chapter, or necessary for demonstrating or measuring conformity with this Chapter, must be made in accordance with designated standards[^f00016], where available.
 
@@ -288,7 +288,7 @@ The market surveillance authority[^f00015] must use the verification procedure s
 - (a) can be demonstrated to be reliable, accurate, and reproducible by the person deploying them; and
 - (b) take into account the generally recognised state of the art.
 
-#### 10. Circumvention and software updates[^key-cee98b93d9db0b8f44fd7e705c5b6ffa]
+#### 10. Circumvention and software updates[^c-cee98b93d9db0b8f44fd7e705c5b6ffa]
 
 (1) The manufacturer, authorised representative and importer must not place on the market products designed to be able to detect they are being tested (for example by recognising the test conditions or test cycle) and to react specifically by automatically altering their performance during the test with the aim of reaching a more favourable level for any of the parameters in the technical documentation or included in any documentation provided.
 
@@ -300,7 +300,7 @@ The market surveillance authority[^f00015] must use the verification procedure s
 
 ### CHAPTER 3 — ENERGY LABELLING OF LIGHT SOURCES
 
-#### 11. Application[^key-913964fae6eb91e5b71dccf031baa2a4]
+#### 11. Application[^c-913964fae6eb91e5b71dccf031baa2a4]
 
 (1) Subject to paragraphs (2) and (3), this Chapter applies to light sources placed on the market, with or without integrated control gears, and includes light sources placed on the market in a containing product.
 
@@ -311,9 +311,9 @@ The market surveillance authority[^f00015] must use the verification procedure s
 
 (3) Schedule 6 specifies exemptions from the requirements of this Chapter.
 
-#### 12. Obligations of suppliers[^key-49203ced9c98f9cb476e60ab86df7b53][^key-1dcdd2c07b811248aa2ef20d599f0a67]
+#### 12. Obligations of suppliers[^c-49203ced9c98f9cb476e60ab86df7b53][^c-1dcdd2c07b811248aa2ef20d599f0a67]
 
-(1)[^key-49203ced9c98f9cb476e60ab86df7b53] Suppliers[^f00018] must ensure that—
+(1)[^c-49203ced9c98f9cb476e60ab86df7b53] Suppliers[^f00018] must ensure that—
 
 - (a) each light source which is placed on the market as an independent product and in packaging is supplied with a label, printed on the packaging, in the format as set out in Schedule 7;
 - (b) the product information sheet, as set out in Schedule 8, is made available on a publicly accessible website, free of charge and on a page of the website that does not contain any other information;
@@ -336,15 +336,15 @@ The market surveillance authority[^f00015] must use the verification procedure s
 
 (2) Suppliers of containing products must—
 
-- (a)[^key-1dcdd2c07b811248aa2ef20d599f0a67] provide information on the contained light source, in accordance with paragraph 3 of Schedule 8;
-- (b)[^key-1dcdd2c07b811248aa2ef20d599f0a67] ensure that the technical documentation clearly identifies the contained light source, including the energy efficiency class;
-- (c)[^key-49203ced9c98f9cb476e60ab86df7b53] upon request by the market surveillance authority, provide information on how the light source can be removed for verification without permanent damage to the light source.
+- (a)[^c-1dcdd2c07b811248aa2ef20d599f0a67] provide information on the contained light source, in accordance with paragraph 3 of Schedule 8;
+- (b)[^c-1dcdd2c07b811248aa2ef20d599f0a67] ensure that the technical documentation clearly identifies the contained light source, including the energy efficiency class;
+- (c)[^c-49203ced9c98f9cb476e60ab86df7b53] upon request by the market surveillance authority, provide information on how the light source can be removed for verification without permanent damage to the light source.
 
-(3)[^key-49203ced9c98f9cb476e60ab86df7b53] For the purposes of this regulation, a light source is an independent product if it is not in a containing product.
+(3)[^c-49203ced9c98f9cb476e60ab86df7b53] For the purposes of this regulation, a light source is an independent product if it is not in a containing product.
 
-(4)[^key-49203ced9c98f9cb476e60ab86df7b53] The energy efficiency class must be determined in accordance with Schedule 12.
+(4)[^c-49203ced9c98f9cb476e60ab86df7b53] The energy efficiency class must be determined in accordance with Schedule 12.
 
-#### 13. Obligations of dealers[^key-097051bca91c87fbf011921ed9196e69]
+#### 13. Obligations of dealers[^c-097051bca91c87fbf011921ed9196e69]
 
 Dealers must ensure that—
 
@@ -363,14 +363,14 @@ Dealers must ensure that—
   on the label in accordance with Schedule 10;
 - (f) customers are able to access the product information sheet in accordance with Schedules 10 and 11.
 
-#### 14. Obligations of internet hosting platforms[^key-73b55e2c14ef601cd7a0cd222bafdcca]
+#### 14. Obligations of internet hosting platforms[^c-73b55e2c14ef601cd7a0cd222bafdcca]
 
 Where a hosting service provider as referred to in regulation 19 of the Electronic Commerce (EC Directive) Regulations 2002[^f00021] allows the direct selling of light sources through its internet site, the service provider must—
 
 - (a) enable the showing of the electronic label and electronic product fiche sheet provided by the dealer on the display mechanism in accordance with the provisions of Schedule 11; and
 - (b) inform the dealer of the obligation to display them.
 
-#### 15. Measurement methods[^key-c53d6fc9673d416c0984fd87bb5d1101]
+#### 15. Measurement methods[^c-c53d6fc9673d416c0984fd87bb5d1101]
 
 (1) The measurements and calculations required by this Chapter must be made in accordance with—
 
@@ -382,11 +382,11 @@ Where a hosting service provider as referred to in regulation 19 of the Electron
 - (a) can be demonstrated to be reliable, accurate, and reproducible by the person deploying them; and
 - (b) take into account the generally recognised state of the art.
 
-#### 16. Verification procedure for market surveillance purposes[^key-f2e2409358573c7fac5713b7f1557df5]
+#### 16. Verification procedure for market surveillance purposes[^c-f2e2409358573c7fac5713b7f1557df5]
 
 The market surveillance authority[^f00023] must use the verification procedure set out in Schedule 13 when verifying the conformity of a product model with the requirements of these Regulations.
 
-#### 17. Light sources placed on the market before 1st October 2021[^key-553fd501b097efc510f4ef007f536d44]
+#### 17. Light sources placed on the market before 1st October 2021[^c-553fd501b097efc510f4ef007f536d44]
 
 (1) The requirements in paragraphs (2) and (3) apply in relation to light sources which are placed on the market before 1st October 2021.
 
@@ -418,7 +418,7 @@ The market surveillance authority[^f00023] must use the verification procedure s
 
 ## PART 3 — GENERAL
 
-### 18. Review[^key-42a25115b59a8587a0c5adb0e663b3ca]
+### 18. Review[^c-42a25115b59a8587a0c5adb0e663b3ca]
 
 (1) The Secretary of State must before 1st October 2026—
 
@@ -427,7 +427,7 @@ The market surveillance authority[^f00023] must use the verification procedure s
 
 (2) If the Secretary of State concludes under paragraph (1) that these Regulations should not be amended, the Secretary of State must review this conclusion from time to time and publish a new report under paragraph (1)(b) at intervals not exceeding 5 years.
 
-### 19. Revocations[^key-498c57671c34ed3f58d6def172ac0f52]
+### 19. Revocations[^c-498c57671c34ed3f58d6def172ac0f52]
 
 The following Regulations are revoked, subject to regulations 22(1) and 23(1)—
 
@@ -437,7 +437,7 @@ The following Regulations are revoked, subject to regulations 22(1) and 23(1)—
 - (d) [Commission Regulation (EU) No 1194/2012](https://www.legislation.gov.uk/european/regulation/2012/1194);
 - (e) Commission Regulation (EU) 2019/2020 of 1 October 2019 laying down ecodesign requirements for light sources and separate control gears pursuant to [Directive 2009/125/EC](https://www.legislation.gov.uk/european/directive/2009/0125) of the European Parliament and of the Council[^f00024].
 
-### 20. Consequential amendments of the 2010 Regulations[^key-26861a66e1f80a8963a28ec5b0d0138d]
+### 20. Consequential amendments of the 2010 Regulations[^c-26861a66e1f80a8963a28ec5b0d0138d]
 
 (1) The table in paragraph 4 of Schedule 1 (declaration of conformity) to the 2010 Regulations is amended as follows.
 
@@ -454,7 +454,7 @@ The following Regulations are revoked, subject to regulations 22(1) and 23(1)—
 
 .
 
-### 21. Consequential amendments of the Energy Information Regulations 2011[^key-74aff058f22c9a43f5ce4d7390f656a0]
+### 21. Consequential amendments of the Energy Information Regulations 2011[^c-74aff058f22c9a43f5ce4d7390f656a0]
 
 In the Energy Information Regulations 2011[^f00026], in the table in paragraph 1 of Schedule 1 (product-specific measures)—
 
@@ -467,7 +467,7 @@ In the Energy Information Regulations 2011[^f00026], in the table in paragraph 1
 
   .
 
-### 22. Transitional and saving provisions in connection with ecodesign requirements[^key-79c3342515db7ebf93ed0ea40e6f630a]
+### 22. Transitional and saving provisions in connection with ecodesign requirements[^c-79c3342515db7ebf93ed0ea40e6f630a]
 
 (1) The Regulations specified in paragraph (2) continue to have effect (insofar as applicable, and notwithstanding the revocation of these Regulations by regulation 19(a), (b) and (d))—
 
@@ -485,7 +485,7 @@ In the Energy Information Regulations 2011[^f00026], in the table in paragraph 1
 - (a) is placed on the market or put into service before 1st October 2021; or
 - (b) falls within regulation 3(2).
 
-### 23. Transitional and saving provisions in connection with energy labelling requirements[^key-f58e8651b08644c7130186fa2911728e]
+### 23. Transitional and saving provisions in connection with energy labelling requirements[^c-f58e8651b08644c7130186fa2911728e]
 
 (1) [Commission Regulation (EU) No 874/2012](https://www.legislation.gov.uk/european/regulation/2012/0874) continues to have effect (notwithstanding the revocation of this Regulation by regulation 19(c)) in relation to a light source where—
 
@@ -506,7 +506,7 @@ Department for Business, Energy and Industrial Strategy
 
 Regulation 2(2), (9) and (11)
 
-### 1. Interpretation[^key-608b5e3321989a3bc994239da08615d5]
+### 1. Interpretation[^c-608b5e3321989a3bc994239da08615d5]
 
 In these Regulations—
 
@@ -704,15 +704,15 @@ In these Regulations—
 
 Regulations 2(3) and (4) and 8
 
-### 1. Interpretation[^key-77996f612da87714b0bd0a0cc7416fed]
+### 1. Interpretation[^c-77996f612da87714b0bd0a0cc7416fed]
 
 In this Schedule “determined values” means the values of the relevant parameters as measured by the market surveillance authority in testing, and the values calculated from these measurements.
 
-### 2. Verification procedure[^key-cdc183138714c2eedfc28f8a81d93a77]
+### 2. Verification procedure[^c-cdc183138714c2eedfc28f8a81d93a77]
 
 The market surveillance authority must apply the procedure set out in this Schedule when verifying the conformity of a product model with these Regulations.
 
-**3.**[^key-fc71bd19bf5b006241fe4a7408876634] The product model conforms to these Regulations if all the following conditions are satisfied in respect of the product model—
+**3.**[^c-fc71bd19bf5b006241fe4a7408876634] The product model conforms to these Regulations if all the following conditions are satisfied in respect of the product model—
 
 - (a) the declared values and, where applicable, the values used to calculate the declared values, are not more favourable for the manufacturer, importer, or authorised representative than the corresponding measurements carried out pursuant to paragraph 1(2)(b)(vii) or 5(2)(d) of Schedule 1A to the 2010 Regulations[^f00028];
 - (b) the declared values meet the requirements of these Regulations, and any product information published by the manufacturer, importer or authorised representative does not contain values more favourable for the manufacturer, importer, or authorised representative than the declared values;
@@ -722,18 +722,18 @@ The market surveillance authority must apply the procedure set out in this Sched
 - (d) the manufacturer, importer or authorised representative has put in place a system that complies with the requirements of regulation 10(2), (3) and (4) (software updates); and
 - (e) the manufacturer, importer or authorised representative has complied with the information requirements in paragraphs 4 to 10 of Schedule 3.
 
-**4.**[^key-e55a7977c2c371ef5dc5b6d1a9590de9] For the purposes of paragraph 3(a), (b), (d) and (e), the market surveillance authority must check one single unit of the product model.
+**4.**[^c-e55a7977c2c371ef5dc5b6d1a9590de9] For the purposes of paragraph 3(a), (b), (d) and (e), the market surveillance authority must check one single unit of the product model.
 
-**5.**[^key-4351c34fade00e51af97c76ff590c194] For the purpose of paragraph 3(c), the market surveillance authority must test—
+**5.**[^c-4351c34fade00e51af97c76ff590c194] For the purpose of paragraph 3(c), the market surveillance authority must test—
 
 - (a) in the case of a light source, 10 units of the product model; or
 - (b) in the case of a separate control gear, 3 units of the product model.
 
-**6.**[^key-97765ee37ff654f71620917d8f30e02c] If any of the conditions set out in paragraph 3 are not satisfied in respect of the product model, the product model and all equivalent models do not conform to these Regulations.
+**6.**[^c-97765ee37ff654f71620917d8f30e02c] If any of the conditions set out in paragraph 3 are not satisfied in respect of the product model, the product model and all equivalent models do not conform to these Regulations.
 
-**7.**[^key-592f6f0212b9fb17eed9cc3be204877b] Where a product model has been designed to be able to detect it is being tested (for example by recognising test conditions or test cycles), and to react specifically by automatically altering its performance during the test with the objective of reaching a more favourable level for any of the parameters specified in these Regulations or any parameters included in the technical documentation or in any of the documentation provided, the product model and all equivalent models do not conform to these Regulations.
+**7.**[^c-592f6f0212b9fb17eed9cc3be204877b] Where a product model has been designed to be able to detect it is being tested (for example by recognising test conditions or test cycles), and to react specifically by automatically altering its performance during the test with the objective of reaching a more favourable level for any of the parameters specified in these Regulations or any parameters included in the technical documentation or in any of the documentation provided, the product model and all equivalent models do not conform to these Regulations.
 
-### 8. Verification tolerances[^key-eb88c21a64f8803da160e22b93634e96]
+### 8. Verification tolerances[^c-eb88c21a64f8803da160e22b93634e96]
 
 (1) The verification tolerances set out in Table 1 must be used only by the market surveillance authority and only for the purposes of this Schedule.
 
@@ -795,7 +795,7 @@ of the emitted light must be tested using the reference control settings.
 
 Regulations 2(10), 4 and 7(2)
 
-### 1. Energy efficiency requirements[^key-9b122a226b351d8439af1b863367d1ae]
+### 1. Energy efficiency requirements[^c-9b122a226b351d8439af1b863367d1ae]
 
 *Light sources*
 
@@ -879,7 +879,7 @@ where—
 
 (3) This paragraph is subject to the exemptions in paragraph 3(3) of Schedule 4.
 
-**2.**[^key-257099599a5bd2691fe148809fc953d6] *Separate control gears*
+**2.**[^c-257099599a5bd2691fe148809fc953d6] *Separate control gears*
 
 (1) The minimum energy efficiency requirements of a separate control gear operating at full-load are the values set out in Table 4.
 
@@ -907,7 +907,7 @@ Minimum energy efficiency for separate control gear at full-load
 
 (6) This paragraph is subject to the exemptions in paragraph 3(3) of Schedule 4.
 
-### 3. Functional requirements[^key-d1437bd2b173c6c5d1836ac4a6900c6b]
+### 3. Functional requirements[^c-d1437bd2b173c6c5d1836ac4a6900c6b]
 
 The functional requirements specified in Table 5 apply to light sources.
 
@@ -925,13 +925,13 @@ Functional requirements for light sources
 | Flicker for LED and OLED MLS | P<sub>st</sub> LM ≤ 1,0 at full-load |
 | Stroboscopic effect for LED and OLED MLS | Before 31st August 2024:<br>SVM ≤ 0.9 at full-load (except for light sources intended for use in outdoor applications, industrial applications or other applications where lighting standards allow a CRI\< 80);<br>From 1st September 2024:<br>SVM ≤ 0.4 at full-load (except for light sources intended for use in outdoor applications, industrial applications or other applications where lighting standards allow a CRI\< 80) |
 
-### 4. Information requirements[^key-cf069fd3ec1d8eee098b47ed128d8c98]
+### 4. Information requirements[^c-cf069fd3ec1d8eee098b47ed128d8c98]
 
 The following information requirements apply.
 
 ### Light sources
 
-**5.**[^key-c6f4f51e32492c4dd3a94caa0a82a97b] (1) The following information must be displayed on light sources when they are placed on the market.
+**5.**[^c-c6f4f51e32492c4dd3a94caa0a82a97b] (1) The following information must be displayed on light sources when they are placed on the market.
 
 (2) For all light sources except CTLS, LFL, CFLni, other FL, and HID—
 
@@ -950,7 +950,7 @@ must be displayed in a legible font on the surface provided that, after the incl
 
 #### Light sources
 
-**6.**[^key-d35679c1347b12b0f051b13dc11de7fc] (1) Where a light source is placed on the market and is—
+**6.**[^c-d35679c1347b12b0f051b13dc11de7fc] (1) Where a light source is placed on the market and is—
 
 - (a) not in a containing product; and
 - (b) in packaging containing information to be visibly displayed at a point-of-sale prior to its purchase;
@@ -1007,7 +1007,7 @@ the information listed in sub-paragraph (2) must be clearly and prominently disp
 
 #### Separate control gears
 
-**7.**[^key-f90312a1b33bb4f90beff9386cb71172] (1) Where a separate control gear is placed on the market and is—
+**7.**[^c-f90312a1b33bb4f90beff9386cb71172] (1) Where a separate control gear is placed on the market and is—
 
 - (a) not in a containing product;
 - (b) in a packaging containing information to be visibly displayed at a point of sale, prior to their purchase;
@@ -1047,7 +1047,7 @@ the information listed in sub-paragraph (2) must be clearly and prominently disp
 
 ### Websites
 
-**8.**[^key-54106c22a6d4824917fc86249272b859] (1) For any separate control gear that is placed on the market, the information listed in sub-paragraph (2) must be—
+**8.**[^c-54106c22a6d4824917fc86249272b859] (1) For any separate control gear that is placed on the market, the information listed in sub-paragraph (2) must be—
 
 - (a) available on a website of the manufacturer, authorised representative or importer; and
 - (b) accessible to the public without charge.
@@ -1074,7 +1074,7 @@ the information listed in sub-paragraph (2) must be clearly and prominently disp
   - (iii) symbols; or
 - (c) any combination of the above.
 
-#### 9. Technical documentation[^key-d75028faeef1114f1479fabb3d1868fa]
+#### 9. Technical documentation[^c-d75028faeef1114f1479fabb3d1868fa]
 
 (1) The technical documentation required for the conformity assessment of the product must comply with the following.
 
@@ -1092,7 +1092,7 @@ the technical documentation must include the details of any such calculation and
 
 (5) The technical documentation must include all the information specified in Schedule 9, and this must be provided in the order and in the format set out in that Schedule.
 
-#### 10. Information for products specified in paragraph 3 of Schedule 4[^key-912e4033634947a642dae561fa4036bd]
+#### 10. Information for products specified in paragraph 3 of Schedule 4[^c-912e4033634947a642dae561fa4036bd]
 
 (1) For the light sources and separate control gears specified in paragraph 3(2) of Schedule 4—
 
@@ -1109,7 +1109,7 @@ must contain a statement of the intended use and explicit indication that the li
 
 (3) The technical documentation must also list the technical parameters that enable the product to qualify for the exemption.
 
-#### 11. Reference control settings[^key-6b282382a060031b8cfe70b0e0073db5]
+#### 11. Reference control settings[^c-6b282382a060031b8cfe70b0e0073db5]
 
 (1) Subject to the following provisions of this paragraph, the reference control settings must be those predefined by the manufacturer as factory default values and encountered by the user at first installation (initial values).
 
@@ -1132,7 +1132,7 @@ must contain a statement of the intended use and explicit indication that the li
 
 Regulation 5
 
-### 1. Specified approvals[^key-0e14971a2818d8081f9cd9a529a21004]
+### 1. Specified approvals[^c-0e14971a2818d8081f9cd9a529a21004]
 
 (1) Chapter 2 of Part 2 of these Regulations does not apply to light sources and separate control gears specifically tested and approved to operate—
 
@@ -1154,7 +1154,7 @@ Regulation 5
   - (ii) cannot articulate around a vertical axis when the agricultural or forestry vehicle to which it is attached is in use on a road;
 - (h) in or on civil aviation aircraft;
 - (i) in railway vehicle lighting, and for this purpose “railway vehicle” is construed in accordance with regulation 2(1) of the Railways (Interoperability) Regulations 2011[^f00038];
-- (j) in marine equipment, within the meaning of regulation 2(1) of the Merchant Shipping (Marine Equipment) Regulations 2025[^key-a31fd13cc23a33bc12789f2b3c11a980]; or
+- (j) in marine equipment, within the meaning of regulation 2(1) of the Merchant Shipping (Marine Equipment) Regulations 2025[^c-a31fd13cc23a33bc12789f2b3c11a980]; or
 - (k) in medical devices, within the meaning of regulation 2(1) of the Medical Devices Regulations 2002[^f00040].
 
 (2) For the purposes of this paragraph “specifically tested and approved” means that, in relation to an operating condition or application, the light source or separate control gear—
@@ -1172,7 +1172,7 @@ Regulation 5
 
 (3) The evidence referred to in sub-paragraph (2)(b) must be included in the technical documentation.
 
-### 2. Additional exemptions[^key-6ea28a579aa5423edef352d39f966ff4]
+### 2. Additional exemptions[^c-6ea28a579aa5423edef352d39f966ff4]
 
 Chapter 2 of Part 2 of these Regulations does not apply to—
 
@@ -1200,7 +1200,7 @@ Chapter 2 of Part 2 of these Regulations does not apply to—
   - (x) environmental monitoring;
 - (e) light sources and separate control gears on bicycles and other non-motorised vehicles.
 
-### 3. Limited exemptions[^key-572935815d2dba88a2890ff79aa581f9]
+### 3. Limited exemptions[^c-572935815d2dba88a2890ff79aa581f9]
 
 (1) Subject to sub-paragraph (5), Chapter 2 of Part 2 of these Regulations does not apply to light sources and separate control gears which are specifically designed and marketed for intended use in any of the applications listed in sub-paragraph (2).
 
@@ -1297,7 +1297,7 @@ are exempt from the requirements on standby (P<sub>sb</sub>) and on networked st
 
 (4) The following light sources are exempt from the requirements regarding lumen maintenance factor and survival factor specified in Table 5 in Schedule 3, and from the lifetime information requirement specified in paragraph 6(2)(e) of that Schedule—
 
-- (a) light sources specifically designed and exclusively marketed for use in products within the scope of the Ecodesign for Energy-Related Products and Energy Information (Household Tumble Dryers) Regulations 2026[^key-213899407a1a77e923f9fbae60cbf1ce];
+- (a) light sources specifically designed and exclusively marketed for use in products within the scope of the Ecodesign for Energy-Related Products and Energy Information (Household Tumble Dryers) Regulations 2026[^c-213899407a1a77e923f9fbae60cbf1ce];
 - (b) light sources specifically designed and exclusively marketed for use in products to which the following provisions of the Ecodesign for Energy-Related Products and Energy Information Regulations 2021 apply—
   - (i) Chapter 3 of Part 2 (household dishwashers);
   - (ii) Chapter 4 of Part 2 (household washing machines and washer dryers);
@@ -1309,11 +1309,11 @@ are exempt from the requirements on standby (P<sub>sb</sub>) and on networked st
 
 Regulations 7(2) and 8
 
-**1.**[^key-9605d45b5ab83f01539dbf37c9f14e6a] (1) Models of LED and OLED light sources must undergo endurance testing to check their lumen maintenance factor and survival factor (see Table 1 of Schedule 2).
+**1.**[^c-9605d45b5ab83f01539dbf37c9f14e6a] (1) Models of LED and OLED light sources must undergo endurance testing to check their lumen maintenance factor and survival factor (see Table 1 of Schedule 2).
 
 (2) The market surveillance authority must carry out endurance testing in accordance with the method set out in this Schedule.
 
-**2.**[^key-cad28e63e5a60c2c6f48a8d179621042] (1) The endurance test for LED and OLED light sources must be conducted as follows.
+**2.**[^c-cad28e63e5a60c2c6f48a8d179621042] (1) The endurance test for LED and OLED light sources must be conducted as follows.
 
 Ambient conditions and test set-up
 
@@ -1349,9 +1349,9 @@ Endurance test method
 
 Regulation 11(3)
 
-**1.**[^key-23e61a845f284cce551346319a14103a] Chapter 3 of Part 2 of these Regulations does not apply to a light source which meets any of the conditions in paragraphs (b) to (k) of paragraph 1(1) of Schedule 4.
+**1.**[^c-23e61a845f284cce551346319a14103a] Chapter 3 of Part 2 of these Regulations does not apply to a light source which meets any of the conditions in paragraphs (b) to (k) of paragraph 1(1) of Schedule 4.
 
-**2.**[^key-6f15d1e353ece64e88294b460fc9bf6d] Chapter 3 of Part 2 of these Regulations does not apply to—
+**2.**[^c-6f15d1e353ece64e88294b460fc9bf6d] Chapter 3 of Part 2 of these Regulations does not apply to—
 
 - (a) electronic displays (such as televisions, computer monitors, notebooks, tablets, mobile phones, e-readers, game consoles), including displays to which the following provisions apply—
   - (i) Chapter 7 of Part 2 of the Ecodesign for Energy-Related Products and Energy Information Regulations 2021 (electronic displays);
@@ -1377,7 +1377,7 @@ Regulation 11(3)
   - (ix) process monitoring;
   - (x) environmental monitoring.
 
-**3.**[^key-07dfa380fb97ec1c6b4bb0e8585fc7a0] (1) Except as provided in sub-paragraph (2), Chapter 3 of Part 2 of these Regulations does not apply to a light source which is specifically designed and marketed for intended use in any of the applications listed in paragraph 3(2)(a) to (j), (s) or (v) of Schedule 4.
+**3.**[^c-07dfa380fb97ec1c6b4bb0e8585fc7a0] (1) Except as provided in sub-paragraph (2), Chapter 3 of Part 2 of these Regulations does not apply to a light source which is specifically designed and marketed for intended use in any of the applications listed in paragraph 3(2)(a) to (j), (s) or (v) of Schedule 4.
 
 (2) For the light sources to which this paragraph applies—
 
@@ -1390,7 +1390,7 @@ must contain a statement of the intended use and an explicit indication that the
 
 (4) The following light sources are exempt from the requirements specified in paragraph 1(e)(x) to (xii) of Schedule 9—
 
-- (a) light sources specifically designed and exclusively marketed for use in products within the scope of the Ecodesign for Energy-Related Products and Energy Information (Household Tumble Dryers) Regulations 2026[^key-0ab269fd56d207207b6d90257daaf830];
+- (a) light sources specifically designed and exclusively marketed for use in products within the scope of the Ecodesign for Energy-Related Products and Energy Information (Household Tumble Dryers) Regulations 2026[^c-0ab269fd56d207207b6d90257daaf830];
 - (b) light sources specifically designed and exclusively marketed for use in products to which the following provisions of the Ecodesign for Energy-Related Products and Energy Information Regulations 2021 apply—
   - (i) Chapter 3 of Part 2 (household dishwashers);
   - (ii) Chapter 4 of Part 2 (household washing machines and washer dryers);
@@ -1400,7 +1400,7 @@ must contain a statement of the intended use and an explicit indication that the
 
 Regulations 12(1), 13 and 17
 
-### 1. Format and placing of labels[^key-8041a74d578b2e16a4f53ddc5bb413c9]
+### 1. Format and placing of labels[^c-8041a74d578b2e16a4f53ddc5bb413c9]
 
 (1) If a light source is intended to be marketed through a point of sale, a label produced in the format and containing information set out in this Schedule must be printed on the individual packaging.
 
@@ -1431,7 +1431,7 @@ Regulations 12(1), 13 and 17
 
 [image: see source](https://www.legislation.gov.uk/uksi/2021/1095/images/uksi_20211095_en_003)
 
-**2.**[^key-7c34c308268268ad11caa6e66a0a1efa] (1) The format of the standard sized label is as follows—
+**2.**[^c-7c34c308268268ad11caa6e66a0a1efa] (1) The format of the standard sized label is as follows—
 
 [image: see source](https://www.legislation.gov.uk/uksi/2021/1095/images/uksi_20211095_en_004)
 
@@ -1449,7 +1449,7 @@ Regulations 12(1), 13 and 17
 - (f) point VI: the energy efficiency class in accordance with Schedule 12;
 - (g) point VII: the S.I. number of these Regulations.
 
-### 3. Label designs[^key-ec8706b8754b41a36603bd33de71a9c1]
+### 3. Label designs[^c-ec8706b8754b41a36603bd33de71a9c1]
 
 (1) The label designs for light sources are as follows—
 
@@ -1508,7 +1508,7 @@ Regulations 12(1), 13 and 17
 
 Regulations 12(1) and (2) and 17(3)
 
-### 1. Product information sheet[^key-45d75d7687cbef795635b31edb9b3f3c]
+### 1. Product information sheet[^c-45d75d7687cbef795635b31edb9b3f3c]
 
 The product information sheet must contain the information set out in Table 6.
 
@@ -1552,7 +1552,7 @@ Product information sheet
 </tbody>
 </table>
 
-**2.**[^key-c678c679dcaa0860c8221f3da05d56e7] (1) An equivalence claim involving the power of a replaced light source type may be given only—
+**2.**[^c-c678c679dcaa0860c8221f3da05d56e7] (1) An equivalence claim involving the power of a replaced light source type may be given only—
 
 - (a) for directional light sources, if the light source type is listed in Table 7 and the luminous flux of the light source in a 90° cone (Φ90°) is not lower than the corresponding reference luminous flux in Table 7, and for this purpose—
   - (i) the reference luminous flux must be multiplied by the correction factor in Table 8; and
@@ -1681,7 +1681,7 @@ Minimum efficacy values for T8 and T5 light sources
 </tbody>
 </table>
 
-### 3. Information to be displayed for a containing product[^key-341070274f3255ac97036f2415046835]
+### 3. Information to be displayed for a containing product[^c-341070274f3255ac97036f2415046835]
 
 (1) If a light source is placed on the market as a part in a containing product, the following statement must be displayed, clearly legible, in the user manual or booklet of instructions—
 
@@ -1693,7 +1693,7 @@ where \<X> is to be replaced by the energy efficiency class of the contained lig
 
 (2) If the product contains more than one light source, the statement referred to in sub-paragraph (1) may be in the plural, or repeated for each light source, as appropriate.
 
-### 4. Information to be displayed on the supplier’s website[^key-f5cc892953ffc59bb94e5024b4995395]
+### 4. Information to be displayed on the supplier’s website[^c-f5cc892953ffc59bb94e5024b4995395]
 
 The following information must be shown, accessible to the public without charge, on the supplier’s website—
 
@@ -1709,7 +1709,7 @@ The following information must be shown, accessible to the public without charge
 
 Regulation 12(1)(e)
 
-**1.**[^key-3536b50e8487eb731fa7af5e97734ae0] The technical documentation referred to in regulation 12(1)(e) must include the following—
+**1.**[^c-3536b50e8487eb731fa7af5e97734ae0] The technical documentation referred to in regulation 12(1)(e) must include the following—
 
 - (a) the name and address of the supplier;
 - (b) the supplier’s model identifier;
@@ -1752,7 +1752,7 @@ Regulation 12(1)(e)
 
 Regulations 12 and 13
 
-**1.**[^key-075788b95fb10bad15c22614c8174abc] (1) In—
+**1.**[^c-075788b95fb10bad15c22614c8174abc] (1) In—
 
 - (a) visual advertisements for light sources, for the purposes of the requirements of regulations 12(1)(f) and 13(d); and
 - (b) in technical promotional material for light sources, for the purposes of the requirements of regulations 12(1)(g) and 13(e),
@@ -1761,7 +1761,7 @@ the energy efficiency class and the range of energy efficiency classes available
 
 (2) Any paper-based distance selling of light sources must show the energy efficiency class and the range of energy efficiency classes available on the label as set out paragraph 2.
 
-**2.**[^key-b8dca25aa9f69efc608118b1dfbcb37f] (1) The energy efficiency class and the range of energy efficiency classes must be shown, as indicated in Figure 3, with—
+**2.**[^c-b8dca25aa9f69efc608118b1dfbcb37f] (1) The energy efficiency class and the range of energy efficiency classes must be shown, as indicated in Figure 3, with—
 
 - (a) an arrow containing the letter of the energy efficiency class, in 100% white, Calibri Bold and in—
   - (i) if the price is shown, a font size at least equivalent to that of the price; and
@@ -1779,17 +1779,17 @@ the energy efficiency class and the range of energy efficiency classes available
 
 [image: see source](https://www.legislation.gov.uk/uksi/2021/1095/images/uksi_20211095_en_008)
 
-**3.**[^key-05826c84fc18b81ea50ea18ee39d41a8] Where a product is sold through telemarketing based distance selling, the manufacturer, importer or authorised representative must specifically inform the customer of the energy efficiency class of the product and of the range of energy efficiency classes available on the label, and that the customer can access the full label and the product information sheet by requesting a printed copy or accessing a website that is publicly available free of charge.
+**3.**[^c-05826c84fc18b81ea50ea18ee39d41a8] Where a product is sold through telemarketing based distance selling, the manufacturer, importer or authorised representative must specifically inform the customer of the energy efficiency class of the product and of the range of energy efficiency classes available on the label, and that the customer can access the full label and the product information sheet by requesting a printed copy or accessing a website that is publicly available free of charge.
 
-**4.**[^key-acb3428f46e53a566f8bf25c41d8cf4c] For all the situations referred to in paragraphs 1 and 3, it must be possible for the customer to obtain a printed copy of the label and the product information sheet on request.
+**4.**[^c-acb3428f46e53a566f8bf25c41d8cf4c] For all the situations referred to in paragraphs 1 and 3, it must be possible for the customer to obtain a printed copy of the label and the product information sheet on request.
 
 ## SCHEDULE 11 — Information to be provided in the case of distance selling through the internet
 
 Regulations 12, 13 and 14
 
-**1.**[^key-851287e0edabe64f192a8fe4ddec2d4b] The following requirements apply to distance selling through the internet.
+**1.**[^c-851287e0edabe64f192a8fe4ddec2d4b] The following requirements apply to distance selling through the internet.
 
-**2.**[^key-28dd0b4d989b8755bddb56c3bc71d6c9] (1) The appropriate label made available by suppliers in accordance with regulation 12(1)(h) must be shown on the display mechanism in proximity to the price of the product.
+**2.**[^c-28dd0b4d989b8755bddb56c3bc71d6c9] (1) The appropriate label made available by suppliers in accordance with regulation 12(1)(h) must be shown on the display mechanism in proximity to the price of the product.
 
 (2) The size of the label must be such that the label is clearly visible and legible, and must be proportionate to the size specified for the standard label in paragraph 3(1) of Schedule 7.
 
@@ -1797,7 +1797,7 @@ Regulations 12, 13 and 14
 
 (4) If nested display is used, the label must appear on the first mouse click, mouse roll-over or tactile screen expansion on the image.
 
-**3.**[^key-b553978a5cef00ba821ee4815533dbb6] The image used for accessing the label in the case of a nested display, as indicated in Figure 4, must—
+**3.**[^c-b553978a5cef00ba821ee4815533dbb6] The image used for accessing the label in the case of a nested display, as indicated in Figure 4, must—
 
 - (a) be an arrow in the colour corresponding to the energy efficiency class of the product on the label;
 - (b) indicate the energy efficiency class of the product on the arrow in 100% white, Calibri Bold and in a font size equivalent to that of the price;
@@ -1811,7 +1811,7 @@ Regulations 12, 13 and 14
 
 [image: see source](https://www.legislation.gov.uk/uksi/2021/1095/images/uksi_20211095_en_009)
 
-**4.**[^key-e57510d6f4ca8ec4d608a6ee7e7d332d] In the case of a nested display, the sequence of display of the label must be as follows—
+**4.**[^c-e57510d6f4ca8ec4d608a6ee7e7d332d] In the case of a nested display, the sequence of display of the label must be as follows—
 
 - (a) the image referred to paragraph 3 must be shown on the display mechanism in proximity to the price of the product;
 - (b) the image must link to the label set out in Schedule 7;
@@ -1821,7 +1821,7 @@ Regulations 12, 13 and 14
 - (f) the label must cease to be displayed by means of a close option or other standard closing mechanism;
 - (g) the alternative text for the graphic, to be displayed on failure to display the label, must be the energy efficiency class of the product in a font size equivalent to that of the price.
 
-**5.**[^key-8e75830209fcc11fdefb6d386989dfe0] (1) The electronic product information sheet made available by suppliers in accordance with regulation 12(1)(i) must be shown on the display mechanism in proximity to the price of the product.
+**5.**[^c-8e75830209fcc11fdefb6d386989dfe0] (1) The electronic product information sheet made available by suppliers in accordance with regulation 12(1)(i) must be shown on the display mechanism in proximity to the price of the product.
 
 (2) The size of the information sheet must be such that the sheet is clearly visible and legible.
 
@@ -1833,7 +1833,7 @@ Regulations 12, 13 and 14
 
 Regulations 12(4) and 15(1)
 
-**1.**[^key-7b66c62c6f7519181eb7342cde32f816] The energy efficiency class of light sources must be determined as set out in Table 12, on the basis of the total mains efficacy η<sub>TM</sub>, which is calculated by—
+**1.**[^c-7b66c62c6f7519181eb7342cde32f816] The energy efficiency class of light sources must be determined as set out in Table 12, on the basis of the total mains efficacy η<sub>TM</sub>, which is calculated by—
 
 - (a) dividing the declared useful luminous flux Φ<sub>use</sub> (expressed in *lm*) by the declared on-mode power consumption P<sub>on</sub> (expressed in *W*); and
 - (b) multiplying by the applicable factor F<sub>TM</sub> in Table 13,
@@ -1871,15 +1871,15 @@ as follows—
 
 Regulation 16
 
-### 1. Interpretation[^key-a532f88c40784afb0a9605fd76111374]
+### 1. Interpretation[^c-a532f88c40784afb0a9605fd76111374]
 
 In this Schedule “determined values” means the values of the relevant parameters as measured by the market surveillance authority in testing and the values calculated from these measurements.
 
-### 2. Verification procedure[^key-3db26516c9a238686b216137eca76c72]
+### 2. Verification procedure[^c-3db26516c9a238686b216137eca76c72]
 
 The market surveillance authority must apply the procedure set out in this Schedule when verifying the conformity of a product model with these Regulations.
 
-**3.**[^key-9224a41e18fd629ce092f4b04f6a8a90] The product model conforms to these Regulations if all the following conditions are satisfied in respect of the product model—
+**3.**[^c-9224a41e18fd629ce092f4b04f6a8a90] The product model conforms to these Regulations if all the following conditions are satisfied in respect of the product model—
 
 - (a) the declared values and, where applicable, the values used to calculate the declared values, are not more favourable for the supplier than the corresponding measurements carried out pursuant to paragraph 1(2)(b)(vii) or 5(2)(d) of Schedule 1A to the 2010 Regulations;
 - (b) the values published on the label and in the product information sheet are not more favourable for the supplier than the declared values;
@@ -1888,15 +1888,15 @@ The market surveillance authority must apply the procedure set out in this Sched
   - (i) the arithmetic mean over the tested units of the measured values for a given parameter; or
   - (ii) the arithmetic mean of parameter values calculated from measured values.
 
-**4.**[^key-ffb18c5f332cdf474823e17bc8352fa7] (1) For the purposes of paragraph 3(a), (b) and (c), the market surveillance authority must check one single unit of the product model to be verified.
+**4.**[^c-ffb18c5f332cdf474823e17bc8352fa7] (1) For the purposes of paragraph 3(a), (b) and (c), the market surveillance authority must check one single unit of the product model to be verified.
 
 (2) For the purpose of paragraph 3(d), the market surveillance authority must test 10 units of the product model.
 
-**5.**[^key-1963b31461b1165a9b9ac043168becdc] If any of the conditions set out in paragraph 3 are not satisfied in respect of the product model, the product model and all equivalent product models do not conform to these Regulations.
+**5.**[^c-1963b31461b1165a9b9ac043168becdc] If any of the conditions set out in paragraph 3 are not satisfied in respect of the product model, the product model and all equivalent product models do not conform to these Regulations.
 
-**6.**[^key-2c6b4aefd8c59cbc9d9d4b1966c6887d] Where a model has been designed to be able to detect it is being tested (for example by recognising test conditions or test cycles), and to react specifically by automatically altering its performance during the test with the objective of reaching a more favourable level for any of the parameters specified in these Regulations or any parameters included in the technical documentation or in any of the documentation provided, the product model and all equivalent models do not conform to these Regulations.
+**6.**[^c-2c6b4aefd8c59cbc9d9d4b1966c6887d] Where a model has been designed to be able to detect it is being tested (for example by recognising test conditions or test cycles), and to react specifically by automatically altering its performance during the test with the objective of reaching a more favourable level for any of the parameters specified in these Regulations or any parameters included in the technical documentation or in any of the documentation provided, the product model and all equivalent models do not conform to these Regulations.
 
-### 7. Verification tolerances[^key-f4ee3f108b7d039dd9ec14d6726c7cbf]
+### 7. Verification tolerances[^c-f4ee3f108b7d039dd9ec14d6726c7cbf]
 
 (1) The verification tolerances set out in Table 14 must be used only by the market surveillance authority and only for the purposes of this Schedule.
 
@@ -1977,9 +1977,9 @@ https://www.gov.uk/government/consultations/draft-ecodesign-and-energy-labelling
 
 [^f00002]: Footnote: EUR 2017/1369; Article 11 was substituted, and Article 11A was inserted, by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539), as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528).
 
-[^key-ebe93d1cf14beeef867e25b745578bc9]: Commencement: Reg. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-ebe93d1cf14beeef867e25b745578bc9]: Commencement: Reg. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-93b21f97923d76e699bb06dd5e74700a]: Commencement: Reg. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-93b21f97923d76e699bb06dd5e74700a]: Commencement: Reg. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00003]: Footnote: EUR 2019/782, as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528).
 
@@ -2001,37 +2001,37 @@ https://www.gov.uk/government/consultations/draft-ecodesign-and-energy-labelling
 
 [^f00012]: Footnote: EUR 2017/1369.
 
-[^key-2156c5eb32bd2f61c7d1603e5a493863]: Commencement: Reg. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-2156c5eb32bd2f61c7d1603e5a493863]: Commencement: Reg. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-851ad1292efa9eb23704e745e4eccc44]: Commencement: Reg. 4 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-851ad1292efa9eb23704e745e4eccc44]: Commencement: Reg. 4 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-e8c600df25133a4e0256a205d3e78caa]: Commencement: Reg. 5 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-e8c600df25133a4e0256a205d3e78caa]: Commencement: Reg. 5 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-777680f4c0c2e0ce831025dd6f1ab4e1]: Commencement: Reg. 6 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-777680f4c0c2e0ce831025dd6f1ab4e1]: Commencement: Reg. 6 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00013]: Footnote: See paragraph 1(2) of Schedule 1A to the 2010 Regulations for the meaning of “technical documentation”. Schedule 1A was inserted by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539).
 
-[^key-889a692c3777b16e43003e3a51b896e5]: Commencement: Reg. 7 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-889a692c3777b16e43003e3a51b896e5]: Commencement: Reg. 7 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00014]: Footnote: Schedule 1A was inserted by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539).
 
-[^key-ce065b2fb4d53dd500907c8c5c902bf9]: Commencement: Reg. 8 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-ce065b2fb4d53dd500907c8c5c902bf9]: Commencement: Reg. 8 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00015]: Footnote: The meanings of “market surveillance” and “market surveillance authority” are set out in Article 2(17) and (18) respectively of Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/european/regulation/2008/0765) of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products (RAMS) (EUR 2008/765, as amended by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696)). Definitions in RAMS are applied to the 2010 Regulations by regulation 2(2) of those Regulations (as amended by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539)).
 
-[^key-c1772cbe5882e12426fcd40ef5544501]: Commencement: Reg. 9 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-c1772cbe5882e12426fcd40ef5544501]: Commencement: Reg. 9 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00016]: Footnote: See regulation 2A of the 2010 Regulations, as amended by paragraph 4 of Schedule 4 to the European Union (Future Relationship) Act [2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), for the meaning of “designated standard”.
 
-[^key-cee98b93d9db0b8f44fd7e705c5b6ffa]: Commencement: Reg. 10 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-cee98b93d9db0b8f44fd7e705c5b6ffa]: Commencement: Reg. 10 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-913964fae6eb91e5b71dccf031baa2a4]: Commencement: Reg. 11 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-913964fae6eb91e5b71dccf031baa2a4]: Commencement: Reg. 11 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00017]: Footnote: See Article 2(21) of the Framework Regulation for the meaning of “rescaled label”.
 
-[^key-49203ced9c98f9cb476e60ab86df7b53]: Commencement: Reg. 12(1)(2)(c)(3)(4) in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-49203ced9c98f9cb476e60ab86df7b53]: Commencement: Reg. 12(1)(2)(c)(3)(4) in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-1dcdd2c07b811248aa2ef20d599f0a67]: Commencement: [Reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/12/2/a)[(b)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/12/2/b) in force at 1.3.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/3)
+[^c-1dcdd2c07b811248aa2ef20d599f0a67]: Commencement: [Reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/12/2/a)[(b)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/12/2/b) in force at 1.3.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/3)
 
 [^f00018]: Footnote: See Article 2(14) of the Framework Regulation, as substituted by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539), for the meaning of “supplier”.
 
@@ -2039,89 +2039,89 @@ https://www.gov.uk/government/consultations/draft-ecodesign-and-energy-labelling
 
 [^f00020]: Footnote: See Article 4(7) of the Framework Regulation, inserted by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539), for the meaning of “technical documentation”.
 
-[^key-097051bca91c87fbf011921ed9196e69]: Commencement: Reg. 13 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-097051bca91c87fbf011921ed9196e69]: Commencement: Reg. 13 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-73b55e2c14ef601cd7a0cd222bafdcca]: Commencement: Reg. 14 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-73b55e2c14ef601cd7a0cd222bafdcca]: Commencement: Reg. 14 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00021]: Footnote: [S.I. 2002/2013](https://www.legislation.gov.uk/uksi/2002/2013).
 
-[^key-c53d6fc9673d416c0984fd87bb5d1101]: Commencement: Reg. 15 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-c53d6fc9673d416c0984fd87bb5d1101]: Commencement: Reg. 15 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00022]: Footnote: See Article 2(18) of the Framework Regulation, as substituted by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539), for the meaning of “designated standard”.
 
-[^key-f2e2409358573c7fac5713b7f1557df5]: Commencement: Reg. 16 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-f2e2409358573c7fac5713b7f1557df5]: Commencement: Reg. 16 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00023]: Footnote: See Article 2(28) of the Framework Regulation for the meanings of “market surveillance” and “market surveillance authority”. Point (28) was inserted by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539), as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528).
 
-[^key-553fd501b097efc510f4ef007f536d44]: Commencement: Reg. 17 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-553fd501b097efc510f4ef007f536d44]: Commencement: Reg. 17 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-42a25115b59a8587a0c5adb0e663b3ca]: Commencement: Reg. 18 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-42a25115b59a8587a0c5adb0e663b3ca]: Commencement: Reg. 18 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-498c57671c34ed3f58d6def172ac0f52]: Commencement: Reg. 19 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-498c57671c34ed3f58d6def172ac0f52]: Commencement: Reg. 19 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00024]: Footnote: EUR 2019/2020, as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528).
 
-[^key-26861a66e1f80a8963a28ec5b0d0138d]: Commencement: Reg. 20 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-26861a66e1f80a8963a28ec5b0d0138d]: Commencement: Reg. 20 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00025]: Footnote: Item 16 was inserted by [S.I. 2013/1232](https://www.legislation.gov.uk/uksi/2013/1232).
 
-[^key-74aff058f22c9a43f5ce4d7390f656a0]: Commencement: Reg. 21 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-74aff058f22c9a43f5ce4d7390f656a0]: Commencement: Reg. 21 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00026]: Footnote: [S.I. 2011/1524](https://www.legislation.gov.uk/uksi/2011/1524); relevant amending instruments are [S.I. 2013/1232](https://www.legislation.gov.uk/uksi/2013/1232) and [2019/539](https://www.legislation.gov.uk/uksi/2019/539).
 
-[^key-79c3342515db7ebf93ed0ea40e6f630a]: Commencement: Reg. 22 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-79c3342515db7ebf93ed0ea40e6f630a]: Commencement: Reg. 22 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-f58e8651b08644c7130186fa2911728e]: Commencement: Reg. 23 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-f58e8651b08644c7130186fa2911728e]: Commencement: Reg. 23 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-608b5e3321989a3bc994239da08615d5]: Commencement: Sch. 1 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-608b5e3321989a3bc994239da08615d5]: Commencement: Sch. 1 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00027]: Footnote: EUR 2008/1275.
 
-[^key-77996f612da87714b0bd0a0cc7416fed]: Commencement: Sch. 2 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-77996f612da87714b0bd0a0cc7416fed]: Commencement: Sch. 2 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-cdc183138714c2eedfc28f8a81d93a77]: Commencement: Sch. 2 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-cdc183138714c2eedfc28f8a81d93a77]: Commencement: Sch. 2 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-fc71bd19bf5b006241fe4a7408876634]: Commencement: Sch. 2 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-fc71bd19bf5b006241fe4a7408876634]: Commencement: Sch. 2 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00028]: Footnote: Schedule 1A was inserted by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539).
 
-[^key-e55a7977c2c371ef5dc5b6d1a9590de9]: Commencement: Sch. 2 para. 4 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-e55a7977c2c371ef5dc5b6d1a9590de9]: Commencement: Sch. 2 para. 4 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-4351c34fade00e51af97c76ff590c194]: Commencement: Sch. 2 para. 5 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-4351c34fade00e51af97c76ff590c194]: Commencement: Sch. 2 para. 5 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-97765ee37ff654f71620917d8f30e02c]: Commencement: Sch. 2 para. 6 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-97765ee37ff654f71620917d8f30e02c]: Commencement: Sch. 2 para. 6 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-592f6f0212b9fb17eed9cc3be204877b]: Commencement: Sch. 2 para. 7 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-592f6f0212b9fb17eed9cc3be204877b]: Commencement: Sch. 2 para. 7 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-eb88c21a64f8803da160e22b93634e96]: Commencement: Sch. 2 para. 8 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-eb88c21a64f8803da160e22b93634e96]: Commencement: Sch. 2 para. 8 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00029]: Footnote: For the calculation of X<sub>LMF</sub>, <sub>MIN</sub>%, see the entry for “lumen maintenance factor (for LED and OLED)” in Table 5 of Schedule 3.
 
-[^key-9b122a226b351d8439af1b863367d1ae]: Commencement: Sch. 3 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-9b122a226b351d8439af1b863367d1ae]: Commencement: Sch. 3 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-257099599a5bd2691fe148809fc953d6]: Commencement: Sch. 3 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-257099599a5bd2691fe148809fc953d6]: Commencement: Sch. 3 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-d1437bd2b173c6c5d1836ac4a6900c6b]: Commencement: Sch. 3 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-d1437bd2b173c6c5d1836ac4a6900c6b]: Commencement: Sch. 3 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-cf069fd3ec1d8eee098b47ed128d8c98]: Commencement: Sch. 3 para. 4 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-cf069fd3ec1d8eee098b47ed128d8c98]: Commencement: Sch. 3 para. 4 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-c6f4f51e32492c4dd3a94caa0a82a97b]: Commencement: Sch. 3 para. 5 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-c6f4f51e32492c4dd3a94caa0a82a97b]: Commencement: Sch. 3 para. 5 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-d35679c1347b12b0f051b13dc11de7fc]: Commencement: Sch. 3 para. 6 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-d35679c1347b12b0f051b13dc11de7fc]: Commencement: Sch. 3 para. 6 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00030]: Footnote: [S.I. 2013/3113](https://www.legislation.gov.uk/uksi/2013/3113).
 
-[^key-f90312a1b33bb4f90beff9386cb71172]: Commencement: Sch. 3 para. 7 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-f90312a1b33bb4f90beff9386cb71172]: Commencement: Sch. 3 para. 7 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-54106c22a6d4824917fc86249272b859]: Commencement: Sch. 3 para. 8 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-54106c22a6d4824917fc86249272b859]: Commencement: Sch. 3 para. 8 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-d75028faeef1114f1479fabb3d1868fa]: Commencement: Sch. 3 para. 9 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-d75028faeef1114f1479fabb3d1868fa]: Commencement: Sch. 3 para. 9 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-912e4033634947a642dae561fa4036bd]: Commencement: Sch. 3 para. 10 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-912e4033634947a642dae561fa4036bd]: Commencement: Sch. 3 para. 10 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-6b282382a060031b8cfe70b0e0073db5]: Commencement: Sch. 3 para. 11 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-6b282382a060031b8cfe70b0e0073db5]: Commencement: Sch. 3 para. 11 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-0e14971a2818d8081f9cd9a529a21004]: Commencement: Sch. 4 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-0e14971a2818d8081f9cd9a529a21004]: Commencement: Sch. 4 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00031]: Footnote: [S.I. 2016/1107](https://www.legislation.gov.uk/uksi/2016/1107).
 
@@ -2139,84 +2139,84 @@ https://www.gov.uk/government/consultations/draft-ecodesign-and-energy-labelling
 
 [^f00038]: Footnote: [S.I. 2011/3066](https://www.legislation.gov.uk/uksi/2011/3066).
 
-[^key-a31fd13cc23a33bc12789f2b3c11a980]: Textual amendment: Word in [Sch. 4 para. 1(1)(j)](https://www.legislation.gov.uk/uksi/2021/1095/schedule/4/paragraph/1/1/j) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/16) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-a31fd13cc23a33bc12789f2b3c11a980]: Textual amendment: Word in [Sch. 4 para. 1(1)(j)](https://www.legislation.gov.uk/uksi/2021/1095/schedule/4/paragraph/1/1/j) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/16) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
 [^f00040]: Footnote: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618); relevant amending instruments are [S.I. 2008/2936](https://www.legislation.gov.uk/uksi/2008/2936) and [2019/791](https://www.legislation.gov.uk/uksi/2019/791).
 
-[^key-6ea28a579aa5423edef352d39f966ff4]: Commencement: Sch. 4 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-6ea28a579aa5423edef352d39f966ff4]: Commencement: Sch. 4 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00041]: Footnote: [S.I. 2021/745](https://www.legislation.gov.uk/uksi/2021/745).
 
 [^f00042]: Footnote: EUR 2013/617, as amended by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539).
 
-[^key-572935815d2dba88a2890ff79aa581f9]: Commencement: Sch. 4 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-572935815d2dba88a2890ff79aa581f9]: Commencement: Sch. 4 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00043]: Footnote: [S.I. 2006/346](https://www.legislation.gov.uk/uksi/2006/346).
 
-[^key-213899407a1a77e923f9fbae60cbf1ce]: Textual amendment: Words in [Sch. 4 para. 3(4)(a)](https://www.legislation.gov.uk/uksi/2021/1095/schedule/4/paragraph/3/4/a) substituted (10.4.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Household Tumble Dryers) Regulations 2026 (S.I. 2026/318)](https://www.legislation.gov.uk/uksi/2026/318), [regs. 2(1)(d)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/d), [18(3)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/18/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/318/regulation/4))
+[^c-213899407a1a77e923f9fbae60cbf1ce]: Textual amendment: Words in [Sch. 4 para. 3(4)(a)](https://www.legislation.gov.uk/uksi/2021/1095/schedule/4/paragraph/3/4/a) substituted (10.4.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Household Tumble Dryers) Regulations 2026 (S.I. 2026/318)](https://www.legislation.gov.uk/uksi/2026/318), [regs. 2(1)(d)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/d), [18(3)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/18/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/318/regulation/4))
 
-[^key-9605d45b5ab83f01539dbf37c9f14e6a]: Commencement: Sch. 5 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-9605d45b5ab83f01539dbf37c9f14e6a]: Commencement: Sch. 5 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-cad28e63e5a60c2c6f48a8d179621042]: Commencement: Sch. 5 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-cad28e63e5a60c2c6f48a8d179621042]: Commencement: Sch. 5 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-23e61a845f284cce551346319a14103a]: Commencement: Sch. 6 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-23e61a845f284cce551346319a14103a]: Commencement: Sch. 6 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-6f15d1e353ece64e88294b460fc9bf6d]: Commencement: Sch. 6 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-6f15d1e353ece64e88294b460fc9bf6d]: Commencement: Sch. 6 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
 [^f00045]: Footnote: EUR 2013/617, as amended by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539).
 
 [^f00046]: Footnote: EUR 2014/65, as amended by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539).
 
-[^key-07dfa380fb97ec1c6b4bb0e8585fc7a0]: Commencement: Sch. 6 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-07dfa380fb97ec1c6b4bb0e8585fc7a0]: Commencement: Sch. 6 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-0ab269fd56d207207b6d90257daaf830]: Textual amendment: Words in [Sch. 6 para. 3(4)(a)](https://www.legislation.gov.uk/uksi/2021/1095/schedule/6/paragraph/3/4/a) substituted (10.4.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Household Tumble Dryers) Regulations 2026 (S.I. 2026/318)](https://www.legislation.gov.uk/uksi/2026/318), [regs. 2(1)(d)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/d), [18(3)(b)](https://www.legislation.gov.uk/uksi/2026/318/regulation/18/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/318/regulation/4))
+[^c-0ab269fd56d207207b6d90257daaf830]: Textual amendment: Words in [Sch. 6 para. 3(4)(a)](https://www.legislation.gov.uk/uksi/2021/1095/schedule/6/paragraph/3/4/a) substituted (10.4.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Household Tumble Dryers) Regulations 2026 (S.I. 2026/318)](https://www.legislation.gov.uk/uksi/2026/318), [regs. 2(1)(d)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/d), [18(3)(b)](https://www.legislation.gov.uk/uksi/2026/318/regulation/18/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/318/regulation/4))
 
-[^key-8041a74d578b2e16a4f53ddc5bb413c9]: Commencement: Sch. 7 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-8041a74d578b2e16a4f53ddc5bb413c9]: Commencement: Sch. 7 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-7c34c308268268ad11caa6e66a0a1efa]: Commencement: Sch. 7 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-7c34c308268268ad11caa6e66a0a1efa]: Commencement: Sch. 7 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-ec8706b8754b41a36603bd33de71a9c1]: Commencement: Sch. 7 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-ec8706b8754b41a36603bd33de71a9c1]: Commencement: Sch. 7 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-45d75d7687cbef795635b31edb9b3f3c]: Commencement: Sch. 8 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-45d75d7687cbef795635b31edb9b3f3c]: Commencement: Sch. 8 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-c678c679dcaa0860c8221f3da05d56e7]: Commencement: Sch. 8 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-c678c679dcaa0860c8221f3da05d56e7]: Commencement: Sch. 8 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-341070274f3255ac97036f2415046835]: Commencement: Sch. 8 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-341070274f3255ac97036f2415046835]: Commencement: Sch. 8 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-f5cc892953ffc59bb94e5024b4995395]: Commencement: Sch. 8 para. 4 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-f5cc892953ffc59bb94e5024b4995395]: Commencement: Sch. 8 para. 4 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-3536b50e8487eb731fa7af5e97734ae0]: Commencement: Sch. 9 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-3536b50e8487eb731fa7af5e97734ae0]: Commencement: Sch. 9 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-075788b95fb10bad15c22614c8174abc]: Commencement: Sch. 10 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-075788b95fb10bad15c22614c8174abc]: Commencement: Sch. 10 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-b8dca25aa9f69efc608118b1dfbcb37f]: Commencement: Sch. 10 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-b8dca25aa9f69efc608118b1dfbcb37f]: Commencement: Sch. 10 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-05826c84fc18b81ea50ea18ee39d41a8]: Commencement: Sch. 10 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-05826c84fc18b81ea50ea18ee39d41a8]: Commencement: Sch. 10 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-acb3428f46e53a566f8bf25c41d8cf4c]: Commencement: Sch. 10 para. 4 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-acb3428f46e53a566f8bf25c41d8cf4c]: Commencement: Sch. 10 para. 4 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-851287e0edabe64f192a8fe4ddec2d4b]: Commencement: Sch. 11 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-851287e0edabe64f192a8fe4ddec2d4b]: Commencement: Sch. 11 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-28dd0b4d989b8755bddb56c3bc71d6c9]: Commencement: Sch. 11 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-28dd0b4d989b8755bddb56c3bc71d6c9]: Commencement: Sch. 11 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-b553978a5cef00ba821ee4815533dbb6]: Commencement: Sch. 11 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-b553978a5cef00ba821ee4815533dbb6]: Commencement: Sch. 11 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-e57510d6f4ca8ec4d608a6ee7e7d332d]: Commencement: Sch. 11 para. 4 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-e57510d6f4ca8ec4d608a6ee7e7d332d]: Commencement: Sch. 11 para. 4 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-8e75830209fcc11fdefb6d386989dfe0]: Commencement: Sch. 11 para. 5 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-8e75830209fcc11fdefb6d386989dfe0]: Commencement: Sch. 11 para. 5 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-7b66c62c6f7519181eb7342cde32f816]: Commencement: Sch. 12 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-7b66c62c6f7519181eb7342cde32f816]: Commencement: Sch. 12 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-a532f88c40784afb0a9605fd76111374]: Commencement: Sch. 13 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-a532f88c40784afb0a9605fd76111374]: Commencement: Sch. 13 para. 1 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-3db26516c9a238686b216137eca76c72]: Commencement: Sch. 13 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-3db26516c9a238686b216137eca76c72]: Commencement: Sch. 13 para. 2 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-9224a41e18fd629ce092f4b04f6a8a90]: Commencement: Sch. 13 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-9224a41e18fd629ce092f4b04f6a8a90]: Commencement: Sch. 13 para. 3 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-ffb18c5f332cdf474823e17bc8352fa7]: Commencement: Sch. 13 para. 4 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-ffb18c5f332cdf474823e17bc8352fa7]: Commencement: Sch. 13 para. 4 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-1963b31461b1165a9b9ac043168becdc]: Commencement: Sch. 13 para. 5 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-1963b31461b1165a9b9ac043168becdc]: Commencement: Sch. 13 para. 5 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-2c6b4aefd8c59cbc9d9d4b1966c6887d]: Commencement: Sch. 13 para. 6 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-2c6b4aefd8c59cbc9d9d4b1966c6887d]: Commencement: Sch. 13 para. 6 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
 
-[^key-f4ee3f108b7d039dd9ec14d6726c7cbf]: Commencement: Sch. 13 para. 7 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)
+[^c-f4ee3f108b7d039dd9ec14d6726c7cbf]: Commencement: Sch. 13 para. 7 in force at 1.10.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2)

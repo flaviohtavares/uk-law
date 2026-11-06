@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 28
 
-**1.**[^key-09342ad0b32a7a1ba4c9f9d940448804] (1) In this Schedule—
+**1.**[^c-09342ad0b32a7a1ba4c9f9d940448804] (1) In this Schedule—
 
 - (a) references to the number of pupils—
   - (i) for the purposes of the previous funding period, exclude those funded by a sixth form grant; and
@@ -73,31 +73,31 @@ Regulation 28
 
 in both cases adjusted in accordance with paragraph 1(e) or (f), whichever is applicable.
 
-**2.**[^key-697f69fc7c208ad74f10e765f8f3e79e] Where (A/B) is less than (C/D) then the guaranteed funding level is (C/D) x B where—
+**2.**[^c-697f69fc7c208ad74f10e765f8f3e79e] Where (A/B) is less than (C/D) then the guaranteed funding level is (C/D) x B where—
 
 - A is the redetermined adjusted budget share, calculated by the local authority, for the funding period;
 - B is the relevant number of pupils in the funding period;
 - C is the redetermined adjusted budget share for the previous funding period multiplied by the minimum funding number; and
 - D is the relevant number of pupils in the previous funding period.
 
-**3.**[^key-dae92a2fdc1e8b585e7c3d7f7f2e683a] Where a new school opens during the funding period and is a replacement for two or more schools being discontinued during the funding period, its guaranteed funding level must be calculated in accordance with paragraph 2, subject to paragraph 4.
+**3.**[^c-dae92a2fdc1e8b585e7c3d7f7f2e683a] Where a new school opens during the funding period and is a replacement for two or more schools being discontinued during the funding period, its guaranteed funding level must be calculated in accordance with paragraph 2, subject to paragraph 4.
 
-**4.**[^key-3e81d99cea0f9baaff2e2d8503342311] In calculating the guaranteed level of funding under paragraph 3 the relevant number of pupils in the previous funding period under paragraph 1(1)(b) is the sum of the relevant number of pupils in the discontinued schools on 5th October 2023.
+**4.**[^c-3e81d99cea0f9baaff2e2d8503342311] In calculating the guaranteed level of funding under paragraph 3 the relevant number of pupils in the previous funding period under paragraph 1(1)(b) is the sum of the relevant number of pupils in the discontinued schools on 5th October 2023.
 
-**5.**[^key-d0fd01e16b998c0d522c49b194e899a7] In calculating the redetermined adjusted budget share for the previous funding period, the local authority may exclude any amounts allocated pursuant to regulation 42(1)(d) (exceptional premises costs) if it also excludes the amount from the redetermined adjusted budget share calculated for the funding period.
+**5.**[^c-d0fd01e16b998c0d522c49b194e899a7] In calculating the redetermined adjusted budget share for the previous funding period, the local authority may exclude any amounts allocated pursuant to regulation 42(1)(d) (exceptional premises costs) if it also excludes the amount from the redetermined adjusted budget share calculated for the funding period.
 
 ## Annotations
 
-[^key-09342ad0b32a7a1ba4c9f9d940448804]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2025/42/schedule/3/paragraph/1) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-09342ad0b32a7a1ba4c9f9d940448804]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2025/42/schedule/3/paragraph/1) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
 
 [^f00145]: Footnote: “The teachers’ pay additional grant”, “the teachers’ pension employer contribution grant” and “the core schools budget grant”, are the names of three grants paid to a local authority by the Secretary of State under section 14 of the 2002 Act.
 
 [^f00146]: Footnote: The authority proforma tool is provided to local authorities to enable them to detail their schools block funding formulae. The 2025 – 2026 authority proforma tool can be found in a document entitled “Authority Proforma Tool (APT): purpose and process – instructions for local authorities for 2025 to 2026”, published in December 2024, which is available at https://www.gov.uk/government/publications/how-to-complete-the-authority-proforma-tool-apt-2025-to-2026. A printed copy may also be inspected at the Department for Education, Sanctuary Buildings, Great Smith Street, London SW1P 3BT, upon request.
 
-[^key-697f69fc7c208ad74f10e765f8f3e79e]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2025/42/schedule/3/paragraph/2) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-697f69fc7c208ad74f10e765f8f3e79e]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2025/42/schedule/3/paragraph/2) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
 
-[^key-dae92a2fdc1e8b585e7c3d7f7f2e683a]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2025/42/schedule/3/paragraph/3) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-dae92a2fdc1e8b585e7c3d7f7f2e683a]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2025/42/schedule/3/paragraph/3) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
 
-[^key-3e81d99cea0f9baaff2e2d8503342311]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2025/42/schedule/3/paragraph/4) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-3e81d99cea0f9baaff2e2d8503342311]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2025/42/schedule/3/paragraph/4) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
 
-[^key-d0fd01e16b998c0d522c49b194e899a7]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2025/42/schedule/3/paragraph/5) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-d0fd01e16b998c0d522c49b194e899a7]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2025/42/schedule/3/paragraph/5) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261. Local Government Act 1974: minor amendment[^key-96dce8741340ea34d9bef0bc6a793744]
+## 261. Local Government Act 1974: minor amendment[^c-96dce8741340ea34d9bef0bc6a793744]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In paragraph 5(2) of Schedule 5 to the Local Government Act 1974 (c. 7) (exclusi
 
 ## Annotations
 
-[^key-96dce8741340ea34d9bef0bc6a793744]: Commencement: S. 261 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-96dce8741340ea34d9bef0bc6a793744]: Commencement: S. 261 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)

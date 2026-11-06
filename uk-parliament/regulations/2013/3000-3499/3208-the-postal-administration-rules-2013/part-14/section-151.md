@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 151. Costs, expenses, etc[^key-9f0e7d113f290a6b0f1071343e5cb6dc]
+## 151. Costs, expenses, etc[^c-9f0e7d113f290a6b0f1071343e5cb6dc]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f0e7d113f290a6b0f1071343e5cb6dc]: Commencement: [Rule 151](https://www.legislation.gov.uk/uksi/2013/3208/rule/151) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-9f0e7d113f290a6b0f1071343e5cb6dc]: Commencement: [Rule 151](https://www.legislation.gov.uk/uksi/2013/3208/rule/151) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

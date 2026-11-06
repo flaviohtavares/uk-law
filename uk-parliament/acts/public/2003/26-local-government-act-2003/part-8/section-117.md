@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Generally accepted accounting practice: power to amend enactments[^key-86d7c6fe90c8c76cec754182eda21e67][^key-377d2526b3a8439152dab80780d07562]
+## 117. Generally accepted accounting practice: power to amend enactments[^c-86d7c6fe90c8c76cec754182eda21e67][^c-377d2526b3a8439152dab80780d07562]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-86d7c6fe90c8c76cec754182eda21e67]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2003/26/section/117) in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-86d7c6fe90c8c76cec754182eda21e67]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2003/26/section/117) in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-377d2526b3a8439152dab80780d07562]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2003/26/section/117) in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
+[^c-377d2526b3a8439152dab80780d07562]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2003/26/section/117) in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)

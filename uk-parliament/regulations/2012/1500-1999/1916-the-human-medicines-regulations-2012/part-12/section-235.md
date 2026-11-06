@@ -62,8 +62,8 @@ summary: ''
 - (b) the product is a medicinal product subject to general sale that is listed in the corresponding paragraph in column 2 of that Part; and
 - (c) the condition specified in the corresponding paragraph in column 3 of that Part is met.
 
-(8)[^key-87a8fb049275deab92edb3c91ac869bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-87a8fb049275deab92edb3c91ac869bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-87a8fb049275deab92edb3c91ac869bc]: Textual amendment: Reg. 235(8) omitted (31.3.2022) by virtue of [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2022 (S.I. 2022/350)](https://www.legislation.gov.uk/uksi/2022/350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/350/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/350/regulation/7)
+[^c-87a8fb049275deab92edb3c91ac869bc]: Textual amendment: Reg. 235(8) omitted (31.3.2022) by virtue of [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2022 (S.I. 2022/350)](https://www.legislation.gov.uk/uksi/2022/350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/350/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/350/regulation/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Notional expenditure: candidates in local government elections[^key-8cb8d1ca058d3cb4cfbd32273952faa8][^key-4d324ff65be66a4e47baccd2d2322e55]
+## 32. Notional expenditure: candidates in local government elections[^c-8cb8d1ca058d3cb4cfbd32273952faa8][^c-4d324ff65be66a4e47baccd2d2322e55]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In section 90C(1A) of the 1983 Act (making use of property etc. on behalf of a c
 
 ## Annotations
 
-[^key-8cb8d1ca058d3cb4cfbd32273952faa8]: Commencement: S. 32 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-8cb8d1ca058d3cb4cfbd32273952faa8]: Commencement: S. 32 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-4d324ff65be66a4e47baccd2d2322e55]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2024/5/section/32) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(g)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/g)
+[^c-4d324ff65be66a4e47baccd2d2322e55]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2024/5/section/32) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(g)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/g)

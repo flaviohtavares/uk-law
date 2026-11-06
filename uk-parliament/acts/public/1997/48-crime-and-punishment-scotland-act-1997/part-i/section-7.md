@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Effect of hospital direction.[^key-325780edfb069e3be95bbeafc776b6de]
+## 7. Effect of hospital direction.[^c-325780edfb069e3be95bbeafc776b6de]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-325780edfb069e3be95bbeafc776b6de]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1997/48/section/7) repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-325780edfb069e3be95bbeafc776b6de]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1997/48/section/7) repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

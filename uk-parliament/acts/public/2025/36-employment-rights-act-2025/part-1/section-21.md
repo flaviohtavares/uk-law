@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Harassment by third parties[^key-f6b4e74c53043b3dd96bd2c4e96ea5c0][^key-71669d3724e61a96b3d58af377fe48f3]
+## 21. Harassment by third parties[^c-f6b4e74c53043b3dd96bd2c4e96ea5c0][^c-71669d3724e61a96b3d58af377fe48f3]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ In section 40 of the Equality Act 2010 (employees and applicants: harassment), a
 
 ## Annotations
 
-[^key-f6b4e74c53043b3dd96bd2c4e96ea5c0]: Commencement: S. 21 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-f6b4e74c53043b3dd96bd2c4e96ea5c0]: Commencement: S. 21 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-71669d3724e61a96b3d58af377fe48f3]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2025/36/section/21) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/b)
+[^c-71669d3724e61a96b3d58af377fe48f3]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2025/36/section/21) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/b)

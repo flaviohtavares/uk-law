@@ -32,7 +32,7 @@ summary: ''
 
 Housing
 
-The Rent Adjudication (Temporary Modifications) (Scotland) Regulations 2024 (revoked)[^key-bbbdb37a011cb678491f10e788f482e6]
+The Rent Adjudication (Temporary Modifications) (Scotland) Regulations 2024 (revoked)[^c-bbbdb37a011cb678491f10e788f482e6]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 1st April 2024
 
-[^key-bbbdb37a011cb678491f10e788f482e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbbdb37a011cb678491f10e788f482e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, expiry and interpretation[^key-bbbdb37a011cb678491f10e788f482e6]
+## 1. Citation, commencement, expiry and interpretation[^c-bbbdb37a011cb678491f10e788f482e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Private residential tenancies[^key-bbbdb37a011cb678491f10e788f482e6]
+## 2. Private residential tenancies[^c-bbbdb37a011cb678491f10e788f482e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Statutory assured tenancies[^key-bbbdb37a011cb678491f10e788f482e6]
+## 3. Statutory assured tenancies[^c-bbbdb37a011cb678491f10e788f482e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bbbdb37a011cb678491f10e788f482e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbbdb37a011cb678491f10e788f482e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bbbdb37a011cb678491f10e788f482e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbbdb37a011cb678491f10e788f482e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bbbdb37a011cb678491f10e788f482e6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2024/89) expired (1.4.2025) by [The Rent Adjudication (Temporary Modifications) (Scotland) Regulations 2024 (S.S.I. 2024/89)](https://www.legislation.gov.uk/ssi/2024/89), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/89/regulation/1/2) (with savings for expiry in [S.S.I. 2025/29](https://www.legislation.gov.uk/ssi/2025/29), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/29/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2025/29/regulation/2))
+[^c-bbbdb37a011cb678491f10e788f482e6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2024/89) expired (1.4.2025) by [The Rent Adjudication (Temporary Modifications) (Scotland) Regulations 2024 (S.S.I. 2024/89)](https://www.legislation.gov.uk/ssi/2024/89), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/89/regulation/1/2) (with savings for expiry in [S.S.I. 2025/29](https://www.legislation.gov.uk/ssi/2025/29), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/29/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2025/29/regulation/2))

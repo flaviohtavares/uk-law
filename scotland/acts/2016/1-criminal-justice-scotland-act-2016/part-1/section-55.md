@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Abolition of requirement for constable to charge[^key-58a0dd251bbe68cf65cf89f7e86b3e06][^key-84119cd14947dab8cd67cab113e00c7b]
+## 55. Abolition of requirement for constable to charge[^c-58a0dd251bbe68cf65cf89f7e86b3e06][^c-84119cd14947dab8cd67cab113e00c7b]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Any rule of law that requires a constable to charge a person with an offence in 
 
 ## Annotations
 
-[^key-58a0dd251bbe68cf65cf89f7e86b3e06]: Commencement: S. 55 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-58a0dd251bbe68cf65cf89f7e86b3e06]: Commencement: S. 55 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
 
-[^key-84119cd14947dab8cd67cab113e00c7b]: Modification: S. 55 applied (with modifications) (25.1.2018) by [The Police Investigations and Review Commissioner (Application and Modification of the Criminal Justice (Scotland) Act 2016) Order 2017 (S.S.I. 2017/465)](https://www.legislation.gov.uk/ssi/2017/465), [arts. 1](https://www.legislation.gov.uk/ssi/2017/465/article/1)-[4](https://www.legislation.gov.uk/ssi/2017/465/article/2)
+[^c-84119cd14947dab8cd67cab113e00c7b]: Modification: S. 55 applied (with modifications) (25.1.2018) by [The Police Investigations and Review Commissioner (Application and Modification of the Criminal Justice (Scotland) Act 2016) Order 2017 (S.S.I. 2017/465)](https://www.legislation.gov.uk/ssi/2017/465), [arts. 1](https://www.legislation.gov.uk/ssi/2017/465/article/1)-[4](https://www.legislation.gov.uk/ssi/2017/465/article/2)

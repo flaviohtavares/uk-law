@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Emergency powers and consents[^key-e67734452eba66eac740fd4aba972848]
+## 41. Emergency powers and consents[^c-e67734452eba66eac740fd4aba972848]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Agency’s powers under articles 37 (removal of vessels) and 39 (removal of 
 
 ## Annotations
 
-[^key-e67734452eba66eac740fd4aba972848]: Commencement: Art. 41 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-e67734452eba66eac740fd4aba972848]: Commencement: Art. 41 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

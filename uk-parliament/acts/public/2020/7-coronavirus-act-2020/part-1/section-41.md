@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Statutory sick pay: modification of regulation making powers[^key-85b4d13d1c651c29aeab52bc4bb9f4a7]
+## 41. Statutory sick pay: modification of regulation making powers[^c-85b4d13d1c651c29aeab52bc4bb9f4a7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85b4d13d1c651c29aeab52bc4bb9f4a7]: Textual amendment: [S. 41](https://www.legislation.gov.uk/ukpga/2020/7/section/41) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-85b4d13d1c651c29aeab52bc4bb9f4a7]: Textual amendment: [S. 41](https://www.legislation.gov.uk/ukpga/2020/7/section/41) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

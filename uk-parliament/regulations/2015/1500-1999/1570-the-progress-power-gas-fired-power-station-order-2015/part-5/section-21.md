@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Compulsory acquisition of rights etc.[^key-f29faee0decbaa8b8150cdf129ea1512]
+## 21. Compulsory acquisition of rights etc.[^c-f29faee0decbaa8b8150cdf129ea1512]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f29faee0decbaa8b8150cdf129ea1512]: Commencement: Art. 21 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-f29faee0decbaa8b8150cdf129ea1512]: Commencement: Art. 21 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)

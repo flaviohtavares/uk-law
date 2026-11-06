@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270. Sentence of detention in a young offender institution where offender subject to detention and training order[^key-bbd35a9b271d28cb52378a7610674e0e][^key-d4e955a04b720d51c6143fc03ac03bf9]
+## 270. Sentence of detention in a young offender institution where offender subject to detention and training order[^c-bbd35a9b271d28cb52378a7610674e0e][^c-d4e955a04b720d51c6143fc03ac03bf9]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bbd35a9b271d28cb52378a7610674e0e]: Commencement: S. 270 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-bbd35a9b271d28cb52378a7610674e0e]: Commencement: S. 270 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-d4e955a04b720d51c6143fc03ac03bf9]: Modification: S. 270 modified by 2006 c. 52, s. 213(2)(d) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 33(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/33/2) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-d4e955a04b720d51c6143fc03ac03bf9]: Modification: S. 270 modified by 2006 c. 52, s. 213(2)(d) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 33(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/33/2) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Application of the 1991 Act[^key-65f1edd63bd6e61aea2e6085774bb0ed]
+## 8. Application of the 1991 Act[^c-65f1edd63bd6e61aea2e6085774bb0ed]
 
 *Extent: E+W+S*
 
-(1) Works carried out under this Order in relation to a highway which consists of or includes a carriageway are to be treated[^key-13df3f60406312724b3584ee1c9fe21c] for the purposes of Part 3 (street works in England and Wales) of the 1991 Act as major highway works if—
+(1) Works carried out under this Order in relation to a highway which consists of or includes a carriageway are to be treated[^c-13df3f60406312724b3584ee1c9fe21c] for the purposes of Part 3 (street works in England and Wales) of the 1991 Act as major highway works if—
 
 - (a) they are of a description mentioned in any of paragraphs (a), (c) to (e), (g) and (h) of section 86(3) (highway authorities, highways and related matters) of the 1991 Act; or
 - (b) they are works which, had they been executed by the relevant highway authority, might have been carried out in exercise of the powers conferred by section 64[^f00043] (dual carriageways and roundabouts) of the 1980 Act.
@@ -29,7 +29,7 @@ summary: ''
 
 (3) The following provisions of the 1991 Act do not apply in relation to any works constructed under the powers of this Order—
 
-- (a) section 56[^f00044] (directions as to timing [^key-67da77d5c909c47359d29c02bda90535]... of street works);
+- (a) section 56[^f00044] (directions as to timing [^c-67da77d5c909c47359d29c02bda90535]... of street works);
 - (b) section 56A[^f00045] (powers to give directions as to placing of apparatus);
 - (c) section 58[^f00046] (restriction on works following substantial road works);
 - (d) section 58A[^f00047] (restriction on works following substantial street works);
@@ -68,15 +68,15 @@ and all such other provisions as apply for the purpose of the provisions mention
 
 ## Annotations
 
-[^key-65f1edd63bd6e61aea2e6085774bb0ed]: Commencement: Art. 8 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-65f1edd63bd6e61aea2e6085774bb0ed]: Commencement: Art. 8 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
-[^key-13df3f60406312724b3584ee1c9fe21c]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/uksi/2025/165/article/8/1) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-13df3f60406312724b3584ee1c9fe21c]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/uksi/2025/165/article/8/1) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
 
 [^f00043]: Footnote: Section 64 was amended by Schedule 17 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and Schedule 9 to the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
 
 [^f00044]: Footnote: Section 56 was amended by sections 40 and 43 of, and paragraph 1 of Schedule 1 to, the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-67da77d5c909c47359d29c02bda90535]: Textual amendment: Words in [art. 8(3)(a)](https://www.legislation.gov.uk/uksi/2025/165/article/8/3/a) omitted (2.7.2025) by virtue of [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-67da77d5c909c47359d29c02bda90535]: Textual amendment: Words in [art. 8(3)(a)](https://www.legislation.gov.uk/uksi/2025/165/article/8/3/a) omitted (2.7.2025) by virtue of [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
 
 [^f00045]: Footnote: Section 56A was inserted by section 44 of the Traffic Management Act 2004.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.41. Notice of court order ending housing administration[^key-43530fb8d47b9e120eac841db4309c43]
+## 3.41. Notice of court order ending housing administration[^c-43530fb8d47b9e120eac841db4309c43]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ Where the court makes an order ending the housing administration, the applicant 
 
 ## Annotations
 
-[^key-43530fb8d47b9e120eac841db4309c43]: Commencement: Rule 3.41 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-43530fb8d47b9e120eac841db4309c43]: Commencement: Rule 3.41 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 144. Premises used for election purposes[^key-905f30f568f3d49b4cb721130d38ccb6]
+## 144. Premises used for election purposes[^c-905f30f568f3d49b4cb721130d38ccb6]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In relation to premises in Wales, section 65(6) of the Local Government Finance 
 
 ## Annotations
 
-[^key-905f30f568f3d49b4cb721130d38ccb6]: Commencement: Art. 144 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-905f30f568f3d49b4cb721130d38ccb6]: Commencement: Art. 144 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00070]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).

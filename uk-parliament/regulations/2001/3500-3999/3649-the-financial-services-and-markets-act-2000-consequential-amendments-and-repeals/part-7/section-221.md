@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221. Financial Services and Markets Act 2000 disapplied to certain health service schemes[^key-7bea70d275c34d446800c22a348dfb13]
+## 221. Financial Services and Markets Act 2000 disapplied to certain health service schemes[^c-7bea70d275c34d446800c22a348dfb13]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 85B(5)[^f00161] of the National Health Service (Scotland) Act 1978 (s
 
 ## Annotations
 
-[^key-7bea70d275c34d446800c22a348dfb13]: Commencement: Art. 221 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7bea70d275c34d446800c22a348dfb13]: Commencement: Art. 221 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00161]: Footnote: Section 85B was inserted by the National Health Service and Community Care Act [1990 (c. 19](https://www.legislation.gov.uk/ukpga/1990/19), S.I.F 113:2), section 41.

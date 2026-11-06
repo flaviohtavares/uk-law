@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Power to make provision relating to terms of occupation contracts[^key-1d2349e1cbd28fd18bf5038d44026847]
+## 75. Power to make provision relating to terms of occupation contracts[^c-1d2349e1cbd28fd18bf5038d44026847]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d2349e1cbd28fd18bf5038d44026847]: Commencement: S. 75 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-1d2349e1cbd28fd18bf5038d44026847]: Commencement: S. 75 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

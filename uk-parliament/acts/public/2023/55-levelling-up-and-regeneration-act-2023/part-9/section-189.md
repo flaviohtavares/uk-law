@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Prospects of planning permission for alternative development[^key-fecbe94ae02b0932ed25fd51dd6185a9][^key-5382ba477a27b0511da0f59ca9182299]
+## 189. Prospects of planning permission for alternative development[^c-fecbe94ae02b0932ed25fd51dd6185a9][^c-5382ba477a27b0511da0f59ca9182299]
 
 *Extent: E+W*
 
@@ -142,6 +142,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fecbe94ae02b0932ed25fd51dd6185a9]: Commencement: S. 189 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-fecbe94ae02b0932ed25fd51dd6185a9]: Commencement: S. 189 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-5382ba477a27b0511da0f59ca9182299]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2023/55/section/189) in force at 31.1.2025 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 5](https://www.legislation.gov.uk/uksi/2024/92/regulation/5) (with [reg. 6(3)-(5)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/3))
+[^c-5382ba477a27b0511da0f59ca9182299]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2023/55/section/189) in force at 31.1.2025 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 5](https://www.legislation.gov.uk/uksi/2024/92/regulation/5) (with [reg. 6(3)-(5)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/3))

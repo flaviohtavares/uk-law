@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97B. Furnishing of information and documents to Commission.[^c9676461][^key-8d9d8ed73a454973c3145f4094b55f8e]
+## 97B. Furnishing of information and documents to Commission.[^c9676461][^c-8d9d8ed73a454973c3145f4094b55f8e]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ to furnish the Commission or any person authorised by it with all such informati
 
 [^c9676461]: Modification: [S. 97B](https://www.legislation.gov.uk/ukpga/1973/65/section/97B) applied (*temp.* from 6.4.1995 until 1.4.1996) by [S.I. 1995/789](https://www.legislation.gov.uk/uksi/1995/789), [art. 2](https://www.legislation.gov.uk/uksi/1995/789/article/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/1995/789/schedule/paragraph/3)
 
-[^key-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
+[^c-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
 
 [^c19246811]: Textual amendment: [S. 97B(1)](https://www.legislation.gov.uk/ukpga/1973/65/section/97B/1): "(a)" inserted (1.4.2003) by Local Government in [Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 54(1)(a)](https://www.legislation.gov.uk/asp/2003/1/section/54/1/a), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 

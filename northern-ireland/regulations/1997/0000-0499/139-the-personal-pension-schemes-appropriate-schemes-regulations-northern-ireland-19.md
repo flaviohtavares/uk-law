@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 3(1)(*b*), (6) and (7), 5(5) and (6), 22, 30(1) and (8), 39(1) and (3), 40(1) and (2), 41(3), 41B, 151, 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-9ef5ab303b2afeaa24d9fe0b4ebb96c4]
+## 1. Citation, commencement and interpretation[^c-9ef5ab303b2afeaa24d9fe0b4ebb96c4]
 
 (1) These Regulations may be cited as the Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
 
@@ -63,7 +63,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (5) In these Regulations any reference to a numbered section is a reference to the section of the Pension Schemes (Northern Ireland) Act 1993 bearing that number.
 
-## 2. Forms of schemes which may be appropriate schemes[^key-4cac32bad8622694803e82073a32c98a]
+## 2. Forms of schemes which may be appropriate schemes[^c-4cac32bad8622694803e82073a32c98a]
 
 (1) A personal pension scheme can be an appropriate scheme only if it is approved by the Commissioners of Inland Revenue under either—
 
@@ -80,7 +80,7 @@ and in either case it takes one of the forms (but not more than one) specified i
 
 (3) For the purposes of paragraph (2)(*c*) the rules of the personal pension scheme shall provide that, at the minimum, there shall be invested in the interest-bearing account any payments which, under section 6(3) or under regulation 3 of the Personal and Occupational Pension Schemes (Protected Rights) Regulations (Northern Ireland) 1997[^f00010], are those from which are derived protected rights.
 
-## 3. Persons who and bodies which may establish schemes[^key-335f77481ba8de1dbed75d413c4b6780]
+## 3. Persons who and bodies which may establish schemes[^c-335f77481ba8de1dbed75d413c4b6780]
 
 (1) An arrangement such as is described in—
 
@@ -98,7 +98,7 @@ and in either case it takes one of the forms (but not more than one) specified i
 
 (4) Paragraph (3)(*d*) applies subject to the conditions that the rules of any appropriate scheme established by such a body require that the resources of the scheme be invested with an institution such as is mentioned in paragraph (3)(*c*), and further provide that the rights arising from such investments, in so far as they are attributable to the contributions made by or on behalf of a member, shall be held by that body on trust for that member.
 
-## 4. Requirements in respect of an application for an appropriate scheme certificate[^key-9a94543103828608c6c1694d0a31db11]
+## 4. Requirements in respect of an application for an appropriate scheme certificate[^c-9a94543103828608c6c1694d0a31db11]
 
 (1) Every application for an appropriate scheme certificate (“the certificate”) shall be made in writing to the Department and shall include—
 
@@ -120,11 +120,11 @@ except where the Department in its discretion dispenses wholly or partly with th
 
 (3) Every person who has made an application shall supply such other documents and information as the Department may reasonably require.
 
-## 5. Issue of appropriate scheme certificates[^key-040f0f08720ed2c8a48506164964f809]
+## 5. Issue of appropriate scheme certificates[^c-040f0f08720ed2c8a48506164964f809]
 
 When the Department has determined that a personal pension scheme is, or at any time was, an appropriate scheme, it shall issue an appropriate scheme certificate so stating to the person who applied for that certificate.
 
-## 6. Requirement to give the Department information[^key-0b9a3e6417f9272fda0ff079eb2ac33f]
+## 6. Requirement to give the Department information[^c-0b9a3e6417f9272fda0ff079eb2ac33f]
 
 The administrators of the scheme shall furnish the Department—
 
@@ -137,11 +137,11 @@ The administrators of the scheme shall furnish the Department—
 
   as soon as practical after its occurrence.
 
-## 7. Cancellation, variation and surrender of an appropriate scheme certificate[^key-9aff8e3940eb2d782d77e232d26d144b]
+## 7. Cancellation, variation and surrender of an appropriate scheme certificate[^c-9aff8e3940eb2d782d77e232d26d144b]
 
 An appropriate scheme certificate may be cancelled, varied or surrendered where there is any change in respect of the information which was provided by virtue of regulations 4 and 6.
 
-## 8. Applications for the variation of, and to surrender, appropriate scheme certificates[^key-01084d14a0b1ef2f5b4728577a88b4a7]
+## 8. Applications for the variation of, and to surrender, appropriate scheme certificates[^c-01084d14a0b1ef2f5b4728577a88b4a7]
 
 (1) Every application for the variation of, or to surrender, an appropriate scheme certificate—
 
@@ -164,14 +164,14 @@ by sending it to his last known address.
 
 (4) Every person who makes an application under this regulation shall supply such other documents and information as the Department may reasonably require.
 
-## 9. Cancellation of an appropriate scheme certificate[^key-8c7193903c4ef86e9c67ee5c47f7ee16]
+## 9. Cancellation of an appropriate scheme certificate[^c-8c7193903c4ef86e9c67ee5c47f7ee16]
 
 For the purpose of section 30(8) (no cancellation of an appropriate scheme certificate shall have effect from a date earlier than that on which the cancellation is made except in prescribed circumstances) the prescribed circumstance is where the Department considers that the scheme has failed to satisfy the requirements for continuing to be an appropriate scheme before the date cancellation is made and in such a case the date of effect of the cancellation—
 
 - (a) shall not be a date other than 6th April in any year; and
 - (b) shall not be earlier than 6th April in the tax year in which the Department considers that the scheme first failed to satisfy those requirements.
 
-## 10. Notice under section 40(1)[^key-53cacbf8f0c5910b46c63fe46163dc26]
+## 10. Notice under section 40(1)[^c-53cacbf8f0c5910b46c63fe46163dc26]
 
 (1) A notice under section 40(1) (notice of earner’s chosen scheme) shall be given in writing in such form as the Department may in its discretion accept.
 
@@ -184,7 +184,7 @@ For the purpose of section 30(8) (no cancellation of an appropriate scheme certi
 - (a) the date 6 months earlier than that on which the Department receives the notice; and
 - (b) 6th April in the tax year in which the Department receives the notice.
 
-## 11. Notice under section 40(2)[^key-d47eb35f5c44867a01cdcbd889839df0]
+## 11. Notice under section 40(2)[^c-d47eb35f5c44867a01cdcbd889839df0]
 
 (1) A notice under section 40(2) (cancellation of a notice given under section 40(1)) shall be given in writing and in such form as the Department may in its discretion accept.
 
@@ -192,7 +192,7 @@ For the purpose of section 30(8) (no cancellation of an appropriate scheme certi
 
 (3) Where notice under section 40(2) is given by the earner and not by the trustees or managers of the scheme the date shall be at least a year later than the date specified in the notice given under section 40(1).
 
-## 12. Circumstances in which minimum contributions are not to be paid[^key-fbd724a57306937e3b29ee38daf369b9]
+## 12. Circumstances in which minimum contributions are not to be paid[^c-fbd724a57306937e3b29ee38daf369b9]
 
 (1) Minimum contributions shall not be paid in respect of an earner for the tax year or any part of the tax year in which that earner—
 
@@ -225,18 +225,18 @@ that additional amount of minimum contributions shall be payable for any tax yea
 
 (9) Where effect has been given to the earner’s protected rights by the making of payments under an interim arrangement, minimum contributions shall continue to be payable to the trustees or managers of the earner’s chosen scheme.
 
-## 13. Manner of payment of minimum contributions[^key-cd12f21bf7e987c5b7c5aa24f50c7958]
+## 13. Manner of payment of minimum contributions[^c-cd12f21bf7e987c5b7c5aa24f50c7958]
 
 Minimum contributions shall be paid—
 
 - (a) by automated credit transfer into a bank or building society account which relates to the relevant scheme and which accepts payments made by automated credit transfer; or
 - (b) in such other manner as the Department may in its discretion approve.
 
-## 14. Allocation of minimum contributions[^key-2f6b50bb90f498ec94cc368744165616]
+## 14. Allocation of minimum contributions[^c-2f6b50bb90f498ec94cc368744165616]
 
 A personal pension scheme can be an appropriate scheme only if the rules of the scheme provide that any minimum contributions falling to be applied so as to provide benefits in respect of a member are to be so applied from the date on which payment is made by the Department in accordance with regulation 13 and that such minimum contributions are to be allocated to that member’s account within 3 months of that date.
 
-## 15. Calculation or estimation of earnings[^key-e3369fe28e72492e413481ac0fdc1203]
+## 15. Calculation or estimation of earnings[^c-e3369fe28e72492e413481ac0fdc1203]
 
 (1) In relation to any tax year, the earnings of an earner shall be calculated or estimated, for the purposes of section 41(1)[^f00018], on the basis mentioned in this regulation.
 
@@ -267,17 +267,17 @@ A personal pension scheme can be an appropriate scheme only if the rules of the 
 - (d) S is the total earnings, in so far as the earnings for each week equalled or exceeded L but did not exceed U, paid to or for the benefit of the earner in relation to the tax year in question, in relation to which primary Class 1 contributions have been paid with respect to employments that are contracted-out; and
 - (e) U is the upper earnings limit for the tax year in question.
 
-## 16. Calculation of minimum contributions[^key-a5a3e6d3de0e0cfe6e778fbbbb01b95c]
+## 16. Calculation of minimum contributions[^c-a5a3e6d3de0e0cfe6e778fbbbb01b95c]
 
 (1) For the purposes of determining the appropriate age-related percentage for the purposes of section 41(1), the Department may require an earner to send documentary evidence of his date of birth.
 
 (2) For the purposes of section 41B(2)(*b*) (disclosure of information held as to the age of an individual by the Department to trustees or managers of an appropriate scheme and such other persons as may be prescribed) the prescribed person shall be the person who is responsible for administering the scheme.
 
-## 17. Adjustment of amount of minimum contributions[^key-e6359045eb4b5be8784f6a049086e0e4]
+## 17. Adjustment of amount of minimum contributions[^c-e6359045eb4b5be8784f6a049086e0e4]
 
 Where the amount of minimum contributions payable in respect of an earner in relation to a tax year would otherwise not be a whole number of pence, it shall be adjusted to the nearest whole number of pence, and any amount of half a penny or less shall be disregarded.
 
-## 18. Cancellation of membership of interest-bearing account-funded appropriate schemes[^key-027c28e9d275f2e1053ceb65b0e0b7d6]
+## 18. Cancellation of membership of interest-bearing account-funded appropriate schemes[^c-027c28e9d275f2e1053ceb65b0e0b7d6]
 
 (1) A personal pension scheme which comprises an arrangement of the kind described in regulation 2(2)(*c*) can be an appropriate scheme only if it satisfies the requirements of paragraph (2).
 
@@ -293,11 +293,11 @@ Where the amount of minimum contributions payable in respect of an earner in rel
 
 (3) Where a counter-notice of the kind mentioned in paragraph (2)(*b*) is properly addressed, pre-paid and served by ordinary post, it shall be deemed to have been duly served on the day on which it was posted.
 
-## 19. Transitional provision in respect of earnings[^key-92b376636ead66e80b87cb77fb2be8be]
+## 19. Transitional provision in respect of earnings[^c-92b376636ead66e80b87cb77fb2be8be]
 
 For the purposes of paying minimum contributions in respect of an employed earner for any period up to and including the tax year 1996-1997, regulations 16 and 17 of the Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1988[^f00021] shall continue to have effect as if regulations 15 and 20 of these Regulations had not come into operation.
 
-## 20. Revocations[^key-cad22d85f63ca5f4cff4a5e61b122f67]
+## 20. Revocations[^c-cad22d85f63ca5f4cff4a5e61b122f67]
 
 The Regulations specified in column (1) of Schedule 3 are revoked to the extent mentioned in column (3) of Schedule 3.
 
@@ -315,15 +315,15 @@ Regulation 2(2)(*b*)
 
 ### Part I — Kinds of Unit Trust Scheme
 
-**1.**[^key-f2ca9720ba01b699a7d6902d33cf749f] An authorised securities scheme.
+**1.**[^c-f2ca9720ba01b699a7d6902d33cf749f] An authorised securities scheme.
 
-**2.**[^key-7ed15142436f1f5822d235bae74c1a4c] A feeder fund, but only if the scheme which is the object of its investment is an authorised securities scheme, an investment company with variable capital, a money market fund, or a fund of funds of a kind mentioned in this Part.
+**2.**[^c-7ed15142436f1f5822d235bae74c1a4c] A feeder fund, but only if the scheme which is the object of its investment is an authorised securities scheme, an investment company with variable capital, a money market fund, or a fund of funds of a kind mentioned in this Part.
 
-**3.**[^key-a73e8fcc87e36856bf3d8d6748c290de] A fund of funds, but only if the schemes which are the object of its investment are authorised securities schemes, investment companies with variable capital, or money market funds.
+**3.**[^c-a73e8fcc87e36856bf3d8d6748c290de] A fund of funds, but only if the schemes which are the object of its investment are authorised securities schemes, investment companies with variable capital, or money market funds.
 
-**4.**[^key-fde5ecdcba5da2fb1c3e778d79a77b1a] A money market fund.
+**4.**[^c-fde5ecdcba5da2fb1c3e778d79a77b1a] A money market fund.
 
-### Part II — Definitions[^key-10fe4737c7402b722df6040dc93b76c4]
+### Part II — Definitions[^c-10fe4737c7402b722df6040dc93b76c4]
 
 In this Schedule—
 
@@ -339,17 +339,17 @@ In this Schedule—
 
 Regulation 18(2)(*a*)
 
-**1.**[^key-59152d57929ff8f27d6e58eb05a7fce1] The right of the member to cancel his membership of the scheme.
+**1.**[^c-59152d57929ff8f27d6e58eb05a7fce1] The right of the member to cancel his membership of the scheme.
 
-**2.**[^key-a89722ad47b3642aa9106632a84d32e4] The provisions of section 156(1), the scheme rules and of these Regulations which govern the exercise of the right referred to in paragraph 1.
+**2.**[^c-a89722ad47b3642aa9106632a84d32e4] The provisions of section 156(1), the scheme rules and of these Regulations which govern the exercise of the right referred to in paragraph 1.
 
-**3.**[^key-039a91b767e2c762ea7a6f957afc1936] The name and address of the person on whom the member’s counter-notice, mentioned in regulation 18, should be served.
+**3.**[^c-039a91b767e2c762ea7a6f957afc1936] The name and address of the person on whom the member’s counter-notice, mentioned in regulation 18, should be served.
 
-**4.**[^key-a5eec1c2998ba0e57445868929a36225] The type of account, or accounts, in which contributions to the scheme are invested.
+**4.**[^c-a5eec1c2998ba0e57445868929a36225] The type of account, or accounts, in which contributions to the scheme are invested.
 
-**5.**[^key-f96e9d6d0fd968d98228aee8182f4f3d] The rate of interest, at the time when the notice is served, which is accruing to contributions of members of the scheme which are then invested.
+**5.**[^c-f96e9d6d0fd968d98228aee8182f4f3d] The rate of interest, at the time when the notice is served, which is accruing to contributions of members of the scheme which are then invested.
 
-**6.**[^key-b3167ef8220c3d6b274475fe09a8ca4a] The part—
+**6.**[^c-b3167ef8220c3d6b274475fe09a8ca4a] The part—
 
 - (a) of any payment or payments that are made to the scheme by or on behalf of a member;
 - (b) of any income arising from the investment of payments such as are mentioned in sub-paragraph (*a*); or
@@ -361,13 +361,13 @@ that may be used (otherwise than as an unidentifiable element in the calculation
 - (ii) to pay commission; or
 - (iii) in any other way which does not result in the provision of benefits for or in respect of members.
 
-**7.**[^key-fe42805dab0bc7e99c6169d583c7f774] How tax relief on members' contributions is effected.
+**7.**[^c-fe42805dab0bc7e99c6169d583c7f774] How tax relief on members' contributions is effected.
 
-**8.**[^key-6af80684866d9162afd4619ef4ccdce3] How the cessation of the making of contributions to the scheme by a member of it, not less than 21 days after he becomes a member of it, but before the end of the period for which he could continue making such contributions, would affect the member’s rights under the scheme.
+**8.**[^c-6af80684866d9162afd4619ef4ccdce3] How the cessation of the making of contributions to the scheme by a member of it, not less than 21 days after he becomes a member of it, but before the end of the period for which he could continue making such contributions, would affect the member’s rights under the scheme.
 
-**9.**[^key-aece076b4046913a17dd4aae39aebd33] The address to which enquiries about the scheme generally or about an individual’s entitlement to benefit should be sent.
+**9.**[^c-aece076b4046913a17dd4aae39aebd33] The address to which enquiries about the scheme generally or about an individual’s entitlement to benefit should be sent.
 
-## SCHEDULE 3 — Regulations revoked[^key-2e42fbbe515443b4a714dc06c2f0a09d]
+## SCHEDULE 3 — Regulations revoked[^c-2e42fbbe515443b4a714dc06c2f0a09d]
 
 Regulation 20
 
@@ -415,7 +415,7 @@ Some of the enabling provisions under which these Regulations are made were amen
 
 [^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 3(1) was amended by paragraph 15(*a*) of Schedule 3 to the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)); section 30(1) was amended by paragraph 30(*a*) of Schedule 3 to that Order; section 41B was inserted by Article 136 of that Order and section 151 was amended by paragraph 55 of Schedule 3 to that Order
 
-[^key-9ef5ab303b2afeaa24d9fe0b4ebb96c4]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-9ef5ab303b2afeaa24d9fe0b4ebb96c4]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
 [^f00002]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53)
 
@@ -429,7 +429,7 @@ Some of the enabling provisions under which these Regulations are made were amen
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-4cac32bad8622694803e82073a32c98a]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-4cac32bad8622694803e82073a32c98a]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
 [^f00008]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
@@ -437,7 +437,7 @@ Some of the enabling provisions under which these Regulations are made were amen
 
 [^f00010]: Footnote: [S.R. 1997 No. 56](https://www.legislation.gov.uk/nisr/1997/56)
 
-[^key-335f77481ba8de1dbed75d413c4b6780]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-335f77481ba8de1dbed75d413c4b6780]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
 [^f00011]: Footnote: Subsection (4) was substituted by regulation 4 of [S.I. 1994/1984](https://www.legislation.gov.uk/uksi/1994/1984)
 
@@ -449,33 +449,33 @@ Some of the enabling provisions under which these Regulations are made were amen
 
 [^f00015]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032); Article 4 was substituted by Article 62(1) of the Companies (No. 2) (Northern Ireland) Order 1990 ([S.I. 1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504))
 
-[^key-9a94543103828608c6c1694d0a31db11]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-9a94543103828608c6c1694d0a31db11]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-040f0f08720ed2c8a48506164964f809]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-040f0f08720ed2c8a48506164964f809]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-0b9a3e6417f9272fda0ff079eb2ac33f]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-0b9a3e6417f9272fda0ff079eb2ac33f]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-9aff8e3940eb2d782d77e232d26d144b]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-9aff8e3940eb2d782d77e232d26d144b]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-01084d14a0b1ef2f5b4728577a88b4a7]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-01084d14a0b1ef2f5b4728577a88b4a7]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
 [^f00016]: Footnote: Section 40 is amended by Article 160 of the Pensions (Northern Ireland) Order 1995
 
-[^key-8c7193903c4ef86e9c67ee5c47f7ee16]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-8c7193903c4ef86e9c67ee5c47f7ee16]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-53cacbf8f0c5910b46c63fe46163dc26]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-53cacbf8f0c5910b46c63fe46163dc26]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-d47eb35f5c44867a01cdcbd889839df0]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-d47eb35f5c44867a01cdcbd889839df0]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-fbd724a57306937e3b29ee38daf369b9]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-fbd724a57306937e3b29ee38daf369b9]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
 [^f00017]: Footnote: Section 24 is amended by Articles 139 and 143(2) of, and paragraph 27 of Schedule 3 to, the Pensions (Northern Ireland) Order 1995
 
-[^key-cd12f21bf7e987c5b7c5aa24f50c7958]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-cd12f21bf7e987c5b7c5aa24f50c7958]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-2f6b50bb90f498ec94cc368744165616]: Commencement: Reg. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-2f6b50bb90f498ec94cc368744165616]: Commencement: Reg. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-e3369fe28e72492e413481ac0fdc1203]: Commencement: Reg. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-e3369fe28e72492e413481ac0fdc1203]: Commencement: Reg. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
 [^f00018]: Footnote: Section 41 is amended by Article 135(1) to (4) of, and paragraph 35 of Schedule 3 to, the Pensions (Northern Ireland) Order 1995
 
@@ -483,48 +483,48 @@ Some of the enabling provisions under which these Regulations are made were amen
 
 [^f00020]: Footnote: Regulation 38 was amended by regulation 13 of [S.R. 1984 No. 43](https://www.legislation.gov.uk/nisr/1984/43), regulation 10 of [S.R. 1987 No. 143](https://www.legislation.gov.uk/nisr/1987/143), regulation 4 of [S.R. 1992 No. 138](https://www.legislation.gov.uk/nisr/1992/138), regulation 3 of [S.R. 1993 No. 368](https://www.legislation.gov.uk/nisr/1993/368), regulation 3 of [S.R. 1994 No. 219](https://www.legislation.gov.uk/nisr/1994/219), regulation 13(4) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and regulation 3(4) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
 
-[^key-a5a3e6d3de0e0cfe6e778fbbbb01b95c]: Commencement: Reg. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-a5a3e6d3de0e0cfe6e778fbbbb01b95c]: Commencement: Reg. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-e6359045eb4b5be8784f6a049086e0e4]: Commencement: Reg. 17 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-e6359045eb4b5be8784f6a049086e0e4]: Commencement: Reg. 17 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-027c28e9d275f2e1053ceb65b0e0b7d6]: Commencement: Reg. 18 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-027c28e9d275f2e1053ceb65b0e0b7d6]: Commencement: Reg. 18 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-92b376636ead66e80b87cb77fb2be8be]: Commencement: Reg. 19 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-92b376636ead66e80b87cb77fb2be8be]: Commencement: Reg. 19 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
 [^f00021]: Footnote: [S.R. 1988 No. 34](https://www.legislation.gov.uk/nisr/1988/34); regulations 16 and 17 were amended by paragraph 19(11) and (12) respectively of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-cad22d85f63ca5f4cff4a5e61b122f67]: Commencement: Reg. 20 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-cad22d85f63ca5f4cff4a5e61b122f67]: Commencement: Reg. 20 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-f2ca9720ba01b699a7d6902d33cf749f]: Commencement: Sch. 1 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-f2ca9720ba01b699a7d6902d33cf749f]: Commencement: Sch. 1 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-7ed15142436f1f5822d235bae74c1a4c]: Commencement: Sch. 1 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-7ed15142436f1f5822d235bae74c1a4c]: Commencement: Sch. 1 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-a73e8fcc87e36856bf3d8d6748c290de]: Commencement: Sch. 1 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-a73e8fcc87e36856bf3d8d6748c290de]: Commencement: Sch. 1 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-fde5ecdcba5da2fb1c3e778d79a77b1a]: Commencement: Sch. 1 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-fde5ecdcba5da2fb1c3e778d79a77b1a]: Commencement: Sch. 1 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-10fe4737c7402b722df6040dc93b76c4]: Commencement: Sch. 1 Pt. II in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-10fe4737c7402b722df6040dc93b76c4]: Commencement: Sch. 1 Pt. II in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
 [^f00022]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60)
 
 [^f00023]: Footnote: [S.I. 1996/2827](https://www.legislation.gov.uk/uksi/1996/2827)
 
-[^key-59152d57929ff8f27d6e58eb05a7fce1]: Commencement: Sch. 2 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-59152d57929ff8f27d6e58eb05a7fce1]: Commencement: Sch. 2 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-a89722ad47b3642aa9106632a84d32e4]: Commencement: Sch. 2 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-a89722ad47b3642aa9106632a84d32e4]: Commencement: Sch. 2 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-039a91b767e2c762ea7a6f957afc1936]: Commencement: Sch. 2 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-039a91b767e2c762ea7a6f957afc1936]: Commencement: Sch. 2 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-a5eec1c2998ba0e57445868929a36225]: Commencement: Sch. 2 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-a5eec1c2998ba0e57445868929a36225]: Commencement: Sch. 2 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-f96e9d6d0fd968d98228aee8182f4f3d]: Commencement: Sch. 2 para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-f96e9d6d0fd968d98228aee8182f4f3d]: Commencement: Sch. 2 para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-b3167ef8220c3d6b274475fe09a8ca4a]: Commencement: Sch. 2 para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-b3167ef8220c3d6b274475fe09a8ca4a]: Commencement: Sch. 2 para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-fe42805dab0bc7e99c6169d583c7f774]: Commencement: Sch. 2 para. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-fe42805dab0bc7e99c6169d583c7f774]: Commencement: Sch. 2 para. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-6af80684866d9162afd4619ef4ccdce3]: Commencement: Sch. 2 para. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-6af80684866d9162afd4619ef4ccdce3]: Commencement: Sch. 2 para. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-aece076b4046913a17dd4aae39aebd33]: Commencement: Sch. 2 para. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-aece076b4046913a17dd4aae39aebd33]: Commencement: Sch. 2 para. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
 
-[^key-2e42fbbe515443b4a714dc06c2f0a09d]: Commencement: Sch. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+[^c-2e42fbbe515443b4a714dc06c2f0a09d]: Commencement: Sch. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)

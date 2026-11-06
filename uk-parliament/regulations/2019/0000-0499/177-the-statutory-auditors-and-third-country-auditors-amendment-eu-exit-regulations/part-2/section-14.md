@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14.[^key-ff54e1234626ad7e899cc2a8119c8bd5]
+## 14.[^c-ff54e1234626ad7e899cc2a8119c8bd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ After section 1240 (information to be made available to public), insert—
 
 ## Annotations
 
-[^key-ff54e1234626ad7e899cc2a8119c8bd5]: Commencement: Reg. 14 in force at 13.11.2019, see reg. 2 (as amended by [S.I. 2019/1392](https://www.legislation.gov.uk/uksi/2019/1392), regs. 1(2), 3)
+[^c-ff54e1234626ad7e899cc2a8119c8bd5]: Commencement: Reg. 14 in force at 13.11.2019, see reg. 2 (as amended by [S.I. 2019/1392](https://www.legislation.gov.uk/uksi/2019/1392), regs. 1(2), 3)

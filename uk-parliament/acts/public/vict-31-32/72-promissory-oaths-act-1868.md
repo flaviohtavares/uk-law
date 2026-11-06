@@ -71,7 +71,7 @@ Where the official oath or oath of allegiance is required to be taken by any mem
 
 The oath of allegiance and judicial oath shall be taken by each of the officers named in the second part of the said schedule hereto as soon as may be after his acceptance of office, [^c567189]. . .
 
-#### 6A. Lord Chancellor's Oath[^key-f58bff2f0cf7fcf675ad676b536588a1]
+#### 6A. Lord Chancellor's Oath[^c-f58bff2f0cf7fcf675ad676b536588a1]
 
 (1) The oath set out in subsection (2) shall be tendered to and taken by the Lord Chancellor, after and in the same manner as the official oath, as soon as may be after his acceptance of office.
 
@@ -166,7 +166,7 @@ Section 6.
 
 England
 
-[^key-a0c94c844b4f559f2bee43d6f8d28faa]...
+[^c-a0c94c844b4f559f2bee43d6f8d28faa]...
 
 The Lord Chief Justice.
 
@@ -182,7 +182,7 @@ Justices of the Peace [^c567274]. . ..
 
 Scotland
 
-The Lord Justice-General and President of the Court of Session in Scotland, the Lord Justice Clerk of Scotland, the Judges of the Court of Session in Scotland , temporary judges of the Court of Session and High Court of Justiciary appointed under section[^c567275] 20B(1) of the Judiciary and Courts (Scotland) Act 2008 *(Extent: s)*[^key-45e319de7f418e2d06174c0dda6d10f0],sheriffs principal of sheriffdoms[^c567276], sheriffs, part-time sheriffs[^key-6c172cba00c6a916c1bc2382475afec6] , summary sheriffs, part-time summary sheriffs *(Extent: S)*[^key-4bf7885737730652cb11de4922cc0297] and Justices of the Peace . . . [^c567277]
+The Lord Justice-General and President of the Court of Session in Scotland, the Lord Justice Clerk of Scotland, the Judges of the Court of Session in Scotland , temporary judges of the Court of Session and High Court of Justiciary appointed under section[^c567275] 20B(1) of the Judiciary and Courts (Scotland) Act 2008 *(Extent: s)*[^c-45e319de7f418e2d06174c0dda6d10f0],sheriffs principal of sheriffdoms[^c567276], sheriffs, part-time sheriffs[^c-6c172cba00c6a916c1bc2382475afec6] , summary sheriffs, part-time summary sheriffs *(Extent: S)*[^c-4bf7885737730652cb11de4922cc0297] and Justices of the Peace . . . [^c567277]
 
 Ireland[^c567278]
 
@@ -214,7 +214,7 @@ Ireland[^c567278]
 
 [^c567189]: Textual amendment: Words repealed by [Statute Law Revision Act 1875 (c. 66)](https://www.legislation.gov.uk/ukpga/1875/66)
 
-[^key-f58bff2f0cf7fcf675ad676b536588a1]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/Vict/31-32/72/section/6A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 17](https://www.legislation.gov.uk/ukpga/2005/4/section/17), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/14)
+[^c-f58bff2f0cf7fcf675ad676b536588a1]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/Vict/31-32/72/section/6A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 17](https://www.legislation.gov.uk/ukpga/2005/4/section/17), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/14)
 
 [^c567191]: Textual amendment: Words in s. 7 inserted (6.5.1999) by [S.I. 1999/1042](https://www.legislation.gov.uk/uksi/1999/1042), [art. 3](https://www.legislation.gov.uk/uksi/1999/1042/article/3), [Sch. 1 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/1999/1042/schedule/1/paragraph/2/3/a)
 
@@ -284,7 +284,7 @@ Ireland[^c567278]
 
 [^c567271]: Modification: By [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [s. 93(3)](https://www.legislation.gov.uk/ukpga/1983/20/section/93/3) it is provided that this Act shall have effect as if the Officers named in the Second Part of the Schedule included the Master of the Court of Protection
 
-[^key-a0c94c844b4f559f2bee43d6f8d28faa]: Textual amendment: Words in Sch. Pt. 2 repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/2), [Sch. 18 Pt. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 28](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/28), [30(d)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/d)
+[^c-a0c94c844b4f559f2bee43d6f8d28faa]: Textual amendment: Words in Sch. Pt. 2 repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/2), [Sch. 18 Pt. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 28](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/28), [30(d)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/d)
 
 [^c567272]: Textual amendment: Entries repealed by [Statute Law Revision Act 1893 (c. 14) and Statute Law (Repeals) Act 1977 (c. 18)](https://www.legislation.gov.uk/ukpga/1977/18), [Sch. 1 Pt. XIV](https://www.legislation.gov.uk/ukpga/1977/18/schedule/1/part/XIV)
 
@@ -292,13 +292,13 @@ Ireland[^c567278]
 
 [^c567275]: Textual amendment: Words in the second part of the Schedule inserted (S.) (1.4.1991) by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c.40, SIF 76:2)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 74](https://www.legislation.gov.uk/ukpga/1990/40/section/74), [Sch. 8 Pt. II para. 23 S.I](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8/part/II/paragraph/23/section/I). 1991/822 art. 3 Schedule
 
-[^key-45e319de7f418e2d06174c0dda6d10f0]: Textual amendment: Words in Sch. Second Pt. substituted (S.) (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 34](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/34); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-45e319de7f418e2d06174c0dda6d10f0]: Textual amendment: Words in Sch. Second Pt. substituted (S.) (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 34](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/34); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
 [^c567276]: Textual amendment: Words substituted by virtue of [Sheriff Courts (Scotland) Act 1971 (c. 58)](https://www.legislation.gov.uk/ukpga/1971/58), [s. 4](https://www.legislation.gov.uk/ukpga/1971/58/section/4), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1971/58/schedule/1/paragraph/1)
 
-[^key-6c172cba00c6a916c1bc2382475afec6]: Textual amendment: Words in Sch. inserted (S.) (1.10.2009) by [Judiciary and Courts (Scotland) Act 2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6), [ss. 27](https://www.legislation.gov.uk/asp/2008/6/section/27), [76(1)](https://www.legislation.gov.uk/asp/2008/6/section/76/1); [S.S.I. 2009/318](https://www.legislation.gov.uk/ssi/2009/318), [art. 2](https://www.legislation.gov.uk/ssi/2009/318/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/318/schedule)
+[^c-6c172cba00c6a916c1bc2382475afec6]: Textual amendment: Words in Sch. inserted (S.) (1.10.2009) by [Judiciary and Courts (Scotland) Act 2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6), [ss. 27](https://www.legislation.gov.uk/asp/2008/6/section/27), [76(1)](https://www.legislation.gov.uk/asp/2008/6/section/76/1); [S.S.I. 2009/318](https://www.legislation.gov.uk/ssi/2009/318), [art. 2](https://www.legislation.gov.uk/ssi/2009/318/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/318/schedule)
 
-[^key-4bf7885737730652cb11de4922cc0297]: Textual amendment: Words in Sch. Second Pt. inserted (S.) (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/1); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-4bf7885737730652cb11de4922cc0297]: Textual amendment: Words in Sch. Second Pt. inserted (S.) (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/1); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
 [^c567277]: Textual amendment: Words repealed by [District Courts (Scotland) Act 1975 (c. 20)](https://www.legislation.gov.uk/ukpga/1975/20), [Sch. 2](https://www.legislation.gov.uk/ukpga/1975/20/schedule/2)
 

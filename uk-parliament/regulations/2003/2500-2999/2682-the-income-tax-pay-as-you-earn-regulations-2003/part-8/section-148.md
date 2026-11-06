@@ -27,9 +27,9 @@ In Chapters 1 and 2—
 - “claimant” means a person who has made a claim, or who is treated for the purposes of the JSA Regulations as having made a claim;
 - “Chapter 2 claimant” means—
   - (a) a claimant who is entitled to a jobseeker’s allowance by virtue of regulation 17 of the JSA Regulations (laid off and short time workers); or
-  - (b) a claimant who is a share fisherman—[^key-4eddba2c8796b398c4d3f1b43ec81b92]
+  - (b) a claimant who is a share fisherman—[^c-4eddba2c8796b398c4d3f1b43ec81b92]
     - ((i)) where the JSA Regulations apply, as defined in regulation 156 of those Regulations; and
-    - ((ii)) where the Jobseeker’s Allowance Regulations 2013 or Jobseeker’s Allowance Regulations (Northern Ireland) 2016[^key-937ffa082c05c130e534dbf99b4ba70e] apply, as defined in regulation 67 of those Regulations;
+    - ((ii)) where the Jobseeker’s Allowance Regulations 2013 or Jobseeker’s Allowance Regulations (Northern Ireland) 2016[^c-937ffa082c05c130e534dbf99b4ba70e] apply, as defined in regulation 67 of those Regulations;
 - “Department” means the Department for Work and Pensions or, in Northern Ireland, the Department for Social Development;
 - “JSA Regulations” means the Jobseeker’s Allowance Regulations 1996[^f00067] or, in Northern Ireland, the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00068];
 - “jobseeker’s allowance” means benefit payable under—
@@ -39,9 +39,9 @@ In Chapters 1 and 2—
 
 ## Annotations
 
-[^key-4eddba2c8796b398c4d3f1b43ec81b92]: Textual amendment: Words in reg. 148 substituted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [83](https://www.legislation.gov.uk/uksi/2013/630/regulation/83)
+[^c-4eddba2c8796b398c4d3f1b43ec81b92]: Textual amendment: Words in reg. 148 substituted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [83](https://www.legislation.gov.uk/uksi/2013/630/regulation/83)
 
-[^key-937ffa082c05c130e534dbf99b4ba70e]: Textual amendment: Words in [reg. 148](https://www.legislation.gov.uk/uksi/2003/2682/regulation/148) inserted (N.I.) (27.9.2017) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [59](https://www.legislation.gov.uk/nisr/2016/236/regulation/59)
+[^c-937ffa082c05c130e534dbf99b4ba70e]: Textual amendment: Words in [reg. 148](https://www.legislation.gov.uk/uksi/2003/2682/regulation/148) inserted (N.I.) (27.9.2017) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [59](https://www.legislation.gov.uk/nisr/2016/236/regulation/59)
 
 [^f00067]: Footnote: S.I. [1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 

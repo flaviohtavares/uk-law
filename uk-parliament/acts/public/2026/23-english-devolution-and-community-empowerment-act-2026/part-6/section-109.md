@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Short title[^key-5e285cf35118282144c85a0e43d75362]
+## 109. Short title[^c-5e285cf35118282144c85a0e43d75362]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Act may be cited as the English Devolution and Community Empowerment Act 20
 
 ## Annotations
 
-[^key-5e285cf35118282144c85a0e43d75362]: Commencement: S. 109 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)
+[^c-5e285cf35118282144c85a0e43d75362]: Commencement: S. 109 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)

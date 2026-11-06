@@ -27,9 +27,9 @@ summary: ''
 - (a) by a person registered under Part XI of the Children (Northern Ireland) Order 1995,
 - (b) out of school hours by a school as part of the school activities, or
 - (c) by a childcare provider approved in accordance with a scheme under the Tax Credits (Approval of Home Child Care Providers) Scheme (Northern Ireland) 2006 [^c22824421].
-- (d)[^key-5376883210988346d7b10bbc10761966] by a home based childcare provider approved by a Health and Social Care Trust in Northern Ireland in line with Department of Health for Northern Ireland Approved Home Childcare guidance.
+- (d)[^c-5376883210988346d7b10bbc10761966] by a home based childcare provider approved by a Health and Social Care Trust in Northern Ireland in line with Department of Health for Northern Ireland Approved Home Childcare guidance.
 
-(3)[^key-9991c786b51850eee9040467be6c8240] Care provided for a child outside Northern Ireland—
+(3)[^c-9991c786b51850eee9040467be6c8240] Care provided for a child outside Northern Ireland—
 
 - (a) by a childcare provider approved by an organisation accredited by the Secretary of State; or
 - (b) in any other case, by a childcare provider approved or accredited under the legislation of the relevant state, where evidence of such approval or accreditation is provided to the Department by the claimant.
@@ -50,8 +50,8 @@ summary: ''
 
 [^c22824421]: Marginal citation: S.R. [2006 No. 64](https://www.legislation.gov.uk/ukcm/2006/64)
 
-[^key-5376883210988346d7b10bbc10761966]: Textual amendment: [Reg. 37(2)(d)](https://www.legislation.gov.uk/nisr/2016/216/regulation/37/2/d) added (13.7.2020) by [The Universal Credit (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/107)](https://www.legislation.gov.uk/nisr/2020/107), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/107/regulation/1/2), [2(1)(a)](https://www.legislation.gov.uk/nisr/2020/107/regulation/2/1/a)
+[^c-5376883210988346d7b10bbc10761966]: Textual amendment: [Reg. 37(2)(d)](https://www.legislation.gov.uk/nisr/2016/216/regulation/37/2/d) added (13.7.2020) by [The Universal Credit (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/107)](https://www.legislation.gov.uk/nisr/2020/107), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/107/regulation/1/2), [2(1)(a)](https://www.legislation.gov.uk/nisr/2020/107/regulation/2/1/a)
 
-[^key-9991c786b51850eee9040467be6c8240]: Textual amendment: [Reg. 37(3)](https://www.legislation.gov.uk/nisr/2016/216/regulation/37/3) substituted (13.7.2020) by [The Universal Credit (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/107)](https://www.legislation.gov.uk/nisr/2020/107), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/107/regulation/1/2), [2(1)(b)](https://www.legislation.gov.uk/nisr/2020/107/regulation/2/1/b)
+[^c-9991c786b51850eee9040467be6c8240]: Textual amendment: [Reg. 37(3)](https://www.legislation.gov.uk/nisr/2016/216/regulation/37/3) substituted (13.7.2020) by [The Universal Credit (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/107)](https://www.legislation.gov.uk/nisr/2020/107), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/107/regulation/1/2), [2(1)(b)](https://www.legislation.gov.uk/nisr/2020/107/regulation/2/1/b)
 
 [^c22824431]: Marginal citation: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594).

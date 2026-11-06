@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Extreme pornography[^key-abd1ea72acde37455648300fb28d5d66]
+## 42. Extreme pornography[^c-abd1ea72acde37455648300fb28d5d66]
 
 *Extent: S*
 
@@ -168,4 +168,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abd1ea72acde37455648300fb28d5d66]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2010/13/section/42) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-abd1ea72acde37455648300fb28d5d66]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2010/13/section/42) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

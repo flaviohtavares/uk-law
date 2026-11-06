@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 20. Reports on measures taken in accordance with Articles 17, 18 and 19[^key-0fbb29fa6d9c947b2cb9817348bd106f]
+## Article 20. Reports on measures taken in accordance with Articles 17, 18 and 19[^c-0fbb29fa6d9c947b2cb9817348bd106f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fbb29fa6d9c947b2cb9817348bd106f]: Textual amendment: Art. 20 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(19)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/19) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-0fbb29fa6d9c947b2cb9817348bd106f]: Textual amendment: Art. 20 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(19)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/19) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

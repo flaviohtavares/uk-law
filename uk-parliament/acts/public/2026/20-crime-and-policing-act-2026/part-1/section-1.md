@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Respect orders[^key-e5dbbe9bba9d01701c063dd5c9bb02e4][^key-9e89d57359fd83c7f17136ba9f0d4b3a]
+## 1. Respect orders[^c-e5dbbe9bba9d01701c063dd5c9bb02e4][^c-9e89d57359fd83c7f17136ba9f0d4b3a]
 
 *Extent: E+W*
 
@@ -346,6 +346,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5dbbe9bba9d01701c063dd5c9bb02e4]: Commencement: S. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-e5dbbe9bba9d01701c063dd5c9bb02e4]: Commencement: S. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-9e89d57359fd83c7f17136ba9f0d4b3a]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/20/section/1) in force at 26.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/a)
+[^c-9e89d57359fd83c7f17136ba9f0d4b3a]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/20/section/1) in force at 26.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/a)

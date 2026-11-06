@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Amendment of regulation 26 (general power to suspend, revoke or vary licences)[^M_I_bfd7d6e5-60e3-43c3-f92f-bb99bd70d747][^key-98f98dd4e45e6d6a733dc2a5d9adef8f]
+## 21. Amendment of regulation 26 (general power to suspend, revoke or vary licences)[^M_I_bfd7d6e5-60e3-43c3-f92f-bb99bd70d747][^c-98f98dd4e45e6d6a733dc2a5d9adef8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ For regulation 26(5)(a) substitute—
 
 [^M_I_bfd7d6e5-60e3-43c3-f92f-bb99bd70d747]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-98f98dd4e45e6d6a733dc2a5d9adef8f]: Textual amendment: Reg. 21 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/15)
+[^c-98f98dd4e45e6d6a733dc2a5d9adef8f]: Textual amendment: Reg. 21 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/15)

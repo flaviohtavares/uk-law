@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Power to allow for marriage of same sex couples in Church in Wales[^key-60b9998ab9253e04d07ef2c0cd3316ee]
+## 8. Power to allow for marriage of same sex couples in Church in Wales[^c-60b9998ab9253e04d07ef2c0cd3316ee]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60b9998ab9253e04d07ef2c0cd3316ee]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/30/section/8) in force at 13.3.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/93/article/3/d)
+[^c-60b9998ab9253e04d07ef2c0cd3316ee]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/30/section/8) in force at 13.3.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/93/article/3/d)

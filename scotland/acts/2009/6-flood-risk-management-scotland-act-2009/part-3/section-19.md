@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. SEPA to prepare maps of artificial structures and natural features[^key-25d7f5c83fec89fe5f8b11b14f57f8fb]
+## 19. SEPA to prepare maps of artificial structures and natural features[^c-25d7f5c83fec89fe5f8b11b14f57f8fb]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25d7f5c83fec89fe5f8b11b14f57f8fb]: Commencement: S. 19 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-25d7f5c83fec89fe5f8b11b14f57f8fb]: Commencement: S. 19 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

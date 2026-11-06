@@ -39,18 +39,18 @@ amending Decision 2006/415/EC concerning certain protection measures in relation
 
 (2008/70/EC) (revoked)
 
-[^key-fb650f273631ae6008549f5e0295e9a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb650f273631ae6008549f5e0295e9a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-fb650f273631ae6008549f5e0295e9a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fb650f273631ae6008549f5e0295e9a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fb650f273631ae6008549f5e0295e9a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fb650f273631ae6008549f5e0295e9a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fb650f273631ae6008549f5e0295e9a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb650f273631ae6008549f5e0295e9a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-fb650f273631ae6008549f5e0295e9a5]
+## ANNEX[^c-fb650f273631ae6008549f5e0295e9a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb650f273631ae6008549f5e0295e9a5]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb650f273631ae6008549f5e0295e9a5]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

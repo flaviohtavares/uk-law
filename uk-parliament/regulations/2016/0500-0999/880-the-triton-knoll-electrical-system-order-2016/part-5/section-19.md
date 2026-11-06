@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Private rights[^key-6100195c75aabc8cd6c8d46271684d2a]
+## 19. Private rights[^c-6100195c75aabc8cd6c8d46271684d2a]
 
 *Extent: E+W+S*
 
@@ -64,7 +64,7 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-6100195c75aabc8cd6c8d46271684d2a]: Commencement: Art. 19 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-6100195c75aabc8cd6c8d46271684d2a]: Commencement: Art. 19 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
 [^f00031]: Footnote: Section 152 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

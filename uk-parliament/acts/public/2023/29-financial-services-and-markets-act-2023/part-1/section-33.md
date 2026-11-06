@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Effect of rules etc on international trade obligations[^key-3f3b6f59bd92b6094a78d66bb46ed667][^key-35ffc054ad2940571c7c7613aa18691c]
+## 33. Effect of rules etc on international trade obligations[^c-3f3b6f59bd92b6094a78d66bb46ed667][^c-35ffc054ad2940571c7c7613aa18691c]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ In FSMA 2000 after section 409A (inserted by section 32) insert—
 
 ## Annotations
 
-[^key-3f3b6f59bd92b6094a78d66bb46ed667]: Commencement: S. 33 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-3f3b6f59bd92b6094a78d66bb46ed667]: Commencement: S. 33 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-35ffc054ad2940571c7c7613aa18691c]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2023/29/section/33) in force at 1.1.2024 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2023/1382/regulation/15))
+[^c-35ffc054ad2940571c7c7613aa18691c]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2023/29/section/33) in force at 1.1.2024 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2023/1382/regulation/15))

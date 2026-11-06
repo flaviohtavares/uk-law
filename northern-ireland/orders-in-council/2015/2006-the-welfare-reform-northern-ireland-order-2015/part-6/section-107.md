@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-b6b65660f1931ab7901c053832a94c73] The Social Security (Northern Ireland) Order 1998 is amended as follows.
+(1)[^c-b6b65660f1931ab7901c053832a94c73] The Social Security (Northern Ireland) Order 1998 is amended as follows.
 
-(2)[^key-b6b65660f1931ab7901c053832a94c73] In Article 13 (appeal to appeal tribunal), in paragraph (2)—
+(2)[^c-b6b65660f1931ab7901c053832a94c73] In Article 13 (appeal to appeal tribunal), in paragraph (2)—
 
 - (a) the words from “in relation to” to the end become sub-paragraph (a), and
 - (b) after that sub-paragraph insert—
@@ -31,7 +31,7 @@ summary: ''
   >
   > - (b) where regulations under paragraph (3A) so provide.
 
-(3)[^key-b6b65660f1931ab7901c053832a94c73] After paragraph (3) of that Article insert—
+(3)[^c-b6b65660f1931ab7901c053832a94c73] After paragraph (3) of that Article insert—
 
 > (3A) Regulations may provide that, in such cases or circumstances as may be prescribed, there is a right of appeal under paragraph (2) in relation to a decision only if the Department has considered whether to revise the decision under Article 10.
 >
@@ -43,13 +43,13 @@ summary: ''
 >
 > (3C) The references in paragraphs (3A) and (3B) to regulations and to the Department are subject to any statutory provision under or by virtue of which the functions under this Chapter are transferred to or otherwise made exercisable by a person other than the Department.
 
-(4)[^key-b6b65660f1931ab7901c053832a94c73] After paragraph (5) of that Article insert—
+(4)[^c-b6b65660f1931ab7901c053832a94c73] After paragraph (5) of that Article insert—
 
 > (5A) Regulations may provide that, where in accordance with regulations under paragraph (3A) there is no right of appeal against a decision, any purported appeal may be treated as an application for revision under Article 10.
 
-(5)[^key-b6b65660f1931ab7901c053832a94c73] In Article 75(2)(a) (confirmatory procedure for certain regulations) after “13(2)” insert “ or (3A) ”.
+(5)[^c-b6b65660f1931ab7901c053832a94c73] In Article 75(2)(a) (confirmatory procedure for certain regulations) after “13(2)” insert “ or (3A) ”.
 
-(6)[^key-b6b65660f1931ab7901c053832a94c73] Schedule 11 contains similar amendments to other legislation.
+(6)[^c-b6b65660f1931ab7901c053832a94c73] Schedule 11 contains similar amendments to other legislation.
 
 (7) Paragraph (8) applies where regulations under a provision mentioned in paragraph (9) are made so as to have effect in relation to a limited area (by virtue of provision made under Article 2(3)).
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6b65660f1931ab7901c053832a94c73]: Commencement: [Art. 107(1)-(6)](https://www.legislation.gov.uk/nisi/2015/2006/article/107/1) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/166/article/2/a)
+[^c-b6b65660f1931ab7901c053832a94c73]: Commencement: [Art. 107(1)-(6)](https://www.legislation.gov.uk/nisi/2015/2006/article/107/1) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/166/article/2/a)

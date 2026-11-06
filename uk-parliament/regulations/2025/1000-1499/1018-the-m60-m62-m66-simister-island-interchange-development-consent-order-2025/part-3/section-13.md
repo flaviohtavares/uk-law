@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Classification of roads etc.[^key-b47ac75bd2c6d55758c09d6e3625f0bc]
+## 13. Classification of roads etc.[^c-b47ac75bd2c6d55758c09d6e3625f0bc]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b47ac75bd2c6d55758c09d6e3625f0bc]: Commencement: Art. 13 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
+[^c-b47ac75bd2c6d55758c09d6e3625f0bc]: Commencement: Art. 13 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
 
 [^f00045]: Footnote: Schedule 4 was amended by section 4 of, and paragraph 21(3) of Schedule 3 to, the Road Traffic (Consequential Provisions) Act [1988 (c. 54)](https://www.legislation.gov.uk/ukpga/1988/54).

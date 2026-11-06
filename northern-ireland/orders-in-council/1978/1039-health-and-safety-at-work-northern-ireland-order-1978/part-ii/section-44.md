@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^c17537501][^c19258671][^key-e087a9f8e6d262de4f40e29e33dfc44c] Subject to the provisions of this Article, the provisions of this Part, except Articles 23 to 27 and 31 to 39, and of regulations made under this Part shall bind the Crown.
+(1)[^c17537501][^c19258671][^c-e087a9f8e6d262de4f40e29e33dfc44c] Subject to the provisions of this Article, the provisions of this Part, except Articles 23 to 27 and 31 to 39, and of regulations made under this Part shall bind the Crown.
 
-(2)[^c19258691][^key-e087a9f8e6d262de4f40e29e33dfc44c] Although they do not bind the Crown, Articles 31 to 39 shall apply to persons in the public service of the Crown as they apply to other persons.
+(2)[^c19258691][^c-e087a9f8e6d262de4f40e29e33dfc44c] Although they do not bind the Crown, Articles 31 to 39 shall apply to persons in the public service of the Crown as they apply to other persons.
 
-(3)[^c19258721][^key-e087a9f8e6d262de4f40e29e33dfc44c] For the purposes of this Part and regulations made thereunder persons in the service of the Crown shall be treated as employees of the Crown whether or not they would be so treated apart from this paragraph.
+(3)[^c19258721][^c-e087a9f8e6d262de4f40e29e33dfc44c] For the purposes of this Part and regulations made thereunder persons in the service of the Crown shall be treated as employees of the Crown whether or not they would be so treated apart from this paragraph.
 
 (4) Without prejudice to Article 17(5), the Secretary of State may, to the extent that it appears to him requisite or expedient to do so in the interests of the safety of the State or the safe custody of persons lawfully detained, by order exempt the Crown either generally or in particular respects from all or any of the provisions of this Part which would, by virtue of paragraph (1), bind the Crown.
 
@@ -38,7 +38,7 @@ summary: ''
 
 [^c19258671]: Modification: [Art. 44(1)](https://www.legislation.gov.uk/nisi/1978/1039/article/44/1) applied (2.4.2006) by [The Railways (Interoperability) Regulations 2006 (S.I. 2006/397)](https://www.legislation.gov.uk/uksi/2006/397), [reg. 35](https://www.legislation.gov.uk/uksi/2006/397/regulation/35)
 
-[^key-e087a9f8e6d262de4f40e29e33dfc44c]: Modification: [Art. 44(1)-(3)](https://www.legislation.gov.uk/nisi/1978/1039/article/44/1) applied (with modifications) (30.7.2018) by [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [22(1)-(3)](https://www.legislation.gov.uk/uksi/2018/816/regulation/22/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/816/regulation/4))
+[^c-e087a9f8e6d262de4f40e29e33dfc44c]: Modification: [Art. 44(1)-(3)](https://www.legislation.gov.uk/nisi/1978/1039/article/44/1) applied (with modifications) (30.7.2018) by [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [22(1)-(3)](https://www.legislation.gov.uk/uksi/2018/816/regulation/22/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/816/regulation/4))
 
 [^c19258691]: Modification: [Art. 44(2)](https://www.legislation.gov.uk/nisi/1978/1039/article/44/2) applied (2.4.2006) by [The Railways (Interoperability) Regulations 2006 (S.I. 2006/397)](https://www.legislation.gov.uk/uksi/2006/397), [reg. 35](https://www.legislation.gov.uk/uksi/2006/397/regulation/35)
 

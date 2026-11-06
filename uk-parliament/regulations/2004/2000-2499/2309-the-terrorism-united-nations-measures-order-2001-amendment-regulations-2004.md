@@ -32,7 +32,7 @@ summary: ''
 
 UNITED NATIONS
 
-The Terrorism (United Nations Measures) Order 2001 (Amendment) Regulations 2004 (revoked)[^key-97d18cef657ac86861f4b4c2e0b148af]
+The Terrorism (United Nations Measures) Order 2001 (Amendment) Regulations 2004 (revoked)[^c-97d18cef657ac86861f4b4c2e0b148af]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 28th September 2004
 
-[^key-97d18cef657ac86861f4b4c2e0b148af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97d18cef657ac86861f4b4c2e0b148af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-97d18cef657ac86861f4b4c2e0b148af]
+## 1. Citation and commencement[^c-97d18cef657ac86861f4b4c2e0b148af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-97d18cef657ac86861f4b4c2e0b148af]
+## 2. Revocation[^c-97d18cef657ac86861f4b4c2e0b148af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Terrorism (United Nations Measures) Order 2001[^key-97d18cef657ac86861f4b4c2e0b148af]
+## 3. Amendment to the Terrorism (United Nations Measures) Order 2001[^c-97d18cef657ac86861f4b4c2e0b148af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-97d18cef657ac86861f4b4c2e0b148af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97d18cef657ac86861f4b4c2e0b148af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-97d18cef657ac86861f4b4c2e0b148af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97d18cef657ac86861f4b4c2e0b148af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-97d18cef657ac86861f4b4c2e0b148af]: Textual amendment: Regulations revoked (29.6.2005) by [The Terrorism (United Nations Measures) Order 2001 (Amendment) Regulations 2005 (S.I. 2005/1525)](https://www.legislation.gov.uk/uksi/2005/1525), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1525/regulation/1), [3](https://www.legislation.gov.uk/uksi/2005/1525/regulation/3)
+[^c-97d18cef657ac86861f4b4c2e0b148af]: Textual amendment: Regulations revoked (29.6.2005) by [The Terrorism (United Nations Measures) Order 2001 (Amendment) Regulations 2005 (S.I. 2005/1525)](https://www.legislation.gov.uk/uksi/2005/1525), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1525/regulation/1), [3](https://www.legislation.gov.uk/uksi/2005/1525/regulation/3)

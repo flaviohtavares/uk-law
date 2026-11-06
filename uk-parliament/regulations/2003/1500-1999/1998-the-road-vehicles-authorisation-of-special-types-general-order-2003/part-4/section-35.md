@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Local excavation vehicles: requirements as to weight[^key-7a6399125daa134a2e73e423bc81749a]
+## 35. Local excavation vehicles: requirements as to weight[^c-7a6399125daa134a2e73e423bc81749a]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a6399125daa134a2e73e423bc81749a]: Commencement: Art. 35 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-7a6399125daa134a2e73e423bc81749a]: Commencement: Art. 35 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

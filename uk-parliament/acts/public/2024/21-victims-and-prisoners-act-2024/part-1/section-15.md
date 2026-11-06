@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Guidance on collaboration in exercise of victim support functions[^key-5d73ea8706b6a244b8a663cdd3bde91f]
+## 15. Guidance on collaboration in exercise of victim support functions[^c-5d73ea8706b6a244b8a663cdd3bde91f]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d73ea8706b6a244b8a663cdd3bde91f]: Commencement: S. 15 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-5d73ea8706b6a244b8a663cdd3bde91f]: Commencement: S. 15 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

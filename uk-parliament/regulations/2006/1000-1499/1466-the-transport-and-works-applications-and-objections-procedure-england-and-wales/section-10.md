@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-974557e871b82bb24decc171d21fbacc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-974557e871b82bb24decc171d21fbacc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The applicant shall submit with the application a copy[^key-fce3d771cfb9344f6698d33dc334948c] of each of the following documents—
+(2) The applicant shall submit with the application a copy[^c-fce3d771cfb9344f6698d33dc334948c] of each of the following documents—
 
 - (a) a draft of the proposed order;
 - (b) an explanatory memorandum that explains the purpose and effect of each article and schedule in the draft order;
@@ -33,7 +33,7 @@ summary: ''
   - (i) from whom the consent, permission or licence is or was required;
   - (ii) the date of the application, or of the grant or refusal of the consent, permission or licence (as the case may be); and
   - (iii) the reference number (if any) of the application;
-- (g) any screening decision made or direction given by the Secretary of State under rule 7, any scoping opinion given by him under rule 8 and, in a case where the proposed works are to be subject to an environmental impact assessment, the applicant’s environmental statement[^key-e148d6c62ae4ce38d1f07c8b9c2e3294]; and
+- (g) any screening decision made or direction given by the Secretary of State under rule 7, any scoping opinion given by him under rule 8 and, in a case where the proposed works are to be subject to an environmental impact assessment, the applicant’s environmental statement[^c-e148d6c62ae4ce38d1f07c8b9c2e3294]; and
 - (h) any direction given under rule 18.
 
 (3) When making an application for an order the applicant shall submit with the application—
@@ -56,32 +56,32 @@ summary: ''
 
 (7) Where the applicant seeks a direction from the Secretary of State under section 12(2A) of the Planning (Hazardous Substances) Act 1990 [^c15886781] that hazardous substances consent shall be deemed to be granted, he shall submit with the application—
 
-- (a)[^key-2e6e43f42a68ab1b6e9a35cebec0308e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) the information and documentation specified regulation 5(1)(c), 5(1)(d), 5(2)(c) to (h) and 5(3)(c) to (g) of the Planning (Hazardous Substances) Regulations 2015[^key-70c808b12a46a08e0b1824831f946676] as the case may require.
+- (a)[^c-2e6e43f42a68ab1b6e9a35cebec0308e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the information and documentation specified regulation 5(1)(c), 5(1)(d), 5(2)(c) to (h) and 5(3)(c) to (g) of the Planning (Hazardous Substances) Regulations 2015[^c-70c808b12a46a08e0b1824831f946676] as the case may require.
 
 (8) As soon as practicable after the date of an application, the applicant shall submit to the Secretary of State evidence by affidavit of compliance with the provisions of rules 13, 14(1) to (8) and 15, and shall exhibit to any such affidavit copies of notices placed in newspapers and the London Gazette (and Lloyd's List if applicable) in accordance with rule 14.
 
-(9) Where the Secretary of State is of the opinion that any of the information submitted pursuant to this rule, other than the applicant’s environmental statement[^key-30012864f580930a8417926645684e0d], is not adequate for its purpose he may within 28 days of receipt of an application—
+(9) Where the Secretary of State is of the opinion that any of the information submitted pursuant to this rule, other than the applicant’s environmental statement[^c-30012864f580930a8417926645684e0d], is not adequate for its purpose he may within 28 days of receipt of an application—
 
 - (a) direct the applicant to provide further information; and
 - (b) where he makes such a direction he may require the applicant to comply with any of the provisions of rules 13 and 14 in respect of the further information required.
 
 ## Annotations
 
-[^key-974557e871b82bb24decc171d21fbacc]: Textual amendment: [Rule 10(1)](https://www.legislation.gov.uk/uksi/2006/1466/rule/10/1) omitted (11.8.2023) by virtue of [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/795/rule/3/2/a) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
+[^c-974557e871b82bb24decc171d21fbacc]: Textual amendment: [Rule 10(1)](https://www.legislation.gov.uk/uksi/2006/1466/rule/10/1) omitted (11.8.2023) by virtue of [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/795/rule/3/2/a) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
 
-[^key-fce3d771cfb9344f6698d33dc334948c]: Textual amendment: Words in [rule 10(2)](https://www.legislation.gov.uk/uksi/2006/1466/rule/10/2) substituted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/795/rule/3/2/b) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
+[^c-fce3d771cfb9344f6698d33dc334948c]: Textual amendment: Words in [rule 10(2)](https://www.legislation.gov.uk/uksi/2006/1466/rule/10/2) substituted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/795/rule/3/2/b) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
 
 [^c15886761]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6), to which there are amendments not relevant to these Rules.
 
-[^key-e148d6c62ae4ce38d1f07c8b9c2e3294]: Textual amendment: Words in rule 10(2)(g) substituted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2017/1070/schedule/4/paragraph/3) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/9))
+[^c-e148d6c62ae4ce38d1f07c8b9c2e3294]: Textual amendment: Words in rule 10(2)(g) substituted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2017/1070/schedule/4/paragraph/3) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/9))
 
 [^c15886771]: Marginal citation: Subsection (2A) was inserted by section 16(1) of the [Transport and Works Act 1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42).
 
 [^c15886781]: Marginal citation: [1990 c. 10](https://www.legislation.gov.uk/ukpga/1990/10). Section 12 (2A) was inserted by section 18 of the Transport and Works Act 1992.
 
-[^key-2e6e43f42a68ab1b6e9a35cebec0308e]: Textual amendment: Rule 10(7)(a) omitted (1.6.2015) by virtue of [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/627/schedule/5/paragraph/2/2/a) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-2e6e43f42a68ab1b6e9a35cebec0308e]: Textual amendment: Rule 10(7)(a) omitted (1.6.2015) by virtue of [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/627/schedule/5/paragraph/2/2/a) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
 
-[^key-70c808b12a46a08e0b1824831f946676]: Textual amendment: Words in rule 10(7)(b) substituted (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [Sch. 5 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/627/schedule/5/paragraph/2/2/b) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-70c808b12a46a08e0b1824831f946676]: Textual amendment: Words in rule 10(7)(b) substituted (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [Sch. 5 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/627/schedule/5/paragraph/2/2/b) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
 
-[^key-30012864f580930a8417926645684e0d]: Textual amendment: Words in rule 10(9) substituted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2017/1070/schedule/4/paragraph/3) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/9))
+[^c-30012864f580930a8417926645684e0d]: Textual amendment: Words in rule 10(9) substituted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2017/1070/schedule/4/paragraph/3) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/9))

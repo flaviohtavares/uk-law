@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Abolition of requirements to hold meetings: company insolvency[^key-0f318db836f3bcfea6804983f10bd1d8][^key-783133e18eb1aab8680d1029bf2a2372][^key-41968d7c6a7cc6a87278e0bf1934cec2]
+## 122. Abolition of requirements to hold meetings: company insolvency[^c-0f318db836f3bcfea6804983f10bd1d8][^c-783133e18eb1aab8680d1029bf2a2372][^c-41968d7c6a7cc6a87278e0bf1934cec2]
 
 *Extent: E+W+S+N.I.*
 
@@ -157,8 +157,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0f318db836f3bcfea6804983f10bd1d8]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2015/26/section/122) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d)
+[^c-0f318db836f3bcfea6804983f10bd1d8]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2015/26/section/122) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d)
 
-[^key-783133e18eb1aab8680d1029bf2a2372]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2015/26/section/122) in force at 6.4.2017 for E.W. in so far as not already in force by [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by S.I. 2017/363, reg. 3)
+[^c-783133e18eb1aab8680d1029bf2a2372]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2015/26/section/122) in force at 6.4.2017 for E.W. in so far as not already in force by [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by S.I. 2017/363, reg. 3)
 
-[^key-41968d7c6a7cc6a87278e0bf1934cec2]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2015/26/section/122) in force at 6.4.2019 for S. in so far as not already in force by [S.I. 2019/816](https://www.legislation.gov.uk/uksi/2019/816), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2019/816/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/816/regulation/5))
+[^c-41968d7c6a7cc6a87278e0bf1934cec2]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2015/26/section/122) in force at 6.4.2019 for S. in so far as not already in force by [S.I. 2019/816](https://www.legislation.gov.uk/uksi/2019/816), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2019/816/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/816/regulation/5))

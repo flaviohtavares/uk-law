@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] would otherwise remove an NHS chemist (C) from a pharmaceutical list under regulation 75, but—
+(1) If NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] would otherwise remove an NHS chemist (C) from a pharmaceutical list under regulation 75, but—
 
 - (a) is investigating C in order to see whether there are grounds for exercising its powers in relation to C under section 151, 152 or 154 of the 2006 Act [^c21646951](which relate to disqualification of practitioners, contingent removal and suspension), or regulation 80;
 - (b) has decided to—
@@ -41,6 +41,6 @@ it must not, without the consent of the Secretary of State, remove C from that p
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21646951]: Marginal citation: Section 154 has been amended by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).

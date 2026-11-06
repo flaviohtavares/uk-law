@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Revoking placement orders[^key-a84af6fdec7a85baf2c3cbfd813e4f25]
+## 24. Revoking placement orders[^c-a84af6fdec7a85baf2c3cbfd813e4f25]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) The court cannot give leave under subsection (2)(a) unless satisfied that there has been a change in circumstances since the order was made.
 
-(4)[^key-a49f0f28ba3228ef703c4cbbe8452136] If the court determines, on an application for an adoption order, not to make the order, it may revoke any placement order in respect of the child.
+(4)[^c-a49f0f28ba3228ef703c4cbbe8452136] If the court determines, on an application for an adoption order, not to make the order, it may revoke any placement order in respect of the child.
 
 (5) Where—
 
@@ -40,6 +40,6 @@ the child may not without the court’s leave be placed for adoption under the o
 
 ## Annotations
 
-[^key-a84af6fdec7a85baf2c3cbfd813e4f25]: Commencement: S. 24 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-a84af6fdec7a85baf2c3cbfd813e4f25]: Commencement: S. 24 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-a49f0f28ba3228ef703c4cbbe8452136]: Modification: S. 24(4) applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [11(1)(e)](https://www.legislation.gov.uk/uksi/2005/392/regulation/11/1/e), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [55](https://www.legislation.gov.uk/uksi/2005/392/regulation/55)
+[^c-a49f0f28ba3228ef703c4cbbe8452136]: Modification: S. 24(4) applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [11(1)(e)](https://www.legislation.gov.uk/uksi/2005/392/regulation/11/1/e), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [55](https://www.legislation.gov.uk/uksi/2005/392/regulation/55)

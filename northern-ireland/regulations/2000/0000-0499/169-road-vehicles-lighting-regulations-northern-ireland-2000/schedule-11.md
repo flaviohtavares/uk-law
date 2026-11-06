@@ -52,11 +52,11 @@ Regulations 21 and 23
 | *Extent: E+W+S+N.I.*<br>**10.** Electrical connections: | No rear fog lamp shall be fitted to any vehicle so that it can be illuminated by the application of any braking system on the vehicle |
 | *Extent: E+W+S+N.I.*<br>**11.** Tell-tale: | A circuit-closed tell-tale shall be fitted |
 
-**12.**[^key-75323c181fdb790495e2cd4925f67983] Other requirements—
+**12.**[^c-75323c181fdb790495e2cd4925f67983] Other requirements—
 
 Where two rear fog lamps are fitted to any motor vehicle or trailer manufactured on or after 1st May 1980 and first used on or after 1st November 1980 they shall form a matched pair.
 
-**13.**[^key-857654a6c7af25b7f1fd933c80de5efa] Definitions—
+**13.**[^c-857654a6c7af25b7f1fd933c80de5efa] Definitions—
 
 In this Schedule “approval mark” means either—
 
@@ -65,16 +65,16 @@ In this Schedule “approval mark” means either—
 
 ### Part II — Requirements Relating to Optional Rear Fog Lamps
 
-**1.**[^key-92a0f6bf13a60d944bde6d9176bb7458] In the case of a motor vehicle first used before 1st November 1980 and any other vehicle manufactured before 1st May 1980, any number may be fitted and the only requirements prescribed by these Regulations in respect of any which are fitted are those specified in paragraphs 2(*d*), 7 and 10 of Part I.
+**1.**[^c-92a0f6bf13a60d944bde6d9176bb7458] In the case of a motor vehicle first used before 1st November 1980 and any other vehicle manufactured before 1st May 1980, any number may be fitted and the only requirements prescribed by these Regulations in respect of any which are fitted are those specified in paragraphs 2(*d*), 7 and 10 of Part I.
 
-**2.**[^key-7d2e8c7d03db8c207c05dcf846158e46] In the case of a motor vehicle first used on or after 1st November 1980 and any other vehicle manufactured on or after 1st May 1980, not more than two may be fitted and the requirements prescribed by these Regulations in respect of any which are fitted are all those specified in this Schedule.
+**2.**[^c-7d2e8c7d03db8c207c05dcf846158e46] In the case of a motor vehicle first used on or after 1st November 1980 and any other vehicle manufactured on or after 1st May 1980, not more than two may be fitted and the requirements prescribed by these Regulations in respect of any which are fitted are all those specified in this Schedule.
 
 ## Annotations
 
-[^key-75323c181fdb790495e2cd4925f67983]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/nisr/2000/169/schedule/11/paragraph/12) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-75323c181fdb790495e2cd4925f67983]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/nisr/2000/169/schedule/11/paragraph/12) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-857654a6c7af25b7f1fd933c80de5efa]: Commencement: [Sch. 11 para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/11/paragraph/13) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-857654a6c7af25b7f1fd933c80de5efa]: Commencement: [Sch. 11 para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/11/paragraph/13) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-92a0f6bf13a60d944bde6d9176bb7458]: Commencement: [Sch. 11 Pt. II para. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/11/part/II/paragraph/1) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-92a0f6bf13a60d944bde6d9176bb7458]: Commencement: [Sch. 11 Pt. II para. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/11/part/II/paragraph/1) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-7d2e8c7d03db8c207c05dcf846158e46]: Commencement: [Sch. 11 Pt. II para. 2](https://www.legislation.gov.uk/nisr/2000/169/schedule/11/part/II/paragraph/2) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-7d2e8c7d03db8c207c05dcf846158e46]: Commencement: [Sch. 11 Pt. II para. 2](https://www.legislation.gov.uk/nisr/2000/169/schedule/11/part/II/paragraph/2) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

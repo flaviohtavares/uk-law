@@ -63,9 +63,9 @@ An Act to make further provision for the treatment of cancer, to authorise the M
 
 (5) Nothing in this section shall apply in respect of any advertisement published by a local authority or by the governing body of a voluntary hospital or by any person acting with the sanction of the Minister.
 
-(6)[^key-19d19d8fe4667102947a3aece64dee3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-19d19d8fe4667102947a3aece64dee3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-70988d70dc09c47057ede3c005deaaba] Each of the following may institute proceedings under this section—
+(7)[^c-70988d70dc09c47057ede3c005deaaba] Each of the following may institute proceedings under this section—
 
 - (a) a county council in England;
 - (b) a non-metropolitan district council for an area in England for which there is no county council;
@@ -124,9 +124,9 @@ The following provisions shall have effect for the purpose of the application of
 
 [^c589737]: Textual amendment: S. 4(4)(a) (vii) repealed by [Medicines Act 1968 (c. 67)](https://www.legislation.gov.uk/ukpga/1968/67), [Sch. 6](https://www.legislation.gov.uk/ukpga/1968/67/schedule/6)
 
-[^key-19d19d8fe4667102947a3aece64dee3e]: Textual amendment: S. 4(6) repealed (30.10.2008) by [Legislative Reform (Local Authority Consent Requirements) (England and Wales) Order 2008 (S.I. 2008/2840)](https://www.legislation.gov.uk/uksi/2008/2840), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2840/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2008/2840/article/2/a)
+[^c-19d19d8fe4667102947a3aece64dee3e]: Textual amendment: S. 4(6) repealed (30.10.2008) by [Legislative Reform (Local Authority Consent Requirements) (England and Wales) Order 2008 (S.I. 2008/2840)](https://www.legislation.gov.uk/uksi/2008/2840), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2840/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2008/2840/article/2/a)
 
-[^key-70988d70dc09c47057ede3c005deaaba]: Textual amendment: S. 4(7) substituted (30.10.2008) by [Legislative Reform (Local Authority Consent Requirements) (England and Wales) Order 2008 (S.I. 2008/2840)](https://www.legislation.gov.uk/uksi/2008/2840), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2840/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2008/2840/article/2/b)
+[^c-70988d70dc09c47057ede3c005deaaba]: Textual amendment: S. 4(7) substituted (30.10.2008) by [Legislative Reform (Local Authority Consent Requirements) (England and Wales) Order 2008 (S.I. 2008/2840)](https://www.legislation.gov.uk/uksi/2008/2840), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2840/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2008/2840/article/2/b)
 
 [^c589739]: Textual amendment: definition repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. VIII](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/VIII)
 

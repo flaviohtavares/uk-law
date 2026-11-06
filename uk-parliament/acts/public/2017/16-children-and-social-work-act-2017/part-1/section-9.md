@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Adoption: duty to have regard to relationship with adopters[^key-814778e11bf303042e40f26390d3180e]
+## 9. Adoption: duty to have regard to relationship with adopters[^c-814778e11bf303042e40f26390d3180e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 1(4) of the Adoption and Children Act 2002 (matters to which court is
 
 ## Annotations
 
-[^key-814778e11bf303042e40f26390d3180e]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/16/section/9) in force at 31.10.2017 by [S.I. 2017/918](https://www.legislation.gov.uk/uksi/2017/918), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/918/regulation/2/b)
+[^c-814778e11bf303042e40f26390d3180e]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/16/section/9) in force at 31.10.2017 by [S.I. 2017/918](https://www.legislation.gov.uk/uksi/2017/918), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/918/regulation/2/b)

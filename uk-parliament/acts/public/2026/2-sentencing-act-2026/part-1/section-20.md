@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Sentencing guidelines[^key-df17b11e406f2c4a5e29b7f347a8a96a]
+## 20. Sentencing guidelines[^c-df17b11e406f2c4a5e29b7f347a8a96a]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df17b11e406f2c4a5e29b7f347a8a96a]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2026/2/section/20) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-df17b11e406f2c4a5e29b7f347a8a96a]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2026/2/section/20) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

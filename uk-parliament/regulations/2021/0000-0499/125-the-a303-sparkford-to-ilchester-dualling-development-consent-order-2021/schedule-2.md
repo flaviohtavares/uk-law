@@ -24,7 +24,7 @@ Article 5
 
 ### PART 1 — REQUIREMENTS
 
-#### 1. Interpretation[^key-3114ed71b12ed424c14c1d69293cfad3]
+#### 1. Interpretation[^c-3114ed71b12ed424c14c1d69293cfad3]
 
 In this Schedule—
 
@@ -44,11 +44,11 @@ In this Schedule—
 - “**Somerset County Council's archaeological advisor**” means the individual appointed as such by the relevant planning authority;
 - “**written**” includes shown in the form of a plan, section, drawing or any similar material which is submitted in compliance with any requirement.
 
-#### 2. Time limits[^key-f38a416042a87e1464b36809ff0fc0c9]
+#### 2. Time limits[^c-f38a416042a87e1464b36809ff0fc0c9]
 
 The authorised development must not commence later than the expiration of 5 years beginning with the date on which this Order comes into force.
 
-#### 3. Construction Environmental Management Plan[^key-776b75666b79e8194e1a8b03f12f0655]
+#### 3. Construction Environmental Management Plan[^c-776b75666b79e8194e1a8b03f12f0655]
 
 (1) No part of the authorised development is to commence until a CEMP has been prepared in consultation with the Defence Infrastructure Organisation, the Environment Agency, the relevant planning authority and the local highway authority and submitted to and approved in writing by the Secretary of State.
 
@@ -84,7 +84,7 @@ The authorised development must not commence later than the expiration of 5 year
 
 (4) Upon completion of construction of the authorised development the CEMP and LEMP must be converted into the HEMP, and the authorised development must be operated and maintained in accordance with the HEMP.
 
-#### 4. Landscape and ecological management plan[^key-77a288aad29c986fca8c672f05b977f2]
+#### 4. Landscape and ecological management plan[^c-77a288aad29c986fca8c672f05b977f2]
 
 (1) No part of the authorised development is to commence until a LEMP has been prepared in consultation with Natural England and the relevant planning authority and has been submitted to and approved in writing by the Secretary of State.
 
@@ -101,7 +101,7 @@ The authorised development must not commence later than the expiration of 5 year
 
 (5) Upon completion of construction of the authorised development, the ongoing commitments and obligations in the LEMP must be incorporated into the HEMP required under requirement 3(4) of this Part of this Schedule.
 
-#### 5. Details of consultation[^key-fe53b1fdcfe614a630b987537ee7079d]
+#### 5. Details of consultation[^c-fe53b1fdcfe614a630b987537ee7079d]
 
 (1) With respect to any requirement which requires details to be submitted to the Secretary of State for approval under this Schedule after consultation by the undertaker with another party, the details submitted must be accompanied by—
 
@@ -114,7 +114,7 @@ The authorised development must not commence later than the expiration of 5 year
 
 (4) Where the requests made in consultation responses are not incorporated in the details submitted to the Secretary of State for approval, the undertaker must state in the report referred to under sub-paragraph (1) the reasons why any requests made in consultation responses have not been included in the submitted details. At the same time as sending that report to the Secretary of State for approval the undertaker must send a copy of that report by electronic transmission to any consultee who made representations on that matter.
 
-#### 6. Landscaping[^key-21b2aedcbebaab4469063ec530a8272e]
+#### 6. Landscaping[^c-21b2aedcbebaab4469063ec530a8272e]
 
 (1) No part of the authorised development is to commence until a written landscaping scheme for that part has, after consultation by the undertaker with the relevant planning authority and the local highway authority, been submitted to and approved in writing by the Secretary of State.
 
@@ -135,7 +135,7 @@ The authorised development must not commence later than the expiration of 5 year
 - (g) details of boundary treatments, environmental barriers, stone walls, fencing, gates and stiles, and
 - (h) implementation timetables for all landscaping works.
 
-#### 7. Implementation and maintenance of landscaping[^key-0ea4ae905313468538066f5c0430f59c]
+#### 7. Implementation and maintenance of landscaping[^c-0ea4ae905313468538066f5c0430f59c]
 
 (1) All landscaping works must be carried out in accordance with the landscaping scheme approved under requirement 6.
 
@@ -143,7 +143,7 @@ The authorised development must not commence later than the expiration of 5 year
 
 (3) Any tree or shrub planted as part of the landscaping scheme that, within a period of 5 years after planting, is removed, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted.
 
-#### 8. Land and groundwater contamination[^key-364eadd82ab7c6210789a57c700d70ce]
+#### 8. Land and groundwater contamination[^c-364eadd82ab7c6210789a57c700d70ce]
 
 (1) No part of the authorised development is to commence until a contamination risk assessment in respect of controlled waters has been produced which is to include details of—
 
@@ -161,7 +161,7 @@ and the assessment has, after consultation by the undertaker with the Environmen
 
 (5) Remedial measures must be carried out in accordance with the approved scheme.
 
-#### 9. Archaeology[^key-a4ee8dce3fc2e87f97ca87745a02d9eb]
+#### 9. Archaeology[^c-a4ee8dce3fc2e87f97ca87745a02d9eb]
 
 (1) No part of the authorised development is to commence until a written scheme of investigation for the investigation and mitigation of areas of archaeological interest for each area and/or each phase in that part, has been prepared by the undertaker in consultation with the relevant planning authority and the local highway authority, agreed with Somerset County Council's archaeological advisor and submitted to and approved in writing by the Secretary of State. The written scheme of investigation must reflect the mitigation measures included in the environmental statement and the outline written heritage scheme of investigation, and include provision for sub-schemes for specific works, areas or locations, which may include evaluation, detailed excavation or archaeological monitoring plans.
 
@@ -175,7 +175,7 @@ and the assessment has, after consultation by the undertaker with the Environmen
 
 (6) No later than the expiry of the period of 10 working days beginning with the first working day after the completion of the authorised development, suitable resources and provisions for long term storage of the archaeological archive will be agreed with Somerset County Council's archaeological advisor.
 
-#### 10. Ecology, Priority and Protected species[^key-472b22e42613f40b1487e839a8ccb1eb]
+#### 10. Ecology, Priority and Protected species[^c-472b22e42613f40b1487e839a8ccb1eb]
 
 (1) No part of the authorised development may be undertaken unless the ecological effects are supervised by an appropriately qualified person appointed by the undertaker, which person may be the Ecological Clerk of Works.
 
@@ -185,13 +185,13 @@ and the assessment has, after consultation by the undertaker with the Environmen
 
 (4) The undertaker must implement the written scheme prepared under sub-paragraph (3) immediately and construction in the area specified in the written scheme must not recommence until any necessary licences are obtained to enable mitigation measures to be implemented.
 
-#### 11. Traffic management[^key-5861718bfe90f7aa895d6d0133993da3]
+#### 11. Traffic management[^c-5861718bfe90f7aa895d6d0133993da3]
 
 (1) No part of the authorised development is to commence until a traffic management plan for the construction of the authorised development, substantially in accordance with the outline traffic management plan, has, after consultation by the undertaker with the local highway authority and South Somerset District Council, been submitted to and approved in writing by the Secretary of State.
 
 (2) The authorised development must be constructed in accordance with the approved traffic management plan.
 
-#### 12. Detailed design[^key-2b5af18f222002e99634fd474089fcbb]
+#### 12. Detailed design[^c-2b5af18f222002e99634fd474089fcbb]
 
 (1) No part of the authorised development is to commence until the detailed design of that part has, after consultation with the Defence Infrastructure Organisation, the relevant planning authority and local highway authority on matters related to their functions, been approved in writing by the Secretary of State.
 
@@ -209,7 +209,7 @@ and the assessment has, after consultation by the undertaker with the Environmen
 
 (6) Where amended details are approved by the Secretary of State under sub-paragraph (1), those details are deemed to be substituted for the approved details, corresponding works plans or engineering section drawings and the undertaker must make those amended details available in electronic form for inspection by members of the public and must be notified by means of electronic transmission to the Environment Agency, the local highway authority, the relevant planning authority, and where works relate to the Hazlegrove House Registered Park and Garden, the Historic Buildings and Monuments Commission for England.
 
-#### 13. Surface water drainage[^key-44943852a98a6c08606f3d52611dfbe7]
+#### 13. Surface water drainage[^c-44943852a98a6c08606f3d52611dfbe7]
 
 (1) No part of the authorised development is to commence until, after consultation by the undertaker with the relevant planning authority, the lead local flood authority, the local highway authority and the Environment Agency, written details of the surface water drainage system, reflecting the mitigation measures in the environmental statement and including means of pollution control, have been submitted to and approved in writing by the Secretary of State.
 
@@ -242,7 +242,7 @@ and the assessment has, after consultation by the undertaker with the Environmen
 
 (8) In this paragraph, “**the lead local flood authority**” has the same meaning as in the Flood and Water Management Act 2010 [^c24442781].
 
-#### 14. Noise mitigation[^key-471c7251abe1aae7cfd7ec3fee28dc8f]
+#### 14. Noise mitigation[^c-471c7251abe1aae7cfd7ec3fee28dc8f]
 
 (1) No part of the authorised development is to commence until, after consultation by the undertaker with the relevant planning authority, written details of proposed noise mitigation in respect of the construction, use and operation of that part of the authorised development have been submitted to and approved in writing by the Secretary of State.
 
@@ -253,7 +253,7 @@ and the assessment has, after consultation by the undertaker with the Environmen
 
 (3) The noise mitigation must be constructed in accordance with the approved details referred to in sub-paragraph (1) and must be retained thereafter.
 
-#### 15. Highway lighting[^key-e9d9ad77b90572b612ee3f86894172f9]
+#### 15. Highway lighting[^c-e9d9ad77b90572b612ee3f86894172f9]
 
 (1) No part of the authorised development is to commence until a written scheme of the proposed highway lighting to be provided for that part of the authorised development has, after consultation by the undertaker with South Somerset District Council and (in the case of proposed lighting for any highway for which the undertaker is not, or will not be following implementation of article 14(2), the highway authority) the local highway authority, been submitted to and approved in writing by the Secretary of State.
 
@@ -268,7 +268,7 @@ and the assessment has, after consultation by the undertaker with the Environmen
 
 (5) Nothing in this requirement restricts the lighting of the authorised development during its construction or where temporarily required for maintenance.
 
-#### 16. Delivery approach plan[^key-78cc54370fa38dd0fcfce57b8c76c163]
+#### 16. Delivery approach plan[^c-78cc54370fa38dd0fcfce57b8c76c163]
 
 (1) No part of the authorised development is to commence until a delivery approach plan for the construction of the authorised development has, after consultation by the undertaker with the local highway authority and relevant planning authority, been submitted to and approved in writing by the Secretary of State. The delivery approach plan must set how the authorised development will be delivered to ensure that mitigation works will be in place at the point when the works for which that mitigation is required are completed, which mitigation works include but are not limited to—
 
@@ -279,21 +279,21 @@ and the assessment has, after consultation by the undertaker with the Environmen
 
 (2) Where any requirement refers to any part of the authorised development and discharge is sought for a part, the delivery approach plan must set out how that part fits into the overall plan and why it is appropriate for that part to commence as a part.
 
-#### 17. Provision of non-motorised user route at western end[^key-047bd50a32465d68b92c50a1f328367e]
+#### 17. Provision of non-motorised user route at western end[^c-047bd50a32465d68b92c50a1f328367e]
 
 No part of the authorised development is to commence until details of a scheme for a bridleway connecting Eastmead Lane from the closure marked B1 on the rights of way and access plans with the southern side of the A303 by way of the Higher Farm Lane overbridge have, after consultation by the undertaker with Somerset County Council, been submitted to and approved in writing by the Secretary of State. The scheme submitted for approval must include an explanation of the mechanisms for delivery of the measures and works set out in it, and where any legal agreement is required, must include a copy of the agreement in terms agreed by the proposed parties.
 
-#### 18. No through road signs for Traits Lane and Gason Lane[^key-c5bcb8e19ea150636f6be9f857127756]
+#### 18. No through road signs for Traits Lane and Gason Lane[^c-c5bcb8e19ea150636f6be9f857127756]
 
 Notwithstanding any provision in this Order, the existing junctions of Traits Lane and Gason Lane with the A303 must not be closed to traffic until a scheme securing the delivery of no through road signs to be installed at the southern junctions of these roads with Blackwell Road has, after consultation by the undertaker with the traffic authority, been submitted to and approved in writing by the Secretary of State.
 
-#### 19. Speed limit on B3151[^key-c14fdc0157602e809bf07b2618bf5d1f]
+#### 19. Speed limit on B3151[^c-c14fdc0157602e809bf07b2618bf5d1f]
 
 Notwithstanding any provision in this Order, the existing junction of the B3151 with the A303 must not be reconfigured until a scheme securing the promotion of a traffic regulation order under the 1984 Act amending the speed limit of this road by Somerset County Council at the expense of the undertaker has been submitted to and approved in writing by the Secretary of State.
 
-#### 20. Traffic monitoring and mitigation in Sparkford[^key-0e37c4a7187ebc8052f761d0c2fa4100]
+#### 20. Traffic monitoring and mitigation in Sparkford[^c-0e37c4a7187ebc8052f761d0c2fa4100]
 
-(1) No part of the authorised development is to commence until written details of a traffic impact monitoring and mitigation scheme for Sparkford High Street has, after consultation by the undertaker with the local highway authority, been submitted to and approved in writing by the Secretary of State[^key-51663f886d8959b0a7482d252ce27e2c].
+(1) No part of the authorised development is to commence until written details of a traffic impact monitoring and mitigation scheme for Sparkford High Street has, after consultation by the undertaker with the local highway authority, been submitted to and approved in writing by the Secretary of State[^c-51663f886d8959b0a7482d252ce27e2c].
 
 (2) The traffic impact monitoring and mitigation scheme must include—
 
@@ -305,13 +305,13 @@ Notwithstanding any provision in this Order, the existing junction of the B3151 
 
 (3) The scheme approved under sub-paragraph (1) must be implemented by the undertaker
 
-#### 21. Approvals and amendments to approved details[^key-05da7aa04aecfdd3db2f409880edefb0]
+#### 21. Approvals and amendments to approved details[^c-05da7aa04aecfdd3db2f409880edefb0]
 
 With respect to any requirement which requires the authorised development to be carried out in accordance with the details approved under this Schedule, the approved details are taken to include any amendments that may subsequently be approved or agreed in writing by the Secretary of State.
 
 ### PART 2 — PROCEDURE FOR DISCHARGE OF REQUIREMENTS
 
-#### 22. Applications made under requirements[^key-dc1811e97d1c9615852c9c1f8d782d58]
+#### 22. Applications made under requirements[^c-dc1811e97d1c9615852c9c1f8d782d58]
 
 (1) Where an application has been made to the Secretary of State for any consent, agreement or approval required by a requirement (including agreement or approval in respect of part of a requirement) included in this Order, the Secretary of State must give notice to the undertaker, the relevant planning authority and the local highway authority of the decision on the application within a period of 8 weeks beginning with—
 
@@ -329,7 +329,7 @@ With respect to any requirement which requires the authorised development to be 
 
 then the application is taken to have been refused by the Secretary of State at the end of that period.
 
-#### 23. Further information[^key-3bfe1b199abc665f6bf25de3c3ff907a]
+#### 23. Further information[^c-3bfe1b199abc665f6bf25de3c3ff907a]
 
 (1) In relation to any part of an application made under this Schedule, the Secretary of State has the right to request such further information from the undertaker as is necessary to enable the Secretary of State to consider the application.
 
@@ -339,7 +339,7 @@ then the application is taken to have been refused by the Secretary of State at 
 
 (4) In this paragraph, “**business day**” means a day other than Saturday or Sunday which is not Christmas Day, Good Friday or a bank holiday under section 1 (bank holidays) of the Banking and Financial Dealings Act 1971 [^c24442791].
 
-#### 24. Register of requirements[^key-aa28e08c18325ea2f9758208a78f26b5]
+#### 24. Register of requirements[^c-aa28e08c18325ea2f9758208a78f26b5]
 
 (1) The undertaker must, as soon as practicable following the making of this Order, establish and maintain in an electronic form suitable for inspection by members of the public a register of those requirements contained in Part 1 of this Schedule that provide for further approvals to be given by the Secretary of State.
 
@@ -347,13 +347,13 @@ then the application is taken to have been refused by the Secretary of State at 
 
 (3) The register must be maintained by the undertaker for a period of 3 years following completion of the authorised development.
 
-#### 25. Anticipatory steps towards compliance with any requirement[^key-5d2df1c53dd320a3fdfa57a988a6f5cb]
+#### 25. Anticipatory steps towards compliance with any requirement[^c-5d2df1c53dd320a3fdfa57a988a6f5cb]
 
 If before this Order came into force the undertaker or any other person took any steps that were intended to be steps towards compliance with any provision of Part 1 of this Schedule, those steps may be taken into account for the purpose of determining compliance with that provision if they would have been valid steps for that purpose had they been taken after this Order came into force.
 
 ## Annotations
 
-[^key-3114ed71b12ed424c14c1d69293cfad3]: Commencement: Sch. 2 para. 1 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-3114ed71b12ed424c14c1d69293cfad3]: Commencement: Sch. 2 para. 1 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
 [^c24442731]: Marginal citation: [Section 78A](https://www.legislation.gov.uk/uksi/2021/125/section/78A) was inserted by section 57 of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
@@ -361,60 +361,60 @@ If before this Order came into force the undertaker or any other person took any
 
 [^c24442751]: Marginal citation: OJ No. L 206, 22.7.1992, p.7, as last amended by Council Directive 2013/17/EU (OJ No. L 158, 10.6.2013, p.193).
 
-[^key-f38a416042a87e1464b36809ff0fc0c9]: Commencement: Sch. 2 para. 2 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-f38a416042a87e1464b36809ff0fc0c9]: Commencement: Sch. 2 para. 2 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-776b75666b79e8194e1a8b03f12f0655]: Commencement: Sch. 2 para. 3 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-776b75666b79e8194e1a8b03f12f0655]: Commencement: Sch. 2 para. 3 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-77a288aad29c986fca8c672f05b977f2]: Commencement: Sch. 2 para. 4 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-77a288aad29c986fca8c672f05b977f2]: Commencement: Sch. 2 para. 4 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-fe53b1fdcfe614a630b987537ee7079d]: Commencement: Sch. 2 para. 5 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-fe53b1fdcfe614a630b987537ee7079d]: Commencement: Sch. 2 para. 5 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-21b2aedcbebaab4469063ec530a8272e]: Commencement: Sch. 2 para. 6 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-21b2aedcbebaab4469063ec530a8272e]: Commencement: Sch. 2 para. 6 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
 [^c24442761]: Marginal citation: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).
 
-[^key-0ea4ae905313468538066f5c0430f59c]: Commencement: Sch. 2 para. 7 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-0ea4ae905313468538066f5c0430f59c]: Commencement: Sch. 2 para. 7 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-364eadd82ab7c6210789a57c700d70ce]: Commencement: Sch. 2 para. 8 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-364eadd82ab7c6210789a57c700d70ce]: Commencement: Sch. 2 para. 8 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-a4ee8dce3fc2e87f97ca87745a02d9eb]: Commencement: Sch. 2 para. 9 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-a4ee8dce3fc2e87f97ca87745a02d9eb]: Commencement: Sch. 2 para. 9 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-472b22e42613f40b1487e839a8ccb1eb]: Commencement: Sch. 2 para. 10 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-472b22e42613f40b1487e839a8ccb1eb]: Commencement: Sch. 2 para. 10 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-5861718bfe90f7aa895d6d0133993da3]: Commencement: Sch. 2 para. 11 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-5861718bfe90f7aa895d6d0133993da3]: Commencement: Sch. 2 para. 11 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-2b5af18f222002e99634fd474089fcbb]: Commencement: Sch. 2 para. 12 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-2b5af18f222002e99634fd474089fcbb]: Commencement: Sch. 2 para. 12 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
 [^c24442771]: Marginal citation: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9).
 
-[^key-44943852a98a6c08606f3d52611dfbe7]: Commencement: Sch. 2 para. 13 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-44943852a98a6c08606f3d52611dfbe7]: Commencement: Sch. 2 para. 13 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
 [^c24442781]: Marginal citation: [2010 c. 29](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-471c7251abe1aae7cfd7ec3fee28dc8f]: Commencement: Sch. 2 para. 14 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-471c7251abe1aae7cfd7ec3fee28dc8f]: Commencement: Sch. 2 para. 14 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-e9d9ad77b90572b612ee3f86894172f9]: Commencement: Sch. 2 para. 15 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-e9d9ad77b90572b612ee3f86894172f9]: Commencement: Sch. 2 para. 15 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-78cc54370fa38dd0fcfce57b8c76c163]: Commencement: Sch. 2 para. 16 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-78cc54370fa38dd0fcfce57b8c76c163]: Commencement: Sch. 2 para. 16 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-047bd50a32465d68b92c50a1f328367e]: Commencement: Sch. 2 para. 17 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-047bd50a32465d68b92c50a1f328367e]: Commencement: Sch. 2 para. 17 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-c5bcb8e19ea150636f6be9f857127756]: Commencement: Sch. 2 para. 18 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-c5bcb8e19ea150636f6be9f857127756]: Commencement: Sch. 2 para. 18 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-c14fdc0157602e809bf07b2618bf5d1f]: Commencement: Sch. 2 para. 19 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-c14fdc0157602e809bf07b2618bf5d1f]: Commencement: Sch. 2 para. 19 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-0e37c4a7187ebc8052f761d0c2fa4100]: Commencement: Sch. 2 para. 20 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-0e37c4a7187ebc8052f761d0c2fa4100]: Commencement: Sch. 2 para. 20 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-51663f886d8959b0a7482d252ce27e2c]: Textual amendment: Words in Sch. 2 inserted (21.5.2021) by virtue of The A303 Sparkford to [Ilchester Dualling Development Consent (Correction) Order 2021 (S.I. 2021/607)](https://www.legislation.gov.uk/uksi/2021/607), [arts. 1](https://www.legislation.gov.uk/uksi/2021/607/article/1), [2](https://www.legislation.gov.uk/uksi/2021/607/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/607/schedule)
+[^c-51663f886d8959b0a7482d252ce27e2c]: Textual amendment: Words in Sch. 2 inserted (21.5.2021) by virtue of The A303 Sparkford to [Ilchester Dualling Development Consent (Correction) Order 2021 (S.I. 2021/607)](https://www.legislation.gov.uk/uksi/2021/607), [arts. 1](https://www.legislation.gov.uk/uksi/2021/607/article/1), [2](https://www.legislation.gov.uk/uksi/2021/607/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/607/schedule)
 
-[^key-05da7aa04aecfdd3db2f409880edefb0]: Commencement: Sch. 2 para. 21 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-05da7aa04aecfdd3db2f409880edefb0]: Commencement: Sch. 2 para. 21 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-dc1811e97d1c9615852c9c1f8d782d58]: Commencement: Sch. 2 para. 22 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-dc1811e97d1c9615852c9c1f8d782d58]: Commencement: Sch. 2 para. 22 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-3bfe1b199abc665f6bf25de3c3ff907a]: Commencement: Sch. 2 para. 23 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-3bfe1b199abc665f6bf25de3c3ff907a]: Commencement: Sch. 2 para. 23 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
 [^c24442791]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-aa28e08c18325ea2f9758208a78f26b5]: Commencement: Sch. 2 para. 24 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-aa28e08c18325ea2f9758208a78f26b5]: Commencement: Sch. 2 para. 24 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-5d2df1c53dd320a3fdfa57a988a6f5cb]: Commencement: Sch. 2 para. 25 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-5d2df1c53dd320a3fdfa57a988a6f5cb]: Commencement: Sch. 2 para. 25 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)

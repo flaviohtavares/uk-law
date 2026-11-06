@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21.1. When this Part applies[^key-9ec3acbf3cba22790660bfc80431d700]
+## 21.1. When this Part applies[^c-9ec3acbf3cba22790660bfc80431d700]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ This Part applies in a magistrates’ court and in the Crown Court where a party
 
 ## Annotations
 
-[^key-9ec3acbf3cba22790660bfc80431d700]: Commencement: [Rule 21.1](https://www.legislation.gov.uk/uksi/2025/909/rule/21.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9ec3acbf3cba22790660bfc80431d700]: Commencement: [Rule 21.1](https://www.legislation.gov.uk/uksi/2025/909/rule/21.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00482]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).

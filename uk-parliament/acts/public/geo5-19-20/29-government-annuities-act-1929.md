@@ -217,7 +217,7 @@ he shall on conviction be liable to imprisonment[^c586373] for life.
 
 (2) This Part of this Act shall apply to all annuities granted before and in force at the commencement of this Act under any enactment so repealed as if they had been granted under this Part of this Act, and where a person entitled to an annuity granted before the commencement of this Act purchases an annuity under this Part of this Act depending on the life of the same nominee as the former annuity, the annuity so purchased shall be added to the former annuity, and the two shall be treated as a single annuity depending on the life of such nominee, as if both annuities had been granted under this Act
 
-[^key-476b06da8bfba8650c9341f72c7179fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-476b06da8bfba8650c9341f72c7179fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) All regulations and tables made under any enactment so repealed shall continue in force and have effect as if they had been made under this Act.
 
@@ -289,13 +289,13 @@ Provided that—
 
 ### 48. Power to recover money in county courts.
 
-(1) If payment of any sum of money alleged to be due under a savings bank insurance is refused by the Commissioners, the person entitled thereto may, if he thinks fit, instead of proceeding by arbitration in the manner provided by the enactments relating to savings banks as applied by this Part of this Act, take proceedings for recovering the amount claimed against the Commissioners in the county court of the district in which the contract was entered into, or, with the consent of the Commissioners, in the county court within the district of which such person is resident *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3556114ea035842e6f95f8b3794ce21d].
+(1) If payment of any sum of money alleged to be due under a savings bank insurance is refused by the Commissioners, the person entitled thereto may, if he thinks fit, instead of proceeding by arbitration in the manner provided by the enactments relating to savings banks as applied by this Part of this Act, take proceedings for recovering the amount claimed against the Commissioners in the county court of the district in which the contract was entered into, or, with the consent of the Commissioners, in the county court within the district of which such person is resident *(Extent: N.I.)* *(affected by repeal, see note)*[^c-3556114ea035842e6f95f8b3794ce21d].
 
 For the purposes of this section the contract shall be deemed to have been entered into at the place where the insured person resided at the date specified in the contract as the date thereof.
 
 (2) A county court in which proceedings may be taken under this section shall have jurisdiction in the matter, and the decision of the court thereon shall be final and shall not be subject to any appeal.
 
-(2A)[^key-584d2b3037eba4b1515c47e2aa68144e] For the purposes of this section, England and Wales is to be treated as the district of the county court in England and Wales.
+(2A)[^c-584d2b3037eba4b1515c47e2aa68144e] For the purposes of this section, England and Wales is to be treated as the district of the county court in England and Wales.
 
 (3) In the application of this section to Scotland references to the sheriff court shall be substituted for references to the county court.
 
@@ -389,7 +389,7 @@ No notice of any trust, express, implied or constructive, affecting any savings 
 
 ### 61. Punishment for fraudulently receiving annuity or insurance.
 
-(1) If any person receives any payment in respect of any savings bank annuity after the death of the person at whose death the annuity is to cease, or receives the amount of any insurance payable at the death of a person before the death of that person, he shall be liable to pay to the Commissioners double the amount of the sum received with interest thereon at the rate of five per cent. per annum from the date of the receipt, recoverable in a county court “ in Northern Ireland or the county court in England and Wales ”[^key-9074bdc083bc4761553e62f504d04e8e] or any other competent court.
+(1) If any person receives any payment in respect of any savings bank annuity after the death of the person at whose death the annuity is to cease, or receives the amount of any insurance payable at the death of a person before the death of that person, he shall be liable to pay to the Commissioners double the amount of the sum received with interest thereon at the rate of five per cent. per annum from the date of the receipt, recoverable in a county court “ in Northern Ireland or the county court in England and Wales ”[^c-9074bdc083bc4761553e62f504d04e8e] or any other competent court.
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c586419]
 
@@ -430,7 +430,7 @@ he shall be liable on conviction to the like punishment as if he had been convic
 
 Provided that—
 
-- (a) Nothing in this section shall affect the validity of any such annuity or insurance or the terms and conditions on which it was granted, [^key-2ec930d397b3f881410a457154435bb7]...
+- (a) Nothing in this section shall affect the validity of any such annuity or insurance or the terms and conditions on which it was granted, [^c-2ec930d397b3f881410a457154435bb7]...
 - (b) This Part of this Act shall apply to a savings bank annuity granted under any such repealed enactment before the eleventh day of October, nineteen hundred and twenty-four, subject to the modifications set forth in Part II of the Third Schedule to this Act.
 
 (3) All regulations and tables made under any enactment repealed by this section shall continue in force and have effect as if they had been made under this Part of this Act.
@@ -484,7 +484,7 @@ SCHEDULES
 
 ## THIRD SCHEDULE
 
-### Part I — Modifications with respect to Annuities granted before the Twenty-eighth day of June, Eighteen hundred and eighty-eight.[^key-198f0d38c2f54af6c043b1a0b6924f63]
+### Part I — Modifications with respect to Annuities granted before the Twenty-eighth day of June, Eighteen hundred and eighty-eight.[^c-198f0d38c2f54af6c043b1a0b6924f63]
 
 **No longer in force.**
 
@@ -572,7 +572,7 @@ The annuities shall continue payable half-yearly on the fifth day of January and
 
 [^c586377]: Textual amendment: S. 36(1) repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6)
 
-[^key-476b06da8bfba8650c9341f72c7179fe]: Textual amendment: S. 36(2) Proviso repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-476b06da8bfba8650c9341f72c7179fe]: Textual amendment: S. 36(2) Proviso repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
 [^c586378]: Textual amendment: [Ss. 37–40](https://www.legislation.gov.uk/ukpga/Geo5/19-20/29/section/37), [42(2)](https://www.legislation.gov.uk/ukpga/Geo5/19-20/29/section/42/2) repealed by [Finance Act 1962 (c. 44)](https://www.legislation.gov.uk/ukpga/1962/44), [Sch. 11 Pt. VI](https://www.legislation.gov.uk/ukpga/1962/44/schedule/11/part/VI)
 
@@ -588,9 +588,9 @@ The annuities shall continue payable half-yearly on the fifth day of January and
 
 [^c586386]: Modification: [s. 46](https://www.legislation.gov.uk/ukpga/Geo5/19-20/29/section/46) saved by [Finance Act 1962 (c. 44)](https://www.legislation.gov.uk/ukpga/1962/44), [s. 33(2)](https://www.legislation.gov.uk/ukpga/1962/44/section/33/2); amended by ibid., s. 33(3)
 
-[^key-3556114ea035842e6f95f8b3794ce21d]: Textual amendment: Words in s. 48(1) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 42](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/42), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-3556114ea035842e6f95f8b3794ce21d]: Textual amendment: Words in s. 48(1) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 42](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/42), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-584d2b3037eba4b1515c47e2aa68144e]: Textual amendment: S. 48(2A) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 86(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/86/1); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-584d2b3037eba4b1515c47e2aa68144e]: Textual amendment: S. 48(2A) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 86(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/86/1); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c586387]: Textual amendment: [Ss. 51(1)](https://www.legislation.gov.uk/ukpga/Geo5/19-20/29/section/51/1), [52(3)](https://www.legislation.gov.uk/ukpga/Geo5/19-20/29/section/52/3) repealed by [Post Office Act 1969 (c. 48)](https://www.legislation.gov.uk/ukpga/1969/48), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1969/48/schedule/11/part/II)
 
@@ -632,7 +632,7 @@ The annuities shall continue payable half-yearly on the fifth day of January and
 
 [^c586418]: Marginal citation: [1882 c. 75](https://www.legislation.gov.uk/ukpga/1882/75).
 
-[^key-9074bdc083bc4761553e62f504d04e8e]: Textual amendment: Words in s. 61(1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 86(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/86/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-9074bdc083bc4761553e62f504d04e8e]: Textual amendment: Words in s. 61(1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 86(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/86/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c586419]: Textual amendment: Ss. 61(2), 64 repealed by (E.W.S.) [Theft Act 1968 (c. 60)](https://www.legislation.gov.uk/ukpga/1968/60), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1968/60/schedule/3/part/I) and (N.I.) [Theft Act (Northern Ireland) 1969 (c. 16)](https://www.legislation.gov.uk/apni/1969/16), [Sch. 3 Pt. I](https://www.legislation.gov.uk/apni/1969/16/schedule/3/part/I)
 
@@ -650,7 +650,7 @@ The annuities shall continue payable half-yearly on the fifth day of January and
 
 [^c586427]: Textual amendment: S. 66(1) repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6)
 
-[^key-2ec930d397b3f881410a457154435bb7]: Textual amendment: Words in [s. 66(2)](https://www.legislation.gov.uk/ukpga/Geo5/19-20/29/section/66/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-2ec930d397b3f881410a457154435bb7]: Textual amendment: Words in [s. 66(2)](https://www.legislation.gov.uk/ukpga/Geo5/19-20/29/section/66/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
 [^c586428]: Textual amendment: Words repealed by [Finance Act 1962 (c. 44)](https://www.legislation.gov.uk/ukpga/1962/44), [Sch. 11 Pt. VI](https://www.legislation.gov.uk/ukpga/1962/44/schedule/11/part/VI)
 
@@ -666,4 +666,4 @@ The annuities shall continue payable half-yearly on the fifth day of January and
 
 [^c586438]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/Geo5/19-20/29/schedule/2) repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6)
 
-[^key-198f0d38c2f54af6c043b1a0b6924f63]: Textual amendment: Sch. 3 Pt. I repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-198f0d38c2f54af6c043b1a0b6924f63]: Textual amendment: Sch. 3 Pt. I repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6

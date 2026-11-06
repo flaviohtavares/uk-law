@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Special constables[^key-48d74300c044f100ded8b04bb6afa699]
+## 9. Special constables[^c-48d74300c044f100ded8b04bb6afa699]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The chief constable may appoint special constables, being constables who are not
 
 ## Annotations
 
-[^key-48d74300c044f100ded8b04bb6afa699]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2012/8/section/9) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-48d74300c044f100ded8b04bb6afa699]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2012/8/section/9) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

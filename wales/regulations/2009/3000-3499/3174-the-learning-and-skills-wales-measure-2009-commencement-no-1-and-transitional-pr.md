@@ -37,7 +37,7 @@ Made
 
 The Welsh Ministers, in exercise of the powers conferred upon them by sections 48(2) and 49(2) of the Learning and Skills (Wales) Measure 2009[^f00001], make the following Order:
 
-## 1. Title and interpretation[^key-6b655606355442080984b3079a0ce349]
+## 1. Title and interpretation[^c-6b655606355442080984b3079a0ce349]
 
 (1) The title of this Order is the Learning and Skills (Wales) Measure 2009 (Commencement No. 1 and Transitional Provision) Order 2009.
 
@@ -46,7 +46,7 @@ The Welsh Ministers, in exercise of the powers conferred upon them by sections 4
 - “the 2002 Act” (“*Deddf 2002*”) means the Education Act 2002[^f00002];
 - “the Measure” (“*y Mesur*”) means the Learning and Skills (Wales) Measure 2009.
 
-## 2. Appointed Days[^key-d81979c60a573564c18f999ed1c679b2]
+## 2. Appointed Days[^c-d81979c60a573564c18f999ed1c679b2]
 
 (1) The following provisions of the Measure come into force on 7 December 2009—
 
@@ -86,9 +86,9 @@ The Welsh Ministers, in exercise of the powers conferred upon them by sections 4
 - (m) section 17 (application of local curriculum provisions to children who are registered pupils of special schools);
 - (n) section 19 (powers to alter or remove requirements for fourth key stage).
 
-## 3. Transitional provision[^key-df94d2eefe01ceb5f5e56711c23f9a19]
+## 3. Transitional provision[^c-df94d2eefe01ceb5f5e56711c23f9a19]
 
-Despite the coming into force of section 5 of the Measure on 1 January 2010, the requirement for a local authority[^key-717f8d9ea59d7abc7114547637df46b3] to provide a report under section 116B of the 2002 Act does not apply in relation to the end of the academic year 2009 to 2010.
+Despite the coming into force of section 5 of the Measure on 1 January 2010, the requirement for a local authority[^c-717f8d9ea59d7abc7114547637df46b3] to provide a report under section 116B of the 2002 Act does not apply in relation to the end of the academic year 2009 to 2010.
 
 John Griffiths
 
@@ -142,12 +142,12 @@ Article 3 of the Order makes transitional provision in relation to the report re
 
 [^f00001]: Footnote: [2009 nawm 1](https://www.legislation.gov.uk/mwa/2090/1).
 
-[^key-6b655606355442080984b3079a0ce349]: Commencement: Art. 1 in force at made date
+[^c-6b655606355442080984b3079a0ce349]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-d81979c60a573564c18f999ed1c679b2]: Commencement: Art. 2 in force at made date
+[^c-d81979c60a573564c18f999ed1c679b2]: Commencement: Art. 2 in force at made date
 
-[^key-df94d2eefe01ceb5f5e56711c23f9a19]: Commencement: Art. 3 in force at made date
+[^c-df94d2eefe01ceb5f5e56711c23f9a19]: Commencement: Art. 3 in force at made date
 
-[^key-717f8d9ea59d7abc7114547637df46b3]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/wsi/2009/3174/article/3) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 2 para. 27](https://www.legislation.gov.uk/wsi/2010/1142/schedule/2/paragraph/27)
+[^c-717f8d9ea59d7abc7114547637df46b3]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/wsi/2009/3174/article/3) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 2 para. 27](https://www.legislation.gov.uk/wsi/2010/1142/schedule/2/paragraph/27)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Abolition of additional paternity leave and additional statutory paternity pay[^key-6a94a0e001a197bbed5fbdede1e6afbf]
+## 125. Abolition of additional paternity leave and additional statutory paternity pay[^c-6a94a0e001a197bbed5fbdede1e6afbf]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a94a0e001a197bbed5fbdede1e6afbf]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2014/6/section/125) in force at 5.4.2015 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/b) (with [art. 14](https://www.legislation.gov.uk/uksi/2014/1640/article/14))
+[^c-6a94a0e001a197bbed5fbdede1e6afbf]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2014/6/section/125) in force at 5.4.2015 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/b) (with [art. 14](https://www.legislation.gov.uk/uksi/2014/1640/article/14))

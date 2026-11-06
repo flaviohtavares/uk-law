@@ -50,13 +50,13 @@ The Lord Chancellor makes these Rules in exercise of the powers conferred by sec
 
 He has consulted the Administrative Justice and Tribunals Council in accordance with section 8 of the Tribunals and Inquiries Act 1992[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-a9b152b63786448f0d11083604a7d0b9]
+## 1. Citation, commencement and interpretation[^c-a9b152b63786448f0d11083604a7d0b9]
 
 (1) These Rules may be cited as the Asylum and Immigration Tribunal (Fast Track Procedure) (Amendment) Rules 2008 and come into force on 12th May 2008.
 
 (2) In these Rules a reference to a rule or Schedule by number alone is to the rule or Schedule so numbered in or to the Asylum and Immigration Tribunal (Fast Track Procedure) Rules 2005[^f00004].
 
-## 2. Amendments to the Asylum and Immigration Tribunal (Fast Track Procedure) Rules 2005[^key-f64fe2c05fa3d754844ebc3d2ba3f664]
+## 2. Amendments to the Asylum and Immigration Tribunal (Fast Track Procedure) Rules 2005[^c-f64fe2c05fa3d754844ebc3d2ba3f664]
 
 In rule 6—
 
@@ -66,7 +66,7 @@ In rule 6—
 
   > - (g) rule 20, provided that this Part applies to all of the appeals proposed to be heard together.
 
-**3.**[^key-df070fa71f4a0b4182dbef8f4da89c88] In rule 13—
+**3.**[^c-df070fa71f4a0b4182dbef8f4da89c88] In rule 13—
 
 - (a) re-number the existing provision as paragraph (1); and
 - (b) after paragraph (1) insert—
@@ -78,7 +78,7 @@ In rule 6—
 
   .
 
-**4.**[^key-36008117578209689bbcf2dfafffcf52] In Schedule 2, after “Harmondsworth Immigration Removal Centre, Harmondsworth, Middlesex”, insert “Oakington Reception Centre, Longstanton, Cambridgeshire”.
+**4.**[^c-36008117578209689bbcf2dfafffcf52] In Schedule 2, after “Harmondsworth Immigration Removal Centre, Harmondsworth, Middlesex”, insert “Oakington Reception Centre, Longstanton, Cambridgeshire”.
 
 Signed by authority of the Lord Chancellor
 
@@ -112,12 +112,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00003]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53). Th*e* Administrative Justice and Tribunals Council has replaced the Council on Tribunals under section 44 of and paragraph 30 of Schedule 8 to the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-a9b152b63786448f0d11083604a7d0b9]: Commencement: Rule 1 in force at 12.5.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1089/rule/1/1)
+[^c-a9b152b63786448f0d11083604a7d0b9]: Commencement: Rule 1 in force at 12.5.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1089/rule/1/1)
 
 [^f00004]: Footnote: [S.I. 2005/560](https://www.legislation.gov.uk/uksi/2005/560), to which there are amendments not relevant to these Rules.
 
-[^key-f64fe2c05fa3d754844ebc3d2ba3f664]: Commencement: Rule 2 in force at 12.5.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1089/rule/1/1)
+[^c-f64fe2c05fa3d754844ebc3d2ba3f664]: Commencement: Rule 2 in force at 12.5.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1089/rule/1/1)
 
-[^key-df070fa71f4a0b4182dbef8f4da89c88]: Commencement: Rule 3 in force at 12.5.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1089/rule/1/1)
+[^c-df070fa71f4a0b4182dbef8f4da89c88]: Commencement: Rule 3 in force at 12.5.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1089/rule/1/1)
 
-[^key-36008117578209689bbcf2dfafffcf52]: Commencement: Rule 4 in force at 12.5.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1089/rule/1/1)
+[^c-36008117578209689bbcf2dfafffcf52]: Commencement: Rule 4 in force at 12.5.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/1089/rule/1/1)

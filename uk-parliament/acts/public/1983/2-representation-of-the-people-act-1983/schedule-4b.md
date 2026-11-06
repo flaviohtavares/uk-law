@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4B — Scottish local government elections: election expenses[^key-f9b8594a57f39165124f420d679f93f5]
+## SCHEDULE 4B — Scottish local government elections: election expenses[^c-f9b8594a57f39165124f420d679f93f5]
 
 *Extent: S*
 
@@ -58,7 +58,7 @@ summary: ''
 
 (2) The provision by any other individual of computing or printing equipment which was acquired by the individual principally for his own personal use if the provision is made free of charge.
 
-### PART 2A — Guidance by the Electoral Commission[^key-dc253fbd1b536bf8968b88c0d8f1cc58]
+### PART 2A — Guidance by the Electoral Commission[^c-dc253fbd1b536bf8968b88c0d8f1cc58]
 
 #### 12A.
 
@@ -101,6 +101,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f9b8594a57f39165124f420d679f93f5]: Textual amendment: Sch. 4B inserted (28.9.2021) by [Local Electoral Administration and Registration Services (Scotland) Act 2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14), [s. 63(2)](https://www.legislation.gov.uk/asp/2006/14/section/63/2), [sch. 1](https://www.legislation.gov.uk/asp/2006/14/schedule/1); [S.S.I. 2021/314](https://www.legislation.gov.uk/ssi/2021/314), [art. 2](https://www.legislation.gov.uk/ssi/2021/314/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2021/314/article/3))
+[^c-f9b8594a57f39165124f420d679f93f5]: Textual amendment: Sch. 4B inserted (28.9.2021) by [Local Electoral Administration and Registration Services (Scotland) Act 2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14), [s. 63(2)](https://www.legislation.gov.uk/asp/2006/14/section/63/2), [sch. 1](https://www.legislation.gov.uk/asp/2006/14/schedule/1); [S.S.I. 2021/314](https://www.legislation.gov.uk/ssi/2021/314), [art. 2](https://www.legislation.gov.uk/ssi/2021/314/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2021/314/article/3))
 
-[^key-dc253fbd1b536bf8968b88c0d8f1cc58]: Textual amendment: Sch. 4B Pt. 2A inserted (29.9.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 10](https://www.legislation.gov.uk/asp/2020/12/section/10), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
+[^c-dc253fbd1b536bf8968b88c0d8f1cc58]: Textual amendment: Sch. 4B Pt. 2A inserted (29.9.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 10](https://www.legislation.gov.uk/asp/2020/12/section/10), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))

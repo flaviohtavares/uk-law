@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 931J. Schemes involving manipulation of controlled company rules[^key-c2daeff2dc2f1c78d3413089f450a47e]
+## 931J. Schemes involving manipulation of controlled company rules[^c-c2daeff2dc2f1c78d3413089f450a47e]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,10 +40,10 @@ summary: ''
 - (a) the condition in subsection (2)(a) is met, and
 - (b) by virtue of subsection (5) part of a dividend is treated as paid in respect of pre-control profits and part is treated as paid in respect of profits other than pre-control profits,
 
-the two parts are treated for the purposes of this Part and Part 2 of TIOPA 2010[^key-6ff144bfb5b14292f5b4d1ef8d010630] (double taxation relief) as separate dividends.
+the two parts are treated for the purposes of this Part and Part 2 of TIOPA 2010[^c-6ff144bfb5b14292f5b4d1ef8d010630] (double taxation relief) as separate dividends.
 
 ## Annotations
 
-[^key-c2daeff2dc2f1c78d3413089f450a47e]: Textual amendment: Pt. 9A inserted (with effect in accordance with Sch. 14 para. 31 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/1) (with [Sch. 14 para. 32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/32))
+[^c-c2daeff2dc2f1c78d3413089f450a47e]: Textual amendment: Pt. 9A inserted (with effect in accordance with Sch. 14 para. 31 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/1) (with [Sch. 14 para. 32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/32))
 
-[^key-6ff144bfb5b14292f5b4d1ef8d010630]: Textual amendment: Words in s. 931J(7) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 100](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/100) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-6ff144bfb5b14292f5b4d1ef8d010630]: Textual amendment: Words in s. 931J(7) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 100](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/100) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

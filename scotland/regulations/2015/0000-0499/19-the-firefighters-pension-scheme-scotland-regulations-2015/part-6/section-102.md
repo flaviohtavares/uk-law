@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Provisional awards of eligible child’s pensions: later adjustments[^key-12ca4265a8d8f35b54820e36dab6beb5]
+## 102. Provisional awards of eligible child’s pensions: later adjustments[^c-12ca4265a8d8f35b54820e36dab6beb5]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12ca4265a8d8f35b54820e36dab6beb5]: Commencement: [Reg. 102](https://www.legislation.gov.uk/ssi/2015/19/regulation/102) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-12ca4265a8d8f35b54820e36dab6beb5]: Commencement: [Reg. 102](https://www.legislation.gov.uk/ssi/2015/19/regulation/102) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

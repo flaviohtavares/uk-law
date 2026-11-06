@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Offences – responsible individuals[^key-d413d2f9c62317e0b3792fb805d472c1]
+## 69. Offences – responsible individuals[^c-d413d2f9c62317e0b3792fb805d472c1]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d413d2f9c62317e0b3792fb805d472c1]: Commencement: [Reg. 69](https://www.legislation.gov.uk/wsi/2019/169/regulation/69) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-d413d2f9c62317e0b3792fb805d472c1]: Commencement: [Reg. 69](https://www.legislation.gov.uk/wsi/2019/169/regulation/69) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
 
 [^c23552821]: Marginal citation: For penalties upon conviction for an offence under this regulation, *see* section 51(1) of the 2016 Act.

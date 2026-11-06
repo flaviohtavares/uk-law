@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Appeal from determination of interim tribunal[^key-9599942c567b66be3882eafecf189f0b]
+## 62. Appeal from determination of interim tribunal[^c-9599942c567b66be3882eafecf189f0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9599942c567b66be3882eafecf189f0b]: Commencement: Art. 62 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-9599942c567b66be3882eafecf189f0b]: Commencement: Art. 62 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

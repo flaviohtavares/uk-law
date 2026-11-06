@@ -37,26 +37,26 @@ amending Decision 2009/300/EC as regards the content, and period of validity, of
 
 (Text with EEA relevance) (revoked)
 
-[^key-4f5a880ce96418c053da4bd4f8ad879d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f5a880ce96418c053da4bd4f8ad879d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-4f5a880ce96418c053da4bd4f8ad879d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4f5a880ce96418c053da4bd4f8ad879d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4f5a880ce96418c053da4bd4f8ad879d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4f5a880ce96418c053da4bd4f8ad879d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-4f5a880ce96418c053da4bd4f8ad879d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-4f5a880ce96418c053da4bd4f8ad879d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-4f5a880ce96418c053da4bd4f8ad879d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-4f5a880ce96418c053da4bd4f8ad879d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4f5a880ce96418c053da4bd4f8ad879d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f5a880ce96418c053da4bd4f8ad879d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-4f5a880ce96418c053da4bd4f8ad879d]
+## ANNEX[^c-4f5a880ce96418c053da4bd4f8ad879d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4f5a880ce96418c053da4bd4f8ad879d]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 54](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/54); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4f5a880ce96418c053da4bd4f8ad879d]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 54](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/54); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Provision for security of information obtained[^key-a830000d1f7ba27d66a24b288796d85f]
+## 62. Provision for security of information obtained[^c-a830000d1f7ba27d66a24b288796d85f]
 
 *Extent: E+W+S+N.I.*
 
@@ -90,7 +90,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a830000d1f7ba27d66a24b288796d85f]: Commencement: Art. 62 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a830000d1f7ba27d66a24b288796d85f]: Commencement: Art. 62 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00065]: Footnote: Inserted by [SR (NI) 1992/257](https://www.legislation.gov.uk/nisr/1992/257).
 

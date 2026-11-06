@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Further offences[^key-619690b54eff73619c8613eda762b969]
+## 118. Further offences[^c-619690b54eff73619c8613eda762b969]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 (4) Where in accordance with Schedule 9 there is a group registration, the holding company commits an offence if it does not comply with an obligation referred to in sub-paragraph (1)(b) or (c) or (2)(a) or (b) of paragraph 5 of Schedule 9.
 
-(4A)[^key-ba32ffbbc78d7f938b1218489f456a93] It is an offence in Scotland for—
+(4A)[^c-ba32ffbbc78d7f938b1218489f456a93] It is an offence in Scotland for—
 
 - (a) a licensor to which Part 1 of Schedule 10 applies to fail to—
   - (i) collect and keep data as required by paragraph 5 of Schedule 10; or
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-619690b54eff73619c8613eda762b969]: Commencement: Reg. 118 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-619690b54eff73619c8613eda762b969]: Commencement: Reg. 118 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-ba32ffbbc78d7f938b1218489f456a93]: Textual amendment: [Reg. 118(4A)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/118/4A) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/10/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-ba32ffbbc78d7f938b1218489f456a93]: Textual amendment: [Reg. 118(4A)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/118/4A) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/10/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

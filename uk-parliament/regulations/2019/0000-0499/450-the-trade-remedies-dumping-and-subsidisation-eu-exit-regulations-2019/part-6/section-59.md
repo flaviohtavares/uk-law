@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Verification report[^key-25ecfbd08f3f9ebe3f682b76e5e94ca2]
+## 59. Verification report[^c-25ecfbd08f3f9ebe3f682b76e5e94ca2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25ecfbd08f3f9ebe3f682b76e5e94ca2]: Commencement: Reg. 59 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-25ecfbd08f3f9ebe3f682b76e5e94ca2]: Commencement: Reg. 59 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

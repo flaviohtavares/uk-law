@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX I — CATCH LIMITS APPLICABLE TO COMMUNITY VESSELS IN AREAS WHERE CATCH LIMITS EXIST AND FOR THIRD COUNTRY FISHING VESSELS IN EC WATERS, BY SPECIES AND BY AREA (IN TONNES LIVE WEIGHT, EXCEPT WHERE OTHERWISE SPECIFIED)[^key-6c058ae18cca0279805d90465d8af27e]
+## ANNEX I — CATCH LIMITS APPLICABLE TO COMMUNITY VESSELS IN AREAS WHERE CATCH LIMITS EXIST AND FOR THIRD COUNTRY FISHING VESSELS IN EC WATERS, BY SPECIES AND BY AREA (IN TONNES LIVE WEIGHT, EXCEPT WHERE OTHERWISE SPECIFIED)[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,17 +24,17 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c058ae18cca0279805d90465d8af27e]ANNEX IA
+[^c-6c058ae18cca0279805d90465d8af27e]ANNEX IA
 
 SKAGERRAK, KATTEGAT, ICES zones I, II, III, IV, V, VI, VII, VIII, IX, X, XII and XIV, EC waters of CECAF, French Guyana waters
 
-[^key-6c058ae18cca0279805d90465d8af27e]ANNEX IB
+[^c-6c058ae18cca0279805d90465d8af27e]ANNEX IB
 
 NORTH EAST ATLANTIC AND GREENLAND
 
 ICES zones I, II, V, XII, XIV and Greenland waters of NAFO 0 and 1
 
-[^key-6c058ae18cca0279805d90465d8af27e]ANNEX IC
+[^c-6c058ae18cca0279805d90465d8af27e]ANNEX IC
 
 NORTH WEST ATLANTIC
 
@@ -42,13 +42,13 @@ Area of NAFO
 
 All TACs and associate conditions are adopted in the framework of NAFO.
 
-[^key-6c058ae18cca0279805d90465d8af27e]ANNEX ID
+[^c-6c058ae18cca0279805d90465d8af27e]ANNEX ID
 
 HIGHLY MIGRATORY FISH — All areas
 
 TACs in this area are adopted in the framework of international fisheries organisations on tuna fisheries, such as ICCAT and IATTC.
 
-[^key-6c058ae18cca0279805d90465d8af27e]ANNEX IE
+[^c-6c058ae18cca0279805d90465d8af27e]ANNEX IE
 
 ANTARCTIC
 
@@ -58,4 +58,4 @@ These TACs, adopted by CCAMLR, are not allocated to the members of CCAMLR and he
 
 ## Annotations
 
-[^key-6c058ae18cca0279805d90465d8af27e]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-6c058ae18cca0279805d90465d8af27e]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

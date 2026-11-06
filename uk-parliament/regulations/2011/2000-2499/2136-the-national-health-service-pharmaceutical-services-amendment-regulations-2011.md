@@ -33,7 +33,7 @@ summary: ''
 
 National Health Service, England
 
-[^key-bbe0c36fafe6e77ad2326efa3f5eea26]The National Health Service (Pharmaceutical Services) Amendment Regulations 2011 (revoked)
+[^c-bbe0c36fafe6e77ad2326efa3f5eea26]The National Health Service (Pharmaceutical Services) Amendment Regulations 2011 (revoked)
 
 Made
 
@@ -51,23 +51,23 @@ Coming into force
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bbe0c36fafe6e77ad2326efa3f5eea26]
+## 1. Citation and commencement[^c-bbe0c36fafe6e77ad2326efa3f5eea26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 2 of the principal Regulations[^key-bbe0c36fafe6e77ad2326efa3f5eea26]
+## 2. Amendment of regulation 2 of the principal Regulations[^c-bbe0c36fafe6e77ad2326efa3f5eea26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of paragraph 26 of Schedule 1 to the principal Regulations[^key-bbe0c36fafe6e77ad2326efa3f5eea26]
+## 3. Amendment of paragraph 26 of Schedule 1 to the principal Regulations[^c-bbe0c36fafe6e77ad2326efa3f5eea26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional arrangements[^key-bbe0c36fafe6e77ad2326efa3f5eea26]
+## 4. Transitional arrangements[^c-bbe0c36fafe6e77ad2326efa3f5eea26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bbe0c36fafe6e77ad2326efa3f5eea26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbe0c36fafe6e77ad2326efa3f5eea26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -75,4 +75,4 @@ Coming into force
 
 ## Annotations
 
-[^key-bbe0c36fafe6e77ad2326efa3f5eea26]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2136/regulation/ulations) revoked (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 9(1)(e)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/9/1/e)
+[^c-bbe0c36fafe6e77ad2326efa3f5eea26]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2136/regulation/ulations) revoked (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 9(1)(e)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/9/1/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Paragraph 30 (offences)[^key-958bc2f9301c609f1995f8ec747b3984]
+## 118. Paragraph 30 (offences)[^c-958bc2f9301c609f1995f8ec747b3984]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In paragraph 30 [^c23658941] (offences)—
 
 ## Annotations
 
-[^key-958bc2f9301c609f1995f8ec747b3984]: Commencement: Reg. 118 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-958bc2f9301c609f1995f8ec747b3984]: Commencement: Reg. 118 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658941]: Marginal citation: Sub-paragraph (a) was amended by [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).

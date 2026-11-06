@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Enforcement of Part 1[^key-70051e0dd5c7a43762a834fce2bddc17][^key-746a81bc638f05cd86feb4603c77bde1]
+## 26. Enforcement of Part 1[^c-70051e0dd5c7a43762a834fce2bddc17][^c-746a81bc638f05cd86feb4603c77bde1]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70051e0dd5c7a43762a834fce2bddc17]: Commencement: S. 26 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-70051e0dd5c7a43762a834fce2bddc17]: Commencement: S. 26 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-746a81bc638f05cd86feb4603c77bde1]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/46/section/26) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-746a81bc638f05cd86feb4603c77bde1]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/46/section/26) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

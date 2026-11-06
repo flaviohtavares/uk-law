@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Opt-in bids[^key-5d99e8353509ebb425ccf70da0cc4b8f]
+## 20. Opt-in bids[^c-5d99e8353509ebb425ccf70da0cc4b8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d99e8353509ebb425ccf70da0cc4b8f]: Commencement: Reg. 20 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-5d99e8353509ebb425ccf70da0cc4b8f]: Commencement: Reg. 20 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

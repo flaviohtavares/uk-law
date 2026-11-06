@@ -22,7 +22,7 @@ summary: ''
 
 Article 49
 
-### PART 1 — DOCUMENTS FORMING PART OF THE ENVIRONMENTAL STATEMENT TO BE CERTIFIED[^key-c6ab00309329341b201f953b34aafa6d]
+### PART 1 — DOCUMENTS FORMING PART OF THE ENVIRONMENTAL STATEMENT TO BE CERTIFIED[^c-c6ab00309329341b201f953b34aafa6d]
 
 | *(1)*<br>*Document Reference* | *(2)*<br>*Examination Library Reference* | *(3)*<br>*Document Name* | *(4)*<br>*Version* | *(5)*<br>*Date* |
 | --- | --- | --- | --- | --- |
@@ -217,7 +217,7 @@ Article 49
 | 6.4.28.3 | APP-221 | Environmental Statement – Volume 4 Appendix 28.3 Equalities impact assessment | A | 08 August 2023 |
 | 6.4.29.1 | APP-222 | Environmental Statement – Volume 4 Appendix 29.1 Supporting data for the green house green assessment | A | 08 August 2023 |
 
-### PART 2 — OTHER DOCUMENTS TO BE CERTIFIED[^key-335cdd10eba521a99d8b63be7e942fc5]
+### PART 2 — OTHER DOCUMENTS TO BE CERTIFIED[^c-335cdd10eba521a99d8b63be7e942fc5]
 
 | *(1)*<br>*Document Reference* | *(2)*<br>*Examination Library Reference* | *(3)*<br>*Document Name* | *(4)*<br>*Version* | *(5)*<br>*Date* |
 | --- | --- | --- | --- | --- |
@@ -281,6 +281,6 @@ Article 49
 
 ## Annotations
 
-[^key-c6ab00309329341b201f953b34aafa6d]: Commencement: Sch. 16 Pt. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-c6ab00309329341b201f953b34aafa6d]: Commencement: Sch. 16 Pt. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-335cdd10eba521a99d8b63be7e942fc5]: Commencement: Sch. 16 Pt. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-335cdd10eba521a99d8b63be7e942fc5]: Commencement: Sch. 16 Pt. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

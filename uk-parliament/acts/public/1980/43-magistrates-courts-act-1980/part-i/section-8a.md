@@ -45,8 +45,8 @@ summary: ''
 
 (5) The condition is that, if the accused is not legally represented [^c19491311]. . . —
 
-- (a) the court must[^c19491341] ask whether he wishes to be provided with representation for the purposes of the proceedings under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-d28c93699abb1e4c26aa93f609a3c393], and
-- (b) if he does, the necessary arrangements must be made for him to apply for it and, where appropriate, obtain it[^key-e2139af62562e4b28d50b5e5192e871d].
+- (a) the court must[^c19491341] ask whether he wishes to be provided with representation for the purposes of the proceedings under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-d28c93699abb1e4c26aa93f609a3c393], and
+- (b) if he does, the necessary arrangements must be made for him to apply for it and, where appropriate, obtain it[^c-e2139af62562e4b28d50b5e5192e871d].
 
 (6) A ruling may be made under this section—
 
@@ -63,6 +63,6 @@ summary: ''
 
 [^c19491341]: Textual amendment: Words in s. 8A(5)(a) inserted (2.10.2006) by [The Criminal Defence Service (Representation Orders and Consequential Amendments) Regulations 2006 (S.I. 2006/2493)](https://www.legislation.gov.uk/uksi/2006/2493), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2006/2493/regulation/7/b)
 
-[^key-d28c93699abb1e4c26aa93f609a3c393]: Textual amendment: Words in s. 8A(5)(a) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 14(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/14/a); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-d28c93699abb1e4c26aa93f609a3c393]: Textual amendment: Words in s. 8A(5)(a) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 14(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/14/a); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
-[^key-e2139af62562e4b28d50b5e5192e871d]: Textual amendment: Words in s. 8A(5)(b) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 14(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/14/b); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-e2139af62562e4b28d50b5e5192e871d]: Textual amendment: Words in s. 8A(5)(b) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 14(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/14/b); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)

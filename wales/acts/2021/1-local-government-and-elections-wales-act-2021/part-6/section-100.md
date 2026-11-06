@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Auditor General's powers of entry and inspection etc.: offences[^key-59122ca48c1716455b69215228e47d0b]
+## 100. Auditor General's powers of entry and inspection etc.: offences[^c-59122ca48c1716455b69215228e47d0b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59122ca48c1716455b69215228e47d0b]: Commencement: S. 100 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)
+[^c-59122ca48c1716455b69215228e47d0b]: Commencement: S. 100 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 383. Information about the scheme: illustrative estimates of cash equivalents[^key-4184a7cfcd49eb26ca7721e4bfa0b235]
+## 383. Information about the scheme: illustrative estimates of cash equivalents[^c-4184a7cfcd49eb26ca7721e4bfa0b235]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4184a7cfcd49eb26ca7721e4bfa0b235]: Commencement: Art. 383 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-4184a7cfcd49eb26ca7721e4bfa0b235]: Commencement: Art. 383 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00278]: Footnote: Paragraph 9 was amended by [S.I. 1992/1531](https://www.legislation.gov.uk/uksi/1992/1531).

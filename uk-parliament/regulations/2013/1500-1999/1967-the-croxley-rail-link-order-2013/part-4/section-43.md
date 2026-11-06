@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Disposal of land to LUL[^key-4d90378f02ad8fc5ff6637aacaac83fd]
+## 43. Disposal of land to LUL[^c-4d90378f02ad8fc5ff6637aacaac83fd]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Section 123(2) of the Local Government Act 1972[^f00025] (which requires the con
 
 ## Annotations
 
-[^key-4d90378f02ad8fc5ff6637aacaac83fd]: Commencement: Art. 43 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-4d90378f02ad8fc5ff6637aacaac83fd]: Commencement: Art. 43 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
 
 [^f00025]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

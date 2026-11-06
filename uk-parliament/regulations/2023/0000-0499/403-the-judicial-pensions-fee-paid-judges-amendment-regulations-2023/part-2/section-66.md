@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Schedules[^key-c77c976477942d9363411ce1221258c8]
+## 66. Schedules[^c-c77c976477942d9363411ce1221258c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -379,6 +379,6 @@ For the Schedule to the 2017 Regulations substitute—
 
 ## Annotations
 
-[^key-c77c976477942d9363411ce1221258c8]: Commencement: Reg. 66 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-c77c976477942d9363411ce1221258c8]: Commencement: Reg. 66 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
 
 [^f00023]: Footnote: [1943 c. 39](https://www.legislation.gov.uk/ukpga/1943/39).

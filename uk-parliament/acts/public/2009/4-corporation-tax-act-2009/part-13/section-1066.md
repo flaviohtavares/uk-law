@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1066. Expenditure on sub-contracted R&D undertaken in-house[^key-4ba05e72647a51301ebbb13dc7b23ac1]
+## 1066. Expenditure on sub-contracted R&D undertaken in-house[^c-4ba05e72647a51301ebbb13dc7b23ac1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ba05e72647a51301ebbb13dc7b23ac1]: Textual amendment: Pt. 13 Ch. 3 omitted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 14](https://www.legislation.gov.uk/ukpga/2009/4/schedule/15/paragraph/14); and words in s. 1066(5) inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 28(4)(i)](https://www.legislation.gov.uk/ukpga/2015/11/section/28/4/i)
+[^c-4ba05e72647a51301ebbb13dc7b23ac1]: Textual amendment: Pt. 13 Ch. 3 omitted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 14](https://www.legislation.gov.uk/ukpga/2009/4/schedule/15/paragraph/14); and words in s. 1066(5) inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 28(4)(i)](https://www.legislation.gov.uk/ukpga/2015/11/section/28/4/i)

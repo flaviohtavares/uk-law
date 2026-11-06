@@ -48,11 +48,11 @@ In accordance with section 60(3)(b) of that Act, a draft of this instrument has
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-d5c1c5b25a9104b3abda41a4ec34e361]
+### 1. Citation and commencement[^c-d5c1c5b25a9104b3abda41a4ec34e361]
 
 These Regulations may be cited as the Crofting Commission (Elections) (Scotland) Regulations 2011 and come into force on the day after the day on which they are made.
 
-### 2. Interpretation[^key-4196a571a1c71f9b5d75710706cb78c7]
+### 2. Interpretation[^c-4196a571a1c71f9b5d75710706cb78c7]
 
 In these Regulations—
 
@@ -76,11 +76,11 @@ In these Regulations—
 
 ## PART II — ELECTIONS
 
-### 3. Crofting electoral register[^key-d94b23c838490e10f84bae19fba9c322]
+### 3. Crofting electoral register[^c-d94b23c838490e10f84bae19fba9c322]
 
 The registration officer must compile and maintain a register of electors for each constituency which must contain the name, home address and croft address of each of those persons entitled to vote in that constituency and which register must be supplied to the returning officer in accordance with regulation 11.
 
-### 4. Electors – eligibility[^key-ca925e245cfe07f08f2f3e07eaba0103]
+### 4. Electors – eligibility[^c-ca925e245cfe07f08f2f3e07eaba0103]
 
 (1) Subject to the following paragraphs of this regulation, a person is entitled to vote in an election in respect of a constituency, if—
 
@@ -113,7 +113,7 @@ that person is entitled to a vote only in an election in respect of whichever of
 
 (6) For the purpose of this regulation, the situation of a croft or owner-occupied croft is determined by reference to the parish to which the croft or owner-occupied croft is assigned in its entry in the Register of Crofts.
 
-### 5. Electors – disqualification[^key-9f3e0cc1e2c32be4a6af2c5ef14922c9]
+### 5. Electors – disqualification[^c-9f3e0cc1e2c32be4a6af2c5ef14922c9]
 
 A person is disqualified from voting in an election if on the day on which the election notice is published—
 
@@ -122,7 +122,7 @@ A person is disqualified from voting in an election if on the day on which the e
   - (i) the Commission has not granted consent under section 21B of the 1993 Act[^f00008] for that person to be absent from the croft or the owner-occupied croft; or
   - (ii) that person has not complied with an undertaking in relation to the residency duty.
 
-### 6. Returning officer[^key-31a4f6e7b1403e41fefd292df8c2ea65]
+### 6. Returning officer[^c-31a4f6e7b1403e41fefd292df8c2ea65]
 
 (1) The returning officer at an election is the person appointed by the registration officer.
 
@@ -130,7 +130,7 @@ A person is disqualified from voting in an election if on the day on which the e
 
 (3) An election may not be questioned by reason of a defect in the title, or want of title, of the person acting as the returning officer, if that person was then in actual possession of, or acting in, the office giving the right to act as returning officer.
 
-### 7. Payment of fees and expenses of returning officer[^key-6d8df85aa7d43d08eb1cb75a62c04453]
+### 7. Payment of fees and expenses of returning officer[^c-6d8df85aa7d43d08eb1cb75a62c04453]
 
 (1) The Scottish Ministers may pay to the returning officer such fees as they consider appropriate.
 
@@ -138,7 +138,7 @@ A person is disqualified from voting in an election if on the day on which the e
 
 (3) On the request of the returning officer for an advance on account of returning expenses, the Scottish Ministers may, if they think fit, make such an advance to him or her of such an amount and subject to such conditions as they may approve.
 
-### 8. Election of members[^key-62c2b22769d0a1d8e0fd696975e31bf8]
+### 8. Election of members[^c-62c2b22769d0a1d8e0fd696975e31bf8]
 
 (1) The Commission electoral area is divided into 6 constituencies, comprising the areas described in the Schedule and each such constituency must return one member only.
 
@@ -146,14 +146,14 @@ A person is disqualified from voting in an election if on the day on which the e
 
 (3) Subject to regulation 54, the day of the count at elections subsequent to the first election shall be the first Friday occurring 5 years after the day of the count at the immediately preceding election.
 
-(4) If they have not resigned office or otherwise ceased to be a member, elected members cease to hold office on the day of the count at the next election following [^key-0c86310ba0d9a193aedae490f6db737b]...—[^key-822435fd8bba6f77d3daa0b4265cce20]
+(4) If they have not resigned office or otherwise ceased to be a member, elected members cease to hold office on the day of the count at the next election following [^c-0c86310ba0d9a193aedae490f6db737b]...—[^c-822435fd8bba6f77d3daa0b4265cce20]
 
 - (a) the date on which they were elected; or
 - (b) where regulation 54A(8) applies, the date on which they were deemed to be an elected member.
 
 (5) In this regulation, “Commission electoral area” means the crofting counties and the areas designated for the purposes of section 3A(1)(b) of the 1993 Act[^f00009] by the Crofting (Designation of Areas) (Scotland) Order 2010[^f00010].
 
-### 9. Qualification of candidates[^key-693c7eed130b0394ccdf3ea9b2bc8f74]
+### 9. Qualification of candidates[^c-693c7eed130b0394ccdf3ea9b2bc8f74]
 
 (1) A person is, unless disqualified by virtue of regulation 10, qualified to be a candidate at an election if the person is—
 
@@ -166,7 +166,7 @@ A person is disqualified from voting in an election if on the day on which the e
 
 (3) A person qualified to be a candidate at an election by virtue of paragraph (1)(b)(ii) is entitled to stand only in an election in respect of the constituency in which the elector who nominated that person is entitled to vote by virtue of regulation 4.
 
-### 10. Disqualification of candidates[^key-480fa7f28cfc30a50aab91853f2aa645]
+### 10. Disqualification of candidates[^c-480fa7f28cfc30a50aab91853f2aa645]
 
 (1) A person is disqualified from being a candidate at an election if, on the day on which the election notice is published—
 
@@ -177,7 +177,7 @@ A person is disqualified from voting in an election if on the day on which the e
 - (b) the Commission has determined under section 22 of the 1993 Act that, being a crofter, the person is not ordinarily resident on, or within 16 kilometres of, the croft or decided under section 26C(5) of the 1993 Act that the residency duty is not being complied with by the person; and either—
   - (i) the Commission has not granted consent under section 21B of the 1993 Act for the person to be absent from the croft or owner-occupied croft; or
   - (ii) that person has not complied with an undertaking in relation to the residency duty;
-- (ba)[^key-4e8b338bbdf2de783a2ed052acf6a20d] the Commission has decided under section 26C(5) of the 1993 Act that any of the duties mentioned in—
+- (ba)[^c-4e8b338bbdf2de783a2ed052acf6a20d] the Commission has decided under section 26C(5) of the 1993 Act that any of the duties mentioned in—
   - (i) section 5B;
   - (ii) section 5C; or
   - (iii) section 19C(2)(b), (c) or (d),
@@ -200,10 +200,10 @@ A person is disqualified from voting in an election if on the day on which the e
 - (a) the person’s estate is sequestrated;
 - (b) the person is adjudged bankrupt;
 - (c) a voluntary arrangement proposed by the person is approved;
-- (d)[^key-d5333c86e003159f12128f82fa203b49] the person’s application for a debt payment programme is approved under section 2 of the Debt Arrangement and Attachment (Scotland) Act 2002; or
+- (d)[^c-d5333c86e003159f12128f82fa203b49] the person’s application for a debt payment programme is approved under section 2 of the Debt Arrangement and Attachment (Scotland) Act 2002; or
 - (e) the person grants a trust deed for creditors.
 
-### 11. Timetable[^key-df24005e01572421e07d6ae2532d8b63]
+### 11. Timetable[^c-df24005e01572421e07d6ae2532d8b63]
 
 (1) The proceedings at an election are to be conducted in accordance with the following timetable—
 
@@ -222,15 +222,15 @@ A person is disqualified from voting in an election if on the day on which the e
 </tbody>
 </table>
 
-[^key-a591c6e92bcac67529cd21e40e6513aa]
+[^c-a591c6e92bcac67529cd21e40e6513aa]
 
-(2)[^key-04cbc2ff73b32688aecaa8141530e3de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-04cbc2ff73b32688aecaa8141530e3de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Notice of election[^key-6e03fb7fcd0067edc45a3583bb819f6c]
+### 12. Notice of election[^c-6e03fb7fcd0067edc45a3583bb819f6c]
 
 The returning officer must publish notice of the election in such form as he or she thinks fit.
 
-### 13. Nomination of candidates[^key-ef3a0ea769df0cdf35681bcda555a6e9]
+### 13. Nomination of candidates[^c-ef3a0ea769df0cdf35681bcda555a6e9]
 
 (1) Each candidate must be nominated by a separate completed nomination paper, in such form as the returning officer thinks fit, delivered at a place fixed for the purpose by the returning officer.
 
@@ -253,7 +253,7 @@ The returning officer must publish notice of the election in such form as he or 
 - (b) contains matters relating to the election only; and
 - (c) does not appear to the returning officer to be defamatory or otherwise unlawful.
 
-### 14. Validity of the nomination[^key-abe2fca5fe9e5d2e23afde3c94f336f1]
+### 14. Validity of the nomination[^c-abe2fca5fe9e5d2e23afde3c94f336f1]
 
 (1) As soon as practicable after a nomination paper has been returned, the returning officer must examine it and decide whether the candidate has been validly nominated.
 
@@ -261,24 +261,24 @@ The returning officer must publish notice of the election in such form as he or 
 
 (3) The returning officer must send notice of a decision that a nomination paper is valid or invalid to the candidate at his or her home address as given in the completed nomination paper.
 
-### 15. Withdrawal of candidates[^key-359d4968a570a4991a6e713defcec553]
+### 15. Withdrawal of candidates[^c-359d4968a570a4991a6e713defcec553]
 
 A candidate may withdraw his or her candidature, in accordance with the timetable set out in regulation 11, by notice of withdrawal in writing, which notice must be—
 
 - (a) signed by him or her and by one witness; and
 - (b) delivered to the returning officer at a place fixed by the returning officer for the purpose of return of nomination papers for the constituency.
 
-### 16. Nomination in more than one constituency[^key-91a18820a5150f5c2b9634dc3df47f75]
+### 16. Nomination in more than one constituency[^c-91a18820a5150f5c2b9634dc3df47f75]
 
 (1) Where a candidate is nominated in respect of elections in more than one constituency occurring at the same time, the candidate must withdraw from his or her candidature in all but one of those constituencies.
 
 (2) Where the candidate does not so withdraw by the close of nominations, he or she is deemed to have withdrawn from all.
 
-### 17. Inspection of nomination papers[^key-f6d1ae4a22539c9064f370d5547244e4]
+### 17. Inspection of nomination papers[^c-f6d1ae4a22539c9064f370d5547244e4]
 
 Any person, at a place fixed for the purpose by the returning officer, may inspect and take copies of, or extracts from, nomination papers during ordinary office hours on any day other than a non-business day after the deadline for return of nomination papers and before the day of the count.
 
-### 18. Method of election and notice of uncontested election[^key-4b1542bc5822b788ab1d75e43c67a9eb]
+### 18. Method of election and notice of uncontested election[^c-4b1542bc5822b788ab1d75e43c67a9eb]
 
 (1) If at the close of nominations for an election, 2 or more candidates remain validly nominated, the member must be elected from among them in accordance with the rest of this Part and Parts III and IV.
 
@@ -289,11 +289,11 @@ Any person, at a place fixed for the purpose by the returning officer, may inspe
 
 (3) The public notice to be given under paragraph (2) must be in such form as the returning officer thinks fit.
 
-### 19. Manner of voting at elections[^key-8922ee29e33247fc705954d4290cd3d3]
+### 19. Manner of voting at elections[^c-8922ee29e33247fc705954d4290cd3d3]
 
 An elector may only vote by post or by proxy.
 
-### 20. Ballot papers[^key-21d27782e31ba92e7b8d35c05ab8a841]
+### 20. Ballot papers[^c-21d27782e31ba92e7b8d35c05ab8a841]
 
 (1) Every ballot paper must be in such form as the returning officer thinks fit and must—
 
@@ -303,7 +303,7 @@ An elector may only vote by post or by proxy.
 
 (2) In paragraph (1), “candidates” means the persons remaining validly nominated for an election after any withdrawals.
 
-### 21. Absent electors[^key-4c05e3eb626cb31be38cfa8d827ae35d]
+### 21. Absent electors[^c-4c05e3eb626cb31be38cfa8d827ae35d]
 
 (1) An elector may apply to the registration officer for the elector’s ballot paper to be sent to an address in the United Kingdom other than the address in respect of which the elector will be registered at during an election and the registration officer must grant the application if satisfied that the applicant is eligible to vote in an election in accordance with regulation 4.
 
@@ -311,7 +311,7 @@ An elector may only vote by post or by proxy.
 
 (3) The registration officer must remove an elector from the absent electors list if the elector applies to the registration officer to be removed.
 
-### 22. Votes by proxy[^key-95ffb9d0163042cf34672142276557d4]
+### 22. Votes by proxy[^c-95ffb9d0163042cf34672142276557d4]
 
 (1) Where an elector is unable to vote by reason of disability or otherwise, the elector may apply to the registration officer for the elector’s ballot paper to be sent to a proxy authorised in writing by that elector.
 
@@ -330,33 +330,33 @@ An elector may only vote by post or by proxy.
 
 (7) A person may not vote as a proxy at an election for more than 2 electors.
 
-### 23. Closing dates for applications[^key-ffef2105b3e2d0f3bded4576fc906e1e]
+### 23. Closing dates for applications[^c-ffef2105b3e2d0f3bded4576fc906e1e]
 
 (1) An application under regulation 21(1) or 22(1) must be disregarded for the purposes of any election if it is received by the registration officer after 5.00 p.m. on the day 7 weeks before the day of the count at that election.
 
-(1A)[^key-07a6baa2c48d35164d87e7042fde6fef] An application under regulation 21(3) or 22(5) must be disregarded for the purposes of any election if it is received by the registration officer after 5.00 p.m. on the day 5 weeks before the day of the count at that election.
+(1A)[^c-07a6baa2c48d35164d87e7042fde6fef] An application under regulation 21(3) or 22(5) must be disregarded for the purposes of any election if it is received by the registration officer after 5.00 p.m. on the day 5 weeks before the day of the count at that election.
 
-(2) Where under paragraph (1) or (1A)[^key-5a3175359e066dc7c947d2b06f90d3d3] the registration officer disregards an application for the purposes of any particular election, he or she must, where practicable, notify the applicant of this.
+(2) Where under paragraph (1) or (1A)[^c-5a3175359e066dc7c947d2b06f90d3d3] the registration officer disregards an application for the purposes of any particular election, he or she must, where practicable, notify the applicant of this.
 
-### 24. Grant or refusal of applications[^key-d04dc2ef6439df90c821d4eb7760ba6d]
+### 24. Grant or refusal of applications[^c-d04dc2ef6439df90c821d4eb7760ba6d]
 
 (1) Where the registration officer grants an application under regulation 21(1) or 22(1), he or she must, where practicable, notify the applicant of his or her decision.
 
 (2) Where the registration officer disallows an application under regulation 21(1) or 22(1), he or she must notify the applicant of his or her decision and of the reason for his or her decision, and he or she must date such notification.
 
-### 25. Lists kept under regulations 21 and 22[^key-7fc8ca738c7e024dd06b479c856da82c]
+### 25. Lists kept under regulations 21 and 22[^c-7fc8ca738c7e024dd06b479c856da82c]
 
 (1) The absent electors list and the proxy list are to be in such form as the registration officer thinks fit.
 
 (2) The registration officer must make available for inspection at his or her office during ordinary office hours on any day, other than a non-business day, copies of the absent electors list and the proxy list.
 
-### 26. Prohibition of disclosure of vote[^key-6b48c2f1725070ac0e5f64dd1e147e08]
+### 26. Prohibition of disclosure of vote[^c-6b48c2f1725070ac0e5f64dd1e147e08]
 
 No elector who has voted at an election may be required to state for whom the elector voted in any legal proceeding to question the election.
 
 ## PART III — ISSUE AND RECEIPT OF BALLOT PAPERS
 
-### 27. Interpretation of Part III[^key-e884d9154ece0e811c5f2c19e9d1f74b]
+### 27. Interpretation of Part III[^c-e884d9154ece0e811c5f2c19e9d1f74b]
 
 For the purposes of this Part of these Regulations—
 
@@ -365,7 +365,7 @@ For the purposes of this Part of these Regulations—
 - “issue” includes the original and any subsequent issue; and
 - “return envelope” means the envelope which the returning officer is required by regulation 28 to send to an elector for the return of the ballot paper.
 
-### 28. Issue of ballot papers[^key-a53fb6529bbed60aaba1646b03258409]
+### 28. Issue of ballot papers[^c-a53fb6529bbed60aaba1646b03258409]
 
 The returning officer must issue to each elector at the home address—
 
@@ -374,15 +374,15 @@ The returning officer must issue to each elector at the home address—
 
 a ballot paper together with instructions for completing it in such form as the returning officer thinks fit, a return envelope and the candidate statements referred to in regulation 13.
 
-### 29. Notice of issue of ballot papers[^key-644d53129ca8aecfd89184cf699a9258]
+### 29. Notice of issue of ballot papers[^c-644d53129ca8aecfd89184cf699a9258]
 
 The returning officer must give each candidate not less than 48 hours’ notice in writing of when he or she will issue ballot papers.
 
-### 30. Refusal to issue ballot paper[^key-297b41530af6be5374178f3d9f59b6f1]
+### 30. Refusal to issue ballot paper[^c-297b41530af6be5374178f3d9f59b6f1]
 
 Where the returning officer is satisfied that 2 or more entries in the absent electors list or in the crofting electoral register relate to the same elector he or she must not issue more than one ballot paper in respect of that elector in respect of any election.
 
-### 31. Delivery of ballot papers[^key-585083882a86d9b8c7cec82d54987c12]
+### 31. Delivery of ballot papers[^c-585083882a86d9b8c7cec82d54987c12]
 
 (1) For the purposes of issuing ballot papers, the returning officer may use—
 
@@ -393,7 +393,7 @@ Where the returning officer is satisfied that 2 or more entries in the absent el
 
 (3) Delivery of all envelopes addressed to electors and all return envelopes must be pre-paid by the returning officer.
 
-### 32. Spoilt ballot papers and return envelopes[^key-445021d97cacf2efb45f7b3901df3333]
+### 32. Spoilt ballot papers and return envelopes[^c-445021d97cacf2efb45f7b3901df3333]
 
 (1) If a ballot paper issued to an elector is inadvertently spoiled or accidentally damaged in such manner that it cannot be used as a ballot paper, it may be returned (either by hand or by post) to the returning officer together with the return envelope.
 
@@ -401,11 +401,11 @@ Where the returning officer is satisfied that 2 or more entries in the absent el
 
 (3) On receipt of a document referred to in paragraph (1) or (2), the returning officer must issue another ballot paper or return envelope or both, as the case may be, except where the returning officer considers the document is received too late for another ballot paper or return envelope to be returned before 4.00 p.m. on the day before the day of the count.
 
-### 33. Ballot papers received late[^key-de0de44a5c7c5329165882798f5a349a]
+### 33. Ballot papers received late[^c-de0de44a5c7c5329165882798f5a349a]
 
 A ballot paper received by the returning officer after 4.00 p.m. on the day before the day of the count is not to be counted.
 
-### 34. Lost and destroyed ballot papers[^key-a1899af759d34f3e7a64bec73445db7e]
+### 34. Lost and destroyed ballot papers[^c-a1899af759d34f3e7a64bec73445db7e]
 
 (1) Where an elector has not received a ballot paper by the seventh day before the day of the count or it is accidentally destroyed, the elector may apply (whether or not in person) to the returning officer for a replacement ballot paper.
 
@@ -425,7 +425,7 @@ A ballot paper received by the returning officer after 4.00 p.m. on the day bef
 
 (5) Where an elector applies in person, the returning officer may hand a replacement ballot paper to the elector instead of issuing it in accordance with regulations 28 and 31.
 
-### 35. How votes are to be given[^key-e0782b46bdfb3f1b53ae40616aa1f6ff]
+### 35. How votes are to be given[^c-e0782b46bdfb3f1b53ae40616aa1f6ff]
 
 (1) An elector votes by marking the ballot paper with—
 
@@ -436,13 +436,13 @@ and so on.
 
 (2) The elector may mark as many preferences (up to the number of candidates) as the elector wishes.
 
-### 36. Appointment of counting agents[^key-61532a537614064303cc20e354c83ebd]
+### 36. Appointment of counting agents[^c-61532a537614064303cc20e354c83ebd]
 
 (1) Each candidate may, no later than 10 days before the day of the count, appoint such number of counting agents as the returning officer considers appropriate to attend at the counting of the votes.
 
 (2) Notice in writing of the appointment, stating the names and addresses of the persons appointed, must be given by the candidate to the returning officer not later than 3 weeks before the day of the count.
 
-### 37. Ballot box[^key-0fd42da3d492437d302fcb63d3d421c9]
+### 37. Ballot box[^c-0fd42da3d492437d302fcb63d3d421c9]
 
 (1) The returning officer must keep securely one or more ballot boxes for the receipt of ballot papers.
 
@@ -454,13 +454,13 @@ and so on.
 
 ## PART IV — COUNTING OF VOTES AND DECLARATION OF RESULT
 
-### 38. Counting of the votes[^key-fcab05f3e759135f656a9fff7626be0c]
+### 38. Counting of the votes[^c-fcab05f3e759135f656a9fff7626be0c]
 
 (1) The returning officer must make arrangements for the counting of the votes to take place on the day of the count.
 
 (2) Where the day of the count is a non-business day, the returning officer must make arrangements for the counting of the votes to take place on the next day which is not a non-business day.
 
-### 39. Opening of return envelopes[^key-76bae0fc175183d09d1996745d2c66ca]
+### 39. Opening of return envelopes[^c-76bae0fc175183d09d1996745d2c66ca]
 
 (1) When a ballot box has been opened, the returning officer must count and note the number of return envelopes and must then open each return envelope separately.
 
@@ -468,7 +468,7 @@ and so on.
 
 (3) Where a return envelope does contain a ballot paper, the returning officer must place it face up in a different receptacle from the receptacle for rejected votes.
 
-### 40. Attendance at counting of votes[^key-c4674536a04bb52f7d985af15574648d]
+### 40. Attendance at counting of votes[^c-c4674536a04bb52f7d985af15574648d]
 
 (1) The returning officer must give to the counting agents notice in writing of the time and place of the counting of the votes.
 
@@ -486,7 +486,7 @@ may be present at the counting of the votes, unless permitted by the returning o
 
 (5) Where the votes are counted by sorting the ballot papers according to the candidates to whom votes are allocated under regulation 42 and then counting the number of ballot papers for each candidate, the counting agents are entitled to satisfy themselves that the ballot papers are correctly sorted.
 
-### 41. Electronic counting[^key-6e3917b979ab2c7d045f27c8bb3540de]
+### 41. Electronic counting[^c-6e3917b979ab2c7d045f27c8bb3540de]
 
 (1) Subject to paragraph (3) and regulation 54, the returning officer is to provide an electronic counting system and the count is then conducted by means of such electronic system.
 
@@ -494,7 +494,7 @@ may be present at the counting of the votes, unless permitted by the returning o
 
 (3) If it proves impossible, impracticable or inefficient to conduct the count or some or all of the operations comprising the count using the electronic counting system, the returning officer may make arrangements for the count or such operations, as the case may be, to be conducted by other means.
 
-### 42. How votes are to be counted[^key-57f50a5b2c4497d0f1278bedc146ccfe]
+### 42. How votes are to be counted[^c-57f50a5b2c4497d0f1278bedc146ccfe]
 
 (1) This regulation sets out how votes are to be counted, in one or more stages of counting, in order to give effect to the preferences marked by electors on their ballot papers and so to determine which candidate is elected.
 
@@ -509,7 +509,7 @@ may be present at the counting of the votes, unless permitted by the returning o
 
 (5) If not, the process mentioned in paragraph (3) is repeated as many times as necessary until one candidate has more votes than the other remaining candidates put together and so is elected.
 
-### 43. Information to be given by returning officer after each stage of counting[^key-75409719ed2ff64012522ba4d9e1a048]
+### 43. Information to be given by returning officer after each stage of counting[^c-75409719ed2ff64012522ba4d9e1a048]
 
 (1) If no candidate is elected at the first stage of counting (by virtue of regulation 42(2)), the returning officer must, immediately after that stage, record and make publicly available the following information:—
 
@@ -523,7 +523,7 @@ may be present at the counting of the votes, unless permitted by the returning o
 - (b) which candidate was eliminated at that stage; and
 - (c) the number of votes of the candidate eliminated at the previous stage that were not reallocated.
 
-### 44. Re-count[^key-baa43cd09c0b3462ee27d9310bbe93ff]
+### 44. Re-count[^c-baa43cd09c0b3462ee27d9310bbe93ff]
 
 (1) A candidate or such candidate’s counting agent may, if present when the counting or re-counting of the votes is completed, require the returning officer to have the votes re-counted or again re-counted at the completion of any stage of the count or re-count but the returning officer may refuse to do so if, in the returning officer’s opinion, the request is unreasonable.
 
@@ -531,7 +531,7 @@ may be present at the counting of the votes, unless permitted by the returning o
 
 (3) At any time before the declaration of the result, the returning officer may, if he or she thinks fit, have the votes re-counted or again re-counted in respect of any or all of the stages.
 
-### 45. Rejected ballot papers and invalid markings[^key-b3a3ac0c6c265be76fc048502be9832f]
+### 45. Rejected ballot papers and invalid markings[^c-b3a3ac0c6c265be76fc048502be9832f]
 
 (1) A ballot paper is, subject to paragraph (2), rejected as void and not counted at any stage if—
 
@@ -567,7 +567,7 @@ is treated in the same way as if the appropriate number (written as an arabic nu
 
 (9) The returning officer must draw up a statement showing the number of ballot papers rejected under each sub-paragraph of paragraph (1).
 
-### 46. Equality of votes: which candidate to be eliminated[^key-f4df2e4163f7434529ef00b02a7f44ec]
+### 46. Equality of votes: which candidate to be eliminated[^c-f4df2e4163f7434529ef00b02a7f44ec]
 
 (1) This regulation applies to determine which candidate is eliminated under regulation 42 in a case where—
 
@@ -585,7 +585,7 @@ and so on.
 
 (4) Where there has been no previous elimination, or where there has been a previous elimination but the tie is not resolved under paragraph (3), the returning officer must decide by lot, as soon as reasonably practicable, which of the tied candidates is to be eliminated.
 
-### 47. Equality of votes: which candidate to be elected[^key-2d0244596ed554e91f5883277f637b43]
+### 47. Equality of votes: which candidate to be elected[^c-2d0244596ed554e91f5883277f637b43]
 
 (1) This regulation applies to determine which candidate is elected under regulation 42—
 
@@ -601,7 +601,7 @@ and so on.
 
 (3) Where paragraph (1)(a) applies but the tie is not resolved under paragraph (2), or where paragraph (1)(b) applies, the returning officer must decide by lot, as soon as reasonably practicable, which of the 2 candidates is to be elected.
 
-### 48. Declaration of result[^key-a60f8d9157c4a6a1e7664f3271091f11]
+### 48. Declaration of result[^c-a60f8d9157c4a6a1e7664f3271091f11]
 
 (1) In a contested election, when the result of the count has been ascertained, the returning officer must as soon as is reasonably practicable—
 
@@ -614,7 +614,7 @@ and so on.
   - (ii) the number of votes reallocated to each of the remaining candidates; and
   - (iii) the number of votes of the candidates eliminated at the previous stage that were not reallocated.
 
-(1A)[^key-54d24fbb251cffb60dfba745615247d6] The returning officer must—
+(1A)[^c-54d24fbb251cffb60dfba745615247d6] The returning officer must—
 
 - (a) record in writing the declaration made under paragraph (1)(a); and
 - (b) as soon as reasonably practicable after making that record, give a copy of it to the registration officer.
@@ -629,11 +629,11 @@ and so on.
 
 (3) Where the day of the count is a non-business day, the declaration under paragraph (2)(a) is to take place on the next day which is not a non-business day.
 
-### 49. Publication of voting information[^key-e4b86301a36460ed3bba6e0eb7dfc1b2]
+### 49. Publication of voting information[^c-e4b86301a36460ed3bba6e0eb7dfc1b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 50. Sealing up of ballot papers[^key-6ee70008fe7bfc94b3fb227a9f9f73fa]
+### 50. Sealing up of ballot papers[^c-6ee70008fe7bfc94b3fb227a9f9f73fa]
 
 (1) On the completion of the counting at a contested election the returning officer must seal up in packets—
 
@@ -642,15 +642,15 @@ and so on.
 
 (2) The returning officer must not open the packets sealed under paragraph (1).
 
-(3) As soon as reasonably practicable after an electronic copy mentioned in paragraph (1) has been stored in accordance with that paragraph, the returning officer must obtain a copy of such information as may be required to comply with the requirements of regulation 48(1)(e)[^key-599eb776a80ffe9dd48a9b2d7e560fb7] and must then procure that all original electronic data or records relating to the election are removed from the electronic counting system and that it (and any copy of that data or records other than a copy made pursuant to paragraph (1) or to comply with the requirements of regulation 49) is destroyed in a manner which ensures that the confidentiality of the data or records is preserved.
+(3) As soon as reasonably practicable after an electronic copy mentioned in paragraph (1) has been stored in accordance with that paragraph, the returning officer must obtain a copy of such information as may be required to comply with the requirements of regulation 48(1)(e)[^c-599eb776a80ffe9dd48a9b2d7e560fb7] and must then procure that all original electronic data or records relating to the election are removed from the electronic counting system and that it (and any copy of that data or records other than a copy made pursuant to paragraph (1) or to comply with the requirements of regulation 49) is destroyed in a manner which ensures that the confidentiality of the data or records is preserved.
 
 (4) Any information retained to comply with the requirements of regulation 48(1)(e) may be used only for that purpose and the returning officer must, in keeping and using it, take all reasonable steps to maintain the secrecy of voting.
 
-### 51. Delivery of documents[^key-41363470c522f09dd3facf23dc5126cb]
+### 51. Delivery of documents[^c-41363470c522f09dd3facf23dc5126cb]
 
 The returning officer must then forward to the registration officer the packets sealed under regulation 50(1) endorsing on each packet a description of its contents, the date of the election to which they relate and the name of the constituency for which the election was held.
 
-### 52. Orders for production of documents[^key-9c2241e58e024c1cffe6cdbfb393c56b]
+### 52. Orders for production of documents[^c-9c2241e58e024c1cffe6cdbfb393c56b]
 
 (1) An order—
 
@@ -690,7 +690,7 @@ is, unless the contrary is shown, conclusive evidence that the elector whose vot
 
 (7) Except as provided by this regulation, no person is allowed to inspect any rejected or counted ballot papers in the possession of the registration officer or any information held on an electronic copy made under regulation 50(1).
 
-### 53. Retention of documents[^key-4e057b485316f01dcab23bd137434bda][^key-d0a01ccab1da6112a44034926cefadaa]
+### 53. Retention of documents[^c-4e057b485316f01dcab23bd137434bda][^c-d0a01ccab1da6112a44034926cefadaa]
 
 (1) The registration officer must retain—
 
@@ -702,7 +702,7 @@ is, unless the contrary is shown, conclusive evidence that the elector whose vot
 
 (2) At the expiry of the period in paragraph (1)(a) or (b), the registration officer must, unless otherwise directed by an order of a sheriff principal, cause the items retained under that sub-paragraph to be destroyed.
 
-### 54. Death of candidate[^key-2dd4992b67e2a6720f2ddfadffdafbc3]
+### 54. Death of candidate[^c-2dd4992b67e2a6720f2ddfadffdafbc3]
 
 (1) If, in relation to a contested election, proof is given to the returning officer’s satisfaction before the result of the election is declared that one of the persons named or to be named as candidate in the ballot papers has died, the returning officer must direct that the election be abandoned; and, subject to paragraph (2), no further steps are to take place under Part II, III or IV in respect of it.
 
@@ -725,7 +725,7 @@ but in all other respects the election takes place as if it were any other elect
 
 (6) For the purpose of regulation 8(3) the day of the count at the next election in respect of the constituency concerned following an election by virtue of paragraph (4)(b) is the first Friday occurring 5 years after the day when the count at the original election would have been held or, as the case may be, the candidate would have been declared elected under regulation 48.
 
-### 54A. Vacancies among elected members[^key-603e5f1b757af324cc4e0f65edafbc10]
+### 54A. Vacancies among elected members[^c-603e5f1b757af324cc4e0f65edafbc10]
 
 (1) In this regulation—
 
@@ -782,7 +782,7 @@ the registration officer must determine by lot which of those persons is to be i
 
 ## PART V — OFFENCES
 
-### 55. Personation[^key-e16346bc2f7d34c25acc80333e336ea5]
+### 55. Personation[^c-e16346bc2f7d34c25acc80333e336ea5]
 
 (1) A person commits an offence if he or she commits, or aids, abets, counsels or procures the commission of, the offence of personation.
 
@@ -795,7 +795,7 @@ the registration officer must determine by lot which of those persons is to be i
 
 (3) For the purposes of this regulation, a person who has marked, whether validly or not, and returned a ballot paper issued for the purpose of voting by post, is deemed to have voted.
 
-### 56. Other voting offences[^key-d156863e3162119f773e68dc04101b05]
+### 56. Other voting offences[^c-d156863e3162119f773e68dc04101b05]
 
 (1) A person commits an offence if —
 
@@ -816,7 +816,7 @@ the registration officer must determine by lot which of those persons is to be i
 
 (5) A person commits an offence if he or she knowingly induces or procures some other person to do an act which is, or but for that other person’s want of knowledge would be, an offence by that other person under paragraphs (1) to (4).
 
-### 57. Offences relating to applications for absent and proxy votes[^key-9528945a1b14f57e0bb3ca50f72b3e33]
+### 57. Offences relating to applications for absent and proxy votes[^c-9528945a1b14f57e0bb3ca50f72b3e33]
 
 (1) A person commits an offence if he or she—
 
@@ -832,7 +832,7 @@ the registration officer must determine by lot which of those persons is to be i
 
 (3) A person who aids, abets, counsels or procures the commission of an offence under paragraph (1) commits an offence.
 
-### 58. Breach of official duty[^key-01221013ec2e5a13ff746c3a07eb2dd5]
+### 58. Breach of official duty[^c-01221013ec2e5a13ff746c3a07eb2dd5]
 
 (1) If a person to whom this regulation applies is in breach of his or her official duty under these Regulations, without reasonable cause, that person commits an offence and he or she is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
@@ -848,7 +848,7 @@ the registration officer must determine by lot which of those persons is to be i
 
 and “official duty”, for the purposes of this regulation, is construed accordingly.
 
-### 59. Tampering with nomination papers, ballot papers etc.[^key-62a1911da64c595c20eb093880ea3e0f]
+### 59. Tampering with nomination papers, ballot papers etc.[^c-62a1911da64c595c20eb093880ea3e0f]
 
 (1) A person commits an offence, if, at an election, he or she—
 
@@ -865,7 +865,7 @@ and “official duty”, for the purposes of this regulation, is construed accor
 
 (3) If any other person commits an offence under this regulation, he or she is liable on summary conviction to a fine not exceeding level 5 on the standard scale, or to imprisonment for a term not exceeding 6 months, or to both.
 
-### 60. Elections: false information in nomination papers etc.[^key-84233645dc941ec72419b94c99da4cf5]
+### 60. Elections: false information in nomination papers etc.[^c-84233645dc941ec72419b94c99da4cf5]
 
 (1) A person commits an offence if he or she causes or permits to be included in a document delivered or otherwise furnished to the returning officer for use in connection with the election—
 
@@ -885,7 +885,7 @@ and “official duty”, for the purposes of this regulation, is construed accor
 - (b) that he or she will be qualified for being elected; or
 - (c) that to the best of his or her knowledge and belief he or she is not disqualified for being elected.
 
-### 61. Requirement of secrecy[^key-36c13a0af2635d3ff047f6e1781c8a28]
+### 61. Requirement of secrecy[^c-36c13a0af2635d3ff047f6e1781c8a28]
 
 (1) The returning officer and his or her staff attending at the counting of the votes and every candidate and his or her spouse or civil partner, counting agent and persons permitted to attend under regulation 40(2), so attending, must maintain and aid in maintaining the secrecy of voting and must not, except for some purpose authorised by law, communicate to any person before the count is completed any information as to—
 
@@ -907,25 +907,25 @@ and “official duty”, for the purposes of this regulation, is construed accor
 
 (5) A person commits an offence if he or she does not comply with any of the requirements in paragraphs (1) to (4).
 
-### 62. Penalties[^key-4ce8c16c8c4ef6f6d589be28993fe43e]
+### 62. Penalties[^c-4ce8c16c8c4ef6f6d589be28993fe43e]
 
 A person who has committed an offence under regulation 55, 56, 57, 60 or 61 is liable on summary conviction to a fine not exceeding level 5 on the standard scale or imprisonment for a term not exceeding 12 months.
 
 ## PART VI — MISCELLANEOUS AND SUPPLEMENTAL
 
-### 63. Election expenses[^key-e2292f9bafbe87b112527a7dd8b33d24]
+### 63. Election expenses[^c-e2292f9bafbe87b112527a7dd8b33d24]
 
-All sums paid, and expenses incurred, by a candidate at an election, whether before, during or after an election, on account of or in respect of the conduct or management of the election, must not exceed £700[^key-7b73b1d38cf39b8196244085bd314561].
+All sums paid, and expenses incurred, by a candidate at an election, whether before, during or after an election, on account of or in respect of the conduct or management of the election, must not exceed £700[^c-7b73b1d38cf39b8196244085bd314561].
 
-### 64. Election expenses returns[^key-4f0861fad00759e42919f41993e67bc6]
+### 64. Election expenses returns[^c-4f0861fad00759e42919f41993e67bc6]
 
-(1) Within 35 days of the day on which the result of the election is declared under regulation 48 every candidate whose name and address is contained in the ballot papers for that election[^key-d377440242fe48fcdb5e16c2309e623d] must deliver to the returning officer a true return and declaration in such form as the returning officer thinks fit containing as respects that candidate a statement of all payments made by that candidate together with all the bills or receipts.
+(1) Within 35 days of the day on which the result of the election is declared under regulation 48 every candidate whose name and address is contained in the ballot papers for that election[^c-d377440242fe48fcdb5e16c2309e623d] must deliver to the returning officer a true return and declaration in such form as the returning officer thinks fit containing as respects that candidate a statement of all payments made by that candidate together with all the bills or receipts.
 
 (2) The returning officer must then forward the returns to the registration officer.
 
-(3)[^key-35c81db95d0e9a4487ca350624ed18f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-35c81db95d0e9a4487ca350624ed18f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 65. Effect of misdescription[^key-1ab26ef0464600bce46346f8bb375d3d]
+### 65. Effect of misdescription[^c-1ab26ef0464600bce46346f8bb375d3d]
 
 No misnomer or inaccurate description of any person or place named in—
 
@@ -944,7 +944,7 @@ Edinburgh
 
 21st December 2011
 
-## SCHEDULE — CONSTITUENCIES[^key-f419dc021ce5249dad94b9c8c8cb70e7]
+## SCHEDULE — CONSTITUENCIES[^c-f419dc021ce5249dad94b9c8c8cb70e7]
 
 Regulation 8(1)
 
@@ -987,9 +987,9 @@ Part VI includes miscellaneous provisions relating to candidates’ expenses and
 
 [^f00001]: Footnote: [1993 c.44](https://www.legislation.gov.uk/ukpga/1993/44) (“the 1993 Act”), amended by the Crofting Reform etc. Act [2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7) and the Crofting Reform (Scotland) Act [2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14) (“the 2010 Act”). Schedule 1 to the 1993 Act was substituted by schedule 1 to the 2010 Act.
 
-[^key-d5c1c5b25a9104b3abda41a4ec34e361]: Commencement: Reg. 1 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-d5c1c5b25a9104b3abda41a4ec34e361]: Commencement: Reg. 1 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-4196a571a1c71f9b5d75710706cb78c7]: Commencement: Reg. 2 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-4196a571a1c71f9b5d75710706cb78c7]: Commencement: Reg. 2 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
 [^f00002]: Footnote: [1955 c.21](https://www.legislation.gov.uk/ukpga/1955/21). The Crofters Commission is to be re-named as the Crofting Commission from 1st April 2012 by virtue of section 1(1) of the 2010 Act.
 
@@ -999,11 +999,11 @@ Part VI includes miscellaneous provisions relating to candidates’ expenses and
 
 [^f00005]: Footnote: Section 26D was inserted by section 37 of the 2010 Act.
 
-[^key-d94b23c838490e10f84bae19fba9c322]: Commencement: Reg. 3 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-d94b23c838490e10f84bae19fba9c322]: Commencement: Reg. 3 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-ca925e245cfe07f08f2f3e07eaba0103]: Commencement: Reg. 4 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-ca925e245cfe07f08f2f3e07eaba0103]: Commencement: Reg. 4 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-9f3e0cc1e2c32be4a6af2c5ef14922c9]: Commencement: Reg. 5 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-9f3e0cc1e2c32be4a6af2c5ef14922c9]: Commencement: Reg. 5 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
 [^f00006]: Footnote: Section 22 was repealed by paragraph 3(13) of Schedule 4 to the 2010 Act but was saved by article 6 of the Crofting Reform (Scotland) Act 2010 (Commencement No. 2, Transitory, Transitional and Saving Provisions) Order 2011 ([S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334)).
 
@@ -1011,161 +1011,161 @@ Part VI includes miscellaneous provisions relating to candidates’ expenses and
 
 [^f00008]: Footnote: Section 21B was inserted by section 35 of the 2010 Act.
 
-[^key-31a4f6e7b1403e41fefd292df8c2ea65]: Commencement: Reg. 6 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-31a4f6e7b1403e41fefd292df8c2ea65]: Commencement: Reg. 6 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-6d8df85aa7d43d08eb1cb75a62c04453]: Commencement: Reg. 7 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-6d8df85aa7d43d08eb1cb75a62c04453]: Commencement: Reg. 7 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-62c2b22769d0a1d8e0fd696975e31bf8]: Commencement: Reg. 8 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-62c2b22769d0a1d8e0fd696975e31bf8]: Commencement: Reg. 8 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-0c86310ba0d9a193aedae490f6db737b]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/ssi/2011/456/regulation/8/4) omitted (16.12.2016) by virtue of [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [3](https://www.legislation.gov.uk/ssi/2016/424/regulation/3)
+[^c-0c86310ba0d9a193aedae490f6db737b]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/ssi/2011/456/regulation/8/4) omitted (16.12.2016) by virtue of [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [3](https://www.legislation.gov.uk/ssi/2016/424/regulation/3)
 
-[^key-822435fd8bba6f77d3daa0b4265cce20]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/ssi/2011/456/regulation/8/4) inserted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [3](https://www.legislation.gov.uk/ssi/2016/424/regulation/3)
+[^c-822435fd8bba6f77d3daa0b4265cce20]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/ssi/2011/456/regulation/8/4) inserted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [3](https://www.legislation.gov.uk/ssi/2016/424/regulation/3)
 
 [^f00009]: Footnote: Section 61(1) of the 1993 Act defines “crofting counties” as comprising the former counties of Argyll, Caithness, Inverness, Orkney, Ross and Cromarty, Sutherland and Zetland. [S.S.I. 2010/29](https://www.legislation.gov.uk/ssi/2010/29) designates the following areas for the purposes of section 3A(1)(b) of the 1993 Act: that part of the local government area of Highland that is outwith the crofting counties; the local government area of Moray; in the local government area of Argyll and Bute, the parishes of Kingarth, North Bute and Rothesay; and in the local government area of North Ayrshire, the islands of Arran (including Holy Island and Pladda), Great Cumbrae and Little Cumbrae.
 
 [^f00010]: Footnote: [S.S.I. 2010/29](https://www.legislation.gov.uk/ssi/2010/29).
 
-[^key-693c7eed130b0394ccdf3ea9b2bc8f74]: Commencement: Reg. 9 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-693c7eed130b0394ccdf3ea9b2bc8f74]: Commencement: Reg. 9 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-480fa7f28cfc30a50aab91853f2aa645]: Commencement: Reg. 10 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-480fa7f28cfc30a50aab91853f2aa645]: Commencement: Reg. 10 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-4e8b338bbdf2de783a2ed052acf6a20d]: Textual amendment: [Reg. 10(1)(ba)](https://www.legislation.gov.uk/ssi/2011/456/regulation/10/1/ba) inserted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2016/424/regulation/4/a)
+[^c-4e8b338bbdf2de783a2ed052acf6a20d]: Textual amendment: [Reg. 10(1)(ba)](https://www.legislation.gov.uk/ssi/2011/456/regulation/10/1/ba) inserted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2016/424/regulation/4/a)
 
-[^key-d5333c86e003159f12128f82fa203b49]: Textual amendment: [Reg. 10(5)(d)](https://www.legislation.gov.uk/ssi/2011/456/regulation/10/5/d) substituted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2016/424/regulation/4/b)
+[^c-d5333c86e003159f12128f82fa203b49]: Textual amendment: [Reg. 10(5)(d)](https://www.legislation.gov.uk/ssi/2011/456/regulation/10/5/d) substituted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2016/424/regulation/4/b)
 
-[^key-df24005e01572421e07d6ae2532d8b63]: Commencement: Reg. 11 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-df24005e01572421e07d6ae2532d8b63]: Commencement: Reg. 11 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-a591c6e92bcac67529cd21e40e6513aa]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2011/456/regulation/11/1) inserted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [5](https://www.legislation.gov.uk/ssi/2016/424/regulation/5)
+[^c-a591c6e92bcac67529cd21e40e6513aa]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2011/456/regulation/11/1) inserted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [5](https://www.legislation.gov.uk/ssi/2016/424/regulation/5)
 
-[^key-04cbc2ff73b32688aecaa8141530e3de]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/ssi/2011/456/regulation/11/2) revoked (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [13(a)](https://www.legislation.gov.uk/ssi/2016/424/regulation/13/a)
+[^c-04cbc2ff73b32688aecaa8141530e3de]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/ssi/2011/456/regulation/11/2) revoked (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [13(a)](https://www.legislation.gov.uk/ssi/2016/424/regulation/13/a)
 
-[^key-6e03fb7fcd0067edc45a3583bb819f6c]: Commencement: Reg. 12 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-6e03fb7fcd0067edc45a3583bb819f6c]: Commencement: Reg. 12 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-ef3a0ea769df0cdf35681bcda555a6e9]: Commencement: Reg. 13 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-ef3a0ea769df0cdf35681bcda555a6e9]: Commencement: Reg. 13 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-abe2fca5fe9e5d2e23afde3c94f336f1]: Commencement: Reg. 14 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-abe2fca5fe9e5d2e23afde3c94f336f1]: Commencement: Reg. 14 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-359d4968a570a4991a6e713defcec553]: Commencement: Reg. 15 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-359d4968a570a4991a6e713defcec553]: Commencement: Reg. 15 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-91a18820a5150f5c2b9634dc3df47f75]: Commencement: Reg. 16 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-91a18820a5150f5c2b9634dc3df47f75]: Commencement: Reg. 16 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-f6d1ae4a22539c9064f370d5547244e4]: Commencement: Reg. 17 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-f6d1ae4a22539c9064f370d5547244e4]: Commencement: Reg. 17 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-4b1542bc5822b788ab1d75e43c67a9eb]: Commencement: Reg. 18 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-4b1542bc5822b788ab1d75e43c67a9eb]: Commencement: Reg. 18 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-8922ee29e33247fc705954d4290cd3d3]: Commencement: Reg. 19 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-8922ee29e33247fc705954d4290cd3d3]: Commencement: Reg. 19 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-21d27782e31ba92e7b8d35c05ab8a841]: Commencement: Reg. 20 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-21d27782e31ba92e7b8d35c05ab8a841]: Commencement: Reg. 20 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-4c05e3eb626cb31be38cfa8d827ae35d]: Commencement: Reg. 21 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-4c05e3eb626cb31be38cfa8d827ae35d]: Commencement: Reg. 21 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-95ffb9d0163042cf34672142276557d4]: Commencement: Reg. 22 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-95ffb9d0163042cf34672142276557d4]: Commencement: Reg. 22 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-ffef2105b3e2d0f3bded4576fc906e1e]: Commencement: Reg. 23 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-ffef2105b3e2d0f3bded4576fc906e1e]: Commencement: Reg. 23 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-07a6baa2c48d35164d87e7042fde6fef]: Textual amendment: [Reg. 23(1A)](https://www.legislation.gov.uk/ssi/2011/456/regulation/23/1A) inserted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2016/424/regulation/6/a)
+[^c-07a6baa2c48d35164d87e7042fde6fef]: Textual amendment: [Reg. 23(1A)](https://www.legislation.gov.uk/ssi/2011/456/regulation/23/1A) inserted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2016/424/regulation/6/a)
 
-[^key-5a3175359e066dc7c947d2b06f90d3d3]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/ssi/2011/456/regulation/23/2) inserted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2016/424/regulation/6/b)
+[^c-5a3175359e066dc7c947d2b06f90d3d3]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/ssi/2011/456/regulation/23/2) inserted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2016/424/regulation/6/b)
 
-[^key-d04dc2ef6439df90c821d4eb7760ba6d]: Commencement: Reg. 24 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-d04dc2ef6439df90c821d4eb7760ba6d]: Commencement: Reg. 24 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-7fc8ca738c7e024dd06b479c856da82c]: Commencement: Reg. 25 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-7fc8ca738c7e024dd06b479c856da82c]: Commencement: Reg. 25 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-6b48c2f1725070ac0e5f64dd1e147e08]: Commencement: Reg. 26 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-6b48c2f1725070ac0e5f64dd1e147e08]: Commencement: Reg. 26 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-e884d9154ece0e811c5f2c19e9d1f74b]: Commencement: Reg. 27 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-e884d9154ece0e811c5f2c19e9d1f74b]: Commencement: Reg. 27 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-a53fb6529bbed60aaba1646b03258409]: Commencement: Reg. 28 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-a53fb6529bbed60aaba1646b03258409]: Commencement: Reg. 28 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-644d53129ca8aecfd89184cf699a9258]: Commencement: Reg. 29 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-644d53129ca8aecfd89184cf699a9258]: Commencement: Reg. 29 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-297b41530af6be5374178f3d9f59b6f1]: Commencement: Reg. 30 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-297b41530af6be5374178f3d9f59b6f1]: Commencement: Reg. 30 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-585083882a86d9b8c7cec82d54987c12]: Commencement: Reg. 31 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-585083882a86d9b8c7cec82d54987c12]: Commencement: Reg. 31 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-445021d97cacf2efb45f7b3901df3333]: Commencement: Reg. 32 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-445021d97cacf2efb45f7b3901df3333]: Commencement: Reg. 32 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-de0de44a5c7c5329165882798f5a349a]: Commencement: Reg. 33 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-de0de44a5c7c5329165882798f5a349a]: Commencement: Reg. 33 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-a1899af759d34f3e7a64bec73445db7e]: Commencement: Reg. 34 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-a1899af759d34f3e7a64bec73445db7e]: Commencement: Reg. 34 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-e0782b46bdfb3f1b53ae40616aa1f6ff]: Commencement: Reg. 35 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-e0782b46bdfb3f1b53ae40616aa1f6ff]: Commencement: Reg. 35 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-61532a537614064303cc20e354c83ebd]: Commencement: Reg. 36 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-61532a537614064303cc20e354c83ebd]: Commencement: Reg. 36 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-0fd42da3d492437d302fcb63d3d421c9]: Commencement: Reg. 37 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-0fd42da3d492437d302fcb63d3d421c9]: Commencement: Reg. 37 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-fcab05f3e759135f656a9fff7626be0c]: Commencement: Reg. 38 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-fcab05f3e759135f656a9fff7626be0c]: Commencement: Reg. 38 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-76bae0fc175183d09d1996745d2c66ca]: Commencement: Reg. 39 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-76bae0fc175183d09d1996745d2c66ca]: Commencement: Reg. 39 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-c4674536a04bb52f7d985af15574648d]: Commencement: Reg. 40 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-c4674536a04bb52f7d985af15574648d]: Commencement: Reg. 40 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-6e3917b979ab2c7d045f27c8bb3540de]: Commencement: Reg. 41 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-6e3917b979ab2c7d045f27c8bb3540de]: Commencement: Reg. 41 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-57f50a5b2c4497d0f1278bedc146ccfe]: Commencement: Reg. 42 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-57f50a5b2c4497d0f1278bedc146ccfe]: Commencement: Reg. 42 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-75409719ed2ff64012522ba4d9e1a048]: Commencement: Reg. 43 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-75409719ed2ff64012522ba4d9e1a048]: Commencement: Reg. 43 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-baa43cd09c0b3462ee27d9310bbe93ff]: Commencement: Reg. 44 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-baa43cd09c0b3462ee27d9310bbe93ff]: Commencement: Reg. 44 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-b3a3ac0c6c265be76fc048502be9832f]: Commencement: Reg. 45 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-b3a3ac0c6c265be76fc048502be9832f]: Commencement: Reg. 45 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-f4df2e4163f7434529ef00b02a7f44ec]: Commencement: Reg. 46 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-f4df2e4163f7434529ef00b02a7f44ec]: Commencement: Reg. 46 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-2d0244596ed554e91f5883277f637b43]: Commencement: Reg. 47 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-2d0244596ed554e91f5883277f637b43]: Commencement: Reg. 47 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-a60f8d9157c4a6a1e7664f3271091f11]: Commencement: Reg. 48 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-a60f8d9157c4a6a1e7664f3271091f11]: Commencement: Reg. 48 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-54d24fbb251cffb60dfba745615247d6]: Textual amendment: [Reg. 48(1A)](https://www.legislation.gov.uk/ssi/2011/456/regulation/48/1A)[(1B)](https://www.legislation.gov.uk/ssi/2011/456/regulation/48/1B) inserted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [7](https://www.legislation.gov.uk/ssi/2016/424/regulation/7)
+[^c-54d24fbb251cffb60dfba745615247d6]: Textual amendment: [Reg. 48(1A)](https://www.legislation.gov.uk/ssi/2011/456/regulation/48/1A)[(1B)](https://www.legislation.gov.uk/ssi/2011/456/regulation/48/1B) inserted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [7](https://www.legislation.gov.uk/ssi/2016/424/regulation/7)
 
-[^key-e4b86301a36460ed3bba6e0eb7dfc1b2]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/ssi/2011/456/regulation/49) revoked (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [13(b)](https://www.legislation.gov.uk/ssi/2016/424/regulation/13/b)
+[^c-e4b86301a36460ed3bba6e0eb7dfc1b2]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/ssi/2011/456/regulation/49) revoked (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [13(b)](https://www.legislation.gov.uk/ssi/2016/424/regulation/13/b)
 
-[^key-6ee70008fe7bfc94b3fb227a9f9f73fa]: Commencement: Reg. 50 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-6ee70008fe7bfc94b3fb227a9f9f73fa]: Commencement: Reg. 50 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-599eb776a80ffe9dd48a9b2d7e560fb7]: Textual amendment: Word in [reg. 50(3)](https://www.legislation.gov.uk/ssi/2011/456/regulation/50/3)[(4)](https://www.legislation.gov.uk/ssi/2011/456/regulation/50/4) substituted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [8](https://www.legislation.gov.uk/ssi/2016/424/regulation/8)
+[^c-599eb776a80ffe9dd48a9b2d7e560fb7]: Textual amendment: Word in [reg. 50(3)](https://www.legislation.gov.uk/ssi/2011/456/regulation/50/3)[(4)](https://www.legislation.gov.uk/ssi/2011/456/regulation/50/4) substituted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [8](https://www.legislation.gov.uk/ssi/2016/424/regulation/8)
 
-[^key-41363470c522f09dd3facf23dc5126cb]: Commencement: Reg. 51 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-41363470c522f09dd3facf23dc5126cb]: Commencement: Reg. 51 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-9c2241e58e024c1cffe6cdbfb393c56b]: Commencement: Reg. 52 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-9c2241e58e024c1cffe6cdbfb393c56b]: Commencement: Reg. 52 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-4e057b485316f01dcab23bd137434bda]: Commencement: Reg. 53 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-4e057b485316f01dcab23bd137434bda]: Commencement: Reg. 53 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-d0a01ccab1da6112a44034926cefadaa]: Textual amendment: [Reg. 53](https://www.legislation.gov.uk/ssi/2011/456/regulation/53) substituted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [9](https://www.legislation.gov.uk/ssi/2016/424/regulation/9)
+[^c-d0a01ccab1da6112a44034926cefadaa]: Textual amendment: [Reg. 53](https://www.legislation.gov.uk/ssi/2011/456/regulation/53) substituted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [9](https://www.legislation.gov.uk/ssi/2016/424/regulation/9)
 
-[^key-2dd4992b67e2a6720f2ddfadffdafbc3]: Commencement: Reg. 54 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-2dd4992b67e2a6720f2ddfadffdafbc3]: Commencement: Reg. 54 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-603e5f1b757af324cc4e0f65edafbc10]: Textual amendment: [Reg. 54A](https://www.legislation.gov.uk/ssi/2011/456/regulation/54A) inserted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [10](https://www.legislation.gov.uk/ssi/2016/424/regulation/10)
+[^c-603e5f1b757af324cc4e0f65edafbc10]: Textual amendment: [Reg. 54A](https://www.legislation.gov.uk/ssi/2011/456/regulation/54A) inserted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [10](https://www.legislation.gov.uk/ssi/2016/424/regulation/10)
 
-[^key-e16346bc2f7d34c25acc80333e336ea5]: Commencement: Reg. 55 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-e16346bc2f7d34c25acc80333e336ea5]: Commencement: Reg. 55 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-d156863e3162119f773e68dc04101b05]: Commencement: Reg. 56 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-d156863e3162119f773e68dc04101b05]: Commencement: Reg. 56 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-9528945a1b14f57e0bb3ca50f72b3e33]: Commencement: Reg. 57 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-9528945a1b14f57e0bb3ca50f72b3e33]: Commencement: Reg. 57 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-01221013ec2e5a13ff746c3a07eb2dd5]: Commencement: Reg. 58 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-01221013ec2e5a13ff746c3a07eb2dd5]: Commencement: Reg. 58 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-62a1911da64c595c20eb093880ea3e0f]: Commencement: Reg. 59 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-62a1911da64c595c20eb093880ea3e0f]: Commencement: Reg. 59 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-84233645dc941ec72419b94c99da4cf5]: Commencement: Reg. 60 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-84233645dc941ec72419b94c99da4cf5]: Commencement: Reg. 60 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-36c13a0af2635d3ff047f6e1781c8a28]: Commencement: Reg. 61 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-36c13a0af2635d3ff047f6e1781c8a28]: Commencement: Reg. 61 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-4ce8c16c8c4ef6f6d589be28993fe43e]: Commencement: Reg. 62 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-4ce8c16c8c4ef6f6d589be28993fe43e]: Commencement: Reg. 62 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-e2292f9bafbe87b112527a7dd8b33d24]: Commencement: Reg. 63 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-e2292f9bafbe87b112527a7dd8b33d24]: Commencement: Reg. 63 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-7b73b1d38cf39b8196244085bd314561]: Textual amendment: Word in [reg. 63](https://www.legislation.gov.uk/ssi/2011/456/regulation/63) substituted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [11](https://www.legislation.gov.uk/ssi/2016/424/regulation/11)
+[^c-7b73b1d38cf39b8196244085bd314561]: Textual amendment: Word in [reg. 63](https://www.legislation.gov.uk/ssi/2011/456/regulation/63) substituted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [11](https://www.legislation.gov.uk/ssi/2016/424/regulation/11)
 
-[^key-4f0861fad00759e42919f41993e67bc6]: Commencement: Reg. 64 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-4f0861fad00759e42919f41993e67bc6]: Commencement: Reg. 64 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-d377440242fe48fcdb5e16c2309e623d]: Textual amendment: Words in [reg. 64(1)](https://www.legislation.gov.uk/ssi/2011/456/regulation/64/1) substituted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [12(a)](https://www.legislation.gov.uk/ssi/2016/424/regulation/12/a)
+[^c-d377440242fe48fcdb5e16c2309e623d]: Textual amendment: Words in [reg. 64(1)](https://www.legislation.gov.uk/ssi/2011/456/regulation/64/1) substituted (16.12.2016) by [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [12(a)](https://www.legislation.gov.uk/ssi/2016/424/regulation/12/a)
 
-[^key-35c81db95d0e9a4487ca350624ed18f8]: Textual amendment: [Reg. 64(3)](https://www.legislation.gov.uk/ssi/2011/456/regulation/64/3) omitted (16.12.2016) by virtue of [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [12(b)](https://www.legislation.gov.uk/ssi/2016/424/regulation/12/b)
+[^c-35c81db95d0e9a4487ca350624ed18f8]: Textual amendment: [Reg. 64(3)](https://www.legislation.gov.uk/ssi/2011/456/regulation/64/3) omitted (16.12.2016) by virtue of [The Crofting Commission (Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/424)](https://www.legislation.gov.uk/ssi/2016/424), [regs. 1](https://www.legislation.gov.uk/ssi/2016/424/regulation/1), [12(b)](https://www.legislation.gov.uk/ssi/2016/424/regulation/12/b)
 
-[^key-1ab26ef0464600bce46346f8bb375d3d]: Commencement: Reg. 65 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-1ab26ef0464600bce46346f8bb375d3d]: Commencement: Reg. 65 in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
-[^key-f419dc021ce5249dad94b9c8c8cb70e7]: Commencement: Sch. in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
+[^c-f419dc021ce5249dad94b9c8c8cb70e7]: Commencement: Sch. in force at 22.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/456/regulation/1)
 
 [^f00012]: Footnote: The parishes are mapped on a map held by the Geographical Information Service of the Scottish Government, which map can be seen using the link http://www.scotland.gov.uk/Topics/farmingrural/Rural/crofting-policy/Act/Elections.
 

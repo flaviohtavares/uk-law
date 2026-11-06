@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Supplemental powers of court[^key-14207e6d1cd5ec7817b924a8b000f1f7]
+## 14. Supplemental powers of court[^c-14207e6d1cd5ec7817b924a8b000f1f7]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-14207e6d1cd5ec7817b924a8b000f1f7]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/1994/2421/article/14) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-14207e6d1cd5ec7817b924a8b000f1f7]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/1994/2421/article/14) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
 [^f00007]: Footnote: [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98E. Imposition, variation and revocation of conditions[^key-8d871f4cde16c48f73eed61a7315f0c1]
+## 98E. Imposition, variation and revocation of conditions[^c-8d871f4cde16c48f73eed61a7315f0c1]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ of that imposition, variation, revocation or, as the case may be, refusal.
 
 ## Annotations
 
-[^key-8d871f4cde16c48f73eed61a7315f0c1]: Textual amendment: S. 98E inserted (31.12.2005) by [School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), [ss. 5(1)](https://www.legislation.gov.uk/asp/2004/12/section/5/1), [9(2)](https://www.legislation.gov.uk/asp/2004/12/section/9/2); [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2005/570/article/3/2))
+[^c-8d871f4cde16c48f73eed61a7315f0c1]: Textual amendment: S. 98E inserted (31.12.2005) by [School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), [ss. 5(1)](https://www.legislation.gov.uk/asp/2004/12/section/5/1), [9(2)](https://www.legislation.gov.uk/asp/2004/12/section/9/2); [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2005/570/article/3/2))

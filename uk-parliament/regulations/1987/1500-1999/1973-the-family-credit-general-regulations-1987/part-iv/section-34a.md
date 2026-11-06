@@ -35,12 +35,12 @@ summary: ''
 
 (2) This paragraph applies to a benefit week where the claimant satisfies the conditions that—
 
-- (a) he is entitled to working families' tax credit[^key-12b258c21f878ce76c2fc461367a5c9b]; and
+- (a) he is entitled to working families' tax credit[^c-12b258c21f878ce76c2fc461367a5c9b]; and
 - (b) but for regulation 34(1), he would have been entitled to an additional amount of working families' tax credit in that benefit week.
 
 (3) In a case to which paragraph (2) applies, the amount of the reduction for the purposes of paragraph (1)(a) shall be equal to the aggregate of—
 
-- (a) the additional amount of working families' tax credit[^key-c90a240660a185fd1fbc9cf8a545ecea] to which the claimant would have been entitled; and
+- (a) the additional amount of working families' tax credit[^c-c90a240660a185fd1fbc9cf8a545ecea] to which the claimant would have been entitled; and
 - (b)[^M_F_2761b3dc-d8ba-4c9c-9dda-dd7490d24c06] if the claimant would, but for regulation 43(1) of the Housing Benefit (General) Regulations 1987 (notional capital), have been entitled to housing benefit or to an additional amount of housing benefit in respect of the benefit week in which the date of the last claim for working families' tax credit falls, the amount (if any) which is equal to–
   - (i) in a case where no housing benefit is payable, the amount to which he would have been entitled, or
   - (ii) in any other case, the amount equal to the additional amount of housing benefit to which he would have been entitled; and
@@ -51,9 +51,9 @@ summary: ''
   - (i) in a case where no council tax benefit is payable, the amount to which he would have been entitled, or
   - (ii) in any other case, the amount equal to the additional amount of council tax benefit to which he would have been entitled.
 
-(4) Subject to paragraph (5), for the purposes of paragraph (1)(b) the condition is that the claimant would have been entitled to working families' tax credit[^key-829875fe4fa72b854cdf8cea726ce598] in the relevant week but for regulation 34(1) and in such a case the amount shall be equal to the aggregate of—
+(4) Subject to paragraph (5), for the purposes of paragraph (1)(b) the condition is that the claimant would have been entitled to working families' tax credit[^c-829875fe4fa72b854cdf8cea726ce598] in the relevant week but for regulation 34(1) and in such a case the amount shall be equal to the aggregate of—
 
-- (a) the amount of working families' tax credit[^key-4c6bd2900a9098af50e5bff25f1e23a2] to which the claimant would have been entitled in the relevant week but for regulation 34(1); and
+- (a) the amount of working families' tax credit[^c-4c6bd2900a9098af50e5bff25f1e23a2] to which the claimant would have been entitled in the relevant week but for regulation 34(1); and
 - (b)[^M_F_dc8890ac-1fed-4911-f4f4-d3dac94ab1cc] if the claimant would, but for regulation 43(1) of the Housing Benefit (General) Regulations 1987 have been entitled to housing benefit or to an additional amount of housing benefit in respect of the benefit week in which the first day of the relevant week falls, the amount (if any) which is equal to–
   - (i) in a case where no housing benefit is payable, the amount to which he would have been entitled, or
   - (ii) in any other case, the amount equal to the additional amount of housing benefit to which he would have been entitled; and
@@ -64,7 +64,7 @@ summary: ''
   - (i) in a case where no council tax benefit is payable, the amount to which he would have been entitled, or
   - (ii) in any other case, the amount equal to the additional amount of council tax benefit to which he would have been entitled.
 
-(5) The amount determined under paragraph (4) shall be re-determined under that paragraph if the claimant makes a further claim for working families' tax credit[^key-b7a208d9ee7568a85f49bfe1c385b2d3] and the conditions in paragraph (6) are satisfied, and in such a case—
+(5) The amount determined under paragraph (4) shall be re-determined under that paragraph if the claimant makes a further claim for working families' tax credit[^c-b7a208d9ee7568a85f49bfe1c385b2d3] and the conditions in paragraph (6) are satisfied, and in such a case—
 
 - (a) sub-paragraphs (a), (b) and (c) of paragraph (4) shall apply as if for the words “relevant week” there were substituted the words “relevant subsequent week”; and
 - (b) subject to paragraph (7), the amount as re-determined shall have effect from the first week following the relevant subsequent week in question.
@@ -76,13 +76,13 @@ summary: ''
   - (ii) in a case where there has been at least one re-determination in accordance with paragraph (5), the first day of the relevant subsequent week which last occurred;
 
   whichever last occurred; and
-- (b) the claimant would have been entitled to working families' tax credit[^key-091868ad52dab0084c6f651f87e2f011] but for regulation 34(1).
+- (b) the claimant would have been entitled to working families' tax credit[^c-091868ad52dab0084c6f651f87e2f011] but for regulation 34(1).
 
 (7) The amount as re-determined pursuant to paragraph (5) shall not have effect if it is less than the amount which applied in that case immediately before the re-determination and in such a case the higher amount shall continue to have effect.
 
 (8) For the purposes of this regulation—
 
-- (a) “benefit week” has the meaning prescribed in regulations 16 (date of entitlement under an award) and 27 (working families' tax credit[^key-5a2729acca3ba99778919585041d8827]) of the Social Security (Claims and Payments) Regulations 1987 except where it appears in paragraphs (3)(b), (c) and (d) and (4)(b), (c) and (d)[^M_F_dfb81638-968b-4ac8-a460-52db4341af3a] where it has the meaning prescribed in regulation 2(1) of the Housing Benefit (General) Regulations 1987 (interpretation),[^M_F_cb7b3605-a6b8-4c67-c880-b7eb42afda19] regulation 2(1) of the Community Charge Benefits (General) Regulations 1989 (interpretation) or regulation 2(1) of the Council Tax Benefit (General) Regulations 1992 (interpretation)[^M_F_2d768e61-bd04-44ee-9991-458aa15691c9] as the case may be;
+- (a) “benefit week” has the meaning prescribed in regulations 16 (date of entitlement under an award) and 27 (working families' tax credit[^c-5a2729acca3ba99778919585041d8827]) of the Social Security (Claims and Payments) Regulations 1987 except where it appears in paragraphs (3)(b), (c) and (d) and (4)(b), (c) and (d)[^M_F_dfb81638-968b-4ac8-a460-52db4341af3a] where it has the meaning prescribed in regulation 2(1) of the Housing Benefit (General) Regulations 1987 (interpretation),[^M_F_cb7b3605-a6b8-4c67-c880-b7eb42afda19] regulation 2(1) of the Community Charge Benefits (General) Regulations 1989 (interpretation) or regulation 2(1) of the Council Tax Benefit (General) Regulations 1992 (interpretation)[^M_F_2d768e61-bd04-44ee-9991-458aa15691c9] as the case may be;
 - (b) “relevant week” means the benefit week in which the capital in question of which the claimant has deprived himself within the meaning of regulation 34(1)—
   - (i) was for the first time taken into account for the purpose of determining his entitlement to working families' tax credit; or
   - (ii) was taken into account on a subsequent occasion for that purpose other than in respect of either a benefit week to which paragraph (2) applies or a further claim to which paragraph (5) applies;
@@ -94,9 +94,9 @@ summary: ''
 
 [^M_F_7c1e28ec-ad05-4a68-9825-3926943683c5]: Textual amendment: Reg. 34A inserted (2.10.1990) by Family Credit (General) Amendment No. 2 Regulations 1990 ([S.I. 1990/1774](https://www.legislation.gov.uk/uksi/1990/1774)), reg. 1(1), 3
 
-[^key-12b258c21f878ce76c2fc461367a5c9b]: Textual amendment: Words in [reg. 34A(2)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/34A/2) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xiii)
+[^c-12b258c21f878ce76c2fc461367a5c9b]: Textual amendment: Words in [reg. 34A(2)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/34A/2) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xiii)
 
-[^key-c90a240660a185fd1fbc9cf8a545ecea]: Textual amendment: Words in [regs. 34A(3)(a)-(d)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/34A/3/a) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xiii)
+[^c-c90a240660a185fd1fbc9cf8a545ecea]: Textual amendment: Words in [regs. 34A(3)(a)-(d)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/34A/3/a) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xiii)
 
 [^M_F_2761b3dc-d8ba-4c9c-9dda-dd7490d24c06]: Textual amendment: Reg. 34A(3)(b)(c) (8.10.1991) by [The Family Credit (General) Amendment Regulations 1991 (S.I. 1991/1520)](https://www.legislation.gov.uk/uksi/1991/1520), reg. 1(1), 6(a)
 
@@ -104,9 +104,9 @@ summary: ''
 
 [^M_F_d8381101-f14e-4f9b-a5cd-c04973cd5024]: Textual amendment: Reg. 34A(3)(d) substituted (1.4.1993) by The Income-related [Benefits Schemes (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/315)](https://www.legislation.gov.uk/uksi/1993/315), regs. 1(1)(d), Sch. para 9(2)(b)
 
-[^key-829875fe4fa72b854cdf8cea726ce598]: Textual amendment: Words in [reg. 34A(4)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/34A/4) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xiii)
+[^c-829875fe4fa72b854cdf8cea726ce598]: Textual amendment: Words in [reg. 34A(4)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/34A/4) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xiii)
 
-[^key-4c6bd2900a9098af50e5bff25f1e23a2]: Textual amendment: Words in [reg. 34A(4)(a)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/34A/4/a) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xiii)
+[^c-4c6bd2900a9098af50e5bff25f1e23a2]: Textual amendment: Words in [reg. 34A(4)(a)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/34A/4/a) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xiii)
 
 [^M_F_dc8890ac-1fed-4911-f4f4-d3dac94ab1cc]: Textual amendment: Reg. 34A(4)(b)(c) (8.10.1991) by [The Family Credit (General) Amendment Regulations 1991 (S.I. 1991/1520)](https://www.legislation.gov.uk/uksi/1991/1520), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/1520/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/1991/1520/regulation/6/b)
 
@@ -114,11 +114,11 @@ summary: ''
 
 [^M_F_fcb94e30-b33e-4f77-bb33-08a43fcab9c7]: Textual amendment: Reg. 34A(4)(d) substituted (1.4.1993) by The Income-related [Benefits Schemes (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/315)](https://www.legislation.gov.uk/uksi/1993/315), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/1993/315/regulation/1/1/d), [Sch. para 9(3)(b)](https://www.legislation.gov.uk/uksi/1993/315/schedule/paragraph/9/3/b)
 
-[^key-b7a208d9ee7568a85f49bfe1c385b2d3]: Textual amendment: Words in [reg. 34A(5)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/34A/5) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xiii)
+[^c-b7a208d9ee7568a85f49bfe1c385b2d3]: Textual amendment: Words in [reg. 34A(5)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/34A/5) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xiii)
 
-[^key-091868ad52dab0084c6f651f87e2f011]: Textual amendment: Words in [reg. 34A(6)(b)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/34A/6/b) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xiii)
+[^c-091868ad52dab0084c6f651f87e2f011]: Textual amendment: Words in [reg. 34A(6)(b)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/34A/6/b) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xiii)
 
-[^key-5a2729acca3ba99778919585041d8827]: Textual amendment: Words in [regs. 34A(8)(a)-(c)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/34A/8/a) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xiii)
+[^c-5a2729acca3ba99778919585041d8827]: Textual amendment: Words in [regs. 34A(8)(a)-(c)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/34A/8/a) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xiii)
 
 [^M_F_dfb81638-968b-4ac8-a460-52db4341af3a]: Textual amendment: Words in reg. 34A(8)(a) substituted (1.4.1993) by The Income-related [Benefits Schemes (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/315)](https://www.legislation.gov.uk/uksi/1993/315), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/1993/315/regulation/1/1/d), [Sch. para 9(4)(a)](https://www.legislation.gov.uk/uksi/1993/315/schedule/paragraph/9/4/a)
 

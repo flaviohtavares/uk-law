@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69X. Ring-fencing of tax-exempt business[^key-228ceee17a63954421c7bcbab46e5182]
+## 69X. Ring-fencing of tax-exempt business[^c-228ceee17a63954421c7bcbab46e5182]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
+[^c-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)

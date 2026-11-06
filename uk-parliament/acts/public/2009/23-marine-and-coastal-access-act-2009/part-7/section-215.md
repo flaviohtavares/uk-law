@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215. Prohibited implements[^c2008198][^key-90e1e9264cfc69cb94d8d4f3dd3bd2f8]
+## 215. Prohibited implements[^c2008198][^c-90e1e9264cfc69cb94d8d4f3dd3bd2f8]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^c2008198]: Commencement: [S. 215](https://www.legislation.gov.uk/ukpga/2009/23/section/215) partly in force; [s. 215](https://www.legislation.gov.uk/ukpga/2009/23/section/215) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-90e1e9264cfc69cb94d8d4f3dd3bd2f8]: Commencement: [S. 215](https://www.legislation.gov.uk/ukpga/2009/23/section/215) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/10)
+[^c-90e1e9264cfc69cb94d8d4f3dd3bd2f8]: Commencement: [S. 215](https://www.legislation.gov.uk/ukpga/2009/23/section/215) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/10)

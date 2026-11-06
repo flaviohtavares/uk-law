@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Early medical termination of pregnancy[^key-faf61433cc2b04c0837bca27813c4bf0][^key-1a08e536ab60e6556bb299946e20242c]
+## 178. Early medical termination of pregnancy[^c-faf61433cc2b04c0837bca27813c4bf0][^c-1a08e536ab60e6556bb299946e20242c]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-faf61433cc2b04c0837bca27813c4bf0]: Commencement: S. 178 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-faf61433cc2b04c0837bca27813c4bf0]: Commencement: S. 178 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-1a08e536ab60e6556bb299946e20242c]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2022/31/section/178) in force at 30.8.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 4](https://www.legislation.gov.uk/uksi/2022/734/regulation/4) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-1a08e536ab60e6556bb299946e20242c]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2022/31/section/178) in force at 30.8.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 4](https://www.legislation.gov.uk/uksi/2022/734/regulation/4) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

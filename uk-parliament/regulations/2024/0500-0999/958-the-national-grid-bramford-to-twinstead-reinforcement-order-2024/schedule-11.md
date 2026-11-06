@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 11 — EXTINGUISHMENT OF PRIVATE RIGHTS AND RESTRICTIVE COVENANTS RELATING TO APPARATUS BELONGING TO NATIONAL GRID OR UKPN REMOVED FROM LAND SUBJECT TO TEMPORARY POSSESSION[^key-88e73ece002d9b9eba816f4c6c8fdba0]
+## SCHEDULE 11 — EXTINGUISHMENT OF PRIVATE RIGHTS AND RESTRICTIVE COVENANTS RELATING TO APPARATUS BELONGING TO NATIONAL GRID OR UKPN REMOVED FROM LAND SUBJECT TO TEMPORARY POSSESSION[^c-88e73ece002d9b9eba816f4c6c8fdba0]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ UKPN
 
 ## Annotations
 
-[^key-88e73ece002d9b9eba816f4c6c8fdba0]: Commencement: Sch. 11 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-88e73ece002d9b9eba816f4c6c8fdba0]: Commencement: Sch. 11 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

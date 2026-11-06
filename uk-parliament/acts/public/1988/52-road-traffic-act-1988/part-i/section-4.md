@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Driving, or being in charge, when under influence of drink or drugs.[^key-6aece8b57d0439e5eb10006721787654]
+## 4. Driving, or being in charge, when under influence of drink or drugs.[^c-6aece8b57d0439e5eb10006721787654]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6aece8b57d0439e5eb10006721787654]: Modification: Ss. 4-11 applied (with modifications) (5.8.2011) by [The Road Traffic (Drink and Drugs) (Cambridgeshire Guided Busway) Regulations 2011 (S.I. 2011/1652)](https://www.legislation.gov.uk/uksi/2011/1652), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1652/regulation/1), [3](https://www.legislation.gov.uk/uksi/2011/1652/regulation/3)
+[^c-6aece8b57d0439e5eb10006721787654]: Modification: Ss. 4-11 applied (with modifications) (5.8.2011) by [The Road Traffic (Drink and Drugs) (Cambridgeshire Guided Busway) Regulations 2011 (S.I. 2011/1652)](https://www.legislation.gov.uk/uksi/2011/1652), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1652/regulation/1), [3](https://www.legislation.gov.uk/uksi/2011/1652/regulation/3)
 
 [^c13971071]: Textual amendment: Words in s. 4(1)(2)(3) substituted (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 4](https://www.legislation.gov.uk/ukpga/1991/40/section/4); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 

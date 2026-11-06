@@ -26,7 +26,7 @@ summary: ''
 - (b) on such date as may be specified in the notice; or
 - (c) if no date is specified in the notice, when the matter to which it relates is no longer open to review.
 
-(2) A direction may be expressed to take effect immediately (or on a specified date) only if the FCA[^key-2002a7ce52dd7d974d24d49e805fed98], having regard to the ground on which it is exercising its power under section 281, considers that it is necessary for the direction to take effect immediately (or on that date).
+(2) A direction may be expressed to take effect immediately (or on a specified date) only if the FCA[^c-2002a7ce52dd7d974d24d49e805fed98], having regard to the ground on which it is exercising its power under section 281, considers that it is necessary for the direction to take effect immediately (or on that date).
 
 (3) If the FCA proposes to give a direction under section 281, or gives such a direction with immediate effect, it must give separate written notice to the operator and (if any) the trustee or depositary of the scheme concerned.
 
@@ -67,4 +67,4 @@ it must give separate written notice to the operator and (if any) the trustee or
 
 ## Annotations
 
-[^key-2002a7ce52dd7d974d24d49e805fed98]: Textual amendment: Word in ss. 271-283B substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-2002a7ce52dd7d974d24d49e805fed98]: Textual amendment: Word in ss. 271-283B substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

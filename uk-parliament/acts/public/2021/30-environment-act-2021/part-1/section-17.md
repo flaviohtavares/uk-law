@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Policy statement on environmental principles[^key-83087e4449ae84e1eb780f00b3ed47e9][^key-0c70bf9bd48924c5b0726facd9dd5de0]
+## 17. Policy statement on environmental principles[^c-83087e4449ae84e1eb780f00b3ed47e9][^c-0c70bf9bd48924c5b0726facd9dd5de0]
 
 *Extent: E+W+S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83087e4449ae84e1eb780f00b3ed47e9]: Commencement: S. 17 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-83087e4449ae84e1eb780f00b3ed47e9]: Commencement: S. 17 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-0c70bf9bd48924c5b0726facd9dd5de0]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2021/30/section/17) in force at 10.5.2022 by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/a)
+[^c-0c70bf9bd48924c5b0726facd9dd5de0]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2021/30/section/17) in force at 10.5.2022 by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/a)

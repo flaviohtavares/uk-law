@@ -22,16 +22,16 @@ summary: ''
 
 Section 46
 
-**1.**[^key-ca3ccef6a18c963e9ee53749fc6362ed] In section 325 (general duty)—
+**1.**[^c-ca3ccef6a18c963e9ee53749fc6362ed] In section 325 (general duty)—
 
 - (a) for “Authority”, in each place, substitute “ FCA ”, and
 - (b) in the heading, for “Authority's” substitute “FCA's”.
 
-**2.**[^key-9dd05707fbb3b6c6747e5a2a7b2709ef] In section 328 (directions relating to the general prohibition), for “Authority”, in each place, substitute “ FCA ”.
+**2.**[^c-9dd05707fbb3b6c6747e5a2a7b2709ef] In section 328 (directions relating to the general prohibition), for “Authority”, in each place, substitute “ FCA ”.
 
-**3.**[^key-7f2a21f36b4b5629f0ed97b7e05921b2] In section 329 (orders relating to the general prohibition), for “Authority”, in each place, substitute “ FCA ”.
+**3.**[^c-7f2a21f36b4b5629f0ed97b7e05921b2] In section 329 (orders relating to the general prohibition), for “Authority”, in each place, substitute “ FCA ”.
 
-**4.**[^key-67ed8c0b9ea731240a65700efc5e5506] In section 330 (consultation)—
+**4.**[^c-67ed8c0b9ea731240a65700efc5e5506] In section 330 (consultation)—
 
 - (a) for “Authority”, in each place, substitute “ FCA ”, and
 - (b) for subsection (10) substitute—
@@ -50,20 +50,20 @@ Section 46
   >
   > the cost benefit analysis need not estimate them, but must include a statement of the FCA's opinion and an explanation of it.
 
-**5.**[^key-0b16af5890b155fc31e7db3ed5d886e0] In section 331 (procedure for making orders), for “Authority”, in each place, substitute “ FCA ”.
+**5.**[^c-0b16af5890b155fc31e7db3ed5d886e0] In section 331 (procedure for making orders), for “Authority”, in each place, substitute “ FCA ”.
 
-**6.**[^key-9731cf1142ba6a7287207b3538bd5c23] In section 332 (rules relating to persons to whom the general prohibition does not apply), for “Authority”, in each place, substitute “ FCA ”.
+**6.**[^c-9731cf1142ba6a7287207b3538bd5c23] In section 332 (rules relating to persons to whom the general prohibition does not apply), for “Authority”, in each place, substitute “ FCA ”.
 
 ## Annotations
 
-[^key-ca3ccef6a18c963e9ee53749fc6362ed]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/1) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-ca3ccef6a18c963e9ee53749fc6362ed]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/1) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-9dd05707fbb3b6c6747e5a2a7b2709ef]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/2) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-9dd05707fbb3b6c6747e5a2a7b2709ef]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/2) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-7f2a21f36b4b5629f0ed97b7e05921b2]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/3) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-7f2a21f36b4b5629f0ed97b7e05921b2]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/3) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-67ed8c0b9ea731240a65700efc5e5506]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/4) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-67ed8c0b9ea731240a65700efc5e5506]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/4) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-0b16af5890b155fc31e7db3ed5d886e0]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/5) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-0b16af5890b155fc31e7db3ed5d886e0]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/5) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-9731cf1142ba6a7287207b3538bd5c23]: Commencement: [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/6) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-9731cf1142ba6a7287207b3538bd5c23]: Commencement: [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/6) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

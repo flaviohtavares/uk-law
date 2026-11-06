@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Making an allocation election[^key-1c63745e6d10ab126c2e52708fda029a]
+## 82. Making an allocation election[^c-1c63745e6d10ab126c2e52708fda029a]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c63745e6d10ab126c2e52708fda029a]: Commencement: Reg. 82 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-1c63745e6d10ab126c2e52708fda029a]: Commencement: Reg. 82 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

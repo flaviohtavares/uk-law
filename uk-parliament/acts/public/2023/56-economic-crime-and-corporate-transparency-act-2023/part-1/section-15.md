@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Objections to company’s registered name[^key-54d2f9d419c3aba2ef9c4682c578054a][^key-26c639f77bf0a36e813ec24b0c82d867]
+## 15. Objections to company’s registered name[^c-54d2f9d419c3aba2ef9c4682c578054a][^c-26c639f77bf0a36e813ec24b0c82d867]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54d2f9d419c3aba2ef9c4682c578054a]: Commencement: S. 15 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-54d2f9d419c3aba2ef9c4682c578054a]: Commencement: S. 15 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-26c639f77bf0a36e813ec24b0c82d867]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/56/section/15) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/k)
+[^c-26c639f77bf0a36e813ec24b0c82d867]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/56/section/15) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/k)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — COMMUNITY PLANNING PARTNERS[^key-f59aae32dd554db1077526785c624a61]
+## SCHEDULE 1 — COMMUNITY PLANNING PARTNERS[^c-f59aae32dd554db1077526785c624a61]
 
 *Extent: S*
 
 (introduced by section 4(1))
 
-[^key-f59aae32dd554db1077526785c624a61]
+[^c-f59aae32dd554db1077526785c624a61]
 
 - The board of management of a regional college designated by order under section 7A of the Further and Higher Education (Scotland) Act 2005 which is situated in the area of the local authority
 - The chief constable of the Police Service of Scotland
@@ -37,13 +37,13 @@ summary: ''
 - The Scottish Fire and Rescue Service
 - Scottish Natural Heritage
 - The Scottish Sports Council
-- South of Scotland Enterprise where all or part of the area of the local authority is within the South of Scotland as defined by section 21 of the South of Scotland Enterprise Act 2019[^key-9d880f190195e604ba12e59f18e5cc5a]
+- South of Scotland Enterprise where all or part of the area of the local authority is within the South of Scotland as defined by section 21 of the South of Scotland Enterprise Act 2019[^c-9d880f190195e604ba12e59f18e5cc5a]
 - The Skills Development Scotland Co. Limited
 - A regional Transport Partnership established by virtue of section 1(1)(b) of the Transport (Scotland) Act 2005 whose region includes, or is the same as, the area of the local authority
 - VisitScotland
 
 ## Annotations
 
-[^key-f59aae32dd554db1077526785c624a61]: Commencement: Sch. 1 in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)
+[^c-f59aae32dd554db1077526785c624a61]: Commencement: Sch. 1 in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)
 
-[^key-9d880f190195e604ba12e59f18e5cc5a]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/asp/2015/6/schedule/1) inserted (16.10.2019) by [South of Scotland Enterprise Act 2019 (asp 9)](https://www.legislation.gov.uk/asp/2019/9), [s. 24(2)](https://www.legislation.gov.uk/asp/2019/9/section/24/2), [sch. 2 para. 9(3)](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/9/3); [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-9d880f190195e604ba12e59f18e5cc5a]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/asp/2015/6/schedule/1) inserted (16.10.2019) by [South of Scotland Enterprise Act 2019 (asp 9)](https://www.legislation.gov.uk/asp/2019/9), [s. 24(2)](https://www.legislation.gov.uk/asp/2019/9/section/24/2), [sch. 2 para. 9(3)](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/9/3); [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)

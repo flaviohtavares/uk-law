@@ -30,7 +30,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Vehicles (Construction and Use) (Amendment No. 2) Regulations (Northern Ireland) 1998 (revoked)[^key-e37d1a9a9cf7057b595b2c87ac3b9708]
+Motor Vehicles (Construction and Use) (Amendment No. 2) Regulations (Northern Ireland) 1998 (revoked)[^c-e37d1a9a9cf7057b595b2c87ac3b9708]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 1st August 1998
 
-[^key-e37d1a9a9cf7057b595b2c87ac3b9708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e37d1a9a9cf7057b595b2c87ac3b9708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-e37d1a9a9cf7057b595b2c87ac3b9708]
+## 1. Citation, commencement, interpretation and application[^c-e37d1a9a9cf7057b595b2c87ac3b9708]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to regulation 3 (application and exemptions)[^key-e37d1a9a9cf7057b595b2c87ac3b9708]
+## 2. Amendments to regulation 3 (application and exemptions)[^c-e37d1a9a9cf7057b595b2c87ac3b9708]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Replacement of regulation 9 (indication of overall travelling height)[^key-e37d1a9a9cf7057b595b2c87ac3b9708]
+## 3. Replacement of regulation 9 (indication of overall travelling height)[^c-e37d1a9a9cf7057b595b2c87ac3b9708]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e37d1a9a9cf7057b595b2c87ac3b9708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e37d1a9a9cf7057b595b2c87ac3b9708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e37d1a9a9cf7057b595b2c87ac3b9708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e37d1a9a9cf7057b595b2c87ac3b9708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e37d1a9a9cf7057b595b2c87ac3b9708]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/225) revoked (1.1.2000) by [Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999 (S.R. 1999/454)](https://www.legislation.gov.uk/nisr/1999/454), [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1), [Sch. 19](https://www.legislation.gov.uk/nisr/1999/454/schedule/19)
+[^c-e37d1a9a9cf7057b595b2c87ac3b9708]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/225) revoked (1.1.2000) by [Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999 (S.R. 1999/454)](https://www.legislation.gov.uk/nisr/1999/454), [reg. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1), [Sch. 19](https://www.legislation.gov.uk/nisr/1999/454/schedule/19)

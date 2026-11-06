@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title[^key-0ff88131b45a69eabaa805653beecfe4]
+## 1. Title[^c-0ff88131b45a69eabaa805653beecfe4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The title of these Regulations is the Social Services and Well-being (Wales) Act
 
 ## Annotations
 
-[^key-0ff88131b45a69eabaa805653beecfe4]: Commencement: Reg. 1 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-0ff88131b45a69eabaa805653beecfe4]: Commencement: Reg. 1 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

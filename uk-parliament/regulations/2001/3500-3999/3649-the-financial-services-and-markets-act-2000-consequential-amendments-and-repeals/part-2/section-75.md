@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Repeal of spent or unnecessary provisions[^key-56de63975db4cfa54700e5cbed28e6ba]
+## 75. Repeal of spent or unnecessary provisions[^c-56de63975db4cfa54700e5cbed28e6ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ The following provisions of the Companies Act 1989 are repealed—
 
 ## Annotations
 
-[^key-56de63975db4cfa54700e5cbed28e6ba]: Commencement: Art. 75 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-56de63975db4cfa54700e5cbed28e6ba]: Commencement: Art. 75 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

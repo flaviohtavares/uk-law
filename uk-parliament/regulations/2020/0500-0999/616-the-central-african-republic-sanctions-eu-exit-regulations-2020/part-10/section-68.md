@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Amendments[^key-40619300e2958391457c85f95ca0656e]
+## 68. Amendments[^c-40619300e2958391457c85f95ca0656e]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-40619300e2958391457c85f95ca0656e]: Commencement: Reg. 68 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-40619300e2958391457c85f95ca0656e]: Commencement: Reg. 68 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
 
 [^c24163331]: Marginal citation: [S.I. 2014/3258](https://www.legislation.gov.uk/uksi/2014/3258), as amended by [S.I. 2015/97](https://www.legislation.gov.uk/uksi/2015/97); [S.I. 2015/1546](https://www.legislation.gov.uk/uksi/2015/1546); [S.I. 2019/1236](https://www.legislation.gov.uk/uksi/2019/1236); and prospectively amended by [S.I. 2019/137](https://www.legislation.gov.uk/uksi/2019/137) and [S.I. 2019/438](https://www.legislation.gov.uk/uksi/2019/438).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34.3. Saving provision[^key-c8847167452b3d585c6ee02e4f3027a1]
+## 34.3. Saving provision[^c-c8847167452b3d585c6ee02e4f3027a1]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8847167452b3d585c6ee02e4f3027a1]: Commencement: Para. 34.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-c8847167452b3d585c6ee02e4f3027a1]: Commencement: Para. 34.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

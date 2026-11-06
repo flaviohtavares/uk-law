@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Pension debit members – awards on death[^key-c33299cd362686cef72ef279a9ec4443]
+## 45. Pension debit members – awards on death[^c-c33299cd362686cef72ef279a9ec4443]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a pension debit member dies any award in respect of him under regulation 4
 
 ## Annotations
 
-[^key-c33299cd362686cef72ef279a9ec4443]: Commencement: Reg. 45 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-c33299cd362686cef72ef279a9ec4443]: Commencement: Reg. 45 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

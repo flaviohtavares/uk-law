@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Research vehicles.[^key-4e323653a5865fffb1f86546926fc162]
+## 20. Research vehicles.[^c-4e323653a5865fffb1f86546926fc162]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e323653a5865fffb1f86546926fc162]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/1991/31/section/20) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5
+[^c-4e323653a5865fffb1f86546926fc162]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/1991/31/section/20) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5

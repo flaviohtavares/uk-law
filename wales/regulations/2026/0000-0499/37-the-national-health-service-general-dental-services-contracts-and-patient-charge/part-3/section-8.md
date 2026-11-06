@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Pre-contract disputes[^key-56cf52e81fff82750700479ffedf8aff]
+## 8. Pre-contract disputes[^c-56cf52e81fff82750700479ffedf8aff]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56cf52e81fff82750700479ffedf8aff]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2026/37/regulation/8) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-56cf52e81fff82750700479ffedf8aff]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2026/37/regulation/8) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

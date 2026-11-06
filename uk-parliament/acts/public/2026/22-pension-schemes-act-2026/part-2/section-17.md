@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Consequences of a “not delivering” rating[^key-09c33c245be8cfe9e8ea81b801d22fdd]
+## 17. Consequences of a “not delivering” rating[^c-09c33c245be8cfe9e8ea81b801d22fdd]
 
 *Extent: E+W+S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09c33c245be8cfe9e8ea81b801d22fdd]: Commencement: S. 17 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-09c33c245be8cfe9e8ea81b801d22fdd]: Commencement: S. 17 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Business premises: entry without warrant[^key-dd4b389ab9fb1d3c9be69d41edd7c4d5]
+## 118. Business premises: entry without warrant[^c-dd4b389ab9fb1d3c9be69d41edd7c4d5]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd4b389ab9fb1d3c9be69d41edd7c4d5]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2025/26/section/118) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-dd4b389ab9fb1d3c9be69d41edd7c4d5]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2025/26/section/118) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

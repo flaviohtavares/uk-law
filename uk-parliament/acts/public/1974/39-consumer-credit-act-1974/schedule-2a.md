@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — MEANING OF “DEBTOR” IN RELATION TO GREEN DEAL AGREEMENTS[^key-aaba7f6048d8622377820f53f6ea6644]
+## SCHEDULE 2A — MEANING OF “DEBTOR” IN RELATION TO GREEN DEAL AGREEMENTS[^c-aaba7f6048d8622377820f53f6ea6644]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaba7f6048d8622377820f53f6ea6644]: Textual amendment: Sch. 2A inserted (E.W.S.) (28.2.2014) by [The Consumer Credit Act 1974 (Green Deal) (Amendment) Order 2014 (S.I. 2014/436)](https://www.legislation.gov.uk/uksi/2014/436), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2), [7](https://www.legislation.gov.uk/uksi/2014/436/article/7) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/436/article/1/3))
+[^c-aaba7f6048d8622377820f53f6ea6644]: Textual amendment: Sch. 2A inserted (E.W.S.) (28.2.2014) by [The Consumer Credit Act 1974 (Green Deal) (Amendment) Order 2014 (S.I. 2014/436)](https://www.legislation.gov.uk/uksi/2014/436), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2), [7](https://www.legislation.gov.uk/uksi/2014/436/article/7) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/436/article/1/3))

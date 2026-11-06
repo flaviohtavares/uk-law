@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Protective works[^key-5a4e6ebab1693d07d18d1435af980154]
+## 20. Protective works[^c-5a4e6ebab1693d07d18d1435af980154]
 
 *Extent: E+W*
 
@@ -27,14 +27,14 @@ summary: ''
 - (a) at any time before or during the carrying out in the vicinity of the land, building, structure, apparatus or equipment, of any part of the authorised development or works ancillary to it; or
 - (b) after the completion of any part of the authorised development in the vicinity of the land, building, structure, apparatus or equipment, at any time up to the end of the period of five years beginning with the day on which that part of the authorised development is first brought into operational use.
 
-(3) For the purpose of determining how the functions under this article are to be exercised, the undertaker may enter and [^key-002f9b8bae1b218772cc110dc6845abe]... survey—
+(3) For the purpose of determining how the functions under this article are to be exercised, the undertaker may enter and [^c-002f9b8bae1b218772cc110dc6845abe]... survey—
 
 - (a) any land, building, structure, apparatus or equipment, falling within paragraph (1) and any land within its curtilage; and
-- (b) where reasonably necessary, any land which is adjacent to the land, building, structure, apparatus or equipment, whether or not within the[^key-592db1691cfb7c6c83110fe8681d6e50] Order limits,
+- (b) where reasonably necessary, any land which is adjacent to the land, building, structure, apparatus or equipment, whether or not within the[^c-592db1691cfb7c6c83110fe8681d6e50] Order limits,
 
 and place on, leave on and remove from the building, structure, apparatus or equipment any apparatus and equipment for use in connection with the survey.
 
-(4) For the purpose of carrying out protective works under this article to any land, building, structure, apparatus or equipment, the undertaker may (subject to paragraphs (5) and (6))—[^key-d3519fe378dd3d41f583dbba5977fbfa]
+(4) For the purpose of carrying out protective works under this article to any land, building, structure, apparatus or equipment, the undertaker may (subject to paragraphs (5) and (6))—[^c-d3519fe378dd3d41f583dbba5977fbfa]
 
 - (a) enter the land, building or structure and any land within its curtilage; and
 - (b) where the works cannot be carried out reasonably conveniently without entering land which is adjacent to the land, building or structure but outside its curtilage, enter the adjacent land (but not any building erected on it).
@@ -72,13 +72,13 @@ the undertaker must compensate the owners and occupiers of the land, building, s
 
 ## Annotations
 
-[^key-5a4e6ebab1693d07d18d1435af980154]: Commencement: Art. 20 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-5a4e6ebab1693d07d18d1435af980154]: Commencement: Art. 20 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-002f9b8bae1b218772cc110dc6845abe]: Textual amendment: Word in [art. 20(3)](https://www.legislation.gov.uk/uksi/2024/958/article/20/3) omitted (9.4.2025) by virtue of [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-002f9b8bae1b218772cc110dc6845abe]: Textual amendment: Word in [art. 20(3)](https://www.legislation.gov.uk/uksi/2024/958/article/20/3) omitted (9.4.2025) by virtue of [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-592db1691cfb7c6c83110fe8681d6e50]: Textual amendment: Word in [art. 20(3)(b)](https://www.legislation.gov.uk/uksi/2024/958/article/20/3/b) inserted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-592db1691cfb7c6c83110fe8681d6e50]: Textual amendment: Word in [art. 20(3)(b)](https://www.legislation.gov.uk/uksi/2024/958/article/20/3/b) inserted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-d3519fe378dd3d41f583dbba5977fbfa]: Textual amendment: Words in [art. 20(4)](https://www.legislation.gov.uk/uksi/2024/958/article/20/4) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-d3519fe378dd3d41f583dbba5977fbfa]: Textual amendment: Words in [art. 20(4)](https://www.legislation.gov.uk/uksi/2024/958/article/20/4) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
 [^f00026]: Footnote: Section 152 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

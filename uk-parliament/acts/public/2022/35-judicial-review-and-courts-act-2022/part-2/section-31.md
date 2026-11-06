@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Amendments of other legislation[^key-58080bdea0181d771eee5a4538940d26][^key-b5ba71e54505ce9955a07feb7b402c89]
+## 31. Amendments of other legislation[^c-58080bdea0181d771eee5a4538940d26][^c-b5ba71e54505ce9955a07feb7b402c89]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 4 contains amendments in connection with the preceding provisions of th
 
 ## Annotations
 
-[^key-58080bdea0181d771eee5a4538940d26]: Commencement: S. 31 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-58080bdea0181d771eee5a4538940d26]: Commencement: S. 31 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-b5ba71e54505ce9955a07feb7b402c89]: Commencement: S. 31 in force at 7.9.2026 for specified purposes by [S.I. 2026/716](https://www.legislation.gov.uk/uksi/2026/716), [reg. 2](https://www.legislation.gov.uk/uksi/2026/716/regulation/2)
+[^c-b5ba71e54505ce9955a07feb7b402c89]: Commencement: S. 31 in force at 7.9.2026 for specified purposes by [S.I. 2026/716](https://www.legislation.gov.uk/uksi/2026/716), [reg. 2](https://www.legislation.gov.uk/uksi/2026/716/regulation/2)

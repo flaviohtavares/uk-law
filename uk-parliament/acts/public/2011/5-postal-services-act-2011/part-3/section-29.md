@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Duty to secure provision of universal postal service[^key-26b2733001e7a042da05e309b0ff905e][^key-5760cf3a1bdaf440c77881286f47ede7][^key-80f52294aa9289296c4ee143110c5fce]
+## 29. Duty to secure provision of universal postal service[^c-26b2733001e7a042da05e309b0ff905e][^c-5760cf3a1bdaf440c77881286f47ede7][^c-80f52294aa9289296c4ee143110c5fce]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-26b2733001e7a042da05e309b0ff905e]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2011/5/section/29) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-26b2733001e7a042da05e309b0ff905e]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2011/5/section/29) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-5760cf3a1bdaf440c77881286f47ede7]: Modification: [S. 29](https://www.legislation.gov.uk/ukpga/2011/5/section/29) excluded by 2003 c. 21, s. 371(11)(12) (as amended) (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 64(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/64/2), [(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/64/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-5760cf3a1bdaf440c77881286f47ede7]: Modification: [S. 29](https://www.legislation.gov.uk/ukpga/2011/5/section/29) excluded by 2003 c. 21, s. 371(11)(12) (as amended) (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 64(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/64/2), [(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/64/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-80f52294aa9289296c4ee143110c5fce]: Modification: [S. 29](https://www.legislation.gov.uk/ukpga/2011/5/section/29) excluded by 2003 c. 21, s. 370(11)(12) (as amended) (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 63(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/63/2), [(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/63/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-80f52294aa9289296c4ee143110c5fce]: Modification: [S. 29](https://www.legislation.gov.uk/ukpga/2011/5/section/29) excluded by 2003 c. 21, s. 370(11)(12) (as amended) (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 63(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/63/2), [(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/63/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

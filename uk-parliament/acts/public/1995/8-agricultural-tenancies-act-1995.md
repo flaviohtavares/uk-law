@@ -35,7 +35,7 @@ An Act to make further provision with respect to tenancies which include agricul
 
 \[9th May 1995\]
 
-[^c831797][^c831798][^c831799][^c831800]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-45c6fec1f7c3839878e5d6e790ae25a7]
+[^c831797][^c831798][^c831799][^c831800]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-45c6fec1f7c3839878e5d6e790ae25a7]
 
 *Extent: E+W*
 
@@ -116,48 +116,48 @@ it shall be presumed, unless the contrary is proved, that all or part of the lan
 
 #### 4. Agricultural Holdings Act 1986 not to apply in relation to new tenancies except in special cases.
 
-(1) The [^c831804]Agricultural Holdings Act 1986 (in this section referred to as “**the 1986 Act**”) shall not apply in relation to any tenancy beginning on or after 1st September 1995 (including any agreement to which section 2 of that Act would otherwise apply beginning on or after that date), except(subject to subsection (2B) below)[^key-c67c26379547856e66ade1c55310a1d8] any tenancy of an agricultural holding which—
+(1) The [^c831804]Agricultural Holdings Act 1986 (in this section referred to as “**the 1986 Act**”) shall not apply in relation to any tenancy beginning on or after 1st September 1995 (including any agreement to which section 2 of that Act would otherwise apply beginning on or after that date), except(subject to subsection (2B) below)[^c-c67c26379547856e66ade1c55310a1d8] any tenancy of an agricultural holding which—
 
 - (a) is granted by a written contract of tenancy entered into before 1st September 1995 and indicating (in whatever terms) that the 1986 Act is to apply in relation to the tenancy,
-- (b) is obtained by virtue of a direction [^key-37f457adb8c9f10f1c0bb5c1c3e35183]... under section 39 or 53 of the 1986 Act,
+- (b) is obtained by virtue of a direction [^c-37f457adb8c9f10f1c0bb5c1c3e35183]... under section 39 or 53 of the 1986 Act,
 - (c) is granted (following a direction under section 39 of that Act) in circumstances falling within section 45(6) of that Act,
 - (d) is granted on an agreed succession by a written contract of tenancy indicating (in whatever terms) that Part IV of the 1986 Act is to apply in relation to the tenancy,
-- (e) is created by the acceptance of a tenant, in accordance with the provisions as to compensation known as the “**Evesham custom**” and set out in subsections (3) to (5) of section 80 of the 1986 Act, on the terms and conditions of the previous tenancy, [^key-65acdb9215b1bcc3ea07cf38bd50c63b]...
-- (f) is granted to a person who, immediately before the grant of the tenancy, was the tenant of the holding, or of any agricultural holding which comprised the whole or a substantial part of the land comprised in the holding, under a tenancy in relation to which the 1986 Act applied , and is so granted because an agreement between the parties (not being an agreement expressed to take effect as a new tenancy between the parties) has effect as an implied surrender followed by the grant of the tenancy, or[^key-b427b93e8f9ba2d0ff20e14f0b3ca0da]
-- (g)[^key-02a7df0463a69898333bdf7018729343] is granted to a person who, immediately before the grant of the tenancy, was the tenant of the holding, or of any agricultural holding which comprised the whole or a substantial part of the land comprised in the holding, under a tenancy in relation to which the 1986 Act applied, and is so granted by a written contract of tenancy indicating (in whatever terms) that the 1986 Act is to apply in relation to the tenancy.
+- (e) is created by the acceptance of a tenant, in accordance with the provisions as to compensation known as the “**Evesham custom**” and set out in subsections (3) to (5) of section 80 of the 1986 Act, on the terms and conditions of the previous tenancy, [^c-65acdb9215b1bcc3ea07cf38bd50c63b]...
+- (f) is granted to a person who, immediately before the grant of the tenancy, was the tenant of the holding, or of any agricultural holding which comprised the whole or a substantial part of the land comprised in the holding, under a tenancy in relation to which the 1986 Act applied , and is so granted because an agreement between the parties (not being an agreement expressed to take effect as a new tenancy between the parties) has effect as an implied surrender followed by the grant of the tenancy, or[^c-b427b93e8f9ba2d0ff20e14f0b3ca0da]
+- (g)[^c-02a7df0463a69898333bdf7018729343] is granted to a person who, immediately before the grant of the tenancy, was the tenant of the holding, or of any agricultural holding which comprised the whole or a substantial part of the land comprised in the holding, under a tenancy in relation to which the 1986 Act applied, and is so granted by a written contract of tenancy indicating (in whatever terms) that the 1986 Act is to apply in relation to the tenancy.
 
 (2) For the purposes of subsection (1)(d) above, a tenancy (“**the current tenancy**”) is granted on an agreed succession if, and only if,—
 
-- (a) the previous tenancy of the holding or a related holding was a tenancy in relation to which Part IV of the 1986 Act applied, [^key-fdffcc7b82ed2c66c9298f86bc79d787]...
-- (b)[^key-3c329f3dd9d02e0f594e42c59c26f706] the current tenancy is granted to a person (alone or jointly with other persons) who, if the tenant under that previous tenancy (“the previous tenant”) had died immediately before the grant, would have been his close relative, and
+- (a) the previous tenancy of the holding or a related holding was a tenancy in relation to which Part IV of the 1986 Act applied, [^c-fdffcc7b82ed2c66c9298f86bc79d787]...
+- (b)[^c-3c329f3dd9d02e0f594e42c59c26f706] the current tenancy is granted to a person (alone or jointly with other persons) who, if the tenant under that previous tenancy (“the previous tenant”) had died immediately before the grant, would have been his close relative, and
 - (c) either of the conditions in subsection (2A) below is satisfied.
 
-(2A)[^key-f95740d69ba23993b867b39ef6d78ee0] The conditions referred to in subsection (2)(c) above are—
+(2A)[^c-f95740d69ba23993b867b39ef6d78ee0] The conditions referred to in subsection (2)(c) above are—
 
-- (a) the current tenancy is granted to a person (alone or jointly with other persons) who was or had become the sole or sole remaining applicant for a direction under section 39 or 53 of the 1986 Act[^key-1f30d5e8392e6926f3a224226031e06e] for a tenancy, and
+- (a) the current tenancy is granted to a person (alone or jointly with other persons) who was or had become the sole or sole remaining applicant for a direction under section 39 or 53 of the 1986 Act[^c-1f30d5e8392e6926f3a224226031e06e] for a tenancy, and
 - (b) the current tenancy—
   - (i) is granted as a result of an agreement between the landlord and the previous tenant, and
   - (ii) is granted, and begins, before the date of the giving of any retirement notice by the previous tenant, or if no retirement notice is given, before the date of death of the previous tenant.
 
-(2B)[^key-c9da21a0b96595eb0b155bd829fc507b] The 1986 Act shall not apply by virtue of subsection (1)(f) or (g) above in relation to the tenancy of an agricultural holding (“the current holding”) where—
+(2B)[^c-c9da21a0b96595eb0b155bd829fc507b] The 1986 Act shall not apply by virtue of subsection (1)(f) or (g) above in relation to the tenancy of an agricultural holding (“the current holding”) where—
 
 - (a) the whole or a substantial part of the land comprised in the current holding was comprised in an agricultural holding (“the previous holding”) which was subject to a tenancy granted after the commencement of this subsection in relation to which the 1986 Act applied by virtue of subsection (1)(f) or (g) above;
 - (b) the whole or a substantial part of the land comprised in the previous holding was comprised in an agricultural holding (“the original holding”) which was at the commencement of this subsection subject to a tenancy in relation to which the 1986 Act applied; and
 - (c) the land comprised in the original holding does not, on the date of the grant of the tenancy of the current holding, comprise the whole or a substantial part of the land comprised in the current holding.
 
-(2C)[^key-dfcf561e4dc1de9c2efca6d6fb37501e] The references in subsections (1)(g) and (2B) above to a substantial part of the land comprised in the holding mean a substantial part determined by reference to either area or value.
+(2C)[^c-dfcf561e4dc1de9c2efca6d6fb37501e] The references in subsections (1)(g) and (2B) above to a substantial part of the land comprised in the holding mean a substantial part determined by reference to either area or value.
 
 (3) In this section—
 
-- (a) “**agricultural holding**” and “**contract of tenancy**” have the same meaning as in the 1986 Act, [^key-47f95d0bfe9e7b9cfc4a71f89c74af26]...
-- (b) “**close relative**” and “**related holding**” have the meaning given by section 35(2) of that Act, and[^key-1fc3380ab259ae88f573b7401914a322]
+- (a) “**agricultural holding**” and “**contract of tenancy**” have the same meaning as in the 1986 Act, [^c-47f95d0bfe9e7b9cfc4a71f89c74af26]...
+- (b) “**close relative**” and “**related holding**” have the meaning given by section 35(2) of that Act, and[^c-1fc3380ab259ae88f573b7401914a322]
 - (c) “retirement notice” has the meaning given by section 49(3) of that Act.
 
 ### Termination of the tenancy
 
 #### 5. Tenancies for more than two years to continue from year to year unless terminated by notice.
 
-(1) A farm business tenancy for a term of more than two years shall, instead of terminating on the term date, continue (as from that date) as a tenancy from year to year, but otherwise on the terms of the original tenancy so far as applicable, unless at least twelve months [^key-3bc634ad684e150690841dd4b72de530]... before the term date a written notice has been given by either party to the other of his intention to terminate the tenancy.
+(1) A farm business tenancy for a term of more than two years shall, instead of terminating on the term date, continue (as from that date) as a tenancy from year to year, but otherwise on the terms of the original tenancy so far as applicable, unless at least twelve months [^c-3bc634ad684e150690841dd4b72de530]... before the term date a written notice has been given by either party to the other of his intention to terminate the tenancy.
 
 (2) In subsection (1) above “**the term date**”, in relation to a fixed term tenancy, means the date fixed for the expiry of the term.
 
@@ -171,7 +171,7 @@ it shall be presumed, unless the contrary is proved, that all or part of the lan
 
 - (a) it is in writing,
 - (b) it is to take effect at the end of a year of the tenancy, and
-- (c) it is given at least twelve months [^key-b278b9d977359814f007d9a6a2da0674]... before the date on which it is to take effect.
+- (c) it is given at least twelve months [^c-b278b9d977359814f007d9a6a2da0674]... before the date on which it is to take effect.
 
 (2) Where, by virtue of section 5(1) of this Act, a farm business tenancy for a term of more than two years is to continue (as from the term date) as a tenancy from year to year, a notice to quit which complies with subsection (1) above and which is to take effect on the first anniversary of the term date shall not be invalid merely because it is given before the term date; and in this subsection “**the term date**” has the meaning given by section 5(2) of this Act.
 
@@ -179,11 +179,11 @@ it shall be presumed, unless the contrary is proved, that all or part of the lan
 
 #### 7. Notice required for exercise of option to terminate tenancy or resume possession of part.
 
-(1) Where a farm business tenancy is a tenancy for a term of more than two years, any notice to quit the holding or part of the holding given in pursuance of any provision of the tenancy shall (notwithstanding any provision to the contrary in the tenancy) be invalid unless it is in writing and is given at least twelve months [^key-09651e0060af03ab2220d0b1db20334b]... before the date on which it is to take effect.
+(1) Where a farm business tenancy is a tenancy for a term of more than two years, any notice to quit the holding or part of the holding given in pursuance of any provision of the tenancy shall (notwithstanding any provision to the contrary in the tenancy) be invalid unless it is in writing and is given at least twelve months [^c-09651e0060af03ab2220d0b1db20334b]... before the date on which it is to take effect.
 
 (2) Subsection (1) above does not apply in relation to a counter-notice given by the tenant by virtue of subsection (2) of section 140 of the [^c831807]Law of Property Act 1925 (apportionment of conditions on severance of reversion).
 
-(3) Subsection (1) above does not apply to a tenancy which, by virtue of subsection (6) of section 149 of the [^c831808]Law of Property Act 1925 (lease for life or lives or for a term determinable with life or lives or on the marriage of , or formation of a civil partnership by,[^key-128db76737a188ae4b623c6518e2cec9] the lessee), takes effect as such a term of years as is mentioned in that subsection.
+(3) Subsection (1) above does not apply to a tenancy which, by virtue of subsection (6) of section 149 of the [^c831808]Law of Property Act 1925 (lease for life or lives or for a term determinable with life or lives or on the marriage of , or formation of a civil partnership by,[^c-128db76737a188ae4b623c6518e2cec9] the lessee), takes effect as such a term of years as is mentioned in that subsection.
 
 ### Tenant’s right to remove fixtures and buildings
 
@@ -213,7 +213,7 @@ may be removed by the tenant at any time during the continuance of the tenancy o
 
 (7) No right to remove fixtures that subsists otherwise than by virtue of this section shall be exercisable by the tenant under a farm business tenancy.
 
-#### 8A. Reference of certain requests for consent or variation to arbitration: Wales[^key-38110a6b80769e78dfa672c9e9d54f5f]
+#### 8A. Reference of certain requests for consent or variation to arbitration: Wales[^c-38110a6b80769e78dfa672c9e9d54f5f]
 
 (1) This section applies to a farm business tenancy where the land comprised in the tenancy is in Wales.
 
@@ -269,12 +269,12 @@ may be removed by the tenant at any time during the continuance of the tenancy o
 
 This Part of this Act applies in relation to a farm business tenancy (notwithstanding any agreement to the contrary) unless the tenancy is created by an instrument which—
 
-- (a) expressly states that the rent is not to be reviewed during the tenancy, [^key-951d303c13fc263f9794e587314f0587]...
+- (a) expressly states that the rent is not to be reviewed during the tenancy, [^c-951d303c13fc263f9794e587314f0587]...
 - (b) provides that the rent is to be varied, at a specified time or times during the tenancy—
   - (i) by or to a specified amount, or
   - (ii) in accordance with a specified formula which does not preclude a reduction and which does not require or permit the exercise by any person of any judgment or discretion in relation to the determination of the rent of the holding,
 
-  but otherwise is to remain fixed, or[^key-0110a9fb8a55a5e30518613e7c126f3d]
+  but otherwise is to remain fixed, or[^c-0110a9fb8a55a5e30518613e7c126f3d]
 - (c) does not contain any provision which precludes a reduction in the rent during the tenancy, and—
   - (i) expressly states that this Part of this Act does not apply, or
   - (ii) makes provision for the reference of rent reviews to an independent expert whose decision is final.
@@ -321,20 +321,20 @@ until the first occasion following the beginning of the new tenancy on which any
 
 ### 12. Appointment of arbitrator.
 
-(1)[^key-2ba8990276ff639fea017d79314833c8] Where a statutory review notice has been given in relation to a farm business tenancy, but—
+(1)[^c-2ba8990276ff639fea017d79314833c8] Where a statutory review notice has been given in relation to a farm business tenancy, but—
 
 - (a) no arbitrator has been appointed under an agreement made since the notice was given, and
 - (b) no person has been appointed under such an agreement to determine the question of the rent (otherwise than as arbitrator) on a basis agreed by the parties,
 
-either party may, at any time during the period of six months ending with the review date, apply to a professional authority for the appointment of an arbitrator by that authority[^key-ba70e32d865340334d01ad06bd2ae1f8].
+either party may, at any time during the period of six months ending with the review date, apply to a professional authority for the appointment of an arbitrator by that authority[^c-ba70e32d865340334d01ad06bd2ae1f8].
 
-(2)[^key-27f5d3720ac62475d5640c4b290d4afd] A party may not make an application to a professional authority under subsection (1) in any case if the other party has already made an application to a professional authority under that subsection in that case.
+(2)[^c-27f5d3720ac62475d5640c4b290d4afd] A party may not make an application to a professional authority under subsection (1) in any case if the other party has already made an application to a professional authority under that subsection in that case.
 
 ### 13. Amount of rent.[^c831809]
 
 (1)[^c831810] On any reference made in pursuance of a statutory review notice, the arbitrator shall determine the rent properly payable in respect of the holding at the review date and accordingly shall, with effect from that date, increase or reduce the rent previously payable or direct that it shall continue unchanged.
 
-(2)[^c831810] For the purposes of subsection (1) above, the rent properly payable in respect of a holding is the rent at which the holding might reasonably be expected to be let on the open market by a willing landlord to a willing tenant, taking into account (subject to subsections (3) and (4) below) all relevant factors, including (in every case) the terms of the tenancy (including those which are relevant for the purposes of section 10(4) to (6) of this Act, but not those which (apart from this section) preclude a reduction in the rent during the tenancy)[^key-aecf86de4d31311c6e756254274f11cb].
+(2)[^c831810] For the purposes of subsection (1) above, the rent properly payable in respect of a holding is the rent at which the holding might reasonably be expected to be let on the open market by a willing landlord to a willing tenant, taking into account (subject to subsections (3) and (4) below) all relevant factors, including (in every case) the terms of the tenancy (including those which are relevant for the purposes of section 10(4) to (6) of this Act, but not those which (apart from this section) preclude a reduction in the rent during the tenancy)[^c-aecf86de4d31311c6e756254274f11cb].
 
 (3) The arbitrator shall disregard any increase in the rental value of the holding which is due to tenant’s improvements other than—
 
@@ -427,7 +427,7 @@ the tenant may by notice in writing given to the landlord demand that the questi
 - (a) in a case falling within paragraph (a) or (c) of that subsection, after the end of the period of two months beginning with the day on which notice of the refusal or variation referred to in that paragraph was given to the tenant, or
 - (b) in a case falling within paragraph (b) of that subsection, after the end of the period of four months beginning with the day on which the written request referred to in that paragraph was given to the landlord.
 
-(4) Where the tenant has given notice under subsection (1) above but no arbitrator has been appointed under an agreement made since the notice was given, the tenant or the landlord may apply to a professional authority, subject to subsections (9) and (9A) below, for the appointment of an arbitrator by that authority[^key-5ca0a40d3dc8065f763fbe5aeb29c010].
+(4) Where the tenant has given notice under subsection (1) above but no arbitrator has been appointed under an agreement made since the notice was given, the tenant or the landlord may apply to a professional authority, subject to subsections (9) and (9A) below, for the appointment of an arbitrator by that authority[^c-5ca0a40d3dc8065f763fbe5aeb29c010].
 
 (5) The arbitrator shall consider whether, having regard to the terms of the tenancy and any other relevant circumstances (including the circumstances of the tenant and the landlord), it is reasonable for the tenant to provide the tenant’s improvement.
 
@@ -443,7 +443,7 @@ the tenant may by notice in writing given to the landlord demand that the questi
 - (b) where such an application has been made but no arbitrator has been appointed before that time, the application shall be ineffective, and
 - (c) no award may be made by virtue of subsection (6) above after that time except as to the costs of the reference and award in a case where the arbitrator was appointed before that time.
 
-(9A)[^key-0f6f93312a4dc665faa9ed7af21da271] An application may not be made to a professional authority under subsection (4) above in any case by the landlord or the tenant if the other of them has already made an application to a professional authority under that subsection in that case.
+(9A)[^c-0f6f93312a4dc665faa9ed7af21da271] An application may not be made to a professional authority under subsection (4) above in any case by the landlord or the tenant if the other of them has already made an application to a professional authority under that subsection in that case.
 
 (10) For the purposes of this section—
 
@@ -458,7 +458,7 @@ the tenant may by notice in writing given to the landlord demand that the questi
 
 #### 20. Amount of compensation for tenant’s improvement not consisting of planning permission.
 
-(1) Subject to subsection (4A) below,[^key-864fcec823483f14cafdc2f48cef6448]The amount of compensation payable to the tenant under section 16 of this Act in respect of any tenant’s improvement shall be an amount equal to the increase attributable to the improvement in the value of the holding at the termination of the tenancy as land comprised in a tenancy.
+(1) Subject to subsection (4A) below,[^c-864fcec823483f14cafdc2f48cef6448]The amount of compensation payable to the tenant under section 16 of this Act in respect of any tenant’s improvement shall be an amount equal to the increase attributable to the improvement in the value of the holding at the termination of the tenancy as land comprised in a tenancy.
 
 (2) Where the landlord and the tenant have entered into an agreement in writing whereby any benefit is given or allowed to the tenant in consideration of the provision of a tenant’s improvement, the amount of compensation otherwise payable in respect of that improvement shall be reduced by the proportion which the value of the benefit bears to the amount of the total cost of providing the improvement.
 
@@ -466,7 +466,7 @@ the tenant may by notice in writing given to the landlord demand that the questi
 
 (4) Where a physical improvement which has been completed or a change of use which has been effected is authorised by any planning permission granted on an application made by the tenant, section 18 of this Act does not prevent any value attributable to the fact that the physical improvement or change of use is so authorised from being taken into account under this section in determining the amount of compensation payable in respect of the physical improvement or in respect of any intangible advantage obtained as a result of the change of use.
 
-(4A)[^key-1b4b60cb4ce4432094984a790a7b90c4] Where the landlord and the tenant have agreed in writing, after the commencement of this subsection, to limit the amount of compensation payable under section 16 of this Act in respect of any tenant’s improvement, that amount shall be the lesser of—
+(4A)[^c-1b4b60cb4ce4432094984a790a7b90c4] Where the landlord and the tenant have agreed in writing, after the commencement of this subsection, to limit the amount of compensation payable under section 16 of this Act in respect of any tenant’s improvement, that amount shall be the lesser of—
 
 - (a) the amount determined in accordance with subsections (1) to (4) above, and
 - (b) the compensation limit.
@@ -497,16 +497,16 @@ the tenant may by notice in writing given to the landlord demand that the questi
 - (a) the landlord and the tenant have not settled the claim by agreement in writing, and
 - (b) no arbitrator has been appointed under an agreement made since the notice under subsection (2) above was given,
 
-either party may, after the end of the period of four months beginning with the date of the termination of the tenancy, apply to a professional authority for the appointment of an arbitrator by that authority[^key-1de982d57213a9bb9c8fb6e46f4b677d].
+either party may, after the end of the period of four months beginning with the date of the termination of the tenancy, apply to a professional authority for the appointment of an arbitrator by that authority[^c-1de982d57213a9bb9c8fb6e46f4b677d].
 
-(3A)[^key-ae1496473b89e9fb3d07ae3e3c36349c] A party may not make an application to a professional authority under subsection (3) above in relation to a claim if the other party has already made an application to a professional authority under that subsection in relation to that claim.
+(3A)[^c-ae1496473b89e9fb3d07ae3e3c36349c] A party may not make an application to a professional authority under subsection (3) above in relation to a claim if the other party has already made an application to a professional authority under that subsection in relation to that claim.
 
 (4) Where—
 
 - (a) an application under subsection (3) above relates wholly or partly to compensation in respect of a routine improvement (within the meaning of section 19 of this Act) which the tenant has provided or has begun to provide, and
-- (b) that application is made at the same time as an application to the same professional authority[^key-3ec07a55afa1087955d758da1143a9e3] under section 19(4) of this Act relating to the provision of that improvement,
+- (b) that application is made at the same time as an application to the same professional authority[^c-3ec07a55afa1087955d758da1143a9e3] under section 19(4) of this Act relating to the provision of that improvement,
 
-the professional authority[^key-c7e166a4587ea4df453956f0eb975d9f] shall appoint the same arbitrator on both applications and, if both applications are made by the same person, only one fee shall be payable by virtue of section 30(2) of this Act in respect of them.
+the professional authority[^c-c7e166a4587ea4df453956f0eb975d9f] shall appoint the same arbitrator on both applications and, if both applications are made by the same person, only one fee shall be payable by virtue of section 30(2) of this Act in respect of them.
 
 (5) Where a tenant lawfully remains in occupation of part of the holding after the termination of a farm business tenancy, references in subsections (2) and (3) above to the termination of the tenancy shall, in the case of a claim relating to that part of the holding, be construed as references to the termination of the occupation.
 
@@ -529,13 +529,13 @@ the professional authority[^key-c7e166a4587ea4df453956f0eb975d9f] shall appoint 
 
 the provisions of this Part of this Act shall, subject to subsections (2) and (3) below, apply to that part of the holding (in this section referred to as “**the relevant part**”) as if it were a separate holding which the tenant had quitted in consequence of a notice to quit and, in a case falling within paragraph (b) above, as if the person resuming possession were the landlord of that separate holding.
 
-(2) The amount of compensation payable to the tenant under section 16 of this Act in respect of any tenant’s improvement provided for the relevant part by the tenant and not consisting of planning permission shall, subject to section 20(2) to (4A)[^key-7c2103273a69bd3c1968602e5263e62e] of this Act, be an amount equal to the increase attributable to the tenant’s improvement in the value of the original holding on the termination date as land comprised in a tenancy.
+(2) The amount of compensation payable to the tenant under section 16 of this Act in respect of any tenant’s improvement provided for the relevant part by the tenant and not consisting of planning permission shall, subject to section 20(2) to (4A)[^c-7c2103273a69bd3c1968602e5263e62e] of this Act, be an amount equal to the increase attributable to the tenant’s improvement in the value of the original holding on the termination date as land comprised in a tenancy.
 
 (3) The amount of compensation payable to the tenant under section 16 of this Act in respect of any tenant’s improvement which consists of planning permission relating to the relevant part shall, subject to section 21(3) of this Act, be an amount equal to the increase attributable to the fact that the relevant development is authorised by the planning permission in the value of the original holding on the termination date as land comprised in a tenancy.
 
-(4) In a case falling within paragraph (a) or (b) of subsection (1) above, sections 20 and 21 of this Act shall apply(subject to subsection (4A) below)[^key-e9a0b0eaed42e5afce7cced9abea6962] on the termination of the tenancy, in relation to the land then comprised in the tenancy, as if the reference in subsection (1) of each of those sections to the holding were a reference to the original holding.
+(4) In a case falling within paragraph (a) or (b) of subsection (1) above, sections 20 and 21 of this Act shall apply(subject to subsection (4A) below)[^c-e9a0b0eaed42e5afce7cced9abea6962] on the termination of the tenancy, in relation to the land then comprised in the tenancy, as if the reference in subsection (1) of each of those sections to the holding were a reference to the original holding.
 
-(4A)[^key-a95d3aae024d67acd44153ae1e25da8e] Where—
+(4A)[^c-a95d3aae024d67acd44153ae1e25da8e] Where—
 
 - (a) the landlord and the tenant have agreed in writing, after the commencement of this subsection, to limit the amount of compensation payable under section 16 of this Act in respect of any tenant’s improvement not consisting of planning permission,
 - (b) that improvement is provided for both the relevant part and the land comprised in the tenancy after the termination date,
@@ -545,7 +545,7 @@ the provisions of this Part of this Act shall, subject to subsections (2) and (3
 
 the compensation limit referred to in section 20(4A) of this Act shall, for the purposes of determining that further compensation, be reduced by an amount equal to the amount of compensation already received by the tenant in respect of the improvement.
 
-(5) In subsections (2) to (4A)[^key-67d42584d9a7cfcaf1dbf43dd2943b0a] above—
+(5) In subsections (2) to (4A)[^c-67d42584d9a7cfcaf1dbf43dd2943b0a] above—
 
 - “**the original holding**” means the land comprised in the farm business tenancy—
   - (a) on the date when the landlord gave his consent under section 17 or 18 of this Act in relation to the tenant’s improvement, or
@@ -580,20 +580,20 @@ In this Part of this Act, unless the context otherwise requires—
 
 (1) Subject to subsections (4) and (5) below and to section 29 of this Act, any dispute between the landlord and the tenant under a farm business tenancy, being a dispute concerning their rights and obligations under this Act, under the terms of the tenancy or under any custom, shall be determined by arbitration.
 
-(2) Where such a dispute has arisen, the landlord or the tenant may give notice in writing to the other specifying the dispute and stating that, unless before the end of the period of two months beginning with the day on which the notice is given the parties have appointed an arbitrator by agreement, he proposes to apply to a professional authority for the appointment of an arbitrator by that authority[^key-6bed71aefb8d95e28868e840507ff6c4].
+(2) Where such a dispute has arisen, the landlord or the tenant may give notice in writing to the other specifying the dispute and stating that, unless before the end of the period of two months beginning with the day on which the notice is given the parties have appointed an arbitrator by agreement, he proposes to apply to a professional authority for the appointment of an arbitrator by that authority[^c-6bed71aefb8d95e28868e840507ff6c4].
 
-(3) Where a notice has been given under subsection (2) above, but no arbitrator has been appointed by agreement, either party may, after the end of the period of two months referred to in that subsection, apply to a professional authority for the appointment of an arbitrator by that authority[^key-488605946a1ead9201ebc094872121a2].
+(3) Where a notice has been given under subsection (2) above, but no arbitrator has been appointed by agreement, either party may, after the end of the period of two months referred to in that subsection, apply to a professional authority for the appointment of an arbitrator by that authority[^c-488605946a1ead9201ebc094872121a2].
 
-(3A)[^key-d4b44e87ebb897dd95f1f213f088a398] A party may not make an application to a professional authority under subsection (3) above in relation to a dispute if the other party has already made an application to a professional authority under that subsection in relation to that dispute.
+(3A)[^c-d4b44e87ebb897dd95f1f213f088a398] A party may not make an application to a professional authority under subsection (3) above in relation to a dispute if the other party has already made an application to a professional authority under that subsection in relation to that dispute.
 
 (4)[^c831818] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Subsections (1) to (3) above do not apply in relation to—
 
-- (za)[^key-7400c04bd25fc88ea298c6b96dcf90f7] a request made under section 8A(2) of this Act,
+- (za)[^c-7400c04bd25fc88ea298c6b96dcf90f7] a request made under section 8A(2) of this Act,
 - (a) the determination of rent in pursuance of a statutory review notice (as defined in section 10(1) of this Act),
-- (b) any case falling within section 19(1) of this Act, [^key-cd1f1318cd283e3fa0e5211421050ed8]...
-- (c) any claim for compensation under Part III of this Act , or[^key-1b1a1349bc580a028efcd0014e346634]
+- (b) any case falling within section 19(1) of this Act, [^c-cd1f1318cd283e3fa0e5211421050ed8]...
+- (c) any claim for compensation under Part III of this Act , or[^c-1b1a1349bc580a028efcd0014e346634]
 - (d) any dispute relating to rent review, in any case where Part II of this Act is excluded by virtue of section 9(c)(ii) of this Act.
 
 #### 29. Cases where right to refer claim to arbitration under section 28 does not apply.
@@ -613,9 +613,9 @@ In this Part of this Act, unless the context otherwise requires—
 
 (1) Any matter which is required to be determined by arbitration under this Act shall be determined by the arbitration of a sole arbitrator.
 
-(2) Any application under this Act to a professional authority[^key-f88dd8a0c29d16b6924e9a1d36c93d50] for the appointment of an arbitrator by that authority[^key-275c560c57a0180ef87a77d02ce7a38e] must be made in writing and must be accompanied by such reasonable fee as that authority[^key-8c87dfffda429f8dbf393e2929ee175d] may determine in respect of the costs of making the appointment.
+(2) Any application under this Act to a professional authority[^c-f88dd8a0c29d16b6924e9a1d36c93d50] for the appointment of an arbitrator by that authority[^c-275c560c57a0180ef87a77d02ce7a38e] must be made in writing and must be accompanied by such reasonable fee as that authority[^c-8c87dfffda429f8dbf393e2929ee175d] may determine in respect of the costs of making the appointment.
 
-(3) Where an arbitrator appointed by a professional authority[^key-370b4579893b9def20fa051d15f9bf4b] for the purposes of this Act dies or is incapable of acting and no new arbitrator has been appointed by agreement, either party may apply to that authority[^key-2f9f47557d84491d1afc3cdec9a0bbf9] for the appointment of a new arbitrator by that authority[^key-60831a9e744b7ad300948fbfcf14d3b2].
+(3) Where an arbitrator appointed by a professional authority[^c-370b4579893b9def20fa051d15f9bf4b] for the purposes of this Act dies or is incapable of acting and no new arbitrator has been appointed by agreement, either party may apply to that authority[^c-2f9f47557d84491d1afc3cdec9a0bbf9] for the appointment of a new arbitrator by that authority[^c-60831a9e744b7ad300948fbfcf14d3b2].
 
 ### Miscellaneous
 
@@ -645,7 +645,7 @@ The landlord under a farm business tenancy, whatever his estate or interest in t
 
 #### 33. Power to apply and raise capital money.
 
-(1) The purposes authorised by section 73 of the Settled Land Act 1925 [^c831823]... [^key-b33c4b4964c635855e75692cd98e9e87]... for the application of capital money shall include—
+(1) The purposes authorised by section 73 of the Settled Land Act 1925 [^c831823]... [^c-b33c4b4964c635855e75692cd98e9e87]... for the application of capital money shall include—
 
 - (a) the payment of expenses incurred by a landlord under a farm business tenancy in, or in connection with, the making of any physical improvement on the holding,
 - (b) the payment of compensation under section 16 of this Act, and
@@ -674,7 +674,7 @@ he may require the sum payable as compensation and any costs, charges and expens
 - “**a relevant instrument**” means any Act of Parliament, deed or other instrument which authorises a lease to be made on the condition that the best rent or reservation in the nature of rent is reserved;
 - “**tenant’s improvement**” has the meaning given by section 15 of this Act.
 
-#### 35. Preparation of documents etc. by valuers and surveyors.[^key-c7b0efb8e3a5111d60f838bd3c9749ea]
+#### 35. Preparation of documents etc. by valuers and surveyors.[^c-c7b0efb8e3a5111d60f838bd3c9749ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -713,7 +713,7 @@ the notice or document is duly given if it is given to that agent or servant.
 
 any notice or other document given to the original landlord by the tenant shall be deemed for the purposes of this Act to have been given to the landlord under the tenancy.
 
-#### 36A. Regulations[^key-c813e6a3fff7c5344208b2186b0d21bf]
+#### 36A. Regulations[^c-c813e6a3fff7c5344208b2186b0d21bf]
 
 (1) A power to make regulations under this Act is exercisable by statutory instrument.
 
@@ -753,7 +753,7 @@ any notice or other document given to the original landlord by the tenant shall 
 - “**holding**”, in relation to a farm business tenancy, means the aggregate of the land comprised in the tenancy;
 - “**landlord**” includes any person from time to time deriving title from the original landlord;
 - “**livestock**” includes any creature kept for the production of food, wool, skins or fur or for the purpose of its use in the farming of land;
-- “[^key-ca25186d841748dfb25afd94798a32f5]**professional authority**” has the same meaning as it has for the time being for the purposes of section 84 of the Agricultural Holdings Act 1986;
+- “[^c-ca25186d841748dfb25afd94798a32f5]**professional authority**” has the same meaning as it has for the time being for the purposes of section 84 of the Agricultural Holdings Act 1986;
 - “**tenancy**” means any tenancy other than a tenancy at will, and includes a sub-tenancy and an agreement for a tenancy or sub-tenancy;
 - “**tenant**” includes a sub-tenant and any person deriving title from the original tenant or sub-tenant;
 - “**termination**”, in relation to a tenancy, means the cesser of the tenancy by reason of effluxion of time or from any other cause.
@@ -783,10 +783,10 @@ In this Act the expressions listed below are defined by or otherwise fall to be 
 | landlord | section 38(1) and (5) |
 | livestock | section 38(1) |
 | planning permission (in Part III) | section 27 |
-| professional authority[^key-d6bfed2558a298d517361418b1786bb5] | section 38(1) |
+| professional authority[^c-d6bfed2558a298d517361418b1786bb5] | section 38(1) |
 | provision (of a tenant’s improvement) (in Part III) | section 15 |
 | the review date (in Part II) | section 10(2) |
-| [^key-29bf5e5edc0af8e165352273dac69871]. . . | [^key-29bf5e5edc0af8e165352273dac69871]. . . |
+| [^c-29bf5e5edc0af8e165352273dac69871]. . . | [^c-29bf5e5edc0af8e165352273dac69871]. . . |
 | statutory review notice (in Part II) | section 10(1) |
 | tenancy | section 38(1) |
 | tenant | section 38(1) and (5) |
@@ -1318,7 +1318,7 @@ Section 40.
 
 [^c831800]: Modification: Act applied (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 31](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/31) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)) (which Act inserted definition of “farm business tenancy” into [1985 c. 70](https://www.legislation.gov.uk/ukpga/1985/70), [s. 14(3)](https://www.legislation.gov.uk/ukpga/1985/70/section/14/3)).
 
-[^key-45c6fec1f7c3839878e5d6e790ae25a7]: Modification: Act excluded by 1983 gsm1 s. 56(2G)(c) (as inserted) (E.) (1.1.2007) by [Pastoral (Amendment) Measure 2006 (No. 2)](https://www.legislation.gov.uk/ukcm/2006/2), [ss. 1(b)](https://www.legislation.gov.uk/ukcm/2006/2/section/1/b), [2(2)](https://www.legislation.gov.uk/ukcm/2006/2/section/2/2); [2006 No. 3](https://www.legislation.gov.uk/ukci/2006/3), Instrument made by Archbishops)
+[^c-45c6fec1f7c3839878e5d6e790ae25a7]: Modification: Act excluded by 1983 gsm1 s. 56(2G)(c) (as inserted) (E.) (1.1.2007) by [Pastoral (Amendment) Measure 2006 (No. 2)](https://www.legislation.gov.uk/ukcm/2006/2), [ss. 1(b)](https://www.legislation.gov.uk/ukcm/2006/2/section/1/b), [2(2)](https://www.legislation.gov.uk/ukcm/2006/2/section/2/2); [2006 No. 3](https://www.legislation.gov.uk/ukci/2006/3), Instrument made by Archbishops)
 
 [^c831801]: Modification: S. 1 modified (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 34](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/34) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)) (which Act inserted s. 14B into [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69)).
 
@@ -1328,65 +1328,65 @@ Section 40.
 
 [^c831804]: Marginal citation: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
 
-[^key-c67c26379547856e66ade1c55310a1d8]: Textual amendment: Words in s. 4(1) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(2)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+[^c-c67c26379547856e66ade1c55310a1d8]: Textual amendment: Words in s. 4(1) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(2)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
 
-[^key-37f457adb8c9f10f1c0bb5c1c3e35183]: Textual amendment: Words in s. 4(1)(b) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 216(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/216/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-37f457adb8c9f10f1c0bb5c1c3e35183]: Textual amendment: Words in s. 4(1)(b) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 216(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/216/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-65acdb9215b1bcc3ea07cf38bd50c63b]: Textual amendment: Word in s. 4(1)(e) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+[^c-65acdb9215b1bcc3ea07cf38bd50c63b]: Textual amendment: Word in s. 4(1)(e) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
 
-[^key-b427b93e8f9ba2d0ff20e14f0b3ca0da]: Textual amendment: Words in s. 4(1)(f) substituted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(4)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/4) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+[^c-b427b93e8f9ba2d0ff20e14f0b3ca0da]: Textual amendment: Words in s. 4(1)(f) substituted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(4)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/4) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
 
-[^key-02a7df0463a69898333bdf7018729343]: Textual amendment: S. 4(1)(g) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(5)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/5) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+[^c-02a7df0463a69898333bdf7018729343]: Textual amendment: S. 4(1)(g) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(5)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/5) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
 
-[^key-fdffcc7b82ed2c66c9298f86bc79d787]: Textual amendment: Word in s. 4(2)(a) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(6)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+[^c-fdffcc7b82ed2c66c9298f86bc79d787]: Textual amendment: Word in s. 4(2)(a) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(6)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
 
-[^key-3c329f3dd9d02e0f594e42c59c26f706]: Textual amendment: S. 4(2)(b)(c) substituted for s. 4(2)(b) (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(7)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/7) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+[^c-3c329f3dd9d02e0f594e42c59c26f706]: Textual amendment: S. 4(2)(b)(c) substituted for s. 4(2)(b) (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(7)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/7) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
 
-[^key-f95740d69ba23993b867b39ef6d78ee0]: Textual amendment: S. 4(2A) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(8)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/8) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+[^c-f95740d69ba23993b867b39ef6d78ee0]: Textual amendment: S. 4(2A) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(8)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/8) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
 
-[^key-1f30d5e8392e6926f3a224226031e06e]: Textual amendment: Words in s. 4(2A)(a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 216(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/216/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-1f30d5e8392e6926f3a224226031e06e]: Textual amendment: Words in s. 4(2A)(a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 216(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/216/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-c9da21a0b96595eb0b155bd829fc507b]: Textual amendment: S. 4(2B) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(9)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/9) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+[^c-c9da21a0b96595eb0b155bd829fc507b]: Textual amendment: S. 4(2B) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(9)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/9) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
 
-[^key-dfcf561e4dc1de9c2efca6d6fb37501e]: Textual amendment: S. 4(2C) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(10)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/10) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+[^c-dfcf561e4dc1de9c2efca6d6fb37501e]: Textual amendment: S. 4(2C) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(10)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/10) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
 
-[^key-47f95d0bfe9e7b9cfc4a71f89c74af26]: Textual amendment: Word in s. 4(3)(a) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(11)(a)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/11/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+[^c-47f95d0bfe9e7b9cfc4a71f89c74af26]: Textual amendment: Word in s. 4(3)(a) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(11)(a)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/11/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
 
-[^key-1fc3380ab259ae88f573b7401914a322]: Textual amendment: S. 4(3)(c) and word inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(11)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/11/b) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+[^c-1fc3380ab259ae88f573b7401914a322]: Textual amendment: S. 4(3)(c) and word inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(11)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/11/b) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
 
-[^key-3bc634ad684e150690841dd4b72de530]: Textual amendment: Words in s. 5(1) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [13](https://www.legislation.gov.uk/uksi/2006/2805/article/13) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+[^c-3bc634ad684e150690841dd4b72de530]: Textual amendment: Words in s. 5(1) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [13](https://www.legislation.gov.uk/uksi/2006/2805/article/13) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
 
 [^c831805]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-b278b9d977359814f007d9a6a2da0674]: Textual amendment: Words in s. 6(1)(c) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [13](https://www.legislation.gov.uk/uksi/2006/2805/article/13) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+[^c-b278b9d977359814f007d9a6a2da0674]: Textual amendment: Words in s. 6(1)(c) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [13](https://www.legislation.gov.uk/uksi/2006/2805/article/13) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
 
 [^c831806]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-09651e0060af03ab2220d0b1db20334b]: Textual amendment: Words in s. 7(1) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [13](https://www.legislation.gov.uk/uksi/2006/2805/article/13) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+[^c-09651e0060af03ab2220d0b1db20334b]: Textual amendment: Words in s. 7(1) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [13](https://www.legislation.gov.uk/uksi/2006/2805/article/13) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
 
 [^c831807]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
 [^c831808]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-128db76737a188ae4b623c6518e2cec9]: Textual amendment: Words in s. 7(3) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 49](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/49); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-128db76737a188ae4b623c6518e2cec9]: Textual amendment: Words in s. 7(3) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 49](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/49); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-38110a6b80769e78dfa672c9e9d54f5f]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1995/8/section/8A) inserted (15.7.2024) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 24(4)](https://www.legislation.gov.uk/asc/2023/4/section/24/4), [56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4); [S.I. 2024/789](https://www.legislation.gov.uk/wsi/2024/789), [art. 2](https://www.legislation.gov.uk/wsi/2024/789/article/2)
+[^c-38110a6b80769e78dfa672c9e9d54f5f]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1995/8/section/8A) inserted (15.7.2024) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 24(4)](https://www.legislation.gov.uk/asc/2023/4/section/24/4), [56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4); [S.I. 2024/789](https://www.legislation.gov.uk/wsi/2024/789), [art. 2](https://www.legislation.gov.uk/wsi/2024/789/article/2)
 
-[^key-951d303c13fc263f9794e587314f0587]: Textual amendment: Word in s. 9(a) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [14(1)(a)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/1/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [14(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/3))
+[^c-951d303c13fc263f9794e587314f0587]: Textual amendment: Word in s. 9(a) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [14(1)(a)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/1/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [14(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/3))
 
-[^key-0110a9fb8a55a5e30518613e7c126f3d]: Textual amendment: S. 9(c) and word inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [14(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/1/b) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [14(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/3))
+[^c-0110a9fb8a55a5e30518613e7c126f3d]: Textual amendment: S. 9(c) and word inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [14(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/1/b) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [14(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/3))
 
-[^key-2ba8990276ff639fea017d79314833c8]: Textual amendment: S. 12 renumbered as s. 12(1) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b/c/6), [Sch. 3 para. 23(2)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/23/2)
+[^c-2ba8990276ff639fea017d79314833c8]: Textual amendment: S. 12 renumbered as s. 12(1) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b/c/6), [Sch. 3 para. 23(2)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/23/2)
 
-[^key-ba70e32d865340334d01ad06bd2ae1f8]: Textual amendment: Words in s. 12(1) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 23(3)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/23/3)
+[^c-ba70e32d865340334d01ad06bd2ae1f8]: Textual amendment: Words in s. 12(1) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 23(3)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/23/3)
 
-[^key-27f5d3720ac62475d5640c4b290d4afd]: Textual amendment: S. 12(2) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 23(4)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/23/4)
+[^c-27f5d3720ac62475d5640c4b290d4afd]: Textual amendment: S. 12(2) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 23(4)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/23/4)
 
 [^c831809]: Modification: S. 13 modified (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 20(5)](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/20/5) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)) (which Act inserted Sch. 7 para. 3A into [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69)).
 
 [^c831810]: Modification: S. 13(1)(2) modified (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 14](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/14) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)) (which Act inserted s. 14B into [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69)).
 
-[^key-aecf86de4d31311c6e756254274f11cb]: Textual amendment: Words in s. 13(2) substituted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [15](https://www.legislation.gov.uk/uksi/2006/2805/article/15) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+[^c-aecf86de4d31311c6e756254274f11cb]: Textual amendment: Words in s. 13(2) substituted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [15](https://www.legislation.gov.uk/uksi/2006/2805/article/15) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
 
 [^c831812]: Modification: Pt. III (ss. 15-27) modified (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 16](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/16) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)) (which Act inserted s. 25A into [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69)).
 
@@ -1396,61 +1396,61 @@ Section 40.
 
 [^c831813]: Marginal citation: [1986 c. 49](https://www.legislation.gov.uk/ukpga/1986/49).
 
-[^key-5ca0a40d3dc8065f763fbe5aeb29c010]: Textual amendment: Words in s. 19(4) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/24/2)
+[^c-5ca0a40d3dc8065f763fbe5aeb29c010]: Textual amendment: Words in s. 19(4) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/24/2)
 
-[^key-0f6f93312a4dc665faa9ed7af21da271]: Textual amendment: S. 19(9A) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 24(3)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/24/3)
+[^c-0f6f93312a4dc665faa9ed7af21da271]: Textual amendment: S. 19(9A) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 24(3)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/24/3)
 
-[^key-864fcec823483f14cafdc2f48cef6448]: Textual amendment: Words in s. 20(1) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [16(1)](https://www.legislation.gov.uk/uksi/2006/2805/article/16/1) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+[^c-864fcec823483f14cafdc2f48cef6448]: Textual amendment: Words in s. 20(1) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [16(1)](https://www.legislation.gov.uk/uksi/2006/2805/article/16/1) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
 
-[^key-1b4b60cb4ce4432094984a790a7b90c4]: Textual amendment: S. 20(4A)(4B) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [16(2)](https://www.legislation.gov.uk/uksi/2006/2805/article/16/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+[^c-1b4b60cb4ce4432094984a790a7b90c4]: Textual amendment: S. 20(4A)(4B) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [16(2)](https://www.legislation.gov.uk/uksi/2006/2805/article/16/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
 
 [^c831814]: Modification: S. 22 restricted (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2) Sch. para. 16 (with s. 37) (which Act inserted s. 25A into [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69)).
 
-[^key-1de982d57213a9bb9c8fb6e46f4b677d]: Textual amendment: Words in s. 22(3) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/25/2)
+[^c-1de982d57213a9bb9c8fb6e46f4b677d]: Textual amendment: Words in s. 22(3) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/25/2)
 
-[^key-ae1496473b89e9fb3d07ae3e3c36349c]: Textual amendment: S. 22(3A) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 25(3)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/25/3)
+[^c-ae1496473b89e9fb3d07ae3e3c36349c]: Textual amendment: S. 22(3A) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 25(3)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/25/3)
 
-[^key-3ec07a55afa1087955d758da1143a9e3]: Textual amendment: Words in s. 22(4)(b) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 25(4)(a)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/25/4/a)
+[^c-3ec07a55afa1087955d758da1143a9e3]: Textual amendment: Words in s. 22(4)(b) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 25(4)(a)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/25/4/a)
 
-[^key-c7e166a4587ea4df453956f0eb975d9f]: Textual amendment: Words in s. 22(4) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 25(4)(b)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/25/4/b)
+[^c-c7e166a4587ea4df453956f0eb975d9f]: Textual amendment: Words in s. 22(4) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 25(4)(b)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/25/4/b)
 
 [^c831815]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-7c2103273a69bd3c1968602e5263e62e]: Textual amendment: Word in s. 24(2) substituted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [17(1)](https://www.legislation.gov.uk/uksi/2006/2805/article/17/1) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+[^c-7c2103273a69bd3c1968602e5263e62e]: Textual amendment: Word in s. 24(2) substituted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [17(1)](https://www.legislation.gov.uk/uksi/2006/2805/article/17/1) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
 
-[^key-e9a0b0eaed42e5afce7cced9abea6962]: Textual amendment: Words in s. 24(4) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [17(2)](https://www.legislation.gov.uk/uksi/2006/2805/article/17/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+[^c-e9a0b0eaed42e5afce7cced9abea6962]: Textual amendment: Words in s. 24(4) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [17(2)](https://www.legislation.gov.uk/uksi/2006/2805/article/17/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
 
-[^key-a95d3aae024d67acd44153ae1e25da8e]: Textual amendment: S. 24(4A) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [17(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/17/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+[^c-a95d3aae024d67acd44153ae1e25da8e]: Textual amendment: S. 24(4A) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [17(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/17/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
 
-[^key-67d42584d9a7cfcaf1dbf43dd2943b0a]: Textual amendment: Word in s. 24(5) substituted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [17(4)](https://www.legislation.gov.uk/uksi/2006/2805/article/17/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+[^c-67d42584d9a7cfcaf1dbf43dd2943b0a]: Textual amendment: Word in s. 24(5) substituted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [17(4)](https://www.legislation.gov.uk/uksi/2006/2805/article/17/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
 
 [^c831816]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-6bed71aefb8d95e28868e840507ff6c4]: Textual amendment: Words in s. 28(2) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 26(2)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/26/2)
+[^c-6bed71aefb8d95e28868e840507ff6c4]: Textual amendment: Words in s. 28(2) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 26(2)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/26/2)
 
-[^key-488605946a1ead9201ebc094872121a2]: Textual amendment: Words in s. 28(3) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 26(3)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/26/3)
+[^c-488605946a1ead9201ebc094872121a2]: Textual amendment: Words in s. 28(3) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 26(3)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/26/3)
 
-[^key-d4b44e87ebb897dd95f1f213f088a398]: Textual amendment: S. 28(3A) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 26(4)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/26/4)
+[^c-d4b44e87ebb897dd95f1f213f088a398]: Textual amendment: S. 28(3A) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 26(4)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/26/4)
 
 [^c831818]: Textual amendment: S. 28(4) repealed (31.1.1997) by [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23), [s. 107(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/107/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/23/schedule/4) (with [s. 81(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/81/2)); [S.I. 1996/3146](https://www.legislation.gov.uk/uksi/1996/3146), [art. 3](https://www.legislation.gov.uk/uksi/1996/3146/article/3).
 
-[^key-7400c04bd25fc88ea298c6b96dcf90f7]: Textual amendment: [S. 28(5)(za)](https://www.legislation.gov.uk/ukpga/1995/8/section/28/5/za) inserted (15.7.2024) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 24(5)](https://www.legislation.gov.uk/asc/2023/4/section/24/5), [56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4); [S.I. 2024/789](https://www.legislation.gov.uk/wsi/2024/789), [art. 2](https://www.legislation.gov.uk/wsi/2024/789/article/2)
+[^c-7400c04bd25fc88ea298c6b96dcf90f7]: Textual amendment: [S. 28(5)(za)](https://www.legislation.gov.uk/ukpga/1995/8/section/28/5/za) inserted (15.7.2024) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 24(5)](https://www.legislation.gov.uk/asc/2023/4/section/24/5), [56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4); [S.I. 2024/789](https://www.legislation.gov.uk/wsi/2024/789), [art. 2](https://www.legislation.gov.uk/wsi/2024/789/article/2)
 
-[^key-cd1f1318cd283e3fa0e5211421050ed8]: Textual amendment: Word in s. 28(5)(b) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [14(2)(a)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/2/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [14(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/3))
+[^c-cd1f1318cd283e3fa0e5211421050ed8]: Textual amendment: Word in s. 28(5)(b) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [14(2)(a)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/2/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [14(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/3))
 
-[^key-1b1a1349bc580a028efcd0014e346634]: Textual amendment: S. 28(5)(d) and word inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [14(2)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/2/b) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [14(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/3))
+[^c-1b1a1349bc580a028efcd0014e346634]: Textual amendment: S. 28(5)(d) and word inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [14(2)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/2/b) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [14(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/3))
 
-[^key-f88dd8a0c29d16b6924e9a1d36c93d50]: Textual amendment: Words in s. 30(2) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/2/a)
+[^c-f88dd8a0c29d16b6924e9a1d36c93d50]: Textual amendment: Words in s. 30(2) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/2/a)
 
-[^key-275c560c57a0180ef87a77d02ce7a38e]: Textual amendment: Words in s. 30(2) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/2/b)
+[^c-275c560c57a0180ef87a77d02ce7a38e]: Textual amendment: Words in s. 30(2) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/2/b)
 
-[^key-8c87dfffda429f8dbf393e2929ee175d]: Textual amendment: Words in s. 30(2) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(2)(c)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/2/c)
+[^c-8c87dfffda429f8dbf393e2929ee175d]: Textual amendment: Words in s. 30(2) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(2)(c)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/2/c)
 
-[^key-370b4579893b9def20fa051d15f9bf4b]: Textual amendment: Words in s. 30(3) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/3/a)
+[^c-370b4579893b9def20fa051d15f9bf4b]: Textual amendment: Words in s. 30(3) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/3/a)
 
-[^key-2f9f47557d84491d1afc3cdec9a0bbf9]: Textual amendment: Words in s. 30(3) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(3)(b)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/3/b)
+[^c-2f9f47557d84491d1afc3cdec9a0bbf9]: Textual amendment: Words in s. 30(3) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(3)(b)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/3/b)
 
-[^key-60831a9e744b7ad300948fbfcf14d3b2]: Textual amendment: Words in s. 30(3) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(3)(c)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/3/c)
+[^c-60831a9e744b7ad300948fbfcf14d3b2]: Textual amendment: Words in s. 30(3) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(3)(c)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/3/c)
 
 [^c831819]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
@@ -1458,13 +1458,13 @@ Section 40.
 
 [^c831823]: Textual amendment: Words in s. 33(1)(2) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2).
 
-[^key-b33c4b4964c635855e75692cd98e9e87]: Textual amendment: Words in s. 33(1) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/19); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-b33c4b4964c635855e75692cd98e9e87]: Textual amendment: Words in s. 33(1) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/19); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
 [^c831826]: Textual amendment: Definition of “settled land” and the word preceding it in s. 33(4) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2).
 
-[^key-c7b0efb8e3a5111d60f838bd3c9749ea]: Textual amendment: S. 35 repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(ix)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/ix)
+[^c-c7b0efb8e3a5111d60f838bd3c9749ea]: Textual amendment: S. 35 repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(ix)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/ix)
 
-[^key-c813e6a3fff7c5344208b2186b0d21bf]: Textual amendment: [S. 36A](https://www.legislation.gov.uk/ukpga/1995/8/section/36A) inserted (15.7.2024) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 24(6)](https://www.legislation.gov.uk/asc/2023/4/section/24/6), [56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4); [S.I. 2024/789](https://www.legislation.gov.uk/wsi/2024/789), [art. 2](https://www.legislation.gov.uk/wsi/2024/789/article/2)
+[^c-c813e6a3fff7c5344208b2186b0d21bf]: Textual amendment: [S. 36A](https://www.legislation.gov.uk/ukpga/1995/8/section/36A) inserted (15.7.2024) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 24(6)](https://www.legislation.gov.uk/asc/2023/4/section/24/6), [56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4); [S.I. 2024/789](https://www.legislation.gov.uk/wsi/2024/789), [art. 2](https://www.legislation.gov.uk/wsi/2024/789/article/2)
 
 [^c831829]: Marginal citation: [1817 c. 97](https://www.legislation.gov.uk/ukpga/1817/97).
 
@@ -1472,10 +1472,10 @@ Section 40.
 
 [^c831831]: Marginal citation: [1982 c. 47](https://www.legislation.gov.uk/ukpga/1982/47).
 
-[^key-ca25186d841748dfb25afd94798a32f5]: Textual amendment: Words in s. 38(1) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/28)
+[^c-ca25186d841748dfb25afd94798a32f5]: Textual amendment: Words in s. 38(1) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/28)
 
-[^key-d6bfed2558a298d517361418b1786bb5]: Textual amendment: Words in s. 39 inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 29(a)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/29/a)
+[^c-d6bfed2558a298d517361418b1786bb5]: Textual amendment: Words in s. 39 inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 29(a)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/29/a)
 
-[^key-29bf5e5edc0af8e165352273dac69871]: Textual amendment: Words in s. 39 omitted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by virtue of [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 29(b)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/29/b)
+[^c-29bf5e5edc0af8e165352273dac69871]: Textual amendment: Words in s. 39 omitted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by virtue of [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 29(b)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/29/b)
 
 [^c831832]: Textual amendment: [Sch. para. 33](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/33) repealed (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [Sch. 19 Pt. IX](https://www.legislation.gov.uk/ukpga/1996/52/schedule/19/part/IX); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3)

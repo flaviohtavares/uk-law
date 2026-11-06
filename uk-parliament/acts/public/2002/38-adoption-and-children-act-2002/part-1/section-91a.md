@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91A. Power to charge[^key-7e808b679a35771dcdecf28f5137be8e]
+## 91A. Power to charge[^c-7e808b679a35771dcdecf28f5137be8e]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e808b679a35771dcdecf28f5137be8e]: Textual amendment: S. 91A inserted (2.4.2007 for W. for specified purposes, 28.10.2010 so far as not already in force) by [Children and Adoption Act 2006 (c. 20)](https://www.legislation.gov.uk/ukpga/2006/20), [ss. 13](https://www.legislation.gov.uk/ukpga/2006/20/section/13), [17(2)](https://www.legislation.gov.uk/ukpga/2006/20/section/17/2); [S.I. 2007/733](https://www.legislation.gov.uk/uksi/2007/733), [art. 2](https://www.legislation.gov.uk/uksi/2007/733/article/2); [S.I. 2010/2612](https://www.legislation.gov.uk/uksi/2010/2612), [art. 2](https://www.legislation.gov.uk/uksi/2010/2612/article/2)
+[^c-7e808b679a35771dcdecf28f5137be8e]: Textual amendment: S. 91A inserted (2.4.2007 for W. for specified purposes, 28.10.2010 so far as not already in force) by [Children and Adoption Act 2006 (c. 20)](https://www.legislation.gov.uk/ukpga/2006/20), [ss. 13](https://www.legislation.gov.uk/ukpga/2006/20/section/13), [17(2)](https://www.legislation.gov.uk/ukpga/2006/20/section/17/2); [S.I. 2007/733](https://www.legislation.gov.uk/uksi/2007/733), [art. 2](https://www.legislation.gov.uk/uksi/2007/733/article/2); [S.I. 2010/2612](https://www.legislation.gov.uk/uksi/2010/2612), [art. 2](https://www.legislation.gov.uk/uksi/2010/2612/article/2)

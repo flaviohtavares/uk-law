@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Transitional or saving provision[^key-a7b7c22c4ef0ca46ee597648b7babcf0]
+## 148. Transitional or saving provision[^c-a7b7c22c4ef0ca46ee597648b7babcf0]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7b7c22c4ef0ca46ee597648b7babcf0]: Commencement: S. 148 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
+[^c-a7b7c22c4ef0ca46ee597648b7babcf0]: Commencement: S. 148 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)

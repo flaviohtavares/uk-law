@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31A. Two-thirds majority for Bills relating to a protected subject-matter[^key-82c2dac79b8460929ce019426862d75f]
+## 31A. Two-thirds majority for Bills relating to a protected subject-matter[^c-82c2dac79b8460929ce019426862d75f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If the Presiding Officer states under section 31(2A) that in his view any provis
 
 ## Annotations
 
-[^key-82c2dac79b8460929ce019426862d75f]: Textual amendment: S. 31A inserted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 11(6)](https://www.legislation.gov.uk/ukpga/2016/11/section/11/6), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/i)
+[^c-82c2dac79b8460929ce019426862d75f]: Textual amendment: S. 31A inserted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 11(6)](https://www.legislation.gov.uk/ukpga/2016/11/section/11/6), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 352. Removal of social landlord from register[^key-a2e74092e9ed2e4b86448b34c55af1d3]
+## 352. Removal of social landlord from register[^c-a2e74092e9ed2e4b86448b34c55af1d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 4(6) of the Housing Act 1996 (notification of removal of society from
 
 ## Annotations
 
-[^key-a2e74092e9ed2e4b86448b34c55af1d3]: Commencement: Art. 352 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a2e74092e9ed2e4b86448b34c55af1d3]: Commencement: Art. 352 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

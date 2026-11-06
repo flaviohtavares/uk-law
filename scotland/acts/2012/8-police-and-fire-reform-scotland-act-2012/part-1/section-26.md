@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Police staff[^key-13b219786df6a7f17ff24aae367dcf29]
+## 26. Police staff[^c-13b219786df6a7f17ff24aae367dcf29]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13b219786df6a7f17ff24aae367dcf29]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2012/8/section/26) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-13b219786df6a7f17ff24aae367dcf29]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2012/8/section/26) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

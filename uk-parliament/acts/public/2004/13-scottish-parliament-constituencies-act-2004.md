@@ -40,9 +40,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (1) For Schedule 1 to the Scotland Act 1998 (c. 46) (which makes provision about constituencies, regions and regional members of the Scottish Parliament) there is substituted the Schedule set out in Schedule 1 below.
 
-(2)[^key-5250b33dda654c18898c63f23bc2f7cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5250b33dda654c18898c63f23bc2f7cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-5250b33dda654c18898c63f23bc2f7cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5250b33dda654c18898c63f23bc2f7cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) But paragraphs 3 to 14 of Schedule 1 to the Scotland Act 1998 as so substituted or as so substituted and modified (as the case may be) have no effect until 30 June 2007.
 
@@ -285,29 +285,29 @@ Section 1
 >
 > (4) Sub-paragraphs (2) and (3) also apply for the purpose of construing references to the regional electorate in relation to a report of the Boundary Committee made for the purposes of a report as mentioned in sub-paragraph (2).
 
-## SCHEDULE 2 — Transitional modifications of Schedule 1 to the Scotland Act 1998[^key-d1d8dded5d0290949b14a1c4f26c10b4]
+## SCHEDULE 2 — Transitional modifications of Schedule 1 to the Scotland Act 1998[^c-d1d8dded5d0290949b14a1c4f26c10b4]
 
 Section 1
 
-### Electoral Commission and Boundary Committee for Scotland[^key-d1d8dded5d0290949b14a1c4f26c10b4]
+### Electoral Commission and Boundary Committee for Scotland[^c-d1d8dded5d0290949b14a1c4f26c10b4]
 
 **No longer in force.**
 
-**1.**[^key-d1d8dded5d0290949b14a1c4f26c10b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d1d8dded5d0290949b14a1c4f26c10b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Review and proposed recommendations by Boundary Committee for Scotland[^key-d1d8dded5d0290949b14a1c4f26c10b4]
-
-**No longer in force.**
-
-**2.**[^key-d1d8dded5d0290949b14a1c4f26c10b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Notice of proposed report or recommendation[^key-d1d8dded5d0290949b14a1c4f26c10b4]
+### Review and proposed recommendations by Boundary Committee for Scotland[^c-d1d8dded5d0290949b14a1c4f26c10b4]
 
 **No longer in force.**
 
-**3.**[^key-d1d8dded5d0290949b14a1c4f26c10b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d1d8dded5d0290949b14a1c4f26c10b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d1d8dded5d0290949b14a1c4f26c10b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Notice of proposed report or recommendation[^c-d1d8dded5d0290949b14a1c4f26c10b4]
+
+**No longer in force.**
+
+**3.**[^c-d1d8dded5d0290949b14a1c4f26c10b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-d1d8dded5d0290949b14a1c4f26c10b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — Current Boundary Commission reviews
 
@@ -333,6 +333,6 @@ Section 3
 
 ## Annotations
 
-[^key-5250b33dda654c18898c63f23bc2f7cd]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukpga/2004/13/section/1/2)[(3)](https://www.legislation.gov.uk/ukpga/2004/13/section/1/3) omitted (31.10.2012) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2012/11/section/8/1), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/a)
+[^c-5250b33dda654c18898c63f23bc2f7cd]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukpga/2004/13/section/1/2)[(3)](https://www.legislation.gov.uk/ukpga/2004/13/section/1/3) omitted (31.10.2012) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2012/11/section/8/1), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/a)
 
-[^key-d1d8dded5d0290949b14a1c4f26c10b4]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/13/schedule/2) omitted (31.10.2012) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2012/11/section/8/1), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/a)
+[^c-d1d8dded5d0290949b14a1c4f26c10b4]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/13/schedule/2) omitted (31.10.2012) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2012/11/section/8/1), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/a)

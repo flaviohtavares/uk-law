@@ -46,7 +46,7 @@ on OTC derivatives, central counterparties and trade repositories
 
 (Text with EEA relevance)
 
-[^key-29c738c0aaf6f10842cd77370543d482]
+[^c-29c738c0aaf6f10842cd77370543d482]
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -517,7 +517,7 @@ HAVE ADOPTED THIS REGULATION:
 
 - [Section Article 22 — Competent authority](section-article-22.md)
 
-#### CHAPTER 3 — Cooperation[^key-afa970c22b7eab12acb0daac9561d9bc]
+#### CHAPTER 3 — Cooperation[^c-afa970c22b7eab12acb0daac9561d9bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -527,7 +527,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 23a — Supervisory cooperation between competent authorities and ESMA with regards to authorised CCPs](section-article-23a.md)
 - [Section Article 24 — Emergency situations](section-article-24.md)
 
-#### CHAPTER 3A — CCP Supervisory Committee[^key-4d6448a3554f8e12de91a0abfdf357da]
+#### CHAPTER 3A — CCP Supervisory Committee[^c-4d6448a3554f8e12de91a0abfdf357da]
 
 *Extent: E+W+S+N.I.*
 
@@ -708,7 +708,7 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 ## Annotations
 
-[^key-29c738c0aaf6f10842cd77370543d482]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-29c738c0aaf6f10842cd77370543d482]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ C 57, 23.2.2011, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2011.057.01.0001.01.ENG).
 
@@ -758,9 +758,9 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^f00024]: Footnote: [OJ L 55, 28.2.2011, p. 13](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.055.01.0013.01.ENG).
 
-[^key-afa970c22b7eab12acb0daac9561d9bc]: Textual amendment: [Title 3 Ch. 3](https://www.legislation.gov.uk/eur/2012/648/chapter/3) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2019/335/regulation/34) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-afa970c22b7eab12acb0daac9561d9bc]: Textual amendment: [Title 3 Ch. 3](https://www.legislation.gov.uk/eur/2012/648/chapter/3) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2019/335/regulation/34) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4d6448a3554f8e12de91a0abfdf357da]: Textual amendment: Title 3 Ch. 3A omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/3), [19](https://www.legislation.gov.uk/uksi/2020/646/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) as amended by [S.I. 2020/646](https://www.legislation.gov.uk/uksi/2020/646), [reg. 12](https://www.legislation.gov.uk/uksi/2020/646/regulation/12))
+[^c-4d6448a3554f8e12de91a0abfdf357da]: Textual amendment: Title 3 Ch. 3A omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/3), [19](https://www.legislation.gov.uk/uksi/2020/646/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) as amended by [S.I. 2020/646](https://www.legislation.gov.uk/uksi/2020/646), [reg. 12](https://www.legislation.gov.uk/uksi/2020/646/regulation/12))
 
 [^c000018]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 

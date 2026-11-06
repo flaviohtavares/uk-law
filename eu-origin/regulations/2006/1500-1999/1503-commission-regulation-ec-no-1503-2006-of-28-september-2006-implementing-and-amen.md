@@ -35,50 +35,50 @@ of 28 September 2006
 
 implementing and amending Council Regulation (EC) No 1165/98 concerning short-term statistics as regards definitions of variables, list of variables and frequency of data compilation (revoked)
 
-[^key-3c24f4d7d5484fc4c97173e12c69dcd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c24f4d7d5484fc4c97173e12c69dcd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Definitions of variables[^key-3c24f4d7d5484fc4c97173e12c69dcd2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Regulation (EC) No 1165/98[^key-3c24f4d7d5484fc4c97173e12c69dcd2]
+## Article 1. Definitions of variables[^c-3c24f4d7d5484fc4c97173e12c69dcd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Repeal[^key-3c24f4d7d5484fc4c97173e12c69dcd2]
+## Article 2. Amendments to Regulation (EC) No 1165/98[^c-3c24f4d7d5484fc4c97173e12c69dcd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-3c24f4d7d5484fc4c97173e12c69dcd2]
+## Article 3. Repeal[^c-3c24f4d7d5484fc4c97173e12c69dcd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c24f4d7d5484fc4c97173e12c69dcd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I — DEFINITION OF OBJECTIVES AND CHARACTERISTICS OF VARIABLES[^key-3c24f4d7d5484fc4c97173e12c69dcd2]
+## Article 4. Entry into force[^c-3c24f4d7d5484fc4c97173e12c69dcd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Amendments to Regulation (EC) No 1165/98[^key-3c24f4d7d5484fc4c97173e12c69dcd2]
+[^c-3c24f4d7d5484fc4c97173e12c69dcd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — DEFINITION OF OBJECTIVES AND CHARACTERISTICS OF VARIABLES[^c-3c24f4d7d5484fc4c97173e12c69dcd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c24f4d7d5484fc4c97173e12c69dcd2]List of variables
+## ANNEX II — Amendments to Regulation (EC) No 1165/98[^c-3c24f4d7d5484fc4c97173e12c69dcd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c24f4d7d5484fc4c97173e12c69dcd2]Reference period
+[^c-3c24f4d7d5484fc4c97173e12c69dcd2]List of variables
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c24f4d7d5484fc4c97173e12c69dcd2]Level of detail
+[^c-3c24f4d7d5484fc4c97173e12c69dcd2]Reference period
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c24f4d7d5484fc4c97173e12c69dcd2]Deadlines for data transmission
+[^c-3c24f4d7d5484fc4c97173e12c69dcd2]Level of detail
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3c24f4d7d5484fc4c97173e12c69dcd2]Deadlines for data transmission
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3c24f4d7d5484fc4c97173e12c69dcd2]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 91](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/91); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c24f4d7d5484fc4c97173e12c69dcd2]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 91](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/91); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

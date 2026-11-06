@@ -33,14 +33,14 @@ of 6 March 2017
 
 confirming the participation of the United Kingdom of Great Britain and Northern Ireland in Regulation (EU) 2016/794 of the European Parliament and of the Council on the European Union Agency for Law Enforcement Cooperation (Europol) (revoked)
 
-[^key-bad6a428f13fcb25b4a2fe09690354b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bad6a428f13fcb25b4a2fe09690354b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-bad6a428f13fcb25b4a2fe09690354b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-bad6a428f13fcb25b4a2fe09690354b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-bad6a428f13fcb25b4a2fe09690354b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-bad6a428f13fcb25b4a2fe09690354b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bad6a428f13fcb25b4a2fe09690354b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bad6a428f13fcb25b4a2fe09690354b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bad6a428f13fcb25b4a2fe09690354b1]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [39](https://www.legislation.gov.uk/uksi/2019/742/regulation/39); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bad6a428f13fcb25b4a2fe09690354b1]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [39](https://www.legislation.gov.uk/uksi/2019/742/regulation/39); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

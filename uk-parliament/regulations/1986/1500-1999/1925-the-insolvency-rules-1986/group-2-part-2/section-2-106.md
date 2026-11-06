@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.106. Fixing of remuneration[^key-3cd429780944af0d9d340d0898769129]
+## 2.106. Fixing of remuneration[^c-3cd429780944af0d9d340d0898769129]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (5) If there is no creditors' committee, or the committee does not make the requisite determination, the administrator’s remuneration may be fixed (in accordance with paragraph (2)) by a resolution of a meeting of creditors; and paragraph (4) applies to them as it does to the creditors' committee.
 
-(5A)[^key-f884fbde771ed5a1ee28cb5a2748c216] In a case where the administrator has made a statement under paragraph 52(1)(b), if there is no creditors' committee, or the committee does not make the requisite determination, the administrator’s remuneration may be fixed (in accordance with paragraph (2)) by the approval of—
+(5A)[^c-f884fbde771ed5a1ee28cb5a2748c216] In a case where the administrator has made a statement under paragraph 52(1)(b), if there is no creditors' committee, or the committee does not make the requisite determination, the administrator’s remuneration may be fixed (in accordance with paragraph (2)) by the approval of—
 
 - (a) each secured creditor of the company: or
 - (b) if the administrator has made or intends to make a distribution to preferential creditors—
@@ -56,12 +56,12 @@ summary: ''
 
 (8) If the administrator is a solicitor and employs his own firm, or any partner in it, to act on behalf of the company, profit costs shall not be paid unless this is authorised by the creditors' committee, the creditors or the court.
 
-(9)[^key-90ed522c2dfb05ecbf854310d42ec7ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-90ed522c2dfb05ecbf854310d42ec7ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
+[^c-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
 
-[^key-f884fbde771ed5a1ee28cb5a2748c216]: Textual amendment: [Rule 2.106(5A)](https://www.legislation.gov.uk/uksi/1986/1925/rule/2.106/5A) inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [15(1)](https://www.legislation.gov.uk/uksi/2005/527/rule/15/1) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))
+[^c-f884fbde771ed5a1ee28cb5a2748c216]: Textual amendment: [Rule 2.106(5A)](https://www.legislation.gov.uk/uksi/1986/1925/rule/2.106/5A) inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [15(1)](https://www.legislation.gov.uk/uksi/2005/527/rule/15/1) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))
 
-[^key-90ed522c2dfb05ecbf854310d42ec7ed]: Textual amendment: [Rule 2.106(9)](https://www.legislation.gov.uk/uksi/1986/1925/rule/2.106/9) omitted (1.4.2005) by virtue of [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2005/527/rule/15/2) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))
+[^c-90ed522c2dfb05ecbf854310d42ec7ed]: Textual amendment: [Rule 2.106(9)](https://www.legislation.gov.uk/uksi/1986/1925/rule/2.106/9) omitted (1.4.2005) by virtue of [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2005/527/rule/15/2) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))

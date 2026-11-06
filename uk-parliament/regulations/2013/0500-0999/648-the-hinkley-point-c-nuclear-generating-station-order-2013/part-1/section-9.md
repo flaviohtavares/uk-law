@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Application of the 1991 Act[^key-5db7a982ef52a938f179b050d70c6567]
+## 9. Application of the 1991 Act[^c-5db7a982ef52a938f179b050d70c6567]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ the works shall be treated for the purposes of Part 3 of the 1991 Act (street wo
 
 ## Annotations
 
-[^key-5db7a982ef52a938f179b050d70c6567]: Commencement: Art. 9 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-5db7a982ef52a938f179b050d70c6567]: Commencement: Art. 9 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

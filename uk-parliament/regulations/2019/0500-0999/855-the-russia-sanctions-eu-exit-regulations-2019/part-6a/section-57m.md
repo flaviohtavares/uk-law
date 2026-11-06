@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57M. Registration of an aircraft in the United Kingdom[^key-70ac39a0d3fc814d66486839ff5f9ea5]
+## 57M. Registration of an aircraft in the United Kingdom[^c-70ac39a0d3fc814d66486839ff5f9ea5]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70ac39a0d3fc814d66486839ff5f9ea5]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2019/855/part/6A) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/241/regulation/9)
+[^c-70ac39a0d3fc814d66486839ff5f9ea5]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2019/855/part/6A) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/241/regulation/9)

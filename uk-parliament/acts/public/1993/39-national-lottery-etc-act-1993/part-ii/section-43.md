@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Accounts.[^key-45685a4720b6928d1665b2e804ce3570]
+## 43. Accounts.[^c-45685a4720b6928d1665b2e804ce3570]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45685a4720b6928d1665b2e804ce3570]: Textual amendment: [Ss. 40-43](https://www.legislation.gov.uk/ukpga/1993/39/section/40) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 19(6)(b)](https://www.legislation.gov.uk/ukpga/2006/23/section/19/6/b), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d/e)
+[^c-45685a4720b6928d1665b2e804ce3570]: Textual amendment: [Ss. 40-43](https://www.legislation.gov.uk/ukpga/1993/39/section/40) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 19(6)(b)](https://www.legislation.gov.uk/ukpga/2006/23/section/19/6/b), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d/e)

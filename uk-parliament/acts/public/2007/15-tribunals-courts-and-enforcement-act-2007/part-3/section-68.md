@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Magistrates' courts warrants of control[^key-b19769a644999b2220048ab4b363c684]
+## 68. Magistrates' courts warrants of control[^c-b19769a644999b2220048ab4b363c684]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ In the Magistrates' Courts Act 1980 (c. 43) after section 125 insert—
 
 ## Annotations
 
-[^key-b19769a644999b2220048ab4b363c684]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2007/15/section/68) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-b19769a644999b2220048ab4b363c684]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2007/15/section/68) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

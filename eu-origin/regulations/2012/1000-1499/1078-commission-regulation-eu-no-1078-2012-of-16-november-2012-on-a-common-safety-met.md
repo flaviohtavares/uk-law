@@ -87,7 +87,7 @@ HAS ADOPTED THIS REGULATION:
 
 2. This Regulation shall be used for the following:
 
-- (a) to check the correct application and the effectiveness of all the processes and procedures in the management system, including the technical, operational and organisational risk control measures. In case of railway undertakings and infrastructure managers, checking will include the technical, operational and organisational elements that are necessary for the issue of the certification/authorisation specified in regulations 7(4) and 10(3) of the Railways and Other Guided Transport Systems (Safety) Regulations 2006 or Chapter 3 of the Schedule to the Channel Tunnel (Safety) (Amendment) Order 2013[^key-52a745bdb572aba109d723e4a80a9514];
+- (a) to check the correct application and the effectiveness of all the processes and procedures in the management system, including the technical, operational and organisational risk control measures. In case of railway undertakings and infrastructure managers, checking will include the technical, operational and organisational elements that are necessary for the issue of the certification/authorisation specified in regulations 7(4) and 10(3) of the Railways and Other Guided Transport Systems (Safety) Regulations 2006 or Chapter 3 of the Schedule to the Channel Tunnel (Safety) (Amendment) Order 2013[^c-52a745bdb572aba109d723e4a80a9514];
 - (b) to check the correct application of the management system as a whole, and if the management system achieves the expected outcomes; and
 - (c) to identify and implement appropriate preventive, corrective or both types of measures if any relevant instance of non-compliance to points (a) and (b) is detected.
 
@@ -107,7 +107,7 @@ HAS ADOPTED THIS REGULATION:
 
 3. This Regulation shall apply to railway undertakings, infrastructure managers after receiving a safety certificate or safety authorisation and entities in charge of maintenance.
 
-## Article 2. Definitions[^key-91629680fe498fcfb417a3f981efb1d9][^M_E_4110cd81-8832-4688-bc31-5ad6cf293d66]
+## Article 2. Definitions[^c-91629680fe498fcfb417a3f981efb1d9][^M_E_4110cd81-8832-4688-bc31-5ad6cf293d66]
 
 *Extent: E+W+S*
 
@@ -128,7 +128,7 @@ For the purposes of this Regulation the following definitions apply.
 - ‘railway system’ means the totality of the subsystems in Great Britain for structural and operational areas, as defined in paragraph 2(1) to 2(7) of Annex II to Directive [2008/57/EC](https://www.legislation.gov.uk/eudr/2008/57), as well as the management and operation of the system as a whole;
 - ‘railway undertaking’ means a public or private undertaking, licensed according to applicable legislation, the activity of which is to provide transport of goods and/or passengers by rail on the basis that the undertaking must ensure traction; this also includes undertakings which provide traction only.
 
-## Article 2. Definitions[^key-7c8a2397bd539b12b31e2eea35a029e0][^M_E_653e210f-f120-4ba6-d826-83d49af5467f]
+## Article 2. Definitions[^c-7c8a2397bd539b12b31e2eea35a029e0][^M_E_653e210f-f120-4ba6-d826-83d49af5467f]
 
 *Extent: N.I.*
 
@@ -170,37 +170,37 @@ For the purposes of this Regulation the following definitions shall apply.
 
 *Extent: E+W+S*
 
-1. The infrastructure managers and railway undertakings shall report to the national safety authority on the application of this Regulation through their annual safety reports [^key-75b2e8030de714187c4912a0967cf576]....
+1. The infrastructure managers and railway undertakings shall report to the national safety authority on the application of this Regulation through their annual safety reports [^c-75b2e8030de714187c4912a0967cf576]....
 
-2.[^key-6a8e4164cff2d86466005f00ec706f27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-6a8e4164cff2d86466005f00ec706f27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3. The annual maintenance report of entities in charge of maintenance of freight wagons set out in paragraph 27(4)(k) of Schedule 10 to the Railways and Other Guided Systems (Safety) Regulations 2006[^key-ff7d2a7d29e16349e0ded3a9d4d16946], shall include information about the experience of entities in charge of maintenance in applying this Regulation. [^key-4c438b1f4af505138569e6c934cb947c]...
+3. The annual maintenance report of entities in charge of maintenance of freight wagons set out in paragraph 27(4)(k) of Schedule 10 to the Railways and Other Guided Systems (Safety) Regulations 2006[^c-ff7d2a7d29e16349e0ded3a9d4d16946], shall include information about the experience of entities in charge of maintenance in applying this Regulation. [^c-4c438b1f4af505138569e6c934cb947c]...
 
-4.[^key-563c59dd6dea272af03ac852fa9aa9b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-563c59dd6dea272af03ac852fa9aa9b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-5.[^key-563c59dd6dea272af03ac852fa9aa9b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-563c59dd6dea272af03ac852fa9aa9b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-6.[^key-563c59dd6dea272af03ac852fa9aa9b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.[^c-563c59dd6dea272af03ac852fa9aa9b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-7.[^key-563c59dd6dea272af03ac852fa9aa9b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.[^c-563c59dd6dea272af03ac852fa9aa9b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 5. Reporting[^M_E_91eab61c-2331-45d9-9fd3-eb988159bb1e]
 
 *Extent: N.I.*
 
-1. The infrastructure managers and railway undertakings shall report to the national safety authority on the application of this Regulation through their annual safety reports [^key-354a8bd00d95ad846c4c423a890076b6]....
+1. The infrastructure managers and railway undertakings shall report to the national safety authority on the application of this Regulation through their annual safety reports [^c-354a8bd00d95ad846c4c423a890076b6]....
 
-2.[^key-c23e54f04fa751cfc3f47b299ec91c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-c23e54f04fa751cfc3f47b299ec91c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3.[^key-c23e54f04fa751cfc3f47b299ec91c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-c23e54f04fa751cfc3f47b299ec91c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-4.[^key-c23e54f04fa751cfc3f47b299ec91c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-c23e54f04fa751cfc3f47b299ec91c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-5.[^key-c23e54f04fa751cfc3f47b299ec91c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-c23e54f04fa751cfc3f47b299ec91c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-6.[^key-c23e54f04fa751cfc3f47b299ec91c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.[^c-c23e54f04fa751cfc3f47b299ec91c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-7.[^key-c23e54f04fa751cfc3f47b299ec91c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.[^c-c23e54f04fa751cfc3f47b299ec91c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 6. Entry into force and application
 
@@ -208,7 +208,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 This Regulation shall apply from 7 June 2013.
 
-[^key-91b3e2d2792bf85b052178c8007d8a87]...
+[^c-91b3e2d2792bf85b052178c8007d8a87]...
 
 Done at Brussels, 16 November 2012.
 
@@ -363,36 +363,36 @@ Appendix
 
 [^M_E_0d506b3a-c1f5-4ae8-bc90-c20571200041]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-52a745bdb572aba109d723e4a80a9514]: Textual amendment: Words in [Art. 1(2)(a)](https://www.legislation.gov.uk/eur/2012/1078/article/1/2/a) substituted (E.W.S.) (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52a745bdb572aba109d723e4a80a9514]: Textual amendment: Words in [Art. 1(2)(a)](https://www.legislation.gov.uk/eur/2012/1078/article/1/2/a) substituted (E.W.S.) (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_2eed4272-4842-4d29-fcd6-6bc55450c43b]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^V_NI_f823675c-d5df-428d-0aa4-7ccfd47023e1]: Textual amendment: Words in [Art. 1(2)(a)](https://www.legislation.gov.uk/eur/2012/1078/article/1/2/a) substituted (N.I.) (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [20(2)](https://www.legislation.gov.uk/uksi/2019/837/regulation/20/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-91629680fe498fcfb417a3f981efb1d9]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2012/1078/article/2) substituted (E.W.S.) (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-91629680fe498fcfb417a3f981efb1d9]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2012/1078/article/2) substituted (E.W.S.) (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_4110cd81-8832-4688-bc31-5ad6cf293d66]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-7c8a2397bd539b12b31e2eea35a029e0]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2012/1078/article/2) substituted (N.I.) (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [20(3)](https://www.legislation.gov.uk/uksi/2019/837/regulation/20/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7c8a2397bd539b12b31e2eea35a029e0]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2012/1078/article/2) substituted (N.I.) (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [20(3)](https://www.legislation.gov.uk/uksi/2019/837/regulation/20/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_653e210f-f120-4ba6-d826-83d49af5467f]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^M_E_e892684d-0a42-4f2a-e711-d1314c53cd28]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-75b2e8030de714187c4912a0967cf576]: Textual amendment: Words in Art. 5(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(4)(a)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-75b2e8030de714187c4912a0967cf576]: Textual amendment: Words in Art. 5(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(4)(a)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6a8e4164cff2d86466005f00ec706f27]: Textual amendment: Art. 5(2) omitted (E.W.S.) (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(4)(b)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6a8e4164cff2d86466005f00ec706f27]: Textual amendment: Art. 5(2) omitted (E.W.S.) (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(4)(b)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ff7d2a7d29e16349e0ded3a9d4d16946]: Textual amendment: Words in Art. 5(3) substituted (E.W.S.) (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(4)(c)(i)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/4/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff7d2a7d29e16349e0ded3a9d4d16946]: Textual amendment: Words in Art. 5(3) substituted (E.W.S.) (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(4)(c)(i)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/4/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4c438b1f4af505138569e6c934cb947c]: Textual amendment: Words in Art. 5(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/4/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c438b1f4af505138569e6c934cb947c]: Textual amendment: Words in Art. 5(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/4/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-563c59dd6dea272af03ac852fa9aa9b1]: Textual amendment: Art. 5(4)-(7) omitted (E.W.S.) (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(4)(d)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/4/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-563c59dd6dea272af03ac852fa9aa9b1]: Textual amendment: Art. 5(4)-(7) omitted (E.W.S.) (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(4)(d)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/4/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_91eab61c-2331-45d9-9fd3-eb988159bb1e]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-354a8bd00d95ad846c4c423a890076b6]: Textual amendment: Words in Art. 5(1) omitted (N.I.) (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [20(4)(a)](https://www.legislation.gov.uk/uksi/2019/837/regulation/20/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-354a8bd00d95ad846c4c423a890076b6]: Textual amendment: Words in Art. 5(1) omitted (N.I.) (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [20(4)(a)](https://www.legislation.gov.uk/uksi/2019/837/regulation/20/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c23e54f04fa751cfc3f47b299ec91c1d]: Textual amendment: Art. 5(2)-(7) omitted (N.I.) (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [20(4)(b)](https://www.legislation.gov.uk/uksi/2019/837/regulation/20/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c23e54f04fa751cfc3f47b299ec91c1d]: Textual amendment: Art. 5(2)-(7) omitted (N.I.) (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [20(4)(b)](https://www.legislation.gov.uk/uksi/2019/837/regulation/20/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-91b3e2d2792bf85b052178c8007d8a87]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(5)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/5), [20(5)](https://www.legislation.gov.uk/uksi/2019/837/regulation/20/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-91b3e2d2792bf85b052178c8007d8a87]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [15(5)](https://www.legislation.gov.uk/uksi/2019/837/regulation/15/5), [20(5)](https://www.legislation.gov.uk/uksi/2019/837/regulation/20/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

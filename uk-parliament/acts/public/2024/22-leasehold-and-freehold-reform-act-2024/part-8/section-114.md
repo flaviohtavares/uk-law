@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Steps relating to remediation of defects[^key-46cf307bc40be34ed3a662b0c63a4c53][^key-ce5d9304e334cd85f8500ffebc84c36c]
+## 114. Steps relating to remediation of defects[^c-46cf307bc40be34ed3a662b0c63a4c53][^c-ce5d9304e334cd85f8500ffebc84c36c]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-46cf307bc40be34ed3a662b0c63a4c53]: Commencement: S. 114 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-46cf307bc40be34ed3a662b0c63a4c53]: Commencement: S. 114 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-ce5d9304e334cd85f8500ffebc84c36c]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2024/22/section/114) in force at 31.10.2024 by [S.I. 2024/1018](https://www.legislation.gov.uk/uksi/2024/1018), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1018/regulation/2/a)
+[^c-ce5d9304e334cd85f8500ffebc84c36c]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2024/22/section/114) in force at 31.10.2024 by [S.I. 2024/1018](https://www.legislation.gov.uk/uksi/2024/1018), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1018/regulation/2/a)

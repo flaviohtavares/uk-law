@@ -22,7 +22,7 @@ summary: ''
 
 Article 42
 
-### 1. General[^key-b74ff3894f3ccd2849a4448386b3fab8]
+### 1. General[^c-b74ff3894f3ccd2849a4448386b3fab8]
 
 (1) Regulations may make provision for the purposes of, or in connection with, replacing existing benefits with universal credit.
 
@@ -33,7 +33,7 @@ Article 42
 
 (3) In this Schedule “**appointed day**” means the day appointed for the coming into operation of Article 6.
 
-### 2. Claims before the appointed day[^key-e9a79a9871ac6f2868c46bdbc72296b6]
+### 2. Claims before the appointed day[^c-e9a79a9871ac6f2868c46bdbc72296b6]
 
 (1) The provision referred to in paragraph 1(1) includes—
 
@@ -43,7 +43,7 @@ Article 42
 
 (2) The provision referred to in paragraph 1(1) includes provision, where a claim for universal credit is made (or is treated as made) before the appointed day, for an award on the claim to be made in respect of a period before the appointed day (including provision as to the conditions of entitlement for, and amount of, such an award).
 
-### 3. Claims on or after the appointed day[^key-857d288d3b4c674e5c48bc084665d0e8]
+### 3. Claims on or after the appointed day[^c-857d288d3b4c674e5c48bc084665d0e8]
 
 (1) The provision referred to in paragraph 1(1) includes—
 
@@ -57,7 +57,7 @@ Article 42
 
 (2) The provision referred to in paragraph 1(1) includes provision, where a claim for universal credit is made (or is treated as made) on or after the appointed day, for an award on the claim to be made in respect of a period before the appointed day (including provision as to the conditions of entitlement for, and amount of, such an award).
 
-### 4. Awards[^key-da42fb2ebdfc7be73987959303a4ac79]
+### 4. Awards[^c-da42fb2ebdfc7be73987959303a4ac79]
 
 (1) The provision referred to in paragraph 1(1) includes—
 
@@ -79,7 +79,7 @@ Article 42
 - (a) the amount of the award is not less than the amount to which the person would have been entitled under the terminated award, or is not less than that amount by more than a prescribed amount;
 - (b) if the person to whom it is made ceases to be entitled to universal credit for not more than a prescribed period, the gap in entitlement is disregarded in calculating the amount of any new award of universal credit.
 
-### 5. Work-related requirements and sanctions[^key-69bb36fb548ed0ba11c57912a2bb4966]
+### 5. Work-related requirements and sanctions[^c-69bb36fb548ed0ba11c57912a2bb4966]
 
 (1) The provision referred to in paragraph 1(1) includes—
 
@@ -126,24 +126,24 @@ Article 42
   - (j) section 11, 12 or 13 of the Welfare Reform (Northern Ireland) Act 2007, or
   - (k) section 2A, 2AA or 2D of the Administration Act.
 
-### 6. Supplementary[^key-3e327388b745785de475c32b28826d33]
+### 6. Supplementary[^c-3e327388b745785de475c32b28826d33]
 
 Regulations under paragraph 1(1) may secure the result that any gap in entitlement to an existing benefit (or what would, but for the provisions of this Part, be a gap in entitlement to an existing benefit) is to be disregarded for the purposes of provision under such regulations.
 
-**7.**[^key-c07e29bb812f1fbd92d95ea7f9c4173b] Regulations under paragraph 1(1) may amend or modify the application of any statutory provision.
+**7.**[^c-c07e29bb812f1fbd92d95ea7f9c4173b] Regulations under paragraph 1(1) may amend or modify the application of any statutory provision.
 
 ## Annotations
 
-[^key-b74ff3894f3ccd2849a4448386b3fab8]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nisi/2015/2006/schedule/6/paragraph/1) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(viii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/viii)
+[^c-b74ff3894f3ccd2849a4448386b3fab8]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nisi/2015/2006/schedule/6/paragraph/1) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(viii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/viii)
 
-[^key-e9a79a9871ac6f2868c46bdbc72296b6]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/6/paragraph/2) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(viii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/viii)
+[^c-e9a79a9871ac6f2868c46bdbc72296b6]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/6/paragraph/2) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(viii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/viii)
 
-[^key-857d288d3b4c674e5c48bc084665d0e8]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/6/paragraph/3) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(viii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/viii)
+[^c-857d288d3b4c674e5c48bc084665d0e8]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/6/paragraph/3) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(viii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/viii)
 
-[^key-da42fb2ebdfc7be73987959303a4ac79]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nisi/2015/2006/schedule/6/paragraph/4) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(viii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/viii)
+[^c-da42fb2ebdfc7be73987959303a4ac79]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nisi/2015/2006/schedule/6/paragraph/4) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(viii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/viii)
 
-[^key-69bb36fb548ed0ba11c57912a2bb4966]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/nisi/2015/2006/schedule/6/paragraph/5) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(viii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/viii)
+[^c-69bb36fb548ed0ba11c57912a2bb4966]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/nisi/2015/2006/schedule/6/paragraph/5) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(viii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/viii)
 
-[^key-3e327388b745785de475c32b28826d33]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/6/paragraph/6) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(viii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/viii)
+[^c-3e327388b745785de475c32b28826d33]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/6/paragraph/6) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(viii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/viii)
 
-[^key-c07e29bb812f1fbd92d95ea7f9c4173b]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/nisi/2015/2006/schedule/6/paragraph/7) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(viii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/viii)
+[^c-c07e29bb812f1fbd92d95ea7f9c4173b]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/nisi/2015/2006/schedule/6/paragraph/7) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(viii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/viii)

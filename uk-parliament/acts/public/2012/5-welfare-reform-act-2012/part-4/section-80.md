@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Ability to carry out daily living activities or mobility activities[^key-dfcfec2a48b4e1e8253612a3d7cab1d8]
+## 80. Ability to carry out daily living activities or mobility activities[^c-dfcfec2a48b4e1e8253612a3d7cab1d8]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfcfec2a48b4e1e8253612a3d7cab1d8]: Commencement: S. 80 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/27)
+[^c-dfcfec2a48b4e1e8253612a3d7cab1d8]: Commencement: S. 80 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/27)

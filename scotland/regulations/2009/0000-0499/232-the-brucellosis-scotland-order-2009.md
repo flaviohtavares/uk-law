@@ -112,18 +112,18 @@ Where a notice has been served on the owner or occupier of any premises under ar
 
 ### 7. Sampling of milk
 
-(1) Any person who buys milk from the owner or keeper of a herd of bovine animals[^key-db705d21c713c78071e8db50055d6911] in Scotland for resale as milk or milk products must–
+(1) Any person who buys milk from the owner or keeper of a herd of bovine animals[^c-db705d21c713c78071e8db50055d6911] in Scotland for resale as milk or milk products must–
 
 - (a) select an approved laboratory to carry out testing of such milk for brucellosis;
 - (b) notify the Scottish Ministers of the laboratory selected;
-- (c)[^key-25f4af82c17866840a42fee387ff356c] at intervals of 3 months and at that person’s own expense, take (or arrange to have taken) a sample of milk comprising milk from all of the lactating bovine animals in the herd at the time and whose milk is available for sale;
+- (c)[^c-25f4af82c17866840a42fee387ff356c] at intervals of 3 months and at that person’s own expense, take (or arrange to have taken) a sample of milk comprising milk from all of the lactating bovine animals in the herd at the time and whose milk is available for sale;
 - (ca) submit (or arrange to have submitted), at that person’s own expense, any sample of milk taken under sub-paragraph (c) to that laboratory for testing for evidence of the existence of brucellosis;
 - (d) add such preservative to the sample as may be requested by the person in charge of the laboratory; and
 - (e) ensure that the sample is labelled with–
   - (i) a bar code or other device which enables the laboratory to identify the herd or part of a herd from which the sample was taken; and
   - (ii) the date on which the sample was taken.
 
-(1A)[^key-1eb9da001bcd3d0902410f94abbf11e6] Any person who owns or keeps a herd of bovine animals in Scotland and who offers for sale processed milk or milk products derived from milk produced by that herd must—
+(1A)[^c-1eb9da001bcd3d0902410f94abbf11e6] Any person who owns or keeps a herd of bovine animals in Scotland and who offers for sale processed milk or milk products derived from milk produced by that herd must—
 
 - (a) select an approved laboratory to carry out testing of milk produced by that herd for brucellosis;
 - (b) notify the Scottish Ministers of the laboratory selected;
@@ -134,24 +134,24 @@ Where a notice has been served on the owner or occupier of any premises under ar
   - (i) a bar code or other device which enables the laboratory to identify the herd or part of a herd from which the sample was taken; and
   - (ii) the date on which the sample was taken.
 
-(2) No person may in any way treat, other than by adding a preservative in accordance with paragraph (1)(d) or (1A)(e)[^key-f84b8a0d680eb270ff00cdd805de3950], or tamper with, any sample or its label, and a person is deemed to have treated or tampered with a sample or its label if that person does anything in relation to it which is likely to affect the result of the testing required under this article.
+(2) No person may in any way treat, other than by adding a preservative in accordance with paragraph (1)(d) or (1A)(e)[^c-f84b8a0d680eb270ff00cdd805de3950], or tamper with, any sample or its label, and a person is deemed to have treated or tampered with a sample or its label if that person does anything in relation to it which is likely to affect the result of the testing required under this article.
 
 (3) The person in charge of an approved laboratory must–
 
-- (a) maintain a record of the herds from which milk is sent for testing under paragraph (1) or (1A)[^key-9806efda37178869373dcee8c76b5ec4];
+- (a) maintain a record of the herds from which milk is sent for testing under paragraph (1) or (1A)[^c-9806efda37178869373dcee8c76b5ec4];
 - (b) notify the Scottish Ministers as soon as reasonably practicable if, in any month, a sample is not received from one of the herds listed in the records held under sub-paragraph (a);
 - (c) notify the Scottish Ministers within 24 hours where a sample has been tested for evidence of the existence of brucellosis and the result is positive;
 - (d) notify the Scottish Ministers within one month where a sample has been tested for evidence of the existence of brucellosis and the result is negative; and
 - (e) maintain a record of the results of all the tests carried out for evidence of the existence of brucellosis for a period of one year from the date of the test.
 
-(4) If any person fails to take any action required under the provisions of paragraph (1) or (1A)[^key-c6304b7247cd19db339aa0ef3bbd1245], a veterinary inspector may, without prejudice to any proceedings for an offence arising out of such default, take or cause to be taken such action, and any expenses reasonably incurred in so doing are recoverable by the Scottish Ministers from the person in default.
+(4) If any person fails to take any action required under the provisions of paragraph (1) or (1A)[^c-c6304b7247cd19db339aa0ef3bbd1245], a veterinary inspector may, without prejudice to any proceedings for an offence arising out of such default, take or cause to be taken such action, and any expenses reasonably incurred in so doing are recoverable by the Scottish Ministers from the person in default.
 
-(5)[^key-e94a60990809257cfb86ed52c31bee13] In this article—
+(5)[^c-e94a60990809257cfb86ed52c31bee13] In this article—
 
 - “approved laboratory” means a laboratory approved by the Scottish Ministers to carry out testing of milk for brucellosis; and
 - “processed milk” means milk that has been heated to more than 40°C or undergone any treatment that has an equivalent effect.
 
-(6)[^key-0837a5d7bfa80ed963c88ffde4419e27] It is an offence for a person, without lawful authority or excuse, proof of which shall lie on that person, to fail to comply with paragraph (1), (1A), (2) or (3).
+(6)[^c-0837a5d7bfa80ed963c88ffde4419e27] It is an offence for a person, without lawful authority or excuse, proof of which shall lie on that person, to fail to comply with paragraph (1), (1A), (2) or (3).
 
 (7) Where—
 
@@ -445,21 +445,21 @@ A regulatory impact assessment has not been produced for this instrument as no i
 
 [^c19720191]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7); amended by paragraph 158 of Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-db705d21c713c78071e8db50055d6911]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/ssi/2009/232/article/7/1) substituted (1.4.2014) by [The Brucellosis (Scotland) Amendment Order 2014 (S.S.I. 2014/63)](https://www.legislation.gov.uk/ssi/2014/63), [arts. 1](https://www.legislation.gov.uk/ssi/2014/63/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2014/63/article/2/2/a)
+[^c-db705d21c713c78071e8db50055d6911]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/ssi/2009/232/article/7/1) substituted (1.4.2014) by [The Brucellosis (Scotland) Amendment Order 2014 (S.S.I. 2014/63)](https://www.legislation.gov.uk/ssi/2014/63), [arts. 1](https://www.legislation.gov.uk/ssi/2014/63/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2014/63/article/2/2/a)
 
-[^key-25f4af82c17866840a42fee387ff356c]: Textual amendment: [Art. 7(1)(c)](https://www.legislation.gov.uk/ssi/2009/232/article/7/1/c)[(ca)](https://www.legislation.gov.uk/ssi/2009/232/article/7/1/ca) substituted for [art. 7(1)(c)](https://www.legislation.gov.uk/ssi/2009/232/article/7/1/c) (1.4.2014) by [The Brucellosis (Scotland) Amendment Order 2014 (S.S.I. 2014/63)](https://www.legislation.gov.uk/ssi/2014/63), [arts. 1](https://www.legislation.gov.uk/ssi/2014/63/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2014/63/article/2/2/b)
+[^c-25f4af82c17866840a42fee387ff356c]: Textual amendment: [Art. 7(1)(c)](https://www.legislation.gov.uk/ssi/2009/232/article/7/1/c)[(ca)](https://www.legislation.gov.uk/ssi/2009/232/article/7/1/ca) substituted for [art. 7(1)(c)](https://www.legislation.gov.uk/ssi/2009/232/article/7/1/c) (1.4.2014) by [The Brucellosis (Scotland) Amendment Order 2014 (S.S.I. 2014/63)](https://www.legislation.gov.uk/ssi/2014/63), [arts. 1](https://www.legislation.gov.uk/ssi/2014/63/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2014/63/article/2/2/b)
 
-[^key-1eb9da001bcd3d0902410f94abbf11e6]: Textual amendment: [Art. 7(1A)](https://www.legislation.gov.uk/ssi/2009/232/article/7/1A) inserted (1.4.2014) by [The Brucellosis (Scotland) Amendment Order 2014 (S.S.I. 2014/63)](https://www.legislation.gov.uk/ssi/2014/63), [arts. 1](https://www.legislation.gov.uk/ssi/2014/63/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2014/63/article/2/3)
+[^c-1eb9da001bcd3d0902410f94abbf11e6]: Textual amendment: [Art. 7(1A)](https://www.legislation.gov.uk/ssi/2009/232/article/7/1A) inserted (1.4.2014) by [The Brucellosis (Scotland) Amendment Order 2014 (S.S.I. 2014/63)](https://www.legislation.gov.uk/ssi/2014/63), [arts. 1](https://www.legislation.gov.uk/ssi/2014/63/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2014/63/article/2/3)
 
-[^key-f84b8a0d680eb270ff00cdd805de3950]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/ssi/2009/232/article/7/2) inserted (1.4.2014) by [The Brucellosis (Scotland) Amendment Order 2014 (S.S.I. 2014/63)](https://www.legislation.gov.uk/ssi/2014/63), [arts. 1](https://www.legislation.gov.uk/ssi/2014/63/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2014/63/article/2/4)
+[^c-f84b8a0d680eb270ff00cdd805de3950]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/ssi/2009/232/article/7/2) inserted (1.4.2014) by [The Brucellosis (Scotland) Amendment Order 2014 (S.S.I. 2014/63)](https://www.legislation.gov.uk/ssi/2014/63), [arts. 1](https://www.legislation.gov.uk/ssi/2014/63/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2014/63/article/2/4)
 
-[^key-9806efda37178869373dcee8c76b5ec4]: Textual amendment: Words in [art. 7(3)(a)](https://www.legislation.gov.uk/ssi/2009/232/article/7/3/a) inserted (1.4.2014) by [The Brucellosis (Scotland) Amendment Order 2014 (S.S.I. 2014/63)](https://www.legislation.gov.uk/ssi/2014/63), [arts. 1](https://www.legislation.gov.uk/ssi/2014/63/article/1), [2(5)](https://www.legislation.gov.uk/ssi/2014/63/article/2/5)
+[^c-9806efda37178869373dcee8c76b5ec4]: Textual amendment: Words in [art. 7(3)(a)](https://www.legislation.gov.uk/ssi/2009/232/article/7/3/a) inserted (1.4.2014) by [The Brucellosis (Scotland) Amendment Order 2014 (S.S.I. 2014/63)](https://www.legislation.gov.uk/ssi/2014/63), [arts. 1](https://www.legislation.gov.uk/ssi/2014/63/article/1), [2(5)](https://www.legislation.gov.uk/ssi/2014/63/article/2/5)
 
-[^key-c6304b7247cd19db339aa0ef3bbd1245]: Textual amendment: Words in [art. 7(4)](https://www.legislation.gov.uk/ssi/2009/232/article/7/4) inserted (1.4.2014) by [The Brucellosis (Scotland) Amendment Order 2014 (S.S.I. 2014/63)](https://www.legislation.gov.uk/ssi/2014/63), [arts. 1](https://www.legislation.gov.uk/ssi/2014/63/article/1), [2(6)](https://www.legislation.gov.uk/ssi/2014/63/article/2/6)
+[^c-c6304b7247cd19db339aa0ef3bbd1245]: Textual amendment: Words in [art. 7(4)](https://www.legislation.gov.uk/ssi/2009/232/article/7/4) inserted (1.4.2014) by [The Brucellosis (Scotland) Amendment Order 2014 (S.S.I. 2014/63)](https://www.legislation.gov.uk/ssi/2014/63), [arts. 1](https://www.legislation.gov.uk/ssi/2014/63/article/1), [2(6)](https://www.legislation.gov.uk/ssi/2014/63/article/2/6)
 
-[^key-e94a60990809257cfb86ed52c31bee13]: Textual amendment: [Art. 7(5)](https://www.legislation.gov.uk/ssi/2009/232/article/7/5) substituted (1.4.2014) by [The Brucellosis (Scotland) Amendment Order 2014 (S.S.I. 2014/63)](https://www.legislation.gov.uk/ssi/2014/63), [arts. 1](https://www.legislation.gov.uk/ssi/2014/63/article/1), [2(7)](https://www.legislation.gov.uk/ssi/2014/63/article/2/7)
+[^c-e94a60990809257cfb86ed52c31bee13]: Textual amendment: [Art. 7(5)](https://www.legislation.gov.uk/ssi/2009/232/article/7/5) substituted (1.4.2014) by [The Brucellosis (Scotland) Amendment Order 2014 (S.S.I. 2014/63)](https://www.legislation.gov.uk/ssi/2014/63), [arts. 1](https://www.legislation.gov.uk/ssi/2014/63/article/1), [2(7)](https://www.legislation.gov.uk/ssi/2014/63/article/2/7)
 
-[^key-0837a5d7bfa80ed963c88ffde4419e27]: Textual amendment: [Art. 7(6)-(9)](https://www.legislation.gov.uk/ssi/2009/232/article/7/6) inserted (1.4.2014) by [The Brucellosis (Scotland) Amendment (No. 2) Order 2014 (S.S.I. 2014/72)](https://www.legislation.gov.uk/ssi/2014/72), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2014/72/article/1/3), [3](https://www.legislation.gov.uk/ssi/2014/72/article/3)
+[^c-0837a5d7bfa80ed963c88ffde4419e27]: Textual amendment: [Art. 7(6)-(9)](https://www.legislation.gov.uk/ssi/2009/232/article/7/6) inserted (1.4.2014) by [The Brucellosis (Scotland) Amendment (No. 2) Order 2014 (S.S.I. 2014/72)](https://www.legislation.gov.uk/ssi/2014/72), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2014/72/article/1/3), [3](https://www.legislation.gov.uk/ssi/2014/72/article/3)
 
 [^c19720201]: Marginal citation: [S.S.I. 2008/219](https://www.legislation.gov.uk/ssi/2008/219).
 

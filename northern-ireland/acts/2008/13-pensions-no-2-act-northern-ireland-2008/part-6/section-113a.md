@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 113A. Service of documents and electronic working[^key-36a2866a74c9bec3c466306a170464b8]
+## 113A. Service of documents and electronic working[^c-36a2866a74c9bec3c466306a170464b8]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ In Articles 2(7)(a), 277 and 278 of the 2005 Order (service of documents and ele
 
 ## Annotations
 
-[^key-36a2866a74c9bec3c466306a170464b8]: Textual amendment: S. 113A inserted (30.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 33(1)](https://www.legislation.gov.uk/nia/2012/3/section/33/1), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/f)
+[^c-36a2866a74c9bec3c466306a170464b8]: Textual amendment: S. 113A inserted (30.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 33(1)](https://www.legislation.gov.uk/nia/2012/3/section/33/1), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/f)

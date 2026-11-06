@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39B. Disqualification for holding or obtaining United Kingdom passport[^M_C_fad9c876-f819-4c20-d2fc-aa969508adf9][^key-37aa56a290809b52ab922f52cc1c530a][^M_F_0c195139-c51f-4a85-fa78-02ab54a9c3f3]
+## 39B. Disqualification for holding or obtaining United Kingdom passport[^M_C_fad9c876-f819-4c20-d2fc-aa969508adf9][^c-37aa56a290809b52ab922f52cc1c530a][^M_F_0c195139-c51f-4a85-fa78-02ab54a9c3f3]
 
 *Extent: E+W+S*
 
@@ -75,7 +75,7 @@ it shall send notice of that fact to the Secretary of State; and the notice shal
 
 [^M_C_fad9c876-f819-4c20-d2fc-aa969508adf9]: Modification: S. 39B modified (10.6.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 59(5)](https://www.legislation.gov.uk/ukpga/2008/6/section/59/5/6)[(6)](https://www.legislation.gov.uk/ukpga/2008/6/section/59/5/6); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 2(6)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/6)
 
-[^key-37aa56a290809b52ab922f52cc1c530a]: Textual amendment: Ss. 39B-39G inserted (29.11.2018 for specified purposes, 14.12.2018 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 27](https://www.legislation.gov.uk/ukpga/2008/6/section/27), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2018/1261](https://www.legislation.gov.uk/uksi/2018/1261), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/1261/article/2/a)[(b)](https://www.legislation.gov.uk/uksi/2018/1261/article/2/b)
+[^c-37aa56a290809b52ab922f52cc1c530a]: Textual amendment: Ss. 39B-39G inserted (29.11.2018 for specified purposes, 14.12.2018 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 27](https://www.legislation.gov.uk/ukpga/2008/6/section/27), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2018/1261](https://www.legislation.gov.uk/uksi/2018/1261), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/1261/article/2/a)[(b)](https://www.legislation.gov.uk/uksi/2018/1261/article/2/b)
 
 [^M_F_0c195139-c51f-4a85-fa78-02ab54a9c3f3]: Textual amendment: Words in s. 39B heading substituted (1.1.2011) by [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 7(4)](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/7/4)
 

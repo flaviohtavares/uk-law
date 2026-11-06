@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Enforcement of provisions as to trans-shipment.[^key-c5b3fa647cb4e5f98d78ce361166ddbb]
+## 27. Enforcement of provisions as to trans-shipment.[^c-c5b3fa647cb4e5f98d78ce361166ddbb]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ and if he detains or requires the detention of the vessel he shall serve on the 
 
 ## Annotations
 
-[^key-c5b3fa647cb4e5f98d78ce361166ddbb]: Modification: Pts. 2-4 functions transferred (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 53(2)(c)(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/53/2/c/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
+[^c-c5b3fa647cb4e5f98d78ce361166ddbb]: Modification: Pts. 2-4 functions transferred (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 53(2)(c)(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/53/2/c/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
 
 [^c8102371]: Marginal citation: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).

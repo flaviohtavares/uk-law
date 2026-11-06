@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Amendment of the National Health Service (Optical Charges and Payments) Regulations 2013[^key-7343ed699bf50f83f30b2b30a2f690f2]
+## 66. Amendment of the National Health Service (Optical Charges and Payments) Regulations 2013[^c-7343ed699bf50f83f30b2b30a2f690f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7343ed699bf50f83f30b2b30a2f690f2]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2023/1071/regulation/66) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-7343ed699bf50f83f30b2b30a2f690f2]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2023/1071/regulation/66) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00055]: Footnote: [S.I. 2013/461](https://www.legislation.gov.uk/uksi/2013/461), to which there are amendments not relevant to these Regulations.

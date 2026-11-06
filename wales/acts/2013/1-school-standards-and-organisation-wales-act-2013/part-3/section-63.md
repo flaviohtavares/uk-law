@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Implementation of proposals[^key-3023c4f52e287ed7d61732f223786f61]
+## 63. Implementation of proposals[^c-3023c4f52e287ed7d61732f223786f61]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3023c4f52e287ed7d61732f223786f61]: Commencement: [S. 63](https://www.legislation.gov.uk/anaw/2013/1/section/63) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(b)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/b)
+[^c-3023c4f52e287ed7d61732f223786f61]: Commencement: [S. 63](https://www.legislation.gov.uk/anaw/2013/1/section/63) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(b)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/b)

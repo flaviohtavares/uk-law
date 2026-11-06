@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Appeals against revocation of licence[^key-2276235238067a5bf2c194ebfe59cab1]
+## 49. Appeals against revocation of licence[^c-2276235238067a5bf2c194ebfe59cab1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 (appeals against revocation of licence) has effect.
 
 ## Annotations
 
-[^key-2276235238067a5bf2c194ebfe59cab1]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2012/19/section/49) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-2276235238067a5bf2c194ebfe59cab1]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2012/19/section/49) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

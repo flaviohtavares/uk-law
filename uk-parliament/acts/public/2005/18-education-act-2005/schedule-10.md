@@ -70,7 +70,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### local authority Part 3 — Determination by whether to implement proposals[^key-94ed0295e29907765ea29be5dd3e5cb4]
+### local authority Part 3 — Determination by whether to implement proposals[^c-94ed0295e29907765ea29be5dd3e5cb4]
 
 #### 9.
 
@@ -122,4 +122,4 @@ summary: ''
 
 [^c19265021]: Commencement: Sch. 10 para. 4 wholly in force at 1.9.2006; Sch. 10 para. 4 not in force at Royal Assent see s. 125; Sch. 10 para. 4(4) in force at 1.8.2006 and Sch. 10 para. 4(1)-(3)(5)-(7) in force at 1.9.2006 by [S.I. 2006/2129](https://www.legislation.gov.uk/uksi/2006/2129), [arts. 3](https://www.legislation.gov.uk/uksi/2006/2129/article/3), [4](https://www.legislation.gov.uk/uksi/2006/2129/article/4)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)

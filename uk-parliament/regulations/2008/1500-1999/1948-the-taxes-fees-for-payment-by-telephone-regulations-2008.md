@@ -32,7 +32,7 @@ summary: ''
 
 Taxes
 
-The Taxes (Fees for Payment by Telephone) Regulations 2008 (revoked)[^key-2ceab6e113e7d36b6f99ccdb5a02efe1]
+The Taxes (Fees for Payment by Telephone) Regulations 2008 (revoked)[^c-2ceab6e113e7d36b6f99ccdb5a02efe1]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 13th August 2008
 
-[^key-2ceab6e113e7d36b6f99ccdb5a02efe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ceab6e113e7d36b6f99ccdb5a02efe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2ceab6e113e7d36b6f99ccdb5a02efe1]
+## 1. Citation and commencement[^c-2ceab6e113e7d36b6f99ccdb5a02efe1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fee payable for telephone payments by credit card[^key-2ceab6e113e7d36b6f99ccdb5a02efe1]
+## 2. Fee payable for telephone payments by credit card[^c-2ceab6e113e7d36b6f99ccdb5a02efe1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2ceab6e113e7d36b6f99ccdb5a02efe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ceab6e113e7d36b6f99ccdb5a02efe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2ceab6e113e7d36b6f99ccdb5a02efe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ceab6e113e7d36b6f99ccdb5a02efe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2ceab6e113e7d36b6f99ccdb5a02efe1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1948) revoked (14.12.2009) by [The Taxes, etc. (Fees for Payment by Telephone) Regulations 2009 (S.I. 2009/3073)](https://www.legislation.gov.uk/uksi/2009/3073), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/3073/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2009/3073/regulation/3)
+[^c-2ceab6e113e7d36b6f99ccdb5a02efe1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1948) revoked (14.12.2009) by [The Taxes, etc. (Fees for Payment by Telephone) Regulations 2009 (S.I. 2009/3073)](https://www.legislation.gov.uk/uksi/2009/3073), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/3073/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2009/3073/regulation/3)

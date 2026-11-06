@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Summary financial statements by listed public companies[^key-d3c51d3e5e9c2349b1106ebeb90407e5]
+## 15. Summary financial statements by listed public companies[^c-d3c51d3e5e9c2349b1106ebeb90407e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In section 251(1) of the 1985 Act (summary financial statements by listed public
 
 ## Annotations
 
-[^key-d3c51d3e5e9c2349b1106ebeb90407e5]: Commencement: Art. 15 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-d3c51d3e5e9c2349b1106ebeb90407e5]: Commencement: Art. 15 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00020]: Footnote: Substituted for certain purposes by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40) s.1-23; subsection (1) amended by [S.I. 1992/3003](https://www.legislation.gov.uk/uksi/1992/3003), regulation 3.

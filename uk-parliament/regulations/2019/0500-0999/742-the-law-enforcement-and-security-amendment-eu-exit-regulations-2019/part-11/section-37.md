@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Revocation of the Europol Regulation[^key-18313266acc9ad4cf76f83c521fc7142]
+## 37. Revocation of the Europol Regulation[^c-18313266acc9ad4cf76f83c521fc7142]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Subject to regulation 40 (saving provisions – information provided before comm
 
 ## Annotations
 
-[^key-18313266acc9ad4cf76f83c521fc7142]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-18313266acc9ad4cf76f83c521fc7142]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

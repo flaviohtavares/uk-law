@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Commission[^key-7238ec899eeef1f7e705386f37507242] may not give a controller or processor a penalty notice in reliance on section 149(2) with respect to the processing of personal data for the special purposes unless—
+(1) The Commission[^c-7238ec899eeef1f7e705386f37507242] may not give a controller or processor a penalty notice in reliance on section 149(2) with respect to the processing of personal data for the special purposes unless—
 
 - (a) a determination under section 174 with respect to the data or the processing has taken effect, and
 - (b) a court has granted leave for the notice to be given.
 
 (2) A court must not grant leave for the purposes of subsection (1)(b) unless it is satisfied that—
 
-- (a) the Commission[^key-82fd74e0de103bc60f8abe9ae59b2681] has reason to suspect a failure described in section 149(2) which is of substantial public importance, and
+- (a) the Commission[^c-82fd74e0de103bc60f8abe9ae59b2681] has reason to suspect a failure described in section 149(2) which is of substantial public importance, and
 - (b) the controller or processor has been given notice of the application for leave in accordance with rules of court or the case is urgent.
 
-(3) The Commission[^key-97facc276d7e62121efe9ee8d16e7936] may not give a controller or processor a penalty notice with respect to the processing of personal data where the purposes and manner of the processing are determined by or on behalf of either House of Parliament.
+(3) The Commission[^c-97facc276d7e62121efe9ee8d16e7936] may not give a controller or processor a penalty notice with respect to the processing of personal data where the purposes and manner of the processing are determined by or on behalf of either House of Parliament.
 
 (4) The Commission may not give a penalty notice to—
 
@@ -43,8 +43,8 @@ summary: ''
 
 [^M_I_31363d8d-9c84-4ec2-bbd8-9aaefc6a07cb]: Commencement: S. 156 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)
 
-[^key-7238ec899eeef1f7e705386f37507242]: Textual amendment: Word in s. 156(1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-7238ec899eeef1f7e705386f37507242]: Textual amendment: Word in s. 156(1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-82fd74e0de103bc60f8abe9ae59b2681]: Textual amendment: Word in s. 156(2)(a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-82fd74e0de103bc60f8abe9ae59b2681]: Textual amendment: Word in s. 156(2)(a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-97facc276d7e62121efe9ee8d16e7936]: Textual amendment: Word in s. 156(3)-(5) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-97facc276d7e62121efe9ee8d16e7936]: Textual amendment: Word in s. 156(3)-(5) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

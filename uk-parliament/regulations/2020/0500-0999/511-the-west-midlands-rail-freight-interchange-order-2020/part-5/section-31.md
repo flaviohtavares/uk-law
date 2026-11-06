@@ -40,7 +40,7 @@ summary: ''
 
 (9) In Schedule A1 [^c24099161] (counter-notice requiring purchase of land not in general vesting declaration), omit paragraph 1(2).
 
-(10) References to the 1965 Act in the 1981 Act are to be construed as references to that Act as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act as modified by article 30 (modification of Part 1 of the 1965 Act)[^key-3f984342d8670edc6ebc9390c14aa57c] to the compulsory acquisition of land and rights under this Order.
+(10) References to the 1965 Act in the 1981 Act are to be construed as references to that Act as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act as modified by article 30 (modification of Part 1 of the 1965 Act)[^c-3f984342d8670edc6ebc9390c14aa57c] to the compulsory acquisition of land and rights under this Order.
 
 ## Annotations
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^c24099161]: Marginal citation: Schedule A1 was inserted by paragraph 6 of Part 1 of Schedule 18 to the [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
-[^key-3f984342d8670edc6ebc9390c14aa57c]: Textual amendment: Words in [art. 31(10)](https://www.legislation.gov.uk/uksi/2020/511/article/31/10) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/8)
+[^c-3f984342d8670edc6ebc9390c14aa57c]: Textual amendment: Words in [art. 31(10)](https://www.legislation.gov.uk/uksi/2020/511/article/31/10) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/8)

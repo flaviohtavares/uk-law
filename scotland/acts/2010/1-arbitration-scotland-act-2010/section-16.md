@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Statutory arbitration: special provisions[^key-3c55e5668a03ea5bd0cfecdd436758e3]
+## 16. Statutory arbitration: special provisions[^c-3c55e5668a03ea5bd0cfecdd436758e3]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ unless the arbitrations or hearings are to be conducted under the same enactment
 
 ## Annotations
 
-[^key-3c55e5668a03ea5bd0cfecdd436758e3]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2010/1/section/16) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))
+[^c-3c55e5668a03ea5bd0cfecdd436758e3]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2010/1/section/16) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))

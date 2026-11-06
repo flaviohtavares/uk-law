@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment, being a department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the regulation of the electricity sector, in exercise of the powers conferred on it by that section and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-616b78910a405345f18557c57b02de4f]
+## 1. Citation and commencement[^c-616b78910a405345f18557c57b02de4f]
 
 These Regulations may be cited as the Electricity (Guarantees of Origin of Electricity Produced from Renewable Energy Sources) Regulations (Northern Ireland) 2003 and shall come into operation on 25th November 2003.
 
-## 2. Interpretation[^key-f54f7ba7ded4335178d9cbfa85cfcdd6]
+## 2. Interpretation[^c-f54f7ba7ded4335178d9cbfa85cfcdd6]
 
 (1) In these Regulations –
 
@@ -85,11 +85,11 @@ These Regulations may be cited as the Electricity (Guarantees of Origin of Elect
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Designation of the Authority as the issuer of guarantees of origin[^key-c7c42fc498aa7a1d3a686362cacf5355]
+## 3. Designation of the Authority as the issuer of guarantees of origin[^c-c7c42fc498aa7a1d3a686362cacf5355]
 
 Guarantees of origin shall be issued by the Authority in accordance with the provisions of these Regulations.
 
-## 4. Request for issue of guarantees of origin and information required[^key-4f014c08837a6e926e3a4e95e2a58ded]
+## 4. Request for issue of guarantees of origin and information required[^c-4f014c08837a6e926e3a4e95e2a58ded]
 
 (1) The issue of guarantees of origin may be requested –
 
@@ -111,7 +111,7 @@ Guarantees of origin shall be issued by the Authority in accordance with the pro
 
 (7) A request for the issue of guarantees of origin received by the Authority before the coming into operation of these Regulations shall, provided that the request meets the requirements of paragraphs (2) to (6), be treated by the Authority as if it were a request made under paragraph (1).
 
-## 5. Access to a plant[^key-98c54c18ab10f7e944edc07a9a702613]
+## 5. Access to a plant[^c-98c54c18ab10f7e944edc07a9a702613]
 
 Where –
 
@@ -120,7 +120,7 @@ Where –
 
 the Authority may refuse to issue guarantees of origin in respect of any electricity produced by that plant in respect of which it has not already issued guarantees of origin.
 
-## 6. Issue and transfer of guarantees of origin[^key-b262e24449bdfc88ee9f9d6b2834b856]
+## 6. Issue and transfer of guarantees of origin[^c-b262e24449bdfc88ee9f9d6b2834b856]
 
 (1) Without prejudice to regulation 5, where the Authority has received a request for the issue of guarantees of origin which has been duly made in accordance with these Regulations, it shall issue guarantees of origin in respect of so much (but no more) of the electricity to which the request relates as the Authority is satisfied was electricity produced from renewable energy sources.
 
@@ -132,7 +132,7 @@ the Authority may refuse to issue guarantees of origin in respect of any electri
 
 (5) If the registered holder of a guarantee of origin requests the Authority to transfer that guarantee of origin to any other person, the Authority shall do so by amending the Register accordingly.
 
-## 7. Guarantees of origin and the Register[^key-100d109be9fbebf11e9f71e06b01aab6]
+## 7. Guarantees of origin and the Register[^c-100d109be9fbebf11e9f71e06b01aab6]
 
 (1) The Authority shall –
 
@@ -150,7 +150,7 @@ the Authority may refuse to issue guarantees of origin in respect of any electri
 
 (5) The Authority shall publish an explanation of how any code used by it in the Register to state information is to be interpreted.
 
-## 8. Revocation of guarantees of origin[^key-29988a24c76c853a920b657607675b74]
+## 8. Revocation of guarantees of origin[^c-29988a24c76c853a920b657607675b74]
 
 (1) The Authority shall revoke a guarantee of origin where –
 
@@ -161,7 +161,7 @@ the Authority may refuse to issue guarantees of origin in respect of any electri
 
 (3) Where the Authority has revoked a guarantee of origin it shall as soon as practicable give notice of such revocation in writing to the registered holder of the guarantee of origin.
 
-## 9. Recognition of guarantees of origin[^key-20bea4fd30094046b5568ef2e1dcddae]
+## 9. Recognition of guarantees of origin[^c-20bea4fd30094046b5568ef2e1dcddae]
 
 (1) A competent authority shall recognise a guarantee of origin issued by the Authority under regulation 6(1).
 
@@ -181,7 +181,7 @@ the Authority may refuse to issue guarantees of origin in respect of any electri
 
 (6) Recognition by a competent authority of a guarantee of origin issued under regulation 6(1) or in another Member State or Great Britain shall be in such form as that competent authority may determine.
 
-## 10. Written requests, etc[^key-ef03c47427d463633573e1a83cd7618a]
+## 10. Written requests, etc[^c-ef03c47427d463633573e1a83cd7618a]
 
 Any request, notification, statement or provision of information required or permitted to be made under these Regulations shall be made in writing.
 
@@ -197,29 +197,29 @@ Department of Enterprise, Trade and Investment
 
 Regulation 4(4)
 
-**1.**[^key-e40f3161dc798daaa74be1b8a04d03b6] The name and address (if a body corporate, the registered or principal office) and, if a company, the registered number, of the person requesting the issue of the guarantee of origin.
+**1.**[^c-e40f3161dc798daaa74be1b8a04d03b6] The name and address (if a body corporate, the registered or principal office) and, if a company, the registered number, of the person requesting the issue of the guarantee of origin.
 
-**2.**[^key-81dd09fac0015b76bf1bab57924b6761] Where the person signing the statement required under regulation 4(5) is not the person making the request, the name and address of the person signing the statement.
+**2.**[^c-81dd09fac0015b76bf1bab57924b6761] Where the person signing the statement required under regulation 4(5) is not the person making the request, the name and address of the person signing the statement.
 
-**3.**[^key-d3028566e08d5b2de620a4a60915cc65] Whether the person requesting the issue of the guarantee of origin is the producer of the electricity in respect of which the guarantee of origin is requested and, if not, the name and address (if a body corporate, the registered or principal office) and, if a company, the registered number, of the producer.
+**3.**[^c-d3028566e08d5b2de620a4a60915cc65] Whether the person requesting the issue of the guarantee of origin is the producer of the electricity in respect of which the guarantee of origin is requested and, if not, the name and address (if a body corporate, the registered or principal office) and, if a company, the registered number, of the producer.
 
-**4.**[^key-26ef753aa26a025f6ad09618fa0f4cbb] The energy source or sources from which the electricity in respect of which the guarantee of origin is requested was produced.
+**4.**[^c-26ef753aa26a025f6ad09618fa0f4cbb] The energy source or sources from which the electricity in respect of which the guarantee of origin is requested was produced.
 
-**5.**[^key-79c241f15b3747b95dcf78df8a5ce12c] The beginning and end of the period covered by the request.
+**5.**[^c-79c241f15b3747b95dcf78df8a5ce12c] The beginning and end of the period covered by the request.
 
-**6.**[^key-866fd297b1e205bcd8717bc6bc6887d6] The place where the electricity in respect of which the guarantee of origin is requested was produced, and the name, if any, of the plant.
+**6.**[^c-866fd297b1e205bcd8717bc6bc6887d6] The place where the electricity in respect of which the guarantee of origin is requested was produced, and the name, if any, of the plant.
 
-**7.**[^key-dc6f9994306b77c51184c8ff845bf723] Where the electricity in respect of which the guarantee of origin is requested was produced in a plant which is a hydroelectric installation, the declared net capacity of the installation.
+**7.**[^c-dc6f9994306b77c51184c8ff845bf723] Where the electricity in respect of which the guarantee of origin is requested was produced in a plant which is a hydroelectric installation, the declared net capacity of the installation.
 
-**8.**[^key-679deadc40951b04de70842227260841] The quantity of electricity in respect of which the guarantee of origin is requested, together with the total quantity of electricity produced by the plant during the period referred to in paragraph 5.
+**8.**[^c-679deadc40951b04de70842227260841] The quantity of electricity in respect of which the guarantee of origin is requested, together with the total quantity of electricity produced by the plant during the period referred to in paragraph 5.
 
-**9.**[^key-2b8ed418346abe8e1445a234cabfd4ec] Such further information or evidence as the Authority may, in the particular circumstances of the case, reasonably require for the purpose of ascertaining the accuracy of the information required to be provided under paragraphs 1 to 8 or to enable it to be satisfied that any energy source specified in paragraph 4 is a renewable energy source.
+**9.**[^c-2b8ed418346abe8e1445a234cabfd4ec] Such further information or evidence as the Authority may, in the particular circumstances of the case, reasonably require for the purpose of ascertaining the accuracy of the information required to be provided under paragraphs 1 to 8 or to enable it to be satisfied that any energy source specified in paragraph 4 is a renewable energy source.
 
 ## SCHEDULE 2 — INFORMATION TO BE CONTAINED ON THE REGISTER
 
 Regulations 2(1) and 7(1)
 
-### 1. Registered particulars[^key-d8e50d72326e14b7eee6c8b3997054dc]
+### 1. Registered particulars[^c-d8e50d72326e14b7eee6c8b3997054dc]
 
 In relation to each guarantee of origin issued in accordance with regulation 6 –
 
@@ -230,7 +230,7 @@ In relation to each guarantee of origin issued in accordance with regulation 6 �
 - (e) the place where the electricity to which the guarantee of origin relates was produced and the name, if any, of the plant;
 - (f) where the electricity to which the guarantee of origin relates was produced in a plant which is a hydroelectric installation, the declared net capacity of the installation.
 
-### 2. Other information[^key-1a1c890072ba791a0ecf96d2cfe05352]
+### 2. Other information[^c-1a1c890072ba791a0ecf96d2cfe05352]
 
 In relation to each guarantee of origin issued in accordance with regulation 6 –
 
@@ -238,7 +238,7 @@ In relation to each guarantee of origin issued in accordance with regulation 6 �
 - (b) a statement as to whether the electricity in respect of which the guarantee of origin has been issued is eligible for a levy exemption certificate;
 - (c) the date of issue of the guarantee of origin.
 
-**3.**[^key-83fa17770c9039f0f71e32ba204ff99d] A list of guarantees of origin that have been revoked under regulation 8, including the dates of revocation.
+**3.**[^c-83fa17770c9039f0f71e32ba204ff99d] A list of guarantees of origin that have been revoked under regulation 8, including the dates of revocation.
 
 (This note is not part of the Regulations.)
 
@@ -264,9 +264,9 @@ Regulation 9 provides for the recognition of, and the refusal to recognise, guar
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-616b78910a405345f18557c57b02de4f]: Commencement: Reg. 1 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-616b78910a405345f18557c57b02de4f]: Commencement: Reg. 1 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-f54f7ba7ded4335178d9cbfa85cfcdd6]: Commencement: Reg. 2 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-f54f7ba7ded4335178d9cbfa85cfcdd6]: Commencement: Reg. 2 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
 [^f00003]: Footnote: S.I. [2003/419 (N.I. 6)](https://www.legislation.gov.uk/nisi/2003/419)
 
@@ -282,42 +282,42 @@ Regulation 9 provides for the recognition of, and the refusal to recognise, guar
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c7c42fc498aa7a1d3a686362cacf5355]: Commencement: Reg. 3 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-c7c42fc498aa7a1d3a686362cacf5355]: Commencement: Reg. 3 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-4f014c08837a6e926e3a4e95e2a58ded]: Commencement: Reg. 4 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-4f014c08837a6e926e3a4e95e2a58ded]: Commencement: Reg. 4 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-98c54c18ab10f7e944edc07a9a702613]: Commencement: Reg. 5 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-98c54c18ab10f7e944edc07a9a702613]: Commencement: Reg. 5 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-b262e24449bdfc88ee9f9d6b2834b856]: Commencement: Reg. 6 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-b262e24449bdfc88ee9f9d6b2834b856]: Commencement: Reg. 6 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-100d109be9fbebf11e9f71e06b01aab6]: Commencement: Reg. 7 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-100d109be9fbebf11e9f71e06b01aab6]: Commencement: Reg. 7 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-29988a24c76c853a920b657607675b74]: Commencement: Reg. 8 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-29988a24c76c853a920b657607675b74]: Commencement: Reg. 8 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-20bea4fd30094046b5568ef2e1dcddae]: Commencement: Reg. 9 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-20bea4fd30094046b5568ef2e1dcddae]: Commencement: Reg. 9 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-ef03c47427d463633573e1a83cd7618a]: Commencement: Reg. 10 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-ef03c47427d463633573e1a83cd7618a]: Commencement: Reg. 10 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-e40f3161dc798daaa74be1b8a04d03b6]: Commencement: Sch. 1 para. 1 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-e40f3161dc798daaa74be1b8a04d03b6]: Commencement: Sch. 1 para. 1 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-81dd09fac0015b76bf1bab57924b6761]: Commencement: Sch. 1 para. 2 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-81dd09fac0015b76bf1bab57924b6761]: Commencement: Sch. 1 para. 2 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-d3028566e08d5b2de620a4a60915cc65]: Commencement: Sch. 1 para. 3 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-d3028566e08d5b2de620a4a60915cc65]: Commencement: Sch. 1 para. 3 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-26ef753aa26a025f6ad09618fa0f4cbb]: Commencement: Sch. 1 para. 4 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-26ef753aa26a025f6ad09618fa0f4cbb]: Commencement: Sch. 1 para. 4 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-79c241f15b3747b95dcf78df8a5ce12c]: Commencement: Sch. 1 para. 5 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-79c241f15b3747b95dcf78df8a5ce12c]: Commencement: Sch. 1 para. 5 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-866fd297b1e205bcd8717bc6bc6887d6]: Commencement: Sch. 1 para. 6 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-866fd297b1e205bcd8717bc6bc6887d6]: Commencement: Sch. 1 para. 6 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-dc6f9994306b77c51184c8ff845bf723]: Commencement: Sch. 1 para. 7 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-dc6f9994306b77c51184c8ff845bf723]: Commencement: Sch. 1 para. 7 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-679deadc40951b04de70842227260841]: Commencement: Sch. 1 para. 8 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-679deadc40951b04de70842227260841]: Commencement: Sch. 1 para. 8 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-2b8ed418346abe8e1445a234cabfd4ec]: Commencement: Sch. 1 para. 9 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-2b8ed418346abe8e1445a234cabfd4ec]: Commencement: Sch. 1 para. 9 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-d8e50d72326e14b7eee6c8b3997054dc]: Commencement: Sch. 2 para. 1 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-d8e50d72326e14b7eee6c8b3997054dc]: Commencement: Sch. 2 para. 1 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-1a1c890072ba791a0ecf96d2cfe05352]: Commencement: Sch. 2 para. 2 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-1a1c890072ba791a0ecf96d2cfe05352]: Commencement: Sch. 2 para. 2 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
 
-[^key-83fa17770c9039f0f71e32ba204ff99d]: Commencement: Sch. 2 para. 3 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)
+[^c-83fa17770c9039f0f71e32ba204ff99d]: Commencement: Sch. 2 para. 3 in operation at 25.11.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/470/regulation/1)

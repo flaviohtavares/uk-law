@@ -77,7 +77,7 @@ Any assignment of, or charge on, and any agreement to assign or charge, any paym
 
 - “**civil defence organisation**” means any organisation established for civil defence purposes which is declared by a scheme to be a civil defence organisation for the purpose of this Act and the scheme;
 - “**civil defence volunteer,**” in relation to an injury, means a person certified by a responsible officer of a civil defence organisation to have been a member of that organisation at the time when the injury was sustained;
-- [^key-efa26da0658f1f1563650070958e45fd]...
+- [^c-efa26da0658f1f1563650070958e45fd]...
 - “**gainfully occupied person**” means a person who is engaged in any trade, business, profession, office, employment or vocation and is wholly or substantially dependent thereon for a livelihood, or a person who, though temporarily unemployed, is normally so engaged and dependent;
 - “**the Minister**” means the Secretary of State[^c590481];
 - “**period of the present emergency**” means the period beginning with the commencement of this Act, and ending with such date as His Majesty may by Order in Council declare to be the date on which the emergency that was the occasion of the passing of this Act came to an end;
@@ -130,7 +130,7 @@ Any assignment of, or charge on, and any agreement to assign or charge, any paym
 
 [^c590480]: Modification: Definitions of “war injuries” and “war service injury” explained by [Pensions (Mercantile Marine) Act 1942 (c. 26)](https://www.legislation.gov.uk/ukpga/1942/26), [s. 5](https://www.legislation.gov.uk/ukpga/1942/26/section/5)
 
-[^key-efa26da0658f1f1563650070958e45fd]: Textual amendment: Words in s. 8(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)
+[^c-efa26da0658f1f1563650070958e45fd]: Textual amendment: Words in s. 8(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)
 
 [^c590481]: Textual amendment: Words substituted by virtue of [S.I. 1953/1198](https://www.legislation.gov.uk/uksi/1953/1198) (1953 I, p. 1228), arts. 2(c), 5(4), [Ministry of Social Security Act 1966 (c. 20)](https://www.legislation.gov.uk/ukpga/1966/20), [s. 2](https://www.legislation.gov.uk/ukpga/1966/20/section/2) and [S.I. 1968/1699](https://www.legislation.gov.uk/uksi/1968/1699), [arts. 2](https://www.legislation.gov.uk/uksi/1968/1699/article/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/1968/1699/article/5/4/a)
 

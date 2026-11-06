@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Friendly societies: application of enactments.[^key-dbb1b9432efb1aa0e4198e39df43082b]
+## 50. Friendly societies: application of enactments.[^c-dbb1b9432efb1aa0e4198e39df43082b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbb1b9432efb1aa0e4198e39df43082b]: Textual amendment: [S. 50](https://www.legislation.gov.uk/ukpga/1990/29/section/50) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/a/ii)
+[^c-dbb1b9432efb1aa0e4198e39df43082b]: Textual amendment: [S. 50](https://www.legislation.gov.uk/ukpga/1990/29/section/50) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/a/ii)

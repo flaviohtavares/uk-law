@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41A. Suspension of duty: registration of persons and premises.[^key-430dd7e5be06a7dafbc64a20c5399689]
+## 41A. Suspension of duty: registration of persons and premises.[^c-430dd7e5be06a7dafbc64a20c5399689]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-430dd7e5be06a7dafbc64a20c5399689]: Textual amendment: Act repealed (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [ss. 113(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/113/1), [120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2); [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/i) (with [regs. 3(1)](https://www.legislation.gov.uk/uksi/2023/884/regulation/3/1), [4](https://www.legislation.gov.uk/uksi/2023/884/regulation/4), [9](https://www.legislation.gov.uk/uksi/2023/884/regulation/9), [10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-430dd7e5be06a7dafbc64a20c5399689]: Textual amendment: Act repealed (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [ss. 113(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/113/1), [120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2); [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/i) (with [regs. 3(1)](https://www.legislation.gov.uk/uksi/2023/884/regulation/3/1), [4](https://www.legislation.gov.uk/uksi/2023/884/regulation/4), [9](https://www.legislation.gov.uk/uksi/2023/884/regulation/9), [10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

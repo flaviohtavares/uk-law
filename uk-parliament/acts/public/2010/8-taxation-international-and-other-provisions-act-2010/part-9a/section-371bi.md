@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371BI. Banking companies[^key-116d824b327f3a5b45975b50e8058074][^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371BI. Banking companies[^c-116d824b327f3a5b45975b50e8058074][^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,6 +82,6 @@ where—
 
 ## Annotations
 
-[^key-116d824b327f3a5b45975b50e8058074]: Textual amendment: S. 371BI inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/9)
+[^c-116d824b327f3a5b45975b50e8058074]: Textual amendment: S. 371BI inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/9)
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))

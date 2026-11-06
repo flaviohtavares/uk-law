@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57A. Irresponsible drinks promotions[^key-c4c18fc84cf1ec4a730242abbcd94d9d]
+## 57A. Irresponsible drinks promotions[^c-c4c18fc84cf1ec4a730242abbcd94d9d]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4c18fc84cf1ec4a730242abbcd94d9d]: Textual amendment: Art. 57A inserted (1.1.2013 for specified purposes) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 4](https://www.legislation.gov.uk/nia/2011/18/section/4), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/405](https://www.legislation.gov.uk/nisr/2012/405), [art. 2](https://www.legislation.gov.uk/nisr/2012/405/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/405/schedule)
+[^c-c4c18fc84cf1ec4a730242abbcd94d9d]: Textual amendment: Art. 57A inserted (1.1.2013 for specified purposes) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 4](https://www.legislation.gov.uk/nia/2011/18/section/4), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/405](https://www.legislation.gov.uk/nisr/2012/405), [art. 2](https://www.legislation.gov.uk/nisr/2012/405/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/405/schedule)

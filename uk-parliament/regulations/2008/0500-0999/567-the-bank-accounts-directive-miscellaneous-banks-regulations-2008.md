@@ -32,7 +32,7 @@ summary: ''
 
 Banks And Banking
 
-The Bank Accounts Directive (Miscellaneous Banks) Regulations 2008 (revoked)[^key-1d1ab5b38cfd347019b3c4993d138582]
+The Bank Accounts Directive (Miscellaneous Banks) Regulations 2008 (revoked)[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 Made
 
@@ -46,114 +46,114 @@ Coming into force
 
 6th April 2008
 
-[^key-1d1ab5b38cfd347019b3c4993d138582]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d1ab5b38cfd347019b3c4993d138582]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — INTRODUCTION[^key-1d1ab5b38cfd347019b3c4993d138582]
+## PART 1 — INTRODUCTION[^c-1d1ab5b38cfd347019b3c4993d138582]
 
-### 1. Citation, commencement and application[^key-1d1ab5b38cfd347019b3c4993d138582]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-1d1ab5b38cfd347019b3c4993d138582]
+### 1. Citation, commencement and application[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Meaning of “qualifying bank”[^key-1d1ab5b38cfd347019b3c4993d138582]
+### 2. Interpretation[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — ACCOUNTS[^key-1d1ab5b38cfd347019b3c4993d138582]
-
-### 4. Preparation of accounts[^key-1d1ab5b38cfd347019b3c4993d138582]
+### 3. Meaning of “qualifying bank”[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Publication of accounts[^key-1d1ab5b38cfd347019b3c4993d138582]
+## PART 2 — ACCOUNTS[^c-1d1ab5b38cfd347019b3c4993d138582]
+
+### 4. Preparation of accounts[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Penalties for non-compliance (accounts)[^key-1d1ab5b38cfd347019b3c4993d138582]
+### 5. Publication of accounts[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — AUDITORS[^key-1d1ab5b38cfd347019b3c4993d138582]
-
-### 7. Appointment of auditor[^key-1d1ab5b38cfd347019b3c4993d138582]
+### 6. Penalties for non-compliance (accounts)[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Functions of auditor[^key-1d1ab5b38cfd347019b3c4993d138582]
+## PART 3 — AUDITORS[^c-1d1ab5b38cfd347019b3c4993d138582]
+
+### 7. Appointment of auditor[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Signature of auditor's report[^key-1d1ab5b38cfd347019b3c4993d138582]
+### 8. Functions of auditor[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Removal of auditor on improper grounds[^key-1d1ab5b38cfd347019b3c4993d138582]
+### 9. Signature of auditor's report[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Duty of auditor to notify appropriate audit authority[^key-1d1ab5b38cfd347019b3c4993d138582]
+### 10. Removal of auditor on improper grounds[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Duty of qualifying bank to notify appropriate audit authority[^key-1d1ab5b38cfd347019b3c4993d138582]
+### 11. Duty of auditor to notify appropriate audit authority[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Penalties for non-compliance (notification of appropriate audit authority)[^key-1d1ab5b38cfd347019b3c4993d138582]
+### 12. Duty of qualifying bank to notify appropriate audit authority[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — FINAL PROVISIONS[^key-1d1ab5b38cfd347019b3c4993d138582]
-
-### 14. Consequential amendment[^key-1d1ab5b38cfd347019b3c4993d138582]
+### 13. Penalties for non-compliance (notification of appropriate audit authority)[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Revocation and transitional provision[^key-1d1ab5b38cfd347019b3c4993d138582]
+## PART 4 — FINAL PROVISIONS[^c-1d1ab5b38cfd347019b3c4993d138582]
+
+### 14. Consequential amendment[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1d1ab5b38cfd347019b3c4993d138582]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 15. Revocation and transitional provision[^c-1d1ab5b38cfd347019b3c4993d138582]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1d1ab5b38cfd347019b3c4993d138582]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — MODIFICATIONS AND ADAPTATIONS OF THE COMPANIES ACT 2006 AND THE COMPANIES ACCOUNTS REGULATIONS[^key-1d1ab5b38cfd347019b3c4993d138582]
+## SCHEDULE — MODIFICATIONS AND ADAPTATIONS OF THE COMPANIES ACT 2006 AND THE COMPANIES ACCOUNTS REGULATIONS[^c-1d1ab5b38cfd347019b3c4993d138582]
 
 Regulation 4
 
-**1.**[^key-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-1d1ab5b38cfd347019b3c4993d138582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1d1ab5b38cfd347019b3c4993d138582]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d1ab5b38cfd347019b3c4993d138582]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1d1ab5b38cfd347019b3c4993d138582]: Textual amendment: Regulations revoked (with effect in accordance with reg. 19(2) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-1d1ab5b38cfd347019b3c4993d138582]: Textual amendment: Regulations revoked (with effect in accordance with reg. 19(2) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

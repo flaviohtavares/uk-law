@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 146. Power to make consequential and transitional provision etc.[^key-8f6aa6d075bb9b11cb62dfd882b1ec4a]
+## 146. Power to make consequential and transitional provision etc.[^c-8f6aa6d075bb9b11cb62dfd882b1ec4a]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f6aa6d075bb9b11cb62dfd882b1ec4a]: Commencement: S. 146 in force at 9.9.2022, see [s. 148(1)(a)](https://www.legislation.gov.uk/asc/2022/1/section/148/1/a)
+[^c-8f6aa6d075bb9b11cb62dfd882b1ec4a]: Commencement: S. 146 in force at 9.9.2022, see [s. 148(1)(a)](https://www.legislation.gov.uk/asc/2022/1/section/148/1/a)

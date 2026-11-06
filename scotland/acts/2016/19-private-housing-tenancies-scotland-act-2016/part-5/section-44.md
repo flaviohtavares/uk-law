@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. No termination by parties except in accordance with this Part[^key-7e7ff2abb1469aee77d0ab26885797b0]
+## 44. No termination by parties except in accordance with this Part[^c-7e7ff2abb1469aee77d0ab26885797b0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A tenancy which is a private residential tenancy may not be brought to an end by
 
 ## Annotations
 
-[^key-7e7ff2abb1469aee77d0ab26885797b0]: Commencement: S. 44 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-7e7ff2abb1469aee77d0ab26885797b0]: Commencement: S. 44 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Supply of forms[^key-31518f700af2bd226097abf798a3c52b]
+## 59. Supply of forms[^c-31518f700af2bd226097abf798a3c52b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.74 of the 1986 Rules[^f00025].
 
 ## Annotations
 
-[^key-31518f700af2bd226097abf798a3c52b]: Commencement: Rule 59 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-31518f700af2bd226097abf798a3c52b]: Commencement: Rule 59 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00025]: Footnote: Rule 4.74 was substituted by [S.I. 2004/584](https://www.legislation.gov.uk/uksi/2004/584).

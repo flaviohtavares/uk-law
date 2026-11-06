@@ -48,7 +48,7 @@ The Secretary of State has consulted the Building Regulations Advisory Committee
 
 The Secretary of State, in exercise of the powers conferred by section 1 of, and paragraphs 7, 8 and 10 of Schedule 1 to, the Building Act 1984, makes the following Regulations.
 
-## 1. Citation, extent, application and commencement[^key-99c5e5926906e0b44a17728d80555e66]
+## 1. Citation, extent, application and commencement[^c-99c5e5926906e0b44a17728d80555e66]
 
 (1) These Regulations may be cited as the Building etc. (Amendment) (England) Regulations 2022.
 
@@ -58,7 +58,7 @@ The Secretary of State, in exercise of the powers conferred by section 1 of, and
 
 (4) These Regulations come into force on 1st December 2022.
 
-## 2. Amendments to the Building Regulations 2010[^key-a3af94906961cfee0b464194df58f145]
+## 2. Amendments to the Building Regulations 2010[^c-a3af94906961cfee0b464194df58f145]
 
 (1) The Building Regulations 2010 are amended in accordance with the following provisions.
 
@@ -118,7 +118,7 @@ The Secretary of State, in exercise of the powers conferred by section 1 of, and
     ;
 - (d) in paragraph (4)(a)(iii) omit “(excluding any room in a hostel, hotel or boarding house)”.
 
-## 3. Other amendments[^key-e1febcd2b325c39d5b9c10046a61b60d]
+## 3. Other amendments[^c-e1febcd2b325c39d5b9c10046a61b60d]
 
 (1) After regulation 1(3) of the Building Regulations etc. (Amendment) (England) Regulations 2021[^f00003] insert—
 
@@ -132,7 +132,7 @@ The Secretary of State, in exercise of the powers conferred by section 1 of, and
 
 .
 
-## 4. Transitional provisions[^key-8e5282b08d92b04f94485f7fa6676fd3]
+## 4. Transitional provisions[^c-8e5282b08d92b04f94485f7fa6676fd3]
 
 (1) The amendments made by regulation 2 do not apply in any case where a building notice or initial notice has been given to, or full plans deposited with, a local authority before the day these Regulations come into force and either the building work to which it relates—
 
@@ -181,16 +181,16 @@ Copies of the British Standard referred to in these Regulations can be obtained 
 
 [^f00001]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55). Section 1 was amended by section 1(1) of the Sustainable and Secure Buildings Act [2004 (c. 22)](https://www.legislation.gov.uk/ukpga/2004/22). Section 14(3) was amended by [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019).
 
-[^key-99c5e5926906e0b44a17728d80555e66]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/603/regulation/1) in force at 1.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/603/regulation/1/4)
+[^c-99c5e5926906e0b44a17728d80555e66]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/603/regulation/1) in force at 1.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/603/regulation/1/4)
 
 [^f00002]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214). Relevant amendments are made by S.I.s [2011/1515](https://www.legislation.gov.uk/uksi/2011/1515), [2012/718](https://www.legislation.gov.uk/uksi/2012/718), [2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [2013/10](https://www.legislation.gov.uk/uksi/2013/10), [2013/747](https://www.legislation.gov.uk/uksi/2013/747), [2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [2014/579](https://www.legislation.gov.uk/uksi/2014/579), [2015/767](https://www.legislation.gov.uk/uksi/2015/767), [2016/285](https://www.legislation.gov.uk/uksi/2016/285), [2016/361](https://www.legislation.gov.uk/uksi/2016/361) and [2018/1230](https://www.legislation.gov.uk/uksi/2018/1230).
 
-[^key-a3af94906961cfee0b464194df58f145]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/603/regulation/2) in force at 1.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/603/regulation/1/4)
+[^c-a3af94906961cfee0b464194df58f145]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/603/regulation/2) in force at 1.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/603/regulation/1/4)
 
-[^key-e1febcd2b325c39d5b9c10046a61b60d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/603/regulation/3) in force at 1.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/603/regulation/1/4)
+[^c-e1febcd2b325c39d5b9c10046a61b60d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/603/regulation/3) in force at 1.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/603/regulation/1/4)
 
 [^f00003]: Footnote: [S.I. 2021/1391](https://www.legislation.gov.uk/uksi/2021/1391).
 
 [^f00004]: Footnote: [S.I. 2021/1392](https://www.legislation.gov.uk/uksi/2021/1392).
 
-[^key-8e5282b08d92b04f94485f7fa6676fd3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/603/regulation/4) in force at 1.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/603/regulation/1/4)
+[^c-8e5282b08d92b04f94485f7fa6676fd3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/603/regulation/4) in force at 1.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/603/regulation/1/4)

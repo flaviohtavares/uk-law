@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Unrecognised degrees[^key-1780a58d97ea82678ca39c966b23f3a6]
+## 53. Unrecognised degrees[^c-1780a58d97ea82678ca39c966b23f3a6]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1780a58d97ea82678ca39c966b23f3a6]: Commencement: S. 53 in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/f)
+[^c-1780a58d97ea82678ca39c966b23f3a6]: Commencement: S. 53 in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/f)

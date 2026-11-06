@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 644. Individuals to whom the remittance basis applies[^key-e6942258bb5dec8f80132aa3f895fd50]
+## 644. Individuals to whom the remittance basis applies[^c-e6942258bb5dec8f80132aa3f895fd50]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6942258bb5dec8f80132aa3f895fd50]: Textual amendment: S. 644 omitted (21.7.2008 with effect in accordance with Sch. 7 para. 160 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 158](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/158)
+[^c-e6942258bb5dec8f80132aa3f895fd50]: Textual amendment: S. 644 omitted (21.7.2008 with effect in accordance with Sch. 7 para. 160 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 158](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/158)

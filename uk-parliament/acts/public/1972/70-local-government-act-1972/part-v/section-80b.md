@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80B. Disqualification for being a member of a local authority in Wales and holding local office or employment[^key-cfb2c9d5e3292f9da2c8d4c0bea34abc]
+## 80B. Disqualification for being a member of a local authority in Wales and holding local office or employment[^c-cfb2c9d5e3292f9da2c8d4c0bea34abc]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfb2c9d5e3292f9da2c8d4c0bea34abc]: Textual amendment: [Ss. 80A-80C](https://www.legislation.gov.uk/ukpga/1972/70/section/80A) inserted (17.11.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 20](https://www.legislation.gov.uk/asc/2021/1/section/20), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/1249](https://www.legislation.gov.uk/uksi/2021/1249), [art. 2(a)](https://www.legislation.gov.uk/uksi/2021/1249/article/2/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2021/1249/article/4))
+[^c-cfb2c9d5e3292f9da2c8d4c0bea34abc]: Textual amendment: [Ss. 80A-80C](https://www.legislation.gov.uk/ukpga/1972/70/section/80A) inserted (17.11.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 20](https://www.legislation.gov.uk/asc/2021/1/section/20), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/1249](https://www.legislation.gov.uk/uksi/2021/1249), [art. 2(a)](https://www.legislation.gov.uk/uksi/2021/1249/article/2/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2021/1249/article/4))

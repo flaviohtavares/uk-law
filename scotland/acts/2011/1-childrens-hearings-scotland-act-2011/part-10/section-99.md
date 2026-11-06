@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Further extension or variation of interim compulsory supervision order[^key-8c3476416048b3fa31a30e0ce35963ac]
+## 99. Further extension or variation of interim compulsory supervision order[^c-8c3476416048b3fa31a30e0ce35963ac]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c3476416048b3fa31a30e0ce35963ac]: Commencement: S. 99 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-8c3476416048b3fa31a30e0ce35963ac]: Commencement: S. 99 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

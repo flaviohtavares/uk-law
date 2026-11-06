@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 254. Meaning of “subscription contract”[^key-7686f61b7e6d20725d09746a2d8444a3]
+## 254. Meaning of “subscription contract”[^c-7686f61b7e6d20725d09746a2d8444a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ and include references to a right that is expressed in terms of a right to stop 
 
 ## Annotations
 
-[^key-7686f61b7e6d20725d09746a2d8444a3]: Commencement: S. 254 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-7686f61b7e6d20725d09746a2d8444a3]: Commencement: S. 254 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

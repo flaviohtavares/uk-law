@@ -30,9 +30,9 @@ summary: ''
 - (b)[^c10496831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 29 of the [^c10496861]Criminal Justice (Scotland) Act 1987 (but in substitution for subsection (4));
 - (d) section 30 of the Act of 1987 (but in substitution for subsection (5));
-- (e)[^key-d32214ba245ffb620077817e2addbd6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-d32214ba245ffb620077817e2addbd6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-d32214ba245ffb620077817e2addbd6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-d32214ba245ffb620077817e2addbd6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-d32214ba245ffb620077817e2addbd6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-d32214ba245ffb620077817e2addbd6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) section 9 of the [^c10496881]Criminal Justice (International Co-operation) Act 1990 (but in substitution for subsection (5)).
 
 ## Annotations
@@ -45,6 +45,6 @@ summary: ''
 
 [^c10496861]: Marginal citation: [1987 c. 41](https://www.legislation.gov.uk/ukpga/1987/41).
 
-[^key-d32214ba245ffb620077817e2addbd6d]: Textual amendment: [S. 21(3)(e)-(g)](https://www.legislation.gov.uk/ukpga/1993/36/section/21/3/e) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
+[^c-d32214ba245ffb620077817e2addbd6d]: Textual amendment: [S. 21(3)(e)-(g)](https://www.legislation.gov.uk/ukpga/1993/36/section/21/3/e) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
 
 [^c10496881]: Marginal citation: [1990 c. 5](https://www.legislation.gov.uk/ukpga/1990/5).

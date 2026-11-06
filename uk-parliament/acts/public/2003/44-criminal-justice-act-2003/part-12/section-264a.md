@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 264A. Consecutive terms: intermittent custody[^key-f1732e13e0b0130df2176e131e9cb840]
+## 264A. Consecutive terms: intermittent custody[^c-f1732e13e0b0130df2176e131e9cb840]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1732e13e0b0130df2176e131e9cb840]: Textual amendment: S. 264A omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 33](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/33); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
+[^c-f1732e13e0b0130df2176e131e9cb840]: Textual amendment: S. 264A omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 33](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/33); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)

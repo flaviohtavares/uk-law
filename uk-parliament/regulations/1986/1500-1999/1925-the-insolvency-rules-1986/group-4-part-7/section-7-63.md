@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.63. Notice to member State liquidator and creditors in member States[^key-f71bd373b87d3753c5c1943b00046733]
+## 7.63. Notice to member State liquidator and creditors in member States[^c-f71bd373b87d3753c5c1943b00046733]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where the court has confirmed the creditors' voluntary winding up, the liquidato
 
 ## Annotations
 
-[^key-f71bd373b87d3753c5c1943b00046733]: Textual amendment: Pt. 7 Chs. 10, 11 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [9(1)](https://www.legislation.gov.uk/uksi/2002/1307/rule/9/1) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
+[^c-f71bd373b87d3753c5c1943b00046733]: Textual amendment: Pt. 7 Chs. 10, 11 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [9(1)](https://www.legislation.gov.uk/uksi/2002/1307/rule/9/1) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))

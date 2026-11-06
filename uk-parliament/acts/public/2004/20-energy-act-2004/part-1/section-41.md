@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Recovery of property from private ownership[^key-81bb879f700c1d2b317b66e92a89db20]
+## 41. Recovery of property from private ownership[^c-81bb879f700c1d2b317b66e92a89db20]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ of the property, rights and liabilities falling within subsection (3) that are s
 
 ## Annotations
 
-[^key-81bb879f700c1d2b317b66e92a89db20]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2004/20/section/41) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-81bb879f700c1d2b317b66e92a89db20]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2004/20/section/41) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

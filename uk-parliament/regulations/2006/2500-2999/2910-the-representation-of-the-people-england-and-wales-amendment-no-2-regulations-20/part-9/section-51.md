@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Amendment to procedure for the opening of covering envelopes[^key-bf85fb05c559dc7bcc6a0b5fbd69df8a]
+## 51. Amendment to procedure for the opening of covering envelopes[^c-bf85fb05c559dc7bcc6a0b5fbd69df8a]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ In regulation 84, after paragraph (4) insert—
 
 ## Annotations
 
-[^key-bf85fb05c559dc7bcc6a0b5fbd69df8a]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2006/2910/regulation/51) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-bf85fb05c559dc7bcc6a0b5fbd69df8a]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2006/2910/regulation/51) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

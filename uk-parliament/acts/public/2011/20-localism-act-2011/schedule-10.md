@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Process for making of neighbourhood development orders[^c2116714][^key-3b1c878fd13aedfa80f3ff4c450df727][^key-3a626fa36e74c2fd212243b93aa76539][^key-12ffe07695d7196160044bbf52e05836][^key-7eac74facb971404e2fcb5bf22889bc9]
+## SCHEDULE 10 — Process for making of neighbourhood development orders[^c2116714][^c-3b1c878fd13aedfa80f3ff4c450df727][^c-3a626fa36e74c2fd212243b93aa76539][^c-12ffe07695d7196160044bbf52e05836][^c-7eac74facb971404e2fcb5bf22889bc9]
 
 *Extent: E+W*
 
 Section 116
 
-[^key-7eac74facb971404e2fcb5bf22889bc9]
+[^c-7eac74facb971404e2fcb5bf22889bc9]
 
 This is the Schedule to be inserted as Schedule 4B to the Town and Country Planning Act 1990—
 
@@ -416,10 +416,10 @@ This is the Schedule to be inserted as Schedule 4B to the Town and Country Plann
 
 [^c2116714]: Commencement: Sch. 10 in force at Royal Assent for specified purposes see s. 240(5)(j)
 
-[^key-3b1c878fd13aedfa80f3ff4c450df727]: Commencement: Sch. 10 in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(h)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/h) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-3b1c878fd13aedfa80f3ff4c450df727]: Commencement: Sch. 10 in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(h)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/h) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-3a626fa36e74c2fd212243b93aa76539]: Commencement: Sch. 10 in force at 6.4.2012 for specified purposes by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(a)](https://www.legislation.gov.uk/uksi/2012/628/article/8/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-3a626fa36e74c2fd212243b93aa76539]: Commencement: Sch. 10 in force at 6.4.2012 for specified purposes by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(a)](https://www.legislation.gov.uk/uksi/2012/628/article/8/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
 
-[^key-12ffe07695d7196160044bbf52e05836]: Commencement: Sch. 10 in force at 3.8.2012 for specified purposes by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2029/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/2029/article/3/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2029/article/5)) (as amended (6.4.2013) by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), art. 4)
+[^c-12ffe07695d7196160044bbf52e05836]: Commencement: Sch. 10 in force at 3.8.2012 for specified purposes by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2029/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/2029/article/3/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2029/article/5)) (as amended (6.4.2013) by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), art. 4)
 
-[^key-7eac74facb971404e2fcb5bf22889bc9]: Commencement: Sch. 10 in force at 6.4.2013 in so far as not already in force by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/797/article/1/2), [2](https://www.legislation.gov.uk/uksi/2013/797/article/2)
+[^c-7eac74facb971404e2fcb5bf22889bc9]: Commencement: Sch. 10 in force at 6.4.2013 in so far as not already in force by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/797/article/1/2), [2](https://www.legislation.gov.uk/uksi/2013/797/article/2)

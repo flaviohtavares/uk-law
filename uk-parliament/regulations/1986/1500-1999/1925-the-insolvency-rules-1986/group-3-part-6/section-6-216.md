@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.216. Lifting of suspension of discharge[^key-7bab28ef2147ab16c9af6e7631dcab9f]
+## 6.216. Lifting of suspension of discharge[^c-7bab28ef2147ab16c9af6e7631dcab9f]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ If he files a notice under this paragraph, he shall send copies of it, not less 
 
 ## Annotations
 
-[^key-7bab28ef2147ab16c9af6e7631dcab9f]: Textual amendment: Rule 6.216 substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/48)
+[^c-7bab28ef2147ab16c9af6e7631dcab9f]: Textual amendment: Rule 6.216 substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/48)
 
 [^m00048]: Marginal citation: \[FORM 4.20\]
 

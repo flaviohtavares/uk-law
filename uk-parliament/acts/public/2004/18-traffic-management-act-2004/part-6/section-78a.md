@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78A. Notification of penalty charge: parking contraventions in England[^key-1cb0fa3e932b4a60d52c278cfdec6d9f]
+## 78A. Notification of penalty charge: parking contraventions in England[^c-1cb0fa3e932b4a60d52c278cfdec6d9f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cb0fa3e932b4a60d52c278cfdec6d9f]: Textual amendment: [S. 78A](https://www.legislation.gov.uk/ukpga/2004/18/section/78A) inserted (26.3.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 53(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/53/2), [115(2)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/994/article/2/b)
+[^c-1cb0fa3e932b4a60d52c278cfdec6d9f]: Textual amendment: [S. 78A](https://www.legislation.gov.uk/ukpga/2004/18/section/78A) inserted (26.3.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 53(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/53/2), [115(2)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/994/article/2/b)

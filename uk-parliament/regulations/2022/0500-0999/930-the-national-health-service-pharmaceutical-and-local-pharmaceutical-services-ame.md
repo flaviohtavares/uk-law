@@ -48,7 +48,7 @@ The Secretary of State for Health and Social Care, in exercise of the powers con
 
 At the time these Regulations are made, the Secretary of State for Health and Social Care considers, for the purposes of section 164(8A)(c) of that Act, coronavirus to be a pandemic disease.
 
-## 1. Citation, commencement, extent and application[^key-edcc35a529b940ae5c7c418176a9cd0d]
+## 1. Citation, commencement, extent and application[^c-edcc35a529b940ae5c7c418176a9cd0d]
 
 (1) These Regulations may be cited as the National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2022.
 
@@ -56,11 +56,11 @@ At the time these Regulations are made, the Secretary of State for Health and So
 
 (3) These Regulations extend to England and Wales and apply in relation to England only.
 
-## 2. Amendment of the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013[^key-fce8e9a89370d38ba51ff08803b1896a]
+## 2. Amendment of the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013[^c-fce8e9a89370d38ba51ff08803b1896a]
 
 The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013[^f00002] are amended in accordance with regulations 3 to 8.
 
-## 3. Amendment of regulation 2[^key-25ab15bdfbb80f57ad81b57b0e1dd3eb]
+## 3. Amendment of regulation 2[^c-25ab15bdfbb80f57ad81b57b0e1dd3eb]
 
 In regulation 2[^f00003] (interpretation), in paragraph (1), at the appropriate place in the alphabetical order insert—
 
@@ -68,7 +68,7 @@ In regulation 2[^f00003] (interpretation), in paragraph (1), at the appropriate 
 
 .
 
-## 4. Amendment of regulation 10[^key-9bfc3ab5fb3f1b7e798877ab2f44dc08]
+## 4. Amendment of regulation 10[^c-9bfc3ab5fb3f1b7e798877ab2f44dc08]
 
 (1) In regulation 10[^f00005] (pharmaceutical lists and EPS lists)—
 
@@ -77,7 +77,7 @@ In regulation 2[^f00003] (interpretation), in paragraph (1), at the appropriate 
 
 (2) Omit “and EPS lists” from the heading of regulation 10.
 
-## 5. New regulation 91A[^key-5e6cddf3e2422ac2604b59ed1109961f]
+## 5. New regulation 91A[^c-5e6cddf3e2422ac2604b59ed1109961f]
 
 After regulation 91 (remuneration of NHS chemists: instruments of appointment of NHS England) insert—
 
@@ -124,7 +124,7 @@ After regulation 91 (remuneration of NHS chemists: instruments of appointment of
 
 .
 
-## 6. Amendment of Schedule 2[^key-8ad95999528c2c1be15be0f5896c18bf]
+## 6. Amendment of Schedule 2[^c-8ad95999528c2c1be15be0f5896c18bf]
 
 (1) Schedule 2 (applications in respect of pharmaceutical lists and the procedures to be followed) is amended as follows.
 
@@ -152,7 +152,7 @@ After regulation 91 (remuneration of NHS chemists: instruments of appointment of
 
 (3) In Part 3 (notification of certain applications), in paragraph 19[^f00007] (notification procedure for notifiable applications), in sub-paragraph (4), after “given to them” insert “, or within 30 days in the case of applications pursuant to regulation 26A”.
 
-## 7. Amendment of Schedule 3[^key-3c8fc4ea90965165d06e464cc7dbd930]
+## 7. Amendment of Schedule 3[^c-3c8fc4ea90965165d06e464cc7dbd930]
 
 In Schedule 3 (appeals to the Secretary of State), in Part 3 (determination of appeals), in paragraph 7 (flexibility with regard to the manner or determining appeals), after sub-paragraph (3) insert—
 
@@ -167,7 +167,7 @@ In Schedule 3 (appeals to the Secretary of State), in Part 3 (determination of a
 
 .
 
-## 8. Amendment of Schedule 4[^key-0d9c6e922c60cede19a9f52c3b1a0efe]
+## 8. Amendment of Schedule 4[^c-0d9c6e922c60cede19a9f52c3b1a0efe]
 
 (1) Schedule 4 (terms of service of NHS pharmacists) is amended as follows.
 
@@ -214,32 +214,32 @@ A full impact assessment has not been undertaken in relation to this instrument 
 
 [^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Section 126 has been amended by: the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“**the 2012 Act**”), sections 213(7)(k) and 220(7), and Schedule 4, paragraph 63; the Children and Social Work Act [2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), Schedule 5, paragraph 30 and 47(j), and the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31) (“**the 2022 Act**”), Schedule 1, paragraph 1. Section 129 has been amended by: the Health Act [2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), sections 26 and 27, and Schedule 6; the 2012 Act, section 207(1) to (9), and Schedule 4, paragraph 66; the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), Schedule 9, paragraphs 120 and 121; the 2022 Act, Schedule 1, paragraph 1: and [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231). Section 164 has been amended by: the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), section 141(1) and Schedule 15, Part 4; the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), Schedule 4, paragraph 89(3); the Health Service Medical Supplies (Costs) Act [2017 (c. 23)](https://www.legislation.gov.uk/ukpga/2017/23), section 1; and the 2022 Act, section 161(1), and Schedule 1, paragraph 1. *See* section 275(1) of the National Health Service Act 2006 for the meanings given to “prescribed” and “regulations”, which are relevant to the powers being exercised.
 
-[^key-edcc35a529b940ae5c7c418176a9cd0d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/930/regulation/1) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
+[^c-edcc35a529b940ae5c7c418176a9cd0d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/930/regulation/1) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
 
-[^key-fce8e9a89370d38ba51ff08803b1896a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/930/regulation/2) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
+[^c-fce8e9a89370d38ba51ff08803b1896a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/930/regulation/2) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2013/349](https://www.legislation.gov.uk/uksi/2013/349), as amended.
 
-[^key-25ab15bdfbb80f57ad81b57b0e1dd3eb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/930/regulation/3) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
+[^c-25ab15bdfbb80f57ad81b57b0e1dd3eb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/930/regulation/3) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
 
 [^f00003]: Footnote: Amended by [S.I. 2015/137](https://www.legislation.gov.uk/uksi/2015/137), [570](https://www.legislation.gov.uk/uksi/2015/570), [1862](https://www.legislation.gov.uk/uksi/2015/1862) and [1879](https://www.legislation.gov.uk/uksi/2015/1879), [2016/696](https://www.legislation.gov.uk/uksi/2016/696) and [1077](https://www.legislation.gov.uk/uksi/2016/1077), [2018/1114](https://www.legislation.gov.uk/uksi/2018/1114), [2019/593](https://www.legislation.gov.uk/uksi/2019/593), [990](https://www.legislation.gov.uk/uksi/2019/990) and [1094](https://www.legislation.gov.uk/uksi/2019/1094), [2020/351](https://www.legislation.gov.uk/uksi/2020/351) and [1126](https://www.legislation.gov.uk/uksi/2020/1126), [2021/169](https://www.legislation.gov.uk/uksi/2021/169) and [1346](https://www.legislation.gov.uk/uksi/2021/1346) and [2022/634](https://www.legislation.gov.uk/uksi/2022/634).
 
 [^f00004]: Footnote: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-9bfc3ab5fb3f1b7e798877ab2f44dc08]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/930/regulation/4) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
+[^c-9bfc3ab5fb3f1b7e798877ab2f44dc08]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/930/regulation/4) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
 
 [^f00005]: Footnote: Amended by [S.I. 2016/1077](https://www.legislation.gov.uk/uksi/2016/1077).
 
-[^key-5e6cddf3e2422ac2604b59ed1109961f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/930/regulation/5) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
+[^c-5e6cddf3e2422ac2604b59ed1109961f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/930/regulation/5) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
 
 [^f00006]: Footnote: Section 164 of the National Health Service Act [2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41) has been amended by: the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), section 141(1) and Schedule 15, Part 4: the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), Schedule 4, paragraph 89(3); the Health Service Medical Supplies (Costs) Act [2017 (c. 23)](https://www.legislation.gov.uk/ukpga/2017/23), section 1; and the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), section 161(1), and Schedule 1, paragraph 1.
 
-[^key-8ad95999528c2c1be15be0f5896c18bf]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/930/regulation/6) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
+[^c-8ad95999528c2c1be15be0f5896c18bf]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/930/regulation/6) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
 
 [^f00007]: Footnote: To which there is an amendment not relevant to these Regulations.
 
-[^key-3c8fc4ea90965165d06e464cc7dbd930]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/930/regulation/7) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
+[^c-3c8fc4ea90965165d06e464cc7dbd930]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/930/regulation/7) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
 
-[^key-0d9c6e922c60cede19a9f52c3b1a0efe]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/930/regulation/8) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
+[^c-0d9c6e922c60cede19a9f52c3b1a0efe]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/930/regulation/8) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2)
 
 [^f00008]: Footnote: Amended by [S.I. 2015/528](https://www.legislation.gov.uk/uksi/2015/528), [2016/1077](https://www.legislation.gov.uk/uksi/2016/1077), [2020/1126](https://www.legislation.gov.uk/uksi/2020/1126) and [2021/1346](https://www.legislation.gov.uk/uksi/2021/1346).

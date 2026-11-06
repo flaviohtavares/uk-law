@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Court reviews: restrictions regarding damages[^key-50e8dfd8bb6479a5fedc9492af587d24]
+## 64. Court reviews: restrictions regarding damages[^c-50e8dfd8bb6479a5fedc9492af587d24]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50e8dfd8bb6479a5fedc9492af587d24]: Commencement: S. 64 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-50e8dfd8bb6479a5fedc9492af587d24]: Commencement: S. 64 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72A. Default power of Secretary of State[^key-1579f6f262811e1abde47ac42ebb5aa2]
+## 72A. Default power of Secretary of State[^c-1579f6f262811e1abde47ac42ebb5aa2]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1579f6f262811e1abde47ac42ebb5aa2]: Textual amendment: [Ss. 72A](https://www.legislation.gov.uk/ukpga/2014/23/section/72A), [72B](https://www.legislation.gov.uk/ukpga/2014/23/section/72B) and cross-heading inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/164/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/f)
+[^c-1579f6f262811e1abde47ac42ebb5aa2]: Textual amendment: [Ss. 72A](https://www.legislation.gov.uk/ukpga/2014/23/section/72A), [72B](https://www.legislation.gov.uk/ukpga/2014/23/section/72B) and cross-heading inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/164/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/f)

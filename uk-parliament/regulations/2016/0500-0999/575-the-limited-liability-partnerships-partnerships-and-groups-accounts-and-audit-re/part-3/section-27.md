@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Amendments to the Small Limited Liability Partnerships (Accounts) Regulations 2008[^key-72cc777f6ce396e1ef65377d8bb31079]
+## 27. Amendments to the Small Limited Liability Partnerships (Accounts) Regulations 2008[^c-72cc777f6ce396e1ef65377d8bb31079]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Small Limited Liability Partnerships (Accounts) Regulations 2008[^f00041] ar
 
 ## Annotations
 
-[^key-72cc777f6ce396e1ef65377d8bb31079]: Commencement: Reg. 27 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-72cc777f6ce396e1ef65377d8bb31079]: Commencement: Reg. 27 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00041]: Footnote: [S.I. 2008/1912](https://www.legislation.gov.uk/uksi/2008/1912).

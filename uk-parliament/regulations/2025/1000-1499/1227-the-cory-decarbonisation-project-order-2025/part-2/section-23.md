@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Protective works to buildings[^key-e40347d3daf3930f04e487f1b6e18df8]
+## 23. Protective works to buildings[^c-e40347d3daf3930f04e487f1b6e18df8]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ the undertaker must compensate the owners and occupiers of the building or struc
 
 ## Annotations
 
-[^key-e40347d3daf3930f04e487f1b6e18df8]: Commencement: Art. 23 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-e40347d3daf3930f04e487f1b6e18df8]: Commencement: Art. 23 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

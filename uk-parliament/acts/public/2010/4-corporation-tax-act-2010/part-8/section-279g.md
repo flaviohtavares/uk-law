@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 279G. “Augmented profits”[^key-f9df4cec71a094d2372612315d40bfdb]
+## 279G. “Augmented profits”[^c-f9df4cec71a094d2372612315d40bfdb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9df4cec71a094d2372612315d40bfdb]: Textual amendment: Ss. 279F-279H omitted (with effect in accordance with Sch. 1 para. 34 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/11)
+[^c-f9df4cec71a094d2372612315d40bfdb]: Textual amendment: Ss. 279F-279H omitted (with effect in accordance with Sch. 1 para. 34 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/11)

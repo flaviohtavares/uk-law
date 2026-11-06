@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. Excluded activities: leasing of ships[^key-2535311bc23a03546108f9cf71b24c36]
+## 194. Excluded activities: leasing of ships[^c-2535311bc23a03546108f9cf71b24c36]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ do not, taken together, amount to a substantial part of the trade.
 
 ## Annotations
 
-[^key-2535311bc23a03546108f9cf71b24c36]: Modification: S. 194 applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/45) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2535311bc23a03546108f9cf71b24c36]: Modification: S. 194 applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/45) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

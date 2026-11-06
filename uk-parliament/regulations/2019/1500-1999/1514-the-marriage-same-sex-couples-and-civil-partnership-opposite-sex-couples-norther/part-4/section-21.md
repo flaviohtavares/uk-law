@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Fatherhood[^key-8461ad944486e9b7043731b390fdba36]
+## 21. Fatherhood[^c-8461ad944486e9b7043731b390fdba36]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In section 2(1)(a) of the Family Law Act (Northern Ireland) 2001[^f00022] (presu
 
 ## Annotations
 
-[^key-8461ad944486e9b7043731b390fdba36]: Commencement: Reg. 21 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-8461ad944486e9b7043731b390fdba36]: Commencement: Reg. 21 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00022]: Footnote: [2001 c.12 (N.I.)](https://www.legislation.gov.uk/nia/2001/12).

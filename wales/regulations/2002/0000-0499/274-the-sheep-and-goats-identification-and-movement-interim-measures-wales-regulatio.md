@@ -51,10 +51,10 @@ The National Assembly for Wales, being designated[^c9931101] for the purposes of
 
 ## 2. Interpretation
 
-(1) In these Regulations [^key-944e4f9bef9ae2502f5fe0a491420a51]...—
+(1) In these Regulations [^c-944e4f9bef9ae2502f5fe0a491420a51]...—
 
-- “assembly centre” means an assembly centre approved by the National Assembly for Wales in accordance with regulation 12(2) of the Animals and Animal Products (Import and Export) (England and Wales) Regulation 2000;[^key-6c78e64d57a621360121f1aba5028d26]
-- “collecting centre” means any premises used for the intermediate reception of animals intended to be moved elsewhere but not including any place used, whether as a market or otherwise for the trading of animals and not including an assembly centre[^key-9243c5558e541b1dbbde69492bafd4c9];
+- “assembly centre” means an assembly centre approved by the National Assembly for Wales in accordance with regulation 12(2) of the Animals and Animal Products (Import and Export) (England and Wales) Regulation 2000;[^c-6c78e64d57a621360121f1aba5028d26]
+- “collecting centre” means any premises used for the intermediate reception of animals intended to be moved elsewhere but not including any place used, whether as a market or otherwise for the trading of animals and not including an assembly centre[^c-9243c5558e541b1dbbde69492bafd4c9];
 - “flockmark” means the sheep flockmark allocated by the National Assembly under regulation 3;
 - “F Mark” means an F Mark in accordance with regulation 6(1) and (4);
 - “goat” means a live goat;
@@ -72,7 +72,7 @@ The National Assembly for Wales, being designated[^c9931101] for the purposes of
 - “show” means an occasion at which animals are exhibited but not solely for the purpose of sale;
 - “slaughterhouse” has the meaning given in regulation 2(1) of the Fresh Meat (Hygiene and Inspection) Regulations 1995 [^c9931131]
 - “sole occupancy group” has the meaning given in article 2 of the Disease Control (Interim Measures) (Wales) Order 2002 [^c9931141];
-- “temporary grazing land” means land to which sheep are moved for a temporary period for the purpose of being fed or pastured but which is not part of the holding where the sheep are usually kept;[^key-8ce377b1c97df0c3caca42932e1e1eab]
+- “temporary grazing land” means land to which sheep are moved for a temporary period for the purpose of being fed or pastured but which is not part of the holding where the sheep are usually kept;[^c-8ce377b1c97df0c3caca42932e1e1eab]
 - “temporary mark” means a temporary mark in accordance with regulation 6(11);
 - “veterinary treatment” means treatment, other procedure or castration, carried on by or under the supervision of a veterinary surgeon.
 
@@ -96,7 +96,7 @@ The National Assembly for Wales, being designated[^c9931101] for the purposes of
 
 ## 4. Sheep records
 
-(1) Any person keeping sheep on a holding (other than an assembly centre,[^key-35a9ef2acdf5cfa0cebf0f92ef21f3e4] market, show, slaughterhouse or collecting centre) must record, on or before 31st January in each year, the number of sheep on that holding on 1st January of that year.
+(1) Any person keeping sheep on a holding (other than an assembly centre,[^c-35a9ef2acdf5cfa0cebf0f92ef21f3e4] market, show, slaughterhouse or collecting centre) must record, on or before 31st January in each year, the number of sheep on that holding on 1st January of that year.
 
 (2) Within 36 hours of a sheep being moved onto or off a holding, the keeper must record—
 
@@ -109,8 +109,8 @@ The National Assembly for Wales, being designated[^c9931101] for the purposes of
   - (iv) where a sheep bears the maximum number of marks permitted under regulation 10, the individual identification number together with the mark which was applied at the same time as the individual identification number;
 - (d) in the case of a sheep moved onto the holding, the address of the holding from which it came; in the case of a sheep being moved off the holding, the address of the holding to which it is going;
 - (e) in the case of sheep moved from a market, the lot number (if any) allocated at the market;
-- (f) in the case of sheep moved to a show, an individual identification number together with the mark which was applied at the same time as the individual identification number; [^key-6bcc5ddb84003e80d63cd8efd8746b27]...
-- (ff)[^key-07dff44a267d1de4dc9301e6b61c1d7d] In the case of a sheep being moved to an assembly centre, the individual identification number (if more than one, the latest individual identification number applied); and
+- (f) in the case of sheep moved to a show, an individual identification number together with the mark which was applied at the same time as the individual identification number; [^c-6bcc5ddb84003e80d63cd8efd8746b27]...
+- (ff)[^c-07dff44a267d1de4dc9301e6b61c1d7d] In the case of a sheep being moved to an assembly centre, the individual identification number (if more than one, the latest individual identification number applied); and
 - (g) in the case of sheep being moved to a destination outside Great Britain, one of the following—
   - (i) an Origin Mark which includes the letters “UK”, and the individual identification number,
   - (ii) an F Mark which includes the letters “UK”, and the individual identification number, or
@@ -133,7 +133,7 @@ provided the keeper records the temporary mark applied to the sheep.
 
 (5) In the case of a sheep marked in accordance with regulation 11 or re-marked in accordance with regulation 13(2)(b) or (c), the keeper must, within 36 hours of marking or re-marking the sheep (as the case may be), record the new sheep flockmark and the previous one, if known.
 
-(5A)[^key-1d70253535d5dac490043dd4987b7bea] When a keeper marks a sheep with an X Mark, he or she shall within 36 hours—
+(5A)[^c-1d70253535d5dac490043dd4987b7bea] When a keeper marks a sheep with an X Mark, he or she shall within 36 hours—
 
 - (a) where the X Mark is applied at an assembly centre, cross-reference the X Mark and the individual identification number applied at the same time as the X Mark, with the Mark which has been recorded under paragraph (2)(c) and with the individual identification number recorded under paragraph (2) (ff);
 - (b) where the X Mark is applied at a holding other than an assembly centre, cross-reference the X Mark and the individual identification number applied at the same time as the X Mark, with the Mark recorded under paragraph(2)(c).
@@ -142,7 +142,7 @@ provided the keeper records the temporary mark applied to the sheep.
 
 ## 5. Goat records
 
-(1) Any person keeping a goat on a holding (other than an assembly centre,[^key-3aba992e81a954b5dd2e8e09d3dfda86] market, show, slaughterhouse or collecting centre) must record, on or before 31st January in each year, the number of goats on that holding on 1st January of that year.
+(1) Any person keeping a goat on a holding (other than an assembly centre,[^c-3aba992e81a954b5dd2e8e09d3dfda86] market, show, slaughterhouse or collecting centre) must record, on or before 31st January in each year, the number of goats on that holding on 1st January of that year.
 
 (2) Within 36 hours of a goat being moved onto or off a holding, the keeper must record—
 
@@ -155,8 +155,8 @@ provided the keeper records the temporary mark applied to the sheep.
   - (iv) where a goat bears the maximum number of marks permitted under regulation 10, the individual identification number together with the mark which was applied at the same time as the individual identification number;
 - (d) in the case of a goat moved onto the holding, the address of the holding from which it came; in the case of a goat being moved off the holding, the address of the holding to which it is going;
 - (e) in the case of goat moved from a market, the lot number (if any) allocated at the market;
-- (f) in the case of a goat moved to a show, an individual identification number together with the mark which was applied at the same time as the individual identification number; [^key-e09362cae08a539a134e527dfe379508]...
-- (ff)[^key-b08cb56ad44a0c89bb02cbf5c2dade24] In the case of a goat being moved to an assembly centre, the individual identification number (if more than one, the latest individual identification number applied); and
+- (f) in the case of a goat moved to a show, an individual identification number together with the mark which was applied at the same time as the individual identification number; [^c-e09362cae08a539a134e527dfe379508]...
+- (ff)[^c-b08cb56ad44a0c89bb02cbf5c2dade24] In the case of a goat being moved to an assembly centre, the individual identification number (if more than one, the latest individual identification number applied); and
 - (g) in the case of a goat being moved to a destination outside Great Britain, one of the following—
   - (i) an Origin Mark which includes the letters “UK”, and the individual identification number,
   - (ii) an F Mark which includes the letters “UK”, and the individual identification number, or
@@ -179,7 +179,7 @@ provided the keeper records the temporary mark applied to the goat.
 
 (5) In the case of a goat marked in accordance with regulation 11 or re-marked in accordance with regulation 13(2)(b) or (c), the keeper must, within 36 hours of marking or re-marking the goat (as the case may be), record the new herdmark and the previous one, if known.
 
-(5A)[^key-f3b7ec926f4b2cd04efaeeed10bf1b06] When a keeper marks a goat with an X Mark, he or she shall within 36 hours—
+(5A)[^c-f3b7ec926f4b2cd04efaeeed10bf1b06] When a keeper marks a goat with an X Mark, he or she shall within 36 hours—
 
 - (a) where the X Mark is applied at an assembly centre, cross-reference the X Mark and the individual identification number applied at the same time as the X Mark, with the Mark which has been recorded under paragraph (2)(c) and with the individual identification number recorded under paragraph (2) (ff);
 - (b) where the X Mark is applied at a holding other than an assembly centre, cross-reference the X Mark and the individual identification number applied at the same time as the X Mark with the Mark recorded under paragraph(2)(c).
@@ -225,12 +225,12 @@ provided the keeper records the temporary mark applied to the goat.
 - (b) is applied to an eartag at the same time as an Origin Mark, S Mark, F Mark, R Mark or X Mark is applied, or is tattooed on one of the animal’s ears at the same time that an Origin Mark, S Mark, F Mark, R Mark or X Mark is tattooed on one of its ears; and
 - (c) in the case of an eartag and subject to paragraph (10), immediately follows an Origin Mark, S Mark, F Mark, R Mark or X Mark or is applied to one side of the eartag on the other side of which is an Origin Mark, S Mark, F Mark, R Mark or X Mark.
 
-(10)[^key-a43c7a08f7686823a22d6480011619bb] A number shall not fail to be an “individual identification number” by reason only that it is not applied to the same eartag as the Origin Mark, S Mark, F Mark, R Mark or X Mark where—
+(10)[^c-a43c7a08f7686823a22d6480011619bb] A number shall not fail to be an “individual identification number” by reason only that it is not applied to the same eartag as the Origin Mark, S Mark, F Mark, R Mark or X Mark where—
 
 - (a) the number was applied in part of the British Islands outside Wales under legislation in force in that part; or
 - (b) the number was applied in Wales before the relevant date.
 
-(11) A temporary mark shall be sufficiently distinctive to be described in the document required under regulation 12 and shall remain visible to the naked eye until the animal is [^key-6a90aba34da172ee1dac277ecc0483e4]... slaughtered or returns to the holding from which it had been sent to market for the purpose of sale for slaughter or returns to the holding from temporary grazing land[^key-6a6f6d9625d0cfb8cea62a3c8e0af033].
+(11) A temporary mark shall be sufficiently distinctive to be described in the document required under regulation 12 and shall remain visible to the naked eye until the animal is [^c-6a90aba34da172ee1dac277ecc0483e4]... slaughtered or returns to the holding from which it had been sent to market for the purpose of sale for slaughter or returns to the holding from temporary grazing land[^c-6a6f6d9625d0cfb8cea62a3c8e0af033].
 
 ## 7. Applying Origin Mark
 
@@ -273,13 +273,13 @@ provided the keeper records the temporary mark applied to the goat.
   - (iii) being moved to a collecting centre before being moved to a slaughterhouse; or
   - (iv) returning direct to a holding from a market to which it had been sent for the purpose of sale for slaughter;
 - (h) the animal is being moved for the purposes of veterinary treatment, dipping or shearing;
-- (i) the animal is being moved between premises in a sole occupancy group; [^key-baa36b98b117e5f8088d967e8820490b]...
-- (j) the animal is returning to the holding on which it is kept from land on which the person has a right of grazing in common with other proprietors; or[^key-93499013d52e915b24ca3b28b0f72a4d]
+- (i) the animal is being moved between premises in a sole occupancy group; [^c-baa36b98b117e5f8088d967e8820490b]...
+- (j) the animal is returning to the holding on which it is kept from land on which the person has a right of grazing in common with other proprietors; or[^c-93499013d52e915b24ca3b28b0f72a4d]
 - (k) a sheep is marked with a temporary mark and is returning from temporary grazing land to the holding on which it was kept immediately prior to being moved to the temporary grazing land.
 
 (3) An animal must not be moved to or from a show unless it is marked with an individual identification number together with the mark which was applied at the same time as the individual identification number.
 
-(3A)[^key-6d0c72ba602175bc70fcf22ea09d28ce]
+(3A)[^c-6d0c72ba602175bc70fcf22ea09d28ce]
 
 - (a) A person shall not move an animal to an assembly centre unless the animal is marked in accordance with one or more of the following sub-paragraphs:
   - (i) with an Origin Mark and with an individual identification number;
@@ -290,7 +290,7 @@ provided the keeper records the temporary mark applied to the goat.
 
 (4)  
 
-- (a)[^key-5bcce14a6b7c2179040fb215aafdd892] A person shall not move an animal to premises outside Great Britain unless it is marked in accordance with one or more of the following sub-paragraphs—
+- (a)[^c-5bcce14a6b7c2179040fb215aafdd892] A person shall not move an animal to premises outside Great Britain unless it is marked in accordance with one or more of the following sub-paragraphs—
   - (i) with an Origin Mark which includes the letters “UK” and with an individual identification number;
   - (ii) with an F Mark which includes the letters “UK” and with an individual identification number; or
   - (iii) with an X Mark and with an individual identification number that was applied at the same time as the X Mark.
@@ -322,8 +322,8 @@ provided the keeper records the temporary mark applied to the goat.
 
 - (a) the addresses of the holdings from, and to which, the animal is being moved;
 - (b) the date of movement and the total number of animals being moved;
-- (c) the mark described in paragraph (2); [^key-199281f745575e9b17fe425b947c0ef5]...
-- (d) the lot number in respect of an animal which is being moved from market; and[^key-645210f9abd02f411c4b982e8b6b0d81]
+- (c) the mark described in paragraph (2); [^c-199281f745575e9b17fe425b947c0ef5]...
+- (d) the lot number in respect of an animal which is being moved from market; and[^c-645210f9abd02f411c4b982e8b6b0d81]
 - (e) the individual identification number in respect of an animal which is being moved to an assembly centre.
 
 (2) The document shall specify
@@ -336,16 +336,16 @@ provided the keeper records the temporary mark applied to the goat.
 - (c) any temporary mark in the case of an animal—
   - (i) being moved direct to a slaughterhouse,
   - (ii) being moved direct to a market for the purpose of sale for slaughter,
-  - (iii) being moved to a collecting centre before being moved to a slaughterhouse; [^key-243edca58d71fe1ca481cf1201ebf8c5]...
-  - (iv) returning direct to a holding from a market to which it had been sent for the purpose of sale for slaughter; or[^key-8a64bbac6fd01001837cdcde31e7278e]
+  - (iii) being moved to a collecting centre before being moved to a slaughterhouse; [^c-243edca58d71fe1ca481cf1201ebf8c5]...
+  - (iv) returning direct to a holding from a market to which it had been sent for the purpose of sale for slaughter; or[^c-8a64bbac6fd01001837cdcde31e7278e]
   - (v) returning from temporary grazing land to the holding on which it was kept immediately prior to being moved to the temporary grazing land.
 
 (3) Paragraph (1) shall not apply in the case of an animal which is being moved—
 
 - (a) between a holding and any land in respect of which a right of grazing in common with other proprietors is exercisable;
 - (b) for the purposes of veterinary treatment, dipping or shearing;
-- (c) in the case of goats, for the purpose of being tattooed; [^key-8fc13d10b53105b64829c235912348a1]...
-- (d) from premises in a sole occupancy group to other premises in the same group; or[^key-51e26638d04f89b607f900218b139b2c]
+- (c) in the case of goats, for the purpose of being tattooed; [^c-8fc13d10b53105b64829c235912348a1]...
+- (d) from premises in a sole occupancy group to other premises in the same group; or[^c-51e26638d04f89b607f900218b139b2c]
 - (e) to premises outside Great Britain.
 
 (4) When the animal arrives at its destination, the person moving the animal must give the document to the keeper at the holding of destination.
@@ -419,11 +419,11 @@ A regulatory appraisal has not been prepared for these Regulations.
 
 [^c9931111]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-944e4f9bef9ae2502f5fe0a491420a51]: Textual amendment: Words in reg. 2(1) omitted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2002/811/article/3/2)
+[^c-944e4f9bef9ae2502f5fe0a491420a51]: Textual amendment: Words in reg. 2(1) omitted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2002/811/article/3/2)
 
-[^key-6c78e64d57a621360121f1aba5028d26]: Textual amendment: Words in reg. 2(1) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2002/811/article/3/3)
+[^c-6c78e64d57a621360121f1aba5028d26]: Textual amendment: Words in reg. 2(1) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2002/811/article/3/3)
 
-[^key-9243c5558e541b1dbbde69492bafd4c9]: Textual amendment: Words in reg. 2(1) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2002/811/article/3/4)
+[^c-9243c5558e541b1dbbde69492bafd4c9]: Textual amendment: Words in reg. 2(1) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2002/811/article/3/4)
 
 [^c9931121]: Marginal citation: [S.I. 2000/2335](https://www.legislation.gov.uk/uksi/2000/2335) (W. 152).
 
@@ -431,52 +431,52 @@ A regulatory appraisal has not been prepared for these Regulations.
 
 [^c9931141]: Marginal citation: [S.I. 2002/280](https://www.legislation.gov.uk/uksi/2002/280) (W32).
 
-[^key-8ce377b1c97df0c3caca42932e1e1eab]: Textual amendment: Words in reg. 2(1) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2002/811/article/3/5)
+[^c-8ce377b1c97df0c3caca42932e1e1eab]: Textual amendment: Words in reg. 2(1) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2002/811/article/3/5)
 
-[^key-35a9ef2acdf5cfa0cebf0f92ef21f3e4]: Textual amendment: Words in reg. 4(1) substituted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2002/811/article/4/2)
+[^c-35a9ef2acdf5cfa0cebf0f92ef21f3e4]: Textual amendment: Words in reg. 4(1) substituted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2002/811/article/4/2)
 
-[^key-6bcc5ddb84003e80d63cd8efd8746b27]: Textual amendment: Word in reg. 4(2)(f) deleted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2002/811/article/4/3)
+[^c-6bcc5ddb84003e80d63cd8efd8746b27]: Textual amendment: Word in reg. 4(2)(f) deleted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2002/811/article/4/3)
 
-[^key-07dff44a267d1de4dc9301e6b61c1d7d]: Textual amendment: Reg. 4(2)(ff) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2002/811/article/4/4)
+[^c-07dff44a267d1de4dc9301e6b61c1d7d]: Textual amendment: Reg. 4(2)(ff) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2002/811/article/4/4)
 
-[^key-1d70253535d5dac490043dd4987b7bea]: Textual amendment: Reg. 4(5A) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2002/811/article/4/5)
+[^c-1d70253535d5dac490043dd4987b7bea]: Textual amendment: Reg. 4(5A) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2002/811/article/4/5)
 
-[^key-3aba992e81a954b5dd2e8e09d3dfda86]: Textual amendment: Words in reg. 5(1) substituted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2002/811/article/5/2)
+[^c-3aba992e81a954b5dd2e8e09d3dfda86]: Textual amendment: Words in reg. 5(1) substituted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2002/811/article/5/2)
 
-[^key-e09362cae08a539a134e527dfe379508]: Textual amendment: Word in reg. 5(2)(f) deleted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2002/811/article/5/3)
+[^c-e09362cae08a539a134e527dfe379508]: Textual amendment: Word in reg. 5(2)(f) deleted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2002/811/article/5/3)
 
-[^key-b08cb56ad44a0c89bb02cbf5c2dade24]: Textual amendment: Reg. 5(2)(ff) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2002/811/article/5/4)
+[^c-b08cb56ad44a0c89bb02cbf5c2dade24]: Textual amendment: Reg. 5(2)(ff) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2002/811/article/5/4)
 
-[^key-f3b7ec926f4b2cd04efaeeed10bf1b06]: Textual amendment: Reg. 5(5A) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2002/811/article/5/5)
+[^c-f3b7ec926f4b2cd04efaeeed10bf1b06]: Textual amendment: Reg. 5(5A) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2002/811/article/5/5)
 
-[^key-a43c7a08f7686823a22d6480011619bb]: Textual amendment: Reg. 6(10) substituted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2002/811/article/6/2)
+[^c-a43c7a08f7686823a22d6480011619bb]: Textual amendment: Reg. 6(10) substituted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2002/811/article/6/2)
 
-[^key-6a90aba34da172ee1dac277ecc0483e4]: Textual amendment: Word in reg. 6(11) deleted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2002/811/article/6/3)
+[^c-6a90aba34da172ee1dac277ecc0483e4]: Textual amendment: Word in reg. 6(11) deleted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2002/811/article/6/3)
 
-[^key-6a6f6d9625d0cfb8cea62a3c8e0af033]: Textual amendment: Word in reg. 6(11) added (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2002/811/article/6/3)
+[^c-6a6f6d9625d0cfb8cea62a3c8e0af033]: Textual amendment: Word in reg. 6(11) added (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2002/811/article/6/3)
 
 [^c9931151]: Marginal citation: OJ L355, 5.12.92, p.0032.
 
-[^key-baa36b98b117e5f8088d967e8820490b]: Textual amendment: Word in reg. 9(2)(i) deleted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2002/811/article/7/2)
+[^c-baa36b98b117e5f8088d967e8820490b]: Textual amendment: Word in reg. 9(2)(i) deleted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2002/811/article/7/2)
 
-[^key-93499013d52e915b24ca3b28b0f72a4d]: Textual amendment: Reg. 9(2)(k) and word inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2002/811/article/7/3)
+[^c-93499013d52e915b24ca3b28b0f72a4d]: Textual amendment: Reg. 9(2)(k) and word inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2002/811/article/7/3)
 
-[^key-6d0c72ba602175bc70fcf22ea09d28ce]: Textual amendment: Reg. 9(3A) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2002/811/article/7/4)
+[^c-6d0c72ba602175bc70fcf22ea09d28ce]: Textual amendment: Reg. 9(3A) inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2002/811/article/7/4)
 
-[^key-5bcce14a6b7c2179040fb215aafdd892]: Textual amendment: Reg. 9(4)(a) substituted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2002/811/article/7/5)
+[^c-5bcce14a6b7c2179040fb215aafdd892]: Textual amendment: Reg. 9(4)(a) substituted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2002/811/article/7/5)
 
 [^c9931161]: Marginal citation: [S.I. 1983/1950](https://www.legislation.gov.uk/uksi/1983/1950).
 
-[^key-199281f745575e9b17fe425b947c0ef5]: Textual amendment: Word in reg. 12(1)(c) deleted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2002/811/article/8/2)
+[^c-199281f745575e9b17fe425b947c0ef5]: Textual amendment: Word in reg. 12(1)(c) deleted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2002/811/article/8/2)
 
-[^key-645210f9abd02f411c4b982e8b6b0d81]: Textual amendment: Reg. 12(1)(e) and word inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2002/811/article/8/3)
+[^c-645210f9abd02f411c4b982e8b6b0d81]: Textual amendment: Reg. 12(1)(e) and word inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2002/811/article/8/3)
 
-[^key-243edca58d71fe1ca481cf1201ebf8c5]: Textual amendment: Word in reg. 12(2)(c)(iii) deleted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2002/811/article/8/4)
+[^c-243edca58d71fe1ca481cf1201ebf8c5]: Textual amendment: Word in reg. 12(2)(c)(iii) deleted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2002/811/article/8/4)
 
-[^key-8a64bbac6fd01001837cdcde31e7278e]: Textual amendment: Reg. 12(2)(c)(v) and word inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2002/811/article/8/5)
+[^c-8a64bbac6fd01001837cdcde31e7278e]: Textual amendment: Reg. 12(2)(c)(v) and word inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2002/811/article/8/5)
 
-[^key-8fc13d10b53105b64829c235912348a1]: Textual amendment: Word in reg. 12(3)(c) deleted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2002/811/article/8/4)
+[^c-8fc13d10b53105b64829c235912348a1]: Textual amendment: Word in reg. 12(3)(c) deleted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2002/811/article/8/4)
 
-[^key-51e26638d04f89b607f900218b139b2c]: Textual amendment: Reg. 12(3)(e) and word inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2002/811/article/8/6)
+[^c-51e26638d04f89b607f900218b139b2c]: Textual amendment: Reg. 12(3)(e) and word inserted (21.3.2002 at 2.00 p.m.) by virtue of [The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (Amendment) Order 2002 (S.I. 2002/811)](https://www.legislation.gov.uk/uksi/2002/811), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/811/article/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2002/811/article/8/6)
 
 [^c9931171]: Marginal citation: [1998 c.38](https://www.legislation.gov.uk/ukpga/1998/38).

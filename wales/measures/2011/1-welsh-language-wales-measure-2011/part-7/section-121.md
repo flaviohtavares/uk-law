@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. Composition for proceedings before Tribunal[^key-a18fc2f2419a4eb89b1e90cedd04a0c8]
+## 121. Composition for proceedings before Tribunal[^c-a18fc2f2419a4eb89b1e90cedd04a0c8]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a18fc2f2419a4eb89b1e90cedd04a0c8]: Commencement: [S. 121](https://www.legislation.gov.uk/mwa/2011/1/section/121) in force at 30.4.2015 by [S.I. 2015/1217](https://www.legislation.gov.uk/wsi/2015/1217), [art. 2](https://www.legislation.gov.uk/wsi/2015/1217/article/2)
+[^c-a18fc2f2419a4eb89b1e90cedd04a0c8]: Commencement: [S. 121](https://www.legislation.gov.uk/mwa/2011/1/section/121) in force at 30.4.2015 by [S.I. 2015/1217](https://www.legislation.gov.uk/wsi/2015/1217), [art. 2](https://www.legislation.gov.uk/wsi/2015/1217/article/2)

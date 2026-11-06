@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Effect of orders.[^key-8455f8a9a2b50d9734b431a5a328ce2a]
+## 24. Effect of orders.[^c-8455f8a9a2b50d9734b431a5a328ce2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8455f8a9a2b50d9734b431a5a328ce2a]: Textual amendment: Ss. 21-24 omitted (29.6.2021) by virtue of [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 10(3)](https://www.legislation.gov.uk/ukpga/2021/12/section/10/3), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/b)
+[^c-8455f8a9a2b50d9734b431a5a328ce2a]: Textual amendment: Ss. 21-24 omitted (29.6.2021) by virtue of [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 10(3)](https://www.legislation.gov.uk/ukpga/2021/12/section/10/3), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/b)

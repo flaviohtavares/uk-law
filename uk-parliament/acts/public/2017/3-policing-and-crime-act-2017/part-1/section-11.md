@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-68a886075348cd7cd75d4a0d23363d24] The Fire and Rescue Services Act 2004 is amended as follows.
+(1)[^c-68a886075348cd7cd75d4a0d23363d24] The Fire and Rescue Services Act 2004 is amended as follows.
 
-(2)[^key-68a886075348cd7cd75d4a0d23363d24] In section 28 (inspectors), before subsection (1) insert—
+(2)[^c-68a886075348cd7cd75d4a0d23363d24] In section 28 (inspectors), before subsection (1) insert—
 
 > (A1) Her Majesty may appoint such number of inspectors of fire and rescue authorities in England (the “English inspectors”) as the Secretary of State may determine.
 >
@@ -52,9 +52,9 @@ summary: ''
 >
 > (A9) Schedule A3 makes further provision in relation to the English inspectors.
 
-(3)[^key-68a886075348cd7cd75d4a0d23363d24] In section 28, in subsection (1)(a), after “fire and rescue authorities” insert “ in Wales ”.
+(3)[^c-68a886075348cd7cd75d4a0d23363d24] In section 28, in subsection (1)(a), after “fire and rescue authorities” insert “ in Wales ”.
 
-(4)[^key-68a886075348cd7cd75d4a0d23363d24] After section 28 insert—
+(4)[^c-68a886075348cd7cd75d4a0d23363d24] After section 28 insert—
 
 > **28A. Inspection programme and inspection framework etc: England**
 >
@@ -81,7 +81,7 @@ summary: ''
 >
 > (8) In this section “**English inspector**” means an inspector appointed under section 28(A1).
 
-(5)[^key-68a886075348cd7cd75d4a0d23363d24] After section 28A (as inserted by subsection (4)) insert—
+(5)[^c-68a886075348cd7cd75d4a0d23363d24] After section 28A (as inserted by subsection (4)) insert—
 
 > **28B. Publication of inspection reports etc: England**
 >
@@ -105,13 +105,13 @@ summary: ''
 >
 > (7) In this section “**English inspector**” means an inspector appointed under section 28(A1).
 
-(6)[^key-68a886075348cd7cd75d4a0d23363d24] In Schedule A2 (application of legislation relating to police and crime commissioners) (as inserted by Schedule 1 to this Act), in paragraph 8(2) (powers of police and crime panels: modifications of section 28 of the Police Reform and Social Responsibility Act 2011), after paragraph (d) insert—
+(6)[^c-68a886075348cd7cd75d4a0d23363d24] In Schedule A2 (application of legislation relating to police and crime commissioners) (as inserted by Schedule 1 to this Act), in paragraph 8(2) (powers of police and crime panels: modifications of section 28 of the Police Reform and Social Responsibility Act 2011), after paragraph (d) insert—
 
 > - (da) the references in subsection (6) to the commissioner's functions were to the functions of the relevant fire and rescue authority that are excluded functions for the purposes of section 28(A6) of this Act (see section 28(A7)),
 
 .
 
-(7)[^key-68a886075348cd7cd75d4a0d23363d24] After Schedule A2 insert the new Schedule A3 set out in Schedule 3 to this Act.
+(7)[^c-68a886075348cd7cd75d4a0d23363d24] After Schedule A2 insert the new Schedule A3 set out in Schedule 3 to this Act.
 
 (8) A person appointed, before the coming into force of this section, under section 28 of the Fire and Rescue Services Act 2004 for the purpose of obtaining information in relation to the functions of fire and rescue authorities in England (including a person taken to have been so appointed by virtue of subsection (3) of that section) is to be taken—
 
@@ -122,4 +122,4 @@ summary: ''
 
 [^c22718411]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/3/section/11) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-68a886075348cd7cd75d4a0d23363d24]: Commencement: [S. 11(1)-(7)](https://www.legislation.gov.uk/ukpga/2017/3/section/11/1) in force at 17.7.2017 in so far as not already in force by [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/726/regulation/4))
+[^c-68a886075348cd7cd75d4a0d23363d24]: Commencement: [S. 11(1)-(7)](https://www.legislation.gov.uk/ukpga/2017/3/section/11/1) in force at 17.7.2017 in so far as not already in force by [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/726/regulation/4))

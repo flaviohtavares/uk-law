@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59B. Real time returns of information about payments of earnings[^key-7c08f51cfbd9b62bb131b3b489ca8244]
+## 59B. Real time returns of information about payments of earnings[^c-7c08f51cfbd9b62bb131b3b489ca8244]
 
 *Extent: E+W+S+N.I.*
 
-(1) On or before making a payment of earnings to an employee, an employer must deliver to HMRC the information specified in Schedule 2 (real time returns) in accordance with this regulation [^key-5cec4ea135449828faa2f0513831fac0]....
+(1) On or before making a payment of earnings to an employee, an employer must deliver to HMRC the information specified in Schedule 2 (real time returns) in accordance with this regulation [^c-5cec4ea135449828faa2f0513831fac0]....
 
-(1A)[^key-56d4b519b5fb527f37ee472e35306bc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-56d4b519b5fb527f37ee472e35306bc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1B)[^key-56d4b519b5fb527f37ee472e35306bc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-56d4b519b5fb527f37ee472e35306bc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1C)[^key-56d4b519b5fb527f37ee472e35306bc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1C)[^c-56d4b519b5fb527f37ee472e35306bc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1D)[^key-56d4b519b5fb527f37ee472e35306bc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1D)[^c-56d4b519b5fb527f37ee472e35306bc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1E)[^key-56d4b519b5fb527f37ee472e35306bc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1E)[^c-56d4b519b5fb527f37ee472e35306bc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The information must be included in a return.
 
@@ -40,16 +40,16 @@ summary: ''
 
 (5) The return is to be made using an approved method of electronic communications.
 
-(6)[^key-f18c5f82dfbde300d4234ddda6a13508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f18c5f82dfbde300d4234ddda6a13508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-f18c5f82dfbde300d4234ddda6a13508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f18c5f82dfbde300d4234ddda6a13508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7c08f51cfbd9b62bb131b3b489ca8244]: Textual amendment: [Regs. 59A-59F](https://www.legislation.gov.uk/uksi/2009/470/regulation/59A) inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2012 (S.I. 2012/836)](https://www.legislation.gov.uk/uksi/2012/836), [regs. 1](https://www.legislation.gov.uk/uksi/2012/836/regulation/1), [16](https://www.legislation.gov.uk/uksi/2012/836/regulation/16)
+[^c-7c08f51cfbd9b62bb131b3b489ca8244]: Textual amendment: [Regs. 59A-59F](https://www.legislation.gov.uk/uksi/2009/470/regulation/59A) inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2012 (S.I. 2012/836)](https://www.legislation.gov.uk/uksi/2012/836), [regs. 1](https://www.legislation.gov.uk/uksi/2012/836/regulation/1), [16](https://www.legislation.gov.uk/uksi/2012/836/regulation/16)
 
-[^key-5cec4ea135449828faa2f0513831fac0]: Textual amendment: Words in [reg. 59B(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/59B/1) omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [47(1)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/47/1)
+[^c-5cec4ea135449828faa2f0513831fac0]: Textual amendment: Words in [reg. 59B(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/59B/1) omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [47(1)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/47/1)
 
-[^key-56d4b519b5fb527f37ee472e35306bc7]: Textual amendment: [Reg. 59B(1A)-(1E)](https://www.legislation.gov.uk/uksi/2009/470/regulation/59B/1A) omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [47(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/47/2)
+[^c-56d4b519b5fb527f37ee472e35306bc7]: Textual amendment: [Reg. 59B(1A)-(1E)](https://www.legislation.gov.uk/uksi/2009/470/regulation/59B/1A) omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [47(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/47/2)
 
-[^key-f18c5f82dfbde300d4234ddda6a13508]: Textual amendment: [Reg. 59B(6)](https://www.legislation.gov.uk/uksi/2009/470/regulation/59B/6)[(7)](https://www.legislation.gov.uk/uksi/2009/470/regulation/59B/7) omitted (6.4.2013) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations 2013 (S.I. 2013/607)](https://www.legislation.gov.uk/uksi/2013/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/607/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2013/607/regulation/14)
+[^c-f18c5f82dfbde300d4234ddda6a13508]: Textual amendment: [Reg. 59B(6)](https://www.legislation.gov.uk/uksi/2009/470/regulation/59B/6)[(7)](https://www.legislation.gov.uk/uksi/2009/470/regulation/59B/7) omitted (6.4.2013) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations 2013 (S.I. 2013/607)](https://www.legislation.gov.uk/uksi/2013/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/607/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2013/607/regulation/14)

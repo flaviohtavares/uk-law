@@ -48,123 +48,123 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 54(2) of that Act, the Scottish Ministers have consulted and shared a draft of the Regulations with the persons mentioned in section 54(2)(a)(i) to (vi) and have considered any representations made.
 
-## PART 1 — General[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+## PART 1 — General[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 **No longer in force.**
 
-### 1. Citation and commencement[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 1. Citation and commencement[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Interpretation[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 2. Interpretation[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 3. Application[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Designation of deputy chief constable[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 4. Designation of deputy chief constable[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — First interview[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+## PART 2 — First interview[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 **No longer in force.**
 
-### 5. Circumstances in which first interview may be required[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 5. Circumstances in which first interview may be required[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Arrangement of first interview[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 6. Arrangement of first interview[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Procedure at first interview[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 7. Procedure at first interview[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Procedure following first interview[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 8. Procedure following first interview[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Second interview[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+## PART 3 — Second interview[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 **No longer in force.**
 
-### 9. Circumstances in which second interview may be required[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 9. Circumstances in which second interview may be required[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Arrangement of second interview[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 10. Arrangement of second interview[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Procedure at second interview[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 11. Procedure at second interview[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Procedure following second interview[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 12. Procedure following second interview[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Inefficiency hearing[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+## PART 4 — Inefficiency hearing[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 **No longer in force.**
 
-### 13. Assessment of performance following second interview[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 13. Assessment of performance following second interview[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Arrangement of inefficiency hearing[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 14. Arrangement of inefficiency hearing[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Procedure at inefficiency hearing[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 15. Procedure at inefficiency hearing[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Postponement or adjournment of inefficiency hearing[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 16. Postponement or adjournment of inefficiency hearing[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Determination[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 17. Determination[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Disposals[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 18. Disposals[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Assessment of performance following inefficiency hearing[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 19. Assessment of performance following inefficiency hearing[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Appeal to the chief constable[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+## PART 5 — Appeal to the chief constable[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 **No longer in force.**
 
-### 20. Appeal to the chief constable[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 20. Appeal to the chief constable[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Appeal procedure[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 21. Appeal procedure[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Determination of appeal[^key-2ed956e93191b8e572895dc5f9b3fcd7]
+### 22. Determination of appeal[^c-2ed956e93191b8e572895dc5f9b3fcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 6 — Senior Officer Performance
 
-### 23. Senior officer performance[^key-0f546697bb60114cd7ef3895840d9170]
+### 23. Senior officer performance[^c-0f546697bb60114cd7ef3895840d9170]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 7 — Revocation, savings and transitional provisions
 
-### 24. Revocation, savings and transitional provisions[^key-e730931953a1fc056b8b81db6eec726a]
+### 24. Revocation, savings and transitional provisions[^c-e730931953a1fc056b8b81db6eec726a]
 
 The Schedule (revocation, savings and transitional provisions) has effect.
 
@@ -182,15 +182,15 @@ Edinburgh
 
 Regulation 24
 
-### 1. Interpretation[^key-3f6ffb10633d67cab9526fdcaf828c4c]
+### 1. Interpretation[^c-3f6ffb10633d67cab9526fdcaf828c4c]
 
 In this Schedule “inefficiency hearing”, “interviewing officer” and “senior officer” each have the meanings given by regulation 2 of the 1996 Regulations.
 
-### 2. Revocation, savings and transitional provisions[^key-8153b92c58306b297c54ad6852b9f5c7]
+### 2. Revocation, savings and transitional provisions[^c-8153b92c58306b297c54ad6852b9f5c7]
 
 Subject to paragraph 3, the 1996 Regulations are revoked.
 
-**3.**[^key-68eb7b0bfd2634c28ae41e74daafd9ac] (1) Despite their revocation by paragraph 2, the 1996 Regulations continue to have effect on and after 1st April 2013 as they had effect immediately before that date, with the modifications set out in paragraph 10, where—
+**3.**[^c-68eb7b0bfd2634c28ae41e74daafd9ac] (1) Despite their revocation by paragraph 2, the 1996 Regulations continue to have effect on and after 1st April 2013 as they had effect immediately before that date, with the modifications set out in paragraph 10, where—
 
 - (a) unsatisfactory performance by an individual to whom those Regulations applied (by virtue of regulation 3 of those Regulations) came to the attention of that individual’s reporting officer before 1st April 2013;
 - (b) proceedings under those Regulations in relation to that individual’s performance were not concluded before that date; and
@@ -226,20 +226,20 @@ Subject to paragraph 3, the 1996 Regulations are revoked.
   - (i) in a case where the disposal was quashed in accordance with regulation 21(4)(b)(i) of the 1996 Regulations, on the date that decision was sent in accordance with paragraph (7) of that regulation; or
   - (ii) in any other case, on the date on which a copy of the decision of the chairman of the inefficiency hearing was sent in accordance with regulation 18(4) of those Regulations.
 
-### 4. Transitional provisions[^key-12fd23757f717e43cc46ed3def7d71a5]
+### 4. Transitional provisions[^c-12fd23757f717e43cc46ed3def7d71a5]
 
 Any proceedings commenced under the 1996 Regulations in relation to which those Regulations continue to have effect by virtue of paragraph 3—
 
 - (a) may be continued under those Regulations as modified by paragraph 10; and
 - (b) where continued, are to be treated as proceedings under those Regulations as so modified.
 
-**5.**[^key-05b66af01de9b35182f12f076f6eaaa2] In relation to proceedings in relation to which the 1996 Regulations continue to have effect by virtue of paragraph 3—
+**5.**[^c-05b66af01de9b35182f12f076f6eaaa2] In relation to proceedings in relation to which the 1996 Regulations continue to have effect by virtue of paragraph 3—
 
 - (a) anything done before 1st April 2013 under those Regulations by or in relation to a chief constable of a police force is to be treated, on and after that date, as having been done by or in relation to the chief constable of the Police Service;
 - (b) anything done before 1st April 2013 under those Regulations by or in relation to an assistant chief constable of a police force are to be treated, on and after that date, as having been done by or in relation to the deputy chief constable designated under regulation 4 of these Regulations;
-- (c) anything done before 1st April 2013 under those Regulations by or in relation to a senior officer (within the meaning given by regulation 2 of those Regulations as it had effect immediately before that date) is, where the senior officer was the commander of the division to which the constable in respect of whom proceedings under those Regulations were taken was assigned[^key-e6d770881515488a2f4f51c8039571ff], on and after that date to be treated as having been done by or in relation to the local commander in relation to the division to which that constable is assigned.
+- (c) anything done before 1st April 2013 under those Regulations by or in relation to a senior officer (within the meaning given by regulation 2 of those Regulations as it had effect immediately before that date) is, where the senior officer was the commander of the division to which the constable in respect of whom proceedings under those Regulations were taken was assigned[^c-e6d770881515488a2f4f51c8039571ff], on and after that date to be treated as having been done by or in relation to the local commander in relation to the division to which that constable is assigned.
 
-**6.**[^key-76356f7d4d21ec1a04d9bd1aab402781] (1) Sub-paragraph (2) applies to an individual who—
+**6.**[^c-76356f7d4d21ec1a04d9bd1aab402781] (1) Sub-paragraph (2) applies to an individual who—
 
 - (a) before 1st April 2013, was an interviewing officer in relation to a case in relation to which the 1996 Regulations continue to have effect by virtue of paragraph 3; and
 - (b) is—
@@ -254,7 +254,7 @@ Any proceedings commenced under the 1996 Regulations in relation to which those 
 
 (5) Anything done before 1st April by or in relation to an interviewing officer who has not transferred is, on and after that date, to be treated as having been done by or in relation to the constable appointed to replace that interviewing officer.
 
-**7.**[^key-145fa937b32795e3aeac1b2f8e9d46c7] (1) Sub-paragraph (2) applies to an individual who—
+**7.**[^c-145fa937b32795e3aeac1b2f8e9d46c7] (1) Sub-paragraph (2) applies to an individual who—
 
 - (a) before 1st April 2013, was appointed as the chairman of an inefficiency hearing under regulation 14(1) of the 1996 Regulations in relation to a case in relation to which those Regulations continue to have effect by virtue of paragraph 3; and
 - (b) is—
@@ -272,7 +272,7 @@ Any proceedings commenced under the 1996 Regulations in relation to which those 
 
 (5) Anything done before 1st April by or in relation to a chairman of an inefficiency hearing who has not transferred is, on and after that date, to be treated as having been done by or in relation to the constable appointed to replace that chairman.
 
-**8.**[^key-111cd9b09c5d0b89c90bd9be94b72f2d] (1) This paragraph applies to a requirement to resign from a police force by a specified date made under regulation 17(1)(a) or 18(3)(c) of the 1996 Regulations where—
+**8.**[^c-111cd9b09c5d0b89c90bd9be94b72f2d] (1) This paragraph applies to a requirement to resign from a police force by a specified date made under regulation 17(1)(a) or 18(3)(c) of the 1996 Regulations where—
 
 - (a) that requirement was made before 1st April 2013;
 - (b) the individual in respect of whom that requirement was made has not, in accordance with that requirement, resigned before 1st April 2013; and
@@ -282,14 +282,14 @@ Any proceedings commenced under the 1996 Regulations in relation to which those 
 
 (3) Where a transferred constable has not resigned by the date specified in a requirement to which this paragraph applies, that constable is to be treated as having been dismissed from the Police Service on the specified date.
 
-**9.**[^key-c0fd4a8a4703be3958bf603490bd9102] (1) This paragraph applies where—
+**9.**[^c-c0fd4a8a4703be3958bf603490bd9102] (1) This paragraph applies where—
 
 - (a) an individual has, before 1st April 2013, been issued by the chairman of an inefficiency hearing a written warning under regulation 17(1)(c) of the 1996 Regulations; and
 - (b) the period specified by the chairman in that warning has not expired before 1st April 2013.
 
 (2) Where this paragraph applies, a warning that an individual may be required to resign from a police force is to be treated as if it were a warning that that individual may be required to resign from the Police Service.
 
-### 10. Modifications[^key-60fae1a05ee334053618387184de51f9]
+### 10. Modifications[^c-60fae1a05ee334053618387184de51f9]
 
 (1) The 1996 Regulations are modified as follows.
 
@@ -339,7 +339,7 @@ Any proceedings commenced under the 1996 Regulations in relation to which those 
 (5) In regulation 5—
 
 - (a) in paragraph (1), before the first “constable”, insert “transferred”; and
-- (b) in sub-paragraph (a)(iii)[^key-fd152cd7464762d24339dfdde952b2e8] of that paragraph, after “constable”, insert “of the Police Service”;
+- (b) in sub-paragraph (a)(iii)[^c-fd152cd7464762d24339dfdde952b2e8] of that paragraph, after “constable”, insert “of the Police Service”;
 - (c) in paragraph (2), before “constable”, insert “transferred”; and
 - (d) in paragraph (4), after “constable”, insert “of the Police Service”.
 
@@ -422,32 +422,32 @@ Part 7 and the Schedule revoke the Police (Efficiency) (Scotland) Regulations 19
 
 [^f00001]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
 
-[^key-2ed956e93191b8e572895dc5f9b3fcd7]: Textual amendment: Regulations revoked (except regs. 23, 24 and Sch.) (1.4.2014) by [The Police Service of Scotland (Performance) Regulations 2014 (S.S.I. 2014/67)](https://www.legislation.gov.uk/ssi/2014/67), [regs. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1), [4(1)(3)](https://www.legislation.gov.uk/ssi/2014/67/regulation/4/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/67/regulation/3) and savings in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2014/67/regulation/4/2))
+[^c-2ed956e93191b8e572895dc5f9b3fcd7]: Textual amendment: Regulations revoked (except regs. 23, 24 and Sch.) (1.4.2014) by [The Police Service of Scotland (Performance) Regulations 2014 (S.S.I. 2014/67)](https://www.legislation.gov.uk/ssi/2014/67), [regs. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1), [4(1)(3)](https://www.legislation.gov.uk/ssi/2014/67/regulation/4/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/67/regulation/3) and savings in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2014/67/regulation/4/2))
 
-[^key-0f546697bb60114cd7ef3895840d9170]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/ssi/2013/61/regulation/23) revoked (1.4.2016) by [The Police Service of Scotland (Senior Officers) (Performance) Regulations 2016 (S.S.I. 2016/51)](https://www.legislation.gov.uk/ssi/2016/51), [regs. 1](https://www.legislation.gov.uk/ssi/2016/51/regulation/1), [42](https://www.legislation.gov.uk/ssi/2016/51/regulation/42) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/51/regulation/3))
+[^c-0f546697bb60114cd7ef3895840d9170]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/ssi/2013/61/regulation/23) revoked (1.4.2016) by [The Police Service of Scotland (Senior Officers) (Performance) Regulations 2016 (S.S.I. 2016/51)](https://www.legislation.gov.uk/ssi/2016/51), [regs. 1](https://www.legislation.gov.uk/ssi/2016/51/regulation/1), [42](https://www.legislation.gov.uk/ssi/2016/51/regulation/42) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/51/regulation/3))
 
-[^key-e730931953a1fc056b8b81db6eec726a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2013/61/regulation/24) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
+[^c-e730931953a1fc056b8b81db6eec726a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2013/61/regulation/24) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
 
-[^key-3f6ffb10633d67cab9526fdcaf828c4c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
+[^c-3f6ffb10633d67cab9526fdcaf828c4c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
 
-[^key-8153b92c58306b297c54ad6852b9f5c7]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
+[^c-8153b92c58306b297c54ad6852b9f5c7]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
 
-[^key-68eb7b0bfd2634c28ae41e74daafd9ac]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
+[^c-68eb7b0bfd2634c28ae41e74daafd9ac]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
 
-[^key-12fd23757f717e43cc46ed3def7d71a5]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
+[^c-12fd23757f717e43cc46ed3def7d71a5]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
 
-[^key-05b66af01de9b35182f12f076f6eaaa2]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/5) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
+[^c-05b66af01de9b35182f12f076f6eaaa2]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/5) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
 
-[^key-e6d770881515488a2f4f51c8039571ff]: Textual amendment: Words in [sch. para. 5(c)](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/5/c) inserted (18.5.2013) by [The Police Service of Scotland (Amendment) (No. 2) Regulations 2013 (S.S.I. 2013/125)](https://www.legislation.gov.uk/ssi/2013/125), [regs. 1](https://www.legislation.gov.uk/ssi/2013/125/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2013/125/regulation/6/3/a)
+[^c-e6d770881515488a2f4f51c8039571ff]: Textual amendment: Words in [sch. para. 5(c)](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/5/c) inserted (18.5.2013) by [The Police Service of Scotland (Amendment) (No. 2) Regulations 2013 (S.S.I. 2013/125)](https://www.legislation.gov.uk/ssi/2013/125), [regs. 1](https://www.legislation.gov.uk/ssi/2013/125/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2013/125/regulation/6/3/a)
 
-[^key-76356f7d4d21ec1a04d9bd1aab402781]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/6) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
+[^c-76356f7d4d21ec1a04d9bd1aab402781]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/6) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
 
-[^key-145fa937b32795e3aeac1b2f8e9d46c7]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/7) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
+[^c-145fa937b32795e3aeac1b2f8e9d46c7]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/7) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
 
-[^key-111cd9b09c5d0b89c90bd9be94b72f2d]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/8) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
+[^c-111cd9b09c5d0b89c90bd9be94b72f2d]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/8) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
 
-[^key-c0fd4a8a4703be3958bf603490bd9102]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/9) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
+[^c-c0fd4a8a4703be3958bf603490bd9102]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/9) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
 
-[^key-60fae1a05ee334053618387184de51f9]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/10) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
+[^c-60fae1a05ee334053618387184de51f9]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/10) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/61/regulation/1)
 
-[^key-fd152cd7464762d24339dfdde952b2e8]: Textual amendment: Word in [sch. para. 10(5)(b)](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/10/5/b) substituted (18.5.2013) by [The Police Service of Scotland (Amendment) (No. 2) Regulations 2013 (S.S.I. 2013/125)](https://www.legislation.gov.uk/ssi/2013/125), [regs. 1](https://www.legislation.gov.uk/ssi/2013/125/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2013/125/regulation/6/3/b)
+[^c-fd152cd7464762d24339dfdde952b2e8]: Textual amendment: Word in [sch. para. 10(5)(b)](https://www.legislation.gov.uk/ssi/2013/61/schedule/paragraph/10/5/b) substituted (18.5.2013) by [The Police Service of Scotland (Amendment) (No. 2) Regulations 2013 (S.S.I. 2013/125)](https://www.legislation.gov.uk/ssi/2013/125), [regs. 1](https://www.legislation.gov.uk/ssi/2013/125/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2013/125/regulation/6/3/b)

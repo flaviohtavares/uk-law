@@ -22,7 +22,7 @@ summary: ''
 
 Article 15
 
-### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^key-da1394e21e88cff9f550d5d34f9583dc]
+### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^c-da1394e21e88cff9f550d5d34f9583dc]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Means of access* |
 | --- | --- | --- |
@@ -32,7 +32,7 @@ Article 15
 | North East Lincolnshire | A1173 | Permanent means of access within the area edged purple and marked AB on sheet 6 of the street works and accesses plan. |
 | North East Lincolnshire | Kings Road | Permanent means of access within each of the areas edged purple and marked respectively Z and AA on sheets 6 and 7 of the street works and accesses plan. |
 
-### PART 2 — TEMPORARY MEANS OF ACCESS TO WORKS[^key-06d5ad00d806fc7c03dc654988a82602]
+### PART 2 — TEMPORARY MEANS OF ACCESS TO WORKS[^c-06d5ad00d806fc7c03dc654988a82602]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Means of access* |
 | --- | --- | --- |
@@ -44,6 +44,6 @@ Article 15
 
 ## Annotations
 
-[^key-da1394e21e88cff9f550d5d34f9583dc]: Commencement: Sch. 9 Pt. 1 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-da1394e21e88cff9f550d5d34f9583dc]: Commencement: Sch. 9 Pt. 1 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
-[^key-06d5ad00d806fc7c03dc654988a82602]: Commencement: Sch. 9 Pt. 2 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-06d5ad00d806fc7c03dc654988a82602]: Commencement: Sch. 9 Pt. 2 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

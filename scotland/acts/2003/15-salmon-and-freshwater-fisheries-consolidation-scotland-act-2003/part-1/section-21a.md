@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21A. Salmon carcass tagging[^key-fffeae9bb65042f3122e515b0899323c]
+## 21A. Salmon carcass tagging[^c-fffeae9bb65042f3122e515b0899323c]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fffeae9bb65042f3122e515b0899323c]: Textual amendment: S. 21A inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 26(2)](https://www.legislation.gov.uk/asp/2013/7/section/26/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-fffeae9bb65042f3122e515b0899323c]: Textual amendment: S. 21A inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 26(2)](https://www.legislation.gov.uk/asp/2013/7/section/26/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

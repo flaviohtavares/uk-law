@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Appointment of additional or new trustee by court: general[^key-5130dd388971dc5d80bf6cac28016fb8]
+## 1. Appointment of additional or new trustee by court: general[^c-5130dd388971dc5d80bf6cac28016fb8]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5130dd388971dc5d80bf6cac28016fb8]: Commencement: S. 1 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-5130dd388971dc5d80bf6cac28016fb8]: Commencement: S. 1 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

@@ -25,7 +25,7 @@ summary: ''
 (2) For the purposes of this section—
 
 - (a) the local highway authority is the appointing authority for their area, except any part of it in a National Park, and
-- (b)[^key-b4e72fad421d3153bd740133c5a8f891] the National Park authority for a National Park is the appointing authority for the National Park.
+- (b)[^c-b4e72fad421d3153bd740133c5a8f891] the National Park authority for a National Park is the appointing authority for the National Park.
 
 (3) A local access forum consists of members appointed by the appointing authority in accordance with regulations.
 
@@ -61,4 +61,4 @@ as to the improvement of public access to land in that area for the purposes of 
 
 ## Annotations
 
-[^key-b4e72fad421d3153bd740133c5a8f891]: Modification: [S. 94(2)(b)](https://www.legislation.gov.uk/ukpga/2000/37/section/94/2/b) excluded (24.3.2005) by [New Forest National Park Authority (Establishment) Order 2005 (S.I. 2005/421)](https://www.legislation.gov.uk/uksi/2005/421), [art. 1](https://www.legislation.gov.uk/uksi/2005/421/article/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2005/421/schedule/4/paragraph/3)
+[^c-b4e72fad421d3153bd740133c5a8f891]: Modification: [S. 94(2)(b)](https://www.legislation.gov.uk/ukpga/2000/37/section/94/2/b) excluded (24.3.2005) by [New Forest National Park Authority (Establishment) Order 2005 (S.I. 2005/421)](https://www.legislation.gov.uk/uksi/2005/421), [art. 1](https://www.legislation.gov.uk/uksi/2005/421/article/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2005/421/schedule/4/paragraph/3)

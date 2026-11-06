@@ -22,17 +22,17 @@ summary: ''
 
 (1) In this Act—
 
-- “[^key-9132d19d2edd6e0563e8ab8669352237]**activity condition**” has the meaning given by section 11C;
+- “[^c-9132d19d2edd6e0563e8ab8669352237]**activity condition**” has the meaning given by section 11C;
 - “**activity direction**” has the meaning given by section 11A;
 - “**adoption agency**” means a body which may be referred to as an adoption agency by virtue of section 2 of the Adoption and Children Act 2002[^c15175642];
-- [^key-69751f4fcc51350fda9426191f072f64]...
+- [^c-69751f4fcc51350fda9426191f072f64]...
 - “**bank holiday**” means a day which is a bank holiday under the [^c15175661]Banking and Financial Dealings Act 1971;
 - “care home”—[^M_F_46d6d6b6-64a2-404d-e524-65f807cabbbe]
   - (a) has the same meaning as in the Care Standards Act 2000 in respect of a care home in England; and
   - (b) means a place in Wales at which a care home service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 is provided wholly or mainly to persons aged 18 or over;”
 - “**care order**” has the meaning given by section 31(11) and also includes any order which by or under any enactment has the effect of, or is deemed to be, a care order for the purposes of this Act; and any reference to a child who is in the care of an authority is a reference to a child who is in their care by virtue of a care order;
 - “**child**” means, subject to paragraph 16 of Schedule 1, a person under the age of eighteen;
-- “[^key-10227a8753e7379dacc829ec4d514960]**child arrangements order**” has the meaning given by section 8(1);
+- “[^c-10227a8753e7379dacc829ec4d514960]**child arrangements order**” has the meaning given by section 8(1);
 - “**child assessment order**” has the meaning given by section 43(2);
 - “[^c15175681]**child minder**” has the meaning given by section 71;
 - “[^c18816971]**child of the family**”, in relation to parties to a marriage, or to two people who are civil partners of each other, means—
@@ -40,15 +40,15 @@ summary: ''
   - (b) any other child, other than a child placed with them as foster parents by a local authority or voluntary organisation, who has been treated by both of them as a child of their family;
 - “children’s home”— *(Extent: E+W)*[^M_F_fcad71f8-665e-48ee-8e29-8fe30d00307b]
   - (a) has the same meaning as it has for the purposes of the Care Standards Act 2000 in respect of a children’s home in England (see section 1 of that Act); and *(Extent: E+W)*
-  - (b) means a place in Wales at which—[^key-54723fa2526bc6eac2846955faedfeb7] *(Extent: E+W)*
+  - (b) means a place in Wales at which—[^c-54723fa2526bc6eac2846955faedfeb7] *(Extent: E+W)*
     - ((i)) a care home service is provided wholly or mainly to children, or *(Extent: E+W)*
     - ((ii)) a secure accommodation service is provided, *(Extent: E+W)*
 - and in this paragraph “care home service” and “secure accommodation service” have the meaning given in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2); *(Extent: E+W)*
-- [^key-1e221d39bd9c7a056b4922af12790ada]...
+- [^c-1e221d39bd9c7a056b4922af12790ada]...
 - “**community home**” has the meaning given by section 53;
-- [^key-699dc9b07ce52588ade617bdf7b47777]...
-- [^key-699dc9b07ce52588ade617bdf7b47777]...
-- [^key-699dc9b07ce52588ade617bdf7b47777]...
+- [^c-699dc9b07ce52588ade617bdf7b47777]...
+- [^c-699dc9b07ce52588ade617bdf7b47777]...
+- [^c-699dc9b07ce52588ade617bdf7b47777]...
 - “**day care**” [^c20907081]... has the same meaning as in section 18;
 - “**disabled**”, in relation to a child, has the same meaning as in section 17(11);
 - [^c15175711]...
@@ -77,9 +77,9 @@ summary: ''
   - (a) in relation to England, means a hospital as defined by section 275 of the National Health Service Act 2006 that is not a health service hospital as defined by that section; and
   - (b) in relation to Wales, has the same meaning as in the Care Standards Act 2000;
 - “**independent school**” has the same meaning as in the Education Act 1996[^c15175801];
-- “[^key-1d5d3018497c24e95d5f80eef9c253f0]**integrated care board**” means a body established under section 14Z25 of the National Health Service Act 2006;
+- “[^c-1d5d3018497c24e95d5f80eef9c253f0]**integrated care board**” means a body established under section 14Z25 of the National Health Service Act 2006;
 - “**local authority**” means, in relation to England [^c15175811]..., the council of a county, a metropolitan district, a London Borough or the Common Council of the City of London in relation to Wales, the council of a county or a county borough[^c15175821] and, in relation to Scotland, a local authority within the meaning of section 1(2) of the [^c15175831] Social Work (Scotland) Act 1968;
-- “[^c22562711] *(Extent: E+W)* *(affected by repeal, see note)*[^key-c842033400cda5461ac1c46ccc23ce78]**local authority foster parent *(Extent: E+W)* *(affected by repeal, see note)*[^key-c842033400cda5461ac1c46ccc23ce78]**” has the meaning given in section 22C(12); *(Extent: E+W)* *(affected by repeal, see note)*[^key-c842033400cda5461ac1c46ccc23ce78]
+- “[^c22562711] *(Extent: E+W)* *(affected by repeal, see note)*[^c-c842033400cda5461ac1c46ccc23ce78]**local authority foster parent *(Extent: E+W)* *(affected by repeal, see note)*[^c-c842033400cda5461ac1c46ccc23ce78]**” has the meaning given in section 22C(12); *(Extent: E+W)* *(affected by repeal, see note)*[^c-c842033400cda5461ac1c46ccc23ce78]
 - “local authority foster parent” means a person authorised as such in accordance with regulations made by virtue of— *(Extent: E+W)*
   - (a) paragraph 12F of Schedule 2; or *(Extent: E+W)*
   - (b) sections 87 and 93 of the Social Services and Well-being (Wales) Act 2014 (regulations providing for approval of local authority foster parents); *(Extent: E+W)*
@@ -93,14 +93,14 @@ summary: ''
 - “**parental responsibility agreement**” has the meaning given in sections 4(1)[^c18906651] , 4ZA(4)[^c19949371] and 4A(2);
 - “**prescribed**” means prescribed by regulations made under this Act;
 - “[^c15175911]**private children’s home**” means a children’s home in respect of which a person is registered under Part II of the Care Standards Act 2000 or Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016[^M_F_1d5c204d-4c2c-4def-d1d9-d5c94d6ba5c4] which is not a community home or a voluntary home;
-- [^key-8f1946fd62adf46ab50918ebc5fe87ac]...
+- [^c-8f1946fd62adf46ab50918ebc5fe87ac]...
 - “**privately fostered child**” and “**to foster a child privately**” have the same meaning as in section 66;
 - “**prohibited steps order**” has the meaning given by section 8(1);
 - [^c18817041]...
 - “[^c15175951]**registered children’s home**” has the same meaning as in section 63;
 - “**registered pupil**” has the same meaning as in the Education Act 1996;
 - “**relative**”, in relation to a child, means a grandparent, brother, sister, uncle or aunt (whether of the full blood or half blood or by marriage or civil partnership)[^c18817001] or step-parent;
-- [^key-699dc9b07ce52588ade617bdf7b47777]...
+- [^c-699dc9b07ce52588ade617bdf7b47777]...
 - “[^c15175971]**residential care home**” has the same meaning as in the Registered Homes Act 1984 and “small home” has the meaning given by section 1(4A) of that Act[^c15175981];
 - “**responsible person**”, in relation to a child who is the subject of a supervision order, has the meaning given in paragraph 1 of Schedule 3;
 - “**school**” has the same meaning as in the Education Act 1996 or, in relation to Scotland, in the [^c15176001] Education (Scotland) Act 1980;
@@ -111,7 +111,7 @@ summary: ''
 - “[^c15176032]**special guardian**” and “**special guardianship order**” have the meaning given by section 14A;
 - “[^c15176041]**Special Health Authority**” means a Special Health Authority established under section 28 of the National Health Service Act 2006 or section 22 of the National Health Service (Wales) Act 2006,[^c18901061];
 - “**specific issue order**” has the meaning given by section 8(1);
-- [^key-8f5d0fe561e8352f40b59afe70789691]...
+- [^c-8f5d0fe561e8352f40b59afe70789691]...
 - “**supervision order**” has the meaning given by section 31(11);
 - “**supervised child**” and “**supervisor**”, in relation to a supervision order or an education supervision order, mean respectively the child who is (or is to be) under supervision and the person under whose supervision he is (or is to be) by virtue of the order;
 - “**upbringing**”, in relation to any child, includes the care of the child but not his maintenance;
@@ -119,22 +119,22 @@ summary: ''
 - “**voluntary organisation**” means a body (other than a public or local authority) whose activities are not carried on for profit;
 - “[^c18815391]**Welsh family proceedings officer**” has the meaning given by section 35 of the Children Act 2004.
 
-(2) References in this Act to a child whose father and mother were, or (as the case may be) were not, married to , or civil partners of,[^key-7a3230e89097c63a23688b62299545c5] each other at the time of his birth must be read with section 1 of the [^c15176061] Family Law Reform Act 1987 (which extends the meaning of such references).
+(2) References in this Act to a child whose father and mother were, or (as the case may be) were not, married to , or civil partners of,[^c-7a3230e89097c63a23688b62299545c5] each other at the time of his birth must be read with section 1 of the [^c15176061] Family Law Reform Act 1987 (which extends the meaning of such references).
 
-(3)[^key-3875d4e957328035fffc77bfd71cc80d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3875d4e957328035fffc77bfd71cc80d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-2987d5ec184d32fc994391748447a4c8][^key-b1e22f52d4a2e3a29eb9493dfde6e2db][^key-a200c13f56604f7865223b1168a8ddd2] References in this Act to a child who is looked after—
+(4)[^c-2987d5ec184d32fc994391748447a4c8][^c-b1e22f52d4a2e3a29eb9493dfde6e2db][^c-a200c13f56604f7865223b1168a8ddd2] References in this Act to a child who is looked after—
 
 - (a) in relation to a child who is looked after by a local authority in England, has the meaning given in section 22; and
 - (b) in relation to a child who is looked after by a local authority in Wales, has the meaning given in section 74 of the Social Services and Well-being (Wales) Act 2014 (child or young person looked after by a local authority).
 
-(5) References in this Act to accommodation provided by or on behalf of a local authority are references to accommodation so provided in the exercise of functions of that or any other local authority which are social services functions[^c15176081] [^key-c19bec61b2ab3eca5e301e0dfe0aeb92]....
+(5) References in this Act to accommodation provided by or on behalf of a local authority are references to accommodation so provided in the exercise of functions of that or any other local authority which are social services functions[^c15176081] [^c-c19bec61b2ab3eca5e301e0dfe0aeb92]....
 
 (5A)[^c20907101] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5B)[^c15176121] References in this Act to acting as a child minder and to a child minder shall be construed, in relation to Scotland, in accordance with section 2(17) of the Regulation of Care (Scotland) Act 2001 (asp 8).
 
-(5B)[^key-d3f80bd48b65a62df07d0f9957aff5a5] In subsection (5) “social services functions” means—
+(5B)[^c-d3f80bd48b65a62df07d0f9957aff5a5] In subsection (5) “social services functions” means—
 
 - (a) in England, social services functions within the meaning of the Local Authority Social Services Act 1970, and
 - (b) in Wales, social services functions within the meaning of the Social Services and Well-being (Wales) Act 2014.
@@ -143,14 +143,14 @@ summary: ''
 
 - (a) which is a school or other institution;
 - (b) in accordance with the requirements of a supervision order under this Act [^c19949461] ...;
-- (ba)[^c19957521] in accordance with the requirements of a youth rehabilitation order under Chapter 1 of Part 9 of the Sentencing Code[^key-fce071e32aabe45a98c5b5b875982716]; or
+- (ba)[^c19957521] in accordance with the requirements of a youth rehabilitation order under Chapter 1 of Part 9 of the Sentencing Code[^c-fce071e32aabe45a98c5b5b875982716]; or
 - (c) while he is being provided with accommodation by or on behalf of a local authority.
 
 (7) References in this Act to children who are in need shall be construed in accordance with section 17.
 
 (7A)[^M_F_e6c89597-dd3b-40dd-bc0d-f87b1e910bbc] References in this Act to a hospital or accommodation made available or provided pursuant to arrangements made by the Secretary of State under the National Health Service Act 2006 are references to a hospital or accommodation made available or provided pursuant to arrangements so made in the exercise of the public health functions of the Secretary of State (within the meaning of that Act).
 
-(7B)[^key-67ed5f059f0ee4df154272ab39df283d] References in this Act to arrangements made by NHS England or an integrated care board under the National Health Service Act 2006 include references to arrangements so made in the exercise of functions of another person by virtue of any provision of that Act.
+(7B)[^c-67ed5f059f0ee4df154272ab39df283d] References in this Act to arrangements made by NHS England or an integrated care board under the National Health Service Act 2006 include references to arrangements so made in the exercise of functions of another person by virtue of any provision of that Act.
 
 (8) Any notice or other document required under this Act to be served on any person may be served on him by being delivered personally to him, or being sent by post to him in a registered letter or by the recorded delivery service at his proper address.
 
@@ -166,17 +166,17 @@ summary: ''
 
 [^c15175631]: Commencement: S. 105 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-9132d19d2edd6e0563e8ab8669352237]: Textual amendment: Words in s. 105(1) inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 38(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/38/2/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-9132d19d2edd6e0563e8ab8669352237]: Textual amendment: Words in s. 105(1) inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 38(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/38/2/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
 [^c15175642]: Textual amendment: S. 105(1): words in definition of "adoption agency" substituted (30.12.2005) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 139](https://www.legislation.gov.uk/ukpga/2002/38/section/139), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148), [Sch. 3 para. 70(a)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/70/a) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
 
-[^key-69751f4fcc51350fda9426191f072f64]: Textual amendment: Words in s. 105(1) repealed (1.4.2011 for E., 6.4.2016 for W.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [s. 44(4)](https://www.legislation.gov.uk/ukpga/2008/23/section/44/4), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/ukpga/2008/23/schedule/1/paragraph/3/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2008/23/schedule/4); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(a)(l)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/a/l); [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(b)](https://www.legislation.gov.uk/wsi/2016/452/article/2/b); [S.I. 2017/948](https://www.legislation.gov.uk/wsi/2017/948), [art. 2(c)(ii)](https://www.legislation.gov.uk/wsi/2017/948/article/2/c/ii)
+[^c-69751f4fcc51350fda9426191f072f64]: Textual amendment: Words in s. 105(1) repealed (1.4.2011 for E., 6.4.2016 for W.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [s. 44(4)](https://www.legislation.gov.uk/ukpga/2008/23/section/44/4), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/ukpga/2008/23/schedule/1/paragraph/3/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2008/23/schedule/4); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(a)(l)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/a/l); [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(b)](https://www.legislation.gov.uk/wsi/2016/452/article/2/b); [S.I. 2017/948](https://www.legislation.gov.uk/wsi/2017/948), [art. 2(c)(ii)](https://www.legislation.gov.uk/wsi/2017/948/article/2/c/ii)
 
 [^c15175661]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
 [^M_F_46d6d6b6-64a2-404d-e524-65f807cabbbe]: Textual amendment: Words in s. 105(1) substituted (E.W.) (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/uksi/2018/195), [regs. 2](https://www.legislation.gov.uk/uksi/2018/195/regulation/2), [12(a)](https://www.legislation.gov.uk/uksi/2018/195/regulation/12/a)
 
-[^key-10227a8753e7379dacc829ec4d514960]: Textual amendment: Words in s. 105(1) inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 38(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/38/2/b); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-10227a8753e7379dacc829ec4d514960]: Textual amendment: Words in s. 105(1) inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 38(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/38/2/b); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
 [^c15175681]: Textual amendment: S. 105(1): definition of "child minder" repealed (1.4.2002 for W. and otherwise (prosp.) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [ss. 117(2)](https://www.legislation.gov.uk/ukpga/2000/14/section/117/2), [122](https://www.legislation.gov.uk/ukpga/2000/14/section/122), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/14/schedule/6); S.I. 2002/ 920, art. 3(3)(g) (with arts. 3(5)-(10))
 
@@ -184,11 +184,11 @@ summary: ''
 
 [^M_F_fcad71f8-665e-48ee-8e29-8fe30d00307b]: Textual amendment: Words in s. 105(1) substituted (E.W.) (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/uksi/2018/195), [regs. 2](https://www.legislation.gov.uk/uksi/2018/195/regulation/2), [12(b)](https://www.legislation.gov.uk/uksi/2018/195/regulation/12/b)
 
-[^key-54723fa2526bc6eac2846955faedfeb7]: Textual amendment: Words in s. 105(1) substituted (E.W.) (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2019 (S.I. 2019/772)](https://www.legislation.gov.uk/wsi/2019/772), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/772/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2019/772/regulation/5)
+[^c-54723fa2526bc6eac2846955faedfeb7]: Textual amendment: Words in s. 105(1) substituted (E.W.) (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2019 (S.I. 2019/772)](https://www.legislation.gov.uk/wsi/2019/772), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/772/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2019/772/regulation/5)
 
-[^key-1e221d39bd9c7a056b4922af12790ada]: Textual amendment: Words in [s. 105(1)](https://www.legislation.gov.uk/ukpga/1989/41/section/105/1) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 36(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/36/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-1e221d39bd9c7a056b4922af12790ada]: Textual amendment: Words in [s. 105(1)](https://www.legislation.gov.uk/ukpga/1989/41/section/105/1) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 36(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/36/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-699dc9b07ce52588ade617bdf7b47777]: Textual amendment: Words in s. 105(1) omitted (22.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 38(2)(c)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/38/2/c); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-699dc9b07ce52588ade617bdf7b47777]: Textual amendment: Words in s. 105(1) omitted (22.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 38(2)(c)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/38/2/c); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
 [^c20907081]: Textual amendment: S. 105(1): words in the definition of "day care" repealed (W.) (1.4.2011) by Children and Families (Wales) Measure 2010 (nawm 1), ss. 72, 73, 75, Sch. 1 para. 7(a)(i), Sch. 2; [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582), [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2010/2582/article/3), [4](https://www.legislation.gov.uk/uksi/2010/2582/article/4), [5](https://www.legislation.gov.uk/uksi/2010/2582/article/5)) (as amended by [S.I. 2011/577](https://www.legislation.gov.uk/uksi/2011/577), [art. 2](https://www.legislation.gov.uk/uksi/2011/577/article/2))
 
@@ -216,7 +216,7 @@ summary: ''
 
 [^c15175801]: Textual amendment: Words in s. 105(1) substituted (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(1)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/1), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 37](https://www.legislation.gov.uk/ukpga/1996/56/schedule/37), [Pt. I para. 91](https://www.legislation.gov.uk/ukpga/1996/56/part/I/paragraph/91)(with Sch. 39, paras. 30, 39)
 
-[^key-1d5d3018497c24e95d5f80eef9c253f0]: Textual amendment: Words in [s. 105(1)](https://www.legislation.gov.uk/ukpga/1989/41/section/105/1) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 36(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/36/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-1d5d3018497c24e95d5f80eef9c253f0]: Textual amendment: Words in [s. 105(1)](https://www.legislation.gov.uk/ukpga/1989/41/section/105/1) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 36(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/36/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
 [^c15175811]: Textual amendment: Words in s. 105(1) repealed (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [ss. 22(4)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/4), [s. 66(8)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/8), [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/1994/19/schedule/10/paragraph/13), [Sch. 18](https://www.legislation.gov.uk/ukpga/1994/19/schedule/18)(with s. 66(7), Sch. 17 paras. 22, 23(2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
@@ -226,7 +226,7 @@ summary: ''
 
 [^c22562711]: Textual amendment: S. 105(1): definition substituted (1.4.2011 for E., otherwise prosp.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/2), [44](https://www.legislation.gov.uk/ukpga/2008/23/section/44), [Sch. 1 para. 3(4)](https://www.legislation.gov.uk/ukpga/2008/23/schedule/1/paragraph/3/4); [S.I. 2010/2891](https://www.legislation.gov.uk/uksi/2010/2891), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/2891/article/4/a)
 
-[^key-c842033400cda5461ac1c46ccc23ce78]: Textual amendment: Words in s. 105(1) substituted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [106(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/106/a)
+[^c-c842033400cda5461ac1c46ccc23ce78]: Textual amendment: Words in s. 105(1) substituted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [106(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/106/a)
 
 [^c20905361]: Textual amendment: S. 105(1): definition of "local education authority" repealed (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [5(1)(2)](https://www.legislation.gov.uk/uksi/2010/1158/article/5/1/2), [Sch. 2 para. 37(13)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/37/13/b), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2)
 
@@ -250,7 +250,7 @@ summary: ''
 
 [^M_F_1d5c204d-4c2c-4def-d1d9-d5c94d6ba5c4]: Textual amendment: Words in s. 105(1) inserted (E.W.) (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/uksi/2018/195), [regs. 2](https://www.legislation.gov.uk/uksi/2018/195/regulation/2), [12(c)](https://www.legislation.gov.uk/uksi/2018/195/regulation/12/c)
 
-[^key-8f1946fd62adf46ab50918ebc5fe87ac]: Textual amendment: Words in s. 105(1) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 56(2)(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/56/2/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-8f1946fd62adf46ab50918ebc5fe87ac]: Textual amendment: Words in s. 105(1) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 56(2)(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/56/2/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c18817041]: Textual amendment: S. 105(1): definition of "protected child" repealed (30.12.2005) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 139](https://www.legislation.gov.uk/ukpga/2002/38/section/139), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148), [Sch. 3 para. 70(d)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/70/d), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
 
@@ -274,40 +274,40 @@ summary: ''
 
 [^c18901061]: Textual amendment: S. 105: words in definition of "Special Health Authority" substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 2](https://www.legislation.gov.uk/ukpga/2006/43/section/2), [Sch. 1 para. 125(d)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/125/d)
 
-[^key-8f5d0fe561e8352f40b59afe70789691]: Textual amendment: Words in s. 105(1) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 56(2)(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/56/2/c); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-8f5d0fe561e8352f40b59afe70789691]: Textual amendment: Words in s. 105(1) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 56(2)(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/56/2/c); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c18815391]: Textual amendment: S. 105(1): definition of "Welsh family proceedings officer" inserted (1.4.2005) by Children Act 2004, (c. 31), s. 40, {Sch. 3 para. 11}; [S.I. 2005/700](https://www.legislation.gov.uk/uksi/2005/700), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/700/article/2/2)
 
-[^key-7a3230e89097c63a23688b62299545c5]: Textual amendment: Words in s. 105(2) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [15(4)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/15/4)
+[^c-7a3230e89097c63a23688b62299545c5]: Textual amendment: Words in s. 105(2) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [15(4)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/15/4)
 
 [^c15176061]: Marginal citation: [1987 c. 42](https://www.legislation.gov.uk/ukpga/1987/42).
 
-[^key-3875d4e957328035fffc77bfd71cc80d]: Textual amendment: S. 105(3) omitted (22.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 38(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/38/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-3875d4e957328035fffc77bfd71cc80d]: Textual amendment: S. 105(3) omitted (22.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 38(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/38/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-2987d5ec184d32fc994391748447a4c8]: Modification: [S. 105(4)](https://www.legislation.gov.uk/ukpga/1989/41/section/105/4) applied (26.7.2021) by [The Disability Assistance for Children and Young People (Scotland) Regulations 2021 (S.S.I. 2021/174)](https://www.legislation.gov.uk/ssi/2021/174), [regs. 1](https://www.legislation.gov.uk/ssi/2021/174/regulation/1), [17(6)(b)](https://www.legislation.gov.uk/ssi/2021/174/regulation/17/6/b) (with [sch. para. 13(a)](https://www.legislation.gov.uk/ssi/2021/174/schedule/paragraph/13/a))
+[^c-2987d5ec184d32fc994391748447a4c8]: Modification: [S. 105(4)](https://www.legislation.gov.uk/ukpga/1989/41/section/105/4) applied (26.7.2021) by [The Disability Assistance for Children and Young People (Scotland) Regulations 2021 (S.S.I. 2021/174)](https://www.legislation.gov.uk/ssi/2021/174), [regs. 1](https://www.legislation.gov.uk/ssi/2021/174/regulation/1), [17(6)(b)](https://www.legislation.gov.uk/ssi/2021/174/regulation/17/6/b) (with [sch. para. 13(a)](https://www.legislation.gov.uk/ssi/2021/174/schedule/paragraph/13/a))
 
-[^key-b1e22f52d4a2e3a29eb9493dfde6e2db]: Modification: [S. 105(4)](https://www.legislation.gov.uk/ukpga/1989/41/section/105/4) applied (S.) (21.3.2022) by [The Disability Assistance for Working Age People (Scotland) Regulations 2022 (S.S.I. 2022/54)](https://www.legislation.gov.uk/ssi/2022/54), [regs. 1](https://www.legislation.gov.uk/ssi/2022/54/regulation/1), [27(6)(b)](https://www.legislation.gov.uk/ssi/2022/54/regulation/27/6/b)
+[^c-b1e22f52d4a2e3a29eb9493dfde6e2db]: Modification: [S. 105(4)](https://www.legislation.gov.uk/ukpga/1989/41/section/105/4) applied (S.) (21.3.2022) by [The Disability Assistance for Working Age People (Scotland) Regulations 2022 (S.S.I. 2022/54)](https://www.legislation.gov.uk/ssi/2022/54), [regs. 1](https://www.legislation.gov.uk/ssi/2022/54/regulation/1), [27(6)(b)](https://www.legislation.gov.uk/ssi/2022/54/regulation/27/6/b)
 
-[^key-a200c13f56604f7865223b1168a8ddd2]: Textual amendment: S. 105(4) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [106(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/106/b)
+[^c-a200c13f56604f7865223b1168a8ddd2]: Textual amendment: S. 105(4) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [106(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/106/b)
 
 [^c15176081]: Textual amendment: Words in s. 105(5) substituted (E.W.) (26.10.2000 for E. and 28.7.2001 for W.) by [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22), [ss. 107(1)](https://www.legislation.gov.uk/ukpga/2000/22/section/107/1), [108(4)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/4), [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/22); [S.I. 2000/2849](https://www.legislation.gov.uk/uksi/2000/2849), [art. 2(f)](https://www.legislation.gov.uk/uksi/2000/2849/article/2/f)
 
-[^key-c19bec61b2ab3eca5e301e0dfe0aeb92]: Textual amendment: Words in s. 105(5) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [106(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/106/c)
+[^c-c19bec61b2ab3eca5e301e0dfe0aeb92]: Textual amendment: Words in s. 105(5) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [106(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/106/c)
 
 [^c20907101]: Textual amendment: S. 105(5A) repealed (W.) (1.4.2011) by Children and Families (Wales) Measure 2010 (nawm 1), ss. 72, 73, 75, Sch. 1 para. 7(b), Sch. 2; [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582), [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2010/2582/article/3), [4](https://www.legislation.gov.uk/uksi/2010/2582/article/4), [5](https://www.legislation.gov.uk/uksi/2010/2582/article/5)) (as amended by [S.I. 2011/577](https://www.legislation.gov.uk/uksi/2011/577), [art. 2](https://www.legislation.gov.uk/uksi/2011/577/article/2))
 
 [^c15176121]: Textual amendment: S. 105(5B) inserted (S.) (1.4.2002) by [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8), [s. 79](https://www.legislation.gov.uk/asp/2001/8/section/79), [Sch. 3 para. 15(2)(b)](https://www.legislation.gov.uk/asp/2001/8/schedule/3/paragraph/15/2/b); [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(f)(h)](https://www.legislation.gov.uk/ssi/2002/162/article/2/f/h) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
-[^key-d3f80bd48b65a62df07d0f9957aff5a5]: Textual amendment: S. 105(5B) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [106(d)](https://www.legislation.gov.uk/wsi/2016/413/regulation/106/d)
+[^c-d3f80bd48b65a62df07d0f9957aff5a5]: Textual amendment: S. 105(5B) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [106(d)](https://www.legislation.gov.uk/wsi/2016/413/regulation/106/d)
 
 [^c19949461]: Textual amendment: Words in s. 105(6)(b) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 6](https://www.legislation.gov.uk/ukpga/2008/4/section/6), [149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153), [Sch. 4 para. 36(a)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/36/a), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with Sch. 27 paras. 1 and 5); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)(u)(xi)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v/u/xi)
 
 [^c19957521]: Textual amendment: S. 105(6)(ba) inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 6](https://www.legislation.gov.uk/ukpga/2008/4/section/6), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153), [Sch. 4 para. 36(b)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/36/b) (with Sch. 27 paras. 1 and 5); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-fce071e32aabe45a98c5b5b875982716]: Textual amendment: Words in s. 105(6)(ba) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 111](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/111) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fce071e32aabe45a98c5b5b875982716]: Textual amendment: Words in s. 105(6)(ba) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 111](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/111) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^M_F_e6c89597-dd3b-40dd-bc0d-f87b1e910bbc]: Textual amendment: S. 105(7A)(7B) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 56(3)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/56/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-67ed5f059f0ee4df154272ab39df283d]: Textual amendment: [S. 105(7B)](https://www.legislation.gov.uk/ukpga/1989/41/section/105/7B) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/9/paragraph/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-67ed5f059f0ee4df154272ab39df283d]: Textual amendment: [S. 105(7B)](https://www.legislation.gov.uk/ukpga/1989/41/section/105/7B) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/9/paragraph/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
 [^c15176141]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

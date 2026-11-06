@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27A. Exclusivity terms unenforceable in zero hours contracts[^key-3b2d6785ef50f2f2030c118e7cb57e40]
+## 27A. Exclusivity terms unenforceable in zero hours contracts[^c-3b2d6785ef50f2f2030c118e7cb57e40]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ is unenforceable against the worker.
 
 ## Annotations
 
-[^key-3b2d6785ef50f2f2030c118e7cb57e40]: Textual amendment: Pt. 2A (ss. 27A, 27B) inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 153(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/153/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 153(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/153/2)); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/g)
+[^c-3b2d6785ef50f2f2030c118e7cb57e40]: Textual amendment: Pt. 2A (ss. 27A, 27B) inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 153(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/153/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 153(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/153/2)); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/g)

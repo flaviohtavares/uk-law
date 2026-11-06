@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Compensation for miscarriages of justice[^key-f33bbaab7008ab0486e9b5f95ee22ade]
+## 113. Compensation for miscarriages of justice[^c-f33bbaab7008ab0486e9b5f95ee22ade]
 
 *Extent: S*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f33bbaab7008ab0486e9b5f95ee22ade]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2010/13/section/113) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2010/413/article/7))
+[^c-f33bbaab7008ab0486e9b5f95ee22ade]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2010/13/section/113) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2010/413/article/7))

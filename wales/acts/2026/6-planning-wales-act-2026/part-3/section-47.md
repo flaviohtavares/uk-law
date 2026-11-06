@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Grant of planning permission on application[^key-a0a8eb55b7aee3949831d14ff82b6bd8]
+## 47. Grant of planning permission on application[^c-a0a8eb55b7aee3949831d14ff82b6bd8]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0a8eb55b7aee3949831d14ff82b6bd8]: Commencement: S. 47 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a0a8eb55b7aee3949831d14ff82b6bd8]: Commencement: S. 47 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

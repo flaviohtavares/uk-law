@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.9. Housing administrator’s duties on vacating office[^key-2760f5f896e1ed400cf9e7f8a2a2a472]
+## 6.9. Housing administrator’s duties on vacating office[^c-2760f5f896e1ed400cf9e7f8a2a2a472]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2760f5f896e1ed400cf9e7f8a2a2a472]: Commencement: Rule 6.9 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-2760f5f896e1ed400cf9e7f8a2a2a472]: Commencement: Rule 6.9 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

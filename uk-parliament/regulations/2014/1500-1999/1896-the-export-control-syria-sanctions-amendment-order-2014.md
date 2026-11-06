@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Syria Sanctions) (Amendment) Order 2014 (revoked)[^key-7af07ead7460bfa07cc2074fe9221b85]
+The Export Control (Syria Sanctions) (Amendment) Order 2014 (revoked)[^c-7af07ead7460bfa07cc2074fe9221b85]
 
 Made
 
@@ -46,19 +46,19 @@ Coming into force
 
 8th August 2014
 
-[^key-7af07ead7460bfa07cc2074fe9221b85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7af07ead7460bfa07cc2074fe9221b85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-7af07ead7460bfa07cc2074fe9221b85]
+## 1. Citation and Commencement[^c-7af07ead7460bfa07cc2074fe9221b85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Export Control (Syria Sanctions) Order 2013[^key-7af07ead7460bfa07cc2074fe9221b85]
+## 2. Amendment of the Export Control (Syria Sanctions) Order 2013[^c-7af07ead7460bfa07cc2074fe9221b85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7af07ead7460bfa07cc2074fe9221b85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7af07ead7460bfa07cc2074fe9221b85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -66,4 +66,4 @@ Coming into force
 
 ## Annotations
 
-[^key-7af07ead7460bfa07cc2074fe9221b85]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1896) revoked (31.12.2020) by [The Syria (United Nations Sanctions) (Cultural Property) (EU Exit) Regulations 2020 (S.I. 2020/1233)](https://www.legislation.gov.uk/uksi/2020/1233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1233/regulation/1/2), [33(3)](https://www.legislation.gov.uk/uksi/2020/1233/regulation/33/3); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 19](https://www.legislation.gov.uk/uksi/2020/1514/regulation/19)
+[^c-7af07ead7460bfa07cc2074fe9221b85]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1896) revoked (31.12.2020) by [The Syria (United Nations Sanctions) (Cultural Property) (EU Exit) Regulations 2020 (S.I. 2020/1233)](https://www.legislation.gov.uk/uksi/2020/1233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1233/regulation/1/2), [33(3)](https://www.legislation.gov.uk/uksi/2020/1233/regulation/33/3); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 19](https://www.legislation.gov.uk/uksi/2020/1514/regulation/19)

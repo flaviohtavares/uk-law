@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Agency arrangements and provision of services[^key-68d2a63991ff3dd8c7324b9e478d676a]
+## 35. Agency arrangements and provision of services[^c-68d2a63991ff3dd8c7324b9e478d676a]
 
 *Extent: E+W+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68d2a63991ff3dd8c7324b9e478d676a]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2004/30/section/35) in force at 1.4.2005 by [S.I. 2005/919](https://www.legislation.gov.uk/uksi/2005/919), [art. 3](https://www.legislation.gov.uk/uksi/2005/919/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/919/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/919/article/2))
+[^c-68d2a63991ff3dd8c7324b9e478d676a]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2004/30/section/35) in force at 1.4.2005 by [S.I. 2005/919](https://www.legislation.gov.uk/uksi/2005/919), [art. 3](https://www.legislation.gov.uk/uksi/2005/919/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/919/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/919/article/2))

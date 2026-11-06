@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Part-time grants for dependants - interpretation[^key-9234ff87743da1bed1a3c50012245b14]
+## 95. Part-time grants for dependants - interpretation[^c-9234ff87743da1bed1a3c50012245b14]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 - (f) “financial year” (“*blwyddyn ariannol*”) means the period of twelve months in respect of which the income of a dependant (whose income is calculated under regulations 89 to 94) is computed for the purposes of the income tax legislation which applies to it;
 - (g) “lone parent” (“*rhiant unigol*”) means an eligible part-time student who does not have a partner and who has a dependent child;
 - (h) “Member State” (“*Aelod-wladwriaeth*”) means a Member State of the European Union;
-- (i) “net income” (“*incwm net*”) has the meaning given in paragraph (7)[^key-9fd1e0e6a6a7bf39d9103edeb77a0040];
+- (i) “net income” (“*incwm net*”) has the meaning given in paragraph (7)[^c-9fd1e0e6a6a7bf39d9103edeb77a0040];
 - (j) subject to sub-paragraphs (p), (q), (r) and paragraphs (3) and (4) “partner” (“*partner*”) means any of the following—
   - (i) the spouse of an eligible part-time student;
   - (ii) the civil partner of an eligible part-time student;
@@ -42,8 +42,8 @@ summary: ''
 - (n) “residual income” (“*incwm gweddilliol*”) means taxable income after the application of paragraph (10) (in the case of an eligible part-time student’s partner) or paragraph (11) (in the case of an eligible part-time student’s adult dependant);
 - (o) “taxable income” (“*incwm trethadwy*”) means, in respect of the prior financial year—
   - (i) the total income on which a person is charged to income tax as determined at Step 1 of the calculation in section 23 of the Income Tax Act 2007[^f00087], together with any payments and other benefits mentioned in section 401(1) of the Income Tax (Earnings and Pensions) Act 2003[^f00088] (ignoring section 401(2) of that Act), received or treated as received by a person, to the extent that they are not a component of the total income on which a person is charged to income tax;
-  - (ii) a person’s total income from all sources as determined for the purposes of the income tax legislation of a Member State[^key-a03bdd258f3d28a9cef8a3fb90953362] which applies to the person’s income; or
-  - (iii)[^key-a8a8e789f0bad51c2e996db47e900b13] where the legislation of—
+  - (ii) a person’s total income from all sources as determined for the purposes of the income tax legislation of a Member State[^c-a03bdd258f3d28a9cef8a3fb90953362] which applies to the person’s income; or
+  - (iii)[^c-a8a8e789f0bad51c2e996db47e900b13] where the legislation of—
     - (aa) the United Kingdom and one or more Member State; or
     - (bb) more than one Member State,
 
@@ -109,17 +109,17 @@ summary: ''
 
 ## Annotations
 
-[^key-9234ff87743da1bed1a3c50012245b14]: Commencement: Reg. 95 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-9234ff87743da1bed1a3c50012245b14]: Commencement: Reg. 95 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
-[^key-9fd1e0e6a6a7bf39d9103edeb77a0040]: Textual amendment: Word in [reg. 95(1)(i)](https://www.legislation.gov.uk/wsi/2017/47/regulation/95/1/i) substituted (12.3.2018) by [The Education (Student Support) (Wales) Regulations 2018 (S.I. 2018/191)](https://www.legislation.gov.uk/wsi/2018/191), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/1/2), [Sch. 6 para. 14](https://www.legislation.gov.uk/wsi/2018/191/schedule/6/paragraph/14) (with [reg. 2(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/2)[(3)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/3))
+[^c-9fd1e0e6a6a7bf39d9103edeb77a0040]: Textual amendment: Word in [reg. 95(1)(i)](https://www.legislation.gov.uk/wsi/2017/47/regulation/95/1/i) substituted (12.3.2018) by [The Education (Student Support) (Wales) Regulations 2018 (S.I. 2018/191)](https://www.legislation.gov.uk/wsi/2018/191), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/1/2), [Sch. 6 para. 14](https://www.legislation.gov.uk/wsi/2018/191/schedule/6/paragraph/14) (with [reg. 2(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/2)[(3)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/3))
 
 [^f00087]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3); section 23 was amended by the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), Schedule 1, paragraph 6(o)(i), and the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), Schedule 3, paragraph 2(2).
 
 [^f00088]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1); section 401 was amended by [S.I. 2005/3229](https://www.legislation.gov.uk/uksi/2005/3229), [S.I. 2011/1037](https://www.legislation.gov.uk/uksi/2011/1037) and [S.I. 2014/211](https://www.legislation.gov.uk/uksi/2014/211).
 
-[^key-a03bdd258f3d28a9cef8a3fb90953362]: Textual amendment: Words in [reg. 95(1)(o)(ii)](https://www.legislation.gov.uk/wsi/2017/47/regulation/95/1/o/ii) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [18(a)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/18/a)
+[^c-a03bdd258f3d28a9cef8a3fb90953362]: Textual amendment: Words in [reg. 95(1)(o)(ii)](https://www.legislation.gov.uk/wsi/2017/47/regulation/95/1/o/ii) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [18(a)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/18/a)
 
-[^key-a8a8e789f0bad51c2e996db47e900b13]: Textual amendment: [Reg. 95(1)(o)(iii)](https://www.legislation.gov.uk/wsi/2017/47/regulation/95/1/o/iii) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [18(b)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/18/b)
+[^c-a8a8e789f0bad51c2e996db47e900b13]: Textual amendment: [Reg. 95(1)(o)(iii)](https://www.legislation.gov.uk/wsi/2017/47/regulation/95/1/o/iii) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [18(b)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/18/b)
 
 [^f00089]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4) to which there are amendments not relevant to these Regulations.
 

@@ -56,7 +56,7 @@ Section 107.
 
 *Extent: E+W*
 
-**8.**[^key-f792eb45eb4b390fdea2a353c497d22b] In section 80 of the Local Government Act 1972 (disqualifications for election and holding office as member of local authority), in subsection (1)(e) the words “or under the Audit Commission Act 1998” are omitted.
+**8.**[^c-f792eb45eb4b390fdea2a353c497d22b] In section 80 of the Local Government Act 1972 (disqualifications for election and holding office as member of local authority), in subsection (1)(e) the words “or under the Audit Commission Act 1998” are omitted.
 
 **9.**[^c1428114] In section 85 of that Act (vacation of office by failure to attend meetings), after subsection (3) there is inserted—
 
@@ -73,17 +73,17 @@ Section 107.
   ,
 - (b) in paragraph (f), for “(e)” there is substituted “ (ee) ”.
 
-**12.**[^key-f4693f28f777f67bd1f62ba06e2acfab] Sections 94 to 98 of that Act (restrictions on voting) cease to have effect.
+**12.**[^c-f4693f28f777f67bd1f62ba06e2acfab] Sections 94 to 98 of that Act (restrictions on voting) cease to have effect.
 
-**13.**[^key-2174b620c0986e6d0ac06a066d9df70c] Section 105 of that Act (disability for voting on account of interest in contracts etc) ceases to have effect.
+**13.**[^c-2174b620c0986e6d0ac06a066d9df70c] Section 105 of that Act (disability for voting on account of interest in contracts etc) ceases to have effect.
 
 ### Local Government Act 1974 (c. 7)
 
 *Extent: E+W*
 
-**14.**[^key-5814fdcd105ee6fd90cc3d35bbbcedf6][^c1428117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-5814fdcd105ee6fd90cc3d35bbbcedf6][^c1428117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-064b74be461a0675c70a22da8430b43d] In section 30 of that Act (reports on investigation by Local Commissioner)—
+**15.**[^c-064b74be461a0675c70a22da8430b43d] In section 30 of that Act (reports on investigation by Local Commissioner)—
 
 - (a) in subsection (3), the words “except where subsection (3A) below applies” are omitted,
 - (b) subsection (3A) is omitted.
@@ -92,13 +92,13 @@ Section 107.
 
 *Extent: E+W*
 
-**16.**[^key-36bba5c9de47a69e4003951ae75c02b3][^c1428119] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-36bba5c9de47a69e4003951ae75c02b3][^c1428119] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### National Health Service Act 1977 (c. 49)
 
 *Extent: E+W*
 
-**17.**[^key-4e746c705f8180263ce517cf061116fa][^c1428124] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-4e746c705f8180263ce517cf061116fa][^c1428124] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Registered Homes Act 1984 (c. 23)
 
@@ -116,7 +116,7 @@ Section 107.
 
 **20.**[^c1428127] In section 42 of that Act (right of guardian ad litem to have access to local authority records), in subsection (1)(b) for the words “stand referred to their social services committee under” there is substituted “ are social services functions within the meaning of ”.
 
-**21.**[^key-4b05d5dd585182c85fa7284be3f58feb][^c1428128] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-4b05d5dd585182c85fa7284be3f58feb][^c1428128] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **22.**[^c1428129] In section 105 of that Act (interpretation), in subsection (5) for the words “which stand referred to the social services committee of that or any other local authority under” there is substituted “ of that or any other local authority which are social services functions within the meaning of ”.
 
@@ -159,9 +159,9 @@ Section 107.
 
 > (8A) Any reference in this section to the duties of a monitoring officer imposed by this section, or to the duties of a monitoring officer under this section, shall include a reference to the functions which are conferred on a monitoring officer by virtue of Part III of the Local Government Act 2000.
 
-**25.**[^key-271e9b49fbc7e5fb9ef437fb84448964] Section 19 of that Act (members’ interests) ceases to have effect.
+**25.**[^c-271e9b49fbc7e5fb9ef437fb84448964] Section 19 of that Act (members’ interests) ceases to have effect.
 
-**26.**[^key-a2397a2d25aae783940c7eda312d3442] Sections 31 and 32(1) of that Act (National Code of Local Government Conduct) are omitted.
+**26.**[^c-a2397a2d25aae783940c7eda312d3442] Sections 31 and 32(1) of that Act (National Code of Local Government Conduct) are omitted.
 
 **27.** Sections 33 to 35 of that Act (economic development and discretionary expenditure by local authorities) cease to have effect.
 
@@ -177,9 +177,9 @@ Section 107.
 
 *Extent: E+W*
 
-**29.**[^key-32c986f90abca89a31b0be19f40d6f40][^c1428134] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-32c986f90abca89a31b0be19f40d6f40][^c1428134] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-6bdb67e5e2759b14d8792a88fd7c5ae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-6bdb67e5e2759b14d8792a88fd7c5ae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Greater London Authority Act 1999 (c. 29)
 
@@ -195,7 +195,7 @@ Section 107.
 
 **33.**[^c1428139] In section 31 of that Act (limits of the general power), in subsection (5), for paragraphs (a) and (b) there is substituted “ any social services function within the meaning of the Local Authority Social Services Act 1970 ”.
 
-**34.**[^key-5a2a09e46dad66e843bc1ba0f772d66e] Section 66 of that Act (the Secretary of State’s guidance on ethical standards) ceases to have effect.
+**34.**[^c-5a2a09e46dad66e843bc1ba0f772d66e] Section 66 of that Act (the Secretary of State’s guidance on ethical standards) ceases to have effect.
 
 ## Annotations
 
@@ -215,7 +215,7 @@ Section 107.
 
 [^c1428113]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
-[^key-f792eb45eb4b390fdea2a353c497d22b]: Commencement: Sch. 5 para. 8 in force at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/a)
+[^c-f792eb45eb4b390fdea2a353c497d22b]: Commencement: Sch. 5 para. 8 in force at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/a)
 
 [^c1428114]: Commencement: Sch. 5 para. 9 wholly in force at 28.7.2001; Sch. 5 para. 9 not in force at Royal Assent see s. 108; Sch. 5 para. 9 in force at 19.12.2000 in relation to England and to police authorities in Wales by [S.I. 2000/3335](https://www.legislation.gov.uk/uksi/2000/3335), [art. 2](https://www.legislation.gov.uk/uksi/2000/3335/article/2); Sch. 5 para. 9 in force at 28.7.2001 in so far as not already in force see s. 108(4)-(6)
 
@@ -223,21 +223,21 @@ Section 107.
 
 [^c1428116]: Commencement: Sch. 5 para. 11 wholly in force at 28.7.2001; Sch. 5 para. 11 not in force at Royal Assent see s. 108; Sch. 5 para. 11 in force at 19.12.2000 in relation to England and to police authorities in Wales by [S.I. 2000/3335](https://www.legislation.gov.uk/uksi/2000/3335), [art. 2](https://www.legislation.gov.uk/uksi/2000/3335/article/2); Sch. 5 para. 11 in force at 28.7.2001 in so far as not already in force see s. 108(4)-(6)
 
-[^key-f4693f28f777f67bd1f62ba06e2acfab]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/12) in force at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/a)
+[^c-f4693f28f777f67bd1f62ba06e2acfab]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/12) in force at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/a)
 
-[^key-2174b620c0986e6d0ac06a066d9df70c]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/13) in force at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/a)
+[^c-2174b620c0986e6d0ac06a066d9df70c]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/13) in force at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/a)
 
-[^key-5814fdcd105ee6fd90cc3d35bbbcedf6]: Textual amendment: Sch. 5 para. 14 repealed (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/21/schedule/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-5814fdcd105ee6fd90cc3d35bbbcedf6]: Textual amendment: Sch. 5 para. 14 repealed (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/21/schedule/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
 
 [^c1428117]: Commencement: Sch. 5 para. 14 wholly in force at 28.7.2001; Sch. 5 para. 14 not in force at Royal Assent see s. 108; Sch. 5 para. 14 in force at 19.12.2000 in relation to England and to police authorities in Wales by [S.I. 2000/3335](https://www.legislation.gov.uk/uksi/2000/3335), [art. 2](https://www.legislation.gov.uk/uksi/2000/3335/article/2); Sch. 5 para. 14 in force at 28.7.2001 in so far as not already in force see s. 108(4)-(6)
 
-[^key-064b74be461a0675c70a22da8430b43d]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/15) in force at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/a)
+[^c-064b74be461a0675c70a22da8430b43d]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/15) in force at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/a)
 
-[^key-36bba5c9de47a69e4003951ae75c02b3]: Textual amendment: Sch. 5 para. 16 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
+[^c-36bba5c9de47a69e4003951ae75c02b3]: Textual amendment: Sch. 5 para. 16 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
 
 [^c1428119]: Commencement: Sch. 5 para. 16 wholly in force at 28.7.2001; Sch. 5 para. 16 not in force at Royal Assent see s. 108; Sch. 5 para. 16 in force at 26.10.2000 in relation to England only by [S.I. 2000/2849](https://www.legislation.gov.uk/uksi/2000/2849), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/2849/article/1/3), [2(f)](https://www.legislation.gov.uk/uksi/2000/2849/article/2/f); Sch. 5 para. 16 in force at 28.7.2001 in so far as not already in force see s. 108(4)-(6)
 
-[^key-4e746c705f8180263ce517cf061116fa]: Textual amendment: Sch. 5 para. 17 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-4e746c705f8180263ce517cf061116fa]: Textual amendment: Sch. 5 para. 17 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c1428124]: Commencement: Sch. 5 para. 17 wholly in force at 28.7.2001; Sch. 5 para. 17 not in force at Royal Assent see s. 108; Sch. 5 para. 17 in force at 26.10.2000 in relation to England only by [S.I. 2000/2849](https://www.legislation.gov.uk/uksi/2000/2849), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/2849/article/1/3), [2(f)](https://www.legislation.gov.uk/uksi/2000/2849/article/2/f); Sch. 5 para. 17 in force at 28.7.2001 in so far as not already in force see s. 108(4)-(6)
 
@@ -247,7 +247,7 @@ Section 107.
 
 [^c1428127]: Commencement: Sch. 5 para. 20 wholly in force at 28.7.2001; Sch. 5 para. 20 not in force at Royal Assent see s. 108; Sch. 5 para. 20 in force at 26.10.2000 in relation to England only by [S.I. 2000/2849](https://www.legislation.gov.uk/uksi/2000/2849), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/2849/article/1/3), [2(f)](https://www.legislation.gov.uk/uksi/2000/2849/article/2/f); Sch. 5 para. 20 in force at 28.7.2001 in so far as not already in force see s. 108(4)-(6)
 
-[^key-4b05d5dd585182c85fa7284be3f58feb]: Textual amendment: Sch. 5 para. 21 repealed (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
+[^c-4b05d5dd585182c85fa7284be3f58feb]: Textual amendment: Sch. 5 para. 21 repealed (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
 
 [^c1428128]: Commencement: Sch. 5 para. 21 wholly in force at 28.7.2001; Sch. 5 para. 21 not in force at Royal Assent see s. 108; Sch. 5 para. 21 in force at 26.10.2000 in relation to England only by [S.I. 2000/2849](https://www.legislation.gov.uk/uksi/2000/2849), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/2849/article/1/3), [2(f)](https://www.legislation.gov.uk/uksi/2000/2849/article/2/f); Sch. 5 para. 21 in force at 28.7.2001 in so far as not already in force see s. 108(4)-(6)
 
@@ -259,17 +259,17 @@ Section 107.
 
 [^c1428132]: Marginal citation: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
-[^key-271e9b49fbc7e5fb9ef437fb84448964]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/25) in force at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/a)
+[^c-271e9b49fbc7e5fb9ef437fb84448964]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/25) in force at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/a)
 
-[^key-a2397a2d25aae783940c7eda312d3442]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/26) in force at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/a)
+[^c-a2397a2d25aae783940c7eda312d3442]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/26) in force at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/a)
 
 [^c1428133]: Commencement: Sch. 5 para. 28 wholly in force at 28.7.2001; Sch. 5 para. 28 not in force at Royal Assent see s. 108; Sch. 5 para. 28 in force at 19.12.2000 in relation to England and to police authorities in Wales by [S.I. 2000/3335](https://www.legislation.gov.uk/uksi/2000/3335), [art. 2](https://www.legislation.gov.uk/uksi/2000/3335/article/2); Sch. 5 para. 28 in force at 28.7.2001 in so far as not already in force see s. 108(4)-(6)
 
-[^key-32c986f90abca89a31b0be19f40d6f40]: Textual amendment: Sch. 5 para. 29 repealed (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/2); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 13](https://www.legislation.gov.uk/uksi/2004/759/article/13)
+[^c-32c986f90abca89a31b0be19f40d6f40]: Textual amendment: Sch. 5 para. 29 repealed (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/2); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 13](https://www.legislation.gov.uk/uksi/2004/759/article/13)
 
 [^c1428134]: Commencement: Sch. 5 para. 29 wholly in force at 28.7.2001; Sch. 5 para. 29 not in force at Royal Assent see s. 108; Sch. 5 para. 29 in force at 26.10.2000 in relation to England only by [S.I. 2000/2849](https://www.legislation.gov.uk/uksi/2000/2849), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/2849/article/1/3), [2(f)](https://www.legislation.gov.uk/uksi/2000/2849/article/2/f); Sch. 5 para. 29 in force at 28.7.2001 in so far as not already in force see s. 108(4)-(6)
 
-[^key-6bdb67e5e2759b14d8792a88fd7c5ae5]: Textual amendment: Sch. 5 para. 30 repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-6bdb67e5e2759b14d8792a88fd7c5ae5]: Textual amendment: Sch. 5 para. 30 repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
 [^c1428137]: Commencement: Sch. 5 para. 31 wholly in force at 28.7.2001; Sch. 5 para. 31 not in force at Royal Assent see s. 108; Sch. 5 para. 31 in force at 19.12.2000 in relation to England and to police authorities in Wales by [S.I. 2000/3335](https://www.legislation.gov.uk/uksi/2000/3335), [art. 2](https://www.legislation.gov.uk/uksi/2000/3335/article/2); Sch. 5 para. 31 in force at 28.7.2001 in so far as not already in force see s. 108(4)-(6)
 
@@ -277,4 +277,4 @@ Section 107.
 
 [^c1428139]: Commencement: Sch. 5 para. 33 wholly in force at 28.7.2001; Sch. 5 para. 33 not in force at Royal Assent see s. 108; Sch. 5 para. 33 in force at 26.10.2000 in relation to England only by [S.I. 2000/2849](https://www.legislation.gov.uk/uksi/2000/2849), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/2849/article/1/3), [2(f)](https://www.legislation.gov.uk/uksi/2000/2849/article/2/f); Sch. 5 para. 33 in force at 28.7.2001 in so far as not already in force see s. 108(4)-(6)
 
-[^key-5a2a09e46dad66e843bc1ba0f772d66e]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/34) in force at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/a)
+[^c-5a2a09e46dad66e843bc1ba0f772d66e]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/34) in force at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/a)

@@ -35,18 +35,18 @@ amending Implementing Decision 2012/535/EU as regards measures to prevent the sp
 
 *(notified under document C(2018) 2227)* (revoked)
 
-[^key-a8eb6ad7c6df7d6ce30c415da03a4593]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8eb6ad7c6df7d6ce30c415da03a4593]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a8eb6ad7c6df7d6ce30c415da03a4593] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a8eb6ad7c6df7d6ce30c415da03a4593] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a8eb6ad7c6df7d6ce30c415da03a4593] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a8eb6ad7c6df7d6ce30c415da03a4593] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a8eb6ad7c6df7d6ce30c415da03a4593]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8eb6ad7c6df7d6ce30c415da03a4593]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-a8eb6ad7c6df7d6ce30c415da03a4593]
+## ANNEX[^c-a8eb6ad7c6df7d6ce30c415da03a4593]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a8eb6ad7c6df7d6ce30c415da03a4593]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/29) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-a8eb6ad7c6df7d6ce30c415da03a4593]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/29) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

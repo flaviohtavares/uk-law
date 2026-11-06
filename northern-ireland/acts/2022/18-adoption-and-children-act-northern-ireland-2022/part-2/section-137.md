@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 137. Renaming of guardians ad litem[^key-843d13670b5d4836ff0131ffed88c453][^key-ff35831621d62d16910339d559f02a2b]
+## 137. Renaming of guardians ad litem[^c-843d13670b5d4836ff0131ffed88c453][^c-ff35831621d62d16910339d559f02a2b]
 
 *Extent: N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-843d13670b5d4836ff0131ffed88c453]: Commencement: S. 137 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-843d13670b5d4836ff0131ffed88c453]: Commencement: S. 137 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-ff35831621d62d16910339d559f02a2b]: Commencement: [S. 137](https://www.legislation.gov.uk/nia/2022/18/section/137) in operation at 13.2.2023 by [S.R. 2023/12](https://www.legislation.gov.uk/nisr/2023/12), [art. 2](https://www.legislation.gov.uk/nisr/2023/12/article/2)
+[^c-ff35831621d62d16910339d559f02a2b]: Commencement: [S. 137](https://www.legislation.gov.uk/nia/2022/18/section/137) in operation at 13.2.2023 by [S.R. 2023/12](https://www.legislation.gov.uk/nisr/2023/12), [art. 2](https://www.legislation.gov.uk/nisr/2023/12/article/2)

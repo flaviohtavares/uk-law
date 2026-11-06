@@ -54,14 +54,14 @@ Regulation 25
 
     ;
   - (iii) omit the definition of “fixed installation”;
-  - (iv)[^key-38b5012c9c99e3928f8c567974129cbc] . . . . . . .
+  - (iv)[^c-38b5012c9c99e3928f8c567974129cbc] . . . . . . .
   - (v) omit the definition of “mobile installation”;
   - (vi) before the definition of “offshore installation”, insert—
 
     > “**non-production installation**” means an installation other than a production installation;
 
     ;
-  - (vii)[^key-7852723dd59540186ada6e9ab689935e] . . . . . . .
+  - (vii)[^c-7852723dd59540186ada6e9ab689935e] . . . . . . .
   - (viii) for the definition of “owner”, substitute—
 
     > “**owner**” means the person who controls the operation of a non-production installation;
@@ -100,7 +100,7 @@ Regulation 25
 **3.** In the Offshore Installations (Prevention of Fire and Explosion, and Emergency Response) Regulations 1995 [^c12330171]—
 
 - (a) in regulation 2(1) (interpretation)—
-  - (i)[^key-088abec369aae210f498c25037a54c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-088abec369aae210f498c25037a54c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) omit the definition of “concession owner”;
   - (iii) for the definition of “duty holder”, substitute—
 
@@ -116,14 +116,14 @@ Regulation 25
     > “**licensee**” means any person to whom a licence to search and bore for and get petroleum in respect of any area within relevant waters is granted pursuant to section 3 of the Petroleum Act 1998;
 
     ;
-  - (vi)[^key-f58d254539fb5ace336b26cb3b060cc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vi)[^c-f58d254539fb5ace336b26cb3b060cc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (vii) omit the definition of “mobile installation”;
   - (viii) after the definition of “muster areas”, insert—
 
     > “**non-production installation**” means an installation other than a production installation;
 
     ;
-  - (ix)[^key-c700528ea35f57a071d08710f467a544] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ix)[^c-c700528ea35f57a071d08710f467a544] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (x) for the definition of “owner”, substitute—
 
     > “**owner**” means the person who controls the operation of a non-production installation;
@@ -156,7 +156,7 @@ Regulation 25
 - (d) omit paragraphs (2) to (8) of regulation 19 (suitability and condition of plant); and
 - (e) omit regulation 24 (amendment of the Offshore Installations (Safety Case) Regulations 1992).
 
-**4.** [^key-20a2315d05f554b34b5e0387e96e27d6]...
+**4.** [^c-20a2315d05f554b34b5e0387e96e27d6]...
 
 .
 
@@ -171,7 +171,7 @@ Regulation 25
       > “**licensee**” means any person to whom a licence to search and bore for and get petroleum in respect of any area within relevant waters is granted pursuant to section 3 of the Petroleum Act 1998;
     - (dd) in the definition of “mobile installation” omit the words “(other than a floating production platform)”;
     - (ee) in the definition of “safety cases” for the words “1992” substitute “ 2005 ”;
-    - (ff)[^key-72d3666d64d80444637082092e148e8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (ff)[^c-72d3666d64d80444637082092e148e8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
     in paragraph (4)(b) for the words “1992” substitute “ 2005 ”.
 - (b) omit regulation 26 and Schedule 2 (modification of the Offshore Installations (Safety Case) Regulations 1992).
@@ -207,23 +207,23 @@ Regulation 25
 
 [^c12330161]: Marginal citation: [S.I. 1995/738](https://www.legislation.gov.uk/uksi/1995/738), to which there are amendments not relevant to these Regulations.
 
-[^key-38b5012c9c99e3928f8c567974129cbc]: Textual amendment: Sch. 9 para. 2(a) words revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-38b5012c9c99e3928f8c567974129cbc]: Textual amendment: Sch. 9 para. 2(a) words revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-7852723dd59540186ada6e9ab689935e]: Textual amendment: Sch. 9 para. 2(a) words revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-7852723dd59540186ada6e9ab689935e]: Textual amendment: Sch. 9 para. 2(a) words revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
 [^c12330171]: Marginal citation: [S.I. 1995/743](https://www.legislation.gov.uk/uksi/1995/743), to which there are amendments not relevant to these Regulations.
 
-[^key-088abec369aae210f498c25037a54c36]: Textual amendment: Sch. 9 para. 3(a)(i) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-088abec369aae210f498c25037a54c36]: Textual amendment: Sch. 9 para. 3(a)(i) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-f58d254539fb5ace336b26cb3b060cc3]: Textual amendment: Sch. 9 para. 3(a)(vi) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-f58d254539fb5ace336b26cb3b060cc3]: Textual amendment: Sch. 9 para. 3(a)(vi) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-c700528ea35f57a071d08710f467a544]: Textual amendment: Sch. 9 para. 3(a)(ix) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-c700528ea35f57a071d08710f467a544]: Textual amendment: Sch. 9 para. 3(a)(ix) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-20a2315d05f554b34b5e0387e96e27d6]: Textual amendment: Sch. 9 para. 4 revoked (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2), [18(1)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) Table 1 (with [regs. 18(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/3), [19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
+[^c-20a2315d05f554b34b5e0387e96e27d6]: Textual amendment: Sch. 9 para. 4 revoked (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2), [18(1)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) Table 1 (with [regs. 18(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/3), [19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
 
 [^c12330191]: Marginal citation: [S.I. 1996/913](https://www.legislation.gov.uk/uksi/1996/913), to which there is an amendment not relevant to these Regulations.
 
-[^key-72d3666d64d80444637082092e148e8e]: Textual amendment: Sch. 9 para. 5(a)(i)(ff) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-72d3666d64d80444637082092e148e8e]: Textual amendment: Sch. 9 para. 5(a)(i)(ff) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
 [^c12330201]: Marginal citation: [S.I. 1997/2776](https://www.legislation.gov.uk/uksi/1997/2776).
 

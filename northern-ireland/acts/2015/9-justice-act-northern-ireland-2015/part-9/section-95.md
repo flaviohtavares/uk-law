@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 95. Powers of court security officers[^key-ae1da82d427f698d334649c422735c31]
+## 95. Powers of court security officers[^c-ae1da82d427f698d334649c422735c31]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ At the end of Schedule 3 to the Justice (Northern Ireland) Act 2004 (court secur
 
 ## Annotations
 
-[^key-ae1da82d427f698d334649c422735c31]: Commencement: [S. 95](https://www.legislation.gov.uk/nia/2015/9/section/95) in operation at 30.9.2015 by [S.R. 2015/324](https://www.legislation.gov.uk/nisr/2015/324), [art. 3(b)](https://www.legislation.gov.uk/nisr/2015/324/article/3/b)
+[^c-ae1da82d427f698d334649c422735c31]: Commencement: [S. 95](https://www.legislation.gov.uk/nia/2015/9/section/95) in operation at 30.9.2015 by [S.R. 2015/324](https://www.legislation.gov.uk/nisr/2015/324), [art. 3(b)](https://www.legislation.gov.uk/nisr/2015/324/article/3/b)

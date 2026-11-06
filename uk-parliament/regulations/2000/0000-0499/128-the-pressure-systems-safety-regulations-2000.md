@@ -47,16 +47,16 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 ## PART I — INTRODUCTION
 
-### 1. Citation and commencement[^key-e58f9babdbf01502959d24eb71e5f868]
+### 1. Citation and commencement[^c-e58f9babdbf01502959d24eb71e5f868]
 
 These Regulations may be cited as the Pressure Systems Safety Regulations 2000 and shall come into force on 21st February 2000.
 
-### 2. Interpretation[^key-c68ebfa2ecb9fa3a2f254539acca52ac]
+### 2. Interpretation[^c-c68ebfa2ecb9fa3a2f254539acca52ac]
 
 (1) In these Regulations, unless the context otherwise requires–
 
 - “**the 1974 Act**” means the Health and Safety at Work etc. Act 1974;
-- “[^key-8de3ba939478a04ebf9a3e10dd03b997]**CDG 2007**” means the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007;
+- “[^c-8de3ba939478a04ebf9a3e10dd03b997]**CDG 2007**” means the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007;
 - “**competent person**” means a competent individual person (other than an employee) or a competent body of persons corporate or unincorporate; and accordingly any reference in these Regulations to a competent person performing a function includes a reference to his performing it through his employees;
 - “**danger**” in relation to a pressure system means reasonably foreseeable danger to persons from system failure, but (except in the case of steam) it does not mean danger from the hazardous characteristics of the relevant fluid other than from its pressure;
 - “**examination**” means a careful and critical scrutiny of a pressure system or part of a pressure system, in or out of service as appropriate, using suitable techniques, including testing where appropriate, to assess–
@@ -66,17 +66,17 @@ These Regulations may be cited as the Pressure Systems Safety Regulations 2000 a
 - “**installed system**” means a pressure system other than a mobile system;
 - “**maximum allowable pressure**” and “**minimum allowable pressure**” mean the maximum pressure and minimum pressure respectively for which a pressure vessel is designed;
 - “**mobile system**” means a pressure system which can be readily moved between and used in different locations but it does not include a pressure system of a locomotive;
-- “[^key-f6cb43b47be2c6754a1f6c416f624792]**old pressure receptacle**” has the meaning in regulation 2(1) of CDG 2007 which shall apply as if the receptacle were being carried by road;
+- “[^c-f6cb43b47be2c6754a1f6c416f624792]**old pressure receptacle**” has the meaning in regulation 2(1) of CDG 2007 which shall apply as if the receptacle were being carried by road;
 - “**owner**” in relation to a pressure system means the employer or self-employed person who owns the pressure system or, if he does not have a place of business in Great Britain, his agent in Great Britain or, if there is no such agent, the user;
 - “**pipeline**” means a pipe or system of pipes used for the conveyance of relevant fluid across the boundaries of premises, together with any apparatus for inducing or facilitating the flow of relevant fluid through, or through a part of, the pipe or system, and any valves, valve chambers, pumps, compressors and similar works which are annexed to, or incorporated in the course of, the pipe or system;
 - “**pipework**” means a pipe or system of pipes together with associated valves, pumps, compressors and other pressure containing components and includes a hose or bellows but does not include a pipeline or any protective devices;
-- “[^key-0fcdf552313581b10ea62df08062045e]**pressure receptacle**” has the meaning in regulation 2(1) of CDG 2007, except that it includes any permanent fitting to a pressure receptacle, and regulation 2(1) shall apply as if the receptacle were being carried by road;
+- “[^c-0fcdf552313581b10ea62df08062045e]**pressure receptacle**” has the meaning in regulation 2(1) of CDG 2007, except that it includes any permanent fitting to a pressure receptacle, and regulation 2(1) shall apply as if the receptacle were being carried by road;
 - “**pressure system**” means–
   - (a) a system comprising one or more pressure vessels of rigid construction, any associated pipework and protective devices;
-  - (b) the pipework with its protective devices to which a pressure receptacle, an old pressure receptacle or transportable pressure equipment[^key-1c4765dfcb1dd914c83c20940b2cfaa0] is, or is intended to be, connected; or
+  - (b) the pipework with its protective devices to which a pressure receptacle, an old pressure receptacle or transportable pressure equipment[^c-1c4765dfcb1dd914c83c20940b2cfaa0] is, or is intended to be, connected; or
   - (c) a pipeline and its protective devices,
 
-  which contains or is liable to contain a relevant fluid, but does not include a pressure receptacle, an old pressure receptacle or transportable pressure equipment[^key-237b96aadd3ce87e8f9145912f24c661];
+  which contains or is liable to contain a relevant fluid, but does not include a pressure receptacle, an old pressure receptacle or transportable pressure equipment[^c-237b96aadd3ce87e8f9145912f24c661];
 - “**protective devices**” means devices designed to protect the pressure system against system failure and devices designed to give warning that system failure might occur, and include bursting discs;
 - “**relevant fluid**” means—
   - (a) steam;
@@ -87,10 +87,10 @@ These Regulations may be cited as the Pressure Systems Safety Regulations 2000 a
 - “**safe operating limits**” means the operating limits (incorporating a suitable margin of safety) beyond which system failure is liable to occur;
 - “**scheme of examination**” means the written scheme referred to in regulation 8;
 - “**system failure**” means the unintentional release of stored energy (other than from a pressure relief system) from a pressure system;
-- [^key-9513db6ff3198df97a4df21039c23605]...
-- “[^key-19edce7384bd20f35205949b06df8b3e]**transportable pressure equipment**” has the same meaning as in regulation 2(1) of CDG 2007 except that it shall exclude a tank within the meaning of those Regulations;
+- [^c-9513db6ff3198df97a4df21039c23605]...
+- “[^c-19edce7384bd20f35205949b06df8b3e]**transportable pressure equipment**” has the same meaning as in regulation 2(1) of CDG 2007 except that it shall exclude a tank within the meaning of those Regulations;
 - “**user**” in relation to a pressure system, or a vessel to which regulation 15 applies, means the employer or self-employed person who has control of the operation of the pressure system or such a vessel or, in the case of a pressure system or such a vessel at or in–
-  - (a) a mine within the meaning of regulation 3 of the Mines Regulations 2014 it means the mine operator (within the meaning of regulation 2(1) of those Regulations) for the time being of that mine;[^key-ad6646a6311a7b4a371ed5a88badae7c]
+  - (a) a mine within the meaning of regulation 3 of the Mines Regulations 2014 it means the mine operator (within the meaning of regulation 2(1) of those Regulations) for the time being of that mine;[^c-ad6646a6311a7b4a371ed5a88badae7c]
   - (b) a quarry within the meaning of regulation 3 of the Quarries Regulations 1999[^f00004] it means the operator for the time being of that quarry.
 
 (2) Any reference in these Regulations to anything being in writing or written (including any reference to anything being kept in writing) shall include reference to its being in a form–
@@ -103,7 +103,7 @@ These Regulations may be cited as the Pressure Systems Safety Regulations 2000 a
 - (a) a numbered regulation or Schedule is a reference to the regulation or Schedule in these Regulations so numbered;
 - (b) a numbered paragraph is a reference to that paragraph so numbered in the regulation or Schedule in which that reference appears.
 
-### 3. Application and duties[^key-57bd21892b064eb5296c5d0e2fd847cc]
+### 3. Application and duties[^c-57bd21892b064eb5296c5d0e2fd847cc]
 
 (1) These Regulations shall apply–
 
@@ -123,7 +123,7 @@ These Regulations may be cited as the Pressure Systems Safety Regulations 2000 a
 
 ## PART II — GENERAL
 
-### 4. Design and construction[^key-70dd9de003f98a4122a82c7d0d2af11a]
+### 4. Design and construction[^c-70dd9de003f98a4122a82c7d0d2af11a]
 
 (1) Any person who designs, manufactures, imports or supplies any pressure system or any article which is intended to be a component part of any pressure system shall ensure that paragraphs (2) to (5) are complied with.
 
@@ -135,7 +135,7 @@ These Regulations may be cited as the Pressure Systems Safety Regulations 2000 a
 
 (5) The pressure system shall be provided with such protective devices as may be necessary for preventing danger; and any such device designed to release contents shall do so safely, so far as is practicable.
 
-### 5. Provision of information and marking[^key-ed37aa1ff685fc1c3dedfbbc8dcb5995]
+### 5. Provision of information and marking[^c-ed37aa1ff685fc1c3dedfbbc8dcb5995]
 
 (1) Any person who–
 
@@ -156,11 +156,11 @@ These Regulations may be cited as the Pressure Systems Safety Regulations 2000 a
 
 (6) No person shall falsify any mark on a pressure system, or on a plate attached to it, relating to its design, construction, test or operation.
 
-### 6. Installation[^key-108e882ffe9c38dbe635e352426c6a9f]
+### 6. Installation[^c-108e882ffe9c38dbe635e352426c6a9f]
 
 The employer of a person who installs a pressure system at work shall ensure that nothing about the way in which it is installed gives rise to danger or otherwise impairs the operation of any protective device or inspection facility.
 
-### 7. Safe operating limits[^key-d1f78c73f1dacd4d413b1296052db44d]
+### 7. Safe operating limits[^c-d1f78c73f1dacd4d413b1296052db44d]
 
 (1) The user of an installed system and owner of a mobile system shall not operate the system or allow it to be operated unless he has established the safe operating limits of that system.
 
@@ -169,7 +169,7 @@ The employer of a person who installs a pressure system at work shall ensure tha
 - (a) supply the user with a written statement specifying the safe operating limits of that system established pursuant to paragraph (1); or
 - (b) ensure that the system is legibly and durably marked with such safe operating limits and that the mark is clearly visible.
 
-### 8. Written scheme of examination[^key-bc9b30814fe973f83f903953c3117af7]
+### 8. Written scheme of examination[^c-bc9b30814fe973f83f903953c3117af7]
 
 (1) The user of an installed system and owner of a mobile system shall not operate the system or allow it to be operated unless he has a written scheme for the periodic examination, by a competent person, of the following parts of the system, that is to say–
 
@@ -194,7 +194,7 @@ and such parts of the system shall be identified in the scheme.
 
 (4) References in paragraphs (2) and (3) to the suitability of the scheme are references to its suitability for the purposes of preventing danger from those parts of the pressure system included in the scheme.
 
-### 9. Examination in accordance with the written scheme[^key-c7a797b43a9b90adb8df5b0db2439aed]
+### 9. Examination in accordance with the written scheme[^c-c7a797b43a9b90adb8df5b0db2439aed]
 
 (1) Subject to paragraph (7), the user of an installed system and the owner of a mobile system shall–
 
@@ -203,7 +203,7 @@ and such parts of the system shall be identified in the scheme.
 
 (2) Where a competent person undertakes an examination for the purposes of paragraph (1) he shall carry out that examination properly and in accordance with the scheme of examination.
 
-(3) Where a competent person has carried out an examination for the purposes of paragraph (1) he shall, subject to paragraph (4) [^key-0b99799a1cabf475b23fc40a75929618]..., make a written report of the examination, sign it or add his name to it, date it and send it to the user (in the case of an installed system) or owner (in the case of a mobile system); and the said report shall be so sent as soon as is practicable after completing the examination (or, in the case of integrated installed systems where the examination is part of a series, as soon as is practicable after completing the last examination in that series), and in any event to arrive–
+(3) Where a competent person has carried out an examination for the purposes of paragraph (1) he shall, subject to paragraph (4) [^c-0b99799a1cabf475b23fc40a75929618]..., make a written report of the examination, sign it or add his name to it, date it and send it to the user (in the case of an installed system) or owner (in the case of a mobile system); and the said report shall be so sent as soon as is practicable after completing the examination (or, in the case of integrated installed systems where the examination is part of a series, as soon as is practicable after completing the last examination in that series), and in any event to arrive–
 
 - (a) within 28 days of the completion of the examination (or, in the case of integrated installed systems where the examination is part of a series, within 28 days of the completion of the last examination in that series); or
 - (b) before the date specified in the report under paragraph (5)(b),
@@ -234,7 +234,7 @@ whichever is sooner.
 
 (9) The owner of a mobile system shall ensure that the date specified under paragraph (5)(c) is legibly and durably marked on the mobile system and that the mark is clearly visible.
 
-### 10. Action in case of imminent danger[^key-5e78f3fc67795dc39850c3b69c8e0c0f]
+### 10. Action in case of imminent danger[^c-5e78f3fc67795dc39850c3b69c8e0c0f]
 
 (1) If the competent person carrying out an examination under the scheme of examination is of the opinion that the pressure system or part of the pressure system will give rise to imminent danger unless certain repairs or modifications have been carried out or unless suitable changes to the operating conditions have been made, then without prejudice to the requirements of regulation 9, he shall forthwith make a written report to that effect identifying the system and specifying the repairs, modifications or changes concerned and give it–
 
@@ -252,7 +252,7 @@ until the repairs, modifications or changes, as the case may be, have been carri
 
 (3) Where the competent person referred to in paragraph (1) is the user (in the case of an installed system) or owner (in the case of a mobile system) the requirement in that paragraph to give the report to the user or owner shall not apply, and the reference in paragraph (2) to the giving of the report to the user or owner shall be construed as a reference to the making of the report by him.
 
-### 11. Operation[^key-b182311961c2e2726f7c38883a31f0cb]
+### 11. Operation[^c-b182311961c2e2726f7c38883a31f0cb]
 
 (1) The user of an installed system and the owner of a mobile system shall provide for any person operating the system adequate and suitable instructions for–
 
@@ -261,15 +261,15 @@ until the repairs, modifications or changes, as the case may be, have been carri
 
 (2) The user of a pressure system shall ensure that it is not operated except in accordance with the instructions provided in respect of that system under paragraph (1)(a).
 
-### 12. Maintenance[^key-bee7750a51cbea717a38bc6eca2c4750]
+### 12. Maintenance[^c-bee7750a51cbea717a38bc6eca2c4750]
 
 The user of an installed system and the owner of a mobile system shall ensure that the system is properly maintained in good repair, so as to prevent danger.
 
-### 13. Modification and repair[^key-6be76b4b1ec04ad8086e96afa307b98e]
+### 13. Modification and repair[^c-6be76b4b1ec04ad8086e96afa307b98e]
 
 The employer of a person who modifies or repairs a pressure system at work shall ensure that nothing about the way in which it is modified or repaired gives rise to danger or otherwise impairs the operation of any protective device or inspection facility.
 
-### 14. Keeping of records, etc.[^key-094763f158b36ae6d6e69cd718bf04c2]
+### 14. Keeping of records, etc.[^c-094763f158b36ae6d6e69cd718bf04c2]
 
 (1) The user of an installed system and the owner of a mobile system shall keep–
 
@@ -277,7 +277,7 @@ The employer of a person who modifies or repairs a pressure system at work shall
 - (b) any such previous reports if they contain information which will materially assist in assessing whether–
   - (i) the system is safe to operate, or
   - (ii) any repairs or modifications to the system can be carried out safely;
-- (c)[^key-2cf0dc3b65375c72a21d13dd1db9bb83] instructions specified in paragraph 30 of Schedule 2 to the Pressure Equipment (Safety) Regulations 2016, and provided pursuant to regulation 14 or 24 of those Regulations;
+- (c)[^c-2cf0dc3b65375c72a21d13dd1db9bb83] instructions specified in paragraph 30 of Schedule 2 to the Pressure Equipment (Safety) Regulations 2016, and provided pursuant to regulation 14 or 24 of those Regulations;
 - (d) any agreement made pursuant to regulation 9(7), and, in a case to which regulation 9(8) applies, a copy of the notification referred to in regulation 9(7)(c), until a further examination has been carried out since that agreement or notification under the scheme of examination.
 
 (2) Anything required to be kept by this regulation shall be kept–
@@ -288,7 +288,7 @@ The employer of a person who modifies or repairs a pressure system at work shall
 
 (3) Where the user or owner of a pressure system or part thereof changes, the previous user or owner shall as soon as is practicable give to the new user or owner in writing anything (relating to the system or part thereof, as the case may be) kept by him under this regulation.
 
-### 15. Precautions to prevent pressurisation of certain vessels[^key-5fa09f2603598bec87ab364d473c4db0]
+### 15. Precautions to prevent pressurisation of certain vessels[^c-5fa09f2603598bec87ab364d473c4db0]
 
 (1) Paragraph (2) shall apply to a vessel–
 
@@ -299,7 +299,7 @@ The employer of a person who modifies or repairs a pressure system at work shall
 
 ## PART III — MISCELLANEOUS
 
-### 16. Defence[^key-7115de820abb22e12dc593dd150cfa08]
+### 16. Defence[^c-7115de820abb22e12dc593dd150cfa08]
 
 (1) In any proceedings for an offence for a contravention of any of the provisions of these Regulations it shall, subject to paragraphs (2) and (3), be a defence for the person charged to prove–
 
@@ -316,7 +316,7 @@ he has served on the prosecutor a notice in writing giving such information iden
 
 (3) Where a contravention of these regulations by any person is due to the act or default of the other person, that other person shall be guilty of the offence which would, but for any defence under this regulation available to the first-mentioned person, be constituted by the act or default.
 
-### 17. Power to grant exemptions[^key-0a4fb9493890ce14a66b30b2d4822e75]
+### 17. Power to grant exemptions[^c-0a4fb9493890ce14a66b30b2d4822e75]
 
 (1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any person or class of persons or any type or class of pressure system from the application of any of the requirements or prohibitions imposed by these Regulations, and any such exemption may be granted subject to conditions and to a limit of time, and may be revoked by a certificate in writing at any time.
 
@@ -327,13 +327,13 @@ he has served on the prosecutor a notice in writing giving such information iden
 
 it is satisfied that the health and safety or persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
 
-### 18. Repeals and revocations[^key-099c10ddff6ed760da39bd4c89044ffb]
+### 18. Repeals and revocations[^c-099c10ddff6ed760da39bd4c89044ffb]
 
 (1) Sections 34 to 38 of the Factories Act 1961[^f00008] are repealed.
 
 (2) The Pressure Systems and Transportable Gas Containers Regulations 1989[^f00009], regulation 21(6) of and Schedule 6 to the CDGCPL Regulations and regulation 3 of and Schedule 2 to the Carriage of Dangerous Goods (Amendment) Regulations 1999[^f00010] are revoked.
 
-### 19. Transitional provision[^key-f43ee469454407a7bd3ff1c6815c4879]
+### 19. Transitional provision[^c-f43ee469454407a7bd3ff1c6815c4879]
 
 The substitution of provisions in these Regulations for provisions of the Pressure Systems and Transportable Gas Containers Regulations 1989 shall not affect the continuity of the law; and accordingly anything done under or for the purposes of such provision of the 1989 Regulations shall have effect as if done under or for the purposes of any corresponding provision of these Regulations.
 
@@ -355,16 +355,16 @@ Regulation 3(2)
 
 These Regulations shall not apply to–
 
-**1.**[^key-90c12f4ac86fbc292c998b2db5711457] A pressure system which forms part of the equipment of–
+**1.**[^c-90c12f4ac86fbc292c998b2db5711457] A pressure system which forms part of the equipment of–
 
 - (a) a vessel used in navigation;
 - (b) a spacecraft, aircraft, hovercraft or hydrofoil.
 
-**2.**[^key-64a6c9b6c5dc516e7401a3c072379af4] A pressure system which forms part of, or is intended to form part of, a weapons system.
+**2.**[^c-64a6c9b6c5dc516e7401a3c072379af4] A pressure system which forms part of, or is intended to form part of, a weapons system.
 
-**3.**[^key-7920f2d027773a035c7cd25c23d39cc9] A pressure system which forms part of any braking, control or suspension system of a wheeled, tracked or rail mounted vehicle.
+**3.**[^c-7920f2d027773a035c7cd25c23d39cc9] A pressure system which forms part of any braking, control or suspension system of a wheeled, tracked or rail mounted vehicle.
 
-**4.**[^key-ad01406a3a7c3077c7da759a83608041] That part of a system which is only a pressure system because it is–
+**4.**[^c-ad01406a3a7c3077c7da759a83608041] That part of a system which is only a pressure system because it is–
 
 - (a) subject to a leak test (except that this sub-paragraph shall not apply to a pipeline);
 - (b) pressurised unintentionally, such pressurisation being not reasonably foreseeable; or
@@ -372,26 +372,26 @@ These Regulations shall not apply to–
   - (i) is used for the conveyance of a relevant fluid, or
   - (ii) is pressurised beyond its safe operating limits.
 
-**5.**[^key-a08c8569399283f97851e0475f42eefb] Any pipeline and its protective devices in which the pressure does not exceed 2 bar above atmospheric pressure (or 2.7 bar above atmospheric pressure if the normal pressure does not exceed 2 bar and the overpressure is caused solely by the operation of a protective device).
+**5.**[^c-a08c8569399283f97851e0475f42eefb] Any pipeline and its protective devices in which the pressure does not exceed 2 bar above atmospheric pressure (or 2.7 bar above atmospheric pressure if the normal pressure does not exceed 2 bar and the overpressure is caused solely by the operation of a protective device).
 
-**6.**[^key-af7f77e63a6acb3c49e2ecb78ebba339] Any pressure system or part thereof which–
+**6.**[^c-af7f77e63a6acb3c49e2ecb78ebba339] Any pressure system or part thereof which–
 
 - (a) is the subject of a research experiment; or
 - (b) comprises temporary apparatus being used in a research experiment,
 
 if, in the case of regulations 4, 5, 6, 7, 11, 13 and 14, it is not reasonably practicable to comply with them.
 
-**7.**[^key-a8b37094137dc86f4444be025b4fec07] Any plant or equipment required by regulation 6(3)(b) of the Diving at Work Regulations 1997[^f00011] and used or intended to be used in the course of a diving project to which those Regulations apply.
+**7.**[^c-a8b37094137dc86f4444be025b4fec07] Any plant or equipment required by regulation 6(3)(b) of the Diving at Work Regulations 1997[^f00011] and used or intended to be used in the course of a diving project to which those Regulations apply.
 
-**8.**[^key-ab12f2b9eb6eecd9f3e7b984e8524149] A working chamber, tunnel, manlock or an airlock within which persons work in compressed air, being work to which the Work in Compressed Air Regulations 1996[^f00012] apply.
+**8.**[^c-ab12f2b9eb6eecd9f3e7b984e8524149] A working chamber, tunnel, manlock or an airlock within which persons work in compressed air, being work to which the Work in Compressed Air Regulations 1996[^f00012] apply.
 
-**9.**[^key-4d3d227bda7dd7f43ef41378882ffdfe] A tank or an old tank within the meaning of CDG 2007[^key-1591cda5835676d3eea086d886650f83].
+**9.**[^c-4d3d227bda7dd7f43ef41378882ffdfe] A tank or an old tank within the meaning of CDG 2007[^c-1591cda5835676d3eea086d886650f83].
 
-**10.**[^key-ebc86904baff7c40d4124934cbefaea5] Any pressure system being carried in a vehicle if the vehicle is engaged in an international transport operation within the meaning of the Convention concerning International Carriage by Rail as revised or reissued from time to time (COTIF) and such carriage conforms in every respect to the provisions of the Uniform Rules concerning the Contract for International Carriage of Goods by Rail (CIM), which form Appendix B to that Convention, and the Regulation concerning the International Carriage of Dangerous Goods by Rail including its Annex (RID), which together form Appendix C to that Convention.
+**10.**[^c-ebc86904baff7c40d4124934cbefaea5] Any pressure system being carried in a vehicle if the vehicle is engaged in an international transport operation within the meaning of the Convention concerning International Carriage by Rail as revised or reissued from time to time (COTIF) and such carriage conforms in every respect to the provisions of the Uniform Rules concerning the Contract for International Carriage of Goods by Rail (CIM), which form Appendix B to that Convention, and the Regulation concerning the International Carriage of Dangerous Goods by Rail including its Annex (RID), which together form Appendix C to that Convention.
 
-**11.**[^key-d33f9abe7d44e4fdfe5019a49e258cfd] Any pressure system being carried in a vehicle if the vehicle is registered outside the United Kingdom and the carriage is confined to Great Britain but nevertheless conforms with the provisions of the European Agreement concerning the international carriage of dangerous goods by road signed in Geneva on 30th September 1957 as revised or re-issued from time to time (“the ADR ”).
+**11.**[^c-d33f9abe7d44e4fdfe5019a49e258cfd] Any pressure system being carried in a vehicle if the vehicle is registered outside the United Kingdom and the carriage is confined to Great Britain but nevertheless conforms with the provisions of the European Agreement concerning the international carriage of dangerous goods by road signed in Geneva on 30th September 1957 as revised or re-issued from time to time (“the ADR ”).
 
-**12.**[^key-6f2bf5a909c1541ed55e69d95d8c5ebb] Any pressure system being carried in a vehicle if the vehicle–
+**12.**[^c-6f2bf5a909c1541ed55e69d95d8c5ebb] Any pressure system being carried in a vehicle if the vehicle–
 
 - (a) is engaged in an international transport operation within the meaning of the ADR;
 - (b) complies with the conditions contained in Annexes A and B to the ADR; and
@@ -399,56 +399,56 @@ if, in the case of regulations 4, 5, 6, 7, 11, 13 and 14, it is not reasonably p
 
 or if the vehicle is engaged in a transport operation subject to a special bilateral or multilateral agreement to which Article 4 of the ADR refers and to which the United Kingdom is a Contracting Party.
 
-**13.**[^key-61f34440d395d67f81b9bee36a763153] Any pressure system being carried in a vehicle if the vehicle is—
+**13.**[^c-61f34440d395d67f81b9bee36a763153] Any pressure system being carried in a vehicle if the vehicle is—
 
 - (a) engaged in an international transport operation within the meaning of Article 1(c) of ADR; and
-- (b) under the control of or owned by the armed forces within the meaning of CDG 2007[^key-66c0b5856e3e3534c088d9aed2d0b109] where the armed forces are those of a country which is a contracting party to ADR.
+- (b) under the control of or owned by the armed forces within the meaning of CDG 2007[^c-66c0b5856e3e3534c088d9aed2d0b109] where the armed forces are those of a country which is a contracting party to ADR.
 
-**14.**[^key-6cacbab0154313f69208e09801e1cb49] Any pressure system which is carried, or stored as goods in transit, as part of an international transport operation, if it complies with the appropriate provisions of the International Maritime Dangerous Goods Code issued by the International Maritime Organisation as revised or re-issued from time to time.
+**14.**[^c-6cacbab0154313f69208e09801e1cb49] Any pressure system which is carried, or stored as goods in transit, as part of an international transport operation, if it complies with the appropriate provisions of the International Maritime Dangerous Goods Code issued by the International Maritime Organisation as revised or re-issued from time to time.
 
-**15.**[^key-b176ad560bb711ca858d43810f24c7b2] Any pressure system comprising a gas propulsion or a gas fired heating, cooking, ventilating or refrigerating system fitted to a motor vehicle or trailer (both within the meaning of section 185(1) of the Road Traffic Act 1998[^f00016]).
+**15.**[^c-b176ad560bb711ca858d43810f24c7b2] Any pressure system comprising a gas propulsion or a gas fired heating, cooking, ventilating or refrigerating system fitted to a motor vehicle or trailer (both within the meaning of section 185(1) of the Road Traffic Act 1998[^f00016]).
 
-**16.**[^key-d7fa340a0d804e847199007ba638cb90] Any water cooling system on an internal combustion engine or on a compressor.
+**16.**[^c-d7fa340a0d804e847199007ba638cb90] Any water cooling system on an internal combustion engine or on a compressor.
 
-**17.**[^key-f8f252b853f31a284acd425bffb72a04] Any tyre used or intended to be used on a vehicle.
+**17.**[^c-f8f252b853f31a284acd425bffb72a04] Any tyre used or intended to be used on a vehicle.
 
-**18.**[^key-780f3da81fe29f67686451a545146636] Any vapour compression refrigeration system incorporating compressor drive motors, including standby compressor motors, having a total installed power not exceeding 25 kW.
+**18.**[^c-780f3da81fe29f67686451a545146636] Any vapour compression refrigeration system incorporating compressor drive motors, including standby compressor motors, having a total installed power not exceeding 25 kW.
 
-**19.**[^key-62083506154e16aa9e9c2608768185a3] A mobile system of the type known as a slurry tanker, and containing or intended to contain agricultural slurry, and used in agriculture.
+**19.**[^c-62083506154e16aa9e9c2608768185a3] A mobile system of the type known as a slurry tanker, and containing or intended to contain agricultural slurry, and used in agriculture.
 
-**20.**[^key-1987126f67682b192d5185ec8f16cea9] Prime movers including turbines.
+**20.**[^c-1987126f67682b192d5185ec8f16cea9] Prime movers including turbines.
 
-**21.**[^key-992a4ebb2f1b6644c019713524264221] Any pressure system which is an electrical or telecommunications cable.
+**21.**[^c-992a4ebb2f1b6644c019713524264221] Any pressure system which is an electrical or telecommunications cable.
 
-**22.**[^key-36b2e429afa21f1ac88b3893328e202d] Any pressure system containing sulphur hexafluoride gas and forming an integral part of high voltage electrical apparatus.
+**22.**[^c-36b2e429afa21f1ac88b3893328e202d] Any pressure system containing sulphur hexafluoride gas and forming an integral part of high voltage electrical apparatus.
 
-**23.**[^key-7926c65824f20b3ad324a04129be20cf] Any pressure system consisting of a water filled fluid coupling and used in power transmission.
+**23.**[^c-7926c65824f20b3ad324a04129be20cf] Any pressure system consisting of a water filled fluid coupling and used in power transmission.
 
-**24.**[^key-7f7008f0b278d1e22b35a76524909398] Any portable fire extinguisher with a working pressure below 25 bar at 60°C and having a total mass not exceeding 23 kilogrammes.
+**24.**[^c-7f7008f0b278d1e22b35a76524909398] Any portable fire extinguisher with a working pressure below 25 bar at 60°C and having a total mass not exceeding 23 kilogrammes.
 
-**25.**[^key-b0044d7c0581929ca2dece360f41c8ba] Any part of a tool or appliance designed to be held in the hand which is a pressure vessel.
+**25.**[^c-b0044d7c0581929ca2dece360f41c8ba] Any part of a tool or appliance designed to be held in the hand which is a pressure vessel.
 
 ### PART II — PRESSURE SYSTEMS EXCEPTED FROM CERTAIN REGULATIONS
 
-**1.**[^key-77a4c16e10725bfecb4dbc24b675ba57] Regulations 4 and 5(1) and (4) shall not apply to–
+**1.**[^c-77a4c16e10725bfecb4dbc24b675ba57] Regulations 4 and 5(1) and (4) shall not apply to–
 
 - (a) pressure systems to which the Medical Devices Regulations 1994[^f00017] apply, other than those which contain or are liable to contain steam; or
-- (b)[^key-432214f7118bdbe19c5133c26408ba1d] pressure equipment or assemblies within the meaning of the Pressure Equipment (Safety) Regulations 2016 to which regulation 6, 7 or 8 of those Regulations applies.
+- (b)[^c-432214f7118bdbe19c5133c26408ba1d] pressure equipment or assemblies within the meaning of the Pressure Equipment (Safety) Regulations 2016 to which regulation 6, 7 or 8 of those Regulations applies.
 
-**2.**[^key-5151dd38f363c5a95e2aaf8dd6b88fff] (1) Subject to sub-paragraph (2), regulations 5(4), 8 to 10 and 14 shall not apply to a pressure system containing a relevant fluid (other than steam) if the product of the pressure in bar and internal volume in litres of its pressure vessels is in each case less than 250 bar litres.
+**2.**[^c-5151dd38f363c5a95e2aaf8dd6b88fff] (1) Subject to sub-paragraph (2), regulations 5(4), 8 to 10 and 14 shall not apply to a pressure system containing a relevant fluid (other than steam) if the product of the pressure in bar and internal volume in litres of its pressure vessels is in each case less than 250 bar litres.
 
 (2) Until 21st August 2000 regulations 8 to 10 and 14 shall not apply to a pressure system brought into operation before the coming into force of these Regulations if the product of the pressure in bar and internal volume of its pressure vessel with the largest internal volume is less than 250 bar litres.
 
-**3.**[^key-5cad4a0816aef96d19de56117aa626c8] Regulations 4, 5, 7 to 10, 13 and 14 shall not apply to a tank container if–
+**3.**[^c-5cad4a0816aef96d19de56117aa626c8] Regulations 4, 5, 7 to 10, 13 and 14 shall not apply to a tank container if–
 
-- (a) it is intended to be used in the carriage of dangerous goods by road[^key-58ec400c67719780c53142c118e69c13] to which CDG 2007[^key-6dd2442dd011473f3ef494fbd2f88feb] apply, or would apply but for an exception specified in regulation 4(1)[^key-722e0a25987f08a18d3ec97025beed9d] thereof and is present solely for the purpose of being loaded with the goods to be carried; or
+- (a) it is intended to be used in the carriage of dangerous goods by road[^c-58ec400c67719780c53142c118e69c13] to which CDG 2007[^c-6dd2442dd011473f3ef494fbd2f88feb] apply, or would apply but for an exception specified in regulation 4(1)[^c-722e0a25987f08a18d3ec97025beed9d] thereof and is present solely for the purpose of being loaded with the goods to be carried; or
 - (b) it has been used in such carriage, has been temporarily removed from a vehicle and is present solely for the purpose of unloading the goods from it.
 
 ## SCHEDULE 2 — MODIFICATION OF DUTIES IN CASES WHERE PRESSURE SYSTEMS ARE SUPPLIED BY WAY OF LEASE, HIRE, OR OTHER ARRANGEMENTS
 
 Regulation 3(5)
 
-**1.**[^key-c1d2561238d5caba9129ccb0323cb894]
+**1.**[^c-c1d2561238d5caba9129ccb0323cb894]
 
 - (a) This paragraph applies where a person supplies an installed system by way of lease or hire, and agrees in writing to be responsible for discharging the duties of the user under all the provisions of regulations 8(1) and (2), 9(1), 11(1), 12 and 14.
 - (b) During such time as the agreement is in force the supplier shall discharge the duties of the user under the said provisions.
@@ -464,7 +464,7 @@ Regulation 3(5)
 - (h) The references in regulation 9(7) (in both places where it appears) and 9(8) to the user shall be read as references to the supplier.
 - (i) The reference in regulation 14(2)(a) to the premises where the system is installed shall be read as a reference to the premises in Great Britain where the leasing or hiring out of the system is controlled; except that this modification shall not apply to the application of that sub-paragraph to regulation 14(6)(a) where the competent person is using the procedure referred to in regulation 14(4) in relation to the sending of the report to the user.
 
-**2.**[^key-9fadef6dfefd7c087a40c20a44772c85] Where a person supplies a pressure system to another (“the customer ”) under a hire-purchase agreement, conditional sale agreement, or lease, and–
+**2.**[^c-9fadef6dfefd7c087a40c20a44772c85] Where a person supplies a pressure system to another (“the customer ”) under a hire-purchase agreement, conditional sale agreement, or lease, and–
 
 - (a) he carries on the business of financing the acquisition of goods by others by means of such agreements, or, if financing by means of leases, the use of goods by others;
 - (b) in the course of that business he acquired his interest in the pressure system supplied to the customer as a means of financing its acquisition by that customer (or, in the case of a lease, its provision to that customer); and
@@ -472,9 +472,9 @@ Regulation 3(5)
 
 the customer and not the person who provided the finance shall be treated for the purpose of these Regulations as being the owner of the pressure system, and duties placed on owners in these Regulations shall accordingly fall on the customer and not on the person providing the finance.
 
-**3.**[^key-5820137abdbf1d6184c31b949712817a] Section 6(9) of the 1974 Act[^f00018] and the Health and Safety (Leasing Arrangements) Regulations 1992[^f00019] shall apply to these Regulations as they apply to the remainder of section 6 of that Act.
+**3.**[^c-5820137abdbf1d6184c31b949712817a] Section 6(9) of the 1974 Act[^f00018] and the Health and Safety (Leasing Arrangements) Regulations 1992[^f00019] shall apply to these Regulations as they apply to the remainder of section 6 of that Act.
 
-## SCHEDULE 3 — MARKING OF PRESSURE VESSELS[^key-4e33c9344e655fc1a205780f1c3669d4]
+## SCHEDULE 3 — MARKING OF PRESSURE VESSELS[^c-4e33c9344e655fc1a205780f1c3669d4]
 
 Regulation 5(4) and (5)
 
@@ -510,65 +510,65 @@ The information referred to in regulation 5(4) is as follows–
 
 [^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37). Sections 15 and 50 were amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71) Schedule 15, paragraphs 6 and 16 respectively. The general purposes of Part I of the 1974 Act were extended by section 1(1) of the Offshore Safety Act [1992 (c. 15)](https://www.legislation.gov.uk/ukpga/1992/15).
 
-[^key-e58f9babdbf01502959d24eb71e5f868]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-e58f9babdbf01502959d24eb71e5f868]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-c68ebfa2ecb9fa3a2f254539acca52ac]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/128/regulation/2) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-c68ebfa2ecb9fa3a2f254539acca52ac]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/128/regulation/2) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-8de3ba939478a04ebf9a3e10dd03b997]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) substituted (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
+[^c-8de3ba939478a04ebf9a3e10dd03b997]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) substituted (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
 
-[^key-f6cb43b47be2c6754a1f6c416f624792]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) inserted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/2/b)
+[^c-f6cb43b47be2c6754a1f6c416f624792]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) inserted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/2/b)
 
-[^key-0fcdf552313581b10ea62df08062045e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) inserted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(2)(c)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/2/c)
+[^c-0fcdf552313581b10ea62df08062045e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) inserted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(2)(c)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/2/c)
 
-[^key-1c4765dfcb1dd914c83c20940b2cfaa0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(2)(d)(i)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/2/d/i)
+[^c-1c4765dfcb1dd914c83c20940b2cfaa0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(2)(d)(i)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/2/d/i)
 
-[^key-237b96aadd3ce87e8f9145912f24c661]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/2/d/ii)
+[^c-237b96aadd3ce87e8f9145912f24c661]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/2/d/ii)
 
-[^key-9513db6ff3198df97a4df21039c23605]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) omitted (10.5.2004) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(2)(e)(i)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/2/e/i)
+[^c-9513db6ff3198df97a4df21039c23605]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) omitted (10.5.2004) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(2)(e)(i)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/2/e/i)
 
-[^key-19edce7384bd20f35205949b06df8b3e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/2/e/ii)
+[^c-19edce7384bd20f35205949b06df8b3e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/2/e/ii)
 
-[^key-ad6646a6311a7b4a371ed5a88badae7c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/13) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-ad6646a6311a7b4a371ed5a88badae7c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/128/regulation/2/1) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/13) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
 [^f00004]: Footnote: [S.I. 1999/2024](https://www.legislation.gov.uk/uksi/1999/2024).
 
-[^key-57bd21892b064eb5296c5d0e2fd847cc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/128/regulation/3) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-57bd21892b064eb5296c5d0e2fd847cc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/128/regulation/3) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
 [^f00005]: Footnote: [S.I. 1995/263](https://www.legislation.gov.uk/uksi/1995/263).
 
-[^key-70dd9de003f98a4122a82c7d0d2af11a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/128/regulation/4) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-70dd9de003f98a4122a82c7d0d2af11a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/128/regulation/4) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-ed37aa1ff685fc1c3dedfbbc8dcb5995]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/128/regulation/5) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-ed37aa1ff685fc1c3dedfbbc8dcb5995]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/128/regulation/5) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-108e882ffe9c38dbe635e352426c6a9f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2000/128/regulation/6) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-108e882ffe9c38dbe635e352426c6a9f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2000/128/regulation/6) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-d1f78c73f1dacd4d413b1296052db44d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2000/128/regulation/7) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-d1f78c73f1dacd4d413b1296052db44d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2000/128/regulation/7) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-bc9b30814fe973f83f903953c3117af7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2000/128/regulation/8) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-bc9b30814fe973f83f903953c3117af7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2000/128/regulation/8) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-c7a797b43a9b90adb8df5b0db2439aed]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2000/128/regulation/9) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-c7a797b43a9b90adb8df5b0db2439aed]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2000/128/regulation/9) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-0b99799a1cabf475b23fc40a75929618]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2000/128/regulation/9/3) revoked (1.7.2001) by [The Transportable Pressure Vessels Regulations 2001 (S.I. 2001/1426)](https://www.legislation.gov.uk/uksi/2001/1426), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2001/1426/regulation/1/3), [14(7)(b)](https://www.legislation.gov.uk/uksi/2001/1426/regulation/14/7/b)
+[^c-0b99799a1cabf475b23fc40a75929618]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2000/128/regulation/9/3) revoked (1.7.2001) by [The Transportable Pressure Vessels Regulations 2001 (S.I. 2001/1426)](https://www.legislation.gov.uk/uksi/2001/1426), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2001/1426/regulation/1/3), [14(7)(b)](https://www.legislation.gov.uk/uksi/2001/1426/regulation/14/7/b)
 
-[^key-5e78f3fc67795dc39850c3b69c8e0c0f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2000/128/regulation/10) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-5e78f3fc67795dc39850c3b69c8e0c0f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2000/128/regulation/10) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-b182311961c2e2726f7c38883a31f0cb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2000/128/regulation/11) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-b182311961c2e2726f7c38883a31f0cb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2000/128/regulation/11) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-bee7750a51cbea717a38bc6eca2c4750]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2000/128/regulation/12) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-bee7750a51cbea717a38bc6eca2c4750]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2000/128/regulation/12) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-6be76b4b1ec04ad8086e96afa307b98e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2000/128/regulation/13) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-6be76b4b1ec04ad8086e96afa307b98e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2000/128/regulation/13) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-094763f158b36ae6d6e69cd718bf04c2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2000/128/regulation/14) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-094763f158b36ae6d6e69cd718bf04c2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2000/128/regulation/14) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-2cf0dc3b65375c72a21d13dd1db9bb83]: Textual amendment: [Reg. 14(1)(c)](https://www.legislation.gov.uk/uksi/2000/128/regulation/14/1/c) substituted (8.12.2016) by [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [Sch. 12 para. 3(2)](https://www.legislation.gov.uk/uksi/2016/1105/schedule/12/paragraph/3/2) (with [reg. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88))
+[^c-2cf0dc3b65375c72a21d13dd1db9bb83]: Textual amendment: [Reg. 14(1)(c)](https://www.legislation.gov.uk/uksi/2000/128/regulation/14/1/c) substituted (8.12.2016) by [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [Sch. 12 para. 3(2)](https://www.legislation.gov.uk/uksi/2016/1105/schedule/12/paragraph/3/2) (with [reg. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88))
 
-[^key-5fa09f2603598bec87ab364d473c4db0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2000/128/regulation/15) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-5fa09f2603598bec87ab364d473c4db0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2000/128/regulation/15) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-7115de820abb22e12dc593dd150cfa08]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2000/128/regulation/16) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-7115de820abb22e12dc593dd150cfa08]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2000/128/regulation/16) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-0a4fb9493890ce14a66b30b2d4822e75]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2000/128/regulation/17) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-0a4fb9493890ce14a66b30b2d4822e75]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2000/128/regulation/17) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-099c10ddff6ed760da39bd4c89044ffb]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2000/128/regulation/18) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-099c10ddff6ed760da39bd4c89044ffb]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2000/128/regulation/18) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
 [^f00008]: Footnote: [1961 c. 34](https://www.legislation.gov.uk/ukpga/1961/34).
 
@@ -576,92 +576,92 @@ The information referred to in regulation 5(4) is as follows–
 
 [^f00010]: Footnote: [S.I. 1999/303](https://www.legislation.gov.uk/uksi/1999/303).
 
-[^key-f43ee469454407a7bd3ff1c6815c4879]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2000/128/regulation/19) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-f43ee469454407a7bd3ff1c6815c4879]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2000/128/regulation/19) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-90c12f4ac86fbc292c998b2db5711457]: Commencement: [Sch. 1 Pt. I para. 1](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/I/paragraph/1) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-90c12f4ac86fbc292c998b2db5711457]: Commencement: [Sch. 1 Pt. I para. 1](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/I/paragraph/1) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-64a6c9b6c5dc516e7401a3c072379af4]: Commencement: [Sch. 1 Pt. I para. 2](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/I/paragraph/2) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-64a6c9b6c5dc516e7401a3c072379af4]: Commencement: [Sch. 1 Pt. I para. 2](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/I/paragraph/2) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-7920f2d027773a035c7cd25c23d39cc9]: Commencement: [Sch. 1 Pt. I para. 3](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/I/paragraph/3) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-7920f2d027773a035c7cd25c23d39cc9]: Commencement: [Sch. 1 Pt. I para. 3](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/I/paragraph/3) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-ad01406a3a7c3077c7da759a83608041]: Commencement: [Sch. 1 Pt. I para. 4](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/4) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-ad01406a3a7c3077c7da759a83608041]: Commencement: [Sch. 1 Pt. I para. 4](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/4) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-a08c8569399283f97851e0475f42eefb]: Commencement: [Sch. 1 Pt. I para. 5](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/5) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-a08c8569399283f97851e0475f42eefb]: Commencement: [Sch. 1 Pt. I para. 5](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/5) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-af7f77e63a6acb3c49e2ecb78ebba339]: Commencement: [Sch. 1 Pt. I para. 6](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/6) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-af7f77e63a6acb3c49e2ecb78ebba339]: Commencement: [Sch. 1 Pt. I para. 6](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/6) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-a8b37094137dc86f4444be025b4fec07]: Commencement: [Sch. 1 Pt. I para. 7](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/7) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-a8b37094137dc86f4444be025b4fec07]: Commencement: [Sch. 1 Pt. I para. 7](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/7) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
 [^f00011]: Footnote: [S.I. 1997/2776](https://www.legislation.gov.uk/uksi/1997/2776).
 
-[^key-ab12f2b9eb6eecd9f3e7b984e8524149]: Commencement: [Sch. 1 Pt. I para. 8](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/8) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-ab12f2b9eb6eecd9f3e7b984e8524149]: Commencement: [Sch. 1 Pt. I para. 8](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/8) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
 [^f00012]: Footnote: [S.I. 1996/1656](https://www.legislation.gov.uk/uksi/1996/1656).
 
-[^key-4d3d227bda7dd7f43ef41378882ffdfe]: Textual amendment: [Sch. 1 Pt. 1 para. 9](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/I/paragraph/9) substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(3)(a)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/3/a)
+[^c-4d3d227bda7dd7f43ef41378882ffdfe]: Textual amendment: [Sch. 1 Pt. 1 para. 9](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/I/paragraph/9) substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(3)(a)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/3/a)
 
-[^key-1591cda5835676d3eea086d886650f83]: Textual amendment: Words in [Sch. 1 Pt. 1 para. 9](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/1/paragraph/9) substituted (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
+[^c-1591cda5835676d3eea086d886650f83]: Textual amendment: Words in [Sch. 1 Pt. 1 para. 9](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/1/paragraph/9) substituted (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
 
-[^key-ebc86904baff7c40d4124934cbefaea5]: Textual amendment: [Sch. 1 Pt. 1 para. 10](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/I/paragraph/10) substituted (1.7.2006 as notified in the London Gazette dated 3.7.2006) by [The Railways (Convention on International Carriage by Rail) Regulations 2005 (S.I. 2005/2092)](https://www.legislation.gov.uk/uksi/2005/2092), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2092/regulation/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2005/2092/schedule/3/paragraph/4)
+[^c-ebc86904baff7c40d4124934cbefaea5]: Textual amendment: [Sch. 1 Pt. 1 para. 10](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/I/paragraph/10) substituted (1.7.2006 as notified in the London Gazette dated 3.7.2006) by [The Railways (Convention on International Carriage by Rail) Regulations 2005 (S.I. 2005/2092)](https://www.legislation.gov.uk/uksi/2005/2092), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2092/regulation/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2005/2092/schedule/3/paragraph/4)
 
-[^key-d33f9abe7d44e4fdfe5019a49e258cfd]: Commencement: [Sch. 1 Pt. I para. 11](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/11) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-d33f9abe7d44e4fdfe5019a49e258cfd]: Commencement: [Sch. 1 Pt. I para. 11](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/11) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-6f2bf5a909c1541ed55e69d95d8c5ebb]: Commencement: [Sch. 1 Pt. I para. 12](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/12) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-6f2bf5a909c1541ed55e69d95d8c5ebb]: Commencement: [Sch. 1 Pt. I para. 12](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/12) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-61f34440d395d67f81b9bee36a763153]: Textual amendment: [Sch. 1 Pt. 1 para. 13](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/I/paragraph/13) substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(3)(b)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/3/b)
+[^c-61f34440d395d67f81b9bee36a763153]: Textual amendment: [Sch. 1 Pt. 1 para. 13](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/I/paragraph/13) substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(3)(b)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/3/b)
 
-[^key-66c0b5856e3e3534c088d9aed2d0b109]: Textual amendment: Words in [Sch. 1 Pt. 1 para. 13(b)](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/I/paragraph/13/b) substituted (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
+[^c-66c0b5856e3e3534c088d9aed2d0b109]: Textual amendment: Words in [Sch. 1 Pt. 1 para. 13(b)](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/I/paragraph/13/b) substituted (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
 
-[^key-6cacbab0154313f69208e09801e1cb49]: Commencement: [Sch. 1 Pt. I para. 14](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/14) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-6cacbab0154313f69208e09801e1cb49]: Commencement: [Sch. 1 Pt. I para. 14](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/14) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-b176ad560bb711ca858d43810f24c7b2]: Commencement: [Sch. 1 Pt. I para. 15](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/15) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-b176ad560bb711ca858d43810f24c7b2]: Commencement: [Sch. 1 Pt. I para. 15](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/15) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
 [^f00016]: Footnote: [1998 c. 52](https://www.legislation.gov.uk/ukpga/1998/52).
 
-[^key-d7fa340a0d804e847199007ba638cb90]: Commencement: [Sch. 1 Pt. I para. 16](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/16) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-d7fa340a0d804e847199007ba638cb90]: Commencement: [Sch. 1 Pt. I para. 16](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/16) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-f8f252b853f31a284acd425bffb72a04]: Commencement: [Sch. 1 Pt. I para. 17](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/17) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-f8f252b853f31a284acd425bffb72a04]: Commencement: [Sch. 1 Pt. I para. 17](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/17) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-780f3da81fe29f67686451a545146636]: Commencement: [Sch. 1 Pt. I para. 18](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/18) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-780f3da81fe29f67686451a545146636]: Commencement: [Sch. 1 Pt. I para. 18](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/18) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-62083506154e16aa9e9c2608768185a3]: Commencement: [Sch. 1 Pt. I para. 19](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/19) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-62083506154e16aa9e9c2608768185a3]: Commencement: [Sch. 1 Pt. I para. 19](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/19) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-1987126f67682b192d5185ec8f16cea9]: Commencement: [Sch. 1 Pt. I para. 20](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/20) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-1987126f67682b192d5185ec8f16cea9]: Commencement: [Sch. 1 Pt. I para. 20](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/20) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-992a4ebb2f1b6644c019713524264221]: Commencement: [Sch. 1 Pt. I para. 21](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/21) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-992a4ebb2f1b6644c019713524264221]: Commencement: [Sch. 1 Pt. I para. 21](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/21) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-36b2e429afa21f1ac88b3893328e202d]: Commencement: [Sch. 1 Pt. I para. 22](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/22) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-36b2e429afa21f1ac88b3893328e202d]: Commencement: [Sch. 1 Pt. I para. 22](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/22) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-7926c65824f20b3ad324a04129be20cf]: Commencement: [Sch. 1 Pt. I para. 23](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/23) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-7926c65824f20b3ad324a04129be20cf]: Commencement: [Sch. 1 Pt. I para. 23](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/23) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-7f7008f0b278d1e22b35a76524909398]: Commencement: [Sch. 1 Pt. I para. 24](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/24) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-7f7008f0b278d1e22b35a76524909398]: Commencement: [Sch. 1 Pt. I para. 24](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/24) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-b0044d7c0581929ca2dece360f41c8ba]: Commencement: [Sch. 1 Pt. I para. 25](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/25) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-b0044d7c0581929ca2dece360f41c8ba]: Commencement: [Sch. 1 Pt. I para. 25](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/paragraph/25) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-77a4c16e10725bfecb4dbc24b675ba57]: Commencement: [Sch. 1 Pt. II para. 1](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/II/paragraph/1) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-77a4c16e10725bfecb4dbc24b675ba57]: Commencement: [Sch. 1 Pt. II para. 1](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/II/paragraph/1) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
 [^f00017]: Footnote: [S.I. 1994/3017](https://www.legislation.gov.uk/uksi/1994/3017).
 
-[^key-432214f7118bdbe19c5133c26408ba1d]: Textual amendment: [Sch. 1 Pt. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/II/paragraph/1/b) substituted (8.12.2016) by [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [Sch. 12 para. 3(3)](https://www.legislation.gov.uk/uksi/2016/1105/schedule/12/paragraph/3/3) (with [reg. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88))
+[^c-432214f7118bdbe19c5133c26408ba1d]: Textual amendment: [Sch. 1 Pt. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/II/paragraph/1/b) substituted (8.12.2016) by [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [Sch. 12 para. 3(3)](https://www.legislation.gov.uk/uksi/2016/1105/schedule/12/paragraph/3/3) (with [reg. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88))
 
-[^key-5151dd38f363c5a95e2aaf8dd6b88fff]: Commencement: [Sch. 1 Pt. II para. 2](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/II/paragraph/2) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-5151dd38f363c5a95e2aaf8dd6b88fff]: Commencement: [Sch. 1 Pt. II para. 2](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/II/paragraph/2) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-5cad4a0816aef96d19de56117aa626c8]: Commencement: [Sch. 1 Pt. II para. 3](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/II/paragraph/3) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-5cad4a0816aef96d19de56117aa626c8]: Commencement: [Sch. 1 Pt. II para. 3](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/II/paragraph/3) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-58ec400c67719780c53142c118e69c13]: Textual amendment: Words in [Sch. 1 Pt. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/II/paragraph/3/a) inserted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(4)(a)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/4/a)
+[^c-58ec400c67719780c53142c118e69c13]: Textual amendment: Words in [Sch. 1 Pt. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/II/paragraph/3/a) inserted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(4)(a)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/4/a)
 
-[^key-6dd2442dd011473f3ef494fbd2f88feb]: Textual amendment: Words in [Sch. 1 Pt. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/II/paragraph/3/a) substituted (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
+[^c-6dd2442dd011473f3ef494fbd2f88feb]: Textual amendment: Words in [Sch. 1 Pt. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/II/paragraph/3/a) substituted (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
 
-[^key-722e0a25987f08a18d3ec97025beed9d]: Textual amendment: Words in [Sch. 1 Pt. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/II/paragraph/3/a) substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(4)(c)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/4/c)
+[^c-722e0a25987f08a18d3ec97025beed9d]: Textual amendment: Words in [Sch. 1 Pt. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2000/128/schedule/1/part/II/paragraph/3/a) substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 10(4)(c)](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/10/4/c)
 
-[^key-c1d2561238d5caba9129ccb0323cb894]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2000/128/schedule/2/paragraph/1) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-c1d2561238d5caba9129ccb0323cb894]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2000/128/schedule/2/paragraph/1) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-9fadef6dfefd7c087a40c20a44772c85]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2000/128/schedule/2/paragraph/2) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-9fadef6dfefd7c087a40c20a44772c85]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2000/128/schedule/2/paragraph/2) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
-[^key-5820137abdbf1d6184c31b949712817a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2000/128/schedule/2/paragraph/3) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-5820137abdbf1d6184c31b949712817a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2000/128/schedule/2/paragraph/3) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
 
 [^f00018]: Footnote: Section 6(9) was amended by the Consumer Protection Act [1987 (c. 43)](https://www.legislation.gov.uk/ukpga/1987/43) Schedule 3, paragraph 1(9).
 
 [^f00019]: Footnote: [S.I. 1992/1524](https://www.legislation.gov.uk/uksi/1992/1524).
 
-[^key-4e33c9344e655fc1a205780f1c3669d4]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2000/128/schedule/3) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)
+[^c-4e33c9344e655fc1a205780f1c3669d4]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2000/128/schedule/3) in force at 21.2.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/128/regulation/1)

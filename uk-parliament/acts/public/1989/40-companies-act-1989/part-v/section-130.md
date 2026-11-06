@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-a48dd10638f538cfcae26bdfac859b33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a48dd10638f538cfcae26bdfac859b33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -30,15 +30,15 @@ summary: ''
 
 (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) The Secretary of State may make provision by regulations applying sections 36 to 36C of the Companies Act 1985 (company contracts; execution of documents; *(affected by repeal, see note)*[^key-a48dd10638f538cfcae26bdfac859b33] execution of deeds;[^c18763481] *(affected by repeal, see note)*[^key-a48dd10638f538cfcae26bdfac859b33] pre-incorporation contracts, deeds and obligations) to companies incorporated outside Great Britain, subject to such exceptions, adaptations or modifications as may be specified in the regulations. *(affected by repeal, see note)*[^key-a48dd10638f538cfcae26bdfac859b33]
+(6) The Secretary of State may make provision by regulations applying sections 36 to 36C of the Companies Act 1985 (company contracts; execution of documents; *(affected by repeal, see note)*[^c-a48dd10638f538cfcae26bdfac859b33] execution of deeds;[^c18763481] *(affected by repeal, see note)*[^c-a48dd10638f538cfcae26bdfac859b33] pre-incorporation contracts, deeds and obligations) to companies incorporated outside Great Britain, subject to such exceptions, adaptations or modifications as may be specified in the regulations. *(affected by repeal, see note)*[^c-a48dd10638f538cfcae26bdfac859b33]
 
-Regulations under this subsection shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(affected by repeal, see note)*[^key-a48dd10638f538cfcae26bdfac859b33]
+Regulations under this subsection shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(affected by repeal, see note)*[^c-a48dd10638f538cfcae26bdfac859b33]
 
 (7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a48dd10638f538cfcae26bdfac859b33]: Textual amendment: S. 130 repealed (1.10.2009 for the repeal of s. 130(1)-(5)(7)) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
+[^c-a48dd10638f538cfcae26bdfac859b33]: Textual amendment: S. 130 repealed (1.10.2009 for the repeal of s. 130(1)-(5)(7)) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
 
 [^c13692961]: Textual amendment: S. 130(3) repealed by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 27; 68A:2; 76:2)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 74(2)](https://www.legislation.gov.uk/ukpga/1990/40/section/74/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/1990/40/schedule/9)
 

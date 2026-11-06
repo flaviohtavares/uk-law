@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.112. Advertisement of resignation[^key-89359cd2446a9723e6e9d245e3f303b7]
+## 4.112. Advertisement of resignation[^c-89359cd2446a9723e6e9d245e3f303b7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a new liquidator is appointed in place of one who has resigned, the former
 
 ## Annotations
 
-[^key-89359cd2446a9723e6e9d245e3f303b7]: Commencement: [Rule 4.112](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.112) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-89359cd2446a9723e6e9d245e3f303b7]: Commencement: [Rule 4.112](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.112) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

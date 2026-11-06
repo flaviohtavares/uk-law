@@ -29,7 +29,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-[^key-da6e67334aca748d11438a28d020fb99]The Dangerous Substances and Preparations (Safety) (Consolidation) (Amendment) Regulations 2002 (revoked)
+[^c-da6e67334aca748d11438a28d020fb99]The Dangerous Substances and Preparations (Safety) (Consolidation) (Amendment) Regulations 2002 (revoked)
 
 Made
 
@@ -61,4 +61,4 @@ Coming into force
 
 ## Annotations
 
-[^key-da6e67334aca748d11438a28d020fb99]: Textual amendment: Regulations revoked (4.12.2006) by [The Dangerous Substances and Preparations (Safety) Regulations 2006 (S.I. 2006/2916)](https://www.legislation.gov.uk/uksi/2006/2916), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/2916/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2916/schedule/1)
+[^c-da6e67334aca748d11438a28d020fb99]: Textual amendment: Regulations revoked (4.12.2006) by [The Dangerous Substances and Preparations (Safety) Regulations 2006 (S.I. 2006/2916)](https://www.legislation.gov.uk/uksi/2006/2916), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/2916/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2916/schedule/1)

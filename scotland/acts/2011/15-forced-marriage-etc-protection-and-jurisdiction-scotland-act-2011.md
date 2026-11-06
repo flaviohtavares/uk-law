@@ -38,18 +38,18 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Forced marriage protection orders
 
-#### 1. Forced marriage protection orders[^key-ab6bd3e0c794054be992eeed203fbcbb]
+#### 1. Forced marriage protection orders[^c-ab6bd3e0c794054be992eeed203fbcbb]
 
 (1) The court may make an order for the purposes of protecting a person (a “protected person”)—
 
-- (a) from being forced into a marriage or civil partnership[^key-34565b37293c51c3a22623da1b98ad4e] or from any attempt to force the person into a marriage or civil partnership, or
+- (a) from being forced into a marriage or civil partnership[^c-34565b37293c51c3a22623da1b98ad4e] or from any attempt to force the person into a marriage or civil partnership, or
 - (b) who has been forced into a marriage or civil partnership.
 
 (2) In deciding whether to make such an order and, if so, what order to make, the court must have regard to all the circumstances including the need to secure the health, safety and well-being of the protected person.
 
 (3) In ascertaining the protected person's well-being, the court must, in particular, have such regard to the person's wishes and feelings (so far as they are reasonably ascertainable) as the court considers appropriate on the basis of the person's age and understanding.
 
-(4) For the purposes of this Part, a person (“A”) is forced into a marriage or civil partnership[^key-878c7168ee1290f0e0348a8623cac148] if another person (“B”) forces A to enter into a marriage or civil partnership (whether with B or another person) without A's free and full consent.
+(4) For the purposes of this Part, a person (“A”) is forced into a marriage or civil partnership[^c-878c7168ee1290f0e0348a8623cac148] if another person (“B”) forces A to enter into a marriage or civil partnership (whether with B or another person) without A's free and full consent.
 
 (5) For the purposes of subsection (4), it does not matter whether the conduct of B which forces A to enter into a marriage or civil partnership is directed against A, B or another person.
 
@@ -57,12 +57,12 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - “**force**” includes—
   - (a) coerce by physical, verbal or psychological means, threatening conduct, harassment or other means,
-  - (b) knowingly take advantage of a person's incapacity to consent to marriage or civil partnership[^key-f399d019b95a0f2f05aabc51129e5670] or to understand the nature of the marriage or civil partnership,
+  - (b) knowingly take advantage of a person's incapacity to consent to marriage or civil partnership[^c-f399d019b95a0f2f05aabc51129e5670] or to understand the nature of the marriage or civil partnership,
 
   and related expressions are to be read accordingly,
 - “**forced marriage protection order**” means an order under subsection (1).
 
-#### 2. Contents of orders[^key-d3e76dd086f05e1c43fd7c28957594fd]
+#### 2. Contents of orders[^c-d3e76dd086f05e1c43fd7c28957594fd]
 
 (1) A forced marriage protection order may contain such—
 
@@ -74,7 +74,7 @@ as the court considers appropriate for the purposes of the order.
 (2) The terms of such an order may, in particular, relate to—
 
 - (a) conduct outwith (as well as, or instead of, conduct within) Scotland,
-- (b) persons who force or attempt to force, or may force or attempt to force, a protected person to enter into a marriage or civil partnership[^key-3b94347f4c84c4b78dca26b7d409c4a2],
+- (b) persons who force or attempt to force, or may force or attempt to force, a protected person to enter into a marriage or civil partnership[^c-3b94347f4c84c4b78dca26b7d409c4a2],
 - (c) persons who are, or may become, involved in other respects.
 
 (3) A forced marriage protection order may, among other things, require a person—
@@ -91,10 +91,10 @@ as the court considers appropriate for the purposes of the order.
 
 (4) For the purposes of subsection (2)(c), examples of involvement in other respects are—
 
-- (a) aiding, abetting, counselling, procuring, encouraging or assisting another person to force, or to attempt to force, a person to enter into a marriage or civil partnership[^key-ff3b195ac5fc24ab9db2607b3ada6168],
+- (a) aiding, abetting, counselling, procuring, encouraging or assisting another person to force, or to attempt to force, a person to enter into a marriage or civil partnership[^c-ff3b195ac5fc24ab9db2607b3ada6168],
 - (b) conspiring to force, or to attempt to force, a person to enter into a marriage or civil partnership.
 
-#### 3. Applications for orders[^key-a512b2d817052f75a05daf6b3132d07f]
+#### 3. Applications for orders[^c-a512b2d817052f75a05daf6b3132d07f]
 
 (1) The court may make a forced marriage protection order on an application being made to it by—
 
@@ -124,7 +124,7 @@ as the court considers appropriate for the purposes of the order.
 - (b) the Lord Advocate,
 - (c) a person specified, or falling within a description of persons specified, by order made by the Scottish Ministers.
 
-#### 4. Power to make orders without application, etc.[^key-e5656856cbde4f532181b2c86dc89df6]
+#### 4. Power to make orders without application, etc.[^c-e5656856cbde4f532181b2c86dc89df6]
 
 (1) The court may make a forced marriage protection order without an application being made to it where—
 
@@ -134,17 +134,17 @@ as the court considers appropriate for the purposes of the order.
 
 (2) Subsection (3) applies where—
 
-- (a) criminal proceedings are before the sheriff , the Sheriff Appeal Court[^key-ac302872c58bd145aaef851cffdd9616] or the High Court, and
-- (b) the sheriff , the Sheriff Appeal Court[^key-279ed13d42c0156c968880a0ee7cda95] or the High Court considers that a forced marriage protection order should be made to protect a person (whether or not a party to the criminal proceedings).
+- (a) criminal proceedings are before the sheriff , the Sheriff Appeal Court[^c-ac302872c58bd145aaef851cffdd9616] or the High Court, and
+- (b) the sheriff , the Sheriff Appeal Court[^c-279ed13d42c0156c968880a0ee7cda95] or the High Court considers that a forced marriage protection order should be made to protect a person (whether or not a party to the criminal proceedings).
 
-(3) The sheriff , the Sheriff Appeal Court[^key-50a5bd27fa977183c74be0e92d037aa9] or, as the case may be, the High Court may refer the matter to the Lord Advocate who may—
+(3) The sheriff , the Sheriff Appeal Court[^c-50a5bd27fa977183c74be0e92d037aa9] or, as the case may be, the High Court may refer the matter to the Lord Advocate who may—
 
 - (a) apply under section 3 for a forced marriage protection order,
 - (b) take such other steps as the Lord Advocate considers appropriate.
 
 ### Interim orders
 
-#### 5. Interim orders[^key-f4bfb779280812b050a41adccc456e87]
+#### 5. Interim orders[^c-f4bfb779280812b050a41adccc456e87]
 
 (1) The court may, in a case where it considers that it is equitable to do so, make a forced marriage protection order in the absence of a person who is, or would be, a party to proceedings for the order (and may do so whether or not the person has been given such notice of the application for the order as would otherwise be required by rules of court).
 
@@ -156,14 +156,14 @@ as the court considers appropriate for the purposes of the order.
 
 ### Duration, variation, recall and extension
 
-#### 6. Duration of orders[^key-9a1a318d4ee3a68eb4e89d9309ad5cda]
+#### 6. Duration of orders[^c-9a1a318d4ee3a68eb4e89d9309ad5cda]
 
 A forced marriage protection order has effect—
 
 - (a) where the order specifies a period for which it is to have effect, until the expiry of that period (unless the order is recalled under section 7 or extended under section 8),
 - (b) where no such period is specified, until the order is recalled under section 7.
 
-#### 7. Variation and recall of orders[^key-a56c858b0b23afe110c72868ce93f030]
+#### 7. Variation and recall of orders[^c-a56c858b0b23afe110c72868ce93f030]
 
 (1) The court may vary or recall a forced marriage protection order on an application by—
 
@@ -186,7 +186,7 @@ A forced marriage protection order has effect—
 
 (6) In this Part, where a forced marriage protection order specifies a period for which it is to have effect, references to varying an order do not include extending any such period.
 
-#### 8. Extension of orders[^key-4f0961396c7119e5c132f539792766cb]
+#### 8. Extension of orders[^c-4f0961396c7119e5c132f539792766cb]
 
 (1) This section applies where a forced marriage protection order specifies a period for which it is to have effect.
 
@@ -215,13 +215,13 @@ A forced marriage protection order has effect—
 
 ### Offence
 
-#### 9. Offence of breaching order[^key-cebfc59db2c621fa919850e41c5dde76]
+#### 9. Offence of breaching order[^c-cebfc59db2c621fa919850e41c5dde76]
 
 (1) Any person who, knowingly and without reasonable excuse, breaches a forced marriage protection order commits an offence.
 
-(2)[^key-b8be0c334dc6e99fb91e808e8a358287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b8be0c334dc6e99fb91e808e8a358287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-b8be0c334dc6e99fb91e808e8a358287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b8be0c334dc6e99fb91e808e8a358287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) A person guilty of an offence under subsection (1) is liable—
 
@@ -232,7 +232,7 @@ A forced marriage protection order has effect—
 
 ### Power to apply Part to civil partnerships
 
-#### 10. Power to apply Part to civil partnerships[^key-ad9bdc513ee0a509112d2d88a0b1538c]
+#### 10. Power to apply Part to civil partnerships[^c-ad9bdc513ee0a509112d2d88a0b1538c]
 
 (1) The Scottish Ministers may by order make provision applying this Part (or particular provisions of it) to civil partnerships as it applies (or as the particular provisions of it apply) to marriages.
 
@@ -240,21 +240,21 @@ A forced marriage protection order has effect—
 
 ### Supplementary
 
-#### 11. Guidance[^key-217a1da5b5f3d6f47ab26c1383d7fd29]
+#### 11. Guidance[^c-217a1da5b5f3d6f47ab26c1383d7fd29]
 
 (1) The Scottish Ministers must, no later than the day on which section 1 comes into force, give guidance to such persons or descriptions of persons as Ministers consider appropriate about the effect of this Part or any provision of it.
 
-(2) The Scottish Ministers may give guidance to such persons or descriptions of persons as Ministers consider appropriate about matters (other than that mentioned in subsection (1)) relating to forced marriages or forced civil partnerships.[^key-f714dcf0470b2fa33d1dcd9698ece2ae]
+(2) The Scottish Ministers may give guidance to such persons or descriptions of persons as Ministers consider appropriate about matters (other than that mentioned in subsection (1)) relating to forced marriages or forced civil partnerships.[^c-f714dcf0470b2fa33d1dcd9698ece2ae]
 
 (3) A person exercising public functions to whom guidance is given under this section must have regard to it in the exercise of those functions.
 
 (4) The Scottish Ministers may not give guidance under this section to any court or tribunal.
 
-#### 12. Other protection or assistance against forced marriage or forced civil partnership[^key-179505b7b0f5bfd53d3fd02a74bf0222][^key-596325a95cbb9377b633a81e5438f852]
+#### 12. Other protection or assistance against forced marriage or forced civil partnership[^c-179505b7b0f5bfd53d3fd02a74bf0222][^c-596325a95cbb9377b633a81e5438f852]
 
 (1) This Part does not affect any other protection or assistance available to a person who—
 
-- (a) is being, or may be, forced into a marriage or civil partnership[^key-ed68e8528d979683a3426f4d0d6fe938],
+- (a) is being, or may be, forced into a marriage or civil partnership[^c-ed68e8528d979683a3426f4d0d6fe938],
 - (b) is being, or may be, subjected to an attempt to force the person into a marriage, or
 - (c) has been forced into a marriage or civil partnership.
 
@@ -264,14 +264,14 @@ A forced marriage protection order has effect—
 - (b) any criminal liability,
 - (c) any civil remedies under the Protection from Harassment Act 1997 (c.40),
 - (d) any right to—
-  - (i) an order under the Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c.59) or the Civil Partnership Act 2004[^key-2c849def6ed282c7572266ef2fedfa9d] relating to occupancy rights,
-  - (ii) an exclusion order under either of those Acts[^key-559a7816efb8f38da4044eca20ccdf29],
+  - (i) an order under the Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c.59) or the Civil Partnership Act 2004[^c-2c849def6ed282c7572266ef2fedfa9d] relating to occupancy rights,
+  - (ii) an exclusion order under either of those Acts[^c-559a7816efb8f38da4044eca20ccdf29],
 - (e) any protection or assistance under the Children (Scotland) Act 1995 (c.36) or the Children's Hearings (Scotland) Act 2011 (asp 1),
-- (f) any claim in delict, [^key-f1d3dc5abee24b8b0dfc7d75c4c46b34]...
-- (g) the law of marriage , or[^key-728079305fb7272d492514338bcc6ce6]
+- (f) any claim in delict, [^c-f1d3dc5abee24b8b0dfc7d75c4c46b34]...
+- (g) the law of marriage , or[^c-728079305fb7272d492514338bcc6ce6]
 - (h) the law of civil partnership.
 
-#### 13. Amendment of Children's Hearings (Scotland) Act 2011[^key-1dfccba7c7059cb5dab0d0de44de6d2d]
+#### 13. Amendment of Children's Hearings (Scotland) Act 2011[^c-1dfccba7c7059cb5dab0d0de44de6d2d]
 
 (1) The Children's Hearings (Scotland) Act 2011 (asp 1) is amended as follows.
 
@@ -299,23 +299,23 @@ A forced marriage protection order has effect—
 
   .
 
-#### 14. Interpretation of Part[^key-fb829f77a9b23d0a51691017764fc5fe]
+#### 14. Interpretation of Part[^c-fb829f77a9b23d0a51691017764fc5fe]
 
 In this Part (except where the context otherwise requires)—
 
-- “[^key-f18b7a03ac92d402528eef7fb034b0ea]**civil partnership**” includes—
+- “[^c-f18b7a03ac92d402528eef7fb034b0ea]**civil partnership**” includes—
   - ((a)) a civil partnership which exists by virtue of the Civil Partnership Act 2004, and
   - ((b)) a purported civil partnership,
-- “**court**” means the Court of Session or the sheriff and in sections 1, 2, 4 and 5 includes the Sheriff Appeal Court[^key-6f088975588f04747693873f3679ffd2],
+- “**court**” means the Court of Session or the sheriff and in sections 1, 2, 4 and 5 includes the Sheriff Appeal Court[^c-6f088975588f04747693873f3679ffd2],
 - “force” and related expressions have the meanings given by section 1(6),
 - “**forced marriage protection order**” has the meaning given by section 1(6),
 - “**interim forced marriage protection order**” has the meaning given by section 5(2),
-- “**marriage**” means any religious , belief[^key-0f866b87e9d5824ede56376bd1b31177] or civil ceremony of marriage (wherever carried out and whether or not legally binding under the law of Scotland or any other place),
+- “**marriage**” means any religious , belief[^c-0f866b87e9d5824ede56376bd1b31177] or civil ceremony of marriage (wherever carried out and whether or not legally binding under the law of Scotland or any other place),
 - “**protected person**” has the meaning given by section 1(1).
 
 ## Part 2 — Declarators of nullity of marriage in sheriff court
 
-### 15. Action of declarator of nullity in sheriff court: jurisdiction[^key-c359b9b2c5ac4e3d3d93f957c6d7fd93]
+### 15. Action of declarator of nullity in sheriff court: jurisdiction[^c-c359b9b2c5ac4e3d3d93f957c6d7fd93]
 
 (1) Section 8 of the Domicile and Matrimonial Proceedings Act 1973 (c.45) (jurisdiction of sheriff court in respect of certain actions) is amended as follows.
 
@@ -365,13 +365,13 @@ In this Part (except where the context otherwise requires)—
 
 ## Part 3 — General
 
-### 16. Ancillary provision[^key-a8750ac5a54b06aeb035ad274f6ebd8b]
+### 16. Ancillary provision[^c-a8750ac5a54b06aeb035ad274f6ebd8b]
 
 (1) The Scottish Ministers may by order make such incidental, consequential, transitional, transitory or saving provision as they consider appropriate for the purposes, or in consequence, of any provision of this Act.
 
 (2) An order under subsection (1) may modify any enactment (including this Act).
 
-### 17. Subordinate legislation[^key-aec6dd2c116ac8908f82ff80364e6af2]
+### 17. Subordinate legislation[^c-aec6dd2c116ac8908f82ff80364e6af2]
 
 (1) Any power conferred by this Act on the Scottish Ministers to make orders is exercisable by statutory instrument.
 
@@ -384,7 +384,7 @@ In this Part (except where the context otherwise requires)—
 
 may be made unless a draft of the statutory instrument containing the order has been laid before, and approved by resolution of, the Scottish Parliament.
 
-### 18. Crown application[^key-1499fb8c6ea013903aa998ed31abd3ab]
+### 18. Crown application[^c-1499fb8c6ea013903aa998ed31abd3ab]
 
 (1) No contravention by the Crown of—
 
@@ -407,76 +407,76 @@ makes the Crown criminally liable.
 
 ## Annotations
 
-[^key-ab6bd3e0c794054be992eeed203fbcbb]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2011/15/section/1) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-ab6bd3e0c794054be992eeed203fbcbb]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2011/15/section/1) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-34565b37293c51c3a22623da1b98ad4e]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/asp/2011/15/section/1/1) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/194/article/2/2/a)
+[^c-34565b37293c51c3a22623da1b98ad4e]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/asp/2011/15/section/1/1) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/194/article/2/2/a)
 
-[^key-878c7168ee1290f0e0348a8623cac148]: Textual amendment: Words in [s. 1(4)](https://www.legislation.gov.uk/asp/2011/15/section/1/4)[(5)](https://www.legislation.gov.uk/asp/2011/15/section/1/5) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/194/article/2/2/a)
+[^c-878c7168ee1290f0e0348a8623cac148]: Textual amendment: Words in [s. 1(4)](https://www.legislation.gov.uk/asp/2011/15/section/1/4)[(5)](https://www.legislation.gov.uk/asp/2011/15/section/1/5) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/194/article/2/2/a)
 
-[^key-f399d019b95a0f2f05aabc51129e5670]: Textual amendment: Words in [s. 1(6)](https://www.legislation.gov.uk/asp/2011/15/section/1/6) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/194/article/2/2/b)
+[^c-f399d019b95a0f2f05aabc51129e5670]: Textual amendment: Words in [s. 1(6)](https://www.legislation.gov.uk/asp/2011/15/section/1/6) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/194/article/2/2/b)
 
-[^key-d3e76dd086f05e1c43fd7c28957594fd]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2011/15/section/2) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-d3e76dd086f05e1c43fd7c28957594fd]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2011/15/section/2) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-3b94347f4c84c4b78dca26b7d409c4a2]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/asp/2011/15/section/2/2) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/194/article/2/3)
+[^c-3b94347f4c84c4b78dca26b7d409c4a2]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/asp/2011/15/section/2/2) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/194/article/2/3)
 
-[^key-ff3b195ac5fc24ab9db2607b3ada6168]: Textual amendment: Words in [s. 2(4)](https://www.legislation.gov.uk/asp/2011/15/section/2/4) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/194/article/2/3)
+[^c-ff3b195ac5fc24ab9db2607b3ada6168]: Textual amendment: Words in [s. 2(4)](https://www.legislation.gov.uk/asp/2011/15/section/2/4) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/194/article/2/3)
 
-[^key-a512b2d817052f75a05daf6b3132d07f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/15/section/3) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-a512b2d817052f75a05daf6b3132d07f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/15/section/3) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-e5656856cbde4f532181b2c86dc89df6]: Commencement: S. 4 in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-e5656856cbde4f532181b2c86dc89df6]: Commencement: S. 4 in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-ac302872c58bd145aaef851cffdd9616]: Textual amendment: Words in s. 4(2)(a) inserted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 7(2)(a)(i)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/7/2/a/i) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-ac302872c58bd145aaef851cffdd9616]: Textual amendment: Words in s. 4(2)(a) inserted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 7(2)(a)(i)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/7/2/a/i) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
-[^key-279ed13d42c0156c968880a0ee7cda95]: Textual amendment: Words in s. 4(2)(b) inserted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 7(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/7/2/a/ii) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-279ed13d42c0156c968880a0ee7cda95]: Textual amendment: Words in s. 4(2)(b) inserted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 7(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/7/2/a/ii) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
-[^key-50a5bd27fa977183c74be0e92d037aa9]: Textual amendment: Words in s. 4(3) inserted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 7(2)(b)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/7/2/b) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-50a5bd27fa977183c74be0e92d037aa9]: Textual amendment: Words in s. 4(3) inserted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 7(2)(b)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/7/2/b) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
-[^key-f4bfb779280812b050a41adccc456e87]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/15/section/5) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-f4bfb779280812b050a41adccc456e87]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/15/section/5) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-9a1a318d4ee3a68eb4e89d9309ad5cda]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/15/section/6) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-9a1a318d4ee3a68eb4e89d9309ad5cda]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/15/section/6) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-a56c858b0b23afe110c72868ce93f030]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/15/section/7) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-a56c858b0b23afe110c72868ce93f030]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/15/section/7) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-4f0961396c7119e5c132f539792766cb]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/15/section/8) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-4f0961396c7119e5c132f539792766cb]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/15/section/8) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-cebfc59db2c621fa919850e41c5dde76]: Commencement: S. 9 in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-cebfc59db2c621fa919850e41c5dde76]: Commencement: S. 9 in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-b8be0c334dc6e99fb91e808e8a358287]: Textual amendment: [S. 9(2)(3)](https://www.legislation.gov.uk/asp/2011/15/section/9/2) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 25](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/25); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-b8be0c334dc6e99fb91e808e8a358287]: Textual amendment: [S. 9(2)(3)](https://www.legislation.gov.uk/asp/2011/15/section/9/2) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 25](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/25); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
-[^key-ad9bdc513ee0a509112d2d88a0b1538c]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/15/section/10) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-ad9bdc513ee0a509112d2d88a0b1538c]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/15/section/10) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-217a1da5b5f3d6f47ab26c1383d7fd29]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/15/section/11) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-217a1da5b5f3d6f47ab26c1383d7fd29]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/15/section/11) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-f714dcf0470b2fa33d1dcd9698ece2ae]: Textual amendment: Words in [s. 11(2)](https://www.legislation.gov.uk/asp/2011/15/section/11/2) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2023/194/article/2/4)
+[^c-f714dcf0470b2fa33d1dcd9698ece2ae]: Textual amendment: Words in [s. 11(2)](https://www.legislation.gov.uk/asp/2011/15/section/11/2) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2023/194/article/2/4)
 
-[^key-179505b7b0f5bfd53d3fd02a74bf0222]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/15/section/12) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-179505b7b0f5bfd53d3fd02a74bf0222]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/15/section/12) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-596325a95cbb9377b633a81e5438f852]: Textual amendment: [S. 12 heading](https://www.legislation.gov.uk/asp/2011/15/part/1/crossheading/supplementary) substituted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2023/194/article/2/5/c)
+[^c-596325a95cbb9377b633a81e5438f852]: Textual amendment: [S. 12 heading](https://www.legislation.gov.uk/asp/2011/15/part/1/crossheading/supplementary) substituted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2023/194/article/2/5/c)
 
-[^key-ed68e8528d979683a3426f4d0d6fe938]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/asp/2011/15/section/12/1) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2023/194/article/2/5/a)
+[^c-ed68e8528d979683a3426f4d0d6fe938]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/asp/2011/15/section/12/1) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2023/194/article/2/5/a)
 
-[^key-2c849def6ed282c7572266ef2fedfa9d]: Textual amendment: Words in [s. 12(2)(d)(i)](https://www.legislation.gov.uk/asp/2011/15/section/12/2/d/i) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(5)(b)(i)](https://www.legislation.gov.uk/ssi/2023/194/article/2/5/b/i)
+[^c-2c849def6ed282c7572266ef2fedfa9d]: Textual amendment: Words in [s. 12(2)(d)(i)](https://www.legislation.gov.uk/asp/2011/15/section/12/2/d/i) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(5)(b)(i)](https://www.legislation.gov.uk/ssi/2023/194/article/2/5/b/i)
 
-[^key-559a7816efb8f38da4044eca20ccdf29]: Textual amendment: Words in [s. 12(2)(d)(ii)](https://www.legislation.gov.uk/asp/2011/15/section/12/2/d/ii) substituted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/194/article/2/5/b/ii)
+[^c-559a7816efb8f38da4044eca20ccdf29]: Textual amendment: Words in [s. 12(2)(d)(ii)](https://www.legislation.gov.uk/asp/2011/15/section/12/2/d/ii) substituted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/194/article/2/5/b/ii)
 
-[^key-f1d3dc5abee24b8b0dfc7d75c4c46b34]: Textual amendment: Word in [s. 12(2)](https://www.legislation.gov.uk/asp/2011/15/section/12/2) omitted (30.11.2023) by virtue of [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(5)(b)(iii)](https://www.legislation.gov.uk/ssi/2023/194/article/2/5/b/iii)
+[^c-f1d3dc5abee24b8b0dfc7d75c4c46b34]: Textual amendment: Word in [s. 12(2)](https://www.legislation.gov.uk/asp/2011/15/section/12/2) omitted (30.11.2023) by virtue of [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(5)(b)(iii)](https://www.legislation.gov.uk/ssi/2023/194/article/2/5/b/iii)
 
-[^key-728079305fb7272d492514338bcc6ce6]: Textual amendment: [S. 12(2)(h)](https://www.legislation.gov.uk/asp/2011/15/section/12/2/h) and word inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(5)(b)(iv)](https://www.legislation.gov.uk/ssi/2023/194/article/2/5/b/iv)
+[^c-728079305fb7272d492514338bcc6ce6]: Textual amendment: [S. 12(2)(h)](https://www.legislation.gov.uk/asp/2011/15/section/12/2/h) and word inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(5)(b)(iv)](https://www.legislation.gov.uk/ssi/2023/194/article/2/5/b/iv)
 
-[^key-1dfccba7c7059cb5dab0d0de44de6d2d]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/15/section/13) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-1dfccba7c7059cb5dab0d0de44de6d2d]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/15/section/13) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-fb829f77a9b23d0a51691017764fc5fe]: Commencement: S. 14 in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-fb829f77a9b23d0a51691017764fc5fe]: Commencement: S. 14 in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-f18b7a03ac92d402528eef7fb034b0ea]: Textual amendment: Words in [s. 14](https://www.legislation.gov.uk/asp/2011/15/section/14) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2023/194/article/2/6/a)
+[^c-f18b7a03ac92d402528eef7fb034b0ea]: Textual amendment: Words in [s. 14](https://www.legislation.gov.uk/asp/2011/15/section/14) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2023/194/article/2/6/a)
 
-[^key-6f088975588f04747693873f3679ffd2]: Textual amendment: Words in s. 14 inserted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 7(3)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/7/3) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-6f088975588f04747693873f3679ffd2]: Textual amendment: Words in s. 14 inserted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 7(3)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/7/3) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
-[^key-0f866b87e9d5824ede56376bd1b31177]: Textual amendment: Word in [s. 14](https://www.legislation.gov.uk/asp/2011/15/section/14) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2023/194/article/2/6/b)
+[^c-0f866b87e9d5824ede56376bd1b31177]: Textual amendment: Word in [s. 14](https://www.legislation.gov.uk/asp/2011/15/section/14) inserted (30.11.2023) by [The Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (Application to Civil Partnerships and Consequential Provision) Order 2023 (S.S.I. 2023/194)](https://www.legislation.gov.uk/ssi/2023/194), [arts. 1](https://www.legislation.gov.uk/ssi/2023/194/article/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2023/194/article/2/6/b)
 
-[^key-c359b9b2c5ac4e3d3d93f957c6d7fd93]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/15/section/15) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-c359b9b2c5ac4e3d3d93f957c6d7fd93]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/15/section/15) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-a8750ac5a54b06aeb035ad274f6ebd8b]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/15/section/16) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-a8750ac5a54b06aeb035ad274f6ebd8b]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/15/section/16) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-aec6dd2c116ac8908f82ff80364e6af2]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2011/15/section/17) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-aec6dd2c116ac8908f82ff80364e6af2]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2011/15/section/17) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-1499fb8c6ea013903aa998ed31abd3ab]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2011/15/section/18) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-1499fb8c6ea013903aa998ed31abd3ab]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2011/15/section/18) in force at 28.11.2011 by [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Effect of code[^key-09ec3175749b2229c66918b3b11afd38]
+## 51. Effect of code[^c-09ec3175749b2229c66918b3b11afd38]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09ec3175749b2229c66918b3b11afd38]: Commencement: S. 51 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(u)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/u)
+[^c-09ec3175749b2229c66918b3b11afd38]: Commencement: S. 51 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(u)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/u)

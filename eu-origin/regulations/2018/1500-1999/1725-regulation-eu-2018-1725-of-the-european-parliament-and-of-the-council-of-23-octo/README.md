@@ -35,11 +35,11 @@ on the protection of natural persons with regard to the processing of personal d
 
 (Text with EEA relevance) (revoked)
 
-[^key-fdb37da13d3688e866aaf378b3d9a917]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdb37da13d3688e866aaf378b3d9a917]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### CHAPTER I — GENERAL PROVISIONS[^key-fdb37da13d3688e866aaf378b3d9a917]
+### CHAPTER I — GENERAL PROVISIONS[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 2 — Scope](section-article-2.md)
 - [Section Article 3 — Definitions](section-article-3.md)
 
-### CHAPTER II — GENERAL PRINCIPLES[^key-fdb37da13d3688e866aaf378b3d9a917]
+### CHAPTER II — GENERAL PRINCIPLES[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,13 +66,13 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 12 — Processing which does not require identification](section-article-12.md)
 - [Section Article 13 — Safeguards relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes](section-article-13.md)
 
-### CHAPTER III — RIGHTS OF THE DATA SUBJECT[^key-fdb37da13d3688e866aaf378b3d9a917]
+### CHAPTER III — RIGHTS OF THE DATA SUBJECT[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — Transparency and modalities[^key-fdb37da13d3688e866aaf378b3d9a917]
+#### SECTION 1 — Transparency and modalities[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,7 +80,7 @@ on the protection of natural persons with regard to the processing of personal d
 
 - [Section Article 14 — Transparent information, communication and modalities for the exercise of the rights of the data subject](section-article-14.md)
 
-#### SECTION 2 — Information and access to personal data[^key-fdb37da13d3688e866aaf378b3d9a917]
+#### SECTION 2 — Information and access to personal data[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -90,7 +90,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 16 — Information to be provided where personal data have not been obtained from the data subject](section-article-16.md)
 - [Section Article 17 — Right of access by the data subject](section-article-17.md)
 
-#### SECTION 3 — Rectification and erasure[^key-fdb37da13d3688e866aaf378b3d9a917]
+#### SECTION 3 — Rectification and erasure[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -102,7 +102,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 21 — Notification obligation regarding rectification or erasure of personal data or restriction of processing](section-article-21.md)
 - [Section Article 22 — Right to data portability](section-article-22.md)
 
-#### SECTION 4 — Right to object and automated individual decision-making[^key-fdb37da13d3688e866aaf378b3d9a917]
+#### SECTION 4 — Right to object and automated individual decision-making[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -111,7 +111,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 23 — Right to object](section-article-23.md)
 - [Section Article 24 — Automated individual decision-making, including profiling](section-article-24.md)
 
-#### SECTION 5 — Restrictions[^key-fdb37da13d3688e866aaf378b3d9a917]
+#### SECTION 5 — Restrictions[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,13 +119,13 @@ on the protection of natural persons with regard to the processing of personal d
 
 - [Section Article 25 — Restrictions](section-article-25.md)
 
-### CHAPTER IV — CONTROLLER AND PROCESSOR[^key-fdb37da13d3688e866aaf378b3d9a917]
+### CHAPTER IV — CONTROLLER AND PROCESSOR[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — General obligations[^key-fdb37da13d3688e866aaf378b3d9a917]
+#### SECTION 1 — General obligations[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -139,7 +139,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 31 — Records of processing activities](section-article-31.md)
 - [Section Article 32 — Cooperation with the European Data Protection Supervisor](section-article-32.md)
 
-#### SECTION 2 — Security of personal data[^key-fdb37da13d3688e866aaf378b3d9a917]
+#### SECTION 2 — Security of personal data[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -149,7 +149,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 34 — Notification of a personal data breach to the European Data Protection Supervisor](section-article-34.md)
 - [Section Article 35 — Communication of a personal data breach to the data subject](section-article-35.md)
 
-#### SECTION 3 — Confidentiality of electronic communications[^key-fdb37da13d3688e866aaf378b3d9a917]
+#### SECTION 3 — Confidentiality of electronic communications[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -159,7 +159,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 37 — Protection of information transmitted to, stored in, related to, processed by and collected from users’ terminal equipment](section-article-37.md)
 - [Section Article 38 — Directories of users](section-article-38.md)
 
-#### SECTION 4 — Data protection impact assessment and prior consultation[^key-fdb37da13d3688e866aaf378b3d9a917]
+#### SECTION 4 — Data protection impact assessment and prior consultation[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -168,7 +168,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 39 — Data protection impact assessment](section-article-39.md)
 - [Section Article 40 — Prior consultation](section-article-40.md)
 
-#### SECTION 5 — Information and legislative consultation[^key-fdb37da13d3688e866aaf378b3d9a917]
+#### SECTION 5 — Information and legislative consultation[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -177,7 +177,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 41 — Information and consultation](section-article-41.md)
 - [Section Article 42 — Legislative consultation](section-article-42.md)
 
-#### SECTION 6 — Data protection officer[^key-fdb37da13d3688e866aaf378b3d9a917]
+#### SECTION 6 — Data protection officer[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -187,7 +187,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 44 — Position of the data protection officer](section-article-44.md)
 - [Section Article 45 — Tasks of the data protection officer](section-article-45.md)
 
-### CHAPTER V — TRANSFERS OF PERSONAL DATA TO THIRD COUNTRIES OR INTERNATIONAL ORGANISATIONS[^key-fdb37da13d3688e866aaf378b3d9a917]
+### CHAPTER V — TRANSFERS OF PERSONAL DATA TO THIRD COUNTRIES OR INTERNATIONAL ORGANISATIONS[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -200,7 +200,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 50 — Derogations for specific situations](section-article-50.md)
 - [Section Article 51 — International cooperation for the protection of personal data](section-article-51.md)
 
-### CHAPTER VI — EUROPEAN DATA PROTECTION SUPERVISOR[^key-fdb37da13d3688e866aaf378b3d9a917]
+### CHAPTER VI — EUROPEAN DATA PROTECTION SUPERVISOR[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -216,7 +216,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 59 — Obligation of controllers and processors to react to allegations](section-article-59.md)
 - [Section Article 60 — Activities report](section-article-60.md)
 
-### CHAPTER VII — COOPERATION AND CONSISTENCY[^key-fdb37da13d3688e866aaf378b3d9a917]
+### CHAPTER VII — COOPERATION AND CONSISTENCY[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -225,7 +225,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 61 — Cooperation between the European Data Protection Supervisor and national supervisory authorities](section-article-61.md)
 - [Section Article 62 — Coordinated supervision by the European Data Protection Supervisor and national supervisory authorities](section-article-62.md)
 
-### CHAPTER VIII — REMEDIES, LIABILITY AND PENALTIES[^key-fdb37da13d3688e866aaf378b3d9a917]
+### CHAPTER VIII — REMEDIES, LIABILITY AND PENALTIES[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -239,7 +239,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 68 — Complaints by Union staff](section-article-68.md)
 - [Section Article 69 — Sanctions](section-article-69.md)
 
-### CHAPTER IX — PROCESSING OF OPERATIONAL PERSONAL DATA BY UNION BODIES, OFFICES AND AGENCIES WHEN CARRYING OUT ACTIVITIES WHICH FALL WITHIN THE SCOPE OF CHAPTER 4 OR CHAPTER 5 OF TITLE V OF PART THREE TFEU[^key-fdb37da13d3688e866aaf378b3d9a917]
+### CHAPTER IX — PROCESSING OF OPERATIONAL PERSONAL DATA BY UNION BODIES, OFFICES AND AGENCIES WHEN CARRYING OUT ACTIVITIES WHICH FALL WITHIN THE SCOPE OF CHAPTER 4 OR CHAPTER 5 OF TITLE V OF PART THREE TFEU[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -272,7 +272,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 94 — Transfer of operational personal data to third countries and international organisations](section-article-94.md)
 - [Section Article 95 — Secrecy of judicial inquiries and criminal proceedings](section-article-95.md)
 
-### CHAPTER X — IMPLEMENTING ACTS[^key-fdb37da13d3688e866aaf378b3d9a917]
+### CHAPTER X — IMPLEMENTING ACTS[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -280,7 +280,7 @@ on the protection of natural persons with regard to the processing of personal d
 
 - [Section Article 96 — Committee procedure](section-article-96.md)
 
-### CHAPTER XI — REVIEW[^key-fdb37da13d3688e866aaf378b3d9a917]
+### CHAPTER XI — REVIEW[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -289,7 +289,7 @@ on the protection of natural persons with regard to the processing of personal d
 - [Section Article 97 — Review clause](section-article-97.md)
 - [Section Article 98 — Review of Union legal acts](section-article-98.md)
 
-### CHAPTER XII — FINAL PROVISIONS[^key-fdb37da13d3688e866aaf378b3d9a917]
+### CHAPTER XII — FINAL PROVISIONS[^c-fdb37da13d3688e866aaf378b3d9a917]
 
 *Extent: E+W+S+N.I.*
 
@@ -303,8 +303,8 @@ on the protection of natural persons with regard to the processing of personal d
 
 **No longer in force.**
 
-[^key-fdb37da13d3688e866aaf378b3d9a917]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdb37da13d3688e866aaf378b3d9a917]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fdb37da13d3688e866aaf378b3d9a917]: Textual amendment: Regulation revoked (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 1(r)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/r); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fdb37da13d3688e866aaf378b3d9a917]: Textual amendment: Regulation revoked (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 1(r)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/r); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

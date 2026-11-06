@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 284. Removal of exemption[^key-c3cb5d51dd7aecbe83e0016c6022c0ee][^key-d12204b3f62f9797fad9fa781b2f1433]
+## 284. Removal of exemption[^c-c3cb5d51dd7aecbe83e0016c6022c0ee][^c-d12204b3f62f9797fad9fa781b2f1433]
 
 *Extent: E+W+S*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3cb5d51dd7aecbe83e0016c6022c0ee]: Commencement: [S. 284](https://www.legislation.gov.uk/ukpga/2005/19/section/284) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
+[^c-c3cb5d51dd7aecbe83e0016c6022c0ee]: Commencement: [S. 284](https://www.legislation.gov.uk/ukpga/2005/19/section/284) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
 
-[^key-d12204b3f62f9797fad9fa781b2f1433]: Commencement: [S. 284](https://www.legislation.gov.uk/ukpga/2005/19/section/284) in force at 1.8.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3A)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3A), [Sch. 3A](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3A) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/1157, arts. 3(4), 6, Sch. 2)
+[^c-d12204b3f62f9797fad9fa781b2f1433]: Commencement: [S. 284](https://www.legislation.gov.uk/ukpga/2005/19/section/284) in force at 1.8.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3A)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3A), [Sch. 3A](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3A) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/1157, arts. 3(4), 6, Sch. 2)

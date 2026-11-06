@@ -311,7 +311,7 @@ Section 71(2).
 
 *Extent: E+W+S*
 
-**29.**[^key-4370dd0fc525b9a763b47cce158c211e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-4370dd0fc525b9a763b47cce158c211e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Taxes Management Act 1970 (c. 9)
 
@@ -453,7 +453,7 @@ Section 71(2).
 
 ### Aircraft and Shipbuilding Industries Arbitration Tribunal
 
-**40.**[^key-2a5b7a5b2977249eed23d0c32594312c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-2a5b7a5b2977249eed23d0c32594312c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Insurance Brokers (Registration) Act 1977 (c. 46)
 
@@ -681,7 +681,7 @@ Section 71(2).
 
 *Extent: E+W*
 
-**67.**[^key-e6ac4a4f92e286c57937ad38ea8628df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**67.**[^c-e6ac4a4f92e286c57937ad38ea8628df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Building Societies Act 1986 (c. 53)
 
@@ -812,7 +812,7 @@ Section 71(2).
 
 [^c12481611]: Textual amendment: Words in [Sch. 9 para. 27](https://www.legislation.gov.uk/ukpga/1990/41/schedule/9/paragraph/27) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/a) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
-[^key-4370dd0fc525b9a763b47cce158c211e]: Textual amendment: [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/1990/41/schedule/10/paragraph/29) repealed (1.4.2010) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/2); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2010/708/article/4/2/d)
+[^c-4370dd0fc525b9a763b47cce158c211e]: Textual amendment: [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/1990/41/schedule/10/paragraph/29) repealed (1.4.2010) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/2); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2010/708/article/4/2/d)
 
 [^c12481631]: Textual amendment: Words in [Sch. 9 para. 31](https://www.legislation.gov.uk/ukpga/1990/41/schedule/9/paragraph/31) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
@@ -824,7 +824,7 @@ Section 71(2).
 
 [^c12481671]: Textual amendment: [Sch. 10 para. 37](https://www.legislation.gov.uk/ukpga/1990/41/schedule/10/paragraph/37) repealed (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 3](https://www.legislation.gov.uk/ukpga/1992/6/section/3), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch. 1](https://www.legislation.gov.uk/ukpga/1992/6/schedule/1) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/1992/6/schedule/3)) (subject as mentioned (6.3.1992) in [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s.118](https://www.legislation.gov.uk/ukpga/1992/14/section/118))
 
-[^key-2a5b7a5b2977249eed23d0c32594312c]: Textual amendment: [Sch. 10 para. 40](https://www.legislation.gov.uk/ukpga/1990/41/schedule/10/paragraph/40) omitted (22.3.2013) by virtue of [The Public Bodies (Abolition of the Aircraft and Shipbuilding Industries Arbitration Tribunal) Order 2013 (S.I. 2013/686)](https://www.legislation.gov.uk/uksi/2013/686), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/686/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/686/schedule/1/paragraph/4)
+[^c-2a5b7a5b2977249eed23d0c32594312c]: Textual amendment: [Sch. 10 para. 40](https://www.legislation.gov.uk/ukpga/1990/41/schedule/10/paragraph/40) omitted (22.3.2013) by virtue of [The Public Bodies (Abolition of the Aircraft and Shipbuilding Industries Arbitration Tribunal) Order 2013 (S.I. 2013/686)](https://www.legislation.gov.uk/uksi/2013/686), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/686/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/686/schedule/1/paragraph/4)
 
 [^c12481681]: Textual amendment: [Sch. 10 para. 43](https://www.legislation.gov.uk/ukpga/1990/41/schedule/10/paragraph/43) repealed (19.6.1997) by [1997 c. 24](https://www.legislation.gov.uk/ukpga/1997/24), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/1997/24/section/23/3), [24(2)](https://www.legislation.gov.uk/ukpga/1997/24/section/24/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/1997/24/schedule/6)
 
@@ -854,6 +854,6 @@ Section 71(2).
 
 [^c19973841]: Textual amendment: [Sch. 10 para. 64](https://www.legislation.gov.uk/ukpga/1990/41/schedule/10/paragraph/64) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 210](https://www.legislation.gov.uk/ukpga/2007/29/section/210), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(viii)(qq)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/viii/qq) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-e6ac4a4f92e286c57937ad38ea8628df]: Textual amendment: [Sch. 10 para. 67](https://www.legislation.gov.uk/ukpga/1990/41/schedule/10/paragraph/67) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 22(7)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/22/7); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1732/article/7))
+[^c-e6ac4a4f92e286c57937ad38ea8628df]: Textual amendment: [Sch. 10 para. 67](https://www.legislation.gov.uk/ukpga/1990/41/schedule/10/paragraph/67) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 22(7)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/22/7); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1732/article/7))
 
 [^c12481761]: Textual amendment: [Sch. 10 para. 74](https://www.legislation.gov.uk/ukpga/1990/41/schedule/10/paragraph/74) repealed (2.10.2000) by [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23), [s. 82](https://www.legislation.gov.uk/ukpga/2000/23/section/82), [Sch. 5](https://www.legislation.gov.uk/ukpga/2000/23/schedule/5) (with [s. 82(3)](https://www.legislation.gov.uk/ukpga/2000/23/section/82/3)); [S.I. 2000/2543](https://www.legislation.gov.uk/uksi/2000/2543), [art. 3](https://www.legislation.gov.uk/uksi/2000/2543/article/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2000/2543/article/5), [6](https://www.legislation.gov.uk/uksi/2000/2543/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-7a2935d244210e2d6e7136f45af3faec]
+## 2. Interpretation[^c-7a2935d244210e2d6e7136f45af3faec]
 
 *Extent: E+W+S*
 
@@ -49,7 +49,7 @@ summary: ''
 - “**converter building**” means the building housing the principal electrical equipment comprised in Work No. 8A;
 - “**deemed marine licences**” means the marine licences set out in Schedules 9, 10, 11 and 12;
 - “**Defence Infrastructure Organisation Safeguarding**” means Ministry of Defence Safeguarding, Defence Infrastructure Organisation, Kingston Road, Sutton Coldfield, West Midlands B75 7RL and any successor body to its functions;
-- “[^key-3c22e53d2edacdcb20639b46fa262187]**Defra**” means the Department for Environment, Food and Rural Affairs and any successor body to its functions;
+- “[^c-3c22e53d2edacdcb20639b46fa262187]**Defra**” means the Department for Environment, Food and Rural Affairs and any successor body to its functions;
 - “**design and access statement**” means the document certified as the design and access statement by the Secretary of State for the purposes of this Order under article 37;
 - “**development principles**” means the document certified as the Development Principles by the Secretary of State for the purposes of this Order under article 37;
 - “**draft marine mammal mitigation protocol**” means the document certified as the draft marine mammal mitigation protocol by the Secretary of State for the purposes of this Order under article 37;
@@ -130,7 +130,7 @@ summary: ''
 - “**trenchless installation techniques**” means techniques for installing an underground duct between two points, without excavating and back-filling a trench;
 - “**two offshore phases**” means carrying out the offshore works as two separate construction operations;
 - “**two onshore phases**” means a single duct laying operation followed by two separate operations to pull the cables through the ducts and two separate operations to construct the onshore project substation;
-- “**undertaker**” means, subject to article 6 (Benefit of the Order), Norfolk Vanguard West Limited (Company No. 08141115)[^key-93a7a8852d807050c621d2774a9a7b23];
+- “**undertaker**” means, subject to article 6 (Benefit of the Order), Norfolk Vanguard West Limited (Company No. 08141115)[^c-93a7a8852d807050c621d2774a9a7b23];
 - “**vessel**” means every description of vessel, however propelled or moved, and includes a non-displacement craft, a personal watercraft, a seaplane on the surface of the water, a hydrofoil vessel, a hovercraft or any other amphibious vehicle and any other thing constructed or adapted for movement through, in, on or over water and which is at the time in, on or over water;
 - “**watercourse**” includes all rivers, streams, creeks, ditches, drains, canals, cuts, culverts, dykes, sluices, sewers and passages through which water flows except a public sewer or drain;
 - “**wind turbine generator**” means a structure comprising a tower, rotor with up to three blades connected at the hub, nacelle and ancillary electrical and other equipment which may include (but is not limited to) corrosion protection systems, helicopter landing facilities and other associated equipment, fixed to a foundation; and
@@ -153,7 +153,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7a2935d244210e2d6e7136f45af3faec]: Commencement: Art. 2 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-7a2935d244210e2d6e7136f45af3faec]: Commencement: Art. 2 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
 
 [^f00011]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -181,7 +181,7 @@ summary: ''
 
 [^f00023]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-3c22e53d2edacdcb20639b46fa262187]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2022/138/article/2) inserted (19.12.2025) by [The Norfolk Vanguard Offshore Wind Farm (Amendment) (No. 3) Order 2025 (S.I. 2025/1363)](https://www.legislation.gov.uk/uksi/2025/1363), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1363/article/1), [3](https://www.legislation.gov.uk/uksi/2025/1363/article/3)
+[^c-3c22e53d2edacdcb20639b46fa262187]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2022/138/article/2) inserted (19.12.2025) by [The Norfolk Vanguard Offshore Wind Farm (Amendment) (No. 3) Order 2025 (S.I. 2025/1363)](https://www.legislation.gov.uk/uksi/2025/1363), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1363/article/1), [3](https://www.legislation.gov.uk/uksi/2025/1363/article/3)
 
 [^f00024]: Footnote: Relevant amendments are as follows: section 1 was amended by sections 8 and 102 and Schedules 4, paragraph 1 and Schedule 17 of the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), by section 21 of the 1991 Act and by section 1(6) and Schedule 1, paragraphs 1 to 4 of the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
@@ -195,4 +195,4 @@ summary: ''
 
 [^f00029]: Footnote: “street authority” is defined in section 49, which was amended by paragraph 117 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
-[^key-93a7a8852d807050c621d2774a9a7b23]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2022/138/article/2) substituted (19.12.2025) by [The Norfolk Vanguard Offshore Wind Farm (Amendment) (No. 3) Order 2025 (S.I. 2025/1363)](https://www.legislation.gov.uk/uksi/2025/1363), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1363/article/1), [4](https://www.legislation.gov.uk/uksi/2025/1363/article/4)
+[^c-93a7a8852d807050c621d2774a9a7b23]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2022/138/article/2) substituted (19.12.2025) by [The Norfolk Vanguard Offshore Wind Farm (Amendment) (No. 3) Order 2025 (S.I. 2025/1363)](https://www.legislation.gov.uk/uksi/2025/1363), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1363/article/1), [4](https://www.legislation.gov.uk/uksi/2025/1363/article/4)

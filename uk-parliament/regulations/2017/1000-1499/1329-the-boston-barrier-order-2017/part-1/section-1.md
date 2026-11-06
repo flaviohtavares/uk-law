@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-875ae0b59be32a8d86ee4139080acff1]
+## 1. Citation and commencement[^c-875ae0b59be32a8d86ee4139080acff1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Boston Barrier Order 2017 and comes into force on
 
 ## Annotations
 
-[^key-875ae0b59be32a8d86ee4139080acff1]: Commencement: Art. 1 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-875ae0b59be32a8d86ee4139080acff1]: Commencement: Art. 1 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Foreign travel orders: grounds[^key-94d587114e1d4a43f21fa4b740b7a75d]
+## 23. Foreign travel orders: grounds[^c-94d587114e1d4a43f21fa4b740b7a75d]
 
 *Extent: E+W+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94d587114e1d4a43f21fa4b740b7a75d]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2009/26/section/23) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(j)](https://www.legislation.gov.uk/uksi/2010/507/article/5/j)
+[^c-94d587114e1d4a43f21fa4b740b7a75d]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2009/26/section/23) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(j)](https://www.legislation.gov.uk/uksi/2010/507/article/5/j)

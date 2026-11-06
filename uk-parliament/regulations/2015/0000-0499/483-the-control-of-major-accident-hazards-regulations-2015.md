@@ -70,23 +70,23 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (2) These Regulations extend to Great Britain.
 
-### 2. Interpretation[^key-92ab988ddc8cc0502431be662aab93ff]
+### 2. Interpretation[^c-92ab988ddc8cc0502431be662aab93ff]
 
-(1)[^key-ef5ff116e022b8e0bca48d66a2c0d2f4] In these Regulations—
+(1)[^c-ef5ff116e022b8e0bca48d66a2c0d2f4] In these Regulations—
 
 - “**the 1974 Act**” means the Health and Safety at Work etc. Act 1974;
 - “**the 1999 Regulations**” means the Control of Major Accident Hazards Regulations 1999 [^c22416391];
-- “[^key-eb67896c632893b9e8373de66720a505]**the 2014 Act**” means the Regulatory Reform (Scotland) Act 2014;
-- “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-63206878df7d88796d70f4098853f8c2]**the 2010 Regulations *(Extent: E+W)* *(affected by repeal, see note)*[^key-63206878df7d88796d70f4098853f8c2]**” means the Environmental Permitting (England and Wales) Regulations 2010 *(Extent: E+W)* *(affected by repeal, see note)*[^key-63206878df7d88796d70f4098853f8c2] [^c22416401]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-63206878df7d88796d70f4098853f8c2]
-- [^key-67ba092bb963618b7613573c508eb3b8]...
-- “the[^key-ebe1cbd1a8568b3319e089fc54506b16] 2016 Regulations” means the Environmental Permitting (England and Wales) Regulations 2016;
+- “[^c-eb67896c632893b9e8373de66720a505]**the 2014 Act**” means the Regulatory Reform (Scotland) Act 2014;
+- “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-63206878df7d88796d70f4098853f8c2]**the 2010 Regulations *(Extent: E+W)* *(affected by repeal, see note)*[^c-63206878df7d88796d70f4098853f8c2]**” means the Environmental Permitting (England and Wales) Regulations 2010 *(Extent: E+W)* *(affected by repeal, see note)*[^c-63206878df7d88796d70f4098853f8c2] [^c22416401]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-63206878df7d88796d70f4098853f8c2]
+- [^c-67ba092bb963618b7613573c508eb3b8]...
+- “the[^c-ebe1cbd1a8568b3319e089fc54506b16] 2016 Regulations” means the Environmental Permitting (England and Wales) Regulations 2016;
 - “**the appropriate agency**” in relation to an establishment in—
   - (a) England, means the Environment Agency;
   - (b) Scotland, means the Scottish Environment Protection Agency; and
   - (c) Wales, means the Natural Resources Body for Wales;
 - “**authorised person**” means a person authorised by the appropriate agency under section 108 of the Environment Act 1995 [^c22416421];
 - “CAS number” is the number assigned to a substance by the Chemical Abstracts Service [^c22416431];
-- “**the CLP Regulation**” means Regulation [(EC) No. 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and amending Regulation [(EC) No. 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Annex I, Part 1.0 and 1.1, Parts 2 to 4 and, the GB mandatory classification and labelling list established under Article 38A (which for the purposes of these Regulations is deemed to be part of Regulation[^key-4b5b667c35370b17e40423ab4ec6b33a] [(EC) No. 1272/2008](https://www.legislation.gov.uk/eur/2008/1272)) are to be read as amended from time to time;
+- “**the CLP Regulation**” means Regulation [(EC) No. 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and amending Regulation [(EC) No. 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Annex I, Part 1.0 and 1.1, Parts 2 to 4 and, the GB mandatory classification and labelling list established under Article 38A (which for the purposes of these Regulations is deemed to be part of Regulation[^c-4b5b667c35370b17e40423ab4ec6b33a] [(EC) No. 1272/2008](https://www.legislation.gov.uk/eur/2008/1272)) are to be read as amended from time to time;
 - “**competent authority**” has the meaning given in regulation 4;
 - “**dangerous substance**” means (subject to regulation 3(2)(b) and (c)) a substance or mixture—
   - (a) listed in column 1 of Part 2 of Schedule 1; or
@@ -96,7 +96,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - “**designated authorities**” means—
   - (a) in England and Wales, those persons or bodies specified in Part 1 of Schedule 1 to the Civil Contingencies Act 2004 [^c22416441];
   - (b) in Scotland, those persons or bodies specified in Part 2 of Schedule 1 to that Act [^c22416451];
-- “**the Directive**” means Directive 2012/18/EU of the European Parliament and of the Council of 4 July 2012 on the control of major accident hazards involving dangerous substances, amending and subsequently repealing Council Directive [96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082)[^key-f50a9f2561a1a24496e6a98ce02f6393] [^c22416461];
+- “**the Directive**” means Directive 2012/18/EU of the European Parliament and of the Council of 4 July 2012 on the control of major accident hazards involving dangerous substances, amending and subsequently repealing Council Directive [96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082)[^c-f50a9f2561a1a24496e6a98ce02f6393] [^c22416461];
 - “**domino effects**” is to be construed in accordance with regulation 24(2);
 - “**domino groups**” is to be construed in accordance with regulation 24(1) and a reference to “domino group” is to be read accordingly;
 - “**emergency services**” means—
@@ -109,7 +109,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - “**full address**” means the full postal address (including postcode) and an address for contact by electronic means;
 - “**hazard**” means the intrinsic property of a dangerous substance or physical situation, with a potential for creating damage to human health or the environment;
 - “**health authority**” means—
-  - (a) in relation to England, an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^key-279de182c7d598ab38f3aaa2689ecbf3];
+  - (a) in relation to England, an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^c-279de182c7d598ab38f3aaa2689ecbf3];
   - (b) in relation to Wales, a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006 [^c22416481]; and
   - (c) in relation to Scotland, a Health Board established under section 2 of the National Health Service (Scotland) Act 1978 [^c22416491];
 - “**inspection**” means all actions, including—
@@ -132,11 +132,11 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
     - (v) an area in Scotland, the council for the local government area;
     - (vi) an area in Wales, the county council or the county borough council for that area;
   - (b) otherwise, in relation to—
-    - (i) London, the London Fire Commissioner[^key-f73939eea4bac3254f51a4f5ec5f1b37];
+    - (i) London, the London Fire Commissioner[^c-f73939eea4bac3254f51a4f5ec5f1b37];
     - (ii) an area where there is a fire and civil defence authority, that authority;
     - (iii) the Isles of Scilly, the Council of the Isles of Scilly;
     - (iv) an area in the rest of England, the county council for that area, or where there is no county council for that area, the district council for that area;
-    - (v) an area in Scotland, the council for the local government area;[^key-0e4d4725a94d2585c002a17fc2cf2d24]
+    - (v) an area in Scotland, the council for the local government area;[^c-0e4d4725a94d2585c002a17fc2cf2d24]
     - (vi) an area in Wales, the county council or the county borough council;
 - “**lower tier establishment**” means an establishment where a dangerous substance is present in a quantity equal to or in excess of the quantity listed in the entry for that substance in column 2 of Part 1 or in column 2 of Part 2 of Schedule 1, but less than that listed in the entry for that substance in column 3 of Part 1 or in column 3 of Part 2 of Schedule 1, where applicable using the rule laid down in note 4 of Part 3 of that Schedule;
 - “**major accident**” means an occurrence such as a major emission, fire, or explosion resulting from uncontrolled developments in the course of the operation of any establishment to which these Regulations apply, and leading to serious danger to human health or the environment (whether immediate or delayed) inside or outside the establishment, and involving one or more dangerous substances;
@@ -157,12 +157,12 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
   - (b) a lower tier establishment that becomes an upper tier establishment, or vice versa, on or after that date,
 
   for reasons other than those mentioned in paragraph (b) or (c) (as the case may be) of the definition of “new establishment”;
-- [^key-014a8109bb60424893201ca8b3899b02]...
+- [^c-014a8109bb60424893201ca8b3899b02]...
 - “**the public**” means one or more persons and, includes their associations, organisations or groups;
 - “**presence of a dangerous substance**” means the actual or anticipated presence of a dangerous substance in an establishment, or of a dangerous substance which it is reasonable to foresee may be generated during loss of control of the processes, including storage activities, in any installation within the establishment, in a quantity equal to or in excess of the qualifying quantity listed in the entry for that substance in column 2 of Part 1 or in column 2 of Part 2 of Schedule 1, and “**where a dangerous substance is present**” is to be construed accordingly;
 - “**risk**” means the likelihood of a specific effect occurring within a specified period or in specified circumstances;
 - “**safety report**” is to be construed in accordance with regulation 8;
-- “storage” includes warehousing, depositing in safe custody or keeping in stock;[^key-d3f4650dc70a59f77087d485126e327f]
+- “storage” includes warehousing, depositing in safe custody or keeping in stock;[^c-d3f4650dc70a59f77087d485126e327f]
 - “**upper tier establishment**” means an establishment where a dangerous substance is present in a quantity equal to or in excess of the quantity listed in the entry for that substance in column 3 of Part 1 or in column 3 of Part 2 of Schedule 1, where applicable using the rule laid down in note 4 of Part 3 of that Schedule.
 
 (2) For the purposes of these Regulations “**existing establishment**” means an establishment—
@@ -196,7 +196,7 @@ other than one which has ceased to be an existing establishment.
   - (ii) a headquarters or organisation designated for the purposes of the International Headquarters and Defence Organisations Act 1964 [^c22416541] or the service authorities of a visiting force within the meaning of any of the provisions of Part 1 of the Visiting Forces Act 1952 [^c22416551];
 - (b) hazards created by ionising radiation originating from substances;
 - (c) substances which create a hazard from ionising radiation if present on a nuclear establishment;
-- (ca)[^key-6745cdb252ee214e90f23ab37671112d] the transport of dangerous substances in pipelines, including associated apparatus, except where that activity takes place at a site which is an establishment despite that activity;
+- (ca)[^c-6745cdb252ee214e90f23ab37671112d] the transport of dangerous substances in pipelines, including associated apparatus, except where that activity takes place at a site which is an establishment despite that activity;
 - (cb) the transport of dangerous substances and directly related intermediate temporary storage by road, rail, internal waterways, sea or air, including loading and unloading and transport to and from another means of transport at docks, wharves or marshalling yards, except where that activity takes place at a site which is an establishment despite that activity;
 - (d) the exploitation, namely the exploration, extraction and processing, of minerals in mines and quarries, including by means of boreholes, except any of the following which involve dangerous substances—
   - (i) onshore underground gas storage in natural strata, aquifers, salt cavities and disused mines;
@@ -208,7 +208,7 @@ other than one which has ceased to be an existing establishment.
   - (i) any of the following that involve dangerous substances—
     - (aa) chemical and thermal processing operations and storage related to those operations; or
     - (bb) operational tailings disposal facilities, including tailing ponds or dams;
-  - (ii)[^key-51408bbd94afaa13458317364a7edcc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-51408bbd94afaa13458317364a7edcc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 4. The competent authority
 
@@ -442,7 +442,7 @@ in which case it is to be treated as an internal emergency plan prepared under t
 - (b) the appropriate agency;
 - (c) the emergency services;
 - (d) the health authority for the area where the establishment is situated;
-- (e) if the establishment is situated in England, NHS England[^key-4c12d9736113a2442933df4ac7a7393c] and Public Health England, an executive agency of the Department of Health and Social Care[^key-a163335e1eae042cb553648fe4f449b0]; and
+- (e) if the establishment is situated in England, NHS England[^c-4c12d9736113a2442933df4ac7a7393c] and Public Health England, an executive agency of the Department of Health and Social Care[^c-a163335e1eae042cb553648fe4f449b0]; and
 - (f) the local authority in whose administrative area the establishment is situated, unless the local authority has been exempted under regulation 15 from the requirement to prepare an external emergency plan in respect of the establishment.
 
 (6) An operator must at suitable intervals not exceeding three years—
@@ -482,7 +482,7 @@ in which case it is to be treated as an external emergency plan prepared under t
 - (a) the operator;
 - (b) the appropriate agency;
 - (c) the designated authorities who are liable to be required to respond to an emergency at the establishment;
-- (d) if the establishment is situated in England, NHS England and Public Health England, an executive agency of the Department of Health and Social Care[^key-09c5766ea83fe409b5e888bad15c6fb7]; and
+- (d) if the establishment is situated in England, NHS England and Public Health England, an executive agency of the Department of Health and Social Care[^c-09c5766ea83fe409b5e888bad15c6fb7]; and
 - (e) such members of the public and other persons as it considers appropriate.
 
 ### 14. Review and testing of external emergency plans
@@ -496,7 +496,7 @@ in which case it is to be treated as an external emergency plan prepared under t
 
 (3) In carrying out a review of an external emergency plan, the local authority must take into account—
 
-- (a) any changes, at the establishment, within the designated authorities concerned or, if the establishment is situated in England, NHS England and Public Health England, an executive agency of the Department of Health and Social Care[^key-2f3b0bf3bfa5d441b08e97965aba2b96];
+- (a) any changes, at the establishment, within the designated authorities concerned or, if the establishment is situated in England, NHS England and Public Health England, an executive agency of the Department of Health and Social Care[^c-2f3b0bf3bfa5d441b08e97965aba2b96];
 - (b) any relevant new technical knowledge; and
 - (c) any relevant new knowledge concerning the response to major accidents.
 
@@ -540,7 +540,7 @@ An operator or local authority which has prepared an internal emergency plan or 
 - (a) general information relating to the nature of the major accident hazards, including their potential consequences on human health and the environment, summary details of the main types of major accident scenarios and the control measures to address them;
 - (b) confirmation that the operator is required to make adequate arrangements within the establishment, in particular liaison with the emergency services, to deal with major accidents and to minimise their consequences;
 - (c) appropriate information from the external emergency plan in relation to dealing with any consequences outside the establishment from a major accident, which must include advice about co-operating with any instructions or requests from the emergency services at the time of an accident;
-- (d) where applicable, an indication as to whether the establishment is close to the territory of another country[^key-8f00e23a8a122cfa5f338362b3851e78] with the possibility of a major accident with trans-boundary consequences under the Convention on the Transboundary Effects of Industrial Accidents [^c22416581].
+- (d) where applicable, an indication as to whether the establishment is close to the territory of another country[^c-8f00e23a8a122cfa5f338362b3851e78] with the possibility of a major accident with trans-boundary consequences under the Convention on the Transboundary Effects of Industrial Accidents [^c22416581].
 
 (3) The competent authority must ensure that the information in paragraph (1)—
 
@@ -617,9 +617,9 @@ the operator must, when it sends that information to the competent authority, in
 
 ### 20. Trans-boundary consequences
 
-(1) Where an upper tier establishment presents a major accident hazard with possible trans-boundary consequences the competent authority must provide sufficient information to the potentially affected country[^key-be358dc1c280dac5ab73c902c821242e] so that the country can take this into account in preparing emergency plans and in preparing land use planning policies, or in making land use planning decisions in respect of applications.
+(1) Where an upper tier establishment presents a major accident hazard with possible trans-boundary consequences the competent authority must provide sufficient information to the potentially affected country[^c-be358dc1c280dac5ab73c902c821242e] so that the country can take this into account in preparing emergency plans and in preparing land use planning policies, or in making land use planning decisions in respect of applications.
 
-(2)[^key-9b882bad170726e74077d24f3adcdf77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9b882bad170726e74077d24f3adcdf77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 21. Power of the competent authority to accept information in another document
 
@@ -631,7 +631,7 @@ the operator must, when it sends that information to the competent authority, in
 - (d) an internal emergency plan; or
 - (e) the details of action to be taken following a major accident under regulation 26(1),
 
-by reference to information contained in another document sent to the appropriate agency, pursuant to a requirement imposed, in England and Wales, under the 2010 Regulations *(Extent: E+W)* *(affected by repeal, see note)*[^key-e3b3149e492d3d15c0fc1089f1c4a993] the 2016 Regulations *(Extent: E+W)*, or, in Scotland under regulations made under section 18 of the 2014 Act[^key-c29af45ee2553825ba715e5ddf21a26b] (“the relevant document”).
+by reference to information contained in another document sent to the appropriate agency, pursuant to a requirement imposed, in England and Wales, under the 2010 Regulations *(Extent: E+W)* *(affected by repeal, see note)*[^c-e3b3149e492d3d15c0fc1089f1c4a993] the 2016 Regulations *(Extent: E+W)*, or, in Scotland under regulations made under section 18 of the 2014 Act[^c-c29af45ee2553825ba715e5ddf21a26b] (“the relevant document”).
 
 (2) Where the competent authority grants permission under paragraph (1) the operator must, at the time of sending the information contained in the relevant document inform the competent authority in writing, if it is seeking to rely on paragraph (1) and the extent of that reliance by reference to the relevant sub-paragraphs of that paragraph.
 
@@ -664,7 +664,7 @@ The competent authority must within a reasonable period of time following receip
 
 (5) The operator must comply with any notice served under paragraph (1) or (2).
 
-(6) Section 24 of the 1974 Act (appeal against improvement or prohibition notice) and the Employment Tribunal Procedure Rules 2024[^key-e562ea3c363e7fd75ad5c48b87c42363] apply in relation to a notice served under this regulation as they apply in relation to a prohibition notice served under section 22 of that Act.
+(6) Section 24 of the 1974 Act (appeal against improvement or prohibition notice) and the Employment Tribunal Procedure Rules 2024[^c-e562ea3c363e7fd75ad5c48b87c42363] apply in relation to a notice served under this regulation as they apply in relation to a prohibition notice served under section 22 of that Act.
 
 ### 24. Domino effects and domino groups
 
@@ -753,7 +753,7 @@ the competent authority must provide that information to each operator of an est
 
 - (a) the potential impacts of the establishments on human health and the environment;
 - (b) the record of the operators of the establishments in complying with the requirements of these Regulations; and
-- (c) the relevant findings, if any, of inspections carried out by the appropriate agency, in England and Wales, under the 2010 Regulations *(Extent: E+W)* *(affected by repeal, see note)*[^key-4091832ba3089da0e90c4e8196438e14] the 2016 Regulations *(Extent: E+W)*, or in Scotland, regulations made under section 18 of the 2014 Act[^key-9bf03b84005a0c3ca9980cbe998cceff].
+- (c) the relevant findings, if any, of inspections carried out by the appropriate agency, in England and Wales, under the 2010 Regulations *(Extent: E+W)* *(affected by repeal, see note)*[^c-4091832ba3089da0e90c4e8196438e14] the 2016 Regulations *(Extent: E+W)*, or in Scotland, regulations made under section 18 of the 2014 Act[^c-9bf03b84005a0c3ca9980cbe998cceff].
 
 (8) The competent authority must investigate, as soon as possible, when it comes to its attention in relation to any establishment that there have been—
 
@@ -770,7 +770,7 @@ the competent authority must provide that information to each operator of an est
 
 (11) Where the competent authority considers it to be expedient, inspections and investigations under this regulation may be co-ordinated with inspections and investigations carried out by the appropriate agency under—
 
-- (a) in England and Wales, the 2010 Regulations *(Extent: E+W)* *(affected by repeal, see note)*[^key-4eaafa6d5eaae234cb8e7a2c80c5ff45] the 2016 Regulations *(Extent: E+W)*; or
+- (a) in England and Wales, the 2010 Regulations *(Extent: E+W)* *(affected by repeal, see note)*[^c-4eaafa6d5eaae234cb8e7a2c80c5ff45] the 2016 Regulations *(Extent: E+W)*; or
 - (b) in Scotland, regulations made under section 18 of the 2014 Act.
 
 ## PART 7 — ACTION TO BE TAKEN FOLLOWING A MAJOR ACCIDENT
@@ -797,7 +797,7 @@ the competent authority must provide that information to each operator of an est
 - (c) take appropriate action to ensure that the operator takes any necessary remedial measures; and
 - (d) make recommendations on future preventive measures.
 
-(3) Following a major accident, the competent authority may, where appropriate, provide international organisations with some, or all, of the following information[^key-a98747e2dec13decd047ec60bda9416f]—
+(3) Following a major accident, the competent authority may, where appropriate, provide international organisations with some, or all, of the following information[^c-a98747e2dec13decd047ec60bda9416f]—
 
 - (a) confirmation that the accident occurred in Great Britain and the name and address of the competent authority;
 - (b) the date, time and place of the accident, including the full name of the operator and the address of the establishment concerned;
@@ -805,14 +805,14 @@ the competent authority must provide that information to each operator of an est
 - (d) a brief description of the emergency measures taken and immediate precautions necessary to prevent recurrence; and
 - (e) the results of the competent authority's analysis and recommendations.
 
-(4)[^key-890c473a37a3554f57904ab35d169fc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-890c473a37a3554f57904ab35d169fc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Following a major accident the local authority in whose administrative area the accident has occurred must inform the persons likely to be affected of—
 
 - (a) the accident which has occurred; and
 - (b) where relevant, of the measures undertaken to mitigate its consequences.
 
-(6)[^key-bda0d446fb7737c47d3f7c7f4ebece10] For the purposes of paragraph (3), an organisation is an international organisation if it, and its subordinate bodies, are governed by international law or it is set up by, or on the basis of, an agreement between two or more countries.
+(6)[^c-bda0d446fb7737c47d3f7c7f4ebece10] For the purposes of paragraph (3), an organisation is an international organisation if it, and its subordinate bodies, are governed by international law or it is set up by, or on the basis of, an agreement between two or more countries.
 
 ## PART 8 — ENFORCEMENT AND PENALTIES
 
@@ -1315,9 +1315,9 @@ An external emergency plan must include the following information—
 - (d) the arrangements for providing assistance with mitigatory action within the establishment;
 - (e) the arrangements for mitigatory action outside the establishment, including responses to major accident scenarios as set out in the safety report and considering possible domino effects, including those having an impact on the environment;
 - (f) the arrangements for providing the public and any neighbouring establishments or sites that fall outside the scope of these Regulations in accordance with regulation 24 (domino effects and domino groups) with specific information relating to an accident and the behaviour which should be adopted;
-- (g) the arrangements for the provision of information to the emergency services of other countries[^key-d62854eeeef5c712710c826d1d0809fb] in the event of a major accident with possible trans-boundary consequences.
+- (g) the arrangements for the provision of information to the emergency services of other countries[^c-d62854eeeef5c712710c826d1d0809fb] in the event of a major accident with possible trans-boundary consequences.
 
-## SCHEDULE 5 — Criteria for the notification of a major accident to the European Commission[^key-21df8d609b30ece0da8d43c755b0405c]
+## SCHEDULE 5 — Criteria for the notification of a major accident to the European Commission[^c-21df8d609b30ece0da8d43c755b0405c]
 
 **No longer in force.**
 
@@ -1461,71 +1461,71 @@ The transposition note in relation to the implementation of the Seveso III Direc
 
 [^c22416381]: Marginal citation: O.J. No. L353, 31.12.08, p.1.
 
-[^key-92ab988ddc8cc0502431be662aab93ff]: Modification: Reg. 2(1) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) Order 2017 (S.I. 2017/469)](https://www.legislation.gov.uk/uksi/2017/469), [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/12)
+[^c-92ab988ddc8cc0502431be662aab93ff]: Modification: Reg. 2(1) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) Order 2017 (S.I. 2017/469)](https://www.legislation.gov.uk/uksi/2017/469), [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/12)
 
-[^key-ef5ff116e022b8e0bca48d66a2c0d2f4]: Modification: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/2/1) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 14](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/14)
+[^c-ef5ff116e022b8e0bca48d66a2c0d2f4]: Modification: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/2/1) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 14](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/14)
 
 [^c22416391]: Marginal citation: [S.I. 1999/743](https://www.legislation.gov.uk/uksi/1999/743), amended by [S.I. 2005/1088](https://www.legislation.gov.uk/uksi/2005/1088), 2008/1087, 2009/1595, 2013/766, 2014/162.
 
-[^key-eb67896c632893b9e8373de66720a505]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/483/regulation/2) inserted (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 27(2)(b)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/27/2/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-eb67896c632893b9e8373de66720a505]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/483/regulation/2) inserted (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 27(2)(b)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/27/2/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-63206878df7d88796d70f4098853f8c2]: Textual amendment: Words in reg. 2 omitted (E.W.) (1.1.2017) by virtue of [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 85(2)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/85/2/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-63206878df7d88796d70f4098853f8c2]: Textual amendment: Words in reg. 2 omitted (E.W.) (1.1.2017) by virtue of [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 85(2)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/85/2/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^c22416401]: Marginal citation: [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675), to which there are amendments not relevant to these Regulations.
 
-[^key-67ba092bb963618b7613573c508eb3b8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/483/regulation/2) omitted (S.) (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 27(2)(a)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/27/2/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-67ba092bb963618b7613573c508eb3b8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/483/regulation/2) omitted (S.) (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 27(2)(a)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/27/2/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-ebe1cbd1a8568b3319e089fc54506b16]: Textual amendment: Words in reg. 2 inserted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 85(2)(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/85/2/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-ebe1cbd1a8568b3319e089fc54506b16]: Textual amendment: Words in reg. 2 inserted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 85(2)(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/85/2/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^c22416421]: Marginal citation: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25); relevant amending instruments to section 108 are [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W.90) and, section 46(2)(a)(i), (2)(a)(ii), (2)(b), (2)(c)(i), (2)(c)(ii), (2)(c)(iii), (2)(c)(iv) of the [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3).
 
 [^c22416431]: Marginal citation: Chemical Abstracts Service (www.cas.org), is a division of the American Chemical Society.
 
-[^key-4b5b667c35370b17e40423ab4ec6b33a]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 1 para. 41(2)](https://www.legislation.gov.uk/uksi/2019/720/schedule/1/paragraph/41/2) (as amended by [S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2020/1567/schedule/1/paragraph/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b5b667c35370b17e40423ab4ec6b33a]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 1 para. 41(2)](https://www.legislation.gov.uk/uksi/2019/720/schedule/1/paragraph/41/2) (as amended by [S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2020/1567/schedule/1/paragraph/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22416441]: Marginal citation: [2004 c.36](https://www.legislation.gov.uk/ukpga/2004/36); Schedule 1, Part 1 was amended by the [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43) Schedule 1, paragraph 271(a) to (d); the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) Schedule 5, paragraph 132(2)(a) and (b), and Schedule 7, paragraph 16; and by [S.I. 2008/3012](https://www.legislation.gov.uk/uksi/2008/3012), 2011/1223, and 2013/755 (W.90).
 
 [^c22416451]: Marginal citation: [2004 c.36](https://www.legislation.gov.uk/ukpga/2004/36); Schedule 1, Part 2 was amended by [S.S.I. 2013/119](https://www.legislation.gov.uk/ssi/2013/119).
 
-[^key-f50a9f2561a1a24496e6a98ce02f6393]: Textual amendment: Words in reg. 2(1) substituted (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [5(2)(a)](https://www.legislation.gov.uk/uksi/2017/304/regulation/5/2/a)
+[^c-f50a9f2561a1a24496e6a98ce02f6393]: Textual amendment: Words in reg. 2(1) substituted (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [5(2)(a)](https://www.legislation.gov.uk/uksi/2017/304/regulation/5/2/a)
 
 [^c22416461]: Marginal citation: O.J. No. L 197, 24.7.2012, p. 1.
 
-[^key-279de182c7d598ab38f3aaa2689ecbf3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/483) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-279de182c7d598ab38f3aaa2689ecbf3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/483) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^c22416481]: Marginal citation: [2006 c.42](https://www.legislation.gov.uk/ukpga/2006/42).
 
 [^c22416491]: Marginal citation: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29); section 2 was amended by the [Health and Social Services and Social Security Adjudications Act 1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41), [Schedule 7](https://www.legislation.gov.uk/ukpga/1983/41/schedule/7), [paragraph 1](https://www.legislation.gov.uk/ukpga/1983/41/paragraph/1), the [National Health Service and Community Care Act 1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19), [section 28](https://www.legislation.gov.uk/ukpga/1990/19/section/28), [Schedule 9](https://www.legislation.gov.uk/ukpga/1990/19/schedule/9), [paragraph 19(1)](https://www.legislation.gov.uk/ukpga/1990/19/paragraph/19/1), and Schedule 10, the [National Health Service Reform (Scotland) Act 2004 (asp 7)](https://www.legislation.gov.uk/asp/2004/7), [Schedule 1](https://www.legislation.gov.uk/asp/2004/7/schedule/1), [paragraph 1(2)(a)](https://www.legislation.gov.uk/asp/2004/7/paragraph/1/2/a) and (b), the [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [Schedule 2](https://www.legislation.gov.uk/asp/2005/13/schedule/2), [paragraph 2(2)](https://www.legislation.gov.uk/asp/2005/13/paragraph/2/2), and the [Health Boards (Membership and Elections) (Scotland) Act 2009 (asp 5)](https://www.legislation.gov.uk/asp/2009/5), [section 2(1)](https://www.legislation.gov.uk/asp/2009/5/section/2/1), and [S.S.I. 2009/242](https://www.legislation.gov.uk/ssi/2009/242).
 
-[^key-f73939eea4bac3254f51a4f5ec5f1b37]: Textual amendment: Words in reg. 2(1) substituted (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 18(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/18/2)
+[^c-f73939eea4bac3254f51a4f5ec5f1b37]: Textual amendment: Words in reg. 2(1) substituted (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 18(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/18/2)
 
-[^key-0e4d4725a94d2585c002a17fc2cf2d24]: Textual amendment: Words in reg. 2(1) substituted (13.7.2015) by [The Control of Major Accident Hazards (Amendment) Regulations 2015 (S.I. 2015/1393)](https://www.legislation.gov.uk/uksi/2015/1393), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1393/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/1393/regulation/2)
+[^c-0e4d4725a94d2585c002a17fc2cf2d24]: Textual amendment: Words in reg. 2(1) substituted (13.7.2015) by [The Control of Major Accident Hazards (Amendment) Regulations 2015 (S.I. 2015/1393)](https://www.legislation.gov.uk/uksi/2015/1393), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1393/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/1393/regulation/2)
 
 [^c22416511]: Marginal citation: [2013 c.32](https://www.legislation.gov.uk/ukpga/2013/32).
 
 [^c22416521]: Marginal citation: [S.I. 1998/494](https://www.legislation.gov.uk/uksi/1998/494), amended by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469); there are other amending instruments but none is relevant.
 
-[^key-014a8109bb60424893201ca8b3899b02]: Textual amendment: Words in reg. 2(1) omitted (6.4.2017) by virtue of [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [5(2)(b)](https://www.legislation.gov.uk/uksi/2017/304/regulation/5/2/b)
+[^c-014a8109bb60424893201ca8b3899b02]: Textual amendment: Words in reg. 2(1) omitted (6.4.2017) by virtue of [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [5(2)(b)](https://www.legislation.gov.uk/uksi/2017/304/regulation/5/2/b)
 
-[^key-d3f4650dc70a59f77087d485126e327f]: Textual amendment: Words in reg. 2(1) substituted (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [5(2)(c)](https://www.legislation.gov.uk/uksi/2017/304/regulation/5/2/c)
+[^c-d3f4650dc70a59f77087d485126e327f]: Textual amendment: Words in reg. 2(1) substituted (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [5(2)(c)](https://www.legislation.gov.uk/uksi/2017/304/regulation/5/2/c)
 
 [^c22416541]: Marginal citation: [1964 c.5](https://www.legislation.gov.uk/ukpga/1964/5).
 
 [^c22416551]: Marginal citation: [1952 c.67](https://www.legislation.gov.uk/ukpga/1952/67).
 
-[^key-6745cdb252ee214e90f23ab37671112d]: Textual amendment: Reg. 3(2)(ca)(cb) inserted (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [5(3)](https://www.legislation.gov.uk/uksi/2017/304/regulation/5/3)
+[^c-6745cdb252ee214e90f23ab37671112d]: Textual amendment: Reg. 3(2)(ca)(cb) inserted (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [5(3)](https://www.legislation.gov.uk/uksi/2017/304/regulation/5/3)
 
-[^key-51408bbd94afaa13458317364a7edcc5]: Textual amendment: [Reg. 3(2)(g)(ii)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2/g/ii) omitted (1.1.2018) by virtue of [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/1), [49](https://www.legislation.gov.uk/uksi/2017/1200/regulation/49) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))
+[^c-51408bbd94afaa13458317364a7edcc5]: Textual amendment: [Reg. 3(2)(g)(ii)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2/g/ii) omitted (1.1.2018) by virtue of [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/1), [49](https://www.legislation.gov.uk/uksi/2017/1200/regulation/49) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))
 
-[^key-4c12d9736113a2442933df4ac7a7393c]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-4c12d9736113a2442933df4ac7a7393c]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-a163335e1eae042cb553648fe4f449b0]: Textual amendment: Words in reg. 12(5)(e) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(dd)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/dd) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-a163335e1eae042cb553648fe4f449b0]: Textual amendment: Words in reg. 12(5)(e) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(dd)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/dd) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
-[^key-09c5766ea83fe409b5e888bad15c6fb7]: Textual amendment: Words in reg. 13(7)(d) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(dd)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/dd) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-09c5766ea83fe409b5e888bad15c6fb7]: Textual amendment: Words in reg. 13(7)(d) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(dd)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/dd) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
-[^key-2f3b0bf3bfa5d441b08e97965aba2b96]: Textual amendment: Words in reg. 14(3)(a) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(dd)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/dd) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-2f3b0bf3bfa5d441b08e97965aba2b96]: Textual amendment: Words in reg. 14(3)(a) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(dd)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/dd) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
-[^key-8f00e23a8a122cfa5f338362b3851e78]: Textual amendment: Word in [reg. 17(2)(d)](https://www.legislation.gov.uk/uksi/2015/483/regulation/17/2/d) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f00e23a8a122cfa5f338362b3851e78]: Textual amendment: Word in [reg. 17(2)(d)](https://www.legislation.gov.uk/uksi/2015/483/regulation/17/2/d) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22416581]: Marginal citation: O.J. No. L326, 3.12.1998, p. 1.
 
@@ -1535,31 +1535,31 @@ The transposition note in relation to the implementation of the Seveso III Direc
 
 [^c22416611]: Marginal citation: [S.S.I. 2004/520](https://www.legislation.gov.uk/ssi/2004/520), to which there are amendments not relevant to these Regulations.
 
-[^key-be358dc1c280dac5ab73c902c821242e]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/20/1) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-be358dc1c280dac5ab73c902c821242e]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/20/1) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9b882bad170726e74077d24f3adcdf77]: Textual amendment: [Reg. 20(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/20/2) omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b882bad170726e74077d24f3adcdf77]: Textual amendment: [Reg. 20(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/20/2) omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e3b3149e492d3d15c0fc1089f1c4a993]: Textual amendment: Words in reg. 21(1) substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 85(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/85/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-e3b3149e492d3d15c0fc1089f1c4a993]: Textual amendment: Words in reg. 21(1) substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 85(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/85/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-c29af45ee2553825ba715e5ddf21a26b]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/21/1) substituted (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 27(3)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/27/3) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-c29af45ee2553825ba715e5ddf21a26b]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/21/1) substituted (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 27(3)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/27/3) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-e562ea3c363e7fd75ad5c48b87c42363]: Textual amendment: Words in [reg. 23(6)](https://www.legislation.gov.uk/uksi/2015/483/regulation/23/6) substituted (6.1.2025) by [The Employment Tribunals (Procedure Rules) (Consequential Amendments) Regulations 2024 (S.I. 2024/1156)](https://www.legislation.gov.uk/uksi/2024/1156), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/7/2)
+[^c-e562ea3c363e7fd75ad5c48b87c42363]: Textual amendment: Words in [reg. 23(6)](https://www.legislation.gov.uk/uksi/2015/483/regulation/23/6) substituted (6.1.2025) by [The Employment Tribunals (Procedure Rules) (Consequential Amendments) Regulations 2024 (S.I. 2024/1156)](https://www.legislation.gov.uk/uksi/2024/1156), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/7/2)
 
 [^c22416631]: Marginal citation: [1990 c.10](https://www.legislation.gov.uk/ukpga/1990/10); [sections 7(3)](https://www.legislation.gov.uk/uksi/2015/483/section/7/3), [9(2)(e)](https://www.legislation.gov.uk/uksi/2015/483/section/9/2/e) and 39(1) were amended by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469).
 
 [^c22416641]: Marginal citation: [1997 c.10](https://www.legislation.gov.uk/ukpga/1997/10); [sections 5(2)](https://www.legislation.gov.uk/uksi/2015/483/section/5/2), [7(2)(e)](https://www.legislation.gov.uk/uksi/2015/483/section/7/2/e) and 38(1) were amended by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469).
 
-[^key-4091832ba3089da0e90c4e8196438e14]: Textual amendment: Words in reg. 25(7)(c) substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 85(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/85/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-4091832ba3089da0e90c4e8196438e14]: Textual amendment: Words in reg. 25(7)(c) substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 85(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/85/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-9bf03b84005a0c3ca9980cbe998cceff]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2015/483/regulation/25) substituted (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 27(4)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/27/4) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-9bf03b84005a0c3ca9980cbe998cceff]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2015/483/regulation/25) substituted (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 27(4)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/27/4) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-4eaafa6d5eaae234cb8e7a2c80c5ff45]: Textual amendment: Words in reg. 25(11)(a) substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 85(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/85/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-4eaafa6d5eaae234cb8e7a2c80c5ff45]: Textual amendment: Words in reg. 25(11)(a) substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 85(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/85/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-a98747e2dec13decd047ec60bda9416f]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/uksi/2015/483/regulation/26/3) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(4)(a)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a98747e2dec13decd047ec60bda9416f]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/uksi/2015/483/regulation/26/3) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(4)(a)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-890c473a37a3554f57904ab35d169fc6]: Textual amendment: [Reg. 26(4)](https://www.legislation.gov.uk/uksi/2015/483/regulation/26/4) omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(4)(b)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-890c473a37a3554f57904ab35d169fc6]: Textual amendment: [Reg. 26(4)](https://www.legislation.gov.uk/uksi/2015/483/regulation/26/4) omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(4)(b)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bda0d446fb7737c47d3f7c7f4ebece10]: Textual amendment: [Reg. 26(6)](https://www.legislation.gov.uk/uksi/2015/483/regulation/26/6) inserted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(4)(c)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bda0d446fb7737c47d3f7c7f4ebece10]: Textual amendment: [Reg. 26(6)](https://www.legislation.gov.uk/uksi/2015/483/regulation/26/6) inserted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(4)(c)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22416651]: Marginal citation: [Section 18(1A)](https://www.legislation.gov.uk/uksi/2015/483/section/18/1A) of the Health and Safety at Work etc. Act 1974 was inserted by the [Energy Act 2013 (c.32)](https://www.legislation.gov.uk/ukpga/2013/32), [Schedule 12](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12), [paragraph 6(2)](https://www.legislation.gov.uk/ukpga/2013/32/paragraph/6/2).
 
@@ -1591,9 +1591,9 @@ The transposition note in relation to the implementation of the Seveso III Direc
 
 [^c22416791]: Marginal citation: International Union of Pure and Applied Chemistry (www.iupac.org).
 
-[^key-d62854eeeef5c712710c826d1d0809fb]: Textual amendment: Words in [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2015/483/schedule/4/part/2) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d62854eeeef5c712710c826d1d0809fb]: Textual amendment: Words in [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2015/483/schedule/4/part/2) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-21df8d609b30ece0da8d43c755b0405c]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2015/483/schedule/5) omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(6)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-21df8d609b30ece0da8d43c755b0405c]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2015/483/schedule/5) omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [11(6)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22416801]: Marginal citation: [S.S.I. 2005/494](https://www.legislation.gov.uk/ssi/2005/494), to which there are amendments not relevant to these Regulations.
 

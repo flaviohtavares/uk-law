@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Assessment of children accommodated by health authorities and education authorities[^key-8807b3ac037f1a9a4edeef1718a69fe6]
+## 120. Assessment of children accommodated by health authorities and education authorities[^c-8807b3ac037f1a9a4edeef1718a69fe6]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 - (a) in relation to a local authority, its director of social services, and
 - (b) in relation to a local authority in England, its director of children's services.
 
-(5) Where the appropriate officer of a local authority has been notified under this section , or under section 85 of the Children Act 1989 (assessment of children accommodated by health authorities and education authorities)[^key-c0a5128d501d95dc06e0154ed89de70e], the authority must—
+(5) Where the appropriate officer of a local authority has been notified under this section , or under section 85 of the Children Act 1989 (assessment of children accommodated by health authorities and education authorities)[^c-c0a5128d501d95dc06e0154ed89de70e], the authority must—
 
 - (a) assess the child under section 21, and
 - (b) consider the extent to which (if at all) it should exercise any of its other functions under this Act, or any of its functions under the Children Act 1989, with respect to the child.
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8807b3ac037f1a9a4edeef1718a69fe6]: Commencement: S. 120 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-8807b3ac037f1a9a4edeef1718a69fe6]: Commencement: S. 120 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-c0a5128d501d95dc06e0154ed89de70e]: Textual amendment: Words in s. 120(5) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [305](https://www.legislation.gov.uk/wsi/2016/413/regulation/305)
+[^c-c0a5128d501d95dc06e0154ed89de70e]: Textual amendment: Words in s. 120(5) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [305](https://www.legislation.gov.uk/wsi/2016/413/regulation/305)

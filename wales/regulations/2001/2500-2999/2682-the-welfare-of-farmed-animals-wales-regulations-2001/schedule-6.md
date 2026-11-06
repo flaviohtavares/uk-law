@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — ADDITIONAL CONDITIONS THAT APPLY TO THE KEEPING OF PIGS[^key-6d4b8fd1ac978c0e8883cd24b1811087]
+## SCHEDULE 6 — ADDITIONAL CONDITIONS THAT APPLY TO THE KEEPING OF PIGS[^c-6d4b8fd1ac978c0e8883cd24b1811087]
 
 *Extent: E+W*
 
@@ -141,25 +141,25 @@ Pigs shall not be kept in an environment which involves maintaining high tempera
 
 Pigs shall not be exposed to constant or sudden noise. Noise levels above 85dBA shall be avoided in that part of any building where pigs are kept.
 
-#### 19. Interventions[^key-8557ef2e5f5e46844653e3c9604164a6]
+#### 19. Interventions[^c-8557ef2e5f5e46844653e3c9604164a6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-8557ef2e5f5e46844653e3c9604164a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-8557ef2e5f5e46844653e3c9604164a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-8557ef2e5f5e46844653e3c9604164a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-8557ef2e5f5e46844653e3c9604164a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-8557ef2e5f5e46844653e3c9604164a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-8557ef2e5f5e46844653e3c9604164a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-8557ef2e5f5e46844653e3c9604164a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-8557ef2e5f5e46844653e3c9604164a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-8557ef2e5f5e46844653e3c9604164a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-8557ef2e5f5e46844653e3c9604164a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-8557ef2e5f5e46844653e3c9604164a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-8557ef2e5f5e46844653e3c9604164a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-8557ef2e5f5e46844653e3c9604164a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-8557ef2e5f5e46844653e3c9604164a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART III — BOARS
 
@@ -237,6 +237,6 @@ Sows and gilts shall be kept in groups except during the period between seven da
 
 ## Annotations
 
-[^key-6d4b8fd1ac978c0e8883cd24b1811087]: Textual amendment: Sch. 6 substituted (14.7.2003) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2003 (S.I. 2003/1726)](https://www.legislation.gov.uk/uksi/2003/1726), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/1726/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2003/1726/regulation/3/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/2003/1726/regulation/2))
+[^c-6d4b8fd1ac978c0e8883cd24b1811087]: Textual amendment: Sch. 6 substituted (14.7.2003) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2003 (S.I. 2003/1726)](https://www.legislation.gov.uk/uksi/2003/1726), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/1726/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2003/1726/regulation/3/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/2003/1726/regulation/2))
 
-[^key-8557ef2e5f5e46844653e3c9604164a6]: Textual amendment: Sch. 6 paras. 19-26 revoked (28.3.2007) by [The Welfare of Animals (Miscellaneous Revocations) (Wales) Regulations 2007 (S.I. 2007/1027)](https://www.legislation.gov.uk/uksi/2007/1027), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1027/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2007/1027/schedule)
+[^c-8557ef2e5f5e46844653e3c9604164a6]: Textual amendment: Sch. 6 paras. 19-26 revoked (28.3.2007) by [The Welfare of Animals (Miscellaneous Revocations) (Wales) Regulations 2007 (S.I. 2007/1027)](https://www.legislation.gov.uk/uksi/2007/1027), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1027/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2007/1027/schedule)

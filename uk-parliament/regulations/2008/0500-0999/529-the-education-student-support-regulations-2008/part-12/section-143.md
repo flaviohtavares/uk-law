@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Information[^key-9397f1251df8ed00e03bd1943d5becf5]
+## 143. Information[^c-9397f1251df8ed00e03bd1943d5becf5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 3 deals with the provision of information.
 
 ## Annotations
 
-[^key-9397f1251df8ed00e03bd1943d5becf5]: Commencement: Reg. 143 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-9397f1251df8ed00e03bd1943d5becf5]: Commencement: Reg. 143 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

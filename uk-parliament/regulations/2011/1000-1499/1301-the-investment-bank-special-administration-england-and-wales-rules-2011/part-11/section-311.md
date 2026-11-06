@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 311. Non-Gazette notices – other provisions[^key-9c4fe40e20adda648a241182df0790bd]
+## 311. Non-Gazette notices – other provisions[^c-9c4fe40e20adda648a241182df0790bd]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c4fe40e20adda648a241182df0790bd]: Commencement: [Rule 311](https://www.legislation.gov.uk/uksi/2011/1301/rule/311) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-9c4fe40e20adda648a241182df0790bd]: Commencement: [Rule 311](https://www.legislation.gov.uk/uksi/2011/1301/rule/311) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

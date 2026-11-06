@@ -35,46 +35,46 @@ implementing Regulation (EC) No 1177/2003 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-64a9c6cec078643b698caf105f518727]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64a9c6cec078643b698caf105f518727]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-64a9c6cec078643b698caf105f518727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-64a9c6cec078643b698caf105f518727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-64a9c6cec078643b698caf105f518727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-64a9c6cec078643b698caf105f518727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-64a9c6cec078643b698caf105f518727]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64a9c6cec078643b698caf105f518727]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-64a9c6cec078643b698caf105f518727]
+## ANNEX[^c-64a9c6cec078643b698caf105f518727]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-64a9c6cec078643b698caf105f518727]1.
+[^c-64a9c6cec078643b698caf105f518727]1.
 
 **Unit**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-64a9c6cec078643b698caf105f518727]2.
+[^c-64a9c6cec078643b698caf105f518727]2.
 
 **Mode of data collection**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-64a9c6cec078643b698caf105f518727]3.
+[^c-64a9c6cec078643b698caf105f518727]3.
 
 **Reference period**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-64a9c6cec078643b698caf105f518727]4.
+[^c-64a9c6cec078643b698caf105f518727]4.
 
 **Data transmission**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-64a9c6cec078643b698caf105f518727] 2016 MODULE ON ACCESS TO SERVICES: LIST OF TARGET VARIABLES
+[^c-64a9c6cec078643b698caf105f518727] 2016 MODULE ON ACCESS TO SERVICES: LIST OF TARGET VARIABLES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-64a9c6cec078643b698caf105f518727]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 246](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/246); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-64a9c6cec078643b698caf105f518727]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 246](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/246); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

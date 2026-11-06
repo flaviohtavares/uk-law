@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Working plans, sections, ventilation plans and geological map[^key-a7f30054deb02cd249a8fefde9cf2648]
+## 59. Working plans, sections, ventilation plans and geological map[^c-a7f30054deb02cd249a8fefde9cf2648]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7f30054deb02cd249a8fefde9cf2648]: Commencement: [Reg. 59](https://www.legislation.gov.uk/nisr/2016/427/regulation/59) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-a7f30054deb02cd249a8fefde9cf2648]: Commencement: [Reg. 59](https://www.legislation.gov.uk/nisr/2016/427/regulation/59) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

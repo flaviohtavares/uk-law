@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Appeals[^key-d4a90ceb61406f534a47b935af5d893a][^key-3dade39a880eb36dbc72fae4272a7ffa]
+## 35. Appeals[^c-d4a90ceb61406f534a47b935af5d893a][^c-3dade39a880eb36dbc72fae4272a7ffa]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4a90ceb61406f534a47b935af5d893a]: Commencement: S. 35 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-d4a90ceb61406f534a47b935af5d893a]: Commencement: S. 35 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-3dade39a880eb36dbc72fae4272a7ffa]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/28/section/35) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-3dade39a880eb36dbc72fae4272a7ffa]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/28/section/35) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

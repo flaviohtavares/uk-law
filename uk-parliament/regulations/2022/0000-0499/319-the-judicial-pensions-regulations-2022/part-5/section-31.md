@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Opening balance[^key-87c9ee7e430a8f067e58b4d3649e7d65]
+## 31. Opening balance[^c-87c9ee7e430a8f067e58b4d3649e7d65]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87c9ee7e430a8f067e58b4d3649e7d65]: Commencement: Reg. 31 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-87c9ee7e430a8f067e58b4d3649e7d65]: Commencement: Reg. 31 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

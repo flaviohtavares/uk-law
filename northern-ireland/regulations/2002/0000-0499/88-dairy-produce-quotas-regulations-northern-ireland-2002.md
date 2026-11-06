@@ -41,15 +41,15 @@ Coming into operation
 
 The Department of Agriculture and Rural Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by virtue of the said section 2(2), and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-5780ed71db90e38d08e071974b5e1849]
+## 1. Citation and commencement[^c-5780ed71db90e38d08e071974b5e1849]
 
 These Regulations may be cited as the Dairy Produce Quotas Regulations (Northern Ireland) 2002 and shall come into operation on 31st March 2002.
 
-## 2. Application[^key-268b7c09364ec17afd89161529dedaf1]
+## 2. Application[^c-268b7c09364ec17afd89161529dedaf1]
 
 These Regulations shall apply in relation to producers, purchasers and other relevant persons in relation to whom the Department is the relevant competent authority.
 
-## 3. Interpretation[^key-76a511f9b120b138136a9e20210dbe9c]
+## 3. Interpretation[^c-76a511f9b120b138136a9e20210dbe9c]
 
 (1) In these Regulations—
 
@@ -128,7 +128,7 @@ These Regulations shall apply in relation to producers, purchasers and other rel
 
 (3) The Interpretation Act (Northern Ireland) 1954, except section 20(2)and (3), shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 4. Scottish Islands areas[^key-2940b2b254ab7a92201eafe996cf1d4f]
+## 4. Scottish Islands areas[^c-2940b2b254ab7a92201eafe996cf1d4f]
 
 (1) Quota registered to direct sellers and producers within any Scottish Islands area can only be used by producers and purchasers against direct sales or wholesale deliveries of milk produced within that Scottish Islands area.
 
@@ -138,17 +138,17 @@ These Regulations shall apply in relation to producers, purchasers and other rel
 
 (4) In this regulation “direct seller” and “producer” include a person who occupies land with quota whether or not that person is engaged in the sale or delivery of dairy produce.
 
-## 5. Determination of levy[^key-e40dc07d39d1dcdaa9151fd760caf605]
+## 5. Determination of levy[^c-e40dc07d39d1dcdaa9151fd760caf605]
 
 For the purposes of Article 2(1) of the Council Regulation (which concerns the calculation of levy), the contribution of producers who make wholesale deliveries towards the levy shall be established, in accordance with the provisions of that Article, at the level of the purchaser.
 
-## 6. Milk equivalence of dairy produce[^key-76a42ccb79285c08ff3c5dda904d73da]
+## 6. Milk equivalence of dairy produce[^c-76a42ccb79285c08ff3c5dda904d73da]
 
 (1) For the purposes of Article 2(3) of the Commission Regulation (which concerns milk equivalence of dairy produce) the milk equivalence of dairy produce shall be calculated on the basis that each kilogram of dairy produce shall equal such quantity of milk referred to in paragraph (2) as is required to make that kilogram of dairy produce.
 
 (2) The milk to which paragraph (1) relates is milk the fat content of which has not been altered since milking.
 
-## 7. Adjustment of purchaser quota[^key-03e58dee62567438cbd49927bc92c23f]
+## 7. Adjustment of purchaser quota[^c-03e58dee62567438cbd49927bc92c23f]
 
 (1) Where any wholesale quota is increased or reduced in accordance with the Community legislation or these Regulations, the purchaser quota of any purchaser to whom that quota is applicable shall be correspondingly increased or reduced.
 
@@ -175,7 +175,7 @@ and in each case upon such application the Department shall make the assessment 
 
 (6) An application under paragraph (5)(*a*) or (*b*) shall be made no later than 15th June in the quota year immediately following the quota year during which the producer changed from being registered with the original purchaser to being registered with the other purchaser in question.
 
-## 8. Transfer of quota with transfer of land[^key-39ef13290860ac42ede19163b05943fc]
+## 8. Transfer of quota with transfer of land[^c-39ef13290860ac42ede19163b05943fc]
 
 (1) For the purposes of Article 7 of the Council Regulation (which concerns the transfer of quota with a holding when the holding is sold, leased, transferred by inheritance or subjected to other cases of transfer involving comparable legal effects for producers), in respect of a transfer of any holding or part of a holding, other than a transfer of a kind to which paragraph (5) or (7) refers, the transferee shall submit to the Department—
 
@@ -213,14 +213,14 @@ and in each case upon such application the Department shall make the assessment 
 
 (7) No person shall transfer quota on a transfer of a holding or part of a holding where the transfer would result in an increase or reduction in the total direct sales quota or total wholesale quota available for use by dairy enterprises located within a Scottish Islands area.
 
-## 9. Apportionment of quota[^key-943a1a7b7ba965cd3f31930b3f7356d2]
+## 9. Apportionment of quota[^c-943a1a7b7ba965cd3f31930b3f7356d2]
 
 Subject to regulations 8(5) and (7), 10(4) and (5) and 11, where there is a transfer of part of a holding, and a notice of transfer has been submitted in accordance with regulation 8(1)(*a*), the apportionment of the quota or special quota relating to that holding shall be carried out—
 
 - (a) in accordance with the agreed apportionment set out in the notice referred to in regulation 8(1)(*a*); or
 - (b) where there is no such agreement, by arbitration in accordance with the provisions of Schedule 1.
 
-## 10. Prospective apportionment of quota[^key-412dedb9a89c141110a0582a530b58db]
+## 10. Prospective apportionment of quota[^c-412dedb9a89c141110a0582a530b58db]
 
 (1) The occupier of a holding who intends that a prospective apportionment of quota will be applied to it shall submit to the Department an application in such form as the Department may reasonably require, requesting either—
 
@@ -244,7 +244,7 @@ the apportionment shall be carried out in accordance with paragraph (5).
 - (b) if no such prospective apportionment has been made, any prospective apportionment which is in the process of being made under paragraph (1); and
 - (c) in any other case, regulation 9.
 
-## 11. Notification by the Department of apportionment of quota by arbitration[^key-21789539b27fcff77846576fa74172d7]
+## 11. Notification by the Department of apportionment of quota by arbitration[^c-21789539b27fcff77846576fa74172d7]
 
 (1) Where the Department has reasonable grounds for believing that the areas used for milk production on a holding—
 
@@ -255,7 +255,7 @@ it may give notice of this fact to the person who submitted that notice or appli
 
 (2) In any case to which paragraph (1) applies, the apportionment or prospective apportionment of the quota concerned shall be made by arbitration in accordance with Schedule 1.
 
-## 12. Transfer of quota without transfer of land[^key-0c61aa237c9a6d96c2ab273a95dceb76]
+## 12. Transfer of quota without transfer of land[^c-0c61aa237c9a6d96c2ab273a95dceb76]
 
 (1) For the purposes of sub-paragraph (*e*) of Article 8 of the Council Regulation (which permits the authorisation of a transfer of quota without transfer of the corresponding land with the aim of improving the structure of milk production at the level of the holding), an application for transfer of quota without transfer of land, other than an application for a transfer of a kind to which paragraph (7) refers, may be submitted by the transferee to the Department for approval, provided that it is submitted no later than ten working days before the intended date of the transfer and that application is in such form as the Department may reasonably require.
 
@@ -290,11 +290,11 @@ and the Department shall transfer that quota to the national reserve until such 
 
 (7) In conformity with sub-paragraph (*d*) of Article 8 of the Council Regulation (which provides for the determination of regions within which such transfers may be authorised), no application submitted pursuant to paragraph (1) shall be approved by the Department where the transfer would result in an increase or reduction in the total direct sales quota or total wholesale quota available for use by dairy enterprises located within a Scottish Islands area.
 
-## 13. National reserve[^key-c323af6d2b73290ec50e7c67227d0d27]
+## 13. National reserve[^c-c323af6d2b73290ec50e7c67227d0d27]
 
 The Department may make allocations from the national reserve in accordance with the Community legislation.
 
-## 14. Temporary transfer of quota[^key-ed93f5c50d111ce53f123a56c30419c5]
+## 14. Temporary transfer of quota[^c-ed93f5c50d111ce53f123a56c30419c5]
 
 (1) For the purposes of Article 6 of the Council Regulation (which concerns the temporary transfer of quota), a producer may agree with any other producer to make a temporary transfer, other than a temporary transfer of a kind to which paragraph (4) refers, of all or part of any unused quota which is registered under regulation 23 as permanently held by him for a period of one quota year to that other producer.
 
@@ -304,7 +304,7 @@ The Department may make allocations from the national reserve in accordance with
 
 (4) No producer shall enter into an agreement to make a temporary transfer pursuant to paragraph (1) which would result in a reduction in the total wholesale quota or total direct sales quota available for use by dairy enterprises located within a Scottish Islands area.
 
-## 15. Temporary reallocation of quota[^key-ec735563053d2f0cccacfcb216786efa]
+## 15. Temporary reallocation of quota[^c-ec735563053d2f0cccacfcb216786efa]
 
 (1) For the purposes of the reallocation of quota referred to in Article 2(1) of the Council Regulation, the Department may, for any quota year, award to a producer referred to in paragraph (2) a temporary reallocation of an amount of any surplus quota in accordance with the provisions of this regulation.
 
@@ -320,11 +320,11 @@ The Department may make allocations from the national reserve in accordance with
 
 (4) An award to a producer pursuant to paragraph (3) shall not be available in respect of a quota year during which that producer transfers unused quota pursuant to regulation 8 or 12, makes a temporary transfer of quota pursuant to regulation 14, or purchases cows or in-calf heifers for dairy purposes, unless the Department is satisfied that the agreement to transfer, temporarily transfer or purchase, was entered into before service of the notice, or the coming into force of an order, referred to in paragraph (2).
 
-## 16. Special allocation of quota[^key-a6e7e88ae3d0a83f0193e8c1bad1500f]
+## 16. Special allocation of quota[^c-a6e7e88ae3d0a83f0193e8c1bad1500f]
 
 Where, by reason of a mistake made by the Department, a person has not been allocated any quota, or has been allocated a smaller quantity of any such quota than he would have been allocated if the mistake had not been made, the Department may allocate to that person from the national reserve such quota as will compensate, in whole or in part, for that mistake.
 
-## 17. Conversion of quota[^key-83aa15ae4c82aa2e411a164d2cb64b4e]
+## 17. Conversion of quota[^c-83aa15ae4c82aa2e411a164d2cb64b4e]
 
 (1) For the purposes of the provisions of Article 4(2) of the Council Regulation (which concerns changes from direct sales to wholesale delivery and vice versa), the second sub-paragraph of Article 2(2) of the Council Regulation (which concerns replacements of purchasers), and this regulation, a producer may apply to convert, temporarily or permanently, direct sales quota to wholesale quota or wholesale quota to direct sales quota.
 
@@ -344,15 +344,15 @@ Where, by reason of a mistake made by the Department, a person has not been allo
 
 (6) The restriction in paragraph (4) shall not apply to any producer who, in the immediately preceding quota year, has temporarily converted quota.
 
-## 18. Representative fat content of milk[^key-ae7a8dde717566d612e3b3179d1c257e]
+## 18. Representative fat content of milk[^c-ae7a8dde717566d612e3b3179d1c257e]
 
 A producer who in any quota year comes within the first indent of Article 3(7) of the Commission Regulation (which concerns the representative fat content of milk from certain new producers) may benefit from the negative correction provided for in the third sub-paragraph of Article 4(1) thereof only if, before 1st March in that quota year, he confirms to the Department that in that quota year he has maintained in his dairy herd breeds of cow with characteristics similar to those in the herd in the first 12 months of production and undertakes to maintain such breeds in his dairy herd for the remainder of that quota year.
 
-## 19. Reallocation of quota and calculation of levy liability[^key-ee517deae0fe4254dc787db696f04e26]
+## 19. Reallocation of quota and calculation of levy liability[^c-ee517deae0fe4254dc787db696f04e26]
 
 Schedule 2 shall apply in respect of the reallocation of quota and the calculation of levy liability for the purposes of Article 2(1) of the Council Regulation (which concerns the calculation of levy whether or not following a reallocation of quota).
 
-## 20. Prevention of avoidance of levy[^key-8c59161f2135f2ac7628f078aa98d263]
+## 20. Prevention of avoidance of levy[^c-8c59161f2135f2ac7628f078aa98d263]
 
 (1) Subject to paragraph (2), where in any quota year a producer makes sales or deliveries of milk or milk products from milk produced by any cows and subsequently in the same quota year another producer makes sales or deliveries of milk or milk products from milk produced by any or all of the same cows, the second producer shall be deemed for the purposes of these Regulations to have made those sales or deliveries in the capacity of agent for the first producer.
 
@@ -361,7 +361,7 @@ Schedule 2 shall apply in respect of the reallocation of quota and the calculati
 - (a) an agreement has been entered into by the first producer for the sale or lease of the cows in question or the second producer has inherited them from the first producer; and
 - (b) the cows are kept on the second producer’s holding.
 
-## 21. Payment of levy[^key-2e96c04bfd263f350e54b1624a8a2a11]
+## 21. Payment of levy[^c-2e96c04bfd263f350e54b1624a8a2a11]
 
 (1) In respect of the collection of levy, the Department shall be the competent authority for the purposes of the Community legislation.
 
@@ -371,7 +371,7 @@ Schedule 2 shall apply in respect of the reallocation of quota and the calculati
 
 (4) For the purposes of the third sub-paragraph of Article 2(2) of the Council Regulation (which concerns deduction of levy liability), where a producer making wholesale deliveries to a purchaser exceeds his wholesale quota, following adjustment of that quota where appropriate and in accordance with Article 4(1) of the Commission Regulation, that purchaser may immediately deduct from the sums owed to the producer in respect of the deliveries an amount corresponding to the amount of levy that would otherwise be payable by him in respect of the excess.
 
-## 22. Annual statements[^key-d28222ae92acbc794fd4559067680014]
+## 22. Annual statements[^c-d28222ae92acbc794fd4559067680014]
 
 (1) The Department may, in respect of—
 
@@ -382,7 +382,7 @@ recover a reasonable charge in respect of any visit to any premises which the De
 
 (2) If a purchaser is requested by the Department to submit to it a revised version of the summary referred to in paragraph (1)(*b*), he shall submit such a version of the summary revised in the manner requested within ten working days of that request.
 
-## 23. Registers to be prepared and maintained by the Department[^key-2a5ee0c227df7619e383bb10bdd41f5b]
+## 23. Registers to be prepared and maintained by the Department[^c-2a5ee0c227df7619e383bb10bdd41f5b]
 
 (1) The Department shall—
 
@@ -432,7 +432,7 @@ and, where the Department makes a correction or amendment, it shall notify any p
 
 (6) In this regulation, “direct seller” and “producer” include a person who occupies land with quota whether or not that person is engaged in the sale or delivery of dairy produce.
 
-## 24. Inspection of entries in the Department’s registers[^key-bfb9fe75469b59429bb84fcc949ba189]
+## 24. Inspection of entries in the Department’s registers[^c-bfb9fe75469b59429bb84fcc949ba189]
 
 The Department may, in response to a request—
 
@@ -441,7 +441,7 @@ The Department may, in response to a request—
 
 on payment of a reasonable charge, supply to the person making the request a copy of that quota register entry.
 
-## 25. Approval and registration of purchasers[^key-60ebe4ee6d82b650032bae48db24de65]
+## 25. Approval and registration of purchasers[^c-60ebe4ee6d82b650032bae48db24de65]
 
 (1) For the purposes of Article 13 of the Commission Regulation (which concerns the approval of purchasers), a purchaser shall submit to the Department an application seeking that purchaser’s approval by the Department in such form as the latter may reasonably require.
 
@@ -463,7 +463,7 @@ on payment of a reasonable charge, supply to the person making the request a cop
 - (b) confirm to each producer supplying him that he is approved and supply on request details of that approval; and
 - (c) notify each producer supplying him if that approval is withdrawn.
 
-## 26. Obligations of producers and purchasers with respect to registration and deliveries[^key-f5f16c614a4895a67245c3bc981688a8]
+## 26. Obligations of producers and purchasers with respect to registration and deliveries[^c-f5f16c614a4895a67245c3bc981688a8]
 
 (1) Each direct seller shall register his quota with the Department.
 
@@ -478,11 +478,11 @@ on payment of a reasonable charge, supply to the person making the request a cop
 
 (4) Each purchaser shall amend the register referred to in paragraph (3)(*a*) on each occasion when, under these Regulations, the equivalent register maintained by the Department is required to be amended in relation to producers registered in that purchaser’s register.
 
-## 27. Registers as evidence[^key-d6a993e89f2669cc75c7fcc54d702428]
+## 27. Registers as evidence[^c-d6a993e89f2669cc75c7fcc54d702428]
 
 Any entry in a register or notice required by these Regulations to be maintained by the Department shall in any proceedings be evidence of the matters stated therein.
 
-## 28. Information[^key-6edb7646ae92716d3e53f7d9cd34853d]
+## 28. Information[^c-6edb7646ae92716d3e53f7d9cd34853d]
 
 (1) Each purchaser or producer shall provide such information to the Department as the Department may reasonably require in order that it is able to perform its functions under these Regulations and the Community legislation.
 
@@ -490,17 +490,17 @@ Any entry in a register or notice required by these Regulations to be maintained
 
 (3) The Department shall provide each purchaser with a copy of such records as that purchaser reasonably may require for the purposes of his registration obligations under these Regulations and Article 5 of the Commission Regulation (which concerns the submission of summaries of producers' statements of deliveries or declarations that no deliveries have been received).
 
-## 29. Withholding or recovery of compensation[^key-d9264be587588c6606e7f9b6c1904385]
+## 29. Withholding or recovery of compensation[^c-d9264be587588c6606e7f9b6c1904385]
 
 Where a producer has submitted an application for compensation in accordance with the Community compensation scheme and it appears to the Department that the producer has made a false or misleading statement in his application or has failed to comply with any of the requirements of that scheme, the Department may withhold or recover on demand from that producer the whole or any part of the compensation payable or paid to him.
 
-## 30. Keeping and retention of records[^key-e632701f0f4d41499b8804b081b85437]
+## 30. Keeping and retention of records[^c-e632701f0f4d41499b8804b081b85437]
 
 (1) For the purposes of Article 11(1) of the Commission Regulation (which requires Member States to take all necessary measures to ensure that the levy is correctly charged), and without prejudice to regulation 3 of the Common Agricultural Policy (Protection of Community Arrangements) Regulations 1992[^f00019], a relevant person shall, in addition to fulfilling any relevant requirement of paragraphs 2 to 5 of Article 14 of the Commission Regulation (which concerns record keeping obligations of purchasers and producers), keep and retain such records, and for such periods, as are specified in Schedule 3.
 
 (2) In this regulation, “relevant person” means a producer, a purchaser, any employee or agent of a producer or of a purchaser, any milk haulier, any person undertaking butterfat testing for purchasers in a laboratory, a processor of milk or milk products, or any other person involved in the buying, selling or supply of milk or milk products obtained directly from a producer or purchaser.
 
-## 31. Administrative penalties[^key-e91127b81162f1069dc7209cbe6dbdc5]
+## 31. Administrative penalties[^c-e91127b81162f1069dc7209cbe6dbdc5]
 
 (1) Subject to the provisions of Article 13(4) of the Commission Regulation (which confers a discretion on Member States not to impose penalties in certain circumstances) and paragraph (6), purchasers shall be subject to the administrative penalties specified in paragraphs (2) to (4).
 
@@ -523,7 +523,7 @@ he shall be liable to pay to the Department a penalty equivalent to the theoreti
 - (a) in the case of purchasers and direct sellers, be £60, where they would otherwise be less than that amount; or
 - (b) in the case of purchasers, be £60,000, and in the case of direct sellers, be £600, where they would otherwise exceed these respective amounts.
 
-## 32. Offences and criminal penalties[^key-32310c48e9ca1442e44fd86b92b93da5]
+## 32. Offences and criminal penalties[^c-32310c48e9ca1442e44fd86b92b93da5]
 
 (1) Any person who fails without reasonable excuse to comply with a requirement imposed on him by or under these Regulations or the Community legislation, or who, without prejudice to the generality of the foregoing—
 
@@ -550,7 +550,7 @@ shall be guilty of an offence, and shall be liable—
 
 (6) In this regulation “requirement” does not include a requirement or restriction imposed on the Department or a person acting as arbitrator, nor does it include any restriction or obligation in or under regulation 8(5) or (7), 10(1), 14(4) or 17(2).
 
-## 33. Confiscation and restoration of quota[^key-0d9bdfa7d8a6f59d585f0bacbdd62f42]
+## 33. Confiscation and restoration of quota[^c-0d9bdfa7d8a6f59d585f0bacbdd62f42]
 
 (1) On or before 14th May following the end of each quota year, each purchaser shall supply to the Department a list of those producers registered with that purchaser (whether for the whole or part of the quota year) who have not made deliveries to that purchaser during that year.
 
@@ -593,11 +593,11 @@ shall be guilty of an offence, and shall be liable—
 
 the relevant quota shall be taken into the national reserve.
 
-## 34. Withdrawal of special quota[^key-966dcaf294b496f13456c5a65abb2a49]
+## 34. Withdrawal of special quota[^c-966dcaf294b496f13456c5a65abb2a49]
 
 Where a producer has special quota registered in his name and it appears to the Department that the producer has made a false or misleading statement in his application for special quota or has failed to comply with the requirements under the Community legislation in relation to special quota, the Department may withdraw the whole or any part of the special quota.
 
-## 35. Revocations[^key-1c71800d629405ffba215dcf36b8c6ed]
+## 35. Revocations[^c-1c71800d629405ffba215dcf36b8c6ed]
 
 (1) Subject to paragraph (2), the Regulations specified in Schedule 4 are hereby revoked to the extent specified in that Schedule in so far as they apply to Northern Ireland.
 
@@ -619,13 +619,13 @@ Department of Agriculture and Rural Development
 
 regulations 9(b),10(1)(b) and (4)(b), 11(2) and 33(5)(b)(iii)
 
-**1.**[^key-c53d253657378a74ec407956bcab69cf] Paragraphs 3 to 19 shall apply to every arbitration in Northern Ireland.
+**1.**[^c-c53d253657378a74ec407956bcab69cf] Paragraphs 3 to 19 shall apply to every arbitration in Northern Ireland.
 
-**2.**[^key-7593a02414c3dc1cefc32417fa572e29] (1) Parts I, II and IV of the Arbitration Act 1996[^f00021] shall, except insofar as they are inconsistent with paragraphs 3 to 19, apply to every arbitration in Northern Ireland as if that arbitration were pursuant to an arbitration agreement and as if paragraphs 3 to 11 and 13 to 18 were contained in an arbitration agreement.
+**2.**[^c-7593a02414c3dc1cefc32417fa572e29] (1) Parts I, II and IV of the Arbitration Act 1996[^f00021] shall, except insofar as they are inconsistent with paragraphs 3 to 19, apply to every arbitration in Northern Ireland as if that arbitration were pursuant to an arbitration agreement and as if paragraphs 3 to 11 and 13 to 18 were contained in an arbitration agreement.
 
 (2) For the purpose of this paragraph “arbitration agreement” shall be construed in accordance with sections 5(1) and 6 of the Arbitration Act 1996.
 
-### 3. Appointment of arbitrator[^key-29d13922bd97fd618ac47ee5c5601724]
+### 3. Appointment of arbitrator[^c-29d13922bd97fd618ac47ee5c5601724]
 
 (1) Subject to sub-paragraph (2), in any case where an apportionment is to be carried out by arbitration, an arbitrator shall be appointed by agreement between the transferor and transferee, and the transferee shall give notice of the appointment of the arbitrator to the Department.
 
@@ -637,124 +637,124 @@ regulations 9(b),10(1)(b) and (4)(b), 11(2) and 33(5)(b)(iii)
 
 (5) Where an apportionment under regulation 33(5)(*b*)(iii) is to be carried out by arbitration, the producer shall either appoint an arbitrator by agreement with all persons with an interest in the holding or make an application to the President for the appointment of an arbitrator.
 
-**4.**[^key-1ee852ee096a2487fef950f97dd06050] (1) In any case where a prospective apportionment is to be made by arbitration, an arbitrator shall be appointed—
+**4.**[^c-1ee852ee096a2487fef950f97dd06050] (1) In any case where a prospective apportionment is to be made by arbitration, an arbitrator shall be appointed—
 
 - (a) where regulation 11 applies, by the President;
 - (b) where regulation 10 applies, by agreement between the occupier of the holding to which the prospective apportionment relates and any other interested party, or, in default, by the President on an application by that occupier.
 
 (2) Where sub-paragraph (1)(*b*) applies, the occupier shall give notice to the Department of the appointment of the arbitrator pursuant to the agreement, or of the application to the President for the appointment of an arbitrator.
 
-**5.**[^key-68830cb05aa200c64e64dd183484f00c] (1) An arbitrator appointed in accordance with paragraph 3(1) to (4) or 4 shall conduct the arbitration in accordance with this Schedule and shall base his award on findings made by him as to areas used for milk production in the last five year period during which production took place before the change of occupation, or, in the case of a prospective apportionment, in the last five year period during which production took place before the appointment of the arbitrator.
+**5.**[^c-68830cb05aa200c64e64dd183484f00c] (1) An arbitrator appointed in accordance with paragraph 3(1) to (4) or 4 shall conduct the arbitration in accordance with this Schedule and shall base his award on findings made by him as to areas used for milk production in the last five year period during which production took place before the change of occupation, or, in the case of a prospective apportionment, in the last five year period during which production took place before the appointment of the arbitrator.
 
 (2) An arbitrator appointed in accordance with paragraph 3(5) shall conduct the arbitration in accordance with this Schedule and shall base his award on findings made by him as to the areas used for milk production in the last five-year period during which production took place before the appointment of the arbitrator.
 
 (3) An arbitrator appointed under any paragraph of this Schedule shall base his award on findings made by him in accordance with the law in force at the time the event giving rise to an application for arbitration took place.
 
-**6.**[^key-625af536194890168eb98490f214475a] No application may be made to the President for an arbitrator to be appointed by him under this Schedule unless the application is accompanied by a fee which shall be £50 for such an application; but once the fee has been paid in connection with any such application no further fee shall be payable in connection with any subsequent application for the President to exercise any function exercisable by him in relation to the arbitration by virtue of this Schedule (including an application for the appointment by him in an appropriate case of a new arbitrator).
+**6.**[^c-625af536194890168eb98490f214475a] No application may be made to the President for an arbitrator to be appointed by him under this Schedule unless the application is accompanied by a fee which shall be £50 for such an application; but once the fee has been paid in connection with any such application no further fee shall be payable in connection with any subsequent application for the President to exercise any function exercisable by him in relation to the arbitration by virtue of this Schedule (including an application for the appointment by him in an appropriate case of a new arbitrator).
 
-**7.**[^key-8fbf25b97ca2901880bad18d3568e7b0] Where the Department makes an application to the President under paragraph 3(3) or (4), the fee payable to the President in respect of that application referred to in paragraph 6 shall be recoverable by the Department as a debt due from the other parties to the arbitration jointly or severally.
+**7.**[^c-8fbf25b97ca2901880bad18d3568e7b0] Where the Department makes an application to the President under paragraph 3(3) or (4), the fee payable to the President in respect of that application referred to in paragraph 6 shall be recoverable by the Department as a debt due from the other parties to the arbitration jointly or severally.
 
-**8.**[^key-ebdcc3d0314a98a256e3ba85f7080728] Any appointment of an arbitrator by the President shall be made by him as soon as possible after receiving the application.
+**8.**[^c-ebdcc3d0314a98a256e3ba85f7080728] Any appointment of an arbitrator by the President shall be made by him as soon as possible after receiving the application.
 
-**9.**[^key-615e03b8f089dad47e9eebce52356daf] If the arbitrator dies, or is incapable of acting, or for seven days after notice from any party requiring him to act fails to act, a new arbitrator may be appointed as if no arbitrator had been appointed.
+**9.**[^c-615e03b8f089dad47e9eebce52356daf] If the arbitrator dies, or is incapable of acting, or for seven days after notice from any party requiring him to act fails to act, a new arbitrator may be appointed as if no arbitrator had been appointed.
 
-**10.**[^key-16ae4a121265abf34a39486a34d1df68] A party to the arbitration shall have power to revoke the appointment of the arbitrator with the consent of all other parties.
+**10.**[^c-16ae4a121265abf34a39486a34d1df68] A party to the arbitration shall have power to revoke the appointment of the arbitrator with the consent of all other parties.
 
-**11.**[^key-946d91c45f1ad13d4ecb5a5214923991] Every appointment, application, notice, revocation and consent under paragraph 3, 4, 5, 9 or 10 shall be in writing.
+**11.**[^c-946d91c45f1ad13d4ecb5a5214923991] Every appointment, application, notice, revocation and consent under paragraph 3, 4, 5, 9 or 10 shall be in writing.
 
-### 12. Persons with an interest in the holding[^key-8955c734250250828ab4892582f66556]
+### 12. Persons with an interest in the holding[^c-8955c734250250828ab4892582f66556]
 
 (1) In any arbitration to which this Schedule applies, the arbitrator may, in his absolute discretion, subject to sub-paragraph (2), join as a party to the arbitration any person having an interest in the holding, whether or not such person has applied to become a party to the arbitration, provided that such person consents to be so joined.
 
 (2) Where an apportionment under regulation 33(5)(*b*)(iii) is to be carried out by arbitration, any person with an interest in the holding who has refused to sign the statement referred to in regulation 33(5)(*b*)(ii) shall be a party to the arbitration.
 
-### 13. Statement of case[^key-0cef6fbaf7148769d00086b73304f29e]
+### 13. Statement of case[^c-0cef6fbaf7148769d00086b73304f29e]
 
 The parties to the arbitration shall, within 35 days of the appointment of the arbitrator, or within such further period as the arbitrator may determine, deliver to him a statement of their respective cases with all necessary particulars and—
 
 - (a) no amendment or addition to the statement or particulars delivered shall be allowed after the expiry of the said 35 days except with the consent of the arbitrator; and
 - (b) a party to the arbitration shall be confined at the hearing to the matters alleged in the statement and particulars delivered by him and any amendment or addition duly made.
 
-### 14. Award[^key-b458ac20e2be23b86246947f0b184c40]
+### 14. Award[^c-b458ac20e2be23b86246947f0b184c40]
 
 (1) Subject to sub-paragraph (2), the arbitrator shall make and sign his award within 56 days of his appointment.
 
 (2) The President may from time to time extend the time limited for making the award, whether that time has expired or not.
 
-**15.**[^key-203a4f80494f79601d247a9b6e16b9d6] The arbitrator shall notify the terms of his award to the Department within eight days of delivery of that award.
+**15.**[^c-203a4f80494f79601d247a9b6e16b9d6] The arbitrator shall notify the terms of his award to the Department within eight days of delivery of that award.
 
-**16.**[^key-92fda7f98c385ba7f71c787ce4256b9c] The arbitrator shall have power to correct in the award any clerical mistake or error arising from any accidental slip or omission.
+**16.**[^c-92fda7f98c385ba7f71c787ce4256b9c] The arbitrator shall have power to correct in the award any clerical mistake or error arising from any accidental slip or omission.
 
-### 17. Reasons for award[^key-8850f23a7c1b5968ad6b2fba76903fac]
+### 17. Reasons for award[^c-8850f23a7c1b5968ad6b2fba76903fac]
 
 If requested by any party to the arbitration, on or before the making of the award, to make a statement, either written or oral, of the reasons for the award the arbitrator shall furnish such a statement.
 
-**18.**[^key-0d56dae449ef27f569d6c516452b6e2d] For the purposes of this Schedule, an arbitrator appointed by the President shall be taken to have been so appointed at the time when the President executed the instrument of appointment, and in the case of any such arbitrator the periods mentioned in paragraphs 13 and 14 shall run from that time.
+**18.**[^c-0d56dae449ef27f569d6c516452b6e2d] For the purposes of this Schedule, an arbitrator appointed by the President shall be taken to have been so appointed at the time when the President executed the instrument of appointment, and in the case of any such arbitrator the periods mentioned in paragraphs 13 and 14 shall run from that time.
 
-**19.**[^key-9f7a1c680c3aa7092cd524db91b4795b] Any person having an interest in the holding to which the arbitration relates shall be entitled to make representations to the arbitrator.
+**19.**[^c-9f7a1c680c3aa7092cd524db91b4795b] Any person having an interest in the holding to which the arbitration relates shall be entitled to make representations to the arbitrator.
 
 ## SCHEDULE 2 — Reallocation of quota and calculation of levy liability
 
 regulation 19
 
-### 1. Wholesale quota[^key-f543cac26da26332a3ac4fc346f43fbb]
+### 1. Wholesale quota[^c-f543cac26da26332a3ac4fc346f43fbb]
 
 The Department shall determine the amount, if any, by which the wholesale deliveries of dairy produce to each purchaser exceeds his purchaser quota.
 
-**2.**[^key-41383e1abd3259939654a71f9e2fb50e] In making that determination the Department shall complete in sequence the steps required by paragraphs 3 to 7, 9 and 10.
+**2.**[^c-41383e1abd3259939654a71f9e2fb50e] In making that determination the Department shall complete in sequence the steps required by paragraphs 3 to 7, 9 and 10.
 
-**3.**[^key-b942bcbda516b8012545af5c432c8549] The Department shall where necessary authorise an adjustment of the amount, if any, by which the quantity of wholesale deliveries of dairy produce to each purchaser must be adjusted to take account of its fat content, calculated in accordance with Article 4(1) of the Commission Regulation.
+**3.**[^c-b942bcbda516b8012545af5c432c8549] The Department shall where necessary authorise an adjustment of the amount, if any, by which the quantity of wholesale deliveries of dairy produce to each purchaser must be adjusted to take account of its fat content, calculated in accordance with Article 4(1) of the Commission Regulation.
 
-**4.**[^key-a1efd4ce6e0cdcf16c6b4e228e3f05e2] The Department shall authorise the adjustment by purchasers (to the extent possible from within the quota available to the purchaser to whom the producer makes deliveries) of the quota of any producer making wholesale deliveries to whom a temporary reallocation of quota has been made, to take account of that reallocation and any purchaser who has insufficient quota unused by producers registered with him to meet that temporary reallocation shall notify the Department of the amount of the shortfall in such form as the Department may reasonably require.
+**4.**[^c-a1efd4ce6e0cdcf16c6b4e228e3f05e2] The Department shall authorise the adjustment by purchasers (to the extent possible from within the quota available to the purchaser to whom the producer makes deliveries) of the quota of any producer making wholesale deliveries to whom a temporary reallocation of quota has been made, to take account of that reallocation and any purchaser who has insufficient quota unused by producers registered with him to meet that temporary reallocation shall notify the Department of the amount of the shortfall in such form as the Department may reasonably require.
 
-**5.**[^key-7fd4a936a054dffe632d8f8580c4620e] The Department shall determine for each purchaser the amount, if any, by which the purchaser quota of each purchaser exceeds or falls short of the quantity of wholesale deliveries of dairy produce made to him taking into account the amount of quota converted in accordance with regulation 17, and any temporary reallocation made in accordance with regulation 15.
+**5.**[^c-7fd4a936a054dffe632d8f8580c4620e] The Department shall determine for each purchaser the amount, if any, by which the purchaser quota of each purchaser exceeds or falls short of the quantity of wholesale deliveries of dairy produce made to him taking into account the amount of quota converted in accordance with regulation 17, and any temporary reallocation made in accordance with regulation 15.
 
-**6.**[^key-362b4317010eabd03d40960547a2a697] The Department shall determine the total amount, if any, of excess quota remaining for any purchaser whose purchaser quota exceeds the quantity of wholesale deliveries of dairy produce made to him, as determined in accordance with paragraph 5, and shall add that amount to the national reserve.
+**6.**[^c-362b4317010eabd03d40960547a2a697] The Department shall determine the total amount, if any, of excess quota remaining for any purchaser whose purchaser quota exceeds the quantity of wholesale deliveries of dairy produce made to him, as determined in accordance with paragraph 5, and shall add that amount to the national reserve.
 
-**7.**[^key-022e98c7157ca6527917b80281cf87e8] The Department shall reallocate the amount, if any, referred to in paragraph 6—
+**7.**[^c-022e98c7157ca6527917b80281cf87e8] The Department shall reallocate the amount, if any, referred to in paragraph 6—
 
 - (a) in the first instance, to meet any award of a temporary reallocation of quota which has not been met by the adjustment referred to in paragraph 4;
 - (b) thereafter, to offset the amount by which the deliveries made to any purchaser exceed his purchaser quota, such allocation being made proportionately to the amount of quota; and
 - (c) where the allocations referred to in sub-paragraph (*b*) exceed the amount required by the purchaser, the surplus shall be allocated to all purchasers where the deliveries exceed purchaser quota, until all unallocated quota has been exhausted.
 
-**8.**[^key-91336d1faef428461e63d582f4e688f6] Where a purchaser fails to notify the Department on or before 14th May immediately following the end of the quota year of the actual quantity of milk or milk products delivered to him in that year, the Department may decide that that purchaser shall not benefit from the reallocation of quota referred to in paragraph 7(*b*).
+**8.**[^c-91336d1faef428461e63d582f4e688f6] Where a purchaser fails to notify the Department on or before 14th May immediately following the end of the quota year of the actual quantity of milk or milk products delivered to him in that year, the Department may decide that that purchaser shall not benefit from the reallocation of quota referred to in paragraph 7(*b*).
 
-**9.**[^key-2b308945b0d2832d83c8a0555c035b61] The Department shall determine the total amount of the levy payable by a purchaser by multiplying the amount, if any, by which deliveries to him exceed his purchaser quota following the steps specified in paragraphs 3 to 7 by the rate of levy calculated in accordance with Article 1 of the Council Regulation.
+**9.**[^c-2b308945b0d2832d83c8a0555c035b61] The Department shall determine the total amount of the levy payable by a purchaser by multiplying the amount, if any, by which deliveries to him exceed his purchaser quota following the steps specified in paragraphs 3 to 7 by the rate of levy calculated in accordance with Article 1 of the Council Regulation.
 
-**10.**[^key-e21c558b596a0691b8ae7368b3d1f288] Where, for any quota year, a purchaser is unable to supply such proof of the quantities of dairy produce delivered to him that year as the Department may reasonably require, the Department shall make its own determination of those quantities, based on all the information available to it, for the purposes of calculating any levy payable by that purchaser, and shall inform the purchaser of such determination.
+**10.**[^c-e21c558b596a0691b8ae7368b3d1f288] Where, for any quota year, a purchaser is unable to supply such proof of the quantities of dairy produce delivered to him that year as the Department may reasonably require, the Department shall make its own determination of those quantities, based on all the information available to it, for the purposes of calculating any levy payable by that purchaser, and shall inform the purchaser of such determination.
 
-**11.**[^key-24e983c821348d747f2a00e4f8556a97] Where a purchaser—
+**11.**[^c-24e983c821348d747f2a00e4f8556a97] Where a purchaser—
 
 - (a) has not been approved pursuant to regulation 25; or
 - (b) has had his approval withdrawn by the Department pursuant to Article 13(3) of the Commission Regulation,
 
 the Department may require any levy payable by that purchaser to be paid in such proportion as it may reasonably require by any producer whose wholesale deliveries to that purchaser have given rise to the liability for levy.
 
-### 12. Direct sales quota[^key-ba195f56a996f83eed048e75ea1551bc]
+### 12. Direct sales quota[^c-ba195f56a996f83eed048e75ea1551bc]
 
 The Department shall determine for each direct seller the amount, if any, after taking into account the amount of quota converted in accordance with regulation 17, by which his direct sales quota exceeds the quantity of dairy produce sold by direct sale by him, and shall add this to any quantities available in the national reserve.
 
-**13.**[^key-a59fa5b12f2039432978b733f9469714] The Department shall make an award of a temporary reallocation of direct sales quota, under the terms of regulation 15 from the aggregate of amounts, if any, referred to in paragraph 12.
+**13.**[^c-a59fa5b12f2039432978b733f9469714] The Department shall make an award of a temporary reallocation of direct sales quota, under the terms of regulation 15 from the aggregate of amounts, if any, referred to in paragraph 12.
 
-**14.**[^key-322d2186003b42eaec386f659d34ef76] The Department shall determine the aggregate amount, if any, by which the direct sales quota of all direct sellers falls short of the total quantity of dairy produce sold by direct sales by them, after taking into account the amount of quota converted in accordance with regulation 17, and any temporary reallocation made in accordance with paragraph 13.
+**14.**[^c-322d2186003b42eaec386f659d34ef76] The Department shall determine the aggregate amount, if any, by which the direct sales quota of all direct sellers falls short of the total quantity of dairy produce sold by direct sales by them, after taking into account the amount of quota converted in accordance with regulation 17, and any temporary reallocation made in accordance with paragraph 13.
 
-**15.**[^key-a3ece6734dfde38af2f41f0c3d07ea09] The Department shall determine for each direct seller the amount, if any, by which his direct sales quota falls short of the quantity of dairy produce sold by direct sale by him, taking into account the amount of quota converted in accordance with regulation 17, and any temporary reallocation of quota made in accordance with paragraph 13.
+**15.**[^c-a3ece6734dfde38af2f41f0c3d07ea09] The Department shall determine for each direct seller the amount, if any, by which his direct sales quota falls short of the quantity of dairy produce sold by direct sale by him, taking into account the amount of quota converted in accordance with regulation 17, and any temporary reallocation of quota made in accordance with paragraph 13.
 
-**16.**[^key-9a2accb134057800f975423b6b0b647a] The Department shall determine the aggregate of the amounts, if any, referred to in paragraph 15.
+**16.**[^c-9a2accb134057800f975423b6b0b647a] The Department shall determine the aggregate of the amounts, if any, referred to in paragraph 15.
 
-**17.**[^key-ba54d9ffa0758538ee4621d2133f51bc] The Department shall determine the total amount of the levy payable by multiplying the amount, if any, referred to in paragraph 14 by the rate of levy calculated in accordance with Article 1 of the Council Regulation.
+**17.**[^c-ba54d9ffa0758538ee4621d2133f51bc] The Department shall determine the total amount of the levy payable by multiplying the amount, if any, referred to in paragraph 14 by the rate of levy calculated in accordance with Article 1 of the Council Regulation.
 
-**18.**[^key-9cf6a560aeab7c3cd8bfa7d77ff5e8cc] The Department shall calculate the rate of levy per litre, if any, to be paid by each direct seller on the amount, if any, at paragraph 15 by dividing the amount calculated in accordance with paragraph 17 by the aggregate referred to in paragraph 16.
+**18.**[^c-9cf6a560aeab7c3cd8bfa7d77ff5e8cc] The Department shall calculate the rate of levy per litre, if any, to be paid by each direct seller on the amount, if any, at paragraph 15 by dividing the amount calculated in accordance with paragraph 17 by the aggregate referred to in paragraph 16.
 
-**19.**[^key-a2666fcfe5e6b8882dbd23dd6e8ded8e] Where a direct seller fails to notify the Department on or before 14th May immediately following the end of the quota year of the total quantity of milk products sold by him by direct sales in that year, the Department may require that the rate of levy per litre to be paid by that direct seller on the quantity not notified shall be the rate calculated in accordance with Article 1 of the Council Regulation.
+**19.**[^c-a2666fcfe5e6b8882dbd23dd6e8ded8e] Where a direct seller fails to notify the Department on or before 14th May immediately following the end of the quota year of the total quantity of milk products sold by him by direct sales in that year, the Department may require that the rate of levy per litre to be paid by that direct seller on the quantity not notified shall be the rate calculated in accordance with Article 1 of the Council Regulation.
 
-**20.**[^key-94a0867fd35e6b65db97af75ce70d287] Where for any quota year a direct seller is unable to supply such proof as the Department may reasonably require of the quantities of dairy produce sold by him in that year, the Department shall make its own determination of those quantities, based on all the information available to it, for the purposes of calculating any levy payable by that direct seller, and shall inform the direct seller of its determination.
+**20.**[^c-94a0867fd35e6b65db97af75ce70d287] Where for any quota year a direct seller is unable to supply such proof as the Department may reasonably require of the quantities of dairy produce sold by him in that year, the Department shall make its own determination of those quantities, based on all the information available to it, for the purposes of calculating any levy payable by that direct seller, and shall inform the direct seller of its determination.
 
 ## SCHEDULE 3 — Keeping and retention of records
 
 regulation 30
 
-### 1. Records to be kept by purchasers[^key-9e7394335d89b898be3d7ec9f0937303]
+### 1. Records to be kept by purchasers[^c-9e7394335d89b898be3d7ec9f0937303]
 
 In respect of each quota year, a purchaser shall keep, and retain for the relevant period, records comprising—
 
@@ -773,7 +773,7 @@ In respect of each quota year, a purchaser shall keep, and retain for the releva
 - (i) records of individual deliveries and accompanying collection documents identifying each delivery by producer, purchaser or other undertaking; and
 - (j) all books, registers, accounts, correspondence, commercial data, vouchers and supporting documents relating to his business activities.
 
-### 2. Records to be kept by producers[^key-a638a55419d9a12773d30816299a537b]
+### 2. Records to be kept by producers[^c-a638a55419d9a12773d30816299a537b]
 
 (1) In respect of each quota year, a direct seller shall keep, and retain for the relevant period, records comprising—
 
@@ -800,7 +800,7 @@ In respect of each quota year, a purchaser shall keep, and retain for the releva
 - (a) “milk recording scheme” means a scheme under which the amount of milk produced by a cow during a lactation is measured in terms of volume and compositional quality by a person independent of the producer; and
 - (b) “lactation” means the period commencing with calving and ending when the cow requires to be milked only once a day.
 
-**3.**[^key-acb2417426a47195d4f8c936fa2f7968] A producer, other than a direct seller, who makes wholesale deliveries to a purchaser shall, in respect of each quota year, keep, and retain for the relevant period, records comprising—
+**3.**[^c-acb2417426a47195d4f8c936fa2f7968] A producer, other than a direct seller, who makes wholesale deliveries to a purchaser shall, in respect of each quota year, keep, and retain for the relevant period, records comprising—
 
 - (a) details of the quota held by him, showing permanent and temporary transfers of quota if appropriate;
 - (b) his herd records (comprising number and breed of cows and calved heifers in dairy herd with details of number of cows in milk and number of cows dry);
@@ -815,7 +815,7 @@ In respect of each quota year, a purchaser shall keep, and retain for the releva
 - (k) details of quantities and types of milk and milk products purchased, swapped or otherwise received, and records relating to their disposal; and
 - (l) details of stocks of milk produced on his holding and any resulting milk products.
 
-### 4. Records to be kept by any person undertaking butterfat testing in a laboratory[^key-8da4626105526c735adcaaf2d87c1ac5]
+### 4. Records to be kept by any person undertaking butterfat testing in a laboratory[^c-8da4626105526c735adcaaf2d87c1ac5]
 
 Any person undertaking butterfat testing for a purchaser in a laboratory shall keep, and retain for the relevant period, records comprising details of all samples of milk analysed, showing—
 
@@ -828,7 +828,7 @@ Any person undertaking butterfat testing for a purchaser in a laboratory shall k
 - (g) the method of analysis used; and
 - (h) the results of any repeat analyses undertaken.
 
-### 5. Records to be kept by hauliers[^key-ff2a45ce3d5ff9a0d0fc4ff6cb351063]
+### 5. Records to be kept by hauliers[^c-ff2a45ce3d5ff9a0d0fc4ff6cb351063]
 
 Any haulier collecting milk or milk products on behalf of a purchaser shall keep, and retain for the relevant period, records comprising details of all quantities of milk or milk products so collected, showing—
 
@@ -841,7 +841,7 @@ Any haulier collecting milk or milk products on behalf of a purchaser shall keep
 - (g) the sources of all the milk carried on each tanker; and
 - (h) details of any malfunction in any equipment used by him.
 
-### 6. Records to be kept by processors[^key-ea434058902363a3b9115cd7dfac2e00]
+### 6. Records to be kept by processors[^c-ea434058902363a3b9115cd7dfac2e00]
 
 Any processor in receipt of milk or milk products for processing or treating shall keep, and retain for the relevant period, records comprising details of all quantities of milk or milk products received, showing—
 
@@ -854,7 +854,7 @@ Any processor in receipt of milk or milk products for processing or treating sha
 - (g) the calculated stocks of milk and milk products held by that processor at the end of each month and details of actual stocks physically held as at 31st March each year; and
 - (h) the quantities of milk or milk products sold or otherwise disposed of, with the date of supply or disposal, and the names and addresses of the buyers or recipients concerned.
 
-### 7. Records to be kept by persons buying, selling or supplying milk or milk products obtained directly from a producer or purchaser[^key-83cafd0b245b9bd7e9a9121d1dcb85ec]
+### 7. Records to be kept by persons buying, selling or supplying milk or milk products obtained directly from a producer or purchaser[^c-83cafd0b245b9bd7e9a9121d1dcb85ec]
 
 Any person buying, selling or supplying milk products obtained directly from a producer or purchaser shall keep, and retain for the relevant period, records comprising details of all quantities of milk or milk products received, showing—
 
@@ -865,12 +865,12 @@ Any person buying, selling or supplying milk products obtained directly from a p
 - (e) the quantities of milk or milk products sold or supplied, with the date of sale or supply, and the names and addresses of the buyers or recipients concerned; and
 - (f) the quantities of milk or milk products returned to the producer or purchaser unsold or unused, and the date of that return.
 
-**8.**[^key-9179b2f4cb18a55d412904bcee84bf9f] In this Schedule, in relation to any records—
+**8.**[^c-9179b2f4cb18a55d412904bcee84bf9f] In this Schedule, in relation to any records—
 
 - (a) “the relevant period” means the remainder of the year of record and a period of at least three calendar years thereafter; and
 - (b) “the remainder of the year of record” means, following the making of the records, the remainder of the year in which they were made.
 
-## SCHEDULE 4 — Revocations[^key-c359987949ac80272b30fb5f6d6c1476]
+## SCHEDULE 4 — Revocations[^c-c359987949ac80272b30fb5f6d6c1476]
 
 regulation 35
 
@@ -910,11 +910,11 @@ Apart from drafting changes and the replacement of spent provisions, the new pro
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-5780ed71db90e38d08e071974b5e1849]: Commencement: Reg. 1 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-5780ed71db90e38d08e071974b5e1849]: Commencement: Reg. 1 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-268b7c09364ec17afd89161529dedaf1]: Commencement: Reg. 2 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-268b7c09364ec17afd89161529dedaf1]: Commencement: Reg. 2 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-76a511f9b120b138136a9e20210dbe9c]: Commencement: Reg. 3 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-76a511f9b120b138136a9e20210dbe9c]: Commencement: Reg. 3 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
 [^f00003]: Footnote: [1949 c. 2 (N.I.)](https://www.legislation.gov.uk/apni/1949/2)
 
@@ -944,172 +944,172 @@ Apart from drafting changes and the replacement of spent provisions, the new pro
 
 [^f00016]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2940b2b254ab7a92201eafe996cf1d4f]: Commencement: Reg. 4 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-2940b2b254ab7a92201eafe996cf1d4f]: Commencement: Reg. 4 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-e40dc07d39d1dcdaa9151fd760caf605]: Commencement: Reg. 5 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-e40dc07d39d1dcdaa9151fd760caf605]: Commencement: Reg. 5 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-76a42ccb79285c08ff3c5dda904d73da]: Commencement: Reg. 6 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-76a42ccb79285c08ff3c5dda904d73da]: Commencement: Reg. 6 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-03e58dee62567438cbd49927bc92c23f]: Commencement: Reg. 7 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-03e58dee62567438cbd49927bc92c23f]: Commencement: Reg. 7 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-39ef13290860ac42ede19163b05943fc]: Commencement: Reg. 8 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-39ef13290860ac42ede19163b05943fc]: Commencement: Reg. 8 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-943a1a7b7ba965cd3f31930b3f7356d2]: Commencement: Reg. 9 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-943a1a7b7ba965cd3f31930b3f7356d2]: Commencement: Reg. 9 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-412dedb9a89c141110a0582a530b58db]: Commencement: Reg. 10 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-412dedb9a89c141110a0582a530b58db]: Commencement: Reg. 10 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-21789539b27fcff77846576fa74172d7]: Commencement: Reg. 11 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-21789539b27fcff77846576fa74172d7]: Commencement: Reg. 11 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-0c61aa237c9a6d96c2ab273a95dceb76]: Commencement: Reg. 12 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-0c61aa237c9a6d96c2ab273a95dceb76]: Commencement: Reg. 12 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
 [^f00017]: Footnote: S.I. [1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115)
 
 [^f00018]: Footnote: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48)
 
-[^key-c323af6d2b73290ec50e7c67227d0d27]: Commencement: Reg. 13 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-c323af6d2b73290ec50e7c67227d0d27]: Commencement: Reg. 13 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-ed93f5c50d111ce53f123a56c30419c5]: Commencement: Reg. 14 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-ed93f5c50d111ce53f123a56c30419c5]: Commencement: Reg. 14 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-ec735563053d2f0cccacfcb216786efa]: Commencement: Reg. 15 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-ec735563053d2f0cccacfcb216786efa]: Commencement: Reg. 15 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-a6e7e88ae3d0a83f0193e8c1bad1500f]: Commencement: Reg. 16 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-a6e7e88ae3d0a83f0193e8c1bad1500f]: Commencement: Reg. 16 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-83aa15ae4c82aa2e411a164d2cb64b4e]: Commencement: Reg. 17 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-83aa15ae4c82aa2e411a164d2cb64b4e]: Commencement: Reg. 17 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-ae7a8dde717566d612e3b3179d1c257e]: Commencement: Reg. 18 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-ae7a8dde717566d612e3b3179d1c257e]: Commencement: Reg. 18 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-ee517deae0fe4254dc787db696f04e26]: Commencement: Reg. 19 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-ee517deae0fe4254dc787db696f04e26]: Commencement: Reg. 19 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-8c59161f2135f2ac7628f078aa98d263]: Commencement: Reg. 20 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-8c59161f2135f2ac7628f078aa98d263]: Commencement: Reg. 20 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-2e96c04bfd263f350e54b1624a8a2a11]: Commencement: Reg. 21 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-2e96c04bfd263f350e54b1624a8a2a11]: Commencement: Reg. 21 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-d28222ae92acbc794fd4559067680014]: Commencement: Reg. 22 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-d28222ae92acbc794fd4559067680014]: Commencement: Reg. 22 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-2a5ee0c227df7619e383bb10bdd41f5b]: Commencement: Reg. 23 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-2a5ee0c227df7619e383bb10bdd41f5b]: Commencement: Reg. 23 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-bfb9fe75469b59429bb84fcc949ba189]: Commencement: Reg. 24 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-bfb9fe75469b59429bb84fcc949ba189]: Commencement: Reg. 24 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-60ebe4ee6d82b650032bae48db24de65]: Commencement: Reg. 25 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-60ebe4ee6d82b650032bae48db24de65]: Commencement: Reg. 25 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-f5f16c614a4895a67245c3bc981688a8]: Commencement: Reg. 26 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-f5f16c614a4895a67245c3bc981688a8]: Commencement: Reg. 26 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-d6a993e89f2669cc75c7fcc54d702428]: Commencement: Reg. 27 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-d6a993e89f2669cc75c7fcc54d702428]: Commencement: Reg. 27 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-6edb7646ae92716d3e53f7d9cd34853d]: Commencement: Reg. 28 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-6edb7646ae92716d3e53f7d9cd34853d]: Commencement: Reg. 28 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-d9264be587588c6606e7f9b6c1904385]: Commencement: Reg. 29 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-d9264be587588c6606e7f9b6c1904385]: Commencement: Reg. 29 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-e632701f0f4d41499b8804b081b85437]: Commencement: Reg. 30 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-e632701f0f4d41499b8804b081b85437]: Commencement: Reg. 30 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
 [^f00019]: Footnote: S.I. [1992/314](https://www.legislation.gov.uk/uksi/1992/314), as amended by S.I. [2001/3198](https://www.legislation.gov.uk/uksi/2001/3198) and S.I. [2001/3686](https://www.legislation.gov.uk/uksi/2001/3686)
 
-[^key-e91127b81162f1069dc7209cbe6dbdc5]: Commencement: Reg. 31 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-e91127b81162f1069dc7209cbe6dbdc5]: Commencement: Reg. 31 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-32310c48e9ca1442e44fd86b92b93da5]: Commencement: Reg. 32 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-32310c48e9ca1442e44fd86b92b93da5]: Commencement: Reg. 32 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-0d9bdfa7d8a6f59d585f0bacbdd62f42]: Commencement: Reg. 33 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-0d9bdfa7d8a6f59d585f0bacbdd62f42]: Commencement: Reg. 33 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-966dcaf294b496f13456c5a65abb2a49]: Commencement: Reg. 34 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-966dcaf294b496f13456c5a65abb2a49]: Commencement: Reg. 34 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-1c71800d629405ffba215dcf36b8c6ed]: Commencement: Reg. 35 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-1c71800d629405ffba215dcf36b8c6ed]: Commencement: Reg. 35 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
 [^f00020]: Footnote: S.I. [1997/733](https://www.legislation.gov.uk/uksi/1997/733), as amended by S.I. [1997/1093](https://www.legislation.gov.uk/uksi/1997/1093), S.I. [1998/2880](https://www.legislation.gov.uk/uksi/1998/2880), [S.R. 2000 No. 83](https://www.legislation.gov.uk/nisr/2000/83) and [S.R. 2001 No. 27](https://www.legislation.gov.uk/nisr/2001/27)
 
-[^key-c53d253657378a74ec407956bcab69cf]: Commencement: Sch. 1 para. 1 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-c53d253657378a74ec407956bcab69cf]: Commencement: Sch. 1 para. 1 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-7593a02414c3dc1cefc32417fa572e29]: Commencement: Sch. 1 para. 2 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-7593a02414c3dc1cefc32417fa572e29]: Commencement: Sch. 1 para. 2 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
 [^f00021]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23)
 
-[^key-29d13922bd97fd618ac47ee5c5601724]: Commencement: Sch. 1 para. 3 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-29d13922bd97fd618ac47ee5c5601724]: Commencement: Sch. 1 para. 3 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-1ee852ee096a2487fef950f97dd06050]: Commencement: Sch. 1 para. 4 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-1ee852ee096a2487fef950f97dd06050]: Commencement: Sch. 1 para. 4 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-68830cb05aa200c64e64dd183484f00c]: Commencement: Sch. 1 para. 5 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-68830cb05aa200c64e64dd183484f00c]: Commencement: Sch. 1 para. 5 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-625af536194890168eb98490f214475a]: Commencement: Sch. 1 para. 6 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-625af536194890168eb98490f214475a]: Commencement: Sch. 1 para. 6 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-8fbf25b97ca2901880bad18d3568e7b0]: Commencement: Sch. 1 para. 7 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-8fbf25b97ca2901880bad18d3568e7b0]: Commencement: Sch. 1 para. 7 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-ebdcc3d0314a98a256e3ba85f7080728]: Commencement: Sch. 1 para. 8 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-ebdcc3d0314a98a256e3ba85f7080728]: Commencement: Sch. 1 para. 8 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-615e03b8f089dad47e9eebce52356daf]: Commencement: Sch. 1 para. 9 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-615e03b8f089dad47e9eebce52356daf]: Commencement: Sch. 1 para. 9 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-16ae4a121265abf34a39486a34d1df68]: Commencement: Sch. 1 para. 10 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-16ae4a121265abf34a39486a34d1df68]: Commencement: Sch. 1 para. 10 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-946d91c45f1ad13d4ecb5a5214923991]: Commencement: Sch. 1 para. 11 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-946d91c45f1ad13d4ecb5a5214923991]: Commencement: Sch. 1 para. 11 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-8955c734250250828ab4892582f66556]: Commencement: Sch. 1 para. 12 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-8955c734250250828ab4892582f66556]: Commencement: Sch. 1 para. 12 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-0cef6fbaf7148769d00086b73304f29e]: Commencement: Sch. 1 para. 13 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-0cef6fbaf7148769d00086b73304f29e]: Commencement: Sch. 1 para. 13 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-b458ac20e2be23b86246947f0b184c40]: Commencement: Sch. 1 para. 14 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-b458ac20e2be23b86246947f0b184c40]: Commencement: Sch. 1 para. 14 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-203a4f80494f79601d247a9b6e16b9d6]: Commencement: Sch. 1 para. 15 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-203a4f80494f79601d247a9b6e16b9d6]: Commencement: Sch. 1 para. 15 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-92fda7f98c385ba7f71c787ce4256b9c]: Commencement: Sch. 1 para. 16 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-92fda7f98c385ba7f71c787ce4256b9c]: Commencement: Sch. 1 para. 16 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-8850f23a7c1b5968ad6b2fba76903fac]: Commencement: Sch. 1 para. 17 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-8850f23a7c1b5968ad6b2fba76903fac]: Commencement: Sch. 1 para. 17 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-0d56dae449ef27f569d6c516452b6e2d]: Commencement: Sch. 1 para. 18 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-0d56dae449ef27f569d6c516452b6e2d]: Commencement: Sch. 1 para. 18 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-9f7a1c680c3aa7092cd524db91b4795b]: Commencement: Sch. 1 para. 19 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-9f7a1c680c3aa7092cd524db91b4795b]: Commencement: Sch. 1 para. 19 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-f543cac26da26332a3ac4fc346f43fbb]: Commencement: Sch. 2 para. 1 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-f543cac26da26332a3ac4fc346f43fbb]: Commencement: Sch. 2 para. 1 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-41383e1abd3259939654a71f9e2fb50e]: Commencement: Sch. 2 para. 2 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-41383e1abd3259939654a71f9e2fb50e]: Commencement: Sch. 2 para. 2 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-b942bcbda516b8012545af5c432c8549]: Commencement: Sch. 2 para. 3 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-b942bcbda516b8012545af5c432c8549]: Commencement: Sch. 2 para. 3 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-a1efd4ce6e0cdcf16c6b4e228e3f05e2]: Commencement: Sch. 2 para. 4 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-a1efd4ce6e0cdcf16c6b4e228e3f05e2]: Commencement: Sch. 2 para. 4 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-7fd4a936a054dffe632d8f8580c4620e]: Commencement: Sch. 2 para. 5 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-7fd4a936a054dffe632d8f8580c4620e]: Commencement: Sch. 2 para. 5 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-362b4317010eabd03d40960547a2a697]: Commencement: Sch. 2 para. 6 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-362b4317010eabd03d40960547a2a697]: Commencement: Sch. 2 para. 6 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-022e98c7157ca6527917b80281cf87e8]: Commencement: Sch. 2 para. 7 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-022e98c7157ca6527917b80281cf87e8]: Commencement: Sch. 2 para. 7 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-91336d1faef428461e63d582f4e688f6]: Commencement: Sch. 2 para. 8 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-91336d1faef428461e63d582f4e688f6]: Commencement: Sch. 2 para. 8 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-2b308945b0d2832d83c8a0555c035b61]: Commencement: Sch. 2 para. 9 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-2b308945b0d2832d83c8a0555c035b61]: Commencement: Sch. 2 para. 9 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-e21c558b596a0691b8ae7368b3d1f288]: Commencement: Sch. 2 para. 10 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-e21c558b596a0691b8ae7368b3d1f288]: Commencement: Sch. 2 para. 10 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-24e983c821348d747f2a00e4f8556a97]: Commencement: Sch. 2 para. 11 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-24e983c821348d747f2a00e4f8556a97]: Commencement: Sch. 2 para. 11 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-ba195f56a996f83eed048e75ea1551bc]: Commencement: Sch. 2 para. 12 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-ba195f56a996f83eed048e75ea1551bc]: Commencement: Sch. 2 para. 12 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-a59fa5b12f2039432978b733f9469714]: Commencement: Sch. 2 para. 13 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-a59fa5b12f2039432978b733f9469714]: Commencement: Sch. 2 para. 13 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-322d2186003b42eaec386f659d34ef76]: Commencement: Sch. 2 para. 14 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-322d2186003b42eaec386f659d34ef76]: Commencement: Sch. 2 para. 14 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-a3ece6734dfde38af2f41f0c3d07ea09]: Commencement: Sch. 2 para. 15 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-a3ece6734dfde38af2f41f0c3d07ea09]: Commencement: Sch. 2 para. 15 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-9a2accb134057800f975423b6b0b647a]: Commencement: Sch. 2 para. 16 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-9a2accb134057800f975423b6b0b647a]: Commencement: Sch. 2 para. 16 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-ba54d9ffa0758538ee4621d2133f51bc]: Commencement: Sch. 2 para. 17 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-ba54d9ffa0758538ee4621d2133f51bc]: Commencement: Sch. 2 para. 17 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-9cf6a560aeab7c3cd8bfa7d77ff5e8cc]: Commencement: Sch. 2 para. 18 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-9cf6a560aeab7c3cd8bfa7d77ff5e8cc]: Commencement: Sch. 2 para. 18 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-a2666fcfe5e6b8882dbd23dd6e8ded8e]: Commencement: Sch. 2 para. 19 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-a2666fcfe5e6b8882dbd23dd6e8ded8e]: Commencement: Sch. 2 para. 19 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-94a0867fd35e6b65db97af75ce70d287]: Commencement: Sch. 2 para. 20 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-94a0867fd35e6b65db97af75ce70d287]: Commencement: Sch. 2 para. 20 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-9e7394335d89b898be3d7ec9f0937303]: Commencement: Sch. 3 para. 1 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-9e7394335d89b898be3d7ec9f0937303]: Commencement: Sch. 3 para. 1 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-a638a55419d9a12773d30816299a537b]: Commencement: Sch. 3 para. 2 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-a638a55419d9a12773d30816299a537b]: Commencement: Sch. 3 para. 2 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-acb2417426a47195d4f8c936fa2f7968]: Commencement: Sch. 3 para. 3 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-acb2417426a47195d4f8c936fa2f7968]: Commencement: Sch. 3 para. 3 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-8da4626105526c735adcaaf2d87c1ac5]: Commencement: Sch. 3 para. 4 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-8da4626105526c735adcaaf2d87c1ac5]: Commencement: Sch. 3 para. 4 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-ff2a45ce3d5ff9a0d0fc4ff6cb351063]: Commencement: Sch. 3 para. 5 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-ff2a45ce3d5ff9a0d0fc4ff6cb351063]: Commencement: Sch. 3 para. 5 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-ea434058902363a3b9115cd7dfac2e00]: Commencement: Sch. 3 para. 6 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-ea434058902363a3b9115cd7dfac2e00]: Commencement: Sch. 3 para. 6 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-83cafd0b245b9bd7e9a9121d1dcb85ec]: Commencement: Sch. 3 para. 7 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-83cafd0b245b9bd7e9a9121d1dcb85ec]: Commencement: Sch. 3 para. 7 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-9179b2f4cb18a55d412904bcee84bf9f]: Commencement: Sch. 3 para. 8 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-9179b2f4cb18a55d412904bcee84bf9f]: Commencement: Sch. 3 para. 8 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
 
-[^key-c359987949ac80272b30fb5f6d6c1476]: Commencement: Sch. 4 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)
+[^c-c359987949ac80272b30fb5f6d6c1476]: Commencement: Sch. 4 in operation at 31.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 231. Penalty[^key-9c0e0c8ac8b0a285048129eafc4a3aad]
+## 231. Penalty[^c-9c0e0c8ac8b0a285048129eafc4a3aad]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c0e0c8ac8b0a285048129eafc4a3aad]: Commencement: [S. 231](https://www.legislation.gov.uk/asp/2014/16/section/231) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-9c0e0c8ac8b0a285048129eafc4a3aad]: Commencement: [S. 231](https://www.legislation.gov.uk/asp/2014/16/section/231) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

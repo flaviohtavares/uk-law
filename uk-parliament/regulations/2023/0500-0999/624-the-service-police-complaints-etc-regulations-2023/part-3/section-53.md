@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Procedure for interviews of witnesses who are members of the service police forces during certain investigations[^key-f5fd23e058298118e5a79b284e4055fd]
+## 53. Procedure for interviews of witnesses who are members of the service police forces during certain investigations[^c-f5fd23e058298118e5a79b284e4055fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5fd23e058298118e5a79b284e4055fd]: Commencement: Reg. 53 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-f5fd23e058298118e5a79b284e4055fd]: Commencement: Reg. 53 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

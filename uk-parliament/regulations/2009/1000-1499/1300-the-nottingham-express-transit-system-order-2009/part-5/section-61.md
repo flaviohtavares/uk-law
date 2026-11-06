@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Penalty fares[^key-b583511925f40035f45112b70d6a5712]
+## 61. Penalty fares[^c-b583511925f40035f45112b70d6a5712]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b583511925f40035f45112b70d6a5712]: Commencement: Art. 61 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-b583511925f40035f45112b70d6a5712]: Commencement: Art. 61 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Exclusion of associate pupil governors from meetings[^key-3944a40d75d34f97dd1e9d1455bb0de5]
+## 56. Exclusion of associate pupil governors from meetings[^c-3944a40d75d34f97dd1e9d1455bb0de5]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ The governing body must exclude associate pupil governors from any governing bod
 
 ## Annotations
 
-[^key-3944a40d75d34f97dd1e9d1455bb0de5]: Commencement: Reg. 56 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-3944a40d75d34f97dd1e9d1455bb0de5]: Commencement: Reg. 56 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

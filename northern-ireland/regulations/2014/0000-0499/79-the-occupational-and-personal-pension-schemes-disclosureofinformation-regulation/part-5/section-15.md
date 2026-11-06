@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Summary funding statements[^key-90314b6e780efd40f93a1bd06bb74287]
+## 15. Summary funding statements[^c-90314b6e780efd40f93a1bd06bb74287]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90314b6e780efd40f93a1bd06bb74287]: Commencement: Reg. 15 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-90314b6e780efd40f93a1bd06bb74287]: Commencement: Reg. 15 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)

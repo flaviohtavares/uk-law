@@ -32,7 +32,7 @@ summary: ''
 
 Seeds
 
-The Seed Potatoes (Fees) (Scotland) Amendment Regulations 2011 (revoked)[^key-684992620f13ff09a4a98e452c147fec]
+The Seed Potatoes (Fees) (Scotland) Amendment Regulations 2011 (revoked)[^c-684992620f13ff09a4a98e452c147fec]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st January 2012
 
-[^key-684992620f13ff09a4a98e452c147fec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-684992620f13ff09a4a98e452c147fec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-684992620f13ff09a4a98e452c147fec]
+## 1. Citation and commencement[^c-684992620f13ff09a4a98e452c147fec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Seed Potatoes (Fees) (Scotland) Regulations 2009[^key-684992620f13ff09a4a98e452c147fec]
+## 2. Amendment to the Seed Potatoes (Fees) (Scotland) Regulations 2009[^c-684992620f13ff09a4a98e452c147fec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-684992620f13ff09a4a98e452c147fec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-684992620f13ff09a4a98e452c147fec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-684992620f13ff09a4a98e452c147fec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-684992620f13ff09a4a98e452c147fec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-684992620f13ff09a4a98e452c147fec]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/414) revoked (1.1.2016) by [The Seed Potatoes (Fees) (Scotland) Regulations 2015 (S.S.I. 2015/396)](https://www.legislation.gov.uk/ssi/2015/396), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/396/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2015/396/regulation/7)
+[^c-684992620f13ff09a4a98e452c147fec]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/414) revoked (1.1.2016) by [The Seed Potatoes (Fees) (Scotland) Regulations 2015 (S.S.I. 2015/396)](https://www.legislation.gov.uk/ssi/2015/396), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/396/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2015/396/regulation/7)

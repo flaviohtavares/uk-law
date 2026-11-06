@@ -35,7 +35,7 @@ An Act to provide for the application of the Royal Warrant as to pensions, etc.,
 
 ## 1. Power to apply Royal Warrant as to pensions etc. to certain Polish forces.[^c5914251]
 
-(1)[^key-37c4dfb5123a0915143dff2803e6fcc8] The Minister of Pensions may, with the consent of the Treasury, make a scheme for applying, in relation to the disablement or death, in consequence of service under British command of members of—
+(1)[^c-37c4dfb5123a0915143dff2803e6fcc8] The Minister of Pensions may, with the consent of the Treasury, make a scheme for applying, in relation to the disablement or death, in consequence of service under British command of members of—
 
 - (a) the Polish naval detachment mentioned in the agreement made between His Majesty’s Government in the United Kingdom and the Government of Poland on the eighteenth day of November, nineteen hundred and thirty-nine,
 - (b) the Polish armed forces organised and employed under British command in pursuance of the agreement made as aforesaid on the fifth day of August, nineteen hundred and forty,
@@ -47,7 +47,7 @@ Provided that payments under a scheme made under this section shall be limited t
 
 (2) The scheme may also include provision, as regards cases in which periodical payments in respect of the disablement or death of members of Polish forces not falling within paragraph (*a*), (*b*) or (*c*) of the preceding subsection are being made out of moneys provided by Parliament at the date of the coming into operation of that provision, for the continuance of any of those payments during a period not longer than one year from that date.
 
-(3) Provisions of the said Royal Warrant applied by the scheme may be applied with modifications, or subject to conditions, limitations or exceptions(including exceptions applying by virtue of a person's residence in Poland at any time prior to 1 May 2004)[^key-86eb8296b53750c229bee64ebce60e2e].
+(3) Provisions of the said Royal Warrant applied by the scheme may be applied with modifications, or subject to conditions, limitations or exceptions(including exceptions applying by virtue of a person's residence in Poland at any time prior to 1 May 2004)[^c-86eb8296b53750c229bee64ebce60e2e].
 
 (4) The scheme, or any substituted scheme made under this subsection, may be amended by an order made by the Minister of Pensions with the consent of the Treasury, and, if it appears to him to be expedient, having regard to amendments made or to be made in any such scheme, that a new scheme should be substituted therefor, he may, with the consent of the Treasury, make a substituted scheme and thereby revoke the former scheme.
 
@@ -65,7 +65,7 @@ Provided that payments under a scheme made under this section shall be limited t
 
 - (a) Poles whose registration under the Aliens Order,[^m00001]1920, took place on or after the first day of September, nineteen hundred and thirty-nine, and who have been permitted to enter, or to remain in, the United Kingdom in view of circumstances attributable to war, as to which, in case of doubt, a certificate of the Secretary of State shall be conclusive;
 - (b) former members of any of the forces mentioned in subsection (1) of section one of this Act (including the naval detachment therein mentioned), and members of any of those forces relegated from service therewith;
-- (c) wives or civil partners of persons[^key-870cef68594370516d7ec7f51d5ed921] of categories (*a*) and (*b*), and any person[^key-5fba90904a77d64f605870790878d335] who, having been the wife or civil partner of a person[^key-cafb0d8d49b28e1b43621ce64b3caf56] of either of those categories, has ceased to be, and has not subsequently married or formed a civil partnership[^key-471e22595e94ecb37950f1bb95ad4002];
+- (c) wives or civil partners of persons[^c-870cef68594370516d7ec7f51d5ed921] of categories (*a*) and (*b*), and any person[^c-5fba90904a77d64f605870790878d335] who, having been the wife or civil partner of a person[^c-cafb0d8d49b28e1b43621ce64b3caf56] of either of those categories, has ceased to be, and has not subsequently married or formed a civil partnership[^c-471e22595e94ecb37950f1bb95ad4002];
 - (d) persons who have been permitted to enter the United Kingdom on or after the first day of September, nineteen hundred and thirty-nine, as being followers of a body of Polish forces entering the United Kingdom and dependent thereon or on members thereof, as to which, in case of doubt, a certificate of the Secretary of State shall be conclusive.
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5914281]
@@ -142,11 +142,11 @@ Provided that payments under a scheme made under this section shall be limited t
 
 ## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5914991]
 
-## 6. Provision by the Minister of Education of educational services.[^key-69955f93b68c987cef1f93f66687c7b6][^c5915011][^c5915021][^c5915001]
+## 6. Provision by the Minister of Education of educational services.[^c-69955f93b68c987cef1f93f66687c7b6][^c5915011][^c5915021][^c5915001]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Arrangements by the Minister of Labour and National Service for emigration.[^key-c9ebeb8e7ef40f3c126d2d4df447e8b5][^c5915081][^c5915071]
+## 7. Arrangements by the Minister of Labour and National Service for emigration.[^c-c9ebeb8e7ef40f3c126d2d4df447e8b5][^c5915081][^c5915071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -173,9 +173,9 @@ Provided that payments under a scheme made under this section shall be limited t
 (3) Section four shall have effect as if there were substituted—
 
 - (a) for any reference to the Minister of Health a reference to the Secretary of State; and
-- (b) in subsection (1) for the reference to the [^c5915131]National Health Service Act, 1946, a reference to [^c5915151]the National Health Service (Scotland) Acts 1947 to 1972[^c5915141] the National Health Service (Scotland) Act 1978; for the reference to the Mental Health Act 1983[^c5915171], a reference to Mental Health (Care and Treatment) (Scotland) Act 2003[^key-36c28448c62ca8167648bc50c7c7118d]; and for the reference to “local health authorities” a reference to “local authorities.”
+- (b) in subsection (1) for the reference to the [^c5915131]National Health Service Act, 1946, a reference to [^c5915151]the National Health Service (Scotland) Acts 1947 to 1972[^c5915141] the National Health Service (Scotland) Act 1978; for the reference to the Mental Health Act 1983[^c5915171], a reference to Mental Health (Care and Treatment) (Scotland) Act 2003[^c-36c28448c62ca8167648bc50c7c7118d]; and for the reference to “local health authorities” a reference to “local authorities.”
 
-(4)[^key-dd91a8043178477229e840fcf9f958a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-dd91a8043178477229e840fcf9f958a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In the application of the Schedule to Scotland—
 
@@ -230,9 +230,9 @@ This Act may be cited as the Polish Resettlement Act, 1947.
 
 [^c5914251]: Modification: S. 1 amended by [S.I. 1978/1526](https://www.legislation.gov.uk/uksi/1978/1526), [art. 2](https://www.legislation.gov.uk/uksi/1978/1526/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1978/1526/schedule/part/I)
 
-[^key-37c4dfb5123a0915143dff2803e6fcc8]: Textual amendment: Words in s. 1(1) inserted (15.4.2005 for specified purposes, 5.12.2005 in so far as not already in force) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 17](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/17); [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-37c4dfb5123a0915143dff2803e6fcc8]: Textual amendment: Words in s. 1(1) inserted (15.4.2005 for specified purposes, 5.12.2005 in so far as not already in force) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 17](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/17); [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-86eb8296b53750c229bee64ebce60e2e]: Textual amendment: Words in [s. 1(3)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/19/section/1/3) substituted (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 139](https://www.legislation.gov.uk/ukpga/2008/30/section/139), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/d)
+[^c-86eb8296b53750c229bee64ebce60e2e]: Textual amendment: Words in [s. 1(3)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/19/section/1/3) substituted (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 139](https://www.legislation.gov.uk/ukpga/2008/30/section/139), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/d)
 
 [^c5914261]: Marginal citation: [1893 c. 66](https://www.legislation.gov.uk/ukpga/1893/66).
 
@@ -244,13 +244,13 @@ This Act may be cited as the Polish Resettlement Act, 1947.
 
 [^m00001]: Marginal citation: S.R. & O. 1920/448.
 
-[^key-870cef68594370516d7ec7f51d5ed921]: Textual amendment: Words in s. 2(2)(c) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 18(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/18/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-870cef68594370516d7ec7f51d5ed921]: Textual amendment: Words in s. 2(2)(c) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 18(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/18/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-5fba90904a77d64f605870790878d335]: Textual amendment: Words in s. 2(2)(c) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 18(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/18/b); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-5fba90904a77d64f605870790878d335]: Textual amendment: Words in s. 2(2)(c) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 18(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/18/b); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-cafb0d8d49b28e1b43621ce64b3caf56]: Textual amendment: Words in s. 2(2)(c) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 18(c)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/18/c); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-cafb0d8d49b28e1b43621ce64b3caf56]: Textual amendment: Words in s. 2(2)(c) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 18(c)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/18/c); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-471e22595e94ecb37950f1bb95ad4002]: Textual amendment: Words in s. 2(2)(c) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 18(d)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/18/d); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-471e22595e94ecb37950f1bb95ad4002]: Textual amendment: Words in s. 2(2)(c) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 18(d)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/18/d); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c5914341]: Editorial: S. 3 above extends to England and Wales and Scotland only. Next following s. 3 extends to Northern Ireland only
 
@@ -340,7 +340,7 @@ This Act may be cited as the Polish Resettlement Act, 1947.
 
 [^c5914991]: Textual amendment: Ss. 5, 8, 9, 12(2) repealed by Statute Law Revision Act [1953 c. 5 (2 & 3 Eliz. 2)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/5)
 
-[^key-69955f93b68c987cef1f93f66687c7b6]: Textual amendment: S. 6 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-69955f93b68c987cef1f93f66687c7b6]: Textual amendment: S. 6 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
 [^c5915011]: Modification: “the Assistance Board” means the National Assistance Board
 
@@ -348,7 +348,7 @@ This Act may be cited as the Polish Resettlement Act, 1947.
 
 [^c5915001]: Modification: Functions of Minister of Education now exercisable by Secretary of State for Education and Science: [S.I. 1964/490](https://www.legislation.gov.uk/uksi/1964/490)
 
-[^key-c9ebeb8e7ef40f3c126d2d4df447e8b5]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Geo6/10-11/19/section/7) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-c9ebeb8e7ef40f3c126d2d4df447e8b5]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Geo6/10-11/19/section/7) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
 
 [^c5915081]: Modification: “the Assistance Board” means the National Assistance Board
 
@@ -372,9 +372,9 @@ This Act may be cited as the Polish Resettlement Act, 1947.
 
 [^c5915171]: Textual amendment: Words substituted by virtue of [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [s. 148](https://www.legislation.gov.uk/ukpga/1983/20/section/148), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/1983/20/schedule/4/paragraph/8)
 
-[^key-36c28448c62ca8167648bc50c7c7118d]: Textual amendment: Words in s. 11(3)(b) substituted (27.9.2005) by [Mental Health (Care and Treatment0 (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/1/2)
+[^c-36c28448c62ca8167648bc50c7c7118d]: Textual amendment: Words in s. 11(3)(b) substituted (27.9.2005) by [Mental Health (Care and Treatment0 (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/1/2)
 
-[^key-dd91a8043178477229e840fcf9f958a7]: Textual amendment: S. 11(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-dd91a8043178477229e840fcf9f958a7]: Textual amendment: S. 11(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
 [^c5915221]: Marginal citation: [1930 c. 17](https://www.legislation.gov.uk/ukpga/1930/17).
 

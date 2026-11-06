@@ -22,8 +22,8 @@ summary: ''
 
 Section 49.
 
-**....**[^key-5574379371b299b9775f84251b5453fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-5574379371b299b9775f84251b5453fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5574379371b299b9775f84251b5453fd]: Textual amendment: Sch. 5 repealed (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-5574379371b299b9775f84251b5453fd]: Textual amendment: Sch. 5 repealed (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Exception for provision of certain benefits based on length of service[^key-f0279c1f927da711db721b7d3ff844ad]
+## 34. Exception for provision of certain benefits based on length of service[^c-f0279c1f927da711db721b7d3ff844ad]
 
 *Extent: N.I.*
 
@@ -41,10 +41,10 @@ and on each occasion on which he decides to use the criterion of length of servi
 
 (5) For the purposes of paragraph (3)(b), a worker shall be treated as having worked for A during any period during which he worked for another if—
 
-- (a) that period is treated as a period of employment with A for the purposes of the 1996 Order by virtue of the operation of Article 14 of that Order; [^key-294810df189a2ab56f9276a1d5b961c7]...
-- (b) were the worker to be made redundant by A, that period and the period he has worked for A would amount to “relevant service” within the meaning of Article 190 of the 1996 Order[^key-54044c18df49bc2d77cde9009fcff17f]...
+- (a) that period is treated as a period of employment with A for the purposes of the 1996 Order by virtue of the operation of Article 14 of that Order; [^c-294810df189a2ab56f9276a1d5b961c7]...
+- (b) were the worker to be made redundant by A, that period and the period he has worked for A would amount to “relevant service” within the meaning of Article 190 of the 1996 Order[^c-54044c18df49bc2d77cde9009fcff17f]...
 
-  ; or[^key-4455a813d17eff02db14d40016fedb06]
+  ; or[^c-4455a813d17eff02db14d40016fedb06]
 - (c) in any case to which sub-paragraph (a) or (b) does not apply, that period is treated as a period of employment with A by or under an enactment pursuant to which his employment was transferred to A.
 
 (6) In paragraph (5)—
@@ -56,12 +56,12 @@ and on each occasion on which he decides to use the criterion of length of servi
 
 ## Annotations
 
-[^key-f0279c1f927da711db721b7d3ff844ad]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2006/261/regulation/34) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-f0279c1f927da711db721b7d3ff844ad]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2006/261/regulation/34) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-294810df189a2ab56f9276a1d5b961c7]: Textual amendment: Word in [reg. 34(5)(a)](https://www.legislation.gov.uk/nisr/2006/261/regulation/34/5/a) omitted (11.1.2010) by virtue of [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/425)](https://www.legislation.gov.uk/nisr/2009/425), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/425/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2009/425/regulation/2/a)
+[^c-294810df189a2ab56f9276a1d5b961c7]: Textual amendment: Word in [reg. 34(5)(a)](https://www.legislation.gov.uk/nisr/2006/261/regulation/34/5/a) omitted (11.1.2010) by virtue of [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/425)](https://www.legislation.gov.uk/nisr/2009/425), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/425/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2009/425/regulation/2/a)
 
-[^key-54044c18df49bc2d77cde9009fcff17f]: Textual amendment: [Reg. 34(5)(b)](https://www.legislation.gov.uk/nisr/2006/261/regulation/34/5/b) full stop repealed (11.1.2010) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/425)](https://www.legislation.gov.uk/nisr/2009/425), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/425/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2009/425/regulation/2/b)
+[^c-54044c18df49bc2d77cde9009fcff17f]: Textual amendment: [Reg. 34(5)(b)](https://www.legislation.gov.uk/nisr/2006/261/regulation/34/5/b) full stop repealed (11.1.2010) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/425)](https://www.legislation.gov.uk/nisr/2009/425), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/425/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2009/425/regulation/2/b)
 
-[^key-4455a813d17eff02db14d40016fedb06]: Textual amendment: [Reg. 34(5)(c)](https://www.legislation.gov.uk/nisr/2006/261/regulation/34/5/c) and word added (11.1.2010) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/425)](https://www.legislation.gov.uk/nisr/2009/425), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/425/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2009/425/regulation/2/b)
+[^c-4455a813d17eff02db14d40016fedb06]: Textual amendment: [Reg. 34(5)(c)](https://www.legislation.gov.uk/nisr/2006/261/regulation/34/5/c) and word added (11.1.2010) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/425)](https://www.legislation.gov.uk/nisr/2009/425), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/425/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2009/425/regulation/2/b)
 
 [^f00028]: Footnote: [S.R. 1999 No. 409](https://www.legislation.gov.uk/nisr/1999/409): *see* paragraph 2 of Part I of Schedule 2

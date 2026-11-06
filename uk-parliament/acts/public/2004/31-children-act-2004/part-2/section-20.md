@@ -37,7 +37,7 @@ summary: ''
 - (b) [^c20896291]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) [^c20896291]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d)[^c20898881] the Care Quality Commission;
-- (e)[^key-b0fdfe6a91cf1318e4c04d0d090cd741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-b0fdfe6a91cf1318e4c04d0d090cd741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) the chief inspector of constabulary;
 - (g)[^c20898871] Her Majesty's Chief Inspector of Probation for England and Wales
 - (h)[^M_F_a5d4b900-ed3b-48a0-906e-eaa5797e89d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -76,7 +76,7 @@ summary: ''
 
 [^c20898881]: Textual amendment: S. 20(4)(d) substituted (1.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 95](https://www.legislation.gov.uk/ukpga/2008/14/section/95), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170), [Sch. 5 para. 78](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/78); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2](https://www.legislation.gov.uk/uksi/2009/462/article/2), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35)
 
-[^key-b0fdfe6a91cf1318e4c04d0d090cd741]: Textual amendment: S. 20(4)(e) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 68](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/68); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-b0fdfe6a91cf1318e4c04d0d090cd741]: Textual amendment: S. 20(4)(e) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 68](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/68); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
 [^c20898871]: Textual amendment: Words in s. 20(4)(g) substituted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 3](https://www.legislation.gov.uk/uksi/2008/912/article/3), [Sch. 1 para. 27(2)(f)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/27/2/f)
 

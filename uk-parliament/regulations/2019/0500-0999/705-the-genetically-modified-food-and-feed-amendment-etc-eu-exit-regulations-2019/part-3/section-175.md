@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175.[^key-c228e4ee6ca02a479f3fdf05fbe73c19]
+## 175.[^c-c228e4ee6ca02a479f3fdf05fbe73c19]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 5, omit “EU”.
 
 ## Annotations
 
-[^key-c228e4ee6ca02a479f3fdf05fbe73c19]: Commencement: Reg. 175 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c228e4ee6ca02a479f3fdf05fbe73c19]: Commencement: Reg. 175 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

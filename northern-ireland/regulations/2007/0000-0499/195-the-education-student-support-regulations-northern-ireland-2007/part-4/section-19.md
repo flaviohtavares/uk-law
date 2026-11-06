@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Standard entitlement of current system students who have not studied on a previous course[^key-993dabfbaf004316b4c49c2c501fa2f9]
+## 19. Standard entitlement of current system students who have not studied on a previous course[^c-993dabfbaf004316b4c49c2c501fa2f9]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ where
 
 ## Annotations
 
-[^key-993dabfbaf004316b4c49c2c501fa2f9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2007/195/regulation/19) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-993dabfbaf004316b4c49c2c501fa2f9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2007/195/regulation/19) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

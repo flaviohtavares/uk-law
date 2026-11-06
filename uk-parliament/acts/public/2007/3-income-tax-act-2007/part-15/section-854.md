@@ -30,8 +30,8 @@ summary: ''
 - (a) in relation to all deposits which are relevant investments, or
 - (b) in relation to deposits which are relevant investments of a kind specified in the order.
 
-(3) If a person is prescribed only in relation to deposits which are relevant investments of a kind specified in the order, the reference in section 876(1)(b)[^key-039e5985fc450956c54e356f63e9c692] to “relevant investment” is to be read as a reference only to relevant investments of the kind so specified.
+(3) If a person is prescribed only in relation to deposits which are relevant investments of a kind specified in the order, the reference in section 876(1)(b)[^c-039e5985fc450956c54e356f63e9c692] to “relevant investment” is to be read as a reference only to relevant investments of the kind so specified.
 
 ## Annotations
 
-[^key-039e5985fc450956c54e356f63e9c692]: Textual amendment: Word in s. 854(3) substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/8)
+[^c-039e5985fc450956c54e356f63e9c692]: Textual amendment: Word in s. 854(3) substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/8)

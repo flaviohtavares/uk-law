@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Transitional provision[^key-8c2cc2245dd3fc26e60980f760e2f76d]
+## 75. Transitional provision[^c-8c2cc2245dd3fc26e60980f760e2f76d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 5 makes provision about tenancies which are assured tenancies within th
 
 ## Annotations
 
-[^key-8c2cc2245dd3fc26e60980f760e2f76d]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2016/19/section/75) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2017/346/regulation/6))
+[^c-8c2cc2245dd3fc26e60980f760e2f76d]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2016/19/section/75) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2017/346/regulation/6))

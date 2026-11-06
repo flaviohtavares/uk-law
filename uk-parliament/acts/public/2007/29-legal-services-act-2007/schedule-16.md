@@ -36,7 +36,7 @@ Section 177
   >
   > - (d) by any other person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which is a reserved legal activity (within the meaning of that Act).
 
-**3.**[^key-6cf3325f541826519a5b454e5cea2968] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6cf3325f541826519a5b454e5cea2968] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.**[^c20077421] In section 2 (training regulations)—
 
@@ -184,7 +184,7 @@ Section 177
 >
 > (7) The decision of the High Court on an appeal under subsection (1) or (2) shall be final.
 
-**15.**[^key-59ee9566f000f8afc2650d517a4f0f12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-59ee9566f000f8afc2650d517a4f0f12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.**[^c20581161] (1) Section 13A (imposition of conditions while practising certificates are in force) is amended as follows.
 
@@ -228,12 +228,12 @@ Section 177
 
 **17.**[^c20581171] In section 13B (suspension of practising certificates where solicitors convicted of fraud or serious crime)—
 
-- (a)[^key-8d05348f2de4d9ef64038cb560574fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-8d05348f2de4d9ef64038cb560574fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8d05348f2de4d9ef64038cb560574fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8d05348f2de4d9ef64038cb560574fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in subsection (7) for “Master of the Rolls” substitute “ High Court ”,
 - (d) in subsection (8)—
   - (i) for “Master of the Rolls” (in both places) substitute “ High Court ”,
-  - (ii)[^key-fdc3a658fbf3691c9bceba93c21855b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-fdc3a658fbf3691c9bceba93c21855b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) in paragraph (d) for “he” substitute “ it ”, and
 - (e) after that subsection insert—
 
@@ -270,7 +270,7 @@ Section 177
 
 **21.**[^M_I_b6f29529-817a-4bbb-e5fc-b4746552f041] In section 17 (publicity in relation to suspension of practising certificates), in subsections (1) and (2) omit “in the London Gazette”.
 
-**22.**[^key-95f41458a3524250ad1faada9bedf5ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-95f41458a3524250ad1faada9bedf5ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **23.**[^M_I_b2ed54ea-9af8-4194-834d-0d515bbeaee8] For section 18 (evidence as to holding of practising certificates) substitute—
 
@@ -313,7 +313,7 @@ Section 177
 - (a) for “Master of the Rolls” substitute “ Society ”,
 - (b) omit “, with the concurrence of the Secretary of State and the Lord Chief Justice,”,
 - (c) in paragraph (c) omit “and applications for them”,
-- (d)[^key-9cfc2b45c1737d62609f6a99912ac01a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-9cfc2b45c1737d62609f6a99912ac01a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) in paragraph (d) for “section 9” substitute “ section 10A ”.
 
 (3) Omit subsections (2) and (3).
@@ -599,7 +599,7 @@ Section 177
   - (ii) for “they consider” substitute “ it considers ”, and
   - (iii) after “being” insert “ , or have been, ”.
 
-**39.**[^key-f6a8fc20932510e91dd0a7c50e1cefd2] Omit section 37A (redress for inadequate professional services).
+**39.**[^c-f6a8fc20932510e91dd0a7c50e1cefd2] Omit section 37A (redress for inadequate professional services).
 
 **40.**[^M_I_7c7d9b7c-78ef-4c31-c315-f9cc7340e494] Omit section 40 (solicitor not to commence or defend actions while in prison).
 
@@ -981,11 +981,11 @@ Section 177
 
 **49.**[^c20575051] In section 47 (jurisdiction and powers of Tribunal)—
 
-- (a)[^key-5b15dadb9629e9cffaa498e1b236f8ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5b15dadb9629e9cffaa498e1b236f8ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (2) for “subsection” (where it first occurs) substitute “ subsections (2E) and ”,
-- (c)[^key-7a182660975f0763d31cf0b8286b6d9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7a182660975f0763d31cf0b8286b6d9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in subsection (2)(c) omit “not exceeding £5,000”,
-- (e)[^key-2fd2d4416992e5b708cf123968f14965] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-2fd2d4416992e5b708cf123968f14965] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) after subsection (2D) insert—
 
   > (2E) On the hearing of any complaint made to the Tribunal by virtue of section 34A(2) or (3), the Tribunal shall have power to make one or more of the following—
@@ -1005,7 +1005,7 @@ Section 177
   > - (b) if the employee carries on activities which are not reserved legal activities (within the meaning of that Act), any body which regulates the carrying on of such activities by the employee.
 
   ,
-- (g)[^key-594a6c01e1abaa60299ffff9485a1bab] after subsection (3A) insert—
+- (g)[^c-594a6c01e1abaa60299ffff9485a1bab] after subsection (3A) insert—
 
   > (3B) For the avoidance of doubt, nothing in this section permits the Tribunal to make an order requiring redress to be made in respect of any act or omission of any person.
 
@@ -1028,7 +1028,7 @@ Section 177
 
 (3) In subsection (2), after “(3)” insert “ and to section 43(5) of the Administration of Justice Act 1985 ”.
 
-(4)[^key-70b4c6046b494c1c89917771b6a7af9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-70b4c6046b494c1c89917771b6a7af9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In subsection (4)—
 
@@ -1297,7 +1297,7 @@ Section 177
 
 **69.**[^M_I_dfb8ddcb-8775-4df8-b3a6-2824ff80c51a] In section 74 (special provisions as to contentious business done in county courts)—
 
-- (a)[^key-db69339e122a36fb7d8f73bcf1236d9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-db69339e122a36fb7d8f73bcf1236d9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (3) for “taxation” substitute “ assessment ”.
 
 **70.**[^M_I_5f123dfe-31c0-434b-8f13-740a0b49c868] Omit the following provisions—
@@ -1378,7 +1378,7 @@ Section 177
 **75.**[^c20079001] In section 87(1) (interpretation)—
 
 - (a) in the definition of “client account”, for “in” to the end substitute “ subject to rules under section 32(1)(a) ”,
-- (b)[^key-a925abf500f39ca5703114caca5f8439] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a925abf500f39ca5703114caca5f8439] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) omit the following definitions—
   - “articles”
   - “controlled trust”
@@ -1569,7 +1569,7 @@ Section 177
 >
 > (3) In this paragraph “**specified**” means specified in the order made by the High Court.
 
-**78.**[^key-7f248a1341ac1e353cea3ab9b6c1420d] Omit Schedule 1A (inadequate professional services).
+**78.**[^c-7f248a1341ac1e353cea3ab9b6c1420d] Omit Schedule 1A (inadequate professional services).
 
 **79.**[^c20575771] Omit Schedule 2 (the compensation fund).
 
@@ -1583,7 +1583,7 @@ Section 177
 
 - (a) for “Council” (in both places) substitute “ Society ”,
 - (b) in paragraph (a) for “by solicitors” to the end substitute “ of legal services bodies; ”,
-- (c)[^key-2c95927d10441c09202a80686d1a6ce6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-2c95927d10441c09202a80686d1a6ce6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in paragraph (c)—
   - (i) for “conditions” substitute “ requirements ”, and
   - (ii) omit “corporate”.
@@ -1794,7 +1794,7 @@ Section 177
 
 (2) In subsection (1) omit “corporate” (in both places).
 
-(3)[^key-93e0cb4ea4ebc5f3f6273e98d949b629] In subsection (2) omit “corporate”.
+(3)[^c-93e0cb4ea4ebc5f3f6273e98d949b629] In subsection (2) omit “corporate”.
 
 (4) For subsection (3) substitute—
 
@@ -2013,7 +2013,7 @@ Section 177
 
 **99.**[^M_I_7e3dc89a-dea3-450b-9944-9d30b597a765] Omit paragraph 12 of that Schedule (offences in connection with orders under section 43(2) of the 1974 Act).
 
-**100.**[^key-615b65adf5144139ca1bc2e3e2f8d7f4] Omit paragraph 13 of that Schedule (redress for inadequate professional services).
+**100.**[^c-615b65adf5144139ca1bc2e3e2f8d7f4] Omit paragraph 13 of that Schedule (redress for inadequate professional services).
 
 **101.**[^c20576111] For paragraph 14 of that Schedule (examination of files) substitute—
 
@@ -2169,7 +2169,7 @@ Section 177
 - (a) for “(7)” substitute “ (9) ”,
 - (b) in paragraph (a)—
   - (i) omit “11(1), 15(2) or”,
-  - (ii)[^key-495fd0747b5ef3e2193aa1325510ab5d] omit “13(3) or”, and
+  - (ii)[^c-495fd0747b5ef3e2193aa1325510ab5d] omit “13(3) or”, and
   - (iii) after “16(1)” insert “ or (1A) ”, and
 - (c) in paragraph (c) after “body” insert “ or, in the case of such a complaint as is mentioned in paragraph 16(1A), to a manager or employee of such a body ”.
 
@@ -2177,9 +2177,9 @@ Section 177
 
 - (a) in sub-paragraph (1) after “this Schedule” insert “ (other than paragraph 16(1A) ”,
 - (b) in paragraph (b) of that sub-paragraph for “section 34 of the 1974 Act” substitute “ any requirement imposed by or by virtue of this Act ”,
-- (c)[^key-c166cf5eead65f285068305e43a16fb3] omit paragraph (d) of that sub-paragraph and the “or” immediately preceding it,
+- (c)[^c-c166cf5eead65f285068305e43a16fb3] omit paragraph (d) of that sub-paragraph and the “or” immediately preceding it,
 - (d) in sub-paragraph (2) omit “not exceeding £3,000”, and
-- (e)[^key-62a6c9acfa66c234bdfe72ba0c589111] omit sub-paragraphs (3) and (4).
+- (e)[^c-62a6c9acfa66c234bdfe72ba0c589111] omit sub-paragraphs (3) and (4).
 
 **107.**[^c20576211] After that paragraph insert—
 
@@ -2223,7 +2223,7 @@ Section 177
 
 - (a) for “an officer” substitute “ a manager ”,
 - (b) for “director” substitute “ manager ”, and
-- (c)[^key-286bf0c4967d3680c208ab82458174c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-286bf0c4967d3680c208ab82458174c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 and omit sub-paragraph (2).
 
@@ -2569,7 +2569,7 @@ and omit sub-paragraph (2).
 
 [^c20077371]: Commencement: Sch. 16 para. 2(b) in force at 7.3.2008 by [S.I. 2008/222](https://www.legislation.gov.uk/uksi/2008/222), [art. 2(j)(i)](https://www.legislation.gov.uk/uksi/2008/222/article/2/j/i); Sch. 16 para. 2(a)(c) in force at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/f/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-6cf3325f541826519a5b454e5cea2968]: Textual amendment: Sch. 16 para. 3 repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
+[^c-6cf3325f541826519a5b454e5cea2968]: Textual amendment: Sch. 16 para. 3 repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
 
 [^c20077421]: Commencement: Sch. 16 para. 4(b) in force at 7.3.2008 by [S.I. 2008/222](https://www.legislation.gov.uk/uksi/2008/222), [art. 2(j)(i)](https://www.legislation.gov.uk/uksi/2008/222/article/2/j/i); Sch. 16 para. 4(a)(c) in force at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/f/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
@@ -2593,15 +2593,15 @@ and omit sub-paragraph (2).
 
 [^c20581151]: Commencement: Sch. 16 para. 14 wholly in force at 1.7.2009 see s. 211 and [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/iii) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/1365/article/4))
 
-[^key-59ee9566f000f8afc2650d517a4f0f12]: Textual amendment: Sch. 16 para. 15 repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
+[^c-59ee9566f000f8afc2650d517a4f0f12]: Textual amendment: Sch. 16 para. 15 repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
 
 [^c20581161]: Commencement: Sch. 16 para. 16 wholly in force at 1.7.2009 see s. 211 and [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/iii) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/1365/article/4))
 
 [^c20581171]: Commencement: Sch. 16 para. 17 wholly in force at 1.7.2009 see s. 211 and [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/iii) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/1365/article/4))
 
-[^key-8d05348f2de4d9ef64038cb560574fc5]: Textual amendment: Sch. 16 para. 17(a)(b) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
+[^c-8d05348f2de4d9ef64038cb560574fc5]: Textual amendment: Sch. 16 para. 17(a)(b) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
 
-[^key-fdc3a658fbf3691c9bceba93c21855b3]: Textual amendment: Sch. 16 para. 17(d)(ii) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
+[^c-fdc3a658fbf3691c9bceba93c21855b3]: Textual amendment: Sch. 16 para. 17(d)(ii) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
 
 [^M_I_8b4faca1-6f6a-4778-f4db-72b49fae2ca3]: Commencement: Sch. 16 para. 18 in force at 1.7.2009 by [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/i)
 
@@ -2611,7 +2611,7 @@ and omit sub-paragraph (2).
 
 [^M_I_b6f29529-817a-4bbb-e5fc-b4746552f041]: Commencement: Sch. 16 para. 21 in force at 7.3.2008 by [S.I. 2008/222](https://www.legislation.gov.uk/uksi/2008/222), [art. 2(j)(i)](https://www.legislation.gov.uk/uksi/2008/222/article/2/j/i)
 
-[^key-95f41458a3524250ad1faada9bedf5ff]: Textual amendment: Sch. 16 para. 22 repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
+[^c-95f41458a3524250ad1faada9bedf5ff]: Textual amendment: Sch. 16 para. 22 repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
 
 [^M_I_b2ed54ea-9af8-4194-834d-0d515bbeaee8]: Commencement: Sch. 16 para. 23 in force at 1.7.2009 by [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/i)
 
@@ -2629,7 +2629,7 @@ and omit sub-paragraph (2).
 
 [^c20581231]: Commencement: Sch. 16 para. 30 wholly in force at 1.7.2009 see s. 211 and [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/iv) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2009/1365/article/3), [4](https://www.legislation.gov.uk/uksi/2009/1365/article/4))
 
-[^key-9cfc2b45c1737d62609f6a99912ac01a]: Textual amendment: Sch. 16 para. 30(2)(d) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
+[^c-9cfc2b45c1737d62609f6a99912ac01a]: Textual amendment: Sch. 16 para. 30(2)(d) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
 
 [^c20077511]: Commencement: Sch. 16 para. 31(1)(2)(a)(d) in force at 7.3.2008 by [S.I. 2008/222](https://www.legislation.gov.uk/uksi/2008/222), [art. 2(j)(i)](https://www.legislation.gov.uk/uksi/2008/222/article/2/j/i); Sch. 16 para. 31(2)(c)(e) in force at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/i); Sch. 16 para. 31(2)(b)(3)(4) in force at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/f/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
@@ -2647,7 +2647,7 @@ and omit sub-paragraph (2).
 
 [^c20077681]: Commencement: Sch. 16 para. 38(a) in force for certain purposes and Sch. 16 para. 38(b)(i)(ii) in force at 7.3.2008 by [S.I. 2008/222](https://www.legislation.gov.uk/uksi/2008/222), [art. 2(j)(i)](https://www.legislation.gov.uk/uksi/2008/222/article/2/j/i); Sch. 16 para. 38(b)(iii) in force at 30.6.2008 by [S.I. 2008/1436](https://www.legislation.gov.uk/uksi/2008/1436), [art. 2(d)(i)](https://www.legislation.gov.uk/uksi/2008/1436/article/2/d/i); Sch. 16 para. 38(a) in force at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/f/ii)
 
-[^key-f6a8fc20932510e91dd0a7c50e1cefd2]: Commencement: Sch. 16 para. 39 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2089/article/6))
+[^c-f6a8fc20932510e91dd0a7c50e1cefd2]: Commencement: Sch. 16 para. 39 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2089/article/6))
 
 [^M_I_7c7d9b7c-78ef-4c31-c315-f9cc7340e494]: Commencement: Sch. 16 para. 40 in force at 1.7.2009 by [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/i)
 
@@ -2669,19 +2669,19 @@ and omit sub-paragraph (2).
 
 [^c20575051]: Commencement: Sch. 16 para. 49(b)(d)(f)(h) in force at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/i) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/503/article/4)); Sch. 16 para. 49(a)(c)(e) in force at 1.7.2009 by [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/i)
 
-[^key-5b15dadb9629e9cffaa498e1b236f8ff]: Textual amendment: Sch. 16 para. 49(a) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
+[^c-5b15dadb9629e9cffaa498e1b236f8ff]: Textual amendment: Sch. 16 para. 49(a) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
 
-[^key-7a182660975f0763d31cf0b8286b6d9b]: Textual amendment: Sch. 16 para. 49(c) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
+[^c-7a182660975f0763d31cf0b8286b6d9b]: Textual amendment: Sch. 16 para. 49(c) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
 
-[^key-2fd2d4416992e5b708cf123968f14965]: Textual amendment: Sch. 16 para. 49(e) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
+[^c-2fd2d4416992e5b708cf123968f14965]: Textual amendment: Sch. 16 para. 49(e) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
 
-[^key-594a6c01e1abaa60299ffff9485a1bab]: Commencement: Sch. 16 para. 49(g) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/f)
+[^c-594a6c01e1abaa60299ffff9485a1bab]: Commencement: Sch. 16 para. 49(g) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/f)
 
 [^c20077711]: Commencement: Sch. 16 para. 50(a)(ii) in force at 7.3.2008 by [S.I. 2008/222](https://www.legislation.gov.uk/uksi/2008/222), [art. 2(j)(i)](https://www.legislation.gov.uk/uksi/2008/222/article/2/j/i); Sch. 16 para. 50(b)(c) in force at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/i); Sch. 16 para. 50(a)(i) in force at 1.7.2009 by [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/i)
 
 [^c20581211]: Commencement: Sch. 16 para. 51 wholly in force at 1.7.2009 see s. 211 and [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/iii) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/1365/article/4))
 
-[^key-70b4c6046b494c1c89917771b6a7af9f]: Textual amendment: Sch. 16 para. 51(4) repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-70b4c6046b494c1c89917771b6a7af9f]: Textual amendment: Sch. 16 para. 51(4) repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
 [^M_I_5f80ef4e-a0b9-4e5d-ae1a-59e031211a10]: Commencement: Sch. 16 para. 52 in force at 1.7.2009 by [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/i)
 
@@ -2719,7 +2719,7 @@ and omit sub-paragraph (2).
 
 [^M_I_dfb8ddcb-8775-4df8-b3a6-2824ff80c51a]: Commencement: Sch. 16 para. 69 in force at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art.2(f)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/f/ii)
 
-[^key-db69339e122a36fb7d8f73bcf1236d9c]: Textual amendment: Sch. 16 para. 69(a) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 141](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/141); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-db69339e122a36fb7d8f73bcf1236d9c]: Textual amendment: Sch. 16 para. 69(a) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 141](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/141); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^M_I_5f123dfe-31c0-434b-8f13-740a0b49c868]: Commencement: Sch. 16 para. 70 in force at 31.3.2009 by S.I 2009/503, art. 2(b)(i)
 
@@ -2733,13 +2733,13 @@ and omit sub-paragraph (2).
 
 [^c20079001]: Commencement: Sch. 16 para. 75(c) in force for certain purposes at 7.3.2008 by [S.I. 2008/222](https://www.legislation.gov.uk/uksi/2008/222), [art. 2(j)(i)](https://www.legislation.gov.uk/uksi/2008/222/article/2/j/i); Sch. 16 para. 75(a) in force and Sch. 16 para. 75(c) in force for certain purposes at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/i); Sch. 16 para. 75(b)(c) in force for certain purposes at 1.7.2009 by [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/i); Sch. 16 para. 75(c) in force for certain purposes at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/f/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-a925abf500f39ca5703114caca5f8439]: Textual amendment: Sch. 16 para. 75(b) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
+[^c-a925abf500f39ca5703114caca5f8439]: Textual amendment: Sch. 16 para. 75(b) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
 
 [^M_I_6b78de51-1038-4911-d4c3-f28950ffdfff]: Commencement: Sch. 16 para. 76 in force at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art.2(f)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/f/ii)
 
 [^c20575741]: Commencement: Sch. 16 para. 77 wholly in force at 31.3.2009 see s. 211 and [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/i) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/503/article/4))
 
-[^key-7f248a1341ac1e353cea3ab9b6c1420d]: Commencement: Sch. 16 para. 78 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2089/article/6))
+[^c-7f248a1341ac1e353cea3ab9b6c1420d]: Commencement: Sch. 16 para. 78 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2089/article/6))
 
 [^c20575771]: Commencement: Sch. 16 para. 79 wholly in force at 31.3.2009 see s. 211 and [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/i) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2009/503/article/5))
 
@@ -2747,7 +2747,7 @@ and omit sub-paragraph (2).
 
 [^c20310701]: Commencement: Sch. 16 para. 81(1)(9) in force at 30.6.2008 by [S.I. 2008/1436](https://www.legislation.gov.uk/uksi/2008/1436), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2008/1436/article/2/d/ii); Sch. 16 para. 81 in force at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/ii) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/503/article/4))
 
-[^key-2c95927d10441c09202a80686d1a6ce6]: Textual amendment: Sch. 16 para. 81(2)(c) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
+[^c-2c95927d10441c09202a80686d1a6ce6]: Textual amendment: Sch. 16 para. 81(2)(c) repealed (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2015/401/article/3/3)
 
 [^M_I_3bc9984c-4597-4e95-89c0-96d34d8fbf38]: Commencement: Sch. 16 para. 82 in force at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/ii)
 
@@ -2767,7 +2767,7 @@ and omit sub-paragraph (2).
 
 [^M_I_62aedad8-c97a-4af0-b5b9-08d09c73e35d]: Commencement: Sch. 16 para. 83 in force at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/ii)
 
-[^key-93e0cb4ea4ebc5f3f6273e98d949b629]: Commencement: Sch. 16 para. 83(3) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/f)
+[^c-93e0cb4ea4ebc5f3f6273e98d949b629]: Commencement: Sch. 16 para. 83(3) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/f)
 
 [^c20576001]: Commencement: Sch. 16 para. 84(1)(2)(4) in force at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/ii)
 
@@ -2801,7 +2801,7 @@ and omit sub-paragraph (2).
 
 [^M_I_7e3dc89a-dea3-450b-9944-9d30b597a765]: Commencement: Sch. 16 para. 99 in force at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/ii)
 
-[^key-615b65adf5144139ca1bc2e3e2f8d7f4]: Commencement: Sch. 16 para. 100 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2089/article/6))
+[^c-615b65adf5144139ca1bc2e3e2f8d7f4]: Commencement: Sch. 16 para. 100 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2089/article/6))
 
 [^c20576111]: Commencement: Sch. 16 para. 101 wholly in force at 31.3.2009 see s. 211 and [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/ii) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/503/article/4))
 
@@ -2813,19 +2813,19 @@ and omit sub-paragraph (2).
 
 [^c20576191]: Commencement: Sch. 16 para. 105(a)(b)(i)(iii)(c) in force at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/ii)
 
-[^key-495fd0747b5ef3e2193aa1325510ab5d]: Commencement: Sch. 16 para. 105(b)(ii) in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2089/article/6))
+[^c-495fd0747b5ef3e2193aa1325510ab5d]: Commencement: Sch. 16 para. 105(b)(ii) in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2089/article/6))
 
 [^c20576201]: Commencement: Sch. 16 para. 106(a)(b)(d) in force and Sch. 16 para. 106(e) in force for certain purposes at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/ii)
 
-[^key-c166cf5eead65f285068305e43a16fb3]: Commencement: Sch. 16 para. 106(c) in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2089/article/6))
+[^c-c166cf5eead65f285068305e43a16fb3]: Commencement: Sch. 16 para. 106(c) in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2089/article/6))
 
-[^key-62a6c9acfa66c234bdfe72ba0c589111]: Commencement: Sch. 16 para. 106(e) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/f)
+[^c-62a6c9acfa66c234bdfe72ba0c589111]: Commencement: Sch. 16 para. 106(e) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/f)
 
 [^c20576211]: Commencement: Sch. 16 para. 107 wholly in force at 31.3.2009 see s. 211 and [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/ii) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/503/article/4))
 
 [^M_I_2c188079-2b41-48bc-c839-8632c3e39435]: Commencement: Sch. 16 para. 108 in force at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/ii)
 
-[^key-286bf0c4967d3680c208ab82458174c3]: Textual amendment: Sch. 16 para. 108(c) repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-286bf0c4967d3680c208ab82458174c3]: Textual amendment: Sch. 16 para. 108(c) repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
 [^M_I_56fdb519-5612-45a0-b69e-e4fc61a5ecc4]: Commencement: Sch. 16 para. 109 in force at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/ii)
 

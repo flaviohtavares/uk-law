@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Assignation of limited duration tenancy[^key-f8c4842f14d2d11ecfde23cc8d72e637]
+## 17. Assignation of limited duration tenancy[^c-f8c4842f14d2d11ecfde23cc8d72e637]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8c4842f14d2d11ecfde23cc8d72e637]: Commencement: S. 17 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-f8c4842f14d2d11ecfde23cc8d72e637]: Commencement: S. 17 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

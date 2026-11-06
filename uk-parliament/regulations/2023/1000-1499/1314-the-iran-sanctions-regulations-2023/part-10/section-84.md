@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Trade enforcement: application of CEMA[^key-166703c12b509f34c1ef0f7b0f89914a]
+## 84. Trade enforcement: application of CEMA[^c-166703c12b509f34c1ef0f7b0f89914a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ the matter is to be treated as an assigned matter.
 
 - (a) regulation 35(3) (provision of interception and monitoring services);
 - (b) regulation 44(2) (circumventing etc. prohibitions) insofar as it relates to the prohibition at regulation 35(1);
-- (c)[^key-e51a692fd91479b8bdfed7f98ee92cd4] regulation 43B(3) (technical assistance relating to ships);
+- (c)[^c-e51a692fd91479b8bdfed7f98ee92cd4] regulation 43B(3) (technical assistance relating to ships);
 - (d) regulation 43C(4) (provision of services relating to specified ships);
 - (e) regulation 43D(4) (procurement of services relating to specified ships).
 
@@ -72,11 +72,11 @@ the matter is to be treated as an assigned matter.
 
 ## Annotations
 
-[^key-166703c12b509f34c1ef0f7b0f89914a]: Commencement: Reg. 84 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-166703c12b509f34c1ef0f7b0f89914a]: Commencement: Reg. 84 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
 [^f00035]: Footnote: The definition of “assigned matter” in section 1(1) of CEMA was amended by the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), Schedule 4, paragraph 22(a); the Scotland Act [2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), section 24(7); and the Wales Act [2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), section 7(1).
 
-[^key-e51a692fd91479b8bdfed7f98ee92cd4]: Textual amendment: [Reg. 84(5)(c)-(e)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/84/5/c) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2026/983/regulation/30)
+[^c-e51a692fd91479b8bdfed7f98ee92cd4]: Textual amendment: [Reg. 84(5)(c)-(e)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/84/5/c) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2026/983/regulation/30)
 
 [^f00036]: Footnote: Section 138 of CEMA was amended by the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60), section 119(1), Schedule 6, paragraph 37 and Schedule 7, Part 1; the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), section 11; the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), Schedule 7, paragraph 54; [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341); and [S.I. 2007/288](https://www.legislation.gov.uk/uksi/2007/288).
 

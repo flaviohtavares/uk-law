@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9A. Arrangements made by local authorities for the purposes of section 7[^key-1e6defadadf244d02834739582630927]
+## 9A. Arrangements made by local authorities for the purposes of section 7[^c-1e6defadadf244d02834739582630927]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Regulations may provide that arrangements made by an English local authority for
 
 ## Annotations
 
-[^key-1e6defadadf244d02834739582630927]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/2006/21/section/9A) inserted (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 87(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/87/3), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/889/article/5/d)
+[^c-1e6defadadf244d02834739582630927]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/2006/21/section/9A) inserted (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 87(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/87/3), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/889/article/5/d)

@@ -48,7 +48,7 @@ The impartiality of the staff responsible for certification and oversight tasks 
 
 6\.
 
-The qualified entity must take out liability insurance unless its liability is assumed by the CAA[^key-8cb9b074c21de1e52ec4533b524e19e3].
+The qualified entity must take out liability insurance unless its liability is assumed by the CAA[^c-8cb9b074c21de1e52ec4533b524e19e3].
 
 7\.
 
@@ -56,4 +56,4 @@ The staff of the qualified entity must observe professional secrecy with regard 
 
 ## Annotations
 
-[^key-8cb9b074c21de1e52ec4533b524e19e3]: Textual amendment: Words in [Annex 6](https://www.legislation.gov.uk/eur/2018/1139/annex/6) point 6 substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [177](https://www.legislation.gov.uk/uksi/2019/645/regulation/177) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8cb9b074c21de1e52ec4533b524e19e3]: Textual amendment: Words in [Annex 6](https://www.legislation.gov.uk/eur/2018/1139/annex/6) point 6 substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [177](https://www.legislation.gov.uk/uksi/2019/645/regulation/177) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

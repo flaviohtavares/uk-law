@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Statutory authority to override easements and other rights[^key-4ee977a1fc4e4e7d97e8377bb1ef92d8]
+## 23. Statutory authority to override easements and other rights[^c-4ee977a1fc4e4e7d97e8377bb1ef92d8]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ authorised by virtue of this Order and the operation of section 158 (nuisance: s
 
 ## Annotations
 
-[^key-4ee977a1fc4e4e7d97e8377bb1ef92d8]: Commencement: Art. 23 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-4ee977a1fc4e4e7d97e8377bb1ef92d8]: Commencement: Art. 23 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

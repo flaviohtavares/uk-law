@@ -32,7 +32,7 @@ Regulation 4
 
 (2) The Board is to include equal numbers of members representing employers and scheme members.
 
-(3)[^key-d99dc5173b2584416839d7db51ace496] The scheme manager must be satisfied that a person to be appointed as a member of the Board does not have a conflict of interest.
+(3)[^c-d99dc5173b2584416839d7db51ace496] The scheme manager must be satisfied that a person to be appointed as a member of the Board does not have a conflict of interest.
 
 ### 2. Terms of office of members
 
@@ -71,4 +71,4 @@ A person is disqualified from appointment as a member of the Board if that perso
 
 ## Annotations
 
-[^key-d99dc5173b2584416839d7db51ace496]: Textual amendment: Sch. 1 para. 1(3) inserted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [11](https://www.legislation.gov.uk/ssi/2016/97/regulation/11)
+[^c-d99dc5173b2584416839d7db51ace496]: Textual amendment: Sch. 1 para. 1(3) inserted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [11](https://www.legislation.gov.uk/ssi/2016/97/regulation/11)

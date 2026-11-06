@@ -36,7 +36,7 @@ An Act to make provision about privileges, immunities and facilities in connecti
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Commonwealth Secretariat[^key-509c8ab8a96ed1b2c689ed3b240feeca]
+## 1. Commonwealth Secretariat[^c-509c8ab8a96ed1b2c689ed3b240feeca]
 
 (1) In the Commonwealth Secretariat Act 1966 (c. 10) the following provisions (which limit the privileges and immunities of the Secretariat) are omitted—
 
@@ -49,7 +49,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) “**The Commonwealth Secretariat**” has the same meaning as in the Commonwealth Secretariat Act 1966.
 
-## 2. Commonwealth Secretariat Arbitral Tribunal[^key-6b0b35c13ec520a71ee91a3bc39aaa79]
+## 2. Commonwealth Secretariat Arbitral Tribunal[^c-6b0b35c13ec520a71ee91a3bc39aaa79]
 
 (1) The Commonwealth Secretariat Act 1966 is amended as follows.
 
@@ -64,7 +64,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (5) No order under subsection (4) may be made unless a draft of the statutory instrument containing the order has been laid before, and approved by resolution of, each House of Parliament.
 
-## 3. Commonwealth Secretariat: income tax[^key-3ada4c65bfe5af51c2b41cd11820bef3]
+## 3. Commonwealth Secretariat: income tax[^c-3ada4c65bfe5af51c2b41cd11820bef3]
 
 In the Schedule to the Commonwealth Secretariat Act 1966 (immunities and privileges)—
 
@@ -183,8 +183,8 @@ Section 9
 
 ## Annotations
 
-[^key-509c8ab8a96ed1b2c689ed3b240feeca]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2005/20/section/1) in force at 11.7.2005 by [S.I. 2005/1870](https://www.legislation.gov.uk/uksi/2005/1870), [art. 2](https://www.legislation.gov.uk/uksi/2005/1870/article/2)
+[^c-509c8ab8a96ed1b2c689ed3b240feeca]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2005/20/section/1) in force at 11.7.2005 by [S.I. 2005/1870](https://www.legislation.gov.uk/uksi/2005/1870), [art. 2](https://www.legislation.gov.uk/uksi/2005/1870/article/2)
 
-[^key-6b0b35c13ec520a71ee91a3bc39aaa79]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2005/20/section/2) in force at 11.7.2005 by [S.I. 2005/1870](https://www.legislation.gov.uk/uksi/2005/1870), [art. 2](https://www.legislation.gov.uk/uksi/2005/1870/article/2)
+[^c-6b0b35c13ec520a71ee91a3bc39aaa79]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2005/20/section/2) in force at 11.7.2005 by [S.I. 2005/1870](https://www.legislation.gov.uk/uksi/2005/1870), [art. 2](https://www.legislation.gov.uk/uksi/2005/1870/article/2)
 
-[^key-3ada4c65bfe5af51c2b41cd11820bef3]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2005/20/section/3) in force at 6.4.2006 by [S.I. 2005/1870](https://www.legislation.gov.uk/uksi/2005/1870), [art. 3](https://www.legislation.gov.uk/uksi/2005/1870/article/3)
+[^c-3ada4c65bfe5af51c2b41cd11820bef3]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2005/20/section/3) in force at 6.4.2006 by [S.I. 2005/1870](https://www.legislation.gov.uk/uksi/2005/1870), [art. 3](https://www.legislation.gov.uk/uksi/2005/1870/article/3)

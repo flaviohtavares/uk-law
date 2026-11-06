@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Use of information by regulators[^key-21765d83dbda34447ca564089c74e346]
+## 34. Use of information by regulators[^c-21765d83dbda34447ca564089c74e346]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A relevant regulator may use any information the regulator obtains, or documents
 
 ## Annotations
 
-[^key-21765d83dbda34447ca564089c74e346]: Commencement: [S. 34](https://www.legislation.gov.uk/mwa/2009/2/section/34) in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2009/3272/schedule/2)
+[^c-21765d83dbda34447ca564089c74e346]: Commencement: [S. 34](https://www.legislation.gov.uk/mwa/2009/2/section/34) in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2009/3272/schedule/2)

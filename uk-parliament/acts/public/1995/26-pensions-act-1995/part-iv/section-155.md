@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Breach of regulations under the Pension Schemes Act 1993.[^key-18ebe4f64ed7f7e50dcdc0b2d2b144ba][^key-507935a486298a63813b57ef5220b16a][^key-82cd0d1d49419f9acb9912864e324b62]
+## 155. Breach of regulations under the Pension Schemes Act 1993.[^c-18ebe4f64ed7f7e50dcdc0b2d2b144ba][^c-507935a486298a63813b57ef5220b16a][^c-82cd0d1d49419f9acb9912864e324b62]
 
 *Extent: E+W+S*
 
@@ -85,10 +85,10 @@ summary: ''
 
 ## Annotations
 
-[^key-18ebe4f64ed7f7e50dcdc0b2d2b144ba]: Commencement: S. 155 in force at 6.4.1996 for specified purposes by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/1996/778/article/2/5/a), [Sch. Pt. V](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/V)
+[^c-18ebe4f64ed7f7e50dcdc0b2d2b144ba]: Commencement: S. 155 in force at 6.4.1996 for specified purposes by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/1996/778/article/2/5/a), [Sch. Pt. V](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/V)
 
-[^key-507935a486298a63813b57ef5220b16a]: Commencement: S. 155 in force at 1.6.1996 for specified purposes by [S.I. 1996/1412](https://www.legislation.gov.uk/uksi/1996/1412), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/1412/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1996/1412/schedule/part/II)
+[^c-507935a486298a63813b57ef5220b16a]: Commencement: S. 155 in force at 1.6.1996 for specified purposes by [S.I. 1996/1412](https://www.legislation.gov.uk/uksi/1996/1412), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/1412/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1996/1412/schedule/part/II)
 
-[^key-82cd0d1d49419f9acb9912864e324b62]: Commencement: S. 155 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-82cd0d1d49419f9acb9912864e324b62]: Commencement: S. 155 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
 [^c2136360]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

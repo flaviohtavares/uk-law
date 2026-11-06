@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 106. General scope of saving provisions[^key-5bcae79768a3a2a2c46807ca9d03b4f2][^key-e90dc2e3ef409f1737165d9bea2ef8f1]
+## 106. General scope of saving provisions[^c-5bcae79768a3a2a2c46807ca9d03b4f2][^c-e90dc2e3ef409f1737165d9bea2ef8f1]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5bcae79768a3a2a2c46807ca9d03b4f2]: Commencement: Art. 106 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-5bcae79768a3a2a2c46807ca9d03b4f2]: Commencement: Art. 106 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-e90dc2e3ef409f1737165d9bea2ef8f1]: Commencement: [Art. 106](https://www.legislation.gov.uk/uksi/2018/1253/article/106) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-e90dc2e3ef409f1737165d9bea2ef8f1]: Commencement: [Art. 106](https://www.legislation.gov.uk/uksi/2018/1253/article/106) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Advice of Director of Public Prosecutions[^key-bd615025b5001dd3243ef7eac44137ba]
+## 7. Advice of Director of Public Prosecutions[^c-bd615025b5001dd3243ef7eac44137ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 3(2) of the Prosecution of Offences Act 1985 (c. 23) (functions of Di
 
 ## Annotations
 
-[^key-bd615025b5001dd3243ef7eac44137ba]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2004/19/section/7) in force at 1.12.2004 by [S.I. 2004/2999](https://www.legislation.gov.uk/uksi/2004/2999), [art. 2](https://www.legislation.gov.uk/uksi/2004/2999/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2999/schedule)
+[^c-bd615025b5001dd3243ef7eac44137ba]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2004/19/section/7) in force at 1.12.2004 by [S.I. 2004/2999](https://www.legislation.gov.uk/uksi/2004/2999), [art. 2](https://www.legislation.gov.uk/uksi/2004/2999/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2999/schedule)

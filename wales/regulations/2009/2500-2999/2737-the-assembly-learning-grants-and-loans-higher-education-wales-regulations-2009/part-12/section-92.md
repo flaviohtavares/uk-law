@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Part-time adult dependants' grant[^key-a81c12180d050b83c8aa5002982e3a1d]
+## 92. Part-time adult dependants' grant[^c-a81c12180d050b83c8aa5002982e3a1d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a81c12180d050b83c8aa5002982e3a1d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/2737) revoked (1.9.2011) by [The Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2011 (S.I. 2011/148)](https://www.legislation.gov.uk/wsi/2011/148), [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/148/regulation/3/1) (with [reg. 3(9)](https://www.legislation.gov.uk/wsi/2011/148/regulation/3/9)[(11)](https://www.legislation.gov.uk/wsi/2011/148/regulation/3/11))
+[^c-a81c12180d050b83c8aa5002982e3a1d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/2737) revoked (1.9.2011) by [The Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2011 (S.I. 2011/148)](https://www.legislation.gov.uk/wsi/2011/148), [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/148/regulation/3/1) (with [reg. 3(9)](https://www.legislation.gov.uk/wsi/2011/148/regulation/3/9)[(11)](https://www.legislation.gov.uk/wsi/2011/148/regulation/3/11))

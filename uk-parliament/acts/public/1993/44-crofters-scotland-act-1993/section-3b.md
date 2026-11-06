@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3B. Compensation for constituting holding outwith crofting counties as croft on application of tenant[^key-4730d8f359c90eebae087dc0b262d465]
+## 3B. Compensation for constituting holding outwith crofting counties as croft on application of tenant[^c-4730d8f359c90eebae087dc0b262d465]
 
 *Extent: S*
 
-(1) Where, in relation to an application under subsection (2) of section 3A of this Act, there is no such agreement as is mentioned in section 3AA(3)(a) or (b)[^key-aea0b20c2c3ee7c62f134d09d777d361] , the compensation payable by the applicant to the owner in compensation for the holding being constituted as a croft is to be the difference between—
+(1) Where, in relation to an application under subsection (2) of section 3A of this Act, there is no such agreement as is mentioned in section 3AA(3)(a) or (b)[^c-aea0b20c2c3ee7c62f134d09d777d361] , the compensation payable by the applicant to the owner in compensation for the holding being constituted as a croft is to be the difference between—
 
 - (a) the value of the holding assuming that it is not to be so constituted; and
 - (b) its value assuming that it is so constituted,
@@ -55,6 +55,6 @@ for the purpose of any assessment under this section.
 
 ## Annotations
 
-[^key-4730d8f359c90eebae087dc0b262d465]: Textual amendment: Ss. 3A-3C inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 6](https://www.legislation.gov.uk/asp/2007/7/section/6), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-4730d8f359c90eebae087dc0b262d465]: Textual amendment: Ss. 3A-3C inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 6](https://www.legislation.gov.uk/asp/2007/7/section/6), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-aea0b20c2c3ee7c62f134d09d777d361]: Textual amendment: Words in [s. 3B(1)](https://www.legislation.gov.uk/ukpga/1993/44/section/3B/1) substituted (30.11.2013) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 23(5)](https://www.legislation.gov.uk/asp/2010/14/section/23/5), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/2))
+[^c-aea0b20c2c3ee7c62f134d09d777d361]: Textual amendment: Words in [s. 3B(1)](https://www.legislation.gov.uk/ukpga/1993/44/section/3B/1) substituted (30.11.2013) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 23(5)](https://www.legislation.gov.uk/asp/2010/14/section/23/5), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/2))

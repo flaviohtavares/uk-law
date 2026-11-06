@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Decisions by the Department on applications for renewal of consent to market genetically modified organisms[^key-bcf89fd815c21a923cf94da592beb58d]
+## 26. Decisions by the Department on applications for renewal of consent to market genetically modified organisms[^c-bcf89fd815c21a923cf94da592beb58d]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcf89fd815c21a923cf94da592beb58d]: Commencement: Reg. 26 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-bcf89fd815c21a923cf94da592beb58d]: Commencement: Reg. 26 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Certification of documents[^key-08ee472be3312151b5ab51477771030e]
+## 60. Certification of documents[^c-08ee472be3312151b5ab51477771030e]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08ee472be3312151b5ab51477771030e]: Commencement: Art. 60 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-08ee472be3312151b5ab51477771030e]: Commencement: Art. 60 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — Land in which only new rights etc. may be acquired[^key-1e3e8b07c943ff9a465cc5cb2dd9d993]
+## SCHEDULE 7 — Land in which only new rights etc. may be acquired[^c-1e3e8b07c943ff9a465cc5cb2dd9d993]
 
 *Extent: E+W*
 
 Article 20
 
-[^key-1e3e8b07c943ff9a465cc5cb2dd9d993]
+[^c-1e3e8b07c943ff9a465cc5cb2dd9d993]
 
 In the County of Denbighshire:
 
@@ -41,4 +41,4 @@ In the County of Denbighshire:
 
 ## Annotations
 
-[^key-1e3e8b07c943ff9a465cc5cb2dd9d993]: Commencement: Sch. 7 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-1e3e8b07c943ff9a465cc5cb2dd9d993]: Commencement: Sch. 7 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)

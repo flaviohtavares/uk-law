@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Gas reception facilities[^key-df2f9f7aa88d357569e5d47bb7b77a89]
+## 19. Gas reception facilities[^c-df2f9f7aa88d357569e5d47bb7b77a89]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df2f9f7aa88d357569e5d47bb7b77a89]: Commencement: S. 19 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/101/article/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-df2f9f7aa88d357569e5d47bb7b77a89]: Commencement: S. 19 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/101/article/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

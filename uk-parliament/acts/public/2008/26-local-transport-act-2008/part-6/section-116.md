@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-17bd34fa87df4e71fa626e6e715025db][^key-82707ccab62c2098ce43156e09db35c3] Section 176 of the TA 2000 (equipment etc) is amended as follows.
+(1)[^c-17bd34fa87df4e71fa626e6e715025db][^c-82707ccab62c2098ce43156e09db35c3] Section 176 of the TA 2000 (equipment etc) is amended as follows.
 
-(2)[^key-17bd34fa87df4e71fa626e6e715025db][^key-82707ccab62c2098ce43156e09db35c3] In subsection (2)—
+(2)[^c-17bd34fa87df4e71fa626e6e715025db][^c-82707ccab62c2098ce43156e09db35c3] In subsection (2)—
 
 - (a) the words from “approve standards for equipment” to the end of the subsection become paragraph (a) of that subsection;
 - (b) after paragraph (a) insert
@@ -33,7 +33,7 @@ summary: ''
 
   .
 
-(3)[^key-17bd34fa87df4e71fa626e6e715025db][^key-82707ccab62c2098ce43156e09db35c3] In subsection (3)—
+(3)[^c-17bd34fa87df4e71fa626e6e715025db][^c-82707ccab62c2098ce43156e09db35c3] In subsection (3)—
 
 - (a) the words from “installed for or in connection with” to the end of the subsection become paragraph (a) of that subsection;
 - (b) for “subsection (2)” substitute “ subsection (2)(a) ”;
@@ -43,9 +43,9 @@ summary: ''
 
   .
 
-(4)[^key-08b505152ecee93efa2255176ad1457f] In Schedule 23 to the GLA Act 1999 (road user charging) paragraph 29 (approval of equipment) is amended as follows.
+(4)[^c-08b505152ecee93efa2255176ad1457f] In Schedule 23 to the GLA Act 1999 (road user charging) paragraph 29 (approval of equipment) is amended as follows.
 
-(5)[^key-08b505152ecee93efa2255176ad1457f] In sub-paragraph (1)—
+(5)[^c-08b505152ecee93efa2255176ad1457f] In sub-paragraph (1)—
 
 - (a) the words from “the equipment” to the end of the sub-paragraph become paragraph (a);
 - (b) after paragraph (a) insert
@@ -56,7 +56,7 @@ summary: ''
 
   .
 
-(6)[^key-08b505152ecee93efa2255176ad1457f] After sub-paragraph (3) insert—
+(6)[^c-08b505152ecee93efa2255176ad1457f] After sub-paragraph (3) insert—
 
 > (3A) Where the Secretary of State considers that—
 >
@@ -69,14 +69,14 @@ summary: ''
 
 .
 
-(7)[^key-08b505152ecee93efa2255176ad1457f] In each of sub-paragraphs (4) and (5) after “sub-paragraph (3)” insert “ or (3B) ”.
+(7)[^c-08b505152ecee93efa2255176ad1457f] In each of sub-paragraphs (4) and (5) after “sub-paragraph (3)” insert “ or (3B) ”.
 
-(8)[^key-08b505152ecee93efa2255176ad1457f] In consequence of the amendments made by subsections (5) to (7), the heading preceding paragraph 29 becomes “ Approval of equipment and directions for use ”.
+(8)[^c-08b505152ecee93efa2255176ad1457f] In consequence of the amendments made by subsections (5) to (7), the heading preceding paragraph 29 becomes “ Approval of equipment and directions for use ”.
 
 ## Annotations
 
-[^key-17bd34fa87df4e71fa626e6e715025db]: Commencement: S. 116(1)-(3) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-17bd34fa87df4e71fa626e6e715025db]: Commencement: S. 116(1)-(3) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-82707ccab62c2098ce43156e09db35c3]: Commencement: S. 116(1)-(3) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/579/article/2/q)
+[^c-82707ccab62c2098ce43156e09db35c3]: Commencement: S. 116(1)-(3) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/579/article/2/q)
 
-[^key-08b505152ecee93efa2255176ad1457f]: Commencement: S. 116(4)-(8) in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-08b505152ecee93efa2255176ad1457f]: Commencement: S. 116(4)-(8) in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

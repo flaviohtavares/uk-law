@@ -65,15 +65,15 @@ may continue to be included in the scheme or, as the case may be, retain his eli
 
 ## 3. Powers of Secretary of State in relation to transfer under s. 1.
 
-(1)[^key-ff721389daceab62bbbac8d0d43503c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ff721389daceab62bbbac8d0d43503c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-ff721389daceab62bbbac8d0d43503c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ff721389daceab62bbbac8d0d43503c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ff721389daceab62bbbac8d0d43503c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ff721389daceab62bbbac8d0d43503c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) [^key-3e29dd78cfb6d34015bf99dbc7a788a9]...A certificate issued by the Secretary of State to the effect that any property of the Authority was, or was not, transferred by virtue of section 1, or that any rights, liabilities or obligations of the Authority specified in the certificate were, or were not, so transferred shall be conclusive evidence of the matters stated in the certificate; [^key-3e29dd78cfb6d34015bf99dbc7a788a9]...
+(4) [^c-3e29dd78cfb6d34015bf99dbc7a788a9]...A certificate issued by the Secretary of State to the effect that any property of the Authority was, or was not, transferred by virtue of section 1, or that any rights, liabilities or obligations of the Authority specified in the certificate were, or were not, so transferred shall be conclusive evidence of the matters stated in the certificate; [^c-3e29dd78cfb6d34015bf99dbc7a788a9]...
 
-(5) Before [^key-4255a97966fec9b0976d719e9d31f939]... issuing any certificate under this section in relation to any matter the Secretary of State shall consult the Authority; and on [^key-4255a97966fec9b0976d719e9d31f939]...issuing any certificate thereunder the Secretary of State shall send a copy of it to the Authority.
+(5) Before [^c-4255a97966fec9b0976d719e9d31f939]... issuing any certificate under this section in relation to any matter the Secretary of State shall consult the Authority; and on [^c-4255a97966fec9b0976d719e9d31f939]...issuing any certificate thereunder the Secretary of State shall send a copy of it to the Authority.
 
 ## 4. General transitional provisions.
 
@@ -84,7 +84,7 @@ may continue to be included in the scheme or, as the case may be, retain his eli
 
 the agreement shall have effect, in relation to anything falling to be done on or after that day, as if for that reference there were substituted a reference either to the Secretary of State or to such person as he may appoint for the purposes of the agreement.
 
-(2) Where any right, liability or obligation is transferred to the Secretary of State by virtue of this Act, he and all other persons shall, on and after the appointed day, have the same rights, powers and remedies (and in particular, the same rights as to the taking or resisting of legal proceedings) for ascertaining, perfecting or enforcing that right, liability or obligation as they would have had if it had at all times been a right, liability or obligation of the Secretary of State;[^key-2ef25f0c143d7f6e0d534cf7bf6c9d22]...
+(2) Where any right, liability or obligation is transferred to the Secretary of State by virtue of this Act, he and all other persons shall, on and after the appointed day, have the same rights, powers and remedies (and in particular, the same rights as to the taking or resisting of legal proceedings) for ascertaining, perfecting or enforcing that right, liability or obligation as they would have had if it had at all times been a right, liability or obligation of the Secretary of State;[^c-2ef25f0c143d7f6e0d534cf7bf6c9d22]...
 
 (3) In subsection (2) above, any reference to legal proceedings shall be construed as including a reference to any application to an authority, and any reference to the taking or resisting of legal proceedings shall be construed accordingly.
 
@@ -185,13 +185,13 @@ This Act may be cited as the Atomic Energy Authority (Weapons Group) Act 1973.
 
 [^c701440]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-ff721389daceab62bbbac8d0d43503c7]: Textual amendment: S. 3(1)-(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-ff721389daceab62bbbac8d0d43503c7]: Textual amendment: S. 3(1)-(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-3e29dd78cfb6d34015bf99dbc7a788a9]: Textual amendment: Words in s. 3(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-3e29dd78cfb6d34015bf99dbc7a788a9]: Textual amendment: Words in s. 3(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-4255a97966fec9b0976d719e9d31f939]: Textual amendment: Words in s. 3(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-4255a97966fec9b0976d719e9d31f939]: Textual amendment: Words in s. 3(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-2ef25f0c143d7f6e0d534cf7bf6c9d22]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/ukpga/1973/4/section/4/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-2ef25f0c143d7f6e0d534cf7bf6c9d22]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/ukpga/1973/4/section/4/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
 [^c701441]: Marginal citation: [1958 c. 38](https://www.legislation.gov.uk/ukpga/1958/38).
 

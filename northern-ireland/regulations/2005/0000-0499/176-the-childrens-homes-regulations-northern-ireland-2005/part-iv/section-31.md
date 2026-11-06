@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Fire precautions[^key-08f65e90d62781ab254e90ec5b96fc36]
+## 31. Fire precautions[^c-08f65e90d62781ab254e90ec5b96fc36]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ The registered person shall have in place a current risk assessment and fire man
 
 ## Annotations
 
-[^key-08f65e90d62781ab254e90ec5b96fc36]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2005/176/regulation/31) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-08f65e90d62781ab254e90ec5b96fc36]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2005/176/regulation/31) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

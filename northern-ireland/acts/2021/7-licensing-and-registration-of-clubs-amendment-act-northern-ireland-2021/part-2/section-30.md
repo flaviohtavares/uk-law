@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Removal of additional restrictions at Easter[^key-f60c914efc171db284f3a1674dd2085b][^key-c8588a24b99f52f894d76f108fa08c94]
+## 30. Removal of additional restrictions at Easter[^c-f60c914efc171db284f3a1674dd2085b][^c-c8588a24b99f52f894d76f108fa08c94]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f60c914efc171db284f3a1674dd2085b]: Commencement: S. 30 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-f60c914efc171db284f3a1674dd2085b]: Commencement: S. 30 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-c8588a24b99f52f894d76f108fa08c94]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2021/7/section/30) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-c8588a24b99f52f894d76f108fa08c94]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2021/7/section/30) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

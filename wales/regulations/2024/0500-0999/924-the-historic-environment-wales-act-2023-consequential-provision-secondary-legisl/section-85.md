@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. The Local Inquiries and Qualifying Procedures (Standard Daily Amount) (Wales) Regulations 2017[^key-35e344842ec393967e8f65878232d329]
+## 85. The Local Inquiries and Qualifying Procedures (Standard Daily Amount) (Wales) Regulations 2017[^c-35e344842ec393967e8f65878232d329]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In the Local Inquiries and Qualifying Procedures (Standard Daily Amount) (Wales)
 
 ## Annotations
 
-[^key-35e344842ec393967e8f65878232d329]: Commencement: [Reg. 85](https://www.legislation.gov.uk/wsi/2024/924/regulation/85) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-35e344842ec393967e8f65878232d329]: Commencement: [Reg. 85](https://www.legislation.gov.uk/wsi/2024/924/regulation/85) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00048]: Footnote: [S.I. 2017/476 (W. 99)](https://www.legislation.gov.uk/wsi/2017/476).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 779A. Application of Chapter[^key-ccd9c726edb701d5198a831bfca34548]
+## 779A. Application of Chapter[^c-ccd9c726edb701d5198a831bfca34548]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ assume for the purposes of subsection (9) that the transferor receives considera
 
 ## Annotations
 
-[^key-ccd9c726edb701d5198a831bfca34548]: Textual amendment: [Pt. 16 Ch. 4](https://www.legislation.gov.uk/ukpga/2010/4/part/16/chapter/4) inserted (with effect in accordance with Sch. 17 para. 29(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 29(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/29/1)
+[^c-ccd9c726edb701d5198a831bfca34548]: Textual amendment: [Pt. 16 Ch. 4](https://www.legislation.gov.uk/ukpga/2010/4/part/16/chapter/4) inserted (with effect in accordance with Sch. 17 para. 29(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 29(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/29/1)

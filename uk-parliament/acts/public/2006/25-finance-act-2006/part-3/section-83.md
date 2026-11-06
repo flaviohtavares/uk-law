@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-464fe7e70489d66d532115b157738987] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-464fe7e70489d66d532115b157738987] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-464fe7e70489d66d532115b157738987] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-464fe7e70489d66d532115b157738987] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After section 261 of CAA 2001 (special leasing: life assurance business) insert—
 
@@ -53,11 +53,11 @@ summary: ''
 
 (6) A relevant change in the interest of the company in the business occurs at any time if—
 
-- (a) immediately before that time its interest in the business during any accounting period of the partnership is determined on an allowable basis (within the meaning given by section 887 of the Corporation Tax Act 2010[^key-04cc6156029d32f3ab575112d2466d7d]), and
+- (a) immediately before that time its interest in the business during any accounting period of the partnership is determined on an allowable basis (within the meaning given by section 887 of the Corporation Tax Act 2010[^c-04cc6156029d32f3ab575112d2466d7d]), and
 - (b) immediately after that time its interest in the business during that period is not so determined.
 
 ## Annotations
 
-[^key-464fe7e70489d66d532115b157738987]: Textual amendment: S. 83(1)(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-464fe7e70489d66d532115b157738987]: Textual amendment: S. 83(1)(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-04cc6156029d32f3ab575112d2466d7d]: Textual amendment: Words in s. 83(6)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 482](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/482) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-04cc6156029d32f3ab575112d2466d7d]: Textual amendment: Words in s. 83(6)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 482](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/482) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

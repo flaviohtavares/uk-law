@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC
 
-The Motorcycles (Sound Level Measurement Certificates) (Amendment) Regulations 1989 (revoked)[^key-7aa0351e9143db7a7aa8a6b12f0138b4]
+The Motorcycles (Sound Level Measurement Certificates) (Amendment) Regulations 1989 (revoked)[^c-7aa0351e9143db7a7aa8a6b12f0138b4]
 
 Made
 
@@ -45,22 +45,22 @@ Coming into force
 
 24th May 1989
 
-[^key-7aa0351e9143db7a7aa8a6b12f0138b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7aa0351e9143db7a7aa8a6b12f0138b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-7aa0351e9143db7a7aa8a6b12f0138b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7aa0351e9143db7a7aa8a6b12f0138b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7aa0351e9143db7a7aa8a6b12f0138b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7aa0351e9143db7a7aa8a6b12f0138b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7aa0351e9143db7a7aa8a6b12f0138b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7aa0351e9143db7a7aa8a6b12f0138b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7aa0351e9143db7a7aa8a6b12f0138b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7aa0351e9143db7a7aa8a6b12f0138b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7aa0351e9143db7a7aa8a6b12f0138b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7aa0351e9143db7a7aa8a6b12f0138b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7aa0351e9143db7a7aa8a6b12f0138b4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1989/713) revoked (31.12.2013) by [The Road Traffic, Public Passenger Transport and Vehicles (Revocations) Regulations 2013 (S.I. 2013/2987)](https://www.legislation.gov.uk/uksi/2013/2987), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2987/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2987/schedule/2)
+[^c-7aa0351e9143db7a7aa8a6b12f0138b4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1989/713) revoked (31.12.2013) by [The Road Traffic, Public Passenger Transport and Vehicles (Revocations) Regulations 2013 (S.I. 2013/2987)](https://www.legislation.gov.uk/uksi/2013/2987), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2987/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2987/schedule/2)

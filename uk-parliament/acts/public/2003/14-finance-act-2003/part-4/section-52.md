@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-567f3af7e8eff16a066d0a1e74d10f10][^key-63b5832859374a1bcee7249b0247f252]
+[^c-567f3af7e8eff16a066d0a1e74d10f10][^c-63b5832859374a1bcee7249b0247f252]
 
 (1) This section applies to so much of the chargeable consideration for a land transaction as consists of an annuity payable—
 
@@ -50,6 +50,6 @@ No account shall be taken for the purposes of this Schedule of any provision for
 
 [^c5521721]: Commencement: Pt. 4 wholly in force at Royal Assent subject to Sch. 19, see s. 124, Sch. 19 para. 1(1)
 
-[^key-567f3af7e8eff16a066d0a1e74d10f10]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/part/4) applied (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [29(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/29/2)[(5)](https://www.legislation.gov.uk/uksi/2025/200/regulation/29/5) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-567f3af7e8eff16a066d0a1e74d10f10]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/part/4) applied (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [29(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/29/2)[(5)](https://www.legislation.gov.uk/uksi/2025/200/regulation/29/5) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-63b5832859374a1bcee7249b0247f252]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/part/4) modified (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2025/200/regulation/28), [30](https://www.legislation.gov.uk/uksi/2025/200/regulation/30) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-63b5832859374a1bcee7249b0247f252]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/part/4) modified (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2025/200/regulation/28), [30](https://www.legislation.gov.uk/uksi/2025/200/regulation/30) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))

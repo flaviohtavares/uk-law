@@ -46,7 +46,7 @@ The Social Security Advisory Committee have agreed that the proposals in respect
 
 Regulations 2 and 3 are made with the consent of the Department of Finance[^f00006].
 
-## 1. Citation, commencement and interpretation[^key-fa666a7d383c31f76217a320fb77b882]
+## 1. Citation, commencement and interpretation[^c-fa666a7d383c31f76217a320fb77b882]
 
 (1) These Regulations may be cited as the Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations (Northern Ireland) 2017 and come into operation—
 
@@ -55,7 +55,7 @@ Regulations 2 and 3 are made with the consent of the Department of Finance[^f000
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Housing Benefit Regulations[^key-520a8b7f8ca27dafd17ab03117524b64][^key-d650214e2e57841f7ff229966f69dc21]
+## 2. Amendment of the Housing Benefit Regulations[^c-520a8b7f8ca27dafd17ab03117524b64][^c-d650214e2e57841f7ff229966f69dc21]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00008] are amended in accordance with paragraphs (2) to (5).
 
@@ -179,7 +179,7 @@ Regulations 2 and 3 are made with the consent of the Department of Finance[^f000
 
     .
 
-(3)[^key-520a8b7f8ca27dafd17ab03117524b64] For regulation 13AA(4) (eligible rent and maximum rent (social sector)) [^f00012]substitute—
+(3)[^c-520a8b7f8ca27dafd17ab03117524b64] For regulation 13AA(4) (eligible rent and maximum rent (social sector)) [^f00012]substitute—
 
 > (4) For the purposes of paragraph (3), a claimant is treated as occupying the dwelling if—
 >
@@ -206,7 +206,7 @@ Regulations 2 and 3 are made with the consent of the Department of Finance[^f000
 
 .
 
-## 3. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-316e8ade6544ebc6a6c6fb25f0e6256a]
+## 3. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-316e8ade6544ebc6a6c6fb25f0e6256a]
 
 (1) The Housing Benefit (Persons who have attained the age for state pension credit) Regulations (Northern Ireland) 2006[^f00015] are amended in accordance with paragraphs (2) to (4).
 
@@ -347,7 +347,7 @@ Regulations 2 and 3 are made with the consent of the Department of Finance[^f000
 
 .
 
-## 4. Amendments to the State Pension Credit Regulations[^key-e8e6e6e8f0abefbd808bed43c52dc2df]
+## 4. Amendments to the State Pension Credit Regulations[^c-e8e6e6e8f0abefbd808bed43c52dc2df]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00021] are amended in accordance with paragraphs (2) to (10)—
 
@@ -463,7 +463,7 @@ Regulations 2 and 3 are made with the consent of the Department of Finance[^f000
 
 (10) In paragraph 1(2) of Schedule 6 (sums disregarded from claimant’s earnings) in the definition of “child”[^f00031] after “qualifying young person” insert “within the meaning of regulation 4A” and for “for the purposes of Part IX of the Contributions and Benefits Act” substitute “as defined in Article 46 of the 2015 Order”.
 
-## 5. Transitional provision[^key-0760cc41136ddd33637c28f8122dadf5]
+## 5. Transitional provision[^c-0760cc41136ddd33637c28f8122dadf5]
 
 (1) Subject to paragraph (2), regulations 2(1), (2) and 3 shall not apply in respect of a person who is temporarily absent from Northern Ireland on 30th January 2017 until the day that person returns to Northern Ireland.
 
@@ -483,7 +483,7 @@ Regulations 2 and 3 are made with the consent of the Department of Finance[^f000
   - (a) the employment in that capacity is for the purposes of that ship or vessel or its crew or any passengers or cargo or mails carried by the ship or vessel; and
   - (b) the contract is entered into in the United Kingdom with a view to its performance (in whole or in part) while the ship or vessel is on its voyage;
 - “member of Her Majesty’s forces posted overseas” means a person who is a member of the regular forces or the reserve forces (within the meaning of section 374 of the Armed Forces Act 2006) who is absent from the dwelling that the person normally occupies as his home because the person has been posted outside of Northern Ireland to perform the duties of a member of Her Majesty’s regular forces or reserve forces; and
-- “prescribed area” means any area over which Norway or any member State [^key-45a337ada72abc05759ff841149de926]... exercises sovereign rights for the purpose of exploring the seabed and subsoil and exploiting their natural resources, being an area outside the territorial seas of Norway or such member State, or any other area which is from time to time specified under section 10(8) of the Petroleum Act 1998.
+- “prescribed area” means any area over which Norway or any member State [^c-45a337ada72abc05759ff841149de926]... exercises sovereign rights for the purpose of exploring the seabed and subsoil and exploiting their natural resources, being an area outside the territorial seas of Norway or such member State, or any other area which is from time to time specified under section 10(8) of the Petroleum Act 1998.
 
 Sealed with the Official Seal of the Department for Communities on 4th January 2017
 
@@ -563,13 +563,13 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00006]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); *see also* Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-fa666a7d383c31f76217a320fb77b882]: Commencement: Reg. 1 in operation at 30.1.2017, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/a)
+[^c-fa666a7d383c31f76217a320fb77b882]: Commencement: Reg. 1 in operation at 30.1.2017, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/a)
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-520a8b7f8ca27dafd17ab03117524b64]: Commencement: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2017/1/regulation/2/3) in operation at 20.2.2017, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/b)
+[^c-520a8b7f8ca27dafd17ab03117524b64]: Commencement: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2017/1/regulation/2/3) in operation at 20.2.2017, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/b)
 
-[^key-d650214e2e57841f7ff229966f69dc21]: Commencement: Reg. 2 in operation at 30.1.2017, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/a)
+[^c-d650214e2e57841f7ff229966f69dc21]: Commencement: Reg. 2 in operation at 30.1.2017, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/a)
 
 [^f00008]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
 
@@ -585,7 +585,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00014]: Footnote: Regulation 14A was inserted by regulation 2(7) of [S.R. 2008 No. 101](https://www.legislation.gov.uk/nisr/2008/101)
 
-[^key-316e8ade6544ebc6a6c6fb25f0e6256a]: Commencement: Reg. 3 in operation at 30.1.2017, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/a)
+[^c-316e8ade6544ebc6a6c6fb25f0e6256a]: Commencement: Reg. 3 in operation at 30.1.2017, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/a)
 
 [^f00015]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406)
 
@@ -599,7 +599,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00020]: Footnote: Regulation 14A was inserted by regulation 2(7) of [S.R. 2008 No. 102](https://www.legislation.gov.uk/nisr/2008/102)
 
-[^key-e8e6e6e8f0abefbd808bed43c52dc2df]: Commencement: Reg. 4 in operation at 30.1.2017, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/a)
+[^c-e8e6e6e8f0abefbd808bed43c52dc2df]: Commencement: Reg. 4 in operation at 30.1.2017, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/a)
 
 [^f00021]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28): relevant amending Regulations are S.R. 2006 Nos. [128](https://www.legislation.gov.uk/nisr/2006/128) and [359](https://www.legislation.gov.uk/nisr/2006/359) and [S.R. 2008 No. 410](https://www.legislation.gov.uk/nisr/2008/410)
 
@@ -623,6 +623,6 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00031]: Footnote: The definition of “child” was amended by regulation 5(6) of [S.R. 2006 No. 128](https://www.legislation.gov.uk/nisr/2006/128)
 
-[^key-0760cc41136ddd33637c28f8122dadf5]: Commencement: Reg. 5 in operation at 30.1.2017, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/a)
+[^c-0760cc41136ddd33637c28f8122dadf5]: Commencement: Reg. 5 in operation at 30.1.2017, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/a)
 
-[^key-45a337ada72abc05759ff841149de926]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/nisr/2017/1/regulation/5/4) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/129)](https://www.legislation.gov.uk/uksi/2019/129), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/129/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2019/129/schedule/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-45a337ada72abc05759ff841149de926]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/nisr/2017/1/regulation/5/4) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/129)](https://www.legislation.gov.uk/uksi/2019/129), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/129/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2019/129/schedule/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

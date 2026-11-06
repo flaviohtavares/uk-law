@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Additional functions under this Part[^key-721d339a16ec660547a060312c534412]
+## 232. Additional functions under this Part[^c-721d339a16ec660547a060312c534412]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-721d339a16ec660547a060312c534412]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2016/25/section/232) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/g)
+[^c-721d339a16ec660547a060312c534412]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2016/25/section/232) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/g)

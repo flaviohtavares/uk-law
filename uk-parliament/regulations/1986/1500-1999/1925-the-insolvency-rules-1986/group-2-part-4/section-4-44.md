@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.44. Meaning of “creditors”[^key-c60087ace755fa3c3b4aa2cacfaaff23]
+## 4.44. Meaning of “creditors”[^c-c60087ace755fa3c3b4aa2cacfaaff23]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any reference in this Chapter to creditors is to creditors of the company who ar
 
 ## Annotations
 
-[^key-c60087ace755fa3c3b4aa2cacfaaff23]: Commencement: [Rule 4.44](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.44) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c60087ace755fa3c3b4aa2cacfaaff23]: Commencement: [Rule 4.44](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.44) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

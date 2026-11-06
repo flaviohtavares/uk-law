@@ -40,10 +40,10 @@ summary: ''
 
 (8) A copy of the claim notice must be given to each person who on the relevant date is the qualifying tenant of a flat contained in the premises.
 
-(9) Where a manager has been appointed under Part 2 of the 1987 Act to act in relation to the premises, or any premises containing or contained in the premises, a copy of the claim notice must also be given to the [^key-39939b3b7c3f23de4bcec6866360fbfe]... tribunal or court by which he was appointed.
+(9) Where a manager has been appointed under Part 2 of the 1987 Act to act in relation to the premises, or any premises containing or contained in the premises, a copy of the claim notice must also be given to the [^c-39939b3b7c3f23de4bcec6866360fbfe]... tribunal or court by which he was appointed.
 
 ## Annotations
 
 [^c21531091]: Commencement: S. 79 wholly in force at 30.3.2004; s. 79 not in force at Royal Assent see s. 181(1); s. 79 wholly in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); s. 79 wholly in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
-[^key-39939b3b7c3f23de4bcec6866360fbfe]: Textual amendment: Words in s. 79(9) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 132](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/132) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-39939b3b7c3f23de4bcec6866360fbfe]: Textual amendment: Words in s. 79(9) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 132](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/132) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

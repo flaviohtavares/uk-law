@@ -20,7 +20,7 @@ summary: ''
 
 **Not yet in force.**
 
-**39.**[^key-5addcb319cdfa7601537518219c65530] A person shall not use a single wall set net or trammel net—
+**39.**[^c-5addcb319cdfa7601537518219c65530] A person shall not use a single wall set net or trammel net—
 
 - (a) for the taking of pollen in Lough Neagh or Upper and Lower Lough Erne unless it has a mesh of 27 millimetres or more from knot to knot or 108 millimetres to be measured all round each mesh;
 - (b) for the taking of perch in Lough Neagh unless it has a mesh of 27 millimetres or more from knot to knot or 108 millimetres to be measured all round each mesh;
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5addcb319cdfa7601537518219c65530]: Commencement: S. 39 in operation at 1.11.1997, see byelaw 1
+[^c-5addcb319cdfa7601537518219c65530]: Commencement: S. 39 in operation at 1.11.1997, see byelaw 1

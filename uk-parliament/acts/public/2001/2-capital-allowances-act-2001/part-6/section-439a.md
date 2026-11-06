@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 439A. Qualifying expenditure incurred for purposes of NI rate activity[^key-c08e015bc4a4f2a4178a351aae073ee1]
+## 439A. Qualifying expenditure incurred for purposes of NI rate activity[^c-c08e015bc4a4f2a4178a351aae073ee1]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c08e015bc4a4f2a4178a351aae073ee1]: Textual amendment: [S. 439A](https://www.legislation.gov.uk/ukpga/2001/2/section/439A) inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/14)
+[^c-c08e015bc4a4f2a4178a351aae073ee1]: Textual amendment: [S. 439A](https://www.legislation.gov.uk/ukpga/2001/2/section/439A) inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/14)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Two voting systems[^key-20e2e6f506a40183d1cfc5f87a54178f]
+## 5. Two voting systems[^c-20e2e6f506a40183d1cfc5f87a54178f]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20e2e6f506a40183d1cfc5f87a54178f]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2021/1/section/5) in force at 6.5.2022, see [s. 175(6)(a)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/a)
+[^c-20e2e6f506a40183d1cfc5f87a54178f]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2021/1/section/5) in force at 6.5.2022, see [s. 175(6)(a)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 14[^key-2620ea51b9288687f5188ab62d6710fe][^key-54ff023fd12c731a91bc0c2988b1a65f][^key-dedbae04d69d28ee123cc39e172079ce]
+## SCHEDULE 14[^c-2620ea51b9288687f5188ab62d6710fe][^c-54ff023fd12c731a91bc0c2988b1a65f][^c-dedbae04d69d28ee123cc39e172079ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,11 +62,11 @@ Section 118.
 
 ## Annotations
 
-[^key-2620ea51b9288687f5188ab62d6710fe]: Modification: Sch. 14 modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 1 para. 17(3)(b)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/1/paragraph/17/3/b)
+[^c-2620ea51b9288687f5188ab62d6710fe]: Modification: Sch. 14 modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 1 para. 17(3)(b)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/1/paragraph/17/3/b)
 
-[^key-54ff023fd12c731a91bc0c2988b1a65f]: Modification: [Sch. 14](https://www.legislation.gov.uk/ukpga/2000/41/schedule/14) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/25); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-54ff023fd12c731a91bc0c2988b1a65f]: Modification: [Sch. 14](https://www.legislation.gov.uk/ukpga/2000/41/schedule/14) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/25); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-dedbae04d69d28ee123cc39e172079ce]: Modification: [Sch. 14](https://www.legislation.gov.uk/ukpga/2000/41/schedule/14) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/22); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-dedbae04d69d28ee123cc39e172079ce]: Modification: [Sch. 14](https://www.legislation.gov.uk/ukpga/2000/41/schedule/14) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/22); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
 [^c10577211]: Commencement: Sch. 14 wholly in force at 16.2.2001; Sch. 14 partly in force at Royal Assent, see s. 163(3); Sch. 14 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 

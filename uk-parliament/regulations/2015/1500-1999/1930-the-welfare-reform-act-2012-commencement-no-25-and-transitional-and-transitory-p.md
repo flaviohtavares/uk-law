@@ -98,7 +98,7 @@ a claim for an employment and support allowance or a jobseeker’s allowance is 
 
 (5) Article 3A of the No. 9 Order[^f00016] applies in connection with a claim for universal credit where a single claimant, or, as the case may be, either or both of joint claimants, gives or give incorrect information regarding his or her (or their) residing in one of the designated postcodes, as it applies in connection with the giving of incorrect information regarding a claimant residing in one of the relevant districts (as defined in the No. 9 Order).
 
-## 4. Day appointed for the abolition of income-related employment and support allowance and income-based jobseeker’s allowance[^key-3bc85d64cf72571f3734178d7c42a293]
+## 4. Day appointed for the abolition of income-related employment and support allowance and income-based jobseeker’s allowance[^c-3bc85d64cf72571f3734178d7c42a293]
 
 (1) The day appointed for the coming into force of the amending provisions, in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the day appointed in accordance with paragraph (3).
 
@@ -534,7 +534,7 @@ The following provisions of the Welfare Reform Act [2012 (c. 5)](https://www.leg
 
 [^f00016]: Footnote: Article 3A was substituted by [S.I. 2014/1923 (C. 88)](https://www.legislation.gov.uk/uksi/2014/1923) and amended by [S.I. 2015/634 (C. 32)](https://www.legislation.gov.uk/uksi/2015/634).
 
-[^key-3bc85d64cf72571f3734178d7c42a293]: Modification: Art. 4 modified (22.7.2020) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/3), [5(1)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/2)) (as amended: (4.8.2020) by S.I. 2020/826, regs. 1, 2(2))
+[^c-3bc85d64cf72571f3734178d7c42a293]: Modification: Art. 4 modified (22.7.2020) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/3), [5(1)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/2)) (as amended: (4.8.2020) by S.I. 2020/826, regs. 1, 2(2))
 
 [^f00017]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
 

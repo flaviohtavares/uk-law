@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 160. Costs not to fall on bank liquidator[^key-fe055a4de53a2e2ac3dfe84cc66afcb3]
+## 160. Costs not to fall on bank liquidator[^c-fe055a4de53a2e2ac3dfe84cc66afcb3]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The bank liquidator is not personally liable for any costs incurred by a person 
 
 ## Annotations
 
-[^key-fe055a4de53a2e2ac3dfe84cc66afcb3]: Commencement: Rule 160 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-fe055a4de53a2e2ac3dfe84cc66afcb3]: Commencement: Rule 160 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

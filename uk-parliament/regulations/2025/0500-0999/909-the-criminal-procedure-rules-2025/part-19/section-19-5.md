@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19.5. Expert to be informed of service of report[^key-33f51c67516debebdff061ee56ec4951]
+## 19.5. Expert to be informed of service of report[^c-33f51c67516debebdff061ee56ec4951]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A party who serves on another party or on the court a report by an expert must, 
 
 ## Annotations
 
-[^key-33f51c67516debebdff061ee56ec4951]: Commencement: [Rule 19.5](https://www.legislation.gov.uk/uksi/2025/909/rule/19.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-33f51c67516debebdff061ee56ec4951]: Commencement: [Rule 19.5](https://www.legislation.gov.uk/uksi/2025/909/rule/19.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

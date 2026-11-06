@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Duties to ensure period products are obtainable free of charge
 
-### 1. Provision of free period products: Department scheme[^key-7de4f4e53ed7a0dac187ae7c28241f00]
+### 1. Provision of free period products: Department scheme[^c-7de4f4e53ed7a0dac187ae7c28241f00]
 
 (1) The Department must ensure that period products are obtainable free of charge (in accordance with arrangements established and maintained by the Department) by all persons who need to use them.
 
@@ -49,7 +49,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - (a) must include provision under which period products are obtainable by another person on behalf of the person who needs to use them;
 - (b) may, where they include provision under which period products may be delivered to a person, require the person to pay costs associated with packing and delivery (except where the person could not reasonably obtain products in accordance with the arrangements in any other way).
 
-(4)[^key-e3cd6a457199c85f2add928455e4dec9] The Department must consult on the arrangements to be established and maintained by it under subsection (1), including—
+(4)[^c-e3cd6a457199c85f2add928455e4dec9] The Department must consult on the arrangements to be established and maintained by it under subsection (1), including—
 
 - (a) the ways in which users of period products ought to be able to obtain period products free of charge;
 - (b) the locations in which period products ought to be obtainable free of charge; and
@@ -66,28 +66,28 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (8) For the purposes of subsection (2), the needs of a person who lives in Northern Ireland are to be regarded as all arising while in Northern Ireland.
 
-(9)[^key-d7005575686a94c15c90f1f72ab12e7c] In this section, “**the Department**” means the Executive Office.
+(9)[^c-d7005575686a94c15c90f1f72ab12e7c] In this section, “**the Department**” means the Executive Office.
 
-### 2. Provision of free period products: public service bodies[^key-ed4cd24b778afe1f0257bf09613c27e7][^key-5b2772986a18371c9d4a857d5adabc3f]
+### 2. Provision of free period products: public service bodies[^c-ed4cd24b778afe1f0257bf09613c27e7][^c-5b2772986a18371c9d4a857d5adabc3f]
 
-(1)[^key-ed4cd24b778afe1f0257bf09613c27e7] Each department must in respect of the public service bodies within its functions, within the period of one year beginning with the day on which this Act is passed, specify by regulations those public service bodies to which the duty in subsection (3) applies.
+(1)[^c-ed4cd24b778afe1f0257bf09613c27e7] Each department must in respect of the public service bodies within its functions, within the period of one year beginning with the day on which this Act is passed, specify by regulations those public service bodies to which the duty in subsection (3) applies.
 
-(2)[^key-ed4cd24b778afe1f0257bf09613c27e7] The public service bodies specified under subsection (1) must include—
+(2)[^c-ed4cd24b778afe1f0257bf09613c27e7] The public service bodies specified under subsection (1) must include—
 
 - (a) bodies with functions that would enable them to discharge the duty in subsection (3) in relation to persons in hospital premises;
 - (b) bodies with functions that would enable them to discharge that duty in relation to persons in school premises;
 - (c) bodies with functions that would enable them to discharge that duty in relation to persons in further education premises; and
 - (d) bodies with functions that would enable them to discharge that duty in relation to persons in higher education premises.
 
-(3)[^key-5b2772986a18371c9d4a857d5adabc3f] Each public service body specified in regulations made by a department (a “specified public service body”) under subsection (1) must ensure that period products are obtainable free of charge (in accordance with arrangements established and maintained by the body) by persons in its premises who need to use them.
+(3)[^c-5b2772986a18371c9d4a857d5adabc3f] Each public service body specified in regulations made by a department (a “specified public service body”) under subsection (1) must ensure that period products are obtainable free of charge (in accordance with arrangements established and maintained by the body) by persons in its premises who need to use them.
 
-(4)[^key-5b2772986a18371c9d4a857d5adabc3f] A specified public service body is to do so by providing period products, or securing their provision, in such locations within those premises as are specified in arrangements established and maintained under subsection (3).
+(4)[^c-5b2772986a18371c9d4a857d5adabc3f] A specified public service body is to do so by providing period products, or securing their provision, in such locations within those premises as are specified in arrangements established and maintained under subsection (3).
 
-(5)[^key-5b2772986a18371c9d4a857d5adabc3f] Where a specified public service body operates over a number of sites in Northern Ireland, the locations specified in the arrangements established and maintained under subsection (3) must include locations in premises at each such site.
+(5)[^c-5b2772986a18371c9d4a857d5adabc3f] Where a specified public service body operates over a number of sites in Northern Ireland, the locations specified in the arrangements established and maintained under subsection (3) must include locations in premises at each such site.
 
-(6)[^key-5b2772986a18371c9d4a857d5adabc3f] The period products obtainable free of charge by a person under the arrangements established and maintained under subsection (3) are to be sufficient products to meet the person’s needs while the person is in the premises.
+(6)[^c-5b2772986a18371c9d4a857d5adabc3f] The period products obtainable free of charge by a person under the arrangements established and maintained under subsection (3) are to be sufficient products to meet the person’s needs while the person is in the premises.
 
-(7)[^key-ed4cd24b778afe1f0257bf09613c27e7] Where regulations under subsection (1) specify a public service body they may also—
+(7)[^c-ed4cd24b778afe1f0257bf09613c27e7] Where regulations under subsection (1) specify a public service body they may also—
 
 - (a) provide for descriptions of premises to be treated as being (or as not being) premises of that body for the purposes of this Act;
 - (b) provide for descriptions of persons to be treated as being (or as not being) persons “in” that body’s premises for the purposes of this Act; and
@@ -95,31 +95,31 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 and provision under paragraph (b) may include provision in respect of persons who are on premises without a legitimate reason for being there.
 
-(8)[^key-ed4cd24b778afe1f0257bf09613c27e7] Before specifying a public service body under this section, a department—
+(8)[^c-ed4cd24b778afe1f0257bf09613c27e7] Before specifying a public service body under this section, a department—
 
 - (a) must consult the public service body; and
 - (b) may consult any other body or person they think appropriate.
 
-(9)[^key-ed4cd24b778afe1f0257bf09613c27e7] Public service bodies may be specified for the purposes of this section by reference to a class that they are in.
+(9)[^c-ed4cd24b778afe1f0257bf09613c27e7] Public service bodies may be specified for the purposes of this section by reference to a class that they are in.
 
-(10)[^key-ed4cd24b778afe1f0257bf09613c27e7] Where they are proposed to be so specified under subsection (9), subsection (8) applies in relation to each of those public service bodies.
+(10)[^c-ed4cd24b778afe1f0257bf09613c27e7] Where they are proposed to be so specified under subsection (9), subsection (8) applies in relation to each of those public service bodies.
 
-(11)[^key-ed4cd24b778afe1f0257bf09613c27e7] Regulations under subsection (1) may be made jointly by two or more departments, and where two or more departments jointly make such regulations—
+(11)[^c-ed4cd24b778afe1f0257bf09613c27e7] Regulations under subsection (1) may be made jointly by two or more departments, and where two or more departments jointly make such regulations—
 
 - (a) each public service body specified by the regulations must be within the functions of one (or more) of those departments; and
 - (b) the consultation required by subsection (8) in respect of that body may be conducted by the department within whose functions the body falls (or, if there is more than one such department, any of them).
 
-(12)[^key-ed4cd24b778afe1f0257bf09613c27e7] Regulations under this section may specify that different public service bodies specified in the regulations are to become subject to the duty in subsection (3) on different days.
+(12)[^c-ed4cd24b778afe1f0257bf09613c27e7] Regulations under this section may specify that different public service bodies specified in the regulations are to become subject to the duty in subsection (3) on different days.
 
-(13)[^key-ed4cd24b778afe1f0257bf09613c27e7] Regulations under this section may make incidental, supplementary, consequential, transitional, transitory or saving provision.
+(13)[^c-ed4cd24b778afe1f0257bf09613c27e7] Regulations under this section may make incidental, supplementary, consequential, transitional, transitory or saving provision.
 
-(14)[^key-ed4cd24b778afe1f0257bf09613c27e7] Regulations under this section may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
+(14)[^c-ed4cd24b778afe1f0257bf09613c27e7] Regulations under this section may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
 
-(15)[^key-ed4cd24b778afe1f0257bf09613c27e7] Each department must review the regulations under subsection (1) that specify public service bodies within its functions at intervals of no more than three years, and if necessary take steps to ensure that the regulations are updated.
+(15)[^c-ed4cd24b778afe1f0257bf09613c27e7] Each department must review the regulations under subsection (1) that specify public service bodies within its functions at intervals of no more than three years, and if necessary take steps to ensure that the regulations are updated.
 
-(16)[^key-ed4cd24b778afe1f0257bf09613c27e7] For the purposes of this section a body is within the functions of a particular department if it is a body with functions in the subject area for which the department is responsible.
+(16)[^c-ed4cd24b778afe1f0257bf09613c27e7] For the purposes of this section a body is within the functions of a particular department if it is a body with functions in the subject area for which the department is responsible.
 
-### 3. Arrangements under sections 1 and 2: particular requirements[^key-78475d51a1e3b21236dc1681ee1df9fb]
+### 3. Arrangements under sections 1 and 2: particular requirements[^c-78475d51a1e3b21236dc1681ee1df9fb]
 
 (1) Arrangements established and maintained under section 1(1) or section 2(3) must provide for—
 
@@ -134,7 +134,7 @@ and provision under paragraph (b) may include provision in respect of persons wh
 
 (2) Arrangements established and maintained under section 2(3) must provide for period products to be obtainable by persons in its premises at all times when the specified public service body’s premises are in use, whether or not in use by the public.
 
-### 4. Reporting[^key-9e6fa59243c7295e2e7a134856a28e4d]
+### 4. Reporting[^c-9e6fa59243c7295e2e7a134856a28e4d]
 
 (1) The Executive must review and make a report on the operation of the provisions of sections 1 and 2.
 
@@ -153,7 +153,7 @@ before the end of the period of three years beginning with the day on which this
 
 ## Guidance
 
-### 5. Guidance[^key-797c291fce9871eabbcfa4d9322c47ba]
+### 5. Guidance[^c-797c291fce9871eabbcfa4d9322c47ba]
 
 (1) Each department must publish and maintain guidance on the exercise of the functions conferred on a specified public service body by sections 2 and 6.
 
@@ -172,7 +172,7 @@ before the end of the period of three years beginning with the day on which this
 
 ## Additional duties on specified public service bodies and departments
 
-### 6. Statement on arrangements[^key-1d452d7fbae2429c93c4e8762662ecd9]
+### 6. Statement on arrangements[^c-1d452d7fbae2429c93c4e8762662ecd9]
 
 (1) Each specified public service body—
 
@@ -213,7 +213,7 @@ about the specified public service body’s exercise, or proposed exercise, of t
 
 (8) In this section, “**product users**” means persons who need to use period products, or may need to use period products in the future.
 
-### 7. Duty to publish information[^key-bfe90a3f4b951d32b264d8f9c7390db6]
+### 7. Duty to publish information[^c-bfe90a3f4b951d32b264d8f9c7390db6]
 
 (1) Each department must publish information about the locations where free period products are available in such ways as they think appropriate to bring that information to the attention of persons who need to use period products or may need to use period products in the future.
 
@@ -226,7 +226,7 @@ about the specified public service body’s exercise, or proposed exercise, of t
 
 ## Final provisions
 
-### 8. Key definitions[^key-f1fd7b3a374341e9d82b636d75507536]
+### 8. Key definitions[^c-f1fd7b3a374341e9d82b636d75507536]
 
 In this Act—
 
@@ -235,7 +235,7 @@ In this Act—
 - (c) “person”, in the context of a reference to a person who needs to use period products, means a person who menstruates (whether that person is a woman, girl or other person);
 - (d) references to such a person’s “needs” are references to that person’s needs for period products arising from menstruation by that person.
 
-### 9. Interpretation[^key-fa7f6b35f4acfb42318674ab01374dc6]
+### 9. Interpretation[^c-fa7f6b35f4acfb42318674ab01374dc6]
 
 In this Act—
 
@@ -256,7 +256,7 @@ In this Act—
 - “**specified public service body**” means a public service body specified in regulations made under section 2;
 - “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
-### 10. Commencement[^key-76c2c42cdea0a2acf782b0fc391ce64c]
+### 10. Commencement[^c-76c2c42cdea0a2acf782b0fc391ce64c]
 
 (1) The following provisions of this Act come into operation on the day after Royal Assent—
 
@@ -273,36 +273,36 @@ In this Act—
 
 (3) An order under this section may include such transitional, transitory or saving provision as the Executive Office considers appropriate.
 
-### 11. Short title[^key-ad4088a1292ad96df07bc3a9c6982d93]
+### 11. Short title[^c-ad4088a1292ad96df07bc3a9c6982d93]
 
 This Act may be cited as the Period Products (Free Provision) Act (Northern Ireland) 2022.
 
 ## Annotations
 
-[^key-7de4f4e53ed7a0dac187ae7c28241f00]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/25/section/1) in operation at 12.5.2024, see [s. 10(2)](https://www.legislation.gov.uk/nia/2022/25/section/10/2)
+[^c-7de4f4e53ed7a0dac187ae7c28241f00]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/25/section/1) in operation at 12.5.2024, see [s. 10(2)](https://www.legislation.gov.uk/nia/2022/25/section/10/2)
 
-[^key-e3cd6a457199c85f2add928455e4dec9]: Commencement: [S. 1(4)](https://www.legislation.gov.uk/nia/2022/25/section/1/4) in operation at 26.6.2023 by [S.R. 2023/105](https://www.legislation.gov.uk/nisr/2023/105), [art. 2](https://www.legislation.gov.uk/nisr/2023/105/article/2)
+[^c-e3cd6a457199c85f2add928455e4dec9]: Commencement: [S. 1(4)](https://www.legislation.gov.uk/nia/2022/25/section/1/4) in operation at 26.6.2023 by [S.R. 2023/105](https://www.legislation.gov.uk/nisr/2023/105), [art. 2](https://www.legislation.gov.uk/nisr/2023/105/article/2)
 
-[^key-d7005575686a94c15c90f1f72ab12e7c]: Commencement: [S. 1(9)](https://www.legislation.gov.uk/nia/2022/25/section/1/9) in operation at 26.6.2023 by [S.R. 2023/105](https://www.legislation.gov.uk/nisr/2023/105), [art. 2](https://www.legislation.gov.uk/nisr/2023/105/article/2)
+[^c-d7005575686a94c15c90f1f72ab12e7c]: Commencement: [S. 1(9)](https://www.legislation.gov.uk/nia/2022/25/section/1/9) in operation at 26.6.2023 by [S.R. 2023/105](https://www.legislation.gov.uk/nisr/2023/105), [art. 2](https://www.legislation.gov.uk/nisr/2023/105/article/2)
 
-[^key-ed4cd24b778afe1f0257bf09613c27e7]: Commencement: S. 2(1)(2)(7)-(16) in operation at 13.5.2022, see [s. 10(1)(a)](https://www.legislation.gov.uk/nia/2022/25/section/10/1/a)
+[^c-ed4cd24b778afe1f0257bf09613c27e7]: Commencement: S. 2(1)(2)(7)-(16) in operation at 13.5.2022, see [s. 10(1)(a)](https://www.legislation.gov.uk/nia/2022/25/section/10/1/a)
 
-[^key-5b2772986a18371c9d4a857d5adabc3f]: Commencement: [S. 2(3)-(6)](https://www.legislation.gov.uk/nia/2022/25/section/2/3) in operation at 12.5.2024, see [s. 10(2)(a)](https://www.legislation.gov.uk/nia/2022/25/section/10/2/a)
+[^c-5b2772986a18371c9d4a857d5adabc3f]: Commencement: [S. 2(3)-(6)](https://www.legislation.gov.uk/nia/2022/25/section/2/3) in operation at 12.5.2024, see [s. 10(2)(a)](https://www.legislation.gov.uk/nia/2022/25/section/10/2/a)
 
-[^key-78475d51a1e3b21236dc1681ee1df9fb]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2022/25/section/3) in operation at 12.5.2024, see [s. 10(2)](https://www.legislation.gov.uk/nia/2022/25/section/10/2)
+[^c-78475d51a1e3b21236dc1681ee1df9fb]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2022/25/section/3) in operation at 12.5.2024, see [s. 10(2)](https://www.legislation.gov.uk/nia/2022/25/section/10/2)
 
-[^key-9e6fa59243c7295e2e7a134856a28e4d]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2022/25/section/4) in operation at 12.5.2024, see [s. 10(2)](https://www.legislation.gov.uk/nia/2022/25/section/10/2)
+[^c-9e6fa59243c7295e2e7a134856a28e4d]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2022/25/section/4) in operation at 12.5.2024, see [s. 10(2)](https://www.legislation.gov.uk/nia/2022/25/section/10/2)
 
-[^key-797c291fce9871eabbcfa4d9322c47ba]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2022/25/section/5) in operation at 15.4.2024 by [S.R. 2024/92](https://www.legislation.gov.uk/nisr/2024/92), [art. 2(a)](https://www.legislation.gov.uk/nisr/2024/92/article/2/a)
+[^c-797c291fce9871eabbcfa4d9322c47ba]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2022/25/section/5) in operation at 15.4.2024 by [S.R. 2024/92](https://www.legislation.gov.uk/nisr/2024/92), [art. 2(a)](https://www.legislation.gov.uk/nisr/2024/92/article/2/a)
 
-[^key-1d452d7fbae2429c93c4e8762662ecd9]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2022/25/section/6) in operation at 15.4.2024 by [S.R. 2024/92](https://www.legislation.gov.uk/nisr/2024/92), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/92/article/2/b)
+[^c-1d452d7fbae2429c93c4e8762662ecd9]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2022/25/section/6) in operation at 15.4.2024 by [S.R. 2024/92](https://www.legislation.gov.uk/nisr/2024/92), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/92/article/2/b)
 
-[^key-bfe90a3f4b951d32b264d8f9c7390db6]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2022/25/section/7) in operation at 12.5.2024, see [s. 10(2)](https://www.legislation.gov.uk/nia/2022/25/section/10/2)
+[^c-bfe90a3f4b951d32b264d8f9c7390db6]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2022/25/section/7) in operation at 12.5.2024, see [s. 10(2)](https://www.legislation.gov.uk/nia/2022/25/section/10/2)
 
-[^key-f1fd7b3a374341e9d82b636d75507536]: Commencement: S. 8 in operation at 13.5.2022, see [s. 10(1)(b)](https://www.legislation.gov.uk/nia/2022/25/section/10/1/b)
+[^c-f1fd7b3a374341e9d82b636d75507536]: Commencement: S. 8 in operation at 13.5.2022, see [s. 10(1)(b)](https://www.legislation.gov.uk/nia/2022/25/section/10/1/b)
 
-[^key-fa7f6b35f4acfb42318674ab01374dc6]: Commencement: S. 9 in operation at 13.5.2022, see [s. 10(1)(c)](https://www.legislation.gov.uk/nia/2022/25/section/10/1/c)
+[^c-fa7f6b35f4acfb42318674ab01374dc6]: Commencement: S. 9 in operation at 13.5.2022, see [s. 10(1)(c)](https://www.legislation.gov.uk/nia/2022/25/section/10/1/c)
 
-[^key-76c2c42cdea0a2acf782b0fc391ce64c]: Commencement: S. 10 in operation at 13.5.2022, see [s. 10(1)(d)](https://www.legislation.gov.uk/nia/2022/25/section/10/1/d)
+[^c-76c2c42cdea0a2acf782b0fc391ce64c]: Commencement: S. 10 in operation at 13.5.2022, see [s. 10(1)(d)](https://www.legislation.gov.uk/nia/2022/25/section/10/1/d)
 
-[^key-ad4088a1292ad96df07bc3a9c6982d93]: Commencement: S. 11 in operation at 13.5.2022, see [s. 10(1)(e)](https://www.legislation.gov.uk/nia/2022/25/section/10/1/e)
+[^c-ad4088a1292ad96df07bc3a9c6982d93]: Commencement: S. 11 in operation at 13.5.2022, see [s. 10(1)(e)](https://www.legislation.gov.uk/nia/2022/25/section/10/1/e)

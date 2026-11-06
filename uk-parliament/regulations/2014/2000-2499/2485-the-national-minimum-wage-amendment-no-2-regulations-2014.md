@@ -32,7 +32,7 @@ summary: ''
 
 Terms And Conditions Of Employment
 
-The National Minimum Wage (Amendment) (No. 2) Regulations 2014 (revoked)[^key-43b16a50ac64e46afb19a0eb066026c6]
+The National Minimum Wage (Amendment) (No. 2) Regulations 2014 (revoked)[^c-43b16a50ac64e46afb19a0eb066026c6]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into force
 
 1st October 2014
 
-[^key-43b16a50ac64e46afb19a0eb066026c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43b16a50ac64e46afb19a0eb066026c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-43b16a50ac64e46afb19a0eb066026c6]
+## 1. Citation and commencement[^c-43b16a50ac64e46afb19a0eb066026c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the National Minimum Wage Regulations 1999[^key-43b16a50ac64e46afb19a0eb066026c6]
+## 2. Amendments to the National Minimum Wage Regulations 1999[^c-43b16a50ac64e46afb19a0eb066026c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-43b16a50ac64e46afb19a0eb066026c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-43b16a50ac64e46afb19a0eb066026c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43b16a50ac64e46afb19a0eb066026c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43b16a50ac64e46afb19a0eb066026c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-43b16a50ac64e46afb19a0eb066026c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43b16a50ac64e46afb19a0eb066026c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-43b16a50ac64e46afb19a0eb066026c6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/2485) revoked (6.4.2015) by [The National Minimum Wage Regulations 2015 (S.I. 2015/621)](https://www.legislation.gov.uk/uksi/2015/621), [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/621/schedule)
+[^c-43b16a50ac64e46afb19a0eb066026c6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/2485) revoked (6.4.2015) by [The National Minimum Wage Regulations 2015 (S.I. 2015/621)](https://www.legislation.gov.uk/uksi/2015/621), [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/621/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Article 31(1): immunity from penalties[^key-d2b3050696ee41970a6aa9927fa10272][^key-c6118f909c05a5163d2e6fd8f8fb0e56]
+## 37. Article 31(1): immunity from penalties[^c-d2b3050696ee41970a6aa9927fa10272][^c-c6118f909c05a5163d2e6fd8f8fb0e56]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d2b3050696ee41970a6aa9927fa10272]: Commencement: S. 37 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-d2b3050696ee41970a6aa9927fa10272]: Commencement: S. 37 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-c6118f909c05a5163d2e6fd8f8fb0e56]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/36/section/37) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/19) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/6))
+[^c-c6118f909c05a5163d2e6fd8f8fb0e56]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/36/section/37) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/19) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/6))

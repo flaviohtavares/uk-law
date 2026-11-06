@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Disregard of contribution[^key-4b2c0aad9dfc702572c7cf9fc486c13b]
+## 48. Disregard of contribution[^c-4b2c0aad9dfc702572c7cf9fc486c13b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where the claimant or his partner is a student and the income of one is taken in
 
 ## Annotations
 
-[^key-4b2c0aad9dfc702572c7cf9fc486c13b]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1992/1814/regulation/48) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-4b2c0aad9dfc702572c7cf9fc486c13b]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1992/1814/regulation/48) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

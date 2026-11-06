@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49A. Conditions relating to Class 3 contributions: transfers to the Communities’ pension scheme[^key-d3f3f24ca9f0113552e134d6b9b6cb2a]
+## 49A. Conditions relating to Class 3 contributions: transfers to the Communities’ pension scheme[^c-d3f3f24ca9f0113552e134d6b9b6cb2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3f3f24ca9f0113552e134d6b9b6cb2a]: Textual amendment: Reg. 49A inserted (18.7.2007) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2007 (S.I. 2007/1838)](https://www.legislation.gov.uk/uksi/2007/1838), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1838/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2007/1838/regulation/3)
+[^c-d3f3f24ca9f0113552e134d6b9b6cb2a]: Textual amendment: Reg. 49A inserted (18.7.2007) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2007 (S.I. 2007/1838)](https://www.legislation.gov.uk/uksi/2007/1838), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1838/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2007/1838/regulation/3)

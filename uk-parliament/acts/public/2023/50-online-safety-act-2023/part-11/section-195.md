@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Providers that are not legal persons[^key-4486bed5db9147e56c550d0e6656c80d][^key-f4c955f88adca054600c0ebae1735b76]
+## 195. Providers that are not legal persons[^c-4486bed5db9147e56c550d0e6656c80d][^c-f4c955f88adca054600c0ebae1735b76]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4486bed5db9147e56c550d0e6656c80d]: Commencement: S. 195 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-4486bed5db9147e56c550d0e6656c80d]: Commencement: S. 195 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-f4c955f88adca054600c0ebae1735b76]: Commencement: [S. 195](https://www.legislation.gov.uk/ukpga/2023/50/section/195) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z24)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z24)
+[^c-f4c955f88adca054600c0ebae1735b76]: Commencement: [S. 195](https://www.legislation.gov.uk/ukpga/2023/50/section/195) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z24)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z24)

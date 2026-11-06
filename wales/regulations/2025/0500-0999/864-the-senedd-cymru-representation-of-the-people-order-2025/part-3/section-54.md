@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Individual candidates: return as to election expenses[^key-e322826d2a5b4d92539573befc9fa624]
+## 54. Individual candidates: return as to election expenses[^c-e322826d2a5b4d92539573befc9fa624]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e322826d2a5b4d92539573befc9fa624]: Commencement: Art. 54 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-e322826d2a5b4d92539573befc9fa624]: Commencement: Art. 54 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

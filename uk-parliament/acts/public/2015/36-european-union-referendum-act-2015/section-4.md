@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Conduct regulations, etc[^key-5ceafa76277991d7474430c98cdd89dd]
+## 4. Conduct regulations, etc[^c-5ceafa76277991d7474430c98cdd89dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ but does not include any other provision of this Act.
 
 ## Annotations
 
-[^key-5ceafa76277991d7474430c98cdd89dd]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2015/36/section/4) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-5ceafa76277991d7474430c98cdd89dd]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2015/36/section/4) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

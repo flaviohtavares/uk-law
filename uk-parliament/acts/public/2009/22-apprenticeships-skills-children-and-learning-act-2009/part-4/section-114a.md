@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114A. Directions and guidance to strategic authorities[^key-4f02cfe0cf0409f7aceac6b809240ff8]
+## 114A. Directions and guidance to strategic authorities[^c-4f02cfe0cf0409f7aceac6b809240ff8]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f02cfe0cf0409f7aceac6b809240ff8]: Textual amendment: [S. 114A](https://www.legislation.gov.uk/ukpga/2009/22/section/114A) and cross-heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2026/23/schedule/13/paragraph/9) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-4f02cfe0cf0409f7aceac6b809240ff8]: Textual amendment: [S. 114A](https://www.legislation.gov.uk/ukpga/2009/22/section/114A) and cross-heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2026/23/schedule/13/paragraph/9) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

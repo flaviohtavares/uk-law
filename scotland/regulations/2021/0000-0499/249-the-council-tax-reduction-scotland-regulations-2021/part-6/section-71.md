@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Notional capital[^key-937f6daa26323811c43e4ec268ce58fb]
+## 71. Notional capital[^c-937f6daa26323811c43e4ec268ce58fb]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ the applicant is to be treated as possessing that capital under paragraph (1) fo
 
 ## Annotations
 
-[^key-937f6daa26323811c43e4ec268ce58fb]: Commencement: [Reg. 71](https://www.legislation.gov.uk/ssi/2021/249/regulation/71) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-937f6daa26323811c43e4ec268ce58fb]: Commencement: [Reg. 71](https://www.legislation.gov.uk/ssi/2021/249/regulation/71) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

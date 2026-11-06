@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Interpretation[^key-0078553c3a53941d98c078db132712a0]
+## 143. Interpretation[^c-0078553c3a53941d98c078db132712a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 2 of the Capital Gains Tax (Pension Funds Pooling Schemes) Regulat
 
 ## Annotations
 
-[^key-0078553c3a53941d98c078db132712a0]: Commencement: Art. 143 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-0078553c3a53941d98c078db132712a0]: Commencement: Art. 143 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

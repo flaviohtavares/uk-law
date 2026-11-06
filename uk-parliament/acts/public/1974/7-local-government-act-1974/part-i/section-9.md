@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Grants and loans by the Countryside Council for Wales[^key-9f49833003bbb8f051ce8ef0ab99084e]
+## 9. Grants and loans by the Countryside Council for Wales[^c-9f49833003bbb8f051ce8ef0ab99084e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f49833003bbb8f051ce8ef0ab99084e]: Textual amendment: S. 9 omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 110](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/110) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9f49833003bbb8f051ce8ef0ab99084e]: Textual amendment: S. 9 omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 110](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/110) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

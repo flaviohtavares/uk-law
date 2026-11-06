@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.2. The inquiry principles[^key-7e033b8e95ea44f6884242a7157e0af1]
+## 2.2. The inquiry principles[^c-7e033b8e95ea44f6884242a7157e0af1]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e033b8e95ea44f6884242a7157e0af1]: Commencement: [Rule 2.2](https://www.legislation.gov.uk/ssi/2017/103/rule/2.2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-7e033b8e95ea44f6884242a7157e0af1]: Commencement: [Rule 2.2](https://www.legislation.gov.uk/ssi/2017/103/rule/2.2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

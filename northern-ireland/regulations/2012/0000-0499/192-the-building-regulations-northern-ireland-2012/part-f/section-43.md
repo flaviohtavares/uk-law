@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Renovation of thermal elements[^key-676614a703469233ca85632dd496e5bc]
+## 43. Renovation of thermal elements[^c-676614a703469233ca85632dd496e5bc]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ the whole of the thermal element shall be replaced to comply with the requiremen
 
 ## Annotations
 
-[^key-676614a703469233ca85632dd496e5bc]: Textual amendment: Reg. 43 substituted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [6(3)](https://www.legislation.gov.uk/nisr/2014/44/regulation/6/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))
+[^c-676614a703469233ca85632dd496e5bc]: Textual amendment: Reg. 43 substituted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [6(3)](https://www.legislation.gov.uk/nisr/2014/44/regulation/6/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))

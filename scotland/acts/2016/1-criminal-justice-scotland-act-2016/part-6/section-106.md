@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Other powers of Ministers unaffected[^key-1059f3824eee1404ba7bf9f57ac7140c]
+## 106. Other powers of Ministers unaffected[^c-1059f3824eee1404ba7bf9f57ac7140c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Nothing in this Chapter is to be taken to imply that the powers it gives to the 
 
 ## Annotations
 
-[^key-1059f3824eee1404ba7bf9f57ac7140c]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2016/1/section/106) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-1059f3824eee1404ba7bf9f57ac7140c]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2016/1/section/106) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

@@ -57,7 +57,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 (2) In these Regulations
 
-- “**Act**” means the Pension Schemes Act 1993[^key-987aa6d2fac387d8a2575da8ae7d52e3] [^c2181157];
+- “**Act**” means the Pension Schemes Act 1993[^c-987aa6d2fac387d8a2575da8ae7d52e3] [^c2181157];
 - “**advertisement**” includes every form of advertising, whether in a publication, by the display of notices, signs, labels or showcards, by means of circulars, catalogues, price lists or other documents, by an exhibition of pictures or photographic or cinematographic films, by way of sound broadcasting or television, by the distribution of recordings, or in any other manner; and references to the issue of an advertisement shall be construed accordingly.
 - “**explicit charges**” means those charges made by the Scheme if any, the nature and amount (whether fixed or variable) of which are ascertainable at the time application for membership is made;
 - “**issue**” in relation to an advertisement includes any form of issue or publication whether to the public at large or to individuals or groups of individuals or to any employees, but does not include the issuing or publishing of an advertisement to an agent or professional adviser of the issuer in their capacity as such.
@@ -81,18 +81,18 @@ These Regulations apply in respect of any personal pension scheme which takes th
 (2) In so far as a projection contained in an adverstisement for a deposit-based scheme relates to contributions which will give rise to protected rights under the scheme, then–
 
 - (a) if the projection is in respect of a period of not more than 5 years it–
-  - (i) shall be prepared on the basis that the only contributions to be made to the scheme are minimum contributions under section 43 of the Act[^key-0388961ae7c934138e4f334098fc0f8c] in respect of the tax year in which the projection is prepared and, if the rate of the rebate percentage (within the meaning of paragraph (2A) below) is known, the next following tax year, which shall be treated as a single premium; and
+  - (i) shall be prepared on the basis that the only contributions to be made to the scheme are minimum contributions under section 43 of the Act[^c-0388961ae7c934138e4f334098fc0f8c] in respect of the tax year in which the projection is prepared and, if the rate of the rebate percentage (within the meaning of paragraph (2A) below) is known, the next following tax year, which shall be treated as a single premium; and
   - (ii) shall assume a rate of interest not exceeding that payable in respect of the relevant investment on the day the projection is made; and
   - (iii) shall allow for a deduction from the contributions to be invested in respect of any explicit charges; and
   - (iv) any annuity derived from the fund obtained in accordance with sub-paragraphs (i) and (ii) above shall be obtained in accordance with paragraph 3(3) of Part I of Schedule 4 to the LAUTRO Rules;
 - (b) if the projection is in respect of a period exceeding 5 years it–
-  - (i) shall be prepared on the basis that the only contributions to be made to the scheme are minimum contributions under section 43 of the Act[^key-86c936ffb702f7fca945c0d3ff49b2ba] in respect of the tax year in which the projection is prepared and, if the rate of the rebate percentage (within the meaning of paragraph (2A) below) is known, the next following tax year, which shall be treated as a single premium; and
+  - (i) shall be prepared on the basis that the only contributions to be made to the scheme are minimum contributions under section 43 of the Act[^c-86c936ffb702f7fca945c0d3ff49b2ba] in respect of the tax year in which the projection is prepared and, if the rate of the rebate percentage (within the meaning of paragraph (2A) below) is known, the next following tax year, which shall be treated as a single premium; and
   - (ii) shall assume a real rate of interest (after allowing for increases in excess of national average earnings) of plus one half per cent and minus one half per cent (both compound); and
   - (iii) where there are explicit charges, shall allow for a deduction of those charges from the contributions to be invested;
   - (iv) shall, unless the projection allows for explicit charges, allow for a deduction from the contributions to be invested of one per cent in respect of standard expenses; and
   - (v) any annuity derived from the fund obtained in accordance with sub-paragraphs (i) to (iii) above shall be obtained in accordance with paragraph 2(6) of Part I of Schedule 4 to the LAUTRO Rules.
 
-(2A)[^key-82be88c7086bcdf9ff203103e9212410] In this paragraph “rebate percentage” means the percentage arrived at by adding the percentage mentioned in paragraph (a) of section 41(1) of the Act to that mentioned in paragraph (b) of that section.
+(2A)[^c-82be88c7086bcdf9ff203103e9212410] In this paragraph “rebate percentage” means the percentage arrived at by adding the percentage mentioned in paragraph (a) of section 41(1) of the Act to that mentioned in paragraph (b) of that section.
 
 (3) In so far as a projection contained in an advertisement for a deposit-based scheme relates to contributions which will not give rise to protected rights under the scheme, then–
 
@@ -156,7 +156,7 @@ The report of the Occupational Pensions Board on the proposals referred to them,
 
 [^c2181156]: Marginal citation: [See the Social Security Act 1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38), [section 68](https://www.legislation.gov.uk/ukpga/1973/38/section/68).
 
-[^key-987aa6d2fac387d8a2575da8ae7d52e3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/1140/regulation/1/2) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/23/2)
+[^c-987aa6d2fac387d8a2575da8ae7d52e3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/1140/regulation/1/2) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/23/2)
 
 [^c2181157]: Marginal citation: [1986 c. 50](https://www.legislation.gov.uk/ukpga/1986/50).
 
@@ -164,8 +164,8 @@ The report of the Occupational Pensions Board on the proposals referred to them,
 
 [^c2181159]: Marginal citation: Made by Lautro Limited from which copies may be obtained.
 
-[^key-0388961ae7c934138e4f334098fc0f8c]: Textual amendment: Words in [reg. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/1990/1140/regulation/3/2/a/i) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 23(3)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/23/3)
+[^c-0388961ae7c934138e4f334098fc0f8c]: Textual amendment: Words in [reg. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/1990/1140/regulation/3/2/a/i) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 23(3)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/23/3)
 
-[^key-86c936ffb702f7fca945c0d3ff49b2ba]: Textual amendment: Words in [reg. 3(2)(b)(i)](https://www.legislation.gov.uk/uksi/1990/1140/regulation/3/2/b/i) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 23(3)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/23/3)
+[^c-86c936ffb702f7fca945c0d3ff49b2ba]: Textual amendment: Words in [reg. 3(2)(b)(i)](https://www.legislation.gov.uk/uksi/1990/1140/regulation/3/2/b/i) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 23(3)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/23/3)
 
-[^key-82be88c7086bcdf9ff203103e9212410]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/1990/1140/regulation/3/2A) inserted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 23(4)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/23/4)
+[^c-82be88c7086bcdf9ff203103e9212410]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/1990/1140/regulation/3/2A) inserted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 23(4)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/23/4)

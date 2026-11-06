@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Earnings adjustments in determining final pensionable earnings[^key-7001a491356710ff2d5c4deeca30b8d6]
+## 77. Earnings adjustments in determining final pensionable earnings[^c-7001a491356710ff2d5c4deeca30b8d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7001a491356710ff2d5c4deeca30b8d6]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2014/2336/regulation/77) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-7001a491356710ff2d5c4deeca30b8d6]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2014/2336/regulation/77) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

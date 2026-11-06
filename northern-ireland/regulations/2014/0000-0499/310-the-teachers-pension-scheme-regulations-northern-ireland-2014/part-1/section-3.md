@@ -47,7 +47,7 @@ In these Regulations—
 - “**active member's account**” has the meaning given in regulation 50;
 - “**actuarial**”, in relation to a calculation or value, means determined by, or in accordance with tables or guidance prepared by, the scheme actuary;
 - “**actuarial adjustment**” has the meaning given in regulation 74;
-- [^key-e10d8b63f81ffa15298cf67b441317d5]...
+- [^c-e10d8b63f81ffa15298cf67b441317d5]...
 - “**additional pension**” means—
   - (a) additional (self only) pension; or
   - (b) additional (surviving adult) pension;
@@ -126,7 +126,7 @@ In these Regulations—
 - “**member**”, in relation to this scheme, means an active member, deferred member, pensioner member or pension credit member;
 - “members' contributions” means contributions payable under regulation 185(1) on pensionable earnings;
 - “members' contributions rate” has the meaning given in regulation 185;
-- “**non-pensionable family leave**” means a period of adoption leave, maternity leave, parental leave, shared parental leave or[^M_F_bea98660-d800-4289-b56d-2e551cda84cc] paternity leave [^key-30f25975b97d1c3776ad4fedf6565cbf]... during which the employee—
+- “**non-pensionable family leave**” means a period of adoption leave, maternity leave, parental leave, shared parental leave or[^M_F_bea98660-d800-4289-b56d-2e551cda84cc] paternity leave [^c-30f25975b97d1c3776ad4fedf6565cbf]... during which the employee—
   - (a) does not receive any statutory pay; and
   - (b) is not paid a salary or is paid less than half the salary;
 - “**non-pensionable sick leave**” means a period of sick leave taken by an employee with the consent of the employer, during which the employee—
@@ -188,7 +188,7 @@ In these Regulations—
 - “**this scheme**” means the scheme established by these Regulations;
 - “**scheme actuary**” means the person appointed by the scheme manager for the time being to provide a consulting service on actuarial matters;
 - “**scheme closing date**” means 31st March 2015;
-- “**scheme manager**” has the meaning given in regulation 7[^key-2dc0b7a00e65c153fbbc4bfed54ed027] ;
+- “**scheme manager**” has the meaning given in regulation 7[^c-2dc0b7a00e65c153fbbc4bfed54ed027] ;
 - “**sending scheme**” means a pension scheme to which an application is made for payment of a transfer value or a club transfer value;
 - “shared parental leave” has the meaning given in regulation 3(1) of the Shared Parental Leave Regulations (Northern Ireland) 2015;[^M_F_52701e13-6c4f-4212-84b8-7d0fd36258dc]
 - “**short-service serious-ill health grant**” means a grant payable under Chapter 7 of Part 5;
@@ -230,7 +230,7 @@ In these Regulations—
 
 [^c22298561]: Marginal citation: [1993 c.49](https://www.legislation.gov.uk/ukpga/1993/49).
 
-[^key-e10d8b63f81ffa15298cf67b441317d5]: Textual amendment: Words in reg. 3 omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/146/article/23/2/a) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
+[^c-e10d8b63f81ffa15298cf67b441317d5]: Textual amendment: Words in reg. 3 omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/146/article/23/2/a) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
 
 [^c22298581]: Marginal citation: S.R. [2002 No. 377](https://www.legislation.gov.uk/ukcm/2002/377).
 
@@ -242,13 +242,13 @@ In these Regulations—
 
 [^M_F_bea98660-d800-4289-b56d-2e551cda84cc]: Textual amendment: Words in reg. 3 inserted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2015/146/article/1/2), [23(2)(b)(i)](https://www.legislation.gov.uk/nisr/2015/146/article/23/2/b/i)
 
-[^key-30f25975b97d1c3776ad4fedf6565cbf]: Textual amendment: Words in reg. 3 omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [23(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/146/article/23/2/b/ii) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
+[^c-30f25975b97d1c3776ad4fedf6565cbf]: Textual amendment: Words in reg. 3 omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [23(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/146/article/23/2/b/ii) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
 
 [^c22298621]: Marginal citation: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
 [^c22298631]: Marginal citation: S.R. [2002 No. 377](https://www.legislation.gov.uk/ukcm/2002/377).
 
-[^key-2dc0b7a00e65c153fbbc4bfed54ed027]: Textual amendment: Words in reg. 3 substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [7](https://www.legislation.gov.uk/nisr/2015/126/regulation/7)
+[^c-2dc0b7a00e65c153fbbc4bfed54ed027]: Textual amendment: Words in reg. 3 substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [7](https://www.legislation.gov.uk/nisr/2015/126/regulation/7)
 
 [^M_F_52701e13-6c4f-4212-84b8-7d0fd36258dc]: Textual amendment: Words in reg. 3 inserted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2015/146/article/1/2), [23(2)(d)](https://www.legislation.gov.uk/nisr/2015/146/article/23/2/d)
 

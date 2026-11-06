@@ -31,7 +31,7 @@ if conditions A, B and C are met.
 (2) Condition A is that the pension is paid to—
 
 - (a) the original pensioner, or
-- (b) the widow or widower or surviving civil partner[^key-e1350bff03de742aed1299ebce232c37] of the original pensioner.
+- (b) the widow or widower or surviving civil partner[^c-e1350bff03de742aed1299ebce232c37] of the original pensioner.
 
 (3) Condition B is that the pension is now paid under section 1 of OPA 1973 (whether or not it is paid out of a fund established under a scheme made under that section).
 
@@ -41,7 +41,7 @@ if conditions A, B and C are met.
 
 (6) In this section—
 
-- “**double taxation relief arrangements**” means arrangements which have effect under section 2(1) of TIOPA 2010;[^key-d7247329e363221febb990506cb71f26]
+- “**double taxation relief arrangements**” means arrangements which have effect under section 2(1) of TIOPA 2010;[^c-d7247329e363221febb990506cb71f26]
 - “**Malawi government pension**” means a pension payable by the government of Malawi for services rendered—
   - (a) to the government of Malawi, or
   - (b) to the government of the Federation of Rhodesia and Nyasaland,
@@ -62,6 +62,6 @@ if conditions A, B and C are met.
 
 ## Annotations
 
-[^key-e1350bff03de742aed1299ebce232c37]: Textual amendment: Words in s. 643(2)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [160](https://www.legislation.gov.uk/uksi/2005/3229/regulation/160)
+[^c-e1350bff03de742aed1299ebce232c37]: Textual amendment: Words in s. 643(2)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [160](https://www.legislation.gov.uk/uksi/2005/3229/regulation/160)
 
-[^key-d7247329e363221febb990506cb71f26]: Textual amendment: Words in s. 643(6) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 60](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/60) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-d7247329e363221febb990506cb71f26]: Textual amendment: Words in s. 643(6) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 60](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/60) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

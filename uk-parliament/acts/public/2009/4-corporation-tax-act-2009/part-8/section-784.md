@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 784. Groups with a relevant connection[^key-2c255c5108376ece0fb09b52b8e9150b]
+## 784. Groups with a relevant connection[^c-2c255c5108376ece0fb09b52b8e9150b]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 - (a) it would have fallen within subsection (4) because of its control of another company that would have fallen within subsection (3) if that other company had continued to exist, or
 - (b) it would have fallen within subsection (4) because of its control of a company to which paragraph (a) or this paragraph would have applied.
 
-(6)[^key-62436ea9f4bfcb77069c86c631a16055] For the purposes of this section “**control**” is to be read in accordance with sections 450 and 451 of CTA 2010 (close companies: meaning of control).
+(6)[^c-62436ea9f4bfcb77069c86c631a16055] For the purposes of this section “**control**” is to be read in accordance with sections 450 and 451 of CTA 2010 (close companies: meaning of control).
 
 (7) But a person carrying on a business of banking is not treated for those purposes as having control of a company just because of—
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2c255c5108376ece0fb09b52b8e9150b]: Modification: Pt. 8 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-2c255c5108376ece0fb09b52b8e9150b]: Modification: Pt. 8 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
 
-[^key-62436ea9f4bfcb77069c86c631a16055]: Textual amendment: S. 784(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 650](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/650) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-62436ea9f4bfcb77069c86c631a16055]: Textual amendment: S. 784(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 650](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/650) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

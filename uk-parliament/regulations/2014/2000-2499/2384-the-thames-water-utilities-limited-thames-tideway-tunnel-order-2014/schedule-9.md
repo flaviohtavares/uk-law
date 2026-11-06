@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 9 — ACCESS TO WORKS[^key-6af5b2d8471a0339ed7b25a2dfe7a396]
+## SCHEDULE 9 — ACCESS TO WORKS[^c-6af5b2d8471a0339ed7b25a2dfe7a396]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ Article 16
 
 ## Annotations
 
-[^key-6af5b2d8471a0339ed7b25a2dfe7a396]: Commencement: Sch. 9 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-6af5b2d8471a0339ed7b25a2dfe7a396]: Commencement: Sch. 9 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

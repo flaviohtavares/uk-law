@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Notice of application under section 176A(5) of the 1986 Act[^key-4d735a21c25a5d859bf86a86b436345e]
+## 97. Notice of application under section 176A(5) of the 1986 Act[^c-4d735a21c25a5d859bf86a86b436345e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An application under section 176A(5) of the 1986 Act may be made without the app
 
 ## Annotations
 
-[^key-4d735a21c25a5d859bf86a86b436345e]: Commencement: Rule 97 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-4d735a21c25a5d859bf86a86b436345e]: Commencement: Rule 97 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

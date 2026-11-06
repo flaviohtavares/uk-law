@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Surviving partner’s pensions and eligible child’s pensions: suspension and recovery[^key-8fe1d17496b3144bf03b01ded9d971c5]
+## 101. Surviving partner’s pensions and eligible child’s pensions: suspension and recovery[^c-8fe1d17496b3144bf03b01ded9d971c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fe1d17496b3144bf03b01ded9d971c5]: Commencement: [Reg. 101](https://www.legislation.gov.uk/uksi/2014/2848/regulation/101) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-8fe1d17496b3144bf03b01ded9d971c5]: Commencement: [Reg. 101](https://www.legislation.gov.uk/uksi/2014/2848/regulation/101) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

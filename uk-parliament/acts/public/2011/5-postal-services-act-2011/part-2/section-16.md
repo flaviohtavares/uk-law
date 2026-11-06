@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Introduction[^key-a64f1e2b091dad20149884cdeca0343e][^key-a778077146f30017d4a5c38e296c8fd5]
+## 16. Introduction[^c-a64f1e2b091dad20149884cdeca0343e][^c-a778077146f30017d4a5c38e296c8fd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ are to be determined for the purposes of this Part on the assumption that P had 
 
 ## Annotations
 
-[^key-a64f1e2b091dad20149884cdeca0343e]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2011/5/section/16) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-a64f1e2b091dad20149884cdeca0343e]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2011/5/section/16) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-a778077146f30017d4a5c38e296c8fd5]: Modification: [S. 16](https://www.legislation.gov.uk/ukpga/2011/5/section/16) functions made exercisable concurrently (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2014/500/article/2/2/a/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-a778077146f30017d4a5c38e296c8fd5]: Modification: [S. 16](https://www.legislation.gov.uk/ukpga/2011/5/section/16) functions made exercisable concurrently (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2014/500/article/2/2/a/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))

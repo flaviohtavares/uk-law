@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Equipment, facilities, services and organisations[^key-e74c93f2048347d1ac41e691737b48da][^key-8f3f0ef1e56c378d5d8084a7bff2483e]
+## 29. Equipment, facilities, services and organisations[^c-e74c93f2048347d1ac41e691737b48da][^c-8f3f0ef1e56c378d5d8084a7bff2483e]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e74c93f2048347d1ac41e691737b48da]: Commencement: S. 29 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-e74c93f2048347d1ac41e691737b48da]: Commencement: S. 29 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-8f3f0ef1e56c378d5d8084a7bff2483e]: Commencement: S. 29 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-8f3f0ef1e56c378d5d8084a7bff2483e]: Commencement: S. 29 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

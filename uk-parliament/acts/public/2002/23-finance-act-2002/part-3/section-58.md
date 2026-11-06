@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Relief for community amateur sports clubs[^key-ad0fe6275afa99a7560feb55860fca5e]
+## 58. Relief for community amateur sports clubs[^c-ad0fe6275afa99a7560feb55860fca5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad0fe6275afa99a7560feb55860fca5e]: Textual amendment: [S. 58](https://www.legislation.gov.uk/ukpga/2002/23/section/58) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 370](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/370), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ad0fe6275afa99a7560feb55860fca5e]: Textual amendment: [S. 58](https://www.legislation.gov.uk/ukpga/2002/23/section/58) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 370](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/370), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

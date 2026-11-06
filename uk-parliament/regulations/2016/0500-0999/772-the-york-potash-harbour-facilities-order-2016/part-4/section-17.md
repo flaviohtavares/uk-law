@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Tidal works not to be executed without approval of Secretary of State[^key-9dd73fd052ad9110d23bc4ef52d8ced3]
+## 17. Tidal works not to be executed without approval of Secretary of State[^c-9dd73fd052ad9110d23bc4ef52d8ced3]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ and any expenditure incurred by the Secretary of State in doing so is recoverabl
 
 ## Annotations
 
-[^key-9dd73fd052ad9110d23bc4ef52d8ced3]: Commencement: Art. 17 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-9dd73fd052ad9110d23bc4ef52d8ced3]: Commencement: Art. 17 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Goods requiring special care or treatment[^key-31b61be2321ccedca472fda414e2f53f][^key-60e2efcc2f85928a995ae98dd1574c9c][^key-60e2efcc2f85928a995ae98dd1574c9c]
+## 136. Goods requiring special care or treatment[^c-31b61be2321ccedca472fda414e2f53f][^c-60e2efcc2f85928a995ae98dd1574c9c][^c-60e2efcc2f85928a995ae98dd1574c9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-31b61be2321ccedca472fda414e2f53f]: Commencement: Reg. 136 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-31b61be2321ccedca472fda414e2f53f]: Commencement: Reg. 136 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-60e2efcc2f85928a995ae98dd1574c9c]: Modification: Pt. 14 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-60e2efcc2f85928a995ae98dd1574c9c]: Modification: Pt. 14 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23522601]: Marginal citation: Section 30 of CEMA 1979 is amended by sections 37 and 46 of the Criminal Justice Act 1982 and paragraph 22 of Schedule 7 to the Act.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 83. Sending documents to the Tribunal[^key-1087eb93a965a2ec92aed76b5a8a3f34]
+## 83. Sending documents to the Tribunal[^c-1087eb93a965a2ec92aed76b5a8a3f34]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1087eb93a965a2ec92aed76b5a8a3f34]: Commencement: [Rule 83](https://www.legislation.gov.uk/uksi/2024/1155/rule/83) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-1087eb93a965a2ec92aed76b5a8a3f34]: Commencement: [Rule 83](https://www.legislation.gov.uk/uksi/2024/1155/rule/83) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Notices[^key-bc3847b3f865550a1ebcdd4683f1846e][^key-8fc5046dc9aa8188f524a40f940ca1fb]
+## 57. Notices[^c-bc3847b3f865550a1ebcdd4683f1846e][^c-8fc5046dc9aa8188f524a40f940ca1fb]
 
 *Extent: E+W+S*
 
@@ -66,8 +66,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bc3847b3f865550a1ebcdd4683f1846e]: Commencement: Art. 57 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-bc3847b3f865550a1ebcdd4683f1846e]: Commencement: Art. 57 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
 
-[^key-8fc5046dc9aa8188f524a40f940ca1fb]: Modification: [Art. 57](https://www.legislation.gov.uk/uksi/2012/1777/article/57) applied by S.I. 2001/2820, Sch. 2 para. 9A (as inserted (23.7.2012) by [The Poole Harbour Revision Order 2012 (S.I. 2012/1777)](https://www.legislation.gov.uk/uksi/2012/1777), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2012/1777/schedule/3/paragraph/10) (with [arts. 58](https://www.legislation.gov.uk/uksi/2012/1777/article/58), [59](https://www.legislation.gov.uk/uksi/2012/1777/article/59)))
+[^c-8fc5046dc9aa8188f524a40f940ca1fb]: Modification: [Art. 57](https://www.legislation.gov.uk/uksi/2012/1777/article/57) applied by S.I. 2001/2820, Sch. 2 para. 9A (as inserted (23.7.2012) by [The Poole Harbour Revision Order 2012 (S.I. 2012/1777)](https://www.legislation.gov.uk/uksi/2012/1777), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2012/1777/schedule/3/paragraph/10) (with [arts. 58](https://www.legislation.gov.uk/uksi/2012/1777/article/58), [59](https://www.legislation.gov.uk/uksi/2012/1777/article/59)))
 
 [^f00014]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).

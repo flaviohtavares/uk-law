@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — PERMANENT STOPPING UP OF HIGHWAYS[^key-ed794bb99007a2bdfe5e890a28efc8f2]
+## SCHEDULE 6 — PERMANENT STOPPING UP OF HIGHWAYS[^c-ed794bb99007a2bdfe5e890a28efc8f2]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ Article 11
 
 ## Annotations
 
-[^key-ed794bb99007a2bdfe5e890a28efc8f2]: Commencement: Sch. 6 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-ed794bb99007a2bdfe5e890a28efc8f2]: Commencement: Sch. 6 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

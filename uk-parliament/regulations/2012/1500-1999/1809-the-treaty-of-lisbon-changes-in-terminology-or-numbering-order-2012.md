@@ -412,7 +412,7 @@ Article 3
 </tbody>
 </table>
 
-[^key-8fc5252d19185eb001300f07f3da2417][^key-8fc5252d19185eb001300f07f3da2417][^key-8fc5252d19185eb001300f07f3da2417][^key-8fc5252d19185eb001300f07f3da2417]
+[^c-8fc5252d19185eb001300f07f3da2417][^c-8fc5252d19185eb001300f07f3da2417][^c-8fc5252d19185eb001300f07f3da2417][^c-8fc5252d19185eb001300f07f3da2417]
 
 <table>
 <tfoot>
@@ -462,7 +462,7 @@ Article 3
 </tbody>
 </table>
 
-[^key-63563643484778199d76a1e2ac3fe4f5][^key-63563643484778199d76a1e2ac3fe4f5][^key-63563643484778199d76a1e2ac3fe4f5][^key-63563643484778199d76a1e2ac3fe4f5]
+[^c-63563643484778199d76a1e2ac3fe4f5][^c-63563643484778199d76a1e2ac3fe4f5][^c-63563643484778199d76a1e2ac3fe4f5][^c-63563643484778199d76a1e2ac3fe4f5]
 
 <table>
 <tfoot>
@@ -507,7 +507,7 @@ Article 3
 </tbody>
 </table>
 
-[^key-424056b23b155bc2e12a833836fe95bb][^key-424056b23b155bc2e12a833836fe95bb][^key-424056b23b155bc2e12a833836fe95bb][^key-424056b23b155bc2e12a833836fe95bb][^key-424056b23b155bc2e12a833836fe95bb][^key-424056b23b155bc2e12a833836fe95bb][^key-424056b23b155bc2e12a833836fe95bb][^key-424056b23b155bc2e12a833836fe95bb]
+[^c-424056b23b155bc2e12a833836fe95bb][^c-424056b23b155bc2e12a833836fe95bb][^c-424056b23b155bc2e12a833836fe95bb][^c-424056b23b155bc2e12a833836fe95bb][^c-424056b23b155bc2e12a833836fe95bb][^c-424056b23b155bc2e12a833836fe95bb][^c-424056b23b155bc2e12a833836fe95bb][^c-424056b23b155bc2e12a833836fe95bb]
 
 <table>
 <tfoot>
@@ -580,7 +580,7 @@ Article 3
 </tbody>
 </table>
 
-[^key-1603272e5259b4bf2331fd571a667300][^key-1603272e5259b4bf2331fd571a667300][^key-1603272e5259b4bf2331fd571a667300][^key-1603272e5259b4bf2331fd571a667300]
+[^c-1603272e5259b4bf2331fd571a667300][^c-1603272e5259b4bf2331fd571a667300][^c-1603272e5259b4bf2331fd571a667300][^c-1603272e5259b4bf2331fd571a667300]
 
 ### PART 3 — Subordinate legislation: Scotland
 
@@ -634,7 +634,7 @@ Article 3
 </tbody>
 </table>
 
-[^key-4c4c58094ec2f85093ed76f0d8a8507c][^key-4c4c58094ec2f85093ed76f0d8a8507c][^key-4c4c58094ec2f85093ed76f0d8a8507c][^key-4c4c58094ec2f85093ed76f0d8a8507c][^key-4c4c58094ec2f85093ed76f0d8a8507c][^key-4c4c58094ec2f85093ed76f0d8a8507c][^key-b67fd8757262c71384e37fac4a3be50f][^key-b67fd8757262c71384e37fac4a3be50f][^key-b67fd8757262c71384e37fac4a3be50f][^key-b67fd8757262c71384e37fac4a3be50f][^key-b67fd8757262c71384e37fac4a3be50f][^key-b67fd8757262c71384e37fac4a3be50f][^M_M_9d1ea9e0-b070-4637-afb0-ab789d58e9a3][^M_M_9d1ea9e0-b070-4637-afb0-ab789d58e9a3][^M_M_b86cbde5-efc3-4d96-8523-e7864dc56526][^M_M_b86cbde5-efc3-4d96-8523-e7864dc56526]
+[^c-4c4c58094ec2f85093ed76f0d8a8507c][^c-4c4c58094ec2f85093ed76f0d8a8507c][^c-4c4c58094ec2f85093ed76f0d8a8507c][^c-4c4c58094ec2f85093ed76f0d8a8507c][^c-4c4c58094ec2f85093ed76f0d8a8507c][^c-4c4c58094ec2f85093ed76f0d8a8507c][^c-b67fd8757262c71384e37fac4a3be50f][^c-b67fd8757262c71384e37fac4a3be50f][^c-b67fd8757262c71384e37fac4a3be50f][^c-b67fd8757262c71384e37fac4a3be50f][^c-b67fd8757262c71384e37fac4a3be50f][^c-b67fd8757262c71384e37fac4a3be50f][^M_M_9d1ea9e0-b070-4637-afb0-ab789d58e9a3][^M_M_9d1ea9e0-b070-4637-afb0-ab789d58e9a3][^M_M_b86cbde5-efc3-4d96-8523-e7864dc56526][^M_M_b86cbde5-efc3-4d96-8523-e7864dc56526]
 
 *(This note is not part of the Order)*
 
@@ -650,17 +650,17 @@ A Regulatory Impact Assessment has not been prepared for this instrument as it h
 
 [^c21308801]: Marginal citation: [2008 c.7](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-8fc5252d19185eb001300f07f3da2417]: Textual amendment: Words in Sch. Pt. 2 revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 29
+[^c-8fc5252d19185eb001300f07f3da2417]: Textual amendment: Words in Sch. Pt. 2 revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 29
 
-[^key-63563643484778199d76a1e2ac3fe4f5]: Textual amendment: Words in Sch. Pt. 2 revoked (13.12.2014) by [The Products Containing Meat etc. (England) Regulations 2014 (S.I. 2014/3001)](https://www.legislation.gov.uk/uksi/2014/3001), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3001/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2014/3001/regulation/8/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3001/regulation/3))
+[^c-63563643484778199d76a1e2ac3fe4f5]: Textual amendment: Words in Sch. Pt. 2 revoked (13.12.2014) by [The Products Containing Meat etc. (England) Regulations 2014 (S.I. 2014/3001)](https://www.legislation.gov.uk/uksi/2014/3001), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3001/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2014/3001/regulation/8/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3001/regulation/3))
 
-[^key-424056b23b155bc2e12a833836fe95bb]: Textual amendment: Words in Sch. Pt. 2 revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
+[^c-424056b23b155bc2e12a833836fe95bb]: Textual amendment: Words in Sch. Pt. 2 revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
 
-[^key-1603272e5259b4bf2331fd571a667300]: Textual amendment: Words in Sch. Pt 2 omitted (2.4.2026) by virtue of [The Heavy Goods Vehicles (Charging for the Use of Certain Infrastructure on the Trans-European Road Network) (Revocation and Consequential Amendments) Regulations 2026 (S.I. 2026/270)](https://www.legislation.gov.uk/uksi/2026/270), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/270/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/270/regulation/3/2)
+[^c-1603272e5259b4bf2331fd571a667300]: Textual amendment: Words in Sch. Pt 2 omitted (2.4.2026) by virtue of [The Heavy Goods Vehicles (Charging for the Use of Certain Infrastructure on the Trans-European Road Network) (Revocation and Consequential Amendments) Regulations 2026 (S.I. 2026/270)](https://www.legislation.gov.uk/uksi/2026/270), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/270/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/270/regulation/3/2)
 
-[^key-4c4c58094ec2f85093ed76f0d8a8507c]: Textual amendment: Words in Sch. Pt. 4 revoked (26.3.2018) by [The Jam and Similar Products (Wales) Regulations 2018 (S.I. 2018/274)](https://www.legislation.gov.uk/wsi/2018/274), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/274/regulation/1/3), [11(2)](https://www.legislation.gov.uk/wsi/2018/274/regulation/11/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2018/274/regulation/3))
+[^c-4c4c58094ec2f85093ed76f0d8a8507c]: Textual amendment: Words in Sch. Pt. 4 revoked (26.3.2018) by [The Jam and Similar Products (Wales) Regulations 2018 (S.I. 2018/274)](https://www.legislation.gov.uk/wsi/2018/274), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/274/regulation/1/3), [11(2)](https://www.legislation.gov.uk/wsi/2018/274/regulation/11/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2018/274/regulation/3))
 
-[^key-b67fd8757262c71384e37fac4a3be50f]: Textual amendment: Words in Sch. Pt. 4 revoked (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/8/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+[^c-b67fd8757262c71384e37fac4a3be50f]: Textual amendment: Words in Sch. Pt. 4 revoked (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/8/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
 
 [^M_M_9d1ea9e0-b070-4637-afb0-ab789d58e9a3]: Marginal citation: [S.I. 2006/1851](https://www.legislation.gov.uk/uksi/2006/1851) (W 194).
 

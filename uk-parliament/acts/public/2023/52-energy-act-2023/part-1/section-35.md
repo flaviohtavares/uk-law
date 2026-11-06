@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Criminal proceedings[^key-cf4c5d4ebc2bba642719799ee91f80cd]
+## 35. Criminal proceedings[^c-cf4c5d4ebc2bba642719799ee91f80cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf4c5d4ebc2bba642719799ee91f80cd]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/52/section/35) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-cf4c5d4ebc2bba642719799ee91f80cd]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/52/section/35) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Meaning of “pay”[^key-d689d888320c1bd3c10edc6ebb8276ff]
+## 12. Meaning of “pay”[^c-d689d888320c1bd3c10edc6ebb8276ff]
 
 *Extent: E+W+S*
 
@@ -63,6 +63,6 @@ then his pay includes such an amount.
 
 ## Annotations
 
-[^key-d689d888320c1bd3c10edc6ebb8276ff]: Commencement: Reg. 12 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-d689d888320c1bd3c10edc6ebb8276ff]: Commencement: Reg. 12 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00009]: Footnote: S.I. [1995/2865](https://www.legislation.gov.uk/uksi/1995/2865), amended by S.I. [1997/720](https://www.legislation.gov.uk/uksi/1997/720).

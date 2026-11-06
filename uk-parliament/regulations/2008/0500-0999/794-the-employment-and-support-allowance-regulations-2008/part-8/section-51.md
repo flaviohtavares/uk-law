@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Taking part in a work-focused health-related assessment[^key-3c93ee860dbf5d38c38d2e7c3fbca2e7]
+## 51. Taking part in a work-focused health-related assessment[^c-3c93ee860dbf5d38c38d2e7c3fbca2e7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c93ee860dbf5d38c38d2e7c3fbca2e7]: Textual amendment: Reg. 51 revoked (1.6.2011) by [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/11/d)
+[^c-3c93ee860dbf5d38c38d2e7c3fbca2e7]: Textual amendment: Reg. 51 revoked (1.6.2011) by [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/11/d)

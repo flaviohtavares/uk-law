@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72A. Adjustment to periodic support payments for use of feedstock derived from fossil fuel in the production of biogas by anaerobic digestion and the production of biomethane[^key-f5c29503600176a574f6c56879cf89e8]
+## 72A. Adjustment to periodic support payments for use of feedstock derived from fossil fuel in the production of biogas by anaerobic digestion and the production of biomethane[^c-f5c29503600176a574f6c56879cf89e8]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5c29503600176a574f6c56879cf89e8]: Textual amendment: [Reg. 72A](https://www.legislation.gov.uk/uksi/2018/611/regulation/72A) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [32](https://www.legislation.gov.uk/uksi/2021/76/regulation/32)
+[^c-f5c29503600176a574f6c56879cf89e8]: Textual amendment: [Reg. 72A](https://www.legislation.gov.uk/uksi/2018/611/regulation/72A) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [32](https://www.legislation.gov.uk/uksi/2021/76/regulation/32)

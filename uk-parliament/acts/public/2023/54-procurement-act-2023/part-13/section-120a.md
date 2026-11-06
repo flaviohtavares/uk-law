@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120A. Power to disapply this Act in relation to procurement by NHS in Wales[^key-fd1115c75b084e20fd26fc6c59900c0c]
+## 120A. Power to disapply this Act in relation to procurement by NHS in Wales[^c-fd1115c75b084e20fd26fc6c59900c0c]
 
 *Extent: W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd1115c75b084e20fd26fc6c59900c0c]: Textual amendment: [S. 120A](https://www.legislation.gov.uk/ukpga/2023/54/section/120A) inserted (W.) (6.2.2024) by [Health Service Procurement (Wales) Act 2024 (asc 1)](https://www.legislation.gov.uk/asc/2024/1), [ss. 2(2)](https://www.legislation.gov.uk/asc/2024/1/section/2/2), [4](https://www.legislation.gov.uk/asc/2024/1/section/4)
+[^c-fd1115c75b084e20fd26fc6c59900c0c]: Textual amendment: [S. 120A](https://www.legislation.gov.uk/ukpga/2023/54/section/120A) inserted (W.) (6.2.2024) by [Health Service Procurement (Wales) Act 2024 (asc 1)](https://www.legislation.gov.uk/asc/2024/1), [ss. 2(2)](https://www.legislation.gov.uk/asc/2024/1/section/2/2), [4](https://www.legislation.gov.uk/asc/2024/1/section/4)

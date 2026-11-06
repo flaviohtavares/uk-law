@@ -33,24 +33,24 @@ of 23 July 2013
 
 establishing the fishing opportunities for anchovy in the Bay of Biscay for the 2013/14 fishing season (revoked)
 
-[^key-ef6a8973aed47033948e073ec7cab0ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef6a8973aed47033948e073ec7cab0ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Fishing opportunities for anchovy in the Bay of Biscay[^key-ef6a8973aed47033948e073ec7cab0ad]
+## Article 1. Fishing opportunities for anchovy in the Bay of Biscay[^c-ef6a8973aed47033948e073ec7cab0ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Data transmission[^key-ef6a8973aed47033948e073ec7cab0ad]
+## Article 2. Data transmission[^c-ef6a8973aed47033948e073ec7cab0ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-ef6a8973aed47033948e073ec7cab0ad]
+## Article 3. Entry into force[^c-ef6a8973aed47033948e073ec7cab0ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef6a8973aed47033948e073ec7cab0ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef6a8973aed47033948e073ec7cab0ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef6a8973aed47033948e073ec7cab0ad]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-ef6a8973aed47033948e073ec7cab0ad]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

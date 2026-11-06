@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Duty to keep complainants informed[^key-d76938814ce1559b71ea3ec49798c0d4][^key-c4ec4a9718f44796fd99b414d5d99b41]
+## 34. Duty to keep complainants informed[^c-d76938814ce1559b71ea3ec49798c0d4][^c-c4ec4a9718f44796fd99b414d5d99b41]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d76938814ce1559b71ea3ec49798c0d4]: Commencement: S. 34 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-d76938814ce1559b71ea3ec49798c0d4]: Commencement: S. 34 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-c4ec4a9718f44796fd99b414d5d99b41]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2021/30/section/34) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)
+[^c-c4ec4a9718f44796fd99b414d5d99b41]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2021/30/section/34) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.25. Applications for transfer[^key-45383d2591375aebb651e290a2d4338d]
+## 4.25. Applications for transfer[^c-45383d2591375aebb651e290a2d4338d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45383d2591375aebb651e290a2d4338d]: Commencement: Rule 4.25 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-45383d2591375aebb651e290a2d4338d]: Commencement: Rule 4.25 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Powers to make byelaws, etc.[^key-d9fa4214a79cf80e42c10f41013d2d8a]
+## 27. Powers to make byelaws, etc.[^c-d9fa4214a79cf80e42c10f41013d2d8a]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9fa4214a79cf80e42c10f41013d2d8a]: Commencement: Art. 27 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-d9fa4214a79cf80e42c10f41013d2d8a]: Commencement: Art. 27 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

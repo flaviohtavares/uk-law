@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Arbitration[^key-0b91ca24e4737d9dd8e274aa6ebf29a0]
+## 46. Arbitration[^c-0b91ca24e4737d9dd8e274aa6ebf29a0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Except where otherwise expressly provided for in this Order and unless otherwise
 
 ## Annotations
 
-[^key-0b91ca24e4737d9dd8e274aa6ebf29a0]: Commencement: Art. 46 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-0b91ca24e4737d9dd8e274aa6ebf29a0]: Commencement: Art. 46 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)

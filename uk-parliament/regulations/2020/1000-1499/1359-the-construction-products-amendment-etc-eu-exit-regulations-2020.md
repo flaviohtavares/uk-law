@@ -48,11 +48,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to the European Union (Withdrawal) Act 2018[^f00002], a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-76806b19433cd0746cda9154845a0f9b]
+## 1. Citation and commencement[^c-76806b19433cd0746cda9154845a0f9b]
 
 These Regulations may be cited as the Construction Products (Amendment etc.) (EU Exit) Regulations 2020 and come into force immediately before the 2019 Regulations come into force.
 
-## 2. Interpretation[^key-0a666e876bed2bc514c60109fcbf7923]
+## 2. Interpretation[^c-0a666e876bed2bc514c60109fcbf7923]
 
 (1) In these Regulations—
 
@@ -70,7 +70,7 @@ These Regulations may be cited as the Construction Products (Amendment etc.) (EU
 
 (3) Any other expression used in these Regulations (except in Schedule 1) and occurring in the EU Construction Products Regulation shall have the same meaning as it has in that Regulation.
 
-## 3. Amendments to the 2019 Regulations[^key-58a66dffd1e401edb07be23cf705e7c0]
+## 3. Amendments to the 2019 Regulations[^c-58a66dffd1e401edb07be23cf705e7c0]
 
 (1) The 2019 Regulations are amended as follows.
 
@@ -103,7 +103,7 @@ These Regulations may be cited as the Construction Products (Amendment etc.) (EU
   - (iii) after “sentence” insert “were omitted”;
 - (m) in paragraph 10, omit “In” and for “, omit points 2 and 2A” substitute “has effect, in relation to England and Wales, and Scotland, as if points 2 and 2A were omitted”.
 
-## 4. Construction products to be placed on the market in Northern Ireland[^key-56da56e6eb2ab99a7eb164a0db2940ba]
+## 4. Construction products to be placed on the market in Northern Ireland[^c-56da56e6eb2ab99a7eb164a0db2940ba]
 
 (1) In relation to the marking of construction products to be placed on the market in respect of Northern Ireland, the general principles (including as to form of the marking to be used)—
 
@@ -132,7 +132,7 @@ These Regulations may be cited as the Construction Products (Amendment etc.) (EU
   - (i) references to affixing a CE marking were a reference to affixing a CE marking and an accompanying UK(NI) indication[^f00009];
   - (ii) references to a notified body were a reference to the UK-based body which carried out the assessment and verification of constancy of performance under Article 28 of the EU Construction Products Regulation in relation to the product.
 
-## 5. Enforcement rules — Northern Ireland[^key-36d848a294e9c5c4d43fae78f1cd2a97]
+## 5. Enforcement rules — Northern Ireland[^c-36d848a294e9c5c4d43fae78f1cd2a97]
 
 Schedule 3 to these Regulations has effect, in respect of Northern Ireland, to make provision for the enforcement of the EU Construction Products Regulation and the RAMS Regulation in relation to construction products.
 
@@ -148,19 +148,19 @@ Ministry of Housing, Communities and Local Government
 
 Regulation 3
 
-**1.**[^key-a7346136af910c0fb954deb10b6231ff] Schedule 1 to the 2019 Regulations is amended as follows.
+**1.**[^c-a7346136af910c0fb954deb10b6231ff] Schedule 1 to the 2019 Regulations is amended as follows.
 
-**2.**[^key-78d4eaa506b4b552b59d8c6676244ba9] In the heading after “Regulation” insert “— Great Britain”.
+**2.**[^c-78d4eaa506b4b552b59d8c6676244ba9] In the heading after “Regulation” insert “— Great Britain”.
 
-**3.**[^key-2679af84a29cfa6c7cee1f07d08f32b7] For paragraph 1 substitute—
+**3.**[^c-2679af84a29cfa6c7cee1f07d08f32b7] For paragraph 1 substitute—
 
 > **1.** The 2011 Regulation is amended in accordance with paragraphs 2 to 69 of this Schedule in respect of construction products made available or placed on the market in Great Britain.
 
-**4.**[^key-b0249ccc110aa162911bdc6a1d755d00] For paragraph 2 substitute—
+**4.**[^c-b0249ccc110aa162911bdc6a1d755d00] For paragraph 2 substitute—
 
 > **2.** In Article 1 (subject matter), for “use of CE marking” substitute “use of UK marking, and in certain cases CE marking or CE marking accompanied by the UK(NI) indication,”.
 
-**5.**[^key-aea75ef804853733d948e6e12dd610d4] In paragraph 3—
+**5.**[^c-aea75ef804853733d948e6e12dd610d4] In paragraph 3—
 
 - (a) in sub-paragraph (9), for “United Kingdom market” substitute “market of Great Britain”;
 - (b) in sub-paragraph (10), after inserted paragraph 17C insert—
@@ -179,20 +179,20 @@ Regulation 3
   >
   > .
 
-**6.**[^key-f42fb51d23b5befee34f62cbc07eb171] In paragraph 7(2) and (3) after “the United Kingdom” insert “in respect of Great Britain”.
+**6.**[^c-f42fb51d23b5befee34f62cbc07eb171] In paragraph 7(2) and (3) after “the United Kingdom” insert “in respect of Great Britain”.
 
-**7.**[^key-873d69e70004d649f84fb9f0c34257a3] In paragraph 10, in paragraph 5 of substituted Article 8—
+**7.**[^c-873d69e70004d649f84fb9f0c34257a3] In paragraph 10, in paragraph 5 of substituted Article 8—
 
 - (a) after “CE marking” insert “(or CE marking accompanied by the UK(NI) indication)”;
 - (b) for “the United Kingdom” substitute “Great Britain”.
 
-**8.**[^key-d379fb6f6753df4e4a5c5e5fc552ffb5] For paragraph 15(2) substitute—
+**8.**[^c-d379fb6f6753df4e4a5c5e5fc552ffb5] For paragraph 15(2) substitute—
 
 > (2) In paragraph 1, for “Union market” substitute “market of Great Britain”.
 
 .
 
-**9.**[^key-0d000405af99ce7d9ccb7bb5cf2bae71] In paragraph 17—
+**9.**[^c-0d000405af99ce7d9ccb7bb5cf2bae71] In paragraph 17—
 
 - (a) in inserted Article 16A—
   - (i) in paragraph 1(b)(vi), after “Regulation” insert “or, in the case of a product to which regulation 4(2)(b) of the Construction Products (Amendment etc.) (EU Exit) Regulations 2020 applies, a CE marking accompanied by the UK(NI) indication in accordance with Articles 8 and 9 of the EU Construction Products Regulation”;
@@ -210,34 +210,34 @@ Regulation 3
 
   .
 
-**10.**[^key-0824887abb12ee449e080d75eed196f9] In paragraph 28, in paragraphs 3 and 7 of inserted Article 27, for “the United Kingdom” substitute “Great Britain”.
+**10.**[^c-0824887abb12ee449e080d75eed196f9] In paragraph 28, in paragraphs 3 and 7 of inserted Article 27, for “the United Kingdom” substitute “Great Britain”.
 
-**11.**[^key-5cccad9c559407f6ed25786759a9e266] In paragraph 61, in paragraph 1 of inserted Article 59A, for sub-paragraphs (a) and (b) substitute—
+**11.**[^c-5cccad9c559407f6ed25786759a9e266] In paragraph 61, in paragraph 1 of inserted Article 59A, for sub-paragraphs (a) and (b) substitute—
 
 > - (a) the CE marking, or in the case of a product to which regulation 4(2)(b) of the Construction Products (Amendment etc.) (EU Exit) Regulations 2020 applies, the CE marking accompanied by the UK(NI) indication, has not been affixed in accordance with Article 8(2) of the EU Construction Products Regulation;
 > - (b) the CE marking, or in the case of a product to which that regulation 4(2)(b) applies, the CE marking accompanied by the UK(NI) indication, has been affixed in breach of Article 8 or 9 of the EU Construction Products Regulation;
 
 .
 
-**12.**[^key-ea1c45fcb58be3985fc591af485cdd56] In paragraph 66, in paragraph 8 of the inserted Annex 2—
+**12.**[^c-ea1c45fcb58be3985fc591af485cdd56] In paragraph 66, in paragraph 8 of the inserted Annex 2—
 
 - (a) in both places, for “15 working days” substitute “21 days”; and
 - (b) omit the definition of “working day”.
 
-**13.**[^key-a6b6db7ef5acf73a73399323c3621266] In paragraph 67, in sub-paragraphs (4) and (5), after “the United Kingdom” insert “in respect of Great Britain”.
+**13.**[^c-a6b6db7ef5acf73a73399323c3621266] In paragraph 67, in sub-paragraphs (4) and (5), after “the United Kingdom” insert “in respect of Great Britain”.
 
-**14.**[^key-d07b971da6fba9180c86dbcd723062e5] In paragraph 68, for paragraph (a) substitute—
+**14.**[^c-d07b971da6fba9180c86dbcd723062e5] In paragraph 68, for paragraph (a) substitute—
 
 > - (a) in point b, for “the Member States where it is designated” substitute “Great Britain”;
 
 .
 
-**15.**[^key-417a15fb43f518224fb892b339e1e791] In paragraph 71—
+**15.**[^c-417a15fb43f518224fb892b339e1e791] In paragraph 71—
 
 - (a) in sub-paragraph (1), for “the United Kingdom”, in the first place it occurs, substitute “Great Britain”;
 - (b) in sub-paragraph (3)(a), after “the United Kingdom”, in both places, insert “in respect of Great Britain”.
 
-**16.**[^key-d8b63cb58bb2126e2dd82e683f4350e4] In paragraph 75—
+**16.**[^c-d8b63cb58bb2126e2dd82e683f4350e4] In paragraph 75—
 
 - (a) after sub-paragraph (b) insert—
 
@@ -248,7 +248,7 @@ Regulation 3
   - (i) for “those actions” substitute “the actions in sub-paragraph (b)”; and
   - (ii) after “the United Kingdom” insert “in respect of Great Britain”.
 
-**17.**[^key-10baf63a5075c91b075bf8ea6157e790] In the following provisions of Schedule 1, for “exit day” substitute “IP completion day”—
+**17.**[^c-10baf63a5075c91b075bf8ea6157e790] In the following provisions of Schedule 1, for “exit day” substitute “IP completion day”—
 
 - (a) paragraph 3(2) in the inserted paragraph 9A;
 - (b) paragraph 3(7) in the inserted paragraph 13F, in each place;
@@ -265,11 +265,11 @@ Regulation 3
 - (m) paragraph 76 in both places;
 - (n) paragraph 77, in the definitions of “construction product”, “manufacturer”, “notified body”, “pre-exit period” and “UK notified body”.
 
-## SCHEDULE 2 — Amendments to Schedule 2 to the 2019 Regulations[^key-e6d25a86c84ed1ea5fef06f7bfd15fa4]
+## SCHEDULE 2 — Amendments to Schedule 2 to the 2019 Regulations[^c-e6d25a86c84ed1ea5fef06f7bfd15fa4]
 
 Regulation 3
 
-[^key-e6d25a86c84ed1ea5fef06f7bfd15fa4]For Schedule 2 (amendments to the 2013 Regulations) to the 2019 Regulations substitute—
+[^c-e6d25a86c84ed1ea5fef06f7bfd15fa4]For Schedule 2 (amendments to the 2013 Regulations) to the 2019 Regulations substitute—
 
 > **SCHEDULE 2 — Construction products enforcement rules – Great Britain**
 >
@@ -473,16 +473,16 @@ Regulation 5
 
 ### PART 1 — General
 
-#### 1. Application and interpretation[^key-67bbea12c5e13d8d281675f9436b7b8a]
+#### 1. Application and interpretation[^c-67bbea12c5e13d8d281675f9436b7b8a]
 
 (1) The provisions of this Schedule apply to the United Kingdom in respect of Northern Ireland.
 
 (2) In this Schedule—
 
-- “enforcement authority” means any district council in Northern Ireland or the Secretary of State[^key-294ef2c3b4695446712ecffe0f284e9a];
+- “enforcement authority” means any district council in Northern Ireland or the Secretary of State[^c-294ef2c3b4695446712ecffe0f284e9a];
 - “supply” includes offering to supply, agreeing to supply, exposing for supply and possessing for supply, and related expressions shall be construed accordingly.
 
-#### 2. Competent authority[^key-ef30f3d23e8042be6326fc007279f170]
+#### 2. Competent authority[^c-ef30f3d23e8042be6326fc007279f170]
 
 The competent authority for the United Kingdom in respect of Northern Ireland for the purposes of the RAMS Regulation, as it applies to construction products, and of the EU Construction Products Regulation is—
 
@@ -493,7 +493,7 @@ The competent authority for the United Kingdom in respect of Northern Ireland fo
 
 #### CHAPTER 1 — Offences in relation to the EU Construction Products Regulation
 
-##### 3. Prohibition on supply etc.[^key-a7361b920fcef269630c1592cb463399]
+##### 3. Prohibition on supply etc.[^c-a7361b920fcef269630c1592cb463399]
 
 (1) A person who supplies a construction product in respect of Northern Ireland that is covered by a harmonised standard or conforms to a European Technical Assessment that has been issued for it shall be guilty of an offence unless—
 
@@ -520,7 +520,7 @@ shall be guilty of an offence.
 
 (5) A person guilty of an offence under this paragraph shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 5 on the standard scale or to both.
 
-##### 4. Breaches of duty by economic operators[^key-9d018a40db27f1edcac57f3021965f5c]
+##### 4. Breaches of duty by economic operators[^c-9d018a40db27f1edcac57f3021965f5c]
 
 (1) A person to whom sub-paragraph (2) applies shall be guilty of an offence.
 
@@ -532,11 +532,11 @@ shall be guilty of an offence.
 - (d) a distributor who fails to comply with any requirement of the second sub-paragraph of Article 14(2) (distributor’s duty not to make non-conforming or non-compliant product available etc.) of the EU Construction Products Regulation; and
 - (e) a distributor who fails to comply with any requirement of Article 14(4) (distributor’s duty to take necessary corrective measures etc.) of the EU Construction Products Regulation.
 
-(3) For the purposes of compliance with the provisions of the EU Construction Products Regulation mentioned in sub-paragraph (2), a reference in that Regulation to the competent national authority or, as the case may be, the market surveillance authorities is a reference to the district council in Northern Ireland[^key-3ce7d158e6f0fc97498f5cd685943d60] for the area in which the person is established or the Secretary of State[^key-d9b2c72230dffb17154a6570a150809b].
+(3) For the purposes of compliance with the provisions of the EU Construction Products Regulation mentioned in sub-paragraph (2), a reference in that Regulation to the competent national authority or, as the case may be, the market surveillance authorities is a reference to the district council in Northern Ireland[^c-3ce7d158e6f0fc97498f5cd685943d60] for the area in which the person is established or the Secretary of State[^c-d9b2c72230dffb17154a6570a150809b].
 
 (4) A person guilty of an offence under this paragraph shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 5 on the standard scale or to both.
 
-##### 5. Other breaches of the EU Construction Products Regulation[^key-4f582225b8de68d79d8cfd73803e6536]
+##### 5. Other breaches of the EU Construction Products Regulation[^c-4f582225b8de68d79d8cfd73803e6536]
 
 (1) A person who supplies a construction product in respect of Northern Ireland in relation to which—
 
@@ -559,7 +559,7 @@ shall be guilty of an offence.
 
 #### CHAPTER 2 — Suspension notices and forfeiture
 
-##### 6. Suspension notices[^key-2fb1ad1e43ee83d9c93c0fa1a185b809]
+##### 6. Suspension notices[^c-2fb1ad1e43ee83d9c93c0fa1a185b809]
 
 (1) When in relation to any construction products in respect of Northern Ireland an enforcement authority—
 
@@ -584,7 +584,7 @@ are pending at the end of the period specified in the first-mentioned notice.
 
 (6) Any person who contravenes a suspension notice shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 5 on the standard scale or to both.
 
-##### 7. Suspension notices: further provisions[^key-8f9783491d8e8e8f33d476090a5ee2e5]
+##### 7. Suspension notices: further provisions[^c-8f9783491d8e8e8f33d476090a5ee2e5]
 
 (1) A suspension notice served by an enforcement authority in respect of any construction products must—
 
@@ -605,7 +605,7 @@ are pending at the end of the period specified in the first-mentioned notice.
 
 (4) Any disputed question as to the right to, or the amount of, any compensation payable under sub-paragraph (3) shall be determined by arbitration.
 
-##### 8. Suspension notices: appeals[^key-fd60cc6a2456aef2591cf480d78b0dcf]
+##### 8. Suspension notices: appeals[^c-fd60cc6a2456aef2591cf480d78b0dcf]
 
 (1) Any person having an interest in any construction products in respect of which a suspension notice is for the time being in force may apply for an order setting aside the notice.
 
@@ -630,7 +630,7 @@ are pending at the end of the period specified in the first-mentioned notice.
 - (b) Article 57(2), second sentence (Union safeguard procedure: national measure considered unjustified) of the EU Construction Products Regulation in respect of paragraph 16(6)(b); and
 - (c) Article 58(4) (complying construction products which nevertheless present a risk to health and safety: evaluation of national measures by the Commission) of the EU Construction Products Regulation in respect of paragraph 16(6)(c).
 
-##### 9. Forfeiture[^key-c56e62ccd49435a2483cabb97c780866]
+##### 9. Forfeiture[^c-c56e62ccd49435a2483cabb97c780866]
 
 (1) An enforcement authority may apply under this paragraph for an order for the forfeiture of any construction products on any of the grounds on which the enforcement authority may serve a suspension notice under paragraph 6(1) in relation to the products.
 
@@ -655,9 +655,9 @@ are pending at the end of the period specified in the first-mentioned notice.
   - (ii) as scrap (that is to say, for the value of materials included in the products rather than for the value of the products themselves); and
 - (b) complies with any order to pay costs or expenses (including any order under paragraph 24 (recovery of expenses)) which has been made against that person in the proceedings for the order for forfeiture.
 
-##### 10. Duty of enforcement authority to give notice of suspension notices and forfeiture applications etc.[^key-ff42d43d6ef3ed6b9b89b10d6c8debc3]
+##### 10. Duty of enforcement authority to give notice of suspension notices and forfeiture applications etc.[^c-ff42d43d6ef3ed6b9b89b10d6c8debc3]
 
-An enforcement authority (except where the Secretary of State is the enforcement authority)[^key-c77ccebeeaf0b85d6cbef1ffc5d92751] must give immediate notice to the Secretary of State of any—
+An enforcement authority (except where the Secretary of State is the enforcement authority)[^c-c77ccebeeaf0b85d6cbef1ffc5d92751] must give immediate notice to the Secretary of State of any—
 
 - (a) suspension notice served by it in respect of any construction products;
 - (b) application made by it for an order for forfeiture of any such products; or
@@ -665,7 +665,7 @@ An enforcement authority (except where the Secretary of State is the enforcement
 
 #### CHAPTER 3 — Prohibition notices and notices to warn
 
-##### 11. Prohibition notices[^key-86c3dab896816a9a9485f54aa6c7fea7]
+##### 11. Prohibition notices[^c-86c3dab896816a9a9485f54aa6c7fea7]
 
 (1) The Secretary of State may serve on any person a notice (“a prohibition notice”) prohibiting that person, except with the consent of the Secretary of State, from supplying any construction products in respect of Northern Ireland which are described in the notice and in relation to which the Secretary of State—
 
@@ -694,7 +694,7 @@ An enforcement authority (except where the Secretary of State is the enforcement
 
 (9) The service of a notification under sub-paragraph (7) shall be sufficient to satisfy the requirement in paragraph 12(10) that the recipient must be informed of the decision of the Secretary of State.
 
-##### 12. Prohibition notices: further provisions[^key-9d2be31a00b580ebb7d8909267eb9322]
+##### 12. Prohibition notices: further provisions[^c-9d2be31a00b580ebb7d8909267eb9322]
 
 (1) If representations in writing about a prohibition notice served under paragraph 11 are made by the recipient to the Secretary of State, it shall be the duty of the Secretary of State to consider whether to revoke the notice and—
 
@@ -753,7 +753,7 @@ and, after considering any matters under this sub-paragraph, to make a report (i
 - “notification” means notification in writing; and
 - “recipient”, in relation to a prohibition notice, means the person on whom the notice is or was served.
 
-##### 13. Notices to warn[^key-30072371bfad5220487684523067b442]
+##### 13. Notices to warn[^c-30072371bfad5220487684523067b442]
 
 (1) The Secretary of State may serve on any person a notice (“a notice to warn”) requiring that person, at that person’s own expense, to publish, in a form and manner and on occasions specified in the notice, a warning about any construction products which that person supplies or has supplied in respect of Northern Ireland which are described in the notice and in respect of which the Secretary of State—
 
@@ -780,7 +780,7 @@ and, after considering any matters under this sub-paragraph, to make a report (i
 
 (5) The Secretary of State may revoke a notice to warn by serving on the person on whom the notice was served a notification stating that the notice is revoked.
 
-##### 14. Notices to warn: further provision[^key-287091cc8cad1f4696742636de8644d9]
+##### 14. Notices to warn: further provision[^c-287091cc8cad1f4696742636de8644d9]
 
 (1) Where a person on whom a notification containing a draft of a proposed notice to warn has been served—
 
@@ -837,7 +837,7 @@ and, after considering those matters, to make a report (including recommendation
 - “the appointed person”, in relation to a proposal to serve a notice to warn, means the person for the time being appointed under this paragraph to consider representations about the proposed notice; and
 - “notification” means notification in writing.
 
-##### 15. Power to obtain information[^key-7a4ce44e20ddb9f419ecb79a861338af]
+##### 15. Power to obtain information[^c-7a4ce44e20ddb9f419ecb79a861338af]
 
 (1) If the Secretary of State considers that, for the purpose of deciding whether—
 
@@ -865,7 +865,7 @@ information is required which another person is likely to be able to provide, th
   - (i) on conviction on indictment, to a fine,
   - (ii) on summary conviction, to a fine not exceeding level 5 on the standard scale.
 
-##### 16. Grounds for service of notices[^key-f8356fe24478d1db878e29ae911d3ba4]
+##### 16. Grounds for service of notices[^c-f8356fe24478d1db878e29ae911d3ba4]
 
 (1) There are grounds for the service of a suspension notice under paragraph 6(1)(b), a prohibition notice under paragraph 11(1)(b) or a notice to warn under paragraph 13(1)(b), as the case may be, where one or more of the following sub-paragraphs applies in relation to the construction products concerned.
 
@@ -897,21 +897,21 @@ information is required which another person is likely to be able to provide, th
 
 ### PART 3 — Enforcement of Part 2 and market surveillance
 
-#### 17. Enforcement[^key-283ca8b570a3e409b0d0fb5b7a6d2df7]
+#### 17. Enforcement[^c-283ca8b570a3e409b0d0fb5b7a6d2df7]
 
-(1) Subject to sub-paragraph (1A),[^key-0b7f60c8ddd6a85a2861988c270a796a] it shall be the duty of an enforcement authority in its area to—
+(1) Subject to sub-paragraph (1A),[^c-0b7f60c8ddd6a85a2861988c270a796a] it shall be the duty of an enforcement authority in its area to—
 
 - (a) enforce the provisions of Part 2 of this Schedule; and
 - (b) carry out market surveillance duties under the RAMS Regulation, as it applies to construction products, and under the EU Construction Products Regulation.
 
-(1A)[^key-29797f8c734e621abf5ee4a325aea85e] Where the Secretary of State is acting in their capacity as an enforcement authority the Secretary of State may—
+(1A)[^c-29797f8c734e621abf5ee4a325aea85e] Where the Secretary of State is acting in their capacity as an enforcement authority the Secretary of State may—
 
 - (a) enforce the provisions of Part 2 of this Schedule; and
 - (b) carry out market surveillance duties under the RAMS Regulation, as it applies to construction products, and under the EU Construction Products Regulation.
 
 (2) A district council in Northern Ireland shall be competent to investigate and prosecute in respect of any offence under Part 2 of this Schedule that was committed outside its area in any part of Northern Ireland.
 
-#### 18. Test purchases[^key-962dc512f2eaf122dbad014f120b4172]
+#### 18. Test purchases[^c-962dc512f2eaf122dbad014f120b4172]
 
 (1) An enforcement authority may make a purchase of any construction products for the purpose of ascertaining whether there has been any failure to comply with any requirement of the EU Construction Products Regulation, or any offence has been committed under Part 2 of this Schedule, in relation to any construction products.
 
@@ -925,7 +925,7 @@ information is required which another person is likely to be able to provide, th
 
 the authority shall allow the person from whom the products were purchased or any person who is a party to the proceedings or has an interest in any products to which the notice relates to have the products tested.
 
-#### 19. Powers of search etc.[^key-4e3abd11db842f9474e16479ffc41b11]
+#### 19. Powers of search etc.[^c-4e3abd11db842f9474e16479ffc41b11]
 
 (1) Subject to the following provisions of this Part of this Schedule, a duly authorised officer of an enforcement authority may—
 
@@ -959,7 +959,7 @@ exercise any of the powers conferred by this paragraph.
 
 (8) In this paragraph “dwelling” means any building or shelter wholly or mainly used as a place of residence or abode (including any garden, yard, garage, outhouse or other appurtenance of such premises which is not used in common by the occupants of more than one such dwelling).
 
-#### 20. Powers of search etc.: further provisions[^key-cc8e5fd6f685f6628276c19b55985308]
+#### 20. Powers of search etc.: further provisions[^c-cc8e5fd6f685f6628276c19b55985308]
 
 (1) An officer seizing any construction products or records under paragraph 19 must give a written notice stating what products or records have been so seized to the following persons—
 
@@ -992,7 +992,7 @@ the officer must allow any person who is a party to the proceedings or, as the c
 
 (7) If any person who is not an officer of an enforcement authority purports to act as such under paragraph 19 or this paragraph, that person shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-#### 21. Obstruction of authorised officer[^key-02f612abdc15d4f19848b562e91ce203]
+#### 21. Obstruction of authorised officer[^c-02f612abdc15d4f19848b562e91ce203]
 
 (1) A person shall be guilty of an offence if the person—
 
@@ -1012,7 +1012,7 @@ the officer must allow any person who is a party to the proceedings or, as the c
 - (a) on conviction on indictment, to a fine;
 - (b) on summary conviction, to a fine not exceeding level 5 on the standard scale.
 
-#### 22. Appeals against detention of products[^key-5b5574140c7b0ff6aec004f8d560be5d]
+#### 22. Appeals against detention of products[^c-5b5574140c7b0ff6aec004f8d560be5d]
 
 (1) Any person having an interest in any construction products which are for the time being detained under any provision of this Part of this Schedule by an enforcement authority or by an officer of such an authority may apply for an order requiring the products to be released to that person or to another person.
 
@@ -1035,7 +1035,7 @@ the officer must allow any person who is a party to the proceedings or, as the c
 
 (4) Any person aggrieved by an order made under this paragraph by a magistrates’ court, or by a decision of such a court not to make such an order, may appeal against that order or decision to the county court, and an order so made may contain such provision as appears to the court to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal (including any application under Article 146 of the Magistrates’ Courts (Northern Ireland) Order 1981).
 
-#### 23. Compensation for seizure and detention[^key-eacdaa59c97579fd9ce98630890869b8]
+#### 23. Compensation for seizure and detention[^c-eacdaa59c97579fd9ce98630890869b8]
 
 (1) Where an officer of an enforcement authority exercises any power under paragraph 19 to seize and detain construction products, the enforcement authority shall be liable to pay compensation to any person having an interest in the products in respect of any loss or damage caused by reason of the exercise of the power if—
 
@@ -1045,7 +1045,7 @@ the officer must allow any person who is a party to the proceedings or, as the c
 
 (2) Any disputed question as to the right to or the amount of any compensation payable under this paragraph shall be determined by arbitration.
 
-#### 24. Recovery of expenses of enforcement[^key-082c19967e1a050ca3d0e32317e1d9f6]
+#### 24. Recovery of expenses of enforcement[^c-082c19967e1a050ca3d0e32317e1d9f6]
 
 (1) This paragraph shall apply where a court—
 
@@ -1059,7 +1059,7 @@ the officer must allow any person who is a party to the proceedings or, as the c
 
 ### PART 4 — Miscellaneous and supplemental
 
-#### 25. Restrictions on the disclosure of information[^key-66198a828b7c3831ab5fcc2fe3878143]
+#### 25. Restrictions on the disclosure of information[^c-66198a828b7c3831ab5fcc2fe3878143]
 
 (1) A person shall be guilty of an offence if that person discloses any information to which sub-paragraph (2) applies, except in a case where sub-paragraph (3) applies.
 
@@ -1098,7 +1098,7 @@ the officer must allow any person who is a party to the proceedings or, as the c
   - (b) any district council;
   - (c) any other person on whom enforcement or regulatory functions are conferred by or under any enactment.
 
-#### 26. Defence of due diligence[^key-4e3af054c5b4500789eb7ee7bf22b7c7]
+#### 26. Defence of due diligence[^c-4e3af054c5b4500789eb7ee7bf22b7c7]
 
 (1) Subject to the following provisions of this paragraph, in proceedings against a person for an offence to which this paragraph applies it shall be a defence for that person to show that the person took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
@@ -1118,7 +1118,7 @@ that person shall not, without leave of the court, be entitled to rely on the de
 
 (5) This paragraph applies to an offence under paragraph 3(1) or (4), 4(1), 5(1), 6(6), 11(4) or 13(2).
 
-#### 27. Liability of persons other than principal offender[^key-20744ad5b99da9e8f0f309f5c0609ad5]
+#### 27. Liability of persons other than principal offender[^c-20744ad5b99da9e8f0f309f5c0609ad5]
 
 (1) Where the commission by any person of an offence to which paragraph 26 applies is due to an act or default committed by some other person in the course of any business of that other person, that person shall be guilty of the offence and may be proceeded against and punished by virtue of this paragraph whether or not proceedings are taken against the first-mentioned person.
 
@@ -1126,7 +1126,7 @@ that person shall not, without leave of the court, be entitled to rely on the de
 
 (3) Where the affairs of a body corporate are managed by its members, sub-paragraph (2) shall apply in relation to the acts and defaults of a member in connection with that member’s functions of management as if that member were a director of the body corporate.
 
-#### 28. Service of documents etc.[^key-1e186b7a756a4988e6f421af8a7778d6]
+#### 28. Service of documents etc.[^c-1e186b7a756a4988e6f421af8a7778d6]
 
 (1) Any document required or authorised by virtue of this Schedule to be served on a person may be so served—
 
@@ -1142,11 +1142,11 @@ that person shall not, without leave of the court, be entitled to rely on the de
 
 (2) For the purposes of this paragraph the principal office of a company registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is its principal office within the United Kingdom.
 
-#### 29. Commencement of proceedings[^key-66bef4e0787043839945f8e9bd67e603]
+#### 29. Commencement of proceedings[^c-66bef4e0787043839945f8e9bd67e603]
 
 In relation to any offence under paragraph 3(1) or (4), a magistrates’ court may try a complaint for such an offence if the complaint is made within twelve months from the time when the offence is committed.
 
-#### 30. Transitional provisions[^key-187e2a9288a3346870e135de2b4b3859]
+#### 30. Transitional provisions[^c-187e2a9288a3346870e135de2b4b3859]
 
 (1) In respect of a construction product which is made available on the market in respect of Northern Ireland during the pre-exit period, notwithstanding the amendments made by the 2019 Regulations and Schedule 2 to these Regulations, regulation 4 of the Construction Products Regulations 2013 continues to have effect as it did immediately before those amendments came into force.
 
@@ -1182,9 +1182,9 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^f00002]: Footnote: Paragraph 8F of Schedule 7 to the European Union (Withdrawal) Act [2018 (c.18)](https://www.legislation.gov.uk/ukpga/2018/18) was inserted by section 41(4) and Schedule 5, paragraph 51 of the European Union (Withdrawal Agreement) Act [2020 (c.1)](https://www.legislation.gov.uk/ukpga/2020/1).
 
-[^key-76806b19433cd0746cda9154845a0f9b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-76806b19433cd0746cda9154845a0f9b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-0a666e876bed2bc514c60109fcbf7923]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1359/regulation/2) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-0a666e876bed2bc514c60109fcbf7923]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1359/regulation/2) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
 [^f00003]: Footnote: EUR 2011/305. The EU Regulation is amended by the 2019 Regulations which are amended by this instrument.
 
@@ -1196,126 +1196,126 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^f00007]: Footnote: Paragraph 3(4) of Article 7 of the Ireland/Northern Ireland Protocol to the EU Withdrawal Agreement provides that where businesses placing goods on the market in Northern Ireland affix a CE marking on any goods based on the conformity assessment of a UK authority or body then that marking must be accompanied by a UK(NI) indication.
 
-[^key-58a66dffd1e401edb07be23cf705e7c0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-58a66dffd1e401edb07be23cf705e7c0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-56da56e6eb2ab99a7eb164a0db2940ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1359/regulation/4) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-56da56e6eb2ab99a7eb164a0db2940ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1359/regulation/4) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
 [^f00008]: Footnote: The EU Construction Products Regulation is listed in paragraph 14 of Annex 2 to the Ireland/Northern Ireland Protocol to the EU Withdrawal Agreement and by virtue of paragraph 4 of Article 5 of that protocol this EU regulation continues to apply in Northern Ireland.
 
 [^f00009]: Footnote: The fourth subparagraph of Article 7(3) of the Ireland/Northern Ireland Protocol to the EU Withdrawal Agreement requires that a conformity marking (ie the CE marking) required under EU law which is affixed to a product based on an assessment issued by a body established in the United Kingdom must be accompanied by the additional indication ‘UK(NI)’.
 
-[^key-36d848a294e9c5c4d43fae78f1cd2a97]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1359/regulation/5) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-36d848a294e9c5c4d43fae78f1cd2a97]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1359/regulation/5) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-a7346136af910c0fb954deb10b6231ff]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/1) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-a7346136af910c0fb954deb10b6231ff]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/1) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-78d4eaa506b4b552b59d8c6676244ba9]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/2) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-78d4eaa506b4b552b59d8c6676244ba9]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/2) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-2679af84a29cfa6c7cee1f07d08f32b7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/3) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-2679af84a29cfa6c7cee1f07d08f32b7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/3) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-b0249ccc110aa162911bdc6a1d755d00]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/4) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-b0249ccc110aa162911bdc6a1d755d00]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/4) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-aea75ef804853733d948e6e12dd610d4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/5) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-aea75ef804853733d948e6e12dd610d4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/5) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-f42fb51d23b5befee34f62cbc07eb171]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/6) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-f42fb51d23b5befee34f62cbc07eb171]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/6) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-873d69e70004d649f84fb9f0c34257a3]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/7) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-873d69e70004d649f84fb9f0c34257a3]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/7) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-d379fb6f6753df4e4a5c5e5fc552ffb5]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/8) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-d379fb6f6753df4e4a5c5e5fc552ffb5]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/8) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-0d000405af99ce7d9ccb7bb5cf2bae71]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/9) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-0d000405af99ce7d9ccb7bb5cf2bae71]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/9) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-0824887abb12ee449e080d75eed196f9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/10) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-0824887abb12ee449e080d75eed196f9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/10) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-5cccad9c559407f6ed25786759a9e266]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/11) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-5cccad9c559407f6ed25786759a9e266]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/11) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-ea1c45fcb58be3985fc591af485cdd56]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/12) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-ea1c45fcb58be3985fc591af485cdd56]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/12) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-a6b6db7ef5acf73a73399323c3621266]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/13) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-a6b6db7ef5acf73a73399323c3621266]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/13) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-d07b971da6fba9180c86dbcd723062e5]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/14) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-d07b971da6fba9180c86dbcd723062e5]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/14) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-417a15fb43f518224fb892b339e1e791]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/15) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-417a15fb43f518224fb892b339e1e791]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/15) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-d8b63cb58bb2126e2dd82e683f4350e4]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/16) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-d8b63cb58bb2126e2dd82e683f4350e4]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/16) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-10baf63a5075c91b075bf8ea6157e790]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-10baf63a5075c91b075bf8ea6157e790]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-e6d25a86c84ed1ea5fef06f7bfd15fa4]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-e6d25a86c84ed1ea5fef06f7bfd15fa4]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-67bbea12c5e13d8d281675f9436b7b8a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/1) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-67bbea12c5e13d8d281675f9436b7b8a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/1) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-294ef2c3b4695446712ecffe0f284e9a]: Textual amendment: Words in [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/1/2) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/712/regulation/3/2/a)
+[^c-294ef2c3b4695446712ecffe0f284e9a]: Textual amendment: Words in [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/1/2) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/712/regulation/3/2/a)
 
-[^key-ef30f3d23e8042be6326fc007279f170]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/2) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-ef30f3d23e8042be6326fc007279f170]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/2) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-a7361b920fcef269630c1592cb463399]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/3) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-a7361b920fcef269630c1592cb463399]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/3) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-9d018a40db27f1edcac57f3021965f5c]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/4) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-9d018a40db27f1edcac57f3021965f5c]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/4) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-3ce7d158e6f0fc97498f5cd685943d60]: Textual amendment: Words in [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/4/3) substituted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/712/regulation/3/2/b/i)
+[^c-3ce7d158e6f0fc97498f5cd685943d60]: Textual amendment: Words in [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/4/3) substituted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/712/regulation/3/2/b/i)
 
-[^key-d9b2c72230dffb17154a6570a150809b]: Textual amendment: Words in [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/4/3) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/712/regulation/3/2/b/ii)
+[^c-d9b2c72230dffb17154a6570a150809b]: Textual amendment: Words in [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/4/3) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/712/regulation/3/2/b/ii)
 
-[^key-4f582225b8de68d79d8cfd73803e6536]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/5) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-4f582225b8de68d79d8cfd73803e6536]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/5) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-2fb1ad1e43ee83d9c93c0fa1a185b809]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/6) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-2fb1ad1e43ee83d9c93c0fa1a185b809]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/6) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-8f9783491d8e8e8f33d476090a5ee2e5]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/7) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-8f9783491d8e8e8f33d476090a5ee2e5]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/7) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-fd60cc6a2456aef2591cf480d78b0dcf]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/8) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-fd60cc6a2456aef2591cf480d78b0dcf]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/8) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
 [^f00010]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-c56e62ccd49435a2483cabb97c780866]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/9) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-c56e62ccd49435a2483cabb97c780866]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/9) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-ff42d43d6ef3ed6b9b89b10d6c8debc3]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/10) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-ff42d43d6ef3ed6b9b89b10d6c8debc3]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/10) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-c77ccebeeaf0b85d6cbef1ffc5d92751]: Textual amendment: Words in [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/10) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/uksi/2022/712/regulation/3/2/c)
+[^c-c77ccebeeaf0b85d6cbef1ffc5d92751]: Textual amendment: Words in [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/10) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/uksi/2022/712/regulation/3/2/c)
 
-[^key-86c3dab896816a9a9485f54aa6c7fea7]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/11) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-86c3dab896816a9a9485f54aa6c7fea7]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/11) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-9d2be31a00b580ebb7d8909267eb9322]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/12) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-9d2be31a00b580ebb7d8909267eb9322]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/12) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-30072371bfad5220487684523067b442]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/13) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-30072371bfad5220487684523067b442]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/13) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-287091cc8cad1f4696742636de8644d9]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/14) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-287091cc8cad1f4696742636de8644d9]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/14) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-7a4ce44e20ddb9f419ecb79a861338af]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/15) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-7a4ce44e20ddb9f419ecb79a861338af]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/15) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-f8356fe24478d1db878e29ae911d3ba4]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/16) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-f8356fe24478d1db878e29ae911d3ba4]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/16) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-283ca8b570a3e409b0d0fb5b7a6d2df7]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/17) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-283ca8b570a3e409b0d0fb5b7a6d2df7]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/17) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-0b7f60c8ddd6a85a2861988c270a796a]: Textual amendment: Words in [Sch. 3 para. 17(1)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/17/1) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [3(2)(d)](https://www.legislation.gov.uk/uksi/2022/712/regulation/3/2/d)
+[^c-0b7f60c8ddd6a85a2861988c270a796a]: Textual amendment: Words in [Sch. 3 para. 17(1)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/17/1) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [3(2)(d)](https://www.legislation.gov.uk/uksi/2022/712/regulation/3/2/d)
 
-[^key-29797f8c734e621abf5ee4a325aea85e]: Textual amendment: [Sch. 3 para. 17(1A)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/17/1A) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [3(2)(e)](https://www.legislation.gov.uk/uksi/2022/712/regulation/3/2/e)
+[^c-29797f8c734e621abf5ee4a325aea85e]: Textual amendment: [Sch. 3 para. 17(1A)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/17/1A) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [3(2)(e)](https://www.legislation.gov.uk/uksi/2022/712/regulation/3/2/e)
 
-[^key-962dc512f2eaf122dbad014f120b4172]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/18) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-962dc512f2eaf122dbad014f120b4172]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/18) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-4e3abd11db842f9474e16479ffc41b11]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/19) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-4e3abd11db842f9474e16479ffc41b11]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/19) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-cc8e5fd6f685f6628276c19b55985308]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/20) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-cc8e5fd6f685f6628276c19b55985308]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/20) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
 [^f00011]: Footnote: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2); “importer” is defined in section 1(1).
 
-[^key-02f612abdc15d4f19848b562e91ce203]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/21) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-02f612abdc15d4f19848b562e91ce203]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/21) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-5b5574140c7b0ff6aec004f8d560be5d]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/22) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-5b5574140c7b0ff6aec004f8d560be5d]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/22) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-eacdaa59c97579fd9ce98630890869b8]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/23) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-eacdaa59c97579fd9ce98630890869b8]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/23) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-082c19967e1a050ca3d0e32317e1d9f6]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/24) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-082c19967e1a050ca3d0e32317e1d9f6]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/24) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-66198a828b7c3831ab5fcc2fe3878143]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/25) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-66198a828b7c3831ab5fcc2fe3878143]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/25) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
 [^f00012]: Footnote: [S.I. 2012/1848](https://www.legislation.gov.uk/uksi/2012/1848).
 
-[^key-4e3af054c5b4500789eb7ee7bf22b7c7]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/26) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-4e3af054c5b4500789eb7ee7bf22b7c7]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/26) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-20744ad5b99da9e8f0f309f5c0609ad5]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/27) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-20744ad5b99da9e8f0f309f5c0609ad5]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/27) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-1e186b7a756a4988e6f421af8a7778d6]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/28) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-1e186b7a756a4988e6f421af8a7778d6]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/28) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-66bef4e0787043839945f8e9bd67e603]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/29) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-66bef4e0787043839945f8e9bd67e603]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/29) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
 
-[^key-187e2a9288a3346870e135de2b4b3859]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)
+[^c-187e2a9288a3346870e135de2b4b3859]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30) in force at 31.12.2020 immediately before the 2019 Regulations come into force, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1)

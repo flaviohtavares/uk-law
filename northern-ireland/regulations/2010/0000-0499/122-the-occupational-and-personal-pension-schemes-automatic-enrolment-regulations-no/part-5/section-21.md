@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Information to be given to workers[^key-fb01309cb84217e8e3353cc1cee57dc4]
+## 21. Information to be given to workers[^c-fb01309cb84217e8e3353cc1cee57dc4]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ At any time before the end of the period of 6 weeks beginning with the date on w
 
 ## Annotations
 
-[^key-fb01309cb84217e8e3353cc1cee57dc4]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/nisr/2010/122/regulation/21) substituted (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [6](https://www.legislation.gov.uk/nisr/2015/310/regulation/6)
+[^c-fb01309cb84217e8e3353cc1cee57dc4]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/nisr/2010/122/regulation/21) substituted (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [6](https://www.legislation.gov.uk/nisr/2015/310/regulation/6)

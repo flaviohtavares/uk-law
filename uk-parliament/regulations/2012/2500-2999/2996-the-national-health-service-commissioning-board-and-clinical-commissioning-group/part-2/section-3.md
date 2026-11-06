@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Interpretation of Part 2[^key-26dc827451e99420e44d02f7baeba9f1]
+## 3. Interpretation of Part 2[^c-26dc827451e99420e44d02f7baeba9f1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26dc827451e99420e44d02f7baeba9f1]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2012/2996/part/2) omitted (1.7.2022) by virtue of [The National Health Service (Integrated Care Boards: Responsibilities) Regulations 2022 (S.I. 2022/635)](https://www.legislation.gov.uk/uksi/2022/635), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/635/regulation/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2022/635/regulation/9/4/a)
+[^c-26dc827451e99420e44d02f7baeba9f1]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2012/2996/part/2) omitted (1.7.2022) by virtue of [The National Health Service (Integrated Care Boards: Responsibilities) Regulations 2022 (S.I. 2022/635)](https://www.legislation.gov.uk/uksi/2022/635), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/635/regulation/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2022/635/regulation/9/4/a)

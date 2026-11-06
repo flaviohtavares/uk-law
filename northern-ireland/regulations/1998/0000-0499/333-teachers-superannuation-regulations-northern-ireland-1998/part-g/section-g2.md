@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## G2. Receipts, etc., to be credited[^key-d1d18028480d7f2770e398f773cf0972]
+## G2. Receipts, etc., to be credited[^c-d1d18028480d7f2770e398f773cf0972]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1d18028480d7f2770e398f773cf0972]: Commencement: Reg. G2 in operation at 2.11.1998, see reg. A1
+[^c-d1d18028480d7f2770e398f773cf0972]: Commencement: Reg. G2 in operation at 2.11.1998, see reg. A1

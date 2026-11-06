@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. General considerations relevant to determination of applications[^key-4b419b166ca26f25331335b0f6a636a0]
+## 66. General considerations relevant to determination of applications[^c-4b419b166ca26f25331335b0f6a636a0]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b419b166ca26f25331335b0f6a636a0]: Commencement: S. 66 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4b419b166ca26f25331335b0f6a636a0]: Commencement: S. 66 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

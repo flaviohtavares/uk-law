@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Destruction of fingerprints and DNA profiles[^key-0c8adf2f33721db7ebb6888f1d029000]
+## 1. Destruction of fingerprints and DNA profiles[^c-0c8adf2f33721db7ebb6888f1d029000]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ After section 63C of the Police and Criminal Evidence Act 1984 insert—
 
 ## Annotations
 
-[^key-0c8adf2f33721db7ebb6888f1d029000]: Commencement: S. 1 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/a) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-0c8adf2f33721db7ebb6888f1d029000]: Commencement: S. 1 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/a) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))

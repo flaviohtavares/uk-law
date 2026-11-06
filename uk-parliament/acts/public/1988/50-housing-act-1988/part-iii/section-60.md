@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to section 61 below, the Secretary of State may by order designate an area of land in England[^key-fe892839be61fdb84692930cf33ffcd6] for which, in his opinion, it is expedient that a corporation, to be known as a housing action trust, having the functions specified in this Part of this Act, should be established.
+(1) Subject to section 61 below, the Secretary of State may by order designate an area of land in England[^c-fe892839be61fdb84692930cf33ffcd6] for which, in his opinion, it is expedient that a corporation, to be known as a housing action trust, having the functions specified in this Part of this Act, should be established.
 
 (2) The area designated by an order under this section may comprise two or more parcels of land which—
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe892839be61fdb84692930cf33ffcd6]: Textual amendment: Words in s. 60(1) inserted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/2)
+[^c-fe892839be61fdb84692930cf33ffcd6]: Textual amendment: Words in s. 60(1) inserted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/2)

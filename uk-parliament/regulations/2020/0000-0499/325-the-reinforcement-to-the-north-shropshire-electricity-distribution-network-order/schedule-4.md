@@ -24,18 +24,18 @@ Article 18
 
 ### COMPENSATION ENACTMENTS
 
-**1.**[^key-0312eb5cde400a6cfd93e4bacb74867f] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation set out in this Schedule, in the case of a compulsory acquisition under this Order of a right by the creation of a new right or the imposition of a restriction as they apply as respects compensation on the compulsory purchase of land and interests in land.
+**1.**[^c-0312eb5cde400a6cfd93e4bacb74867f] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation set out in this Schedule, in the case of a compulsory acquisition under this Order of a right by the creation of a new right or the imposition of a restriction as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
 ### MODIFICATION OF THE LAND COMPENSATION ACT 1973
 
-**2.**[^key-03e15202ce8f18f6324f591bb9d42d93] (1) Without limitation on the scope of paragraph (1), the Land Compensation Act 1973 [^c24030821] has effect subject to the modification set out in sub-paragraph (2).
+**2.**[^c-03e15202ce8f18f6324f591bb9d42d93] (1) Without limitation on the scope of paragraph (1), the Land Compensation Act 1973 [^c24030821] has effect subject to the modification set out in sub-paragraph (2).
 
 (2) In section 44(1) [^c24030831] (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 of the 1965 Act (measure of compensation in case of severance) as substituted by paragraph 5(3)—
 
 - (a) for “land is acquired or taken from” substitute “ a right or restrictive covenant over land is purchased from or imposed on ”; and
 - (b) words “acquired or taken from him” substitute “over which the right is exercisable or the restrictive covenant enforceable”.
 
-**3.**[^key-d86f9a4c440639c37ca0034d189ba5d1] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
+**3.**[^c-d86f9a4c440639c37ca0034d189ba5d1] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
 
 (2) For section 5A(1) [^c24030841] of the 1961 Act, (relevant valuation date) after “if” substitute—
 
@@ -47,12 +47,12 @@ Article 18
 
 ### APPLICATION OF PART 1 OF THE 1965 ACT
 
-**4.**[^key-1c681581e1c4afd4e426d957a4c21041] Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act and modified by article 24 (modification of Part 1 of the 1965 Act)) applies to the compulsory acquisition of a right by the creation of a new right or to the imposition of a restrictive covenant under article 18 (compulsory acquisition of rights)—
+**4.**[^c-1c681581e1c4afd4e426d957a4c21041] Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act and modified by article 24 (modification of Part 1 of the 1965 Act)) applies to the compulsory acquisition of a right by the creation of a new right or to the imposition of a restrictive covenant under article 18 (compulsory acquisition of rights)—
 
 - (a) with the modifications specified in paragraph 5; and
 - (b) with such other modifications as may be necessary.
 
-**5.**[^key-da19b241a441c33748a6b0271d29af7c] (1) The modifications referred to in paragraph 4(1)(a) are as follows—
+**5.**[^c-da19b241a441c33748a6b0271d29af7c] (1) The modifications referred to in paragraph 4(1)(a) are as follows—
 
 (2) References in the 1965 Act to land are, in the appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -137,21 +137,21 @@ are modified so as to secure that, as against persons with interests in the land
 
 ## Annotations
 
-[^key-0312eb5cde400a6cfd93e4bacb74867f]: Commencement: Sch. 4 para. 1 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-0312eb5cde400a6cfd93e4bacb74867f]: Commencement: Sch. 4 para. 1 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-03e15202ce8f18f6324f591bb9d42d93]: Commencement: Sch. 4 para. 2 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-03e15202ce8f18f6324f591bb9d42d93]: Commencement: Sch. 4 para. 2 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030821]: Marginal citation: 1973\. c.26.
 
 [^c24030831]: Marginal citation: Relevant amendments to section 44 were made by the 1980 Act, section 343(2), Schedule 24, paragraph 23; the Gas Act 1986, section 67(1), Schedule 7, paragraph 14; the Water Act 1989, section 190, Schedule 25, paragraph 44, and the [Water Consolidation (Consequential Provisions) Act 1991 (c.60)](https://www.legislation.gov.uk/ukpga/1991/60) , section 2, Schedule 1, paragraph 23.
 
-[^key-d86f9a4c440639c37ca0034d189ba5d1]: Commencement: Sch. 4 para. 3 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-d86f9a4c440639c37ca0034d189ba5d1]: Commencement: Sch. 4 para. 3 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030841]: Marginal citation: [Section 5A](https://www.legislation.gov.uk/uksi/2020/325/section/5A) was inserted by the Planning and Compulsory Purchase Act 2004, section 103 and relevant amendments were made by the Housing and Planning Act 2016, section 199, Schedule 17, paragraph 4, Schedule 18, paragraph 9 and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
-[^key-1c681581e1c4afd4e426d957a4c21041]: Commencement: Sch. 4 para. 4 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-1c681581e1c4afd4e426d957a4c21041]: Commencement: Sch. 4 para. 4 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-da19b241a441c33748a6b0271d29af7c]: Commencement: Sch. 4 para. 5 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-da19b241a441c33748a6b0271d29af7c]: Commencement: Sch. 4 para. 5 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030851]: Marginal citation: [Section 11A](https://www.legislation.gov.uk/uksi/2020/325/section/11A) was inserted by the Housing and Planning Act 2016, section 186(1) and (3).
 

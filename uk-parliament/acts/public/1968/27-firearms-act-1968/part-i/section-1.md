@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to any exemption under this Act, it is an offence for a person—
 
-- (a)[^c18071631][^key-7ab7ff7cb549c7169c12ba462d48f3b7] to have in his possession, or to purchase or acquire, a firearm to which this section applies without holding a firearm certificate in force at the time, or otherwise than as authorised by such a certificate;
+- (a)[^c18071631][^c-7ab7ff7cb549c7169c12ba462d48f3b7] to have in his possession, or to purchase or acquire, a firearm to which this section applies without holding a firearm certificate in force at the time, or otherwise than as authorised by such a certificate;
 - (b) to have in his possession, or to purchase or acquire, any ammunition to which this section applies without holding a firearm certificate in force at the time, or otherwise than as authorised by such a certificate, or in quantities in excess of those so authorised.
 
 (2) It is an offence for a person to fail to comply with a condition subject to which a firearm certificate is held by him.
@@ -47,7 +47,7 @@ summary: ''
 
 [^c18071631]: Modification: S. 1(1)(a) excluded (E. W.) (17.12.2003) by The Anti-social [Behaviour Act 2003 (Commencement No. 1 and Transitional Provisions) Order 2003 (S.I. 2003/3300)](https://www.legislation.gov.uk/uksi/2003/3300), [art. 5(2)](https://www.legislation.gov.uk/uksi/2003/3300/article/5/2)
 
-[^key-7ab7ff7cb549c7169c12ba462d48f3b7]: Modification: S. 1(1)(a) excluded (22.3.2021) by [The Policing and Crime Act 2017 (Commencement No. 11 and Transitional Provisions) Regulations 2021 (S.I. 2021/282)](https://www.legislation.gov.uk/uksi/2021/282), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/282/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/282/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/282/regulation/4)
+[^c-7ab7ff7cb549c7169c12ba462d48f3b7]: Modification: S. 1(1)(a) excluded (22.3.2021) by [The Policing and Crime Act 2017 (Commencement No. 11 and Transitional Provisions) Regulations 2021 (S.I. 2021/282)](https://www.legislation.gov.uk/uksi/2021/282), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/282/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/282/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/282/regulation/4)
 
 [^c9808401]: Textual amendment: S. 1(3)(*a*) substituted by [Firearms (Amendment) Act 1988 (c. 45, SIF 51:1)](https://www.legislation.gov.uk/ukpga/1988/45), [s. 2(2)](https://www.legislation.gov.uk/ukpga/1988/45/section/2/2)
 

@@ -35,7 +35,7 @@ but a contravention of this subsection shall not invalidate any transaction or o
 
 (3) No transaction so entered into shall be taken into account for the purposes of subsection (1)(b) above if—
 
-- (a) it relates only to currencies and the amount or value of the consideration given by the society or undertaking does not exceed £3 million[^key-d8bc97ddbab3812c593698da5cf509fd]; or
+- (a) it relates only to currencies and the amount or value of the consideration given by the society or undertaking does not exceed £3 million[^c-d8bc97ddbab3812c593698da5cf509fd]; or
 - (b) it is ancillary or incidental to another transaction entered into by the society or undertaking.
 
 (4) Nothing in subsection (1)(c) above shall apply in relation to any transaction entered into by a building society, or a subsidiary undertaking of a building society, if—
@@ -47,19 +47,19 @@ but a contravention of this subsection shall not invalidate any transaction or o
   - (iii) any index of retail prices;
   - (iv) any index of residential property prices; [^c18387641] . . .
   - (v) any index of the prices of securities; and[^c18387651]
-  - (vi) the ability or willingness of one or more persons to pay or repay a sum or sums owing at law or in equity to the society or a connected undertaking of the society;[^key-ee6910c2191a5c4eec121156361d4c65]...
+  - (vi) the ability or willingness of one or more persons to pay or repay a sum or sums owing at law or in equity to the society or a connected undertaking of the society;[^c-ee6910c2191a5c4eec121156361d4c65]...
 - (c) it involves a derivative investment falling within paragraph (d) of the definition in subsection (9) below and it is entered into for the purpose of limiting the extent to which any person will be affected by changes in any interest or exchange rate applicable to—
   - (i) a loan owed by him to;
   - (ii) shares held by him in; or
   - (iii) a deposit of his with,
 
-  the society, or a connected undertaking of the society ; or[^key-f879f22c6718b26470f617a04ba8693c]
-- (d)[^key-dc4e3e6f6af81f7781625948081a9d9a] it is entered into in order to comply with an obligation imposed by a recognised clearing house or an EEA central counterparty pursuant to Article 37 of Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories.
+  the society, or a connected undertaking of the society ; or[^c-f879f22c6718b26470f617a04ba8693c]
+- (d)[^c-dc4e3e6f6af81f7781625948081a9d9a] it is entered into in order to comply with an obligation imposed by a recognised clearing house or an EEA central counterparty pursuant to Article 37 of Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories.
 
 (5) Nothing in subsection (1)(c) above shall apply in relation to any transaction entered into by a subsidiary undertaking of a building society, if it is entered into in the undertaking’s capacity—
 
-- (a)[^c18387691] as a person who has permission under Part 4A[^key-a1bdf21b520b6218ab89903b3921600b] of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance, [^key-7525f9f55b6bfbdb5646c483bb0c2888]...
-- (b)[^key-7525f9f55b6bfbdb5646c483bb0c2888] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c18387691] as a person who has permission under Part 4A[^c-a1bdf21b520b6218ab89903b3921600b] of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance, [^c-7525f9f55b6bfbdb5646c483bb0c2888]...
+- (b)[^c-7525f9f55b6bfbdb5646c483bb0c2888] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 [^M_F_0b789a37-6ef2-4899-8a94-54ce018ae795]. . .
 
@@ -83,9 +83,9 @@ of an undertaking which is, at that time, doing any of the things which the soci
   - (b) options;
   - (c) futures;
   - (d) contracts for differences;
-- “[^key-2742052cb5d7bf3912ba0a14f6b610e9]EEA central counterparty” has the meaning given in section 285(1)(c) of the Financial Services and Markets Act 2000;”
+- “[^c-2742052cb5d7bf3912ba0a14f6b610e9]EEA central counterparty” has the meaning given in section 285(1)(c) of the Financial Services and Markets Act 2000;”
 - “**market maker**” means, subject to subsection (10) below, a person who holds himself out as willing at all normal times to buy or sell at a price specified by him securities, commodities or currencies of a particular description;
-- “recognised clearing house” has the meaning given in section 285(1)(b) of the Financial Services and Markets Act 2000;”.[^key-fc5ac4d475605e9f8c549fe0f10f4e98]
+- “recognised clearing house” has the meaning given in section 285(1)(b) of the Financial Services and Markets Act 2000;”.[^c-fc5ac4d475605e9f8c549fe0f10f4e98]
 - “**securities**” means shares, stock, debentures, debenture stock, loan stock, bonds, units of a collective investment scheme and other securities of any description.
 
 (9A)[^c18388721] Subsection (5) and the definition of “derivative investment” in subsection (9) must be read with—
@@ -118,23 +118,23 @@ and the power to make such an order is exercisable by statutory instrument.
 
 [^c18387611]: Textual amendment: S. 9A and cross-heading inserted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 10](https://www.legislation.gov.uk/ukpga/1997/32/section/10), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(i)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/i)
 
-[^key-d8bc97ddbab3812c593698da5cf509fd]: Textual amendment: Words in s. 9A(3)(a) substituted (6.4.2018) by [The Building Societies (Restricted Transactions) (Amendment to the Limit on the Trade in Currencies) Order 2017 (S.I. 2017/1307)](https://www.legislation.gov.uk/uksi/2017/1307), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1307/article/1/2), [2](https://www.legislation.gov.uk/uksi/2017/1307/article/2)
+[^c-d8bc97ddbab3812c593698da5cf509fd]: Textual amendment: Words in s. 9A(3)(a) substituted (6.4.2018) by [The Building Societies (Restricted Transactions) (Amendment to the Limit on the Trade in Currencies) Order 2017 (S.I. 2017/1307)](https://www.legislation.gov.uk/uksi/2017/1307), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1307/article/1/2), [2](https://www.legislation.gov.uk/uksi/2017/1307/article/2)
 
 [^c18387641]: Textual amendment: Word in s. 9A(4) omitted (1.7.2001) by virtue of [S.I. 2001/1826](https://www.legislation.gov.uk/uksi/2001/1826), [art. 2(a)](https://www.legislation.gov.uk/uksi/2001/1826/article/2/a)
 
 [^c18387651]: Textual amendment: S. 9A(4)(b)(vi) and the word "and" immediately preceding inserted (1.7.2001) by [S.I. 2001/1826](https://www.legislation.gov.uk/uksi/2001/1826), [art. 2(b)](https://www.legislation.gov.uk/uksi/2001/1826/article/2/b)
 
-[^key-ee6910c2191a5c4eec121156361d4c65]: Textual amendment: Word in s. 9A(4)(b)(vi) omitted (6.4.2018) by virtue of [The Building Societies (Restricted Transactions) (Amendment to the Prohibition on Entering into Derivatives Transactions) Order 2018 (S.I. 2018/314)](https://www.legislation.gov.uk/uksi/2018/314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/314/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2018/314/article/2/a)
+[^c-ee6910c2191a5c4eec121156361d4c65]: Textual amendment: Word in s. 9A(4)(b)(vi) omitted (6.4.2018) by virtue of [The Building Societies (Restricted Transactions) (Amendment to the Prohibition on Entering into Derivatives Transactions) Order 2018 (S.I. 2018/314)](https://www.legislation.gov.uk/uksi/2018/314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/314/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2018/314/article/2/a)
 
-[^key-f879f22c6718b26470f617a04ba8693c]: Textual amendment: Word in s. 9A(4)(c) inserted (6.4.2018) by [The Building Societies (Restricted Transactions) (Amendment to the Prohibition on Entering into Derivatives Transactions) Order 2018 (S.I. 2018/314)](https://www.legislation.gov.uk/uksi/2018/314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/314/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2018/314/article/2/b)
+[^c-f879f22c6718b26470f617a04ba8693c]: Textual amendment: Word in s. 9A(4)(c) inserted (6.4.2018) by [The Building Societies (Restricted Transactions) (Amendment to the Prohibition on Entering into Derivatives Transactions) Order 2018 (S.I. 2018/314)](https://www.legislation.gov.uk/uksi/2018/314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/314/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2018/314/article/2/b)
 
-[^key-dc4e3e6f6af81f7781625948081a9d9a]: Textual amendment: S. 9A(4)(d) inserted (6.4.2018) by [The Building Societies (Restricted Transactions) (Amendment to the Prohibition on Entering into Derivatives Transactions) Order 2018 (S.I. 2018/314)](https://www.legislation.gov.uk/uksi/2018/314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/314/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2018/314/article/2/c)
+[^c-dc4e3e6f6af81f7781625948081a9d9a]: Textual amendment: S. 9A(4)(d) inserted (6.4.2018) by [The Building Societies (Restricted Transactions) (Amendment to the Prohibition on Entering into Derivatives Transactions) Order 2018 (S.I. 2018/314)](https://www.legislation.gov.uk/uksi/2018/314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/314/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2018/314/article/2/c)
 
 [^c18387691]: Textual amendment: S. 9A(5)(a)(b) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [195(2)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/195/2/a)
 
-[^key-a1bdf21b520b6218ab89903b3921600b]: Textual amendment: Words in s. 9A(5)(a) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/8) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-a1bdf21b520b6218ab89903b3921600b]: Textual amendment: Words in s. 9A(5)(a) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/8) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-7525f9f55b6bfbdb5646c483bb0c2888]: Textual amendment: S. 9A(5)(b) and word omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 29(2)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/29/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7525f9f55b6bfbdb5646c483bb0c2888]: Textual amendment: S. 9A(5)(b) and word omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 29(2)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/29/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_0b789a37-6ef2-4899-8a94-54ce018ae795]: Textual amendment: Words in s. 9A(5) repealed (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [195(2)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/195/2/b)
 
@@ -142,9 +142,9 @@ and the power to make such an order is exercisable by statutory instrument.
 
 [^c18388711]: Textual amendment: Definition of "derivative investment" in s. 9A(9) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [195(3)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/195/3/b)
 
-[^key-2742052cb5d7bf3912ba0a14f6b610e9]: Textual amendment: Words in s. 9A(9) inserted (6.4.2018) by [The Building Societies (Restricted Transactions) (Amendment to the Prohibition on Entering into Derivatives Transactions) Order 2018 (S.I. 2018/314)](https://www.legislation.gov.uk/uksi/2018/314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/314/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2018/314/article/3/a)
+[^c-2742052cb5d7bf3912ba0a14f6b610e9]: Textual amendment: Words in s. 9A(9) inserted (6.4.2018) by [The Building Societies (Restricted Transactions) (Amendment to the Prohibition on Entering into Derivatives Transactions) Order 2018 (S.I. 2018/314)](https://www.legislation.gov.uk/uksi/2018/314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/314/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2018/314/article/3/a)
 
-[^key-fc5ac4d475605e9f8c549fe0f10f4e98]: Textual amendment: Words in s. 9A(9) inserted (6.4.2018) by [The Building Societies (Restricted Transactions) (Amendment to the Prohibition on Entering into Derivatives Transactions) Order 2018 (S.I. 2018/314)](https://www.legislation.gov.uk/uksi/2018/314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/314/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2018/314/article/3/b)
+[^c-fc5ac4d475605e9f8c549fe0f10f4e98]: Textual amendment: Words in s. 9A(9) inserted (6.4.2018) by [The Building Societies (Restricted Transactions) (Amendment to the Prohibition on Entering into Derivatives Transactions) Order 2018 (S.I. 2018/314)](https://www.legislation.gov.uk/uksi/2018/314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/314/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2018/314/article/3/b)
 
 [^c18388721]: Textual amendment: S. 9A(9A) inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [195(4)](https://www.legislation.gov.uk/uksi/2001/3649/article/195/4)
 

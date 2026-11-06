@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — CLASSIFICATION OF ROADS ETC.[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+## SCHEDULE 9 — CLASSIFICATION OF ROADS ETC.[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
@@ -24,138 +24,138 @@ summary: ''
 
 Article 46
 
-### PART 1 — THE NEW AND IMPROVED A303 TRUNK ROAD[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 1 — THE NEW AND IMPROVED A303 TRUNK ROAD[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 In the administrative area of Wiltshire Council—
 
-#### 1. An 11.6 kilometre length of new road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 1. An 11.6 kilometre length of new road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — THE NEW LONGBARROW JUNCTION AND THE SLIP ROADS[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 2 — THE NEW LONGBARROW JUNCTION AND THE SLIP ROADS[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 In the administrative area of Wiltshire Council—
 
-#### 2. A303 eastbound diverge slip road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 2. A303 eastbound diverge slip road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. A303 eastbound merge slip road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 3. A303 eastbound merge slip road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. A303 westbound diverge slip road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 4. A303 westbound diverge slip road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. A303 westbound merge slip road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 5. A303 westbound merge slip road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — THE NEW LONGBARROW JUNCTION AND LINK ROADS[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 3 — THE NEW LONGBARROW JUNCTION AND LINK ROADS[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 In the administrative area of Wiltshire Council—
 
-#### 6. A360 northern link to new Longbarrow junction[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 6. A360 northern link to new Longbarrow junction[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Northbound and Southbound Link between the new northern and southern roundabouts at Longbarrow Junction[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 7. Northbound and Southbound Link between the new northern and southern roundabouts at Longbarrow Junction[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. A360 south-eastern link to new Longbarrow junction[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 8. A360 south-eastern link to new Longbarrow junction[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. South-western link to new Longbarrow junction[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 9. South-western link to new Longbarrow junction[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — THE NEW ROLLESTONE CROSS[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 4 — THE NEW ROLLESTONE CROSS[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 In the administrative area of Wiltshire Council—
 
-#### 10. A 230 metre length of new road (B3086 northbound approach)[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 10. A 230 metre length of new road (B3086 northbound approach)[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. A 135 metre length of new road (Unclassified westbound approach)[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 11. A 135 metre length of new road (Unclassified westbound approach)[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. A 140 metre length of new road (B3086 eastbound approach)[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 12. A 140 metre length of new road (B3086 eastbound approach)[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 5 — THE NEW B3083[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 5 — THE NEW B3083[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 In the administrative area of Wiltshire Council—
 
-#### 13. A 725 metre length of new road (realigned B3083)[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 13. A 725 metre length of new road (realigned B3083)[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 6 — THE NEW COUNTESS JUNCTION SLIP ROADS[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 6 — THE NEW COUNTESS JUNCTION SLIP ROADS[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 In the administrative area of Wiltshire Council—
 
-#### 14. A303 eastbound diverge slip road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 14. A303 eastbound diverge slip road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. A303 eastbound merge slip road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 15. A303 eastbound merge slip road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. A303 westbound diverge slip road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 16. A303 westbound diverge slip road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. A303 westbound merge slip road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 17. A303 westbound merge slip road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 7 — THE EXISTING A303[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 7 — THE EXISTING A303[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 In the administrative area of Wiltshire Council—
 
-#### 18. A 570 metre length of existing A303 trunk road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 18. A 570 metre length of existing A303 trunk road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. A 350 metre length of existing A303 trunk road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 19. A 350 metre length of existing A303 trunk road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. A 1.24 kilometre length of existing A303 trunk road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 20. A 1.24 kilometre length of existing A303 trunk road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. A 345 metre length of existing A303 trunk road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 21. A 345 metre length of existing A303 trunk road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 8 — THE NEW ALLINGTON TRACK LINK ROAD[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 8 — THE NEW ALLINGTON TRACK LINK ROAD[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 In the administrative area of Wiltshire Council—
 
-#### 22. A 985 metre length of new road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 22. A 985 metre length of new road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 9 — ROADS TO BE DE-TRUNKED[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 9 — ROADS TO BE DE-TRUNKED[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 In the administrative area of Wiltshire Council—
 
-#### 23. A 2.28 kilometre length of the existing A303 trunk road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 23. A 2.28 kilometre length of the existing A303 trunk road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. A 345 metre length of the existing A303 trunk road[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 24. A 345 metre length of the existing A303 trunk road[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ba60b02d70f93ffc3c65fe727c1611a8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/834) revoked (18.3.2026) by [The A303 (Amesbury to Berwick Down) Development Consent (Revocation) Order 2026 (S.I. 2026/309)](https://www.legislation.gov.uk/uksi/2026/309), [arts. 1](https://www.legislation.gov.uk/uksi/2026/309/article/1), [2](https://www.legislation.gov.uk/uksi/2026/309/article/2)
+[^c-ba60b02d70f93ffc3c65fe727c1611a8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/834) revoked (18.3.2026) by [The A303 (Amesbury to Berwick Down) Development Consent (Revocation) Order 2026 (S.I. 2026/309)](https://www.legislation.gov.uk/uksi/2026/309), [arts. 1](https://www.legislation.gov.uk/uksi/2026/309/article/1), [2](https://www.legislation.gov.uk/uksi/2026/309/article/2)

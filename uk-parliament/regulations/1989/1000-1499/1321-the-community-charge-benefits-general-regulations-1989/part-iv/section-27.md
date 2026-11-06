@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Capital limit[^key-ccac820d93eabd592c74e62d24b44b96]
+## 27. Capital limit[^c-ccac820d93eabd592c74e62d24b44b96]
 
 *Extent: E+W+S*
 
-For the purposes of section 22(6) of the Act as it applies to community charge benefits (no entitlement to benefit if capital exceeds prescribed amount), the prescribed amount is £16,000.[^key-c56dadd0fdb5dd65c1599b937e2a067e]
+For the purposes of section 22(6) of the Act as it applies to community charge benefits (no entitlement to benefit if capital exceeds prescribed amount), the prescribed amount is £16,000.[^c-c56dadd0fdb5dd65c1599b937e2a067e]
 
 ## Annotations
 
-[^key-ccac820d93eabd592c74e62d24b44b96]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1989/1321/regulation/27) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-ccac820d93eabd592c74e62d24b44b96]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1989/1321/regulation/27) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
-[^key-c56dadd0fdb5dd65c1599b937e2a067e]: Textual amendment: Sum in [Reg. 27](https://www.legislation.gov.uk/uksi/1989/1321/regulation/27) substituted (1.4.1990) by [The Community Charge Benefits (General) Amendment No. 2 Regulations 1990 (S.I. 1990/835)](https://www.legislation.gov.uk/uksi/1990/835), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/835/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1990/835/regulation/2)
+[^c-c56dadd0fdb5dd65c1599b937e2a067e]: Textual amendment: Sum in [Reg. 27](https://www.legislation.gov.uk/uksi/1989/1321/regulation/27) substituted (1.4.1990) by [The Community Charge Benefits (General) Amendment No. 2 Regulations 1990 (S.I. 1990/835)](https://www.legislation.gov.uk/uksi/1990/835), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/835/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1990/835/regulation/2)

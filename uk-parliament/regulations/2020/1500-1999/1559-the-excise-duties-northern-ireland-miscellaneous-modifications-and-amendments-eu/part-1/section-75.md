@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**75.**[^key-cc40cb4a03f2efce1e10a4b10563f1ba] Before regulation 84 in the heading for “the United Kingdom” substitute “Northern Ireland”.
+**75.**[^c-cc40cb4a03f2efce1e10a4b10563f1ba] Before regulation 84 in the heading for “the United Kingdom” substitute “Northern Ireland”.
 
 ## Annotations
 
-[^key-cc40cb4a03f2efce1e10a4b10563f1ba]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-cc40cb4a03f2efce1e10a4b10563f1ba]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

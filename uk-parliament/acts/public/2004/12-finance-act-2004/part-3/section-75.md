@@ -30,8 +30,8 @@ summary: ''
 - (b) the giving of directions under section 64(5); and
 - (c) the cancellation under section 66 of a person’s registration for gross payment.
 
-(4)[^key-e638fcdfc07cc3d944a330b0123118c2] In this Chapter “**the Commissioners**” means the Commissioners for His Majesty’s Revenue and Customs.
+(4)[^c-e638fcdfc07cc3d944a330b0123118c2] In this Chapter “**the Commissioners**” means the Commissioners for His Majesty’s Revenue and Customs.
 
 ## Annotations
 
-[^key-e638fcdfc07cc3d944a330b0123118c2]: Textual amendment: [S. 75(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/75/4) inserted (with effect from 6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 220(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/220/6), [222(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/222/1)
+[^c-e638fcdfc07cc3d944a330b0123118c2]: Textual amendment: [S. 75(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/75/4) inserted (with effect from 6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 220(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/220/6), [222(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/222/1)

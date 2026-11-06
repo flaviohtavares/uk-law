@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-415d5cc5642c93742b2f5f9eba4561bf]
+## 2. Interpretation[^c-415d5cc5642c93742b2f5f9eba4561bf]
 
 *Extent: N.I.*
 
@@ -116,7 +116,7 @@ and whose composition, when compared, subject to paragraph (4), with the composi
 
 ## Annotations
 
-[^key-415d5cc5642c93742b2f5f9eba4561bf]: Commencement: Reg. 2 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-415d5cc5642c93742b2f5f9eba4561bf]: Commencement: Reg. 2 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
 
 [^f00008]: Footnote: [S.R. 1995 No. 60](https://www.legislation.gov.uk/nisr/1995/60), amended by [S.R. 1996 No. 376](https://www.legislation.gov.uk/nisr/1996/376), [S.R. 1997 No. 398](https://www.legislation.gov.uk/nisr/1997/398), [S.R. 1998 No. 459](https://www.legislation.gov.uk/nisr/1998/459), [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150), [S.R. 1999 No. 303](https://www.legislation.gov.uk/nisr/1999/303) and [S.R. 2001 No.168](https://www.legislation.gov.uk/nisr/2001/168)
 

@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 1(1), (3), (4) and (7) of the Industrial Development Act 1982[^f00001].
 
-## 1. Citation and commencement[^key-422d52195ff3393477dbb73417a11d2f]
+## 1. Citation and commencement[^c-422d52195ff3393477dbb73417a11d2f]
 
 This Order may be cited as the Assisted Areas Order 2014 and comes into force on 1st July 2014.
 
-## 2. Interpretation[^key-3e2e09a7f710157406515ecbb0c4273e]
+## 2. Interpretation[^c-3e2e09a7f710157406515ecbb0c4273e]
 
 (1) In Schedule 1, any reference to a local authority area in England and Wales shall be a reference to that area as it existed on 31st December 2011.
 
@@ -62,13 +62,13 @@ This Order may be cited as the Assisted Areas Order 2014 and comes into force on
 - (d) any reference to a local authority area in England and Wales shall be a reference to that area as it existed on 31st December 2011;
 - (e) any reference to a ward or an electoral division in England and Wales shall be a reference to that area as it existed on 31st December 2011.
 
-## 3. Specification[^key-6cbd4fd45f39afb34510da00eb8f96f8]
+## 3. Specification[^c-6cbd4fd45f39afb34510da00eb8f96f8]
 
 (1) In this Order the specification of an area as a development area is for the purposes of the Industrial Development Act 1982 and section 1 of the Derelict Land Act 1982[^f00002].
 
 (2) On and after 1st July 2014 the areas described in Schedules 1 and 2 shall be development areas.
 
-## 4. Revocation[^key-238e32454254eeb53bc5df7be40315ed]
+## 4. Revocation[^c-238e32454254eeb53bc5df7be40315ed]
 
 The Assisted Areas Order 2007[^f00003] is revoked.
 
@@ -80,7 +80,7 @@ Department for Business, Innovation and Skills
 
 5th June 2014
 
-## SCHEDULE 1 — DEVELOPMENT AREAS[^key-85f865645c10ca580da4c5787f7bd8b9]
+## SCHEDULE 1 — DEVELOPMENT AREAS[^c-85f865645c10ca580da4c5787f7bd8b9]
 
 Article 3
 
@@ -93,11 +93,11 @@ The local authority areas of—
 |  |
 | --- |
 | Cornwall |
-| County Durham[^key-3f6285f11529650893cf8b7a2ee21987] |
+| County Durham[^c-3f6285f11529650893cf8b7a2ee21987] |
 | Darlington |
 | Hartlepool |
 | Isles of Scilly |
-| Middlesbrough[^key-992097987940b8104957aee1d14b5637] |
+| Middlesbrough[^c-992097987940b8104957aee1d14b5637] |
 | Redcar and Cleveland |
 | Stockton-On-Tees |
 
@@ -123,7 +123,7 @@ The local authority areas of—
 | Swansea |
 | Torfaen |
 
-## SCHEDULE 2 — DEVELOPMENT AREAS[^key-b439e5c151424960c0b047141375b7f7]
+## SCHEDULE 2 — DEVELOPMENT AREAS[^c-b439e5c151424960c0b047141375b7f7]
 
 Article 3
 
@@ -237,7 +237,7 @@ The islands of—
 
 ##### North East
 
-[^key-6fb10d5a771318dc408e9d80255e06fd]...
+[^c-6fb10d5a771318dc408e9d80255e06fd]...
 
 The following wards in the local authority area of Gateshead—
 
@@ -262,7 +262,7 @@ The following wards in the local authority area of Gateshead—
 | Whickham North |
 | Windy Nook and Whitehills |
 
-[^key-a76a9323873d11329f18a52942021ba0]...
+[^c-a76a9323873d11329f18a52942021ba0]...
 
 The following wards in the local authority area of Newcastle upon Tyne—
 
@@ -334,7 +334,7 @@ The following wards in the local authority area of North Tyneside—
 | Wallsend |
 | Weetslade |
 
-[^key-88abc249b5a988158b560165f600530a]...
+[^c-88abc249b5a988158b560165f600530a]...
 
 The following wards in the local authority area of South Tyneside—
 
@@ -350,7 +350,7 @@ The following wards in the local authority area of South Tyneside—
 | Primrose |
 | Simonside and Rekendyke |
 
-[^key-0245b1bddd69f63cc45838eddabbed57]...
+[^c-0245b1bddd69f63cc45838eddabbed57]...
 
 The following wards in the local authority area of Sunderland—
 
@@ -2665,30 +2665,30 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [1982 c.52](https://www.legislation.gov.uk/ukpga/1982/52); section 1(4) was amended by section 4 of the Co-operative Development Agency and Industrial Development Act [1984 (c.57)](https://www.legislation.gov.uk/ukpga/1984/57) and section 1(1) of, and Schedule 1 to, the Statute Law (Repeals) Act [2004 (c.14)](https://www.legislation.gov.uk/ukpga/2004/14); section 1(7) was amended by section 1(1) of, and Schedule 1 to, the Statute Law (Repeals) Act 2004.
 
-[^key-422d52195ff3393477dbb73417a11d2f]: Commencement: Art. 1 in force at 1.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1508/article/1)
+[^c-422d52195ff3393477dbb73417a11d2f]: Commencement: Art. 1 in force at 1.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1508/article/1)
 
-[^key-3e2e09a7f710157406515ecbb0c4273e]: Commencement: Art. 2 in force at 1.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1508/article/1)
+[^c-3e2e09a7f710157406515ecbb0c4273e]: Commencement: Art. 2 in force at 1.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1508/article/1)
 
-[^key-6cbd4fd45f39afb34510da00eb8f96f8]: Commencement: Art. 3 in force at 1.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1508/article/1)
+[^c-6cbd4fd45f39afb34510da00eb8f96f8]: Commencement: Art. 3 in force at 1.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1508/article/1)
 
 [^f00002]: Footnote: [1982 c.42](https://www.legislation.gov.uk/ukpga/1982/42).
 
-[^key-238e32454254eeb53bc5df7be40315ed]: Commencement: Art. 4 in force at 1.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1508/article/1)
+[^c-238e32454254eeb53bc5df7be40315ed]: Commencement: Art. 4 in force at 1.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1508/article/1)
 
 [^f00003]: Footnote: [S.I. 2007/107](https://www.legislation.gov.uk/uksi/2007/107).
 
-[^key-85f865645c10ca580da4c5787f7bd8b9]: Commencement: Sch. 1 in force at 1.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1508/article/1)
+[^c-85f865645c10ca580da4c5787f7bd8b9]: Commencement: Sch. 1 in force at 1.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1508/article/1)
 
-[^key-3f6285f11529650893cf8b7a2ee21987]: Textual amendment: Words in Sch. 1 inserted (16.3.2017) by [The Assisted Areas (Amendment) Order 2017 (S.I. 2017/173)](https://www.legislation.gov.uk/uksi/2017/173), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/173/article/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2017/173/article/2/1/a)
+[^c-3f6285f11529650893cf8b7a2ee21987]: Textual amendment: Words in Sch. 1 inserted (16.3.2017) by [The Assisted Areas (Amendment) Order 2017 (S.I. 2017/173)](https://www.legislation.gov.uk/uksi/2017/173), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/173/article/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2017/173/article/2/1/a)
 
-[^key-992097987940b8104957aee1d14b5637]: Textual amendment: Words in Sch. 1 inserted (16.3.2017) by [The Assisted Areas (Amendment) Order 2017 (S.I. 2017/173)](https://www.legislation.gov.uk/uksi/2017/173), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/173/article/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2017/173/article/2/1/b)
+[^c-992097987940b8104957aee1d14b5637]: Textual amendment: Words in Sch. 1 inserted (16.3.2017) by [The Assisted Areas (Amendment) Order 2017 (S.I. 2017/173)](https://www.legislation.gov.uk/uksi/2017/173), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/173/article/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2017/173/article/2/1/b)
 
-[^key-b439e5c151424960c0b047141375b7f7]: Commencement: Sch. 2 in force at 1.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1508/article/1)
+[^c-b439e5c151424960c0b047141375b7f7]: Commencement: Sch. 2 in force at 1.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1508/article/1)
 
-[^key-6fb10d5a771318dc408e9d80255e06fd]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (16.3.2017) by virtue of [The Assisted Areas (Amendment) Order 2017 (S.I. 2017/173)](https://www.legislation.gov.uk/uksi/2017/173), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/173/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/173/article/2/2/a)
+[^c-6fb10d5a771318dc408e9d80255e06fd]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (16.3.2017) by virtue of [The Assisted Areas (Amendment) Order 2017 (S.I. 2017/173)](https://www.legislation.gov.uk/uksi/2017/173), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/173/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/173/article/2/2/a)
 
-[^key-a76a9323873d11329f18a52942021ba0]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (16.3.2017) by virtue of [The Assisted Areas (Amendment) Order 2017 (S.I. 2017/173)](https://www.legislation.gov.uk/uksi/2017/173), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/173/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/173/article/2/2/b)
+[^c-a76a9323873d11329f18a52942021ba0]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (16.3.2017) by virtue of [The Assisted Areas (Amendment) Order 2017 (S.I. 2017/173)](https://www.legislation.gov.uk/uksi/2017/173), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/173/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/173/article/2/2/b)
 
-[^key-88abc249b5a988158b560165f600530a]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (16.3.2017) by virtue of [The Assisted Areas (Amendment) Order 2017 (S.I. 2017/173)](https://www.legislation.gov.uk/uksi/2017/173), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/173/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2017/173/article/2/2/c)
+[^c-88abc249b5a988158b560165f600530a]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (16.3.2017) by virtue of [The Assisted Areas (Amendment) Order 2017 (S.I. 2017/173)](https://www.legislation.gov.uk/uksi/2017/173), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/173/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2017/173/article/2/2/c)
 
-[^key-0245b1bddd69f63cc45838eddabbed57]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (16.3.2017) by virtue of [The Assisted Areas (Amendment) Order 2017 (S.I. 2017/173)](https://www.legislation.gov.uk/uksi/2017/173), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/173/article/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2017/173/article/2/2/d)
+[^c-0245b1bddd69f63cc45838eddabbed57]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (16.3.2017) by virtue of [The Assisted Areas (Amendment) Order 2017 (S.I. 2017/173)](https://www.legislation.gov.uk/uksi/2017/173), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/173/article/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2017/173/article/2/2/d)

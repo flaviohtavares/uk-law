@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Communication with the ONR[^key-0b07175be39d0dfcb1ac6ba02d7f5dde]
+## 35. Communication with the ONR[^c-0b07175be39d0dfcb1ac6ba02d7f5dde]
 
 *Extent: E+W+S+N.I.*
 
-Any questionnaire, form or other communication which an operator is required by these Regulations to send to the ONR, must be in writing, signed, dated[^key-0ec405f9d89219da4b9639fbfa8aca3e] and sent—
+Any questionnaire, form or other communication which an operator is required by these Regulations to send to the ONR, must be in writing, signed, dated[^c-0ec405f9d89219da4b9639fbfa8aca3e] and sent—
 
-- (a)[^key-b5ceee366cee896c24990806fbcc7f78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b5ceee366cee896c24990806fbcc7f78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) by means of an electronic communications network to the address given on the ONR's website as its address for electronic communications; or
 - (c) as otherwise agreed in writing between the operator and the ONR.
 
 ## Annotations
 
-[^key-0b07175be39d0dfcb1ac6ba02d7f5dde]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-0b07175be39d0dfcb1ac6ba02d7f5dde]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-0ec405f9d89219da4b9639fbfa8aca3e]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/uksi/2019/196/regulation/35) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [25(a)](https://www.legislation.gov.uk/uksi/2026/835/regulation/25/a)
+[^c-0ec405f9d89219da4b9639fbfa8aca3e]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/uksi/2019/196/regulation/35) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [25(a)](https://www.legislation.gov.uk/uksi/2026/835/regulation/25/a)
 
-[^key-b5ceee366cee896c24990806fbcc7f78]: Textual amendment: [Reg. 35(a)](https://www.legislation.gov.uk/uksi/2019/196/regulation/35/a) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2026/835/regulation/25/b)
+[^c-b5ceee366cee896c24990806fbcc7f78]: Textual amendment: [Reg. 35(a)](https://www.legislation.gov.uk/uksi/2019/196/regulation/35/a) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2026/835/regulation/25/b)

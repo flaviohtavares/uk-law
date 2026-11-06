@@ -31,7 +31,7 @@ summary: ''
 
 INTERNATIONAL IMMUNITIES AND PRIVILEGES
 
-The European Communities (Privileges of the European School) Order 2001 (revoked)[^key-111ede49d32b416aa1b82e2f750cf407]
+The European Communities (Privileges of the European School) Order 2001 (revoked)[^c-111ede49d32b416aa1b82e2f750cf407]
 
 Made
 
@@ -47,20 +47,20 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-111ede49d32b416aa1b82e2f750cf407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-111ede49d32b416aa1b82e2f750cf407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-111ede49d32b416aa1b82e2f750cf407] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-111ede49d32b416aa1b82e2f750cf407] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-111ede49d32b416aa1b82e2f750cf407] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-111ede49d32b416aa1b82e2f750cf407] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-111ede49d32b416aa1b82e2f750cf407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-111ede49d32b416aa1b82e2f750cf407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-111ede49d32b416aa1b82e2f750cf407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-111ede49d32b416aa1b82e2f750cf407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-111ede49d32b416aa1b82e2f750cf407]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/3674) revoked (1.9.2021) by [The European Union (European Schools) Regulations 2021 (S.I. 2021/560)](https://www.legislation.gov.uk/uksi/2021/560), [regs. 1](https://www.legislation.gov.uk/uksi/2021/560/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/560/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/560/schedule)
+[^c-111ede49d32b416aa1b82e2f750cf407]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/3674) revoked (1.9.2021) by [The European Union (European Schools) Regulations 2021 (S.I. 2021/560)](https://www.legislation.gov.uk/uksi/2021/560), [regs. 1](https://www.legislation.gov.uk/uksi/2021/560/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/560/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/560/schedule)

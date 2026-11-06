@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Direct collection: employee to report payments[^key-90cbb67daf51aa19acd596e0481eefc8]
+## 142. Direct collection: employee to report payments[^c-90cbb67daf51aa19acd596e0481eefc8]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ they may make a direction specifying that E is not required to make a return usi
 
 ## Annotations
 
-[^key-90cbb67daf51aa19acd596e0481eefc8]: Textual amendment: [Reg. 142](https://www.legislation.gov.uk/uksi/2003/2682/regulation/142) substituted (6.4.2014) by [The Income Tax (Pay As You Earn) and the Income Tax (Construction Industry Scheme) (Amendment) Regulations 2014 (S.I. 2014/472)](https://www.legislation.gov.uk/uksi/2014/472), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/472/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2014/472/regulation/11)
+[^c-90cbb67daf51aa19acd596e0481eefc8]: Textual amendment: [Reg. 142](https://www.legislation.gov.uk/uksi/2003/2682/regulation/142) substituted (6.4.2014) by [The Income Tax (Pay As You Earn) and the Income Tax (Construction Industry Scheme) (Amendment) Regulations 2014 (S.I. 2014/472)](https://www.legislation.gov.uk/uksi/2014/472), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/472/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2014/472/regulation/11)

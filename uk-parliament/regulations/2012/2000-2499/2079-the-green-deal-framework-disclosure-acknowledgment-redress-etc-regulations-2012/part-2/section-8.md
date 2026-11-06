@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Authorisation of green deal certification bodies and green deal participants[^key-26add5c1c9c21f2fe5a4d7a6a56d1f87]
+## 8. Authorisation of green deal certification bodies and green deal participants[^c-26add5c1c9c21f2fe5a4d7a6a56d1f87]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26add5c1c9c21f2fe5a4d7a6a56d1f87]: Commencement: Reg. 8 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-26add5c1c9c21f2fe5a4d7a6a56d1f87]: Commencement: Reg. 8 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

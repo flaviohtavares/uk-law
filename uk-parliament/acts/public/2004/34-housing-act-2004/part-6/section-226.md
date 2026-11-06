@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226. Guidance in relation to section 225[^key-9fd233325c03fceaa57b7c8c90581a0f]
+## 226. Guidance in relation to section 225[^c-9fd233325c03fceaa57b7c8c90581a0f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fd233325c03fceaa57b7c8c90581a0f]: Textual amendment: S. 226 omitted (12.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 124(2)](https://www.legislation.gov.uk/ukpga/2016/22/section/124/2), [216(2)(a)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/2/a)
+[^c-9fd233325c03fceaa57b7c8c90581a0f]: Textual amendment: S. 226 omitted (12.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 124(2)](https://www.legislation.gov.uk/ukpga/2016/22/section/124/2), [216(2)(a)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/2/a)

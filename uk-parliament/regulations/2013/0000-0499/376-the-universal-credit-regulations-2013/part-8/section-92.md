@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 92. Claimants subject to all work-related requirements - EEA jobseekers[^key-2e38652938db45d3ab2ca0adc069e506]
+## 92. Claimants subject to all work-related requirements - EEA jobseekers[^c-2e38652938db45d3ab2ca0adc069e506]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e38652938db45d3ab2ca0adc069e506]: Textual amendment: [Reg. 92](https://www.legislation.gov.uk/uksi/2013/376/regulation/92) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Universal Credit (EEA Jobseekers) Amendment Regulations 2015 (S.I. 2015/546)](https://www.legislation.gov.uk/uksi/2015/546), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/546/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/546/regulation/3)
+[^c-2e38652938db45d3ab2ca0adc069e506]: Textual amendment: [Reg. 92](https://www.legislation.gov.uk/uksi/2013/376/regulation/92) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Universal Credit (EEA Jobseekers) Amendment Regulations 2015 (S.I. 2015/546)](https://www.legislation.gov.uk/uksi/2015/546), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/546/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/546/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Review of barring decisions[^key-12f1c693193455d6f2a853abbee71018]
+## 71. Review of barring decisions[^c-12f1c693193455d6f2a853abbee71018]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ After paragraph 18 of Schedule 3 to the Safeguarding Vulnerable Groups Act 2006 
 
 ## Annotations
 
-[^key-12f1c693193455d6f2a853abbee71018]: Commencement: S. 71 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/h)
+[^c-12f1c693193455d6f2a853abbee71018]: Commencement: S. 71 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/h)

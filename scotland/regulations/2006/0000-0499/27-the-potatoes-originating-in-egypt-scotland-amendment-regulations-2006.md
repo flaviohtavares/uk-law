@@ -32,7 +32,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Potatoes Originating in Egypt (Scotland) Amendment Regulations 2006 (revoked)[^key-e437902343c983ca03d4abac545234b0]
+The Potatoes Originating in Egypt (Scotland) Amendment Regulations 2006 (revoked)[^c-e437902343c983ca03d4abac545234b0]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 28th February 2006
 
-[^key-e437902343c983ca03d4abac545234b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e437902343c983ca03d4abac545234b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e437902343c983ca03d4abac545234b0]
+## 1. Citation and commencement[^c-e437902343c983ca03d4abac545234b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Potatoes Originating in Egypt (Scotland) Regulations 2004[^key-e437902343c983ca03d4abac545234b0]
+## 2. Amendment of the Potatoes Originating in Egypt (Scotland) Regulations 2004[^c-e437902343c983ca03d4abac545234b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e437902343c983ca03d4abac545234b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e437902343c983ca03d4abac545234b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e437902343c983ca03d4abac545234b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e437902343c983ca03d4abac545234b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e437902343c983ca03d4abac545234b0]: Textual amendment: Regulations revoked (17.3.2007) by [The Potatoes Originating in Egypt (Scotland) Amendment Regulations 2007 (S.S.I. 2007/94)](https://www.legislation.gov.uk/ssi/2007/94), [regs. 1](https://www.legislation.gov.uk/ssi/2007/94/regulation/1), [3](https://www.legislation.gov.uk/ssi/2007/94/regulation/3)
+[^c-e437902343c983ca03d4abac545234b0]: Textual amendment: Regulations revoked (17.3.2007) by [The Potatoes Originating in Egypt (Scotland) Amendment Regulations 2007 (S.S.I. 2007/94)](https://www.legislation.gov.uk/ssi/2007/94), [regs. 1](https://www.legislation.gov.uk/ssi/2007/94/regulation/1), [3](https://www.legislation.gov.uk/ssi/2007/94/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17.[^key-12532eeddf8a92fdb4adfe3683f1ecc9]
+## 17.[^c-12532eeddf8a92fdb4adfe3683f1ecc9]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ For Article 11, substitute—
 >
 > In assessing the safety of novel foods, the Food Safety Authority must, where appropriate, consider whether—
 >
-> - (a) the novel food concerned is as safe as food from a comparable food category already placed on the market within Great Britain *(Extent: E+W+S)*[^key-df43d42c04025d34ceea6290bc7e0763];
+> - (a) the novel food concerned is as safe as food from a comparable food category already placed on the market within Great Britain *(Extent: E+W+S)*[^c-df43d42c04025d34ceea6290bc7e0763];
 > - (b) the composition of the novel food and the conditions of its use do not pose a safety risk to human health in Great Britain *(Extent: E+W+S)*;
 > - (c) a novel food, which is intended to replace another food, does not differ from that food in such a way that its normal consumption would be nutritionally disadvantageous for the consumer.
 >
@@ -60,6 +60,6 @@ For Article 11, substitute—
 
 ## Annotations
 
-[^key-12532eeddf8a92fdb4adfe3683f1ecc9]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-12532eeddf8a92fdb4adfe3683f1ecc9]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-df43d42c04025d34ceea6290bc7e0763]: Textual amendment: Words in reg. 17 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/15/5)
+[^c-df43d42c04025d34ceea6290bc7e0763]: Textual amendment: Words in reg. 17 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/15/5)

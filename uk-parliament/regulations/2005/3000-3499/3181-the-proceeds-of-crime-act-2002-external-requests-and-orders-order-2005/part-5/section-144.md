@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Proceedings for recovery orders in Scotland[^key-23094f0017187074127336d3773f832f]
+## 144. Proceedings for recovery orders in Scotland[^c-23094f0017187074127336d3773f832f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ wherever domiciled, resident or present.
 
 ## Annotations
 
-[^key-23094f0017187074127336d3773f832f]: Commencement: [Art. 144](https://www.legislation.gov.uk/uksi/2005/3181/article/144) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-23094f0017187074127336d3773f832f]: Commencement: [Art. 144](https://www.legislation.gov.uk/uksi/2005/3181/article/144) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

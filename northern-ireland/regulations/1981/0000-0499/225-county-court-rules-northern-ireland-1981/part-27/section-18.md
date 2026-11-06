@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Costs[^key-9950307e91854ea535a46507a871f3f9]
+## 18. Costs[^c-9950307e91854ea535a46507a871f3f9]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9950307e91854ea535a46507a871f3f9]: Textual amendment: Order 27 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(5)](https://www.legislation.gov.uk/nisr/2019/234/rule/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9950307e91854ea535a46507a871f3f9]: Textual amendment: Order 27 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(5)](https://www.legislation.gov.uk/nisr/2019/234/rule/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

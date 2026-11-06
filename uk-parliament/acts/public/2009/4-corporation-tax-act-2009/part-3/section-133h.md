@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133H. Investment bank[^key-c98210a82b63e9fb0bbc42a0013b43b0]
+## 133H. Investment bank[^c-c98210a82b63e9fb0bbc42a0013b43b0]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section gives the meaning of “**investment bank**” for the purposes of section 133E; and in this section “**the relevant entity**” has the same meaning as in subsections (2) to (6) of that section.
 
-(1A)[^key-84ba3d0c9ad31417af97c7ee0ef97f43] At any time on or after 1 January 2022, the relevant entity is an investment bank if—
+(1A)[^c-84ba3d0c9ad31417af97c7ee0ef97f43] At any time on or after 1 January 2022, the relevant entity is an investment bank if—
 
 - (a) it is an FCA investment firm that meets the conditions in subsection (1B), or
 - (b) it is designated by the Prudential Regulation Authority under Article 3 of the Financial Services and Markets Act 2000 (PRA-regulated Activities) Order 2013 ([S.I. 2013/556](https://www.legislation.gov.uk/uksi/2013/556)) (dealing in investments as principal: designation by PRA).
@@ -70,7 +70,7 @@ summary: ''
 
 “permanent minimum capital requirement”.
 
-(2) At any time on or after 1 January 2014 but before 1 January 2022[^key-fb5cca87b7a38e32836e826e140fbec7], the relevant entity is an investment bank if—
+(2) At any time on or after 1 January 2014 but before 1 January 2022[^c-fb5cca87b7a38e32836e826e140fbec7], the relevant entity is an investment bank if—
 
 - (a) it is both an IFPRU 730k firm and a full scope IFPRU investment firm, or
 - (b) it is designated by the Prudential Regulation Authority under article 3 of the Financial Services and Markets Act 2000 (PRA-regulated Activities) Order 2013 (S.I. 2013/556) (dealing in investments as principal: designation by PRA).
@@ -87,22 +87,22 @@ summary: ''
   - (b) in relation to any time on or after 1 January 2007 but before 1 April 2013, have the meaning given by the Handbook of the Financial Services Authority at that time;
   - (c) in relation to any time before 1 January 2007, have the meaning given by the Handbook of the Financial Services Authority as in force on 1 January 2007.
 
-(6) If the relevant entity would at any time be an investment bank under subsection (1A)(a),[^key-e6c135c8d955876df113535029db3350] (2)(a), (3) or (4) by virtue of activities carried on in the United Kingdom but for the fact that its registered office (or, if it does not have a registered office, its head office) is not in the United Kingdom, the relevant entity is to be treated for the purposes of section 133E as being an investment bank.
+(6) If the relevant entity would at any time be an investment bank under subsection (1A)(a),[^c-e6c135c8d955876df113535029db3350] (2)(a), (3) or (4) by virtue of activities carried on in the United Kingdom but for the fact that its registered office (or, if it does not have a registered office, its head office) is not in the United Kingdom, the relevant entity is to be treated for the purposes of section 133E as being an investment bank.
 
 (7) In this section—
 
 - “**the FCA Handbook**” means the Handbook made by the Financial Conduct Authority under FISMA 2000;
-- “[^key-36a8d7bd4a668605aaa7e935e3ce7772]**FCA investment firm**” has the meaning given by section 143A of FISMA 2000;
+- “[^c-36a8d7bd4a668605aaa7e935e3ce7772]**FCA investment firm**” has the meaning given by section 143A of FISMA 2000;
 - “**the PRA Handbook**” means the Handbook made by the Prudential Regulation Authority under FISMA 2000.
 
 ## Annotations
 
-[^key-c98210a82b63e9fb0bbc42a0013b43b0]: Textual amendment: Ss. 133A-133N and cross-heading inserted (with effect in accordance with s. 18(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/18/1)
+[^c-c98210a82b63e9fb0bbc42a0013b43b0]: Textual amendment: Ss. 133A-133N and cross-heading inserted (with effect in accordance with s. 18(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/18/1)
 
-[^key-84ba3d0c9ad31417af97c7ee0ef97f43]: Textual amendment: [S. 133H(1A)-(1E)](https://www.legislation.gov.uk/ukpga/2009/4/section/133H/1A) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/5/2)
+[^c-84ba3d0c9ad31417af97c7ee0ef97f43]: Textual amendment: [S. 133H(1A)-(1E)](https://www.legislation.gov.uk/ukpga/2009/4/section/133H/1A) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/5/2)
 
-[^key-fb5cca87b7a38e32836e826e140fbec7]: Textual amendment: Words in [s. 133H(2)](https://www.legislation.gov.uk/ukpga/2009/4/section/133H/2) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/5/3)
+[^c-fb5cca87b7a38e32836e826e140fbec7]: Textual amendment: Words in [s. 133H(2)](https://www.legislation.gov.uk/ukpga/2009/4/section/133H/2) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/5/3)
 
-[^key-e6c135c8d955876df113535029db3350]: Textual amendment: Word in [s. 133H(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/133H/6) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2022/286/regulation/5/4)
+[^c-e6c135c8d955876df113535029db3350]: Textual amendment: Word in [s. 133H(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/133H/6) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2022/286/regulation/5/4)
 
-[^key-36a8d7bd4a668605aaa7e935e3ce7772]: Textual amendment: Words in [s. 133H(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/133H/7) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2022/286/regulation/5/5)
+[^c-36a8d7bd4a668605aaa7e935e3ce7772]: Textual amendment: Words in [s. 133H(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/133H/7) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2022/286/regulation/5/5)

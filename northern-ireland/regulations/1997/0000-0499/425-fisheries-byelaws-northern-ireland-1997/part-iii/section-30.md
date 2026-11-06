@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**30.**[^key-310ab5e0d566cc55b03163f2ae2399ac] When a fishing licence has been revoked under these Byelaws the licence-holder shall within 14 days of receiving a request from the Board to do so, return the licence together with any copies thereof, to the Board.
+**30.**[^c-310ab5e0d566cc55b03163f2ae2399ac] When a fishing licence has been revoked under these Byelaws the licence-holder shall within 14 days of receiving a request from the Board to do so, return the licence together with any copies thereof, to the Board.
 
 ## Annotations
 
-[^key-310ab5e0d566cc55b03163f2ae2399ac]: Commencement: S. 30 in operation at 1.11.1997, see byelaw 1
+[^c-310ab5e0d566cc55b03163f2ae2399ac]: Commencement: S. 30 in operation at 1.11.1997, see byelaw 1

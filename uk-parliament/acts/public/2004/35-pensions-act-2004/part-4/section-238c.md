@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238C. Sections 238A and 238B: interpretation[^key-8b3ba6d49bf228266aaa24fa0c80594c]
+## 238C. Sections 238A and 238B: interpretation[^c-8b3ba6d49bf228266aaa24fa0c80594c]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
   - (b) the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
 - “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
 - “**electronic communications service**” has the meaning given by section 32 of the Communications Act 2003;
-- “[^key-a60ec46ba9b05888e096d0283683c762]**financial assistance scheme**” means the scheme provided for by regulations under section 286 (financial assistance scheme for members of certain pension schemes);
+- “[^c-a60ec46ba9b05888e096d0283683c762]**financial assistance scheme**” means the scheme provided for by regulations under section 286 (financial assistance scheme for members of certain pension schemes);
 - “**personal data**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
 - “**state pension**” means any state pension under—
   - (a) Part 1 of the Pensions Act 2014, or
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b3ba6d49bf228266aaa24fa0c80594c]: Textual amendment: Ss. 238A-238C and cross-heading inserted (11.2.2021 for specified purposes, 14.10.2022 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 118(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/118/2), [131(1)(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1/3/a); [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/a)
+[^c-8b3ba6d49bf228266aaa24fa0c80594c]: Textual amendment: Ss. 238A-238C and cross-heading inserted (11.2.2021 for specified purposes, 14.10.2022 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 118(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/118/2), [131(1)(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1/3/a); [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/a)
 
-[^key-a60ec46ba9b05888e096d0283683c762]: Textual amendment: Words in s. 238C(4) inserted (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 124(5)](https://www.legislation.gov.uk/ukpga/2026/22/section/124/5), [133(11)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/c)
+[^c-a60ec46ba9b05888e096d0283683c762]: Textual amendment: Words in s. 238C(4) inserted (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 124(5)](https://www.legislation.gov.uk/ukpga/2026/22/section/124/5), [133(11)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/c)

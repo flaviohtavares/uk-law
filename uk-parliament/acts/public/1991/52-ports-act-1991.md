@@ -37,7 +37,7 @@ An Act to provide for the transfer to companies of certain statutory port undert
 
 [^c1033578]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## Part I — Transfer of Statutory Port Undertakings[^c1033579][^key-241b550d4122e86136fc8823d45837da]
+## Part I — Transfer of Statutory Port Undertakings[^c1033579][^c-241b550d4122e86136fc8823d45837da]
 
 *Extent: E+W+S*
 
@@ -47,7 +47,7 @@ An Act to provide for the transfer to companies of certain statutory port undert
 
 (1) Any relevant port authority shall have power to form a company whose objects include the acquisition of property, rights and liabilities and the assumption of functions of the authority by virtue of a transfer under section 2 below.
 
-(2) Any company formed under subsection (1) above shall be a company limited by shares and registered under the Companies Act 2006[^key-15f2a83f919c4b3bbad530460acc693b].
+(2) Any company formed under subsection (1) above shall be a company limited by shares and registered under the Companies Act 2006[^c-15f2a83f919c4b3bbad530460acc693b].
 
 (3) In this Part “**relevant port authority**” means any body which is a harbour authority, other than one within subsection (4) below.
 
@@ -56,7 +56,7 @@ An Act to provide for the transfer to companies of certain statutory port undert
 - (a) any company having a share capital;
 - (b) a local authority;
 - (c) the British Waterways Board;
-- (ca)[^key-8cf8f58b228595f6592d5e7a0953256d] Canal & River Trust;
+- (ca)[^c-8cf8f58b228595f6592d5e7a0953256d] Canal & River Trust;
 - (d) Associated British Ports; and
 - (e) the Port of London Authority.
 
@@ -111,7 +111,7 @@ are transferred to and by virtue of this section become property, rights and lia
 (4) Shares issued in pursuance of this section—
 
 - (a) shall be of such nominal value as the authority may direct; and
-- (b) shall be issued as fully paid and treated for the purposes of the Companies Act 2006[^key-b8f16feb571fdbf9ba8b96ba654c87a5] as if they had been paid up by virtue of the payment to the successor company of their nominal value in cash.
+- (b) shall be issued as fully paid and treated for the purposes of the Companies Act 2006[^c-b8f16feb571fdbf9ba8b96ba654c87a5] as if they had been paid up by virtue of the payment to the successor company of their nominal value in cash.
 
 #### 4. Disposal by the authority of their holding in the successor company.
 
@@ -190,11 +190,11 @@ as the case may require.
 
 ### Procedure for schemes
 
-#### 9. Schemes made by a relevant port authority.[^key-241b550d4122e86136fc8823d45837da]
+#### 9. Schemes made by a relevant port authority.[^c-241b550d4122e86136fc8823d45837da]
 
 (1) Any relevant port authority may, with a view to securing the transfer under section 2 above of the property, rights, liabilities and functions of the authority to a company formed in pursuance of section 1 above, submit to the appropriate Minister a scheme prepared by the authority for the purposes of the proposed transfer.
 
-(2) Together with any such scheme the authority submitting it shall submit to the appropriate Minister a copy of the articles[^key-3f8f13d527ea75c5fb594bcc5e7f18cb] of the company.
+(2) Together with any such scheme the authority submitting it shall submit to the appropriate Minister a copy of the articles[^c-3f8f13d527ea75c5fb594bcc5e7f18cb] of the company.
 
 The documents submitted under this subsection with any such scheme are referred to below in this section, in relation to the scheme, as the associated company documents.
 
@@ -223,109 +223,109 @@ The documents submitted under this subsection with any such scheme are referred 
 (6) The Minister shall decide whether or not to confirm the scheme after considering any such representations duly made to him before the end of that period and not withdrawn; and if he decides to confirm the scheme—
 
 - (a) he may do so either without modifications or with such modifications as he thinks fit after consulting the authority who submitted the scheme; and
-- (b) he may first (if he thinks fit) give the authority a direction requiring them, before such date as may be specified in the direction, to secure that such alterations are made to the articles[^key-f3d7b24a7a83763b7d18b32184f969d9] of the company mentioned in subsection (1) above as may be specified in the direction.
+- (b) he may first (if he thinks fit) give the authority a direction requiring them, before such date as may be specified in the direction, to secure that such alterations are made to the articles[^c-f3d7b24a7a83763b7d18b32184f969d9] of the company mentioned in subsection (1) above as may be specified in the direction.
 
 (7)[^c1033585] Confirmation of a scheme shall be given by an order made by the Minister; and a scheme so confirmed takes effect on the date on which the order confirming it comes into force or on such date as may be specified in that order.
 
-#### 10. Schemes initiated by the Secretary of State.[^key-241b550d4122e86136fc8823d45837da]
+#### 10. Schemes initiated by the Secretary of State.[^c-241b550d4122e86136fc8823d45837da]
 
-(1 (Extent: S) (affected by repeal, see note))[^key-ee56f41fcac80f79243267398c6a78ee] The powers of the Secretary of State under this section are not exercisable until after the end of the period of two years beginning with the date on which this Act is passed. *(Extent: S)* *(affected by repeal, see note)*[^key-ee56f41fcac80f79243267398c6a78ee]
+(1 (Extent: S) (affected by repeal, see note))[^c-ee56f41fcac80f79243267398c6a78ee] The powers of the Secretary of State under this section are not exercisable until after the end of the period of two years beginning with the date on which this Act is passed. *(Extent: S)* *(affected by repeal, see note)*[^c-ee56f41fcac80f79243267398c6a78ee]
 
-(2 (Extent: S) (affected by repeal, see note))[^key-ee56f41fcac80f79243267398c6a78ee] The Secretary of State may give to a relevant port authority who have not formed a company in pursuance of section 1 above and who meet the annual turnover requirement a direction requiring them to form such a company before such date as may be specified in the direction. *(Extent: S)* *(affected by repeal, see note)*[^key-ee56f41fcac80f79243267398c6a78ee]
+(2 (Extent: S) (affected by repeal, see note))[^c-ee56f41fcac80f79243267398c6a78ee] The Secretary of State may give to a relevant port authority who have not formed a company in pursuance of section 1 above and who meet the annual turnover requirement a direction requiring them to form such a company before such date as may be specified in the direction. *(Extent: S)* *(affected by repeal, see note)*[^c-ee56f41fcac80f79243267398c6a78ee]
 
-(3 (Extent: S) (affected by repeal, see note))[^key-ee56f41fcac80f79243267398c6a78ee] Where a relevant port authority who meet the annual turnover requirement— *(Extent: S)* *(affected by repeal, see note)*[^key-ee56f41fcac80f79243267398c6a78ee]
+(3 (Extent: S) (affected by repeal, see note))[^c-ee56f41fcac80f79243267398c6a78ee] Where a relevant port authority who meet the annual turnover requirement— *(Extent: S)* *(affected by repeal, see note)*[^c-ee56f41fcac80f79243267398c6a78ee]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-ee56f41fcac80f79243267398c6a78ee] have formed such a company; or *(Extent: S)* *(affected by repeal, see note)*[^key-ee56f41fcac80f79243267398c6a78ee]
-- (b (Extent: S) (affected by repeal, see note))[^key-ee56f41fcac80f79243267398c6a78ee] are given a direction under subsection (2) above requiring them to do so before a date specified in the direction; *(Extent: S)* *(affected by repeal, see note)*[^key-ee56f41fcac80f79243267398c6a78ee]
+- (a (Extent: S) (affected by repeal, see note))[^c-ee56f41fcac80f79243267398c6a78ee] have formed such a company; or *(Extent: S)* *(affected by repeal, see note)*[^c-ee56f41fcac80f79243267398c6a78ee]
+- (b (Extent: S) (affected by repeal, see note))[^c-ee56f41fcac80f79243267398c6a78ee] are given a direction under subsection (2) above requiring them to do so before a date specified in the direction; *(Extent: S)* *(affected by repeal, see note)*[^c-ee56f41fcac80f79243267398c6a78ee]
 
-the Secretary of State may give to the authority a direction requiring them (in a case within paragraph (b) above, after first forming the company) to submit to him, before such date as may be specified in the direction, a scheme prepared by the authority for the purposes of a transfer to the company under section 2 above of the authority’s property, rights, liabilities and functions. *(Extent: S)* *(affected by repeal, see note)*[^key-ee56f41fcac80f79243267398c6a78ee]
+the Secretary of State may give to the authority a direction requiring them (in a case within paragraph (b) above, after first forming the company) to submit to him, before such date as may be specified in the direction, a scheme prepared by the authority for the purposes of a transfer to the company under section 2 above of the authority’s property, rights, liabilities and functions. *(Extent: S)* *(affected by repeal, see note)*[^c-ee56f41fcac80f79243267398c6a78ee]
 
-(4 (Extent: S) (affected by repeal, see note))[^key-ee56f41fcac80f79243267398c6a78ee] In preparing that scheme the authority shall take into account any advice given by the Secretary of State as to the provisions he regards as appropriate for inclusion in the scheme. *(Extent: S)* *(affected by repeal, see note)*[^key-ee56f41fcac80f79243267398c6a78ee]
+(4 (Extent: S) (affected by repeal, see note))[^c-ee56f41fcac80f79243267398c6a78ee] In preparing that scheme the authority shall take into account any advice given by the Secretary of State as to the provisions he regards as appropriate for inclusion in the scheme. *(Extent: S)* *(affected by repeal, see note)*[^c-ee56f41fcac80f79243267398c6a78ee]
 
-(5 (Extent: S) (affected by repeal, see note))[^key-ee56f41fcac80f79243267398c6a78ee] The provisions of section 9 above (other than subsection (1)) shall apply in relation to a scheme submitted under this section as they apply in relation to a scheme submitted under that section (but reading references to the appropriate Minister as references to the Secretary of State). *(Extent: S)* *(affected by repeal, see note)*[^key-ee56f41fcac80f79243267398c6a78ee]
+(5 (Extent: S) (affected by repeal, see note))[^c-ee56f41fcac80f79243267398c6a78ee] The provisions of section 9 above (other than subsection (1)) shall apply in relation to a scheme submitted under this section as they apply in relation to a scheme submitted under that section (but reading references to the appropriate Minister as references to the Secretary of State). *(Extent: S)* *(affected by repeal, see note)*[^c-ee56f41fcac80f79243267398c6a78ee]
 
-(6 (Extent: S) (affected by repeal, see note))[^key-ee56f41fcac80f79243267398c6a78ee] Before giving any direction to a relevant port authority under this section the Secretary of State shall consult the authority. *(Extent: S)* *(affected by repeal, see note)*[^key-ee56f41fcac80f79243267398c6a78ee]
+(6 (Extent: S) (affected by repeal, see note))[^c-ee56f41fcac80f79243267398c6a78ee] Before giving any direction to a relevant port authority under this section the Secretary of State shall consult the authority. *(Extent: S)* *(affected by repeal, see note)*[^c-ee56f41fcac80f79243267398c6a78ee]
 
-(7 (Extent: S) (affected by repeal, see note))[^key-ee56f41fcac80f79243267398c6a78ee] Where after consulting a relevant port authority under subsection (6) above with respect to any direction or directions which he is considering giving to the authority under this section the Secretary of State determines not to give the direction, or either or both of the directions, under consideration he shall give the authority written notification of his decision. *(Extent: S)* *(affected by repeal, see note)*[^key-ee56f41fcac80f79243267398c6a78ee]
+(7 (Extent: S) (affected by repeal, see note))[^c-ee56f41fcac80f79243267398c6a78ee] Where after consulting a relevant port authority under subsection (6) above with respect to any direction or directions which he is considering giving to the authority under this section the Secretary of State determines not to give the direction, or either or both of the directions, under consideration he shall give the authority written notification of his decision. *(Extent: S)* *(affected by repeal, see note)*[^c-ee56f41fcac80f79243267398c6a78ee]
 
-(8 (Extent: S) (affected by repeal, see note))[^key-ee56f41fcac80f79243267398c6a78ee] In any case within subsection (7) above the powers of the Secretary of State under this section shall cease to be exercisable in relation to the authority until after the end of the period of five years beginning with the date on which the required notification is given. *(Extent: S)* *(affected by repeal, see note)*[^key-ee56f41fcac80f79243267398c6a78ee]
+(8 (Extent: S) (affected by repeal, see note))[^c-ee56f41fcac80f79243267398c6a78ee] In any case within subsection (7) above the powers of the Secretary of State under this section shall cease to be exercisable in relation to the authority until after the end of the period of five years beginning with the date on which the required notification is given. *(Extent: S)* *(affected by repeal, see note)*[^c-ee56f41fcac80f79243267398c6a78ee]
 
-(9 (Extent: S) (affected by repeal, see note))[^key-ee56f41fcac80f79243267398c6a78ee] Directions under subsections (2) and (3) above may be given at the same time if the Secretary of State thinks fit. *(Extent: S)* *(affected by repeal, see note)*[^key-ee56f41fcac80f79243267398c6a78ee]
+(9 (Extent: S) (affected by repeal, see note))[^c-ee56f41fcac80f79243267398c6a78ee] Directions under subsections (2) and (3) above may be given at the same time if the Secretary of State thinks fit. *(Extent: S)* *(affected by repeal, see note)*[^c-ee56f41fcac80f79243267398c6a78ee]
 
-(10 (Extent: S) (affected by repeal, see note))[^key-ee56f41fcac80f79243267398c6a78ee] In this section “ *(Extent: S)* *(affected by repeal, see note)*[^key-ee56f41fcac80f79243267398c6a78ee]**the annual turnover requirement *(Extent: S)* *(affected by repeal, see note)*[^key-ee56f41fcac80f79243267398c6a78ee]**” means the annual turnover requirement under section 11 below. *(Extent: S)* *(affected by repeal, see note)*[^key-ee56f41fcac80f79243267398c6a78ee]
+(10 (Extent: S) (affected by repeal, see note))[^c-ee56f41fcac80f79243267398c6a78ee] In this section “ *(Extent: S)* *(affected by repeal, see note)*[^c-ee56f41fcac80f79243267398c6a78ee]**the annual turnover requirement *(Extent: S)* *(affected by repeal, see note)*[^c-ee56f41fcac80f79243267398c6a78ee]**” means the annual turnover requirement under section 11 below. *(Extent: S)* *(affected by repeal, see note)*[^c-ee56f41fcac80f79243267398c6a78ee]
 
-#### 11. The annual turnover requirement for the purposes of section 10.[^key-8a166b59f13da651c105a7a387befcb6][^key-241b550d4122e86136fc8823d45837da][^key-241b550d4122e86136fc8823d45837da]
+#### 11. The annual turnover requirement for the purposes of section 10.[^c-8a166b59f13da651c105a7a387befcb6][^c-241b550d4122e86136fc8823d45837da][^c-241b550d4122e86136fc8823d45837da]
 
-(1 (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] A relevant port authority meet the annual turnover requirement mentioned in section 10 above at the time when any direction is given to that authority by the Secretary of State under that section if the annual turnover of the authority’s port undertaking exceeded the turnover limit in the case of at least two of the last three accounting years of the authority ending before that time. *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
+(1 (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] A relevant port authority meet the annual turnover requirement mentioned in section 10 above at the time when any direction is given to that authority by the Secretary of State under that section if the annual turnover of the authority’s port undertaking exceeded the turnover limit in the case of at least two of the last three accounting years of the authority ending before that time. *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
 
-(2 (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] References in this section, in relation to a relevant port authority, to the authority’s port undertaking are references to all activities of the authority in relation to which the authority are required under section 42(1) of the *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a] [^c1033588]Harbours Act 1964 to prepare annual statements of accounts. *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
+(2 (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] References in this section, in relation to a relevant port authority, to the authority’s port undertaking are references to all activities of the authority in relation to which the authority are required under section 42(1) of the *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a] [^c1033588]Harbours Act 1964 to prepare annual statements of accounts. *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
 
-(3 (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] For the purposes of subsection (1) above, the annual turnover of a relevant port authority’s port undertaking for any accounting year of the authority is the aggregate, as stated in any statement of accounts prepared under section 42(1) in respect of that accounting year, of all sums received by the authority during that year. *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
+(3 (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] For the purposes of subsection (1) above, the annual turnover of a relevant port authority’s port undertaking for any accounting year of the authority is the aggregate, as stated in any statement of accounts prepared under section 42(1) in respect of that accounting year, of all sums received by the authority during that year. *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
 
-(4 (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] The reference in subsection (3) above to sums received by the authority does not include sums received by way of grant from any public authority or any capital receipts or loans. *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
+(4 (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] The reference in subsection (3) above to sums received by the authority does not include sums received by way of grant from any public authority or any capital receipts or loans. *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
 
-(5 (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] Where a relevant port authority are required under section 42(2) of the *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a] [^c1033589]Harbours Act 1964 to prepare annual statements of accounts relating to activities carried on by the authority and subsidiaries of the authority— *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
+(5 (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] Where a relevant port authority are required under section 42(2) of the *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a] [^c1033589]Harbours Act 1964 to prepare annual statements of accounts relating to activities carried on by the authority and subsidiaries of the authority— *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] the reference in subsection (2) above to activities of the authority shall be read as including a reference to activities of any subsidiary of the authority; *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
-- (b (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] the references in subsections (2) and (3) above to section 42(1) shall be read as references to section 42(2); and *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
-- (c (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] the reference in subsection (3) above to sums received by the authority shall be read as including a reference to sums received by any subsidiary of the authority which are shown in the statement of accounts there mentioned (and subsection (4) above shall apply accordingly). *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
+- (a (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] the reference in subsection (2) above to activities of the authority shall be read as including a reference to activities of any subsidiary of the authority; *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
+- (b (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] the references in subsections (2) and (3) above to section 42(1) shall be read as references to section 42(2); and *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
+- (c (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] the reference in subsection (3) above to sums received by the authority shall be read as including a reference to sums received by any subsidiary of the authority which are shown in the statement of accounts there mentioned (and subsection (4) above shall apply accordingly). *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
 
-(6 (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] For the purposes of this section— *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
+(6 (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] For the purposes of this section— *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] the turnover limit, in relation to any accounting year of a relevant port authority, is the turnover limit applicable to the reference year in which that accounting year ends; *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
-- (b (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] the reference years are the year ending immediately before the date on which this Act is passed (“ *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]**the base date *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]**”), the year beginning with that date and each succeeding year beginning with an anniversary of that date; and *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
-- (c (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] the turnover limit applicable to a reference year is £5 million unless subsection (7) below applies, in which case it is the amount determined under that subsection. *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
+- (a (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] the turnover limit, in relation to any accounting year of a relevant port authority, is the turnover limit applicable to the reference year in which that accounting year ends; *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
+- (b (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] the reference years are the year ending immediately before the date on which this Act is passed (“ *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]**the base date *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]**”), the year beginning with that date and each succeeding year beginning with an anniversary of that date; and *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
+- (c (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] the turnover limit applicable to a reference year is £5 million unless subsection (7) below applies, in which case it is the amount determined under that subsection. *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
 
-(7 (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] Where in the case of any anniversary of the base date the retail prices index for the month in which that anniversary falls shows a percentage increase over that for the month in which the base date falls, the turnover limit applicable to the reference year beginning with that anniversary shall be an amount arrived at by— *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
+(7 (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] Where in the case of any anniversary of the base date the retail prices index for the month in which that anniversary falls shows a percentage increase over that for the month in which the base date falls, the turnover limit applicable to the reference year beginning with that anniversary shall be an amount arrived at by— *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] increasing the sum of £5 million by a percentage equal to that percentage increase; and *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
-- (b (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] rounding the result to the nearest £100,000. *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
+- (a (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] increasing the sum of £5 million by a percentage equal to that percentage increase; and *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
+- (b (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] rounding the result to the nearest £100,000. *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
 
-(8 (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] The Secretary of State shall publish in the London Gazette and the Edinburgh Gazette the turnover limit applicable to any reference year beginning with an anniversary of the base date as soon as practicable after that anniversary. *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
+(8 (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] The Secretary of State shall publish in the London Gazette and the Edinburgh Gazette the turnover limit applicable to any reference year beginning with an anniversary of the base date as soon as practicable after that anniversary. *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
 
-(9 (Extent: S) (affected by repeal, see note))[^key-91e512e293978cd1e6a81148c2129f5a] The reference in subsection (7) above to the retail prices index is a reference to the general index of retail prices (for all items) published by the *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a] Statistics Board[^key-e45dc635fa54f9dfd1da06a0b6ff6860] *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]; and if that index is not published for any month relevant for the purposes of that subsection that reference shall be read as a reference to any substituted index or index figures published by *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a] the Board[^key-a8c9733eac1925273e91a6a10a1663f5] *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a] for that month. *(Extent: S)* *(affected by repeal, see note)*[^key-91e512e293978cd1e6a81148c2129f5a]
+(9 (Extent: S) (affected by repeal, see note))[^c-91e512e293978cd1e6a81148c2129f5a] The reference in subsection (7) above to the retail prices index is a reference to the general index of retail prices (for all items) published by the *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a] Statistics Board[^c-e45dc635fa54f9dfd1da06a0b6ff6860] *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]; and if that index is not published for any month relevant for the purposes of that subsection that reference shall be read as a reference to any substituted index or index figures published by *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a] the Board[^c-a8c9733eac1925273e91a6a10a1663f5] *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a] for that month. *(Extent: S)* *(affected by repeal, see note)*[^c-91e512e293978cd1e6a81148c2129f5a]
 
-#### 12. Schemes made by the Secretary of State.[^key-241b550d4122e86136fc8823d45837da]
+#### 12. Schemes made by the Secretary of State.[^c-241b550d4122e86136fc8823d45837da]
 
-(1 (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] Where— *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+(1 (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] Where— *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] a scheme (“ *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]**the authority’s scheme *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]**”) has been submitted to the Secretary of State by a relevant port authority under section 10 above; but *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
-- (b (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] it appears to the Secretary of State that the scheme does not accord with any advice given by him as mentioned in subsection (4) of that section and cannot be made to do so by any modifications it is within his power to make; *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+- (a (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] a scheme (“ *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]**the authority’s scheme *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]**”) has been submitted to the Secretary of State by a relevant port authority under section 10 above; but *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
+- (b (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] it appears to the Secretary of State that the scheme does not accord with any advice given by him as mentioned in subsection (4) of that section and cannot be made to do so by any modifications it is within his power to make; *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
-the Secretary of State may himself make a scheme for the purposes of a transfer under section 2 above to the company specified in the authority’s scheme of the authority’s property, rights, liabilities and functions. *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+the Secretary of State may himself make a scheme for the purposes of a transfer under section 2 above to the company specified in the authority’s scheme of the authority’s property, rights, liabilities and functions. *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
-(2 (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] The Secretary of State shall consult the authority concerned before preparing the scheme. *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+(2 (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] The Secretary of State shall consult the authority concerned before preparing the scheme. *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
-(3 (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] Before making the scheme the Secretary of State shall publish by Gazette and local advertisement a notice— *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+(3 (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] Before making the scheme the Secretary of State shall publish by Gazette and local advertisement a notice— *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] stating that he proposes to make a scheme for the purposes of a proposed transfer under section 2 above to a company formed by the authority of the authority’s property, rights, liabilities and functions; *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
-- (b (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] naming a place where copies of the proposed scheme and any associated company documents may be seen at all reasonable hours; and *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
-- (c (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] stating that any person who wishes to make representations to him with respect to— *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
-  - (i (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] the proposed transfer; or *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
-  - (ii (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] any provisions of the proposed scheme or of any associated company documents; *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+- (a (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] stating that he proposes to make a scheme for the purposes of a proposed transfer under section 2 above to a company formed by the authority of the authority’s property, rights, liabilities and functions; *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
+- (b (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] naming a place where copies of the proposed scheme and any associated company documents may be seen at all reasonable hours; and *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
+- (c (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] stating that any person who wishes to make representations to him with respect to— *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
+  - (i (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] the proposed transfer; or *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
+  - (ii (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] any provisions of the proposed scheme or of any associated company documents; *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
-  should do so in writing before the end of the period of forty-two days beginning with the date (specifying it) of the first local advertisement. *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+  should do so in writing before the end of the period of forty-two days beginning with the date (specifying it) of the first local advertisement. *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
-(4 (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] On or before the date of the first local advertisement the Secretary of State shall serve on the relevant port authority in question— *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+(4 (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] On or before the date of the first local advertisement the Secretary of State shall serve on the relevant port authority in question— *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] a notice complying with subsection (5) below; and *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
-- (b (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] a copy of the proposed scheme. *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+- (a (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] a notice complying with subsection (5) below; and *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
+- (b (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] a copy of the proposed scheme. *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
-(5 (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] A notice under subsection (4)(a) above must— *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+(5 (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] A notice under subsection (4)(a) above must— *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] state that the Secretary of State proposes to make the scheme; and *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
-- (b (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] direct the authority concerned to take such steps as are reasonably practicable to give such information as may be specified in the notice, in such manner as may be so specified, to every person on whom that authority would be required under section 9(3)(b) above to serve notice relating to such a scheme prepared by that authority. *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+- (a (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] state that the Secretary of State proposes to make the scheme; and *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
+- (b (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] direct the authority concerned to take such steps as are reasonably practicable to give such information as may be specified in the notice, in such manner as may be so specified, to every person on whom that authority would be required under section 9(3)(b) above to serve notice relating to such a scheme prepared by that authority. *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
-(6 (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] The Secretary of State shall not make the scheme until after the end of the period allowed for making representations to him with respect to the proposed transfer or any provisions of the proposed scheme or of any associated company documents. *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+(6 (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] The Secretary of State shall not make the scheme until after the end of the period allowed for making representations to him with respect to the proposed transfer or any provisions of the proposed scheme or of any associated company documents. *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
-(7 (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] The Secretary of State shall decide whether or not to make the scheme after considering any such representations duly made to him before the end of that period and not withdrawn; and if he decides to make the scheme— *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+(7 (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] The Secretary of State shall decide whether or not to make the scheme after considering any such representations duly made to him before the end of that period and not withdrawn; and if he decides to make the scheme— *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] he may make it as proposed or with such modifications as he thinks fit after consulting the authority concerned; and *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
-- (b (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] he may first (if he thinks fit) give the authority a direction requiring them, before such date as may be specified in the direction, to secure that such alterations are made to the *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b] articles[^key-d727a49b8420d7f8eafc015a171d02ab] *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b] of the company mentioned in subsection (1) above as may be specified in the direction. *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+- (a (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] he may make it as proposed or with such modifications as he thinks fit after consulting the authority concerned; and *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
+- (b (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] he may first (if he thinks fit) give the authority a direction requiring them, before such date as may be specified in the direction, to secure that such alterations are made to the *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b] articles[^c-d727a49b8420d7f8eafc015a171d02ab] *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b] of the company mentioned in subsection (1) above as may be specified in the direction. *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
-(8 (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] Any scheme made by the Secretary of State under this section shall be made by order; and a scheme so made takes effect on the date on which the order in question comes into force or on such date as may be specified in that order. *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+(8 (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] Any scheme made by the Secretary of State under this section shall be made by order; and a scheme so made takes effect on the date on which the order in question comes into force or on such date as may be specified in that order. *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
-(9 (Extent: S) (affected by repeal, see note))[^key-423decf0b532325458934ae29f7aa63b] References in this section to any associated company documents are references to any documents submitted under section 9(2) above with the authority’s scheme. *(Extent: S)* *(affected by repeal, see note)*[^key-423decf0b532325458934ae29f7aa63b]
+(9 (Extent: S) (affected by repeal, see note))[^c-423decf0b532325458934ae29f7aa63b] References in this section to any associated company documents are references to any documents submitted under section 9(2) above with the authority’s scheme. *(Extent: S)* *(affected by repeal, see note)*[^c-423decf0b532325458934ae29f7aa63b]
 
 ### Levy on initial disposals of securities of successor companies
 
@@ -595,7 +595,7 @@ and references below in this section, in relation to any such body, to the relev
 - “**the appropriate Minister**” means, in relation to any body which is or immediately before a transfer under section 2 above was a relevant port authority, the Minister concerned with the relevant harbour or harbours or, where there is more than one Minister so concerned, both or all of those Ministers acting jointly; and
 - “**the Gazette**” means—
 - (a) in relation to the publication of a notice under section 9(3)(a) or 12(3) affecting a harbour in England or Wales, the London Gazette; and
-- (b) in relation to the publication of such a notice *(Extent: S)* *(affected by repeal, see note)*[^key-f170f882dee764003e247106c3e27af9]a notice under section 9(3)(a) *(Extent: S)* affecting a harbour in Scotland, the Edinburgh Gazette.
+- (b) in relation to the publication of such a notice *(Extent: S)* *(affected by repeal, see note)*[^c-f170f882dee764003e247106c3e27af9]a notice under section 9(3)(a) *(Extent: S)* affecting a harbour in Scotland, the Edinburgh Gazette.
 
 (2) For the purposes of the definition of “**the appropriate Minister**” in subsection (1) above—
 
@@ -608,7 +608,7 @@ and references below in this section, in relation to any such body, to the relev
 
 (3) In this Part—
 
-- (a) references, in relation to a notice under section 9(3)(a) or 12(3) *(Extent: S)* *(affected by repeal, see note)*[^key-6af88419be75393194493a82de03559e] affecting a harbour, to publication of the notice by Gazette and local advertisement are references to publication—
+- (a) references, in relation to a notice under section 9(3)(a) or 12(3) *(Extent: S)* *(affected by repeal, see note)*[^c-6af88419be75393194493a82de03559e] affecting a harbour, to publication of the notice by Gazette and local advertisement are references to publication—
   - (i) in the Gazette; and
   - (ii) in each of two successive weeks, in one or more local newspapers circulating in the locality where the harbour is situated; and
 - (b) references, in relation to such a notice, to the date of the first local advertisement are references to the date of the first publication of the notice in a local newspaper circulating in the locality where the harbour is situated.
@@ -623,7 +623,7 @@ are explained in section 2(4).
 
 (5) For the purposes of this Part the time when a disposal of securities or of rights to require the issue of securities of a company is made shall be determined as it would fall to be determined in accordance with section 28 of the 1992 Act[^c1033627] for the purposes of tax on chargeable gains.
 
-(6) For the purposes of this section a notice under section 9(3)(a) or 12(3) *(Extent: S)* *(affected by repeal, see note)*[^key-a3dc43e50bebbc116b7fef59eddac08e] relating to a scheme for the purposes of a proposed transfer under section 2 above of property, rights, liabilities and functions of a relevant port authority is to be regarded as affecting any harbour for which that authority are the harbour authority.
+(6) For the purposes of this section a notice under section 9(3)(a) or 12(3) *(Extent: S)* *(affected by repeal, see note)*[^c-a3dc43e50bebbc116b7fef59eddac08e] relating to a scheme for the purposes of a proposed transfer under section 2 above of property, rights, liabilities and functions of a relevant port authority is to be regarded as affecting any harbour for which that authority are the harbour authority.
 
 ## PART II — Disposal by Port of London Authority of the Port of Tilbury
 
@@ -638,7 +638,7 @@ are explained in section 2(4).
 - (a) that part of their undertaking which consists in operating the port of Tilbury; and
 - (b) any activities which appear to them to be incidental to or connected with operating the port of Tilbury.
 
-(2) The company formed by the Port Authority shall be a company limited by shares and registered under the Companies Act 2006[^key-4483086ce1da8976c55b27b3435c00e8].
+(2) The company formed by the Port Authority shall be a company limited by shares and registered under the Companies Act 2006[^c-4483086ce1da8976c55b27b3435c00e8].
 
 #### 22. Transfer to the company of relevant property, etc., of the Port Authority.
 
@@ -646,7 +646,7 @@ are explained in section 2(4).
 
 (2) In preparing such a scheme the Port Authority shall take into account any advice given by the Secretary of State as to the provisions he regards as appropriate for inclusion in the scheme (and, in particular, as to the description of property, rights and liabilities which it is in his view appropriate to transfer to the company).
 
-(3) Together with a scheme submitted under subsection (1) above the Port Authority shall submit to the Secretary of State a copy of the articles[^key-cefedbca859f277f5fa43b1eff78c80e] of the company.
+(3) Together with a scheme submitted under subsection (1) above the Port Authority shall submit to the Secretary of State a copy of the articles[^c-cefedbca859f277f5fa43b1eff78c80e] of the company.
 
 (4) A scheme so submitted requires confirmation by the Secretary of State; and if the Secretary of State decides to confirm the scheme he may do so either without modifications or with such modifications as he thinks fit after consulting the Port Authority.
 
@@ -660,7 +660,7 @@ are explained in section 2(4).
 - (a) confirming a scheme so submitted (with or without modifications); or
 - (b) making a scheme of his own under subsection (5)(b) above;
 
-the Secretary of State may first (if he thinks fit) give the Port Authority a direction requiring them, before such date as may be specified in the direction, to secure that such alterations are made to the articles[^key-dbfefabfda69a2ccce2f14b0a7c0f0e5] of the company as may be specified in the direction.
+the Secretary of State may first (if he thinks fit) give the Port Authority a direction requiring them, before such date as may be specified in the direction, to secure that such alterations are made to the articles[^c-dbfefabfda69a2ccce2f14b0a7c0f0e5] of the company as may be specified in the direction.
 
 (7) A scheme under this section may define the property, rights and liabilities to be transferred by the scheme—
 
@@ -917,7 +917,7 @@ In this Part—
 
 (3) An instrument such as is mentioned in subsection (2)(b) above shall not be treated as duly stamped unless it is stamped with the duty to which it would be liable but for subsection (2) above, or it has, in accordance with section 12 of the [^c1033662]Stamp Act 1891, been stamped with a particular stamp denoting that it is not chargeable with any duty or that it is duly stamped.
 
-#### 36A. Stamp duty land tax[^key-87b3d1a4d32e0f40d845514b3dde65d1]
+#### 36A. Stamp duty land tax[^c-87b3d1a4d32e0f40d845514b3dde65d1]
 
 (1) A land transaction effected under this Act is exempt from charge for the purposes of stamp duty land tax.
 
@@ -938,8 +938,8 @@ In this Part—
 
 (4) Subsection (3) above applies to an order which is made—
 
-- (a) under subsection (7) of section 9 above as that subsection applies in relation to a scheme submitted under section 10 above; *(Extent: S)* *(affected by repeal, see note)*[^key-a728f6afc0bc6a99e65ae15911d62adf]
-- (b) under section 12(8) above; *(Extent: S)* *(affected by repeal, see note)*[^key-a728f6afc0bc6a99e65ae15911d62adf]
+- (a) under subsection (7) of section 9 above as that subsection applies in relation to a scheme submitted under section 10 above; *(Extent: S)* *(affected by repeal, see note)*[^c-a728f6afc0bc6a99e65ae15911d62adf]
+- (b) under section 12(8) above; *(Extent: S)* *(affected by repeal, see note)*[^c-a728f6afc0bc6a99e65ae15911d62adf]
 - (c) under subsection (9) of section 22 above confirming a scheme submitted under subsection (1) of that section in pursuance of a direction under section 27(3) above; or
 - (d) under section 22(10) above.
 
@@ -966,7 +966,7 @@ Any expenses incurred by a Minister of the Crown in consequence of the provision
 (1) In this Act—
 
 - “**body**” means a body corporate;
-- “**equity share capital**” has the meaning given by section 548 of the Companies Act 2006[^key-ccdb491f7689b05bac2ec41890902983];
+- “**equity share capital**” has the meaning given by section 548 of the Companies Act 2006[^c-ccdb491f7689b05bac2ec41890902983];
 - “**functions**” includes powers and duties;
 - “**harbour**” and “**harbour authority**” (subject to section 41(2) below) have the same meanings as in the [^c1033667]Harbours Act 1964;
 - “**liability**” includes an obligation;
@@ -977,7 +977,7 @@ Any expenses incurred by a Minister of the Crown in consequence of the provision
   - “**securities**”, in relation to a company, includes shares, debentures, bonds and other securities of the company, whether or not constituting a charge on the assets of the company;
   - “**shares**” includes stock;
   - “**statutory provision**” means a provision (whether of a general or special nature) contained in, or in a document made or issued under, any Act (whether of a general or of a special nature); and
-  - “**subsidiary**” and “**wholly-owned subsidiary**” have the meanings given by section 1159 of the Companies Act 2006[^key-ba8748d1db6cdb4947d5f15e9fcbe2cb] and[^c1033669]
+  - “**subsidiary**” and “**wholly-owned subsidiary**” have the meanings given by section 1159 of the Companies Act 2006[^c-ba8748d1db6cdb4947d5f15e9fcbe2cb] and[^c1033669]
 
 - “ **the 1992 Act** ” means the Taxation of Chargeable Gains Act 1992.
 
@@ -1078,7 +1078,7 @@ shall be continued by or against the transferee to the exclusion of the transfer
 
 #### Transfer of rights and liabilities relating to employment
 
-**5.** For the purposes of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^key-bc2912cee09ae2cb01d2e08d21ea3a75] section 2 above shall be regarded as effecting a transfer to which those regulations apply of the whole of the transferor’s undertaking, including any part of it which is not in the nature of a commercial venture; and accordingly in those regulations, as they apply in relation to such a transfer, references to the undertaking apply to all activities (of whatever description) carried on before the transfer by the transferor.
+**5.** For the purposes of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^c-bc2912cee09ae2cb01d2e08d21ea3a75] section 2 above shall be regarded as effecting a transfer to which those regulations apply of the whole of the transferor’s undertaking, including any part of it which is not in the nature of a commercial venture; and accordingly in those regulations, as they apply in relation to such a transfer, references to the undertaking apply to all activities (of whatever description) carried on before the transfer by the transferor.
 
 #### Interpretation of Part I
 
@@ -1127,12 +1127,12 @@ Provision under this paragraph may include in particular a requirement that any 
 
 (4) References in this paragraph to a residual accounting period of the relevant port authority are references to any period falling after the end of the accounting year of that authority dealt with in the authority’s last statutory accounts.
 
-**11.** (1) Provision for applying sections 836 to 840 of the Companies Act 2006[^key-aaaa9ddb7cba0482dd588629e13ef2c5] (relevant accounts for determining whether a distribution is lawful) in relation to any initial distribution of the successor company as if—
+**11.** (1) Provision for applying sections 836 to 840 of the Companies Act 2006[^c-aaaa9ddb7cba0482dd588629e13ef2c5] (relevant accounts for determining whether a distribution is lawful) in relation to any initial distribution of the successor company as if—
 
-- (a) the accounts prepared by that company in accordance with the provision authorised below in this paragraph were accounts relevant under section 836[^key-c66ae6f6a6462230099bfaedeb113a0a]; and
-- (b) references in section 839[^key-281ce079e366193689a43e4fd1bea3df] to initial accounts included references to any such accounts.
+- (a) the accounts prepared by that company in accordance with the provision authorised below in this paragraph were accounts relevant under section 836[^c-c66ae6f6a6462230099bfaedeb113a0a]; and
+- (b) references in section 839[^c-281ce079e366193689a43e4fd1bea3df] to initial accounts included references to any such accounts.
 
-(2) The accounts referred to in sub-paragraph (1) above are such accounts as, on such assumptions as may be specified in or made in accordance with any provision of the scheme, would have been prepared under Part 15 of the Companies Act 2006[^key-5814c1b4f3c0c3549efdd954ab003463] in respect of the last accounting year of the relevant port authority in question ending before the date on which the transfer under section 2 above takes effect.
+(2) The accounts referred to in sub-paragraph (1) above are such accounts as, on such assumptions as may be specified in or made in accordance with any provision of the scheme, would have been prepared under Part 15 of the Companies Act 2006[^c-5814c1b4f3c0c3549efdd954ab003463] in respect of the last accounting year of the relevant port authority in question ending before the date on which the transfer under section 2 above takes effect.
 
 (3) The provision that may be made by the scheme with respect to those accounts includes provision corresponding to that authorised under paragraph 9(1)(c) above in relation to statutory accounts of the successor company.
 
@@ -1149,7 +1149,7 @@ Provision under this paragraph may include in particular provision for repealing
 
 **13.** References in this Part of this Schedule to the statutory accounts of the successor company are references to—
 
-- (a) any accounts prepared by that company for the purposes of any provision of the Companies Act 2006[^key-9eeacbafb89e73307f3dfc1cfe85465c], including group accounts but excluding any accounts so prepared by virtue of any provision of the scheme made under paragraph 11 above; and
+- (a) any accounts prepared by that company for the purposes of any provision of the Companies Act 2006[^c-9eeacbafb89e73307f3dfc1cfe85465c], including group accounts but excluding any accounts so prepared by virtue of any provision of the scheme made under paragraph 11 above; and
 - (b) any statement of accounts prepared by that company under section 42 of the [^c1033683]Harbours Act 1964.
 
 **14.** References in this Part of this Schedule to the last statutory accounts of the relevant port authority in question are references to the last statement of accounts prepared by that authority under section 42 of the [^c1033684] Harbours Act 1964 before the date on which the transfer under section 2 above takes effect.
@@ -1305,11 +1305,11 @@ such compensation as may be just shall be paid to that person by the Port Author
 
 [^c1033579]: Modification: Pt. I: functions transferred (3.12.2001) by [S.I. 2001/3503](https://www.legislation.gov.uk/uksi/2001/3503), [arts. 2](https://www.legislation.gov.uk/uksi/2001/3503/article/2), [3](https://www.legislation.gov.uk/uksi/2001/3503/article/3)
 
-[^key-241b550d4122e86136fc8823d45837da]: Modification: Pt. 1: transfer of functions in part (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(g)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/g), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), reg. 2, Sch.)
+[^c-241b550d4122e86136fc8823d45837da]: Modification: Pt. 1: transfer of functions in part (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(g)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/g), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), reg. 2, Sch.)
 
-[^key-15f2a83f919c4b3bbad530460acc693b]: Textual amendment: Words in s. 1(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-15f2a83f919c4b3bbad530460acc693b]: Textual amendment: Words in s. 1(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-8cf8f58b228595f6592d5e7a0953256d]: Textual amendment: S. 1(4)(ca) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/10) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-8cf8f58b228595f6592d5e7a0953256d]: Textual amendment: S. 1(4)(ca) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/10) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c1033581]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -1319,31 +1319,31 @@ such compensation as may be just shall be paid to that person by the Port Author
 
     S. 2 (2) restricted (25.3.1997) by [S. I. 1997/948](https://www.legislation.gov.uk/uksi/1997/948), [art.2(2)](https://www.legislation.gov.uk/uksi/1997/948/article/2/2), [Sch. para.10](https://www.legislation.gov.uk/uksi/1997/948/schedule/paragraph/10)
 
-[^key-b8f16feb571fdbf9ba8b96ba654c87a5]: Textual amendment: Words in s. 3(4)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-b8f16feb571fdbf9ba8b96ba654c87a5]: Textual amendment: Words in s. 3(4)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-3f8f13d527ea75c5fb594bcc5e7f18cb]: Textual amendment: Word in s. 9(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-3f8f13d527ea75c5fb594bcc5e7f18cb]: Textual amendment: Word in s. 9(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-f3d7b24a7a83763b7d18b32184f969d9]: Textual amendment: Word in s. 9(6)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-f3d7b24a7a83763b7d18b32184f969d9]: Textual amendment: Word in s. 9(6)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c1033585]: Subordinate legislation: S. 9(7): s. 9(7) power exercised (18.12.1991) by [S.I.1991/2908](https://www.legislation.gov.uk/uksi/1991/2908).
 
-[^key-ee56f41fcac80f79243267398c6a78ee]: Textual amendment: S. 10 repealed (S.) (3.12.2015) by [Harbours (Scotland) Act 2015 (asp 13)](https://www.legislation.gov.uk/asp/2015/13), [ss. 1(2)(a)](https://www.legislation.gov.uk/asp/2015/13/section/1/2/a), [3](https://www.legislation.gov.uk/asp/2015/13/section/3)
+[^c-ee56f41fcac80f79243267398c6a78ee]: Textual amendment: S. 10 repealed (S.) (3.12.2015) by [Harbours (Scotland) Act 2015 (asp 13)](https://www.legislation.gov.uk/asp/2015/13), [ss. 1(2)(a)](https://www.legislation.gov.uk/asp/2015/13/section/1/2/a), [3](https://www.legislation.gov.uk/asp/2015/13/section/3)
 
-[^key-8a166b59f13da651c105a7a387befcb6]: Modification: S. 11 applied (with modifications) (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 32(2)](https://www.legislation.gov.uk/ukpga/2017/4/section/32/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/32/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)
+[^c-8a166b59f13da651c105a7a387befcb6]: Modification: S. 11 applied (with modifications) (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 32(2)](https://www.legislation.gov.uk/ukpga/2017/4/section/32/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/32/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)
 
-[^key-91e512e293978cd1e6a81148c2129f5a]: Textual amendment: S. 11 repealed (S.) (3.12.2015) by [Harbours (Scotland) Act 2015 (asp 13)](https://www.legislation.gov.uk/asp/2015/13), [ss. 1(2)(b)](https://www.legislation.gov.uk/asp/2015/13/section/1/2/b), [3](https://www.legislation.gov.uk/asp/2015/13/section/3)
+[^c-91e512e293978cd1e6a81148c2129f5a]: Textual amendment: S. 11 repealed (S.) (3.12.2015) by [Harbours (Scotland) Act 2015 (asp 13)](https://www.legislation.gov.uk/asp/2015/13), [ss. 1(2)(b)](https://www.legislation.gov.uk/asp/2015/13/section/1/2/b), [3](https://www.legislation.gov.uk/asp/2015/13/section/3)
 
 [^c1033588]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
 [^c1033589]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
-[^key-e45dc635fa54f9dfd1da06a0b6ff6860]: Textual amendment: Words in s. 11(9) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 3 para. 7(a)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/3/paragraph/7/a); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-e45dc635fa54f9dfd1da06a0b6ff6860]: Textual amendment: Words in s. 11(9) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 3 para. 7(a)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/3/paragraph/7/a); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
-[^key-a8c9733eac1925273e91a6a10a1663f5]: Textual amendment: Words in s. 11(9) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 3 para. 7(b)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/3/paragraph/7/b); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-a8c9733eac1925273e91a6a10a1663f5]: Textual amendment: Words in s. 11(9) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 3 para. 7(b)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/3/paragraph/7/b); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
-[^key-423decf0b532325458934ae29f7aa63b]: Textual amendment: S. 12 repealed (S.) (3.12.2015) by [Harbours (Scotland) Act 2015 (asp 13)](https://www.legislation.gov.uk/asp/2015/13), [ss. 1(2)(c)](https://www.legislation.gov.uk/asp/2015/13/section/1/2/c), [3](https://www.legislation.gov.uk/asp/2015/13/section/3)
+[^c-423decf0b532325458934ae29f7aa63b]: Textual amendment: S. 12 repealed (S.) (3.12.2015) by [Harbours (Scotland) Act 2015 (asp 13)](https://www.legislation.gov.uk/asp/2015/13), [ss. 1(2)(c)](https://www.legislation.gov.uk/asp/2015/13/section/1/2/c), [3](https://www.legislation.gov.uk/asp/2015/13/section/3)
 
-[^key-d727a49b8420d7f8eafc015a171d02ab]: Textual amendment: Word in s. 12(7)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-d727a49b8420d7f8eafc015a171d02ab]: Textual amendment: Word in s. 12(7)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c1033591]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).
 
@@ -1375,23 +1375,23 @@ such compensation as may be just shall be paid to that person by the Port Author
 
 [^c1033624]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
-[^key-f170f882dee764003e247106c3e27af9]: Textual amendment: Words in s. 20(1) substituted (S.) (3.12.2015) by [Harbours (Scotland) Act 2015 (asp 13)](https://www.legislation.gov.uk/asp/2015/13), [ss. 1(3)(a)](https://www.legislation.gov.uk/asp/2015/13/section/1/3/a), [3](https://www.legislation.gov.uk/asp/2015/13/section/3)
+[^c-f170f882dee764003e247106c3e27af9]: Textual amendment: Words in s. 20(1) substituted (S.) (3.12.2015) by [Harbours (Scotland) Act 2015 (asp 13)](https://www.legislation.gov.uk/asp/2015/13), [ss. 1(3)(a)](https://www.legislation.gov.uk/asp/2015/13/section/1/3/a), [3](https://www.legislation.gov.uk/asp/2015/13/section/3)
 
 [^c1033625]: Textual amendment: Words from the beginning of sub-para (i) to “case,” in sub-para. (ii) in s. 20(2)(a) left out (3.12.2001) by virtue of [S.I. 2001/3503](https://www.legislation.gov.uk/uksi/2001/3503), [art. 5](https://www.legislation.gov.uk/uksi/2001/3503/article/5), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/2001/3503/schedule/1/paragraph/3/a)
 
 [^c1033626]: Textual amendment: Words in s. 20(2) left out (3.12.2001) by virtue of [S.I. 2001/3503](https://www.legislation.gov.uk/uksi/2001/3503), [art. 5](https://www.legislation.gov.uk/uksi/2001/3503/article/5), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2001/3503/schedule/paragraph/3/b)
 
-[^key-6af88419be75393194493a82de03559e]: Textual amendment: Words in s. 20(3)(a) repealed (S.) (3.12.2015) by [Harbours (Scotland) Act 2015 (asp 13)](https://www.legislation.gov.uk/asp/2015/13), [ss. 1(3)(b)](https://www.legislation.gov.uk/asp/2015/13/section/1/3/b), [3](https://www.legislation.gov.uk/asp/2015/13/section/3)
+[^c-6af88419be75393194493a82de03559e]: Textual amendment: Words in s. 20(3)(a) repealed (S.) (3.12.2015) by [Harbours (Scotland) Act 2015 (asp 13)](https://www.legislation.gov.uk/asp/2015/13), [ss. 1(3)(b)](https://www.legislation.gov.uk/asp/2015/13/section/1/3/b), [3](https://www.legislation.gov.uk/asp/2015/13/section/3)
 
 [^c1033627]: Textual amendment: Words in s. 20(5) substituted (6.3.1992 with effect as mentioned in s. 289 of the substituting Act) by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [s. 290](https://www.legislation.gov.uk/ukpga/1992/12/section/290), [Sch. 10 para. 24(4)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/10/paragraph/24/4) (with [ss. 60](https://www.legislation.gov.uk/ukpga/1992/12/section/60), [201(3)](https://www.legislation.gov.uk/ukpga/1992/12/section/201/3), [Sch. 11 paras. 22](https://www.legislation.gov.uk/ukpga/1992/12/schedule/11/paragraph/22), [26(2)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/11/paragraph/26/2), [27](https://www.legislation.gov.uk/ukpga/1992/12/schedule/11/paragraph/27)).
 
-[^key-a3dc43e50bebbc116b7fef59eddac08e]: Textual amendment: Words in s. 20(6) repealed (S.) (3.12.2015) by [Harbours (Scotland) Act 2015 (asp 13)](https://www.legislation.gov.uk/asp/2015/13), [ss. 1(3)(b)](https://www.legislation.gov.uk/asp/2015/13/section/1/3/b), [3](https://www.legislation.gov.uk/asp/2015/13/section/3)
+[^c-a3dc43e50bebbc116b7fef59eddac08e]: Textual amendment: Words in s. 20(6) repealed (S.) (3.12.2015) by [Harbours (Scotland) Act 2015 (asp 13)](https://www.legislation.gov.uk/asp/2015/13), [ss. 1(3)(b)](https://www.legislation.gov.uk/asp/2015/13/section/1/3/b), [3](https://www.legislation.gov.uk/asp/2015/13/section/3)
 
-[^key-4483086ce1da8976c55b27b3435c00e8]: Textual amendment: Words in [s. 21(2)](https://www.legislation.gov.uk/ukpga/1991/52/section/21/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(6)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/6) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-4483086ce1da8976c55b27b3435c00e8]: Textual amendment: Words in [s. 21(2)](https://www.legislation.gov.uk/ukpga/1991/52/section/21/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(6)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/6) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-cefedbca859f277f5fa43b1eff78c80e]: Textual amendment: Word in [s. 22(3)](https://www.legislation.gov.uk/ukpga/1991/52/section/22/3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(7)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/7) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-cefedbca859f277f5fa43b1eff78c80e]: Textual amendment: Word in [s. 22(3)](https://www.legislation.gov.uk/ukpga/1991/52/section/22/3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(7)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/7) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-dbfefabfda69a2ccce2f14b0a7c0f0e5]: Textual amendment: Word in [s. 22(6)](https://www.legislation.gov.uk/ukpga/1991/52/section/22/6) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(7)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/7) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-dbfefabfda69a2ccce2f14b0a7c0f0e5]: Textual amendment: Word in [s. 22(6)](https://www.legislation.gov.uk/ukpga/1991/52/section/22/6) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(7)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/7) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c1033629]: Marginal citation: [1968 c. xxxii](https://www.legislation.gov.uk/ukla/1968/32).
 
@@ -1427,15 +1427,15 @@ such compensation as may be just shall be paid to that person by the Port Author
 
 [^c1033662]: Marginal citation: [1891 c. 39](https://www.legislation.gov.uk/ukpga/1891/39).
 
-[^key-87b3d1a4d32e0f40d845514b3dde65d1]: Textual amendment: [S. 36A](https://www.legislation.gov.uk/ukpga/1991/52/section/36A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/16)
+[^c-87b3d1a4d32e0f40d845514b3dde65d1]: Textual amendment: [S. 36A](https://www.legislation.gov.uk/ukpga/1991/52/section/36A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/16)
 
-[^key-a728f6afc0bc6a99e65ae15911d62adf]: Textual amendment: [S. 37(4)(a)](https://www.legislation.gov.uk/ukpga/1991/52/section/37/4/a)[(b)](https://www.legislation.gov.uk/ukpga/1991/52/section/37/4/b) repealed (S.) (3.12.2015) by [Harbours (Scotland) Act 2015 (asp 13)](https://www.legislation.gov.uk/asp/2015/13), [ss. 1(4)](https://www.legislation.gov.uk/asp/2015/13/section/1/4), [3](https://www.legislation.gov.uk/asp/2015/13/section/3)
+[^c-a728f6afc0bc6a99e65ae15911d62adf]: Textual amendment: [S. 37(4)(a)](https://www.legislation.gov.uk/ukpga/1991/52/section/37/4/a)[(b)](https://www.legislation.gov.uk/ukpga/1991/52/section/37/4/b) repealed (S.) (3.12.2015) by [Harbours (Scotland) Act 2015 (asp 13)](https://www.legislation.gov.uk/asp/2015/13), [ss. 1(4)](https://www.legislation.gov.uk/asp/2015/13/section/1/4), [3](https://www.legislation.gov.uk/asp/2015/13/section/3)
 
-[^key-ccdb491f7689b05bac2ec41890902983]: Textual amendment: Words in [s. 40(1)](https://www.legislation.gov.uk/ukpga/1991/52/section/40/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(8)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/8/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-ccdb491f7689b05bac2ec41890902983]: Textual amendment: Words in [s. 40(1)](https://www.legislation.gov.uk/ukpga/1991/52/section/40/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(8)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/8/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c1033667]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
-[^key-ba8748d1db6cdb4947d5f15e9fcbe2cb]: Textual amendment: Words in [s. 40(1)](https://www.legislation.gov.uk/ukpga/1991/52/section/40/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(8)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/8/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-ba8748d1db6cdb4947d5f15e9fcbe2cb]: Textual amendment: Words in [s. 40(1)](https://www.legislation.gov.uk/ukpga/1991/52/section/40/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 124(8)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/124/8/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c1033669]: Textual amendment: Words in s. 40(1) inserted (6.3.1992 with effect as mentioned in s. 289 of the inserting Act) by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [s. 290](https://www.legislation.gov.uk/ukpga/1992/12/section/290), [Sch. 10 para. 24(6)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/10/paragraph/24/6) (with [ss. 60](https://www.legislation.gov.uk/ukpga/1992/12/section/60), [201(3)](https://www.legislation.gov.uk/ukpga/1992/12/section/201/3), [Sch. 11 paras. 22](https://www.legislation.gov.uk/ukpga/1992/12/schedule/11/paragraph/22), [26(2)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/11/paragraph/26/2), [27](https://www.legislation.gov.uk/ukpga/1992/12/schedule/11/paragraph/27)).
 
@@ -1445,17 +1445,17 @@ such compensation as may be just shall be paid to that person by the Port Author
 
 [^c1033678]: Textual amendment: S. 42(2) repealed (1.1.1996) by [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21), [s. 314(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/1), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch.12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/12) (with [s. 312(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/2), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1995/21/schedule/14/paragraph/1))
 
-[^key-bc2912cee09ae2cb01d2e08d21ea3a75]: Textual amendment: Words in Sch. 1 para. 5 substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/1/c)
+[^c-bc2912cee09ae2cb01d2e08d21ea3a75]: Textual amendment: Words in Sch. 1 para. 5 substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/1/c)
 
-[^key-aaaa9ddb7cba0482dd588629e13ef2c5]: Textual amendment: Words in Sch. 1 para. 11(1) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 179(2)(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/179/2/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-aaaa9ddb7cba0482dd588629e13ef2c5]: Textual amendment: Words in Sch. 1 para. 11(1) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 179(2)(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/179/2/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-c66ae6f6a6462230099bfaedeb113a0a]: Textual amendment: Words in Sch. 1 para. 11(1)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 179(2)(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/179/2/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-c66ae6f6a6462230099bfaedeb113a0a]: Textual amendment: Words in Sch. 1 para. 11(1)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 179(2)(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/179/2/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-281ce079e366193689a43e4fd1bea3df]: Textual amendment: Words in Sch. 1 para. 11(1)(b) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 179(2)(c)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/179/2/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-281ce079e366193689a43e4fd1bea3df]: Textual amendment: Words in Sch. 1 para. 11(1)(b) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 179(2)(c)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/179/2/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-5814c1b4f3c0c3549efdd954ab003463]: Textual amendment: Words in Sch. 1 para. 11(2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 179(3)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/179/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-5814c1b4f3c0c3549efdd954ab003463]: Textual amendment: Words in Sch. 1 para. 11(2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 179(3)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/179/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-9eeacbafb89e73307f3dfc1cfe85465c]: Textual amendment: Words in [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/ukpga/1991/52/schedule/1/paragraph/13/a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 179(4)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/179/4) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-9eeacbafb89e73307f3dfc1cfe85465c]: Textual amendment: Words in [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/ukpga/1991/52/schedule/1/paragraph/13/a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 179(4)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/179/4) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^c1033683]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 

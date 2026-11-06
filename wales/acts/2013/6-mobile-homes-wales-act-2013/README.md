@@ -38,7 +38,7 @@ An Act of the National Assembly for Wales to reform and restate the law relating
 
 \[4 November 2013\]
 
-**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:-**[^key-2c37fb2176b118009ae3d862f5e893b7]
+**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:-**[^c-2c37fb2176b118009ae3d862f5e893b7]
 
 ## Contents
 
@@ -159,4 +159,4 @@ An Act of the National Assembly for Wales to reform and restate the law relating
 
 ## Annotations
 
-[^key-2c37fb2176b118009ae3d862f5e893b7]: Modification: [Act](https://www.legislation.gov.uk/anaw/2013/6) power to amend conferred (25.2.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 109(2)](https://www.legislation.gov.uk/anaw/2014/7/section/109/2), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(g)](https://www.legislation.gov.uk/wsi/2015/380/article/2/g)
+[^c-2c37fb2176b118009ae3d862f5e893b7]: Modification: [Act](https://www.legislation.gov.uk/anaw/2013/6) power to amend conferred (25.2.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 109(2)](https://www.legislation.gov.uk/anaw/2014/7/section/109/2), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(g)](https://www.legislation.gov.uk/wsi/2015/380/article/2/g)

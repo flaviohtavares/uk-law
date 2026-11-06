@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 295. Recall or variation of removal order[^key-0466716a136659e8196711fb9adc9351][^key-9ddae45f5b0b3a07fe7f91be5d633d02]
+## 295. Recall or variation of removal order[^c-0466716a136659e8196711fb9adc9351][^c-9ddae45f5b0b3a07fe7f91be5d633d02]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0466716a136659e8196711fb9adc9351]: Commencement: S. 295 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-0466716a136659e8196711fb9adc9351]: Commencement: S. 295 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-9ddae45f5b0b3a07fe7f91be5d633d02]: Commencement: S. 295 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-9ddae45f5b0b3a07fe7f91be5d633d02]: Commencement: S. 295 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

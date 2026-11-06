@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Financial support under sections 88 and 89: supplementary[^key-34b3e41f5b234406071f5e739cd39946][^key-927a82f221b598f13e8d0891d4221c0a]
+## 91. Financial support under sections 88 and 89: supplementary[^c-34b3e41f5b234406071f5e739cd39946][^c-927a82f221b598f13e8d0891d4221c0a]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-34b3e41f5b234406071f5e739cd39946]: Commencement: S. 91 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-34b3e41f5b234406071f5e739cd39946]: Commencement: S. 91 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-927a82f221b598f13e8d0891d4221c0a]: Commencement: [S. 91](https://www.legislation.gov.uk/asc/2022/1/section/91) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(r)](https://www.legislation.gov.uk/wsi/2026/62/article/2/r)
+[^c-927a82f221b598f13e8d0891d4221c0a]: Commencement: [S. 91](https://www.legislation.gov.uk/asc/2022/1/section/91) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(r)](https://www.legislation.gov.uk/wsi/2026/62/article/2/r)

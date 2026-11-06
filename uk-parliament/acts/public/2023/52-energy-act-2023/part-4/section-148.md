@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Enforcement, penalties and offences[^key-08b3c59359637d7d5727b757ef144f24]
+## 148. Enforcement, penalties and offences[^c-08b3c59359637d7d5727b757ef144f24]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08b3c59359637d7d5727b757ef144f24]: Commencement: S. 148 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)
+[^c-08b3c59359637d7d5727b757ef144f24]: Commencement: S. 148 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)

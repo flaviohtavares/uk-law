@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Compulsory acquisition of rights etc.[^key-9b1af2db3a07326f54a72bcaaa3776f5]
+## 21. Compulsory acquisition of rights etc.[^c-9b1af2db3a07326f54a72bcaaa3776f5]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b1af2db3a07326f54a72bcaaa3776f5]: Commencement: Art. 21 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-9b1af2db3a07326f54a72bcaaa3776f5]: Commencement: Art. 21 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
 
 [^c23642911]: Marginal citation: [Section 8](https://www.legislation.gov.uk/uksi/2019/578/section/8) was amended by section 199 of and Schedule 17 to the [Housing and Planning Act 2016 (c.22)](https://www.legislation.gov.uk/ukpga/2016/22). Section 8 is modified by section 9 of and Schedule 3 (as amended by section 108 of the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) to the [Gas Act 1986 (c.44)](https://www.legislation.gov.uk/ukpga/1986/44), [section 151](https://www.legislation.gov.uk/ukpga/1986/44/section/151) of and Schedule 18 to the [Water Act 1989 (c.15)](https://www.legislation.gov.uk/ukpga/1989/15), [section 10](https://www.legislation.gov.uk/ukpga/1989/15/section/10) of and Schedule 3 to the [Electricity Act 1989 (c.29)](https://www.legislation.gov.uk/ukpga/1989/29), [Schedules 9](https://www.legislation.gov.uk/ukpga/1989/29/schedule/9) and 11 to the [Water Industry Act 1991 (c.56)](https://www.legislation.gov.uk/ukpga/1991/56) and Schedules 18 and 19 to the [Water Resources Act 1991 (c.57)](https://www.legislation.gov.uk/ukpga/1991/57). There were other amendments, and are other modifications, to that section that are not relevant to this Order.

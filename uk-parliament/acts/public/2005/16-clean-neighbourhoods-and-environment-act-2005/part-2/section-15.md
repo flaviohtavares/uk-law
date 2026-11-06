@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Notice of removal[^key-b5af8061ef9097c311eb114088f3fc2b][^key-0858a5adbef167edadd39b037e6741e8]
+## 15. Notice of removal[^c-b5af8061ef9097c311eb114088f3fc2b][^c-0858a5adbef167edadd39b037e6741e8]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5af8061ef9097c311eb114088f3fc2b]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2005/16/section/15) in force at 18.10.2005 for E. by [S.I. 2005/2896](https://www.legislation.gov.uk/uksi/2005/2896), [art. 3(d)](https://www.legislation.gov.uk/uksi/2005/2896/article/3/d) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2896/article/5/1))
+[^c-b5af8061ef9097c311eb114088f3fc2b]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2005/16/section/15) in force at 18.10.2005 for E. by [S.I. 2005/2896](https://www.legislation.gov.uk/uksi/2005/2896), [art. 3(d)](https://www.legislation.gov.uk/uksi/2005/2896/article/3/d) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2896/article/5/1))
 
-[^key-0858a5adbef167edadd39b037e6741e8]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2005/16/section/15) in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(d)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/d) (with [art. 9(1)(a)](https://www.legislation.gov.uk/wsi/2006/2797/article/9/1/a)[(2)](https://www.legislation.gov.uk/wsi/2006/2797/article/9/2))
+[^c-0858a5adbef167edadd39b037e6741e8]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2005/16/section/15) in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(d)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/d) (with [art. 9(1)(a)](https://www.legislation.gov.uk/wsi/2006/2797/article/9/1/a)[(2)](https://www.legislation.gov.uk/wsi/2006/2797/article/9/2))

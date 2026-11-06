@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 377ZB. Disapplication of PACE codes[^key-efdac5eb647b8a449991512c1efef19c]
+## 377ZB. Disapplication of PACE codes[^c-efdac5eb647b8a449991512c1efef19c]
 
 *Extent: E+W+N.I.*
 
@@ -27,4 +27,4 @@ The following provisions do not apply to an appropriate officer or the relevant 
 
 ## Annotations
 
-[^key-efdac5eb647b8a449991512c1efef19c]: Textual amendment: Ss. 377ZA, 377ZB inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 68](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/68) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-efdac5eb647b8a449991512c1efef19c]: Textual amendment: Ss. 377ZA, 377ZB inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 68](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/68) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

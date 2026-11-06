@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 436. Revocation of the 1993 Regulations[^key-faeda1afa3903b41cf08c6b524d5bb7b]
+## 436. Revocation of the 1993 Regulations[^c-faeda1afa3903b41cf08c6b524d5bb7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Insurance Companies (Cancellation) Regulations 1993 are revoked.
 
 ## Annotations
 
-[^key-faeda1afa3903b41cf08c6b524d5bb7b]: Commencement: Art. 436 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-faeda1afa3903b41cf08c6b524d5bb7b]: Commencement: Art. 436 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

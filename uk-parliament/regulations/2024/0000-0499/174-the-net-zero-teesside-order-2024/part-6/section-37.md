@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Deemed marine licence[^key-59f27cf9506d7951fc0f4c5168ac1f53]
+## 37. Deemed marine licence[^c-59f27cf9506d7951fc0f4c5168ac1f53]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The marine licences set out in Schedules 10 and 11 are deemed to have been issue
 
 ## Annotations
 
-[^key-59f27cf9506d7951fc0f4c5168ac1f53]: Commencement: Art. 37 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-59f27cf9506d7951fc0f4c5168ac1f53]: Commencement: Art. 37 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

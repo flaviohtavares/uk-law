@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. De-registration by the OfS[^key-901dfb6e0c7df62675d2ae5504de3d04][^key-d1087b3c5f48049c1fa6e1b5c556ae53]
+## 18. De-registration by the OfS[^c-901dfb6e0c7df62675d2ae5504de3d04][^c-d1087b3c5f48049c1fa6e1b5c556ae53]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-901dfb6e0c7df62675d2ae5504de3d04]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/29/section/18) in force at 1.4.2018 for specified purposes by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/b)
+[^c-901dfb6e0c7df62675d2ae5504de3d04]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/29/section/18) in force at 1.4.2018 for specified purposes by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/b)
 
-[^key-d1087b3c5f48049c1fa6e1b5c556ae53]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/29/section/18) in force at 1.8.2019 in so far as not already in force by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/b)
+[^c-d1087b3c5f48049c1fa6e1b5c556ae53]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/29/section/18) in force at 1.8.2019 in so far as not already in force by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/b)

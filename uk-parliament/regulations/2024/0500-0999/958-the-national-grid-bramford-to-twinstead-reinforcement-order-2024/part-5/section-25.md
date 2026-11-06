@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Temporary use of land by National Grid[^key-054a0485426cf1bf772de85189854b69]
+## 25. Temporary use of land by National Grid[^c-054a0485426cf1bf772de85189854b69]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-054a0485426cf1bf772de85189854b69]: Commencement: Art. 25 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-054a0485426cf1bf772de85189854b69]: Commencement: Art. 25 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

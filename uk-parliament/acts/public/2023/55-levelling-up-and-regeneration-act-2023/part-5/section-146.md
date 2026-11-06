@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. CLA infrastructure delivery strategy[^key-26527af04ed6137c18ffee4c0e9f3983]
+## 146. CLA infrastructure delivery strategy[^c-26527af04ed6137c18ffee4c0e9f3983]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26527af04ed6137c18ffee4c0e9f3983]: Commencement: S. 146 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-26527af04ed6137c18ffee4c0e9f3983]: Commencement: S. 146 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)

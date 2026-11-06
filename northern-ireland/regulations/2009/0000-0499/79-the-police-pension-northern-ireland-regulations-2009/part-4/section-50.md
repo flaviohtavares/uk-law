@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Reduction of pension in case of default[^key-86b733baff5a962411a2eb02a9318306]
+## 50. Reduction of pension in case of default[^c-86b733baff5a962411a2eb02a9318306]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ payable to him by them by an amount not exceeding a half of that to which he wou
 
 ## Annotations
 
-[^key-86b733baff5a962411a2eb02a9318306]: Commencement: Reg. 50 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-86b733baff5a962411a2eb02a9318306]: Commencement: Reg. 50 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

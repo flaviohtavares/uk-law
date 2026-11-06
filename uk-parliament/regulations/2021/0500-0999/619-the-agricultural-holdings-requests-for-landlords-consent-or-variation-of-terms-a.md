@@ -46,7 +46,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement, application and interpretation[^key-d0d5139fdf8851e6ea4122e1e94937f0]
+### 1. Citation, commencement, application and interpretation[^c-d0d5139fdf8851e6ea4122e1e94937f0]
 
 (1) These Regulations may be cited as the Agricultural Holdings (Requests for Landlord’s Consent or Variation of Terms and the Suitability Test) (England) Regulations 2021.
 
@@ -61,7 +61,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 2 — Requests for Landlord’s Consent or Variation of Terms
 
-### 2. Interpretation[^key-c7870d73e3e3ce5f3e9859a0d218e27e]
+### 2. Interpretation[^c-c7870d73e3e3ce5f3e9859a0d218e27e]
 
 In this Part—
 
@@ -69,9 +69,9 @@ In this Part—
   - (a) section 1 of the Agriculture Act 2020[^f00002] (powers of Secretary of State to give financial assistance),
   - (b) section 21 of that Act (powers of Secretary of State to give financial assistance in exceptional market conditions), or
   - (c) a scheme of the sort mentioned in section 2(4) of that Act (third party schemes);
-- “statutory duty” means a duty imposed by or under an Act of Parliament or assimilated direct[^key-2e801ef0d74dc0a0317b2901dc2ee184] legislation.
+- “statutory duty” means a duty imposed by or under an Act of Parliament or assimilated direct[^c-2e801ef0d74dc0a0317b2901dc2ee184] legislation.
 
-### 3. Request for landlord’s consent or variation of terms[^key-d6da407ed39a661daf993cae7794e3a3]
+### 3. Request for landlord’s consent or variation of terms[^c-d6da407ed39a661daf993cae7794e3a3]
 
 (1) A tenant of an agricultural holding may refer a qualifying request to arbitration under the 1986 Act.
 
@@ -123,7 +123,7 @@ In this Part—
 - (b) serves a counter-notice which consents to the request subject to conditions which are not acceptable to the tenant;
 - (c) serves a counter-notice refusing the request.
 
-### 4. Awards or determinations by the arbitrator or third party[^key-406ca6e673a977195cbc99d4ffad0641]
+### 4. Awards or determinations by the arbitrator or third party[^c-406ca6e673a977195cbc99d4ffad0641]
 
 (1) When a reference is made to an arbitrator or, as the case may be, a third party to determine a request in accordance with regulation 3, the arbitrator or third party may order the landlord to comply with the request (either in full or to the extent specified in the award or the determination) or make such other award or determination as the arbitrator or third party considers reasonable and just as between the landlord and the tenant having regard to all relevant matters including—
 
@@ -150,7 +150,7 @@ In this Part—
 
 ## PART 3 — The Suitability Test
 
-### 5. The Suitability Test[^key-96321f4ffb2066900d5c4bdf55605ce4]
+### 5. The Suitability Test[^c-96321f4ffb2066900d5c4bdf55605ce4]
 
 (1) This Part applies where the Tribunal[^f00004] is determining a person’s suitability to become the tenant of a holding in the case of a particular applicant under section 39(2), as between two or more applicants under section 39(6), or under section 53(5) of the 1986 Act[^f00005].
 
@@ -169,7 +169,7 @@ and having had regard to all relevant matters, the Tribunal must be satisfied th
 - (a) all offers as to rent in relation to the holding;
 - (b) the age of the person applying.
 
-### 6. Transitional and Revocation Provisions[^key-fa98956e81e7eccd85a648119a62e78f]
+### 6. Transitional and Revocation Provisions[^c-fa98956e81e7eccd85a648119a62e78f]
 
 (1) Paragraph (2) applies to any application to the Tribunal made under Part 4 of the 1986 Act after 1st September 2024 for a direction entitling the applicant to a tenancy of an agricultural holding on the death or retirement of a tenant where the date of death or the date of the giving of the retirement notice, as applicable, was before 1st September 2024.
 
@@ -177,11 +177,11 @@ and having had regard to all relevant matters, the Tribunal must be satisfied th
 
 (3) In this regulation “application” includes any proceedings arising out of any such application or any direction given in any such proceedings.
 
-**7.**[^key-c2eaad686df8803bdd52dbfa644bd3d6] The Agricultural Holdings (Transitional Provision) (England) Regulations 2021[^f00006] are revoked.
+**7.**[^c-c2eaad686df8803bdd52dbfa644bd3d6] The Agricultural Holdings (Transitional Provision) (England) Regulations 2021[^f00006] are revoked.
 
 ## PART 4 — Review
 
-### 8. Review[^key-3991a5f2f6b0cf2a114f52e948cc86be]
+### 8. Review[^c-3991a5f2f6b0cf2a114f52e948cc86be]
 
 (1) The Secretary of State must from time to time—
 
@@ -231,30 +231,30 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5). Section 19A was inserted by paragraph 7 of Schedule 3 to the Agriculture Act [2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), section 39(8) was substituted by paragraph 17 of that Schedule.
 
-[^key-d0d5139fdf8851e6ea4122e1e94937f0]: Commencement: Reg. 1 in force at 21.6.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/a)
+[^c-d0d5139fdf8851e6ea4122e1e94937f0]: Commencement: Reg. 1 in force at 21.6.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/a)
 
-[^key-c7870d73e3e3ce5f3e9859a0d218e27e]: Commencement: Reg. 2 in force at 21.6.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/a)
+[^c-c7870d73e3e3ce5f3e9859a0d218e27e]: Commencement: Reg. 2 in force at 21.6.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/a)
 
 [^f00002]: Footnote: [2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21)
 
-[^key-2e801ef0d74dc0a0317b2901dc2ee184]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/619/regulation/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 51](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/51)
+[^c-2e801ef0d74dc0a0317b2901dc2ee184]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/619/regulation/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 51](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/51)
 
-[^key-d6da407ed39a661daf993cae7794e3a3]: Commencement: Reg. 3 in force at 21.6.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/a)
+[^c-d6da407ed39a661daf993cae7794e3a3]: Commencement: Reg. 3 in force at 21.6.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/a)
 
 [^f00003]: Footnote: See section 96(1) of the 1986 Act for the definition of “third party determination” inserted by paragraph 24 of Schedule 4 to the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 
-[^key-406ca6e673a977195cbc99d4ffad0641]: Commencement: Reg. 4 in force at 21.6.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/a)
+[^c-406ca6e673a977195cbc99d4ffad0641]: Commencement: Reg. 4 in force at 21.6.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/a)
 
-[^key-96321f4ffb2066900d5c4bdf55605ce4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/619/regulation/5) in force at 1.9.2024, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/b)
+[^c-96321f4ffb2066900d5c4bdf55605ce4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/619/regulation/5) in force at 1.9.2024, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/b)
 
 [^f00004]: Footnote: See section 96(1) of the 1986 Act for the definition of “the Tribunal”.
 
 [^f00005]: Footnote: By virtue of section 53(6A), inserted by paragraph 18 of Schedule 3 to the 2020 Act, section 39(8) and (8A) applies to section 53 determinations as regards suitability.
 
-[^key-fa98956e81e7eccd85a648119a62e78f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2021/619/regulation/6) in force at 1.9.2024, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/b)
+[^c-fa98956e81e7eccd85a648119a62e78f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2021/619/regulation/6) in force at 1.9.2024, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/b)
 
-[^key-c2eaad686df8803bdd52dbfa644bd3d6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2021/619/regulation/7) in force at 1.9.2024, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/b)
+[^c-c2eaad686df8803bdd52dbfa644bd3d6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2021/619/regulation/7) in force at 1.9.2024, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/b)
 
 [^f00006]: Footnote: [S.I. 2021/324](https://www.legislation.gov.uk/uksi/2021/324)
 
-[^key-3991a5f2f6b0cf2a114f52e948cc86be]: Commencement: Reg. 8 in force at 21.6.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/a)
+[^c-3991a5f2f6b0cf2a114f52e948cc86be]: Commencement: Reg. 8 in force at 21.6.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/a)

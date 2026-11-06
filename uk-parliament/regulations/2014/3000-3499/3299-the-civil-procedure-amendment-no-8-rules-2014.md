@@ -46,33 +46,33 @@ Coming into force in accordance with rule 2
 
 The Civil Procedure Rule Committee, having power under section 2 of the Civil Procedure Act 1997[^f00001] to make rules of court under section 1 of that Act, after consulting in accordance with section 2(6)(a) of that Act, makes the following Rules:
 
-## 1. Citation, commencement and interpretation[^key-9702db99a8ce1a7c7382694b4a6e5d95][^key-9702db99a8ce1a7c7382694b4a6e5d95]
+## 1. Citation, commencement and interpretation[^c-9702db99a8ce1a7c7382694b4a6e5d95][^c-9702db99a8ce1a7c7382694b4a6e5d95]
 
 These Rules may be cited as the Civil Procedure (Amendment No. 8) Rules 2014.
 
-**2.**[^key-4dd611217b0b29999261ec80398fff0a] These Rules come into force as follows—
+**2.**[^c-4dd611217b0b29999261ec80398fff0a] These Rules come into force as follows—
 
 - (a) Rules 1 to 3 and 17 of these Rules come into force on 9th January 2015;
 - (b) Rules 4, 13 and 14 of these Rules come into force on 11th January 2015;
 - (c) Rules 5 to 12, 15, 16 and 18 of these Rules, and Schedules 1 and 2 to these Rules, come into force on 6th April 2015.
 
-**3.**[^key-11c45368aadc66a56a74c61062b3b0d8] In these Rules—
+**3.**[^c-11c45368aadc66a56a74c61062b3b0d8] In these Rules—
 
 - (a) a reference to a Part or rule by number alone means the Part or rule so numbered in the Civil Procedure Rules 1998[^f00002]; and
 - (b) a reference to an Order by number and prefixed “RSC” means the RSC Order so numbered in Schedule 1 to those Rules.
 
-## 4. Amendments to the Civil Procedure Rules 1998[^key-12bafc8007a36f64dc97ebc254ad98c3]
+## 4. Amendments to the Civil Procedure Rules 1998[^c-12bafc8007a36f64dc97ebc254ad98c3]
 
 The Civil Procedure Rules 1998 are amended in accordance with rules 5 to 16.
 
-**5.**[^key-c5e043570c2c62e8f013bb06b2c4909e] In rule 21.12—
+**5.**[^c-c5e043570c2c62e8f013bb06b2c4909e] In rule 21.12—
 
 - (a) in paragraph (1)—
   - (i) at the beginning, for “In” substitute “Subject to paragraph (1A), in”; and
   - (ii) after “incurs”, insert “costs or”;
 - (b) after paragraph (1), insert—
 
-  > (1A)[^key-0cd5278a9eda4e3c9dfc5336c8939077] Costs recoverable under this rule are limited to—
+  > (1A)[^c-0cd5278a9eda4e3c9dfc5336c8939077] Costs recoverable under this rule are limited to—
   >
   > - (a) costs incurred by or on behalf of a child and which have been assessed by way of detailed assessment pursuant to rule 46.4(2); or
   > - (b) costs incurred by or on behalf of a child by way of success fee under a conditional fee agreement or sum payable under a damages based agreement in a claim for damages for personal injury where the damages agreed or ordered to be paid do not exceed £25,000, where such costs have been assessed summarily pursuant to rule 46.4(5).
@@ -106,15 +106,15 @@ The Civil Procedure Rules 1998 are amended in accordance with rules 5 to 16.
 
   .
 
-**6.**[^key-6bcd65ae2796d4a1ec0b11a9d79bcc93] In rule 30.3(2)(c), after “in the type of claim in question” insert “and in particular the availability of a specialist judge sitting in an appropriate regional specialist court”.
+**6.**[^c-6bcd65ae2796d4a1ec0b11a9d79bcc93] In rule 30.3(2)(c), after “in the type of claim in question” insert “and in particular the availability of a specialist judge sitting in an appropriate regional specialist court”.
 
-**7.**[^key-1a114296437d591739f98e44ed7322bd] For Part 36, substitute Part 36 as set out in Schedule 1 to these Rules.
+**7.**[^c-1a114296437d591739f98e44ed7322bd] For Part 36, substitute Part 36 as set out in Schedule 1 to these Rules.
 
-**8.**[^key-a0e377f33be5df645433de5107e95cb0] In rule 37.3, in the words in parentheses at the end of the rule, for “36.9” substitute “36.11”.
+**8.**[^c-a0e377f33be5df645433de5107e95cb0] In rule 37.3, in the words in parentheses at the end of the rule, for “36.9” substitute “36.11”.
 
-**9.**[^key-70310e11a797feab732271878584e792] In rule 44.9(1)(b), for “36.10” substitute “36.13”.
+**9.**[^c-70310e11a797feab732271878584e792] In rule 44.9(1)(b), for “36.10” substitute “36.13”.
 
-**10.**[^key-7ba7c7b048d59276bf778e7899c6f3ca] In Part 45—
+**10.**[^c-7ba7c7b048d59276bf778e7899c6f3ca] In Part 45—
 
 - (a) in rule 45.19—
   - (i) in paragraph (2A)—
@@ -161,7 +161,7 @@ The Civil Procedure Rules 1998 are amended in accordance with rules 5 to 16.
 
     .
 
-**11.**[^key-b1a1c1b9075a9cf81a87e00346c3331a] In rule 47.20—
+**11.**[^c-b1a1c1b9075a9cf81a87e00346c3331a] In rule 47.20—
 
 - (a) in paragraph (4)—
   - (i) for sub-paragraph (c) substitute—
@@ -174,9 +174,9 @@ The Civil Procedure Rules 1998 are amended in accordance with rules 5 to 16.
     - (bb) for the words after “substitute” to the end substitute ““If such sum is not paid within 14 days of acceptance of the offer, or such other period as has been agreed, the receiving party may apply for a final costs certificate for the unpaid sum.”;”; and
 - (b) in paragraph (7), for “36.14” substitute “36.17”.
 
-**12.**[^key-2b48a44362e2367fb2bcf67e32bdc8ad] In rule 52.12, in the words in parentheses at the end of the rule, for “36.3” substitute “36.4”.
+**12.**[^c-2b48a44362e2367fb2bcf67e32bdc8ad] In rule 52.12, in the words in parentheses at the end of the rule, for “36.3” substitute “36.4”.
 
-**13.**[^key-5f2b2abe73f940c20ecbaaeaea41ba2b] In Part 74—
+**13.**[^c-5f2b2abe73f940c20ecbaaeaea41ba2b] In Part 74—
 
 - (a) in the table of contents, after the entry for rule 74.33 insert—
 
@@ -390,7 +390,7 @@ The Civil Procedure Rules 1998 are amended in accordance with rules 5 to 16.
   >
   > (4) On an application under this rule, the court must make such orders or give such directions as may be necessary to give effect to the Article 14 certificate.
 
-**14.**[^key-cf797a3bba760ff4f03ffada76af963b] In Rule 81.9—
+**14.**[^c-cf797a3bba760ff4f03ffada76af963b] In Rule 81.9—
 
 - (a) for paragraph (2) substitute—
 
@@ -406,18 +406,18 @@ The Civil Procedure Rules 1998 are amended in accordance with rules 5 to 16.
 
   .
 
-**15.**[^key-ca3b719cba59e60aa2c3c093f72ad312] After Part 86, insert Part 87 as set out in Schedule 2 to these Rules.
+**15.**[^c-ca3b719cba59e60aa2c3c093f72ad312] After Part 86, insert Part 87 as set out in Schedule 2 to these Rules.
 
-**16.**[^key-4d43f1c6fccf1c26500a86b1960c7e85] In Schedule 1 to the Civil Procedure Rules 1998, omit RSC Order 54.
+**16.**[^c-4d43f1c6fccf1c26500a86b1960c7e85] In Schedule 1 to the Civil Procedure Rules 1998, omit RSC Order 54.
 
-## 17. Amendment of the Civil Procedure (Amendment No. 7) Rules 2014[^key-8673f0eea2ce7d08988e61e5473e4742][^key-8673f0eea2ce7d08988e61e5473e4742]
+## 17. Amendment of the Civil Procedure (Amendment No. 7) Rules 2014[^c-8673f0eea2ce7d08988e61e5473e4742][^c-8673f0eea2ce7d08988e61e5473e4742]
 
 In rule 5 of the Civil Procedure (Amendment No. 7) Rules 2014[^f00005]—
 
 - (a) in paragraph (8), for “rule 74.5(6)” substitute “rule 74.5(1)”; and
 - (b) in paragraph (9)(a), for “omit” substitute “insert”.
 
-## 18. Transitional provision[^key-d09755fc696fc4e12d795e4afc10ec81]
+## 18. Transitional provision[^c-d09755fc696fc4e12d795e4afc10ec81]
 
 (1) The amendments made by rules 7 to 9, 10(b), (d) and (e), 11 and 12 of and Schedule 1 to these Rules apply only in relation to Part 36 offers made on or after 6th April 2015, except as provided in paragraph (2).
 
@@ -466,7 +466,7 @@ Ministry of Justice
 
 16th December 2014
 
-## SCHEDULE 1[^key-a0c8eb433a1e94a14abf853e1bd3b4e1]
+## SCHEDULE 1[^c-a0c8eb433a1e94a14abf853e1bd3b4e1]
 
 Rule 7
 
@@ -1124,7 +1124,7 @@ Rule 7
 >
 > (“Deductible amount” is defined in rule 36.22(1)(d).)
 
-## SCHEDULE 2[^key-ca0ef4a4581a15629f342773075c8099]
+## SCHEDULE 2[^c-ca0ef4a4581a15629f342773075c8099]
 
 Rule 15
 
@@ -1314,53 +1314,53 @@ These Rules amend the Civil Procedure Rules 1998 (CPR) ([SI 1998/3132](https://w
 
 [^f00001]: Footnote: [1997 c.12](https://www.legislation.gov.uk/ukpga/1997/12). Section 2(1) was substituted by the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), section 15 and Schedule 4, Part 1. Section 1(3) was substituted by section 82(1) of the Courts Act [2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39) and further amended by the Constitutional Reform Act 2005, sections 15 and 146 and Schedule 4, Part 1, paragraphs 261 and 262 and Schedule 18. Section 1(1) was amended by the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), section 17(5) and Schedule 9, Part 3, paragraph 67(a).
 
-[^key-9702db99a8ce1a7c7382694b4a6e5d95]: Commencement: Rule 1 in force at 9.1.2015, see [rule 2(a)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/a)
+[^c-9702db99a8ce1a7c7382694b4a6e5d95]: Commencement: Rule 1 in force at 9.1.2015, see [rule 2(a)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/a)
 
-[^key-4dd611217b0b29999261ec80398fff0a]: Commencement: Rule 2 in force at 9.1.2015, see [rule 2(a)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/a)
+[^c-4dd611217b0b29999261ec80398fff0a]: Commencement: Rule 2 in force at 9.1.2015, see [rule 2(a)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/a)
 
-[^key-11c45368aadc66a56a74c61062b3b0d8]: Commencement: Rule 3 in force at 9.1.2015, see [rule 2(a)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/a)
+[^c-11c45368aadc66a56a74c61062b3b0d8]: Commencement: Rule 3 in force at 9.1.2015, see [rule 2(a)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/a)
 
 [^f00002]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132), to which there are relevant amendments in [S.I. 1999/1008](https://www.legislation.gov.uk/uksi/1999/1008), [S.I. 2000/2092](https://www.legislation.gov.uk/uksi/2000/2092), [S.I. 2000/221](https://www.legislation.gov.uk/uksi/2000/221), [S.I. 2003/3361](https://www.legislation.gov.uk/uksi/2003/3361), [S.I. 2005/2292](https://www.legislation.gov.uk/uksi/2005/2292), [S.I. 2006/3435](https://www.legislation.gov.uk/uksi/2006/3435), [S.I. 2007/2204](https://www.legislation.gov.uk/uksi/2007/2204), [S.I. 2009/3390](https://www.legislation.gov.uk/uksi/2009/3390), [S.I. 2010/1953](https://www.legislation.gov.uk/uksi/2010/1953), [S.I. 2013/262](https://www.legislation.gov.uk/uksi/2013/262), [S.I. 2013/1695](https://www.legislation.gov.uk/uksi/2013/1695), [S.I. 2004/2072](https://www.legislation.gov.uk/uksi/2004/2072), [S.I. 2013/1974](https://www.legislation.gov.uk/uksi/2013/1974) and [S.I. 2014/407](https://www.legislation.gov.uk/uksi/2014/407).
 
-[^key-12bafc8007a36f64dc97ebc254ad98c3]: Commencement: Rule 4 in force at 11.1.2015, see [rule 2(b)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/b)
+[^c-12bafc8007a36f64dc97ebc254ad98c3]: Commencement: Rule 4 in force at 11.1.2015, see [rule 2(b)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/b)
 
-[^key-c5e043570c2c62e8f013bb06b2c4909e]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2014/3299/article/5) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
+[^c-c5e043570c2c62e8f013bb06b2c4909e]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2014/3299/article/5) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
 
-[^key-0cd5278a9eda4e3c9dfc5336c8939077]: Textual amendment: Words in [rule 5(b)](https://www.legislation.gov.uk/uksi/2014/3299/rule/5/b) substituted (5.4.2015) by [The Civil Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/670)](https://www.legislation.gov.uk/uksi/2015/670), [rules 2(1)](https://www.legislation.gov.uk/uksi/2015/670/rule/2/1), [11](https://www.legislation.gov.uk/uksi/2015/670/rule/11)
+[^c-0cd5278a9eda4e3c9dfc5336c8939077]: Textual amendment: Words in [rule 5(b)](https://www.legislation.gov.uk/uksi/2014/3299/rule/5/b) substituted (5.4.2015) by [The Civil Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/670)](https://www.legislation.gov.uk/uksi/2015/670), [rules 2(1)](https://www.legislation.gov.uk/uksi/2015/670/rule/2/1), [11](https://www.legislation.gov.uk/uksi/2015/670/rule/11)
 
-[^key-6bcd65ae2796d4a1ec0b11a9d79bcc93]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2014/3299/article/6) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
+[^c-6bcd65ae2796d4a1ec0b11a9d79bcc93]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2014/3299/article/6) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
 
-[^key-1a114296437d591739f98e44ed7322bd]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2014/3299/article/7) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
+[^c-1a114296437d591739f98e44ed7322bd]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2014/3299/article/7) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
 
-[^key-a0e377f33be5df645433de5107e95cb0]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2014/3299/article/8) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
+[^c-a0e377f33be5df645433de5107e95cb0]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2014/3299/article/8) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
 
-[^key-70310e11a797feab732271878584e792]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2014/3299/article/9) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
+[^c-70310e11a797feab732271878584e792]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2014/3299/article/9) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
 
-[^key-7ba7c7b048d59276bf778e7899c6f3ca]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2014/3299/article/10) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
+[^c-7ba7c7b048d59276bf778e7899c6f3ca]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2014/3299/article/10) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
 
-[^key-b1a1c1b9075a9cf81a87e00346c3331a]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2014/3299/article/11) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
+[^c-b1a1c1b9075a9cf81a87e00346c3331a]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2014/3299/article/11) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
 
-[^key-2b48a44362e2367fb2bcf67e32bdc8ad]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2014/3299/article/12) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
+[^c-2b48a44362e2367fb2bcf67e32bdc8ad]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2014/3299/article/12) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
 
-[^key-5f2b2abe73f940c20ecbaaeaea41ba2b]: Commencement: Rule 13 in force at 11.1.2015, see [rule 2(b)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/b)
+[^c-5f2b2abe73f940c20ecbaaeaea41ba2b]: Commencement: Rule 13 in force at 11.1.2015, see [rule 2(b)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/b)
 
 [^f00003]: Footnote: [1997 c.40](https://www.legislation.gov.uk/ukpga/1997/40), amended by the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), section 17(5), Schedule 9 Part 2, paragraph 39(a).
 
 [^f00004]: Footnote: OJ No. L 181, 29.6.2013, p.4.
 
-[^key-cf797a3bba760ff4f03ffada76af963b]: Commencement: Rule 14 in force at 11.1.2015, see [rule 2(b)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/b)
+[^c-cf797a3bba760ff4f03ffada76af963b]: Commencement: Rule 14 in force at 11.1.2015, see [rule 2(b)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/b)
 
-[^key-ca3b719cba59e60aa2c3c093f72ad312]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2014/3299/article/15) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
+[^c-ca3b719cba59e60aa2c3c093f72ad312]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2014/3299/article/15) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
 
-[^key-4d43f1c6fccf1c26500a86b1960c7e85]: Commencement: Rule 16 in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c)
+[^c-4d43f1c6fccf1c26500a86b1960c7e85]: Commencement: Rule 16 in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c)
 
-[^key-8673f0eea2ce7d08988e61e5473e4742]: Commencement: Rule 17 in force at 9.1.2015, see [rule 2(a)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/a)
+[^c-8673f0eea2ce7d08988e61e5473e4742]: Commencement: Rule 17 in force at 9.1.2015, see [rule 2(a)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/a)
 
 [^f00005]: Footnote: [S.I. 2014/2948](https://www.legislation.gov.uk/uksi/2014/2948)
 
-[^key-d09755fc696fc4e12d795e4afc10ec81]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2014/3299/article/18) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
+[^c-d09755fc696fc4e12d795e4afc10ec81]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2014/3299/article/18) in force at 6.4.2015, see [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
 
-[^key-a0c8eb433a1e94a14abf853e1bd3b4e1]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) in force at 6.4.2015, see [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
+[^c-a0c8eb433a1e94a14abf853e1bd3b4e1]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) in force at 6.4.2015, see [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
 
 [^f00006]: Footnote: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30).
 
@@ -1378,7 +1378,7 @@ These Rules amend the Civil Procedure Rules 1998 (CPR) ([SI 1998/3132](https://w
 
 [^f00013]: Footnote: Section 1A was inserted by the Child Maintenance and Other Payments Act [2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), section 54.
 
-[^key-ca0ef4a4581a15629f342773075c8099]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3299/schedule/2) in force at 6.4.2015, see [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
+[^c-ca0ef4a4581a15629f342773075c8099]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3299/schedule/2) in force at 6.4.2015, see [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/article/2/c)
 
 [^f00014]: Footnote: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955).
 

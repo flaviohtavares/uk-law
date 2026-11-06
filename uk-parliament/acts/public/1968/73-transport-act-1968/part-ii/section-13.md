@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-44d50ad155cb52c8b0bf403e5b6f443f] The Authority shall have power to make grants to the Executive for any purpose.
+(1)[^c-44d50ad155cb52c8b0bf403e5b6f443f] The Authority shall have power to make grants to the Executive for any purpose.
 
-(2)[^key-3b111f97d278bd3bf3ab95c4e79c3273] This section does not apply to—
+(2)[^c-3b111f97d278bd3bf3ab95c4e79c3273] This section does not apply to—
 
 - (a) the West Yorkshire Combined Authority, or
 - (b) the West Midlands Combined Authority.
@@ -48,9 +48,9 @@ the Secretary of State shall determine the proportions in which such expenditure
 
 [^c15311781]: Textual amendment: S. 13 substituted (E.W.) by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 57(6)](https://www.legislation.gov.uk/ukpga/1985/67/section/57/6), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/1985/67/schedule/3/paragraph/7)
 
-[^key-44d50ad155cb52c8b0bf403e5b6f443f]: Textual amendment: S. 13 renumbered as s. 13(1) (E.W.) (1.4.2014) by [The West Yorkshire Combined Authority Order 2014 (S.I. 2014/864)](https://www.legislation.gov.uk/uksi/2014/864), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/864/article/1/2), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2014/864/schedule/2/paragraph/7/a)
+[^c-44d50ad155cb52c8b0bf403e5b6f443f]: Textual amendment: S. 13 renumbered as s. 13(1) (E.W.) (1.4.2014) by [The West Yorkshire Combined Authority Order 2014 (S.I. 2014/864)](https://www.legislation.gov.uk/uksi/2014/864), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/864/article/1/2), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2014/864/schedule/2/paragraph/7/a)
 
-[^key-3b111f97d278bd3bf3ab95c4e79c3273]: Textual amendment: [S. 13(2)](https://www.legislation.gov.uk/ukpga/1968/73/section/13/2) substituted (E.W.) (17.6.2016) by [The West Midlands Combined Authority Order 2016 (S.I. 2016/653)](https://www.legislation.gov.uk/uksi/2016/653), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2016/653/schedule/2/paragraph/7)
+[^c-3b111f97d278bd3bf3ab95c4e79c3273]: Textual amendment: [S. 13(2)](https://www.legislation.gov.uk/ukpga/1968/73/section/13/2) substituted (E.W.) (17.6.2016) by [The West Midlands Combined Authority Order 2016 (S.I. 2016/653)](https://www.legislation.gov.uk/uksi/2016/653), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2016/653/schedule/2/paragraph/7)
 
 [^c15311761]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 

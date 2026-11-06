@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Consideration of responses to proposals and determination as to whether to proceed – local authority proposed[^key-31a23ed778036f7e55788d9e1ff8eb32]
+## 10. Consideration of responses to proposals and determination as to whether to proceed – local authority proposed[^c-31a23ed778036f7e55788d9e1ff8eb32]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31a23ed778036f7e55788d9e1ff8eb32]: Commencement: Reg. 10 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-31a23ed778036f7e55788d9e1ff8eb32]: Commencement: Reg. 10 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Powers of commander of aircraft.[^key-390cb37bbb72c25948a6e46b40e07e81]
+## 94. Powers of commander of aircraft.[^c-390cb37bbb72c25948a6e46b40e07e81]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ and, subject to subsection (8) below, subsections (4) and (5) of section 92 abov
 
 ## Annotations
 
-[^key-390cb37bbb72c25948a6e46b40e07e81]: Modification: [S. 94](https://www.legislation.gov.uk/ukpga/1982/16/section/94): power to apply conferred (with modifications) (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 52(2)(a)](https://www.legislation.gov.uk/ukpga/2018/5/section/52/2/a), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ss)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ss)
+[^c-390cb37bbb72c25948a6e46b40e07e81]: Modification: [S. 94](https://www.legislation.gov.uk/ukpga/1982/16/section/94): power to apply conferred (with modifications) (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 52(2)(a)](https://www.legislation.gov.uk/ukpga/2018/5/section/52/2/a), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ss)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ss)

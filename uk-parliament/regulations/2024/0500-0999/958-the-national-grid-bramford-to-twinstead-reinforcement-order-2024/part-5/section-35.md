@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Application of Part 1 of the 1965 Act[^key-8b07ef4cfab63177b1a1d231c2f39d22]
+## 35. Application of Part 1 of the 1965 Act[^c-8b07ef4cfab63177b1a1d231c2f39d22]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) for “section 23 of the Acquisition of Land Act 1981 (application to the High Court in respect of compulsory purchase order)” substitute “section 118 of the Planning Act 2008 (legal challenges relating to applications for orders granting development consent)”; and
 - (b) for “the three year period mentioned in section 4” substitute “the five year period mentioned in article 32 (time limit for exercise of authority to acquire land and rights compulsorily) of the National Grid (Bramford to Twinstead Reinforcement) Order 2024”.
 
-(4) In section 11A (powers of entry: further notices[^key-23011b72970af6c8d0541a3ee08bab4f] of entry)—
+(4) In section 11A (powers of entry: further notices[^c-23011b72970af6c8d0541a3ee08bab4f] of entry)—
 
 - (a) in subsection (1)(a), after “land” insert “under that provision”; and
 - (b) in subsection (2), after “land” insert “under that provision”.
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b07ef4cfab63177b1a1d231c2f39d22]: Commencement: Art. 35 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-8b07ef4cfab63177b1a1d231c2f39d22]: Commencement: Art. 35 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-23011b72970af6c8d0541a3ee08bab4f]: Textual amendment: Words in [art. 35(4)](https://www.legislation.gov.uk/uksi/2024/958/article/35/4) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-23011b72970af6c8d0541a3ee08bab4f]: Textual amendment: Words in [art. 35(4)](https://www.legislation.gov.uk/uksi/2024/958/article/35/4) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1

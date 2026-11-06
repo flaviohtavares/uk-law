@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Committees: power to amend or repeal[^key-33ef0509c6975d429e3045e4dca78452][^key-9534d797a6454d68f391b8f2631cec05]
+## 12. Committees: power to amend or repeal[^c-33ef0509c6975d429e3045e4dca78452][^c-9534d797a6454d68f391b8f2631cec05]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33ef0509c6975d429e3045e4dca78452]: Commencement: S. 12 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-33ef0509c6975d429e3045e4dca78452]: Commencement: S. 12 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-9534d797a6454d68f391b8f2631cec05]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/30/section/12) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/a)
+[^c-9534d797a6454d68f391b8f2631cec05]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/30/section/12) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/a)

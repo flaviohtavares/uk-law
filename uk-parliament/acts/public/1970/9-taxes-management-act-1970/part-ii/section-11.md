@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Return of profits.[^key-3a51222f9e36d94855e256e665ae9184]
+## 11. Return of profits.[^c-3a51222f9e36d94855e256e665ae9184]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a51222f9e36d94855e256e665ae9184]: Textual amendment: Ss. 10, 11 repealed (with effect in accordance with s. 117(4)(5) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/1998/36/schedule/19/paragraph/1), [Sch. 27 Pt. 3(28)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/28); [S.I. 1998/3173](https://www.legislation.gov.uk/uksi/1998/3173), art. 2
+[^c-3a51222f9e36d94855e256e665ae9184]: Textual amendment: Ss. 10, 11 repealed (with effect in accordance with s. 117(4)(5) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/1998/36/schedule/19/paragraph/1), [Sch. 27 Pt. 3(28)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/28); [S.I. 1998/3173](https://www.legislation.gov.uk/uksi/1998/3173), art. 2

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Confirmation decisions: risk assessments[^key-1240e59e758f8fd7db8ab42b08572c4d][^key-371e9899ab14168b409666dc0be967d7]
+## 134. Confirmation decisions: risk assessments[^c-1240e59e758f8fd7db8ab42b08572c4d][^c-371e9899ab14168b409666dc0be967d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1240e59e758f8fd7db8ab42b08572c4d]: Commencement: S. 134 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-1240e59e758f8fd7db8ab42b08572c4d]: Commencement: S. 134 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-371e9899ab14168b409666dc0be967d7]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2023/50/section/134) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-371e9899ab14168b409666dc0be967d7]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2023/50/section/134) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

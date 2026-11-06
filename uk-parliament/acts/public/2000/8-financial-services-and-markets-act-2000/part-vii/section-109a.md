@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109A. Scheme reports: ring-fencing transfer schemes[^key-a44f870698aaf74c326eb8c84db16e37]
+## 109A. Scheme reports: ring-fencing transfer schemes[^c-a44f870698aaf74c326eb8c84db16e37]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a44f870698aaf74c326eb8c84db16e37]: Textual amendment: S. 109A inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/8); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-a44f870698aaf74c326eb8c84db16e37]: Textual amendment: S. 109A inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/8); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

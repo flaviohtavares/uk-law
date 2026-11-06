@@ -22,7 +22,7 @@ summary: ''
 
 Section 18
 
-### PART 1 — SERVICES TO WHICH SECTION 19 (MUTUAL RECOGNITION) DOES NOT APPLY[^key-74b6fe3a87aa8bcd11d78a00086cd7f7]
+### PART 1 — SERVICES TO WHICH SECTION 19 (MUTUAL RECOGNITION) DOES NOT APPLY[^c-74b6fe3a87aa8bcd11d78a00086cd7f7]
 
 | Services | (examples of those services) |
 | --- | --- |
@@ -43,7 +43,7 @@ Section 18
 | Waste services | disposal of waste, importation or exportation of waste, waste processing |
 | Water supply and sewerage services |  |
 
-### PART 2 — SERVICES TO WHICH SECTIONS 20 AND 21 (NON-DISCRIMINATION) DO NOT APPLY[^key-a19201001868ac35c8c4a1bd80276488]
+### PART 2 — SERVICES TO WHICH SECTIONS 20 AND 21 (NON-DISCRIMINATION) DO NOT APPLY[^c-a19201001868ac35c8c4a1bd80276488]
 
 | Services | (examples of those services) |
 | --- | --- |
@@ -61,13 +61,13 @@ Section 18
 | Waste services | disposal of waste, importation or exportation of waste, waste processing |
 | Water supply and sewerage services |  |
 
-### PART 3 — Authorisation requirements to which section 19 (mutual recognition) does not apply[^key-09db010104cb41935bae9aed0bc175d3]
+### PART 3 — Authorisation requirements to which section 19 (mutual recognition) does not apply[^c-09db010104cb41935bae9aed0bc175d3]
 
 |  |
 | --- |
 | Any authorisation requirement in connection with taxation |
 
-### PART 4 — Regulatory requirements to which sections 20 and 21 (non-discrimination) do not apply[^key-a5d175f2194d1dc67d294ffe51720c6d]
+### PART 4 — Regulatory requirements to which sections 20 and 21 (non-discrimination) do not apply[^c-a5d175f2194d1dc67d294ffe51720c6d]
 
 |  |
 | --- |
@@ -75,10 +75,10 @@ Section 18
 
 ## Annotations
 
-[^key-74b6fe3a87aa8bcd11d78a00086cd7f7]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2020/27/schedule/2/part/1) substituted (24.11.2023) by [The United Kingdom Internal Market Act 2020 (Services Exclusions) Regulations 2023 (S.I. 2023/1263)](https://www.legislation.gov.uk/uksi/2023/1263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1263/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2023/1263/regulation/2)
+[^c-74b6fe3a87aa8bcd11d78a00086cd7f7]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2020/27/schedule/2/part/1) substituted (24.11.2023) by [The United Kingdom Internal Market Act 2020 (Services Exclusions) Regulations 2023 (S.I. 2023/1263)](https://www.legislation.gov.uk/uksi/2023/1263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1263/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2023/1263/regulation/2)
 
-[^key-a19201001868ac35c8c4a1bd80276488]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2020/27/schedule/2/part/2) substituted (24.11.2023) by [The United Kingdom Internal Market Act 2020 (Services Exclusions) Regulations 2023 (S.I. 2023/1263)](https://www.legislation.gov.uk/uksi/2023/1263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1263/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2023/1263/regulation/2)
+[^c-a19201001868ac35c8c4a1bd80276488]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2020/27/schedule/2/part/2) substituted (24.11.2023) by [The United Kingdom Internal Market Act 2020 (Services Exclusions) Regulations 2023 (S.I. 2023/1263)](https://www.legislation.gov.uk/uksi/2023/1263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1263/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2023/1263/regulation/2)
 
-[^key-09db010104cb41935bae9aed0bc175d3]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/ukpga/2020/27/schedule/2/part/3) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/q)
+[^c-09db010104cb41935bae9aed0bc175d3]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/ukpga/2020/27/schedule/2/part/3) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/q)
 
-[^key-a5d175f2194d1dc67d294ffe51720c6d]: Commencement: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/ukpga/2020/27/schedule/2/part/4) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/q)
+[^c-a5d175f2194d1dc67d294ffe51720c6d]: Commencement: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/ukpga/2020/27/schedule/2/part/4) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/q)

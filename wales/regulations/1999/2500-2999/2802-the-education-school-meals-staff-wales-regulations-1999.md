@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The Education (School Meals Staff) (Wales) Regulations 1999 (revoked)[^key-0d3925b6790e9a8da52ffebbe26172f8]
+The Education (School Meals Staff) (Wales) Regulations 1999 (revoked)[^c-0d3925b6790e9a8da52ffebbe26172f8]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into force
 
 1st September 1999
 
-[^key-0d3925b6790e9a8da52ffebbe26172f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d3925b6790e9a8da52ffebbe26172f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-0d3925b6790e9a8da52ffebbe26172f8]
+## 1. Citation, commencement, extent and interpretation[^c-0d3925b6790e9a8da52ffebbe26172f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointment, discipline, suspension and dismissal of school meals staff[^key-0d3925b6790e9a8da52ffebbe26172f8]
+## 2. Appointment, discipline, suspension and dismissal of school meals staff[^c-0d3925b6790e9a8da52ffebbe26172f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Appointment etc. of school meals staff at schools where governing body responsible for school meals but meals continue to be provided by local education authority[^key-0d3925b6790e9a8da52ffebbe26172f8]
+## 3. Appointment etc. of school meals staff at schools where governing body responsible for school meals but meals continue to be provided by local education authority[^c-0d3925b6790e9a8da52ffebbe26172f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Appointment etc. of school meals staff at schools where governing body responsible for school meals[^key-0d3925b6790e9a8da52ffebbe26172f8]
+## 4. Appointment etc. of school meals staff at schools where governing body responsible for school meals[^c-0d3925b6790e9a8da52ffebbe26172f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0d3925b6790e9a8da52ffebbe26172f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d3925b6790e9a8da52ffebbe26172f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0d3925b6790e9a8da52ffebbe26172f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d3925b6790e9a8da52ffebbe26172f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0d3925b6790e9a8da52ffebbe26172f8]: Textual amendment: Regulations revoked (1.4.2006) by [The Staffing of Maintained Schools (Wales) Regulations 2006 (S.I. 2006/873)](https://www.legislation.gov.uk/uksi/2006/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/873/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2006/873/regulation/2/a)
+[^c-0d3925b6790e9a8da52ffebbe26172f8]: Textual amendment: Regulations revoked (1.4.2006) by [The Staffing of Maintained Schools (Wales) Regulations 2006 (S.I. 2006/873)](https://www.legislation.gov.uk/uksi/2006/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/873/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2006/873/regulation/2/a)

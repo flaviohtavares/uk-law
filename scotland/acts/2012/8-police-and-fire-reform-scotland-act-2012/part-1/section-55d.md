@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55D. Steps following arbitration[^key-5d25d78d39c8dc71c846ecb9f2435688]
+## 55D. Steps following arbitration[^c-5d25d78d39c8dc71c846ecb9f2435688]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d25d78d39c8dc71c846ecb9f2435688]: Textual amendment: [Pt. 1 Ch. 8A](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/8A) inserted (9.3.2023 for specified purposes, 17.8.2023 in so far as not already in force) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 113(1)](https://www.legislation.gov.uk/asp/2016/1/section/113/1), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2) (with [s. 114(2)](https://www.legislation.gov.uk/asp/2016/1/section/114/2)); [S.S.I. 2023/49](https://www.legislation.gov.uk/ssi/2023/49), [art. 2(a)](https://www.legislation.gov.uk/ssi/2023/49/article/2/a); [S.S.I. 2023/139](https://www.legislation.gov.uk/ssi/2023/139), [art. 2(a)](https://www.legislation.gov.uk/ssi/2023/139/article/2/a)
+[^c-5d25d78d39c8dc71c846ecb9f2435688]: Textual amendment: [Pt. 1 Ch. 8A](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/8A) inserted (9.3.2023 for specified purposes, 17.8.2023 in so far as not already in force) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 113(1)](https://www.legislation.gov.uk/asp/2016/1/section/113/1), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2) (with [s. 114(2)](https://www.legislation.gov.uk/asp/2016/1/section/114/2)); [S.S.I. 2023/49](https://www.legislation.gov.uk/ssi/2023/49), [art. 2(a)](https://www.legislation.gov.uk/ssi/2023/49/article/2/a); [S.S.I. 2023/139](https://www.legislation.gov.uk/ssi/2023/139), [art. 2(a)](https://www.legislation.gov.uk/ssi/2023/139/article/2/a)

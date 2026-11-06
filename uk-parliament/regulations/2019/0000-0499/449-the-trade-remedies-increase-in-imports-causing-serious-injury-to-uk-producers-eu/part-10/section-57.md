@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57.[^key-a59e539392f94879dc3469caff8e1e45]
+## 57.[^c-a59e539392f94879dc3469caff8e1e45]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Regulation 13 (revision of scope of an investigation) has effect as if—
 
 ## Annotations
 
-[^key-a59e539392f94879dc3469caff8e1e45]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2019/449/regulation/57) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-a59e539392f94879dc3469caff8e1e45]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2019/449/regulation/57) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

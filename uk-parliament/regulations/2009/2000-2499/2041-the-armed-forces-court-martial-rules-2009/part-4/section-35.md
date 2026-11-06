@@ -30,12 +30,12 @@ summary: ''
 
 (5) This rule applies to any proceedings with lay members except—
 
-- (a) sentencing proceedings, where every offender who falls to be sentenced was convicted in trial or appellate proceedings of at least one offence for which he falls to be sentenced; [^key-54497782eb6262059bf73fdebac8d18a]...
-- (b) variation proceedings ; and[^key-c574f654b731f5d26cdeb71f11cbc00e]
+- (a) sentencing proceedings, where every offender who falls to be sentenced was convicted in trial or appellate proceedings of at least one offence for which he falls to be sentenced; [^c-54497782eb6262059bf73fdebac8d18a]...
+- (b) variation proceedings ; and[^c-c574f654b731f5d26cdeb71f11cbc00e]
 - (c) review of sentence proceedings.
 
 ## Annotations
 
-[^key-54497782eb6262059bf73fdebac8d18a]: Textual amendment: Word in [rule 35(5)](https://www.legislation.gov.uk/uksi/2009/2041/rule/35/5) omitted (16.10.2024) by virtue of [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2024/1036/rule/13/a)
+[^c-54497782eb6262059bf73fdebac8d18a]: Textual amendment: Word in [rule 35(5)](https://www.legislation.gov.uk/uksi/2009/2041/rule/35/5) omitted (16.10.2024) by virtue of [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2024/1036/rule/13/a)
 
-[^key-c574f654b731f5d26cdeb71f11cbc00e]: Textual amendment: [Rule 35(5)(c)](https://www.legislation.gov.uk/uksi/2009/2041/rule/35/5/c) and word inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2024/1036/rule/13/b)
+[^c-c574f654b731f5d26cdeb71f11cbc00e]: Textual amendment: [Rule 35(5)(c)](https://www.legislation.gov.uk/uksi/2009/2041/rule/35/5/c) and word inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2024/1036/rule/13/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Community governors[^key-9c3e19f815d03d72b0c4338668bf6f75]
+## 8. Community governors[^c-9c3e19f815d03d72b0c4338668bf6f75]
 
 *Extent: E+W*
 
@@ -32,12 +32,12 @@ summary: ''
 - (a) a registered pupil at the school;
 - (b) eligible to be a teacher or staff governor of the school.
 
-(3) A person is disqualified from appointment as a community governor of a school if he or she is an elected member of the local authority[^key-b2dccc1bd8da2d10070394513ffc4689].
+(3) A person is disqualified from appointment as a community governor of a school if he or she is an elected member of the local authority[^c-b2dccc1bd8da2d10070394513ffc4689].
 
 (4) Paragraphs (2) and (3) do not apply in the case of an additional community governor.
 
 ## Annotations
 
-[^key-9c3e19f815d03d72b0c4338668bf6f75]: Commencement: Reg. 8 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-9c3e19f815d03d72b0c4338668bf6f75]: Commencement: Reg. 8 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-b2dccc1bd8da2d10070394513ffc4689]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/8/3) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(5)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/5)
+[^c-b2dccc1bd8da2d10070394513ffc4689]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/8/3) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(5)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/5)

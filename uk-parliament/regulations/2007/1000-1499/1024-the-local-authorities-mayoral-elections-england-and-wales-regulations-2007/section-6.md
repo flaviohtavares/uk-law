@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Free delivery of election addresses[^key-eb11b493ebce82bc2e162c8a35c49364]
+## 6. Free delivery of election addresses[^c-eb11b493ebce82bc2e162c8a35c49364]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb11b493ebce82bc2e162c8a35c49364]: Commencement: Reg. 6 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1024/regulation/1/2)
+[^c-eb11b493ebce82bc2e162c8a35c49364]: Commencement: Reg. 6 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1024/regulation/1/2)
 
 [^f00018]: Footnote: As to the persons entitled to vote at mayoral elections, see section 43(1) of the Local Government Act 2000.

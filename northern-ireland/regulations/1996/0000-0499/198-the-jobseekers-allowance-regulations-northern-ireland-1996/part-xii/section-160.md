@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 160. Modifications of Articles 21 and 22 of the Order[^key-16de71085fa7d686d28eff52fef1ae4a]
+## 160. Modifications of Articles 21 and 22 of the Order[^c-16de71085fa7d686d28eff52fef1ae4a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ For the purposes of Articles 21 and 22 of the Order (circumstances in which a jo
 
 ## Annotations
 
-[^key-16de71085fa7d686d28eff52fef1ae4a]: Commencement: Reg. 160 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-16de71085fa7d686d28eff52fef1ae4a]: Commencement: Reg. 160 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

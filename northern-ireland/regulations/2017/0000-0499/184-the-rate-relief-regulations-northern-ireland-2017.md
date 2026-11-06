@@ -56,9 +56,9 @@ These Regulations may be cited as the Rate Relief Regulations (Northern Ireland)
 - “**the Contributions and Benefits Act**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c22867441]
 - “**the 1977 Order**” means the Rates (Northern Ireland) Order 1977;
 - “**the 2003 Order**” means the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 [^c22867451]
-- “[^key-51d9f1f780320a71f8f7dad93298f6ba]**the Universal Credit (Claims and Payments) Regulations**” means the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016
+- “[^c-51d9f1f780320a71f8f7dad93298f6ba]**the Universal Credit (Claims and Payments) Regulations**” means the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016
 - “**the Universal Credit Regulations**” means the Universal Credit Regulations (Northern Ireland) 2016 [^c22867461];
-- “[^key-55a052fd09037c35af5e457d2e166447]**the Universal Credit (Transitional Provisions) Regulations**” means the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016;
+- “[^c-55a052fd09037c35af5e457d2e166447]**the Universal Credit (Transitional Provisions) Regulations**” means the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016;
 - “**the Welfare Reform Order**” means the Welfare Reform (Northern Ireland) Order 2015 [^c22867471];
 - “**attribution period**” means a period of one month—
   - (a) initially beginning from and including the date of claim to the day before the corresponding date in the following month or if that date does not exist the closest date before that date had it existed; and
@@ -68,7 +68,7 @@ These Regulations may be cited as the Rate Relief Regulations (Northern Ireland)
 - “**claim**” means a claim under regulation 3;
 - “**claimant**” means a person making a claim under regulation 3 or 4;
 - “**close relative**” means a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-daughter, brother, sister, or if any of the preceding persons is one member of a couple, the other member of that couple;
-- “couple” means—[^key-3e5cdd05aa5d2f9dd75ab094353f3d6e][^key-08a9ca16bc3646b577ee60d1d7e20a27]
+- “couple” means—[^c-3e5cdd05aa5d2f9dd75ab094353f3d6e][^c-08a9ca16bc3646b577ee60d1d7e20a27]
   - (a) two people who are married to, or civil partners of, each other and are members of the same household, or
   - (b) two people who are not married to, or civil partners of, each other but are living together as if spouses of each other;
 - “**Department**” means the Department of Finance;
@@ -82,17 +82,17 @@ These Regulations may be cited as the Rate Relief Regulations (Northern Ireland)
   - (a) a couple;
   - (b) a couple and a member of the same household who is a close relative;
 - “**housing benefit**” means housing benefit under section 129 of the Contributions and Benefits Act [^c22867501] and for the purposes of these regulations any low income rate relief;
-- “**income**” shall be construed in accordance with regulation 10(7)[^key-344b3966ced7390803a0337c4adcee37] ;
+- “**income**” shall be construed in accordance with regulation 10(7)[^c-344b3966ced7390803a0337c4adcee37] ;
 - “**independent hospital**” has the meaning assigned to it by Article 2(2) of the 2003 Order;
 - “**liable for rates**” means chargeable to occupied rates in accordance with Part II (Rating) of the 1977 Order as modified by regulation 11 for the purposes of these regulations;
 - “**low income rate relief**” means a rate relief in accordance with the Rate Relief (General) Regulations (Northern Ireland) 2007 [^c22867511] or the Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 [^c22867521];
-- “**maximum amount**” means the maximum amount applied to the universal credit award in accordance with Article 13(2) of the Welfare Reform Order with the exception of any transitional element provided for in regulations 53 to 58, and 64 of and[^key-65c3f7137c8e5473acb7eada33262957] schedules 2 and 3[^key-ea9c51eef1aba0c11498575b30aecbec] to the Universal Credit (Transitional Provisions) Regulations extant on the relevant date;
+- “**maximum amount**” means the maximum amount applied to the universal credit award in accordance with Article 13(2) of the Welfare Reform Order with the exception of any transitional element provided for in regulations 53 to 58, and 64 of and[^c-65c3f7137c8e5473acb7eada33262957] schedules 2 and 3[^c-ea9c51eef1aba0c11498575b30aecbec] to the Universal Credit (Transitional Provisions) Regulations extant on the relevant date;
 - “**nursing home**” has the same meaning as in Article 11 of the 2003 Order;
 - “**official computer system**” means a computer system maintained by or on behalf of the Department to—
   - (a) send or receive any claim or information; or
   - (b) process or store any claim or information;
 - “**overpayment**” means any payment by way of rate relief to which there is no entitlement under these regulations (whether on initial decision or as subsequently revised or further revised);
-- “partner” means where a claimant is a member of a couple, the other member of that couple;[^key-6b3819f7e09d9175f426f9f7a552344b]
+- “partner” means where a claimant is a member of a couple, the other member of that couple;[^c-6b3819f7e09d9175f426f9f7a552344b]
 - “**payment**” includes crediting an account;
 - “**rate relief**” means rate relief in accordance with these regulations except within the term “low income rate relief”;
 - “**relevant authority**” means the authority administering rate relief on behalf of the Department in accordance with these regulations;
@@ -101,18 +101,18 @@ These Regulations may be cited as the Rate Relief Regulations (Northern Ireland)
   - (b) every year thereafter on the anniversary of that date of claim: and
   - (c) where the date of claim is 29th February, the anniversary dates will be 28th February every year thereafter;
 - “**residential care home**” has the same meaning as in Article 10 of the 2003 Order;
-- “**universal credit**” means universal credit under Part 2 of The Welfare Reform (Northern Ireland) Order 2015 [^c22867531] including any modification made to that Order or regulations prescribed by that Order by the Universal Credit (Transitional Provisions) Regulations unless otherwise stated[^key-6bc2d3a69b23b1549c98c37da6b9184a] ;
+- “**universal credit**” means universal credit under Part 2 of The Welfare Reform (Northern Ireland) Order 2015 [^c22867531] including any modification made to that Order or regulations prescribed by that Order by the Universal Credit (Transitional Provisions) Regulations unless otherwise stated[^c-6bc2d3a69b23b1549c98c37da6b9184a] ;
 - “**universal credit award**” shall be construed in accordance with regulation 10(6);
 - “**universal credit information**” means the universal credit award, income and maximum amount figures determined in accordance with these regulations.
 - “**writing**” includes writing produced as a result of electronic communications used in accordance with the Schedule.
 
-(2)[^key-8b623b359a6a2908d30e0253402c7d27] For the purposes of these regulations any apportionment made to any of the figures in the universal credit information in accordance with regulation 22A(2) (assessment period cycle to remain the same following change in the first date of entitlement) or 24 (apportionment where re-claim is delayed after loss of employment) of the universal credit regulations shall be ignored.
+(2)[^c-8b623b359a6a2908d30e0253402c7d27] For the purposes of these regulations any apportionment made to any of the figures in the universal credit information in accordance with regulation 22A(2) (assessment period cycle to remain the same following change in the first date of entitlement) or 24 (apportionment where re-claim is delayed after loss of employment) of the universal credit regulations shall be ignored.
 
-(3) Subject to paragraph (4)[^key-f762b7e3fd2f7413d4cd7fcd353498f4] , the Interpretation Act (Northern Ireland) 1954 [^c22867541] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly
+(3) Subject to paragraph (4)[^c-f762b7e3fd2f7413d4cd7fcd353498f4] , the Interpretation Act (Northern Ireland) 1954 [^c22867541] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly
 
 (4) For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in this period.
 
-(5)[^key-d8acbd45419fea8ab41756da04613aa1] Where two people are parties to a polygamous marriage, the fact that they are husband and wife is to be disregarded if—
+(5)[^c-d8acbd45419fea8ab41756da04613aa1] Where two people are parties to a polygamous marriage, the fact that they are husband and wife is to be disregarded if—
 
 - (a) one is a party to an earlier marriage that still subsists; and
 - (b) the other party to that earlier marriage is living in the same household;
@@ -129,11 +129,11 @@ and accordingly the person who is not a party to the earlier marriage shall for 
 
 (2) Except as provided in paragraph (3), a claim for rate relief must be made by means of an electronic communication in accordance with the provisions set out in the Schedule and completed in accordance with any instructions given by the relevant authority for that purpose.
 
-(3) Where the Department is of the view that the process referred to in paragraph 2[^key-d9d7efc81b71a0dfa18698723ad7bf54] needs to be facilitated it shall make available support arrangements for a claimant.
+(3) Where the Department is of the view that the process referred to in paragraph 2[^c-d9d7efc81b71a0dfa18698723ad7bf54] needs to be facilitated it shall make available support arrangements for a claimant.
 
-(4) In the case of a couple [^key-4276451e5999ef2ddc4034e215715f59]... a claim shall be made by whichever one of them they agree should so claim or, in default of agreement, by such one of them as the relevant authority shall determine.
+(4) In the case of a couple [^c-4276451e5999ef2ddc4034e215715f59]... a claim shall be made by whichever one of them they agree should so claim or, in default of agreement, by such one of them as the relevant authority shall determine.
 
-(5)[^key-426475885408f6b54ea55538b26a3973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-426475885408f6b54ea55538b26a3973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 4. Person unable to act
 
@@ -144,7 +144,7 @@ and accordingly the person who is not a party to the earlier marriage shall for 
 
 that controller or attorney, as the case may be, may make a claim for rate relief on behalf of that person.
 
-(2) Where paragraph (1) does not apply and a person who is liable for rates is for the time being unable to act and the Department for Communities has appointed a person to act on his behalf for the purposes of regulation 52(1) of the Universal Credit (Claims and Payments) Regulations[^key-3c4023d5aa7b644b39b9b62a91854e73] the relevant authority may, if that person agrees, treat him as if he had been appointed by them under paragraph (3).
+(2) Where paragraph (1) does not apply and a person who is liable for rates is for the time being unable to act and the Department for Communities has appointed a person to act on his behalf for the purposes of regulation 52(1) of the Universal Credit (Claims and Payments) Regulations[^c-3c4023d5aa7b644b39b9b62a91854e73] the relevant authority may, if that person agrees, treat him as if he had been appointed by them under paragraph (3).
 
 (3) Subject to paragraph (4), the relevant authority may upon receipt of a written application made by a person appoint that person (“**the appointee**”) to act on behalf of the claimant and to exercise on behalf of the claimant any right to which the claimant might be entitled under these regulations and to receive and deal with any rate rebate sums payable to the claimant.
 
@@ -162,7 +162,7 @@ that controller or attorney, as the case may be, may make a claim for rate relie
 
 (1) Subject to the provisions of these regulations, where a claim for rate relief is received or treated as received within three months of the date the first payment of universal credit is issued, following the initial decision to award universal credit, the date of claim will be the first day of entitlement to such universal credit claim.
 
-(1A)[^key-7a6ec3fde794cd7559f99d02425d2e54] Subject to the provisions of these regulations where a revision in accordance with regulation 13 results in a disallowance of rate relief and the claimant would have been entitled to rate relief at any time between the effective date of that decision and the date that decision is made if a new claim had been made—
+(1A)[^c-7a6ec3fde794cd7559f99d02425d2e54] Subject to the provisions of these regulations where a revision in accordance with regulation 13 results in a disallowance of rate relief and the claimant would have been entitled to rate relief at any time between the effective date of that decision and the date that decision is made if a new claim had been made—
 
 - (a) where the relevant authority is aware that there is such entitlement at the time that decision is made, a claim may be treated as made in accordance with paragraph (1) for any such period;
 - (b) where the relevant authority is not aware of such entitlement the three month period referred to in paragraph (1) for any claim in that period shall start from the date the decision to revise is issued.
@@ -176,7 +176,7 @@ that controller or attorney, as the case may be, may make a claim for rate relie
 
 (3) For the purposes of paragraph (1) where a claim is not received within the times specified in paragraph (1) or (2) but is received within one month of the date of issue of the next rate bill following the death of a former partner who was, at the date of his death entitled to rate relief in respect of the same dwelling, the date of claim or claims will be the first day of entitlement to any universal credit claim made on or after that date of death until the claim for rate relief is determined.
 
-(4) Subject to paragraphs (13) and (14), where[^key-6703413f3b4516dca5da665e9b698d64] a claim for rate relief is not received, or treated as received within a time specified in paragraphs (1) to (3), the date of claim will be—
+(4) Subject to paragraphs (13) and (14), where[^c-6703413f3b4516dca5da665e9b698d64] a claim for rate relief is not received, or treated as received within a time specified in paragraphs (1) to (3), the date of claim will be—
 
 - (a) 3 months before the date it was received or treated as received if there is entitlement to universal credit on that date.
 - (b) where there is no entitlement to universal credit on the date specified in sub-paragraph (a), the first day of entitlement of any universal credit claim made between that date and the date the claim for rate relief is determined.
@@ -200,13 +200,13 @@ within one month from the date on which the claimant is first informed of the de
 
 (11) In the case of a claim for rate relief where the defect is not rectified in accordance with paragraph (9), the claim for rate relief will be treated as received on the date that the defect is rectified.
 
-(11A)[^key-c1103a2ba4df65da124d3525193244b6] For the purposes of these regulations where a new award of universal credit is made to a claimant couple in accordance with regulation 22(5) of the Universal Credit Regulations any award of universal credit for a claimant that subsisted on the day before that new award is effective from shall be treated as ending on that day.
+(11A)[^c-c1103a2ba4df65da124d3525193244b6] For the purposes of these regulations where a new award of universal credit is made to a claimant couple in accordance with regulation 22(5) of the Universal Credit Regulations any award of universal credit for a claimant that subsisted on the day before that new award is effective from shall be treated as ending on that day.
 
-(12) Subject to paragraphs (13) and (14) where[^key-47db235fa5d3a7d314e57c0476794ae2] a claimant makes a claim for rate relief and there are any periods where there is no entitlement to universal credit before the claim for rate relief has been determined, that claim for rate relief shall be treated as a multiple claim for each new universal credit award up to the date of determination of that rate relief claim and the date of claim for each of those claims will be the date of first entitlement of each of the universal credit awards within that period.
+(12) Subject to paragraphs (13) and (14) where[^c-47db235fa5d3a7d314e57c0476794ae2] a claimant makes a claim for rate relief and there are any periods where there is no entitlement to universal credit before the claim for rate relief has been determined, that claim for rate relief shall be treated as a multiple claim for each new universal credit award up to the date of determination of that rate relief claim and the date of claim for each of those claims will be the date of first entitlement of each of the universal credit awards within that period.
 
 (13) For a date of claim to apply in accordance with this regulation, the claimant must otherwise be entitled to rate relief.
 
-(14)[^key-612f50a851c2d2d5cc78d4660dde32a9] Where paragraph (13) applies the date of claim will be the date or dates that the claimant would otherwise become entitled to rate relief between—
+(14)[^c-612f50a851c2d2d5cc78d4660dde32a9] Where paragraph (13) applies the date of claim will be the date or dates that the claimant would otherwise become entitled to rate relief between—
 
 - (a) the date that would in accordance with this regulation otherwise be the date of claim; and
 - (b) the date the decision on the claim is made.
@@ -251,17 +251,17 @@ A claimant who makes a claim for rate relief shall be entitled to it from the da
 
 - (a) he is liable for rates in respect of a dwelling in Northern Ireland which he occupies as his home and remains so liable;
 - (b) he has eligible rates calculated in accordance with regulation 11;
-- (c) subject to paragraphs (2) and (2A)[^key-a54cd381866fa34165dcff10fd4acf3b] he is not entitled to housing benefit;
-- (d)[^key-3b60c18a506856ac299721a3d0cd3f92] he has an award of universal credit and that award continues; and
+- (c) subject to paragraphs (2) and (2A)[^c-a54cd381866fa34165dcff10fd4acf3b] he is not entitled to housing benefit;
+- (d)[^c-3b60c18a506856ac299721a3d0cd3f92] he has an award of universal credit and that award continues; and
 - (e) either, for the attribution period—
   - (i) his income does not exceed the maximum amount; or
   - (ii) his income exceeds that amount, but only by so much that there is an amount remaining if the deduction for which paragraph (3)(b) provides is made.
 
-(2) Where Part 10 of these regulations applies and entitlement to housing benefit is only by virtue of regulation 3(2)(a) of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 [^c22867591] (housing benefit in respect of specified accommodation or temporary accommodation[^key-34eeca19b1748ee142d6155a04d21691] ) then if the claimant is otherwise entitled to rate relief he shall be entitled to rate relief for the other dwelling occupied as his home as if the claimant was not in such specified accommodation or temporary accommodation , or entitled to housing benefit in respect of it, for the purposes of those regulations.
+(2) Where Part 10 of these regulations applies and entitlement to housing benefit is only by virtue of regulation 3(2)(a) of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 [^c22867591] (housing benefit in respect of specified accommodation or temporary accommodation[^c-34eeca19b1748ee142d6155a04d21691] ) then if the claimant is otherwise entitled to rate relief he shall be entitled to rate relief for the other dwelling occupied as his home as if the claimant was not in such specified accommodation or temporary accommodation , or entitled to housing benefit in respect of it, for the purposes of those regulations.
 
-(2A)[^key-1bd3a3daccb488b692ff43df3d18ca8f] Where regulation 6(2A) or 47(1)(a)[^key-7e6fbdd586892bb6ba70a46b896565d9] of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 applies, rate relief shall be calculated as if the award of housing benefit in the form of a rent rebate or allowance terminated at the same time as housing benefit in the form of a rate rebate for the same property in accordance with regulation 6(2) or 47(1)(b) respectively of those regulations.
+(2A)[^c-1bd3a3daccb488b692ff43df3d18ca8f] Where regulation 6(2A) or 47(1)(a)[^c-7e6fbdd586892bb6ba70a46b896565d9] of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 applies, rate relief shall be calculated as if the award of housing benefit in the form of a rent rebate or allowance terminated at the same time as housing benefit in the form of a rate rebate for the same property in accordance with regulation 6(2) or 47(1)(b) respectively of those regulations.
 
-(2B)[^key-abb9aa824328127ec101c2dc52e7e872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2B)[^c-abb9aa824328127ec101c2dc52e7e872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where a person is entitled to rate relief, then—
 
@@ -270,32 +270,32 @@ A claimant who makes a claim for rate relief shall be entitled to it from the da
 
 (4) Where the relevant authority receives information from the Department for Communities that information shall be accepted without seeking verification from other sources.
 
-(5) Notwithstanding paragraph (4) a relevant authority may delay making a decision in relation to rate relief if an issue arises as to whether the universal credit information is correct pending confirmation from the Department for Communities[^key-0ca9710002b92ad9ff46b157456f0d99] .
+(5) Notwithstanding paragraph (4) a relevant authority may delay making a decision in relation to rate relief if an issue arises as to whether the universal credit information is correct pending confirmation from the Department for Communities[^c-0ca9710002b92ad9ff46b157456f0d99] .
 
-(6) For the purposes of these regulations[^key-8e08daa8c879c01dcde77623b4b96b72] “universal credit award” shall include payments on account made to the claimant in accordance with Part 2 of the Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 [^c22867601] as if universal credit was awarded without the application of that Part and—
+(6) For the purposes of these regulations[^c-8e08daa8c879c01dcde77623b4b96b72] “universal credit award” shall include payments on account made to the claimant in accordance with Part 2 of the Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 [^c22867601] as if universal credit was awarded without the application of that Part and—
 
 - (a) shall exclude any payment made under—
-  - (i) Part 3 of the Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 or regulation 17 of the Universal Credit (Transitional Provisions) Regulations (advances)[^key-b6225237eee2f506a248c4346b2e86aa] ;
-  - (ii)[^key-612d413a1978b0ab01e8617711431e8f] regulations 53 to 58, and 64 of and schedules 2 and 3[^key-776882bdae874a9de46f8a2d9299df68] to the Universal Credit (Transitional Provisions) Regulations (transitional protection element);
+  - (i) Part 3 of the Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 or regulation 17 of the Universal Credit (Transitional Provisions) Regulations (advances)[^c-b6225237eee2f506a248c4346b2e86aa] ;
+  - (ii)[^c-612d413a1978b0ab01e8617711431e8f] regulations 53 to 58, and 64 of and schedules 2 and 3[^c-776882bdae874a9de46f8a2d9299df68] to the Universal Credit (Transitional Provisions) Regulations (transitional protection element);
   - (iii) Part 8, Chapter 3 of the Universal Credit Regulations (hardship payment);
   - (iv) payments made in accordance with Article 137 of the Welfare Reform Order (payments to persons suffering financial disadvantage);
 - (b) where deductions are made in accordance with—
   - (i) Part 8, Chapter 2 of the Universal Credit Regulations (sanctions);
   - (ii) Part 5 of the Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016 [^c22867611] (recovery of overpayments);
-  - (iii) The Social Security (Payments on Account, Overpayments and Recovery) Regulations (Northern Ireland) 1988 [^c22867621] , regulations 96 to 104 of the Housing Benefit Regulations (Northern Ireland) 2006 and regulations 77 to 85 of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^key-bb634e7040231c78bc9dcbf91e8e0d3f] ;
-  - (iv) regulation 8 of the Universal Credit (Transitional Provisions) Regulations [^key-099bb0af488b795296523daf202f5bd1]... (treatment of overpayments);
+  - (iii) The Social Security (Payments on Account, Overpayments and Recovery) Regulations (Northern Ireland) 1988 [^c22867621] , regulations 96 to 104 of the Housing Benefit Regulations (Northern Ireland) 2006 and regulations 77 to 85 of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^c-bb634e7040231c78bc9dcbf91e8e0d3f] ;
+  - (iv) regulation 8 of the Universal Credit (Transitional Provisions) Regulations [^c-099bb0af488b795296523daf202f5bd1]... (treatment of overpayments);
   - (v) section 69ZH of the Administration Act (recovery of hardship payments);
-  - (vi) regulation 55, of and Schedules 5 and 6 of the Universal Credit (Claims and Payments) Regulations[^key-458271076e24d2083f4c62038a03c8ea] [^c22867631] (deduction from benefit and direct payment to third parties and in respect of child support maintenance and payment to persons with care) as modified by regulation 18 of the Universal Credit (Transitional Provisions) Regulations[^key-71e5295f1d4257d69fa193ce19ad68a6] ;
+  - (vi) regulation 55, of and Schedules 5 and 6 of the Universal Credit (Claims and Payments) Regulations[^c-458271076e24d2083f4c62038a03c8ea] [^c22867631] (deduction from benefit and direct payment to third parties and in respect of child support maintenance and payment to persons with care) as modified by regulation 18 of the Universal Credit (Transitional Provisions) Regulations[^c-71e5295f1d4257d69fa193ce19ad68a6] ;
   - (vii) the Social Security (Loss of Benefit) Regulations (Northern Ireland) 2002 [^c22867641];
   - (viii) the Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (recovery of payments) [^c22867651],
 
   the award shall be as if these deductions had not been made; and
-- (c) where deductions are made in accordance with Article 101 of the Welfare Reform Order (the benefit cap) as modified by regulations 6B(a)[^key-803c930838d690d6ba69979fb641786c] , 7 and 61C of the Universal Credit (Transitional Provisions) Regulations[^key-5368b9959d923a752cc54db399d03139] the award shall be the award after this deduction has been made.
+- (c) where deductions are made in accordance with Article 101 of the Welfare Reform Order (the benefit cap) as modified by regulations 6B(a)[^c-803c930838d690d6ba69979fb641786c] , 7 and 61C of the Universal Credit (Transitional Provisions) Regulations[^c-5368b9959d923a752cc54db399d03139] the award shall be the award after this deduction has been made.
 
-(7)[^key-83c78e910b88c4f54a496795614ff358] Subject to paragraph (8) for the purposes of these regulations[^key-dbb554adca54322b89d9240688398571] “income” means—
+(7)[^c-83c78e910b88c4f54a496795614ff358] Subject to paragraph (8) for the purposes of these regulations[^c-dbb554adca54322b89d9240688398571] “income” means—
 
-- (a) income as assessed for universal credit in accordance with Part 6, Chapters 2 and 3 of the Universal Credit Regulations as adjusted by regulation 29(7) and as modified by[^key-8e3aa7ffda0f1fd03cb7c06f3f07fb8c] regulation 6B and 61B[^key-bee7ee6100d3342418cca2e8952f1d8f] of the Universal Credit (Transitional Provision) Regulations , that was applied to the universal credit award extant on the relevant date with the following modifications—
-  - (i) income from earnings shall be adjusted to the net earnings as assessed for universal credit in accordance with Part 6, Chapter 2 of the Universal Credit Regulations as modified by regulation 3A of the Universal Credit (Transitional Provisions) Regulations[^key-a3df0c2fadeb5968ae190d73f59b9a3f] less—
+- (a) income as assessed for universal credit in accordance with Part 6, Chapters 2 and 3 of the Universal Credit Regulations as adjusted by regulation 29(7) and as modified by[^c-8e3aa7ffda0f1fd03cb7c06f3f07fb8c] regulation 6B and 61B[^c-bee7ee6100d3342418cca2e8952f1d8f] of the Universal Credit (Transitional Provision) Regulations , that was applied to the universal credit award extant on the relevant date with the following modifications—
+  - (i) income from earnings shall be adjusted to the net earnings as assessed for universal credit in accordance with Part 6, Chapter 2 of the Universal Credit Regulations as modified by regulation 3A of the Universal Credit (Transitional Provisions) Regulations[^c-a3df0c2fadeb5968ae190d73f59b9a3f] less—
     - (aa) any payment in lieu of holiday pay where holidays are not taken;
     - (bb) any payment in lieu of notice where notice has not been worked; and
     - (cc) half of the universal credit work allowance determined in accordance with regulation 23(2) of the Universal Credit Regulations;
@@ -353,20 +353,20 @@ shall be adjusted so that the rate relief payable for that dwelling within that 
 
 - (a) that decision arose from an official error;
 - (b) the decision was made in ignorance of, or was based upon a mistake as to, some material fact;
-- (c)[^key-822ad1a9ad95283e9012f032755cc04d] liability for eligible rates ends;
-- (d)[^key-951b56e2fae0172a8ebba45079ec833c] entitlement to universal credit—
+- (c)[^c-822ad1a9ad95283e9012f032755cc04d] liability for eligible rates ends;
+- (d)[^c-951b56e2fae0172a8ebba45079ec833c] entitlement to universal credit—
   - (i) ends;
-  - (ii) would have ended if any transitional element provided for in regulations 53 to 58, and 64 of and schedules 2 and 3[^key-87cf3a83d7bcd26574aba8a3d48014bb] to the Universal Credit (Transitional Provisions) Regulations was not included, or
+  - (ii) would have ended if any transitional element provided for in regulations 53 to 58, and 64 of and schedules 2 and 3[^c-87cf3a83d7bcd26574aba8a3d48014bb] to the Universal Credit (Transitional Provisions) Regulations was not included, or
   - (iii) is treated as ending in accordance with regulation 5(11A);
 - (e) entitlement to housing benefit commences except where regulation 10(2) applies;
 - (f) there is a change to the amount of the eligible rates, as prescribed in regulation 11 for which the claimant is liable;
 - (g) there is a change or cessation of occupation in the dwelling the claimant occupies or is treated as occupying as his home in accordance with Part 9 of these regulations; or
-- (h) on the next relevant date following an award of rate relief, the claimant has earned income or had earned income at the last relevant date[^key-2923b0d34917f5b45290283f46fcc8c0].
-- (i)[^key-61104ab406e5cdac7aa82c38b88c81bd] regulation 10(7)(i)(aa) or (bb) and (8) apply in accordance with the requirement in regulation 14 (7A) to provide appropriate evidence
+- (h) on the next relevant date following an award of rate relief, the claimant has earned income or had earned income at the last relevant date[^c-2923b0d34917f5b45290283f46fcc8c0].
+- (i)[^c-61104ab406e5cdac7aa82c38b88c81bd] regulation 10(7)(i)(aa) or (bb) and (8) apply in accordance with the requirement in regulation 14 (7A) to provide appropriate evidence
 
-(1A)[^key-bc694fc9a272269bd2e4ec7b263348f9] Where paragraph (1)(c),(d) or (e) applies the award of rate relief will end on the effective date of the decision as determined by regulation 14.
+(1A)[^c-bc694fc9a272269bd2e4ec7b263348f9] Where paragraph (1)(c),(d) or (e) applies the award of rate relief will end on the effective date of the decision as determined by regulation 14.
 
-(2) Subject to paragraph (3) where a decision revised in accordance with paragraph (1) does not end entitlement, entitlement shall be re-determined in accordance with regulation 10[^key-f3a3409d96626d841422b7e7489442e4] using the relevant universal credit information in place at the last relevant date.
+(2) Subject to paragraph (3) where a decision revised in accordance with paragraph (1) does not end entitlement, entitlement shall be re-determined in accordance with regulation 10[^c-f3a3409d96626d841422b7e7489442e4] using the relevant universal credit information in place at the last relevant date.
 
 (3) Where the effective date of the revision in accordance with regulation 14 is the same as the relevant date, the universal credit information applicable at that date shall be applied.
 
@@ -387,9 +387,9 @@ but excludes any error caused wholly or partly by any person or body not specifi
 
 (1) Where the relevant authority decides that the date from which a relevant decision took effect was erroneous, the revised decision shall take effect from the date the original decision should have taken effect had the error not occurred and may be further revised in accordance with this regulation.
 
-(2) A decision made by virtue of regulation 13(1)(a) [^key-dbdef323d0c8f14cd55b0c6306e84f45]... shall have the same effective date as the decision being so revised.
+(2) A decision made by virtue of regulation 13(1)(a) [^c-dbdef323d0c8f14cd55b0c6306e84f45]... shall have the same effective date as the decision being so revised.
 
-(3)[^key-6a4374684cc40def85951a8013faffa4] The effective date of a decision made in accordance with regulation 13(1)(b)—
+(3)[^c-6a4374684cc40def85951a8013faffa4] The effective date of a decision made in accordance with regulation 13(1)(b)—
 
 - (a) which is more advantageous to the person affected than it would otherwise have been but for that ignorance or mistake shall be:—
   - (i) where the relevant authority is notified by the claimant of that ignorance or mistake, with such appropriate evidence as it requires, within 3 months of the date the decision to be revised was issued, the same effective date as the decision being so revised; or
@@ -399,7 +399,7 @@ but excludes any error caused wholly or partly by any person or body not specifi
 
 (4) A decision made by virtue of regulation 13(1)(d) shall have effect from the day after the last day of that entitlement to universal credit;
 
-(5) Subject to paragraphs (6) and (9) a decision made by virtue of regulation 13(1)(c), (e)[^key-9dedcdde8f23d36f78fcc2e320b3e485], (f) and (g) shall have effect from the day the change occurs.
+(5) Subject to paragraphs (6) and (9) a decision made by virtue of regulation 13(1)(c), (e)[^c-9dedcdde8f23d36f78fcc2e320b3e485], (f) and (g) shall have effect from the day the change occurs.
 
 (6) For the purposes of this regulation, where a change referred to in regulation13(1)(f) and (g) occurs and the revising decision is more advantageous to the claimant—
 
@@ -408,7 +408,7 @@ but excludes any error caused wholly or partly by any person or body not specifi
 
 (7) A decision made in accordance with regulation 13(1)(h) shall take effect from the same date in the following month or if that date does not exist the closest date before that date had it existed.
 
-(7A)[^key-ff4c57e861bead3a3fc12288dda54b3c] Where a decision is made in accordance with regulation 13(1)(i) and the effective date of the decision to be revised occurs in the period between 28th March 2020 and 4th January 2021 and the relevant authority is notified with the appropriate evidence as required in regulation 10(8) —
+(7A)[^c-ff4c57e861bead3a3fc12288dda54b3c] Where a decision is made in accordance with regulation 13(1)(i) and the effective date of the decision to be revised occurs in the period between 28th March 2020 and 4th January 2021 and the relevant authority is notified with the appropriate evidence as required in regulation 10(8) —
 
 - (a) before 4th April 2021, it shall have the same effective date as the decision being so revised;
 - (b) where sub-paragraph (a) does not apply, the effective date will be the date the relevant authority receives the appropriate evidence.
@@ -473,7 +473,7 @@ that person shall be under a duty to notify that change of circumstances by givi
 
 (1) If the claimant is dissatisfied with the result of the review conducted in accordance with regulation 17, he may within three months of the serving of the notice of the result of the review, appeal to the Valuation Tribunal where paragraph (2) applies.
 
-(2)[^key-c1e3bfc22e11ad4bd8c8b5d84c571307] This paragraph applies to decisions made in accordance with—
+(2)[^c-c1e3bfc22e11ad4bd8c8b5d84c571307] This paragraph applies to decisions made in accordance with—
 
 - (a) regulation 28 (the occupation condition) except where regulation 28(4) has been applied;
 - (b) regulation 29 (claimant living in another hereditament during essential repairs) except where regulation 29(3) has been applied;
@@ -496,7 +496,7 @@ that person shall be under a duty to notify that change of circumstances by givi
 
 - (a) the conditions of entitlement to rate relief are or were fulfilled;
 - (b) a decision awarding rate relief should be revised under regulation 13;
-- (c) an amount of rate relief is recoverable under Part 8[^key-aa5f0ff7ceda8688abc53eb27cab1df5] (overpayments).
+- (c) an amount of rate relief is recoverable under Part 8[^c-aa5f0ff7ceda8688abc53eb27cab1df5] (overpayments).
 
 ### 20. Making or restoring of payments suspended
 
@@ -542,7 +542,7 @@ Where an overpayment is recoverable in accordance with regulation 23, it shall b
   - (ii) occupation of the hereditament,
 
   the owner, the claimant and any person acting on behalf of the claimant in accordance with regulation 4;
-- (b) in any other case it shall be recoverable from[^key-56bee5a99dc20cda246f9ba7566fdc36] the claimant and any person acting on behalf of the claimant in accordance with regulation 4.
+- (b) in any other case it shall be recoverable from[^c-56bee5a99dc20cda246f9ba7566fdc36] the claimant and any person acting on behalf of the claimant in accordance with regulation 4.
 
 ### 25. Methods of recovery
 
@@ -553,7 +553,7 @@ Where an overpayment is recoverable in accordance with regulation 23, it shall b
 - (a) by payment by or on behalf of the person from whom it is recoverable;
 - (b) by an addition, up to the amount of the overpayment, being made to the rate account as rates payable;
 - (c) by deduction from any rate relief to which that person is entitled (including arrears of entitlement after offsetting under regulation 22); or
-- (d) where an overpayment is recoverable from a claimant who has a partner[^key-cb90536dd30a01a413c6a59fb68f968a], a relevant authority may recover the overpayment by deduction from any rate relief payable to the claimant's partner provided that the claimant and that partner were a couple both at the time of the overpayment and when the deduction is made.
+- (d) where an overpayment is recoverable from a claimant who has a partner[^c-cb90536dd30a01a413c6a59fb68f968a], a relevant authority may recover the overpayment by deduction from any rate relief payable to the claimant's partner provided that the claimant and that partner were a couple both at the time of the overpayment and when the deduction is made.
 
 ### 26. Sums to be deducted in calculating recoverable overpayments
 
@@ -593,7 +593,7 @@ Where an overpayment is recoverable in accordance with regulation 23, it shall b
 
 the claimant is to be treated as normally occupying as his home the hereditament in respect of which those conditions are met.
 
-(2) A claimant is subject to regulation 28[^key-bb6b720c3e7463f8df5d53468b8758a7] where—
+(2) A claimant is subject to regulation 28[^c-bb6b720c3e7463f8df5d53468b8758a7] where—
 
 - (a) paragraph (1)(a) and (b) apply to the claimant; but
 - (b) the claimant is liable for rates in respect of both the other hereditament and the hereditament which he normally occupies as his home.
@@ -710,7 +710,7 @@ Where the Department obtains information under regulation 36, it shall make and 
 
 ## PART 12 — Consequential provisions
 
-### 38. Consequential provisions[^key-6d60de76334e977080c9b31689e367a5]
+### 38. Consequential provisions[^c-6d60de76334e977080c9b31689e367a5]
 
 (1) Subject to the provisions of paragraphs (2), (3) and (4) where a person entitled to low income rate relief makes a claim for Universal Credit, whether or not subsequently withdrawn, entitlement to low income rate relief will terminate—
 
@@ -868,17 +868,17 @@ Part 12 makes consequential provisions to choreograph the phasing in of these Re
 
 [^c22867451]: Marginal citation: [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-51d9f1f780320a71f8f7dad93298f6ba]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2017/184/regulation/2) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/2/a)
+[^c-51d9f1f780320a71f8f7dad93298f6ba]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2017/184/regulation/2) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/2/a)
 
 [^c22867461]: Marginal citation: S.R. [2016 No. 216](https://www.legislation.gov.uk/ukcm/2016/216)
 
-[^key-55a052fd09037c35af5e457d2e166447]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2017/184/regulation/2) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/2/b)
+[^c-55a052fd09037c35af5e457d2e166447]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2017/184/regulation/2) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/2/b)
 
 [^c22867471]: Marginal citation: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
 
-[^key-3e5cdd05aa5d2f9dd75ab094353f3d6e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/184/regulation/2/1) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [168](https://www.legislation.gov.uk/uksi/2019/1514/regulation/168) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-3e5cdd05aa5d2f9dd75ab094353f3d6e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/184/regulation/2/1) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [168](https://www.legislation.gov.uk/uksi/2019/1514/regulation/168) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-08a9ca16bc3646b577ee60d1d7e20a27]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/184/regulation/2/1) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [118](https://www.legislation.gov.uk/uksi/2019/1514/regulation/118) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-08a9ca16bc3646b577ee60d1d7e20a27]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/184/regulation/2/1) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [118](https://www.legislation.gov.uk/uksi/2019/1514/regulation/118) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c22867481]: Marginal citation: [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)
 
@@ -886,35 +886,35 @@ Part 12 makes consequential provisions to choreograph the phasing in of these Re
 
 [^c22867501]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
 
-[^key-344b3966ced7390803a0337c4adcee37]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/nisr/2017/184/regulation/2) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/2/c)
+[^c-344b3966ced7390803a0337c4adcee37]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/nisr/2017/184/regulation/2) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/2/c)
 
 [^c22867511]: Marginal citation: S.R. [2007 No. 204](https://www.legislation.gov.uk/ukcm/2007/204)
 
 [^c22867521]: Marginal citation: S.R. [2007 No. 203](https://www.legislation.gov.uk/ukcm/2007/203)
 
-[^key-65c3f7137c8e5473acb7eada33262957]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2017/184/regulation/2) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/2/d)
+[^c-65c3f7137c8e5473acb7eada33262957]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2017/184/regulation/2) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/2/d)
 
-[^key-ea9c51eef1aba0c11498575b30aecbec]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/184/regulation/2/1) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/2)
+[^c-ea9c51eef1aba0c11498575b30aecbec]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/184/regulation/2/1) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/2)
 
-[^key-6b3819f7e09d9175f426f9f7a552344b]: Textual amendment: Words in reg. 2(1) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/2/a)
+[^c-6b3819f7e09d9175f426f9f7a552344b]: Textual amendment: Words in reg. 2(1) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/2/a)
 
 [^c22867531]: Marginal citation: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
 
-[^key-6bc2d3a69b23b1549c98c37da6b9184a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2017/184/regulation/2) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/2/e)
+[^c-6bc2d3a69b23b1549c98c37da6b9184a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2017/184/regulation/2) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/2/e)
 
-[^key-8b623b359a6a2908d30e0253402c7d27]: Textual amendment: Reg. 2(2) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/2/b)
+[^c-8b623b359a6a2908d30e0253402c7d27]: Textual amendment: Reg. 2(2) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/2/b)
 
-[^key-f762b7e3fd2f7413d4cd7fcd353498f4]: Textual amendment: Words in reg. 2(3) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/2/c)
+[^c-f762b7e3fd2f7413d4cd7fcd353498f4]: Textual amendment: Words in reg. 2(3) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/2/c)
 
 [^c22867541]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-d8acbd45419fea8ab41756da04613aa1]: Textual amendment: Reg. 2(5)-(6) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/2/d)
+[^c-d8acbd45419fea8ab41756da04613aa1]: Textual amendment: Reg. 2(5)-(6) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/2/d)
 
-[^key-d9d7efc81b71a0dfa18698723ad7bf54]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2017/184/regulation/3/3) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/3/a)
+[^c-d9d7efc81b71a0dfa18698723ad7bf54]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2017/184/regulation/3/3) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/3/a)
 
-[^key-4276451e5999ef2ddc4034e215715f59]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2017/184/regulation/3/4) omitted (8.5.2018) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/3/b)
+[^c-4276451e5999ef2ddc4034e215715f59]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2017/184/regulation/3/4) omitted (8.5.2018) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/3/b)
 
-[^key-426475885408f6b54ea55538b26a3973]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2017/184/regulation/3/5) omitted (8.5.2018) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/3/c)
+[^c-426475885408f6b54ea55538b26a3973]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2017/184/regulation/3/5) omitted (8.5.2018) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/3/c)
 
 [^c22867551]: Marginal citation: [S.I. 1986/595 (N.I.4)](https://www.legislation.gov.uk/nisi/1986/595).
 
@@ -922,106 +922,106 @@ Part 12 makes consequential provisions to choreograph the phasing in of these Re
 
 [^c22867571]: Marginal citation: [S.I. 1987/1627 (N.I. 16)](https://www.legislation.gov.uk/nisi/1987/1627).
 
-[^key-3c4023d5aa7b644b39b9b62a91854e73]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/4/2) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/3)
+[^c-3c4023d5aa7b644b39b9b62a91854e73]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/4/2) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/3)
 
-[^key-7a6ec3fde794cd7559f99d02425d2e54]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/nisr/2017/184/regulation/5/1A)[(1B)](https://www.legislation.gov.uk/nisr/2017/184/regulation/5/1B) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/4/a)
+[^c-7a6ec3fde794cd7559f99d02425d2e54]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/nisr/2017/184/regulation/5/1A)[(1B)](https://www.legislation.gov.uk/nisr/2017/184/regulation/5/1B) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/4/a)
 
-[^key-6703413f3b4516dca5da665e9b698d64]: Textual amendment: Words in reg. 5(4) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/4/a)
+[^c-6703413f3b4516dca5da665e9b698d64]: Textual amendment: Words in reg. 5(4) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/4/a)
 
-[^key-c1103a2ba4df65da124d3525193244b6]: Textual amendment: [Reg. 5(11A)](https://www.legislation.gov.uk/nisr/2017/184/regulation/5/11A) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/4/b)
+[^c-c1103a2ba4df65da124d3525193244b6]: Textual amendment: [Reg. 5(11A)](https://www.legislation.gov.uk/nisr/2017/184/regulation/5/11A) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/4/b)
 
-[^key-47db235fa5d3a7d314e57c0476794ae2]: Textual amendment: Words in reg. 5(12) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/4/b)
+[^c-47db235fa5d3a7d314e57c0476794ae2]: Textual amendment: Words in reg. 5(12) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/4/b)
 
-[^key-612f50a851c2d2d5cc78d4660dde32a9]: Textual amendment: [Reg. 5(14)](https://www.legislation.gov.uk/nisr/2017/184/regulation/5/14) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/4/c)
+[^c-612f50a851c2d2d5cc78d4660dde32a9]: Textual amendment: [Reg. 5(14)](https://www.legislation.gov.uk/nisr/2017/184/regulation/5/14) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/4/c)
 
-[^key-a54cd381866fa34165dcff10fd4acf3b]: Textual amendment: Words in reg. 10(1)(c) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/5/a)
+[^c-a54cd381866fa34165dcff10fd4acf3b]: Textual amendment: Words in reg. 10(1)(c) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/5/a)
 
-[^key-3b60c18a506856ac299721a3d0cd3f92]: Textual amendment: [Reg. 10(1)(d)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/1/d) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/a)
+[^c-3b60c18a506856ac299721a3d0cd3f92]: Textual amendment: [Reg. 10(1)(d)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/1/d) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/a)
 
 [^c22867591]: Marginal citation: S.R. [2016 No. 226](https://www.legislation.gov.uk/ukcm/2016/226)
 
-[^key-34eeca19b1748ee142d6155a04d21691]: Textual amendment: Words in reg. 10(2) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/5/b)
+[^c-34eeca19b1748ee142d6155a04d21691]: Textual amendment: Words in reg. 10(2) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/5/b)
 
-[^key-1bd3a3daccb488b692ff43df3d18ca8f]: Textual amendment: Reg. 10(2A) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/5/c)
+[^c-1bd3a3daccb488b692ff43df3d18ca8f]: Textual amendment: Reg. 10(2A) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/5/c)
 
-[^key-7e6fbdd586892bb6ba70a46b896565d9]: Textual amendment: Words in [reg. 10(2A)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/2A) inserted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/3/a)
+[^c-7e6fbdd586892bb6ba70a46b896565d9]: Textual amendment: Words in [reg. 10(2A)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/2A) inserted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/3/a)
 
-[^key-abb9aa824328127ec101c2dc52e7e872]: Textual amendment: [Reg. 10(2B)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/2B) omitted (16.6.2025) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/3/b)
+[^c-abb9aa824328127ec101c2dc52e7e872]: Textual amendment: [Reg. 10(2B)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/2B) omitted (16.6.2025) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/3/b)
 
-[^key-0ca9710002b92ad9ff46b157456f0d99]: Textual amendment: Words in reg. 10(5) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/5/d)
+[^c-0ca9710002b92ad9ff46b157456f0d99]: Textual amendment: Words in reg. 10(5) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/5/d)
 
-[^key-8e08daa8c879c01dcde77623b4b96b72]: Textual amendment: Words in [reg. 10(6)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(i)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/i)
+[^c-8e08daa8c879c01dcde77623b4b96b72]: Textual amendment: Words in [reg. 10(6)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(i)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/i)
 
 [^c22867601]: Marginal citation: S.R. [2016 No. 223](https://www.legislation.gov.uk/ukcm/2016/223)
 
-[^key-b6225237eee2f506a248c4346b2e86aa]: Textual amendment: Words in [reg. 10(6)(a)(i)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/a/i) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(ii)(aa)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/ii/aa)
+[^c-b6225237eee2f506a248c4346b2e86aa]: Textual amendment: Words in [reg. 10(6)(a)(i)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/a/i) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(ii)(aa)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/ii/aa)
 
-[^key-612d413a1978b0ab01e8617711431e8f]: Textual amendment: [Reg. 10(6)(a)(ii)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/a/ii) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(ii)(bb)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/ii/bb)
+[^c-612d413a1978b0ab01e8617711431e8f]: Textual amendment: [Reg. 10(6)(a)(ii)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/a/ii) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(ii)(bb)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/ii/bb)
 
-[^key-776882bdae874a9de46f8a2d9299df68]: Textual amendment: Words in [reg. 10(6)(a)(ii)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/a/ii) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/2)
+[^c-776882bdae874a9de46f8a2d9299df68]: Textual amendment: Words in [reg. 10(6)(a)(ii)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/a/ii) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/2)
 
 [^c22867611]: Marginal citation: S.R. [2016 No. 224](https://www.legislation.gov.uk/ukcm/2016/224)
 
 [^c22867621]: Marginal citation: S.R. [1988 No. 142](https://www.legislation.gov.uk/ukcm/1988/142)
 
-[^key-bb634e7040231c78bc9dcbf91e8e0d3f]: Textual amendment: Words in [reg. 10(6)(b)(iii)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/b/iii) added (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(iii)(aa)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/iii/aa)
+[^c-bb634e7040231c78bc9dcbf91e8e0d3f]: Textual amendment: Words in [reg. 10(6)(b)(iii)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/b/iii) added (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(iii)(aa)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/iii/aa)
 
-[^key-099bb0af488b795296523daf202f5bd1]: Textual amendment: Words in [reg. 10(6)(b)(iv)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/b/iv) omitted (1.4.2023) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(iii)(bb)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/iii/bb)
+[^c-099bb0af488b795296523daf202f5bd1]: Textual amendment: Words in [reg. 10(6)(b)(iv)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/b/iv) omitted (1.4.2023) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(iii)(bb)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/iii/bb)
 
-[^key-458271076e24d2083f4c62038a03c8ea]: Textual amendment: Words in [reg. 10(6)(b)(vi)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/b/vi) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/3)
+[^c-458271076e24d2083f4c62038a03c8ea]: Textual amendment: Words in [reg. 10(6)(b)(vi)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/b/vi) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/3)
 
 [^c22867631]: Marginal citation: S.R. [2016 No. 220](https://www.legislation.gov.uk/ukcm/2016/220)
 
-[^key-71e5295f1d4257d69fa193ce19ad68a6]: Textual amendment: Words in [reg. 10(6)(b)(vi)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/b/vi) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(iii)(cc)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/iii/cc)
+[^c-71e5295f1d4257d69fa193ce19ad68a6]: Textual amendment: Words in [reg. 10(6)(b)(vi)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/b/vi) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(iii)(cc)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/iii/cc)
 
 [^c22867641]: Marginal citation: S.R. [2002 No. 79](https://www.legislation.gov.uk/ukcm/2002/79)
 
 [^c22867651]: Marginal citation: S.R. [2016 No. 223](https://www.legislation.gov.uk/ukcm/2016/223)
 
-[^key-803c930838d690d6ba69979fb641786c]: Textual amendment: Words in [reg. 10(6)(c)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/c) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(iv)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/iv)
+[^c-803c930838d690d6ba69979fb641786c]: Textual amendment: Words in [reg. 10(6)(c)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/c) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(iv)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/iv)
 
-[^key-5368b9959d923a752cc54db399d03139]: Textual amendment: Words in [reg. 10(6)(c)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/c) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/3/c)
+[^c-5368b9959d923a752cc54db399d03139]: Textual amendment: Words in [reg. 10(6)(c)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/c) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/3/c)
 
-[^key-83c78e910b88c4f54a496795614ff358]: Textual amendment: [Reg. 10(7)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7)[(8)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/8) substituted for [reg. 10(7)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7) (4.1.2021) by [The Rate Relief (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/308)](https://www.legislation.gov.uk/nisr/2020/308), [regs. 1](https://www.legislation.gov.uk/nisr/2020/308/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/308/regulation/2/2)
+[^c-83c78e910b88c4f54a496795614ff358]: Textual amendment: [Reg. 10(7)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7)[(8)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/8) substituted for [reg. 10(7)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7) (4.1.2021) by [The Rate Relief (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/308)](https://www.legislation.gov.uk/nisr/2020/308), [regs. 1](https://www.legislation.gov.uk/nisr/2020/308/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/308/regulation/2/2)
 
-[^key-dbb554adca54322b89d9240688398571]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(d)(i)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/d/i)
+[^c-dbb554adca54322b89d9240688398571]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(d)(i)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/d/i)
 
-[^key-8e3aa7ffda0f1fd03cb7c06f3f07fb8c]: Textual amendment: Words in [reg. 10(7)(a)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7/a) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(d)(ii)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/d/ii)
+[^c-8e3aa7ffda0f1fd03cb7c06f3f07fb8c]: Textual amendment: Words in [reg. 10(7)(a)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7/a) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(d)(ii)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/d/ii)
 
-[^key-bee7ee6100d3342418cca2e8952f1d8f]: Textual amendment: Words in [reg. 10(7)(a)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7/a) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(3)(d)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/3/d)
+[^c-bee7ee6100d3342418cca2e8952f1d8f]: Textual amendment: Words in [reg. 10(7)(a)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7/a) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(3)(d)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/3/d)
 
-[^key-a3df0c2fadeb5968ae190d73f59b9a3f]: Textual amendment: Words in [reg. 10(7)(a)(i)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7/a/i) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(d)(iii)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/d/iii)
+[^c-a3df0c2fadeb5968ae190d73f59b9a3f]: Textual amendment: Words in [reg. 10(7)(a)(i)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7/a/i) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(d)(iii)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/d/iii)
 
-[^key-822ad1a9ad95283e9012f032755cc04d]: Textual amendment: [Reg. 13(1)(c)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1/c) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/6/a)
+[^c-822ad1a9ad95283e9012f032755cc04d]: Textual amendment: [Reg. 13(1)(c)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1/c) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/6/a)
 
-[^key-951b56e2fae0172a8ebba45079ec833c]: Textual amendment: [Reg. 13(1)(d)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1/d) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/6/b)
+[^c-951b56e2fae0172a8ebba45079ec833c]: Textual amendment: [Reg. 13(1)(d)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1/d) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/6/b)
 
-[^key-87cf3a83d7bcd26574aba8a3d48014bb]: Textual amendment: Words in [reg. 13(1)(d)(ii)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1/d/ii) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/2)
+[^c-87cf3a83d7bcd26574aba8a3d48014bb]: Textual amendment: Words in [reg. 13(1)(d)(ii)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1/d/ii) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/2)
 
-[^key-2923b0d34917f5b45290283f46fcc8c0]: Textual amendment: Words in [reg. 13(1)(h)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1/h) substituted (4.1.2021) by [The Rate Relief (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/308)](https://www.legislation.gov.uk/nisr/2020/308), [regs. 1](https://www.legislation.gov.uk/nisr/2020/308/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2020/308/regulation/2/3/a)
+[^c-2923b0d34917f5b45290283f46fcc8c0]: Textual amendment: Words in [reg. 13(1)(h)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1/h) substituted (4.1.2021) by [The Rate Relief (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/308)](https://www.legislation.gov.uk/nisr/2020/308), [regs. 1](https://www.legislation.gov.uk/nisr/2020/308/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2020/308/regulation/2/3/a)
 
-[^key-61104ab406e5cdac7aa82c38b88c81bd]: Textual amendment: [Reg. 13(1)(i)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1/i) inserted (4.1.2021) by [The Rate Relief (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/308)](https://www.legislation.gov.uk/nisr/2020/308), [regs. 1](https://www.legislation.gov.uk/nisr/2020/308/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2020/308/regulation/2/3/b)
+[^c-61104ab406e5cdac7aa82c38b88c81bd]: Textual amendment: [Reg. 13(1)(i)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1/i) inserted (4.1.2021) by [The Rate Relief (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/308)](https://www.legislation.gov.uk/nisr/2020/308), [regs. 1](https://www.legislation.gov.uk/nisr/2020/308/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2020/308/regulation/2/3/b)
 
-[^key-bc694fc9a272269bd2e4ec7b263348f9]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1A) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/6/c)
+[^c-bc694fc9a272269bd2e4ec7b263348f9]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1A) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/6/c)
 
-[^key-f3a3409d96626d841422b7e7489442e4]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/2) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/6/d)
+[^c-f3a3409d96626d841422b7e7489442e4]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/2) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/6/d)
 
-[^key-dbdef323d0c8f14cd55b0c6306e84f45]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/14/2) omitted (1.4.2023) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/7/a)
+[^c-dbdef323d0c8f14cd55b0c6306e84f45]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/14/2) omitted (1.4.2023) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/7/a)
 
-[^key-6a4374684cc40def85951a8013faffa4]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/nisr/2017/184/regulation/14/3) substituted (4.1.2021) by [The Rate Relief (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/308)](https://www.legislation.gov.uk/nisr/2020/308), [regs. 1](https://www.legislation.gov.uk/nisr/2020/308/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2020/308/regulation/2/4/a)
+[^c-6a4374684cc40def85951a8013faffa4]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/nisr/2017/184/regulation/14/3) substituted (4.1.2021) by [The Rate Relief (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/308)](https://www.legislation.gov.uk/nisr/2020/308), [regs. 1](https://www.legislation.gov.uk/nisr/2020/308/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2020/308/regulation/2/4/a)
 
-[^key-9dedcdde8f23d36f78fcc2e320b3e485]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/nisr/2017/184/regulation/14/5) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/7/b)
+[^c-9dedcdde8f23d36f78fcc2e320b3e485]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/nisr/2017/184/regulation/14/5) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/7/b)
 
-[^key-ff4c57e861bead3a3fc12288dda54b3c]: Textual amendment: [Reg. 14(7A)](https://www.legislation.gov.uk/nisr/2017/184/regulation/14/7A) inserted (4.1.2021) by [The Rate Relief (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/308)](https://www.legislation.gov.uk/nisr/2020/308), [regs. 1](https://www.legislation.gov.uk/nisr/2020/308/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2020/308/regulation/2/4/b)
+[^c-ff4c57e861bead3a3fc12288dda54b3c]: Textual amendment: [Reg. 14(7A)](https://www.legislation.gov.uk/nisr/2017/184/regulation/14/7A) inserted (4.1.2021) by [The Rate Relief (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/308)](https://www.legislation.gov.uk/nisr/2020/308), [regs. 1](https://www.legislation.gov.uk/nisr/2020/308/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2020/308/regulation/2/4/b)
 
-[^key-c1e3bfc22e11ad4bd8c8b5d84c571307]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/18/2) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(8)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/8)
+[^c-c1e3bfc22e11ad4bd8c8b5d84c571307]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/18/2) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(8)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/8)
 
-[^key-aa5f0ff7ceda8688abc53eb27cab1df5]: Textual amendment: Words in [reg. 19(2)(c)](https://www.legislation.gov.uk/nisr/2017/184/regulation/19/2/c) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/6)
+[^c-aa5f0ff7ceda8688abc53eb27cab1df5]: Textual amendment: Words in [reg. 19(2)(c)](https://www.legislation.gov.uk/nisr/2017/184/regulation/19/2/c) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/6)
 
-[^key-56bee5a99dc20cda246f9ba7566fdc36]: Textual amendment: Word in [reg. 24(b)](https://www.legislation.gov.uk/nisr/2017/184/regulation/24/b) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(7)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/7)
+[^c-56bee5a99dc20cda246f9ba7566fdc36]: Textual amendment: Word in [reg. 24(b)](https://www.legislation.gov.uk/nisr/2017/184/regulation/24/b) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(7)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/7)
 
-[^key-cb90536dd30a01a413c6a59fb68f968a]: Textual amendment: Words in [reg. 25(2)(d)](https://www.legislation.gov.uk/nisr/2017/184/regulation/25/2/d) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(9)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/9)
+[^c-cb90536dd30a01a413c6a59fb68f968a]: Textual amendment: Words in [reg. 25(2)(d)](https://www.legislation.gov.uk/nisr/2017/184/regulation/25/2/d) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(9)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/9)
 
-[^key-bb6b720c3e7463f8df5d53468b8758a7]: Textual amendment: Words in [reg. 29(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/29/2) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(10)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/10)
+[^c-bb6b720c3e7463f8df5d53468b8758a7]: Textual amendment: Words in [reg. 29(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/29/2) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(10)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/10)
 
-[^key-6d60de76334e977080c9b31689e367a5]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/nisr/2017/184/regulation/38) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/4)
+[^c-6d60de76334e977080c9b31689e367a5]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/nisr/2017/184/regulation/38) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/4)

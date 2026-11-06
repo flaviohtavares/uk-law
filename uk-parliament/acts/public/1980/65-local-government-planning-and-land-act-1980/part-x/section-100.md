@@ -23,7 +23,7 @@ summary: ''
 (1) In this Part of this Act—
 
 - “**subsidiary**”, in relation to a body to whom this Part of this Act applies, means a wholly-owned subsidiary of that body; and
-- “**wholly-owned subsidiary**” as defined by[^c13875691] section 1159 of the Companies Act 2006[^key-b54622749018106455cae2ac909cbb16].
+- “**wholly-owned subsidiary**” as defined by[^c13875691] section 1159 of the Companies Act 2006[^c-b54622749018106455cae2ac909cbb16].
 
 (2) This Part of this Act extends to England and Wales only.
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^c13875691]: Textual amendment: Words substituted by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [s. 144(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/144/4), [Sch. 18 para. 24](https://www.legislation.gov.uk/ukpga/1989/40/schedule/18/paragraph/24)
 
-[^key-b54622749018106455cae2ac909cbb16]: Textual amendment: Words in s. 100 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 46(3)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/46/3/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-b54622749018106455cae2ac909cbb16]: Textual amendment: Words in s. 100 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 46(3)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/46/3/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

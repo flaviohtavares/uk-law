@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 395. Amendment of Subpart B of Annex 2 to [Commission Regulation (EU) No 2015/34](https://www.legislation.gov.uk/eur/1934/2015)0[^key-b0986b1ec05e3c2e5917e80265514d23]
+## 395. Amendment of Subpart B of Annex 2 to [Commission Regulation (EU) No 2015/34](https://www.legislation.gov.uk/eur/1934/2015)0[^c-b0986b1ec05e3c2e5917e80265514d23]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0986b1ec05e3c2e5917e80265514d23]: Commencement: Reg. 395 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b0986b1ec05e3c2e5917e80265514d23]: Commencement: Reg. 395 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

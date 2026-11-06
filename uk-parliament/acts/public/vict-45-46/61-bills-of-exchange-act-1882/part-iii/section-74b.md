@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74B. Presentment of cheque for payment: alternative means of presentment by banker[^key-9eba7f400da3a88c60dc275aa257aea0]
+## 74B. Presentment of cheque for payment: alternative means of presentment by banker[^c-9eba7f400da3a88c60dc275aa257aea0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9eba7f400da3a88c60dc275aa257aea0]: Textual amendment: Ss. 74B, 74C omitted (26.3.2015, 31.7.2016 in so far as not already in force) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 13(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/13/4), [164(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/4)
+[^c-9eba7f400da3a88c60dc275aa257aea0]: Textual amendment: Ss. 74B, 74C omitted (26.3.2015, 31.7.2016 in so far as not already in force) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 13(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/13/4), [164(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/4)

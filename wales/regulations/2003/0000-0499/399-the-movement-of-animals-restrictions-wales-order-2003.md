@@ -73,7 +73,7 @@ For the purposes of the Animal Health Act 1981 in its application to this Order�
 
 (4) Any expenses incurred by the National Assembly for Wales, the Secretary of State or inspector in exercise of the powers under paragraph (3) are recoverable as a civil debt, by the National Assembly for Wales, the Secretary of State or local authority, from the person in default.
 
-## 5. Declaration of a temporary control area[^key-5f5ee160d01d1488a7b9a8672b6b8b29]
+## 5. Declaration of a temporary control area[^c-5f5ee160d01d1488a7b9a8672b6b8b29]
 
 (1) If the Welsh Ministers suspect that—
 
@@ -115,7 +115,7 @@ they may declare in writing an area to be a temporary control area.
 - (a) refer to the declaration; and
 - (b) state the date and time the revocation or amendment is to take effect.
 
-## 5A. Declaration of an infected area[^key-203540752f14b1910b6bbb2a728c6608]
+## 5A. Declaration of an infected area[^c-203540752f14b1910b6bbb2a728c6608]
 
 (1) If the Welsh Ministers consider that disease exists or has existed in the preceding 56 days on any premises, they may declare an area to be an infected area.
 
@@ -141,7 +141,7 @@ they may declare in writing an area to be a temporary control area.
 
 (9) A declaration made under this Order and any amendment, suspension or revocation of the declaration must be in writing.
 
-## 6. Restrictions on movement of animals within and out of an infected area[^key-d915efbacd11468db885e88522904293]
+## 6. Restrictions on movement of animals within and out of an infected area[^c-d915efbacd11468db885e88522904293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -170,7 +170,7 @@ A veterinary inspector may serve a notice on the person in charge of any premise
 
 (1) All licences and notices under this Order must be in writing, may be subject to conditions and may be varied, suspended or revoked by a veterinary inspector in writing at any time.
 
-(1A)[^key-aba55d47ef273dca44aa0f738df923cb] A licence under this Order may be general or specific.
+(1A)[^c-aba55d47ef273dca44aa0f738df923cb] A licence under this Order may be general or specific.
 
 (2) A licence issued under this Order must accompany whatever is being moved under its authority and any person acting under the authority of such a licence must, on demand made by the National Assembly for Wales, the Secretary of State or by an inspector of the local authority or by a constable—
 
@@ -186,7 +186,7 @@ A veterinary inspector may serve a notice on the person in charge of any premise
 
 (3) Any expenses reasonably incurred by the National Assembly for Wales, the Secretary of State or inspector of the local authority in the exercise of the powers under paragraphs (1) or (2) are recoverable as a civil debt by the National Assembly for Wales, the Secretary of State or the local authority, from the person in default.
 
-## 12. Enforcement[^key-59b0dc8d23690aedd8c9d6a8365ef64c]
+## 12. Enforcement[^c-59b0dc8d23690aedd8c9d6a8365ef64c]
 
 (1) Subject to paragraph (2), the provisions of this Order shall, except where otherwise expressly provided, be executed and enforced by the local authority.
 
@@ -228,15 +228,15 @@ A Regulatory Appraisal has not been prepared for this Order.
 
 [^c5179271]: Marginal citation: [S.I. 1994/1519](https://www.legislation.gov.uk/uksi/1994/1519).
 
-[^key-5f5ee160d01d1488a7b9a8672b6b8b29]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/wsi/2003/399/article/5) substituted (25.11.2009) by [The Movement of Animals (Restrictions) (Wales) (Amendment) Order 2009 (S.I. 2009/2940)](https://www.legislation.gov.uk/wsi/2009/2940), [arts. 1](https://www.legislation.gov.uk/wsi/2009/2940/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2009/2940/article/2/2)
+[^c-5f5ee160d01d1488a7b9a8672b6b8b29]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/wsi/2003/399/article/5) substituted (25.11.2009) by [The Movement of Animals (Restrictions) (Wales) (Amendment) Order 2009 (S.I. 2009/2940)](https://www.legislation.gov.uk/wsi/2009/2940), [arts. 1](https://www.legislation.gov.uk/wsi/2009/2940/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2009/2940/article/2/2)
 
-[^key-203540752f14b1910b6bbb2a728c6608]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/wsi/2003/399/article/5A) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2024/971/article/3/2)
+[^c-203540752f14b1910b6bbb2a728c6608]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/wsi/2003/399/article/5A) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2024/971/article/3/2)
 
-[^key-d915efbacd11468db885e88522904293]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/wsi/2003/399/article/6) omitted (25.11.2009) by virtue of [The Movement of Animals (Restrictions) (Wales) (Amendment) Order 2009 (S.I. 2009/2940)](https://www.legislation.gov.uk/wsi/2009/2940), [arts. 1](https://www.legislation.gov.uk/wsi/2009/2940/article/1), [2(3)](https://www.legislation.gov.uk/wsi/2009/2940/article/2/3)
+[^c-d915efbacd11468db885e88522904293]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/wsi/2003/399/article/6) omitted (25.11.2009) by virtue of [The Movement of Animals (Restrictions) (Wales) (Amendment) Order 2009 (S.I. 2009/2940)](https://www.legislation.gov.uk/wsi/2009/2940), [arts. 1](https://www.legislation.gov.uk/wsi/2009/2940/article/1), [2(3)](https://www.legislation.gov.uk/wsi/2009/2940/article/2/3)
 
-[^key-aba55d47ef273dca44aa0f738df923cb]: Textual amendment: [Art. 10(1A)](https://www.legislation.gov.uk/wsi/2003/399/article/10/1A) inserted (25.11.2009) by [The Movement of Animals (Restrictions) (Wales) (Amendment) Order 2009 (S.I. 2009/2940)](https://www.legislation.gov.uk/wsi/2009/2940), [arts. 1](https://www.legislation.gov.uk/wsi/2009/2940/article/1), [2(4)](https://www.legislation.gov.uk/wsi/2009/2940/article/2/4)
+[^c-aba55d47ef273dca44aa0f738df923cb]: Textual amendment: [Art. 10(1A)](https://www.legislation.gov.uk/wsi/2003/399/article/10/1A) inserted (25.11.2009) by [The Movement of Animals (Restrictions) (Wales) (Amendment) Order 2009 (S.I. 2009/2940)](https://www.legislation.gov.uk/wsi/2009/2940), [arts. 1](https://www.legislation.gov.uk/wsi/2009/2940/article/1), [2(4)](https://www.legislation.gov.uk/wsi/2009/2940/article/2/4)
 
-[^key-59b0dc8d23690aedd8c9d6a8365ef64c]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/wsi/2003/399/article/12) substituted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2024/971/article/3/3)
+[^c-59b0dc8d23690aedd8c9d6a8365ef64c]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/wsi/2003/399/article/12) substituted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2024/971/article/3/3)
 
 [^c5179281]: Marginal citation: [S.I. 1985/1765](https://www.legislation.gov.uk/uksi/1985/1765).
 

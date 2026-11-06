@@ -50,7 +50,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 The Secretary of State has consulted such persons in the United Kingdom as the Secretary of State considers will be affected by the exercise of powers in this instrument in accordance with section 86(4) of that Act.
 
-## 1. Citation, commencement and extent[^key-56dea40504a9c32ff768adb280e0167c]
+## 1. Citation, commencement and extent[^c-56dea40504a9c32ff768adb280e0167c]
 
 These Regulations—
 
@@ -58,13 +58,13 @@ These Regulations—
 - (b) come into force on 14th May 2022; and
 - (c) extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Revocation of the Merchant Shipping (Entry into Dangerous Spaces) Regulations 1988[^key-5d87f12a33d5c41edefa7d9c06d78a41]
+## 2. Revocation of the Merchant Shipping (Entry into Dangerous Spaces) Regulations 1988[^c-5d87f12a33d5c41edefa7d9c06d78a41]
 
 (1) Subject to paragraph (2), the Merchant Shipping (Entry into Dangerous Spaces) Regulations 1988[^f00002] are revoked.
 
 (2) The Merchant Shipping (Entry into Dangerous Spaces) Regulations 1988 continue to apply until 11.59 p.m. on 13th May 2023 in relation to ships other than SOLAS ships to which those Regulations apply.
 
-## 3. Interpretation[^key-4f22bcf96a324788f678ee5a6074bd67]
+## 3. Interpretation[^c-4f22bcf96a324788f678ee5a6074bd67]
 
 In these Regulations—
 
@@ -110,7 +110,7 @@ In these Regulations—
   - (d) fishing vessels;
 - “**Work in Fishing Convention**” means the convention adopted at Geneva on 14th June 2007 by the International Labour Organisation[^f00009].
 
-## 4. Ambulatory reference[^key-d8167786415c713e556676e73ed0bb25]
+## 4. Ambulatory reference[^c-d8167786415c713e556676e73ed0bb25]
 
 (1) In these Regulations, any reference to the MLC is to be construed—
 
@@ -121,7 +121,7 @@ In these Regulations—
 
 (3) A modification or replacement of the MLC has effect at the time such modification or replacement comes into force in accordance with Article XIV of the MLC.
 
-## 5. Application[^key-337ff78d598e12cafe1d125275251c93]
+## 5. Application[^c-337ff78d598e12cafe1d125275251c93]
 
 (1) Subject to paragraphs (2) to (5), these Regulations apply to—
 
@@ -133,7 +133,7 @@ In these Regulations—
 - (a) pleasure vessels;
 - (b) vessels on which there is for the time being no master, crew or watchman;
 - (c) ships of war and naval auxiliaries;
-- (d)[^key-444252257e481cbe1f162077ba935c74] ships owned or operated by a State and engaged only on government non-commercial service;
+- (d)[^c-444252257e481cbe1f162077ba935c74] ships owned or operated by a State and engaged only on government non-commercial service;
 - (e) ships to which the Merchant Shipping (High Speed Craft) Regulations 2022 apply.
 
 (3) Regulations 6 (entrances to enclosed spaces) and 9 (testing equipment) do not apply to—
@@ -149,11 +149,11 @@ In these Regulations—
 
 (5) These Regulations do not apply to ships other than SOLAS ships until after 11.59 p.m. on 13th May 2023.
 
-## 6. Entrances to enclosed spaces[^key-3672033a6e55a735860540bbd3ee0b72]
+## 6. Entrances to enclosed spaces[^c-3672033a6e55a735860540bbd3ee0b72]
 
 The master of a ship must ensure that all entrances to unattended enclosed spaces on the vessel are either kept closed or otherwise secured against entry, except when entry is necessary.
 
-## 7. Entry into enclosed spaces[^key-c4f31c66791d9a538bf4c906f7d9003b]
+## 7. Entry into enclosed spaces[^c-c4f31c66791d9a538bf4c906f7d9003b]
 
 In respect of each ship on board which there is an accessible enclosed space—
 
@@ -163,7 +163,7 @@ In respect of each ship on board which there is an accessible enclosed space—
 - (b) the master must ensure that the systems of work referred to in sub-paragraph (a)(i) are observed on board the ship;
 - (c) no person may enter or remain in an enclosed space, except in accordance with the systems of work referred to in sub-paragraph (a)(i).
 
-## 8. Drills[^key-b4d208084ea29f6cf05fb8a4dfcd2998]
+## 8. Drills[^c-b4d208084ea29f6cf05fb8a4dfcd2998]
 
 (1) The master of a ship must ensure that—
 
@@ -182,7 +182,7 @@ In respect of each ship on board which there is an accessible enclosed space—
     - (dd) rescue equipment and procedures; and
   - (ii) instructions in first aid and resuscitation techniques.
 
-## 9. Testing equipment[^key-2d2da2612228cdb18e264272dcaeb5c8]
+## 9. Testing equipment[^c-2d2da2612228cdb18e264272dcaeb5c8]
 
 In respect of each ship on board which there is an accessible enclosed space, the shipowner and the employer must each ensure that—
 
@@ -191,7 +191,7 @@ In respect of each ship on board which there is an accessible enclosed space, th
   - (i) maintained in good working order; and
   - (ii) where applicable, regularly serviced and calibrated according to the manufacturer’s recommendations.
 
-## 10. Exemptions[^key-1e1a483af5a9a73be8c93159e036de05]
+## 10. Exemptions[^c-1e1a483af5a9a73be8c93159e036de05]
 
 (1) The Secretary of State may, on such terms, if any, as may be specified, grant exemptions from regulations 8 (drills) and 9 (testing equipment) for an individual ship or class of ships which—
 
@@ -230,7 +230,7 @@ In respect of each ship on board which there is an accessible enclosed space, th
 - (b) received in legible form; and
 - (c) capable of being used for subsequent reference.
 
-## 11. Offences and penalties[^key-136bd8e4c4dd36038185a59ea8d569c1]
+## 11. Offences and penalties[^c-136bd8e4c4dd36038185a59ea8d569c1]
 
 (1) A master of a ship who fails to comply with any of the requirements of regulation 6, 7(b) or 8(1) is guilty of an offence.
 
@@ -253,7 +253,7 @@ In respect of each ship on board which there is an accessible enclosed space, th
 
 (8) The second person may be charged with and convicted of an offence pursuant to paragraph (7) whether or not proceedings are taken against the first person.
 
-## 12. Detention[^key-08e6f8ca15d7c0ac8fc9ed8f7ec81307]
+## 12. Detention[^c-08e6f8ca15d7c0ac8fc9ed8f7ec81307]
 
 (1) Any ship which does not comply with the requirements of these Regulations may be detained.
 
@@ -284,7 +284,7 @@ In respect of each ship on board which there is an accessible enclosed space, th
 
 (8) For the purposes of paragraphs (6) and (7), “**flag administration**” in relation to a ship means the administration of the State whose flag the ship is entitled to fly.
 
-## 13. Amendment of the Merchant Shipping (Fees) Regulations 2018[^key-3a6b75c4310223d4aa3b15fa8a89af93]
+## 13. Amendment of the Merchant Shipping (Fees) Regulations 2018[^c-3a6b75c4310223d4aa3b15fa8a89af93]
 
 (1) The Merchant Shipping (Fees) Regulations 2018[^f00015] are amended as follows.
 
@@ -297,7 +297,7 @@ In respect of each ship on board which there is an accessible enclosed space, th
   - (ii) “1993/1072” the first time it appears; and
   - (iii) “2005/2114” the first time it appears.
 
-## 14. Review[^key-27dc4c18aa6712bace28d8881353170f]
+## 14. Review[^c-27dc4c18aa6712bace28d8881353170f]
 
 (1) The Secretary of State must from time to time—
 
@@ -367,13 +367,13 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), sections 8 and 29(2) and Schedule 7. Section 85 was amended by the British Overseas Territories Act [2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), section 2(3). Section 306A was inserted by the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), section 106. There are other amendments not relevant to these Regulations.
 
-[^key-56dea40504a9c32ff768adb280e0167c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/96/regulation/1) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
+[^c-56dea40504a9c32ff768adb280e0167c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/96/regulation/1) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
 
-[^key-5d87f12a33d5c41edefa7d9c06d78a41]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/96/regulation/2) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
+[^c-5d87f12a33d5c41edefa7d9c06d78a41]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/96/regulation/2) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
 
 [^f00002]: Footnote: [S.I. 1988/1638](https://www.legislation.gov.uk/uksi/1988/1638), as amended by [S.I. 1988/2274](https://www.legislation.gov.uk/uksi/1988/2274), [1993/1072](https://www.legislation.gov.uk/uksi/1993/1072), [2005/2114](https://www.legislation.gov.uk/uksi/2005/2114) and [2020/501](https://www.legislation.gov.uk/uksi/2020/501).
 
-[^key-4f22bcf96a324788f678ee5a6074bd67]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/96/regulation/3) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
+[^c-4f22bcf96a324788f678ee5a6074bd67]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/96/regulation/3) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
 
 [^f00003]: Footnote: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962), as amended by [S.I. 1998/2411](https://www.legislation.gov.uk/uksi/1998/2411), [2001/54](https://www.legislation.gov.uk/uksi/2001/54), [2014/1616](https://www.legislation.gov.uk/uksi/2014/1616), [2015/21](https://www.legislation.gov.uk/uksi/2015/21), [2015/1692](https://www.legislation.gov.uk/uksi/2015/1692), [2018/1109](https://www.legislation.gov.uk/uksi/2018/1109) and [2018/1202](https://www.legislation.gov.uk/uksi/2018/1202).
 
@@ -389,15 +389,15 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^f00009]: Footnote: Cm 7375. The Work in Fishing Convention may be downloaded from the website of the International Labour Organization at https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100\_ILO\_CODE:C188. Copies of the Working in Fishing Convention may be inspected free of charge at the Maritime and Coastguard Agency, Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk). Command Paper 7375 may be found on the Foreign and Commonwealth Office treaties database (https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/238738/7375.pdf). Hard copies of Command Paper 7375 are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London SW1A 0PW. The Parliamentary Archives catalogue number for Command Paper 7375 is HL/PO/JO/10/21/30/979.
 
-[^key-d8167786415c713e556676e73ed0bb25]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/96/regulation/4) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
+[^c-d8167786415c713e556676e73ed0bb25]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/96/regulation/4) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
 
-[^key-337ff78d598e12cafe1d125275251c93]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/96/regulation/5) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
+[^c-337ff78d598e12cafe1d125275251c93]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/96/regulation/5) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
 
-[^key-444252257e481cbe1f162077ba935c74]: Textual amendment: [Reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2022/96/regulation/5/2/d)[(e)](https://www.legislation.gov.uk/uksi/2022/96/regulation/5/2/e) substituted for [reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2022/96/regulation/5/2/d) (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/29) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-444252257e481cbe1f162077ba935c74]: Textual amendment: [Reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2022/96/regulation/5/2/d)[(e)](https://www.legislation.gov.uk/uksi/2022/96/regulation/5/2/e) substituted for [reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2022/96/regulation/5/2/d) (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/29) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
 
-[^key-3672033a6e55a735860540bbd3ee0b72]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/96/regulation/6) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
+[^c-3672033a6e55a735860540bbd3ee0b72]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/96/regulation/6) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
 
-[^key-c4f31c66791d9a538bf4c906f7d9003b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/96/regulation/7) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
+[^c-c4f31c66791d9a538bf4c906f7d9003b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/96/regulation/7) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
 
 [^f00010]: Footnote: Regulation 4 has been amended by [S.I. 1998/2411](https://www.legislation.gov.uk/uksi/1998/2411), regulation 17(d).
 
@@ -405,24 +405,24 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^f00012]: Footnote: Regulation 7 has been amended by [S.I. 2014/1616](https://www.legislation.gov.uk/uksi/2014/1616), regulations 2(1) and (6).
 
-[^key-b4d208084ea29f6cf05fb8a4dfcd2998]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/96/regulation/8) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
+[^c-b4d208084ea29f6cf05fb8a4dfcd2998]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/96/regulation/8) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
 
-[^key-2d2da2612228cdb18e264272dcaeb5c8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/96/regulation/9) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
+[^c-2d2da2612228cdb18e264272dcaeb5c8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/96/regulation/9) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
 
-[^key-1e1a483af5a9a73be8c93159e036de05]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/96/regulation/10) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
+[^c-1e1a483af5a9a73be8c93159e036de05]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/96/regulation/10) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
 
-[^key-136bd8e4c4dd36038185a59ea8d569c1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/96/regulation/11) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
+[^c-136bd8e4c4dd36038185a59ea8d569c1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/96/regulation/11) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
 
-[^key-08e6f8ca15d7c0ac8fc9ed8f7ec81307]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/96/regulation/12) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
+[^c-08e6f8ca15d7c0ac8fc9ed8f7ec81307]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/96/regulation/12) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
 
 [^f00013]: Footnote: Section 284 was amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), section 9 and Schedule 1, and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
 [^f00014]: Footnote: Section 96(7) was amended by the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), Schedule 10, Part 1 and by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), Schedule 11. Section 96(10) was repealed by the Arbitration Act [1996 (c. 23)](https://www.legislation.gov.uk/ukpga/1996/23), Schedule 4.
 
-[^key-3a6b75c4310223d4aa3b15fa8a89af93]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/96/regulation/13) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
+[^c-3a6b75c4310223d4aa3b15fa8a89af93]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/96/regulation/13) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
 
 [^f00015]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), to which there are amendments not relevant to these Regulations.
 
-[^key-27dc4c18aa6712bace28d8881353170f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2022/96/regulation/14) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
+[^c-27dc4c18aa6712bace28d8881353170f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2022/96/regulation/14) in force at 14.5.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/96/regulation/1/b)
 
 [^f00016]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), section 19 and the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), Schedule 8, Part 2, paragraph 36.

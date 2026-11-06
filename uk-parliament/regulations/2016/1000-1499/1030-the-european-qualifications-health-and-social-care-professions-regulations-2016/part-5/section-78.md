@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Amendment of article 7[^key-fe583412a0eddd64aca5d96880e98221]
+## 78. Amendment of article 7[^c-fe583412a0eddd64aca5d96880e98221]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe583412a0eddd64aca5d96880e98221]: Commencement: Reg. 78 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-fe583412a0eddd64aca5d96880e98221]: Commencement: Reg. 78 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00059]: Footnote: Article 7 was substituted in part, and amended, by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

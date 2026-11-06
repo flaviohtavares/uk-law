@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Power to contract for tenancy[^key-8e6cf9652a5f73b033a75d039f147b2a][^key-acd548cface15a41dd09a4a0b98d38bf]
+## 204. Power to contract for tenancy[^c-8e6cf9652a5f73b033a75d039f147b2a][^c-acd548cface15a41dd09a4a0b98d38bf]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ a short-term tenancy of the premises (including a contract under which those thi
 
 ## Annotations
 
-[^key-8e6cf9652a5f73b033a75d039f147b2a]: Commencement: S. 204 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-8e6cf9652a5f73b033a75d039f147b2a]: Commencement: S. 204 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-acd548cface15a41dd09a4a0b98d38bf]: Commencement: [S. 204](https://www.legislation.gov.uk/ukpga/2023/55/section/204) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/c)
+[^c-acd548cface15a41dd09a4a0b98d38bf]: Commencement: [S. 204](https://www.legislation.gov.uk/ukpga/2023/55/section/204) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/c)

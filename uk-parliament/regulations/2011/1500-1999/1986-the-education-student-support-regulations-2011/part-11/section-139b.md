@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139B. Conversion of status from eligible student to eligible part-time student[^key-4a3180d0dc82370ee6b9f4690e4e1894]
+## 139B. Conversion of status from eligible student to eligible part-time student[^c-4a3180d0dc82370ee6b9f4690e4e1894]
 
 *Extent: E+W*
 
@@ -25,9 +25,9 @@ summary: ''
 - (a) the Secretary of State receives a request from the eligible student to do so; and
 - (b) the period of eligibility has not terminated.
 
-(2) Where, before completing the designated course, the student transfers to a part-time course in the same subject or subjects leading to the same qualification at the same institution, the part-time course is to be treated as satisfying regulation 139(1)(b) and (c) if the period of part-time study to be undertaken by the student is of at least one academic year’s duration and does not exceed four times the period ordinarily required to complete the remainder of the designated course from which the student transfers.[^key-891929e8e4231545cf3de1471fa2dad2]
+(2) Where, before completing the designated course, the student transfers to a part-time course in the same subject or subjects leading to the same qualification at the same institution, the part-time course is to be treated as satisfying regulation 139(1)(b) and (c) if the period of part-time study to be undertaken by the student is of at least one academic year’s duration and does not exceed four times the period ordinarily required to complete the remainder of the designated course from which the student transfers.[^c-891929e8e4231545cf3de1471fa2dad2]
 
-(3)[^key-9e763f775c205708a18cd4295f988bba] The following applies to a student (“**A**”) who transfers under paragraph (1)—
+(3)[^c-9e763f775c205708a18cd4295f988bba] The following applies to a student (“**A**”) who transfers under paragraph (1)—
 
 - (a) where the Secretary of State has determined prior to the transfer that A is entitled to disabled students’ allowance, that entitlement terminates on the date of the transfer and no payments or further payments (including instalments) of that grant must be made after that date;
 - (b) the Secretary of State must determine whether A is entitled to disabled part-time students’ allowance for the remainder of the academic year in which A transfers;
@@ -71,8 +71,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4a3180d0dc82370ee6b9f4690e4e1894]: Textual amendment: Regs. 139A-139D inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [14](https://www.legislation.gov.uk/uksi/2018/472/regulation/14)
+[^c-4a3180d0dc82370ee6b9f4690e4e1894]: Textual amendment: Regs. 139A-139D inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [14](https://www.legislation.gov.uk/uksi/2018/472/regulation/14)
 
-[^key-891929e8e4231545cf3de1471fa2dad2]: Textual amendment: Words in reg. 139B(2) substituted (26.11.2020) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [4(3)(e)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/4/3/e)
+[^c-891929e8e4231545cf3de1471fa2dad2]: Textual amendment: Words in reg. 139B(2) substituted (26.11.2020) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [4(3)(e)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/4/3/e)
 
-[^key-9e763f775c205708a18cd4295f988bba]: Textual amendment: Reg. 139B(3) substituted (with application in accordance with reg. 1(3)(4) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/669)](https://www.legislation.gov.uk/uksi/2024/669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/669/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2024/669/regulation/16)
+[^c-9e763f775c205708a18cd4295f988bba]: Textual amendment: Reg. 139B(3) substituted (with application in accordance with reg. 1(3)(4) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/669)](https://www.legislation.gov.uk/uksi/2024/669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/669/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2024/669/regulation/16)

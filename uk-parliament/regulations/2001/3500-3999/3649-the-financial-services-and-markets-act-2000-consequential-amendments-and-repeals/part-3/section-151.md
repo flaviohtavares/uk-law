@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Choice of investments by trustees of occupational pension scheme under a trust: meaning of “proper advice”[^key-7494216e5baac71bf6c729182e8e7c00]
+## 151. Choice of investments by trustees of occupational pension scheme under a trust: meaning of “proper advice”[^c-7494216e5baac71bf6c729182e8e7c00]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ For paragraph (a) of Article 36(6) of the Pensions (Northern Ireland) Order 1995
 
 ## Annotations
 
-[^key-7494216e5baac71bf6c729182e8e7c00]: Commencement: Art. 151 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7494216e5baac71bf6c729182e8e7c00]: Commencement: Art. 151 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

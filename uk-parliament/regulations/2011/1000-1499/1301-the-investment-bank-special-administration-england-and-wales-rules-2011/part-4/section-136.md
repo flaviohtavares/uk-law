@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 136. Pre-administration costs[^key-2d10e11c9d3dc0553be80a3896432d64]
+## 136. Pre-administration costs[^c-2d10e11c9d3dc0553be80a3896432d64]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ the administrator (where the fees were charged or expenses incurred by the admin
 
 ## Annotations
 
-[^key-2d10e11c9d3dc0553be80a3896432d64]: Commencement: [Rule 136](https://www.legislation.gov.uk/uksi/2011/1301/rule/136) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-2d10e11c9d3dc0553be80a3896432d64]: Commencement: [Rule 136](https://www.legislation.gov.uk/uksi/2011/1301/rule/136) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.6. Review after temporary detention[^key-0207fb9c20b4429e715fc5696fbcc8d3]
+## 48.6. Review after temporary detention[^c-0207fb9c20b4429e715fc5696fbcc8d3]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0207fb9c20b4429e715fc5696fbcc8d3]: Commencement: [Rule 48.6](https://www.legislation.gov.uk/uksi/2025/909/rule/48.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-0207fb9c20b4429e715fc5696fbcc8d3]: Commencement: [Rule 48.6](https://www.legislation.gov.uk/uksi/2025/909/rule/48.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

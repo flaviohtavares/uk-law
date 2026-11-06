@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.54.4. Variation, renewal or discharge of sexual harm prevention orders or sexual risk orders[^key-ccedc83d5ee36cd08e49c826bbb7d969]
+## 3.54.4. Variation, renewal or discharge of sexual harm prevention orders or sexual risk orders[^c-ccedc83d5ee36cd08e49c826bbb7d969]
 
 *Extent: S*
 
@@ -51,7 +51,7 @@ is to be made by minute in the process relating to that order.
   - (ii) lodge answers at the same time and send a copy of them to the applicant;
 - (b) if no notice of a wish for a hearing under section 20(8) or 30(7) of the 2016 Act has been given to the sheriff within the period of notice contained in the warrant of citation, the applicant may return the application, together with a duly completed certificate of intimation, to the sheriff clerk requesting the sheriff make an order for further procedure under section 20(7)(b)(i) or (ii) or section 30(6)(b)(i) or (ii) (as the case may be) of the 2016 Act.
 
-(6) Where paragraph (4)(c)[^key-4d56761d18d226623269ff0740908460] or paragraph (5)(b) applies and the sheriff gives an opportunity to make written representations under section 20(7)(b)(ii) or section 30(6)(b)(ii) of the 2016 Act—
+(6) Where paragraph (4)(c)[^c-4d56761d18d226623269ff0740908460] or paragraph (5)(b) applies and the sheriff gives an opportunity to make written representations under section 20(7)(b)(ii) or section 30(6)(b)(ii) of the 2016 Act—
 
 - (a) the sheriff is to specify the period for lodging the written representations with the court; and
 - (b) any party lodging written representations is at the same time to intimate a copy of them to any other party.
@@ -67,6 +67,6 @@ is to be made by minute in the process relating to that order.
 
 ## Annotations
 
-[^key-ccedc83d5ee36cd08e49c826bbb7d969]: Textual amendment: [Ch. 3 Pt. 54](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/54) inserted (31.3.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Sexual Harm Prevention Orders and Sexual Risk Orders) 2023 (S.S.I. 2023/62)](https://www.legislation.gov.uk/ssi/2023/62), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/2/2)
+[^c-ccedc83d5ee36cd08e49c826bbb7d969]: Textual amendment: [Ch. 3 Pt. 54](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/54) inserted (31.3.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Sexual Harm Prevention Orders and Sexual Risk Orders) 2023 (S.S.I. 2023/62)](https://www.legislation.gov.uk/ssi/2023/62), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/2/2)
 
-[^key-4d56761d18d226623269ff0740908460]: Textual amendment: Words in [rule 3.54.4(6)](https://www.legislation.gov.uk/uksi/1999/929/rule/3.54.4/6) substituted (2.10.2023) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Miscellaneous) 2023 (S.S.I. 2023/196)](https://www.legislation.gov.uk/ssi/2023/196), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/196/paragraph/1/2), [6(2)(b)](https://www.legislation.gov.uk/ssi/2023/196/paragraph/6/2/b)
+[^c-4d56761d18d226623269ff0740908460]: Textual amendment: Words in [rule 3.54.4(6)](https://www.legislation.gov.uk/uksi/1999/929/rule/3.54.4/6) substituted (2.10.2023) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Miscellaneous) 2023 (S.S.I. 2023/196)](https://www.legislation.gov.uk/ssi/2023/196), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/196/paragraph/1/2), [6(2)(b)](https://www.legislation.gov.uk/ssi/2023/196/paragraph/6/2/b)

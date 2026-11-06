@@ -39,13 +39,13 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 **Not yet in force.**
 
-### 1. Lasting powers of attorney[^key-b3c7f49d637043e3d245f84430281934]
+### 1. Lasting powers of attorney[^c-b3c7f49d637043e3d245f84430281934]
 
 The Schedule makes provision in relation to lasting powers of attorney.
 
 ## Certifying copies of power of attorney
 
-### 2. Certifying copies of power of attorney[^key-d11bf76ec235a0f78add348c0f9c8fed]
+### 2. Certifying copies of power of attorney[^c-d11bf76ec235a0f78add348c0f9c8fed]
 
 (1) Section 3 of the Powers of Attorney Act 1971 is amended as follows.
 
@@ -57,7 +57,7 @@ The Schedule makes provision in relation to lasting powers of attorney.
 
 ## General provisions
 
-### 3. Extent, commencement and short title[^key-1e4fc03c0ceb829c77781c1c44fab561]
+### 3. Extent, commencement and short title[^c-1e4fc03c0ceb829c77781c1c44fab561]
 
 *Extent: E+W*
 
@@ -94,13 +94,13 @@ Section 1
 
 *Extent: E+W*
 
-**1.**[^key-9b8e352950435593812c85a12da7a940] Schedule 1 to the Mental Capacity Act 2005 (lasting powers of attorney: formalities) is amended as follows.
+**1.**[^c-9b8e352950435593812c85a12da7a940] Schedule 1 to the Mental Capacity Act 2005 (lasting powers of attorney: formalities) is amended as follows.
 
 #### Application for registration of lasting power of attorney
 
 *Extent: E+W*
 
-**2.**[^key-30f5cd2ea52a1b012582a0fac54225f4] In paragraph 4—
+**2.**[^c-30f5cd2ea52a1b012582a0fac54225f4] In paragraph 4—
 
 - (a) in sub-paragraph (1)(a), after “made” insert “by the donor”;
 - (b) omit sub-paragraph (2);
@@ -108,7 +108,7 @@ Section 1
 
   > (3) The application must be accompanied by the instrument (whether or not the instrument complies with paragraph 1(1)(c)).
 
-**3.**[^key-e7ac1d335e95de0662971ffeae66162c] After that paragraph insert—
+**3.**[^c-e7ac1d335e95de0662971ffeae66162c] After that paragraph insert—
 
 > **4A.** If it appears to the Public Guardian that the instrument as submitted under paragraph 4(3) fails in a prescribed respect to comply with paragraph 1(1)(c), the Public Guardian must take any steps that may be prescribed for ensuring that the instrument complies with paragraph 1(1)(c) in that respect.
 
@@ -116,7 +116,7 @@ Section 1
 
 *Extent: E+W*
 
-**4.**[^key-cd96c066e0eab22c4a5eb0200777f485] (1) Omit paragraph 6.
+**4.**[^c-cd96c066e0eab22c4a5eb0200777f485] (1) Omit paragraph 6.
 
 (2) For paragraph 7 substitute—
 
@@ -133,7 +133,7 @@ Section 1
 
 *Extent: E+W*
 
-**5.**[^key-f70075921b4eebd0e072da085a748686] For paragraph 10 and the italic heading before it substitute—
+**5.**[^c-f70075921b4eebd0e072da085a748686] For paragraph 10 and the italic heading before it substitute—
 
 > **10. Exclusion of notification requirements**
 >
@@ -143,7 +143,7 @@ Section 1
 
 *Extent: E+W*
 
-**6.**[^key-d98889bb848a4d2a0aebb9c38ac7d2ce] After paragraph 10 insert—
+**6.**[^c-d98889bb848a4d2a0aebb9c38ac7d2ce] After paragraph 10 insert—
 
 > **10A. Identification requirements**
 >
@@ -155,7 +155,7 @@ Section 1
 
 *Extent: E+W*
 
-**7.**[^key-f40c347fa4347cbe872d54440b73001a] (1) In paragraph 13—
+**7.**[^c-f40c347fa4347cbe872d54440b73001a] (1) In paragraph 13—
 
 - (a) for sub-paragraph (3)(b) substitute—
 
@@ -198,7 +198,7 @@ Section 1
 
 #### Evidence of registration
 
-**8.**[^key-da517f2ed304ffe81c47be1cddba4fb9] In paragraph 16—
+**8.**[^c-da517f2ed304ffe81c47be1cddba4fb9] In paragraph 16—
 
 - (a) in sub-paragraph (1), in the words before paragraph (a), after “Schedule” insert “before the day on which paragraph 8(a) of the Schedule to the Powers of Attorney Act 2022 comes into force”;
 - (b) after sub-paragraph (1) insert—
@@ -213,17 +213,17 @@ Section 1
 
 ### Part 2 — Minor and consequential amendments
 
-**9.**[^key-b12e4d7afbc326131172693518b780a4] The Mental Capacity Act 2005 is amended as follows.
+**9.**[^c-b12e4d7afbc326131172693518b780a4] The Mental Capacity Act 2005 is amended as follows.
 
-**10.**[^key-830bd66e436e5a9e57a7e0fc6280da63] In section 58(4) (functions of the Public Guardian), after paragraph (c) insert—
+**10.**[^c-830bd66e436e5a9e57a7e0fc6280da63] In section 58(4) (functions of the Public Guardian), after paragraph (c) insert—
 
 > - (ca) the time at which such fees are to be paid;
 
 .
 
-**11.**[^key-fae738a91e2585c3cf0a9dc05a3a036a] In section 65 (rules, regulations and orders), in subsection (1)(c), after “cases” insert “or purposes”.
+**11.**[^c-fae738a91e2585c3cf0a9dc05a3a036a] In section 65 (rules, regulations and orders), in subsection (1)(c), after “cases” insert “or purposes”.
 
-**12.**[^key-f55df98b2d0e82bd9622e1dbf44882b4] (1) Schedule 1 is amended as follows.
+**12.**[^c-f55df98b2d0e82bd9622e1dbf44882b4] (1) Schedule 1 is amended as follows.
 
 (2) In paragraph 5, for “11 to 14” substitute “10A to 13A”.
 
@@ -247,32 +247,32 @@ Section 1
 
 ## Annotations
 
-[^key-b3c7f49d637043e3d245f84430281934]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
+[^c-b3c7f49d637043e3d245f84430281934]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
 
-[^key-d11bf76ec235a0f78add348c0f9c8fed]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/42/section/2) in force at 18.11.2023, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/4)
+[^c-d11bf76ec235a0f78add348c0f9c8fed]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/42/section/2) in force at 18.11.2023, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/4)
 
-[^key-1e4fc03c0ceb829c77781c1c44fab561]: Commencement: S. 3 in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/3)
+[^c-1e4fc03c0ceb829c77781c1c44fab561]: Commencement: S. 3 in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/3)
 
-[^key-9b8e352950435593812c85a12da7a940]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
+[^c-9b8e352950435593812c85a12da7a940]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
 
-[^key-30f5cd2ea52a1b012582a0fac54225f4]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
+[^c-30f5cd2ea52a1b012582a0fac54225f4]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
 
-[^key-e7ac1d335e95de0662971ffeae66162c]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
+[^c-e7ac1d335e95de0662971ffeae66162c]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
 
-[^key-cd96c066e0eab22c4a5eb0200777f485]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
+[^c-cd96c066e0eab22c4a5eb0200777f485]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
 
-[^key-f70075921b4eebd0e072da085a748686]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
+[^c-f70075921b4eebd0e072da085a748686]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
 
-[^key-d98889bb848a4d2a0aebb9c38ac7d2ce]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
+[^c-d98889bb848a4d2a0aebb9c38ac7d2ce]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
 
-[^key-f40c347fa4347cbe872d54440b73001a]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
+[^c-f40c347fa4347cbe872d54440b73001a]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
 
-[^key-da517f2ed304ffe81c47be1cddba4fb9]: Commencement: Sch. para. 8 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
+[^c-da517f2ed304ffe81c47be1cddba4fb9]: Commencement: Sch. para. 8 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
 
-[^key-b12e4d7afbc326131172693518b780a4]: Commencement: Sch. para. 9 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
+[^c-b12e4d7afbc326131172693518b780a4]: Commencement: Sch. para. 9 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
 
-[^key-830bd66e436e5a9e57a7e0fc6280da63]: Commencement: Sch. para. 10 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
+[^c-830bd66e436e5a9e57a7e0fc6280da63]: Commencement: Sch. para. 10 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
 
-[^key-fae738a91e2585c3cf0a9dc05a3a036a]: Commencement: Sch. para. 11 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
+[^c-fae738a91e2585c3cf0a9dc05a3a036a]: Commencement: Sch. para. 11 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
 
-[^key-f55df98b2d0e82bd9622e1dbf44882b4]: Commencement: Sch. para. 12 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)
+[^c-f55df98b2d0e82bd9622e1dbf44882b4]: Commencement: Sch. para. 12 not in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/5)

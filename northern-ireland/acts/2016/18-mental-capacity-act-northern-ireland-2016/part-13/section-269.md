@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 269. Unlawful detention of persons lacking capacity etc[^key-8dfce9d300ea0e1dfe8d55dac612b4fc]
+## 269. Unlawful detention of persons lacking capacity etc[^c-8dfce9d300ea0e1dfe8d55dac612b4fc]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ any person who is responsible for that continued detention commits an offence.
 
 ## Annotations
 
-[^key-8dfce9d300ea0e1dfe8d55dac612b4fc]: Commencement: S. 269 in operation at 31.5.2021 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(5)](https://www.legislation.gov.uk/nisr/2019/163/article/2/5), [Sch. Pt. 5](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/5) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), [art. 2](https://www.legislation.gov.uk/nisr/2019/190/article/2) and [S.R. 2020/246](https://www.legislation.gov.uk/nisr/2020/246), [art. 2](https://www.legislation.gov.uk/nisr/2020/246/article/2))
+[^c-8dfce9d300ea0e1dfe8d55dac612b4fc]: Commencement: S. 269 in operation at 31.5.2021 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(5)](https://www.legislation.gov.uk/nisr/2019/163/article/2/5), [Sch. Pt. 5](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/5) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), [art. 2](https://www.legislation.gov.uk/nisr/2019/190/article/2) and [S.R. 2020/246](https://www.legislation.gov.uk/nisr/2020/246), [art. 2](https://www.legislation.gov.uk/nisr/2020/246/article/2))

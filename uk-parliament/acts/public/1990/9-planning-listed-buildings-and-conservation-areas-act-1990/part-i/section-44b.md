@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44B. Temporary stop notices in Wales[^key-73aea6d7054b127c252c6ef72aa1b9bf]
+## 44B. Temporary stop notices in Wales[^c-73aea6d7054b127c252c6ef72aa1b9bf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73aea6d7054b127c252c6ef72aa1b9bf]: Textual amendment: [Ss. 44B-44D](https://www.legislation.gov.uk/ukpga/1990/9/section/44B) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 123](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/123) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-73aea6d7054b127c252c6ef72aa1b9bf]: Textual amendment: [Ss. 44B-44D](https://www.legislation.gov.uk/ukpga/1990/9/section/44B) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 123](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/123) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

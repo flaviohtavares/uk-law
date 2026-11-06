@@ -28,18 +28,18 @@ summary: ''
 
 (2) Where, following that consultation the local authority determines to cease to maintain the child or young person's EHC plan, it must notify the child's parent or the young person, the institution named in the child or young person's EHC plan and the responsible commissioning body of that decision.
 
-(3)[^key-4aee351564521bd9b4277c680ef86af2] When notifying the child's parent or the young person of its decision to cease to maintain the EHC plan, it must also notify them of—
+(3)[^c-4aee351564521bd9b4277c680ef86af2] When notifying the child's parent or the young person of its decision to cease to maintain the EHC plan, it must also notify them of—
 
 - (a) their right to appeal that decision;
 - (b) the time limits for doing so;
 - (c) the information concerning mediation, set out in regulation 32; and
 - (d) the availability of—
   - (i) disagreement resolution services; and
-  - (ii) advice and information about matters relating to the special educational needs of children and young people ; and[^key-a8b6f4a5de6676ce7f98be920e620ea9]
+  - (ii) advice and information about matters relating to the special educational needs of children and young people ; and[^c-a8b6f4a5de6676ce7f98be920e620ea9]
 - (e) the First-tier Tribunal's power to make recommendations under the Special Educational Needs and Disability (First-tier Tribunal Recommendations Power) Regulations 2017.
 
 ## Annotations
 
-[^key-4aee351564521bd9b4277c680ef86af2]: Modification: Reg. 31(3) applied (with modifications) (1.4.2015) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendation Power) (Pilot) Regulations 2015 (S.I. 2015/358)](https://www.legislation.gov.uk/uksi/2015/358), [regs. 1](https://www.legislation.gov.uk/uksi/2015/358/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/358/regulation/7)
+[^c-4aee351564521bd9b4277c680ef86af2]: Modification: Reg. 31(3) applied (with modifications) (1.4.2015) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendation Power) (Pilot) Regulations 2015 (S.I. 2015/358)](https://www.legislation.gov.uk/uksi/2015/358), [regs. 1](https://www.legislation.gov.uk/uksi/2015/358/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/358/regulation/7)
 
-[^key-a8b6f4a5de6676ce7f98be920e620ea9]: Textual amendment: Reg. 31(3)(e) and word inserted (3.4.2018) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendations Power) Regulations 2017 (S.I. 2017/1306)](https://www.legislation.gov.uk/uksi/2017/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1306/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/1306/regulation/8/2)
+[^c-a8b6f4a5de6676ce7f98be920e620ea9]: Textual amendment: Reg. 31(3)(e) and word inserted (3.4.2018) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendations Power) Regulations 2017 (S.I. 2017/1306)](https://www.legislation.gov.uk/uksi/2017/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1306/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/1306/regulation/8/2)

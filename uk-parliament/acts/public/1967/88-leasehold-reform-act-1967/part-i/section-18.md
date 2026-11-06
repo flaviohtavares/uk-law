@@ -26,7 +26,7 @@ summary: ''
 
 (3) Where the landlord’s interest is held on trust, subsection (1) above shall apply as if the reference to occupation as the residence of the landlord were a reference to the like occupation of a person having an interest under the trust (whether or not also a trustee), and the reference to a member of the landlord’s family were a reference to the like member of such a person’s family; and for purposes of subsection (1) a person is an adult member of another’s family if that person is—
 
-- (a) the other’s spouse or civil partner[^key-c3486cb43ca0e8dc860c050c93bf27f7]; or
+- (a) the other’s spouse or civil partner[^c-c3486cb43ca0e8dc860c050c93bf27f7]; or
 - (b) a son or daughter or a son-in-law or daughter-in-law of the other, or of the other’s spouse or civil partner, who has attained the age of eighteen; or
 - (c) the father or mother of the other, or of the other’s spouse or civil partner.
 
@@ -47,6 +47,6 @@ and a notice of the tenant’s desire to have the freehold shall be of no effect
 
 ## Annotations
 
-[^key-c3486cb43ca0e8dc860c050c93bf27f7]: Textual amendment: Words in s. 18(3) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/7); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-c3486cb43ca0e8dc860c050c93bf27f7]: Textual amendment: Words in s. 18(3) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/7); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c8295911]: Textual amendment: Words repealed by [Children Act 1975 (c. 72)](https://www.legislation.gov.uk/ukpga/1975/72), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1975/72/schedule/4/part/I)

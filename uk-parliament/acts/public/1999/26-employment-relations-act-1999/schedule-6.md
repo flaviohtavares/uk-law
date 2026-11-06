@@ -32,9 +32,9 @@ Section 29.
 
 *Extent: E+W+S*
 
-**2.**[^key-164c675068f8f7d6a0431271a4cd004a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-164c675068f8f7d6a0431271a4cd004a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0a3ed232412345b0bc2476dc8f07a099] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0a3ed232412345b0bc2476dc8f07a099] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** (1) Section 25 (application to Certification Officer for declaration of breach of duty regarding register of members’ names and addresses) shall be amended as follows.
 
@@ -62,7 +62,7 @@ Section 29.
 
 **5.** (1) Section 26 (application to court for declaration of breach of duty regarding register of members’ names and addresses) shall be amended as follows.
 
-(2)[^key-0b5b079959226431283b40a6e83b153d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0b5b079959226431283b40a6e83b153d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (7) insert—
 
@@ -118,9 +118,9 @@ Section 29.
 
 > - (aa) shall make such enquiries as he thinks fit,
 
-(3)[^key-328f3c58722f6f2284480a0a142e7c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-328f3c58722f6f2284480a0a142e7c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-bd20e47ea6d6ac5c8b316637fab47e9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-bd20e47ea6d6ac5c8b316637fab47e9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) After subsection (5) insert—
 
@@ -160,11 +160,11 @@ Section 29.
 
 *Extent: E+W+S*
 
-**9.**[^key-877a4df02b908e378f8fe81870b6f681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-877a4df02b908e378f8fe81870b6f681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** (1) Section 55 (application to Certification Officer for declaration of breach of duty regarding elections) shall be amended as follows.
 
-(2)[^key-b6b481f5d6ba79aff32813463ee0f123] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b6b481f5d6ba79aff32813463ee0f123] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (5) insert—
 
@@ -198,7 +198,7 @@ Section 29.
 
 **11.** (1) Section 56 (application to court for declaration of failure to comply with requirements regarding elections) shall be amended as follows.
 
-(2)[^key-a1049cb68125429146c53fdf72149eda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a1049cb68125429146c53fdf72149eda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (7) insert—
 
@@ -263,11 +263,11 @@ Section 29.
 
 ### Political ballot rules
 
-**14.**[^key-fa4f134b6e99d5e4c32eee144675eb37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-fa4f134b6e99d5e4c32eee144675eb37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.** (1) Section 80 (application to Certification Officer for declaration of failure to comply with political ballot rules) shall be amended as follows.
 
-(2)[^key-4d640a56916119cbb09d23c48fef3698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4d640a56916119cbb09d23c48fef3698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (5) insert—
 
@@ -296,7 +296,7 @@ Section 29.
 
 **16.** (1) Section 81 (application to court for declaration of failure to comply with political ballot rules) shall be amended as follows.
 
-(2)[^key-0b7d8d9ff59f603314d0d6c13bb53da4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0b7d8d9ff59f603314d0d6c13bb53da4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (7) insert—
 
@@ -309,7 +309,7 @@ Section 29.
 
 **17.** (1) Section 82 (rules as to political fund) shall be amended as follows.
 
-(2)[^key-35ab7f99fd57af4fde0a4712dc5ec966] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-35ab7f99fd57af4fde0a4712dc5ec966] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (3) insert—
 
@@ -321,7 +321,7 @@ Section 29.
 
 **18.** (1) Section 103 (complaints about procedure relating to amalgamation or transfer of engagements) shall be amended as follows.
 
-(2)[^key-dbbe11ea9cdfbd973ee7695fa73f49e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-dbbe11ea9cdfbd973ee7695fa73f49e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (5) insert—
 
@@ -490,7 +490,7 @@ Section 29.
 > (4) For the purposes of subsection (1) a vexatious litigant is a person who is the subject of—
 >
 > - (a) an order which is made under section 33(1) of the [^c12486691]Employment Tribunals Act 1996 and which remains in force,
-> - (b) a civil proceedings order or an all proceedings order which is made under section 42(1) of the [^c12486701] Senior Courts Act 1981[^key-45a96ee244d9d457cadf5110cf3e48a9] and which remains in force,
+> - (b) a civil proceedings order or an all proceedings order which is made under section 42(1) of the [^c12486701] Senior Courts Act 1981[^c-45a96ee244d9d457cadf5110cf3e48a9] and which remains in force,
 > - (c) an order which is made under section 1 of the [^c12486711]Vexatious Actions (Scotland) Act 1898, or
 > - (d) an order which is made under section 32 of the [^c12486721]Judicature (Northern Ireland) Act 1978.
 >
@@ -513,37 +513,37 @@ Section 29.
 
 [^c12486681]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-164c675068f8f7d6a0431271a4cd004a]: Textual amendment: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-164c675068f8f7d6a0431271a4cd004a]: Textual amendment: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-0a3ed232412345b0bc2476dc8f07a099]: Textual amendment: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-0a3ed232412345b0bc2476dc8f07a099]: Textual amendment: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-0b5b079959226431283b40a6e83b153d]: Textual amendment: [Sch. 6 para. 5(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/5/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-0b5b079959226431283b40a6e83b153d]: Textual amendment: [Sch. 6 para. 5(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/5/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-328f3c58722f6f2284480a0a142e7c71]: Textual amendment: [Sch. 6 para. 7(3)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/7/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-328f3c58722f6f2284480a0a142e7c71]: Textual amendment: [Sch. 6 para. 7(3)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/7/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-bd20e47ea6d6ac5c8b316637fab47e9b]: Textual amendment: [Sch. 6 para. 7(4)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/7/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-bd20e47ea6d6ac5c8b316637fab47e9b]: Textual amendment: [Sch. 6 para. 7(4)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/7/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-877a4df02b908e378f8fe81870b6f681]: Textual amendment: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-877a4df02b908e378f8fe81870b6f681]: Textual amendment: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-b6b481f5d6ba79aff32813463ee0f123]: Textual amendment: [Sch. 6 para. 10(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/10/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-b6b481f5d6ba79aff32813463ee0f123]: Textual amendment: [Sch. 6 para. 10(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/10/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-a1049cb68125429146c53fdf72149eda]: Textual amendment: [Sch. 6 para. 11(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/11/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-a1049cb68125429146c53fdf72149eda]: Textual amendment: [Sch. 6 para. 11(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/11/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-fa4f134b6e99d5e4c32eee144675eb37]: Textual amendment: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-fa4f134b6e99d5e4c32eee144675eb37]: Textual amendment: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-4d640a56916119cbb09d23c48fef3698]: Textual amendment: [Sch. 6 para. 15(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/15/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-4d640a56916119cbb09d23c48fef3698]: Textual amendment: [Sch. 6 para. 15(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/15/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-0b7d8d9ff59f603314d0d6c13bb53da4]: Textual amendment: [Sch. 6 para. 16(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/16/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-0b7d8d9ff59f603314d0d6c13bb53da4]: Textual amendment: [Sch. 6 para. 16(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/16/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-35ab7f99fd57af4fde0a4712dc5ec966]: Textual amendment: [Sch. 6 para. 17(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/17/2) omitted (1.4.2022) by virtue of [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 21(b)](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/21/b); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/e)
+[^c-35ab7f99fd57af4fde0a4712dc5ec966]: Textual amendment: [Sch. 6 para. 17(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/17/2) omitted (1.4.2022) by virtue of [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 21(b)](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/21/b); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/e)
 
-[^key-dbbe11ea9cdfbd973ee7695fa73f49e8]: Textual amendment: [Sch. 6 para. 18(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/18/2) omitted (1.4.2022) by virtue of [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 21(b)](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/21/b); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/e)
+[^c-dbbe11ea9cdfbd973ee7695fa73f49e8]: Textual amendment: [Sch. 6 para. 18(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/18/2) omitted (1.4.2022) by virtue of [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 21(b)](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/21/b); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/e)
 
 [^c12486691]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17).
 
 [^c12486701]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 
-[^key-45a96ee244d9d457cadf5110cf3e48a9]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-45a96ee244d9d457cadf5110cf3e48a9]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c12486711]: Marginal citation: [1898 c. 35](https://www.legislation.gov.uk/ukpga/1898/35).
 

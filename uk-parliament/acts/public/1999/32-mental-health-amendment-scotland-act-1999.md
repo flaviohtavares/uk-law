@@ -33,18 +33,18 @@ Mental Health (Amendment) (Scotland) Act 1999 (repealed)
 
 \[11th November 1999\]
 
-[^key-c38cfc0f1a59ea8daac565defb0660b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c38cfc0f1a59ea8daac565defb0660b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Property of former patients.[^key-c38cfc0f1a59ea8daac565defb0660b2][^key-c38cfc0f1a59ea8daac565defb0660b2]
+## 1. Property of former patients.[^c-c38cfc0f1a59ea8daac565defb0660b2][^c-c38cfc0f1a59ea8daac565defb0660b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Citation, commencement and extent.[^key-c38cfc0f1a59ea8daac565defb0660b2][^key-c38cfc0f1a59ea8daac565defb0660b2]
+## 2. Citation, commencement and extent.[^c-c38cfc0f1a59ea8daac565defb0660b2][^c-c38cfc0f1a59ea8daac565defb0660b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c38cfc0f1a59ea8daac565defb0660b2]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1999/32) repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-c38cfc0f1a59ea8daac565defb0660b2]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1999/32) repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

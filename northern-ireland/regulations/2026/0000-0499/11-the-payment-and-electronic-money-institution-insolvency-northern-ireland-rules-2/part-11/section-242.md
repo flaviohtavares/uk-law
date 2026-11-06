@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 242. Third excepted case[^key-d2b73b8a9e78ae9ae7113760f47145f8]
+## 242. Third excepted case[^c-d2b73b8a9e78ae9ae7113760f47145f8]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ The court’s permission under Article 180(3) is not required where the company 
 
 ## Annotations
 
-[^key-d2b73b8a9e78ae9ae7113760f47145f8]: Commencement: [Rule 242](https://www.legislation.gov.uk/nisr/2026/11/rule/242) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-d2b73b8a9e78ae9ae7113760f47145f8]: Commencement: [Rule 242](https://www.legislation.gov.uk/nisr/2026/11/rule/242) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
 
 [^f00021]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46)

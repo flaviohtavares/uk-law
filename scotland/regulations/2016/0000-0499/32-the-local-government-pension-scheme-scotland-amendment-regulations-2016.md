@@ -32,7 +32,7 @@ summary: ''
 
 Public Service Pensions
 
-The Local Government Pension Scheme (Scotland) Amendment Regulations 2016 (revoked)[^key-a8922c81158b97b19aeb524243e74349]
+The Local Government Pension Scheme (Scotland) Amendment Regulations 2016 (revoked)[^c-a8922c81158b97b19aeb524243e74349]
 
 Made
 
@@ -46,42 +46,42 @@ Coming into force
 
 1st April 2016
 
-[^key-a8922c81158b97b19aeb524243e74349]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8922c81158b97b19aeb524243e74349]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a8922c81158b97b19aeb524243e74349]
+## 1. Citation and commencement[^c-a8922c81158b97b19aeb524243e74349]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Local Government Pension Scheme (Scotland) Regulations 2014[^key-a8922c81158b97b19aeb524243e74349]
+## 2. Amendment of the Local Government Pension Scheme (Scotland) Regulations 2014[^c-a8922c81158b97b19aeb524243e74349]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-a8922c81158b97b19aeb524243e74349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a8922c81158b97b19aeb524243e74349]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8922c81158b97b19aeb524243e74349]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a8922c81158b97b19aeb524243e74349]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8922c81158b97b19aeb524243e74349]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a8922c81158b97b19aeb524243e74349]: Textual amendment: Regulations revoked (1.6.2018) by [The Local Government Pension Scheme (Scotland) Regulations 2018 (S.S.I. 2018/141)](https://www.legislation.gov.uk/ssi/2018/141), [reg. 1](https://www.legislation.gov.uk/ssi/2018/141/regulation/1), [sch. 6 para. 1(d)](https://www.legislation.gov.uk/ssi/2018/141/schedule/6/paragraph/1/d)
+[^c-a8922c81158b97b19aeb524243e74349]: Textual amendment: Regulations revoked (1.6.2018) by [The Local Government Pension Scheme (Scotland) Regulations 2018 (S.S.I. 2018/141)](https://www.legislation.gov.uk/ssi/2018/141), [reg. 1](https://www.legislation.gov.uk/ssi/2018/141/regulation/1), [sch. 6 para. 1(d)](https://www.legislation.gov.uk/ssi/2018/141/schedule/6/paragraph/1/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 325. Counter-notice objecting to blight notice[^key-163fb194ea29506e37f88dafa5f672c3]
+## 325. Counter-notice objecting to blight notice[^c-163fb194ea29506e37f88dafa5f672c3]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-163fb194ea29506e37f88dafa5f672c3]: Commencement: S. 325 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-163fb194ea29506e37f88dafa5f672c3]: Commencement: S. 325 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

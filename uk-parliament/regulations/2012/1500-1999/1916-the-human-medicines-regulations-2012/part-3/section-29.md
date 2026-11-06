@@ -30,7 +30,7 @@ summary: ''
 - (d) be accompanied by such information as may be required to enable the licensing authority to consider the application; and
 - (e) be accompanied by the required fee (if any).
 
-(2A)[^key-94d50d05063d6f2847bf48583da018e9] In the case of an application of a type specified in paragraph (2C), the information to be provided under paragraph (2)(d) must include the information specified in paragraph 1A(2) of Schedule 3.
+(2A)[^c-94d50d05063d6f2847bf48583da018e9] In the case of an application of a type specified in paragraph (2C), the information to be provided under paragraph (2)(d) must include the information specified in paragraph 1A(2) of Schedule 3.
 
 (2B) In the case of an application of a type specified in paragraph (2D), the information to be provided under paragraph (2)(d) must include the information specified in paragraph 1B(2) of Schedule 3.
 
@@ -61,9 +61,9 @@ summary: ''
 (5) This paragraph applies to a variation which would have the effect of altering—
 
 - (a) the types of medicinal product in respect of which the licence was granted;
-- (b) any operation carried out under the licence; [^key-5559bb4ff91704618692e95a4f9a08bb]...
-- (c) any premises, equipment or facilities in respect of which the licence was granted; or[^key-c1bf58ff1f41af3b5f8476dcb20e0be4]
-- (d)[^key-8e3f2cefed82973e74474c5b402a7e20] the responsible person (import) under regulation 45AA.
+- (b) any operation carried out under the licence; [^c-5559bb4ff91704618692e95a4f9a08bb]...
+- (c) any premises, equipment or facilities in respect of which the licence was granted; or[^c-c1bf58ff1f41af3b5f8476dcb20e0be4]
+- (d)[^c-8e3f2cefed82973e74474c5b402a7e20] the responsible person (import) under regulation 45AA.
 
 (6) The period allowed for consideration of an application under this regulation is—
 
@@ -83,10 +83,10 @@ summary: ''
 
 ## Annotations
 
-[^key-94d50d05063d6f2847bf48583da018e9]: Textual amendment: [Reg. 29(2A)-(2F)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/29/2A) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/87/regulation/11)
+[^c-94d50d05063d6f2847bf48583da018e9]: Textual amendment: [Reg. 29(2A)-(2F)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/29/2A) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/87/regulation/11)
 
-[^key-5559bb4ff91704618692e95a4f9a08bb]: Textual amendment: Word in [reg. 29(5)(b)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/29/5/b) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [23(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/23/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5559bb4ff91704618692e95a4f9a08bb]: Textual amendment: Word in [reg. 29(5)(b)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/29/5/b) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [23(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/23/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c1bf58ff1f41af3b5f8476dcb20e0be4]: Textual amendment: Words in [reg. 29(5)(c)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/29/5/c) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [23(b)](https://www.legislation.gov.uk/uksi/2019/775/regulation/23/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1bf58ff1f41af3b5f8476dcb20e0be4]: Textual amendment: Words in [reg. 29(5)(c)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/29/5/c) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [23(b)](https://www.legislation.gov.uk/uksi/2019/775/regulation/23/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e3f2cefed82973e74474c5b402a7e20]: Textual amendment: [Reg. 29(5)(d)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/29/5/d) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [23(c)](https://www.legislation.gov.uk/uksi/2019/775/regulation/23/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e3f2cefed82973e74474c5b402a7e20]: Textual amendment: [Reg. 29(5)(d)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/29/5/d) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [23(c)](https://www.legislation.gov.uk/uksi/2019/775/regulation/23/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

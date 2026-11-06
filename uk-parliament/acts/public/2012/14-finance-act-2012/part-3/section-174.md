@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Index of defined terms[^key-c6528f6bbb064a94d39320b5948b795a]
+## 174. Index of defined terms[^c-c6528f6bbb064a94d39320b5948b795a]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ In this Part the following expressions are defined or otherwise explained by the
 
 ## Annotations
 
-[^key-c6528f6bbb064a94d39320b5948b795a]: Modification: [S. 174](https://www.legislation.gov.uk/ukpga/2012/14/section/174) modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2012/3008/regulation/15) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))
+[^c-c6528f6bbb064a94d39320b5948b795a]: Modification: [S. 174](https://www.legislation.gov.uk/ukpga/2012/14/section/174) modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2012/3008/regulation/15) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))

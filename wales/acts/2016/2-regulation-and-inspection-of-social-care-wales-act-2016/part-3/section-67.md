@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Social Care Wales[^key-a40bc02a2b07212f575ae3434bfe0659][^key-499e9d8b5287df30a2e9b203c4459131]
+## 67. Social Care Wales[^c-a40bc02a2b07212f575ae3434bfe0659][^c-499e9d8b5287df30a2e9b203c4459131]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a40bc02a2b07212f575ae3434bfe0659]: Commencement: [S. 67](https://www.legislation.gov.uk/anaw/2016/2/section/67) in force at 11.7.2016 for specified purposes by [S.I. 2016/713](https://www.legislation.gov.uk/wsi/2016/713), [art. 2](https://www.legislation.gov.uk/wsi/2016/713/article/2)
+[^c-a40bc02a2b07212f575ae3434bfe0659]: Commencement: [S. 67](https://www.legislation.gov.uk/anaw/2016/2/section/67) in force at 11.7.2016 for specified purposes by [S.I. 2016/713](https://www.legislation.gov.uk/wsi/2016/713), [art. 2](https://www.legislation.gov.uk/wsi/2016/713/article/2)
 
-[^key-499e9d8b5287df30a2e9b203c4459131]: Commencement: [S. 67](https://www.legislation.gov.uk/anaw/2016/2/section/67) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/309/article/2/b) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-499e9d8b5287df30a2e9b203c4459131]: Commencement: [S. 67](https://www.legislation.gov.uk/anaw/2016/2/section/67) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/309/article/2/b) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

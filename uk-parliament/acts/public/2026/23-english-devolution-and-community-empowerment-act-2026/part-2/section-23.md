@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Duty of mayors to collaborate[^key-2007118b87e1046f86cfc1d2827bb3bf]
+## 23. Duty of mayors to collaborate[^c-2007118b87e1046f86cfc1d2827bb3bf]
 
 *Extent: E+W*
 
@@ -345,4 +345,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2007118b87e1046f86cfc1d2827bb3bf]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2026/23/section/23) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-2007118b87e1046f86cfc1d2827bb3bf]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2026/23/section/23) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

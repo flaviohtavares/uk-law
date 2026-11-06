@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Power to acquire land[^key-4d71eac1094cf0530bcc78c5df7d33cc]
+## 22. Power to acquire land[^c-4d71eac1094cf0530bcc78c5df7d33cc]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ and may use any land so acquired for those purposes or for any other purposes th
 
 ## Annotations
 
-[^key-4d71eac1094cf0530bcc78c5df7d33cc]: Commencement: Art. 22 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-4d71eac1094cf0530bcc78c5df7d33cc]: Commencement: Art. 22 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

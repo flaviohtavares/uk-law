@@ -33,7 +33,7 @@ An Act to provide for loans to harbour authorities to enable them to pay certain
 
 \[23rd March 1972\]
 
-## 1. Loans to pay off capital debts temporary loans and overdrafts.[^key-0413a0e97005b8c47ea49e809f6535a9]
+## 1. Loans to pay off capital debts temporary loans and overdrafts.[^c-0413a0e97005b8c47ea49e809f6535a9]
 
 (1) Subject to subsection (2) below, where it appears to the Secretary of State that a harbour authority are, or are likely to be, unable—
 
@@ -80,7 +80,7 @@ Section 41 of the 1964 Act (power of the Council to obtain information and forec
 
 ## Annotations
 
-[^key-0413a0e97005b8c47ea49e809f6535a9]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1972/16/section/1): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/d), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
+[^c-0413a0e97005b8c47ea49e809f6535a9]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1972/16/section/1): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/d), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
 
 [^c8224411]: Textual amendment: Words repealed by [Transport Act 1981 (c. 56, SIF 58)](https://www.legislation.gov.uk/ukpga/1981/56), [s. 40](https://www.legislation.gov.uk/ukpga/1981/56/section/40), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1981/56/schedule/12/part/II)
 

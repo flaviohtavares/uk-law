@@ -43,11 +43,11 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 
 ## GENERAL
 
-### 1. Citation and commencement[^key-e5706f1bddcdb2dbfd01812afa74c734]
+### 1. Citation and commencement[^c-e5706f1bddcdb2dbfd01812afa74c734]
 
 These Regulations may be cited as the Statutory Paternity Pay (Adoption) and Statutory Adoption Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2003 and shall come into operation on 9th April 2003.
 
-### 2. Interpretation and scope[^key-c55b21b00dc06675cfa6ea87ca3d395e]
+### 2. Interpretation and scope[^c-c55b21b00dc06675cfa6ea87ca3d395e]
 
 (1) In these Regulations –
 
@@ -67,7 +67,7 @@ These Regulations may be cited as the Statutory Paternity Pay (Adoption) and Sta
 
 (3) These Regulations apply to statutory paternity pay (adoption) and statutory adoption pay in respect of adoptions from overseas.
 
-### 3. Application of the General Regulations to these Regulations[^key-fa6f1e5186c35896c6d36c3313ef9e37]
+### 3. Application of the General Regulations to these Regulations[^c-fa6f1e5186c35896c6d36c3313ef9e37]
 
 (1) Subject to paragraph (2), the provisions of the General Regulations mentioned in paragraph (3) shall, insofar as they apply to statutory paternity pay (adoption) and statutory adoption pay, apply to adoptions from overseas.
 
@@ -77,7 +77,7 @@ These Regulations may be cited as the Statutory Paternity Pay (Adoption) and Sta
 
 (4) In the General Regulations, the provisions of regulation 40 shall apply as if –
 
-- (a)[^key-e75f3f58155bb6a4d52a550606f9fb8e] in paragraph (2)(b), for “the week in which the adopter is notified of being matched with the child for the purposes of adoption” there were substituted –
+- (a)[^c-e75f3f58155bb6a4d52a550606f9fb8e] in paragraph (2)(b), for “the week in which the adopter is notified of being matched with the child for the purposes of adoption” there were substituted –
 
   > the week in which –
   >
@@ -89,7 +89,7 @@ These Regulations may be cited as the Statutory Paternity Pay (Adoption) and Sta
   .
 - (b) at the end of paragraph (2), there were added “ “official notification” has the same meaning as in the Statutory Paternity Pay (Adoption) and Statutory Adoption Pay (Adoption from Overseas) Regulations (Northern Ireland) 2003[^f00011]”.
 
-### 4. Application[^key-91d5f869ae723cb9a1cbef2c927db033]
+### 4. Application[^c-91d5f869ae723cb9a1cbef2c927db033]
 
 (1) Subject to the provisions of Part XIIZA of the Act (statutory paternity pay), the provisions of the General Regulations mentioned in paragraph (3) of regulation 3 and these Regulations, there is entitlement to statutory paternity pay (adoption) in respect of children who enter Northern Ireland on or after 9th April 2003.
 
@@ -97,11 +97,11 @@ These Regulations may be cited as the Statutory Paternity Pay (Adoption) and Sta
 
 ## STATUTORY PATERNITY PAY (ADOPTION)
 
-### 5. Conditions of entitlement to statutory paternity pay (adoption) in respect of adoptions from overseas: relationship with child and with adopter[^key-530da9cdf1ac82e008ffc7d8a58dfc6f]
+### 5. Conditions of entitlement to statutory paternity pay (adoption) in respect of adoptions from overseas: relationship with child and with adopter[^c-530da9cdf1ac82e008ffc7d8a58dfc6f]
 
 (1) The conditions prescribed under section 167ZB(2)(a) of the Act are that a person –
 
-- (a)[^key-5dcf8eb88b17215609b267ed84480833] is married to or is the civil partner or the partner of a child’s adopter, and
+- (a)[^c-5dcf8eb88b17215609b267ed84480833] is married to or is the civil partner or the partner of a child’s adopter, and
 - (b) has, or expects to have, the main responsibility (apart from the responsibility of the child’s adopter, or in a case where there are two adopters, together with the other adopter) for the upbringing of the child.
 
 (2) For the purposes of paragraph (1), “partner” means a person (whether of a different sex or the same sex) who lives with the adopter and the child in an enduring family relationship but is not a relative of the adopter of a kind specified in paragraph (3).
@@ -113,7 +113,7 @@ These Regulations may be cited as the Statutory Paternity Pay (Adoption) and Sta
 - (a) are to relationships of the full blood or half blood or, in the case of an adopted person, such of those relationships as would exist but for the adoption, and
 - (b) include the relationship of a child with his adoptive, or former adoptive parents but do not include any other adoptive relationships.
 
-### 6. Period of payment of statutory paternity pay (adoption) in respect of adoptions from overseas[^key-d7398403a8871833748f36b7425cc833]
+### 6. Period of payment of statutory paternity pay (adoption) in respect of adoptions from overseas[^c-d7398403a8871833748f36b7425cc833]
 
 (1) Subject to notice under section 167ZC(1) of the Act, paragraph (2) and regulation 8, a person entitled to statutory paternity pay (adoption) may choose the statutory paternity pay period to begin on –
 
@@ -126,7 +126,7 @@ These Regulations may be cited as the Statutory Paternity Pay (Adoption) and Sta
 
 (4) A choice made in accordance with paragraph (1) or a date specified in accordance with paragraph (2) is not irrevocable, but where a person subsequently makes a different choice or specifies a different date in relation to the beginning of the statutory paternity pay period, section 167ZC(1) of the Act shall, subject to paragraph (2), apply to it.
 
-### 7. Additional notice requirements for statutory paternity pay (adoption) in respect of adoptions from overseas[^key-794f9b0762b4360639a6336747b7d325]
+### 7. Additional notice requirements for statutory paternity pay (adoption) in respect of adoptions from overseas[^c-794f9b0762b4360639a6336747b7d325]
 
 (1) Where a person gives notice under section 167ZC(1) of the Act he shall give further notice of the following matters to the person liable to pay him statutory paternity pay (adoption) –
 
@@ -139,11 +139,11 @@ These Regulations may be cited as the Statutory Paternity Pay (Adoption) and Sta
 
 (4) Where it becomes known to the person that the child will not enter Northern Ireland, he shall notify the person who would have been liable to pay statutory paternity pay (adoption) as soon as is reasonably practicable.
 
-### 8. Qualifying period for statutory paternity pay (adoption) in respect of adoptions from overseas[^key-6b5424b8b72e84d484fe68543ab9061e]
+### 8. Qualifying period for statutory paternity pay (adoption) in respect of adoptions from overseas[^c-6b5424b8b72e84d484fe68543ab9061e]
 
 The qualifying period for the purposes of section 167ZE(2) of the Act (period within which the statutory pay period must occur) is a period of 56 days beginning with the date the child enters Northern Ireland.
 
-### 9. Evidence of entitlement for statutory paternity pay (adoption) in respect of adoptions from overseas[^key-15aaaf1246972d6da1cef0d9edc01e42]
+### 9. Evidence of entitlement for statutory paternity pay (adoption) in respect of adoptions from overseas[^c-15aaaf1246972d6da1cef0d9edc01e42]
 
 (1) A person shall produce evidence of his entitlement to statutory paternity pay (adoption) in respect of adoptions from overseas by providing in writing to the person who will be liable to pay him statutory paternity pay (adoption) the declarations specified in paragraph (2) and the information specified in paragraph (3).
 
@@ -162,14 +162,14 @@ The qualifying period for the purposes of section 167ZE(2) of the Act (period wi
 
 (4) The declarations mentioned in paragraph (2) and information mentioned in paragraph (3) shall be provided to the person liable to pay statutory paternity pay (adoption) at least 28 days before the date mentioned in sub-paragraph (c) of paragraph (3) or, if that is not reasonably practicable, as soon as is reasonably practicable thereafter.
 
-### 10. Entitlement to statutory paternity pay (adoption) where there is more than one employer in respect of adoptions from overseas[^key-d8364b957f5db2b735c86ec466096c88]
+### 10. Entitlement to statutory paternity pay (adoption) where there is more than one employer in respect of adoptions from overseas[^c-d8364b957f5db2b735c86ec466096c88]
 
 Statutory paternity pay (adoption) shall be payable to a person in respect of a statutory pay week during any part of which he works only for an employer –
 
 - (a) who is not liable to pay him statutory paternity pay (adoption); and
 - (b) for whom he has worked in the week in which the adopter receives official notification.
 
-### 11. Avoidance of liability for statutory paternity pay (adoption) in respect of adoptions from overseas[^key-f11c28f9eb4eee43b99468f569aedc4e]
+### 11. Avoidance of liability for statutory paternity pay (adoption) in respect of adoptions from overseas[^c-f11c28f9eb4eee43b99468f569aedc4e]
 
 (1) A former employer shall be liable to make payments of statutory paternity pay (adoption) to a former employee in any case where the employee has been employed for a continuous period of at least 8 weeks and his contract of service was brought to an end by the former employer solely, or mainly, for the purpose of avoiding liability for statutory paternity pay (adoption).
 
@@ -180,7 +180,7 @@ Statutory paternity pay (adoption) shall be payable to a person in respect of a 
 
 ## STATUTORY ADOPTION PAY
 
-### 12. Adoption pay period in respect of adoptions from overseas[^key-7db2a1b79c1d6dc90007ca5b53adb9da]
+### 12. Adoption pay period in respect of adoptions from overseas[^c-7db2a1b79c1d6dc90007ca5b53adb9da]
 
 (1) Subject to notice under section 167ZL(6) of the Act and paragraph (2), a person entitled to statutory adoption pay may choose the adoption pay period to begin –
 
@@ -195,7 +195,7 @@ Statutory paternity pay (adoption) shall be payable to a person in respect of a 
 
 (5) A choice made under paragraph (1), or a date specified under paragraph (2), is not irrevocable, but where a person subsequently makes a different choice or specifies a different date in relation to the beginning of the statutory adoption pay period, section 167ZL(6) of the Act shall, subject to paragraph (2), apply to it.
 
-### 13. Adoption pay period in respect of adoptions from overseas where adoption is disrupted[^key-83e6251cefd2267d1938e55910a3378c]
+### 13. Adoption pay period in respect of adoptions from overseas where adoption is disrupted[^c-83e6251cefd2267d1938e55910a3378c]
 
 (1) Where after a child enters Northern Ireland the child –
 
@@ -213,7 +213,7 @@ the adoption pay period shall terminate in accordance with the provisions of par
 
 (4) For the purposes of paragraph (3), “week” means a period of seven days beginning with and including Sunday.
 
-### 14. Additional notice requirements for statutory adoption pay in respect of adoptions from overseas[^key-9c4b08bc68a0a0393d26eb29b90e25c4]
+### 14. Additional notice requirements for statutory adoption pay in respect of adoptions from overseas[^c-9c4b08bc68a0a0393d26eb29b90e25c4]
 
 (1) Where a person gives notice under section 167ZL(6) of the Act he shall give further notice of the following matters to the person liable to pay him statutory adoption pay –
 
@@ -226,7 +226,7 @@ the adoption pay period shall terminate in accordance with the provisions of par
 
 (4) Where it becomes known to the adopter that the child will not enter Northern Ireland, he shall notify the person who would have been liable to pay statutory adoption pay as soon as is reasonably practicable.
 
-### 15. Evidence of entitlement to statutory adoption pay in respect of adoptions from overseas[^key-782e1e8498c21ba9541c9b4407655e9c]
+### 15. Evidence of entitlement to statutory adoption pay in respect of adoptions from overseas[^c-782e1e8498c21ba9541c9b4407655e9c]
 
 (1) A person shall provide evidence of his entitlement to statutory adoption pay by providing, to the person who will be liable to pay it, a copy of the official notification and, in writing –
 
@@ -241,14 +241,14 @@ the adoption pay period shall terminate in accordance with the provisions of par
 
 (3) The information and declarations referred to in paragraph (1), other than that mentioned in sub-paragraph (c) of paragraph (1), shall be provided to the person liable to pay statutory adoption pay at least 28 days before the date chosen as the beginning of the adoption pay period in accordance with paragraph (1) of regulation 12 or specified in accordance with paragraph (2) of that regulation or, if that is not reasonably practicable, as soon as is reasonably practicable thereafter.
 
-### 16. Entitlement to statutory adoption pay in respect of adoptions from overseas where there is more than one employer[^key-3726b88ed6e1323134ca2b0a4d4be5db]
+### 16. Entitlement to statutory adoption pay in respect of adoptions from overseas where there is more than one employer[^c-3726b88ed6e1323134ca2b0a4d4be5db]
 
 Statutory adoption pay shall be payable to a person in respect of a week during any part of which he works only for an employer –
 
 - (a) who is not liable to pay him statutory adoption pay; and
 - (b) for whom he has worked in the week in which he receives official notification.
 
-### 17. Termination of employment and liability to pay statutory adoption pay in respect of adoptions from overseas[^key-7eac950a7fa1f6c8313c9e614efd4014]
+### 17. Termination of employment and liability to pay statutory adoption pay in respect of adoptions from overseas[^c-7eac950a7fa1f6c8313c9e614efd4014]
 
 (1) Where the employment of a person who satisfies the conditions of entitlement to statutory adoption pay in respect of adoptions from overseas terminates for whatever reason (including dismissal) before the adoption pay period chosen or specified by that person in accordance with regulation 12 has begun, the period shall begin on a date chosen by that person which is at least 28 days after notice has been given and within 28 days of the date of the child’s entry into Northern Ireland.
 
@@ -256,7 +256,7 @@ Statutory adoption pay shall be payable to a person in respect of a week during 
 
 (3) Where liability to pay statutory adoption pay has passed to the Board in accordance with paragraph (2) and the adopter, having started employment as an employed earner, becomes entitled to statutory adoption pay by virtue of that employment, the liability of the Board shall cease and section 167ZM(1) of the Act shall apply.
 
-### 18. Avoidance of liability for statutory adoption pay in respect of adoptions from overseas[^key-815b98d67510ea96444fef079f85227b]
+### 18. Avoidance of liability for statutory adoption pay in respect of adoptions from overseas[^c-815b98d67510ea96444fef079f85227b]
 
 (1) A former employer shall be liable to make payments of statutory adoption pay to a former employee in any case where the employee had been employed for a continuous period of at least 8 weeks and his contract of service was brought to an end by the former employer solely, or mainly, for the purpose of avoiding liability for statutory adoption pay.
 
@@ -335,9 +335,9 @@ Regulations 12 to 18 relate to statutory adoption pay:
 
 [^f00006]: Footnote: *See* section 150(5)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-e5706f1bddcdb2dbfd01812afa74c734]: Commencement: Reg. 1 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-e5706f1bddcdb2dbfd01812afa74c734]: Commencement: Reg. 1 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-c55b21b00dc06675cfa6ea87ca3d395e]: Commencement: Reg. 2 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-c55b21b00dc06675cfa6ea87ca3d395e]: Commencement: Reg. 2 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
 [^f00007]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
@@ -347,40 +347,40 @@ Regulations 12 to 18 relate to statutory adoption pay:
 
 [^f00010]: Footnote: [S.R. 2003 No. 16](https://www.legislation.gov.uk/nisr/2003/16)
 
-[^key-fa6f1e5186c35896c6d36c3313ef9e37]: Commencement: Reg. 3 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-fa6f1e5186c35896c6d36c3313ef9e37]: Commencement: Reg. 3 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-e75f3f58155bb6a4d52a550606f9fb8e]: Textual amendment: [Reg. 3(4)(a)](https://www.legislation.gov.uk/nisr/2003/223/regulation/3/4/a) substituted (6.4.2004) by [Statutory Paternity Pay and Statutory Adoption Pay (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/132)](https://www.legislation.gov.uk/nisr/2004/132), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/132/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2004/132/regulation/4/2)
+[^c-e75f3f58155bb6a4d52a550606f9fb8e]: Textual amendment: [Reg. 3(4)(a)](https://www.legislation.gov.uk/nisr/2003/223/regulation/3/4/a) substituted (6.4.2004) by [Statutory Paternity Pay and Statutory Adoption Pay (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/132)](https://www.legislation.gov.uk/nisr/2004/132), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/132/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2004/132/regulation/4/2)
 
 [^f00011]: Footnote: [S.R. 2003 No. 223](https://www.legislation.gov.uk/nisr/2003/223)
 
-[^key-91d5f869ae723cb9a1cbef2c927db033]: Commencement: Reg. 4 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-91d5f869ae723cb9a1cbef2c927db033]: Commencement: Reg. 4 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-530da9cdf1ac82e008ffc7d8a58dfc6f]: Commencement: Reg. 5 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-530da9cdf1ac82e008ffc7d8a58dfc6f]: Commencement: Reg. 5 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-5dcf8eb88b17215609b267ed84480833]: Textual amendment: [Reg. 5(1)(a)](https://www.legislation.gov.uk/nisr/2003/223/regulation/5/1/a) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order (Northern Ireland) 2005 (S.R. 2005/520)](https://www.legislation.gov.uk/nisr/2005/520), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2005/520/article/1/1), [17](https://www.legislation.gov.uk/nisr/2005/520/article/17)
+[^c-5dcf8eb88b17215609b267ed84480833]: Textual amendment: [Reg. 5(1)(a)](https://www.legislation.gov.uk/nisr/2003/223/regulation/5/1/a) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order (Northern Ireland) 2005 (S.R. 2005/520)](https://www.legislation.gov.uk/nisr/2005/520), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2005/520/article/1/1), [17](https://www.legislation.gov.uk/nisr/2005/520/article/17)
 
-[^key-d7398403a8871833748f36b7425cc833]: Commencement: Reg. 6 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-d7398403a8871833748f36b7425cc833]: Commencement: Reg. 6 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-794f9b0762b4360639a6336747b7d325]: Commencement: Reg. 7 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-794f9b0762b4360639a6336747b7d325]: Commencement: Reg. 7 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-6b5424b8b72e84d484fe68543ab9061e]: Commencement: Reg. 8 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-6b5424b8b72e84d484fe68543ab9061e]: Commencement: Reg. 8 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-15aaaf1246972d6da1cef0d9edc01e42]: Commencement: Reg. 9 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-15aaaf1246972d6da1cef0d9edc01e42]: Commencement: Reg. 9 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-d8364b957f5db2b735c86ec466096c88]: Commencement: Reg. 10 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-d8364b957f5db2b735c86ec466096c88]: Commencement: Reg. 10 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-f11c28f9eb4eee43b99468f569aedc4e]: Commencement: Reg. 11 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-f11c28f9eb4eee43b99468f569aedc4e]: Commencement: Reg. 11 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-7db2a1b79c1d6dc90007ca5b53adb9da]: Commencement: Reg. 12 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-7db2a1b79c1d6dc90007ca5b53adb9da]: Commencement: Reg. 12 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-83e6251cefd2267d1938e55910a3378c]: Commencement: Reg. 13 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-83e6251cefd2267d1938e55910a3378c]: Commencement: Reg. 13 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-9c4b08bc68a0a0393d26eb29b90e25c4]: Commencement: Reg. 14 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-9c4b08bc68a0a0393d26eb29b90e25c4]: Commencement: Reg. 14 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-782e1e8498c21ba9541c9b4407655e9c]: Commencement: Reg. 15 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-782e1e8498c21ba9541c9b4407655e9c]: Commencement: Reg. 15 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-3726b88ed6e1323134ca2b0a4d4be5db]: Commencement: Reg. 16 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-3726b88ed6e1323134ca2b0a4d4be5db]: Commencement: Reg. 16 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-7eac950a7fa1f6c8313c9e614efd4014]: Commencement: Reg. 17 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-7eac950a7fa1f6c8313c9e614efd4014]: Commencement: Reg. 17 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
 
-[^key-815b98d67510ea96444fef079f85227b]: Commencement: Reg. 18 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)
+[^c-815b98d67510ea96444fef079f85227b]: Commencement: Reg. 18 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/223/regulation/1)

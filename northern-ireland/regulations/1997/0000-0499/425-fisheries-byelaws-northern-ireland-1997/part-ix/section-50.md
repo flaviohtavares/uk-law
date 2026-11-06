@@ -20,11 +20,11 @@ summary: ''
 
 **Not yet in force.**
 
-**50.**[^key-504bbc5ffc72a05681edc848048d1571] A boat used for commercial fishing on Upper and Lower Lough Erne shall not exceed—
+**50.**[^c-504bbc5ffc72a05681edc848048d1571] A boat used for commercial fishing on Upper and Lower Lough Erne shall not exceed—
 
 - (a) 6.1 metres in length, such length to be measured from the foreside of the foremost fixed permanent structure to the aftmost part of the stern or transom; and
 - (b) a beam measurement of 2.2 metres at the widest point.
 
 ## Annotations
 
-[^key-504bbc5ffc72a05681edc848048d1571]: Commencement: S. 50 in operation at 1.11.1997, see byelaw 1
+[^c-504bbc5ffc72a05681edc848048d1571]: Commencement: S. 50 in operation at 1.11.1997, see byelaw 1

@@ -66,109 +66,109 @@ In respect of the amendment to the Water Resources (Control of Pollution) (Silag
 
 (3) In paragraph (2), references to amendments are references to amendments by these Regulations to the Nitrate Pollution Prevention Regulations 2008.
 
-## 2. Amendment of the Nitrate Pollution Prevention Regulations 2008[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 2. Amendment of the Nitrate Pollution Prevention Regulations 2008[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments in respect of the designation of nitrate vulnerable zones[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 3. Amendments in respect of the designation of nitrate vulnerable zones[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments in respect of the action programme measures[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 4. Amendments in respect of the action programme measures[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 5.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 6.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 7.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 8.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 9.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 10.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 11.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 12.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 13.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 14.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 15.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 16.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 17.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 18.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 19.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 20.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 21.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Greenhouse exemptions and transitional provisions for holdings newly in a nitrate vulnerable zone[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 22. Greenhouse exemptions and transitional provisions for holdings newly in a nitrate vulnerable zone[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Other amendments to Schedules[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 23. Other amendments to Schedules[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 24.[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Amendments to grassland derogation conditions[^key-049dbda2a33a6787f3b6810c5180dcc6]
+## 25. Amendments to grassland derogation conditions[^c-049dbda2a33a6787f3b6810c5180dcc6]
 
 **No longer in force.**
 
@@ -234,6 +234,6 @@ An impact assessment has been carried out in respect of these Regulations and ha
 
 [^c21777331]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57). The functions of the Secretary of State and of the Minister of Agriculture, Fisheries and Food under section 92, so far as exercisable in relation to Wales outside of the catchments of the rivers Dee, Wye and Severn, were transferred to the National Assembly for Wales under article 2 of and Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999 (SI 1999/672), and subsequently to Welsh Ministers under section 162 of and paragraph 30 of Schedule 11 to the Government of Wales Act 2006 (c. 32.). In relation to those parts of the catchments of the rivers Dee, Wye and Severn in Wales, it was directed in the 1999 Order that the functions of the Secretary of State and of the Minister of Agriculture, Fisheries and Food be exercisable by the National Assembly for Wales concurrently with the Secretary of State. Remaining functions of the Minister of Agriculture, Fisheries and Food were transferred to the Secretary of State under article 2 of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (SI 2002/794).
 
-[^key-049dbda2a33a6787f3b6810c5180dcc6]: Textual amendment: Regs. 2-25 revoked (1.5.2015) by [The Nitrate Pollution Prevention Regulations 2015 (S.I. 2015/668)](https://www.legislation.gov.uk/uksi/2015/668), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/668/regulation/1/2), [44(e)](https://www.legislation.gov.uk/uksi/2015/668/regulation/44/e)
+[^c-049dbda2a33a6787f3b6810c5180dcc6]: Textual amendment: Regs. 2-25 revoked (1.5.2015) by [The Nitrate Pollution Prevention Regulations 2015 (S.I. 2015/668)](https://www.legislation.gov.uk/uksi/2015/668), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/668/regulation/1/2), [44(e)](https://www.legislation.gov.uk/uksi/2015/668/regulation/44/e)
 
 [^c21777391]: Marginal citation: SI 2010/639, as amended by SI 2010/1091.

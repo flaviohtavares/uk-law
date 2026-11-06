@@ -33,7 +33,7 @@ An Act to make provision in connection with human embryos and any subsequent dev
 
 \[1st November 1990\]
 
-[^c271605]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b88499e2f6eccd67f803533145a555af]
+[^c271605]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b88499e2f6eccd67f803533145a555af]
 
 ## Contents
 
@@ -149,11 +149,11 @@ An Act to make provision in connection with human embryos and any subsequent dev
 - [Section 34 — Disclosure in interests of justice.](section-34.md)
 - [Section 35 — Disclosure in interests of justice: congenital disabilities, etc.](section-35.md)
 
-### Mitochondrial donation[^key-1a6f9c12c00f9c6869eee311acc266b5]
+### Mitochondrial donation[^c-1a6f9c12c00f9c6869eee311acc266b5]
 
 - [Section 35A — Mitochondrial donation](section-35a.md)
 
-### Fees[^key-cfe46835494779be0f3ff534c9e0f2fd]
+### Fees[^c-cfe46835494779be0f3ff534c9e0f2fd]
 
 - [Section 35B — Fees](section-35b.md)
 
@@ -220,8 +220,8 @@ SCHEDULES
 
     Act referred to (S.) (1.4.1997) by [S.I. 1997/291](https://www.legislation.gov.uk/uksi/1997/291), [rules 2](https://www.legislation.gov.uk/uksi/1997/291/rule/2).45-2.59 (Ch. 2 Pt. VI)
 
-[^key-b88499e2f6eccd67f803533145a555af]: Modification: Act applied (with modifications) (1.10.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [Sch. 4 paras. 1-12](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4/paragraph/1)
+[^c-b88499e2f6eccd67f803533145a555af]: Modification: Act applied (with modifications) (1.10.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [Sch. 4 paras. 1-12](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4/paragraph/1)
 
-[^key-1a6f9c12c00f9c6869eee311acc266b5]: Textual amendment: S. 35A and cross-heading inserted (1.10.2009 for specified purposes, 6.4.2010 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 26](https://www.legislation.gov.uk/ukpga/2008/22/section/26), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(m)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/m); [S.I. 2010/987](https://www.legislation.gov.uk/uksi/2010/987), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/987/article/2/b)
+[^c-1a6f9c12c00f9c6869eee311acc266b5]: Textual amendment: S. 35A and cross-heading inserted (1.10.2009 for specified purposes, 6.4.2010 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 26](https://www.legislation.gov.uk/ukpga/2008/22/section/26), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(m)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/m); [S.I. 2010/987](https://www.legislation.gov.uk/uksi/2010/987), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/987/article/2/b)
 
-[^key-cfe46835494779be0f3ff534c9e0f2fd]: Textual amendment: S. 35B and cross-heading inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 27](https://www.legislation.gov.uk/ukpga/2008/22/section/27), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(n)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/n)
+[^c-cfe46835494779be0f3ff534c9e0f2fd]: Textual amendment: S. 35B and cross-heading inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 27](https://www.legislation.gov.uk/ukpga/2008/22/section/27), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(n)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/n)

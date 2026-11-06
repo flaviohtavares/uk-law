@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Establishment of tribunal[^key-0b4d6ea5e52585a66bb66585b534c4f5]
+## 25. Establishment of tribunal[^c-0b4d6ea5e52585a66bb66585b534c4f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b4d6ea5e52585a66bb66585b534c4f5]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/2004/36/section/25) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/29)
+[^c-0b4d6ea5e52585a66bb66585b534c4f5]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/2004/36/section/25) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/29)

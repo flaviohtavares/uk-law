@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Marine licensing in the Welsh offshore region[^key-2e7c60b66370c73c93e4e2e10f3591bb]
+## 46. Marine licensing in the Welsh offshore region[^c-2e7c60b66370c73c93e4e2e10f3591bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e7c60b66370c73c93e4e2e10f3591bb]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2017/4/section/46) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+[^c-2e7c60b66370c73c93e4e2e10f3591bb]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2017/4/section/46) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)

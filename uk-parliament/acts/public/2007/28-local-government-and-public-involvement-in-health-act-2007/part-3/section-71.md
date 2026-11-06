@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Larger authorities to cease operating alternative arrangements[^key-0dcc1e4d8e980b53a4c76685f2d97b34]
+## 71. Larger authorities to cease operating alternative arrangements[^c-0dcc1e4d8e980b53a4c76685f2d97b34]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dcc1e4d8e980b53a4c76685f2d97b34]: Commencement: S. 71 in force at 30.12.2007, see s. 245(2)
+[^c-0dcc1e4d8e980b53a4c76685f2d97b34]: Commencement: S. 71 in force at 30.12.2007, see s. 245(2)

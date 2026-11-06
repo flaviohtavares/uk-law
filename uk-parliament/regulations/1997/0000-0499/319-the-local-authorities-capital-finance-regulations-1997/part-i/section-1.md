@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement and interpretation[^key-4e126dac16e98c3cc94fe36037e8f7a6]
+## 1. Citation, commencement and interpretation[^c-4e126dac16e98c3cc94fe36037e8f7a6]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e126dac16e98c3cc94fe36037e8f7a6]: Commencement: Reg. 1 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-4e126dac16e98c3cc94fe36037e8f7a6]: Commencement: Reg. 1 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00002]: Footnote: [S.I. 1990/432](https://www.legislation.gov.uk/uksi/1990/432); amended by [S.I. 1990/1273](https://www.legislation.gov.uk/uksi/1990/1273), [S.I. 1991/500](https://www.legislation.gov.uk/uksi/1991/500), [S.I. 1992/502](https://www.legislation.gov.uk/uksi/1992/502), [S.I. 1992/738](https://www.legislation.gov.uk/uksi/1992/738), [S.I. 1992/1618](https://www.legislation.gov.uk/uksi/1992/1618), [S.I. 1992/2819](https://www.legislation.gov.uk/uksi/1992/2819), [S.I. 1992/3257](https://www.legislation.gov.uk/uksi/1992/3257), [S.I. 1993/520](https://www.legislation.gov.uk/uksi/1993/520), [S.I. 1993/2014](https://www.legislation.gov.uk/uksi/1993/2014), [S.I. 1993/3054](https://www.legislation.gov.uk/uksi/1993/3054), [S.I. 1994/553](https://www.legislation.gov.uk/uksi/1994/553), [S.I. 1995/850](https://www.legislation.gov.uk/uksi/1995/850), [S.I. 1995/1526](https://www.legislation.gov.uk/uksi/1995/1526), [S.I. 1995/1982](https://www.legislation.gov.uk/uksi/1995/1982), [S.I. 1996/568](https://www.legislation.gov.uk/uksi/1996/568), [S.I. 1996/2121](https://www.legislation.gov.uk/uksi/1996/2121) and [S.I. 1996/2539](https://www.legislation.gov.uk/uksi/1996/2539).

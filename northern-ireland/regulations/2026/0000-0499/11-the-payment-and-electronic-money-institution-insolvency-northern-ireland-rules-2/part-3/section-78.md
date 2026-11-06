@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Procedure at meetings[^key-54ab1a87ee8c396fc030a48be0e3aced]
+## 78. Procedure at meetings[^c-54ab1a87ee8c396fc030a48be0e3aced]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54ab1a87ee8c396fc030a48be0e3aced]: Commencement: [Rule 78](https://www.legislation.gov.uk/nisr/2026/11/rule/78) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-54ab1a87ee8c396fc030a48be0e3aced]: Commencement: [Rule 78](https://www.legislation.gov.uk/nisr/2026/11/rule/78) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221. Duty of the Secretary of State to indemnify[^key-174a545b47da301fe1c8f0393c19eba1]
+## 221. Duty of the Secretary of State to indemnify[^c-174a545b47da301fe1c8f0393c19eba1]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The cases and circumstances prescribed for the purposes of section 35(5)(b) (pow
 
 ## Annotations
 
-[^key-174a545b47da301fe1c8f0393c19eba1]: Commencement: Reg. 221 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-174a545b47da301fe1c8f0393c19eba1]: Commencement: Reg. 221 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

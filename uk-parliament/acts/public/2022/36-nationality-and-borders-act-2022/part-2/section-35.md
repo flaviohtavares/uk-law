@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Article 1(A)(2): internal relocation[^key-f9f1d7fbfe617ba4b37a388ead275795]
+## 35. Article 1(A)(2): internal relocation[^c-f9f1d7fbfe617ba4b37a388ead275795]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9f1d7fbfe617ba4b37a388ead275795]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/36/section/35) in force at 28.6.2022, see [s. 87(5)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/d)
+[^c-f9f1d7fbfe617ba4b37a388ead275795]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/36/section/35) in force at 28.6.2022, see [s. 87(5)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/d)

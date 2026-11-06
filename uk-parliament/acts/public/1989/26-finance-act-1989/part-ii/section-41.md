@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Schedule E: pensions etc.[^key-9d330eaf0f604aaa7c5009fadbdc3f0b][^c13110901]
+## 41. Schedule E: pensions etc.[^c-9d330eaf0f604aaa7c5009fadbdc3f0b][^c13110901]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d330eaf0f604aaa7c5009fadbdc3f0b]: Textual amendment: [Ss. 36-42](https://www.legislation.gov.uk/ukpga/1989/26/section/36) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-9d330eaf0f604aaa7c5009fadbdc3f0b]: Textual amendment: [Ss. 36-42](https://www.legislation.gov.uk/ukpga/1989/26/section/36) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
 [^c13110901]: Modification: S. 41 extended (3.5.1994) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 139(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/139/3)

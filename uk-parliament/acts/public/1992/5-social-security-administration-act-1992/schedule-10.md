@@ -39,7 +39,7 @@ Section 186
 
 ### Adjudication
 
-**3.** (1) Sections 8 to 18, 29 to 31 and 39 of the Social Security Act 1998[^M_F_2c3e2004-5699-4774-b7ba-b97b957bb701] and sections 124 to 124B[^key-8de84e2c9ce4afeefeafc58fe4cba663] above shall have effect for the purposes of the benefits specified in paragraph 2(2) above as they have effect for the purposes of benefit within the meaning of section 122 of the Contributions and Benefits Act other than attendance allowance, disability living allowance and disability working allowance.
+**3.** (1) Sections 8 to 18, 29 to 31 and 39 of the Social Security Act 1998[^M_F_2c3e2004-5699-4774-b7ba-b97b957bb701] and sections 124 to 124B[^c-8de84e2c9ce4afeefeafc58fe4cba663] above shall have effect for the purposes of the benefits specified in paragraph 2(2) above as they have effect for the purposes of benefit within the meaning of section 122 of the Contributions and Benefits Act other than attendance allowance, disability living allowance and disability working allowance.
 
 (2) Procedure regulations made under section 16 of the Social Security Act 1998[^c24158761] by virtue of sub-paragraph (1) may make different provision in relation to each of the benefits specified in paragraph 2(2) above.
 
@@ -2220,7 +2220,7 @@ Section 186
 
 [^M_F_2c3e2004-5699-4774-b7ba-b97b957bb701]: Textual amendment: Words in Sch. 10 para. 3(1) substituted (29.11.1999 for specified purposes) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 7 para. 116(1)](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/116/1); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1)
 
-[^key-8de84e2c9ce4afeefeafc58fe4cba663]: Textual amendment: Words in Sch. 10 para. 3(1) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005 (S.I. 2005/3129)](https://www.legislation.gov.uk/uksi/2005/3129), [art. 1](https://www.legislation.gov.uk/uksi/2005/3129/article/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2005/3129/schedule/1/paragraph/4/2)
+[^c-8de84e2c9ce4afeefeafc58fe4cba663]: Textual amendment: Words in Sch. 10 para. 3(1) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005 (S.I. 2005/3129)](https://www.legislation.gov.uk/uksi/2005/3129), [art. 1](https://www.legislation.gov.uk/uksi/2005/3129/article/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2005/3129/schedule/1/paragraph/4/2)
 
 [^c24158761]: Textual amendment: Words in Sch. 10 para. 3(2) substituted (29.11.1999 for specified purposes) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 7 para. 116(2)](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/116/2); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1)
 

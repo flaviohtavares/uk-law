@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57ZN. Right to paid time off to attend adoption appointments: agency workers[^key-ba5989c0e9dfaa4fed1f7d4e67cffb7a]
+## 57ZN. Right to paid time off to attend adoption appointments: agency workers[^c-ba5989c0e9dfaa4fed1f7d4e67cffb7a]
 
 *Extent: E+W+S*
 
@@ -65,4 +65,4 @@ is entitled to be permitted by the temporary work agency and the hirer to take t
 
 ## Annotations
 
-[^key-ba5989c0e9dfaa4fed1f7d4e67cffb7a]: Textual amendment: Ss. 57ZJ-57ZS and cross-headings inserted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/d)
+[^c-ba5989c0e9dfaa4fed1f7d4e67cffb7a]: Textual amendment: Ss. 57ZJ-57ZS and cross-headings inserted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/d)

@@ -32,7 +32,7 @@ summary: ''
 
 Food, England
 
-The Extraction Solvents in Food (Amendment) (England) Regulations 2011 (revoked)[^key-c3d74ba800f6a81677adb97b84e665c4]
+The Extraction Solvents in Food (Amendment) (England) Regulations 2011 (revoked)[^c-c3d74ba800f6a81677adb97b84e665c4]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 15th August 2011
 
-[^key-c3d74ba800f6a81677adb97b84e665c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3d74ba800f6a81677adb97b84e665c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-c3d74ba800f6a81677adb97b84e665c4]
+## 1. Title, application and commencement[^c-c3d74ba800f6a81677adb97b84e665c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Extraction Solvents in Food Regulations 1993[^key-c3d74ba800f6a81677adb97b84e665c4]
+## 2. Amendment of the Extraction Solvents in Food Regulations 1993[^c-c3d74ba800f6a81677adb97b84e665c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c3d74ba800f6a81677adb97b84e665c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3d74ba800f6a81677adb97b84e665c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c3d74ba800f6a81677adb97b84e665c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3d74ba800f6a81677adb97b84e665c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c3d74ba800f6a81677adb97b84e665c4]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013 (S.I. 2013/2210)](https://www.legislation.gov.uk/uksi/2013/2210), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2210/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/2210/schedule/5)
+[^c-c3d74ba800f6a81677adb97b84e665c4]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013 (S.I. 2013/2210)](https://www.legislation.gov.uk/uksi/2013/2210), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2210/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/2210/schedule/5)

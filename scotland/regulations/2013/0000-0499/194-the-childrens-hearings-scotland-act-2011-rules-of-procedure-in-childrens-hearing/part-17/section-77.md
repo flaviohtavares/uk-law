@@ -38,7 +38,7 @@ summary: ''
 - (b) sign and date the report; and
 - (c) give the report to the Reporter.
 
-(6) Subject to paragraph (7),[^key-320cfcf1b7e52873c5ca6eff324b428a] the Reporter must, within 5 days of the hearing, give the report to—
+(6) Subject to paragraph (7),[^c-320cfcf1b7e52873c5ca6eff324b428a] the Reporter must, within 5 days of the hearing, give the report to—
 
 - (a) the court which requires to come to a decision on the permanence order application;
 - (b) the child;
@@ -46,7 +46,7 @@ summary: ''
 - (d) any appointed safeguarder;
 - (e) the chief social work officer of the implementation authority for the child.
 
-(7)[^key-03b313da42a1494252c13964190d650e] Where a non-disclosure request made under Part 19 of these Rules has been determined by the children’s hearing in relation to information contained in the report and in consequence of that determination the Reporter has, by virtue of rule 15, ensured the removal of that information from the report to be given to a specified person, the Reporter must, within 5 days of the hearing, give to the court mentioned in paragraph (6)(a)—
+(7)[^c-03b313da42a1494252c13964190d650e] Where a non-disclosure request made under Part 19 of these Rules has been determined by the children’s hearing in relation to information contained in the report and in consequence of that determination the Reporter has, by virtue of rule 15, ensured the removal of that information from the report to be given to a specified person, the Reporter must, within 5 days of the hearing, give to the court mentioned in paragraph (6)(a)—
 
 - (a) the report;
 - (b) the redacted report; and
@@ -64,6 +64,6 @@ summary: ''
 
 [^c21803581]: Marginal citation: Section 96 is amended by the Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/xxx).
 
-[^key-320cfcf1b7e52873c5ca6eff324b428a]: Textual amendment: Words in rule 77(6) inserted (26.1.2015) by [The Children s Hearings (Scotland) Act 2011 (Rules of Procedure in Children s Hearings) Amendment Rules 2015 (S.S.I. 2015/21)](https://www.legislation.gov.uk/ssi/2015/21), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/21/rule/1/1), [7(1)](https://www.legislation.gov.uk/ssi/2015/21/rule/7/1)
+[^c-320cfcf1b7e52873c5ca6eff324b428a]: Textual amendment: Words in rule 77(6) inserted (26.1.2015) by [The Children s Hearings (Scotland) Act 2011 (Rules of Procedure in Children s Hearings) Amendment Rules 2015 (S.S.I. 2015/21)](https://www.legislation.gov.uk/ssi/2015/21), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/21/rule/1/1), [7(1)](https://www.legislation.gov.uk/ssi/2015/21/rule/7/1)
 
-[^key-03b313da42a1494252c13964190d650e]: Textual amendment: Rule 77(7)(8) inserted (26.1.2015) by [The Children s Hearings (Scotland) Act 2011 (Rules of Procedure in Children s Hearings) Amendment Rules 2015 (S.S.I. 2015/21)](https://www.legislation.gov.uk/ssi/2015/21), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/21/rule/1/1), [7(2)](https://www.legislation.gov.uk/ssi/2015/21/rule/7/2)
+[^c-03b313da42a1494252c13964190d650e]: Textual amendment: Rule 77(7)(8) inserted (26.1.2015) by [The Children s Hearings (Scotland) Act 2011 (Rules of Procedure in Children s Hearings) Amendment Rules 2015 (S.S.I. 2015/21)](https://www.legislation.gov.uk/ssi/2015/21), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/21/rule/1/1), [7(2)](https://www.legislation.gov.uk/ssi/2015/21/rule/7/2)

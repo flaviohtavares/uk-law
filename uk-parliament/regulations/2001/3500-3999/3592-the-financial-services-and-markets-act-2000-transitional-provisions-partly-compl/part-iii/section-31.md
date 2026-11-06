@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Notice of intention to give a direction under section 51 of Friendly Societies Act[^key-9d72d1d5ca10c01bf7b9b131364e532d]
+## 31. Notice of intention to give a direction under section 51 of Friendly Societies Act[^c-9d72d1d5ca10c01bf7b9b131364e532d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ the notice has effect after commencement as if it were a notice given by the Aut
 
 ## Annotations
 
-[^key-9d72d1d5ca10c01bf7b9b131364e532d]: Commencement: Art. 31 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-9d72d1d5ca10c01bf7b9b131364e532d]: Commencement: Art. 31 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

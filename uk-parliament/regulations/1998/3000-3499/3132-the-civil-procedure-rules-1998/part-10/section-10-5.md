@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10.5. Contents of acknowledgment of service[^key-084a48489d95f95c5896b7aa2c47a91a]
+## 10.5. Contents of acknowledgment of service[^c-084a48489d95f95c5896b7aa2c47a91a]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (Rule 6.23 makes provision in relation to addresses for service.)
 
-(Rule 19.13[^key-860072cf4dd540b73a3cf6c07a74c8c6] modifies this Part where a notice of claim is served under that rule to bind a person not a party to the claim.)
+(Rule 19.13[^c-860072cf4dd540b73a3cf6c07a74c8c6] modifies this Part where a notice of claim is served under that rule to bind a person not a party to the claim.)
 
 (2) If two or more defendants to a claim acknowledge service of the claim through the same legal representative at the same time, only one acknowledgment of service is required.
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-084a48489d95f95c5896b7aa2c47a91a]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/1998/3132/part/10) substituted (with application in accordance with rule 1(2) of the amending S.I.) by [The Civil Procedure (Amendment) Rules 2022 (S.I. 2022/101)](https://www.legislation.gov.uk/uksi/2022/101), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/101/schedule/1)
+[^c-084a48489d95f95c5896b7aa2c47a91a]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/1998/3132/part/10) substituted (with application in accordance with rule 1(2) of the amending S.I.) by [The Civil Procedure (Amendment) Rules 2022 (S.I. 2022/101)](https://www.legislation.gov.uk/uksi/2022/101), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/101/schedule/1)
 
-[^key-860072cf4dd540b73a3cf6c07a74c8c6]: Textual amendment: Word in [rule 10.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/10.5) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [8](https://www.legislation.gov.uk/uksi/2023/105/rule/8)
+[^c-860072cf4dd540b73a3cf6c07a74c8c6]: Textual amendment: Word in [rule 10.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/10.5) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [8](https://www.legislation.gov.uk/uksi/2023/105/rule/8)

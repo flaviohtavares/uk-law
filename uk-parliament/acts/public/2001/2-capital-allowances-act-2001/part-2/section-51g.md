@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51G. Companies and groups: meaning of “related”[^key-1a98ef4ab5c694ae4329e59fe1a3b443][^key-27e2104a719ff9fd66766c86b94809ef]
+## 51G. Companies and groups: meaning of “related”[^c-1a98ef4ab5c694ae4329e59fe1a3b443][^c-27e2104a719ff9fd66766c86b94809ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,13 +42,13 @@ are met in relation to the companies in that financial year.
 
 (7) In this section—
 
-- “**NACE classification**” means the first level of the common statistical classification of economic activities in the European Union established by Regulation [(EC) No 1893/2006](https://www.legislation.gov.uk/eur/2006/1893) of the European Parliament and the Council of 20 December 2006 (as that Regulation has effect in EU law[^key-f40a9e9271e208d7642d371172aa47e5]), and
+- “**NACE classification**” means the first level of the common statistical classification of economic activities in the European Union established by Regulation [(EC) No 1893/2006](https://www.legislation.gov.uk/eur/2006/1893) of the European Parliament and the Council of 20 December 2006 (as that Regulation has effect in EU law[^c-f40a9e9271e208d7642d371172aa47e5]), and
 - “**relevant chargeable period**”, in relation to a company and a financial year, means the chargeable period of the company ending in that financial year.
 
 ## Annotations
 
-[^key-1a98ef4ab5c694ae4329e59fe1a3b443]: Textual amendment: Ss. 51A-51N and cross-heading inserted (with effect in accordance with Sch. 24 para. 23 to the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/3)
+[^c-1a98ef4ab5c694ae4329e59fe1a3b443]: Textual amendment: Ss. 51A-51N and cross-heading inserted (with effect in accordance with Sch. 24 para. 23 to the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/3)
 
-[^key-27e2104a719ff9fd66766c86b94809ef]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/2/part/2) modified (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 7](https://www.legislation.gov.uk/ukpga/2023/30/section/7)
+[^c-27e2104a719ff9fd66766c86b94809ef]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/2/part/2) modified (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 7](https://www.legislation.gov.uk/ukpga/2023/30/section/7)
 
-[^key-f40a9e9271e208d7642d371172aa47e5]: Textual amendment: Words in [s. 51G(7)](https://www.legislation.gov.uk/ukpga/2001/2/section/51G/7) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/10/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f40a9e9271e208d7642d371172aa47e5]: Textual amendment: Words in [s. 51G(7)](https://www.legislation.gov.uk/ukpga/2001/2/section/51G/7) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/10/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

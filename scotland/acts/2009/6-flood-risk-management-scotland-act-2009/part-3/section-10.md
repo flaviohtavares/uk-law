@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Flood risk assessments: review[^key-ea56b862d2d2b67fd676b8c96093e3d0]
+## 10. Flood risk assessments: review[^c-ea56b862d2d2b67fd676b8c96093e3d0]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea56b862d2d2b67fd676b8c96093e3d0]: Commencement: S. 10 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-ea56b862d2d2b67fd676b8c96093e3d0]: Commencement: S. 10 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

@@ -62,7 +62,7 @@ In accordance with section 99 of the Environment Act 1995, he has consulted the 
 
 (3) Regulation 3 applies in relation to England only.
 
-## 2. Amendments to the Organic Products Regulations 2004[^key-6bfc66b0eb4e426aba1e0cd15afd84ac]
+## 2. Amendments to the Organic Products Regulations 2004[^c-6bfc66b0eb4e426aba1e0cd15afd84ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -111,6 +111,6 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^c16506231]: Marginal citation: The power of the Secretary of State, as a Minister, designated by virtue of [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811) in relation to the common agricultural policy of the European Community, to make regulations which extend to Scotland remains exercisable by virtue of section 57(1) of the [Scotland Act 1998 (1998 c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). The Secretary of State's power, as a Minister so designated, to make regulations which apply in Wales is confirmed by article 3(4) of the [European Communities (Designation) (No. 3) Order 1999 (S.I. 1999/2788)](https://www.legislation.gov.uk/uksi/1999/2788). The Secretary of State's power as a Minister so designated, to make regulations which extend to Northern Ireland is confirmed by article 3(2) of the [European Communities (Designation) (No. 3) Order 2000 (S.I. 2000/2812)](https://www.legislation.gov.uk/uksi/2000/2812).
 
-[^key-6bfc66b0eb4e426aba1e0cd15afd84ac]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/2075/regulation/2) revoked (27.4.2009) by [The Organic Products Regulations 2009 (S.I. 2009/842)](https://www.legislation.gov.uk/uksi/2009/842), [regs. 1](https://www.legislation.gov.uk/uksi/2009/842/regulation/1), [32(c)](https://www.legislation.gov.uk/uksi/2009/842/regulation/32/c)
+[^c-6bfc66b0eb4e426aba1e0cd15afd84ac]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/2075/regulation/2) revoked (27.4.2009) by [The Organic Products Regulations 2009 (S.I. 2009/842)](https://www.legislation.gov.uk/uksi/2009/842), [regs. 1](https://www.legislation.gov.uk/uksi/2009/842/regulation/1), [32(c)](https://www.legislation.gov.uk/uksi/2009/842/regulation/32/c)
 
 [^c16506261]: Marginal citation: [S.I. 2005/2003](https://www.legislation.gov.uk/uksi/2005/2003).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Information for audit of social security system[^key-61004cc0740eeda480e758eb7b4db493][^key-baffa4a5359b142d1bc2b1b854d1b55e]
+## 18. Information for audit of social security system[^c-61004cc0740eeda480e758eb7b4db493][^c-baffa4a5359b142d1bc2b1b854d1b55e]
 
 *Extent: S*
 
@@ -111,6 +111,6 @@ summary: ''
 
 ## Annotations
 
-[^key-61004cc0740eeda480e758eb7b4db493]: Commencement: S. 18 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-61004cc0740eeda480e758eb7b4db493]: Commencement: S. 18 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
 
-[^key-baffa4a5359b142d1bc2b1b854d1b55e]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2025/2/section/18) in force at 15.12.2025 for specified purposes by [S.S.I. 2025/377](https://www.legislation.gov.uk/ssi/2025/377), [reg. 2](https://www.legislation.gov.uk/ssi/2025/377/regulation/2)
+[^c-baffa4a5359b142d1bc2b1b854d1b55e]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2025/2/section/18) in force at 15.12.2025 for specified purposes by [S.S.I. 2025/377](https://www.legislation.gov.uk/ssi/2025/377), [reg. 2](https://www.legislation.gov.uk/ssi/2025/377/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128DA. Directions: variations and revocation[^key-eaca613b6976a788f40cb15b56450cbe]
+## 128DA. Directions: variations and revocation[^c-eaca613b6976a788f40cb15b56450cbe]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eaca613b6976a788f40cb15b56450cbe]: Textual amendment: [S. 128DA](https://www.legislation.gov.uk/ukpga/1992/8/section/128DA) inserted (1.4.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 36(7)](https://www.legislation.gov.uk/nia/2007/2/section/36/7), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [S.R. 2008/147](https://www.legislation.gov.uk/nisr/2008/147), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/147/article/2/a)
+[^c-eaca613b6976a788f40cb15b56450cbe]: Textual amendment: [S. 128DA](https://www.legislation.gov.uk/ukpga/1992/8/section/128DA) inserted (1.4.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 36(7)](https://www.legislation.gov.uk/nia/2007/2/section/36/7), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [S.R. 2008/147](https://www.legislation.gov.uk/nisr/2008/147), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/147/article/2/a)

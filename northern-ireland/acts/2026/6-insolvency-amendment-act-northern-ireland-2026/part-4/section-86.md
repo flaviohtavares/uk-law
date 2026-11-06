@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 86. Offence of making false statements[^key-db3057db3418de98af02414c6e7588db]
+## 86. Offence of making false statements[^c-db3057db3418de98af02414c6e7588db]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ In Article 327(3)(c) (offence of making false statements)—
 
 ## Annotations
 
-[^key-db3057db3418de98af02414c6e7588db]: Commencement: S. 86 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-db3057db3418de98af02414c6e7588db]: Commencement: S. 86 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -44,9 +44,9 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 97(1) of the Water Resources Act 1991[^f00001] and now vested in the Secretary of State[^f00002], makes the following Order.
 
-The Secretary of State has consulted the Environment Agency in accordance with section 97(3)[^f00003] of that Act.[^key-16b8ef3bd4e3b8295ea072e39b9ddd7d]
+The Secretary of State has consulted the Environment Agency in accordance with section 97(3)[^f00003] of that Act.[^c-16b8ef3bd4e3b8295ea072e39b9ddd7d]
 
-## 1. Title, application and commencement[^key-2b80e3e0289228b603d3c6d7bb87cf55]
+## 1. Title, application and commencement[^c-2b80e3e0289228b603d3c6d7bb87cf55]
 
 This Order—
 
@@ -54,14 +54,14 @@ This Order—
 - (b) applies in England; and
 - (c) comes into force on 6th February 2009.
 
-## 2. Approval of Code of Practice[^key-49c2caa26bd46a70925c4d456c5cfe56]
+## 2. Approval of Code of Practice[^c-49c2caa26bd46a70925c4d456c5cfe56]
 
 The Secretary of State approves the Code of Good Agricultural Practice to protect water, soil and air quality which was issued by the Secretary of State on 6th January 2009[^f00004] so far as it was issued for the purpose of—
 
 - (a) giving practical guidance to persons engaged in agriculture with respect to activities that may affect controlled waters[^f00005]; and
 - (b) promoting what appears to the Secretary of State to be desirable practices by such persons for avoiding or minimising the pollution of any such waters.
 
-## 3. Revocation[^key-0e9ee38aabef6c74c3367876a7e4ce91]
+## 3. Revocation[^c-0e9ee38aabef6c74c3367876a7e4ce91]
 
 The Water (Prevention of Pollution) (Code of Practice) Order 1998[^f00006] is revoked so far as it applies in England.
 
@@ -97,16 +97,16 @@ No impact assessment has been produced for this instrument as no impact on the c
 
 [^f00003]: Footnote: Section 97(3) was amended by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 22, paragraph 128.
 
-[^key-16b8ef3bd4e3b8295ea072e39b9ddd7d]: Modification: [Order](https://www.legislation.gov.uk/uksi/2009/46) applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(q)](https://www.legislation.gov.uk/uksi/2020/214/article/5/q)
+[^c-16b8ef3bd4e3b8295ea072e39b9ddd7d]: Modification: [Order](https://www.legislation.gov.uk/uksi/2009/46) applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(q)](https://www.legislation.gov.uk/uksi/2020/214/article/5/q)
 
-[^key-2b80e3e0289228b603d3c6d7bb87cf55]: Commencement: Art. 1 in force at 6.2.2009, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2009/46/article/1/c)
+[^c-2b80e3e0289228b603d3c6d7bb87cf55]: Commencement: Art. 1 in force at 6.2.2009, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2009/46/article/1/c)
 
-[^key-49c2caa26bd46a70925c4d456c5cfe56]: Commencement: Art. 2 in force at 6.2.2009, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2009/46/article/1/c)
+[^c-49c2caa26bd46a70925c4d456c5cfe56]: Commencement: Art. 2 in force at 6.2.2009, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2009/46/article/1/c)
 
 [^f00004]: Footnote: The Code is available electronically from www.defra.gov.uk/farm/environment/cogap/index.htm or in hard copy from The Stationery Office Ltd (ISBN 978 0 11 243284 5).
 
 [^f00005]: Footnote: See the definition of “controlled waters” in section 104(1) of the Water Resources Act 1991.
 
-[^key-0e9ee38aabef6c74c3367876a7e4ce91]: Commencement: Art. 3 in force at 6.2.2009, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2009/46/article/1/c)
+[^c-0e9ee38aabef6c74c3367876a7e4ce91]: Commencement: Art. 3 in force at 6.2.2009, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2009/46/article/1/c)
 
 [^f00006]: Footnote: [S.I. 1998/3084](https://www.legislation.gov.uk/uksi/1998/3084).

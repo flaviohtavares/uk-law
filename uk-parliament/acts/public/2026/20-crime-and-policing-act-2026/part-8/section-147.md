@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Threatening or abusive behaviour likely to harass, alarm or distress emergency workers[^key-fd53e942ce6aeeebec246e11ada504ba]
+## 147. Threatening or abusive behaviour likely to harass, alarm or distress emergency workers[^c-fd53e942ce6aeeebec246e11ada504ba]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ within the hearing or sight of an emergency worker (“**E**”) likely to be ca
 
 ## Annotations
 
-[^key-fd53e942ce6aeeebec246e11ada504ba]: Commencement: S. 147 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-fd53e942ce6aeeebec246e11ada504ba]: Commencement: S. 147 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

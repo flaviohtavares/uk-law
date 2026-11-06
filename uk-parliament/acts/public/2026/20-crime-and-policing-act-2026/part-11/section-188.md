@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Cautions given to persons having limited leave to enter or remain in UK[^key-77d79c3dd70ae527d60c92f67dfc1fdc][^key-7b261e70a5b487fb6baaefdc92151b0b]
+## 188. Cautions given to persons having limited leave to enter or remain in UK[^c-77d79c3dd70ae527d60c92f67dfc1fdc][^c-7b261e70a5b487fb6baaefdc92151b0b]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77d79c3dd70ae527d60c92f67dfc1fdc]: Commencement: S. 188 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-77d79c3dd70ae527d60c92f67dfc1fdc]: Commencement: S. 188 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-7b261e70a5b487fb6baaefdc92151b0b]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2026/20/section/188) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/v)
+[^c-7b261e70a5b487fb6baaefdc92151b0b]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2026/20/section/188) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/v)

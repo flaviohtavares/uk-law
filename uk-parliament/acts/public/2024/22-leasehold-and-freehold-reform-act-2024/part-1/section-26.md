@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Interpretation of Part 1[^key-cd056d70d1b1af40ad8e4b3fa3680c2c]
+## 26. Interpretation of Part 1[^c-cd056d70d1b1af40ad8e4b3fa3680c2c]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd056d70d1b1af40ad8e4b3fa3680c2c]: Commencement: S. 26 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-cd056d70d1b1af40ad8e4b3fa3680c2c]: Commencement: S. 26 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

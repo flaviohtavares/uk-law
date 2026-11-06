@@ -27,8 +27,8 @@ summary: ''
 
 (2) For the purposes of subsection (1) and section 73(1), the company's qualifying income from an overseas permanent establishment is the profits of the overseas permanent establishment which are—
 
-- (a) profits, chargeable under Chapter 2 of Part 3 of CTA 2009, of a trade carried on partly, but not wholly, outside the United Kingdom, [^key-6266945b9f809381314bb14f37367585]...
-- (b)[^key-6266945b9f809381314bb14f37367585] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) profits, chargeable under Chapter 2 of Part 3 of CTA 2009, of a trade carried on partly, but not wholly, outside the United Kingdom, [^c-6266945b9f809381314bb14f37367585]...
+- (b)[^c-6266945b9f809381314bb14f37367585] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In sections 73 to 78—
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6266945b9f809381314bb14f37367585]: Textual amendment: S. 72(2)(b) and word omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 234](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/234)
+[^c-6266945b9f809381314bb14f37367585]: Textual amendment: S. 72(2)(b) and word omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 234](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/234)

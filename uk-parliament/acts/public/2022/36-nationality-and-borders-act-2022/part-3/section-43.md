@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Working in United Kingdom waters: arrival and entry[^key-0ddc49c7d920977617f6af7b5bb2429c][^key-44281392fab0e97c57718cadcacdaaa0]
+## 43. Working in United Kingdom waters: arrival and entry[^c-0ddc49c7d920977617f6af7b5bb2429c][^c-44281392fab0e97c57718cadcacdaaa0]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,12 +83,12 @@ summary: ''
 > - (b) a person is an offshore worker’s “sponsor” if they have made immigration skills arrangements with the Secretary of State in relation to the offshore worker;
 > - (c) “**immigration skills arrangements**” has the meaning given by section 70A(2) of the Immigration Act 2014.
 
-(2)[^key-9136cc8ff14c8510186b6a33ba4e3524] Schedule 6 makes consequential and related amendments.
+(2)[^c-9136cc8ff14c8510186b6a33ba4e3524] Schedule 6 makes consequential and related amendments.
 
 ## Annotations
 
-[^key-0ddc49c7d920977617f6af7b5bb2429c]: Commencement: S. 43 in force at Royal Assent for specified purposes, see [s. 87(4)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/d)
+[^c-0ddc49c7d920977617f6af7b5bb2429c]: Commencement: S. 43 in force at Royal Assent for specified purposes, see [s. 87(4)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/d)
 
-[^key-44281392fab0e97c57718cadcacdaaa0]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/36/section/43) in force at 12.4.2023 in so far as not already in force by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/a)
+[^c-44281392fab0e97c57718cadcacdaaa0]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/36/section/43) in force at 12.4.2023 in so far as not already in force by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/a)
 
-[^key-9136cc8ff14c8510186b6a33ba4e3524]: Commencement: [S. 43(2)](https://www.legislation.gov.uk/ukpga/2022/36/section/43/2) in force at 24.8.2022 for specified purposes by [S.I. 2022/912](https://www.legislation.gov.uk/uksi/2022/912), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/912/regulation/2/a)
+[^c-9136cc8ff14c8510186b6a33ba4e3524]: Commencement: [S. 43(2)](https://www.legislation.gov.uk/ukpga/2022/36/section/43/2) in force at 24.8.2022 for specified purposes by [S.I. 2022/912](https://www.legislation.gov.uk/uksi/2022/912), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/912/regulation/2/a)

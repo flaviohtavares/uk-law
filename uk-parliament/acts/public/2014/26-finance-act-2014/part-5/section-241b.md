@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241B. Judicial ruling upholding asserted tax advantage: effect on defeat notice[^key-1b40b8334fdc9d4905115a70c010da28]
+## 241B. Judicial ruling upholding asserted tax advantage: effect on defeat notice[^c-1b40b8334fdc9d4905115a70c010da28]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ Accordingly the relevant defeat is overturned on the day on which the judicial r
 
 ## Annotations
 
-[^key-1b40b8334fdc9d4905115a70c010da28]: Textual amendment: Ss. 241A, 241B and cross-heading inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/3)
+[^c-1b40b8334fdc9d4905115a70c010da28]: Textual amendment: Ss. 241A, 241B and cross-heading inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/3)

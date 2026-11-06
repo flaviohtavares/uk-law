@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Permits to work[^key-2bb40a3a4af6177eeee361ee3e8ebd63]
+## 13. Permits to work[^c-2bb40a3a4af6177eeee361ee3e8ebd63]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bb40a3a4af6177eeee361ee3e8ebd63]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/3248/regulation/13) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-2bb40a3a4af6177eeee361ee3e8ebd63]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/3248/regulation/13) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

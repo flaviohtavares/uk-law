@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Payment of penalties into Consolidated Fund etc[^key-82fd648b8455d314cc835e628de0a629]
+## 124. Payment of penalties into Consolidated Fund etc[^c-82fd648b8455d314cc835e628de0a629]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82fd648b8455d314cc835e628de0a629]: Commencement: Reg. 124 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-82fd648b8455d314cc835e628de0a629]: Commencement: Reg. 124 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

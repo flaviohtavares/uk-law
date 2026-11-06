@@ -45,25 +45,25 @@ Coming into Operation
 
 The Secretary of State for Social Services, in exercise of the powers conferred upon him by section 43(3), (4) and (5) of the Social Security and Housing Benefits Act 1982 and in exercise of all other powers enabling him in that behalf, hereby makes the following Order:—
 
-## 1. Citation, commencement and interpretation[^key-89a2245ba255cc33a8569ab642159732]
+## 1. Citation, commencement and interpretation[^c-89a2245ba255cc33a8569ab642159732]
 
 (1) This Order, which may be cited as the War Pensions (Commencing Dates of Past Awards) Order 1982, shall come into operation on 30th August 1982.
 
 (2) In this Order—
 
-- “appropriate tribunal” means the appropriate tribunal as defined in section 12(1) of the 1943 Act;[^key-5d3c48cc338787241d181a996ace6890]
+- “appropriate tribunal” means the appropriate tribunal as defined in section 12(1) of the 1943 Act;[^c-5d3c48cc338787241d181a996ace6890]
 - “**instruments**” means the instruments as amended by the amendments appropriate at the date the awards referred to in this Order were made;
-- [^key-088c1383a3deef11dc9d3db11c65c168]...
+- [^c-088c1383a3deef11dc9d3db11c65c168]...
 - “**the 1943 Act**” means the Pensions Appeal Tribunals Act 1943;
 - “**the Personal Injuries (Civilians) Scheme**” means the Personal Injuries (Civilians) Scheme 1976[^f00002] ;
-- “**the rules**” means the rules made under paragraph 5 of the Schedule to the 1943 Act or Tribunal Procedure Rules[^key-776ef6541488a04f77825288ed6582c7];
+- “**the rules**” means the rules made under paragraph 5 of the Schedule to the 1943 Act or Tribunal Procedure Rules[^c-776ef6541488a04f77825288ed6582c7];
 - “**the Service Pensions Order**” means the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1978[^f00003] ;
 - “**war pension**” means—
   - (a) such pensions and other benefits as are referred to in section 12 of the Social Security (Miscellaneous Provisions) Act 1977 (exercise by Order in Council of existing powers relating to benefits for death or disablement through service in the armed forces);
   - (b) any pension or benefit awarded under the Personal Injuries (Emergency Provisions) Act 1939 Pensions (Naval, Army, Air Force and Mercantile Marine) Act 1939 or the Polish Resettlement Act 1947;
   - (c) any pension or benefit which the Secretary of State considers to be analogous to any such pension or benefit mentioned in the preceding sub-paragraphs of this definition.
 
-## 2. Dates awards of war pension taken to have had effect[^key-92028ae195da7e02b2518f03f5373441]
+## 2. Dates awards of war pension taken to have had effect[^c-92028ae195da7e02b2518f03f5373441]
 
 Subject to article 4 of this Order, the date from which any award made before 30th August 1982 under or by application of the provisions of the instruments specified in Schedule 1 to this Order, or instruments considered by the Secretary of State to be analogous thereto, in respect of a claim for war pension now administered by the Secretary of State for Social Services is to be taken to have had effect in a case where—
 
@@ -76,17 +76,17 @@ Subject to article 4 of this Order, the date from which any award made before 30
 
 shall be the date specified in relation to the appropriate class of case referred to in article 3 of this Order.
 
-## 3. Classes of case and commencing dates[^key-6decd99e6d82049a8c888bb10fd161b5]
+## 3. Classes of case and commencing dates[^c-6decd99e6d82049a8c888bb10fd161b5]
 
 Except in so far as the Secretary of State may direct that an earlier date applies in respect of any particular case or class of case, in relation to each of the classes of case set out in column 2 of Schedule 2 to this Order, the date from which a war pension is awarded or restored is to be taken to have had effect is the date set opposite that class of case in column 3 of that Schedule ascertained in accordance with the provisions of the Service Pensions Order set opposite that class of case in column 4, or as the case may be, the provisions of the Personal Injuries (Civilians) Scheme set opposite it in column 5 of that Schedule.
 
-## 4. Limitation on arrears[^key-eb722b47298e9722774f4abd6611f878]
+## 4. Limitation on arrears[^c-eb722b47298e9722774f4abd6611f878]
 
 Except in so far as the Secretary of State may otherwise direct with respect to any particular case or class of case, in any case where the date from which an award is by virtue of this Order to be taken to have had effect is earlier than the date from which payment under the award was first made, any arrears due to a person in respect of the award shall be limited to those payable in respect of a period of 6 years prior to the following dates—
 
-- (a) in the case of an award made following a direction made under the rules or by the Upper Tribunal[^key-9a1f5e1901458b8c7984d93ec130dd05] in which a rehearing of an appeal by an appropriate tribunal[^key-f9ddd982a527034239cf851310f0dd6e] has been ordered, whether or not followed by such a rehearing, the date of the application which resulted in such a direction;
-- (b) in the case of an award made following an order under section 6(2A) (joint application) of the 1943 Act, whether or not followed by a rehearing of an appeal by an appropriate tribunal[^key-d7eb1f9a058f0cdd1ff7d3773741b655], the date of the application under Section 6(2A) which resulted in the order;
-- (c) in the case of an award made following an appeal under section 6(2) (appeal from the appropriate tribunal[^key-07f1da7b24a41476d5a74f66505af0d9]) of the 1943 Act, whether or not followed by a rehearing of an appeal by an appropriate tribunal[^key-506e5db459394f11add997e616f6da4e], the date of the successful application for leave to appeal under section 6(2);
+- (a) in the case of an award made following a direction made under the rules or by the Upper Tribunal[^c-9a1f5e1901458b8c7984d93ec130dd05] in which a rehearing of an appeal by an appropriate tribunal[^c-f9ddd982a527034239cf851310f0dd6e] has been ordered, whether or not followed by such a rehearing, the date of the application which resulted in such a direction;
+- (b) in the case of an award made following an order under section 6(2A) (joint application) of the 1943 Act, whether or not followed by a rehearing of an appeal by an appropriate tribunal[^c-d7eb1f9a058f0cdd1ff7d3773741b655], the date of the application under Section 6(2A) which resulted in the order;
+- (c) in the case of an award made following an appeal under section 6(2) (appeal from the appropriate tribunal[^c-07f1da7b24a41476d5a74f66505af0d9]) of the 1943 Act, whether or not followed by a rehearing of an appeal by an appropriate tribunal[^c-506e5db459394f11add997e616f6da4e], the date of the successful application for leave to appeal under section 6(2);
 
 Signed by authority of Secretary of State for Social Services.
 
@@ -98,7 +98,7 @@ Department of Health and Social Security
 
 21st July 1982
 
-## SCHEDULE 1[^key-7f9126c0d3c968d717b7265673320b65]
+## SCHEDULE 1[^c-7f9126c0d3c968d717b7265673320b65]
 
 Article 2
 
@@ -147,7 +147,7 @@ Article 2
 </tbody>
 </table>
 
-## SCHEDULE 2[^key-c5e74b93201eb3feaf56dfac4ef627fb]
+## SCHEDULE 2[^c-c5e74b93201eb3feaf56dfac4ef627fb]
 
 Article 3
 
@@ -171,7 +171,7 @@ Article 3
 </tbody>
 </table>
 
-[^key-2e6f3e222cecdc6ac6508996bb2ed243][^key-85b218c126c1ddcb5b961d78dc543f3c][^key-bbd8c1436e58f5605d6a272ed16337b8][^key-aef0457ace885a0ba3795c6ebe78853d][^key-b16d58fc9207fd0c3fa1b55ab9bffdf0][^key-0b40420d097c03fc145fd34ff2329733]
+[^c-2e6f3e222cecdc6ac6508996bb2ed243][^c-85b218c126c1ddcb5b961d78dc543f3c][^c-bbd8c1436e58f5605d6a272ed16337b8][^c-aef0457ace885a0ba3795c6ebe78853d][^c-b16d58fc9207fd0c3fa1b55ab9bffdf0][^c-0b40420d097c03fc145fd34ff2329733]
 
 EXPLANATORY NOTE
 
@@ -185,46 +185,46 @@ Article 4 makes provision for arrears of war pension due by virtue of the applic
 
 ## Annotations
 
-[^key-89a2245ba255cc33a8569ab642159732]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1982/1046/article/1) in force at 30.8.1982, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1982/1046/article/1/1)
+[^c-89a2245ba255cc33a8569ab642159732]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1982/1046/article/1) in force at 30.8.1982, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1982/1046/article/1/1)
 
-[^key-5d3c48cc338787241d181a996ace6890]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/1982/1046/article/1) inserted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 20(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/20/a)
+[^c-5d3c48cc338787241d181a996ace6890]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/1982/1046/article/1) inserted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 20(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/20/a)
 
-[^key-088c1383a3deef11dc9d3db11c65c168]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/1982/1046/article/1) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 20(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/20/b)
+[^c-088c1383a3deef11dc9d3db11c65c168]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/1982/1046/article/1) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 20(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/20/b)
 
 [^f00002]: Footnote: As amended by S.I. 1976/1167, 1977/404, 1640, 1978/384, 1426, 1979/270, 1232, 1980/1102, 1103, 1950, 1981/1143, 1678, 1982/810.
 
-[^key-776ef6541488a04f77825288ed6582c7]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/1982/1046/article/1) inserted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 20(c)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/20/c)
+[^c-776ef6541488a04f77825288ed6582c7]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/1982/1046/article/1) inserted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 20(c)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/20/c)
 
 [^f00003]: Footnote: As amended by S.I. 1978/1902, 1979/113, 1312, 1980/1080, 1081, 1955, 1981/1110, 1672, 1982/845.
 
-[^key-92028ae195da7e02b2518f03f5373441]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1982/1046/article/2) in force at 30.8.1982, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1982/1046/article/1/1)
+[^c-92028ae195da7e02b2518f03f5373441]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1982/1046/article/2) in force at 30.8.1982, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1982/1046/article/1/1)
 
-[^key-6decd99e6d82049a8c888bb10fd161b5]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1982/1046/article/3) in force at 30.8.1982, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1982/1046/article/1/1)
+[^c-6decd99e6d82049a8c888bb10fd161b5]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1982/1046/article/3) in force at 30.8.1982, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1982/1046/article/1/1)
 
-[^key-eb722b47298e9722774f4abd6611f878]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1982/1046/article/4) in force at 30.8.1982, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1982/1046/article/1/1)
+[^c-eb722b47298e9722774f4abd6611f878]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1982/1046/article/4) in force at 30.8.1982, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1982/1046/article/1/1)
 
-[^key-9a1f5e1901458b8c7984d93ec130dd05]: Textual amendment: Words in [art. 4(a)](https://www.legislation.gov.uk/uksi/1982/1046/article/4/a) inserted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 21(a)(i)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/21/a/i)
+[^c-9a1f5e1901458b8c7984d93ec130dd05]: Textual amendment: Words in [art. 4(a)](https://www.legislation.gov.uk/uksi/1982/1046/article/4/a) inserted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 21(a)(i)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/21/a/i)
 
-[^key-f9ddd982a527034239cf851310f0dd6e]: Textual amendment: Words in [art. 4(a)](https://www.legislation.gov.uk/uksi/1982/1046/article/4/a) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 21(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/21/a/ii)
+[^c-f9ddd982a527034239cf851310f0dd6e]: Textual amendment: Words in [art. 4(a)](https://www.legislation.gov.uk/uksi/1982/1046/article/4/a) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 21(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/21/a/ii)
 
-[^key-d7eb1f9a058f0cdd1ff7d3773741b655]: Textual amendment: Words in [art. 4(b)](https://www.legislation.gov.uk/uksi/1982/1046/article/4/b) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 21(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/21/b)
+[^c-d7eb1f9a058f0cdd1ff7d3773741b655]: Textual amendment: Words in [art. 4(b)](https://www.legislation.gov.uk/uksi/1982/1046/article/4/b) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 21(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/21/b)
 
-[^key-07f1da7b24a41476d5a74f66505af0d9]: Textual amendment: Words in [art. 4(c)](https://www.legislation.gov.uk/uksi/1982/1046/article/4/c) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 21(c)(i)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/21/c/i)
+[^c-07f1da7b24a41476d5a74f66505af0d9]: Textual amendment: Words in [art. 4(c)](https://www.legislation.gov.uk/uksi/1982/1046/article/4/c) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 21(c)(i)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/21/c/i)
 
-[^key-506e5db459394f11add997e616f6da4e]: Textual amendment: Words in [art. 4(c)](https://www.legislation.gov.uk/uksi/1982/1046/article/4/c) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 21(c)(ii)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/21/c/ii)
+[^c-506e5db459394f11add997e616f6da4e]: Textual amendment: Words in [art. 4(c)](https://www.legislation.gov.uk/uksi/1982/1046/article/4/c) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 21(c)(ii)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/21/c/ii)
 
-[^key-7f9126c0d3c968d717b7265673320b65]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1982/1046/schedule/1) in force at 30.8.1982, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1982/1046/article/1/1)
+[^c-7f9126c0d3c968d717b7265673320b65]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1982/1046/schedule/1) in force at 30.8.1982, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1982/1046/article/1/1)
 
-[^key-c5e74b93201eb3feaf56dfac4ef627fb]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1046/schedule/2) in force at 30.8.1982, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1982/1046/article/1/1)
+[^c-c5e74b93201eb3feaf56dfac4ef627fb]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1046/schedule/2) in force at 30.8.1982, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1982/1046/article/1/1)
 
-[^key-2e6f3e222cecdc6ac6508996bb2ed243]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1046/schedule/2) inserted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 22(a)(i)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/22/a/i)
+[^c-2e6f3e222cecdc6ac6508996bb2ed243]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1046/schedule/2) inserted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 22(a)(i)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/22/a/i)
 
-[^key-85b218c126c1ddcb5b961d78dc543f3c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1046/schedule/2) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 22(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/22/a/ii)
+[^c-85b218c126c1ddcb5b961d78dc543f3c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1046/schedule/2) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 22(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/22/a/ii)
 
-[^key-bbd8c1436e58f5605d6a272ed16337b8]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1046/schedule/2) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 22(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/22/b)
+[^c-bbd8c1436e58f5605d6a272ed16337b8]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1046/schedule/2) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 22(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/22/b)
 
-[^key-aef0457ace885a0ba3795c6ebe78853d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1046/schedule/2) inserted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 22(a)(i)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/22/a/i)
+[^c-aef0457ace885a0ba3795c6ebe78853d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1046/schedule/2) inserted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 22(a)(i)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/22/a/i)
 
-[^key-b16d58fc9207fd0c3fa1b55ab9bffdf0]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1046/schedule/2) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 22(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/22/a/ii)
+[^c-b16d58fc9207fd0c3fa1b55ab9bffdf0]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1046/schedule/2) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 22(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/22/a/ii)
 
-[^key-0b40420d097c03fc145fd34ff2329733]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1046/schedule/2) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 22(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/22/b)
+[^c-0b40420d097c03fc145fd34ff2329733]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1046/schedule/2) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 22(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/22/b)

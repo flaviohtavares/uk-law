@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Power to establish scheme administrator[^key-3041f85a38a6be7cb9a5aa44902e6877]
+## 86. Power to establish scheme administrator[^c-3041f85a38a6be7cb9a5aa44902e6877]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3041f85a38a6be7cb9a5aa44902e6877]: Commencement: S. 86 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-3041f85a38a6be7cb9a5aa44902e6877]: Commencement: S. 86 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

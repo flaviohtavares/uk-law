@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Time limits for implementation[^key-bdea7b0ad334efbe5be1a09ff8d9ec65][^key-96debe022496b63897bdfcbc6b5a274c]
+## 185. Time limits for implementation[^c-bdea7b0ad334efbe5be1a09ff8d9ec65][^c-96debe022496b63897bdfcbc6b5a274c]
 
 *Extent: E+W*
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdea7b0ad334efbe5be1a09ff8d9ec65]: Commencement: S. 185 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-bdea7b0ad334efbe5be1a09ff8d9ec65]: Commencement: S. 185 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-96debe022496b63897bdfcbc6b5a274c]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2023/55/section/185) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/l) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/1))
+[^c-96debe022496b63897bdfcbc6b5a274c]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2023/55/section/185) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/l) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/1))

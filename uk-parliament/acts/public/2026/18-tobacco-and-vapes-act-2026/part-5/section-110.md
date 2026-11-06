@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Power to make provision binding the Crown[^key-28c02995b816898dc933f28bc70ddbc2]
+## 110. Power to make provision binding the Crown[^c-28c02995b816898dc933f28bc70ddbc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28c02995b816898dc933f28bc70ddbc2]: Commencement: S. 110 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-28c02995b816898dc933f28bc70ddbc2]: Commencement: S. 110 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

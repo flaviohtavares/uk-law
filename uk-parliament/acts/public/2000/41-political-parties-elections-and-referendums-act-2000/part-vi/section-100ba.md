@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100BA. Code of Practice on controlled expenditure for Scottish Parliament elections: consultation and procedural requirements[^key-2f8f2ddd055cd228301181fa3a9f80db]
+## 100BA. Code of Practice on controlled expenditure for Scottish Parliament elections: consultation and procedural requirements[^c-2f8f2ddd055cd228301181fa3a9f80db]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f8f2ddd055cd228301181fa3a9f80db]: Textual amendment: S. 100BA inserted (S.) (14.4.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 25(3)](https://www.legislation.gov.uk/asp/2025/4/section/25/3), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-2f8f2ddd055cd228301181fa3a9f80db]: Textual amendment: S. 100BA inserted (S.) (14.4.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 25(3)](https://www.legislation.gov.uk/asp/2025/4/section/25/3), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

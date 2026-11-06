@@ -22,7 +22,7 @@ summary: ''
 
 (1) Provision of clothing under section 510 may be made in such way as to confer either a right of property in the clothing or a right of user only (at the option of the providing authority), except in any circumstances for which the adoption of one or other of those ways of making such provision is prescribed.
 
-(2) Where a local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] have provided a person with clothing under section 510, then, in such circumstances respectively as may be prescribed—
+(2) Where a local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] have provided a person with clothing under section 510, then, in such circumstances respectively as may be prescribed—
 
 - (a) the authority shall require his parent to pay to them in respect of its provision such sum (if any) as in their opinion he is able to pay without financial hardship, not exceeding the cost to the authority of its provision;
 - (b) the authority may require his parent to pay to them in respect of its provision such sum as is mentioned in paragraph (a) or any lesser sum; or
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))

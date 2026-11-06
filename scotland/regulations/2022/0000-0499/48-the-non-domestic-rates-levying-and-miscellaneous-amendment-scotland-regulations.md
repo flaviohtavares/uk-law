@@ -48,45 +48,45 @@ The Scottish Ministers make the following Regulations in exercise of the power c
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-a0d2d5a101622d2522c6ec754a047105]
+### 1. Citation and commencement[^c-a0d2d5a101622d2522c6ec754a047105]
 
 These Regulations may be cited as the Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 and come into force on 1 April 2022.
 
 ## PART 2 — Levying Regulations
 
-### 2. Interpretation of Part 2[^key-1b36aabc5e96433aa63e8634c0ca2efd]
+### 2. Interpretation of Part 2[^c-1b36aabc5e96433aa63e8634c0ca2efd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amount payable as rates – lands and heritages with rateable value of £18,000 or less[^key-1b36aabc5e96433aa63e8634c0ca2efd]
+### 3. Amount payable as rates – lands and heritages with rateable value of £18,000 or less[^c-1b36aabc5e96433aa63e8634c0ca2efd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amount payable as rates – lands and heritages with rateable value exceeding £51,000, but not exceeding £95,000[^key-1b36aabc5e96433aa63e8634c0ca2efd]
+### 4. Amount payable as rates – lands and heritages with rateable value exceeding £51,000, but not exceeding £95,000[^c-1b36aabc5e96433aa63e8634c0ca2efd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amount payable as rates – lands and heritages with rateable value exceeding £95,000[^key-1b36aabc5e96433aa63e8634c0ca2efd]
+### 5. Amount payable as rates – lands and heritages with rateable value exceeding £95,000[^c-1b36aabc5e96433aa63e8634c0ca2efd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Exemptions and discretionary reductions and remissions[^key-1b36aabc5e96433aa63e8634c0ca2efd]
+### 6. Exemptions and discretionary reductions and remissions[^c-1b36aabc5e96433aa63e8634c0ca2efd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Revocation and saving[^key-1b36aabc5e96433aa63e8634c0ca2efd]
+### 7. Revocation and saving[^c-1b36aabc5e96433aa63e8634c0ca2efd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Miscellaneous Non-Domestic Rating Amendments
 
-### 8. Amendment of the Non-Domestic Rates (Enterprise Areas) (Scotland) Regulations 2016[^key-d3dffe42cde4cacf30a86ecc56d546fa]
+### 8. Amendment of the Non-Domestic Rates (Enterprise Areas) (Scotland) Regulations 2016[^c-d3dffe42cde4cacf30a86ecc56d546fa]
 
 (1) The Non-Domestic Rates (Enterprise Areas) (Scotland) Regulations 2016[^f00023] are amended as follows.
 
 (2) In regulation 3 (lands and heritages in enterprise areas), for “2022” substitute “2023”.
 
-### 9. Amendment of the Non-Domestic Rates (Telecommunication Installations) (Scotland) Regulations 2016[^key-14b39d91465aaf87c2c0cbb9053585d7]
+### 9. Amendment of the Non-Domestic Rates (Telecommunication Installations) (Scotland) Regulations 2016[^c-14b39d91465aaf87c2c0cbb9053585d7]
 
 (1) The Non-Domestic Rates (Telecommunication Installations) (Scotland) Regulations 2016[^f00024] are amended as follows.
 
@@ -98,7 +98,7 @@ These Regulations may be cited as the Non-Domestic Rates (Levying and Miscellane
 
 (3) In regulation 3 (amount payable as rates – lands and heritages comprising tower or mast sites) for “1 April 2021” substitute “1 April 2022”.
 
-### 10. Amendment of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017[^key-d2cef897f549a9e4195abed109890b00]
+### 10. Amendment of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017[^c-d2cef897f549a9e4195abed109890b00]
 
 (1) The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017[^f00025] are amended as follows.
 
@@ -147,7 +147,7 @@ These Regulations may be cited as the Non-Domestic Rates (Levying and Miscellane
 
   .
 
-### 11. Amendment of the Non-Domestic Rates (Telecommunications New Fibre Infrastructure Relief) (Scotland) Regulations 2019[^key-9c0f000b9d33cc882afeb46f29cf56e0]
+### 11. Amendment of the Non-Domestic Rates (Telecommunications New Fibre Infrastructure Relief) (Scotland) Regulations 2019[^c-9c0f000b9d33cc882afeb46f29cf56e0]
 
 (1) The Non-Domestic Rates (Telecommunications New Fibre Infrastructure Relief) (Scotland) Regulations 2019[^f00029] are amended in accordance with paragraph (2).
 
@@ -205,19 +205,19 @@ Regulation 11 amends the Non-Domestic Rates (Telecommunications New Fibre Infras
 
 [^f00001]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39). Section 153 was amended by section 67 of the Climate Change (Scotland) Act [2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12), section 15 of the Non-Domestic Rates (Scotland) Act [2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4) and paragraph 7 of schedule 4 of the Coronavirus (Scotland) (No. 2) Act [2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-a0d2d5a101622d2522c6ec754a047105]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1)
+[^c-a0d2d5a101622d2522c6ec754a047105]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1)
 
-[^key-1b36aabc5e96433aa63e8634c0ca2efd]: Textual amendment: [Regs. 2-7](https://www.legislation.gov.uk/ssi/2022/48/regulation/2) revoked (1.4.2023) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/30)](https://www.legislation.gov.uk/ssi/2023/30), [regs. 1](https://www.legislation.gov.uk/ssi/2023/30/regulation/1), [9(1)](https://www.legislation.gov.uk/ssi/2023/30/regulation/9/1) (with [regs. 8](https://www.legislation.gov.uk/ssi/2023/30/regulation/8), [9(2)](https://www.legislation.gov.uk/ssi/2023/30/regulation/9/2))
+[^c-1b36aabc5e96433aa63e8634c0ca2efd]: Textual amendment: [Regs. 2-7](https://www.legislation.gov.uk/ssi/2022/48/regulation/2) revoked (1.4.2023) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/30)](https://www.legislation.gov.uk/ssi/2023/30), [regs. 1](https://www.legislation.gov.uk/ssi/2023/30/regulation/1), [9(1)](https://www.legislation.gov.uk/ssi/2023/30/regulation/9/1) (with [regs. 8](https://www.legislation.gov.uk/ssi/2023/30/regulation/8), [9(2)](https://www.legislation.gov.uk/ssi/2023/30/regulation/9/2))
 
-[^key-d3dffe42cde4cacf30a86ecc56d546fa]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2022/48/regulation/8) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1)
+[^c-d3dffe42cde4cacf30a86ecc56d546fa]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2022/48/regulation/8) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1)
 
 [^f00023]: Footnote: [S.S.I. 2016/119](https://www.legislation.gov.uk/ssi/2016/119), which was amended by [S.S.I. 2020/38](https://www.legislation.gov.uk/ssi/2020/38) and [S.S.I. 2020/391](https://www.legislation.gov.uk/ssi/2020/391).
 
-[^key-14b39d91465aaf87c2c0cbb9053585d7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2022/48/regulation/9) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1)
+[^c-14b39d91465aaf87c2c0cbb9053585d7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2022/48/regulation/9) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1)
 
 [^f00024]: Footnote: [S.S.I. 2016/122](https://www.legislation.gov.uk/ssi/2016/122), which was amended by [S.S.I. 2018/63](https://www.legislation.gov.uk/ssi/2018/63), [S.S.I. 2019/41](https://www.legislation.gov.uk/ssi/2019/41), [S.S.I. 2020/41](https://www.legislation.gov.uk/ssi/2020/41) and [S.S.I. 2021/65](https://www.legislation.gov.uk/ssi/2021/65).
 
-[^key-d2cef897f549a9e4195abed109890b00]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2022/48/regulation/10) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1)
+[^c-d2cef897f549a9e4195abed109890b00]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2022/48/regulation/10) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1)
 
 [^f00025]: Footnote: [S.S.I. 2017/85](https://www.legislation.gov.uk/ssi/2017/85), which was amended by [S.S.I 2018/76](https://www.legislation.gov.uk/ssi/2018/76), [S.S.I. 2019/44](https://www.legislation.gov.uk/ssi/2019/44), [S.S.I. 2020/42](https://www.legislation.gov.uk/ssi/2020/42), [S.S.I. 2020/101](https://www.legislation.gov.uk/ssi/2020/101), [S.S.I. 2020/230](https://www.legislation.gov.uk/ssi/2020/230), [S.S.I. 2020/391](https://www.legislation.gov.uk/ssi/2020/391), [S.S.I. 2021/65](https://www.legislation.gov.uk/ssi/2021/65) and [S.S.I. 2021/151](https://www.legislation.gov.uk/ssi/2021/151).
 
@@ -227,6 +227,6 @@ Regulation 11 amends the Non-Domestic Rates (Telecommunications New Fibre Infras
 
 [^f00028]: Footnote: [S.S.I. 2022/47](https://www.legislation.gov.uk/ssi/2022/47).
 
-[^key-9c0f000b9d33cc882afeb46f29cf56e0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2022/48/regulation/11) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1)
+[^c-9c0f000b9d33cc882afeb46f29cf56e0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2022/48/regulation/11) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1)
 
 [^f00029]: Footnote: [S.S.I. 2019/43](https://www.legislation.gov.uk/ssi/2019/43), which was amended by [S.S.I. 2020/391](https://www.legislation.gov.uk/ssi/2020/391).

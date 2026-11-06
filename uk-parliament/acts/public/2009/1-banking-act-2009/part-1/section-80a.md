@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80A. Transfer for bail-in purposes: report[^key-1fd6721e4e47a69d86f2a68fcf2e18d9]
+## 80A. Transfer for bail-in purposes: report[^c-1fd6721e4e47a69d86f2a68fcf2e18d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fd6721e4e47a69d86f2a68fcf2e18d9]: Textual amendment: S. 80A inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/25); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-1fd6721e4e47a69d86f2a68fcf2e18d9]: Textual amendment: S. 80A inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/25); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)

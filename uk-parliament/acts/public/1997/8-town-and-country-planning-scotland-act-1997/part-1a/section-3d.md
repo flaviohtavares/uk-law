@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3D. Sustainable development: exercise of functions by Scottish Ministers[^key-f45e2f134403bd33eaf42b555854ccd9]
+## 3D. Sustainable development: exercise of functions by Scottish Ministers[^c-f45e2f134403bd33eaf42b555854ccd9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f45e2f134403bd33eaf42b555854ccd9]: Textual amendment: S. 3D repealed (8.11.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 1(3)](https://www.legislation.gov.uk/asp/2019/13/section/1/3), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
+[^c-f45e2f134403bd33eaf42b555854ccd9]: Textual amendment: S. 3D repealed (8.11.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 1(3)](https://www.legislation.gov.uk/asp/2019/13/section/1/3), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)

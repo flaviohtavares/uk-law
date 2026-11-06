@@ -49,28 +49,28 @@ The Department of Agriculture and Rural Development—
 
 makes the following Regulations.
 
-## 1. Citation and commencement[^key-f5a7025e65a5862989afad38a5d29023]
+## 1. Citation and commencement[^c-f5a7025e65a5862989afad38a5d29023]
 
 These Regulations may be cited as the Scrapie (Fees) Regulations (Northern Ireland) 2008 and shall come into operation on 1st January 2009.
 
-## 2. Interpretation[^key-2256d795f541a0e01c35f118bca54ad4]
+## 2. Interpretation[^c-2256d795f541a0e01c35f118bca54ad4]
 
 (1) In these regulations—
 
-- “the Community TSE Regulation” means Regulation [(EC) No 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999) of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies , as last amended by[^key-b7f82fa219e41bc1e6d12dd99a685076] Commission Regulation (EU)[^key-51a621c3b1de2e89c243ab951a5f2b1f] 2020/1593[^key-4c0d38cad1879bcea805a47b7480c8ed] 9 [^f00004];
+- “the Community TSE Regulation” means Regulation [(EC) No 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999) of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies , as last amended by[^c-b7f82fa219e41bc1e6d12dd99a685076] Commission Regulation (EU)[^c-51a621c3b1de2e89c243ab951a5f2b1f] 2020/1593[^c-4c0d38cad1879bcea805a47b7480c8ed] 9 [^f00004];
 - “the Department” means the Department of Agriculture and Rural Development;
 
 (2) Expressions that are not defined in these Regulations and occur in the Community TSE Regulation have the same meaning in these Regulations as they have for the purposes of the Community TSE Regulation.
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Appointment of competent authority[^key-3cb5b6c13f4ee18dd65f43e5527878b3]
+## 3. Appointment of competent authority[^c-3cb5b6c13f4ee18dd65f43e5527878b3]
 
 The Department is the competent authority for the purposes of the Community TSE Regulation.
 
-## 4. Fees[^key-be5d585f3f2d7e8e91d22abcdc9747b3]
+## 4. Fees[^c-be5d585f3f2d7e8e91d22abcdc9747b3]
 
-(1) Where the Department carries out an activity mentioned in column (2) of the Schedule for the purposes of ascertaining whether animals fulfil the requirements of Point 1 of Section A[^key-2741370e681fffece518417e11211f76] of Annex VIII to the Community TSE Regulation, there shall be payable to it the fee specified in column (3) opposite the activity.
+(1) Where the Department carries out an activity mentioned in column (2) of the Schedule for the purposes of ascertaining whether animals fulfil the requirements of Point 1 of Section A[^c-2741370e681fffece518417e11211f76] of Annex VIII to the Community TSE Regulation, there shall be payable to it the fee specified in column (3) opposite the activity.
 
 (2) The fees referred to in paragraph (1) shall be payable by the person in charge of a holding who requests the Department to carry out the activity in question.
 
@@ -88,7 +88,7 @@ Jack Layberry
 
 A senior officer of the Department of Finance and Personnel
 
-## SCHEDULE — PAYMENT TO THE DEPARTMENT[^key-275df453f453b9178eed956c4437caa0]
+## SCHEDULE — PAYMENT TO THE DEPARTMENT[^c-275df453f453b9178eed956c4437caa0]
 
 Regulation 4(1)
 
@@ -119,24 +119,24 @@ The Regulations provide that the Department is the competent authority for the p
 
 [^f00003]: Footnote: [1973 c 51](https://www.legislation.gov.uk/ukpga/1973/51)
 
-[^key-f5a7025e65a5862989afad38a5d29023]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/456/regulation/1) in operation at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/456/regulation/1)
+[^c-f5a7025e65a5862989afad38a5d29023]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/456/regulation/1) in operation at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/456/regulation/1)
 
-[^key-2256d795f541a0e01c35f118bca54ad4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/456/regulation/2) in operation at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/456/regulation/1)
+[^c-2256d795f541a0e01c35f118bca54ad4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/456/regulation/2) in operation at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/456/regulation/1)
 
-[^key-b7f82fa219e41bc1e6d12dd99a685076]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/456/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/nisr/2019/82/schedule/4/paragraph/9)
+[^c-b7f82fa219e41bc1e6d12dd99a685076]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/456/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/nisr/2019/82/schedule/4/paragraph/9)
 
-[^key-51a621c3b1de2e89c243ab951a5f2b1f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/456/regulation/2/1) substituted (30.10.2019) by [The Animal Health and Welfare (Amendment) (No. 2) Regulations (Northern Ireland) 2019 (S.R. 2019/197)](https://www.legislation.gov.uk/nisr/2019/197), [reg. 1](https://www.legislation.gov.uk/nisr/2019/197/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2019/197/schedule/2/paragraph/2)
+[^c-51a621c3b1de2e89c243ab951a5f2b1f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/456/regulation/2/1) substituted (30.10.2019) by [The Animal Health and Welfare (Amendment) (No. 2) Regulations (Northern Ireland) 2019 (S.R. 2019/197)](https://www.legislation.gov.uk/nisr/2019/197), [reg. 1](https://www.legislation.gov.uk/nisr/2019/197/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2019/197/schedule/2/paragraph/2)
 
-[^key-4c0d38cad1879bcea805a47b7480c8ed]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/456/regulation/2/1) substituted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [4](https://www.legislation.gov.uk/nisr/2020/353/regulation/4)
+[^c-4c0d38cad1879bcea805a47b7480c8ed]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/456/regulation/2/1) substituted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [4](https://www.legislation.gov.uk/nisr/2020/353/regulation/4)
 
 [^f00004]: Footnote: O.J. No. L 147, 31.5.2001, p. 1, as last amended by [Commission Regulation (EC) No. 727/2007](https://www.legislation.gov.uk/european/regulation/2007/0727) (O.J. No. L 165, 27.6.2007, p.8)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-3cb5b6c13f4ee18dd65f43e5527878b3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/456/regulation/3) in operation at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/456/regulation/1)
+[^c-3cb5b6c13f4ee18dd65f43e5527878b3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/456/regulation/3) in operation at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/456/regulation/1)
 
-[^key-be5d585f3f2d7e8e91d22abcdc9747b3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/456/regulation/4) in operation at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/456/regulation/1)
+[^c-be5d585f3f2d7e8e91d22abcdc9747b3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/456/regulation/4) in operation at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/456/regulation/1)
 
-[^key-2741370e681fffece518417e11211f76]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2008/456/regulation/4/1) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 4 para. 10](https://www.legislation.gov.uk/nisr/2019/82/schedule/4/paragraph/10)
+[^c-2741370e681fffece518417e11211f76]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2008/456/regulation/4/1) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 4 para. 10](https://www.legislation.gov.uk/nisr/2019/82/schedule/4/paragraph/10)
 
-[^key-275df453f453b9178eed956c4437caa0]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2008/456/schedule) substituted (1.4.2016) by [The Scrapie (Fees) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/137)](https://www.legislation.gov.uk/nisr/2016/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/137/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2016/137/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2016/137/schedule)
+[^c-275df453f453b9178eed956c4437caa0]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2008/456/schedule) substituted (1.4.2016) by [The Scrapie (Fees) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/137)](https://www.legislation.gov.uk/nisr/2016/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/137/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2016/137/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2016/137/schedule)

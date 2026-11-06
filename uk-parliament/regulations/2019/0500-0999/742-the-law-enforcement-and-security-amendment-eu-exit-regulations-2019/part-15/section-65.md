@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Saving provision – exemptions from requirement of authority under Article 45 of the Firearms (Northern Ireland) Order 2004[^key-d84341bff792b24b6afe1596a709f6db]
+## 65. Saving provision – exemptions from requirement of authority under Article 45 of the Firearms (Northern Ireland) Order 2004[^c-d84341bff792b24b6afe1596a709f6db]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d84341bff792b24b6afe1596a709f6db]: Textual amendment: Reg. 65 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/3)
+[^c-d84341bff792b24b6afe1596a709f6db]: Textual amendment: Reg. 65 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/3)

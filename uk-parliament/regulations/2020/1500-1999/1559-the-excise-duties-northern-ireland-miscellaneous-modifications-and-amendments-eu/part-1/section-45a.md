@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**45A.**[^key-b30ccb99f67d2afa87e6e79669055fcb] After regulation 48 insert—
+**45A.**[^c-b30ccb99f67d2afa87e6e79669055fcb] After regulation 48 insert—
 
 > **48A. Report of export from territory of the EU or Northern Ireland – supplementary provision**
 >
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b30ccb99f67d2afa87e6e79669055fcb]: Textual amendment: [Reg. 45A](https://www.legislation.gov.uk/uksi/2020/1559/regulation/45A) inserted (1.10.2024) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/941)](https://www.legislation.gov.uk/uksi/2024/941), [regs. 1](https://www.legislation.gov.uk/uksi/2024/941/regulation/1), [11](https://www.legislation.gov.uk/uksi/2024/941/regulation/11)
+[^c-b30ccb99f67d2afa87e6e79669055fcb]: Textual amendment: [Reg. 45A](https://www.legislation.gov.uk/uksi/2020/1559/regulation/45A) inserted (1.10.2024) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/941)](https://www.legislation.gov.uk/uksi/2024/941), [regs. 1](https://www.legislation.gov.uk/uksi/2024/941/regulation/1), [11](https://www.legislation.gov.uk/uksi/2024/941/regulation/11)

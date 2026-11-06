@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Other contractual terms[^key-73a77370b1ad95cc8d2b3d5e693b26b1]
+## 20. Other contractual terms[^c-73a77370b1ad95cc8d2b3d5e693b26b1]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73a77370b1ad95cc8d2b3d5e693b26b1]: Commencement: Reg. 20 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-73a77370b1ad95cc8d2b3d5e693b26b1]: Commencement: Reg. 20 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Prospectus Regulations 2012 (revoked)[^key-c25015650f29a7c29596ac39b5e0ba6d]
+The Prospectus Regulations 2012 (revoked)[^c-c25015650f29a7c29596ac39b5e0ba6d]
 
 Made
 
@@ -46,54 +46,54 @@ Coming into force
 
 1st July 2012
 
-[^key-c25015650f29a7c29596ac39b5e0ba6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c25015650f29a7c29596ac39b5e0ba6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c25015650f29a7c29596ac39b5e0ba6d]
+## 1. Citation, commencement and interpretation[^c-c25015650f29a7c29596ac39b5e0ba6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to exemptions[^key-c25015650f29a7c29596ac39b5e0ba6d]
+## 2. Amendments to exemptions[^c-c25015650f29a7c29596ac39b5e0ba6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. New definition of qualified investor[^key-c25015650f29a7c29596ac39b5e0ba6d]
+## 3. New definition of qualified investor[^c-c25015650f29a7c29596ac39b5e0ba6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Summaries and final terms[^key-c25015650f29a7c29596ac39b5e0ba6d]
+## 4. Summaries and final terms[^c-c25015650f29a7c29596ac39b5e0ba6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Supplementary prospectus[^key-c25015650f29a7c29596ac39b5e0ba6d]
+## 5. Supplementary prospectus[^c-c25015650f29a7c29596ac39b5e0ba6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Provision of information[^key-c25015650f29a7c29596ac39b5e0ba6d]
+## 6. Provision of information[^c-c25015650f29a7c29596ac39b5e0ba6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Civil liability attaching to the summary[^key-c25015650f29a7c29596ac39b5e0ba6d]
+## 7. Civil liability attaching to the summary[^c-c25015650f29a7c29596ac39b5e0ba6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Disclosure of information requirements[^key-c25015650f29a7c29596ac39b5e0ba6d]
+## 8. Disclosure of information requirements[^c-c25015650f29a7c29596ac39b5e0ba6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Definitions[^key-c25015650f29a7c29596ac39b5e0ba6d]
+## 9. Definitions[^c-c25015650f29a7c29596ac39b5e0ba6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Review[^key-c25015650f29a7c29596ac39b5e0ba6d]
+## 10. Review[^c-c25015650f29a7c29596ac39b5e0ba6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c25015650f29a7c29596ac39b5e0ba6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c25015650f29a7c29596ac39b5e0ba6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c25015650f29a7c29596ac39b5e0ba6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c25015650f29a7c29596ac39b5e0ba6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c25015650f29a7c29596ac39b5e0ba6d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1538) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-c25015650f29a7c29596ac39b5e0ba6d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1538) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

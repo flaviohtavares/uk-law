@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270. Procedure for giving directions[^key-e0ee4696ae49a2b9fdb7244749a24d6a][^key-56297c139dddd9fa9f2fceab35fbf0f9]
+## 270. Procedure for giving directions[^c-e0ee4696ae49a2b9fdb7244749a24d6a][^c-56297c139dddd9fa9f2fceab35fbf0f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0ee4696ae49a2b9fdb7244749a24d6a]: Commencement: S. 270 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-e0ee4696ae49a2b9fdb7244749a24d6a]: Commencement: S. 270 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-56297c139dddd9fa9f2fceab35fbf0f9]: Commencement: [S. 270](https://www.legislation.gov.uk/ukpga/2023/52/section/270) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/ii)
+[^c-56297c139dddd9fa9f2fceab35fbf0f9]: Commencement: [S. 270](https://www.legislation.gov.uk/ukpga/2023/52/section/270) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/ii)

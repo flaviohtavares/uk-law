@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Amendment of regulation 116 (obligation in relation to product information)[^M_I_2f0907a2-8e7d-4a23-f44a-868e4278cf13][^key-f69427628bb87bd127e75119fb35c0bd]
+## 107. Amendment of regulation 116 (obligation in relation to product information)[^M_I_2f0907a2-8e7d-4a23-f44a-868e4278cf13][^c-f69427628bb87bd127e75119fb35c0bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ For regulation 116(2), substitute—
 
 [^M_I_2f0907a2-8e7d-4a23-f44a-868e4278cf13]: Commencement: Reg. 107 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f69427628bb87bd127e75119fb35c0bd]: Textual amendment: Reg. 107 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 81](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/81)
+[^c-f69427628bb87bd127e75119fb35c0bd]: Textual amendment: Reg. 107 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 81](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/81)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Statutory authority to override easements and other rights[^key-b472cdc68cd110cdb9fd190ea2baf33f]
+## 21. Statutory authority to override easements and other rights[^c-b472cdc68cd110cdb9fd190ea2baf33f]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ caused by the carrying out or use of the authorised development and the operatio
 
 ## Annotations
 
-[^key-b472cdc68cd110cdb9fd190ea2baf33f]: Commencement: Art. 21 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-b472cdc68cd110cdb9fd190ea2baf33f]: Commencement: Art. 21 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)

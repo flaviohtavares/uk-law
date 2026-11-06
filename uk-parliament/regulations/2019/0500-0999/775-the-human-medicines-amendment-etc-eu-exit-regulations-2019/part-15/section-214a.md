@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214A. Amendment of regulation 294 (general requirements)[^M_I_5984aaa4-76d6-4d98-9799-0c00e9cce6de][^key-141baf9749094986cf8558b7143c0b2b]
+## 214A. Amendment of regulation 294 (general requirements)[^M_I_5984aaa4-76d6-4d98-9799-0c00e9cce6de][^c-141baf9749094986cf8558b7143c0b2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In regulation 294, after paragraph (4) insert—
 
 [^M_I_5984aaa4-76d6-4d98-9799-0c00e9cce6de]: Commencement: Reg. 214A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-141baf9749094986cf8558b7143c0b2b]: Textual amendment: Reg. 214A inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 172](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/172)
+[^c-141baf9749094986cf8558b7143c0b2b]: Textual amendment: Reg. 214A inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 172](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/172)

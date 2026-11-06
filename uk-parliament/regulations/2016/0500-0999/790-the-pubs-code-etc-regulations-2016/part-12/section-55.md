@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Pub franchise agreements[^key-2f0f913922350362557a556bd832db90]
+## 55. Pub franchise agreements[^c-2f0f913922350362557a556bd832db90]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f0f913922350362557a556bd832db90]: Commencement: Reg. 55 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-2f0f913922350362557a556bd832db90]: Commencement: Reg. 55 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — Land in which only new rights etc., may be acquired[^key-47f95dfba67697f01e5baa59a9a58552]
+## SCHEDULE 4 — Land in which only new rights etc., may be acquired[^c-47f95dfba67697f01e5baa59a9a58552]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ Article 18
 
 ## Annotations
 
-[^key-47f95dfba67697f01e5baa59a9a58552]: Commencement: Sch. 4 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)
+[^c-47f95dfba67697f01e5baa59a9a58552]: Commencement: Sch. 4 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)

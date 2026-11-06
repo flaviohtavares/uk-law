@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. The Registrar of Consultant Lobbyists[^key-ab04c7889a6b43acc76d581ed4b680a6]
+## 3. The Registrar of Consultant Lobbyists[^c-ab04c7889a6b43acc76d581ed4b680a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab04c7889a6b43acc76d581ed4b680a6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/4/section/3) in force at 23.5.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/b)
+[^c-ab04c7889a6b43acc76d581ed4b680a6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/4/section/3) in force at 23.5.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/b)

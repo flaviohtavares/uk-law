@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Order to grant entry[^key-613172ebe94b7673e131a2a090ac0fb6]
+## 42. Order to grant entry[^c-613172ebe94b7673e131a2a090ac0fb6]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-613172ebe94b7673e131a2a090ac0fb6]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2013/2605/article/42) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-613172ebe94b7673e131a2a090ac0fb6]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2013/2605/article/42) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

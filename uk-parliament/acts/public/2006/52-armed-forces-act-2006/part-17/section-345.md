@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 345. Aiding or abetting etc malingering[^key-fe721f1c21351184b78a254e546bb732][^key-f878b85131281f9afa7e1de092ff676f]
+## 345. Aiding or abetting etc malingering[^c-fe721f1c21351184b78a254e546bb732][^c-f878b85131281f9afa7e1de092ff676f]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe721f1c21351184b78a254e546bb732]: Commencement: S. 345 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-fe721f1c21351184b78a254e546bb732]: Commencement: S. 345 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-f878b85131281f9afa7e1de092ff676f]: Commencement: S. 345 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-f878b85131281f9afa7e1de092ff676f]: Commencement: S. 345 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

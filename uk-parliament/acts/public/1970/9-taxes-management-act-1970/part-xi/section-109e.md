@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109E. Liability of other persons for unpaid tax[^key-4658da09574b0b2b7be4ddf5f7b06949]
+## 109E. Liability of other persons for unpaid tax[^c-4658da09574b0b2b7be4ddf5f7b06949]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,17 +25,17 @@ summary: ''
 - (a) a company (“the migrating company”) ceases to be resident in the United Kingdom at any time, and
 - (b) any tax which is payable by the company in respect of periods beginning before that time is not paid within 6 months from the time when it becomes payable.
 
-(1A)[^key-fe1914f643e1cd10edddf8764d9faa1e] The reference in subsection (1)(b) to the time when tax becomes payable is a reference to—
+(1A)[^c-fe1914f643e1cd10edddf8764d9faa1e] The reference in subsection (1)(b) to the time when tax becomes payable is a reference to—
 
-- (a) in a case where a CT exit charge payment plan[^key-626ebe725b489462f057ed6ab1ba8580] has been entered into in accordance with Schedule 3ZB in respect of the tax, the time when the tax becomes payable under the plan, and
+- (a) in a case where a CT exit charge payment plan[^c-626ebe725b489462f057ed6ab1ba8580] has been entered into in accordance with Schedule 3ZB in respect of the tax, the time when the tax becomes payable under the plan, and
 - (b) in any other case, the time when the tax becomes payable in accordance with section 59D or 59E.
 
-(2) The Commissioners for Her Majesty's Revenue and Customs may, at any time before the end of the period of 3 years beginning with the relevant time[^key-ea27ff79053dbbe11181bec606225cd5], serve on any person within subsection (3) a notice—
+(2) The Commissioners for Her Majesty's Revenue and Customs may, at any time before the end of the period of 3 years beginning with the relevant time[^c-ea27ff79053dbbe11181bec606225cd5], serve on any person within subsection (3) a notice—
 
 - (a) stating particulars of the tax payable, the amount remaining unpaid and the date when it became payable, and
 - (b) requiring that person to pay that amount within 30 days of the service of the notice.
 
-(2A)[^key-a09c5799623a56dc85fbefda9c1988e4] In subsection (2) the “**relevant time**” means—
+(2A)[^c-a09c5799623a56dc85fbefda9c1988e4] In subsection (2) the “**relevant time**” means—
 
 - (a) in a case where a CT exit charge payment plan has been entered into in accordance with Schedule 3ZB in respect of the tax, the later of—
   - (i) the first day after the period of 12 months beginning immediately after the migration accounting period (as defined in Part 1 or 2 of Schedule 3ZB, as the case may be), and
@@ -62,12 +62,12 @@ summary: ''
 
 ## Annotations
 
-[^key-4658da09574b0b2b7be4ddf5f7b06949]: Textual amendment: Ss. 109B-109F and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/54) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-4658da09574b0b2b7be4ddf5f7b06949]: Textual amendment: Ss. 109B-109F and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/54) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-fe1914f643e1cd10edddf8764d9faa1e]: Textual amendment: S. 109E(1A) inserted (with effect in accordance with Sch. 49 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 49 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/49/paragraph/5/2)
+[^c-fe1914f643e1cd10edddf8764d9faa1e]: Textual amendment: S. 109E(1A) inserted (with effect in accordance with Sch. 49 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 49 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/49/paragraph/5/2)
 
-[^key-626ebe725b489462f057ed6ab1ba8580]: Textual amendment: Words in [s. 109E](https://www.legislation.gov.uk/ukpga/1970/9/section/109E) substituted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 7 para. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/7/paragraph/6/1/a)
+[^c-626ebe725b489462f057ed6ab1ba8580]: Textual amendment: Words in [s. 109E](https://www.legislation.gov.uk/ukpga/1970/9/section/109E) substituted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 7 para. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/7/paragraph/6/1/a)
 
-[^key-ea27ff79053dbbe11181bec606225cd5]: Textual amendment: Words in s. 109E(2) substituted (with effect in accordance with Sch. 49 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 49 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/49/paragraph/5/3)
+[^c-ea27ff79053dbbe11181bec606225cd5]: Textual amendment: Words in s. 109E(2) substituted (with effect in accordance with Sch. 49 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 49 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/49/paragraph/5/3)
 
-[^key-a09c5799623a56dc85fbefda9c1988e4]: Textual amendment: S. 109E(2A) inserted (with effect in accordance with Sch. 49 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 49 para. 5(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/49/paragraph/5/4)
+[^c-a09c5799623a56dc85fbefda9c1988e4]: Textual amendment: S. 109E(2A) inserted (with effect in accordance with Sch. 49 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 49 para. 5(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/49/paragraph/5/4)

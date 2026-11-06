@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Special PPP administrator’s security[^key-12d75972be53473ea0a476e1eb44020e]
+## 101. Special PPP administrator’s security[^c-12d75972be53473ea0a476e1eb44020e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12d75972be53473ea0a476e1eb44020e]: Commencement: [Rule 101](https://www.legislation.gov.uk/uksi/2007/3141/rule/101) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-12d75972be53473ea0a476e1eb44020e]: Commencement: [Rule 101](https://www.legislation.gov.uk/uksi/2007/3141/rule/101) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

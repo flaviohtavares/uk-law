@@ -36,14 +36,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Visitor levy
 
-### 1. Power for local authorities to impose levy[^key-6f3574e0845b73340b12460928368b30][^key-9fca9656582b3983f8b537af3501ddb8]
+### 1. Power for local authorities to impose levy[^c-6f3574e0845b73340b12460928368b30][^c-9fca9656582b3983f8b537af3501ddb8]
 
 A local authority may impose a levy to be charged on the purchase of overnight accommodation (see section 4(1) for the meaning of overnight accommodation) which is to be—
 
 - (a) known as the visitor levy (referred to in this Act as “**the levy**”), and
 - (b) introduced, administered and charged in accordance with this Act.
 
-### 2. Overview[^key-e699751acb971876c6ec7a8bdbd85244][^key-06e4d012149f82aa16b086c11826e947]
+### 2. Overview[^c-e699751acb971876c6ec7a8bdbd85244][^c-06e4d012149f82aa16b086c11826e947]
 
 This Act is arranged as follows—
 
@@ -58,7 +58,7 @@ This Act is arranged as follows—
 
 ### Basis and calculation of levy
 
-#### 3. Levy to be charged on purchase of overnight accommodation[^key-bab4929e8002c15b16a2674549b92e73][^key-f2e43ef8d2e0f12fb122fbc3444957ee]
+#### 3. Levy to be charged on purchase of overnight accommodation[^c-bab4929e8002c15b16a2674549b92e73][^c-f2e43ef8d2e0f12fb122fbc3444957ee]
 
 (1) The levy—
 
@@ -67,7 +67,7 @@ This Act is arranged as follows—
 
 (2) In this Act, a “chargeable transaction” is a purchase for value of the right to reside in or at overnight accommodation situated within the area to which a VL scheme relates for a period of one or more nights (see section 12(1)(a) for the meaning of a VL scheme).
 
-(2A)[^key-1ee1cc1e2665f74cee15422a90139cd7] Subsection (2B) applies if—
+(2A)[^c-1ee1cc1e2665f74cee15422a90139cd7] Subsection (2B) applies if—
 
 - (a) the right to reside in or at overnight accommodation mentioned in subsection (2) is purchased from the accommodation provider by a third party (“the initial transaction”), and
 - (b) the right is then purchased from the third party (or another person who subsequently purchased the right) by a person who takes entry to the accommodation in exercise of the right (or by a person acting on their behalf) (in this Act, a purchase of the right by any person after the initial transaction is referred to as a “**subsequent transaction**”).
@@ -86,14 +86,14 @@ This Act is arranged as follows—
   - (i) the combined period occurs between 12 noon on one day and 12 noon on the following day, and
   - (ii) at least one of the individual periods begins before midnight and at least one of the individual periods ends after midnight.
 
-(4)[^key-4d8d5ec5551217db72c777136e140edf] In this section—
+(4)[^c-4d8d5ec5551217db72c777136e140edf] In this section—
 
 - “**accommodation provider**”, in relation to overnight accommodation, means the person who—
   - (a) provides the overnight accommodation to visitors in pursuance of chargeable transactions, and
   - (b) is the occupier of the premises at which the overnight accommodation is provided,
 - “**third party**” means a person other than a visitor (or a person acting on behalf of a visitor).
 
-#### 4. Meaning of overnight accommodation[^key-e7cda9f16f6ce4d5668de856a6f30050][^key-8e58e2a327b8682533ce32ba89d3c1b6]
+#### 4. Meaning of overnight accommodation[^c-e7cda9f16f6ce4d5668de856a6f30050][^c-8e58e2a327b8682533ce32ba89d3c1b6]
 
 (1) In this Act, “**overnight accommodation**” means a room or area provided to a visitor for residential purposes in or at a type of accommodation listed in subsection (2) otherwise than as the visitor's only or usual place of residence.
 
@@ -128,7 +128,7 @@ This Act is arranged as follows—
 
 (6) Regulations under subsection (4) are subject to the affirmative procedure.
 
-#### 4A. Basis on which levy is to be charged[^key-88e201bb9c276381a7d033dcc8496c86]
+#### 4A. Basis on which levy is to be charged[^c-88e201bb9c276381a7d033dcc8496c86]
 
 (1) This section applies where a local authority is seeking to—
 
@@ -140,9 +140,9 @@ This Act is arranged as follows—
 - (a) a percentage rate (or percentage rates) set in accordance with section 6, or
 - (b) a fixed amount (or fixed amounts) set in accordance with section 6A.
 
-#### 5. Calculation of levy based on a percentage rate[^key-a12b0eafc2cd90657df3742b5ec5213f][^key-9b3c385d1985fc03208b0c7ec17909db][^key-09c9d44d4ed6e1c494afe13265870103]
+#### 5. Calculation of levy based on a percentage rate[^c-a12b0eafc2cd90657df3742b5ec5213f][^c-9b3c385d1985fc03208b0c7ec17909db][^c-09c9d44d4ed6e1c494afe13265870103]
 
-(A1)[^key-6b8e257e7671a3a85af77a281fdde3b2] This section applies where a local authority has—
+(A1)[^c-6b8e257e7671a3a85af77a281fdde3b2] This section applies where a local authority has—
 
 - (a) introduced a VL scheme under which the levy is to be charged in respect of a chargeable transaction on the basis of a percentage rate, or
 - (b) modified a VL scheme to provide for the levy to be charged in respect of a chargeable transaction on the basis of a percentage rate.
@@ -166,14 +166,14 @@ This Act is arranged as follows—
 
 (5) Regulations under subsection (4) are subject to the negative procedure.
 
-#### 6. Setting percentage rate for levy[^key-21a0bf8c961a0ed159c595b99d3cd2e1][^key-0084b23d5fc754ab57431c919e86156f][^key-34295db76505c56858125b80fd91b3ba]
+#### 6. Setting percentage rate for levy[^c-21a0bf8c961a0ed159c595b99d3cd2e1][^c-0084b23d5fc754ab57431c919e86156f][^c-34295db76505c56858125b80fd91b3ba]
 
-(A1)[^key-86d86370ce1aa000c3a94f347c5eb6d2] This section applies where a local authority is seeking to—
+(A1)[^c-86d86370ce1aa000c3a94f347c5eb6d2] This section applies where a local authority is seeking to—
 
 - (a) introduce a VL scheme under which the levy is to be charged in respect of a chargeable transaction on the basis of a percentage rate, or
 - (b) modify a VL scheme to provide for the levy to be charged in respect of a chargeable transaction on the basis of a percentage rate.
 
-(1) The local authority[^key-dba7c70cde7b577abdff6059ebee9ca4] must set the percentage rate of the levy chargeable in respect of a chargeable transaction.
+(1) The local authority[^c-dba7c70cde7b577abdff6059ebee9ca4] must set the percentage rate of the levy chargeable in respect of a chargeable transaction.
 
 (2) The percentage rate set under subsection (1)—
 
@@ -195,7 +195,7 @@ This Act is arranged as follows—
 
 (6) Regulations under subsection (3) are subject to the affirmative procedure.
 
-#### 6A. Setting fixed amount of levy[^key-0c49a66d338414ec15660684dd8ce87e]
+#### 6A. Setting fixed amount of levy[^c-0c49a66d338414ec15660684dd8ce87e]
 
 (1) This section applies where a local authority is seeking to—
 
@@ -231,23 +231,23 @@ This Act is arranged as follows—
 
 (10) Regulations under subsection (7) are subject to the affirmative procedure.
 
-#### 7. Maximum number of nights of overnight accommodation[^key-823ad9778d6c304384b4b0fd6af4c8bc][^key-08e23e23af732d78d06c8fee15177cee]
+#### 7. Maximum number of nights of overnight accommodation[^c-823ad9778d6c304384b4b0fd6af4c8bc][^c-08e23e23af732d78d06c8fee15177cee]
 
-(1) A local authority seeking to introduce or modify[^key-e633e1a4033a67627f4fb23eb3d99967] a VL scheme may specify that a maximum number of nights may apply in respect of a chargeable transaction for the right to reside in or at that accommodation for a period of consecutive nights.
+(1) A local authority seeking to introduce or modify[^c-e633e1a4033a67627f4fb23eb3d99967] a VL scheme may specify that a maximum number of nights may apply in respect of a chargeable transaction for the right to reside in or at that accommodation for a period of consecutive nights.
 
 (2) A local authority may only specify a maximum number of nights under subsection (1) if it has consulted—
 
 - (a) such persons as they consider to be representative of communities, businesses engaged in tourism and tourist organisations, and
 - (b) such other persons as they consider appropriate.
 
-#### 8. Person liable to pay levy[^key-70b8b871f113d86906b4a10649ba1668][^key-94d8daff25f23cc8288577c44812d9b9]
+#### 8. Person liable to pay levy[^c-70b8b871f113d86906b4a10649ba1668][^c-94d8daff25f23cc8288577c44812d9b9]
 
 The person liable to pay the levy charged in respect of a chargeable transaction is the person who—
 
 - (a) provides overnight accommodation to a visitor in pursuance of the transaction, and
 - (b) is the occupier of the premises at which that overnight accommodation is provided (such a person is referred to in this Act as “**the liable person**”).
 
-#### 9. Third party arrangements[^key-c85ce251a818de28f037b4719bb29b2f][^key-3c60cdc00f5c8fa9573e8b625f5a599e]
+#### 9. Third party arrangements[^c-c85ce251a818de28f037b4719bb29b2f][^c-3c60cdc00f5c8fa9573e8b625f5a599e]
 
 (1) The liable person may make arrangements for a person to—
 
@@ -261,23 +261,23 @@ on behalf of the liable person.
 
 (3) The making of an arrangement under subsection (1) does not affect the liable person's obligations under this Act.
 
-#### 10. Billing of overnight accommodation[^key-51bc2d548bec6e34c9e5fc40715c99c6][^key-275015ece77a47d2ce1a5b5b43aa99f6]
+#### 10. Billing of overnight accommodation[^c-51bc2d548bec6e34c9e5fc40715c99c6][^c-275015ece77a47d2ce1a5b5b43aa99f6]
 
-(1) The Scottish Ministers may, by regulations, specify requirements for the billing of overnight accommodation in respect of chargeable transactions and subsequent transactions[^key-96bc4fd18adc93d5a709265116069aed].
+(1) The Scottish Ministers may, by regulations, specify requirements for the billing of overnight accommodation in respect of chargeable transactions and subsequent transactions[^c-96bc4fd18adc93d5a709265116069aed].
 
-(2) If the levy to be charged in respect of chargeable transactions is based on a percentage rate (or percentage rates), regulations[^key-bf8750ed540416acb3e0df7801cd11e2] under subsection (1) may, in particular, require persons to—
+(2) If the levy to be charged in respect of chargeable transactions is based on a percentage rate (or percentage rates), regulations[^c-bf8750ed540416acb3e0df7801cd11e2] under subsection (1) may, in particular, require persons to—
 
-- (a) issue an invoice to a visitor or another person[^key-5bd103a2cc9e3ef09ae14ebfc45a668c] entering into a chargeable transaction , or a subsequent transaction, in respect of overnight accommodation[^key-7201361ce6c20afab8eeafb37b952fab], which specifies separately—
+- (a) issue an invoice to a visitor or another person[^c-5bd103a2cc9e3ef09ae14ebfc45a668c] entering into a chargeable transaction , or a subsequent transaction, in respect of overnight accommodation[^c-7201361ce6c20afab8eeafb37b952fab], which specifies separately—
   - (i) the cost of the overnight accommodation purchased,
-  - (ii) the percentage rate of the levy chargeable in respect of the accommodation[^key-05c86f835c42a5459c356b41b9453868],
-  - (iii) the amount of the accommodation portion of the transaction [^key-1dbe58edd8fbe968af9ab3b2592f0595]..., and
-  - (iv) the amount of levy chargeable in respect of the accommodation[^key-a1a14e3f77b685bc34b00c135b9480e1].
-- (b) publish the cost (or costs) of overnight accommodation made available for purchase by the liable person or another person[^key-087177faf4eb2a331ea6ec26a1aee0ed], specifying separately—
-  - (i) the amount attributable to the accommodation portion of the accommodation [^key-c540a5dea0252d65cde13e61554bf1f3]...,
+  - (ii) the percentage rate of the levy chargeable in respect of the accommodation[^c-05c86f835c42a5459c356b41b9453868],
+  - (iii) the amount of the accommodation portion of the transaction [^c-1dbe58edd8fbe968af9ab3b2592f0595]..., and
+  - (iv) the amount of levy chargeable in respect of the accommodation[^c-a1a14e3f77b685bc34b00c135b9480e1].
+- (b) publish the cost (or costs) of overnight accommodation made available for purchase by the liable person or another person[^c-087177faf4eb2a331ea6ec26a1aee0ed], specifying separately—
+  - (i) the amount attributable to the accommodation portion of the accommodation [^c-c540a5dea0252d65cde13e61554bf1f3]...,
   - (ii) the percentage rate of the levy chargeable in respect of the accommodation, and
   - (iii) the amount of levy chargeable in respect of the accommodation.
 
-(2A)[^key-e7e33ac5fb4054bc6b7513bcb704d624] If the levy to be charged in respect of chargeable transactions is a fixed amount (or fixed amounts) set under section 6A, regulations under subsection (1) may, in particular, require persons to—
+(2A)[^c-e7e33ac5fb4054bc6b7513bcb704d624] If the levy to be charged in respect of chargeable transactions is a fixed amount (or fixed amounts) set under section 6A, regulations under subsection (1) may, in particular, require persons to—
 
 - (a) issue an invoice to a visitor or another person entering into a chargeable transaction or a subsequent transaction, in respect of overnight accommodation, which specifies the amount of the levy chargeable for each room or area for each night,
 - (b) publish the amount (or amounts) of the levy chargeable for each room or area for each night that any number of persons have a right to reside in or at the overnight accommodation in pursuance of a chargeable transaction.
@@ -288,12 +288,12 @@ on behalf of the liable person.
 
 ### Exemptions and rebates
 
-#### 11. Exemptions and rebates[^key-931d407275663d98db31ce4ec18c9ba9][^key-07d3543f311019b9656ede27969e97e2]
+#### 11. Exemptions and rebates[^c-931d407275663d98db31ce4ec18c9ba9][^c-07d3543f311019b9656ede27969e97e2]
 
 (1) The Scottish Ministers may by regulations—
 
 - (a) specify the cases or circumstances in which the levy (or a sum equivalent to the amount of the levy) is not payable or may be reimbursed,
-- (b) provide for the making of arrangements for the issuing of exemption vouchers to categories of visitors specified in the regulations who may take entry to overnight accommodation in pursuance of[^key-c1c0a96c81e7a82ba1ac19c21ea95044] a chargeable transaction, for the purpose of demonstrating the application of circumstances in which a chargeable transaction is not subject to the levy.
+- (b) provide for the making of arrangements for the issuing of exemption vouchers to categories of visitors specified in the regulations who may take entry to overnight accommodation in pursuance of[^c-c1c0a96c81e7a82ba1ac19c21ea95044] a chargeable transaction, for the purpose of demonstrating the application of circumstances in which a chargeable transaction is not subject to the levy.
 
 (2) Without prejudice to the generality of subsection (1), regulations may specify a maximum number of nights of overnight accommodation for the purposes of applying, where a chargeable transaction is for the right to reside in or at that accommodation for period of consecutive nights, an exemption or rebate to the part of the levy which is attributable to any nights in excess of that maximum.
 
@@ -319,7 +319,7 @@ on behalf of the liable person.
 
 ### Process
 
-#### 12. Scheme to impose levy[^key-713bb0f327bfdbefb0081c629ea75bb0][^key-5c8962406e45134a1faeed68441862a6]
+#### 12. Scheme to impose levy[^c-713bb0f327bfdbefb0081c629ea75bb0][^c-5c8962406e45134a1faeed68441862a6]
 
 (1) A local authority may—
 
@@ -329,7 +329,7 @@ on behalf of the liable person.
 
 (2) A VL scheme may make different provision for different purposes or different areas within the local authority's area.
 
-(2A)[^key-809f75b4868df01ac51f952102edcdd8] But a VL scheme, or two or more VL schemes taken together, may impose only one levy in respect of a purchase of the right to reside in or at a particular room or area comprising overnight accommodation on a particular night.
+(2A)[^c-809f75b4868df01ac51f952102edcdd8] But a VL scheme, or two or more VL schemes taken together, may impose only one levy in respect of a purchase of the right to reside in or at a particular room or area comprising overnight accommodation on a particular night.
 
 (3) Two or more local authorities may act jointly to make a VL scheme.
 
@@ -341,7 +341,7 @@ on behalf of the liable person.
   - (ii) the area of a local authority is a reference to the combined areas of those authorities, and
   - (iii) the local tourism strategy of a local authority is a reference to any tourism strategy prepared by an authority which is in effect in all or part of the area to which the VL scheme applies.
 
-#### 12A. Permitted deduction by liable persons from levy payable[^key-89d200bb296be4d4589112c4ee98ed51]
+#### 12A. Permitted deduction by liable persons from levy payable[^c-89d200bb296be4d4589112c4ee98ed51]
 
 (1) In introducing or modifying a VL scheme, a local authority may permit liable persons to deduct and retain an amount from the levy payable in respect of a chargeable transaction.
 
@@ -376,7 +376,7 @@ on behalf of the liable person.
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
 - (b) otherwise, are subject to the negative procedure.
 
-#### 13. Prior consultation on scheme[^key-356355c38687fd2ed27096e7d80e2f99][^key-6b268fc7294074b64149807e872ac2ae]
+#### 13. Prior consultation on scheme[^c-356355c38687fd2ed27096e7d80e2f99][^c-6b268fc7294074b64149807e872ac2ae]
 
 (1) Before introducing or modifying a VL scheme, a local authority must—
 
@@ -404,29 +404,29 @@ on behalf of the liable person.
 
 (4) Before revoking a VL scheme, a local authority must publicise the proposed revocation of the scheme.
 
-#### 14. Required content of a scheme[^key-9d7c32780b524f5629cc04b9a16ef637][^key-bbaa5ce605ee73e24335a82f3c65c697]
+#### 14. Required content of a scheme[^c-9d7c32780b524f5629cc04b9a16ef637][^c-bbaa5ce605ee73e24335a82f3c65c697]
 
 (1) A VL scheme must specify—
 
 - (a) the scheme area,
 - (b) the date on which the scheme is to come into force,
 - (c) the scheme period (that is, the period during which the scheme is to remain in force (which may be indefinitely)),
-- (d)[^key-1f4233de124a53d44c59a92874cdcc19] when, during the scheme period, the taking of entry to overnight accommodation in exercise of the right to reside in or at the accommodation is to give rise to the levy (which may be at all times during the scheme period),
-- (da)[^key-ba7a3525079cf6217ffbfc4452d47813] the basis on which the levy is to be charged in respect of each chargeable transaction to which the scheme relates in accordance with section 4A,
-- (e)[^key-3141f9c9ecd2b10065484c932b47fabb] either (as the case may be)—
+- (d)[^c-1f4233de124a53d44c59a92874cdcc19] when, during the scheme period, the taking of entry to overnight accommodation in exercise of the right to reside in or at the accommodation is to give rise to the levy (which may be at all times during the scheme period),
+- (da)[^c-ba7a3525079cf6217ffbfc4452d47813] the basis on which the levy is to be charged in respect of each chargeable transaction to which the scheme relates in accordance with section 4A,
+- (e)[^c-3141f9c9ecd2b10065484c932b47fabb] either (as the case may be)—
   - (i) the percentage rate (or rates) of the levy set by the local authority under section 6, or
   - (ii) the fixed amount (or amounts) of the levy set by the local authority under section 6A,
 - (f) the scheme’s objectives,
-- (fa)[^key-e9acc706f5476d4da2028352aaf73a01] whether liable persons are permitted to deduct and retain an amount from the levy payable in respect of a chargeable transaction (not exceeding the permitted deduction set under section 12A(2)) and, if so, the amount of the permitted deduction,
+- (fa)[^c-e9acc706f5476d4da2028352aaf73a01] whether liable persons are permitted to deduct and retain an amount from the levy payable in respect of a chargeable transaction (not exceeding the permitted deduction set under section 12A(2)) and, if so, the amount of the permitted deduction,
 - (g) arrangements for the review of decisions by the authority in relation to the scheme,
 - (h) the cases or circumstances in which the levy (or a sum equivalent to the levy) is not payable or may be reimbursed,
-- (i) that the levy (or a sum equivalent to the levy) is not payable or is to be reimbursed in a case where the visitor or any other person utilising the right to reside in the overnight accommodation is entitled to[^key-bbf50969f57dcafc98a7cca3a35a91f6] benefits, payments or allowances [^key-8f070c1fee22eef1da0c8189d7e08657]...—
+- (i) that the levy (or a sum equivalent to the levy) is not payable or is to be reimbursed in a case where the visitor or any other person utilising the right to reside in the overnight accommodation is entitled to[^c-bbf50969f57dcafc98a7cca3a35a91f6] benefits, payments or allowances [^c-8f070c1fee22eef1da0c8189d7e08657]...—
   - (i) under section 71 of the Social Security Contributions and Benefits Act 1992 (disability living allowance),
-  - (ii) [^key-f7cf0c0f9125d87c5c8782a833b25661]... in accordance with regulations made under section 31 of the Social Security (Scotland) Act 2018 (disability assistance),
+  - (ii) [^c-f7cf0c0f9125d87c5c8782a833b25661]... in accordance with regulations made under section 31 of the Social Security (Scotland) Act 2018 (disability assistance),
   - (iii) under section 64 of the Social Security Contributions and Benefits Act 1992 (attendance allowance),
-  - (iv)[^key-1d5c38188da7786e2183837a9cff8da7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-1d5c38188da7786e2183837a9cff8da7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (v) under Part 4 of the Welfare Reform Act 2012 (personal independence payment),
-  - (vi)[^key-30aa348dc6ec74582b5e7a8e6f86ed52] by way of war disablement pension, meaning—
+  - (vi)[^c-30aa348dc6ec74582b5e7a8e6f86ed52] by way of war disablement pension, meaning—
     - (A) any retired pay, pension or allowance granted in respect of disablement under powers conferred by or under the Air Force (Constitution) Act 1917, the Personal Injuries (Emergency Provisions) Act 1939, the Pensions (Navy, Army, Air Force and Mercantile Marine) Act 1939, the Polish Resettlement Act 1947, or Part 7 or section 151 of the Reserve Forces Act 1980, or
     - (B) without prejudice to the generality of sub-sub-paragraph (A), any retired pay or pension to which any of paragraphs (a) to (f) of section 641(1) of the Income Tax (Earnings and Pensions) Act 2003 applies,
   - (vii) by way of war pensioners’ mobility supplement within the meaning of—
@@ -442,7 +442,7 @@ on behalf of the liable person.
   - (xi) under Part 1 of the Welfare Reform Act 2007 (employment and support allowance),
   - (xii) paid in accordance with article 24A of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011 (armed forces independence payment), or
   - (xiii) awarded by virtue of section 12(2)(b) of the Welfare Reform Act 2012,
-- (ia)[^key-816f50541785cfce142b762a3ce9be21] that the levy (or a sum equivalent to the levy) is not payable or is to be reimbursed in a case where the visitor or any other person utilising the right to reside in the overnight accommodation is a person—
+- (ia)[^c-816f50541785cfce142b762a3ce9be21] that the levy (or a sum equivalent to the levy) is not payable or is to be reimbursed in a case where the visitor or any other person utilising the right to reside in the overnight accommodation is a person—
   - (i) to whom any of the following apply—
     - (A) Title III of Part 2 of the EU withdrawal agreement,
     - (B) Part 3 or Article 23(4) of the Swiss citizens’ rights agreement within the meaning of section 39(1) of the European Union (Withdrawal Agreement) Act 2020 (“**the 2020 Act**”),
@@ -465,25 +465,25 @@ on behalf of the liable person.
 - (ic) that the levy (or a sum equivalent to the levy) is not payable or is to be reimbursed in a case where the visitor or any other person utilising the right to reside in the overnight accommodation is a person who is—
   - (i) resident in the United Kingdom, and
   - (ii) entitled to a benefit, payment or allowance equivalent to those listed in paragraph (i) under the legislation of Northern Ireland,
-- (j) arrangements for the administration of the exemption or reimbursement specified in accordance with paragraphs (i) to (ic)[^key-34ccf86f238a92ead346d2a2f024ad4e], including the evidence required and manner in which it may be demonstrated that a visitor or other person is entitled to[^key-716063c483f682abb0c12bc8aa8e8da9] the relevant benefit, payment or allowance,
-- (k) arrangements for the reimbursement of the levy (or a sum equivalent to the levy) to a person who has (or a category of persons who have) entered into a chargeable transaction or a subsequent transaction[^key-e735c685f2e8aaabdc1ee3b8cef3e22d], and
+- (j) arrangements for the administration of the exemption or reimbursement specified in accordance with paragraphs (i) to (ic)[^c-34ccf86f238a92ead346d2a2f024ad4e], including the evidence required and manner in which it may be demonstrated that a visitor or other person is entitled to[^c-716063c483f682abb0c12bc8aa8e8da9] the relevant benefit, payment or allowance,
+- (k) arrangements for the reimbursement of the levy (or a sum equivalent to the levy) to a person who has (or a category of persons who have) entered into a chargeable transaction or a subsequent transaction[^c-e735c685f2e8aaabdc1ee3b8cef3e22d], and
 - (l) the manner in which the authority intends to make decisions on the use of the net proceeds of the scheme.
 
 (2) For the purposes of subsection (1)(h), the VL scheme must specify whether the levy is not payable in relation to accommodation which has an annual turnover below the VAT threshold.
 
-(3) The date on which a VL scheme is to come into force [^key-778cdd687d8f096179db935101558474]... must be at least 18 months after the date on which the local authority publishes a report under section 13(1)(c) stating that it intends to proceed with the original or modified proposal.
+(3) The date on which a VL scheme is to come into force [^c-778cdd687d8f096179db935101558474]... must be at least 18 months after the date on which the local authority publishes a report under section 13(1)(c) stating that it intends to proceed with the original or modified proposal.
 
-(3A)[^key-2373ff7741ed67dc33fc8bdefd035ada] If a VL scheme is in force, the date on which a significant modification of the scheme is to take effect—
+(3A)[^c-2373ff7741ed67dc33fc8bdefd035ada] If a VL scheme is in force, the date on which a significant modification of the scheme is to take effect—
 
 - (a) in the case of a modification of the type mentioned in paragraph (a) or (c) of subsection (4), must be at least 18 months after the date on which the local authority publishes a report under section 13(1)(c) stating that it intends to proceed with the original or modified proposal,
 - (b) in the case of a modification of the type mentioned in paragraph (b), (ba) or (bb) of subsection (4), must be at least 6 months after the date on which the local authority publishes a report under section 13(1)(c) stating that it intends to proceed with the original or modified proposal.
 
 (3B) If a VL scheme is not yet in force, the date on which a significant modification of the scheme is to take effect must be at least 18 months after the date on which the local authority publishes a report under section 13(1)(c) stating that it intends to proceed with the original or modified proposal.
 
-(4) In subsections (3A) and (3B)[^key-b0d0c152ec7ead325b210352aec16818], “**significant modification**” means a modification of a VL scheme which does any of the following[^key-4229100817832e917a7d6fe65e4239d0]—
+(4) In subsections (3A) and (3B)[^c-b0d0c152ec7ead325b210352aec16818], “**significant modification**” means a modification of a VL scheme which does any of the following[^c-4229100817832e917a7d6fe65e4239d0]—
 
 - (a) expands the scheme area,
-- (b)[^key-f576069bbf83e6465b549c1f4907cf13] in the case of a VL scheme under which the levy to be charged is based on a percentage rate (or percentage rates), increases the percentage rate (or rates) of the levy,
+- (b)[^c-f576069bbf83e6465b549c1f4907cf13] in the case of a VL scheme under which the levy to be charged is based on a percentage rate (or percentage rates), increases the percentage rate (or rates) of the levy,
 - (ba) in the case of a VL scheme under which the levy to be charged is a fixed amount (or fixed amounts), increases the fixed amount (or amounts) of the levy,
 - (bb) changes the basis on which the levy is to be charged from that mentioned in paragraph (a) of section 4A(2) to that mentioned in paragraph (b) of that subsection (or vice versa),
 - (c) removes from the VL scheme any cases or circumstances in which the levy (or a sum equivalent to the levy) is not payable or reimbursed.
@@ -507,7 +507,7 @@ on behalf of the liable person.
 
 (10) In this section, “**the VAT threshold**” means the amount for the time being specified in paragraph 1(1)(a) of schedule 1 of the Value Added Tax Act 1994.
 
-#### 15. Publicity for introduction of scheme[^key-359125ed4760fc5babe9ff885bc683eb][^key-e3a241ed11544f3b972d26b7a58147f8]
+#### 15. Publicity for introduction of scheme[^c-359125ed4760fc5babe9ff885bc683eb][^c-e3a241ed11544f3b972d26b7a58147f8]
 
 (1) As soon as reasonably practicable after the date of its decision to introduce a VL scheme, the local authority must—
 
@@ -520,7 +520,7 @@ on behalf of the liable person.
 
 (3) Regulations under subsection (2) are subject to the negative procedure. 
 
-#### 16. Visitor levy forum[^key-a4b14d1c850b58d921ce8289db324a8d][^key-0ddebaa19220662a621c1b56744f9b92]
+#### 16. Visitor levy forum[^c-a4b14d1c850b58d921ce8289db324a8d][^c-0ddebaa19220662a621c1b56744f9b92]
 
 (1) A local authority operating a VL scheme must—
 
@@ -554,7 +554,7 @@ on behalf of the liable person.
 - (a) more than one VL forum may be established for the area of a local authority, but
 - (b) a single VL forum may be established for the purposes of this section and the schemes in the different parts of a local authority area.
 
-#### 17. Transitional provision[^key-3393a4ba656bd57cb95955641123f872][^key-737c0dc2cc67df8bb2f92bd51cbaab5b]
+#### 17. Transitional provision[^c-3393a4ba656bd57cb95955641123f872][^c-737c0dc2cc67df8bb2f92bd51cbaab5b]
 
 (1) The levy must not be charged in respect of a chargeable transaction that is paid for (in full or part) before the date of the local authority's decision to introduce a VL scheme.
 
@@ -562,7 +562,7 @@ on behalf of the liable person.
 
 ### Finances
 
-#### 18. Duty to keep separate account for scheme[^key-2858c0a67d25d8c3050dad4767adcaaa][^key-45fd3fed5dc0b99537b7716c3f0dc587]
+#### 18. Duty to keep separate account for scheme[^c-2858c0a67d25d8c3050dad4767adcaaa][^c-45fd3fed5dc0b99537b7716c3f0dc587]
 
 (1) A local authority operating a VL scheme must keep an account for the scheme.
 
@@ -581,7 +581,7 @@ on behalf of the liable person.
 
 (5) Regulations under subsection (3) are subject to the negative procedure.
 
-#### 19. Use of net proceeds of scheme[^key-23bd44c45a07bcde8f7de5c2a2aa1ab8][^key-69bcf7a1cbed9487d196491f7826ceab]
+#### 19. Use of net proceeds of scheme[^c-23bd44c45a07bcde8f7de5c2a2aa1ab8][^c-69bcf7a1cbed9487d196491f7826ceab]
 
 (1) A local authority operating a VL scheme must use the net proceeds of the scheme (or, in the case of a joint scheme, the authority's share of the net proceeds) for the purposes of—
 
@@ -608,7 +608,7 @@ on behalf of the liable person.
 
 ### Performance
 
-#### 20. Annual reporting on scheme[^key-1429237836c1362cefa2f15fdb65550a][^key-490fb6e0b8a9f8571de18578c15049ef]
+#### 20. Annual reporting on scheme[^c-1429237836c1362cefa2f15fdb65550a][^c-490fb6e0b8a9f8571de18578c15049ef]
 
 (1) A local authority operating a VL scheme must prepare a report on the scheme in respect of each reporting period, including information on—
 
@@ -634,26 +634,26 @@ on behalf of the liable person.
   - (a) in the case of the first report, any period determined by the local authority of a maximum of 18 months beginning with the date on which the scheme came into force,
   - (b) in any other case, the period of 12 months beginning with the date on which the previous reporting period ended.
 
-#### 21. Review of scheme[^key-bb888ec2a665685d70e02965d1d36a10][^key-bb3fa9741f0b838d62ae18348a551398]
+#### 21. Review of scheme[^c-bb888ec2a665685d70e02965d1d36a10][^c-bb3fa9741f0b838d62ae18348a551398]
 
 (1) A local authority operating a VL scheme must review the scheme—
 
 - (a) before the end of the period of 3 years beginning with the date on which the scheme came into force, and
 - (b) before the end of each subsequent period of 3 years.
 
-(1A)[^key-bc196b9bcc858ca82f5ce476007f8a77] The local authority must, in carrying out such a review, consider whether the scheme should be modified or revoked.
+(1A)[^c-bc196b9bcc858ca82f5ce476007f8a77] The local authority must, in carrying out such a review, consider whether the scheme should be modified or revoked.
 
 (2) The local authority must, as soon as reasonably practicable after carrying out such a review, publish a report setting out its findings.
 
 (3) The local authority must provide a copy of the published report to the VL forum for that scheme established by the local authority in accordance with section 16(1).
 
-#### 22. Scottish Ministers’ power to regulate process[^key-ec3934401ed98277692ac01844b441df][^key-ba83e72ec4b285b9003184c8fedb47d1]
+#### 22. Scottish Ministers’ power to regulate process[^c-ec3934401ed98277692ac01844b441df][^c-ba83e72ec4b285b9003184c8fedb47d1]
 
 (1) The Scottish Ministers may by regulations make further provision about, or in connection with, the process to be followed by a local authority when introducing, administering, reporting on or reviewing a VL scheme.
 
 (2) Regulations under this section are subject to the affirmative procedure.
 
-#### 23. Guidance on visitor levy scheme[^key-b5e5e1d206cb1c38d9fdd6e9915d2ff9][^key-81c49b0365bb64bb3e7224c4eace763e]
+#### 23. Guidance on visitor levy scheme[^c-b5e5e1d206cb1c38d9fdd6e9915d2ff9][^c-81c49b0365bb64bb3e7224c4eace763e]
 
 (1) A local authority must, when exercising a function under Part 3 of this Act, have regard to any guidance published under this section.
 
@@ -692,7 +692,7 @@ on behalf of the liable person.
 
 ### Chapter 1 — Delegation of functions
 
-#### 24. Delegation of collection and enforcement functions[^key-7aaa06078660a8d08fc98072daf9b6ef][^key-a3162d806483f11d261602ea1ca5fde5]
+#### 24. Delegation of collection and enforcement functions[^c-7aaa06078660a8d08fc98072daf9b6ef][^c-a3162d806483f11d261602ea1ca5fde5]
 
 (1) A relevant local authority may authorise a person to carry out its functions under—
 
@@ -712,19 +712,19 @@ on behalf of the liable person.
 
 ### Chapter 2 — Returns
 
-#### 25. Interpretation[^key-ea6b535a8dd78148f262320297f086dd][^key-19b772a4c98e8db3ed9fed8515d5c839]
+#### 25. Interpretation[^c-ea6b535a8dd78148f262320297f086dd][^c-19b772a4c98e8db3ed9fed8515d5c839]
 
 (1) References in this Act to the making of returns are to the making of returns that comply with the requirements of this Part.
 
 (2) References in this Part to the relevant period are to the period mentioned in section 26(4).
 
-#### 26. Duty to make returns[^key-b8373035bdc4d349fd3d8d7cf5e05a57][^key-329ff5711db72edb174f7004c375ed49]
+#### 26. Duty to make returns[^c-b8373035bdc4d349fd3d8d7cf5e05a57][^c-329ff5711db72edb174f7004c375ed49]
 
 (1) The liable person must make returns to the relevant local authority.
 
 (2) Returns must—
 
-- (a)[^key-e9d07a4dbc111c0520a132c554371316] include—
+- (a)[^c-e9d07a4dbc111c0520a132c554371316] include—
   - (i) an assessment of the amount of the levy payable in respect of the relevant period, and
   - (ii) if liable persons are permitted under the VL scheme to which the return relates to deduct and retain an amount from the levy payable in respect of a chargeable transaction—
     - (A) a statement of any amount (not exceeding the permitted deduction) that is to be deducted by the liable person from the amount of the levy payable in respect of the relevant period, and
@@ -733,7 +733,7 @@ on behalf of the liable person.
 
 (3) For the purposes of subsection (2)(a)—
 
-- (a) the amount of the levy payable by a liable person in respect of each relevant period is the total amount of the levies (calculated in accordance with section 5 or, as the case may be, section 6A) that become payable by the liable person during the period,[^key-7f33460dbbc73705e8f6eddf390ecb99]
+- (a) the amount of the levy payable by a liable person in respect of each relevant period is the total amount of the levies (calculated in accordance with section 5 or, as the case may be, section 6A) that become payable by the liable person during the period,[^c-7f33460dbbc73705e8f6eddf390ecb99]
 - (b) where the liable person is the occupier of more than one set of premises within the area to which the VL scheme relates, the return must include assessments of the amount of the levy payable for each set of premises.
 
 (4) The relevant period means—
@@ -741,7 +741,7 @@ on behalf of the liable person.
 - (a) each quarter, or
 - (b) such period or periods specified by a relevant local authority in the VL scheme to which the return relates.
 
-#### 27. Form and content of return[^key-12e5f624408564829c4194fd5c4337a3][^key-41a8e4828b8e5d1e54ca3d3ff17858a2]
+#### 27. Form and content of return[^c-12e5f624408564829c4194fd5c4337a3][^c-41a8e4828b8e5d1e54ca3d3ff17858a2]
 
 A return under this Act must—
 
@@ -749,7 +749,7 @@ A return under this Act must—
 - (b) contain such information specified by the relevant local authority, and
 - (c) be made in such manner as specified by the relevant local authority.
 
-#### 28. Duty to keep and preserve records[^key-9425f7e86100b42adf4b85ee6b9aafa8][^key-5718514d6dc7610617bd75e505a35351]
+#### 28. Duty to keep and preserve records[^c-9425f7e86100b42adf4b85ee6b9aafa8][^c-5718514d6dc7610617bd75e505a35351]
 
 (1) A liable person must—
 
@@ -768,12 +768,12 @@ A return under this Act must—
 
 (4) The records required to be kept and preserved under subsection (1) include—
 
-- (a)[^key-9f0c53a68ace05bf681cc78b6c10c830] details of any overnight stays during the period to which the return relates in respect of which levies become payable by the liable person,
-- (ab)[^key-326854dbff105b1a9bc5c0bba11dbc2b] details of the chargeable transactions in relation to which those levies are payable,
+- (a)[^c-9f0c53a68ace05bf681cc78b6c10c830] details of any overnight stays during the period to which the return relates in respect of which levies become payable by the liable person,
+- (ab)[^c-326854dbff105b1a9bc5c0bba11dbc2b] details of the chargeable transactions in relation to which those levies are payable,
 - (b) records of payments, receipts and financial arrangements associated with those chargeable transactions, and
 - (c) such other records specified by a relevant local authority in a VL scheme.
 
-#### 28A. Amendment of returns: regulations[^key-338cd6d2b0137e823ec6969c63f60154]
+#### 28A. Amendment of returns: regulations[^c-338cd6d2b0137e823ec6969c63f60154]
 
 (1) The Scottish Ministers may by regulations make provision for or in connection with the amendment of a return made under section 26.
 
@@ -794,25 +794,25 @@ A return under this Act must—
 
 ### Chapter 3 — Payment
 
-#### 29. Payment of levy[^key-1904e3b263045b0257c9af7b824a6c07][^key-0dbaecc24491c38a11fddbf7d8d44f32]
+#### 29. Payment of levy[^c-1904e3b263045b0257c9af7b824a6c07][^c-0dbaecc24491c38a11fddbf7d8d44f32]
 
-(1) The levy payable in respect of a chargeable transaction must be paid to the relevant local authority (unless subsection (1B) applies)[^key-748d50a436de0295449330df0827b601].
+(1) The levy payable in respect of a chargeable transaction must be paid to the relevant local authority (unless subsection (1B) applies)[^c-748d50a436de0295449330df0827b601].
 
-(1A)[^key-b8ee84103c6f22017d027fa9523baff9] Subsection (1B) applies in relation to a chargeable transaction if—
+(1A)[^c-b8ee84103c6f22017d027fa9523baff9] Subsection (1B) applies in relation to a chargeable transaction if—
 
 - (a) a liable person’s return made under section 26 includes a statement about a deduction in accordance with section 26(2)(a)(ii) that relates to the chargeable transaction, and
 - (b) the deduction is not disallowed under section 29A(2).
 
 (1B) The levy payable in respect of the chargeable transaction less the amount of the deduction relating to the chargeable transaction must be paid to the relevant local authority.
 
-(2)[^key-cc69115950f429706abbd34509084a3d] Where a return is to be made under section 26, the following amount must be paid at the same time as the return is made—
+(2)[^c-cc69115950f429706abbd34509084a3d] Where a return is to be made under section 26, the following amount must be paid at the same time as the return is made—
 
 - (a) if the return includes a statement in accordance with section 26(2)(a)(ii)of an amount that is to be deducted from the total amount of the levy payable in respect of the relevant period, the total amount of the levy payable in respect of the relevant period less the amount of the deduction,
 - (b) otherwise, the total amount of the levy payable in respect of the relevant period.
 
 (3) The levy is treated as paid if arrangements satisfactory to the relevant local authority are made for payment of the levy.
 
-#### 29A. Disallowance of deduction by liable persons from levy payable[^key-6210ac72b0aa131a4f862758c6497ef9]
+#### 29A. Disallowance of deduction by liable persons from levy payable[^c-6210ac72b0aa131a4f862758c6497ef9]
 
 (1) This section applies if—
 
@@ -836,7 +836,7 @@ A return under this Act must—
 
 #### Information notices
 
-##### 30. Power to obtain information and documents from the liable person[^key-d1c947c3d0abbd16e7d685d57d46fa04][^key-8be9ee9e8fbb0a9097bed50e2b466140]
+##### 30. Power to obtain information and documents from the liable person[^c-d1c947c3d0abbd16e7d685d57d46fa04][^c-8be9ee9e8fbb0a9097bed50e2b466140]
 
 (1) If the condition in subsection (2) is met, an authorised officer may by notice require a liable person to—
 
@@ -859,7 +859,7 @@ A return under this Act must—
 - (c) an “**authorised officer**”, in relation to a relevant local authority, means a person authorised in writing by the authority, and
 - (d) an “**information notice**” means a notice given under this section or section 31.
 
-##### 31. Power to obtain information and documents from third parties[^key-1d949a372fa953ac29f2617993a19afa][^key-ccc26281664cc95601ff970e17539b00]
+##### 31. Power to obtain information and documents from third parties[^c-1d949a372fa953ac29f2617993a19afa][^c-ccc26281664cc95601ff970e17539b00]
 
 (1) If the condition in subsection (2) is met, an authorised officer may by notice require a person to—
 
@@ -875,7 +875,7 @@ in respect of a liable person.
 
 (3) A notice under this section must specify or describe the information or documents to be provided or produced.
 
-##### 32. Complying with information notices[^key-437c4db2b709e78a0c4654e1f7374b8f][^key-59b6ee5ceec5ce738e7e977b8ca2643c]
+##### 32. Complying with information notices[^c-437c4db2b709e78a0c4654e1f7374b8f][^c-59b6ee5ceec5ce738e7e977b8ca2643c]
 
 (1) Where a person is required by an information notice to provide information or produce a document, the person must do so—
 
@@ -889,7 +889,7 @@ in respect of a liable person.
 
 (3) An authorised officer must not specify for the purposes of subsection (2)(b) a place that is used solely as a dwelling.
 
-##### 33. Producing copies of documents[^key-2631e3735c6a56f1e104eb8b0d3becd8][^key-8ed6b087b93e68cfce209a08923327cd]
+##### 33. Producing copies of documents[^c-2631e3735c6a56f1e104eb8b0d3becd8][^c-8ed6b087b93e68cfce209a08923327cd]
 
 (1) Where an information notice requires a person to produce a document, the person may comply with the notice by producing a copy of the document.
 
@@ -903,7 +903,7 @@ in respect of a liable person.
 - (a) within such period, and
 - (b) at such time and by such means (if any), as is reasonably requested by the authorised officer.
 
-##### 34. Further provision about powers relating to information notices[^key-8c56119829699aad2a08d1d4a7348b96][^key-187ee962b11adffafac056cf26b30527]
+##### 34. Further provision about powers relating to information notices[^c-8c56119829699aad2a08d1d4a7348b96][^c-187ee962b11adffafac056cf26b30527]
 
 (1) The Scottish Ministers may by regulations make further provision about—
 
@@ -913,13 +913,13 @@ in respect of a liable person.
 
 (2) Regulations under subsection (1) are subject to the negative procedure.
 
-##### 35. Information notices: general restrictions[^key-cfc767264032e879ea1692073c9a2778][^key-3d557d20ed67c79077d55326a29c3e74]
+##### 35. Information notices: general restrictions[^c-cfc767264032e879ea1692073c9a2778][^c-3d557d20ed67c79077d55326a29c3e74]
 
 (1) An information notice requires a person to produce a document only if it is in the person's possession or power.
 
 (2) An information notice may not require a person to produce a document if the whole of the document originates more than 5 years before the date of the notice.
 
-##### 36. Types of information[^key-e82e00c01497d44cef8e93e8c86b9256][^key-bd6258b54c3636a7b384635d79093b50]
+##### 36. Types of information[^c-e82e00c01497d44cef8e93e8c86b9256][^c-bd6258b54c3636a7b384635d79093b50]
 
 (1) An information notice does not require a person to provide or produce journalistic material (or information contained in such material).
 
@@ -944,7 +944,7 @@ in respect of a liable person.
 - (a) to produce documents (or copies of documents) that are personal records, omitting any information whose inclusion (whether alone or with other information) makes the original documents personal records (“personal information”), and
 - (b) to provide any information contained in such records that is not personal information.
 
-##### 37. Protection for privileged communications between legal advisers and clients[^key-b728d1c3c1fb4fb1587a03d6b080bc46][^key-1d724816b6548088e884bbf6e129e6b2]
+##### 37. Protection for privileged communications between legal advisers and clients[^c-b728d1c3c1fb4fb1587a03d6b080bc46][^c-1d724816b6548088e884bbf6e129e6b2]
 
 (1) An information notice does not require a person—
 
@@ -955,7 +955,7 @@ in respect of a liable person.
 
 #### Inspection powers
 
-##### 38. Power to inspect business premises[^key-ee3118bdf38d16df10be9fbb752661de][^key-b64fca98077378e793862f5aa8ad4e22]
+##### 38. Power to inspect business premises[^c-ee3118bdf38d16df10be9fbb752661de][^c-b64fca98077378e793862f5aa8ad4e22]
 
 (1) If the condition in subsection (2) is met, an authorised officer may enter a liable person's business premises and inspect—
 
@@ -978,7 +978,7 @@ in respect of a liable person.
 - “**carrying on a business**” includes the letting of property and the activities of a charity,
 - “**premises**” includes any building or structure, any land and any means of transport.
 
-##### 39. Power to inspect business premises of third parties[^key-d0dbe385263420d67f903bca4ecb6edb][^key-35ddd101cfd7da972d80a7b3154ef8c5]
+##### 39. Power to inspect business premises of third parties[^c-d0dbe385263420d67f903bca4ecb6edb][^c-35ddd101cfd7da972d80a7b3154ef8c5]
 
 (1) If the condition in subsection (2) is met, an authorised officer may enter business premises of an involved third party and inspect—
 
@@ -998,7 +998,7 @@ in respect of a liable person.
 
 (5) Regulations under subsection (3) are subject to the affirmative procedure.
 
-##### 40. Carrying out inspections under section 38 and 39[^key-3a7fead8ebc0dd06153b33cb64b42b1a][^key-f8ea7b1cc8d50221c4139f5f9352cd06]
+##### 40. Carrying out inspections under section 38 and 39[^c-3a7fead8ebc0dd06153b33cb64b42b1a][^c-f8ea7b1cc8d50221c4139f5f9352cd06]
 
 (1) An inspection under section 38 or 39 may be carried out only—
 
@@ -1020,7 +1020,7 @@ in respect of a liable person.
 
 (4) The notice referred to in subsection (2)(a) or (3) must state the possible consequences of obstructing the authorised officer in the exercise of the power.
 
-##### 41. Carrying out inspections under section 38 or 39: further provision[^key-f210c4562f77c19b2897dcad826beb03][^key-ad940c4e19b268f89db4c8b6312bd937]
+##### 41. Carrying out inspections under section 38 or 39: further provision[^c-f210c4562f77c19b2897dcad826beb03][^c-ad940c4e19b268f89db4c8b6312bd937]
 
 (1) An authorised officer carrying out an inspection under section 38 or 39 has the following powers.
 
@@ -1046,7 +1046,7 @@ in respect of a liable person.
 
 (8) Section 40(3) and (4) apply to the exercise of the power mentioned in subsection (3) by virtue of subsection (7)(b) as they apply to an inspection carried out by virtue of section 40(2)(b).
 
-##### 42. Power to copy and remove documents[^key-bc27bd801d094024d4367a79e5159f83][^key-c9250f77d59b9e1b72f26c48e39808df]
+##### 42. Power to copy and remove documents[^c-bc27bd801d094024d4367a79e5159f83][^c-c9250f77d59b9e1b72f26c48e39808df]
 
 (1) Where a document is produced to, or inspected by, an authorised officer, the officer may take copies of, or make extracts from, the document.
 
@@ -1066,11 +1066,11 @@ in respect of a liable person.
 
 (6) In this section, references to a document include a copy of a document.
 
-##### 43. Restriction on inspection of documents[^key-0c8ea59b5641dc6819e13792d74c8ac3][^key-ea7ed783b72ce285be0b5e9d2edcf727]
+##### 43. Restriction on inspection of documents[^c-0c8ea59b5641dc6819e13792d74c8ac3][^c-ea7ed783b72ce285be0b5e9d2edcf727]
 
 An authorised officer may not inspect a document whilst carrying out an inspection under this Chapter if (or to the extent that), by virtue of sections 30 to 37, an information notice given at the time of the inspection to the occupier of the premises could not require the occupier to produce the document.
 
-##### 44. Electronic records[^key-e1d65236a9e2be878b107ced68a1ad26][^key-caa273d9ffe4487b1248b1ad9de714d9]
+##### 44. Electronic records[^c-e1d65236a9e2be878b107ced68a1ad26][^c-caa273d9ffe4487b1248b1ad9de714d9]
 
 (1) This section applies to any provision of this Chapter or Chapter 3 (penalties) that—
 
@@ -1108,7 +1108,7 @@ to provide the authorised officer with such reasonable assistance as may be requ
 
 ### Chapter 2 — Assessments where no return or incorrect return
 
-#### 45. Power to allow a local authority to make or substitute an assessment[^key-cc41fd95f9f7e8db5ddbea388923b5fe][^key-5ec23cd3961e8c4b6a3ac383e50c5c4a]
+#### 45. Power to allow a local authority to make or substitute an assessment[^c-cc41fd95f9f7e8db5ddbea388923b5fe][^c-5ec23cd3961e8c4b6a3ac383e50c5c4a]
 
 (1) The Scottish Ministers may by regulations make provision for and in connection with a relevant local authority making an assessment of a levy payable by a person where the relevant local authority—
 
@@ -1126,7 +1126,7 @@ to provide the authorised officer with such reasonable assistance as may be requ
 - (e) delegation of the authority’s powers under the regulations,
 - (f) the effect of an authority’s assessment for the purposes of the imposition of penalties under Chapter 3.
 
-(3) Regulations under subsection (1) must make provision for and in[^key-f06fe61926bd08d9f4866f56c7fd7c1d] connection with—
+(3) Regulations under subsection (1) must make provision for and in[^c-f06fe61926bd08d9f4866f56c7fd7c1d] connection with—
 
 - (a) reviews of an assessment made by a local authority and, for the avoidance of doubt, such provision may include in particular the matters mentioned in section 71(2), and
 - (b) appeals to the First-tier Tribunal for Scotland against an assessment after a review has been conducted and, for the avoidance of doubt, such provision may include in particular the matters mentioned in section 72(2).
@@ -1137,21 +1137,21 @@ to provide the authorised officer with such reasonable assistance as may be requ
 
 #### Power to impose penalties
 
-##### 46. Power of local authorities to impose penalties[^key-a5eaacfc33f2e43e38cbf0e5fbb16d2b][^key-5b5a9242516658ac644fb28f94b3b593]
+##### 46. Power of local authorities to impose penalties[^c-a5eaacfc33f2e43e38cbf0e5fbb16d2b][^c-5b5a9242516658ac644fb28f94b3b593]
 
 A relevant local authority may impose penalties on a person in accordance with this Chapter.
 
 #### Penalty for failure to make returns
 
-##### 47. Penalty for failure to make returns[^key-9bf77a306a01d7c61b2d3ed6320471ac][^key-e6f7d7335acfadae3030fd0989088838]
+##### 47. Penalty for failure to make returns[^c-9bf77a306a01d7c61b2d3ed6320471ac][^c-e6f7d7335acfadae3030fd0989088838]
 
-(1) A penalty is payable by a liable person (“**P**”) where P fails to make a return in accordance with section 26 (as read with section 25(1))[^key-9fa36f41fda63c1feed6f2876f56498d].
+(1) A penalty is payable by a liable person (“**P**”) where P fails to make a return in accordance with section 26 (as read with section 25(1))[^c-9fa36f41fda63c1feed6f2876f56498d].
 
 (2) P is liable to a penalty under this section as determined by a relevant local authority.
 
 (3) In sections 48, 49 and 50 “**penalty date**”, in relation to a return, means the day after the day on which a return must be made under section 26.
 
-##### 48. Three month penalty for failure to make return[^key-2cf45212d7bb14fb90eb1fb3b33aeab9][^key-fca36ee3ab3961a83f006c97b0ddfbd8]
+##### 48. Three month penalty for failure to make return[^c-2cf45212d7bb14fb90eb1fb3b33aeab9][^c-fca36ee3ab3961a83f006c97b0ddfbd8]
 
 (1) P is liable to a penalty under this section if—
 
@@ -1166,13 +1166,13 @@ A relevant local authority may impose penalties on a person in accordance with t
 - (a) may be earlier than the date on which the notice is given, but
 - (b) may not be earlier than the end of the period mentioned in subsection (1)(a).
 
-##### 49. Six month penalty for failure to make return[^key-80aceae4142753420340c9d9582e0bbd][^key-0731c1c081b85dd2970c8c6b5b0af6d2]
+##### 49. Six month penalty for failure to make return[^c-80aceae4142753420340c9d9582e0bbd][^c-0731c1c081b85dd2970c8c6b5b0af6d2]
 
 (1) P is liable to a penalty under this section if P's failure continues after the end of the period of 6 months beginning with the penalty date.
 
 (2) The penalty under this section is to be determined by a relevant local authority.
 
-##### 50. Twelve month penalty for failure to make return[^key-381c22e859e82b352636b55804cb5187][^key-cb51ba12c67321a9900e397d6d38d079]
+##### 50. Twelve month penalty for failure to make return[^c-381c22e859e82b352636b55804cb5187][^c-cb51ba12c67321a9900e397d6d38d079]
 
 (1) P is liable to a penalty under this section if P's failure continues after the end of the period of 12 months beginning with the penalty date.
 
@@ -1180,7 +1180,7 @@ A relevant local authority may impose penalties on a person in accordance with t
 
 (3) In any case not falling within subsection (2), the penalty under this section is to be determined by a relevant local authority.
 
-##### 51. Reasonable excuse for failure to make return[^key-b27352b9cd209fe5a926bd1b536d0d55][^key-7c50bb28dcabd3a652f45ac06dff9513]
+##### 51. Reasonable excuse for failure to make return[^c-b27352b9cd209fe5a926bd1b536d0d55][^c-7c50bb28dcabd3a652f45ac06dff9513]
 
 (1) If P satisfies the relevant local authority that there is a reasonable excuse for a failure to comply with section 26, liability to a penalty under sections 47 to 50 does not arise in relation to that failure.
 
@@ -1192,11 +1192,11 @@ A relevant local authority may impose penalties on a person in accordance with t
 
 #### Penalty for failure to pay levy
 
-##### 52. Penalty for failure to pay levy[^key-568b01df696cdb8c43a62f48835585ea][^key-3fa73f70f7350863db4da9c99c7c80d5]
+##### 52. Penalty for failure to pay levy[^c-568b01df696cdb8c43a62f48835585ea][^c-3fa73f70f7350863db4da9c99c7c80d5]
 
 (1) A penalty is payable by a liable person (“**P**”) where—
 
-- (a)[^key-6ce92e0163f3fe5c431a309d0b6e60f6] P fails to pay the amount of the levy payable in accordance with—
+- (a)[^c-6ce92e0163f3fe5c431a309d0b6e60f6] P fails to pay the amount of the levy payable in accordance with—
   - (i) section 29(2)(a),
   - (ii) section 29(2)(b), or (as the case may be)
   - (iii) section 29A(2),
@@ -1211,9 +1211,9 @@ A relevant local authority may impose penalties on a person in accordance with t
 
 (5) In this section, “**penalty date**”, in relation to an amount of the levy, means the day after the day on which the period mentioned in subsection (1)(c) expired.
 
-##### 53. Reasonable excuse for failure to pay levy[^key-66e15c627129239767e3ce1ea4aa6055][^key-c12c26166ad76cba5901f6e00d49ce27]
+##### 53. Reasonable excuse for failure to pay levy[^c-66e15c627129239767e3ce1ea4aa6055][^c-c12c26166ad76cba5901f6e00d49ce27]
 
-(1) If P satisfies the relevant local authority that there is a reasonable excuse for a failure to comply with section 29 or 29A(2)[^key-3a6719ce40f2f9b5142a3d44ab760419], liability to a penalty under section 52 does not arise in relation to that failure.
+(1) If P satisfies the relevant local authority that there is a reasonable excuse for a failure to comply with section 29 or 29A(2)[^c-3a6719ce40f2f9b5142a3d44ab760419], liability to a penalty under section 52 does not arise in relation to that failure.
 
 (2) For the purposes of subsection (1)—
 
@@ -1223,13 +1223,13 @@ A relevant local authority may impose penalties on a person in accordance with t
 
 #### Penalty for failure to keep and preserve records
 
-##### 54. Penalty for failure to keep and preserve records[^key-75b425cd005928dd8de409f629892a79][^key-3aa0b34a0b0c796d7ce6661cd655647f]
+##### 54. Penalty for failure to keep and preserve records[^c-75b425cd005928dd8de409f629892a79][^c-3aa0b34a0b0c796d7ce6661cd655647f]
 
 (1) A person (“**P**”) who fails to comply with section 28 in relation to a return is liable to a penalty as determined by a relevant local authority, subject to the following exception.
 
 (2) No penalty is incurred if the relevant local authority is satisfied that any facts that it reasonably requires to be proved, and that would have been proved by the records, are proved by other documentary evidence provided to the authority.
 
-##### 55. Reasonable excuse for failure to keep and preserve records[^key-d092da5721525a6378946d65ab26d2ae][^key-12d4b3660a2e05e68c14a008182f5e1a]
+##### 55. Reasonable excuse for failure to keep and preserve records[^c-d092da5721525a6378946d65ab26d2ae][^c-12d4b3660a2e05e68c14a008182f5e1a]
 
 (1) If P satisfies the relevant local authority that there is a reasonable excuse for a failure to comply with section 28, liability to a penalty under section 54 does not arise in relation to that failure.
 
@@ -1241,7 +1241,7 @@ A relevant local authority may impose penalties on a person in accordance with t
 
 #### Penalties for failure to comply or obstruction
 
-##### 56. Penalties for failure to comply or obstruction[^key-23173fd3059d84ea13b54c8c787421bb][^key-5587461acfc9e84e502ec35913f00316]
+##### 56. Penalties for failure to comply or obstruction[^c-23173fd3059d84ea13b54c8c787421bb][^c-5587461acfc9e84e502ec35913f00316]
 
 (1) This section applies to a person who—
 
@@ -1252,13 +1252,13 @@ A relevant local authority may impose penalties on a person in accordance with t
 
 (3) The reference to a person who fails to comply with an information notice includes a person who conceals, destroys or otherwise disposes of (or arranges for the concealment, destruction or disposal of) a document in breach of section 60 or section 61.
 
-##### 57. Daily default penalties for failure to comply or obstruction[^key-779ffcf66622ce381a9100e5aa5e17d7][^key-e858bf42817646578d2839565d0f4b4d]
+##### 57. Daily default penalties for failure to comply or obstruction[^c-779ffcf66622ce381a9100e5aa5e17d7][^c-e858bf42817646578d2839565d0f4b4d]
 
 (1) This section applies if the failure or obstruction mentioned in section 56(1) continues after the date on which a penalty is imposed under that section in respect of the failure or obstruction.
 
 (2) The person is liable to a further penalty or penalties as determined by a relevant local authority for each subsequent day on which the failure or obstruction continues.
 
-##### 58. Reasonable excuse for failure to comply or obstruction[^key-f210349d637e660418a809699b4610e7][^key-66a0268a70f46e3e476fe8d3f3654bcf]
+##### 58. Reasonable excuse for failure to comply or obstruction[^c-f210349d637e660418a809699b4610e7][^c-66a0268a70f46e3e476fe8d3f3654bcf]
 
 (1) Liability to a penalty under section 56 or 57 does not arise if the person satisfies the relevant local authority that there is a reasonable excuse for the failure or the obstruction of an authorised officer or of a person authorised by the officer.
 
@@ -1270,7 +1270,7 @@ A relevant local authority may impose penalties on a person in accordance with t
 
 #### Penalties for inaccurate information or documents
 
-##### 59. Penalties for inaccurate information or documents[^key-a61fee21406e54409c53bb4c75d4260e][^key-8a186ca8c29c28641208a5d771f75a26]
+##### 59. Penalties for inaccurate information or documents[^c-a61fee21406e54409c53bb4c75d4260e][^c-8a186ca8c29c28641208a5d771f75a26]
 
 (1) This section applies if—
 
@@ -1294,7 +1294,7 @@ A relevant local authority may impose penalties on a person in accordance with t
 
 #### Concealing, destroying etc. documents
 
-##### 60. Concealing, destroying etc. documents following information notice[^key-5444e13c29abc6e87b965fa9cf46da9d][^key-cf71fc599b3dd1b5dfc92af4c76e2613]
+##### 60. Concealing, destroying etc. documents following information notice[^c-5444e13c29abc6e87b965fa9cf46da9d][^c-cf71fc599b3dd1b5dfc92af4c76e2613]
 
 (1) A person must not conceal, destroy or otherwise dispose of (or arrange for the concealment, destruction or disposal of) a document that is the subject of an information notice addressed to the person, unless subsection (2) or (3) applies.
 
@@ -1302,7 +1302,7 @@ A relevant local authority may impose penalties on a person in accordance with t
 
 (3) Subsection (1) does not apply, in a case to which section 33 applies, if the person acts after the expiry of the period of 6 months beginning with the day on which a copy of the document was produced in accordance with that section unless, before the expiry of that period, an authorised officer made a request for the original document under section 33(2)(b).
 
-##### 61. Concealing, destroying etc. documents following information notification[^key-70b9fb05b8f96d97f9ad24c7ffbd2474][^key-cfafc37bba13ff5045b6b1a2085f6f1f]
+##### 61. Concealing, destroying etc. documents following information notification[^c-70b9fb05b8f96d97f9ad24c7ffbd2474][^c-cfafc37bba13ff5045b6b1a2085f6f1f]
 
 (1) A person must not conceal, destroy or otherwise dispose of (or arrange for the concealment, destruction or disposal of) a document if an authorised officer has notified the person that the document is to be, or is likely to be, the subject of an information notice addressed to that person, unless subsection (2) applies.
 
@@ -1313,7 +1313,7 @@ A relevant local authority may impose penalties on a person in accordance with t
 
 #### Assessment and enforcement of penalties
 
-##### 62. Assessment of penalties[^key-988ed2b7d10e14a9c27d343568c906b2][^key-29b24127c20bc805162073481254e8f8]
+##### 62. Assessment of penalties[^c-988ed2b7d10e14a9c27d343568c906b2][^c-29b24127c20bc805162073481254e8f8]
 
 (1) Subsection (2) applies where—
 
@@ -1338,15 +1338,15 @@ A relevant local authority may impose penalties on a person in accordance with t
 - (a) within the period of 12 months beginning with the date on which the inaccuracy first came to the attention of an authorised officer, and
 - (b) within the period of 6 years beginning with the date on which the person became liable to the penalty.
 
-##### 63. Enforcement of penalties[^key-5acd06da268ffbb509529d43c169d466][^key-ae934752d0fa0ca1390e61c008887422]
+##### 63. Enforcement of penalties[^c-5acd06da268ffbb509529d43c169d466][^c-ae934752d0fa0ca1390e61c008887422]
 
 A penalty under this Chapter must be paid before the end of the period of 30 days beginning with the date on which the notification under section 62 was issued.
 
-##### 64. Failure to comply with time limit[^key-237f01a285e3cde161cf1f11ebce3db5][^key-33124bde63c234f65ce1f64de547b1fe]
+##### 64. Failure to comply with time limit[^c-237f01a285e3cde161cf1f11ebce3db5][^c-33124bde63c234f65ce1f64de547b1fe]
 
 A failure by a person to do anything required to be done within a limited period of time, does not give rise to liability to a penalty under section 56 or 57 if the person did it within such further time (if any) as an authorised officer may have allowed.
 
-##### 65. Power of local authorities to reduce, suspend or waive penalties[^key-b88944f1bca7f0db4bde661bf774212c][^key-a0ac6c37294db3a15c014b05fd75c022]
+##### 65. Power of local authorities to reduce, suspend or waive penalties[^c-b88944f1bca7f0db4bde661bf774212c][^c-a0ac6c37294db3a15c014b05fd75c022]
 
 (1) A relevant local authority may reduce a penalty under this Chapter if it considers it appropriate to do so because of special circumstances.
 
@@ -1362,23 +1362,23 @@ A failure by a person to do anything required to be done within a limited period
 
 #### Interest
 
-##### 66. Interest on unpaid levy[^key-b7e62d305dc11c659f90f341af65a208][^key-3d954535740f674f5e5c21335ca45bcd]
+##### 66. Interest on unpaid levy[^c-b7e62d305dc11c659f90f341af65a208][^c-3d954535740f674f5e5c21335ca45bcd]
 
 (1) Interest is payable on the amount of any unpaid levy from the day after the date on which the levy must be paid in accordance with section 29(2).
 
-(1A)[^key-d5dec075e9e6f3ee02c8274db5399ffa] If section 29A applies in relation to a return made under section 26 by a liable person, the total amount of the levy payable in respect of the relevant period to which the return relates is to be treated for the purposes of subsection (1) as if it had been payable in accordance with section 29(2)(b).
+(1A)[^c-d5dec075e9e6f3ee02c8274db5399ffa] If section 29A applies in relation to a return made under section 26 by a liable person, the total amount of the levy payable in respect of the relevant period to which the return relates is to be treated for the purposes of subsection (1) as if it had been payable in accordance with section 29(2)(b).
 
 (2) If an amount is paid to the relevant local authority in respect of the unpaid levy, the amount on which interest is payable is reduced by that amount.
 
 (3) Interest under this section is calculated at the rate specified in provision made under section 68.
 
-##### 67. Interest on penalties[^key-2d049aabd7952c44278ac34216a42ef2][^key-ac0bde186d02c06727fcfd5108a67761]
+##### 67. Interest on penalties[^c-2d049aabd7952c44278ac34216a42ef2][^c-ac0bde186d02c06727fcfd5108a67761]
 
 (1) Interest is payable on the amount of any unpaid penalty from the date on which the penalty is due to be paid until it is paid.
 
 (2) Interest under this section is calculated at the rate specified in provision made under section 68.
 
-##### 68. Rate of interest[^key-ea0674e933effd8436bce62fe12f3259][^key-d6bec36f4f600befa19997ae9a843270]
+##### 68. Rate of interest[^c-ea0674e933effd8436bce62fe12f3259][^c-d6bec36f4f600befa19997ae9a843270]
 
 (1) The rate of interest that applies for the purposes of sections 66 and 67 is the rate specified by the Scottish Ministers in regulations.
 
@@ -1392,7 +1392,7 @@ A failure by a person to do anything required to be done within a limited period
 
 #### Power to change penalty provisions
 
-##### 69. Power to change penalty provisions[^key-504ae85e5f0411cc67ff157094501cf5][^key-065d275f13e4fb0843c6777c02eeb7a3]
+##### 69. Power to change penalty provisions[^c-504ae85e5f0411cc67ff157094501cf5][^c-065d275f13e4fb0843c6777c02eeb7a3]
 
 (1) The Scottish Ministers may by regulations make further provision about penalties under this Part.
 
@@ -1413,11 +1413,11 @@ A failure by a person to do anything required to be done within a limited period
 
 ### Chapter 4 — Recovery of unpaid amounts
 
-#### 70. Summary warrant[^key-90353ed6fd9f2022972e3c5e25140c55][^key-da3b0814baf56c4d27db092062335763]
+#### 70. Summary warrant[^c-90353ed6fd9f2022972e3c5e25140c55][^c-da3b0814baf56c4d27db092062335763]
 
 (1) This section applies where a person fails to pay a local authority—
 
-- (a) an amount of the levy payable in accordance with section 29(2) or 29A(2)[^key-5aa79253e90c16880f98955e901a7620],
+- (a) an amount of the levy payable in accordance with section 29(2) or 29A(2)[^c-5aa79253e90c16880f98955e901a7620],
 - (b) a penalty imposed on the person under Chapter 3 of this Part.
 
 (2) The local authority may apply to the sheriff for a summary warrant.
@@ -1455,7 +1455,7 @@ in connection with the execution of a summary warrant granted under subsection (
 
 ### Chapter 5 — Reviews and appeals
 
-#### 71. Reviews[^key-4d307b49db6b53595699cb4f5ade66b4][^key-aa797cac2a71d2606b1ad57b6b403f3b]
+#### 71. Reviews[^c-4d307b49db6b53595699cb4f5ade66b4][^c-aa797cac2a71d2606b1ad57b6b403f3b]
 
 (1) The Scottish Ministers must by regulations make provision for and in connection with reviews by a relevant local authority of—
 
@@ -1476,7 +1476,7 @@ in connection with the execution of a summary warrant granted under subsection (
 
 (3) Regulations under subsection (1) are subject to the affirmative procedure.
 
-#### 72. Appeals[^key-0c24628c6f794e997e986c850d65299f][^key-723563aa7783d770cb768fc91a580662]
+#### 72. Appeals[^c-0c24628c6f794e997e986c850d65299f][^c-723563aa7783d770cb768fc91a580662]
 
 (1) The Scottish Ministers must by regulations make provision for and in connection with appeals to the First-tier Tribunal for Scotland against—
 
@@ -1499,7 +1499,7 @@ in connection with the execution of a summary warrant granted under subsection (
 
 ## Part 6 — Registers of Liable Persons and Information Sharing
 
-### 73. Registers of liable persons[^key-d1de28c5618629b43ebd0452c33c48bf][^key-5c4830e99f65e7f32fff85a3ca68668b]
+### 73. Registers of liable persons[^c-d1de28c5618629b43ebd0452c33c48bf][^c-5c4830e99f65e7f32fff85a3ca68668b]
 
 (1) A relevant local authority may establish and maintain a register of liable persons.
 
@@ -1509,7 +1509,7 @@ in connection with the execution of a summary warrant granted under subsection (
 - (b) the addresses (or other descriptions) of all places at which overnight accommodation is provided in the area covered by a VL scheme (or schemes), and
 - (c) such other information as the relevant local authority considers necessary to allow it to carry out its functions under this Act.
 
-### 74. Power to share information[^key-594893dc8331a995458c83a718565108][^key-24b625ec69e6fb5864619d65006165a4]
+### 74. Power to share information[^c-594893dc8331a995458c83a718565108][^c-24b625ec69e6fb5864619d65006165a4]
 
 (1) A relevant local authority may, in the circumstances mentioned in subsection (2), disclose relevant information to—
 
@@ -1542,7 +1542,7 @@ in connection with the execution of a summary warrant granted under subsection (
 
 ## Part 7 — Final provisions
 
-### 75. Report on operation of Act[^key-27a2aa49f671c4d3a0301c68a3666b50]
+### 75. Report on operation of Act[^c-27a2aa49f671c4d3a0301c68a3666b50]
 
 (1) The Scottish Ministers must, as soon as reasonably practicable after the end of the reporting period—
 
@@ -1551,7 +1551,7 @@ in connection with the execution of a summary warrant granted under subsection (
 
 (2) The report must, in particular, set out an assessment of—
 
-- (a)[^key-cbad3a16bcb07d059a2f0002bec3ce92] the impact of VL schemes introduced under this Act on—
+- (a)[^c-cbad3a16bcb07d059a2f0002bec3ce92] the impact of VL schemes introduced under this Act on—
   - (i) businesses and communities, and
   - (ii) tourism in rural areas,
 - (b) the processes followed by relevant local authorities when introducing, administering, reporting on and reviewing VL schemes,
@@ -1571,7 +1571,7 @@ in connection with the execution of a summary warrant granted under subsection (
 - (a) the day which is three years after the day on which the first VL scheme comes into effect, or
 - (b) such earlier day which is after the day on which the first VL scheme comes into effect as may be determined by Ministers.
 
-### 75A. Power to make further provision about the operation of Parts 2 and 3[^key-dca57dabd1f4de824a3c222b0baff23b]
+### 75A. Power to make further provision about the operation of Parts 2 and 3[^c-dca57dabd1f4de824a3c222b0baff23b]
 
 (1) The Scottish Ministers may by regulations make further provision about the operation of Parts 2 and 3.
 
@@ -1590,27 +1590,27 @@ in connection with the execution of a summary warrant granted under subsection (
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
 - (b) otherwise, are subject to the negative procedure.
 
-### 76. Interpretation of Act[^key-5266f98147c256b727693e0e33628a0c]
+### 76. Interpretation of Act[^c-5266f98147c256b727693e0e33628a0c]
 
 (1) In this Act—
 
-- “**chargeable transaction**” has the meaning given by section 3(2) (see also section 3(2A) and (2B))[^key-dc86c62c3bd3cb2130e20476b95a814b],
+- “**chargeable transaction**” has the meaning given by section 3(2) (see also section 3(2A) and (2B))[^c-dc86c62c3bd3cb2130e20476b95a814b],
 - “**the levy**” is to be construed in accordance with section 1,
 - “**the liable person**” is to be construed in accordance with section 8,
 - “**overnight accommodation**” has the meaning given by section 4(1),
-- “[^key-796c20bae89e9faecc1487aadccb31df]**permitted deduction**”, in relation to a VL scheme, is to be construed in accordance with section 12A(2),
+- “[^c-796c20bae89e9faecc1487aadccb31df]**permitted deduction**”, in relation to a VL scheme, is to be construed in accordance with section 12A(2),
 - “**relevant local authority**” has the meaning given by section 24(2),
-- “[^key-48e87f3d8c88eb6909cf116a5b68c9b6]**subsequent transaction**” is to be construed in accordance with section 3(2A)(b),
+- “[^c-48e87f3d8c88eb6909cf116a5b68c9b6]**subsequent transaction**” is to be construed in accordance with section 3(2A)(b),
 - “**visitor**” is to be construed in accordance with section 3(1)(b),
 - “**VL scheme**” is to be construed in accordance with section 12(1)(a).
 
 (2) References in this Act to the making of returns are to be construed in accordance with section 25(1).
 
-### 77. Regulation-making powers[^key-3477d9e95d03411740c3aad24afdf074]
+### 77. Regulation-making powers[^c-3477d9e95d03411740c3aad24afdf074]
 
 Any power of the Scottish Ministers to make regulations under this Act includes power to make different provision for different purposes.
 
-### 78. Ancillary provision[^key-012e94e8a0265be9f76839381ff82e98]
+### 78. Ancillary provision[^c-012e94e8a0265be9f76839381ff82e98]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision that they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or anything done under it.
 
@@ -1621,7 +1621,7 @@ Any power of the Scottish Ministers to make regulations under this Act includes 
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
 - (b) otherwise, are subject to the negative procedure.
 
-### 79. Commencement[^key-0be2f87b133ca7ef0283770743012af4]
+### 79. Commencement[^c-0be2f87b133ca7ef0283770743012af4]
 
 (1) This Part comes into force on the day after Royal Assent.
 
@@ -1629,440 +1629,440 @@ Any power of the Scottish Ministers to make regulations under this Act includes 
 
 (3) Regulations under subsection (2) may include transitional, transitory or saving provision.
 
-### 80. Short title[^key-d7d81852bf0c0aeb12e2397d3d633d37]
+### 80. Short title[^c-d7d81852bf0c0aeb12e2397d3d633d37]
 
 The short title of this Act is the Visitor Levy (Scotland) Act 2024.
 
 ## Annotations
 
-[^key-6f3574e0845b73340b12460928368b30]: Commencement: S. 1 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-6f3574e0845b73340b12460928368b30]: Commencement: S. 1 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-9fca9656582b3983f8b537af3501ddb8]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2024/8/section/1) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-9fca9656582b3983f8b537af3501ddb8]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2024/8/section/1) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-e699751acb971876c6ec7a8bdbd85244]: Commencement: S. 2 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-e699751acb971876c6ec7a8bdbd85244]: Commencement: S. 2 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-06e4d012149f82aa16b086c11826e947]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2024/8/section/2) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-06e4d012149f82aa16b086c11826e947]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2024/8/section/2) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-bab4929e8002c15b16a2674549b92e73]: Commencement: S. 3 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-bab4929e8002c15b16a2674549b92e73]: Commencement: S. 3 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-f2e43ef8d2e0f12fb122fbc3444957ee]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2024/8/section/3) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-f2e43ef8d2e0f12fb122fbc3444957ee]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2024/8/section/3) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-1ee1cc1e2665f74cee15422a90139cd7]: Textual amendment: [S. 3(2A)](https://www.legislation.gov.uk/asp/2024/8/section/3/2A)[(2B)](https://www.legislation.gov.uk/asp/2024/8/section/3/2B) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 4(2)](https://www.legislation.gov.uk/asp/2026/18/section/4/2), [16(2)(b)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/b) (with [s. 9](https://www.legislation.gov.uk/asp/2026/18/section/9))
+[^c-1ee1cc1e2665f74cee15422a90139cd7]: Textual amendment: [S. 3(2A)](https://www.legislation.gov.uk/asp/2024/8/section/3/2A)[(2B)](https://www.legislation.gov.uk/asp/2024/8/section/3/2B) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 4(2)](https://www.legislation.gov.uk/asp/2026/18/section/4/2), [16(2)(b)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/b) (with [s. 9](https://www.legislation.gov.uk/asp/2026/18/section/9))
 
-[^key-4d8d5ec5551217db72c777136e140edf]: Textual amendment: [S. 3(4)](https://www.legislation.gov.uk/asp/2024/8/section/3/4) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 4(3)](https://www.legislation.gov.uk/asp/2026/18/section/4/3), [16(2)(b)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/b) (with [s. 9](https://www.legislation.gov.uk/asp/2026/18/section/9))
+[^c-4d8d5ec5551217db72c777136e140edf]: Textual amendment: [S. 3(4)](https://www.legislation.gov.uk/asp/2024/8/section/3/4) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 4(3)](https://www.legislation.gov.uk/asp/2026/18/section/4/3), [16(2)(b)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/b) (with [s. 9](https://www.legislation.gov.uk/asp/2026/18/section/9))
 
-[^key-e7cda9f16f6ce4d5668de856a6f30050]: Commencement: S. 4 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-e7cda9f16f6ce4d5668de856a6f30050]: Commencement: S. 4 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-8e58e2a327b8682533ce32ba89d3c1b6]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2024/8/section/4) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-8e58e2a327b8682533ce32ba89d3c1b6]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2024/8/section/4) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-88e201bb9c276381a7d033dcc8496c86]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/asp/2024/8/section/4A) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 1(2)](https://www.legislation.gov.uk/asp/2026/18/section/1/2), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-88e201bb9c276381a7d033dcc8496c86]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/asp/2024/8/section/4A) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 1(2)](https://www.legislation.gov.uk/asp/2026/18/section/1/2), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-a12b0eafc2cd90657df3742b5ec5213f]: Commencement: S. 5 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-a12b0eafc2cd90657df3742b5ec5213f]: Commencement: S. 5 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-9b3c385d1985fc03208b0c7ec17909db]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2024/8/section/5) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-9b3c385d1985fc03208b0c7ec17909db]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2024/8/section/5) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-09c9d44d4ed6e1c494afe13265870103]: Textual amendment: [S. 5](https://www.legislation.gov.uk/asp/2024/8/section/5) heading substituted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 2(2)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/2/2); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-09c9d44d4ed6e1c494afe13265870103]: Textual amendment: [S. 5](https://www.legislation.gov.uk/asp/2024/8/section/5) heading substituted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 2(2)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/2/2); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-6b8e257e7671a3a85af77a281fdde3b2]: Textual amendment: [S. 5(A1)](https://www.legislation.gov.uk/asp/2024/8/section/5/A1) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 2(1)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/2/1); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-6b8e257e7671a3a85af77a281fdde3b2]: Textual amendment: [S. 5(A1)](https://www.legislation.gov.uk/asp/2024/8/section/5/A1) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 2(1)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/2/1); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-21a0bf8c961a0ed159c595b99d3cd2e1]: Commencement: S. 6 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-21a0bf8c961a0ed159c595b99d3cd2e1]: Commencement: S. 6 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-0084b23d5fc754ab57431c919e86156f]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2024/8/section/6) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-0084b23d5fc754ab57431c919e86156f]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2024/8/section/6) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-34295db76505c56858125b80fd91b3ba]: Textual amendment: [S. 6](https://www.legislation.gov.uk/asp/2024/8/section/6) heading substituted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 3(2)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/3/2); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-34295db76505c56858125b80fd91b3ba]: Textual amendment: [S. 6](https://www.legislation.gov.uk/asp/2024/8/section/6) heading substituted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 3(2)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/3/2); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-86d86370ce1aa000c3a94f347c5eb6d2]: Textual amendment: [S. 6(A1)](https://www.legislation.gov.uk/asp/2024/8/section/6/A1) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 3(1)(a)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/3/1/a); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-86d86370ce1aa000c3a94f347c5eb6d2]: Textual amendment: [S. 6(A1)](https://www.legislation.gov.uk/asp/2024/8/section/6/A1) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 3(1)(a)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/3/1/a); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-dba7c70cde7b577abdff6059ebee9ca4]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/asp/2024/8/section/6/1) substituted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 3(1)(b)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/3/1/b); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-dba7c70cde7b577abdff6059ebee9ca4]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/asp/2024/8/section/6/1) substituted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 3(1)(b)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/3/1/b); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-0c49a66d338414ec15660684dd8ce87e]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/asp/2024/8/section/6A) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 1(3)](https://www.legislation.gov.uk/asp/2026/18/section/1/3), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-0c49a66d338414ec15660684dd8ce87e]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/asp/2024/8/section/6A) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 1(3)](https://www.legislation.gov.uk/asp/2026/18/section/1/3), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-823ad9778d6c304384b4b0fd6af4c8bc]: Commencement: S. 7 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-823ad9778d6c304384b4b0fd6af4c8bc]: Commencement: S. 7 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-08e23e23af732d78d06c8fee15177cee]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2024/8/section/7) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-08e23e23af732d78d06c8fee15177cee]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2024/8/section/7) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-e633e1a4033a67627f4fb23eb3d99967]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/asp/2024/8/section/7/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 18](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/18)
+[^c-e633e1a4033a67627f4fb23eb3d99967]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/asp/2024/8/section/7/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 18](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/18)
 
-[^key-70b8b871f113d86906b4a10649ba1668]: Commencement: S. 8 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-70b8b871f113d86906b4a10649ba1668]: Commencement: S. 8 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-94d8daff25f23cc8288577c44812d9b9]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/8/section/8) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-94d8daff25f23cc8288577c44812d9b9]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/8/section/8) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-c85ce251a818de28f037b4719bb29b2f]: Commencement: S. 9 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-c85ce251a818de28f037b4719bb29b2f]: Commencement: S. 9 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-3c60cdc00f5c8fa9573e8b625f5a599e]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2024/8/section/9) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-3c60cdc00f5c8fa9573e8b625f5a599e]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2024/8/section/9) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-51bc2d548bec6e34c9e5fc40715c99c6]: Commencement: S. 10 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-51bc2d548bec6e34c9e5fc40715c99c6]: Commencement: S. 10 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-275015ece77a47d2ce1a5b5b43aa99f6]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2024/8/section/10) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-275015ece77a47d2ce1a5b5b43aa99f6]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2024/8/section/10) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-96bc4fd18adc93d5a709265116069aed]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/asp/2024/8/section/10/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(a)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/a)
+[^c-96bc4fd18adc93d5a709265116069aed]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/asp/2024/8/section/10/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(a)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/a)
 
-[^key-bf8750ed540416acb3e0df7801cd11e2]: Textual amendment: Words in [s. 10(2)](https://www.legislation.gov.uk/asp/2024/8/section/10/2) substituted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 4(a)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/4/a); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-bf8750ed540416acb3e0df7801cd11e2]: Textual amendment: Words in [s. 10(2)](https://www.legislation.gov.uk/asp/2024/8/section/10/2) substituted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 4(a)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/4/a); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-5bd103a2cc9e3ef09ae14ebfc45a668c]: Textual amendment: Words in [s. 10(2)(a)](https://www.legislation.gov.uk/asp/2024/8/section/10/2/a) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(b)(i)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/b/i)
+[^c-5bd103a2cc9e3ef09ae14ebfc45a668c]: Textual amendment: Words in [s. 10(2)(a)](https://www.legislation.gov.uk/asp/2024/8/section/10/2/a) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(b)(i)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/b/i)
 
-[^key-7201361ce6c20afab8eeafb37b952fab]: Textual amendment: Words in [s. 10(2)(a)](https://www.legislation.gov.uk/asp/2024/8/section/10/2/a) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(b)(ii)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/b/ii)
+[^c-7201361ce6c20afab8eeafb37b952fab]: Textual amendment: Words in [s. 10(2)(a)](https://www.legislation.gov.uk/asp/2024/8/section/10/2/a) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(b)(ii)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/b/ii)
 
-[^key-05c86f835c42a5459c356b41b9453868]: Textual amendment: Word in [s. 10(2)(a)(ii)](https://www.legislation.gov.uk/asp/2024/8/section/10/2/a/ii) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(b)(iii)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/b/iii)
+[^c-05c86f835c42a5459c356b41b9453868]: Textual amendment: Word in [s. 10(2)(a)(ii)](https://www.legislation.gov.uk/asp/2024/8/section/10/2/a/ii) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(b)(iii)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/b/iii)
 
-[^key-1dbe58edd8fbe968af9ab3b2592f0595]: Textual amendment: Words in [s. 10(2)(a)(iii)](https://www.legislation.gov.uk/asp/2024/8/section/10/2/a/iii) repealed (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(b)(iv)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/b/iv)
+[^c-1dbe58edd8fbe968af9ab3b2592f0595]: Textual amendment: Words in [s. 10(2)(a)(iii)](https://www.legislation.gov.uk/asp/2024/8/section/10/2/a/iii) repealed (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(b)(iv)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/b/iv)
 
-[^key-a1a14e3f77b685bc34b00c135b9480e1]: Textual amendment: Word in [s. 10(2)(a)(iv)](https://www.legislation.gov.uk/asp/2024/8/section/10/2/a/iv) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(b)(v)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/b/v)
+[^c-a1a14e3f77b685bc34b00c135b9480e1]: Textual amendment: Word in [s. 10(2)(a)(iv)](https://www.legislation.gov.uk/asp/2024/8/section/10/2/a/iv) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(b)(v)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/b/v)
 
-[^key-087177faf4eb2a331ea6ec26a1aee0ed]: Textual amendment: Words in [s. 10(2)(b)](https://www.legislation.gov.uk/asp/2024/8/section/10/2/b) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(c)(i)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/c/i)
+[^c-087177faf4eb2a331ea6ec26a1aee0ed]: Textual amendment: Words in [s. 10(2)(b)](https://www.legislation.gov.uk/asp/2024/8/section/10/2/b) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(c)(i)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/c/i)
 
-[^key-c540a5dea0252d65cde13e61554bf1f3]: Textual amendment: Words in [s. 10(2)(b)(i)](https://www.legislation.gov.uk/asp/2024/8/section/10/2/b/i) repealed (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(c)(ii)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/c/ii)
+[^c-c540a5dea0252d65cde13e61554bf1f3]: Textual amendment: Words in [s. 10(2)(b)(i)](https://www.legislation.gov.uk/asp/2024/8/section/10/2/b/i) repealed (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 19(c)(ii)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/19/c/ii)
 
-[^key-e7e33ac5fb4054bc6b7513bcb704d624]: Textual amendment: [S. 10(2A)](https://www.legislation.gov.uk/asp/2024/8/section/10/2A) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 4(b)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/4/b); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-e7e33ac5fb4054bc6b7513bcb704d624]: Textual amendment: [S. 10(2A)](https://www.legislation.gov.uk/asp/2024/8/section/10/2A) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 4(b)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/4/b); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-931d407275663d98db31ce4ec18c9ba9]: Commencement: S. 11 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-931d407275663d98db31ce4ec18c9ba9]: Commencement: S. 11 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-07d3543f311019b9656ede27969e97e2]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2024/8/section/11) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-07d3543f311019b9656ede27969e97e2]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2024/8/section/11) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-c1c0a96c81e7a82ba1ac19c21ea95044]: Textual amendment: Words in [s. 11(1)(b)](https://www.legislation.gov.uk/asp/2024/8/section/11/1/b) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 20](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/20)
+[^c-c1c0a96c81e7a82ba1ac19c21ea95044]: Textual amendment: Words in [s. 11(1)(b)](https://www.legislation.gov.uk/asp/2024/8/section/11/1/b) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 20](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/20)
 
-[^key-713bb0f327bfdbefb0081c629ea75bb0]: Commencement: S. 12 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-713bb0f327bfdbefb0081c629ea75bb0]: Commencement: S. 12 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-5c8962406e45134a1faeed68441862a6]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/8/section/12) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-5c8962406e45134a1faeed68441862a6]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/8/section/12) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-809f75b4868df01ac51f952102edcdd8]: Textual amendment: [S. 12(2A)](https://www.legislation.gov.uk/asp/2024/8/section/12/2A) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 5](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/5); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-809f75b4868df01ac51f952102edcdd8]: Textual amendment: [S. 12(2A)](https://www.legislation.gov.uk/asp/2024/8/section/12/2A) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 5](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/5); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-89d200bb296be4d4589112c4ee98ed51]: Textual amendment: Ss. 12A, 12B inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 2(2)](https://www.legislation.gov.uk/asp/2026/18/section/2/2), [16(2)(a)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/a)
+[^c-89d200bb296be4d4589112c4ee98ed51]: Textual amendment: Ss. 12A, 12B inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 2(2)](https://www.legislation.gov.uk/asp/2026/18/section/2/2), [16(2)(a)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/a)
 
-[^key-356355c38687fd2ed27096e7d80e2f99]: Commencement: S. 13 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-356355c38687fd2ed27096e7d80e2f99]: Commencement: S. 13 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-6b268fc7294074b64149807e872ac2ae]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/8/section/13) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-6b268fc7294074b64149807e872ac2ae]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/8/section/13) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-9d7c32780b524f5629cc04b9a16ef637]: Commencement: S. 14 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-9d7c32780b524f5629cc04b9a16ef637]: Commencement: S. 14 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-bbaa5ce605ee73e24335a82f3c65c697]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2024/8/section/14) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-bbaa5ce605ee73e24335a82f3c65c697]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2024/8/section/14) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-1f4233de124a53d44c59a92874cdcc19]: Textual amendment: [S. 14(1)(d)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/d) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 21(a)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/21/a) (with [ss. 7](https://www.legislation.gov.uk/asp/2026/18/section/7), [8](https://www.legislation.gov.uk/asp/2026/18/section/8))
+[^c-1f4233de124a53d44c59a92874cdcc19]: Textual amendment: [S. 14(1)(d)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/d) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 21(a)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/21/a) (with [ss. 7](https://www.legislation.gov.uk/asp/2026/18/section/7), [8](https://www.legislation.gov.uk/asp/2026/18/section/8))
 
-[^key-ba7a3525079cf6217ffbfc4452d47813]: Textual amendment: [S. 14(1)(da)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/da) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 6(a)(i)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/6/a/i); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-ba7a3525079cf6217ffbfc4452d47813]: Textual amendment: [S. 14(1)(da)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/da) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 6(a)(i)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/6/a/i); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-3141f9c9ecd2b10065484c932b47fabb]: Textual amendment: [S. 14(1)(e)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/e) substituted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 6(a)(ii)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/6/a/ii); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-3141f9c9ecd2b10065484c932b47fabb]: Textual amendment: [S. 14(1)(e)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/e) substituted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 6(a)(ii)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/6/a/ii); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-e9acc706f5476d4da2028352aaf73a01]: Textual amendment: [S. 14(1)(fa)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/fa) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 8](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/8) (with [ss. 7](https://www.legislation.gov.uk/asp/2026/18/section/7), [8](https://www.legislation.gov.uk/asp/2026/18/section/8))
+[^c-e9acc706f5476d4da2028352aaf73a01]: Textual amendment: [S. 14(1)(fa)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/fa) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 8](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/8) (with [ss. 7](https://www.legislation.gov.uk/asp/2026/18/section/7), [8](https://www.legislation.gov.uk/asp/2026/18/section/8))
 
-[^key-bbf50969f57dcafc98a7cca3a35a91f6]: Textual amendment: Words in [s. 14(1)(i)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/i) substituted (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/2/a/i) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
+[^c-bbf50969f57dcafc98a7cca3a35a91f6]: Textual amendment: Words in [s. 14(1)(i)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/i) substituted (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/2/a/i) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
 
-[^key-8f070c1fee22eef1da0c8189d7e08657]: Textual amendment: Words in [s. 14(1)(i)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/i) repealed (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/2/a/ii) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
+[^c-8f070c1fee22eef1da0c8189d7e08657]: Textual amendment: Words in [s. 14(1)(i)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/i) repealed (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/2/a/ii) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
 
-[^key-f7cf0c0f9125d87c5c8782a833b25661]: Textual amendment: Words in [s. 14(1)(i)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/i)[(ii)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/ii) repealed (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/2/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
+[^c-f7cf0c0f9125d87c5c8782a833b25661]: Textual amendment: Words in [s. 14(1)(i)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/i)[(ii)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/ii) repealed (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/2/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
 
-[^key-1d5c38188da7786e2183837a9cff8da7]: Textual amendment: [S. 14(1)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/i)[(iv) and word](https://www.legislation.gov.uk/asp/2024/8/section/14/1/iv) repealed (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/2/c) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
+[^c-1d5c38188da7786e2183837a9cff8da7]: Textual amendment: [S. 14(1)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/i)[(iv) and word](https://www.legislation.gov.uk/asp/2024/8/section/14/1/iv) repealed (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/2/c) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
 
-[^key-30aa348dc6ec74582b5e7a8e6f86ed52]: Textual amendment: [S. 14(1)(i)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/i), [(vi)-(xiii)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/vi) inserted (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/2/d) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
+[^c-30aa348dc6ec74582b5e7a8e6f86ed52]: Textual amendment: [S. 14(1)(i)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/i), [(vi)-(xiii)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/vi) inserted (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/2/d) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
 
-[^key-816f50541785cfce142b762a3ce9be21]: Textual amendment: [S. 14(1)(ia)-(ic)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/ia) inserted (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
+[^c-816f50541785cfce142b762a3ce9be21]: Textual amendment: [S. 14(1)(ia)-(ic)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/ia) inserted (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
 
-[^key-34ccf86f238a92ead346d2a2f024ad4e]: Textual amendment: Words in [s. 14(1)(j)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/j) substituted (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/4/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
+[^c-34ccf86f238a92ead346d2a2f024ad4e]: Textual amendment: Words in [s. 14(1)(j)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/j) substituted (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/4/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
 
-[^key-716063c483f682abb0c12bc8aa8e8da9]: Textual amendment: Words in [s. 14(1)(j)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/j) substituted (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/4/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
+[^c-716063c483f682abb0c12bc8aa8e8da9]: Textual amendment: Words in [s. 14(1)(j)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/j) substituted (1.4.2026) by [The Visitor Levy (Scotland) Act 2024 Amendment Regulations 2026 (S.S.I. 2026/116)](https://www.legislation.gov.uk/ssi/2026/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/116/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/ssi/2026/116/regulation/3/4/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/116/regulation/4))
 
-[^key-e735c685f2e8aaabdc1ee3b8cef3e22d]: Textual amendment: Words in [s. 14(1)(k)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/k) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 21(b)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/21/b) (with [ss. 7](https://www.legislation.gov.uk/asp/2026/18/section/7), [8](https://www.legislation.gov.uk/asp/2026/18/section/8))
+[^c-e735c685f2e8aaabdc1ee3b8cef3e22d]: Textual amendment: Words in [s. 14(1)(k)](https://www.legislation.gov.uk/asp/2024/8/section/14/1/k) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 21(b)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/21/b) (with [ss. 7](https://www.legislation.gov.uk/asp/2026/18/section/7), [8](https://www.legislation.gov.uk/asp/2026/18/section/8))
 
-[^key-778cdd687d8f096179db935101558474]: Textual amendment: Words in [s. 14(3)](https://www.legislation.gov.uk/asp/2024/8/section/14/3) repealed (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 3(2)](https://www.legislation.gov.uk/asp/2026/18/section/3/2), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-778cdd687d8f096179db935101558474]: Textual amendment: Words in [s. 14(3)](https://www.legislation.gov.uk/asp/2024/8/section/14/3) repealed (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 3(2)](https://www.legislation.gov.uk/asp/2026/18/section/3/2), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-2373ff7741ed67dc33fc8bdefd035ada]: Textual amendment: [S. 14(3A)](https://www.legislation.gov.uk/asp/2024/8/section/14/3A)[(3B)](https://www.legislation.gov.uk/asp/2024/8/section/14/3B) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 3(3)](https://www.legislation.gov.uk/asp/2026/18/section/3/3), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/198/regulation/3))
+[^c-2373ff7741ed67dc33fc8bdefd035ada]: Textual amendment: [S. 14(3A)](https://www.legislation.gov.uk/asp/2024/8/section/14/3A)[(3B)](https://www.legislation.gov.uk/asp/2024/8/section/14/3B) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 3(3)](https://www.legislation.gov.uk/asp/2026/18/section/3/3), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/198/regulation/3))
 
-[^key-b0d0c152ec7ead325b210352aec16818]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/asp/2024/8/section/14/4) substituted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 3(4)](https://www.legislation.gov.uk/asp/2026/18/section/3/4), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-b0d0c152ec7ead325b210352aec16818]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/asp/2024/8/section/14/4) substituted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 3(4)](https://www.legislation.gov.uk/asp/2026/18/section/3/4), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-4229100817832e917a7d6fe65e4239d0]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/asp/2024/8/section/14/4) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 6(b)(i)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/6/b/i); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-4229100817832e917a7d6fe65e4239d0]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/asp/2024/8/section/14/4) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 6(b)(i)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/6/b/i); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-f576069bbf83e6465b549c1f4907cf13]: Textual amendment: [S. 14(4)(b)-(bb)](https://www.legislation.gov.uk/asp/2024/8/section/14/4/b) substituted for [s. 14(4)(b)](https://www.legislation.gov.uk/asp/2024/8/section/14/4/b) (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 6(b)(ii)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/6/b/ii); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-f576069bbf83e6465b549c1f4907cf13]: Textual amendment: [S. 14(4)(b)-(bb)](https://www.legislation.gov.uk/asp/2024/8/section/14/4/b) substituted for [s. 14(4)(b)](https://www.legislation.gov.uk/asp/2024/8/section/14/4/b) (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3), [sch. para. 6(b)(ii)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/6/b/ii); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-359125ed4760fc5babe9ff885bc683eb]: Commencement: S. 15 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-359125ed4760fc5babe9ff885bc683eb]: Commencement: S. 15 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-e3a241ed11544f3b972d26b7a58147f8]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2024/8/section/15) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-e3a241ed11544f3b972d26b7a58147f8]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2024/8/section/15) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-a4b14d1c850b58d921ce8289db324a8d]: Commencement: S. 16 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-a4b14d1c850b58d921ce8289db324a8d]: Commencement: S. 16 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-0ddebaa19220662a621c1b56744f9b92]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2024/8/section/16) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-0ddebaa19220662a621c1b56744f9b92]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2024/8/section/16) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-3393a4ba656bd57cb95955641123f872]: Commencement: S. 17 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-3393a4ba656bd57cb95955641123f872]: Commencement: S. 17 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-737c0dc2cc67df8bb2f92bd51cbaab5b]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2024/8/section/17) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-737c0dc2cc67df8bb2f92bd51cbaab5b]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2024/8/section/17) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-2858c0a67d25d8c3050dad4767adcaaa]: Commencement: S. 18 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-2858c0a67d25d8c3050dad4767adcaaa]: Commencement: S. 18 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-45fd3fed5dc0b99537b7716c3f0dc587]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2024/8/section/18) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-45fd3fed5dc0b99537b7716c3f0dc587]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2024/8/section/18) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-23bd44c45a07bcde8f7de5c2a2aa1ab8]: Commencement: S. 19 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-23bd44c45a07bcde8f7de5c2a2aa1ab8]: Commencement: S. 19 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-69bcf7a1cbed9487d196491f7826ceab]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2024/8/section/19) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-69bcf7a1cbed9487d196491f7826ceab]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2024/8/section/19) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-1429237836c1362cefa2f15fdb65550a]: Commencement: S. 20 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-1429237836c1362cefa2f15fdb65550a]: Commencement: S. 20 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-490fb6e0b8a9f8571de18578c15049ef]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2024/8/section/20) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-490fb6e0b8a9f8571de18578c15049ef]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2024/8/section/20) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-bb888ec2a665685d70e02965d1d36a10]: Commencement: S. 21 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-bb888ec2a665685d70e02965d1d36a10]: Commencement: S. 21 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-bb3fa9741f0b838d62ae18348a551398]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2024/8/section/21) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-bb3fa9741f0b838d62ae18348a551398]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2024/8/section/21) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-bc196b9bcc858ca82f5ce476007f8a77]: Textual amendment: [S. 21(1A)](https://www.legislation.gov.uk/asp/2024/8/section/21/1A) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 10(2)](https://www.legislation.gov.uk/asp/2026/18/section/10/2), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-bc196b9bcc858ca82f5ce476007f8a77]: Textual amendment: [S. 21(1A)](https://www.legislation.gov.uk/asp/2024/8/section/21/1A) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 10(2)](https://www.legislation.gov.uk/asp/2026/18/section/10/2), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-ec3934401ed98277692ac01844b441df]: Commencement: S. 22 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-ec3934401ed98277692ac01844b441df]: Commencement: S. 22 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-ba83e72ec4b285b9003184c8fedb47d1]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2024/8/section/22) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-ba83e72ec4b285b9003184c8fedb47d1]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2024/8/section/22) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-b5e5e1d206cb1c38d9fdd6e9915d2ff9]: Commencement: S. 23 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-b5e5e1d206cb1c38d9fdd6e9915d2ff9]: Commencement: S. 23 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-81c49b0365bb64bb3e7224c4eace763e]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2024/8/section/23) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-81c49b0365bb64bb3e7224c4eace763e]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2024/8/section/23) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-7aaa06078660a8d08fc98072daf9b6ef]: Commencement: S. 24 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-7aaa06078660a8d08fc98072daf9b6ef]: Commencement: S. 24 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-a3162d806483f11d261602ea1ca5fde5]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2024/8/section/24) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-a3162d806483f11d261602ea1ca5fde5]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2024/8/section/24) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-ea6b535a8dd78148f262320297f086dd]: Commencement: S. 25 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-ea6b535a8dd78148f262320297f086dd]: Commencement: S. 25 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-19b772a4c98e8db3ed9fed8515d5c839]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2024/8/section/25) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-19b772a4c98e8db3ed9fed8515d5c839]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2024/8/section/25) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-b8373035bdc4d349fd3d8d7cf5e05a57]: Commencement: S. 26 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-b8373035bdc4d349fd3d8d7cf5e05a57]: Commencement: S. 26 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-329ff5711db72edb174f7004c375ed49]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2024/8/section/26) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-329ff5711db72edb174f7004c375ed49]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2024/8/section/26) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-e9d07a4dbc111c0520a132c554371316]: Textual amendment: [S. 26(2)(a)](https://www.legislation.gov.uk/asp/2024/8/section/26/2/a) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 9](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/9)
+[^c-e9d07a4dbc111c0520a132c554371316]: Textual amendment: [S. 26(2)(a)](https://www.legislation.gov.uk/asp/2024/8/section/26/2/a) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 9](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/9)
 
-[^key-7f33460dbbc73705e8f6eddf390ecb99]: Textual amendment: Words in [s. 26(3)(a)](https://www.legislation.gov.uk/asp/2024/8/section/26/3/a) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 5(2)](https://www.legislation.gov.uk/asp/2026/18/section/5/2), [16(2)(c)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/c) (with [s. 9](https://www.legislation.gov.uk/asp/2026/18/section/9))
+[^c-7f33460dbbc73705e8f6eddf390ecb99]: Textual amendment: Words in [s. 26(3)(a)](https://www.legislation.gov.uk/asp/2024/8/section/26/3/a) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 5(2)](https://www.legislation.gov.uk/asp/2026/18/section/5/2), [16(2)(c)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/c) (with [s. 9](https://www.legislation.gov.uk/asp/2026/18/section/9))
 
-[^key-12e5f624408564829c4194fd5c4337a3]: Commencement: S. 27 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-12e5f624408564829c4194fd5c4337a3]: Commencement: S. 27 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-41a8e4828b8e5d1e54ca3d3ff17858a2]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2024/8/section/27) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-41a8e4828b8e5d1e54ca3d3ff17858a2]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2024/8/section/27) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-9425f7e86100b42adf4b85ee6b9aafa8]: Commencement: S. 28 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-9425f7e86100b42adf4b85ee6b9aafa8]: Commencement: S. 28 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-5718514d6dc7610617bd75e505a35351]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2024/8/section/28) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-5718514d6dc7610617bd75e505a35351]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2024/8/section/28) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-9f0c53a68ace05bf681cc78b6c10c830]: Textual amendment: [S. 28(4)(a)](https://www.legislation.gov.uk/asp/2024/8/section/28/4/a) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 22(a)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/22/a)
+[^c-9f0c53a68ace05bf681cc78b6c10c830]: Textual amendment: [S. 28(4)(a)](https://www.legislation.gov.uk/asp/2024/8/section/28/4/a) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 22(a)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/22/a)
 
-[^key-326854dbff105b1a9bc5c0bba11dbc2b]: Textual amendment: [S. 28(4)(ab)](https://www.legislation.gov.uk/asp/2024/8/section/28/4/ab) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 22(b)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/22/b)
+[^c-326854dbff105b1a9bc5c0bba11dbc2b]: Textual amendment: [S. 28(4)(ab)](https://www.legislation.gov.uk/asp/2024/8/section/28/4/ab) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 22(b)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/22/b)
 
-[^key-338cd6d2b0137e823ec6969c63f60154]: Textual amendment: [S. 28A](https://www.legislation.gov.uk/asp/2024/8/section/28A) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 6(2)](https://www.legislation.gov.uk/asp/2026/18/section/6/2), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-338cd6d2b0137e823ec6969c63f60154]: Textual amendment: [S. 28A](https://www.legislation.gov.uk/asp/2024/8/section/28A) inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 6(2)](https://www.legislation.gov.uk/asp/2026/18/section/6/2), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-1904e3b263045b0257c9af7b824a6c07]: Commencement: S. 29 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-1904e3b263045b0257c9af7b824a6c07]: Commencement: S. 29 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-0dbaecc24491c38a11fddbf7d8d44f32]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2024/8/section/29) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-0dbaecc24491c38a11fddbf7d8d44f32]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2024/8/section/29) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-748d50a436de0295449330df0827b601]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/asp/2024/8/section/29/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 10(a)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/10/a)
+[^c-748d50a436de0295449330df0827b601]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/asp/2024/8/section/29/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 10(a)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/10/a)
 
-[^key-b8ee84103c6f22017d027fa9523baff9]: Textual amendment: [S. 29(1A)](https://www.legislation.gov.uk/asp/2024/8/section/29/1A)[(1B)](https://www.legislation.gov.uk/asp/2024/8/section/29/1B) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 10(b)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/10/b)
+[^c-b8ee84103c6f22017d027fa9523baff9]: Textual amendment: [S. 29(1A)](https://www.legislation.gov.uk/asp/2024/8/section/29/1A)[(1B)](https://www.legislation.gov.uk/asp/2024/8/section/29/1B) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 10(b)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/10/b)
 
-[^key-cc69115950f429706abbd34509084a3d]: Textual amendment: [S. 29(2)](https://www.legislation.gov.uk/asp/2024/8/section/29/2) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 10(c)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/10/c)
+[^c-cc69115950f429706abbd34509084a3d]: Textual amendment: [S. 29(2)](https://www.legislation.gov.uk/asp/2024/8/section/29/2) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 10(c)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/10/c)
 
-[^key-6210ac72b0aa131a4f862758c6497ef9]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/asp/2024/8/section/29A) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 11](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/11)
+[^c-6210ac72b0aa131a4f862758c6497ef9]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/asp/2024/8/section/29A) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 11](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/11)
 
-[^key-d1c947c3d0abbd16e7d685d57d46fa04]: Commencement: S. 30 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-d1c947c3d0abbd16e7d685d57d46fa04]: Commencement: S. 30 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-8be9ee9e8fbb0a9097bed50e2b466140]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2024/8/section/30) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-8be9ee9e8fbb0a9097bed50e2b466140]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2024/8/section/30) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-1d949a372fa953ac29f2617993a19afa]: Commencement: S. 31 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-1d949a372fa953ac29f2617993a19afa]: Commencement: S. 31 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-ccc26281664cc95601ff970e17539b00]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2024/8/section/31) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-ccc26281664cc95601ff970e17539b00]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2024/8/section/31) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-437c4db2b709e78a0c4654e1f7374b8f]: Commencement: S. 32 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-437c4db2b709e78a0c4654e1f7374b8f]: Commencement: S. 32 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-59b6ee5ceec5ce738e7e977b8ca2643c]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2024/8/section/32) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-59b6ee5ceec5ce738e7e977b8ca2643c]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2024/8/section/32) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-2631e3735c6a56f1e104eb8b0d3becd8]: Commencement: S. 33 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-2631e3735c6a56f1e104eb8b0d3becd8]: Commencement: S. 33 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-8ed6b087b93e68cfce209a08923327cd]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2024/8/section/33) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-8ed6b087b93e68cfce209a08923327cd]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2024/8/section/33) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-8c56119829699aad2a08d1d4a7348b96]: Commencement: S. 34 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-8c56119829699aad2a08d1d4a7348b96]: Commencement: S. 34 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-187ee962b11adffafac056cf26b30527]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2024/8/section/34) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-187ee962b11adffafac056cf26b30527]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2024/8/section/34) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-cfc767264032e879ea1692073c9a2778]: Commencement: S. 35 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-cfc767264032e879ea1692073c9a2778]: Commencement: S. 35 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-3d557d20ed67c79077d55326a29c3e74]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2024/8/section/35) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-3d557d20ed67c79077d55326a29c3e74]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2024/8/section/35) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-e82e00c01497d44cef8e93e8c86b9256]: Commencement: S. 36 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-e82e00c01497d44cef8e93e8c86b9256]: Commencement: S. 36 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-bd6258b54c3636a7b384635d79093b50]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2024/8/section/36) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-bd6258b54c3636a7b384635d79093b50]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2024/8/section/36) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-b728d1c3c1fb4fb1587a03d6b080bc46]: Commencement: S. 37 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-b728d1c3c1fb4fb1587a03d6b080bc46]: Commencement: S. 37 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-1d724816b6548088e884bbf6e129e6b2]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2024/8/section/37) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-1d724816b6548088e884bbf6e129e6b2]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2024/8/section/37) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-ee3118bdf38d16df10be9fbb752661de]: Commencement: S. 38 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-ee3118bdf38d16df10be9fbb752661de]: Commencement: S. 38 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-b64fca98077378e793862f5aa8ad4e22]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2024/8/section/38) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-b64fca98077378e793862f5aa8ad4e22]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2024/8/section/38) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-d0dbe385263420d67f903bca4ecb6edb]: Commencement: S. 39 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-d0dbe385263420d67f903bca4ecb6edb]: Commencement: S. 39 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-35ddd101cfd7da972d80a7b3154ef8c5]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2024/8/section/39) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-35ddd101cfd7da972d80a7b3154ef8c5]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2024/8/section/39) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-3a7fead8ebc0dd06153b33cb64b42b1a]: Commencement: S. 40 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-3a7fead8ebc0dd06153b33cb64b42b1a]: Commencement: S. 40 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-f8ea7b1cc8d50221c4139f5f9352cd06]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2024/8/section/40) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-f8ea7b1cc8d50221c4139f5f9352cd06]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2024/8/section/40) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-f210c4562f77c19b2897dcad826beb03]: Commencement: S. 41 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-f210c4562f77c19b2897dcad826beb03]: Commencement: S. 41 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-ad940c4e19b268f89db4c8b6312bd937]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2024/8/section/41) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-ad940c4e19b268f89db4c8b6312bd937]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2024/8/section/41) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-bc27bd801d094024d4367a79e5159f83]: Commencement: S. 42 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-bc27bd801d094024d4367a79e5159f83]: Commencement: S. 42 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-c9250f77d59b9e1b72f26c48e39808df]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2024/8/section/42) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-c9250f77d59b9e1b72f26c48e39808df]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2024/8/section/42) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-0c8ea59b5641dc6819e13792d74c8ac3]: Commencement: S. 43 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-0c8ea59b5641dc6819e13792d74c8ac3]: Commencement: S. 43 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-ea7ed783b72ce285be0b5e9d2edcf727]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2024/8/section/43) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-ea7ed783b72ce285be0b5e9d2edcf727]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2024/8/section/43) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-e1d65236a9e2be878b107ced68a1ad26]: Commencement: S. 44 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-e1d65236a9e2be878b107ced68a1ad26]: Commencement: S. 44 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-caa273d9ffe4487b1248b1ad9de714d9]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2024/8/section/44) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-caa273d9ffe4487b1248b1ad9de714d9]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2024/8/section/44) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-cc41fd95f9f7e8db5ddbea388923b5fe]: Commencement: S. 45 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-cc41fd95f9f7e8db5ddbea388923b5fe]: Commencement: S. 45 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-5ec23cd3961e8c4b6a3ac383e50c5c4a]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2024/8/section/45) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-5ec23cd3961e8c4b6a3ac383e50c5c4a]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2024/8/section/45) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-f06fe61926bd08d9f4866f56c7fd7c1d]: Textual amendment: Word in [s. 45(3)](https://www.legislation.gov.uk/asp/2024/8/section/45/3) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 23](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/23)
+[^c-f06fe61926bd08d9f4866f56c7fd7c1d]: Textual amendment: Word in [s. 45(3)](https://www.legislation.gov.uk/asp/2024/8/section/45/3) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 23](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/23)
 
-[^key-a5eaacfc33f2e43e38cbf0e5fbb16d2b]: Commencement: S. 46 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-a5eaacfc33f2e43e38cbf0e5fbb16d2b]: Commencement: S. 46 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-5b5a9242516658ac644fb28f94b3b593]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2024/8/section/46) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-5b5a9242516658ac644fb28f94b3b593]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2024/8/section/46) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-9bf77a306a01d7c61b2d3ed6320471ac]: Commencement: S. 47 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-9bf77a306a01d7c61b2d3ed6320471ac]: Commencement: S. 47 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-e6f7d7335acfadae3030fd0989088838]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2024/8/section/47) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-e6f7d7335acfadae3030fd0989088838]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2024/8/section/47) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-9fa36f41fda63c1feed6f2876f56498d]: Textual amendment: Words in [s. 47(1)](https://www.legislation.gov.uk/asp/2024/8/section/47/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 24](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/24)
+[^c-9fa36f41fda63c1feed6f2876f56498d]: Textual amendment: Words in [s. 47(1)](https://www.legislation.gov.uk/asp/2024/8/section/47/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 24](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/24)
 
-[^key-2cf45212d7bb14fb90eb1fb3b33aeab9]: Commencement: S. 48 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-2cf45212d7bb14fb90eb1fb3b33aeab9]: Commencement: S. 48 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-fca36ee3ab3961a83f006c97b0ddfbd8]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2024/8/section/48) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-fca36ee3ab3961a83f006c97b0ddfbd8]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2024/8/section/48) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-80aceae4142753420340c9d9582e0bbd]: Commencement: S. 49 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-80aceae4142753420340c9d9582e0bbd]: Commencement: S. 49 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-0731c1c081b85dd2970c8c6b5b0af6d2]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2024/8/section/49) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-0731c1c081b85dd2970c8c6b5b0af6d2]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2024/8/section/49) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-381c22e859e82b352636b55804cb5187]: Commencement: S. 50 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-381c22e859e82b352636b55804cb5187]: Commencement: S. 50 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-cb51ba12c67321a9900e397d6d38d079]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2024/8/section/50) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-cb51ba12c67321a9900e397d6d38d079]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2024/8/section/50) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-b27352b9cd209fe5a926bd1b536d0d55]: Commencement: S. 51 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-b27352b9cd209fe5a926bd1b536d0d55]: Commencement: S. 51 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-7c50bb28dcabd3a652f45ac06dff9513]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2024/8/section/51) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-7c50bb28dcabd3a652f45ac06dff9513]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2024/8/section/51) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-568b01df696cdb8c43a62f48835585ea]: Commencement: S. 52 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-568b01df696cdb8c43a62f48835585ea]: Commencement: S. 52 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-3fa73f70f7350863db4da9c99c7c80d5]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2024/8/section/52) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-3fa73f70f7350863db4da9c99c7c80d5]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2024/8/section/52) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-6ce92e0163f3fe5c431a309d0b6e60f6]: Textual amendment: [S. 52(1)(a)](https://www.legislation.gov.uk/asp/2024/8/section/52/1/a) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 12](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/12)
+[^c-6ce92e0163f3fe5c431a309d0b6e60f6]: Textual amendment: [S. 52(1)(a)](https://www.legislation.gov.uk/asp/2024/8/section/52/1/a) substituted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 12](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/12)
 
-[^key-66e15c627129239767e3ce1ea4aa6055]: Commencement: S. 53 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-66e15c627129239767e3ce1ea4aa6055]: Commencement: S. 53 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-c12c26166ad76cba5901f6e00d49ce27]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2024/8/section/53) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-c12c26166ad76cba5901f6e00d49ce27]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2024/8/section/53) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-3a6719ce40f2f9b5142a3d44ab760419]: Textual amendment: Words in [s. 53(1)](https://www.legislation.gov.uk/asp/2024/8/section/53/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 13](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/13)
+[^c-3a6719ce40f2f9b5142a3d44ab760419]: Textual amendment: Words in [s. 53(1)](https://www.legislation.gov.uk/asp/2024/8/section/53/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 13](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/13)
 
-[^key-75b425cd005928dd8de409f629892a79]: Commencement: S. 54 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-75b425cd005928dd8de409f629892a79]: Commencement: S. 54 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-3aa0b34a0b0c796d7ce6661cd655647f]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2024/8/section/54) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-3aa0b34a0b0c796d7ce6661cd655647f]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2024/8/section/54) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-d092da5721525a6378946d65ab26d2ae]: Commencement: S. 55 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-d092da5721525a6378946d65ab26d2ae]: Commencement: S. 55 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-12d4b3660a2e05e68c14a008182f5e1a]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2024/8/section/55) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-12d4b3660a2e05e68c14a008182f5e1a]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2024/8/section/55) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-23173fd3059d84ea13b54c8c787421bb]: Commencement: S. 56 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-23173fd3059d84ea13b54c8c787421bb]: Commencement: S. 56 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-5587461acfc9e84e502ec35913f00316]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2024/8/section/56) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-5587461acfc9e84e502ec35913f00316]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2024/8/section/56) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-779ffcf66622ce381a9100e5aa5e17d7]: Commencement: S. 57 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-779ffcf66622ce381a9100e5aa5e17d7]: Commencement: S. 57 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-e858bf42817646578d2839565d0f4b4d]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2024/8/section/57) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-e858bf42817646578d2839565d0f4b4d]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2024/8/section/57) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-f210349d637e660418a809699b4610e7]: Commencement: S. 58 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-f210349d637e660418a809699b4610e7]: Commencement: S. 58 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-66a0268a70f46e3e476fe8d3f3654bcf]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2024/8/section/58) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-66a0268a70f46e3e476fe8d3f3654bcf]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2024/8/section/58) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-a61fee21406e54409c53bb4c75d4260e]: Commencement: S. 59 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-a61fee21406e54409c53bb4c75d4260e]: Commencement: S. 59 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-8a186ca8c29c28641208a5d771f75a26]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2024/8/section/59) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-8a186ca8c29c28641208a5d771f75a26]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2024/8/section/59) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-5444e13c29abc6e87b965fa9cf46da9d]: Commencement: S. 60 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-5444e13c29abc6e87b965fa9cf46da9d]: Commencement: S. 60 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-cf71fc599b3dd1b5dfc92af4c76e2613]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2024/8/section/60) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-cf71fc599b3dd1b5dfc92af4c76e2613]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2024/8/section/60) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-70b9fb05b8f96d97f9ad24c7ffbd2474]: Commencement: S. 61 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-70b9fb05b8f96d97f9ad24c7ffbd2474]: Commencement: S. 61 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-cfafc37bba13ff5045b6b1a2085f6f1f]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2024/8/section/61) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-cfafc37bba13ff5045b6b1a2085f6f1f]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2024/8/section/61) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-988ed2b7d10e14a9c27d343568c906b2]: Commencement: S. 62 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-988ed2b7d10e14a9c27d343568c906b2]: Commencement: S. 62 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-29b24127c20bc805162073481254e8f8]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2024/8/section/62) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-29b24127c20bc805162073481254e8f8]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2024/8/section/62) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-5acd06da268ffbb509529d43c169d466]: Commencement: S. 63 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-5acd06da268ffbb509529d43c169d466]: Commencement: S. 63 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-ae934752d0fa0ca1390e61c008887422]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2024/8/section/63) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-ae934752d0fa0ca1390e61c008887422]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2024/8/section/63) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-237f01a285e3cde161cf1f11ebce3db5]: Commencement: S. 64 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-237f01a285e3cde161cf1f11ebce3db5]: Commencement: S. 64 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-33124bde63c234f65ce1f64de547b1fe]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2024/8/section/64) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-33124bde63c234f65ce1f64de547b1fe]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2024/8/section/64) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-b88944f1bca7f0db4bde661bf774212c]: Commencement: S. 65 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-b88944f1bca7f0db4bde661bf774212c]: Commencement: S. 65 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-a0ac6c37294db3a15c014b05fd75c022]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2024/8/section/65) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-a0ac6c37294db3a15c014b05fd75c022]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2024/8/section/65) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-b7e62d305dc11c659f90f341af65a208]: Commencement: S. 66 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-b7e62d305dc11c659f90f341af65a208]: Commencement: S. 66 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-3d954535740f674f5e5c21335ca45bcd]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2024/8/section/66) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-3d954535740f674f5e5c21335ca45bcd]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2024/8/section/66) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-d5dec075e9e6f3ee02c8274db5399ffa]: Textual amendment: [S. 66(1A)](https://www.legislation.gov.uk/asp/2024/8/section/66/1A) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 14](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/14)
+[^c-d5dec075e9e6f3ee02c8274db5399ffa]: Textual amendment: [S. 66(1A)](https://www.legislation.gov.uk/asp/2024/8/section/66/1A) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 14](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/14)
 
-[^key-2d049aabd7952c44278ac34216a42ef2]: Commencement: S. 67 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-2d049aabd7952c44278ac34216a42ef2]: Commencement: S. 67 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-ac0bde186d02c06727fcfd5108a67761]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2024/8/section/67) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-ac0bde186d02c06727fcfd5108a67761]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2024/8/section/67) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-ea0674e933effd8436bce62fe12f3259]: Commencement: S. 68 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-ea0674e933effd8436bce62fe12f3259]: Commencement: S. 68 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-d6bec36f4f600befa19997ae9a843270]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2024/8/section/68) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-d6bec36f4f600befa19997ae9a843270]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2024/8/section/68) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-504ae85e5f0411cc67ff157094501cf5]: Commencement: S. 69 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-504ae85e5f0411cc67ff157094501cf5]: Commencement: S. 69 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-065d275f13e4fb0843c6777c02eeb7a3]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2024/8/section/69) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-065d275f13e4fb0843c6777c02eeb7a3]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2024/8/section/69) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-90353ed6fd9f2022972e3c5e25140c55]: Commencement: S. 70 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-90353ed6fd9f2022972e3c5e25140c55]: Commencement: S. 70 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-da3b0814baf56c4d27db092062335763]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2024/8/section/70) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-da3b0814baf56c4d27db092062335763]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2024/8/section/70) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-5aa79253e90c16880f98955e901a7620]: Textual amendment: Words in [s. 70(1)(a)](https://www.legislation.gov.uk/asp/2024/8/section/70/1/a) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 15](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/15)
+[^c-5aa79253e90c16880f98955e901a7620]: Textual amendment: Words in [s. 70(1)(a)](https://www.legislation.gov.uk/asp/2024/8/section/70/1/a) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 15](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/15)
 
-[^key-4d307b49db6b53595699cb4f5ade66b4]: Commencement: S. 71 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-4d307b49db6b53595699cb4f5ade66b4]: Commencement: S. 71 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-aa797cac2a71d2606b1ad57b6b403f3b]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2024/8/section/71) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-aa797cac2a71d2606b1ad57b6b403f3b]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2024/8/section/71) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-0c24628c6f794e997e986c850d65299f]: Commencement: S. 72 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-0c24628c6f794e997e986c850d65299f]: Commencement: S. 72 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-723563aa7783d770cb768fc91a580662]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2024/8/section/72) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-723563aa7783d770cb768fc91a580662]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2024/8/section/72) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-d1de28c5618629b43ebd0452c33c48bf]: Commencement: S. 73 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-d1de28c5618629b43ebd0452c33c48bf]: Commencement: S. 73 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-5c4830e99f65e7f32fff85a3ca68668b]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2024/8/section/73) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-5c4830e99f65e7f32fff85a3ca68668b]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2024/8/section/73) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-594893dc8331a995458c83a718565108]: Commencement: S. 74 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
+[^c-594893dc8331a995458c83a718565108]: Commencement: S. 74 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/asp/2024/8/section/79/2)
 
-[^key-24b625ec69e6fb5864619d65006165a4]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2024/8/section/74) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
+[^c-24b625ec69e6fb5864619d65006165a4]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2024/8/section/74) in force at 20.9.2024 by [S.S.I. 2024/231](https://www.legislation.gov.uk/ssi/2024/231), [reg. 2](https://www.legislation.gov.uk/ssi/2024/231/regulation/2)
 
-[^key-27a2aa49f671c4d3a0301c68a3666b50]: Commencement: S. 75 in force at 6.7.2024, see [s. 79(1)](https://www.legislation.gov.uk/asp/2024/8/section/79/1)
+[^c-27a2aa49f671c4d3a0301c68a3666b50]: Commencement: S. 75 in force at 6.7.2024, see [s. 79(1)](https://www.legislation.gov.uk/asp/2024/8/section/79/1)
 
-[^key-cbad3a16bcb07d059a2f0002bec3ce92]: Textual amendment: [S. 75(2)(a)](https://www.legislation.gov.uk/asp/2024/8/section/75/2/a) substituted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 11(2)](https://www.legislation.gov.uk/asp/2026/18/section/11/2), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-cbad3a16bcb07d059a2f0002bec3ce92]: Textual amendment: [S. 75(2)(a)](https://www.legislation.gov.uk/asp/2024/8/section/75/2/a) substituted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 11(2)](https://www.legislation.gov.uk/asp/2026/18/section/11/2), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-dca57dabd1f4de824a3c222b0baff23b]: Textual amendment: S. 75A inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 12(2)](https://www.legislation.gov.uk/asp/2026/18/section/12/2), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
+[^c-dca57dabd1f4de824a3c222b0baff23b]: Textual amendment: S. 75A inserted (22.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [ss. 12(2)](https://www.legislation.gov.uk/asp/2026/18/section/12/2), [16(3)](https://www.legislation.gov.uk/asp/2026/18/section/16/3); [S.S.I. 2026/198](https://www.legislation.gov.uk/ssi/2026/198), [reg. 2](https://www.legislation.gov.uk/ssi/2026/198/regulation/2)
 
-[^key-5266f98147c256b727693e0e33628a0c]: Commencement: S. 76 in force at 6.7.2024, see [s. 79(1)](https://www.legislation.gov.uk/asp/2024/8/section/79/1)
+[^c-5266f98147c256b727693e0e33628a0c]: Commencement: S. 76 in force at 6.7.2024, see [s. 79(1)](https://www.legislation.gov.uk/asp/2024/8/section/79/1)
 
-[^key-dc86c62c3bd3cb2130e20476b95a814b]: Textual amendment: Words in [s. 76(1)](https://www.legislation.gov.uk/asp/2024/8/section/76/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 25(a)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/25/a)
+[^c-dc86c62c3bd3cb2130e20476b95a814b]: Textual amendment: Words in [s. 76(1)](https://www.legislation.gov.uk/asp/2024/8/section/76/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 25(a)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/25/a)
 
-[^key-796c20bae89e9faecc1487aadccb31df]: Textual amendment: Words in [s. 76(1)](https://www.legislation.gov.uk/asp/2024/8/section/76/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 16](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/16)
+[^c-796c20bae89e9faecc1487aadccb31df]: Textual amendment: Words in [s. 76(1)](https://www.legislation.gov.uk/asp/2024/8/section/76/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(h)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/h), [sch. para. 16](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/16)
 
-[^key-48e87f3d8c88eb6909cf116a5b68c9b6]: Textual amendment: Words in [s. 76(1)](https://www.legislation.gov.uk/asp/2024/8/section/76/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 25(b)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/25/b)
+[^c-48e87f3d8c88eb6909cf116a5b68c9b6]: Textual amendment: Words in [s. 76(1)](https://www.legislation.gov.uk/asp/2024/8/section/76/1) inserted (21.7.2026) by [Visitor Levy (Amendment) (Scotland) Act 2026 (asp 18)](https://www.legislation.gov.uk/asp/2026/18), [s. 16(2)(i)](https://www.legislation.gov.uk/asp/2026/18/section/16/2/i), [sch. para. 25(b)](https://www.legislation.gov.uk/asp/2026/18/schedule/paragraph/25/b)
 
-[^key-3477d9e95d03411740c3aad24afdf074]: Commencement: S. 77 in force at 6.7.2024, see [s. 79(1)](https://www.legislation.gov.uk/asp/2024/8/section/79/1)
+[^c-3477d9e95d03411740c3aad24afdf074]: Commencement: S. 77 in force at 6.7.2024, see [s. 79(1)](https://www.legislation.gov.uk/asp/2024/8/section/79/1)
 
-[^key-012e94e8a0265be9f76839381ff82e98]: Commencement: S. 78 in force at 6.7.2024, see [s. 79(1)](https://www.legislation.gov.uk/asp/2024/8/section/79/1)
+[^c-012e94e8a0265be9f76839381ff82e98]: Commencement: S. 78 in force at 6.7.2024, see [s. 79(1)](https://www.legislation.gov.uk/asp/2024/8/section/79/1)
 
-[^key-0be2f87b133ca7ef0283770743012af4]: Commencement: S. 79 in force at 6.7.2024, see [s. 79(1)](https://www.legislation.gov.uk/asp/2024/8/section/79/1)
+[^c-0be2f87b133ca7ef0283770743012af4]: Commencement: S. 79 in force at 6.7.2024, see [s. 79(1)](https://www.legislation.gov.uk/asp/2024/8/section/79/1)
 
-[^key-d7d81852bf0c0aeb12e2397d3d633d37]: Commencement: S. 80 in force at 6.7.2024, see [s. 79(1)](https://www.legislation.gov.uk/asp/2024/8/section/79/1)
+[^c-d7d81852bf0c0aeb12e2397d3d633d37]: Commencement: S. 80 in force at 6.7.2024, see [s. 79(1)](https://www.legislation.gov.uk/asp/2024/8/section/79/1)

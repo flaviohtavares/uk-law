@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Powers of entry: compensation[^key-a1fea0e2691c9c50cfcca6f46cec7f9b][^key-a2e0c6f5d7609d3a540d07c665aef592]
+## 86. Powers of entry: compensation[^c-a1fea0e2691c9c50cfcca6f46cec7f9b][^c-a2e0c6f5d7609d3a540d07c665aef592]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a1fea0e2691c9c50cfcca6f46cec7f9b]: Commencement: S. 86 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-a1fea0e2691c9c50cfcca6f46cec7f9b]: Commencement: S. 86 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-a2e0c6f5d7609d3a540d07c665aef592]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2025/34/section/86) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-a2e0c6f5d7609d3a540d07c665aef592]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2025/34/section/86) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

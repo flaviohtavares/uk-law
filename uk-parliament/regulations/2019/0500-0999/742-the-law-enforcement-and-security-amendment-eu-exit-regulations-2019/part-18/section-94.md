@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Revocation of the Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (Scotland) Order 2011[^key-a4db400453bdb34ecf84900d13300fa7]
+## 94. Revocation of the Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (Scotland) Order 2011[^c-a4db400453bdb34ecf84900d13300fa7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Crime (International Co-operation) Act 2003 (Designation of Participating Co
 
 ## Annotations
 
-[^key-a4db400453bdb34ecf84900d13300fa7]: Commencement: Reg. 94 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a4db400453bdb34ecf84900d13300fa7]: Commencement: Reg. 94 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691941]: Marginal citation: [S.S.I. 2011/7](https://www.legislation.gov.uk/ssi/2011/7).

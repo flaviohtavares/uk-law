@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 637M. Flexi-access drawdown lump sum death benefits[^key-a5e7a003c799e1d87c65b8ecbd2749d1]
+## 637M. Flexi-access drawdown lump sum death benefits[^c-a5e7a003c799e1d87c65b8ecbd2749d1]
 
 *Extent: E+W+S+N.I.*
 
-[^key-1c8e7e45a01c02128d04951496cc9009]
+[^c-1c8e7e45a01c02128d04951496cc9009]
 
 (1) Subject to subsections (2) to (6), no liability to income tax arises on a flexi-access drawdown lump sum death benefit paid under a registered pension scheme.
 
@@ -70,14 +70,14 @@ the lump sum is subject to income tax under section 206 of FA 2004 (special lump
 (8) In this section—
 
 - “**non-qualifying person**” has the same meaning as in section 206 of FA 2004;
-- “**the permitted maximum**”, in relation to a flexi-access drawdown lump sum death benefit paid in respect of a member, means so much of the member’s lump sum and death benefit allowance as is available on the lump sum being[^key-f00aab7673bb7dc5bbdefcfd4e6de2e6] paid (see section 637S);
+- “**the permitted maximum**”, in relation to a flexi-access drawdown lump sum death benefit paid in respect of a member, means so much of the member’s lump sum and death benefit allowance as is available on the lump sum being[^c-f00aab7673bb7dc5bbdefcfd4e6de2e6] paid (see section 637S);
 - “**qualifying person**” means a person who is not a non-qualifying person;
 - “**the relevant two year period**” means the period of two years beginning with the day on which the scheme administrator of the scheme first knew of the member’s death or (if earlier) the day on which the scheme administrator could first reasonably have been expected to have known of it.
 
 ## Annotations
 
-[^key-a5e7a003c799e1d87c65b8ecbd2749d1]: Textual amendment: Pt. 9 Ch. 15A substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 41](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/41), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4); and (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [S.I. 2024/1012](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17))
+[^c-a5e7a003c799e1d87c65b8ecbd2749d1]: Textual amendment: Pt. 9 Ch. 15A substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 41](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/41), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4); and (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [S.I. 2024/1012](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17))
 
-[^key-1c8e7e45a01c02128d04951496cc9009]: Modification: [Pt. 9](https://www.legislation.gov.uk/ukpga/2003/1/part/9) modified (13.2.2025 with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2025/52/regulation/4), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/52/regulation/7)
+[^c-1c8e7e45a01c02128d04951496cc9009]: Modification: [Pt. 9](https://www.legislation.gov.uk/ukpga/2003/1/part/9) modified (13.2.2025 with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2025/52/regulation/4), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/52/regulation/7)
 
-[^key-f00aab7673bb7dc5bbdefcfd4e6de2e6]: Textual amendment: Words in s. 637M(8) substituted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/3/3)
+[^c-f00aab7673bb7dc5bbdefcfd4e6de2e6]: Textual amendment: Words in s. 637M(8) substituted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/3/3)

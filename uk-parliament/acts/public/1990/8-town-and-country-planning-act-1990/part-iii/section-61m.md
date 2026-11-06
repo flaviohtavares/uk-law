@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61M. Revocation or modification of neighbourhood development orders[^key-8b8ceef8626d316c0842ab8a8530b8df][^key-99c58ceb70d9a80231e26e93f5bf37c9]
+## 61M. Revocation or modification of neighbourhood development orders[^c-8b8ceef8626d316c0842ab8a8530b8df][^c-99c58ceb70d9a80231e26e93f5bf37c9]
 
 *Extent: E+W*
 
@@ -28,9 +28,9 @@ summary: ''
 
 (4) A local planning authority may at any time by order modify a neighbourhood development order that they have made for the purpose of correcting errors.
 
-(4A)[^key-12f0acaaee1d8e0de92daa99cb2830f6] A local planning authority may at any time by order modify a neighbourhood development order they have made if they consider that the modification does not materially affect any planning permission granted by the order.
+(4A)[^c-12f0acaaee1d8e0de92daa99cb2830f6] A local planning authority may at any time by order modify a neighbourhood development order they have made if they consider that the modification does not materially affect any planning permission granted by the order.
 
-(5) If the qualifying body that initiated the process for the making of the neighbourhood development order mentioned in subsection (4) or (4A)[^key-494f4f83d703d2614c23eff15e80b01c] is still authorised at that time to act for the purposes of a neighbourhood development order in relation to the neighbourhood area concerned, the power under subsection (4) or (4A)[^key-6801f5043b1c13753973e5634418d979] is exercisable only with that body's consent.
+(5) If the qualifying body that initiated the process for the making of the neighbourhood development order mentioned in subsection (4) or (4A)[^c-494f4f83d703d2614c23eff15e80b01c] is still authorised at that time to act for the purposes of a neighbourhood development order in relation to the neighbourhood area concerned, the power under subsection (4) or (4A)[^c-6801f5043b1c13753973e5634418d979] is exercisable only with that body's consent.
 
 (6) A modification of a neighbourhood development order is to be done by replacing the order with a new one containing the modification.
 
@@ -49,12 +49,12 @@ summary: ''
 
 ## Annotations
 
-[^key-8b8ceef8626d316c0842ab8a8530b8df]: Modification: S. 61M applied (with modifications) by 2004 c. 5, s. 38C(2)(c)(3) (as inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/7); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4))
+[^c-8b8ceef8626d316c0842ab8a8530b8df]: Modification: S. 61M applied (with modifications) by 2004 c. 5, s. 38C(2)(c)(3) (as inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/7); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4))
 
-[^key-99c58ceb70d9a80231e26e93f5bf37c9]: Textual amendment: Ss. 61E-61Q and cross-heading inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/2); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^c-99c58ceb70d9a80231e26e93f5bf37c9]: Textual amendment: Ss. 61E-61Q and cross-heading inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/2); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
 
-[^key-12f0acaaee1d8e0de92daa99cb2830f6]: Textual amendment: S. 61M(4A) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2017/20/section/4/2), [46(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/3); [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/b)
+[^c-12f0acaaee1d8e0de92daa99cb2830f6]: Textual amendment: S. 61M(4A) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2017/20/section/4/2), [46(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/3); [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/b)
 
-[^key-494f4f83d703d2614c23eff15e80b01c]: Textual amendment: Words in s. 61M(5) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2017/20/section/4/3/a), [46(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/3); [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/b)
+[^c-494f4f83d703d2614c23eff15e80b01c]: Textual amendment: Words in s. 61M(5) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2017/20/section/4/3/a), [46(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/3); [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/b)
 
-[^key-6801f5043b1c13753973e5634418d979]: Textual amendment: Words in s. 61M(5) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2017/20/section/4/3/b), [46(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/3); [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/b)
+[^c-6801f5043b1c13753973e5634418d979]: Textual amendment: Words in s. 61M(5) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2017/20/section/4/3/b), [46(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/3); [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/b)

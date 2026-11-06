@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.23. Action where person excluded[^key-f353eb89505bdc2c0615c0e3a4813dee]
+## 3.23. Action where person excluded[^c-f353eb89505bdc2c0615c0e3a4813dee]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f353eb89505bdc2c0615c0e3a4813dee]: Commencement: Rule 3.23 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-f353eb89505bdc2c0615c0e3a4813dee]: Commencement: Rule 3.23 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

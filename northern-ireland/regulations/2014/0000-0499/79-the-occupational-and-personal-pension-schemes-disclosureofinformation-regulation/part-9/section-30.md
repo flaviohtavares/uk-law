@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Responsibility for giving information and documents[^key-832cb5b3b536e1b3d2dd8e2e62ca8793]
+## 30. Responsibility for giving information and documents[^c-832cb5b3b536e1b3d2dd8e2e62ca8793]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The trustees or managers of a scheme are responsible for ensuring that informati
 
 ## Annotations
 
-[^key-832cb5b3b536e1b3d2dd8e2e62ca8793]: Commencement: Reg. 30 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-832cb5b3b536e1b3d2dd8e2e62ca8793]: Commencement: Reg. 30 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)

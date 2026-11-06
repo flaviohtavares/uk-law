@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19.1. When this Part applies[^key-8ea2dee8286c516a6be99cea90d9ee74]
+## 19.1. When this Part applies[^c-8ea2dee8286c516a6be99cea90d9ee74]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8ea2dee8286c516a6be99cea90d9ee74]: Commencement: [Rule 19.1](https://www.legislation.gov.uk/uksi/2025/909/rule/19.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8ea2dee8286c516a6be99cea90d9ee74]: Commencement: [Rule 19.1](https://www.legislation.gov.uk/uksi/2025/909/rule/19.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00461]: Footnote: [1964 c. 84](https://www.legislation.gov.uk/ukpga/1964/84); section 4 was substituted, together with section 4A, for section 4 as originally enacted, by section 2 of the Criminal Procedure (Insanity and Unfitness to Plead) Act [1991 (c. 25)](https://www.legislation.gov.uk/ukpga/1991/25), and amended by section 22 of the Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28).
 

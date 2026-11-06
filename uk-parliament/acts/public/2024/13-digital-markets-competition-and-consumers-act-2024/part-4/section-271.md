@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271. Penalty for offence and enforcement[^key-072dcf2ec7bfdaec6e6a13ffe0fa8074]
+## 271. Penalty for offence and enforcement[^c-072dcf2ec7bfdaec6e6a13ffe0fa8074]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-072dcf2ec7bfdaec6e6a13ffe0fa8074]: Commencement: S. 271 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-072dcf2ec7bfdaec6e6a13ffe0fa8074]: Commencement: S. 271 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

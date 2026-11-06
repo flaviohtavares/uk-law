@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Words in the singular include the plural and vice versa[^c23844201][^key-f2c57784de2a8c9dabfd4ca367988f67]
+## 7. Words in the singular include the plural and vice versa[^c23844201][^c-f2c57784de2a8c9dabfd4ca367988f67]
 
 *Extent: E+W*
 
-In an Act of Senedd Cymru[^key-c70ef026524547ed9192318715d88a08] or a Welsh subordinate instrument—
+In an Act of Senedd Cymru[^c-c70ef026524547ed9192318715d88a08] or a Welsh subordinate instrument—
 
 - (a) words in the singular include the plural;
 - (b) words in the plural include the singular.
@@ -29,6 +29,6 @@ In an Act of Senedd Cymru[^key-c70ef026524547ed9192318715d88a08] or a Welsh subo
 
 [^c23844201]: Commencement: S. 7 in force for specified purposes at 11.9.2019, see [s. 44(1)(c)](https://www.legislation.gov.uk/anaw/2019/4/section/44/1/c)
 
-[^key-f2c57784de2a8c9dabfd4ca367988f67]: Commencement: S. 7 in force at 1.1.2020 in so far as not already in force by [S.I. 2019/1333](https://www.legislation.gov.uk/wsi/2019/1333), [art. 2](https://www.legislation.gov.uk/wsi/2019/1333/article/2)
+[^c-f2c57784de2a8c9dabfd4ca367988f67]: Commencement: S. 7 in force at 1.1.2020 in so far as not already in force by [S.I. 2019/1333](https://www.legislation.gov.uk/wsi/2019/1333), [art. 2](https://www.legislation.gov.uk/wsi/2019/1333/article/2)
 
-[^key-c70ef026524547ed9192318715d88a08]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 5(8)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/5/8)
+[^c-c70ef026524547ed9192318715d88a08]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 5(8)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/5/8)

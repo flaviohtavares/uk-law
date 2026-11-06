@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Application for sums under affiliation order to be paid to person having custody of child[^key-fe13e7129381a3d34dedb719151ff9b4]
+## 42. Application for sums under affiliation order to be paid to person having custody of child[^c-fe13e7129381a3d34dedb719151ff9b4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe13e7129381a3d34dedb719151ff9b4]: Textual amendment: [Rule 42](https://www.legislation.gov.uk/uksi/1981/552/rule/42) omitted (24.5.1983) by virtue of [The Magistrates' Courts (Amendment) Rules 1983 (S.I. 1983/523)](https://www.legislation.gov.uk/uksi/1983/523), [art. 1](https://www.legislation.gov.uk/uksi/1983/523/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/1983/523/schedule/paragraph/7)
+[^c-fe13e7129381a3d34dedb719151ff9b4]: Textual amendment: [Rule 42](https://www.legislation.gov.uk/uksi/1981/552/rule/42) omitted (24.5.1983) by virtue of [The Magistrates' Courts (Amendment) Rules 1983 (S.I. 1983/523)](https://www.legislation.gov.uk/uksi/1983/523), [art. 1](https://www.legislation.gov.uk/uksi/1983/523/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/1983/523/schedule/paragraph/7)

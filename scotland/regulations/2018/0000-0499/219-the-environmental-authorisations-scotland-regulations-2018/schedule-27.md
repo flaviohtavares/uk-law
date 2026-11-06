@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 27 — OPERATING A MEDIUM COMBUSTION PLANT[^key-651bb6727d211f4c9b0f2fcb3ff682b3]
+## SCHEDULE 27 — OPERATING A MEDIUM COMBUSTION PLANT[^c-651bb6727d211f4c9b0f2fcb3ff682b3]
 
 *Extent: S*
 
@@ -477,9 +477,9 @@ Emission limit values (mg/Nm <sup>3</sup>) for new engines and gas turbines
 
 ## Annotations
 
-[^key-651bb6727d211f4c9b0f2fcb3ff682b3]: Textual amendment: [Sch. 27](https://www.legislation.gov.uk/ssi/2018/219/schedule/27) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 18](https://www.legislation.gov.uk/ssi/2025/165/schedule/18) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-651bb6727d211f4c9b0f2fcb3ff682b3]: Textual amendment: [Sch. 27](https://www.legislation.gov.uk/ssi/2018/219/schedule/27) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 18](https://www.legislation.gov.uk/ssi/2025/165/schedule/18) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^f01050]: Footnote: (1)[^key-651bb6727d211f4c9b0f2fcb3ff682b3]
+[^f01050]: Footnote: (1)[^c-651bb6727d211f4c9b0f2fcb3ff682b3]
 
     The value does not apply in the case of plants firing exclusively woody solid biomass.
 

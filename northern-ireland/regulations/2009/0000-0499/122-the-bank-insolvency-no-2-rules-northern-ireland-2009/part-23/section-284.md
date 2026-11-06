@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 284. Notice, etc to solicitors[^key-f0ef83459b677376d7aa45ee56dc621b]
+## 284. Notice, etc to solicitors[^c-f0ef83459b677376d7aa45ee56dc621b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 0.4 of the 1991 Rules.
 
 ## Annotations
 
-[^key-f0ef83459b677376d7aa45ee56dc621b]: Commencement: Rule 284 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-f0ef83459b677376d7aa45ee56dc621b]: Commencement: Rule 284 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

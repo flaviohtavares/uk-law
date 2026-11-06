@@ -42,7 +42,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### Introductory
 
-#### 1. Key definitions for Part 1[^key-2e8353c3fb83662af45619a225a4cf67]
+#### 1. Key definitions for Part 1[^c-2e8353c3fb83662af45619a225a4cf67]
 
 (1) This section applies for the purposes of this Part.
 
@@ -59,7 +59,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### Designation of nuclear company
 
-#### 2. Designation of nuclear company[^key-0c709ba6fa2c4669844673f4e4aa8516]
+#### 2. Designation of nuclear company[^c-0c709ba6fa2c4669844673f4e4aa8516]
 
 (1) The Secretary of State may by notice given to a nuclear company designate the company in relation to a nuclear energy generation project in respect of which the company holds an electricity generation licence (“the nuclear project”).
 
@@ -72,7 +72,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) In this Part, “**designation notice**” means a notice under subsection (1).
 
-#### 3. Designation: procedure[^key-140a19cc806d1218897f69f8606c41b3]
+#### 3. Designation: procedure[^c-140a19cc806d1218897f69f8606c41b3]
 
 (1) The Secretary of State must publish a statement setting out—
 
@@ -108,7 +108,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) publish a designation notice, and
 - (b) in addition to giving the designation notice to the nuclear company being designated, give a copy of it to the other persons consulted under subsection (2)(b).
 
-#### 4. Expiry of designation[^key-dd8a5413e1dbbf7688677a07e8634181]
+#### 4. Expiry of designation[^c-dd8a5413e1dbbf7688677a07e8634181]
 
 (1) The designation of a nuclear company under section 2(1) ceases to have effect—
 
@@ -139,7 +139,7 @@ unless it ceases to have effect sooner in accordance with section 5(1) or (3).
 
 (5) Where the designation of a nuclear company ceases to have effect in accordance with subsection (1), the Secretary of State must publish details of that fact.
 
-#### 5. Revocation or lapse of designation[^key-c2a5461f2ad46fc0bcbdc31f8a91e8bc]
+#### 5. Revocation or lapse of designation[^c-c2a5461f2ad46fc0bcbdc31f8a91e8bc]
 
 (1) The Secretary of State may by notice given to a designated nuclear company revoke the company’s designation under section 2(1) if—
 
@@ -159,7 +159,7 @@ unless it ceases to have effect sooner in accordance with section 5(1) or (3).
 
 ### Licence modifications
 
-#### 6. Licence modifications: designated nuclear companies[^key-b24c886b62dbc5bddcc0b5f68dc5d6e8]
+#### 6. Licence modifications: designated nuclear companies[^c-b24c886b62dbc5bddcc0b5f68dc5d6e8]
 
 (1) The Secretary of State may modify—
 
@@ -208,7 +208,7 @@ unless it ceases to have effect sooner in accordance with section 5(1) or (3).
 
 (10) References in this section to the activities of a nuclear company are references to the company’s activities in relation to the design, construction, commissioning and operation of the nuclear project, including its activities in complying with any obligations it has under an approved funded decommissioning programme under Chapter 1 of Part 3 of the Energy Act 2008.
 
-#### 7. Licence modifications: relevant licensee nuclear companies[^key-68fcba420438115a51c83c372c62f770]
+#### 7. Licence modifications: relevant licensee nuclear companies[^c-68fcba420438115a51c83c372c62f770]
 
 (1) The Secretary of State may modify a condition of a relevant licensee nuclear company’s electricity generation licence.
 
@@ -225,7 +225,7 @@ unless it ceases to have effect sooner in accordance with section 5(1) or (3).
 
 (6) The Secretary of State must publish a statement setting out the procedure that the Secretary of State expects to follow in determining whether to exercise the power under subsection (1).
 
-#### 8. Procedure etc relating to modifications under section 6 or 7[^key-c667d35b9f288ae18741ea4687cb188a]
+#### 8. Procedure etc relating to modifications under section 6 or 7[^c-c667d35b9f288ae18741ea4687cb188a]
 
 (1) Before making a modification under a power conferred by section 6(1) or (7) or 7(1) (a “relevant power”), the Secretary of State must consult—
 
@@ -263,7 +263,7 @@ unless it ceases to have effect sooner in accordance with section 5(1) or (3).
 
 (8) The power conferred by a relevant power to “**modify**” (in relation to licence conditions or terms or a document or agreement) includes power to amend, add to or remove; and references to modifications are to be construed accordingly.
 
-#### 9. Expiry of modifications made under section 6[^key-7de477e2c82320614906969249d3af50]
+#### 9. Expiry of modifications made under section 6[^c-7de477e2c82320614906969249d3af50]
 
 (1) This section applies if the designation of a nuclear company under section 2(1) ceases to have effect in accordance with—
 
@@ -278,7 +278,7 @@ unless it ceases to have effect sooner in accordance with section 5(1) or (3).
 
 (5) Where modifications are to be treated by subsection (2) or (3) as not having been made, the Secretary of State must publish details of that fact.
 
-#### 10. Decisions relating to allowed revenue of relevant licensee nuclear company: appeals to CMA[^key-7f9fd99e6df041e16d82b5e6dfc94bae]
+#### 10. Decisions relating to allowed revenue of relevant licensee nuclear company: appeals to CMA[^c-7f9fd99e6df041e16d82b5e6dfc94bae]
 
 (1) This section applies where a relevant licensee nuclear company’s electricity generation licence contains provision referred to in section 6(5)(g) (provision enabling company to refer decisions of the Authority to the CMA).
 
@@ -308,7 +308,7 @@ unless it ceases to have effect sooner in accordance with section 5(1) or (3).
 
 ### Information
 
-#### 11. Provision of information to the Secretary of State[^key-11713337b405553fca217e055048ff14]
+#### 11. Provision of information to the Secretary of State[^c-11713337b405553fca217e055048ff14]
 
 (1) The Secretary of State may by notice require a nuclear company to provide to the Secretary of State such information as the Secretary of State may reasonably require in connection with the carrying out of the Secretary of State’s functions under or by virtue of this Part.
 
@@ -323,7 +323,7 @@ unless it ceases to have effect sooner in accordance with section 5(1) or (3).
 
 (5) This section does not authorise or require a disclosure of information if the disclosure would contravene the data protection legislation (but in determining whether a disclosure would do so, a requirement imposed under subsection (1) is to be taken into account).
 
-#### 12. Provision of information to or by the Authority[^key-9ebe35dfe7e703013dba924281f7ab38]
+#### 12. Provision of information to or by the Authority[^c-9ebe35dfe7e703013dba924281f7ab38]
 
 (1) The Authority may provide to a person within subsection (2) such information as the Authority considers necessary in connection with the exercise by the Authority of its functions relating to the regulation of a relevant licensee nuclear company.
 
@@ -357,7 +357,7 @@ unless it ceases to have effect sooner in accordance with section 5(1) or (3).
 
 ### Other
 
-#### 13. Sensitive material[^key-af466dbbfa961def619474bf25d9dfd5]
+#### 13. Sensitive material[^c-af466dbbfa961def619474bf25d9dfd5]
 
 (1) The Secretary of State may exclude material to which subsection (2) applies from—
 
@@ -369,7 +369,7 @@ unless it ceases to have effect sooner in accordance with section 5(1) or (3).
 - (a) would be likely to prejudice the commercial interests of any person, or
 - (b) would be contrary to the interests of national security.
 
-#### 14. Interpretation of Part 1[^key-4a0d1a77ac61fcca982d663c35a8a0a9]
+#### 14. Interpretation of Part 1[^c-4a0d1a77ac61fcca982d663c35a8a0a9]
 
 (1) In this Part—
 
@@ -395,7 +395,7 @@ unless it ceases to have effect sooner in accordance with section 5(1) or (3).
 
 ### Revenue collection contracts
 
-#### 15. Regulations about revenue collection contracts[^key-ddd61f5a0494db00d885a4f8158cfb5d]
+#### 15. Regulations about revenue collection contracts[^c-ddd61f5a0494db00d885a4f8158cfb5d]
 
 (1) The Secretary of State may by regulations make provision about revenue collection contracts.
 
@@ -433,7 +433,7 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 (9) If, apart from this subsection, a draft of an instrument containing revenue regulations would be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not such an instrument.
 
-#### 16. Designation of a revenue collection counterparty[^key-e5b08658e32f32792fe7f01274de3328]
+#### 16. Designation of a revenue collection counterparty[^c-e5b08658e32f32792fe7f01274de3328]
 
 (1) The Secretary of State may by notice given to an eligible person designate the person to be a counterparty for revenue collection contracts.
 
@@ -465,7 +465,7 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 (10) Revenue regulations may include provision about the period of time for which, and the circumstances in which, a person who has ceased to be a revenue collection counterparty is to continue to be treated as a revenue collection counterparty for the purposes of the regulations.
 
-#### 17. Duties of a revenue collection counterparty[^key-2ea18ee21aaab1fab0e5af002be78c2f]
+#### 17. Duties of a revenue collection counterparty[^c-2ea18ee21aaab1fab0e5af002be78c2f]
 
 (1) A revenue collection counterparty must act in accordance with—
 
@@ -490,7 +490,7 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 (5) Revenue regulations must include such provision as the Secretary of State considers necessary so as to ensure that a revenue collection counterparty can meet its liabilities under any revenue collection contract to which it is a party.
 
-#### 18. Direction to offer to contract[^key-da34bb6b5c30b9748c9bb556b0945cc9]
+#### 18. Direction to offer to contract[^c-da34bb6b5c30b9748c9bb556b0945cc9]
 
 (1) The Secretary of State may, in accordance with any provision made by revenue regulations, direct a revenue collection counterparty to offer to contract with a designated nuclear company specified in the direction, on terms specified in the direction.
 
@@ -511,7 +511,7 @@ as may be specified in the regulations.
 
 ### Payment and other obligations relating to revenue collection contracts
 
-#### 19. Supplier obligation[^key-852c7d5c41f880a59709e37fd25d2bf9]
+#### 19. Supplier obligation[^c-852c7d5c41f880a59709e37fd25d2bf9]
 
 (1) Revenue regulations must make provision for electricity suppliers to pay a revenue collection counterparty for the purpose of enabling the counterparty to make payments under revenue collection contracts.
 
@@ -556,7 +556,7 @@ as may be specified in the regulations.
 
 may be recovered from the electricity supplier by the revenue collection counterparty as a civil debt due to it.
 
-#### 20. Payments to electricity suppliers[^key-875ff69e3f49058c4673e283fd4b1a5b]
+#### 20. Payments to electricity suppliers[^c-875ff69e3f49058c4673e283fd4b1a5b]
 
 (1) Revenue regulations may make provision about the amounts that must be paid by a revenue collection counterparty to electricity suppliers.
 
@@ -570,7 +570,7 @@ may be recovered from the electricity supplier by the revenue collection counter
 
   as may be specified in the regulations.
 
-#### 21. Application of sums held by a revenue collection counterparty[^key-3fdbd039fe59f671ad21ea0d6bfdb29d]
+#### 21. Application of sums held by a revenue collection counterparty[^c-3fdbd039fe59f671ad21ea0d6bfdb29d]
 
 (1) Revenue regulations may make provision for apportioning sums—
 
@@ -587,7 +587,7 @@ in circumstances where the revenue collection counterparty is unable to fully me
 
 (5) The provision that may be made by virtue of subsection (4) includes provision that sums are to be paid, or not to be paid, into the Consolidated Fund.
 
-#### 22. Enforcement[^key-80d1e7e0ecdbd0be15ee773fd1b4d44b]
+#### 22. Enforcement[^c-80d1e7e0ecdbd0be15ee773fd1b4d44b]
 
 (1) Revenue regulations may make provision for requirements under the regulations to be enforceable by the Authority as if they were relevant requirements imposed on a regulated person for the purposes of section 25 of the Electricity Act 1989.
 
@@ -595,7 +595,7 @@ in circumstances where the revenue collection counterparty is unable to fully me
 
 ### Information and advice
 
-#### 23. Information and advice[^key-7a96bce7341563487c3dcb5875103662]
+#### 23. Information and advice[^c-7a96bce7341563487c3dcb5875103662]
 
 (1) Revenue regulations may make provision about the provision and publication of information and advice.
 
@@ -610,13 +610,13 @@ in circumstances where the revenue collection counterparty is unable to fully me
 - (g) for the classification and protection of confidential or sensitive information;
 - (h) for the enforcement of any requirement imposed by virtue of paragraphs (a) to (g).
 
-#### 24. Functions of the Authority[^key-b882c9c8bdec7638bbdcce741bca0a67]
+#### 24. Functions of the Authority[^c-b882c9c8bdec7638bbdcce741bca0a67]
 
 Revenue regulations may make provision conferring functions on the Authority for the purpose of offering advice to, or making determinations on behalf of, a party to a revenue collection contract.
 
 ### Consultation
 
-#### 25. Consultation[^key-1eae4a042a73ccce822e8652169d21d7]
+#### 25. Consultation[^c-1eae4a042a73ccce822e8652169d21d7]
 
 (1) Before making revenue regulations, the Secretary of State must consult—
 
@@ -633,7 +633,7 @@ Revenue regulations may make provision conferring functions on the Authority for
 
 ### Transfer schemes
 
-#### 26. Revenue collection counterparties: transfer schemes[^key-309381cde8908d060d42e9a7be07a2fd]
+#### 26. Revenue collection counterparties: transfer schemes[^c-309381cde8908d060d42e9a7be07a2fd]
 
 (1) The Secretary of State may make one or more schemes for the transfer of designated property, rights or liabilities of a person who has ceased to be a revenue collection counterparty (“**the transferor**”) to a person who is a revenue collection counterparty (“**the transferee**”).
 
@@ -682,7 +682,7 @@ Revenue regulations may make provision conferring functions on the Authority for
 - “**property**” includes interests of any description;
 - “**the transfer date**” means a date specified by a scheme as the date on which the scheme is to have effect.
 
-#### 27. Modification of transfer schemes[^key-1bb4073d1feb4ae6a204d2372bbe46c8]
+#### 27. Modification of transfer schemes[^c-1bb4073d1feb4ae6a204d2372bbe46c8]
 
 (1) The Secretary of State may modify a transfer scheme made under section 26, subject to subsection (2).
 
@@ -692,7 +692,7 @@ Revenue regulations may make provision conferring functions on the Authority for
 
 ### Miscellaneous and interpretation
 
-#### 28. Shadow directors, etc[^key-6152748aa8099d1b0e38e81993f985d0]
+#### 28. Shadow directors, etc[^c-6152748aa8099d1b0e38e81993f985d0]
 
 The Secretary of State is not, by virtue of the exercise of a power conferred by or by virtue of this Part, to be regarded as—
 
@@ -701,7 +701,7 @@ The Secretary of State is not, by virtue of the exercise of a power conferred by
 - (c) exercising any function of management in a revenue collection counterparty;
 - (d) a principal of a revenue collection counterparty.
 
-#### 29. Licence modifications[^key-4d3cd08f3fd5184a4acc1d73f52bdcdb]
+#### 29. Licence modifications[^c-4d3cd08f3fd5184a4acc1d73f52bdcdb]
 
 (1) The Secretary of State may modify—
 
@@ -750,7 +750,7 @@ The Secretary of State is not, by virtue of the exercise of a power conferred by
 
 (11) The power conferred by subsection (1) to “**modify**” (in relation to licence conditions or a document or agreement) includes power to amend, add to or remove, and references to modifications are to be construed accordingly.
 
-#### 30. Interpretation of Part 2[^key-564344dada742dc4accfe41fad6d1ac2]
+#### 30. Interpretation of Part 2[^c-564344dada742dc4accfe41fad6d1ac2]
 
 In this Part—
 
@@ -766,7 +766,7 @@ In this Part—
 
 ### Relevant licensee nuclear company administration orders
 
-#### 31. Relevant licensee nuclear company administration orders[^key-98e75406b2e5becfed2d10ff3a9d9ff1][^key-86c469e5bcec2666e6bd72c7698e222a]
+#### 31. Relevant licensee nuclear company administration orders[^c-98e75406b2e5becfed2d10ff3a9d9ff1][^c-86c469e5bcec2666e6bd72c7698e222a]
 
 (1) A relevant licensee nuclear company administration order (referred to in this Part as an “**RLNC administration order**”)  means an order which—
 
@@ -782,7 +782,7 @@ In this Part—
 - “**relevant licence**”, in relation to a relevant licensee nuclear company, means the company’s electricity generation licence (within the meaning of Part 1);
 - “**relevant licensee nuclear company**” has the same meaning as in Part 1.
 
-#### 32. Objective of a relevant licensee nuclear company administration[^key-223fb4c1e679e3c15d273bfbe2f2fe1e][^key-01e540a7a01c796c31693d1019f93f79]
+#### 32. Objective of a relevant licensee nuclear company administration[^c-223fb4c1e679e3c15d273bfbe2f2fe1e][^c-01e540a7a01c796c31693d1019f93f79]
 
 (1) The objective of a relevant licensee nuclear company administration is to secure—
 
@@ -817,7 +817,7 @@ of so much of that undertaking as it is appropriate to transfer for the purpose 
 
 ### Application and amendment of the Energy Act 2004
 
-#### 33. Application of certain provisions of the Energy Act 2004[^key-56b2b7d02939a841b91924cad0aa6b2c][^key-83367d468df5f6c3c5653c1ec2c179b1]
+#### 33. Application of certain provisions of the Energy Act 2004[^c-56b2b7d02939a841b91924cad0aa6b2c][^c-83367d468df5f6c3c5653c1ec2c179b1]
 
 (1) Sections 156 to 167 of, and Schedules 20 and 21 to, the Energy Act 2004 (special administration regime for energy licensees) apply in relation to an RLNC administration order as they apply in relation to an energy administration order within the meaning given by section 154(1) of that Act, but with the modifications set out in subsections (2) to (5).
 
@@ -903,13 +903,13 @@ of so much of that undertaking as it is appropriate to transfer for the purpose 
   ;
 - (f) omit the definition of “unregistered company”.
 
-#### 34. Conduct of administration, transfer schemes, etc[^key-70eec457302f387fcfeee0e9cebcf2a0][^key-17d3861352c56b8f2535a1cccd60f49a]
+#### 34. Conduct of administration, transfer schemes, etc[^c-70eec457302f387fcfeee0e9cebcf2a0][^c-17d3861352c56b8f2535a1cccd60f49a]
 
 In section 159(3) of the Energy Act 2004 (conduct of administration, transfer schemes, etc under Chapter 3 of Part 3 of that Act), for “or section 4 of the Smart Meters Act 2018” substitute “, section 4 of the Smart Meters Act 2018 or section 33 of the Nuclear Energy (Financing) Act 2022”.
 
 ### Licence modifications
 
-#### 35. Licence modifications: relevant licensee nuclear company administration[^key-7bdedf8d7b61aabf5a582c2ea8646cee][^key-0484abf2272a97387c7df9ec03c14d0b]
+#### 35. Licence modifications: relevant licensee nuclear company administration[^c-7bdedf8d7b61aabf5a582c2ea8646cee][^c-0484abf2272a97387c7df9ec03c14d0b]
 
 (1) The Secretary of State may modify—
 
@@ -948,7 +948,7 @@ In section 159(3) of the Energy Act 2004 (conduct of administration, transfer sc
 
 (7) References in this section to the activities of a relevant licensee nuclear company are references to the company’s activities in relation to the design, construction, commissioning and operation of the nuclear energy generation project in respect of which it holds a relevant licence, including its activities in complying with any obligations it has under an approved funded decommissioning programme under Chapter 1 of Part 3 of the Energy Act 2008.
 
-#### 36. Procedure etc relating to modifications under section 35[^key-e0926c651741b2c31b30963e18a75e89][^key-04f433610d4210d22ee77fc48f8791fb]
+#### 36. Procedure etc relating to modifications under section 35[^c-e0926c651741b2c31b30963e18a75e89][^c-04f433610d4210d22ee77fc48f8791fb]
 
 (1) Before making a modification under a power conferred by section 35(1) or (5), the Secretary of State must consult—
 
@@ -991,13 +991,13 @@ In section 159(3) of the Energy Act 2004 (conduct of administration, transfer sc
 
 ### Powers to modify enactments
 
-#### 37. Modification under the Enterprise Act 2002[^key-2385d7c86fb2b9f7ca689b8f583f19db][^key-de451ab87735435feba6234e0ef775f8]
+#### 37. Modification under the Enterprise Act 2002[^c-2385d7c86fb2b9f7ca689b8f583f19db][^c-de451ab87735435feba6234e0ef775f8]
 
 (1) The power to modify or apply enactments conferred on the Secretary of State by each of sections 248 and 277 of the Enterprise Act 2002 (amendments consequential on that Act) includes power to make such consequential modifications of this Part as the Secretary of State considers appropriate in connection with any other provision made under that section.
 
 (2) In section 170(1) of the Energy Act 2004 (modification of Chapter 3 of Part 3 of that Act under the Enterprise Act 2002), for “or section 4 of the Smart Meters Act 2018” substitute “, section 4 of the Smart Meters Act 2018 or section 33 of the Nuclear Energy (Financing) Act 2022”. 
 
-#### 38. Power to make further modifications of insolvency legislation[^key-41072d9695cffbbed666e9c79e1e2260]
+#### 38. Power to make further modifications of insolvency legislation[^c-41072d9695cffbbed666e9c79e1e2260]
 
 (1) The Secretary of State may by regulations—
 
@@ -1020,7 +1020,7 @@ In section 159(3) of the Energy Act 2004 (conduct of administration, transfer sc
 
 ### Interpretation
 
-#### 39. Interpretation of Part 3[^key-baa80feea4b442a166bd8cd24204845e][^key-e6ca8d1ebac8c9341902ce9292035132]
+#### 39. Interpretation of Part 3[^c-baa80feea4b442a166bd8cd24204845e][^c-e6ca8d1ebac8c9341902ce9292035132]
 
 (1) In this Part—
 
@@ -1046,7 +1046,7 @@ In section 159(3) of the Energy Act 2004 (conduct of administration, transfer sc
 
 ## PART 4 — Miscellaneous and final provisions
 
-### 40. Decommissioning of nuclear sites: bodies corporate not “associated”[^key-20b5adf437f8f7e10e1ed8c0ca7af69b]
+### 40. Decommissioning of nuclear sites: bodies corporate not “associated”[^c-20b5adf437f8f7e10e1ed8c0ca7af69b]
 
 *Extent: E+W+N.I.*
 
@@ -1092,7 +1092,7 @@ In section 159(3) of the Energy Act 2004 (conduct of administration, transfer sc
 >   - (ii) another person acquiring shares in B to hold on trust for A;
 > - (d) a reference to rights includes a reference to powers.
 
-### 41. Financial provision[^key-281570174389899474623312792d0d68]
+### 41. Financial provision[^c-281570174389899474623312792d0d68]
 
 (1) There is to be paid out of money provided by Parliament—
 
@@ -1116,13 +1116,13 @@ In section 159(3) of the Energy Act 2004 (conduct of administration, transfer sc
 - “**relevant licensee nuclear company**” has the same meaning as in Part 1;
 - “**revenue collection counterparty**” has the same meaning as in Part 2.
 
-### 42. Minor and consequential provision[^key-9188cceffc8d63d872c8bef24ee69a6c]
+### 42. Minor and consequential provision[^c-9188cceffc8d63d872c8bef24ee69a6c]
 
 *Extent: E+W+S*
 
 The Schedule contains minor and consequential provision.
 
-### 43. Extent[^key-a8ead5f61eb6c7cce8796ce23397caef]
+### 43. Extent[^c-a8ead5f61eb6c7cce8796ce23397caef]
 
 (1) The following provisions extend to England and Wales and Scotland—
 
@@ -1136,7 +1136,7 @@ The Schedule contains minor and consequential provision.
 - (a) section 41;
 - (b) this section and sections 44 and 45.
 
-### 44. Commencement[^key-e542cb731cb2b514ddfb4252e4e1e7b4]
+### 44. Commencement[^c-e542cb731cb2b514ddfb4252e4e1e7b4]
 
 (1) The following provisions come into force on the day on which this Act is passed—
 
@@ -1153,7 +1153,7 @@ The Schedule contains minor and consequential provision.
 - (c) Part 3 (except as mentioned in subsection (1)(c));
 - (d) section 42 (including the Schedule).
 
-### 45. Short title[^key-885a56c19a5c46aadfbc4a9b45ff2744]
+### 45. Short title[^c-885a56c19a5c46aadfbc4a9b45ff2744]
 
 This Act may be cited as the Nuclear Energy (Financing) Act 2022.
 
@@ -1163,7 +1163,7 @@ This Act may be cited as the Nuclear Energy (Financing) Act 2022.
 
 Section 42
 
-### 1. Electricity Act 1989[^key-4d3aae2ed0402cb0f967bd89db695f69]
+### 1. Electricity Act 1989[^c-4d3aae2ed0402cb0f967bd89db695f69]
 
 (1) The Electricity Act 1989 is amended as follows.
 
@@ -1178,7 +1178,7 @@ Section 42
   ;
 - (b) in subsection (7), for “or (6B)” substitute “, (6B) or (6D)”.
 
-### 2. Utilities Act 2000[^key-ce2ed04cf6e639c4ae05c47dd344e83e]
+### 2. Utilities Act 2000[^c-ce2ed04cf6e639c4ae05c47dd344e83e]
 
 (1) The Utilities Act 2000 is amended as follows.
 
@@ -1200,7 +1200,7 @@ Section 42
 
   .
 
-### 3. Energy Act 2004[^key-9b4d4aa60f9cff341a408e19d08477e9]
+### 3. Energy Act 2004[^c-9b4d4aa60f9cff341a408e19d08477e9]
 
 In section 137 of the Energy Act 2004 (new standard conditions for transmission licences), in subsection (3)—
 
@@ -1213,7 +1213,7 @@ In section 137 of the Energy Act 2004 (new standard conditions for transmission 
 
   .
 
-### 4. Consequential repeals[^key-dab940477339006aa2021bb096aa0ed6]
+### 4. Consequential repeals[^c-dab940477339006aa2021bb096aa0ed6]
 
 The following provisions are repealed—
 
@@ -1222,116 +1222,116 @@ The following provisions are repealed—
 
 ## Annotations
 
-[^key-2e8353c3fb83662af45619a225a4cf67]: Commencement: S. 1 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
+[^c-2e8353c3fb83662af45619a225a4cf67]: Commencement: S. 1 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
 
-[^key-0c709ba6fa2c4669844673f4e4aa8516]: Commencement: S. 2 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
+[^c-0c709ba6fa2c4669844673f4e4aa8516]: Commencement: S. 2 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
 
-[^key-140a19cc806d1218897f69f8606c41b3]: Commencement: S. 3 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
+[^c-140a19cc806d1218897f69f8606c41b3]: Commencement: S. 3 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
 
-[^key-dd8a5413e1dbbf7688677a07e8634181]: Commencement: S. 4 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
+[^c-dd8a5413e1dbbf7688677a07e8634181]: Commencement: S. 4 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
 
-[^key-c2a5461f2ad46fc0bcbdc31f8a91e8bc]: Commencement: S. 5 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
+[^c-c2a5461f2ad46fc0bcbdc31f8a91e8bc]: Commencement: S. 5 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
 
-[^key-b24c886b62dbc5bddcc0b5f68dc5d6e8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/15/section/6) in force at 1.6.2022, see [s. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/a)
+[^c-b24c886b62dbc5bddcc0b5f68dc5d6e8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/15/section/6) in force at 1.6.2022, see [s. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/a)
 
-[^key-68fcba420438115a51c83c372c62f770]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/15/section/7) in force at 1.6.2022, see [s. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/a)
+[^c-68fcba420438115a51c83c372c62f770]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/15/section/7) in force at 1.6.2022, see [s. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/a)
 
-[^key-c667d35b9f288ae18741ea4687cb188a]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/15/section/8) in force at 1.6.2022, see [s. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/a)
+[^c-c667d35b9f288ae18741ea4687cb188a]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/15/section/8) in force at 1.6.2022, see [s. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/a)
 
-[^key-7de477e2c82320614906969249d3af50]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/15/section/9) in force at 1.6.2022, see [s. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/a)
+[^c-7de477e2c82320614906969249d3af50]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/15/section/9) in force at 1.6.2022, see [s. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/a)
 
-[^key-7f9fd99e6df041e16d82b5e6dfc94bae]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/15/section/10) in force at 1.6.2022, see [s. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/a)
+[^c-7f9fd99e6df041e16d82b5e6dfc94bae]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/15/section/10) in force at 1.6.2022, see [s. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/a)
 
-[^key-11713337b405553fca217e055048ff14]: Commencement: S. 11 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
+[^c-11713337b405553fca217e055048ff14]: Commencement: S. 11 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
 
-[^key-9ebe35dfe7e703013dba924281f7ab38]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/15/section/12) in force at 1.6.2022, see [s. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/a)
+[^c-9ebe35dfe7e703013dba924281f7ab38]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/15/section/12) in force at 1.6.2022, see [s. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/a)
 
-[^key-af466dbbfa961def619474bf25d9dfd5]: Commencement: S. 13 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
+[^c-af466dbbfa961def619474bf25d9dfd5]: Commencement: S. 13 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
 
-[^key-4a0d1a77ac61fcca982d663c35a8a0a9]: Commencement: S. 14 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
+[^c-4a0d1a77ac61fcca982d663c35a8a0a9]: Commencement: S. 14 in force at Royal Assent, see [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/a)
 
-[^key-ddd61f5a0494db00d885a4f8158cfb5d]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/15/section/15) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
+[^c-ddd61f5a0494db00d885a4f8158cfb5d]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/15/section/15) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
 
-[^key-e5b08658e32f32792fe7f01274de3328]: Commencement: S. 16 in force at Royal Assent, see [s. 44(1)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/b)
+[^c-e5b08658e32f32792fe7f01274de3328]: Commencement: S. 16 in force at Royal Assent, see [s. 44(1)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/b)
 
-[^key-2ea18ee21aaab1fab0e5af002be78c2f]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/15/section/17) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
+[^c-2ea18ee21aaab1fab0e5af002be78c2f]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/15/section/17) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
 
-[^key-da34bb6b5c30b9748c9bb556b0945cc9]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/15/section/18) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
+[^c-da34bb6b5c30b9748c9bb556b0945cc9]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/15/section/18) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
 
-[^key-852c7d5c41f880a59709e37fd25d2bf9]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/15/section/19) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
+[^c-852c7d5c41f880a59709e37fd25d2bf9]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/15/section/19) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
 
-[^key-875ff69e3f49058c4673e283fd4b1a5b]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/15/section/20) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
+[^c-875ff69e3f49058c4673e283fd4b1a5b]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/15/section/20) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
 
-[^key-3fdbd039fe59f671ad21ea0d6bfdb29d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/15/section/21) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
+[^c-3fdbd039fe59f671ad21ea0d6bfdb29d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/15/section/21) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
 
-[^key-80d1e7e0ecdbd0be15ee773fd1b4d44b]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/15/section/22) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
+[^c-80d1e7e0ecdbd0be15ee773fd1b4d44b]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/15/section/22) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
 
-[^key-7a96bce7341563487c3dcb5875103662]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/15/section/23) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
+[^c-7a96bce7341563487c3dcb5875103662]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/15/section/23) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
 
-[^key-b882c9c8bdec7638bbdcce741bca0a67]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/15/section/24) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
+[^c-b882c9c8bdec7638bbdcce741bca0a67]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/15/section/24) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
 
-[^key-1eae4a042a73ccce822e8652169d21d7]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/15/section/25) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
+[^c-1eae4a042a73ccce822e8652169d21d7]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/15/section/25) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
 
-[^key-309381cde8908d060d42e9a7be07a2fd]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/15/section/26) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
+[^c-309381cde8908d060d42e9a7be07a2fd]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/15/section/26) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
 
-[^key-1bb4073d1feb4ae6a204d2372bbe46c8]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/15/section/27) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
+[^c-1bb4073d1feb4ae6a204d2372bbe46c8]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/15/section/27) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
 
-[^key-6152748aa8099d1b0e38e81993f985d0]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/15/section/28) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
+[^c-6152748aa8099d1b0e38e81993f985d0]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/15/section/28) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
 
-[^key-4d3cd08f3fd5184a4acc1d73f52bdcdb]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/15/section/29) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
+[^c-4d3cd08f3fd5184a4acc1d73f52bdcdb]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/15/section/29) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
 
-[^key-564344dada742dc4accfe41fad6d1ac2]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2022/15/section/30) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
+[^c-564344dada742dc4accfe41fad6d1ac2]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2022/15/section/30) in force at 1.6.2022, see [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/b)
 
-[^key-98e75406b2e5becfed2d10ff3a9d9ff1]: Commencement: S. 31 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
+[^c-98e75406b2e5becfed2d10ff3a9d9ff1]: Commencement: S. 31 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
 
-[^key-86c469e5bcec2666e6bd72c7698e222a]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/15/section/31) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
+[^c-86c469e5bcec2666e6bd72c7698e222a]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/15/section/31) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
 
-[^key-223fb4c1e679e3c15d273bfbe2f2fe1e]: Commencement: S. 32 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
+[^c-223fb4c1e679e3c15d273bfbe2f2fe1e]: Commencement: S. 32 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
 
-[^key-01e540a7a01c796c31693d1019f93f79]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/15/section/32) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
+[^c-01e540a7a01c796c31693d1019f93f79]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/15/section/32) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
 
-[^key-56b2b7d02939a841b91924cad0aa6b2c]: Commencement: S. 33 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
+[^c-56b2b7d02939a841b91924cad0aa6b2c]: Commencement: S. 33 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
 
-[^key-83367d468df5f6c3c5653c1ec2c179b1]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/15/section/33) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
+[^c-83367d468df5f6c3c5653c1ec2c179b1]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/15/section/33) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
 
-[^key-70eec457302f387fcfeee0e9cebcf2a0]: Commencement: S. 34 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
+[^c-70eec457302f387fcfeee0e9cebcf2a0]: Commencement: S. 34 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
 
-[^key-17d3861352c56b8f2535a1cccd60f49a]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/15/section/34) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
+[^c-17d3861352c56b8f2535a1cccd60f49a]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/15/section/34) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
 
-[^key-7bdedf8d7b61aabf5a582c2ea8646cee]: Commencement: S. 35 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
+[^c-7bdedf8d7b61aabf5a582c2ea8646cee]: Commencement: S. 35 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
 
-[^key-0484abf2272a97387c7df9ec03c14d0b]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/15/section/35) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
+[^c-0484abf2272a97387c7df9ec03c14d0b]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/15/section/35) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
 
-[^key-e0926c651741b2c31b30963e18a75e89]: Commencement: S. 36 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
+[^c-e0926c651741b2c31b30963e18a75e89]: Commencement: S. 36 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
 
-[^key-04f433610d4210d22ee77fc48f8791fb]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/15/section/36) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
+[^c-04f433610d4210d22ee77fc48f8791fb]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/15/section/36) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
 
-[^key-2385d7c86fb2b9f7ca689b8f583f19db]: Commencement: S. 37 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
+[^c-2385d7c86fb2b9f7ca689b8f583f19db]: Commencement: S. 37 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
 
-[^key-de451ab87735435feba6234e0ef775f8]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/15/section/37) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
+[^c-de451ab87735435feba6234e0ef775f8]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/15/section/37) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
 
-[^key-41072d9695cffbbed666e9c79e1e2260]: Commencement: S. 38 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
+[^c-41072d9695cffbbed666e9c79e1e2260]: Commencement: S. 38 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
 
-[^key-baa80feea4b442a166bd8cd24204845e]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
+[^c-baa80feea4b442a166bd8cd24204845e]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)
 
-[^key-e6ca8d1ebac8c9341902ce9292035132]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/15/section/39) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
+[^c-e6ca8d1ebac8c9341902ce9292035132]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/15/section/39) in force at 1.6.2022 in so far as not already in force, see [s. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
 
-[^key-20b5adf437f8f7e10e1ed8c0ca7af69b]: Commencement: S. 40 in force at Royal Assent, see [s. 44(1)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/d)
+[^c-20b5adf437f8f7e10e1ed8c0ca7af69b]: Commencement: S. 40 in force at Royal Assent, see [s. 44(1)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/d)
 
-[^key-281570174389899474623312792d0d68]: Commencement: S. 41 in force at Royal Assent, see [s. 44](https://www.legislation.gov.uk/ukpga/2022/15/section/44))(1)(e)
+[^c-281570174389899474623312792d0d68]: Commencement: S. 41 in force at Royal Assent, see [s. 44](https://www.legislation.gov.uk/ukpga/2022/15/section/44))(1)(e)
 
-[^key-9188cceffc8d63d872c8bef24ee69a6c]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/15/section/42) in force at 1.6.2022, see [s. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/d)
+[^c-9188cceffc8d63d872c8bef24ee69a6c]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/15/section/42) in force at 1.6.2022, see [s. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/d)
 
-[^key-a8ead5f61eb6c7cce8796ce23397caef]: Commencement: S. 43 in force at Royal Assent, see [s. 44(1)(e)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/e)
+[^c-a8ead5f61eb6c7cce8796ce23397caef]: Commencement: S. 43 in force at Royal Assent, see [s. 44(1)(e)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/e)
 
-[^key-e542cb731cb2b514ddfb4252e4e1e7b4]: Commencement: S. 44 in force at Royal Assent, see [s. 44(1)(e)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/e)
+[^c-e542cb731cb2b514ddfb4252e4e1e7b4]: Commencement: S. 44 in force at Royal Assent, see [s. 44(1)(e)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/e)
 
-[^key-885a56c19a5c46aadfbc4a9b45ff2744]: Commencement: S. 45 in force at Royal Assent, see [s. 44(1)(e)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/e)
+[^c-885a56c19a5c46aadfbc4a9b45ff2744]: Commencement: S. 45 in force at Royal Assent, see [s. 44(1)(e)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/e)
 
-[^key-4d3aae2ed0402cb0f967bd89db695f69]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2022/15/schedule/paragraph/1) in force at 1.6.2022, see [s. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/d)
+[^c-4d3aae2ed0402cb0f967bd89db695f69]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2022/15/schedule/paragraph/1) in force at 1.6.2022, see [s. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/d)
 
-[^key-ce2ed04cf6e639c4ae05c47dd344e83e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2022/15/schedule/paragraph/2) in force at 1.6.2022, see [s. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/d)
+[^c-ce2ed04cf6e639c4ae05c47dd344e83e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2022/15/schedule/paragraph/2) in force at 1.6.2022, see [s. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/d)
 
-[^key-9b4d4aa60f9cff341a408e19d08477e9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2022/15/schedule/paragraph/3) in force at 1.6.2022, see [s. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/d)
+[^c-9b4d4aa60f9cff341a408e19d08477e9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2022/15/schedule/paragraph/3) in force at 1.6.2022, see [s. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/d)
 
-[^key-dab940477339006aa2021bb096aa0ed6]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2022/15/schedule/paragraph/4) in force at 1.6.2022, see [s. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/d)
+[^c-dab940477339006aa2021bb096aa0ed6]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2022/15/schedule/paragraph/4) in force at 1.6.2022, see [s. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 109. Instruction, lectures, etc., on questions relating to the functions of councils.[^c20367751][^c20720671][^key-fd6e23f25e97c0732bf49032858203fa][^key-d1bb2b5e6d0a99de7a859e7b40b6f7ae]
+## 109. Instruction, lectures, etc., on questions relating to the functions of councils.[^c20367751][^c20720671][^c-fd6e23f25e97c0732bf49032858203fa][^c-d1bb2b5e6d0a99de7a859e7b40b6f7ae]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ A council shall take such steps as it considers necessary or expedient to arrang
 
 [^c20720671]: Modification: [S. 109](https://www.legislation.gov.uk/apni/1972/9/section/109) applied (20.8.2008) by [Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2008 (S.R. 2008/310)](https://www.legislation.gov.uk/nisr/2008/310), [art. 7](https://www.legislation.gov.uk/nisr/2008/310/article/7)
 
-[^key-fd6e23f25e97c0732bf49032858203fa]: Modification: [S. 109](https://www.legislation.gov.uk/apni/1972/9/section/109) applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [6](https://www.legislation.gov.uk/nisr/2012/10/article/6)
+[^c-fd6e23f25e97c0732bf49032858203fa]: Modification: [S. 109](https://www.legislation.gov.uk/apni/1972/9/section/109) applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [6](https://www.legislation.gov.uk/nisr/2012/10/article/6)
 
-[^key-d1bb2b5e6d0a99de7a859e7b40b6f7ae]: Modification: [S. 109](https://www.legislation.gov.uk/apni/1972/9/section/109) applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [art. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [reg. 6](https://www.legislation.gov.uk/nisr/2015/183/regulation/6)
+[^c-d1bb2b5e6d0a99de7a859e7b40b6f7ae]: Modification: [S. 109](https://www.legislation.gov.uk/apni/1972/9/section/109) applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [art. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [reg. 6](https://www.legislation.gov.uk/nisr/2015/183/regulation/6)

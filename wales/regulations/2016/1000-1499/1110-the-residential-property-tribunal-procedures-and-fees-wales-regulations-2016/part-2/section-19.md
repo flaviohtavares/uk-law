@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Failure to comply with an order to supply information and documents[^key-9c22e906cd2cc562e4ec2bc615365a08]
+## 19. Failure to comply with an order to supply information and documents[^c-9c22e906cd2cc562e4ec2bc615365a08]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where a party has failed to comply with an order made under regulation 18(1), (2
 
 ## Annotations
 
-[^key-9c22e906cd2cc562e4ec2bc615365a08]: Commencement: Reg. 19 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-9c22e906cd2cc562e4ec2bc615365a08]: Commencement: Reg. 19 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

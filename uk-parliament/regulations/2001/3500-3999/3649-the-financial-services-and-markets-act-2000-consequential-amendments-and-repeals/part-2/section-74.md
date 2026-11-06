@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Repeal of spent provisions[^key-1b2bb5fceb50032c7d7f85341c91e579]
+## 74. Repeal of spent provisions[^c-1b2bb5fceb50032c7d7f85341c91e579]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ The following provisions of the Companies Consolidation (Consequential Provision
 
 ## Annotations
 
-[^key-1b2bb5fceb50032c7d7f85341c91e579]: Commencement: Art. 74 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1b2bb5fceb50032c7d7f85341c91e579]: Commencement: Art. 74 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

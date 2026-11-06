@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Administrator’s proposals[^key-8cbececfca3a026ea79b32aa2c5f16c1]
+## 59. Administrator’s proposals[^c-8cbececfca3a026ea79b32aa2c5f16c1]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 - (o) an estimate of the value of the prescribed part for the purposes of section 176A (unless the investment bank intends to propose a company voluntary arrangement) certified as being made to the best of the administrator’s knowledge and belief;
 - (p) an estimate of the value of the investment bank’s net property (unless the administrator intends to propose a company voluntary arrangement) certified as being made to the best of the administrator’s knowledge and belief;
 - (q) in—
-  - (i) a special administration, an explanation of the priority that has been given since the commencement of special administration to the special administration objectives (and where the FCA or, where relevant, the PRA[^key-4d768335035ac6c074fa5d80e6c8d9a6] has given a direction under regulation 16, an explanation as to how this has dictated the priority given to a particular objective), and
+  - (i) a special administration, an explanation of the priority that has been given since the commencement of special administration to the special administration objectives (and where the FCA or, where relevant, the PRA[^c-4d768335035ac6c074fa5d80e6c8d9a6] has given a direction under regulation 16, an explanation as to how this has dictated the priority given to a particular objective), and
   - (ii) a special administration (bank insolvency) or a special administration (bank administration)—
     - (aa) a summary of how Objective A is being or has been achieved and the resources devoted to the pursuit of Objective A; and
     - (bb) an explanation of the priority that has been given since the commencement of special administration to the special administration objectives (and where the FCA or, where relevant, the PRA has given a direction under regulation 16, an explanation as to how this has dictated the priority given to a particular objective);
@@ -93,8 +93,8 @@ summary: ''
 (7) Following an application by the administrator under paragraph 107, where the court orders an extension of the period of time in paragraph 49(5), the administrator shall notify—
 
 - (a) every creditor of the investment bank of whose address the administrator is aware;
-- (b) every client of the investment bank of whose claim the administrator is aware and has a means of contacting; [^key-7a0615f1dc45ee7b8180197b53337322]...
-- (c)[^key-ee5a307de12d9b133e3d60ed7a57c202] the FCA; and
+- (b) every client of the investment bank of whose claim the administrator is aware and has a means of contacting; [^c-7a0615f1dc45ee7b8180197b53337322]...
+- (c)[^c-ee5a307de12d9b133e3d60ed7a57c202] the FCA; and
 - (d) if the application relates to a PRA-authorised person, the PRA,
 
 as soon as possible after the order is made.
@@ -110,10 +110,10 @@ as soon as possible after the order is made.
 
 ## Annotations
 
-[^key-8cbececfca3a026ea79b32aa2c5f16c1]: Commencement: [Rule 59](https://www.legislation.gov.uk/uksi/2011/1301/rule/59) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-8cbececfca3a026ea79b32aa2c5f16c1]: Commencement: [Rule 59](https://www.legislation.gov.uk/uksi/2011/1301/rule/59) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-4d768335035ac6c074fa5d80e6c8d9a6]: Textual amendment: Words in [art. 59(2)(q)](https://www.legislation.gov.uk/uksi/2011/1301/article/59/2/q) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(viii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/viii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-4d768335035ac6c074fa5d80e6c8d9a6]: Textual amendment: Words in [art. 59(2)(q)](https://www.legislation.gov.uk/uksi/2011/1301/article/59/2/q) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(viii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/viii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
 
-[^key-7a0615f1dc45ee7b8180197b53337322]: Textual amendment: Word in [art. 59(7)(b)](https://www.legislation.gov.uk/uksi/2011/1301/article/59/7/b) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(o)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/o/i) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-7a0615f1dc45ee7b8180197b53337322]: Textual amendment: Word in [art. 59(7)(b)](https://www.legislation.gov.uk/uksi/2011/1301/article/59/7/b) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(o)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/o/i) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
 
-[^key-ee5a307de12d9b133e3d60ed7a57c202]: Textual amendment: [Art. 59(7)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/59/7/c)[(d)](https://www.legislation.gov.uk/uksi/2011/1301/article/59/7/d) substituted for [art. 59(7)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/59/7/c) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(o)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/o/ii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-ee5a307de12d9b133e3d60ed7a57c202]: Textual amendment: [Art. 59(7)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/59/7/c)[(d)](https://www.legislation.gov.uk/uksi/2011/1301/article/59/7/d) substituted for [art. 59(7)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/59/7/c) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(o)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/o/ii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

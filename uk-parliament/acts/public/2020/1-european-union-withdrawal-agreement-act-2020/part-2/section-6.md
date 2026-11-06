@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. General implementation of related EEA EFTA and Swiss agreements[^key-d9d42a8f285581d3d59c154caa7355ba]
+## 6. General implementation of related EEA EFTA and Swiss agreements[^c-d9d42a8f285581d3d59c154caa7355ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ After section 7A of the European Union (Withdrawal) Act 2018 (general implementa
 
 ## Annotations
 
-[^key-d9d42a8f285581d3d59c154caa7355ba]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2020/1/section/6) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/d)
+[^c-d9d42a8f285581d3d59c154caa7355ba]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2020/1/section/6) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/d)

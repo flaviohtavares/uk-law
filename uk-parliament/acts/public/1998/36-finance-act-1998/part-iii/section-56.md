@@ -37,7 +37,7 @@ summary: ''
   - (i) is deemed by virtue of subsection (2)(b) above to have been set up and commenced; or
   - (ii) (where sub-paragraph (i) above does not apply) is actually set up and commenced in the year 1998-99.
 
-(4) Where this subsection applies then, notwithstanding the deemed discontinuance, the old trade and the new trade shall be treated as the same for the purposes of section 83 of the Income Tax Act 2007[^key-eee05edc0cc108e813cb0686c6e4208b] (carry-forward of losses against subsequent profits).
+(4) Where this subsection applies then, notwithstanding the deemed discontinuance, the old trade and the new trade shall be treated as the same for the purposes of section 83 of the Income Tax Act 2007[^c-eee05edc0cc108e813cb0686c6e4208b] (carry-forward of losses against subsequent profits).
 
 (5) An officer of the Board shall not become entitled by virtue of anything in this section to give a direction under paragraph 3(2) of Schedule 20 to the [^c16420741]Finance Act 1994 (power to revise assessment so that made on the actual basis) in the case of a person whose trade is deemed under subsection (2) above to cease on 5th April 1998.
 
@@ -48,18 +48,18 @@ summary: ''
 - (a) if it relates to a trade carried on by an individual, must be included in a return under section 8 of the [^c16420751]Taxes Management Act 1970 which is made and delivered in that individual’s case on or before the day on which it is required to be made and delivered under that section; and
 - (b) if it relates to a trade carried on by persons in partnership, must be included in a return under section 12AA of that Act which is made and delivered in the partners’ case, or in the case of any one or more of them, on or before the day specified in relation to that return under subsection (2) or (3) of that section.
 
-(8) In this section “**construction trade**” means a trade consisting in or including the rendering of services under contracts relating to construction operations (within the meaning of section 74 of the Finance Act 2004[^key-16c6d98e3994bd7ddb2c7ff1c81d26c8]).
+(8) In this section “**construction trade**” means a trade consisting in or including the rendering of services under contracts relating to construction operations (within the meaning of section 74 of the Finance Act 2004[^c-16c6d98e3994bd7ddb2c7ff1c81d26c8]).
 
 (9) Where at any time on or after 17th March 1998 and before the day on which this Act is passed any election corresponding to an election under subsection (6) above has been made under a resolution of the House of Commons having effect in accordance with the provisions of the [^c16420761]Provisional Collection of Taxes Act 1968, this section has effect, on and after the day on which this Act is passed, as if that election were an election under subsection (6) above.
 
 ## Annotations
 
-[^key-eee05edc0cc108e813cb0686c6e4208b]: Textual amendment: Words in [s. 56(4)](https://www.legislation.gov.uk/ukpga/1998/36/section/56/4) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 381](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/381) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-eee05edc0cc108e813cb0686c6e4208b]: Textual amendment: Words in [s. 56(4)](https://www.legislation.gov.uk/ukpga/1998/36/section/56/4) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 381](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/381) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c16420741]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
 [^c16420751]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-16c6d98e3994bd7ddb2c7ff1c81d26c8]: Textual amendment: Words in s. 56(8) substituted (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 12 para. 15(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/12/paragraph/15/2)
+[^c-16c6d98e3994bd7ddb2c7ff1c81d26c8]: Textual amendment: Words in s. 56(8) substituted (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 12 para. 15(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/12/paragraph/15/2)
 
 [^c16420761]: Marginal citation: [1968 c. 2](https://www.legislation.gov.uk/ukpga/1968/2).

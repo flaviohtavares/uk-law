@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Objections[^key-3358a7c2efe527bdf0678fedb603b5d4]
+## 69. Objections[^c-3358a7c2efe527bdf0678fedb603b5d4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3358a7c2efe527bdf0678fedb603b5d4]: Commencement: S. 69 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(c)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/c)
+[^c-3358a7c2efe527bdf0678fedb603b5d4]: Commencement: S. 69 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(c)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/c)

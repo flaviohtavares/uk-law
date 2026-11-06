@@ -30,8 +30,8 @@ summary: ''
 
 (2) A statement prepared under paragraph (1) shall be revised and published by the Committee following a material change in its policy on any of the matters referred to in that paragraph.
 
-(3)[^key-8ae4c21845f0ef6fd0edd17055ca01ee] A statement under paragraph (1) shall include the terms, structure and operational procedures of the pension board established under regulation 116 (establishment of the pension board).
+(3)[^c-8ae4c21845f0ef6fd0edd17055ca01ee] A statement under paragraph (1) shall include the terms, structure and operational procedures of the pension board established under regulation 116 (establishment of the pension board).
 
 ## Annotations
 
-[^key-8ae4c21845f0ef6fd0edd17055ca01ee]: Textual amendment: [Reg. 62(3)](https://www.legislation.gov.uk/nisr/2014/188/regulation/62/3) inserted (1.4.2015) by [The Local Government Pension Scheme (Governance) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/77)](https://www.legislation.gov.uk/nisr/2015/77), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/77/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2015/77/regulation/3)
+[^c-8ae4c21845f0ef6fd0edd17055ca01ee]: Textual amendment: [Reg. 62(3)](https://www.legislation.gov.uk/nisr/2014/188/regulation/62/3) inserted (1.4.2015) by [The Local Government Pension Scheme (Governance) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/77)](https://www.legislation.gov.uk/nisr/2015/77), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/77/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2015/77/regulation/3)

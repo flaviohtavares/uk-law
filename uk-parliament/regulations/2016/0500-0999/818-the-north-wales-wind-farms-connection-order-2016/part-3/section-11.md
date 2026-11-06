@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Construction and maintenance of new or altered means of access[^key-200cbca9e452df8526c170e5156e235e]
+## 11. Construction and maintenance of new or altered means of access[^c-200cbca9e452df8526c170e5156e235e]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ but for the purposes of such a defence it is not relevant that the undertaker ha
 
 ## Annotations
 
-[^key-200cbca9e452df8526c170e5156e235e]: Commencement: Art. 11 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-200cbca9e452df8526c170e5156e235e]: Commencement: Art. 11 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)

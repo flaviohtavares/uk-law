@@ -31,7 +31,7 @@ summary: ''
 
 Agriculture, Wales
 
-[^key-5d75b013932f403244667bd7816de8c7]The Feed Additives (Authorisations) (Wales) Regulations 2023
+[^c-5d75b013932f403244667bd7816de8c7]The Feed Additives (Authorisations) (Wales) Regulations 2023
 
 Made
 
@@ -49,7 +49,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
 
-## 1. Title, extent, application and coming into force[^key-77d6f27968bff88aefc53ee202b7aa4f]
+## 1. Title, extent, application and coming into force[^c-77d6f27968bff88aefc53ee202b7aa4f]
 
 (1) The title of these Regulations is the Feed Additives (Authorisations) (Wales) Regulations 2023.
 
@@ -59,7 +59,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - (b) apply in relation to Wales;
 - (c) come into force on 22 December 2023.
 
-## 2. Interpretation[^key-4dadf5af0af4c9a71462566cc2ad5b54]
+## 2. Interpretation[^c-4dadf5af0af4c9a71462566cc2ad5b54]
 
 (1) Expressions used in these Regulations and in Regulation 1831/2003 or Regulation 767/2009 have the same meaning as in Regulation 1831/2003 or Regulation 767/2009, respectively.
 
@@ -74,13 +74,13 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - “**Regulation 429/2008**” (“***Rheoliad 429/2008***”) means [Commission Regulation (EC) No 429/2008](https://www.legislation.gov.uk/european/regulation/2008/0429) on detailed rules for the implementation of Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council as regards the preparation and the presentation of applications and the assessment and the authorisation of feed additives[^f00003];
 - “**Regulation 767/2009**” (“***Rheoliad 767/2009***”) means Regulation [(EC) No 767/2009](https://www.legislation.gov.uk/european/regulation/2009/0767) of the European Parliament and of the Council on the placing on the market and use of feed[^f00004].
 
-## 3. Authorisations[^key-5d75b013932f403244667bd7816de8c7]
+## 3. Authorisations[^c-5d75b013932f403244667bd7816de8c7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision: Endo-1,4-beta-xylanase (EC 3.2.1.8) (identification number 4a8i (formerly 4a8))[^key-3bc4d561dc70c857e2161201122038f5]
+## 4. Transitional provision: Endo-1,4-beta-xylanase (EC 3.2.1.8) (identification number 4a8i (formerly 4a8))[^c-3bc4d561dc70c857e2161201122038f5]
 
 (1) The relevant feed additive and premixtures containing it, which are produced and labelled before the end of 21 June 2024 in compliance with the conditions of the prior authorisation and the labelling requirements applicable before 22 December 2023, may continue to be placed on the market and used until stocks are exhausted.
 
@@ -91,19 +91,19 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - “**relevant feed additive**” (“***ychwanegyn bwyd anifeiliaid perthnasol***”) means the feed additive endo-1,4-beta-xylanase (EC 3.2.1.8), with the identification number 4a8, authorised under the prior authorisation[^f00005];
 - “**prior authorisation**” (“***awdurdodiad ymlaen llaw***”) means the authorisation contained in [Commission Regulation (EC) No 902/2009](https://www.legislation.gov.uk/european/regulation/2009/0902) concerning the authorisation of an enzyme preparation of endo-1,4-beta-xylanase produced by *Trichoderma re*esei (CBS 114044) as a feed additive for weaned piglets, chickens for fattening, chickens reared for laying, turkeys for fattening and turkeys reared for breeding (holder of authorisation Roal Oy)[^f00006].
 
-## 5. Amendment of Commission Implementing [Regulation (EU) No601/2013](https://www.legislation.gov.uk/european/regulation/2013/0601)[^key-5d75b013932f403244667bd7816de8c7]
+## 5. Amendment of Commission Implementing [Regulation (EU) No601/2013](https://www.legislation.gov.uk/european/regulation/2013/0601)[^c-5d75b013932f403244667bd7816de8c7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Commission Implementing [Regulation (EU) 2019/221](https://www.legislation.gov.uk/european/regulation/2019/0221)[^key-5d75b013932f403244667bd7816de8c7]
+## 6. Amendment of Commission Implementing [Regulation (EU) 2019/221](https://www.legislation.gov.uk/european/regulation/2019/0221)[^c-5d75b013932f403244667bd7816de8c7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-5d75b013932f403244667bd7816de8c7]
+## 7. Revocations[^c-5d75b013932f403244667bd7816de8c7]
 
 **No longer in force.**
 
@@ -115,7 +115,7 @@ Deputy Minister for Mental Health and Wellbeing, under the authority of the Mini
 
 27 November 2023
 
-## SCHEDULE 1[^key-5d75b013932f403244667bd7816de8c7]
+## SCHEDULE 1[^c-5d75b013932f403244667bd7816de8c7]
 
 **No longer in force.**
 
@@ -123,99 +123,99 @@ Regulation 3(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-5d75b013932f403244667bd7816de8c7]
+## SCHEDULE 2[^c-5d75b013932f403244667bd7816de8c7]
 
 Regulation 3(1)
 
 ...
 
-## SCHEDULE 3[^key-5d75b013932f403244667bd7816de8c7]
+## SCHEDULE 3[^c-5d75b013932f403244667bd7816de8c7]
 
 Regulation 3(1)
 
 ...
 
-## SCHEDULE 4[^key-5d75b013932f403244667bd7816de8c7]
+## SCHEDULE 4[^c-5d75b013932f403244667bd7816de8c7]
 
 Regulation 3(1)
 
 ...
 
-## SCHEDULE 5[^key-5d75b013932f403244667bd7816de8c7]
+## SCHEDULE 5[^c-5d75b013932f403244667bd7816de8c7]
 
 Regulation 3(1)
 
 ...
 
-## SCHEDULE 6[^key-5d75b013932f403244667bd7816de8c7]
+## SCHEDULE 6[^c-5d75b013932f403244667bd7816de8c7]
 
 Regulation 3(1)
 
 ...
 
-## SCHEDULE 7[^key-5d75b013932f403244667bd7816de8c7]
+## SCHEDULE 7[^c-5d75b013932f403244667bd7816de8c7]
 
 Regulation 3(1)
 
 ...
 
-## SCHEDULE 8[^key-5d75b013932f403244667bd7816de8c7]
+## SCHEDULE 8[^c-5d75b013932f403244667bd7816de8c7]
 
 Regulation 3(1)
 
 ...
 
-## SCHEDULE 9[^key-5d75b013932f403244667bd7816de8c7]
+## SCHEDULE 9[^c-5d75b013932f403244667bd7816de8c7]
 
 Regulation 3(1)
 
 ...
 
-## SCHEDULE 10[^key-5d75b013932f403244667bd7816de8c7]
+## SCHEDULE 10[^c-5d75b013932f403244667bd7816de8c7]
 
 Regulation 3(1)
 
 ...
 
-## SCHEDULE 11[^key-5d75b013932f403244667bd7816de8c7]
+## SCHEDULE 11[^c-5d75b013932f403244667bd7816de8c7]
 
 Regulation 3(1)
 
 ...
 
-## SCHEDULE 12[^key-5d75b013932f403244667bd7816de8c7]
+## SCHEDULE 12[^c-5d75b013932f403244667bd7816de8c7]
 
 Regulation 3(1)
 
 ...
 
-## SCHEDULE 13[^key-5d75b013932f403244667bd7816de8c7]
+## SCHEDULE 13[^c-5d75b013932f403244667bd7816de8c7]
 
 Regulation 3(1)
 
 ...
 
-## SCHEDULE 14 — ...[^key-5d75b013932f403244667bd7816de8c7]
+## SCHEDULE 14 — ...[^c-5d75b013932f403244667bd7816de8c7]
 
 Regulation 7
 
 **May not be in force at this date. Check the source.**
 
-[^key-5d75b013932f403244667bd7816de8c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d75b013932f403244667bd7816de8c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5d75b013932f403244667bd7816de8c7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2023/1276) revoked (except for reg. 4 and regs. 1, 2 so far as they relate to reg. 4) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/361/schedule/2) (g) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-5d75b013932f403244667bd7816de8c7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2023/1276) revoked (except for reg. 4 and regs. 1, 2 so far as they relate to reg. 4) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/361/schedule/2) (g) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-77d6f27968bff88aefc53ee202b7aa4f]: Commencement: Reg. 1 in force at 22.12.2023, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/1276/regulation/1/2/c)
+[^c-77d6f27968bff88aefc53ee202b7aa4f]: Commencement: Reg. 1 in force at 22.12.2023, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/1276/regulation/1/2/c)
 
-[^key-4dadf5af0af4c9a71462566cc2ad5b54]: Commencement: Reg. 2 in force at 22.12.2023, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/1276/regulation/1/2/c)
+[^c-4dadf5af0af4c9a71462566cc2ad5b54]: Commencement: Reg. 2 in force at 22.12.2023, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/1276/regulation/1/2/c)
 
 [^f00003]: Footnote: EUR 2008/429, to which there are amendments not relevant to these Regulations.
 
 [^f00004]: Footnote: EUR 2009/767, amended by [S.I. 2019/654](https://www.legislation.gov.uk/uksi/2019/654). [S.I. 2019/654](https://www.legislation.gov.uk/uksi/2019/654) was amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504).
 
-[^key-3bc4d561dc70c857e2161201122038f5]: Commencement: Reg. 4 in force at 22.12.2023, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/1276/regulation/1/2/c)
+[^c-3bc4d561dc70c857e2161201122038f5]: Commencement: Reg. 4 in force at 22.12.2023, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/1276/regulation/1/2/c)
 
 [^f00005]: Footnote: See Schedule 9 to these Regulations for the renewed authorisation of this feed additive.
 

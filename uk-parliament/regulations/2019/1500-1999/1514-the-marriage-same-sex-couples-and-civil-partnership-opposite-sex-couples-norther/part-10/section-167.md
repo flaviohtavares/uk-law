@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. General Register Office (Fees) Order (Northern Ireland) 2016[^key-9b6fe7791b22327cb3c311193bd70e57]
+## 167. General Register Office (Fees) Order (Northern Ireland) 2016[^c-9b6fe7791b22327cb3c311193bd70e57]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ In the Schedule to the General Register Office (Fees) Order (Northern Ireland) 2
 
 ## Annotations
 
-[^key-9b6fe7791b22327cb3c311193bd70e57]: Commencement: Reg. 167 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-9b6fe7791b22327cb3c311193bd70e57]: Commencement: Reg. 167 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00276]: Footnote: [S.R. (N.I.) 2016/205](https://www.legislation.gov.uk/nisr/2016/205).

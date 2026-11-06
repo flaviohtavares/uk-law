@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Zimbabwe (Financial Sanctions) (Suspension) Regulations 2013 (revoked)[^key-7ccff29de84d3f4deb471e62672f2bc6]
+The Zimbabwe (Financial Sanctions) (Suspension) Regulations 2013 (revoked)[^c-7ccff29de84d3f4deb471e62672f2bc6]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 at 3.00 p.m. on 5th April 2013
 
-[^key-7ccff29de84d3f4deb471e62672f2bc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ccff29de84d3f4deb471e62672f2bc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7ccff29de84d3f4deb471e62672f2bc6]
+## 1. Citation and commencement[^c-7ccff29de84d3f4deb471e62672f2bc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Suspension of provisions in the Zimbabwe (Financial Sanctions) Regulations 2009[^key-7ccff29de84d3f4deb471e62672f2bc6]
+## 2. Suspension of provisions in the Zimbabwe (Financial Sanctions) Regulations 2009[^c-7ccff29de84d3f4deb471e62672f2bc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ccff29de84d3f4deb471e62672f2bc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ccff29de84d3f4deb471e62672f2bc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7ccff29de84d3f4deb471e62672f2bc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ccff29de84d3f4deb471e62672f2bc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ccff29de84d3f4deb471e62672f2bc6]: Textual amendment: Regulations revoked (25.2.2014) by [The Zimbabwe (Financial Sanctions) (Amendment) Regulations 2014 (S.I. 2014/383)](https://www.legislation.gov.uk/uksi/2014/383), [reg. 7](https://www.legislation.gov.uk/uksi/2014/383/regulation/7)
+[^c-7ccff29de84d3f4deb471e62672f2bc6]: Textual amendment: Regulations revoked (25.2.2014) by [The Zimbabwe (Financial Sanctions) (Amendment) Regulations 2014 (S.I. 2014/383)](https://www.legislation.gov.uk/uksi/2014/383), [reg. 7](https://www.legislation.gov.uk/uksi/2014/383/regulation/7)

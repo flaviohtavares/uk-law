@@ -22,9 +22,9 @@ summary: ''
 
 Section 115
 
-**1.**[^key-cc5c72c0243637374f0438384d6b7583] Part 2A of the Sexual Offences Act 2003 (closure orders) is amended as follows.
+**1.**[^c-cc5c72c0243637374f0438384d6b7583] Part 2A of the Sexual Offences Act 2003 (closure orders) is amended as follows.
 
-**2.**[^key-a7a8ed759e76dbdd9517da439b9b2263] (1) Section 136A (meaning of specified prostitution offence etc) is amended as follows.
+**2.**[^c-a7a8ed759e76dbdd9517da439b9b2263] (1) Section 136A (meaning of specified prostitution offence etc) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -68,9 +68,9 @@ Section 115
 > - (a) to commit the offence, or
 > - (b) for activities intended to arrange or facilitate the commission of the offence.
 
-**3.**[^key-1efbc3206b52517b1e6d01783921d56f] In section 136B (power to authorise issue of closure notice), in the heading, for “**notice**” there is substituted “ **notice: prostitution or pornography offences** ”.
+**3.**[^c-1efbc3206b52517b1e6d01783921d56f] In section 136B (power to authorise issue of closure notice), in the heading, for “**notice**” there is substituted “ **notice: prostitution or pornography offences** ”.
 
-**4.**[^key-56a93b8386f61380aca1cf706f37d685] After that section there is inserted—
+**4.**[^c-56a93b8386f61380aca1cf706f37d685] After that section there is inserted—
 
 > **136BA. Power to authorise issue of closure notice: child sex offences in England and Wales**
 >
@@ -100,13 +100,13 @@ Section 115
 >
 > (10) The Secretary of State may by regulations specify premises or descriptions of premises to which this section does not apply.
 
-**5.**[^key-42a7c0333d443e2e1a0bcb9e057efc1d] (1) Section 136C (contents and service of closure notice) is amended as follows.
+**5.**[^c-42a7c0333d443e2e1a0bcb9e057efc1d] (1) Section 136C (contents and service of closure notice) is amended as follows.
 
 (2) In subsection (1)(c), after “section 136B” there is inserted “ or 136BA ”.
 
 (3) In subsection (3)(d), after “section 136B(7)(b)” there is inserted “ or 136BA(6)(b) ”.
 
-**6.**[^key-c130e76378915fe9733ebdffd6301b90] (1) Section 136D (power to make a closure order) is amended as follows.
+**6.**[^c-c130e76378915fe9733ebdffd6301b90] (1) Section 136D (power to make a closure order) is amended as follows.
 
 (2) In subsection (5), for “either subsection (6) or subsection (7) (or both)” there is substituted “ at least one of subsections (6), (7) and (7A) ”.
 
@@ -125,15 +125,15 @@ Section 115
 
 (7) In subsection (12), for “prostitution or pornography offences” there is substituted “ prostitution, pornography or child sex offences ”.
 
-**7.**[^key-d6f02bbf9e68b66206afb74916504cc8] In section 136H (applications for extension of closure order), in subsection (4), for “prostitution or pornography offences” there is substituted “ prostitution, pornography or child sex offences ”.
+**7.**[^c-d6f02bbf9e68b66206afb74916504cc8] In section 136H (applications for extension of closure order), in subsection (4), for “prostitution or pornography offences” there is substituted “ prostitution, pornography or child sex offences ”.
 
-**8.**[^key-5ff6576f3b08663916cb411f1fd8f4af] In section 136I (orders extending closure orders), in subsection (2), for “prostitution or pornography offences” there is substituted “ prostitution, pornography or child sex offences ”.
+**8.**[^c-5ff6576f3b08663916cb411f1fd8f4af] In section 136I (orders extending closure orders), in subsection (2), for “prostitution or pornography offences” there is substituted “ prostitution, pornography or child sex offences ”.
 
-**9.**[^key-6e0a4d7c0ea1c374047ba2189994d631] In section 136J (discharge of closure order), in subsection (3), for “prostitution or pornography offences” there is substituted “ prostitution, pornography or child sex offences ”.
+**9.**[^c-6e0a4d7c0ea1c374047ba2189994d631] In section 136J (discharge of closure order), in subsection (3), for “prostitution or pornography offences” there is substituted “ prostitution, pornography or child sex offences ”.
 
-**10.**[^key-8d257e904f100620cc4e364e4a7715f4] In section 136O (compensation), in subsection (5)(a), after “section 136B” there is inserted “ or 136BA ”.
+**10.**[^c-8d257e904f100620cc4e364e4a7715f4] In section 136O (compensation), in subsection (5)(a), after “section 136B” there is inserted “ or 136BA ”.
 
-**11.**[^key-9245d370b700367363c1c0abccb5538b] (1) Section 136R (interpretation) is amended as follows.
+**11.**[^c-9245d370b700367363c1c0abccb5538b] (1) Section 136R (interpretation) is amended as follows.
 
 (2) In subsection (2), after “section 136B” there is inserted “ or 136BA ”.
 
@@ -147,24 +147,24 @@ Section 115
 
 ## Annotations
 
-[^key-cc5c72c0243637374f0438384d6b7583]: Commencement: Sch. 6 para. 1 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
+[^c-cc5c72c0243637374f0438384d6b7583]: Commencement: Sch. 6 para. 1 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
 
-[^key-a7a8ed759e76dbdd9517da439b9b2263]: Commencement: Sch. 6 para. 2 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
+[^c-a7a8ed759e76dbdd9517da439b9b2263]: Commencement: Sch. 6 para. 2 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
 
-[^key-1efbc3206b52517b1e6d01783921d56f]: Commencement: Sch. 6 para. 3 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
+[^c-1efbc3206b52517b1e6d01783921d56f]: Commencement: Sch. 6 para. 3 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
 
-[^key-56a93b8386f61380aca1cf706f37d685]: Commencement: Sch. 6 para. 4 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
+[^c-56a93b8386f61380aca1cf706f37d685]: Commencement: Sch. 6 para. 4 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
 
-[^key-42a7c0333d443e2e1a0bcb9e057efc1d]: Commencement: Sch. 6 para. 5 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
+[^c-42a7c0333d443e2e1a0bcb9e057efc1d]: Commencement: Sch. 6 para. 5 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
 
-[^key-c130e76378915fe9733ebdffd6301b90]: Commencement: Sch. 6 para. 6 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
+[^c-c130e76378915fe9733ebdffd6301b90]: Commencement: Sch. 6 para. 6 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
 
-[^key-d6f02bbf9e68b66206afb74916504cc8]: Commencement: Sch. 6 para. 7 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
+[^c-d6f02bbf9e68b66206afb74916504cc8]: Commencement: Sch. 6 para. 7 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
 
-[^key-5ff6576f3b08663916cb411f1fd8f4af]: Commencement: Sch. 6 para. 8 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
+[^c-5ff6576f3b08663916cb411f1fd8f4af]: Commencement: Sch. 6 para. 8 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
 
-[^key-6e0a4d7c0ea1c374047ba2189994d631]: Commencement: Sch. 6 para. 9 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
+[^c-6e0a4d7c0ea1c374047ba2189994d631]: Commencement: Sch. 6 para. 9 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
 
-[^key-8d257e904f100620cc4e364e4a7715f4]: Commencement: Sch. 6 para. 10 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
+[^c-8d257e904f100620cc4e364e4a7715f4]: Commencement: Sch. 6 para. 10 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
 
-[^key-9245d370b700367363c1c0abccb5538b]: Commencement: Sch. 6 para. 11 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)
+[^c-9245d370b700367363c1c0abccb5538b]: Commencement: Sch. 6 para. 11 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/373/article/2/f)

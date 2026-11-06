@@ -22,7 +22,7 @@ summary: ''
 
 (1) This regulation applies in relation to a continuous period of pensionable service under this scheme (“period of service”).
 
-(2) If the member is a transition member with continuity of service, the period of service includes the member's period of pensionable service under a relevant[^key-1443c8c1b39f5d1bd0a85901146cac55] scheme before the transition date for that member.
+(2) If the member is a transition member with continuity of service, the period of service includes the member's period of pensionable service under a relevant[^c-1443c8c1b39f5d1bd0a85901146cac55] scheme before the transition date for that member.
 
 (3) For the purpose of this regulation, a person dies out of service if the person—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1443c8c1b39f5d1bd0a85901146cac55]: Textual amendment: Words in [reg. 122(2)](https://www.legislation.gov.uk/nisr/2015/76/regulation/122/2) substituted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [12](https://www.legislation.gov.uk/nisr/2023/63/regulation/12)
+[^c-1443c8c1b39f5d1bd0a85901146cac55]: Textual amendment: Words in [reg. 122(2)](https://www.legislation.gov.uk/nisr/2015/76/regulation/122/2) substituted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [12](https://www.legislation.gov.uk/nisr/2023/63/regulation/12)
 
 [^c22374461]: Marginal citation: [Section 8(2)](https://www.legislation.gov.uk/nisr/2015/76/section/8/2) was amended by the Pensions (Miscellaneous Provisions) (Northern Ireland) Order 1990 [S.I. 1990/1509 (N.I. 13)](https://www.legislation.gov.uk/nisi/1990/1509)) Article 3(5) and the [Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147) Articles 36(1) and (3)(b).

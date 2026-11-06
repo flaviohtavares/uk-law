@@ -31,7 +31,7 @@ summary: ''
 
 Census
 
-The Census Regulations (Northern Ireland) 2010 (revoked)[^key-124096034178629a5df836d91e717c8a]
+The Census Regulations (Northern Ireland) 2010 (revoked)[^c-124096034178629a5df836d91e717c8a]
 
 Made
 
@@ -41,89 +41,89 @@ Coming into operation
 
 26th July 2010
 
-[^key-124096034178629a5df836d91e717c8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-124096034178629a5df836d91e717c8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-124096034178629a5df836d91e717c8a]
+## 1. Citation and commencement[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-124096034178629a5df836d91e717c8a]
+## 2. Interpretation[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-124096034178629a5df836d91e717c8a]
+## 3. Revocation[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enumeration Districts, Census Team Co-ordinator Areas and Census Areas[^key-124096034178629a5df836d91e717c8a]
+## 4. Enumeration Districts, Census Team Co-ordinator Areas and Census Areas[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Appointment of Officers[^key-124096034178629a5df836d91e717c8a]
+## 5. Appointment of Officers[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Questionnaires[^key-124096034178629a5df836d91e717c8a]
+## 6. Questionnaires[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Preparation of packs[^key-124096034178629a5df836d91e717c8a]
+## 7. Preparation of packs[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Sending packs to households and electors by post[^key-124096034178629a5df836d91e717c8a]
+## 8. Sending packs to households and electors by post[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Delivery of packs to households and electors by hand[^key-124096034178629a5df836d91e717c8a]
+## 9. Delivery of packs to households and electors by hand[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Delivery of packs to communal establishments by hand[^key-124096034178629a5df836d91e717c8a]
+## 10. Delivery of packs to communal establishments by hand[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Return of questionnaires from households and electors[^key-124096034178629a5df836d91e717c8a]
+## 11. Return of questionnaires from households and electors[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Return of questionnaires from communal establishments[^key-124096034178629a5df836d91e717c8a]
+## 12. Return of questionnaires from communal establishments[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Taking of the census for persons in Group G[^key-124096034178629a5df836d91e717c8a]
+## 13. Taking of the census for persons in Group G[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Procedure if no questionnaire or an incomplete questionnaire is received by the Registrar General[^key-124096034178629a5df836d91e717c8a]
+## 14. Procedure if no questionnaire or an incomplete questionnaire is received by the Registrar General[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Giving of information[^key-124096034178629a5df836d91e717c8a]
+## 15. Giving of information[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Safe custody of questionnaires and documents[^key-124096034178629a5df836d91e717c8a]
+## 16. Safe custody of questionnaires and documents[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Undertaking[^key-124096034178629a5df836d91e717c8a]
+## 17. Undertaking[^c-124096034178629a5df836d91e717c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-124096034178629a5df836d91e717c8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-124096034178629a5df836d91e717c8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-124096034178629a5df836d91e717c8a]
+## SCHEDULE 1[^c-124096034178629a5df836d91e717c8a]
 
 Regulation 6(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-124096034178629a5df836d91e717c8a]
+## SCHEDULE 2[^c-124096034178629a5df836d91e717c8a]
 
 Regulation 6(2)
 
@@ -131,7 +131,7 @@ Regulation 6(2)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_002)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_003)
 
-## SCHEDULE 3[^key-124096034178629a5df836d91e717c8a]
+## SCHEDULE 3[^c-124096034178629a5df836d91e717c8a]
 
 Regulation 6(2)
 
@@ -139,7 +139,7 @@ Regulation 6(2)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_004)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_005)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_006)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_007)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_008)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_009)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_010)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_011)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_012)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_013)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_014)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_015)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_016)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_017)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_018)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_019)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_020)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_021)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_022)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_023)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_024)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_025)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_026)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_027)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_028)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_029)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_030)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_031)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_032)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_033)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_034)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_035)
 
-## SCHEDULE 4[^key-124096034178629a5df836d91e717c8a]
+## SCHEDULE 4[^c-124096034178629a5df836d91e717c8a]
 
 Regulation 6(2)
 
@@ -147,14 +147,14 @@ Regulation 6(2)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_036)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_037)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_038)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_039)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_040)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_041)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_042)[image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_043)
 
-## SCHEDULE 5 — Form of Undertaking[^key-124096034178629a5df836d91e717c8a]
+## SCHEDULE 5 — Form of Undertaking[^c-124096034178629a5df836d91e717c8a]
 
 Regulation 17
 
 [image: see source](https://www.legislation.gov.uk/nisr/2010/218/images/nisr_20100218_en_044)
 
-[^key-124096034178629a5df836d91e717c8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-124096034178629a5df836d91e717c8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-124096034178629a5df836d91e717c8a]: Textual amendment: Regulations revoked (17.7.2020) by [The Census Regulations (Northern Ireland) 2020 (S.R. 2020/116)](https://www.legislation.gov.uk/nisr/2020/116), [reg. 3](https://www.legislation.gov.uk/nisr/2020/116/regulation/3)
+[^c-124096034178629a5df836d91e717c8a]: Textual amendment: Regulations revoked (17.7.2020) by [The Census Regulations (Northern Ireland) 2020 (S.R. 2020/116)](https://www.legislation.gov.uk/nisr/2020/116), [reg. 3](https://www.legislation.gov.uk/nisr/2020/116/regulation/3)

@@ -42,17 +42,17 @@ Coming into operation
 
 The Department of Agriculture being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by the said section 2(2) and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-96060207f96aa0933b940eb06720e283]
+## 1. Citation and commencement[^c-96060207f96aa0933b940eb06720e283]
 
 These Regulations may be cited as the Cattle Identification (Enforcement) Regulations (Northern Ireland) 1998 and shall come into operation on 2nd February 1998.
 
-## 2. Interpretation[^key-ea10e1ab83b52dcf0a2ee03313332afc]
+## 2. Interpretation[^c-ea10e1ab83b52dcf0a2ee03313332afc]
 
 (1) In these Regulations—
 
-- “[^key-47d39eabbd1262eee691e258f01988cd]**animal**” means ‘bovine animal’ or ‘animal of the bovine species’ which is an animal of the species of ungulates belonging to the genera *Bison, Bos* (including the subgenera *Bos, Bibos, Novibos, Poephagus*) and *Bubalus* (including the subgenus *Anoa*) and the offspring of crossings of those species;
-- “[^key-bb55406bb814a159f646daa9f30fcc2e]**Council Regulation**” means [Regulation (EU) 2016/429](https://www.legislation.gov.uk/european/regulation/2016/0429) on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’);
-- “[^key-902a62628ca7c265953e82d3fa8445df]**Commission Regulation**” means Commission Delegated [Regulation (EU) 2019/2035](https://www.legislation.gov.uk/european/regulation/2019/2035) supplementing [Regulation (EU) 2016/429](https://www.legislation.gov.uk/european/regulation/2016/0429) as regards rules for establishments keeping terrestrial animals and hatcheries, and the traceability of certain kept terrestrial animals and hatching eggs;
+- “[^c-47d39eabbd1262eee691e258f01988cd]**animal**” means ‘bovine animal’ or ‘animal of the bovine species’ which is an animal of the species of ungulates belonging to the genera *Bison, Bos* (including the subgenera *Bos, Bibos, Novibos, Poephagus*) and *Bubalus* (including the subgenus *Anoa*) and the offspring of crossings of those species;
+- “[^c-bb55406bb814a159f646daa9f30fcc2e]**Council Regulation**” means [Regulation (EU) 2016/429](https://www.legislation.gov.uk/european/regulation/2016/0429) on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’);
+- “[^c-902a62628ca7c265953e82d3fa8445df]**Commission Regulation**” means Commission Delegated [Regulation (EU) 2019/2035](https://www.legislation.gov.uk/european/regulation/2019/2035) supplementing [Regulation (EU) 2016/429](https://www.legislation.gov.uk/european/regulation/2016/0429) as regards rules for establishments keeping terrestrial animals and hatcheries, and the traceability of certain kept terrestrial animals and hatching eggs;
 - “Department” means the Department of Agriculture for Northern Ireland;
 - “farm” means any holding on which animals are kept for the purpose of breeding, production, raising or fattening;
 - “herd” means
@@ -62,22 +62,22 @@ These Regulations may be cited as the Cattle Identification (Enforcement) Regula
   on a holding in such manner or under such conditions as will in the opinion of a veterinary inspector minimize the possibility of infection being transmitted therefrom to any other animal whether on the same holding or another holding;
 - “holding” means any establishment, construction or, in the case of an open-air farm, any place, in which animals are held, kept or handled;
 - “inspector” means any veterinary inspector and any other person authorised by the Department to be an inspector for the purposes of these Regulations;
-- “[^key-03d2df636701b9f4ad554215bbfb0a56]**keeper**” means any person responsible for animals, whether on a permanent or on a temporary basis, including during transportation or at a market but excluding veterinary practices;
-- “[^key-b4c53598f9adff615cc1d82e71ecfe9f]**register**” means a register containing the records required by Article 102(1) of the Council Regulation;
+- “[^c-03d2df636701b9f4ad554215bbfb0a56]**keeper**” means any person responsible for animals, whether on a permanent or on a temporary basis, including during transportation or at a market but excluding veterinary practices;
+- “[^c-b4c53598f9adff615cc1d82e71ecfe9f]**register**” means a register containing the records required by Article 102(1) of the Council Regulation;
 - “veterinary inspector” means any veterinary surgeon authorised by the Department as an inspector for the purposes of these Regulations.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to a measure of the Northern Ireland Assembly.
 
-## 3. Enforcement of the Council Regulation[^key-ea93a1236e949371f4059715269df1d3]
+## 3. Enforcement of the Council Regulation[^c-ea93a1236e949371f4059715269df1d3]
 
-(1)[^key-cae24bfc1406212251f1e76106137a2e] Any person who contravenes any of the following provisions of the Council Regulation shall be guilty of an offence, that is to say—
+(1)[^c-cae24bfc1406212251f1e76106137a2e] Any person who contravenes any of the following provisions of the Council Regulation shall be guilty of an offence, that is to say—
 
 - (a) paragraph (1)(a) and (b) of Article 102;
 - (b) Article 102(3).
 
-(2) Without prejudice to paragraph (1)(a)[^key-f2445ff4134406cd665badd1213740a9] ) any person who fails to keep a register in accordance with the requirements of paragraph (4) shall be guilty of an offence.
+(2) Without prejudice to paragraph (1)(a)[^c-f2445ff4134406cd665badd1213740a9] ) any person who fails to keep a register in accordance with the requirements of paragraph (4) shall be guilty of an offence.
 
-(3) The Department shall be the competent authority for the purposes of Articles 38, 39, 40, 41, 42 and 44 of the Commission Regulation and Articles 102(3), 104 and 111 of the Council Regulation[^key-00bb024428846a684b5e69d66d5b3a37] EC.
+(3) The Department shall be the competent authority for the purposes of Articles 38, 39, 40, 41, 42 and 44 of the Commission Regulation and Articles 102(3), 104 and 111 of the Council Regulation[^c-00bb024428846a684b5e69d66d5b3a37] EC.
 
 (4) A person who keeps a register shall ensure that it is in the form set out in the Schedule and that it includes—
 
@@ -98,7 +98,7 @@ in both cases from the end of the calendar year in which the last entry was made
 
 (7) In the case of an animal which is not ear tagged, but is marked under the Tuberculosis Control Order (Northern Ireland) 1964[^f00006], the reference in the form set out in the Schedule to an ear tag shall be construed as a reference to a mark applied under that Order.
 
-## 4. Powers of inspectors[^key-23735c22678637f0663940e0f695171e]
+## 4. Powers of inspectors[^c-23735c22678637f0663940e0f695171e]
 
 (1) An inspector shall, on producing, if required to do so, some duly authenticated document showing his authority, have the right at all reasonable hours to enter any land or premises for the purposes of ascertaining whether there is or has been on the premises any contravention of the Council Regulation or of these Regulations.
 
@@ -109,13 +109,13 @@ in both cases from the end of the calendar year in which the last entry was made
 - (c) remove and retain any documents, ear tags or records which relate to any matter to which the Council Regulation or these Regulations apply;
 - (d) have access to, and inspect and check the operation of, any computer and any associated apparatus or material which is or has been used in connection with the keeping of records, and may require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford him such assistance as he may reasonably require for the purpose;
 - (e) where records are kept by means of a computer, require the records to be produced in a form in which they may be taken away; and
-- (f) take with him any person he considers necessary[^key-7d6ad8bb9335083712a6f93982aa7558] .
+- (f) take with him any person he considers necessary[^c-7d6ad8bb9335083712a6f93982aa7558] .
 
 (3) In this regulation “premises” includes any place, installation, vehicle, ship, vessel, boat, craft, hovercraft or aircraft.
 
-## 5. Powers of an officer of the Department[^key-49b76802cbe5138a09b75394df76e757]
+## 5. Powers of an officer of the Department[^c-49b76802cbe5138a09b75394df76e757]
 
-(1) [^key-87744c5604c88582fb505fdbef66041f]... An officer of the Department may, by notice served on the keeper of any animal on a holding, prohibit the movement of that animal from the holding if he is satisfied that it is necessary to do so for the proper enforcement of that Regulation or of any provision of these Regulations.
+(1) [^c-87744c5604c88582fb505fdbef66041f]... An officer of the Department may, by notice served on the keeper of any animal on a holding, prohibit the movement of that animal from the holding if he is satisfied that it is necessary to do so for the proper enforcement of that Regulation or of any provision of these Regulations.
 
 (2) A notice served on any person under paragraph (1)—
 
@@ -125,7 +125,7 @@ in both cases from the end of the calendar year in which the last entry was made
 
 (3) Any person who contravenes any notice served under paragraph (1) shall be guilty of an offence.
 
-## 6. Obstruction[^key-48f0d0e90c02784efad06a72b6fdb288]
+## 6. Obstruction[^c-48f0d0e90c02784efad06a72b6fdb288]
 
 (1) A person who—
 
@@ -137,7 +137,7 @@ shall be guilty of an offence.
 
 (2) Nothing in paragraph (1)(*b*) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate him.
 
-## 7. Penalties[^key-ff395d531ec4c9f70c08622fb96d4748]
+## 7. Penalties[^c-ff395d531ec4c9f70c08622fb96d4748]
 
 (1) A person guilty of an offence under regulation 6(1)(*a*) or (*b*) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months or to both.
 
@@ -146,9 +146,9 @@ shall be guilty of an offence.
 - (a) on summary conviction, to a fine not exceeding level 5 on the standard scale or to imprisonment not exceeding three months or to both;
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
 
-(3)[^key-666d1703b5b3918b5ba58a9b41a387e7] For the purposes of Article 18(6) of the Diseases of Animals (Northern Ireland) Order 1981 any offence against these Regulations shall be deemed to be an offence against that Order.
+(3)[^c-666d1703b5b3918b5ba58a9b41a387e7] For the purposes of Article 18(6) of the Diseases of Animals (Northern Ireland) Order 1981 any offence against these Regulations shall be deemed to be an offence against that Order.
 
-## 8. Revocations and amendments[^key-8df761aea6091adc5d1835fec86e482f]
+## 8. Revocations and amendments[^c-8df761aea6091adc5d1835fec86e482f]
 
 (1) The Animals (Records) Order (Northern Ireland) 1997[^f00007] shall cease to have effect in relation to bovine animals and accordingly—
 
@@ -192,7 +192,7 @@ Assistant Secretary
 
 30th January 1998.
 
-## SCHEDULE — Herd Record for Bovine Animals[^key-80cea6e78b4f0452d5866b8b59541998]
+## SCHEDULE — Herd Record for Bovine Animals[^c-80cea6e78b4f0452d5866b8b59541998]
 
 Regulation 3(4)
 
@@ -237,49 +237,49 @@ The Regulations also revoke parts of the Animals (Records) Order and parts of th
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-96060207f96aa0933b940eb06720e283]: Commencement: Reg. 1 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
+[^c-96060207f96aa0933b940eb06720e283]: Commencement: Reg. 1 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
 
-[^key-ea10e1ab83b52dcf0a2ee03313332afc]: Commencement: Reg. 2 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
+[^c-ea10e1ab83b52dcf0a2ee03313332afc]: Commencement: Reg. 2 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
 
-[^key-47d39eabbd1262eee691e258f01988cd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/1998/27/regulation/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/2/a)
+[^c-47d39eabbd1262eee691e258f01988cd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/1998/27/regulation/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/2/a)
 
-[^key-bb55406bb814a159f646daa9f30fcc2e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/1998/27/regulation/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/2/b)
+[^c-bb55406bb814a159f646daa9f30fcc2e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/1998/27/regulation/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/2/b)
 
-[^key-902a62628ca7c265953e82d3fa8445df]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/1998/27/regulation/2/1) inserted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/2/c)
+[^c-902a62628ca7c265953e82d3fa8445df]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/1998/27/regulation/2/1) inserted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/2/c)
 
-[^key-03d2df636701b9f4ad554215bbfb0a56]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/1998/27/regulation/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/2/d)
+[^c-03d2df636701b9f4ad554215bbfb0a56]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/1998/27/regulation/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/2/d)
 
-[^key-b4c53598f9adff615cc1d82e71ecfe9f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/1998/27/regulation/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/2/e)
+[^c-b4c53598f9adff615cc1d82e71ecfe9f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/1998/27/regulation/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/2/e)
 
 [^f00004]: Footnote: [1953 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1953/33)
 
-[^key-ea93a1236e949371f4059715269df1d3]: Commencement: Reg. 3 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
+[^c-ea93a1236e949371f4059715269df1d3]: Commencement: Reg. 3 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
 
-[^key-cae24bfc1406212251f1e76106137a2e]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/1998/27/regulation/3/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/3/a)
+[^c-cae24bfc1406212251f1e76106137a2e]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/1998/27/regulation/3/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/3/a)
 
-[^key-f2445ff4134406cd665badd1213740a9]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/1998/27/regulation/3/2) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/3/b)
+[^c-f2445ff4134406cd665badd1213740a9]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/1998/27/regulation/3/2) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/3/b)
 
-[^key-00bb024428846a684b5e69d66d5b3a37]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/1998/27/regulation/3/3) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/3/c)
+[^c-00bb024428846a684b5e69d66d5b3a37]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/1998/27/regulation/3/3) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/3/c)
 
 [^f00005]: Footnote: [S.R. 1997 No. 172](https://www.legislation.gov.uk/nisr/1997/172)
 
 [^f00006]: Footnote: [S.R. 1964 No. 31](https://www.legislation.gov.uk/nisr/1964/31) as amended by [S.R. 1981 No. 348](https://www.legislation.gov.uk/nisr/1981/348), [S.R. 1986 No. 48](https://www.legislation.gov.uk/nisr/1986/48), [S.R. 1994 No. 214](https://www.legislation.gov.uk/nisr/1994/214) and [S.R. 1996 No. 9](https://www.legislation.gov.uk/nisr/1996/9)
 
-[^key-23735c22678637f0663940e0f695171e]: Commencement: Reg. 4 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
+[^c-23735c22678637f0663940e0f695171e]: Commencement: Reg. 4 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
 
-[^key-7d6ad8bb9335083712a6f93982aa7558]: Textual amendment: Words in [reg. 4(2)(f)](https://www.legislation.gov.uk/nisr/1998/27/regulation/4/2/f) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/157)](https://www.legislation.gov.uk/uksi/2019/157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/157/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2019/157/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d6ad8bb9335083712a6f93982aa7558]: Textual amendment: Words in [reg. 4(2)(f)](https://www.legislation.gov.uk/nisr/1998/27/regulation/4/2/f) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/157)](https://www.legislation.gov.uk/uksi/2019/157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/157/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2019/157/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-49b76802cbe5138a09b75394df76e757]: Commencement: Reg. 5 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
+[^c-49b76802cbe5138a09b75394df76e757]: Commencement: Reg. 5 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
 
-[^key-87744c5604c88582fb505fdbef66041f]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/1998/27/regulation/5/1) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/4)
+[^c-87744c5604c88582fb505fdbef66041f]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/1998/27/regulation/5/1) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2025/11/regulation/2/4)
 
-[^key-48f0d0e90c02784efad06a72b6fdb288]: Commencement: Reg. 6 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
+[^c-48f0d0e90c02784efad06a72b6fdb288]: Commencement: Reg. 6 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
 
-[^key-ff395d531ec4c9f70c08622fb96d4748]: Commencement: Reg. 7 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
+[^c-ff395d531ec4c9f70c08622fb96d4748]: Commencement: Reg. 7 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
 
-[^key-666d1703b5b3918b5ba58a9b41a387e7]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/1998/27/regulation/7/3) added (1.11.2004) by [Identification and Notification of Cattle Regulations (Northern Ireland) 2004 (S.R. 2004/420)](https://www.legislation.gov.uk/nisr/2004/420), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/420/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2004/420/regulation/3/4)
+[^c-666d1703b5b3918b5ba58a9b41a387e7]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/1998/27/regulation/7/3) added (1.11.2004) by [Identification and Notification of Cattle Regulations (Northern Ireland) 2004 (S.R. 2004/420)](https://www.legislation.gov.uk/nisr/2004/420), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/420/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2004/420/regulation/3/4)
 
-[^key-8df761aea6091adc5d1835fec86e482f]: Commencement: Reg. 8 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
+[^c-8df761aea6091adc5d1835fec86e482f]: Commencement: Reg. 8 in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1997 No. 172](https://www.legislation.gov.uk/nisr/1997/172)
 
@@ -289,4 +289,4 @@ The Regulations also revoke parts of the Animals (Records) Order and parts of th
 
 [^f00010]: Footnote: [S.R. 1996 No. 611](https://www.legislation.gov.uk/nisr/1996/611)
 
-[^key-80cea6e78b4f0452d5866b8b59541998]: Commencement: Sch. in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)
+[^c-80cea6e78b4f0452d5866b8b59541998]: Commencement: Sch. in operation at 2.2.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/27/regulation/1)

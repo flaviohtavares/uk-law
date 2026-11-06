@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Felling or lopping of trees and removal of hedgerows[^key-aed05069c88462d199f08d051d9f0395]
+## 45. Felling or lopping of trees and removal of hedgerows[^c-aed05069c88462d199f08d051d9f0395]
 
 *Extent: E+W*
 
@@ -27,9 +27,9 @@ summary: ''
 
 (2) In carrying out any activity authorised by paragraph (1) or (4) the undertaker must—
 
-- (a) do no unnecessary damage to any tree or shrub; and[^key-46f57aa18dcbfda048300fcc68b15b76]
-- (b) pay compensation to any person for any loss or damage arising from such activity.[^key-e68985f85b723afbdba655306161d707]
-- (c)[^key-0d7bda822d22aaeee5a30b137bb53cf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) do no unnecessary damage to any tree or shrub; and[^c-46f57aa18dcbfda048300fcc68b15b76]
+- (b) pay compensation to any person for any loss or damage arising from such activity.[^c-e68985f85b723afbdba655306161d707]
+- (c)[^c-0d7bda822d22aaeee5a30b137bb53cf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Any dispute as to a person’s entitlement to compensation under paragraph (2)(b), or as to the amount of compensation, is to be determined as if it were a dispute under Part 1 of the 1961 Act.
 
@@ -42,12 +42,12 @@ summary: ''
 
 ## Annotations
 
-[^key-aed05069c88462d199f08d051d9f0395]: Commencement: Art. 45 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-aed05069c88462d199f08d051d9f0395]: Commencement: Art. 45 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
-[^key-46f57aa18dcbfda048300fcc68b15b76]: Textual amendment: Word in [art. 45(2)(a)](https://www.legislation.gov.uk/uksi/2025/1090/article/45/2/a) inserted (12.1.2026) by [The A46 Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)
+[^c-46f57aa18dcbfda048300fcc68b15b76]: Textual amendment: Word in [art. 45(2)(a)](https://www.legislation.gov.uk/uksi/2025/1090/article/45/2/a) inserted (12.1.2026) by [The A46 Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)
 
-[^key-e68985f85b723afbdba655306161d707]: Textual amendment: [Art. 45(2)(b)](https://www.legislation.gov.uk/uksi/2025/1090/article/45/2/b): full stop substituted for word (12.1.2026) by The A46 [Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)
+[^c-e68985f85b723afbdba655306161d707]: Textual amendment: [Art. 45(2)(b)](https://www.legislation.gov.uk/uksi/2025/1090/article/45/2/b): full stop substituted for word (12.1.2026) by The A46 [Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)
 
-[^key-0d7bda822d22aaeee5a30b137bb53cf3]: Textual amendment: [Art. 45(2)(c)](https://www.legislation.gov.uk/uksi/2025/1090/article/45/2/c) omitted (12.1.2026) by virtue of [The A46 Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)
+[^c-0d7bda822d22aaeee5a30b137bb53cf3]: Textual amendment: [Art. 45(2)(c)](https://www.legislation.gov.uk/uksi/2025/1090/article/45/2/c) omitted (12.1.2026) by virtue of [The A46 Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)
 
 [^f00095]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160), amended by [S.I. 2003/2155](https://www.legislation.gov.uk/uksi/2003/2155), [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307), [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755), [S.I. 2015/377](https://www.legislation.gov.uk/uksi/2015/377) and [S.I. 2015/1997](https://www.legislation.gov.uk/uksi/2015/1997).

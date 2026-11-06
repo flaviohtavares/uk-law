@@ -43,18 +43,18 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### 2. Incitement to commit certain sexual acts outside the United Kingdom.
 
-(1)[^key-66841582992aa4ed1186852b1e345f6a] This section applies where—
+(1)[^c-66841582992aa4ed1186852b1e345f6a] This section applies where—
 
 - (a) any act done by a person in England and Wales would amount to the offence of incitement to commit a listed sexual offence but for the fact that what he had in view would not be an offence triable in England and Wales,
 - (b) the whole or part of what he had in view was intended to take place in a country or territory outside the United Kingdom, and
 - (c) what he had in view would involve the commission of an offence under the law in force in that country or territory.
 
-(2)[^key-66841582992aa4ed1186852b1e345f6a] Where this section applies—
+(2)[^c-66841582992aa4ed1186852b1e345f6a] Where this section applies—
 
 - (a) what he had in view is to be treated as that listed sexual offence for the purposes of any charge of incitement brought in respect of that act, and
 - (b) any such charge is accordingly triable in England and Wales.
 
-(3) Any act done[^key-2edc987476a5b72055ae93ebd4def669] by means of a message (however communicated) is to be treated as done in England and Wales if the message is sent or received in England and Wales.
+(3) Any act done[^c-2edc987476a5b72055ae93ebd4def669] by means of a message (however communicated) is to be treated as done in England and Wales if the message is sent or received in England and Wales.
 
 ### 3. Sections 1 and 2: supplementary.
 
@@ -76,7 +76,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (7)[^c833895] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-2a1b3e750b72456490274bab1d0541b4] References to an offence of incitement to commit a listed sexual offence include an offence triable in England and Wales as such an incitement by virtue of section 2 (without prejudice to subsection (2) of that section).
+(8)[^c-2a1b3e750b72456490274bab1d0541b4] References to an offence of incitement to commit a listed sexual offence include an offence triable in England and Wales as such an incitement by virtue of section 2 (without prejudice to subsection (2) of that section).
 
 (9) Subsection (8) applies[^c833896] to references in any enactment, instrument or document (except those in section 2 of this Act and in Part I of the [^c833898]Criminal Law Act 1977).
 
@@ -197,9 +197,9 @@ Section 5.
 
 [^c833888]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1996/29/section/1) repealed (4.9.1998) by [1998 c. 40](https://www.legislation.gov.uk/ukpga/1998/40), [s. 9(1)(2)](https://www.legislation.gov.uk/ukpga/1998/40/section/9/1/2), [Sch. 1 Pt. II para. 9(1)](https://www.legislation.gov.uk/ukpga/1998/40/schedule/1/part/II/paragraph/9/1), [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1998/40/schedule/2/part/II) (with [s. 9(3)](https://www.legislation.gov.uk/ukpga/1998/40/section/9/3)).
 
-[^key-66841582992aa4ed1186852b1e345f6a]: Modification: S. 2(1)(2) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 30(a)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/30/a) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-66841582992aa4ed1186852b1e345f6a]: Modification: S. 2(1)(2) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 30(a)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/30/a) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
-[^key-2edc987476a5b72055ae93ebd4def669]: Textual amendment: Word in [s. 2(3)](https://www.legislation.gov.uk/ukpga/1996/29/section/2/3) substituted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 60](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/60) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-2edc987476a5b72055ae93ebd4def669]: Textual amendment: Word in [s. 2(3)](https://www.legislation.gov.uk/ukpga/1996/29/section/2/3) substituted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 60](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/60) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
 [^c833890]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1996/29/section/3/1) substituted (4.9.1998) by [1998 c. 40](https://www.legislation.gov.uk/ukpga/1998/40), [s. 9(1)(2)](https://www.legislation.gov.uk/ukpga/1998/40/section/9/1/2), [Sch. 1 Pt. II para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/1998/40/schedule/1/part/II/paragraph/9/2/a) (with [s. 9(3)](https://www.legislation.gov.uk/ukpga/1998/40/section/9/3)).
 
@@ -213,7 +213,7 @@ Section 5.
 
 [^c833895]: Textual amendment: [S. 3(7)](https://www.legislation.gov.uk/ukpga/1996/29/section/3/7) repealed (4.9.1998) by [1998 c. 40](https://www.legislation.gov.uk/ukpga/1998/40), [s. 9(1)(2)](https://www.legislation.gov.uk/ukpga/1998/40/section/9/1/2), [Sch. 1 Pt. II para. 9(2)(e)](https://www.legislation.gov.uk/ukpga/1998/40/schedule/1/part/II/paragraph/9/2/e), [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1998/40/schedule/2/part/II) (with [s. 9(3)](https://www.legislation.gov.uk/ukpga/1998/40/section/9/3)).
 
-[^key-2a1b3e750b72456490274bab1d0541b4]: Modification: [S. 3(8)](https://www.legislation.gov.uk/ukpga/1996/29/section/3/8) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 30(b)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/30/b) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-2a1b3e750b72456490274bab1d0541b4]: Modification: [S. 3(8)](https://www.legislation.gov.uk/ukpga/1996/29/section/3/8) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 30(b)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/30/b) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
 [^c833896]: Textual amendment: Words in [s. 3(9)](https://www.legislation.gov.uk/ukpga/1996/29/section/3/9) substituted (4.9.1998) by [1998 c. 40](https://www.legislation.gov.uk/ukpga/1998/40), [s. 9(1)(2)](https://www.legislation.gov.uk/ukpga/1998/40/section/9/1/2), [Sch. 1 Pt. II para. 9(2)(f)](https://www.legislation.gov.uk/ukpga/1998/40/schedule/1/part/II/paragraph/9/2/f)(with s. 9(3)).
 

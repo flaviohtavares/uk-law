@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Definition of consideration of suitability[^key-0569a459a5bba585ecdbe489ff50293b][^key-525e9d81a8d5bc493303d1baf51c5211]
+## 68. Definition of consideration of suitability[^c-0569a459a5bba585ecdbe489ff50293b][^c-525e9d81a8d5bc493303d1baf51c5211]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ In sections 17(1)(b) and 44(2), the references to a person (“A”) considering
 
 ## Annotations
 
-[^key-0569a459a5bba585ecdbe489ff50293b]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2020/13/section/68) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-0569a459a5bba585ecdbe489ff50293b]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2020/13/section/68) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
-[^key-525e9d81a8d5bc493303d1baf51c5211]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2020/13/section/68) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-525e9d81a8d5bc493303d1baf51c5211]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2020/13/section/68) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Applications following transfer of application made under the 2013 Act from the court to a tribunal[^key-3429053d0db7ae6c3fa2c6a79ca1ca92]
+## 7. Applications following transfer of application made under the 2013 Act from the court to a tribunal[^c-3429053d0db7ae6c3fa2c6a79ca1ca92]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3429053d0db7ae6c3fa2c6a79ca1ca92]: Commencement: Reg. 7 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-3429053d0db7ae6c3fa2c6a79ca1ca92]: Commencement: Reg. 7 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. General monitoring duty[^key-fe88a8dd9c6121929738f1a5a5f0c64c]
+## 38. General monitoring duty[^c-fe88a8dd9c6121929738f1a5a5f0c64c]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe88a8dd9c6121929738f1a5a5f0c64c]: Commencement: S. 38 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-fe88a8dd9c6121929738f1a5a5f0c64c]: Commencement: S. 38 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

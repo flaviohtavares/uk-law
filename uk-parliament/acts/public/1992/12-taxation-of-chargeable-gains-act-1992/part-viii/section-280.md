@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-If the consideration, or part of the consideration, taken into account in the computation of the gain is payable by instalments over a period beginning not earlier than the time when the disposal is made, being a period exceeding 18 months, then, at the option of the person making the disposal, the tax on a chargeable gain accruing on the disposal may[^key-96f22bd6efdb7fa5f5923b590350ab24] be paid by such instalments as the Board may allow over a period not exceeding 8 years and ending not later than the time at which the last of the first-mentioned instalments is payable.
+If the consideration, or part of the consideration, taken into account in the computation of the gain is payable by instalments over a period beginning not earlier than the time when the disposal is made, being a period exceeding 18 months, then, at the option of the person making the disposal, the tax on a chargeable gain accruing on the disposal may[^c-96f22bd6efdb7fa5f5923b590350ab24] be paid by such instalments as the Board may allow over a period not exceeding 8 years and ending not later than the time at which the last of the first-mentioned instalments is payable.
 
 ## Annotations
 
-[^key-96f22bd6efdb7fa5f5923b590350ab24]: Textual amendment: Words in s. 280 substituted (with effect in accordance with s. 134(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 20 para. 65](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/65)
+[^c-96f22bd6efdb7fa5f5923b590350ab24]: Textual amendment: Words in s. 280 substituted (with effect in accordance with s. 134(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 20 para. 65](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/65)

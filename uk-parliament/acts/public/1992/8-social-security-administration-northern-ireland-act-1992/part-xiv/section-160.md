@@ -26,7 +26,7 @@ summary: ''
 - (b) for suspending from employment in any such occupation, and in such other occupations as may be prescribed, persons found on such an examination—
   - (i) to be suffering from pneumoconiosis or tuberculosis, or
   - (ii) to be unsuitable for such employment, having regard to the risk of pneumoconiosis and such other matters affecting their susceptibility to pneumoconiosis as may be prescribed;
-- (c) for the disqualification for the receipt of personal independence payment, or benefit as defined in section 121 of the Contributions and Benefits Act,[^key-f37213b0bb6d85850ea1b2a0e6546e3c] in respect of pneumoconiosis of any person who fails without good cause to submit himself to any such examination or to furnish information required by the regulations or who engages in any employment from which he has been suspended as mentioned in paragraph (b) above;
+- (c) for the disqualification for the receipt of personal independence payment, or benefit as defined in section 121 of the Contributions and Benefits Act,[^c-f37213b0bb6d85850ea1b2a0e6546e3c] in respect of pneumoconiosis of any person who fails without good cause to submit himself to any such examination or to furnish information required by the regulations or who engages in any employment from which he has been suspended as mentioned in paragraph (b) above;
 - (d) for requiring employers—
   - (i) to provide facilities for such examinations,
   - (ii) not to employ in any occupation a person who has been suspended as mentioned in paragraph (b) above from employment in that occupation or who has failed without good cause to submit himself to such an examination,
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f37213b0bb6d85850ea1b2a0e6546e3c]: Textual amendment: Words in [s. 160(1)(c)](https://www.legislation.gov.uk/ukpga/1992/8/section/160/1/c) substituted (20.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 27](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/27); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)
+[^c-f37213b0bb6d85850ea1b2a0e6546e3c]: Textual amendment: Words in [s. 160(1)(c)](https://www.legislation.gov.uk/ukpga/1992/8/section/160/1/c) substituted (20.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 27](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/27); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)

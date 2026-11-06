@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9S. Duty to prepare explanation[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]
+## 9S. Duty to prepare explanation[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 (2) The specified powers are—
 
 - (a) the power to give a direction under section 9H;
-- (b) the power to make recommendations under section 9O, so far as relating to the exercise of the Bank's functions in relation to payment systems, settlement systems , clearing houses and central securities depositories[^key-520cdc2b94fd1820b1e76938e9b05590] ;
+- (b) the power to make recommendations under section 9O, so far as relating to the exercise of the Bank's functions in relation to payment systems, settlement systems , clearing houses and central securities depositories[^c-520cdc2b94fd1820b1e76938e9b05590] ;
 - (c) the power to make recommendations under section 9P, so far as relating to the exercise by the Treasury of their power to make orders under any of the provisions mentioned in subsection (2) of that section;
 - (d) the power to make recommendations under section 9Q.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]: Textual amendment: Pt. 1A inserted (24.1.2013 for the insertion of ss. 9I(2), 9L, 9N for specified purposes and for the insertion of s. 9ZA, 19.2.2013 for the insertion of s. 9B for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), 4; S.I. 2013/423, art. 3, Sch.
+[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]: Textual amendment: Pt. 1A inserted (24.1.2013 for the insertion of ss. 9I(2), 9L, 9N for specified purposes and for the insertion of s. 9ZA, 19.2.2013 for the insertion of s. 9B for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), 4; S.I. 2013/423, art. 3, Sch.
 
-[^key-520cdc2b94fd1820b1e76938e9b05590]: Textual amendment: Words in s. 9S(2)(b) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 9(4)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/9/4) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-520cdc2b94fd1820b1e76938e9b05590]: Textual amendment: Words in s. 9S(2)(b) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 9(4)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/9/4) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))

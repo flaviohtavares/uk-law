@@ -58,7 +58,7 @@ In exercise of the powers conferred by section 2(2) of that Act, by sections 109
 - “**the 1986 Order**” means the Companies (Northern Ireland) Order 1986 [^c17673261], and
 - “**the 2006 Act**” means the Companies Act 2006.
 
-## 2. Certification of electronic copies by registrar[^key-ca58bbdddb5b27b2abd6c48625113870]
+## 2. Certification of electronic copies by registrar[^c-ca58bbdddb5b27b2abd6c48625113870]
 
 (1) Where—
 
@@ -79,7 +79,7 @@ the registrar's certificate that the copy is an accurate record of the contents 
 
   in such a manner that any subsequent change of the data comprised in either is detectable.
 
-(3) For the purposes of this regulation, an “**electronic signature**” means data in electronic form which are attached to or logically associated with other electronic data and which serve as a method of authentication.[^key-2d9313a8832d66af538272379e4ef70c]
+(3) For the purposes of this regulation, an “**electronic signature**” means data in electronic form which are attached to or logically associated with other electronic data and which serve as a method of authentication.[^c-2d9313a8832d66af538272379e4ef70c]
 
 ## 3. Provisions requiring office copies to be delivered to the registrar
 
@@ -110,7 +110,7 @@ The facility described in section 1106 of the 2006 Act (voluntary filing of tran
 - (a) all the official languages of the European Union, and
 - (b) all documents subject to the Directive disclosure requirements.
 
-## 6. Trading disclosures: amendment of companies legislation[^key-1e86729289b8316e09d8bd06483b4cf3]
+## 6. Trading disclosures: amendment of companies legislation[^c-1e86729289b8316e09d8bd06483b4cf3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -144,33 +144,33 @@ Minister for Industry and the Regions
 
 Department of Trade and Industry
 
-## SCHEDULE 1 — TRADING DISCLOSURES: AMENDMENT OF 1985 ACT[^key-4709c8db3ab5fd1c4023c7466d22f74c]
+## SCHEDULE 1 — TRADING DISCLOSURES: AMENDMENT OF 1985 ACT[^c-4709c8db3ab5fd1c4023c7466d22f74c]
 
 **No longer in force.**
 
 Regulation 6
 
-**1.**[^key-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — TRADING DISCLOSURES: AMENDMENT OF 1986 ORDER[^key-4709c8db3ab5fd1c4023c7466d22f74c]
+## SCHEDULE 2 — TRADING DISCLOSURES: AMENDMENT OF 1986 ORDER[^c-4709c8db3ab5fd1c4023c7466d22f74c]
 
 **No longer in force.**
 
 Regulation 6
 
-**1.**[^key-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4709c8db3ab5fd1c4023c7466d22f74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -200,9 +200,9 @@ Regulations 6 and 7 and Schedules 1 and 2 amend the 1985 Act , the 1986 Order, t
 
 [^c17673261]: Marginal citation: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032)
 
-[^key-ca58bbdddb5b27b2abd6c48625113870]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/3429/regulation/2) applied (18.11.2025) by [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1091(4)](https://www.legislation.gov.uk/ukpga/2006/46/section/1091/4) (as modified by [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436), [Sch. 1 para. 20(4)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/4) (as substituted by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/5/10); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)))
+[^c-ca58bbdddb5b27b2abd6c48625113870]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/3429/regulation/2) applied (18.11.2025) by [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1091(4)](https://www.legislation.gov.uk/ukpga/2006/46/section/1091/4) (as modified by [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436), [Sch. 1 para. 20(4)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/4) (as substituted by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/5/10); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)))
 
-[^key-2d9313a8832d66af538272379e4ef70c]: Modification: Reg. 2 applied by [S.I. 2014/3209](https://www.legislation.gov.uk/uksi/2014/3209), [reg. 20A Table A](https://www.legislation.gov.uk/uksi/2014/3209/regulation/20A) (as inserted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2015/1928/regulation/3))
+[^c-2d9313a8832d66af538272379e4ef70c]: Modification: Reg. 2 applied by [S.I. 2014/3209](https://www.legislation.gov.uk/uksi/2014/3209), [reg. 20A Table A](https://www.legislation.gov.uk/uksi/2014/3209/regulation/20A) (as inserted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2015/1928/regulation/3))
 
 [^c17673271]: Marginal citation: [Section 425(3)](https://www.legislation.gov.uk/uksi/2006/3429/section/425/3) is applied to limited liability partnerships by the [Limited Liability Partnerships Regulations 2001 (S.I. 2001/1090)](https://www.legislation.gov.uk/uksi/2001/1090), [regulation 4](https://www.legislation.gov.uk/uksi/2001/1090/regulation/4) and Schedule 2, Part 1.
 
@@ -224,10 +224,10 @@ Regulations 6 and 7 and Schedules 1 and 2 amend the 1985 Act , the 1986 Order, t
 
 [^c17673361]: Marginal citation: S.R. (NI) 2004 No 307
 
-[^key-1e86729289b8316e09d8bd06483b4cf3]: Textual amendment: Reg. 6 revoked (1.10.2008) by [The Companies (Trading Disclosures) Regulations 2008 (S.I. 2008/495)](https://www.legislation.gov.uk/uksi/2008/495), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/495/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2008/495/regulation/11/2)
+[^c-1e86729289b8316e09d8bd06483b4cf3]: Textual amendment: Reg. 6 revoked (1.10.2008) by [The Companies (Trading Disclosures) Regulations 2008 (S.I. 2008/495)](https://www.legislation.gov.uk/uksi/2008/495), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/495/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2008/495/regulation/11/2)
 
 [^c17673371]: Marginal citation: [Section 188](https://www.legislation.gov.uk/uksi/2006/3429/section/188) is applied to limited liability partnerships by the [Limited Liability Partnerships Regulations 2001 (S.I. 2001/1090)](https://www.legislation.gov.uk/uksi/2001/1090), [regulation 5](https://www.legislation.gov.uk/uksi/2001/1090/regulation/5) and the [Limited Liability Partnerships (Scotland) Regulations 2001 (S.I. 2001/128)](https://www.legislation.gov.uk/uksi/2001/128), [regulation 3](https://www.legislation.gov.uk/uksi/2001/128/regulation/3) and Schedule 1.
 
 [^c17673381]: Marginal citation: [Article 159](https://www.legislation.gov.uk/uksi/2006/3429/article/159) is applied to limited liability partnerships by the Limited Liability Partnerships Regulations (Northern Ireland) 2004 (S.R. (NI) 2004 No 307), regulation 5.
 
-[^key-4709c8db3ab5fd1c4023c7466d22f74c]: Textual amendment: Sch. 1, Sch. 2 revoked (1.10.2008) by [The Companies (Trading Disclosures) Regulations 2008 (S.I. 2008/495)](https://www.legislation.gov.uk/uksi/2008/495), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/495/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2008/495/regulation/11/2)
+[^c-4709c8db3ab5fd1c4023c7466d22f74c]: Textual amendment: Sch. 1, Sch. 2 revoked (1.10.2008) by [The Companies (Trading Disclosures) Regulations 2008 (S.I. 2008/495)](https://www.legislation.gov.uk/uksi/2008/495), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/495/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2008/495/regulation/11/2)

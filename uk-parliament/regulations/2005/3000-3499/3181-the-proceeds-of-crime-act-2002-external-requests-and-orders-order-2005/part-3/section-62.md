@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Arrestment of property affected by order[^key-1c81ca28f61caf6429dde3eadb577e14]
+## 62. Arrestment of property affected by order[^c-1c81ca28f61caf6429dde3eadb577e14]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c81ca28f61caf6429dde3eadb577e14]: Commencement: [Art. 62](https://www.legislation.gov.uk/uksi/2005/3181/article/62) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-1c81ca28f61caf6429dde3eadb577e14]: Commencement: [Art. 62](https://www.legislation.gov.uk/uksi/2005/3181/article/62) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

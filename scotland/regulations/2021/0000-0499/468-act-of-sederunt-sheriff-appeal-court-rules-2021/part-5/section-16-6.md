@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16.6. Applications to enter process as respondent[^key-01bb3ff7a8e0f36022aca520147a2900]
+## 16.6. Applications to enter process as respondent[^c-01bb3ff7a8e0f36022aca520147a2900]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01bb3ff7a8e0f36022aca520147a2900]: Commencement: Para. 16.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-01bb3ff7a8e0f36022aca520147a2900]: Commencement: Para. 16.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

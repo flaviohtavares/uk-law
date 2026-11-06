@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Planning obligations[^key-a404f5a38cd835e7326843c23b57e45e]
+## 32. Planning obligations[^c-a404f5a38cd835e7326843c23b57e45e]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ After section 2D of TCPA 1990 insert—
 
 ## Annotations
 
-[^key-a404f5a38cd835e7326843c23b57e45e]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2007/24/section/32) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)
+[^c-a404f5a38cd835e7326843c23b57e45e]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2007/24/section/32) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)

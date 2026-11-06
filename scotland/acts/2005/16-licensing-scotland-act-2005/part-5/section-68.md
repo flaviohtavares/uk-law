@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Extended hours applications[^key-b7e55ffe0b62cc9387757213f025b2e9]
+## 68. Extended hours applications[^c-b7e55ffe0b62cc9387757213f025b2e9]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ extend the licensed hours in respect of the premises by such period as is specif
 
 ## Annotations
 
-[^key-b7e55ffe0b62cc9387757213f025b2e9]: Commencement: S. 68 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-b7e55ffe0b62cc9387757213f025b2e9]: Commencement: S. 68 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

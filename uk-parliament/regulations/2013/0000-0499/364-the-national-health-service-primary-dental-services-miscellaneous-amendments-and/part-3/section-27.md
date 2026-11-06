@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Amendment of regulation 6[^key-0b36a63d580d73ce51ad701298b0ceab]
+## 27. Amendment of regulation 6[^c-0b36a63d580d73ce51ad701298b0ceab]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ In regulation 6 (reasons)—
 
 ## Annotations
 
-[^key-0b36a63d580d73ce51ad701298b0ceab]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2013/364/regulation/27) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-0b36a63d580d73ce51ad701298b0ceab]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2013/364/regulation/27) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

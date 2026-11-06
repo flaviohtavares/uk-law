@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Amendment of the Care Standards Act 2000 (Registration) (England) Regulations 2010[^key-1bbb05ed7583faa76c1301fd61c47902]
+## 38. Amendment of the Care Standards Act 2000 (Registration) (England) Regulations 2010[^c-1bbb05ed7583faa76c1301fd61c47902]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Care Standards Act 2000 (Registration) (England) Regulations 2010[^f00016] a
 
 ## Annotations
 
-[^key-1bbb05ed7583faa76c1301fd61c47902]: Commencement: Reg. 38 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-1bbb05ed7583faa76c1301fd61c47902]: Commencement: Reg. 38 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
 [^f00016]: Footnote: [S.I. 2010//2130](https://www.legislation.gov.uk/uksi/2010/2130), amended by [S.I. 2013/446](https://www.legislation.gov.uk/uksi/2013/446).

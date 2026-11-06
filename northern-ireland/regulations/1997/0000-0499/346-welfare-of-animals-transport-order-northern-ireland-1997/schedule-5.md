@@ -26,25 +26,25 @@ Article 4(6)
 
 ### Part I — Additional requirements for the construction and maintenance of means of transport and receptac les of mammals and birds not covered by Schedules 2, 3 and 4
 
-#### 1. Ventilation[^key-7b1085f987f9ef97e5cc9378a131bad1]
+#### 1. Ventilation[^c-7b1085f987f9ef97e5cc9378a131bad1]
 
 Means of transport and receptacles shall be constructed, maintained, operated and positioned to provide appropriate ventilation and air space.
 
-#### 2. Size and height[^key-8f6f3bc500fb691b01711d56c73794c8]
+#### 2. Size and height[^c-8f6f3bc500fb691b01711d56c73794c8]
 
 The accommodation available for the carriage of animals shall be such that the animals are provided with adequate space to stand in their natural position.
 
-#### 3. Special provisions for receptacles[^key-79bf6465aa51115290d813ec7cc054da]
+#### 3. Special provisions for receptacles[^c-79bf6465aa51115290d813ec7cc054da]
 
 Receptacles in which animals are transported shall be constructed and maintained so that they allow for appropriate inspection and care of the animals.
 
-#### 4. Special provisions for vehicles[^key-e8bbf971dd6caaa681447e83707e0148]
+#### 4. Special provisions for vehicles[^c-e8bbf971dd6caaa681447e83707e0148]
 
 Vehicles shall be equipped with a roof which ensures effective protection against the weather.
 
-**5.**[^key-7aa2acf11b818c743557a2ce818cb5f7] Vehicles shall be equipped, on each floor on which the animals (other than marine mammals) are carried (other than in receptacles), with barriers so constructed and maintained as to prevent any animal from falling out of the vehicle when any door used for loading and unloading is not fully closed.
+**5.**[^c-7aa2acf11b818c743557a2ce818cb5f7] Vehicles shall be equipped, on each floor on which the animals (other than marine mammals) are carried (other than in receptacles), with barriers so constructed and maintained as to prevent any animal from falling out of the vehicle when any door used for loading and unloading is not fully closed.
 
-**6.**[^key-18a23a93292fd0d21e0ec1f5eab7b0da] (1) Every ramp which is carried on or forms part of a vehicle shall be constructed, maintained and operated—
+**6.**[^c-18a23a93292fd0d21e0ec1f5eab7b0da] (1) Every ramp which is carried on or forms part of a vehicle shall be constructed, maintained and operated—
 
 - (a) to prevent slipping;
 - (b) so that it is not too steep for the age and species of the animal being transported;
@@ -55,11 +55,11 @@ Vehicles shall be equipped with a roof which ensures effective protection agains
 
 (3) A ramp to which this paragraph applies shall be provided with suitable side barriers where necessary.
 
-**7.**[^key-4893989debcd940387dd431f67f4b84f] In the case of animals which are normally required to be tied, suitable provision shall be made so that animals may be tied to the interior of the vehicle.
+**7.**[^c-4893989debcd940387dd431f67f4b84f] In the case of animals which are normally required to be tied, suitable provision shall be made so that animals may be tied to the interior of the vehicle.
 
 ### Part II — Additional requirements for the transport of mammals and birds not covered by Schedules 2, 3 and 4
 
-#### 8. Loading equipment[^key-162b6ff130d744f69b33caf467e3b4e2]
+#### 8. Loading equipment[^c-162b6ff130d744f69b33caf467e3b4e2]
 
 (1) Animals shall be loaded and unloaded in accordance with this paragraph.
 
@@ -76,7 +76,7 @@ Vehicles shall be equipped with a roof which ensures effective protection agains
 
 (6) An animal may be loaded or unloaded without equipment or by manual lifting or carrying provided that, having regard to the age, height and species of the animal, it is unlikely to be caused injury or unnecessary suffering by being loaded in this manner.
 
-#### 9. Movement from floor to floor[^key-a67547868c2183d31d7f4c6aa6de631f]
+#### 9. Movement from floor to floor[^c-a67547868c2183d31d7f4c6aa6de631f]
 
 (1) Animals shall be moved from one floor or deck of a vehicle, vessel or receptacle to another in accordance with this paragraph.
 
@@ -90,70 +90,70 @@ Vehicles shall be equipped with a roof which ensures effective protection agains
 
 (4) Manual lifting or carrying may be used if the animal is of a size that can easily be lifted by no more than two persons and the movement is carried out without causing injury or unnecessary suffering to the animal.
 
-#### 10. Segregation of species[^key-8b84db3dc81fe93d6e68a1fd5975f76d]
+#### 10. Segregation of species[^c-8b84db3dc81fe93d6e68a1fd5975f76d]
 
 Animals shall not be carried in the same undivided pen, receptacle, vehicle or rail wagon as any other animal unless it is known that they are compatible with each other.
 
-#### 11. Duties of attendants[^key-57fc1526d153059a15f4be44cb26f102]
+#### 11. Duties of attendants[^c-57fc1526d153059a15f4be44cb26f102]
 
 The attendant or consignor’s agent shall look after the animals and, if necessary, feed and water them.
 
-#### 12. Notice describing an animal[^key-caaec39411563aa1e2bda6d173331fb1]
+#### 12. Notice describing an animal[^c-caaec39411563aa1e2bda6d173331fb1]
 
 Where the means of transport or receptacle contains animals which are wild, timid or dangerous a notice to that effect shall be fixed to it.
 
-#### 13. Special provision for transport by water[^key-e180c7d302b44ccb3ba16f4c4cf6924c]
+#### 13. Special provision for transport by water[^c-e180c7d302b44ccb3ba16f4c4cf6924c]
 
 Vessels used for the transport of animals shall, before sailing, be provided with sufficient supplies of drinking water (unless they are equipped with a suitable system allowing its production) and appropriate foodstuffs, having regard to the species and number of animals being transported as well as the duration of the voyage.
 
-#### 14. Sedation[^key-f10b9a177741a464fe9631e8e8a02d33]
+#### 14. Sedation[^c-f10b9a177741a464fe9631e8e8a02d33]
 
 Sedation shall be given only exceptionally and under the direct supervision of a veterinary surgeon. Written details of such sedation shall accompany the animal to its place of destination.
 
-#### 15. Conditioning of animals[^key-eedb2b2920a2f475673eacf6d619302c]
+#### 15. Conditioning of animals[^c-eedb2b2920a2f475673eacf6d619302c]
 
 Where appropriate, animals shall be held for a suitable period prior to transport to prepare them for loading, unloading and transport. During that period they shall, if necessary, be moved gradually into their receptacle.
 
-#### 16. Birds in semi-darkness[^key-f5be1f2ba9f7838b399f091ad75c0645]
+#### 16. Birds in semi-darkness[^c-f5be1f2ba9f7838b399f091ad75c0645]
 
 Birds shall be kept in semi-darkness.
 
-#### 17. Stacking of receptacles for marine mammals[^key-10820ef4a57a174deae8136349b693b4]
+#### 17. Stacking of receptacles for marine mammals[^c-10820ef4a57a174deae8136349b693b4]
 
 Receptacles in which marine mammals are transported shall not be stacked.
 
 ## Annotations
 
-[^key-7b1085f987f9ef97e5cc9378a131bad1]: Commencement: Sch. 5 para. 1 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-7b1085f987f9ef97e5cc9378a131bad1]: Commencement: Sch. 5 para. 1 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-8f6f3bc500fb691b01711d56c73794c8]: Commencement: Sch. 5 para. 2 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-8f6f3bc500fb691b01711d56c73794c8]: Commencement: Sch. 5 para. 2 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-79bf6465aa51115290d813ec7cc054da]: Commencement: Sch. 5 para. 3 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-79bf6465aa51115290d813ec7cc054da]: Commencement: Sch. 5 para. 3 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-e8bbf971dd6caaa681447e83707e0148]: Commencement: Sch. 5 para. 4 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-e8bbf971dd6caaa681447e83707e0148]: Commencement: Sch. 5 para. 4 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-7aa2acf11b818c743557a2ce818cb5f7]: Commencement: Sch. 5 para. 5 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-7aa2acf11b818c743557a2ce818cb5f7]: Commencement: Sch. 5 para. 5 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-18a23a93292fd0d21e0ec1f5eab7b0da]: Commencement: Sch. 5 para. 6 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-18a23a93292fd0d21e0ec1f5eab7b0da]: Commencement: Sch. 5 para. 6 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-4893989debcd940387dd431f67f4b84f]: Commencement: Sch. 5 para. 7 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-4893989debcd940387dd431f67f4b84f]: Commencement: Sch. 5 para. 7 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-162b6ff130d744f69b33caf467e3b4e2]: Commencement: Sch. 5 para. 8 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-162b6ff130d744f69b33caf467e3b4e2]: Commencement: Sch. 5 para. 8 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-a67547868c2183d31d7f4c6aa6de631f]: Commencement: Sch. 5 para. 9 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-a67547868c2183d31d7f4c6aa6de631f]: Commencement: Sch. 5 para. 9 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-8b84db3dc81fe93d6e68a1fd5975f76d]: Commencement: Sch. 5 para. 10 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-8b84db3dc81fe93d6e68a1fd5975f76d]: Commencement: Sch. 5 para. 10 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-57fc1526d153059a15f4be44cb26f102]: Commencement: Sch. 5 para. 11 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-57fc1526d153059a15f4be44cb26f102]: Commencement: Sch. 5 para. 11 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-caaec39411563aa1e2bda6d173331fb1]: Commencement: Sch. 5 para. 12 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-caaec39411563aa1e2bda6d173331fb1]: Commencement: Sch. 5 para. 12 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-e180c7d302b44ccb3ba16f4c4cf6924c]: Commencement: Sch. 5 para. 13 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-e180c7d302b44ccb3ba16f4c4cf6924c]: Commencement: Sch. 5 para. 13 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-f10b9a177741a464fe9631e8e8a02d33]: Commencement: Sch. 5 para. 14 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-f10b9a177741a464fe9631e8e8a02d33]: Commencement: Sch. 5 para. 14 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-eedb2b2920a2f475673eacf6d619302c]: Commencement: Sch. 5 para. 15 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-eedb2b2920a2f475673eacf6d619302c]: Commencement: Sch. 5 para. 15 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-f5be1f2ba9f7838b399f091ad75c0645]: Commencement: Sch. 5 para. 16 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-f5be1f2ba9f7838b399f091ad75c0645]: Commencement: Sch. 5 para. 16 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-10820ef4a57a174deae8136349b693b4]: Commencement: Sch. 5 para. 17 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-10820ef4a57a174deae8136349b693b4]: Commencement: Sch. 5 para. 17 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

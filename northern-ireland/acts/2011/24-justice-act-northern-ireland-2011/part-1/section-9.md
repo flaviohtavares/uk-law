@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Special provisions relating to sexual offences[^key-e04386e9b69c84d578ad43aa0a2b4fca]
+## 9. Special provisions relating to sexual offences[^c-e04386e9b69c84d578ad43aa0a2b4fca]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ After Article 10 of the Criminal Evidence (Northern Ireland) Order 1999 (NI 8) i
 
 ## Annotations
 
-[^key-e04386e9b69c84d578ad43aa0a2b4fca]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2011/24/section/9) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(a)](https://www.legislation.gov.uk/nisr/2011/370/article/3/a)
+[^c-e04386e9b69c84d578ad43aa0a2b4fca]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2011/24/section/9) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(a)](https://www.legislation.gov.uk/nisr/2011/370/article/3/a)

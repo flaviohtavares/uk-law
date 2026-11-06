@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Power to enter premises not being used as a residential unit[^key-e5bfd08c22ebd7749c0254047b065fbb]
+## 103. Power to enter premises not being used as a residential unit[^c-e5bfd08c22ebd7749c0254047b065fbb]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5bfd08c22ebd7749c0254047b065fbb]: Commencement: S. 103 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-e5bfd08c22ebd7749c0254047b065fbb]: Commencement: S. 103 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

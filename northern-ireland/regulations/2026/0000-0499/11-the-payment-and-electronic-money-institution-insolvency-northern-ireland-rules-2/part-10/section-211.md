@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 211. Application of Article 200 of the I (N.I.) O 1989[^key-6648814985dcd4dc219143167ac33795]
+## 211. Application of Article 200 of the I (N.I.) O 1989[^c-6648814985dcd4dc219143167ac33795]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6648814985dcd4dc219143167ac33795]: Commencement: [Rule 211](https://www.legislation.gov.uk/nisr/2026/11/rule/211) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-6648814985dcd4dc219143167ac33795]: Commencement: [Rule 211](https://www.legislation.gov.uk/nisr/2026/11/rule/211) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 141. Circumstances in which an income-based jobseeker’s allowance is payable to a person in hardship[^key-c714daaa97c324667d00ddec91865705]
+## 141. Circumstances in which an income-based jobseeker’s allowance is payable to a person in hardship[^c-c714daaa97c324667d00ddec91865705]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c714daaa97c324667d00ddec91865705]: Commencement: Reg. 141 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-c714daaa97c324667d00ddec91865705]: Commencement: Reg. 141 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

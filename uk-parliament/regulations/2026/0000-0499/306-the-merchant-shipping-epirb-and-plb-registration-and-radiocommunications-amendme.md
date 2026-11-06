@@ -48,23 +48,23 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 85(1), (3)(a), (c), (d), (e), (f), (h), (k), (l), (n), (o), (p) and (q) and (5) and (7), 86(1)(a), (b), (c) and (d) and 302(1) of the Merchant Shipping Act 1995[^f00001], section 112(1)(a) and (c) and (3)(b) and (5) of the Railways and Transport Safety Act 2003[^f00002], and with the consent of the Treasury.
 
-The Secretary of State has consulted such persons in the United Kingdom as the Secretary of State considers will be affected by the exercise of powers in this instrument, and the organisations in the United Kingdom who appear to the Secretary of State to be representative of such persons, in accordance with section 86(4) of the Merchant Shipping Act 1995 and section 112(7)(c) of the Railways and Transport Safety Act 2003.[^key-0f2aeb5687a0e702211b5fb95f0ff068]
+The Secretary of State has consulted such persons in the United Kingdom as the Secretary of State considers will be affected by the exercise of powers in this instrument, and the organisations in the United Kingdom who appear to the Secretary of State to be representative of such persons, in accordance with section 86(4) of the Merchant Shipping Act 1995 and section 112(7)(c) of the Railways and Transport Safety Act 2003.[^c-0f2aeb5687a0e702211b5fb95f0ff068]
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-156a2fd7fecbedf61a0c68e1fe2d9e15]
+### 1. Citation, commencement and extent[^c-156a2fd7fecbedf61a0c68e1fe2d9e15]
 
 (1) These Regulations may be cited as the Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 and come into force on 15th April 2026.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Amendments and revocation[^key-fb8c1a10e51f22bcbeeb7d1c6665824b]
+### 2. Amendments and revocation[^c-fb8c1a10e51f22bcbeeb7d1c6665824b]
 
 (1) The Schedule contains minor and consequential amendments.
 
 (2) The Merchant Shipping (EPIRB Registration) Regulations 2000[^f00003] are revoked.
 
-### 3. Interpretation[^key-a0dffe193fdf3f51bffdd9b194c3cf75]
+### 3. Interpretation[^c-a0dffe193fdf3f51bffdd9b194c3cf75]
 
 (1) In these Regulations—
 
@@ -80,7 +80,7 @@ The Secretary of State has consulted such persons in the United Kingdom as the S
 
 (2) For the purposes of these Regulations, where a ship is operated by a person other than its owner, whether on behalf of the owner by a managing agent or some other person, or on that person’s own behalf, a reference to the owner is to be construed as including a reference to that person.
 
-### 4. Application[^key-991cd79e0b00f66dbf5e4ca92ed6eafa]
+### 4. Application[^c-991cd79e0b00f66dbf5e4ca92ed6eafa]
 
 (1) The provisions of these Regulations specified in paragraph (2) apply to ships wherever they may be.
 
@@ -91,7 +91,7 @@ The Secretary of State has consulted such persons in the United Kingdom as the S
 
 ## PART 2 — Registration Requirements
 
-### 5. Requirements in relation to EPIRB registration[^key-eedc9674b6f6c0fafae696ec65455f54]
+### 5. Requirements in relation to EPIRB registration[^c-eedc9674b6f6c0fafae696ec65455f54]
 
 (1) The owner and master of a ship must ensure that every EPIRB carried on that ship is registered with the Secretary of State and that the registered particulars referred to in paragraph (2) are correct.
 
@@ -99,7 +99,7 @@ The Secretary of State has consulted such persons in the United Kingdom as the S
 
 (3) The owner and master must, where there is a change in the particulars registered in respect of an EPIRB under paragraph (1), give written notice of the change to the Secretary of State as soon as reasonably practicable.
 
-### 6. Requirements in relation to PLB registration[^key-10a1d0b4f19d76682434b5a2b45bc023]
+### 6. Requirements in relation to PLB registration[^c-10a1d0b4f19d76682434b5a2b45bc023]
 
 (1) A person (“the PLB owner”) must ensure that every PLB which is—
 
@@ -114,7 +114,7 @@ is registered with the Secretary of State and that the registered particulars re
 
 ## PART 3 — Enforcement
 
-### 7. Offences and penalties[^key-8c34b0dd3ee5dad9f37d73b0b55e24eb]
+### 7. Offences and penalties[^c-8c34b0dd3ee5dad9f37d73b0b55e24eb]
 
 (1) If the owner and master enables a ship to proceed, or attempt to proceed, to sea or on any voyage, or arrive within United Kingdom waters, in breach of a requirement in regulation 5(1) or (3), the owner and the master are each guilty of an offence in respect of each case of non-compliance.
 
@@ -129,7 +129,7 @@ is registered with the Secretary of State and that the registered particulars re
 
 (4) It is a defence for a person charged with an offence under this regulation to prove that the person charged took all reasonable steps to avoid the commission of the offence.
 
-### 8. Detention[^key-62823891c0186b2cfadad33f563bd143]
+### 8. Detention[^c-62823891c0186b2cfadad33f563bd143]
 
 (1) For the purposes of this regulation, any reference to “**the Act**” is a reference to the Merchant Shipping Act 1995.
 
@@ -181,7 +181,7 @@ Regulation 2(1)
 
 ### PART 1 — Amendments in relation to the Merchant Shipping (Radio Installations) Regulations 1998 etc.
 
-#### 1. Amendment of the Merchant Shipping (Radio Installations) Regulations 1998[^key-35514f121a2ef7c17abc4945bf7abd69]
+#### 1. Amendment of the Merchant Shipping (Radio Installations) Regulations 1998[^c-35514f121a2ef7c17abc4945bf7abd69]
 
 (1) The Merchant Shipping (Radio Installations) Regulations 1998[^f00011] are amended as follows.
 
@@ -195,7 +195,7 @@ Regulation 2(1)
 
 .
 
-#### 2. Amendment of the Merchant Shipping (Fees) Regulations 2018[^key-3e9d674a4f5fe3e0701418d18a0eeaca]
+#### 2. Amendment of the Merchant Shipping (Fees) Regulations 2018[^c-3e9d674a4f5fe3e0701418d18a0eeaca]
 
 (1) The table in paragraph 5 (fees for inspections, etc.) of Part 1 (surveys, inspections and applications for exemption) of Schedule 1 (fees under the Merchant Shipping Act 1995) to the Merchant Shipping (Fees) Regulations 2018[^f00012] is amended as follows.
 
@@ -238,7 +238,7 @@ Regulation 2(1)
 
     .
 
-#### 3. Amendment of the Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021[^key-e1f8b6bbfe620d816e7f53002443622f]
+#### 3. Amendment of the Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021[^c-e1f8b6bbfe620d816e7f53002443622f]
 
 (1) The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021[^f00013] are amended as follows.
 
@@ -252,7 +252,7 @@ Regulation 2(1)
 
 ### PART 2 — Amendment of the Merchant Shipping (Watercraft) Order 2023
 
-#### 1. Merchant Shipping (Watercraft) Order 2023[^key-6f9952813a5358d895be56742fbbe11c]
+#### 1. Merchant Shipping (Watercraft) Order 2023[^c-6f9952813a5358d895be56742fbbe11c]
 
 For paragraph 2 of Schedule 2 to the Merchant Shipping (Watercraft) Order 2023[^f00014] substitute—
 
@@ -325,15 +325,15 @@ An Explanatory Memorandum and a de minimis assessment have been prepared and are
 
 [^f00002]: Footnote: [2003 c. 20](https://www.legislation.gov.uk/ukpga/2003/20), to which there are amendments but none is relevant.
 
-[^key-0f2aeb5687a0e702211b5fb95f0ff068]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2026/306) applied in part (with modifications) (15.4.2026) by S.I. 2023/35, Sch. 2 para. 2 (as substituted by [The Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 (S.I. 2026/306)](https://www.legislation.gov.uk/uksi/2026/306), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1), [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/2/paragraph/1))
+[^c-0f2aeb5687a0e702211b5fb95f0ff068]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2026/306) applied in part (with modifications) (15.4.2026) by S.I. 2023/35, Sch. 2 para. 2 (as substituted by [The Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 (S.I. 2026/306)](https://www.legislation.gov.uk/uksi/2026/306), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1), [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/2/paragraph/1))
 
-[^key-156a2fd7fecbedf61a0c68e1fe2d9e15]: Commencement: Reg. 1 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
+[^c-156a2fd7fecbedf61a0c68e1fe2d9e15]: Commencement: Reg. 1 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
 
-[^key-fb8c1a10e51f22bcbeeb7d1c6665824b]: Commencement: Reg. 2 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
+[^c-fb8c1a10e51f22bcbeeb7d1c6665824b]: Commencement: Reg. 2 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2000/1850](https://www.legislation.gov.uk/uksi/2000/1850).
 
-[^key-a0dffe193fdf3f51bffdd9b194c3cf75]: Commencement: Reg. 3 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
+[^c-a0dffe193fdf3f51bffdd9b194c3cf75]: Commencement: Reg. 3 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
 
 [^f00004]: Footnote: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59). Section 1(1)(h) was amended by the Supreme Court Act [1981 (c. 54)](https://www.legislation.gov.uk/ukpga/1981/54), Schedule 5, and the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), section 59(5), Schedule 11, Part 1, paragraph 1(2). There are other amendments to the Act but none is relevant.
 
@@ -341,17 +341,17 @@ An Explanatory Memorandum and a de minimis assessment have been prepared and are
 
 [^f00006]: Footnote: A hovercraft is registered in the United Kingdom in accordance with Part 1 of the Hovercraft (General) Order 1972 ([S.I. 1972/674](https://www.legislation.gov.uk/uksi/1972/674)).
 
-[^key-991cd79e0b00f66dbf5e4ca92ed6eafa]: Commencement: Reg. 4 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
+[^c-991cd79e0b00f66dbf5e4ca92ed6eafa]: Commencement: Reg. 4 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
 
-[^key-eedc9674b6f6c0fafae696ec65455f54]: Commencement: Reg. 5 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
+[^c-eedc9674b6f6c0fafae696ec65455f54]: Commencement: Reg. 5 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
 
 [^f00007]: Footnote: Merchant Shipping Notice 1924 (M+F) is available on https://www.gov.uk/government/collections/merchant-shipping-notices-msns and in hard copy from the Maritime and Coastguard Agency (MCA), Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-10a1d0b4f19d76682434b5a2b45bc023]: Commencement: Reg. 6 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
+[^c-10a1d0b4f19d76682434b5a2b45bc023]: Commencement: Reg. 6 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
 
-[^key-8c34b0dd3ee5dad9f37d73b0b55e24eb]: Commencement: Reg. 7 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
+[^c-8c34b0dd3ee5dad9f37d73b0b55e24eb]: Commencement: Reg. 7 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
 
-[^key-62823891c0186b2cfadad33f563bd143]: Commencement: Reg. 8 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
+[^c-62823891c0186b2cfadad33f563bd143]: Commencement: Reg. 8 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
 
 [^f00008]: Footnote: Section 284 was amended by paragraph 5 of Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
@@ -359,19 +359,19 @@ An Explanatory Memorandum and a de minimis assessment have been prepared and are
 
 [^f00010]: Footnote: Section 95 was amended by paragraph 2 of Schedule 1 to the Merchant Shipping and Maritime Security Act 1997.
 
-[^key-35514f121a2ef7c17abc4945bf7abd69]: Commencement: Sch. Pt. 1 para. 1 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
+[^c-35514f121a2ef7c17abc4945bf7abd69]: Commencement: Sch. Pt. 1 para. 1 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
 
 [^f00011]: Footnote: [S.I. 1998/2070](https://www.legislation.gov.uk/uksi/1998/2070), amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), [2005/2114](https://www.legislation.gov.uk/uksi/2005/2114), [2016/1025](https://www.legislation.gov.uk/uksi/2016/1025), [2018/1221](https://www.legislation.gov.uk/uksi/2018/1221), [2021/1316](https://www.legislation.gov.uk/uksi/2021/1316), [2022/1219](https://www.legislation.gov.uk/uksi/2022/1219), [2023/246](https://www.legislation.gov.uk/uksi/2023/246), [2023/1216](https://www.legislation.gov.uk/uksi/2023/1216) and [2025/1280](https://www.legislation.gov.uk/uksi/2025/1280).
 
-[^key-3e9d674a4f5fe3e0701418d18a0eeaca]: Commencement: [Sch. Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/1/paragraph/2) in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
+[^c-3e9d674a4f5fe3e0701418d18a0eeaca]: Commencement: [Sch. Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/1/paragraph/2) in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
 
 [^f00012]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), amended by [S.I. 2025/1103](https://www.legislation.gov.uk/uksi/2025/1103); there are other amendments which are not relevant to these Regulations.
 
-[^key-e1f8b6bbfe620d816e7f53002443622f]: Commencement: [Sch. Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/1/paragraph/3) in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
+[^c-e1f8b6bbfe620d816e7f53002443622f]: Commencement: [Sch. Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/1/paragraph/3) in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 2021/1316](https://www.legislation.gov.uk/uksi/2021/1316), as amended by [S.I. 2022/1219](https://www.legislation.gov.uk/uksi/2022/1219), [2023/246](https://www.legislation.gov.uk/uksi/2023/246), [2023/1216](https://www.legislation.gov.uk/uksi/2023/1216) and [2025/1195](https://www.legislation.gov.uk/uksi/2025/1195).
 
-[^key-6f9952813a5358d895be56742fbbe11c]: Commencement: Sch. Pt. 2 para. 1 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
+[^c-6f9952813a5358d895be56742fbbe11c]: Commencement: Sch. Pt. 2 para. 1 in force at 15.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35).
 

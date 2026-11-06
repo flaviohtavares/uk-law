@@ -60,11 +60,11 @@ In these Regulations—
 
 - “**the 2006 Act**” means the National Health Service Act 2006;
 - “**armed forces**” means the regular forces within the meaning of the Armed Forces Act 2006 [^c21653201] or the reserve forces within the meaning of that Act;
-- [^key-8ef30e2430d89202d8d2f3557ee2e435]...
+- [^c-8ef30e2430d89202d8d2f3557ee2e435]...
 - “**dental list**” means a list prepared by a Primary Care Trust under regulation 4(1) of the National Health Service (General Dental Services) Regulations 1992 (dental list) [^c21653221];
-- “**dental performers list**” means, unless the context otherwise requires, the list prepared, maintained and published by NHS England[^key-7ebd5a4ab0ff4a808993a49da7d0cb94] pursuant to regulation 3(1)(b);
+- “**dental performers list**” means, unless the context otherwise requires, the list prepared, maintained and published by NHS England[^c-7ebd5a4ab0ff4a808993a49da7d0cb94] pursuant to regulation 3(1)(b);
 - “**dental supplementary list**” means a list prepared by a Primary Care Trust under regulation 3 of the National Health Service (General Dental Services Supplementary List) and (General Dental Services) Amendment Regulations 2003 (supplementary list) [^c21653231];
-- “dentists register” means the register referred to in section 14(1) of the Dentists Act 1984;[^key-20cdde5fac1b50f98c5e16d820665a3a]
+- “dentists register” means the register referred to in section 14(1) of the Dentists Act 1984;[^c-20cdde5fac1b50f98c5e16d820665a3a]
 - “**director of a body corporate**” includes a member of the body of persons controlling a body corporate (whether or not a limited liability partnership);
 - “**emergency registered practitioner**” means a medical practitioner—
   - (a) who is registered as a registered medical practitioner pursuant to section 18A of the Medical Act 1983 (temporary registration with regard to emergencies involving loss of human life or human illness etc.) [^c21653241];
@@ -107,8 +107,8 @@ In these Regulations—
 - “**national disqualification**” means the effect of a decision of the First-tier Tribunal under section 159(1) of the 2006 Act (national disqualification);
 - “**the NCAA**” means the National Clinical Assessment Authority established as a Special Health Authority under section 28 of the 2006 Act (special health authorities) [^c21653321];
 - “**the NHS Business Services Authority**” means the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) established as a Special Health Authority under section 28 of the 2006 Act (special health authorities);
-- “NHS Counter Fraud Authority” means the NHS Counter Fraud Authority established as a special health authority under section 28 of the 2006 Act;[^key-6d67404246db383036fd11ff0f5b5584]
-- “[^key-40f5e20e56b32bc31684cf454b3a4bd9]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
+- “NHS Counter Fraud Authority” means the NHS Counter Fraud Authority established as a special health authority under section 28 of the 2006 Act;[^c-6d67404246db383036fd11ff0f5b5584]
+- “[^c-40f5e20e56b32bc31684cf454b3a4bd9]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
 - “**the NHSLA**” means the National Health Service Litigation Authority established as a Special Health Authority under section 28 of the 2006 Act (special health authorities);
 - “**the NICE**” means the National Institute for Health and Clinical Excellence established as a Special Health Authority under section 28 of the 2006 Act (special health authorities) [^c21653331];
 - “**the NPSA**” means the National Patient Safety Agency established as a Special Health Authority under section 28 of the 2006 Act (special health authorities) [^c21653341];
@@ -135,7 +135,7 @@ In these Regulations—
   - (a) in the case of a medical practitioner, Part 2;
   - (b) in the case of a dental practitioner, Part 3; and
   - (c) in the case of an ophthalmic practitioner, Part 4;
-- “[^key-ce4159cdc17193639b5bc2c3899df1cd]**returning practitioner**” means a Practitioner who was included in a performers list at any time before making an application for inclusion in a performers list;
+- “[^c-ce4159cdc17193639b5bc2c3899df1cd]**returning practitioner**” means a Practitioner who was included in a performers list at any time before making an application for inclusion in a performers list;
 - “**Type 1 armed forces GP**” means a medical practitioner—
   - (a) who is a member of the armed forces or employed by the Ministry of Defence; and
   - (b) whose name is included in the GP Register;
@@ -165,17 +165,17 @@ In these Regulations—
 - (b) in relation to an application for inclusion in the dental performers list, satisfy the requirements of regulation 33; and
 - (c) in relation to an application for inclusion in the ophthalmic performers list, satisfy the requirements of regulation 39.
 
-(2) The Practitioner must provide the following , subject to paragraph (9)[^key-098bceafa9d1ae3aa7db7951745200c1]—
+(2) The Practitioner must provide the following , subject to paragraph (9)[^c-098bceafa9d1ae3aa7db7951745200c1]—
 
 - (a) the Practitioner's full name;
-- (b)[^key-9a7385226c4899a66f8016e55f6294c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9a7385226c4899a66f8016e55f6294c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Practitioner's date of birth;
 - (d) the Practitioner's residential address and telephone number;
-- (e) chronological details of the Practitioner's professional experience (including the starting and finishing dates of each appointment [^key-93437e1364da3a0f9264c07fc6fa022b]...) and evidence of each post, and, if the Practitioner has been dismissed from any post, the reasons for that dismissal;
+- (e) chronological details of the Practitioner's professional experience (including the starting and finishing dates of each appointment [^c-93437e1364da3a0f9264c07fc6fa022b]...) and evidence of each post, and, if the Practitioner has been dismissed from any post, the reasons for that dismissal;
 - (f) names and addresses of two referees, who are willing to provide clinical references relating to two recent posts (which may include any current post) each of which lasted at least three months without a significant break, or, where this is not possible, a full explanation as to why that is the case and the names and addresses of two alternative referees;
 - (g) where the Practitioner has one, a copy of the Practitioner's most recent appraisal;
 - (h) evidence that the Practitioner has in force an appropriate indemnity arrangement which provides the Practitioner with cover in respect of liabilities that may be incurred in carrying out the Practitioner's work;
-- (ha)[^key-16fb9e471233fd7821b8b67fd46ee9c2] confirmation of whether the Practitioner is or at any time has been included in an equivalent list;
+- (ha)[^c-16fb9e471233fd7821b8b67fd46ee9c2] confirmation of whether the Practitioner is or at any time has been included in an equivalent list;
 - (i) confirmation of whether the Practitioner has any outstanding application, including a deferred application, to be included in any list and if so, particulars of that application;
 - (j) details of any list—
   - (i) from which the Practitioner has been removed,
@@ -191,8 +191,8 @@ In these Regulations—
   - (iii) from which it has been removed, or
   - (iv) from which it is currently suspended,
 
-  together with an explanation as to why; [^key-b7a52cc6ee33665ff23d9cd27ea82827]...
-- (m) an enhanced criminal record certificate under section 113B of the Police Act 1997 (enhanced criminal record certificates) [^c21653421] which includes suitability information relating to children and suitability information relating to vulnerable adults under sections 113BA (suitability information relating to children) and 113BB (suitability information relating to vulnerable adults) of that Act respectively [^c21653431] ; and[^key-88507406b8ff57ad5f79dd9b806641c4]
+  together with an explanation as to why; [^c-b7a52cc6ee33665ff23d9cd27ea82827]...
+- (m) an enhanced criminal record certificate under section 113B of the Police Act 1997 (enhanced criminal record certificates) [^c21653421] which includes suitability information relating to children and suitability information relating to vulnerable adults under sections 113BA (suitability information relating to children) and 113BB (suitability information relating to vulnerable adults) of that Act respectively [^c21653431] ; and[^c-88507406b8ff57ad5f79dd9b806641c4]
 - (n) if the Practitioner has resided in a country other than the United Kingdom for 12 months or more (whether in a continuous period or otherwise) while over the age of 18 years during the period of 5 years immediately before making the application—
   - (i) a certificate issued by an authority of that country which is equivalent to an enhanced criminal record certificate referred to in paragraph (m), or
   - (ii) if the Practitioner is unable to obtain such a certificate, a statement in writing demonstrating that the Practitioner has taken all reasonable steps to obtain such a certificate.
@@ -200,7 +200,7 @@ In these Regulations—
 (3) The Practitioner must provide the following undertakings—
 
 - (a) to provide any declaration or document required by regulation 9;
-- (b) to notify NHS England within 7 days of any material change to the information provided in or with[^key-f4d4fef368964468362259ce1314a6c6] the application, whether such change occurs before NHS England’s determination of the Practitioner's application or subsequently;
+- (b) to notify NHS England within 7 days of any material change to the information provided in or with[^c-f4d4fef368964468362259ce1314a6c6] the application, whether such change occurs before NHS England’s determination of the Practitioner's application or subsequently;
 - (c) to maintain an appropriate indemnity arrangement which provides cover in respect of liabilities that may be incurred in carrying out work as a Practitioner at all times and to provide evidence of such an indemnity arrangement to NHS England on request;
 - (d) to notify NHS England if the Practitioner is included, or applies to be included, in any other list;
 - (e) to co-operate with an assessment by the NHSLA where appropriate and when requested to do so by NHS England; and
@@ -210,17 +210,17 @@ In these Regulations—
 
 (5) The Practitioner must send with the application a declaration as to whether the Practitioner—
 
-- (a) has a criminal conviction in the United Kingdom (but the Practitioner need not declare a protected conviction)[^key-4fdcfb0cd655db64e2f74e1bb1d80be8], including one in respect of which the Practitioner has been bound over;
-- (b) has accepted a police caution in the United Kingdom (but the Practitioner need not declare a protected caution)[^key-7635334b190d21447d847e763223aa20];
+- (a) has a criminal conviction in the United Kingdom (but the Practitioner need not declare a protected conviction)[^c-4fdcfb0cd655db64e2f74e1bb1d80be8], including one in respect of which the Practitioner has been bound over;
+- (b) has accepted a police caution in the United Kingdom (but the Practitioner need not declare a protected caution)[^c-7635334b190d21447d847e763223aa20];
 - (c) has accepted a conditional offer under section 302 of the Criminal Procedure (Scotland) Act 1995 [^c21653441] (fixed penalty: conditional offer by procurator fiscal) or a compensation offer under section 302A of that Act [^c21653451] (compensation offer by procurator fiscal) or agreed to pay a penalty under section 115A of the Social Security Administration Act 1992 [^c21653461] (penalty as alternative to prosecution);
 - (d) has, in proceedings in Scotland for an offence, been the subject of an order under section 246(2) or (3) of the Criminal Procedure (Scotland) Act 1995 (admonition and absolute discharge) [^c21653471] discharging the Practitioner absolutely;
-- (e) has been convicted elsewhere of an offence which would constitute a criminal offence if committed in England and Wales (but the Practitioner need not declare such an offence if the offence would constitute a protected conviction if committed in England and Wales)[^key-54731bec0a27916298ac05e06147aae7];
+- (e) has been convicted elsewhere of an offence which would constitute a criminal offence if committed in England and Wales (but the Practitioner need not declare such an offence if the offence would constitute a protected conviction if committed in England and Wales)[^c-54731bec0a27916298ac05e06147aae7];
 - (f) is currently the subject of any proceedings (which includes arrest, charge or bail) which might lead to a conviction;
 - (g) has been the subject of any investigation by any regulatory or other body which included a finding adverse to the Practitioner;
 - (h) is currently the subject of any investigation by any regulatory or other body;
-- (i) is involved in an inquest conducted as part of an investigation under the Coroners and Justice Act 2009, as a person who is found to have caused, or contributed to, the death of the deceased or otherwise had their conduct brought into question[^key-168a405d4831f116df1d602d6123a17c];
-- (j) has been the subject of any investigation by the NHS Business Services Authority or the[^key-b08062b07a4ca8ca4d35809d9eacaf5a] NHS Counter Fraud Authority in relation to fraud which included a finding adverse to the Practitioner;
-- (k) is currently the subject of any investigation by the NHS[^key-9a4c702deceb8a6dae4190fe90adbb1c] Counter Fraud Authority in relation to fraud;
+- (i) is involved in an inquest conducted as part of an investigation under the Coroners and Justice Act 2009, as a person who is found to have caused, or contributed to, the death of the deceased or otherwise had their conduct brought into question[^c-168a405d4831f116df1d602d6123a17c];
+- (j) has been the subject of any investigation by the NHS Business Services Authority or the[^c-b08062b07a4ca8ca4d35809d9eacaf5a] NHS Counter Fraud Authority in relation to fraud which included a finding adverse to the Practitioner;
+- (k) is currently the subject of any investigation by the NHS[^c-9a4c702deceb8a6dae4190fe90adbb1c] Counter Fraud Authority in relation to fraud;
 - (l) is the subject of any investigation by the holder of any list which might lead to the Practitioner's removal from the list;
 - (m) is the subject of any investigation in respect of any current or previous employment;
 - (n) has been the subject of any investigation in respect of any current or previous employment which included a finding adverse to the Practitioner;
@@ -236,15 +236,15 @@ In these Regulations—
 - (c) is currently the subject of any proceedings (which includes a charge) which might lead to a conviction;
 - (d) has been the subject of any investigation by any regulatory or other body which included a finding adverse to the body corporate;
 - (e) is currently the subject of any investigation by any regulatory or other body;
-- (f) has been the subject of any investigation by the NHS Business Services Authority or the[^key-c5cf655f2e2b8dd55216070270aea978] NHS Counter Fraud Authority in relation to fraud which included a finding adverse to the body corporate;
-- (g) is currently the subject of any investigation by the NHS[^key-a04aa29d86053f3fefce875b82a4b2c3] Counter Fraud Authority in relation to fraud;
+- (f) has been the subject of any investigation by the NHS Business Services Authority or the[^c-c5cf655f2e2b8dd55216070270aea978] NHS Counter Fraud Authority in relation to fraud which included a finding adverse to the body corporate;
+- (g) is currently the subject of any investigation by the NHS[^c-a04aa29d86053f3fefce875b82a4b2c3] Counter Fraud Authority in relation to fraud;
 - (h) is the subject of any investigation by the holder of any list which might lead to its removal from that list;
 - (i) has been removed or is currently suspended from, or has been refused inclusion in or included subject to conditions in, any list; or
 - (j) is, or has ever been, subject to a national disqualification.
 
 (8) Where the Practitioner makes a declaration regarding any matter under paragraph (7), the Practitioner must provide the name and registered office of the body corporate in question and an explanation of the facts giving rise to that matter, including those concerned, relevant dates and any outcome.
 
-(9)[^key-fcd46b2d8a81a7e85b44ade5c1a275cd] This regulation applies to—
+(9)[^c-fcd46b2d8a81a7e85b44ade5c1a275cd] This regulation applies to—
 
 - (a) a returning practitioner as if paragraph (2)(c), (e), (f) and (h) were omitted;
 - (b) a GP Registrar to whom paragraph (10) applies as if paragraph (2)(c), (e), (f), (g) and (h) were omitted; and
@@ -264,11 +264,11 @@ In these Regulations—
 (1) In considering a Practitioner's application for inclusion in a performers list NHS England is to—
 
 - (a) satisfy itself that it has checked all the information and documents the Practitioner has provided pursuant to these Regulations;
-- (b) if the Practitioner is not a returning practitioner,[^key-3d9c76aa820401b4c05584e4d448851c] check with the NHS[^key-ff66cd9b9571915dc0640ed446124d3d] Counter Fraud Authority whether it has any record of fraud relating to the Practitioner, which information that Authority must supply;
-- (c)[^key-e6744b66ab4da355e90e995b42318466] if the Practitioner is not a returning practitioner, check with the NHSLA whether it holds any information set out in paragraph (1A) relating to the Practitioner, which information the NHSLA must supply;
-- (d) obtain and consider references from the referees named by the Practitioner , where the Practitioner is required to name referees[^key-ddd9b3afbdb1fe73dc904e73a3addce9] under regulation 4(2)(f).
+- (b) if the Practitioner is not a returning practitioner,[^c-3d9c76aa820401b4c05584e4d448851c] check with the NHS[^c-ff66cd9b9571915dc0640ed446124d3d] Counter Fraud Authority whether it has any record of fraud relating to the Practitioner, which information that Authority must supply;
+- (c)[^c-e6744b66ab4da355e90e995b42318466] if the Practitioner is not a returning practitioner, check with the NHSLA whether it holds any information set out in paragraph (1A) relating to the Practitioner, which information the NHSLA must supply;
+- (d) obtain and consider references from the referees named by the Practitioner , where the Practitioner is required to name referees[^c-ddd9b3afbdb1fe73dc904e73a3addce9] under regulation 4(2)(f).
 
-(1A)[^key-aef3a77869c7a0e74345349a8bc672a7] The information referred to in paragraph (1)(c) is—
+(1A)[^c-aef3a77869c7a0e74345349a8bc672a7] The information referred to in paragraph (1)(c) is—
 
 - (a) any information received by the NHSLA following a notification by NHS England under regulation 18(1) (notification);
 - (b) any finding made by the NHSLA about the standard of practice or professional conduct of the relevant Practitioner, other than a finding that relates only to a compensation claim; and
@@ -287,9 +287,9 @@ involved in the matter which is the subject of the information, declaration or o
 
 (4) Where NHS England has made a request under paragraph (3), the Practitioner must consent to the provision of information in response to that request.
 
-(5)[^key-73e6fef559a0890e60dbf54027326622] In paragraph (1A)(c) a “**Health Professional Alert Notice**” means a notice issued in accordance with the National Health Service Litigation Authority Directions 2013 stating that a named individual poses a significant risk of harm to patients, staff or the public and is likely to seek work in the NHS.
+(5)[^c-73e6fef559a0890e60dbf54027326622] In paragraph (1A)(c) a “**Health Professional Alert Notice**” means a notice issued in accordance with the National Health Service Litigation Authority Directions 2013 stating that a named individual poses a significant risk of harm to patients, staff or the public and is likely to seek work in the NHS.
 
-### 5A. Applications from Practitioners included in an equivalent list[^key-4ccec64bfb1cb077e3ba7b125d34e193]
+### 5A. Applications from Practitioners included in an equivalent list[^c-4ccec64bfb1cb077e3ba7b125d34e193]
 
 (1) NHS England must, as soon as reasonably practicable after receiving an application for inclusion in a performers list, include the Practitioner on that list for the period specified in paragraph (2) if—
 
@@ -297,7 +297,7 @@ involved in the matter which is the subject of the information, declaration or o
 - (b) the Practitioner’s inclusion in the equivalent list is not subject to any conditions;
 - (c) the authority responsible for the equivalent list—
   - (i) has not notified the Practitioner that it is considering removing the Practitioner from that list, imposing conditions, or suspending inclusion in that list, or
-  - (ii) if it has so notified the Practitioner, has subsequently notified the Practitioner that it has decided not to remove the Practitioner, impose any conditions, or suspend[^key-72dbed8f216865d480511efaaaa1b18e] inclusion, as the case may be; and
+  - (ii) if it has so notified the Practitioner, has subsequently notified the Practitioner that it has decided not to remove the Practitioner, impose any conditions, or suspend[^c-72dbed8f216865d480511efaaaa1b18e] inclusion, as the case may be; and
 - (d) the Practitioner has not previously made any other application to NHS England for inclusion in a performers list which NHS England has refused (and that refusal has not been challenged successfully on appeal).
 
 (2) The period referred to in paragraph (1) is—
@@ -338,8 +338,8 @@ involved in the matter which is the subject of the information, declaration or o
   - (ii) in the case of a dental practitioner, regulation 33, and
   - (iii) in the case of an ophthalmic practitioner, regulation 39;
 - (b) having considered any declaration required by regulation 4(5) and (if applicable) regulation 4(7), and any information provided under regulation 4(6) or (8) in connection with any such declaration, and any other information or documents in its possession relating to the Practitioner, it considers that the Practitioner is unsuitable to be included in a performers list;
-- (c) having obtained references from the referees named by the Practitioner , where the Practitioner is required to name referees[^key-77309b08895da9fb699cc4abc6ed2447] under regulation 4(2)(f), it is not satisfied with those references;
-- (d) having checked with the NHS[^key-406e1380ac1c112d2d38899729444278] Counter Fraud Authority for any facts that NHS England considers relevant relating to any past or current fraud investigation involving or relating to the Practitioner, and, having considered these and any other facts in its possession relating to such matters, it considers that the Practitioner is unsuitable to be included in a performers list;
+- (c) having obtained references from the referees named by the Practitioner , where the Practitioner is required to name referees[^c-77309b08895da9fb699cc4abc6ed2447] under regulation 4(2)(f), it is not satisfied with those references;
+- (d) having checked with the NHS[^c-406e1380ac1c112d2d38899729444278] Counter Fraud Authority for any facts that NHS England considers relevant relating to any past or current fraud investigation involving or relating to the Practitioner, and, having considered these and any other facts in its possession relating to such matters, it considers that the Practitioner is unsuitable to be included in a performers list;
 - (e) the Practitioner has been convicted in the United Kingdom of any criminal offence (other than murder), committed on or after the day prescribed in the relevant Part, and has been sentenced to a term of imprisonment (whether suspended or not) of over six months;
 - (f) having checked with the NHSLA for any facts that NHS England considers relevant relating to any past or current investigation or proceedings involving or relating to the Practitioner, and, having considered these and any other facts in its possession involving or relating to the Practitioner, it considers that the Practitioner is unsuitable to be included in a performers list; or
 - (g) it considers that there are reasonable grounds for concluding that including the Practitioner in a performers list would be prejudicial to the efficiency of the services which those included in that list perform.
@@ -377,7 +377,7 @@ and, if so, the facts relating to that event and the reasons given for such acti
 - (f) in a case to which regulation 10(5) applies, the Practitioner has not given the notification and undertaking required by that regulation; or
 - (g) in a case to which regulation 17(5) applies, the Practitioner has not notified NHS England under that regulation that the Practitioner wishes to be included in the performers list subject to its conditions.
 
-(5) Paragraph (4)(a) does not apply in the case of a Type 1 armed forces GP or a Type 2 armed forces GP[^key-d2fc6fdc3999fff9202ca93d91b42547].
+(5) Paragraph (4)(a) does not apply in the case of a Type 1 armed forces GP or a Type 2 armed forces GP[^c-d2fc6fdc3999fff9202ca93d91b42547].
 
 (6) Where NHS England has made a decision on a Practitioner's application for inclusion in a performers list, it must notify the Practitioner within 7 days of—
 
@@ -389,7 +389,7 @@ and, if so, the facts relating to that event and the reasons given for such acti
 - (a) notify the Practitioner that the right of appeal must be exercised within the period of 28 days beginning with the date on which it notified the Practitioner of its decision; and
 - (b) tell the Practitioner how to exercise that right.
 
-### 7A. Removal of returning practitioner after delayed checks[^key-5deb71e0ae1f123fc84f15e37d1b41bd]
+### 7A. Removal of returning practitioner after delayed checks[^c-5deb71e0ae1f123fc84f15e37d1b41bd]
 
 (1) This regulation applies where NHS England has decided to include a returning practitioner in a performers list.
 
@@ -422,7 +422,7 @@ and, if so, the facts relating to that event and the reasons given for such acti
 - (e) a body corporate of which the Practitioner is, has in the preceding six months been, or was at the time of the originating event, a director, is suspended from any list;
 - (f) the Practitioner has appealed to the First-tier Tribunal against a decision to refuse to include the Practitioner or to include the Practitioner subject to conditions in any list, or to remove the Practitioner from any list, and if that appeal is unsuccessful it would, if the Practitioner were at that time included in a performers list, be likely to lead to the Practitioner's removal from it;
 - (g) a body corporate of which the Practitioner is, has in the preceding six months been, or was at the time of the originating event, a director, has appealed to the First-tier Tribunal against a decision to refuse to include the body corporate or to include it subject to conditions in any list, or to remove it from any list, and if that appeal is unsuccessful it would, if the Practitioner were at that time included in a performers list, be likely to lead to the Practitioner's removal from it;
-- (h) the Practitioner is being investigated by the NHS Counter Fraud Authority[^key-f2a771f55ba74bcc136de7387bc946d5] in relation to fraud, where, if the result included a finding adverse to the Practitioner it would, if the Practitioner were at that time included in a performers list, be likely to lead to the Practitioner's removal from it; or
+- (h) the Practitioner is being investigated by the NHS Counter Fraud Authority[^c-f2a771f55ba74bcc136de7387bc946d5] in relation to fraud, where, if the result included a finding adverse to the Practitioner it would, if the Practitioner were at that time included in a performers list, be likely to lead to the Practitioner's removal from it; or
 - (i) a body corporate, of which the Practitioner is, has in the preceding six months been, or was at the time of the originating event a director, is being investigated in relation to any fraud, where if the result included a finding adverse to the body corporate it would, if the Practitioner were at that time included in a performers list, be likely to lead to the Practitioner's removal from it.
 
 (2) Within 7 days of the date of a decision under paragraph (1), NHS England must notify the Practitioner in writing of that decision and the reasons for it.
@@ -445,7 +445,7 @@ and, if so, the facts relating to that event and the reasons given for such acti
 
 (1) Where a Practitioner is included in a performers list, the Practitioner must comply with the requirements applicable to the Practitioner under this regulation.
 
-(1A)[^key-edde0877c570451fe3c78f956eb65628] A Practitioner must make a declaration to NHS England during each reporting period confirming that they continue to perform services that are regulated under regulation 24, regulation 31 or regulation 37, as the case may be.
+(1A)[^c-edde0877c570451fe3c78f956eb65628] A Practitioner must make a declaration to NHS England during each reporting period confirming that they continue to perform services that are regulated under regulation 24, regulation 31 or regulation 37, as the case may be.
 
 (1B) The reporting periods in paragraph (1A) are—
 
@@ -461,11 +461,11 @@ and, if so, the facts relating to that event and the reasons given for such acti
 - (e) has, in proceedings in Scotland for an offence, been the subject of an order under section 246(2) or (3) of the Criminal Procedure (Scotland) Act 1995 (admonition and absolute discharge) discharging the Practitioner absolutely;
 - (f) is convicted elsewhere of an offence which would constitute a criminal offence if committed in England and Wales;
 - (g) is charged in the United Kingdom with a criminal offence, or is charged elsewhere with an offence which, if committed in England and Wales, would constitute a criminal offence;
-- (h) is involved in any inquest as a person who has been found by a coroner to have caused, or contributed to, the death of the deceased or otherwise had their conduct brought into question at an inquest conducted as part of an investigation under the Coroners and Justice Act 2009[^key-97d6c2dbff873db54f96c493a9848acd];
+- (h) is involved in any inquest as a person who has been found by a coroner to have caused, or contributed to, the death of the deceased or otherwise had their conduct brought into question at an inquest conducted as part of an investigation under the Coroners and Justice Act 2009[^c-97d6c2dbff873db54f96c493a9848acd];
 - (i) is informed by any regulatory or other body of the outcome of any investigation which includes a finding adverse to the Practitioner;
 - (j) becomes the subject of any investigation by any regulatory or other body;
 - (k) becomes the subject of any investigation in respect of any current or previous employment, or is informed of the outcome of any such investigation which includes a finding adverse to the Practitioner;
-- (l) becomes the subject of any investigation by the NHS[^key-a7bfe0b00a6e009ec8c88cb30430d535] Counter Fraud Authority in relation to fraud, or is informed of the outcome of such an investigation which includes a finding adverse to the Practitioner;
+- (l) becomes the subject of any investigation by the NHS[^c-a7bfe0b00a6e009ec8c88cb30430d535] Counter Fraud Authority in relation to fraud, or is informed of the outcome of such an investigation which includes a finding adverse to the Practitioner;
 - (m) becomes the subject of any investigation by the holder of any list which could lead to the Practitioner's removal from the list;
 - (n) is removed or suspended from, refused inclusion in, or included subject to conditions in, any list; or
 - (o) becomes subject to a national disqualification.
@@ -485,7 +485,7 @@ and, if so, the facts relating to that event and the reasons given for such acti
 - (f) becomes the subject of any investigation in relation to fraud, or is informed of the outcome of any such investigation, which includes a finding adverse to the body corporate;
 - (g) becomes the subject of any investigation by the holder of any list which might lead to its removal from that list;
 - (h) is removed or suspended from, refused inclusion in, or included subject to conditions in, any list;
-- (i) is involved in an inquest conducted as part of an investigation under the Coroners and Justice Act 2009, as a person who is found to have caused, or contributed to, the death of the deceased or otherwise had their conduct brought into question[^key-70b4f0c0dc4b2b71df07b3dfb61f2c9b]; or
+- (i) is involved in an inquest conducted as part of an investigation under the Coroners and Justice Act 2009, as a person who is found to have caused, or contributed to, the death of the deceased or otherwise had their conduct brought into question[^c-70b4f0c0dc4b2b71df07b3dfb61f2c9b]; or
 - (j) becomes subject to a national disqualification.
 
 (5) A declaration regarding any matter under paragraph (4) is to be in writing, given within 7 days of its occurrence and is to include—
@@ -507,7 +507,7 @@ involved in the matter which is the subject of the declaration.
 
 (8) Where NHS England reasonably requests it, a Practitioner must supply NHS England with an enhanced criminal record certificate under section 113B of the Police Act 1997 (enhanced criminal record certificates) [^c21653501] which includes suitability information relating to children and suitability information relating to vulnerable adults under sections 113BA (suitability information relating to children) and 113BB (suitability information relating to vulnerable adults) of that Act respectively [^c21653511].
 
-(8A)[^key-d3e7592ee2829c9bf4d598a951651e75] Where NHS England reasonably requests it, if the Practitioner has resided in a country other than the United Kingdom for 12 months or more (whether in a continuous period or otherwise) during the period in which they have been included in a performers list, a Practitioner must supply—
+(8A)[^c-d3e7592ee2829c9bf4d598a951651e75] Where NHS England reasonably requests it, if the Practitioner has resided in a country other than the United Kingdom for 12 months or more (whether in a continuous period or otherwise) during the period in which they have been included in a performers list, a Practitioner must supply—
 
 - (a) a certificate issued by an authority of that country which is equivalent to an enhanced criminal record certificate, or
 - (b) if the Practitioner is unable to obtain such a certificate, a statement in writing demonstrating that the Practitioner has taken all reasonable steps to obtain such a certificate.
@@ -580,7 +580,7 @@ This is subject to paragraph (11).
 - (c) where it has decided to remove the Practitioner from a performers list but that decision has yet to take effect; or
 - (d) pending an appeal under these Regulations.
 
-(1A)[^key-5b3af0f77c43f6c13ff8a1c25cc43d38] NHS England must suspend a Practitioner from a performers list if the Practitioner’s registration—
+(1A)[^c-5b3af0f77c43f6c13ff8a1c25cc43d38] NHS England must suspend a Practitioner from a performers list if the Practitioner’s registration—
 
 - (a) in the register of medical practitioners is subject to an interim suspension order made under section 41A of the Medical Act 1983;
 - (b) in the dentists register is subject to an interim suspension order made under section 32 of the Dentists Act 1984;
@@ -590,7 +590,7 @@ This is subject to paragraph (11).
 
 (1C) Where NHS England suspends a Practitioner under paragraph (1A) it must notify the Practitioner of the suspension and the reason for it.
 
-(2) Where NHS England is considering suspending a Practitioner under paragraph (1)[^key-095863bec32bb929e60c3a3c7ed9b8ab] it must give the Practitioner—
+(2) Where NHS England is considering suspending a Practitioner under paragraph (1)[^c-095863bec32bb929e60c3a3c7ed9b8ab] it must give the Practitioner—
 
 - (a) notice of any allegation against the Practitioner;
 - (b) notice of what action it is considering and on what grounds; and
@@ -603,16 +603,16 @@ This paragraph does not apply where paragraph (6) applies.
 (4) If an oral hearing does take place, NHS England must take into account any representations made before it reaches its decision, and NHS England may—
 
 - (a) suspend the Practitioner with immediate effect; or
-- (b)[^key-ea02915d778ef46336f6efb07c29006b] if the Practitioner agrees to conditions proposed by NHS England which are to apply during a period described in paragraph (1), allow the Practitioner to resume practice subject to those conditions until that period ends.
+- (b)[^c-ea02915d778ef46336f6efb07c29006b] if the Practitioner agrees to conditions proposed by NHS England which are to apply during a period described in paragraph (1), allow the Practitioner to resume practice subject to those conditions until that period ends.
 
 (5) Where NHS England suspends a Practitioner in a case falling within paragraph (1)(a) or (b), it must notify the Practitioner of the right of review under regulation 16.
 
-(6) Where NHS England considers it necessary to do so for the protection of patients or members of the public or that it is otherwise in the public interest, it may determine that a suspension under paragraph (1)[^key-a4483bbe19e8fb6b9c6cb7542d7e361a] is to have immediate effect without undertaking the steps specified in paragraph (2).
+(6) Where NHS England considers it necessary to do so for the protection of patients or members of the public or that it is otherwise in the public interest, it may determine that a suspension under paragraph (1)[^c-a4483bbe19e8fb6b9c6cb7542d7e361a] is to have immediate effect without undertaking the steps specified in paragraph (2).
 
 (7) When a Practitioner is suspended in accordance with paragraph (6)—
 
 - (a) NHS England must immediately notify the Practitioner of its decision, the reasons for it and the allegations against the Practitioner;
-- (b)[^key-99547f2a56f28b8be4b18e9b3aa66bed] NHS England must review its decision before the end of the next working day following the day on which its decision was made;
+- (b)[^c-99547f2a56f28b8be4b18e9b3aa66bed] NHS England must review its decision before the end of the next working day following the day on which its decision was made;
 - (c) NHS England is as soon as practicable to give the Practitioner—
   - (i) notice of what further action it is considering and on what grounds, and
   - (ii) the opportunity to put the Practitioner's case at an oral hearing before it, on a specified day, provided that at least two working days' notice of the hearing is given (beginning with the day on which the notice is given).
@@ -624,7 +624,7 @@ This paragraph does not apply where paragraph (6) applies.
 (10) If an oral hearing under paragraph 7(c)(ii) does take place, NHS England must take into account any representations made before it reaches its decision, and NHS England may—
 
 - (a) confirm or revoke the suspension; or
-- (b)[^key-5827f68e9ea13ab69217b6aaa649aa88] if the Practitioner agrees to conditions proposed by NHS England which are to apply during a period described in paragraph (1), allow the Practitioner to resume practice subject to those conditions until that period ends.
+- (b)[^c-5827f68e9ea13ab69217b6aaa649aa88] if the Practitioner agrees to conditions proposed by NHS England which are to apply during a period described in paragraph (1), allow the Practitioner to resume practice subject to those conditions until that period ends.
 
 (11) Where NHS England decides to confirm a suspension under paragraph (9) or (10) NHS England must notify the Practitioner of—
 
@@ -664,17 +664,17 @@ This is subject to paragraph (19).
 - (a) in a case falling within paragraph (1)(c), the decision takes effect; or
 - (b) in a case falling within paragraph (1)(d), the First-tier Tribunal has disposed of the appeal.
 
-(21) If it is in possession of evidence that revoking a suspension imposed under paragraph (1)[^key-7f42876091e798858a9931130d4c79c2] will not compromise the protection of patients or members of the public or the public interest, NHS England may at any time revoke that suspension[^key-5af4092132e66d601332164446a9350c] with immediate effect and notify the Practitioner of its decision.
+(21) If it is in possession of evidence that revoking a suspension imposed under paragraph (1)[^c-7f42876091e798858a9931130d4c79c2] will not compromise the protection of patients or members of the public or the public interest, NHS England may at any time revoke that suspension[^c-5af4092132e66d601332164446a9350c] with immediate effect and notify the Practitioner of its decision.
 
 (22) Whilst suspended under these Regulations, a Practitioner is to be treated as not being included in a performers list, even though the Practitioner appears in it.
 
-(23)[^key-165ee0aa4d10edc22b8939c4c614e072] Nothing in paragraph (22) prevents a Practitioner from being removed from a performers list pursuant to regulation 11(1)(c), 14 or 17(6)(b).
+(23)[^c-165ee0aa4d10edc22b8939c4c614e072] Nothing in paragraph (22) prevents a Practitioner from being removed from a performers list pursuant to regulation 11(1)(c), 14 or 17(6)(b).
 
 ### 13. Payments during suspension
 
-(A1)[^key-7a665c8c5f8dc690b166c33c7ee12b22] A Practitioner may apply to NHS England before the end of the period of 90 days beginning with the date on which a decision to suspend them was made under regulation 12 (suspension) for payments during the period of suspension.
+(A1)[^c-7a665c8c5f8dc690b166c33c7ee12b22] A Practitioner may apply to NHS England before the end of the period of 90 days beginning with the date on which a decision to suspend them was made under regulation 12 (suspension) for payments during the period of suspension.
 
-(1) During a period of suspension under regulation 12, payments may be made by NHS England to[^key-1d5b83c4c57a747bd6617856ea051d6a]... a Practitioner in accordance with a determination by the Secretary of State where the Practitioner has made an application in accordance with paragraph (A1)[^key-7a0a04a372f8e308c9d97f37a53005ec].
+(1) During a period of suspension under regulation 12, payments may be made by NHS England to[^c-1d5b83c4c57a747bd6617856ea051d6a]... a Practitioner in accordance with a determination by the Secretary of State where the Practitioner has made an application in accordance with paragraph (A1)[^c-7a0a04a372f8e308c9d97f37a53005ec].
 
 (2) If such a payment is made but the Practitioner was not entitled to receive all or any part of it, the amount to which the Practitioner was not entitled (“the overpayment”) may be recovered by NHS England as a civil debt.
 
@@ -684,7 +684,7 @@ This is subject to paragraph (19).
 - (b) as to the amount of a payment to, or in respect of, the Practitioner under paragraph (1); or
 - (c) in respect of recovery of what NHS England considers to be an overpayment under paragraph (2).
 
-(3A)[^key-c8b54db21fd194682ac4e318e3f56d10] A request by the Practitioner under paragraph (3) must be made before the end of the period of 28 days beginning with the day on which the decision was notified to the Practitioner.
+(3A)[^c-c8b54db21fd194682ac4e318e3f56d10] A request by the Practitioner under paragraph (3) must be made before the end of the period of 28 days beginning with the day on which the decision was notified to the Practitioner.
 
 (4) Following the reconsideration of such a decision NHS England is to notify the Practitioner in writing of the outcome of its reconsideration (“the reconsidered decision”) together with the reasons for it.
 
@@ -811,7 +811,7 @@ This is subject to regulations 28(4), 35(4) and 41(3).
 
 - (a) any information relating to that Practitioner which it has received under regulation 9;
 - (b) any information held by the NHSLA about past or current investigations or proceedings involving or relating to that Practitioner, which information the NHSLA must supply if NHS England so requests;
-- (c) any information held by the NHS[^key-3f62963f7af8cf5de80e2f600c74decb] Counter Fraud Authority about past or current investigations or proceedings involving or relating to that Practitioner, which information that Authority must supply if NHS England so requests; and
+- (c) any information held by the NHS[^c-3f62963f7af8cf5de80e2f600c74decb] Counter Fraud Authority about past or current investigations or proceedings involving or relating to that Practitioner, which information that Authority must supply if NHS England so requests; and
 - (d) the matters set out in paragraph (4).
 
 (4) Those matters are—
@@ -868,29 +868,29 @@ This is subject to regulations 28(4), 35(4) and 41(3).
 
 (1) NHS England may, and if requested in writing to do so by a Practitioner must, review its decision to—
 
-- (a) impose or vary conditions imposed under regulation 10, 11 [^key-1587791e310bdfaafd39e77e7f0aaacc]... or this regulation;
+- (a) impose or vary conditions imposed under regulation 10, 11 [^c-1587791e310bdfaafd39e77e7f0aaacc]... or this regulation;
 - (b) suspend the Practitioner under regulation 12(1)(a) or (b), except where the suspension is continuing by order of the First-tier Tribunal.
 
 This is subject to paragraph (9).
 
-(1A)[^key-b4a1a0e5e333a6e3f35b91a02e9bac98] NHS England may, and if requested in writing to do so by a Practitioner must, review—
+(1A)[^c-b4a1a0e5e333a6e3f35b91a02e9bac98] NHS England may, and if requested in writing to do so by a Practitioner must, review—
 
 - (a) the conditions it has agreed with the Practitioner under paragraph (4)(b) or (10)(b) of regulation 12 (suspension); and
 - (b) its decision under those paragraphs to allow the Practitioner to resume practice subject to those conditions.
 
 (2) On a review under paragraph (1)(a), NHS England may—
 
-- (a) maintain, vary or remove the conditions[^key-588c05153a7272aff62e18fb9e9a68f9];
+- (a) maintain, vary or remove the conditions[^c-588c05153a7272aff62e18fb9e9a68f9];
 - (b) impose different conditions; or
 - (c) remove the Practitioner from the relevant performers list.
 
 (3) On a review under paragraph (1)(b), NHS England may—
 
 - (a) maintain or vary the suspension;
-- (b) allow the Practitioner to resume practice during a period described in regulation 12(1) subject to conditions it has agreed with the Practitioner[^key-3514f4fa03c37861b498297c81b2b609]; or
+- (b) allow the Practitioner to resume practice during a period described in regulation 12(1) subject to conditions it has agreed with the Practitioner[^c-3514f4fa03c37861b498297c81b2b609]; or
 - (c) remove the Practitioner from the relevant performers list.
 
-(3A)[^key-f12779a5da7f12f5d81476e573ccf836] On a review under paragraph (1A), NHS England may—
+(3A)[^c-f12779a5da7f12f5d81476e573ccf836] On a review under paragraph (1A), NHS England may—
 
 - (a) agree the same or varied conditions with the Practitioner;
 - (b) remove the conditions; or
@@ -921,7 +921,7 @@ This is subject to paragraph (9).
 
 (9) NHS England may not review—
 
-- (a) a decision to suspend a Practitioner under regulation 12(1)(c) or (d), or (1A)[^key-56d022dc73e8336efb7dc5b724ad3225]; or
+- (a) a decision to suspend a Practitioner under regulation 12(1)(c) or (d), or (1A)[^c-56d022dc73e8336efb7dc5b724ad3225]; or
 - (b) a decision to impose conditions on the inclusion of the Practitioner in a performers list whose inclusion in the performers list has been refused under regulation 7(4)(f) or (g).
 
 ### 17. Appeals
@@ -931,7 +931,7 @@ This is subject to paragraph (9).
 (2) A decision of NHS England referred to in paragraph (1) is a decision to—
 
 - (a) refuse to include a Practitioner in a performers list on the grounds referred to in regulation 7(1);
-- (b) impose, maintain or vary any conditions under regulation 10, 11 [^key-019a01a9cbbce512eac5e16307db3d1b]... or 16;
+- (b) impose, maintain or vary any conditions under regulation 10, 11 [^c-019a01a9cbbce512eac5e16307db3d1b]... or 16;
 - (c) remove a Practitioner from a performers list under regulation 11(1)(c), 14(3) or (5), 16 or paragraph (6)(b) of this regulation; and
 - (d) refuse to include—
   - (i) a medical practitioner in the medical performers list under regulation 27(1),
@@ -958,7 +958,7 @@ This is subject to paragraph (9).
 
 (9) When, on making a decision on appeal, the First-tier Tribunal states that it is of the opinion that there is no realistic prospect of a further review being successful if held at the expiry of the one year period referred to in paragraph (8), the reference to “one year” in paragraph (8) is to be treated as a reference to three years.
 
-### 17A. National disqualification[^key-9c0c3104b694dffc1a2d202eca045f48]
+### 17A. National disqualification[^c-9c0c3104b694dffc1a2d202eca045f48]
 
 Where the First-tier Tribunal imposes a national disqualification from a performers list on a Practitioner under section 159 of the National Health Service Act 2006—
 
@@ -978,7 +978,7 @@ Where the First-tier Tribunal imposes a national disqualification from a perform
 - (b) impose conditions under regulation 10 or 12;
 - (c) vary conditions or impose new conditions under regulation 11;
 - (d) suspend a Practitioner from a performers list under regulation 12; or
-- (e) remove a Practitioner from a performers list under regulation 11(1)(c), 14[^key-719f241a5c35c93ec0d7c2b91d0dac38] (other than 14(1)(c))[^key-5753ecb33144906831a7a6c129c6964a], 16(2)(c) or (3)(c), 17(6)(b), 28(1), 35(1) or 41(1).
+- (e) remove a Practitioner from a performers list under regulation 11(1)(c), 14[^c-719f241a5c35c93ec0d7c2b91d0dac38] (other than 14(1)(c))[^c-5753ecb33144906831a7a6c129c6964a], 16(2)(c) or (3)(c), 17(6)(b), 28(1), 35(1) or 41(1).
 
 (3) The persons and bodies referred to in paragraph (1) are—
 
@@ -988,7 +988,7 @@ Where the First-tier Tribunal imposes a national disqualification from a perform
 - (d) the Northern Ireland Executive;
 - (e) the relevant body and any other appropriate regulatory body;
 - (f) the NHSLA;
-- (g) where it is a fraud case, the NHS Counter Fraud Authority[^key-45b02c9829e9af746811e4c6c3966253];
+- (g) where it is a fraud case, the NHS Counter Fraud Authority[^c-45b02c9829e9af746811e4c6c3966253];
 - (h) persons or bodies that can establish to NHS England’s satisfaction that they are employing or considering employing the Practitioner in a professional capacity; and
 - (i) a partnership which provides primary services and can establish that the Practitioner is or was a member of the partnership or that it is considering inviting the Practitioner to become such a member.
 
@@ -1026,7 +1026,7 @@ This is subject to regulation 20.
 
 (1) A Practitioner may not withdraw from a performers list where—
 
-- (a) the Practitioner is suspended from a performers list under regulation 12(1)(a) or (b) or regulation 12(1A)[^key-c73232e55dc3933273486bbca0203842]; or
+- (a) the Practitioner is suspended from a performers list under regulation 12(1)(a) or (b) or regulation 12(1A)[^c-c73232e55dc3933273486bbca0203842]; or
 - (b) NHS England has decided to remove the Practitioner from a performers list under regulation 11(1)(c), 14(3) or (5), 16 or 17(6)(b) but its decision has not yet taken effect.
 
 (2) Where NHS England has notified a Practitioner of a matter referred to in paragraph (3), the Practitioner may not withdraw from a performers list in which the Practitioner is included until NHS England has finished its consideration of those matters.
@@ -1055,7 +1055,7 @@ This is subject to regulation 20.
 - (g) the relevant body or any other appropriate regulatory body;
 - (h) any organisation or employer which, to the knowledge of NHS England, is employing the Practitioner or using the Practitioner's services in a professional capacity or considering doing so;
 - (i) any partnership which provides primary services, of which, to the knowledge of NHS England, the Practitioner is a member, or which is considering inviting the Practitioner to become a member; and
-- (j) where an allegation of fraud is being considered, the NHS Counter Fraud Authority[^key-6d813846a2b77cf5d6cf2f1292fa2bac].
+- (j) where an allegation of fraud is being considered, the NHS Counter Fraud Authority[^c-6d813846a2b77cf5d6cf2f1292fa2bac].
 
 (2) NHS England is to disclose to the Secretary of State any information supplied to it or acquired by it pursuant to these Regulations that the Secretary of State may from time to time request.
 
@@ -1069,7 +1069,7 @@ This Part applies subject to Schedule 1.
 
 In this Part—
 
-- “APMS contract” means an arrangement under section 83(2) of the 2006 Act (primary medical services) for the provision of primary medical services, including in circumstances where those contractual arrangements are part of wider contractual arrangements for the provision of NHS services other than integrated care provider contracts;[^key-62fc6f38a39cb9bb5fb2984cc46c55e3]
+- “APMS contract” means an arrangement under section 83(2) of the 2006 Act (primary medical services) for the provision of primary medical services, including in circumstances where those contractual arrangements are part of wider contractual arrangements for the provision of NHS services other than integrated care provider contracts;[^c-62fc6f38a39cb9bb5fb2984cc46c55e3]
 - “**both registers**” means the register of medical practitioners and the GP Register;
 - “**CCT**” means Certificate of Completion of Training awarded under section 34L(1) of the Medical Act 1983 (award and withdrawal of a Certificate of Completion of Training) [^c21653571];
 - “**contractor**” has the meaning given in section 84(5) of the 2006 Act (general medical services contracts) [^c21653581];
@@ -1090,12 +1090,12 @@ In this Part—
 - “**relevant scheme**” means the scheme in respect of which the general medical practitioner is applying to be included in the medical performers list;
 - “**scheme**” means an arrangement to provide primary medical services—
   - (a) in accordance with section 92 arrangements; or
-  - (b) under a general medical services contract[^key-56c8ccb63cccdfd04fc38be96fb1244e]...; and
+  - (b) under a general medical services contract[^c-56c8ccb63cccdfd04fc38be96fb1244e]...; and
 - “**section 92 arrangements**” has the meaning given in section 92(8) of the 2006 Act (arrangements for the provision of primary medical services) [^c21653611].
 
 ### 24. Medical performers list
 
-(1)[^key-5d39d3dde2de445f01d5887350f34fdf] Subject to paragraphs (1A) to (3), a medical practitioner may not perform any primary medical services unless the medical practitioner is a general medical practitioner included in the medical performers list.
+(1)[^c-5d39d3dde2de445f01d5887350f34fdf] Subject to paragraphs (1A) to (3), a medical practitioner may not perform any primary medical services unless the medical practitioner is a general medical practitioner included in the medical performers list.
 
 (1A) A medical practitioner may perform primary medical services when the medical practitioner is not included in the medical performers list if they have a prescribed connection under regulation 10 of the Medical Profession (Responsible Officers) Regulations 2010 (connection between designated bodies and medical practitioners) with a designated body referred to in Part 1 of the Schedule to those Regulations.
 
@@ -1103,11 +1103,11 @@ In this Part—
 
 (2) A licensed medical practitioner, who is provisionally registered under section 15 (provisional registration), 15A (provisional registration for EEA nationals etc.) or 21 (provisional registration of EEA national etc. with certain overseas qualifications) of the Medical Act 1983 [^c21653621], may perform primary medical services, when the medical practitioner is not included in the medical performers list, while acting in the course of the medical practitioner's employment as part of an acceptable programme for provisionally registered doctors within the meaning of section 10A of the Medical Act 1983 (programmes for provisionally registered doctors) in a medical practice which is a recognised practice setting for the purposes of section 44D of that Act (approved practice settings) [^c21653631].
 
-(3) A GP Registrar or other registered medical practitioner[^key-e6e7bdb4acaa356f498eeb41abcf0432] may perform primary medical services when not included in the medical performers list in so far as the performance of those services constitutes a part of a programme of post-registration supervised clinical practice approved by the General Medical Council under section 34I(1)(a) of the Medical Act 1983[^key-15cda9eb4ef5f51fe3f5f62ba0be707c] (“a post-registration programme”).
+(3) A GP Registrar or other registered medical practitioner[^c-e6e7bdb4acaa356f498eeb41abcf0432] may perform primary medical services when not included in the medical performers list in so far as the performance of those services constitutes a part of a programme of post-registration supervised clinical practice approved by the General Medical Council under section 34I(1)(a) of the Medical Act 1983[^c-15cda9eb4ef5f51fe3f5f62ba0be707c] (“a post-registration programme”).
 
-(4)[^key-b496be6ee9eaf6cb42b422b2301fb9cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b496be6ee9eaf6cb42b422b2301fb9cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-c205495db7fd4150aedff0f13258c208] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c205495db7fd4150aedff0f13258c208] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 25. Contents of the medical performers list
 
@@ -1116,7 +1116,7 @@ In respect of any medical practitioner included in the medical performers list, 
 - (a) the medical practitioner's full name;
 - (b) the medical practitioner's professional registration number;
 - (c) the dates of the medical practitioner's first registration in the register of medical practitioners and, if applicable, the GP Register;
-- (d)[^key-2c119f454ff1fa15a32c341f9b3e3899] confirmation of whether the medical practitioner is a contractor in relation to a general medical services contract or provides primary medical services under, or pursuant to, section 92 arrangements;
+- (d)[^c-2c119f454ff1fa15a32c341f9b3e3899] confirmation of whether the medical practitioner is a contractor in relation to a general medical services contract or provides primary medical services under, or pursuant to, section 92 arrangements;
 - (e) confirmation of whether the medical practitioner provides primary medical services under, or pursuant to, an APMS contract or an integrated care provider contract;
 - (f) confirmation of whether the medical practitioner is a GP Registrar;
 - (g) confirmation of whether the medical practitioner is an armed forces GP and, if so, whether the medical practitioner is a Type 1 or a Type 2 armed forces GP;
@@ -1132,7 +1132,7 @@ In respect of any medical practitioner included in the medical performers list, 
 
 (1) In addition to satisfying the requirements of regulation 4, an application by a medical practitioner for inclusion in the medical performers list must satisfy the requirements of this regulation.
 
-(2) The medical practitioner must , subject to paragraph (7)[^key-14ea27e0cd7762af0f9474134267ee51]—
+(2) The medical practitioner must , subject to paragraph (7)[^c-14ea27e0cd7762af0f9474134267ee51]—
 
 - (a) provide details of the medical practitioner's medical qualifications, details of where they were obtained and evidence of them;
 - (b) provide a declaration that the medical practitioner is a licensed medical practitioner whose name is included—
@@ -1149,7 +1149,7 @@ In respect of any medical practitioner included in the medical performers list, 
   with full supporting particulars of that experience;
 - (e) if the medical practitioner is a GP Registrar, provide the name and practice address of the medical practitioner's GP Trainer;
 - (f) confirm whether the medical practitioner is a contractor under a general medical services contract or provides primary medical services in accordance with section 92 arrangements;
-- (fa)[^key-7815962ec63ebcd58eaaa865368e9736] confirm whether the medical practitioner provides primary medical services under, or pursuant to, an APMS contract or an integrated care provider contract;
+- (fa)[^c-7815962ec63ebcd58eaaa865368e9736] confirm whether the medical practitioner provides primary medical services under, or pursuant to, an APMS contract or an integrated care provider contract;
 - (g) confirm whether the medical practitioner is a contractor under a general medical services contract or provides primary medical services in accordance with section 92 arrangements for more than one scheme and, if so, which schemes and which of those schemes is the relevant scheme; and
 - (h) confirm whether the medical practitioner is an armed forces GP and, if so, whether the medical practitioner is a Type 1 or a Type 2 armed forces GP.
 
@@ -1159,7 +1159,7 @@ In respect of any medical practitioner included in the medical performers list, 
   - (i) not to perform any primary medical services except when acting for and under the supervision of the medical practitioner's GP Trainer,
   - (ii) to withdraw from the medical performers list if any of the events listed in paragraph (4) takes place, except in situations where paragraph (5) applies, and
   - (iii) to provide NHS England with evidence of the medical practitioner's inclusion in the GP Register within 28 days of the medical practitioner's inclusion in that register;
-- (b) if the medical practitioner is a contractor under a general medical services contract, to comply with the requirements of regulation 93 of the National Health Service (General Medical Services Contracts) Regulations 2015[^key-63257522a9003a7b4b170558b6f8ef15]; and
+- (b) if the medical practitioner is a contractor under a general medical services contract, to comply with the requirements of regulation 93 of the National Health Service (General Medical Services Contracts) Regulations 2015[^c-63257522a9003a7b4b170558b6f8ef15]; and
 - (c) if the medical practitioner is not a contractor under a general medical services contract, to comply with the requirements referred to in sub-paragraph (b) as though the medical practitioner were such a contractor.
 
 (4) The events to which this paragraph applies are—
@@ -1172,7 +1172,7 @@ In respect of any medical practitioner included in the medical performers list, 
 
 (6) The provision of evidence of inclusion in the GP Register in accordance with an undertaking given under paragraph (3)(a)(iii) is to constitute notice for the purposes of regulation 19(1).
 
-(7)[^key-613a347fc2d485564eb46a9a8990c6ed] This regulation applies to an application made by a returning practitioner as if paragraph (2)(a), (b) and (d) were omitted.
+(7)[^c-613a347fc2d485564eb46a9a8990c6ed] This regulation applies to an application made by a returning practitioner as if paragraph (2)(a), (b) and (d) were omitted.
 
 ### 27. Additional grounds for refusal
 
@@ -1189,8 +1189,8 @@ In respect of any medical practitioner included in the medical performers list, 
 (1) In addition to the grounds in regulation 14(1), NHS England must remove a medical practitioner from the medical performers list where it becomes aware that—
 
 - (a) the medical practitioner's name is no longer included in the GP Register;
-- (b) the medical practitioner's registration in the register of medical practitioners has been suspended under section 35D(2)(b), (10)(b) or (12), or section 38(1) of the Medical Act 1983 or by virtue of rules made under paragraph 5A(3) of Schedule 4 to that Act[^key-2b98eda583ae202bb1f806acf9aea1a9];
-- (c) the medical practitioner's licence to practice has been withdrawn except where this has been withdrawn as a result of an interim suspension order made under section 41A(1)(a) of the Medical Act 1983[^key-d07072916c98af892d49617db71a1854]; or
+- (b) the medical practitioner's registration in the register of medical practitioners has been suspended under section 35D(2)(b), (10)(b) or (12), or section 38(1) of the Medical Act 1983 or by virtue of rules made under paragraph 5A(3) of Schedule 4 to that Act[^c-2b98eda583ae202bb1f806acf9aea1a9];
+- (c) the medical practitioner's licence to practice has been withdrawn except where this has been withdrawn as a result of an interim suspension order made under section 41A(1)(a) of the Medical Act 1983[^c-d07072916c98af892d49617db71a1854]; or
 - (d) if the medical practitioner is a GP Registrar, the medical practitioner is in breach of an undertaking provided in accordance with regulation 26(3) and has failed to withdraw from the list after NHS England has given the medical practitioner 28 days notice requesting the medical practitioner to do so.
 
 This is subject to paragraph (2).
@@ -1211,14 +1211,14 @@ This is subject to paragraph (2).
   - (a) who is included in the dental performers list; and
   - (b) who has been approved for a specified period, which has not elapsed, by a postgraduate dental dean or director of postgraduate dental education as having the requisite skills and suitable practice facilities to act as a trainer;
 - “**community dental service**” means dental services provided under section 3(1)(c) of the 2006 Act (duties as to certain health services) [^c21653701];
-- “[^key-db18e76a23f2dab064416689aecf0a18]**contractor**” means—
+- “[^c-db18e76a23f2dab064416689aecf0a18]**contractor**” means—
   - (a) a person within the meaning of “contractor” in section 100(4)[^c21653711] of the 2006 Act; or
   - (b) a person providing primary dental services under section 107 arrangements;
 - “**dental practitioner**” means a person who is registered in the dentists register;
-- [^key-2c7fb91c593a0d38a64f22662794a725]...
+- [^c-2c7fb91c593a0d38a64f22662794a725]...
 - “**health case**” means a fitness to practise case in which an allegation is made that a dental practitioner's fitness to practise is impaired by reason of adverse physical or mental health;
 - “**Interim Orders Committee**” means the Interim Orders Committee of the General Dental Council;
-- “**postgraduate dental dean or director of postgraduate dental education**” means a dental practitioner appointed to that position to assist in the provision of a suitable learning environment for dental practitioners performing primary dental services to meet the requirements and standards of the Dental Faculties of the Royal College of Surgeons of England and the Department of Health and Social Care[^key-96c9d93b71cdee8d13a68c2312423a78];
+- “**postgraduate dental dean or director of postgraduate dental education**” means a dental practitioner appointed to that position to assist in the provision of a suitable learning environment for dental practitioners performing primary dental services to meet the requirements and standards of the Dental Faculties of the Royal College of Surgeons of England and the Department of Health and Social Care[^c-96c9d93b71cdee8d13a68c2312423a78];
 - “**Practice Committee**” has the meaning given in section 2(3) of the Dentists Act 1984 (committees of the Council) [^c21653731];
 - “**professional registration number**” means, in relation to a dental practitioner, the number against the dental practitioner's name in the dentists register;
 - “**relevant scheme**” means, in relation to a dental practitioner, the scheme in respect of which the dental practitioner is applying to be included in a dental performers list;
@@ -1229,7 +1229,7 @@ This is subject to paragraph (2).
 
 ### 30. Interpretation: foundation training
 
-(1) In this Part, “**foundation training**” means a relevant period of employment during which a dental practitioner is employed under a contract of service by an NHS body or contractor[^key-f3c0183f37d2c3d20cc0039c575c2e53] to provide a wide range of dental care and treatment under the supervision of an approved trainer[^key-76e0fe98d02389f31994df1a1a4cc0b2] and to attend such study days as that contract provides, with the aims and objectives of enhancing clinical and administrative competence and promoting high standards through relevant postgraduate training and in particular to—
+(1) In this Part, “**foundation training**” means a relevant period of employment during which a dental practitioner is employed under a contract of service by an NHS body or contractor[^c-f3c0183f37d2c3d20cc0039c575c2e53] to provide a wide range of dental care and treatment under the supervision of an approved trainer[^c-76e0fe98d02389f31994df1a1a4cc0b2] and to attend such study days as that contract provides, with the aims and objectives of enhancing clinical and administrative competence and promoting high standards through relevant postgraduate training and in particular to—
 
 - (a) enable the dental practitioner to practise and improve the dental practitioner's skills;
 - (b) introduce the dental practitioner to all aspects of dental practice in primary care;
@@ -1245,16 +1245,16 @@ This is subject to paragraph (2).
 
 (2) In the definition of “foundation training” in paragraph (1), “**relevant period of employment**” means—
 
-- (a)[^key-cc4572cd7fa79c1b0f85e43cf183bc2a] a period of full-time employment of at least one year but not exceeding two years;
+- (a)[^c-cc4572cd7fa79c1b0f85e43cf183bc2a] a period of full-time employment of at least one year but not exceeding two years;
 - (b) an equivalent period of part-time employment; or
-- (c) in the case of a dental practitioner who is not exempt under regulation 34(4) from the requirement to undertake foundation training and has not satisfactorily completed foundation training[^key-5d08e9b12a99fd6271cfa88f0a3c9ebc] as mentioned in sub-paragraph (a) or (b), but—
+- (c) in the case of a dental practitioner who is not exempt under regulation 34(4) from the requirement to undertake foundation training and has not satisfactorily completed foundation training[^c-5d08e9b12a99fd6271cfa88f0a3c9ebc] as mentioned in sub-paragraph (a) or (b), but—
   - (i) has performed community dental service,
   - (ii) has otherwise gained experience of dentistry in primary care as a dental practitioner, or
   - (iii) has been employed in a hospital as a dental practitioner,
 
   such period of employment, which may be less than but is to not exceed that in sub-paragraph (a) or such an equivalent period of part-time employment, as a postgraduate dental dean or director of postgraduate dental education determines that dental practitioner must complete in order to have satisfactorily completed foundation training.
 
-(3)[^key-4eb5cba6c6069d77b1e7e77f1b9546ee] Paragraph 4 applies where a dental practitioner was employed under a contract of service by an NHS body or contractor for a period prior to 25th November 2022 and where the dental practitioner’s work under the contract was supervised by an approved trainer.
+(3)[^c-4eb5cba6c6069d77b1e7e77f1b9546ee] Paragraph 4 applies where a dental practitioner was employed under a contract of service by an NHS body or contractor for a period prior to 25th November 2022 and where the dental practitioner’s work under the contract was supervised by an approved trainer.
 
 (4) Where this paragraph applies, the dental practitioner is to be treated as having undertaken foundation training during the relevant period if the contract of service made provision for those features of a contract of service set out and particularised in regulation 30(1) immediately prior to 25th November 2022*.*
 
@@ -1287,10 +1287,10 @@ In respect of any dental practitioner included in the dental performers list, th
 
 (1) In addition to satisfying the requirements of regulation 4, an application by a dental practitioner for the inclusion in the dental performers list must satisfy the requirements of this regulation.
 
-(2) The dental practitioner must , subject to paragraph (4),[^key-7dcd72f544391e9b6c1be1c53115cc89] provide—
+(2) The dental practitioner must , subject to paragraph (4),[^c-7dcd72f544391e9b6c1be1c53115cc89] provide—
 
 - (a) details of the dental practitioner's dental qualifications, details of where they were obtained and evidence of them;
-- (b)[^key-a4bbde6f583019fa4a18e1c2add6f52c] unless the dental practitioner is undertaking foundation training, or is exempt under regulation 34(4) from the requirement to undertake foundation training, evidence that the dental practitioner has satisfactorily completed such training;
+- (b)[^c-a4bbde6f583019fa4a18e1c2add6f52c] unless the dental practitioner is undertaking foundation training, or is exempt under regulation 34(4) from the requirement to undertake foundation training, evidence that the dental practitioner has satisfactorily completed such training;
 - (c) a declaration that the dental practitioner is included in the dentists register;
 - (d) the dental practitioner's professional registration number and date of first registration;
 - (e) if the dental practitioner is undertaking foundation training, the name and practice address of the dental practitioner's approved trainer;
@@ -1301,12 +1301,12 @@ In respect of any dental practitioner included in the dental performers list, th
 
 - (a) if the dental practitioner is undertaking foundation training—
   - (i) not to perform any primary dental services except when acting for and under the direction of the dental practitioner's approved trainer,
-  - (ii) to withdraw from the dental performers list if the dental practitioner fails to complete that training satisfactorily[^key-0e8b4e941f49f0e12b0739b106427919], and
-  - (iii) upon satisfactory[^key-1f142a2b1a53701795a7e10c3e0c2af2] completion of the dental practitioner's foundation training, to provide NHS England with satisfactory evidence of that fact;
+  - (ii) to withdraw from the dental performers list if the dental practitioner fails to complete that training satisfactorily[^c-0e8b4e941f49f0e12b0739b106427919], and
+  - (iii) upon satisfactory[^c-1f142a2b1a53701795a7e10c3e0c2af2] completion of the dental practitioner's foundation training, to provide NHS England with satisfactory evidence of that fact;
 - (b) if the dental practitioner is a contractor under a general dental services contract, to comply with the requirements of paragraph 83 of Schedule 3 to the National Health Service (General Dental Services Contracts) Regulations 2005 (gifts) [^c21653751]; and
 - (c) if the dental practitioner is not a contractor under a general dental services contract, to comply with the requirements referred to in sub-paragraph (b) as though the dental practitioner were such a contractor.
 
-(4)[^key-c735f5223314c246145c0a98ab5cafc9] This regulation applies to an application made by a returning practitioner as if paragraph (2)(a) and (c) were omitted.
+(4)[^c-c735f5223314c246145c0a98ab5cafc9] This regulation applies to an application made by a returning practitioner as if paragraph (2)(a) and (c) were omitted.
 
 ### 34. Additional grounds for refusal
 
@@ -1316,16 +1316,16 @@ In respect of any dental practitioner included in the dental performers list, th
 - (b) the dental practitioner is subject to an order for immediate conditional registration made by a Practice Committee under section 30 of the Dentists Act 1984 (orders for immediate suspension and immediate conditional registration) [^c21653771]; or
 - (c) the dental practitioner is subject to an order for interim conditional registration made by a Practice Committee, Interim Orders Committee or the court under section 32 of the Dentists Act 1984 (interim orders) [^c21653781].
 
-(2) In addition to the grounds in regulation 7(4), NHS England must also refuse to admit a dental practitioner to the dental performers list if the dental practitioner is not undertaking foundation training and has neither satisfactorily[^key-87832316445a31d429e6c996f0e56ed6] completed foundation training nor is exempt under paragraph (4) from the requirement to undertake foundation training.
+(2) In addition to the grounds in regulation 7(4), NHS England must also refuse to admit a dental practitioner to the dental performers list if the dental practitioner is not undertaking foundation training and has neither satisfactorily[^c-87832316445a31d429e6c996f0e56ed6] completed foundation training nor is exempt under paragraph (4) from the requirement to undertake foundation training.
 
 (3) For the purposes of regulation 7(2)(e), the day prescribed in this Part is 3rd March 2003 or, if the dental practitioner concerned had been included in a dental list, 14th December 2001.
 
-(4)[^key-192881a22c9ec75615ec63d47a7abe41] A dental practitioner is exempt from the requirement to undertake foundation training—
+(4)[^c-192881a22c9ec75615ec63d47a7abe41] A dental practitioner is exempt from the requirement to undertake foundation training—
 
 - (a) if the dental practitioner is judged, through an assessment by NHS England, to have knowledge and experience equivalent to that of a dental practitioner who has satisfactorily completed foundation training; or
 - (b) for a period during which the dental practitioner participates in an induction programme in accordance with paragraphs (5) to (7).
 
-(5)[^key-1cc4bc670288e9d651044c5ebcb17c9c] For the purposes of paragraph (4)(b), where the dental practitioner is judged, through an assessment by NHS England, to have the knowledge and experience necessary to perform primary dental services to a standard that does not prejudice the efficiency of those services, NHS England may specify the requirements for an induction programme which the dental practitioner must participate in.
+(5)[^c-1cc4bc670288e9d651044c5ebcb17c9c] For the purposes of paragraph (4)(b), where the dental practitioner is judged, through an assessment by NHS England, to have the knowledge and experience necessary to perform primary dental services to a standard that does not prejudice the efficiency of those services, NHS England may specify the requirements for an induction programme which the dental practitioner must participate in.
 
 (6) The specified requirements of an induction programme must have the aim that, after completing the programme, the dental practitioner is able to satisfy NHS England that they have knowledge and experience equivalent to that of a dental practitioner who has satisfactorily completed foundation training.
 
@@ -1337,8 +1337,8 @@ In respect of any dental practitioner included in the dental performers list, th
 
 (1) In addition to the grounds in regulation 14(1), NHS England must remove a dental practitioner from the dental performers list where it becomes aware that—
 
-- (a) the dental practitioner's registration in the dentists register has been suspended under section 27B(6)(b), 27C(2)(d) or (3) of the Dentists Act 1984[^key-ab63c03fd7cb84b65b4fe1656a488dde]; or
-- (b)[^key-9bab68206f6cf5c3dfa8cacd50c9766f] the dental practitioner—
+- (a) the dental practitioner's registration in the dentists register has been suspended under section 27B(6)(b), 27C(2)(d) or (3) of the Dentists Act 1984[^c-ab63c03fd7cb84b65b4fe1656a488dde]; or
+- (b)[^c-9bab68206f6cf5c3dfa8cacd50c9766f] the dental practitioner—
   - (i) is not exempt under regulation 34(4) from the requirement to undertake foundation training,
   - (ii) has failed to complete foundation training satisfactorily, and
   - (iii) has not withdrawn from the dental performers list pursuant to regulation 33(3)(a)(ii).
@@ -1363,7 +1363,7 @@ In this Part—
   - (a) ophthalmic hospitals, academic degrees, academic or postgraduate courses in ophthalmology, and appointments affording special opportunities for acquiring the necessary skill and experience of the kind required for the provision of primary ophthalmic services; and
   - (b) the qualifications of medical practitioners for the purposes of primary ophthalmic services;
 - “**contractor**” has the meaning given in section 117(5) of the 2006 Act (general ophthalmic services contracts) [^c21653801];
-- “health case” means a fitness to practise case in which an allegation is made that a Practitioner’s fitness to practise is impaired by reason of adverse physical or mental health;[^key-66ee231ab351977a3aa04baf9d577ea4]
+- “health case” means a fitness to practise case in which an allegation is made that a Practitioner’s fitness to practise is impaired by reason of adverse physical or mental health;[^c-66ee231ab351977a3aa04baf9d577ea4]
 - “**ophthalmic hospital**” includes an ophthalmic department of a hospital;
 - “**ophthalmic medical practitioner**” means a registered medical practitioner who has been recognised as an ophthalmic medical practitioner under regulations 43 or 44;
 - “**ophthalmic practitioner** ” means either—
@@ -1401,7 +1401,7 @@ In respect of any ophthalmic practitioner who is included in the ophthalmic perf
 
 (1) In addition to satisfying the requirements of regulation 4, an application by an ophthalmic practitioner for inclusion in the ophthalmic performers list must satisfy the requirements of this regulation.
 
-(2) The ophthalmic practitioner must , subject to paragraph (8),[^key-4b09effb38ae97d56e9811dfeba71d57] provide—
+(2) The ophthalmic practitioner must , subject to paragraph (8),[^c-4b09effb38ae97d56e9811dfeba71d57] provide—
 
 - (a) details of the ophthalmic practitioner's professional qualifications, details of where they were obtained and evidence of them, including, if the practitioner seeks inclusion as an ophthalmic medical practitioner, evidence of the ophthalmic practitioner's approval as an ophthalmic medical practitioner under regulation 43 or 44;
 - (b) a declaration that the ophthalmic practitioner is included in the register;
@@ -1429,7 +1429,7 @@ In respect of any ophthalmic practitioner who is included in the ophthalmic perf
 - (b) it has not sought further information, references or documentation from the applicant under regulation 5(2) or 5(3); and
 - (c) it has not deferred the application under regulation 8.
 
-(8)[^key-6ef53464b68ffbf294df57b75235506b] This regulation applies to an application made by a returning practitioner as if paragraph (2)(a), (b) and (c) were omitted.
+(8)[^c-6ef53464b68ffbf294df57b75235506b] This regulation applies to an application made by a returning practitioner as if paragraph (2)(a), (b) and (c) were omitted.
 
 #### 40. Additional grounds for refusal
 
@@ -1445,11 +1445,11 @@ In respect of any ophthalmic practitioner who is included in the ophthalmic perf
 (1) In addition to the grounds in regulation 14(1), NHS England must remove an ophthalmic practitioner from the ophthalmic performers list where it becomes aware that—
 
 - (a) in the case of an ophthalmic medical practitioner, regulation 28(1) applies to the ophthalmic practitioner and paragraph (2) of that regulation does not apply; or
-- (b) in the case of an optometrist, the ophthalmic practitioner's registration in the register has been suspended under section 13F(3)(b), (7) or (13)(b) of the Opticians Act 1989[^key-510477fee79047a7be5d741a85d8409c].
+- (b) in the case of an optometrist, the ophthalmic practitioner's registration in the register has been suspended under section 13F(3)(b), (7) or (13)(b) of the Opticians Act 1989[^c-510477fee79047a7be5d741a85d8409c].
 
-This is subject to paragraph (1A)[^key-837b138d84d031e62e2f7ca09571dc15].
+This is subject to paragraph (1A)[^c-837b138d84d031e62e2f7ca09571dc15].
 
-(1A)[^key-6c753f64f87692d3de59f131a507ba6f] Paragraph (1)(b) does not apply where a direction that an ophthalmic practitioner’s registration in the register be suspended is made in a health case.
+(1A)[^c-6c753f64f87692d3de59f131a507ba6f] Paragraph (1)(b) does not apply where a direction that an ophthalmic practitioner’s registration in the register be suspended is made in a health case.
 
 (2) For the purposes of regulation 14(3)(a), the date prescribed in this Part is 1st April 2005 or, if the ophthalmic practitioner had been included in an ophthalmic list, 14th December 2001.
 
@@ -1591,7 +1591,7 @@ within the period specified in paragraph 2(2)(c).
 (3) NHS England may also remove an emergency registered practitioner from the medical performers list where it considers such removal to be justified, after having checked—
 
 - (a) as far as reasonably practicable, the information provided with the application, in particular any information provided under regulation 4(5) or (7);
-- (b) with the NHS[^key-f9189452be5ed4c728b8e7ef7918a472] Counter Fraud Authority for relevant information relating to past or current fraud investigations involving or relating to the emergency registered practitioner and having considered these and any other facts in its possession relating to fraud involving or relating to the emergency registered practitioner; or
+- (b) with the NHS[^c-f9189452be5ed4c728b8e7ef7918a472] Counter Fraud Authority for relevant information relating to past or current fraud investigations involving or relating to the emergency registered practitioner and having considered these and any other facts in its possession relating to fraud involving or relating to the emergency registered practitioner; or
 - (c) with the Secretary of State for any relevant information relating to past or current investigations or proceedings involving or relating to the emergency registered practitioner and having considered any other facts in its possession involving or related to the emergency registered practitioner.
 
 (4) The Authority referred to in sub-paragraph (3)(b) or the Secretary of State must, in response to a request from NHS England, supply to NHS England any information the Authority or the Secretary of State consider relevant for the purposes of sub-paragraph (3)(b) or, as the case may be, (3)(c).
@@ -1672,15 +1672,15 @@ Part 5 makes provision for transitional and savings provisions and for the revoc
 
 [^c21653201]: Marginal citation: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-8ef30e2430d89202d8d2f3557ee2e435]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/335/regulation/2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [61(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/61/2/a)
+[^c-8ef30e2430d89202d8d2f3557ee2e435]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/335/regulation/2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [61(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/61/2/a)
 
 [^c21653221]: Marginal citation: [S.I. 1992/661](https://www.legislation.gov.uk/uksi/1992/661). These regulations were revoked in relation to England by [S.I. 2006/562](https://www.legislation.gov.uk/uksi/2006/562) and in relation to Wales by [S.I. 2006/946](https://www.legislation.gov.uk/uksi/2006/946).
 
-[^key-7ebd5a4ab0ff4a808993a49da7d0cb94]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-7ebd5a4ab0ff4a808993a49da7d0cb94]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21653231]: Marginal citation: [S.I. 2003/250](https://www.legislation.gov.uk/uksi/2003/250). These regulations were revoked by [S.I. 2006/562](https://www.legislation.gov.uk/uksi/2006/562).
 
-[^key-20cdde5fac1b50f98c5e16d820665a3a]: Textual amendment: Words in reg. 2 inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/362/regulation/3)
+[^c-20cdde5fac1b50f98c5e16d820665a3a]: Textual amendment: Words in reg. 2 inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/362/regulation/3)
 
 [^c21653241]: Marginal citation: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54). Section 18A was inserted by [S.I. 2008/1774](https://www.legislation.gov.uk/uksi/2008/1774).
 
@@ -1700,9 +1700,9 @@ Part 5 makes provision for transitional and savings provisions and for the revoc
 
 [^c21653321]: Marginal citation: Section 28 was amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [section 55](https://www.legislation.gov.uk/ukpga/2012/7/section/55) and Schedule 4, Part 2, paragraph 13. The Authority was abolished by [S.I. 2005/502](https://www.legislation.gov.uk/uksi/2005/502).
 
-[^key-6d67404246db383036fd11ff0f5b5584]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/335/regulation/2) inserted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/960/article/4/2)
+[^c-6d67404246db383036fd11ff0f5b5584]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/335/regulation/2) inserted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/960/article/4/2)
 
-[^key-40f5e20e56b32bc31684cf454b3a4bd9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/335/regulation/2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [61(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/61/2/b)
+[^c-40f5e20e56b32bc31684cf454b3a4bd9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/335/regulation/2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [61(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/61/2/b)
 
 [^c21653331]: Marginal citation: The Institute was abolished by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [section 248](https://www.legislation.gov.uk/ukpga/2012/7/section/248).
 
@@ -1718,33 +1718,33 @@ Part 5 makes provision for transitional and savings provisions and for the revoc
 
 [^c21653391]: Marginal citation: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17). The section heading was substituted by, and sub-section 1 was amended by section 222 of the Health and Social Care Act 2012 (“**the 2012 Act**”). Sub-section (2) was amended by the 2012 Act, section 230 and Schedule 15, Part 3, paragraph 62 and by section 223. Sub-section (2A) was inserted by section 113 of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) (“**the 2008 Act**”) and amended by the 2012 Act, sections 223 and 230 and Schedule 15, Part 3, paragraph 62. Sub-section (3) was amended by the 2008 Act, section 127 and Schedule 10, paragraph 17, by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231) and by the 2012 Act, section 230 and Schedule 15, Part 2, paragraph 56. Sub-sections (3A) and (3B) were inserted by section 220 of the 2012 Act. Sub-section (4) was amended by the 2012 Act, section 230 and Schedule 15, Part 3, paragraph 62 and sub-section (5) was amended by section 224 of that Act. Sub-section (6) was amended by the 2008 Act, sections 127 and 166, Schedule 10, paragraph 17 and Schedule 15, Part 2.
 
-[^key-ce4159cdc17193639b5bc2c3899df1cd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/335/regulation/2) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/828/regulation/3)
+[^c-ce4159cdc17193639b5bc2c3899df1cd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/335/regulation/2) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/828/regulation/3)
 
 [^c21653401]: Marginal citation: [S.I. 2003/2644](https://www.legislation.gov.uk/uksi/2003/2644). These regulations were revoked by [S.I. 2004/585](https://www.legislation.gov.uk/uksi/2004/585).
 
 [^c21653411]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-098bceafa9d1ae3aa7db7951745200c1]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/2) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/a/i)
+[^c-098bceafa9d1ae3aa7db7951745200c1]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/2) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/a/i)
 
-[^key-9a7385226c4899a66f8016e55f6294c0]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/2/b) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/a/ii)
+[^c-9a7385226c4899a66f8016e55f6294c0]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/2/b) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/a/ii)
 
-[^key-93437e1364da3a0f9264c07fc6fa022b]: Textual amendment: Words in [reg. 4(2)(e)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/2/e) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/a/iii)
+[^c-93437e1364da3a0f9264c07fc6fa022b]: Textual amendment: Words in [reg. 4(2)(e)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/2/e) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/a/iii)
 
-[^key-16fb9e471233fd7821b8b67fd46ee9c2]: Textual amendment: [Reg. 4(2)(ha)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/2/ha) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(a)(iv)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/a/iv)
+[^c-16fb9e471233fd7821b8b67fd46ee9c2]: Textual amendment: [Reg. 4(2)(ha)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/2/ha) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(a)(iv)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/a/iv)
 
-[^key-b7a52cc6ee33665ff23d9cd27ea82827]: Textual amendment: Word in [reg. 4(2)(l)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/2/l) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(a)(v)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/a/v)
+[^c-b7a52cc6ee33665ff23d9cd27ea82827]: Textual amendment: Word in [reg. 4(2)(l)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/2/l) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(a)(v)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/a/v)
 
 [^c21653421]: Marginal citation: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50). Section 113B was inserted by the [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [section 163](https://www.legislation.gov.uk/ukpga/2005/15/section/163). It was amended by: the [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [section 63](https://www.legislation.gov.uk/ukpga/2006/47/section/63) and Schedule 9, Part 2, paragraph 14; the [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [section 378](https://www.legislation.gov.uk/ukpga/2006/52/section/378) and Schedule 16, paragraph 149; the Protection of Vulnerable Groups (Scotland) Act 2007 ([2007 asp 14](https://www.legislation.gov.uk/asp/2007/14)), sections 79 and 80; the [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [sections 97](https://www.legislation.gov.uk/ukpga/2009/26/section/97) and 112 and Schedule 8, Part 8; [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203); [S.I. 2010/146](https://www.legislation.gov.uk/uksi/2010/146); the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [sections 79](https://www.legislation.gov.uk/ukpga/2012/9/section/79), [80](https://www.legislation.gov.uk/ukpga/2012/9/section/80), [82](https://www.legislation.gov.uk/ukpga/2012/9/section/82) and 115 and Schedule 10, Parts 5 and 6; and [S.I. 2012/3006](https://www.legislation.gov.uk/uksi/2012/3006).
 
 [^c21653431]: Marginal citation: Sections 113BA and 113BB were inserted in relation to England, Wales and Northern Ireland by the [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [section 63](https://www.legislation.gov.uk/ukpga/2006/47/section/63) and Schedule 9, Part 2, paragraph 14. An alternative section 113BA was inserted in relation to Scotland by the Criminal Justice and Licensing (Scotland) Act 2010 ([2010 asp 13](https://www.legislation.gov.uk/asp/2010/13)), section 108. Section 113BA was amended in relation to England, Wales and Northern Ireland by the [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [sections 170](https://www.legislation.gov.uk/ukpga/2006/40/section/170) and 173 and by the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [section 115](https://www.legislation.gov.uk/ukpga/2012/9/section/115) and Schedule 9, Part 6, paragraphs 35 and 38 and Schedule 10, Part 5. Section 113BB was amended by the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [section 115](https://www.legislation.gov.uk/ukpga/2012/9/section/115) and Schedule 9, Part 6, paragraphs 35 and 39 and Schedule 10, Part 5.
 
-[^key-88507406b8ff57ad5f79dd9b806641c4]: Textual amendment: [Reg. 4(2)(n)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/2/n) and preceding word inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(a)(vi)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/a/vi)
+[^c-88507406b8ff57ad5f79dd9b806641c4]: Textual amendment: [Reg. 4(2)(n)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/2/n) and preceding word inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(a)(vi)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/a/vi)
 
-[^key-f4d4fef368964468362259ce1314a6c6]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/3/b) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/b)
+[^c-f4d4fef368964468362259ce1314a6c6]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/3/b) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/b)
 
-[^key-4fdcfb0cd655db64e2f74e1bb1d80be8]: Textual amendment: Words in reg. 4(5)(a) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/362/regulation/4/a)
+[^c-4fdcfb0cd655db64e2f74e1bb1d80be8]: Textual amendment: Words in reg. 4(5)(a) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/362/regulation/4/a)
 
-[^key-7635334b190d21447d847e763223aa20]: Textual amendment: Words in reg. 4(5)(b) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/362/regulation/4/b)
+[^c-7635334b190d21447d847e763223aa20]: Textual amendment: Words in reg. 4(5)(b) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/362/regulation/4/b)
 
 [^c21653441]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Section 302 has been amended by: the [Communications Act 2003 (2003 c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [section 406](https://www.legislation.gov.uk/ukpga/2003/21/section/406) and Schedule 17, paragraph 133; the [Wireless Telegraphy Act 2006 (2006 c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [section 123](https://www.legislation.gov.uk/ukpga/2006/36/section/123) and Schedule 7, paragraph 16; the Criminal Proceedings etc. (Reform) (Scotland) Act 2007 ([2007 asp 6](https://www.legislation.gov.uk/asp/2007/6)), section 50; and the Criminal Justice and Licensing (Scotland) Act 2010 ([2010 asp 13](https://www.legislation.gov.uk/asp/2010/13)), section 70.
 
@@ -1754,91 +1754,91 @@ Part 5 makes provision for transitional and savings provisions and for the revoc
 
 [^c21653471]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Section 246 was amended by the Criminal Justice and Licensing (Scotland) Act 2010 ([2010 asp 13](https://www.legislation.gov.uk/asp/2010/13)), section 14 and Schedule 2, paragraph 26.
 
-[^key-54731bec0a27916298ac05e06147aae7]: Textual amendment: Words in reg. 4(5)(e) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2015/362/regulation/4/c)
+[^c-54731bec0a27916298ac05e06147aae7]: Textual amendment: Words in reg. 4(5)(e) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2015/362/regulation/4/c)
 
-[^key-168a405d4831f116df1d602d6123a17c]: Textual amendment: Words in reg. 4(5)(i) substituted (25.7.2013) by [The Coroners and Justice Act 2009 (Commencement No. 15, Consequential and Transitory Provisions) Order 2013 (S.I. 2013/1869)](https://www.legislation.gov.uk/uksi/2013/1869), [art. 4](https://www.legislation.gov.uk/uksi/2013/1869/article/4), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2013/1869/schedule/paragraph/5/2)
+[^c-168a405d4831f116df1d602d6123a17c]: Textual amendment: Words in reg. 4(5)(i) substituted (25.7.2013) by [The Coroners and Justice Act 2009 (Commencement No. 15, Consequential and Transitory Provisions) Order 2013 (S.I. 2013/1869)](https://www.legislation.gov.uk/uksi/2013/1869), [art. 4](https://www.legislation.gov.uk/uksi/2013/1869/article/4), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2013/1869/schedule/paragraph/5/2)
 
-[^key-b08062b07a4ca8ca4d35809d9eacaf5a]: Textual amendment: Words in reg. 4(5)(j) inserted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/960/article/4/3)
+[^c-b08062b07a4ca8ca4d35809d9eacaf5a]: Textual amendment: Words in reg. 4(5)(j) inserted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/960/article/4/3)
 
-[^key-9a4c702deceb8a6dae4190fe90adbb1c]: Textual amendment: Words in reg. 4(5)(k) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/a)
+[^c-9a4c702deceb8a6dae4190fe90adbb1c]: Textual amendment: Words in reg. 4(5)(k) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/a)
 
-[^key-c5cf655f2e2b8dd55216070270aea978]: Textual amendment: Words in reg. 4(7)(f) inserted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/960/article/4/3)
+[^c-c5cf655f2e2b8dd55216070270aea978]: Textual amendment: Words in reg. 4(7)(f) inserted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/960/article/4/3)
 
-[^key-a04aa29d86053f3fefce875b82a4b2c3]: Textual amendment: Words in reg. 4(7)(g) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/a)
+[^c-a04aa29d86053f3fefce875b82a4b2c3]: Textual amendment: Words in reg. 4(7)(g) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/a)
 
-[^key-fcd46b2d8a81a7e85b44ade5c1a275cd]: Textual amendment: [Reg. 4(9)-(11)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/9) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/c)
+[^c-fcd46b2d8a81a7e85b44ade5c1a275cd]: Textual amendment: [Reg. 4(9)-(11)](https://www.legislation.gov.uk/uksi/2013/335/regulation/4/9) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2023/828/regulation/4/c)
 
-[^key-3d9c76aa820401b4c05584e4d448851c]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/5/1/b) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/5/a)
+[^c-3d9c76aa820401b4c05584e4d448851c]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/5/1/b) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/5/a)
 
-[^key-ff66cd9b9571915dc0640ed446124d3d]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/5/1/b) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/b)
+[^c-ff66cd9b9571915dc0640ed446124d3d]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/5/1/b) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/b)
 
-[^key-e6744b66ab4da355e90e995b42318466]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2013/335/regulation/5/1/c) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/5/b)
+[^c-e6744b66ab4da355e90e995b42318466]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2013/335/regulation/5/1/c) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/5/b)
 
-[^key-ddd9b3afbdb1fe73dc904e73a3addce9]: Textual amendment: Words in [reg. 5(1)(d)](https://www.legislation.gov.uk/uksi/2013/335/regulation/5/1/d) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2023/828/regulation/5/c)
+[^c-ddd9b3afbdb1fe73dc904e73a3addce9]: Textual amendment: Words in [reg. 5(1)(d)](https://www.legislation.gov.uk/uksi/2013/335/regulation/5/1/d) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2023/828/regulation/5/c)
 
-[^key-aef3a77869c7a0e74345349a8bc672a7]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2013/335/regulation/5/1A) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [5(d)](https://www.legislation.gov.uk/uksi/2023/828/regulation/5/d)
+[^c-aef3a77869c7a0e74345349a8bc672a7]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2013/335/regulation/5/1A) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [5(d)](https://www.legislation.gov.uk/uksi/2023/828/regulation/5/d)
 
-[^key-73e6fef559a0890e60dbf54027326622]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/uksi/2013/335/regulation/5/5) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [5(e)](https://www.legislation.gov.uk/uksi/2023/828/regulation/5/e)
+[^c-73e6fef559a0890e60dbf54027326622]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/uksi/2013/335/regulation/5/5) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [5(e)](https://www.legislation.gov.uk/uksi/2023/828/regulation/5/e)
 
-[^key-4ccec64bfb1cb077e3ba7b125d34e193]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2013/335/regulation/5A) inserted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/525/regulation/3)
+[^c-4ccec64bfb1cb077e3ba7b125d34e193]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2013/335/regulation/5A) inserted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/525/regulation/3)
 
-[^key-72dbed8f216865d480511efaaaa1b18e]: Textual amendment: Word in [reg. 5A(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/335/regulation/5A/1/c/ii) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2023/828/regulation/6)
+[^c-72dbed8f216865d480511efaaaa1b18e]: Textual amendment: Word in [reg. 5A(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/335/regulation/5A/1/c/ii) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2023/828/regulation/6)
 
-[^key-77309b08895da9fb699cc4abc6ed2447]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/uksi/2013/335/regulation/7/2/c) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/7/a)
+[^c-77309b08895da9fb699cc4abc6ed2447]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/uksi/2013/335/regulation/7/2/c) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/7/a)
 
-[^key-406e1380ac1c112d2d38899729444278]: Textual amendment: Words in [reg. 7(2)(d)](https://www.legislation.gov.uk/uksi/2013/335/regulation/7/2/d) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/c)
+[^c-406e1380ac1c112d2d38899729444278]: Textual amendment: Words in [reg. 7(2)(d)](https://www.legislation.gov.uk/uksi/2013/335/regulation/7/2/d) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/c)
 
 [^c21653491]: Marginal citation: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
 
-[^key-d2fc6fdc3999fff9202ca93d91b42547]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2013/335/regulation/7/5) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/7/b)
+[^c-d2fc6fdc3999fff9202ca93d91b42547]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2013/335/regulation/7/5) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/7/b)
 
-[^key-5deb71e0ae1f123fc84f15e37d1b41bd]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2013/335/regulation/7A) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2023/828/regulation/8)
+[^c-5deb71e0ae1f123fc84f15e37d1b41bd]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2013/335/regulation/7A) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2023/828/regulation/8)
 
-[^key-f2a771f55ba74bcc136de7387bc946d5]: Textual amendment: Words in [reg. 8(1)(h)](https://www.legislation.gov.uk/uksi/2013/335/regulation/8/1/h) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(d)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/d)
+[^c-f2a771f55ba74bcc136de7387bc946d5]: Textual amendment: Words in [reg. 8(1)(h)](https://www.legislation.gov.uk/uksi/2013/335/regulation/8/1/h) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(d)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/d)
 
-[^key-edde0877c570451fe3c78f956eb65628]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2013/335/regulation/9/1A)[(1B)](https://www.legislation.gov.uk/uksi/2013/335/regulation/9/1B) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/9/a)
+[^c-edde0877c570451fe3c78f956eb65628]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2013/335/regulation/9/1A)[(1B)](https://www.legislation.gov.uk/uksi/2013/335/regulation/9/1B) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/9/a)
 
-[^key-97d6c2dbff873db54f96c493a9848acd]: Textual amendment: Words in reg. 9(2)(h) substituted (25.7.2013) by [The Coroners and Justice Act 2009 (Commencement No. 15, Consequential and Transitory Provisions) Order 2013 (S.I. 2013/1869)](https://www.legislation.gov.uk/uksi/2013/1869), [art. 4](https://www.legislation.gov.uk/uksi/2013/1869/article/4), [Sch. para. 5(3)](https://www.legislation.gov.uk/uksi/2013/1869/schedule/paragraph/5/3)
+[^c-97d6c2dbff873db54f96c493a9848acd]: Textual amendment: Words in reg. 9(2)(h) substituted (25.7.2013) by [The Coroners and Justice Act 2009 (Commencement No. 15, Consequential and Transitory Provisions) Order 2013 (S.I. 2013/1869)](https://www.legislation.gov.uk/uksi/2013/1869), [art. 4](https://www.legislation.gov.uk/uksi/2013/1869/article/4), [Sch. para. 5(3)](https://www.legislation.gov.uk/uksi/2013/1869/schedule/paragraph/5/3)
 
-[^key-a7bfe0b00a6e009ec8c88cb30430d535]: Textual amendment: Words in [reg. 9(2)(l)](https://www.legislation.gov.uk/uksi/2013/335/regulation/9/2/l) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(e)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/e)
+[^c-a7bfe0b00a6e009ec8c88cb30430d535]: Textual amendment: Words in [reg. 9(2)(l)](https://www.legislation.gov.uk/uksi/2013/335/regulation/9/2/l) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(e)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/e)
 
-[^key-70b4f0c0dc4b2b71df07b3dfb61f2c9b]: Textual amendment: Words in reg. 9(4)(i) substituted (25.7.2013) by [The Coroners and Justice Act 2009 (Commencement No. 15, Consequential and Transitory Provisions) Order 2013 (S.I. 2013/1869)](https://www.legislation.gov.uk/uksi/2013/1869), [art. 4](https://www.legislation.gov.uk/uksi/2013/1869/article/4), [Sch. para. 5(4)](https://www.legislation.gov.uk/uksi/2013/1869/schedule/paragraph/5/4)
+[^c-70b4f0c0dc4b2b71df07b3dfb61f2c9b]: Textual amendment: Words in reg. 9(4)(i) substituted (25.7.2013) by [The Coroners and Justice Act 2009 (Commencement No. 15, Consequential and Transitory Provisions) Order 2013 (S.I. 2013/1869)](https://www.legislation.gov.uk/uksi/2013/1869), [art. 4](https://www.legislation.gov.uk/uksi/2013/1869/article/4), [Sch. para. 5(4)](https://www.legislation.gov.uk/uksi/2013/1869/schedule/paragraph/5/4)
 
 [^c21653501]: Marginal citation: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50). Section 113B was inserted by the [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [section 163](https://www.legislation.gov.uk/ukpga/2005/15/section/163). It was amended by: the [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [section 63](https://www.legislation.gov.uk/ukpga/2006/47/section/63) and Schedule 9, Part 2, paragraph 14; the [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [section 378](https://www.legislation.gov.uk/ukpga/2006/52/section/378) and Schedule 16, paragraph 149; the Protection of Vulnerable Groups (Scotland) Act 2007 ([2007 asp 14](https://www.legislation.gov.uk/asp/2007/14)), sections 79 and 80; the [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [sections 97](https://www.legislation.gov.uk/ukpga/2009/26/section/97) and 112 and Schedule 8, Part 8; [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203); [S.I. 2010/146](https://www.legislation.gov.uk/uksi/2010/146); the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [sections 79](https://www.legislation.gov.uk/ukpga/2012/9/section/79), [80](https://www.legislation.gov.uk/ukpga/2012/9/section/80), [82](https://www.legislation.gov.uk/ukpga/2012/9/section/82) and 115 and Schedule 10, Parts 5 and 6; and [S.I. 2012/3006](https://www.legislation.gov.uk/uksi/2012/3006).
 
 [^c21653511]: Marginal citation: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50). Sections 113BA and 113BB were inserted in relation to England, Wales and Northern Ireland by the [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [section 63](https://www.legislation.gov.uk/ukpga/2006/47/section/63) and Schedule 9, Part 2, paragraph 14. An alternative section 113BA was inserted in relation to Scotland by the Criminal Justice and Licensing (Scotland) Act 2010 ([2010 asp 13](https://www.legislation.gov.uk/asp/2010/13)), section 108. Section 113BA was amended in relation to England, Wales and Northern Ireland by the [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [sections 170](https://www.legislation.gov.uk/ukpga/2006/40/section/170) and 173 and by the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [section 115](https://www.legislation.gov.uk/ukpga/2012/9/section/115) and Schedule 9, Part 6, paragraphs 35 and 38 and Schedule 10, Part 5. Section 113BB was amended by the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [section 115](https://www.legislation.gov.uk/ukpga/2012/9/section/115) and Schedule 9, Part 6, paragraphs 35 and 39 and Schedule 10, Part 5.
 
-[^key-d3e7592ee2829c9bf4d598a951651e75]: Textual amendment: [Reg. 9(8A)](https://www.legislation.gov.uk/uksi/2013/335/regulation/9/8A) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/9/b)
+[^c-d3e7592ee2829c9bf4d598a951651e75]: Textual amendment: [Reg. 9(8A)](https://www.legislation.gov.uk/uksi/2013/335/regulation/9/8A) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/9/b)
 
 [^c21653521]: Marginal citation: [S.I. 2005/3491](https://www.legislation.gov.uk/uksi/2005/3491).
 
 [^c21653531]: Marginal citation: [S.I. 2008/1187](https://www.legislation.gov.uk/uksi/2008/1187).
 
-[^key-5b3af0f77c43f6c13ff8a1c25cc43d38]: Textual amendment: [Reg. 12(1A)-(1C)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/1A) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/362/regulation/5/a)
+[^c-5b3af0f77c43f6c13ff8a1c25cc43d38]: Textual amendment: [Reg. 12(1A)-(1C)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/1A) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/362/regulation/5/a)
 
-[^key-095863bec32bb929e60c3a3c7ed9b8ab]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/2) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/362/regulation/5/b)
+[^c-095863bec32bb929e60c3a3c7ed9b8ab]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/2) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/362/regulation/5/b)
 
-[^key-ea02915d778ef46336f6efb07c29006b]: Textual amendment: [Reg. 12(4)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/4/b) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/10/a)
+[^c-ea02915d778ef46336f6efb07c29006b]: Textual amendment: [Reg. 12(4)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/4/b) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/10/a)
 
-[^key-a4483bbe19e8fb6b9c6cb7542d7e361a]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/6) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2015/362/regulation/5/c)
+[^c-a4483bbe19e8fb6b9c6cb7542d7e361a]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/6) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2015/362/regulation/5/c)
 
-[^key-99547f2a56f28b8be4b18e9b3aa66bed]: Textual amendment: [Reg. 12(7)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/7/b) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/10/b)
+[^c-99547f2a56f28b8be4b18e9b3aa66bed]: Textual amendment: [Reg. 12(7)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/7/b) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/10/b)
 
-[^key-5827f68e9ea13ab69217b6aaa649aa88]: Textual amendment: [Reg. 12(10)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/10/b) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2023/828/regulation/10/c)
+[^c-5827f68e9ea13ab69217b6aaa649aa88]: Textual amendment: [Reg. 12(10)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/10/b) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2023/828/regulation/10/c)
 
-[^key-7f42876091e798858a9931130d4c79c2]: Textual amendment: Words in [reg. 12(21)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/21) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [5(d)(i)](https://www.legislation.gov.uk/uksi/2015/362/regulation/5/d/i)
+[^c-7f42876091e798858a9931130d4c79c2]: Textual amendment: Words in [reg. 12(21)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/21) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [5(d)(i)](https://www.legislation.gov.uk/uksi/2015/362/regulation/5/d/i)
 
-[^key-5af4092132e66d601332164446a9350c]: Textual amendment: Words in [reg. 12(21)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/21) substituted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [5(d)(ii)](https://www.legislation.gov.uk/uksi/2015/362/regulation/5/d/ii)
+[^c-5af4092132e66d601332164446a9350c]: Textual amendment: Words in [reg. 12(21)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/21) substituted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [5(d)(ii)](https://www.legislation.gov.uk/uksi/2015/362/regulation/5/d/ii)
 
-[^key-165ee0aa4d10edc22b8939c4c614e072]: Textual amendment: [Reg. 12(23)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/23) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [5(e)](https://www.legislation.gov.uk/uksi/2015/362/regulation/5/e)
+[^c-165ee0aa4d10edc22b8939c4c614e072]: Textual amendment: [Reg. 12(23)](https://www.legislation.gov.uk/uksi/2013/335/regulation/12/23) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [5(e)](https://www.legislation.gov.uk/uksi/2015/362/regulation/5/e)
 
-[^key-7a665c8c5f8dc690b166c33c7ee12b22]: Textual amendment: [Reg. 13(A1)](https://www.legislation.gov.uk/uksi/2013/335/regulation/13/A1) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/11/a)
+[^c-7a665c8c5f8dc690b166c33c7ee12b22]: Textual amendment: [Reg. 13(A1)](https://www.legislation.gov.uk/uksi/2013/335/regulation/13/A1) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/11/a)
 
-[^key-1d5b83c4c57a747bd6617856ea051d6a]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2013/335/regulation/13/1) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/2023/828/regulation/11/b/i)
+[^c-1d5b83c4c57a747bd6617856ea051d6a]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2013/335/regulation/13/1) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/2023/828/regulation/11/b/i)
 
-[^key-7a0a04a372f8e308c9d97f37a53005ec]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2013/335/regulation/13/1) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2023/828/regulation/11/b/ii)
+[^c-7a0a04a372f8e308c9d97f37a53005ec]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2013/335/regulation/13/1) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2023/828/regulation/11/b/ii)
 
-[^key-c8b54db21fd194682ac4e318e3f56d10]: Textual amendment: [Reg. 13(3A)](https://www.legislation.gov.uk/uksi/2013/335/regulation/13/3A) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [11(c)](https://www.legislation.gov.uk/uksi/2023/828/regulation/11/c)
+[^c-c8b54db21fd194682ac4e318e3f56d10]: Textual amendment: [Reg. 13(3A)](https://www.legislation.gov.uk/uksi/2013/335/regulation/13/3A) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [11(c)](https://www.legislation.gov.uk/uksi/2023/828/regulation/11/c)
 
 [^c21653541]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
@@ -1846,35 +1846,35 @@ Part 5 makes provision for transitional and savings provisions and for the revoc
 
 [^c21653561]: Marginal citation: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
 
-[^key-3f62963f7af8cf5de80e2f600c74decb]: Textual amendment: Words in [reg. 15(3)(c)](https://www.legislation.gov.uk/uksi/2013/335/regulation/15/3/c) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(f)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/f)
+[^c-3f62963f7af8cf5de80e2f600c74decb]: Textual amendment: Words in [reg. 15(3)(c)](https://www.legislation.gov.uk/uksi/2013/335/regulation/15/3/c) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(f)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/f)
 
-[^key-1587791e310bdfaafd39e77e7f0aaacc]: Textual amendment: Word in [reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/2013/335/regulation/16/1/a) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/12/a)
+[^c-1587791e310bdfaafd39e77e7f0aaacc]: Textual amendment: Word in [reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/2013/335/regulation/16/1/a) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/12/a)
 
-[^key-b4a1a0e5e333a6e3f35b91a02e9bac98]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/uksi/2013/335/regulation/16/1A) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/12/b)
+[^c-b4a1a0e5e333a6e3f35b91a02e9bac98]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/uksi/2013/335/regulation/16/1A) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/12/b)
 
-[^key-588c05153a7272aff62e18fb9e9a68f9]: Textual amendment: Words in [reg. 16(2)(a)](https://www.legislation.gov.uk/uksi/2013/335/regulation/16/2/a) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2023/828/regulation/12/c)
+[^c-588c05153a7272aff62e18fb9e9a68f9]: Textual amendment: Words in [reg. 16(2)(a)](https://www.legislation.gov.uk/uksi/2013/335/regulation/16/2/a) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2023/828/regulation/12/c)
 
-[^key-3514f4fa03c37861b498297c81b2b609]: Textual amendment: Words in [reg. 16(3)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/16/3/b) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [12(d)](https://www.legislation.gov.uk/uksi/2023/828/regulation/12/d)
+[^c-3514f4fa03c37861b498297c81b2b609]: Textual amendment: Words in [reg. 16(3)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/16/3/b) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [12(d)](https://www.legislation.gov.uk/uksi/2023/828/regulation/12/d)
 
-[^key-f12779a5da7f12f5d81476e573ccf836]: Textual amendment: [Reg. 16(3A)](https://www.legislation.gov.uk/uksi/2013/335/regulation/16/3A) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [12(e)](https://www.legislation.gov.uk/uksi/2023/828/regulation/12/e)
+[^c-f12779a5da7f12f5d81476e573ccf836]: Textual amendment: [Reg. 16(3A)](https://www.legislation.gov.uk/uksi/2013/335/regulation/16/3A) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [12(e)](https://www.legislation.gov.uk/uksi/2023/828/regulation/12/e)
 
-[^key-56d022dc73e8336efb7dc5b724ad3225]: Textual amendment: Words in [reg. 16(9)(a)](https://www.legislation.gov.uk/uksi/2013/335/regulation/16/9/a) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/362/regulation/6)
+[^c-56d022dc73e8336efb7dc5b724ad3225]: Textual amendment: Words in [reg. 16(9)(a)](https://www.legislation.gov.uk/uksi/2013/335/regulation/16/9/a) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/362/regulation/6)
 
-[^key-019a01a9cbbce512eac5e16307db3d1b]: Textual amendment: Word in [reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/17/2/b) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2023/828/regulation/13)
+[^c-019a01a9cbbce512eac5e16307db3d1b]: Textual amendment: Word in [reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/17/2/b) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2023/828/regulation/13)
 
-[^key-9c0c3104b694dffc1a2d202eca045f48]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2013/335/regulation/17A) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2023/828/regulation/14)
+[^c-9c0c3104b694dffc1a2d202eca045f48]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2013/335/regulation/17A) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2023/828/regulation/14)
 
-[^key-719f241a5c35c93ec0d7c2b91d0dac38]: Textual amendment: Words in reg. 18(2)(e) substituted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/362/regulation/7)
+[^c-719f241a5c35c93ec0d7c2b91d0dac38]: Textual amendment: Words in reg. 18(2)(e) substituted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/362/regulation/7)
 
-[^key-5753ecb33144906831a7a6c129c6964a]: Textual amendment: Words in [reg. 18(2)(e)](https://www.legislation.gov.uk/uksi/2013/335/regulation/18/2/e) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2023/828/regulation/15)
+[^c-5753ecb33144906831a7a6c129c6964a]: Textual amendment: Words in [reg. 18(2)(e)](https://www.legislation.gov.uk/uksi/2013/335/regulation/18/2/e) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2023/828/regulation/15)
 
-[^key-45b02c9829e9af746811e4c6c3966253]: Textual amendment: Words in [reg. 18(3)(g)](https://www.legislation.gov.uk/uksi/2013/335/regulation/18/3/g) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(g)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/g)
+[^c-45b02c9829e9af746811e4c6c3966253]: Textual amendment: Words in [reg. 18(3)(g)](https://www.legislation.gov.uk/uksi/2013/335/regulation/18/3/g) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(g)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/g)
 
-[^key-c73232e55dc3933273486bbca0203842]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/2013/335/regulation/20/1/a) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2015/362/regulation/8)
+[^c-c73232e55dc3933273486bbca0203842]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/2013/335/regulation/20/1/a) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2015/362/regulation/8)
 
-[^key-6d813846a2b77cf5d6cf2f1292fa2bac]: Textual amendment: Words in [reg. 21(1)(j)](https://www.legislation.gov.uk/uksi/2013/335/regulation/21/1/j) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(h)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/h)
+[^c-6d813846a2b77cf5d6cf2f1292fa2bac]: Textual amendment: Words in [reg. 21(1)(j)](https://www.legislation.gov.uk/uksi/2013/335/regulation/21/1/j) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(h)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/h)
 
-[^key-62fc6f38a39cb9bb5fb2984cc46c55e3]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2013/335/regulation/23) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/248/regulation/21/a)
+[^c-62fc6f38a39cb9bb5fb2984cc46c55e3]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2013/335/regulation/23) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/248/regulation/21/a)
 
 [^c21653571]: Marginal citation: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54). Section 34L was inserted by [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234).
 
@@ -1884,37 +1884,37 @@ Part 5 makes provision for transitional and savings provisions and for the revoc
 
 [^c21653601]: Marginal citation: Section 35E was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), [articles 2](https://www.legislation.gov.uk/uksi/2002/3135/article/2) and 13.
 
-[^key-56c8ccb63cccdfd04fc38be96fb1244e]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2013/335/regulation/23) omitted (1.4.2019) by virtue of [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [21(b)](https://www.legislation.gov.uk/uksi/2019/248/regulation/21/b)
+[^c-56c8ccb63cccdfd04fc38be96fb1244e]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2013/335/regulation/23) omitted (1.4.2019) by virtue of [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [21(b)](https://www.legislation.gov.uk/uksi/2019/248/regulation/21/b)
 
 [^c21653611]: Marginal citation: Section 92 was amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [section 55](https://www.legislation.gov.uk/ukpga/2012/7/section/55) and Schedule 4, Part 4, paragraph 36.
 
-[^key-5d39d3dde2de445f01d5887350f34fdf]: Textual amendment: [Reg. 24(1)-(1B)](https://www.legislation.gov.uk/uksi/2013/335/regulation/24/1) substituted for [reg. 24(1)](https://www.legislation.gov.uk/uksi/2013/335/regulation/24/1) (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [2(1)](https://www.legislation.gov.uk/uksi/2024/575/regulation/2/1)
+[^c-5d39d3dde2de445f01d5887350f34fdf]: Textual amendment: [Reg. 24(1)-(1B)](https://www.legislation.gov.uk/uksi/2013/335/regulation/24/1) substituted for [reg. 24(1)](https://www.legislation.gov.uk/uksi/2013/335/regulation/24/1) (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [2(1)](https://www.legislation.gov.uk/uksi/2024/575/regulation/2/1)
 
 [^c21653621]: Marginal citation: Section 15 was amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914). Section 15A was inserted by [S.I. 2000/3041](https://www.legislation.gov.uk/uksi/2000/3041) and amended by 2006/1914, [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). Section 21 was amended by [S.I. 1996/1591](https://www.legislation.gov.uk/uksi/1996/1591), [S.I](https://www.legislation.gov.uk/uksi/1996/1591/section/I). 2002/3135, [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
 [^c21653631]: Marginal citation: Section 10A was inserted by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and amended by [S.I. 2008/3131](https://www.legislation.gov.uk/uksi/2008/3131). Section 44D was inserted by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
-[^key-e6e7bdb4acaa356f498eeb41abcf0432]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2013/335/regulation/24/3) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [16(a)(i)](https://www.legislation.gov.uk/uksi/2023/828/regulation/16/a/i)
+[^c-e6e7bdb4acaa356f498eeb41abcf0432]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2013/335/regulation/24/3) substituted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [16(a)(i)](https://www.legislation.gov.uk/uksi/2023/828/regulation/16/a/i)
 
-[^key-15cda9eb4ef5f51fe3f5f62ba0be707c]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2013/335/regulation/24/3) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [16(a)(ii)](https://www.legislation.gov.uk/uksi/2023/828/regulation/16/a/ii)
+[^c-15cda9eb4ef5f51fe3f5f62ba0be707c]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2013/335/regulation/24/3) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [16(a)(ii)](https://www.legislation.gov.uk/uksi/2023/828/regulation/16/a/ii)
 
-[^key-b496be6ee9eaf6cb42b422b2301fb9cd]: Textual amendment: [Reg. 24(4)](https://www.legislation.gov.uk/uksi/2013/335/regulation/24/4) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/16/b)
+[^c-b496be6ee9eaf6cb42b422b2301fb9cd]: Textual amendment: [Reg. 24(4)](https://www.legislation.gov.uk/uksi/2013/335/regulation/24/4) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/16/b)
 
-[^key-c205495db7fd4150aedff0f13258c208]: Textual amendment: [Reg. 24(5)](https://www.legislation.gov.uk/uksi/2013/335/regulation/24/5) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/16/b)
+[^c-c205495db7fd4150aedff0f13258c208]: Textual amendment: [Reg. 24(5)](https://www.legislation.gov.uk/uksi/2013/335/regulation/24/5) omitted (18.9.2023) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/16/b)
 
-[^key-2c119f454ff1fa15a32c341f9b3e3899]: Textual amendment: [Reg. 25(d)(e)](https://www.legislation.gov.uk/uksi/2013/335/regulation/25/d/e) substituted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2019/248/regulation/22)
+[^c-2c119f454ff1fa15a32c341f9b3e3899]: Textual amendment: [Reg. 25(d)(e)](https://www.legislation.gov.uk/uksi/2013/335/regulation/25/d/e) substituted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2019/248/regulation/22)
 
-[^key-14ea27e0cd7762af0f9474134267ee51]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2013/335/regulation/26/2) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/17/a)
+[^c-14ea27e0cd7762af0f9474134267ee51]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2013/335/regulation/26/2) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/17/a)
 
-[^key-7815962ec63ebcd58eaaa865368e9736]: Textual amendment: [Reg. 26(2)(fa)](https://www.legislation.gov.uk/uksi/2013/335/regulation/26/2/fa) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2019/248/regulation/23)
+[^c-7815962ec63ebcd58eaaa865368e9736]: Textual amendment: [Reg. 26(2)(fa)](https://www.legislation.gov.uk/uksi/2013/335/regulation/26/2/fa) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2019/248/regulation/23)
 
 [^c21653641]: Marginal citation: [S.I. 2010/473](https://www.legislation.gov.uk/uksi/2010/473).
 
-[^key-63257522a9003a7b4b170558b6f8ef15]: Textual amendment: Words in reg. 26(3)(b) substituted (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2015/1862/schedule/4/paragraph/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
+[^c-63257522a9003a7b4b170558b6f8ef15]: Textual amendment: Words in reg. 26(3)(b) substituted (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2015/1862/schedule/4/paragraph/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
 
 [^c21653661]: Marginal citation: Section 34J was inserted by [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234).
 
-[^key-613a347fc2d485564eb46a9a8990c6ed]: Textual amendment: [Reg. 26(7)](https://www.legislation.gov.uk/uksi/2013/335/regulation/26/7) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/17/b)
+[^c-613a347fc2d485564eb46a9a8990c6ed]: Textual amendment: [Reg. 26(7)](https://www.legislation.gov.uk/uksi/2013/335/regulation/26/7) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/17/b)
 
 [^c21653671]: Marginal citation: [Section 41A](https://www.legislation.gov.uk/uksi/2013/335/section/41A) was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
@@ -1922,45 +1922,45 @@ Part 5 makes provision for transitional and savings provisions and for the revoc
 
 [^c21653691]: Marginal citation: [Schedule 4](https://www.legislation.gov.uk/uksi/2013/335/schedule/4) was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
-[^key-2b98eda583ae202bb1f806acf9aea1a9]: Textual amendment: Words in [reg. 28(1)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/28/1/b) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2015/362/regulation/9/a)
+[^c-2b98eda583ae202bb1f806acf9aea1a9]: Textual amendment: Words in [reg. 28(1)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/28/1/b) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2015/362/regulation/9/a)
 
-[^key-d07072916c98af892d49617db71a1854]: Textual amendment: Words in [reg. 28(1)(c)](https://www.legislation.gov.uk/uksi/2013/335/regulation/28/1/c) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2015/362/regulation/9/b)
+[^c-d07072916c98af892d49617db71a1854]: Textual amendment: Words in [reg. 28(1)(c)](https://www.legislation.gov.uk/uksi/2013/335/regulation/28/1/c) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2015/362/regulation/9/b)
 
 [^c21653701]: Marginal citation: Section 3 was amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [section 13](https://www.legislation.gov.uk/ukpga/2012/7/section/13).
 
-[^key-db18e76a23f2dab064416689aecf0a18]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2013/335/regulation/29/1) substituted (25.11.2022) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2022 (S.I. 2022/1131)](https://www.legislation.gov.uk/uksi/2022/1131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1131/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/1131/regulation/3)
+[^c-db18e76a23f2dab064416689aecf0a18]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2013/335/regulation/29/1) substituted (25.11.2022) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2022 (S.I. 2022/1131)](https://www.legislation.gov.uk/uksi/2022/1131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1131/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/1131/regulation/3)
 
 [^c21653711]: Marginal citation: [Section 100](https://www.legislation.gov.uk/uksi/2013/335/section/100) was amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [section 55](https://www.legislation.gov.uk/ukpga/2012/7/section/55), [Schedule 4](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4), [Part 5](https://www.legislation.gov.uk/ukpga/2012/7/part/5), [paragraph 43](https://www.legislation.gov.uk/ukpga/2012/7/paragraph/43).
 
-[^key-2c7fb91c593a0d38a64f22662794a725]: Textual amendment: Words in reg. 29(1) omitted (1.4.2015) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2015/362/regulation/10)
+[^c-2c7fb91c593a0d38a64f22662794a725]: Textual amendment: Words in reg. 29(1) omitted (1.4.2015) by virtue of [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2015/362/regulation/10)
 
-[^key-96c9d93b71cdee8d13a68c2312423a78]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/2013/335/regulation/29) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(y)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/y) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-96c9d93b71cdee8d13a68c2312423a78]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/2013/335/regulation/29) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(y)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/y) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
 [^c21653731]: Marginal citation: Sub-section (3) was substituted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
 
 [^c21653741]: Marginal citation: Section 107 was amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [section 55](https://www.legislation.gov.uk/ukpga/2012/7/section/55) and Schedule 4, Part 5, paragraph 48.
 
-[^key-f3c0183f37d2c3d20cc0039c575c2e53]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2013/335/regulation/30/1) substituted (25.11.2022) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2022 (S.I. 2022/1131)](https://www.legislation.gov.uk/uksi/2022/1131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1131/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/1131/regulation/4/a)
+[^c-f3c0183f37d2c3d20cc0039c575c2e53]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2013/335/regulation/30/1) substituted (25.11.2022) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2022 (S.I. 2022/1131)](https://www.legislation.gov.uk/uksi/2022/1131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1131/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/1131/regulation/4/a)
 
-[^key-76e0fe98d02389f31994df1a1a4cc0b2]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2013/335/regulation/30/1) inserted (25.11.2022) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2022 (S.I. 2022/1131)](https://www.legislation.gov.uk/uksi/2022/1131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1131/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/1131/regulation/4/b)
+[^c-76e0fe98d02389f31994df1a1a4cc0b2]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2013/335/regulation/30/1) inserted (25.11.2022) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2022 (S.I. 2022/1131)](https://www.legislation.gov.uk/uksi/2022/1131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1131/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/1131/regulation/4/b)
 
-[^key-cc4572cd7fa79c1b0f85e43cf183bc2a]: Textual amendment: [Reg. 30(2)(a)](https://www.legislation.gov.uk/uksi/2013/335/regulation/30/2/a) substituted (1.9.2016) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2016 (S.I. 2016/686)](https://www.legislation.gov.uk/uksi/2016/686), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/686/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2016/686/regulation/2)
+[^c-cc4572cd7fa79c1b0f85e43cf183bc2a]: Textual amendment: [Reg. 30(2)(a)](https://www.legislation.gov.uk/uksi/2013/335/regulation/30/2/a) substituted (1.9.2016) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2016 (S.I. 2016/686)](https://www.legislation.gov.uk/uksi/2016/686), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/686/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2016/686/regulation/2)
 
-[^key-5d08e9b12a99fd6271cfa88f0a3c9ebc]: Textual amendment: Words in [reg. 30(2)(c)](https://www.legislation.gov.uk/uksi/2013/335/regulation/30/2/c) substituted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2023/525/regulation/4)
+[^c-5d08e9b12a99fd6271cfa88f0a3c9ebc]: Textual amendment: Words in [reg. 30(2)(c)](https://www.legislation.gov.uk/uksi/2013/335/regulation/30/2/c) substituted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2023/525/regulation/4)
 
-[^key-4eb5cba6c6069d77b1e7e77f1b9546ee]: Textual amendment: [Reg. 30(3)](https://www.legislation.gov.uk/uksi/2013/335/regulation/30/3)[(4)](https://www.legislation.gov.uk/uksi/2013/335/regulation/30/4) inserted (25.11.2022) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2022 (S.I. 2022/1131)](https://www.legislation.gov.uk/uksi/2022/1131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1131/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2022/1131/regulation/5)
+[^c-4eb5cba6c6069d77b1e7e77f1b9546ee]: Textual amendment: [Reg. 30(3)](https://www.legislation.gov.uk/uksi/2013/335/regulation/30/3)[(4)](https://www.legislation.gov.uk/uksi/2013/335/regulation/30/4) inserted (25.11.2022) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2022 (S.I. 2022/1131)](https://www.legislation.gov.uk/uksi/2022/1131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1131/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2022/1131/regulation/5)
 
-[^key-7dcd72f544391e9b6c1be1c53115cc89]: Textual amendment: Words in [reg. 33(2)](https://www.legislation.gov.uk/uksi/2013/335/regulation/33/2) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [18(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/18/a)
+[^c-7dcd72f544391e9b6c1be1c53115cc89]: Textual amendment: Words in [reg. 33(2)](https://www.legislation.gov.uk/uksi/2013/335/regulation/33/2) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [18(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/18/a)
 
-[^key-a4bbde6f583019fa4a18e1c2add6f52c]: Textual amendment: [Reg. 33(2)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/33/2/b) substituted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2023/525/regulation/5/a)
+[^c-a4bbde6f583019fa4a18e1c2add6f52c]: Textual amendment: [Reg. 33(2)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/33/2/b) substituted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2023/525/regulation/5/a)
 
-[^key-0e8b4e941f49f0e12b0739b106427919]: Textual amendment: Word in [reg. 33(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/335/regulation/33/3/a/ii) inserted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2023/525/regulation/5/b)
+[^c-0e8b4e941f49f0e12b0739b106427919]: Textual amendment: Word in [reg. 33(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/335/regulation/33/3/a/ii) inserted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2023/525/regulation/5/b)
 
-[^key-1f142a2b1a53701795a7e10c3e0c2af2]: Textual amendment: Word in [reg. 33(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/335/regulation/33/3/a/iii) inserted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2023/525/regulation/5/c)
+[^c-1f142a2b1a53701795a7e10c3e0c2af2]: Textual amendment: Word in [reg. 33(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/335/regulation/33/3/a/iii) inserted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2023/525/regulation/5/c)
 
 [^c21653751]: Marginal citation: [S.I. 2005/3361](https://www.legislation.gov.uk/uksi/2005/3361). Paragraph 83 of Schedule 3 was amended by [S.I. 2013/364](https://www.legislation.gov.uk/uksi/2013/364).
 
-[^key-c735f5223314c246145c0a98ab5cafc9]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/uksi/2013/335/regulation/33/4) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [18(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/18/b)
+[^c-c735f5223314c246145c0a98ab5cafc9]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/uksi/2013/335/regulation/33/4) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [18(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/18/b)
 
 [^c21653761]: Marginal citation: [Sections 27B](https://www.legislation.gov.uk/uksi/2013/335/section/27B), [27C](https://www.legislation.gov.uk/uksi/2013/335/section/27C) and 28 were substituted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
 
@@ -1968,37 +1968,37 @@ Part 5 makes provision for transitional and savings provisions and for the revoc
 
 [^c21653781]: Marginal citation: [Section 32](https://www.legislation.gov.uk/uksi/2013/335/section/32) was substituted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
 
-[^key-87832316445a31d429e6c996f0e56ed6]: Textual amendment: Word in [reg. 34(2)](https://www.legislation.gov.uk/uksi/2013/335/regulation/34/2) inserted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2023/525/regulation/6/a)
+[^c-87832316445a31d429e6c996f0e56ed6]: Textual amendment: Word in [reg. 34(2)](https://www.legislation.gov.uk/uksi/2013/335/regulation/34/2) inserted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2023/525/regulation/6/a)
 
-[^key-192881a22c9ec75615ec63d47a7abe41]: Textual amendment: [Reg. 34(4)](https://www.legislation.gov.uk/uksi/2013/335/regulation/34/4) substituted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2023/525/regulation/6/b)
+[^c-192881a22c9ec75615ec63d47a7abe41]: Textual amendment: [Reg. 34(4)](https://www.legislation.gov.uk/uksi/2013/335/regulation/34/4) substituted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2023/525/regulation/6/b)
 
-[^key-1cc4bc670288e9d651044c5ebcb17c9c]: Textual amendment: [Reg. 34(5)-(8)](https://www.legislation.gov.uk/uksi/2013/335/regulation/34/5) inserted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2023/525/regulation/6/c)
+[^c-1cc4bc670288e9d651044c5ebcb17c9c]: Textual amendment: [Reg. 34(5)-(8)](https://www.legislation.gov.uk/uksi/2013/335/regulation/34/5) inserted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2023/525/regulation/6/c)
 
-[^key-ab63c03fd7cb84b65b4fe1656a488dde]: Textual amendment: Words in [reg. 35(1)(a)](https://www.legislation.gov.uk/uksi/2013/335/regulation/35/1/a) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2015/362/regulation/11)
+[^c-ab63c03fd7cb84b65b4fe1656a488dde]: Textual amendment: Words in [reg. 35(1)(a)](https://www.legislation.gov.uk/uksi/2013/335/regulation/35/1/a) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2015/362/regulation/11)
 
-[^key-9bab68206f6cf5c3dfa8cacd50c9766f]: Textual amendment: [Reg. 35(1)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/35/1/b) substituted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2023/525/regulation/7)
+[^c-9bab68206f6cf5c3dfa8cacd50c9766f]: Textual amendment: [Reg. 35(1)(b)](https://www.legislation.gov.uk/uksi/2013/335/regulation/35/1/b) substituted (31.5.2023) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2023 (S.I. 2023/525)](https://www.legislation.gov.uk/uksi/2023/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/525/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2023/525/regulation/7)
 
 [^c21653801]: Marginal citation: Section 117 was amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [section 55](https://www.legislation.gov.uk/ukpga/2012/7/section/55) and Schedule 4, Part 6, paragraph 55.
 
-[^key-66ee231ab351977a3aa04baf9d577ea4]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2013/335/regulation/36) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2015/362/regulation/12)
+[^c-66ee231ab351977a3aa04baf9d577ea4]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2013/335/regulation/36) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2015/362/regulation/12)
 
 [^c21653811]: Marginal citation: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44). Paragraph (a) of section 7 was substituted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848). Section 8B was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
-[^key-4b09effb38ae97d56e9811dfeba71d57]: Textual amendment: Words in [reg. 39(2)](https://www.legislation.gov.uk/uksi/2013/335/regulation/39/2) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/19/a)
+[^c-4b09effb38ae97d56e9811dfeba71d57]: Textual amendment: Words in [reg. 39(2)](https://www.legislation.gov.uk/uksi/2013/335/regulation/39/2) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2023/828/regulation/19/a)
 
 [^c21653821]: Marginal citation: [S.I. 2008/1185](https://www.legislation.gov.uk/uksi/2008/1185). Paragraph 52 of Schedule 1 was amended by [S.I. 2013/365](https://www.legislation.gov.uk/uksi/2013/365).
 
-[^key-6ef53464b68ffbf294df57b75235506b]: Textual amendment: [Reg. 39(8)](https://www.legislation.gov.uk/uksi/2013/335/regulation/39/8) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/19/b)
+[^c-6ef53464b68ffbf294df57b75235506b]: Textual amendment: [Reg. 39(8)](https://www.legislation.gov.uk/uksi/2013/335/regulation/39/8) inserted (18.9.2023) by [The National Health Service (Performers Lists) (England) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/828)](https://www.legislation.gov.uk/uksi/2023/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/828/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2023/828/regulation/19/b)
 
 [^c21653831]: Marginal citation: [Sections 13F](https://www.legislation.gov.uk/uksi/2013/335/section/13F), [13I](https://www.legislation.gov.uk/uksi/2013/335/section/13I) and 13L were inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
 [^c21653841]: Marginal citation: [Section 13H](https://www.legislation.gov.uk/uksi/2013/335/section/13H) was inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
-[^key-510477fee79047a7be5d741a85d8409c]: Textual amendment: Words in reg. 41(1)(b) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [13(a)(i)](https://www.legislation.gov.uk/uksi/2015/362/regulation/13/a/i)
+[^c-510477fee79047a7be5d741a85d8409c]: Textual amendment: Words in reg. 41(1)(b) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [13(a)(i)](https://www.legislation.gov.uk/uksi/2015/362/regulation/13/a/i)
 
-[^key-837b138d84d031e62e2f7ca09571dc15]: Textual amendment: Words in reg. 41(1) substituted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [13(a)(ii)](https://www.legislation.gov.uk/uksi/2015/362/regulation/13/a/ii)
+[^c-837b138d84d031e62e2f7ca09571dc15]: Textual amendment: Words in reg. 41(1) substituted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [13(a)(ii)](https://www.legislation.gov.uk/uksi/2015/362/regulation/13/a/ii)
 
-[^key-6c753f64f87692d3de59f131a507ba6f]: Textual amendment: Reg. 41(1A) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2015/362/regulation/13/b)
+[^c-6c753f64f87692d3de59f131a507ba6f]: Textual amendment: Reg. 41(1A) inserted (1.4.2015) by [The National Health Service (Performers Lists) (England) (Amendment) Regulations 2015 (S.I. 2015/362)](https://www.legislation.gov.uk/uksi/2015/362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/362/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2015/362/regulation/13/b)
 
 [^c21653851]: Marginal citation: [1946 c. 81](https://www.legislation.gov.uk/ukpga/1946/81).
 
@@ -2016,4 +2016,4 @@ Part 5 makes provision for transitional and savings provisions and for the revoc
 
 [^c21653921]: Marginal citation: [Sections 113BA](https://www.legislation.gov.uk/uksi/2013/335/section/113BA) and 113BB were inserted in relation to England, Wales and Northern Ireland by the [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [section 63](https://www.legislation.gov.uk/ukpga/2006/47/section/63) and Schedule 9, Part 2, paragraph 14. An alternative section 113BA was inserted in relation to Scotland by the Criminal Justice and Licensing (Scotland) Act 2010 ([2010 asp 13](https://www.legislation.gov.uk/asp/2010/13)), section 108. Section 113BA was amended in relation to England, Wales and Northern Ireland by the [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [sections 170](https://www.legislation.gov.uk/ukpga/2006/40/section/170) and 173 and by the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [section 115](https://www.legislation.gov.uk/ukpga/2012/9/section/115) and Schedule 9, Part 6, paragraphs 35 and 38 and Schedule 10, Part 5. Section 113BB was amended by the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [section 115](https://www.legislation.gov.uk/ukpga/2012/9/section/115) and Schedule 9, Part 6, paragraphs 35 and 39 and Schedule 10, Part 5.
 
-[^key-f9189452be5ed4c728b8e7ef7918a472]: Textual amendment: Words in [Sch. 1 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2013/335/schedule/1/paragraph/4/3/b) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(i)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/i)
+[^c-f9189452be5ed4c728b8e7ef7918a472]: Textual amendment: Words in [Sch. 1 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2013/335/schedule/1/paragraph/4/3/b) substituted (1.11.2017) by [The NHS Counter Fraud Authority (Investigatory Powers and Other Miscellaneous Amendments) Order 2017 (S.I. 2017/960)](https://www.legislation.gov.uk/uksi/2017/960), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/960/article/1/1), [4(4)(i)](https://www.legislation.gov.uk/uksi/2017/960/article/4/4/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Time limits relating to statements of special educational needs[^key-bb04bb753c2a59994bf5f7de17f375bc]
+## 174. Time limits relating to statements of special educational needs[^c-bb04bb753c2a59994bf5f7de17f375bc]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb04bb753c2a59994bf5f7de17f375bc]: Commencement: S. 174 in force at 8.1.2007, see s. 188(2)
+[^c-bb04bb753c2a59994bf5f7de17f375bc]: Commencement: S. 174 in force at 8.1.2007, see s. 188(2)

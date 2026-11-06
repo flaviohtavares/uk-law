@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Manager: powers[^key-e46151cc494fbd35a8382056db3a0e23]
+## 156. Manager: powers[^c-e46151cc494fbd35a8382056db3a0e23]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e46151cc494fbd35a8382056db3a0e23]: Commencement: S. 156 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-e46151cc494fbd35a8382056db3a0e23]: Commencement: S. 156 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

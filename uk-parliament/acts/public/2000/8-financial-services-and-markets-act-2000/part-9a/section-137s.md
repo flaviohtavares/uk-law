@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137S. Financial promotion rules: directions given by FCA[^key-da96484bf8fbda4e0172d96fb6685e52][^key-e922c816a6b3c56cc617ae59c14f3510]
+## 137S. Financial promotion rules: directions given by FCA[^c-da96484bf8fbda4e0172d96fb6685e52][^c-e922c816a6b3c56cc617ae59c14f3510]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da96484bf8fbda4e0172d96fb6685e52]: Modification: [S. 137S](https://www.legislation.gov.uk/ukpga/2000/8/section/137S) applied (with modifications) (8.6.2023 for specified purposes, 7.10.2023 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) Order 2023 (S.I. 2023/612)](https://www.legislation.gov.uk/uksi/2023/612), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/612/article/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2023/612/schedule/paragraph/9) (with [art. 11](https://www.legislation.gov.uk/uksi/2023/612/article/11))
+[^c-da96484bf8fbda4e0172d96fb6685e52]: Modification: [S. 137S](https://www.legislation.gov.uk/ukpga/2000/8/section/137S) applied (with modifications) (8.6.2023 for specified purposes, 7.10.2023 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) Order 2023 (S.I. 2023/612)](https://www.legislation.gov.uk/uksi/2023/612), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/612/article/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2023/612/schedule/paragraph/9) (with [art. 11](https://www.legislation.gov.uk/uksi/2023/612/article/11))
 
-[^key-e922c816a6b3c56cc617ae59c14f3510]: Textual amendment: Pt. 9A substituted for ss. 138-164 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/24/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e922c816a6b3c56cc617ae59c14f3510]: Textual amendment: Pt. 9A substituted for ss. 138-164 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/24/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

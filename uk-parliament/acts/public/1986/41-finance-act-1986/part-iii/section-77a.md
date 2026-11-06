@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77A. Disqualifying arrangements[^key-82a3eacb830de809f9c9bd213fe6e881]
+## 77A. Disqualifying arrangements[^c-82a3eacb830de809f9c9bd213fe6e881]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,11 +27,11 @@ summary: ''
 - (a) a particular person obtains control of the acquiring company, or
 - (b) particular persons together obtain control of that company.
 
-but a person who has held at least 25% of the issued share capital of the target company at all times during the relevant period is not within paragraph (a) or (b).[^key-d884ab7e494fde40ca7254617226d49e]
+but a person who has held at least 25% of the issued share capital of the target company at all times during the relevant period is not within paragraph (a) or (b).[^c-d884ab7e494fde40ca7254617226d49e]
 
-(2A)[^key-223941649fc0632d060c78e66353e76b] For the purposes of subsection (2) the “relevant period” is the period of 3 years ending immediately before the time at which the shares in the acquiring company are issued (or first issued) as consideration for the acquisition.
+(2A)[^c-223941649fc0632d060c78e66353e76b] For the purposes of subsection (2) the “relevant period” is the period of 3 years ending immediately before the time at which the shares in the acquiring company are issued (or first issued) as consideration for the acquisition.
 
-(3) [^key-4a25847dff49f7b01eb0bcda4b1bc612]... neither of the following are disqualifying arrangements—
+(3) [^c-4a25847dff49f7b01eb0bcda4b1bc612]... neither of the following are disqualifying arrangements—
 
 - (a) the arrangements for the issue of shares in the acquiring company which is the consideration for the acquisition mentioned in section 77(3);
 - (b) any relevant merger arrangements.
@@ -55,7 +55,7 @@ and in section 77(3)(e) to (h) and (3A) as they apply by virtue of this subsecti
 
   those other arrangements are disqualifying arrangements despite anything in subsection (3).
 
-(5A)[^key-648dda56afdf1cc25efbf78bbecb9b64] The Treasury may by regulations amend subsection (2) or (2A) so as to alter the percentage or length of the period for the time being specified there.
+(5A)[^c-648dda56afdf1cc25efbf78bbecb9b64] The Treasury may by regulations amend subsection (2) or (2A) so as to alter the percentage or length of the period for the time being specified there.
 
 (5B) The power to make regulations under subsection (5A) is exercisable by statutory instrument subject to annulment in pursuance of a resolution of the House of Commons.
 
@@ -68,12 +68,12 @@ and in section 77(3)(e) to (h) and (3A) as they apply by virtue of this subsecti
 
 ## Annotations
 
-[^key-82a3eacb830de809f9c9bd213fe6e881]: Textual amendment: S. 77A inserted (with effect in accordance with s. 137(6) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 137(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/137/5)
+[^c-82a3eacb830de809f9c9bd213fe6e881]: Textual amendment: S. 77A inserted (with effect in accordance with s. 137(6) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 137(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/137/5)
 
-[^key-d884ab7e494fde40ca7254617226d49e]: Textual amendment: Words in s. 77A(2) inserted (with effect in accordance with s. 79(6) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/79/2)
+[^c-d884ab7e494fde40ca7254617226d49e]: Textual amendment: Words in s. 77A(2) inserted (with effect in accordance with s. 79(6) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/79/2)
 
-[^key-223941649fc0632d060c78e66353e76b]: Textual amendment: S. 77A(2A) inserted (with effect in accordance with s. 79(6) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 79(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/79/3)
+[^c-223941649fc0632d060c78e66353e76b]: Textual amendment: S. 77A(2A) inserted (with effect in accordance with s. 79(6) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 79(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/79/3)
 
-[^key-4a25847dff49f7b01eb0bcda4b1bc612]: Textual amendment: Word in s. 77A(3) omitted (with effect in accordance with s. 79(6) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 79(4)](https://www.legislation.gov.uk/ukpga/2020/14/section/79/4)
+[^c-4a25847dff49f7b01eb0bcda4b1bc612]: Textual amendment: Word in s. 77A(3) omitted (with effect in accordance with s. 79(6) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 79(4)](https://www.legislation.gov.uk/ukpga/2020/14/section/79/4)
 
-[^key-648dda56afdf1cc25efbf78bbecb9b64]: Textual amendment: S. 77A(5A)(5B) inserted (with effect in accordance with s. 79(6) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 79(5)](https://www.legislation.gov.uk/ukpga/2020/14/section/79/5)
+[^c-648dda56afdf1cc25efbf78bbecb9b64]: Textual amendment: S. 77A(5A)(5B) inserted (with effect in accordance with s. 79(6) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 79(5)](https://www.legislation.gov.uk/ukpga/2020/14/section/79/5)

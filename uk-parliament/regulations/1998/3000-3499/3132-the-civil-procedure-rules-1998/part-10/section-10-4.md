@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10.4. Notice to claimant that defendant has filed an acknowledgment of service[^key-084a48489d95f95c5896b7aa2c47a91a]
+## 10.4. Notice to claimant that defendant has filed an acknowledgment of service[^c-084a48489d95f95c5896b7aa2c47a91a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ On receipt of an acknowledgment of service, the court must notify the claimant i
 
 ## Annotations
 
-[^key-084a48489d95f95c5896b7aa2c47a91a]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/1998/3132/part/10) substituted (with application in accordance with rule 1(2) of the amending S.I.) by [The Civil Procedure (Amendment) Rules 2022 (S.I. 2022/101)](https://www.legislation.gov.uk/uksi/2022/101), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/101/schedule/1)
+[^c-084a48489d95f95c5896b7aa2c47a91a]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/1998/3132/part/10) substituted (with application in accordance with rule 1(2) of the amending S.I.) by [The Civil Procedure (Amendment) Rules 2022 (S.I. 2022/101)](https://www.legislation.gov.uk/uksi/2022/101), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/101/schedule/1)

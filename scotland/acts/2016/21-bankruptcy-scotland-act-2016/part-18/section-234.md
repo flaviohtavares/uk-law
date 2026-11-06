@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 234. Modifications, repeals, savings, revocations and transitional provisions[^key-0bda55430c1bcb40f270652f2ec8590a]
+## 234. Modifications, repeals, savings, revocations and transitional provisions[^c-0bda55430c1bcb40f270652f2ec8590a]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bda55430c1bcb40f270652f2ec8590a]: Commencement: [S. 234](https://www.legislation.gov.uk/asp/2016/21/section/234) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-0bda55430c1bcb40f270652f2ec8590a]: Commencement: [S. 234](https://www.legislation.gov.uk/asp/2016/21/section/234) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

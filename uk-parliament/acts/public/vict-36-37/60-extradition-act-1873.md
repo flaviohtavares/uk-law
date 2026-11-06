@@ -29,35 +29,35 @@ Extradition Act 1873 (repealed)
 
 1873 c.60
 
-[^key-6e98b44dfabbdf7254d79e6baee1f3bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e98b44dfabbdf7254d79e6baee1f3bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Construction of Act and short title.[^key-6e98b44dfabbdf7254d79e6baee1f3bc][^key-6e98b44dfabbdf7254d79e6baee1f3bc]
+## 1. Construction of Act and short title.[^c-6e98b44dfabbdf7254d79e6baee1f3bc][^c-6e98b44dfabbdf7254d79e6baee1f3bc]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-6e98b44dfabbdf7254d79e6baee1f3bc][^key-6e98b44dfabbdf7254d79e6baee1f3bc]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-6e98b44dfabbdf7254d79e6baee1f3bc][^c-6e98b44dfabbdf7254d79e6baee1f3bc]
 
 **May not be in force at this date. Check the source.**
 
-## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-6e98b44dfabbdf7254d79e6baee1f3bc][^key-6e98b44dfabbdf7254d79e6baee1f3bc]
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-6e98b44dfabbdf7254d79e6baee1f3bc][^c-6e98b44dfabbdf7254d79e6baee1f3bc]
 
 **May not be in force at this date. Check the source.**
 
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-6e98b44dfabbdf7254d79e6baee1f3bc][^key-6e98b44dfabbdf7254d79e6baee1f3bc]
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-6e98b44dfabbdf7254d79e6baee1f3bc][^c-6e98b44dfabbdf7254d79e6baee1f3bc]
 
 **May not be in force at this date. Check the source.**
 
-## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-6e98b44dfabbdf7254d79e6baee1f3bc][^key-6e98b44dfabbdf7254d79e6baee1f3bc]
+## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-6e98b44dfabbdf7254d79e6baee1f3bc][^c-6e98b44dfabbdf7254d79e6baee1f3bc]
 
 **May not be in force at this date. Check the source.**
 
-## 6–8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-6e98b44dfabbdf7254d79e6baee1f3bc][^key-6e98b44dfabbdf7254d79e6baee1f3bc]
+## 6–8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-6e98b44dfabbdf7254d79e6baee1f3bc][^c-6e98b44dfabbdf7254d79e6baee1f3bc]
 
 **May not be in force at this date. Check the source.**
 
-## SCHEDULE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-6e98b44dfabbdf7254d79e6baee1f3bc]
+## SCHEDULE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-6e98b44dfabbdf7254d79e6baee1f3bc]
 
 **No longer in force.**
 
@@ -65,4 +65,4 @@ Extradition Act 1873 (repealed)
 
 ## Annotations
 
-[^key-6e98b44dfabbdf7254d79e6baee1f3bc]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/36-37/60) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 3
+[^c-6e98b44dfabbdf7254d79e6baee1f3bc]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/36-37/60) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 3

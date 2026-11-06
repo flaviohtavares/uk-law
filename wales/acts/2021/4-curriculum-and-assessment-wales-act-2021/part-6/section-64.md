@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Duty to promote knowledge and understanding of UN Conventions on the rights of children and persons with disabilities[^key-0ff7eb6c4b8b03fcb9aecbfed4212b99]
+## 64. Duty to promote knowledge and understanding of UN Conventions on the rights of children and persons with disabilities[^c-0ff7eb6c4b8b03fcb9aecbfed4212b99]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ff7eb6c4b8b03fcb9aecbfed4212b99]: Commencement: [S. 64](https://www.legislation.gov.uk/asc/2021/4/section/64) in force at 1.9.2022 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(d)](https://www.legislation.gov.uk/wsi/2022/652/article/4/d)
+[^c-0ff7eb6c4b8b03fcb9aecbfed4212b99]: Commencement: [S. 64](https://www.legislation.gov.uk/asc/2021/4/section/64) in force at 1.9.2022 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(d)](https://www.legislation.gov.uk/wsi/2022/652/article/4/d)

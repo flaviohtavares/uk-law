@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Restriction of MCA to those reaching 65 before 2000-01.[^key-e753b48b6d6bcbdb47585577542b2862]
+## 31. Restriction of MCA to those reaching 65 before 2000-01.[^c-e753b48b6d6bcbdb47585577542b2862]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e753b48b6d6bcbdb47585577542b2862]: Textual amendment: S. 31 omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(j)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/j)
+[^c-e753b48b6d6bcbdb47585577542b2862]: Textual amendment: S. 31 omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(j)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/j)

@@ -38,54 +38,54 @@ on the implementation of the .eu Top Level Domain
 
 (Text with EEA relevance) (revoked)
 
-[^key-576fb1f312e1c7b4eb7881f6764b9598]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-576fb1f312e1c7b4eb7881f6764b9598]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Objective and scope[^key-576fb1f312e1c7b4eb7881f6764b9598]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-576fb1f312e1c7b4eb7881f6764b9598]
+## Article 1. Objective and scope[^c-576fb1f312e1c7b4eb7881f6764b9598]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Characteristics of the Registry[^key-576fb1f312e1c7b4eb7881f6764b9598]
+## Article 2. Definitions[^c-576fb1f312e1c7b4eb7881f6764b9598]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Obligations of the Registry[^key-576fb1f312e1c7b4eb7881f6764b9598]
+## Article 3. Characteristics of the Registry[^c-576fb1f312e1c7b4eb7881f6764b9598]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Policy framework[^key-576fb1f312e1c7b4eb7881f6764b9598]
+## Article 4. Obligations of the Registry[^c-576fb1f312e1c7b4eb7881f6764b9598]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5a. Exercise of the delegation[^key-576fb1f312e1c7b4eb7881f6764b9598]
+## Article 5. Policy framework[^c-576fb1f312e1c7b4eb7881f6764b9598]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5b. Urgency procedure[^key-576fb1f312e1c7b4eb7881f6764b9598]
+## Article 5a. Exercise of the delegation[^c-576fb1f312e1c7b4eb7881f6764b9598]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Committee procedure[^key-576fb1f312e1c7b4eb7881f6764b9598]
+## Article 5b. Urgency procedure[^c-576fb1f312e1c7b4eb7881f6764b9598]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Reservation of rights[^key-576fb1f312e1c7b4eb7881f6764b9598]
+## Article 6. Committee procedure[^c-576fb1f312e1c7b4eb7881f6764b9598]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Implementation report[^key-576fb1f312e1c7b4eb7881f6764b9598]
+## Article 7. Reservation of rights[^c-576fb1f312e1c7b4eb7881f6764b9598]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-576fb1f312e1c7b4eb7881f6764b9598]
+## Article 8. Implementation report[^c-576fb1f312e1c7b4eb7881f6764b9598]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-576fb1f312e1c7b4eb7881f6764b9598]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 9. Entry into force[^c-576fb1f312e1c7b4eb7881f6764b9598]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-576fb1f312e1c7b4eb7881f6764b9598]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-576fb1f312e1c7b4eb7881f6764b9598]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/919/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2019/919/regulation/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-576fb1f312e1c7b4eb7881f6764b9598]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/919/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2019/919/regulation/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

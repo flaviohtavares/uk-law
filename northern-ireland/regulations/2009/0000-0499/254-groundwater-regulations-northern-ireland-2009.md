@@ -42,19 +42,19 @@ Coming into operation
 
 10th August 2009
 
-The Department of the Environment, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] hereby makes the following Regulations:[^key-8baf7f86d972c57e899c1688eafa4659][^key-bff3b72ddcaf0d3d33966d764646bee5]
+The Department of the Environment, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] hereby makes the following Regulations:[^c-8baf7f86d972c57e899c1688eafa4659][^c-bff3b72ddcaf0d3d33966d764646bee5]
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-f9d2f678b50a2f6e8e58e8840a76ddf4]
+### 1. Citation and commencement[^c-f9d2f678b50a2f6e8e58e8840a76ddf4]
 
 These Regulations may be cited as the Groundwater Regulations (Northern Ireland) 2009 and shall come into operation on 10 August 2009.
 
-### 2. Interpretation[^key-515a4cabba669c2a730188b0641eb1b2]
+### 2. Interpretation[^c-515a4cabba669c2a730188b0641eb1b2]
 
 (1) In these Regulations—
 
-- “[^key-bd236f72c10f8e43d9211dff5ef5f02f]**the 2017 Regulations**” means the Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017;
+- “[^c-bd236f72c10f8e43d9211dff5ef5f02f]**the 2017 Regulations**” means the Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017;
 - “the Appeals Commission” means the Water Appeals Commission for Northern Ireland;
 - “authorisation” means any of the following in so far as they relate to groundwater—
   - (a) an authorisation under regulation 19;
@@ -64,37 +64,37 @@ These Regulations may be cited as the Groundwater Regulations (Northern Ireland)
   - (e) a waste management licence, existing disposal licence or existing resolution of a district council;
   - (f) the registration of mobile radioactive apparatus under section 10 of the Radioactive Substances Act 1993[^f00006]; or
   - (g) an authorisation for disposal in accordance with section 13 of the Radioactive Substances Act 1993;
-- “background level” means the concentration of a substance or the value of an indicator in a body of groundwater corresponding to no, or only very minor, anthropogenic alterations to undisturbed conditions;[^key-e34d49f871624a5e9550cefa0ca49cae]
-- “[^key-347c03a910cb7e360af436c61e1d794f]**baseline level**” means the average value measured at least during the reference years 2007 and 2008 on the basis of monitoring in accordance with a programme prepared under regulation 11 of the 2017 Regulations;
+- “background level” means the concentration of a substance or the value of an indicator in a body of groundwater corresponding to no, or only very minor, anthropogenic alterations to undisturbed conditions;[^c-e34d49f871624a5e9550cefa0ca49cae]
+- “[^c-347c03a910cb7e360af436c61e1d794f]**baseline level**” means the average value measured at least during the reference years 2007 and 2008 on the basis of monitoring in accordance with a programme prepared under regulation 11 of the 2017 Regulations;
 - “the Department” means the Department of the Environment;
 - “direct input” in relation to groundwater means the introduction of a pollutant into groundwater without percolation through soil or subsoil;
-- “the Directive” means Council Directive [2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118) of 12 December 2006 on the protection of groundwater against pollution and deterioration[^f00007] as amended by Commission Directive 2014/80/[^key-8b92809357f19304c1866fd155fe192d]EU;
+- “the Directive” means Council Directive [2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118) of 12 December 2006 on the protection of groundwater against pollution and deterioration[^f00007] as amended by Commission Directive 2014/80/[^c-8b92809357f19304c1866fd155fe192d]EU;
 - “existing disposal licence” and “existing resolution of a district council” shall have the meanings given by Article 47(1) of the Waste and Contaminated Land (Northern Ireland) Order 1997[^f00008];
 - “groundwater” means all water which is below the surface of the ground in the saturation zone and in direct contact with the ground or subsoil;
-- “groundwater quality standard” means an environmental quality standard expressed as the concentration of a particular pollutant, group of pollutants or indicator of pollution in groundwater, which should not be exceeded in order to protect human health and the environment;[^key-b00813b5d6f05d4f3d8e4e2d24f66629]
+- “groundwater quality standard” means an environmental quality standard expressed as the concentration of a particular pollutant, group of pollutants or indicator of pollution in groundwater, which should not be exceeded in order to protect human health and the environment;[^c-b00813b5d6f05d4f3d8e4e2d24f66629]
 - “indirect input” in relation to groundwater means the introduction of a pollutant into groundwater after percolation through soil or subsoil;
 - “pollutant” means any substance liable to cause pollution;
 - “pollution” means the direct or indirect introduction, as a result of human activity, of substances or heat into air, water or land which may be harmful to human health or the quality of aquatic ecosystems or terrestrial ecosystems directly depending on aquatic ecosystems, which result in damage to material property, or which impair or interfere with amenities and other legitimate uses of the environment;
-- “river basin district and international river basin districts” mean—[^key-3713306a993677b633fb63f53fbfda1a]
+- “river basin district and international river basin districts” mean—[^c-3713306a993677b633fb63f53fbfda1a]
   - (a) an area identified by regulation 4(1) of the 2017 Regulations, being the main unit for the management of river basins for the purposes of the Water Framework Directive and being made up of a river basin or neighbouring river basins, together with associated groundwater, transitional waters and coastal water;
   - (b) the North Eastern River Basin District; or
   - (c) the Neagh Bann, North Western and Shannon International River Basin Districts;
-- “[^key-5540765a53cd3c54789579e84d275447]**river basin management plan**” has the same meaning as in the 2017 Regulations.
-- “significant and sustained upward trend” means any statistically and environmentally significant increase of concentration of a pollutant, group of pollutants, or indicator of pollution in groundwater for which trend reversal is identified as being necessary in accordance with regulation 10;[^key-92c895b0a347ab076b189fbf2dc8159a]
+- “[^c-5540765a53cd3c54789579e84d275447]**river basin management plan**” has the same meaning as in the 2017 Regulations.
+- “significant and sustained upward trend” means any statistically and environmentally significant increase of concentration of a pollutant, group of pollutants, or indicator of pollution in groundwater for which trend reversal is identified as being necessary in accordance with regulation 10;[^c-92c895b0a347ab076b189fbf2dc8159a]
 - “starting point” in relation to trend reversal means the point at which measures must be implemented to reverse a significant and sustained upward trend in pollutant concentrations or indicators of pollution identified under regulation 10(1)(a);
-- “threshold value” means a groundwater quality standard established under regulation 8;[^key-fd50004dbc3a4b0e2c31f60296655c05]
+- “threshold value” means a groundwater quality standard established under regulation 8;[^c-fd50004dbc3a4b0e2c31f60296655c05]
 - “waste management licence” means a waste management licence issued under the Waste and Contaminated Land (Northern Ireland) Order 1997; and
-- “the Water Framework Directive” means[^key-207c0e5c69d4ed639c966f63ee9bea30] [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy as last amended by Commission [Directive 2014/101/EU](https://www.legislation.gov.uk/european/directive/2014/0101).
+- “the Water Framework Directive” means[^c-207c0e5c69d4ed639c966f63ee9bea30] [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy as last amended by Commission [Directive 2014/101/EU](https://www.legislation.gov.uk/european/directive/2014/0101).
 
 (2) Any expression used in both these Regulations, the Directive and the Water Framework Directive and not otherwise defined in these Regulations has the same meaning for the purposes of these Regulations as it has for the purposes of the Directive.
 
-(3)[^key-c66e35aa5d7daaa34bedd75ea1d240f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c66e35aa5d7daaa34bedd75ea1d240f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-(5)[^key-d5e12b24b0cf1d6ce4141faf0c83b1b2] For the purposes of these Regulations, references to the Water Framework Directive and the Directive, or to a provision of one of those Directives, are to be read in accordance with Schedule 2 (Modifications of Directives).
+(5)[^c-d5e12b24b0cf1d6ce4141faf0c83b1b2] For the purposes of these Regulations, references to the Water Framework Directive and the Directive, or to a provision of one of those Directives, are to be read in accordance with Schedule 2 (Modifications of Directives).
 
-### 3. Meaning of “hazardous substance”[^key-179ba243bcafd665be1c1bc9bc5446e9]
+### 3. Meaning of “hazardous substance”[^c-179ba243bcafd665be1c1bc9bc5446e9]
 
 (1) A hazardous substance is any substance or group of substances that are toxic, persistent and liable to bio-accumulate.
 
@@ -110,15 +110,15 @@ These Regulations may be cited as the Groundwater Regulations (Northern Ireland)
 - (h) arsenic and its compounds;
 - (i) biocides and plant protection products.
 
-### 4. Meaning of “non-hazardous pollutant”[^key-aef9726a30ad009d1a28b1451e0eedc0]
+### 4. Meaning of “non-hazardous pollutant”[^c-aef9726a30ad009d1a28b1451e0eedc0]
 
 A non-hazardous pollutant is any pollutant other than a hazardous substance.
 
-### 5. Exceptions[^key-32e7314d97941baac9e22f5c5a1a4035]
+### 5. Exceptions[^c-32e7314d97941baac9e22f5c5a1a4035]
 
 These Regulations do not apply in relation to the consequences of accidents or exceptional circumstances of natural cause that could not reasonably have been foreseen, avoided or mitigated.
 
-### 6. Exemptions granted by the Department[^key-1e4d211488f447ce7af91830c2548860]
+### 6. Exemptions granted by the Department[^c-1e4d211488f447ce7af91830c2548860]
 
 The Department may exempt from the requirement for an authorisation, in any specific case or class of case, a discharge or activity that would result in—
 
@@ -131,13 +131,13 @@ The Department may exempt from the requirement for an authorisation, in any spec
 
 ## PART 2 — Groundwater assessment
 
-### 7. General Duty in the Neagh Bann, North Western and Shannon International River Basin Districts[^key-05889e52505f24dfa4f1919e23e472fb]
+### 7. General Duty in the Neagh Bann, North Western and Shannon International River Basin Districts[^c-05889e52505f24dfa4f1919e23e472fb]
 
 In discharging its functions in compliance with these Regulations the Department shall cooperate, in accordance with Article 3(4) of the Water Framework Directive, with the Government Department in Ireland having responsibility for corresponding functions, so as to secure that the assessment of groundwater chemical status, the establishment of threshold values, identification of significant and sustained upward trends and determination of the starting point for trend reversal is co-ordinated for the whole of the international river basin districts.
 
-### 8. Threshold values[^key-5210b02b9bc13c239157ccfb9c6db39c]
+### 8. Threshold values[^c-5210b02b9bc13c239157ccfb9c6db39c]
 
-(1) A list of threshold values must be derived in accordance with Parts A and B of Annex II to the Directive on the basis of methodologies approved by the Department. The Department may derive threshold values at the national level, level of the river basin district or at the level of a body or a group of bodies of groundwater[^key-61fc748e9e21d53a549daf00669df5d5]
+(1) A list of threshold values must be derived in accordance with Parts A and B of Annex II to the Directive on the basis of methodologies approved by the Department. The Department may derive threshold values at the national level, level of the river basin district or at the level of a body or a group of bodies of groundwater[^c-61fc748e9e21d53a549daf00669df5d5]
 
 (2) The Department shall amend the list of threshold values whenever new information indicates that a threshold value should be set for an additional substance, that an existing threshold value should be amended, or that a threshold value previously removed from the list should be reinserted, in order to protect human health and the environment.
 
@@ -145,20 +145,20 @@ In discharging its functions in compliance with these Regulations the Department
 
 (4) The Department shall supply to the Government Department in Ireland having responsibility for corresponding functions, copies of proposals under this paragraph relating to threshold values for bodies of groundwater associated with the Neagh Bann, North Western and Shannon International River Basin Districts.
 
-(5) The Department shall apply the threshold values listed in[^key-cec634e32dbf703ffefbcba50301f9c4] Schedule 1[^key-b9ce53fbddede30b02786b81aba7f63d] for the purposes of assessing groundwater chemical status and determining the starting point for trend reversal.
+(5) The Department shall apply the threshold values listed in[^c-cec634e32dbf703ffefbcba50301f9c4] Schedule 1[^c-b9ce53fbddede30b02786b81aba7f63d] for the purposes of assessing groundwater chemical status and determining the starting point for trend reversal.
 
-(6)[^key-b8387d3ab90a7377eb2c7afd5c868eca] Where any threshold value is breached and subsequent monitoring is performed–
+(6)[^c-b8387d3ab90a7377eb2c7afd5c868eca] Where any threshold value is breached and subsequent monitoring is performed–
 
 - (a) the body of groundwater should not be classed as good chemical status if both (a) the average of all the monitoring results from all the monitoring points representative of the risk to the quality of the groundwater exceeds the threshold value; and (b), additionally, the concentration of the pollutant to which the threshold value applies exceeds the maximum concentration allowed for it in drinking water in at least one sample from an appropriately representative monitoring point;
 - (b) the body of groundwater should not be classed as good chemical status if (i) the threshold values is exceeded across any plume of pollutants extending for over 2 square kilometres or more; and (ii) the maximum concentration allowed in drinking water for any of the pollutants in the plume is exceeded in at least part of the plume.
 
 (7) The Schedule has effect.
 
-### 9. Criteria and Procedure for assessing groundwater chemical status[^key-b409c9d5ff6fb8e4b2db0398e0203dfc]
+### 9. Criteria and Procedure for assessing groundwater chemical status[^c-b409c9d5ff6fb8e4b2db0398e0203dfc]
 
 (1) The Department shall apply the approach in the relevant provisions of the Directive and the Water Framework Directive when assessing groundwater chemical status.
 
-(2) The relevant provisions of the Directive for the purposes of paragraph[^key-4372cb0527dbf0ca6a31259510025f2a] (1) are—
+(2) The relevant provisions of the Directive for the purposes of paragraph[^c-4372cb0527dbf0ca6a31259510025f2a] (1) are—
 
 - (a) Article 3(1)(a) and (b);
 - (b) Article 3(6);
@@ -167,87 +167,87 @@ In discharging its functions in compliance with these Regulations the Department
 - (e) Annex II; and
 - (f) paragraphs 1 to 4 of Annex III.
 
-(3) The relevant provisions of the Water Framework Directive for the purposes of paragraph[^key-2dd5c658b2ee70ae11575a49542663dc] (1) are in section 2.3 of Annex V.
+(3) The relevant provisions of the Water Framework Directive for the purposes of paragraph[^c-2dd5c658b2ee70ae11575a49542663dc] (1) are in section 2.3 of Annex V.
 
 (4) Diffuse sources of pollution having an impact on groundwater chemical status must be taken into account whenever technically possible.
 
-### 10. Significant and sustained upward trends and the starting point for trend reversal[^key-d43131278ecef2195c3386fafe0fd69a]
+### 10. Significant and sustained upward trends and the starting point for trend reversal[^c-d43131278ecef2195c3386fafe0fd69a]
 
-(1) Subject to paragraph[^key-ebc7892895194c4a1b25414512a01acf] (8), for the purposes of giving effect to paragraphs 2.4.4 and 2.4.5 of Annex V to the Water Framework Directive, the Department shall , in accordance with Annex[^key-79225f7d91caac50971909c74eb76d3f] IV to the Directive, in relation to each body or group of bodies of groundwater that it has characterised as being at risk of failing to meet the objectives under Article 4 of that Directive —
+(1) Subject to paragraph[^c-ebc7892895194c4a1b25414512a01acf] (8), for the purposes of giving effect to paragraphs 2.4.4 and 2.4.5 of Annex V to the Water Framework Directive, the Department shall , in accordance with Annex[^c-79225f7d91caac50971909c74eb76d3f] IV to the Directive, in relation to each body or group of bodies of groundwater that it has characterised as being at risk of failing to meet the objectives under Article 4 of that Directive —
 
 - (a) identify any significant and sustained upward trend in pollutant concentrations, groups of pollutants or indicators of pollution; and
 - (b) determine the starting point for reversal of each trend so identified.
 
 (2) A body of groundwater shall be treated as being subject to a significant and sustained upward trend where it is subject to a statistically significant increase of concentrations of a pollutant, group of pollutants or indicator of pollution, which represents a significant environmental risk.
 
-(3) The Department shall base the assessment of whether a body of groundwater is subject to a significant and sustained upward trend on information from the sources specified in paragraph[^key-64eba07a1e4d13a71f4e0749f8d69391] (4),assessed in accordance with paragraph 2(c) and (d) of Part A of Annex IV to the Directive.
+(3) The Department shall base the assessment of whether a body of groundwater is subject to a significant and sustained upward trend on information from the sources specified in paragraph[^c-64eba07a1e4d13a71f4e0749f8d69391] (4),assessed in accordance with paragraph 2(c) and (d) of Part A of Annex IV to the Directive.
 
-(4)[^key-adbae1320a400dc2f360470ed6551906] The sources mentioned in paragraph (3) are—
+(4)[^c-adbae1320a400dc2f360470ed6551906] The sources mentioned in paragraph (3) are—
 
 - (a) the monitoring programmes for groundwater—
   - (i) established under the provisions specified in regulation 11 of the 2017 Regulations; and
   - (ii) designed in accordance with the requirements of those provisions and paragraphs 1 and 2(a) and (b) of Part A of Annex IV to the Directive; and
 - (b) for the purposes of identifying trends for the first river basin management plan, any data deemed relevant by the Department and gathered before the start of the monitoring programmes under sub-paragraph (4)(a).
 
-(5) Where necessary to assess the impact of existing plumes of pollution in bodies of groundwater that may threaten the achievement of the objectives in regulation 13(5) of the 2017 Regulations, the Department shall carry out an additional trend assessment in order to verify that a plume of pollution from a contaminated site does not—[^key-89b2306c283cbb258c2ce7d7f4fd2525]
+(5) Where necessary to assess the impact of existing plumes of pollution in bodies of groundwater that may threaten the achievement of the objectives in regulation 13(5) of the 2017 Regulations, the Department shall carry out an additional trend assessment in order to verify that a plume of pollution from a contaminated site does not—[^c-89b2306c283cbb258c2ce7d7f4fd2525]
 
 - (a) expand;
 - (b) cause a deterioration in the chemical status of a body or group of bodies of groundwater; or
 - (c) present a risk to human health or the environment.
 
-(6) The starting point for trend reversal must be determined in accordance with Article 5(3) and [^key-22a1e3eee9ea50565cd1138ce060e1fd]... Part B of Annex IV to the Directive.
+(6) The starting point for trend reversal must be determined in accordance with Article 5(3) and [^c-22a1e3eee9ea50565cd1138ce060e1fd]... Part B of Annex IV to the Directive.
 
-(6A)[^key-3df2f74b862f2a93a1c46375955f8380] For the identification of significant and sustained upward trends in the concentration of substances which cover both naturally and as a result of human activities the Department must consider the baseline levels and, where such data is available, the data collected before the start of the monitoring programme in order to report on trend identification within the first river basin management plan referred to in Article 13 of the Water Framework Directive.
+(6A)[^c-3df2f74b862f2a93a1c46375955f8380] For the identification of significant and sustained upward trends in the concentration of substances which cover both naturally and as a result of human activities the Department must consider the baseline levels and, where such data is available, the data collected before the start of the monitoring programme in order to report on trend identification within the first river basin management plan referred to in Article 13 of the Water Framework Directive.
 
-(7) On 22 December 2015 and on each sixth anniversary thereafter, the Department shall review and where necessary revise its determination made under paragraph[^key-2146e1bc83caf757a58018e839428474] (1).
+(7) On 22 December 2015 and on each sixth anniversary thereafter, the Department shall review and where necessary revise its determination made under paragraph[^c-2146e1bc83caf757a58018e839428474] (1).
 
-(8) In relation to pollutants or indicators of pollution for which insufficient information is available to identify significant and sustained upward trends and determine starting points for trend reversal by a date to be determined by the Department, the Department shall comply with paragraph[^key-aec675e0095de4583c297a9e717eb3b1] (1) as soon as possible after that date.
+(8) In relation to pollutants or indicators of pollution for which insufficient information is available to identify significant and sustained upward trends and determine starting points for trend reversal by a date to be determined by the Department, the Department shall comply with paragraph[^c-aec675e0095de4583c297a9e717eb3b1] (1) as soon as possible after that date.
 
-(9)[^key-7d373fb88a1d986c8290ff9db50f4dd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-7d373fb88a1d986c8290ff9db50f4dd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Information to be included in a river basin management plan[^key-871946dac3eee264110f76f62728aef7]
+### 11. Information to be included in a river basin management plan[^c-871946dac3eee264110f76f62728aef7]
 
-(1) The Department shall ensure each river basin management plan and each revised river basin management plan it prepares under the provision specified in paragraph[^key-b0a903eba89e427c8315a062f0a89d86] (2) includes, in relation to the river basin district—
+(1) The Department shall ensure each river basin management plan and each revised river basin management plan it prepares under the provision specified in paragraph[^c-b0a903eba89e427c8315a062f0a89d86] (2) includes, in relation to the river basin district—
 
 - (a) details of approved threshold values together with the information specified in Part C of Annex II to the Directive;
 - (b) in the case of a revised river basin management plan, details of any applicable changes to the list of threshold values since the date of publication of the previous version of the plan;
 - (c) a summary of each assessment undertaken for the purposes of determining groundwater chemical status, including an explanation as to the manner in which exceedences of groundwater quality standards or threshold values at individual monitoring points have been taken into account;
-- (d)[^key-632eea1e8dafa579586fa4ea204b6b93] a summary of the way in which the trend assessment from individual monitoring points within a body or a group of bodies of groundwater has contributed to identifying that those bodies are subject to a significant and sustained upward trend in concentration of any pollutant or a reversal of that trend;
+- (d)[^c-632eea1e8dafa579586fa4ea204b6b93] a summary of the way in which the trend assessment from individual monitoring points within a body or a group of bodies of groundwater has contributed to identifying that those bodies are subject to a significant and sustained upward trend in concentration of any pollutant or a reversal of that trend;
 - (e) details of each starting point for trend reversal determined under regulation 10(1)(b) or, as the case may be, regulation 10(7), together with a summary of the reasons for each determination; and
 - (f) a summary of the results of any additional trend assessments carried out under regulation 10(5).
 
-(2)[^key-7b7c7e9c4598669363b4ec0d4870467d] The provision specified in this paragraph is regulation 26 of the 2017 Regulations.
+(2)[^c-7b7c7e9c4598669363b4ec0d4870467d] The provision specified in this paragraph is regulation 26 of the 2017 Regulations.
 
 ## PART 3 — Authorisations
 
-### 12. Granting an authorisation[^key-4a2d36ccd0d6f1a4f6b1f2544fe7a809]
+### 12. Granting an authorisation[^c-4a2d36ccd0d6f1a4f6b1f2544fe7a809]
 
 The Department shall, for the purpose of the duty in regulation 3 of the 2017 Regulations, comply with these Regulations in exercising its functions in relation to authorisations.
 
-### 13. Review of existing disposal licences and existing resolutions of a District Council[^key-8f85a88fde6cea0e0e93e68730b968f7]
+### 13. Review of existing disposal licences and existing resolutions of a District Council[^c-8f85a88fde6cea0e0e93e68730b968f7]
 
 The Department shall review all existing disposal licences and all existing resolutions which authorise—
 
 - (a) any disposal of a hazardous substance or non-hazardous pollutant which might lead to an indirect discharge into groundwater of such a substance or pollutant; or
 - (b) a direct discharge into groundwater of a hazardous substance or non-hazardous pollutant;
 
-and shall, so far as may be necessary to give effect to the Directive[^key-eb8ed5f4e878b0b1446e936230f180d1] in exercise of its powers under Articles 47(2) and (3) of the Waste and Contaminated Land (Northern Ireland) Order 1997 apply Articles 10 and 12 of that Order (variation and revocation, etc. of licences) in relation to any such authorisation.
+and shall, so far as may be necessary to give effect to the Directive[^c-eb8ed5f4e878b0b1446e936230f180d1] in exercise of its powers under Articles 47(2) and (3) of the Waste and Contaminated Land (Northern Ireland) Order 1997 apply Articles 10 and 12 of that Order (variation and revocation, etc. of licences) in relation to any such authorisation.
 
-### 14. Measures to prevent the input of hazardous substances into groundwater[^key-c66eab9dcca7e843c2e951164f5e2e35]
+### 14. Measures to prevent the input of hazardous substances into groundwater[^c-c66eab9dcca7e843c2e951164f5e2e35]
 
 (1) The Department shall, in granting an authorisation, take all necessary measures to prevent the input of any hazardous substance into groundwater.
 
-(2)[^key-999d16d471a0d171752fec45e1046128] Each programme of measures established under regulation 12 of the 2017 Regulations must include measures to prevent the input of hazardous substances into groundwater.
+(2)[^c-999d16d471a0d171752fec45e1046128] Each programme of measures established under regulation 12 of the 2017 Regulations must include measures to prevent the input of hazardous substances into groundwater.
 
-### 15. Measures to limit the input of non-hazardous pollutants into groundwater[^key-b80a86d63e07c7c1269537078e5fab3b]
+### 15. Measures to limit the input of non-hazardous pollutants into groundwater[^c-b80a86d63e07c7c1269537078e5fab3b]
 
 (1) The Department shall, in granting an authorisation, take all necessary measures to limit the input of non-hazardous pollutants into groundwater so as to ensure that such inputs do not cause pollution in groundwater.
 
-(2)[^key-32f728e08dbfe7ac2c23f03025324459] Each programme of measures established under regulation 12 of the 2017 Regulations must include measures to limit the input of non-hazardous pollutants into groundwater.
+(2)[^c-32f728e08dbfe7ac2c23f03025324459] Each programme of measures established under regulation 12 of the 2017 Regulations must include measures to limit the input of non-hazardous pollutants into groundwater.
 
-### 16. Discharges that may be authorised[^key-4969b8f675b6ba41c3e1b36242bf6018]
+### 16. Discharges that may be authorised[^c-4969b8f675b6ba41c3e1b36242bf6018]
 
-Nothwithstanding regulations 14 and 15, provided it does not compromise the achievement of any of the environmental objectives relating to groundwater set out in the relevant river basin management plan and without prejudice to any more stringent requirement in[^key-50d9a91ff2ae30c2c667714fa6300ba5] assimilated[^key-6f772810d31af2a2ddc7263cadf0c525] law, the Department may grant an authorisation for—
+Nothwithstanding regulations 14 and 15, provided it does not compromise the achievement of any of the environmental objectives relating to groundwater set out in the relevant river basin management plan and without prejudice to any more stringent requirement in[^c-50d9a91ff2ae30c2c667714fa6300ba5] assimilated[^c-6f772810d31af2a2ddc7263cadf0c525] law, the Department may grant an authorisation for—
 
 - (a) the injection of water containing substances resulting from the operations for exploration and extraction of hydrocarbons or mining activities, and injection of water for technical reasons, into geological formations from which hydrocarbons or other substances have been extracted or into geological formations which for natural reasons are permanently unsuitable for other purposes, provided that the injection does not contain substances other than those resulting from the above operations;
 - (b) the reinjection of pumped groundwater from mines and quarries or associated with the construction or maintenance of civil engineering works;
@@ -259,9 +259,9 @@ Nothwithstanding regulations 14 and 15, provided it does not compromise the achi
 - (h) inputs of pollutants that are the result of—
   - (i) interventions in surface waters for the purposes, amongst others, of mitigating the effects of floods and droughts, and for the management of waters and waterways;
   - (ii) artificial recharge or augmentation of groundwater bodies for the purposes of groundwater management.
-- (i)[^key-7fe4568ec7d82786b98cd48b39e4923f] the injection of carbon dioxide streams for storage purposes into geological formations which for natural reasons are permanently unsuitable for other purposes, provided that such injection is made in accordance with Chapter 3 of Part 1 of the Energy Act 2008 and other[^key-66617057aba2802ef471911b8110d384] assimilated[^key-55027210a567fce18970d7a83629ed13] law which transposed Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) on the geological storage of carbon dioxide.
+- (i)[^c-7fe4568ec7d82786b98cd48b39e4923f] the injection of carbon dioxide streams for storage purposes into geological formations which for natural reasons are permanently unsuitable for other purposes, provided that such injection is made in accordance with Chapter 3 of Part 1 of the Energy Act 2008 and other[^c-66617057aba2802ef471911b8110d384] assimilated[^c-55027210a567fce18970d7a83629ed13] law which transposed Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) on the geological storage of carbon dioxide.
 
-### 17. Authorisations generally[^key-b643698d90b59d32c9579758cb759cf1]
+### 17. Authorisations generally[^c-b643698d90b59d32c9579758cb759cf1]
 
 (1) When the Department receives an application for an authorisation that might lead to the discharge of a pollutant, it must ensure that all necessary investigations have been carried out to ensure that it grants any authorisation in accordance with regulation 14 or 15.
 
@@ -277,7 +277,7 @@ and without establishing whether the input of pollutants into groundwater is a s
 
 (4) An authorisation may only be granted if the Department has checked that the groundwater (and, in particular, its quality) will undergo the requisite investigations under (1).
 
-### 18. Review of authorisations[^key-08578be20ff01900137f2929792e7319]
+### 18. Review of authorisations[^c-08578be20ff01900137f2929792e7319]
 
 (1) The Department shall periodically review an authorisation.
 
@@ -289,11 +289,11 @@ and without establishing whether the input of pollutants into groundwater is a s
 
 ## PART 4 — Discharge of a hazardous substance or non-hazardous pollutant
 
-### 19. Discharge of a hazardous substance or non-hazardous pollutant[^key-2d447b04b2c1e11738bbb5c427158a31]
+### 19. Discharge of a hazardous substance or non-hazardous pollutant[^c-2d447b04b2c1e11738bbb5c427158a31]
 
 (1) It is an offence to cause or knowingly permit the discharge of any hazardous substance or non-hazardous pollutant in circumstances that might lead to an indirect input of that hazardous substance or non-hazardous pollutant into groundwater unless it is carried out under and in accordance with an authorisation granted by the Department under this regulation.
 
-(2) paragraph[^key-7ae4cbe3d963a65af04f670346811752] (1) does not apply to—
+(2) paragraph[^c-7ae4cbe3d963a65af04f670346811752] (1) does not apply to—
 
 - (a) a discharge that requires a discharge consent within the meaning of Article 7A of the Water (Northern Ireland) Order 1999;
 - (b) a disposal licence under Article 7 of the Pollution Control and Local Government (Northern Ireland) Order 1978[^f00013];
@@ -311,13 +311,13 @@ and without establishing whether the input of pollutants into groundwater is a s
 
 (4) In this regulation a “road drain” means a drain which the Department is entitled to keep open by virtue of Article 45 of the Roads (Northern Ireland) Order 1993[^f00016].
 
-### 20. Application of the Water (Northern Ireland) Order 1999[^key-b6e47dffd8b18c4e0bf2f6b28bd46340]
+### 20. Application of the Water (Northern Ireland) Order 1999[^c-b6e47dffd8b18c4e0bf2f6b28bd46340]
 
 (1) Article 10 of the Water (Northern Ireland) Order 1999 (relationship with other statutory provisions controlling pollution), (as inserted by Article 281 of The Water and Sewerage Services (Northern Ireland) Order 2006), applies in relation to an authorisation under regulation 19.
 
 (2) Article 11 of the Water (Northern Ireland) Order 1999 (power to make scheme of charges), ( as amended by Article 282 of The Water and Sewerage Services (Northern Ireland) Order 2006), applies in relation to an authorisation under regulation 19 as if any reference to a discharge consent included a reference to such an authorisation.
 
-### 21. Transfer of an authorisation under regulation 19[^key-eae11e70706fed1029ffab093705c033]
+### 21. Transfer of an authorisation under regulation 19[^c-eae11e70706fed1029ffab093705c033]
 
 Paragraph 8 of Schedule 1 to the Water (Northern Ireland) Order 1999 (transfer of consents) applies in relation to an authorisation under regulation 19 as if—
 
@@ -325,7 +325,7 @@ Paragraph 8 of Schedule 1 to the Water (Northern Ireland) Order 1999 (transfer o
 - (b) references to paragraphs 2 and 4 of that Schedule were references to regulation 19; and
 - (c) references to carrying on or making discharges were references to carrying on the activities regulated by the authorisation.
 
-### 22. Grant of an authorisation under regulation 19[^key-f954eff404fd5b489da87cff34e18f59]
+### 22. Grant of an authorisation under regulation 19[^c-f954eff404fd5b489da87cff34e18f59]
 
 (1) An application for an authorisation under regulation 19 shall be made to the Department.
 
@@ -339,15 +339,15 @@ Paragraph 8 of Schedule 1 to the Water (Northern Ireland) Order 1999 (transfer o
 
 (6) A revocation does not have effect until 3 months from the date of the notice.
 
-### 23. Appeals against refusal, variation or revocation of an authorisation[^key-44106a1d71ae98eee9523b46f5e9734e]
+### 23. Appeals against refusal, variation or revocation of an authorisation[^c-44106a1d71ae98eee9523b46f5e9734e]
 
 (1) A person may within 28 days of the date of an authorisation, or within 28 days of the date of any notice to vary, revoke or refuse to grant an authorisation appeal by notice in writing against any condition of the authorisation, or against the variation, revocation or refusal to grant an authorisation to the Appeals Commission.
 
-(2) Any decision taken by the Department under regulation 22 shall have effect pending the outcome of an appeal under paragraph[^key-b9ff3d46f5d0fa8f9dc4961fd6eea883] (1).
+(2) Any decision taken by the Department under regulation 22 shall have effect pending the outcome of an appeal under paragraph[^c-b9ff3d46f5d0fa8f9dc4961fd6eea883] (1).
 
 ## PART 5 — Enforcement and penalties
 
-### 24. Power to require the provision of information[^key-cd9a1ebda809aa92e1d91880e9693227]
+### 24. Power to require the provision of information[^c-cd9a1ebda809aa92e1d91880e9693227]
 
 (1) For the purposes of discharging its functions under these Regulations, the Department may, by notice served on any person, require that person to provide, in such form and within such period as is specified in the notice, the information specified in the notice.
 
@@ -358,7 +358,7 @@ Paragraph 8 of Schedule 1 to the Water (Northern Ireland) Order 1999 (transfer o
 
 (3) Failure to comply with a notice served by the Department under (1) is an offence.
 
-### 25. Notice to prevent or control the input of hazardous substance or non-hazardous pollutant[^key-96223fd5622c1c722b7a23d47c1f72ef]
+### 25. Notice to prevent or control the input of hazardous substance or non-hazardous pollutant[^c-96223fd5622c1c722b7a23d47c1f72ef]
 
 (1) Where—
 
@@ -371,7 +371,7 @@ the Department may serve notice in writing on that person prohibiting the carryi
 
 (3) Breach of a notice or failure to comply with any condition of a notice served by the Department under (1) is an offence.
 
-### 26. Appeals against notices[^key-518088909850fa4d9883afdf110c942c]
+### 26. Appeals against notices[^c-518088909850fa4d9883afdf110c942c]
 
 (1) Any person who is aggrieved by a notice under regulation 25 may appeal by notice in writing to the Appeals Commission within 28 days from the date of the notice.
 
@@ -379,7 +379,7 @@ the Department may serve notice in writing on that person prohibiting the carryi
 
 (3) The notice must be complied with pending the outcome of the appeal.
 
-### 27. Codes of practice[^key-ea438569d73c5545358df2b0f8b42b40]
+### 27. Codes of practice[^c-ea438569d73c5545358df2b0f8b42b40]
 
 (1) The Department may approve for the purposes of these Regulations codes of practice issued for the purpose of giving practical guidance to persons engaged in any activity that may result in discharging hazardous substances or non-hazardous pollutants on the steps they should take to prevent such substances or pollutants from entering groundwater.
 
@@ -387,7 +387,7 @@ the Department may serve notice in writing on that person prohibiting the carryi
 
 (3) A code of practice shall be publicised as the Department sees fit.
 
-### 28. Particulars to be included in registers[^key-c728dbda0bcf707aea71d3429751f232]
+### 28. Particulars to be included in registers[^c-c728dbda0bcf707aea71d3429751f232]
 
 (1) The Department shall, as soon as reasonably practicable, enter on registers maintained by it under Article 30 of The Water (Northern Ireland) Order 1999 full particulars of—
 
@@ -403,14 +403,14 @@ the Department may serve notice in writing on that person prohibiting the carryi
 
 (2) Article 31 of the Water (Northern Ireland) Order 1999 (exclusion from registers of information affecting national security) and Article 32 of that Order (exclusion from registers of certain confidential information) apply in relation to particulars entered by the Department under (1) as they apply in relation to that Order.
 
-### 29. Penalties[^key-4954a59fd20f41c0f6f6a934f1a24936]
+### 29. Penalties[^c-4954a59fd20f41c0f6f6a934f1a24936]
 
 A person guilty of an offence under regulation 19, 24 or 25 is liable—
 
-- (a) on summary conviction, to a fine not exceeding the statutory maximum[^key-04e29b554b57355bfa459b1729efadcf] or to imprisonment for a term not exceeding 3 months; or
+- (a) on summary conviction, to a fine not exceeding the statutory maximum[^c-04e29b554b57355bfa459b1729efadcf] or to imprisonment for a term not exceeding 3 months; or
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 2 years.
 
-### 30. Corporate offences[^key-11f8158b334eec719dad8c221fcba2f2]
+### 30. Corporate offences[^c-11f8158b334eec719dad8c221fcba2f2]
 
 (1) For the purposes of these Regulations, section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited to” and where affairs of a body corporate are managed by its members, applies in relation to acts or defaults of a member in connection with the functions of management as if that person were a Director of the body corporate.
 
@@ -432,7 +432,7 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 that officer or member as well as the association is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-### 31. Revocation[^key-b045243e6a642bad2ee93f65c046c89e]
+### 31. Revocation[^c-b045243e6a642bad2ee93f65c046c89e]
 
 The Groundwater Regulations (Northern Ireland) 1998[^f00017] are revoked.
 
@@ -442,11 +442,11 @@ Wesley Shannon
 
 A senior officer of the Department of the Environment
 
-## SCHEDULE 1 — Groundwater Threshold Values[^key-7f0eadb69583f5bc7d71c9fca6467253][^key-1109c8ea112b9aed971a8a90db89c84e]
+## SCHEDULE 1 — Groundwater Threshold Values[^c-7f0eadb69583f5bc7d71c9fca6467253][^c-1109c8ea112b9aed971a8a90db89c84e]
 
 Regulation 8
 
-Table 1[^key-5941f8c80aafa2235fbef5f978b53834]
+Table 1[^c-5941f8c80aafa2235fbef5f978b53834]
 
 Threshold values for assessing groundwater chemical status
 
@@ -506,7 +506,7 @@ Threshold values for assessing the risk to wetlands
 </tbody>
 </table>
 
-## SCHEDULE 2 — Modifications of Directives[^key-b43f53ea0f9a8c73efc408730b5b3ed1]
+## SCHEDULE 2 — Modifications of Directives[^c-b43f53ea0f9a8c73efc408730b5b3ed1]
 
 Regulation 2(5)
 
@@ -518,11 +518,11 @@ Regulation 2(5)
 
 - (a) a reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the Department;
 - (b) a reference to Article 13 of the Water Framework Directive is to be read as if it were a reference to Article 13 except in so far as it gives rise to any obligation under Article 15 of that Directive;
-- (c) any reference to “Community legislation” (other than a reference to existing Community legislation) is to be read as if it were a reference to assimilated[^key-a5aa4a8d28777435e396d73f4acd9e3c] law;
+- (c) any reference to “Community legislation” (other than a reference to existing Community legislation) is to be read as if it were a reference to assimilated[^c-a5aa4a8d28777435e396d73f4acd9e3c] law;
 - (d) any reference to “existing Community legislation” or “existing legislation” is to be read as if it were a reference to Community legislation which was in force immediately before 23rd October 2000;
 - (e) the Water Framework Directive is to be read as if the following modifications were made to it.
 
-**3.** Article 2(24) is to be read as if, for the words from “in Annex IX” to the end, there were substituted “ by the table of priority substances, and under relevant assimilated[^key-eb4224bdda371f9bc9584da7503c4028] law which sets environmental quality standards ”.
+**3.** Article 2(24) is to be read as if, for the words from “in Annex IX” to the end, there were substituted “ by the table of priority substances, and under relevant assimilated[^c-eb4224bdda371f9bc9584da7503c4028] law which sets environmental quality standards ”.
 
 **4.** Article 3 is to be read as if—
 
@@ -540,16 +540,16 @@ Regulation 2(5)
 - (a) in paragraph 1—
   - (i) in point (a)(iv), for “Article 16(1) and (8)” there were substituted “ Directive [2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) of the European Parliament and of the Council on environmental quality standards in the field of water policy”;
   - (ii) in point (b)(iii), for “paragraphs 2, 4 and 5 of Article 17” there were substituted “ the Directive ”;
-- (b) in paragraph 8 the reference to “other Community environmental legislation” were a reference to assimilated[^key-0aae34010ad27c05d4111f42d2f3b532] law relating to the environment.
+- (b) in paragraph 8 the reference to “other Community environmental legislation” were a reference to assimilated[^c-0aae34010ad27c05d4111f42d2f3b532] law relating to the environment.
 
 **6.** Article 7(2) is to be read as if—
 
-- (a) for “at Community level under Article 16” there were substituted “ by assimilated[^key-cb67e096854443d4c62a841901c55d4f] law implementing Directive [2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) of the European Parliament and of the Council on environmental quality standards in the field of water policy ”;
+- (a) for “at Community level under Article 16” there were substituted “ by assimilated[^c-cb67e096854443d4c62a841901c55d4f] law implementing Directive [2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) of the European Parliament and of the Council on environmental quality standards in the field of water policy ”;
 - (b) for “Directive [80/778/EEC](https://www.legislation.gov.uk/european/directive/1980/0778) as amended by Directive [98/83/EC](https://www.legislation.gov.uk/european/directive/1998/0083)” there were substituted “ assimilated law implementing Directive [98/83/EC](https://www.legislation.gov.uk/european/directive/1998/0083) ”.
 
 **7.** Article 11(3) is to be read as if—
 
-- (a) in subparagraph (a), for “required to implement” to the end, substitute “ under assimilated[^key-f6964e940910d45207fa1dde0232700e] law for the protection of water ”;
+- (a) in subparagraph (a), for “required to implement” to the end, substitute “ under assimilated[^c-f6964e940910d45207fa1dde0232700e] law for the protection of water ”;
 - (b) in subparagraph (j), in the fourth indent, for the words from “Directive” to the end there were substituted “ Chapter 3 of Part 1 of the Energy Act 2008 and other assimilated law which transposed Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) on the geological storage of carbon dioxide ”;
 - (c) in subparagraph (k)—
   - (i) the words “in accordance with action taken pursuant to Article 16” were omitted;
@@ -565,10 +565,10 @@ Regulation 2(5)
 - (a) in section 1.1, paragraph (vi) were omitted;
 - (b) in section 1.4—
   - (i) in the second paragraph—
-    - (aa) after “gathered under” there were inserted “ the assimilated[^key-2338084b723757d6a38c68d0c3767dac] law which implemented ”;
+    - (aa) after “gathered under” there were inserted “ the assimilated[^c-2338084b723757d6a38c68d0c3767dac] law which implemented ”;
     - (bb) in subparagraph (ii), the reference to Articles 9 and 15 of Directive [96/61/EC](https://www.legislation.gov.uk/european/directive/1996/0061) were a reference to Articles 5(3), 14 and 24 of Directive [2010/75/EC](https://www.legislation.gov.uk/european/directive/2010/0075) of the European Parliament and of the Council on industrial emissions;
   - (ii) in the third paragraph—
-    - (aa) after “gathered under” there were inserted “ the assimilated[^key-6b9c72a3ddbf5639969a295cb906d467] law which implemented ”;
+    - (aa) after “gathered under” there were inserted “ the assimilated[^c-6b9c72a3ddbf5639969a295cb906d467] law which implemented ”;
     - (bb) in subparagraph (iii) the reference to Directive [98/8/EC](https://www.legislation.gov.uk/european/directive/1998/0008) were a reference to Regulation [(EC) No 528/2012](https://www.legislation.gov.uk/european/regulation/2012/0528) of the European Parliament and of the Council concerning the making available on the market and use of biocidal products;
 - (c) in section 2.3, the reference to “two or more Member States” were a reference to “Northern Ireland and the Republic of Ireland”.
 
@@ -577,17 +577,17 @@ Regulation 2(5)
 - (a) references in tables 1.2.1 to 1.2.5 to Directive [91/414/EC](https://www.legislation.gov.uk/european/directive/1991/0414), in each place they occur, were references to Regulation [(EC) 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) concerning the placing of plant protection products on the market;
 - (b) references in tables 1.2.1 to 1.2.5 to Directive [98/8/EC](https://www.legislation.gov.uk/european/directive/1998/0008), in each place they occur, were references to Regulation [(EC) 528/2012](https://www.legislation.gov.uk/european/regulation/2012/0528) of the European Parliament and of the Council concerning the making available on the market and use of biocidal products;
 - (c) in section 1.3.1, in the unnumbered paragraph headed “Selection of monitoring points”, the fourth indent (referring to “the Information Exchange Decision [77/795/EEC](https://www.legislation.gov.uk/european/decision/1977/0795)”) were omitted;
-- (d) in section 1.3.5, the reference to “the Drinking Water Directive” were a reference to assimilated[^key-d047c3de0e2acbf82faeb773b5088b6a] law which transposed Directive [98/83/EC](https://www.legislation.gov.uk/european/directive/1998/0083) on the quality of water intended for human consumption;
+- (d) in section 1.3.5, the reference to “the Drinking Water Directive” were a reference to assimilated[^c-d047c3de0e2acbf82faeb773b5088b6a] law which transposed Directive [98/83/EC](https://www.legislation.gov.uk/european/directive/1998/0083) on the quality of water intended for human consumption;
 - (e) in section 1.4.1—
   - (i) in point (iii), for the words from “shall be established” to the end there were substituted “is as set out in Commission Decision 2018/229 establishing, pursuant to Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the Parliament and of the Council, the values of the Member State monitoring system classifications as a result of the intercalibration exercise;
   - (ii) points (iv) to (ix) were omitted;
-- (f) in section 1.4.3, for the words “Annex IX, Article 16 and under other relevant Community legislation” there were substituted “ Annex 1 to Directive [2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) of the European Parliament and of the Council on environmental quality standards in the field of water policy and under other relevant assimilated[^key-81cabc99b03cfcbabf0c6e2eb8646fda] law ”;
+- (f) in section 1.4.3, for the words “Annex IX, Article 16 and under other relevant Community legislation” there were substituted “ Annex 1 to Directive [2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) of the European Parliament and of the Council on environmental quality standards in the field of water policy and under other relevant assimilated[^c-81cabc99b03cfcbabf0c6e2eb8646fda] law ”;
 - (g) in the table in section 2.3.2, in the column for “good status”, for “other relevant Community legislation in accordance with Article 17” there were substituted “ the Groundwater Directive ”;
 - (h) in section 2.4.5, the words “Without prejudice to the Directives concerned” were omitted.
 
 **11.** Annex 7 is to be read as if, in Part A—
 
-- (a) in point 7.1, for “to implement Community legislation” there were substituted “ under assimilated[^key-34e5f13f2ca49132fed99f68ff23b033] law ”;
+- (a) in point 7.1, for “to implement Community legislation” there were substituted “ under assimilated[^c-34e5f13f2ca49132fed99f68ff23b033] law ”;
 - (b) point 10 were omitted.
 
 ### PART 2 — Modifications of the Directive
@@ -597,7 +597,7 @@ Regulation 2(5)
 **2.** When interpreting the Directive for the purposes of these Regulations—
 
 - (a) a reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the Department;
-- (b) any reference to “Community legislation” is to be read as if it were a reference to assimilated[^key-7cad1ef72cf3ad2b0059181f2878c6b3] law;
+- (b) any reference to “Community legislation” is to be read as if it were a reference to assimilated[^c-7cad1ef72cf3ad2b0059181f2878c6b3] law;
 - (c) the Directive is to be read as if the following modifications were made to it.
 
 **3.** Article 3 is to be read as if—
@@ -619,7 +619,7 @@ Regulation 2(5)
 
 - (a) for “submitted” there were substituted “ produced ”;
 - (b) in point (b) for “the territory of the Member State” there were substituted “ Northern Ireland ”;
-- (c) in point (c)(iii) for “at national, Union or” there were substituted “ in assimilated[^key-d55f16bd122cd2aa5b333084722d3de2] law or other applicable legislation or at ”.
+- (c) in point (c)(iii) for “at national, Union or” there were substituted “ in assimilated[^c-d55f16bd122cd2aa5b333084722d3de2] law or other applicable legislation or at ”.
 
 EXPLANATORY NOTE
 
@@ -643,15 +643,15 @@ Part 5 is concerned with enforcement. Regulation 24 gives the Department powers 
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-8baf7f86d972c57e899c1688eafa4659]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2009/254): power to amend or modify conferred (9.1.2022 for specified purposes, 28.2.2022 in so far as not already in force for N.I.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 89](https://www.legislation.gov.uk/ukpga/2021/30/section/89), [147(2)(l)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/l)[(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(n)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/n)
+[^c-8baf7f86d972c57e899c1688eafa4659]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2009/254): power to amend or modify conferred (9.1.2022 for specified purposes, 28.2.2022 in so far as not already in force for N.I.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 89](https://www.legislation.gov.uk/ukpga/2021/30/section/89), [147(2)(l)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/l)[(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(n)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/n)
 
-[^key-bff3b72ddcaf0d3d33966d764646bee5]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2009/254): power to amend or modify conferred (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 91](https://www.legislation.gov.uk/ukpga/2021/30/section/91), [147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/o)
+[^c-bff3b72ddcaf0d3d33966d764646bee5]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2009/254): power to amend or modify conferred (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 91](https://www.legislation.gov.uk/ukpga/2021/30/section/91), [147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/o)
 
-[^key-f9d2f678b50a2f6e8e58e8840a76ddf4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-f9d2f678b50a2f6e8e58e8840a76ddf4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-515a4cabba669c2a730188b0641eb1b2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/254/regulation/2) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-515a4cabba669c2a730188b0641eb1b2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/254/regulation/2) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-bd236f72c10f8e43d9211dff5ef5f02f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) inserted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(2)(a)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/2/a) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-bd236f72c10f8e43d9211dff5ef5f02f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) inserted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(2)(a)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/2/a) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
 [^f00002]: Footnote: [S.I. 1999/662 (N.I.6)](https://www.legislation.gov.uk/nisi/1999/662)
 
@@ -663,123 +663,123 @@ Part 5 is concerned with enforcement. Regulation 24 gives the Department powers 
 
 [^f00006]: Footnote: [1993 c.12](https://www.legislation.gov.uk/ukpga/1993/12).
 
-[^key-e34d49f871624a5e9550cefa0ca49cae]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/nisr/2014/208/regulation/4/a/i)
+[^c-e34d49f871624a5e9550cefa0ca49cae]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/nisr/2014/208/regulation/4/a/i)
 
-[^key-347c03a910cb7e360af436c61e1d794f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/2/b) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-347c03a910cb7e360af436c61e1d794f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/2/b) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
 [^f00007]: Footnote: OJ No.L372, 27.12.2006, p.19
 
-[^key-8b92809357f19304c1866fd155fe192d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) inserted (20.6.2016) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/119)](https://www.legislation.gov.uk/nisr/2016/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/119/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2016/119/regulation/3)
+[^c-8b92809357f19304c1866fd155fe192d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) inserted (20.6.2016) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/119)](https://www.legislation.gov.uk/nisr/2016/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/119/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2016/119/regulation/3)
 
 [^f00008]: Footnote: [S.I. 1997/2778 (N.I.19)](https://www.legislation.gov.uk/nisi/1997/2778)
 
-[^key-b00813b5d6f05d4f3d8e4e2d24f66629]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/nisr/2014/208/regulation/4/a/ii)
+[^c-b00813b5d6f05d4f3d8e4e2d24f66629]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/nisr/2014/208/regulation/4/a/ii)
 
-[^key-3713306a993677b633fb63f53fbfda1a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(2)(c)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/2/c) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-3713306a993677b633fb63f53fbfda1a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(2)(c)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/2/c) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-5540765a53cd3c54789579e84d275447]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) inserted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5540765a53cd3c54789579e84d275447]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) inserted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-92c895b0a347ab076b189fbf2dc8159a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [4(a)(iii)](https://www.legislation.gov.uk/nisr/2014/208/regulation/4/a/iii)
+[^c-92c895b0a347ab076b189fbf2dc8159a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [4(a)(iii)](https://www.legislation.gov.uk/nisr/2014/208/regulation/4/a/iii)
 
-[^key-fd50004dbc3a4b0e2c31f60296655c05]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [4(a)(iv)](https://www.legislation.gov.uk/nisr/2014/208/regulation/4/a/iv)
+[^c-fd50004dbc3a4b0e2c31f60296655c05]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [4(a)(iv)](https://www.legislation.gov.uk/nisr/2014/208/regulation/4/a/iv)
 
-[^key-207c0e5c69d4ed639c966f63ee9bea30]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2018/200/schedule/2/paragraph/9)
+[^c-207c0e5c69d4ed639c966f63ee9bea30]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/1) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2018/200/schedule/2/paragraph/9)
 
-[^key-c66e35aa5d7daaa34bedd75ea1d240f9]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/3) deleted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2014/208/regulation/4/b)
+[^c-c66e35aa5d7daaa34bedd75ea1d240f9]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/3) deleted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2014/208/regulation/4/b)
 
 [^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-d5e12b24b0cf1d6ce4141faf0c83b1b2]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/5) inserted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5e12b24b0cf1d6ce4141faf0c83b1b2]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2009/254/regulation/2/5) inserted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-179ba243bcafd665be1c1bc9bc5446e9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/254/regulation/3) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-179ba243bcafd665be1c1bc9bc5446e9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/254/regulation/3) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-aef9726a30ad009d1a28b1451e0eedc0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/254/regulation/4) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-aef9726a30ad009d1a28b1451e0eedc0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/254/regulation/4) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-32e7314d97941baac9e22f5c5a1a4035]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/254/regulation/5) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-32e7314d97941baac9e22f5c5a1a4035]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/254/regulation/5) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-1e4d211488f447ce7af91830c2548860]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/254/regulation/6) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-1e4d211488f447ce7af91830c2548860]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/254/regulation/6) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-05889e52505f24dfa4f1919e23e472fb]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2009/254/regulation/7) substituted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [5](https://www.legislation.gov.uk/nisr/2014/208/regulation/5)
+[^c-05889e52505f24dfa4f1919e23e472fb]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2009/254/regulation/7) substituted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [5](https://www.legislation.gov.uk/nisr/2014/208/regulation/5)
 
-[^key-5210b02b9bc13c239157ccfb9c6db39c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2009/254/regulation/8) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-5210b02b9bc13c239157ccfb9c6db39c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2009/254/regulation/8) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-61fc748e9e21d53a549daf00669df5d5]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/8/1) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2014/208/regulation/6/1)
+[^c-61fc748e9e21d53a549daf00669df5d5]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/8/1) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2014/208/regulation/6/1)
 
-[^key-cec634e32dbf703ffefbcba50301f9c4]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/nisr/2009/254/regulation/8/5) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [6(2)](https://www.legislation.gov.uk/nisr/2014/208/regulation/6/2)
+[^c-cec634e32dbf703ffefbcba50301f9c4]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/nisr/2009/254/regulation/8/5) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [6(2)](https://www.legislation.gov.uk/nisr/2014/208/regulation/6/2)
 
-[^key-b9ce53fbddede30b02786b81aba7f63d]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/nisr/2009/254/regulation/8/5) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9ce53fbddede30b02786b81aba7f63d]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/nisr/2009/254/regulation/8/5) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b8387d3ab90a7377eb2c7afd5c868eca]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/nisr/2009/254/regulation/8/6)[(7)](https://www.legislation.gov.uk/nisr/2009/254/regulation/8/7) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [6(3)](https://www.legislation.gov.uk/nisr/2014/208/regulation/6/3)
+[^c-b8387d3ab90a7377eb2c7afd5c868eca]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/nisr/2009/254/regulation/8/6)[(7)](https://www.legislation.gov.uk/nisr/2009/254/regulation/8/7) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [6(3)](https://www.legislation.gov.uk/nisr/2014/208/regulation/6/3)
 
-[^key-b409c9d5ff6fb8e4b2db0398e0203dfc]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2009/254/regulation/9) substituted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [7](https://www.legislation.gov.uk/nisr/2014/208/regulation/7)
+[^c-b409c9d5ff6fb8e4b2db0398e0203dfc]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2009/254/regulation/9) substituted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [7](https://www.legislation.gov.uk/nisr/2014/208/regulation/7)
 
-[^key-4372cb0527dbf0ca6a31259510025f2a]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/nisr/2009/254/regulation/9/2) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/3) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-4372cb0527dbf0ca6a31259510025f2a]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/nisr/2009/254/regulation/9/2) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/3) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-2dd5c658b2ee70ae11575a49542663dc]: Textual amendment: Word in [reg. 9(3)](https://www.legislation.gov.uk/nisr/2009/254/regulation/9/3) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/3) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-2dd5c658b2ee70ae11575a49542663dc]: Textual amendment: Word in [reg. 9(3)](https://www.legislation.gov.uk/nisr/2009/254/regulation/9/3) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/3) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-d43131278ecef2195c3386fafe0fd69a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2009/254/regulation/10) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-d43131278ecef2195c3386fafe0fd69a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2009/254/regulation/10) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-ebc7892895194c4a1b25414512a01acf]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/1) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/4) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-ebc7892895194c4a1b25414512a01acf]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/1) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/4) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-79225f7d91caac50971909c74eb76d3f]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/1) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [8(1)](https://www.legislation.gov.uk/nisr/2014/208/regulation/8/1)
+[^c-79225f7d91caac50971909c74eb76d3f]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/1) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [8(1)](https://www.legislation.gov.uk/nisr/2014/208/regulation/8/1)
 
-[^key-64eba07a1e4d13a71f4e0749f8d69391]: Textual amendment: Word in [reg. 10(3)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/3) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/4) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-64eba07a1e4d13a71f4e0749f8d69391]: Textual amendment: Word in [reg. 10(3)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/3) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/4) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-adbae1320a400dc2f360470ed6551906]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/4) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(5)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/5) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-adbae1320a400dc2f360470ed6551906]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/4) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(5)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/5) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-89b2306c283cbb258c2ce7d7f4fd2525]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/5) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-89b2306c283cbb258c2ce7d7f4fd2525]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/5) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-22a1e3eee9ea50565cd1138ce060e1fd]: Textual amendment: Words in [reg. 10(6)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/6) removed (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [8(2)](https://www.legislation.gov.uk/nisr/2014/208/regulation/8/2)
+[^c-22a1e3eee9ea50565cd1138ce060e1fd]: Textual amendment: Words in [reg. 10(6)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/6) removed (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [8(2)](https://www.legislation.gov.uk/nisr/2014/208/regulation/8/2)
 
-[^key-3df2f74b862f2a93a1c46375955f8380]: Textual amendment: [Reg. 10(6A)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/6A) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [8(3)](https://www.legislation.gov.uk/nisr/2014/208/regulation/8/3)
+[^c-3df2f74b862f2a93a1c46375955f8380]: Textual amendment: [Reg. 10(6A)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/6A) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [8(3)](https://www.legislation.gov.uk/nisr/2014/208/regulation/8/3)
 
-[^key-2146e1bc83caf757a58018e839428474]: Textual amendment: Word in [reg. 10(7)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/7) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/4) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-2146e1bc83caf757a58018e839428474]: Textual amendment: Word in [reg. 10(7)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/7) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/4) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-aec675e0095de4583c297a9e717eb3b1]: Textual amendment: Word in [reg. 10(8)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/8) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/4) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-aec675e0095de4583c297a9e717eb3b1]: Textual amendment: Word in [reg. 10(8)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/8) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/4) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-7d373fb88a1d986c8290ff9db50f4dd7]: Textual amendment: [Reg. 10(9)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/9) omitted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by virtue of [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(6)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/6) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-7d373fb88a1d986c8290ff9db50f4dd7]: Textual amendment: [Reg. 10(9)](https://www.legislation.gov.uk/nisr/2009/254/regulation/10/9) omitted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by virtue of [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(6)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/6) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-871946dac3eee264110f76f62728aef7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2009/254/regulation/11) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-871946dac3eee264110f76f62728aef7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2009/254/regulation/11) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-b0a903eba89e427c8315a062f0a89d86]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/11/1) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/4) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-b0a903eba89e427c8315a062f0a89d86]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/nisr/2009/254/regulation/11/1) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/4) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-632eea1e8dafa579586fa4ea204b6b93]: Textual amendment: [Reg. 11(1)(d)](https://www.legislation.gov.uk/nisr/2009/254/regulation/11/1/d) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-632eea1e8dafa579586fa4ea204b6b93]: Textual amendment: [Reg. 11(1)(d)](https://www.legislation.gov.uk/nisr/2009/254/regulation/11/1/d) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7b7c7e9c4598669363b4ec0d4870467d]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/nisr/2009/254/regulation/11/2) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(7)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/7) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-7b7c7e9c4598669363b4ec0d4870467d]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/nisr/2009/254/regulation/11/2) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(7)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/7) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-4a2d36ccd0d6f1a4f6b1f2544fe7a809]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2009/254/regulation/12) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a2d36ccd0d6f1a4f6b1f2544fe7a809]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2009/254/regulation/12) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8f85a88fde6cea0e0e93e68730b968f7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2009/254/regulation/13) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-8f85a88fde6cea0e0e93e68730b968f7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2009/254/regulation/13) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-eb8ed5f4e878b0b1446e936230f180d1]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/nisr/2009/254/regulation/13) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2018/200/schedule/2/paragraph/10)
+[^c-eb8ed5f4e878b0b1446e936230f180d1]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/nisr/2009/254/regulation/13) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2018/200/schedule/2/paragraph/10)
 
-[^key-c66eab9dcca7e843c2e951164f5e2e35]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2009/254/regulation/14) substituted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [9](https://www.legislation.gov.uk/nisr/2014/208/regulation/9)
+[^c-c66eab9dcca7e843c2e951164f5e2e35]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2009/254/regulation/14) substituted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [9](https://www.legislation.gov.uk/nisr/2014/208/regulation/9)
 
-[^key-999d16d471a0d171752fec45e1046128]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/nisr/2009/254/regulation/14/2) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(8)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/8) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-999d16d471a0d171752fec45e1046128]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/nisr/2009/254/regulation/14/2) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(8)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/8) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-b80a86d63e07c7c1269537078e5fab3b]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2009/254/regulation/15) substituted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [10](https://www.legislation.gov.uk/nisr/2014/208/regulation/10)
+[^c-b80a86d63e07c7c1269537078e5fab3b]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2009/254/regulation/15) substituted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [10](https://www.legislation.gov.uk/nisr/2014/208/regulation/10)
 
-[^key-32f728e08dbfe7ac2c23f03025324459]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/nisr/2009/254/regulation/15/2) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(9)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/9) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-32f728e08dbfe7ac2c23f03025324459]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/nisr/2009/254/regulation/15/2) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(9)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/9) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-4969b8f675b6ba41c3e1b36242bf6018]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2009/254/regulation/16) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-4969b8f675b6ba41c3e1b36242bf6018]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2009/254/regulation/16) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-50d9a91ff2ae30c2c667714fa6300ba5]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/nisr/2009/254/regulation/16) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(8)(a)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-50d9a91ff2ae30c2c667714fa6300ba5]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/nisr/2009/254/regulation/16) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(8)(a)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6f772810d31af2a2ddc7263cadf0c525]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/nisr/2009/254/regulation/16) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/a)
+[^c-6f772810d31af2a2ddc7263cadf0c525]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/nisr/2009/254/regulation/16) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/a)
 
-[^key-7fe4568ec7d82786b98cd48b39e4923f]: Textual amendment: [Reg. 16(i)](https://www.legislation.gov.uk/nisr/2009/254/regulation/16/i) inserted (25.6.2011) by [Groundwater (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/211)](https://www.legislation.gov.uk/nisr/2011/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/211/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2011/211/regulation/2/2)
+[^c-7fe4568ec7d82786b98cd48b39e4923f]: Textual amendment: [Reg. 16(i)](https://www.legislation.gov.uk/nisr/2009/254/regulation/16/i) inserted (25.6.2011) by [Groundwater (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/211)](https://www.legislation.gov.uk/nisr/2011/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/211/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2011/211/regulation/2/2)
 
-[^key-66617057aba2802ef471911b8110d384]: Textual amendment: Words in [reg. 16(i)](https://www.legislation.gov.uk/nisr/2009/254/regulation/16/i) substituted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(8)(b)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-66617057aba2802ef471911b8110d384]: Textual amendment: Words in [reg. 16(i)](https://www.legislation.gov.uk/nisr/2009/254/regulation/16/i) substituted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(8)(b)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-55027210a567fce18970d7a83629ed13]: Textual amendment: Word in [reg. 16(i)](https://www.legislation.gov.uk/nisr/2009/254/regulation/16/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/a)
+[^c-55027210a567fce18970d7a83629ed13]: Textual amendment: Word in [reg. 16(i)](https://www.legislation.gov.uk/nisr/2009/254/regulation/16/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/a)
 
-[^key-b643698d90b59d32c9579758cb759cf1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2009/254/regulation/17) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-b643698d90b59d32c9579758cb759cf1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2009/254/regulation/17) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-08578be20ff01900137f2929792e7319]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/nisr/2009/254/regulation/18) substituted (20.6.2016) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/119)](https://www.legislation.gov.uk/nisr/2016/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/119/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2016/119/regulation/4)
+[^c-08578be20ff01900137f2929792e7319]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/nisr/2009/254/regulation/18) substituted (20.6.2016) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/119)](https://www.legislation.gov.uk/nisr/2016/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/119/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2016/119/regulation/4)
 
-[^key-2d447b04b2c1e11738bbb5c427158a31]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2009/254/regulation/19) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-2d447b04b2c1e11738bbb5c427158a31]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2009/254/regulation/19) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-7ae4cbe3d963a65af04f670346811752]: Textual amendment: Word in [reg. 19(2)](https://www.legislation.gov.uk/nisr/2009/254/regulation/19/2) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(10)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/10) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-7ae4cbe3d963a65af04f670346811752]: Textual amendment: Word in [reg. 19(2)](https://www.legislation.gov.uk/nisr/2009/254/regulation/19/2) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(10)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/10) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
 [^f00013]: Footnote: [S.I. 1978/1049 (N.I.19)](https://www.legislation.gov.uk/nisi/1978/1049)
 
@@ -789,43 +789,43 @@ Part 5 is concerned with enforcement. Regulation 24 gives the Department powers 
 
 [^f00016]: Footnote: [S.I. 1993/3160 (N.I.15)](https://www.legislation.gov.uk/nisi/1993/3160)
 
-[^key-b6e47dffd8b18c4e0bf2f6b28bd46340]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2009/254/regulation/20) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-b6e47dffd8b18c4e0bf2f6b28bd46340]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2009/254/regulation/20) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-eae11e70706fed1029ffab093705c033]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2009/254/regulation/21) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-eae11e70706fed1029ffab093705c033]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2009/254/regulation/21) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-f954eff404fd5b489da87cff34e18f59]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2009/254/regulation/22) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-f954eff404fd5b489da87cff34e18f59]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2009/254/regulation/22) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-44106a1d71ae98eee9523b46f5e9734e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2009/254/regulation/23) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-44106a1d71ae98eee9523b46f5e9734e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2009/254/regulation/23) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-b9ff3d46f5d0fa8f9dc4961fd6eea883]: Textual amendment: Word in [reg. 23(2)](https://www.legislation.gov.uk/nisr/2009/254/regulation/23/2) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/4) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-b9ff3d46f5d0fa8f9dc4961fd6eea883]: Textual amendment: Word in [reg. 23(2)](https://www.legislation.gov.uk/nisr/2009/254/regulation/23/2) substituted (with application in accordance with regs. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/4/4) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-cd9a1ebda809aa92e1d91880e9693227]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2009/254/regulation/24) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-cd9a1ebda809aa92e1d91880e9693227]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2009/254/regulation/24) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-96223fd5622c1c722b7a23d47c1f72ef]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2009/254/regulation/25) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-96223fd5622c1c722b7a23d47c1f72ef]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2009/254/regulation/25) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-518088909850fa4d9883afdf110c942c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2009/254/regulation/26) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-518088909850fa4d9883afdf110c942c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2009/254/regulation/26) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-ea438569d73c5545358df2b0f8b42b40]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2009/254/regulation/27) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-ea438569d73c5545358df2b0f8b42b40]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2009/254/regulation/27) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-c728dbda0bcf707aea71d3429751f232]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2009/254/regulation/28) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-c728dbda0bcf707aea71d3429751f232]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2009/254/regulation/28) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-4954a59fd20f41c0f6f6a934f1a24936]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2009/254/regulation/29) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-4954a59fd20f41c0f6f6a934f1a24936]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2009/254/regulation/29) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-04e29b554b57355bfa459b1729efadcf]: Textual amendment: Words in [reg. 29(a)](https://www.legislation.gov.uk/nisr/2009/254/regulation/29/a) substituted (14.12.2009) by [Groundwater (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/359)](https://www.legislation.gov.uk/nisr/2009/359), [regs. 1](https://www.legislation.gov.uk/nisr/2009/359/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2009/359/regulation/3/2)
+[^c-04e29b554b57355bfa459b1729efadcf]: Textual amendment: Words in [reg. 29(a)](https://www.legislation.gov.uk/nisr/2009/254/regulation/29/a) substituted (14.12.2009) by [Groundwater (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/359)](https://www.legislation.gov.uk/nisr/2009/359), [regs. 1](https://www.legislation.gov.uk/nisr/2009/359/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2009/359/regulation/3/2)
 
-[^key-11f8158b334eec719dad8c221fcba2f2]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2009/254/regulation/30) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-11f8158b334eec719dad8c221fcba2f2]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2009/254/regulation/30) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
-[^key-b045243e6a642bad2ee93f65c046c89e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2009/254/regulation/31) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
+[^c-b045243e6a642bad2ee93f65c046c89e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2009/254/regulation/31) in operation at 10.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/254/regulation/1)
 
 [^f00017]: Footnote: [S.R. 1998 No. 401](https://www.legislation.gov.uk/nisr/1998/401) as amended by [S.R. 2003 No. 46](https://www.legislation.gov.uk/nisr/2003/46), [S.R. 2003 No. 493](https://www.legislation.gov.uk/nisr/2003/493) and [S.R. 2006 No. 280](https://www.legislation.gov.uk/nisr/2006/280)
 
-[^key-7f0eadb69583f5bc7d71c9fca6467253]: Textual amendment: Sch. renumbered as Sch. 1 (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(9)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f0eadb69583f5bc7d71c9fca6467253]: Textual amendment: Sch. renumbered as Sch. 1 (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(9)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1109c8ea112b9aed971a8a90db89c84e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2009/254/schedule) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [12](https://www.legislation.gov.uk/nisr/2014/208/regulation/12)
+[^c-1109c8ea112b9aed971a8a90db89c84e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2009/254/schedule) inserted (31.7.2014) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/208)](https://www.legislation.gov.uk/nisr/2014/208), [regs. 1](https://www.legislation.gov.uk/nisr/2014/208/regulation/1), [12](https://www.legislation.gov.uk/nisr/2014/208/regulation/12)
 
-[^key-5941f8c80aafa2235fbef5f978b53834]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2009/254/schedule) Table 1 substituted (20.6.2016) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/119)](https://www.legislation.gov.uk/nisr/2016/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/119/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2016/119/regulation/5)
+[^c-5941f8c80aafa2235fbef5f978b53834]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2009/254/schedule) Table 1 substituted (20.6.2016) by [The Groundwater (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/119)](https://www.legislation.gov.uk/nisr/2016/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/119/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2016/119/regulation/5)
 
-[^f01000]: Footnote: (1)[^key-5941f8c80aafa2235fbef5f978b53834][^key-1109c8ea112b9aed971a8a90db89c84e]
+[^f01000]: Footnote: (1)[^c-5941f8c80aafa2235fbef5f978b53834][^c-1109c8ea112b9aed971a8a90db89c84e]
 
     The surface water environmental standards are set out in Schedule 1 to The Water Framework Directive (Classification, Priority Substances and Shellfish Waters) Regulations (Northern Ireland) 2015([S.R. 2015 No. 351](https://www.legislation.gov.uk/nisr/2015/351)).
 
@@ -833,28 +833,28 @@ Part 5 is concerned with enforcement. Regulation 24 gives the Department powers 
 
     The “dilution factor” is taken to be the fraction of the average annual river flow derived from groundwater inflows. It can be estimated from established hydrological indices such as the baseflow index, or from the ratio of catchment groundwater recharge to effective precipitation.
 
-[^key-b43f53ea0f9a8c73efc408730b5b3ed1]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2009/254/schedule/2) inserted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(10)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b43f53ea0f9a8c73efc408730b5b3ed1]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2009/254/schedule/2) inserted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [7(10)](https://www.legislation.gov.uk/uksi/2019/112/regulation/7/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a5aa4a8d28777435e396d73f4acd9e3c]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 2(c)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/2/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/i)
+[^c-a5aa4a8d28777435e396d73f4acd9e3c]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 2(c)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/2/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/i)
 
-[^key-eb4224bdda371f9bc9584da7503c4028]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 3](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/ii)
+[^c-eb4224bdda371f9bc9584da7503c4028]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 3](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/ii)
 
-[^key-0aae34010ad27c05d4111f42d2f3b532]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 5(b)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/5/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(iii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/iii)
+[^c-0aae34010ad27c05d4111f42d2f3b532]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 5(b)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/5/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(iii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/iii)
 
-[^key-cb67e096854443d4c62a841901c55d4f]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 6(a)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/6/a), [(b)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/6/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(iv)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/iv)
+[^c-cb67e096854443d4c62a841901c55d4f]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 6(a)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/6/a), [(b)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/6/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(iv)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/iv)
 
-[^key-f6964e940910d45207fa1dde0232700e]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 7(a)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/7/a), [(b)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/7/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(v)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/v)
+[^c-f6964e940910d45207fa1dde0232700e]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 7(a)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/7/a), [(b)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/7/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(v)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/v)
 
-[^key-2338084b723757d6a38c68d0c3767dac]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 9(b)(i)(aa)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/9/b/i/aa) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(vi)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/vi)
+[^c-2338084b723757d6a38c68d0c3767dac]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 9(b)(i)(aa)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/9/b/i/aa) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(vi)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/vi)
 
-[^key-6b9c72a3ddbf5639969a295cb906d467]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 9(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/9/b/ii/aa) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(vii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/vii)
+[^c-6b9c72a3ddbf5639969a295cb906d467]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 9(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/9/b/ii/aa) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(vii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/vii)
 
-[^key-d047c3de0e2acbf82faeb773b5088b6a]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 10(d)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/10/d) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(viii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/viii)
+[^c-d047c3de0e2acbf82faeb773b5088b6a]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 10(d)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/10/d) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(viii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/viii)
 
-[^key-81cabc99b03cfcbabf0c6e2eb8646fda]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 10(f)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/10/f) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(viii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/viii)
+[^c-81cabc99b03cfcbabf0c6e2eb8646fda]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 10(f)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/10/f) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(viii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/viii)
 
-[^key-34e5f13f2ca49132fed99f68ff23b033]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 11(a)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/11/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(ix)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/ix)
+[^c-34e5f13f2ca49132fed99f68ff23b033]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 11(a)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/1/paragraph/11/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(b)(ix)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/b/ix)
 
-[^key-7cad1ef72cf3ad2b0059181f2878c6b3]: Textual amendment: Word in [Sch. 2 Pt. 2 para. 2(b)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/2/paragraph/2/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(c)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/c/i)
+[^c-7cad1ef72cf3ad2b0059181f2878c6b3]: Textual amendment: Word in [Sch. 2 Pt. 2 para. 2(b)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/2/paragraph/2/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(c)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/c/i)
 
-[^key-d55f16bd122cd2aa5b333084722d3de2]: Textual amendment: Word in [Sch. 2 Pt. 2 para. 6(c)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/2/paragraph/6/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(c)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/c/ii)
+[^c-d55f16bd122cd2aa5b333084722d3de2]: Textual amendment: Word in [Sch. 2 Pt. 2 para. 6(c)](https://www.legislation.gov.uk/nisr/2009/254/schedule/2/part/2/paragraph/6/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 19(c)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/19/c/ii)

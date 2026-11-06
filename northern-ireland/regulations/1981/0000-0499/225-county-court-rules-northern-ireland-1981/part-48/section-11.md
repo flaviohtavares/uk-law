@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-4f23ab7daac636d0afaf4017079a5862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-4f23ab7daac636d0afaf4017079a5862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) An application in accordance with Articles 12(1) or 14(1) of, and Schedule 2 to, the Betting, Gaming, Lotteries and Amusements Order for the grant or, as the case may be, for the provisional grant of a bookmaking office licence shall be in Form 211A and have attached a plan of the premises for which the licence is sought or, as the case may be, a plan of the premises for which the provisional licence is sought showing the premises as they will be when their construction, alteration or extension has been completed.
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f23ab7daac636d0afaf4017079a5862]: Textual amendment: Order 48 rule 11(1) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(17)(d)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/17/d); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-4f23ab7daac636d0afaf4017079a5862]: Textual amendment: Order 48 rule 11(1) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(17)(d)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/17/d); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

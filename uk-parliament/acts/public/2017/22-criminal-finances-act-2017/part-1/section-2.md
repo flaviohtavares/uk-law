@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interim freezing orders[^key-49d7830c6725ce6a4b6f8e902ed02812][^key-6d3294c3ab8e92f6bc83057ad4cc5eab][^c22725071]
+## 2. Interim freezing orders[^c-49d7830c6725ce6a4b6f8e902ed02812][^c-6d3294c3ab8e92f6bc83057ad4cc5eab][^c22725071]
 
 *Extent: E+W+N.I.*
 
@@ -230,8 +230,8 @@ After section 362I of the Proceeds of Crime Act 2002 (inserted by section 1 abov
 
 ## Annotations
 
-[^key-49d7830c6725ce6a4b6f8e902ed02812]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/22/section/2) in force at 31.1.2018 for E.W. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
+[^c-49d7830c6725ce6a4b6f8e902ed02812]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/22/section/2) in force at 31.1.2018 for E.W. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
 
-[^key-6d3294c3ab8e92f6bc83057ad4cc5eab]: Commencement: S. 2 in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/a)
+[^c-6d3294c3ab8e92f6bc83057ad4cc5eab]: Commencement: S. 2 in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/a)
 
 [^c22725071]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/22/section/2) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

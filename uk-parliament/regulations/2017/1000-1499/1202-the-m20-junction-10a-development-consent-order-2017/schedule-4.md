@@ -29,7 +29,7 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 - (c) Private means of access to be stopped up, as described in column (2) of Parts 3 and 4 of this Schedule, are shown by solid black shading (as shown in the key on the rights of way and access plans) over the extent of stopping up described in column (3) of Parts 3 and 4 of this Schedule, and are given a reference label (a lower case letter in a circle).
 - (d) New private means of access to be substituted for a private means of access to be stopped up (or which are otherwise to be provided), as are included in column (4) of Part 3 of this Schedule, are shown by black line hatching (as shown in the key on the rights of way and access plans) and are given a reference label (a number in a circle).
 
-### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-5d2f746241b30732adf2ee7f6f86cfa8]
+### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-5d2f746241b30732adf2ee7f6f86cfa8]
 
 | *(1)*<br>*Area* | *(2)*<br>*Highway to be stopped up* | *(3)*<br>*Extent of stopping up* |
 | --- | --- | --- |
@@ -42,7 +42,7 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 | Sevington | Public Right of Way AE338 | From where it crosses the new A2070 link road to where it meets the Old Mill Stream, a distance of 120 metres, shown on the rights of way and access plans sheet 3. |
 | Sevington | Public Right of Way AE339 | From the Barrey Road/Church Road junction west of the A2070 Bad Munstereifel Road to where it meets Church Road again, east of the A2070 Bad Munstereifel Road, a distance of 184 metres, shown on sheet 3 of the rights of way and access plans. |
 
-### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^key-5c0937c1896ce01478f148bf75bdfc1f]
+### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^c-5c0937c1896ce01478f148bf75bdfc1f]
 
 | *(1)*<br>*Area* | *(2)*<br>*Highway to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New highway to be substituted/provided* |
 | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 | Sevington, Mersham | \- | \- | Reference O<br>In the event of construction of the A2070 Option B only, a new Stour Park roundabout circulatory carriageway, shown on sheet 4 of the rights of way and access plans. |
 | Sevington, Mersham | \- | \- | Reference P<br>In the event of construction of the A2070 Option B only, a new length of highway from the new Stour Park roundabout circulatory carriageway to the new A2070 roundabout circulatory carriageway, shown on sheet 4 of the rights of way and access plans. |
 
-### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^key-9959890e7f83b642b3e9075e879399a6]
+### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^c-9959890e7f83b642b3e9075e879399a6]
 
 | *(1)*<br>*Area* | *(2)*<br>*Private means of access to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New private means of access to be substituted or provided* |
 | --- | --- | --- | --- |
@@ -72,7 +72,7 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 | Sevington | Reference f<br>Access to field north of the Old Mill Stream and south of the M20 main carriageway | A length from its junction with the local road that joins Church Road, just north of the Church Road footbridge, to a point 45 metres south of the Old Mill Stream, a distance of 278 metres, as shown on sheet 3 of the rights of way and access plans. | Reference 3<br>A new private access to pond 2 and field north of the Old Mill Stream, from a point on the southbound carriageway of the A2070, 88 metres north of the A2070 roundabout, to the Old Mill Stream, a distance of 153 metres, as shown on the rights of way and access plans sheet 3. |
 | Sevington | \- | \- | Reference 4<br>A new private access to pond 1 from a point on the eastbound carriageway of the new A2070 link road, 370 metres west of the new M20 Junction 10a circulatory carriageway, to where it meets pond 1, a distance of 150 metres, as shown on the rights of way and access plans sheet 3. |
 
-### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-711e1151d45942119cc04ee45bda7581]
+### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-711e1151d45942119cc04ee45bda7581]
 
 | *(1)*<br>*Area* | *(2)*<br>*Private means of access to be stopped up* | *(3)*<br>*Extent of stopping up* |
 | --- | --- | --- |
@@ -83,10 +83,10 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 
 ## Annotations
 
-[^key-5d2f746241b30732adf2ee7f6f86cfa8]: Commencement: Sch. 4 Pt. 1 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-5d2f746241b30732adf2ee7f6f86cfa8]: Commencement: Sch. 4 Pt. 1 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
 
-[^key-5c0937c1896ce01478f148bf75bdfc1f]: Commencement: Sch. 4 Pt. 2 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-5c0937c1896ce01478f148bf75bdfc1f]: Commencement: Sch. 4 Pt. 2 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
 
-[^key-9959890e7f83b642b3e9075e879399a6]: Commencement: Sch. 4 Pt. 3 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-9959890e7f83b642b3e9075e879399a6]: Commencement: Sch. 4 Pt. 3 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
 
-[^key-711e1151d45942119cc04ee45bda7581]: Commencement: Sch. 4 Pt. 4 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-711e1151d45942119cc04ee45bda7581]: Commencement: Sch. 4 Pt. 4 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)

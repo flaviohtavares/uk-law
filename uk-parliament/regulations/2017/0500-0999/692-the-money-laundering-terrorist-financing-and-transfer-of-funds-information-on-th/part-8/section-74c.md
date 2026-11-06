@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74C. Directions: cryptoasset businesses[^key-1763ea41155a1057576257682ad35384][^key-57627b588a33b3b62eda0f5351a956a2]
+## 74C. Directions: cryptoasset businesses[^c-1763ea41155a1057576257682ad35384][^c-57627b588a33b3b62eda0f5351a956a2]
 
 *Extent: E+W+S+N.I.*
 
-(1) The FCA may exercise its powers of direction under paragraph (5) or (6) in writing in relation to[^key-66505f415fac3e77b208a87767b03411] a cryptoasset exchange provider or custodian wallet provider (“cryptoasset business”).
+(1) The FCA may exercise its powers of direction under paragraph (5) or (6) in writing in relation to[^c-66505f415fac3e77b208a87767b03411] a cryptoasset exchange provider or custodian wallet provider (“cryptoasset business”).
 
 (2) A direction may be imposed before, on or after registration, as the FCA considers appropriate.
 
@@ -28,7 +28,7 @@ summary: ''
 
 - (a) remedying a failure to comply with a requirement under these Regulations;
 - (b) preventing a failure to comply, or continued non-compliance with a requirement under these Regulations;
-- (c) preventing the cryptoasset business from being used for money laundering, terrorist financing or proliferation financing[^key-078acfccf0997a1261f8727699a92825].
+- (c) preventing the cryptoasset business from being used for money laundering, terrorist financing or proliferation financing[^c-078acfccf0997a1261f8727699a92825].
 
 (4) A direction may require or prohibit the taking of specified action.
 
@@ -97,10 +97,10 @@ it must give the cryptoasset business a notice in writing.
 
 ## Annotations
 
-[^key-1763ea41155a1057576257682ad35384]: Modification: [Regs. 74-74C](https://www.legislation.gov.uk/uksi/2017/692/regulation/74) applied (with modifications) (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [14](https://www.legislation.gov.uk/uksi/2022/860/regulation/14)
+[^c-1763ea41155a1057576257682ad35384]: Modification: [Regs. 74-74C](https://www.legislation.gov.uk/uksi/2017/692/regulation/74) applied (with modifications) (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [14](https://www.legislation.gov.uk/uksi/2022/860/regulation/14)
 
-[^key-57627b588a33b3b62eda0f5351a956a2]: Textual amendment: Regs. 74A-74C inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/8/4)
+[^c-57627b588a33b3b62eda0f5351a956a2]: Textual amendment: Regs. 74A-74C inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/8/4)
 
-[^key-66505f415fac3e77b208a87767b03411]: Textual amendment: Words in [reg. 74C(1)](https://www.legislation.gov.uk/uksi/2017/692/regulation/74C/1) substituted (6.10.2020) by [The Money Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/991)](https://www.legislation.gov.uk/uksi/2020/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/991/regulation/10)
+[^c-66505f415fac3e77b208a87767b03411]: Textual amendment: Words in [reg. 74C(1)](https://www.legislation.gov.uk/uksi/2017/692/regulation/74C/1) substituted (6.10.2020) by [The Money Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/991)](https://www.legislation.gov.uk/uksi/2020/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/991/regulation/10)
 
-[^key-078acfccf0997a1261f8727699a92825]: Textual amendment: Words in [reg. 74C(3)(c)](https://www.legislation.gov.uk/uksi/2017/692/regulation/74C/3/c) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(8)(f)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/8/f)
+[^c-078acfccf0997a1261f8727699a92825]: Textual amendment: Words in [reg. 74C(3)(c)](https://www.legislation.gov.uk/uksi/2017/692/regulation/74C/3/c) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(8)(f)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/8/f)

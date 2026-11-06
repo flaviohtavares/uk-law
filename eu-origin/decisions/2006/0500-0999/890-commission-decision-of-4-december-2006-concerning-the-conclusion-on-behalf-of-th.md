@@ -33,14 +33,14 @@ concerning the conclusion on behalf of the European Atomic Energy Community of a
 
 (2006/890/Euratom) (revoked)
 
-[^key-859e00da2f21e0b57c754f849a1f8f71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-859e00da2f21e0b57c754f849a1f8f71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Sole Article.**[^key-859e00da2f21e0b57c754f849a1f8f71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Sole Article.**[^c-859e00da2f21e0b57c754f849a1f8f71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-859e00da2f21e0b57c754f849a1f8f71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-859e00da2f21e0b57c754f849a1f8f71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-859e00da2f21e0b57c754f849a1f8f71]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-859e00da2f21e0b57c754f849a1f8f71]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

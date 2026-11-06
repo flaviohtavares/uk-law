@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — TRANSFER OF FUNCTIONS UNDER SUBORDINATE LEGISLATION[^key-881e88607a0c23fb6ff084137d0a85d6][^key-b40467161adbaba898baa7035b0b7b27]
+## SCHEDULE 2 — TRANSFER OF FUNCTIONS UNDER SUBORDINATE LEGISLATION[^c-881e88607a0c23fb6ff084137d0a85d6][^c-b40467161adbaba898baa7035b0b7b27]
 
 *Extent: N.I.*
 
@@ -41,14 +41,14 @@ Article 3(2)
 | [S.R. 1997 No. 95](https://www.legislation.gov.uk/nisr/1997/95). | The Occupational Pension Schemes (Mixed Benefit Contracted-out Schemes) Regulations (Northern Ireland) 1997. | Regulation 3. |
 | [S.R. 1997 No. 139](https://www.legislation.gov.uk/nisr/1997/139). | The Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1997. | All the regulations. |
 | [S.R. 1997 No. 140](https://www.legislation.gov.uk/nisr/1997/140). | The Occupational and Personal Pension Schemes (Contracting-out etc: Review of Determinations) Regulations (Northern Ireland) 1997. | All the regulations. |
-| [S.R. 1997 No. 192 (C. 10)](https://www.legislation.gov.uk/nisr/1997/192). | The Pensions (1995 Order) (Commencement No. 8) Order (Northern Ireland) 1997. | In Article 4, paragraph (1), paragraph (2), except so far as relating to section 51(3) of the Pension Schemes (Northern Ireland) Act 1993 and to the making of regulations under section 60(1) of that Act, and paragraph (3) and Article 13[^key-53d68fca6d519b62ae84a3113f936a4a] . |
+| [S.R. 1997 No. 192 (C. 10)](https://www.legislation.gov.uk/nisr/1997/192). | The Pensions (1995 Order) (Commencement No. 8) Order (Northern Ireland) 1997. | In Article 4, paragraph (1), paragraph (2), except so far as relating to section 51(3) of the Pension Schemes (Northern Ireland) Act 1993 and to the making of regulations under section 60(1) of that Act, and paragraph (3) and Article 13[^c-53d68fca6d519b62ae84a3113f936a4a] . |
 | [S.R. 1998 No. 208](https://www.legislation.gov.uk/nisr/1998/208). | The Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights and Miscellaneous Amendment) Regulations (Northern Ireland) 1998. | All the regulations. |
 | [S.R. 1998 No. 267](https://www.legislation.gov.uk/nisr/1998/267). | The Occupational Pension Schemes (Validation of Rule Alterations) Regulations (Northern Ireland) 1998. | All the Regulations. |
 
 ## Annotations
 
-[^key-881e88607a0c23fb6ff084137d0a85d6]: Commencement: Sch. 2 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-881e88607a0c23fb6ff084137d0a85d6]: Commencement: Sch. 2 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-b40467161adbaba898baa7035b0b7b27]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1999/671/schedule/2) in force at 1.4.1999 for specified purposes by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-b40467161adbaba898baa7035b0b7b27]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1999/671/schedule/2) in force at 1.4.1999 for specified purposes by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
-[^key-53d68fca6d519b62ae84a3113f936a4a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1999/671/schedule/2) substituted (with retrospective effect in accordance with Sch. 11 para. 34 of the amending Act) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(4)(d)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/4/d), [Sch. 11 para. 34](https://www.legislation.gov.uk/ukpga/1999/30/schedule/11/paragraph/34)
+[^c-53d68fca6d519b62ae84a3113f936a4a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1999/671/schedule/2) substituted (with retrospective effect in accordance with Sch. 11 para. 34 of the amending Act) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(4)(d)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/4/d), [Sch. 11 para. 34](https://www.legislation.gov.uk/ukpga/1999/30/schedule/11/paragraph/34)

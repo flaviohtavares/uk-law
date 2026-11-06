@@ -46,11 +46,11 @@ A draft of this Order was laid before the House of Commons in accordance with se
 
 Accordingly, Her Majesty, in exercise of the powers conferred upon Her by section 173(1) to (3) of the Finance Act 2006, by and with the advice of Her Privy Council, orders as follows—
 
-## 1. Citation[^key-6948af52bf9c168d5562015d78071302]
+## 1. Citation[^c-6948af52bf9c168d5562015d78071302]
 
 This Order may be cited as the International Tax Enforcement (Antigua and Barbuda) Order 2011.
 
-## 2. Tax information exchange agreement to have effect[^key-0ab0ac885ea6c9669cb9163293004fcd]
+## 2. Tax information exchange agreement to have effect[^c-0ab0ac885ea6c9669cb9163293004fcd]
 
 It is declared that—
 
@@ -61,7 +61,7 @@ Judith Simpson
 
 Clerk of the Privy Council
 
-## SCHEDULE[^key-0d81dc1308848292b1df8fee7299a3e1]
+## SCHEDULE[^c-0d81dc1308848292b1df8fee7299a3e1]
 
 Article 2
 
@@ -90,8 +90,8 @@ A full and final Impact Assessment has not been produced for this Order as a neg
 
 [^f00001]: Footnote: [2006 c. 25](https://www.legislation.gov.uk/ukpga/2006/25).
 
-[^key-6948af52bf9c168d5562015d78071302]: Commencement: Art. 1 in force at made date
+[^c-6948af52bf9c168d5562015d78071302]: Commencement: Art. 1 in force at made date
 
-[^key-0ab0ac885ea6c9669cb9163293004fcd]: Commencement: Art. 2 in force at made date
+[^c-0ab0ac885ea6c9669cb9163293004fcd]: Commencement: Art. 2 in force at made date
 
-[^key-0d81dc1308848292b1df8fee7299a3e1]: Commencement: Sch. in force at made date
+[^c-0d81dc1308848292b1df8fee7299a3e1]: Commencement: Sch. in force at made date

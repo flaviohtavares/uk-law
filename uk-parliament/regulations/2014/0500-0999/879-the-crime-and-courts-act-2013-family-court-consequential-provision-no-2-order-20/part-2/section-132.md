@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**132.**[^key-4f520fc31ab1b4aca9bfecde98d767bf] In paragraph 11—
+**132.**[^c-4f520fc31ab1b4aca9bfecde98d767bf] In paragraph 11—
 
 - (a) in sub-paragraph (2), for “the designated officer for the magistrates’ court in the local justice area” substitute “the court officer of the family court in the Designated Family Judge area”;
 - (b) in sub-paragraph (3)—
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f520fc31ab1b4aca9bfecde98d767bf]: Commencement: Art. 132 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-4f520fc31ab1b4aca9bfecde98d767bf]: Commencement: Art. 132 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Positive requirements and electronic monitoring requirements: service courts[^key-f3c3253298a906e72f4d85f916c9d952][^key-5063e3d2386eb8138bd6d992eb396823]
+## 179. Positive requirements and electronic monitoring requirements: service courts[^c-f3c3253298a906e72f4d85f916c9d952][^c-5063e3d2386eb8138bd6d992eb396823]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ In section 137(3) of the Sexual Offences Act 2003 (service courts: sexual harm p
 
 ## Annotations
 
-[^key-f3c3253298a906e72f4d85f916c9d952]: Commencement: S. 179 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-f3c3253298a906e72f4d85f916c9d952]: Commencement: S. 179 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-5063e3d2386eb8138bd6d992eb396823]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2022/32/section/179) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/k)
+[^c-5063e3d2386eb8138bd6d992eb396823]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2022/32/section/179) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/k)

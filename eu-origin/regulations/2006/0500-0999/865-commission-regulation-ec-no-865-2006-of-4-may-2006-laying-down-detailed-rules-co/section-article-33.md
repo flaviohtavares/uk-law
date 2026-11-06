@@ -23,8 +23,8 @@ summary: ''
 1. Where a specimen is covered by a travelling exhibition certificate, all the following requirements shall be met:
 
 - (a) the specimen must be registered by the issuing management authority;
-- (b) the specimen must be returned to the third country[^key-96d01d77323ce6afecf88957ea785b86] in which it is registered before the date of expiry of the certificate;
-- (c) the specimen must be uniquely and permanently marked, in accordance with Article 66 in the case of live animals, or otherwise identified in such a way that the authorities of the third countries[^key-813111c13f554e51f52724b855fcdb5f] into which the specimen enters can verify that the certificate corresponds to the specimen being imported or exported.
+- (b) the specimen must be returned to the third country[^c-96d01d77323ce6afecf88957ea785b86] in which it is registered before the date of expiry of the certificate;
+- (c) the specimen must be uniquely and permanently marked, in accordance with Article 66 in the case of live animals, or otherwise identified in such a way that the authorities of the third countries[^c-813111c13f554e51f52724b855fcdb5f] into which the specimen enters can verify that the certificate corresponds to the specimen being imported or exported.
 
 2. In the case of travelling exhibition certificates issued in accordance with Article 32(2), points (a) and (b) of paragraph 1 of this Article shall not apply. In such cases, the certificate shall include the following text in box 20:
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96d01d77323ce6afecf88957ea785b86]: Textual amendment: Words in [Art. 33(1)(b)](https://www.legislation.gov.uk/eur/2006/865/article/33/1/b) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(27)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/27/a)
+[^c-96d01d77323ce6afecf88957ea785b86]: Textual amendment: Words in [Art. 33(1)(b)](https://www.legislation.gov.uk/eur/2006/865/article/33/1/b) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(27)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/27/a)
 
-[^key-813111c13f554e51f52724b855fcdb5f]: Textual amendment: Words in [Art. 33(1)(c)](https://www.legislation.gov.uk/eur/2006/865/article/33/1/c) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(27)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/27/b)
+[^c-813111c13f554e51f52724b855fcdb5f]: Textual amendment: Words in [Art. 33(1)(c)](https://www.legislation.gov.uk/eur/2006/865/article/33/1/c) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(27)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/27/b)

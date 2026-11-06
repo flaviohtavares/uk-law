@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. The implementation body for inland waterways[^key-5156a4f90d910c6b8fda77236caaca32]
+## 4. The implementation body for inland waterways[^c-5156a4f90d910c6b8fda77236caaca32]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5156a4f90d910c6b8fda77236caaca32]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1999/859/article/4) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-5156a4f90d910c6b8fda77236caaca32]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1999/859/article/4) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

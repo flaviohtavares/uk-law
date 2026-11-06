@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — MODIFICATION OF COMPENSATION AND COMPULSORY PURCHASE ENACTMENTS FOR CREATION OF NEW RIGHTS[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+## SCHEDULE 6 — MODIFICATION OF COMPENSATION AND COMPULSORY PURCHASE ENACTMENTS FOR CREATION OF NEW RIGHTS[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 *Extent: E+W+S*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Article 27
 
-### Compensation enactments[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### Compensation enactments[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
-**1.**[^key-065c7c1971b34bf6ea9858ab4bf41b70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-065c7c1971b34bf6ea9858ab4bf41b70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-065c7c1971b34bf6ea9858ab4bf41b70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-065c7c1971b34bf6ea9858ab4bf41b70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-065c7c1971b34bf6ea9858ab4bf41b70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-065c7c1971b34bf6ea9858ab4bf41b70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Application of Part 1 of the 1965 Act[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### Application of Part 1 of the 1965 Act[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
-**4.**[^key-065c7c1971b34bf6ea9858ab4bf41b70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-065c7c1971b34bf6ea9858ab4bf41b70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-065c7c1971b34bf6ea9858ab4bf41b70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-065c7c1971b34bf6ea9858ab4bf41b70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-065c7c1971b34bf6ea9858ab4bf41b70]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/218) revoked (3.6.2026) by [The A47 Wansford to Sutton Development Consent (Revocation) Order 2026 (S.I. 2026/579)](https://www.legislation.gov.uk/uksi/2026/579), [arts. 1](https://www.legislation.gov.uk/uksi/2026/579/article/1), [2](https://www.legislation.gov.uk/uksi/2026/579/article/2)
+[^c-065c7c1971b34bf6ea9858ab4bf41b70]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/218) revoked (3.6.2026) by [The A47 Wansford to Sutton Development Consent (Revocation) Order 2026 (S.I. 2026/579)](https://www.legislation.gov.uk/uksi/2026/579), [arts. 1](https://www.legislation.gov.uk/uksi/2026/579/article/1), [2](https://www.legislation.gov.uk/uksi/2026/579/article/2)

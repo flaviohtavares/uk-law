@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Joint determination of minimum requirements[^key-3921e10d9f1f5799aa73155aa02aec80]
+## 136. Joint determination of minimum requirements[^c-3921e10d9f1f5799aa73155aa02aec80]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3921e10d9f1f5799aa73155aa02aec80]: Textual amendment: [Art. 136](https://www.legislation.gov.uk/uksi/2014/3348/article/136) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 77](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/77); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3921e10d9f1f5799aa73155aa02aec80]: Textual amendment: [Art. 136](https://www.legislation.gov.uk/uksi/2014/3348/article/136) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 77](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/77); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

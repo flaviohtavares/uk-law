@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Consultation by Ministers[^key-5632b11dadf790c6ee5f85b1f73da3fa]
+## 5. Consultation by Ministers[^c-5632b11dadf790c6ee5f85b1f73da3fa]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5632b11dadf790c6ee5f85b1f73da3fa]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2010/16/section/5) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-5632b11dadf790c6ee5f85b1f73da3fa]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2010/16/section/5) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

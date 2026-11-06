@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Commencement[^key-233bad933114602dd750a506c8de34e3]
+## 2. Commencement[^c-233bad933114602dd750a506c8de34e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,10 +31,10 @@ summary: ''
   - (ii) to give directions or guidance, or
   - (iii) to issue statements of policy.
 
-(2) So far as not already in force by virtue of paragraph (1), these Regulations come into force on 1st November 2024[^key-e763d22dea48484e83c24c29f1bbcc73] (“the main commencement day”).
+(2) So far as not already in force by virtue of paragraph (1), these Regulations come into force on 1st November 2024[^c-e763d22dea48484e83c24c29f1bbcc73] (“the main commencement day”).
 
 ## Annotations
 
-[^key-233bad933114602dd750a506c8de34e3]: Commencement: Reg. 2 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/a)
+[^c-233bad933114602dd750a506c8de34e3]: Commencement: Reg. 2 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/a)
 
-[^key-e763d22dea48484e83c24c29f1bbcc73]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/2) substituted (23.5.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2/a), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2)
+[^c-e763d22dea48484e83c24c29f1bbcc73]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/2) substituted (23.5.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2/a), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2)

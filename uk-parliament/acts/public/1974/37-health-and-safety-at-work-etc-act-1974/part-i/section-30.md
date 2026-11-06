@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Agricultural health and safety regulations.[^key-0fe72d9a6077d9cfd7b83aac041509d3][^c7810521][^c7810531][^c20459481][^c7810511]
+## 30. Agricultural health and safety regulations.[^c-0fe72d9a6077d9cfd7b83aac041509d3][^c7810521][^c7810531][^c20459481][^c7810511]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ and for enabling persons aggrieved by any such proposed decision to make represe
 
 ## Annotations
 
-[^key-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
+[^c-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
 
 [^c7810521]: Modification: Ss. 1–25, 26, 27, 28, 30, 33, 34–59, 80, 81 and 82 applied by [S.I. 1989/840](https://www.legislation.gov.uk/uksi/1989/840), [arts. 2–10](https://www.legislation.gov.uk/uksi/1989/840/article/2)
 

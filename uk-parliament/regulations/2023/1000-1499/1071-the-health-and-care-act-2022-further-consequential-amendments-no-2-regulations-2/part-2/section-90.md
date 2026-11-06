@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Amendment of the Trade Union (Facility Time Publication Requirements) Regulations 2017[^key-43415da8ad3e12c937b2a6f9456b23fc]
+## 90. Amendment of the Trade Union (Facility Time Publication Requirements) Regulations 2017[^c-43415da8ad3e12c937b2a6f9456b23fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-43415da8ad3e12c937b2a6f9456b23fc]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/2023/1071/regulation/90) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-43415da8ad3e12c937b2a6f9456b23fc]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/2023/1071/regulation/90) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00073]: Footnote: [S.I. 2017/328](https://www.legislation.gov.uk/uksi/2017/328), to which there are amendments not relevant to these Regulations.

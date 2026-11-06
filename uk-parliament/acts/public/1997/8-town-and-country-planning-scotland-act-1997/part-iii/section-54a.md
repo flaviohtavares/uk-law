@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54A. Making and alteration of schemes[^key-3f525e4a6701fb9d3bbf93e49d5c9010]
+## 54A. Making and alteration of schemes[^c-3f525e4a6701fb9d3bbf93e49d5c9010]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Schedule 5A—
 
 ## Annotations
 
-[^key-3f525e4a6701fb9d3bbf93e49d5c9010]: Textual amendment: [Ss. 54A-54F](https://www.legislation.gov.uk/ukpga/1997/8/section/54A) and cross-heading inserted (5.12.2024) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 15(2)](https://www.legislation.gov.uk/asp/2019/13/section/15/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/b)
+[^c-3f525e4a6701fb9d3bbf93e49d5c9010]: Textual amendment: [Ss. 54A-54F](https://www.legislation.gov.uk/ukpga/1997/8/section/54A) and cross-heading inserted (5.12.2024) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 15(2)](https://www.legislation.gov.uk/asp/2019/13/section/15/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/b)

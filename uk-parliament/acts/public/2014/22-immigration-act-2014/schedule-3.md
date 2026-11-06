@@ -24,7 +24,7 @@ Section 20
 
 ### Social housing
 
-**1.**[^key-cc163ca06c775229ab85c4949c85a9a8][^key-e835bb2962cbd615652820226e6a5700] (1) An agreement that grants a right of occupation in social housing.
+**1.**[^c-cc163ca06c775229ab85c4949c85a9a8][^c-e835bb2962cbd615652820226e6a5700] (1) An agreement that grants a right of occupation in social housing.
 
 (2) “**Social housing**” means accommodation provided to a person by virtue of a relevant provision.
 
@@ -40,7 +40,7 @@ Section 20
 
 (4) Accommodation provided to a person by virtue of a relevant provision includes accommodation provided in pursuance of arrangements made under any such provision.
 
-**2.**[^key-ced0477f275764fcff1bc1dbb07a3fc7][^key-2bea115ce250a04db20fd2519d8f536e] (1) This paragraph applies for the purposes of paragraph 1.
+**2.**[^c-ced0477f275764fcff1bc1dbb07a3fc7][^c-2bea115ce250a04db20fd2519d8f536e] (1) This paragraph applies for the purposes of paragraph 1.
 
 (2) An allocation of housing accommodation by a local housing authority in England to a person who is already—
 
@@ -61,7 +61,7 @@ is to be treated as an allocation of housing accommodation by virtue of Part 6 o
 
 ### Care homes
 
-**3.**[^key-e3e4b40054ff4e4ae93a64ae4d3e21fe][^key-86fbcb5ab9d8a391eef01df44b68b789] (1) An agreement that grants a right of occupation in a care home.
+**3.**[^c-e3e4b40054ff4e4ae93a64ae4d3e21fe][^c-86fbcb5ab9d8a391eef01df44b68b789] (1) An agreement that grants a right of occupation in a care home.
 
 (2) “**Care home**” means—
 
@@ -72,7 +72,7 @@ is to be treated as an allocation of housing accommodation by virtue of Part 6 o
 
 ### Hospitals and hospices
 
-**4.**[^key-36f1b323155661114afaebaaa735078e][^key-4850d1025afcbece538fe20e2abddc24] (1) An agreement that grants a right of occupation of accommodation in a hospital or hospice.
+**4.**[^c-36f1b323155661114afaebaaa735078e][^c-4850d1025afcbece538fe20e2abddc24] (1) An agreement that grants a right of occupation of accommodation in a hospital or hospice.
 
 (2) “Hospital”—
 
@@ -85,7 +85,7 @@ is to be treated as an allocation of housing accommodation by virtue of Part 6 o
 
 ### Other accommodation relating to healthcare provision
 
-**5.**[^key-ffca25835dc4f3cff661ee948fb9120e][^key-e2a2df1079eb574383506c10e9e889b0] (1) An agreement—
+**5.**[^c-ffca25835dc4f3cff661ee948fb9120e][^c-e2a2df1079eb574383506c10e9e889b0] (1) An agreement—
 
 - (a) under which accommodation is provided to a person as a result of a duty imposed on a relevant NHS body by an enactment, and
 - (b) which is not excluded by another provision of this Schedule.
@@ -93,15 +93,15 @@ is to be treated as an allocation of housing accommodation by virtue of Part 6 o
 (2) “**Relevant NHS body**” means—
 
 - (a) in relation to England—
-  - (i)[^key-30fb4b6213f8b4b476152af2a7baedea] an integrated care board, or
-  - (ii) NHS England[^key-eac9eed653e3a6b9ec8a5b1cf26b11b3];
+  - (i)[^c-30fb4b6213f8b4b476152af2a7baedea] an integrated care board, or
+  - (ii) NHS England[^c-eac9eed653e3a6b9ec8a5b1cf26b11b3];
 - (b) in relation to Wales, a local health board;
 - (c) in relation to Scotland, a health board constituted by order made under section 2 of the National Health Service (Scotland) Act 1978;
 - (d) in relation to Northern Ireland, a Health and Social Services trust.
 
 ### Hostels and refuges
 
-**6.**[^key-3d4ddd282e028f652ab27b1447bf9ff1][^key-00c1d37d503d05a112a5ea373ea96750] (1) An agreement that grants a right of occupation of accommodation in a hostel or refuge.
+**6.**[^c-3d4ddd282e028f652ab27b1447bf9ff1][^c-00c1d37d503d05a112a5ea373ea96750] (1) An agreement that grants a right of occupation of accommodation in a hostel or refuge.
 
 (2) “**Hostel**” means a building which satisfies the following two conditions.
 
@@ -138,7 +138,7 @@ is to be treated as an allocation of housing accommodation by virtue of Part 6 o
 
 ### Accommodation from or involving local authorities
 
-**7.**[^key-3be9d4fd6e9e787d0d9b5d0a7908a5ac][^key-9aa9ed0089430ac72effe85b4ed0c38f] (1) An agreement—
+**7.**[^c-3be9d4fd6e9e787d0d9b5d0a7908a5ac][^c-9aa9ed0089430ac72effe85b4ed0c38f] (1) An agreement—
 
 - (a) under which accommodation is provided to a person as a result of a duty or relevant power that is imposed or conferred on a local authority by an enactment (whether or not provided by the local authority), and
 - (b) which is not excluded by another provision of this Schedule.
@@ -153,7 +153,7 @@ is to be treated as an allocation of housing accommodation by virtue of Part 6 o
 
 ### Accommodation provided by virtue of immigration provisions
 
-**8.**[^key-f6c6d0fcb23f54fe6f6cc06ddf989cf2][^key-d08986c5e97196507c40e6c9db346113] An agreement granting a right of occupation of accommodation that is provided to an individual by virtue of any of the following provisions of the Immigration and Asylum Act 1999—
+**8.**[^c-f6c6d0fcb23f54fe6f6cc06ddf989cf2][^c-d08986c5e97196507c40e6c9db346113] An agreement granting a right of occupation of accommodation that is provided to an individual by virtue of any of the following provisions of the Immigration and Asylum Act 1999—
 
 - (a) section 4 (provision of accommodation to persons granted temporary admission etc);
 - (b) section 95 (provision of support to asylum seekers etc);
@@ -161,11 +161,11 @@ is to be treated as an allocation of housing accommodation by virtue of Part 6 o
 
 ### Mobile homes
 
-**9.**[^key-d584b22aca88260d4cb2809b405a52eb][^key-3c1376fbf7a969a81067294ebcd82f78] An agreement to which the Mobile Homes Act 1983 applies.
+**9.**[^c-d584b22aca88260d4cb2809b405a52eb][^c-3c1376fbf7a969a81067294ebcd82f78] An agreement to which the Mobile Homes Act 1983 applies.
 
 ### Tied accommodation
 
-**10.**[^key-673b54591efcc7724284a3dfac878acd][^key-ea9fb33418a1126e8a3d12c43c176cfe] (1) An agreement that grants a right of occupation of tied accommodation.
+**10.**[^c-673b54591efcc7724284a3dfac878acd][^c-ea9fb33418a1126e8a3d12c43c176cfe] (1) An agreement that grants a right of occupation of tied accommodation.
 
 (2) “**Tied accommodation**” means accommodation that is provided—
 
@@ -176,7 +176,7 @@ is to be treated as an allocation of housing accommodation by virtue of Part 6 o
 
 ### Student accommodation
 
-**11.**[^key-ac6a97a35a5f1c7f0208aff1373cb871][^key-3726feffff8491cc9f1976d199e48d3d] (1) An agreement that grants a right of occupation in a building which—
+**11.**[^c-ac6a97a35a5f1c7f0208aff1373cb871][^c-3726feffff8491cc9f1976d199e48d3d] (1) An agreement that grants a right of occupation in a building which—
 
 - (a) is used wholly or mainly for the accommodation of students, and
 - (b) satisfies either of the following conditions.
@@ -194,11 +194,11 @@ is to be treated as an allocation of housing accommodation by virtue of Part 6 o
 - (a) in relation to England and Wales or Scotland, has the same meaning as in paragraph 4 of Schedule 1 to the Local Government Finance Act 1992;
 - (b) in relation to Northern Ireland, means a person who satisfies such conditions as to education or training as may be specified in regulations made under Article 42(2A) of the Rates (Northern Ireland) Order 1977 (S.I. 1977/2157 (N.I. 28)).
 
-**12.**[^key-1b12696b8367356113969f5afb8aebc5][^key-1a3176f09840e6dae9d6ba6c40c3866d] An agreement under which accommodation is provided to a student who has been nominated to occupy it by an institution or body of the kind mentioned in paragraph 11(2).
+**12.**[^c-1b12696b8367356113969f5afb8aebc5][^c-1a3176f09840e6dae9d6ba6c40c3866d] An agreement under which accommodation is provided to a student who has been nominated to occupy it by an institution or body of the kind mentioned in paragraph 11(2).
 
 ### Long leases
 
-**13.**[^key-d098ee7ecaa17592b975620ff6385315][^key-94280a639c17025ca7d05967d0af9514] (1) An agreement that—
+**13.**[^c-d098ee7ecaa17592b975620ff6385315][^c-94280a639c17025ca7d05967d0af9514] (1) An agreement that—
 
 - (a) is, or is for, a long lease, or
 - (b) grants a right of occupation for a term of 7 years or more.
@@ -212,7 +212,7 @@ is to be treated as an allocation of housing accommodation by virtue of Part 6 o
 
 ### Interpretation
 
-**14.**[^key-e57c66910e827e43d00b28dc32dc25fb][^key-fab9e980e866597efad292fdae132089] (1) This paragraph applies for the purposes of this Schedule.
+**14.**[^c-e57c66910e827e43d00b28dc32dc25fb][^c-fab9e980e866597efad292fdae132089] (1) This paragraph applies for the purposes of this Schedule.
 
 (2) “**Building**” includes a part of a building.
 
@@ -236,64 +236,64 @@ is to be treated as an allocation of housing accommodation by virtue of Part 6 o
 
 ## Annotations
 
-[^key-cc163ca06c775229ab85c4949c85a9a8]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/1) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
+[^c-cc163ca06c775229ab85c4949c85a9a8]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/1) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
 
-[^key-e835bb2962cbd615652820226e6a5700]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/1) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-e835bb2962cbd615652820226e6a5700]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/1) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
 
-[^key-ced0477f275764fcff1bc1dbb07a3fc7]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/2) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
+[^c-ced0477f275764fcff1bc1dbb07a3fc7]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/2) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
 
-[^key-2bea115ce250a04db20fd2519d8f536e]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/2) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-2bea115ce250a04db20fd2519d8f536e]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/2) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
 
-[^key-e3e4b40054ff4e4ae93a64ae4d3e21fe]: Commencement: Sch. 3 para. 3 in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
+[^c-e3e4b40054ff4e4ae93a64ae4d3e21fe]: Commencement: Sch. 3 para. 3 in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
 
-[^key-86fbcb5ab9d8a391eef01df44b68b789]: Commencement: Sch. 3 para. 3 in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-86fbcb5ab9d8a391eef01df44b68b789]: Commencement: Sch. 3 para. 3 in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
 
 [^M_F_0527a5ac-0de9-4709-d2a9-3a7149a5b646]: Textual amendment: Sch. 3 para. 3(2)(aa) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/uksi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/195/regulation/2/1), [46(b)](https://www.legislation.gov.uk/uksi/2018/195/regulation/46/b)
 
-[^key-36f1b323155661114afaebaaa735078e]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/4) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
+[^c-36f1b323155661114afaebaaa735078e]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/4) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
 
-[^key-4850d1025afcbece538fe20e2abddc24]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/4) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-4850d1025afcbece538fe20e2abddc24]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/4) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
 
-[^key-ffca25835dc4f3cff661ee948fb9120e]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/5) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
+[^c-ffca25835dc4f3cff661ee948fb9120e]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/5) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
 
-[^key-e2a2df1079eb574383506c10e9e889b0]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/5) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-e2a2df1079eb574383506c10e9e889b0]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/5) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
 
-[^key-30fb4b6213f8b4b476152af2a7baedea]: Textual amendment: [Sch. 3 para. 5(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/5/2/a/i) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 208](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/208); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-30fb4b6213f8b4b476152af2a7baedea]: Textual amendment: [Sch. 3 para. 5(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/5/2/a/i) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 208](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/208); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-eac9eed653e3a6b9ec8a5b1cf26b11b3]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-eac9eed653e3a6b9ec8a5b1cf26b11b3]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-3d4ddd282e028f652ab27b1447bf9ff1]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/6) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
+[^c-3d4ddd282e028f652ab27b1447bf9ff1]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/6) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
 
-[^key-00c1d37d503d05a112a5ea373ea96750]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/6) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-00c1d37d503d05a112a5ea373ea96750]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/6) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
 
-[^key-3be9d4fd6e9e787d0d9b5d0a7908a5ac]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/7) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
+[^c-3be9d4fd6e9e787d0d9b5d0a7908a5ac]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/7) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
 
-[^key-9aa9ed0089430ac72effe85b4ed0c38f]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/7) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-9aa9ed0089430ac72effe85b4ed0c38f]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/7) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
 
-[^key-f6c6d0fcb23f54fe6f6cc06ddf989cf2]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/8) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
+[^c-f6c6d0fcb23f54fe6f6cc06ddf989cf2]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/8) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
 
-[^key-d08986c5e97196507c40e6c9db346113]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/8) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-d08986c5e97196507c40e6c9db346113]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/8) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
 
-[^key-d584b22aca88260d4cb2809b405a52eb]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/9) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
+[^c-d584b22aca88260d4cb2809b405a52eb]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/9) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
 
-[^key-3c1376fbf7a969a81067294ebcd82f78]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/9) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-3c1376fbf7a969a81067294ebcd82f78]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/9) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
 
-[^key-673b54591efcc7724284a3dfac878acd]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/10) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
+[^c-673b54591efcc7724284a3dfac878acd]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/10) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
 
-[^key-ea9fb33418a1126e8a3d12c43c176cfe]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/10) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-ea9fb33418a1126e8a3d12c43c176cfe]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/10) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
 
-[^key-ac6a97a35a5f1c7f0208aff1373cb871]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/11) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
+[^c-ac6a97a35a5f1c7f0208aff1373cb871]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/11) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
 
-[^key-3726feffff8491cc9f1976d199e48d3d]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/11) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-3726feffff8491cc9f1976d199e48d3d]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/11) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
 
-[^key-1b12696b8367356113969f5afb8aebc5]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/12) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
+[^c-1b12696b8367356113969f5afb8aebc5]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/12) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
 
-[^key-1a3176f09840e6dae9d6ba6c40c3866d]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/12) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-1a3176f09840e6dae9d6ba6c40c3866d]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/12) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
 
-[^key-d098ee7ecaa17592b975620ff6385315]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/13) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
+[^c-d098ee7ecaa17592b975620ff6385315]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/13) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
 
-[^key-94280a639c17025ca7d05967d0af9514]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/13) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-94280a639c17025ca7d05967d0af9514]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/13) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
 
-[^key-e57c66910e827e43d00b28dc32dc25fb]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/14) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
+[^c-e57c66910e827e43d00b28dc32dc25fb]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/14) in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m)
 
-[^key-fab9e980e866597efad292fdae132089]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/14) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-fab9e980e866597efad292fdae132089]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/14) in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)

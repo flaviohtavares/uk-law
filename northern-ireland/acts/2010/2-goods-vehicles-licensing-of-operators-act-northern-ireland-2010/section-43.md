@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Evidence by certificate[^key-9f31980b0739460a6256a152a962e0a7]
+## 43. Evidence by certificate[^c-9f31980b0739460a6256a152a962e0a7]
 
 *Extent: N.I.*
 
@@ -32,13 +32,13 @@ summary: ''
 - (f) that a person is by virtue of an order of the Department disqualified from holding or obtaining an operator's licence, either indefinitely or for a specified period;
 - (g) that a direction, having effect indefinitely or for a specified period, has been given by the Department under section 25(3) in relation to any person;
 - (h) that an operator's licence was on any date or during any specified period suspended by virtue of a direction given by the Department under section 23(1); or
-- (ha)[^key-04015a79a83737ddaa39814d4e79dc1a] that a person is by virtue of an order of the Department disqualified from acting as a transport manager, either indefinitely or for a specified period;
+- (ha)[^c-04015a79a83737ddaa39814d4e79dc1a] that a person is by virtue of an order of the Department disqualified from acting as a transport manager, either indefinitely or for a specified period;
 - (i) that, by virtue of a direction given by the Department under regulations made under section 48(2)(a), an operator's licence is to be treated as having been suspended on any date or during any specified period.
 
 (3) Any such certificate which purports to be issued by the Department shall be taken to be so issued unless the contrary is proved.
 
 ## Annotations
 
-[^key-9f31980b0739460a6256a152a962e0a7]: Commencement: S. 43 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-9f31980b0739460a6256a152a962e0a7]: Commencement: S. 43 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
 
-[^key-04015a79a83737ddaa39814d4e79dc1a]: Textual amendment: [S. 43(2)(ha)](https://www.legislation.gov.uk/nia/2010/2/section/43/2/ha) inserted (1.7.2012) by [The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257)](https://www.legislation.gov.uk/nisr/2012/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/1), [17(13)](https://www.legislation.gov.uk/nisr/2012/257/regulation/17/13)
+[^c-04015a79a83737ddaa39814d4e79dc1a]: Textual amendment: [S. 43(2)(ha)](https://www.legislation.gov.uk/nia/2010/2/section/43/2/ha) inserted (1.7.2012) by [The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257)](https://www.legislation.gov.uk/nisr/2012/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/1), [17(13)](https://www.legislation.gov.uk/nisr/2012/257/regulation/17/13)

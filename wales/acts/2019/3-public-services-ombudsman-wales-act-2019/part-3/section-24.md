@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Publicising reports[^key-538d75a6c9c7ce22730eab676fd91143]
+## 24. Publicising reports[^c-538d75a6c9c7ce22730eab676fd91143]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-538d75a6c9c7ce22730eab676fd91143]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2019/3/section/24) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-538d75a6c9c7ce22730eab676fd91143]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2019/3/section/24) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81B. Determination of claim that opportunity to participate not afforded[^key-cf2b739efe3da882d220555305c3d5d9]
+## 81B. Determination of claim that opportunity to participate not afforded[^c-cf2b739efe3da882d220555305c3d5d9]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf2b739efe3da882d220555305c3d5d9]: Textual amendment: S. 81B inserted (26.7.2021) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 25(3)](https://www.legislation.gov.uk/asp/2020/16/section/25/3), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/c)
+[^c-cf2b739efe3da882d220555305c3d5d9]: Textual amendment: S. 81B inserted (26.7.2021) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 25(3)](https://www.legislation.gov.uk/asp/2020/16/section/25/3), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/c)

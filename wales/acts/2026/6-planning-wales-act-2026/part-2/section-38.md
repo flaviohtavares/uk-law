@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Power to require plan-making authority to pay costs of independent examination[^key-5679a78a59558ed089f4ec944b40436d]
+## 38. Power to require plan-making authority to pay costs of independent examination[^c-5679a78a59558ed089f4ec944b40436d]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5679a78a59558ed089f4ec944b40436d]: Commencement: S. 38 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5679a78a59558ed089f4ec944b40436d]: Commencement: S. 38 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Duty to give reasons for and to explain effect of sentence[^key-c9ea52f20e3d56fd57eaf11619ad7c98]
+## 52. Duty to give reasons for and to explain effect of sentence[^c-c9ea52f20e3d56fd57eaf11619ad7c98]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ the court must state why it is of that opinion.
 
 ## Annotations
 
-[^key-c9ea52f20e3d56fd57eaf11619ad7c98]: Commencement: S. 52 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c9ea52f20e3d56fd57eaf11619ad7c98]: Commencement: S. 52 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 151. Amount of lump sum death grant payable on death of active member[^key-ab84aba68dcb1da093fc17ccb7529756]
+## 151. Amount of lump sum death grant payable on death of active member[^c-ab84aba68dcb1da093fc17ccb7529756]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab84aba68dcb1da093fc17ccb7529756]: Commencement: Reg. 151 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ab84aba68dcb1da093fc17ccb7529756]: Commencement: Reg. 151 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

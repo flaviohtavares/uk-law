@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Office-holders etc.[^key-d5fd537c284a7e4d0e54399cc81bb6c1]
+## 13. Office-holders etc.[^c-d5fd537c284a7e4d0e54399cc81bb6c1]
 
 *Extent: N.I.*
 
@@ -89,6 +89,6 @@ but not to a political office or a case where regulation 7 (applicants and emplo
 
 ## Annotations
 
-[^key-d5fd537c284a7e4d0e54399cc81bb6c1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/261/regulation/13) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-d5fd537c284a7e4d0e54399cc81bb6c1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/261/regulation/13) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00010]: Footnote: [1958 c. 21](https://www.legislation.gov.uk/ukpga/1958/21)

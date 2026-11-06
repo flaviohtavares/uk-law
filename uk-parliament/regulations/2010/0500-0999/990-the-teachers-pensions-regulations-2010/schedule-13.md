@@ -26,8 +26,8 @@ Regulation 138(3)
 
 **1.** In this Schedule—
 
-- “**the revoked instruments**” means the regulations revoked by [^key-8dead53cb236049d62396e1f48f62054]... these Regulations; and
-- “**the commencement date**” means 1st September 2010.[^key-0f4c1f0c3e5c4eb40e4aef64f3f2c1c7]...
+- “**the revoked instruments**” means the regulations revoked by [^c-8dead53cb236049d62396e1f48f62054]... these Regulations; and
+- “**the commencement date**” means 1st September 2010.[^c-0f4c1f0c3e5c4eb40e4aef64f3f2c1c7]...
 
 ### PART 2 — General
 
@@ -67,7 +67,7 @@ Regulation 138(3)
 
 Despite the revocation of Schedule 3 to TPRAR 2006, paragraphs (9) to (11) of regulation C4 of TPR 1997 continue to have effect in relation to elections made or having effect as if made under that regulation before 1st January 2007.
 
-**8.**[^key-37d58c8831d8990d10325756b5c33326] Despite the revocation of TPR 1997, and save as provided in paragraph 8A, Part 1 of Schedule 4 to those Regulations continues to have effect in relation to elections made under regulation C4 of those Regulations before 1st January 2007.
+**8.**[^c-37d58c8831d8990d10325756b5c33326] Despite the revocation of TPR 1997, and save as provided in paragraph 8A, Part 1 of Schedule 4 to those Regulations continues to have effect in relation to elections made under regulation C4 of those Regulations before 1st January 2007.
 
 **8A.** (1) Paragraph 8 does not apply to paragraph 8(6) of Schedule 4 to those Regulations.
 
@@ -87,7 +87,7 @@ Despite the revocation of TPR 1997, Schedule 5 to those Regulations continues to
 
 - (a) for paragraph (7)(b) there were substituted—
 
-  > - (b)[^key-04bf9b181a228df28be3337fb6e4ab7f] the percentage is the aggregate of the rates of contributions set out in paragraph 2 (employees’ contributions) and paragraph 4 (employers’ contributions) of Schedule 3 to the Teachers’ Pensions Regulations 2010.
+  > - (b)[^c-04bf9b181a228df28be3337fb6e4ab7f] the percentage is the aggregate of the rates of contributions set out in paragraph 2 (employees’ contributions) and paragraph 4 (employers’ contributions) of Schedule 3 to the Teachers’ Pensions Regulations 2010.
 
   , and
 - (b) for paragraph (9) there were substituted—
@@ -212,7 +212,7 @@ regulations 26 and 39 do not apply but the following provisions of TPR 1997 appl
 - (ii) regulation G8(2) to (8);
 - (iii) regulation H6.
 
-#### 24. Actuarial Review[^key-0fb59ed9ac69b745d3383328e5abd2bc]
+#### 24. Actuarial Review[^c-0fb59ed9ac69b745d3383328e5abd2bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -222,7 +222,7 @@ Despite the revocation of TPR 1997 Part 1 of Schedule 10 to those Regulations co
 
 #### 26. Person formerly members of the National Health Service Pension Scheme
 
-Despite the revocation of TPR 1997 Part 6 of Schedule 10 to those Regulations continues to have effect in relation to persons to whom that Schedule applied before the commencement date , and a break in pensionable service following the termination of such a person's employment by reason of that person's compulsory redundancy is not “[^key-312ed9acc7555936fc5fb02663c4f0db]**a break in pensionable employment**” for the purposes of paragraph 37(c) of that Part.
+Despite the revocation of TPR 1997 Part 6 of Schedule 10 to those Regulations continues to have effect in relation to persons to whom that Schedule applied before the commencement date , and a break in pensionable service following the termination of such a person's employment by reason of that person's compulsory redundancy is not “[^c-312ed9acc7555936fc5fb02663c4f0db]**a break in pensionable employment**” for the purposes of paragraph 37(c) of that Part.
 
 #### 27. Supplemental
 
@@ -236,16 +236,16 @@ Any provision of TPR 1997 which is referred to in—
 
 ## Annotations
 
-[^key-8dead53cb236049d62396e1f48f62054]: Textual amendment: Word in [Sch. 13 para. 1](https://www.legislation.gov.uk/uksi/2010/990/schedule/13/paragraph/1) omitted (1.4.2011) by virtue of [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 14(a)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/14/a)
+[^c-8dead53cb236049d62396e1f48f62054]: Textual amendment: Word in [Sch. 13 para. 1](https://www.legislation.gov.uk/uksi/2010/990/schedule/13/paragraph/1) omitted (1.4.2011) by virtue of [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 14(a)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/14/a)
 
-[^key-0f4c1f0c3e5c4eb40e4aef64f3f2c1c7]: Textual amendment: [Sch. 13 para. 1](https://www.legislation.gov.uk/uksi/2010/990/schedule/13/paragraph/1) full stop omitted (1.4.2011) by virtue of [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 14(b)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/14/b)
+[^c-0f4c1f0c3e5c4eb40e4aef64f3f2c1c7]: Textual amendment: [Sch. 13 para. 1](https://www.legislation.gov.uk/uksi/2010/990/schedule/13/paragraph/1) full stop omitted (1.4.2011) by virtue of [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 14(b)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/14/b)
 
-[^key-37d58c8831d8990d10325756b5c33326]: Textual amendment: Sch. 13 paras. 8, 8A substituted for Sch. 13 para. 8 (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [29(a)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/29/a)
+[^c-37d58c8831d8990d10325756b5c33326]: Textual amendment: Sch. 13 paras. 8, 8A substituted for Sch. 13 para. 8 (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [29(a)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/29/a)
 
-[^key-04bf9b181a228df28be3337fb6e4ab7f]: Textual amendment: Words in [Sch. 13 para. 11(2)(a)](https://www.legislation.gov.uk/uksi/2010/990/schedule/13/paragraph/11/2/a) substituted (1.4.2013) by [The Teachers’ Pensions (Amendment) Regulations 2013 (S.I. 2013/275)](https://www.legislation.gov.uk/uksi/2013/275), [regs. 1](https://www.legislation.gov.uk/uksi/2013/275/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2013/275/regulation/6/2)
+[^c-04bf9b181a228df28be3337fb6e4ab7f]: Textual amendment: Words in [Sch. 13 para. 11(2)(a)](https://www.legislation.gov.uk/uksi/2010/990/schedule/13/paragraph/11/2/a) substituted (1.4.2013) by [The Teachers’ Pensions (Amendment) Regulations 2013 (S.I. 2013/275)](https://www.legislation.gov.uk/uksi/2013/275), [regs. 1](https://www.legislation.gov.uk/uksi/2013/275/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2013/275/regulation/6/2)
 
 [^c20238481]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30)
 
-[^key-0fb59ed9ac69b745d3383328e5abd2bc]: Textual amendment: [Sch. 13 para. 24](https://www.legislation.gov.uk/uksi/2010/990/schedule/13/paragraph/24) omitted (1.4.2013) by virtue of [The Teachers’ Pensions (Amendment) Regulations 2013 (S.I. 2013/275)](https://www.legislation.gov.uk/uksi/2013/275), [regs. 1](https://www.legislation.gov.uk/uksi/2013/275/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2013/275/regulation/6/3)
+[^c-0fb59ed9ac69b745d3383328e5abd2bc]: Textual amendment: [Sch. 13 para. 24](https://www.legislation.gov.uk/uksi/2010/990/schedule/13/paragraph/24) omitted (1.4.2013) by virtue of [The Teachers’ Pensions (Amendment) Regulations 2013 (S.I. 2013/275)](https://www.legislation.gov.uk/uksi/2013/275), [regs. 1](https://www.legislation.gov.uk/uksi/2013/275/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2013/275/regulation/6/3)
 
-[^key-312ed9acc7555936fc5fb02663c4f0db]: Textual amendment: Words in [Sch. 13 para. 26](https://www.legislation.gov.uk/uksi/2010/990/schedule/13/paragraph/26) inserted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [29(b)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/29/b)
+[^c-312ed9acc7555936fc5fb02663c4f0db]: Textual amendment: Words in [Sch. 13 para. 26](https://www.legislation.gov.uk/uksi/2010/990/schedule/13/paragraph/26) inserted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [29(b)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/29/b)

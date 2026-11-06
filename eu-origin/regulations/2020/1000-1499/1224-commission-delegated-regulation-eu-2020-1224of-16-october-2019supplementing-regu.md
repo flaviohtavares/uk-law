@@ -35,142 +35,142 @@ supplementing Regulation (EU) 2017/2402 of the European Parliament and of the Co
 
 (Text with EEA relevance) (revoked)
 
-[^key-ff185c07c456f165e34f5d65322e52ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff185c07c456f165e34f5d65322e52ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Definitions[^key-ff185c07c456f165e34f5d65322e52ba]
+## Article 1. Definitions[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION 1 — Information to be made available for all securitisations[^key-ff185c07c456f165e34f5d65322e52ba]
+## SECTION 1 — Information to be made available for all securitisations[^c-ff185c07c456f165e34f5d65322e52ba]
 
-### Article 2. Information on underlying exposures[^key-ff185c07c456f165e34f5d65322e52ba]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 3. Information on investor reports[^key-ff185c07c456f165e34f5d65322e52ba]
+### Article 2. Information on underlying exposures[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Information granularity[^key-ff185c07c456f165e34f5d65322e52ba]
+### Article 3. Information on investor reports[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION 2 — Information to be made available for securitisations for which a prospectus has to be drawn up (public securitisations)[^key-ff185c07c456f165e34f5d65322e52ba]
-
-### Article 5. Item codes[^key-ff185c07c456f165e34f5d65322e52ba]
+### Article 4. Information granularity[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Inside information[^key-ff185c07c456f165e34f5d65322e52ba]
+## SECTION 2 — Information to be made available for securitisations for which a prospectus has to be drawn up (public securitisations)[^c-ff185c07c456f165e34f5d65322e52ba]
+
+### Article 5. Item codes[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Information on significant events[^key-ff185c07c456f165e34f5d65322e52ba]
+### Article 6. Inside information[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Information granularity[^key-ff185c07c456f165e34f5d65322e52ba]
+### Article 7. Information on significant events[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION 3 — Common provisions[^key-ff185c07c456f165e34f5d65322e52ba]
-
-### Article 9. Information completeness and consistency[^key-ff185c07c456f165e34f5d65322e52ba]
+### Article 8. Information granularity[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Information timeliness[^key-ff185c07c456f165e34f5d65322e52ba]
+## SECTION 3 — Common provisions[^c-ff185c07c456f165e34f5d65322e52ba]
+
+### Article 9. Information completeness and consistency[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Unique identifiers[^key-ff185c07c456f165e34f5d65322e52ba]
+### Article 10. Information timeliness[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Classifications reporting[^key-ff185c07c456f165e34f5d65322e52ba]
+### Article 11. Unique identifiers[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Entry into force[^key-ff185c07c456f165e34f5d65322e52ba]
+### Article 12. Classifications reporting[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff185c07c456f165e34f5d65322e52ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 13. Entry into force[^c-ff185c07c456f165e34f5d65322e52ba]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ff185c07c456f165e34f5d65322e52ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-ff185c07c456f165e34f5d65322e52ba]
+## ANNEX I[^c-ff185c07c456f165e34f5d65322e52ba]
 
-[^key-ff185c07c456f165e34f5d65322e52ba]**Table 1: European System of Accounts Secure Codes**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-ff185c07c456f165e34f5d65322e52ba]**Table 2: Servicer Watchlist Codes**
+[^c-ff185c07c456f165e34f5d65322e52ba]**Table 1: European System of Accounts Secure Codes**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff185c07c456f165e34f5d65322e52ba]**Table 3: Item types and codes**
+[^c-ff185c07c456f165e34f5d65322e52ba]**Table 2: Servicer Watchlist Codes**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — UNDERLYING EXPOSURES INFORMATION — RESIDENTIAL REAL ESTATE (RRE)[^key-ff185c07c456f165e34f5d65322e52ba]
+[^c-ff185c07c456f165e34f5d65322e52ba]**Table 3: Item types and codes**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — UNDERLYING EXPOSURES INFORMATION — COMMERCIAL REAL ESTATE (CRE)[^key-ff185c07c456f165e34f5d65322e52ba]
+## ANNEX II — UNDERLYING EXPOSURES INFORMATION — RESIDENTIAL REAL ESTATE (RRE)[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — UNDERLYING EXPOSURES INFORMATION — CORPORATE[^key-ff185c07c456f165e34f5d65322e52ba]
+## ANNEX III — UNDERLYING EXPOSURES INFORMATION — COMMERCIAL REAL ESTATE (CRE)[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V — UNDERLYING EXPOSURES INFORMATION — AUTOMOBILE[^key-ff185c07c456f165e34f5d65322e52ba]
+## ANNEX IV — UNDERLYING EXPOSURES INFORMATION — CORPORATE[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VI — UNDERLYING EXPOSURES INFORMATION — CONSUMER[^key-ff185c07c456f165e34f5d65322e52ba]
+## ANNEX V — UNDERLYING EXPOSURES INFORMATION — AUTOMOBILE[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VII — UNDERLYING EXPOSURES INFORMATION — CREDIT CARD[^key-ff185c07c456f165e34f5d65322e52ba]
+## ANNEX VI — UNDERLYING EXPOSURES INFORMATION — CONSUMER[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VIII — UNDERLYING EXPOSURES INFORMATION — LEASING[^key-ff185c07c456f165e34f5d65322e52ba]
+## ANNEX VII — UNDERLYING EXPOSURES INFORMATION — CREDIT CARD[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IX — UNDERLYING EXPOSURES INFORMATION — ESOTERIC[^key-ff185c07c456f165e34f5d65322e52ba]
+## ANNEX VIII — UNDERLYING EXPOSURES INFORMATION — LEASING[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX X — UNDERLYING EXPOSURES INFORMATION – ADD-ON FOR NON-PERFORMING EXPOSURES[^key-ff185c07c456f165e34f5d65322e52ba]
+## ANNEX IX — UNDERLYING EXPOSURES INFORMATION — ESOTERIC[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XI — UNDERLYING EXPOSURES INFORMATION — ASSET-BACKED COMMERCIAL PAPER[^key-ff185c07c456f165e34f5d65322e52ba]
+## ANNEX X — UNDERLYING EXPOSURES INFORMATION – ADD-ON FOR NON-PERFORMING EXPOSURES[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XII — INVESTOR REPORT INFORMATION — NON-ASSET BACKED COMMERCIAL PAPER SECURITISATION[^key-ff185c07c456f165e34f5d65322e52ba]
+## ANNEX XI — UNDERLYING EXPOSURES INFORMATION — ASSET-BACKED COMMERCIAL PAPER[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XIII — INVESTOR REPORT INFORMATION — ASSET BACKED COMMERCIAL PAPER SECURITISATION[^key-ff185c07c456f165e34f5d65322e52ba]
+## ANNEX XII — INVESTOR REPORT INFORMATION — NON-ASSET BACKED COMMERCIAL PAPER SECURITISATION[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XIV — INSIDE INFORMATION OR SIGNIFICANT EVENT INFORMATION — NON-ASSET BACKED COMMERCIAL PAPER SECURITISATION[^key-ff185c07c456f165e34f5d65322e52ba]
+## ANNEX XIII — INVESTOR REPORT INFORMATION — ASSET BACKED COMMERCIAL PAPER SECURITISATION[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XV — INSIDE INFORMATION OR SIGNIFICANT EVENT INFORMATION — ASSET BACKED COMMERCIAL PAPER SECURITISATION[^key-ff185c07c456f165e34f5d65322e52ba]
+## ANNEX XIV — INSIDE INFORMATION OR SIGNIFICANT EVENT INFORMATION — NON-ASSET BACKED COMMERCIAL PAPER SECURITISATION[^c-ff185c07c456f165e34f5d65322e52ba]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX XV — INSIDE INFORMATION OR SIGNIFICANT EVENT INFORMATION — ASSET BACKED COMMERCIAL PAPER SECURITISATION[^c-ff185c07c456f165e34f5d65322e52ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff185c07c456f165e34f5d65322e52ba]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/iv)
+[^c-ff185c07c456f165e34f5d65322e52ba]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/iv)

@@ -32,8 +32,8 @@ summary: ''
 
 (3) See section 7(3) of FA 2008 for provision applying section 3(3) to (7) of FA 2007 in relation to profits for an accounting period any part of which falls in the financial year 2009.
 
-(4) In this section “**ring fence profits**” has the meaning given by section 276 of CTA 2010[^key-25048c21125ddf74d6562d388e6330e9].
+(4) In this section “**ring fence profits**” has the meaning given by section 276 of CTA 2010[^c-25048c21125ddf74d6562d388e6330e9].
 
 ## Annotations
 
-[^key-25048c21125ddf74d6562d388e6330e9]: Textual amendment: Words in [s. 8(4)](https://www.legislation.gov.uk/ukpga/2009/10/section/8/4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 708](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/708) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-25048c21125ddf74d6562d388e6330e9]: Textual amendment: Words in [s. 8(4)](https://www.legislation.gov.uk/ukpga/2009/10/section/8/4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 708](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/708) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

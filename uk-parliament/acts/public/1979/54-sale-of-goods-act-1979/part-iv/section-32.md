@@ -26,8 +26,8 @@ summary: ''
 
 (3) Unless otherwise agreed, where goods are sent by the seller to the buyer by a route involving sea transit, under circumstances in which it is usual to insure, the seller must give such notice to the buyer as may enable him to insure them during their sea transit; and if the seller fails to do so, the goods are at his risk during such sea transit.
 
-(4)[^key-dbc76f1fe3866455cb0551209c0275fc] This section does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in section 29 of that Act).
+(4)[^c-dbc76f1fe3866455cb0551209c0275fc] This section does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in section 29 of that Act).
 
 ## Annotations
 
-[^key-dbc76f1fe3866455cb0551209c0275fc]: Textual amendment: S. 32(4) substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15) , [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5) , [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/21) ; [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630) , [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1) )
+[^c-dbc76f1fe3866455cb0551209c0275fc]: Textual amendment: S. 32(4) substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15) , [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5) , [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/21) ; [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630) , [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1) )

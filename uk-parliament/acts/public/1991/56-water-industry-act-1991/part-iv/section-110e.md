@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110E. Codes under section 110C: minor or urgent revisions[^key-d5e8e4cea2b60431d06ad10a95542d99]
+## 110E. Codes under section 110C: minor or urgent revisions[^c-d5e8e4cea2b60431d06ad10a95542d99]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5e8e4cea2b60431d06ad10a95542d99]: Textual amendment: [Ss. 110A-110J](https://www.legislation.gov.uk/ukpga/1991/56/section/110A) substituted for [s. 110A](https://www.legislation.gov.uk/ukpga/1991/56/section/110A) (1.11.2016 for the substitution of ss. 110A, 110B, 110J, 1.4.2018 for E. for specified purposes, 1.4.2019 for W. in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/9/1), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3) (with [s. 9(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/9/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/9/3)); [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/c/i); [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 3(b)](https://www.legislation.gov.uk/wsi/2017/1288/article/3/b); [S.I. 2018/397](https://www.legislation.gov.uk/uksi/2018/397), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/397/article/2/b)
+[^c-d5e8e4cea2b60431d06ad10a95542d99]: Textual amendment: [Ss. 110A-110J](https://www.legislation.gov.uk/ukpga/1991/56/section/110A) substituted for [s. 110A](https://www.legislation.gov.uk/ukpga/1991/56/section/110A) (1.11.2016 for the substitution of ss. 110A, 110B, 110J, 1.4.2018 for E. for specified purposes, 1.4.2019 for W. in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/9/1), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3) (with [s. 9(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/9/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/9/3)); [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/c/i); [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 3(b)](https://www.legislation.gov.uk/wsi/2017/1288/article/3/b); [S.I. 2018/397](https://www.legislation.gov.uk/uksi/2018/397), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/397/article/2/b)

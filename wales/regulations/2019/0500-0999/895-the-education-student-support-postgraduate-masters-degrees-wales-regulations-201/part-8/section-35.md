@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Absence from the course[^key-30b06ee4832444af1f966d51501bf539]
+## 35. Absence from the course[^c-30b06ee4832444af1f966d51501bf539]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30b06ee4832444af1f966d51501bf539]: Commencement: Reg. 35 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-30b06ee4832444af1f966d51501bf539]: Commencement: Reg. 35 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)

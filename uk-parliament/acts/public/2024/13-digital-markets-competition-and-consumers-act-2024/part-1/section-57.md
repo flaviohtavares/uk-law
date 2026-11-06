@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Duty to report possible mergers etc[^key-804d494573ce5d516b0fb61d549e634f][^key-9be067376608caff1a6fb70d36870902]
+## 57. Duty to report possible mergers etc[^c-804d494573ce5d516b0fb61d549e634f][^c-9be067376608caff1a6fb70d36870902]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-804d494573ce5d516b0fb61d549e634f]: Commencement: S. 57 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-804d494573ce5d516b0fb61d549e634f]: Commencement: S. 57 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-9be067376608caff1a6fb70d36870902]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2024/13/section/57) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-9be067376608caff1a6fb70d36870902]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2024/13/section/57) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

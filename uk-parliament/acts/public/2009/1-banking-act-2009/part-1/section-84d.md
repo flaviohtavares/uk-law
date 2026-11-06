@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84D. Transfer to a bridge bank or Bail-in option: modifications of this Act and other legislation[^key-a0d7a44be39d941c786e623e31308c6c][^key-05f2690b70e4713542241977b2247407]
+## 84D. Transfer to a bridge bank or Bail-in option: modifications of this Act and other legislation[^c-a0d7a44be39d941c786e623e31308c6c][^c-05f2690b70e4713542241977b2247407]
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-7f9b16a654b30e720e3294c23bbf9da9] Where a share transfer instrument makes provision under section 84ZA(2) with respect to a building society, the second stabilisation option is to be exercised by making (in that or a subsequent share transfer instrument) provision under section 12(2)(a)—
+(A1)[^c-7f9b16a654b30e720e3294c23bbf9da9] Where a share transfer instrument makes provision under section 84ZA(2) with respect to a building society, the second stabilisation option is to be exercised by making (in that or a subsequent share transfer instrument) provision under section 12(2)(a)—
 
 - (a) with respect to the successor company, or
 - (b) where provision made under section 84ZA includes provision under subsection (3)(g) of that section, with respect to the successor company or its specified parent undertaking.
@@ -30,12 +30,12 @@ summary: ''
 - (a) with respect to the successor company, or
 - (b) where provision made under section 84A includes provision under subsection (8) of that section, with respect to the successor company or its specified parent undertaking.
 
-(2) For the purpose of the making of provision as mentioned in subsection (A1)(a) or (b) or[^key-f9e48d37caa7f3458ae53b0148a1e66b] provision or proposals as mentioned in subsection (1)(a) or (b)—
+(2) For the purpose of the making of provision as mentioned in subsection (A1)(a) or (b) or[^c-f9e48d37caa7f3458ae53b0148a1e66b] provision or proposals as mentioned in subsection (1)(a) or (b)—
 
 - (a) the Table in section 84 does not apply, and
-- (b) the provisions in the first column of the following Table apply where relevant[^key-11c98e9dcd53c4722c90416179b60756] —
+- (b) the provisions in the first column of the following Table apply where relevant[^c-11c98e9dcd53c4722c90416179b60756] —
   - (i) in relation to the successor company, or
-  - (ii) in a case within subsection (A1)(b) or[^key-631227eaca39b4751f2316b95609a640] (1)(b), in relation to the successor company or its specified parent undertaking,
+  - (ii) in a case within subsection (A1)(b) or[^c-631227eaca39b4751f2316b95609a640] (1)(b), in relation to the successor company or its specified parent undertaking,
 
 as they apply in relation to a bank, but subject to the modifications in the third column of the Table.
 
@@ -45,10 +45,10 @@ Table
 | --- | --- | --- |
 | Section 12A | Bail-in option | Treat references in subsection (4) to securities issued by a specified bank as references to securities issued by the building society, or by the successor company or its specified parent undertaking.<br>For subsection (8) substitute—<br>> (8) Subsection (8ZA) applies where—<br>><br>> - (a) the Bank of England has exercised the power in subsection (4) to transfer securities to a resolution administrator; or<br>> - (b) by virtue of section 84A, 84B or 84C securities of a successor company or a specified parent undertaking are held by—<br>>   - (i) the resolution administrator,<br>>   - (ii) the Bank of England,<br>>   - (iii) a subscriber to the memorandum of association of a company into which the building society is converted in accordance with section 84B, or<br>>   - (iv) a person nominated for the purposes of section 84C(1)(c).<br>><br>> (8ZA) The Bank of England must exercise its functions under this Part (see, in particular, section 48V) with a view to ensuring that any securities—<br>><br>> - (a) held by a person in the capacity of a resolution administrator,<br>> - (b) held by the Bank of England,<br>> - (c) held by a person as a result of being a subscriber to the memorandum of association of a company into which the building society is converted in accordance with section 84B,<br>> - (d) held by a person as a result of being nominated by the Bank of England for the purposes of section 84C(1)(c),<br>><br>> are so held only for so long as is, in the Bank of England’s opinion, appropriate having regard to the special resolution objectives.<br>. |
 | Section 12AA | Bail-in: sequence of write-down and conversion of capital instruments and liabilities | In relation to the result to be achieved, treat any reference to an instrument or liability of the bank as a reference to an instrument or liability of the building society immediately before the making of the first resolution instrument under section 84A in respect of it. |
-| Section 15[^key-6cb52fb29f79c75e46e5980c41c9e45a] | Share transfer instruments | Treat references in subsection (1) to securities issued by a specified bank as references to securities issued by the building society, or by the successor company or its specified parent undertaking. |
+| Section 15[^c-6cb52fb29f79c75e46e5980c41c9e45a] | Share transfer instruments | Treat references in subsection (1) to securities issued by a specified bank as references to securities issued by the building society, or by the successor company or its specified parent undertaking. |
 | Section 17 | Effect of transfer |  |
 | Section 18 | Continuity |  |
-| Section 19[^key-e7dc1e22768a67f2414e25e7d1d3a510] | Conversion and delisting |  |
+| Section 19[^c-e7dc1e22768a67f2414e25e7d1d3a510] | Conversion and delisting |  |
 | Section 20 | Directors and senior managers | Treat references to a director or senior manager of a specified bank as references to a director or senior manager of the building society or of the successor company or its specified parent undertaking.<br>In subsection (1A) treat the reference to a specified bank as a reference to the building society or its successor company. |
 | Section 21 | Ancillary instruments: production, registration etc |  |
 | Section 21 | Incidental provision |  |
@@ -58,7 +58,7 @@ Table
 | Section 30 | Resolution company: share transfers |  |
 | Section 31 | Resolution company: reverse share transfer |  |
 | Section 41A, and any other provision so far as relating to property transfer instruments under section 41A(2) | Transfer of property subsequent to resolution instrument |  |
-| Section 44D and any other provision so far as relating to property transfer instruments under section 44D[^key-5bb1a3478ceb883f695e2e107662f80b] | Transfer of property subsequent to share transfer instrument | Section 44D also applies where the Bank of England has made a share transfer instrument in accordance with section 12(2) which provides for the conversion of the building society under section 84ZA(2). |
+| Section 44D and any other provision so far as relating to property transfer instruments under section 44D[^c-5bb1a3478ceb883f695e2e107662f80b] | Transfer of property subsequent to share transfer instrument | Section 44D also applies where the Bank of England has made a share transfer instrument in accordance with section 12(2) which provides for the conversion of the building society under section 84ZA(2). |
 | Section 48B | Special bail-in provision | The provision that may be made in accordance with section 48B(1)(b) (see also rule 3(a) and (b) of section 48B(5)) includes provision replacing a liability (of any form) of the building society or its successor company with a liability of the successor company’s specified parent undertaking. |
 | Section 48C | Meaning of “protected deposit” |  |
 | Section 48D | General interpretation of section 48B |  |
@@ -81,7 +81,7 @@ Table
 | Section 48Y | Consequences of a replacement valuation | Treat the first reference in subsection (1) to the bank as a reference to the building society. |
 | Section 48Z | Termination rights etc. | This section applies to contracts and other agreements entered into by the building society or by the successor company or its specified parent undertaking. |
 | Section 49 | Compensation orders | Treat references to transferors as including references to the shareholding members of the building society. |
-| Section 52[^key-b47269a51e2064f411b6685d0cc38268] | Transfer to resolution company |  |
+| Section 52[^c-b47269a51e2064f411b6685d0cc38268] | Transfer to resolution company |  |
 | Section 52A | Compensation orders: bail-in option |  |
 | Section 53 | Onward and reverse transfers etc. |  |
 | Section 54 | Independent valuer: compensation scheme order or bail-in compensation order |  |
@@ -96,7 +96,7 @@ Table
 | Section 62 | Procedure |  |
 | Section 62A | Independent valuer: sections 6E and 48X |  |
 | Sections 62B to 62E | Resolution administrator |  |
-| Sections 63, 64 and 66 to 70 where they apply in relation to a share transfer instrument or[^key-7431ec91c306a73b094147c2be99c495] a resolution instrument or in relation to a property transfer instrument under section 41A(2) | Continuity obligations | Treat references in sections 66(1A) and 68(1)(a) to securities issued by the bank as references to securities issued by the building society or by the successor company or its specified parent undertaking. |
+| Sections 63, 64 and 66 to 70 where they apply in relation to a share transfer instrument or[^c-7431ec91c306a73b094147c2be99c495] a resolution instrument or in relation to a property transfer instrument under section 41A(2) | Continuity obligations | Treat references in sections 66(1A) and 68(1)(a) to securities issued by the bank as references to securities issued by the building society or by the successor company or its specified parent undertaking. |
 | Section 70A | Suspension of obligations |  |
 | Section 70B | Restriction of security interests |  |
 | Section 70C | Suspension of termination rights |  |
@@ -105,9 +105,9 @@ Table
 | Section 73 | Disputes |  |
 | Section 74 | Tax | This section enables regulations to make provision in relation to the building society, the successor company or its specified parent undertaking. |
 | Section 75 | Power to change law | Treat the reference in subsection (5)(b) to building societies as including a reference to successor companies and their specified parent undertakings. |
-| Section 78[^key-87c96bd4f1a8af43a3a56ca6c2db4632] | Public funds: general |  |
+| Section 78[^c-87c96bd4f1a8af43a3a56ca6c2db4632] | Public funds: general |  |
 | Section 78A | Pre-conditions for financial assistance: duty of Bank to give information |  |
-| Section 79[^key-b4decc51a2fbe7637a2f939435ad24ce] | Public funds: resolution company | Treat the reference in subsection (1) to a bank as a reference to a building society or its successor company. |
+| Section 79[^c-b4decc51a2fbe7637a2f939435ad24ce] | Public funds: resolution company | Treat the reference in subsection (1) to a bank as a reference to a building society or its successor company. |
 | Section 80 | Resolution company: report | Treat the reference in subsection (1) to a bank as a reference to a building society or its successor company. |
 | Section 80A | Transfer for bail-in purposes: report | Treat the reference in subsection (1) to a bank as a reference to the building society. |
 | Section 81A | Accounting information to be included in reports under sections 80, 80A(2)(b) and 81 |  |
@@ -119,7 +119,7 @@ Table
 (3) Any statutory instrument made under a provision specified in the first column of the Table in subsection (2) applies—
 
 - (a) to the successor company, or
-- (b) in a case within subsection (A1)(b) or[^key-b88b204d9ba0d2c1fb45d7cbeb585265] (1)(b), to the successor company or the specified parent undertaking,
+- (b) in a case within subsection (A1)(b) or[^c-b88b204d9ba0d2c1fb45d7cbeb585265] (1)(b), to the successor company or the specified parent undertaking,
 
 as it applies in relation to a bank, but subject to modifications corresponding to those applying to the provision under which it is made and as if references to a provision modified by subsection (2) or (5) were references to that provision as so modified.
 
@@ -136,7 +136,7 @@ as it applies in relation to a bank, but subject to modifications corresponding 
 - (b) section 81CA applies as if references to a banking group company were references to a subsidiary of the building society or of the successor company; and
 - (c) section 81D (interpretation: “banking group company”) does not apply.
 
-(5A)[^key-9d1ed1a143b64a7ddfc8b8378fc0a78e] Where—
+(5A)[^c-9d1ed1a143b64a7ddfc8b8378fc0a78e] Where—
 
 - (a) the third stabilisation option is exercised in connection with the fourth stabilisation option in respect of a building society, and
 - (b) before the third stabilisation option is exercised—
@@ -147,56 +147,56 @@ the references to the bank in section 12ZA(1)(a) and any other provision so far 
 
 (6) Sections 97 to 102D of the Building Societies Act 1986 (transfer of business of building society to commercial company) do not apply where
 
-- (a)[^key-211687b2b39c59ce762f5574f3f2572c] a share transfer instrument makes provision under section 84ZA, or
+- (a)[^c-211687b2b39c59ce762f5574f3f2572c] a share transfer instrument makes provision under section 84ZA, or
 - (b) a resolution instrument makes provision under section 84A.
 
 (7) Section 103 of the Building Societies Act 1986 (cancellation of registration) does not apply where
 
-- (a)[^key-330ee11cffa048fadc8cc54b4815878d] a share transfer instrument makes provision under section 84ZA(3)(e), or
+- (a)[^c-330ee11cffa048fadc8cc54b4815878d] a share transfer instrument makes provision under section 84ZA(3)(e), or
 - (b) a resolution instrument makes provision under section 84A(7)(e).
 
 (8) In this section—
 
 - “company” means a company as defined in section 1(1) of the Companies Act 2006 which is a public company limited by shares;
-- “specified parent undertaking” means a company by which in accordance with provision falling within paragraph (g) of section 84ZA(3) or[^key-d7bfe3dbed72610d3d6e80cde70bc232] paragraph (a) or (b) of section 84A(8) the successor company is (or is to be) wholly owned;
-- “the successor company”, in relation to a building society, means the company into which the building society is converted, or to which the property, rights and liabilities of the building society are transferred, as a result of provision made under section 84ZA(2) or[^key-1ac83a176b3091a9fb38324d7ab24d4e] 84A(5).
+- “specified parent undertaking” means a company by which in accordance with provision falling within paragraph (g) of section 84ZA(3) or[^c-d7bfe3dbed72610d3d6e80cde70bc232] paragraph (a) or (b) of section 84A(8) the successor company is (or is to be) wholly owned;
+- “the successor company”, in relation to a building society, means the company into which the building society is converted, or to which the property, rights and liabilities of the building society are transferred, as a result of provision made under section 84ZA(2) or[^c-1ac83a176b3091a9fb38324d7ab24d4e] 84A(5).
 
 ## Annotations
 
-[^key-a0d7a44be39d941c786e623e31308c6c]: Textual amendment: Ss. 84A-84D inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/2/3)
+[^c-a0d7a44be39d941c786e623e31308c6c]: Textual amendment: Ss. 84A-84D inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/2/3)
 
-[^key-05f2690b70e4713542241977b2247407]: Textual amendment: Words in s. 84D heading inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(10)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/10)
+[^c-05f2690b70e4713542241977b2247407]: Textual amendment: Words in s. 84D heading inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(10)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/10)
 
-[^key-7f9b16a654b30e720e3294c23bbf9da9]: Textual amendment: S. 84D(A1) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/2)
+[^c-7f9b16a654b30e720e3294c23bbf9da9]: Textual amendment: S. 84D(A1) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/2)
 
-[^key-f9e48d37caa7f3458ae53b0148a1e66b]: Textual amendment: Words in s. 84D(2) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(3)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/3/a)
+[^c-f9e48d37caa7f3458ae53b0148a1e66b]: Textual amendment: Words in s. 84D(2) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(3)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/3/a)
 
-[^key-11c98e9dcd53c4722c90416179b60756]: Textual amendment: Words in s. 84D(2)(b) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(3)(b)(i)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/3/b/i)
+[^c-11c98e9dcd53c4722c90416179b60756]: Textual amendment: Words in s. 84D(2)(b) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(3)(b)(i)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/3/b/i)
 
-[^key-631227eaca39b4751f2316b95609a640]: Textual amendment: Words in s. 84D(2)(b)(ii) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/3/b/ii)
+[^c-631227eaca39b4751f2316b95609a640]: Textual amendment: Words in s. 84D(2)(b)(ii) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/3/b/ii)
 
-[^key-6cb52fb29f79c75e46e5980c41c9e45a]: Textual amendment: Words in s. 84D(2) Table inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(4)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/4/a)
+[^c-6cb52fb29f79c75e46e5980c41c9e45a]: Textual amendment: Words in s. 84D(2) Table inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(4)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/4/a)
 
-[^key-e7dc1e22768a67f2414e25e7d1d3a510]: Textual amendment: Words in s. 84D(2) Table inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(4)(b)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/4/b)
+[^c-e7dc1e22768a67f2414e25e7d1d3a510]: Textual amendment: Words in s. 84D(2) Table inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(4)(b)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/4/b)
 
-[^key-5bb1a3478ceb883f695e2e107662f80b]: Textual amendment: Words in s. 84D(2) Table inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(4)(c)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/4/c)
+[^c-5bb1a3478ceb883f695e2e107662f80b]: Textual amendment: Words in s. 84D(2) Table inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(4)(c)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/4/c)
 
-[^key-b47269a51e2064f411b6685d0cc38268]: Textual amendment: Words in s. 84D(2) Table inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(4)(d)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/4/d)
+[^c-b47269a51e2064f411b6685d0cc38268]: Textual amendment: Words in s. 84D(2) Table inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(4)(d)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/4/d)
 
-[^key-7431ec91c306a73b094147c2be99c495]: Textual amendment: Words in s. 84D(2) Table inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(4)(e)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/4/e)
+[^c-7431ec91c306a73b094147c2be99c495]: Textual amendment: Words in s. 84D(2) Table inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(4)(e)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/4/e)
 
-[^key-87c96bd4f1a8af43a3a56ca6c2db4632]: Textual amendment: Words in s. 84D(2) Table inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(4)(f)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/4/f)
+[^c-87c96bd4f1a8af43a3a56ca6c2db4632]: Textual amendment: Words in s. 84D(2) Table inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(4)(f)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/4/f)
 
-[^key-b4decc51a2fbe7637a2f939435ad24ce]: Textual amendment: Words in s. 84D(2) Table inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(4)(g)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/4/g)
+[^c-b4decc51a2fbe7637a2f939435ad24ce]: Textual amendment: Words in s. 84D(2) Table inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(4)(g)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/4/g)
 
-[^key-b88b204d9ba0d2c1fb45d7cbeb585265]: Textual amendment: Word in s. 84D(3)(b) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(5)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/5)
+[^c-b88b204d9ba0d2c1fb45d7cbeb585265]: Textual amendment: Word in s. 84D(3)(b) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(5)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/5)
 
-[^key-9d1ed1a143b64a7ddfc8b8378fc0a78e]: Textual amendment: S. 84D(5A) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(6)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/6)
+[^c-9d1ed1a143b64a7ddfc8b8378fc0a78e]: Textual amendment: S. 84D(5A) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(6)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/6)
 
-[^key-211687b2b39c59ce762f5574f3f2572c]: Textual amendment: Words in s. 84D(6) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(7)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/7)
+[^c-211687b2b39c59ce762f5574f3f2572c]: Textual amendment: Words in s. 84D(6) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(7)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/7)
 
-[^key-330ee11cffa048fadc8cc54b4815878d]: Textual amendment: Words in s. 84D(7) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(8)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/8)
+[^c-330ee11cffa048fadc8cc54b4815878d]: Textual amendment: Words in s. 84D(7) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(8)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/8)
 
-[^key-d7bfe3dbed72610d3d6e80cde70bc232]: Textual amendment: Words in s. 84D(8) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(9)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/9/a)
+[^c-d7bfe3dbed72610d3d6e80cde70bc232]: Textual amendment: Words in s. 84D(8) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(9)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/9/a)
 
-[^key-1ac83a176b3091a9fb38324d7ab24d4e]: Textual amendment: Words in s. 84D(8) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(9)(b)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/9/b)
+[^c-1ac83a176b3091a9fb38324d7ab24d4e]: Textual amendment: Words in s. 84D(8) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [22(9)(b)](https://www.legislation.gov.uk/uksi/2016/1239/article/22/9/b)

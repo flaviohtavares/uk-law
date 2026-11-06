@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Administrative removal of material from the register[^key-0872ac4aba1813b9ab3d384c720bb2fa][^key-e74497b7981db1b8fb73d16dc370c9fa]
+## 85. Administrative removal of material from the register[^c-0872ac4aba1813b9ab3d384c720bb2fa][^c-e74497b7981db1b8fb73d16dc370c9fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,6 +85,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0872ac4aba1813b9ab3d384c720bb2fa]: Commencement: S. 85 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-0872ac4aba1813b9ab3d384c720bb2fa]: Commencement: S. 85 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-e74497b7981db1b8fb73d16dc370c9fa]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2023/56/section/85) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z27)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z27)
+[^c-e74497b7981db1b8fb73d16dc370c9fa]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2023/56/section/85) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z27)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z27)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.7. Documents that must be served by specified methods[^key-ba09bf97789468ac438471303acc6880]
+## 4.7. Documents that must be served by specified methods[^c-ba09bf97789468ac438471303acc6880]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ An application or written statement, and notice, under rule 48.9 alleging contem
 
 ## Annotations
 
-[^key-ba09bf97789468ac438471303acc6880]: Commencement: [Rule 4.7](https://www.legislation.gov.uk/uksi/2025/909/rule/4.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ba09bf97789468ac438471303acc6880]: Commencement: [Rule 4.7](https://www.legislation.gov.uk/uksi/2025/909/rule/4.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

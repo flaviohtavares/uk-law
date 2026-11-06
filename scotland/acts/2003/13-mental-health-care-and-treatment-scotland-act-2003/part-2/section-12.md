@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Investigations: further provision[^key-2c0d15fe6c36268e396f5ad6e2c5703c]
+## 12. Investigations: further provision[^c-2c0d15fe6c36268e396f5ad6e2c5703c]
 
 *Extent: S*
 
-(1) The Commission may, if it considers it appropriate to do so, cause an inquiry to be held for the purpose of carrying out an investigation, in relation to any of the circumstances mentioned in section 11(2)[^key-a662e46bc810c8a61cf5fde1955d6738] of this Act, into any case.
+(1) The Commission may, if it considers it appropriate to do so, cause an inquiry to be held for the purpose of carrying out an investigation, in relation to any of the circumstances mentioned in section 11(2)[^c-a662e46bc810c8a61cf5fde1955d6738] of this Act, into any case.
 
 (2) The Commission—
 
@@ -54,6 +54,6 @@ shall be guilty of an offence and liable, on summary conviction, to a fine not e
 
 ## Annotations
 
-[^key-2c0d15fe6c36268e396f5ad6e2c5703c]: Commencement: S. 12 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-2c0d15fe6c36268e396f5ad6e2c5703c]: Commencement: S. 12 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-a662e46bc810c8a61cf5fde1955d6738]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/asp/2003/13/section/12/1) substituted (1.8.2010 for specified purposes, 1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 111(9)](https://www.legislation.gov.uk/asp/2010/8/section/111/9), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-a662e46bc810c8a61cf5fde1955d6738]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/asp/2003/13/section/12/1) substituted (1.8.2010 for specified purposes, 1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 111(9)](https://www.legislation.gov.uk/asp/2010/8/section/111/9), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

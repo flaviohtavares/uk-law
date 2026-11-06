@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32B. Procedure for judicial approval[^key-042176344dc7807a26a670f833ddc4ed]
+## 32B. Procedure for judicial approval[^c-042176344dc7807a26a670f833ddc4ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-042176344dc7807a26a670f833ddc4ed]: Textual amendment: Ss. 32A, 32B and cross-heading inserted (1.11.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2012/9/section/38/1), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/2075/article/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2075/article/6))
+[^c-042176344dc7807a26a670f833ddc4ed]: Textual amendment: Ss. 32A, 32B and cross-heading inserted (1.11.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2012/9/section/38/1), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/2075/article/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2075/article/6))

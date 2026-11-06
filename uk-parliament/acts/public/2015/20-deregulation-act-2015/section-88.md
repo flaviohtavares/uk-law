@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. CLC practitioner services: consequential amendments[^key-567571dfd8ca1b80c269e182d3b7baa7]
+## 88. CLC practitioner services: consequential amendments[^c-567571dfd8ca1b80c269e182d3b7baa7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 19 contains consequential amendments relating to sections 86 and 87.
 
 ## Annotations
 
-[^key-567571dfd8ca1b80c269e182d3b7baa7]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2015/20/section/88) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-567571dfd8ca1b80c269e182d3b7baa7]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2015/20/section/88) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)

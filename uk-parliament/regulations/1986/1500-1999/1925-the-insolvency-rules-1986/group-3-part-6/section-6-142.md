@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.142. Creditor's claim that remuneration is excessive[^key-4b12fb004f335815e4e5b9af473c506c]
+## 6.142. Creditor's claim that remuneration is excessive[^c-4b12fb004f335815e4e5b9af473c506c]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ If the application is not dismissed under this paragraph, the court shall fix a 
 
 ## Annotations
 
-[^key-4b12fb004f335815e4e5b9af473c506c]: Commencement: [Rule 6.142](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.142) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-4b12fb004f335815e4e5b9af473c506c]: Commencement: [Rule 6.142](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.142) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

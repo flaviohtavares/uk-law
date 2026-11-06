@@ -43,7 +43,7 @@ Coming into operation
 
 The Department of Health Social Services and Public Safety, in exercise of the powers conferred by Article 8 (3) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00001] makes the following Order:
 
-## 1. Citation, commencement and Interpretation[^key-fb9ceabe4ad83df48bdba0c58835d3ad]
+## 1. Citation, commencement and Interpretation[^c-fb9ceabe4ad83df48bdba0c58835d3ad]
 
 (1) This Order may be cited as the Health and Personal Social Services (Quality, Improvement and Regulation) (2003 Order) (Specified Agency) Order (Northern Ireland) 2007 and shall come into operation on 30th April 2007.
 
@@ -59,7 +59,7 @@ The Department of Health Social Services and Public Safety, in exercise of the p
 - “the principal Order” means the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003;
 - “Board” means a Health and Social Services Board.
 
-## 2. Specified agency[^key-7cf13df1774ce102052fd6bbfd92c393]
+## 2. Specified agency[^c-7cf13df1774ce102052fd6bbfd92c393]
 
 An Adult Placement Agency is hereby specified for the purposes of Article 8 (2) (f) of the principal Order.
 
@@ -79,6 +79,6 @@ This Order specifies an Adult Placement Agency for purposes of Article 8 (2) of 
 
 [^f00001]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-fb9ceabe4ad83df48bdba0c58835d3ad]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2007/162/article/1) in operation at 30.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/162/article/1/1)
+[^c-fb9ceabe4ad83df48bdba0c58835d3ad]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2007/162/article/1) in operation at 30.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/162/article/1/1)
 
-[^key-7cf13df1774ce102052fd6bbfd92c393]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2007/162/article/2) in operation at 30.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/162/article/1/1)
+[^c-7cf13df1774ce102052fd6bbfd92c393]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2007/162/article/2) in operation at 30.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/162/article/1/1)

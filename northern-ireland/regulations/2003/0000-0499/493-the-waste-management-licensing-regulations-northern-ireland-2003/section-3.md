@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Technical competence[^key-57b0282e8d05d4a21603e118b7a2ec67]
+## 3. Technical competence[^c-57b0282e8d05d4a21603e118b7a2ec67]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57b0282e8d05d4a21603e118b7a2ec67]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/493/regulation/3) substituted (5.12.2022) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/288)](https://www.legislation.gov.uk/nisr/2022/288), [regs. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1), [4](https://www.legislation.gov.uk/nisr/2022/288/regulation/4)
+[^c-57b0282e8d05d4a21603e118b7a2ec67]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/493/regulation/3) substituted (5.12.2022) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/288)](https://www.legislation.gov.uk/nisr/2022/288), [regs. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1), [4](https://www.legislation.gov.uk/nisr/2022/288/regulation/4)

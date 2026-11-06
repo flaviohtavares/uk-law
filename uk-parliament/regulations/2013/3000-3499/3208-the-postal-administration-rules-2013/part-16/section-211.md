@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 211. Application of the 1986 Act[^key-6e85fb7091b98a1dd6725fb3b2ae12f4]
+## 211. Application of the 1986 Act[^c-6e85fb7091b98a1dd6725fb3b2ae12f4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ For the purposes of the Rules, any reference in the 1986 Act to “leave” of t
 
 ## Annotations
 
-[^key-6e85fb7091b98a1dd6725fb3b2ae12f4]: Commencement: [Rule 211](https://www.legislation.gov.uk/uksi/2013/3208/rule/211) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-6e85fb7091b98a1dd6725fb3b2ae12f4]: Commencement: [Rule 211](https://www.legislation.gov.uk/uksi/2013/3208/rule/211) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

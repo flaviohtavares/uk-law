@@ -27,7 +27,7 @@ summary: ''
 - (a) the period of three months beginning with the day after the last day on which the offer can be accepted, or
 - (b) the period of six months beginning with the date of the offer, where that period ends earlier and the offer is one to which subsection (3) below applies.
 
-(3) This subsection applies to an offer if the time allowed for acceptance of the offer is not governed by rules under section 943(1) made in accordance with paragraph 13 or 14 of Schedule 1C[^key-0564e71a1a5bfbbb74ebd6853cfa9a8e].
+(3) This subsection applies to an offer if the time allowed for acceptance of the offer is not governed by rules under section 943(1) made in accordance with paragraph 13 or 14 of Schedule 1C[^c-0564e71a1a5bfbbb74ebd6853cfa9a8e].
 
 (4) At the time when the offeror first gives a notice under section 979 in relation to an offer, he must send to the company—
 
@@ -47,7 +47,7 @@ summary: ''
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine (or both);
 - (b) on summary conviction—
-  - (i) in England and Wales, to imprisonment for a term not exceeding twelve months or to a fine not exceeding the statutory maximum (or both) and, for continued contravention, a daily default fine not exceeding one-fiftieth of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^key-ea0d86cf408f49a9bd6c0260f0cba89d]one-fiftieth of the greater of £5,000 or the amount corresponding to level 4 on the standard scale for summary offences *(Extent: E+W)*;
+  - (i) in England and Wales, to imprisonment for a term not exceeding twelve months or to a fine not exceeding the statutory maximum (or both) and, for continued contravention, a daily default fine not exceeding one-fiftieth of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^c-ea0d86cf408f49a9bd6c0260f0cba89d]one-fiftieth of the greater of £5,000 or the amount corresponding to level 4 on the standard scale for summary offences *(Extent: E+W)*;
   - (ii) in Scotland or Northern Ireland, to imprisonment for a term not exceeding six months, or to a fine not exceeding the statutory maximum (or both) and, for continued contravention, a daily default fine not exceeding one-fiftieth of the statutory maximum.
 
 ## Annotations
@@ -56,6 +56,6 @@ summary: ''
 
 [^c20618571]: Modification: Ss. 974-991 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 14(2)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/14/2) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-0564e71a1a5bfbbb74ebd6853cfa9a8e]: Textual amendment: Words in [s. 980(3)](https://www.legislation.gov.uk/ukpga/2006/46/section/980/3) substituted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/217/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0564e71a1a5bfbbb74ebd6853cfa9a8e]: Textual amendment: Words in [s. 980(3)](https://www.legislation.gov.uk/ukpga/2006/46/section/980/3) substituted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/217/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ea0d86cf408f49a9bd6c0260f0cba89d]: Textual amendment: Words in s. 980(8)(b)(i) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 9(20)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/9/20) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-ea0d86cf408f49a9bd6c0260f0cba89d]: Textual amendment: Words in s. 980(8)(b)(i) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 9(20)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/9/20) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

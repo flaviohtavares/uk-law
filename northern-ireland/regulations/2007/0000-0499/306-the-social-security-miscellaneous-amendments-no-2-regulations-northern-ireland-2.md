@@ -45,21 +45,21 @@ Regulations 5 and 6 are made with the consent of the Department of Finance and P
 
 The Social Security Advisory Committee has agreed that proposals in respect of regulations 5 and 6 should not be referred to it[^f00006].
 
-## 1. Citation, commencement and interpretation[^key-15cfa710e5293f99bee9c1ae333c52c6]
+## 1. Citation, commencement and interpretation[^c-15cfa710e5293f99bee9c1ae333c52c6]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2007 and shall come into operation on 16th July 2007.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Credits) Regulations[^key-ddf9cc48af30353199d46d21b23e5f34]
+## 2. Amendment of the Social Security (Credits) Regulations[^c-ddf9cc48af30353199d46d21b23e5f34]
 
 (1) The Social Security (Credits) Regulations (Northern Ireland) 1975[^f00008] are amended in accordance with paragraphs (2) and (3).
 
 (2) In regulation 2(1) (interpretation) in the definition of “reckonable year”[^f00009], in paragraph (a), after “widowed mother’s allowance,” insert “widowed parent’s allowance, bereavement benefits,”.
 
-(3)[^key-cb3f06a3b2c178cad24ac5e70326ef71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cb3f06a3b2c178cad24ac5e70326ef71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Income Support (General) Regulations[^key-245067f2a10238208d4a0c185641b8cb]
+## 3. Amendment of the Income Support (General) Regulations[^c-245067f2a10238208d4a0c185641b8cb]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00011] are amended in accordance with paragraphs (2) to (8).
 
@@ -77,7 +77,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
   ;
 - (c) omit the definition of “retirement annuity contract”[^f00017]; and
-- (d)[^key-d4d11f3acc818d8ff8fad606d98bbefe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-d4d11f3acc818d8ff8fad606d98bbefe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 38[^f00020] (calculation of net profit of self-employed earners), in paragraphs (1)(b)(ii), (3)(c) and (9)(b) omit “a retirement annuity contract or”.
 
@@ -125,7 +125,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (8) In Schedule 10 (capital to be disregarded) in paragraph 23A[^f00030] omit “or retirement annuity contract”.
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-1c6ba4a1862b0213aaa0a53d0529fe78]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-1c6ba4a1862b0213aaa0a53d0529fe78]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00031] are amended in accordance with paragraphs (2) to (5).
 
@@ -158,7 +158,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (5) In Schedule 7 (capital to be disregarded) in paragraph 29 omit “or retirement annuity contract”.
 
-## 5. Amendment of the Housing Benefit Regulations[^key-8eb41c4d61a4badd88104cade539cee3]
+## 5. Amendment of the Housing Benefit Regulations[^c-8eb41c4d61a4badd88104cade539cee3]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00037] are amended in accordance with paragraphs (2) to (7).
 
@@ -182,9 +182,9 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 (4) In regulation 39 (notional income)—
 
 - (a) in paragraph (2)(c) omit “, retirement annuity contract”;
-- (b)[^key-7f3481b3466f137041dbc5254d1579a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7f3481b3466f137041dbc5254d1579a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7f3481b3466f137041dbc5254d1579a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7f3481b3466f137041dbc5254d1579a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7f3481b3466f137041dbc5254d1579a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7f3481b3466f137041dbc5254d1579a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In regulation 46(2)(d) (notional capital) omit “, retirement annuity contract”.
 
@@ -196,7 +196,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (7) In Schedule 7 (capital to be disregarded) in paragraph 33 omit “or retirement annuity contract”.
 
-## 6. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-7439e2d5ec7c7af1fa448a20c9e9795b]
+## 6. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-7439e2d5ec7c7af1fa448a20c9e9795b]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00038] are amended in accordance with paragraphs (2) to (6).
 
@@ -246,7 +246,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (6) In Schedule 7 (capital to be disregarded) omit paragraph 25.
 
-## 7. Revocations[^key-34cd3d8e97e2c13855832ec03f8fe8e8]
+## 7. Revocations[^c-34cd3d8e97e2c13855832ec03f8fe8e8]
 
 The Regulations specified in column (1) of the Schedule are revoked to the extent specified in column (3).
 
@@ -268,7 +268,7 @@ A senior officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE — Revocations[^key-60cc67c357a485b7b12f1d3907beb13c]
+## SCHEDULE — Revocations[^c-60cc67c357a485b7b12f1d3907beb13c]
 
 Regulation 7
 
@@ -318,19 +318,19 @@ In so far as these Regulations are required, for the purposes of regulations 5 a
 
 [^f00006]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-15cfa710e5293f99bee9c1ae333c52c6]: Commencement: Reg. 1 in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)
+[^c-15cfa710e5293f99bee9c1ae333c52c6]: Commencement: Reg. 1 in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-ddf9cc48af30353199d46d21b23e5f34]: Commencement: Reg. 2 in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)
+[^c-ddf9cc48af30353199d46d21b23e5f34]: Commencement: Reg. 2 in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); relevant amending Regulations are [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430) and [S.R. 2003 No. 151](https://www.legislation.gov.uk/nisr/2003/151)
 
 [^f00009]: Footnote: The definition of “reckonable year” was substituted by regulation 2(2)(d) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
 
-[^key-cb3f06a3b2c178cad24ac5e70326ef71]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2007/306/regulation/2/3) revoked (6.4.2010) by [The Social Security (Credits) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/109)](https://www.legislation.gov.uk/nisr/2010/109), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/109/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2010/109/regulation/3/a)
+[^c-cb3f06a3b2c178cad24ac5e70326ef71]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2007/306/regulation/2/3) revoked (6.4.2010) by [The Social Security (Credits) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/109)](https://www.legislation.gov.uk/nisr/2010/109), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/109/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2010/109/regulation/3/a)
 
-[^key-245067f2a10238208d4a0c185641b8cb]: Commencement: Reg. 3 in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)
+[^c-245067f2a10238208d4a0c185641b8cb]: Commencement: Reg. 3 in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Rules are [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403), [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367), [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182), [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472), [S.R. 2001 No. 151](https://www.legislation.gov.uk/nisr/2001/151), [S.R. 2002 No. 128](https://www.legislation.gov.uk/nisr/2002/128), [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191), [S.R. 2005 Nos. 424](https://www.legislation.gov.uk/nisr/2005/424) and [536](https://www.legislation.gov.uk/nisr/2005/536) and [S.R. 2006 No. 97](https://www.legislation.gov.uk/nisr/2006/97)
 
@@ -346,7 +346,7 @@ In so far as these Regulations are required, for the purposes of regulations 5 a
 
 [^f00017]: Footnote: The definition of “retirement annuity contract” was inserted by regulation 2(2)(c) of [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367)
 
-[^key-d4d11f3acc818d8ff8fad606d98bbefe]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/nisr/2007/306/regulation/3/2/d) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
+[^c-d4d11f3acc818d8ff8fad606d98bbefe]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/nisr/2007/306/regulation/3/2/d) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
 
 [^f00020]: Footnote: Regulation 38(1)(b)(ii), (3)(c) and (9)(b) were substituted by regulation 4(12)(a) of [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373) and paragraphs (1)(b)(ii) and (3)(c) were also amended by regulation 2(7) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327)
 
@@ -370,7 +370,7 @@ In so far as these Regulations are required, for the purposes of regulations 5 a
 
 [^f00030]: Footnote: Paragraph 23A was inserted by regulation 2(10)(b) of [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367)
 
-[^key-1c6ba4a1862b0213aaa0a53d0529fe78]: Commencement: Reg. 4 in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)
+[^c-1c6ba4a1862b0213aaa0a53d0529fe78]: Commencement: Reg. 4 in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)
 
 [^f00031]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Rules are [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182), [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428), [S.R. 2001 No. 151](https://www.legislation.gov.uk/nisr/2001/151), [S.R. 2002 No. 128](https://www.legislation.gov.uk/nisr/2002/128) and [S.R. 2005 Nos. 424](https://www.legislation.gov.uk/nisr/2005/424) and [536](https://www.legislation.gov.uk/nisr/2005/536)
 
@@ -384,16 +384,16 @@ In so far as these Regulations are required, for the purposes of regulations 5 a
 
 [^f00036]: Footnote: Paragraph (5) was amended by regulation 4(3)(d) of [S.R. 2005 No. 424](https://www.legislation.gov.uk/nisr/2005/424)
 
-[^key-8eb41c4d61a4badd88104cade539cee3]: Commencement: Reg. 5 in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)
+[^c-8eb41c4d61a4badd88104cade539cee3]: Commencement: Reg. 5 in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)
 
 [^f00037]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
 
-[^key-7f3481b3466f137041dbc5254d1579a5]: Textual amendment: [Reg. 5(4)(b)-(d)](https://www.legislation.gov.uk/nisr/2007/306/regulation/5/4/b) revoked (19.5.2008) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2008 (S.R. 2008/179)](https://www.legislation.gov.uk/nisr/2008/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/179/regulation/1/1), [6(a)](https://www.legislation.gov.uk/nisr/2008/179/regulation/6/a)
+[^c-7f3481b3466f137041dbc5254d1579a5]: Textual amendment: [Reg. 5(4)(b)-(d)](https://www.legislation.gov.uk/nisr/2007/306/regulation/5/4/b) revoked (19.5.2008) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2008 (S.R. 2008/179)](https://www.legislation.gov.uk/nisr/2008/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/179/regulation/1/1), [6(a)](https://www.legislation.gov.uk/nisr/2008/179/regulation/6/a)
 
-[^key-7439e2d5ec7c7af1fa448a20c9e9795b]: Commencement: Reg. 6 in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)
+[^c-7439e2d5ec7c7af1fa448a20c9e9795b]: Commencement: Reg. 6 in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)
 
 [^f00038]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406)
 
-[^key-34cd3d8e97e2c13855832ec03f8fe8e8]: Commencement: Reg. 7 in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)
+[^c-34cd3d8e97e2c13855832ec03f8fe8e8]: Commencement: Reg. 7 in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)
 
-[^key-60cc67c357a485b7b12f1d3907beb13c]: Commencement: Sch. in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)
+[^c-60cc67c357a485b7b12f1d3907beb13c]: Commencement: Sch. in operation at 16.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1)

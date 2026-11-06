@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Application of other enactments[^key-4d5166b7ef0dbc6495a59cf96ae1fed3]
+## 41. Application of other enactments[^c-4d5166b7ef0dbc6495a59cf96ae1fed3]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The duties in sections36 and 38(2)(a) do not apply to the extent that—
 
 ## Annotations
 
-[^key-4d5166b7ef0dbc6495a59cf96ae1fed3]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2016/4/section/41) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)
+[^c-4d5166b7ef0dbc6495a59cf96ae1fed3]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2016/4/section/41) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 340. Short title[^key-534babea4dc7a08b7ea8ba25ec3cdc29]
+## 340. Short title[^c-534babea4dc7a08b7ea8ba25ec3cdc29]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Digital Markets, Competition and Consumers Act 2024
 
 ## Annotations
 
-[^key-534babea4dc7a08b7ea8ba25ec3cdc29]: Commencement: S. 340 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)
+[^c-534babea4dc7a08b7ea8ba25ec3cdc29]: Commencement: S. 340 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)

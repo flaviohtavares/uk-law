@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 311. Protected items[^key-d332e0be8853e288ba391e640c36eb39]
+## 311. Protected items[^c-d332e0be8853e288ba391e640c36eb39]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d332e0be8853e288ba391e640c36eb39]: Commencement: [S. 311](https://www.legislation.gov.uk/ukpga/2004/35/section/311) in force at 1.9.2005 by [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/1)
+[^c-d332e0be8853e288ba391e640c36eb39]: Commencement: [S. 311](https://www.legislation.gov.uk/ukpga/2004/35/section/311) in force at 1.9.2005 by [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/1)

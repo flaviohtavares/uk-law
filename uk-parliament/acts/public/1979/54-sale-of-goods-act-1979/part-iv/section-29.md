@@ -26,7 +26,7 @@ summary: ''
 
 (3) Where under the contract of sale the seller is bound to send the goods to the buyer, but no time for sending them is fixed, the seller is bound to send them within a reasonable time.
 
-(3A)[^key-7d9938f2aebe3fb9ceec20f6d9d48bf6] Subsection (3) does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in section 28 of that Act).
+(3A)[^c-7d9938f2aebe3fb9ceec20f6d9d48bf6] Subsection (3) does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in section 28 of that Act).
 
 (4) Where the goods at the time of sale are in the possession of a third person, there is no delivery by seller to buyer unless and until the third person acknowledges to the buyer that he holds the goods on his behalf; but nothing in this section affects the operation of the issue or transfer of any document of title to goods.
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d9938f2aebe3fb9ceec20f6d9d48bf6]: Textual amendment: [S. 29(3A)](https://www.legislation.gov.uk/ukpga/1979/54/section/29/3A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/18); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-7d9938f2aebe3fb9ceec20f6d9d48bf6]: Textual amendment: [S. 29(3A)](https://www.legislation.gov.uk/ukpga/1979/54/section/29/3A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/18); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 189. Notifications relating to documents[^key-7c4057df80c7648457712e543ac8b90b]
+## 189. Notifications relating to documents[^c-7c4057df80c7648457712e543ac8b90b]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In addition to the information required by Rule 187 notification relating to a d
 
 ## Annotations
 
-[^key-7c4057df80c7648457712e543ac8b90b]: Commencement: [Rule 189](https://www.legislation.gov.uk/uksi/2013/3208/rule/189) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-7c4057df80c7648457712e543ac8b90b]: Commencement: [Rule 189](https://www.legislation.gov.uk/uksi/2013/3208/rule/189) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. CIL stop notices[^key-38a8159a3175f2de3993a5e5703063a1]
+## 119. CIL stop notices[^c-38a8159a3175f2de3993a5e5703063a1]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ if the appointed person is satisfied that the correction or variation will not c
 
 ## Annotations
 
-[^key-38a8159a3175f2de3993a5e5703063a1]: Commencement: Reg. 119 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-38a8159a3175f2de3993a5e5703063a1]: Commencement: Reg. 119 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

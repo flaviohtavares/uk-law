@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Houses[^key-d2f8c71ef35f29875a364f13646c3853]
+## 5. Houses[^c-d2f8c71ef35f29875a364f13646c3853]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2f8c71ef35f29875a364f13646c3853]: Commencement: S. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d2f8c71ef35f29875a364f13646c3853]: Commencement: S. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

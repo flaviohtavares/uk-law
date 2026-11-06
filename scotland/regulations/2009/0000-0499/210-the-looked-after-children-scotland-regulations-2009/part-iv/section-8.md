@@ -29,9 +29,9 @@ summary: ''
 
 (3) Any arrangements made by a local authority under paragraph (1) must–
 
-- (a)[^key-7d198c90af2df63fb9684213c4f834bf] be subject to the terms of any compulsory supervision order, interim compulsory supervision order, warrant to secure attendance, permanence order or exclusion order made in respect of the child; and
+- (a)[^c-7d198c90af2df63fb9684213c4f834bf] be subject to the terms of any compulsory supervision order, interim compulsory supervision order, warrant to secure attendance, permanence order or exclusion order made in respect of the child; and
 - (b) not return the child to the care of a person where the child was, by virtue of any order, authorisation or warrant, removed from the care of that person.
 
 ## Annotations
 
-[^key-7d198c90af2df63fb9684213c4f834bf]: Textual amendment: Reg. 8(3)(a) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 11(5)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/11/5); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-7d198c90af2df63fb9684213c4f834bf]: Textual amendment: Reg. 8(3)(a) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 11(5)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/11/5); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Variation of collection orders etc[^key-0056b562be10f37f598cac472eb7115b]
+## 56. Variation of collection orders etc[^c-0056b562be10f37f598cac472eb7115b]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0056b562be10f37f598cac472eb7115b]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2015/2/section/56) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
+[^c-0056b562be10f37f598cac472eb7115b]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2015/2/section/56) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)

@@ -44,11 +44,11 @@ The Department of Health, Social Services and Public Safety makes the following 
 
 In accordance with Article 23 (8) of that Order, the Department has consulted such persons as it considers appropriate.
 
-## 1. Citation and commencement[^key-3b33e2733ff4212bbf9422b7b46af7b3]
+## 1. Citation and commencement[^c-3b33e2733ff4212bbf9422b7b46af7b3]
 
 These Regulations may be cited as the Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 and shall come into operation on 1<sup>st</sup> April 2011.
 
-## 2. Amendment of the Independent Health Care Regulations (Northern Ireland) 2005[^key-8c47e8805e5e12dce9bb7a4ec861f6fd]
+## 2. Amendment of the Independent Health Care Regulations (Northern Ireland) 2005[^c-8c47e8805e5e12dce9bb7a4ec861f6fd]
 
 (1) The Independent Health Care Regulations (Northern Ireland) 2005[^f00002] shall be amended in accordance with paragraphs (2) to (13).
 
@@ -272,7 +272,7 @@ Amendment of regulation 42(Offences)
 
 .
 
-## 3. Amendment of the Regulation and Improvement Authority (Fees and Frequency of Inspections) Regulations (Northern Ireland) 2005[^key-0632c134639b21fe1621d988e4df6e0c]
+## 3. Amendment of the Regulation and Improvement Authority (Fees and Frequency of Inspections) Regulations (Northern Ireland) 2005[^c-0632c134639b21fe1621d988e4df6e0c]
 
 (1) The Regulation and Improvement Authority (Fees and Frequency of Inspections) Regulations (Northern Ireland) 2005[^f00013] shall be amended in accordance with the following paragraphs —
 
@@ -332,9 +332,9 @@ An amendment is introduced to these regulations substituting a new definition of
 
 [^f00001]: Footnote: [S.I. 2003/431 (N.I.9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-3b33e2733ff4212bbf9422b7b46af7b3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1) in operation at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1)
+[^c-3b33e2733ff4212bbf9422b7b46af7b3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1) in operation at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1)
 
-[^key-8c47e8805e5e12dce9bb7a4ec861f6fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/17/regulation/2) in operation at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1)
+[^c-8c47e8805e5e12dce9bb7a4ec861f6fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/17/regulation/2) in operation at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1)
 
 [^f00002]: Footnote: [S.R 2005 No. 174](https://www.legislation.gov.uk/nisr/2005/174)
 
@@ -358,6 +358,6 @@ An amendment is introduced to these regulations substituting a new definition of
 
 [^f00012]: Footnote: [1997 (c.50)](https://www.legislation.gov.uk/ukpga/1997/50). Sections 113A and 113B were inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15) and amended by section 63(1) of, and paragraph 14 of Schedule 9 to the Safeguarding and Vulnerable Groups Act [2006 (c.47)](https://www.legislation.gov.uk/ukpga/2006/47). Section 113BA was inserted by section 63(1) of, and paragraph 14 of Schedule 9 to the Safeguarding and Vulnerable Groups Act 2006.
 
-[^key-0632c134639b21fe1621d988e4df6e0c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/17/regulation/3) in operation at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1)
+[^c-0632c134639b21fe1621d988e4df6e0c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/17/regulation/3) in operation at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1)
 
 [^f00013]: Footnote: [S.R. 2005 No. 182](https://www.legislation.gov.uk/nisr/2005/182) as amended by [S.R. 2006 No. 341](https://www.legislation.gov.uk/nisr/2006/341); [S.R. 2007 No. 223](https://www.legislation.gov.uk/nisr/2007/223) and [S.R.2010 No. 291](https://www.legislation.gov.uk/nisr/2010/291)

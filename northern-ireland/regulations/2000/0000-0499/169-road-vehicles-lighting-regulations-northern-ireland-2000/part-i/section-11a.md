@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11A. Modifications in relation to vehicles approved under the Motor Vehicles (Approval) Regulations (Northern Ireland) 2001[^key-2221549aab847391ffe743950c24e422]
+## 11A. Modifications in relation to vehicles approved under the Motor Vehicles (Approval) Regulations (Northern Ireland) 2001[^c-2221549aab847391ffe743950c24e422]
 
 *Extent: N.I.*
 
 (1) In this regulation—
 
 - “the Approval Regulations” means the Motor Vehicles (Approval) Regulations (Northern Ireland) 2001;
-- “coefficient of luminous intensity” has the same meaning as in ECE Regulation 3 as amended by the 01 series of amendments (as in force on 20[^key-51f4016d1f54a0e687cfb169ee80337c]<sup>th</sup> March 1982);
-- [^key-fe43c07c007c27b904328ca80388f6fb]...
+- “coefficient of luminous intensity” has the same meaning as in ECE Regulation 3 as amended by the 01 series of amendments (as in force on 20[^c-51f4016d1f54a0e687cfb169ee80337c]<sup>th</sup> March 1982);
+- [^c-fe43c07c007c27b904328ca80388f6fb]...
 - “relevant vehicle approval certificate” means a Department’s approval certificate in the form prescribed by the Approval Regulations which appears to have been issued on the basis that the vehicle is a vehicle to which Part II of those Regulations applies;
 - “relevant vehicle” means a vehicle in respect of which an approval certificate containing the letter “P” has been issued pursuant to regulation 9(2) of the Approval Regulations;
 - “standard mark” means a mark which when applied to a lamp, reflector or device indicates compliance with the requirements of a particular instrument; and a reference to the instrument to which a standard mark relates shall be construed accordingly.
@@ -44,8 +44,8 @@ of the instrument to which the standard mark (or as the case may be one of those
 
 ## Annotations
 
-[^key-2221549aab847391ffe743950c24e422]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/nisr/2000/169/regulation/11A) inserted (1.6.2001) by [Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2001 (S.R. 2001/171)](https://www.legislation.gov.uk/nisr/2001/171), [regs. 1](https://www.legislation.gov.uk/nisr/2001/171/regulation/1), [2](https://www.legislation.gov.uk/nisr/2001/171/regulation/2)
+[^c-2221549aab847391ffe743950c24e422]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/nisr/2000/169/regulation/11A) inserted (1.6.2001) by [Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2001 (S.R. 2001/171)](https://www.legislation.gov.uk/nisr/2001/171), [regs. 1](https://www.legislation.gov.uk/nisr/2001/171/regulation/1), [2](https://www.legislation.gov.uk/nisr/2001/171/regulation/2)
 
-[^key-51f4016d1f54a0e687cfb169ee80337c]: Textual amendment: Words in [reg. 11A(1)](https://www.legislation.gov.uk/nisr/2000/169/regulation/11A/1) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2011/329/regulation/3/a)
+[^c-51f4016d1f54a0e687cfb169ee80337c]: Textual amendment: Words in [reg. 11A(1)](https://www.legislation.gov.uk/nisr/2000/169/regulation/11A/1) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2011/329/regulation/3/a)
 
-[^key-fe43c07c007c27b904328ca80388f6fb]: Textual amendment: Words in [reg. 11A(1)](https://www.legislation.gov.uk/nisr/2000/169/regulation/11A/1) omitted (21.10.2011) by virtue of [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2011/329/regulation/3/b)
+[^c-fe43c07c007c27b904328ca80388f6fb]: Textual amendment: Words in [reg. 11A(1)](https://www.legislation.gov.uk/nisr/2000/169/regulation/11A/1) omitted (21.10.2011) by virtue of [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2011/329/regulation/3/b)

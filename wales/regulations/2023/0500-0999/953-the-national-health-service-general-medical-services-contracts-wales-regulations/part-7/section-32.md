@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Consequential amendments[^key-5c1ee3ef2f98680b9963e9abd7092104]
+## 32. Consequential amendments[^c-5c1ee3ef2f98680b9963e9abd7092104]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 5 makes provision in respect of the amendments to secondary legislation
 
 ## Annotations
 
-[^key-5c1ee3ef2f98680b9963e9abd7092104]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2023/953/regulation/32) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-5c1ee3ef2f98680b9963e9abd7092104]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2023/953/regulation/32) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Restrictions on reports of committal proceedings[^key-becacdef3ff5acb909208d1b1b76b08d]
+## 5. Restrictions on reports of committal proceedings[^c-becacdef3ff5acb909208d1b1b76b08d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-becacdef3ff5acb909208d1b1b76b08d]: Textual amendment: [Rules 5-13A](https://www.legislation.gov.uk/uksi/1981/552/rule/5) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(a)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/a)
+[^c-becacdef3ff5acb909208d1b1b76b08d]: Textual amendment: [Rules 5-13A](https://www.legislation.gov.uk/uksi/1981/552/rule/5) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(a)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/a)

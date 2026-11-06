@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 20.1. Inspection of church etc.[^key-49fec3fbd7688fd1ae8aba6b79b4f7a0]
+## 20.1. Inspection of church etc.[^c-49fec3fbd7688fd1ae8aba6b79b4f7a0]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ The court may at any stage in proceedings inspect any church, other building, ar
 
 ## Annotations
 
-[^key-49fec3fbd7688fd1ae8aba6b79b4f7a0]: Commencement: [Rule 20.1](https://www.legislation.gov.uk/uksi/2015/1568/article/20.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-49fec3fbd7688fd1ae8aba6b79b4f7a0]: Commencement: [Rule 20.1](https://www.legislation.gov.uk/uksi/2015/1568/article/20.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

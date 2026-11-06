@@ -32,7 +32,7 @@ summary: ''
 
 SEEDS, ENGLAND
 
-The Cereal Seed (England) and Fodder Plant Seed (England) (Amendment) Regulations 2006 (revoked)[^key-831430eebdcc8be112ab4b264140de50]
+The Cereal Seed (England) and Fodder Plant Seed (England) (Amendment) Regulations 2006 (revoked)[^c-831430eebdcc8be112ab4b264140de50]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 19th July 2006
 
-[^key-831430eebdcc8be112ab4b264140de50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-831430eebdcc8be112ab4b264140de50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-831430eebdcc8be112ab4b264140de50]
+## 1. Title and commencement[^c-831430eebdcc8be112ab4b264140de50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Cereal Seed (England) Regulations 2002[^key-831430eebdcc8be112ab4b264140de50]
+## 2. Amendment of the Cereal Seed (England) Regulations 2002[^c-831430eebdcc8be112ab4b264140de50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Fodder Plant Seed (England) Regulations 2002[^key-831430eebdcc8be112ab4b264140de50]
+## 3. Amendment of the Fodder Plant Seed (England) Regulations 2002[^c-831430eebdcc8be112ab4b264140de50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-831430eebdcc8be112ab4b264140de50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-831430eebdcc8be112ab4b264140de50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-831430eebdcc8be112ab4b264140de50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-831430eebdcc8be112ab4b264140de50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-831430eebdcc8be112ab4b264140de50]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2605/regulation/1), [34(u)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/u)
+[^c-831430eebdcc8be112ab4b264140de50]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2605/regulation/1), [34(u)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/u)

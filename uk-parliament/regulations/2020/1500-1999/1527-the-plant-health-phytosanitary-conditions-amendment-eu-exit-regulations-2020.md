@@ -46,21 +46,21 @@ A draft of this instrument has been laid before, and approved by a resolution of
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-c5af9197be3b3e5310e0e051583f2990]
+### 1. Citation and commencement[^c-c5af9197be3b3e5310e0e051583f2990]
 
 (1) These Regulations may be cited as the Plant Health (Phytosanitary Conditions) (Amendment) (EU Exit) Regulations 2020.
 
-(2)[^key-0c2f73a13c49ef44c4970d0b66aa47b5] Subject to paragraph (3), these Regulations come into force on IP completion day.
+(2)[^c-0c2f73a13c49ef44c4970d0b66aa47b5] Subject to paragraph (3), these Regulations come into force on IP completion day.
 
-(3)[^key-832d9639838c5f2d032d42881caa2d6a] Regulation 10, so far as it relates to entries 3 and 61, and paragraph (a) of entry 135, in the Table in Part A of Annex 7 to Commission Implementing Regulation (EU) 2019/2072 substituted by Schedule 7 to these Regulations, comes into force on the day after the day on which IP completion day falls.
+(3)[^c-832d9639838c5f2d032d42881caa2d6a] Regulation 10, so far as it relates to entries 3 and 61, and paragraph (a) of entry 135, in the Table in Part A of Annex 7 to Commission Implementing Regulation (EU) 2019/2072 substituted by Schedule 7 to these Regulations, comes into force on the day after the day on which IP completion day falls.
 
 (4) In these Regulations, “Commission Implementing Regulation (EU) 2019/2072” means Commission Implementing Regulation (EU) 2019/2072 establishing uniform conditions for the implementation of Regulation (EU) 2016/2031 of the European Parliament and the Council, as regards protection measures against pests of plants.
 
 ## PART 2 — Amendment to Commission Implementing Regulation (EU) 2019/2072
 
-### 2. Commission Implementing Regulation (EU) 2019/2072[^key-2b4a3ef5485cba72952dce277bff7aa5]
+### 2. Commission Implementing Regulation (EU) 2019/2072[^c-2b4a3ef5485cba72952dce277bff7aa5]
 
-(1) Commission Implementing Regulation (EU) 2019/2072 [^key-badabfbd832464e78e7d146814e6a315]... [^c24379671] is amended as follows.
+(1) Commission Implementing Regulation (EU) 2019/2072 [^c-badabfbd832464e78e7d146814e6a315]... [^c24379671] is amended as follows.
 
 (2) In Article 1, for the unnumbered paragraph substitute—
 
@@ -156,7 +156,7 @@ A draft of this instrument has been laid before, and approved by a resolution of
 (9) In Article 7—
 
 - (a) in the heading, for “**whose introduction into the Union from certain third countries is prohibited**” substitute “ **which may not be introduced into Great Britain if originating or dispatched from certain third countries** ”;
-- (b) for the unnumbered paragraphs[^key-cce1a2b43e141cccfd83662578e3f399], substitute—
+- (b) for the unnumbered paragraphs[^c-cce1a2b43e141cccfd83662578e3f399], substitute—
 
   > Annex 6 makes provision about plants, plant products and other objects which may not be introduced into Great Britain if originating or dispatched from certain third countries.
 
@@ -259,43 +259,43 @@ A draft of this instrument has been laid before, and approved by a resolution of
 
 (17) After Article 18, omit the words from “This Regulation” to “Member States”.
 
-### 3.[^key-fc497bb92baa3b2feba1b1670322149f]
+### 3.[^c-fc497bb92baa3b2feba1b1670322149f]
 
 In Annex 1, in the unnumbered paragraph, for the words from “, when” to the end substitute “ have the same meaning in the Annexes listed in the first column of the table in Part B as they have in the retained EU law transposing the Directives listed in the corresponding entries in the second column of that table ”.
 
-### 4.[^key-a4e8a915e54a948bec5b7b24a6b2108f]
+### 4.[^c-a4e8a915e54a948bec5b7b24a6b2108f]
 
 For Annex 2, substitute the Annex in Schedule 1.
 
-### 5.[^key-d5dd576b83b29827ae14c3d1aab2ba46]
+### 5.[^c-d5dd576b83b29827ae14c3d1aab2ba46]
 
 After Annex 2, insert new Annex 2A in Schedule 2.
 
-### 6.[^key-2dbc9fabfcbfab9c79ae5145d16ff7ec]
+### 6.[^c-2dbc9fabfcbfab9c79ae5145d16ff7ec]
 
 For Annex 3, substitute the Annex in Schedule 3.
 
-### 7.[^key-41da290188d0b8168565863acb964069]
+### 7.[^c-41da290188d0b8168565863acb964069]
 
 For Annex 4, substitute the Annex in Schedule 4.
 
-### 8.[^key-5f67dcdb0820c78a75bcd11a2a5b570d]
+### 8.[^c-5f67dcdb0820c78a75bcd11a2a5b570d]
 
 For Annex 5, substitute the Annex in Schedule 5.
 
-### 9.[^key-d8dffca4f58317a15337ecf4c71a6ea3]
+### 9.[^c-d8dffca4f58317a15337ecf4c71a6ea3]
 
 For Annex 6, substitute the Annex in Schedule 6.
 
-### 10.[^key-97912f3764e25f0d868c57b5cd48a5a3]
+### 10.[^c-97912f3764e25f0d868c57b5cd48a5a3]
 
 For Annex 7, substitute the Annex in Schedule 7.
 
-### 11.[^key-4376d70201d9c8fb53302eba2da92d31]
+### 11.[^c-4376d70201d9c8fb53302eba2da92d31]
 
 For Annex 8, substitute the Annex in Schedule 8.
 
-### 12.[^key-a5c5b9954e42b00850ea7ee0e873bce4]
+### 12.[^c-a5c5b9954e42b00850ea7ee0e873bce4]
 
 In Annex 9—
 
@@ -310,26 +310,26 @@ In Annex 9—
     > |  | *(1)*<br>*Description of plants, plant products or other objects* | *(2)*<br>*Description of GB pest-free area* |
   - (iii) omit the entries in the table.
 
-### 13.[^key-03dceab1cc1a44a06de06787874c1e99]
+### 13.[^c-03dceab1cc1a44a06de06787874c1e99]
 
 For Annex 10, substitute the Annex in Schedule 9.
 
-### 14.[^key-a6890fcdf3090105ccb65519e26eb76c]
+### 14.[^c-a6890fcdf3090105ccb65519e26eb76c]
 
 For Annex 11, substitute the Annex in Schedule 10.
 
-### 15.[^key-a05fcb43bc093b5ebb9b2e0992dbb3ac]
+### 15.[^c-a05fcb43bc093b5ebb9b2e0992dbb3ac]
 
 In Annex 12—
 
 - (a) in the heading for “**protected zone**” substitute “ **GB pest-free area** ”;
 - (b) omit the entries in the table.
 
-### 16.[^key-096c71c2a703bea9befa04becd801c3e]
+### 16.[^c-096c71c2a703bea9befa04becd801c3e]
 
 For Annex 13, substitute the Annex in Schedule 11.
 
-### 17.[^key-9ec11214e59e4b7dd5983e6e150fe7ab]
+### 17.[^c-9ec11214e59e4b7dd5983e6e150fe7ab]
 
 In Annex 14—
 
@@ -350,7 +350,7 @@ Parliamentary Under Secretary of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE 1 — New Annex 2 to the Phytosanitary Conditions Regulation[^key-de71c700a73d6478c07087287da2f47b]
+## SCHEDULE 1 — New Annex 2 to the Phytosanitary Conditions Regulation[^c-de71c700a73d6478c07087287da2f47b]
 
 Regulation 4
 
@@ -632,7 +632,7 @@ Regulation 4
 > </tbody>
 > </table>
 
-## SCHEDULE 2 — New Annex 2A to the Phytosanitary Conditions Regulation[^key-d779d764b7d9ddd3922fb343bee01924]
+## SCHEDULE 2 — New Annex 2A to the Phytosanitary Conditions Regulation[^c-d779d764b7d9ddd3922fb343bee01924]
 
 Regulation 5
 
@@ -681,7 +681,7 @@ Regulation 5
 > </tbody>
 > </table>
 
-## SCHEDULE 3 — New Annex 3 to the Phytosanitary Conditions Regulation[^key-7b48c77ace85dfcb40309d23219f2ab4]
+## SCHEDULE 3 — New Annex 3 to the Phytosanitary Conditions Regulation[^c-7b48c77ace85dfcb40309d23219f2ab4]
 
 Regulation 6
 
@@ -694,7 +694,7 @@ Regulation 6
 > | 3\. | *Ips sexdentatus* Bőrner \[IPSXSE\] | The eastern boundary for the pest-free area runs from Dumbarton along the A82 to Crianlarich. From Crianlarich the boundary continues along the A82 to Loch Tulla and then it follows the railway line from Loch Tulla to Rannoch Station, to Tulloch Station to Roybridge Station. It then follows the C road by the river Roy up to Brae Roy Lodge, following the River Turret then cutting across the watershed following the Allt an t-Sidhean stream to the A82 at Laggan and then to Invergarry where it follows the A87 to the Kyle of Lochalsh and the islands of Skye, Mull, Jura, Arran, Scarba, Seil, Luing, Shuna, Torsa, Ulva, Gometra, Kerrera, Lismore and Eilean Shona |
 > | 4\. | *Thaumetopoea processionea* L.<br>\[THAUPR\] | Great Britain (excluding the local authority areas of Barking and Dagenham, Barnet, Basildon, Basingstoke and Deane, Bexley, Bracknell Forest, Brent, Brentwood, Bromley, Broxbourne, Camden, Castle Point, Chelmsford, Chiltern, City of London, City of Westminster, Crawley, Croydon, Dacorum, Dartford, Ealing, East Hertfordshire, Elmbridge District, Enfield, Epping Forest, Epsom and Ewell District, Gravesham, Greenwich, Guildford, Hackney, Hammersmith & Fulham, Haringey, Harlow, Harrow, Hart, Havering, Hertsmere, Hillingdon, Horsham, Hounslow, Islington, Kensington & Chelsea, Kingston-upon-Thames, Lambeth, Lewisham, Littlesford, Medway, Merton, Mid Sussex, Mole Valley, Newham, North Hertfordshire, Reading, Redbridge, Reigate and Banstead, Richmond-upon-Thames, Runnymede District, Rushmoor, Sevenoaks, Slough, South Bedfordshire, South Bucks, South Oxfordshire, Southwark, Spelthorne District, St Albans, Sutton, Surrey Heath, Tandridge, Three Rivers, Thurrock, Tonbridge and Malling, Tower Hamlets, Waltham Forest, Wandsworth, Watford, Waverley, Welwyn Hatfield, West Berkshire, Windsor and Maidenhead, Woking, Wokingham and Wycombe) |
 
-## SCHEDULE 4 — New Annex 4 to the Phytosanitary Conditions Regulation[^key-6eef57f5fd0a3ad963d8e1fce290ef11]
+## SCHEDULE 4 — New Annex 4 to the Phytosanitary Conditions Regulation[^c-6eef57f5fd0a3ad963d8e1fce290ef11]
 
 Regulation 7
 
@@ -1063,7 +1063,7 @@ Regulation 7
 > </tbody>
 > </table>
 
-## SCHEDULE 5 — New Annex 5 to the Phytosanitary Conditions Regulation[^key-f180d313c0b5e7e5ea8fb1fdfc5d123c]
+## SCHEDULE 5 — New Annex 5 to the Phytosanitary Conditions Regulation[^c-f180d313c0b5e7e5ea8fb1fdfc5d123c]
 
 Regulation 8
 
@@ -1385,7 +1385,7 @@ Regulation 8
 > </tbody>
 > </table>
 
-## SCHEDULE 6 — New Annex 6 to the Phytosanitary Conditions Regulation[^key-145bb076f1183b5129cb620e74cf6582]
+## SCHEDULE 6 — New Annex 6 to the Phytosanitary Conditions Regulation[^c-145bb076f1183b5129cb620e74cf6582]
 
 Regulation 9
 
@@ -1469,7 +1469,7 @@ Regulation 9
 > | 1\. | Plants for planting, other than seeds, of *Coffea* | Costa Rica and Honduras |
 > | 2\. | Isolated bark of *Acer macrophyllum* Pursh, *Aesculus californica* (Spach) Nutt., *Lithocarpus densiflorus* (Hook. & Arn.) Rehd., *Quercus* spp. L. and *Taxus brevifolia* Nutt. | The USA |
 
-## SCHEDULE 7 — New Annex 7 to the Phytosanitary Conditions Regulation[^key-fee517647f1086681ea660ad8b854ebe]
+## SCHEDULE 7 — New Annex 7 to the Phytosanitary Conditions Regulation[^c-fee517647f1086681ea660ad8b854ebe]
 
 Regulation 10
 
@@ -1606,10 +1606,10 @@ Regulation 10
 >   | 113\. | Wood of conifers (Pinales), other than in the form of:<br>- — chips, particles, sawdust, shavings, wood waste and scrap obtained in whole or part from these conifers,<br>- — wood packaging material, except associated controlled dunnage,<br>but including wood which has not kept its natural round surface. | Any third country other than:<br>Albania, Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Canada, Canary Islands, China, EU Member States, Faroe Islands, Georgia, Iceland, Japan, Liechtenstein, Kazakhstan, Mexico, Moldova, Monaco, Montenegro, North Macedonia, Norway, Republic of Korea, Russia, San Marino, Serbia, Switzerland, Taiwan, Turkey, Ukraine and the USA | The wood must be accompanied by:<br>- (a) an official statement that it is bark-free and free from grub holes, caused by its vectors, *Monochamus* spp., which are larger than 3 mm across,<br>- (b) an official statement that it has undergone kiln-drying to below 20% moisture content, expressed as a percentage of dry matter, achieved through an appropriate time/temperature schedule, or<br>- (c) an official statement that has undergone an appropriate heat treatment to achieve a minimum temperature of 56 ̊C for a minimum duration of 30 continuous minutes throughout the entire profile of the wood (including at its core).<br>Where the phytosanitary certificate includes the official statement referred to in point (b), there must also be evidence of that kiln-drying by a mark “kiln-dried” or “KD” or another internationally recognised mark, put on the wood or on any wrapping in accordance with current usage.<br>Where the phytosanitary certificate includes the official statement referred to in point (c), there must also be evidence of that heat treatment by a mark “HT” put on the wood or on any wrapping in accordance with current usage and on the phytosanitary certificate. |
 >   | 114\. | Wood in the form of chips, particles, sawdust, shavings, wood waste and scrap obtained in whole or in part from conifers (Pinales) | Any third country other than:<br>Albania, Albania, Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Canada, Canary Islands, China, EU Member States, Faroe Islands, Georgia, Iceland, Japan, Liechtenstein, Kazakhstan, Mexico, Moldova, Monaco, Montenegro, North Macedonia, Norway, Republic of Korea, Russia, San Marino, Serbia, Switzerland, Taiwan, Turkey, Ukraine and the USA | The wood must be accompanied by:<br>- (a) an official statement that the wood originates in areas\* which, in accordance with the measures specified in ISPM4, are known to be free from:<br>  - (i) *Monochamus* spp.<br>  - (ii) *Pissodes cibriani* O'Brien, *Pissodes fasciatus* Leconte, *Pissodes nemorensis* Germar, *Pissodes nitidus* Roelofs, *Pissodes punctatus* Langor & Zhang, *Pissodes strobi* (Peck), *Pissodes terminalis* Hopping, *Pissodes yunnanensis* Langor & Zhang and *Pissodes zitacuarense* Sleeper, and<br>  - (iii) *Scolytidae* spp. (non-European),<br>- (b) an official statement that it has been produced from debarked round wood,<br>- (c) an official statement that it has undergone kiln-drying to below 20% moisture content, expressed as a percentage of dry matter, achieved through an appropriate time/temperature schedule, or<br>- (d) an official statement that it has undergone an appropriate heat treatment to achieve a minimum temperature of 56 ̊C for a minimum duration of 30 continuous minutes throughout the entire profile of the wood (including at its core).<br>\* The name of the area(s) must be included in the phytosanitary certificate under the heading “Additional declaration”. |
 >   | 115\. | Isolated bark of conifers (Pinales) | Any third country other than:<br>Albania, Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Canary Islands, Faroe Islands, Georgia, Iceland, Liechtenstein, Moldova, Monaco, Montenegro, North Macedonia, Norway, Russia (only the following parts: Central Federal District (Tsentralny federalny okrug), Northwestern Federal District (Severo-Zapadny federalny okrug), Southern Federal District (Yuzhny federalny okrug), North Caucasian Federal District (Severo-Kavkazsky federalny okrug) and Volga Federal District (Privolzhsky federalny okrug), San Marino, Serbia, Switzerland, Turkey and Ukraine; and<br>EU Member States where *Bursaphelenchus xylophilus* (Steiner & Bührer) Nickle is known not to occur | The bark must be accompanied by an official statement:<br>- (a) that it has undergone an appropriate heat treatment to achieve a minimum temperature of 56 ̊C for a minimum duration of 30 continuous minutes throughout the entire profile of the bark, and<br>- (b) that subsequent to its treatment, it was transported, until its export from the country issuing the statement, outside the flight season of its vectors, *Monochamus* spp., taking into account a safety margin of four additional weeks at the beginning and at the end of the expected flight season or with a protective covering ensuring that infestation with *Bursaphelenchus xylophilus* (Steiner & Bührer) Nickle et al. or its vectors, *Monochamus* spp. cannot occur.<br>There must also be evidence of that heat treatment by a mark “HT” on the phytosanitary certificate. |
->   | 116\. | Wood of conifers (Pinales) | Any third country , other than EU Member States[^key-e20a3a3bd8d0542a34253e3e990b604a] where *Fusarium circinatum* Nirenberg & O'Donnell is known not to occur [^key-9cad4fdcc88d7b03ede3be20eff808bb]... | The wood must be accompanied by:<br>- (a) an official statement that it originates in a country\* which, in accordance with the measures specified in ISPM4, is known to be free from *Fusarium circinatum* Nirenberg & O'Donnell,<br>- (b) an official statement that it originates in an area\* which, in accordance with the measures specified in ISPM4, is known to be free from *Fusarium circinatum* Nirenberg & O'Donnell, or<br>- (c) an official statement that it has undergone an appropriate heat treatment to achieve a minimum temperature of 56 ̊C for a minimum duration of 30 continuous minutes throughout the entire profile of the wood (including at its core).<br>\* The name of the area(s) must be included in the phytosanitary certificate under the heading “Additional declaration”.<br>Where the phytosanitary certificate includes the official statement referred to in point (c), there must also be evidence of that heat treatment by a mark “HT” put on the wood or on any wrapping in accordance with current usage and on the phytosanitary certificate. |
+>   | 116\. | Wood of conifers (Pinales) | Any third country , other than EU Member States[^c-e20a3a3bd8d0542a34253e3e990b604a] where *Fusarium circinatum* Nirenberg & O'Donnell is known not to occur [^c-9cad4fdcc88d7b03ede3be20eff808bb]... | The wood must be accompanied by:<br>- (a) an official statement that it originates in a country\* which, in accordance with the measures specified in ISPM4, is known to be free from *Fusarium circinatum* Nirenberg & O'Donnell,<br>- (b) an official statement that it originates in an area\* which, in accordance with the measures specified in ISPM4, is known to be free from *Fusarium circinatum* Nirenberg & O'Donnell, or<br>- (c) an official statement that it has undergone an appropriate heat treatment to achieve a minimum temperature of 56 ̊C for a minimum duration of 30 continuous minutes throughout the entire profile of the wood (including at its core).<br>\* The name of the area(s) must be included in the phytosanitary certificate under the heading “Additional declaration”.<br>Where the phytosanitary certificate includes the official statement referred to in point (c), there must also be evidence of that heat treatment by a mark “HT” put on the wood or on any wrapping in accordance with current usage and on the phytosanitary certificate. |
 >   | 117\. | Wood of conifers (Pinales ) | Any third country | The wood must:<br>- (a) be bark-free,<br>- (b) be accompanied by an official statement that it originates in an area\* which, in accordance with the measures specified in ISPM4, is known to be free from *Ips amitinus* (Eichhoff), *Ips duplicatus* (Sahlberg) and *Ips typographus* (L.), or<br>- (c) have evidence by a mark “kiln-dried” or “KD” or another internationally recognised mark, put on the wood or on any wrapping in accordance with current usage that it has undergone kiln-drying to below 20% moisture content, expressed as a percentage of dry matter, achieved through an appropriate time/temperature schedule.<br>\* The name of the area(s) must be included in the phytosanitary certificate under the heading “Additional declaration”. |
 >   | 118\. | Isolated bark of conifers (Pinales) | Any third country | The bark must be accompanied by:<br>- (a) an official statement that it has been subjected to fumigation or other appropriate treatments against bark beetles, or<br>- (b) an official statement that it originates in an area\* which, in accordance with the measures specified in ISPM4, is known to be free from *Ips amitinus* (Eichhoff), *Ips duplicatus* (Sahlberg) and *Ips typographus* (L.).<br>\* The name of the area(s) must be included in the phytosanitary certificate under the heading “Additional declaration”. |
->   | 119\. | Isolated bark of conifers (Pinales) | Any third country , other than EU Member States where *Fusarium circinatum* Nirenberg & O'Donnell is known not to occur [^key-9cad4fdcc88d7b03ede3be20eff808bb]... | The bark must be accompanied by:<br>- (a) an official statement that it originates in a country which, in accordance with the measures specified in ISPM4, is known to be free from *Fusarium circinatum* Nirenberg & O'Donnell,<br>- (b) an official statement that it originates in an area\* which, in accordance with the measures specified in ISPM4, is known to be free from *Fusarium circinatum* Nirenberg & O'Donnell, or<br>- (c) an official statement that it has undergone an appropriate heat treatment to achieve a minimum temperature of 56 ̊C for a minimum duration of 30 continuous minutes throughout the entire profile of the wood (including at its core).<br>\* The name of the area(s) must be included in the phytosanitary certificate under the heading “Additional declaration”.<br>A phytosanitary certificate may not include the official statement referred to in point (a) unless the national plant protection organisation of the country of origin has previously notified the national plant protection organisation of the United Kingdom of this information in writing.<br>Where the phytosanitary certificate includes the official statement referred to in point (c), there must also be evidence of that heat treatment by a mark “HT” put on the wood or on any wrapping in accordance with current usage and on the phytosanitary certificate. |
+>   | 119\. | Isolated bark of conifers (Pinales) | Any third country , other than EU Member States where *Fusarium circinatum* Nirenberg & O'Donnell is known not to occur [^c-9cad4fdcc88d7b03ede3be20eff808bb]... | The bark must be accompanied by:<br>- (a) an official statement that it originates in a country which, in accordance with the measures specified in ISPM4, is known to be free from *Fusarium circinatum* Nirenberg & O'Donnell,<br>- (b) an official statement that it originates in an area\* which, in accordance with the measures specified in ISPM4, is known to be free from *Fusarium circinatum* Nirenberg & O'Donnell, or<br>- (c) an official statement that it has undergone an appropriate heat treatment to achieve a minimum temperature of 56 ̊C for a minimum duration of 30 continuous minutes throughout the entire profile of the wood (including at its core).<br>\* The name of the area(s) must be included in the phytosanitary certificate under the heading “Additional declaration”.<br>A phytosanitary certificate may not include the official statement referred to in point (a) unless the national plant protection organisation of the country of origin has previously notified the national plant protection organisation of the United Kingdom of this information in writing.<br>Where the phytosanitary certificate includes the official statement referred to in point (c), there must also be evidence of that heat treatment by a mark “HT” put on the wood or on any wrapping in accordance with current usage and on the phytosanitary certificate. |
 >   | 120\. | Wood of *Juglans* L. and *Pterocarya* Kunth, other than in the form of:<br>- — chips, particles, sawdust, shavings, wood waste and scrap obtained in whole or part from these plants,<br>- — wood packaging material, except associated controlled dunnage,<br>but including wood which has not kept its natural round surface | EU Member States and the USA | The wood must be accompanied by:<br>- (a) an official statement that it originates in an area\* which, in accordance with the measures specified in ISPM4, is known to be free from *Geosmithia morbida* Kolarík, Freeland, Utley & Tisserat and its vector *Pityophthorus juglandis* Blackman,<br>- (b) an official statement that it has undergone an appropriate heat treatment to achieve a minimum temperature of 56 ̊C for a minimum duration of 40 continuous minutes throughout the entire profile of the wood (including at its core), or<br>- (c) an official statement that it has been squared to entirely remove the natural rounded surface.<br>\* The name of the area(s) must be included in the phytosanitary certificate under the heading “Additional declaration”.<br>Where the phytosanitary certificate includes the official statement referred to in point (b), there must also be evidence of that heat treatment by a mark “HT” put on the wood or on any wrapping in accordance with current usage and on the phytosanitary certificate. |
 >   | 121\. | Isolated bark and wood of *Juglans* L. and *Pterocarya* Kunth, in the form of chips, particles, sawdust, shavings, wood waste and scrap obtained in whole or part from these plants | EU Member States and the USA | The wood or the isolated bark must be accompanied by:<br>- (a) an official statement that it originates in an area\* which, in accordance with the measures specified in ISPM4, is known to be free from *Geosmithia morbida* Kolarík, Freeland, Utley & Tisserat and its vector *Pityophthorus juglandis* Blackman, or<br>- (b) an official statement that it has undergone an appropriate heat treatment to achieve a minimum temperature of 56 ̊C for a minimum duration of 40 continuous minutes throughout the entire profile of the bark or the wood.<br>\* The name of the area(s) must be included in the phytosanitary certificate under the heading “Additional declaration”. |
 >   | 122\. | Wood of *Acer macrophyllum* Pursh, *Aesculus californica* (Spach) Nutt.,<br>*Lithocarpus densiflorus* (Hook & Arn.) Rehd., *Quercus* spp. L. and<br>*Taxus brevifolia* Nutt. | The USA | The wood must be accompanied by:<br>- (a) an official statement that it originates in an area\* in which non- European isolates of *Phytophthora ramorum* Werres, De Cock & Man in ‘t Veld are known not to occur,<br>- (b) an official statement that the wood has been stripped of its bark and:<br>  - (i) that it has been squared so as to entirely remove the rounded surface,<br>  - (ii) that the water content of the wood does not exceed 20% expressed as a percentage of the dry matter, or<br>  - (iii) that the wood has been disinfected by an appropriate hot-air or hot water-water treatment, or<br>- (c) in the case of sawn wood with or without residual bark attached, an official statement that it has undergone kiln drying to below 20% moisture content, expressed as a percentage of dry matter, achieved through an appropriate time/temperature schedule.<br>\* The name of the area(s) must be included in the phytosanitary certificate under the heading “Additional declaration”.<br>Where the phytosanitary certificate includes the official statement referred to in point (c), there must also be evidence of that kiln-drying by a mark “kiln-dried” or “KD” or another internationally recognised mark, put on the wood or its packaging in accordance with current usage. |
@@ -1648,7 +1648,7 @@ Regulation 10
 > | 6\. | Seeds of *Solanum lycopersicum* L. and *Capsicum* spp., intended for planting | Any third country | The seeds must be accompanied by:<br>- (a) an official statement that they are of *Capsicum* spp. varieties which are known to be resistant to Tomato brown rugose fruit virus, or<br>- (b) an official statement:<br>  - (i) that the mother plants of seeds have been produced in a production site\* where Tomato brown rugose fruit virus is known not to occur on the basis of official inspections carried out at the appropriate time to detect that pest, and<br>  - (ii) that the seeds or their mother plants have undergone official sampling and testing for Tomato brown rugose fruit virus and have been found, according to those tests, to be free from that pest.<br>\*The name of the site(s) of production must be included in the phytosanitary certificate under the heading “Additional declaration”.<br>For the purposes of point (b)(ii), the official sampling and testing of the seeds must be carried out in accordance with the paragraphs below.<br>The official sampling of seeds for testing must be carried out in accordance with the following sampling schemes referred to in the relevant table of ISPM31:<br>—in the case of seed lots which include 3000 or fewer seeds, a hypergeometric sampling scheme that is able to identify with 95% reliability a level of presence of infected plants of 10% or above,<br>—in the case of seed lots which include 30000 or fewer seeds, but more than 3000 seeds, a sampling scheme that is able to identify with 95% reliability a level of presence of infected plants of 1% or above,<br>—in the case of seed lots which include more than 30000 seeds, a sampling scheme that is able to identify with 95% reliability a level of presence of infected plants of 0.1% or above.<br>Sub samples must consist of nor more tha 1000 seeds for Polymerase Chain Reaction (PCR) methods.<br>The testing of seeds must be carried out using one of the following methods and the method used must be included in the phytosanitary certificate under the heading “Additional declaration”:<br>—real-time RT-PCR using the primers and probes described in the ISF protocol (2020), or<br>—real-time RT-PCR using primers and probe of Menzel and Winter (Acta Horticulturae, in press). |
 > | 7\. | Plants for planting of *Solanum lycopersicum* L. and *Capsicum* spp. | Any third country | The plants must be accompanied by:<br>- (a) an official statement that they are of *Capsicum* spp. varieties which are known to be resistant to Tomato brown rugose fruit virus, or<br>- (b) an official statement that:<br>  - (i) the plants are derived from seeds which have undergone sampling and testing for Tomato brown rugose fruit virus in the manner set out in column (3) of entry 6 which has shown them to be free from that pest, and<br>  - (ii) the plants have been produced in a production site\* which is registered and supervised by the national plant protection organisation in the country of origin and is known to be free from Tomato brown rugose fruit virus on the basis of official inspections carried out at the appropriate time to detect that pest, and where the plants have shown symptoms of Tomato brown rugose fruit virus, the plants have undergone official sampling and testing for Tomato brown rugose fruit virus and have been found, according to those tests, to be free from that pest.<br>\*The name of the site(s) of production must be included in the phytosanitary certificate under the heading “Additional declaration”.<br>For the purposes of point (b)(ii), the official sampling and testing of the seeds must be carried out in accordance with the paragraphs below.<br>In the case of plants for planting, 200 leaves must be collected per site of production and cultivar.<br>In case of symptomatic plants, sampling for testing must be performed on at least 3 symptomatic leaves.<br>One of the following testing methods must be carried out for the detection of Tomato brown rugose fruit virus:<br>—in the case of symptomatic material only, ELISA,<br>—conventional RT-PCR using the primers of Alkowni et al. (2019),<br>—conventional RT-PCR using the primers of Rodriguez-Mendoza et al. (2019),<br>—real-time RT-PCR using the primers and probes described in the ISF protocol (2020),<br>—real-time RT-PCR using primers and probe of Menzel and Winter (Acta Horticulturae, in press).<br>In case of a positive result of the detection test, a second testing method, different from the one used for detection, must be carried out with one of the RT-PCR methods mentioned above, using the same sample to confirm the identification. |
 
-## SCHEDULE 8 — New Annex 8 to the Phytosanitary Conditions Regulation[^key-764716c7a3a35204dc8783c19ad2170d]
+## SCHEDULE 8 — New Annex 8 to the Phytosanitary Conditions Regulation[^c-764716c7a3a35204dc8783c19ad2170d]
 
 Regulation 11
 
@@ -1701,7 +1701,7 @@ Regulation 11
 > | 2\. | Seeds of *Solanum lycopersicum* L. and *Capsicum* spp., intended for planting, other than plants for planting of *Capsicum* spp. varieties which are known to be resistant to Tomato brown rugose fruit virus | The seeds must be accompanied by an official statement:<br>- (a) that the mother plants of seeds have been produced in a production site where Tomato brown rugose fruit virus is known not to occur on the basis of official inspections carried out at the appropriate time to detect that pest,<br>- (b) that the seeds or their mother plants have undergone sampling and testing for Tomato brown rugose fruit virus by the competent authority, or have been subjected to sampling and testing by professional operators under official supervision of the competent authority, and have been found, according to those tests, to be free from that pest, and<br>- (c) in the case of any seeds which were in storage prior to 15th August 2020, that the seeds have been sampled and tested for Tomato brown rugose fruit virus by the competent authority and found in those tests to be free from that pest.<br>For the purposes of point (b), the sampling and testing of the seeds must be carried out in accordance with the paragraphs below.<br>The official sampling of seeds for testing must be carried out in accordance with the following sampling schemes referred to in the relevant table of ISPM31:<br>—in the case of seed lots which include 3000 or fewer seeds, a hypergeometric sampling scheme that is able to identify with 95% reliability a level of presence of infected plants of 10% or above,<br>—in the case of seed lots which include 30000 or fewer seeds, but more than 3000 seeds, a sampling scheme that is able to identify with 95% reliability a level of presence of infected plants of 1% or above,<br>—in the case of seed lots which include more than 30000 seeds, a sampling scheme that is able to identify with 95% reliability a level of presence of infected plants of 0.1% or above.<br>Sub samples must consist of no more than 1000 seeds for Polymerase Chain Reaction (PCR) methods.<br>The testing of seeds must be carried out using one of the following methods and the method used must be included in the phytosanitary certificate under the heading “Additional declaration”:<br>—real-time RT-PCR using the primers and probes described in the ISF protocol (2020), or<br>—real-time RT-PCR using primers and probe of Menzel and Winter (Acta Horticulturae, in press). |
 > | 3\. | Plants for planting of *Solanum lycopersicum* L. and *Capsicum* spp., other than plants for planting of *Capsicum* spp. varieties which are known to be resistant to Tomato brown rugose fruit virus | The plants must be accompanied by an official statement:<br>- (a) that the plants are derived from seeds which have undergone sampling and testing for Tomato brown rugose fruit virus in the manner set out in column (2) of entry 2 which has shown them to be free from that pest, and<br>- (b) that the plants have been produced in a production site where Tomato brown rugose fruit virus is known not to occur on the basis of official inspections carried out at the appropriate time to detect that pest, and, where the plants have shown symptoms of Tomato brown rugose fruit virus, the plants have undergone official sampling and testing for Tomato brown rugose fruit virus and have been found, according to those tests, to be free from that pest.<br>For the purposes of point (b)(ii), the sampling and testing of the seeds must be carried out in accordance with the paragraphs below.<br>In the case of plants for planting, 200 leaves must be collected per site of production and cultivar.<br>In case of symptomatic plants, sampling for testing must be performed on at least 3 symptomatic leaves.<br>One of the following testing methods must be carried out for the detection of Tomato brown rugose fruit virus:<br>—in the case of symptomatic material only, ELISA,<br>—conventional RT-PCR using the primers of Alkowni et al. (2019),<br>—conventional RT-PCR using the primers of Rodriguez-Mendoza et al. (2019),<br>—real-time RT-PCR using the primers and probes described in the ISF protocol (2020),<br>—real-time RT-PCR using primers and probe of Menzel and Winter (Acta Horticulturae, in press).<br>In case of a positive result of the detection test, a second testing method, different from the one used for detection, must be carried out with one of the RT-PCR methods mentioned above, using the same sample to confirm the identification. |
 
-## SCHEDULE 9 — New Annex 10 to the Phytosanitary Conditions Regulation[^key-059a424e4926d51f58f19179dc631eeb]
+## SCHEDULE 9 — New Annex 10 to the Phytosanitary Conditions Regulation[^c-059a424e4926d51f58f19179dc631eeb]
 
 Regulation 13
 
@@ -1711,7 +1711,7 @@ Regulation 13
 > | --- | --- | --- | --- |
 > | 1\. | Plants for planting, other than fruits and seeds, of *Quercus* L., other than *Quercus suber* L., of a girth of at least 8 cm measured at a height of 1.2 m from the root collar | The plants must be accompanied by:<br>- (a) an official statement that the plants have been grown throughout their life in places of production in countries where *Thaumetopoea processionea* L. is not known to occur,<br>- (b) an official statement that the plants have been grown throughout their life in an area free from *Thaumetopoea processionea* L. established by the national plant protection organisation in accordance with ISPM4 as an area that is free from *Thaumetopoea processionea* L., or<br>- (c) an official statement that he plants have been grown throughout their life in a site with complete physical protection against the introduction of *Thaumetopoea processionea* L. and have been inspected at appropriate times and found to be free from *Thaumetopoea processionea* L. | Great Britain (excluding the local authority areas of Barking and Dagenham, Barnet, Basildon, Basingstoke and Deane, Bexley, Bracknell Forest, Brent, Brentwood, Bromley, Broxbourne, Camden, Castle Point, Chelmsford, Chiltern, City of London, City of Westminster, Crawley, Croydon, Dacorum, Dartford, Ealing, East Hertfordshire, Elmbridge District, Enfield, Epping Forest, Epsom and Ewell District, Gravesham, Greenwich, Guildford, Hackney, Hammersmith & Fulham, Haringey, Harlow, Harrow, Hart, Havering, Hertsmere, Hillingdon, Horsham, Hounslow, Islington, Kensington & Chelsea, Kingston-upon-Thames, Lambeth, Lewisham, Littlesford, Medway, Merton, Mid Sussex, Mole Valley, Newham, North Hertfordshire, Reading, Redbridge, Reigate and Banstead, Richmond-upon-Thames, Runnymede District, Rushmoor, Sevenoaks, Slough, South Bedfordshire, South Bucks, South Oxfordshire, Southwark, Spelthorne District, St Albans, Sutton, Surrey Heath, Tandridge, Three Rivers, Thurrock, Tonbridge and Malling, Tower Hamlets, Waltham Forest, Wandsworth, Watford, Waverley, Welwyn Hatfield, West Berkshire, Windsor and Maidenhead, Woking, Wokingham and Wycombe) |
 
-## SCHEDULE 10 — New Annex 11 to the Phytosanitary Conditions Regulation[^key-1d2d89bfd7124dbec238b1a3f5899cc4]
+## SCHEDULE 10 — New Annex 11 to the Phytosanitary Conditions Regulation[^c-1d2d89bfd7124dbec238b1a3f5899cc4]
 
 Regulation 14
 
@@ -1815,7 +1815,7 @@ Regulation 14
 > | 15\. | Fruits of *Passiflora* sp. L | Any third country |
 > | 16\. | Fruits of *Psidium* sp. | Any third country |
 
-## SCHEDULE 11 — New Annex 13 to the Phytosanitary Conditions Regulation[^key-e49930ca4557792b2fa6fcd279a87685]
+## SCHEDULE 11 — New Annex 13 to the Phytosanitary Conditions Regulation[^c-e49930ca4557792b2fa6fcd279a87685]
 
 Regulation 16
 
@@ -1890,63 +1890,63 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24379661]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); [section 8](https://www.legislation.gov.uk/uksi/2020/1527/section/8) was amended by section 27 of the [European Union (Withdrawal Agreement Act) 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) and paragraph 21 of Schedule 7 was amended by section 41(4) of, and paragraph 53(2) of Schedule 5 to, that Act.
 
-[^key-c5af9197be3b3e5310e0e051583f2990]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day, see reg. 1(2)
+[^c-c5af9197be3b3e5310e0e051583f2990]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day, see reg. 1(2)
 
-[^key-0c2f73a13c49ef44c4970d0b66aa47b5]: Textual amendment: Reg. 1(2) substituted (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/9/2/a)
+[^c-0c2f73a13c49ef44c4970d0b66aa47b5]: Textual amendment: Reg. 1(2) substituted (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/9/2/a)
 
-[^key-832d9639838c5f2d032d42881caa2d6a]: Textual amendment: Reg. 1(3)(4) inserted (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/9/2/b)
+[^c-832d9639838c5f2d032d42881caa2d6a]: Textual amendment: Reg. 1(3)(4) inserted (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/9/2/b)
 
-[^key-2b4a3ef5485cba72952dce277bff7aa5]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see reg. 1(2)
+[^c-2b4a3ef5485cba72952dce277bff7aa5]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see reg. 1(2)
 
-[^key-badabfbd832464e78e7d146814e6a315]: Textual amendment: Words in reg. 2(1) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/9/3/a)
+[^c-badabfbd832464e78e7d146814e6a315]: Textual amendment: Words in reg. 2(1) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/9/3/a)
 
 [^c24379671]: Marginal citation: EUR 2019/2072.
 
-[^key-cce1a2b43e141cccfd83662578e3f399]: Textual amendment: Word in reg. 2(9)(b) substituted (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/9/3/b)
+[^c-cce1a2b43e141cccfd83662578e3f399]: Textual amendment: Word in reg. 2(9)(b) substituted (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/9/3/b)
 
-[^key-fc497bb92baa3b2feba1b1670322149f]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-fc497bb92baa3b2feba1b1670322149f]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-a4e8a915e54a948bec5b7b24a6b2108f]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-a4e8a915e54a948bec5b7b24a6b2108f]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-d5dd576b83b29827ae14c3d1aab2ba46]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-d5dd576b83b29827ae14c3d1aab2ba46]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-2dbc9fabfcbfab9c79ae5145d16ff7ec]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-2dbc9fabfcbfab9c79ae5145d16ff7ec]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-41da290188d0b8168565863acb964069]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-41da290188d0b8168565863acb964069]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-5f67dcdb0820c78a75bcd11a2a5b570d]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-5f67dcdb0820c78a75bcd11a2a5b570d]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-d8dffca4f58317a15337ecf4c71a6ea3]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-d8dffca4f58317a15337ecf4c71a6ea3]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-97912f3764e25f0d868c57b5cd48a5a3]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-97912f3764e25f0d868c57b5cd48a5a3]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-4376d70201d9c8fb53302eba2da92d31]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-4376d70201d9c8fb53302eba2da92d31]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-a5c5b9954e42b00850ea7ee0e873bce4]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-a5c5b9954e42b00850ea7ee0e873bce4]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-03dceab1cc1a44a06de06787874c1e99]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-03dceab1cc1a44a06de06787874c1e99]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-a6890fcdf3090105ccb65519e26eb76c]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-a6890fcdf3090105ccb65519e26eb76c]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-a05fcb43bc093b5ebb9b2e0992dbb3ac]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-a05fcb43bc093b5ebb9b2e0992dbb3ac]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-096c71c2a703bea9befa04becd801c3e]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-096c71c2a703bea9befa04becd801c3e]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-9ec11214e59e4b7dd5983e6e150fe7ab]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-9ec11214e59e4b7dd5983e6e150fe7ab]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-de71c700a73d6478c07087287da2f47b]: Commencement: Sch. 1 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-de71c700a73d6478c07087287da2f47b]: Commencement: Sch. 1 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-d779d764b7d9ddd3922fb343bee01924]: Commencement: Sch. 2 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-d779d764b7d9ddd3922fb343bee01924]: Commencement: Sch. 2 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-7b48c77ace85dfcb40309d23219f2ab4]: Commencement: Sch. 3 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-7b48c77ace85dfcb40309d23219f2ab4]: Commencement: Sch. 3 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-6eef57f5fd0a3ad963d8e1fce290ef11]: Commencement: Sch. 4 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-6eef57f5fd0a3ad963d8e1fce290ef11]: Commencement: Sch. 4 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-f180d313c0b5e7e5ea8fb1fdfc5d123c]: Commencement: Sch. 5 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-f180d313c0b5e7e5ea8fb1fdfc5d123c]: Commencement: Sch. 5 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-145bb076f1183b5129cb620e74cf6582]: Commencement: Sch. 6 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-145bb076f1183b5129cb620e74cf6582]: Commencement: Sch. 6 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-fee517647f1086681ea660ad8b854ebe]: Commencement: Sch. 7 in force at 31.12.2020 on IP completion day, see reg. 1(2)
+[^c-fee517647f1086681ea660ad8b854ebe]: Commencement: Sch. 7 in force at 31.12.2020 on IP completion day, see reg. 1(2)
 
 [^c24379681]: Marginal citation: First approved by the European and Mediterranean Plant Protection Organization in September 2003 and available from its Secretariat at 21 Boulevard Richard Lenoir, 75011, Paris, France and at
 
@@ -1962,9 +1962,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24379711]: Marginal citation: [S.I. 2001/3510](https://www.legislation.gov.uk/uksi/2001/3510), amended by [S.I. 2004/2949](https://www.legislation.gov.uk/uksi/2004/2949), 2007/1871, 2009/1273, 2010/1195, 2011/464, 1043, 2014/487, 2018/942, 2019/162; there are other amending instruments but none is relevant.
 
-[^key-e20a3a3bd8d0542a34253e3e990b604a]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/9/4/a)
+[^c-e20a3a3bd8d0542a34253e3e990b604a]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/9/4/a)
 
-[^key-9cad4fdcc88d7b03ede3be20eff808bb]: Textual amendment: Words in Sch. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/9/4/b)
+[^c-9cad4fdcc88d7b03ede3be20eff808bb]: Textual amendment: Words in Sch. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/9/4/b)
 
 [^c24379721]: Marginal citation: Available from the IPPC Secretariat, AGPP-FAO, Viale Delle Terme di Caracalla, 00153, Rome, Italy and at https://www.ippc.int/int.
 
@@ -1974,7 +1974,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
     https://onlinelibrary.wiley.com/doi/epdf/10.1111/epp.2594.
 
-[^key-764716c7a3a35204dc8783c19ad2170d]: Commencement: Sch. 8 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-764716c7a3a35204dc8783c19ad2170d]: Commencement: Sch. 8 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
 [^c24379751]: Marginal citation: [S.I. 2019/1517](https://www.legislation.gov.uk/uksi/2019/1517) to which there are amendments not relevant to these Regulations.
 
@@ -1986,11 +1986,11 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
     https://onlinelibrary.wiley.com/doi/epdf/10.1111/epp.12613.
 
-[^key-059a424e4926d51f58f19179dc631eeb]: Commencement: Sch. 9 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-059a424e4926d51f58f19179dc631eeb]: Commencement: Sch. 9 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-1d2d89bfd7124dbec238b1a3f5899cc4]: Commencement: Sch. 10 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-1d2d89bfd7124dbec238b1a3f5899cc4]: Commencement: Sch. 10 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
-[^key-e49930ca4557792b2fa6fcd279a87685]: Commencement: Sch. 11 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
+[^c-e49930ca4557792b2fa6fcd279a87685]: Commencement: Sch. 11 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1527/regulation/1/2)
 
 [^c24379791]: Marginal citation: [S.I. 2001/3510](https://www.legislation.gov.uk/uksi/2001/3510); relevant amending instruments are [S.I. 2011/464](https://www.legislation.gov.uk/uksi/2011/464), 2016/106 (W.52), [S.S.I. 2015/395](https://www.legislation.gov.uk/ssi/2015/395), 2018/942.
 

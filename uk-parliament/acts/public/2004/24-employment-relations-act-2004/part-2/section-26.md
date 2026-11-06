@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Dismissal where employees taking protected industrial action locked out[^key-3a8c6ec3a23bac5f48ed967418deb283]
+## 26. Dismissal where employees taking protected industrial action locked out[^c-3a8c6ec3a23bac5f48ed967418deb283]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a8c6ec3a23bac5f48ed967418deb283]: Textual amendment: S. 26 omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 77(5)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/77/5/a), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(8)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/8) (with [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/11))
+[^c-3a8c6ec3a23bac5f48ed967418deb283]: Textual amendment: S. 26 omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 77(5)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/77/5/a), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(8)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/8) (with [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 77. Time and manner of payment of housing benefit in respect of collective community charge contributions[^key-e90c01aaadb4a09fe4b561724e1008f8]
+## 77. Time and manner of payment of housing benefit in respect of collective community charge contributions[^c-e90c01aaadb4a09fe4b561724e1008f8]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e90c01aaadb4a09fe4b561724e1008f8]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/1988/1890/regulation/77) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-e90c01aaadb4a09fe4b561724e1008f8]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/1988/1890/regulation/77) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

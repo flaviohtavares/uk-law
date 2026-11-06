@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Notification under section 50 of 2003 Act[^key-74d0bbef472bf49ae40b82d9ba1104cf]
+## 47. Notification under section 50 of 2003 Act[^c-74d0bbef472bf49ae40b82d9ba1104cf]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ In section 50 of the 2003 Act (power to activate right to buy land where breach 
 
 ## Annotations
 
-[^key-74d0bbef472bf49ae40b82d9ba1104cf]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2015/6/section/47) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-74d0bbef472bf49ae40b82d9ba1104cf]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2015/6/section/47) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

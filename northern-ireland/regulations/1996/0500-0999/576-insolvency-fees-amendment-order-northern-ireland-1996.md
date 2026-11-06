@@ -44,11 +44,11 @@ Coming into operation
 
 The Department of Economic Development[^f00002], in exercise of the powers conferred on it by Article 361(1), (3) and (4) of the Insolvency (Northern Ireland) Order 1989[^f00003] and of every other power enabling it in that behalf, with the concurrence of the Department of Finance and Personnel, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-8f4abb2b1a855e9823626910bdb505fd]
+## 1. Citation and commencement[^c-8f4abb2b1a855e9823626910bdb505fd]
 
 This Order may be cited as the Insolvency (Fees) (Amendment) Order (Northern Ireland) 1996 and shall come into operation on 31st January 1997.
 
-## 2. Amendment of the Insolvency (Fees) Order (Northern Ireland) 1991[^key-8047126fcef29c330fa788e18d3e1341]
+## 2. Amendment of the Insolvency (Fees) Order (Northern Ireland) 1991[^c-8047126fcef29c330fa788e18d3e1341]
 
 The Insolvency (Fees) Order (Northern Ireland) 1991[^f00004] shall be amended—
 
@@ -118,9 +118,9 @@ This Order also makes amendments consequential upon the making of the Insolvency
 
 [^f00003]: Footnote: S.I. [1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-8f4abb2b1a855e9823626910bdb505fd]: Commencement: Art. 1 in operation at 31.1.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1996/576/article/1)
+[^c-8f4abb2b1a855e9823626910bdb505fd]: Commencement: Art. 1 in operation at 31.1.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1996/576/article/1)
 
-[^key-8047126fcef29c330fa788e18d3e1341]: Commencement: Art. 2 in operation at 31.1.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1996/576/article/1)
+[^c-8047126fcef29c330fa788e18d3e1341]: Commencement: Art. 2 in operation at 31.1.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1996/576/article/1)
 
 [^f00004]: Footnote: [S.R. 1991 No. 385](https://www.legislation.gov.uk/nisr/1991/385) amended by [S.R. 1992 No. 398](https://www.legislation.gov.uk/nisr/1992/398)
 

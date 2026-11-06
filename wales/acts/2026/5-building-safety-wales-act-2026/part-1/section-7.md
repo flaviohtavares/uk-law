@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Inclusion of ancillary areas in references to regulated buildings[^key-1ed4d5e98f2d2873017d58e38225f99d]
+## 7. Inclusion of ancillary areas in references to regulated buildings[^c-1ed4d5e98f2d2873017d58e38225f99d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ed4d5e98f2d2873017d58e38225f99d]: Commencement: S. 7 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)
+[^c-1ed4d5e98f2d2873017d58e38225f99d]: Commencement: S. 7 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)

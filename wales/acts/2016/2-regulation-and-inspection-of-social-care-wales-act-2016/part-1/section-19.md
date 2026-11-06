@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Notice of decision following notice of proposal[^key-760324349bbd5851df344d6a06e91236]
+## 19. Notice of decision following notice of proposal[^c-760324349bbd5851df344d6a06e91236]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-760324349bbd5851df344d6a06e91236]: Commencement: S. 19 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
+[^c-760324349bbd5851df344d6a06e91236]: Commencement: S. 19 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)

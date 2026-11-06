@@ -33,12 +33,12 @@ to any person, including the Secretary of State.
 
 (2) The Secretary of State shall consult CLRL before making a scheme under sub-paragraph (1).
 
-### Part 2 — Transfers from the Greater London Authority, Transport for London ... and their subsidiaries[^key-37e28129d07f3cc025c99f5217a4028f]
+### Part 2 — Transfers from the Greater London Authority, Transport for London ... and their subsidiaries[^c-37e28129d07f3cc025c99f5217a4028f]
 
 **2.** (1) The Secretary of State may, for purposes connected with Crossrail, make schemes for the transfer of property, rights and liabilities—
 
-- (a) from the Greater London Authority [^key-b4065790192b712de96a4e093a8c2b9b]... or Transport for London, or
-- (b) from a body corporate which is a wholly owned subsidiary of the Greater London Authority [^key-d566593c4da4abb5efa7d2fbf7a478bb]... or Transport for London,
+- (a) from the Greater London Authority [^c-b4065790192b712de96a4e093a8c2b9b]... or Transport for London, or
+- (b) from a body corporate which is a wholly owned subsidiary of the Greater London Authority [^c-d566593c4da4abb5efa7d2fbf7a478bb]... or Transport for London,
 
 to any person, including the Secretary of State.
 
@@ -206,7 +206,7 @@ persons specified in the scheme.
 - (d) provision for things (including legal proceedings) being done by or in relation to the transferor to be continued by or in relation to a transferee, and
 - (e) provision for references in a document to the transferor, or to an employee or office-holder of the transferor, to have effect with modifications specified in the scheme.
 
-(3) In sub-paragraph (2)(e), the reference to an employee or office-holder of the transferor includes a reference to a person employed in any part of the statutory home civil service[^key-58aa38c3360da2bab2bb886bb7eb0c92].
+(3) In sub-paragraph (2)(e), the reference to an employee or office-holder of the transferor includes a reference to a person employed in any part of the statutory home civil service[^c-58aa38c3360da2bab2bb886bb7eb0c92].
 
 (4) Sub-paragraph (2)(e) does not apply to references in an enactment.
 
@@ -246,7 +246,7 @@ shall, by virtue of this sub-paragraph, be transferred or (as the case may be) c
 
 (2) In sub-paragraph (1)—
 
-- (a) a reference to becoming an employee of a person includes a reference to becoming employed in any part of the statutory home civil service[^key-9bba9b12f7a3e2a3fc4b887a0d4d2499], and
+- (a) a reference to becoming an employee of a person includes a reference to becoming employed in any part of the statutory home civil service[^c-9bba9b12f7a3e2a3fc4b887a0d4d2499], and
 - (b) a reference to being employed by a person, or to employment with a person, includes a reference to being employed in any part of the statutory home civil service.
 
 #### Provision of information to person making scheme
@@ -307,7 +307,7 @@ to provide him with such information as he considers necessary to enable him to 
 - “**enactment**” includes an enactment—
   - (a) contained in an instrument made under an Act, or
   - (b) contained in, or in an instrument made under, an Act of the Scottish Parliament;
-- “[^key-6bd68e04a5eb65f7b409ff1f8c2a85d6]**the statutory home civil service**” means the civil service (excluding Her Majesty's diplomatic service) within the meaning of Chapter 1 of Part 1 of the Constitutional Reform and Governance Act 2010 (see section 1(4) of that Act);
+- “[^c-6bd68e04a5eb65f7b409ff1f8c2a85d6]**the statutory home civil service**” means the civil service (excluding Her Majesty's diplomatic service) within the meaning of Chapter 1 of Part 1 of the Constitutional Reform and Governance Act 2010 (see section 1(4) of that Act);
 - “subsidiary” and “wholly-owned subsidiary” have the meaning given by section 736 of the Companies Act 1985 (c. 6);
 - “**transferee**”, in relation to a scheme, means a person who is a transferee in respect of property, rights or liabilities for whose transfer the scheme provides (or the person in whose favour any interest or right is created pursuant to paragraph 4);
 - “**transferor**”, in relation to a scheme, means the person for the transfer of whose property, rights or liabilities the scheme provides (or the person by whom any interest or right is created pursuant to paragraph 4).
@@ -316,14 +316,14 @@ to provide him with such information as he considers necessary to enable him to 
 
 ## Annotations
 
-[^key-37e28129d07f3cc025c99f5217a4028f]: Textual amendment: Words in Sch. 12 Pt. 2 repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-37e28129d07f3cc025c99f5217a4028f]: Textual amendment: Words in Sch. 12 Pt. 2 repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
 
-[^key-b4065790192b712de96a4e093a8c2b9b]: Textual amendment: Words in [Sch. 12 para. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/12/paragraph/2/1/a) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-b4065790192b712de96a4e093a8c2b9b]: Textual amendment: Words in [Sch. 12 para. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/12/paragraph/2/1/a) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
 
-[^key-d566593c4da4abb5efa7d2fbf7a478bb]: Textual amendment: Words in [Sch. 12 para. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/12/paragraph/2/1/b) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-d566593c4da4abb5efa7d2fbf7a478bb]: Textual amendment: Words in [Sch. 12 para. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/12/paragraph/2/1/b) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
 
-[^key-58aa38c3360da2bab2bb886bb7eb0c92]: Textual amendment: Words in [Sch. 12 para. 13(3)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/12/paragraph/13/3) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/18/2); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-58aa38c3360da2bab2bb886bb7eb0c92]: Textual amendment: Words in [Sch. 12 para. 13(3)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/12/paragraph/13/3) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/18/2); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
 
-[^key-9bba9b12f7a3e2a3fc4b887a0d4d2499]: Textual amendment: Words in [Sch. 12 para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/12/paragraph/16/2/a)[(b)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/12/paragraph/16/2/b) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/18/2); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-9bba9b12f7a3e2a3fc4b887a0d4d2499]: Textual amendment: Words in [Sch. 12 para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/12/paragraph/16/2/a)[(b)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/12/paragraph/16/2/b) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/18/2); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
 
-[^key-6bd68e04a5eb65f7b409ff1f8c2a85d6]: Textual amendment: Definition in Sch. 12 para. 20(2) inserted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 18(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/18/3); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-6bd68e04a5eb65f7b409ff1f8c2a85d6]: Textual amendment: Definition in Sch. 12 para. 20(2) inserted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 18(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/18/3); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Posthumous pardons for convictions etc of certain abolished offences: Northern Ireland[^c22720051][^key-8976546324c134f6d9072b2a95f3903d]
+## 169. Posthumous pardons for convictions etc of certain abolished offences: Northern Ireland[^c22720051][^c-8976546324c134f6d9072b2a95f3903d]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c22720051]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2017/3/section/169) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-8976546324c134f6d9072b2a95f3903d]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2017/3/section/169) in force at 28.6.2018 by [S.R. 2018/128](https://www.legislation.gov.uk/nisr/2018/128), [art. 2(b)](https://www.legislation.gov.uk/nisr/2018/128/article/2/b)
+[^c-8976546324c134f6d9072b2a95f3903d]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2017/3/section/169) in force at 28.6.2018 by [S.R. 2018/128](https://www.legislation.gov.uk/nisr/2018/128), [art. 2(b)](https://www.legislation.gov.uk/nisr/2018/128/article/2/b)

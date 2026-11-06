@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Meaning of “user-in-charge”[^key-989dd8a8f6ce76f6cb53f29cae477180]
+## 46. Meaning of “user-in-charge”[^c-989dd8a8f6ce76f6cb53f29cae477180]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ An individual is the “user-in-charge” of a vehicle if—
 
 ## Annotations
 
-[^key-989dd8a8f6ce76f6cb53f29cae477180]: Commencement: S. 46 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-989dd8a8f6ce76f6cb53f29cae477180]: Commencement: S. 46 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

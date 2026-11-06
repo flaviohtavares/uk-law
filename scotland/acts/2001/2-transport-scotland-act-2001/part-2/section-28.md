@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Ticketing arrangements[^key-ce3b6b6f11f634d7536dc1bb4dddc0e4][^key-48e17909e46809fc7155b32dfb3551af][^key-6e88b0795514a0df2569455b13c0faeb][^key-838aca48114f551b461faf10fcfe417f]
+## 28. Ticketing arrangements[^c-ce3b6b6f11f634d7536dc1bb4dddc0e4][^c-48e17909e46809fc7155b32dfb3551af][^c-6e88b0795514a0df2569455b13c0faeb][^c-838aca48114f551b461faf10fcfe417f]
 
 *Extent: S*
 
@@ -38,10 +38,10 @@ by entering into a single transaction of such description as the operator or ope
 
 ## Annotations
 
-[^key-ce3b6b6f11f634d7536dc1bb4dddc0e4]: Modification: S. 28 modified (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 54(2)](https://www.legislation.gov.uk/asp/2006/6/section/54/2) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
+[^c-ce3b6b6f11f634d7536dc1bb4dddc0e4]: Modification: S. 28 modified (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 54(2)](https://www.legislation.gov.uk/asp/2006/6/section/54/2) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
 
-[^key-48e17909e46809fc7155b32dfb3551af]: Modification: S. 28 modified (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 54(2)](https://www.legislation.gov.uk/asp/2006/7/section/54/2) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
+[^c-48e17909e46809fc7155b32dfb3551af]: Modification: S. 28 modified (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 54(2)](https://www.legislation.gov.uk/asp/2006/7/section/54/2) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
 
-[^key-6e88b0795514a0df2569455b13c0faeb]: Modification: Ss. 28-31: transfer of functions (1.11.2006) by [Transfer of Functions to the Shetland Transport Partnership Order 2006 (S.S.I. 2006/527)](https://www.legislation.gov.uk/ssi/2006/527), [arts. 1](https://www.legislation.gov.uk/ssi/2006/527/article/1), [3](https://www.legislation.gov.uk/ssi/2006/527/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/527/schedule/1) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/527/article/5))
+[^c-6e88b0795514a0df2569455b13c0faeb]: Modification: Ss. 28-31: transfer of functions (1.11.2006) by [Transfer of Functions to the Shetland Transport Partnership Order 2006 (S.S.I. 2006/527)](https://www.legislation.gov.uk/ssi/2006/527), [arts. 1](https://www.legislation.gov.uk/ssi/2006/527/article/1), [3](https://www.legislation.gov.uk/ssi/2006/527/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/527/schedule/1) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/527/article/5))
 
-[^key-838aca48114f551b461faf10fcfe417f]: Modification: Ss. 28-31: transfer of functions (7.11.2006) by [Transfer of Functions to the South-West of Scotland Transport Partnership Order 2006 (S.S.I. 2006/538)](https://www.legislation.gov.uk/ssi/2006/538), [art. 1](https://www.legislation.gov.uk/ssi/2006/538/article/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/538/schedule/1) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/538/article/5))
+[^c-838aca48114f551b461faf10fcfe417f]: Modification: Ss. 28-31: transfer of functions (7.11.2006) by [Transfer of Functions to the South-West of Scotland Transport Partnership Order 2006 (S.S.I. 2006/538)](https://www.legislation.gov.uk/ssi/2006/538), [art. 1](https://www.legislation.gov.uk/ssi/2006/538/article/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/538/schedule/1) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/538/article/5))

@@ -44,8 +44,8 @@ extend to England and Wales only.
 
 (6) In Part III of this Act—
 
-- (a) sections \[[^c17027181]174\], 179 and 180 also extend to Scotland; [^key-314ac0d3aade5ee18e9ba012796546fa]...
-- (b)[^key-314ac0d3aade5ee18e9ba012796546fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) sections \[[^c17027181]174\], 179 and 180 also extend to Scotland; [^c-314ac0d3aade5ee18e9ba012796546fa]...
+- (b)[^c-314ac0d3aade5ee18e9ba012796546fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) This Part, except this section, paragraph 3 of Schedule 21 and the repeals in the [^c17027191]House of Commons Disqualification Act 1975 and the [^c17027201]Northern Ireland Assembly Disqualification Act 1975, does not extend to Northern Ireland.
 
@@ -57,7 +57,7 @@ extend to England and Wales only.
 
 [^c17027181]: Textual amendment: Words '174' in s. 188(6) repealed (E.W.S.) (24.9.1996) by [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53), [ss. 147](https://www.legislation.gov.uk/ukpga/1996/53/section/147), [150(2)](https://www.legislation.gov.uk/ukpga/1996/53/section/150/2), [Sch. 3 Pt.III](https://www.legislation.gov.uk/ukpga/1996/53/schedule/3/part/III)
 
-[^key-314ac0d3aade5ee18e9ba012796546fa]: Textual amendment: S. 188(6)(b) and word repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 63(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/63/3), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [arts. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3), [5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-314ac0d3aade5ee18e9ba012796546fa]: Textual amendment: S. 188(6)(b) and word repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 63(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/63/3), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [arts. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3), [5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
 [^c17027191]: Marginal citation: [1975 c. 24](https://www.legislation.gov.uk/ukpga/1975/24).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76A. Transitional provision in relation to EU Exit[^key-569311145effaddf3e694669cb3fc99d]
+## 76A. Transitional provision in relation to EU Exit[^c-569311145effaddf3e694669cb3fc99d]
 
 *Extent: E+W+S*
 
@@ -32,14 +32,14 @@ summary: ''
 - (a) any obligation of any enforcing authority to inform the European Commission or the member States of any matter; or
 - (b) any obligation to take action outside of the United Kingdom in respect of that product.
 
-(4)[^key-e33dc65eeb809552200b266ad6221d3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e33dc65eeb809552200b266ad6221d3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e33dc65eeb809552200b266ad6221d3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e33dc65eeb809552200b266ad6221d3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-e33dc65eeb809552200b266ad6221d3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e33dc65eeb809552200b266ad6221d3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-569311145effaddf3e694669cb3fc99d]: Textual amendment: Reg. 76A inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 21 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/37) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(j)(vi)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/j/vi)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-569311145effaddf3e694669cb3fc99d]: Textual amendment: Reg. 76A inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 21 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/37) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(j)(vi)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/j/vi)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e33dc65eeb809552200b266ad6221d3e]: Textual amendment: Reg. 76A(4)-(6) omitted (1.10.2024) by virtue of [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2024/696/regulation/12/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+[^c-e33dc65eeb809552200b266ad6221d3e]: Textual amendment: Reg. 76A(4)-(6) omitted (1.10.2024) by virtue of [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2024/696/regulation/12/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))

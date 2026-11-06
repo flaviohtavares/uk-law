@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Access to records of individual exposure to cosmic radiation[^key-538fe143aa9e983c8ed1331b92475d3e]
+## 148. Access to records of individual exposure to cosmic radiation[^c-538fe143aa9e983c8ed1331b92475d3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-538fe143aa9e983c8ed1331b92475d3e]: Commencement: Reg. 148 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-538fe143aa9e983c8ed1331b92475d3e]: Commencement: Reg. 148 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

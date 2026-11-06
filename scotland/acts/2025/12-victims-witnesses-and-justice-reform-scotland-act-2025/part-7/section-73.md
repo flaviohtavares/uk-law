@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Judges of the Sexual Offences Court: re-employment of former judges[^key-af1eb2b1b13dab927a8132700fa27c4f]
+## 73. Judges of the Sexual Offences Court: re-employment of former judges[^c-af1eb2b1b13dab927a8132700fa27c4f]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af1eb2b1b13dab927a8132700fa27c4f]: Commencement: S. 73 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-af1eb2b1b13dab927a8132700fa27c4f]: Commencement: S. 73 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

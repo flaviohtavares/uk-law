@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Designation as a related site for the purposes of s. 18[^key-08e0b152ed726ca067ec8b8e8ce43cd2]
+## 19. Designation as a related site for the purposes of s. 18[^c-08e0b152ed726ca067ec8b8e8ce43cd2]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08e0b152ed726ca067ec8b8e8ce43cd2]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2004/20/section/19) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-08e0b152ed726ca067ec8b8e8ce43cd2]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2004/20/section/19) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

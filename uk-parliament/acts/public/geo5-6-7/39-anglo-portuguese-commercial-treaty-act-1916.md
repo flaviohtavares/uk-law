@@ -39,7 +39,7 @@ An Act to amend the Anglo-Portuguese Commercial Treaty Act, 1914.
 
 (1) The description “port” applied to wine the produce of Portugal, imported into the United Kingdom after the commencement of this Act, shall be deemed to be a false trade description within the meaning of the[^c580558] [^c580559]Trade Descriptions Act 1968, if the wine on importation into the United Kingdom was not accompanied by a certificate issued by the competent Portuguese authorities to the effect that it was a wine to which by the law of Portugal the description “port” may be applied, and that Act shall have effect accordingly:
 
-[^key-9cfb457fb27eb721e2f00c9a19babbbc]...
+[^c-9cfb457fb27eb721e2f00c9a19babbbc]...
 
 (2) This provision is in addition to and not in derogation of any of the provisions contained in the principal Act.
 
@@ -61,7 +61,7 @@ An Act to amend the Anglo-Portuguese Commercial Treaty Act, 1914.
 
 [^c580559]: Marginal citation: [1968 c. 29](https://www.legislation.gov.uk/ukpga/1968/29).
 
-[^key-9cfb457fb27eb721e2f00c9a19babbbc]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/Geo5/6-7/39/section/1/1) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-9cfb457fb27eb721e2f00c9a19babbbc]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/Geo5/6-7/39/section/1/1) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
 [^c580560]: Editorial: A dagger appended to a marginal note means that it is no longer accurate
 

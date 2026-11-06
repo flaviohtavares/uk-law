@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule 2 — CARE PACKAGES[^key-8fa99f4cbf1d84953efb94db6d9dc403]
+## Schedule 2 — CARE PACKAGES[^c-8fa99f4cbf1d84953efb94db6d9dc403]
 
 *Extent: E+W*
 
 Regulation 14
 
-[^key-8fa99f4cbf1d84953efb94db6d9dc403]
+[^c-8fa99f4cbf1d84953efb94db6d9dc403]
 
 | Title | Description |
 | --- | --- |
@@ -36,12 +36,12 @@ Regulation 14
 | Crown Bridge, Inlay, Onlay and Veneer Care Package (limited to 10% of overall care package delivery) | Excludes temporary restorations. Up to a 3 unit bridge or up to two crowns or where a crown and bridge are both provided a single cantilever bridge and single crown would be provided under a single care package. Includes study models, posts and cores etc. Excludes laboratory charges. |
 | Miscellaneous Care Package | For treatment and interventions for patients that fall outside a current care package or outside the guarantee period. Includes: denture repair/addition/reline, denture ease, study models, bite raising appliance, biopsy, repair/recement of a crown, bridge or veneer, removal of sutures, pericoronitis, ANUG, orthodontic urgent issues, arrest of haemorrhage (for extractions carried outside of a care package), dry socket (for extractions carried outside of a care package). Excludes any laboratory charge. |
 
-**1.**[^key-8fa99f4cbf1d84953efb94db6d9dc403] Periodontal care packages are limited to two a year for each patient.
+**1.**[^c-8fa99f4cbf1d84953efb94db6d9dc403] Periodontal care packages are limited to two a year for each patient.
 
-**2.**[^key-8fa99f4cbf1d84953efb94db6d9dc403] Total provision of crown bridge, inlay, onlay and veneer care packages must not exceed 10% of annual contract value annually unless prior written approval has been obtained from the Local Health Board.
+**2.**[^c-8fa99f4cbf1d84953efb94db6d9dc403] Total provision of crown bridge, inlay, onlay and veneer care packages must not exceed 10% of annual contract value annually unless prior written approval has been obtained from the Local Health Board.
 
-**3.**[^key-8fa99f4cbf1d84953efb94db6d9dc403] Urgent treatment for active patients may, where clinically appropriate, be delivered as a care package within the urgent appointment or subsequent appointments where necessary.
+**3.**[^c-8fa99f4cbf1d84953efb94db6d9dc403] Urgent treatment for active patients may, where clinically appropriate, be delivered as a care package within the urgent appointment or subsequent appointments where necessary.
 
 ## Annotations
 
-[^key-8fa99f4cbf1d84953efb94db6d9dc403]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2026/37/schedule/2) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-8fa99f4cbf1d84953efb94db6d9dc403]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2026/37/schedule/2) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

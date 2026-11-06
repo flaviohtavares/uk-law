@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Provision of information to the Office for Budget Responsibility[^key-f883f752f2a6981f0442f502dd5aba09]
+## 21. Provision of information to the Office for Budget Responsibility[^c-f883f752f2a6981f0442f502dd5aba09]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f883f752f2a6981f0442f502dd5aba09]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/11/section/21) in force at 1.4.2017 by [S.I. 2016/1178](https://www.legislation.gov.uk/uksi/2016/1178), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1178/regulation/2/b)
+[^c-f883f752f2a6981f0442f502dd5aba09]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/11/section/21) in force at 1.4.2017 by [S.I. 2016/1178](https://www.legislation.gov.uk/uksi/2016/1178), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1178/regulation/2/b)

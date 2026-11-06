@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74.4. Evidence in support[^key-3bdde8a4ae2efc3f1bdb3d288be72b56]
+## 74.4. Evidence in support[^c-3bdde8a4ae2efc3f1bdb3d288be72b56]
 
 *Extent: E+W*
 
@@ -61,14 +61,14 @@ summary: ''
 - (b) in the case of a judgment in default, a document which establishes that the party in default was served with the document instituting the proceedings or with an equivalent document; and
 - (c) where appropriate, a document showing that the judgment creditor is in receipt of legal aid in the State of origin.
 
-(6)[^key-92c284f3f6d72af8669f6797fa4f25b0] Written evidence in support of an application under section 4B of the 1982 Act (registration and enforcement of judgments under the 2005 Hague Convention) must also—
+(6)[^c-92c284f3f6d72af8669f6797fa4f25b0] Written evidence in support of an application under section 4B of the 1982 Act (registration and enforcement of judgments under the 2005 Hague Convention) must also—
 
 - (a) confirm that the judgment—
   - (i) meets the condition in Article 8(3) of the 2005 Hague Convention;
   - (ii) otherwise meets the requirements for recognition or enforcement under the 2005 Hague Convention; and
 - (b) include any other evidence required by Article 13 of the 2005 Hague Convention.
 
-(7)[^key-d949c11e56b831ac9fcb7bbdf6175687] Written evidence in support of an application under section 4C of the 1982 Act (registration and enforcement of judgments under the 2019 Hague Convention) must also—
+(7)[^c-d949c11e56b831ac9fcb7bbdf6175687] Written evidence in support of an application under section 4C of the 1982 Act (registration and enforcement of judgments under the 2019 Hague Convention) must also—
 
 - (a) confirm that the judgment—
   - (i) meets the condition in Article 4(3) of the 2019 Hague Convention;
@@ -78,10 +78,10 @@ summary: ''
 
 ## Annotations
 
-[^key-3bdde8a4ae2efc3f1bdb3d288be72b56]: Textual amendment: Pt. 74 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 8](https://www.legislation.gov.uk/uksi/2002/2058/schedule/8)
+[^c-3bdde8a4ae2efc3f1bdb3d288be72b56]: Textual amendment: Pt. 74 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 8](https://www.legislation.gov.uk/uksi/2002/2058/schedule/8)
 
 [^f00020]: Footnote: [1980 c. 58](https://www.legislation.gov.uk/ukpga/1980/58).
 
-[^key-92c284f3f6d72af8669f6797fa4f25b0]: Textual amendment: Rule 74.4(6) substituted for rule 74.4(5A) (coming into force in accordance with rule 1(1) of the amending S.I.) by [The Civil Procedure (Amendment No. 2) Rules 2024 (S.I. 2024/595)](https://www.legislation.gov.uk/uksi/2024/595), [rule 4(4)(a)](https://www.legislation.gov.uk/uksi/2024/595/rule/4/4/a) (with [rule 2](https://www.legislation.gov.uk/uksi/2024/595/rule/2))
+[^c-92c284f3f6d72af8669f6797fa4f25b0]: Textual amendment: Rule 74.4(6) substituted for rule 74.4(5A) (coming into force in accordance with rule 1(1) of the amending S.I.) by [The Civil Procedure (Amendment No. 2) Rules 2024 (S.I. 2024/595)](https://www.legislation.gov.uk/uksi/2024/595), [rule 4(4)(a)](https://www.legislation.gov.uk/uksi/2024/595/rule/4/4/a) (with [rule 2](https://www.legislation.gov.uk/uksi/2024/595/rule/2))
 
-[^key-d949c11e56b831ac9fcb7bbdf6175687]: Textual amendment: Rule 74.4(7) inserted (coming into force in accordance with rule 1(1) of the amending S.I.) by [The Civil Procedure (Amendment No. 2) Rules 2024 (S.I. 2024/595)](https://www.legislation.gov.uk/uksi/2024/595), [rule 4(4)(b)](https://www.legislation.gov.uk/uksi/2024/595/rule/4/4/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2024/595/rule/2))
+[^c-d949c11e56b831ac9fcb7bbdf6175687]: Textual amendment: Rule 74.4(7) inserted (coming into force in accordance with rule 1(1) of the amending S.I.) by [The Civil Procedure (Amendment No. 2) Rules 2024 (S.I. 2024/595)](https://www.legislation.gov.uk/uksi/2024/595), [rule 4(4)(b)](https://www.legislation.gov.uk/uksi/2024/595/rule/4/4/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2024/595/rule/2))

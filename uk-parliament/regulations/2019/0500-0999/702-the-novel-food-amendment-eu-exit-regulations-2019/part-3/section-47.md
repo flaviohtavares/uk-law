@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47.[^key-bf7a9828796cfb25365a6ef9cfa010aa]
+## 47.[^c-bf7a9828796cfb25365a6ef9cfa010aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 10(2), for “Commission”, substitute “ appropriate authority ”
 
 ## Annotations
 
-[^key-bf7a9828796cfb25365a6ef9cfa010aa]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-bf7a9828796cfb25365a6ef9cfa010aa]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

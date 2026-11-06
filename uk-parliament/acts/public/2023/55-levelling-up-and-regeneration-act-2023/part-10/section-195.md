@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Initial notice[^key-fb093da155b4e19713002f2c8c850768][^key-8dc48fef44873fbd30cfa091b62e1e56]
+## 195. Initial notice[^c-fb093da155b4e19713002f2c8c850768][^c-8dc48fef44873fbd30cfa091b62e1e56]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fb093da155b4e19713002f2c8c850768]: Commencement: S. 195 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-fb093da155b4e19713002f2c8c850768]: Commencement: S. 195 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-8dc48fef44873fbd30cfa091b62e1e56]: Commencement: [S. 195](https://www.legislation.gov.uk/ukpga/2023/55/section/195) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)
+[^c-8dc48fef44873fbd30cfa091b62e1e56]: Commencement: [S. 195](https://www.legislation.gov.uk/ukpga/2023/55/section/195) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Commencement[^key-ab441a21bd512d8514c46983f8898441]
+## 100. Commencement[^c-ab441a21bd512d8514c46983f8898441]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab441a21bd512d8514c46983f8898441]: Commencement: S. 100 in force at Royal Assent, see [s. 100(2)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2)
+[^c-ab441a21bd512d8514c46983f8898441]: Commencement: S. 100 in force at Royal Assent, see [s. 100(2)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2)

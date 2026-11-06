@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 229. Identification, designation and review of zones[^key-c9ce27af536247ec7fe8584cb76a05ef]
+## 229. Identification, designation and review of zones[^c-c9ce27af536247ec7fe8584cb76a05ef]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9ce27af536247ec7fe8584cb76a05ef]: Commencement: S. 229 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-c9ce27af536247ec7fe8584cb76a05ef]: Commencement: S. 229 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

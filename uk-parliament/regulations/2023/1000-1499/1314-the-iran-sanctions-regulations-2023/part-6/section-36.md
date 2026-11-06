@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Interpretation[^key-80c32b8c3862c33adf79e4d2431ed28e]
+## 36. Interpretation[^c-80c32b8c3862c33adf79e4d2431ed28e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-80c32b8c3862c33adf79e4d2431ed28e]: Textual amendment: Reg. 36 substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/3/2)
+[^c-80c32b8c3862c33adf79e4d2431ed28e]: Textual amendment: Reg. 36 substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/3/2)

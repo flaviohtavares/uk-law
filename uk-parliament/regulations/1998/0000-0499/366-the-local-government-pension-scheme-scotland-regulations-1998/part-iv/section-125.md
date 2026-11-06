@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 125. Community scheme transferees[^key-3a5667ddadab556412ef92e49614c311]
+## 125. Community scheme transferees[^c-3a5667ddadab556412ef92e49614c311]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a5667ddadab556412ef92e49614c311]: Commencement: Reg. 125 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-3a5667ddadab556412ef92e49614c311]: Commencement: Reg. 125 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

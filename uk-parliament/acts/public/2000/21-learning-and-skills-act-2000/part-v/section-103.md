@@ -22,11 +22,11 @@ summary: ''
 
 (1) The [^c13164781]Education Act 1997 shall be amended as follows.
 
-(2)[^key-96f2440820b56733fdb72a4bd3cb189b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-96f2440820b56733fdb72a4bd3cb189b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-96f2440820b56733fdb72a4bd3cb189b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-96f2440820b56733fdb72a4bd3cb189b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-81197882c535b3f9e597151b792e2c38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-81197882c535b3f9e597151b792e2c38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 37 (requirement for approval of certain courses leading to external qualifications) omit subsections (1) to (4) and in subsection (5) the words “, which are superseded by this section,”.
 
@@ -36,6 +36,6 @@ summary: ''
 
 [^c13164781]: Marginal citation: [1997 c. 44](https://www.legislation.gov.uk/ukpga/1997/44).
 
-[^key-96f2440820b56733fdb72a4bd3cb189b]: Textual amendment: S. 103(2)(3) repealed (1.4.2010 for E., 1.11.2010 for W.) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1), S.I. 2010/2413, art. 2(a)
+[^c-96f2440820b56733fdb72a4bd3cb189b]: Textual amendment: S. 103(2)(3) repealed (1.4.2010 for E., 1.11.2010 for W.) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1), S.I. 2010/2413, art. 2(a)
 
-[^key-81197882c535b3f9e597151b792e2c38]: Textual amendment: [S. 103(4)](https://www.legislation.gov.uk/ukpga/2000/21/section/103/4) omitted (21.9.2015) by virtue of [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 4 para. 3(9)](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/3/9); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-81197882c535b3f9e597151b792e2c38]: Textual amendment: [S. 103(4)](https://www.legislation.gov.uk/ukpga/2000/21/section/103/4) omitted (21.9.2015) by virtue of [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 4 para. 3(9)](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/3/9); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

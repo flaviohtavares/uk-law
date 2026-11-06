@@ -31,8 +31,8 @@ summary: ''
 
 (4) Chapter 4 (realisation of intangible fixed assets) applies to the asset as if its cost did not include any expenditure on research and development.
 
-(5) In this section “**research and development**” has the meaning given by section 1138 of CTA 2010[^key-b72c3371dfa135f768eff17f348f5446] and includes oil and gas exploration and appraisal.
+(5) In this section “**research and development**” has the meaning given by section 1138 of CTA 2010[^c-b72c3371dfa135f768eff17f348f5446] and includes oil and gas exploration and appraisal.
 
 ## Annotations
 
-[^key-b72c3371dfa135f768eff17f348f5446]: Textual amendment: Words in s. 814(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 654](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/654) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b72c3371dfa135f768eff17f348f5446]: Textual amendment: Words in s. 814(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 654](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/654) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

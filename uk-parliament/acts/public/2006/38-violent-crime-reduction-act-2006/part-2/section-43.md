@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-944d2ea25ffcc18300fb90965bbf2c8d] The Criminal Justice Act 1988 is amended as follows.
+(1)[^c-944d2ea25ffcc18300fb90965bbf2c8d] The Criminal Justice Act 1988 is amended as follows.
 
-(2)[^key-944d2ea25ffcc18300fb90965bbf2c8d] In section 141A(1) (prohibition on sale of knives etc. to persons under sixteen), for “sixteen” substitute “ eighteen ”.
+(2)[^c-944d2ea25ffcc18300fb90965bbf2c8d] In section 141A(1) (prohibition on sale of knives etc. to persons under sixteen), for “sixteen” substitute “ eighteen ”.
 
-(3)[^key-bab3c2a6c0bc79398a246c0a87cdda76] In subsections (5), (8) and (9) of section 141 (defences relating to museums and galleries to offence of manufacture, sale etc. of prescribed weapons), for “prove” substitute “ show ”.
+(3)[^c-bab3c2a6c0bc79398a246c0a87cdda76] In subsections (5), (8) and (9) of section 141 (defences relating to museums and galleries to offence of manufacture, sale etc. of prescribed weapons), for “prove” substitute “ show ”.
 
-(4)[^key-30141ef5b70a3e994a1b180eb3abee35][^key-1d2b25565a67639fd76b4b5580e363f2] After subsection (11) of that section insert—
+(4)[^c-30141ef5b70a3e994a1b180eb3abee35][^c-1d2b25565a67639fd76b4b5580e363f2] After subsection (11) of that section insert—
 
 > (11A) It shall be a defence for a person charged in respect of conduct of his relating to a weapon to which this section applies—
 >
@@ -53,14 +53,14 @@ summary: ''
 >
 > (11E) A statutory instrument containing an order under this section shall not be made unless a draft of the instrument has been laid before Parliament and approved by a resolution of each House.
 
-(5)[^key-bab3c2a6c0bc79398a246c0a87cdda76] The defence in section 141(11A) is not available in relation to so much of any charge as relates to conduct taking place before the commencement of this section.
+(5)[^c-bab3c2a6c0bc79398a246c0a87cdda76] The defence in section 141(11A) is not available in relation to so much of any charge as relates to conduct taking place before the commencement of this section.
 
 ## Annotations
 
-[^key-944d2ea25ffcc18300fb90965bbf2c8d]: Commencement: [S. 43(1)](https://www.legislation.gov.uk/ukpga/2006/38/section/43/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/43/2) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(j)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/j)
+[^c-944d2ea25ffcc18300fb90965bbf2c8d]: Commencement: [S. 43(1)](https://www.legislation.gov.uk/ukpga/2006/38/section/43/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/43/2) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(j)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/j)
 
-[^key-bab3c2a6c0bc79398a246c0a87cdda76]: Commencement: [S. 43(3)](https://www.legislation.gov.uk/ukpga/2006/38/section/43/3)[(5)](https://www.legislation.gov.uk/ukpga/2006/38/section/43/5) in force at 6.4.2008 by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/791/article/3/a)
+[^c-bab3c2a6c0bc79398a246c0a87cdda76]: Commencement: [S. 43(3)](https://www.legislation.gov.uk/ukpga/2006/38/section/43/3)[(5)](https://www.legislation.gov.uk/ukpga/2006/38/section/43/5) in force at 6.4.2008 by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/791/article/3/a)
 
-[^key-30141ef5b70a3e994a1b180eb3abee35]: Commencement: [S. 43(4)](https://www.legislation.gov.uk/ukpga/2006/38/section/43/4) in force at 1.4.2008 for specified purposes by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/791/article/2/a)
+[^c-30141ef5b70a3e994a1b180eb3abee35]: Commencement: [S. 43(4)](https://www.legislation.gov.uk/ukpga/2006/38/section/43/4) in force at 1.4.2008 for specified purposes by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/791/article/2/a)
 
-[^key-1d2b25565a67639fd76b4b5580e363f2]: Commencement: [S. 43(4)](https://www.legislation.gov.uk/ukpga/2006/38/section/43/4) in force at 6.4.2008 in so far as not already in force by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/791/article/3/a)
+[^c-1d2b25565a67639fd76b4b5580e363f2]: Commencement: [S. 43(4)](https://www.legislation.gov.uk/ukpga/2006/38/section/43/4) in force at 6.4.2008 in so far as not already in force by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/791/article/3/a)

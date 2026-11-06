@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Cessation directions[^key-fae7ff2215c86b82eada7edee1af73d6]
+## 40. Cessation directions[^c-fae7ff2215c86b82eada7edee1af73d6]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fae7ff2215c86b82eada7edee1af73d6]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2010/16/section/40) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-fae7ff2215c86b82eada7edee1af73d6]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2010/16/section/40) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

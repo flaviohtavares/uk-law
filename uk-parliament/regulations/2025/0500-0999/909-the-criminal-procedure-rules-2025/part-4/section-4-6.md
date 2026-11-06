@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.6. Service by electronic means[^key-eb1df8e37c14cedb3262e4235f8e826e]
+## 4.6. Service by electronic means[^c-eb1df8e37c14cedb3262e4235f8e826e]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb1df8e37c14cedb3262e4235f8e826e]: Commencement: [Rule 4.6](https://www.legislation.gov.uk/uksi/2025/909/rule/4.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-eb1df8e37c14cedb3262e4235f8e826e]: Commencement: [Rule 4.6](https://www.legislation.gov.uk/uksi/2025/909/rule/4.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

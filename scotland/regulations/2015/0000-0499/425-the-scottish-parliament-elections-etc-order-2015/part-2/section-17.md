@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Returning officers: general[^key-07e838193b0b8c26ab0da1df8f94cac8]
+## 17. Returning officers: general[^c-07e838193b0b8c26ab0da1df8f94cac8]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07e838193b0b8c26ab0da1df8f94cac8]: Commencement: Art. 17 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-07e838193b0b8c26ab0da1df8f94cac8]: Commencement: Art. 17 in force at 16.12.2015 in accordance with art. 1(1)

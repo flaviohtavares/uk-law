@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Transfer of property, rights and liabilities[^key-d27842a74996b8b5cdaf4ffe69dfeaa5][^key-974b98bb21d51b16df750842a0cd3faa]
+## 57. Transfer of property, rights and liabilities[^c-d27842a74996b8b5cdaf4ffe69dfeaa5][^c-974b98bb21d51b16df750842a0cd3faa]
 
 *Extent: E+W*
 
@@ -75,6 +75,6 @@ by relevant legislation.
 
 ## Annotations
 
-[^key-d27842a74996b8b5cdaf4ffe69dfeaa5]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-d27842a74996b8b5cdaf4ffe69dfeaa5]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-974b98bb21d51b16df750842a0cd3faa]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2026/23/section/57) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-974b98bb21d51b16df750842a0cd3faa]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2026/23/section/57) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

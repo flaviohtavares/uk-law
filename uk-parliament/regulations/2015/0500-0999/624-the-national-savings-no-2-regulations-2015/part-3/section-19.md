@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Forfeiture of new stock[^key-4d69b66f9cc88b3369a835953b9d0d93]
+## 19. Forfeiture of new stock[^c-4d69b66f9cc88b3369a835953b9d0d93]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d69b66f9cc88b3369a835953b9d0d93]: Commencement: Reg. 19 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-4d69b66f9cc88b3369a835953b9d0d93]: Commencement: Reg. 19 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

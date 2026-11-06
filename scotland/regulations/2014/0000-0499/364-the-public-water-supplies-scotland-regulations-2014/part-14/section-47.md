@@ -29,7 +29,7 @@ summary: ''
 
   by a person designated by the local authority in writing (or in electronic form), such samples of the water supplied to the premises as they may reasonably require pursuant to that duty.
 
-(1A)[^key-384b647fc88b6b1f8f7582fa4913d717] Regulation 14A applies to samples taken under paragraph (1) as it applies to samples taken for the purposes of Part 4, but with the following modifications:—
+(1A)[^c-384b647fc88b6b1f8f7582fa4913d717] Regulation 14A applies to samples taken under paragraph (1) as it applies to samples taken for the purposes of Part 4, but with the following modifications:—
 
 - (a) in paragraph (1)—
   - (i) for “Scottish Water” substitute “A local authority”; and
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-384b647fc88b6b1f8f7582fa4913d717]: Textual amendment: [Reg. 47(1A)](https://www.legislation.gov.uk/ssi/2014/364/regulation/47/1A) inserted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2017/281/regulation/6)
+[^c-384b647fc88b6b1f8f7582fa4913d717]: Textual amendment: [Reg. 47(1A)](https://www.legislation.gov.uk/ssi/2014/364/regulation/47/1A) inserted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2017/281/regulation/6)

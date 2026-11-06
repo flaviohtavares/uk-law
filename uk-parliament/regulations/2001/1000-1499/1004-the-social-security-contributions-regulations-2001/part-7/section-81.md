@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-dba9ac3e098a6c2c8c690b6acadec04c] Schedule 24 to the Finance Act 2007 (penalties for errors) applies to the return of contributions referred to in regulation 80(1) (return by employer) as if—
+(1)[^c-dba9ac3e098a6c2c8c690b6acadec04c] Schedule 24 to the Finance Act 2007 (penalties for errors) applies to the return of contributions referred to in regulation 80(1) (return by employer) as if—
 
 - (a) Class 1A contributions were a tax; and
 - (b) that tax and the return of contributions in relation to it were listed in the table in paragraph 1 of that Schedule.
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dba9ac3e098a6c2c8c690b6acadec04c]: Textual amendment: Reg. 81(1)(1A)(1B) substituted for reg. 81(1) (6.4.2010) (with application in accordance with reg. 1(3) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2010 (S.I. 2010/721)](https://www.legislation.gov.uk/uksi/2010/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/721/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2010/721/regulation/4)
+[^c-dba9ac3e098a6c2c8c690b6acadec04c]: Textual amendment: Reg. 81(1)(1A)(1B) substituted for reg. 81(1) (6.4.2010) (with application in accordance with reg. 1(3) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2010 (S.I. 2010/721)](https://www.legislation.gov.uk/uksi/2010/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/721/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2010/721/regulation/4)

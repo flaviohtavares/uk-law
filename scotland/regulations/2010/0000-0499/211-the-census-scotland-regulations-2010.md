@@ -32,7 +32,7 @@ summary: ''
 
 Census
 
-The Census (Scotland) Regulations 2010 (revoked)[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+The Census (Scotland) Regulations 2010 (revoked)[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 Made
 
@@ -46,101 +46,101 @@ Coming into force
 
 16th June 2010
 
-[^key-b58bf1c47af8604dbebb465bc4a2d9a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b58bf1c47af8604dbebb465bc4a2d9a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 1. Citation, commencement and extent[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 2. Interpretation[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Census districts, enumeration districts and census regions[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 3. Census districts, enumeration districts and census regions[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Appointment of officers[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 4. Appointment of officers[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Forms of return[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 5. Forms of return[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Supply of forms and other documents[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 6. Supply of forms and other documents[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Delivery of Household Forms[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 7. Delivery of Household Forms[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Issue of Individual Forms[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 8. Issue of Individual Forms[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Delivery of Communal Establishment Forms and Communal Establishment Individual Forms[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 9. Delivery of Communal Establishment Forms and Communal Establishment Individual Forms[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Issue of forms of return within communal establishments[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 10. Issue of forms of return within communal establishments[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Particulars to be completed by census officers[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 11. Particulars to be completed by census officers[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Return of completed Household Forms and Individual Forms[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 12. Return of completed Household Forms and Individual Forms[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Return of Communal Establishment Forms and Communal Establishment Individual Forms[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 13. Return of Communal Establishment Forms and Communal Establishment Individual Forms[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Giving of information[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 14. Giving of information[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Follow-up action[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 15. Follow-up action[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Transmission of returns etc to the Registrar General[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 16. Transmission of returns etc to the Registrar General[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Record keeping[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 17. Record keeping[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Prevention of unauthorised access to personal census information[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 18. Prevention of unauthorised access to personal census information[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Misuse of information[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 19. Misuse of information[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Revocation[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## 20. Revocation[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b58bf1c47af8604dbebb465bc4a2d9a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b58bf1c47af8604dbebb465bc4a2d9a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Form of return[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## SCHEDULE 1 — Form of return[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 Regulation 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Forms of Return for 2011 Census[^key-b58bf1c47af8604dbebb465bc4a2d9a2]
+## SCHEDULE 2 — Forms of Return for 2011 Census[^c-b58bf1c47af8604dbebb465bc4a2d9a2]
 
 Regulations 2(2) and 5
 
@@ -148,10 +148,10 @@ Regulations 2(2) and 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-b58bf1c47af8604dbebb465bc4a2d9a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b58bf1c47af8604dbebb465bc4a2d9a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b58bf1c47af8604dbebb465bc4a2d9a2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/211) revoked (16.6.2020) by [The Census (Scotland) Regulations 2020 (S.S.I. 2020/143)](https://www.legislation.gov.uk/ssi/2020/143), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1), [7(a)](https://www.legislation.gov.uk/ssi/2020/143/regulation/7/a)
+[^c-b58bf1c47af8604dbebb465bc4a2d9a2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/211) revoked (16.6.2020) by [The Census (Scotland) Regulations 2020 (S.S.I. 2020/143)](https://www.legislation.gov.uk/ssi/2020/143), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1), [7(a)](https://www.legislation.gov.uk/ssi/2020/143/regulation/7/a)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -46,11 +46,11 @@ This instrument contains only regulations made by virtue of, or consequential up
 
 In accordance with section 176(1) of the Social Security Contributions and Benefits Act 1992, a draft of these Regulations was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-3c0f586d6080e1cb514cdc68a5a0e44f]
+## 1. Citation and commencement[^c-3c0f586d6080e1cb514cdc68a5a0e44f]
 
 These Regulations may be cited as the Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 and come into force on 9th April 2010.
 
-## 2. Interpretation and scope[^key-166f8874b0adf7ced623aaa934bbf2b5]
+## 2. Interpretation and scope[^c-166f8874b0adf7ced623aaa934bbf2b5]
 
 (1) In these Regulations—
 
@@ -70,7 +70,7 @@ These Regulations may be cited as the Additional Statutory Paternity Pay (Adopti
 - “processing”, in relation to information, has the meaning given by section 1(1) of the Data Protection Act 1998[^f00007]; and
 - “relevant central authority” means—
   - (a) in the case of an adopter to whom Part 3 of the Adoptions with a Foreign Element Regulations 2005[^f00008] apply and who is habitually resident in Wales, the Welsh Ministers;
-  - (b) in the case of an adopter to whom [^key-a48f49d0d2788e0143b0a976ed4eac12]... the Adoptions with a Foreign Element (Scotland) Regulations 2009[^f00009] apply and who is habitually resident in Scotland, the Scottish Ministers; and
+  - (b) in the case of an adopter to whom [^c-a48f49d0d2788e0143b0a976ed4eac12]... the Adoptions with a Foreign Element (Scotland) Regulations 2009[^f00009] apply and who is habitually resident in Scotland, the Scottish Ministers; and
   - (c) in any other case, the Secretary of State.
 
 (2) The relatives of a child’s adopter referred to in the definition of “partner” in paragraph (1) are the adopter’s parent, grandparent, sister, brother, aunt or uncle.
@@ -86,7 +86,7 @@ These Regulations may be cited as the Additional Statutory Paternity Pay (Adopti
 
 (6) These Regulations apply to additional statutory paternity pay (adoption) in respect of adoptions from overseas.
 
-## 3. Application of the General Regulations to these Regulations[^key-a514c3a902a35b87070ad133c5cff0dd]
+## 3. Application of the General Regulations to these Regulations[^c-a514c3a902a35b87070ad133c5cff0dd]
 
 (1) Subject to paragraph (2), the provisions of the General Regulations mentioned in paragraph (3) shall, in so far as they apply to additional statutory paternity pay (adoption), apply to adoptions from overseas.
 
@@ -109,11 +109,11 @@ These Regulations may be cited as the Additional Statutory Paternity Pay (Adopti
   ; and
 - (b) at the end of paragraph (2), there were added ““official notification” has the same meaning as in the Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010”.
 
-## 4. Application[^key-55f7234f6617be6732e1e3eb6a072782]
+## 4. Application[^c-55f7234f6617be6732e1e3eb6a072782]
 
 Subject to the provisions of Part 12ZA of the Act and of these Regulations, there is entitlement to additional statutory paternity pay (adoption) in respect of adoptions from overseas of children who enter Great Britain on or after 3rd April 2011.
 
-## 5. Entitlement to additional statutory paternity pay (adoption) in respect of adoptions from overseas[^key-e43f33433b24aacf8859e4cd45dad9b2]
+## 5. Entitlement to additional statutory paternity pay (adoption) in respect of adoptions from overseas[^c-e43f33433b24aacf8859e4cd45dad9b2]
 
 (1) A person (“P”) is entitled to additional statutory paternity pay (adoption) in respect of an adoption from overseas if—
 
@@ -143,7 +143,7 @@ Subject to the provisions of Part 12ZA of the Act and of these Regulations, ther
 
 - whichever is the later.
 
-## 6. Conditions to be satisfied by the child’s adopter[^key-3ac5d083a75014c0306aa1d3291762d3]
+## 6. Conditions to be satisfied by the child’s adopter[^c-3ac5d083a75014c0306aa1d3291762d3]
 
 The conditions referred to in regulation 5(1)(b) are that A—
 
@@ -152,7 +152,7 @@ The conditions referred to in regulation 5(1)(b) are that A—
 - (c) has taken the action referred to in paragraph (b) not less than two weeks after the date C enters Great Britain; and
 - (d) has at least two weeks of their adoption pay period which remain unexpired.
 
-## 7. Additional statutory paternity pay period (adoption) in respect of adoptions from overseas[^key-5fb900acb1040a4783b6bf9a54c44f5d]
+## 7. Additional statutory paternity pay period (adoption) in respect of adoptions from overseas[^c-5fb900acb1040a4783b6bf9a54c44f5d]
 
 (1) For the purposes of section 171ZEE(2)(a) of the Act, the date on which the additional statutory paternity pay period (adoption) in respect of C begins is—
 
@@ -175,7 +175,7 @@ being, in either case, a date which falls no earlier than 20 weeks after the dat
 - (a) on which the adoption pay period in respect of C, which would have applied but for A’s death, would have ended; or
 - (b) if earlier, such date which, for the purposes of section 171ZEE(2)(b)(ii) of the Act, P may specify in the notice given under paragraph (4)(b).
 
-## 8. Application for, and evidence of entitlement to, additional statutory paternity pay (adoption) in respect of adoptions from overseas[^key-2562871f2699356269985d97fe4af043]
+## 8. Application for, and evidence of entitlement to, additional statutory paternity pay (adoption) in respect of adoptions from overseas[^c-2562871f2699356269985d97fe4af043]
 
 (1) P shall apply for additional statutory paternity pay (adoption) to the person (“E”) who will be liable to pay P such pay by providing to E—
 
@@ -225,7 +225,7 @@ being, in either case, a date which falls no earlier than 20 weeks after the dat
 
 (8) When E has been provided with all of the information and the declarations referred to in paragraph (1) (together with, if applicable, what E has requested under paragraph (3)), E must, within 28 days, confirm the start and end dates of E’s liability to pay P additional statutory paternity pay (adoption), by notice in writing to P.
 
-## 9. Entitlement to additional statutory paternity pay (adoption) in respect of adoptions from overseas in the event of the death of the adopter[^key-81234cdf9bf76ac7fcd2173e93a27f1b]
+## 9. Entitlement to additional statutory paternity pay (adoption) in respect of adoptions from overseas in the event of the death of the adopter[^c-81234cdf9bf76ac7fcd2173e93a27f1b]
 
 (1) In a case where A dies before the end of their adoption pay period in respect of C (but before the additional statutory paternity pay period (adoption) in respect of C has begun)—
 
@@ -247,7 +247,7 @@ being, in either case, a date which falls no earlier than 20 weeks after the dat
 
 (3) References in this regulation to A’s adoption pay period in respect of C include, where A’s death occurred before A’s adoption pay period in respect of C started, references to such period as would have existed but for the fact that A had died.
 
-## 10. Application for, and evidence of entitlement to, additional statutory paternity pay (adoption) in respect of adoptions from overseas in the event of the death of the adopter[^key-d5b26a6551f460bdb9278b479ad975a1]
+## 10. Application for, and evidence of entitlement to, additional statutory paternity pay (adoption) in respect of adoptions from overseas in the event of the death of the adopter[^c-d5b26a6551f460bdb9278b479ad975a1]
 
 (1) P shall apply for additional statutory paternity pay (adoption) to the person (“E”) who will be liable to pay P such pay by—
 
@@ -291,7 +291,7 @@ being, in either case, a date which falls no earlier than 20 weeks after the dat
 
 (9) When E has been provided with all of the information and the declaration referred to in paragraph (1) (together with, if applicable, what E has requested under paragraph (3)), E must, within 28 days, confirm the date on which the additional statutory paternity pay period (adoption) in respect of C begins or began and the date on which E’s liability to pay P additional statutory paternity pay (adoption) ends, by notice in writing to P.
 
-## 11. Entitlement to additional statutory paternity pay (adoption) in respect of adoptions from overseas where there is more than one employer[^key-04ff3f81f2abe4a74ac776ae98d998ce]
+## 11. Entitlement to additional statutory paternity pay (adoption) in respect of adoptions from overseas where there is more than one employer[^c-04ff3f81f2abe4a74ac776ae98d998ce]
 
 (1) Additional statutory paternity pay (adoption) shall be payable to a person in respect of a statutory pay week during any part of which that person works only for an employer—
 
@@ -300,7 +300,7 @@ being, in either case, a date which falls no earlier than 20 weeks after the dat
 
 (2) In this regulation “statutory pay week” means a week that person has chosen in respect of which additional statutory paternity pay (adoption) shall be payable.
 
-## 12. Return to work[^key-aff0abf596f2b61e179b8da2017e32cc]
+## 12. Return to work[^c-aff0abf596f2b61e179b8da2017e32cc]
 
 For the purposes of these Regulations, an adopter entitled to statutory adoption pay is treated as returning to work if that payment is not payable to that person in accordance with section 171ZN(3) or (5) of the Act.
 
@@ -348,9 +348,9 @@ A full impact assessment has not been produced for this instrument as a negligib
 
 [^f00002]: Footnote: See section 173(5) of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5). Pursuant to section 172 of that Act, where the Secretary of State proposes to make regulations under the Social Security Contributions and Benefits Act 1992, the Secretary of State is required to refer such proposals, normally in the form of draft regulations, to the Social Security Advisory Committee. This requirement does not apply where the regulations are contained in a statutory instrument made before the end of a period of six months beginning with the coming into force of the enactments by virtue or as a consequence of which the regulations are being made.
 
-[^key-3c0f586d6080e1cb514cdc68a5a0e44f]: Commencement: Reg. 1 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
+[^c-3c0f586d6080e1cb514cdc68a5a0e44f]: Commencement: Reg. 1 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
 
-[^key-166f8874b0adf7ced623aaa934bbf2b5]: Commencement: Reg. 2 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
+[^c-166f8874b0adf7ced623aaa934bbf2b5]: Commencement: Reg. 2 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
 
 [^f00003]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18). Sections 75A and 75B were inserted by section 3 of the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22).
 
@@ -364,26 +364,26 @@ A full impact assessment has not been produced for this instrument as a negligib
 
 [^f00008]: Footnote: [S.I. 2005/392](https://www.legislation.gov.uk/uksi/2005/392).
 
-[^key-a48f49d0d2788e0143b0a976ed4eac12]: Textual amendment: Words in reg. 2(1) omitted (S.) (21.3.2011) by virtue of [The Adoptions with a Foreign Element (Scotland) Amendment Regulations 2011 (S.S.I. 2011/159)](https://www.legislation.gov.uk/ssi/2011/159), [regs. 1](https://www.legislation.gov.uk/ssi/2011/159/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2011/159/regulation/4/2); and (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
+[^c-a48f49d0d2788e0143b0a976ed4eac12]: Textual amendment: Words in reg. 2(1) omitted (S.) (21.3.2011) by virtue of [The Adoptions with a Foreign Element (Scotland) Amendment Regulations 2011 (S.S.I. 2011/159)](https://www.legislation.gov.uk/ssi/2011/159), [regs. 1](https://www.legislation.gov.uk/ssi/2011/159/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2011/159/regulation/4/2); and (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
 
 [^f00009]: Footnote: [S.S.I. 2009/182](https://www.legislation.gov.uk/ssi/2009/182).
 
-[^key-a514c3a902a35b87070ad133c5cff0dd]: Commencement: Reg. 3 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
+[^c-a514c3a902a35b87070ad133c5cff0dd]: Commencement: Reg. 3 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
 
-[^key-55f7234f6617be6732e1e3eb6a072782]: Commencement: Reg. 4 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
+[^c-55f7234f6617be6732e1e3eb6a072782]: Commencement: Reg. 4 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
 
-[^key-e43f33433b24aacf8859e4cd45dad9b2]: Commencement: Reg. 5 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
+[^c-e43f33433b24aacf8859e4cd45dad9b2]: Commencement: Reg. 5 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
 
-[^key-3ac5d083a75014c0306aa1d3291762d3]: Commencement: Reg. 6 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
+[^c-3ac5d083a75014c0306aa1d3291762d3]: Commencement: Reg. 6 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
 
-[^key-5fb900acb1040a4783b6bf9a54c44f5d]: Commencement: Reg. 7 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
+[^c-5fb900acb1040a4783b6bf9a54c44f5d]: Commencement: Reg. 7 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
 
-[^key-2562871f2699356269985d97fe4af043]: Commencement: Reg. 8 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
+[^c-2562871f2699356269985d97fe4af043]: Commencement: Reg. 8 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
 
-[^key-81234cdf9bf76ac7fcd2173e93a27f1b]: Commencement: Reg. 9 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
+[^c-81234cdf9bf76ac7fcd2173e93a27f1b]: Commencement: Reg. 9 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
 
-[^key-d5b26a6551f460bdb9278b479ad975a1]: Commencement: Reg. 10 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
+[^c-d5b26a6551f460bdb9278b479ad975a1]: Commencement: Reg. 10 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
 
-[^key-04ff3f81f2abe4a74ac776ae98d998ce]: Commencement: Reg. 11 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
+[^c-04ff3f81f2abe4a74ac776ae98d998ce]: Commencement: Reg. 11 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
 
-[^key-aff0abf596f2b61e179b8da2017e32cc]: Commencement: Reg. 12 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)
+[^c-aff0abf596f2b61e179b8da2017e32cc]: Commencement: Reg. 12 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1)

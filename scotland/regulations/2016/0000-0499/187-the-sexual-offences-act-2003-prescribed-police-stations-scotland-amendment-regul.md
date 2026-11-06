@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Sexual Offences Act 2003 (Prescribed Police Stations) (Scotland) Amendment Regulations 2016 (revoked)[^key-da0e12c884fe705076fd9bdd90b3e946]
+The Sexual Offences Act 2003 (Prescribed Police Stations) (Scotland) Amendment Regulations 2016 (revoked)[^c-da0e12c884fe705076fd9bdd90b3e946]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st July 2016
 
-[^key-da0e12c884fe705076fd9bdd90b3e946]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da0e12c884fe705076fd9bdd90b3e946]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-da0e12c884fe705076fd9bdd90b3e946]
+## 1. Citation and commencement[^c-da0e12c884fe705076fd9bdd90b3e946]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Sexual Offences Act 2003 (Prescribed Police Stations) (Scotland) Regulations 2014[^key-da0e12c884fe705076fd9bdd90b3e946]
+## 2. Amendment of the Sexual Offences Act 2003 (Prescribed Police Stations) (Scotland) Regulations 2014[^c-da0e12c884fe705076fd9bdd90b3e946]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-da0e12c884fe705076fd9bdd90b3e946]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da0e12c884fe705076fd9bdd90b3e946]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-da0e12c884fe705076fd9bdd90b3e946]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da0e12c884fe705076fd9bdd90b3e946]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-da0e12c884fe705076fd9bdd90b3e946]: Textual amendment: Regulations revoked (9.10.2017) by [The Sexual Offences Act 2003 (Prescribed Police Stations) (Scotland) Regulations 2017 (S.S.I. 2017/285)](https://www.legislation.gov.uk/ssi/2017/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/285/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2017/285/regulation/3/b)
+[^c-da0e12c884fe705076fd9bdd90b3e946]: Textual amendment: Regulations revoked (9.10.2017) by [The Sexual Offences Act 2003 (Prescribed Police Stations) (Scotland) Regulations 2017 (S.S.I. 2017/285)](https://www.legislation.gov.uk/ssi/2017/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/285/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2017/285/regulation/3/b)

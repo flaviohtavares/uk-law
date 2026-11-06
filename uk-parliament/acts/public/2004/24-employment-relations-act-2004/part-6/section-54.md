@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Means of voting in ballots and elections[^key-734d3bad93d0192c40dd8a2a13d6f570]
+## 54. Means of voting in ballots and elections[^c-734d3bad93d0192c40dd8a2a13d6f570]
 
 *Extent: E+W+S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-734d3bad93d0192c40dd8a2a13d6f570]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2004/24/section/54) in force at 31.12.2004 by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a)
+[^c-734d3bad93d0192c40dd8a2a13d6f570]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2004/24/section/54) in force at 31.12.2004 by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a)

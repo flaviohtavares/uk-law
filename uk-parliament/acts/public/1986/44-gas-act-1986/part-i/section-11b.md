@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11B. Duty of current and prospective LNG import or export facility owners to provide information[^key-3d973d7bdc0265ce6afc649fe3196934]
+## 11B. Duty of current and prospective LNG import or export facility owners to provide information[^c-3d973d7bdc0265ce6afc649fe3196934]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person who is or expects to be the owner of an LNG import or export facility m
 
 ## Annotations
 
-[^key-3d973d7bdc0265ce6afc649fe3196934]: Textual amendment: Ss. 11A-11C and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/7/2)
+[^c-3d973d7bdc0265ce6afc649fe3196934]: Textual amendment: Ss. 11A-11C and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/7/2)

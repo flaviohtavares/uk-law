@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Dealing and landlord's consent[^key-266acfe9e66444af33c9b014c5fca4e7]
+## 58. Dealing and landlord's consent[^c-266acfe9e66444af33c9b014c5fca4e7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-266acfe9e66444af33c9b014c5fca4e7]: Commencement: [S. 58](https://www.legislation.gov.uk/anaw/2016/1/section/58) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-266acfe9e66444af33c9b014c5fca4e7]: Commencement: [S. 58](https://www.legislation.gov.uk/anaw/2016/1/section/58) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

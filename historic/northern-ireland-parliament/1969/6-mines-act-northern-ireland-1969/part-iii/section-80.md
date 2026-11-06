@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Duty of workmen to deal with, or report, danger.[^key-d9f9c9af3284431b8513b36f38f23dea]
+## 80. Duty of workmen to deal with, or report, danger.[^c-d9f9c9af3284431b8513b36f38f23dea]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9f9c9af3284431b8513b36f38f23dea]: Textual amendment: [S. 80](https://www.legislation.gov.uk/apni/1969/6/section/80) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-d9f9c9af3284431b8513b36f38f23dea]: Textual amendment: [S. 80](https://www.legislation.gov.uk/apni/1969/6/section/80) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

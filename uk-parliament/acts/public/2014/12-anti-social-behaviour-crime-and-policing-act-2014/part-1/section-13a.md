@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Requirement to carry out risk assessment[^key-3b6f03dc6261776a7816063417cab574]
+## 13A. Requirement to carry out risk assessment[^c-3b6f03dc6261776a7816063417cab574]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b6f03dc6261776a7816063417cab574]: Textual amendment: [S. 13A](https://www.legislation.gov.uk/ukpga/2014/12/section/13A) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/15) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
+[^c-3b6f03dc6261776a7816063417cab574]: Textual amendment: [S. 13A](https://www.legislation.gov.uk/ukpga/2014/12/section/13A) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/15) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)

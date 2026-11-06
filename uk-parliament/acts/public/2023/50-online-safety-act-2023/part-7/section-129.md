@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Interpretation of this Chapter[^key-435775994d2aa78651c74aa5afc7a3d1]
+## 129. Interpretation of this Chapter[^c-435775994d2aa78651c74aa5afc7a3d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-435775994d2aa78651c74aa5afc7a3d1]: Commencement: S. 129 in force at Royal Assent, see [s. 240(4)(s)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/s)
+[^c-435775994d2aa78651c74aa5afc7a3d1]: Commencement: S. 129 in force at Royal Assent, see [s. 240(4)(s)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/s)

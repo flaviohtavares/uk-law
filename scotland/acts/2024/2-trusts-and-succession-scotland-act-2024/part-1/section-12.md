@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Discharge where trustee has resigned, died or been removed from office[^key-ce2b3f5d5fb1bc77142a0d4d3e6005a1]
+## 12. Discharge where trustee has resigned, died or been removed from office[^c-ce2b3f5d5fb1bc77142a0d4d3e6005a1]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ the court may, on the application of that trustee or as the case may be of that 
 
 ## Annotations
 
-[^key-ce2b3f5d5fb1bc77142a0d4d3e6005a1]: Commencement: S. 12 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-ce2b3f5d5fb1bc77142a0d4d3e6005a1]: Commencement: S. 12 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 467. Winding up of an insolvent partnership which is an authorised person[^key-5389b1d348fa5f1579f35c4a51c12b27]
+## 467. Winding up of an insolvent partnership which is an authorised person[^c-5389b1d348fa5f1579f35c4a51c12b27]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In article 19 of the Insolvent Partnerships Order 1994 (supplemental and transit
 
 ## Annotations
 
-[^key-5389b1d348fa5f1579f35c4a51c12b27]: Commencement: Art. 467 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-5389b1d348fa5f1579f35c4a51c12b27]: Commencement: Art. 467 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

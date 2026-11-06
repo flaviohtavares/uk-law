@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131A. Disclosure of information held by Revenue and Customs[^key-3443ddade7f049f145f778ec7d0d74a1]
+## 131A. Disclosure of information held by Revenue and Customs[^c-3443ddade7f049f145f778ec7d0d74a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ for the purposes of or in connection with the Administrator's functions.
 
 ## Annotations
 
-[^key-3443ddade7f049f145f778ec7d0d74a1]: Textual amendment: Ss. 131A-131C inserted (26.1.2009) by [Climate Change Act 2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/27/section/100/5), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2008/27/schedule/7/paragraph/6)
+[^c-3443ddade7f049f145f778ec7d0d74a1]: Textual amendment: Ss. 131A-131C inserted (26.1.2009) by [Climate Change Act 2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/27/section/100/5), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2008/27/schedule/7/paragraph/6)

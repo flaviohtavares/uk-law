@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Amount of pension payable to survivor member[^key-ab1dc0512a1174ec16250cdb9936fe51]
+## 53. Amount of pension payable to survivor member[^c-ab1dc0512a1174ec16250cdb9936fe51]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The survivor member’s account must be credited with an amount equal to the ann
 
 ## Annotations
 
-[^key-ab1dc0512a1174ec16250cdb9936fe51]: Commencement: [Reg. 53](https://www.legislation.gov.uk/ssi/2015/19/regulation/53) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-ab1dc0512a1174ec16250cdb9936fe51]: Commencement: [Reg. 53](https://www.legislation.gov.uk/ssi/2015/19/regulation/53) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

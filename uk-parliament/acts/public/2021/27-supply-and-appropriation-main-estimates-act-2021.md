@@ -35,7 +35,7 @@ An Act to authorise the use of resources for the year ending with 31 March 2022;
 
 Whereas the Commons of the United Kingdom in Parliament assembled have resolved to authorise the use of resources and the issue of sums out of the Consolidated Fund towards making good the supply which they have granted to Her Majesty in this Session of Parliament:—
 
-Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b3aca8c55e720eb76df51892a4d8be15][^key-ffb1143c80c21938a2a98752c19a2414]
+Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b3aca8c55e720eb76df51892a4d8be15][^c-ffb1143c80c21938a2a98752c19a2414]
 
 ## 1. Main authorisation for use of resources for 2021-22
 
@@ -1080,6 +1080,6 @@ The Local Government Boundary Commission for England The Local Government Bounda
 
 ## Annotations
 
-[^key-b3aca8c55e720eb76df51892a4d8be15]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2021/27) modified (with effect in accordance with s. 3(8) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2022 (c. 8)](https://www.legislation.gov.uk/ukpga/2022/8), [s. 3](https://www.legislation.gov.uk/ukpga/2022/8/section/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2022/8/schedule/1)
+[^c-b3aca8c55e720eb76df51892a4d8be15]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2021/27) modified (with effect in accordance with s. 3(8) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2022 (c. 8)](https://www.legislation.gov.uk/ukpga/2022/8), [s. 3](https://www.legislation.gov.uk/ukpga/2022/8/section/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2022/8/schedule/1)
 
-[^key-ffb1143c80c21938a2a98752c19a2414]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2021/27) modified (with effect in accordance with s. 5(8) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2023 (c. 5)](https://www.legislation.gov.uk/ukpga/2023/5), [s. 5(1)-(7)](https://www.legislation.gov.uk/ukpga/2023/5/section/5/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2023/5/schedule/2)
+[^c-ffb1143c80c21938a2a98752c19a2414]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2021/27) modified (with effect in accordance with s. 5(8) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2023 (c. 5)](https://www.legislation.gov.uk/ukpga/2023/5), [s. 5(1)-(7)](https://www.legislation.gov.uk/ukpga/2023/5/section/5/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2023/5/schedule/2)

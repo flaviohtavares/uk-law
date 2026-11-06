@@ -26,7 +26,7 @@ Section 77
 
 #### Charges to which this Schedule applies
 
-**1.**[^key-84692474cd61ce099fede6a69bfe424e][^key-981a798e81250a67976b9c3aad5c8b48] (1) This Schedule provides for the setting of the levels of—
+**1.**[^c-84692474cd61ce099fede6a69bfe424e][^c-981a798e81250a67976b9c3aad5c8b48] (1) This Schedule provides for the setting of the levels of—
 
 - (a) penalty charges, including any discounts or surcharges,
 - (b) charges made by authorities under section 102 of the Road Traffic Regulation Act 1984 (c. 27) for the removal, storage and disposal of vehicles found in areas that are civil enforcement areas for parking contraventions, and
@@ -34,11 +34,11 @@ Section 77
 
 (2) References in this Schedule to “charges” are to those charges.
 
-### Part 2 — Charges applicable in Greater London[^key-ce06c138f664d0a81b129965f2535d2d]
+### Part 2 — Charges applicable in Greater London[^c-ce06c138f664d0a81b129965f2535d2d]
 
 #### Charges to be set by Transport for London or London local authorities
 
-**2.**[^key-1234ee52f69db4a6d61a66bcedc0f321] (1) It is the duty—
+**2.**[^c-1234ee52f69db4a6d61a66bcedc0f321] (1) It is the duty—
 
 - (a) of Transport for London, so far as relating to contraventions on or adjacent to GLA roads, and
 - (b) of the London local authorities, so far as relating to—
@@ -53,7 +53,7 @@ to set the levels of charges applicable in Greater London.
 
 #### Supervisory role of Mayor of London
 
-**3.**[^key-4a3c94cb61d26c4b6e605e8f4457bc47] (1) Transport for London and the London local authorities must submit to the Mayor of London for his approval the levels of charges that they propose to set.
+**3.**[^c-4a3c94cb61d26c4b6e605e8f4457bc47] (1) Transport for London and the London local authorities must submit to the Mayor of London for his approval the levels of charges that they propose to set.
 
 (2) If—
 
@@ -64,7 +64,7 @@ the levels of charges shall be set by order made by the Mayor of London.
 
 #### Reserve powers of Secretary of State
 
-**4.**[^key-e6ad81fc5f918c430f8ed70c9658d32b] (1) The following provisions apply where the Mayor of London—
+**4.**[^c-e6ad81fc5f918c430f8ed70c9658d32b] (1) The following provisions apply where the Mayor of London—
 
 - (a) approves any levels of charges on a submission under paragraph 3(1), or
 - (b) sets any such levels under paragraph 3(2).
@@ -88,7 +88,7 @@ Those levels must be no higher than those notified under sub-paragraph (2).
 
 #### Publication of levels of charges
 
-**5.**[^key-1951e21aa042d44b1645227161649f5c] (1) Transport for London and the London local authorities shall publish, in such manner as the Mayor of London may determine, the levels of charges set in accordance with this Part of this Schedule.
+**5.**[^c-1951e21aa042d44b1645227161649f5c] (1) Transport for London and the London local authorities shall publish, in such manner as the Mayor of London may determine, the levels of charges set in accordance with this Part of this Schedule.
 
 (2) The duty imposed by sub-paragraph (1) applies—
 
@@ -99,7 +99,7 @@ Those levels must be no higher than those notified under sub-paragraph (2).
 
 #### Discharge of functions by London local authorities
 
-**6.**[^key-6306b4886142afb8c1cc0c279eb4de15] (1) The Secretary of State may make provision by regulations as to the discharge by London local authorities of the functions conferred on them by this Part of this Schedule.
+**6.**[^c-6306b4886142afb8c1cc0c279eb4de15] (1) The Secretary of State may make provision by regulations as to the discharge by London local authorities of the functions conferred on them by this Part of this Schedule.
 
 (2) The regulations may provide for the functions to be discharged by means of arrangements under section 101 of the Local Government Act 1972 (c. 70) (arrangements for discharge of functions by local authorities) or in such other way as the regulations may provide.
 
@@ -109,13 +109,13 @@ Those levels must be no higher than those notified under sub-paragraph (2).
 
 #### Charges to be set by enforcement authority
 
-**7.**[^key-4d06c58b2bb3f5ea87bfd1a97f468814][^key-2e202de2738d1332a25dae5dad1a5e02] (1) Outside Greater London it is the duty of each enforcement authority to set the level of charges applicable in the case of contraventions for which they are the enforcement authority.
+**7.**[^c-4d06c58b2bb3f5ea87bfd1a97f468814][^c-2e202de2738d1332a25dae5dad1a5e02] (1) Outside Greater London it is the duty of each enforcement authority to set the level of charges applicable in the case of contraventions for which they are the enforcement authority.
 
 (2) Different levels of charges may be set for different parts of a civil enforcement area and for different cases or classes of case.
 
 #### Guidelines given by appropriate national authority
 
-**8.**[^key-163aba936d03475c9611382bfc3d2454][^key-1e7d563a7ed07b2f08833015d9c32116] (1) The levels of charges set by enforcement authorities under this Part of this Schedule must (subject to sub-paragraph (3)) accord with guidelines appended to an order made by the appropriate national authority.
+**8.**[^c-163aba936d03475c9611382bfc3d2454][^c-1e7d563a7ed07b2f08833015d9c32116] (1) The levels of charges set by enforcement authorities under this Part of this Schedule must (subject to sub-paragraph (3)) accord with guidelines appended to an order made by the appropriate national authority.
 
 (2) Different guidelines may be given for different cases or classes of case.
 
@@ -123,34 +123,34 @@ Those levels must be no higher than those notified under sub-paragraph (2).
 
 #### Publication of levels of charges
 
-**9.**[^key-1c62f8e79400bf278b06b75b010f841f][^key-884ef14581e5c54156c5a02cbb2d0702] An enforcement authority for an area outside Greater London shall publish, in such manner as the appropriate national authority may determine, the levels of charges set under this Part of this Schedule.
+**9.**[^c-1c62f8e79400bf278b06b75b010f841f][^c-884ef14581e5c54156c5a02cbb2d0702] An enforcement authority for an area outside Greater London shall publish, in such manner as the appropriate national authority may determine, the levels of charges set under this Part of this Schedule.
 
 ## Annotations
 
-[^key-84692474cd61ce099fede6a69bfe424e]: Commencement: Sch. 9 para. 1 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-84692474cd61ce099fede6a69bfe424e]: Commencement: Sch. 9 para. 1 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
 
-[^key-981a798e81250a67976b9c3aad5c8b48]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2004/18/schedule/9/paragraph/1) in force at 26.11.2007 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule)
+[^c-981a798e81250a67976b9c3aad5c8b48]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2004/18/schedule/9/paragraph/1) in force at 26.11.2007 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule)
 
-[^key-ce06c138f664d0a81b129965f2535d2d]: Modification: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/18/schedule/9/part/2) applied in part (temp.) by 1996 c. ix s. 8 (as modified by SI 2007/2053 art. 5(4), as added) (17.3.2008) by [Traffic Management Act 2004 (Commencement No.5 and Transitional Provisions) (England) (Amendment) Order 2008 (S.I. 2008/757)](https://www.legislation.gov.uk/uksi/2008/757), [art. 5](https://www.legislation.gov.uk/uksi/2008/757/article/5)
+[^c-ce06c138f664d0a81b129965f2535d2d]: Modification: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/18/schedule/9/part/2) applied in part (temp.) by 1996 c. ix s. 8 (as modified by SI 2007/2053 art. 5(4), as added) (17.3.2008) by [Traffic Management Act 2004 (Commencement No.5 and Transitional Provisions) (England) (Amendment) Order 2008 (S.I. 2008/757)](https://www.legislation.gov.uk/uksi/2008/757), [art. 5](https://www.legislation.gov.uk/uksi/2008/757/article/5)
 
-[^key-1234ee52f69db4a6d61a66bcedc0f321]: Commencement: Sch. 9 para. 2 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-1234ee52f69db4a6d61a66bcedc0f321]: Commencement: Sch. 9 para. 2 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
 
-[^key-4a3c94cb61d26c4b6e605e8f4457bc47]: Commencement: Sch. 9 para. 3 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-4a3c94cb61d26c4b6e605e8f4457bc47]: Commencement: Sch. 9 para. 3 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
 
-[^key-e6ad81fc5f918c430f8ed70c9658d32b]: Commencement: Sch. 9 para. 4 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-e6ad81fc5f918c430f8ed70c9658d32b]: Commencement: Sch. 9 para. 4 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
 
-[^key-1951e21aa042d44b1645227161649f5c]: Commencement: Sch. 9 para. 5 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-1951e21aa042d44b1645227161649f5c]: Commencement: Sch. 9 para. 5 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
 
-[^key-6306b4886142afb8c1cc0c279eb4de15]: Commencement: Sch. 9 para. 6 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-6306b4886142afb8c1cc0c279eb4de15]: Commencement: Sch. 9 para. 6 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
 
-[^key-4d06c58b2bb3f5ea87bfd1a97f468814]: Commencement: Sch. 9 para. 7 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-4d06c58b2bb3f5ea87bfd1a97f468814]: Commencement: Sch. 9 para. 7 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
 
-[^key-2e202de2738d1332a25dae5dad1a5e02]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2004/18/schedule/9/paragraph/7) in force at 26.11.2007 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule)
+[^c-2e202de2738d1332a25dae5dad1a5e02]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2004/18/schedule/9/paragraph/7) in force at 26.11.2007 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule)
 
-[^key-163aba936d03475c9611382bfc3d2454]: Commencement: Sch. 9 para. 8 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-163aba936d03475c9611382bfc3d2454]: Commencement: Sch. 9 para. 8 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
 
-[^key-1e7d563a7ed07b2f08833015d9c32116]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2004/18/schedule/9/paragraph/8) in force at 26.11.2007 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule)
+[^c-1e7d563a7ed07b2f08833015d9c32116]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2004/18/schedule/9/paragraph/8) in force at 26.11.2007 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule)
 
-[^key-1c62f8e79400bf278b06b75b010f841f]: Commencement: Sch. 9 para. 9 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-1c62f8e79400bf278b06b75b010f841f]: Commencement: Sch. 9 para. 9 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
 
-[^key-884ef14581e5c54156c5a02cbb2d0702]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2004/18/schedule/9/paragraph/9) in force at 26.11.2007 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule)
+[^c-884ef14581e5c54156c5a02cbb2d0702]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2004/18/schedule/9/paragraph/9) in force at 26.11.2007 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Regulations under this Act[^key-7eb384a16ae99b6e8e188fce3d67fb39]
+## 79. Regulations under this Act[^c-7eb384a16ae99b6e8e188fce3d67fb39]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7eb384a16ae99b6e8e188fce3d67fb39]: Commencement: S. 79 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-7eb384a16ae99b6e8e188fce3d67fb39]: Commencement: S. 79 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

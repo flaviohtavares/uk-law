@@ -38,11 +38,11 @@ Meat products fall within this paragraph if they have undergone any of the follo
 
 #### 2. Hides and skins
 
-Hides and skins fall within this paragraph if they comply with the requirements in Article 36 of Regulation[^key-8f33b0da3987f32217bb5e5f8df96d25] [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) and point 28(c) and (d) of Annex I to Regulation (EU) No. 142/2011.
+Hides and skins fall within this paragraph if they comply with the requirements in Article 36 of Regulation[^c-8f33b0da3987f32217bb5e5f8df96d25] [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) and point 28(c) and (d) of Annex I to Regulation (EU) No. 142/2011.
 
 #### 3. Wool, ruminant hair and pig bristles
 
-Wool, ruminant hair and pig bristles fall within this paragraph if they comply with the requirements of Article 36 of Regulation[^key-f377efb981f80990b6364f3c78cb54f8] [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) and Article 24(4) of Regulation (EU) No. 142/2011.
+Wool, ruminant hair and pig bristles fall within this paragraph if they comply with the requirements of Article 36 of Regulation[^c-f377efb981f80990b6364f3c78cb54f8] [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) and Article 24(4) of Regulation (EU) No. 142/2011.
 
 #### 4. Products derived from susceptible animals
 
@@ -53,19 +53,19 @@ Products derived from susceptible animals fall within this paragraph if they hav
 
 #### 5. Blood and blood products
 
-Blood and blood products of susceptible animals fall within this paragraph if they are used for technical purposes (including pharmaceuticals, in vitro diagnostics and laboratory reagents) and have undergone any of the treatments referred to in point 2(b)(ii) of Chapter[^key-63d857e2f90d5a3b2423def1562ea316] IV of Annex XIII to Regulation No. 142/2011.
+Blood and blood products of susceptible animals fall within this paragraph if they are used for technical purposes (including pharmaceuticals, in vitro diagnostics and laboratory reagents) and have undergone any of the treatments referred to in point 2(b)(ii) of Chapter[^c-63d857e2f90d5a3b2423def1562ea316] IV of Annex XIII to Regulation No. 142/2011.
 
 #### 6. Lard and rendered fats
 
-Lard and rendered fats fall within this paragraph if they have undergone the heat treatment referred to in point 3(d) of Chapter I of Annex[^key-abd8ff6ee858c09d5b5dca4d878a403b] XIV to Regulation (EU) No. 142/2011.
+Lard and rendered fats fall within this paragraph if they have undergone the heat treatment referred to in point 3(d) of Chapter I of Annex[^c-abd8ff6ee858c09d5b5dca4d878a403b] XIV to Regulation (EU) No. 142/2011.
 
 #### 7. Petfood and dog chews
 
-Petfood and dog chews fall within this paragraph if they comply with Chapter[^key-bd87ec4de39323c193426fd7bacf7ada] II of Annex XIII to Regulation (EU) No. 142/2011.
+Petfood and dog chews fall within this paragraph if they comply with Chapter[^c-bd87ec4de39323c193426fd7bacf7ada] II of Annex XIII to Regulation (EU) No. 142/2011.
 
 #### 8. Game trophies of ungulates
 
-Game trophies of ungulates fall within this paragraph if they comply with the requirements of Chapter[^key-29982b9600dcb5edddf584928b3306fd] VI of Annex XIII to Regulation (EU) No. 142/2011.
+Game trophies of ungulates fall within this paragraph if they comply with the requirements of Chapter[^c-29982b9600dcb5edddf584928b3306fd] VI of Annex XIII to Regulation (EU) No. 142/2011.
 
 #### 9. Animal casings
 
@@ -132,14 +132,14 @@ Carcases are matured so that they fall within this paragraph if they—
 
 ## Annotations
 
-[^key-8f33b0da3987f32217bb5e5f8df96d25]: Textual amendment: Sch. 5 para. 2 substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(6)(a)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/6/a)
+[^c-8f33b0da3987f32217bb5e5f8df96d25]: Textual amendment: Sch. 5 para. 2 substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(6)(a)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/6/a)
 
-[^key-f377efb981f80990b6364f3c78cb54f8]: Textual amendment: [Sch. 5 para. 3](https://www.legislation.gov.uk/wsi/2006/179/schedule/5/paragraph/3) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(6)(b)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/6/b)
+[^c-f377efb981f80990b6364f3c78cb54f8]: Textual amendment: [Sch. 5 para. 3](https://www.legislation.gov.uk/wsi/2006/179/schedule/5/paragraph/3) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(6)(b)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/6/b)
 
-[^key-63d857e2f90d5a3b2423def1562ea316]: Textual amendment: [Sch. 5 para. 5](https://www.legislation.gov.uk/wsi/2006/179/schedule/5/paragraph/5) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(6)(c)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/6/c)
+[^c-63d857e2f90d5a3b2423def1562ea316]: Textual amendment: [Sch. 5 para. 5](https://www.legislation.gov.uk/wsi/2006/179/schedule/5/paragraph/5) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(6)(c)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/6/c)
 
-[^key-abd8ff6ee858c09d5b5dca4d878a403b]: Textual amendment: [Sch. 5 para. 6](https://www.legislation.gov.uk/wsi/2006/179/schedule/5/paragraph/6) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(6)(d)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/6/d)
+[^c-abd8ff6ee858c09d5b5dca4d878a403b]: Textual amendment: [Sch. 5 para. 6](https://www.legislation.gov.uk/wsi/2006/179/schedule/5/paragraph/6) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(6)(d)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/6/d)
 
-[^key-bd87ec4de39323c193426fd7bacf7ada]: Textual amendment: [Sch. 5 para. 7](https://www.legislation.gov.uk/wsi/2006/179/schedule/5/paragraph/7) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(6)(e)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/6/e)
+[^c-bd87ec4de39323c193426fd7bacf7ada]: Textual amendment: [Sch. 5 para. 7](https://www.legislation.gov.uk/wsi/2006/179/schedule/5/paragraph/7) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(6)(e)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/6/e)
 
-[^key-29982b9600dcb5edddf584928b3306fd]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/wsi/2006/179/schedule/5/paragraph/8) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(6)(f)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/6/f)
+[^c-29982b9600dcb5edddf584928b3306fd]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/wsi/2006/179/schedule/5/paragraph/8) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(6)(f)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/6/f)

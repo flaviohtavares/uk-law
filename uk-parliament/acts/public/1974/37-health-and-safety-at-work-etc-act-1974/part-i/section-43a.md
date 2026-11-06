@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A. Railway safety levy[^key-0fe72d9a6077d9cfd7b83aac041509d3][^c18921731][^c20460741][^c20459621][^c18585281]
+## 43A. Railway safety levy[^c-0fe72d9a6077d9cfd7b83aac041509d3][^c18921731][^c20460741][^c20459621][^c18585281]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Railway safety levy shall be applied only for the purpose of meeting expenses incurred—
 
-- (a)[^c18624511] in respect of activities undertaken by the Office of Rail and Road[^key-f8b0d8ac194fc076afbdad4ae7f816d0] under or by virtue of this Act or Schedule 3 to the Railways Act 2005; or
+- (a)[^c18624511] in respect of activities undertaken by the Office of Rail and Road[^c-f8b0d8ac194fc076afbdad4ae7f816d0] under or by virtue of this Act or Schedule 3 to the Railways Act 2005; or
 - (b) in respect of activities in relation to a transport system falling within paragraph 1(3) of that Schedule that are undertaken by that Office under or by virtue of any other enactment.
 
 (3) The railway safety levy shall not be used to meet—
@@ -108,7 +108,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
+[^c-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
 
 [^c18921731]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
@@ -120,7 +120,7 @@ summary: ''
 
 [^c18624511]: Textual amendment: S. 43A(2)(a)(b) substituted (E.W.S.) (7.2.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 2](https://www.legislation.gov.uk/ukpga/2005/14/section/2), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 3 para. 12(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/3/paragraph/12/2); [S.I. 2006/266](https://www.legislation.gov.uk/uksi/2006/266), [art. 2(1)(a)(b)](https://www.legislation.gov.uk/uksi/2006/266/article/2/1/a/b)
 
-[^key-f8b0d8ac194fc076afbdad4ae7f816d0]: Textual amendment: Words in s. 43A substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(c)(iii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/c/iii)
+[^c-f8b0d8ac194fc076afbdad4ae7f816d0]: Textual amendment: Words in s. 43A substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(c)(iii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/c/iii)
 
 [^c18627701]: Textual amendment: Words in s. 43A(9) substituted (E.W.S.) (7.2.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 2](https://www.legislation.gov.uk/ukpga/2005/14/section/2), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 3 para. 12(4)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/3/paragraph/12/4); [S.I. 2006/266](https://www.legislation.gov.uk/uksi/2006/266), [art. 2(1)(a)(b)](https://www.legislation.gov.uk/uksi/2006/266/article/2/1/a/b)
 

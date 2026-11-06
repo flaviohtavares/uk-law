@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52.[^key-2c3a014c6105f79324f11f3489d3dd67]
+## 52.[^c-2c3a014c6105f79324f11f3489d3dd67]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In regulation 43 [^c24395211] (goods removed from a warehousing regime)—
 
 ## Annotations
 
-[^key-2c3a014c6105f79324f11f3489d3dd67]: Commencement: Reg. 52 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-2c3a014c6105f79324f11f3489d3dd67]: Commencement: Reg. 52 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395211]: Marginal citation: Relevantly amended by [S.I. 1996/1250](https://www.legislation.gov.uk/uksi/1996/1250).

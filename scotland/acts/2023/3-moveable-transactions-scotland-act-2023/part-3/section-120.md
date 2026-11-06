@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Interpretation of Act[^key-d1de1d4082087fa54ee2309ba8ac04cf][^key-b377b5d334a22d372091eb15587a3a08]
+## 120. Interpretation of Act[^c-d1de1d4082087fa54ee2309ba8ac04cf][^c-b377b5d334a22d372091eb15587a3a08]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1de1d4082087fa54ee2309ba8ac04cf]: Commencement: S. 120 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-d1de1d4082087fa54ee2309ba8ac04cf]: Commencement: S. 120 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-b377b5d334a22d372091eb15587a3a08]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2023/3/section/120) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-b377b5d334a22d372091eb15587a3a08]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2023/3/section/120) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)

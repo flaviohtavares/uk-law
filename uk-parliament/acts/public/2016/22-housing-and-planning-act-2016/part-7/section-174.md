@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Notice of survey and copy of warrant[^key-d688e5e72f53d684e4bf2ac19fbdf258][^key-c37382c64f66000d476246d53195273c]
+## 174. Notice of survey and copy of warrant[^c-d688e5e72f53d684e4bf2ac19fbdf258][^c-c37382c64f66000d476246d53195273c]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 - (d) an aerial survey;
 - (e) carrying out any other activities that may be required to facilitate compliance with the instruments mentioned in subsection (5).
 
-(4)[^key-779e1c8c1bb9c581049516b890baa66d] If the authority obtains a warrant after giving notice in accordance with subsection (1) it must give a copy of the warrant to all those to whom it gave that notice.
+(4)[^c-779e1c8c1bb9c581049516b890baa66d] If the authority obtains a warrant after giving notice in accordance with subsection (1) it must give a copy of the warrant to all those to whom it gave that notice.
 
 (5) The instruments referred to in subsection (3)(e) are—
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d688e5e72f53d684e4bf2ac19fbdf258]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2016/22/section/174) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h)
+[^c-d688e5e72f53d684e4bf2ac19fbdf258]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2016/22/section/174) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h)
 
-[^key-c37382c64f66000d476246d53195273c]: Modification: [S. 174](https://www.legislation.gov.uk/ukpga/2016/22/section/174) applied (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/1/5)[(6)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/1/6)
+[^c-c37382c64f66000d476246d53195273c]: Modification: [S. 174](https://www.legislation.gov.uk/ukpga/2016/22/section/174) applied (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/1/5)[(6)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/1/6)
 
-[^key-779e1c8c1bb9c581049516b890baa66d]: Modification: [S. 174(4)](https://www.legislation.gov.uk/ukpga/2016/22/section/174/4) applied (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/8/2)[(3)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/8/3)
+[^c-779e1c8c1bb9c581049516b890baa66d]: Modification: [S. 174(4)](https://www.legislation.gov.uk/ukpga/2016/22/section/174/4) applied (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/8/2)[(3)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/8/3)

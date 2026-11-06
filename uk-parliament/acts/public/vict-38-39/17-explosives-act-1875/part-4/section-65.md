@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-[^key-78ef00d0f924b61ca0fa480fbb4c5b6c]
+[^c-78ef00d0f924b61ca0fa480fbb4c5b6c]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-78ef00d0f924b61ca0fa480fbb4c5b6c]: Textual amendment: Ss. 62-66 repealed (N.I.) (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 1(5)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/1/5), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
+[^c-78ef00d0f924b61ca0fa480fbb4c5b6c]: Textual amendment: Ss. 62-66 repealed (N.I.) (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 1(5)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/1/5), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))

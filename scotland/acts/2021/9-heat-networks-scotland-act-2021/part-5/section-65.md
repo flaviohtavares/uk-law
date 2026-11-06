@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Notification of building assessment reports[^key-413a0ad4e3238b5d0af8dbb8cf9c414b]
+## 65. Notification of building assessment reports[^c-413a0ad4e3238b5d0af8dbb8cf9c414b]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ As soon as reasonably practicable after preparing a building assessment report, 
 
 ## Annotations
 
-[^key-413a0ad4e3238b5d0af8dbb8cf9c414b]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2021/9/section/65) in force at 30.5.2023 by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(k)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/k)
+[^c-413a0ad4e3238b5d0af8dbb8cf9c414b]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2021/9/section/65) in force at 30.5.2023 by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(k)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/k)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 466. Meaning of “settled property” etc[^key-157a12bbfebd405c80b8c1527b74787b]
+## 466. Meaning of “settled property” etc[^c-157a12bbfebd405c80b8c1527b74787b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (b) it is held by a person as trustee for another person who is absolutely entitled to the property as against the trustee, or
 - (c) it is held by a person as trustee for another person who would be absolutely entitled to the property as against the trustee if that other person were not an infant or otherwise lacking legal capacity.
 
-(4)[^key-49933be4acc7d7b0562e94b706fd9623] References, however expressed, to property comprised in a settlement are references to settled property.
+(4)[^c-49933be4acc7d7b0562e94b706fd9623] References, however expressed, to property comprised in a settlement are references to settled property.
 
 (5) A person is absolutely entitled to property as against a trustee if the person has the exclusive right to direct how the property is to be dealt with (subject to the trustees' right to use the property for the payment of duty, taxes, costs or other outgoings).
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-157a12bbfebd405c80b8c1527b74787b]: Modification: Pt. 9 Ch. 2 applied (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 1169(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1169/1), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-157a12bbfebd405c80b8c1527b74787b]: Modification: Pt. 9 Ch. 2 applied (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 1169(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1169/1), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-49933be4acc7d7b0562e94b706fd9623]: Modification: S. 466(4) excluded (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 1123(3)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/1123/3/b), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-49933be4acc7d7b0562e94b706fd9623]: Modification: S. 466(4) excluded (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 1123(3)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/1123/3/b), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

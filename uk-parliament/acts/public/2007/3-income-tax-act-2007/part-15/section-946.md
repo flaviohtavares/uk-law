@@ -22,7 +22,7 @@ summary: ''
 
 The payments within this section are—
 
-- (a)[^key-1d3671ece4183d96349e600e12819cfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-1d3671ece4183d96349e600e12819cfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a payment from which a UK resident company is required to deduct a sum representing income tax under—
   - (i) section 874(2) (payments of yearly interest),
   - (ii) section 889(4) (payments in respect of building society securities),
@@ -37,4 +37,4 @@ The payments within this section are—
 
 ## Annotations
 
-[^key-1d3671ece4183d96349e600e12819cfa]: Textual amendment: [S. 946(a)](https://www.legislation.gov.uk/ukpga/2007/3/section/946/a) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/22)
+[^c-1d3671ece4183d96349e600e12819cfa]: Textual amendment: [S. 946(a)](https://www.legislation.gov.uk/ukpga/2007/3/section/946/a) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/22)

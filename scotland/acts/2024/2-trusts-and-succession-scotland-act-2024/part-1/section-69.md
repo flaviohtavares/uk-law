@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Applications in relation to trusts and to the estates of deceased persons[^key-b97e57146b6042db176abb965cb02ff7]
+## 69. Applications in relation to trusts and to the estates of deceased persons[^c-b97e57146b6042db176abb965cb02ff7]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b97e57146b6042db176abb965cb02ff7]: Commencement: S. 69 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-b97e57146b6042db176abb965cb02ff7]: Commencement: S. 69 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

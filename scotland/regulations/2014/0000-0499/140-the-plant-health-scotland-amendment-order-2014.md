@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health
 
-The Plant Health (Scotland) Amendment Order 2014 (revoked)[^key-ff5b9df27b8692333ba6653dd539c0e0]
+The Plant Health (Scotland) Amendment Order 2014 (revoked)[^c-ff5b9df27b8692333ba6653dd539c0e0]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 27th June 2014
 
-[^key-ff5b9df27b8692333ba6653dd539c0e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff5b9df27b8692333ba6653dd539c0e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ff5b9df27b8692333ba6653dd539c0e0]
+## 1. Citation and commencement[^c-ff5b9df27b8692333ba6653dd539c0e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Scotland) Order 2005[^key-ff5b9df27b8692333ba6653dd539c0e0]
+## 2. Amendment of the Plant Health (Scotland) Order 2005[^c-ff5b9df27b8692333ba6653dd539c0e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of article 19B (landing of trees in Scotland)[^key-ff5b9df27b8692333ba6653dd539c0e0]
+## 3. Amendment of article 19B (landing of trees in Scotland)[^c-ff5b9df27b8692333ba6653dd539c0e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Schedule 1 (plant pests which shall not be landed in or spread within Scotland)[^key-ff5b9df27b8692333ba6653dd539c0e0]
+## 4. Amendment of Schedule 1 (plant pests which shall not be landed in or spread within Scotland)[^c-ff5b9df27b8692333ba6653dd539c0e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff5b9df27b8692333ba6653dd539c0e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff5b9df27b8692333ba6653dd539c0e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -74,4 +74,4 @@ Coming into force
 
 ## Annotations
 
-[^key-ff5b9df27b8692333ba6653dd539c0e0]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6)
+[^c-ff5b9df27b8692333ba6653dd539c0e0]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6)

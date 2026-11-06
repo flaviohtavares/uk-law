@@ -52,9 +52,9 @@ The Conveyancing and Feudal Reform (Scotland) Act 1970 (hereinafter referred to 
   - (ii) in sub-paragraph (2), for the words “the fore-going sub-paragraph” there shall be substituted the words “ this Act ”, and for the words “two months” there shall be substituted the words “ that to which he is entitled. ”;
   - (iii) in sub-paragraph (5), for the words “On payment” there shall be substituted the words “ Where the debtor has exercised a right to redeem, and has made payment ”, and for the words “on performance of” there shall be substituted the words “ has performed ”.
 
-## 2. Operation of provision relating to perpetual debentures.[^key-023f17c5ca8f30cf03e90462abd1bb74][^c818246]
+## 2. Operation of provision relating to perpetual debentures.[^c-023f17c5ca8f30cf03e90462abd1bb74][^c818246]
 
-For the avoidance of doubt, it is hereby declared that the provisions of Part II (the standard security) of the principal Act do not affect (and shall be deemed never to have affected) the operation of section 739 of the Companies Act 2006[^key-da2ec1df549719c7804e89b75b5a4584](perpetual debentures).
+For the avoidance of doubt, it is hereby declared that the provisions of Part II (the standard security) of the principal Act do not affect (and shall be deemed never to have affected) the operation of section 739 of the Companies Act 2006[^c-da2ec1df549719c7804e89b75b5a4584](perpetual debentures).
 
 ## 3. Application of Act to existing standard securities.[^c818248]
 
@@ -66,10 +66,10 @@ This Act may be cited as the Redemption of Standard Securities (Scotland) Act 19
 
 ## Annotations
 
-[^key-023f17c5ca8f30cf03e90462abd1bb74]: Textual amendment: Words in s. 2 heading substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 42(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/42/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-023f17c5ca8f30cf03e90462abd1bb74]: Textual amendment: Words in s. 2 heading substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 42(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/42/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^c818246]: Modification: “the principal Act” means [Conveyancing and Feudal Reform (Scotland) Act 1970 (c. 35)](https://www.legislation.gov.uk/ukpga/1970/35)
 
-[^key-da2ec1df549719c7804e89b75b5a4584]: Textual amendment: Words in s. 2 substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 42(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/42/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-da2ec1df549719c7804e89b75b5a4584]: Textual amendment: Words in s. 2 substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 42(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/42/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^c818248]: Modification: “such an agreement as is mentioned in section 1(c)” means any agreement to the contrary

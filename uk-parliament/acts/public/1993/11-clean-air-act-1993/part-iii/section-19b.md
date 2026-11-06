@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19B. Acquisition and sale of controlled solid fuel in England[^key-917ebba579edefbf9109cf9739c83c3b]
+## 19B. Acquisition and sale of controlled solid fuel in England[^c-917ebba579edefbf9109cf9739c83c3b]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-917ebba579edefbf9109cf9739c83c3b]: Textual amendment: Ss. 19B-19D inserted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-917ebba579edefbf9109cf9739c83c3b]: Textual amendment: Ss. 19B-19D inserted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)

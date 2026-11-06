@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Information and inspection[^key-1db08dc2915bfbaba6f27bf8fe0e836f][^key-4203f89222d4dbec791c983b7ae660ba]
+## 108. Information and inspection[^c-1db08dc2915bfbaba6f27bf8fe0e836f][^c-4203f89222d4dbec791c983b7ae660ba]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1db08dc2915bfbaba6f27bf8fe0e836f]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2003/43/section/108) in force at 1.4.2004 for W. by [S.I. 2004/873](https://www.legislation.gov.uk/wsi/2004/873), [art. 2(e)](https://www.legislation.gov.uk/wsi/2004/873/article/2/e)
+[^c-1db08dc2915bfbaba6f27bf8fe0e836f]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2003/43/section/108) in force at 1.4.2004 for W. by [S.I. 2004/873](https://www.legislation.gov.uk/wsi/2004/873), [art. 2(e)](https://www.legislation.gov.uk/wsi/2004/873/article/2/e)
 
-[^key-4203f89222d4dbec791c983b7ae660ba]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2003/43/section/108) in force at 1.4.2004 by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2004/759/article/5/2/a)
+[^c-4203f89222d4dbec791c983b7ae660ba]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2003/43/section/108) in force at 1.4.2004 by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2004/759/article/5/2/a)

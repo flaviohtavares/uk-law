@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Insertion of regulation 347B[^key-4de9d0ac63ce5903e8dc8b36f7acc2fc]
+## 133. Insertion of regulation 347B[^c-4de9d0ac63ce5903e8dc8b36f7acc2fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ After regulation 347A (transitional provision in relation to EU exit)[^f00140], 
 
 ## Annotations
 
-[^key-4de9d0ac63ce5903e8dc8b36f7acc2fc]: Commencement: [Reg. 133](https://www.legislation.gov.uk/uksi/2024/832/regulation/133) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-4de9d0ac63ce5903e8dc8b36f7acc2fc]: Commencement: [Reg. 133](https://www.legislation.gov.uk/uksi/2024/832/regulation/133) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00140]: Footnote: Regulation 347A was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775).

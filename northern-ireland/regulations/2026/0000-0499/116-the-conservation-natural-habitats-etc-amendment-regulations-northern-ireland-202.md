@@ -44,13 +44,13 @@ The Department of Agriculture, Environment and Rural Affairs in exercise of the 
 
 The Department of Agriculture, Environment and Rural Affairs is a relevant national authority for the purposes of section 14(1) and (2) of the 2023 Act[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-4acde5c0af60ba7560391c269968fdc0]
+## 1. Citation, commencement and interpretation[^c-4acde5c0af60ba7560391c269968fdc0]
 
 (1) These Regulations may be cited as the Conservation (Natural Habitats, etc.) (Amendment) Regulations (Northern Ireland) 2026 and come into operation on 8th July 2026.
 
 (2) The Interpretation Act (Northern Ireland) 1954 applies to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendments to the Conservation (Natural Habitats, etc.) Regulations (Northern Ireland) 1995[^key-69536d3379a5592faffbb05d53318c3d]
+## 2. Amendments to the Conservation (Natural Habitats, etc.) Regulations (Northern Ireland) 1995[^c-69536d3379a5592faffbb05d53318c3d]
 
 (1) The Conservation (Natural Habitats, etc.) Regulations (Northern Ireland) 1995[^f00003] are amended as follows.
 
@@ -122,8 +122,8 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00002]: Footnote: The term “relevant national authority” is defined in section 21(1) of the Retained EU Law (Revocation and Reform) Act 2023
 
-[^key-4acde5c0af60ba7560391c269968fdc0]: Commencement: Reg. 1 in operation at 8.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/116/regulation/1/1)
+[^c-4acde5c0af60ba7560391c269968fdc0]: Commencement: Reg. 1 in operation at 8.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/116/regulation/1/1)
 
-[^key-69536d3379a5592faffbb05d53318c3d]: Commencement: Reg. 2 in operation at 8.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/116/regulation/1/1)
+[^c-69536d3379a5592faffbb05d53318c3d]: Commencement: Reg. 2 in operation at 8.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/116/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1995 No. 380](https://www.legislation.gov.uk/nisr/1995/380); relevant amending Regulations are [S.R. 2004 No. 435](https://www.legislation.gov.uk/nisr/2004/435); [S.R. 2007 No. 345](https://www.legislation.gov.uk/nisr/2007/345); [S.R. 2009 No. 8](https://www.legislation.gov.uk/nisr/2009/8); [S.R. 2011 No. 216](https://www.legislation.gov.uk/nisr/2011/216); [S.R. No. 368](https://www.legislation.gov.uk/nisr/2011/368); [S.I. 2019/582](https://www.legislation.gov.uk/uksi/2019/582)

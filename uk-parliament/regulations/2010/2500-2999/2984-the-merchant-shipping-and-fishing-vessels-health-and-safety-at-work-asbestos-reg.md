@@ -63,13 +63,13 @@ These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Hea
 - “**the 1997 WHO recommended method**” means the method of determining airborne fibre concentrations recommended in the document “Determination of airborne fibre concentrations. A recommended method, by phase-contrast optical microscopy (membrane filter method)” published by the World Health Organization, Geneva, 1997 (ISBN 92 4 154496 1), or any other method giving equivalent results which is approved by the Maritime and Coastguard Agency or the Health and Safety Executive;
 - “**the Act**” means the Merchant Shipping Act 1995;
 - “**the area of activity**” means the area where activity likely to involve a risk of exposure to asbestos is carried out;
-- “**asbestos**” means the following fibrous silicates, and any materials or products consisting of or containing these fibrous silicates— asbestos actinolite, CAS No 77536–66–4, asbestos gruenerite (amosite), CAS No 12172–73–5, asbestos anthophyllite, CAS No 77536–67–5, chrysotile,[^key-31b48d3059883f20f6c9543581aa8a41] CAS No 12001-29-5 or CAS No 132207-32-0, crocidolite, CAS No 12001–28–4, and asbestos tremolite, CAS No 77536–68–6;
+- “**asbestos**” means the following fibrous silicates, and any materials or products consisting of or containing these fibrous silicates— asbestos actinolite, CAS No 77536–66–4, asbestos gruenerite (amosite), CAS No 12172–73–5, asbestos anthophyllite, CAS No 77536–67–5, chrysotile,[^c-31b48d3059883f20f6c9543581aa8a41] CAS No 12001-29-5 or CAS No 132207-32-0, crocidolite, CAS No 12001–28–4, and asbestos tremolite, CAS No 77536–68–6;
 - “**CAS No**” means the number in the Registry of the Chemical Abstracts Service (CAS) [^c20649421];
 - “**contract of employment**” means a contract of employment, whether express or implied, and if express, whether oral or in writing;
 - “**demolition**” means ship-breaking or ship-recycling;
 - “**employer**” means a person by whom a worker is employed on a ship under a contract of employment;
 - “**General Duties Regulations**” means the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997 [^c20649431];
-- [^key-3fb46be71657367182d80cadf1b4c480]...
+- [^c-3fb46be71657367182d80cadf1b4c480]...
 - “**health and safety**” includes the occupational health and safety of persons whilst on board a ship and whilst boarding or leaving the ship;
 - “**health surveillance**” means the assessment of the state of health of a individual worker related to exposure to asbestos, which is intended to prevent, and to provide early diagnosis of, any disorder linked with exposure to asbestos;
 - “ISO 17020” and “ISO 17025” mean, respectively, European Standard EN ISO/IEC 17020, “General criteria for the operation of various types of bodies performing inspection” and European Standard EN ISO/IEC 17025, “General requirements for the competence of testing and calibration laboratories” issued by the Comité Européen de Normalisation Electrotechnique (CENELEC), or any version of those documents which the Secretary of State considers relevant from time to time and is specified in a Merchant Shipping Notice which contains a statement to that effect;
@@ -82,7 +82,7 @@ These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Hea
 - “**surveyor of ships**” has the meaning given by section 256(9) of the Act;
 - “**United Kingdom ship**” means a ship which is—
   - (a) a United Kingdom ship within the meaning of section 85(2) of the Act, or
-  - (b) [^key-3fb46be71657367182d80cadf1b4c480]...
+  - (b) [^c-3fb46be71657367182d80cadf1b4c480]...
   - (c) a hovercraft registered under the Hovercraft Act 1968 [^c20649441]; and
 - “**United Kingdom waters**” means the sea or other waters within the seaward limits of the territorial sea of the United Kingdom.
 
@@ -121,7 +121,7 @@ that provision does not apply in relation to that ship to the extent of that con
 
 (3) To the extent that a provision of these Regulations does not apply in relation to a ship because of paragraph (2) there is in relation to that ship a duty on the employer to ensure, so far as is reasonably practicable, the health and safety of workers who are or may be exposed to asbestos during their work.
 
-(4) These Regulations do not apply to activities of a worker which are covered by the Control of Asbestos Regulations 2012[^key-a50f256d5e4226d8656a6797daffe338] or the Control of Asbestos Regulations (Northern Ireland) 2007 [^c20649501].
+(4) These Regulations do not apply to activities of a worker which are covered by the Control of Asbestos Regulations 2012[^c-a50f256d5e4226d8656a6797daffe338] or the Control of Asbestos Regulations (Northern Ireland) 2007 [^c20649501].
 
 (5) This regulation (other than paragraph (1)) and regulations 25 and 27 apply in relation to activities on ships other than United Kingdom ships, which are for the time being in United Kingdom waters, during which workers are or may be exposed to asbestos in the course of their work.
 
@@ -137,8 +137,8 @@ that provision does not apply in relation to that ship to the extent of that con
 - (a) worker exposure to asbestos is sporadic and of low intensity,
 - (b) it is clear from the results of the risk assessment required in accordance with Regulation 5 that the limit value will not be exceeded in the air of the area of activity, and
 - (c) work involves—
-  - (i) short, non-continuous maintenance activities in which only non-friable materials are handled[^key-8d6147bd037e0a764ee9557897893f86];
-  - (ii) removal without deterioration of non-degraded[^key-df92634798f363e6ca19b7cc8499b3fb] materials in which the asbestos fibres are firmly linked in a matrix;
+  - (i) short, non-continuous maintenance activities in which only non-friable materials are handled[^c-8d6147bd037e0a764ee9557897893f86];
+  - (ii) removal without deterioration of non-degraded[^c-df92634798f363e6ca19b7cc8499b3fb] materials in which the asbestos fibres are firmly linked in a matrix;
   - (iii) encapsulation or sealing of asbestos-containing materials which are in good condition; or
   - (iv) air monitoring and control, and the collection of samples to ascertain whether a specific material contains asbestos.
 
@@ -504,7 +504,7 @@ and any balance shall be repaid to the first-mentioned person.
 
 (7) In paragraph (1) “**relevant inspector**” means a person mentioned in paragraph (a), (b) or (c) of section 258(1) of the Act [^c20649531].
 
-### 26. Application of powers of inspectors in relation to Government ships[^key-2a77858ef8bac00de579c2c0fd555d3d]
+### 26. Application of powers of inspectors in relation to Government ships[^c-2a77858ef8bac00de579c2c0fd555d3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -521,7 +521,7 @@ and any balance shall be repaid to the first-mentioned person.
 - (b) specify the matters which, in the opinion of the surveyor of ships, have the effect that in relation to that ship those requirements are not met; and
 - (c) require the terms of the notice to be complied with until the ship is released by any person mentioned in section 284(1) of the Act.
 
-### 28. Right of appeal and compensation[^key-e7fb5cf731b97390c46f161f92a61129]
+### 28. Right of appeal and compensation[^c-e7fb5cf731b97390c46f161f92a61129]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -529,7 +529,7 @@ and any balance shall be repaid to the first-mentioned person.
 
 No charge in respect of anything done or provided in accordance with any requirement of these Regulations may be levied or permitted to be levied on any worker.
 
-### 30. Review[^key-cebf11e004ca9e8d6b9e05104deff0e5]
+### 30. Review[^c-cebf11e004ca9e8d6b9e05104deff0e5]
 
 (1) The Secretary of State must from time to time—
 
@@ -601,13 +601,13 @@ An impact assessment of the effect of these Regulations on the cost of business 
 
 [^c20649411]: Marginal citation: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
 
-[^key-31b48d3059883f20f6c9543581aa8a41]: Textual amendment: Words in reg. 2 substituted (12.7.2013) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) (Amendment) Regulations 2013 (S.I. 2013/1473)](https://www.legislation.gov.uk/uksi/2013/1473), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1473/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1473/regulation/2/2)
+[^c-31b48d3059883f20f6c9543581aa8a41]: Textual amendment: Words in reg. 2 substituted (12.7.2013) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) (Amendment) Regulations 2013 (S.I. 2013/1473)](https://www.legislation.gov.uk/uksi/2013/1473), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1473/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1473/regulation/2/2)
 
 [^c20649421]: Marginal citation: The Chemical Abstracts Service, a division of the American Chemical Society, maintains the CAS Registry, a database of chemical substances.
 
 [^c20649431]: Marginal citation: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962), amended by [S.I. 1998/2411](https://www.legislation.gov.uk/uksi/1998/2411) and 2001/54.
 
-[^key-3fb46be71657367182d80cadf1b4c480]: Textual amendment: Words in reg. 2(1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-3fb46be71657367182d80cadf1b4c480]: Textual amendment: Words in reg. 2(1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^c20649441]: Marginal citation: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59).
 
@@ -619,13 +619,13 @@ An impact assessment of the effect of these Regulations on the cost of business 
 
 [^c20649481]: Marginal citation: Published by the Stationery Office in 1999 (ISBN 9-11-551812-6).
 
-[^key-a50f256d5e4226d8656a6797daffe338]: Textual amendment: Words in reg. 4(4) substituted (6.4.2012) by [The Control of Asbestos Regulations 2012 (S.I. 2012/632)](https://www.legislation.gov.uk/uksi/2012/632), [reg. 1](https://www.legislation.gov.uk/uksi/2012/632/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/632/schedule/3)
+[^c-a50f256d5e4226d8656a6797daffe338]: Textual amendment: Words in reg. 4(4) substituted (6.4.2012) by [The Control of Asbestos Regulations 2012 (S.I. 2012/632)](https://www.legislation.gov.uk/uksi/2012/632), [reg. 1](https://www.legislation.gov.uk/uksi/2012/632/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/632/schedule/3)
 
 [^c20649501]: Marginal citation: S.R. [2007 No. 31](https://www.legislation.gov.uk/ukcm/2007/31).
 
-[^key-8d6147bd037e0a764ee9557897893f86]: Textual amendment: Words in [reg. 4(8)(c)(i)](https://www.legislation.gov.uk/uksi/2010/2984/regulation/4/8/c/i) inserted (12.7.2013) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) (Amendment) Regulations 2013 (S.I. 2013/1473)](https://www.legislation.gov.uk/uksi/2013/1473), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1473/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/1473/regulation/2/3/a)
+[^c-8d6147bd037e0a764ee9557897893f86]: Textual amendment: Words in [reg. 4(8)(c)(i)](https://www.legislation.gov.uk/uksi/2010/2984/regulation/4/8/c/i) inserted (12.7.2013) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) (Amendment) Regulations 2013 (S.I. 2013/1473)](https://www.legislation.gov.uk/uksi/2013/1473), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1473/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/1473/regulation/2/3/a)
 
-[^key-df92634798f363e6ca19b7cc8499b3fb]: Textual amendment: Words in [reg. 4(8)(c)(ii)](https://www.legislation.gov.uk/uksi/2010/2984/regulation/4/8/c/ii) substituted (12.7.2013) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) (Amendment) Regulations 2013 (S.I. 2013/1473)](https://www.legislation.gov.uk/uksi/2013/1473), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1473/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/1473/regulation/2/3/b)
+[^c-df92634798f363e6ca19b7cc8499b3fb]: Textual amendment: Words in [reg. 4(8)(c)(ii)](https://www.legislation.gov.uk/uksi/2010/2984/regulation/4/8/c/ii) substituted (12.7.2013) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) (Amendment) Regulations 2013 (S.I. 2013/1473)](https://www.legislation.gov.uk/uksi/2013/1473), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1473/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/1473/regulation/2/3/b)
 
 [^c20649511]: Marginal citation: Cmnd. 8941.
 
@@ -633,10 +633,10 @@ An impact assessment of the effect of these Regulations on the cost of business 
 
 [^c20649531]: Marginal citation: Section 258(1) was amended by the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), [Schedule 1 paragraph 4](https://www.legislation.gov.uk/ukpga/1997/28/schedule/1/paragraph/4) and Schedule 7 Part I, and modified in relation to a ship in a port in the United Kingdom by [S.I. 1995/3128](https://www.legislation.gov.uk/uksi/1995/3128).
 
-[^key-2a77858ef8bac00de579c2c0fd555d3d]: Textual amendment: Reg. 26 omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-2a77858ef8bac00de579c2c0fd555d3d]: Textual amendment: Reg. 26 omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^c20649551]: Marginal citation: Section 284 was amended by the Merchant Shipping and Maritime Security Act 1997, Schedule 1 paragraph 5.
 
-[^key-e7fb5cf731b97390c46f161f92a61129]: Textual amendment: Reg. 28 omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-e7fb5cf731b97390c46f161f92a61129]: Textual amendment: Reg. 28 omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-cebf11e004ca9e8d6b9e05104deff0e5]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/2010/2984/regulation/30) inserted (12.7.2013) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) (Amendment) Regulations 2013 (S.I. 2013/1473)](https://www.legislation.gov.uk/uksi/2013/1473), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1473/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/1473/regulation/2/4)
+[^c-cebf11e004ca9e8d6b9e05104deff0e5]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/2010/2984/regulation/30) inserted (12.7.2013) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) (Amendment) Regulations 2013 (S.I. 2013/1473)](https://www.legislation.gov.uk/uksi/2013/1473), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1473/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/1473/regulation/2/4)

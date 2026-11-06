@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Codes of practice for the processing of personal data[^key-615654bf6d2314391aaeadafdfc325b3][^key-89cc2abf89dbf11552b637b9a50b7ac7]
+## 92. Codes of practice for the processing of personal data[^c-615654bf6d2314391aaeadafdfc325b3][^c-89cc2abf89dbf11552b637b9a50b7ac7]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,6 +86,6 @@ summary: ''
 
 ## Annotations
 
-[^key-615654bf6d2314391aaeadafdfc325b3]: Commencement: S. 92 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-615654bf6d2314391aaeadafdfc325b3]: Commencement: S. 92 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-89cc2abf89dbf11552b637b9a50b7ac7]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2025/18/section/92) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/f)
+[^c-89cc2abf89dbf11552b637b9a50b7ac7]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2025/18/section/92) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/f)

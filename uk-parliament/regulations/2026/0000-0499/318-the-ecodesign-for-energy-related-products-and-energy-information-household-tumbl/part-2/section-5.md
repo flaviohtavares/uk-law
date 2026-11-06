@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Ecodesign requirements[^key-a74aaf10f0e2fc6bbd1becf317ab250f]
+## 5. Ecodesign requirements[^c-a74aaf10f0e2fc6bbd1becf317ab250f]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a74aaf10f0e2fc6bbd1becf317ab250f]: Commencement: Reg. 5 in force at 10.4.2026, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/a)
+[^c-a74aaf10f0e2fc6bbd1becf317ab250f]: Commencement: Reg. 5 in force at 10.4.2026, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/a)
 
 [^f00009]: Footnote: See [regulation 2](https://www.legislation.gov.uk/uksi/2010/2617/regulation/2) of [the 2010 Regulations](https://www.legislation.gov.uk/uksi/2010/2617/contents) for the meaning of “place on the market” and “put into service”.

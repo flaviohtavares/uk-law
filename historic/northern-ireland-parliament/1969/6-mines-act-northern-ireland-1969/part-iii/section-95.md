@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 95. Measures against vermin and insects.[^key-5ca5e566b43afd7c8144a96aeb3ab3e8]
+## 95. Measures against vermin and insects.[^c-5ca5e566b43afd7c8144a96aeb3ab3e8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ca5e566b43afd7c8144a96aeb3ab3e8]: Textual amendment: [S. 95](https://www.legislation.gov.uk/apni/1969/6/section/95) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-5ca5e566b43afd7c8144a96aeb3ab3e8]: Textual amendment: [S. 95](https://www.legislation.gov.uk/apni/1969/6/section/95) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Procedure relating to SMS investigations[^key-a506f5d09bfe9e31583e55b384b32d32][^key-93550f3f9b199aa733b55567a2767d37]
+## 11. Procedure relating to SMS investigations[^c-a506f5d09bfe9e31583e55b384b32d32][^c-93550f3f9b199aa733b55567a2767d37]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,12 +38,12 @@ summary: ''
 (5) As soon as reasonably practicable after giving an SMS investigation notice or a revised version of an SMS investigation notice, the CMA must—
 
 - (a) publish the notice, and
-- (b) give a copy of the notice to the FCA, OFCOM, the Information Commission[^key-95245cc57cff63c288b4edd28f4a4e53], the Bank of England and the PRA.
+- (b) give a copy of the notice to the FCA, OFCOM, the Information Commission[^c-95245cc57cff63c288b4edd28f4a4e53], the Bank of England and the PRA.
 
 ## Annotations
 
-[^key-a506f5d09bfe9e31583e55b384b32d32]: Commencement: S. 11 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-a506f5d09bfe9e31583e55b384b32d32]: Commencement: S. 11 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-93550f3f9b199aa733b55567a2767d37]: Commencement: S. 11 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-93550f3f9b199aa733b55567a2767d37]: Commencement: S. 11 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
 
-[^key-95245cc57cff63c288b4edd28f4a4e53]: Textual amendment: Words in s. 11(5)(b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 27(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/27/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/27/2/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-95245cc57cff63c288b4edd28f4a4e53]: Textual amendment: Words in s. 11(5)(b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 27(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/27/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/27/2/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

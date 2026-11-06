@@ -45,11 +45,11 @@ summary: ''
 
 (8) “**The relevant authority**” means—
 
-- (aa)[^key-4b331572e2a58e0ceeda77e12219aaa2] in relation to an administration order or an enforcement restriction order: the county court;
+- (aa)[^c-4b331572e2a58e0ceeda77e12219aaa2] in relation to an administration order or an enforcement restriction order: the county court;
 - (c) in relation to a debt relief order: the official receiver.
 
 (9) For the purposes of this section a debt relief order is “in force” if the moratorium applicable to the order under section 251H of the Insolvency Act 1986 has not yet ended.
 
 ## Annotations
 
-[^key-4b331572e2a58e0ceeda77e12219aaa2]: Textual amendment: [S. 121(8)(aa)](https://www.legislation.gov.uk/ukpga/2007/15/section/121/8/aa) substituted for (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 136(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/136/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-4b331572e2a58e0ceeda77e12219aaa2]: Textual amendment: [S. 121(8)(aa)](https://www.legislation.gov.uk/ukpga/2007/15/section/121/8/aa) substituted for (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 136(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/136/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

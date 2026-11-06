@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Power of Secretary of State to appoint additional governors[^key-ac48f567fdb3b84e060c6f6945b3884a]
+## 67. Power of Secretary of State to appoint additional governors[^c-ac48f567fdb3b84e060c6f6945b3884a]
 
 *Extent: E+W*
 
-(1) If at any time a maintained school is eligible for intervention [^key-15d9378407d5a8488c7130651fc196c1]..., the Secretary of State may appoint such number of additional governors as he thinks fit; and he may nominate one of those governors to be the chairman of the governing body in place of any person who has been elected as chairman of that body.
+(1) If at any time a maintained school is eligible for intervention [^c-15d9378407d5a8488c7130651fc196c1]..., the Secretary of State may appoint such number of additional governors as he thinks fit; and he may nominate one of those governors to be the chairman of the governing body in place of any person who has been elected as chairman of that body.
 
 (2) Before making any such appointment, the Secretary of State must consult—
 
-- (a) the local authority[^key-0ea7acc4831332590d0c9da4689eca3c],
+- (a) the local authority[^c-0ea7acc4831332590d0c9da4689eca3c],
 - (b) the governing body of the school,
 - (c) in the case of a foundation or voluntary school which is a Church of England school or a Roman Catholic Church school, the appropriate diocesan authority, and
 - (d) in the case of any other foundation or voluntary school, the person or persons by whom the foundation governors are appointed.
@@ -54,8 +54,8 @@ as the Secretary of State may determine.
 
 ## Annotations
 
-[^key-ac48f567fdb3b84e060c6f6945b3884a]: Commencement: S. 67 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(j)](https://www.legislation.gov.uk/uksi/2007/935/article/5/j)
+[^c-ac48f567fdb3b84e060c6f6945b3884a]: Commencement: S. 67 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(j)](https://www.legislation.gov.uk/uksi/2007/935/article/5/j)
 
-[^key-15d9378407d5a8488c7130651fc196c1]: Textual amendment: Words in s. 67(1) repealed (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2009/22/schedule/13/paragraph/8), [Sch. 16 Pt. 6](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/6); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-15d9378407d5a8488c7130651fc196c1]: Textual amendment: Words in s. 67(1) repealed (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2009/22/schedule/13/paragraph/8), [Sch. 16 Pt. 6](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/6); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

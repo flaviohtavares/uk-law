@@ -48,16 +48,16 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 The Secretary of State for Health has consulted the National Health Service Commissioning Board[^f00002] in accordance with section 7(1B) of that Act[^f00003].
 
-## 1. Citation and commencement[^key-370b783868257a63b57e43ca1abe97eb]
+## 1. Citation and commencement[^c-370b783868257a63b57e43ca1abe97eb]
 
 These Regulations may be cited as the Delegation of Additional Functions to the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2015 and come into force on 1st April 2015.
 
-## 2. Functions of NHS England to be exercisable by the NHS Business Services Authority[^key-67a91540ce6ec11903af658ecfe9dd6e][^key-cf540bb5e04d3b58117022f1234f0166]
+## 2. Functions of NHS England to be exercisable by the NHS Business Services Authority[^c-67a91540ce6ec11903af658ecfe9dd6e][^c-cf540bb5e04d3b58117022f1234f0166]
 
 The NHS Business Services Authority[^f00004] is directed to exercise the functions of NHS England that NHS England—
 
 - (a) may exercise by virtue of being prescribed as a qualifying person by regulation 3(1)(b) of the Social Security (Information-sharing) (NHS Payments and Remission of Charges etc.) (England) Regulations 2015[^f00005] (qualifying persons for the purposes of information-sharing by the Secretary of State for Work and Pensions), including its functions under regulation 9 of those Regulations (which relates to disclosure of personal data by qualifying persons to the Secretary of State for Work and Pensions);
-- (b) must exercise under regulation 10(9)(a) of the National Health Service (Charges for Drugs and Appliances) Regulations 2015[^key-bffd3d1085c42176d185be241cc8d1ac] (which relates to the recovery of charges for the supply of drugs or appliances where a person’s claim for an exemption from such a charge is not substantiated).
+- (b) must exercise under regulation 10(9)(a) of the National Health Service (Charges for Drugs and Appliances) Regulations 2015[^c-bffd3d1085c42176d185be241cc8d1ac] (which relates to the recovery of charges for the supply of drugs or appliances where a person’s claim for an exemption from such a charge is not substantiated).
 
 Signed by authority of the Secretary of State for Health.
 
@@ -89,14 +89,14 @@ Regulation 2(b) requires the NHSBSA to perform functions conferred on the NHSCB 
 
 [^f00003]: Footnote: Subsection (1B) of section 7 of the 2006 Act was inserted by the 2012 Act, section 21(2).
 
-[^key-370b783868257a63b57e43ca1abe97eb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/127/regulation/1) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/127/regulation/1)
+[^c-370b783868257a63b57e43ca1abe97eb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/127/regulation/1) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/127/regulation/1)
 
-[^key-67a91540ce6ec11903af658ecfe9dd6e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/127/regulation/2) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/127/regulation/1)
+[^c-67a91540ce6ec11903af658ecfe9dd6e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/127/regulation/2) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/127/regulation/1)
 
-[^key-cf540bb5e04d3b58117022f1234f0166]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-cf540bb5e04d3b58117022f1234f0166]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^f00004]: Footnote: The NHS Business Services Authority was established by the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Establishment and Constitution) Order 2005 ([S.I. 2005/2414](https://www.legislation.gov.uk/uksi/2005/2414), as amended by [S.I. 2006/632](https://www.legislation.gov.uk/uksi/2006/632), [2007/1201](https://www.legislation.gov.uk/uksi/2007/1201) and [2013/235](https://www.legislation.gov.uk/uksi/2013/235)).
 
 [^f00005]: Footnote: [S.I. 2015/124](https://www.legislation.gov.uk/uksi/2015/124) .
 
-[^key-bffd3d1085c42176d185be241cc8d1ac]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/127/regulation/2) substituted (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2015/570/schedule/2/paragraph/8)
+[^c-bffd3d1085c42176d185be241cc8d1ac]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/127/regulation/2) substituted (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2015/570/schedule/2/paragraph/8)

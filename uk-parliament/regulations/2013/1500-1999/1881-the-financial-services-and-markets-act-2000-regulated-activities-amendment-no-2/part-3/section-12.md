@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Obligations of certain persons who carry on credit broking[^key-533e7db10ff05a50d063af3ccd176442]
+## 12. Obligations of certain persons who carry on credit broking[^c-533e7db10ff05a50d063af3ccd176442]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-9decb5eb39eec05ce2ddb3ca21f2eeaa] This article applies to a person (“P”) who is within the description in paragraph (1A) or the description in paragraph (1B).
+(1)[^c-9decb5eb39eec05ce2ddb3ca21f2eeaa] This article applies to a person (“P”) who is within the description in paragraph (1A) or the description in paragraph (1B).
 
 (1A) A person is within the description in this paragraph if the person—
 
@@ -50,9 +50,9 @@ summary: ''
 
 ## Annotations
 
-[^key-533e7db10ff05a50d063af3ccd176442]: Textual amendment: Words in [art. 12](https://www.legislation.gov.uk/uksi/2013/1881/article/12) heading substituted (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2014/506/article/5/2)
+[^c-533e7db10ff05a50d063af3ccd176442]: Textual amendment: Words in [art. 12](https://www.legislation.gov.uk/uksi/2013/1881/article/12) heading substituted (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2014/506/article/5/2)
 
-[^key-9decb5eb39eec05ce2ddb3ca21f2eeaa]: Textual amendment: [Art. 12(1)-(1B)](https://www.legislation.gov.uk/uksi/2013/1881/article/12/1) substituted for [art. 12(1)](https://www.legislation.gov.uk/uksi/2013/1881/article/12/1) (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2014/506/article/5/3)
+[^c-9decb5eb39eec05ce2ddb3ca21f2eeaa]: Textual amendment: [Art. 12(1)-(1B)](https://www.legislation.gov.uk/uksi/2013/1881/article/12/1) substituted for [art. 12(1)](https://www.legislation.gov.uk/uksi/2013/1881/article/12/1) (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2014/506/article/5/3)
 
 [^c23372711]: Marginal citation: Inserted by the Financial Services Act 2012, section 24.
 

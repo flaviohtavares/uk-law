@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Reserve fund[^key-4c99115a61d8726657f5f9a2cadc5819]
+## 42. Reserve fund[^c-4c99115a61d8726657f5f9a2cadc5819]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c99115a61d8726657f5f9a2cadc5819]: Commencement: Art. 42 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-4c99115a61d8726657f5f9a2cadc5819]: Commencement: Art. 42 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

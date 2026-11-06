@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**221.**[^key-22a33624e22825654755bee8be54a838] In Schedule 2, omit paragraph 2(2)(b).
+**221.**[^c-22a33624e22825654755bee8be54a838] In Schedule 2, omit paragraph 2(2)(b).
 
 ## Annotations
 
-[^key-22a33624e22825654755bee8be54a838]: Commencement: Reg. 221 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-22a33624e22825654755bee8be54a838]: Commencement: Reg. 221 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

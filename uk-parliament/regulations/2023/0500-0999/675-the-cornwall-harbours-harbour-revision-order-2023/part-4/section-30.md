@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Confirmation of byelaws[^key-d49167decd21e0a9c77782d220a417eb]
+## 30. Confirmation of byelaws[^c-d49167decd21e0a9c77782d220a417eb]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d49167decd21e0a9c77782d220a417eb]: Commencement: Art. 30 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-d49167decd21e0a9c77782d220a417eb]: Commencement: Art. 30 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
 [^f00017]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

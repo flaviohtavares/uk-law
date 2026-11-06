@@ -24,29 +24,29 @@ summary: ''
 
 Regulation 34(a)(i) and (b)
 
-**1.**[^key-db1a2cbf473398c05d255c5e52d7a959] The date of the notice.
+**1.**[^c-db1a2cbf473398c05d255c5e52d7a959] The date of the notice.
 
-**2.**[^key-fe409a2622e8a1e3a5fb17ad17d282a4] A description of the agreement sufficient to identify it and the claim number of the judgment given in relation to the agreement.
+**2.**[^c-fe409a2622e8a1e3a5fb17ad17d282a4] A description of the agreement sufficient to identify it and the claim number of the judgment given in relation to the agreement.
 
-**3.**[^key-766afff44508f93a7da55a378e1c91f7] (1) The name, telephone number, postal address and, where appropriate, any other address of the creditor or owner.
+**3.**[^c-766afff44508f93a7da55a378e1c91f7] (1) The name, telephone number, postal address and, where appropriate, any other address of the creditor or owner.
 
 (2) Where the creditor and the debtor or the owner and the hirer have entered into an arrangement under which the debtor or the hirer has been given details of a particular employee or category of employee of the creditor or owner whom the debtor or hirer is entitled to contact in relation to all his dealings with the creditor or owner, the creditor or owner may, instead of including the telephone number or numbers referred to in sub-paragraph (1), refer to that arrangement.
 
-**4.**[^key-12e7b6cb4a53fe51cbe7f4c64c03a510] The amount on which post-judgment interest is or will be charged at the date of the notice.
+**4.**[^c-12e7b6cb4a53fe51cbe7f4c64c03a510] The amount on which post-judgment interest is or will be charged at the date of the notice.
 
-**5.**[^key-34ca37da3e192d0a90c96531276541c2] A statement in the following form—
+**5.**[^c-34ca37da3e192d0a90c96531276541c2] A statement in the following form—
 
 > If you are having problems making repayments you should contact us in the first instance. If we cannot help you resolve the problem and if you are making payments under an instalment order you may be able to apply to the court to have the terms of the instalment order varied. If you do so you may also ask the court to reduce the amount of interest payable on the judgment debt.
 
 .
 
-**6.**[^key-5c0e1f9c7133ded5225f7fd877ee31b3] A statement in the following form—[^key-ae4a3adbafe265e43e6d904fd2346081]
+**6.**[^c-5c0e1f9c7133ded5225f7fd877ee31b3] A statement in the following form—[^c-ae4a3adbafe265e43e6d904fd2346081]
 
 > **‘Advice and information**
 >
 > You can also obtain advice and information about dealing with your debt issues from Citizens Advice, Consumer Credit Counselling Service, National Debtline, Consumer Direct, Consumerline and Community Legal Advice. \[ NOTE 1\].’.
 >
-> NOTE 1: Insert the contact details for the organisations referred to which are contained in the current Financial Conduct Authority[^key-041e2c3467208e053ea00b0fe73e7314] Default information sheet.
+> NOTE 1: Insert the contact details for the organisations referred to which are contained in the current Financial Conduct Authority[^c-041e2c3467208e053ea00b0fe73e7314] Default information sheet.
 
 .
 
@@ -54,13 +54,13 @@ Regulation 34(a)(i) and (b)
 
 Regulation 34(b)
 
-**7.**[^key-605452a06b198384f8d20d89785029ed] The total amount of post-judgment interest charged since the date of the last notice given under section130A in relation to the agreement.
+**7.**[^c-605452a06b198384f8d20d89785029ed] The total amount of post-judgment interest charged since the date of the last notice given under section130A in relation to the agreement.
 
-**8.**[^key-b1b90980ba8f335d678bb316f8ad4c11] The date or dates on which post-judgment interest has been charged since that date.
+**8.**[^c-b1b90980ba8f335d678bb316f8ad4c11] The date or dates on which post-judgment interest has been charged since that date.
 
-**9.**[^key-36c2c5cd24b1171d0d8ed14df5a3f65a] The rate or rates at which post-judgment interest was charged. Where the rate is a variable rate it shall be stated to be variable.
+**9.**[^c-36c2c5cd24b1171d0d8ed14df5a3f65a] The rate or rates at which post-judgment interest was charged. Where the rate is a variable rate it shall be stated to be variable.
 
-### PART 3 — FORM OF WORDING TO BE INCLUDED IN FIRST REQUIRED NOTICE[^key-f116505df45db9f8ae06004e8ed61b70]
+### PART 3 — FORM OF WORDING TO BE INCLUDED IN FIRST REQUIRED NOTICE[^c-f116505df45db9f8ae06004e8ed61b70]
 
 Regulation 34(a)(ii)
 
@@ -84,26 +84,26 @@ NOTE 2: Delete where the rate or rates are fixed.
 
 ## Annotations
 
-[^key-db1a2cbf473398c05d255c5e52d7a959]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/1) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-db1a2cbf473398c05d255c5e52d7a959]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/1) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
-[^key-fe409a2622e8a1e3a5fb17ad17d282a4]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/2) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-fe409a2622e8a1e3a5fb17ad17d282a4]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/2) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
-[^key-766afff44508f93a7da55a378e1c91f7]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/3) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-766afff44508f93a7da55a378e1c91f7]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/3) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
-[^key-12e7b6cb4a53fe51cbe7f4c64c03a510]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/4) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-12e7b6cb4a53fe51cbe7f4c64c03a510]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/4) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
-[^key-34ca37da3e192d0a90c96531276541c2]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/5) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-34ca37da3e192d0a90c96531276541c2]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/5) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
-[^key-5c0e1f9c7133ded5225f7fd877ee31b3]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/6) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-5c0e1f9c7133ded5225f7fd877ee31b3]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/6) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
-[^key-ae4a3adbafe265e43e6d904fd2346081]: Textual amendment: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/6) substituted (1.10.2008) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2008 (S.I. 2008/1751)](https://www.legislation.gov.uk/uksi/2008/1751), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1751/regulation/1), [2(s)](https://www.legislation.gov.uk/uksi/2008/1751/regulation/2/s)
+[^c-ae4a3adbafe265e43e6d904fd2346081]: Textual amendment: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/6) substituted (1.10.2008) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2008 (S.I. 2008/1751)](https://www.legislation.gov.uk/uksi/2008/1751), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1751/regulation/1), [2(s)](https://www.legislation.gov.uk/uksi/2008/1751/regulation/2/s)
 
-[^key-041e2c3467208e053ea00b0fe73e7314]: Textual amendment: Words in [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/6) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [11(4)](https://www.legislation.gov.uk/uksi/2014/366/article/11/4)
+[^c-041e2c3467208e053ea00b0fe73e7314]: Textual amendment: Words in [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/6) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [11(4)](https://www.legislation.gov.uk/uksi/2014/366/article/11/4)
 
-[^key-605452a06b198384f8d20d89785029ed]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/7) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-605452a06b198384f8d20d89785029ed]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/7) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
-[^key-b1b90980ba8f335d678bb316f8ad4c11]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/8) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-b1b90980ba8f335d678bb316f8ad4c11]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/8) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
-[^key-36c2c5cd24b1171d0d8ed14df5a3f65a]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/9) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-36c2c5cd24b1171d0d8ed14df5a3f65a]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/paragraph/9) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
-[^key-f116505df45db9f8ae06004e8ed61b70]: Commencement: [Sch. 5 Pt. 3](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/part/3) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-f116505df45db9f8ae06004e8ed61b70]: Commencement: [Sch. 5 Pt. 3](https://www.legislation.gov.uk/uksi/2007/1167/schedule/5/part/3) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.89. Chairman of meeting as proxy-holder[^key-4aec3711f4ce70057b5ba0b7a31fe6ec]
+## 6.89. Chairman of meeting as proxy-holder[^c-4aec3711f4ce70057b5ba0b7a31fe6ec]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where the chairman at a meeting holds a proxy for a creditor, which requires him
 
 ## Annotations
 
-[^key-4aec3711f4ce70057b5ba0b7a31fe6ec]: Commencement: [Rule 6.89](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.89) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-4aec3711f4ce70057b5ba0b7a31fe6ec]: Commencement: [Rule 6.89](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.89) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

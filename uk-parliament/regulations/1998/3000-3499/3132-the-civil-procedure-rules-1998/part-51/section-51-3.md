@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51.3. Temporary modifications for coronavirus or other emergency[^key-acababa0f0b19c1dc1411d8ed12b5a13]
+## 51.3. Temporary modifications for coronavirus or other emergency[^c-acababa0f0b19c1dc1411d8ed12b5a13]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ in order to address issues for the work of the courts arising from the coronavir
 
 ## Annotations
 
-[^key-acababa0f0b19c1dc1411d8ed12b5a13]: Textual amendment: [Rule 51.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/51.3) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2021/117/rule/12/2)
+[^c-acababa0f0b19c1dc1411d8ed12b5a13]: Textual amendment: [Rule 51.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/51.3) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2021/117/rule/12/2)

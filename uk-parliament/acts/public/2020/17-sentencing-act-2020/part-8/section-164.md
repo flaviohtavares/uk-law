@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Driving disqualification order: availability where vehicle used for purposes of crime[^key-1c35233a5d0cd1e7c2fe384c80e84966]
+## 164. Driving disqualification order: availability where vehicle used for purposes of crime[^c-1c35233a5d0cd1e7c2fe384c80e84966]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c35233a5d0cd1e7c2fe384c80e84966]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2020/17/section/164) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1c35233a5d0cd1e7c2fe384c80e84966]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2020/17/section/164) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

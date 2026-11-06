@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Constitution of parish meeting, etc.[^key-e19dc3ebc9b6de5aca8b9f5708bcb317]
+## 13. Constitution of parish meeting, etc.[^c-e19dc3ebc9b6de5aca8b9f5708bcb317]
 
 *Extent: E*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e19dc3ebc9b6de5aca8b9f5708bcb317]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/1972/70/section/13) modified (1.4.2014) by [The West Yorkshire Combined Authority Order 2014 (S.I. 2014/864)](https://www.legislation.gov.uk/uksi/2014/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/864/article/1/2), [13](https://www.legislation.gov.uk/uksi/2014/864/article/13)
+[^c-e19dc3ebc9b6de5aca8b9f5708bcb317]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/1972/70/section/13) modified (1.4.2014) by [The West Yorkshire Combined Authority Order 2014 (S.I. 2014/864)](https://www.legislation.gov.uk/uksi/2014/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/864/article/1/2), [13](https://www.legislation.gov.uk/uksi/2014/864/article/13)
 
 [^c19637671]: Textual amendment: S. 13(5A)-(5C) inserted (13.2.2008) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 75(4)](https://www.legislation.gov.uk/ukpga/2007/28/section/75/4), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245); [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/337/article/2/a)

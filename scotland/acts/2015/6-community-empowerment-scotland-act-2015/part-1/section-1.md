@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. National outcomes[^key-22b98a567a3047795d781641affa3f43]
+## 1. National outcomes[^c-22b98a567a3047795d781641affa3f43]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22b98a567a3047795d781641affa3f43]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2015/6/section/1) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-22b98a567a3047795d781641affa3f43]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2015/6/section/1) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 159. Employer cost cap[^key-942ead836f6c6faeadead4171a13686d]
+## 159. Employer cost cap[^c-942ead836f6c6faeadead4171a13686d]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-942ead836f6c6faeadead4171a13686d]: Commencement: [Reg. 159](https://www.legislation.gov.uk/nisr/2014/290/regulation/159) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-942ead836f6c6faeadead4171a13686d]: Commencement: [Reg. 159](https://www.legislation.gov.uk/nisr/2014/290/regulation/159) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

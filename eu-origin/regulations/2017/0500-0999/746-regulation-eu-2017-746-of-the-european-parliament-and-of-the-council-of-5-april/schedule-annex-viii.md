@@ -16,97 +16,97 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX VIII — CLASSIFICATION RULES[^key-f0fe3e1a362a57117977e93ea17feacd]
+## ANNEX VIII — CLASSIFICATION RULES[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]1.
+[^c-f0fe3e1a362a57117977e93ea17feacd]1.
 
 IMPLEMENTING RULES
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]1.1.
+[^c-f0fe3e1a362a57117977e93ea17feacd]1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]1.2.
+[^c-f0fe3e1a362a57117977e93ea17feacd]1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]1.3.
+[^c-f0fe3e1a362a57117977e93ea17feacd]1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]1.4.
+[^c-f0fe3e1a362a57117977e93ea17feacd]1.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]1.5.
+[^c-f0fe3e1a362a57117977e93ea17feacd]1.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]1.6.
+[^c-f0fe3e1a362a57117977e93ea17feacd]1.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]1.7.
+[^c-f0fe3e1a362a57117977e93ea17feacd]1.7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]1.8.
+[^c-f0fe3e1a362a57117977e93ea17feacd]1.8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]1.9.
+[^c-f0fe3e1a362a57117977e93ea17feacd]1.9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]1.10.
+[^c-f0fe3e1a362a57117977e93ea17feacd]1.10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]2.
+[^c-f0fe3e1a362a57117977e93ea17feacd]2.
 
 CLASSIFICATION RULES
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]2.1.
+[^c-f0fe3e1a362a57117977e93ea17feacd]2.1.
 
 Rule 1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]2.2.
+[^c-f0fe3e1a362a57117977e93ea17feacd]2.2.
 
 Rule 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]2.3.
+[^c-f0fe3e1a362a57117977e93ea17feacd]2.3.
 
 Rule 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]2.4.
+[^c-f0fe3e1a362a57117977e93ea17feacd]2.4.
 
 Rule 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]2.5.
+[^c-f0fe3e1a362a57117977e93ea17feacd]2.5.
 
 Rule 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]2.6.
+[^c-f0fe3e1a362a57117977e93ea17feacd]2.6.
 
 Rule 6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]2.7.
+[^c-f0fe3e1a362a57117977e93ea17feacd]2.7.
 
 Rule 7
 
@@ -114,4 +114,4 @@ Rule 7
 
 ## Annotations
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]: Textual amendment: Regulation revoked (31.12.2020) by [The Medical Devices Regulations 2002 (S.I. 2002/618)](https://www.legislation.gov.uk/uksi/2002/618), [reg. 4P](https://www.legislation.gov.uk/uksi/2002/618/regulation/4P) (as inserted by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/791/regulation/3/7) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [9(m)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/9/m)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-f0fe3e1a362a57117977e93ea17feacd]: Textual amendment: Regulation revoked (31.12.2020) by [The Medical Devices Regulations 2002 (S.I. 2002/618)](https://www.legislation.gov.uk/uksi/2002/618), [reg. 4P](https://www.legislation.gov.uk/uksi/2002/618/regulation/4P) (as inserted by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/791/regulation/3/7) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [9(m)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/9/m)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

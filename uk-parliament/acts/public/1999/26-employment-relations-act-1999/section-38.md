@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-932a845a52c55474445fbf25cd07367e] The Secretary of State may by regulations make TUPE-like provision in relation to the treatment of employees in circumstances other than those to which the main part of the TUPE regulations applies.
+(1)[^c-932a845a52c55474445fbf25cd07367e] The Secretary of State may by regulations make TUPE-like provision in relation to the treatment of employees in circumstances other than those to which the main part of the TUPE regulations applies.
 
 (2) In this section—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-932a845a52c55474445fbf25cd07367e]: Textual amendment: S. 38(1)-(2A) substituted for s. 38(1)(2) (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/536)](https://www.legislation.gov.uk/uksi/2019/536), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/536/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/536/schedule/paragraph/1) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/536/schedule/part/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-932a845a52c55474445fbf25cd07367e]: Textual amendment: S. 38(1)-(2A) substituted for s. 38(1)(2) (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/536)](https://www.legislation.gov.uk/uksi/2019/536), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/536/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/536/schedule/paragraph/1) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/536/schedule/part/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

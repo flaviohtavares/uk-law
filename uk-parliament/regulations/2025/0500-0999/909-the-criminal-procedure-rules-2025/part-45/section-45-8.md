@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.8. Costs resulting from unnecessary or improper act, etc.[^key-adc9d53454d3786569880fd96d8c77c7]
+## 45.8. Costs resulting from unnecessary or improper act, etc.[^c-adc9d53454d3786569880fd96d8c77c7]
 
 *Extent: E+W*
 
@@ -87,7 +87,7 @@ summary: ''
 
 ## Annotations
 
-[^key-adc9d53454d3786569880fd96d8c77c7]: Commencement: [Rule 45.8](https://www.legislation.gov.uk/uksi/2025/909/rule/45.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-adc9d53454d3786569880fd96d8c77c7]: Commencement: [Rule 45.8](https://www.legislation.gov.uk/uksi/2025/909/rule/45.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01088]: Footnote: [1985 c. 23](https://www.legislation.gov.uk/ukpga/1985/23).
 

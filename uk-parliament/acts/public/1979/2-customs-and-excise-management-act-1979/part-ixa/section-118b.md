@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118B. Duty of revenue traders and others to furnish information and produce documents.[^c14779021][^c14779031][^key-3cbc731c9b2b6567315b893e8679fd0c][^key-2fad235dd9dcfe981eb935aa33c43e5e]
+## 118B. Duty of revenue traders and others to furnish information and produce documents.[^c14779021][^c14779031][^c-3cbc731c9b2b6567315b893e8679fd0c][^c-2fad235dd9dcfe981eb935aa33c43e5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,9 +62,9 @@ relating to that business.
 
 [^c14779031]: Modification: S. 118B modified (3.5.1994) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 40(2)](https://www.legislation.gov.uk/ukpga/1994/9/section/40/2), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/1994/9/schedule/6/paragraph/2), [4](https://www.legislation.gov.uk/ukpga/1994/9/schedule/6/paragraph/4)
 
-[^key-3cbc731c9b2b6567315b893e8679fd0c]: Modification: S. 118B applied (with modifications) (1.4.2017) by [The Raw Tobacco (Approval Scheme) Regulations 2016 (S.I. 2016/1172)](https://www.legislation.gov.uk/uksi/2016/1172), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/1/3), [22](https://www.legislation.gov.uk/uksi/2016/1172/regulation/22), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2016/1172/schedule/2/paragraph/3)
+[^c-3cbc731c9b2b6567315b893e8679fd0c]: Modification: S. 118B applied (with modifications) (1.4.2017) by [The Raw Tobacco (Approval Scheme) Regulations 2016 (S.I. 2016/1172)](https://www.legislation.gov.uk/uksi/2016/1172), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/1/3), [22](https://www.legislation.gov.uk/uksi/2016/1172/regulation/22), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2016/1172/schedule/2/paragraph/3)
 
-[^key-2fad235dd9dcfe981eb935aa33c43e5e]: Modification: S. 118B modified (1.8.2018) by [The Tobacco Products Manufacturing Machinery (Licensing Scheme) Regulations 2018 (S.I. 2018/75)](https://www.legislation.gov.uk/uksi/2018/75), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/75/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2018/75/regulation/17)
+[^c-2fad235dd9dcfe981eb935aa33c43e5e]: Modification: S. 118B modified (1.8.2018) by [The Tobacco Products Manufacturing Machinery (Licensing Scheme) Regulations 2018 (S.I. 2018/75)](https://www.legislation.gov.uk/uksi/2018/75), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/75/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2018/75/regulation/17)
 
 [^c14779041]: Textual amendment: S. 118B(1)(a)(iii) and word preceding it inserted (19.3.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/13/2), [15](https://www.legislation.gov.uk/ukpga/1997/16/section/15), [Sch. 2 Pt. I para. 3(a)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/2/part/I/paragraph/3/a)
 

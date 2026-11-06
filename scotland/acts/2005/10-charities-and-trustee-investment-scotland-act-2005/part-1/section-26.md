@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. False or misleading information etc.[^key-0973d8bd0da7bcf828997179cdc92c5d]
+## 26. False or misleading information etc.[^c-0973d8bd0da7bcf828997179cdc92c5d]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0973d8bd0da7bcf828997179cdc92c5d]: Commencement: S. 26 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
+[^c-0973d8bd0da7bcf828997179cdc92c5d]: Commencement: S. 26 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Revocation of emergency detention certificate: notification[^key-8199edbbed47c41d60696f5887fe745c]
+## 40. Revocation of emergency detention certificate: notification[^c-8199edbbed47c41d60696f5887fe745c]
 
 *Extent: S*
 
@@ -27,10 +27,10 @@ summary: ''
 
 of the revocation.
 
-(2) The managers of the hospital shall, as soon as practicable after being informed of the revocation, inform the Commission and[^key-0f95f05c821b834f0416fe2ae3360625] the persons mentioned in section 38(4) and (5) of this Act of the revocation.
+(2) The managers of the hospital shall, as soon as practicable after being informed of the revocation, inform the Commission and[^c-0f95f05c821b834f0416fe2ae3360625] the persons mentioned in section 38(4) and (5) of this Act of the revocation.
 
 ## Annotations
 
-[^key-8199edbbed47c41d60696f5887fe745c]: Commencement: S. 40 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-8199edbbed47c41d60696f5887fe745c]: Commencement: S. 40 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-0f95f05c821b834f0416fe2ae3360625]: Textual amendment: Words in [s. 40(2)](https://www.legislation.gov.uk/asp/2003/13/section/40/2) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 4(4)](https://www.legislation.gov.uk/asp/2015/9/section/4/4), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-0f95f05c821b834f0416fe2ae3360625]: Textual amendment: Words in [s. 40(2)](https://www.legislation.gov.uk/asp/2003/13/section/40/2) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 4(4)](https://www.legislation.gov.uk/asp/2015/9/section/4/4), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

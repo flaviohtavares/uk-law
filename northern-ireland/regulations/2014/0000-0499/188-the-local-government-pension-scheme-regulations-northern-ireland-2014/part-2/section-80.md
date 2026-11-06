@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. First instance decisions - general[^key-716a222787d9926212a5bc33c354c29b]
+## 80. First instance decisions - general[^c-716a222787d9926212a5bc33c354c29b]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) the crediting of additional pension under regulation 18 (additional pension contributions); and
 - (d) the amount of any benefit or return of contributions that a person is or may become entitled to out of the pension fund.
 
-(3) The employing authority shall decide any question regarding any other matter relating to a person's rights or liabilities under the Scheme including which of the employee's emoluments are remuneration on which contributions are payable[^key-fe5c46b7c465107de7d1f2e4cf775f79] .
+(3) The employing authority shall decide any question regarding any other matter relating to a person's rights or liabilities under the Scheme including which of the employee's emoluments are remuneration on which contributions are payable[^c-fe5c46b7c465107de7d1f2e4cf775f79] .
 
 (4) The questions specified in paragraphs (2) and (3) shall be decided as soon as is reasonably practicable.
 
@@ -46,11 +46,11 @@ summary: ''
 
 ## Annotations
 
-[^key-716a222787d9926212a5bc33c354c29b]: Modification: Regs. 79-89 applied (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2014/189/regulation/23)
+[^c-716a222787d9926212a5bc33c354c29b]: Modification: Regs. 79-89 applied (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2014/189/regulation/23)
 
 [^c22152241]: Marginal citation: [1966 c.6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6)
 
-[^key-fe5c46b7c465107de7d1f2e4cf775f79]: Textual amendment: Words in [reg. 80(3)](https://www.legislation.gov.uk/nisr/2014/188/regulation/80/3) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [74](https://www.legislation.gov.uk/nisr/2019/206/regulation/74)
+[^c-fe5c46b7c465107de7d1f2e4cf775f79]: Textual amendment: Words in [reg. 80(3)](https://www.legislation.gov.uk/nisr/2014/188/regulation/80/3) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [74](https://www.legislation.gov.uk/nisr/2019/206/regulation/74)
 
 [^c22152251]: Marginal citation: S.R. [1992 No. 547](https://www.legislation.gov.uk/ukcm/1992/547); as amended by other instruments listed in Schedule M3 to the Local Government Pension Scheme Regulations (Northern Ireland) 2000 (S.R. [2000 No. 177](https://www.legislation.gov.uk/ukcm/2000/177))
 

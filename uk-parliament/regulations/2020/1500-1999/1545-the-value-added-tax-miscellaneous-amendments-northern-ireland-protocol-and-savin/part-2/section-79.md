@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79.[^key-48891c9000e8b1d7fbd8553acb4328f5]
+## 79.[^c-48891c9000e8b1d7fbd8553acb4328f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -117,7 +117,7 @@ After regulation 145K (place of supply of goods subject to a warehousing regime)
 
 ## Annotations
 
-[^key-48891c9000e8b1d7fbd8553acb4328f5]: Commencement: Reg. 79 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-48891c9000e8b1d7fbd8553acb4328f5]: Commencement: Reg. 79 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395481]: Marginal citation: Schedule 9ZB was inserted by paragraph 2 of Schedule 2 to TPTPA.
 

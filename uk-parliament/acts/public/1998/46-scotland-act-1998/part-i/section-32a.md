@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32A. Scrutiny of Bills by the Supreme Court (protected subject-matter)[^key-5368e47fa2d4d1974b99deae9f71af4d]
+## 32A. Scrutiny of Bills by the Supreme Court (protected subject-matter)[^c-5368e47fa2d4d1974b99deae9f71af4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5368e47fa2d4d1974b99deae9f71af4d]: Textual amendment: S. 32A inserted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 11(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/11/10), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/i)
+[^c-5368e47fa2d4d1974b99deae9f71af4d]: Textual amendment: S. 32A inserted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 11(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/11/10), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/i)

@@ -45,7 +45,7 @@ subsection (1) above has effect to the extent that the order was made or had eff
 (7) In so far as any provision of—
 
 - (a) paragraph (a) of section 35(4) above,
-- (b)[^key-53e83b84eddb85c1e54a7dd8e67cbd90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-53e83b84eddb85c1e54a7dd8e67cbd90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) paragraph (c) of section 75(1) above, and
 - (d) section 89(1) above,
 
@@ -73,6 +73,6 @@ specifies an amount expressed in metric units which is derived from the exercise
 
 [^c10347381]: Marginal citation: [1950 c. 36](https://www.legislation.gov.uk/ukpga/1950/36).
 
-[^key-53e83b84eddb85c1e54a7dd8e67cbd90]: Textual amendment: [S. 95(7)(b)](https://www.legislation.gov.uk/ukpga/1981/22/section/95/7/b) omitted (22.7.2024) by virtue of [Animal Welfare (Livestock Exports) Act 2024 (c. 11)](https://www.legislation.gov.uk/ukpga/2024/11), [ss. 5(c)](https://www.legislation.gov.uk/ukpga/2024/11/section/5/c), [7(2)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/2); [S.S.I. 2024/170](https://www.legislation.gov.uk/ssi/2024/170), [reg. 2](https://www.legislation.gov.uk/ssi/2024/170/regulation/2); [S.I. 2024/678](https://www.legislation.gov.uk/uksi/2024/678), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/678/regulation/2/b); [S.I. 2024/689](https://www.legislation.gov.uk/uksi/2024/689), [reg. 2](https://www.legislation.gov.uk/uksi/2024/689/regulation/2)
+[^c-53e83b84eddb85c1e54a7dd8e67cbd90]: Textual amendment: [S. 95(7)(b)](https://www.legislation.gov.uk/ukpga/1981/22/section/95/7/b) omitted (22.7.2024) by virtue of [Animal Welfare (Livestock Exports) Act 2024 (c. 11)](https://www.legislation.gov.uk/ukpga/2024/11), [ss. 5(c)](https://www.legislation.gov.uk/ukpga/2024/11/section/5/c), [7(2)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/2); [S.S.I. 2024/170](https://www.legislation.gov.uk/ssi/2024/170), [reg. 2](https://www.legislation.gov.uk/ssi/2024/170/regulation/2); [S.I. 2024/678](https://www.legislation.gov.uk/uksi/2024/678), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/678/regulation/2/b); [S.I. 2024/689](https://www.legislation.gov.uk/uksi/2024/689), [reg. 2](https://www.legislation.gov.uk/uksi/2024/689/regulation/2)
 
 [^c10347391]: Marginal citation: [1976 c. 55](https://www.legislation.gov.uk/ukpga/1976/55).

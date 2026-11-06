@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Index of defined expressions[^key-fbc72afd73e4c21d4a2a734fe091bd74]
+## 76. Index of defined expressions[^c-fbc72afd73e4c21d4a2a734fe091bd74]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ The following expressions are defined for the purposes of this Part by the provi
 
 ## Annotations
 
-[^key-fbc72afd73e4c21d4a2a734fe091bd74]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2003/20/section/76) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(fff)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/fff)
+[^c-fbc72afd73e4c21d4a2a734fe091bd74]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2003/20/section/76) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(fff)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/fff)

@@ -50,7 +50,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 The Secretary of State is satisfied that the fireplaces exempted by this Order can be used for burning fuel other than authorised fuels[^f00002] without producing any smoke or substantial quantity of smoke.
 
-## 1. Citation, application and commencement[^key-b2eff5b69ad2308ea05f2b147ba345e0]
+## 1. Citation, application and commencement[^c-b2eff5b69ad2308ea05f2b147ba345e0]
 
 This Order—
 
@@ -58,11 +58,11 @@ This Order—
 - (b) applies in England; and
 - (c) comes into force on 1st October 2008.
 
-## 2. Fireplaces exempted from the provisions of section 20 of the Clean Air Act 1993[^key-7da81bffd97529eb2db68df8b72d331f]
+## 2. Fireplaces exempted from the provisions of section 20 of the Clean Air Act 1993[^c-7da81bffd97529eb2db68df8b72d331f]
 
 The fireplaces listed in the Schedule are exempt from the provisions of section 20 of the Clean Air Act 1993 (prohibition of emission of smoke in smoke control area), subject to the conditions listed in the Schedule.
 
-## 3. Revocation[^key-22197f49996e47632773bdc241c358b2]
+## 3. Revocation[^c-22197f49996e47632773bdc241c358b2]
 
 The Smoke Control Areas (Exempted Fireplaces) (England) Order 2008[^f00003] is revoked.
 
@@ -74,7 +74,7 @@ Department for Environment, Food and Rural Affairs
 
 1st September 2008
 
-## SCHEDULE — Exempted Fireplaces[^key-dbf6229b5f9d813e98d05acd8eee7558]
+## SCHEDULE — Exempted Fireplaces[^c-dbf6229b5f9d813e98d05acd8eee7558]
 
 Article 2
 
@@ -215,15 +215,15 @@ No impact assessment has been produced for this instrument as no impact on busin
 
 [^f00002]: Footnote: Fuels declared by the Secretary of State to be authorised fuels for the purposes of Part III of the Clean Air Act 1993 under section 20(6) of that Act are specified in [S.I. 2008/514](https://www.legislation.gov.uk/uksi/2008/514), as amended by [S.I. 2008/2342](https://www.legislation.gov.uk/uksi/2008/2342).
 
-[^key-b2eff5b69ad2308ea05f2b147ba345e0]: Commencement: Art. 1 in force at 1.10.2008, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2008/2343/article/1/c)
+[^c-b2eff5b69ad2308ea05f2b147ba345e0]: Commencement: Art. 1 in force at 1.10.2008, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2008/2343/article/1/c)
 
-[^key-7da81bffd97529eb2db68df8b72d331f]: Commencement: Art. 2 in force at 1.10.2008, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2008/2343/article/1/c)
+[^c-7da81bffd97529eb2db68df8b72d331f]: Commencement: Art. 2 in force at 1.10.2008, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2008/2343/article/1/c)
 
-[^key-22197f49996e47632773bdc241c358b2]: Commencement: Art. 3 in force at 1.10.2008, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2008/2343/article/1/c)
+[^c-22197f49996e47632773bdc241c358b2]: Commencement: Art. 3 in force at 1.10.2008, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2008/2343/article/1/c)
 
 [^f00003]: Footnote: [S.I. 2008/515](https://www.legislation.gov.uk/uksi/2008/515).
 
-[^key-dbf6229b5f9d813e98d05acd8eee7558]: Commencement: Sch. in force at 1.10.2008, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2008/2343/article/1/c)
+[^c-dbf6229b5f9d813e98d05acd8eee7558]: Commencement: Sch. in force at 1.10.2008, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2008/2343/article/1/c)
 
 [^f01000]: Footnote: (1)
 

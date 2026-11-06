@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Common law offences[^key-3e19ef78ad54256c2d7ff9e6281778de]
+## 52. Common law offences[^c-3e19ef78ad54256c2d7ff9e6281778de]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ For all purposes not relating to offences committed before the coming into force
 
 ## Annotations
 
-[^key-3e19ef78ad54256c2d7ff9e6281778de]: Commencement: S. 52 in force at 16.12.2013 by [S.S.I. 2013/341](https://www.legislation.gov.uk/ssi/2013/341), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/341/article/2/a)
+[^c-3e19ef78ad54256c2d7ff9e6281778de]: Commencement: S. 52 in force at 16.12.2013 by [S.S.I. 2013/341](https://www.legislation.gov.uk/ssi/2013/341), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/341/article/2/a)

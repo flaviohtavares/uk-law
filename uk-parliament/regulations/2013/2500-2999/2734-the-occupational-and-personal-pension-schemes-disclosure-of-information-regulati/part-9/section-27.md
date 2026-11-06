@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Except where[^key-20c5dbe20427349f9a07a6784a9a54fa] regulations 29A and 29B provide[^key-de9f0de38c0a32487765f2343f30169f] otherwise, where a website is used for the first time to make available the information or document, a notification must be given to the recipient.
+(1) Except where[^c-20c5dbe20427349f9a07a6784a9a54fa] regulations 29A and 29B provide[^c-de9f0de38c0a32487765f2343f30169f] otherwise, where a website is used for the first time to make available the information or document, a notification must be given to the recipient.
 
 (2) The notification referred to in paragraph (1) must include—
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-20c5dbe20427349f9a07a6784a9a54fa]: Textual amendment: Words in reg. 27(1) inserted (coming into force in accordance with reg. 1(1)(3) of the amending S.I.) by [The Occupational Pension Schemes (Administration and Disclosure) (Amendment) Regulations 2018 (S.I. 2018/233)](https://www.legislation.gov.uk/uksi/2018/233), [reg. 3(5)](https://www.legislation.gov.uk/uksi/2018/233/regulation/3/5)
+[^c-20c5dbe20427349f9a07a6784a9a54fa]: Textual amendment: Words in reg. 27(1) inserted (coming into force in accordance with reg. 1(1)(3) of the amending S.I.) by [The Occupational Pension Schemes (Administration and Disclosure) (Amendment) Regulations 2018 (S.I. 2018/233)](https://www.legislation.gov.uk/uksi/2018/233), [reg. 3(5)](https://www.legislation.gov.uk/uksi/2018/233/regulation/3/5)
 
-[^key-de9f0de38c0a32487765f2343f30169f]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/27/1) substituted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(11)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/11)
+[^c-de9f0de38c0a32487765f2343f30169f]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/27/1) substituted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(11)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/11)

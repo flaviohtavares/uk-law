@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Establishing etc. a pension scheme[^key-310af5d7c36a8ef84b39e8678feb0aa6]
+## 52. Establishing etc. a pension scheme[^c-310af5d7c36a8ef84b39e8678feb0aa6]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The following are specified kinds of activity—
 
 ## Annotations
 
-[^key-310af5d7c36a8ef84b39e8678feb0aa6]: Textual amendment: Art. 52 substituted (1.10.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2006 (S.I. 2006/1969)](https://www.legislation.gov.uk/uksi/2006/1969), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1969/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2006/1969/article/2/4)
+[^c-310af5d7c36a8ef84b39e8678feb0aa6]: Textual amendment: Art. 52 substituted (1.10.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2006 (S.I. 2006/1969)](https://www.legislation.gov.uk/uksi/2006/1969), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1969/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2006/1969/article/2/4)

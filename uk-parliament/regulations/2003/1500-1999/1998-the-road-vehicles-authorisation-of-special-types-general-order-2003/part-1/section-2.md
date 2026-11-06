@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Revocation[^key-90bfc3c5877baaf11dd18a1645e8d703]
+## 2. Revocation[^c-90bfc3c5877baaf11dd18a1645e8d703]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ The following instruments are revoked—
 
 ## Annotations
 
-[^key-90bfc3c5877baaf11dd18a1645e8d703]: Commencement: Art. 2 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-90bfc3c5877baaf11dd18a1645e8d703]: Commencement: Art. 2 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
 [^f00002]: Footnote: S.I. [1979/1198](https://www.legislation.gov.uk/uksi/1979/1198).
 

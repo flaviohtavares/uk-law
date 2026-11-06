@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Recording, collecting and retaining information made before or during the operator’s spaceflight activities[^key-88dd0a1dfdfefc3d82a775616f600a5c]
+## 103. Recording, collecting and retaining information made before or during the operator’s spaceflight activities[^c-88dd0a1dfdfefc3d82a775616f600a5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88dd0a1dfdfefc3d82a775616f600a5c]: Commencement: Reg. 103 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-88dd0a1dfdfefc3d82a775616f600a5c]: Commencement: Reg. 103 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

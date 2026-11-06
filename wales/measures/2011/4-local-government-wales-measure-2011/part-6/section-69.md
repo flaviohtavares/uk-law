@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. How appointments to be made in other cases[^key-1bfcd2cb12d99574909a033b147068f7]
+## 69. How appointments to be made in other cases[^c-1bfcd2cb12d99574909a033b147068f7]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bfcd2cb12d99574909a033b147068f7]: Commencement: [S. 69](https://www.legislation.gov.uk/mwa/2011/4/section/69) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)
+[^c-1bfcd2cb12d99574909a033b147068f7]: Commencement: [S. 69](https://www.legislation.gov.uk/mwa/2011/4/section/69) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)

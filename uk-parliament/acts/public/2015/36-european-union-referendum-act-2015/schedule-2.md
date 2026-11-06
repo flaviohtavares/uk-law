@@ -24,7 +24,7 @@ Section 3
 
 ### Control of loans etc to permitted participants
 
-**1.**[^key-ec231e3eedafe9c883900a41722f9768] For the purposes of the referendum, the 2000 Act has effect as if after Schedule 15 (in Part 7 of that Act) there were inserted—
+**1.**[^c-ec231e3eedafe9c883900a41722f9768] For the purposes of the referendum, the 2000 Act has effect as if after Schedule 15 (in Part 7 of that Act) there were inserted—
 
 > **SCHEDULE 15A — CONTROL OF LOANS ETC TO CERTAIN PERMITTED PARTICIPANTS**
 >
@@ -447,7 +447,7 @@ Section 3
 
 ### Further modifications of 2000 Act relating to loans etc
 
-**2.**[^key-ae12f7b701fba42a1ae10393fbaec026] (1) Section 120 of the 2000 Act (returns in respect of referendum expenses and donations) has effect in relation to the referendum as if at the end of subsection (2)(d) there were inserted “and a statement of regulated transactions entered into in respect of the referendum which complies with the requirements of paragraphs 16 to 20 of Schedule 15A”.
+**2.**[^c-ae12f7b701fba42a1ae10393fbaec026] (1) Section 120 of the 2000 Act (returns in respect of referendum expenses and donations) has effect in relation to the referendum as if at the end of subsection (2)(d) there were inserted “and a statement of regulated transactions entered into in respect of the referendum which complies with the requirements of paragraphs 16 to 20 of Schedule 15A”.
 
 (2) Section 123 of the 2000 Act (declaration of responsible person as to return under section 120) has effect in relation to the referendum as if after subsection (3) (as modified by Schedule 1) there were inserted—
 
@@ -492,7 +492,7 @@ Accordingly, paragraph 2(3)(b) of that Schedule has effect for the purposes of t
 
 ### Transactions entered into before commencement: operation of paragraphs 1 and 2
 
-**3.**[^key-86607d3761883f198bef9fffe7885d09] (1) In this paragraph and paragraph 4 “**Schedule 15A**” means the Schedule treated as inserted by paragraph 1.
+**3.**[^c-86607d3761883f198bef9fffe7885d09] (1) In this paragraph and paragraph 4 “**Schedule 15A**” means the Schedule treated as inserted by paragraph 1.
 
 (2) The following provisions of Schedule 15A—
 
@@ -521,11 +521,11 @@ apply to a relevant varied transaction as they apply to a regulated transaction 
 - (a) the reference in paragraph (a) to a person who after entering into the transaction became a permitted participant includes an officer, member, trustee or agent of any such person, and
 - (b) in relation to a case where such an officer, member, trustee or agent entered into the transaction, the references in paragraphs (b)(i) and (c) to “that person” are to be read as references to the person for whom the person who entered into the agreement is an officer, member, trustee or agent.
 
-**4.**[^key-a9656448fe63f876103a15142983875b] Parts 2 and 3 of Schedule 15A do not apply to a relevant varied transaction (or to any other transaction which was entered into before the commencement of paragraph 1 of this Schedule or before a party to the transaction became a permitted participant).
+**4.**[^c-a9656448fe63f876103a15142983875b] Parts 2 and 3 of Schedule 15A do not apply to a relevant varied transaction (or to any other transaction which was entered into before the commencement of paragraph 1 of this Schedule or before a party to the transaction became a permitted participant).
 
 ### Reporting of regulated transactions during referendum period
 
-**5.**[^key-1cf8908157458b6a2eec6ab2c9b75b98] (1) In this paragraph references to a permitted participant are to a permitted participant which either is not a registered party or is a minor party.
+**5.**[^c-1cf8908157458b6a2eec6ab2c9b75b98] (1) In this paragraph references to a permitted participant are to a permitted participant which either is not a registered party or is a minor party.
 
 (2) In relation to the referendum, the responsible person in relation to a permitted participant must prepare reports under this paragraph in respect of—
 
@@ -597,7 +597,7 @@ and in paragraph (a) “**the commencement day**” means the day on which that 
 
 ### Declaration of responsible person as to reports under paragraph 5
 
-**6.**[^key-66526e95dc936d1112bb43d53bc0bb27] (1) Each report delivered under paragraph 5 must be accompanied by a declaration which complies with sub-paragraph (2) and is signed by the responsible person.
+**6.**[^c-66526e95dc936d1112bb43d53bc0bb27] (1) Each report delivered under paragraph 5 must be accompanied by a declaration which complies with sub-paragraph (2) and is signed by the responsible person.
 
 (2) The declaration must state—
 
@@ -621,7 +621,7 @@ and in paragraph (a) “**the commencement day**” means the day on which that 
 
 ### Public inspection of reports under paragraph 5
 
-**7.**[^key-2ec8cea8ca58dbed45ae0907e333e638] (1) Where the Electoral Commission receive a report under paragraph 5 they must—
+**7.**[^c-2ec8cea8ca58dbed45ae0907e333e638] (1) Where the Electoral Commission receive a report under paragraph 5 they must—
 
 - (a) as soon as is reasonably practicable after receiving the report, make a copy of the report and of any document accompanying it available for public inspection, and
 - (b) keep any such copy available for public inspection for the period for which the report or other document is held by them.
@@ -633,11 +633,11 @@ and in paragraph (a) “**the commencement day**” means the day on which that 
 - (a) they may cause the report or other document to be destroyed, or
 - (b) if requested to do so by the responsible person in the case of the permitted participant concerned, they must arrange for the report or other document to be returned to that person.
 
-**8.**[^key-513b5e98c5a786037833bb0828b88e0e] Section 149(2) to (5) and (7) of the 2000 Act (inspection of Commission's documents) apply in relation to reports and documents which the Electoral Commission are required to make available for public inspection under paragraph 7 as they apply to the documents which the Electoral Commission are required to make available for public inspection by virtue of the provisions of the 2000 Act mentioned in section 149(6) of that Act.
+**8.**[^c-513b5e98c5a786037833bb0828b88e0e] Section 149(2) to (5) and (7) of the 2000 Act (inspection of Commission's documents) apply in relation to reports and documents which the Electoral Commission are required to make available for public inspection under paragraph 7 as they apply to the documents which the Electoral Commission are required to make available for public inspection by virtue of the provisions of the 2000 Act mentioned in section 149(6) of that Act.
 
 ### Enforcement
 
-**9.**[^key-61be317e792f6081daee3b2e8b163c2d] (1) Section 145(1)(a) and (6A) of the 2000 Act (general functions of Electoral Commission with respect to compliance) apply in relation to the requirements imposed by this Schedule as they apply in relation to the requirements referred to in section 145(1)(a).
+**9.**[^c-61be317e792f6081daee3b2e8b163c2d] (1) Section 145(1)(a) and (6A) of the 2000 Act (general functions of Electoral Commission with respect to compliance) apply in relation to the requirements imposed by this Schedule as they apply in relation to the requirements referred to in section 145(1)(a).
 
 (2) In section 148 of the 2000 Act (general offences), the references in each of subsections (1) to (3) to any of the provisions of that Act include any of the provisions of this Schedule.
 
@@ -654,7 +654,7 @@ and in paragraph (a) “**the commencement day**” means the day on which that 
 
 ### Persons with whom certain registered parties may enter into loan agreements etc
 
-**10.**[^key-c74bf662d1084014e923433277d028d8] (1) Sub-paragraph (2) applies if—
+**10.**[^c-c74bf662d1084014e923433277d028d8] (1) Sub-paragraph (2) applies if—
 
 - (a) a permitted participant—
   - (i) is a party to a transaction which is a regulated transaction for the purposes of Part 4A of the 2000 Act, or
@@ -677,7 +677,7 @@ and in paragraph (a) “**the commencement day**” means the day on which that 
 
 (4) In this paragraph “**Gibraltar elector**” has the same meaning as in the 2000 Act (see section 160(1) of that Act).
 
-**11.**[^key-3a279e62f0557c783c4d604c2772c92c] Where paragraph 10 applies in relation to a transaction to which a permitted participant is a party, or from which a permitted participant derives a benefit, paragraph 2 of Schedule 6A to the 2000 Act (details to be given in quarterly reports) has effect as if—
+**11.**[^c-3a279e62f0557c783c4d604c2772c92c] Where paragraph 10 applies in relation to a transaction to which a permitted participant is a party, or from which a permitted participant derives a benefit, paragraph 2 of Schedule 6A to the 2000 Act (details to be given in quarterly reports) has effect as if—
 
 - (a) in sub-paragraph (1) for “(10)” there were substituted “ (10C) ”, and
 - (b) the following sub-paragraphs were inserted after sub-paragraph (10)—
@@ -697,7 +697,7 @@ and in paragraph (a) “**the commencement day**” means the day on which that 
   > - (a) the name of the body, and
   > - (b) the address of its main office in the United Kingdom.
 
-**12.**[^key-7cdda52423a0b91f7ae90393c875cf23] (1) This paragraph applies to a variation of a regulated transaction if—
+**12.**[^c-7cdda52423a0b91f7ae90393c875cf23] (1) This paragraph applies to a variation of a regulated transaction if—
 
 - (a) the regulated transaction was entered into by a permitted participant during the referendum period,
 - (b) the permitted participant is a registered party that is not a minor party,
@@ -718,7 +718,7 @@ and in paragraph (a) “**the commencement day**” means the day on which that 
 - (a) “**authorised participant**” means an authorised participant for the purposes of Part 4A of the 2000 Act;
 - (b) “regulated transaction” and references to the value of a regulated transaction have the same meaning as in Part 4A of the 2000 Act (see sections 71F and 71G of that Act).
 
-**13.**[^key-42be1f6edc557d45b9c4d5cacb17551a] (1) Section 71L of the 2000 Act (offences relating to regulated transactions) has effect with the following modifications.
+**13.**[^c-42be1f6edc557d45b9c4d5cacb17551a] (1) Section 71L of the 2000 Act (offences relating to regulated transactions) has effect with the following modifications.
 
 (2) In each of subsections (1)(a), (2)(b), (3)(a) and (4)(a), the reference to entering into a regulated transaction of a description mentioned in section 71F(2) or (3) in which another participant is not an authorised participant includes a reference to entering into a variation to which paragraph 12 of this Schedule applies.
 
@@ -731,28 +731,28 @@ and in paragraph (a) “**the commencement day**” means the day on which that 
 
 ## Annotations
 
-[^key-ec231e3eedafe9c883900a41722f9768]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/1) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-ec231e3eedafe9c883900a41722f9768]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/1) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-ae12f7b701fba42a1ae10393fbaec026]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-ae12f7b701fba42a1ae10393fbaec026]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-86607d3761883f198bef9fffe7885d09]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/3) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-86607d3761883f198bef9fffe7885d09]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/3) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-a9656448fe63f876103a15142983875b]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/4) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-a9656448fe63f876103a15142983875b]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/4) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-1cf8908157458b6a2eec6ab2c9b75b98]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/5) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-1cf8908157458b6a2eec6ab2c9b75b98]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/5) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-66526e95dc936d1112bb43d53bc0bb27]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/6) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-66526e95dc936d1112bb43d53bc0bb27]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/6) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-2ec8cea8ca58dbed45ae0907e333e638]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/7) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-2ec8cea8ca58dbed45ae0907e333e638]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/7) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-513b5e98c5a786037833bb0828b88e0e]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/8) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-513b5e98c5a786037833bb0828b88e0e]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/8) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-61be317e792f6081daee3b2e8b163c2d]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/9) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-61be317e792f6081daee3b2e8b163c2d]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/9) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-c74bf662d1084014e923433277d028d8]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/10) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-c74bf662d1084014e923433277d028d8]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/10) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-3a279e62f0557c783c4d604c2772c92c]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/11) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-3a279e62f0557c783c4d604c2772c92c]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/11) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-7cdda52423a0b91f7ae90393c875cf23]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/12) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-7cdda52423a0b91f7ae90393c875cf23]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/12) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-42be1f6edc557d45b9c4d5cacb17551a]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/13) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-42be1f6edc557d45b9c4d5cacb17551a]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/13) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Chair of meeting as proxy holder[^key-6be9d6edb555c8dbfb9eec223e99c062]
+## 22. Chair of meeting as proxy holder[^c-6be9d6edb555c8dbfb9eec223e99c062]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Where the chair at a meeting of creditors holds a proxy which requires the chair
 
 ## Annotations
 
-[^key-6be9d6edb555c8dbfb9eec223e99c062]: Commencement: Rule 22 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-6be9d6edb555c8dbfb9eec223e99c062]: Commencement: Rule 22 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

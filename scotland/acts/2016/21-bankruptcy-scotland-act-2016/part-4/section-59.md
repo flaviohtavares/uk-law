@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Review or appeal by virtue of section 58[^key-cb80d419aea99036ccc129342c728667]
+## 59. Review or appeal by virtue of section 58[^c-cb80d419aea99036ccc129342c728667]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb80d419aea99036ccc129342c728667]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2016/21/section/59) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-cb80d419aea99036ccc129342c728667]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2016/21/section/59) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

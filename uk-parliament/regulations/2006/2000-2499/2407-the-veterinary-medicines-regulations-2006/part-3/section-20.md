@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Food-producing animals: retention of records[^key-780f5f81258383db94d9029e35050ed3]
+## 20. Food-producing animals: retention of records[^c-780f5f81258383db94d9029e35050ed3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-780f5f81258383db94d9029e35050ed3]: Commencement: Reg. 20 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-780f5f81258383db94d9029e35050ed3]: Commencement: Reg. 20 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

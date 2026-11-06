@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 435. Group elections modifying the operation of sections 433 and 434[^key-02eba6dfa8b994b0d1ad429b2f644a47]
+## 435. Group elections modifying the operation of sections 433 and 434[^c-02eba6dfa8b994b0d1ad429b2f644a47]
 
 *Extent: E+W+S+N.I.*
 
-(1) Two or more companies which are members of the same worldwide group , and have each made an election under section 433,[^key-2970e9b4c5e1fd2ab916972b777ca2f8] may jointly make an election under this section modifying the operation of sections 433 and 434 in relation to them for the times during which they remain members of that group.
+(1) Two or more companies which are members of the same worldwide group , and have each made an election under section 433,[^c-2970e9b4c5e1fd2ab916972b777ca2f8] may jointly make an election under this section modifying the operation of sections 433 and 434 in relation to them for the times during which they remain members of that group.
 
 (2) An election under this section—
 
-- (aa)[^key-03f55bae8ed69f9c685ce236e1e065dc] must be made before the end of the earliest elected accounting period (see subsection (11));
-- (a) has effect from a date specified in the election , which may not be before the first day of the earliest elected accounting period[^key-b047582f8612166907384d37095c8197];
+- (aa)[^c-03f55bae8ed69f9c685ce236e1e065dc] must be made before the end of the earliest elected accounting period (see subsection (11));
+- (a) has effect from a date specified in the election , which may not be before the first day of the earliest elected accounting period[^c-b047582f8612166907384d37095c8197];
 - (b) may be revoked jointly by the members of the group in relation to which the election has effect from a date specified in the revocation;
 - (c) ceases to have effect in relation to a company which gives a notice to an officer of Revenue and Customs, and to the companies in relation to which the election has effect, notifying them of its withdrawal from the election from a date specified in the notice.
 
-(3) A date specified in a revocation[^key-fe0e9d845834e8de0141f8685cf41a33] or notice may not be before the date on which it is made or given.
+(3) A date specified in a revocation[^c-fe0e9d845834e8de0141f8685cf41a33] or notice may not be before the date on which it is made or given.
 
 (4) An election under this section which has effect at particular times (“relevant times”) in relation to particular companies (“elected companies”) modifies the operation of sections 433 and 434 as follows.
 
@@ -55,7 +55,7 @@ all the other elected companies are also treated as failing to meeting those tes
 
 section 434(3)(b) does not apply in relation to any of the elected companies.
 
-(11)[^key-b7174e718651f5bd30e53fddbb4f7a14] The “earliest elected accounting period” is the accounting period which—
+(11)[^c-b7174e718651f5bd30e53fddbb4f7a14] The “earliest elected accounting period” is the accounting period which—
 
 - (a) is the first elected accounting period of an elected company, and
 - (b) begins no later than the first elected accounting period of each other elected company.
@@ -66,14 +66,14 @@ section 434(3)(b) does not apply in relation to any of the elected companies.
 
 ## Annotations
 
-[^key-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
+[^c-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
 
-[^key-2970e9b4c5e1fd2ab916972b777ca2f8]: Textual amendment: Words in [s. 435(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/435/1) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 14(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/14/2)
+[^c-2970e9b4c5e1fd2ab916972b777ca2f8]: Textual amendment: Words in [s. 435(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/435/1) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 14(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/14/2)
 
-[^key-03f55bae8ed69f9c685ce236e1e065dc]: Textual amendment: [S. 435(2)(aa)](https://www.legislation.gov.uk/ukpga/2010/8/section/435/2/aa) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/14/3/a)
+[^c-03f55bae8ed69f9c685ce236e1e065dc]: Textual amendment: [S. 435(2)(aa)](https://www.legislation.gov.uk/ukpga/2010/8/section/435/2/aa) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/14/3/a)
 
-[^key-b047582f8612166907384d37095c8197]: Textual amendment: Words in [s. 435(2)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/435/2/a) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/14/3/b)
+[^c-b047582f8612166907384d37095c8197]: Textual amendment: Words in [s. 435(2)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/435/2/a) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/14/3/b)
 
-[^key-fe0e9d845834e8de0141f8685cf41a33]: Textual amendment: Words in [s. 435(3)](https://www.legislation.gov.uk/ukpga/2010/8/section/435/3) substituted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 14(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/14/4)
+[^c-fe0e9d845834e8de0141f8685cf41a33]: Textual amendment: Words in [s. 435(3)](https://www.legislation.gov.uk/ukpga/2010/8/section/435/3) substituted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 14(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/14/4)
 
-[^key-b7174e718651f5bd30e53fddbb4f7a14]: Textual amendment: [S. 435(11)-(13)](https://www.legislation.gov.uk/ukpga/2010/8/section/435/11) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 14(5)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/14/5)
+[^c-b7174e718651f5bd30e53fddbb4f7a14]: Textual amendment: [S. 435(11)-(13)](https://www.legislation.gov.uk/ukpga/2010/8/section/435/11) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 14(5)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/14/5)

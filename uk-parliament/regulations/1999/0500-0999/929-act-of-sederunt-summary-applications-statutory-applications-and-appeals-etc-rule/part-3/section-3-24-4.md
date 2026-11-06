@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.24.4. Notice to the Public Guardian[^key-cef26b97ac18d40c7296328ff96d8e6d]
+## 3.24.4. Notice to the Public Guardian[^c-cef26b97ac18d40c7296328ff96d8e6d]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The sheriff clerk shall within 7 days after the date of an order registering an 
 
 ## Annotations
 
-[^key-cef26b97ac18d40c7296328ff96d8e6d]: Textual amendment: Ch. 3 Pt. 24 inserted (14.11.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (International Protection of Adults) 2003 (S.S.I. 2003/556)](https://www.legislation.gov.uk/ssi/2003/556), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2003/556/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2003/556/paragraph/2/2)
+[^c-cef26b97ac18d40c7296328ff96d8e6d]: Textual amendment: Ch. 3 Pt. 24 inserted (14.11.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (International Protection of Adults) 2003 (S.S.I. 2003/556)](https://www.legislation.gov.uk/ssi/2003/556), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2003/556/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2003/556/paragraph/2/2)

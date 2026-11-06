@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Making, transmission and advertisement of order[^key-55e8b4a0849a5169a2ea5ec3dba03fa7]
+## 16. Making, transmission and advertisement of order[^c-55e8b4a0849a5169a2ea5ec3dba03fa7]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55e8b4a0849a5169a2ea5ec3dba03fa7]: Commencement: Rule 16 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-55e8b4a0849a5169a2ea5ec3dba03fa7]: Commencement: Rule 16 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

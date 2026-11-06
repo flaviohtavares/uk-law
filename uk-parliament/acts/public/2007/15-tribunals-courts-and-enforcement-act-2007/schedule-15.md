@@ -40,7 +40,7 @@ Section 91
 
 (2) After section 6(1) insert—
 
-> (1A) If the county court[^key-addbc853e6aa974249ee5509fc889692] makes an attachment of earnings order to secure payment of a judgment debt, the order must specify that periodical deductions are to be made in accordance with the fixed deductions scheme.
+> (1A) If the county court[^c-addbc853e6aa974249ee5509fc889692] makes an attachment of earnings order to secure payment of a judgment debt, the order must specify that periodical deductions are to be made in accordance with the fixed deductions scheme.
 >
 > (1B) If a court (whether the county court or another court) makes any other attachment of earnings order, the order must specify that periodical deductions are to be made in accordance with Part 1 of Schedule 3.
 
@@ -74,7 +74,7 @@ Section 91
 
 > **9A. Suspension of fixed deductions orders**
 >
-> (1) The county court[^key-7454faeae8545d28702f3ab6943ab4e9] must make an order suspending a fixed deductions order if the court is satisfied of either or both of the following—
+> (1) The county court[^c-7454faeae8545d28702f3ab6943ab4e9] must make an order suspending a fixed deductions order if the court is satisfied of either or both of the following—
 >
 > - (a) that the fixed deductions order requires periodical deductions to be made at a rate which is not appropriate;
 > - (b) that the fixed deductions order requires periodical deductions to be made at times which are not appropriate.
@@ -135,7 +135,7 @@ Section 91
 >
 > **1.** This Part of this Schedule deals with the variation of a certain kind of attachment of earnings order — referred to as a Schedule 3 judgment debt order — by changing the basis of deductions.
 >
-> **2.** A Schedule 3 judgment debt order is a Schedule 3 deductions order made by the county court[^key-62c99ebfd08a5b1311abd8a7e9f97806] to secure payment of a judgment debt.
+> **2.** A Schedule 3 judgment debt order is a Schedule 3 deductions order made by the county court[^c-62c99ebfd08a5b1311abd8a7e9f97806] to secure payment of a judgment debt.
 >
 > **3.** References to variation of a Schedule 3 judgment debt order by changing the basis of deductions are references to the variation of the order so that it specifies that periodical deductions are to be made in accordance with the fixed deductions scheme.
 >
@@ -211,7 +211,7 @@ Section 91
 
 **10.** After section 14(1) insert—
 
-> (1A) Where in any proceedings the county court[^key-0310f70b641263e2d51d93f49523a6ac] has power to make a fixed deductions order, the court may order the debtor to give to the court, within a specified period, a statement signed by him of—
+> (1A) Where in any proceedings the county court[^c-0310f70b641263e2d51d93f49523a6ac] has power to make a fixed deductions order, the court may order the debtor to give to the court, within a specified period, a statement signed by him of—
 >
 > - (a) the name and address of any person by whom earnings are paid to him; and
 > - (b) specified particulars for enabling the debtor to be identified by any employer of his.
@@ -256,7 +256,7 @@ Section 91
 
 **18.** After section 17(3) insert—
 
-> (4) Section 6(1A) applies to a consolidated attachment order which the county court[^key-e1ba281cd54248e3d91944158588b35d] makes to secure the payment of two or more judgment debts even if, immediately before the order is made, one or more of those debts is secured by a Schedule 3 deductions order.
+> (4) Section 6(1A) applies to a consolidated attachment order which the county court[^c-e1ba281cd54248e3d91944158588b35d] makes to secure the payment of two or more judgment debts even if, immediately before the order is made, one or more of those debts is secured by a Schedule 3 deductions order.
 
 #### Amendment of section 23: Enforcement provisions
 
@@ -271,7 +271,7 @@ Section 91
 
 > (1ZA) In subsection (1) “**relevant notice**” means any of the following—
 >
-> - (a) notice of an application to the county court[^key-1d53b3c4e9e51cc566f50234a3794c55] to make, vary or suspend an attachment of earnings order;
+> - (a) notice of an application to the county court[^c-1d53b3c4e9e51cc566f50234a3794c55] to make, vary or suspend an attachment of earnings order;
 > - (b) notice that the county court is, of its own motion, to consider making, varying or suspending an attachment of earnings order.
 
 **22.** In subsection (2)(c) and (f) (offences related to attachment of earnings orders)—
@@ -281,14 +281,14 @@ Section 91
 
 ## Annotations
 
-[^key-addbc853e6aa974249ee5509fc889692]: Textual amendment: Words in [Sch. 15 para. 2(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/15/paragraph/2/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-addbc853e6aa974249ee5509fc889692]: Textual amendment: Words in [Sch. 15 para. 2(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/15/paragraph/2/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-7454faeae8545d28702f3ab6943ab4e9]: Textual amendment: Words in [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2007/15/schedule/15/paragraph/5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-7454faeae8545d28702f3ab6943ab4e9]: Textual amendment: Words in [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2007/15/schedule/15/paragraph/5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-62c99ebfd08a5b1311abd8a7e9f97806]: Textual amendment: Words in [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2007/15/schedule/15/paragraph/7) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-62c99ebfd08a5b1311abd8a7e9f97806]: Textual amendment: Words in [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2007/15/schedule/15/paragraph/7) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-0310f70b641263e2d51d93f49523a6ac]: Textual amendment: Words in [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2007/15/schedule/15/paragraph/10) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-0310f70b641263e2d51d93f49523a6ac]: Textual amendment: Words in [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2007/15/schedule/15/paragraph/10) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-e1ba281cd54248e3d91944158588b35d]: Textual amendment: Words in [Sch. 15 para. 18](https://www.legislation.gov.uk/ukpga/2007/15/schedule/15/paragraph/18) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-e1ba281cd54248e3d91944158588b35d]: Textual amendment: Words in [Sch. 15 para. 18](https://www.legislation.gov.uk/ukpga/2007/15/schedule/15/paragraph/18) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-1d53b3c4e9e51cc566f50234a3794c55]: Textual amendment: Words in [Sch. 15 para. 21](https://www.legislation.gov.uk/ukpga/2007/15/schedule/15/paragraph/21) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-1d53b3c4e9e51cc566f50234a3794c55]: Textual amendment: Words in [Sch. 15 para. 21](https://www.legislation.gov.uk/ukpga/2007/15/schedule/15/paragraph/21) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

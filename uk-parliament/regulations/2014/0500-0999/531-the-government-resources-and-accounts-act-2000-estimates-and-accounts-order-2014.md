@@ -48,13 +48,13 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 In accordance with section 4A(8) of that Act the Treasury have consulted, where they think it appropriate, the Scottish Ministers, the Department for Finance and Personnel for Northern Ireland and the Welsh Ministers.
 
-## 1. Citation and commencement[^key-5d87bd67dbb5321f06e7eea65630905c]
+## 1. Citation and commencement[^c-5d87bd67dbb5321f06e7eea65630905c]
 
 (1) This Order may be cited as the Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2014.
 
 (2) This Order comes into force on 1st April 2014.
 
-## 2. Designations[^key-e4f34cfdbef3999ebb9107094f675ea7]
+## 2. Designations[^c-e4f34cfdbef3999ebb9107094f675ea7]
 
 A body listed in column 2 of a table in the Schedule is a designated body in relation to the department named in column 1 of that table for the financial year which ends on 31st March 2015.
 
@@ -66,7 +66,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 6th March 2014
 
-## SCHEDULE — Designated Bodies[^key-f3e39d6e40cf18a7b3441352fce91056]
+## SCHEDULE — Designated Bodies[^c-f3e39d6e40cf18a7b3441352fce91056]
 
 Article 2
 
@@ -120,7 +120,7 @@ Department of Health
 |  | NHS Business Services Authority |
 |  | NHS Foundation Trusts (as established under section 30 of the National Health Service Act 2006) |
 |  | NHS Litigation Authority |
-|  | NHS Medical Assets England Ltd[^key-85d094bf7a7e5438568bb264a970c4e0] |
+|  | NHS Medical Assets England Ltd[^c-85d094bf7a7e5438568bb264a970c4e0] |
 |  | The NHS Pay Review Body |
 |  | NHS Property Services Ltd |
 |  | NHS Trusts (as established under section 25 of the National Health Service Act 2006) |
@@ -159,7 +159,7 @@ Department for Transport
 |  | Disabled Persons Transport Advisory Committee |
 |  | High Speed Two (HS2) Limited |
 |  | LCR Finance Plc |
-|  | [^key-a433e6dc28461cfd9d4e3c020676df57]. . . |
+|  | [^c-a433e6dc28461cfd9d4e3c020676df57]. . . |
 |  | Passenger Focus |
 |  | Railway Heritage Committee |
 |  | Trinity House Lighthouse Service |
@@ -195,11 +195,11 @@ Department for Business, Innovation and Skills
 |  | AEA Insurance Ltd |
 |  | The Arts and Humanities Research Council |
 |  | Aviva Investors Realm Energy Centres Limited Partnership |
-|  | [^key-2919aed1e03b748fcba63b7b61369312]. . . |
+|  | [^c-2919aed1e03b748fcba63b7b61369312]. . . |
 |  | The Biotechnology and Biological Sciences Research Council |
 |  | BIS (Postal Services Act 2011) B Company Limited |
 |  | BIS (Postal Services Act 2011) Company Limited |
-|  | British Business Aspire Holdings Ltd[^key-129980c27945f00fffec153f345e27c1] |
+|  | British Business Aspire Holdings Ltd[^c-129980c27945f00fffec153f345e27c1] |
 |  | British Business Bank plc |
 |  | British Business Finance Ltd |
 |  | British Business Financial Services Ltd |
@@ -210,10 +210,10 @@ Department for Business, Innovation and Skills
 |  | Capital for Enterprise Fund Managers Limited |
 |  | Capital for Enterprise Limited |
 |  | Central Arbitration Committee |
-|  | Certification Office for Trade Union and Employers’ Associations[^key-534c4fbbbd3a9171547d7706aad031ff] |
-|  | [^key-f2fa05ab58779b4698a0d520f181f11e]. . . |
+|  | Certification Office for Trade Union and Employers’ Associations[^c-534c4fbbbd3a9171547d7706aad031ff] |
+|  | [^c-f2fa05ab58779b4698a0d520f181f11e]. . . |
 |  | Competition Appeal Tribunal |
-|  | [^key-2919aed1e03b748fcba63b7b61369312]. . . |
+|  | [^c-2919aed1e03b748fcba63b7b61369312]. . . |
 |  | Competition Service |
 |  | The Construction Industry Training Board (established under the Industrial Training Act 1964[^f00006]) |
 |  | The Copyright Tribunal |
@@ -221,7 +221,7 @@ Department for Business, Innovation and Skills
 |  | Daresbury Science and Innovation Campus Limited Liability Partnership (Sci-Tech Daresbury) |
 |  | Daresbury Science and Innovation Campus Public Sector Limited Liability Partnership |
 |  | Diamond Light Source Limited |
-|  | Office for Fair Access[^key-a34e8604c3975e6eb13758773fd9ceb5] |
+|  | Office for Fair Access[^c-a34e8604c3975e6eb13758773fd9ceb5] |
 |  | The Economic and Social Research Council |
 |  | Energy Saving Investments L.P. |
 |  | The Engineering and Physical Sciences Research Council |
@@ -237,17 +237,17 @@ Department for Business, Innovation and Skills
 |  | Industrial Development Advisory Board |
 |  | Insolvency Practitioners Tribunal |
 |  | JISC |
-|  | [^key-2919aed1e03b748fcba63b7b61369312]. . . |
+|  | [^c-2919aed1e03b748fcba63b7b61369312]. . . |
 |  | Low Pay Commission |
 |  | Medical Research Council |
-|  | [^key-2919aed1e03b748fcba63b7b61369312]. . . |
+|  | [^c-2919aed1e03b748fcba63b7b61369312]. . . |
 |  | The Natural Environment Research Council |
 |  | The NESTA Trust |
 |  | NPL Management Limited |
 |  | NW VCLF HF LLP |
 |  | Office of Manpower Economics |
-|  | [^key-2919aed1e03b748fcba63b7b61369312]. . . |
-|  | Postal Services Holding Company Limited[^key-5a33e44311d2d01665f30fbdbcf8a14c] |
+|  | [^c-2919aed1e03b748fcba63b7b61369312]. . . |
+|  | Postal Services Holding Company Limited[^c-5a33e44311d2d01665f30fbdbcf8a14c] |
 |  | RCUK Shared Services Centre Limited |
 |  | Regulatory Policy Committee |
 |  | The Science and Technology Facilities Council |
@@ -258,7 +258,7 @@ Department for Business, Innovation and Skills
 |  | UK Commission for Employment and Skills |
 |  | UK Energy Efficiency Investments 1 L.P. |
 |  | UK GIB 1 Limited |
-|  | UK[^key-ba4b12df878030b8d2ca7ef18018edc2] Green Investment Community Lending Limited |
+|  | UK[^c-ba4b12df878030b8d2ca7ef18018edc2] Green Investment Community Lending Limited |
 |  | UK GIB 3 Limited |
 |  | UK GIB Financial Services Limited |
 |  | UK GIB Rhyl Flats Investment Limited |
@@ -287,8 +287,8 @@ Home Office
 | Home Office | The Advisory Council on the Misuse of Drugs |
 |  | Animals in Science Committee |
 |  | College of Policing |
-|  | [^key-097f1b397ab43ba8613dc50335b96f8c]. . . |
-|  | Gangmasters Licensing Authority[^key-1a5341c0ba1711dc636e19ec03424b43] |
+|  | [^c-097f1b397ab43ba8613dc50335b96f8c]. . . |
+|  | Gangmasters Licensing Authority[^c-1a5341c0ba1711dc636e19ec03424b43] |
 |  | Her Majesty’s Inspectorate of Constabulary |
 |  | Independent Chief Inspector of Borders and Immigration |
 |  | Independent Police Complaints Commission |
@@ -314,7 +314,7 @@ Ministry of Justice
 |  | Advisory Council on National Records and Archives |
 |  | Advisory Panel on Public Sector Information |
 |  | Assessor of Compensation for Miscarriages of Justice |
-|  | The Bedfordshire, Northamptonshire, Cambridgeshire and Hertfordshire Community Rehabilitation Company Limited[^key-92e11e79b0825c57b229b5713ef472f2] |
+|  | The Bedfordshire, Northamptonshire, Cambridgeshire and Hertfordshire Community Rehabilitation Company Limited[^c-92e11e79b0825c57b229b5713ef472f2] |
 |  | The Bristol, Gloucestershire, Somerset and Wiltshire Community Rehabilitation Company Limited |
 |  | The Cheshire and Greater Manchester Community Rehabilitation Company Limited |
 |  | Chief Coroner’s Office |
@@ -323,7 +323,7 @@ Ministry of Justice
 |  | Civil Procedure Rule Committee |
 |  | Court Funds Office |
 |  | Criminal Cases Review Commission |
-|  | [^key-ce5472a8a1d372a16e91d98b3e9e4a30]. . . |
+|  | [^c-ce5472a8a1d372a16e91d98b3e9e4a30]. . . |
 |  | Criminal Procedure Rule Committee |
 |  | The Cumbria and Lancashire Community Rehabilitation Company Limited |
 |  | The Derbyshire, Leicestershire, Nottinghamshire and Rutland Community Rehabilitation Company Limited |
@@ -350,7 +350,7 @@ Ministry of Justice
 |  | The Merseyside Community Rehabilitation Company Limited |
 |  | The Norfolk and Suffolk Community Rehabilitation Company Limited |
 |  | The Northumbria Community Rehabilitation Company Limited |
-|  | [^key-ce5472a8a1d372a16e91d98b3e9e4a30]. . . |
+|  | [^c-ce5472a8a1d372a16e91d98b3e9e4a30]. . . |
 |  | Office for Legal Complaints |
 |  | Office of HM Inspectorate of Prisons |
 |  | Office of HM Inspectorate of Probation |
@@ -358,10 +358,10 @@ Ministry of Justice
 |  | Office of the Information Commissioner |
 |  | Office of the Judge Advocate General |
 |  | Office of the Official Solicitor |
-|  | [^key-ce5472a8a1d372a16e91d98b3e9e4a30]. . . |
+|  | [^c-ce5472a8a1d372a16e91d98b3e9e4a30]. . . |
 |  | Parole Board for England and Wales |
 |  | Prison Service Pay Review Body |
-|  | Office of the Prisons and Probation Ombudsman for England and Wales[^key-b08c5074bb188ce2cc141fd631d0f1d8] |
+|  | Office of the Prisons and Probation Ombudsman for England and Wales[^c-b08c5074bb188ce2cc141fd631d0f1d8] |
 |  | Probation Trusts (as established under section 5 of the Offender Management Act 2007[^f00007]) |
 |  | Public Trustee |
 |  | Sentencing Council for England and Wales |
@@ -397,7 +397,7 @@ Ministry of Defence
 |  | Royal Air Force Museum |
 |  | Royal Hospital Chelsea |
 |  | Science Advisory Committee on the Medical Implications of Less-Lethal Weapons |
-|  | Single Source Regulations Office[^key-cd4d388d95136b035c08cd2078d4908b] |
+|  | Single Source Regulations Office[^c-cd4d388d95136b035c08cd2078d4908b] |
 |  | Territorial, auxiliary and volunteer reserve associations established under section 110 of the Reserve Act 1996[^f00008] |
 |  | War Pensions Committees |
 
@@ -432,7 +432,7 @@ Department of Energy and Climate Change
 |  | Committee on Climate Change |
 |  | Committee on Radioactive Waste Management |
 |  | Dounreay Site Restoration Limited |
-|  | Electricity Settlements Company Ltd[^key-133aabc9fce36e7be75f08a427ed99c9] |
+|  | Electricity Settlements Company Ltd[^c-133aabc9fce36e7be75f08a427ed99c9] |
 |  | Fuel Poverty Advisory Group |
 |  | LLW Repository Limited |
 |  | Low Carbon Contracts Company Ltd |
@@ -456,7 +456,7 @@ Department for Environment, Food and Rural Affairs
 |  | Consumer Council for Water |
 |  | Environment Agency |
 |  | Forestry Commission |
-|  | [^key-653860ce49a2bc3deaa8b3a808bdefd4]. . . |
+|  | [^c-653860ce49a2bc3deaa8b3a808bdefd4]. . . |
 |  | Independent Agricultural Appeals Panel |
 |  | Joint Nature Conservation Committee |
 |  | Marine Management Organisation |
@@ -494,17 +494,17 @@ Department for Culture, Media and Sport
 |  | British Library |
 |  | British Museum |
 |  | British Tourist Authority |
-|  | [^key-efd8fd58d27304731bb3994fd862e528]. . . |
+|  | [^c-efd8fd58d27304731bb3994fd862e528]. . . |
 |  | Churches Conservation Trust |
 |  | Commission for Equality and Human Rights |
 |  | The Commonwealth Broadcasting Association |
-|  | [^key-efd8fd58d27304731bb3994fd862e528]. . . |
+|  | [^c-efd8fd58d27304731bb3994fd862e528]. . . |
 |  | DSHS Ltd<br>DTT Multiplex Operators Ltd |
 |  | DTV Services |
 |  | The English Institute of Sport Limited |
 |  | The English Sports Council |
 |  | The English Sports Council Lottery |
-|  | English Sports Development Trust Limited[^key-0d7c394a8c821cf75eeaf3c557fc403d] |
+|  | English Sports Development Trust Limited[^c-0d7c394a8c821cf75eeaf3c557fc403d] |
 |  | Freesat (UK) Ltd |
 |  | Gambling Commission |
 |  | Geffrye Museum Trust Ltd |
@@ -533,7 +533,7 @@ Department for Culture, Media and Sport
 |  | Olympic Delivery Authority |
 |  | Parliamentary Broadcasting |
 |  | PhonepayPlus |
-|  | [^key-efd8fd58d27304731bb3994fd862e528]. . . |
+|  | [^c-efd8fd58d27304731bb3994fd862e528]. . . |
 |  | Reviewing Committee on the Export of Works of Art |
 |  | Royal Armouries Development Trust |
 |  | Royal Armouries Museum |
@@ -544,14 +544,14 @@ Department for Culture, Media and Sport
 |  | The Sports Council Trust Company |
 |  | Sports Grounds Safety Authority |
 |  | Stratford Village Development (GP) Ltd |
-|  | East Village Management Limited[^key-a230f13afa152fd93fc779b59dd43b6f] |
+|  | East Village Management Limited[^c-a230f13afa152fd93fc779b59dd43b6f] |
 |  | Tate Gallery |
 |  | Tate Gallery Projects Limited |
 |  | TDFHUB2014 Ltd |
 |  | Treasure Valuation Committee |
 |  | UK Anti-Doping |
-|  | The United Kingdom Sports Council[^key-3b32b7fb50bdd61c40e383153f30338c] |
-|  | The United Kingdom Sports Council Lottery[^key-adc11e4d22601792fce0c6c824e05279] |
+|  | The United Kingdom Sports Council[^c-3b32b7fb50bdd61c40e383153f30338c] |
+|  | The United Kingdom Sports Council Lottery[^c-adc11e4d22601792fce0c6c824e05279] |
 |  | Victoria and Albert Museum |
 |  | Wallace Collection |
 |  | Wood Lane Nominee 1 |
@@ -565,7 +565,7 @@ Department for Work and Pensions
 | Department | Designated body |
 | --- | --- |
 | Department for Work and Pensions | Health and Safety Executive |
-|  | [^key-372a308c67709a8834bb7931cc33ef34]. . . |
+|  | [^c-372a308c67709a8834bb7931cc33ef34]. . . |
 |  | Independent Living Fund (2006) |
 |  | Industrial Injuries Advisory Council |
 |  | Ombudsman for the Board of the Pension Protection Fund |
@@ -598,7 +598,7 @@ HM Treasury
 
 | Department | Designated body |
 | --- | --- |
-|  | Aire Valley Funding 1 Limited[^key-a905fa7e237c735ee20b9541a8ea3e43] |
+|  | Aire Valley Funding 1 Limited[^c-a905fa7e237c735ee20b9541a8ea3e43] |
 |  | Aire Valley Funding 2 Limited |
 |  | Aire Valley Funding 3 plc |
 |  | Aire Valley Holdings Limited |
@@ -688,9 +688,9 @@ Cabinet Office
 |  | Parliamentary Boundary Commission for Wales |
 |  | Security Vetting Appeals Panel |
 |  | Senior Salaries Review Body |
-|  | The Registrar of Consultant Lobbyists[^key-8df044d0faf59ebb7c4d58d3501985a8] |
+|  | The Registrar of Consultant Lobbyists[^c-8df044d0faf59ebb7c4d58d3501985a8] |
 
-Table 21[^key-5cc9c44b8eaf0a9c142b50b02e4473f9]
+Table 21[^c-5cc9c44b8eaf0a9c142b50b02e4473f9]
 
 Water Services Regulation Authority
 
@@ -717,11 +717,11 @@ An impact assessment has not been prepared for this instrument because no impact
 
 [^f00001]: Footnote: [2000 c.20](https://www.legislation.gov.uk/ukpga/2000/20). Section 4A was inserted by section 43(2) of the Constitutional Reform and Governance Act [2010 (c.25)](https://www.legislation.gov.uk/ukpga/2010/25).
 
-[^key-5d87bd67dbb5321f06e7eea65630905c]: Commencement: Art. 1 in force at 1.4.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/531/article/1/2)
+[^c-5d87bd67dbb5321f06e7eea65630905c]: Commencement: Art. 1 in force at 1.4.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/531/article/1/2)
 
-[^key-e4f34cfdbef3999ebb9107094f675ea7]: Commencement: Art. 2 in force at 1.4.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/531/article/1/2)
+[^c-e4f34cfdbef3999ebb9107094f675ea7]: Commencement: Art. 2 in force at 1.4.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/531/article/1/2)
 
-[^key-f3e39d6e40cf18a7b3441352fce91056]: Commencement: Sch. in force at 1.4.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/531/article/1/2)
+[^c-f3e39d6e40cf18a7b3441352fce91056]: Commencement: Sch. in force at 1.4.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/531/article/1/2)
 
 [^f00002]: Footnote: [2010 c.32](https://www.legislation.gov.uk/ukpga/2010/32). Section 1 was amended by section 53(1) to (6) of the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21).
 
@@ -731,60 +731,60 @@ An impact assessment has not been prepared for this instrument because no impact
 
 [^f00005]: Footnote: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25). Paragraphs (ba) to (bd) of section 149(7) were inserted by paragraph 184(c) of Schedule 5 to the Health and Social Care Act 2012.
 
-[^key-85d094bf7a7e5438568bb264a970c4e0]: Textual amendment: Words in Sch. Table 2 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+[^c-85d094bf7a7e5438568bb264a970c4e0]: Textual amendment: Words in Sch. Table 2 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
 
-[^key-a433e6dc28461cfd9d4e3c020676df57]: Textual amendment: Words in Sch. Table 4 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
+[^c-a433e6dc28461cfd9d4e3c020676df57]: Textual amendment: Words in Sch. Table 4 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
 
-[^key-2919aed1e03b748fcba63b7b61369312]: Textual amendment: Words in Sch. Table 6 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
+[^c-2919aed1e03b748fcba63b7b61369312]: Textual amendment: Words in Sch. Table 6 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
 
-[^key-129980c27945f00fffec153f345e27c1]: Textual amendment: Words in Sch. Table 6 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+[^c-129980c27945f00fffec153f345e27c1]: Textual amendment: Words in Sch. Table 6 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
 
-[^key-534c4fbbbd3a9171547d7706aad031ff]: Textual amendment: Words in Sch. Table 6 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/4/a)
+[^c-534c4fbbbd3a9171547d7706aad031ff]: Textual amendment: Words in Sch. Table 6 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/4/a)
 
-[^key-f2fa05ab58779b4698a0d520f181f11e]: Textual amendment: Words in Sch. Table 6 omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 32](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/32)
+[^c-f2fa05ab58779b4698a0d520f181f11e]: Textual amendment: Words in Sch. Table 6 omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 32](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/32)
 
 [^f00006]: Footnote: [1964 c.16](https://www.legislation.gov.uk/ukpga/1964/16). The Board was established by order ([S.I. 1964/1079](https://www.legislation.gov.uk/uksi/1964/1079)) made under section 1 of the Industrial Training Act 1964. The Industrial Training Act 1964 was repealed by Schedule 4 to the Industrial Training Act [1982 (c.10)](https://www.legislation.gov.uk/ukpga/1982/10).
 
-[^key-a34e8604c3975e6eb13758773fd9ceb5]: Textual amendment: Words in Sch. Table 6 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/4/b)
+[^c-a34e8604c3975e6eb13758773fd9ceb5]: Textual amendment: Words in Sch. Table 6 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/4/b)
 
-[^key-5a33e44311d2d01665f30fbdbcf8a14c]: Textual amendment: Words in Sch. Table 6 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/4/c)
+[^c-5a33e44311d2d01665f30fbdbcf8a14c]: Textual amendment: Words in Sch. Table 6 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/4/c)
 
-[^key-ba4b12df878030b8d2ca7ef18018edc2]: Textual amendment: Words in Sch. Table 6 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/4/d)
+[^c-ba4b12df878030b8d2ca7ef18018edc2]: Textual amendment: Words in Sch. Table 6 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/4/d)
 
-[^key-097f1b397ab43ba8613dc50335b96f8c]: Textual amendment: Words in Sch. Table 8 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
+[^c-097f1b397ab43ba8613dc50335b96f8c]: Textual amendment: Words in Sch. Table 8 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
 
-[^key-1a5341c0ba1711dc636e19ec03424b43]: Textual amendment: Words in Sch. Table 8 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+[^c-1a5341c0ba1711dc636e19ec03424b43]: Textual amendment: Words in Sch. Table 8 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
 
-[^key-92e11e79b0825c57b229b5713ef472f2]: Textual amendment: Words in Sch. Table 9 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+[^c-92e11e79b0825c57b229b5713ef472f2]: Textual amendment: Words in Sch. Table 9 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
 
-[^key-ce5472a8a1d372a16e91d98b3e9e4a30]: Textual amendment: Words in Sch. Table 9 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
+[^c-ce5472a8a1d372a16e91d98b3e9e4a30]: Textual amendment: Words in Sch. Table 9 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
 
-[^key-b08c5074bb188ce2cc141fd631d0f1d8]: Textual amendment: Words in Sch. Table 9 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/5)
+[^c-b08c5074bb188ce2cc141fd631d0f1d8]: Textual amendment: Words in Sch. Table 9 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/5)
 
 [^f00007]: Footnote: [2007 c.21](https://www.legislation.gov.uk/ukpga/2007/21).
 
-[^key-cd4d388d95136b035c08cd2078d4908b]: Textual amendment: Words in Sch. Table 10 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+[^c-cd4d388d95136b035c08cd2078d4908b]: Textual amendment: Words in Sch. Table 10 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
 
 [^f00008]: Footnote: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14).
 
-[^key-133aabc9fce36e7be75f08a427ed99c9]: Textual amendment: Words in Sch. Table 13 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+[^c-133aabc9fce36e7be75f08a427ed99c9]: Textual amendment: Words in Sch. Table 13 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
 
-[^key-653860ce49a2bc3deaa8b3a808bdefd4]: Textual amendment: Words in Sch. Table 14 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
+[^c-653860ce49a2bc3deaa8b3a808bdefd4]: Textual amendment: Words in Sch. Table 14 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
 
-[^key-efd8fd58d27304731bb3994fd862e528]: Textual amendment: Words in Sch. Table 15 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
+[^c-efd8fd58d27304731bb3994fd862e528]: Textual amendment: Words in Sch. Table 15 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
 
-[^key-0d7c394a8c821cf75eeaf3c557fc403d]: Textual amendment: Words in Sch. Table 15 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+[^c-0d7c394a8c821cf75eeaf3c557fc403d]: Textual amendment: Words in Sch. Table 15 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
 
-[^key-a230f13afa152fd93fc779b59dd43b6f]: Textual amendment: Words in Sch. Table 15 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/6/a)
+[^c-a230f13afa152fd93fc779b59dd43b6f]: Textual amendment: Words in Sch. Table 15 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/6/a)
 
-[^key-3b32b7fb50bdd61c40e383153f30338c]: Textual amendment: Words in Sch. Table 15 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/6/b)
+[^c-3b32b7fb50bdd61c40e383153f30338c]: Textual amendment: Words in Sch. Table 15 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/6/b)
 
-[^key-adc11e4d22601792fce0c6c824e05279]: Textual amendment: Words in Sch. Table 15 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(6)(c)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/6/c)
+[^c-adc11e4d22601792fce0c6c824e05279]: Textual amendment: Words in Sch. Table 15 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(6)(c)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/6/c)
 
-[^key-372a308c67709a8834bb7931cc33ef34]: Textual amendment: Words in Sch. Table 16 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
+[^c-372a308c67709a8834bb7931cc33ef34]: Textual amendment: Words in Sch. Table 16 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
 
-[^key-a905fa7e237c735ee20b9541a8ea3e43]: Textual amendment: Words in Sch. Table 19 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+[^c-a905fa7e237c735ee20b9541a8ea3e43]: Textual amendment: Words in Sch. Table 19 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
 
-[^key-8df044d0faf59ebb7c4d58d3501985a8]: Textual amendment: Words in Sch. Table 20 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+[^c-8df044d0faf59ebb7c4d58d3501985a8]: Textual amendment: Words in Sch. Table 20 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
 
-[^key-5cc9c44b8eaf0a9c142b50b02e4473f9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2014/531/schedule) Table 21 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/7), [Sch. 3](https://www.legislation.gov.uk/uksi/2014/3314/schedule/3)
+[^c-5cc9c44b8eaf0a9c142b50b02e4473f9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2014/531/schedule) Table 21 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/7), [Sch. 3](https://www.legislation.gov.uk/uksi/2014/3314/schedule/3)

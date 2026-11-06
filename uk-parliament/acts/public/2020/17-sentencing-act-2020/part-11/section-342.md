@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 342. Offender aged under 18: parenting order where criminal behaviour order made[^key-e4bdd446db46d7d4235c0816dc76198f]
+## 342. Offender aged under 18: parenting order where criminal behaviour order made[^c-e4bdd446db46d7d4235c0816dc76198f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ See section 8(1)(b) of the Crime and Disorder Act 1998 for requirements and powe
 
 ## Annotations
 
-[^key-e4bdd446db46d7d4235c0816dc76198f]: Commencement: [S. 342](https://www.legislation.gov.uk/ukpga/2020/17/section/342) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e4bdd446db46d7d4235c0816dc76198f]: Commencement: [S. 342](https://www.legislation.gov.uk/ukpga/2020/17/section/342) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Continuity of supply[^key-17c275a950875c117866abfcc5b3db9d]
+## 119. Continuity of supply[^c-17c275a950875c117866abfcc5b3db9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 - “**supplier**” means the person controlling the provision of a supply to the infrastructure company, and includes a company that is a group undertaking (as defined by section 1161(5) of the Companies Act 2006) in respect of the infrastructure company;
 - “**supply**” means a supply of any of the following—
   - (a) computer hardware or software used by the infrastructure company in connection with the operation of the relevant system;
-  - (aa) in the case of an infrastructure company that is a person recognised for the purposes of Part 5A of the Banking Act 2009, goods or services used by the person in connection with wholesale cash distribution activities;[^key-2fc666c857cd677dda52431d484e3408]
+  - (aa) in the case of an infrastructure company that is a person recognised for the purposes of Part 5A of the Banking Act 2009, goods or services used by the person in connection with wholesale cash distribution activities;[^c-2fc666c857cd677dda52431d484e3408]
   - (b) financial data;
   - (c) infrastructure permitting electronic communication services;
   - (d) data processing;
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17c275a950875c117866abfcc5b3db9d]: Commencement: S. 119 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-17c275a950875c117866abfcc5b3db9d]: Commencement: S. 119 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
 
-[^key-2fc666c857cd677dda52431d484e3408]: Textual amendment: Words in [s. 119(6)](https://www.legislation.gov.uk/ukpga/2013/33/section/119/6) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/7)
+[^c-2fc666c857cd677dda52431d484e3408]: Textual amendment: Words in [s. 119(6)](https://www.legislation.gov.uk/ukpga/2013/33/section/119/6) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/7)

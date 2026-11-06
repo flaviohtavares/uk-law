@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Effect of compensation order on subsequent award of damages in civil proceedings[^key-11184c1d3f10c3ba42683c42808e5818][^key-7da0a541c8772907aa67f7c0ebe18b2a]
+## 144. Effect of compensation order on subsequent award of damages in civil proceedings[^c-11184c1d3f10c3ba42683c42808e5818][^c-7da0a541c8772907aa67f7c0ebe18b2a]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-11184c1d3f10c3ba42683c42808e5818]: Commencement: S. 144 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-11184c1d3f10c3ba42683c42808e5818]: Commencement: S. 144 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-7da0a541c8772907aa67f7c0ebe18b2a]: Modification: S. 144 applied (with modifications) by 2015 c. 30, s. 10(3) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 293(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/293/3) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-7da0a541c8772907aa67f7c0ebe18b2a]: Modification: S. 144 applied (with modifications) by 2015 c. 30, s. 10(3) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 293(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/293/3) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))

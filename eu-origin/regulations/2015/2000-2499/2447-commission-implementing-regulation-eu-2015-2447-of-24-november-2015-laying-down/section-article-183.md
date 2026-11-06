@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 183. Lodging of an entry summary declaration (Article 127(4), (5) and (6) of the Code)[^key-fc7d37249348e9410b452bcfcfbc9a9e]
+## Article 183. Lodging of an entry summary declaration (Article 127(4), (5) and (6) of the Code)[^c-fc7d37249348e9410b452bcfcfbc9a9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc7d37249348e9410b452bcfcfbc9a9e]: Textual amendment: [Art. 183](https://www.legislation.gov.uk/eur/2015/2447/article/183) revoked (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc7d37249348e9410b452bcfcfbc9a9e]: Textual amendment: [Art. 183](https://www.legislation.gov.uk/eur/2015/2447/article/183) revoked (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. General functions of Commissioner[^key-8831bf1c5dc1e2acd3cf92ca11ac7e60]
+## 7. General functions of Commissioner[^c-8831bf1c5dc1e2acd3cf92ca11ac7e60]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8831bf1c5dc1e2acd3cf92ca11ac7e60]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/17/section/7) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)
+[^c-8831bf1c5dc1e2acd3cf92ca11ac7e60]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/17/section/7) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Abolition of existing oversight bodies[^key-0ab3d3b686546de5c2c1f28c73aefd33]
+## 240. Abolition of existing oversight bodies[^c-0ab3d3b686546de5c2c1f28c73aefd33]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ab3d3b686546de5c2c1f28c73aefd33]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2016/25/section/240) in force at 1.9.2017 by [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/i) (with [regs. 6-11](https://www.legislation.gov.uk/uksi/2017/859/regulation/6))
+[^c-0ab3d3b686546de5c2c1f28c73aefd33]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2016/25/section/240) in force at 1.9.2017 by [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/i) (with [regs. 6-11](https://www.legislation.gov.uk/uksi/2017/859/regulation/6))

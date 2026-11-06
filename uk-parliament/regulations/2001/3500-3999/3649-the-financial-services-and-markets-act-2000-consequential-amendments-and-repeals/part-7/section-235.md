@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235. Persons capable of giving “proper advice”[^key-67eda653a1d700aa7bf8f1054b48ec00]
+## 235. Persons capable of giving “proper advice”[^c-67eda653a1d700aa7bf8f1054b48ec00]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67eda653a1d700aa7bf8f1054b48ec00]: Commencement: Art. 235 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-67eda653a1d700aa7bf8f1054b48ec00]: Commencement: Art. 235 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

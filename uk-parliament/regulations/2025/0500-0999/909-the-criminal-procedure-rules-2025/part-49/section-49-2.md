@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49.2. Proof of service outside the United Kingdom[^key-78a59f751d3ed37990dc8725c39183e5]
+## 49.2. Proof of service outside the United Kingdom[^c-78a59f751d3ed37990dc8725c39183e5]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ shall be admissible as evidence of any facts so stated.
 
 ## Annotations
 
-[^key-78a59f751d3ed37990dc8725c39183e5]: Commencement: [Rule 49.2](https://www.legislation.gov.uk/uksi/2025/909/rule/49.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-78a59f751d3ed37990dc8725c39183e5]: Commencement: [Rule 49.2](https://www.legislation.gov.uk/uksi/2025/909/rule/49.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

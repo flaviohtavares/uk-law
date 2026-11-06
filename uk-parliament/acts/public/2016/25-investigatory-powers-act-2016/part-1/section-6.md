@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Definition of “lawful authority” in relation to interceptions[^key-fda11a8469366ff4fba324af1400faba][^key-904f58a1c41384f451c054c55fc5014d]
+## 6. Definition of “lawful authority” in relation to interceptions[^c-fda11a8469366ff4fba324af1400faba][^c-904f58a1c41384f451c054c55fc5014d]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ is to be treated as lawful for all purposes.
 
 ## Annotations
 
-[^key-fda11a8469366ff4fba324af1400faba]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/25/section/6) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/652/regulation/2/d) (with [regs. 19(3)(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/19/3/a), [20](https://www.legislation.gov.uk/uksi/2018/652/regulation/20))
+[^c-fda11a8469366ff4fba324af1400faba]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/25/section/6) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/652/regulation/2/d) (with [regs. 19(3)(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/19/3/a), [20](https://www.legislation.gov.uk/uksi/2018/652/regulation/20))
 
-[^key-904f58a1c41384f451c054c55fc5014d]: Textual amendment: Words in [s. 6 heading](https://www.legislation.gov.uk/ukpga/2016/25/part/1/crossheading/prohibitions-against-unlawful-interception) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 12(4)](https://www.legislation.gov.uk/ukpga/2024/9/section/12/4), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/l)
+[^c-904f58a1c41384f451c054c55fc5014d]: Textual amendment: Words in [s. 6 heading](https://www.legislation.gov.uk/ukpga/2016/25/part/1/crossheading/prohibitions-against-unlawful-interception) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 12(4)](https://www.legislation.gov.uk/ukpga/2024/9/section/12/4), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/l)

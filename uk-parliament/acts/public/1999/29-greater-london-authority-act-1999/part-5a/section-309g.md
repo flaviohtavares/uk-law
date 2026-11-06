@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 309G. Preparation and revision of the strategy: procedural matters[^key-f78b751af2a41538758cf257bc7dff30]
+## 309G. Preparation and revision of the strategy: procedural matters[^c-f78b751af2a41538758cf257bc7dff30]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ This subsection is without prejudice to section 42(1) above (further duties of M
 
 ## Annotations
 
-[^key-f78b751af2a41538758cf257bc7dff30]: Textual amendment: Ss. 309E-309H and cross-heading inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/22/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)
+[^c-f78b751af2a41538758cf257bc7dff30]: Textual amendment: Ss. 309E-309H and cross-heading inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/22/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)

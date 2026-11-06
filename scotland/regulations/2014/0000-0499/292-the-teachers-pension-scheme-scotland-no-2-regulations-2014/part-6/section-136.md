@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 136. Death in service grant[^key-2de590ddb367dc6580df5f0add07dbe4]
+## 136. Death in service grant[^c-2de590ddb367dc6580df5f0add07dbe4]
 
 *Extent: S*
 
-(1) A death grant may be payable[^key-96030515d319474efb4759b8a58fd322] under this regulation if a member (D) dies in service (“death in service grant”).
+(1) A death grant may be payable[^c-96030515d319474efb4759b8a58fd322] under this regulation if a member (D) dies in service (“death in service grant”).
 
 (2) A death in service grant is not payable if—
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2de590ddb367dc6580df5f0add07dbe4]: Commencement: [Reg. 136](https://www.legislation.gov.uk/ssi/2014/292/regulation/136) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-2de590ddb367dc6580df5f0add07dbe4]: Commencement: [Reg. 136](https://www.legislation.gov.uk/ssi/2014/292/regulation/136) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-96030515d319474efb4759b8a58fd322]: Textual amendment: Words in [reg. 136(1)](https://www.legislation.gov.uk/ssi/2014/292/regulation/136/1) substituted (with effect from 1.4.2015) by [The Teachers’ Pension Scheme (Scotland) (No. 2) Amendment Regulations 2017 (S.S.I. 2017/454)](https://www.legislation.gov.uk/ssi/2017/454), [regs. 1](https://www.legislation.gov.uk/ssi/2017/454/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/454/regulation/2/2)
+[^c-96030515d319474efb4759b8a58fd322]: Textual amendment: Words in [reg. 136(1)](https://www.legislation.gov.uk/ssi/2014/292/regulation/136/1) substituted (with effect from 1.4.2015) by [The Teachers’ Pension Scheme (Scotland) (No. 2) Amendment Regulations 2017 (S.S.I. 2017/454)](https://www.legislation.gov.uk/ssi/2017/454), [regs. 1](https://www.legislation.gov.uk/ssi/2017/454/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/454/regulation/2/2)

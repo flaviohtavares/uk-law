@@ -33,7 +33,7 @@ summary: ''
 
 (5) A statutory instrument containing an order under this section shall be of no effect unless approved by a resolution of each House of Parliament.
 
-(6) In this section “**local authority**” means any local authority within the meaning of the [^c780382]Local Government Act 1972, the Common Council of the City of London, the Sub-Treasurer of the Inner Temple, the Under Treasurer of the Middle Temple, the Council of the Isles of Scilly, a port health authority, Transport for London[^key-1dc6ca6b54ad7d27c14d4ed62e1ed287] and a Passenger Transport Executive.
+(6) In this section “**local authority**” means any local authority within the meaning of the [^c780382]Local Government Act 1972, the Common Council of the City of London, the Sub-Treasurer of the Inner Temple, the Under Treasurer of the Middle Temple, the Council of the Isles of Scilly, a port health authority, Transport for London[^c-1dc6ca6b54ad7d27c14d4ed62e1ed287] and a Passenger Transport Executive.
 
 ## Annotations
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c780382]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-1dc6ca6b54ad7d27c14d4ed62e1ed287]: Textual amendment: Words in s. 35(6) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/5)
+[^c-1dc6ca6b54ad7d27c14d4ed62e1ed287]: Textual amendment: Words in s. 35(6) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/5)

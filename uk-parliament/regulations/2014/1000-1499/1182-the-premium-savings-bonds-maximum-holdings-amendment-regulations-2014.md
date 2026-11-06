@@ -32,7 +32,7 @@ summary: ''
 
 National Debt
 
-The Premium Savings Bonds (Maximum Holdings) (Amendment) Regulations 2014 (revoked)[^key-8b7511ab2262b1e95819fe506a408b24]
+The Premium Savings Bonds (Maximum Holdings) (Amendment) Regulations 2014 (revoked)[^c-8b7511ab2262b1e95819fe506a408b24]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st June 2014
 
-[^key-8b7511ab2262b1e95819fe506a408b24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b7511ab2262b1e95819fe506a408b24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-8b7511ab2262b1e95819fe506a408b24]
+## 1. Citation and Commencement[^c-8b7511ab2262b1e95819fe506a408b24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Premium Savings Bonds Regulations 1972[^key-8b7511ab2262b1e95819fe506a408b24]
+## 2. Amendment of the Premium Savings Bonds Regulations 1972[^c-8b7511ab2262b1e95819fe506a408b24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b7511ab2262b1e95819fe506a408b24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b7511ab2262b1e95819fe506a408b24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8b7511ab2262b1e95819fe506a408b24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b7511ab2262b1e95819fe506a408b24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8b7511ab2262b1e95819fe506a408b24]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/1182) revoked (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/624/schedule/2)
+[^c-8b7511ab2262b1e95819fe506a408b24]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/1182) revoked (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/624/schedule/2)

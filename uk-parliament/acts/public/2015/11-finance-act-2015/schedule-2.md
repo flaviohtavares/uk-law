@@ -780,7 +780,7 @@ Section 32
 
 #### TIOPA 2010
 
-**6.**[^key-3a4c026b94a5df262b611be958ffe7cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3a4c026b94a5df262b611be958ffe7cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 3 — Commencement and anti-forestalling provision
 
@@ -799,7 +799,7 @@ Section 32
   - (i) in accordance with section 1172 of CTA 2010 (time basis), or
   - (ii) if that method would produce a result that is unjust or unreasonable, on a just and reasonable basis.
 
-**8.**[^key-85933e121617bd7c089d394215dd2b82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-85933e121617bd7c089d394215dd2b82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Anti-forestalling provision
 
@@ -839,6 +839,6 @@ Section 32
 
 ## Annotations
 
-[^key-3a4c026b94a5df262b611be958ffe7cc]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2015/11/schedule/2/paragraph/6) omitted (with effect in accordance with s. 36(3)-(5) of the commencing Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 36(2)(c)](https://www.legislation.gov.uk/ukpga/2015/33/section/36/2/c)
+[^c-3a4c026b94a5df262b611be958ffe7cc]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2015/11/schedule/2/paragraph/6) omitted (with effect in accordance with s. 36(3)-(5) of the commencing Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 36(2)(c)](https://www.legislation.gov.uk/ukpga/2015/33/section/36/2/c)
 
-[^key-85933e121617bd7c089d394215dd2b82]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2015/11/schedule/2/paragraph/8) omitted (with effect in accordance with s. 36(3)-(5) of the commencing Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 36(2)(c)](https://www.legislation.gov.uk/ukpga/2015/33/section/36/2/c)
+[^c-85933e121617bd7c089d394215dd2b82]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2015/11/schedule/2/paragraph/8) omitted (with effect in accordance with s. 36(3)-(5) of the commencing Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 36(2)(c)](https://www.legislation.gov.uk/ukpga/2015/33/section/36/2/c)

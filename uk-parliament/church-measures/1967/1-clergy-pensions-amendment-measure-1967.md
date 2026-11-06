@@ -33,32 +33,32 @@ Clergy Pensions (Amendment) Measure 1967 (repealed)
 
 1967 No. 1
 
-[^key-4c7e1eb6b579396dde8dfe819f728ac4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c7e1eb6b579396dde8dfe819f728ac4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Termination of contributory pension scheme for widows and children.[^key-4c7e1eb6b579396dde8dfe819f728ac4]
+## 1. Termination of contributory pension scheme for widows and children.[^c-4c7e1eb6b579396dde8dfe819f728ac4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-4c7e1eb6b579396dde8dfe819f728ac4]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-4c7e1eb6b579396dde8dfe819f728ac4]
 
-## 3. Power to make lump sum payments in addition to pensions.[^key-4c7e1eb6b579396dde8dfe819f728ac4]
+## 3. Power to make lump sum payments in addition to pensions.[^c-4c7e1eb6b579396dde8dfe819f728ac4]
 
 *Extent: E*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments of powers of Board relating to provision of residences.[^key-4c7e1eb6b579396dde8dfe819f728ac4]
+## 4. Amendments of powers of Board relating to provision of residences.[^c-4c7e1eb6b579396dde8dfe819f728ac4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-4c7e1eb6b579396dde8dfe819f728ac4]
+## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-4c7e1eb6b579396dde8dfe819f728ac4]
 
-## 6. Construction, interpretation and short title.[^key-4c7e1eb6b579396dde8dfe819f728ac4]
+## 6. Construction, interpretation and short title.[^c-4c7e1eb6b579396dde8dfe819f728ac4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4c7e1eb6b579396dde8dfe819f728ac4]: Textual amendment: Measure repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-4c7e1eb6b579396dde8dfe819f728ac4]: Textual amendment: Measure repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

@@ -31,7 +31,7 @@ summary: ''
 
 WEIGHTS AND MEASURES
 
-Weights and Measures (Passing as Fit for Use for Trade and Adjustment Fees) Regulations (Northern Ireland) 2002 (revoked)[^key-93a12a9482ace0a6793d6ce5758613d2]
+Weights and Measures (Passing as Fit for Use for Trade and Adjustment Fees) Regulations (Northern Ireland) 2002 (revoked)[^c-93a12a9482ace0a6793d6ce5758613d2]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into operation
 
 4th November 2002
 
-[^key-93a12a9482ace0a6793d6ce5758613d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93a12a9482ace0a6793d6ce5758613d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-93a12a9482ace0a6793d6ce5758613d2]
+## 1. Citation and commencement[^c-93a12a9482ace0a6793d6ce5758613d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation and saving[^key-93a12a9482ace0a6793d6ce5758613d2]
+## 2. Revocation and saving[^c-93a12a9482ace0a6793d6ce5758613d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-93a12a9482ace0a6793d6ce5758613d2]
+## 3. Interpretation[^c-93a12a9482ace0a6793d6ce5758613d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prescribed fees[^key-93a12a9482ace0a6793d6ce5758613d2]
+## 4. Prescribed fees[^c-93a12a9482ace0a6793d6ce5758613d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-93a12a9482ace0a6793d6ce5758613d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93a12a9482ace0a6793d6ce5758613d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-93a12a9482ace0a6793d6ce5758613d2]
+## SCHEDULE[^c-93a12a9482ace0a6793d6ce5758613d2]
 
 regulation 4
 
-### PART I — items of weighing or measuring equipment to which article 9 of the order applies[^key-93a12a9482ace0a6793d6ce5758613d2]
+### PART I — items of weighing or measuring equipment to which article 9 of the order applies[^c-93a12a9482ace0a6793d6ce5758613d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — items of weighing or measuring equipment to which article 9b of the order applies[^key-93a12a9482ace0a6793d6ce5758613d2]
+### PART II — items of weighing or measuring equipment to which article 9b of the order applies[^c-93a12a9482ace0a6793d6ce5758613d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-93a12a9482ace0a6793d6ce5758613d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93a12a9482ace0a6793d6ce5758613d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-93a12a9482ace0a6793d6ce5758613d2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/308) revoked (29.12.2003) by [Weights and Measures (Passing as Fit for Use for Trade and Adjustment Fees) Regulations (Northern Ireland) 2003 (S.R. 2003/492)](https://www.legislation.gov.uk/nisr/2003/492), [art. 2(1)](https://www.legislation.gov.uk/nisr/2003/492/article/2/1), [reg. 1](https://www.legislation.gov.uk/nisr/2003/492/regulation/1) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2003/492/article/2/2))
+[^c-93a12a9482ace0a6793d6ce5758613d2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/308) revoked (29.12.2003) by [Weights and Measures (Passing as Fit for Use for Trade and Adjustment Fees) Regulations (Northern Ireland) 2003 (S.R. 2003/492)](https://www.legislation.gov.uk/nisr/2003/492), [art. 2(1)](https://www.legislation.gov.uk/nisr/2003/492/article/2/1), [reg. 1](https://www.legislation.gov.uk/nisr/2003/492/regulation/1) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2003/492/article/2/2))

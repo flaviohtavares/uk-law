@@ -367,7 +367,7 @@ but the continuation by this paragraph of an instrument made under any enactment
 
 ### Diseases of Fish Act 1937[^c879802]
 
-**43.**[^key-ebdab949d83f55d4a33e4c5b1bac746c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-ebdab949d83f55d4a33e4c5b1bac746c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public Health (Drainage of Trade Premises) Act 1937[^c879805]
 
@@ -808,7 +808,7 @@ Section 40.
 
 [^c879802]: Marginal citation: [1937 c. 33](https://www.legislation.gov.uk/ukpga/1937/33).
 
-[^key-ebdab949d83f55d4a33e4c5b1bac746c]: Textual amendment: Sch. 8 para. 43 omitted (27.3.2009) by virtue of (E.W.) [Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/2) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/2/2)); and (S.) [Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/2) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
+[^c-ebdab949d83f55d4a33e4c5b1bac746c]: Textual amendment: Sch. 8 para. 43 omitted (27.3.2009) by virtue of (E.W.) [Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/2) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/2/2)); and (S.) [Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/2) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
 
 [^c879805]: Marginal citation: [1937 c. 40](https://www.legislation.gov.uk/ukpga/1937/40).
 

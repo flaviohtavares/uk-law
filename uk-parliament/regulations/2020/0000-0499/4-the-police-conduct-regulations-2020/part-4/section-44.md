@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Record of misconduct proceedings[^key-31a791f4434e4470cfa7226e16990a4f]
+## 44. Record of misconduct proceedings[^c-31a791f4434e4470cfa7226e16990a4f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31a791f4434e4470cfa7226e16990a4f]: Commencement: Reg. 44 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-31a791f4434e4470cfa7226e16990a4f]: Commencement: Reg. 44 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

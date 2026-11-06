@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Amendment of Criminal Justice (Scotland) Act 2003[^key-c176d90a0ae52ae810dbce1732a27ff2]
+## 89. Amendment of Criminal Justice (Scotland) Act 2003[^c-c176d90a0ae52ae810dbce1732a27ff2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Section 15A of the Criminal Justice (Scotland) Act 2003 (asp 7) (application of 
 
 ## Annotations
 
-[^key-c176d90a0ae52ae810dbce1732a27ff2]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2010/13/section/89) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-c176d90a0ae52ae810dbce1732a27ff2]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2010/13/section/89) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

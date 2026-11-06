@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 135. Estimated deficits[^key-8ea7847758529b0c330397bd913a4823]
+## 135. Estimated deficits[^c-8ea7847758529b0c330397bd913a4823]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ the Welsh Ministers may pay to the scheme manager such amount as the Welsh Minis
 
 ## Annotations
 
-[^key-8ea7847758529b0c330397bd913a4823]: Commencement: Reg. 135 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-8ea7847758529b0c330397bd913a4823]: Commencement: Reg. 135 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

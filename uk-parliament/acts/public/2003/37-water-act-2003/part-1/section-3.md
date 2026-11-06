@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Existing impounding works[^key-8af2db1680b1721eb1fcbee9887d6713]
+## 3. Existing impounding works[^c-8af2db1680b1721eb1fcbee9887d6713]
 
 *Extent: E+W+S*
 
 (1) Except as provided in subsection (3), the restriction in section 25(1)(b) of the WRA (as substituted by section 2 of this Act) does not apply in respect of any existing unlicensed impounding works.
 
-(2) With respect to any existing unlicensed impounding works to which, but for subsection (1), that restriction would apply, the appropriate agency[^key-31fecc72ecf4f37f54187a12dac0d8ba] may serve a notice on any relevant person requiring him to apply for a licence.
+(2) With respect to any existing unlicensed impounding works to which, but for subsection (1), that restriction would apply, the appropriate agency[^c-31fecc72ecf4f37f54187a12dac0d8ba] may serve a notice on any relevant person requiring him to apply for a licence.
 
 (3) If that person fails to apply for such a licence within—
 
@@ -77,6 +77,6 @@ the restriction in section 25(1)(b) of the WRA applies in respect of the impound
 
 ## Annotations
 
-[^key-8af2db1680b1721eb1fcbee9887d6713]: Commencement: S. 3 in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/984/article/2/c) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))
+[^c-8af2db1680b1721eb1fcbee9887d6713]: Commencement: S. 3 in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/984/article/2/c) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))
 
-[^key-31fecc72ecf4f37f54187a12dac0d8ba]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/2003/37/section/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 415](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/415) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-31fecc72ecf4f37f54187a12dac0d8ba]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/2003/37/section/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 415](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/415) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

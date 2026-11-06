@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Environmental Protection (Controls on Hexachloroethane) Regulations 2003 (revoked)[^key-5e624748903f815f38a88281e601dccb]
+The Environmental Protection (Controls on Hexachloroethane) Regulations 2003 (revoked)[^c-5e624748903f815f38a88281e601dccb]
 
 Made
 
@@ -45,40 +45,40 @@ Coming into force
 
 30th June 2003
 
-[^key-5e624748903f815f38a88281e601dccb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e624748903f815f38a88281e601dccb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-5e624748903f815f38a88281e601dccb]
+## 1. Citation, commencement and extent[^c-5e624748903f815f38a88281e601dccb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5e624748903f815f38a88281e601dccb]
+## 2. Interpretation[^c-5e624748903f815f38a88281e601dccb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on the use of hexachloroethane in the manufacturing and processing of non-ferrous metals[^key-5e624748903f815f38a88281e601dccb]
+## 3. Prohibition on the use of hexachloroethane in the manufacturing and processing of non-ferrous metals[^c-5e624748903f815f38a88281e601dccb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exception to the prohibition[^key-5e624748903f815f38a88281e601dccb]
+## 4. Exception to the prohibition[^c-5e624748903f815f38a88281e601dccb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences and penalties[^key-5e624748903f815f38a88281e601dccb]
+## 5. Offences and penalties[^c-5e624748903f815f38a88281e601dccb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-5e624748903f815f38a88281e601dccb]
+## 6. Revocation[^c-5e624748903f815f38a88281e601dccb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5e624748903f815f38a88281e601dccb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e624748903f815f38a88281e601dccb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5e624748903f815f38a88281e601dccb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e624748903f815f38a88281e601dccb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5e624748903f815f38a88281e601dccb]: Textual amendment: Regulations revoked (6.1.2004) by [The Environmental Protection (Controls on Dangerous Substances) Regulations 2003 (S.I. 2003/3274)](https://www.legislation.gov.uk/uksi/2003/3274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/3274/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2003/3274/regulation/9/2)
+[^c-5e624748903f815f38a88281e601dccb]: Textual amendment: Regulations revoked (6.1.2004) by [The Environmental Protection (Controls on Dangerous Substances) Regulations 2003 (S.I. 2003/3274)](https://www.legislation.gov.uk/uksi/2003/3274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/3274/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2003/3274/regulation/9/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Clearways, prohibitions and restrictions[^key-78b7bb34c8809b488df6431a7f5dfeaf]
+## 18. Clearways, prohibitions and restrictions[^c-78b7bb34c8809b488df6431a7f5dfeaf]
 
 *Extent: E+W+S*
 
@@ -39,13 +39,13 @@ summary: ''
   - (ii) obliged to stop in order to avoid an accident; or
   - (iii) prevented from proceeding by circumstances outside the person’s control.
 
-(3) No person is to cause or permit any vehicle to wait on any part of the roads described in Schedule 7 (clearways)[^key-73d952a4042fea3ba7a075d35f8f97b3] for the purposes of selling, or dispensing of, goods from that vehicle, unless the goods are immediately delivered at, or taken into, premises adjacent to the land on which the vehicle stood when the goods were sold or dispensed.
+(3) No person is to cause or permit any vehicle to wait on any part of the roads described in Schedule 7 (clearways)[^c-73d952a4042fea3ba7a075d35f8f97b3] for the purposes of selling, or dispensing of, goods from that vehicle, unless the goods are immediately delivered at, or taken into, premises adjacent to the land on which the vehicle stood when the goods were sold or dispensed.
 
 (4) Paragraphs (1) to (3) have effect as if made by a traffic regulation order under the 1984 Act and their application may be varied or revoked by such an order under that Act or by any other enactment which provides for the variation or revocation of such orders.
 
 ## Annotations
 
-[^key-78b7bb34c8809b488df6431a7f5dfeaf]: Commencement: Art. 18 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-78b7bb34c8809b488df6431a7f5dfeaf]: Commencement: Art. 18 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
 [^f00021]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21); Schedule 3A was inserted by Schedule 1 to the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^f00023]: Footnote: [2011 c. 5](https://www.legislation.gov.uk/ukpga/2011/5).
 
-[^key-73d952a4042fea3ba7a075d35f8f97b3]: Textual amendment: Word in [art. 18(3)](https://www.legislation.gov.uk/uksi/2025/362/article/18/3) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-73d952a4042fea3ba7a075d35f8f97b3]: Textual amendment: Word in [art. 18(3)](https://www.legislation.gov.uk/uksi/2025/362/article/18/3) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)

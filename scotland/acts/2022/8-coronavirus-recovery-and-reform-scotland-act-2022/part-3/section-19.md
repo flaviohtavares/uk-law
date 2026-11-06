@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Bankruptcy: service of documents[^key-bafb790cc1cf6e4f3223de202462eefe]
+## 19. Bankruptcy: service of documents[^c-bafb790cc1cf6e4f3223de202462eefe]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bafb790cc1cf6e4f3223de202462eefe]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2022/8/section/19) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-bafb790cc1cf6e4f3223de202462eefe]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2022/8/section/19) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

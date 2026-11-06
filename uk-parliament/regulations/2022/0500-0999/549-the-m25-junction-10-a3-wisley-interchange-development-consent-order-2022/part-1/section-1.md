@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-e50aea2d18a74325cd0dbb42f528d29d]
+## 1. Citation and commencement[^c-e50aea2d18a74325cd0dbb42f528d29d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the M25 Junction 10/A3 Wisley Interchange Development
 
 ## Annotations
 
-[^key-e50aea2d18a74325cd0dbb42f528d29d]: Commencement: Art. 1 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-e50aea2d18a74325cd0dbb42f528d29d]: Commencement: Art. 1 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)

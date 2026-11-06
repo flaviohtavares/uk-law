@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Specification of functions[^key-bd78359e10bcd18852d1d35b6de6677a]
+## 2. Specification of functions[^c-bd78359e10bcd18852d1d35b6de6677a]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd78359e10bcd18852d1d35b6de6677a]: Textual amendment: Order revoked (6.4.2014) by [The Scotland Act 1998 (Agency Arrangements) (Specification) Order 2013 (S.I. 2013/3157)](https://www.legislation.gov.uk/uksi/2013/3157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3157/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/3157/article/3)
+[^c-bd78359e10bcd18852d1d35b6de6677a]: Textual amendment: Order revoked (6.4.2014) by [The Scotland Act 1998 (Agency Arrangements) (Specification) Order 2013 (S.I. 2013/3157)](https://www.legislation.gov.uk/uksi/2013/3157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3157/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/3157/article/3)

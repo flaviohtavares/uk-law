@@ -25,7 +25,7 @@ summary: ''
 - (a) the appropriate judge sends a case to the Secretary of State under this Part for his decision whether a person is to be extradited;
 - (b) the person is charged with an offence in the United Kingdom.
 
-(2)[^key-d043c9c17a33ec7dfc0eb3529a94b10f] The Secretary of State must not make a decision with regard to the person’s extradition until one of these occurs—
+(2)[^c-d043c9c17a33ec7dfc0eb3529a94b10f] The Secretary of State must not make a decision with regard to the person’s extradition until one of these occurs—
 
 - (a) the charge is disposed of;
 - (b) the charge is withdrawn;
@@ -38,6 +38,6 @@ summary: ''
 
 [^c2087146]: Commencement: Act wholly in force at 1.1.2004, see [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221) and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
-[^key-d043c9c17a33ec7dfc0eb3529a94b10f]: Modification: [S. 97(2)](https://www.legislation.gov.uk/ukpga/2003/41/section/97/2) modified (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/990/article/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2016/990/article/6/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2016/990/schedule/3)
+[^c-d043c9c17a33ec7dfc0eb3529a94b10f]: Modification: [S. 97(2)](https://www.legislation.gov.uk/ukpga/2003/41/section/97/2) modified (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/990/article/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2016/990/article/6/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2016/990/schedule/3)
 
 [^c2088167]: Textual amendment: Words in [s. 97(3)](https://www.legislation.gov.uk/ukpga/2003/41/section/97/3) substituted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 71(6)](https://www.legislation.gov.uk/ukpga/2009/26/section/71/6), [116](https://www.legislation.gov.uk/ukpga/2009/26/section/116); [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(n)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/n) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3096/article/4))

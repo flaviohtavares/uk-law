@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26F. Compensation following receipt of a notice given under section 24E(2)[^key-81da9313d1d888aebab7820dd26e51c2]
+## 26F. Compensation following receipt of a notice given under section 24E(2)[^c-81da9313d1d888aebab7820dd26e51c2]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81da9313d1d888aebab7820dd26e51c2]: Textual amendment: [Ss. 26A-26G](https://www.legislation.gov.uk/ukpga/1967/10/section/26A) inserted (18.8.2023 for specified purposes, 1.4.2024 in so far as not already in force) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 41](https://www.legislation.gov.uk/asc/2023/4/section/41), [56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)
+[^c-81da9313d1d888aebab7820dd26e51c2]: Textual amendment: [Ss. 26A-26G](https://www.legislation.gov.uk/ukpga/1967/10/section/26A) inserted (18.8.2023 for specified purposes, 1.4.2024 in so far as not already in force) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 41](https://www.legislation.gov.uk/asc/2023/4/section/41), [56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)

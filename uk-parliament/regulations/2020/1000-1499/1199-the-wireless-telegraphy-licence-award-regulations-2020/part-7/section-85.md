@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Notice to OFCOM of bidders' desire to participate in the negotiation period[^key-e68e34fae4184058ff9f544addda1c5d]
+## 85. Notice to OFCOM of bidders' desire to participate in the negotiation period[^c-e68e34fae4184058ff9f544addda1c5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e68e34fae4184058ff9f544addda1c5d]: Commencement: Reg. 85 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-e68e34fae4184058ff9f544addda1c5d]: Commencement: Reg. 85 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

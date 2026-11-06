@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 195. Disputes about ordinary residence and portability of care and support[^key-ab68800bce632d2db61fc3792c361ee0]
+## 195. Disputes about ordinary residence and portability of care and support[^c-ab68800bce632d2db61fc3792c361ee0]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the Welsh Ministers, or
 - (b) a person appointed by the Welsh Ministers for that purpose (“an appointed person”).
 
-(1A)[^key-c35471b60a00178b5551b4db4caffcb7] Where the dispute is one to which section 30(2C) of the Children Act 1989 applies (questions of whether child ordinarily resident in England or Wales), then subsection (1) does not apply.
+(1A)[^c-c35471b60a00178b5551b4db4caffcb7] Where the dispute is one to which section 30(2C) of the Children Act 1989 applies (questions of whether child ordinarily resident in England or Wales), then subsection (1) does not apply.
 
 (2) Regulations may make further provision about the resolution of disputes of the type mentioned in subsection (1); the regulations may, for example, make—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab68800bce632d2db61fc3792c361ee0]: Commencement: S. 195 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-ab68800bce632d2db61fc3792c361ee0]: Commencement: S. 195 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-c35471b60a00178b5551b4db4caffcb7]: Textual amendment: S. 195(1A) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [317](https://www.legislation.gov.uk/wsi/2016/413/regulation/317)
+[^c-c35471b60a00178b5551b4db4caffcb7]: Textual amendment: S. 195(1A) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [317](https://www.legislation.gov.uk/wsi/2016/413/regulation/317)

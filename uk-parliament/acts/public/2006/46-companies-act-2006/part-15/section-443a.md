@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 443A. Filing obligations of micro-entities[^key-11a01d848e527f72b622583dfa8a4b3f]
+## 443A. Filing obligations of micro-entities[^c-11a01d848e527f72b622583dfa8a4b3f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ This does not apply if the company is exempt from audit and the directors have t
 
 ## Annotations
 
-[^key-11a01d848e527f72b622583dfa8a4b3f]: Textual amendment: [S. 443A](https://www.legislation.gov.uk/ukpga/2006/46/section/443A) inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 53](https://www.legislation.gov.uk/ukpga/2023/56/section/53), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-11a01d848e527f72b622583dfa8a4b3f]: Textual amendment: [S. 443A](https://www.legislation.gov.uk/ukpga/2006/46/section/443A) inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 53](https://www.legislation.gov.uk/ukpga/2023/56/section/53), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)

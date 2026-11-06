@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 689A. Temporary non-residents[^key-31c4b2bfd37ec466162a1324779deeb8]
+## 689A. Temporary non-residents[^c-31c4b2bfd37ec466162a1324779deeb8]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31c4b2bfd37ec466162a1324779deeb8]: Textual amendment: S. 689A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 137](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/137)
+[^c-31c4b2bfd37ec466162a1324779deeb8]: Textual amendment: S. 689A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 137](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/137)

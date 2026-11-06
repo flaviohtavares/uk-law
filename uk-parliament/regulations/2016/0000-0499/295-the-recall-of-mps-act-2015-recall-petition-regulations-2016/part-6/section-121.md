@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Breach of official duty[^key-3ccd93a1ed94d5fda45da47704cb1214]
+## 121. Breach of official duty[^c-3ccd93a1ed94d5fda45da47704cb1214]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ and for the purposes of this regulation “official duty” is to be construed a
 
 ## Annotations
 
-[^key-3ccd93a1ed94d5fda45da47704cb1214]: Commencement: Reg. 121 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-3ccd93a1ed94d5fda45da47704cb1214]: Commencement: Reg. 121 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

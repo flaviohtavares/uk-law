@@ -31,7 +31,7 @@ summary: ''
 
 LEGAL AID AND ADVICE
 
-Legal Advice and Assistance (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-d52cbf9d3df7b2c8de13b0f74397d572]
+Legal Advice and Assistance (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-d52cbf9d3df7b2c8de13b0f74397d572]
 
 Made
 
@@ -43,26 +43,26 @@ Coming into operation
 
 12th April 2004
 
-[^key-d52cbf9d3df7b2c8de13b0f74397d572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d52cbf9d3df7b2c8de13b0f74397d572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d52cbf9d3df7b2c8de13b0f74397d572]
+## 1. Citation and commencement[^c-d52cbf9d3df7b2c8de13b0f74397d572]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-d52cbf9d3df7b2c8de13b0f74397d572]
+## 2. Revocation[^c-d52cbf9d3df7b2c8de13b0f74397d572]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to Schedule 2[^key-d52cbf9d3df7b2c8de13b0f74397d572]
+## 3. Amendment to Schedule 2[^c-d52cbf9d3df7b2c8de13b0f74397d572]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d52cbf9d3df7b2c8de13b0f74397d572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d52cbf9d3df7b2c8de13b0f74397d572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d52cbf9d3df7b2c8de13b0f74397d572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d52cbf9d3df7b2c8de13b0f74397d572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d52cbf9d3df7b2c8de13b0f74397d572]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/87) revoked (11.4.2005) by [Legal Advice and Assistance (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/67)](https://www.legislation.gov.uk/nisr/2005/67), [regs. 1](https://www.legislation.gov.uk/nisr/2005/67/regulation/1), [2](https://www.legislation.gov.uk/nisr/2005/67/regulation/2)
+[^c-d52cbf9d3df7b2c8de13b0f74397d572]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/87) revoked (11.4.2005) by [Legal Advice and Assistance (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/67)](https://www.legislation.gov.uk/nisr/2005/67), [regs. 1](https://www.legislation.gov.uk/nisr/2005/67/regulation/1), [2](https://www.legislation.gov.uk/nisr/2005/67/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 202. Claim that remuneration is excessive[^key-9e6a75a19d6957e993ace97ecace64b2]
+## 202. Claim that remuneration is excessive[^c-9e6a75a19d6957e993ace97ecace64b2]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ summary: ''
 
 - (a) a secured creditor;
 - (b) an unsecured creditor with either the concurrence of at least 10% in value of the unsecured creditors (including that creditor) or the permission of the court; or
-- (c) a client with the concurrence of clients representing at least 10% of the total claims in respect of client assets held by the investment bank or with the permission of the court; [^key-df1b05be17a5eb4eaea1c9ae8a065652]...
-- (d)[^key-6b59fd2b05915bf23025f2c8218bc58b] the FCA; or
+- (c) a client with the concurrence of clients representing at least 10% of the total claims in respect of client assets held by the investment bank or with the permission of the court; [^c-df1b05be17a5eb4eaea1c9ae8a065652]...
+- (d)[^c-6b59fd2b05915bf23025f2c8218bc58b] the FCA; or
 - (e) if the investment bank concerned is a PRA-authorised person, the PRA.
 
 (2) A client, with the concurrence of clients representing at least 10% of the total claims in respect of client assets held by the investment bank, or with the permission of the court, may apply to the court for one or more of the orders in paragraph (7) in respect of the administrator’s remuneration for services set out in rule 196(1)(b).
@@ -60,8 +60,8 @@ and may make any other order that it thinks just; but an order under sub-paragra
 
 ## Annotations
 
-[^key-9e6a75a19d6957e993ace97ecace64b2]: Commencement: [Rule 202](https://www.legislation.gov.uk/uksi/2011/1301/rule/202) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-9e6a75a19d6957e993ace97ecace64b2]: Commencement: [Rule 202](https://www.legislation.gov.uk/uksi/2011/1301/rule/202) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-df1b05be17a5eb4eaea1c9ae8a065652]: Textual amendment: Word in [art. 202(1)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/202/1/c) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(t)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/t/i) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-df1b05be17a5eb4eaea1c9ae8a065652]: Textual amendment: Word in [art. 202(1)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/202/1/c) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(t)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/t/i) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
 
-[^key-6b59fd2b05915bf23025f2c8218bc58b]: Textual amendment: [Art. 202(1)(d)](https://www.legislation.gov.uk/uksi/2011/1301/article/202/1/d)[(e)](https://www.legislation.gov.uk/uksi/2011/1301/article/202/1/e) substituted for [art. 202(1)(d)](https://www.legislation.gov.uk/uksi/2011/1301/article/202/1/d) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(t)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/t/ii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-6b59fd2b05915bf23025f2c8218bc58b]: Textual amendment: [Art. 202(1)(d)](https://www.legislation.gov.uk/uksi/2011/1301/article/202/1/d)[(e)](https://www.legislation.gov.uk/uksi/2011/1301/article/202/1/e) substituted for [art. 202(1)(d)](https://www.legislation.gov.uk/uksi/2011/1301/article/202/1/d) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(t)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/t/ii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Protection against dredging by the harbour authority[^key-4f238347c53925bbe6204edc05bebc27]
+## 45. Protection against dredging by the harbour authority[^c-4f238347c53925bbe6204edc05bebc27]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f238347c53925bbe6204edc05bebc27]: Commencement: Art. 45 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-4f238347c53925bbe6204edc05bebc27]: Commencement: Art. 45 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.9. Requirements where order to facilitate realisation of property considered[^key-a578e461189fb97018dc21b0e36464c6]
+## 3.9.9. Requirements where order to facilitate realisation of property considered[^c-a578e461189fb97018dc21b0e36464c6]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Where the sheriff considers making an order under paragraph 12 of Schedule 1 to 
 
 ## Annotations
 
-[^key-a578e461189fb97018dc21b0e36464c6]: Commencement: Rule 3.9.9 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-a578e461189fb97018dc21b0e36464c6]: Commencement: Rule 3.9.9 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

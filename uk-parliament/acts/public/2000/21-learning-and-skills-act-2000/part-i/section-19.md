@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Local councils.[^key-4675b89d1671860784cb70894755ce4f]
+## 19. Local councils.[^c-4675b89d1671860784cb70894755ce4f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4675b89d1671860784cb70894755ce4f]: Textual amendment: Ss. 19-24 repealed (21.2.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2007/25/section/3/2/a), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/25/schedule/2); [S.I. 2008/313](https://www.legislation.gov.uk/uksi/2008/313), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2008/313/article/2/b/i)
+[^c-4675b89d1671860784cb70894755ce4f]: Textual amendment: Ss. 19-24 repealed (21.2.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2007/25/section/3/2/a), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/25/schedule/2); [S.I. 2008/313](https://www.legislation.gov.uk/uksi/2008/313), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2008/313/article/2/b/i)

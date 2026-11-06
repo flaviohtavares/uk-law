@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Powers of combined fire and rescue authorities[^M_I_291a2256-61db-4517-9948-28044447815a][^M_I_0e0fb36e-c6e3-4167-d948-280fee6e641b][^key-a8629e560cdc292f3dbf7aaad73616a4]
+## 5. Powers of combined fire and rescue authorities[^M_I_291a2256-61db-4517-9948-28044447815a][^M_I_0e0fb36e-c6e3-4167-d948-280fee6e641b][^c-a8629e560cdc292f3dbf7aaad73616a4]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^M_I_0e0fb36e-c6e3-4167-d948-280fee6e641b]: Commencement: S. 4 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
 
-[^key-a8629e560cdc292f3dbf7aaad73616a4]: Textual amendment: S. 5 repealed (18.2.2012 for specified purposes, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section), [9(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/2), [240(4)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/4/b), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)(f)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c/f); [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(b)(h)](https://www.legislation.gov.uk/wsi/2012/887/article/2/b/h)
+[^c-a8629e560cdc292f3dbf7aaad73616a4]: Textual amendment: S. 5 repealed (18.2.2012 for specified purposes, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section), [9(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/2), [240(4)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/4/b), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)(f)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c/f); [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(b)(h)](https://www.legislation.gov.uk/wsi/2012/887/article/2/b/h)

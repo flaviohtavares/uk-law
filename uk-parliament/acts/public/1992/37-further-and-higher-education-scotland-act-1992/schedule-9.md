@@ -26,7 +26,7 @@ Section 62.
 
 *Extent: S*
 
-**1.**[^key-37d4699cecc0fdcd18af6cd0a73fd4de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-37d4699cecc0fdcd18af6cd0a73fd4de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Veterinary Surgeons Act 1966 (c. 36)
 
@@ -78,7 +78,7 @@ Section 62.
   > | --- | --- |
   > | 7C. Designated institution within the meaning of Part II of the Further and Higher Education (Scotland) Act 1992. | Governing body. |
 
-(3)[^key-93c0874cfba9ee270ead6f1b3796c1d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-93c0874cfba9ee270ead6f1b3796c1d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In sub-paragraph (c)(i) of subsection (6) of section 25 (bodies with a general duty to provide education without discrimination) for the words “7 or 7A” there shall be substituted the words “ 7, 7A, 7B or 7C ”.
 
@@ -111,7 +111,7 @@ Section 62.
   > | --- | --- |
   > | 7C. Designated institution within the meaning of Part II of the Further and Higher Education (Scotland) Act 1992. | Governing body. |
 
-(3)[^key-4fd8e4863baad18f6860aa3606fdfd9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4fd8e4863baad18f6860aa3606fdfd9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c1309861] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -146,7 +146,7 @@ Section 62.
 
   > (6) Subsections (1) and (3) above shall have effect as regards further education only to the extent that the education authority is under a duty to do anything under the said sections 1 to 6.
 
-(4)[^key-655483e99542121e7cc16228a885a3de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-655483e99542121e7cc16228a885a3de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 66 (inspection of educational establishments) after the words “other educational establishment” there shall be inserted the words “ (other than a designated institution within the meaning of Part II of the Further and Higher Education (Scotland) Act 1992) ”.
 
@@ -182,7 +182,7 @@ Section 62.
 
 *Extent: S*
 
-**9.**[^key-09f79d2364dc822ed7efe24298aa7e31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-09f79d2364dc822ed7efe24298aa7e31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Education Reform Act 1988 (c. 40)
 
@@ -238,7 +238,7 @@ Section 62.
 
 ## Annotations
 
-[^key-37d4699cecc0fdcd18af6cd0a73fd4de]: Textual amendment: Sch. 9 para. 1 repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-37d4699cecc0fdcd18af6cd0a73fd4de]: Textual amendment: Sch. 9 para. 1 repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
 
 [^c1309856]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/1992/37/schedule/9/paragraph/2) wholly in force; [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/1992/37/schedule/9/paragraph/2) not in force at Royal Assent see [s. 63(2)](https://www.legislation.gov.uk/ukpga/1992/37/section/63/2); [Sch 9 para. 2](https://www.legislation.gov.uk/ukpga/1992/37/schedule/9/paragraph/2) in force at 16.5.1992 for the purposes of paras. (b) and (c) and in force at 1.4.1993 so far as not already in force by [S.I. 1992/817](https://www.legislation.gov.uk/uksi/1992/817), [art. 3(2)](https://www.legislation.gov.uk/uksi/1992/817/article/3/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1992/817/schedule/1), [4](https://www.legislation.gov.uk/uksi/1992/817/schedule/4)
 
@@ -246,11 +246,11 @@ Section 62.
 
 [^c1309858]: Commencement: Sch. 9 para. 4 wholly in force; Sch. 9 para. 4 not in force at Royal Assent see s. 63(2); Sch. 9 para. 4(1)(2)(4)(5)(6) fully in force at 16.5.1992 and para. 4(3) in force at 1.6.1992 so far as relating to the Scottish Higher Education Funding Council by [S.I. 1992/817](https://www.legislation.gov.uk/uksi/1992/817), [art. 3(2)](https://www.legislation.gov.uk/uksi/1992/817/article/3/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1992/817/schedule/1), [2](https://www.legislation.gov.uk/uksi/1992/817/schedule/2); Sch. 9 para. 4(3) in force at 21.11.1998 so far as not already in force by [S.I. 1998/2886](https://www.legislation.gov.uk/uksi/1998/2886), [art. 2](https://www.legislation.gov.uk/uksi/1998/2886/article/2)
 
-[^key-93c0874cfba9ee270ead6f1b3796c1d2]: Textual amendment: [Sch. 9 para. 4(3)](https://www.legislation.gov.uk/ukpga/1992/37/schedule/9/paragraph/4/3) repealed (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [s. 36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [Sch. 3 para. 6(2)(d)](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/6/2/d); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-93c0874cfba9ee270ead6f1b3796c1d2]: Textual amendment: [Sch. 9 para. 4(3)](https://www.legislation.gov.uk/ukpga/1992/37/schedule/9/paragraph/4/3) repealed (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [s. 36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [Sch. 3 para. 6(2)(d)](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/6/2/d); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
 [^c1309860]: Commencement: Sch. 9 para. 5 wholly in force; Sch. 9 para. 5 not in force at Royal Assent see s. 63(2); Sch. 9 para. 5(1)(2)(4)(5) fully in force at 16.5.1992 and para. 5(3) in force at 1.6.1992 so far as relating to the Scottish Higher Education Funding Council by [S.I. 1992/817](https://www.legislation.gov.uk/uksi/1992/817), [art. 3(2)](https://www.legislation.gov.uk/uksi/1992/817/article/3/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1992/817/schedule/1), [2](https://www.legislation.gov.uk/uksi/1992/817/schedule/2); Sch. 9 para. 5(3) in force at 21.11.1998 so far as not already in force by [S.I. 1998/2886](https://www.legislation.gov.uk/uksi/1998/2886), [art. 2](https://www.legislation.gov.uk/uksi/1998/2886/article/2)
 
-[^key-4fd8e4863baad18f6860aa3606fdfd9e]: Textual amendment: [Sch. 9 para. 5(3)](https://www.legislation.gov.uk/ukpga/1992/37/schedule/9/paragraph/5/3) repealed (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [s. 36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [Sch. 3 para. 6(2)(d)](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/6/2/d); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-4fd8e4863baad18f6860aa3606fdfd9e]: Textual amendment: [Sch. 9 para. 5(3)](https://www.legislation.gov.uk/ukpga/1992/37/schedule/9/paragraph/5/3) repealed (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [s. 36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [Sch. 3 para. 6(2)(d)](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/6/2/d); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
 [^c1309861]: Textual amendment: Sch. 9 para. 5(4) repealed (2.4.2001) by [2000 c. 34](https://www.legislation.gov.uk/ukpga/2000/34), [s. 9(2)](https://www.legislation.gov.uk/ukpga/2000/34/section/9/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2000/34/schedule/3) (with [s. 10(5)](https://www.legislation.gov.uk/ukpga/2000/34/section/10/5)); [S.I. 2001/566](https://www.legislation.gov.uk/uksi/2001/566), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/566/article/2/1)
 
@@ -258,11 +258,11 @@ Section 62.
 
 [^c1309865]: Commencement: Sch. 9 para. 7 wholly in force; Sch. 9 para. 7 not in force at Royal Assent se s. 63(2); para. 7(1)(7) in force at 16.5.1992 and para. 7(2)-(6) in force at 1.4.1993 by [S.I. 1992/817](https://www.legislation.gov.uk/uksi/1992/817), [art. 3(2)](https://www.legislation.gov.uk/uksi/1992/817/article/3/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1992/817/schedule/1), [4](https://www.legislation.gov.uk/uksi/1992/817/schedule/4)
 
-[^key-655483e99542121e7cc16228a885a3de]: Textual amendment: [Sch. 9 para. 7(4)](https://www.legislation.gov.uk/ukpga/1992/37/schedule/9/paragraph/7/4) repealed (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [Sch. 3 para. 7(b)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/7/b); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+[^c-655483e99542121e7cc16228a885a3de]: Textual amendment: [Sch. 9 para. 7(4)](https://www.legislation.gov.uk/ukpga/1992/37/schedule/9/paragraph/7/4) repealed (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [Sch. 3 para. 7(b)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/7/b); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
 
 [^c1309866]: Commencement: Sch. 9 para. 8 wholly in force; [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/1992/37/schedule/9/paragraph/8) not in force at Royal Assent see [s. 63(2)](https://www.legislation.gov.uk/ukpga/1992/37/section/63/2); [para. 8(1)(2)](https://www.legislation.gov.uk/ukpga/1992/37/paragraph/8/1/2) in force at 16.5.1992 and para. 8(3) in force at 1.4.1993 by [S.I. 1992/817](https://www.legislation.gov.uk/uksi/1992/817), [art. 3(2)](https://www.legislation.gov.uk/uksi/1992/817/article/3/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1992/817/schedule/1), [4](https://www.legislation.gov.uk/uksi/1992/817/schedule/4)
 
-[^key-09f79d2364dc822ed7efe24298aa7e31]: Textual amendment: Sch. 9 para. 9 repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-09f79d2364dc822ed7efe24298aa7e31]: Textual amendment: Sch. 9 para. 9 repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
 [^c1309868]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/1992/37/schedule/9/paragraph/10) wholly in force at 1.6.1992 see [s. 63(2)](https://www.legislation.gov.uk/ukpga/1992/37/section/63/2) and [S.I. 1992/817](https://www.legislation.gov.uk/uksi/1992/817), [art. 3(2)](https://www.legislation.gov.uk/uksi/1992/817/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/817/schedule/2)
 

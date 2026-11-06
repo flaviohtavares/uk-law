@@ -43,11 +43,11 @@ The Office of Communications (“OFCOM”), in exercise of the powers conferred 
 
 Before making these Regulations, OFCOM have given notice of their proposal to do so in accordance with section 403(4)(a) of the Act, published notice of their proposal in accordance with section 403(4)(b) of the Act, and have considered the representations made to them before the time specified in the notice in accordance with section 403(4)(c) of the Act.
 
-## 1. Citation and commencement[^key-c2021d00cc4d9bd63c0a75ddc17e5241]
+## 1. Citation and commencement[^c-c2021d00cc4d9bd63c0a75ddc17e5241]
 
 These Regulations may be cited as the Electronic Communications (Universal Service) (Costs) Regulations 2020 and shall come into force on 15th June 2020.
 
-## 2. Interpretation[^key-ef791c8e109461f1dcf80c872cd54473]
+## 2. Interpretation[^c-ef791c8e109461f1dcf80c872cd54473]
 
 In these Regulations—
 
@@ -57,7 +57,7 @@ In these Regulations—
 - “director” means any person occupying the position of director, by whatever name called;
 - “fund” means an administrative arrangement set up to compensate a universal service provider for a particular amount to be collected through contributions made by contributors;
 - “outstanding sum” has the meaning given in regulation 15(1);
-- “[^key-99358a842ac6c7c9ac15189a92dec7e1]**public funds**” means money provided by Parliament;
+- “[^c-99358a842ac6c7c9ac15189a92dec7e1]**public funds**” means money provided by Parliament;
 - “specific turnover” means the turnover that a person generates—
   - (a) in a time period specified by OFCOM;
   - (b) in respect of such networks, services or facilities provided or made available by that person as specified by OFCOM;
@@ -67,7 +67,7 @@ In these Regulations—
 - “universal service” means the provision in the United Kingdom of one or more of the things falling within section 65(2) of the Act set out in any universal service order made by the Secretary of State under section 65(1) of the Act; and
 - “universal service provider” means a person who is designated in accordance with regulations made by OFCOM under section 66(1) of the Act[^f00002] to provide the whole or part of a universal service.
 
-## 3. Matters OFCOM must have regard to and information OFCOM must take into account when determining the extent of a financial burden[^key-2aa0d46d5ded0cb0dc805c871e284d23]
+## 3. Matters OFCOM must have regard to and information OFCOM must take into account when determining the extent of a financial burden[^c-2aa0d46d5ded0cb0dc805c871e284d23]
 
 (1) When determining, under section 70(1) of the Act, the extent of the financial burden which exists for a particular designated universal service provider of complying in relation to any matter with any one or more of the universal service conditions applied to it, OFCOM must have regard to such of the matters set out in paragraph (2) as appear to them to be appropriate in that particular case.
 
@@ -90,11 +90,11 @@ In these Regulations—
 - (f) the evidence that the costs of complying with the relevant universal service conditions were efficiently and necessarily incurred; and
 - (g) any other information which OFCOM consider to be relevant having regard to the facts and circumstances of the case.
 
-## 4. Information to be provided to OFCOM if a universal service provider makes a request for a review[^key-f43d2b95b564ef4917d2f92c1ab0015a]
+## 4. Information to be provided to OFCOM if a universal service provider makes a request for a review[^c-f43d2b95b564ef4917d2f92c1ab0015a]
 
 If a universal service provider requests that OFCOM make a determination under section 70(1) of the Act, that provider must provide the information described in regulations 3(3)(a) to 3(3)(f) to OFCOM together with that request.
 
-## 5. Matters OFCOM must have regard to and information OFCOM must take into account when determining the unfairness of any financial burden which has been determined to exist[^key-bfb9263dc1adbef2c7ae06ea0a112de4]
+## 5. Matters OFCOM must have regard to and information OFCOM must take into account when determining the unfairness of any financial burden which has been determined to exist[^c-bfb9263dc1adbef2c7ae06ea0a112de4]
 
 (1) When determining under section 71(2) of the Act whether it is or would be unfair for the universal service provider to bear, or to continue to bear, the whole or any part of so much of the burden of complying with one or more of the universal service conditions applied to it, OFCOM must have regard to such of the matters set out in paragraph (2) as appear to OFCOM to be appropriate in that particular case.
 
@@ -109,7 +109,7 @@ If a universal service provider requests that OFCOM make a determination under s
 
 (3) OFCOM must also have regard to any explanation provided by the universal service provider as to why that provider considers that it is, or would be, unfair for it to bear, or continue to bear, the whole or part of the financial burden of complying with the relevant universal service conditions.
 
-## 6. Application for a determination that contributions are to be made by communications providers to whom general conditions are applicable for meeting an unfair financial burden[^key-4b72df99fddd191905bb959072ee5b9b]
+## 6. Application for a determination that contributions are to be made by communications providers to whom general conditions are applicable for meeting an unfair financial burden[^c-4b72df99fddd191905bb959072ee5b9b]
 
 If the universal service provider wishes to make an application to OFCOM for a determination under section 71(3)(b) of the Act and OFCOM have announced a commencement of a review under section 70(1) of the Act—
 
@@ -119,7 +119,7 @@ If the universal service provider wishes to make an application to OFCOM for a d
   - (ii) state that it is an application for a determination under section 71(3)(b) of the Act; and
   - (iii) be signed by a director of the universal service provider.
 
-## 7. Calculating the amount to be collected[^key-c42bac2fbe805005663a1df4ac2f28f1]
+## 7. Calculating the amount to be collected[^c-c42bac2fbe805005663a1df4ac2f28f1]
 
 (1) If—
 
@@ -131,16 +131,16 @@ OFCOM must determine the amount to be collected for meeting the unfair financial
 
 (2) The amount to be collected, in pounds sterling, must be calculated by deducting from the amount to be compensated—
 
-- (a) any part of the amount to be compensated which has been compensated from public funds[^key-b8591b898d71d70170ff4096634c1be7]; and
+- (a) any part of the amount to be compensated which has been compensated from public funds[^c-b8591b898d71d70170ff4096634c1be7]; and
 - (b) any part of the amount to be compensated which the universal service provider has waived its entitlement to under regulation 16.
 
-(3) Where it appears to OFCOM that public funds[^key-2ebe180f00173920e01f0652fb275851] are to be committed to compensating the whole or part of the financial burden of complying with one or more of the relevant universal service conditions, OFCOM must postpone the determination of the amount to be collected until such time as the part of the amount to be compensated from central funds is known.
+(3) Where it appears to OFCOM that public funds[^c-2ebe180f00173920e01f0652fb275851] are to be committed to compensating the whole or part of the financial burden of complying with one or more of the relevant universal service conditions, OFCOM must postpone the determination of the amount to be collected until such time as the part of the amount to be compensated from central funds is known.
 
-## 8. Establishing a fund[^key-c1cbd593fe1b372affc750ca3ae85a5a]
+## 8. Establishing a fund[^c-c1cbd593fe1b372affc750ca3ae85a5a]
 
 If the total amount to be collected is greater than zero, OFCOM must put in place a fund for the purposes of collecting and distributing contributions in respect of that particular amount to be collected.
 
-## 9. Identifying contributors[^key-f67463a9bf0964c26b2957234ffd0db9]
+## 9. Identifying contributors[^c-f67463a9bf0964c26b2957234ffd0db9]
 
 If the total amount to be collected is greater than zero, OFCOM must determine—
 
@@ -148,7 +148,7 @@ If the total amount to be collected is greater than zero, OFCOM must determine�
 - (b) the threshold of specific turnover, if any, below which particular communications providers or a particular subset of them, are not to be required to contribute to the fund; and
 - (c) the particular communications providers, or the particular subset of them, who must contribute to the fund.
 
-## 10. Determining contributions[^key-98aa48a83908d87b497a20bdabdd8515]
+## 10. Determining contributions[^c-98aa48a83908d87b497a20bdabdd8515]
 
 (1) If the total amount to be collected is greater than zero, OFCOM must also determine the proportions in which particular communications providers, or a particular subset of them, must contribute to the fund.
 
@@ -161,7 +161,7 @@ If the total amount to be collected is greater than zero, OFCOM must determine�
 - (a) which of the categories of contributors a particular contributor has been allocated to under paragraph (2); and
 - (b) that contributor’s specific turnover.
 
-## 11. Determinations concerning the assessment, collection and distribution of contributions[^key-3a372cf19b5d1f9ac44f72403d9af5b9]
+## 11. Determinations concerning the assessment, collection and distribution of contributions[^c-3a372cf19b5d1f9ac44f72403d9af5b9]
 
 When making the determinations referred to in regulations 9(a), 9(b), 9(c) and 10(1), OFCOM must have regard to the principles of—
 
@@ -170,7 +170,7 @@ When making the determinations referred to in regulations 9(a), 9(b), 9(c) and 1
 - (c) no undue discrimination; and
 - (d) proportionality.
 
-## 12. Consultation on determinations[^key-06f20df5f614624b9d3ab6dc56037805]
+## 12. Consultation on determinations[^c-06f20df5f614624b9d3ab6dc56037805]
 
 (1) If OFCOM come to a provisional view on matters referred to in regulations 3(1), 5(1), 7(1), 9(a), 9(b), 9(c) or 10(1), OFCOM must consult on that view in accordance with the consultation process set out in paragraphs (2) to (6).
 
@@ -194,7 +194,7 @@ When making the determinations referred to in regulations 9(a), 9(b), 9(c) and 1
 - (d) identify each person who is a contributor; and
 - (e) set out the percentage of the overall amount to be compensated that person must contribute.
 
-## 13. Collection of contributions to the fund[^key-c07e7f9ce0e8477df5f2c1db5fcd79ed]
+## 13. Collection of contributions to the fund[^c-c07e7f9ce0e8477df5f2c1db5fcd79ed]
 
 (1) OFCOM must send an invoice to each contributor (except the universal service provider if it is a contributor).
 
@@ -212,11 +212,11 @@ When making the determinations referred to in regulations 9(a), 9(b), 9(c) and 1
 
 has not been paid by the relevant deadline, the unpaid sum shall be recoverable by OFCOM as if it were a debt due to OFCOM.
 
-## 14. Distribution of contributions[^key-08f39ce5fbfc70a2d0759111b71f6ebd]
+## 14. Distribution of contributions[^c-08f39ce5fbfc70a2d0759111b71f6ebd]
 
 OFCOM must transfer such contributions, or parts of contributions, as they have received from contributors to the universal service provider on one occasion each month unless, in OFCOM’s opinion, it would not be reasonably practicable to do so.
 
-## 15. Outstanding sums and additional contributions[^key-2106067032eded9bcfb69151177c520a]
+## 15. Outstanding sums and additional contributions[^c-2106067032eded9bcfb69151177c520a]
 
 (1) For the purposes of this regulation, outstanding sum means the proportion of the amount to be collected in respect of which the universal service provider has not received compensation.
 
@@ -226,7 +226,7 @@ OFCOM must transfer such contributions, or parts of contributions, as they have 
 - (b) a period of at least six months from the deadline for payment has elapsed;
 - (c) OFCOM have taken such steps as appear to them to be reasonable in the circumstances to recover the outstanding sum;
 - (d) OFCOM consider that the outstanding sum is material having regard to such of the matters set out in regulation 15(3) as appear to them be appropriate in that particular case;
-- (e) no public funds[^key-41cc8081b8d10514c7fd9cbc8f523a9c] have been committed to compensating the universal service provider for the outstanding sum; and
+- (e) no public funds[^c-41cc8081b8d10514c7fd9cbc8f523a9c] have been committed to compensating the universal service provider for the outstanding sum; and
 - (f) the universal service provider has not waived its right to the outstanding sum under regulation 16.
 
 (3) The matters are—
@@ -259,7 +259,7 @@ OFCOM must transfer such contributions, or parts of contributions, as they have 
 
 (10) OFCOM shall distribute additional contributions in accordance with the process set out in regulation 14.
 
-## 16. Waiver[^key-9f8e5c6a6b97039fe830514c18f0d97c]
+## 16. Waiver[^c-9f8e5c6a6b97039fe830514c18f0d97c]
 
 (1) The universal service provider may, at any time, waive its entitlement to all or part of the amount to be collected, or the amount to be compensated, by sending a notice to OFCOM.
 
@@ -276,7 +276,7 @@ OFCOM must transfer such contributions, or parts of contributions, as they have 
 
 (5) OFCOM must transfer such amounts as they have received from the universal service provider under regulation 16(4) to the contributors (excluding the universal service provider) in the proportion in which contributors were required to contribute.
 
-## 17. Cessation of steps to collect and distribute contributions to a particular amount to be collected[^key-56f92cdc3f42058310799974bd7096bf]
+## 17. Cessation of steps to collect and distribute contributions to a particular amount to be collected[^c-56f92cdc3f42058310799974bd7096bf]
 
 (1) If—
 
@@ -333,46 +333,46 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00001]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-c2021d00cc4d9bd63c0a75ddc17e5241]: Commencement: Reg. 1 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-c2021d00cc4d9bd63c0a75ddc17e5241]: Commencement: Reg. 1 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-ef791c8e109461f1dcf80c872cd54473]: Commencement: Reg. 2 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-ef791c8e109461f1dcf80c872cd54473]: Commencement: Reg. 2 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-99358a842ac6c7c9ac15189a92dec7e1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/545/regulation/2) inserted (24.12.2021) by [The Electronic Communications (Universal Service) (Costs) (Amendment) Regulations 2021 (S.I. 2021/1377)](https://www.legislation.gov.uk/uksi/2021/1377), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1377/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2021/1377/regulation/2/a)
+[^c-99358a842ac6c7c9ac15189a92dec7e1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/545/regulation/2) inserted (24.12.2021) by [The Electronic Communications (Universal Service) (Costs) (Amendment) Regulations 2021 (S.I. 2021/1377)](https://www.legislation.gov.uk/uksi/2021/1377), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1377/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2021/1377/regulation/2/a)
 
 [^f00002]: Footnote: The Electronic Communications (Universal Service) Regulations 2003 and The Electronic Communications (Universal Service) Regulations 2018.
 
-[^key-2aa0d46d5ded0cb0dc805c871e284d23]: Commencement: Reg. 3 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-2aa0d46d5ded0cb0dc805c871e284d23]: Commencement: Reg. 3 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-f43d2b95b564ef4917d2f92c1ab0015a]: Commencement: Reg. 4 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-f43d2b95b564ef4917d2f92c1ab0015a]: Commencement: Reg. 4 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-bfb9263dc1adbef2c7ae06ea0a112de4]: Commencement: Reg. 5 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-bfb9263dc1adbef2c7ae06ea0a112de4]: Commencement: Reg. 5 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-4b72df99fddd191905bb959072ee5b9b]: Commencement: Reg. 6 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-4b72df99fddd191905bb959072ee5b9b]: Commencement: Reg. 6 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-c42bac2fbe805005663a1df4ac2f28f1]: Commencement: Reg. 7 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-c42bac2fbe805005663a1df4ac2f28f1]: Commencement: Reg. 7 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-b8591b898d71d70170ff4096634c1be7]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/2020/545/regulation/7/2/a) substituted (24.12.2021) by [The Electronic Communications (Universal Service) (Costs) (Amendment) Regulations 2021 (S.I. 2021/1377)](https://www.legislation.gov.uk/uksi/2021/1377), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1377/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2021/1377/regulation/2/b)
+[^c-b8591b898d71d70170ff4096634c1be7]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/2020/545/regulation/7/2/a) substituted (24.12.2021) by [The Electronic Communications (Universal Service) (Costs) (Amendment) Regulations 2021 (S.I. 2021/1377)](https://www.legislation.gov.uk/uksi/2021/1377), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1377/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2021/1377/regulation/2/b)
 
-[^key-2ebe180f00173920e01f0652fb275851]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2020/545/regulation/7/3) substituted (24.12.2021) by [The Electronic Communications (Universal Service) (Costs) (Amendment) Regulations 2021 (S.I. 2021/1377)](https://www.legislation.gov.uk/uksi/2021/1377), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1377/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2021/1377/regulation/2/b)
+[^c-2ebe180f00173920e01f0652fb275851]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2020/545/regulation/7/3) substituted (24.12.2021) by [The Electronic Communications (Universal Service) (Costs) (Amendment) Regulations 2021 (S.I. 2021/1377)](https://www.legislation.gov.uk/uksi/2021/1377), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1377/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2021/1377/regulation/2/b)
 
-[^key-c1cbd593fe1b372affc750ca3ae85a5a]: Commencement: Reg. 8 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-c1cbd593fe1b372affc750ca3ae85a5a]: Commencement: Reg. 8 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-f67463a9bf0964c26b2957234ffd0db9]: Commencement: Reg. 9 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-f67463a9bf0964c26b2957234ffd0db9]: Commencement: Reg. 9 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-98aa48a83908d87b497a20bdabdd8515]: Commencement: Reg. 10 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-98aa48a83908d87b497a20bdabdd8515]: Commencement: Reg. 10 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-3a372cf19b5d1f9ac44f72403d9af5b9]: Commencement: Reg. 11 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-3a372cf19b5d1f9ac44f72403d9af5b9]: Commencement: Reg. 11 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-06f20df5f614624b9d3ab6dc56037805]: Commencement: Reg. 12 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-06f20df5f614624b9d3ab6dc56037805]: Commencement: Reg. 12 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-c07e7f9ce0e8477df5f2c1db5fcd79ed]: Commencement: Reg. 13 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-c07e7f9ce0e8477df5f2c1db5fcd79ed]: Commencement: Reg. 13 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-08f39ce5fbfc70a2d0759111b71f6ebd]: Commencement: Reg. 14 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-08f39ce5fbfc70a2d0759111b71f6ebd]: Commencement: Reg. 14 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-2106067032eded9bcfb69151177c520a]: Commencement: Reg. 15 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-2106067032eded9bcfb69151177c520a]: Commencement: Reg. 15 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-41cc8081b8d10514c7fd9cbc8f523a9c]: Textual amendment: Words in [reg. 15(2)(e)](https://www.legislation.gov.uk/uksi/2020/545/regulation/15/2/e) substituted (24.12.2021) by [The Electronic Communications (Universal Service) (Costs) (Amendment) Regulations 2021 (S.I. 2021/1377)](https://www.legislation.gov.uk/uksi/2021/1377), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1377/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2021/1377/regulation/2/b)
+[^c-41cc8081b8d10514c7fd9cbc8f523a9c]: Textual amendment: Words in [reg. 15(2)(e)](https://www.legislation.gov.uk/uksi/2020/545/regulation/15/2/e) substituted (24.12.2021) by [The Electronic Communications (Universal Service) (Costs) (Amendment) Regulations 2021 (S.I. 2021/1377)](https://www.legislation.gov.uk/uksi/2021/1377), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1377/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2021/1377/regulation/2/b)
 
-[^key-9f8e5c6a6b97039fe830514c18f0d97c]: Commencement: Reg. 16 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-9f8e5c6a6b97039fe830514c18f0d97c]: Commencement: Reg. 16 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
 
-[^key-56f92cdc3f42058310799974bd7096bf]: Commencement: Reg. 17 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)
+[^c-56f92cdc3f42058310799974bd7096bf]: Commencement: Reg. 17 in force at 15.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/545/regulation/1)

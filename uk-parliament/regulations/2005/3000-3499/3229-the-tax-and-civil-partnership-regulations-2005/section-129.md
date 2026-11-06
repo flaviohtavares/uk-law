@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129.[^key-c152d92228c2967c67c1d15bf306e7fc]
+## 129.[^c-c152d92228c2967c67c1d15bf306e7fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 7C (relief for transfers to approved share plans), in paragraph 6, i
 
 ## Annotations
 
-[^key-c152d92228c2967c67c1d15bf306e7fc]: Commencement: Reg. 129 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-c152d92228c2967c67c1d15bf306e7fc]: Commencement: Reg. 129 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

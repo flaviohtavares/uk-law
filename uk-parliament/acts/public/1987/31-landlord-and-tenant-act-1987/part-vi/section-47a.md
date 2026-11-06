@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47A. Building safety information to be contained in demands for rent etc: England[^key-3ee2dc00283d2c62ab95e7d2def9fe4d]
+## 47A. Building safety information to be contained in demands for rent etc: England[^c-3ee2dc00283d2c62ab95e7d2def9fe4d]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ any part of the amount demanded which consists of a service charge or an adminis
 
 ## Annotations
 
-[^key-3ee2dc00283d2c62ab95e7d2def9fe4d]: Textual amendment: [S. 47A](https://www.legislation.gov.uk/ukpga/1987/31/section/47A) inserted (28.4.2022 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 113(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/113/2), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164))
+[^c-3ee2dc00283d2c62ab95e7d2def9fe4d]: Textual amendment: [S. 47A](https://www.legislation.gov.uk/ukpga/1987/31/section/47A) inserted (28.4.2022 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 113(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/113/2), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Consultation[^key-f3e1359f2a7977a65cdd3a596a103657]
+## 2. Consultation[^c-f3e1359f2a7977a65cdd3a596a103657]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3e1359f2a7977a65cdd3a596a103657]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/24/section/2) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-f3e1359f2a7977a65cdd3a596a103657]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/24/section/2) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)

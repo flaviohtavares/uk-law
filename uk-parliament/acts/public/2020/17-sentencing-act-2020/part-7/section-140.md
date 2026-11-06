@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Compensation order: order for payment by parent or guardian[^key-e8a32c105a032ab80a15d62d22b59492]
+## 140. Compensation order: order for payment by parent or guardian[^c-e8a32c105a032ab80a15d62d22b59492]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ This is subject to subsection (5).
 
 ## Annotations
 
-[^key-e8a32c105a032ab80a15d62d22b59492]: Commencement: S. 140 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e8a32c105a032ab80a15d62d22b59492]: Commencement: S. 140 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

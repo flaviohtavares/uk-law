@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Increases in imports or changes in price of agricultural goods[^c23439101][^key-382e9ee411ea51098ca6f226d78b4912][^key-1d8605de9d27b7c25fb7be3cf109acfa][^key-bf06c60818863d542eeb77879ce03116]
+## 14. Increases in imports or changes in price of agricultural goods[^c23439101][^c-382e9ee411ea51098ca6f226d78b4912][^c-1d8605de9d27b7c25fb7be3cf109acfa][^c-bf06c60818863d542eeb77879ce03116]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,8 +38,8 @@ summary: ''
 
 [^c23439101]: Commencement: S. 14 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-382e9ee411ea51098ca6f226d78b4912]: Commencement: S. 14 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-382e9ee411ea51098ca6f226d78b4912]: Commencement: S. 14 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-1d8605de9d27b7c25fb7be3cf109acfa]: Modification: Ss. 9-15 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1605/regulation/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-1d8605de9d27b7c25fb7be3cf109acfa]: Modification: Ss. 9-15 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1605/regulation/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-bf06c60818863d542eeb77879ce03116]: Modification: Ss. 9-15 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2020/1605/regulation/13); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-bf06c60818863d542eeb77879ce03116]: Modification: Ss. 9-15 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2020/1605/regulation/13); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

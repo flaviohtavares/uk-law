@@ -35,16 +35,16 @@ concerning the extension of the action taken by the United Kingdom Health and Sa
 
 (Only the English text is authentic) (revoked)
 
-[^key-771f9fd53f2997e54afbfbdaf39cd125]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-771f9fd53f2997e54afbfbdaf39cd125]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-771f9fd53f2997e54afbfbdaf39cd125] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-771f9fd53f2997e54afbfbdaf39cd125] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-771f9fd53f2997e54afbfbdaf39cd125] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-771f9fd53f2997e54afbfbdaf39cd125] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-771f9fd53f2997e54afbfbdaf39cd125]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-771f9fd53f2997e54afbfbdaf39cd125]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-771f9fd53f2997e54afbfbdaf39cd125]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-771f9fd53f2997e54afbfbdaf39cd125]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

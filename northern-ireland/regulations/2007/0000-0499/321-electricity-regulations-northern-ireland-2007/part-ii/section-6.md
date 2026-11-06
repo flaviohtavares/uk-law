@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Licences[^key-20932655487a3305830bbb5f941e3781]
+## 6. Licences[^c-20932655487a3305830bbb5f941e3781]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20932655487a3305830bbb5f941e3781]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/321/regulation/6) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)
+[^c-20932655487a3305830bbb5f941e3781]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/321/regulation/6) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)

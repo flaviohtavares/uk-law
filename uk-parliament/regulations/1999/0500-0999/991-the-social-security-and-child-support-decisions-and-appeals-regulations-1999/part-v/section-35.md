@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S*
 
-For the purposes of section 6(3), the panel shall include persons with the qualifications specified in Schedule 3. *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-fcaaadc1e9fc7818d099c2aace584b3d]
+For the purposes of section 6(3), the panel shall include persons with the qualifications specified in Schedule 3. *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-fcaaadc1e9fc7818d099c2aace584b3d]
 
 ## Annotations
 
-[^key-fcaaadc1e9fc7818d099c2aace584b3d]: Textual amendment: Regs. 35-38 omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683) , [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1) , [Sch. 1 para. 124](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/124) (with [arts. 3(2)(b)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/2/b) , [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4) )
+[^c-fcaaadc1e9fc7818d099c2aace584b3d]: Textual amendment: Regs. 35-38 omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683) , [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1) , [Sch. 1 para. 124](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/124) (with [arts. 3(2)(b)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/2/b) , [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4) )

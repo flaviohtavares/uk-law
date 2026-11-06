@@ -69,8 +69,8 @@ summary: ''
 | K | Any vehicle in category K. |
 | P | Any vehicle in category P. |
 
-(6)[^key-8d7bac28b8c9198b0e5ba2554e0ed1f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8d7bac28b8c9198b0e5ba2554e0ed1f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8d7bac28b8c9198b0e5ba2554e0ed1f3]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/2003/2003/regulation/5/6) omitted (1.7.2007) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2007 (S.I. 2007/698)](https://www.legislation.gov.uk/uksi/2007/698), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/698/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2007/698/regulation/14)
+[^c-8d7bac28b8c9198b0e5ba2554e0ed1f3]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/2003/2003/regulation/5/6) omitted (1.7.2007) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2007 (S.I. 2007/698)](https://www.legislation.gov.uk/uksi/2007/698), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/698/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2007/698/regulation/14)

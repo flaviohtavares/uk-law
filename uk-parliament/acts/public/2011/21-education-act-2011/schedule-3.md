@@ -24,7 +24,7 @@ Section 12
 
 ### Staff transfer schemes
 
-**1.**[^key-a4e0a7e8ba872eb808182e6f5e3516b3] (1) The Secretary of State may make a scheme (a “staff transfer scheme”) providing—
+**1.**[^c-a4e0a7e8ba872eb808182e6f5e3516b3] (1) The Secretary of State may make a scheme (a “staff transfer scheme”) providing—
 
 - (a) for a designated employee of the GTCE to become a member of staff of the Secretary of State (and accordingly to become employed in the civil service of the state);
 - (b) so far as may be consistent with employment in the civil service of the state, for the terms and conditions of the employee's employment with the GTCE to have effect as if they were the conditions of service as a member of the Secretary of State's staff;
@@ -41,7 +41,7 @@ Section 12
 
 ### Property transfer schemes
 
-**2.**[^key-2319d8bbe74ef6e3896973c6385814f1] (1) The Secretary of State may make a scheme (a “property transfer scheme”) providing for the transfer from the GTCE to the Secretary of State of designated property, rights or liabilities.
+**2.**[^c-2319d8bbe74ef6e3896973c6385814f1] (1) The Secretary of State may make a scheme (a “property transfer scheme”) providing for the transfer from the GTCE to the Secretary of State of designated property, rights or liabilities.
 
 (2) A property transfer scheme may—
 
@@ -57,27 +57,27 @@ Section 12
 
 ### Continuity
 
-**3.**[^key-d93196600c727958e1dca28e05eb0606] A transfer by virtue of a staff transfer scheme or a property transfer scheme does not affect the validity of anything done by or in relation to the GTCE before the transfer takes effect.
+**3.**[^c-d93196600c727958e1dca28e05eb0606] A transfer by virtue of a staff transfer scheme or a property transfer scheme does not affect the validity of anything done by or in relation to the GTCE before the transfer takes effect.
 
 ### Supplementary provision etc.
 
-**4.**[^key-191dfc5d047d66c36bb6f9e6b71447c1] A staff transfer scheme or a property transfer scheme may include supplementary, incidental, transitional and consequential provision.
+**4.**[^c-191dfc5d047d66c36bb6f9e6b71447c1] A staff transfer scheme or a property transfer scheme may include supplementary, incidental, transitional and consequential provision.
 
 ### Interpretation
 
-**5.**[^key-860ebefcd9f979431e4123c51a7aa6f7] In this Schedule—
+**5.**[^c-860ebefcd9f979431e4123c51a7aa6f7] In this Schedule—
 
 - “**designated**”, in relation to a staff transfer scheme or a property transfer scheme, means specified in, or determined in accordance with, the scheme;
 - “**the GTCE**” means the General Teaching Council for England.
 
 ## Annotations
 
-[^key-a4e0a7e8ba872eb808182e6f5e3516b3]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/3/paragraph/1) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-a4e0a7e8ba872eb808182e6f5e3516b3]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/3/paragraph/1) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-2319d8bbe74ef6e3896973c6385814f1]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/3/paragraph/2) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-2319d8bbe74ef6e3896973c6385814f1]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/3/paragraph/2) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-d93196600c727958e1dca28e05eb0606]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/3/paragraph/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-d93196600c727958e1dca28e05eb0606]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/3/paragraph/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-191dfc5d047d66c36bb6f9e6b71447c1]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/3/paragraph/4) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-191dfc5d047d66c36bb6f9e6b71447c1]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/3/paragraph/4) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-860ebefcd9f979431e4123c51a7aa6f7]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2011/21/schedule/3/paragraph/5) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-860ebefcd9f979431e4123c51a7aa6f7]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2011/21/schedule/3/paragraph/5) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

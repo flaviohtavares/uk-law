@@ -24,11 +24,11 @@ Section 4
 
 ### Introductory
 
-**1.**[^key-459c0a048966cd140db2f257a3d81681] Schedule 4A to the 1993 Act (review of access charges by ORR) is amended as follows.
+**1.**[^c-459c0a048966cd140db2f257a3d81681] Schedule 4A to the 1993 Act (review of access charges by ORR) is amended as follows.
 
 ### Conduct of access charges reviews
 
-**2.**[^key-3ceeaec23b90b5ed66b6b8e3d81f7def] For paragraph 1 (meaning of access charges review) substitute—
+**2.**[^c-3ceeaec23b90b5ed66b6b8e3d81f7def] For paragraph 1 (meaning of access charges review) substitute—
 
 > **Application of Schedule**
 >
@@ -256,11 +256,11 @@ Section 4
 
 ### Repeal of paragraph 3
 
-**3.**[^key-3cc1f04db7722a3b0a9019362aeb8c3c] Paragraph 3 (which provides for consideration of when the next review should be undertaken) shall cease to have effect.
+**3.**[^c-3cc1f04db7722a3b0a9019362aeb8c3c] Paragraph 3 (which provides for consideration of when the next review should be undertaken) shall cease to have effect.
 
 ### Implementation notice
 
-**4.**[^key-52ec505888b66309e4deaa2aa7b8a686] (1) In paragraph 4 (review notice), after sub-paragraph (2) insert—
+**4.**[^c-52ec505888b66309e4deaa2aa7b8a686] (1) In paragraph 4 (review notice), after sub-paragraph (2) insert—
 
 > (2A) Before giving a review notice specifying modifications of a linked licence that are proposed for purposes connected with securing—
 >
@@ -279,7 +279,7 @@ Section 4
 
 ### Termination notice
 
-**5.**[^key-0b1fb9567da06893399c25cf71b7eb02] In paragraph 6(3) (service of termination notice), before paragraph (a) insert—
+**5.**[^c-0b1fb9567da06893399c25cf71b7eb02] In paragraph 6(3) (service of termination notice), before paragraph (a) insert—
 
 > - (za) if the Secretary of State was given notice of the review under paragraph 1C, the Secretary of State;
 > - (zb) if the Scottish Ministers were given notice of the review under that paragraph, those Ministers;
@@ -288,13 +288,13 @@ Section 4
 
 ### New review notice following objections
 
-**6.**[^key-d734bce436e4c6d48691f2390e0a112f] In paragraph 8 (new review notices and references to Competition Competition), after sub-paragraph (4) insert—
+**6.**[^c-d734bce436e4c6d48691f2390e0a112f] In paragraph 8 (new review notices and references to Competition Competition), after sub-paragraph (4) insert—
 
 > (4A) Paragraph 1H applies to the making of any determination by the Office of Rail Regulation of what should be included in a new review notice to be given under this paragraph as it applies to the conduct of an access charges review.
 
 ### Information to be provided to Competition Commission in connection with reference
 
-**7.**[^key-7300cb54af87dbdb4ef38aaf4e4bb524] (1) In paragraph 9 (reference to Competition Commission), after sub-paragraph (6) insert—
+**7.**[^c-7300cb54af87dbdb4ef38aaf4e4bb524] (1) In paragraph 9 (reference to Competition Commission), after sub-paragraph (6) insert—
 
 > (6A) A reference to the Competition Commission under this paragraph must be accompanied by—
 >
@@ -311,7 +311,7 @@ Section 4
 
 ### Noticed of proposed relevant changes following Competition Commission report
 
-**8.**[^key-f90cb08b237abba94df12f0134a76680] (1) In paragraph 12 (changes following report), after sub-paragraph (4) insert—
+**8.**[^c-f90cb08b237abba94df12f0134a76680] (1) In paragraph 12 (changes following report), after sub-paragraph (4) insert—
 
 > (4A) Where (after considering any representations and objections which are duly made and not withdrawn) the Office of Rail Regulation proposes to make relevant changes under this paragraph, it must give a notice to the relevant authorities which—
 >
@@ -344,7 +344,7 @@ Section 4
 
 ### Notice of decisions by Competition Commission
 
-**9.**[^key-8383e0dde87c6d8fbce0b42136de9bfc] For the last sub-paragraph of paragraph 14 (notice of relevant changes made by Competition Commission) substitute—
+**9.**[^c-8383e0dde87c6d8fbce0b42136de9bfc] For the last sub-paragraph of paragraph 14 (notice of relevant changes made by Competition Commission) substitute—
 
 > (6) As soon as practicable after making relevant changes under this paragraph, the Competition Commission must send a copy of those relevant changes—
 >
@@ -354,7 +354,7 @@ Section 4
 
 ### Information to be provided to Competition Commission with proposal for relevant changes
 
-**10.**[^key-f0318982702d307d422b77a373c9e006] (1) In sub-paragraph (3) of paragraph 15 (information to be provided to Competition Commission for purpose of their functions under paragraphs 13 and 14), after the words “Competition Commission”, in the second place where they occur, insert “ (in addition to the information provided in accordance with paragraph 12(5) and (6)) ”.
+**10.**[^c-f0318982702d307d422b77a373c9e006] (1) In sub-paragraph (3) of paragraph 15 (information to be provided to Competition Commission for purpose of their functions under paragraphs 13 and 14), after the words “Competition Commission”, in the second place where they occur, insert “ (in addition to the information provided in accordance with paragraph 12(5) and (6)) ”.
 
 (2) In sub-paragraph (4) of that paragraph, for “any information” substitute—
 
@@ -365,7 +365,7 @@ Section 4
 
 ### Commencement of Schedule
 
-**11.**[^key-87da7de6e7ce3caec56e9b91ab0a617e] (1) Subject to sub-paragraph (2), this Schedule does not apply in relation to any review in relation to which the Office of Rail Regulation[^key-7782922d0fb8eb2e5bfdc6032c78bd49] has given a review notice under paragraph 4 of Schedule 4A to the 1993 Act before the commencement of this Schedule.
+**11.**[^c-87da7de6e7ce3caec56e9b91ab0a617e] (1) Subject to sub-paragraph (2), this Schedule does not apply in relation to any review in relation to which the Office of Rail Regulation[^c-7782922d0fb8eb2e5bfdc6032c78bd49] has given a review notice under paragraph 4 of Schedule 4A to the 1993 Act before the commencement of this Schedule.
 
 (2) Where—
 
@@ -376,26 +376,26 @@ that Office, according to what it thinks fit, may either undertake a new access 
 
 ## Annotations
 
-[^key-459c0a048966cd140db2f257a3d81681]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/1) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
+[^c-459c0a048966cd140db2f257a3d81681]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/1) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
 
-[^key-3ceeaec23b90b5ed66b6b8e3d81f7def]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/2) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
+[^c-3ceeaec23b90b5ed66b6b8e3d81f7def]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/2) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
 
-[^key-3cc1f04db7722a3b0a9019362aeb8c3c]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/3) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
+[^c-3cc1f04db7722a3b0a9019362aeb8c3c]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/3) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
 
-[^key-52ec505888b66309e4deaa2aa7b8a686]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/4) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
+[^c-52ec505888b66309e4deaa2aa7b8a686]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/4) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
 
-[^key-0b1fb9567da06893399c25cf71b7eb02]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/5) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
+[^c-0b1fb9567da06893399c25cf71b7eb02]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/5) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
 
-[^key-d734bce436e4c6d48691f2390e0a112f]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/6) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
+[^c-d734bce436e4c6d48691f2390e0a112f]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/6) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
 
-[^key-7300cb54af87dbdb4ef38aaf4e4bb524]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/7) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
+[^c-7300cb54af87dbdb4ef38aaf4e4bb524]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/7) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
 
-[^key-f90cb08b237abba94df12f0134a76680]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/8) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
+[^c-f90cb08b237abba94df12f0134a76680]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/8) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
 
-[^key-8383e0dde87c6d8fbce0b42136de9bfc]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/9) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
+[^c-8383e0dde87c6d8fbce0b42136de9bfc]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/9) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
 
-[^key-f0318982702d307d422b77a373c9e006]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/10) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
+[^c-f0318982702d307d422b77a373c9e006]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/10) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
 
-[^key-87da7de6e7ce3caec56e9b91ab0a617e]: Commencement: Sch. 4 para. 11 in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
+[^c-87da7de6e7ce3caec56e9b91ab0a617e]: Commencement: Sch. 4 para. 11 in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/d)
 
-[^key-7782922d0fb8eb2e5bfdc6032c78bd49]: Textual amendment: Words in [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/11) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 3(t)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/3/t)
+[^c-7782922d0fb8eb2e5bfdc6032c78bd49]: Textual amendment: Words in [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2005/14/schedule/4/paragraph/11) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 3(t)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/3/t)

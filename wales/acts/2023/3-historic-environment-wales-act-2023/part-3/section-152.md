@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 152. Powers to enter land[^key-afbd3d76598cd2a8d8a4b0ea7fa7b981][^key-d683dd8b093ccb9a35792db1c2510833]
+## 152. Powers to enter land[^c-afbd3d76598cd2a8d8a4b0ea7fa7b981][^c-d683dd8b093ccb9a35792db1c2510833]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-afbd3d76598cd2a8d8a4b0ea7fa7b981]: Commencement: S. 152 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-afbd3d76598cd2a8d8a4b0ea7fa7b981]: Commencement: S. 152 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-d683dd8b093ccb9a35792db1c2510833]: Commencement: [S. 152](https://www.legislation.gov.uk/asc/2023/3/section/152) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-d683dd8b093ccb9a35792db1c2510833]: Commencement: [S. 152](https://www.legislation.gov.uk/asc/2023/3/section/152) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

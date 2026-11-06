@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Meaning of “the Commission”[^key-34ab396bae020c9735fb4ded65b1af02][^key-6568d341a539731d0c2c611209b37b86]
+## 61. Meaning of “the Commission”[^c-34ab396bae020c9735fb4ded65b1af02][^c-6568d341a539731d0c2c611209b37b86]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In this Part “**the Commission**” means the Electoral Commission.
 
 ## Annotations
 
-[^key-34ab396bae020c9735fb4ded65b1af02]: Commencement: S. 61 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-34ab396bae020c9735fb4ded65b1af02]: Commencement: S. 61 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-6568d341a539731d0c2c611209b37b86]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2022/37/section/61) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-6568d341a539731d0c2c611209b37b86]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2022/37/section/61) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Local legislation[^key-581fa5d16a5ff98b72b1eb4f3cfa2141]
+## 65. Local legislation[^c-581fa5d16a5ff98b72b1eb4f3cfa2141]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-581fa5d16a5ff98b72b1eb4f3cfa2141]: Commencement: Art. 65 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-581fa5d16a5ff98b72b1eb4f3cfa2141]: Commencement: Art. 65 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

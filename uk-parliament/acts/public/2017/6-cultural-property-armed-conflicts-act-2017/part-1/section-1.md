@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. “The Convention” and related expressions[^key-2043913a988323802a14da833cde5db5]
+## 1. “The Convention” and related expressions[^c-2043913a988323802a14da833cde5db5]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2043913a988323802a14da833cde5db5]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/6/section/1) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-2043913a988323802a14da833cde5db5]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/6/section/1) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

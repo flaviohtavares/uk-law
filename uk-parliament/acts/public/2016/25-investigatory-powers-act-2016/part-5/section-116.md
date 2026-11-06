@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Duration of warrants[^key-e16048a5eb4d8f091316d0dc9b5e11fa]
+## 116. Duration of warrants[^c-e16048a5eb4d8f091316d0dc9b5e11fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e16048a5eb4d8f091316d0dc9b5e11fa]: Commencement: S. 116 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(f)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/f)
+[^c-e16048a5eb4d8f091316d0dc9b5e11fa]: Commencement: S. 116 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(f)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/f)

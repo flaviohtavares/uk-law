@@ -32,7 +32,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) Order 2008 (revoked)[^key-19c909942f5011679dac0f5ead5929eb]
+The European Communities (Designation) Order 2008 (revoked)[^c-19c909942f5011679dac0f5ead5929eb]
 
 Made
 
@@ -52,46 +52,46 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-19c909942f5011679dac0f5ead5929eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19c909942f5011679dac0f5ead5929eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-19c909942f5011679dac0f5ead5929eb]
+## 1. Citation, commencement and interpretation[^c-19c909942f5011679dac0f5ead5929eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to the environment[^key-19c909942f5011679dac0f5ead5929eb]
+## 2. Designation in relation to the environment[^c-19c909942f5011679dac0f5ead5929eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation in relation to cat and dog fur[^key-19c909942f5011679dac0f5ead5929eb]
+## 3. Designation in relation to cat and dog fur[^c-19c909942f5011679dac0f5ead5929eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Relationship with other designations[^key-19c909942f5011679dac0f5ead5929eb]
+## 4. Relationship with other designations[^c-19c909942f5011679dac0f5ead5929eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Restrictions[^key-19c909942f5011679dac0f5ead5929eb]
+## 5. Restrictions[^c-19c909942f5011679dac0f5ead5929eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation of existing designations[^key-19c909942f5011679dac0f5ead5929eb]
+## 6. Revocation of existing designations[^c-19c909942f5011679dac0f5ead5929eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-19c909942f5011679dac0f5ead5929eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19c909942f5011679dac0f5ead5929eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Revocations[^key-19c909942f5011679dac0f5ead5929eb]
+## SCHEDULE — Revocations[^c-19c909942f5011679dac0f5ead5929eb]
 
 Article 6(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-19c909942f5011679dac0f5ead5929eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19c909942f5011679dac0f5ead5929eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-19c909942f5011679dac0f5ead5929eb]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/301) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-19c909942f5011679dac0f5ead5929eb]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/301) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

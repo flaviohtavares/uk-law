@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Amendment to regulation 43[^key-c6b68299596d7191ac20fcfb109f57d8]
+## 18. Amendment to regulation 43[^c-c6b68299596d7191ac20fcfb109f57d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In regulation 43 (obligations of licence holder)[^f00025], omit—
 
 ## Annotations
 
-[^key-c6b68299596d7191ac20fcfb109f57d8]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/832/regulation/18) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-c6b68299596d7191ac20fcfb109f57d8]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/832/regulation/18) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00025]: Footnote: Relevant amendments to regulation 43 were made by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855) and [2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

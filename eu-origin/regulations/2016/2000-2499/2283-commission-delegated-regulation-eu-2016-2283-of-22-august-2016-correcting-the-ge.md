@@ -35,16 +35,16 @@ correcting the German language version of Delegated Regulation (EU) 2015/35 supp
 
 (Text with EEA relevance) (revoked)
 
-[^key-cfa132771cee117e2add58c4b7016f84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfa132771cee117e2add58c4b7016f84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-cfa132771cee117e2add58c4b7016f84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-cfa132771cee117e2add58c4b7016f84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-cfa132771cee117e2add58c4b7016f84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-cfa132771cee117e2add58c4b7016f84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cfa132771cee117e2add58c4b7016f84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfa132771cee117e2add58c4b7016f84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cfa132771cee117e2add58c4b7016f84]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))
+[^c-cfa132771cee117e2add58c4b7016f84]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))

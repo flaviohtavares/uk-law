@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 147. Determining the non-housing component[^key-402339eb1dd650b57cb3f08d0efd1b82]
+## 147. Determining the non-housing component[^c-402339eb1dd650b57cb3f08d0efd1b82]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-402339eb1dd650b57cb3f08d0efd1b82]: Commencement: Reg. 147 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-402339eb1dd650b57cb3f08d0efd1b82]: Commencement: Reg. 147 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

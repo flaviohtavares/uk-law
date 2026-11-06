@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Calculation of chargeable amount etc[^key-716a12f4ffab3b20cc83a6ea4e88e626]
+## SCHEDULE 1 — Calculation of chargeable amount etc[^c-716a12f4ffab3b20cc83a6ea4e88e626]
 
 *Extent: E+W*
 
@@ -470,4 +470,4 @@ then when calculating the chargeable amount in relation to C, sub-paragraphs (3)
 
 ## Annotations
 
-[^key-716a12f4ffab3b20cc83a6ea4e88e626]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/948/schedule/1) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/1103/schedule/1) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-716a12f4ffab3b20cc83a6ea4e88e626]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/948/schedule/1) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/1103/schedule/1) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

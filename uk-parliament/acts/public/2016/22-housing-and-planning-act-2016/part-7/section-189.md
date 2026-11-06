@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Corresponding amendments to the New Towns Act 1981[^key-f38f0c063a3640f356b503e83102cdcd]
+## 189. Corresponding amendments to the New Towns Act 1981[^c-f38f0c063a3640f356b503e83102cdcd]
 
 *Extent: E+W*
 
@@ -94,4 +94,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f38f0c063a3640f356b503e83102cdcd]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2016/22/section/189) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-f38f0c063a3640f356b503e83102cdcd]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2016/22/section/189) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))

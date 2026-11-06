@@ -24,29 +24,29 @@ Regulations 2(1) and 23
 
 ### PART 1 — Information and documentation to be available in respect of persons working in regulated services
 
-**1.**[^key-6744cbb13a90cd08ae4d8ded8347cab1] Proof of identity including a recent photograph.
+**1.**[^c-6744cbb13a90cd08ae4d8ded8347cab1] Proof of identity including a recent photograph.
 
-**2.**[^key-ac80e6d97f24d5e713d73dd89822341c] Where required for the purposes of an exempted question in accordance with section 113A(2)(b) of the Police Act 1997 [^c24322561], a copy of a valid criminal record certificate issued under section 113A of that Act together with, after the appointed day and where applicable, the information mentioned in section 30A(3) of the Safeguarding Vulnerable Groups Act 2006 [^c24322571] (provision of barring information on request).
+**2.**[^c-ac80e6d97f24d5e713d73dd89822341c] Where required for the purposes of an exempted question in accordance with section 113A(2)(b) of the Police Act 1997 [^c24322561], a copy of a valid criminal record certificate issued under section 113A of that Act together with, after the appointed day and where applicable, the information mentioned in section 30A(3) of the Safeguarding Vulnerable Groups Act 2006 [^c24322571] (provision of barring information on request).
 
-**3.**[^key-294997148f589f8fafa134e632be02f9] Where required for the purposes of an exempted question asked for a prescribed purpose under section 113B(2)(b) of the Police Act 1997, a copy of a valid enhanced criminal record certificate issued under section 113B of that Act together with, where applicable, suitability information relating to children (within the meaning of section 113BA(2) of that Act) or suitability information relating to vulnerable adults (within the meaning of section 113BB(2) of that Act).
+**3.**[^c-294997148f589f8fafa134e632be02f9] Where required for the purposes of an exempted question asked for a prescribed purpose under section 113B(2)(b) of the Police Act 1997, a copy of a valid enhanced criminal record certificate issued under section 113B of that Act together with, where applicable, suitability information relating to children (within the meaning of section 113BA(2) of that Act) or suitability information relating to vulnerable adults (within the meaning of section 113BB(2) of that Act).
 
-**4.**[^key-bd146ddef1213d6d82f90a195ddb106e] Two written references, including a reference from the last employer, if any.
+**4.**[^c-bd146ddef1213d6d82f90a195ddb106e] Two written references, including a reference from the last employer, if any.
 
-**5.**[^key-fc52ed81cacabf389ef92290bfbc5a2b] Where a person has previously worked in a position whose duties involved work with children or vulnerable adults, so far as reasonably practicable verification of the reason why the employment or position ended.
+**5.**[^c-fc52ed81cacabf389ef92290bfbc5a2b] Where a person has previously worked in a position whose duties involved work with children or vulnerable adults, so far as reasonably practicable verification of the reason why the employment or position ended.
 
-**6.**[^key-8fe4fac3bae2e6fcfff2d95368f45b24] Documentary evidence of any relevant qualification.
+**6.**[^c-8fe4fac3bae2e6fcfff2d95368f45b24] Documentary evidence of any relevant qualification.
 
-**7.**[^key-d34d00695a71757157486c06c6861e91] Where relevant, documentary evidence of registration with SCW.
+**7.**[^c-d34d00695a71757157486c06c6861e91] Where relevant, documentary evidence of registration with SCW.
 
-**8.**[^key-3dac0cf5f0b6aee90d16124afe0b286d] A full employment history, together with a satisfactory written explanation of any gaps in employment.
+**8.**[^c-3dac0cf5f0b6aee90d16124afe0b286d] A full employment history, together with a satisfactory written explanation of any gaps in employment.
 
-**9.**[^key-9d6b7aa21db55617c7716bad253a710d] Evidence of satisfactory linguistic ability for the purposes of providing support to those individuals for whom the worker is to provide support.
+**9.**[^c-9d6b7aa21db55617c7716bad253a710d] Evidence of satisfactory linguistic ability for the purposes of providing support to those individuals for whom the worker is to provide support.
 
-**10.**[^key-c98d33c0d7e0195a481340bfe2064064] Details of registration with or membership of any professional body.
+**10.**[^c-c98d33c0d7e0195a481340bfe2064064] Details of registration with or membership of any professional body.
 
 ### PART 2 — Interpretation of Part 1
 
-**11.**[^key-35b99baca90d2cdd2d2c7bf5656b3412] For the purposes of paragraphs 2 and 3 of Part 1 of this Schedule—
+**11.**[^c-35b99baca90d2cdd2d2c7bf5656b3412] For the purposes of paragraphs 2 and 3 of Part 1 of this Schedule—
 
 - (a) if the person to whom the certificate relates is not registered with the DBS update service, a certificate is only valid if—
   - (i) it has been issued in response to an application by the service provider in accordance with regulation 23(3) or (6) (fitness of staff), and
@@ -55,28 +55,28 @@ Regulations 2(1) and 23
 
 ## Annotations
 
-[^key-6744cbb13a90cd08ae4d8ded8347cab1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/1) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-6744cbb13a90cd08ae4d8ded8347cab1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/1) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
 
-[^key-ac80e6d97f24d5e713d73dd89822341c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/2) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-ac80e6d97f24d5e713d73dd89822341c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/2) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
 
 [^c24322561]: Marginal citation: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
 [^c24322571]: Marginal citation: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47). Sections 30 to 32 of the Safeguarding Vulnerable Groups Act 2006 as originally enacted are to be replaced by new sections 30A and 30B as a result of substitutions made by section 72(1) of the Protection of Freedoms Act 2012. Section 72(1) is to be commenced on a day to be appointed.
 
-[^key-294997148f589f8fafa134e632be02f9]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/3) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-294997148f589f8fafa134e632be02f9]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/3) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
 
-[^key-bd146ddef1213d6d82f90a195ddb106e]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/4) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-bd146ddef1213d6d82f90a195ddb106e]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/4) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
 
-[^key-fc52ed81cacabf389ef92290bfbc5a2b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/5) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-fc52ed81cacabf389ef92290bfbc5a2b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/5) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
 
-[^key-8fe4fac3bae2e6fcfff2d95368f45b24]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/6) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-8fe4fac3bae2e6fcfff2d95368f45b24]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/6) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
 
-[^key-d34d00695a71757157486c06c6861e91]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/7) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-d34d00695a71757157486c06c6861e91]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/7) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
 
-[^key-3dac0cf5f0b6aee90d16124afe0b286d]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/8) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-3dac0cf5f0b6aee90d16124afe0b286d]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/8) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
 
-[^key-9d6b7aa21db55617c7716bad253a710d]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/9) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-9d6b7aa21db55617c7716bad253a710d]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/9) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
 
-[^key-c98d33c0d7e0195a481340bfe2064064]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/10) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-c98d33c0d7e0195a481340bfe2064064]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/10) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
 
-[^key-35b99baca90d2cdd2d2c7bf5656b3412]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/11) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-35b99baca90d2cdd2d2c7bf5656b3412]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2019/762/schedule/1/paragraph/11) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

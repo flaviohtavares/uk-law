@@ -27,10 +27,10 @@ An institution that uses an internal model for calculating own funds requirement
 - ((c)) the market and position data used for the internal model are up-to-date and subject to an appropriate quality assessment;
 - ((d)) the requirements in Article 367(3), Article 368, Article 369(1) and points (b), (c), (e) and (f) of Article 370 are met.
 
-[^key-cdd6405c42da084dfe83912271794782]...
+[^c-cdd6405c42da084dfe83912271794782]...
 
 ## Annotations
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-cdd6405c42da084dfe83912271794782]: Textual amendment: Words in [Art. 372](https://www.legislation.gov.uk/eur/2013/575/article/372) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [166](https://www.legislation.gov.uk/uksi/2018/1401/regulation/166) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cdd6405c42da084dfe83912271794782]: Textual amendment: Words in [Art. 372](https://www.legislation.gov.uk/eur/2013/575/article/372) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [166](https://www.legislation.gov.uk/uksi/2018/1401/regulation/166) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

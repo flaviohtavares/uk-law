@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Directions and directives[^key-8d9415fae00ab7e0b20297339c0b4376]
+## 154. Directions and directives[^c-8d9415fae00ab7e0b20297339c0b4376]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d9415fae00ab7e0b20297339c0b4376]: Commencement: [Art. 154](https://www.legislation.gov.uk/uksi/2015/870/article/154) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-8d9415fae00ab7e0b20297339c0b4376]: Commencement: [Art. 154](https://www.legislation.gov.uk/uksi/2015/870/article/154) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

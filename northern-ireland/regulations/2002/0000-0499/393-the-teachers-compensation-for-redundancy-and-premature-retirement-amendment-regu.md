@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-The Teachers' (Compensation for Redundancy and Premature Retirement) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^key-ef4ff3aa0246f7773057cc4275b23b5f]
+The Teachers' (Compensation for Redundancy and Premature Retirement) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^c-ef4ff3aa0246f7773057cc4275b23b5f]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 1st March 2003
 
-[^key-ef4ff3aa0246f7773057cc4275b23b5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef4ff3aa0246f7773057cc4275b23b5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ef4ff3aa0246f7773057cc4275b23b5f]
+## 1. Citation and commencement[^c-ef4ff3aa0246f7773057cc4275b23b5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ef4ff3aa0246f7773057cc4275b23b5f]
+## 2. Interpretation[^c-ef4ff3aa0246f7773057cc4275b23b5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-ef4ff3aa0246f7773057cc4275b23b5f]
+## 3. Amendment of the principal Regulations[^c-ef4ff3aa0246f7773057cc4275b23b5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef4ff3aa0246f7773057cc4275b23b5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef4ff3aa0246f7773057cc4275b23b5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ef4ff3aa0246f7773057cc4275b23b5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef4ff3aa0246f7773057cc4275b23b5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef4ff3aa0246f7773057cc4275b23b5f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/393) revoked (30.4.2010) by [The Teachers’ (Compensation for Redundancy and Premature Retirement) Regulations (Northern Ireland) 2010 (S.R. 2010/136)](https://www.legislation.gov.uk/nisr/2010/136), [regs. 1](https://www.legislation.gov.uk/nisr/2010/136/regulation/1), [28(1)(b)](https://www.legislation.gov.uk/nisr/2010/136/regulation/28/1/b) (with [reg. 28(2)](https://www.legislation.gov.uk/nisr/2010/136/regulation/28/2))
+[^c-ef4ff3aa0246f7773057cc4275b23b5f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/393) revoked (30.4.2010) by [The Teachers’ (Compensation for Redundancy and Premature Retirement) Regulations (Northern Ireland) 2010 (S.R. 2010/136)](https://www.legislation.gov.uk/nisr/2010/136), [regs. 1](https://www.legislation.gov.uk/nisr/2010/136/regulation/1), [28(1)(b)](https://www.legislation.gov.uk/nisr/2010/136/regulation/28/1/b) (with [reg. 28(2)](https://www.legislation.gov.uk/nisr/2010/136/regulation/28/2))

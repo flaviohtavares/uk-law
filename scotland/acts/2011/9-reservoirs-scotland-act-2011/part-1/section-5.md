@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-c88e7302413c59125d313717aef73af9][^key-94fb79347528e352c6b150f4cfd4c71a] Where, by virtue of section 3, there is more than one reservoir manager of a controlled reservoir, each of the reservoir managers must co-operate with the other reservoir manager (or managers) of the reservoir so far as is necessary to enable all of the reservoir managers to comply with the requirements to which they are subject under—
+(1)[^c-c88e7302413c59125d313717aef73af9][^c-94fb79347528e352c6b150f4cfd4c71a] Where, by virtue of section 3, there is more than one reservoir manager of a controlled reservoir, each of the reservoir managers must co-operate with the other reservoir manager (or managers) of the reservoir so far as is necessary to enable all of the reservoir managers to comply with the requirements to which they are subject under—
 
 - (a) section 33(2)(a) or 65(2)(a) (appointment etc. of construction engineer),
 - (b) section 36(1) or 69(2) (directions of construction engineer as to taking of measures in safety report),
@@ -38,16 +38,16 @@ summary: ''
 - (n) section 97 (affording reasonable facilities to engineers),
 - (o) section 98 (providing information or assistance to SEPA).
 
-(2)[^key-893416532c7ba898f583e726fd99f9f3] A reservoir manager who fails to comply with subsection (1) commits an offence.
+(2)[^c-893416532c7ba898f583e726fd99f9f3] A reservoir manager who fails to comply with subsection (1) commits an offence.
 
-(3)[^key-893416532c7ba898f583e726fd99f9f3] A reservoir manager guilty of an offence under subsection (2) in relation to a controlled reservoir which is, at the time the offence is committed, designated as a high-risk reservoir is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+(3)[^c-893416532c7ba898f583e726fd99f9f3] A reservoir manager guilty of an offence under subsection (2) in relation to a controlled reservoir which is, at the time the offence is committed, designated as a high-risk reservoir is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-(4)[^key-893416532c7ba898f583e726fd99f9f3] A reservoir manager guilty of an offence under that subsection in relation to any other controlled reservoir is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+(4)[^c-893416532c7ba898f583e726fd99f9f3] A reservoir manager guilty of an offence under that subsection in relation to any other controlled reservoir is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
 ## Annotations
 
-[^key-c88e7302413c59125d313717aef73af9]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/asp/2011/9/section/5/1) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)
+[^c-c88e7302413c59125d313717aef73af9]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/asp/2011/9/section/5/1) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)
 
-[^key-94fb79347528e352c6b150f4cfd4c71a]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/asp/2011/9/section/5/1) in force at 1.4.2016 in so far as not already in force by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-94fb79347528e352c6b150f4cfd4c71a]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/asp/2011/9/section/5/1) in force at 1.4.2016 in so far as not already in force by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
 
-[^key-893416532c7ba898f583e726fd99f9f3]: Commencement: [S. 5(2)-(4)](https://www.legislation.gov.uk/asp/2011/9/section/5/2) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)
+[^c-893416532c7ba898f583e726fd99f9f3]: Commencement: [S. 5(2)-(4)](https://www.legislation.gov.uk/asp/2011/9/section/5/2) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Financial support for apprenticeships[^key-cf06b22ae92555f37668dc82799db15d][^key-3f3b061f200a68a8cb1c3704cad34958]
+## 104. Financial support for apprenticeships[^c-cf06b22ae92555f37668dc82799db15d][^c-3f3b061f200a68a8cb1c3704cad34958]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf06b22ae92555f37668dc82799db15d]: Commencement: S. 104 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-cf06b22ae92555f37668dc82799db15d]: Commencement: S. 104 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-3f3b061f200a68a8cb1c3704cad34958]: Commencement: [S. 104](https://www.legislation.gov.uk/asc/2022/1/section/104) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(kk)](https://www.legislation.gov.uk/wsi/2023/919/article/3/kk)
+[^c-3f3b061f200a68a8cb1c3704cad34958]: Commencement: [S. 104](https://www.legislation.gov.uk/asc/2022/1/section/104) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(kk)](https://www.legislation.gov.uk/wsi/2023/919/article/3/kk)

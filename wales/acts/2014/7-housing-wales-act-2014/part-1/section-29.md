@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Fixed penalty notices[^key-8956b5157515fca96190995d86e4899f][^key-7e8d7cadd4dc004d455c91997a15752b]
+## 29. Fixed penalty notices[^c-8956b5157515fca96190995d86e4899f][^c-7e8d7cadd4dc004d455c91997a15752b]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-8956b5157515fca96190995d86e4899f]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2014/7/section/29) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-8956b5157515fca96190995d86e4899f]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2014/7/section/29) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-7e8d7cadd4dc004d455c91997a15752b]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2014/7/section/29) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-7e8d7cadd4dc004d455c91997a15752b]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2014/7/section/29) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

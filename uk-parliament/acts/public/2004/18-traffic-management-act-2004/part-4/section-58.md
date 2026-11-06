@@ -31,7 +31,7 @@ summary: ''
 > - (a) to make different provision for different descriptions of street authority or undertakers;
 > - (b) to prescribe different fees by reference to the nature or extent of the inspection, the place where it is carried out and such other factors as appear to the Secretary of State to be relevant.
 
-(2)[^key-844d401caff6d97b7f4494af0cb0cb65] For section 75 of that Act (inspection fees) there is substituted—
+(2)[^c-844d401caff6d97b7f4494af0cb0cb65] For section 75 of that Act (inspection fees) there is substituted—
 
 > **75. Inspection fees**
 >
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-844d401caff6d97b7f4494af0cb0cb65]: Commencement: [S. 58(2)](https://www.legislation.gov.uk/ukpga/2004/18/section/58/2) in force at 17.6.2022 for specified purposes for E. by [S.I. 2022/649](https://www.legislation.gov.uk/uksi/2022/649), [art. 2](https://www.legislation.gov.uk/uksi/2022/649/article/2)
+[^c-844d401caff6d97b7f4494af0cb0cb65]: Commencement: [S. 58(2)](https://www.legislation.gov.uk/ukpga/2004/18/section/58/2) in force at 17.6.2022 for specified purposes for E. by [S.I. 2022/649](https://www.legislation.gov.uk/uksi/2022/649), [art. 2](https://www.legislation.gov.uk/uksi/2022/649/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Minor and consequential amendments[^key-d7bc733e4691b117cef2560d1a1f9d41]
+## 103. Minor and consequential amendments[^c-d7bc733e4691b117cef2560d1a1f9d41]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 2 contains minor amendments and amendments consequential on the provisi
 
 ## Annotations
 
-[^key-d7bc733e4691b117cef2560d1a1f9d41]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2014/14/section/103) in force at 1.8.2016 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-d7bc733e4691b117cef2560d1a1f9d41]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2014/14/section/103) in force at 1.8.2016 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

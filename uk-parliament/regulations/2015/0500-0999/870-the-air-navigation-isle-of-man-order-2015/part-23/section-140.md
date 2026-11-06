@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Filing and approval of tariffs[^key-a6ded7b10fe1bc623ddb8450493e3598]
+## 140. Filing and approval of tariffs[^c-a6ded7b10fe1bc623ddb8450493e3598]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6ded7b10fe1bc623ddb8450493e3598]: Commencement: [Art. 140](https://www.legislation.gov.uk/uksi/2015/870/article/140) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-a6ded7b10fe1bc623ddb8450493e3598]: Commencement: [Art. 140](https://www.legislation.gov.uk/uksi/2015/870/article/140) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

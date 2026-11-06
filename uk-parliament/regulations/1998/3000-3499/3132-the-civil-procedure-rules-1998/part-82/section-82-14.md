@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82.14. Consideration of closed material application or of objection to special advocate’s communication[^key-c2b447dcce072522f2e795ce120ccaaf]
+## 82.14. Consideration of closed material application or of objection to special advocate’s communication[^c-c2b447dcce072522f2e795ce120ccaaf]
 
 *Extent: E+W*
 
 (1) This rule applies where the relevant person or, as the case may be, the Secretary of State has—
 
 - (a) applied under rule 82.13 (sensitive material) for permission to withhold sensitive material; or
-- (b) objected under rule 82.11(5)(b) (special advocate: communicating about proceedings) to a proposed communication by the special advocate or to the form in which it is proposed to be made[^key-cfd42891075d5d19c07a0cb91afd9a5b].
+- (b) objected under rule 82.11(5)(b) (special advocate: communicating about proceedings) to a proposed communication by the special advocate or to the form in which it is proposed to be made[^c-cfd42891075d5d19c07a0cb91afd9a5b].
 
 (2) The court must fix a hearing for the relevant party, the Secretary of State and the special advocate to make oral representations, unless—
 
@@ -73,6 +73,6 @@ the court may direct that the relevant person must not rely in the proceedings o
 
 ## Annotations
 
-[^key-c2b447dcce072522f2e795ce120ccaaf]: Textual amendment: Pt. 82 inserted (27.6.2013) by [The Civil Procedure (Amendment No. 5) Rules 2013 (S.I. 2013/1571)](https://www.legislation.gov.uk/uksi/2013/1571), [rule 1](https://www.legislation.gov.uk/uksi/2013/1571/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/1571/schedule)
+[^c-c2b447dcce072522f2e795ce120ccaaf]: Textual amendment: Pt. 82 inserted (27.6.2013) by [The Civil Procedure (Amendment No. 5) Rules 2013 (S.I. 2013/1571)](https://www.legislation.gov.uk/uksi/2013/1571), [rule 1](https://www.legislation.gov.uk/uksi/2013/1571/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/1571/schedule)
 
-[^key-cfd42891075d5d19c07a0cb91afd9a5b]: Textual amendment: Words in [rule 82.14(1)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/82.14/1/b) inserted (17.4.2015) by [The Civil Procedure (Amendment No. 3) Rules 2015 (S.I. 2015/877)](https://www.legislation.gov.uk/uksi/2015/877), [rules 2](https://www.legislation.gov.uk/uksi/2015/877/rule/2), [8](https://www.legislation.gov.uk/uksi/2015/877/rule/8)
+[^c-cfd42891075d5d19c07a0cb91afd9a5b]: Textual amendment: Words in [rule 82.14(1)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/82.14/1/b) inserted (17.4.2015) by [The Civil Procedure (Amendment No. 3) Rules 2015 (S.I. 2015/877)](https://www.legislation.gov.uk/uksi/2015/877), [rules 2](https://www.legislation.gov.uk/uksi/2015/877/rule/2), [8](https://www.legislation.gov.uk/uksi/2015/877/rule/8)

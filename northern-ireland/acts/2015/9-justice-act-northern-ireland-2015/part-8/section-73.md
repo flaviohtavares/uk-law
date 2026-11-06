@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Supply of information by relevant Northern Ireland departments or Secretary of State[^key-a38f658c5b053c5d36f838faca38d0a8]
+## 73. Supply of information by relevant Northern Ireland departments or Secretary of State[^c-a38f658c5b053c5d36f838faca38d0a8]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a38f658c5b053c5d36f838faca38d0a8]: Commencement: [S. 73](https://www.legislation.gov.uk/nia/2015/9/section/73) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(r)](https://www.legislation.gov.uk/nisr/2016/417/article/2/r)
+[^c-a38f658c5b053c5d36f838faca38d0a8]: Commencement: [S. 73](https://www.legislation.gov.uk/nia/2015/9/section/73) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(r)](https://www.legislation.gov.uk/nisr/2016/417/article/2/r)

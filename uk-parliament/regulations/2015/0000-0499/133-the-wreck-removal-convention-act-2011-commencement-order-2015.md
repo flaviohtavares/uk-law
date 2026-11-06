@@ -37,13 +37,13 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by section 2 of the Wreck Removal Convention Act 2011[^f00001], makes the following Order.
 
-## 1. Citation and commencement[^key-2897ca630c849bb46ea51590311f5676]
+## 1. Citation and commencement[^c-2897ca630c849bb46ea51590311f5676]
 
 (1) This Order may be cited as the Wreck Removal Convention Act 2011 (Commencement) Order 2015.
 
 (2) In this Order “the Act” means the Wreck Removal Convention Act 2011.
 
-## 2. Provisions coming into force on 5th February 2015[^key-eae7da81eda9a21c7e45ff2ee208e4bd]
+## 2. Provisions coming into force on 5th February 2015[^c-eae7da81eda9a21c7e45ff2ee208e4bd]
 
 (1) Section 1 of the Act comes into force on 5th<sup> </sup>February 2015 insofar as it inserts sections 255A (“the Wrecks Convention”), 255J (Wreck removal insurance), 255N (issue of certificates) and 255R (interpretation etc.) and Schedule 11ZA into the Merchant Shipping Act 1995[^f00002] for the purposes set out in paragraph (2).
 
@@ -53,7 +53,7 @@ The Secretary of State, in exercise of the powers conferred by section 2 of the 
 - (b) to make regulations under section 302 of the Merchant Shipping Act 1995 prescribing the fees to be charged in respect of the issue of such certificates, and
 - (c) by order to describe the United Kingdom’s Convention area.
 
-## 3. Provisions coming into force on 14th April 2015[^key-f1d6524d13a93039ede2610b38214693]
+## 3. Provisions coming into force on 14th April 2015[^c-f1d6524d13a93039ede2610b38214693]
 
 The Act comes into force on 14th April 2015, so far as it is not already in force on that date.
 
@@ -87,10 +87,10 @@ On 14th April 2015, the date when the Convention comes into force, the provision
 
 [^f00001]: Footnote: [2011 c.8](https://www.legislation.gov.uk/ukpga/2011/8).
 
-[^key-2897ca630c849bb46ea51590311f5676]: Commencement: Art. 1 in force at made date
+[^c-2897ca630c849bb46ea51590311f5676]: Commencement: Art. 1 in force at made date
 
-[^key-eae7da81eda9a21c7e45ff2ee208e4bd]: Commencement: Art. 2 in force at made date
+[^c-eae7da81eda9a21c7e45ff2ee208e4bd]: Commencement: Art. 2 in force at made date
 
 [^f00002]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-f1d6524d13a93039ede2610b38214693]: Commencement: Art. 3 in force at made date
+[^c-f1d6524d13a93039ede2610b38214693]: Commencement: Art. 3 in force at made date

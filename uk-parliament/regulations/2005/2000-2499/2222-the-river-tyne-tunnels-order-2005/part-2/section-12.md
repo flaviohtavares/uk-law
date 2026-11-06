@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Trunk roads[^key-6801d97c752c699c92ef7a24c0b46f5e]
+## 12. Trunk roads[^c-6801d97c752c699c92ef7a24c0b46f5e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6801d97c752c699c92ef7a24c0b46f5e]: Commencement: Art. 12 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-6801d97c752c699c92ef7a24c0b46f5e]: Commencement: Art. 12 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

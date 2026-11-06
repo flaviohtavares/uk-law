@@ -61,7 +61,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 - (a) in paragraph (a), for “£5,564” substitute “ £5,668 ”; and
 - (b) in paragraph (b), for “£42,475” substitute “ £41,450 ”.
 
-## 3. Rounding of figures[^key-60d2ee929fc0c2c5b6787e6885947959]
+## 3. Rounding of figures[^c-60d2ee929fc0c2c5b6787e6885947959]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -101,6 +101,6 @@ An analysis of the impact of this legislation has been made. The analysis is pub
 
 [^c2171875]: Marginal citation: [Section 13(1)](https://www.legislation.gov.uk/uksi/2013/667/section/13/1) was amended by [S.I. 2012/1506](https://www.legislation.gov.uk/uksi/2012/1506).
 
-[^key-60d2ee929fc0c2c5b6787e6885947959]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2013/667/article/3) revoked (6.4.2014) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2014 (S.I. 2014/623)](https://www.legislation.gov.uk/uksi/2014/623), [art. 4](https://www.legislation.gov.uk/uksi/2014/623/article/4)
+[^c-60d2ee929fc0c2c5b6787e6885947959]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2013/667/article/3) revoked (6.4.2014) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2014 (S.I. 2014/623)](https://www.legislation.gov.uk/uksi/2014/623), [art. 4](https://www.legislation.gov.uk/uksi/2014/623/article/4)
 
 [^c2171877]: Marginal citation: [S.I. 2012/1506](https://www.legislation.gov.uk/uksi/2012/1506).

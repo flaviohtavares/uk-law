@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Designation of market surveillance authority[^key-ffa57e2bc5e3a9dc699c9f5f69847e68]
+## 51. Designation of market surveillance authority[^c-ffa57e2bc5e3a9dc699c9f5f69847e68]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ffa57e2bc5e3a9dc699c9f5f69847e68]: Commencement: Reg. 51 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-ffa57e2bc5e3a9dc699c9f5f69847e68]: Commencement: Reg. 51 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
 
 [^f00011]: Footnote: [2013 c.32](https://www.legislation.gov.uk/ukpga/2013/32).

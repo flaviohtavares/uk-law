@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Duration of obligation under conservation covenant[^key-39e813402b1aac6f0493583afb80303c][^key-3f87ff2cbc141cbd5fbf092513a5c96e]
+## 121. Duration of obligation under conservation covenant[^c-39e813402b1aac6f0493583afb80303c][^c-3f87ff2cbc141cbd5fbf092513a5c96e]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-39e813402b1aac6f0493583afb80303c]: Commencement: S. 121 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-39e813402b1aac6f0493583afb80303c]: Commencement: S. 121 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-3f87ff2cbc141cbd5fbf092513a5c96e]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2021/30/section/121) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-3f87ff2cbc141cbd5fbf092513a5c96e]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2021/30/section/121) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

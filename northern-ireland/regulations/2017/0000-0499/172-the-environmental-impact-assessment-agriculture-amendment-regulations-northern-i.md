@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, Northern Ireland
 
-The Environmental Impact Assessment (Agriculture) (Amendment) Regulations (Northern Ireland) 2017 (revoked)[^key-59c4bd29cbc35371c74fd8987e1a0152]
+The Environmental Impact Assessment (Agriculture) (Amendment) Regulations (Northern Ireland) 2017 (revoked)[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 Made
 
@@ -42,164 +42,164 @@ Coming into operation
 
 *25th September 2017*
 
-[^key-59c4bd29cbc35371c74fd8987e1a0152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59c4bd29cbc35371c74fd8987e1a0152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 1. Citation and Commencement[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Environmental Impact Assessment (Agriculture) Regulations (Northern Ireland) 2007[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 2. Amendment to the Environmental Impact Assessment (Agriculture) Regulations (Northern Ireland) 2007[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 3.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 4.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 5.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 6.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 7.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 8.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 9.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 10.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 11.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 12.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 13.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 14.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 15.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 16.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 17.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 18.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19.[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 19.[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Transitional Provisions[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## 20. Transitional Provisions[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-59c4bd29cbc35371c74fd8987e1a0152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59c4bd29cbc35371c74fd8987e1a0152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## SCHEDULE 1[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 Regulation 15
 
-> **SCHEDULE 2 — Selection criteria for a screening notice or a screening decision[^key-59c4bd29cbc35371c74fd8987e1a0152]**
+> **SCHEDULE 2 — Selection criteria for a screening notice or a screening decision[^c-59c4bd29cbc35371c74fd8987e1a0152]**
 >
 > Regulations 6 and 8
 >
-> **1.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## SCHEDULE 2[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 Regulation 16
 
-> **SCHEDULE 2A — Information to be provided for a Screening decision[^key-59c4bd29cbc35371c74fd8987e1a0152]**
+> **SCHEDULE 2A — Information to be provided for a Screening decision[^c-59c4bd29cbc35371c74fd8987e1a0152]**
 >
 > Regulation 7
 >
-> **1.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-59c4bd29cbc35371c74fd8987e1a0152]
+## SCHEDULE 3[^c-59c4bd29cbc35371c74fd8987e1a0152]
 
 Regulation 17
 
-> **SCHEDULE 3 — Information for inclusion in the Environmental Statements[^key-59c4bd29cbc35371c74fd8987e1a0152]**
+> **SCHEDULE 3 — Information for inclusion in the Environmental Statements[^c-59c4bd29cbc35371c74fd8987e1a0152]**
 >
-> **PART 1[^key-59c4bd29cbc35371c74fd8987e1a0152]**
+> **PART 1[^c-59c4bd29cbc35371c74fd8987e1a0152]**
 >
-> **1.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 2[^key-59c4bd29cbc35371c74fd8987e1a0152]**
+> **PART 2[^c-59c4bd29cbc35371c74fd8987e1a0152]**
 >
-> **1.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **9.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10.**[^key-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **10.**[^c-59c4bd29cbc35371c74fd8987e1a0152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-59c4bd29cbc35371c74fd8987e1a0152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59c4bd29cbc35371c74fd8987e1a0152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-59c4bd29cbc35371c74fd8987e1a0152]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2017/172) revoked (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [reg. 19](https://www.legislation.gov.uk/nisr/2017/198/regulation/19) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+[^c-59c4bd29cbc35371c74fd8987e1a0152]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2017/172) revoked (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [reg. 19](https://www.legislation.gov.uk/nisr/2017/198/regulation/19) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))

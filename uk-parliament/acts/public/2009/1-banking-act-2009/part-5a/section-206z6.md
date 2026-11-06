@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206Z6. Power to disapply regulation and enforcement provisions[^key-ae09a7768d77aba2c7df294dec95488a]
+## 206Z6. Power to disapply regulation and enforcement provisions[^c-ae09a7768d77aba2c7df294dec95488a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) In subsection (2)—
 
-- “**legislation**” means primary legislation, subordinate legislation (within the meaning of the Interpretation Act 1978) and assimilated direct[^key-2e891acf63497a1862aad9c1f7004015] legislation, but does not include rules or other instruments made by any regulator;
+- “**legislation**” means primary legislation, subordinate legislation (within the meaning of the Interpretation Act 1978) and assimilated direct[^c-2e891acf63497a1862aad9c1f7004015] legislation, but does not include rules or other instruments made by any regulator;
 - “**modify**” includes amend, repeal or revoke.
 
 (4) Before making regulations under this section, the Treasury must consult the Bank of England.
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae09a7768d77aba2c7df294dec95488a]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/2009/1/part/5A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/1)
+[^c-ae09a7768d77aba2c7df294dec95488a]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/2009/1/part/5A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/1)
 
-[^key-2e891acf63497a1862aad9c1f7004015]: Textual amendment: Words in [s. 206Z6(3)](https://www.legislation.gov.uk/ukpga/2009/1/section/206Z6/3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 68(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/68/3)
+[^c-2e891acf63497a1862aad9c1f7004015]: Textual amendment: Words in [s. 206Z6(3)](https://www.legislation.gov.uk/ukpga/2009/1/section/206Z6/3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 68(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/68/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Recovery orders[^key-e638cadfdb68016c449ee3ade31bec6b][^key-9865da71d4e8408da37264d20aa050a6]
+## 16. Recovery orders[^c-e638cadfdb68016c449ee3ade31bec6b][^c-9865da71d4e8408da37264d20aa050a6]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e638cadfdb68016c449ee3ade31bec6b]: Commencement: S. 16 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-e638cadfdb68016c449ee3ade31bec6b]: Commencement: S. 16 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-9865da71d4e8408da37264d20aa050a6]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/28/section/16) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-9865da71d4e8408da37264d20aa050a6]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/28/section/16) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

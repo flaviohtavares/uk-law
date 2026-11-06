@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Penalties for contravention of s. 33[^key-18bb67808a89d795f090668eaa438818][^key-728da30cf305a8882a88af9e4d9fe9cb][^key-4f3816b83408d9d08cbc88cb3fbf6d6e]
+## 37. Penalties for contravention of s. 33[^c-18bb67808a89d795f090668eaa438818][^c-728da30cf305a8882a88af9e4d9fe9cb][^c-4f3816b83408d9d08cbc88cb3fbf6d6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ summary: ''
 
 ## Annotations
 
-[^key-18bb67808a89d795f090668eaa438818]: Textual amendment: S. 37 omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/13) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/3))
+[^c-18bb67808a89d795f090668eaa438818]: Textual amendment: S. 37 omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/13) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/3))
 
-[^key-728da30cf305a8882a88af9e4d9fe9cb]: Commencement: S. 37 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-728da30cf305a8882a88af9e4d9fe9cb]: Commencement: S. 37 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-4f3816b83408d9d08cbc88cb3fbf6d6e]: Commencement: S. 37 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4f3816b83408d9d08cbc88cb3fbf6d6e]: Commencement: S. 37 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Effect of Ministers' decision on right to buy[^key-43294d9b8e9c48d6197dc5f964983c0f]
+## 61. Effect of Ministers' decision on right to buy[^c-43294d9b8e9c48d6197dc5f964983c0f]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43294d9b8e9c48d6197dc5f964983c0f]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2016/18/section/61) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-43294d9b8e9c48d6197dc5f964983c0f]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2016/18/section/61) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

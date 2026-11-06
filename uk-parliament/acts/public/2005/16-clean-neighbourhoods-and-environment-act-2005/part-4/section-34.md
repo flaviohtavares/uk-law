@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Removal of placards and posters[^key-509941e68cca550f68d57e89a8bfc05a][^key-9649f082c9691f381eb44a0a0d7bc70d]
+## 34. Removal of placards and posters[^c-509941e68cca550f68d57e89a8bfc05a][^c-9649f082c9691f381eb44a0a0d7bc70d]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-509941e68cca550f68d57e89a8bfc05a]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2005/16/section/34) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-509941e68cca550f68d57e89a8bfc05a]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2005/16/section/34) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-9649f082c9691f381eb44a0a0d7bc70d]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2005/16/section/34) in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(g)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/g)
+[^c-9649f082c9691f381eb44a0a0d7bc70d]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2005/16/section/34) in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(g)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/g)

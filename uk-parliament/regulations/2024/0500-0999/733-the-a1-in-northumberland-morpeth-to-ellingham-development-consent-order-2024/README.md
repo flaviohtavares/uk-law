@@ -31,7 +31,7 @@ summary: ''
 
 Infrastructure Planning
 
-The A1 in Northumberland: Morpeth to Ellingham Development Consent Order 2024 (revoked)[^key-e814a3de629527b371581567688fbb9d]
+The A1 in Northumberland: Morpeth to Ellingham Development Consent Order 2024 (revoked)[^c-e814a3de629527b371581567688fbb9d]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into force
 
 14th June 2024
 
-[^key-e814a3de629527b371581567688fbb9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e814a3de629527b371581567688fbb9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — PRELIMINARY[^key-e814a3de629527b371581567688fbb9d]
+### PART 1 — PRELIMINARY[^c-e814a3de629527b371581567688fbb9d]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ Coming into force
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Disapplication of legislative provisions](part-1/section-3.md)
 
-### PART 2 — PRINCIPAL POWERS[^key-e814a3de629527b371581567688fbb9d]
+### PART 2 — PRINCIPAL POWERS[^c-e814a3de629527b371581567688fbb9d]
 
 *Extent: E+W*
 
@@ -69,7 +69,7 @@ Coming into force
 - [Section 9 — Benefit of the Order](part-2/section-9.md)
 - [Section 10 — Consent to transfer benefit of the Order](part-2/section-10.md)
 
-### PART 3 — STREETS[^key-e814a3de629527b371581567688fbb9d]
+### PART 3 — STREETS[^c-e814a3de629527b371581567688fbb9d]
 
 *Extent: E+W*
 
@@ -88,7 +88,7 @@ Coming into force
 - [Section 21 — Closure of bus stop lay-bys and parking lay-bys](part-3/section-21.md)
 - [Section 22 — Traffic regulation](part-3/section-22.md)
 
-### PART 4 — SUPPLEMENTAL POWERS[^key-e814a3de629527b371581567688fbb9d]
+### PART 4 — SUPPLEMENTAL POWERS[^c-e814a3de629527b371581567688fbb9d]
 
 *Extent: E+W*
 
@@ -99,7 +99,7 @@ Coming into force
 - [Section 25 — Protective work to buildings](part-4/section-25.md)
 - [Section 26 — Authority to survey and investigate the land](part-4/section-26.md)
 
-### PART 5 — POWERS OF ACQUISITION AND POSSESSION[^key-e814a3de629527b371581567688fbb9d]
+### PART 5 — POWERS OF ACQUISITION AND POSSESSION[^c-e814a3de629527b371581567688fbb9d]
 
 *Extent: E+W*
 
@@ -120,7 +120,7 @@ Coming into force
 - [Section 39 — Apparatus and rights of statutory undertakers in stopped up streets](part-5/section-39.md)
 - [Section 40 — Recovery of costs of new connections](part-5/section-40.md)
 
-### PART 6 — OPERATIONS[^key-e814a3de629527b371581567688fbb9d]
+### PART 6 — OPERATIONS[^c-e814a3de629527b371581567688fbb9d]
 
 *Extent: E+W*
 
@@ -129,7 +129,7 @@ Coming into force
 - [Section 41 — Felling or lopping of trees and removal of hedgerows](part-6/section-41.md)
 - [Section 42 — Trees subject to tree preservation orders](part-6/section-42.md)
 
-### PART 7 — MICELLANEOUS AND GENERAL[^key-e814a3de629527b371581567688fbb9d]
+### PART 7 — MICELLANEOUS AND GENERAL[^c-e814a3de629527b371581567688fbb9d]
 
 *Extent: E+W*
 
@@ -147,7 +147,7 @@ Coming into force
 
 **No longer in force.**
 
-[^key-e814a3de629527b371581567688fbb9d]SCHEDULES
+[^c-e814a3de629527b371581567688fbb9d]SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -166,14 +166,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-e814a3de629527b371581567688fbb9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e814a3de629527b371581567688fbb9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-e814a3de629527b371581567688fbb9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e814a3de629527b371581567688fbb9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e814a3de629527b371581567688fbb9d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/733) revoked (14.11.2025) by [The A1 in Northumberland: Morpeth to Ellingham Development Consent (Revocation) Order 2025 (S.I. 2025/1186)](https://www.legislation.gov.uk/uksi/2025/1186), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1186/article/1), [2](https://www.legislation.gov.uk/uksi/2025/1186/article/2)
+[^c-e814a3de629527b371581567688fbb9d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/733) revoked (14.11.2025) by [The A1 in Northumberland: Morpeth to Ellingham Development Consent (Revocation) Order 2025 (S.I. 2025/1186)](https://www.legislation.gov.uk/uksi/2025/1186), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1186/article/1), [2](https://www.legislation.gov.uk/uksi/2025/1186/article/2)

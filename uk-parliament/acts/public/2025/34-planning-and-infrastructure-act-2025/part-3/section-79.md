@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Enforcement[^key-49a5691072fdaf32327f9384af9dff15][^key-34e27ef327e33f15afee1fa2a642b419]
+## 79. Enforcement[^c-49a5691072fdaf32327f9384af9dff15][^c-34e27ef327e33f15afee1fa2a642b419]
 
 *Extent: E+W*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49a5691072fdaf32327f9384af9dff15]: Commencement: S. 79 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-49a5691072fdaf32327f9384af9dff15]: Commencement: S. 79 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-34e27ef327e33f15afee1fa2a642b419]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2025/34/section/79) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-34e27ef327e33f15afee1fa2a642b419]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2025/34/section/79) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

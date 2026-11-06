@@ -66,7 +66,7 @@ These Regulations—
 In these Regulations—
 
 - “**the Agency**” means the Environment Agency;
-- “the appropriate agency” means (except as provided in regulation 4)—[^key-2c2057d3e5b9ae3655bed09d013d2483]
+- “the appropriate agency” means (except as provided in regulation 4)—[^c-2c2057d3e5b9ae3655bed09d013d2483]
   - (a) in relation to England, the Agency, and
   - (b) in relation to Wales, the NRBW;
 - “**appointed person**” has the meaning given in paragraph 2 of the Schedule;
@@ -100,7 +100,7 @@ In these Regulations—
 
 ### 4. Records
 
-(1) An aquaculture production business operator must keep a record, in such form and manner as the appropriate agency[^key-c3f01c42a55757412b466dfd3586b283] may specify, of—
+(1) An aquaculture production business operator must keep a record, in such form and manner as the appropriate agency[^c-c3f01c42a55757412b466dfd3586b283] may specify, of—
 
 - (a) any eels of 12 centimetres or less received at their aquaculture production business;
 - (b) the name and fishing licence identification number of the person who caught the eels;
@@ -110,7 +110,7 @@ In these Regulations—
 
 (3) Failure to comply with paragraph (1) or (2) is an offence.
 
-(4)[^key-f01fbb7e19a18f775bc0135fb9326c00] For the purposes of this regulation, “the appropriate agency” means—
+(4)[^c-f01fbb7e19a18f775bc0135fb9326c00] For the purposes of this regulation, “the appropriate agency” means—
 
 - (a) in relation to business premises in England, the Agency;
 - (b) in relation to business premises in Wales, the NRBW; and
@@ -133,29 +133,29 @@ In these Regulations—
 (1) Any person who exports live eels from England or Wales must—
 
 - (a) record where and the date on which the eels were obtained, including the name of the aquaculture production business, the food business or the eel river basin in which the eels were caught (as the case may be) and, in the case of eels obtained from an eel river basin, the name and fishing licence identification number of the person who caught the eels;
-- (b) be satisfied that eels obtained from an eel river basin are caught in a manner consistent with the eel management plan prepared for that eel river basin; [^key-13480d95b47a2bf73277eed93c0bfbf2]...
-- (c) prepare, sign and date a certificate to that effect ;[^key-9f03f52a80047da5573c2554f6581a8a]
+- (b) be satisfied that eels obtained from an eel river basin are caught in a manner consistent with the eel management plan prepared for that eel river basin; [^c-13480d95b47a2bf73277eed93c0bfbf2]...
+- (c) prepare, sign and date a certificate to that effect ;[^c-9f03f52a80047da5573c2554f6581a8a]
 - (d) ensure that the eels they export are accompanied by a copy of the certificate prepared under sub-paragraph (c); and
-- (e) retain all certificates prepared under this paragraph for 12 months from the date of the certificate and allow the Agency , where those certificates are retained in England, or the[^key-39361e98d5b01a620411b4c5a472ddeb] NRBW, where those certificates are retained in Wales, to inspect those certificates at any reasonable time.
+- (e) retain all certificates prepared under this paragraph for 12 months from the date of the certificate and allow the Agency , where those certificates are retained in England, or the[^c-39361e98d5b01a620411b4c5a472ddeb] NRBW, where those certificates are retained in Wales, to inspect those certificates at any reasonable time.
 
-(2) For the purposes of this regulation an eel management plan is a plan marked as such [^c2005020], dated March 2010[^key-012cbe418c2667d4691b0995b92b3faa] and deposited at the offices of the Secretary of State for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR.
+(2) For the purposes of this regulation an eel management plan is a plan marked as such [^c2005020], dated March 2010[^c-012cbe418c2667d4691b0995b92b3faa] and deposited at the offices of the Secretary of State for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR.
 
 (3) Failure to comply with paragraph (1) is an offence.
 
-### 7. Duties on consignees[^key-da6d074e52d4be0ec5f6a49371e3f8cd]
+### 7. Duties on consignees[^c-da6d074e52d4be0ec5f6a49371e3f8cd]
 
 (1) A person must not accept a consignment of live eels that has been imported into England and Wales unless the consignment is accompanied by—
 
 - (a) a certificate prepared under regulation 5; and
 - (b) where live eels from another imported consignment have been added to the consignment, a copy of the certificate prepared under regulation 5 in relation to that other consignment.
 
-(2) The consignee must retain all certificates and (where applicable) copies of certificates for 12 months from the date of the document and allow the Agency, where those documents are retained in England, or the[^key-4bfe331f46e3cbf1799acefffe458024] NRBW, where those documents are retained in Wales, to inspect those documents at any reasonable time.
+(2) The consignee must retain all certificates and (where applicable) copies of certificates for 12 months from the date of the document and allow the Agency, where those documents are retained in England, or the[^c-4bfe331f46e3cbf1799acefffe458024] NRBW, where those documents are retained in Wales, to inspect those documents at any reasonable time.
 
 (3) Failure to comply with paragraph (1) or (2) is an offence.
 
 ### 8. Restocking
 
-(1) The appropriate agency[^key-1bcfa9eb38112e740d4014b29d45aadf] may, by service of a notice, require an aquaculture production business operator to place on the market, for use in the restocking of eel river basins, eels of 12 centimetres or less held by the business.
+(1) The appropriate agency[^c-1bcfa9eb38112e740d4014b29d45aadf] may, by service of a notice, require an aquaculture production business operator to place on the market, for use in the restocking of eel river basins, eels of 12 centimetres or less held by the business.
 
 (2) A notice must specify—
 
@@ -187,7 +187,7 @@ In these Regulations—
 In this Part—
 
 - “**aquaculture production business**” and “**aquaculture production business operator**” have the same meaning as in Council Directive [2006/88/EC](https://www.legislation.gov.uk/european/directive/2006/0088) [^c2005021] on animal health requirements for aquaculture animals and products thereof, and on the prevention and control of certain diseases in aquatic animals;
-- “eel river basin” is a river basin for which there is an Eel Management Plan as defined in Article 1A[^key-397ec5a317e7a90cb9dd2f79f38453f1] of Council Regulation [(EC) No 1100/2007](https://www.legislation.gov.uk/european/regulation/2007/1100) [^c2005022] establishing measures for the recovery of the stock of European eel.
+- “eel river basin” is a river basin for which there is an Eel Management Plan as defined in Article 1A[^c-397ec5a317e7a90cb9dd2f79f38453f1] of Council Regulation [(EC) No 1100/2007](https://www.legislation.gov.uk/european/regulation/2007/1100) [^c2005022] establishing measures for the recovery of the stock of European eel.
 
 ## PART 3 — Eel Licences
 
@@ -206,11 +206,11 @@ In this Part—
 - (a) for eels of 12 centimetres or less in length, the period beginning on 26th May 2010 and ending on 14th February 2011; and
 - (b) for all other eels, the period beginning on 1st October 2010 and ending on 31st March 2011.
 
-### 11. Reduction of fishing effort[^key-6ae4365069646f33af12d42750be9574]
+### 11. Reduction of fishing effort[^c-6ae4365069646f33af12d42750be9574]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Passage of eels[^key-699fe3379c926f84ce99905a21c03d24][^key-c2ef44a9d0655b0b125de29e852af74e][^key-216bc013578fce83269b7a0b9db2808e][^key-64c1f36748d0bed191bfa2ad13aee413]
+## PART 4 — Passage of eels[^c-699fe3379c926f84ce99905a21c03d24][^c-c2ef44a9d0655b0b125de29e852af74e][^c-216bc013578fce83269b7a0b9db2808e][^c-64c1f36748d0bed191bfa2ad13aee413]
 
 ### 12. Construction, alteration etc of obstruction
 
@@ -220,7 +220,7 @@ In this Part—
 - (b) alterations or maintenance made to an existing dam that are likely to affect the passage of eels around, over or through the dam;
 - (c) the construction or maintenance of a structure in or near waters that amounts to, or is likely to amount to, an obstruction.
 
-(2) Any person who constructs, alters or maintains a dam or structure must first notify the appropriate agency[^key-548390d2cdfeee3b3e91ce2da32cb79f].
+(2) Any person who constructs, alters or maintains a dam or structure must first notify the appropriate agency[^c-548390d2cdfeee3b3e91ce2da32cb79f].
 
 (3) An application for, or variation of, a licence to abstract water or for impounding works under section 24 or 25 of the Water Resources Act 1991 [^c2005025] is deemed to be notification for the purposes of this regulation.
 
@@ -281,7 +281,7 @@ In this Part—
 - (a) any diversion structure capable of abstracting at least 20 cubic metres of water through any one point in any 24-hour period; and
 - (b) any diversion structure returning water to a channel, bed or sea.
 
-(2) Before 1st January 2015, the appropriate agency[^key-ea93a1e60c071bf3152daadf1524d673] may, by service of a notice, require a responsible person to place an eel screen in a diversion structure.
+(2) Before 1st January 2015, the appropriate agency[^c-ea93a1e60c071bf3152daadf1524d673] may, by service of a notice, require a responsible person to place an eel screen in a diversion structure.
 
 (3) The notice may specify the dimensions and type of screen and where it is to be placed in the diversion structure.
 
@@ -317,7 +317,7 @@ In this Part—
 
 (3) Failure to comply with paragraph (1) or (2) is an offence.
 
-### 20. Action by the appropriate agency[^key-38895b4c8bb1be9a6627f76b3aa2960f]
+### 20. Action by the appropriate agency[^c-38895b4c8bb1be9a6627f76b3aa2960f]
 
 (1) Any action required under this Part may be carried out by the appropriate agency instead of the responsible person—
 
@@ -329,7 +329,7 @@ In this Part—
 
 ### 21. Abstraction and impounding works licences
 
-(1) Notwithstanding sections 24 and 25 of the Water Resources Act 1991, any action required by the appropriate agency[^key-4a14b3730e2da23460f054bad79ab596] under this Part does not constitute an abstraction or impounding works for the purposes of that Act.
+(1) Notwithstanding sections 24 and 25 of the Water Resources Act 1991, any action required by the appropriate agency[^c-4a14b3730e2da23460f054bad79ab596] under this Part does not constitute an abstraction or impounding works for the purposes of that Act.
 
 (2) A notice served under this Part may disapply any condition relating to the passage of eels in an abstraction or impounding works licence granted under that Act.
 
@@ -396,9 +396,9 @@ In this Part a “**responsible person**” in relation to a dam, diversion stru
 
 ### 26. Entry and inspection of land etc
 
-(1) Any person designated in writing by the appropriate agency[^key-3ce4b3188d89bf8a6964f065ab061b92] to enforce these Regulations—
+(1) Any person designated in writing by the appropriate agency[^c-3ce4b3188d89bf8a6964f065ab061b92] to enforce these Regulations—
 
-- (a) may enter and inspect any land, premises, dam, diversion structure, eel pass, fish pass or obstruction at any reasonable time for the purposes of administering and enforcing these Regulations as they apply in relation to England (in the case of a person designated by the Agency) or in relation to Wales (in the case of a person designated by the Natural Resources Body for Wales)[^key-9d6d3fd48b1cdebd0b40562c66a106bf];
+- (a) may enter and inspect any land, premises, dam, diversion structure, eel pass, fish pass or obstruction at any reasonable time for the purposes of administering and enforcing these Regulations as they apply in relation to England (in the case of a person designated by the Agency) or in relation to Wales (in the case of a person designated by the Natural Resources Body for Wales)[^c-9d6d3fd48b1cdebd0b40562c66a106bf];
 - (b) may be accompanied by any person, equipment or vehicle as that person considers necessary;
 - (c) may not enter any premises which are a dwelling unless a justice of the peace has issued a warrant authorising them to do so.
 
@@ -411,7 +411,7 @@ In this Part a “**responsible person**” in relation to a dam, diversion stru
 
 whichever is the sooner.
 
-(4) A person designated by the appropriate agency[^key-52323be97035b1092c94691a0d5efa09] under paragraph (1) may require any person—
+(4) A person designated by the appropriate agency[^c-52323be97035b1092c94691a0d5efa09] under paragraph (1) may require any person—
 
 - (a) to produce any document or record that is in that person's possession or control;
 - (b) to render any such document or record on a computer system into a visible and legible form, including requiring it to be produced in a form in which it may be taken away.
@@ -463,7 +463,7 @@ Regulation 25
 
 **2.** Once notification of appeal is received, the appropriate authority must appoint within a reasonable time a person (“**the appointed person**”) to deal with the appeal and the appeal must be conducted by written procedure.
 
-**3.** At the same time as notification is given to the appropriate authority, the appellant must send a copy of the notification and grounds of appeal to the appropriate agency[^key-5c58da9df843906b627558d76ee93a98], and the appropriate agency must immediately send a copy to any person who appears to it to have a particular interest in the subject matter of the appeal, and notify the appointed person, the appropriate authority and the appellant whom it has notified.
+**3.** At the same time as notification is given to the appropriate authority, the appellant must send a copy of the notification and grounds of appeal to the appropriate agency[^c-5c58da9df843906b627558d76ee93a98], and the appropriate agency must immediately send a copy to any person who appears to it to have a particular interest in the subject matter of the appeal, and notify the appointed person, the appropriate authority and the appellant whom it has notified.
 
 **4.** As soon as a person has been appointed under paragraph 2, the appropriate authority must notify the appellant of the time limit within which the appellant must provide to that person in writing and copied to the appropriate agency—
 
@@ -507,35 +507,35 @@ An impact assessment has been prepared and placed in the libraries of both House
 
 [^c2005017]: Marginal citation: [S.I. 2006/2913](https://www.legislation.gov.uk/uksi/2006/2913).
 
-[^key-2c2057d3e5b9ae3655bed09d013d2483]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/3344/regulation/2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 355](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/355) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-2c2057d3e5b9ae3655bed09d013d2483]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/3344/regulation/2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 355](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/355) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c2005018]: Marginal citation: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
 
 [^c2005019]: Marginal citation: Eel catch returns are required by the National Fisheries Byelaws Phase 2 2001 made under the [Water Resources Act 1991 (c.57)](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-c3f01c42a55757412b466dfd3586b283]: Textual amendment: Words in reg. 4 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 356(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/356/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c3f01c42a55757412b466dfd3586b283]: Textual amendment: Words in reg. 4 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 356(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/356/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-f01fbb7e19a18f775bc0135fb9326c00]: Textual amendment: Reg. 4(4)(5) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 356(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/356/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-f01fbb7e19a18f775bc0135fb9326c00]: Textual amendment: Reg. 4(4)(5) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 356(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/356/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-13480d95b47a2bf73277eed93c0bfbf2]: Textual amendment: Word in reg. 6(1) omitted (3.1.2012) by virtue of [The Eels (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2976)](https://www.legislation.gov.uk/uksi/2011/2976), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/2/2/a)
+[^c-13480d95b47a2bf73277eed93c0bfbf2]: Textual amendment: Word in reg. 6(1) omitted (3.1.2012) by virtue of [The Eels (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2976)](https://www.legislation.gov.uk/uksi/2011/2976), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/2/2/a)
 
-[^key-9f03f52a80047da5573c2554f6581a8a]: Textual amendment: Reg. 6(1)(d)(e) added (3.1.2012) by [The Eels (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2976)](https://www.legislation.gov.uk/uksi/2011/2976), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/2/2/b)
+[^c-9f03f52a80047da5573c2554f6581a8a]: Textual amendment: Reg. 6(1)(d)(e) added (3.1.2012) by [The Eels (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2976)](https://www.legislation.gov.uk/uksi/2011/2976), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/2/2/b)
 
-[^key-39361e98d5b01a620411b4c5a472ddeb]: Textual amendment: Words in reg. 6(1)(e) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 357](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/357) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-39361e98d5b01a620411b4c5a472ddeb]: Textual amendment: Words in reg. 6(1)(e) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 357](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/357) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c2005020]: Marginal citation: Eel management plans, for illustrative purposes only, can be accessed on http://www.defra.gov.uk/foodfarm/fisheries/freshwater/fishman.htm#emp but the version deposited at the offices of the Secretary of State is the definitive version.
 
-[^key-012cbe418c2667d4691b0995b92b3faa]: Textual amendment: Words in reg. 6(2) substituted (3.1.2012) by [The Eels (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2976)](https://www.legislation.gov.uk/uksi/2011/2976), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/2/3)
+[^c-012cbe418c2667d4691b0995b92b3faa]: Textual amendment: Words in reg. 6(2) substituted (3.1.2012) by [The Eels (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2976)](https://www.legislation.gov.uk/uksi/2011/2976), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/2/3)
 
-[^key-da6d074e52d4be0ec5f6a49371e3f8cd]: Textual amendment: Reg. 7 substituted (3.1.2012) by [The Eels (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2976)](https://www.legislation.gov.uk/uksi/2011/2976), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/2/4)
+[^c-da6d074e52d4be0ec5f6a49371e3f8cd]: Textual amendment: Reg. 7 substituted (3.1.2012) by [The Eels (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2976)](https://www.legislation.gov.uk/uksi/2011/2976), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2011/2976/regulation/2/4)
 
-[^key-4bfe331f46e3cbf1799acefffe458024]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2009/3344/regulation/7/2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 358](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/358) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-4bfe331f46e3cbf1799acefffe458024]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2009/3344/regulation/7/2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 358](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/358) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-1bcfa9eb38112e740d4014b29d45aadf]: Textual amendment: Words in reg. 8 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 359](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/359) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1bcfa9eb38112e740d4014b29d45aadf]: Textual amendment: Words in reg. 8 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 359](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/359) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c2005021]: Marginal citation: OJ No L 328, 24.11.2006, p14; corrected by OJ No L 140, 1.6.2007, p59, OJ No L 239, 12.9.2007, p70.
 
-[^key-397ec5a317e7a90cb9dd2f79f38453f1]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2009/3344/regulation/9) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/746/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-397ec5a317e7a90cb9dd2f79f38453f1]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2009/3344/regulation/9) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/746/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c2005022]: Marginal citation: OJ No L 248, 22.9.2007, p17.
 
@@ -543,32 +543,32 @@ An impact assessment has been prepared and placed in the libraries of both House
 
 [^c2005024]: Marginal citation: Subsequent close seasons will be set down in byelaws made under the Water Resources Act 1991.
 
-[^key-6ae4365069646f33af12d42750be9574]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/3344/regulation/11) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2019/746/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ae4365069646f33af12d42750be9574]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/3344/regulation/11) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2019/746/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-699fe3379c926f84ce99905a21c03d24]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/2009/3344/part/4) excluded (22.8.2013) by [The Leeds Railway Station (Southern Entrance) Order 2013 (S.I. 2013/1933)](https://www.legislation.gov.uk/uksi/2013/1933), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2013/1933/article/3/7/b) (with [art. 3(8)](https://www.legislation.gov.uk/uksi/2013/1933/article/3/8))
+[^c-699fe3379c926f84ce99905a21c03d24]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/2009/3344/part/4) excluded (22.8.2013) by [The Leeds Railway Station (Southern Entrance) Order 2013 (S.I. 2013/1933)](https://www.legislation.gov.uk/uksi/2013/1933), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2013/1933/article/3/7/b) (with [art. 3(8)](https://www.legislation.gov.uk/uksi/2013/1933/article/3/8))
 
-[^key-c2ef44a9d0655b0b125de29e852af74e]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/2009/3344/part/4) modified (16.12.2015) by [The Network Rail (Tinsley Chord) Order 2015 (S.I. 2015/1876)](https://www.legislation.gov.uk/uksi/2015/1876), [art. 1](https://www.legislation.gov.uk/uksi/2015/1876/article/1), [Sch. 8 para. 12](https://www.legislation.gov.uk/uksi/2015/1876/schedule/8/paragraph/12)
+[^c-c2ef44a9d0655b0b125de29e852af74e]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/2009/3344/part/4) modified (16.12.2015) by [The Network Rail (Tinsley Chord) Order 2015 (S.I. 2015/1876)](https://www.legislation.gov.uk/uksi/2015/1876), [art. 1](https://www.legislation.gov.uk/uksi/2015/1876/article/1), [Sch. 8 para. 12](https://www.legislation.gov.uk/uksi/2015/1876/schedule/8/paragraph/12)
 
-[^key-216bc013578fce83269b7a0b9db2808e]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/2009/3344/part/4) excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2017/7/schedule/21/paragraph/8)
+[^c-216bc013578fce83269b7a0b9db2808e]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/2009/3344/part/4) excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2017/7/schedule/21/paragraph/8)
 
-[^key-64c1f36748d0bed191bfa2ad13aee413]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/2009/3344/part/4) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2021/2/schedule/21/paragraph/7)
+[^c-64c1f36748d0bed191bfa2ad13aee413]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/2009/3344/part/4) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2021/2/schedule/21/paragraph/7)
 
-[^key-548390d2cdfeee3b3e91ce2da32cb79f]: Textual amendment: Words in regs. 12-14 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 359](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/359) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-548390d2cdfeee3b3e91ce2da32cb79f]: Textual amendment: Words in regs. 12-14 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 359](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/359) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c2005025]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-ea93a1e60c071bf3152daadf1524d673]: Textual amendment: Words in reg. 17 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 359](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/359) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ea93a1e60c071bf3152daadf1524d673]: Textual amendment: Words in reg. 17 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 359](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/359) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-38895b4c8bb1be9a6627f76b3aa2960f]: Textual amendment: Words in reg. 20 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 359](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/359) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-38895b4c8bb1be9a6627f76b3aa2960f]: Textual amendment: Words in reg. 20 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 359](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/359) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-4a14b3730e2da23460f054bad79ab596]: Textual amendment: Words in reg. 21 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 359](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/359) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-4a14b3730e2da23460f054bad79ab596]: Textual amendment: Words in reg. 21 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 359](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/359) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c2005026]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-3ce4b3188d89bf8a6964f065ab061b92]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2009/3344/regulation/26/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 360(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/360/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3ce4b3188d89bf8a6964f065ab061b92]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2009/3344/regulation/26/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 360(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/360/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-9d6d3fd48b1cdebd0b40562c66a106bf]: Textual amendment: Words in [reg. 26(1)(a)](https://www.legislation.gov.uk/uksi/2009/3344/regulation/26/1/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 360(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/360/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9d6d3fd48b1cdebd0b40562c66a106bf]: Textual amendment: Words in [reg. 26(1)(a)](https://www.legislation.gov.uk/uksi/2009/3344/regulation/26/1/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 360(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/360/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-52323be97035b1092c94691a0d5efa09]: Textual amendment: Words in [reg. 26(4)](https://www.legislation.gov.uk/uksi/2009/3344/regulation/26/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 360(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/360/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-52323be97035b1092c94691a0d5efa09]: Textual amendment: Words in [reg. 26(4)](https://www.legislation.gov.uk/uksi/2009/3344/regulation/26/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 360(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/360/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-5c58da9df843906b627558d76ee93a98]: Textual amendment: Words in [Sch. paras. 3-5](https://www.legislation.gov.uk/uksi/2009/3344/schedule/paragraph/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 361](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/361) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5c58da9df843906b627558d76ee93a98]: Textual amendment: Words in [Sch. paras. 3-5](https://www.legislation.gov.uk/uksi/2009/3344/schedule/paragraph/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 361](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/361) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

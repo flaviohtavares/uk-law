@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Compliance notices[^key-cd368bb93b0ac306d81323e1ad8e98a3]
+## 44. Compliance notices[^c-cd368bb93b0ac306d81323e1ad8e98a3]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd368bb93b0ac306d81323e1ad8e98a3]: Commencement: [S. 44](https://www.legislation.gov.uk/mwa/2011/1/section/44) in force at 17.4.2012 by [S.I. 2012/1096](https://www.legislation.gov.uk/wsi/2012/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/1096/article/2/c)
+[^c-cd368bb93b0ac306d81323e1ad8e98a3]: Commencement: [S. 44](https://www.legislation.gov.uk/mwa/2011/1/section/44) in force at 17.4.2012 by [S.I. 2012/1096](https://www.legislation.gov.uk/wsi/2012/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/1096/article/2/c)

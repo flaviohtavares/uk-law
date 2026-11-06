@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Filing of Gazette notices and advertisements[^key-c4e714ed8e7e7348df90360307a09546]
+## 57. Filing of Gazette notices and advertisements[^c-c4e714ed8e7e7348df90360307a09546]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4e714ed8e7e7348df90360307a09546]: Commencement: [Rule 57](https://www.legislation.gov.uk/uksi/2007/3141/rule/57) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-c4e714ed8e7e7348df90360307a09546]: Commencement: [Rule 57](https://www.legislation.gov.uk/uksi/2007/3141/rule/57) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

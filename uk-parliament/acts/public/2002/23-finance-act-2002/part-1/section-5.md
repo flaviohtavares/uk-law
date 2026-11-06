@@ -42,7 +42,7 @@ summary: ''
 
 .
 
-(3)[^key-ef9d5374a57821f187598198b071624c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ef9d5374a57821f187598198b071624c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) After section 6 (excise duty on hydrocarbon oil) insert—
 
@@ -133,6 +133,6 @@ and has not been set aside for chargeable use under section 6A of that Act (fuel
 
 ## Annotations
 
-[^key-ef9d5374a57821f187598198b071624c]: Textual amendment: S. 5(3) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 25(d)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/d/i), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
+[^c-ef9d5374a57821f187598198b071624c]: Textual amendment: S. 5(3) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 25(d)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/d/i), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
 
 [^c10569691]: Subordinate legislation: S. 5(6)(a) power fully exercised: 25.7.2002 appointed by [S.I. 2002/1926](https://www.legislation.gov.uk/uksi/2002/1926), [art. 2](https://www.legislation.gov.uk/uksi/2002/1926/article/2)

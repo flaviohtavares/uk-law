@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 264. Right to cancel during cooling-off periods[^key-17034e2fb00bcb16e97fd3c8297a92b2]
+## 264. Right to cancel during cooling-off periods[^c-17034e2fb00bcb16e97fd3c8297a92b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17034e2fb00bcb16e97fd3c8297a92b2]: Commencement: S. 264 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-17034e2fb00bcb16e97fd3c8297a92b2]: Commencement: S. 264 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

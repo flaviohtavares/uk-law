@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Amendment of the Immigration and Asylum Act 1999[^key-8418860cf10bda782826a02a57839e8b][^M_I_ad7d587c-ad1d-430e-9dc2-8ebeb0871dd8][^key-f3c2117819d43d237f2d5022cafd84ff]
+## 12. Amendment of the Immigration and Asylum Act 1999[^c-8418860cf10bda782826a02a57839e8b][^M_I_ad7d587c-ad1d-430e-9dc2-8ebeb0871dd8][^c-f3c2117819d43d237f2d5022cafd84ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 > - (b) an Irish citizen,
 > - (c) a person who has leave to enter or remain in the United Kingdom which was granted by virtue of residence scheme immigration rules.
 
-(3)[^key-f3c2117819d43d237f2d5022cafd84ff] In section 24 (duty to report suspicious marriages) [^c24398461], in subsection (6), in the definition of “relevant national”—
+(3)[^c-f3c2117819d43d237f2d5022cafd84ff] In section 24 (duty to report suspicious marriages) [^c24398461], in subsection (6), in the definition of “relevant national”—
 
 - (a) after paragraph (a) insert—
 
@@ -74,11 +74,11 @@ summary: ''
 
 ## Annotations
 
-[^key-8418860cf10bda782826a02a57839e8b]: Commencement: Reg. 12(1)(2)(5)-(9) not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-8418860cf10bda782826a02a57839e8b]: Commencement: Reg. 12(1)(2)(5)-(9) not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_ad7d587c-ad1d-430e-9dc2-8ebeb0871dd8]: Commencement: Reg. 12(1)(2)(5)-(9) in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 
-[^key-f3c2117819d43d237f2d5022cafd84ff]: Commencement: Reg. 12(3)(4) in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
+[^c-f3c2117819d43d237f2d5022cafd84ff]: Commencement: Reg. 12(3)(4) in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
 
 [^c24398441]: Marginal citation: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 

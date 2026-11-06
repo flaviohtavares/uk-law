@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Directions specifying that development is not a significant infrastructure project[^key-bb7c157f9a5917ec91080f460d851240][^key-e37eece2d9c7b3b382ad0711accc3221]
+## 24. Directions specifying that development is not a significant infrastructure project[^c-bb7c157f9a5917ec91080f460d851240][^c-e37eece2d9c7b3b382ad0711accc3221]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb7c157f9a5917ec91080f460d851240]: Commencement: S. 24 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-bb7c157f9a5917ec91080f460d851240]: Commencement: S. 24 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-e37eece2d9c7b3b382ad0711accc3221]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2024/3/section/24) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-e37eece2d9c7b3b382ad0711accc3221]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2024/3/section/24) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

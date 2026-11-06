@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Section 993 of ITA 2007[^key-61d32e3ebba11e4fe461c18837a8fb54] (how to tell whether persons are connected) applies for the purposes of this Act.
+Section 993 of ITA 2007[^c-61d32e3ebba11e4fe461c18837a8fb54] (how to tell whether persons are connected) applies for the purposes of this Act.
 
 ## Annotations
 
-[^key-61d32e3ebba11e4fe461c18837a8fb54]: Textual amendment: Words in s. 718 substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 442](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/442) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-61d32e3ebba11e4fe461c18837a8fb54]: Textual amendment: Words in s. 718 substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 442](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/442) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

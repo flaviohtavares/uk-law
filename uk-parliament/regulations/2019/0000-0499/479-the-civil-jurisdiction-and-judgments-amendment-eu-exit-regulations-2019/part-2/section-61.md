@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61.[^key-32dfab32bbb8213af6c6473ec8fc2d6b]
+## 61.[^c-32dfab32bbb8213af6c6473ec8fc2d6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 8 (rules as to jurisdiction in Scotland), in paragraph 3, omit sub-p
 
 ## Annotations
 
-[^key-32dfab32bbb8213af6c6473ec8fc2d6b]: Commencement: Reg. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-32dfab32bbb8213af6c6473ec8fc2d6b]: Commencement: Reg. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)

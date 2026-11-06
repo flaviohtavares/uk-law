@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Exclusion of UN designated persons from the Territory[^key-85395d1aeb835aa8ffce3c038202b11c]
+## 4. Exclusion of UN designated persons from the Territory[^c-85395d1aeb835aa8ffce3c038202b11c]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,7 +77,7 @@ summary: ''
 
 ## Annotations
 
-[^key-85395d1aeb835aa8ffce3c038202b11c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2020/1561/article/4) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1561/article/1/1)
+[^c-85395d1aeb835aa8ffce3c038202b11c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2020/1561/article/4) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1561/article/1/1)
 
 [^f00007]: Footnote: ETS Numbers 005, 009, 046, 114, 117, 177, 187 and CETS Numbers 194, 213 and 214.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Amendment of regulation 84[^key-36bea5574a49d9e090a441ed95b3dcee]
+## 37. Amendment of regulation 84[^c-36bea5574a49d9e090a441ed95b3dcee]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36bea5574a49d9e090a441ed95b3dcee]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2006/2910/regulation/37) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-36bea5574a49d9e090a441ed95b3dcee]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2006/2910/regulation/37) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

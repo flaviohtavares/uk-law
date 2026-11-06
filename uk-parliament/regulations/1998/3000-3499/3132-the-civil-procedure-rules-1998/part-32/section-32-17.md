@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.17. Affidavit made outside the jurisdiction[^key-e8b8a68f0cc2059817a2e6d0629b88ee]
+## 32.17. Affidavit made outside the jurisdiction[^c-e8b8a68f0cc2059817a2e6d0629b88ee]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A person may make an affidavit<sup>(GL)</sup> outside the jurisdiction in accord
 
 ## Annotations
 
-[^key-e8b8a68f0cc2059817a2e6d0629b88ee]: Commencement: [Rule 32.17](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.17) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-e8b8a68f0cc2059817a2e6d0629b88ee]: Commencement: [Rule 32.17](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.17) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

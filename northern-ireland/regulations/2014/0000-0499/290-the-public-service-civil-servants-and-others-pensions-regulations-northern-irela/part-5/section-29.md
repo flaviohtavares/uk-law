@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Descriptions of accrued pension[^key-a0cd18465373471b0fdb69f74cf86009]
+## 29. Descriptions of accrued pension[^c-a0cd18465373471b0fdb69f74cf86009]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ For the purpose of these Regulations, the descriptions of accrued pension are—
 
 ## Annotations
 
-[^key-a0cd18465373471b0fdb69f74cf86009]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2014/290/regulation/29) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-a0cd18465373471b0fdb69f74cf86009]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2014/290/regulation/29) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

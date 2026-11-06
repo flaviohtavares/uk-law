@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64A. Bad debt relief[^key-b1b6ff7047c2c850f0c8c5aea1217811]
+## 64A. Bad debt relief[^c-b1b6ff7047c2c850f0c8c5aea1217811]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a person accounts for and pays VAT in relation to a supply in accordance w
 
 ## Annotations
 
-[^key-b1b6ff7047c2c850f0c8c5aea1217811]: Textual amendment: [Reg. 64A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/64A) inserted (1.4.2004) by [The Value Added Tax (Amendment) Regulations 2004 (S.I. 2004/767)](https://www.legislation.gov.uk/uksi/2004/767), [regs. 1](https://www.legislation.gov.uk/uksi/2004/767/regulation/1), [10](https://www.legislation.gov.uk/uksi/2004/767/regulation/10)
+[^c-b1b6ff7047c2c850f0c8c5aea1217811]: Textual amendment: [Reg. 64A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/64A) inserted (1.4.2004) by [The Value Added Tax (Amendment) Regulations 2004 (S.I. 2004/767)](https://www.legislation.gov.uk/uksi/2004/767), [regs. 1](https://www.legislation.gov.uk/uksi/2004/767/regulation/1), [10](https://www.legislation.gov.uk/uksi/2004/767/regulation/10)

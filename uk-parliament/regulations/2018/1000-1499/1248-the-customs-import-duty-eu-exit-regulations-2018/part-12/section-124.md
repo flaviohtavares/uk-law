@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Method 4 valuation – fresh fruit and vegetables[^key-b08005bf0306c5d27112c7f82c223698][^key-3b215733b0bd1af66993893b5fdf4612][^key-3b215733b0bd1af66993893b5fdf4612]
+## 124. Method 4 valuation – fresh fruit and vegetables[^c-b08005bf0306c5d27112c7f82c223698][^c-3b215733b0bd1af66993893b5fdf4612][^c-3b215733b0bd1af66993893b5fdf4612]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,8 +30,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b08005bf0306c5d27112c7f82c223698]: Commencement: Reg. 124 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b08005bf0306c5d27112c7f82c223698]: Commencement: Reg. 124 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-3b215733b0bd1af66993893b5fdf4612]: Modification: Pt. 12 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-3b215733b0bd1af66993893b5fdf4612]: Modification: Pt. 12 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23522501]: Marginal citation: Available from: https://www.gov.uk/government/collections/customs-vat-and-excise-regulations-leaving-the-eu-with-no-deal. A hard copy is available for inspection free of charge at the offices of HMRC at 100 Parliament Street, London, SW1A 2BQ.

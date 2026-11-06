@@ -63,17 +63,17 @@ Section 10
 
 #### Introductory
 
-**3.**[^key-cceda1c019e8d394fcdf2fc5526d8091] This Part has effect in relation to development in the area of a unitary authority.
+**3.**[^c-cceda1c019e8d394fcdf2fc5526d8091] This Part has effect in relation to development in the area of a unitary authority.
 
 #### Planning regimes
 
-**4.**[^key-074c0af5414b7889db690e287477db29] (1) The requirement set out in paragraph 5 shall be a condition of the deemed planning permission, so far as relating to relevant development in the area of a unitary authority which is not a qualifying authority for the purposes of this Schedule.
+**4.**[^c-074c0af5414b7889db690e287477db29] (1) The requirement set out in paragraph 5 shall be a condition of the deemed planning permission, so far as relating to relevant development in the area of a unitary authority which is not a qualifying authority for the purposes of this Schedule.
 
 (2) For the purposes of sub-paragraph (1), development is relevant development to the extent that it consists of or includes the erection, construction, alteration or extension of any building.
 
-(3)[^key-579427e19480108a574ca4fc52b613e8] The requirements set out in paragraphs 6 to 10 shall be conditions of the deemed planning permission, so far as relating to development in the area of a unitary authority which is a qualifying authority for the purposes of this Schedule.
+(3)[^c-579427e19480108a574ca4fc52b613e8] The requirements set out in paragraphs 6 to 10 shall be conditions of the deemed planning permission, so far as relating to development in the area of a unitary authority which is a qualifying authority for the purposes of this Schedule.
 
-(4)[^key-579427e19480108a574ca4fc52b613e8] The requirements set out in paragraph 11 shall be conditions of the deemed planning permission, so far as relating to development in the area of any unitary authority.
+(4)[^c-579427e19480108a574ca4fc52b613e8] The requirements set out in paragraph 11 shall be conditions of the deemed planning permission, so far as relating to development in the area of any unitary authority.
 
 #### Conditions: non-qualifying authority
 
@@ -90,7 +90,7 @@ Section 10
 
 #### Conditions: qualifying authority
 
-**6.**[^key-1d6654ccf01e11a455d003ab807284e1][^key-41fddb318dc1b94e48f3a719ed4524b9] (1) To the extent that development consists of any operation or work mentioned in column (1) of the table in sub-paragraph (4), it shall be carried out in accordance with plans and specifications for the time being approved by the local planning authority at the request of the nominated undertaker.
+**6.**[^c-1d6654ccf01e11a455d003ab807284e1][^c-41fddb318dc1b94e48f3a719ed4524b9] (1) To the extent that development consists of any operation or work mentioned in column (1) of the table in sub-paragraph (4), it shall be carried out in accordance with plans and specifications for the time being approved by the local planning authority at the request of the nominated undertaker.
 
 (2) The local planning authority may, on approving a plan or specification for the purposes of this paragraph, specify any respect in which it requires there to be submitted for approval additional details of the operation or work which gives rise to the need for approval under sub-paragraph (1).
 
@@ -102,7 +102,7 @@ Section 10
 | --- | --- |
 | *Operation or work* | *Grounds* |
 | 1\. *Construction works*<br>- (a) The erection, construction, alteration or extension of any building (except for anything within (b) or (c) or item 2 or 4) or road vehicle park.<br>- (b) The construction, alteration or extension of any terracing, cuttings, embankments or other earth works.<br>- (c) The erection, construction, alteration of extension of any fences, walls or other barriers (including bunds) for visual or noise screening or dust suppression. | That the design or external appearance of the works ought to be modified—<br>- (a) to preserve the local environment or local amenity,<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, or<br>- (c) to preserve a site of archaeological or historic interest or nature conservation value,<br>and is reasonably capable of being so modified.<br>That the development ought to, and could reasonably, be carried out elsewhere within the limits of the land on which the works of which it forms part may be carried out under this Act. |
-| 2\. *Minor construction works*<br>The erection, construction, alteration or extension of any transformers, electronic communications masts[^key-22b025b098574ad99d9cf3d33576b8e3] or pedestrian accesses to railway lines. | That the design or external appearance of the works ought to be modified to preserve the local environment or local amenity, and is reasonably capable of being so modified.<br>That the development ought to, and could reasonably, be carried out on land elsewhere within the relevant limits. |
+| 2\. *Minor construction works*<br>The erection, construction, alteration or extension of any transformers, electronic communications masts[^c-22b025b098574ad99d9cf3d33576b8e3] or pedestrian accesses to railway lines. | That the design or external appearance of the works ought to be modified to preserve the local environment or local amenity, and is reasonably capable of being so modified.<br>That the development ought to, and could reasonably, be carried out on land elsewhere within the relevant limits. |
 | 3\. *Fences and walls*<br>The erection, construction, alteration or extension of any fences or walls (except for anything within item 1(c)). | That the development ought to, and could reasonably, be carried out on land elsewhere within the relevant limits. |
 | 4\. *Artificial lighting*<br>The erection, construction or installation of lighting equipment. | That the design of the equipment, with respect to the emission of light, ought to be modified to preserve the local environment or local amenity, and is reasonably capable of being so modified.<br>That the development ought to, and could reasonably, be carried out elsewhere within the limits of land on which the works of which it forms part may be carried out under this Act. |
 | 5\. *Waste and spoil disposal*<br>The disposal of waste or spoil. | That—<br>- (a) the design or external appearance of disposal sites on land within the relevant limits,<br>- (b) the methods by which such sites are worked, or<br>- (c) the noise, dust, vibration or screening arrangements during the operation of such sites,<br>ought to be modified, and are reasonably capable of being modified.<br>That—<br>- (a) to preserve the local environment or local amenity,<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, or<br>- (c) to preserve a site of archaeological or historic interest or nature conservation value,<br>the development ought to be carried out on land elsewhere within the relevant limits, and is reasonably capable of being so carried out. |
@@ -119,7 +119,7 @@ Section 10
 
 (8) Sub-paragraph (4) (as it has effect with sub-paragraphs (5) to (7)) shall apply in relation to the imposition of conditions on approval as it applies in relation to the refusal of approval.
 
-**7.**[^key-1d6654ccf01e11a455d003ab807284e1][^key-41fddb318dc1b94e48f3a719ed4524b9] (1) Development shall be carried out in accordance with arrangements approved by the local planning authority at the request of the nominated undertaker with respect to the matters mentioned in column (1) of the table in sub-paragraph (2).
+**7.**[^c-1d6654ccf01e11a455d003ab807284e1][^c-41fddb318dc1b94e48f3a719ed4524b9] (1) Development shall be carried out in accordance with arrangements approved by the local planning authority at the request of the nominated undertaker with respect to the matters mentioned in column (1) of the table in sub-paragraph (2).
 
 (2) The only ground on which the local planning authority may refuse to approve for the purposes of this paragraph arrangements with respect to a matter mentioned in column (1) of the following table is—
 
@@ -147,7 +147,7 @@ Section 10
 
 (5) The local planning authority may only impose conditions on approval for the purposes of this paragraph with the agreement of the nominated undertaker.
 
-**8.**[^key-1d6654ccf01e11a455d003ab807284e1][^key-41fddb318dc1b94e48f3a719ed4524b9] (1) To the extent that development consists of—
+**8.**[^c-1d6654ccf01e11a455d003ab807284e1][^c-41fddb318dc1b94e48f3a719ed4524b9] (1) To the extent that development consists of—
 
 - (a) the disposal of waste or spoil, or
 - (b) the excavation of bulk materials from borrow pits,
@@ -160,7 +160,7 @@ it shall not be begun unless the local planning authority has, at the request of
 
 (4) In sub-paragraph (1), the reference to restoration includes a reference to restoration in the longer term; and, accordingly, a scheme for the restoration of land may include provision about aftercare.
 
-**9.**[^key-1d6654ccf01e11a455d003ab807284e1][^key-41fddb318dc1b94e48f3a719ed4524b9] (1) No work to which this paragraph applies shall be brought into use without the approval of the local planning authority.
+**9.**[^c-1d6654ccf01e11a455d003ab807284e1][^c-41fddb318dc1b94e48f3a719ed4524b9] (1) No work to which this paragraph applies shall be brought into use without the approval of the local planning authority.
 
 (2) The works to which this paragraph applies are—
 
@@ -182,14 +182,14 @@ it shall not be begun unless the local planning authority has, at the request of
 
 and that the scheme is reasonably capable of being so modified.
 
-**10.**[^key-1d6654ccf01e11a455d003ab807284e1][^key-41fddb318dc1b94e48f3a719ed4524b9] Where the local planning authority approves a scheme for the purposes of paragraph 9(3)(b), the nominated undertaker shall be required—
+**10.**[^c-1d6654ccf01e11a455d003ab807284e1][^c-41fddb318dc1b94e48f3a719ed4524b9] Where the local planning authority approves a scheme for the purposes of paragraph 9(3)(b), the nominated undertaker shall be required—
 
 - (a) to carry out the scheme, and
 - (b) to comply with any condition subject to which the scheme is approved.
 
 #### Conditions: general
 
-**11.**[^key-1d6654ccf01e11a455d003ab807284e1][^key-41fddb318dc1b94e48f3a719ed4524b9] (1) Where development consists of or includes the carrying out on any site of operations ancillary to the construction of any of the scheduled works, those operations shall be discontinued as soon as reasonably practicable after the completion of the relevant scheduled work or works.
+**11.**[^c-1d6654ccf01e11a455d003ab807284e1][^c-41fddb318dc1b94e48f3a719ed4524b9] (1) Where development consists of or includes the carrying out on any site of operations ancillary to the construction of any of the scheduled works, those operations shall be discontinued as soon as reasonably practicable after the completion of the relevant scheduled work or works.
 
 (2) The nominated undertaker shall, following discontinuation of the use of any site for carrying out operations ancillary to the construction of any of the scheduled works, restore the site in accordance with a scheme agreed with the local planning authority.
 
@@ -253,7 +253,7 @@ and that the scheme is reasonably capable of being so modified.
 | --- | --- |
 | *Operation or work* | *Grounds* |
 | 1\. *Construction works*<br>- (a) The erection, construction, alteration or extension of any building (except for anything within (b) or (c) or item 2 or 4) or road vehicle park.<br>- (b) The construction, alteration or extension of any terracing, cuttings, embankments or other earth works. (spara)(c) The erection, construction, alteration of extension of any fences, walls or other barriers (including bunds) for visual or noise screening or dust suppression. | That the design or external appearance of the works ought to be modified—<br>- (a) to preserve the local environment or local amenity,<br>- (b) to prevent or reduce prejudicial effects on road safety or on the free flow of traffic in the local area, or<br>- (c) to preserve a site of archaeological or historic interest or nature conservation value,<br>and is reasonably capable of being so modified.<br>That the development ought to, and could reasonably, be carried out elsewhere within the limits of the land on which the works of which it forms part may be carried out under this Act. |
-| 2\. *Minor construction works*<br>The erection, construction, alteration or extension of any transformers, electronic communications masts[^key-110fabe060198de90f3d8b1cb693e145] or pedestrian accesses to railway lines. | That the design or external appearance of the works ought to be modified to preserve the local environment or local amenity, and is reasonably capable of being so modified.<br>That the development ought to, and could reasonably, be carried out on land elsewhere within the relevant limits. |
+| 2\. *Minor construction works*<br>The erection, construction, alteration or extension of any transformers, electronic communications masts[^c-110fabe060198de90f3d8b1cb693e145] or pedestrian accesses to railway lines. | That the design or external appearance of the works ought to be modified to preserve the local environment or local amenity, and is reasonably capable of being so modified.<br>That the development ought to, and could reasonably, be carried out on land elsewhere within the relevant limits. |
 | 3\. *Fences and walls*<br>The erection, construction, alteration or extension of any fences or walls (except for anything within item 1(c)). | That the development ought to, and could reasonably, be carried out on land elsewhere within the relevant limits. |
 | 4\. *Artificial lighting*<br>The erection, construction or installation of lighting equipment. | That the design of the equipment, with respect to the emission of light, ought to be modified to preserve the local environment or local amenity, and is reasonably capable of being so modified.<br>That the development ought to, and could reasonably, be carried out elsewhere within the limits of land on which the works of which it forms part may be carried out under this Act. |
 
@@ -422,7 +422,7 @@ it shall not be begun unless the county planning authority has, at the request o
 
 #### Consultation
 
-**26.**[^key-c454c47d9fc152a1af33b2a443f1d7be] (1) Where a planning authority considers that a request for approval under Part 2 or 3 relates to matters which may affect—
+**26.**[^c-c454c47d9fc152a1af33b2a443f1d7be] (1) Where a planning authority considers that a request for approval under Part 2 or 3 relates to matters which may affect—
 
 - (a) nature conservation,
 - (b) the conservation of the natural beauty or amenity of the countryside, or
@@ -446,7 +446,7 @@ it shall within 5 days of receiving the request, invite the appropriate body or 
 | Conservation of the natural beauty or amenity of the countryside. | Natural England. |
 | Sites of archaeological or historic interest. | The Historic Buildings and Monuments Commission for England. |
 
-**27.**[^key-c454c47d9fc152a1af33b2a443f1d7be] (1) Where a planning authority considers that a request for approval under Part 2 or 3 relates to matters which may affect—
+**27.**[^c-c454c47d9fc152a1af33b2a443f1d7be] (1) Where a planning authority considers that a request for approval under Part 2 or 3 relates to matters which may affect—
 
 - (a) the conservation of the natural beauty or amenity of inland or coastal waters or land associated with such waters,
 - (b) the conservation of flora or fauna which are dependent on an aquatic environment, or
@@ -464,7 +464,7 @@ it shall within 5 days of receiving the request, invite the Environment Agency t
 
 #### Intervention by the Secretary of State
 
-**28.**[^key-604c79db9ef4309af6e9efb473589b90][^key-c454c47d9fc152a1af33b2a443f1d7be] (1) The appropriate Ministers may by directions require a planning authority to refer any request for approval under Part 2 or 3 to them.
+**28.**[^c-604c79db9ef4309af6e9efb473589b90][^c-c454c47d9fc152a1af33b2a443f1d7be] (1) The appropriate Ministers may by directions require a planning authority to refer any request for approval under Part 2 or 3 to them.
 
 (2) In determining a request referred to them under this paragraph, the appropriate Ministers shall have the same powers as the authority making the reference.
 
@@ -475,7 +475,7 @@ it shall within 5 days of receiving the request, invite the Environment Agency t
 - (a) be given in relation to a specified request or requests of a specified description, and
 - (b) cancel or vary previous directions under this paragraph.
 
-**29.**[^key-604c79db9ef4309af6e9efb473589b90][^key-c454c47d9fc152a1af33b2a443f1d7be] (1) The appropriate Ministers may by directions restrict a planning authority's powers in relation to the grant of approval under Part 2 or 3.
+**29.**[^c-604c79db9ef4309af6e9efb473589b90][^c-c454c47d9fc152a1af33b2a443f1d7be] (1) The appropriate Ministers may by directions restrict a planning authority's powers in relation to the grant of approval under Part 2 or 3.
 
 (2) Directions under this paragraph may—
 
@@ -485,7 +485,7 @@ it shall within 5 days of receiving the request, invite the Environment Agency t
 
 #### Appeals
 
-**30.**[^key-604c79db9ef4309af6e9efb473589b90][^key-c454c47d9fc152a1af33b2a443f1d7be] (1) Where the nominated undertaker is aggrieved by a decision of a planning authority on a request for approval under Part 2 or 3 (including a decision under sub-paragraph (2) of paragraph 5, 6, 14, 15 or 21), it may appeal to the appropriate Ministers by giving notice of the appeal in the prescribed form to them and to the authority whose decision is appealed against within 42 days of notification of the decision.
+**30.**[^c-604c79db9ef4309af6e9efb473589b90][^c-c454c47d9fc152a1af33b2a443f1d7be] (1) Where the nominated undertaker is aggrieved by a decision of a planning authority on a request for approval under Part 2 or 3 (including a decision under sub-paragraph (2) of paragraph 5, 6, 14, 15 or 21), it may appeal to the appropriate Ministers by giving notice of the appeal in the prescribed form to them and to the authority whose decision is appealed against within 42 days of notification of the decision.
 
 (2) On an appeal under this paragraph, the appropriate Ministers may allow or dismiss the appeal or vary the decision of the authority whose decision is appealed against, but may only make a determination involving the refusal of, or imposition of conditions on, approval on grounds open to that authority.
 
@@ -508,9 +508,9 @@ this paragraph shall apply as if the authority had refused the request and notif
 
 (9) In this paragraph, “**prescribed**” means prescribed by regulations made by the appropriate Ministers.
 
-**31.**[^key-604c79db9ef4309af6e9efb473589b90][^key-c454c47d9fc152a1af33b2a443f1d7be] No appeal under section 78 of the Town and Country Planning Act 1990 (c. 8) (right to appeal against planning decisions and failure to take such decisions) may be made against a decision, or failure to notify a decision, in relation to which a right of appeal arises under paragraph 30.
+**31.**[^c-604c79db9ef4309af6e9efb473589b90][^c-c454c47d9fc152a1af33b2a443f1d7be] No appeal under section 78 of the Town and Country Planning Act 1990 (c. 8) (right to appeal against planning decisions and failure to take such decisions) may be made against a decision, or failure to notify a decision, in relation to which a right of appeal arises under paragraph 30.
 
-**32.**[^key-604c79db9ef4309af6e9efb473589b90][^key-c454c47d9fc152a1af33b2a443f1d7be] (1) Unless the appropriate Ministers direct otherwise, their functions in relation to the determination of an appeal under paragraph 30 shall, instead of being carried out by them, be carried out by a person appointed by them for the purpose.
+**32.**[^c-604c79db9ef4309af6e9efb473589b90][^c-c454c47d9fc152a1af33b2a443f1d7be] (1) Unless the appropriate Ministers direct otherwise, their functions in relation to the determination of an appeal under paragraph 30 shall, instead of being carried out by them, be carried out by a person appointed by them for the purpose.
 
 (2) The appropriate Ministers may by a further direction revoke a direction under sub-paragraph (1) at any time before the determination of the appeal.
 
@@ -522,9 +522,9 @@ this paragraph shall apply as if the authority had refused the request and notif
 
 (6) If the appropriate Ministers determine an appeal which another person was previously appointed to determine, they may, in determining it, take into account any report made to them by that person.
 
-**33.**[^key-604c79db9ef4309af6e9efb473589b90][^key-c454c47d9fc152a1af33b2a443f1d7be] The decision of the person appointed under paragraph 32, or, as the case may be, of the appropriate Ministers, on an appeal under paragraph 30 shall be final.
+**33.**[^c-604c79db9ef4309af6e9efb473589b90][^c-c454c47d9fc152a1af33b2a443f1d7be] The decision of the person appointed under paragraph 32, or, as the case may be, of the appropriate Ministers, on an appeal under paragraph 30 shall be final.
 
-**34.**[^key-604c79db9ef4309af6e9efb473589b90][^key-c454c47d9fc152a1af33b2a443f1d7be] (1) An appeal under paragraph 30 shall be dealt with on the basis of written representations, unless the person deciding the appeal directs otherwise.
+**34.**[^c-604c79db9ef4309af6e9efb473589b90][^c-c454c47d9fc152a1af33b2a443f1d7be] (1) An appeal under paragraph 30 shall be dealt with on the basis of written representations, unless the person deciding the appeal directs otherwise.
 
 (2) Subject to that, the appropriate Ministers may by regulations make such provision as they think fit about procedure in relation to appeals under paragraph 30.
 
@@ -539,19 +539,19 @@ this paragraph shall apply as if the authority had refused the request and notif
 - (a) prescribe the time limit in regulations, or
 - (b) enable the appropriate Ministers to give directions setting the time limit in a particular case or class of case.
 
-**35.**[^key-604c79db9ef4309af6e9efb473589b90][^key-c454c47d9fc152a1af33b2a443f1d7be] (1) Regulations under paragraph 30 or 34 may make different provision for different cases.
+**35.**[^c-604c79db9ef4309af6e9efb473589b90][^c-c454c47d9fc152a1af33b2a443f1d7be] (1) Regulations under paragraph 30 or 34 may make different provision for different cases.
 
 (2) The power to make regulations under paragraph 30 or 34 shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 #### Modification of Schedule
 
-**36.**[^key-604c79db9ef4309af6e9efb473589b90] (1) The Secretary of State may by order amend this Schedule as he thinks fit in consequence of provision made by an order under section 149 of the Local Government, Planning and Land Act 1980 (c. 65) (power to substitute an urban development corporation as the local planning authority) as applied by section 5 of the London Olympic and Paralympic Games Act 2006 (c. 12) (application in relation to the Olympic Delivery Authority).
+**36.**[^c-604c79db9ef4309af6e9efb473589b90] (1) The Secretary of State may by order amend this Schedule as he thinks fit in consequence of provision made by an order under section 149 of the Local Government, Planning and Land Act 1980 (c. 65) (power to substitute an urban development corporation as the local planning authority) as applied by section 5 of the London Olympic and Paralympic Games Act 2006 (c. 12) (application in relation to the Olympic Delivery Authority).
 
 (2) The power to make an order under this paragraph shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 #### Interpretation
 
-**37.**[^key-604c79db9ef4309af6e9efb473589b90][^key-08fa27d09885c128c73ca6cbc058fcd5] (1) In this Schedule—
+**37.**[^c-604c79db9ef4309af6e9efb473589b90][^c-08fa27d09885c128c73ca6cbc058fcd5] (1) In this Schedule—
 
 - “**building**” includes any structure other than—
   - (a) anything in the nature of plant or machinery,
@@ -565,30 +565,30 @@ this paragraph shall apply as if the authority had refused the request and notif
 - “**railway vehicle**” and “**track**” have the same meanings as in Part 1 of the Railways Act 1993 (c. 43);
 - “**special road**” and “**trunk road**” have the same meanings as in the Highways Act 1980 (c. 66).
 
-(2) In this Schedule, references to the appropriate Ministers are to the Secretary of State for Housing, Communities and Local Government[^key-e7a5833e91e2680f211c3e420ec324c2] and the Secretary of State for Transport and, in relation to the carrying out of any function, are to those Ministers acting jointly.
+(2) In this Schedule, references to the appropriate Ministers are to the Secretary of State for Housing, Communities and Local Government[^c-e7a5833e91e2680f211c3e420ec324c2] and the Secretary of State for Transport and, in relation to the carrying out of any function, are to those Ministers acting jointly.
 
 (3) For the purposes of this Schedule, spoil or top soil is surplus if it is not used for the purposes of any of the works authorised by this Act.
 
 ## Annotations
 
-[^key-cceda1c019e8d394fcdf2fc5526d8091]: Modification: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2008/18/schedule/7/paragraph/3) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-cceda1c019e8d394fcdf2fc5526d8091]: Modification: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2008/18/schedule/7/paragraph/3) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-074c0af5414b7889db690e287477db29]: Modification: Sch. 7 para. 4 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-074c0af5414b7889db690e287477db29]: Modification: Sch. 7 para. 4 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-579427e19480108a574ca4fc52b613e8]: Modification: Sch. 7 para. 4(3)(4) applied (with modifications) (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 paras. 1(c)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/c), [3(3)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/3)[(4)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/4)
+[^c-579427e19480108a574ca4fc52b613e8]: Modification: Sch. 7 para. 4(3)(4) applied (with modifications) (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 paras. 1(c)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/c), [3(3)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/3)[(4)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/4)
 
-[^key-1d6654ccf01e11a455d003ab807284e1]: Modification: Sch. 7 paras. 6-11 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-1d6654ccf01e11a455d003ab807284e1]: Modification: Sch. 7 paras. 6-11 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-41fddb318dc1b94e48f3a719ed4524b9]: Modification: Sch. 7 paras. 6-11 applied (with modifications) (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 paras. 1(c)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/c), [3(3)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/3)[(4)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/4)
+[^c-41fddb318dc1b94e48f3a719ed4524b9]: Modification: Sch. 7 paras. 6-11 applied (with modifications) (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 paras. 1(c)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/c), [3(3)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/3)[(4)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/4)
 
-[^key-22b025b098574ad99d9cf3d33576b8e3]: Textual amendment: Words in [Sch. 7 para. 6(4)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/7/paragraph/6/4) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Primary Legislation) Regulations 2017 (S.I. 2017/1285)](https://www.legislation.gov.uk/uksi/2017/1285), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1285/regulation/1/1), [Sch. 1 para. 11(2)(a)](https://www.legislation.gov.uk/uksi/2017/1285/schedule/1/paragraph/11/2/a)
+[^c-22b025b098574ad99d9cf3d33576b8e3]: Textual amendment: Words in [Sch. 7 para. 6(4)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/7/paragraph/6/4) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Primary Legislation) Regulations 2017 (S.I. 2017/1285)](https://www.legislation.gov.uk/uksi/2017/1285), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1285/regulation/1/1), [Sch. 1 para. 11(2)(a)](https://www.legislation.gov.uk/uksi/2017/1285/schedule/1/paragraph/11/2/a)
 
-[^key-110fabe060198de90f3d8b1cb693e145]: Textual amendment: Words in [Sch. 7 para. 15(4)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/7/paragraph/15/4) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Primary Legislation) Regulations 2017 (S.I. 2017/1285)](https://www.legislation.gov.uk/uksi/2017/1285), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1285/regulation/1/1), [Sch. 1 para. 11(2)(b)](https://www.legislation.gov.uk/uksi/2017/1285/schedule/1/paragraph/11/2/b)
+[^c-110fabe060198de90f3d8b1cb693e145]: Textual amendment: Words in [Sch. 7 para. 15(4)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/7/paragraph/15/4) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Primary Legislation) Regulations 2017 (S.I. 2017/1285)](https://www.legislation.gov.uk/uksi/2017/1285), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1285/regulation/1/1), [Sch. 1 para. 11(2)(b)](https://www.legislation.gov.uk/uksi/2017/1285/schedule/1/paragraph/11/2/b)
 
-[^key-c454c47d9fc152a1af33b2a443f1d7be]: Modification: Sch. 7 paras. 26-35 applied (with modifications) (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 paras. 1(c)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/c), [3(3)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/3)[(4)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/4)
+[^c-c454c47d9fc152a1af33b2a443f1d7be]: Modification: Sch. 7 paras. 26-35 applied (with modifications) (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 paras. 1(c)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/c), [3(3)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/3)[(4)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/4)
 
-[^key-604c79db9ef4309af6e9efb473589b90]: Modification: Sch. 7 paras. 28-37 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-604c79db9ef4309af6e9efb473589b90]: Modification: Sch. 7 paras. 28-37 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-08fa27d09885c128c73ca6cbc058fcd5]: Modification: Sch. 7 para. 37 applied (with modifications) (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(c)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/c)[Sch. 4 para. 3(3)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/3)[Sch. 4 para. 3(4)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/4)
+[^c-08fa27d09885c128c73ca6cbc058fcd5]: Modification: Sch. 7 para. 37 applied (with modifications) (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(c)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/c)[Sch. 4 para. 3(3)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/3)[Sch. 4 para. 3(4)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/4)
 
-[^key-e7a5833e91e2680f211c3e420ec324c2]: Textual amendment: Words in [Sch. 7 para. 37(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/7/paragraph/37/2) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 11(d)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/11/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-e7a5833e91e2680f211c3e420ec324c2]: Textual amendment: Words in [Sch. 7 para. 37(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/7/paragraph/37/2) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 11(d)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/11/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))

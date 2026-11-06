@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## SCHEDULE 3A — VACCINATION SERVICES[^key-ddab80242d94d1f193347108a2bca6de]
+## SCHEDULE 3A — VACCINATION SERVICES[^c-ddab80242d94d1f193347108a2bca6de]
 
 Regulation 14A
 
@@ -103,7 +103,7 @@ The provider must—
 
 ### 5. Supplementary vaccinations and immunisations
 
-(1) Where directions given under section 17M of the Act[^key-2765ec1454e69d9613358c5b54def0cb] have provided for a fee to be payable for the provision of a vaccination or immunisation of a specified type in specified circumstances, but those directions have not specified that the vaccination or immunisation is to form part of the vaccinations and immunisations described by paragraph 3 or the childhood vaccinations and immunisations described by paragraph 4, the vaccination or immunisation is to be considered a “supplementary vaccination and immunisation”.
+(1) Where directions given under section 17M of the Act[^c-2765ec1454e69d9613358c5b54def0cb] have provided for a fee to be payable for the provision of a vaccination or immunisation of a specified type in specified circumstances, but those directions have not specified that the vaccination or immunisation is to form part of the vaccinations and immunisations described by paragraph 3 or the childhood vaccinations and immunisations described by paragraph 4, the vaccination or immunisation is to be considered a “supplementary vaccination and immunisation”.
 
 (2) Subject to paragraph 1, a Health Board may require a provider to provide to their patients any of the supplementary vaccinations and immunisations.
 
@@ -113,7 +113,7 @@ The provider must—
 
 - (a) offer to provide to patients all such vaccinations and immunisations which the Health Board may specify;
 - (b) provide appropriate information and advice to patients about such vaccinations and immunisations or, where appropriate, if the patient is a child, provide this information and advice to their parents;
-- (c) record in the patient’s record kept in accordance with paragraph 36 of schedule 1 any refusal of the offer[^key-eaec91a656ee1260c74578c92a51013b] referred to in sub-paragraph (a);
+- (c) record in the patient’s record kept in accordance with paragraph 36 of schedule 1 any refusal of the offer[^c-eaec91a656ee1260c74578c92a51013b] referred to in sub-paragraph (a);
 - (d) where the offer is accepted, administer the vaccinations and immunisations and include in the patient’s record kept in accordance with paragraph 36 of schedule 1—
   - (i) the patient’s consent to vaccination or immunisation, or the name of the person who gave consent to the vaccination or immunisation and that person’s relationship to the patient;
   - (ii) the batch numbers, expiry date and title of the vaccine;
@@ -126,8 +126,8 @@ The provider must—
 
 ## Annotations
 
-[^key-ddab80242d94d1f193347108a2bca6de]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/ssi/2018/67/schedule/3A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [18](https://www.legislation.gov.uk/ssi/2021/302/regulation/18)
+[^c-ddab80242d94d1f193347108a2bca6de]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/ssi/2018/67/schedule/3A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [18](https://www.legislation.gov.uk/ssi/2021/302/regulation/18)
 
-[^key-2765ec1454e69d9613358c5b54def0cb]: Textual amendment: Words in [sch. 3A para. 5(1)](https://www.legislation.gov.uk/ssi/2018/67/schedule/3A/paragraph/5/1) inserted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [24(a)](https://www.legislation.gov.uk/ssi/2022/130/regulation/24/a)
+[^c-2765ec1454e69d9613358c5b54def0cb]: Textual amendment: Words in [sch. 3A para. 5(1)](https://www.legislation.gov.uk/ssi/2018/67/schedule/3A/paragraph/5/1) inserted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [24(a)](https://www.legislation.gov.uk/ssi/2022/130/regulation/24/a)
 
-[^key-eaec91a656ee1260c74578c92a51013b]: Textual amendment: Word in [sch. 3A para. 5(4)(c)](https://www.legislation.gov.uk/ssi/2018/67/schedule/3A/paragraph/5/4/c) substituted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [24(b)](https://www.legislation.gov.uk/ssi/2022/130/regulation/24/b)
+[^c-eaec91a656ee1260c74578c92a51013b]: Textual amendment: Word in [sch. 3A para. 5(4)(c)](https://www.legislation.gov.uk/ssi/2018/67/schedule/3A/paragraph/5/4/c) substituted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [24(b)](https://www.legislation.gov.uk/ssi/2022/130/regulation/24/b)

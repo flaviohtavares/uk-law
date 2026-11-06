@@ -27,8 +27,8 @@ summary: ''
 
 if, but only if, it is proved that he acted in bad faith.
 
-(2)[^key-1d4aa03a0626d2f3be55504db163d9e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1d4aa03a0626d2f3be55504db163d9e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1d4aa03a0626d2f3be55504db163d9e5]: Textual amendment: [S. 32(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/32/2) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/28); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-1d4aa03a0626d2f3be55504db163d9e5]: Textual amendment: [S. 32(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/32/2) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/28); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)

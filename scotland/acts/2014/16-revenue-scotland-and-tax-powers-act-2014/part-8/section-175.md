@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 175. Reduction in penalty under sections 159 to 167 for disclosure[^key-b1d26a0807c18864c5d7953b54876e41]
+## 175. Reduction in penalty under sections 159 to 167 for disclosure[^c-b1d26a0807c18864c5d7953b54876e41]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1d26a0807c18864c5d7953b54876e41]: Commencement: [S. 175](https://www.legislation.gov.uk/asp/2014/16/section/175) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-b1d26a0807c18864c5d7953b54876e41]: Commencement: [S. 175](https://www.legislation.gov.uk/asp/2014/16/section/175) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

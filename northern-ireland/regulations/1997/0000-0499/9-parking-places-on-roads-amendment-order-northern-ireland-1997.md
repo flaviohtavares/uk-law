@@ -44,11 +44,11 @@ WHEREAS it appears to the Department of the Environment to be necessary to provi
 
 NOW THEREFORE the Department, in exercise of the powers conferred on it by Article 104(1)(*c*) of the Road Traffic (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, makes the following Order:
 
-## 1. Citation and commencement[^key-133bc521bdbeb21bfb42c0bcba43c64c]
+## 1. Citation and commencement[^c-133bc521bdbeb21bfb42c0bcba43c64c]
 
 This Order may be cited as the Parking Places on Roads (Amendment) Order (Northern Ireland) 1997 and shall come into operation on 3rd March 1997.
 
-## 2. Amendment[^key-2f5fcd5b6e19011803812548ba12fe26]
+## 2. Amendment[^c-2f5fcd5b6e19011803812548ba12fe26]
 
 The Parking Places on Roads Order (Northern Ireland) 1993[^f00002] shall be amended by—
 
@@ -65,91 +65,91 @@ Assistant Secretary
 
 ## SCHEDULE 1
 
-**473.**[^key-7e082a473b100273961e70cd560a1713] Brae Place, Ballygowan, (South-West Side of cul-de-sac) — from a point approximately 60 metres from its junction with Brae Grove, for a distance of approximately 6 metres in a south-westerly direction.
+**473.**[^c-7e082a473b100273961e70cd560a1713] Brae Place, Ballygowan, (South-West Side of cul-de-sac) — from a point approximately 60 metres from its junction with Brae Grove, for a distance of approximately 6 metres in a south-westerly direction.
 
-**474.**[^key-e4b83825651d65cb09e828b3aa67b7f5] Brian Drive, Ballynahinch, (South Side) — from a point approximately 27 metres south-east of its northern junction with Langley Road, for a distance of approximately 5.5 metres.
+**474.**[^c-e4b83825651d65cb09e828b3aa67b7f5] Brian Drive, Ballynahinch, (South Side) — from a point approximately 27 metres south-east of its northern junction with Langley Road, for a distance of approximately 5.5 metres.
 
-**475.**[^key-2ee28917d7f98069481113358db82b12] Dromore Street, Ballynahinch, (South Side) — from a point approximately 92 metres south-west of its junction with Church Street, for a distance of approximately 5 metres.
+**475.**[^c-2ee28917d7f98069481113358db82b12] Dromore Street, Ballynahinch, (South Side) — from a point approximately 92 metres south-west of its junction with Church Street, for a distance of approximately 5 metres.
 
-**476.**[^key-9c849d2ccce40ddd37a581aa9ce1be82] Lisburn Street, Ballynahinch, (West Side) — from a point approximately 55 metres north-west of its junction with High Street, for a distance of approximately 6 metres.
+**476.**[^c-9c849d2ccce40ddd37a581aa9ce1be82] Lisburn Street, Ballynahinch, (West Side) — from a point approximately 55 metres north-west of its junction with High Street, for a distance of approximately 6 metres.
 
-**477.**[^key-42b889fed61f20358dde0cf99b935565] Ballygowan Court, Bangor, (North-West Side) — from a point approximately 52 metres south-west of its junction with Owenroe Drive, for a distance of approximately 6 metres.
+**477.**[^c-42b889fed61f20358dde0cf99b935565] Ballygowan Court, Bangor, (North-West Side) — from a point approximately 52 metres south-west of its junction with Owenroe Drive, for a distance of approximately 6 metres.
 
-**478.**[^key-68050267daa953840fb1c3d63674db59] Craigboy Court, Bangor, (North-West Side) — from a point approximately 53 metres north of its junction with Ganaway Avenue, for a distance of approximately 6 metres.
+**478.**[^c-68050267daa953840fb1c3d63674db59] Craigboy Court, Bangor, (North-West Side) — from a point approximately 53 metres north of its junction with Ganaway Avenue, for a distance of approximately 6 metres.
 
-**479.**[^key-3c087688d1ccabc3c66f894fb3bbfa73] Owenroe Drive, Bangor, (North-East Side) — from a point approximately 115 metres north-west of its junction with Clandeboye Road, for a distance of approximately 3 metres.
+**479.**[^c-3c087688d1ccabc3c66f894fb3bbfa73] Owenroe Drive, Bangor, (North-East Side) — from a point approximately 115 metres north-west of its junction with Clandeboye Road, for a distance of approximately 3 metres.
 
-**480.**[^key-07e3ed6c30123b6318613ec0731f7c23] Seacliff Road, Bangor, (South-East Side) — from a point approximately 210 metres south-west of its junction with Ward Avenue, for a distance of approximately 6 metres.
+**480.**[^c-07e3ed6c30123b6318613ec0731f7c23] Seacliff Road, Bangor, (South-East Side) — from a point approximately 210 metres south-west of its junction with Ward Avenue, for a distance of approximately 6 metres.
 
-**481.**[^key-10c22cd772514d26a4cb84c9414660f2] Springfield Road, Bangor, (North Side) — from a point approximately 153 metres west of its junction with Prospect Road, for a distance of approximately 5 metres.
+**481.**[^c-10c22cd772514d26a4cb84c9414660f2] Springfield Road, Bangor, (North Side) — from a point approximately 153 metres west of its junction with Prospect Road, for a distance of approximately 5 metres.
 
-**482.**[^key-c5e2e677ad4ddd17fa15f270a03943a7] Institution Place, Belfast, (North-West Side) — from a point approximately 27 metres north-west of its junction with John Street, for a distance of approximately 5 metres.
+**482.**[^c-c5e2e677ad4ddd17fa15f270a03943a7] Institution Place, Belfast, (North-West Side) — from a point approximately 27 metres north-west of its junction with John Street, for a distance of approximately 5 metres.
 
-**483.**[^key-1fdd31431f846a91f95d2558fd6d29b5] Malone Avenue, Belfast, (South-West Side) — from a point approximately 21 metres south-east of its junction with Eglantine Place, for a distance of approximately 5.5 metres.
+**483.**[^c-1fdd31431f846a91f95d2558fd6d29b5] Malone Avenue, Belfast, (South-West Side) — from a point approximately 21 metres south-east of its junction with Eglantine Place, for a distance of approximately 5.5 metres.
 
-**484.**[^key-33431d1f3acde43268c1e73248c1a311] Surrey Street, Belfast, (North-East Side) — from a point approximately 52 metres north-west of its junction with Lisburn Road, for a distance of approximately 5 metres.
+**484.**[^c-33431d1f3acde43268c1e73248c1a311] Surrey Street, Belfast, (North-East Side) — from a point approximately 52 metres north-west of its junction with Lisburn Road, for a distance of approximately 5 metres.
 
-**485.**[^key-db1f8551a4f697418d5a56511a54b749] Lisnakill Court, Unclassified No. 7676-14, Coalisland, (East Side, in front of No. 5) — from a point approximately 20 metres east of its junction with Mountcairn Drive, for a distance of approximately 6.5 metres.
+**485.**[^c-db1f8551a4f697418d5a56511a54b749] Lisnakill Court, Unclassified No. 7676-14, Coalisland, (East Side, in front of No. 5) — from a point approximately 20 metres east of its junction with Mountcairn Drive, for a distance of approximately 6.5 metres.
 
-**486.**[^key-437321dcd72c4aec0a11fffedbd6ecbe] Union Street, Coleraine, (North Side) — from a point approximately 60 metres west of its junction with Railway Road, for a distance of approximately 6.5 metres.
+**486.**[^c-437321dcd72c4aec0a11fffedbd6ecbe] Union Street, Coleraine, (North Side) — from a point approximately 60 metres west of its junction with Railway Road, for a distance of approximately 6.5 metres.
 
-**487.**[^key-c5739a5e0a13991e0dd462e1ba2d5ef6] Castle Street, Comber, (North Side) — from a point approximately 10 metres west of its junction with Bridge Street Link, for a distance of approximately 2.5 metres.
+**487.**[^c-c5739a5e0a13991e0dd462e1ba2d5ef6] Castle Street, Comber, (North Side) — from a point approximately 10 metres west of its junction with Bridge Street Link, for a distance of approximately 2.5 metres.
 
-**488.**[^key-52a657935fa62bd00ea66db502ca03fc] Linley Drive, Comber, (North-East Side) — from a point approximately 25 metres north-west of its junction with Darragh Road, for a distance of approximately 6 metres.
+**488.**[^c-52a657935fa62bd00ea66db502ca03fc] Linley Drive, Comber, (North-East Side) — from a point approximately 25 metres north-west of its junction with Darragh Road, for a distance of approximately 6 metres.
 
-**489.**[^key-1a47de767dc95b3bc57049983fbb4e1b] Manor Street, Donaghadee, (West Side) — from a point approximately 45 metres south of its junction with Meetinghouse Street, for a distance of approximately 6 metres.
+**489.**[^c-1a47de767dc95b3bc57049983fbb4e1b] Manor Street, Donaghadee, (West Side) — from a point approximately 45 metres south of its junction with Meetinghouse Street, for a distance of approximately 6 metres.
 
-**490.**[^key-035c5fa772d1085db263380c218a5c0e] William Street, Donaghadee, (South-West Side) — from a point approximately 16 metres north-west of its junction with Meadowbank Avenue, for a distance of approximately 5 metres.
+**490.**[^c-035c5fa772d1085db263380c218a5c0e] William Street, Donaghadee, (South-West Side) — from a point approximately 16 metres north-west of its junction with Meadowbank Avenue, for a distance of approximately 5 metres.
 
-**491.**[^key-872feb85ca688ae1d22b75c3a0775672] Quoile Park, Downpatrick, (South Side, in front of No. 14) — from a point approximately 180 metres from its junction with Old Belfast Road, for a distance of approximately 3 metres in a westerly direction.
+**491.**[^c-872feb85ca688ae1d22b75c3a0775672] Quoile Park, Downpatrick, (South Side, in front of No. 14) — from a point approximately 180 metres from its junction with Old Belfast Road, for a distance of approximately 3 metres in a westerly direction.
 
-**492.**[^key-0e3133127e15467ea6d95ad84bdcd2af] Belmore Street, Enniskillen, (South Side) — from a point approximately 58 metres east of its junction with Quay Lane, for a distance of approximately 6 metres.
+**492.**[^c-0e3133127e15467ea6d95ad84bdcd2af] Belmore Street, Enniskillen, (South Side) — from a point approximately 58 metres east of its junction with Quay Lane, for a distance of approximately 6 metres.
 
-**493.**[^key-3459c447608ea007cf5a4c680ba625d4] Ean Hill, Holywood, (South-West Side) — from a point approximately 66 metres south-east of its junction with High Street, for a distance of approximately 6 metres.
+**493.**[^c-3459c447608ea007cf5a4c680ba625d4] Ean Hill, Holywood, (South-West Side) — from a point approximately 66 metres south-east of its junction with High Street, for a distance of approximately 6 metres.
 
-**494.**[^key-1033b97a7cfb469ab9c08d189ca195b4] Firmount Crescent, Holywood, (North Side, in lay-by in front of No. 99) — from a point approximately 135 metres east of its junction with Old Holywood Road, for a distance of approximately 3.5 metres.
+**494.**[^c-1033b97a7cfb469ab9c08d189ca195b4] Firmount Crescent, Holywood, (North Side, in lay-by in front of No. 99) — from a point approximately 135 metres east of its junction with Old Holywood Road, for a distance of approximately 3.5 metres.
 
-**495.**[^key-76fe2ec1c1f5abb208d2b543f00d77f8] Kinnegar Road, Holywood, (North-West Side) — from a point approximately 40 metres north-east of its junction with Kinnegar Avenue, for a distance of approximately 5 metres.
+**495.**[^c-76fe2ec1c1f5abb208d2b543f00d77f8] Kinnegar Road, Holywood, (North-West Side) — from a point approximately 40 metres north-east of its junction with Kinnegar Avenue, for a distance of approximately 5 metres.
 
-**496.**[^key-f76aa44305d11306c654bd4b3c287f3b] Mill Street, Irvinestown, (South-West Side) — from a point approximately 90 metres south-east of its junction with Castle Street, for a distance of approximately 6.5 metres.
+**496.**[^c-f76aa44305d11306c654bd4b3c287f3b] Mill Street, Irvinestown, (South-West Side) — from a point approximately 90 metres south-east of its junction with Castle Street, for a distance of approximately 6.5 metres.
 
-**497.**[^key-eac56e35ed5db818b547d01e15fe7d56] Cuan Beach, Killyleagh, (West Side) — from a point approximately 50 metres north of its southern extremity, for a distance of approximately 5.5 metres in a northerly direction.
+**497.**[^c-eac56e35ed5db818b547d01e15fe7d56] Cuan Beach, Killyleagh, (West Side) — from a point approximately 50 metres north of its southern extremity, for a distance of approximately 5.5 metres in a northerly direction.
 
-**498.**[^key-370be5f1c4c3d9f264b095fce5adeafc] Avonmore Park, Lisburn, (East Side, in lay-by in front of No. 47) — from a point approximately 170 metres south of its junction with Woodland Park, for a distance of approximately 3.5 metres.
+**498.**[^c-370be5f1c4c3d9f264b095fce5adeafc] Avonmore Park, Lisburn, (East Side, in lay-by in front of No. 47) — from a point approximately 170 metres south of its junction with Woodland Park, for a distance of approximately 3.5 metres.
 
-**499.**[^key-4384fc22bce08d59a1eb80b37ac6df2b] Hillsborough Old Road, Lisburn, (West Side) — from a point approximately 15 metres south-west of its junction with The Close, for a distance of approximately 6 metres.
+**499.**[^c-4384fc22bce08d59a1eb80b37ac6df2b] Hillsborough Old Road, Lisburn, (West Side) — from a point approximately 15 metres south-west of its junction with The Close, for a distance of approximately 6 metres.
 
-**500.**[^key-8a7c1cf42c9da5737da3accdd4c7ed4d] Market Square North, Lisburn, (South Side) — from a point approximately 15 metres east of its junction with Market Square West, for a distance of approximately 11 metres.
+**500.**[^c-8a7c1cf42c9da5737da3accdd4c7ed4d] Market Square North, Lisburn, (South Side) — from a point approximately 15 metres east of its junction with Market Square West, for a distance of approximately 11 metres.
 
-**501.**[^key-bdec4bd514964347ed6d990492da6abe] Market Square North, Lisburn, (South Side) — from a point approximately 32 metres east of its junction with Market Square West, for a distance of approximately 11 metres.
+**501.**[^c-bdec4bd514964347ed6d990492da6abe] Market Square North, Lisburn, (South Side) — from a point approximately 32 metres east of its junction with Market Square West, for a distance of approximately 11 metres.
 
-**502.**[^key-ba1f33ea5b1582dcc7c3e971e0328766] Roseville Park, Lisburn, (North Side of cul-de-sac, in front of No. 21) — from a point approximately 80 metres from its junction with Millbrook Road, for a distance of approximately 3.5 metres in a northerly direction.
+**502.**[^c-ba1f33ea5b1582dcc7c3e971e0328766] Roseville Park, Lisburn, (North Side of cul-de-sac, in front of No. 21) — from a point approximately 80 metres from its junction with Millbrook Road, for a distance of approximately 3.5 metres in a northerly direction.
 
-**503.**[^key-45a6a31ce8664b5ccc209542fa58a90c] Sloan Street, Lisburn, (North Side) — from a point approximately 41 metres east of its junction with Gregg Street, for a distance of approximately 9 metres.
+**503.**[^c-45a6a31ce8664b5ccc209542fa58a90c] Sloan Street, Lisburn, (North Side) — from a point approximately 41 metres east of its junction with Gregg Street, for a distance of approximately 9 metres.
 
-**504.**[^key-08f12cf4a7c524652fd33a545327d2a4] Main Street, Lisnaskea, (East Side) — from a point approximately 97 metres south of its junction with Market Place, for a distance of approximately 6.5 metres.
+**504.**[^c-08f12cf4a7c524652fd33a545327d2a4] Main Street, Lisnaskea, (East Side) — from a point approximately 97 metres south of its junction with Market Place, for a distance of approximately 6.5 metres.
 
-**505.**[^key-8680acf73fa72170df41209fee102db2] Service road adjacent to Main Street, Moira, (South-East Side) — from a point approximately 36 metres south-west of its junction with Meeting Street, for a distance of approximately 6 metres.
+**505.**[^c-8680acf73fa72170df41209fee102db2] Service road adjacent to Main Street, Moira, (South-East Side) — from a point approximately 36 metres south-west of its junction with Meeting Street, for a distance of approximately 6 metres.
 
-**506.**[^key-7d951e614b2223eaf5ecd1efe4665664] The Diamond, Moy, (North-East Side of south-western carriageway) — from a point approximately 25 metres north-west of its junction with Brick Row, for a distance of approximately 3.5 metres.
+**506.**[^c-7d951e614b2223eaf5ecd1efe4665664] The Diamond, Moy, (North-East Side of south-western carriageway) — from a point approximately 25 metres north-west of its junction with Brick Row, for a distance of approximately 3.5 metres.
 
-**507.**[^key-8fc80f5558ef88e93f237ea0b4af139b] Ardmore Avenue, Newtownards, (East Side) — from a point approximately 75 metres north of its junction with Old Movilla Road, for a distance of approximately 6 metres.
+**507.**[^c-8fc80f5558ef88e93f237ea0b4af139b] Ardmore Avenue, Newtownards, (East Side) — from a point approximately 75 metres north of its junction with Old Movilla Road, for a distance of approximately 6 metres.
 
-**508.**[^key-28ea6e3b56f74c611a5d7b47c7570532] Circular Road, Newtownards, (East Side) — from a point approximately 190 metres north-west of its junction with Mill Street, for a distance of approximately 6 metres.
+**508.**[^c-28ea6e3b56f74c611a5d7b47c7570532] Circular Road, Newtownards, (East Side) — from a point approximately 190 metres north-west of its junction with Mill Street, for a distance of approximately 6 metres.
 
-**509.**[^key-8dabb5204d0c69b3805a5c3f3ae199d4] Circular Road, Newtownards, (East Side) — from a point approximately 245 metres north-west of its junction with Mill Street, for a distance of approximately 6 metres.
+**509.**[^c-8dabb5204d0c69b3805a5c3f3ae199d4] Circular Road, Newtownards, (East Side) — from a point approximately 245 metres north-west of its junction with Mill Street, for a distance of approximately 6 metres.
 
-**510.**[^key-6bd70dac43900b6c7a0bd2bd073cc1d3] John Street, Newtownards, (North Side) — from a point approximately 43 metres east of its junction with John Street Court, for a distance of approximately 3 metres.
+**510.**[^c-6bd70dac43900b6c7a0bd2bd073cc1d3] John Street, Newtownards, (North Side) — from a point approximately 43 metres east of its junction with John Street Court, for a distance of approximately 3 metres.
 
-**511.**[^key-d958188041c5f07d3cd4dacd6a4157e4] Lismara Place, Newtownards, (North-West Side of cul-de-sac) — from a point approximately 40 metres north-west of its junction with Donard Avenue, for a distance of approximately 6 metres.
+**511.**[^c-d958188041c5f07d3cd4dacd6a4157e4] Lismara Place, Newtownards, (North-West Side of cul-de-sac) — from a point approximately 40 metres north-west of its junction with Donard Avenue, for a distance of approximately 6 metres.
 
-**512.**[^key-5aca737658c0c61d0b71bbd4be17d20d] Pound Street, Newtownards, (West Side) — from a point approximately 21 metres south of its junction with Mill Street, for a distance of approximately 6 metres.
+**512.**[^c-5aca737658c0c61d0b71bbd4be17d20d] Pound Street, Newtownards, (West Side) — from a point approximately 21 metres south of its junction with Mill Street, for a distance of approximately 6 metres.
 
-**513.**[^key-cd5a0666f87b417d10af7daf9b7b4b11] Pound Street, Newtownards, (West Side) — from a point approximately 54 metres south of its junction with Mill Street, for a distance of approximately 6 metres.
+**513.**[^c-cd5a0666f87b417d10af7daf9b7b4b11] Pound Street, Newtownards, (West Side) — from a point approximately 54 metres south of its junction with Mill Street, for a distance of approximately 6 metres.
 
-**514.**[^key-61401afd66c89fc9e5cac706ff796f69] Upper Heathmount, Portstewart, (East Side) — from a point approximately 29 metres north of its junction with Enfield Street, for a distance of approximately 6.5 metres.
+**514.**[^c-61401afd66c89fc9e5cac706ff796f69] Upper Heathmount, Portstewart, (East Side) — from a point approximately 29 metres north of its junction with Enfield Street, for a distance of approximately 6.5 metres.
 
-## SCHEDULE 2[^key-ef15229283149e64fbf1b2ce5dfc3ae0]
+## SCHEDULE 2[^c-ef15229283149e64fbf1b2ce5dfc3ae0]
 
 - Item No. 37 relating to Glenvarlock Street, Belfast.
 - Item No. 43 relating to Hillsborough Parade, Belfast.
@@ -168,94 +168,94 @@ The amendments provide for the introduction of parking places on the parts of th
 
 [^f00001]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2(2) for the definition of “Department”
 
-[^key-133bc521bdbeb21bfb42c0bcba43c64c]: Commencement: Art. 1 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-133bc521bdbeb21bfb42c0bcba43c64c]: Commencement: Art. 1 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-2f5fcd5b6e19011803812548ba12fe26]: Commencement: Art. 2 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-2f5fcd5b6e19011803812548ba12fe26]: Commencement: Art. 2 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
 [^f00002]: Footnote: [S.R. 1993 No. 201](https://www.legislation.gov.uk/nisr/1993/201); relevant amending rules are [S.R. 1994 No. 207](https://www.legislation.gov.uk/nisr/1994/207), [S.R. 1995 No. 398](https://www.legislation.gov.uk/nisr/1995/398) and [S.R. 1996 No. 309](https://www.legislation.gov.uk/nisr/1996/309)
 
-[^key-7e082a473b100273961e70cd560a1713]: Commencement: Sch. 1 para. 473 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-7e082a473b100273961e70cd560a1713]: Commencement: Sch. 1 para. 473 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-e4b83825651d65cb09e828b3aa67b7f5]: Commencement: Sch. 1 para. 474 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-e4b83825651d65cb09e828b3aa67b7f5]: Commencement: Sch. 1 para. 474 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-2ee28917d7f98069481113358db82b12]: Commencement: Sch. 1 para. 475 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-2ee28917d7f98069481113358db82b12]: Commencement: Sch. 1 para. 475 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-9c849d2ccce40ddd37a581aa9ce1be82]: Commencement: Sch. 1 para. 476 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-9c849d2ccce40ddd37a581aa9ce1be82]: Commencement: Sch. 1 para. 476 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-42b889fed61f20358dde0cf99b935565]: Commencement: Sch. 1 para. 477 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-42b889fed61f20358dde0cf99b935565]: Commencement: Sch. 1 para. 477 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-68050267daa953840fb1c3d63674db59]: Commencement: Sch. 1 para. 478 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-68050267daa953840fb1c3d63674db59]: Commencement: Sch. 1 para. 478 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-3c087688d1ccabc3c66f894fb3bbfa73]: Commencement: Sch. 1 para. 479 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-3c087688d1ccabc3c66f894fb3bbfa73]: Commencement: Sch. 1 para. 479 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-07e3ed6c30123b6318613ec0731f7c23]: Commencement: Sch. 1 para. 480 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-07e3ed6c30123b6318613ec0731f7c23]: Commencement: Sch. 1 para. 480 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-10c22cd772514d26a4cb84c9414660f2]: Commencement: Sch. 1 para. 481 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-10c22cd772514d26a4cb84c9414660f2]: Commencement: Sch. 1 para. 481 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-c5e2e677ad4ddd17fa15f270a03943a7]: Commencement: Sch. 1 para. 482 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-c5e2e677ad4ddd17fa15f270a03943a7]: Commencement: Sch. 1 para. 482 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-1fdd31431f846a91f95d2558fd6d29b5]: Commencement: Sch. 1 para. 483 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-1fdd31431f846a91f95d2558fd6d29b5]: Commencement: Sch. 1 para. 483 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-33431d1f3acde43268c1e73248c1a311]: Commencement: Sch. 1 para. 484 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-33431d1f3acde43268c1e73248c1a311]: Commencement: Sch. 1 para. 484 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-db1f8551a4f697418d5a56511a54b749]: Commencement: Sch. 1 para. 485 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-db1f8551a4f697418d5a56511a54b749]: Commencement: Sch. 1 para. 485 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-437321dcd72c4aec0a11fffedbd6ecbe]: Commencement: Sch. 1 para. 486 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-437321dcd72c4aec0a11fffedbd6ecbe]: Commencement: Sch. 1 para. 486 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-c5739a5e0a13991e0dd462e1ba2d5ef6]: Commencement: Sch. 1 para. 487 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-c5739a5e0a13991e0dd462e1ba2d5ef6]: Commencement: Sch. 1 para. 487 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-52a657935fa62bd00ea66db502ca03fc]: Commencement: Sch. 1 para. 488 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-52a657935fa62bd00ea66db502ca03fc]: Commencement: Sch. 1 para. 488 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-1a47de767dc95b3bc57049983fbb4e1b]: Commencement: Sch. 1 para. 489 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-1a47de767dc95b3bc57049983fbb4e1b]: Commencement: Sch. 1 para. 489 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-035c5fa772d1085db263380c218a5c0e]: Commencement: Sch. 1 para. 490 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-035c5fa772d1085db263380c218a5c0e]: Commencement: Sch. 1 para. 490 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-872feb85ca688ae1d22b75c3a0775672]: Commencement: Sch. 1 para. 491 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-872feb85ca688ae1d22b75c3a0775672]: Commencement: Sch. 1 para. 491 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-0e3133127e15467ea6d95ad84bdcd2af]: Commencement: Sch. 1 para. 492 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-0e3133127e15467ea6d95ad84bdcd2af]: Commencement: Sch. 1 para. 492 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-3459c447608ea007cf5a4c680ba625d4]: Commencement: Sch. 1 para. 493 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-3459c447608ea007cf5a4c680ba625d4]: Commencement: Sch. 1 para. 493 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-1033b97a7cfb469ab9c08d189ca195b4]: Commencement: Sch. 1 para. 494 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-1033b97a7cfb469ab9c08d189ca195b4]: Commencement: Sch. 1 para. 494 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-76fe2ec1c1f5abb208d2b543f00d77f8]: Commencement: Sch. 1 para. 495 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-76fe2ec1c1f5abb208d2b543f00d77f8]: Commencement: Sch. 1 para. 495 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-f76aa44305d11306c654bd4b3c287f3b]: Commencement: Sch. 1 para. 496 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-f76aa44305d11306c654bd4b3c287f3b]: Commencement: Sch. 1 para. 496 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-eac56e35ed5db818b547d01e15fe7d56]: Commencement: Sch. 1 para. 497 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-eac56e35ed5db818b547d01e15fe7d56]: Commencement: Sch. 1 para. 497 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-370be5f1c4c3d9f264b095fce5adeafc]: Commencement: Sch. 1 para. 498 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-370be5f1c4c3d9f264b095fce5adeafc]: Commencement: Sch. 1 para. 498 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-4384fc22bce08d59a1eb80b37ac6df2b]: Commencement: Sch. 1 para. 499 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-4384fc22bce08d59a1eb80b37ac6df2b]: Commencement: Sch. 1 para. 499 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-8a7c1cf42c9da5737da3accdd4c7ed4d]: Commencement: Sch. 1 para. 500 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-8a7c1cf42c9da5737da3accdd4c7ed4d]: Commencement: Sch. 1 para. 500 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-bdec4bd514964347ed6d990492da6abe]: Commencement: Sch. 1 para. 501 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-bdec4bd514964347ed6d990492da6abe]: Commencement: Sch. 1 para. 501 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-ba1f33ea5b1582dcc7c3e971e0328766]: Commencement: Sch. 1 para. 502 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-ba1f33ea5b1582dcc7c3e971e0328766]: Commencement: Sch. 1 para. 502 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-45a6a31ce8664b5ccc209542fa58a90c]: Commencement: Sch. 1 para. 503 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-45a6a31ce8664b5ccc209542fa58a90c]: Commencement: Sch. 1 para. 503 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-08f12cf4a7c524652fd33a545327d2a4]: Commencement: Sch. 1 para. 504 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-08f12cf4a7c524652fd33a545327d2a4]: Commencement: Sch. 1 para. 504 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-8680acf73fa72170df41209fee102db2]: Commencement: Sch. 1 para. 505 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-8680acf73fa72170df41209fee102db2]: Commencement: Sch. 1 para. 505 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-7d951e614b2223eaf5ecd1efe4665664]: Commencement: Sch. 1 para. 506 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-7d951e614b2223eaf5ecd1efe4665664]: Commencement: Sch. 1 para. 506 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-8fc80f5558ef88e93f237ea0b4af139b]: Commencement: Sch. 1 para. 507 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-8fc80f5558ef88e93f237ea0b4af139b]: Commencement: Sch. 1 para. 507 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-28ea6e3b56f74c611a5d7b47c7570532]: Commencement: Sch. 1 para. 508 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-28ea6e3b56f74c611a5d7b47c7570532]: Commencement: Sch. 1 para. 508 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-8dabb5204d0c69b3805a5c3f3ae199d4]: Commencement: Sch. 1 para. 509 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-8dabb5204d0c69b3805a5c3f3ae199d4]: Commencement: Sch. 1 para. 509 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-6bd70dac43900b6c7a0bd2bd073cc1d3]: Commencement: Sch. 1 para. 510 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-6bd70dac43900b6c7a0bd2bd073cc1d3]: Commencement: Sch. 1 para. 510 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-d958188041c5f07d3cd4dacd6a4157e4]: Commencement: Sch. 1 para. 511 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-d958188041c5f07d3cd4dacd6a4157e4]: Commencement: Sch. 1 para. 511 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-5aca737658c0c61d0b71bbd4be17d20d]: Commencement: Sch. 1 para. 512 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-5aca737658c0c61d0b71bbd4be17d20d]: Commencement: Sch. 1 para. 512 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-cd5a0666f87b417d10af7daf9b7b4b11]: Commencement: Sch. 1 para. 513 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-cd5a0666f87b417d10af7daf9b7b4b11]: Commencement: Sch. 1 para. 513 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-61401afd66c89fc9e5cac706ff796f69]: Commencement: Sch. 1 para. 514 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-61401afd66c89fc9e5cac706ff796f69]: Commencement: Sch. 1 para. 514 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
 
-[^key-ef15229283149e64fbf1b2ce5dfc3ae0]: Commencement: Sch. 2 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)
+[^c-ef15229283149e64fbf1b2ce5dfc3ae0]: Commencement: Sch. 2 in operation at 3.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/9/article/1)

@@ -59,7 +59,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) In section 126 of that Act (general interpretation), in the definition of “substantive requirements” for the words from “design and construction” to “with buildings” substitute “ matters mentioned in section 1(1A) above ”.
 
-## 2. Buildings of special historical or architectural interest[^key-b6018db765ff556269189b12ac9fac3b]
+## 2. Buildings of special historical or architectural interest[^c-b6018db765ff556269189b12ac9fac3b]
 
 After section 1 of the Building Act 1984 (c. 55) insert—
 
@@ -190,7 +190,7 @@ The following provisions of the Building Act 1984 (c. 55) (which provide certain
 - (a) section 4;
 - (b) section 59(4) and (5).
 
-## 6. Secretary of State to report on building stock[^key-caf039b6f494c4240b780f6049618d26]
+## 6. Secretary of State to report on building stock[^c-caf039b6f494c4240b780f6049618d26]
 
 (1) The Secretary of State must—
 
@@ -217,7 +217,7 @@ prepare a report on progress during the period in connection with the purposes m
 
 (4) The Secretary of State must lay before Parliament each report he prepares under this section.
 
-## 7. Registers of information and documents to be kept by local authorities[^key-f695f2f617ff6e76f9ec484dc91924ce]
+## 7. Registers of information and documents to be kept by local authorities[^c-f695f2f617ff6e76f9ec484dc91924ce]
 
 After section 91 of the Building Act 1984 (c. 55) insert—
 
@@ -256,7 +256,7 @@ After section 91 of the Building Act 1984 (c. 55) insert—
 >
 > (8) The power to make regulations under this section is exercisable by statutory instrument, which is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## 8. Certification of work[^key-4e414218b71ac02422a494f717321ca0]
+## 8. Certification of work[^c-4e414218b71ac02422a494f717321ca0]
 
 (1) In Schedule 1 to the Building Act 1984 (c. 55) (provision that may be included in building regulations), after paragraph 4 insert—
 
@@ -288,7 +288,7 @@ After section 91 of the Building Act 1984 (c. 55) insert—
 
 .
 
-## 9. Appointed person and management of works[^key-7a83c4f6ace42a23bdeb6f9a15cbd959]
+## 9. Appointed person and management of works[^c-7a83c4f6ace42a23bdeb6f9a15cbd959]
 
 In Schedule 1 to the Building Act 1984 (c. 55) (provision that may be included in building regulations) before paragraph 5 insert—
 
@@ -356,18 +356,18 @@ Section 11
 
 ## Annotations
 
-[^key-b6018db765ff556269189b12ac9fac3b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2004/22/section/2) in force at 1.2.2006 by [S.I. 2006/224](https://www.legislation.gov.uk/uksi/2006/224), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/224/article/2/a)
+[^c-b6018db765ff556269189b12ac9fac3b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2004/22/section/2) in force at 1.2.2006 by [S.I. 2006/224](https://www.legislation.gov.uk/uksi/2006/224), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/224/article/2/a)
 
 [^c552246]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2004/22/section/3) partly in force; [s. 3](https://www.legislation.gov.uk/ukpga/2004/22/section/3) not in force at Royal Assent see [s. 11(4)](https://www.legislation.gov.uk/ukpga/2004/22/section/11/4); [s. 3(1)-(7)](https://www.legislation.gov.uk/ukpga/2004/22/section/3/1) in force at 16.11.2004
 
 [^c552247]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2004/22/section/4) partly in force; [s. 4](https://www.legislation.gov.uk/ukpga/2004/22/section/4) not in force at Royal Assent see [s. 11(4)](https://www.legislation.gov.uk/ukpga/2004/22/section/11/4); [s. 4(1)-(3)](https://www.legislation.gov.uk/ukpga/2004/22/section/4/1)(5) in force at 16.11.2004
 
-[^key-caf039b6f494c4240b780f6049618d26]: Modification: S. 6: transfer of functions (31.12.2011) by [Welsh Ministers (Transfer of Functions) (No.2) Order 2009 (S.I. 2009/3019)](https://www.legislation.gov.uk/uksi/2009/3019), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2), [2(b)(i)](https://www.legislation.gov.uk/uksi/2009/3019/article/2/b/i), [5](https://www.legislation.gov.uk/uksi/2009/3019/article/5) (with [arts. 3](https://www.legislation.gov.uk/uksi/2009/3019/article/3), [4](https://www.legislation.gov.uk/uksi/2009/3019/article/4))
+[^c-caf039b6f494c4240b780f6049618d26]: Modification: S. 6: transfer of functions (31.12.2011) by [Welsh Ministers (Transfer of Functions) (No.2) Order 2009 (S.I. 2009/3019)](https://www.legislation.gov.uk/uksi/2009/3019), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2), [2(b)(i)](https://www.legislation.gov.uk/uksi/2009/3019/article/2/b/i), [5](https://www.legislation.gov.uk/uksi/2009/3019/article/5) (with [arts. 3](https://www.legislation.gov.uk/uksi/2009/3019/article/3), [4](https://www.legislation.gov.uk/uksi/2009/3019/article/4))
 
-[^key-f695f2f617ff6e76f9ec484dc91924ce]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2004/22/section/7) in force at 1.2.2006 for specified purposes by [S.I. 2006/224](https://www.legislation.gov.uk/uksi/2006/224), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/224/article/2/b)
+[^c-f695f2f617ff6e76f9ec484dc91924ce]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2004/22/section/7) in force at 1.2.2006 for specified purposes by [S.I. 2006/224](https://www.legislation.gov.uk/uksi/2006/224), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/224/article/2/b)
 
-[^key-4e414218b71ac02422a494f717321ca0]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2004/22/section/8) in force at 1.2.2006 by [S.I. 2006/224](https://www.legislation.gov.uk/uksi/2006/224), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/224/article/2/c)
+[^c-4e414218b71ac02422a494f717321ca0]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2004/22/section/8) in force at 1.2.2006 by [S.I. 2006/224](https://www.legislation.gov.uk/uksi/2006/224), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/224/article/2/c)
 
-[^key-7a83c4f6ace42a23bdeb6f9a15cbd959]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2004/22/section/9) in force at 1.2.2006 by [S.I. 2006/224](https://www.legislation.gov.uk/uksi/2006/224), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/224/article/2/d)
+[^c-7a83c4f6ace42a23bdeb6f9a15cbd959]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2004/22/section/9) in force at 1.2.2006 by [S.I. 2006/224](https://www.legislation.gov.uk/uksi/2006/224), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/224/article/2/d)
 
 [^c552248]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2004/22/section/11) partly in force; [s. 11](https://www.legislation.gov.uk/ukpga/2004/22/section/11) not in force at Royal Assent see [s. 11(4)](https://www.legislation.gov.uk/ukpga/2004/22/section/11/4); [s. 11(1)(3)-(5)](https://www.legislation.gov.uk/ukpga/2004/22/section/11/1/3) in force at 16.11.2004

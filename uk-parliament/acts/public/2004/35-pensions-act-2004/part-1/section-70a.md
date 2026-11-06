@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70A. Duty to report late payment of employer contributions[^key-ff7e1f22da5dc8065e1872668914a66c]
+## 70A. Duty to report late payment of employer contributions[^c-ff7e1f22da5dc8065e1872668914a66c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ This is subject to section 311 (protected items).
 
 ## Annotations
 
-[^key-ff7e1f22da5dc8065e1872668914a66c]: Textual amendment: [S. 70A](https://www.legislation.gov.uk/ukpga/2004/35/section/70A) and cross-heading inserted (1.4.2015) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-ff7e1f22da5dc8065e1872668914a66c]: Textual amendment: [S. 70A](https://www.legislation.gov.uk/ukpga/2004/35/section/70A) and cross-heading inserted (1.4.2015) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)

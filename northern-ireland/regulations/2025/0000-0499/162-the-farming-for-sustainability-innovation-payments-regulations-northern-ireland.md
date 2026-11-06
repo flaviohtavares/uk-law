@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001] with the approval of the Department of Finance[^f00002] makes these Regulations in exercise of the powers conferred by section 5(2B) of the Agriculture Act (Northern Ireland) 1949[^f00003].
 
-## 1. Citation and commencement[^key-227f82a37a543e84ee5611785cc936fa]
+## 1. Citation and commencement[^c-227f82a37a543e84ee5611785cc936fa]
 
  These Regulations may be cited as the Farming for Sustainability Innovation Payments Regulations (Northern Ireland) 2025 and shall come into operation on 23rd October 2025.
 
-## 2. Interpretation[^key-02b633f5126497d018e3e7d774b47b94]
+## 2. Interpretation[^c-02b633f5126497d018e3e7d774b47b94]
 
  In these Regulations–
 
@@ -61,11 +61,11 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001] with the a
 - “**meeting**” means an event for the purpose of facilitating learning which can be held either at a farm business or at an pre-approved venue;
 - “**member of the farm business**” means a member of a multi-member farm business must be registered with the Department on the list of members of that farm business.
 
-## 3. Innovation farm visit hosting payment[^key-83dc460ad9dae781745b0ddcb8e664c2]
+## 3. Innovation farm visit hosting payment[^c-83dc460ad9dae781745b0ddcb8e664c2]
 
  Subject to regulation 4, the Department shall pay to an applicant a hosting payment of £786 for each hosting event.
 
-## 4. Innovation farm visit hosting payments; Hosting requirements[^key-5ff3082ec3c207a695df592e23f23aa7]
+## 4. Innovation farm visit hosting payments; Hosting requirements[^c-5ff3082ec3c207a695df592e23f23aa7]
 
  A farm business which is responsible for delivering a hosting event must in relation to receiving a hosting payment–
 
@@ -73,14 +73,14 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001] with the a
 - (b) if their farm is not suitable due to biosecurity or health and safety reasons, the farm business must prepare an approved alternative venue, with approved supporting farm performance information, ensuring that sufficient biosecurity measures and health and safety requirements are met; and
 - (c) collate and present approved farm performance information at a meeting.
 
-**5.**[^key-2fba86c6ccaef11dc65aa201da5b6cac]  A person responsible for delivering a hosting event on behalf of a farm business must be–
+**5.**[^c-2fba86c6ccaef11dc65aa201da5b6cac]  A person responsible for delivering a hosting event on behalf of a farm business must be–
 
 - (a) a member of the farm business; or
 - (b) an employee of the farm business who–
   - (i) is at least 18 years of age; and
   - (ii) employed for at least 16 hours per week by the farm business.
 
-## 6. Innovation visit outside Northern Ireland; eligibility criteria[^key-3c1ba3a981577e14cdee7b8d43148aac]
+## 6. Innovation visit outside Northern Ireland; eligibility criteria[^c-3c1ba3a981577e14cdee7b8d43148aac]
 
  A participant in an innovation visit outside Northern Ireland must be–
 
@@ -89,7 +89,7 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001] with the a
   - (i) is at least 18 years of age; and
   - (ii) employed for at least 16 hours per week by the farm business.
 
-## 7. Withholding and recovery of payment[^key-74f8b883ed9f63bff7534b2eb111c943]
+## 7. Withholding and recovery of payment[^c-74f8b883ed9f63bff7534b2eb111c943]
 
 (1) This regulation applies where an application for payment has been approved by the Department and it becomes aware that the applicant–
 
@@ -110,7 +110,7 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001] with the a
 - (b) afford the applicant the opportunity to make written representations within a reasonable time specified by the Department; and
 - (c) consider representations made by or on behalf of the applicant within a reasonable time period.
 
-## 8. Review of decision[^key-d458d86261fb4a2b90fef86186f15eed]
+## 8. Review of decision[^c-d458d86261fb4a2b90fef86186f15eed]
 
 (1) Where the Department rejects an application under these Regulations, in whole or in part, an applicant may apply to the Department for a review of the decision.
 
@@ -173,18 +173,18 @@ provides for the review of a decision to reject an application (regulation 8).
 
 [^f00003]: Footnote: [1949 c.2 (N.I.)](https://www.legislation.gov.uk/apni/1949/2)
 
-[^key-227f82a37a543e84ee5611785cc936fa]: Commencement: Reg. 1 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)
+[^c-227f82a37a543e84ee5611785cc936fa]: Commencement: Reg. 1 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)
 
-[^key-02b633f5126497d018e3e7d774b47b94]: Commencement: Reg. 2 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)
+[^c-02b633f5126497d018e3e7d774b47b94]: Commencement: Reg. 2 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)
 
-[^key-83dc460ad9dae781745b0ddcb8e664c2]: Commencement: Reg. 3 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)
+[^c-83dc460ad9dae781745b0ddcb8e664c2]: Commencement: Reg. 3 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)
 
-[^key-5ff3082ec3c207a695df592e23f23aa7]: Commencement: Reg. 4 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)
+[^c-5ff3082ec3c207a695df592e23f23aa7]: Commencement: Reg. 4 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)
 
-[^key-2fba86c6ccaef11dc65aa201da5b6cac]: Commencement: Reg. 5 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)
+[^c-2fba86c6ccaef11dc65aa201da5b6cac]: Commencement: Reg. 5 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)
 
-[^key-3c1ba3a981577e14cdee7b8d43148aac]: Commencement: Reg. 6 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)
+[^c-3c1ba3a981577e14cdee7b8d43148aac]: Commencement: Reg. 6 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)
 
-[^key-74f8b883ed9f63bff7534b2eb111c943]: Commencement: Reg. 7 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)
+[^c-74f8b883ed9f63bff7534b2eb111c943]: Commencement: Reg. 7 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)
 
-[^key-d458d86261fb4a2b90fef86186f15eed]: Commencement: Reg. 8 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)
+[^c-d458d86261fb4a2b90fef86186f15eed]: Commencement: Reg. 8 in operation at 23.10.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/162/regulation/1)

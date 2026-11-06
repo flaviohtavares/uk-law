@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A discontinuance or suspension by the[^c2076850] FCA[^key-52b75077fc1c20cf46020d507394c140] on its own initiative takes effect—
+(1) A discontinuance or suspension by the[^c2076850] FCA[^c-52b75077fc1c20cf46020d507394c140] on its own initiative takes effect—
 
 - (a) immediately, if the notice under subsection (2) states that that is the case;
 - (b) in any other case, on such date as may be specified in that notice.
@@ -62,9 +62,9 @@ the FCA must give the issuer of the securities written notice.
 
 (9) The effect of cancelling a discontinuance is that the securities concerned are to be readmitted, without more, to the official list.
 
-(10)[^key-f8640eb1f94235afd9f0c24a7b56dac9] If—
+(10)[^c-f8640eb1f94235afd9f0c24a7b56dac9] If—
 
-- (a) the FCA has suspended the listing of securities on its own initiative, or securities have been suspended by the Bank of England under section 19, 39B or 48L of the Banking Act 2009, or paragraph 44 or 65 of Schedule 11 to the Financial Services and Markets Act 2023[^key-69f5a1c983038dfcc5ac178c71c27945] and
+- (a) the FCA has suspended the listing of securities on its own initiative, or securities have been suspended by the Bank of England under section 19, 39B or 48L of the Banking Act 2009, or paragraph 44 or 65 of Schedule 11 to the Financial Services and Markets Act 2023[^c-69f5a1c983038dfcc5ac178c71c27945] and
 - (b) the FCA proposes to refuse an application by the issuer of the securities for the cancellation of the suspension,
 
 the FCA must give the issuer a warning notice.
@@ -78,20 +78,20 @@ the FCA must give the issuer a warning notice.
 
 (13) “**Discontinuance**” means a discontinuance of listing under section 77(1).
 
-(14) “**Suspension**” means a suspension of listing under section 77(2) and in subsections (10) and (12), includes a suspension of listing under section 19, 39B or 48L of the Banking Act 2009[^key-4140a81b5639669e62d590cf99def211] or paragraph 44 or 65 of Schedule 11 to the Financial Services and Markets Act 2023[^key-ca7ae25fc266475f775b202c9d2ba097].
+(14) “**Suspension**” means a suspension of listing under section 77(2) and in subsections (10) and (12), includes a suspension of listing under section 19, 39B or 48L of the Banking Act 2009[^c-4140a81b5639669e62d590cf99def211] or paragraph 44 or 65 of Schedule 11 to the Financial Services and Markets Act 2023[^c-ca7ae25fc266475f775b202c9d2ba097].
 
 ## Annotations
 
 [^c2076850]: Textual amendment: Words in s. 78(1) inserted (12.7.2007) by [The Regulatory Reform (Financial Services and Markets Act 2000) Order 2007 (S.I. 2007/1973)](https://www.legislation.gov.uk/uksi/2007/1973), [art. 6(a)](https://www.legislation.gov.uk/uksi/2007/1973/article/6/a)
 
-[^key-52b75077fc1c20cf46020d507394c140]: Textual amendment: Words in ss. 73A-84 substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss.](https://www.legislation.gov.uk/ukpga/2012/21/section) [16(2)(3)(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/3/a), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-52b75077fc1c20cf46020d507394c140]: Textual amendment: Words in ss. 73A-84 substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss.](https://www.legislation.gov.uk/ukpga/2012/21/section) [16(2)(3)(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/3/a), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c2076856]: Textual amendment: Words in s. 78(2) inserted (12.7.2007) by [The Regulatory Reform (Financial Services and Markets Act 2000) Order 2007 (S.I. 2007/1973)](https://www.legislation.gov.uk/uksi/2007/1973), [art. 6(b)](https://www.legislation.gov.uk/uksi/2007/1973/article/6/b)
 
-[^key-f8640eb1f94235afd9f0c24a7b56dac9]: Textual amendment: S. 78(10) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [115(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/115/2)
+[^c-f8640eb1f94235afd9f0c24a7b56dac9]: Textual amendment: S. 78(10) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [115(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/115/2)
 
-[^key-69f5a1c983038dfcc5ac178c71c27945]: Textual amendment: Words in s. 78(10)(a) inserted (31.12.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 160(3)(a)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/160/3/a); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-69f5a1c983038dfcc5ac178c71c27945]: Textual amendment: Words in s. 78(10)(a) inserted (31.12.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 160(3)(a)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/160/3/a); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-4140a81b5639669e62d590cf99def211]: Textual amendment: Words in s. 78(14) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [115(3)](https://www.legislation.gov.uk/uksi/2014/3329/article/115/3)
+[^c-4140a81b5639669e62d590cf99def211]: Textual amendment: Words in s. 78(14) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [115(3)](https://www.legislation.gov.uk/uksi/2014/3329/article/115/3)
 
-[^key-ca7ae25fc266475f775b202c9d2ba097]: Textual amendment: Words in s. 78(14) inserted (31.12.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 160(3)(b)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/160/3/b); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-ca7ae25fc266475f775b202c9d2ba097]: Textual amendment: Words in s. 78(14) inserted (31.12.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 160(3)(b)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/160/3/b); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)

@@ -64,7 +64,7 @@ summary: ''
 >   - (ii) who is (or is to be) in receipt of grants under section 1 of the [^c14010681]Nursery Education and Grant-Maintained Schools Act 1996; or
 > - (c) (otherwise than as mentioned in paragraph (a) or (b)) in any educational institution which would fall within section 4(1) above (definition of “school”) but for the fact that it provides part-time, rather than full-time, primary education.
 
-(2)[^key-aede3ff99ec3dcfacb6ab60296b849fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-aede3ff99ec3dcfacb6ab60296b849fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -72,4 +72,4 @@ summary: ''
 
 [^c14010681]: Marginal citation: [1996 c. 50](https://www.legislation.gov.uk/ukpga/1996/50).
 
-[^key-aede3ff99ec3dcfacb6ab60296b849fa]: Textual amendment: [S. 131(2)](https://www.legislation.gov.uk/ukpga/1998/31/section/131/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-aede3ff99ec3dcfacb6ab60296b849fa]: Textual amendment: [S. 131(2)](https://www.legislation.gov.uk/ukpga/1998/31/section/131/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)

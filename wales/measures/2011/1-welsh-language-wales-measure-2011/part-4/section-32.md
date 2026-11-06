@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Record keeping standards[^key-5b621af8e11a983e7dd69e3ca9ae43e2]
+## 32. Record keeping standards[^c-5b621af8e11a983e7dd69e3ca9ae43e2]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b621af8e11a983e7dd69e3ca9ae43e2]: Commencement: [S. 32](https://www.legislation.gov.uk/mwa/2011/1/section/32) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-5b621af8e11a983e7dd69e3ca9ae43e2]: Commencement: [S. 32](https://www.legislation.gov.uk/mwa/2011/1/section/32) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

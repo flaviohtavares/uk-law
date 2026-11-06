@@ -84,13 +84,13 @@ In accordance with paragraph 19(2) of that Schedule[^f00014]. Ministers have dec
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-a3462f86aee9d7289a7d31f117b0caa3]
+### 1. Citation and commencement[^c-a3462f86aee9d7289a7d31f117b0caa3]
 
 (1) This Order may be cited as the Lerwick Harbour Revision Order 2015 and comes into force on the day after the day on which it was made.
 
-(2) This Order and the Lerwick Harbour Acts and Orders 1877 to 2010 may be cited together as the Lerwick Harbour Acts and Orders 1877 to 2015[^key-bf92ce4cb69c97de587a0dcc63f6bdd1] (hereinafter referred to as “the Harbour Acts and Orders”).
+(2) This Order and the Lerwick Harbour Acts and Orders 1877 to 2010 may be cited together as the Lerwick Harbour Acts and Orders 1877 to 2015[^c-bf92ce4cb69c97de587a0dcc63f6bdd1] (hereinafter referred to as “the Harbour Acts and Orders”).
 
-### 2. Interpretation[^key-0b73e2d308b9be344da0d4845bfdbbfd]
+### 2. Interpretation[^c-0b73e2d308b9be344da0d4845bfdbbfd]
 
 (1) In this Order—
 
@@ -110,22 +110,22 @@ In accordance with paragraph 19(2) of that Schedule[^f00014]. Ministers have dec
 
 ## PART II — WORKS
 
-### 3. Power to construct works[^key-c166b9a08128b074df46f0aaa0e24e49]
+### 3. Power to construct works[^c-c166b9a08128b074df46f0aaa0e24e49]
 
 The Authority may in the lines and situations and within the limits of deviation and according to the levels shown on the deposited plans and sections construct and maintain the following works—
 
 - Work No. 1 - The construction at Dales Voe of a solid quay adjoining and extending the existing Dales Voe jetty and comprising: (First) a steel sheet pile wall as shown on Sheet No. 2 on the deposited plan and extending as follows:- along the southern perimeter of the existing jetty from Point 1A to Point 1B for a distance of fourteen metres, from there for a distance of twenty two metres in north westerly direction to Point 1C, from there continuing in a south westerly direction for a distance of seventy five metres to Point 1D, from there in a south easterly direction for a distance of twenty eight and a half metres to Point 1E, from there in a south westerly direction for a distance of six and half metres to Point 1F, and from there in a south easterly direction for a distance of twenty metres and terminating at Point 1G; and (Second) a rock armour revetment shown delineated in black and in shaded by a network of small open hexagons as shown on Sheet No. 2 on the deposited plan commencing at Point 1G on the said steel sheet pile wall and extending as follows:- in a north westerly direction for a distance of twenty metres to Point 1F, from there in a north easterly direction for a distance of six and a half metres to Point 1E, from there in a north westerly direction for a distance of twenty three metres and thirty centimetres to Point 1H, from there in a south westerly direction for a distance of twenty one metres to Point 1J, from there in a south easterly direction for a distance of twenty eight metres to Point 1K, from there a south easterly direction for a distance of twenty metres and then terminating at Point 1L where the new revetment meets the existing shore mooring point.
 - Work No. 2 - The construction of a reclamation area and slope protection with a mixture of concrete slab, bitmac and hardcore surfacing shown delineated in black and inshaded by a network of small open hexagons as shown on Sheet No. 4 on the deposited plan and extending as follows:- along the north western perimeter of the existing jetty from Point 2A to Point 2B for a distance of six metres, from there north for a distance of fourteen metres to Point 2C, from there in a north easterly direction for a distance of ninety four metres to Point 2D, from there in a south easterly direction for a distance of ninety one metres to Point 2E, from there in a westerly direction for a distance of sixteen metres to Point 2F, from there in a north westerly direction for a distance of fifty eight metres to Point 2G, from there in a south westerly direction for a distance of eighty four metres and then terminating at Point 2A.
 
-### 4. Power to renew, etc. works[^key-6402c5db88e0d333de2dd1e219d2f076]
+### 4. Power to renew, etc. works[^c-6402c5db88e0d333de2dd1e219d2f076]
 
 Subject to the provisions of this Order the Authority may, within the limits of deviation, renew, replace, extend or otherwise alter temporarily or permanently the works authorised by article 3 of this Order.
 
-### 5. Power to deviate[^key-6f2267282508dd6f811bf36b38de2e68]
+### 5. Power to deviate[^c-6f2267282508dd6f811bf36b38de2e68]
 
 Subject to the provisions of this Order, in the construction or execution of the renewal, replacement, extension or alteration of the works the Authority may deviate laterally from the lines or situations shown on the deposited plans and sections to any extent not exceeding the limits of deviation and may deviate vertically from the levels of the works shown on the deposited plans and sections to any extent not exceeding 3 metres upwards and to such extent downwards as may be necessary or convenient.
 
-### 6. Rights of navigation to be interfered with[^key-f36d0bc53f7937520550381d51339e3b]
+### 6. Rights of navigation to be interfered with[^c-f36d0bc53f7937520550381d51339e3b]
 
 On the day on which this Order comes into force any rights of navigation within the harbour shall be extinguished to the extent only that the exercise of such rights would be prevented or hindered by the construction, presence, use or maintenance of the works authorised by article 3 (power to construct works) or the following works—
 
@@ -133,11 +133,11 @@ On the day on which this Order comes into force any rights of navigation within 
 - Work No. 3 – Area B - the portion of the existing rock armour revetment as shown shaded blue on the deposited plan Sheet No. 6 extending to sixty metres squared constructed with a rock infill with a hardcore top surface area being bounded on the north west by the adjoining portion of the existing rock armour revetment and the existing shore mooring point and centred on Point 3F.
 - Work No. 3 – Area C **-** the portion of the existing rock armour revetment as shown shaded yellow on the deposited plan Sheet No. 6 extending to one hundred and twenty five metres squared constructed with a rock infill with a hardcore top surface area being bounded on the north west by the adjoining portion of the existing rock armour revetment and centred on Point 3G.
 
-### 7. Subsidiary works[^key-277c3299644e4a96eece886ac1aaecf1]
+### 7. Subsidiary works[^c-277c3299644e4a96eece886ac1aaecf1]
 
 The Authority may from time to time within the limits of deviation construct, maintain and operate, whether temporarily or permanently, such other works as may be necessary or convenient for the purposes, or in connection with or in consequence of the construction, maintenance or use of the works of the port; including works for the accommodation or convenience of vessels or for the loading and unloading of goods and the embarking and landing of passengers.
 
-### 8. Power to dredge[^key-4f7471bcb5d0c8fa3b4c7101a6303d50]
+### 8. Power to dredge[^c-4f7471bcb5d0c8fa3b4c7101a6303d50]
 
 (1) Without prejudice to any other powers which may be exercisable by the Authority within the harbour, the Authority may, for the purposes of constructing and maintaining the works, the existing works or the harbour undertaking, and of affording access to the works, the existing works and the harbour undertaking by vessels, from time to time deepen, dredge, scour, cleanse, alter and improve so much of the bed, shores and channels of the harbour as lie within the limits of the harbour and within the approaches and the channels leading to those limits may blast any rock in the area so described and may use, appropriate or dispose of the materials (other than wreck within the meaning of Part IX of the Merchant Shipping Act 1995), from time to time dredged by them.
 
@@ -148,11 +148,11 @@ The Authority may from time to time within the limits of deviation construct, ma
 
 (3) The Authority shall not blast any rock except with the consent of the Scottish Ministers, and in accordance with any conditions and restrictions imposed by the Scottish Ministers before blasting operations have begun or while blasting operations are still in progress.
 
-### 9. Fine for obstructing works[^key-0b796e1ebd342dee61e95fd5efb2fec8]
+### 9. Fine for obstructing works[^c-0b796e1ebd342dee61e95fd5efb2fec8]
 
 Any person who intentionally obstructs any person acting under the authority of the Authority in setting out the lines of or constructing the works or who damages, moves or removes any pole, stake, station point or bench mark established for the purpose of such setting out, shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 10. Tidal works not to be executed without approval of the Scottish Ministers[^key-d66ee2db047ab2590e88621766a32101]
+### 10. Tidal works not to be executed without approval of the Scottish Ministers[^c-d66ee2db047ab2590e88621766a32101]
 
 (1) A tidal work shall not be constructed, executed, renewed, replaced, extended, altered or demolished except in accordance with plans and sections approved by the Scottish Ministers and subject to any conditions and restrictions imposed by the Scottish Ministers before the work is begun.
 
@@ -167,29 +167,29 @@ and any expenditure incurred by the Scottish Ministers in so doing shall be reco
 
 (4) Subject to paragraph (3), the works referred to in paragraph (1) shall be deemed to be “harbour works” within the meaning and for the purposes of the Marine Works (Environmental Impact Assessment) Regulations 2007[^f00017].
 
-### 11. Lights on tidal works during construction[^key-c32209c70f3045e7f0a4c8656ec05dff]
+### 11. Lights on tidal works during construction[^c-c32209c70f3045e7f0a4c8656ec05dff]
 
 (1) During the whole time of demolition, construction, renewal, replacement, extension or alteration of any tidal work the Authority shall at the outer extremity of that work every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If the Authority fail to comply in any respect with a direction given under paragraph (1) it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 12. Permanent lights on tidal works[^key-af9d733efc4ace7c1e5a8269292c7f00]
+### 12. Permanent lights on tidal works[^c-af9d733efc4ace7c1e5a8269292c7f00]
 
 (1) After the completion of a tidal work the Authority shall at the outer extremity thereof exhibit every night from sunset to sunrise such lights, if any, and take such steps for preventing danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If the Authority fails to comply in any respect with a direction given under this article it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 13. Survey of tidal works[^key-1cff833054cb0bc82d9e810da56fc5de]
+### 13. Survey of tidal works[^c-1cff833054cb0bc82d9e810da56fc5de]
 
 The Scottish Ministers may at any time they deem it expedient order a survey and examination of a tidal work or of the site upon which it is proposed to construct and execute the work and any expenditure incurred by them in such survey or examination shall be recoverable from the Authority as a debt.
 
-### 14. Provision against danger to navigation[^key-577c506afa80b8c15af30c32d1926807]
+### 14. Provision against danger to navigation[^c-577c506afa80b8c15af30c32d1926807]
 
 (1) In case of injury to or destruction or decay of a tidal work or any part of it the Authority shall as soon as reasonably practicable notify the Commissioners of Northern Lighthouses and shall lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If the Authority fails to comply with the provisions of this Article it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 15. Abatement of works abandoned and decayed[^key-da54a8abafc9d7906b09fd2d956ab10b]
+### 15. Abatement of works abandoned and decayed[^c-da54a8abafc9d7906b09fd2d956ab10b]
 
 (1) Where a tidal work is abandoned or has fallen into decay the Scottish Ministers may by notice in writing require the Authority at its own expense either to repair and restore the work or any part of it, or to remove the work and restore the site of it to its former condition, to such an extent and within such limits as the Scottish Ministers think proper.
 
@@ -197,7 +197,7 @@ The Scottish Ministers may at any time they deem it expedient order a survey and
 
 (3) If, on the expiration of 60 days from the date when a notice under this Article is served upon the Authority it has failed to comply with the requirements of the notice, the Scottish Ministers may execute the works specified in the notice and any expenditure incurred by them in so doing shall be recoverable from the Authority as a debt.
 
-### 16. Period for completion of works[^key-4cfadaaabc4666b694e3c640dc188793]
+### 16. Period for completion of works[^c-4cfadaaabc4666b694e3c640dc188793]
 
 (1) Subject to paragraph (2), if the works are not substantially completed within five years from the coming into force of this Order or such extended time as the Scottish Ministers may on the application of the Authority allow by consent in writing, then on the expiration of that period or such extended time (as the case may be) the powers granted by this Order to the Authority for making and maintaining the works shall cease except as to those works as are at that time substantially commenced.
 
@@ -211,7 +211,7 @@ The Scottish Ministers may at any time they deem it expedient order a survey and
 
 ## PART III — MISCELLANEOUS AND GENERAL
 
-### 17. Defence of due diligence[^key-4cbfaf18b38ea717f207c9d220f1e2b4]
+### 17. Defence of due diligence[^c-4cbfaf18b38ea717f207c9d220f1e2b4]
 
 (1) In proceedings for an offence under any provision of this Order mentioned in paragraph (2) it shall be a defence for the Authority to prove that it took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence.
 
@@ -223,7 +223,7 @@ The Scottish Ministers may at any time they deem it expedient order a survey and
 
 (3) If in any case the defence provided by paragraph (1) involves the allegation that the commission of the offence was due to the act or default of another person, the Authority shall not, without leave of the court, be entitled to rely on that defence unless, within a period of 7 clear days before the hearing, it has served on the prosecutor a notice in writing giving such information identifying, or assisting in the identification of, that other person as was then in its possession.
 
-### 18. Defence to proceedings in respect of statutory nuisance[^key-96b1b17590214bf91b94aeccc710200a]
+### 18. Defence to proceedings in respect of statutory nuisance[^c-96b1b17590214bf91b94aeccc710200a]
 
 (1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990 (summary proceedings by person aggrieved by statutory nuisance) in relation to a nuisance falling within paragraph (g) of section 79 (1) of that Act (noise emitted from premises so as to be prejudicial to health or a nuisance) no order shall be made under section 82(2) of that Act if the defender shows—
 
@@ -234,7 +234,7 @@ The Scottish Ministers may at any time they deem it expedient order a survey and
 
 (2) Section 61(9) (consent for work on construction site to include statement that it does not of itself constitute a defence to proceedings under section 82 of the Environmental Protection Act 1990) shall not apply where the consent relates to the use of premises by the Authority for the purposes of or in connection with the exercise of the powers conferred by this Order with respect to the construction or maintenance of the work.
 
-### 19. Environmental requirements[^key-855f2ed72bbfeb002fbd8170e4bbe6f5]
+### 19. Environmental requirements[^c-855f2ed72bbfeb002fbd8170e4bbe6f5]
 
 (1) No work shall be commenced until the Scottish Ministers have, following consultation with the Scottish Environment Protection Agency and Scottish Natural Heritage, approved an environmental management plan for the work.
 
@@ -245,32 +245,32 @@ The Scottish Ministers may at any time they deem it expedient order a survey and
 
 (3) Nothing in paragraph (2) shall exempt the Authority from fulfilling any requirement imposed on the Authority by any rule of law or which arises from any commitment which is binding on the Authority.
 
-### 20. Borrowing powers[^key-80ceb0490151033cdbfa73e4d2ada3b2]
+### 20. Borrowing powers[^c-80ceb0490151033cdbfa73e4d2ada3b2]
 
 (1) The Authority may from time to time borrow, by any methods and on such terms as it sees fit, such sums of money as it thinks necessary for the purposes of meeting its obligations in carrying out its statutory powers, duties and functions; and where moneys are borrowed by the Authority under this Article, the Authority may, if it sees fit, borrow those moneys upon the security of some or all of its assets or of some or all of its revenues or of some or all of both its assets and revenues; and the Authority may effect such arrangements as it sees fit to mitigate against any financial risk incurred for the purposes of meeting such obligations.
 
 (2) The provisions of sections 3, 4 and 5 of the Lerwick Harbour Revision Order 1982 are hereby repealed.
 
-### 21. Amendment of the Lerwick Harbour (Miscellaneous Provisions) Order Confirmation Act 1975[^key-26594d885d9adc34c65a9268d8e19dc1]
+### 21. Amendment of the Lerwick Harbour (Miscellaneous Provisions) Order Confirmation Act 1975[^c-26594d885d9adc34c65a9268d8e19dc1]
 
 The provisions of sections 7 and 11 of the Lerwick Harbour (Miscellaneous Provisions) Order Confirmation Act 1975[^f00018] are hereby repealed.
 
-### 22. Saving for Commissioners of Northern Lighthouses[^key-c80161714bbde74504a3336a69413882]
+### 22. Saving for Commissioners of Northern Lighthouses[^c-c80161714bbde74504a3336a69413882]
 
 Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of the Commissioners of Northern Lighthouses.
 
-### 23. Saving for other consents etc.[^key-1f27aa094503ce656fb6267631acadc2]
+### 23. Saving for other consents etc.[^c-1f27aa094503ce656fb6267631acadc2]
 
 The carrying out of any works or operations pursuant to this Order is subject to the Authority obtaining any consent, permission or licence required under any other enactment.
 
-### 24. Crown Rights[^key-1fdb32811df5caa7adbcbe7bf31fc66c]
+### 24. Crown Rights[^c-1fdb32811df5caa7adbcbe7bf31fc66c]
 
 (1) Nothing in this Order shall affect prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to that generality nothing contained in the Order shall authorise the Authority to take, use, enter upon or in any manner interfere with any land or interest in land, or any rights of whatsoever description (including any portion of the shore or bed of the sea or any river, channel, creek, bay or estuary)—
 
-- (a) belonging to Her Majesty in right of the Crown and under the management of the Crown Estate Commissioners or a relevant person[^key-46cde578b0c22d6a6751c37128904751], without the consent in writing of those Commissioners or (as the case may be) that person[^key-420dc38c665ee468533f8aac25cdf9f9]; or
+- (a) belonging to Her Majesty in right of the Crown and under the management of the Crown Estate Commissioners or a relevant person[^c-46cde578b0c22d6a6751c37128904751], without the consent in writing of those Commissioners or (as the case may be) that person[^c-420dc38c665ee468533f8aac25cdf9f9]; or
 - (b) belonging to a government department, or held in trust for Her Majesty for the purposes of a government department without the consent in writing of that government department.
 
-(1A)[^key-7c4190fba9a1c817ac235b57e3c99618] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+(1A)[^c-7c4190fba9a1c817ac235b57e3c99618] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
 
 (2) A consent under paragraph (1) may be given unconditionally or subject to terms and conditions.
 
@@ -328,66 +328,66 @@ Copies of the Environmental Statement and the deposited plans and sections may a
 
 [^f00014]: Footnote: Paragraph 19(2) of Schedule 3 was substituted by [S.I. 1999/3345](https://www.legislation.gov.uk/uksi/1999/3345).
 
-[^key-a3462f86aee9d7289a7d31f117b0caa3]: Commencement: Art. 1 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-a3462f86aee9d7289a7d31f117b0caa3]: Commencement: Art. 1 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-bf92ce4cb69c97de587a0dcc63f6bdd1]: Textual amendment: Word in [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/4/article/1/2) substituted (12.4.2019) by [The Lerwick Harbour Revision (Constitution) Order 2019 (S.S.I. 2019/136)](https://www.legislation.gov.uk/ssi/2019/136), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2019/136/article/1/1), [17](https://www.legislation.gov.uk/ssi/2019/136/article/17)
+[^c-bf92ce4cb69c97de587a0dcc63f6bdd1]: Textual amendment: Word in [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/4/article/1/2) substituted (12.4.2019) by [The Lerwick Harbour Revision (Constitution) Order 2019 (S.S.I. 2019/136)](https://www.legislation.gov.uk/ssi/2019/136), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2019/136/article/1/1), [17](https://www.legislation.gov.uk/ssi/2019/136/article/17)
 
-[^key-0b73e2d308b9be344da0d4845bfdbbfd]: Commencement: Art. 2 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-0b73e2d308b9be344da0d4845bfdbbfd]: Commencement: Art. 2 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
 [^f00015]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
 
 [^f00016]: Footnote: [1994 c.x](https://www.legislation.gov.uk/ukla/1994/10).
 
-[^key-c166b9a08128b074df46f0aaa0e24e49]: Commencement: Art. 3 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-c166b9a08128b074df46f0aaa0e24e49]: Commencement: Art. 3 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-6402c5db88e0d333de2dd1e219d2f076]: Commencement: Art. 4 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-6402c5db88e0d333de2dd1e219d2f076]: Commencement: Art. 4 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-6f2267282508dd6f811bf36b38de2e68]: Commencement: Art. 5 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-6f2267282508dd6f811bf36b38de2e68]: Commencement: Art. 5 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-f36d0bc53f7937520550381d51339e3b]: Commencement: Art. 6 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-f36d0bc53f7937520550381d51339e3b]: Commencement: Art. 6 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-277c3299644e4a96eece886ac1aaecf1]: Commencement: Art. 7 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-277c3299644e4a96eece886ac1aaecf1]: Commencement: Art. 7 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-4f7471bcb5d0c8fa3b4c7101a6303d50]: Commencement: Art. 8 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-4f7471bcb5d0c8fa3b4c7101a6303d50]: Commencement: Art. 8 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-0b796e1ebd342dee61e95fd5efb2fec8]: Commencement: Art. 9 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-0b796e1ebd342dee61e95fd5efb2fec8]: Commencement: Art. 9 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-d66ee2db047ab2590e88621766a32101]: Commencement: Art. 10 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-d66ee2db047ab2590e88621766a32101]: Commencement: Art. 10 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
 [^f00017]: Footnote: [S.I. 2007/1518](https://www.legislation.gov.uk/uksi/2007/1518); “harbour works” is defined in regulation 2(1).
 
-[^key-c32209c70f3045e7f0a4c8656ec05dff]: Commencement: Art. 11 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-c32209c70f3045e7f0a4c8656ec05dff]: Commencement: Art. 11 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-af9d733efc4ace7c1e5a8269292c7f00]: Commencement: Art. 12 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-af9d733efc4ace7c1e5a8269292c7f00]: Commencement: Art. 12 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-1cff833054cb0bc82d9e810da56fc5de]: Commencement: Art. 13 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-1cff833054cb0bc82d9e810da56fc5de]: Commencement: Art. 13 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-577c506afa80b8c15af30c32d1926807]: Commencement: Art. 14 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-577c506afa80b8c15af30c32d1926807]: Commencement: Art. 14 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-da54a8abafc9d7906b09fd2d956ab10b]: Commencement: Art. 15 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-da54a8abafc9d7906b09fd2d956ab10b]: Commencement: Art. 15 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-4cfadaaabc4666b694e3c640dc188793]: Commencement: Art. 16 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-4cfadaaabc4666b694e3c640dc188793]: Commencement: Art. 16 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-4cbfaf18b38ea717f207c9d220f1e2b4]: Commencement: Art. 17 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-4cbfaf18b38ea717f207c9d220f1e2b4]: Commencement: Art. 17 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-96b1b17590214bf91b94aeccc710200a]: Commencement: Art. 18 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-96b1b17590214bf91b94aeccc710200a]: Commencement: Art. 18 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-855f2ed72bbfeb002fbd8170e4bbe6f5]: Commencement: Art. 19 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-855f2ed72bbfeb002fbd8170e4bbe6f5]: Commencement: Art. 19 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-80ceb0490151033cdbfa73e4d2ada3b2]: Commencement: Art. 20 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-80ceb0490151033cdbfa73e4d2ada3b2]: Commencement: Art. 20 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-26594d885d9adc34c65a9268d8e19dc1]: Commencement: Art. 21 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-26594d885d9adc34c65a9268d8e19dc1]: Commencement: Art. 21 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
 [^f00018]: Footnote: [1975 c.xxv](https://www.legislation.gov.uk/ukla/1975/25).
 
-[^key-c80161714bbde74504a3336a69413882]: Commencement: Art. 22 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-c80161714bbde74504a3336a69413882]: Commencement: Art. 22 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-1f27aa094503ce656fb6267631acadc2]: Commencement: Art. 23 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-1f27aa094503ce656fb6267631acadc2]: Commencement: Art. 23 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-1fdb32811df5caa7adbcbe7bf31fc66c]: Commencement: Art. 24 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+[^c-1fdb32811df5caa7adbcbe7bf31fc66c]: Commencement: Art. 24 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
 
-[^key-46cde578b0c22d6a6751c37128904751]: Textual amendment: Words in [art. 24(1)(a)](https://www.legislation.gov.uk/ssi/2015/4/article/24/1/a) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/paragraph/1/2), [Sch. 5 para. 136(a)(i)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/136/a/i)
+[^c-46cde578b0c22d6a6751c37128904751]: Textual amendment: Words in [art. 24(1)(a)](https://www.legislation.gov.uk/ssi/2015/4/article/24/1/a) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/paragraph/1/2), [Sch. 5 para. 136(a)(i)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/136/a/i)
 
-[^key-420dc38c665ee468533f8aac25cdf9f9]: Textual amendment: Words in [art. 24(1)(a)](https://www.legislation.gov.uk/ssi/2015/4/article/24/1/a) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/paragraph/1/2), [Sch. 5 para. 136(a)(ii)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/136/a/ii)
+[^c-420dc38c665ee468533f8aac25cdf9f9]: Textual amendment: Words in [art. 24(1)(a)](https://www.legislation.gov.uk/ssi/2015/4/article/24/1/a) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/paragraph/1/2), [Sch. 5 para. 136(a)(ii)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/136/a/ii)
 
-[^key-7c4190fba9a1c817ac235b57e3c99618]: Textual amendment: [Art. 24(1A)](https://www.legislation.gov.uk/ssi/2015/4/article/24/1A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/paragraph/1/2), [Sch. 5 para. 136(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/136/b)
+[^c-7c4190fba9a1c817ac235b57e3c99618]: Textual amendment: [Art. 24(1A)](https://www.legislation.gov.uk/ssi/2015/4/article/24/1A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/paragraph/1/2), [Sch. 5 para. 136(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/136/b)

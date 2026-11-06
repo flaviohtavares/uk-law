@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Power to confer all-Scotland jurisdiction for specified cases[^key-920c408000d1b10707524c19cba8124d]
+## 41. Power to confer all-Scotland jurisdiction for specified cases[^c-920c408000d1b10707524c19cba8124d]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-920c408000d1b10707524c19cba8124d]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2014/18/section/41) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-920c408000d1b10707524c19cba8124d]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2014/18/section/41) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

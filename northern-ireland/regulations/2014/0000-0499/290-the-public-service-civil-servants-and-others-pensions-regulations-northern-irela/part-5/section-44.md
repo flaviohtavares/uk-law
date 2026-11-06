@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Opening balance, index adjustment and age addition[^key-a3b0752636c2d10da3d401c20c1bc911]
+## 44. Opening balance, index adjustment and age addition[^c-a3b0752636c2d10da3d401c20c1bc911]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3b0752636c2d10da3d401c20c1bc911]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2014/290/regulation/44) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-a3b0752636c2d10da3d401c20c1bc911]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2014/290/regulation/44) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

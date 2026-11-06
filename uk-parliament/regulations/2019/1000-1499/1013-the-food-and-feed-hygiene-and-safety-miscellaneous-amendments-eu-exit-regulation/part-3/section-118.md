@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Amendment of Commission Regulation (EU) 2017/185 laying down transitional measures for the application of certain provisions of Regulations [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853) and [(EC) No. 854/2004](https://www.legislation.gov.uk/eur/2004/854) of the European Parliament and of the Council[^key-8375ef99bbd3ff6842401a88d299262b]
+## 118. Amendment of Commission Regulation (EU) 2017/185 laying down transitional measures for the application of certain provisions of Regulations [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853) and [(EC) No. 854/2004](https://www.legislation.gov.uk/eur/2004/854) of the European Parliament and of the Council[^c-8375ef99bbd3ff6842401a88d299262b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8375ef99bbd3ff6842401a88d299262b]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [21(e)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/21/e)
+[^c-8375ef99bbd3ff6842401a88d299262b]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [21(e)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/21/e)

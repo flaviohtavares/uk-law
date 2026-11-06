@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Initial notification[^key-c0cce9424636ee822e24ed097b73d453]
+## 47. Initial notification[^c-c0cce9424636ee822e24ed097b73d453]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,12 +28,12 @@ summary: ''
 - (b) national insurance number;
 - (c) name on the date on which the person was dealt with in respect of the offence (where the person used one or more other names on that date, each of those names);
 - (d) home address on that date;
-- (da)[^key-bdf5dc4c769882f186d2688bac650952] all contact details on that date;
+- (da)[^c-bdf5dc4c769882f186d2688bac650952] all contact details on that date;
 - (e) name on the date on which notification is made (where the person uses one or more other names on that date, each of those names);
 - (f) home address on the date on which notification is made;
-- (fa)[^key-c5b16a7fe7bb1ade24f88836fa2d6926] all contact details on the date on which notification is made;
+- (fa)[^c-c5b16a7fe7bb1ade24f88836fa2d6926] all contact details on the date on which notification is made;
 - (g) address of any other premises in the United Kingdom at which, at the time the notification is made, the person regularly resides or stays;
-- (ga)[^key-799f23562a3d6b91b05a24a945d31f13] identifying information of any motor vehicle of which the person is the registered keeper, or which the person has a right to use (whether routinely or on specific occasions or for specific purposes), on the date on which notification is made;
+- (ga)[^c-799f23562a3d6b91b05a24a945d31f13] identifying information of any motor vehicle of which the person is the registered keeper, or which the person has a right to use (whether routinely or on specific occasions or for specific purposes), on the date on which notification is made;
 - (gb) the financial information specified in paragraph 1 of Schedule 3A;
 - (gc) the information about identification documents specified in paragraph 2 of Schedule 3A;
 - (h) any prescribed information.
@@ -63,10 +63,10 @@ the reference in subsection (1) to the day on which the person is dealt with in 
 
 ## Annotations
 
-[^key-c0cce9424636ee822e24ed097b73d453]: Commencement: S. 47 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
+[^c-c0cce9424636ee822e24ed097b73d453]: Commencement: S. 47 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
 
-[^key-bdf5dc4c769882f186d2688bac650952]: Textual amendment: S. 47(2)(da) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/2/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
+[^c-bdf5dc4c769882f186d2688bac650952]: Textual amendment: S. 47(2)(da) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/2/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
 
-[^key-c5b16a7fe7bb1ade24f88836fa2d6926]: Textual amendment: S. 47(2)(fa) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/2/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
+[^c-c5b16a7fe7bb1ade24f88836fa2d6926]: Textual amendment: S. 47(2)(fa) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/2/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
 
-[^key-799f23562a3d6b91b05a24a945d31f13]: Textual amendment: S. 47(2)(ga)-(gc) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(2)(c)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/2/c), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
+[^c-799f23562a3d6b91b05a24a945d31f13]: Textual amendment: S. 47(2)(ga)-(gc) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(2)(c)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/2/c), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))

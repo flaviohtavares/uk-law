@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 121. Frequency of ... controls in third countries[^key-5a70cc043d7f905e92f1f69ad8695cd3]
+## Article 121. Frequency of ... controls in third countries[^c-5a70cc043d7f905e92f1f69ad8695cd3]
 
 *Extent: E+W+S+N.I.*
 
-The frequency of [^key-fb9387323805409b23a4165ec600c2e4]... controls in third countries referred to in Article 120 shall be determined on the basis of the following criteria:
+The frequency of [^c-fb9387323805409b23a4165ec600c2e4]... controls in third countries referred to in Article 120 shall be determined on the basis of the following criteria:
 
-- ((a)) a risk assessment of the animals and goods exported to Great Britain[^key-b3472ab8dfe60dd4815a863eb687edfa] from the third country concerned;
+- ((a)) a risk assessment of the animals and goods exported to Great Britain[^c-b3472ab8dfe60dd4815a863eb687edfa] from the third country concerned;
 - ((b)) the rules referred to in Article 1(2);
 - ((c)) the volume and nature of animals and goods entering Great Britain from the third country concerned;
-- ((d)) the outcome of controls already performed by the experts appointed by the competent authority[^key-f93079d346a127216b6f28cfb3f8de70] or by other inspection bodies;
-- ((e)) the outcome of official controls on animals and goods entering Great Britain from the third country concerned and of any other official controls that competent authorities in Great Britain[^key-c196b3ee295eaae56517ef8013feb041] have performed;
+- ((d)) the outcome of controls already performed by the experts appointed by the competent authority[^c-f93079d346a127216b6f28cfb3f8de70] or by other inspection bodies;
+- ((e)) the outcome of official controls on animals and goods entering Great Britain from the third country concerned and of any other official controls that competent authorities in Great Britain[^c-c196b3ee295eaae56517ef8013feb041] have performed;
 - ((f)) information received from the EFSA or similar bodies;
 - ((g)) information received from internationally recognised bodies such as:
   - ((i)) the World Health Organization;
@@ -42,12 +42,12 @@ The frequency of [^key-fb9387323805409b23a4165ec600c2e4]... controls in third co
 
 ## Annotations
 
-[^key-5a70cc043d7f905e92f1f69ad8695cd3]: Textual amendment: Word in [Art. 121](https://www.legislation.gov.uk/eur/2017/625/article/121) heading omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(6)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/6) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-5a70cc043d7f905e92f1f69ad8695cd3]: Textual amendment: Word in [Art. 121](https://www.legislation.gov.uk/eur/2017/625/article/121) heading omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(6)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/6) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-fb9387323805409b23a4165ec600c2e4]: Textual amendment: Word in [Art. 121](https://www.legislation.gov.uk/eur/2017/625/article/121) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(7)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/7/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-fb9387323805409b23a4165ec600c2e4]: Textual amendment: Word in [Art. 121](https://www.legislation.gov.uk/eur/2017/625/article/121) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(7)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/7/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-b3472ab8dfe60dd4815a863eb687edfa]: Textual amendment: Words in [Art. 121](https://www.legislation.gov.uk/eur/2017/625/article/121) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(7)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/7/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-b3472ab8dfe60dd4815a863eb687edfa]: Textual amendment: Words in [Art. 121](https://www.legislation.gov.uk/eur/2017/625/article/121) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(7)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/7/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-f93079d346a127216b6f28cfb3f8de70]: Textual amendment: Words in [Art. 121(d)](https://www.legislation.gov.uk/eur/2017/625/article/121/d) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(7)(c)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/7/c) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-f93079d346a127216b6f28cfb3f8de70]: Textual amendment: Words in [Art. 121(d)](https://www.legislation.gov.uk/eur/2017/625/article/121/d) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(7)(c)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/7/c) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-c196b3ee295eaae56517ef8013feb041]: Textual amendment: Words in [Art. 121(e)](https://www.legislation.gov.uk/eur/2017/625/article/121/e) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(7)(d)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/7/d) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-c196b3ee295eaae56517ef8013feb041]: Textual amendment: Words in [Art. 121(e)](https://www.legislation.gov.uk/eur/2017/625/article/121/e) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(7)(d)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/7/d) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

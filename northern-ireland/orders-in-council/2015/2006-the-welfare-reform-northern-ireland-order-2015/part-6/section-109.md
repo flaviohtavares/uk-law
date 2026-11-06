@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 109. Recovery of benefit payments[^key-a3c70d7423c5ecefb47a10b5d3114f03][^key-718a1fcdc5e05572a6871cb30b709222][^key-20afc29b048d66e78987843d8c67fa0d][^key-d382c8bf4373d311907a7490e336f474]
+## 109. Recovery of benefit payments[^c-a3c70d7423c5ecefb47a10b5d3114f03][^c-718a1fcdc5e05572a6871cb30b709222][^c-20afc29b048d66e78987843d8c67fa0d][^c-d382c8bf4373d311907a7490e336f474]
 
 *Extent: N.I.*
 
@@ -195,10 +195,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a3c70d7423c5ecefb47a10b5d3114f03]: Commencement: [Art. 109](https://www.legislation.gov.uk/nisi/2015/2006/article/109) in operation at 4.4.2016 for specified purposes by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 4(a)](https://www.legislation.gov.uk/nisr/2016/46/article/4/a)
+[^c-a3c70d7423c5ecefb47a10b5d3114f03]: Commencement: [Art. 109](https://www.legislation.gov.uk/nisi/2015/2006/article/109) in operation at 4.4.2016 for specified purposes by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 4(a)](https://www.legislation.gov.uk/nisr/2016/46/article/4/a)
 
-[^key-718a1fcdc5e05572a6871cb30b709222]: Commencement: [Art. 109](https://www.legislation.gov.uk/nisi/2015/2006/article/109) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/b)
+[^c-718a1fcdc5e05572a6871cb30b709222]: Commencement: [Art. 109](https://www.legislation.gov.uk/nisi/2015/2006/article/109) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/b)
 
-[^key-20afc29b048d66e78987843d8c67fa0d]: Commencement: [Art. 109](https://www.legislation.gov.uk/nisi/2015/2006/article/109) in operation at 20.6.2016 otherwise except in relation to universal credit by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/215/article/3/3)
+[^c-20afc29b048d66e78987843d8c67fa0d]: Commencement: [Art. 109](https://www.legislation.gov.uk/nisi/2015/2006/article/109) in operation at 20.6.2016 otherwise except in relation to universal credit by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/215/article/3/3)
 
-[^key-d382c8bf4373d311907a7490e336f474]: Commencement: [Art. 109](https://www.legislation.gov.uk/nisi/2015/2006/article/109) in operation at 27.9.2017 in so far as not already in operation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(e)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/e)
+[^c-d382c8bf4373d311907a7490e336f474]: Commencement: [Art. 109](https://www.legislation.gov.uk/nisi/2015/2006/article/109) in operation at 27.9.2017 in so far as not already in operation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(e)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/e)

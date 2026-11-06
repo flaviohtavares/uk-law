@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001] in exercise of the powers conferred by Articles 12A(2) and 12A(3) of the Wildlife (Northern Ireland) Order 1985 [^f00002] and having in accordance with Article 29(3) of that Order consulted the Council for Nature Conservation and the Countryside[^f00003] and any district council or other person affected and taken into consideration any objections or representations duly received makes the following Order.
 
-## 1. Citation[^key-e1bbbe9e4e046248102fde97e9b0b1d1]
+## 1. Citation[^c-e1bbbe9e4e046248102fde97e9b0b1d1]
 
 This Order may be cited as The Spring Traps Approval Order (Northern Ireland) 2019, and shall come into operation on 31st May 2019.
 
-## 2. Approval of Spring Traps[^key-5c7deea4e6f7de9ec0c40718accdeed2]
+## 2. Approval of Spring Traps[^c-5c7deea4e6f7de9ec0c40718accdeed2]
 
 (1) Subject to paragraph (2) the following spring traps are approved for the purposes of Article 12A(3) of the Wildlife (Northern Ireland) Order 1985 —
 
@@ -61,11 +61,11 @@ This Order may be cited as The Spring Traps Approval Order (Northern Ireland) 20
 
 (3) For the purposes of this Order, a spring trap is equivalent in all relevant respects to a spring trap of a type and make specified in Schedule 1 if it corresponds to the spring trap so specified in construction, in materials, in impact force or momentum, and in all other respects which are relevant to its effect or manner of operation as a trap and “equivalent spring trap” shall be construed accordingly.
 
-## 3. Traps for small ground vermin[^key-5e44f677d0e56a186bfc5674f4806659]
+## 3. Traps for small ground vermin[^c-5e44f677d0e56a186bfc5674f4806659]
 
 The traps referred to in Schedule 2 are, for the purpose of Article 12A(2) of the Wildlife (Northern Ireland) Order 1985, specified as being adapted solely for the destruction of rats, mice or other small ground vermin.
 
-## 4. Revocation[^key-43e6d1089b49c9463845afa9c5066a3f]
+## 4. Revocation[^c-43e6d1089b49c9463845afa9c5066a3f]
 
 The Spring Traps Approval Order (Northern Ireland) 2012[^f00004] is revoked.
 
@@ -77,7 +77,7 @@ A senior officer of the
 
 Department of Agriculture, Environment and Rural affairs
 
-## SCHEDULE 1[^key-5c943d92838ae66e22912dbddfa1e464]
+## SCHEDULE 1[^c-5c943d92838ae66e22912dbddfa1e464]
 
 Article 2
 
@@ -167,13 +167,13 @@ Article 2
 </tbody>
 </table>
 
-[^f01000][^key-0534039fe1b095861f94bed9d3bfda04][^key-ab8f556607b2a00743d0f0dee4b5e720][^key-3d0c7e6cf01a65cfdb261575d13ed8c3]
+[^f01000][^c-0534039fe1b095861f94bed9d3bfda04][^c-ab8f556607b2a00743d0f0dee4b5e720][^c-3d0c7e6cf01a65cfdb261575d13ed8c3]
 
 ## SCHEDULE 2
 
 Article 3
 
-**1.**[^key-83b12433cf5d0a9e8da980b08c8c2c3d] Spring traps known as break-back traps and commonly used for the destruction of rats, mice and other small vermin.
+**1.**[^c-83b12433cf5d0a9e8da980b08c8c2c3d] Spring traps known as break-back traps and commonly used for the destruction of rats, mice and other small vermin.
 
 EXPLANATORY NOTE
 
@@ -199,26 +199,26 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00003]: Footnote: The Council for Nature Conservation and the Countryside (CNCC) was established in 1989 under the provisions of the Nature Conservation and Amenity Lands (Amendment) (Northern Ireland) Order 1989. It replaced the existing Committee for Nature Conservation established under Article 5 of the Nature Conservation and Amenity Lands (Northern Ireland) Order 1985.
 
-[^key-e1bbbe9e4e046248102fde97e9b0b1d1]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1) in operation at 31.5.2019, see [art. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1)
+[^c-e1bbbe9e4e046248102fde97e9b0b1d1]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1) in operation at 31.5.2019, see [art. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1)
 
-[^key-5c7deea4e6f7de9ec0c40718accdeed2]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2019/69/article/2) in operation at 31.5.2019, see [art. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1)
+[^c-5c7deea4e6f7de9ec0c40718accdeed2]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2019/69/article/2) in operation at 31.5.2019, see [art. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1)
 
-[^key-5e44f677d0e56a186bfc5674f4806659]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2019/69/article/3) in operation at 31.5.2019, see [art. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1)
+[^c-5e44f677d0e56a186bfc5674f4806659]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2019/69/article/3) in operation at 31.5.2019, see [art. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1)
 
-[^key-43e6d1089b49c9463845afa9c5066a3f]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2019/69/article/4) in operation at 31.5.2019, see [art. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1)
+[^c-43e6d1089b49c9463845afa9c5066a3f]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2019/69/article/4) in operation at 31.5.2019, see [art. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1)
 
 [^f00004]: Footnote: [S.R. 2012 No. 25](https://www.legislation.gov.uk/nisr/2012/25)
 
-[^key-5c943d92838ae66e22912dbddfa1e464]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2019/69/schedule/1) in operation at 31.5.2019, see [art. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1)
+[^c-5c943d92838ae66e22912dbddfa1e464]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2019/69/schedule/1) in operation at 31.5.2019, see [art. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1)
 
 [^f01000]: Footnote: (1)
 
     [1985 No. 171 (N.I. 2)](https://www.legislation.gov.uk/nisi/1985/171), as amended by the [Wildlife and Natural Environment Act (N.I.) 2011 (c.15)](https://www.legislation.gov.uk/nia/2011/15)
 
-[^key-0534039fe1b095861f94bed9d3bfda04]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2019/69/schedule/1) inserted (4.1.2022) by [The Spring Traps Approval (Amendment) Order (Northern Ireland) 2021 (S.R. 2021/321)](https://www.legislation.gov.uk/nisr/2021/321), [arts. 1](https://www.legislation.gov.uk/nisr/2021/321/article/1), [2(a)](https://www.legislation.gov.uk/nisr/2021/321/article/2/a)
+[^c-0534039fe1b095861f94bed9d3bfda04]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2019/69/schedule/1) inserted (4.1.2022) by [The Spring Traps Approval (Amendment) Order (Northern Ireland) 2021 (S.R. 2021/321)](https://www.legislation.gov.uk/nisr/2021/321), [arts. 1](https://www.legislation.gov.uk/nisr/2021/321/article/1), [2(a)](https://www.legislation.gov.uk/nisr/2021/321/article/2/a)
 
-[^key-ab8f556607b2a00743d0f0dee4b5e720]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2019/69/schedule/1) inserted (4.1.2022) by [The Spring Traps Approval (Amendment) Order (Northern Ireland) 2021 (S.R. 2021/321)](https://www.legislation.gov.uk/nisr/2021/321), [arts. 1](https://www.legislation.gov.uk/nisr/2021/321/article/1), [2(b)](https://www.legislation.gov.uk/nisr/2021/321/article/2/b)
+[^c-ab8f556607b2a00743d0f0dee4b5e720]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2019/69/schedule/1) inserted (4.1.2022) by [The Spring Traps Approval (Amendment) Order (Northern Ireland) 2021 (S.R. 2021/321)](https://www.legislation.gov.uk/nisr/2021/321), [arts. 1](https://www.legislation.gov.uk/nisr/2021/321/article/1), [2(b)](https://www.legislation.gov.uk/nisr/2021/321/article/2/b)
 
-[^key-3d0c7e6cf01a65cfdb261575d13ed8c3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2019/69/schedule/1) substituted (4.1.2022) by [The Spring Traps Approval (Amendment) Order (Northern Ireland) 2021 (S.R. 2021/321)](https://www.legislation.gov.uk/nisr/2021/321), [arts. 1](https://www.legislation.gov.uk/nisr/2021/321/article/1), [2(c)](https://www.legislation.gov.uk/nisr/2021/321/article/2/c)
+[^c-3d0c7e6cf01a65cfdb261575d13ed8c3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2019/69/schedule/1) substituted (4.1.2022) by [The Spring Traps Approval (Amendment) Order (Northern Ireland) 2021 (S.R. 2021/321)](https://www.legislation.gov.uk/nisr/2021/321), [arts. 1](https://www.legislation.gov.uk/nisr/2021/321/article/1), [2(c)](https://www.legislation.gov.uk/nisr/2021/321/article/2/c)
 
-[^key-83b12433cf5d0a9e8da980b08c8c2c3d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2019/69/schedule/2/paragraph/1) in operation at 31.5.2019, see [art. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1)
+[^c-83b12433cf5d0a9e8da980b08c8c2c3d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2019/69/schedule/2/paragraph/1) in operation at 31.5.2019, see [art. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1)

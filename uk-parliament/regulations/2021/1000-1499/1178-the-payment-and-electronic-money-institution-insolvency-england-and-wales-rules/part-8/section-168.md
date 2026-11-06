@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 168. Review of remuneration[^key-2ebb83df71a5ba931b8063768c693f62]
+## 168. Review of remuneration[^c-2ebb83df71a5ba931b8063768c693f62]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ and this Chapter applies as appropriate.
 
 ## Annotations
 
-[^key-2ebb83df71a5ba931b8063768c693f62]: Commencement: Rule 168 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-2ebb83df71a5ba931b8063768c693f62]: Commencement: Rule 168 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

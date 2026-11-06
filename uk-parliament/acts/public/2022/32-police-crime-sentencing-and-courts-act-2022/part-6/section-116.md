@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Code of practice[^key-f2cb35edf421aab2ef674cf2ed3990a2]
+## 116. Code of practice[^c-f2cb35edf421aab2ef674cf2ed3990a2]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ but may not publish or amend the draft without the consent of the Attorney Gener
 
 ## Annotations
 
-[^key-f2cb35edf421aab2ef674cf2ed3990a2]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2022/32/section/116) in force at 24.5.2023 by [S.I. 2023/573](https://www.legislation.gov.uk/uksi/2023/573), [reg. 2](https://www.legislation.gov.uk/uksi/2023/573/regulation/2)
+[^c-f2cb35edf421aab2ef674cf2ed3990a2]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2022/32/section/116) in force at 24.5.2023 by [S.I. 2023/573](https://www.legislation.gov.uk/uksi/2023/573), [reg. 2](https://www.legislation.gov.uk/uksi/2023/573/regulation/2)

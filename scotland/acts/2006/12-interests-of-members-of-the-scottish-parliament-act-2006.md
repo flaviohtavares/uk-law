@@ -72,7 +72,7 @@ or declare that the member had no such interest.
 
 (4) The relevant date for the purposes of subsection (3) is the date which is 30 days after the date on which the member has taken the oath of allegiance or made a solemn affirmation in accordance with section 84(1) of the 1998 Act.
 
-(5)[^key-8ab619135b65baba3cd82d9cbc1782e6] But where the member acquired the registrable interest on the same date as the member was returned, the relevant date for the purposes of subsection (3) is the last day of the period of 30 days beginning with the date of the return.
+(5)[^c-8ab619135b65baba3cd82d9cbc1782e6] But where the member acquired the registrable interest on the same date as the member was returned, the relevant date for the purposes of subsection (3) is the last day of the period of 30 days beginning with the date of the return.
 
 ### 4. Written statement[^c1651261]
 
@@ -89,13 +89,13 @@ or declare that the member had no such interest.
 - (a) register that statement in the entry relating to the member in the register together with the date on which the statement was lodged; and
 - (b) send a copy of that entry to the member.
 
-(6)[^key-93cb7c990270550b5146f0cef0443812] However, the Clerk need not register the address of any individual named or referred to in a written statement.
+(6)[^c-93cb7c990270550b5146f0cef0443812] However, the Clerk need not register the address of any individual named or referred to in a written statement.
 
 ### 5. Registration of registrable interests acquired after date of return[^c1651235]
 
 (1) This section applies where a member acquires a registrable interest after the date on which the member was returned.
 
-(2) Within 30 days beginning with[^key-0e703566f42114197a71d9869f9e743a] the date on which the member acquired that interest, that member shall register that interest by lodging a written statement with the Clerk.
+(2) Within 30 days beginning with[^c-0e703566f42114197a71d9869f9e743a] the date on which the member acquired that interest, that member shall register that interest by lodging a written statement with the Clerk.
 
 ### 6. Late registrations[^c1651236]
 
@@ -126,7 +126,7 @@ A member may at any time register an interest which a member is not required to 
 - (a) amend the entry relating to that member in the register by deleting that interest and any information relating to it; and
 - (b) send a copy of the amended entry to that member.
 
-### 8A. Reporting and registration of changes to controlled transactions[^key-cf0ae5fd77e90747c16f9397076fe33d]
+### 8A. Reporting and registration of changes to controlled transactions[^c-cf0ae5fd77e90747c16f9397076fe33d]
 
 (1) For the purposes of this section, there is a change to a registered interest that is a controlled transaction if—
 
@@ -175,7 +175,7 @@ A member may at any time register an interest which a member is not required to 
 
 ### 10. Old entries[^c1651240]
 
-(1) When the Clerk amends an entry relating to a member in the register, the Clerk shall keep a copy of the old entries for a period of at least 10[^key-ec3fbfb475a6c690602512e2f3144630] years from the date of making the last amendment.
+(1) When the Clerk amends an entry relating to a member in the register, the Clerk shall keep a copy of the old entries for a period of at least 10[^c-ec3fbfb475a6c690602512e2f3144630] years from the date of making the last amendment.
 
 (2) Section 1(4) shall apply to the keeping of the old entries as it applies to the keeping of the register.
 
@@ -216,7 +216,7 @@ A member may at any time register an interest which a member is not required to 
 
 - (a) “**any means**” shall be construed as the doing of anything by a member in the capacity of a member, whether or not in any proceedings of the Parliament; and
 - (b) “**any payment or benefit in kind**” means any payment or benefit in kind—
-  - (i)[^key-8f75ff9e1bafef36fbca88d99f1c7d96] which the member receives, agrees to receive or requests and which falls within subsection (2A); or
+  - (i)[^c-8f75ff9e1bafef36fbca88d99f1c7d96] which the member receives, agrees to receive or requests and which falls within subsection (2A); or
   - (ii) which the member's spouse, civil partner or cohabitant receives, agrees to receive or requests and which falls within subsection (2B).
 
 (2A) A payment or benefit in kind falls within this subsection if, after taking account of all the circumstances, it may reasonably be considered that the payment or benefit results (or, if and when made or given, would result) in some benefit to the member, other than a vote for that member in any election to the Parliament.
@@ -226,7 +226,7 @@ A member may at any time register an interest which a member is not required to 
 - (a) is being provided (or, if and when made or given, would be provided) in connection with the Parliamentary duties of the member; and
 - (b) results (or, if and when made or given, would result) in some benefit to that member.
 
-(3) Subsection (1) shall not prevent a member receiving, agreeing to receive or requesting[^key-241551abb26c26922a538edc5a8f32ca] assistance in connection with any of the following matters—
+(3) Subsection (1) shall not prevent a member receiving, agreeing to receive or requesting[^c-241551abb26c26922a538edc5a8f32ca] assistance in connection with any of the following matters—
 
 - (a) the preparation of a Member's Bill or of any amendment to a Bill, or any other matter relating to a Bill (whether before, during or after its passage in the Parliament and before it is submitted for Royal Assent); or
 - (b) a debate upon subordinate legislation (whether before or after its making); or
@@ -250,9 +250,9 @@ the Parliament may, in such manner as it considers appropriate in the particular
 
 ### 16. Exclusion from proceedings of the Parliament[^c1651244]
 
-Where a member fails to comply with, or contravenes, section 3, 5, 6, 8A(4) and (5), 13 or 14 or a measure taken by the Parliament under section 15[^key-f3b34698364c879088e9e4af733c2c23], the Parliament may, in such manner as it may determine, exclude that member from proceedings in the Parliament for such period as it may consider appropriate.
+Where a member fails to comply with, or contravenes, section 3, 5, 6, 8A(4) and (5), 13 or 14 or a measure taken by the Parliament under section 15[^c-f3b34698364c879088e9e4af733c2c23], the Parliament may, in such manner as it may determine, exclude that member from proceedings in the Parliament for such period as it may consider appropriate.
 
-### 17. Offences[^key-ac99b53b7867608731a3b15bec5f0ae7]
+### 17. Offences[^c-ac99b53b7867608731a3b15bec5f0ae7]
 
 (1) Any member who—
 
@@ -263,7 +263,7 @@ is guilty of an offence.
 
 (2) A person guilty of such an offence is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 17A. Other sanctions[^key-4ca70010f4b7854df01c37008c1a4b06]
+### 17A. Other sanctions[^c-4ca70010f4b7854df01c37008c1a4b06]
 
 (1) If a member fails to comply with, or contravenes, section 3, 5, 6, 8A(4) and (5), 13 or 14 or a measure taken by the Parliament under section 15 or 16, the Parliament may, by resolution, do one or more of the following—
 
@@ -298,7 +298,7 @@ and any reference in this Act to “**being returned as a member**” shall be c
 
 (3) For the purposes of subsection (2)(a), a Scottish Law Officer shall be regarded as continuing in office after an election if no other person is appointed to that office within 28 days after the date of the poll at that election.
 
-(4) Section 3(4) and (5)[^key-5478db380a68f78a8f456410e01ba3ff] shall not apply and, for the purposes of section 3(3), the relevant date, in relation to such a Scottish Law Officer, is the date which is 60 days after the date mentioned in subsection (2)(a) or the date which is 30 days after the date mentioned in subsection (2)(b), according to whichever applies.
+(4) Section 3(4) and (5)[^c-5478db380a68f78a8f456410e01ba3ff] shall not apply and, for the purposes of section 3(3), the relevant date, in relation to such a Scottish Law Officer, is the date which is 60 days after the date mentioned in subsection (2)(a) or the date which is 30 days after the date mentioned in subsection (2)(b), according to whichever applies.
 
 (5) Section 9(5) shall not apply but the Clerk shall delete the entry relating to such a Scottish Law Officer, on the date when that person either ceases to be appointed to, or ceases to be deemed to continue in, that office.
 
@@ -320,14 +320,14 @@ and any reference in this Act to “**being returned as a member**” shall be c
 - “**declarable financial interest**” shall be construed in accordance with section 12(2);
 - “**financial interest**” includes benefits in kind;
 - “**heritable property**” includes any right or interest in heritable property whether in Scotland or elsewhere;
-- “**member**” (except in references to a member of a registered political party)[^key-b37f62387fac9f7c2c91348b3e65a3b8] means a member of the Scottish Parliament and, subject to section 18, includes a Scottish Law Officer where that officer is not a member of the Parliament;
+- “**member**” (except in references to a member of a registered political party)[^c-b37f62387fac9f7c2c91348b3e65a3b8] means a member of the Scottish Parliament and, subject to section 18, includes a Scottish Law Officer where that officer is not a member of the Parliament;
 - “**member's salary**” means the gross annual salary of a member as a member;
 - “**old entries**” shall be construed in accordance with section 10(3);
 - “**parent undertaking**” has the same meaning as in the Companies Acts (see section 1162 of the Companies Act 2006)[^c2019089][^c2019089];
 - “**parliamentary session**” means the period from the date of the first meeting of the Parliament following a general election until the Parliament is dissolved;
 - “**prejudice test**” shall be construed in accordance with section 3(2);
 - “**the register**” means the Register of Interests of Members of the Scottish Parliament established under section 1(1) and associated words shall be construed accordingly;
-- “[^key-0fc6bf1f435d99c639a9530fe7114d7d]**registered political party**” means a political party registered under Part II of the Political Parties, Elections and Referendums Act 2000 (c.41);
+- “[^c-0fc6bf1f435d99c639a9530fe7114d7d]**registered political party**” means a political party registered under Part II of the Political Parties, Elections and Referendums Act 2000 (c.41);
 - “**registrable interest**” shall be construed in accordance with section 2(1);
 - “**registrable financial interest**” shall be construed in accordance with section 2(2) and the schedule;
 - “**remuneration**” includes any salary, wage, share of profits, fee, expenses, other monetary benefit or benefit in kind;
@@ -349,7 +349,7 @@ and any reference in this Act to “**being returned as a member**” shall be c
 
 and any reference in this Act to an interest being registered shall be construed accordingly.
 
-(4)[^key-37b68150090140c947d814b43ea996d6] For the purposes of the schedule, a member is to be taken as accepting a controlled transaction when it is entered into (even although, in the case of an arrangement of the kind mentioned in paragraph 6A(6) of the schedule, the member is not a party to the arrangement).
+(4)[^c-37b68150090140c947d814b43ea996d6] For the purposes of the schedule, a member is to be taken as accepting a controlled transaction when it is entered into (even although, in the case of an arrangement of the kind mentioned in paragraph 6A(6) of the schedule, the member is not a party to the arrangement).
 
 ### 20. Revocation and saving[^c1651247]
 
@@ -395,7 +395,7 @@ and any reference in this Act to an interest being registered shall be construed
 - (c) being the holder of an office;
 - (d) being a director of an undertaking;
 - (e) being a partner in a firm; or
-- (f) undertaking a trade, profession or vocation [^key-8d4258aa444189fa215403ff4410b4d1]....
+- (f) undertaking a trade, profession or vocation [^c-8d4258aa444189fa215403ff4410b4d1]....
 
 (1A)[^M_F_97860621-58d1-4054-a0e0-2f6eb1a3a1c0] Where a member is, or was—
 
@@ -404,9 +404,9 @@ and any reference in this Act to an interest being registered shall be construed
 
   but does, or did, not receive remuneration by virtue of being such a director or partner.
 
-(2) A member does not fall within sub-paragraph (1) solely by virtue of being, or of having been, a member, a member of the Scottish Executive or a junior Scottish Minister or holding or having held the office of Presiding Officer, deputy Presiding Officer or member of the Parliamentary corporation or of Convener, deputy Convener or member of a Committee of the Parliament[^key-d4853c335b50ac9b8de06ea26072e58f].
+(2) A member does not fall within sub-paragraph (1) solely by virtue of being, or of having been, a member, a member of the Scottish Executive or a junior Scottish Minister or holding or having held the office of Presiding Officer, deputy Presiding Officer or member of the Parliamentary corporation or of Convener, deputy Convener or member of a Committee of the Parliament[^c-d4853c335b50ac9b8de06ea26072e58f].
 
-(3)[^key-9f6fdf1620c6be6a6cbf36cfd3fce6f7] Sub-paragraph (1) does not apply where the remuneration received from a person on a single, or on more than one, occasion during the current parliamentary session consists solely of expenses unless those expenses amount, or amount in aggregate, to more than the specified limit.
+(3)[^c-9f6fdf1620c6be6a6cbf36cfd3fce6f7] Sub-paragraph (1) does not apply where the remuneration received from a person on a single, or on more than one, occasion during the current parliamentary session consists solely of expenses unless those expenses amount, or amount in aggregate, to more than the specified limit.
 
 (4) The exception in sub-paragraph (3) applies even although the remuneration received from that person on another occasion, or on other occasions, during that session does not consist solely of expenses.
 
@@ -418,17 +418,17 @@ and any reference in this Act to an interest being registered shall be construed
 
 ### Related undertaking
 
-**3.**[^key-3a7251cc76768e8085040cbd2da29c17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3a7251cc76768e8085040cbd2da29c17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Election expenses
 
-**4.**[^key-cdd2a8822285e543d9648384b1db131a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cdd2a8822285e543d9648384b1db131a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Sponsorship
 
-**5.**[^key-e8f8145cdf957f94a349f35fb2f8b996] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e8f8145cdf957f94a349f35fb2f8b996] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Gifts[^key-92cbf76f7b99b635cde62d0ed87dda19]
+### Gifts[^c-92cbf76f7b99b635cde62d0ed87dda19]
 
 **6.** (1) Where the circumstances are as described in sub-paragraph (2) or (3).
 
@@ -488,7 +488,7 @@ as the case may be.
 - “ **political activities** ”, in relation to a member, means the political activities of the member as such or as a member of a registered political party or both;
 - “ **specified limit** ” means 0.5% of a member's salary (rounded down to the nearest £10) at the beginning of the current parliamentary session.
 
-### Loans, credit facilities etc.[^key-095c06809003ab2a68c152f2c1abe086]
+### Loans, credit facilities etc.[^c-095c06809003ab2a68c152f2c1abe086]
 
 **6A.** (1) Where a member enters into a controlled transaction and—
 
@@ -550,7 +550,7 @@ the member is to be treated as having entered into a registrable transaction on 
 
 (4) For the purposes of sub-paragraphs (1) and (2), no account is to be taken of the effect of any provision in a loan agreement or an agreement for a credit facility at the time it is entered into which enables outstanding interest to be added to any sum for the time being owed in respect of the loan or credit facility, whether or not any such interest has been so added.
 
-### Overseas visits[^key-d8337ca27e2594eb9d654558f356ff94]
+### Overseas visits[^c-d8337ca27e2594eb9d654558f356ff94]
 
 **7.** (1) Where the circumstances are as described in sub-paragraph (2) or (4).
 
@@ -594,12 +594,12 @@ the member is to be treated as having entered into a registrable transaction on 
 
 (2) This sub-paragraph applies where either—
 
-- (a) the market value of the heritable property, at the relevant date, exceeds the specified limit[^key-eed98372c9850077b754c2ce649e4f5b]; or
-- (b)[^key-50b96e46d7a51808a237ec15bb26d0c0] any income is received from the heritable property during the twelve months prior to the relevant date.
+- (a) the market value of the heritable property, at the relevant date, exceeds the specified limit[^c-eed98372c9850077b754c2ce649e4f5b]; or
+- (b)[^c-50b96e46d7a51808a237ec15bb26d0c0] any income is received from the heritable property during the twelve months prior to the relevant date.
 
 (3) Sub-paragraph (1) applies to heritable property which a member owns or holds, or has owned or held—
 
-- (a) solely in the member’s[^key-85b539c679348e6e134d1cf296db1306] name;
+- (a) solely in the member’s[^c-85b539c679348e6e134d1cf296db1306] name;
 - (b) jointly with any other person or body; or
 - (c) as a trustee, whether or not jointly with other trustees, where the member has an interest as a beneficiary of the trust.
 
@@ -633,11 +633,11 @@ the member is to be treated as having entered into a registrable transaction on 
 (2) This sub-paragraph applies where either—
 
 - (a) the nominal value of the shares at the relevant date is, or was, greater than 1% of the total nominal value of the issued share capital of the company or other body; or
-- (b) the market value of the shares at the relevant date exceeds, or exceeded, the specified limit[^key-7963a5c1e0362928228a61bb8a8b96d7].
+- (b) the market value of the shares at the relevant date exceeds, or exceeded, the specified limit[^c-7963a5c1e0362928228a61bb8a8b96d7].
 
-(3) Sub-paragraph (1) applies [^key-d6d21345833cc0f312eaa15a35a4243e] ... to an interest in shares, whether that interest is, or was, held by a member (or a relevant person)—
+(3) Sub-paragraph (1) applies [^c-d6d21345833cc0f312eaa15a35a4243e] ... to an interest in shares, whether that interest is, or was, held by a member (or a relevant person)—
 
-- (a) solely in the name of the member (or relevant person)[^key-4f3e4becec2654589633c455e9193463];
+- (a) solely in the name of the member (or relevant person)[^c-4f3e4becec2654589633c455e9193463];
 - (b) jointly with any other person or body; or
 - (c) as a trustee, whether or not jointly with other trustees where the member has an interest as a beneficiary of the trust.
 
@@ -657,26 +657,26 @@ the member is to be treated as having entered into a registrable transaction on 
 
 (8) In this paragraph—
 
-- “current parliamentary session” means the parliamentary session which begins immediately after, or in which, the member is returned;[^key-f93c890a112299225a1a7b1b9c347dd6]
-- [^key-9cd92b4440f2af430f56ffa3bfb31397] ... an “ **interest in shares** ” means an interest in shares comprised in the share capital of a company or other body; [^key-9cd92b4440f2af430f56ffa3bfb31397] ...
-- “ **relevant person** ” is a person who is subject to the control or direction of a member in respect of an interest in shares ;[^key-f18c1aaca362749422a42192d0b94579]
+- “current parliamentary session” means the parliamentary session which begins immediately after, or in which, the member is returned;[^c-f93c890a112299225a1a7b1b9c347dd6]
+- [^c-9cd92b4440f2af430f56ffa3bfb31397] ... an “ **interest in shares** ” means an interest in shares comprised in the share capital of a company or other body; [^c-9cd92b4440f2af430f56ffa3bfb31397] ...
+- “ **relevant person** ” is a person who is subject to the control or direction of a member in respect of an interest in shares ;[^c-f18c1aaca362749422a42192d0b94579]
 - “specified limit” means 50% of a member’s salary (rounded down to the nearest £10) at the beginning of the current parliamentary session.
 
 ### Modification
 
 **10.**[^c1651256] (1) The Parliament may, by resolution, make any modifications of this schedule which the Parliament considers necessary or expedient.
 
-(2)[^key-d3af44591cdfb1827ddbaeb146337e38][^key-58db07f00345b20bd4e36eb84d7b50ad] Immediately after any such resolution is passed, the Clerk shall send a copy of it to the Queen’s Printer for Scotland (“the Queen’s Printer”).
+(2)[^c-d3af44591cdfb1827ddbaeb146337e38][^c-58db07f00345b20bd4e36eb84d7b50ad] Immediately after any such resolution is passed, the Clerk shall send a copy of it to the Queen’s Printer for Scotland (“the Queen’s Printer”).
 
-(3)[^key-d3af44591cdfb1827ddbaeb146337e38] Section 41(2) to (5) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10) and the Scottish Statutory Instruments Regulations 2011 ( [S.S.I.   2011/195](https://www.legislation.gov.uk/ssi/2011/195) ) apply to the resolution—
+(3)[^c-d3af44591cdfb1827ddbaeb146337e38] Section 41(2) to (5) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10) and the Scottish Statutory Instruments Regulations 2011 ( [S.S.I.   2011/195](https://www.legislation.gov.uk/ssi/2011/195) ) apply to the resolution—
 
 - (a) as if it were a Scottish statutory instrument,
 - (b) as if the copy of it sent to the Queen’s Printer under sub-paragraph (2) was a certified copy received in accordance with section 41(1) of the Interpretation and Legislative Reform (Scotland) Act 2010, and
 - (c) with the modifications set out in sub-paragraphs (4) and (5).
 
-(4)[^key-d3af44591cdfb1827ddbaeb146337e38] References to “responsible authority” are to be read as references to the Clerk.
+(4)[^c-d3af44591cdfb1827ddbaeb146337e38] References to “responsible authority” are to be read as references to the Clerk.
 
-(5)[^key-d3af44591cdfb1827ddbaeb146337e38] Regulation 7(2) and (3) of the Scottish Statutory Instruments Regulations 2011 does not apply.
+(5)[^c-d3af44591cdfb1827ddbaeb146337e38] Regulation 7(2) and (3) of the Scottish Statutory Instruments Regulations 2011 does not apply.
 
 ## Annotations
 
@@ -686,15 +686,15 @@ the member is to be treated as having entered into a registrable transaction on 
 
 [^c1651234]: Commencement: This provision comes into force in accordance with s. 21(4)
 
-[^key-8ab619135b65baba3cd82d9cbc1782e6]: Textual amendment: S. 3(5) added (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 6(1)](https://www.legislation.gov.uk/asp/2016/4/section/6/1), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
+[^c-8ab619135b65baba3cd82d9cbc1782e6]: Textual amendment: S. 3(5) added (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 6(1)](https://www.legislation.gov.uk/asp/2016/4/section/6/1), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
 
 [^c1651261]: Commencement: S. 4(1)(2) in force for specified purposes at 14.7.2006, see s. 21(3); s. 4 otherwise comes into force in accordance with s. 21(4)
 
-[^key-93cb7c990270550b5146f0cef0443812]: Textual amendment: S. 4(6) added (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 7](https://www.legislation.gov.uk/asp/2016/4/section/7), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
+[^c-93cb7c990270550b5146f0cef0443812]: Textual amendment: S. 4(6) added (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 7](https://www.legislation.gov.uk/asp/2016/4/section/7), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
 
 [^c1651235]: Commencement: This provision comes into force in accordance with s. 21(4)
 
-[^key-0e703566f42114197a71d9869f9e743a]: Textual amendment: Words in s. 5(2) substituted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 6(2)](https://www.legislation.gov.uk/asp/2016/4/section/6/2), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
+[^c-0e703566f42114197a71d9869f9e743a]: Textual amendment: Words in s. 5(2) substituted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 6(2)](https://www.legislation.gov.uk/asp/2016/4/section/6/2), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
 
 [^c1651236]: Commencement: This provision comes into force in accordance with s. 21(4)
 
@@ -702,13 +702,13 @@ the member is to be treated as having entered into a registrable transaction on 
 
 [^c1651238]: Commencement: This provision comes into force in accordance with s. 21(4)
 
-[^key-cf0ae5fd77e90747c16f9397076fe33d]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/asp/2006/12/section/8A) inserted (22.1.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 8](https://www.legislation.gov.uk/asp/2016/4/section/8), [16(4)](https://www.legislation.gov.uk/asp/2016/4/section/16/4)
+[^c-cf0ae5fd77e90747c16f9397076fe33d]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/asp/2006/12/section/8A) inserted (22.1.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 8](https://www.legislation.gov.uk/asp/2016/4/section/8), [16(4)](https://www.legislation.gov.uk/asp/2016/4/section/16/4)
 
 [^c1651239]: Commencement: This provision comes into force in accordance with s. 21(4)
 
 [^c1651240]: Commencement: This provision comes into force in accordance with s. 21(4)
 
-[^key-ec3fbfb475a6c690602512e2f3144630]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/asp/2006/12/section/10/1) substituted (5.5.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 6(3)](https://www.legislation.gov.uk/asp/2016/4/section/6/3), [16(3)](https://www.legislation.gov.uk/asp/2016/4/section/16/3)
+[^c-ec3fbfb475a6c690602512e2f3144630]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/asp/2006/12/section/10/1) substituted (5.5.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 6(3)](https://www.legislation.gov.uk/asp/2016/4/section/6/3), [16(3)](https://www.legislation.gov.uk/asp/2016/4/section/16/3)
 
 [^c1651262]: Commencement: S. 11(1) in force for specified purposes at 14.7.2006, see s. 21(3); s. 11 otherwise comes into force in accordance with s. 21(4)
 
@@ -718,23 +718,23 @@ the member is to be treated as having entered into a registrable transaction on 
 
 [^c1651242]: Commencement: This provision comes into force in accordance with s. 21(4)
 
-[^key-8f75ff9e1bafef36fbca88d99f1c7d96]: Textual amendment: S. 14(2)(b)(i)-(2B) substituted for s. 14(2)(b)(i)(ii) (5.5.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4) , [ss. 9(a)](https://www.legislation.gov.uk/asp/2016/4/section/9/a) , [16(3)](https://www.legislation.gov.uk/asp/2016/4/section/16/3)
+[^c-8f75ff9e1bafef36fbca88d99f1c7d96]: Textual amendment: S. 14(2)(b)(i)-(2B) substituted for s. 14(2)(b)(i)(ii) (5.5.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4) , [ss. 9(a)](https://www.legislation.gov.uk/asp/2016/4/section/9/a) , [16(3)](https://www.legislation.gov.uk/asp/2016/4/section/16/3)
 
-[^key-241551abb26c26922a538edc5a8f32ca]: Textual amendment: Words in s. 14(3) inserted (5.5.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4) , [ss. 9(b)](https://www.legislation.gov.uk/asp/2016/4/section/9/b) , [16(3)](https://www.legislation.gov.uk/asp/2016/4/section/16/3)
+[^c-241551abb26c26922a538edc5a8f32ca]: Textual amendment: Words in s. 14(3) inserted (5.5.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4) , [ss. 9(b)](https://www.legislation.gov.uk/asp/2016/4/section/9/b) , [16(3)](https://www.legislation.gov.uk/asp/2016/4/section/16/3)
 
 [^c1651243]: Commencement: This provision comes into force in accordance with s. 21(4)
 
 [^c1651244]: Commencement: This provision comes into force in accordance with s. 21(4)
 
-[^key-f3b34698364c879088e9e4af733c2c23]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/asp/2006/12/section/16) substituted (5.5.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 10](https://www.legislation.gov.uk/asp/2016/4/section/10), [16(3)](https://www.legislation.gov.uk/asp/2016/4/section/16/3)
+[^c-f3b34698364c879088e9e4af733c2c23]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/asp/2006/12/section/16) substituted (5.5.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 10](https://www.legislation.gov.uk/asp/2016/4/section/10), [16(3)](https://www.legislation.gov.uk/asp/2016/4/section/16/3)
 
-[^key-ac99b53b7867608731a3b15bec5f0ae7]: Textual amendment: [S. 17](https://www.legislation.gov.uk/asp/2006/12/section/17) substituted (5.5.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 11](https://www.legislation.gov.uk/asp/2016/4/section/11), [16(3)](https://www.legislation.gov.uk/asp/2016/4/section/16/3)
+[^c-ac99b53b7867608731a3b15bec5f0ae7]: Textual amendment: [S. 17](https://www.legislation.gov.uk/asp/2006/12/section/17) substituted (5.5.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 11](https://www.legislation.gov.uk/asp/2016/4/section/11), [16(3)](https://www.legislation.gov.uk/asp/2016/4/section/16/3)
 
-[^key-4ca70010f4b7854df01c37008c1a4b06]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/asp/2006/12/section/17A) inserted (5.5.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 12](https://www.legislation.gov.uk/asp/2016/4/section/12), [16(3)](https://www.legislation.gov.uk/asp/2016/4/section/16/3) (with [s. 18](https://www.legislation.gov.uk/asp/2016/4/section/18))
+[^c-4ca70010f4b7854df01c37008c1a4b06]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/asp/2006/12/section/17A) inserted (5.5.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 12](https://www.legislation.gov.uk/asp/2016/4/section/12), [16(3)](https://www.legislation.gov.uk/asp/2016/4/section/16/3) (with [s. 18](https://www.legislation.gov.uk/asp/2016/4/section/18))
 
 [^c1651246]: Commencement: This provision comes into force in accordance with s. 21(4)
 
-[^key-5478db380a68f78a8f456410e01ba3ff]: Textual amendment: Words in s. 18(4) inserted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 13](https://www.legislation.gov.uk/asp/2016/4/section/13), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
+[^c-5478db380a68f78a8f456410e01ba3ff]: Textual amendment: Words in s. 18(4) inserted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 13](https://www.legislation.gov.uk/asp/2016/4/section/13), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
 
 [^c1651529]: Commencement: S. 19 in force for specified purposes at 14.7.2006, see s. 21(3); s. 19 otherwise comes into force in accordance with s. 21(4)
 
@@ -742,15 +742,15 @@ the member is to be treated as having entered into a registrable transaction on 
 
 [^c2019083]: Textual amendment: S. 19(1) : words in definition of "company" substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1) , [Sch. 1 para. 262(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/262/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10) )
 
-[^key-b37f62387fac9f7c2c91348b3e65a3b8]: Textual amendment: Words in s. 19(1) inserted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4) , [ss. 14(a)(i)](https://www.legislation.gov.uk/asp/2016/4/section/14/a/i), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
+[^c-b37f62387fac9f7c2c91348b3e65a3b8]: Textual amendment: Words in s. 19(1) inserted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4) , [ss. 14(a)(i)](https://www.legislation.gov.uk/asp/2016/4/section/14/a/i), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
 
 [^c2019089]: Textual amendment: S. 19(1) : words in definitions of "parent undertaking" and "subsidiary undertaking" substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1) , [Sch. 1 para. 262(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/262/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10) )
 
-[^key-0fc6bf1f435d99c639a9530fe7114d7d]: Textual amendment: Words in s. 19(1) inserted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4) , [ss. 14(a)(ii)](https://www.legislation.gov.uk/asp/2016/4/section/14/a/ii), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
+[^c-0fc6bf1f435d99c639a9530fe7114d7d]: Textual amendment: Words in s. 19(1) inserted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4) , [ss. 14(a)(ii)](https://www.legislation.gov.uk/asp/2016/4/section/14/a/ii), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
 
 [^c2019096]: Textual amendment: S. 19(1) : words in definition of "undertaking" substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1) , [Sch. 1 para. 262(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/262/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10) )
 
-[^key-37b68150090140c947d814b43ea996d6]: Textual amendment: S. 19(4) added (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4) , [ss. 14(b)](https://www.legislation.gov.uk/asp/2016/4/section/14/b) , [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
+[^c-37b68150090140c947d814b43ea996d6]: Textual amendment: S. 19(4) added (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4) , [ss. 14(b)](https://www.legislation.gov.uk/asp/2016/4/section/14/b) , [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
 
 [^c1651247]: Commencement: This provision comes into force in accordance with s. 21(4)
 
@@ -764,52 +764,52 @@ the member is to be treated as having entered into a registrable transaction on 
 
 [^M_F_3c31e32b-fc80-451d-86d1-8fc27db8bdfb]: Textual amendment: Sch. para. 2(A1) inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 1(3)
 
-[^key-8d4258aa444189fa215403ff4410b4d1]: Textual amendment: Words in Sch. para. 2(1)(f) deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 1(4)
+[^c-8d4258aa444189fa215403ff4410b4d1]: Textual amendment: Words in Sch. para. 2(1)(f) deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 1(4)
 
 [^M_F_97860621-58d1-4054-a0e0-2f6eb1a3a1c0]: Textual amendment: Sch. para. 2(1A) inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 1(5)
 
-[^key-d4853c335b50ac9b8de06ea26072e58f]: Textual amendment: Words in Sch. para. 2(2) inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 1(6)
+[^c-d4853c335b50ac9b8de06ea26072e58f]: Textual amendment: Words in Sch. para. 2(2) inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 1(6)
 
-[^key-9f6fdf1620c6be6a6cbf36cfd3fce6f7]: Textual amendment: Sch. para. 2(3)-(5) inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 1(7)
+[^c-9f6fdf1620c6be6a6cbf36cfd3fce6f7]: Textual amendment: Sch. para. 2(3)-(5) inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 1(7)
 
-[^key-3a7251cc76768e8085040cbd2da29c17]: Textual amendment: Sch. para. 3 deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 2
+[^c-3a7251cc76768e8085040cbd2da29c17]: Textual amendment: Sch. para. 3 deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 2
 
-[^key-cdd2a8822285e543d9648384b1db131a]: Textual amendment: Sch. para. 4 deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 2
+[^c-cdd2a8822285e543d9648384b1db131a]: Textual amendment: Sch. para. 4 deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 2
 
-[^key-e8f8145cdf957f94a349f35fb2f8b996]: Textual amendment: Sch. para. 5 deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 2
+[^c-e8f8145cdf957f94a349f35fb2f8b996]: Textual amendment: Sch. para. 5 deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 2
 
-[^key-92cbf76f7b99b635cde62d0ed87dda19]: Textual amendment: Sch. para. 6 and cross-heading substituted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 3](https://www.legislation.gov.uk/asp/2016/4/section/3), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
+[^c-92cbf76f7b99b635cde62d0ed87dda19]: Textual amendment: Sch. para. 6 and cross-heading substituted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 3](https://www.legislation.gov.uk/asp/2016/4/section/3), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
 
-[^key-095c06809003ab2a68c152f2c1abe086]: Textual amendment: Sch. paras. 6A, 6B and cross-headings inserted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 4](https://www.legislation.gov.uk/asp/2016/4/section/4), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
+[^c-095c06809003ab2a68c152f2c1abe086]: Textual amendment: Sch. paras. 6A, 6B and cross-headings inserted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4), [ss. 4](https://www.legislation.gov.uk/asp/2016/4/section/4), [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
 
-[^key-d8337ca27e2594eb9d654558f356ff94]: Textual amendment: Sch. para. 7 and cross-heading substituted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4) , [ss. 5](https://www.legislation.gov.uk/asp/2016/4/section/5) , [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
+[^c-d8337ca27e2594eb9d654558f356ff94]: Textual amendment: Sch. para. 7 and cross-heading substituted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4) , [ss. 5](https://www.legislation.gov.uk/asp/2016/4/section/5) , [16(2)](https://www.legislation.gov.uk/asp/2016/4/section/16/2)
 
 [^c1652625]: Commencement: Sch. para. 8(2)(b) in force for specified purposes at 14.7.2006, see s. 21(3); Sch. para. 8 otherwise comes into force in accordance with s. 21(4)
 
-[^key-eed98372c9850077b754c2ce649e4f5b]: Textual amendment: Words in Sch. para. 8(2)(a) substituted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by virtue of [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 4(2)
+[^c-eed98372c9850077b754c2ce649e4f5b]: Textual amendment: Words in Sch. para. 8(2)(a) substituted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by virtue of [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 4(2)
 
-[^key-50b96e46d7a51808a237ec15bb26d0c0]: Textual amendment: Sch. para. 8(2)(b) substituted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 4(3)
+[^c-50b96e46d7a51808a237ec15bb26d0c0]: Textual amendment: Sch. para. 8(2)(b) substituted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 4(3)
 
-[^key-85b539c679348e6e134d1cf296db1306]: Textual amendment: Words in Sch. para. 8(3)(a) substituted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by virtue of [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 4(4)
+[^c-85b539c679348e6e134d1cf296db1306]: Textual amendment: Words in Sch. para. 8(3)(a) substituted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by virtue of [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 4(4)
 
 [^M_F_2abfa0b2-87e9-46b9-f19a-1a3002ba50a3]: Textual amendment: Sch. para. 8(8) inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 4(5)
 
 [^c1651255]: Commencement: This provision comes into force in accordance with s. 21(4)
 
-[^key-7963a5c1e0362928228a61bb8a8b96d7]: Textual amendment: Words in Sch. para. 9(2)(b) substituted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by virtue of [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 5(2)
+[^c-7963a5c1e0362928228a61bb8a8b96d7]: Textual amendment: Words in Sch. para. 9(2)(b) substituted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by virtue of [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 5(2)
 
-[^key-d6d21345833cc0f312eaa15a35a4243e]: Textual amendment: Word in Sch. para. 9(3) deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 5(3)
+[^c-d6d21345833cc0f312eaa15a35a4243e]: Textual amendment: Word in Sch. para. 9(3) deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 5(3)
 
-[^key-4f3e4becec2654589633c455e9193463]: Textual amendment: Words in Sch. para. 9(3)(a) substituted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by virtue of [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 5(4)
+[^c-4f3e4becec2654589633c455e9193463]: Textual amendment: Words in Sch. para. 9(3)(a) substituted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by virtue of [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 5(4)
 
-[^key-f93c890a112299225a1a7b1b9c347dd6]: Textual amendment: Words in Sch. para. 9(8) inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 5(5)(a)
+[^c-f93c890a112299225a1a7b1b9c347dd6]: Textual amendment: Words in Sch. para. 9(8) inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 5(5)(a)
 
-[^key-9cd92b4440f2af430f56ffa3bfb31397]: Textual amendment: Words in Sch. para. 9(8) deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 5(5)(b)
+[^c-9cd92b4440f2af430f56ffa3bfb31397]: Textual amendment: Words in Sch. para. 9(8) deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 5(5)(b)
 
-[^key-f18c1aaca362749422a42192d0b94579]: Textual amendment: Words in Sch. para. 9(8) substituted for full stop (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by virtue of [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 5(5)(c)
+[^c-f18c1aaca362749422a42192d0b94579]: Textual amendment: Words in Sch. para. 9(8) substituted for full stop (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by virtue of [Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40)](https://www.legislation.gov.uk/ssi/2011/40) , Annex para. 5(5)(c)
 
 [^c1651256]: Commencement: This provision comes into force in accordance with s. 21(4)
 
-[^key-d3af44591cdfb1827ddbaeb146337e38]: Modification: Sch. para. 10(2)-(5) applied (22.1.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4) , [ss. 16(4)](https://www.legislation.gov.uk/asp/2016/4/section/16/4) , [17(4)](https://www.legislation.gov.uk/asp/2016/4/section/17/4)
+[^c-d3af44591cdfb1827ddbaeb146337e38]: Modification: Sch. para. 10(2)-(5) applied (22.1.2016) by [Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4)](https://www.legislation.gov.uk/asp/2016/4) , [ss. 16(4)](https://www.legislation.gov.uk/asp/2016/4/section/16/4) , [17(4)](https://www.legislation.gov.uk/asp/2016/4/section/17/4)
 
-[^key-58db07f00345b20bd4e36eb84d7b50ad]: Textual amendment: Sch. para. 10(2)-(5) substituted (6.4.2011) for Sch. para. 10(2) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential Provisions) Order 2011 (S.S.I. 2011/196)](https://www.legislation.gov.uk/ssi/2011/196) , [arts. 1](https://www.legislation.gov.uk/ssi/2011/196/article/1) , [2](https://www.legislation.gov.uk/ssi/2011/196/article/2)
+[^c-58db07f00345b20bd4e36eb84d7b50ad]: Textual amendment: Sch. para. 10(2)-(5) substituted (6.4.2011) for Sch. para. 10(2) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential Provisions) Order 2011 (S.S.I. 2011/196)](https://www.legislation.gov.uk/ssi/2011/196) , [arts. 1](https://www.legislation.gov.uk/ssi/2011/196/article/1) , [2](https://www.legislation.gov.uk/ssi/2011/196/article/2)

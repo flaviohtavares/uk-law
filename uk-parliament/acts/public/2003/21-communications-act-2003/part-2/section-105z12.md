@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105Z12. Monitoring of designated vendor directions[^key-2945801b1fe86b2bd5acfc9c3c2af868]
+## 105Z12. Monitoring of designated vendor directions[^c-2945801b1fe86b2bd5acfc9c3c2af868]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2945801b1fe86b2bd5acfc9c3c2af868]: Textual amendment: [Ss. 105Z12](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z12), [105Z13](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z13) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/18/2), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-2945801b1fe86b2bd5acfc9c3c2af868]: Textual amendment: [Ss. 105Z12](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z12), [105Z13](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z13) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/18/2), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)

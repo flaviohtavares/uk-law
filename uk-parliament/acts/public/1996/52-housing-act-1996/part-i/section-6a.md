@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A (Extent: W). Voluntary undertakings (Extent: W)[^key-fcf4763e68b9d8c9ef075fd0c9d749c8]
+## 6A (Extent: W). Voluntary undertakings (Extent: W)[^c-fcf4763e68b9d8c9ef075fd0c9d749c8]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcf4763e68b9d8c9ef075fd0c9d749c8]: Textual amendment: S. 6A and cross-heading inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 41](https://www.legislation.gov.uk/mwa/2011/5/section/41), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(f)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/f)
+[^c-fcf4763e68b9d8c9ef075fd0c9d749c8]: Textual amendment: S. 6A and cross-heading inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 41](https://www.legislation.gov.uk/mwa/2011/5/section/41), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(f)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/f)

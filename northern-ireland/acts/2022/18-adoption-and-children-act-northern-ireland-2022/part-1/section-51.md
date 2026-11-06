@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Parental etc. consent[^key-c88a3bb3d2020dd00fb9af7c4d4dc665]
+## 51. Parental etc. consent[^c-c88a3bb3d2020dd00fb9af7c4d4dc665]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c88a3bb3d2020dd00fb9af7c4d4dc665]: Commencement: S. 51 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-c88a3bb3d2020dd00fb9af7c4d4dc665]: Commencement: S. 51 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

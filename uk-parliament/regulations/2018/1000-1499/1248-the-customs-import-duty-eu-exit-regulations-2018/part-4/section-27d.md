@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27D. Temporary admission procedure: goods imported at other listed locations[^key-b0b6c3dc1bb7fafea08119dfd4418313]
+## 27D. Temporary admission procedure: goods imported at other listed locations[^c-b0b6c3dc1bb7fafea08119dfd4418313]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0b6c3dc1bb7fafea08119dfd4418313]: Textual amendment: Reg. 27D inserted (31.12.2020) by [The Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020 (S.I. 2020/1234)](https://www.legislation.gov.uk/uksi/2020/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/3/9); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b0b6c3dc1bb7fafea08119dfd4418313]: Textual amendment: Reg. 27D inserted (31.12.2020) by [The Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020 (S.I. 2020/1234)](https://www.legislation.gov.uk/uksi/2020/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/3/9); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^M_F_5e6c4186-e77e-41c7-d0ef-a0046cf94a1b]: Textual amendment: Words in reg. 27D(2)(b) substituted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [4(8)(d)](https://www.legislation.gov.uk/uksi/2025/745/regulation/4/8/d)

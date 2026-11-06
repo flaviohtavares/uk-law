@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Planning permission: supplementary matters[^key-e0d0356d46ff39753980e2a151689b61]
+## 15. Planning permission: supplementary matters[^c-e0d0356d46ff39753980e2a151689b61]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Planning permission which is deemed by virtue of a direction under section 90(2A
 
 ## Annotations
 
-[^key-e0d0356d46ff39753980e2a151689b61]: Commencement: Art. 15 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-e0d0356d46ff39753980e2a151689b61]: Commencement: Art. 15 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
 [^f00017]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).

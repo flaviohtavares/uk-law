@@ -91,7 +91,7 @@ Regulation 18(1)(a)
 
 **17.** The description of the internal emergency response arrangements.
 
-**18.** In the case of offshore oil and gas operations,[^key-1f9ffdcb194017105749a76a3c06123c] the assessment produced pursuant to paragraph 2(j) of Schedule 2 to the Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998.
+**18.** In the case of offshore oil and gas operations,[^c-1f9ffdcb194017105749a76a3c06123c] the assessment produced pursuant to paragraph 2(j) of Schedule 2 to the Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998.
 
 **19.** Particulars of any combined operations which may involve the installation, including—
 
@@ -104,4 +104,4 @@ Regulation 18(1)(a)
 
 ## Annotations
 
-[^key-1f9ffdcb194017105749a76a3c06123c]: Textual amendment: Words in Sch. 7 para. 18 inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(13)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/13)
+[^c-1f9ffdcb194017105749a76a3c06123c]: Textual amendment: Words in Sch. 7 para. 18 inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(13)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/13)

@@ -33,7 +33,7 @@ summary: ''
 > (5)[^c21001711] But where—
 >
 > - (a) the relevant licensing authority is satisfied that the arrangements for the management of the premises by the applicant are sufficient to ensure adequate supervision of the supply of alcohol on the premises, and
-> - (b) if any representations are made pursuant to section 35(5)(aa), the authority does not consider the inclusion of the conditions in subsections (2) and (3) to be appropriate[^key-72fcc18ca86b713115e8e2d3ba4a231c] to promote the crime prevention objective,
+> - (b) if any representations are made pursuant to section 35(5)(aa), the authority does not consider the inclusion of the conditions in subsections (2) and (3) to be appropriate[^c-72fcc18ca86b713115e8e2d3ba4a231c] to promote the crime prevention objective,
 >
 > the licence must not include the conditions in subsections (2) and (3) but must include the alternative licence condition referred to in section 41D(3) instead.
 
@@ -48,7 +48,7 @@ summary: ''
   >   - (ii) include a statement that, due to the exceptional circumstances of the case, he is satisfied that including the alternative licence condition instead of the conditions in section 19(2) and (3) would undermine the crime prevention objective, and
 
   , and
-- (b)[^key-ddbd3c62c216d5eed2c2bd04f3829677] subsection (6)(c) were omitted.
+- (b)[^c-ddbd3c62c216d5eed2c2bd04f3829677] subsection (6)(c) were omitted.
 
 ## Annotations
 
@@ -56,6 +56,6 @@ summary: ''
 
 [^c21001711]: Textual amendment: Word in s. 41D(5) substituted (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 112](https://www.legislation.gov.uk/ukpga/2009/26/section/112), [116](https://www.legislation.gov.uk/ukpga/2009/26/section/116), [Sch. 7 para. 33](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/33); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(t)](https://www.legislation.gov.uk/uksi/2010/125/article/2/t)
 
-[^key-72fcc18ca86b713115e8e2d3ba4a231c]: Textual amendment: Word in s. 41D(5) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 109(8)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/8), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 109(15)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/15)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-72fcc18ca86b713115e8e2d3ba4a231c]: Textual amendment: Word in s. 41D(5) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 109(8)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/8), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 109(15)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/15)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
 
-[^key-ddbd3c62c216d5eed2c2bd04f3829677]: Textual amendment: S. 41D(6)(b) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 105(8)](https://www.legislation.gov.uk/ukpga/2011/13/section/105/8), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 105(11)](https://www.legislation.gov.uk/ukpga/2011/13/section/105/11)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-ddbd3c62c216d5eed2c2bd04f3829677]: Textual amendment: S. 41D(6)(b) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 105(8)](https://www.legislation.gov.uk/ukpga/2011/13/section/105/8), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 105(11)](https://www.legislation.gov.uk/ukpga/2011/13/section/105/11)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

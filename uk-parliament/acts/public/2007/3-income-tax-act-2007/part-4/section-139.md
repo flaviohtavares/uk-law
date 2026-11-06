@@ -37,9 +37,9 @@ summary: ''
 (4) In this section—
 
 - “**arrangements**” includes any scheme, agreement or understanding, whether or not legally enforceable,
-- “control”, in subsection (1)(a), is to be read in accordance with sections 450 and 451 of CTA 2010[^key-274209fa45932da8c9db765d4bd610eb],
+- “control”, in subsection (1)(a), is to be read in accordance with sections 450 and 451 of CTA 2010[^c-274209fa45932da8c9db765d4bd610eb],
 - “**qualifying subsidiary**” is to be read in accordance with section 191.
 
 ## Annotations
 
-[^key-274209fa45932da8c9db765d4bd610eb]: Textual amendment: Words in s. 139(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 497](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/497) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-274209fa45932da8c9db765d4bd610eb]: Textual amendment: Words in s. 139(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 497](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/497) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

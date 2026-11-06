@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-0c804f7852f831b919501011859bfe31]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-0c804f7852f831b919501011859bfe31]
 
 *Extent: E+W+S*
 
 Article 2
 
-[^key-0c804f7852f831b919501011859bfe31]
+[^c-0c804f7852f831b919501011859bfe31]
 
-In the Borough of Redcar and Cleveland and the Borough of Stockton on[^key-ac98319bb9a4d084cc534622ce41f07d] Tees a nationally significant infrastructure project as defined in sections 14(1)(a) and 15 of the 2008 Act, and development which is to be treated as development for which development consent is required by direction under sections 35(1) and 35ZA of that Act, and associated development under section 115(1)(b) of that Act, comprising—
+In the Borough of Redcar and Cleveland and the Borough of Stockton on[^c-ac98319bb9a4d084cc534622ce41f07d] Tees a nationally significant infrastructure project as defined in sections 14(1)(a) and 15 of the 2008 Act, and development which is to be treated as development for which development consent is required by direction under sections 35(1) and 35ZA of that Act, and associated development under section 115(1)(b) of that Act, comprising—
 
-[^key-0c804f7852f831b919501011859bfe31]
+[^c-0c804f7852f831b919501011859bfe31]
 
 **Work No. 1** – an electricity generating station fuelled by natural gas and with a gross output capacity of up to 860 megawatts (MWe) comprising—
 
@@ -73,7 +73,7 @@ In the Borough of Redcar and Cleveland and the Borough of Stockton on[^key-ac983
   - (v) permanent plant laydown area for operation and maintenance activities; and
   - (vi) mechanical, electrical, gas, telecommunications and water networks, pipework, cables, racks, infrastructure, instrumentation and utilities, including connections between Work Nos. 1A, 1B, 1C and 1D and parts of Work Nos. 2A, 3, 4, 5, 6, 7 and 8.
 
-[^key-0c804f7852f831b919501011859bfe31]
+[^c-0c804f7852f831b919501011859bfe31]
 
 **Work No. 2** – a gas connection, being works for the transport of natural gas to Work No. 1A, comprising—
 
@@ -98,36 +98,36 @@ In the Borough of Redcar and Cleveland and the Borough of Stockton on[^key-ac983
     - (ee) telemetry and communications equipment; and
   - (iii) in connection with Work No. 2B, access works, vehicle parking, electrical and telecommunications connections, surface water drainage, security fencing and gates, closed circuit television cameras and columns.
 
-[^key-0c804f7852f831b919501011859bfe31]
+[^c-0c804f7852f831b919501011859bfe31]
 
 **Work No. 3** – works for the export of electricity from Work No. 1A to the National Grid Electricity Transmission system, comprising—
 
 - (a) Work No. 3A – an electrical connection from Work No. 1A to Work No. 3B, comprising 275 kilovolt underground and overground electrical cables and control systems cables, and the connection between Work No. 3B and the National Grid Tod Point substation; and
 - (b) Work No. 3B – a new electrical substation at Tod Point, including electrical equipment, buildings, enclosures and extension works at the National Grid substation.
 
-[^key-0c804f7852f831b919501011859bfe31]
+[^c-0c804f7852f831b919501011859bfe31]
 
 **Work No. 4** – water supply connection works to provide cooling and make-up water to Work No. 1, comprising up to two water pipelines of up to 1100 millimetres nominal bore diameter from the existing raw water main.
 
-[^key-0c804f7852f831b919501011859bfe31]
+[^c-0c804f7852f831b919501011859bfe31]
 
 **Work No. 5** – wastewater disposal works in connection with Work No. 1, comprising—
 
 - (a) Work No. 5B – a new water discharge pipeline to the Tees Bay; and
 - (b) Work No. 5C – up to two new wastewater pipelines between Bran Sands Wastewater Treatment Plant and Work No. 1.
 
-[^key-0c804f7852f831b919501011859bfe31]
+[^c-0c804f7852f831b919501011859bfe31]
 
 **Work No. 6** – a carbon dioxide gathering network, comprising underground and overground pipelines of up to 550 millimetres nominal bore diameter for the transport of carbon dioxide to Work No. 7.
 
-**Work No. 6A[^key-bb8ea5de9d2b4ba2eb78fc4a6766e452]** – above ground installations required to facilitate Work No. 6, comprising—
+**Work No. 6A[^c-bb8ea5de9d2b4ba2eb78fc4a6766e452]** – above ground installations required to facilitate Work No. 6, comprising—
 
 - (a) above and below ground piping;
 - (b) a PIG launcher;
 - (c) remotely operated valves and valve bypass; and
 - (d) instrumentation and electrical kiosk.
 
-[^key-0c804f7852f831b919501011859bfe31]
+[^c-0c804f7852f831b919501011859bfe31]
 
 **Work No. 7** – a high pressure carbon dioxide compression station, comprising—
 
@@ -137,11 +137,11 @@ In the Borough of Redcar and Cleveland and the Borough of Stockton on[^key-ac983
 - (d) hydrogen storage; and
 - (e) mechanical, electrical, gas, telecommunications, pipework, cables, racks, infrastructure, instrumentation and utilities, including connections between Work No. 7 and Work Nos. 1A, 1B, 1C, 1D, 6 and 8.
 
-[^key-0c804f7852f831b919501011859bfe31]
+[^c-0c804f7852f831b919501011859bfe31]
 
 **Work No. 8** – high pressure carbon dioxide export pipeline corridor, comprising an overground and underground pipeline of up to 800 millimetres nominal bore diameter and associated power and fibre-optic cables.
 
-[^key-0c804f7852f831b919501011859bfe31]
+[^c-0c804f7852f831b919501011859bfe31]
 
 **Work No. 9** – temporary construction and laydown areas, comprising hardstanding, laydown and open storage areas, contractor compounds and construction staff welfare facilities, gatehouse and weighbridge, vehicle parking and cycle storage facilities, internal roads and pedestrian and cycle routes, security fencing and gates, external lighting including lighting columns, and, closed circuit television cameras and columns, comprising—
 
@@ -149,15 +149,15 @@ In the Borough of Redcar and Cleveland and the Borough of Stockton on[^key-ac983
 - (b) Work No. 9B – Navigator Terminal and Seal Sands laydown;
 - (c) Work No. 9C – INEOS laydown;
 - (d) Work No. 9D – Saltholme laydown;
-- (e) Work No. 9E – Saltholme laydown; [^key-3a4e4389b0e35b669de898146e5143b1]...
-- (f) Work No. 9F – Haverton Hill laydown ; and[^key-77d20501386fb057e333cf09c3607879]
-- (g)[^key-cd6992c2ccdd2fc71a6f30edb191cfd9] Work No. 9G – temporary construction laydown area.
+- (e) Work No. 9E – Saltholme laydown; [^c-3a4e4389b0e35b669de898146e5143b1]...
+- (f) Work No. 9F – Haverton Hill laydown ; and[^c-77d20501386fb057e333cf09c3607879]
+- (g)[^c-cd6992c2ccdd2fc71a6f30edb191cfd9] Work No. 9G – temporary construction laydown area.
 
-[^key-0c804f7852f831b919501011859bfe31]
+[^c-0c804f7852f831b919501011859bfe31]
 
 **Work No. 10** – access and highway improvements, comprising works to create, improve, repair or maintain access roads, haul roads and access points.
 
-[^key-0c804f7852f831b919501011859bfe31]
+[^c-0c804f7852f831b919501011859bfe31]
 
 In connection with and in addition to Work Nos. 1 to 10, further associated development comprising such other works or operations as may be necessary or expedient for the purposes of or in connection with the authorised development, and which are within the Order limits and fall within the scope of the work assessed by the environmental statement, including—
 
@@ -195,14 +195,14 @@ In connection with and in addition to Work Nos. 1 to 10, further associated deve
 
 ## Annotations
 
-[^key-0c804f7852f831b919501011859bfe31]: Commencement: Sch. 1 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-0c804f7852f831b919501011859bfe31]: Commencement: Sch. 1 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-ac98319bb9a4d084cc534622ce41f07d]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/174/schedule/1) substituted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
+[^c-ac98319bb9a4d084cc534622ce41f07d]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/174/schedule/1) substituted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
 
-[^key-bb8ea5de9d2b4ba2eb78fc4a6766e452]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/174/schedule/1) inserted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [14](https://www.legislation.gov.uk/uksi/2025/1143/article/14)
+[^c-bb8ea5de9d2b4ba2eb78fc4a6766e452]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/174/schedule/1) inserted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [14](https://www.legislation.gov.uk/uksi/2025/1143/article/14)
 
-[^key-3a4e4389b0e35b669de898146e5143b1]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/174/schedule/1) omitted (29.10.2025) by virtue of [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [15(a)](https://www.legislation.gov.uk/uksi/2025/1143/article/15/a)
+[^c-3a4e4389b0e35b669de898146e5143b1]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/174/schedule/1) omitted (29.10.2025) by virtue of [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [15(a)](https://www.legislation.gov.uk/uksi/2025/1143/article/15/a)
 
-[^key-77d20501386fb057e333cf09c3607879]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/174/schedule/1) substituted for full stop (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [15(b)](https://www.legislation.gov.uk/uksi/2025/1143/article/15/b)
+[^c-77d20501386fb057e333cf09c3607879]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/174/schedule/1) substituted for full stop (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [15(b)](https://www.legislation.gov.uk/uksi/2025/1143/article/15/b)
 
-[^key-cd6992c2ccdd2fc71a6f30edb191cfd9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/174/schedule/1) inserted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [15(c)](https://www.legislation.gov.uk/uksi/2025/1143/article/15/c)
+[^c-cd6992c2ccdd2fc71a6f30edb191cfd9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/174/schedule/1) inserted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [15(c)](https://www.legislation.gov.uk/uksi/2025/1143/article/15/c)

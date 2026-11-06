@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Notification requirements[^key-54610906836571ada7f980e452f68095]
+## 56. Notification requirements[^c-54610906836571ada7f980e452f68095]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ the defendant must notify, to the police, the new name or the new home address.
 
 ## Annotations
 
-[^key-54610906836571ada7f980e452f68095]: Commencement: S. 56 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-54610906836571ada7f980e452f68095]: Commencement: S. 56 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

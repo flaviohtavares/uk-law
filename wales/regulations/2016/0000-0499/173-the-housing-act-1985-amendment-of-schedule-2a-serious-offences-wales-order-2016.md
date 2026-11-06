@@ -31,7 +31,7 @@ summary: ''
 
 Housing, Wales
 
-The Housing Act 1985 (Amendment of Schedule 2A) (Serious Offences) (Wales) Order 2016 (revoked)[^key-40ee047eae6155d290021cb7e38dda81]
+The Housing Act 1985 (Amendment of Schedule 2A) (Serious Offences) (Wales) Order 2016 (revoked)[^c-40ee047eae6155d290021cb7e38dda81]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into force
 
 16 February 2016
 
-[^key-40ee047eae6155d290021cb7e38dda81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40ee047eae6155d290021cb7e38dda81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-40ee047eae6155d290021cb7e38dda81]
+## 1. Title, commencement and application[^c-40ee047eae6155d290021cb7e38dda81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Housing Act 1985[^key-40ee047eae6155d290021cb7e38dda81]
+## 2. Amendment to the Housing Act 1985[^c-40ee047eae6155d290021cb7e38dda81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40ee047eae6155d290021cb7e38dda81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40ee047eae6155d290021cb7e38dda81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40ee047eae6155d290021cb7e38dda81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40ee047eae6155d290021cb7e38dda81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-40ee047eae6155d290021cb7e38dda81]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2016/173) revoked (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2022/907/schedule/2)
+[^c-40ee047eae6155d290021cb7e38dda81]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2016/173) revoked (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2022/907/schedule/2)

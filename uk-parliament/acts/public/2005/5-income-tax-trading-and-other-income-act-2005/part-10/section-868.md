@@ -48,9 +48,9 @@ within the meaning of Part 1 of the Social Security Contributions and Benefits A
 (6) Provision corresponding to that made by this section is made by—
 
 - (a) section 53 (in relation to trades, professions and vocations),
-- (b) sections 272 and 272ZA[^key-283c6f96b72b1780bf1cfa5fb4f74eb5] (in relation to property businesses), and
+- (b) sections 272 and 272ZA[^c-283c6f96b72b1780bf1cfa5fb4f74eb5] (in relation to property businesses), and
 - (c) section 360A of ITEPA 2003 (in relation to employment income).
 
 ## Annotations
 
-[^key-283c6f96b72b1780bf1cfa5fb4f74eb5]: Textual amendment: Words in [s. 868(6)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/868/6/b) substituted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/37)
+[^c-283c6f96b72b1780bf1cfa5fb4f74eb5]: Textual amendment: Words in [s. 868(6)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/868/6/b) substituted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/37)

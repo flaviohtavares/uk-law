@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Foreseeability[^key-94aa0477484152156b30b54bb2b4d39d]
+## 6. Foreseeability[^c-94aa0477484152156b30b54bb2b4d39d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94aa0477484152156b30b54bb2b4d39d]: Commencement: Reg. 6 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-94aa0477484152156b30b54bb2b4d39d]: Commencement: Reg. 6 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Review of instruments of government[^key-891e979e0b9733999f26934f5c67bb73]
+## 45. Review of instruments of government[^c-891e979e0b9733999f26934f5c67bb73]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ and the instrument of government must be varied by it either in the manner agree
 
 ## Annotations
 
-[^key-891e979e0b9733999f26934f5c67bb73]: Commencement: Reg. 45 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-891e979e0b9733999f26934f5c67bb73]: Commencement: Reg. 45 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. Right to list of creditors and copy documents[^key-e67a1617918751776b6cb8073bc7f783]
+## 117. Right to list of creditors and copy documents[^c-e67a1617918751776b6cb8073bc7f783]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e67a1617918751776b6cb8073bc7f783]: Commencement: Rule 117 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-e67a1617918751776b6cb8073bc7f783]: Commencement: Rule 117 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00054]: Footnote: Rule 7.26 was amended by paragraph 49 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921), and regulation 28(2) of Part II of [S.I. 2003/2109](https://www.legislation.gov.uk/uksi/2003/2109).

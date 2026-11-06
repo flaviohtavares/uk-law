@@ -37,13 +37,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Introduction
 
-### 1. The Adjudicator[^key-ed9dbc0958ca3370d4a3a8ffa084b760]
+### 1. The Adjudicator[^c-ed9dbc0958ca3370d4a3a8ffa084b760]
 
 A Groceries Code Adjudicator is established (see Schedule 1).
 
 ## How does the Adjudicator arbitrate disputes?
 
-### 2. Arbitration[^key-fb30e7b23ee5383f21509f5ac0af4066]
+### 2. Arbitration[^c-fb30e7b23ee5383f21509f5ac0af4066]
 
 (1) If a supplier refers a dispute to arbitration under the Groceries Supply Order, the Adjudicator must either—
 
@@ -52,7 +52,7 @@ A Groceries Code Adjudicator is established (see Schedule 1).
 
 (2) If a large retailer refers a dispute to arbitration under a supply agreement, the Adjudicator may accept appointment as the arbitrator.
 
-### 3. Information about arbitration[^key-b564ecf795c4513b86f27f94bc29e422]
+### 3. Information about arbitration[^c-b564ecf795c4513b86f27f94bc29e422]
 
 (1) If the Adjudicator appoints another person as arbitrator under section 2(1)(b), the Adjudicator may require the arbitrator, or a party to the dispute, to provide information to assist the Adjudicator in carrying out functions under this Act.
 
@@ -63,7 +63,7 @@ A Groceries Code Adjudicator is established (see Schedule 1).
 
 ## How does the Adjudicator carry out investigations and enforce their findings?
 
-### 4. Investigations[^key-bc1b93f0c5d6e8da9220fe8e6c329b70]
+### 4. Investigations[^c-bc1b93f0c5d6e8da9220fe8e6c329b70]
 
 (1) The Adjudicator may investigate whether a large retailer has broken the Groceries Code if the Adjudicator has reasonable grounds to suspect that—
 
@@ -74,7 +74,7 @@ A Groceries Code Adjudicator is established (see Schedule 1).
 
 (3) The Adjudicator may not carry out an investigation until the guidance required by section 12(1) has been published.
 
-### 5. Investigation reports[^key-cd4d60140b843a4b22fd4ed78251681a]
+### 5. Investigation reports[^c-cd4d60140b843a4b22fd4ed78251681a]
 
 (1) Following an investigation the Adjudicator must—
 
@@ -91,7 +91,7 @@ A Groceries Code Adjudicator is established (see Schedule 1).
 
 (4) If a retailer is identified in a report, the retailer must have been given a reasonable opportunity to comment on a draft of the report before publication.
 
-### 6. Investigations: forms of enforcement[^key-419d2ac8fc92602e0aa463ea95a14674]
+### 6. Investigations: forms of enforcement[^c-419d2ac8fc92602e0aa463ea95a14674]
 
 If, as a result of an investigation, the Adjudicator is satisfied that a large retailer has broken the Groceries Code, the Adjudicator may take one or more of the following enforcement measures—
 
@@ -99,7 +99,7 @@ If, as a result of an investigation, the Adjudicator is satisfied that a large r
 - (b) require information to be published;
 - (c) impose financial penalties.
 
-### 7. Investigations: enforcement using recommendations[^key-8c7fc0ab2797bd1ccaf9cb3ed19728ca]
+### 7. Investigations: enforcement using recommendations[^c-8c7fc0ab2797bd1ccaf9cb3ed19728ca]
 
 (1) If the Adjudicator chooses to enforce through making recommendations, that means recommending what the large retailer should do in order to comply with the Groceries Code.
 
@@ -107,7 +107,7 @@ If, as a result of an investigation, the Adjudicator is satisfied that a large r
 
 (3) For powers to require a person to provide information, see Schedule 2.
 
-### 8. Investigations: enforcement using requirements to publish information[^key-1304079113d072258db47b05aa8e263c]
+### 8. Investigations: enforcement using requirements to publish information[^c-1304079113d072258db47b05aa8e263c]
 
 (1) If the Adjudicator chooses to enforce through requiring information to be published, that means requiring the large retailer to publish information relating to the investigation.
 
@@ -122,7 +122,7 @@ If, as a result of an investigation, the Adjudicator is satisfied that a large r
 - (a) in England and Wales or Northern Ireland, an injunction or any other appropriate remedy or relief; or
 - (b) in Scotland, an order for specific performance under section 45 of the Court of Session Act 1988 or any other appropriate remedy or relief.
 
-### 9. Investigations: enforcement using financial penalties[^key-05b80b4371eff345ff9f15412b89a817]
+### 9. Investigations: enforcement using financial penalties[^c-05b80b4371eff345ff9f15412b89a817]
 
 (1) If the Adjudicator chooses to enforce through imposing financial penalties, that means imposing a penalty on the large retailer of an amount not exceeding the amount of the permitted maximum (see subsection (6)).
 
@@ -158,7 +158,7 @@ If, as a result of an investigation, the Adjudicator is satisfied that a large r
 
 (10) The Adjudicator may not impose a financial penalty in respect of a breach of the Groceries Code that occurs before the first order under subsection (6) comes into force.
 
-### 10. Recovery of investigation costs[^key-cacced310110a2091584c7422857e836]
+### 10. Recovery of investigation costs[^c-cacced310110a2091584c7422857e836]
 
 (1) The Adjudicator may require a large retailer to pay some or all of the costs of an investigation (including any costs incurred in exercising the enforcement powers) if satisfied that the retailer has broken the Groceries Code.
 
@@ -179,11 +179,11 @@ If, as a result of an investigation, the Adjudicator is satisfied that a large r
 
 ## What advice, guidance and recommendations does the Adjudicator give?
 
-### 11. Advice[^key-7094bc88552f5a609039944b2704c2ef]
+### 11. Advice[^c-7094bc88552f5a609039944b2704c2ef]
 
 The Adjudicator may give advice on any matter relating to the Groceries Code to suppliers or large retailers.
 
-### 12. Guidance[^key-c31f68f2674852c6870338c6a7717e20]
+### 12. Guidance[^c-c31f68f2674852c6870338c6a7717e20]
 
 (1) The Adjudicator must publish guidance about—
 
@@ -206,13 +206,13 @@ The Adjudicator may give advice on any matter relating to the Groceries Code to 
 
 (6) Where there is any guidance in force under this section, the Adjudicator must take account of it in carrying out functions.
 
-### 13. Recommendations to Competition and Markets Authority[^key-7cd31668aeac25d1bd2a3f317958f455][^key-0d040c7c38f6e5a1412f51724c946465]
+### 13. Recommendations to Competition and Markets Authority[^c-7cd31668aeac25d1bd2a3f317958f455][^c-0d040c7c38f6e5a1412f51724c946465]
 
 If the Adjudicator considers it appropriate for any changes to be made to the Groceries Code, he or she must recommend them to the Competition and Markets Authority.
 
 ## What are the Adjudicator's reporting requirements?
 
-### 14. Annual report[^key-775054d7644e2307fac8ccc87cdf7863]
+### 14. Annual report[^c-775054d7644e2307fac8ccc87cdf7863]
 
 (1) After the end of each reporting period the Adjudicator must prepare and publish a report describing what the Adjudicator has done during the period.
 
@@ -224,12 +224,12 @@ If the Adjudicator considers it appropriate for any changes to be made to the Gr
 
 (3) If the Adjudicator has made recommendations under section 7, the report must include an assessment of whether they have been followed.
 
-(4) The report must set out any recommendations that the Adjudicator has made to the Competition and Markets Authority[^key-c77b91ddaf0422f94000233aaa63e6e1] for changes to the Groceries Code.
+(4) The report must set out any recommendations that the Adjudicator has made to the Competition and Markets Authority[^c-c77b91ddaf0422f94000233aaa63e6e1] for changes to the Groceries Code.
 
 (5) As well as publishing the report, the Adjudicator must send a copy to—
 
 - (a) the Secretary of State; and
-- (b) the Competition and Markets Authority[^key-e5ce1a4c0db718fbd581f88a61af5d90].
+- (b) the Competition and Markets Authority[^c-e5ce1a4c0db718fbd581f88a61af5d90].
 
 (6) The Secretary of State must lay a copy of the report before Parliament.
 
@@ -240,7 +240,7 @@ If the Adjudicator considers it appropriate for any changes to be made to the Gr
 
 ## How is the Adjudicator supervised?
 
-### 15. Review of Adjudicator and guidance from Secretary of State[^key-764fe15c87ba2812c4d2d15b07728847]
+### 15. Review of Adjudicator and guidance from Secretary of State[^c-764fe15c87ba2812c4d2d15b07728847]
 
 (1) The Secretary of State must review the Adjudicator's performance for each review period.
 
@@ -268,8 +268,8 @@ If the Adjudicator considers it appropriate for any changes to be made to the Gr
 (8) In carrying out a review, the Secretary of State must consult—
 
 - (a) the Adjudicator;
-- (b) the Competition and Markets Authority[^key-eb197dbe39cd7b031daa210e796b877d];
-- (c)[^key-e67e1cdf2a742c635995ae95f3dbaa2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the Competition and Markets Authority[^c-eb197dbe39cd7b031daa210e796b877d];
+- (c)[^c-e67e1cdf2a742c635995ae95f3dbaa2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the retailers mentioned in Article 4(1)(a) and (b) of the Groceries Supply Order;
 - (e) one or more persons appearing to the Secretary of State to represent the interests of suppliers;
 - (f) one or more persons appearing to the Secretary of State to represent the interests of consumers; and
@@ -304,7 +304,7 @@ If the Adjudicator considers it appropriate for any changes to be made to the Gr
 > - “**group**” has the same meaning as in Part 15 of the Companies Act 2006 (see section 474(1) of that Act);
 > - “**worker**” and “**employed**” have the same meaning as in Part 4A of the Employment Rights Act 1996 (see sections 43K and 230 of that Act).
 
-### 16. Transfer of Adjudicator functions and abolition etc[^key-81bb431e0b326db30bd419de5c6e09ea]
+### 16. Transfer of Adjudicator functions and abolition etc[^c-81bb431e0b326db30bd419de5c6e09ea]
 
 (1) The Secretary of State may by order transfer some or all of the Adjudicator's functions to a public body and in deciding whether to do so must take account of the desirability of—
 
@@ -324,7 +324,7 @@ If the Adjudicator considers it appropriate for any changes to be made to the Gr
 
 (5) For the purpose of giving effect to a transfer of functions or to the abolition of the Adjudicator an order under this section may amend or repeal this Act or any other enactment.
 
-### 17. Information to Secretary of State[^key-cecca6522fef580be87ef9acde2d1fa2]
+### 17. Information to Secretary of State[^c-cecca6522fef580be87ef9acde2d1fa2]
 
 (1) The Secretary of State may require the Adjudicator to provide information to assist the Secretary of State in carrying out functions under this Act.
 
@@ -332,7 +332,7 @@ If the Adjudicator considers it appropriate for any changes to be made to the Gr
 
 ## How does the Adjudicator handle information?
 
-### 18. Confidentiality[^key-bc9d05e287b32910b0f0da56a4ba7d18]
+### 18. Confidentiality[^c-bc9d05e287b32910b0f0da56a4ba7d18]
 
 (1) The Adjudicator may not make an unauthorised disclosure of information relating to an arbitration under the Groceries Supply Order or under a supply agreement if—
 
@@ -344,7 +344,7 @@ If the Adjudicator considers it appropriate for any changes to be made to the Gr
 (3) For the purposes of this section a disclosure of information is unauthorised unless—
 
 - (a) the Adjudicator has obtained the required consent;
-- (b) the disclosure is required for the purpose of an assimilated[^key-2945f91f02b74919f8b2d56afda65cea][^key-ba542763d63a4fdaa64abd975fef0c35] obligation; or
+- (b) the disclosure is required for the purpose of an assimilated[^c-2945f91f02b74919f8b2d56afda65cea][^c-ba542763d63a4fdaa64abd975fef0c35] obligation; or
 - (c) the disclosure is required, under rules of court or a court order, for the purposes of legal proceedings of any description.
 
 (4) The required consent is—
@@ -356,7 +356,7 @@ If the Adjudicator considers it appropriate for any changes to be made to the Gr
 
 ## How may the Adjudicator be funded?
 
-### 19. Levy funding[^key-6c6cf18f50209cbf75bd32abc5234987]
+### 19. Levy funding[^c-6c6cf18f50209cbf75bd32abc5234987]
 
 (1) The Adjudicator may require the specified retailers to pay a levy towards the Adjudicator's expenses.
 
@@ -386,7 +386,7 @@ If the Adjudicator considers it appropriate for any changes to be made to the Gr
   - (a) liabilities shown in the Adjudicator's statement of accounts for that financial year; and
   - (b) the total amount of any grants made by the Secretary of State under section 20 during that financial year or earlier ones.
 
-### 20. Payments by Secretary of State[^key-f390cc9aad0dc03739411785a21433a5]
+### 20. Payments by Secretary of State[^c-f390cc9aad0dc03739411785a21433a5]
 
 (1) The Secretary of State may make grants or loans to the Adjudicator.
 
@@ -394,7 +394,7 @@ If the Adjudicator considers it appropriate for any changes to be made to the Gr
 
 ## Amendments and transition
 
-### 21. Amendments and transition[^key-662e8c26c09add3d137ec372b066ba10]
+### 21. Amendments and transition[^c-662e8c26c09add3d137ec372b066ba10]
 
 *Parliamentary Commissioner Act 1967 (c. 13)*
 
@@ -477,23 +477,23 @@ Section 1
 
 ### Status
 
-**1.**[^key-e88bd3dde15ece2b44de4ec67dda0608] The Adjudicator is a corporation sole.
+**1.**[^c-e88bd3dde15ece2b44de4ec67dda0608] The Adjudicator is a corporation sole.
 
-**2.**[^key-9f13af0f599b9ec60f5a29f4873486bf] The Adjudicator carries out functions on behalf of the Crown.
+**2.**[^c-9f13af0f599b9ec60f5a29f4873486bf] The Adjudicator carries out functions on behalf of the Crown.
 
 ### Appointment
 
-**3.**[^key-8eb5b1fe7b6738d1721c26214fdb0586] The Adjudicator is to be appointed by the Secretary of State.
+**3.**[^c-8eb5b1fe7b6738d1721c26214fdb0586] The Adjudicator is to be appointed by the Secretary of State.
 
 ### Deputy Adjudicator
 
-**4.**[^key-49214c2bf9bf20db89d7deca1994b04a] The Secretary of State may appoint a Deputy Adjudicator.
+**4.**[^c-49214c2bf9bf20db89d7deca1994b04a] The Secretary of State may appoint a Deputy Adjudicator.
 
-**5.**[^key-6cdcfa93912eb24fa6b93308ce75bc62] The Deputy Adjudicator may carry out any of the Adjudicator's functions.
+**5.**[^c-6cdcfa93912eb24fa6b93308ce75bc62] The Deputy Adjudicator may carry out any of the Adjudicator's functions.
 
 ### Term of office etc
 
-**6.**[^key-115ad2a06fd1680e3147785741540f33] A person holds and vacates office as the Adjudicator or Deputy Adjudicator in accordance with the terms of his or her appointment, but—
+**6.**[^c-115ad2a06fd1680e3147785741540f33] A person holds and vacates office as the Adjudicator or Deputy Adjudicator in accordance with the terms of his or her appointment, but—
 
 - (a) a person's initial term of office may not be more than four years;
 - (b) a person may be appointed for one or two further terms of office;
@@ -501,11 +501,11 @@ Section 1
 - (d) a person may resign by giving written notice to the Secretary of State; and
 - (e) the Secretary of State may dismiss the person if satisfied that the person is unable, unwilling or unfit to perform his or her functions.
 
-**7.**[^key-6d743f903c2786945c113e655409c9fa] Service as the Adjudicator, or as the Deputy Adjudicator, is not service in the civil service of the state.
+**7.**[^c-6d743f903c2786945c113e655409c9fa] Service as the Adjudicator, or as the Deputy Adjudicator, is not service in the civil service of the state.
 
 ### Remuneration
 
-**8.**[^key-5ecd45b0323271f53f500819d943c8ac] (1) The Adjudicator may pay to or in respect of the person holding office as the Adjudicator or the Deputy Adjudicator—
+**8.**[^c-5ecd45b0323271f53f500819d943c8ac] (1) The Adjudicator may pay to or in respect of the person holding office as the Adjudicator or the Deputy Adjudicator—
 
 - (a) remuneration;
 - (b) allowances;
@@ -515,13 +515,13 @@ Section 1
 
 ### Staff
 
-**9.**[^key-eec91da6a01c147504b69390d33fbedf] (1) The Adjudicator may make arrangements with the Secretary of State or any other public authority for staff to be seconded to the Adjudicator.
+**9.**[^c-eec91da6a01c147504b69390d33fbedf] (1) The Adjudicator may make arrangements with the Secretary of State or any other public authority for staff to be seconded to the Adjudicator.
 
 (2) The arrangements may include provision for payments by the Adjudicator.
 
 ### Conflicts of interest
 
-**10.**[^key-04f89621c193af9516e5c0ec6f3e871d] (1) The Adjudicator must make procedural arrangements for dealing with any conflict of interest affecting—
+**10.**[^c-04f89621c193af9516e5c0ec6f3e871d] (1) The Adjudicator must make procedural arrangements for dealing with any conflict of interest affecting—
 
 - (a) the Adjudicator;
 - (b) the Deputy Adjudicator; or
@@ -531,7 +531,7 @@ Section 1
 
 (3) The Adjudicator must publish a summary of the arrangements.
 
-**11.**[^key-50aa2515c6ee38666977ff1eac36bedb] (1) This paragraph applies if both the Adjudicator and the Deputy Adjudicator are unable to act in relation to a matter because of conflicts of interest.
+**11.**[^c-50aa2515c6ee38666977ff1eac36bedb] (1) This paragraph applies if both the Adjudicator and the Deputy Adjudicator are unable to act in relation to a matter because of conflicts of interest.
 
 (2) The Secretary of State must appoint a person to act as a Deputy Adjudicator if asked to do so by the Adjudicator.
 
@@ -543,7 +543,7 @@ Section 1
 
 ### Validity of acts
 
-**12.**[^key-3c430d8161a3de58d000eee2cf063c11] A defect in appointment does not affect the validity of things done by—
+**12.**[^c-3c430d8161a3de58d000eee2cf063c11] A defect in appointment does not affect the validity of things done by—
 
 - (a) the Adjudicator;
 - (b) the Deputy Adjudicator; or
@@ -551,19 +551,19 @@ Section 1
 
 ### Application of seal and proof of documents
 
-**13.**[^key-e5ab5025f77a7f986e2f5769d7fb65a8] The application of the Adjudicator's seal must be authenticated by the signature of—
+**13.**[^c-e5ab5025f77a7f986e2f5769d7fb65a8] The application of the Adjudicator's seal must be authenticated by the signature of—
 
 - (a) the Adjudicator; or
 - (b) some other person who has been authorised by the Adjudicator for that purpose (whether generally or specially).
 
-**14.**[^key-f04aab9487a26f1d8e1a8fb6774e0bab] A document purporting to be duly executed under the seal—
+**14.**[^c-f04aab9487a26f1d8e1a8fb6774e0bab] A document purporting to be duly executed under the seal—
 
 - (a) is to be received in evidence; and
 - (b) is to be treated as duly executed unless the contrary is shown.
 
 ### Accounts
 
-**15.**[^key-e398a371c247cb266084aa6a8e9bddad] (1) The Adjudicator must keep proper accounts and proper records in relation to the accounts.
+**15.**[^c-e398a371c247cb266084aa6a8e9bddad] (1) The Adjudicator must keep proper accounts and proper records in relation to the accounts.
 
 (2) For each financial year the Adjudicator must prepare a statement of accounts in respect of that financial year.
 
@@ -583,15 +583,15 @@ Section 1
 
 ### Incidental powers
 
-**16.**[^key-18c444ca4289617009b5158f3eafca34] The Adjudicator may do anything that is calculated to facilitate the carrying out of the Adjudicator's functions or is conducive or incidental to the carrying out of those functions.
+**16.**[^c-18c444ca4289617009b5158f3eafca34] The Adjudicator may do anything that is calculated to facilitate the carrying out of the Adjudicator's functions or is conducive or incidental to the carrying out of those functions.
 
 ### Assistance from Office of Fair Trading
 
-**17.**[^key-635a4a2d92a297f9a5ade62bbe080e97] The Competition and Markets Authority[^key-7433efca6574f0fa4faf770cb38a8f2f] may provide staff, premises, facilities or other assistance to the Adjudicator (with or without charge).
+**17.**[^c-635a4a2d92a297f9a5ade62bbe080e97] The Competition and Markets Authority[^c-7433efca6574f0fa4faf770cb38a8f2f] may provide staff, premises, facilities or other assistance to the Adjudicator (with or without charge).
 
 ### Exemption from liability for damages
 
-**18.**[^key-76a624699486564eaf750a10f75ebf4f] (1) The following are exempt from liability in damages for anything done or omitted in the exercise or purported exercise of their functions—
+**18.**[^c-76a624699486564eaf750a10f75ebf4f] (1) The following are exempt from liability in damages for anything done or omitted in the exercise or purported exercise of their functions—
 
 - (a) the Adjudicator;
 - (b) the Deputy Adjudicator;
@@ -607,7 +607,7 @@ Section 1
 
 Sections 4 and 7
 
-**1.**[^key-dddf67616300da29d8aeac8b1f28f63a] (1) The Adjudicator may, for the purposes of an investigation, require a person—
+**1.**[^c-dddf67616300da29d8aeac8b1f28f63a] (1) The Adjudicator may, for the purposes of an investigation, require a person—
 
 - (a) to provide documents in the person's possession or control;
 - (b) to provide other information in the person's possession or control.
@@ -635,117 +635,117 @@ Sections 4 and 7
 - (a) the High Court in England and Wales or Northern Ireland; or
 - (b) the Court of Session in Scotland.
 
-**2.**[^key-23866a40144479cfd8e1157084658454] (1) It is an offence for a person intentionally to fail to comply with a requirement under this Schedule.
+**2.**[^c-23866a40144479cfd8e1157084658454] (1) It is an offence for a person intentionally to fail to comply with a requirement under this Schedule.
 
 (2) It is a defence for a person charged with that offence to prove that there was a reasonable excuse for the person's failure.
 
-**3.**[^key-1974482e72b9e59dacd3b7803bd452b3] It is an offence for a person knowingly to provide false information in response to a requirement under this Schedule.
+**3.**[^c-1974482e72b9e59dacd3b7803bd452b3] It is an offence for a person knowingly to provide false information in response to a requirement under this Schedule.
 
-**4.**[^key-de64acf91c1dc44b0ba9074d4eaecec1] A person guilty of an offence under this Schedule is liable—
+**4.**[^c-de64acf91c1dc44b0ba9074d4eaecec1] A person guilty of an offence under this Schedule is liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
 
 ## Annotations
 
-[^key-ed9dbc0958ca3370d4a3a8ffa084b760]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/19/section/1) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-ed9dbc0958ca3370d4a3a8ffa084b760]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/19/section/1) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-fb30e7b23ee5383f21509f5ac0af4066]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/19/section/2) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-fb30e7b23ee5383f21509f5ac0af4066]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/19/section/2) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-b564ecf795c4513b86f27f94bc29e422]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/19/section/3) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-b564ecf795c4513b86f27f94bc29e422]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/19/section/3) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-bc1b93f0c5d6e8da9220fe8e6c329b70]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/19/section/4) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-bc1b93f0c5d6e8da9220fe8e6c329b70]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/19/section/4) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-cd4d60140b843a4b22fd4ed78251681a]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/19/section/5) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-cd4d60140b843a4b22fd4ed78251681a]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/19/section/5) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-419d2ac8fc92602e0aa463ea95a14674]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/19/section/6) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-419d2ac8fc92602e0aa463ea95a14674]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/19/section/6) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-8c7fc0ab2797bd1ccaf9cb3ed19728ca]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/19/section/7) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-8c7fc0ab2797bd1ccaf9cb3ed19728ca]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/19/section/7) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-1304079113d072258db47b05aa8e263c]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/19/section/8) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-1304079113d072258db47b05aa8e263c]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/19/section/8) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-05b80b4371eff345ff9f15412b89a817]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/19/section/9) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-05b80b4371eff345ff9f15412b89a817]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/19/section/9) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-cacced310110a2091584c7422857e836]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/19/section/10) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-cacced310110a2091584c7422857e836]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/19/section/10) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-7094bc88552f5a609039944b2704c2ef]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2013/19/section/11) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-7094bc88552f5a609039944b2704c2ef]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2013/19/section/11) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-c31f68f2674852c6870338c6a7717e20]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2013/19/section/12) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-c31f68f2674852c6870338c6a7717e20]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2013/19/section/12) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-7cd31668aeac25d1bd2a3f317958f455]: Commencement: S. 13 in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-7cd31668aeac25d1bd2a3f317958f455]: Commencement: S. 13 in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-0d040c7c38f6e5a1412f51724c946465]: Textual amendment: Words in s. 13 and in heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 205](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/205) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-0d040c7c38f6e5a1412f51724c946465]: Textual amendment: Words in s. 13 and in heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 205](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/205) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
-[^key-775054d7644e2307fac8ccc87cdf7863]: Commencement: S. 14 in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-775054d7644e2307fac8ccc87cdf7863]: Commencement: S. 14 in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-c77b91ddaf0422f94000233aaa63e6e1]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/ukpga/2013/19/section/14/4) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 206](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/206) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-c77b91ddaf0422f94000233aaa63e6e1]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/ukpga/2013/19/section/14/4) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 206](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/206) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
-[^key-e5ce1a4c0db718fbd581f88a61af5d90]: Textual amendment: Words in [s. 14(5)(b)](https://www.legislation.gov.uk/ukpga/2013/19/section/14/5/b) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 206](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/206) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-e5ce1a4c0db718fbd581f88a61af5d90]: Textual amendment: Words in [s. 14(5)(b)](https://www.legislation.gov.uk/ukpga/2013/19/section/14/5/b) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 206](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/206) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
-[^key-764fe15c87ba2812c4d2d15b07728847]: Commencement: S. 15 in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-764fe15c87ba2812c4d2d15b07728847]: Commencement: S. 15 in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-eb197dbe39cd7b031daa210e796b877d]: Textual amendment: Words in [s. 15(8)(b)](https://www.legislation.gov.uk/ukpga/2013/19/section/15/8/b) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 207(a)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/207/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-eb197dbe39cd7b031daa210e796b877d]: Textual amendment: Words in [s. 15(8)(b)](https://www.legislation.gov.uk/ukpga/2013/19/section/15/8/b) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 207(a)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/207/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
-[^key-e67e1cdf2a742c635995ae95f3dbaa2b]: Textual amendment: [S. 15(8)(c)](https://www.legislation.gov.uk/ukpga/2013/19/section/15/8/c) omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 207(b)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/207/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-e67e1cdf2a742c635995ae95f3dbaa2b]: Textual amendment: [S. 15(8)(c)](https://www.legislation.gov.uk/ukpga/2013/19/section/15/8/c) omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 207(b)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/207/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
-[^key-81bb431e0b326db30bd419de5c6e09ea]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/19/section/16) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-81bb431e0b326db30bd419de5c6e09ea]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/19/section/16) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-cecca6522fef580be87ef9acde2d1fa2]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2013/19/section/17) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-cecca6522fef580be87ef9acde2d1fa2]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2013/19/section/17) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-bc9d05e287b32910b0f0da56a4ba7d18]: Commencement: S. 18 in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-bc9d05e287b32910b0f0da56a4ba7d18]: Commencement: S. 18 in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-2945f91f02b74919f8b2d56afda65cea]: Textual amendment: Words in s. 18(3)(b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 78](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/78)
+[^c-2945f91f02b74919f8b2d56afda65cea]: Textual amendment: Words in s. 18(3)(b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 78](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/78)
 
-[^key-ba542763d63a4fdaa64abd975fef0c35]: Textual amendment: Words in s. 18(3)(b) substituted (31.12.2020) by [The Groceries Code Adjudicator Act 2013, Small Business, Enterprise and Employment Act 2015 and Enterprise Act 2016 (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1046)](https://www.legislation.gov.uk/uksi/2018/1046), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1046/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/1046/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba542763d63a4fdaa64abd975fef0c35]: Textual amendment: Words in s. 18(3)(b) substituted (31.12.2020) by [The Groceries Code Adjudicator Act 2013, Small Business, Enterprise and Employment Act 2015 and Enterprise Act 2016 (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1046)](https://www.legislation.gov.uk/uksi/2018/1046), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1046/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/1046/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6c6cf18f50209cbf75bd32abc5234987]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2013/19/section/19) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-6c6cf18f50209cbf75bd32abc5234987]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2013/19/section/19) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-f390cc9aad0dc03739411785a21433a5]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2013/19/section/20) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-f390cc9aad0dc03739411785a21433a5]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2013/19/section/20) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-662e8c26c09add3d137ec372b066ba10]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2013/19/section/21) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-662e8c26c09add3d137ec372b066ba10]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2013/19/section/21) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-e88bd3dde15ece2b44de4ec67dda0608]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/1) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-e88bd3dde15ece2b44de4ec67dda0608]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/1) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-9f13af0f599b9ec60f5a29f4873486bf]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/2) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-9f13af0f599b9ec60f5a29f4873486bf]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/2) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-8eb5b1fe7b6738d1721c26214fdb0586]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/3) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-8eb5b1fe7b6738d1721c26214fdb0586]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/3) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-49214c2bf9bf20db89d7deca1994b04a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/4) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-49214c2bf9bf20db89d7deca1994b04a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/4) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-6cdcfa93912eb24fa6b93308ce75bc62]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/5) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-6cdcfa93912eb24fa6b93308ce75bc62]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/5) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-115ad2a06fd1680e3147785741540f33]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/6) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-115ad2a06fd1680e3147785741540f33]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/6) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-6d743f903c2786945c113e655409c9fa]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/7) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-6d743f903c2786945c113e655409c9fa]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/7) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-5ecd45b0323271f53f500819d943c8ac]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/8) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-5ecd45b0323271f53f500819d943c8ac]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/8) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-eec91da6a01c147504b69390d33fbedf]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/9) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-eec91da6a01c147504b69390d33fbedf]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/9) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-04f89621c193af9516e5c0ec6f3e871d]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/10) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-04f89621c193af9516e5c0ec6f3e871d]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/10) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-50aa2515c6ee38666977ff1eac36bedb]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/11) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-50aa2515c6ee38666977ff1eac36bedb]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/11) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-3c430d8161a3de58d000eee2cf063c11]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/12) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-3c430d8161a3de58d000eee2cf063c11]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/12) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-e5ab5025f77a7f986e2f5769d7fb65a8]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/13) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-e5ab5025f77a7f986e2f5769d7fb65a8]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/13) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-f04aab9487a26f1d8e1a8fb6774e0bab]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/14) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-f04aab9487a26f1d8e1a8fb6774e0bab]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/14) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-e398a371c247cb266084aa6a8e9bddad]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/15) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-e398a371c247cb266084aa6a8e9bddad]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/15) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-18c444ca4289617009b5158f3eafca34]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/16) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-18c444ca4289617009b5158f3eafca34]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/16) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-635a4a2d92a297f9a5ade62bbe080e97]: Commencement: Sch. 1 para. 17 in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-635a4a2d92a297f9a5ade62bbe080e97]: Commencement: Sch. 1 para. 17 in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-7433efca6574f0fa4faf770cb38a8f2f]: Textual amendment: Words in [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/17) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 208](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/208) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-7433efca6574f0fa4faf770cb38a8f2f]: Textual amendment: Words in [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/17) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 208](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/208) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
-[^key-76a624699486564eaf750a10f75ebf4f]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/18) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-76a624699486564eaf750a10f75ebf4f]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2013/19/schedule/1/paragraph/18) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-dddf67616300da29d8aeac8b1f28f63a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2013/19/schedule/2/paragraph/1) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-dddf67616300da29d8aeac8b1f28f63a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2013/19/schedule/2/paragraph/1) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-23866a40144479cfd8e1157084658454]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2013/19/schedule/2/paragraph/2) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-23866a40144479cfd8e1157084658454]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2013/19/schedule/2/paragraph/2) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-1974482e72b9e59dacd3b7803bd452b3]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2013/19/schedule/2/paragraph/3) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-1974482e72b9e59dacd3b7803bd452b3]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2013/19/schedule/2/paragraph/3) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
 
-[^key-de64acf91c1dc44b0ba9074d4eaecec1]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/19/schedule/2/paragraph/4) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+[^c-de64acf91c1dc44b0ba9074d4eaecec1]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/19/schedule/2/paragraph/4) in force at 25.6.2013 by [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)

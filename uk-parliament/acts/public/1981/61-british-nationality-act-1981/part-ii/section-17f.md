@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17F. Other person unable to become citizen at commencement[^key-48a27cb403fbd4fc4968a918bd54e4bb]
+## 17F. Other person unable to become citizen at commencement[^c-48a27cb403fbd4fc4968a918bd54e4bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48a27cb403fbd4fc4968a918bd54e4bb]: Textual amendment: [Ss. 17B-17G](https://www.legislation.gov.uk/ukpga/1981/61/section/17B) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2022/36/section/2/2), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/2)
+[^c-48a27cb403fbd4fc4968a918bd54e4bb]: Textual amendment: [Ss. 17B-17G](https://www.legislation.gov.uk/ukpga/1981/61/section/17B) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2022/36/section/2/2), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/2)

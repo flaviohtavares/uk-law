@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Permit schemes[^key-c824ddd2477d66cb85a225c227437dbe]
+## 20. Permit schemes[^c-c824ddd2477d66cb85a225c227437dbe]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c824ddd2477d66cb85a225c227437dbe]: Commencement: Art. 20 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-c824ddd2477d66cb85a225c227437dbe]: Commencement: Art. 20 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00074]: Footnote: Section 33 was amended by section 51 of, and Schedule 10 to, the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 

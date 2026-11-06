@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Statutory undertakers[^key-7fd9491443064dc3e9718585594b251e]
+## 31. Statutory undertakers[^c-7fd9491443064dc3e9718585594b251e]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Subject to the provisions of Schedule 15 (protective provisions) the undertaker 
 
 ## Annotations
 
-[^key-7fd9491443064dc3e9718585594b251e]: Commencement: Art. 31 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-7fd9491443064dc3e9718585594b251e]: Commencement: Art. 31 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)

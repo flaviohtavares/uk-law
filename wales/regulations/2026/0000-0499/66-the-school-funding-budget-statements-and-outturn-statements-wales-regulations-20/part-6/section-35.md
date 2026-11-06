@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Form of outturn statements[^key-ffa5a93adf8d47e39ec1e7dacce6586b]
+## 35. Form of outturn statements[^c-ffa5a93adf8d47e39ec1e7dacce6586b]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffa5a93adf8d47e39ec1e7dacce6586b]: Commencement: Reg. 35 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-ffa5a93adf8d47e39ec1e7dacce6586b]: Commencement: Reg. 35 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

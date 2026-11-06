@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132B. Exemption from s.132 for specific variations directed by Tribunal[^key-8eb822c357fe0b63b97e3db59be5f2a4][^key-c05adb8597f2acc398b3fefbd54794ff][^key-e5378d2fbb31e14fb02386c4e4405768]
+## 132B. Exemption from s.132 for specific variations directed by Tribunal[^c-8eb822c357fe0b63b97e3db59be5f2a4][^c-c05adb8597f2acc398b3fefbd54794ff][^c-e5378d2fbb31e14fb02386c4e4405768]
 
 *Extent: E+W*
 
 (1) This section applies in relation to any of the following appeals—
 
-- (a)[^key-4a8fea4f7e99c8d9e198fac127b3e073] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4a8fea4f7e99c8d9e198fac127b3e073] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) an appeal under section 131E(2)(a) against a decision that a proposal was an exempt continuation proposal,
 - (c) an appeal under section 131E(2)(b) against a decision that a scheme should continue in operation,
 - (d) an appeal under section 131F(2) against a decision that a scheme should continue in operation,
@@ -32,23 +32,23 @@ summary: ''
 
 (2) Where—
 
-- (a) any such appeal is made to the Upper[^key-59ddb41270d8136759e2085689686453] Tribunal, and
+- (a) any such appeal is made to the Upper[^c-59ddb41270d8136759e2085689686453] Tribunal, and
 - (b) on that appeal, the Tribunal direct the authority or authorities to vary the scheme in the manner specified by the Tribunal in the direction,
 
 nothing in section 132(5) to (9) (procedure for variation of scheme) applies in relation to the varying of the scheme in the manner specified in the direction, unless the Tribunal otherwise direct.
 
-(3) Subsection (2) is without prejudice to any right of appeal against the decision of the Upper[^key-3b5471d3e165995490c886e66502c361] Tribunal.
+(3) Subsection (2) is without prejudice to any right of appeal against the decision of the Upper[^c-3b5471d3e165995490c886e66502c361] Tribunal.
 
 ## Annotations
 
-[^key-8eb822c357fe0b63b97e3db59be5f2a4]: Modification: S. 132B: transfer of functions (27.1.2015) by [The Transfer of Tribunal Functions (Transport Tribunal) Order 2015 (S.I. 2015/65)](https://www.legislation.gov.uk/uksi/2015/65), [arts. 1](https://www.legislation.gov.uk/uksi/2015/65/article/1), [2(2)(g)](https://www.legislation.gov.uk/uksi/2015/65/article/2/2/g) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2015/65/schedule/2))
+[^c-8eb822c357fe0b63b97e3db59be5f2a4]: Modification: S. 132B: transfer of functions (27.1.2015) by [The Transfer of Tribunal Functions (Transport Tribunal) Order 2015 (S.I. 2015/65)](https://www.legislation.gov.uk/uksi/2015/65), [arts. 1](https://www.legislation.gov.uk/uksi/2015/65/article/1), [2(2)(g)](https://www.legislation.gov.uk/uksi/2015/65/article/2/2/g) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2015/65/schedule/2))
 
-[^key-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+[^c-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
 
-[^key-e5378d2fbb31e14fb02386c4e4405768]: Textual amendment: S. 132B inserted (11.1.2010 for E.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 39](https://www.legislation.gov.uk/ukpga/2008/26/section/39), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-e5378d2fbb31e14fb02386c4e4405768]: Textual amendment: S. 132B inserted (11.1.2010 for E.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 39](https://www.legislation.gov.uk/ukpga/2008/26/section/39), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
 
-[^key-4a8fea4f7e99c8d9e198fac127b3e073]: Textual amendment: S. 132B(1)(a) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/19)
+[^c-4a8fea4f7e99c8d9e198fac127b3e073]: Textual amendment: S. 132B(1)(a) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/19)
 
-[^key-59ddb41270d8136759e2085689686453]: Textual amendment: Word in s. 132B(2)(a) substituted (27.1.2015) by [The Transfer of Tribunal Functions (Transport Tribunal) Order 2015 (S.I. 2015/65)](https://www.legislation.gov.uk/uksi/2015/65), [art. 1](https://www.legislation.gov.uk/uksi/2015/65/article/1), [Sch. 1 para. 5(g)](https://www.legislation.gov.uk/uksi/2015/65/schedule/1/paragraph/5)
+[^c-59ddb41270d8136759e2085689686453]: Textual amendment: Word in s. 132B(2)(a) substituted (27.1.2015) by [The Transfer of Tribunal Functions (Transport Tribunal) Order 2015 (S.I. 2015/65)](https://www.legislation.gov.uk/uksi/2015/65), [art. 1](https://www.legislation.gov.uk/uksi/2015/65/article/1), [Sch. 1 para. 5(g)](https://www.legislation.gov.uk/uksi/2015/65/schedule/1/paragraph/5)
 
-[^key-3b5471d3e165995490c886e66502c361]: Textual amendment: Word in s. 132B(3) substituted (27.1.2015) by [The Transfer of Tribunal Functions (Transport Tribunal) Order 2015 (S.I. 2015/65)](https://www.legislation.gov.uk/uksi/2015/65), [art. 1](https://www.legislation.gov.uk/uksi/2015/65/article/1), [Sch. 1 para. 5(g)](https://www.legislation.gov.uk/uksi/2015/65/schedule/1/paragraph/5)
+[^c-3b5471d3e165995490c886e66502c361]: Textual amendment: Word in s. 132B(3) substituted (27.1.2015) by [The Transfer of Tribunal Functions (Transport Tribunal) Order 2015 (S.I. 2015/65)](https://www.legislation.gov.uk/uksi/2015/65), [art. 1](https://www.legislation.gov.uk/uksi/2015/65/article/1), [Sch. 1 para. 5(g)](https://www.legislation.gov.uk/uksi/2015/65/schedule/1/paragraph/5)

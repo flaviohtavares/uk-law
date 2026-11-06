@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Amendment to the County Court Remedies Regulations 1991[^key-1816feb97c4fb7503cca5a661c387386]
+## 23. Amendment to the County Court Remedies Regulations 1991[^c-1816feb97c4fb7503cca5a661c387386]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Omit regulation 3(3)(a) of the County Court Remedies Regulations 1991[^f00008].
 
 ## Annotations
 
-[^key-1816feb97c4fb7503cca5a661c387386]: Commencement: Art. 23 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-1816feb97c4fb7503cca5a661c387386]: Commencement: Art. 23 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00008]: Footnote: [S.I. 1991/1222](https://www.legislation.gov.uk/uksi/1991/1222). Relevant amending instruments are [S.I. 1995/206](https://www.legislation.gov.uk/uksi/1995/206) and [2002/439](https://www.legislation.gov.uk/uksi/2002/439).

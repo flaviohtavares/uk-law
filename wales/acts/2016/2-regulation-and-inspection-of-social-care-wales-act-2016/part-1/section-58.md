@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Regulation of local authority functions relating to looked after and accommodated children[^key-a2509146cc0213a8511684305be78675]
+## 58. Regulation of local authority functions relating to looked after and accommodated children[^c-a2509146cc0213a8511684305be78675]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ After section 94 of the 2014 Act (regulations about agency arrangements) insertâ
 
 ## Annotations
 
-[^key-a2509146cc0213a8511684305be78675]: Commencement: S. 58 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(f)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/f)
+[^c-a2509146cc0213a8511684305be78675]: Commencement: S. 58 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(f)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/f)

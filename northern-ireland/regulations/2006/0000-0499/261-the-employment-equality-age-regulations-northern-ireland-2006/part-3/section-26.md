@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Liability of employers and principals[^key-703b927f46fee003a61531b2cb94903a]
+## 26. Liability of employers and principals[^c-703b927f46fee003a61531b2cb94903a]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-703b927f46fee003a61531b2cb94903a]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/261/regulation/26) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-703b927f46fee003a61531b2cb94903a]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/261/regulation/26) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

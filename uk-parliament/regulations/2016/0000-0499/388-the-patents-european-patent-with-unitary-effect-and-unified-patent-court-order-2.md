@@ -32,7 +32,7 @@ summary: ''
 
 Patents
 
-The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (revoked)[^key-4e728e576e6fba1d850c19df2e054469]
+The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (revoked)[^c-4e728e576e6fba1d850c19df2e054469]
 
 Made
 
@@ -40,21 +40,21 @@ Made
 
 Coming into force in accordance with Article 1(2)
 
-[^key-4e728e576e6fba1d850c19df2e054469]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e728e576e6fba1d850c19df2e054469]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and extent[^key-4e728e576e6fba1d850c19df2e054469]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendments to the Patents Act 1977[^key-4e728e576e6fba1d850c19df2e054469]
+## 1. Citation, commencement and extent[^c-4e728e576e6fba1d850c19df2e054469]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional Provision[^key-4e728e576e6fba1d850c19df2e054469]
+## 2. Amendments to the Patents Act 1977[^c-4e728e576e6fba1d850c19df2e054469]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Transitional Provision[^c-4e728e576e6fba1d850c19df2e054469]
 
 **Not yet in force.**
 
@@ -62,11 +62,11 @@ Coming into force in accordance with Article 1(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-4e728e576e6fba1d850c19df2e054469]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e728e576e6fba1d850c19df2e054469]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-4e728e576e6fba1d850c19df2e054469]EXPLANATORY NOTE
+[^c-4e728e576e6fba1d850c19df2e054469]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -104,4 +104,4 @@ A Transposition Note and a full impact assessment of the effect that this Order 
 
 ## Annotations
 
-[^key-4e728e576e6fba1d850c19df2e054469]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/388) revoked (12.4.2021) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/2)
+[^c-4e728e576e6fba1d850c19df2e054469]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/388) revoked (12.4.2021) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/2)

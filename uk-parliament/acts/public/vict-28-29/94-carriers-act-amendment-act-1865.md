@@ -31,22 +31,22 @@ Carriers Act Amendment Act 1865 (repealed)
 
 1865 c.94
 
-[^key-e50e0e8163eb0045429f79e22784132c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e50e0e8163eb0045429f79e22784132c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[5th July 1865\]
 
 **No longer in force.**
 
-## 1. The term “lace” in 11 G. 4 & 1 W. 4 c. 68. not to include machine-made lace.[^key-e50e0e8163eb0045429f79e22784132c][^key-e50e0e8163eb0045429f79e22784132c]
+## 1. The term “lace” in 11 G. 4 & 1 W. 4 c. 68. not to include machine-made lace.[^c-e50e0e8163eb0045429f79e22784132c][^c-e50e0e8163eb0045429f79e22784132c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-e50e0e8163eb0045429f79e22784132c][^key-e50e0e8163eb0045429f79e22784132c]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-e50e0e8163eb0045429f79e22784132c][^c-e50e0e8163eb0045429f79e22784132c]
 
-## 3. Short title.[^key-e50e0e8163eb0045429f79e22784132c][^key-e50e0e8163eb0045429f79e22784132c]
+## 3. Short title.[^c-e50e0e8163eb0045429f79e22784132c][^c-e50e0e8163eb0045429f79e22784132c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e50e0e8163eb0045429f79e22784132c]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/28-29/94) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 11(4)
+[^c-e50e0e8163eb0045429f79e22784132c]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/28-29/94) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 11(4)

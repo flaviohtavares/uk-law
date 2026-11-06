@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18B. Power to amend R14(2)(b) and specify how information is to be presented[^key-6a85e2722a576fc72e4b5825c2bca24a]
+## 18B. Power to amend R14(2)(b) and specify how information is to be presented[^c-6a85e2722a576fc72e4b5825c2bca24a]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a85e2722a576fc72e4b5825c2bca24a]: Textual amendment: [Regs. 18A-18C](https://www.legislation.gov.uk/uksi/2017/1206/regulation/18A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 16](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/16) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6a85e2722a576fc72e4b5825c2bca24a]: Textual amendment: [Regs. 18A-18C](https://www.legislation.gov.uk/uksi/2017/1206/regulation/18A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 16](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/16) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

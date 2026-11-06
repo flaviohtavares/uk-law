@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Special powers of arrest.[^key-f87bb2179c45452474fc0065f8941fd0]
+## 50. Special powers of arrest.[^c-f87bb2179c45452474fc0065f8941fd0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f87bb2179c45452474fc0065f8941fd0]: Textual amendment: S. 50 repealed: (E.W.) by [Police and Criminal Evidence Act 1984 (c. 60, SIF 95)](https://www.legislation.gov.uk/ukpga/1984/60), [s. 121(1)](https://www.legislation.gov.uk/ukpga/1984/60/section/121/1), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/1984/60/schedule/7/part/I); and (S.) (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 6](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/6); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-f87bb2179c45452474fc0065f8941fd0]: Textual amendment: S. 50 repealed: (E.W.) by [Police and Criminal Evidence Act 1984 (c. 60, SIF 95)](https://www.legislation.gov.uk/ukpga/1984/60), [s. 121(1)](https://www.legislation.gov.uk/ukpga/1984/60/section/121/1), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/1984/60/schedule/7/part/I); and (S.) (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 6](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/6); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

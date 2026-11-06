@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Time periods: the eIDAS Regulation and the EITSET Regulations[^key-e38128d7cb97ec00746732dc2d19d91e][^key-0e813a3a3fc7318315ebf8773148bb5e]
+## 134. Time periods: the eIDAS Regulation and the EITSET Regulations[^c-e38128d7cb97ec00746732dc2d19d91e][^c-0e813a3a3fc7318315ebf8773148bb5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e38128d7cb97ec00746732dc2d19d91e]: Commencement: S. 134 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-e38128d7cb97ec00746732dc2d19d91e]: Commencement: S. 134 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-0e813a3a3fc7318315ebf8773148bb5e]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2025/18/section/134) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/u)
+[^c-0e813a3a3fc7318315ebf8773148bb5e]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2025/18/section/134) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/u)

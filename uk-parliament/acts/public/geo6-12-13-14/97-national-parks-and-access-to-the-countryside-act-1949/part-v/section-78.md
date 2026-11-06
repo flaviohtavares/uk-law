@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-7d783d62720a955d339e21cb6d768444] A local planning authority whose area comprises any land—
+(1)[^c-7d783d62720a955d339e21cb6d768444] A local planning authority whose area comprises any land—
 
 - (a) which is subject to an access agreement or order, or
 - (b) has been acquired under either of the two last foregoing sections and is for the time being held for the purpose for which it was acquired,
@@ -40,4 +40,4 @@ shall prepare and keep up to date a map, on such scale as may be prescribed by r
 
 [^c642158]: Modification: [S. 78](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/section/78) extended by [Countryside Act 1968 (c. 41, SIF 46:1)](https://www.legislation.gov.uk/ukpga/1968/41), [s. 17(6)](https://www.legislation.gov.uk/ukpga/1968/41/section/17/6)
 
-[^key-7d783d62720a955d339e21cb6d768444]: Modification: [S. 78(1)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/section/78/1) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2018/644/article/6/c)
+[^c-7d783d62720a955d339e21cb6d768444]: Modification: [S. 78(1)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/section/78/1) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2018/644/article/6/c)

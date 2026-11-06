@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 191. Application under Article 150A(5) to disapply Article 150A[^key-93b9e82cc82e24ef1076dfc52d330b1d]
+## 191. Application under Article 150A(5) to disapply Article 150A[^c-93b9e82cc82e24ef1076dfc52d330b1d]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93b9e82cc82e24ef1076dfc52d330b1d]: Commencement: Rule 191 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-93b9e82cc82e24ef1076dfc52d330b1d]: Commencement: Rule 191 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
 
 [^f00022]: Footnote: Rule 7.07A was inserted by the Insolvency (Amendment) Rules (Northern Ireland) 2006 ([S.R. 2006 No. 47](https://www.legislation.gov.uk/nisr/2006/47)), rule 97.

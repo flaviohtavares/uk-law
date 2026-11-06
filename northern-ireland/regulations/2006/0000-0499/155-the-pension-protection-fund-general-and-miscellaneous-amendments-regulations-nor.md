@@ -41,7 +41,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and interpretation[^key-97d34ae338590d034b6368b0b27adaae][^key-97d34ae338590d034b6368b0b27adaae]
+### 1. Citation, commencement and interpretation[^c-97d34ae338590d034b6368b0b27adaae][^c-97d34ae338590d034b6368b0b27adaae]
 
 (1) These Regulations may be cited as the Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 and shall come into operation—
 
@@ -52,7 +52,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 - “the 2004 Act” means the Finance Act 2004[^f00002];
 - “the Order” means the Pensions (Northern Ireland) Order 2005;
-- [^key-f19c46902f7cbcfccdfc1f5a214b72a3]...
+- [^c-f19c46902f7cbcfccdfc1f5a214b72a3]...
 - “base rate” means the rate for the time being quoted by the reference banks as applicable to sterling deposits or, where there is for the time being more than one such base rate, the rate which, when the base rate quoted at each bank is ranked in a descending sequence of four, is the first in the sequence;
 - “beneficiary” means a person entitled to PPF compensation;
 - “dependant” means—
@@ -75,13 +75,13 @@ The Department for Social Development makes the following Regulations in exercis
   - (a) any periodic compensation payments made in relation to a person, payable under the pension compensation provisions specified in Article 146(2) of the Order, or
   - (b) any periodic payments made in relation to a person, payable under Article 150 of the Order (duty to pay scheme benefits unpaid at assessment date etc.);
 - “PPF compensation” means any payments made under the pension compensation provisions as specified in Article 146(2) of the Order;
-- “PPF money purchase lump sum” means a payment of a lump sum which is made by the Board in respect of entitlement or accrued rights under the scheme rules to money purchase benefits;[^key-9171e8102d6ac45ae337c8f90253d9ed]
+- “PPF money purchase lump sum” means a payment of a lump sum which is made by the Board in respect of entitlement or accrued rights under the scheme rules to money purchase benefits;[^c-9171e8102d6ac45ae337c8f90253d9ed]
 - “qualifying course” means a full time educational or vocational course at a recognised educational establishment where in pursuit of that course, the time spent receiving instruction or tuition, undertaking supervised study, examination or practical work or taking part in any exercise, experiment or project for which provision is made in the curriculum of the course, exceeds 12 hours per week in normal term time, and shall include any gaps between the ending of one course and the commencement of another, where the person is enrolled on and commences the latter course;
 - “reference banks” means the four largest persons for the time being (by reference to gross assets)[^f00007] who—
   - (a) have permission under Part 4 of the FSMA (permission to carry on regulated activities) to accept deposits, and
   - (b) are incorporated in the United Kingdom and carrying on there a regulated activity of accepting deposits, and quote a base rate applicable to sterling deposits;
 - “registered pension scheme” has the meaning given in section 150(2) of the 2004 Act (meaning of pension scheme);
-- “relevant partner” means a person of either sex who was not married to, or in a civil partnership with, the member but[^key-8eb8a689af4aa545954393daf22c30e3] who was living with the member as if that person and the member were spouses of each other;[^key-6c9da27c2c7ef68352148a999e436293]
+- “relevant partner” means a person of either sex who was not married to, or in a civil partnership with, the member but[^c-8eb8a689af4aa545954393daf22c30e3] who was living with the member as if that person and the member were spouses of each other;[^c-6c9da27c2c7ef68352148a999e436293]
 - “stakeholder pension scheme” has the meaning given in Article 3 of the 1999 Order[^f00008] (meaning of “stakeholder pension scheme”);
 - “trivial commutation lump sum” has the meaning given in paragraph 7 of Schedule 29 to the 2004 Act (trivial commutation lump sum).
 
@@ -93,7 +93,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 ## PART 2 — Assumption of responsibility
 
-### 2. Board’s power to modify relevant contracts[^key-53510db1944931d46786a1852935d10e]
+### 2. Board’s power to modify relevant contracts[^c-53510db1944931d46786a1852935d10e]
 
 (1) Where Article 145(1) of the Order (effect of the Board assuming responsibility for a scheme) applies, and the Board considers that a contract relating to the property, rights or liabilities of the scheme contains terms or conditions that the Board considers to be onerous (whether triggered by the insolvency event in relation to the eligible scheme or otherwise) the Board may—
 
@@ -107,7 +107,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 the Board may modify that term of that contract so that benefit under that contract shall be payable to the Board.
 
-### 3. Power to treat benefits as having become payable before the assessment date[^key-3a3a8e1310b4e72126b56e975c1b56d6]
+### 3. Power to treat benefits as having become payable before the assessment date[^c-3a3a8e1310b4e72126b56e975c1b56d6]
 
 (1) Where this regulation applies, the benefits referred to in paragraph (3) shall be treated, for the purposes of Article 147(2) of the Order (adjustments to be made where the Board assumes responsibility for a scheme), as having become payable before the assessment date.
 
@@ -121,16 +121,16 @@ the Board may modify that term of that contract so that benefit under that contr
 - (a) a death benefit which is calculated and paid by the trustees or managers of the eligible scheme on or after the assessment date but before the date the trustees or managers receive the transfer notice in respect of that scheme, and
 - (b) a contribution refund within the meaning of section 97AB(4) of the Pension Schemes Act (right to cash transfer sum and contribution refund).
 
-### 4. Power to treat benefits as having arisen before the assessment date[^key-66899d7dd2528d9d93a2f6656de1a89a][^key-2bab847f316aa9d49a4f38e26c2991cb]
+### 4. Power to treat benefits as having arisen before the assessment date[^c-66899d7dd2528d9d93a2f6656de1a89a][^c-2bab847f316aa9d49a4f38e26c2991cb]
 
 Where—
 
 - (a) a member of an eligible scheme died before the commencement of the assessment period in relation to the scheme, and
-- (b) during the period beginning with the assessment date and ending with the receipt by the trustees or managers of the transfer notice, a person became entitled under the scheme rules to a death benefit or a contribution refund (within the meaning of section 97AB(4) of the Pension Schemes Act)[^key-bea4e56d4a613994856cbbb750c013c4] in respect of that member,
+- (b) during the period beginning with the assessment date and ending with the receipt by the trustees or managers of the transfer notice, a person became entitled under the scheme rules to a death benefit or a contribution refund (within the meaning of section 97AB(4) of the Pension Schemes Act)[^c-bea4e56d4a613994856cbbb750c013c4] in respect of that member,
 
 that person’s entitlement to that benefit shall, for the purposes of Article 150(2) of the Order (duty to pay scheme benefits unpaid at assessment date etc.), be treated as having arisen before the assessment date.
 
-### 4A. Power to pay certain transfer payments and contribution refunds[^key-2954631db5ee2ccdc223aee7c03fafd2]
+### 4A. Power to pay certain transfer payments and contribution refunds[^c-2954631db5ee2ccdc223aee7c03fafd2]
 
 (1) The Board must pay 90% of the rights described in paragraph (2) in the circumstances prescribed in paragraph (3).
 
@@ -152,7 +152,7 @@ to which a member of the scheme was entitled immediately before the commencement
 - (c) the rights remained unpaid at the time the transfer notice was received by the trustees or managers of the scheme, and
 - (d) the member sends the Board a written request to make a payment in respect of the rights.
 
-### 5. Interest on overpayments and underpayments created during the assessment period[^key-febe1e5800bafa6a018e4e802dfc076e]
+### 5. Interest on overpayments and underpayments created during the assessment period[^c-febe1e5800bafa6a018e4e802dfc076e]
 
 The prescribed rate for interest for the purposes of—
 
@@ -161,7 +161,7 @@ The prescribed rate for interest for the purposes of—
 
 shall be the base rate.
 
-### 6. Circumstances where the Board is not required to recover overpaid scheme benefits[^key-a335983878d072af492a1ac03a1a2aa8]
+### 6. Circumstances where the Board is not required to recover overpaid scheme benefits[^c-a335983878d072af492a1ac03a1a2aa8]
 
 (1) Where the Board determines that an amount referred to in Article 147(4)(a) of the Order has been paid to a member, or to a person in respect of a member, it shall notify that member or person in writing that—
 
@@ -171,12 +171,12 @@ shall be the base rate.
   - (i) notify the Board in writing that he believes that hardship would be so caused (“the hardship notification”) within one month of the date the Board notifies him that such an amount has been paid to him, and
   - (ii) provide any supporting evidence to the Board that hardship would be so caused within one month of the date of the hardship notification.
 
-(2) Where the Board receives a hardship notification in accordance with paragraph (1)(c)(i), it shall, as soon as reasonably practicable, determine[^key-c287a9a419b449aa401c261f454d9c5f] whether recovery of the overpayment would cause hardship to—
+(2) Where the Board receives a hardship notification in accordance with paragraph (1)(c)(i), it shall, as soon as reasonably practicable, determine[^c-c287a9a419b449aa401c261f454d9c5f] whether recovery of the overpayment would cause hardship to—
 
 - (a) the member or the member’s family, or
 - (b) in the case of a person who was in receipt of scheme benefits in respect of a member, to that person with a right to scheme benefits, or that person’s family.
 
-(2A)[^key-4af243dbbb60da6a48dfdd697c0a028f] The Board may request such additional information, from the person who gave the hardship notification, as it reasonably requires for the purpose of making a determination under paragraph (2).
+(2A)[^c-4af243dbbb60da6a48dfdd697c0a028f] The Board may request such additional information, from the person who gave the hardship notification, as it reasonably requires for the purpose of making a determination under paragraph (2).
 
 (2B) In making such a determination, the Board shall have regard to any evidence provided under paragraph (1)(c)(ii) and any information provided under paragraph (2A).
 
@@ -184,22 +184,22 @@ shall be the base rate.
 
 (4) The Board is not required to recover such an amount where recovery would not be conducive to the prudent management of its financial affairs.
 
-### 7. Manner of discharge of liabilities in respect of money purchase benefits[^key-68b38b02f1f40a24ed1c8a5920629772]
+### 7. Manner of discharge of liabilities in respect of money purchase benefits[^c-68b38b02f1f40a24ed1c8a5920629772]
 
-(1) Subject to regulation 8, in respect of a case to which Article 154(1) of the Order (discharge of liabilities in respect of money purchase benefits) applies, the Board must secure that liabilities in respect of money purchase benefits transferred to the Board under Article 145 are discharged [^key-b17def1db2891a0068b43d973565e296]... by way of—
+(1) Subject to regulation 8, in respect of a case to which Article 154(1) of the Order (discharge of liabilities in respect of money purchase benefits) applies, the Board must secure that liabilities in respect of money purchase benefits transferred to the Board under Article 145 are discharged [^c-b17def1db2891a0068b43d973565e296]... by way of—
 
-- (a)[^key-399720378d22071b32b6d0cada545b2e] a transfer payment to a personal pension scheme or an occupational pension scheme;
+- (a)[^c-399720378d22071b32b6d0cada545b2e] a transfer payment to a personal pension scheme or an occupational pension scheme;
 - (b) the purchase of a pension annuity;
 - (c) the taking out of a policy of insurance or a number of such policies;
-- (d) assuring the benefits of a policy of insurance or a number of such policies;[^key-b17657fd82992078ffb4ad71a60d4608]
-- (e) in the circumstances described in regulation 9, a trivial commutation lump sum payment, or[^key-81bb8de86847842e3b0034f53b4e828f]
-- (f)[^key-e16f99a9e07e59262234126d3dae4707] in the circumstances described in regulation 9A, a PPF money purchase lump sum.
+- (d) assuring the benefits of a policy of insurance or a number of such policies;[^c-b17657fd82992078ffb4ad71a60d4608]
+- (e) in the circumstances described in regulation 9, a trivial commutation lump sum payment, or[^c-81bb8de86847842e3b0034f53b4e828f]
+- (f)[^c-e16f99a9e07e59262234126d3dae4707] in the circumstances described in regulation 9A, a PPF money purchase lump sum.
 
-(2)[^key-0d244b63ac1c0ecef35992daa69157f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0d244b63ac1c0ecef35992daa69157f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-0d244b63ac1c0ecef35992daa69157f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0d244b63ac1c0ecef35992daa69157f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Further provision for discharge of liabilities in respect of money purchase benefits[^key-35cffaf2da44b195565c8cd42ebab2fd]
+### 8. Further provision for discharge of liabilities in respect of money purchase benefits[^c-35cffaf2da44b195565c8cd42ebab2fd]
 
 (1) In respect of a case to which Article 154(1) of the Order applies, before the expiry of a period of three months beginning with the date that the Board assumes responsibility for the scheme in accordance with Article 145 of the Order, the Board shall give notice in writing to any person who is entitled under the scheme rules to money purchase benefits (“the money purchase beneficiary”)—
 
@@ -209,7 +209,7 @@ shall be the base rate.
 - (d) that the money purchase beneficiary may, before the expiry of a period of three months beginning with the date of the notice, inform the Board in writing of the manner in which he wishes those liabilities to be discharged (being a manner consistent with regulation 7), and
 - (e) that should the money purchase beneficiary not inform the Board in accordance with sub-paragraph (d) of the manner in which he wishes those liabilities to be discharged, the Board will discharge those liabilities as it sees fit, in accordance with these Regulations.
 
-(1A)[^key-2f9e8a2ff014d789503d13b7fa94f956] Where, on the date that the Board assumed responsibility for the scheme, the money purchase beneficiary—
+(1A)[^c-2f9e8a2ff014d789503d13b7fa94f956] Where, on the date that the Board assumed responsibility for the scheme, the money purchase beneficiary—
 
 - (a) had attained normal minimum pension age, or was within six months of attaining that age, or
 - (b) met the ill-health condition in paragraph 1 of Schedule 28 to the 2004 Act,
@@ -218,26 +218,26 @@ the notice sent by the Board under paragraph (1) shall also include the informat
 
 (2) Where the money purchase beneficiary informs the Board in accordance with paragraph (1)(d) that he wishes the liabilities relating to his money purchase benefits to be discharged in a specified manner, the Board shall request in writing any further information it may require in order for it to discharge those liabilities in the manner so specified.
 
-(3) Subject to the requirements of regulation 9 in relation to trivial commutation and regulation 9A in relation to PPF money purchase lump sums[^key-a7d29139b48af01a53fe7fa9b5c41925], where the money purchase beneficiary has provided sufficient information for the Board to discharge the liabilities in relation to that beneficiary in respect of money purchase benefits, the Board shall, within a reasonable period, discharge those liabilities in the manner so requested.
+(3) Subject to the requirements of regulation 9 in relation to trivial commutation and regulation 9A in relation to PPF money purchase lump sums[^c-a7d29139b48af01a53fe7fa9b5c41925], where the money purchase beneficiary has provided sufficient information for the Board to discharge the liabilities in relation to that beneficiary in respect of money purchase benefits, the Board shall, within a reasonable period, discharge those liabilities in the manner so requested.
 
 (4) Where it is not possible to discharge money purchase liabilities in relation to a money purchase beneficiary in accordance with paragraph (3), the Board shall discharge those liabilities in accordance with regulation 7(1).
 
-(5)[^key-04d5cc68bfb3e6db8cc42c8921d6bbde] Where the money purchase beneficiary dies before the Board discharges those liabilities in relation to that beneficiary, the Board shall discharge those liabilities—
+(5)[^c-04d5cc68bfb3e6db8cc42c8921d6bbde] Where the money purchase beneficiary dies before the Board discharges those liabilities in relation to that beneficiary, the Board shall discharge those liabilities—
 
 - (a) where there is a widow, widower or surviving civil partner, under the rules of the scheme within the limits specified in regulation 7(1), or
 - (b) where there is no widow, widower or surviving civil partner, in accordance with paragraph 15 of Schedule 29 to the 2004 Act (uncrystallised funds lump sum death benefit).
 
-### 9. Trivial commutation[^key-c65ede0bf48cf6ed058bb9867a720cc2]
+### 9. Trivial commutation[^c-c65ede0bf48cf6ed058bb9867a720cc2]
 
 The Board may discharge its liabilities in respect of money purchase benefits by way of a trivial commutation lump sum payment where this lump sum is paid in accordance with the requirements of paragraph 7 of Schedule 29 to the 2004 Act (registered pension schemes: authorised lump sums – trivial commutation lump sum).
 
-### 9A. PPF money purchase lump sums[^key-883e11a47d6f8733371294a39adcc57d]
+### 9A. PPF money purchase lump sums[^c-883e11a47d6f8733371294a39adcc57d]
 
 (1) The Board may discharge its liabilities in respect of money purchase benefits transferred to it under Article 145 of the Order (effect of Board assuming responsibility for a scheme) by way of a PPF money purchase lump sum where the conditions in the following paragraphs are met.
 
 (2)[^M_F_fd165876-dca4-49e5-993b-de5557ff0be6] The first condition is that the member has attained normal minimum pension age or meets the ill-health condition in paragraph 1 of Schedule 28 to the 2004 Act.
 
-(3) The second condition is that the value of the member’s entitlements to money purchase benefits under the pension scheme does not exceed £10,000[^key-21404006ddb8785f4a42870fb80032db].
+(3) The second condition is that the value of the member’s entitlements to money purchase benefits under the pension scheme does not exceed £10,000[^c-21404006ddb8785f4a42870fb80032db].
 
 (4) The third condition is that the payment extinguishes the member’s entitlement to money purchase benefits under the pension scheme.
 
@@ -245,7 +245,7 @@ The Board may discharge its liabilities in respect of money purchase benefits by
 
 ## PART 3 — Equal treatment
 
-### 10. Exemption from requirement to modify payment function[^key-6999a956cfeeec6d2a089c0fbf8ce840]
+### 10. Exemption from requirement to modify payment function[^c-6999a956cfeeec6d2a089c0fbf8ce840]
 
 For the purposes of Article 155(4) of the Order (equal treatment), the prescribed circumstances are where the difference in treatment as between a woman and a man in the operation of any of the payment functions is attributable to—
 
@@ -254,7 +254,7 @@ For the purposes of Article 155(4) of the Order (equal treatment), the prescribe
 
 ## PART 4 — PPF compensation administration
 
-### 11. Manner in which and time when PPF compensation is to be paid[^key-21f3331a5753d26ddc4e95d44bfad029]
+### 11. Manner in which and time when PPF compensation is to be paid[^c-21f3331a5753d26ddc4e95d44bfad029]
 
 As soon as is reasonably practicable after the Board makes a determination of entitlement to PPF compensation in respect of a beneficiary, PPF compensation shall be paid—
 
@@ -265,7 +265,7 @@ As soon as is reasonably practicable after the Board makes a determination of en
   - (i) in accordance with the method of payment specified in regulation 12, and
   - (ii) by instalments paid in accordance with regulation 13.
 
-### 12. Method of payment[^key-3d2172b3fc378649d5d1f222d1d85087]
+### 12. Method of payment[^c-3d2172b3fc378649d5d1f222d1d85087]
 
 (1) Subject to paragraphs (2) and (3), PPF compensation shall be paid by way of automated credit transfer into a bank or other account held in the name of the beneficiary.
 
@@ -278,18 +278,18 @@ As soon as is reasonably practicable after the Board makes a determination of en
 
 PPF compensation may be paid by such other method of payment as appears to the Board to be appropriate to the beneficiary.
 
-### 13. Payment of periodic compensation by instalments[^key-99b1d284db0c061c02a572b5d9360746]
+### 13. Payment of periodic compensation by instalments[^c-99b1d284db0c061c02a572b5d9360746]
 
 Periodic compensation shall be paid in instalments of no more than 52 in a year.
 
-### 14. Fractional amounts in the calculation of periodic compensation payments[^key-ddc46c32b13d82f09d585756728bff97]
+### 14. Fractional amounts in the calculation of periodic compensation payments[^c-ddc46c32b13d82f09d585756728bff97]
 
 Where periodic compensation paid by the Board in accordance with regulation 13 would, but for this regulation, include a fraction of a penny, that fraction shall be rounded—
 
 - (a) up to the nearest penny if the fractional amount is 0.5 or more, or
 - (b) down to the nearest penny if the fractional amount is less than 0.5.
 
-### 15. Payments of PPF compensation to a third party[^key-8d0137ff80f7ef0db55f7f5b377592bd]
+### 15. Payments of PPF compensation to a third party[^c-8d0137ff80f7ef0db55f7f5b377592bd]
 
 (1) Subject to paragraph (2), where required to do so by any—
 
@@ -300,7 +300,7 @@ the Board shall make payments of PPF compensation on behalf of a beneficiary, to
 
 (2) Payments made under paragraph (1) shall be limited to the maximum of the PPF compensation entitlement of the beneficiary to whom the order or statutory provision relates.
 
-### 16. Recovery of PPF compensation overpayments[^key-2ded5366d7079106a958f1271fca9619]
+### 16. Recovery of PPF compensation overpayments[^c-2ded5366d7079106a958f1271fca9619]
 
 (1) Where the Board determines that an amount referred to in Article 152(2)(e) of the Order (administration of compensation) has been paid to a person, it shall notify that person in writing that—
 
@@ -329,14 +329,14 @@ the Board shall make payments of PPF compensation on behalf of a beneficiary, to
 
 (6) Interest may be charged on an amount determined to be recoverable at the base rate for the period which begins when the amount paid in excess of entitlement was first made and ends with the recovery of the whole of the amount.
 
-### 17. Underpayments[^key-6dd44914291e3075fdebcd5a47c2da49]
+### 17. Underpayments[^c-6dd44914291e3075fdebcd5a47c2da49]
 
 Where it has been determined by the Board that a beneficiary has been paid less than his entitlement to PPF compensation, the Board shall pay an amount to that beneficiary equal to—
 
 - (a) the amount of the shortfall, and
 - (b) interest on that amount, calculated at the base rate from the date on which the underpayment should have been paid by the Board, to the date on which the Board pays the total amount of the shortfall.
 
-### 18. Suspension of payment of periodic compensation[^key-6fd9835755217b0033891711332fba0f]
+### 18. Suspension of payment of periodic compensation[^c-6fd9835755217b0033891711332fba0f]
 
 (1) The Board may suspend payment of periodic compensation to a person—
 
@@ -353,14 +353,14 @@ Where it has been determined by the Board that a beneficiary has been paid less 
 
 ## PART 5 — Pension protection levy
 
-### 19. Collection of the pension protection levy by instalments[^key-b45a30f4eee84b6b4f9855e63c697ce1][^key-b45a30f4eee84b6b4f9855e63c697ce1]
+### 19. Collection of the pension protection levy by instalments[^c-b45a30f4eee84b6b4f9855e63c697ce1][^c-b45a30f4eee84b6b4f9855e63c697ce1]
 
 The Board may collect amounts payable by way of a pension protection levy in instalments where—
 
 - (a) the trustees or managers who are liable to pay the levy in respect of an eligible scheme make an application to the Board to pay the amount in respect of the levy by instalments, and
 - (b) the Board considers that it is appropriate to do so, having taken into consideration any exceptional circumstances that may exist in relation to that scheme.
 
-### 19A. Interest for late payment of the pension protection levy[^key-7a9be6224176ac443a1b39ed09b81c03]
+### 19A. Interest for late payment of the pension protection levy[^c-7a9be6224176ac443a1b39ed09b81c03]
 
 (1) Subject to paragraph (2), interest is to be charged in the case of late payment of a pension protection levy.
 
@@ -408,16 +408,16 @@ The Board may collect amounts payable by way of a pension protection levy in ins
 
   which has been brought by the person or persons by or on behalf of whom the pension protection levy is payable.
 
-### 20. Schemes that are eligible schemes for part of a financial year[^key-eee9e03a889d4fdc2a88e6b2e611c193][^key-eee9e03a889d4fdc2a88e6b2e611c193]
+### 20. Schemes that are eligible schemes for part of a financial year[^c-eee9e03a889d4fdc2a88e6b2e611c193][^c-eee9e03a889d4fdc2a88e6b2e611c193]
 
-(1)[^key-fda8f58e295af8881945c748976ee40d] Where a scheme—
+(1)[^c-fda8f58e295af8881945c748976ee40d] Where a scheme—
 
 - (a) is an eligible scheme on the first day of a financial year, and
 - (b) ceases to be an eligible scheme during that financial year,
 
 Article 164(5) of the Order (amount of the levy payable in respect of a scheme which is an eligible scheme for only part of the period for which the levy is imposed) does not apply to that scheme and the full amount of the levy is payable.
 
-(2)[^key-0c6e94f0c4953d1b9cf1841a7a4de6ae] Where a scheme**—**
+(2)[^c-0c6e94f0c4953d1b9cf1841a7a4de6ae] Where a scheme**—**
 
 - (a) is not an eligible scheme on the first day of a financial year, and
 - (b) becomes an eligible scheme during that financial year by virtue of—
@@ -428,7 +428,7 @@ Article 164(5) of the Order does not apply to that scheme and the full amount of
 
 ## PART 6 — Miscellaneous amendments
 
-### 21. Amendment of the Pension Protection Fund (Entry Rules) Regulations[^key-39eedb32d38639886505a44ede2ac6b7]
+### 21. Amendment of the Pension Protection Fund (Entry Rules) Regulations[^c-39eedb32d38639886505a44ede2ac6b7]
 
 (1) The Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005[^f00012] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -453,9 +453,9 @@ Article 164(5) of the Order does not apply to that scheme and the full amount of
 (5) In the Schedule (contents of accounts audited by the auditor of the scheme)—
 
 - (a) in paragraph 2(3)(a), “to which section 107 of the Pension Schemes Act (voluntary contributions) applies” shall be omitted, and
-- (b)[^key-ef52d8cd1bcea1d742bb18b34b50fd3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ef52d8cd1bcea1d742bb18b34b50fd3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Amendment of the Pension Protection Fund (Compensation) Regulations[^key-62beb4cc8b71a8388d23d490e824788a]
+### 22. Amendment of the Pension Protection Fund (Compensation) Regulations[^c-62beb4cc8b71a8388d23d490e824788a]
 
 (1) The Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005[^f00015] shall be amended in accordance with paragraphs (2) to (6).
 
@@ -551,7 +551,7 @@ Article 164(5) of the Order does not apply to that scheme and the full amount of
 
 (6) In regulation 21(1)(a) (disregard of certain small payments in determining PPF compensation cap) for “Finance Act 2004” there shall be substituted “2004 Act”.
 
-### 23. Amendment of the Pension Protection Fund (Valuation) Regulations[^key-a8e5d9fe37fafe138198590972499609][^key-a8e5d9fe37fafe138198590972499609]
+### 23. Amendment of the Pension Protection Fund (Valuation) Regulations[^c-a8e5d9fe37fafe138198590972499609][^c-a8e5d9fe37fafe138198590972499609]
 
 In regulation 5 of the Pension Protection Fund (Valuation) Regulations (Northern Ireland) 2005[^f00018] (valuation of assets) “, less the amount of the external liabilities,” shall be omitted.
 
@@ -623,11 +623,11 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-97d34ae338590d034b6368b0b27adaae]: Commencement: Reg. 1 in operation at 1.4.2006, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/a)
+[^c-97d34ae338590d034b6368b0b27adaae]: Commencement: Reg. 1 in operation at 1.4.2006, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/a)
 
 [^f00002]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12)
 
-[^key-f19c46902f7cbcfccdfc1f5a214b72a3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/2) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [24(2)](https://www.legislation.gov.uk/nisr/2012/124/article/24/2)
+[^c-f19c46902f7cbcfccdfc1f5a214b72a3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/2) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [24(2)](https://www.legislation.gov.uk/nisr/2012/124/article/24/2)
 
 [^f00004]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50)
 
@@ -635,107 +635,107 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00006]: Footnote: Paragraph 22(4) is amended by paragraph 54(5) of Schedule 10 to the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7)
 
-[^key-9171e8102d6ac45ae337c8f90253d9ed]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/2) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [9(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/9/2)
+[^c-9171e8102d6ac45ae337c8f90253d9ed]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/2) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [9(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/9/2)
 
 [^f00007]: Footnote: Listings of banks and their gross assets are produced and published in publications such as “The Banker”. This information is also available on that publication’s websitewww.thebanker.com
 
-[^key-8eb8a689af4aa545954393daf22c30e3]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [107(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/107/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-8eb8a689af4aa545954393daf22c30e3]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [107(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/107/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-6c9da27c2c7ef68352148a999e436293]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [107(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/107/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-6c9da27c2c7ef68352148a999e436293]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [107(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/107/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^f00008]: Footnote: S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147); Article 3 was amended by Article 262 of the Pensions (Northern Ireland) Order 2005
 
-[^key-53510db1944931d46786a1852935d10e]: Commencement: Reg. 2 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-53510db1944931d46786a1852935d10e]: Commencement: Reg. 2 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
-[^key-3a3a8e1310b4e72126b56e975c1b56d6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/155/regulation/3) substituted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2009/78/regulation/5/2)
+[^c-3a3a8e1310b4e72126b56e975c1b56d6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/155/regulation/3) substituted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2009/78/regulation/5/2)
 
-[^key-66899d7dd2528d9d93a2f6656de1a89a]: Commencement: Reg. 4 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-66899d7dd2528d9d93a2f6656de1a89a]: Commencement: Reg. 4 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
-[^key-2bab847f316aa9d49a4f38e26c2991cb]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/155/regulation/4) heading substituted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/nisr/2009/78/regulation/5/3/a)
+[^c-2bab847f316aa9d49a4f38e26c2991cb]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/155/regulation/4) heading substituted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/nisr/2009/78/regulation/5/3/a)
 
-[^key-bea4e56d4a613994856cbbb750c013c4]: Textual amendment: Words in [reg. 4(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/4/b) substituted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/nisr/2009/78/regulation/5/3/b)
+[^c-bea4e56d4a613994856cbbb750c013c4]: Textual amendment: Words in [reg. 4(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/4/b) substituted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/nisr/2009/78/regulation/5/3/b)
 
-[^key-2954631db5ee2ccdc223aee7c03fafd2]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2006/155/regulation/4A) inserted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2009/78/regulation/5/4)
+[^c-2954631db5ee2ccdc223aee7c03fafd2]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2006/155/regulation/4A) inserted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2009/78/regulation/5/4)
 
-[^key-febe1e5800bafa6a018e4e802dfc076e]: Commencement: Reg. 5 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-febe1e5800bafa6a018e4e802dfc076e]: Commencement: Reg. 5 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
-[^key-a335983878d072af492a1ac03a1a2aa8]: Commencement: Reg. 6 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-a335983878d072af492a1ac03a1a2aa8]: Commencement: Reg. 6 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
-[^key-c287a9a419b449aa401c261f454d9c5f]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2006/155/regulation/6/2) substituted (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2007/193/regulation/4/a)
+[^c-c287a9a419b449aa401c261f454d9c5f]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2006/155/regulation/6/2) substituted (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2007/193/regulation/4/a)
 
-[^key-4af243dbbb60da6a48dfdd697c0a028f]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/nisr/2006/155/regulation/6/2A)[(2B)](https://www.legislation.gov.uk/nisr/2006/155/regulation/6/2B) inserted (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2007/193/regulation/4/b)
+[^c-4af243dbbb60da6a48dfdd697c0a028f]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/nisr/2006/155/regulation/6/2A)[(2B)](https://www.legislation.gov.uk/nisr/2006/155/regulation/6/2B) inserted (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2007/193/regulation/4/b)
 
-[^key-68b38b02f1f40a24ed1c8a5920629772]: Commencement: Reg. 7 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-68b38b02f1f40a24ed1c8a5920629772]: Commencement: Reg. 7 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
-[^key-b17def1db2891a0068b43d973565e296]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2006/155/regulation/7/1) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [24(3)(a)(i)](https://www.legislation.gov.uk/nisr/2012/124/article/24/3/a/i)
+[^c-b17def1db2891a0068b43d973565e296]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2006/155/regulation/7/1) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [24(3)(a)(i)](https://www.legislation.gov.uk/nisr/2012/124/article/24/3/a/i)
 
-[^key-399720378d22071b32b6d0cada545b2e]: Textual amendment: [Reg. 7(1)(a)](https://www.legislation.gov.uk/nisr/2006/155/regulation/7/1/a) substituted (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [24(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/124/article/24/3/a/ii)
+[^c-399720378d22071b32b6d0cada545b2e]: Textual amendment: [Reg. 7(1)(a)](https://www.legislation.gov.uk/nisr/2006/155/regulation/7/1/a) substituted (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [24(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/124/article/24/3/a/ii)
 
-[^key-b17657fd82992078ffb4ad71a60d4608]: Textual amendment: Word in [reg. 7(1)(d)](https://www.legislation.gov.uk/nisr/2006/155/regulation/7/1/d) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/nisr/2013/95/regulation/9/3/a)
+[^c-b17657fd82992078ffb4ad71a60d4608]: Textual amendment: Word in [reg. 7(1)(d)](https://www.legislation.gov.uk/nisr/2006/155/regulation/7/1/d) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/nisr/2013/95/regulation/9/3/a)
 
-[^key-81bb8de86847842e3b0034f53b4e828f]: Textual amendment: Words in [reg. 7(1)(e)](https://www.legislation.gov.uk/nisr/2006/155/regulation/7/1/e) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/nisr/2013/95/regulation/9/3/b)
+[^c-81bb8de86847842e3b0034f53b4e828f]: Textual amendment: Words in [reg. 7(1)(e)](https://www.legislation.gov.uk/nisr/2006/155/regulation/7/1/e) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/nisr/2013/95/regulation/9/3/b)
 
-[^key-e16f99a9e07e59262234126d3dae4707]: Textual amendment: [Reg. 7(1)(f)](https://www.legislation.gov.uk/nisr/2006/155/regulation/7/1/f) added (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [9(3)(c)](https://www.legislation.gov.uk/nisr/2013/95/regulation/9/3/c)
+[^c-e16f99a9e07e59262234126d3dae4707]: Textual amendment: [Reg. 7(1)(f)](https://www.legislation.gov.uk/nisr/2006/155/regulation/7/1/f) added (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [9(3)(c)](https://www.legislation.gov.uk/nisr/2013/95/regulation/9/3/c)
 
-[^key-0d244b63ac1c0ecef35992daa69157f6]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2006/155/regulation/7/2)[(3)](https://www.legislation.gov.uk/nisr/2006/155/regulation/7/3) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [24(3)(b)](https://www.legislation.gov.uk/nisr/2012/124/article/24/3/b)
+[^c-0d244b63ac1c0ecef35992daa69157f6]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2006/155/regulation/7/2)[(3)](https://www.legislation.gov.uk/nisr/2006/155/regulation/7/3) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [24(3)(b)](https://www.legislation.gov.uk/nisr/2012/124/article/24/3/b)
 
-[^key-35cffaf2da44b195565c8cd42ebab2fd]: Commencement: Reg. 8 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-35cffaf2da44b195565c8cd42ebab2fd]: Commencement: Reg. 8 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
-[^key-2f9e8a2ff014d789503d13b7fa94f956]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/nisr/2006/155/regulation/8/1A) inserted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [6(2)](https://www.legislation.gov.uk/nisr/2016/165/regulation/6/2)
+[^c-2f9e8a2ff014d789503d13b7fa94f956]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/nisr/2006/155/regulation/8/1A) inserted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [6(2)](https://www.legislation.gov.uk/nisr/2016/165/regulation/6/2)
 
-[^key-a7d29139b48af01a53fe7fa9b5c41925]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/nisr/2006/155/regulation/8/3) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [9(4)](https://www.legislation.gov.uk/nisr/2013/95/regulation/9/4)
+[^c-a7d29139b48af01a53fe7fa9b5c41925]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/nisr/2006/155/regulation/8/3) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [9(4)](https://www.legislation.gov.uk/nisr/2013/95/regulation/9/4)
 
-[^key-04d5cc68bfb3e6db8cc42c8921d6bbde]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/nisr/2006/155/regulation/8/5) substituted (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [24(4)](https://www.legislation.gov.uk/nisr/2012/124/article/24/4)
+[^c-04d5cc68bfb3e6db8cc42c8921d6bbde]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/nisr/2006/155/regulation/8/5) substituted (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [24(4)](https://www.legislation.gov.uk/nisr/2012/124/article/24/4)
 
-[^key-c65ede0bf48cf6ed058bb9867a720cc2]: Commencement: Reg. 9 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-c65ede0bf48cf6ed058bb9867a720cc2]: Commencement: Reg. 9 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
-[^key-883e11a47d6f8733371294a39adcc57d]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2006/155/regulation/9A) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [9(5)](https://www.legislation.gov.uk/nisr/2013/95/regulation/9/5)
+[^c-883e11a47d6f8733371294a39adcc57d]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2006/155/regulation/9A) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [9(5)](https://www.legislation.gov.uk/nisr/2013/95/regulation/9/5)
 
 [^M_F_fd165876-dca4-49e5-993b-de5557ff0be6]: Textual amendment: Reg. 9A(2) substituted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [6(3)](https://www.legislation.gov.uk/nisr/2016/165/regulation/6/3)
 
-[^key-21404006ddb8785f4a42870fb80032db]: Textual amendment: Sum in [reg. 9A(3)](https://www.legislation.gov.uk/nisr/2006/155/regulation/9A/3) substituted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Pension Protection Fund (Modification) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/59)](https://www.legislation.gov.uk/nisr/2017/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/59/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2017/59/regulation/3)
+[^c-21404006ddb8785f4a42870fb80032db]: Textual amendment: Sum in [reg. 9A(3)](https://www.legislation.gov.uk/nisr/2006/155/regulation/9A/3) substituted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Pension Protection Fund (Modification) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/59)](https://www.legislation.gov.uk/nisr/2017/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/59/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2017/59/regulation/3)
 
-[^key-6999a956cfeeec6d2a089c0fbf8ce840]: Commencement: Reg. 10 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-6999a956cfeeec6d2a089c0fbf8ce840]: Commencement: Reg. 10 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
-[^key-21f3331a5753d26ddc4e95d44bfad029]: Commencement: Reg. 11 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-21f3331a5753d26ddc4e95d44bfad029]: Commencement: Reg. 11 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
-[^key-3d2172b3fc378649d5d1f222d1d85087]: Commencement: Reg. 12 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-3d2172b3fc378649d5d1f222d1d85087]: Commencement: Reg. 12 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
-[^key-99b1d284db0c061c02a572b5d9360746]: Commencement: Reg. 13 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-99b1d284db0c061c02a572b5d9360746]: Commencement: Reg. 13 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
-[^key-ddc46c32b13d82f09d585756728bff97]: Commencement: Reg. 14 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-ddc46c32b13d82f09d585756728bff97]: Commencement: Reg. 14 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
-[^key-8d0137ff80f7ef0db55f7f5b377592bd]: Commencement: Reg. 15 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-8d0137ff80f7ef0db55f7f5b377592bd]: Commencement: Reg. 15 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
-[^key-2ded5366d7079106a958f1271fca9619]: Commencement: Reg. 16 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-2ded5366d7079106a958f1271fca9619]: Commencement: Reg. 16 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
 [^M_F_e0833336-3f85-4049-d7a7-9a97420b5eef]: Textual amendment: Words in reg. 16(2) substituted (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2007/193/regulation/4/a)
 
 [^M_F_1a0439c9-80e4-4753-ac63-82cbbbc00375]: Textual amendment: Reg. 16(2A)(2B) inserted (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2007/193/regulation/4/b)
 
-[^key-6dd44914291e3075fdebcd5a47c2da49]: Commencement: Reg. 17 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-6dd44914291e3075fdebcd5a47c2da49]: Commencement: Reg. 17 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
-[^key-6fd9835755217b0033891711332fba0f]: Commencement: Reg. 18 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-6fd9835755217b0033891711332fba0f]: Commencement: Reg. 18 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
-[^key-b45a30f4eee84b6b4f9855e63c697ce1]: Commencement: Reg. 19 in operation at 1.4.2006, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/a)
+[^c-b45a30f4eee84b6b4f9855e63c697ce1]: Commencement: Reg. 19 in operation at 1.4.2006, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/a)
 
-[^key-7a9be6224176ac443a1b39ed09b81c03]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/nisr/2006/155/regulation/19A) inserted (1.4.2010) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/80)](https://www.legislation.gov.uk/nisr/2010/80), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/a), [5](https://www.legislation.gov.uk/nisr/2010/80/regulation/5)
+[^c-7a9be6224176ac443a1b39ed09b81c03]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/nisr/2006/155/regulation/19A) inserted (1.4.2010) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/80)](https://www.legislation.gov.uk/nisr/2010/80), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/a), [5](https://www.legislation.gov.uk/nisr/2010/80/regulation/5)
 
-[^key-eee9e03a889d4fdc2a88e6b2e611c193]: Commencement: Reg. 20 in operation at 1.4.2006, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/a)
+[^c-eee9e03a889d4fdc2a88e6b2e611c193]: Commencement: Reg. 20 in operation at 1.4.2006, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/a)
 
-[^key-fda8f58e295af8881945c748976ee40d]: Textual amendment: Reg. 20 renumbered as reg. 20(1) (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [8(a)](https://www.legislation.gov.uk/nisr/2010/32/regulation/8/a)
+[^c-fda8f58e295af8881945c748976ee40d]: Textual amendment: Reg. 20 renumbered as reg. 20(1) (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [8(a)](https://www.legislation.gov.uk/nisr/2010/32/regulation/8/a)
 
-[^key-0c6e94f0c4953d1b9cf1841a7a4de6ae]: Textual amendment: [Reg. 20(2)](https://www.legislation.gov.uk/nisr/2006/155/regulation/20/2) added (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2010/32/regulation/8/b)
+[^c-0c6e94f0c4953d1b9cf1841a7a4de6ae]: Textual amendment: [Reg. 20(2)](https://www.legislation.gov.uk/nisr/2006/155/regulation/20/2) added (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2010/32/regulation/8/b)
 
-[^key-39eedb32d38639886505a44ede2ac6b7]: Commencement: Reg. 21 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-39eedb32d38639886505a44ede2ac6b7]: Commencement: Reg. 21 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
 [^f00012]: Footnote: [S.R. 2005 No. 126](https://www.legislation.gov.uk/nisr/2005/126); relevant amending regulations are [S.R. 2005 No. 194](https://www.legislation.gov.uk/nisr/2005/194)
 
 [^f00013]: Footnote: Sub-paragraph (f) was amended by regulation 3(2)(b) of [S.R. 2005 No. 194](https://www.legislation.gov.uk/nisr/2005/194)
 
-[^key-ef52d8cd1bcea1d742bb18b34b50fd3e]: Textual amendment: [Reg. 21(5)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/21/5/b) revoked (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2007/193/regulation/6/b)
+[^c-ef52d8cd1bcea1d742bb18b34b50fd3e]: Textual amendment: [Reg. 21(5)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/21/5/b) revoked (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2007/193/regulation/6/b)
 
-[^key-62beb4cc8b71a8388d23d490e824788a]: Commencement: Reg. 22 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
+[^c-62beb4cc8b71a8388d23d490e824788a]: Commencement: Reg. 22 in operation at 6.4.2006, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b)
 
 [^f00015]: Footnote: [S.R. 2005 No. 149](https://www.legislation.gov.uk/nisr/2005/149) as amended by [S.R. 2005 No. 357](https://www.legislation.gov.uk/nisr/2005/357)
 
@@ -743,6 +743,6 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00017]: Footnote: The definition of “relevant partner” was inserted by regulation 8(2)(a)(iii) of [S.R. 2005 No. 357](https://www.legislation.gov.uk/nisr/2005/357)
 
-[^key-a8e5d9fe37fafe138198590972499609]: Commencement: Reg. 23 in operation at 1.4.2006, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/a)
+[^c-a8e5d9fe37fafe138198590972499609]: Commencement: Reg. 23 in operation at 1.4.2006, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/a)
 
 [^f00018]: Footnote: [S.R. 2005 No. 131](https://www.legislation.gov.uk/nisr/2005/131); to which there are amendments not relevant to these Regulations

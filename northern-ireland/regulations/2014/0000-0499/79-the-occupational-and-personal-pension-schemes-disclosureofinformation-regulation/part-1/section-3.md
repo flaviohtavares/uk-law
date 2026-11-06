@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Recognised trade union[^key-1aadd33a528c2666290c2fe34d436d8b]
+## 3. Recognised trade union[^c-1aadd33a528c2666290c2fe34d436d8b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where there is a question about whether an organisation is a recognised trade un
 
 ## Annotations
 
-[^key-1aadd33a528c2666290c2fe34d436d8b]: Commencement: Reg. 3 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-1aadd33a528c2666290c2fe34d436d8b]: Commencement: Reg. 3 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)

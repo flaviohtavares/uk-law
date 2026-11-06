@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Specific Condition: private sector purchaser, bridge bank or asset management vehicle[^key-ba2bdcd9421e378e56fb58beac3c571e]
+## 8. Specific Condition: private sector purchaser, bridge bank or asset management vehicle[^c-ba2bdcd9421e378e56fb58beac3c571e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba2bdcd9421e378e56fb58beac3c571e]: Textual amendment: S. 8 substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [14](https://www.legislation.gov.uk/uksi/2014/3329/article/14)
+[^c-ba2bdcd9421e378e56fb58beac3c571e]: Textual amendment: S. 8 substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [14](https://www.legislation.gov.uk/uksi/2014/3329/article/14)

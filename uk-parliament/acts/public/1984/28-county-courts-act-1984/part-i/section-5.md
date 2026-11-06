@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Judges of the county court[^key-75af5c8add49c39c65c0e9f773e43f16]
+## 5. Judges of the county court[^c-75af5c8add49c39c65c0e9f773e43f16]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) is a district judge (which, by virtue of section 8(1C), here includes a deputy district judge appointed under section 8), or
 - (c) is within subsection (2),
 
-[^key-0af12e999841ccba4ba91a0158894b0d]...
+[^c-0af12e999841ccba4ba91a0158894b0d]...
 
 (2) A person is within this subsection (and so, by virtue of subsection (1)(c), is a judge of the county court) if the person—
 
@@ -34,7 +34,7 @@ summary: ''
 - (b) is the Master of the Rolls,
 - (c) is the President of the Queen's Bench Division,
 - (d) is the President of the Family Division,
-- (e) is the President of the Business and Property Division[^key-26357e7e6408a513a0ac4be31e5f7156],
+- (e) is the President of the Business and Property Division[^c-26357e7e6408a513a0ac4be31e5f7156],
 - (f) is an ordinary judge of the Court of Appeal (including the vice-president, if any, of either division of that court),
 - (g) is the Senior President of Tribunals,
 - (h) is a puisne judge of the High Court,
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-75af5c8add49c39c65c0e9f773e43f16]: Textual amendment: S. 5 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/4); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-75af5c8add49c39c65c0e9f773e43f16]: Textual amendment: S. 5 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/4); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-0af12e999841ccba4ba91a0158894b0d]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/1984/28/section/5/1) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/6/2); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))
+[^c-0af12e999841ccba4ba91a0158894b0d]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/1984/28/section/5/1) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/6/2); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))
 
-[^key-26357e7e6408a513a0ac4be31e5f7156]: Textual amendment: Words in [s. 5(2)(e)](https://www.legislation.gov.uk/ukpga/1984/28/section/5/2/e) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/13/2)
+[^c-26357e7e6408a513a0ac4be31e5f7156]: Textual amendment: Words in [s. 5(2)(e)](https://www.legislation.gov.uk/ukpga/1984/28/section/5/2/e) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/13/2)

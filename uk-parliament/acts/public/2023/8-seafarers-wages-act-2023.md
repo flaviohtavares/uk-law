@@ -38,7 +38,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Introductory
 
-### 1. Services to which this Act applies[^key-8b3db7bee5295257fa34d2493f5e349c]
+### 1. Services to which this Act applies[^c-8b3db7bee5295257fa34d2493f5e349c]
 
 (1) This Act applies to a service for the carriage of persons or goods by ship, with or without vehicles, between a place outside the United Kingdom and a place in the United Kingdom.
 
@@ -54,7 +54,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) any kind of vessel used in navigation, and
 - (b) hovercraft.
 
-### 2. Non-qualifying seafarers[^key-02ef20c9badcfa34a7794af9b56bc51c]
+### 2. Non-qualifying seafarers[^c-02ef20c9badcfa34a7794af9b56bc51c]
 
 In this Act, “**non-qualifying seafarer**” means a person—
 
@@ -64,7 +64,7 @@ In this Act, “**non-qualifying seafarer**” means a person—
 
 ## National minimum wage equivalence declarations
 
-### 3. Request for declaration[^key-7fd282ebca9d19eabd069dd760908884][^key-8914b0aaad3fdd97ff47ad525a992421]
+### 3. Request for declaration[^c-7fd282ebca9d19eabd069dd760908884][^c-8914b0aaad3fdd97ff47ad525a992421]
 
 (1) Subsection (2) applies where a harbour authority has reasonable grounds to believe that ships providing a service to which this Act applies will enter, or have entered, its harbour on at least 120 occasions during a relevant year.
 
@@ -88,7 +88,7 @@ In this Act, “**non-qualifying seafarer**” means a person—
 - (a) the period of 12 months beginning with a date specified in regulations, and
 - (b) each successive period of 12 months.
 
-### 4. Nature of declaration[^key-38967ae061753948c510963a2d14dfd8][^key-5a907739261ce5a42bf29fdf92f27058]
+### 4. Nature of declaration[^c-38967ae061753948c510963a2d14dfd8][^c-5a907739261ce5a42bf29fdf92f27058]
 
 (1) An equivalence declaration in respect of a service for a relevant year is a declaration within any of subsections (2) to (5).
 
@@ -132,7 +132,7 @@ In this Act, “**non-qualifying seafarer**” means a person—
 
 (10) In this Act, “**UK work**” means work which is carried out in the United Kingdom or its territorial waters.
 
-### 5. Offence of operating service inconsistently with declaration[^key-41e361770c08c0185dcbe6c809b5bb43][^key-dec70612e7567553d3c0d53012a66c06]
+### 5. Offence of operating service inconsistently with declaration[^c-41e361770c08c0185dcbe6c809b5bb43][^c-dec70612e7567553d3c0d53012a66c06]
 
 (1) The operator of a service to which this Act applies is guilty of an offence if—
 
@@ -162,7 +162,7 @@ In this Act, “**non-qualifying seafarer**” means a person—
 
 ## Surcharges
 
-### 6. Imposition of surcharges: failure to provide declaration in time[^key-f0a2d937f9d272ebff7a0e38c1da6ccc][^key-85d3aadae5d47f6f2cf5dca7eb12a01b]
+### 6. Imposition of surcharges: failure to provide declaration in time[^c-f0a2d937f9d272ebff7a0e38c1da6ccc][^c-85d3aadae5d47f6f2cf5dca7eb12a01b]
 
 (1) This section applies if—
 
@@ -197,7 +197,7 @@ In this Act, “**non-qualifying seafarer**” means a person—
 - “**prescribed period**” means the period within which the operator is required to provide the declaration in accordance with regulations under section 3(5)(a);
 - “**prescribed form and manner**” means the form and manner in which the operator is required to provide the declaration in accordance with regulations under section 3(5)(b) and (c).
 
-### 7. Imposition of surcharges: in-year declaration that is prospective only[^key-dee0c4d4cad663f5184c85ac99afb338][^key-b445493f00b1e93de9f5d26ec624347d]
+### 7. Imposition of surcharges: in-year declaration that is prospective only[^c-dee0c4d4cad663f5184c85ac99afb338][^c-b445493f00b1e93de9f5d26ec624347d]
 
 (1) This section applies if—
 
@@ -207,7 +207,7 @@ In this Act, “**non-qualifying seafarer**” means a person—
 
 (2) The harbour authority must impose a charge on the operator of the service in respect of each occasion when a ship providing the service entered its harbour between the beginning of the relevant year and the time the declaration was provided.
 
-### 8. Imposition of surcharges: operating inconsistently with declaration[^key-d2d2889bd4a99366f02955b5a9b5209b][^key-1705528e6be56eaddbb6b1486d4a0d2e]
+### 8. Imposition of surcharges: operating inconsistently with declaration[^c-d2d2889bd4a99366f02955b5a9b5209b][^c-1705528e6be56eaddbb6b1486d4a0d2e]
 
 (1) Subsections (2) and (3) apply if—
 
@@ -232,7 +232,7 @@ In this Act, “**non-qualifying seafarer**” means a person—
 
 (6) But if the operator provides the harbour authority with a fresh equivalence declaration in respect of the service for the relevant year, the authority must not impose a charge under subsection (5) in respect of an occasion when a ship providing the service enters the harbour after the fresh declaration is provided (unless that subsection applies again by reference to that or a later declaration).
 
-### 9. Surcharges: general[^key-269fcd41b7faede06ad5a61a799ba477][^key-924533aa047aecda7d00f71b07f20f67]
+### 9. Surcharges: general[^c-269fcd41b7faede06ad5a61a799ba477][^c-924533aa047aecda7d00f71b07f20f67]
 
 (1) The amount of a surcharge is to be determined by a tariff of surcharges specified in regulations.
 
@@ -259,7 +259,7 @@ In this Act, “**non-qualifying seafarer**” means a person—
 
 (8) In this Act, “**surcharge**” means a charge under section 6, 7 or 8.
 
-### 10. Objections to surcharges[^key-54becd9fa431e6223f541034e875753f][^key-be5074418141f2b1a1939dc586e1f94f]
+### 10. Objections to surcharges[^c-54becd9fa431e6223f541034e875753f][^c-be5074418141f2b1a1939dc586e1f94f]
 
 (1) Where a surcharge is imposed by a harbour authority, an interested party may object to the imposition of the surcharge or its amount.
 
@@ -303,7 +303,7 @@ In this Act, “**non-qualifying seafarer**” means a person—
 
 (12) Subsections (6) to (10) do not apply to an objection if the Secretary of State considers that the substance of the objection has already been, or is being, considered under this section in connection with another objection.
 
-### 11. Refusal of harbour access for failure to pay surcharge[^key-1addd69cab83778c599e7129c11245f6][^key-1f4559684a3fdb67e2118178056e948e]
+### 11. Refusal of harbour access for failure to pay surcharge[^c-1addd69cab83778c599e7129c11245f6][^c-1f4559684a3fdb67e2118178056e948e]
 
 (1) A harbour authority must refuse access to its harbour to a ship providing a service to which this Act applies if—
 
@@ -335,7 +335,7 @@ In this Act, “**non-qualifying seafarer**” means a person—
 
 ## Enforcement powers
 
-### 12. Provision of information by operators[^key-67c03511507bbcf587cf4b736b27481e][^key-c57c9af2ac376ff45549dadfd61de393]
+### 12. Provision of information by operators[^c-67c03511507bbcf587cf4b736b27481e][^c-c57c9af2ac376ff45549dadfd61de393]
 
 (1) The Secretary of State may by notice require the operator of a service to which this Act applies to provide information to the Secretary of State for the purpose of—
 
@@ -362,7 +362,7 @@ In this Act, “**non-qualifying seafarer**” means a person—
 - (a) in England and Wales, to a fine, or
 - (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale.
 
-### 13. Provision of information by harbour authorities[^key-3c016416c921d060b7cc2352f9a1aedf][^key-5d1c80b34257ca31f4ec21667d8aac7b]
+### 13. Provision of information by harbour authorities[^c-3c016416c921d060b7cc2352f9a1aedf][^c-5d1c80b34257ca31f4ec21667d8aac7b]
 
 (1) The Secretary of State may by notice require a harbour authority to provide information to the Secretary of State for the purpose of establishing whether, or to what extent, the authority is complying with its duties under this Act.
 
@@ -388,7 +388,7 @@ In this Act, “**non-qualifying seafarer**” means a person—
 - (a) in England and Wales, to a fine, or
 - (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale.
 
-### 14. Inspections[^key-96ad7347404718524d9ef9e6a486b0c6][^key-ab156a3ae36dbda165677ba76b5213b3]
+### 14. Inspections[^c-96ad7347404718524d9ef9e6a486b0c6][^c-ab156a3ae36dbda165677ba76b5213b3]
 
 (1) A person appointed by the Secretary of State (an “**inspector**”) may at any reasonable time for the purposes specified in subsection (2)—
 
@@ -435,13 +435,13 @@ In this Act, “**non-qualifying seafarer**” means a person—
 - (a) in England and Wales, to a fine, or
 - (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale.
 
-### 15. Prosecution of offences[^key-2a413817c1aad584a6309fafd8b191ff][^key-cb19c6b41e04d745bd841b54a6f40bad]
+### 15. Prosecution of offences[^c-2a413817c1aad584a6309fafd8b191ff][^c-cb19c6b41e04d745bd841b54a6f40bad]
 
 In England and Wales and Northern Ireland, proceedings relating to offences under this Act may be instituted and carried on by the Secretary of State.
 
 ## Supplementary
 
-### 16. Directions[^key-1c35ceba07f81b1779e6c66178d509fb]
+### 16. Directions[^c-1c35ceba07f81b1779e6c66178d509fb]
 
 (1) The Secretary of State may give directions to any one or more harbour authorities requiring them—
 
@@ -457,7 +457,7 @@ In England and Wales and Northern Ireland, proceedings relating to offences unde
 - (a) in England and Wales, to a fine, or
 - (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale.
 
-### 17. Regulations[^key-1b741d8db794422e2018966d1126f81c]
+### 17. Regulations[^c-1b741d8db794422e2018966d1126f81c]
 
 (1) A power to make regulations under this Act is exercisable by the Secretary of State by statutory instrument.
 
@@ -477,7 +477,7 @@ In England and Wales and Northern Ireland, proceedings relating to offences unde
 
 ## General
 
-### 18. “Harbour” and “harbour authority”[^key-c08d2e25dfe4f93cf2f1c26a77b1779d]
+### 18. “Harbour” and “harbour authority”[^c-c08d2e25dfe4f93cf2f1c26a77b1779d]
 
 (1) In this Act “harbour” and “harbour authority”—
 
@@ -488,7 +488,7 @@ In England and Wales and Northern Ireland, proceedings relating to offences unde
 
 (3) Where there is more than one harbour authority in respect of a harbour, the Secretary of State may by regulations specify which of them is to be treated as the harbour authority in respect of the harbour for the purposes of this Act.
 
-### 19. General interpretation[^key-4738f9d9751531641d3ad5bd2b163d3a]
+### 19. General interpretation[^c-4738f9d9751531641d3ad5bd2b163d3a]
 
 In this Act—
 
@@ -505,7 +505,7 @@ In this Act—
 - “**UK work**” has the meaning given by section 4(10);
 - “**work**” has the same meaning as in the National Minimum Wage Act 1998.
 
-### 20. Extent, commencement and short title[^key-4af0db8557c15359fb8fbc911becd666]
+### 20. Extent, commencement and short title[^c-4af0db8557c15359fb8fbc911becd666]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -525,68 +525,68 @@ In this Act—
 
 ## Annotations
 
-[^key-8b3db7bee5295257fa34d2493f5e349c]: Commencement: S. 1 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
+[^c-8b3db7bee5295257fa34d2493f5e349c]: Commencement: S. 1 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
 
-[^key-02ef20c9badcfa34a7794af9b56bc51c]: Commencement: S. 2 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
+[^c-02ef20c9badcfa34a7794af9b56bc51c]: Commencement: S. 2 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
 
-[^key-7fd282ebca9d19eabd069dd760908884]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/a)
+[^c-7fd282ebca9d19eabd069dd760908884]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/a)
 
-[^key-8914b0aaad3fdd97ff47ad525a992421]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/8/section/3) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+[^c-8914b0aaad3fdd97ff47ad525a992421]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/8/section/3) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
 
-[^key-38967ae061753948c510963a2d14dfd8]: Commencement: S. 4 in force at Royal Assent for specified purposes, see [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/a)
+[^c-38967ae061753948c510963a2d14dfd8]: Commencement: S. 4 in force at Royal Assent for specified purposes, see [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/a)
 
-[^key-5a907739261ce5a42bf29fdf92f27058]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/8/section/4) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+[^c-5a907739261ce5a42bf29fdf92f27058]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/8/section/4) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
 
-[^key-41e361770c08c0185dcbe6c809b5bb43]: Commencement: S. 5 not in force at Royal Assent, see [s. 20](https://www.legislation.gov.uk/ukpga/2023/8/section/20)
+[^c-41e361770c08c0185dcbe6c809b5bb43]: Commencement: S. 5 not in force at Royal Assent, see [s. 20](https://www.legislation.gov.uk/ukpga/2023/8/section/20)
 
-[^key-dec70612e7567553d3c0d53012a66c06]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/8/section/5) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+[^c-dec70612e7567553d3c0d53012a66c06]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/8/section/5) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
 
-[^key-f0a2d937f9d272ebff7a0e38c1da6ccc]: Commencement: S. 6 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
+[^c-f0a2d937f9d272ebff7a0e38c1da6ccc]: Commencement: S. 6 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
 
-[^key-85d3aadae5d47f6f2cf5dca7eb12a01b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/8/section/6) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+[^c-85d3aadae5d47f6f2cf5dca7eb12a01b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/8/section/6) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
 
-[^key-dee0c4d4cad663f5184c85ac99afb338]: Commencement: S. 7 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
+[^c-dee0c4d4cad663f5184c85ac99afb338]: Commencement: S. 7 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
 
-[^key-b445493f00b1e93de9f5d26ec624347d]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/8/section/7) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+[^c-b445493f00b1e93de9f5d26ec624347d]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/8/section/7) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
 
-[^key-d2d2889bd4a99366f02955b5a9b5209b]: Commencement: S. 8 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
+[^c-d2d2889bd4a99366f02955b5a9b5209b]: Commencement: S. 8 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
 
-[^key-1705528e6be56eaddbb6b1486d4a0d2e]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/8/section/8) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+[^c-1705528e6be56eaddbb6b1486d4a0d2e]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/8/section/8) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
 
-[^key-269fcd41b7faede06ad5a61a799ba477]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/a)
+[^c-269fcd41b7faede06ad5a61a799ba477]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/a)
 
-[^key-924533aa047aecda7d00f71b07f20f67]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/8/section/9) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+[^c-924533aa047aecda7d00f71b07f20f67]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/8/section/9) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
 
-[^key-54becd9fa431e6223f541034e875753f]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/a)
+[^c-54becd9fa431e6223f541034e875753f]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/a)
 
-[^key-be5074418141f2b1a1939dc586e1f94f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/8/section/10) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+[^c-be5074418141f2b1a1939dc586e1f94f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/8/section/10) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
 
-[^key-1addd69cab83778c599e7129c11245f6]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/a)
+[^c-1addd69cab83778c599e7129c11245f6]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/a)
 
-[^key-1f4559684a3fdb67e2118178056e948e]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/8/section/11) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+[^c-1f4559684a3fdb67e2118178056e948e]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/8/section/11) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
 
-[^key-67c03511507bbcf587cf4b736b27481e]: Commencement: S. 12 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
+[^c-67c03511507bbcf587cf4b736b27481e]: Commencement: S. 12 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
 
-[^key-c57c9af2ac376ff45549dadfd61de393]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/8/section/12) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+[^c-c57c9af2ac376ff45549dadfd61de393]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/8/section/12) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
 
-[^key-3c016416c921d060b7cc2352f9a1aedf]: Commencement: S. 13 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
+[^c-3c016416c921d060b7cc2352f9a1aedf]: Commencement: S. 13 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
 
-[^key-5d1c80b34257ca31f4ec21667d8aac7b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/8/section/13) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+[^c-5d1c80b34257ca31f4ec21667d8aac7b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/8/section/13) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
 
-[^key-96ad7347404718524d9ef9e6a486b0c6]: Commencement: S. 14 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
+[^c-96ad7347404718524d9ef9e6a486b0c6]: Commencement: S. 14 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
 
-[^key-ab156a3ae36dbda165677ba76b5213b3]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/8/section/14) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+[^c-ab156a3ae36dbda165677ba76b5213b3]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/8/section/14) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
 
-[^key-2a413817c1aad584a6309fafd8b191ff]: Commencement: S. 15 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
+[^c-2a413817c1aad584a6309fafd8b191ff]: Commencement: S. 15 not in force at Royal Assent, see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3)
 
-[^key-cb19c6b41e04d745bd841b54a6f40bad]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/8/section/15) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+[^c-cb19c6b41e04d745bd841b54a6f40bad]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/8/section/15) in force at 1.12.2024 by [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
 
-[^key-1c35ceba07f81b1779e6c66178d509fb]: Commencement: S. 16 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
+[^c-1c35ceba07f81b1779e6c66178d509fb]: Commencement: S. 16 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
 
-[^key-1b741d8db794422e2018966d1126f81c]: Commencement: S. 17 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
+[^c-1b741d8db794422e2018966d1126f81c]: Commencement: S. 17 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
 
-[^key-c08d2e25dfe4f93cf2f1c26a77b1779d]: Commencement: S. 18 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
+[^c-c08d2e25dfe4f93cf2f1c26a77b1779d]: Commencement: S. 18 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
 
-[^key-4738f9d9751531641d3ad5bd2b163d3a]: Commencement: S. 19 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
+[^c-4738f9d9751531641d3ad5bd2b163d3a]: Commencement: S. 19 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
 
-[^key-4af0db8557c15359fb8fbc911becd666]: Commencement: S. 20 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)
+[^c-4af0db8557c15359fb8fbc911becd666]: Commencement: S. 20 in force at Royal Assent, see [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/2/b)

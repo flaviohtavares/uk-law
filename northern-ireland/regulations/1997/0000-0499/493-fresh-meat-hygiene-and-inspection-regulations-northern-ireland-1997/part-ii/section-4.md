@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Issue of licences[^key-07081131e72a48faff96328fed91d454]
+## 4. Issue of licences[^c-07081131e72a48faff96328fed91d454]
 
 *Extent: N.I.*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-07081131e72a48faff96328fed91d454]: Commencement: Reg. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-07081131e72a48faff96328fed91d454]: Commencement: Reg. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
 [^f00013]: Footnote: O.J. No. L.268, 24.4.91, p. 105

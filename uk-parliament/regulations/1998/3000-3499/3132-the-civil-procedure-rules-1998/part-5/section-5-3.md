@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.3. Signature of documents by mechanical means[^key-7df7afb653b38480c9b3a9b2eb93952f]
+## 5.3. Signature of documents by mechanical means[^c-7df7afb653b38480c9b3a9b2eb93952f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where any of these Rules or any practice direction requires a document to be sig
 
 ## Annotations
 
-[^key-7df7afb653b38480c9b3a9b2eb93952f]: Commencement: [Rule 5.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-7df7afb653b38480c9b3a9b2eb93952f]: Commencement: [Rule 5.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

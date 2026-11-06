@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Evidence of children and other vulnerable witnesses: special measures
 
-#### 1. Evidence of children and other vulnerable witnesses: special measures[^key-4e26f2d0d147b040d337c99eecd22a93][^key-b9e284d7b37b820cd24a2bcdfcc2ea98][^key-a32a1772d5f6f5fd715d2531daa989dd][^key-a11fc63863f16563915843d0ebf00f68][^key-8d928411051db85ab3e240aefc31fb91][^key-9841ac1957850f4b8a2a72b44f7a4855]
+#### 1. Evidence of children and other vulnerable witnesses: special measures[^c-4e26f2d0d147b040d337c99eecd22a93][^c-b9e284d7b37b820cd24a2bcdfcc2ea98][^c-a32a1772d5f6f5fd715d2531daa989dd][^c-a11fc63863f16563915843d0ebf00f68][^c-8d928411051db85ab3e240aefc31fb91][^c-9841ac1957850f4b8a2a72b44f7a4855]
 
 (1) For section 271 (evidence of vulnerable persons: special provision) of the Criminal Procedure (Scotland) Act 1995 (c. 46) (referred to in this Part as “**the 1995 Act**”) there is substituted—
 
@@ -475,7 +475,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### 2. Consideration before the trial of matters relating to vulnerable witnesses
 
-(1)[^key-8efb9f33b40dec5910a6162f02b9046c][^key-f346d62e8033b7be7df9d78037c440b0][^key-0fb1c0e3087392a7cd70fcc06cc5eb56] In section 71 (first diet of proceedings on indictment in the sheriff court) of the 1995 Act—
+(1)[^c-8efb9f33b40dec5910a6162f02b9046c][^c-f346d62e8033b7be7df9d78037c440b0][^c-0fb1c0e3087392a7cd70fcc06cc5eb56] In section 71 (first diet of proceedings on indictment in the sheriff court) of the 1995 Act—
 
 - (a) after subsection (1) there is inserted—
 
@@ -528,7 +528,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-(4)[^key-8efb9f33b40dec5910a6162f02b9046c][^key-f346d62e8033b7be7df9d78037c440b0][^key-0fb1c0e3087392a7cd70fcc06cc5eb56] In section 74 (appeals in connection with preliminary diets) of the 1995 Act, in subsection (2), after paragraph (a) there is inserted—
+(4)[^c-8efb9f33b40dec5910a6162f02b9046c][^c-f346d62e8033b7be7df9d78037c440b0][^c-0fb1c0e3087392a7cd70fcc06cc5eb56] In section 74 (appeals in connection with preliminary diets) of the 1995 Act, in subsection (2), after paragraph (a) there is inserted—
 
 > - (aa) may not be taken against a decision taken by virtue of—
 >   - (i) in the case of a first diet, section 71(1A),
@@ -538,7 +538,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-(5)[^key-082c447ce5e5660b6f27999bed195e24][^key-0fb1c0e3087392a7cd70fcc06cc5eb56] In section 148 (intermediate diet in summary proceedings) of the 1995 Act—
+(5)[^c-082c447ce5e5660b6f27999bed195e24][^c-0fb1c0e3087392a7cd70fcc06cc5eb56] In section 148 (intermediate diet in summary proceedings) of the 1995 Act—
 
 - (a) after subsection (1) there is inserted—
 
@@ -555,7 +555,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   , and
 - (b) in subsection (4), at the end there is inserted “ or for the purpose of ascertaining or considering any matter mentioned in subsection (1A) above ”.
 
-#### 3. Evidence of vulnerable witnesses at proofs in relation to victim statements[^key-4c82ba91bf1a9f56ffcdf82a2f8e416e][^key-be8f4836ed42e0a616e7ad37cc9d9b62][^key-a62adfc5c28bd52a3623e77c808dd7e5][^key-5229794ce362dc6dbfbde700bd9f644b][^key-7231f95e5407eadc8709daddd288afa9][^key-b32ecdb6224d53469952bba09eff42be]
+#### 3. Evidence of vulnerable witnesses at proofs in relation to victim statements[^c-4c82ba91bf1a9f56ffcdf82a2f8e416e][^c-be8f4836ed42e0a616e7ad37cc9d9b62][^c-a62adfc5c28bd52a3623e77c808dd7e5][^c-5229794ce362dc6dbfbde700bd9f644b][^c-7231f95e5407eadc8709daddd288afa9][^c-b32ecdb6224d53469952bba09eff42be]
 
 After section 15 of the Criminal Justice (Scotland) Act 2003 (asp 7) there is inserted—
 
@@ -583,7 +583,7 @@ After section 15 of the Criminal Justice (Scotland) Act 2003 (asp 7) there is in
 
 ### Evidence of identification prior to trial
 
-#### 4. Evidence of identification prior to trial[^key-5f6e621040ae159fe0335d9236165bd3]
+#### 4. Evidence of identification prior to trial[^c-5f6e621040ae159fe0335d9236165bd3]
 
 After section 281 of the 1995 Act there is inserted—
 
@@ -609,7 +609,7 @@ After section 281 of the 1995 Act there is inserted—
 
 ### Expert evidence as to subsequent behaviour of complainer
 
-#### 5. Expert evidence as to subsequent behaviour of complainer[^key-f4e2aecd59f7bf69d4d11a3b75c4d588]
+#### 5. Expert evidence as to subsequent behaviour of complainer[^c-f4e2aecd59f7bf69d4d11a3b75c4d588]
 
 After section 275B of the 1995 Act there is inserted—
 
@@ -632,7 +632,7 @@ After section 275B of the 1995 Act there is inserted—
 
 ### Prohibition of personal conduct of defence in cases involving vulnerable witnesses
 
-#### 6. Prohibition of personal conduct of defence in cases involving vulnerable witnesses[^key-03357debd824dc20be65972779a26cae][^key-3d2228617b40ec714d573816f1cc4e62][^key-8b801e0cade42eadb39a4a5b1836df9e][^key-7c8902aa8a3941d3bbf2597e49fcfdec]
+#### 6. Prohibition of personal conduct of defence in cases involving vulnerable witnesses[^c-03357debd824dc20be65972779a26cae][^c-3d2228617b40ec714d573816f1cc4e62][^c-8b801e0cade42eadb39a4a5b1836df9e][^c-7c8902aa8a3941d3bbf2597e49fcfdec]
 
 After section 288D of the 1995 Act there is inserted—
 
@@ -711,7 +711,7 @@ After section 288D of the 1995 Act there is inserted—
 
 #### 7. Special pre-trial procedures for ascertaining in such cases whether accused has engaged a solicitor
 
-(1)[^key-fba9b6c27954742574b193ed1963d581][^key-e210582481814f3bb3773e8e3e45e803] In section 71 (first diet) of the 1995 Act—
+(1)[^c-fba9b6c27954742574b193ed1963d581][^c-e210582481814f3bb3773e8e3e45e803] In section 71 (first diet) of the 1995 Act—
 
 - (a) in subsection (A1)—
   - (i) after “diet” there is inserted “ in proceedings to which subsection (B1) below applies ”,
@@ -734,7 +734,7 @@ After section 288D of the 1995 Act there is inserted—
 
 (2) In section 71A (further pre-trial diet in sheriff court solemn proceedings: dismissal or withdrawal of solicitor representing accused in case of sexual offence) of the 1995 Act, in subsection (1)(a), for the words “charged with a sexual offence to which section 288C” there is substituted “ in proceedings to which subsection (B1) of section 71 ”.
 
-(3)[^key-fba9b6c27954742574b193ed1963d581][^key-e210582481814f3bb3773e8e3e45e803] In section 72A (pre-trial diet in High Court proceedings: inquiry about legal representation of accused in cases of sexual offences) of the 1995 Act—
+(3)[^c-fba9b6c27954742574b193ed1963d581][^c-e210582481814f3bb3773e8e3e45e803] In section 72A (pre-trial diet in High Court proceedings: inquiry about legal representation of accused in cases of sexual offences) of the 1995 Act—
 
 - (a) in subsection (1), for the words from the beginning to “Act” there is substituted “ In proceedings to which this section ”,
 - (b) after that subsection there is inserted—
@@ -749,7 +749,7 @@ After section 288D of the 1995 Act there is inserted—
 
 ### Prohibition on accused personally precognoscing children under 12
 
-#### 8. Prohibition of precognition by accused in person of child witnesses under 12 in cases to which section 288E applies[^key-69f7aa7ef170ebfd6f2856970b8c9c91][^key-f44305997e8c46e76a21eca1ba2e695d]
+#### 8. Prohibition of precognition by accused in person of child witnesses under 12 in cases to which section 288E applies[^c-69f7aa7ef170ebfd6f2856970b8c9c91][^c-f44305997e8c46e76a21eca1ba2e695d]
 
 In section 291 (precognition on oath of defence witnesses) of the 1995 Act, after subsection (5) there is inserted—
 
@@ -764,7 +764,7 @@ In section 291 (precognition on oath of defence witnesses) of the 1995 Act, afte
 
 ### Pre-trial procedure in sheriff court summary proceedings
 
-#### 9. Summary proceedings in sheriff court: pre-trial procedure where no intermediate diet is fixed[^key-328e0ddb16f1c6e16591a5eb265f0841][^key-f6f834513534f56005f1901e39bc7c98]
+#### 9. Summary proceedings in sheriff court: pre-trial procedure where no intermediate diet is fixed[^c-328e0ddb16f1c6e16591a5eb265f0841][^c-f6f834513534f56005f1901e39bc7c98]
 
 After section 148A of the 1995 Act there is inserted—
 
@@ -792,7 +792,7 @@ After section 148A of the 1995 Act there is inserted—
 
 ### Proceedings in the district court
 
-#### 10. Application of vulnerable witnesses provisions to proceedings in the district court[^key-e8d3b42120b64d1234a3139a2c8b10ff]
+#### 10. Application of vulnerable witnesses provisions to proceedings in the district court[^c-e8d3b42120b64d1234a3139a2c8b10ff]
 
 After section 288F of the 1995 Act (as inserted by section 6 of this Act) there is inserted—
 
@@ -822,14 +822,14 @@ After section 288F of the 1995 Act (as inserted by section 6 of this Act) there 
 
 ### Evidence of children and other vulnerable witnesses: special measures
 
-#### 11. Interpretation of this Part[^key-7a3f454ce70487f5d38ba343dd5f59fa][^key-45c3198f90a52928feee6ba7289d9639]
+#### 11. Interpretation of this Part[^c-7a3f454ce70487f5d38ba343dd5f59fa][^c-45c3198f90a52928feee6ba7289d9639]
 
 (1) For the purposes of this Part of this Act, a person who is giving or is to give evidence in or for the purposes of any civil proceedings is a vulnerable witness if—
 
-- (a)[^key-e9fa8ab6f4eec4f7d6d382232023bf8b][^key-015ced95bdbf27358e9435343c508d72] the person is under the age of 18[^key-8d13dfe8e8256301b934f472fd03eeab] on the date of commencement of the proceedings (such a vulnerable witness being referred to in this Part as a “**child witness**”), [^key-8e8e65db261deb1b9e2c08f99a4dc99e]...
+- (a)[^c-e9fa8ab6f4eec4f7d6d382232023bf8b][^c-015ced95bdbf27358e9435343c508d72] the person is under the age of 18[^c-8d13dfe8e8256301b934f472fd03eeab] on the date of commencement of the proceedings (such a vulnerable witness being referred to in this Part as a “**child witness**”), [^c-8e8e65db261deb1b9e2c08f99a4dc99e]...
 - (b) where the person is not a child witness, there is a significant risk that the quality of the evidence to be given by the person will be diminished by reason of—
   - (i) mental disorder (within the meaning of section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)), or
-  - (ii) fear or distress in connection with giving evidence in the proceedings, or[^key-51f9fe69c83ff8f165afe04b1e19f211]
+  - (ii) fear or distress in connection with giving evidence in the proceedings, or[^c-51f9fe69c83ff8f165afe04b1e19f211]
 - (c) the person is of such description or is a witness in such proceedings as the Scottish Ministers may by order subject to the affirmative procedure prescribe.
 
 (2) In considering whether a person is a vulnerable witness by virtue of subsection (1)(b) above, the court must take into account—
@@ -851,35 +851,35 @@ After section 288F of the 1995 Act (as inserted by section 6 of this Act) there 
 
   as appear to the court to be relevant.
 
-(3)[^key-e9fa8ab6f4eec4f7d6d382232023bf8b][^key-015ced95bdbf27358e9435343c508d72] For the purposes of subsection (1)(a) above, proceedings are taken to have commenced when the petition, summons, initial writ or other document initiating the proceedings is served, and, where the document is served on more than one person, the proceedings shall be taken to have commenced when the document is served on the first person on whom it is served.
+(3)[^c-e9fa8ab6f4eec4f7d6d382232023bf8b][^c-015ced95bdbf27358e9435343c508d72] For the purposes of subsection (1)(a) above, proceedings are taken to have commenced when the petition, summons, initial writ or other document initiating the proceedings is served, and, where the document is served on more than one person, the proceedings shall be taken to have commenced when the document is served on the first person on whom it is served.
 
 (4) In subsection (1)(b), the reference to the quality of evidence is to its quality in terms of completeness, coherence and accuracy.
 
-(5)[^key-e9fa8ab6f4eec4f7d6d382232023bf8b][^key-4e9c2dafe5d1bcab0c860b2628def8f8] In this Part—
+(5)[^c-e9fa8ab6f4eec4f7d6d382232023bf8b][^c-4e9c2dafe5d1bcab0c860b2628def8f8] In this Part—
 
-- “[^key-429e918733bfb422cf3af46ef5fbe1b4]**the 2011 Act**” means the Children's Hearings (Scotland) Act 2011 (asp 1),
+- “[^c-429e918733bfb422cf3af46ef5fbe1b4]**the 2011 Act**” means the Children's Hearings (Scotland) Act 2011 (asp 1),
 - “**child witness notice**” has the meaning given in section 12(2),
-- “**civil proceedings**” includes, in addition to such proceedings in any of the ordinary courts of law, relevant proceedings[^key-a3fc5c620190bf749e4b5a47ad3be8fa],
+- “**civil proceedings**” includes, in addition to such proceedings in any of the ordinary courts of law, relevant proceedings[^c-a3fc5c620190bf749e4b5a47ad3be8fa],
 - “**court**” is to be construed in accordance with the meaning of “civil proceedings”,
-- “[^key-840cf45ad669d857b09729e82e4dfbcc]**relevant proceedings**” means proceedings under Part 10 of the 2011 Act (other than section 98 or 99),
+- “[^c-840cf45ad669d857b09729e82e4dfbcc]**relevant proceedings**” means proceedings under Part 10 of the 2011 Act (other than section 98 or 99),
 - “**special measure**” means any of the special measures set out in, or prescribed under, section 18,
 - “**vulnerable witness application**” has the meaning given in section 12(6)(a).
 
-#### 12. Orders authorising the use of special measures for vulnerable witnesses[^key-98fa230c6a82a4597b1fda2fcc8a1008][^key-d9a036e2770157461a80b79ce8c4a055]
+#### 12. Orders authorising the use of special measures for vulnerable witnesses[^c-98fa230c6a82a4597b1fda2fcc8a1008][^c-d9a036e2770157461a80b79ce8c4a055]
 
-(1)[^key-a796fa828a7561ecc2a772c238cad23b][^key-e7bcb107d683cd479be719b95353b66c] Where a child witness is to give evidence in or for the purposes of any civil proceedings, the court must, before the proof or other hearing at which the child is to give evidence, make an order—
+(1)[^c-a796fa828a7561ecc2a772c238cad23b][^c-e7bcb107d683cd479be719b95353b66c] Where a child witness is to give evidence in or for the purposes of any civil proceedings, the court must, before the proof or other hearing at which the child is to give evidence, make an order—
 
 - (a) authorising the use of such special measure or measures as the court considers to be the most appropriate for the purpose of taking the child witness’s evidence, or
 - (b) that the child witness is to give evidence without the benefit of any special measure.
 
-(2)[^key-a796fa828a7561ecc2a772c238cad23b][^key-e7bcb107d683cd479be719b95353b66c] The party citing or intending to cite a child witness must lodge with the court a notice (referred to in this Part as a “**child witness notice**”)—
+(2)[^c-a796fa828a7561ecc2a772c238cad23b][^c-e7bcb107d683cd479be719b95353b66c] The party citing or intending to cite a child witness must lodge with the court a notice (referred to in this Part as a “**child witness notice**”)—
 
 - (a) specifying the special measure or measures which the party considers to be the most appropriate for the purpose of taking the child witness’s evidence, or
 - (b) if the party considers that the child witness should give evidence without the benefit of any special measure, stating that fact,
 
 and the court must have regard to the child witness notice in making an order under subsection (1) above.
 
-(3)[^key-a796fa828a7561ecc2a772c238cad23b][^key-e7bcb107d683cd479be719b95353b66c] If a child witness notice specifies any of the following special measures, namely—
+(3)[^c-a796fa828a7561ecc2a772c238cad23b][^c-e7bcb107d683cd479be719b95353b66c] If a child witness notice specifies any of the following special measures, namely—
 
 - (a) the use of a live television link in accordance with section 20 where the place from which the child witness is to give evidence by means of the link is another part of the court building in which the court-room is located,
 - (b) the use of a screen in accordance with section 21, or
@@ -887,7 +887,7 @@ and the court must have regard to the child witness notice in making an order un
 
 that special measure is, for the purposes of subsection (1)(a) above, to be taken to be the most appropriate for the purposes of taking the child witness’s evidence.
 
-(4)[^key-a796fa828a7561ecc2a772c238cad23b][^key-e7bcb107d683cd479be719b95353b66c] The court may make an order under subsection (1)(b) above only if satisfied—
+(4)[^c-a796fa828a7561ecc2a772c238cad23b][^c-e7bcb107d683cd479be719b95353b66c] The court may make an order under subsection (1)(b) above only if satisfied—
 
 - (a) that the child witness has expressed a wish to give evidence without the benefit of any special measure and that it is appropriate for the child witness so to give evidence, or
 - (b) that—
@@ -910,12 +910,12 @@ make an order authorising the use of such special measure or measures as the cou
   - (ii) whether it is likely that the witness would be better able to give evidence with the benefit of a special measure, and
 - (b) take into account the matters specified in section 11(2)(a) to (f).
 
-(8)[^key-370110f2188ec478044e549577dc6a3a] In the case of relevant proceedings, the child witness notice or vulnerable witness application—
+(8)[^c-370110f2188ec478044e549577dc6a3a] In the case of relevant proceedings, the child witness notice or vulnerable witness application—
 
 - (a) must be lodged or made before the commencement of the hearing at which the child or, as the case may be, vulnerable witness is to give evidence,
 - (b) on cause shown, may be lodged or made after the commencement of that hearing.
 
-#### 13. Review of arrangements for vulnerable witnesses[^key-0b08a06ba7bd506f4f750a515aa20aa8][^key-64b2a2dfdca7ab27c443de046f885148][^key-71fdc0eca7a68666002728f4561b5194][^key-89680a03a6468dc724111c6158f86a02]
+#### 13. Review of arrangements for vulnerable witnesses[^c-0b08a06ba7bd506f4f750a515aa20aa8][^c-64b2a2dfdca7ab27c443de046f885148][^c-71fdc0eca7a68666002728f4561b5194][^c-89680a03a6468dc724111c6158f86a02]
 
 (1) In any civil proceedings in which a person who is giving or is to give evidence (referred to in this section as “**the witness**”) appears to the court to be a vulnerable witness, the court may at any stage in the proceedings (whether before or after the commencement of the proof or other hearing at which the witness is giving or is to give evidence or before or after the witness has begun to give evidence)—
 
@@ -945,7 +945,7 @@ review the current arrangements for taking the witness’s evidence and make an 
 
 (6) In this section, “**current arrangements**” means the arrangements in place at the time the review under this section is begun.
 
-#### 14. Procedure in connection with orders under sections 12 and 13[^key-639d5c78bc2f5251bb0c482a3d852d7f][^key-d8604b40446e8acdc5d3b4af4f8405c6][^key-b6738b8e1df06c9a6117067d532ee396][^key-3127f83a6467c84a6a3f7a5184a84a4d]
+#### 14. Procedure in connection with orders under sections 12 and 13[^c-639d5c78bc2f5251bb0c482a3d852d7f][^c-d8604b40446e8acdc5d3b4af4f8405c6][^c-b6738b8e1df06c9a6117067d532ee396][^c-3127f83a6467c84a6a3f7a5184a84a4d]
 
 (1) In section 5 (power to regulate procedure etc. in the Court of Session by act of sederunt) of the Court of Session Act 1988 (c. 36), after paragraph (d) there is inserted—
 
@@ -961,7 +961,7 @@ review the current arrangements for taking the witness’s evidence and make an 
 
 .
 
-#### 15. Vulnerable witnesses: supplementary provision[^key-7e23a909ab4225a09525fa16b31d89ef][^key-75f903d74719aba9873ffd7a3aa8c775][^key-cea373d6197ae6285646aebf11f3ea96][^key-da0fa6f2ec5c52dd27b70d58ead610b7]
+#### 15. Vulnerable witnesses: supplementary provision[^c-7e23a909ab4225a09525fa16b31d89ef][^c-75f903d74719aba9873ffd7a3aa8c775][^c-cea373d6197ae6285646aebf11f3ea96][^c-da0fa6f2ec5c52dd27b70d58ead610b7]
 
 (1) Subsection (2) below applies where—
 
@@ -987,7 +987,7 @@ review the current arrangements for taking the witness’s evidence and make an 
   - (a) in the case referred to in subsection (1)(a) above, the person to whom the child witness notice or vulnerable witness application relates,
   - (b) in the case referred to in subsection (1)(b) above, the person to whom the order would relate.
 
-#### 16. Party to proceedings as a vulnerable witness[^key-d762304b478061d25445189955419e75][^key-dc696e554a2ebe1e4b3294be1fab6c61][^key-480207943e258b03ae7de45df2491263][^key-6a0675fbc74d2993e77c3b9ba4f374cb]
+#### 16. Party to proceedings as a vulnerable witness[^c-d762304b478061d25445189955419e75][^c-dc696e554a2ebe1e4b3294be1fab6c61][^c-480207943e258b03ae7de45df2491263][^c-6a0675fbc74d2993e77c3b9ba4f374cb]
 
 Where a child witness or other person who is giving or is to give evidence in or for the purposes of any civil proceedings (referred to in this section as “**the witness**”) is a party to the proceedings—
 
@@ -996,7 +996,7 @@ Where a child witness or other person who is giving or is to give evidence in or
   - (i) in subsection (1), paragraph (a) were omitted, and
   - (ii) in subsection (2), the words “The party or, as the case may be,” were omitted.
 
-#### 16A. Relevant proceedings: Principal Reporter's power to act for party to proceedings[^key-6ce8a23be368135b0e63cdb572621efc]
+#### 16A. Relevant proceedings: Principal Reporter's power to act for party to proceedings[^c-6ce8a23be368135b0e63cdb572621efc]
 
 (1) Subsection (2) applies where a child witness or other person who is giving or is to give evidence in or for the purposes of relevant proceedings (referred to in this section as “ **the party** ”) is a party to the proceedings.
 
@@ -1006,25 +1006,25 @@ Where a child witness or other person who is giving or is to give evidence in or
 - (b) make a vulnerable witness application for an order under section 12(6),
 - (c) make an application under section 13(1)(a) for review of the current arrangements for taking a witness's evidence.
 
-#### 17. Crown application and saving provision[^key-d9f369cdc2aa04929303366ed66a9269]
+#### 17. Crown application and saving provision[^c-d9f369cdc2aa04929303366ed66a9269]
 
-(1)[^key-da011cf9931dff3c9a77be6983b08d6b] Sections 11 to 15 of this Act apply to the Crown.
+(1)[^c-da011cf9931dff3c9a77be6983b08d6b] Sections 11 to 15 of this Act apply to the Crown.
 
-(2)[^key-da011cf9931dff3c9a77be6983b08d6b][^key-b6e1adc3e671e5c89d9f614a7e438125][^key-24ffeb773352f38a4bb289597016d605] Nothing in section 12 or 13 of this Act affects any power or duty which a court has otherwise than by virtue of those sections to make or authorise any special arrangements for taking the evidence of any person in any civil proceedings.
+(2)[^c-da011cf9931dff3c9a77be6983b08d6b][^c-b6e1adc3e671e5c89d9f614a7e438125][^c-24ffeb773352f38a4bb289597016d605] Nothing in section 12 or 13 of this Act affects any power or duty which a court has otherwise than by virtue of those sections to make or authorise any special arrangements for taking the evidence of any person in any civil proceedings.
 
-#### 18. The special measures[^key-6fccb491a0066be27ecc98e4d7ff3146][^key-9cd4ca69eb3ca460ddcb846ffea3ea58]
+#### 18. The special measures[^c-6fccb491a0066be27ecc98e4d7ff3146][^c-9cd4ca69eb3ca460ddcb846ffea3ea58]
 
 (1) The special measures which may be authorised to be used by virtue of section 12 or 13 of this Act for the purpose of taking the evidence of a vulnerable witness are—
 
-- (a)[^key-75b962d26f414fef41bc263a10132099] taking of evidence by a commissioner in accordance with section 19,
-- (b)[^key-9e0abb787b1675fb5007ea5ea6de7fd9][^key-9e432db0306054049a529a39bd0b198e] use of a live television link in accordance with section 20,
-- (c)[^key-9e0abb787b1675fb5007ea5ea6de7fd9][^key-9e432db0306054049a529a39bd0b198e] use of screen in accordance with section 21,
-- (d)[^key-9e0abb787b1675fb5007ea5ea6de7fd9][^key-9e432db0306054049a529a39bd0b198e] use of a supporter in accordance with section 22, and
-- (e)[^key-9e0abb787b1675fb5007ea5ea6de7fd9][^key-9e432db0306054049a529a39bd0b198e] such other measures as the Scottish Ministers may, by order made by statutory instrument, prescribe.
+- (a)[^c-75b962d26f414fef41bc263a10132099] taking of evidence by a commissioner in accordance with section 19,
+- (b)[^c-9e0abb787b1675fb5007ea5ea6de7fd9][^c-9e432db0306054049a529a39bd0b198e] use of a live television link in accordance with section 20,
+- (c)[^c-9e0abb787b1675fb5007ea5ea6de7fd9][^c-9e432db0306054049a529a39bd0b198e] use of screen in accordance with section 21,
+- (d)[^c-9e0abb787b1675fb5007ea5ea6de7fd9][^c-9e432db0306054049a529a39bd0b198e] use of a supporter in accordance with section 22, and
+- (e)[^c-9e0abb787b1675fb5007ea5ea6de7fd9][^c-9e432db0306054049a529a39bd0b198e] such other measures as the Scottish Ministers may, by order made by statutory instrument, prescribe.
 
-(2)[^key-9e0abb787b1675fb5007ea5ea6de7fd9][^key-9e432db0306054049a529a39bd0b198e] An order under subsection (1)(e) above is not to be made unless a draft of the statutory instrument containing the order has been laid before and approved by a resolution of the Scottish Parliament.
+(2)[^c-9e0abb787b1675fb5007ea5ea6de7fd9][^c-9e432db0306054049a529a39bd0b198e] An order under subsection (1)(e) above is not to be made unless a draft of the statutory instrument containing the order has been laid before and approved by a resolution of the Scottish Parliament.
 
-#### 19. Taking of evidence by a commissioner[^key-7250c8914cec7989fefda328404db7a1][^key-e7c24a60fe7856a3f0983119c6b56aaa][^key-0a89ab7bdb5ef7e1311ea213fc85b2f1]
+#### 19. Taking of evidence by a commissioner[^c-7250c8914cec7989fefda328404db7a1][^c-e7c24a60fe7856a3f0983119c6b56aaa][^c-0a89ab7bdb5ef7e1311ea213fc85b2f1]
 
 (1) Where the special measure to be used is taking of evidence by a commissioner, the court must appoint a commissioner to take the evidence of the vulnerable witness in respect of whom the special measure is to be used.
 
@@ -1037,7 +1037,7 @@ Where a child witness or other person who is giving or is to give evidence in or
 
 (4) The recording of the proceedings made in pursuance of subsection (2) above is to be received in evidence without being sworn to by witnesses.
 
-#### 20. Live television link[^key-41e3e565b66a229cb663fddff068d446][^key-c4fd4bd4c788758810e339fe53bd6d1d][^key-5e2626dcb533c4b7e39deafc326e75ec][^key-95430f7892fd84f193b6222f7b36069d]
+#### 20. Live television link[^c-41e3e565b66a229cb663fddff068d446][^c-c4fd4bd4c788758810e339fe53bd6d1d][^c-5e2626dcb533c4b7e39deafc326e75ec][^c-95430f7892fd84f193b6222f7b36069d]
 
 (1) Where the special measure to be used is a live television link, the court must make such arrangements as seem to it appropriate for the vulnerable witness in respect of whom the special measure is to be used to give evidence by means of such a link.
 
@@ -1053,7 +1053,7 @@ the sheriff may by order transfer the proceedings to any sheriff court in the sa
 - (a) at any stage in the proceedings (whether before or after the commencement of the proof or other hearing at which the vulnerable witness is to give evidence), or
 - (b) in relation to a part of the proceedings.
 
-#### 21. Screens[^key-c1c25132d7a2ebd7290e844632b84a04][^key-cd6b68fbad489266f059c07bf7638652][^key-8b06184a8a79bfa58917843de335dede][^key-1911ec57f0f6123cd8fe49a243332b83]
+#### 21. Screens[^c-c1c25132d7a2ebd7290e844632b84a04][^c-cd6b68fbad489266f059c07bf7638652][^c-8b06184a8a79bfa58917843de335dede][^c-1911ec57f0f6123cd8fe49a243332b83]
 
 (1) Where the special measure to be used is a screen, the screen must be used to conceal the parties to the proceedings from the sight of the vulnerable witness in respect of whom the special measure is to be used.
 
@@ -1064,7 +1064,7 @@ the sheriff may by order transfer the proceedings to any sheriff court in the sa
 - (a) references to the live television link were references to the screen, and
 - (b) the reference to receiving such a link were a reference to the use of a screen.
 
-#### 22. Supporters[^key-3f363988572f2fe98aed790bf7f3ac26][^key-25a10a92fc978d63b9fa1628b8e4dae8][^key-9c322fcb9b339d36e0727c263d7efaa5][^key-7c01371b53ba25898f1ad94959a8dc58]
+#### 22. Supporters[^c-3f363988572f2fe98aed790bf7f3ac26][^c-25a10a92fc978d63b9fa1628b8e4dae8][^c-9c322fcb9b339d36e0727c263d7efaa5][^c-7c01371b53ba25898f1ad94959a8dc58]
 
 (1) Where the special measure to be used is a supporter, another person (“the supporter”) nominated by or on behalf of the vulnerable witness in respect of whom the special measure is to be used may be present alongside the witness for the purpose of providing support whilst the witness is giving evidence.
 
@@ -1072,7 +1072,7 @@ the sheriff may by order transfer the proceedings to any sheriff court in the sa
 
 (3) The supporter must not prompt or otherwise seek to influence the vulnerable witness in the course of giving evidence.
 
-#### 22A. Giving evidence in chief in the form of a prior statement[^key-926d7cc4d74773b1a7f7b4ba6eb14d14]
+#### 22A. Giving evidence in chief in the form of a prior statement[^c-926d7cc4d74773b1a7f7b4ba6eb14d14]
 
 (1) This section applies to proceedings in relation to—
 
@@ -1120,7 +1120,7 @@ the sheriff may by order transfer the proceedings to any sheriff court in the sa
 
 ### Establishment of grounds of referral to children’s hearings: restrictions on evidence
 
-#### 23. Establishment of grounds of referral to children’s hearings: restrictions on evidence[^key-c72a74bee37d22d99dbf0a6d74aa13db][^key-b740f3af09bcf38d03d4da616b97f161]
+#### 23. Establishment of grounds of referral to children’s hearings: restrictions on evidence[^c-c72a74bee37d22d99dbf0a6d74aa13db][^c-b740f3af09bcf38d03d4da616b97f161]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1128,7 +1128,7 @@ the sheriff may by order transfer the proceedings to any sheriff court in the sa
 
 ### Abolition of the competence test
 
-#### 24. Abolition of the competence test for witnesses in criminal and civil proceedings[^key-e3b2cb00a7d917c448fa52ac2ce1f6ae]
+#### 24. Abolition of the competence test for witnesses in criminal and civil proceedings[^c-e3b2cb00a7d917c448fa52ac2ce1f6ae]
 
 (1) The evidence of any person called as a witness (referred to in this section as “**the witness**”) in criminal or civil proceedings is not inadmissible solely because the witness does not understand—
 
@@ -1155,182 +1155,182 @@ the sheriff may by order transfer the proceedings to any sheriff court in the sa
 
 ## Annotations
 
-[^key-4e26f2d0d147b040d337c99eecd22a93]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2004/3/section/1) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-4e26f2d0d147b040d337c99eecd22a93]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2004/3/section/1) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-b9e284d7b37b820cd24a2bcdfcc2ea98]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2004/3/section/1) in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
+[^c-b9e284d7b37b820cd24a2bcdfcc2ea98]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2004/3/section/1) in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
 
-[^key-a32a1772d5f6f5fd715d2531daa989dd]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2004/3/section/1) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-a32a1772d5f6f5fd715d2531daa989dd]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2004/3/section/1) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-a11fc63863f16563915843d0ebf00f68]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2004/3/section/1) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/101](https://www.legislation.gov.uk/ssi/2007/101), [art. 2](https://www.legislation.gov.uk/ssi/2007/101/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/101/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/101/article/4))
+[^c-a11fc63863f16563915843d0ebf00f68]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2004/3/section/1) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/101](https://www.legislation.gov.uk/ssi/2007/101), [art. 2](https://www.legislation.gov.uk/ssi/2007/101/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/101/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/101/article/4))
 
-[^key-8d928411051db85ab3e240aefc31fb91]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2004/3/section/1) in force at 2.7.2007 for specified purposes by [S.S.I. 2007/329](https://www.legislation.gov.uk/ssi/2007/329), [art. 2](https://www.legislation.gov.uk/ssi/2007/329/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/329/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/329/article/4))
+[^c-8d928411051db85ab3e240aefc31fb91]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2004/3/section/1) in force at 2.7.2007 for specified purposes by [S.S.I. 2007/329](https://www.legislation.gov.uk/ssi/2007/329), [art. 2](https://www.legislation.gov.uk/ssi/2007/329/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/329/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/329/article/4))
 
-[^key-9841ac1957850f4b8a2a72b44f7a4855]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2004/3/section/1) in force at 1.4.2008 in so far as not already in force by [S.S.I. 2008/57](https://www.legislation.gov.uk/ssi/2008/57), [art. 2](https://www.legislation.gov.uk/ssi/2008/57/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/57/article/3))
+[^c-9841ac1957850f4b8a2a72b44f7a4855]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2004/3/section/1) in force at 1.4.2008 in so far as not already in force by [S.S.I. 2008/57](https://www.legislation.gov.uk/ssi/2008/57), [art. 2](https://www.legislation.gov.uk/ssi/2008/57/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/57/article/3))
 
-[^key-8efb9f33b40dec5910a6162f02b9046c]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2004/3/section/2/1)[(4)](https://www.legislation.gov.uk/asp/2004/3/section/2/4) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-8efb9f33b40dec5910a6162f02b9046c]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2004/3/section/2/1)[(4)](https://www.legislation.gov.uk/asp/2004/3/section/2/4) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-f346d62e8033b7be7df9d78037c440b0]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2004/3/section/2/1)[(4)](https://www.legislation.gov.uk/asp/2004/3/section/2/4) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-f346d62e8033b7be7df9d78037c440b0]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2004/3/section/2/1)[(4)](https://www.legislation.gov.uk/asp/2004/3/section/2/4) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-0fb1c0e3087392a7cd70fcc06cc5eb56]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2004/3/section/2/1)[(4)](https://www.legislation.gov.uk/asp/2004/3/section/2/4)[(5)](https://www.legislation.gov.uk/asp/2004/3/section/2/5) in force at 1.4.2008 in so far as not already in force by [S.S.I. 2008/57](https://www.legislation.gov.uk/ssi/2008/57), [art. 2](https://www.legislation.gov.uk/ssi/2008/57/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/57/article/3))
+[^c-0fb1c0e3087392a7cd70fcc06cc5eb56]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2004/3/section/2/1)[(4)](https://www.legislation.gov.uk/asp/2004/3/section/2/4)[(5)](https://www.legislation.gov.uk/asp/2004/3/section/2/5) in force at 1.4.2008 in so far as not already in force by [S.S.I. 2008/57](https://www.legislation.gov.uk/ssi/2008/57), [art. 2](https://www.legislation.gov.uk/ssi/2008/57/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/57/article/3))
 
-[^key-082c447ce5e5660b6f27999bed195e24]: Commencement: [S. 2(5)](https://www.legislation.gov.uk/asp/2004/3/section/2/5) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/101](https://www.legislation.gov.uk/ssi/2007/101), [art. 2](https://www.legislation.gov.uk/ssi/2007/101/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/101/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/101/article/4))
+[^c-082c447ce5e5660b6f27999bed195e24]: Commencement: [S. 2(5)](https://www.legislation.gov.uk/asp/2004/3/section/2/5) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/101](https://www.legislation.gov.uk/ssi/2007/101), [art. 2](https://www.legislation.gov.uk/ssi/2007/101/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/101/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/101/article/4))
 
-[^key-4c82ba91bf1a9f56ffcdf82a2f8e416e]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/3/section/3) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-4c82ba91bf1a9f56ffcdf82a2f8e416e]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/3/section/3) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-be8f4836ed42e0a616e7ad37cc9d9b62]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/3/section/3) in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
+[^c-be8f4836ed42e0a616e7ad37cc9d9b62]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/3/section/3) in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
 
-[^key-a62adfc5c28bd52a3623e77c808dd7e5]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/3/section/3) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-a62adfc5c28bd52a3623e77c808dd7e5]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/3/section/3) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-5229794ce362dc6dbfbde700bd9f644b]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/3/section/3) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/101](https://www.legislation.gov.uk/ssi/2007/101), [art. 2](https://www.legislation.gov.uk/ssi/2007/101/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/101/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/101/article/4))
+[^c-5229794ce362dc6dbfbde700bd9f644b]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/3/section/3) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/101](https://www.legislation.gov.uk/ssi/2007/101), [art. 2](https://www.legislation.gov.uk/ssi/2007/101/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/101/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/101/article/4))
 
-[^key-7231f95e5407eadc8709daddd288afa9]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/3/section/3) in force at 2.7.2007 for specified purposes by [S.S.I. 2007/329](https://www.legislation.gov.uk/ssi/2007/329), [art. 2](https://www.legislation.gov.uk/ssi/2007/329/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/329/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/329/article/4))
+[^c-7231f95e5407eadc8709daddd288afa9]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/3/section/3) in force at 2.7.2007 for specified purposes by [S.S.I. 2007/329](https://www.legislation.gov.uk/ssi/2007/329), [art. 2](https://www.legislation.gov.uk/ssi/2007/329/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/329/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/329/article/4))
 
-[^key-b32ecdb6224d53469952bba09eff42be]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/3/section/3) in force at 1.4.2008 in so far as not already in force by [S.S.I. 2008/57](https://www.legislation.gov.uk/ssi/2008/57), [art. 2](https://www.legislation.gov.uk/ssi/2008/57/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/57/article/3))
+[^c-b32ecdb6224d53469952bba09eff42be]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/3/section/3) in force at 1.4.2008 in so far as not already in force by [S.S.I. 2008/57](https://www.legislation.gov.uk/ssi/2008/57), [art. 2](https://www.legislation.gov.uk/ssi/2008/57/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/57/article/3))
 
-[^key-5f6e621040ae159fe0335d9236165bd3]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2004/3/section/4) in force at 1.4.2005 by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-5f6e621040ae159fe0335d9236165bd3]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2004/3/section/4) in force at 1.4.2005 by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-f4e2aecd59f7bf69d4d11a3b75c4d588]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2004/3/section/5) in force at 1.4.2005 by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-f4e2aecd59f7bf69d4d11a3b75c4d588]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2004/3/section/5) in force at 1.4.2005 by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-03357debd824dc20be65972779a26cae]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/3/section/6) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-03357debd824dc20be65972779a26cae]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/3/section/6) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-3d2228617b40ec714d573816f1cc4e62]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/3/section/6) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-3d2228617b40ec714d573816f1cc4e62]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/3/section/6) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-8b801e0cade42eadb39a4a5b1836df9e]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/3/section/6) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/101](https://www.legislation.gov.uk/ssi/2007/101), [art. 2](https://www.legislation.gov.uk/ssi/2007/101/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/101/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/101/article/4))
+[^c-8b801e0cade42eadb39a4a5b1836df9e]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/3/section/6) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/101](https://www.legislation.gov.uk/ssi/2007/101), [art. 2](https://www.legislation.gov.uk/ssi/2007/101/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/101/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/101/article/4))
 
-[^key-7c8902aa8a3941d3bbf2597e49fcfdec]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/3/section/6) in force at 1.4.2008 in so far as not already in force by [S.S.I. 2008/57](https://www.legislation.gov.uk/ssi/2008/57), [art. 2](https://www.legislation.gov.uk/ssi/2008/57/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/57/article/3))
+[^c-7c8902aa8a3941d3bbf2597e49fcfdec]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/3/section/6) in force at 1.4.2008 in so far as not already in force by [S.S.I. 2008/57](https://www.legislation.gov.uk/ssi/2008/57), [art. 2](https://www.legislation.gov.uk/ssi/2008/57/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/57/article/3))
 
-[^key-fba9b6c27954742574b193ed1963d581]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/asp/2004/3/section/7/1)[(3)](https://www.legislation.gov.uk/asp/2004/3/section/7/3) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-fba9b6c27954742574b193ed1963d581]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/asp/2004/3/section/7/1)[(3)](https://www.legislation.gov.uk/asp/2004/3/section/7/3) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-e210582481814f3bb3773e8e3e45e803]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/asp/2004/3/section/7/1)[(3)](https://www.legislation.gov.uk/asp/2004/3/section/7/3) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-e210582481814f3bb3773e8e3e45e803]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/asp/2004/3/section/7/1)[(3)](https://www.legislation.gov.uk/asp/2004/3/section/7/3) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-69f7aa7ef170ebfd6f2856970b8c9c91]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2004/3/section/8) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-69f7aa7ef170ebfd6f2856970b8c9c91]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2004/3/section/8) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-f44305997e8c46e76a21eca1ba2e695d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2004/3/section/8) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/101](https://www.legislation.gov.uk/ssi/2007/101), [art. 2](https://www.legislation.gov.uk/ssi/2007/101/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/101/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/101/article/4))
+[^c-f44305997e8c46e76a21eca1ba2e695d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2004/3/section/8) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/101](https://www.legislation.gov.uk/ssi/2007/101), [art. 2](https://www.legislation.gov.uk/ssi/2007/101/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/101/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/101/article/4))
 
-[^key-328e0ddb16f1c6e16591a5eb265f0841]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2004/3/section/9) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/101](https://www.legislation.gov.uk/ssi/2007/101), [art. 2](https://www.legislation.gov.uk/ssi/2007/101/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/101/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/101/article/4))
+[^c-328e0ddb16f1c6e16591a5eb265f0841]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2004/3/section/9) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/101](https://www.legislation.gov.uk/ssi/2007/101), [art. 2](https://www.legislation.gov.uk/ssi/2007/101/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/101/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/101/article/4))
 
-[^key-f6f834513534f56005f1901e39bc7c98]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2004/3/section/9) in force at 1.4.2008 in so far as not already in force by [S.S.I. 2008/57](https://www.legislation.gov.uk/ssi/2008/57), [art. 2](https://www.legislation.gov.uk/ssi/2008/57/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/57/article/3))
+[^c-f6f834513534f56005f1901e39bc7c98]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2004/3/section/9) in force at 1.4.2008 in so far as not already in force by [S.S.I. 2008/57](https://www.legislation.gov.uk/ssi/2008/57), [art. 2](https://www.legislation.gov.uk/ssi/2008/57/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/57/article/3))
 
-[^key-e8d3b42120b64d1234a3139a2c8b10ff]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2004/3/section/10) in force at 1.7.2015 by [S.S.I. 2015/244](https://www.legislation.gov.uk/ssi/2015/244), [art. 2](https://www.legislation.gov.uk/ssi/2015/244/article/2)
+[^c-e8d3b42120b64d1234a3139a2c8b10ff]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2004/3/section/10) in force at 1.7.2015 by [S.S.I. 2015/244](https://www.legislation.gov.uk/ssi/2015/244), [art. 2](https://www.legislation.gov.uk/ssi/2015/244/article/2)
 
-[^key-7a3f454ce70487f5d38ba343dd5f59fa]: Commencement: S. 11 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-7a3f454ce70487f5d38ba343dd5f59fa]: Commencement: S. 11 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-45c3198f90a52928feee6ba7289d9639]: Commencement: S. 11 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
+[^c-45c3198f90a52928feee6ba7289d9639]: Commencement: S. 11 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
 
-[^key-e9fa8ab6f4eec4f7d6d382232023bf8b]: Commencement: S. 11(1)(a)(3)(5) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-e9fa8ab6f4eec4f7d6d382232023bf8b]: Commencement: S. 11(1)(a)(3)(5) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-015ced95bdbf27358e9435343c508d72]: Commencement: S. 11(1)(a)(3) in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
+[^c-015ced95bdbf27358e9435343c508d72]: Commencement: S. 11(1)(a)(3) in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
 
-[^key-8d13dfe8e8256301b934f472fd03eeab]: Textual amendment: Word in s. 11(1)(a) substituted (1.9.2015) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 22(a)](https://www.legislation.gov.uk/asp/2014/1/section/22/a), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [arts. 1(4)](https://www.legislation.gov.uk/ssi/2015/200/article/1/4) [5](https://www.legislation.gov.uk/ssi/2015/200/article/5))
+[^c-8d13dfe8e8256301b934f472fd03eeab]: Textual amendment: Word in s. 11(1)(a) substituted (1.9.2015) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 22(a)](https://www.legislation.gov.uk/asp/2014/1/section/22/a), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [arts. 1(4)](https://www.legislation.gov.uk/ssi/2015/200/article/1/4) [5](https://www.legislation.gov.uk/ssi/2015/200/article/5))
 
-[^key-8e8e65db261deb1b9e2c08f99a4dc99e]: Textual amendment: Word in s. 11(1) repealed (1.9.2015) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 22(b)](https://www.legislation.gov.uk/asp/2014/1/section/22/b), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [arts. 1(4)](https://www.legislation.gov.uk/ssi/2015/200/article/1/4) [5](https://www.legislation.gov.uk/ssi/2015/200/article/5))
+[^c-8e8e65db261deb1b9e2c08f99a4dc99e]: Textual amendment: Word in s. 11(1) repealed (1.9.2015) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 22(b)](https://www.legislation.gov.uk/asp/2014/1/section/22/b), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [arts. 1(4)](https://www.legislation.gov.uk/ssi/2015/200/article/1/4) [5](https://www.legislation.gov.uk/ssi/2015/200/article/5))
 
-[^key-51f9fe69c83ff8f165afe04b1e19f211]: Textual amendment: S. 11(1)(c) and word inserted (1.9.2015) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 22(c)](https://www.legislation.gov.uk/asp/2014/1/section/22/c), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [arts. 1(4)](https://www.legislation.gov.uk/ssi/2015/200/article/1/4) [5](https://www.legislation.gov.uk/ssi/2015/200/article/5))
+[^c-51f9fe69c83ff8f165afe04b1e19f211]: Textual amendment: S. 11(1)(c) and word inserted (1.9.2015) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 22(c)](https://www.legislation.gov.uk/asp/2014/1/section/22/c), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [arts. 1(4)](https://www.legislation.gov.uk/ssi/2015/200/article/1/4) [5](https://www.legislation.gov.uk/ssi/2015/200/article/5))
 
-[^key-4e9c2dafe5d1bcab0c860b2628def8f8]: Commencement: S. 11(5) in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
+[^c-4e9c2dafe5d1bcab0c860b2628def8f8]: Commencement: S. 11(5) in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
 
-[^key-429e918733bfb422cf3af46ef5fbe1b4]: Textual amendment: Words in s. 11(5) inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 176(2)(a)](https://www.legislation.gov.uk/asp/2011/1/section/176/2/a), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-429e918733bfb422cf3af46ef5fbe1b4]: Textual amendment: Words in s. 11(5) inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 176(2)(a)](https://www.legislation.gov.uk/asp/2011/1/section/176/2/a), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-a3fc5c620190bf749e4b5a47ad3be8fa]: Textual amendment: Words in s. 11(5) substituted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 176(2)(b)](https://www.legislation.gov.uk/asp/2011/1/section/176/2/b), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-a3fc5c620190bf749e4b5a47ad3be8fa]: Textual amendment: Words in s. 11(5) substituted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 176(2)(b)](https://www.legislation.gov.uk/asp/2011/1/section/176/2/b), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-840cf45ad669d857b09729e82e4dfbcc]: Textual amendment: Words in s. 11(5) inserted (24.6.2013) by Children’s [Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 176(2)(c)](https://www.legislation.gov.uk/asp/2011/1/section/176/2/c), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3) (as amended by The Children’s [Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(19)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/19))
+[^c-840cf45ad669d857b09729e82e4dfbcc]: Textual amendment: Words in s. 11(5) inserted (24.6.2013) by Children’s [Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 176(2)(c)](https://www.legislation.gov.uk/asp/2011/1/section/176/2/c), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3) (as amended by The Children’s [Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(19)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/19))
 
-[^key-98fa230c6a82a4597b1fda2fcc8a1008]: Commencement: S. 12 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-98fa230c6a82a4597b1fda2fcc8a1008]: Commencement: S. 12 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-d9a036e2770157461a80b79ce8c4a055]: Commencement: S. 12 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
+[^c-d9a036e2770157461a80b79ce8c4a055]: Commencement: S. 12 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
 
-[^key-a796fa828a7561ecc2a772c238cad23b]: Commencement: S. 12(1)-(4) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-a796fa828a7561ecc2a772c238cad23b]: Commencement: S. 12(1)-(4) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-e7bcb107d683cd479be719b95353b66c]: Commencement: S. 12(1)-(4) in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
+[^c-e7bcb107d683cd479be719b95353b66c]: Commencement: S. 12(1)-(4) in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
 
-[^key-370110f2188ec478044e549577dc6a3a]: Textual amendment: S. 12(8) added (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 176(3)](https://www.legislation.gov.uk/asp/2011/1/section/176/3), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-370110f2188ec478044e549577dc6a3a]: Textual amendment: S. 12(8) added (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 176(3)](https://www.legislation.gov.uk/asp/2011/1/section/176/3), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-0b08a06ba7bd506f4f750a515aa20aa8]: Commencement: S. 13 in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-0b08a06ba7bd506f4f750a515aa20aa8]: Commencement: S. 13 in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-64b2a2dfdca7ab27c443de046f885148]: Commencement: S. 13 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
+[^c-64b2a2dfdca7ab27c443de046f885148]: Commencement: S. 13 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
 
-[^key-71fdc0eca7a68666002728f4561b5194]: Commencement: S. 13 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-71fdc0eca7a68666002728f4561b5194]: Commencement: S. 13 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-89680a03a6468dc724111c6158f86a02]: Commencement: S. 13 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
+[^c-89680a03a6468dc724111c6158f86a02]: Commencement: S. 13 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
 
-[^key-639d5c78bc2f5251bb0c482a3d852d7f]: Commencement: S. 14 in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-639d5c78bc2f5251bb0c482a3d852d7f]: Commencement: S. 14 in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-d8604b40446e8acdc5d3b4af4f8405c6]: Commencement: S. 14 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
+[^c-d8604b40446e8acdc5d3b4af4f8405c6]: Commencement: S. 14 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
 
-[^key-b6738b8e1df06c9a6117067d532ee396]: Commencement: S. 14 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-b6738b8e1df06c9a6117067d532ee396]: Commencement: S. 14 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-3127f83a6467c84a6a3f7a5184a84a4d]: Commencement: S. 14 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
+[^c-3127f83a6467c84a6a3f7a5184a84a4d]: Commencement: S. 14 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
 
-[^key-7e23a909ab4225a09525fa16b31d89ef]: Commencement: S. 15 in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-7e23a909ab4225a09525fa16b31d89ef]: Commencement: S. 15 in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-75f903d74719aba9873ffd7a3aa8c775]: Commencement: S. 15 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
+[^c-75f903d74719aba9873ffd7a3aa8c775]: Commencement: S. 15 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
 
-[^key-cea373d6197ae6285646aebf11f3ea96]: Commencement: S. 15 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-cea373d6197ae6285646aebf11f3ea96]: Commencement: S. 15 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-da0fa6f2ec5c52dd27b70d58ead610b7]: Commencement: S. 15 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
+[^c-da0fa6f2ec5c52dd27b70d58ead610b7]: Commencement: S. 15 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
 
-[^key-d762304b478061d25445189955419e75]: Commencement: S. 16 in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-d762304b478061d25445189955419e75]: Commencement: S. 16 in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-dc696e554a2ebe1e4b3294be1fab6c61]: Commencement: S. 16 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
+[^c-dc696e554a2ebe1e4b3294be1fab6c61]: Commencement: S. 16 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
 
-[^key-480207943e258b03ae7de45df2491263]: Commencement: S. 16 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-480207943e258b03ae7de45df2491263]: Commencement: S. 16 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-6a0675fbc74d2993e77c3b9ba4f374cb]: Commencement: S. 16 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
+[^c-6a0675fbc74d2993e77c3b9ba4f374cb]: Commencement: S. 16 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
 
-[^key-6ce8a23be368135b0e63cdb572621efc]: Textual amendment: S. 16A inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 176(4)](https://www.legislation.gov.uk/asp/2011/1/section/176/4), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-6ce8a23be368135b0e63cdb572621efc]: Textual amendment: S. 16A inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 176(4)](https://www.legislation.gov.uk/asp/2011/1/section/176/4), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-d9f369cdc2aa04929303366ed66a9269]: Commencement: S. 17 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
+[^c-d9f369cdc2aa04929303366ed66a9269]: Commencement: S. 17 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
 
-[^key-da011cf9931dff3c9a77be6983b08d6b]: Commencement: S. 17(1)(2) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-da011cf9931dff3c9a77be6983b08d6b]: Commencement: S. 17(1)(2) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-b6e1adc3e671e5c89d9f614a7e438125]: Commencement: S. 17(2) in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
+[^c-b6e1adc3e671e5c89d9f614a7e438125]: Commencement: S. 17(2) in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
 
-[^key-24ffeb773352f38a4bb289597016d605]: Commencement: S. 17(2) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-24ffeb773352f38a4bb289597016d605]: Commencement: S. 17(2) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-6fccb491a0066be27ecc98e4d7ff3146]: Commencement: S. 18 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
+[^c-6fccb491a0066be27ecc98e4d7ff3146]: Commencement: S. 18 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
 
-[^key-9cd4ca69eb3ca460ddcb846ffea3ea58]: Commencement: S. 18 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-9cd4ca69eb3ca460ddcb846ffea3ea58]: Commencement: S. 18 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-75b962d26f414fef41bc263a10132099]: Commencement: S. 18(1)(a) in force at 1.11.2007 for specified purposes by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
+[^c-75b962d26f414fef41bc263a10132099]: Commencement: S. 18(1)(a) in force at 1.11.2007 for specified purposes by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
 
-[^key-9e0abb787b1675fb5007ea5ea6de7fd9]: Commencement: S. 18(1)(b)-(e) (2) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-9e0abb787b1675fb5007ea5ea6de7fd9]: Commencement: S. 18(1)(b)-(e) (2) in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-9e432db0306054049a529a39bd0b198e]: Commencement: S. 18(1)(b)-(e) (2) in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
+[^c-9e432db0306054049a529a39bd0b198e]: Commencement: S. 18(1)(b)-(e) (2) in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
 
-[^key-7250c8914cec7989fefda328404db7a1]: Commencement: S. 19 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
+[^c-7250c8914cec7989fefda328404db7a1]: Commencement: S. 19 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
 
-[^key-e7c24a60fe7856a3f0983119c6b56aaa]: Commencement: S. 19 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-e7c24a60fe7856a3f0983119c6b56aaa]: Commencement: S. 19 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-0a89ab7bdb5ef7e1311ea213fc85b2f1]: Commencement: S. 19 in force at 1.11.2007 for specified purposes by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
+[^c-0a89ab7bdb5ef7e1311ea213fc85b2f1]: Commencement: S. 19 in force at 1.11.2007 for specified purposes by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
 
-[^key-41e3e565b66a229cb663fddff068d446]: Commencement: S. 20 in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-41e3e565b66a229cb663fddff068d446]: Commencement: S. 20 in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-c4fd4bd4c788758810e339fe53bd6d1d]: Commencement: S. 20 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
+[^c-c4fd4bd4c788758810e339fe53bd6d1d]: Commencement: S. 20 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
 
-[^key-5e2626dcb533c4b7e39deafc326e75ec]: Commencement: S. 20 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-5e2626dcb533c4b7e39deafc326e75ec]: Commencement: S. 20 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-95430f7892fd84f193b6222f7b36069d]: Commencement: S. 20 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
+[^c-95430f7892fd84f193b6222f7b36069d]: Commencement: S. 20 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
 
-[^key-c1c25132d7a2ebd7290e844632b84a04]: Commencement: S. 21 in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-c1c25132d7a2ebd7290e844632b84a04]: Commencement: S. 21 in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-cd6b68fbad489266f059c07bf7638652]: Commencement: S. 21 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
+[^c-cd6b68fbad489266f059c07bf7638652]: Commencement: S. 21 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
 
-[^key-8b06184a8a79bfa58917843de335dede]: Commencement: S. 21 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-8b06184a8a79bfa58917843de335dede]: Commencement: S. 21 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-1911ec57f0f6123cd8fe49a243332b83]: Commencement: S. 21 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
+[^c-1911ec57f0f6123cd8fe49a243332b83]: Commencement: S. 21 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
 
-[^key-3f363988572f2fe98aed790bf7f3ac26]: Commencement: S. 22 in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-3f363988572f2fe98aed790bf7f3ac26]: Commencement: S. 22 in force at 1.4.2005 for specified purposes by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-25a10a92fc978d63b9fa1628b8e4dae8]: Commencement: S. 22 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
+[^c-25a10a92fc978d63b9fa1628b8e4dae8]: Commencement: S. 22 in force at 30.11.2005 for specified purposes by [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4))
 
-[^key-9c322fcb9b339d36e0727c263d7efaa5]: Commencement: S. 22 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
+[^c-9c322fcb9b339d36e0727c263d7efaa5]: Commencement: S. 22 in force at 1.4.2006 for specified purposes by [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/59/article/4))
 
-[^key-7c01371b53ba25898f1ad94959a8dc58]: Commencement: S. 22 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
+[^c-7c01371b53ba25898f1ad94959a8dc58]: Commencement: S. 22 in force at 1.11.2007 in so far as not already in force by [S.S.I. 2007/447](https://www.legislation.gov.uk/ssi/2007/447), [art. 3](https://www.legislation.gov.uk/ssi/2007/447/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/447/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/447/article/4))
 
-[^key-926d7cc4d74773b1a7f7b4ba6eb14d14]: Textual amendment: [S. 22A](https://www.legislation.gov.uk/asp/2004/3/section/22A) inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 176(5)](https://www.legislation.gov.uk/asp/2011/1/section/176/5), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-926d7cc4d74773b1a7f7b4ba6eb14d14]: Textual amendment: [S. 22A](https://www.legislation.gov.uk/asp/2004/3/section/22A) inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 176(5)](https://www.legislation.gov.uk/asp/2011/1/section/176/5), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-c72a74bee37d22d99dbf0a6d74aa13db]: Textual amendment: S. 23 repealed (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [Sch. 6](https://www.legislation.gov.uk/asp/2011/1/schedule/6) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-c72a74bee37d22d99dbf0a6d74aa13db]: Textual amendment: S. 23 repealed (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [Sch. 6](https://www.legislation.gov.uk/asp/2011/1/schedule/6) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-b740f3af09bcf38d03d4da616b97f161]: Commencement: S. 23 in force at 1.4.2005 by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-b740f3af09bcf38d03d4da616b97f161]: Commencement: S. 23 in force at 1.4.2005 by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
-[^key-e3b2cb00a7d917c448fa52ac2ce1f6ae]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2004/3/section/24) in force at 1.4.2005 by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
+[^c-e3b2cb00a7d917c448fa52ac2ce1f6ae]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2004/3/section/24) in force at 1.4.2005 by [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))

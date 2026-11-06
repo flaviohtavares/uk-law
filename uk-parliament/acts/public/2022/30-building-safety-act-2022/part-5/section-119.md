@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Meaning of “qualifying lease” and “the qualifying time”[^key-a6567d13670d92f6b0b1473eb0b8e7d2]
+## 119. Meaning of “qualifying lease” and “the qualifying time”[^c-a6567d13670d92f6b0b1473eb0b8e7d2]
 
 *Extent: E+W*
 
-(1) This section applies for the purposes of sections 122 to 124[^key-23090ae401133e40ec3154d62578005c] and Schedule 8.
+(1) This section applies for the purposes of sections 122 to 124[^c-23090ae401133e40ec3154d62578005c] and Schedule 8.
 
 (2) A lease is a “qualifying lease” if—
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a6567d13670d92f6b0b1473eb0b8e7d2]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2022/30/section/119) in force at 28.6.2022, see [s. 170(3)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/a)
+[^c-a6567d13670d92f6b0b1473eb0b8e7d2]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2022/30/section/119) in force at 28.6.2022, see [s. 170(3)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/a)
 
-[^key-23090ae401133e40ec3154d62578005c]: Textual amendment: Word in [s. 119(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/119/1) substituted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 118(2)(d)](https://www.legislation.gov.uk/ukpga/2024/22/section/118/2/d), [124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)
+[^c-23090ae401133e40ec3154d62578005c]: Textual amendment: Word in [s. 119(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/119/1) substituted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 118(2)(d)](https://www.legislation.gov.uk/ukpga/2024/22/section/118/2/d), [124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)
 
 [^M_F_3dd83d2b-aa6d-49ed-ebfc-569f49edaff6]: Textual amendment: S. 119(3A) inserted (retrospectively) by [Levelling-Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 243(2)(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/243/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

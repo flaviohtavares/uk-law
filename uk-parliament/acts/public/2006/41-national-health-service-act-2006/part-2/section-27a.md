@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27A. Oversight and support of NHS trusts[^key-bc0db3e2b007245be0d176be6646a025]
+## 27A. Oversight and support of NHS trusts[^c-bc0db3e2b007245be0d176be6646a025]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ NHS England must—
 
 ## Annotations
 
-[^key-bc0db3e2b007245be0d176be6646a025]: Textual amendment: [S. 27A](https://www.legislation.gov.uk/ukpga/2006/41/section/27A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 54(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/54/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))
+[^c-bc0db3e2b007245be0d176be6646a025]: Textual amendment: [S. 27A](https://www.legislation.gov.uk/ukpga/2006/41/section/27A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 54(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/54/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))

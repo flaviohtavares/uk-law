@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Amendments relating to family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^key-91390cc9bced4eea59043a6c5522fe36]
+## 33. Amendments relating to family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^c-91390cc9bced4eea59043a6c5522fe36]
 
 *Extent: E+W*
 
@@ -37,22 +37,22 @@ summary: ''
 - (a) in sub-paragraph (h), after “student” insert “or the student’s spouse, civil partner or parent”;
 - (b) in sub-paragraph (i), after “student” insert “or the student’s spouse, civil partner or parent”.
 
-**34.**[^key-9d72a06ac3289ad323e1ab8bdf018e85] In regulation 4 (eligible students)[^f00027]—
+**34.**[^c-9d72a06ac3289ad323e1ab8bdf018e85] In regulation 4 (eligible students)[^f00027]—
 
 - (a) in paragraph (13C)(a), after “Afghan Schemes” insert “or the spouse, civil partner, child or step-child of such a person”;
 - (b) in paragraph (13D)(a), after “Ukraine Schemes” insert “or the spouse, civil partner, child or step-child of such a person”.
 
-**35.**[^key-cf6cb328503ef45a0fd77e2986739a52] In regulation 137 (eligible part-time students)[^f00028]—
+**35.**[^c-cf6cb328503ef45a0fd77e2986739a52] In regulation 137 (eligible part-time students)[^f00028]—
 
 - (a) in paragraph (11C)(a), after “Afghan Schemes” insert “or the spouse, civil partner, child or step-child of such a person”;
 - (b) in paragraph (11D)(a), after “Ukraine Schemes” insert “or the spouse, civil partner, child or step-child of such a person”.
 
-**36.**[^key-7b10eadce58d3b0ab339a772f46f5c84] In regulation 159 (eligible postgraduate students)[^f00029]—
+**36.**[^c-7b10eadce58d3b0ab339a772f46f5c84] In regulation 159 (eligible postgraduate students)[^f00029]—
 
 - (a) in paragraph (16C)(a), after “Afghan Schemes” insert “or the spouse, civil partner, child or step-child of such a person”;
 - (b) in paragraph (16D)(a), after “Ukraine Schemes” insert “or the spouse, civil partner, child or step-child of such a person”.
 
-**37.**[^key-480ec2b2d1761f967edd9f87b53cafaf] (1) Part 2 of Schedule 1 (eligible students: categories) is amended as follows.
+**37.**[^c-480ec2b2d1761f967edd9f87b53cafaf] (1) Part 2 of Schedule 1 (eligible students: categories) is amended as follows.
 
 (2) In paragraph 14 (as amended by regulation 11(9) of these Regulations)—
 
@@ -118,20 +118,20 @@ summary: ''
 
 ## Annotations
 
-[^key-91390cc9bced4eea59043a6c5522fe36]: Commencement: Reg. 33 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-91390cc9bced4eea59043a6c5522fe36]: Commencement: Reg. 33 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-9d72a06ac3289ad323e1ab8bdf018e85]: Commencement: Reg. 34 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-9d72a06ac3289ad323e1ab8bdf018e85]: Commencement: Reg. 34 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00027]: Footnote: Paragraph (13C) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348) and amended by [S.I. 2022/57](https://www.legislation.gov.uk/uksi/2022/57). Paragraph (13D) was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).
 
-[^key-cf6cb328503ef45a0fd77e2986739a52]: Commencement: Reg. 35 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-cf6cb328503ef45a0fd77e2986739a52]: Commencement: Reg. 35 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00028]: Footnote: Paragraph (11C) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348) and amended by [S.I. 2022/57](https://www.legislation.gov.uk/uksi/2022/57). Paragraph (11D) was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).
 
-[^key-7b10eadce58d3b0ab339a772f46f5c84]: Commencement: Reg. 36 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-7b10eadce58d3b0ab339a772f46f5c84]: Commencement: Reg. 36 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00029]: Footnote: Paragraph (16C) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348) and amended by [S.I. 2022/57](https://www.legislation.gov.uk/uksi/2022/57). Paragraph (16D) was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).
 
-[^key-480ec2b2d1761f967edd9f87b53cafaf]: Commencement: Reg. 37 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-480ec2b2d1761f967edd9f87b53cafaf]: Commencement: Reg. 37 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00030]: Footnote: Paragraph 16 was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).

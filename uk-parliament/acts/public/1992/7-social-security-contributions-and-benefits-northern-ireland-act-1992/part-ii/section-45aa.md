@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45AA. Effect of working families' tax credit and disabled person's tax credit on earnings factor[^key-1244d3263a96807c5e5c42812e9b9a9c]
+## 45AA. Effect of working families' tax credit and disabled person's tax credit on earnings factor[^c-1244d3263a96807c5e5c42812e9b9a9c]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1244d3263a96807c5e5c42812e9b9a9c]: Textual amendment: [S. 45AA](https://www.legislation.gov.uk/ukpga/1992/7/section/45AA) inserted (3.1.2012 with retrospective effect in accordance with Sch. 3 para. 5(2)-(5) to the amending Act) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/5/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(v)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/v)
+[^c-1244d3263a96807c5e5c42812e9b9a9c]: Textual amendment: [S. 45AA](https://www.legislation.gov.uk/ukpga/1992/7/section/45AA) inserted (3.1.2012 with retrospective effect in accordance with Sch. 3 para. 5(2)-(5) to the amending Act) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/nia/2008/13/schedule/3/paragraph/5/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(c)(v)](https://www.legislation.gov.uk/nisr/2011/441/article/2/c/v)

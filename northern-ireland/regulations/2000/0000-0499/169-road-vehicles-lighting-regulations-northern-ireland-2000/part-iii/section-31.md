@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Revocation[^key-117d9bc134d7f6c822e4d6ce983c7e08]
+## 31. Revocation[^c-117d9bc134d7f6c822e4d6ce983c7e08]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The regulations specified in Schedule 26 are hereby revoked.
 
 ## Annotations
 
-[^key-117d9bc134d7f6c822e4d6ce983c7e08]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2000/169/regulation/31) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-117d9bc134d7f6c822e4d6ce983c7e08]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2000/169/regulation/31) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

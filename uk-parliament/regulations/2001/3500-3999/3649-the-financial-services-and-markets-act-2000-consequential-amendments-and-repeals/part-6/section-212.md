@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Revocation of redundant provisions[^key-cb304fad41962ce78a1d8f52c273b9f9]
+## 212. Revocation of redundant provisions[^c-cb304fad41962ce78a1d8f52c273b9f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ The following enactments are revoked—
 
 ## Annotations
 
-[^key-cb304fad41962ce78a1d8f52c273b9f9]: Commencement: Art. 212 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-cb304fad41962ce78a1d8f52c273b9f9]: Commencement: Art. 212 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00154]: Footnote: Amended by [S.I. 1993/983](https://www.legislation.gov.uk/uksi/1993/983) and [S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678).
 

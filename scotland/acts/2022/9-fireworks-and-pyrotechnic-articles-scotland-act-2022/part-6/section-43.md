@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Offence of impersonating officer of a local weights and measures authority[^key-5639091bf54675f5e5db05196a90e651]
+## 43. Offence of impersonating officer of a local weights and measures authority[^c-5639091bf54675f5e5db05196a90e651]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5639091bf54675f5e5db05196a90e651]: Commencement: S. 43 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-5639091bf54675f5e5db05196a90e651]: Commencement: S. 43 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

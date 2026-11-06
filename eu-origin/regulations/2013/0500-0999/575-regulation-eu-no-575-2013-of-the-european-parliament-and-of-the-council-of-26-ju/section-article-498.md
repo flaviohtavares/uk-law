@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Until 1 January 2022[^key-27bb6bf088f005268cb7a9ade6c06529], the provisions on own funds requirements as set out in this Regulation shall not apply to investment firms the main business of which consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in paragraphs 5, 6, 7, 9, 10 and 11 of Part 1 of Schedule 2 to the Regulated Activities Order[^key-ac093adc83ce4040d5fb3d365ab629a5] and to which Directive 2004/39/EC did not apply on 31 December 2006.
+Until 1 January 2022[^c-27bb6bf088f005268cb7a9ade6c06529], the provisions on own funds requirements as set out in this Regulation shall not apply to investment firms the main business of which consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in paragraphs 5, 6, 7, 9, 10 and 11 of Part 1 of Schedule 2 to the Regulated Activities Order[^c-ac093adc83ce4040d5fb3d365ab629a5] and to which Directive 2004/39/EC did not apply on 31 December 2006.
 
 ## Annotations
 
@@ -30,6 +30,6 @@ Until 1 January 2022[^key-27bb6bf088f005268cb7a9ade6c06529], the provisions on o
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-27bb6bf088f005268cb7a9ade6c06529]: Textual amendment: Words in [Art. 498](https://www.legislation.gov.uk/eur/2013/575/article/498) substituted (1.6.2021) by [The Capital Requirements Regulation (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/558)](https://www.legislation.gov.uk/uksi/2021/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/558/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/558/regulation/2/3/a)
+[^c-27bb6bf088f005268cb7a9ade6c06529]: Textual amendment: Words in [Art. 498](https://www.legislation.gov.uk/eur/2013/575/article/498) substituted (1.6.2021) by [The Capital Requirements Regulation (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/558)](https://www.legislation.gov.uk/uksi/2021/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/558/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/558/regulation/2/3/a)
 
-[^key-ac093adc83ce4040d5fb3d365ab629a5]: Textual amendment: Words in [Art. 498](https://www.legislation.gov.uk/eur/2013/575/article/498) substituted (1.6.2021) by [The Capital Requirements Regulation (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/558)](https://www.legislation.gov.uk/uksi/2021/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/558/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/558/regulation/2/3/b)
+[^c-ac093adc83ce4040d5fb3d365ab629a5]: Textual amendment: Words in [Art. 498](https://www.legislation.gov.uk/eur/2013/575/article/498) substituted (1.6.2021) by [The Capital Requirements Regulation (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/558)](https://www.legislation.gov.uk/uksi/2021/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/558/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/558/regulation/2/3/b)

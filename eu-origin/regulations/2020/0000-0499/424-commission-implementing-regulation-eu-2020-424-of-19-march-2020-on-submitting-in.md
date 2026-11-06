@@ -33,34 +33,34 @@ of 19 March 2020
 
 on submitting information to the Commission as regards non-application of technical specifications for interoperability in accordance with Directive (EU) 2016/797 (revoked)
 
-[^key-aac12bab49e0108857b67055ef476b07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aac12bab49e0108857b67055ef476b07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Scope[^key-aac12bab49e0108857b67055ef476b07]
+## Article 1. Scope[^c-aac12bab49e0108857b67055ef476b07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Information contained in the request for non-application[^key-aac12bab49e0108857b67055ef476b07]
+## Article 2. Information contained in the request for non-application[^c-aac12bab49e0108857b67055ef476b07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Format and method of transmission[^key-aac12bab49e0108857b67055ef476b07]
+## Article 3. Format and method of transmission[^c-aac12bab49e0108857b67055ef476b07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-aac12bab49e0108857b67055ef476b07]
+## Article 4. Entry into force[^c-aac12bab49e0108857b67055ef476b07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aac12bab49e0108857b67055ef476b07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aac12bab49e0108857b67055ef476b07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Template for presenting a project at an advanced stage of development where the non-application of one or more TSIs or part of them is requested for this project under point (a) of Article 7(1) of Directive (EU) 2016/797 and in line with the information requested with Article 2, points 1. and 2(a) of this Regulation[^key-aac12bab49e0108857b67055ef476b07]
+## ANNEX — Template for presenting a project at an advanced stage of development where the non-application of one or more TSIs or part of them is requested for this project under point (a) of Article 7(1) of Directive (EU) 2016/797 and in line with the information requested with Article 2, points 1. and 2(a) of this Regulation[^c-aac12bab49e0108857b67055ef476b07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aac12bab49e0108857b67055ef476b07]: Textual amendment: Regulation omitted (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/127/schedule)
+[^c-aac12bab49e0108857b67055ef476b07]: Textual amendment: Regulation omitted (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/127/schedule)

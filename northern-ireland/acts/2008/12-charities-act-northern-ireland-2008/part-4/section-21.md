@@ -26,11 +26,11 @@ summary: ''
 
 (3) Where the name of such a charity is changed in compliance with any such direction, the registrar of companies—
 
-- (a) shall, if satisfied that the new name complies with the requirements of Part 5 of the Companies Act 2006[^key-b71f44e99dbd0974032f692d0985378a], enter the new name on the register of companies in place of the former name, and
+- (a) shall, if satisfied that the new name complies with the requirements of Part 5 of the Companies Act 2006[^c-b71f44e99dbd0974032f692d0985378a], enter the new name on the register of companies in place of the former name, and
 - (b) shall issue a certificate of incorporation altered to meet the circumstances of the case;
 
 and the change of name has effect from the date on which the altered certificate is issued.
 
 ## Annotations
 
-[^key-b71f44e99dbd0974032f692d0985378a]: Textual amendment: Words in [s. 21(3)(a)](https://www.legislation.gov.uk/nia/2008/12/section/21/3/a) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/5)
+[^c-b71f44e99dbd0974032f692d0985378a]: Textual amendment: Words in [s. 21(3)(a)](https://www.legislation.gov.uk/nia/2008/12/section/21/3/a) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/5)

@@ -22,11 +22,11 @@ summary: ''
 
 Article 21
 
-### 1. Compensation enactments[^key-89defbd4aa4965769e7febbaa9cb8ed7]
+### 1. Compensation enactments[^c-89defbd4aa4965769e7febbaa9cb8ed7]
 
 The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right or imposition of a restriction as they apply as respects compensation for the compulsory purchase of land and interests in land.
 
-**2.**[^key-5202c5a978c6a85ca0bf56cf3a659669] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the following modification-
+**2.**[^c-5202c5a978c6a85ca0bf56cf3a659669] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the following modification-
 
 (2) For section 5A(5A) (relevant valuation date) of the 1961 Act substitute—
 
@@ -37,21 +37,21 @@ The enactments for the time being in force with respect to compensation for the 
 > - (b) the acquiring authority is subsequently required by a determination under paragraph 12 of Schedule 2A to the Compulsory Purchase Act 1965 (as substituted by paragraph 5(8) of Schedule 8 to the Mona Offshore Wind Farm Order 2025) to acquire an interest in the land; and
 > - (c) the acquiring authority enters on and takes possession of that land, the authority is deemed for the purposes of sub-section (3)(a) to have entered on that land when it entered on that land for the purpose of exercising that right.
 
-**3.**[^key-91b6adcc42e7f9e3db28c34c6603701b] (1) Without limitation on the scope of paragraph (1), the Land Compensation Act 1973[^f00045] has effect subject to the modifications set out in sub-paragraph (2).
+**3.**[^c-91b6adcc42e7f9e3db28c34c6603701b] (1) Without limitation on the scope of paragraph (1), the Land Compensation Act 1973[^f00045] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 (measure of compensation in case of severance) of the 1965 Act as substituted by paragraph 5(3) of this Schedule—
 
 - (a) for “land is acquired or taken from” substitute “a right or restriction over land is purchased from or imposed on”; and
 - (b) for “acquired or taken from him” substitute “over which the right is exercisable or the restriction enforceable.
 
-### 4. Application of Part 1 of the 1965 Act[^key-4f91079ad75ec9433e05c422ca007c50]
+### 4. Application of Part 1 of the 1965 Act[^c-4f91079ad75ec9433e05c422ca007c50]
 
 (1) Part 1 (compulsory purchase under Acquisition of Land Act of 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 26 (modification of Part 1 of the 1965 Act) to the acquisition of land under article 19 (compulsory acquisition of land), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restriction under article 21 (compulsory acquisition of rights)—
 
 - (a) with the modifications specified in sub-paragraph 4(2); and
 - (b) with such other modifications as may be necessary.
 
-**5.**[^key-8c53df98773cc824d56121e91c9003ae] (1) The modifications referred to in sub-paragraph (1) are as follows.
+**5.**[^c-8c53df98773cc824d56121e91c9003ae] (1) The modifications referred to in sub-paragraph (1) are as follows.
 
 (2) References in the 1965 Act to land are, in the appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -75,7 +75,7 @@ are modified so as to secure that, as against persons with interests in the land
 
 (6) Section 20 (tenants at will, etc.) of the 1965 Act applies with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right or the enforcement of the restriction in question.
 
-(7) Section 22 (interests omitted from purchase) of the 1965 Act as modified by article 26(4) (modification of Part 1 of the 1965 Act)[^key-432e704ab6b30e66ba4d84e082c39a94] is also modified so as to enable the acquiring authority in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired, subject to compliance with that section as respects compensation.
+(7) Section 22 (interests omitted from purchase) of the 1965 Act as modified by article 26(4) (modification of Part 1 of the 1965 Act)[^c-432e704ab6b30e66ba4d84e082c39a94] is also modified so as to enable the acquiring authority in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired, subject to compliance with that section as respects compensation.
 
 (8) For Schedule 2A of the 1965 Act substitute—
 
@@ -138,20 +138,20 @@ are modified so as to secure that, as against persons with interests in the land
 
 ## Annotations
 
-[^key-89defbd4aa4965769e7febbaa9cb8ed7]: Commencement: Sch. 9 para. 1 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-89defbd4aa4965769e7febbaa9cb8ed7]: Commencement: Sch. 9 para. 1 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
-[^key-5202c5a978c6a85ca0bf56cf3a659669]: Commencement: Sch. 9 para. 2 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-5202c5a978c6a85ca0bf56cf3a659669]: Commencement: Sch. 9 para. 2 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
-[^key-91b6adcc42e7f9e3db28c34c6603701b]: Commencement: Sch. 9 para. 3 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-91b6adcc42e7f9e3db28c34c6603701b]: Commencement: Sch. 9 para. 3 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
 [^f00045]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-4f91079ad75ec9433e05c422ca007c50]: Commencement: Sch. 9 para. 4 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-4f91079ad75ec9433e05c422ca007c50]: Commencement: Sch. 9 para. 4 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
-[^key-8c53df98773cc824d56121e91c9003ae]: Commencement: Sch. 9 para. 5 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-8c53df98773cc824d56121e91c9003ae]: Commencement: Sch. 9 para. 5 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
 [^f00046]: Footnote: Section 11A was inserted by section 186(3) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
 [^f00047]: Footnote: Section 11B was inserted by section 187(2) of the above Act (c. 22).
 
-[^key-432e704ab6b30e66ba4d84e082c39a94]: Textual amendment: Words in [Sch. 9 para. 5(7)](https://www.legislation.gov.uk/uksi/2025/870/schedule/9/paragraph/5/7) substituted (24.10.2025) by [The Mona Offshore Wind Farm (Correction) Order 2025 (S.I. 2025/1123)](https://www.legislation.gov.uk/uksi/2025/1123), [art. 1](https://www.legislation.gov.uk/uksi/2025/1123/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1123/schedule)
+[^c-432e704ab6b30e66ba4d84e082c39a94]: Textual amendment: Words in [Sch. 9 para. 5(7)](https://www.legislation.gov.uk/uksi/2025/870/schedule/9/paragraph/5/7) substituted (24.10.2025) by [The Mona Offshore Wind Farm (Correction) Order 2025 (S.I. 2025/1123)](https://www.legislation.gov.uk/uksi/2025/1123), [art. 1](https://www.legislation.gov.uk/uksi/2025/1123/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1123/schedule)

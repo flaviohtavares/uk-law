@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Meaning of “relevant educational establishment” and “excepted establishment”[^key-f905d9c689a5ec19206f2c487a5f5ae2][^key-cbc68a30b567ceaca6015b37b7914eeb]
+## 39. Meaning of “relevant educational establishment” and “excepted establishment”[^c-f905d9c689a5ec19206f2c487a5f5ae2][^c-cbc68a30b567ceaca6015b37b7914eeb]
 
 *Extent: S*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f905d9c689a5ec19206f2c487a5f5ae2]: Commencement: S. 39 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-f905d9c689a5ec19206f2c487a5f5ae2]: Commencement: S. 39 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-cbc68a30b567ceaca6015b37b7914eeb]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2025/11/section/39) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-cbc68a30b567ceaca6015b37b7914eeb]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2025/11/section/39) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

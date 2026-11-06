@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Requests for information from member States[^key-5745b29597f12b544a12859ea0a71810]
+## 4. Requests for information from member States[^c-5745b29597f12b544a12859ea0a71810]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5745b29597f12b544a12859ea0a71810]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2020/29/section/4) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/d)
+[^c-5745b29597f12b544a12859ea0a71810]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2020/29/section/4) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/d)

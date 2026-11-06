@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84D. Interpretation of regulations 84A to 114C[^key-347c1d1b2f7a16d8248d3af536cbf47b]
+## 84D. Interpretation of regulations 84A to 114C[^c-347c1d1b2f7a16d8248d3af536cbf47b]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulations 84A to 84C—
 
 ## Annotations
 
-[^key-347c1d1b2f7a16d8248d3af536cbf47b]: Textual amendment: [Regs. 84A-84D](https://www.legislation.gov.uk/uksi/2003/2682/regulation/84A) and cross-heading inserted (6.4.2014) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2014 (S.I. 2014/474)](https://www.legislation.gov.uk/uksi/2014/474), [regs. 1](https://www.legislation.gov.uk/uksi/2014/474/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/474/regulation/2/2)
+[^c-347c1d1b2f7a16d8248d3af536cbf47b]: Textual amendment: [Regs. 84A-84D](https://www.legislation.gov.uk/uksi/2003/2682/regulation/84A) and cross-heading inserted (6.4.2014) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2014 (S.I. 2014/474)](https://www.legislation.gov.uk/uksi/2014/474), [regs. 1](https://www.legislation.gov.uk/uksi/2014/474/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/474/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — Regulated roles with adults[^key-175b8292470f4b862f8faa96147b1a5b]
+## SCHEDULE 3 — Regulated roles with adults[^c-175b8292470f4b862f8faa96147b1a5b]
 
 *Extent: S*
 
@@ -36,7 +36,7 @@ summary: ''
 - (a) the activities are carried out—
   - (i) as a necessary part of the role, and
   - (ii) in Scotland, and
-- (b)[^key-29efb55a0d9ddf8ed64d90139dbb5c54] in the case of—
+- (b)[^c-29efb55a0d9ddf8ed64d90139dbb5c54] in the case of—
   - (i) activities mentioned in paragraph 13A of Part 2 of this schedule, the carrying out of activities gives the individual carrying them out, when doing anything permitted or required in connection with the carrying out of the activities, the opportunity to have unsupervised contact with protected adults,
   - (ii) other activities mentioned in Part 2 of the schedule, the carrying out of the activities gives the individual carrying them out, when doing anything permitted or required in connection with the carrying out of the activities, the opportunity to have contact with protected adults.
 
@@ -93,7 +93,7 @@ the training or study is to be treated as if it were undertaken in Scotland.
 
 #### Definition of contact with protected adults
 
-**3.** (1)[^key-cc32d9d95445927ddca80237744e054b] In paragraph 1(2)(b)—
+**3.** (1)[^c-cc32d9d95445927ddca80237744e054b] In paragraph 1(2)(b)—
 
 - “contact with protected adults”—
   - (a) means, in relation to an activity, contact that is more than incidental to the carrying out of the activity, and
@@ -106,7 +106,7 @@ the training or study is to be treated as if it were undertaken in Scotland.
 (2) In paragraph 1(3)(b) “contact with protected adults”—
 
 - (a) means, in relation to training or study, contact that is more than incidental to the undertaking of the training or study, and
-- (b)[^key-7bf0d54292e43ab1d25428dc22e52ff5] includes any of the following—
+- (b)[^c-7bf0d54292e43ab1d25428dc22e52ff5] includes any of the following—
   - (i) physical contact with protected adults,
   - (ii) visual, written or verbal communication with protected adults,
   - (iii) exercising power or influence over protected adults.
@@ -129,29 +129,29 @@ the training or study is to be treated as if it were undertaken in Scotland.
 
 **6.** Practising as a registered medical practitioner.
 
-**6A.**[^key-12c2cf093e09f95da4d29d5f3d884ddc] Practising as an anaesthesia associate or physician associate pursuant to registration with the General Medical Council.
+**6A.**[^c-12c2cf093e09f95da4d29d5f3d884ddc] Practising as an anaesthesia associate or physician associate pursuant to registration with the General Medical Council.
 
 **7.** Practising as a registered nurse, midwife or health visitor.
 
-**7A.**[^key-4ca89491aeffba44b7ae24eff8a3da39] Practising in a profession pursuant to registration with the Health and Care Professions Council.
+**7A.**[^c-4ca89491aeffba44b7ae24eff8a3da39] Practising in a profession pursuant to registration with the Health and Care Professions Council.
 
 **8.** Practising as a chiropractor pursuant to registration with the General Chiropractic Council.
 
-**9.** Practising as a dentist or dental care professional[^key-9e0f94e2757377c33bbd8fbdcb48c553] pursuant to registration with the General Dental Council.
+**9.** Practising as a dentist or dental care professional[^c-9e0f94e2757377c33bbd8fbdcb48c553] pursuant to registration with the General Dental Council.
 
-**10.** Practising as an optometrist or dispensing[^key-163c81b4552fa45a6f8e566364c149d6] optician pursuant to registration with the General Optical Council.
+**10.** Practising as an optometrist or dispensing[^c-163c81b4552fa45a6f8e566364c149d6] optician pursuant to registration with the General Optical Council.
 
 **11.** Practising as an osteopath pursuant to registration with the General Osteopathic Council.
 
-**12.** Practising as a pharmacist or pharmacy technician[^key-ec02cb8c7e696e09edb9396415fe1f4c] pursuant to registration with the General Pharmaceutical Council.
+**12.** Practising as a pharmacist or pharmacy technician[^c-ec02cb8c7e696e09edb9396415fe1f4c] pursuant to registration with the General Pharmaceutical Council.
 
 **13.** Being engaged in the provision of a domestic service (including cleaning, preparing food, acting as a caretaker of premises or carrying out maintenance of premises) that is provided for protected adults in a hospital, hospice, care home, day care centre or adult placement setting.
 
-**13A.**[^key-6b6b0ffd8d3b73dbfe5655d67d43cf67] Carrying out an activity in a hospital, hospice, care home, day care centre or adult placement setting.
+**13A.**[^c-6b6b0ffd8d3b73dbfe5655d67d43cf67] Carrying out an activity in a hospital, hospice, care home, day care centre or adult placement setting.
 
 **14.** Being in charge of protected adults.
 
-**14A.**[^key-63c1330cc945b917553f5612a2ffe6df] Having responsibility for the safety and welfare of a protected adult.
+**14A.**[^c-63c1330cc945b917553f5612a2ffe6df] Having responsibility for the safety and welfare of a protected adult.
 
 **14B.** Having the ability to directly influence decisions about the safety and welfare of a protected adult, other than in the capacity of an elected representative or as the holder of a judicial office.
 
@@ -159,7 +159,7 @@ the training or study is to be treated as if it were undertaken in Scotland.
 
 **16.** Providing support to a protected adult under a shared lives scheme.
 
-**17.** Providing counselling, therapy , advice, guidance or advocacy support[^key-dd0577d18093827f94f18b06358e7f68] in relation to health or wellbeing to protected adults, other than where such counselling, therapy, advice , guidance or advocacy support[^key-cf8744b8f80976e7cb7efa2782d12813] is provided in a prison by a prisoner to another prisoner.
+**17.** Providing counselling, therapy , advice, guidance or advocacy support[^c-dd0577d18093827f94f18b06358e7f68] in relation to health or wellbeing to protected adults, other than where such counselling, therapy, advice , guidance or advocacy support[^c-cf8744b8f80976e7cb7efa2782d12813] is provided in a prison by a prisoner to another prisoner.
 
 **18.** Having the ability to directly influence the operational delivery of medical or care services for protected adults, other than in the capacity of an elected representative or as the holder of a judicial office.
 
@@ -179,7 +179,7 @@ the training or study is to be treated as if it were undertaken in Scotland.
 
 **22.** Driving or escorting protected adults in connection with transport services provided exclusively or mainly for use by protected adults.
 
-**23.** Holding a position of responsibility in an organisation which has as one of its main purposes the provision of[^key-40922693678895201bfaf7f2b62685fe] benefits for or to protected adults (regardless of whether the organisation has an additional purpose of providing benefits for or to another group of persons).
+**23.** Holding a position of responsibility in an organisation which has as one of its main purposes the provision of[^c-40922693678895201bfaf7f2b62685fe] benefits for or to protected adults (regardless of whether the organisation has an additional purpose of providing benefits for or to another group of persons).
 
 #### Interpretation
 
@@ -216,30 +216,30 @@ the training or study is to be treated as if it were undertaken in Scotland.
 
 ## Annotations
 
-[^key-175b8292470f4b862f8faa96147b1a5b]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/asp/2007/14/schedule/3) substituted (30.9.2024 for specified purposes, 1.4.2025 in so far as not already in force) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 4](https://www.legislation.gov.uk/asp/2020/13/schedule/4) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)) (as amended by [2024 asp 5](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 19(3)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/19/3); [S.S.I. 2024/21](https://www.legislation.gov.uk/ssi/2024/21), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/21/regulation/2/j/ii)( with reg. 3)); [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-175b8292470f4b862f8faa96147b1a5b]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/asp/2007/14/schedule/3) substituted (30.9.2024 for specified purposes, 1.4.2025 in so far as not already in force) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 4](https://www.legislation.gov.uk/asp/2020/13/schedule/4) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)) (as amended by [2024 asp 5](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 19(3)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/19/3); [S.S.I. 2024/21](https://www.legislation.gov.uk/ssi/2024/21), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/21/regulation/2/j/ii)( with reg. 3)); [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-29efb55a0d9ddf8ed64d90139dbb5c54]: Textual amendment: [Sch. 3 para. 1(2)(b)](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/1/2/b) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/2); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+[^c-29efb55a0d9ddf8ed64d90139dbb5c54]: Textual amendment: [Sch. 3 para. 1(2)(b)](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/1/2/b) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/2); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
 
-[^key-cc32d9d95445927ddca80237744e054b]: Textual amendment: [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/3/1) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/3/a); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+[^c-cc32d9d95445927ddca80237744e054b]: Textual amendment: [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/3/1) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/3/a); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
 
-[^key-7bf0d54292e43ab1d25428dc22e52ff5]: Textual amendment: [Sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/3/2/b) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/3/b); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+[^c-7bf0d54292e43ab1d25428dc22e52ff5]: Textual amendment: [Sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/3/2/b) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/3/b); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
 
-[^key-12c2cf093e09f95da4d29d5f3d884ddc]: Textual amendment: [Sch. 3 para. 6A](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/6A) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(4)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/4); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+[^c-12c2cf093e09f95da4d29d5f3d884ddc]: Textual amendment: [Sch. 3 para. 6A](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/6A) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(4)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/4); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
 
-[^key-4ca89491aeffba44b7ae24eff8a3da39]: Textual amendment: [Sch. 3 para. 7A](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/7A) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(5)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/5); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+[^c-4ca89491aeffba44b7ae24eff8a3da39]: Textual amendment: [Sch. 3 para. 7A](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/7A) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(5)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/5); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
 
-[^key-9e0f94e2757377c33bbd8fbdcb48c553]: Textual amendment: Words in [sch. 3 para. 9](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/9) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(6)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/6); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+[^c-9e0f94e2757377c33bbd8fbdcb48c553]: Textual amendment: Words in [sch. 3 para. 9](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/9) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(6)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/6); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
 
-[^key-163c81b4552fa45a6f8e566364c149d6]: Textual amendment: Words in [sch. 3 para. 10](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/10) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(7)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/7); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+[^c-163c81b4552fa45a6f8e566364c149d6]: Textual amendment: Words in [sch. 3 para. 10](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/10) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(7)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/7); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
 
-[^key-ec02cb8c7e696e09edb9396415fe1f4c]: Textual amendment: Words in [sch. 3 para. 12](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/12) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(8)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/8); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+[^c-ec02cb8c7e696e09edb9396415fe1f4c]: Textual amendment: Words in [sch. 3 para. 12](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/12) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(8)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/8); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
 
-[^key-6b6b0ffd8d3b73dbfe5655d67d43cf67]: Textual amendment: [Sch. 3 para. 13A](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/13A) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(9)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/9); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+[^c-6b6b0ffd8d3b73dbfe5655d67d43cf67]: Textual amendment: [Sch. 3 para. 13A](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/13A) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(9)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/9); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
 
-[^key-63c1330cc945b917553f5612a2ffe6df]: Textual amendment: [Sch. 3 paras. 14A](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/14A), [14B](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/14B) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(10)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/10); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+[^c-63c1330cc945b917553f5612a2ffe6df]: Textual amendment: [Sch. 3 paras. 14A](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/14A), [14B](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/14B) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(10)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/10); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
 
-[^key-dd0577d18093827f94f18b06358e7f68]: Textual amendment: Words in [sch. 3 para. 17](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/17) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(11)(a)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/11/a); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+[^c-dd0577d18093827f94f18b06358e7f68]: Textual amendment: Words in [sch. 3 para. 17](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/17) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(11)(a)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/11/a); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
 
-[^key-cf8744b8f80976e7cb7efa2782d12813]: Textual amendment: Words in [sch. 3 para. 17](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/17) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(11)(b)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/11/b); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+[^c-cf8744b8f80976e7cb7efa2782d12813]: Textual amendment: Words in [sch. 3 para. 17](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/17) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(11)(b)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/11/b); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
 
-[^key-40922693678895201bfaf7f2b62685fe]: Textual amendment: Words in [sch. 3 para. 23](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/23) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(12)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/12); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+[^c-40922693678895201bfaf7f2b62685fe]: Textual amendment: Words in [sch. 3 para. 23](https://www.legislation.gov.uk/asp/2007/14/schedule/3/paragraph/23) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [3(12)](https://www.legislation.gov.uk/ssi/2025/76/regulation/3/12); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)

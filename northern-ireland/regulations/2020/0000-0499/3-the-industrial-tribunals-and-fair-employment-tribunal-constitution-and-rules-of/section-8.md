@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Specialist panels: specialist knowledge[^key-0b9211869cb9f1bf7feee7aa695e9e34]
+## 8. Specialist panels: specialist knowledge[^c-0b9211869cb9f1bf7feee7aa695e9e34]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The President or the Vice-President may establish specialist panels consisting o
 
 ## Annotations
 
-[^key-0b9211869cb9f1bf7feee7aa695e9e34]: Commencement: Reg. 8 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-0b9211869cb9f1bf7feee7aa695e9e34]: Commencement: Reg. 8 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

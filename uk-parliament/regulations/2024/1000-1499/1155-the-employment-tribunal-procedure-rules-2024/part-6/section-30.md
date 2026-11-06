@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Case management orders[^key-b926cf42067821cad37e184b45411118]
+## 30. Case management orders[^c-b926cf42067821cad37e184b45411118]
 
 *Extent: E+W+S*
 
@@ -26,10 +26,10 @@ summary: ''
 
 (3) A case management order may vary, suspend or set aside an earlier case management order where that is necessary in the interests of justice, and in particular where a party affected by the earlier order did not have a reasonable opportunity to make representations before it was made.
 
-(4)[^key-02df38f787760eb60d09fdb658e8db6e] The Tribunal may direct a party to provide a draft of a case management order to the Tribunal or another party.
+(4)[^c-02df38f787760eb60d09fdb658e8db6e] The Tribunal may direct a party to provide a draft of a case management order to the Tribunal or another party.
 
 ## Annotations
 
-[^key-b926cf42067821cad37e184b45411118]: Commencement: Rule 30 in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-b926cf42067821cad37e184b45411118]: Commencement: Rule 30 in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-02df38f787760eb60d09fdb658e8db6e]: Textual amendment: Rule 30(4) inserted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2026/115/rule/8/9)
+[^c-02df38f787760eb60d09fdb658e8db6e]: Textual amendment: Rule 30(4) inserted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2026/115/rule/8/9)

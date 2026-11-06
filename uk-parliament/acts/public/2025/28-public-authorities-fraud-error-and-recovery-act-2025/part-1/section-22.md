@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Amount of deductions[^key-a8e07970eb32cc85f4208ecfb425452f][^key-9c271a7df87efd5faa5247b83fdc5859]
+## 22. Amount of deductions[^c-a8e07970eb32cc85f4208ecfb425452f][^c-9c271a7df87efd5faa5247b83fdc5859]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a8e07970eb32cc85f4208ecfb425452f]: Commencement: S. 22 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-a8e07970eb32cc85f4208ecfb425452f]: Commencement: S. 22 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-9c271a7df87efd5faa5247b83fdc5859]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2025/28/section/22) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-9c271a7df87efd5faa5247b83fdc5859]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2025/28/section/22) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

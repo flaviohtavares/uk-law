@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service Trust Development Authority (Directions and Miscellaneous Amendments etc.) Regulations 2016 (revoked)[^key-0e45b05697ff6355221af116d664fe31]
+The National Health Service Trust Development Authority (Directions and Miscellaneous Amendments etc.) Regulations 2016 (revoked)[^c-0e45b05697ff6355221af116d664fe31]
 
 Made
 
@@ -46,53 +46,53 @@ Coming into force
 
 1st April 2016
 
-[^key-0e45b05697ff6355221af116d664fe31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e45b05697ff6355221af116d664fe31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — GENERAL PROVISIONS[^key-0e45b05697ff6355221af116d664fe31]
+## PART 1 — GENERAL PROVISIONS[^c-0e45b05697ff6355221af116d664fe31]
 
-### 1. Citation, commencement and interpretation[^key-0e45b05697ff6355221af116d664fe31]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — DIRECTIONS TO THE AUTHORITY RELATING TO THE BOARD’S SAFETY OF SERVICES FUNCTIONS[^key-0e45b05697ff6355221af116d664fe31]
-
-### 2. Directions to the Authority relating to the Board’s safety of services functions[^key-0e45b05697ff6355221af116d664fe31]
+### 1. Citation, commencement and interpretation[^c-0e45b05697ff6355221af116d664fe31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — AMENDMENTS TO THE ESTABLISHMENT ORDER[^key-0e45b05697ff6355221af116d664fe31]
+## PART 2 — DIRECTIONS TO THE AUTHORITY RELATING TO THE BOARD’S SAFETY OF SERVICES FUNCTIONS[^c-0e45b05697ff6355221af116d664fe31]
 
-### 3. Amendment of article 1 of the Establishment Order[^key-0e45b05697ff6355221af116d664fe31]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Substitution of article 4 of the Establishment Order[^key-0e45b05697ff6355221af116d664fe31]
+### 2. Directions to the Authority relating to the Board’s safety of services functions[^c-0e45b05697ff6355221af116d664fe31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Transfer of property[^key-0e45b05697ff6355221af116d664fe31]
+## PART 3 — AMENDMENTS TO THE ESTABLISHMENT ORDER[^c-0e45b05697ff6355221af116d664fe31]
+
+### 3. Amendment of article 1 of the Establishment Order[^c-0e45b05697ff6355221af116d664fe31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Transfer of staff[^key-0e45b05697ff6355221af116d664fe31]
+### 4. Substitution of article 4 of the Establishment Order[^c-0e45b05697ff6355221af116d664fe31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — AMENDMENTS TO THE NATIONAL HEALTH SERVICE TRUST DEVELOPMENT AUTHORITY REGULATIONS 2012[^key-0e45b05697ff6355221af116d664fe31]
-
-### 7. Amendment of the National Health Service Trust Development Authority Regulations 2012[^key-0e45b05697ff6355221af116d664fe31]
+### 5. Transfer of property[^c-0e45b05697ff6355221af116d664fe31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Continuity and Supplementary Provisions[^key-0e45b05697ff6355221af116d664fe31]
-
-### 8. Continuity and supplementary provisions[^key-0e45b05697ff6355221af116d664fe31]
+### 6. Transfer of staff[^c-0e45b05697ff6355221af116d664fe31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0e45b05697ff6355221af116d664fe31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 4 — AMENDMENTS TO THE NATIONAL HEALTH SERVICE TRUST DEVELOPMENT AUTHORITY REGULATIONS 2012[^c-0e45b05697ff6355221af116d664fe31]
+
+### 7. Amendment of the National Health Service Trust Development Authority Regulations 2012[^c-0e45b05697ff6355221af116d664fe31]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Continuity and Supplementary Provisions[^c-0e45b05697ff6355221af116d664fe31]
+
+### 8. Continuity and supplementary provisions[^c-0e45b05697ff6355221af116d664fe31]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-0e45b05697ff6355221af116d664fe31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -100,4 +100,4 @@ Coming into force
 
 ## Annotations
 
-[^key-0e45b05697ff6355221af116d664fe31]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/214) revoked (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 36(2)(c)](https://www.legislation.gov.uk/ukpga/2022/31/section/36/2/c), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))
+[^c-0e45b05697ff6355221af116d664fe31]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/214) revoked (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 36(2)(c)](https://www.legislation.gov.uk/ukpga/2022/31/section/36/2/c), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))

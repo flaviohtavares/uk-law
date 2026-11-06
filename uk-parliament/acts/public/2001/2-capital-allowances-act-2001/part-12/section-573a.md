@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 573A. Special tax sites[^key-f25d253ce7cba8c17dcbe68d7d3008c5]
+## 573A. Special tax sites[^c-f25d253ce7cba8c17dcbe68d7d3008c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Act “**special tax site**” means an area for the time being designat
 
 ## Annotations
 
-[^key-f25d253ce7cba8c17dcbe68d7d3008c5]: Textual amendment: [S. 573A](https://www.legislation.gov.uk/ukpga/2001/2/section/573A) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 15](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/15)
+[^c-f25d253ce7cba8c17dcbe68d7d3008c5]: Textual amendment: [S. 573A](https://www.legislation.gov.uk/ukpga/2001/2/section/573A) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 15](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/15)

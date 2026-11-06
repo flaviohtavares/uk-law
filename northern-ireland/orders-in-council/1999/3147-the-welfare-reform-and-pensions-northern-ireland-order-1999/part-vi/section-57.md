@@ -34,7 +34,7 @@ summary: ''
 - (a) Article 21 or 22A (circumstances in which jobseeker's allowance is not payable); or
 - (b) Article 22 or 22B (exemptions from Article 21 or 22A).
 
-(5)[^key-1d027f7136a942a6ad246c72e8c79afa] The Department [^key-f1308b949b2a800a89da5244636c8c23]... may for the purposes of, or in connection with, any scheme—
+(5)[^c-1d027f7136a942a6ad246c72e8c79afa] The Department [^c-f1308b949b2a800a89da5244636c8c23]... may for the purposes of, or in connection with, any scheme—
 
 - (a) make such arrangements (whether or not with other persons) for the provision of any facilities,
 - (b) provide such support (by whatever means) for arrangements made by other persons for the provision of any facilities,
@@ -47,7 +47,7 @@ summary: ''
 
 (6) In paragraph (5) “facilities” includes services, and any reference to the provision of facilities includes the making of payments to persons participating in the scheme.
 
-(7) The power of the Department for Communities or the Department for the Economy[^key-5d873e1facbf5770968c78421fb78200] to make an order under Article 4 of the [^m00042] Employment and Training (Amendment) (Northern Ireland) Order 1988 (status of trainees) shall include power to make, in relation to—
+(7) The power of the Department for Communities or the Department for the Economy[^c-5d873e1facbf5770968c78421fb78200] to make an order under Article 4 of the [^m00042] Employment and Training (Amendment) (Northern Ireland) Order 1988 (status of trainees) shall include power to make, in relation to—
 
 - (a) persons participating in any scheme, and
 - (b) payments received by them by virtue of paragraph (5), provision corresponding to any provision which (by virtue of that Article) may be made in relation to persons using such facilities, and to such payments received by them, as are mentioned in paragraph (1) of that Article.
@@ -65,10 +65,10 @@ summary: ''
 
 [^m00041]: Marginal citation: 1995 NI 15.
 
-[^key-1d027f7136a942a6ad246c72e8c79afa]: Modification: Art. 57(5): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/4/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-1d027f7136a942a6ad246c72e8c79afa]: Modification: Art. 57(5): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/4/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-f1308b949b2a800a89da5244636c8c23]: Textual amendment: Words in [art. 57(5)](https://www.legislation.gov.uk/nisi/1999/3147/article/57/5) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 49(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/49/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-f1308b949b2a800a89da5244636c8c23]: Textual amendment: Words in [art. 57(5)](https://www.legislation.gov.uk/nisi/1999/3147/article/57/5) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 49(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/49/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-5d873e1facbf5770968c78421fb78200]: Textual amendment: Words in [art. 57(7)](https://www.legislation.gov.uk/nisi/1999/3147/article/57/7) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 49(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/49/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-5d873e1facbf5770968c78421fb78200]: Textual amendment: Words in [art. 57(7)](https://www.legislation.gov.uk/nisi/1999/3147/article/57/7) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 49(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/49/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^m00042]: Marginal citation: 1988 NI 10.

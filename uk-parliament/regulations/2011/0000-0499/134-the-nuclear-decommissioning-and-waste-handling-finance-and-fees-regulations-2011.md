@@ -32,7 +32,7 @@ summary: ''
 
 Nuclear Energy
 
-The Nuclear Decommissioning and Waste Handling (Finance and Fees) Regulations 2011 (revoked)[^key-41694610922805643a2f6b0a9160c8cf]
+The Nuclear Decommissioning and Waste Handling (Finance and Fees) Regulations 2011 (revoked)[^c-41694610922805643a2f6b0a9160c8cf]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 6th April 2011
 
-[^key-41694610922805643a2f6b0a9160c8cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41694610922805643a2f6b0a9160c8cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-41694610922805643a2f6b0a9160c8cf]
+## 1. Citation and commencement[^c-41694610922805643a2f6b0a9160c8cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-41694610922805643a2f6b0a9160c8cf]
+## 2. Interpretation[^c-41694610922805643a2f6b0a9160c8cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Content of funded decommissioning programmes[^key-41694610922805643a2f6b0a9160c8cf]
+## 3. Content of funded decommissioning programmes[^c-41694610922805643a2f6b0a9160c8cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Fees payable in relation to funded decommissioning programmes[^key-41694610922805643a2f6b0a9160c8cf]
+## 4. Fees payable in relation to funded decommissioning programmes[^c-41694610922805643a2f6b0a9160c8cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Information requirements[^key-41694610922805643a2f6b0a9160c8cf]
+## 5. Information requirements[^c-41694610922805643a2f6b0a9160c8cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Reporting requirements[^key-41694610922805643a2f6b0a9160c8cf]
+## 6. Reporting requirements[^c-41694610922805643a2f6b0a9160c8cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Verification of the designated technical matters[^key-41694610922805643a2f6b0a9160c8cf]
+## 7. Verification of the designated technical matters[^c-41694610922805643a2f6b0a9160c8cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Modifications to an approved programme[^key-41694610922805643a2f6b0a9160c8cf]
+## 8. Modifications to an approved programme[^c-41694610922805643a2f6b0a9160c8cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-41694610922805643a2f6b0a9160c8cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41694610922805643a2f6b0a9160c8cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-41694610922805643a2f6b0a9160c8cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41694610922805643a2f6b0a9160c8cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-41694610922805643a2f6b0a9160c8cf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/134) revoked (4.3.2013) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) Regulations 2013 (S.I. 2013/126)](https://www.legislation.gov.uk/uksi/2013/126), [regs. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/126/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/126/regulation/3))
+[^c-41694610922805643a2f6b0a9160c8cf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/134) revoked (4.3.2013) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) Regulations 2013 (S.I. 2013/126)](https://www.legislation.gov.uk/uksi/2013/126), [regs. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/126/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/126/regulation/3))

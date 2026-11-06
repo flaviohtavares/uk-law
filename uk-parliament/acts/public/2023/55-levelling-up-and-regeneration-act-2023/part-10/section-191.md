@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Designated high streets and town centres[^key-92dd7537482ce5bd30e5ffae4b86f9c3][^key-472f239c013b6af467cf9101d05ec357]
+## 191. Designated high streets and town centres[^c-92dd7537482ce5bd30e5ffae4b86f9c3][^c-472f239c013b6af467cf9101d05ec357]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-92dd7537482ce5bd30e5ffae4b86f9c3]: Commencement: S. 191 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-92dd7537482ce5bd30e5ffae4b86f9c3]: Commencement: S. 191 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-472f239c013b6af467cf9101d05ec357]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2023/55/section/191) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)
+[^c-472f239c013b6af467cf9101d05ec357]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2023/55/section/191) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)

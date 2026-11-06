@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Height of road markings and size of studs fitted with reflectors, retroreflecting material or a light source[^key-5d339dca0ee4c8b563a591e49f24c27d]
+## 10. Height of road markings and size of studs fitted with reflectors, retroreflecting material or a light source[^c-5d339dca0ee4c8b563a591e49f24c27d]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d339dca0ee4c8b563a591e49f24c27d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/10) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-5d339dca0ee4c8b563a591e49f24c27d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/10) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)

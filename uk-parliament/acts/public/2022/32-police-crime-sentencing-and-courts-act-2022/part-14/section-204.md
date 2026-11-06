@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Minor amendments arising out of sentencing consolidation[^key-f016d8ed0f5ad3e063dc34a56635a56d]
+## 204. Minor amendments arising out of sentencing consolidation[^c-f016d8ed0f5ad3e063dc34a56635a56d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 21 makes minor amendments to the Sentencing Act 2020 and other enactmen
 
 ## Annotations
 
-[^key-f016d8ed0f5ad3e063dc34a56635a56d]: Commencement: [S. 204](https://www.legislation.gov.uk/ukpga/2022/32/section/204) in force at 28.6.2022, see [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa)
+[^c-f016d8ed0f5ad3e063dc34a56635a56d]: Commencement: [S. 204](https://www.legislation.gov.uk/ukpga/2022/32/section/204) in force at 28.6.2022, see [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa)

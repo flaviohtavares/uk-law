@@ -51,15 +51,15 @@ Whereas the Bishop of Winchester has, in accordance with the Schedule to the Cha
 
 Now, therefore, Her Majesty, in pursuance of section 2 of the Channel Islands (Church Legislation) Measure 1931, as amended by section 1 of the Channel Islands (Church Legislation) Measure 1931 (Amendment) Measure 1957, and of section 9(5) of the Synodical Government Measure 1969, is pleased, by and with the advice of Her Privy Council, to order and direct as follows:—
 
-**1.**[^key-7711d2af493007034266526d2ac8f849] This Order may be cited as the Synodical Government (Channel Islands) Order 1970 and shall come into operation on 17th August 1970.
+**1.**[^c-7711d2af493007034266526d2ac8f849] This Order may be cited as the Synodical Government (Channel Islands) Order 1970 and shall come into operation on 17th August 1970.
 
-**2.**[^key-a3fc96df47e7a9c7ee4b6695b0025ac4] The Scheme set out in the Schedule to this Order is hereby confirmed.
+**2.**[^c-a3fc96df47e7a9c7ee4b6695b0025ac4] The Scheme set out in the Schedule to this Order is hereby confirmed.
 
-**3.**[^key-3a98b27919abd4f529f3875e8d045efc] The Synodical Government Measure 1969 shall apply to the Channel Islands, and the Channel Islands (Representation) Measure 1931 shall be modified, in accordance with the provisions of the said Scheme.
+**3.**[^c-3a98b27919abd4f529f3875e8d045efc] The Synodical Government Measure 1969 shall apply to the Channel Islands, and the Channel Islands (Representation) Measure 1931 shall be modified, in accordance with the provisions of the said Scheme.
 
 W. G. Agnew
 
-## SCHEDULE[^key-a0acbec2f5f32f6653fdabde3b8b0036]
+## SCHEDULE[^c-a0acbec2f5f32f6653fdabde3b8b0036]
 
 A SCHEME
 
@@ -111,10 +111,10 @@ This Order applies the Synodical Government Measure 1969 to the Channel Islands 
 
 ## Annotations
 
-[^key-7711d2af493007034266526d2ac8f849]: Commencement: Art. 1 in force at 17.8.1970, see [art. 1](https://www.legislation.gov.uk/uksi/1970/1117/article/1)
+[^c-7711d2af493007034266526d2ac8f849]: Commencement: Art. 1 in force at 17.8.1970, see [art. 1](https://www.legislation.gov.uk/uksi/1970/1117/article/1)
 
-[^key-a3fc96df47e7a9c7ee4b6695b0025ac4]: Commencement: Art. 2 in force at 17.8.1970, see [art. 1](https://www.legislation.gov.uk/uksi/1970/1117/article/1)
+[^c-a3fc96df47e7a9c7ee4b6695b0025ac4]: Commencement: Art. 2 in force at 17.8.1970, see [art. 1](https://www.legislation.gov.uk/uksi/1970/1117/article/1)
 
-[^key-3a98b27919abd4f529f3875e8d045efc]: Commencement: Art. 3 in force at 17.8.1970, see [art. 1](https://www.legislation.gov.uk/uksi/1970/1117/article/1)
+[^c-3a98b27919abd4f529f3875e8d045efc]: Commencement: Art. 3 in force at 17.8.1970, see [art. 1](https://www.legislation.gov.uk/uksi/1970/1117/article/1)
 
-[^key-a0acbec2f5f32f6653fdabde3b8b0036]: Commencement: Sch. in force at 17.8.1970, see [art. 1](https://www.legislation.gov.uk/uksi/1970/1117/article/1)
+[^c-a0acbec2f5f32f6653fdabde3b8b0036]: Commencement: Sch. in force at 17.8.1970, see [art. 1](https://www.legislation.gov.uk/uksi/1970/1117/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Amendment of regulation 186 (reporting obligations on the licensing authority)[^M_I_1f492c40-c993-4779-8d22-5fb7cdf22014][^key-0979d65ae6e5c722941a2d35a37128f5]
+## 145. Amendment of regulation 186 (reporting obligations on the licensing authority)[^M_I_1f492c40-c993-4779-8d22-5fb7cdf22014][^c-0979d65ae6e5c722941a2d35a37128f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ In regulation 186—
 
 [^M_I_1f492c40-c993-4779-8d22-5fb7cdf22014]: Commencement: Reg. 145 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-0979d65ae6e5c722941a2d35a37128f5]: Textual amendment: Reg. 145 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 113](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/113)
+[^c-0979d65ae6e5c722941a2d35a37128f5]: Textual amendment: Reg. 145 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 113](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/113)

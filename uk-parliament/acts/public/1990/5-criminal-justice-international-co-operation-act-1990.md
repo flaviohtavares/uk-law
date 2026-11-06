@@ -39,25 +39,25 @@ An Act to enable the United Kingdom to co-operate with other countries in crimin
 
 ### Mutual service of process
 
-#### 1. Service of overseas process in United Kingdom.[^key-ea92d927e0562580808caa2308ac073f][^c11934211][^key-2f26052ddb0d1b3240b27d8a08ce90dc]
+#### 1. Service of overseas process in United Kingdom.[^c-ea92d927e0562580808caa2308ac073f][^c11934211][^c-2f26052ddb0d1b3240b27d8a08ce90dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Service of United Kingdom process overseas.[^key-ea92d927e0562580808caa2308ac073f][^c11934231][^key-2f26052ddb0d1b3240b27d8a08ce90dc]
+#### 2. Service of United Kingdom process overseas.[^c-ea92d927e0562580808caa2308ac073f][^c11934231][^c-2f26052ddb0d1b3240b27d8a08ce90dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Mutual provision of evidence
 
-#### 3. Overseas evidence for use in United Kingdom.[^key-ea92d927e0562580808caa2308ac073f][^c11934281][^key-2f26052ddb0d1b3240b27d8a08ce90dc]
+#### 3. Overseas evidence for use in United Kingdom.[^c-ea92d927e0562580808caa2308ac073f][^c11934281][^c-2f26052ddb0d1b3240b27d8a08ce90dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. United Kingdom evidence for use overseas.[^key-ea92d927e0562580808caa2308ac073f][^c11934351][^key-2f26052ddb0d1b3240b27d8a08ce90dc]
+#### 4. United Kingdom evidence for use overseas.[^c-ea92d927e0562580808caa2308ac073f][^c11934351][^c-2f26052ddb0d1b3240b27d8a08ce90dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Transfer of United Kingdom prisoner to give evidence or assist investigation overseas.[^c11934531][^c11934541][^key-8ad942e73cece89db888963aecceaa5b]
+#### 5. Transfer of United Kingdom prisoner to give evidence or assist investigation overseas.[^c11934531][^c11934541][^c-8ad942e73cece89db888963aecceaa5b]
 
 (1) The Secretary of State may, if he thinks fit, issue a warrant providing for any person (“a prisoner”) serving a sentence in a prison or other institution to which the [^c11934551]Prison Act 1952 or the [^c11934561]Prisons (Scotland) Act 1989 applies to be transferred to a country or territory outside the United Kingdom for the purpose—
 
@@ -76,18 +76,18 @@ but a consent once given shall not be capable of being withdrawn after the issue
 - (a) the taking of the prisoner to a place in the United Kingdom and his delivery at a place of departure from the United Kingdom into the custody of a person representing the appropriate authority of the country or territory to which the prisoner is to be transferred; and
 - (b) the bringing of the prisoner back to the United Kingdom and his transfer in custody to the place where he is liable to be detained under the sentence to which he is subject.
 
-(3A)[^key-b779ce955760a1d1fcb782b4a8dc60c7][^M_C_5d2d2607-7a2a-401d-c115-6a32ac2376a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-b779ce955760a1d1fcb782b4a8dc60c7][^M_C_5d2d2607-7a2a-401d-c115-6a32ac2376a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-b7d7b5dea8dd37a0e07cd35a57783b48][^key-8ac1d9a45a89a1b8102c6a6f3558814d] Where a warrant has been issued in respect of a prisoner under this section he shall be deemed to be in legal custody at any time when, being in the United Kingdom or on board a British ship, British aircraft or British hovercraft, he is being taken under the warrant to or from any place or being kept in custody under the warrant.
+(4)[^c-b7d7b5dea8dd37a0e07cd35a57783b48][^c-8ac1d9a45a89a1b8102c6a6f3558814d] Where a warrant has been issued in respect of a prisoner under this section he shall be deemed to be in legal custody at any time when, being in the United Kingdom or on board a British ship, British aircraft or British hovercraft, he is being taken under the warrant to or from any place or being kept in custody under the warrant.
 
-(5)[^key-b7d7b5dea8dd37a0e07cd35a57783b48][^key-8ac1d9a45a89a1b8102c6a6f3558814d] A person authorised by or for the purposes of the warrant to take the prisoner to or from any place or to keep him in custody shall have all the powers, authority, protection and privileges—
+(5)[^c-b7d7b5dea8dd37a0e07cd35a57783b48][^c-8ac1d9a45a89a1b8102c6a6f3558814d] A person authorised by or for the purposes of the warrant to take the prisoner to or from any place or to keep him in custody shall have all the powers, authority, protection and privileges—
 
 - (a) of a constable in the part of the United Kingdom in which that person is for the time being; or
 - (b) if he is outside the United Kingdom, of a constable in the part of the United Kingdom to or from which the prisoner is to be taken under the warrant.
 
-(6)[^key-b7d7b5dea8dd37a0e07cd35a57783b48][^key-8ac1d9a45a89a1b8102c6a6f3558814d] If the prisoner escapes or is unlawfully at large, he may be arrested without warrant by a constable and taken to any place to which he may be taken under the warrant issued under this section.
+(6)[^c-b7d7b5dea8dd37a0e07cd35a57783b48][^c-8ac1d9a45a89a1b8102c6a6f3558814d] If the prisoner escapes or is unlawfully at large, he may be arrested without warrant by a constable and taken to any place to which he may be taken under the warrant issued under this section.
 
-(7)[^key-b7d7b5dea8dd37a0e07cd35a57783b48][^key-8ac1d9a45a89a1b8102c6a6f3558814d] In subsection (4) above—
+(7)[^c-b7d7b5dea8dd37a0e07cd35a57783b48][^c-8ac1d9a45a89a1b8102c6a6f3558814d] In subsection (4) above—
 
 - “**British aircraft**” means a British-controlled aircraft within the meaning of section 92 of the [^c11934571]Civil Aviation Act 1982 (application of criminal law to aircraft) or one of Her Majesty’s aircraft;
 - “**British hovercraft**” means a British-controlled hovercraft within the meaning of that section as applied in relation to hovercraft by virtue of provisions made under the [^c11934581]Hovercraft Act 1968 or one of Her Majesty’s hovercraft;
@@ -95,7 +95,7 @@ but a consent once given shall not be capable of being withdrawn after the issue
 
 and in this subsection references to Her Majesty’s aircraft, hovercraft or ships are references to aircraft, hovercraft or, as the case may be, ships belonging to or exclusively employed in the service of Her Majesty in right of the Government of the United Kingdom.
 
-(8)[^key-b7d7b5dea8dd37a0e07cd35a57783b48] In subsection (6) above “**constable**”, in relation to any part of the United Kingdom, means any person who is a constable in that or any other part of the United Kingdom or any person who, at the place in question has, under any enactment including subsection (5) above, the powers of a constable in that or any other part of the United Kingdom.
+(8)[^c-b7d7b5dea8dd37a0e07cd35a57783b48] In subsection (6) above “**constable**”, in relation to any part of the United Kingdom, means any person who is a constable in that or any other part of the United Kingdom or any person who, at the place in question has, under any enactment including subsection (5) above, the powers of a constable in that or any other part of the United Kingdom.
 
 (9) This section applies to a person in custody awaiting trial or sentence and a person committed to prison for default in paying a fine as it applies to a prisoner and the reference in subsection (3)(b) above to a sentence shall be construed accordingly.
 
@@ -125,7 +125,7 @@ and in this subsection references to Her Majesty’s aircraft, hovercraft or shi
 - (a) he shall be treated for the purposes of that Act as if he has then illegally entered the United Kingdom; and
 - (b) the provisions of Schedule 2 to that Act shall have effect accordingly except that paragraph 20(1) (liability of carrier for expenses of custody etc. of illegal entrant) shall not have effect in relation to directions for his removal given by virtue of this subsection.
 
-(7) This section applies to a person detained in custody in a country or territory outside the United Kingdom in consequence of —[^key-37277c83ed7d4d20e22a06e896c36944]
+(7) This section applies to a person detained in custody in a country or territory outside the United Kingdom in consequence of —[^c-37277c83ed7d4d20e22a06e896c36944]
 
 - (b) having been transferred there, or responsibility for his detention and release having been transferred there, from the United Kingdom under the Repatriation of Prisoners Act 1984;
 - (c) having been transferred there, or responsibility for his detention and release having been transferred there, under any similar provision or arrangement from any other country or territory,
@@ -134,11 +134,11 @@ as it applies to a person detained as mentioned in subsection (1) above.
 
 ### Additional co-operation powers
 
-#### 7. Search etc. for material relevant to overseas investigation.[^key-fc3cb7eb399f5e394f47c49f95b18d61][^key-6d313a69c24d4d6ade274495ce834965]
+#### 7. Search etc. for material relevant to overseas investigation.[^c-fc3cb7eb399f5e394f47c49f95b18d61][^c-6d313a69c24d4d6ade274495ce834965]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Search etc. for material relevant to overseas investigation: Scotland.[^key-baa0ed11ee8f03bbed736c3821f572de][^c11934881][^key-117b0986808c7663a09038d0d03fe763]
+#### 8. Search etc. for material relevant to overseas investigation: Scotland.[^c-baa0ed11ee8f03bbed736c3821f572de][^c11934881][^c-117b0986808c7663a09038d0d03fe763]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -159,7 +159,7 @@ as it applies to a person detained as mentioned in subsection (1) above.
 
 (5)[^c11935431] An Order in Council under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(6)[^key-a2cc8ea23fe9ecaa0fbec6d070d213d6] This section applies to any offence that corresponds to or is similar to—
+(6)[^c-a2cc8ea23fe9ecaa0fbec6d070d213d6] This section applies to any offence that corresponds to or is similar to—
 
 - (a) an offence under the law of England and Wales;
 - (b) an offence under the law of Scotland; or
@@ -179,7 +179,7 @@ as it applies to a person detained as mentioned in subsection (1) above.
 
 (5) This section is without prejudice to the generality of any existing power to make rules.
 
-#### 11. Application to courts-martial etc.[^key-56d1cad68ca61347e12e5e0df016106c][^key-ebabca097a7756efa5b156b5e12d824b]
+#### 11. Application to courts-martial etc.[^c-56d1cad68ca61347e12e5e0df016106c][^c-ebabca097a7756efa5b156b5e12d824b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -236,14 +236,14 @@ and for the purposes of section 68 of the [^c11935841]Customs and Excise Managem
 
 (5) Any person who fails to comply with any requirement imposed by the regulations or, in purported compliance with any such requirement, furnishes information which he knows to be false in a material particular or recklessly furnishes information which is false in a material particular is guilty of an offence and liable—
 
-- (a)[^c11935851][^key-e0c03e0c748c63acbf861a3ac44e371e] on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both;
+- (a)[^c11935851][^c-e0c03e0c748c63acbf861a3ac44e371e] on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine or both.
 
-(6) No information obtained pursuant to the regulations shall be disclosed except for the purposes of criminal proceedings or of proceedings under the provisions of [^key-01664a31fc8bbac96214a4583c1bd247]... relating to the confiscation of the proceeds of drug trafficking or corresponding provisions in force in Northern Ireland or of proceedings under Part 2, 3 or 4 of the Proceeds of Crime Act 2002[^key-4ccc3d23ef8022975f0b94d936ae4bd2].
+(6) No information obtained pursuant to the regulations shall be disclosed except for the purposes of criminal proceedings or of proceedings under the provisions of [^c-01664a31fc8bbac96214a4583c1bd247]... relating to the confiscation of the proceeds of drug trafficking or corresponding provisions in force in Northern Ireland or of proceedings under Part 2, 3 or 4 of the Proceeds of Crime Act 2002[^c-4ccc3d23ef8022975f0b94d936ae4bd2].
 
 ### Proceeds of drug trafficking
 
-#### 14. Concealing or transferring proceeds of drug trafficking.[^key-b1395a9e6c2abf4cb1f2117ba9b01d9c]
+#### 14. Concealing or transferring proceeds of drug trafficking.[^c-b1395a9e6c2abf4cb1f2117ba9b01d9c]
 
 *Extent: S*
 
@@ -285,12 +285,12 @@ knowing or having reasonable grounds to suspect that the drug is intended to be 
 - (a) in a case where the controlled drug is a Class A drug—
   - (i) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both;
   - (ii) on conviction on indictment, to imprisonment for life or a fine or both;
-- (b) in a case where the controlled drug is a Class B drug or a temporary class drug[^key-c25e38fb2317df42c3bb57d8097990e3]—
+- (b) in a case where the controlled drug is a Class B drug or a temporary class drug[^c-c25e38fb2317df42c3bb57d8097990e3]—
   - (i) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both;
   - (ii) on conviction on indictment, to imprisonment for a term not exceeding fourteen years or a fine or both;
 - (c) in a case where the controlled drug is a Class C drug—
   - (i) on summary conviction, to imprisonment for a term not exceeding three months or a fine not exceeding the statutory maximum or both;
-  - (ii) on conviction on indictment, to imprisonment for a term not exceeding fourteen years[^key-552912a4abba3c964c3365e83f845546] or a fine or both.
+  - (ii) on conviction on indictment, to imprisonment for a term not exceeding fourteen years[^c-552912a4abba3c964c3365e83f845546] or a fine or both.
 
 (5) In this section “a controlled drug” and the references to controlled drugs of a specified Class have the same meaning as in the said Act of 1971; and an offence under this section shall be included in the offences to which section 28 of that Act (defences) applies.
 
@@ -317,14 +317,14 @@ knowing or having reasonable grounds to suspect that the drug is intended to be 
 
 (2) No such proceedings shall be instituted—
 
-- (a) in England or Wales except by or with the consent of the Director of Public Prosecutions [^key-45cff0eeebd96f934ca5e938a3b94401]...
+- (a) in England or Wales except by or with the consent of the Director of Public Prosecutions [^c-45cff0eeebd96f934ca5e938a3b94401]...
 - (b) in Northern Ireland except by or with the consent of the Director of Public Prosecutions for Northern Ireland or those Commissioners.
 
 (3) Without prejudice to subsection (2) above no proceedings for an offence under section 19 above alleged to have been committed outside the landward limits of the territorial sea of the United Kingdom on a ship registered in a Convention state shall be instituted except in pursuance of the exercise with the authority of the Commissioners of Customs and Excise[^c11936941] of the powers conferred by Schedule 3 to this Act; and section 3 of the [^c11936951]Territorial Waters Jurisdiction Act 1878 (consent of Secretary of State for certain prosecutions) shall not apply to those proceedings.
 
 ### Supplementary
 
-#### 22. Extradition.[^key-d47d8145d806ab40008cb4bc3b7df0f1]
+#### 22. Extradition.[^c-d47d8145d806ab40008cb4bc3b7df0f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -424,35 +424,35 @@ knowing or having reasonable grounds to suspect that the drug is intended to be 
 
 SCHEDULES
 
-## SCHEDULE 1 — United Kingdom Evidence for Use Overseas: Proceedings of Nominated Court[^key-07f8c39d10f6c7a8a6750bae194fc620]
+## SCHEDULE 1 — United Kingdom Evidence for Use Overseas: Proceedings of Nominated Court[^c-07f8c39d10f6c7a8a6750bae194fc620]
 
 **No longer in force.**
 
 Section 4(6).
 
-### Securing attendance of witnesses[^key-07f8c39d10f6c7a8a6750bae194fc620]
+### Securing attendance of witnesses[^c-07f8c39d10f6c7a8a6750bae194fc620]
 
-**1.**[^key-07f8c39d10f6c7a8a6750bae194fc620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-07f8c39d10f6c7a8a6750bae194fc620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-07f8c39d10f6c7a8a6750bae194fc620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-07f8c39d10f6c7a8a6750bae194fc620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Power to administer oaths[^key-07f8c39d10f6c7a8a6750bae194fc620]
+### Power to administer oaths[^c-07f8c39d10f6c7a8a6750bae194fc620]
 
-**3.**[^key-07f8c39d10f6c7a8a6750bae194fc620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-07f8c39d10f6c7a8a6750bae194fc620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Privilege of witnesses[^key-07f8c39d10f6c7a8a6750bae194fc620]
+### Privilege of witnesses[^c-07f8c39d10f6c7a8a6750bae194fc620]
 
-**4.**[^key-07f8c39d10f6c7a8a6750bae194fc620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-07f8c39d10f6c7a8a6750bae194fc620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Transmission of evidence[^key-07f8c39d10f6c7a8a6750bae194fc620]
+### Transmission of evidence[^c-07f8c39d10f6c7a8a6750bae194fc620]
 
-**5.**[^key-07f8c39d10f6c7a8a6750bae194fc620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-07f8c39d10f6c7a8a6750bae194fc620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplementary[^key-07f8c39d10f6c7a8a6750bae194fc620]
+### Supplementary[^c-07f8c39d10f6c7a8a6750bae194fc620]
 
-**6.**[^key-07f8c39d10f6c7a8a6750bae194fc620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-07f8c39d10f6c7a8a6750bae194fc620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-07f8c39d10f6c7a8a6750bae194fc620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-07f8c39d10f6c7a8a6750bae194fc620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Substances Useful for Manufacturing Controlled Drugs[^c11938081][^c11938091]
 
@@ -461,7 +461,7 @@ Sections 12 and 13.
 ### TABLE I[^c11938171]
 
 - *N[^c11938181]*-Acetylanthranilic Acid
-- 4-Anilino-[^key-e175b2d8f49138e5b9c57a2a63b6076e]*N*-phenethylpiperidine (also referred to as ANPP)
+- 4-Anilino-[^c-e175b2d8f49138e5b9c57a2a63b6076e]*N*-phenethylpiperidine (also referred to as ANPP)
 - *tert*-Butyl 4-oxopiperidine-1-carboxylate (also referred to as 1-boc-4-piperidone)
 - *tert*-Butyl 4-(phenylamino)piperidine-1-carboxylate (also referred to as 1-boc-4-AP)
 - Ephedrine
@@ -469,24 +469,24 @@ Sections 12 and 13.
 - Ergotamine
 - Isosafrole
 - Lysergic acid
-- 3,4-MDP-2-P methyl glycidic acid (also referred to as PMK glycidic acid)[^key-df520ae2721562a228b82606019978dc]
+- 3,4-MDP-2-P methyl glycidic acid (also referred to as PMK glycidic acid)[^c-df520ae2721562a228b82606019978dc]
 - 3,4 Methylenedioxy-Phenyl-2-Propanone
-- Methyl[^key-bb1db6572f20a965fc827d61379ec3b7] *alpha*-phenylacetoacetate (also referred to as MAPA)
+- Methyl[^c-bb1db6572f20a965fc827d61379ec3b7] *alpha*-phenylacetoacetate (also referred to as MAPA)
 - Norephedrine[^c11938211]
-- *N[^key-1471d5ba7490f5819232fda8d32e7c55]*-Phenethyl-4-piperidone (also referred to as NPP)
+- *N[^c-1471d5ba7490f5819232fda8d32e7c55]*-Phenethyl-4-piperidone (also referred to as NPP)
 - *N*-phenyl-N-(piperidin-4-yl)propanamide (also referred to as norfentanyl)
 - *alpha*-Phenylacetoacetamide (also referred to as APAA)
 - *alpha*-Phenylacetoacetonitrile (also referred to as APAAN)
 - *N*-Phenyl-4-piperidinamine (also referred to as 4-AP)
 - 1-Phenyl-2-propanone
-- P-2-P methyl glycidic acid (also referred to as BMK glycidic acid)[^key-a495c753022d4a197934af6d647d8efd]
+- P-2-P methyl glycidic acid (also referred to as BMK glycidic acid)[^c-a495c753022d4a197934af6d647d8efd]
 - 4-Piperidone
 - Piperonal
 - Pseudoephedrine
 - Safrole
 - The salts of the substances listed in this Table whenever the existence of such salts is possible.
 
-*Note[^key-e6ad55c2c21eea4185b837801acb9f59]*
+*Note[^c-e6ad55c2c21eea4185b837801acb9f59]*
 
 The entries for the following substances include their ethyl, methyl, propyl, isopropyl, butyl, isobutyl, *sec*-butyl and *tert*-butyl esters—
 
@@ -593,7 +593,7 @@ Section 31(1).
 
 ### The Misuse of Drugs Act 1971[^c11938491]
 
-**1.**[^key-65ea7b01d6b4495a042478247c98bf34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-65ea7b01d6b4495a042478247c98bf34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Magistrates’ Courts Act 1980[^c11938541]
 
@@ -643,7 +643,7 @@ and in paragraph (d) for “or (c)” there shall be substituted, “ (c) or (cc
 
 **6.**[^c11938711] (1) The Criminal Justice Act 1988 shall be amended as follows.
 
-(2)[^key-1f5ec66f9e6e0cf476c44051708aaafa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1f5ec66f9e6e0cf476c44051708aaafa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph 6(1) of Schedule 13 for the words “In section 29 above “**criminal proceedings**” does not include proceedings before a Service court” there shall be substituted the words “ No application shall be made under section 3 of the Criminal Justice (International Co-operation) Act 1990 in relation to any offence which is or is to be the subject of proceedings before a Service court ”.
 
@@ -653,7 +653,7 @@ and in paragraph (d) for “or (c)” there shall be substituted, “ (c) or (cc
 
 ### The Criminal Justice (Evidence, Etc.)(Northern Ireland) Order 1988[^c11938761]
 
-**8.**[^key-f0e430b892ac7b5ff32a996771429525] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f0e430b892ac7b5ff32a996771429525] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 5 — Repeals[^c11938781]
 
@@ -677,11 +677,11 @@ Section 31(3).
 
 [^c11934191]: Commencement: [Pt. I](https://www.legislation.gov.uk/ukpga/1990/5/part/I) partly in force for certain purposes at 23.4.1991 and wholly in force at 10.6.1991, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/1990/5/section/32/2) and [S.I. 1991/1072](https://www.legislation.gov.uk/uksi/1991/1072), [arts. 2(a)](https://www.legislation.gov.uk/uksi/1991/1072/article/2/a), [3](https://www.legislation.gov.uk/uksi/1991/1072/article/3), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1991/1072/schedule/part/I)
 
-[^key-ea92d927e0562580808caa2308ac073f]: Textual amendment: [Ss. 1-4](https://www.legislation.gov.uk/ukpga/1990/5/section/1) repealed (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 42](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/42), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/32/schedule/6); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3) (with savings in [S.I. 2004/787](https://www.legislation.gov.uk/uksi/2004/787), [arts. 3](https://www.legislation.gov.uk/uksi/2004/787/article/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4))
+[^c-ea92d927e0562580808caa2308ac073f]: Textual amendment: [Ss. 1-4](https://www.legislation.gov.uk/ukpga/1990/5/section/1) repealed (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 42](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/42), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/32/schedule/6); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3) (with savings in [S.I. 2004/787](https://www.legislation.gov.uk/uksi/2004/787), [arts. 3](https://www.legislation.gov.uk/uksi/2004/787/article/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4))
 
 [^c11934211]: Modification: Ss. 1-6, 8-10, 12-16, 18-21, 24-30, 32, Schs. 1-3 extended (with modifications) (to Anguilla) (14.7.1994) by [S.I. 1994/1635](https://www.legislation.gov.uk/uksi/1994/1635), [art.2](https://www.legislation.gov.uk/uksi/1994/1635/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/1635/schedule/1)
 
-[^key-2f26052ddb0d1b3240b27d8a08ce90dc]: Modification: Ss. 1-4 savings for effects of 2003 c. 32, Sch. 5 para. 42 Sch. 6 (E.W.N.I.) (26.4.2004) by [The Crime (International Co-operation) Act 2003 (Savings) Order 2004 (S.I. 2004/787)](https://www.legislation.gov.uk/uksi/2004/787), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/787/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/787/article/3/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4)
+[^c-2f26052ddb0d1b3240b27d8a08ce90dc]: Modification: Ss. 1-4 savings for effects of 2003 c. 32, Sch. 5 para. 42 Sch. 6 (E.W.N.I.) (26.4.2004) by [The Crime (International Co-operation) Act 2003 (Savings) Order 2004 (S.I. 2004/787)](https://www.legislation.gov.uk/uksi/2004/787), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/787/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/787/article/3/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4)
 
 [^c11934231]: Modification: Ss. 1-6, 8-10, 12-16, 18-21, 24-30, 32, Schs. 1-3 extended (with modifications) (to Anguilla) (14.7.1994) by [S.I. 1994/1635](https://www.legislation.gov.uk/uksi/1994/1635), [art.2](https://www.legislation.gov.uk/uksi/1994/1635/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/1635/schedule/1)
 
@@ -693,19 +693,19 @@ Section 31(3).
 
 [^c11934541]: Modification: S. 5 extended (with modifications) (to Anguilla) (14.7.1994) by [S.I. 1994/1635](https://www.legislation.gov.uk/uksi/1994/1635), [art. 2](https://www.legislation.gov.uk/uksi/1994/1635/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/1635/schedule/1)
 
-[^key-8ad942e73cece89db888963aecceaa5b]: Modification: S. 5 modified (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 324(3)](https://www.legislation.gov.uk/ukpga/2006/52/section/324/3), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-8ad942e73cece89db888963aecceaa5b]: Modification: S. 5 modified (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 324(3)](https://www.legislation.gov.uk/ukpga/2006/52/section/324/3), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c11934551]: Marginal citation: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52).
 
 [^c11934561]: Marginal citation: [1989 c. 45](https://www.legislation.gov.uk/ukpga/1989/45).
 
-[^key-b779ce955760a1d1fcb782b4a8dc60c7]: Textual amendment: S. 5(3A) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-b779ce955760a1d1fcb782b4a8dc60c7]: Textual amendment: S. 5(3A) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^M_C_5d2d2607-7a2a-401d-c115-6a32ac2376a1]: Modification: S. 5(3A)-(8) applied (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [ss. 47(9)](https://www.legislation.gov.uk/ukpga/2003/32/section/47/9), [94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/786/article/3/2)
 
-[^key-b7d7b5dea8dd37a0e07cd35a57783b48]: Modification: S. 5(4)-(8) applied (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [ss. 48(7)](https://www.legislation.gov.uk/ukpga/2003/32/section/48/7), [94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/786/article/3/2)
+[^c-b7d7b5dea8dd37a0e07cd35a57783b48]: Modification: S. 5(4)-(8) applied (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [ss. 48(7)](https://www.legislation.gov.uk/ukpga/2003/32/section/48/7), [94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/786/article/3/2)
 
-[^key-8ac1d9a45a89a1b8102c6a6f3558814d]: Modification: S. 5(4)-(8) applied (31.7.2017) by [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [20(6)](https://www.legislation.gov.uk/uksi/2017/730/regulation/20/6), 21(7), 54(7), [55(6)](https://www.legislation.gov.uk/uksi/2017/730/regulation/55/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3))
+[^c-8ac1d9a45a89a1b8102c6a6f3558814d]: Modification: S. 5(4)-(8) applied (31.7.2017) by [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [20(6)](https://www.legislation.gov.uk/uksi/2017/730/regulation/20/6), 21(7), 54(7), [55(6)](https://www.legislation.gov.uk/uksi/2017/730/regulation/55/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3))
 
 [^c11934571]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).
 
@@ -721,17 +721,17 @@ Section 31(3).
 
 [^c11934651]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-37277c83ed7d4d20e22a06e896c36944]: Textual amendment: Words in [s. 6(7)](https://www.legislation.gov.uk/ukpga/1990/5/section/6/7) substituted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 27](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/27); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 48(k)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/48/k)
+[^c-37277c83ed7d4d20e22a06e896c36944]: Textual amendment: Words in [s. 6(7)](https://www.legislation.gov.uk/ukpga/1990/5/section/6/7) substituted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 27](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/27); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 48(k)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/48/k)
 
-[^key-fc3cb7eb399f5e394f47c49f95b18d61]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1990/5/section/7) repealed (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 42](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/42), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/32/schedule/6); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3) (with savings in [S.I. 2004/787](https://www.legislation.gov.uk/uksi/2004/787), [arts. 3](https://www.legislation.gov.uk/uksi/2004/787/article/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4))
+[^c-fc3cb7eb399f5e394f47c49f95b18d61]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1990/5/section/7) repealed (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 42](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/42), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/32/schedule/6); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3) (with savings in [S.I. 2004/787](https://www.legislation.gov.uk/uksi/2004/787), [arts. 3](https://www.legislation.gov.uk/uksi/2004/787/article/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4))
 
-[^key-6d313a69c24d4d6ade274495ce834965]: Modification: S. 7 savings for effects of 2003 c. 32, Sch. 5 para. 42 Sch. 6 (E.W.) (26.4.2004) by [The Crime (International Co-operation) Act 2003 (Savings) Order 2004 (S.I. 2004/787)](https://www.legislation.gov.uk/uksi/2004/787), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/787/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/787/article/3/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4)
+[^c-6d313a69c24d4d6ade274495ce834965]: Modification: S. 7 savings for effects of 2003 c. 32, Sch. 5 para. 42 Sch. 6 (E.W.) (26.4.2004) by [The Crime (International Co-operation) Act 2003 (Savings) Order 2004 (S.I. 2004/787)](https://www.legislation.gov.uk/uksi/2004/787), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/787/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/787/article/3/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4)
 
-[^key-baa0ed11ee8f03bbed736c3821f572de]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1990/5/section/8) repealed (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 42](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/42), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/32/schedule/6); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3) (with savings in [S.I. 2004/787](https://www.legislation.gov.uk/uksi/2004/787), [arts. 3](https://www.legislation.gov.uk/uksi/2004/787/article/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4))
+[^c-baa0ed11ee8f03bbed736c3821f572de]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1990/5/section/8) repealed (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 42](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/42), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/32/schedule/6); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3) (with savings in [S.I. 2004/787](https://www.legislation.gov.uk/uksi/2004/787), [arts. 3](https://www.legislation.gov.uk/uksi/2004/787/article/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4))
 
 [^c11934881]: Modification: Ss. 1-6, 8-10, 12-16, 18-21, 24-30, 32, Schs. 1-3 extended (with modifications) (to Anguilla) (14.7.1994) by [S.I. 1994/1635](https://www.legislation.gov.uk/uksi/1994/1635), [art.2](https://www.legislation.gov.uk/uksi/1994/1635/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/1635/schedule/1)
 
-[^key-117b0986808c7663a09038d0d03fe763]: Modification: S. 8 savings for effects of 2003 c. 32, Sch. 5 para. 42 Sch. 6 (E.W.N.I.) (26.4.2004) by [The Crime (International Co-operation) Act 2003 (Savings) Order 2004 (S.I. 2004/787)](https://www.legislation.gov.uk/uksi/2004/787), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/787/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/787/article/3/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4)
+[^c-117b0986808c7663a09038d0d03fe763]: Modification: S. 8 savings for effects of 2003 c. 32, Sch. 5 para. 42 Sch. 6 (E.W.N.I.) (26.4.2004) by [The Crime (International Co-operation) Act 2003 (Savings) Order 2004 (S.I. 2004/787)](https://www.legislation.gov.uk/uksi/2004/787), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/787/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/787/article/3/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4)
 
 [^c11935391]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/1990/5/section/9) wholly in force; [s. 9](https://www.legislation.gov.uk/ukpga/1990/5/section/9) in force for certain purposes at 23.4.1991; [s. 9](https://www.legislation.gov.uk/ukpga/1990/5/section/9) wholly in force at 10.6.1991, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/1990/5/section/32/2) and [S.I. 1991/1072](https://www.legislation.gov.uk/uksi/1991/1072), [arts. 2(a)](https://www.legislation.gov.uk/uksi/1991/1072/article/2/a), [3](https://www.legislation.gov.uk/uksi/1991/1072/article/3), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1991/1072/schedule/part/I)
 
@@ -743,7 +743,7 @@ Section 31(3).
 
 [^c11935431]: Textual amendment: S. 9(5) substituted (1.12.1993) by [1993 c. 36](https://www.legislation.gov.uk/ukpga/1993/36), [s. 21(2)(3)(h)](https://www.legislation.gov.uk/ukpga/1993/36/section/21/2/3/h) (with [s. 78(6)](https://www.legislation.gov.uk/ukpga/1993/36/section/78/6)); [S.I. 1993/2734](https://www.legislation.gov.uk/uksi/1993/2734), [art. 2](https://www.legislation.gov.uk/uksi/1993/2734/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1993/2734/schedule)
 
-[^key-a2cc8ea23fe9ecaa0fbec6d070d213d6]: Textual amendment: [S. 9(6)](https://www.legislation.gov.uk/ukpga/1990/5/section/9/6) substituted (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 95](https://www.legislation.gov.uk/ukpga/2005/15/section/95), [178(7)(a)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/7/a); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2005/1521/article/2/1/a)
+[^c-a2cc8ea23fe9ecaa0fbec6d070d213d6]: Textual amendment: [S. 9(6)](https://www.legislation.gov.uk/ukpga/1990/5/section/9/6) substituted (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 95](https://www.legislation.gov.uk/ukpga/2005/15/section/95), [178(7)(a)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/7/a); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2005/1521/article/2/1/a)
 
 [^c11935501]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/1990/5/section/10) wholly in force; [s. 10](https://www.legislation.gov.uk/ukpga/1990/5/section/10) in force for certain purposes at 23.3.1991; [s. 10](https://www.legislation.gov.uk/ukpga/1990/5/section/10) wholly in force at 10.6.1991, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/1990/5/section/32/2) and [S.I. 1991/1072](https://www.legislation.gov.uk/uksi/1991/1072), [arts. 2(a)](https://www.legislation.gov.uk/uksi/1991/1072/article/2/a), [3](https://www.legislation.gov.uk/uksi/1991/1072/article/3), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1991/1072/schedule/part/I)
 
@@ -753,9 +753,9 @@ Section 31(3).
 
 [^c11935521]: Modification: Ss. 1-6, 8-10, 12-16, 18-21, 24-30, 32, Schs. 1-3 extended (with modifications) (to Anguilla) (14.7.1994) by [S.I. 1994/1635](https://www.legislation.gov.uk/uksi/1994/1635), [art. 2](https://www.legislation.gov.uk/uksi/1994/1635/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/1635/schedule/1)
 
-[^key-56d1cad68ca61347e12e5e0df016106c]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1990/5/section/11) repealed (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 42](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/42), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/32/schedule/6); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3) (with savings in [S.I. 2004/787](https://www.legislation.gov.uk/uksi/2004/787), [arts. 3](https://www.legislation.gov.uk/uksi/2004/787/article/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4))
+[^c-56d1cad68ca61347e12e5e0df016106c]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1990/5/section/11) repealed (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 42](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/42), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/32/schedule/6); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3) (with savings in [S.I. 2004/787](https://www.legislation.gov.uk/uksi/2004/787), [arts. 3](https://www.legislation.gov.uk/uksi/2004/787/article/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4))
 
-[^key-ebabca097a7756efa5b156b5e12d824b]: Modification: S. 11 savings for effects of 2003 c. 32, Sch. 5 para. 42 Sch. 6 (E.W.N.I.) (26.4.2004) by [The Crime (International Co-operation) Act 2003 (Savings) Order 2004 (S.I. 2004/787)](https://www.legislation.gov.uk/uksi/2004/787), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/787/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/787/article/3/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4)
+[^c-ebabca097a7756efa5b156b5e12d824b]: Modification: S. 11 savings for effects of 2003 c. 32, Sch. 5 para. 42 Sch. 6 (E.W.N.I.) (26.4.2004) by [The Crime (International Co-operation) Act 2003 (Savings) Order 2004 (S.I. 2004/787)](https://www.legislation.gov.uk/uksi/2004/787), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/787/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/787/article/3/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4)
 
 [^c11935601]: Commencement: [Pt. II](https://www.legislation.gov.uk/ukpga/1990/5/part/II) partly in force for certain purposes at 23.4.1991 and wholly in force at 1.7.1991, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/1990/5/section/32/2) and [S.I. 1991/1072](https://www.legislation.gov.uk/uksi/1991/1072), [arts. 2(b)](https://www.legislation.gov.uk/uksi/1991/1072/article/2/b), [3](https://www.legislation.gov.uk/uksi/1991/1072/article/3), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1991/1072/schedule/part/II)
 
@@ -781,13 +781,13 @@ Section 31(3).
 
     S. 13(5)(a) modified (6.10.1993) by [S.I. 1993/2166](https://www.legislation.gov.uk/uksi/1993/2166), [reg. 7](https://www.legislation.gov.uk/uksi/1993/2166/regulation/7).
 
-[^key-e0c03e0c748c63acbf861a3ac44e371e]: Modification: [S. 13(5)(a)](https://www.legislation.gov.uk/ukpga/1990/5/section/13/5/a) modified (7.3.2008) by [Controlled Drugs (Drug Precursors) (Community External Trade) Regulations 2008 (S.I. 2008/296)](https://www.legislation.gov.uk/uksi/2008/296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/296/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2008/296/regulation/5/2)
+[^c-e0c03e0c748c63acbf861a3ac44e371e]: Modification: [S. 13(5)(a)](https://www.legislation.gov.uk/ukpga/1990/5/section/13/5/a) modified (7.3.2008) by [Controlled Drugs (Drug Precursors) (Community External Trade) Regulations 2008 (S.I. 2008/296)](https://www.legislation.gov.uk/uksi/2008/296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/296/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2008/296/regulation/5/2)
 
-[^key-01664a31fc8bbac96214a4583c1bd247]: Textual amendment: Words in s. 13(6) omitted (24.3.2003) by virtue of [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 21(a)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/21/a), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
+[^c-01664a31fc8bbac96214a4583c1bd247]: Textual amendment: Words in s. 13(6) omitted (24.3.2003) by virtue of [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 21(a)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/21/a), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
 
-[^key-4ccc3d23ef8022975f0b94d936ae4bd2]: Textual amendment: Words in s. 13(6) inserted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 21(b)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/21/b); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7)); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
+[^c-4ccc3d23ef8022975f0b94d936ae4bd2]: Textual amendment: Words in s. 13(6) inserted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 21(b)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/21/b); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7)); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
 
-[^key-b1395a9e6c2abf4cb1f2117ba9b01d9c]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1990/5/section/14) repealed (E.W.) (3.2.1995) by [1994 c. 37](https://www.legislation.gov.uk/ukpga/1994/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/1994/37/section/67/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/1994/37/schedule/3); and repealed (N.I.) (25.8.1996) by [S.I. 1996/1299 (N.I. 9)](https://www.legislation.gov.uk/nisi/1996/1299), [art. 57(3)](https://www.legislation.gov.uk/nisi/1996/1299/article/57/3), [Sch. 5](https://www.legislation.gov.uk/nisi/1996/1299/schedule/5); and expressed to be repealed (N.I.) (1.1.1998) by [S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160), [art. 58(3)](https://www.legislation.gov.uk/nisi/1996/3160/article/58/3), [Sch.7](https://www.legislation.gov.uk/nisi/1996/3160/schedule/7); [S.R. 1997/523](https://www.legislation.gov.uk/nisr/1997/523), [art. 2(k)](https://www.legislation.gov.uk/nisr/1997/523/article/2/k); and otherwise repealed (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 14](https://www.legislation.gov.uk/uksi/2003/333/article/14))
+[^c-b1395a9e6c2abf4cb1f2117ba9b01d9c]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1990/5/section/14) repealed (E.W.) (3.2.1995) by [1994 c. 37](https://www.legislation.gov.uk/ukpga/1994/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/1994/37/section/67/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/1994/37/schedule/3); and repealed (N.I.) (25.8.1996) by [S.I. 1996/1299 (N.I. 9)](https://www.legislation.gov.uk/nisi/1996/1299), [art. 57(3)](https://www.legislation.gov.uk/nisi/1996/1299/article/57/3), [Sch. 5](https://www.legislation.gov.uk/nisi/1996/1299/schedule/5); and expressed to be repealed (N.I.) (1.1.1998) by [S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160), [art. 58(3)](https://www.legislation.gov.uk/nisi/1996/3160/article/58/3), [Sch.7](https://www.legislation.gov.uk/nisi/1996/3160/schedule/7); [S.R. 1997/523](https://www.legislation.gov.uk/nisr/1997/523), [art. 2(k)](https://www.legislation.gov.uk/nisr/1997/523/article/2/k); and otherwise repealed (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 14](https://www.legislation.gov.uk/uksi/2003/333/article/14))
 
 [^c11936471]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/1990/5/section/15) wholly in force at 1.7.1991, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/1990/5/section/32/2) and [S.I. 1991/1072](https://www.legislation.gov.uk/uksi/1991/1072), [art. 2(b)](https://www.legislation.gov.uk/uksi/1991/1072/article/2/b), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1991/1072/schedule/part/II)
 
@@ -819,9 +819,9 @@ Section 31(3).
 
 [^c11936721]: Marginal citation: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38).
 
-[^key-c25e38fb2317df42c3bb57d8097990e3]: Textual amendment: Words in s. 19 inserted (15.11.2011) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 17 para. 22](https://www.legislation.gov.uk/ukpga/2011/13/schedule/17/paragraph/22); [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/g)
+[^c-c25e38fb2317df42c3bb57d8097990e3]: Textual amendment: Words in s. 19 inserted (15.11.2011) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 17 para. 22](https://www.legislation.gov.uk/ukpga/2011/13/schedule/17/paragraph/22); [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/g)
 
-[^key-552912a4abba3c964c3365e83f845546]: Textual amendment: Words in s. 19(4)(c)(ii) substituted (29.1.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 28 para. 3](https://www.legislation.gov.uk/ukpga/2003/44/schedule/28/paragraph/3); [S.I. 2004/81](https://www.legislation.gov.uk/uksi/2004/81), [art. 4(1)](https://www.legislation.gov.uk/uksi/2004/81/article/4/1)[(2)(k)](https://www.legislation.gov.uk/uksi/2004/81/article/4/2/k)
+[^c-552912a4abba3c964c3365e83f845546]: Textual amendment: Words in s. 19(4)(c)(ii) substituted (29.1.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 28 para. 3](https://www.legislation.gov.uk/ukpga/2003/44/schedule/28/paragraph/3); [S.I. 2004/81](https://www.legislation.gov.uk/uksi/2004/81), [art. 4(1)](https://www.legislation.gov.uk/uksi/2004/81/article/4/1)[(2)(k)](https://www.legislation.gov.uk/uksi/2004/81/article/4/2/k)
 
 [^c11936741]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/1990/5/section/20) wholly in force at 1.7.1991, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/1990/5/section/32/2) and [S.I. 1991/1072](https://www.legislation.gov.uk/uksi/1991/1072), [art. 2(b)](https://www.legislation.gov.uk/uksi/1991/1072/article/2/b), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1991/1072/schedule/part/II)
 
@@ -835,13 +835,13 @@ Section 31(3).
 
 [^c11936931]: Modification: S. 21 extended (with modifications) (to Anguilla) (14.7.1994) by [S.I. 1994/1635](https://www.legislation.gov.uk/uksi/1994/1635), [art. 2](https://www.legislation.gov.uk/uksi/1994/1635/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/1635/schedule/1).
 
-[^key-45cff0eeebd96f934ca5e938a3b94401]: Textual amendment: Words in s. 21(2)(a) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/8)
+[^c-45cff0eeebd96f934ca5e938a3b94401]: Textual amendment: Words in s. 21(2)(a) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/8)
 
 [^c11936941]: Textual amendment: Words in [s. 21(3)](https://www.legislation.gov.uk/ukpga/1990/5/section/21/3) substituted (1.12.1993) by [1993 c. 36](https://www.legislation.gov.uk/ukpga/1993/36), [s. 23(2)(b)](https://www.legislation.gov.uk/ukpga/1993/36/section/23/2/b) (with [s. 78(6)](https://www.legislation.gov.uk/ukpga/1993/36/section/78/6)); [S.I. 1993/2734](https://www.legislation.gov.uk/uksi/1993/2734), [art. 2](https://www.legislation.gov.uk/uksi/1993/2734/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1993/2734/schedule)
 
 [^c11936951]: Marginal citation: [1878 c. 73](https://www.legislation.gov.uk/ukpga/1878/73).
 
-[^key-d47d8145d806ab40008cb4bc3b7df0f1]: Textual amendment: [S. 22(1)](https://www.legislation.gov.uk/ukpga/1990/5/section/22/1) repealed (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2003/41/schedule/3/paragraph/6), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/41/schedule/4); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended (11.12.2003) by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), [art. 2](https://www.legislation.gov.uk/uksi/2003/3258/article/2); and (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), [art. 2](https://www.legislation.gov.uk/uksi/2003/3312/article/2))
+[^c-d47d8145d806ab40008cb4bc3b7df0f1]: Textual amendment: [S. 22(1)](https://www.legislation.gov.uk/ukpga/1990/5/section/22/1) repealed (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2003/41/schedule/3/paragraph/6), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/41/schedule/4); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended (11.12.2003) by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), [art. 2](https://www.legislation.gov.uk/uksi/2003/3258/article/2); and (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), [art. 2](https://www.legislation.gov.uk/uksi/2003/3312/article/2))
 
 [^c11937021]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/1990/5/section/23) wholly in force at 1.7.1991, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/1990/5/section/32/2) and [S.I. 1991/1072](https://www.legislation.gov.uk/uksi/1991/1072), [art. 2(b)](https://www.legislation.gov.uk/uksi/1991/1072/article/2/b), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1991/1072/schedule/part/II)
 
@@ -905,7 +905,7 @@ Section 31(3).
 
 [^c11937851]: Textual amendment: Words in [s. 32(4)](https://www.legislation.gov.uk/ukpga/1990/5/section/32/4) inserted (3.2.1995) by [1994 c. 37](https://www.legislation.gov.uk/ukpga/1994/37), [ss. 65(1)](https://www.legislation.gov.uk/ukpga/1994/37/section/65/1), [69(2)](https://www.legislation.gov.uk/ukpga/1994/37/section/69/2), [Sch. 1 para.29](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/29).
 
-[^key-07f8c39d10f6c7a8a6750bae194fc620]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1990/5/schedule/1) repealed (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 44](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/44), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/32/schedule/6); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3) (with savings in [S.I. 2004/787](https://www.legislation.gov.uk/uksi/2004/787), [arts. 3](https://www.legislation.gov.uk/uksi/2004/787/article/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4))
+[^c-07f8c39d10f6c7a8a6750bae194fc620]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1990/5/schedule/1) repealed (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 44](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/44), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/32/schedule/6); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3) (with savings in [S.I. 2004/787](https://www.legislation.gov.uk/uksi/2004/787), [arts. 3](https://www.legislation.gov.uk/uksi/2004/787/article/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4))
 
 [^c11938081]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) wholly in force; [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) in force for certain purposes at 23.4.1991 and wholly in force at 1.7.1991, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/1990/5/section/32/2) and [S.I. 1991/1072](https://www.legislation.gov.uk/uksi/1991/1072), [arts. 2(b)](https://www.legislation.gov.uk/uksi/1991/1072/article/2/b), [3](https://www.legislation.gov.uk/uksi/1991/1072/article/3), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1991/1072/schedule/part/II)
 
@@ -915,19 +915,19 @@ Section 31(3).
 
 [^c11938181]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) Table I inserted (1.1.1993) by [S.I. 1992/2873](https://www.legislation.gov.uk/uksi/1992/2873), [art. 2(a)](https://www.legislation.gov.uk/uksi/1992/2873/article/2/a).
 
-[^key-e175b2d8f49138e5b9c57a2a63b6076e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) Table 1 inserted (1.7.2026) by [The Criminal Justice (International Co-operation) Act 1990 (Amendment) Order 2026 (S.I. 2026/589)](https://www.legislation.gov.uk/uksi/2026/589), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/589/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/589/article/2/2/a)
+[^c-e175b2d8f49138e5b9c57a2a63b6076e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) Table 1 inserted (1.7.2026) by [The Criminal Justice (International Co-operation) Act 1990 (Amendment) Order 2026 (S.I. 2026/589)](https://www.legislation.gov.uk/uksi/2026/589), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/589/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/589/article/2/2/a)
 
-[^key-df520ae2721562a228b82606019978dc]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) Table 1 inserted (1.7.2026) by [The Criminal Justice (International Co-operation) Act 1990 (Amendment) Order 2026 (S.I. 2026/589)](https://www.legislation.gov.uk/uksi/2026/589), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/589/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/589/article/2/2/b)
+[^c-df520ae2721562a228b82606019978dc]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) Table 1 inserted (1.7.2026) by [The Criminal Justice (International Co-operation) Act 1990 (Amendment) Order 2026 (S.I. 2026/589)](https://www.legislation.gov.uk/uksi/2026/589), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/589/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/589/article/2/2/b)
 
-[^key-bb1db6572f20a965fc827d61379ec3b7]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) Table 1 inserted (1.7.2026) by [The Criminal Justice (International Co-operation) Act 1990 (Amendment) Order 2026 (S.I. 2026/589)](https://www.legislation.gov.uk/uksi/2026/589), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/589/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/589/article/2/2/c)
+[^c-bb1db6572f20a965fc827d61379ec3b7]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) Table 1 inserted (1.7.2026) by [The Criminal Justice (International Co-operation) Act 1990 (Amendment) Order 2026 (S.I. 2026/589)](https://www.legislation.gov.uk/uksi/2026/589), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/589/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/589/article/2/2/c)
 
 [^c11938211]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) Table 1 inserted (12.12.2001) by [S.I. 2001/3933](https://www.legislation.gov.uk/uksi/2001/3933), [art. 2](https://www.legislation.gov.uk/uksi/2001/3933/article/2)
 
-[^key-1471d5ba7490f5819232fda8d32e7c55]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) Table 1 inserted (1.7.2026) by [The Criminal Justice (International Co-operation) Act 1990 (Amendment) Order 2026 (S.I. 2026/589)](https://www.legislation.gov.uk/uksi/2026/589), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/589/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2026/589/article/2/2/d)
+[^c-1471d5ba7490f5819232fda8d32e7c55]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) Table 1 inserted (1.7.2026) by [The Criminal Justice (International Co-operation) Act 1990 (Amendment) Order 2026 (S.I. 2026/589)](https://www.legislation.gov.uk/uksi/2026/589), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/589/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2026/589/article/2/2/d)
 
-[^key-a495c753022d4a197934af6d647d8efd]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) Table 1 inserted (1.7.2026) by [The Criminal Justice (International Co-operation) Act 1990 (Amendment) Order 2026 (S.I. 2026/589)](https://www.legislation.gov.uk/uksi/2026/589), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/589/article/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2026/589/article/2/2/e)
+[^c-a495c753022d4a197934af6d647d8efd]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) Table 1 inserted (1.7.2026) by [The Criminal Justice (International Co-operation) Act 1990 (Amendment) Order 2026 (S.I. 2026/589)](https://www.legislation.gov.uk/uksi/2026/589), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/589/article/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2026/589/article/2/2/e)
 
-[^key-e6ad55c2c21eea4185b837801acb9f59]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) inserted (1.7.2026) by [The Criminal Justice (International Co-operation) Act 1990 (Amendment) Order 2026 (S.I. 2026/589)](https://www.legislation.gov.uk/uksi/2026/589), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/589/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/589/article/2/3)
+[^c-e6ad55c2c21eea4185b837801acb9f59]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) inserted (1.7.2026) by [The Criminal Justice (International Co-operation) Act 1990 (Amendment) Order 2026 (S.I. 2026/589)](https://www.legislation.gov.uk/uksi/2026/589), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/589/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/589/article/2/3)
 
 [^c11938251]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) Table 2 wholly in force; [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/5/schedule/2) Table 2 in force for certain purposes at 23.4.1991 and wholly in force at 1.7.1991, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/1990/5/section/32/2) and [S.I. 1991/1072](https://www.legislation.gov.uk/uksi/1991/1072), [arts. 2(b)](https://www.legislation.gov.uk/uksi/1991/1072/article/2/b), [3](https://www.legislation.gov.uk/uksi/1991/1072/article/3), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1991/1072/schedule/part/II)
 
@@ -965,7 +965,7 @@ Section 31(3).
 
 [^c11938491]: Marginal citation: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38).
 
-[^key-65ea7b01d6b4495a042478247c98bf34]: Textual amendment: Sch. 4 para. 1 repealed (24.3.2003 for S.) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2](https://www.legislation.gov.uk/ssi/2003/210/article/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7))
+[^c-65ea7b01d6b4495a042478247c98bf34]: Textual amendment: Sch. 4 para. 1 repealed (24.3.2003 for S.) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2](https://www.legislation.gov.uk/ssi/2003/210/article/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7))
 
 [^c11938541]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
@@ -989,7 +989,7 @@ Section 31(3).
 
 [^c11938711]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/1990/5/schedule/4/paragraph/6) wholly in force at 10.6.1991, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/1990/5/section/32/2) and [S.I. 1991/1072](https://www.legislation.gov.uk/uksi/1991/1072), [art. 2(a)](https://www.legislation.gov.uk/uksi/1991/1072/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1991/1072/schedule/part/I)
 
-[^key-1f5ec66f9e6e0cf476c44051708aaafa]: Textual amendment: [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/ukpga/1990/5/schedule/4/paragraph/6/2) repealed (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/32/schedule/6); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(3)](https://www.legislation.gov.uk/uksi/2004/786/article/3/3) (with savings in [S.I. 2004/787](https://www.legislation.gov.uk/uksi/2004/787), [arts. 3](https://www.legislation.gov.uk/uksi/2004/787/article/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4))
+[^c-1f5ec66f9e6e0cf476c44051708aaafa]: Textual amendment: [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/ukpga/1990/5/schedule/4/paragraph/6/2) repealed (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/32/schedule/6); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(3)](https://www.legislation.gov.uk/uksi/2004/786/article/3/3) (with savings in [S.I. 2004/787](https://www.legislation.gov.uk/uksi/2004/787), [arts. 3](https://www.legislation.gov.uk/uksi/2004/787/article/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4))
 
 [^c11938731]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
@@ -997,6 +997,6 @@ Section 31(3).
 
 [^c11938761]: Marginal citation: [S.I. 1988/1847 (N.I. 17)](https://www.legislation.gov.uk/nisi/1988/1847).
 
-[^key-f0e430b892ac7b5ff32a996771429525]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/1990/5/schedule/4/paragraph/8) repealed (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/32/schedule/6); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(3)](https://www.legislation.gov.uk/uksi/2004/786/article/3/3) (with savings in [S.I. 2004/787](https://www.legislation.gov.uk/uksi/2004/787), [arts. 3](https://www.legislation.gov.uk/uksi/2004/787/article/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4))
+[^c-f0e430b892ac7b5ff32a996771429525]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/1990/5/schedule/4/paragraph/8) repealed (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/32/schedule/6); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(3)](https://www.legislation.gov.uk/uksi/2004/786/article/3/3) (with savings in [S.I. 2004/787](https://www.legislation.gov.uk/uksi/2004/787), [arts. 3](https://www.legislation.gov.uk/uksi/2004/787/article/3), [4](https://www.legislation.gov.uk/uksi/2004/787/article/4))
 
 [^c11938781]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/1990/5/schedule/5) wholly in force: Sch. 5 partly in force at 10.6.1991 and wholly in force 1.7.1991 see [s. 32(2)](https://www.legislation.gov.uk/ukpga/1990/5/section/32/2) and [S.I. 1991/1072](https://www.legislation.gov.uk/uksi/1991/1072), [art. 2](https://www.legislation.gov.uk/uksi/1991/1072/article/2), [Sch](https://www.legislation.gov.uk/uksi/1991/1072/schedule)edule

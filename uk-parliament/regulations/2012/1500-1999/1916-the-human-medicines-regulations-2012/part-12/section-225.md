@@ -41,7 +41,7 @@ summary: ''
 (4) Condition C is that the prescription only medicine—
 
 - (a) does not consist of or contain a substance specified in Schedule 18; and
-- (b) is not a product subject to special medical prescription[^key-1ff49e7b3ba74fc790e15c5831161957], other than a prescription only medicine that—
+- (b) is not a product subject to special medical prescription[^c-1ff49e7b3ba74fc790e15c5831161957], other than a prescription only medicine that—
   - (i) consists of or contains phenobarbital or phenobarbital sodium, and
   - (ii) is sold or supplied for use in the treatment of epilepsy.
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ff49e7b3ba74fc790e15c5831161957]: Textual amendment: Words in reg. 225(4)(b) substituted (E.W.S.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.I. 2014/490)](https://www.legislation.gov.uk/uksi/2014/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/490/regulation/1/2), [5(2)(e)](https://www.legislation.gov.uk/uksi/2014/490/regulation/5/2/e) and words in reg. 225(4)(b) substituted (N.I.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.R. 2014/323)](https://www.legislation.gov.uk/nisr/2014/323), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/323/regulation/1/2), [5(2)(e)](https://www.legislation.gov.uk/nisr/2014/323/regulation/5/2/e)
+[^c-1ff49e7b3ba74fc790e15c5831161957]: Textual amendment: Words in reg. 225(4)(b) substituted (E.W.S.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.I. 2014/490)](https://www.legislation.gov.uk/uksi/2014/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/490/regulation/1/2), [5(2)(e)](https://www.legislation.gov.uk/uksi/2014/490/regulation/5/2/e) and words in reg. 225(4)(b) substituted (N.I.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.R. 2014/323)](https://www.legislation.gov.uk/nisr/2014/323), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/323/regulation/1/2), [5(2)(e)](https://www.legislation.gov.uk/nisr/2014/323/regulation/5/2/e)

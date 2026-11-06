@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48AA. Category B retirement pension for divorcee or former civil partner[^key-17d5e2fdbcb572162c84cdaaafff4334]
+## 48AA. Category B retirement pension for divorcee or former civil partner[^c-17d5e2fdbcb572162c84cdaaafff4334]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (2) But subsection (1) does not confer a right to a Category B retirement pension on a man whose former spouse was born before 6 April 1950.
 
-(2A)[^key-be39ea85aea6fbc9d233473b469f2eea] And subsection (1) does not confer a right to a Category B retirement pension on a woman whose former wife was born before 6 April 1950.
+(2A)[^c-be39ea85aea6fbc9d233473b469f2eea] And subsection (1) does not confer a right to a Category B retirement pension on a woman whose former wife was born before 6 April 1950.
 
 (3) A person who has been in a civil partnership that has been dissolved is entitled to a Category B retirement pension by virtue of the contributions of his or her former civil partner if—
 
@@ -56,12 +56,12 @@ summary: ''
 
 (8) A voidable marriage or civil partnership which has been annulled is to be treated for the purposes of this section as if it had been a valid marriage or civil partnership which was dissolved at the date of annulment.
 
-(9)[^key-46b5dd2f727ccb24226a65ae6227d63c] Section 51ZA contains special rules for cases involving changes in gender.
+(9)[^c-46b5dd2f727ccb24226a65ae6227d63c] Section 51ZA contains special rules for cases involving changes in gender.
 
 ## Annotations
 
-[^key-17d5e2fdbcb572162c84cdaaafff4334]: Textual amendment: Ss. 48A, 48AA substituted for s. 48A (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 52](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/52)
+[^c-17d5e2fdbcb572162c84cdaaafff4334]: Textual amendment: Ss. 48A, 48AA substituted for s. 48A (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 52](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/52)
 
-[^key-be39ea85aea6fbc9d233473b469f2eea]: Textual amendment: [S. 48AA(2A)](https://www.legislation.gov.uk/ukpga/1992/7/section/48AA/2A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [66(7)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/66/7/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-be39ea85aea6fbc9d233473b469f2eea]: Textual amendment: [S. 48AA(2A)](https://www.legislation.gov.uk/ukpga/1992/7/section/48AA/2A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [66(7)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/66/7/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-46b5dd2f727ccb24226a65ae6227d63c]: Textual amendment: [S. 48AA(9)](https://www.legislation.gov.uk/ukpga/1992/7/section/48AA/9) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [66(7)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/66/7/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-46b5dd2f727ccb24226a65ae6227d63c]: Textual amendment: [S. 48AA(9)](https://www.legislation.gov.uk/ukpga/1992/7/section/48AA/9) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [66(7)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/66/7/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

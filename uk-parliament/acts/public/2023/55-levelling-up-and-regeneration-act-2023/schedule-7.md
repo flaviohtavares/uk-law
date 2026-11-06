@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 7 — Plan making[^key-74735d5fe01ca243de703b88f59ddf9f][^key-255331e9f6ce9d6c1ef2bf1b36b7bb4d][^key-b33842727cf2655d91a651260c0661c4]
+## Schedule 7 — Plan making[^c-74735d5fe01ca243de703b88f59ddf9f][^c-255331e9f6ce9d6c1ef2bf1b36b7bb4d][^c-b33842727cf2655d91a651260c0661c4]
 
 *Extent: E+W+S+N.I.*
 
 Section 97
 
-[^key-255331e9f6ce9d6c1ef2bf1b36b7bb4d][^key-b33842727cf2655d91a651260c0661c4]
+[^c-255331e9f6ce9d6c1ef2bf1b36b7bb4d][^c-b33842727cf2655d91a651260c0661c4]
 
 In Part 2 of PCPA 2004 (local development) for sections 15 to 37 (and the heading before section 15) substitute—
 
@@ -1415,8 +1415,8 @@ In Part 2 of PCPA 2004 (local development) for sections 15 to 37 (and the headin
 
 ## Annotations
 
-[^key-74735d5fe01ca243de703b88f59ddf9f]: Commencement: Sch. 7 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-74735d5fe01ca243de703b88f59ddf9f]: Commencement: Sch. 7 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-255331e9f6ce9d6c1ef2bf1b36b7bb4d]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/7) in force at 3.3.2026 for specified purposes by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 2](https://www.legislation.gov.uk/uksi/2026/169/regulation/2)
+[^c-255331e9f6ce9d6c1ef2bf1b36b7bb4d]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/7) in force at 3.3.2026 for specified purposes by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 2](https://www.legislation.gov.uk/uksi/2026/169/regulation/2)
 
-[^key-b33842727cf2655d91a651260c0661c4]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/7) in force at 25.3.2026 for specified purposes by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/169/schedule/2)) (as amended by S.I. 2026/333, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/333/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/333/regulation/2))
+[^c-b33842727cf2655d91a651260c0661c4]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/7) in force at 25.3.2026 for specified purposes by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/169/schedule/2)) (as amended by S.I. 2026/333, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/333/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/333/regulation/2))

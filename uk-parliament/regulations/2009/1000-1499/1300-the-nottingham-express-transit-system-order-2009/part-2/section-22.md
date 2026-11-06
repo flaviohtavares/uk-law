@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Safeguarding works to buildings[^key-c29c07fe2e15d7b156747e2a7035356d]
+## 22. Safeguarding works to buildings[^c-c29c07fe2e15d7b156747e2a7035356d]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ the promoter shall compensate the owners and occupiers of the building for any d
 
 ## Annotations
 
-[^key-c29c07fe2e15d7b156747e2a7035356d]: Commencement: Art. 22 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-c29c07fe2e15d7b156747e2a7035356d]: Commencement: Art. 22 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

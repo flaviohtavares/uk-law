@@ -44,7 +44,7 @@ he shall be guilty in that part of the United Kingdom of the offence.
 
 (4) The Secretary of State may specify a body under subsection (3)(d) only if—
 
-- (a) it is established by or under the Treaty on the Functioning of the European Union[^key-a6c23a6b51d6f6f25a01bd7d764e0491] or the Treaty on European Union, and
+- (a) it is established by or under the Treaty on the Functioning of the European Union[^c-a6c23a6b51d6f6f25a01bd7d764e0491] or the Treaty on European Union, and
 - (b) the principal place in which its functions are carried out is a place in the United Kingdom.
 
 (5) If in any proceedings a question arises as to whether a person is or was a protected person, a certificate—
@@ -60,4 +60,4 @@ is to be conclusive evidence of that fact.
 
 [^c16754991]: Textual amendment: Words in s. 63C(3)(c) substituted (1.1.2005) by [The Medicines (Marketing Authorisations and Miscellaneous Amendments) Regulations 2004 (S.I. 2004/3224)](https://www.legislation.gov.uk/uksi/2004/3224), [reg. 4](https://www.legislation.gov.uk/uksi/2004/3224/regulation/4)
 
-[^key-a6c23a6b51d6f6f25a01bd7d764e0491]: Textual amendment: Words in s. 63C(4)(a) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
+[^c-a6c23a6b51d6f6f25a01bd7d764e0491]: Textual amendment: Words in s. 63C(4)(a) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))

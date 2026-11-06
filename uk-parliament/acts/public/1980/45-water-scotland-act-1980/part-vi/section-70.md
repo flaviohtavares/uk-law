@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Byelaws for preventing misuse of water.[^c13462251][^key-54a0e0e1da6f0b075213320269b0bc06]
+## 70. Byelaws for preventing misuse of water.[^c13462251][^c-54a0e0e1da6f0b075213320269b0bc06]
 
 *Extent: S*
 
@@ -42,7 +42,7 @@ Provided that Scottish Water[^c18236501] [^c13462261]... shall, in such manner a
 
 [^c13462251]: Modification: S. 70 amended (27.8.1993) by [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12), [s. 40(4)](https://www.legislation.gov.uk/ukpga/1993/12/section/40/4), [Sch. 3 Pt. II para. 17](https://www.legislation.gov.uk/ukpga/1993/12/schedule/3/part/II/paragraph/17) (with [ss. 42](https://www.legislation.gov.uk/ukpga/1993/12/section/42), [46](https://www.legislation.gov.uk/ukpga/1993/12/section/46))
 
-[^key-54a0e0e1da6f0b075213320269b0bc06]: Modification: S. 70 restricted (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 8 para. 39(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/39/2/a/vi) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-54a0e0e1da6f0b075213320269b0bc06]: Modification: S. 70 restricted (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 8 para. 39(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/39/2/a/vi) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
 
 [^c18236321]: Textual amendment: Words in s. 70(1) substituted (1.4.2002) by [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3), [s. 71(1)](https://www.legislation.gov.uk/asp/2002/3/section/71/1), [Sch. 6 para. 44(2)(a)](https://www.legislation.gov.uk/asp/2002/3/schedule/6/paragraph/44/2/a) (with [s. 67](https://www.legislation.gov.uk/asp/2002/3/section/67)); [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2(3)](https://www.legislation.gov.uk/ssi/2002/118/article/2/3)
 

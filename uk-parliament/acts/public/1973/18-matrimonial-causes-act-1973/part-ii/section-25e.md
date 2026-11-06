@@ -61,7 +61,7 @@ and, accordingly, in relation to PPF compensation, section 25(2)(a) shall have e
 - “ **the Board** ” means the Board of the Pension Protection Fund;
 - “ **occupational pension scheme** ” has the same meaning as in the Pension Schemes Act 1993;
 - “ **prescribed** ” means prescribed by regulations;
-- [^key-b2f4d0c79c6fc851b076432d5ddfb7e6] ...
+- [^c-b2f4d0c79c6fc851b076432d5ddfb7e6] ...
 - “ **regulations** ” means regulations made by the Lord Chancellor;
 - “shareable rights” are rights in relation to which pension sharing is available under Chapter 1 of Part 4 of the Welfare Reform and Pensions Act 1999 or any provision in force in Northern Ireland corresponding to that Chapter;
 - “ **transfer notice** ” has the same meaning as in section 160 of the Pensions Act 2004 or any corresponding provision in force in Northern Ireland.
@@ -72,4 +72,4 @@ and, accordingly, in relation to PPF compensation, section 25(2)(a) shall have e
 
 [^c19325931]: Textual amendment: S. 25E inserted (1.1.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 319(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/319/1), [322](https://www.legislation.gov.uk/ukpga/2004/35/section/322), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/3); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/3) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2005/3331/article/3))
 
-[^key-b2f4d0c79c6fc851b076432d5ddfb7e6]: Textual amendment: Words in s. 25E(9) repealed (6.4.2011) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2008/30/schedule/6/paragraph/6), [Sch. 11 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/4); [S.I. 2011/664](https://www.legislation.gov.uk/uksi/2011/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/2)
+[^c-b2f4d0c79c6fc851b076432d5ddfb7e6]: Textual amendment: Words in s. 25E(9) repealed (6.4.2011) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2008/30/schedule/6/paragraph/6), [Sch. 11 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/4); [S.I. 2011/664](https://www.legislation.gov.uk/uksi/2011/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/2)

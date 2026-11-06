@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Non-assignability[^key-74c9cfa2e58dc288bfbf80807e30714e]
+## 53. Non-assignability[^c-74c9cfa2e58dc288bfbf80807e30714e]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74c9cfa2e58dc288bfbf80807e30714e]: Commencement: Reg. 53 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-74c9cfa2e58dc288bfbf80807e30714e]: Commencement: Reg. 53 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00044]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45); section 310 was amended by the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), section 122, the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), section 18 and the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), section 259 and section 310A was inserted by the Enterprise Act 2002, section 260.

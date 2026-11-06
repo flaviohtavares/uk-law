@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — CLASSES OR DESCRIPTIONS OF PLANNED EXPENDITURE PRESCRIBED FOR THE PURPOSES OF THE NON-SCHOOLS EDUCATION BUDGET OF A LOCAL AUTHORITY[^key-6e293e5cbca83103ea9104dfccb01cc9]
+## SCHEDULE 1 — CLASSES OR DESCRIPTIONS OF PLANNED EXPENDITURE PRESCRIBED FOR THE PURPOSES OF THE NON-SCHOOLS EDUCATION BUDGET OF A LOCAL AUTHORITY[^c-6e293e5cbca83103ea9104dfccb01cc9]
 
 *Extent: E+W*
 
@@ -24,48 +24,48 @@ summary: ''
 
 Regulation 4
 
-### 1. Special educational provision[^key-6e293e5cbca83103ea9104dfccb01cc9]
+### 1. Special educational provision[^c-6e293e5cbca83103ea9104dfccb01cc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Access to education[^key-6e293e5cbca83103ea9104dfccb01cc9]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**12.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 13. Additional education and training for children, young persons and adults[^key-6e293e5cbca83103ea9104dfccb01cc9]
+### 8. Access to education[^c-6e293e5cbca83103ea9104dfccb01cc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Other functions[^key-6e293e5cbca83103ea9104dfccb01cc9]
+**10.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Additional education and training for children, young persons and adults[^c-6e293e5cbca83103ea9104dfccb01cc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 15. Other functions[^c-6e293e5cbca83103ea9104dfccb01cc9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^c-6e293e5cbca83103ea9104dfccb01cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e293e5cbca83103ea9104dfccb01cc9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/66) revoked (except for reg. 45) (1.4.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [reg. 2](https://www.legislation.gov.uk/uksi/2026/37/regulation/2)
+[^c-6e293e5cbca83103ea9104dfccb01cc9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/66) revoked (except for reg. 45) (1.4.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [reg. 2](https://www.legislation.gov.uk/uksi/2026/37/regulation/2)

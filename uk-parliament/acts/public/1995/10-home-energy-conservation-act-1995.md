@@ -33,7 +33,7 @@ An Act to make provision for the drawing up of local energy conservation reports
 
 \[28th June 1995\]
 
-[^c830515] Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:— *(affected by repeal, see note)*[^key-61227708e2343cb50fa440af6276a2e3] [^key-21ce8bd0bcdbe2b7b353b342cd4d310d]
+[^c830515] Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:— *(affected by repeal, see note)*[^c-61227708e2343cb50fa440af6276a2e3] [^c-21ce8bd0bcdbe2b7b353b342cd4d310d]
 
 ## 1. Interpretation.[^c830535]
 
@@ -43,13 +43,13 @@ An Act to make provision for the drawing up of local energy conservation reports
   - (a) in England and Wales, a local housing authority within the meaning of the [^c830536] Housing Act 1985,
   - (b) in Scotland, a local authority within the meaning of the [^c830537] Housing (Scotland) Act 1987, and
   - (c) in Northern Ireland, the Northern Ireland Housing Executive;
-- “ **energy conservation measures** ” includes information, advice, education, promotion, any available financial assistance,[^key-0ea594b31e58e984488e4ce9503e3a1e] making grants and loans and carrying out works;
+- “ **energy conservation measures** ” includes information, advice, education, promotion, any available financial assistance,[^c-0ea594b31e58e984488e4ce9503e3a1e] making grants and loans and carrying out works;
 - “ **residential accommodation** ” means—
   - (a) premises occupied or intended to be occupied as a separate dwelling and forming the whole or part of a building, or
 - (aa)[^c830538] a house in multiple occupation, that is—
-  - (i)[^key-a999e1ae8ae55c41116c5c555bdc2482] in England and Wales, a house in multiple occupation as defined by sections 254 to 259 of the Housing Act 2004, as they have effect for the purposes of Part 1 of that Act (that is, without the exclusions contained in Schedule 14 to that Act),
-  - (ii) in Scotland, an[^key-707f9f8c32c6d497464d035cbb9fc0af] HMO (within the meaning of the Housing (Scotland) Act 2006 (asp 1)) which requires to be licensed under Part 5 of that Act , and
-  - (iii) in Northern Ireland, a house in multiple occupation as defined by section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016[^key-2b9e0aff4881979edc4dcbbbed1b6250] , or
+  - (i)[^c-a999e1ae8ae55c41116c5c555bdc2482] in England and Wales, a house in multiple occupation as defined by sections 254 to 259 of the Housing Act 2004, as they have effect for the purposes of Part 1 of that Act (that is, without the exclusions contained in Schedule 14 to that Act),
+  - (ii) in Scotland, an[^c-707f9f8c32c6d497464d035cbb9fc0af] HMO (within the meaning of the Housing (Scotland) Act 2006 (asp 1)) which requires to be licensed under Part 5 of that Act , and
+  - (iii) in Northern Ireland, a house in multiple occupation as defined by section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016[^c-2b9e0aff4881979edc4dcbbbed1b6250] , or
 - (ab) a house-boat, that is, a boat or other floating decked structure—
   - (i) designed or adapted for use solely as a place of permanent habitation, and
   - (ii) not having means of, or capable of being readily adapted for, self-propulsion,
@@ -66,7 +66,7 @@ An Act to make provision for the drawing up of local energy conservation reports
 - (b) in the case of a local authority in Scotland, to the area of that authority, and
 - (c) in the case of the Northern Ireland Housing Executive, to Northern Ireland.
 
-## 2. Energy conservation reports.[^c830549][^c830550][^key-0d1092d2abc438b3b16f3f9277174d59]
+## 2. Energy conservation reports.[^c830549][^c830550][^c-0d1092d2abc438b3b16f3f9277174d59]
 
 (1) Subject to subsection (7),[^c830551]it shall be the duty of every energy conservation authority to prepare a report in accordance with this section.
 
@@ -99,7 +99,7 @@ Nothing in this subsection shall be taken as requiring the authority to set out 
 
 The directions may set different dates for different authorities, different descriptions of authority and different areas ; and may set different dates for reports on houses in multiple occupation or house-boats or reports on other residential accomodation.[^c830557]
 
-(2)[^key-95ba65fc3c5e6758863931331f08eeb3] Where the Secretary of State has received a report under section 2 from an energy conservation authority, and it appears to him that the report has been duly prepared in accordance with this Act, he shall—
+(2)[^c-95ba65fc3c5e6758863931331f08eeb3] Where the Secretary of State has received a report under section 2 from an energy conservation authority, and it appears to him that the report has been duly prepared in accordance with this Act, he shall—
 
 - (a) notify the authority of a timetable in accordance with which the authority shall prepare, publish and send to the Secretary of State reports on the progress made in implementing the measures set out in the report, and
 - (b) take such steps as he considers desirable in order to assist with and to encourage other persons to assist with the measures set out in any such report.
@@ -121,7 +121,7 @@ and shall lay any such report before Parliament.
 
 (3) An energy conservation authority shall have regard to any guidance given by the Secretary of State under this section.
 
-## 5. Modification of report and further reports.[^c830560][^key-2b5721571bbda961745ccf810b5f73ec]
+## 5. Modification of report and further reports.[^c830560][^c-2b5721571bbda961745ccf810b5f73ec]
 
 (1) An energy conservation authority may, and if so directed by the Secretary of State shall—
 
@@ -169,9 +169,9 @@ There shall be paid out of moneys provided by Parliament—
 
 [^c830515]: Modification: Act: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) , [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2) , [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-61227708e2343cb50fa440af6276a2e3]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1995/10) ceased to have effect (S.) (21.3.2012) by virtue of [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 118(1)(a)](https://www.legislation.gov.uk/ukpga/2011/16/section/118/1/a), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/873/article/2/c)
+[^c-61227708e2343cb50fa440af6276a2e3]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1995/10) ceased to have effect (S.) (21.3.2012) by virtue of [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 118(1)(a)](https://www.legislation.gov.uk/ukpga/2011/16/section/118/1/a), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/873/article/2/c)
 
-[^key-21ce8bd0bcdbe2b7b353b342cd4d310d]: Modification: Act restricted (W.) (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16) , [ss. 118(1)(b)](https://www.legislation.gov.uk/ukpga/2011/16/section/118/1/b) , [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1) ; [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873) , [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/873/article/2/c)
+[^c-21ce8bd0bcdbe2b7b353b342cd4d310d]: Modification: Act restricted (W.) (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16) , [ss. 118(1)(b)](https://www.legislation.gov.uk/ukpga/2011/16/section/118/1/b) , [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1) ; [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873) , [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/873/article/2/c)
 
 [^c830535]: Commencement: S. 1 wholly in force at 1.4.1997: s. 1 not in force at Royal Assent see s. 9(2); s. 1 in force (E.) (1.4.1996) by [S.I. 1995/3340](https://www.legislation.gov.uk/uksi/1995/3340), [arts. 2](https://www.legislation.gov.uk/uksi/1995/3340/article/2), [3](https://www.legislation.gov.uk/uksi/1995/3340/article/3); (N.I.) (1.4.1996) by [S.R. 1995/455](https://www.legislation.gov.uk/nisr/1995/455), [art. 2](https://www.legislation.gov.uk/nisr/1995/455/article/2); and (S.) (1.12.1996) by [S.I. 1996/2797](https://www.legislation.gov.uk/uksi/1996/2797), [art. 2](https://www.legislation.gov.uk/uksi/1996/2797/article/2); and (W.) (1.4.1997) by [S.I. 1996/3181](https://www.legislation.gov.uk/uksi/1996/3181), [art. 2](https://www.legislation.gov.uk/uksi/1996/3181/article/2)
 
@@ -179,15 +179,15 @@ There shall be paid out of moneys provided by Parliament—
 
 [^c830537]: Marginal citation: [1987 c. 26](https://www.legislation.gov.uk/ukpga/1987/26).
 
-[^key-0ea594b31e58e984488e4ce9503e3a1e]: Textual amendment: Words in definition of “energy conservation measures” in s. 1(1) inserted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 118(2)](https://www.legislation.gov.uk/ukpga/2011/16/section/118/2), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/873/article/2/c)
+[^c-0ea594b31e58e984488e4ce9503e3a1e]: Textual amendment: Words in definition of “energy conservation measures” in s. 1(1) inserted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 118(2)](https://www.legislation.gov.uk/ukpga/2011/16/section/118/2), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/873/article/2/c)
 
 [^c830538]: Textual amendment: S. 1(1): paras. (aa) and (ab) in definition of “residential accommodation” inserted by [1996 c. 38](https://www.legislation.gov.uk/ukpga/1996/38), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1996/38/section/1/2) (in force (S.) (1.12.1996) by [S.I. 1996/2796](https://www.legislation.gov.uk/uksi/1996/2796), [art. 2](https://www.legislation.gov.uk/uksi/1996/2796/article/2); and (N.I.) (5.12.1996) by [S.R. 1996/559](https://www.legislation.gov.uk/nisr/1996/559), [art. 2](https://www.legislation.gov.uk/nisr/1996/559/article/2); and (E.W.) (14.1.1997 for specified provisions, otherwise 1.4.1997) by [S.I. 1997/47](https://www.legislation.gov.uk/uksi/1997/47), [art. 2](https://www.legislation.gov.uk/uksi/1997/47/article/2)).
 
-[^key-a999e1ae8ae55c41116c5c555bdc2482]: Textual amendment: Para (aa)(i) of the definition of “residential accommodation” in s. 1(1) substituted (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 15 para. 38](https://www.legislation.gov.uk/ukpga/2004/34/schedule/15/paragraph/38); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-a999e1ae8ae55c41116c5c555bdc2482]: Textual amendment: Para (aa)(i) of the definition of “residential accommodation” in s. 1(1) substituted (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 15 para. 38](https://www.legislation.gov.uk/ukpga/2004/34/schedule/15/paragraph/38); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-707f9f8c32c6d497464d035cbb9fc0af]: Textual amendment: Words in paragraph (aa)(ii) of the definition of “residential accommodation” in s. 1(1) substituted (31.8.2011) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 6 para. 18](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/18) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-707f9f8c32c6d497464d035cbb9fc0af]: Textual amendment: Words in paragraph (aa)(ii) of the definition of “residential accommodation” in s. 1(1) substituted (31.8.2011) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 6 para. 18](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/18) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-2b9e0aff4881979edc4dcbbbed1b6250]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1995/10/section/1/1) substituted (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 4](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/4); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-2b9e0aff4881979edc4dcbbbed1b6250]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1995/10/section/1/1) substituted (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 4](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/4); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
 [^c830539]: Textual amendment: Words in s. 1(ab) in definition of “residential accommodation” repealed (N.I.) (11.5.1999) by [S.I. 1999/659 (N.I. 3)](https://www.legislation.gov.uk/nisi/1999/659), [art. 8(1)(a)](https://www.legislation.gov.uk/nisi/1999/659/article/8/1/a)
 
@@ -211,7 +211,7 @@ There shall be paid out of moneys provided by Parliament—
 
 [^c830550]: Commencement: S. 2 wholly in force at 1.4.1997: s. 2 not in force at Royal Assent, see s. 9(2); s. 2 in force (E.) (1.4.1996) by [S.I. 1995/3340](https://www.legislation.gov.uk/uksi/1995/3340), [arts. 2](https://www.legislation.gov.uk/uksi/1995/3340/article/2), [3](https://www.legislation.gov.uk/uksi/1995/3340/article/3); and (N.I.) (1.4.1996) by [S.R. 1995/455](https://www.legislation.gov.uk/nisr/1995/455), [art. 2](https://www.legislation.gov.uk/nisr/1995/455/article/2); and (S.) (1.12.1996) by [S.I. 1996/2797](https://www.legislation.gov.uk/uksi/1996/2797), [art. 2](https://www.legislation.gov.uk/uksi/1996/2797/article/2); and (W.) (1.4.1997) by [S.I. 1996/3181](https://www.legislation.gov.uk/uksi/1996/3181), [art 2](https://www.legislation.gov.uk/uksi/1996/3181/article/2).
 
-[^key-0d1092d2abc438b3b16f3f9277174d59]: Modification: S. 2 excluded (E.W.) (1.2.2005) by [Local Authorities' Plans and Strategies (Disapplication) (England) Order 2005 (S.I. 2005/157)](https://www.legislation.gov.uk/uksi/2005/157), [arts. 1](https://www.legislation.gov.uk/uksi/2005/157/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2005/157/article/4/1)
+[^c-0d1092d2abc438b3b16f3f9277174d59]: Modification: S. 2 excluded (E.W.) (1.2.2005) by [Local Authorities' Plans and Strategies (Disapplication) (England) Order 2005 (S.I. 2005/157)](https://www.legislation.gov.uk/uksi/2005/157), [arts. 1](https://www.legislation.gov.uk/uksi/2005/157/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2005/157/article/4/1)
 
 [^c830551]: Textual amendment: Words in s. 2(1) inserted (E.W.) (13.1.1997) by [S.I. 1997/47](https://www.legislation.gov.uk/uksi/1997/47), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/1997/47/article/3/2/a).
 
@@ -223,7 +223,7 @@ There shall be paid out of moneys provided by Parliament—
 
 [^c830557]: Textual amendment: Words in s. 3(1) inserted (E.W.) (13.1.1997) by [S.I. 1997/47](https://www.legislation.gov.uk/uksi/1997/47), [art. 2](https://www.legislation.gov.uk/uksi/1997/47/article/2).
 
-[^key-95ba65fc3c5e6758863931331f08eeb3]: Modification: S. 3(2) excluded (E.W.) (1.2.2005) by [Local Authorities' Plans and Strategies (Disapplication) (England) Order 2005 (S.I. 2005/157)](https://www.legislation.gov.uk/uksi/2005/157), [arts. 1](https://www.legislation.gov.uk/uksi/2005/157/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2005/157/article/4/2)
+[^c-95ba65fc3c5e6758863931331f08eeb3]: Modification: S. 3(2) excluded (E.W.) (1.2.2005) by [Local Authorities' Plans and Strategies (Disapplication) (England) Order 2005 (S.I. 2005/157)](https://www.legislation.gov.uk/uksi/2005/157), [arts. 1](https://www.legislation.gov.uk/uksi/2005/157/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2005/157/article/4/2)
 
 [^c830558]: Modification: Power to amend s. 4 conferred by [1996 c. 38](https://www.legislation.gov.uk/ukpga/1996/38), [s. 2(3)](https://www.legislation.gov.uk/ukpga/1996/38/section/2/3) (in force (S.) (1.12.1996) by [S.I. 1996/2796](https://www.legislation.gov.uk/uksi/1996/2796), [art. 2](https://www.legislation.gov.uk/uksi/1996/2796/article/2); and (N.I) (5.12.1996) by [S.R. 1996/559](https://www.legislation.gov.uk/nisr/1996/559), [art. 2](https://www.legislation.gov.uk/nisr/1996/559/article/2); and (E.W.) (14.1.1997 for specified provisions, otherwise 1.4.1997) by [S.I. 1997/47](https://www.legislation.gov.uk/uksi/1997/47), [art. 2](https://www.legislation.gov.uk/uksi/1997/47/article/2)).
 
@@ -231,7 +231,7 @@ There shall be paid out of moneys provided by Parliament—
 
 [^c830560]: Commencement: S. 5 wholly in force at 1.4.1997: s. 5 not in force at Royal Assent, see s. 9(2); s. 5 in force (E.) (1.4.1996) by [S.I. 1995/3340](https://www.legislation.gov.uk/uksi/1995/3340), [arts. 2](https://www.legislation.gov.uk/uksi/1995/3340/article/2), [3](https://www.legislation.gov.uk/uksi/1995/3340/article/3); and (N.I.) (1.4.1996) by [S.R. 1995/455](https://www.legislation.gov.uk/nisr/1995/455), [art. 2](https://www.legislation.gov.uk/nisr/1995/455/article/2); and (S.) (1.12.1996) by [S.I. 1996/2797](https://www.legislation.gov.uk/uksi/1996/2797), [art. 2](https://www.legislation.gov.uk/uksi/1996/2797/article/2); and (W.) (1.4.1997) by [S.I. 1996/3181](https://www.legislation.gov.uk/uksi/1996/3181), [art 2](https://www.legislation.gov.uk/uksi/1996/3181/article/2).
 
-[^key-2b5721571bbda961745ccf810b5f73ec]: Modification: S. 5 restricted (E.W.) (1.2.2005) by [Local Authorities' Plans and Strategies (Disapplication) (England) Order 2005 (S.I. 2005/157)](https://www.legislation.gov.uk/uksi/2005/157), [arts. 1](https://www.legislation.gov.uk/uksi/2005/157/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2005/157/article/4/1)
+[^c-2b5721571bbda961745ccf810b5f73ec]: Modification: S. 5 restricted (E.W.) (1.2.2005) by [Local Authorities' Plans and Strategies (Disapplication) (England) Order 2005 (S.I. 2005/157)](https://www.legislation.gov.uk/uksi/2005/157), [arts. 1](https://www.legislation.gov.uk/uksi/2005/157/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2005/157/article/4/1)
 
 [^c830561]: Commencement: S. 6 wholly in force at 1.4.1997: s. 6 not in force at Royal Assent, see s. 9(2); s. 6 in force (E.) (1.4.1996) by [S.I. 1995/3340](https://www.legislation.gov.uk/uksi/1995/3340), [arts. 2](https://www.legislation.gov.uk/uksi/1995/3340/article/2), [3](https://www.legislation.gov.uk/uksi/1995/3340/article/3); and (N.I.) (1.4.1996) by [S.R. 1995/455](https://www.legislation.gov.uk/nisr/1995/455), [art. 2](https://www.legislation.gov.uk/nisr/1995/455/article/2); and (S.) (1.12.1996) by [S.I. 1996/2797](https://www.legislation.gov.uk/uksi/1996/2797), [art. 2](https://www.legislation.gov.uk/uksi/1996/2797/article/2); and (W.) (1.4.1997) by [S.I. 1996/3181](https://www.legislation.gov.uk/uksi/1996/3181), [art 2](https://www.legislation.gov.uk/uksi/1996/3181/article/2).
 

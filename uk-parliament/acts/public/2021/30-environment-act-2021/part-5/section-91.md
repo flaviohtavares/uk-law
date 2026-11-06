@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Water quality: powers of Northern Ireland department[^key-eb7503e9322e44e803b7747f876eb74f][^key-a2f9125122fab3850203767019e8f0ec]
+## 91. Water quality: powers of Northern Ireland department[^c-eb7503e9322e44e803b7747f876eb74f][^c-a2f9125122fab3850203767019e8f0ec]
 
 *Extent: N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb7503e9322e44e803b7747f876eb74f]: Commencement: S. 91 not in force at Royal Assent, see [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)
+[^c-eb7503e9322e44e803b7747f876eb74f]: Commencement: S. 91 not in force at Royal Assent, see [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)
 
-[^key-a2f9125122fab3850203767019e8f0ec]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2021/30/section/91) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/o)
+[^c-a2f9125122fab3850203767019e8f0ec]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2021/30/section/91) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/o)

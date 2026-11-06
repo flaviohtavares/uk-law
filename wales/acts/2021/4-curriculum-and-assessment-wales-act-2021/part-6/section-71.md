@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Duty to have regard to guidance[^key-a667d743bc7833786800152fbf3dc407]
+## 71. Duty to have regard to guidance[^c-a667d743bc7833786800152fbf3dc407]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a667d743bc7833786800152fbf3dc407]: Commencement: [S. 71](https://www.legislation.gov.uk/asc/2021/4/section/71) in force at 1.9.2022 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(f)](https://www.legislation.gov.uk/wsi/2022/652/article/4/f)
+[^c-a667d743bc7833786800152fbf3dc407]: Commencement: [S. 71](https://www.legislation.gov.uk/asc/2021/4/section/71) in force at 1.9.2022 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(f)](https://www.legislation.gov.uk/wsi/2022/652/article/4/f)

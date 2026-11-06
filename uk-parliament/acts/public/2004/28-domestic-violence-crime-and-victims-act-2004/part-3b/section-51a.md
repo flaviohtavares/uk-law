@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51A. Duty to co-operate with Commissioner[^key-e49918b98cd1d4dd98b570e009fb1146]
+## 51A. Duty to co-operate with Commissioner[^c-e49918b98cd1d4dd98b570e009fb1146]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e49918b98cd1d4dd98b570e009fb1146]: Textual amendment: [S. 51A](https://www.legislation.gov.uk/ukpga/2004/28/section/51A) inserted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 22(4)](https://www.legislation.gov.uk/ukpga/2024/21/section/22/4), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/d)
+[^c-e49918b98cd1d4dd98b570e009fb1146]: Textual amendment: [S. 51A](https://www.legislation.gov.uk/ukpga/2004/28/section/51A) inserted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 22(4)](https://www.legislation.gov.uk/ukpga/2024/21/section/22/4), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/d)

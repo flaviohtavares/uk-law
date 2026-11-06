@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Notice to employers[^key-eb4adebeafae12b9c20c4e30b427f139]
+## 49. Notice to employers[^c-eb4adebeafae12b9c20c4e30b427f139]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb4adebeafae12b9c20c4e30b427f139]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2009/470/regulation/49) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-eb4adebeafae12b9c20c4e30b427f139]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2009/470/regulation/49) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

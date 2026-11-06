@@ -23,7 +23,7 @@ summary: ''
 (1) A hybrid scheme that has its main administration in the United Kingdom satisfies the quality requirement in relation to a jobholder if it satisfies the requirements mentioned in whichever of these is the appropriate paragraph—
 
 - (a) the requirements for a money purchase scheme under section 20, subject to any prescribed modifications;
-- (b) the requirements for a defined benefits scheme under sections 21 to 23A[^key-9b56231287d8f09fdc952edbe9f66e24], subject to any prescribed modifications.
+- (b) the requirements for a defined benefits scheme under sections 21 to 23A[^c-9b56231287d8f09fdc952edbe9f66e24], subject to any prescribed modifications.
 
 (2) Which paragraph of subsection (1) is appropriate for any hybrid scheme is to be determined by rules made by the Secretary of State.
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c21683771]: Modification: S. 24 applied (with modifications) (1.7.2012) by The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations ([S.I. 2010/772](https://www.legislation.gov.uk/uksi/2010/772)), regs. 1(1) (as amended by [S.I. 2012/1257](https://www.legislation.gov.uk/uksi/2012/1257), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/3/b)) and 45(5)(6)
 
-[^key-9b56231287d8f09fdc952edbe9f66e24]: Textual amendment: Word in s. 24(1)(b) substituted (12.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 39(3)](https://www.legislation.gov.uk/ukpga/2014/19/section/39/3), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/b)
+[^c-9b56231287d8f09fdc952edbe9f66e24]: Textual amendment: Word in s. 24(1)(b) substituted (12.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 39(3)](https://www.legislation.gov.uk/ukpga/2014/19/section/39/3), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/b)

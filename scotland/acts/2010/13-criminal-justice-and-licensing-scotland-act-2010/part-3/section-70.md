@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Disclosure of convictions and non-court disposals[^key-307aa4073f07080c8609c3c04bed13d7]
+## 70. Disclosure of convictions and non-court disposals[^c-307aa4073f07080c8609c3c04bed13d7]
 
 *Extent: S*
 
@@ -107,4 +107,4 @@ summary: ''
 
 ## Annotations
 
-[^key-307aa4073f07080c8609c3c04bed13d7]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2010/13/section/70) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-307aa4073f07080c8609c3c04bed13d7]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2010/13/section/70) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12I. Persons who cease to have leave to enter or remain as a relevant Afghan citizen[^key-6a93b71c9900857b058d870807fd503b]
+## 12I. Persons who cease to have leave to enter or remain as a relevant Afghan citizen[^c-6a93b71c9900857b058d870807fd503b]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ is a British or Irish citizen.
 
 ## Annotations
 
-[^key-6a93b71c9900857b058d870807fd503b]: Textual amendment: [Regs. 12B-12J](https://www.legislation.gov.uk/wsi/2019/895/regulation/12B) inserted (4.1.2024) by [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [74](https://www.legislation.gov.uk/wsi/2023/1349/regulation/74) (with [reg. 2](https://www.legislation.gov.uk/wsi/2023/1349/regulation/2))
+[^c-6a93b71c9900857b058d870807fd503b]: Textual amendment: [Regs. 12B-12J](https://www.legislation.gov.uk/wsi/2019/895/regulation/12B) inserted (4.1.2024) by [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [74](https://www.legislation.gov.uk/wsi/2023/1349/regulation/74) (with [reg. 2](https://www.legislation.gov.uk/wsi/2023/1349/regulation/2))

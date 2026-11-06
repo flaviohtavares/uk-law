@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Parole Board decisions: consideration of impact on prisoner's family[^key-8d354e2305c998541ab155b9e7828215]
+## 52. Parole Board decisions: consideration of impact on prisoner's family[^c-8d354e2305c998541ab155b9e7828215]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d354e2305c998541ab155b9e7828215]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2019/14/section/52) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(n)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/n)
+[^c-8d354e2305c998541ab155b9e7828215]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2019/14/section/52) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(n)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/n)

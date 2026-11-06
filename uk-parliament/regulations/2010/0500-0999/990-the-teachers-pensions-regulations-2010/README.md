@@ -47,7 +47,7 @@ Coming into force
 
 The Secretary of State has consulted the persons referred to in section 9(5) of that Act.
 
-In accordance with sections 9(1) and 24(1) of that Act, these Regulations are made with the consent of the Treasury [^c20237541].[^key-2ec83870f0646c2812472ae392db1149]
+In accordance with sections 9(1) and 24(1) of that Act, these Regulations are made with the consent of the Treasury [^c20237541].[^c-2ec83870f0646c2812472ae392db1149]
 
 ## Contents
 
@@ -113,73 +113,73 @@ In accordance with sections 9(1) and 24(1) of that Act, these Regulations are ma
 - [Section 29 — Recovery of unpaid contributions from benefits](part-3/section-29.md)
 - [Section 30 — Payment by employers to Secretary of State](part-3/section-30.md)
 
-### PART 4 — Transfers[^key-fa696061dd48909a370bd570e6b4c578]
+### PART 4 — Transfers[^c-fa696061dd48909a370bd570e6b4c578]
 
-#### CHAPTER 1 — General provisions[^key-fa696061dd48909a370bd570e6b4c578]
+#### CHAPTER 1 — General provisions[^c-fa696061dd48909a370bd570e6b4c578]
 
 - [Section 31 — Application of Part](part-4/section-31.md)
 - [Section 31A — Interpretation of Part](part-4/section-31a.md)
 - [Section 32A — Reduction in transfer value: lifetime allowance charge](part-4/section-32a.md)
 
-#### CHAPTER 2 — Transfers on a club basis[^key-fa696061dd48909a370bd570e6b4c578]
+#### CHAPTER 2 — Transfers on a club basis[^c-fa696061dd48909a370bd570e6b4c578]
 
-##### SECTION 1 — Application of Chapter[^key-fa696061dd48909a370bd570e6b4c578]
+##### SECTION 1 — Application of Chapter[^c-fa696061dd48909a370bd570e6b4c578]
 
 - [Section 33 — Application of this Chapter](part-4/section-33.md)
 
-##### SECTION 2 — Transfers out[^key-fa696061dd48909a370bd570e6b4c578]
+##### SECTION 2 — Transfers out[^c-fa696061dd48909a370bd570e6b4c578]
 
 - [Section 33A — Application of this Section](part-4/section-33a.md)
 - [Section 33B — Payment under this Section](part-4/section-33b.md)
 - [Section 33C — Restrictions on the payment of a club transfer value](part-4/section-33c.md)
 
-##### SECTION 3 — Transfers in[^key-fa696061dd48909a370bd570e6b4c578]
+##### SECTION 3 — Transfers in[^c-fa696061dd48909a370bd570e6b4c578]
 
 - [Section 33D — Application of this Section](part-4/section-33d.md)
 - [Section 33E — Receipt under this Section](part-4/section-33e.md)
 
-#### CHAPTER 3 — Transfers on a comparable United Kingdom service basis[^key-fa696061dd48909a370bd570e6b4c578]
+#### CHAPTER 3 — Transfers on a comparable United Kingdom service basis[^c-fa696061dd48909a370bd570e6b4c578]
 
-##### SECTION 1 — Application of Chapter[^key-fa696061dd48909a370bd570e6b4c578]
+##### SECTION 1 — Application of Chapter[^c-fa696061dd48909a370bd570e6b4c578]
 
 - [Section 34 — Application of this Chapter](part-4/section-34.md)
 
-##### SECTION 2 — Transfers out[^key-fa696061dd48909a370bd570e6b4c578]
+##### SECTION 2 — Transfers out[^c-fa696061dd48909a370bd570e6b4c578]
 
 - [Section 34A — Application of this Section](part-4/section-34a.md)
 - [Section 34B — Payment under this Section](part-4/section-34b.md)
 
-##### SECTION 3 — Transfers in[^key-fa696061dd48909a370bd570e6b4c578]
+##### SECTION 3 — Transfers in[^c-fa696061dd48909a370bd570e6b4c578]
 
 - [Section 34C — Application of this Section](part-4/section-34c.md)
 - [Section 34D — Receipt under this Section](part-4/section-34d.md)
 
-#### CHAPTER 4 — Transfers on a cash equivalent basis[^key-fa696061dd48909a370bd570e6b4c578]
+#### CHAPTER 4 — Transfers on a cash equivalent basis[^c-fa696061dd48909a370bd570e6b4c578]
 
-##### SECTION 1 — Application of Chapter[^key-fa696061dd48909a370bd570e6b4c578]
+##### SECTION 1 — Application of Chapter[^c-fa696061dd48909a370bd570e6b4c578]
 
 - [Section 35 — Application of this Chapter](part-4/section-35.md)
 
-##### SECTION 2 — Transfers out[^key-fa696061dd48909a370bd570e6b4c578]
+##### SECTION 2 — Transfers out[^c-fa696061dd48909a370bd570e6b4c578]
 
 - [Section 35A — Application of this Section](part-4/section-35a.md)
 - [Section 35B — Payment under this Section](part-4/section-35b.md)
 - [Section 35C — Restrictions on the payment of a transfer value](part-4/section-35c.md)
 - [Section 35D — Limitation on payment of transfer values](part-4/section-35d.md)
 
-##### SECTION 3 — Transfers in[^key-fa696061dd48909a370bd570e6b4c578]
+##### SECTION 3 — Transfers in[^c-fa696061dd48909a370bd570e6b4c578]
 
 - [Section 35E — Application of this Section](part-4/section-35e.md)
 - [Section 35F — Receipt under this Section](part-4/section-35f.md)
 - [Section 35G — Restrictions on the acceptance of a transfer value](part-4/section-35g.md)
 
-#### CHAPTER 5 — Bulk transfers[^key-fa696061dd48909a370bd570e6b4c578]
+#### CHAPTER 5 — Bulk transfers[^c-fa696061dd48909a370bd570e6b4c578]
 
-##### SECTION 1 — Transfers out[^key-fa696061dd48909a370bd570e6b4c578]
+##### SECTION 1 — Transfers out[^c-fa696061dd48909a370bd570e6b4c578]
 
 - [Section 36 — Payment of bulk transfer values](part-4/section-36.md)
 
-##### SECTION 2 — Transfers in[^key-fa696061dd48909a370bd570e6b4c578]
+##### SECTION 2 — Transfers in[^c-fa696061dd48909a370bd570e6b4c578]
 
 - [Section 36A — Acceptance of bulk transfer values](part-4/section-36a.md)
 
@@ -197,7 +197,7 @@ In accordance with sections 9(1) and 24(1) of that Act, these Regulations are ma
 - [Section 43 — Calculation of reckonable service where pensionable employment is part time](part-6/section-43.md)
 - [Section 44 — Calculation of reckonable service where cap on contributable salary is removed](part-6/section-44.md)
 
-### PART 7 — Benefits for teachers[^key-5d93a4646b2a4fce5259c6fd68dc0c1c]
+### PART 7 — Benefits for teachers[^c-5d93a4646b2a4fce5259c6fd68dc0c1c]
 
 #### CHAPTER 1 — Preliminary
 
@@ -461,8 +461,8 @@ The amendments to the Teachers (Compensation for Redundancy and Premature Retire
 
 [^c20237541]: Marginal citation: See [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
 
-[^key-2ec83870f0646c2812472ae392db1149]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/990) restricted (1.10.2023) by [The Teachers’ Pension Scheme (Remediable Service) Regulations 2023 (S.I. 2023/871)](https://www.legislation.gov.uk/uksi/2023/871), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/871/regulation/1/b), [30](https://www.legislation.gov.uk/uksi/2023/871/regulation/30)
+[^c-2ec83870f0646c2812472ae392db1149]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/990) restricted (1.10.2023) by [The Teachers’ Pension Scheme (Remediable Service) Regulations 2023 (S.I. 2023/871)](https://www.legislation.gov.uk/uksi/2023/871), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/871/regulation/1/b), [30](https://www.legislation.gov.uk/uksi/2023/871/regulation/30)
 
-[^key-fa696061dd48909a370bd570e6b4c578]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2010/990/part/4) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [10](https://www.legislation.gov.uk/uksi/2014/2651/regulation/10)
+[^c-fa696061dd48909a370bd570e6b4c578]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2010/990/part/4) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [10](https://www.legislation.gov.uk/uksi/2014/2651/regulation/10)
 
-[^key-5d93a4646b2a4fce5259c6fd68dc0c1c]: Modification: [Pt. 7](https://www.legislation.gov.uk/uksi/2010/990/part/7) applied (1.4.2015) by [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/601/regulation/4) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))
+[^c-5d93a4646b2a4fce5259c6fd68dc0c1c]: Modification: [Pt. 7](https://www.legislation.gov.uk/uksi/2010/990/part/7) applied (1.4.2015) by [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/601/regulation/4) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))

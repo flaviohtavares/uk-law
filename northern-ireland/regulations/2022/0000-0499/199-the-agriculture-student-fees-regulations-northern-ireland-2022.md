@@ -34,7 +34,7 @@ Regulations laid before the Assembly in accordance with section 42(2) of the Agr
 
 Agriculture
 
-The Agriculture (Student fees) Regulations (Northern Ireland) 2022 (revoked)[^key-2cf28afee67795302d84b4f4a89a1114]
+The Agriculture (Student fees) Regulations (Northern Ireland) 2022 (revoked)[^c-2cf28afee67795302d84b4f4a89a1114]
 
 Made
 
@@ -44,118 +44,118 @@ Coming into operation
 
 1st September 2022
 
-[^key-2cf28afee67795302d84b4f4a89a1114]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2cf28afee67795302d84b4f4a89a1114]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2cf28afee67795302d84b4f4a89a1114]
+## 1. Citation and commencement[^c-2cf28afee67795302d84b4f4a89a1114]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2cf28afee67795302d84b4f4a89a1114]
+## 2. Interpretation[^c-2cf28afee67795302d84b4f4a89a1114]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Higher education courses[^key-2cf28afee67795302d84b4f4a89a1114]
+## 3. Higher education courses[^c-2cf28afee67795302d84b4f4a89a1114]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Intensity of study[^key-2cf28afee67795302d84b4f4a89a1114]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 8. Current and old fee frameworks[^key-2cf28afee67795302d84b4f4a89a1114]
+## 7. Intensity of study[^c-2cf28afee67795302d84b4f4a89a1114]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 10. Gap year students[^key-2cf28afee67795302d84b4f4a89a1114]
+## 8. Current and old fee frameworks[^c-2cf28afee67795302d84b4f4a89a1114]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Home students and their student fee codes[^key-2cf28afee67795302d84b4f4a89a1114]
+**9.**[^c-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Gap year students[^c-2cf28afee67795302d84b4f4a89a1114]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**13.**[^key-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 14. Students from Great Britain and their student fee codes[^key-2cf28afee67795302d84b4f4a89a1114]
+## 11. Home students and their student fee codes[^c-2cf28afee67795302d84b4f4a89a1114]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. International students[^key-2cf28afee67795302d84b4f4a89a1114]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**18.**[^key-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 19. Higher education fee amounts[^key-2cf28afee67795302d84b4f4a89a1114]
+## 14. Students from Great Britain and their student fee codes[^c-2cf28afee67795302d84b4f4a89a1114]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Reduced higher education fee[^key-2cf28afee67795302d84b4f4a89a1114]
+**16.**[^c-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 22. Revocation[^key-2cf28afee67795302d84b4f4a89a1114]
+## 17. International students[^c-2cf28afee67795302d84b4f4a89a1114]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2cf28afee67795302d84b4f4a89a1114]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 19. Higher education fee amounts[^c-2cf28afee67795302d84b4f4a89a1114]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20.**[^c-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 21. Reduced higher education fee[^c-2cf28afee67795302d84b4f4a89a1114]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 22. Revocation[^c-2cf28afee67795302d84b4f4a89a1114]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2cf28afee67795302d84b4f4a89a1114]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — QUALIFYING PERSONS[^key-2cf28afee67795302d84b4f4a89a1114]
+## SCHEDULE — QUALIFYING PERSONS[^c-2cf28afee67795302d84b4f4a89a1114]
 
 Regulations 11, 14 and 17
 
-**1.**[^key-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Persons settled in the United Kingdom and ordinarily resident in Northern Ireland[^key-2cf28afee67795302d84b4f4a89a1114]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Persons settled in the United Kingdom and ordinarily resident in Great Britain[^key-2cf28afee67795302d84b4f4a89a1114]
+### 2. Persons settled in the United Kingdom and ordinarily resident in Northern Ireland[^c-2cf28afee67795302d84b4f4a89a1114]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Persons from Republic of Ireland[^key-2cf28afee67795302d84b4f4a89a1114]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 7. Refugees and their family members[^key-2cf28afee67795302d84b4f4a89a1114]
+### 4. Persons settled in the United Kingdom and ordinarily resident in Great Britain[^c-2cf28afee67795302d84b4f4a89a1114]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^key-2cf28afee67795302d84b4f4a89a1114]
+**5.**[^c-2cf28afee67795302d84b4f4a89a1114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Persons from Republic of Ireland[^c-2cf28afee67795302d84b4f4a89a1114]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Ordinarily resident[^key-2cf28afee67795302d84b4f4a89a1114]
+### 7. Refugees and their family members[^c-2cf28afee67795302d84b4f4a89a1114]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2cf28afee67795302d84b4f4a89a1114]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^c-2cf28afee67795302d84b4f4a89a1114]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Ordinarily resident[^c-2cf28afee67795302d84b4f4a89a1114]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2cf28afee67795302d84b4f4a89a1114]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2cf28afee67795302d84b4f4a89a1114]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2022/199) revoked (1.9.2023) by [The Agriculture (Student Fees) Regulations (Northern Ireland) 2023 (S.R. 2023/98)](https://www.legislation.gov.uk/nisr/2023/98), [regs. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1), [3](https://www.legislation.gov.uk/nisr/2023/98/regulation/3)
+[^c-2cf28afee67795302d84b4f4a89a1114]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2022/199) revoked (1.9.2023) by [The Agriculture (Student Fees) Regulations (Northern Ireland) 2023 (S.R. 2023/98)](https://www.legislation.gov.uk/nisr/2023/98), [regs. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1), [3](https://www.legislation.gov.uk/nisr/2023/98/regulation/3)

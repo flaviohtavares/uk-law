@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Screeners[^key-c9d4f74084736891d7cfc831e1b12c45]
+## 23. Screeners[^c-c9d4f74084736891d7cfc831e1b12c45]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9d4f74084736891d7cfc831e1b12c45]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/uksi/2002/253/article/23) omitted (28.1.2019) by virtue of [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2018/838/schedule/1/paragraph/17)
+[^c-c9d4f74084736891d7cfc831e1b12c45]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/uksi/2002/253/article/23) omitted (28.1.2019) by virtue of [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2018/838/schedule/1/paragraph/17)

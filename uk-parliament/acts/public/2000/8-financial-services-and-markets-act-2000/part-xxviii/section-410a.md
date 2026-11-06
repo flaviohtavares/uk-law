@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 410A. Fees to meet certain expenses of the Treasury[^key-a364d5b9f338e1e1be94798c9c17fec1]
+## 410A. Fees to meet certain expenses of the Treasury[^c-a364d5b9f338e1e1be94798c9c17fec1]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,12 +58,12 @@ may be recovered as a debt due to the regulator.
 
 - (a) in the case of a direction given to the PRA, PRA-authorised persons;
 - (b) in the case of a direction given to the FCA, authorised persons and recognised investment exchanges who (in either case) are not PRA-authorised persons;
-- (c) in the case of a direction given to the Bank of England, recognised clearing houses and recognised CSDs[^key-da6d033b8b00d291dae419c3e70d1b3f], other than those falling within paragraph (a) or (b).
+- (c) in the case of a direction given to the Bank of England, recognised clearing houses and recognised CSDs[^c-da6d033b8b00d291dae419c3e70d1b3f], other than those falling within paragraph (a) or (b).
 
 (9) This section is subject to section 410B.
 
 ## Annotations
 
-[^key-a364d5b9f338e1e1be94798c9c17fec1]: Textual amendment: Ss. 410A, 410B and cross-heading inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 135(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/135/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-a364d5b9f338e1e1be94798c9c17fec1]: Textual amendment: Ss. 410A, 410B and cross-heading inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 135(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/135/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-da6d033b8b00d291dae419c3e70d1b3f]: Textual amendment: Words in [s. 410A(8)(c)](https://www.legislation.gov.uk/ukpga/2000/8/section/410A/8/c) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [2(37)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/2/37) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-da6d033b8b00d291dae419c3e70d1b3f]: Textual amendment: Words in [s. 410A(8)(c)](https://www.legislation.gov.uk/ukpga/2000/8/section/410A/8/c) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [2(37)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/2/37) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))

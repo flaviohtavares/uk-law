@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Power to modify repairing standard etc.[^key-5f0599cb97bd2a2bcd5ceb636de0565c]
+## 24. Power to modify repairing standard etc.[^c-5f0599cb97bd2a2bcd5ceb636de0565c]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f0599cb97bd2a2bcd5ceb636de0565c]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2014/14/section/24) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-5f0599cb97bd2a2bcd5ceb636de0565c]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2014/14/section/24) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

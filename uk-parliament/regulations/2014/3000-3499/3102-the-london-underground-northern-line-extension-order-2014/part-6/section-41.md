@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Powers of disposal, agreements for operation, etc.[^key-00bf8a947b0dcff47dc72dfe641c0098]
+## 41. Powers of disposal, agreements for operation, etc.[^c-00bf8a947b0dcff47dc72dfe641c0098]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00bf8a947b0dcff47dc72dfe641c0098]: Commencement: Art. 41 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-00bf8a947b0dcff47dc72dfe641c0098]: Commencement: Art. 41 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
 
 [^f00047]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).

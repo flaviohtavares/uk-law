@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Duty to remove supplementary notes from the DVS register[^key-e91d0946f380ddc31c57287a48f7fedc][^key-ae22a687652e408315c4b3c041889e8e]
+## 43. Duty to remove supplementary notes from the DVS register[^c-e91d0946f380ddc31c57287a48f7fedc][^c-ae22a687652e408315c4b3c041889e8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e91d0946f380ddc31c57287a48f7fedc]: Commencement: S. 43 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-e91d0946f380ddc31c57287a48f7fedc]: Commencement: S. 43 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-ae22a687652e408315c4b3c041889e8e]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2025/18/section/43) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-ae22a687652e408315c4b3c041889e8e]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2025/18/section/43) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)

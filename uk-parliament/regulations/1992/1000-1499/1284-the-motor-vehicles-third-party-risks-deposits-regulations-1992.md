@@ -30,7 +30,7 @@ summary: ''
 
 ROAD TRAFFIC
 
-The Motor Vehicles (Third-Party Risks Deposits) Regulations 1992 (revoked)[^key-7b5f5f16015e7a0be99a3ce6a13f3f86]
+The Motor Vehicles (Third-Party Risks Deposits) Regulations 1992 (revoked)[^c-7b5f5f16015e7a0be99a3ce6a13f3f86]
 
 Made
 
@@ -44,48 +44,48 @@ Coming into force
 
 1st July 1992
 
-[^key-7b5f5f16015e7a0be99a3ce6a13f3f86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b5f5f16015e7a0be99a3ce6a13f3f86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Commencement and citation[^key-7b5f5f16015e7a0be99a3ce6a13f3f86]
+## 1. Commencement and citation[^c-7b5f5f16015e7a0be99a3ce6a13f3f86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-7b5f5f16015e7a0be99a3ce6a13f3f86]
+## 2. Revocation[^c-7b5f5f16015e7a0be99a3ce6a13f3f86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-7b5f5f16015e7a0be99a3ce6a13f3f86]
+## 3. Interpretation[^c-7b5f5f16015e7a0be99a3ce6a13f3f86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Deposits[^key-7b5f5f16015e7a0be99a3ce6a13f3f86]
+## 4. Deposits[^c-7b5f5f16015e7a0be99a3ce6a13f3f86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Investment[^key-7b5f5f16015e7a0be99a3ce6a13f3f86]
+## 5. Investment[^c-7b5f5f16015e7a0be99a3ce6a13f3f86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Withdrawal of deposits[^key-7b5f5f16015e7a0be99a3ce6a13f3f86]
+## 6. Withdrawal of deposits[^c-7b5f5f16015e7a0be99a3ce6a13f3f86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Warrants[^key-7b5f5f16015e7a0be99a3ce6a13f3f86]
+## 7. Warrants[^c-7b5f5f16015e7a0be99a3ce6a13f3f86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Application of Court Funds Rules[^key-7b5f5f16015e7a0be99a3ce6a13f3f86]
+## 8. Application of Court Funds Rules[^c-7b5f5f16015e7a0be99a3ce6a13f3f86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b5f5f16015e7a0be99a3ce6a13f3f86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b5f5f16015e7a0be99a3ce6a13f3f86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7b5f5f16015e7a0be99a3ce6a13f3f86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b5f5f16015e7a0be99a3ce6a13f3f86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b5f5f16015e7a0be99a3ce6a13f3f86]: Textual amendment: Regulations revoked (1.11.2019) by [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2019/1047/schedule/3/paragraph/14) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-7b5f5f16015e7a0be99a3ce6a13f3f86]: Textual amendment: Regulations revoked (1.11.2019) by [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2019/1047/schedule/3/paragraph/14) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))

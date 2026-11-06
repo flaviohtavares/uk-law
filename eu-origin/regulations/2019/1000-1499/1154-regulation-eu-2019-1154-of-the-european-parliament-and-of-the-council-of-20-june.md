@@ -121,23 +121,23 @@ HAVE ADOPTED THIS REGULATION:
 
 ## TITLE I — GENERAL PROVISIONS
 
-### Article 1. Subject matter[^key-d53b3137446470db04463257a6bd007d]
+### Article 1. Subject matter[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 2. Scope[^key-d53b3137446470db04463257a6bd007d]
+### Article 2. Scope[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Objective[^key-d53b3137446470db04463257a6bd007d]
+### Article 3. Objective[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Relationship to other Union law[^key-d53b3137446470db04463257a6bd007d]
+### Article 4. Relationship to other Union law[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Definitions[^key-d53b3137446470db04463257a6bd007d]
+### Article 5. Definitions[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -145,19 +145,19 @@ HAVE ADOPTED THIS REGULATION:
 
 ### CHAPTER 1 — Management measures
 
-#### Article 6. Fishing effort[^key-d53b3137446470db04463257a6bd007d]
+#### Article 6. Fishing effort[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 7. Allocation of fishing opportunities[^key-d53b3137446470db04463257a6bd007d]
+#### Article 7. Allocation of fishing opportunities[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 8. Capacity limitations[^key-d53b3137446470db04463257a6bd007d]
+#### Article 8. Capacity limitations[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 9. Annual fishing plans[^key-d53b3137446470db04463257a6bd007d]
+#### Article 9. Annual fishing plans[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -165,27 +165,27 @@ HAVE ADOPTED THIS REGULATION:
 
 #### Section 1 — Fishing seasons
 
-##### Article 10. Closure periods[^key-d53b3137446470db04463257a6bd007d]
+##### Article 10. Closure periods[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Section 2 — Minimum conservation reference size, incidental catch and by-catch
 
-##### Article 11. Minimum conservation reference size for Mediterranean swordfish[^key-d53b3137446470db04463257a6bd007d]
+##### Article 11. Minimum conservation reference size for Mediterranean swordfish[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 12. Incidental catches of Mediterranean swordfish below the minimum conservation reference size[^key-d53b3137446470db04463257a6bd007d]
+##### Article 12. Incidental catches of Mediterranean swordfish below the minimum conservation reference size[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 13. By-catches[^key-d53b3137446470db04463257a6bd007d]
+##### Article 13. By-catches[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Section 3 — Technical characteristics of the fishing gear
 
-##### Article 14. Technical characteristics of the fishing gear[^key-d53b3137446470db04463257a6bd007d]
+##### Article 14. Technical characteristics of the fishing gear[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -193,103 +193,103 @@ HAVE ADOPTED THIS REGULATION:
 
 #### Section 1 — Record of vessels
 
-##### Article 15. Fishing authorisations[^key-d53b3137446470db04463257a6bd007d]
+##### Article 15. Fishing authorisations[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 16. Information on vessels authorised to catch Mediterranean swordfish and albacore tuna in the current year[^key-d53b3137446470db04463257a6bd007d]
+##### Article 16. Information on vessels authorised to catch Mediterranean swordfish and albacore tuna in the current year[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 17. Information on vessels authorised to target Mediterranean swordfish using harpoons or pelagic longlines during the preceding year[^key-d53b3137446470db04463257a6bd007d]
+##### Article 17. Information on vessels authorised to target Mediterranean swordfish using harpoons or pelagic longlines during the preceding year[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Section 2 — Monitoring and surveillance
 
-##### Article 18. Vessel monitoring system[^key-d53b3137446470db04463257a6bd007d]
+##### Article 18. Vessel monitoring system[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 19. Chartering of Union fishing vessels[^key-d53b3137446470db04463257a6bd007d]
+##### Article 19. Chartering of Union fishing vessels[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 20. National scientific observer programmes for pelagic longline vessels[^key-d53b3137446470db04463257a6bd007d]
+##### Article 20. National scientific observer programmes for pelagic longline vessels[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Section 3 — Control of catches
 
-##### Article 21. Recording and reporting of catches[^key-d53b3137446470db04463257a6bd007d]
+##### Article 21. Recording and reporting of catches[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 22. Data on quota uptake[^key-d53b3137446470db04463257a6bd007d]
+##### Article 22. Data on quota uptake[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Section 4 — Landings and transhipments
 
-##### Article 23. Designated ports[^key-d53b3137446470db04463257a6bd007d]
+##### Article 23. Designated ports[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 24. Prior notification[^key-d53b3137446470db04463257a6bd007d]
+##### Article 24. Prior notification[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 25. Transhipments[^key-d53b3137446470db04463257a6bd007d]
+##### Article 25. Transhipments[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Section 5 — Inspections
 
-##### Article 26. Annual inspection plans[^key-d53b3137446470db04463257a6bd007d]
+##### Article 26. Annual inspection plans[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 27. ICCAT Scheme of Joint International Inspection[^key-d53b3137446470db04463257a6bd007d]
+##### Article 27. ICCAT Scheme of Joint International Inspection[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 28. Inspections in case of infringements[^key-d53b3137446470db04463257a6bd007d]
+##### Article 28. Inspections in case of infringements[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### CHAPTER 4 — Recreational fisheries
 
-#### Article 29. Management measures[^key-d53b3137446470db04463257a6bd007d]
+#### Article 29. Management measures[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 30. Control measures[^key-d53b3137446470db04463257a6bd007d]
+#### Article 30. Control measures[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## TITLE III — FINAL PROVISIONS
 
-### Article 31. Annual report[^key-d53b3137446470db04463257a6bd007d]
+### Article 31. Annual report[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 32. Review[^key-d53b3137446470db04463257a6bd007d]
+### Article 32. Review[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 33. Financing[^key-d53b3137446470db04463257a6bd007d]
+### Article 33. Financing[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 34. Procedure for amendments[^key-d53b3137446470db04463257a6bd007d]
+### Article 34. Procedure for amendments[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 35. Exercise of the delegation[^key-d53b3137446470db04463257a6bd007d]
+### Article 35. Exercise of the delegation[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 36. Committee procedure[^key-d53b3137446470db04463257a6bd007d]
+### Article 36. Committee procedure[^c-d53b3137446470db04463257a6bd007d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -297,25 +297,25 @@ HAVE ADOPTED THIS REGULATION:
 
 In Regulation (EU) 2017/2107, Articles 20 to 26 are deleted.
 
-### Article 38. Amendments to Regulation (EC) No 1967/2006[^key-901cf8f2448b086076d281fe090171e0]
+### Article 38. Amendments to Regulation (EC) No 1967/2006[^c-901cf8f2448b086076d281fe090171e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 39.**[^key-901cf8f2448b086076d281fe090171e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 39.**[^c-901cf8f2448b086076d281fe090171e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-901cf8f2448b086076d281fe090171e0]...
+[^c-901cf8f2448b086076d281fe090171e0]...
 
-[^key-901cf8f2448b086076d281fe090171e0]...
+[^c-901cf8f2448b086076d281fe090171e0]...
 
-## ANNEX I — ICCAT MINIMUM STANDARDS FOR FISHING VESSELS SCIENTIFIC OBSERVER PROGRAMMES[^key-901cf8f2448b086076d281fe090171e0]
+## ANNEX I — ICCAT MINIMUM STANDARDS FOR FISHING VESSELS SCIENTIFIC OBSERVER PROGRAMMES[^c-901cf8f2448b086076d281fe090171e0]
 
 . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — REQUIREMENTS FOR FISHING LOGBOOKS[^key-901cf8f2448b086076d281fe090171e0]
+## ANNEX II — REQUIREMENTS FOR FISHING LOGBOOKS[^c-901cf8f2448b086076d281fe090171e0]
 
 - . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — ICCAT SCHEME OF JOINT INTERNATIONAL INSPECTION[^key-901cf8f2448b086076d281fe090171e0]
+## ANNEX III — ICCAT SCHEME OF JOINT INTERNATIONAL INSPECTION[^c-901cf8f2448b086076d281fe090171e0]
 
 . . . . . . . . . . . . . . . . . . . . . .
 
@@ -347,6 +347,6 @@ In Regulation (EU) 2017/2107, Articles 20 to 26 are deleted.
 
 [^f00013]: Footnote: Council Regulation (EC) No 1967/2006 of 21 December 2006 concerning management measures for the sustainable exploitation of fishery resources in the Mediterranean Sea, amending Regulation (EEC) No 2847/93 and repealing Regulation (EC) No 1626/94 ([OJ L 409, 30.12.2006, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.409.01.0011.01.ENG)).
 
-[^key-d53b3137446470db04463257a6bd007d]: Textual amendment: Arts. 1-36 omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2024/439/regulation/7/2)
+[^c-d53b3137446470db04463257a6bd007d]: Textual amendment: Arts. 1-36 omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2024/439/regulation/7/2)
 
-[^key-901cf8f2448b086076d281fe090171e0]: Textual amendment: Arts. 38, 39 and Annexes omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2024/439/regulation/7/3)
+[^c-901cf8f2448b086076d281fe090171e0]: Textual amendment: Arts. 38, 39 and Annexes omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2024/439/regulation/7/3)

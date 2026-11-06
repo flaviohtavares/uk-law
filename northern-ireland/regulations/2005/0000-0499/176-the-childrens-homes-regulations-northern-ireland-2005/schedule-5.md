@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — EVENTS AND NOTIFICATIONS[^key-a567f58106a9610a31e5c6931c79e047]
+## SCHEDULE 5 — EVENTS AND NOTIFICATIONS[^c-a567f58106a9610a31e5c6931c79e047]
 
 *Extent: N.I.*
 
@@ -43,13 +43,13 @@ Regulation 29(1)
 </tbody>
 </table>
 
-[^key-4ca5e5950155e725f54604a422e453f9][^f00025][^f00026]
+[^c-4ca5e5950155e725f54604a422e453f9][^f00025][^f00026]
 
 ## Annotations
 
-[^key-a567f58106a9610a31e5c6931c79e047]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2005/176/schedule/5) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-a567f58106a9610a31e5c6931c79e047]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2005/176/schedule/5) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
 
-[^key-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
 
 [^f00025]: Footnote: Article 32 of the Health and Personal Social Services (Northern Ireland) Order 1991 (S.I. [1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)) provides that the Chief Administrative Medical Officer of a Health and Social Services Board shall be known as the Director of Public Health
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44B. Extra-territorial application of notices under sections 26 and 40ZD[^key-e04e243b0a1b63d71800977295a95fca]
+## 44B. Extra-territorial application of notices under sections 26 and 40ZD[^c-e04e243b0a1b63d71800977295a95fca]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e04e243b0a1b63d71800977295a95fca]: Textual amendment: S. 44B inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2024/13/schedule/13/paragraph/15); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-e04e243b0a1b63d71800977295a95fca]: Textual amendment: S. 44B inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2024/13/schedule/13/paragraph/15); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)

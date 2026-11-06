@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Dairy Produce Quotas (Wales) (Amendment) Regulations 2007 (revoked)[^key-4643b4536d7e46e62a57c417004497e8]
+The Dairy Produce Quotas (Wales) (Amendment) Regulations 2007 (revoked)[^c-4643b4536d7e46e62a57c417004497e8]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 31 March 2007
 
-[^key-4643b4536d7e46e62a57c417004497e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4643b4536d7e46e62a57c417004497e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-4643b4536d7e46e62a57c417004497e8]
+## 1. Title, commencement and application[^c-4643b4536d7e46e62a57c417004497e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Dairy Produce Quotas (Wales) Regulations 2005[^key-4643b4536d7e46e62a57c417004497e8]
+## 2. Amendment of the Dairy Produce Quotas (Wales) Regulations 2005[^c-4643b4536d7e46e62a57c417004497e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4643b4536d7e46e62a57c417004497e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4643b4536d7e46e62a57c417004497e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4643b4536d7e46e62a57c417004497e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4643b4536d7e46e62a57c417004497e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4643b4536d7e46e62a57c417004497e8]: Textual amendment: Regulations revoked (31.3.2019) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/908/regulation/1/2), [3(i)](https://www.legislation.gov.uk/uksi/2018/908/regulation/3/i)
+[^c-4643b4536d7e46e62a57c417004497e8]: Textual amendment: Regulations revoked (31.3.2019) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/908/regulation/1/2), [3(i)](https://www.legislation.gov.uk/uksi/2018/908/regulation/3/i)

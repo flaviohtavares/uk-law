@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to the following provisions of this regulation, the payment of a contributory allowance to any claimant—
 
-- (a) which is excepted from the operation of section 18(4)(b) of the Act by virtue of the provisions of regulation 160(1)[^key-aac7fc0dfb91e5469aa5d855684413f6], (3) or (6); or
+- (a) which is excepted from the operation of section 18(4)(b) of the Act by virtue of the provisions of regulation 160(1)[^c-aac7fc0dfb91e5469aa5d855684413f6], (3) or (6); or
 - (b) which is payable otherwise than in respect of a period during which the claimant is undergoing imprisonment or detention in legal custody,
 
 is suspended while that claimant is undergoing imprisonment or detention in legal custody.
@@ -33,6 +33,6 @@ is suspended while that claimant is undergoing imprisonment or detention in lega
 
 ## Annotations
 
-[^key-aac7fc0dfb91e5469aa5d855684413f6]: Textual amendment: Word in reg. 161(1)(a) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [23(13)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/23/13)
+[^c-aac7fc0dfb91e5469aa5d855684413f6]: Textual amendment: Word in reg. 161(1)(a) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [23(13)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/23/13)
 
 [^c1919024]: Textual amendment: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).

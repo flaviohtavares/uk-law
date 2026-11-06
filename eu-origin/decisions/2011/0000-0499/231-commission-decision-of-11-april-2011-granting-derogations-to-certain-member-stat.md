@@ -39,18 +39,18 @@ granting derogations to certain Member States with respect to the transmission o
 
 (2011/231/EU) (revoked)
 
-[^key-c12b8fbeb54be178a2e337653ed99bc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c12b8fbeb54be178a2e337653ed99bc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c12b8fbeb54be178a2e337653ed99bc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c12b8fbeb54be178a2e337653ed99bc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c12b8fbeb54be178a2e337653ed99bc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c12b8fbeb54be178a2e337653ed99bc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c12b8fbeb54be178a2e337653ed99bc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c12b8fbeb54be178a2e337653ed99bc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-c12b8fbeb54be178a2e337653ed99bc7]
+## ANNEX[^c-c12b8fbeb54be178a2e337653ed99bc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c12b8fbeb54be178a2e337653ed99bc7]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 185](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/185); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c12b8fbeb54be178a2e337653ed99bc7]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 185](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/185); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

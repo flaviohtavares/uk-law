@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — The Constitution of the Turks and Caicos Islands[^key-3b9b5b862ef046bbdb09d87f63f7fe45]
+## SCHEDULE 2 — The Constitution of the Turks and Caicos Islands[^c-3b9b5b862ef046bbdb09d87f63f7fe45]
 
 *Extent: E+W+S+N.I.*
 
@@ -146,7 +146,7 @@ and, except with his or her own consent, the trial shall not take place in his o
 
 (14) When a person has by a final decision been convicted of a criminal offence and when subsequently his or her conviction has been reversed, or he or she has been pardoned, on the ground that a new or newly discovered fact shows conclusively that there has been a miscarriage of justice, the person who has suffered punishment as a result of such conviction shall be compensated according to law, unless it is proved that the non-disclosure of the unknown fact in time is wholly or partly attributable to him or her.
 
-#### 7. Equality before the law[^key-7c9015596df830e10092e2155de9e6e2]
+#### 7. Equality before the law[^c-7c9015596df830e10092e2155de9e6e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -240,7 +240,7 @@ and, except with his or her own consent, the trial shall not take place in his o
 
 (3) For the purposes of subsection (2)(c), “law” in that subsection includes directions in writing regarding the conduct of public officers generally or any class of public officer issued by the Government.
 
-(4) The registration and regulation of political parties shall be provided for by a law enacted by the Legislature[^key-95c2f9ab59d09b15a71a4593b821c70c].
+(4) The registration and regulation of political parties shall be provided for by a law enacted by the Legislature[^c-95c2f9ab59d09b15a71a4593b821c70c].
 
 #### 15. Protection of freedom of movement
 
@@ -349,7 +349,7 @@ provided that the provision or, as the case may be, the thing done under its aut
 
 #### 20. Provisions for periods of public emergency
 
-(1) Nothing contained in or done under the authority of any regulation made under the Emergency Powers (Overseas Territories) Order 2017[^key-153ae12835e76d1975ed02695dcad36c] or any other law in force in the Islands to like effect shall be held to be inconsistent with or in contravention of section 5, section 6 other than subsections (4), (5) and (6) or any provision of sections 7 to 19 (inclusive) to the extent that the regulation in question makes in relation to a period of public emergency provision, or authorises the doing during any such period of anything, that is reasonably justifiable in the circumstances of any situation arising or existing during that period for the purpose of dealing with that situation.
+(1) Nothing contained in or done under the authority of any regulation made under the Emergency Powers (Overseas Territories) Order 2017[^c-153ae12835e76d1975ed02695dcad36c] or any other law in force in the Islands to like effect shall be held to be inconsistent with or in contravention of section 5, section 6 other than subsections (4), (5) and (6) or any provision of sections 7 to 19 (inclusive) to the extent that the regulation in question makes in relation to a period of public emergency provision, or authorises the doing during any such period of anything, that is reasonably justifiable in the circumstances of any situation arising or existing during that period for the purpose of dealing with that situation.
 
 (2) When a person is detained by virtue of any regulation mentioned in subsection (1) the following provisions shall apply—
 
@@ -430,7 +430,7 @@ whenever made or given, so far as, in the opinion of the court, it is relevant t
 - “minor” means a person who has not attained the age of eighteen years;
 - “period of public emergency” means any period during which—
   - (a) Her Majesty is at war; or
-  - (b) there is in force in the Islands a proclamation of emergency under the Emergency Powers (Overseas Territories) Order 2017[^key-e75180dd9fe08853342f199b3e2b2132] or under any other law in force in the Islands to like effect.
+  - (b) there is in force in the Islands a proclamation of emergency under the Emergency Powers (Overseas Territories) Order 2017[^c-e75180dd9fe08853342f199b3e2b2132] or under any other law in force in the Islands to like effect.
 
 (2) In relation to any person who is a member of a disciplined force raised under the law of the Islands, nothing contained in or done under the authority of the disciplinary law of that force shall be held to contravene the provisions of this Part other than sections 2, 3 and 4.
 
@@ -503,7 +503,7 @@ the Governor may, by instrument in writing, appoint one of the persons holding o
 (2) Before issuing any Statement of Governance Principles or any amendment of such a Statement, a Secretary of State shall allow four weeks to expire during which—
 
 - (a) the Government and the Leader of the Opposition shall be consulted on a draft of the Statement or amendment; and
-- (b) the Parliament[^key-892fd363a5f79240b6d9af5e4fac6fa3] shall debate a draft of the Statement or amendment,
+- (b) the Parliament[^c-892fd363a5f79240b6d9af5e4fac6fa3] shall debate a draft of the Statement or amendment,
 
 and the Secretary of State shall give due consideration to any changes to the draft proposed as a result of such consultation or debate.
 
@@ -560,7 +560,7 @@ and the Secretary of State shall give due consideration to any changes to the dr
 
 - (a) the Governor;
 - (b) a Premier appointed by the Governor in accordance with subsection (2);
-- (c) subject to subsection (7),[^key-ed4f1f12fc7b98574e3423508d61833b] not more than six other Ministers appointed by the Governor, acting in accordance with the advice of the Premier, from among the elected[^key-9f544e0d06b892a6dba4868413ba890a] members of the Parliament, one of whom shall, in accordance with such advice, be appointed by the Governor as Deputy Premier; and
+- (c) subject to subsection (7),[^c-ed4f1f12fc7b98574e3423508d61833b] not more than six other Ministers appointed by the Governor, acting in accordance with the advice of the Premier, from among the elected[^c-9f544e0d06b892a6dba4868413ba890a] members of the Parliament, one of whom shall, in accordance with such advice, be appointed by the Governor as Deputy Premier; and
 - (d) the Deputy Governor and the Attorney General.
 
 (2) The Governor shall appoint as Premier the elected member of the Parliament who demonstrates to the Governor in writing that he or she commands the support of a majority of the elected members of the Parliament.
@@ -573,9 +573,9 @@ and the Secretary of State shall give due consideration to any changes to the dr
 
 (6) The Governor shall, without delay, report to Her Majesty through a Secretary of State every appointment made under this section.
 
-(7)[^key-ac06a4e87cf8704314f4e87be5586eb2] The Governor may, acting after consultation with the Premier and Leader of the Opposition, appoint more than six other Ministers under subsection (1)(c), subject to the total number of other Ministers appointed in addition to the Premier not exceeding two-fifths plus one of the number of elected members of the Parliament permitted in section 43(1)(b)[^key-24db16d6fff8156a1c2b5f535ab4dbba].
+(7)[^c-ac06a4e87cf8704314f4e87be5586eb2] The Governor may, acting after consultation with the Premier and Leader of the Opposition, appoint more than six other Ministers under subsection (1)(c), subject to the total number of other Ministers appointed in addition to the Premier not exceeding two-fifths plus one of the number of elected members of the Parliament permitted in section 43(1)(b)[^c-24db16d6fff8156a1c2b5f535ab4dbba].
 
-(8)[^key-965b10f3557e8bdf0c1869d35a4b8617] For the avoidance of doubt it is declared, subject to this Constitution, that the Cabinet possesses autonomous and exclusive capacity in domestic affairs for any matter that is not one of the following—
+(8)[^c-965b10f3557e8bdf0c1869d35a4b8617] For the avoidance of doubt it is declared, subject to this Constitution, that the Cabinet possesses autonomous and exclusive capacity in domestic affairs for any matter that is not one of the following—
 
 - (a) a special responsibility of the Governor under section 37(1);
 - (b) a function which the Governor must exercise under this Constitution, or any other law, in his or her discretion or judgement, or in accordance with instructions from His Majesty through a Secretary of State; or
@@ -653,15 +653,15 @@ until the expiry of the period specified under subsection (2) or, where no perio
 
 - (a) defence;
 - (b) external affairs;
-- (c)[^key-e6b221eb2a5999654a56742273c762ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e6b221eb2a5999654a56742273c762ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) internal security, including the Police Force; and
 - (e) the appointment of any person to any public office, the suspension, termination of appointment, dismissal or retirement of any public officer, the taking of any disciplinary action in respect of such an officer, the application to any public officer of the terms or conditions of employment of the public service for which financial provision has been made, and the organisation of the public service in so far as it does not involve new financial provision.
 
-(2) The Governor, acting after consultation with the Premier[^key-442afdee8a220ead73d30fbe7ccf10f9], may assign to a member of the Cabinet responsibility for the conduct on behalf of the Governor of any business in the Parliament with respect to any of the matters mentioned in subsection (1).
+(2) The Governor, acting after consultation with the Premier[^c-442afdee8a220ead73d30fbe7ccf10f9], may assign to a member of the Cabinet responsibility for the conduct on behalf of the Governor of any business in the Parliament with respect to any of the matters mentioned in subsection (1).
 
-(3) The Governor, acting in his or her discretion, may by directions in writing delegate, with the prior approval of a Secretary of State, to the Premier or any other Minister designated by him or her after consultation with the Premier such responsibility for matters relating to [^key-675ce69335742d24d8b0637f448d1bbd]... internal security as the Governor may think fit on such conditions as he or she may impose.
+(3) The Governor, acting in his or her discretion, may by directions in writing delegate, with the prior approval of a Secretary of State, to the Premier or any other Minister designated by him or her after consultation with the Premier such responsibility for matters relating to [^c-675ce69335742d24d8b0637f448d1bbd]... internal security as the Governor may think fit on such conditions as he or she may impose.
 
-(3A)[^key-53bba150cc373f982d4164334050806a] The Governor shall, acting after consultation with the Premier, delegate to the Premier or another Minister, by directions in writing and on the conditions set out in subsection (3B), responsibility for the following matters relating to external affairs—
+(3A)[^c-53bba150cc373f982d4164334050806a] The Governor shall, acting after consultation with the Premier, delegate to the Premier or another Minister, by directions in writing and on the conditions set out in subsection (3B), responsibility for the following matters relating to external affairs—
 
 - (a) the conduct of external affairs affecting the Turks and Caicos Islands within the Caribbean Community, the Association of Caribbean States, the United Nations Economic Commission for Latin America and the Caribbean, or any other Caribbean regional organisation or institution;
 - (b) other Caribbean regional affairs relating specifically to issues that are of interest to or affect the Turks and Caicos Islands;
@@ -693,7 +693,7 @@ until the expiry of the period specified under subsection (2) or, where no perio
 
 (6) The question of whether a matter falls within the scope of subsection (1) shall be determined by the Governor acting in his or her discretion.
 
-(7)[^key-ee1b513d4ba5e352ff79ada0a27b8780] The Governor shall not enter, agree or give final approval to any treaty or other international agreement which would affect internal policy in the Turks and Caicos Islands or require implementation by legislation without first obtaining the agreement of the Cabinet, unless otherwise instructed by a Secretary of State.
+(7)[^c-ee1b513d4ba5e352ff79ada0a27b8780] The Governor shall not enter, agree or give final approval to any treaty or other international agreement which would affect internal policy in the Turks and Caicos Islands or require implementation by legislation without first obtaining the agreement of the Cabinet, unless otherwise instructed by a Secretary of State.
 
 #### 38. Summoning of Cabinet
 
@@ -717,7 +717,7 @@ until the expiry of the period specified under subsection (2) or, where no perio
 
 The Governor, or any person presiding over a meeting of the Cabinet in his or her absence, may, acting in his or her discretion, summon any public officer or other person to a meeting of the Cabinet whenever the business before the Cabinet renders the presence of that officer or other person desirable.
 
-#### 40A. Cabinet Office and Cabinet Secretary[^key-26a41a503a9ff2b0bcd81e249251211a]
+#### 40A. Cabinet Office and Cabinet Secretary[^c-26a41a503a9ff2b0bcd81e249251211a]
 
 (1) There shall be—
 
@@ -751,7 +751,7 @@ The Governor, or any person presiding over a meeting of the Cabinet in his or he
 - (a) these functions may be exercised by the Attorney General in person or by officers subordinate to him or her acting under and in accordance with his or her general or special instructions; and
 - (b) in the exercise of these functions the Attorney General shall not be subject to the direction or control of any other person or authority, and any such subordinate officer shall not be subject to the direction or control of any person or authority other than the Attorney General.
 
-#### 41A. National Security Council[^key-922d79f23e3fbabc8ed0a5867fae5419]
+#### 41A. National Security Council[^c-922d79f23e3fbabc8ed0a5867fae5419]
 
 (1) There shall continue to be a National Security Council for the Turks and Caicos Islands which shall consist of—
 
@@ -796,8 +796,8 @@ There shall be a Legislature for the Turks and Caicos Islands which shall consis
 (1) The Parliament shall consist of—
 
 - (a) a Speaker, elected as provided in section 44;
-- (b) nineteen[^key-2847aa9b82055bdd00177d0c4a21f14d] elected members; and[^key-c82970c4924ffd9b668ff8c7200ee808]
-- (c)[^key-9b9069f8bef9db387021ae7fb8ca9134] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) nineteen[^c-2847aa9b82055bdd00177d0c4a21f14d] elected members; and[^c-c82970c4924ffd9b668ff8c7200ee808]
+- (c)[^c-9b9069f8bef9db387021ae7fb8ca9134] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the Attorney General.
 
 (2) The Attorney General shall not have the right to vote in the Parliament.
@@ -806,7 +806,7 @@ There shall be a Legislature for the Turks and Caicos Islands which shall consis
 
 (1) When the Parliament first meets after a general election, or after the office of Speaker has fallen vacant for any reason other than a dissolution of the Parliament, and before it proceeds to the despatch of any other business, the Parliament shall elect a person to be Speaker of the Parliament.
 
-(2) The Speaker shall be elected from among the elected members of the Parliament who are not members of the Cabinet or from among persons who are not members of the Parliament, and shall be elected by a majority of the votes of the elected members of the Parliament; but no person shall be elected as Speaker who is not qualified to be an elected member[^key-1d43fd8333655fd21f808faefddbc78d] of the Parliament or who would for any reason be disqualified from being an elected member.
+(2) The Speaker shall be elected from among the elected members of the Parliament who are not members of the Cabinet or from among persons who are not members of the Parliament, and shall be elected by a majority of the votes of the elected members of the Parliament; but no person shall be elected as Speaker who is not qualified to be an elected member[^c-1d43fd8333655fd21f808faefddbc78d] of the Parliament or who would for any reason be disqualified from being an elected member.
 
 (3) When the Parliament first meets after a general election, and before it proceeds to the despatch of any other business except the election of a Speaker, it shall elect a member, from among the elected members of the Parliament who are not members of the Cabinet, to be the Deputy Speaker, by a majority of the votes of the elected members of the Parliament; and if the office of Deputy Speaker falls vacant for any reason other than a dissolution of the Parliament, the Parliament shall, as soon as convenient, elect another such member to that office.
 
@@ -827,7 +827,7 @@ There shall be a Legislature for the Turks and Caicos Islands which shall consis
 
 (2) For the purposes of elections to the Parliament, the Islands—
 
-- (a) shall be a single electoral district and shall return nine[^key-c5a8ac9dfd397f3f3f9411283b4c3992] members to the Parliament; and
+- (a) shall be a single electoral district and shall return nine[^c-c5a8ac9dfd397f3f3f9411283b4c3992] members to the Parliament; and
 - (b) shall also be divided into ten electoral districts each of which shall return one member to the Parliament.
 
 ##### 46. Qualifications for elected membership
@@ -835,14 +835,14 @@ There shall be a Legislature for the Turks and Caicos Islands which shall consis
 Subject to section 49, a person shall be qualified to be elected as a member of the Parliament if, and shall not be qualified to be so elected unless, on the date of his or her nomination for election he or she—
 
 - (a) has attained the age of 21 years; and
-- (b) is resident in the Islands and has been so resident for not less than twelve months, in the aggregate, out of the three[^key-cab2cc5508d73f65f2df868c285aff9b] years immediately preceding that date; and
+- (b) is resident in the Islands and has been so resident for not less than twelve months, in the aggregate, out of the three[^c-cab2cc5508d73f65f2df868c285aff9b] years immediately preceding that date; and
 - (c) is a Turks and Caicos Islander.
 
-##### 47. Appointed members[^key-ff5f2f162cb4de7d75f673bb87183128]
+##### 47. Appointed members[^c-ff5f2f162cb4de7d75f673bb87183128]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 48. Qualifications for appointed membership[^key-222538614ff3b6833a0c213d2268fdc8]
+##### 48. Qualifications for appointed membership[^c-222538614ff3b6833a0c213d2268fdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -870,9 +870,9 @@ Subject to section 49, a person shall be qualified to be elected as a member of 
 
 (3) At the close of nominations of candidates for election to the Parliament the Integrity Commission shall publish any notice delivered to it under subsection (1)(f) in such manner as it considers effective for the purpose of informing the electorate before the date of election.
 
-(4)[^key-e9a307edd3527972b5f57d0716352b27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e9a307edd3527972b5f57d0716352b27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-ba131c830999bcf1368b513fcc800b62] For the purposes of subsection (1)(a), a person who has automatically acquired a citizenship other than British nationality, including by way of birth or descent, shall not be considered to have done so by virtue of his or her own act.
+(5)[^c-ba131c830999bcf1368b513fcc800b62] For the purposes of subsection (1)(a), a person who has automatically acquired a citizenship other than British nationality, including by way of birth or descent, shall not be considered to have done so by virtue of his or her own act.
 
 (6) Any person who, prior to the entry into force of this subsection, renounced his or her automatically acquired citizenship and who subsequently re-acquires that citizenship shall not be disqualified from being an elected member of the Parliament by virtue of this acquisition notwithstanding subsection 1(a).
 
@@ -900,7 +900,7 @@ Subject to section 49, a person shall be qualified to be elected as a member of 
 
 (4) The Integrity Commission shall make and publish rules defining the circumstances in which the acquisition by an elected member of the Parliament of an interest in a contract with the Government is prohibited, and each such member of the Parliament shall disclose to the Integrity Commission every interest he or she acquires in any such contract within seven days of acquiring it.
 
-(5)[^key-d270e3c90599e42fdee5e882ffa1138e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d270e3c90599e42fdee5e882ffa1138e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### 52. Delay in vacation of seat to allow for an appeal
 
@@ -934,7 +934,7 @@ and the decision of the Supreme Court shall be final and not subject to any appe
 
 (2) An application to the Supreme Court for the determination of any question under subsection (1) may be made by the Attorney General or by any person who is a registered elector; and an application for the determination of any question under subsection (1)(b) may also be made by any member of the Parliament.
 
-(3) Any question as to whether a person is an *ex officio* [^key-e656b7fd0afc7818b2cdce38aa8926fe]... member of the Parliament, or whether any such person has vacated his or her seat, shall be determined by the Governor acting in his or her discretion.
+(3) Any question as to whether a person is an *ex officio* [^c-e656b7fd0afc7818b2cdce38aa8926fe]... member of the Parliament, or whether any such person has vacated his or her seat, shall be determined by the Governor acting in his or her discretion.
 
 ##### 54. Penalty for unauthorised person sitting or voting
 
@@ -986,7 +986,7 @@ and the decision of the Supreme Court shall be final and not subject to any appe
 
 (2) The Governor, acting after consultation with the Premier, may at any time dissolve the Parliament by proclamation published in the *Gazette*.
 
-(3) The Governor shall dissolve the Parliament at the expiration of five[^key-6f81193b7f18c641ff78ab9e7a781e38] years from the date when the Parliament first meets after any general election, unless it has been sooner dissolved.
+(3) The Governor shall dissolve the Parliament at the expiration of five[^c-6f81193b7f18c641ff78ab9e7a781e38] years from the date when the Parliament first meets after any general election, unless it has been sooner dissolved.
 
 ##### 58. Recalling dissolved Parliament in case of emergency
 
@@ -998,7 +998,7 @@ If, between a dissolution of the Parliament and the next ensuing general electio
 
 (2) Whenever an elected member of the Parliament vacates his or her seat for any reason other than a dissolution of the Parliament, an election shall be held to fill the vacancy, on such date as the Governor shall appoint by proclamation published in the *Gazette* within three months, but not less than 35 days, of the occurrence of the vacancy unless the Parliament is sooner dissolved or will be dissolved under section 57(3) within four months of the occurrence of the vacancy.
 
-(3)[^key-081f3fb930108051ac673371eafe6986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-081f3fb930108051ac673371eafe6986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### 60. Electoral District Boundary Commission
 
@@ -1006,9 +1006,9 @@ If, between a dissolution of the Parliament and the next ensuing general electio
 
 (2) A Commission shall consist of—
 
-- (a) a Chairman appointed by the Governor, acting in his or her discretion , from among persons who hold or have held high judicial office or are lawyers of at least ten years’ standing[^key-4bdd833560631ad25520ebb57252a67f];
-- (b) a member appointed by the Governor, acting after consultation with the Premier[^key-5e54de87d93d769b6789c2d0f22ed3db]; and
-- (c) a member appointed by the Governor, acting after consultation with [^key-3586a521eb6b64ddf65c33cfaf13dcf1]... the Leader of the Opposition.
+- (a) a Chairman appointed by the Governor, acting in his or her discretion , from among persons who hold or have held high judicial office or are lawyers of at least ten years’ standing[^c-4bdd833560631ad25520ebb57252a67f];
+- (b) a member appointed by the Governor, acting after consultation with the Premier[^c-5e54de87d93d769b6789c2d0f22ed3db]; and
+- (c) a member appointed by the Governor, acting after consultation with [^c-3586a521eb6b64ddf65c33cfaf13dcf1]... the Leader of the Opposition.
 
 (3) A person shall not be qualified to be appointed as a member of a Commission if he or she is a member of the Parliament or a public officer.
 
@@ -1046,7 +1046,7 @@ If, between a dissolution of the Parliament and the next ensuing general electio
 
 (4) Where any bill introduced under this section proposes to give effect to the recommendations of a Commission with modifications, there shall be laid before the Parliament at the same time a statement of the reasons for the modifications.
 
-(5)[^key-41ee10c0ca82ae9a4f0324fa27a9b284] If so requested by the Governor acting in his or her discretion, a Commission shall also review the number of members returned under section 45(2)(a) of this Constitution and the number of electoral districts set out at section 45(2)(b) of this Constitution and shall submit to the Governor and the Parliament a statement in writing either—
+(5)[^c-41ee10c0ca82ae9a4f0324fa27a9b284] If so requested by the Governor acting in his or her discretion, a Commission shall also review the number of members returned under section 45(2)(a) of this Constitution and the number of electoral districts set out at section 45(2)(b) of this Constitution and shall submit to the Governor and the Parliament a statement in writing either—
 
 - (a) stating that, in the opinion of the Commission, no change to those numbers is required; or
 - (b) recommending changes to those numbers.
@@ -1061,7 +1061,7 @@ If, between a dissolution of the Parliament and the next ensuing general electio
 
 Subject to this Constitution, the Legislature may make laws for the peace, order and good government of the Islands.
 
-##### 62A. Power to provide for a referendum[^key-edc8f2ba13fbf14b5abcfe5490eb11de]
+##### 62A. Power to provide for a referendum[^c-edc8f2ba13fbf14b5abcfe5490eb11de]
 
 (1) A law enacted by the Legislature may make provision to hold a referendum amongst persons registered as electors in accordance with section 55 on a matter or matters of national importance.
 
@@ -1078,7 +1078,7 @@ Subject to this Constitution, the Legislature may make laws for the peace, order
 
 ##### 63. Standing Orders of Parliament
 
-(1) Subject to this Constitution and to any Instructions under Her Majesty’s Sign Manual and Signet, the Parliament may make, amend and revoke Standing Orders for the regulation and orderly conduct of its own proceedings, and for the passing, intituling and numbering of bills and their presentation to the Governor for assent [^key-39a8574abe2a408c4c3a88bf70c8ec72]....
+(1) Subject to this Constitution and to any Instructions under Her Majesty’s Sign Manual and Signet, the Parliament may make, amend and revoke Standing Orders for the regulation and orderly conduct of its own proceedings, and for the passing, intituling and numbering of bills and their presentation to the Governor for assent [^c-39a8574abe2a408c4c3a88bf70c8ec72]....
 
 (2) Standing Orders made under this section may provide for the establishment of committees of the Parliament (in addition to the Standing Committees to be established under section 64) and for the proceedings and conduct of business before any such committee.
 
@@ -1158,7 +1158,7 @@ but, after consultation with the Premier, it appears to the Governor that the Ca
 
 (3) The powers conferred on the Governor by subsection (1) shall be exercised by the Governor in his or her discretion.
 
-(4)[^key-01c96679b3945f6eceb98777b705644c] A law made in pursuance of subsection (1) shall be deemed to be a law enacted by the Legislature.
+(4)[^c-01c96679b3945f6eceb98777b705644c] A law made in pursuance of subsection (1) shall be deemed to be a law enacted by the Legislature.
 
 ##### 73. Assent to bills
 
@@ -1190,7 +1190,7 @@ The Governor, acting in his or her discretion, may return to the Parliament any 
 
 (2) Whenever a law has been disallowed by Her Majesty the Governor shall, as soon as practicable, cause notice of the disallowance to be published in the *Gazette* and the law shall be annulled with effect from the date of the publication of that notice.
 
-(3) Section 16(1) of the Interpretation Act 1978[^f00006] shall apply to the annulment of any law under this section as it applies to the repeal of an Act of Parliament of the United Kingdom[^key-f6987f4db91bd92ea9a353c0602a00ff], save that any enactment repealed or amended by or in pursuance of that law shall have effect as from the date of the annulment as if that law had not been made.
+(3) Section 16(1) of the Interpretation Act 1978[^f00006] shall apply to the annulment of any law under this section as it applies to the repeal of an Act of Parliament of the United Kingdom[^c-f6987f4db91bd92ea9a353c0602a00ff], save that any enactment repealed or amended by or in pursuance of that law shall have effect as from the date of the annulment as if that law had not been made.
 
 ##### 76. Privileges, immunities and powers of Parliament
 
@@ -1218,7 +1218,7 @@ and of at least ten years’ standing as such.
 
 (5) It shall be lawful for a person qualified for appointment as a judge of the Supreme Court to be appointed (regardless of his or her age) for such term as may be specified in the instrument of appointment, and section 85 shall have effect in relation to any person so appointed as if he or she would attain the retiring age applicable to that office on the day on which the specified term expires.
 
-(6)[^key-1355eae2a3b7e845a86dd704b49e5f9c] The Chief Justice shall be the head of the judiciary of the Turks and Caicos Islands.
+(6)[^c-1355eae2a3b7e845a86dd704b49e5f9c] The Chief Justice shall be the head of the judiciary of the Turks and Caicos Islands.
 
 (7) The Chief Justice shall have responsibility for the management of all matters arising in the judicature, including responsibility—
 
@@ -1365,7 +1365,7 @@ and the Commission shall have such other functions as may be conferred on it by 
 
 (4) This section is without prejudice to section 85.
 
-### PART VI — THE PUBLIC SERVICE , THE REGIMENT AND THE POLICE FORCE[^key-d6ac63b89091ba393d66900672323ae5]
+### PART VI — THE PUBLIC SERVICE , THE REGIMENT AND THE POLICE FORCE[^c-d6ac63b89091ba393d66900672323ae5]
 
 #### 88. Overriding duty of public officers
 
@@ -1380,7 +1380,7 @@ Subject to this Constitution, all public officers must act in accordance with th
 - (a) the Chairman shall be appointed by the Governor, acting in his or her discretion;
 - (b) one member shall be appointed by the Governor, acting after consultation with the Premier;
 - (c) one member shall be appointed by the Governor, acting after consultation with the Leader of the Opposition;
-- (d) one member shall be appointed by the Governor, acting after consultation with the Civil Service[^key-fa07c378f734204a3f474c73f0822d7c] Association; and
+- (d) one member shall be appointed by the Governor, acting after consultation with the Civil Service[^c-fa07c378f734204a3f474c73f0822d7c] Association; and
 - (e) one member shall be appointed by the Governor, acting after consultation with the Premier, the Leader of the Opposition and the Civil Service Association.
 
 (3) The members of the Public Service Commission shall be appointed by instrument under the public seal for such period, not being less than one year nor more than four years, as may be specified in their respective instruments of appointment.
@@ -1452,9 +1452,9 @@ to such extent and subject to such conditions as may be prescribed in the regula
 - (b) Permanent Secretary, Finance;
 - (c) Auditor General;
 - (d) Director of Public Prosecutions;
-- (e) Supervisor of Elections; [^key-225e3703b073d69b4006a1e4098151e8]...
-- (f) Commissioner of Police ; and[^key-6938ac84a19ca1f2dd307673dbe1ea07]
-- (g)[^key-545c03d2c0ef87909a8a37715119e800] Commanding Officer of the Regiment.
+- (e) Supervisor of Elections; [^c-225e3703b073d69b4006a1e4098151e8]...
+- (f) Commissioner of Police ; and[^c-6938ac84a19ca1f2dd307673dbe1ea07]
+- (g)[^c-545c03d2c0ef87909a8a37715119e800] Commanding Officer of the Regiment.
 
 (3) Before making an appointment to the office of Director of Public Prosecutions the Governor shall consult the Premier, the Leader of the Opposition and the Judicial Service Commission, and before making an appointment to the office of Auditor General or Supervisor of Elections the Governor shall consult the Premier and the Leader of the Opposition.
 
@@ -1487,7 +1487,7 @@ The Governor, acting after consultation with the Public Service Commission, may,
 - (c) the protection and privileges of members of the Commission in respect of the performance of their functions and the privilege of communications to and from the Commission and its members in the case of legal proceedings;
 - (d) the definition and trial of offences in relation to the functions of the Commission and the imposition of penalties for such offences; but no such penalty shall exceed a fine of 5,000 United States dollars or imprisonment for a term of one year or both such fine and imprisonment.
 
-#### 93A. The Regiment[^key-25a00466f2fbd0ee1cd108a3f7d5415e]
+#### 93A. The Regiment[^c-25a00466f2fbd0ee1cd108a3f7d5415e]
 
 (1) There shall continue to be raised and maintained in the Islands a reserved military force known as the Turks and Caicos Islands Regiment.
 
@@ -1597,17 +1597,17 @@ Awards granted under any law in force in the Islands are hereby charged on and s
 - (b) a Complaints Commissioner;
 - (c) a Director of Public Prosecutions;
 - (d) a Human Rights Commission;
-- (e) an Integrity Commission; [^key-2e8afdb94e0ca5b221d32254eda285b4]...
-- (f) a Supervisor of Elections ; and[^key-90b17c6950c4684f48a34155c699ec5d]
-- (g)[^key-eb77d0b5a06bd11081db8415f0809c7f] a Constitutional Commission, if established under section 104A.
+- (e) an Integrity Commission; [^c-2e8afdb94e0ca5b221d32254eda285b4]...
+- (f) a Supervisor of Elections ; and[^c-90b17c6950c4684f48a34155c699ec5d]
+- (g)[^c-eb77d0b5a06bd11081db8415f0809c7f] a Constitutional Commission, if established under section 104A.
 
-(2) In the exercise of its functions,[^key-dd4eca7e663fe4ccd405915808803e70] each of the institutions protecting good governance, and any person acting on its instructions or on its behalf, shall not be subject to the direction or control of any other person or authority.
+(2) In the exercise of its functions,[^c-dd4eca7e663fe4ccd405915808803e70] each of the institutions protecting good governance, and any person acting on its instructions or on its behalf, shall not be subject to the direction or control of any other person or authority.
 
 (3) The remuneration and allowances of any person holding office as, or as a member of, any of the institutions protecting good governance shall be determined by law, are hereby charged on and shall be paid out of the Consolidated Fund, and shall not be diminished during his or her continuance in office; and the terms and conditions of service of any such person shall not be altered to his or her disadvantage during his or her continuance in office.
 
-(4) Nothing in subsection (3) shall preclude an a law enacted by the Legislature that reduces the level of remuneration payable to the persons referred to in that subsection where that law[^key-2974383396c87bdcd2f4f7d3448b2721] makes equivalent reduction to the remuneration of all members of the public service.
+(4) Nothing in subsection (3) shall preclude an a law enacted by the Legislature that reduces the level of remuneration payable to the persons referred to in that subsection where that law[^c-2974383396c87bdcd2f4f7d3448b2721] makes equivalent reduction to the remuneration of all members of the public service.
 
-(5)[^key-d197916f2f21abb2d0dfe09e58cd9d14] Each of the institutions protecting good governance shall make an annual report to the Parliament about its activities, and shall send a copy of each report to the Governor. In making an annual report, an institution protecting good governance shall consider the need for confidentiality where appropriate.
+(5)[^c-d197916f2f21abb2d0dfe09e58cd9d14] Each of the institutions protecting good governance shall make an annual report to the Parliament about its activities, and shall send a copy of each report to the Governor. In making an annual report, an institution protecting good governance shall consider the need for confidentiality where appropriate.
 
 #### 98. Auditor General and National Audit Office
 
@@ -1618,7 +1618,7 @@ Awards granted under any law in force in the Islands are hereby charged on and s
 (3) In addition to the other functions conferred on the Auditor General by sections 122 and 126, the Auditor General shall have the following functions—
 
 - (a) to promote accountability in the public administration of the Islands;
-- (b) to undertake any function conferred on the Auditor General by or under any law enacted by the Legislature[^key-964c91751000eceb2ad4fda33fd72031]; and
+- (b) to undertake any function conferred on the Auditor General by or under any law enacted by the Legislature[^c-964c91751000eceb2ad4fda33fd72031]; and
 - (c) to do anything incidental or conducive to any of the Auditor General’s functions.
 
 #### 99. Complaints Commissioner
@@ -1637,7 +1637,7 @@ Awards granted under any law in force in the Islands are hereby charged on and s
 - (c) if he or she becomes a member of the Parliament or the holder of any office in any political party; or
 - (d) if the Governor, acting in his or her discretion, directs that he or she shall be removed from office for inability to discharge the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour.
 
-(4) The Complaints Commissioner shall investigate complaints of maladministration in the government of the Islands in accordance with any law enacted by the Legislature[^key-075ec73f8a98ba73bea9678014c5f714], and shall have such functions and jurisdiction as may be prescribed by or under any such law[^key-4437c328a785b56b4e45d88a8e868bf6].
+(4) The Complaints Commissioner shall investigate complaints of maladministration in the government of the Islands in accordance with any law enacted by the Legislature[^c-075ec73f8a98ba73bea9678014c5f714], and shall have such functions and jurisdiction as may be prescribed by or under any such law[^c-4437c328a785b56b4e45d88a8e868bf6].
 
 #### 100. Director of Public Prosecutions
 
@@ -1681,7 +1681,7 @@ Awards granted under any law in force in the Islands are hereby charged on and s
 
 but any public officer or public authority to which the Commission addresses a recommendation must respond in writing within a reasonable time, and such responses shall be published by the Commission unless there is a good reason to withhold publication.
 
-(5)[^key-aa9c099ed6d8c5c674ba8618f2bad1d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-aa9c099ed6d8c5c674ba8618f2bad1d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Further provision relating to the establishment and operation of the Human Rights Commission may be made by a law enacted by the Legislature, but such legislation shall not derogate from any provision of this section.
 
@@ -1699,12 +1699,12 @@ but any public officer or public authority to which the Commission addresses a r
 (3) The Integrity Commission shall—
 
 - (a) have and exercise the functions conferred on it by sections 34, 49, 51 and 124;
-- (b) formulate and publish, after public consultation in the Islands, a Code of Conduct for Persons in Public Life, keep the Code under review and amend or replace it as it considers necessary or desirable, and, in accordance with any law enacted by the Legislature[^key-cd37b654fe970141182b4357a0685a62], investigate any alleged failures to abide by the Code by persons subject to it, either in response to a complaint or on its own initiative;
+- (b) formulate and publish, after public consultation in the Islands, a Code of Conduct for Persons in Public Life, keep the Code under review and amend or replace it as it considers necessary or desirable, and, in accordance with any law enacted by the Legislature[^c-cd37b654fe970141182b4357a0685a62], investigate any alleged failures to abide by the Code by persons subject to it, either in response to a complaint or on its own initiative;
 - (c) have and exercise the functions conferred on it by section 103 and any other law relating to the registration of interests by persons in public life;
 - (d) contribute to public education about integrity in public life; and
 - (e) have and exercise such other functions, for the purpose of fulfilling its primary responsibility under subsection (2), as may be conferred on it by law.
 
-(4)[^key-13b5c73b7c7d5a1a5defdfed6c8b83f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-13b5c73b7c7d5a1a5defdfed6c8b83f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Further provision relating to the establishment and operation of the Integrity Commission may be made by a law enacted by the Legislature, but such legislation shall not derogate from any provision of this section.
 
@@ -1724,14 +1724,14 @@ but any public officer or public authority to which the Commission addresses a r
 
 (1) The office of Supervisor of Elections shall be a public office, and appointments to that office shall be made in accordance with section 91.
 
-(2) The primary responsibility of the Supervisor of Elections shall be, in accordance with any law enacted by the Legislature[^key-64eea8deeb38ccafa04b9a962a8d9eea]—
+(2) The primary responsibility of the Supervisor of Elections shall be, in accordance with any law enacted by the Legislature[^c-64eea8deeb38ccafa04b9a962a8d9eea]—
 
 - (a) to make arrangements for the registration of electors and the administrative conduct of elections to the Parliament; and
 - (b) to enforce on the part of all election officers fairness, impartiality and compliance with any such law.
 
 (3) The Supervisor of Elections shall have and exercise such functions, for the purpose of fulfilling his or her primary responsibility under subsection (2), as may be conferred on him or her by law.
 
-#### 104A. Constitutional Commission[^key-964d58b0f96aa77cd7fdcebb46dba33f]
+#### 104A. Constitutional Commission[^c-964d58b0f96aa77cd7fdcebb46dba33f]
 
 Subject to this Constitution, a law enacted by the Legislature may establish and provide for the composition and functions of a Constitutional Commission. A Constitutional Commission shall advise the Government on questions concerning constitutional development, including on how to increase within the Parliament a diverse range of elected members, representing shades of opinion which would not otherwise be represented in the Parliament.
 
@@ -1744,7 +1744,7 @@ Subject to this Constitution, a law enacted by the Legislature may establish and
 
 (2) The Parliament may pass or reject a budget recommended to it under subsection (1)(b), but may not amend it.
 
-(3) If the Parliament passes a budget recommended to it under this section, that budget shall form part of the appropriation law enacted by the Legislature[^key-7797449f177a9a338b3b82ba4b39e522] for that financial year.
+(3) If the Parliament passes a budget recommended to it under this section, that budget shall form part of the appropriation law enacted by the Legislature[^c-7797449f177a9a338b3b82ba4b39e522] for that financial year.
 
 (4) If the Parliament rejects a budget recommended to it under subsection (1)(b), the Appropriations Committee shall reconsider the budget in question and, after consulting the institution concerned, recommend a revised budget to the Parliament; and the same procedure shall be followed if the Parliament rejects a revised budget recommended to it.
 
@@ -1787,7 +1787,7 @@ Subject to section 108, the principles governing the acquisition, management and
 (5) The prior approval of a Secretary of State shall be required before—
 
 - (a) the adoption by the Government of any proposed decision or policy; or
-- (b) the coming into force of any law enacted by the Legislature[^key-c8ee47da237edb3dae112dac5162d551],
+- (b) the coming into force of any law enacted by the Legislature[^c-c8ee47da237edb3dae112dac5162d551],
 
 which, in the judgement of the Governor, would exceed the framework document published under subsection (4) which is for the time being in effect.
 
@@ -1802,7 +1802,7 @@ which, in the judgement of the Governor, would exceed the framework document pub
 
 (1) No tax, rate or other levy shall be imposed except under the authority of a law enacted by the Legislature.
 
-(2) Where a law enacted by the Legislature confers powers on any person or authority to waive or vary a tax imposed by that law[^key-91b990482d1f68b556689aec7533453e], that person or authority shall report to the Parliament on the exercise of those powers as often as shall be determined by law but not less than every six months.
+(2) Where a law enacted by the Legislature confers powers on any person or authority to waive or vary a tax imposed by that law[^c-91b990482d1f68b556689aec7533453e], that person or authority shall report to the Parliament on the exercise of those powers as often as shall be determined by law but not less than every six months.
 
 #### 111. Contingent liabilities
 
@@ -1822,16 +1822,16 @@ The Minister of Finance shall ensure that all contingent liabilities of the Gove
 (1) No moneys shall be withdrawn from the Consolidated Fund except—
 
 - (a) to meet expenditure charged on the Fund by this Constitution or by a law enacted by the Legislature; or
-- (b) where the issue of those moneys has been authorised by an appropriation law enacted by the Legislature[^key-6ff4f34706fc73662a18ac3231a052bc], a supplementary appropriation law enacted by the Legislature, or as provided in subsection (3).
+- (b) where the issue of those moneys has been authorised by an appropriation law enacted by the Legislature[^c-6ff4f34706fc73662a18ac3231a052bc], a supplementary appropriation law enacted by the Legislature, or as provided in subsection (3).
 
 (2) No moneys shall be withdrawn from any public fund of the Islands other than the Consolidated Fund unless the issue of those moneys has been authorised by law.
 
-(3) If the Minister of Finance is satisfied that the appropriation law enacted by the Legislature[^key-68839926756ea568b0ddbb93ee5a8b97] in respect of any financial year will not or has not come into force by the beginning of that financial year, that Minister may, if so authorised by the Parliament by resolution and subject to subsection (4), authorise the issue of moneys from the Consolidated Fund for the purpose of meeting expenditure necessary to carry on the services of the Government until the expiration of four months from the beginning of that financial year or the coming into force of the appropriation law enacted by the Legislature, whichever is the earlier.
+(3) If the Minister of Finance is satisfied that the appropriation law enacted by the Legislature[^c-68839926756ea568b0ddbb93ee5a8b97] in respect of any financial year will not or has not come into force by the beginning of that financial year, that Minister may, if so authorised by the Parliament by resolution and subject to subsection (4), authorise the issue of moneys from the Consolidated Fund for the purpose of meeting expenditure necessary to carry on the services of the Government until the expiration of four months from the beginning of that financial year or the coming into force of the appropriation law enacted by the Legislature, whichever is the earlier.
 
 (4) Any sum issued in any financial year from the Consolidated Fund under subsection (3) in respect of any ongoing service of the Government—
 
 - (a) shall not exceed one third of the amount approved for that service in an appropriation law enacted by the Legislature or a supplementary appropriation law enacted by the Legislature for the previous financial year; and
-- (b) shall be set off against the amount provided in respect of that service in the appropriation law enacted by the Legislature for that financial year when that law[^key-77c13aca46982670a181824e6f7e3417] comes into force.
+- (b) shall be set off against the amount provided in respect of that service in the appropriation law enacted by the Legislature for that financial year when that law[^c-77c13aca46982670a181824e6f7e3417] comes into force.
 
 #### 114. Appropriations Committee
 
@@ -1858,9 +1858,9 @@ and the Parliament shall publish those estimates and that document without delay
 
 #### 116. Appropriation Bill
 
-(1) The heads of expenditure contained in the estimates, other than expenditure charged on the Consolidated Fund by this Constitution or any law enacted by the Legislature[^key-8357d86937fe24156dab38dece54ee21], shall be included in a bill, to be known as an Appropriation Bill, which shall be introduced into the Parliament to provide for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified in the bill.
+(1) The heads of expenditure contained in the estimates, other than expenditure charged on the Consolidated Fund by this Constitution or any law enacted by the Legislature[^c-8357d86937fe24156dab38dece54ee21], shall be included in a bill, to be known as an Appropriation Bill, which shall be introduced into the Parliament to provide for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified in the bill.
 
-(2) If in respect of any financial year it is found that the amount appropriated for any purpose under the appropriation law enacted by the Legislature[^key-9974f6147f296a1beff034700fbbc5a3] is insufficient or that a need has arisen for expenditure for a purpose for which no amount has been appropriated by that law[^key-ede9d7dce5aa1f49f75f2324d8579603], a supplementary estimate showing the sums required shall be laid before the Parliament by the Minister of Finance, and the Appropriations Committee shall scrutinise that estimate and make recommendations in relation to it to the Parliament.
+(2) If in respect of any financial year it is found that the amount appropriated for any purpose under the appropriation law enacted by the Legislature[^c-9974f6147f296a1beff034700fbbc5a3] is insufficient or that a need has arisen for expenditure for a purpose for which no amount has been appropriated by that law[^c-ede9d7dce5aa1f49f75f2324d8579603], a supplementary estimate showing the sums required shall be laid before the Parliament by the Minister of Finance, and the Appropriations Committee shall scrutinise that estimate and make recommendations in relation to it to the Parliament.
 
 (3) The heads of expenditure contained in a supplementary estimate shall be included in a bill, to be known as a Supplementary Appropriation Bill, which shall be introduced into the Parliament to provide for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified in the bill.
 
@@ -1868,7 +1868,7 @@ and the Parliament shall publish those estimates and that document without delay
 
 #### 117. Excess expenditure
 
-(1) Where, in exceptional circumstances, at the close of accounts for any financial year it is found that moneys have been expended on any expenditure in excess of the amount appropriated for it by an appropriation law enacted by the Legislature[^key-1123c52ec1da262c66465c3cf0665565] or a supplementary appropriation law enacted by the Legislature or for a purpose for which no moneys have been voted and appropriated, the amount of the excess expended, or not appropriated, as the case may be, shall be included in a statement of expenditure in excess.
+(1) Where, in exceptional circumstances, at the close of accounts for any financial year it is found that moneys have been expended on any expenditure in excess of the amount appropriated for it by an appropriation law enacted by the Legislature[^c-1123c52ec1da262c66465c3cf0665565] or a supplementary appropriation law enacted by the Legislature or for a purpose for which no moneys have been voted and appropriated, the amount of the excess expended, or not appropriated, as the case may be, shall be included in a statement of expenditure in excess.
 
 (2) The Minister of Finance shall lay every statement of expenditure in excess before the Parliament, which shall refer it to the Public Accounts Committee of the Parliament, and the Minister shall at the same time send a copy of the statement to the Governor.
 
@@ -1878,11 +1878,11 @@ and the Parliament shall publish those estimates and that document without delay
 
 #### 118. Contingencies
 
-(1) The Minister of Finance, if he or she is satisfied that there is an urgent and unforeseen need for expenditure for which no provision or insufficient provision has been made by an appropriation law enacted by the Legislature[^key-f460647fa507b73ef6240e28ea2aa527] or a supplementary appropriation law enacted by the Legislature, may, by a Contingencies Warrant under his or her hand and in anticipation of the grant of an appropriation by the Legislature, authorise an advance from the Consolidated Fund to meet that need and shall forthwith report his or her action to the Cabinet.
+(1) The Minister of Finance, if he or she is satisfied that there is an urgent and unforeseen need for expenditure for which no provision or insufficient provision has been made by an appropriation law enacted by the Legislature[^c-f460647fa507b73ef6240e28ea2aa527] or a supplementary appropriation law enacted by the Legislature, may, by a Contingencies Warrant under his or her hand and in anticipation of the grant of an appropriation by the Legislature, authorise an advance from the Consolidated Fund to meet that need and shall forthwith report his or her action to the Cabinet.
 
 (2) No Contingencies Warrant shall be issued by the Minister of Finance without the prior approval of the Governor, acting in his or her discretion, and the Parliament shall be invited to approve the expenditure resulting from any Contingencies Warrant issued by the Minister.
 
-(3) An advance made under subsection (1) shall be subject to any law enacted by the Legislature[^key-7fd7b64663a9b840173a27fd910cec4d] and to any restrictions imposed by the Parliament by resolution from time to time.
+(3) An advance made under subsection (1) shall be subject to any law enacted by the Legislature[^c-7fd7b64663a9b840173a27fd910cec4d] and to any restrictions imposed by the Parliament by resolution from time to time.
 
 #### 119. Power of Government to borrow or lend
 
@@ -1977,7 +1977,7 @@ and shall have and exercise such other functions, and shall operate under such p
 
 (1) There shall be paid to the Speaker and the other members of the Parliament such remuneration and allowances as may be prescribed by a law enacted by the Legislature.
 
-(2) The Parliament shall not proceed on any bill for a law[^key-5264a7e9ec156d762420db7a9d8ca2da] referred to in subsection (1) unless a report by the Integrity Commission recommending the appropriate levels of such remuneration and allowances has been laid before the Parliament and has been published; and no law shall provide for levels of remuneration or allowances that exceed the levels recommended in such report.
+(2) The Parliament shall not proceed on any bill for a law[^c-5264a7e9ec156d762420db7a9d8ca2da] referred to in subsection (1) unless a report by the Integrity Commission recommending the appropriate levels of such remuneration and allowances has been laid before the Parliament and has been published; and no law shall provide for levels of remuneration or allowances that exceed the levels recommended in such report.
 
 (3) The remuneration and allowances payable to the Speaker and the other members of the Parliament are hereby charged on and shall be paid out of the Consolidated Fund.
 
@@ -1991,13 +1991,13 @@ and shall have and exercise such other functions, and shall operate under such p
 
 (4) Where a person’s remuneration or other terms of service depend on his or her option, the remuneration or terms for which he or she opts shall, for the purposes of subsection (3), be deemed to be more advantageous to him or her than any others for which he or she might have opted.
 
-(5) This section applies to the offices of Deputy Governor, Attorney General, Permanent Secretary, Finance, Commissioner of Police Commanding Officer of the Regiment[^key-edff6c519e0ed3643c2406c6664e66b1], and any member of the Public Service Commission, the Judicial Service Commission or the Mercy Committee.
+(5) This section applies to the offices of Deputy Governor, Attorney General, Permanent Secretary, Finance, Commissioner of Police Commanding Officer of the Regiment[^c-edff6c519e0ed3643c2406c6664e66b1], and any member of the Public Service Commission, the Judicial Service Commission or the Mercy Committee.
 
-(6) Nothing in this section shall preclude a law enacted by the Legislature that reduces the level of remuneration payable to the holder of any office to which this section applies where that law[^key-51878d364f01733d500109b1347c3280] makes equivalent reduction to the remuneration of all members of the public service.
+(6) Nothing in this section shall preclude a law enacted by the Legislature that reduces the level of remuneration payable to the holder of any office to which this section applies where that law[^c-51878d364f01733d500109b1347c3280] makes equivalent reduction to the remuneration of all members of the public service.
 
 #### 126. Audit
 
-(1) The Auditor General shall audit and report on the public accounts of the Islands, including the Parliament, the courts, the central and local government administrations, the institutions protecting good governance, and any public corporations or other bodies or organisations established by or under any law enacted by the Legislature[^key-a46b5eea66bd5629cfc30ff4bd71772c].
+(1) The Auditor General shall audit and report on the public accounts of the Islands, including the Parliament, the courts, the central and local government administrations, the institutions protecting good governance, and any public corporations or other bodies or organisations established by or under any law enacted by the Legislature[^c-a46b5eea66bd5629cfc30ff4bd71772c].
 
 (2) For the purposes of subsection (1)—
 
@@ -2045,7 +2045,7 @@ Subject to this Constitution, a law enacted by the Legislature shall provide for
 
 Subject to this Constitution, a law enacted by the Legislature shall provide for the establishment and functions of local councils to contribute to effective local government in the Islands.
 
-#### 130A. International Centre for Alternative Dispute Resolution[^key-84e75efe48e84f7683b309b3f67eec24]
+#### 130A. International Centre for Alternative Dispute Resolution[^c-84e75efe48e84f7683b309b3f67eec24]
 
 (1) There shall be in the Turks and Caicos Islands an International Centre for Alternative Dispute Resolution to offer arbitration and other forms of alternative dispute resolution for international and commercial disputes.
 
@@ -2091,14 +2091,14 @@ Subject to this Constitution, a law enacted by the Legislature shall provide for
 - “meeting” in relation to the Parliament means any sitting or sittings of the Parliament commencing when the Parliament first meets after being summoned at any time and terminating when the Parliament is adjourned *sine die* or at the conclusion of a session;
 - “Minister” means a person appointed as Premier or other Minister under section 31;
 - “Minister of Finance” means the Minister for the time being responsible for finance;
-- [^key-64ebec0a503664a2464dd5ad957ab585]...
-- “political party” means a political party formed in accordance with the law enacted by the Legislature[^key-e65c6a530ed5f132ab5a9fec8d838bfe] regulating political parties for the time being in force in the Islands;
+- [^c-64ebec0a503664a2464dd5ad957ab585]...
+- “political party” means a political party formed in accordance with the law enacted by the Legislature[^c-e65c6a530ed5f132ab5a9fec8d838bfe] regulating political parties for the time being in force in the Islands;
 - “Premier” means the person appointed as such under section 31(2);
 - “Public Accounts Committee” means the Committee established by section 122;
 - “public office” means, subject to section 133, an office of emolument in the public service;
 - “public officer” means the holder of any public office, and includes a person appointed to act in any public office;
 - “public service” means the service of the Crown in a civil capacity in respect of the government of the Islands;
-- “[^key-d6bcc45860b97fd0291cd71b03d42c56]**Regiment**” means the Turks and Caicos Islands Regiment established by section 93A;
+- “[^c-d6bcc45860b97fd0291cd71b03d42c56]**Regiment**” means the Turks and Caicos Islands Regiment established by section 93A;
 - “session” in relation to the Parliament means the sittings of the Parliament commencing when the Parliament first meets after its prorogation or dissolution at any time, and terminating when the Parliament is next prorogued or dissolved without having been prorogued;
 - “sitting” in relation to the Parliament means a period during which the Parliament is sitting continuously without adjournment, and includes any period during which the Parliament is in committee;
 - “Speaker” means the person elected by the Parliament as Speaker under section 44;
@@ -2194,172 +2194,172 @@ In the forms respectively set forth, for the word “swear” there shall be sub
 
 ## Annotations
 
-[^key-3b9b5b862ef046bbdb09d87f63f7fe45]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)
+[^c-3b9b5b862ef046bbdb09d87f63f7fe45]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)
 
-[^key-7c9015596df830e10092e2155de9e6e2]: Textual amendment: [Sch. 2 s. 7](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/7) revoked (1.4.2017) by [The Turks and Caicos Islands (Finance) Order 2017 (S.I. 2017/317)](https://www.legislation.gov.uk/uksi/2017/317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/317/article/1/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2017/317/article/3/1/a) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/317/article/3/2))
+[^c-7c9015596df830e10092e2155de9e6e2]: Textual amendment: [Sch. 2 s. 7](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/7) revoked (1.4.2017) by [The Turks and Caicos Islands (Finance) Order 2017 (S.I. 2017/317)](https://www.legislation.gov.uk/uksi/2017/317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/317/article/1/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2017/317/article/3/1/a) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/317/article/3/2))
 
-[^key-95c2f9ab59d09b15a71a4593b821c70c]: Textual amendment: Words in Sch. 2 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/1) (with [arts. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4), [7(9)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/9))
+[^c-95c2f9ab59d09b15a71a4593b821c70c]: Textual amendment: Words in Sch. 2 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/1) (with [arts. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4), [7(9)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/9))
 
-[^key-153ae12835e76d1975ed02695dcad36c]: Textual amendment: Words in Sch. 2 s. 20(1) substituted (16.3.2017) by [The Emergency Powers (Overseas Territories) Order 2017 (S.I. 2017/181)](https://www.legislation.gov.uk/uksi/2017/181), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/181/article/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/181/article/12/2)
+[^c-153ae12835e76d1975ed02695dcad36c]: Textual amendment: Words in Sch. 2 s. 20(1) substituted (16.3.2017) by [The Emergency Powers (Overseas Territories) Order 2017 (S.I. 2017/181)](https://www.legislation.gov.uk/uksi/2017/181), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/181/article/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/181/article/12/2)
 
-[^key-e75180dd9fe08853342f199b3e2b2132]: Textual amendment: Words in Sch. 2 s. 22(1) substituted (16.3.2017) by [The Emergency Powers (Overseas Territories) Order 2017 (S.I. 2017/181)](https://www.legislation.gov.uk/uksi/2017/181), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/181/article/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/181/article/12/2)
+[^c-e75180dd9fe08853342f199b3e2b2132]: Textual amendment: Words in Sch. 2 s. 22(1) substituted (16.3.2017) by [The Emergency Powers (Overseas Territories) Order 2017 (S.I. 2017/181)](https://www.legislation.gov.uk/uksi/2017/181), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/181/article/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/181/article/12/2)
 
-[^key-892fd363a5f79240b6d9af5e4fac6fa3]: Textual amendment: Word in Sch. 2 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 8(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/8/1) (with [arts. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4), [8(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/8/2))
+[^c-892fd363a5f79240b6d9af5e4fac6fa3]: Textual amendment: Word in Sch. 2 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 8(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/8/1) (with [arts. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4), [8(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/8/2))
 
-[^key-ed4f1f12fc7b98574e3423508d61833b]: Textual amendment: Words in Sch. 2 s. 31(1)(c) inserted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2021 (S.I. 2021/878)](https://www.legislation.gov.uk/uksi/2021/878), [art. 2(2)](https://www.legislation.gov.uk/uksi/2021/878/article/2/2)
+[^c-ed4f1f12fc7b98574e3423508d61833b]: Textual amendment: Words in Sch. 2 s. 31(1)(c) inserted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2021 (S.I. 2021/878)](https://www.legislation.gov.uk/uksi/2021/878), [art. 2(2)](https://www.legislation.gov.uk/uksi/2021/878/article/2/2)
 
-[^key-9f544e0d06b892a6dba4868413ba890a]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-9f544e0d06b892a6dba4868413ba890a]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-ac06a4e87cf8704314f4e87be5586eb2]: Textual amendment: Sch. 2 s. 31(7) inserted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2021 (S.I. 2021/878)](https://www.legislation.gov.uk/uksi/2021/878), [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/878/article/2/3)
+[^c-ac06a4e87cf8704314f4e87be5586eb2]: Textual amendment: Sch. 2 s. 31(7) inserted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2021 (S.I. 2021/878)](https://www.legislation.gov.uk/uksi/2021/878), [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/878/article/2/3)
 
-[^key-24db16d6fff8156a1c2b5f535ab4dbba]: Textual amendment: Words in [Sch. 2 s. 31(7)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/31/7) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-24db16d6fff8156a1c2b5f535ab4dbba]: Textual amendment: Words in [Sch. 2 s. 31(7)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/31/7) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-965b10f3557e8bdf0c1869d35a4b8617]: Textual amendment: [Sch. 2 s. 31(8)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/31/8) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 10](https://www.legislation.gov.uk/uksi/2024/1128/article/10) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-965b10f3557e8bdf0c1869d35a4b8617]: Textual amendment: [Sch. 2 s. 31(8)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/31/8) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 10](https://www.legislation.gov.uk/uksi/2024/1128/article/10) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-e6b221eb2a5999654a56742273c762ff]: Textual amendment: [Sch. 2 s. 37(1)(c)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/37/1/c) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 11(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/11/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-e6b221eb2a5999654a56742273c762ff]: Textual amendment: [Sch. 2 s. 37(1)(c)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/37/1/c) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 11(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/11/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-442afdee8a220ead73d30fbe7ccf10f9]: Textual amendment: Words in [Sch. 2 s. 37(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/37/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 11(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/11/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-442afdee8a220ead73d30fbe7ccf10f9]: Textual amendment: Words in [Sch. 2 s. 37(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/37/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 11(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/11/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-675ce69335742d24d8b0637f448d1bbd]: Textual amendment: Words in [Sch. 2 s. 37(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/37/3) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 11(c)](https://www.legislation.gov.uk/uksi/2024/1128/article/11/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-675ce69335742d24d8b0637f448d1bbd]: Textual amendment: Words in [Sch. 2 s. 37(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/37/3) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 11(c)](https://www.legislation.gov.uk/uksi/2024/1128/article/11/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-53bba150cc373f982d4164334050806a]: Textual amendment: [Sch. 2 s. 37(3A)-(3D)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/37/3A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 11(d)](https://www.legislation.gov.uk/uksi/2024/1128/article/11/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-53bba150cc373f982d4164334050806a]: Textual amendment: [Sch. 2 s. 37(3A)-(3D)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/37/3A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 11(d)](https://www.legislation.gov.uk/uksi/2024/1128/article/11/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-ee1b513d4ba5e352ff79ada0a27b8780]: Textual amendment: [Sch. 2 s. 37(7)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/37/7) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 11(e)](https://www.legislation.gov.uk/uksi/2024/1128/article/11/e) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-ee1b513d4ba5e352ff79ada0a27b8780]: Textual amendment: [Sch. 2 s. 37(7)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/37/7) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 11(e)](https://www.legislation.gov.uk/uksi/2024/1128/article/11/e) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-26a41a503a9ff2b0bcd81e249251211a]: Textual amendment: [Sch. 2 s. 40A](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/40A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 12](https://www.legislation.gov.uk/uksi/2024/1128/article/12) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-26a41a503a9ff2b0bcd81e249251211a]: Textual amendment: [Sch. 2 s. 40A](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/40A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 12](https://www.legislation.gov.uk/uksi/2024/1128/article/12) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-922d79f23e3fbabc8ed0a5867fae5419]: Textual amendment: [Sch. 2 s. 41A](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/41A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 13](https://www.legislation.gov.uk/uksi/2024/1128/article/13) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-922d79f23e3fbabc8ed0a5867fae5419]: Textual amendment: [Sch. 2 s. 41A](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/41A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 13](https://www.legislation.gov.uk/uksi/2024/1128/article/13) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-2847aa9b82055bdd00177d0c4a21f14d]: Textual amendment: Word in [Sch. 2 s. 43(1)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/43/1/b) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(3)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-2847aa9b82055bdd00177d0c4a21f14d]: Textual amendment: Word in [Sch. 2 s. 43(1)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/43/1/b) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(3)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-c82970c4924ffd9b668ff8c7200ee808]: Textual amendment: Word in [Sch. 2 s. 43(1)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/43/1/b) inserted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(3)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/3/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-c82970c4924ffd9b668ff8c7200ee808]: Textual amendment: Word in [Sch. 2 s. 43(1)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/43/1/b) inserted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(3)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/3/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-9b9069f8bef9db387021ae7fb8ca9134]: Textual amendment: [Sch. 2 s. 43(1)(c)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/43/1/c) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(3)(c)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-9b9069f8bef9db387021ae7fb8ca9134]: Textual amendment: [Sch. 2 s. 43(1)(c)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/43/1/c) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(3)(c)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-1d43fd8333655fd21f808faefddbc78d]: Textual amendment: Words in [Sch. 2 s. 44(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/44/2) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-1d43fd8333655fd21f808faefddbc78d]: Textual amendment: Words in [Sch. 2 s. 44(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/44/2) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-c5a8ac9dfd397f3f3f9411283b4c3992]: Textual amendment: Word in [Sch. 2 s. 45(2)(a)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/45/2/a) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-c5a8ac9dfd397f3f3f9411283b4c3992]: Textual amendment: Word in [Sch. 2 s. 45(2)(a)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/45/2/a) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-cab2cc5508d73f65f2df868c285aff9b]: Textual amendment: Word in [Sch. 2 s. 46(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/46/b) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(6)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-cab2cc5508d73f65f2df868c285aff9b]: Textual amendment: Word in [Sch. 2 s. 46(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/46/b) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(6)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-ff5f2f162cb4de7d75f673bb87183128]: Textual amendment: [Sch. 2 s. 47](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/47) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(7)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-ff5f2f162cb4de7d75f673bb87183128]: Textual amendment: [Sch. 2 s. 47](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/47) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(7)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-222538614ff3b6833a0c213d2268fdc8]: Textual amendment: [Sch. 2 s. 48](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/48) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(7)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-222538614ff3b6833a0c213d2268fdc8]: Textual amendment: [Sch. 2 s. 48](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/48) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(7)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-e9a307edd3527972b5f57d0716352b27]: Textual amendment: [Sch. 2 s. 49(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/49/4) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(8)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/8/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-e9a307edd3527972b5f57d0716352b27]: Textual amendment: [Sch. 2 s. 49(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/49/4) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(8)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/8/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-ba131c830999bcf1368b513fcc800b62]: Textual amendment: [Sch. 2 s. 49(5)(6)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/49/5/6) inserted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(8)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/8/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-ba131c830999bcf1368b513fcc800b62]: Textual amendment: [Sch. 2 s. 49(5)(6)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/49/5/6) inserted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(8)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/8/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-d270e3c90599e42fdee5e882ffa1138e]: Textual amendment: [Sch. 2 s. 51(5)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/51/5) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(9)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/9) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-d270e3c90599e42fdee5e882ffa1138e]: Textual amendment: [Sch. 2 s. 51(5)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/51/5) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(9)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/9) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-e656b7fd0afc7818b2cdce38aa8926fe]: Textual amendment: Words in Sch. 2 s. 53(3) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(10)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/10) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-e656b7fd0afc7818b2cdce38aa8926fe]: Textual amendment: Words in Sch. 2 s. 53(3) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(10)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/10) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-6f81193b7f18c641ff78ab9e7a781e38]: Textual amendment: Word in [Sch. 2 s. 57(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/57/3) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 14](https://www.legislation.gov.uk/uksi/2024/1128/article/14) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-6f81193b7f18c641ff78ab9e7a781e38]: Textual amendment: Word in [Sch. 2 s. 57(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/57/3) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 14](https://www.legislation.gov.uk/uksi/2024/1128/article/14) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-081f3fb930108051ac673371eafe6986]: Textual amendment: [Sch. 2 s. 59(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/59/3) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(11)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/11) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-081f3fb930108051ac673371eafe6986]: Textual amendment: [Sch. 2 s. 59(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/59/3) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(11)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/11) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-4bdd833560631ad25520ebb57252a67f]: Textual amendment: Words in [Sch. 2 s. 60(2)(a)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/60/2/a) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 15(1)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/15/1/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-4bdd833560631ad25520ebb57252a67f]: Textual amendment: Words in [Sch. 2 s. 60(2)(a)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/60/2/a) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 15(1)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/15/1/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-5e54de87d93d769b6789c2d0f22ed3db]: Textual amendment: Words in [Sch. 2 s. 60(2)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/60/2/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 15(1)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/15/1/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-5e54de87d93d769b6789c2d0f22ed3db]: Textual amendment: Words in [Sch. 2 s. 60(2)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/60/2/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 15(1)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/15/1/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-3586a521eb6b64ddf65c33cfaf13dcf1]: Textual amendment: Words in [Sch. 2 s. 60(2)(c)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/60/2/c) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 15(1)(c)](https://www.legislation.gov.uk/uksi/2024/1128/article/15/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-3586a521eb6b64ddf65c33cfaf13dcf1]: Textual amendment: Words in [Sch. 2 s. 60(2)(c)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/60/2/c) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 15(1)(c)](https://www.legislation.gov.uk/uksi/2024/1128/article/15/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-41ee10c0ca82ae9a4f0324fa27a9b284]: Textual amendment: [Sch. 2 s. 61(5)-(7)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/61/5) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 15(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/15/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-41ee10c0ca82ae9a4f0324fa27a9b284]: Textual amendment: [Sch. 2 s. 61(5)-(7)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/61/5) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 15(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/15/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-edc8f2ba13fbf14b5abcfe5490eb11de]: Textual amendment: [Sch. 2 s. 62A](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/62A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 16](https://www.legislation.gov.uk/uksi/2024/1128/article/16) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-edc8f2ba13fbf14b5abcfe5490eb11de]: Textual amendment: [Sch. 2 s. 62A](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/62A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 16](https://www.legislation.gov.uk/uksi/2024/1128/article/16) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-39a8574abe2a408c4c3a88bf70c8ec72]: Textual amendment: Words in Sch. 2 s. 63(1) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 17](https://www.legislation.gov.uk/uksi/2024/1128/article/17) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-39a8574abe2a408c4c3a88bf70c8ec72]: Textual amendment: Words in Sch. 2 s. 63(1) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 17](https://www.legislation.gov.uk/uksi/2024/1128/article/17) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-01c96679b3945f6eceb98777b705644c]: Textual amendment: [Sch. 2 s. 72(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/72/4) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-01c96679b3945f6eceb98777b705644c]: Textual amendment: [Sch. 2 s. 72(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/72/4) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
 [^f00006]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-f6987f4db91bd92ea9a353c0602a00ff]: Textual amendment: Words in [Sch. 2 s. 75(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/75/3) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 23(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/23/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-f6987f4db91bd92ea9a353c0602a00ff]: Textual amendment: Words in [Sch. 2 s. 75(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/75/3) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 23(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/23/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
 [^f00007]: Footnote: Ordinance No. 5 of 1997.
 
-[^key-1355eae2a3b7e845a86dd704b49e5f9c]: Textual amendment: [Sch. 2 s. 77(6)(7)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/77/6/7) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 18](https://www.legislation.gov.uk/uksi/2024/1128/article/18) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-1355eae2a3b7e845a86dd704b49e5f9c]: Textual amendment: [Sch. 2 s. 77(6)(7)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/77/6/7) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 18](https://www.legislation.gov.uk/uksi/2024/1128/article/18) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
 [^f00008]: Footnote: [1833 c.41](https://www.legislation.gov.uk/ukpga/1833/41).
 
 [^f00009]: Footnote: Ordinance No. 7 of 1986.
 
-[^key-d6ac63b89091ba393d66900672323ae5]: Textual amendment: Words in [Sch. 2 Pt. 6](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/part/6) heading inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 23(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/23/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-d6ac63b89091ba393d66900672323ae5]: Textual amendment: Words in [Sch. 2 Pt. 6](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/part/6) heading inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 23(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/23/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-fa07c378f734204a3f474c73f0822d7c]: Textual amendment: Word in [Sch. 2 s. 89(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/89/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 23(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/23/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-fa07c378f734204a3f474c73f0822d7c]: Textual amendment: Word in [Sch. 2 s. 89(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/89/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 23(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/23/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-225e3703b073d69b4006a1e4098151e8]: Textual amendment: Word in [Sch. 2 s. 91(2)(e)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/91/2/e) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 19(1)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/19/1/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-225e3703b073d69b4006a1e4098151e8]: Textual amendment: Word in [Sch. 2 s. 91(2)(e)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/91/2/e) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 19(1)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/19/1/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-6938ac84a19ca1f2dd307673dbe1ea07]: Textual amendment: Word in [Sch. 2 s. 91(2)(f)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/91/2/f) substituted for full stop (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 19(1)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/19/1/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-6938ac84a19ca1f2dd307673dbe1ea07]: Textual amendment: Word in [Sch. 2 s. 91(2)(f)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/91/2/f) substituted for full stop (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 19(1)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/19/1/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-545c03d2c0ef87909a8a37715119e800]: Textual amendment: [Sch. 2 s. 91(2)(g)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/91/2/g) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 19(1)(c)](https://www.legislation.gov.uk/uksi/2024/1128/article/19/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-545c03d2c0ef87909a8a37715119e800]: Textual amendment: [Sch. 2 s. 91(2)(g)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/91/2/g) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 19(1)(c)](https://www.legislation.gov.uk/uksi/2024/1128/article/19/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-25a00466f2fbd0ee1cd108a3f7d5415e]: Textual amendment: [Sch. 2 ss. 93A-93C](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/93A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 20](https://www.legislation.gov.uk/uksi/2024/1128/article/20) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-25a00466f2fbd0ee1cd108a3f7d5415e]: Textual amendment: [Sch. 2 ss. 93A-93C](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/93A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 20](https://www.legislation.gov.uk/uksi/2024/1128/article/20) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-2e8afdb94e0ca5b221d32254eda285b4]: Textual amendment: Word in [Sch. 2 s. 97(1)(e)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/1/e) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(1)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/1/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-2e8afdb94e0ca5b221d32254eda285b4]: Textual amendment: Word in [Sch. 2 s. 97(1)(e)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/1/e) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(1)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/1/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-90b17c6950c4684f48a34155c699ec5d]: Textual amendment: Word in [Sch. 2 s. 97(1)(f)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/1/f) substituted for full stop (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(1)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/1/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-90b17c6950c4684f48a34155c699ec5d]: Textual amendment: Word in [Sch. 2 s. 97(1)(f)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/1/f) substituted for full stop (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(1)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/1/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-eb77d0b5a06bd11081db8415f0809c7f]: Textual amendment: [Sch. 2 s. 97(1)(g)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/1/g) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(1)(c)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-eb77d0b5a06bd11081db8415f0809c7f]: Textual amendment: [Sch. 2 s. 97(1)(g)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/1/g) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(1)(c)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-dd4eca7e663fe4ccd405915808803e70]: Textual amendment: Words in [Sch. 2 s. 97(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(1)(d)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/1/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-dd4eca7e663fe4ccd405915808803e70]: Textual amendment: Words in [Sch. 2 s. 97(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(1)(d)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/1/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-2974383396c87bdcd2f4f7d3448b2721]: Textual amendment: Words in [Sch. 2 s. 97(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/4) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-2974383396c87bdcd2f4f7d3448b2721]: Textual amendment: Words in [Sch. 2 s. 97(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/4) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-d197916f2f21abb2d0dfe09e58cd9d14]: Textual amendment: [Sch. 2 s. 97(5)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/5) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(1)(e)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/1/e) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-d197916f2f21abb2d0dfe09e58cd9d14]: Textual amendment: [Sch. 2 s. 97(5)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/5) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(1)(e)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/1/e) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-964c91751000eceb2ad4fda33fd72031]: Textual amendment: Words in [Sch. 2 s. 98(3)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/98/3/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-964c91751000eceb2ad4fda33fd72031]: Textual amendment: Words in [Sch. 2 s. 98(3)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/98/3/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-075ec73f8a98ba73bea9678014c5f714]: Textual amendment: Words in [Sch. 2 s. 99(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/99/4) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-075ec73f8a98ba73bea9678014c5f714]: Textual amendment: Words in [Sch. 2 s. 99(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/99/4) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-4437c328a785b56b4e45d88a8e868bf6]: Textual amendment: Words in [Sch. 2 s. 99(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/99/4) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(6)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-4437c328a785b56b4e45d88a8e868bf6]: Textual amendment: Words in [Sch. 2 s. 99(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/99/4) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(6)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-aa9c099ed6d8c5c674ba8618f2bad1d0]: Textual amendment: [Sch. 2 s. 101(5)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/101/5) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-aa9c099ed6d8c5c674ba8618f2bad1d0]: Textual amendment: [Sch. 2 s. 101(5)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/101/5) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-cd37b654fe970141182b4357a0685a62]: Textual amendment: Words in [Sch. 2 s. 102(3)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/102/3/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-cd37b654fe970141182b4357a0685a62]: Textual amendment: Words in [Sch. 2 s. 102(3)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/102/3/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-13b5c73b7c7d5a1a5defdfed6c8b83f4]: Textual amendment: [Sch. 2 s. 102(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/102/4) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-13b5c73b7c7d5a1a5defdfed6c8b83f4]: Textual amendment: [Sch. 2 s. 102(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/102/4) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-64eea8deeb38ccafa04b9a962a8d9eea]: Textual amendment: Words in [Sch. 2 s. 104(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/104/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-64eea8deeb38ccafa04b9a962a8d9eea]: Textual amendment: Words in [Sch. 2 s. 104(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/104/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-964d58b0f96aa77cd7fdcebb46dba33f]: Textual amendment: [Sch. 2 s. 104A](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/104A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-964d58b0f96aa77cd7fdcebb46dba33f]: Textual amendment: [Sch. 2 s. 104A](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/104A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-7797449f177a9a338b3b82ba4b39e522]: Textual amendment: Words in [Sch. 2 s. 105(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/105/3) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-7797449f177a9a338b3b82ba4b39e522]: Textual amendment: Words in [Sch. 2 s. 105(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/105/3) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-c8ee47da237edb3dae112dac5162d551]: Textual amendment: Words in [Sch. 2 s. 109(5)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/109/5/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-c8ee47da237edb3dae112dac5162d551]: Textual amendment: Words in [Sch. 2 s. 109(5)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/109/5/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-91b990482d1f68b556689aec7533453e]: Textual amendment: Words in Sch. 2 s. 110(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-91b990482d1f68b556689aec7533453e]: Textual amendment: Words in Sch. 2 s. 110(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-6ff4f34706fc73662a18ac3231a052bc]: Textual amendment: Words in [Sch. 2 s. 113(1)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/113/1/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-6ff4f34706fc73662a18ac3231a052bc]: Textual amendment: Words in [Sch. 2 s. 113(1)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/113/1/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-68839926756ea568b0ddbb93ee5a8b97]: Textual amendment: Words in [Sch. 2 ss. 113(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/113/3), [(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/113/4) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-68839926756ea568b0ddbb93ee5a8b97]: Textual amendment: Words in [Sch. 2 ss. 113(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/113/3), [(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/113/4) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-77c13aca46982670a181824e6f7e3417]: Textual amendment: Words in [Sch. 2 s. 113(4)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/113/4/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-77c13aca46982670a181824e6f7e3417]: Textual amendment: Words in [Sch. 2 s. 113(4)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/113/4/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-8357d86937fe24156dab38dece54ee21]: Textual amendment: Words in [Sch. 2 s. 116(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/116/1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-8357d86937fe24156dab38dece54ee21]: Textual amendment: Words in [Sch. 2 s. 116(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/116/1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-9974f6147f296a1beff034700fbbc5a3]: Textual amendment: Words in [Sch. 2 s. 116(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/116/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-9974f6147f296a1beff034700fbbc5a3]: Textual amendment: Words in [Sch. 2 s. 116(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/116/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-ede9d7dce5aa1f49f75f2324d8579603]: Textual amendment: Words in [Sch. 2 s. 116(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/116/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-ede9d7dce5aa1f49f75f2324d8579603]: Textual amendment: Words in [Sch. 2 s. 116(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/116/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-1123c52ec1da262c66465c3cf0665565]: Textual amendment: Words in [Sch. 2 s. 117(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/117/1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-1123c52ec1da262c66465c3cf0665565]: Textual amendment: Words in [Sch. 2 s. 117(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/117/1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-f460647fa507b73ef6240e28ea2aa527]: Textual amendment: Words in [Sch. 2 s. 118(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/118/1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-f460647fa507b73ef6240e28ea2aa527]: Textual amendment: Words in [Sch. 2 s. 118(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/118/1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-7fd7b64663a9b840173a27fd910cec4d]: Textual amendment: Words in [Sch. 2 s. 118(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/118/3) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-7fd7b64663a9b840173a27fd910cec4d]: Textual amendment: Words in [Sch. 2 s. 118(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/118/3) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-5264a7e9ec156d762420db7a9d8ca2da]: Textual amendment: Words in [Sch. 2 s. 124(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/124/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(7)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-5264a7e9ec156d762420db7a9d8ca2da]: Textual amendment: Words in [Sch. 2 s. 124(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/124/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(7)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-edff6c519e0ed3643c2406c6664e66b1]: Textual amendment: Words in [Sch. 2 s. 125(5)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/125/5) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 19(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/19/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-edff6c519e0ed3643c2406c6664e66b1]: Textual amendment: Words in [Sch. 2 s. 125(5)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/125/5) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 19(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/19/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-51878d364f01733d500109b1347c3280]: Textual amendment: Words in [Sch. 2 s. 125(6)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/125/6) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-51878d364f01733d500109b1347c3280]: Textual amendment: Words in [Sch. 2 s. 125(6)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/125/6) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-a46b5eea66bd5629cfc30ff4bd71772c]: Textual amendment: Words in [Sch. 2 s. 126(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/126/1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-a46b5eea66bd5629cfc30ff4bd71772c]: Textual amendment: Words in [Sch. 2 s. 126(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/126/1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-84e75efe48e84f7683b309b3f67eec24]: Textual amendment: [Sch. 2 ss. 130A-130C](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/130A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 22](https://www.legislation.gov.uk/uksi/2024/1128/article/22) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-84e75efe48e84f7683b309b3f67eec24]: Textual amendment: [Sch. 2 ss. 130A-130C](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/130A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 22](https://www.legislation.gov.uk/uksi/2024/1128/article/22) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-64ebec0a503664a2464dd5ad957ab585]: Textual amendment: Words in [Sch. 2 s. 131(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/131/1) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(8)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/8/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-64ebec0a503664a2464dd5ad957ab585]: Textual amendment: Words in [Sch. 2 s. 131(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/131/1) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(8)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/8/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-e65c6a530ed5f132ab5a9fec8d838bfe]: Textual amendment: Words in [Sch. 2 s. 131(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/131/1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(8)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/8/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-e65c6a530ed5f132ab5a9fec8d838bfe]: Textual amendment: Words in [Sch. 2 s. 131(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/131/1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(8)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/8/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-d6bcc45860b97fd0291cd71b03d42c56]: Textual amendment: Words in [Sch. 2 s. 131](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/131) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 23(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/23/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-d6bcc45860b97fd0291cd71b03d42c56]: Textual amendment: Words in [Sch. 2 s. 131](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/131) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 23(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/23/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))

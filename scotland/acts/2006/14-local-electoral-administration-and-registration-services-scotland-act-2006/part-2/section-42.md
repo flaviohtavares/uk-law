@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-5d48f6feb27b035aa7deab5d2c37065f] The 1965 Act is amended in accordance with subsections (2) to (8).
+(1)[^c-5d48f6feb27b035aa7deab5d2c37065f] The 1965 Act is amended in accordance with subsections (2) to (8).
 
 (2) In section 22 (particulars of deaths to be registered), for subsections (1) to (3) there is substituted—
 
@@ -31,11 +31,11 @@ summary: ''
 (3) In section 23 (duty to give information of particulars of death)—
 
 - (a) in subsection (1)—
-  - (i)[^key-ea09142cd3a8c6a717d2434a6a594266] the words “to attend personally at a registration office and give to the registrar” are repealed;
-  - (ii)[^key-ea09142cd3a8c6a717d2434a6a594266] after “finding,” there is inserted “ give ”;
+  - (i)[^c-ea09142cd3a8c6a717d2434a6a594266] the words “to attend personally at a registration office and give to the registrar” are repealed;
+  - (ii)[^c-ea09142cd3a8c6a717d2434a6a594266] after “finding,” there is inserted “ give ”;
   - (iii) for “and to sign the register in the presence of the registrar” there is substituted “ to the district registrar for a registration district ”; and
   - (iv) in the proviso, the words “and the signing of the register” are repealed;
-- (b)[^key-a935c2d93a7910c6b189a51cafe4d13f] after subsection (1) there is inserted—
+- (b)[^c-a935c2d93a7910c6b189a51cafe4d13f] after subsection (1) there is inserted—
 
   > (1A) For the purposes of subsection (1), a person shall give information of the prescribed particulars concerning a death to the district registrar for a registration district by—
   >
@@ -105,8 +105,8 @@ summary: ''
 
 [^c20075951]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2006/14/section/42) partly in force; [s. 42](https://www.legislation.gov.uk/asp/2006/14/section/42) not in force at Royal Assent see [s. 63(2)](https://www.legislation.gov.uk/asp/2006/14/section/63/2); [s. 42](https://www.legislation.gov.uk/asp/2006/14/section/42) in force for specified purposes at 1.10.2006 and s. 42(1) in force for further specified purposes and s. 42(2)(3)(a)(iii)(iv)(c)(4)(5)(7)(8) in force at 1.1.2007 by [S.S.I. 2006/469](https://www.legislation.gov.uk/ssi/2006/469), [arts. 2](https://www.legislation.gov.uk/ssi/2006/469/article/2), [3](https://www.legislation.gov.uk/ssi/2006/469/article/3), [Schs. 1](https://www.legislation.gov.uk/ssi/2006/469/schedule/1), [2](https://www.legislation.gov.uk/ssi/2006/469/schedule/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/469/article/4)); [S. 42(1)(3)(b)(6)](https://www.legislation.gov.uk/asp/2006/14/section/42/1/3/b/6) in force for specified purposes at 14.1.2008 by [S.S.I. 2007/566](https://www.legislation.gov.uk/ssi/2007/566), [art. 2](https://www.legislation.gov.uk/ssi/2007/566/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2007/566/article/3))
 
-[^key-5d48f6feb27b035aa7deab5d2c37065f]: Commencement: [S. 42(1)](https://www.legislation.gov.uk/asp/2006/14/section/42/1) in force at 24.9.2022 for specified purposes by [S.S.I. 2022/266](https://www.legislation.gov.uk/ssi/2022/266), [art. 2(f)](https://www.legislation.gov.uk/ssi/2022/266/article/2/f)
+[^c-5d48f6feb27b035aa7deab5d2c37065f]: Commencement: [S. 42(1)](https://www.legislation.gov.uk/asp/2006/14/section/42/1) in force at 24.9.2022 for specified purposes by [S.S.I. 2022/266](https://www.legislation.gov.uk/ssi/2022/266), [art. 2(f)](https://www.legislation.gov.uk/ssi/2022/266/article/2/f)
 
-[^key-ea09142cd3a8c6a717d2434a6a594266]: Commencement: [S. 42(3)(a)(i)](https://www.legislation.gov.uk/asp/2006/14/section/42/3/a/i)[(ii)](https://www.legislation.gov.uk/asp/2006/14/section/42/3/a/ii) in force at 24.9.2022 in so far as not already in force by [S.S.I. 2022/266](https://www.legislation.gov.uk/ssi/2022/266), [art. 2(d)](https://www.legislation.gov.uk/ssi/2022/266/article/2/d)
+[^c-ea09142cd3a8c6a717d2434a6a594266]: Commencement: [S. 42(3)(a)(i)](https://www.legislation.gov.uk/asp/2006/14/section/42/3/a/i)[(ii)](https://www.legislation.gov.uk/asp/2006/14/section/42/3/a/ii) in force at 24.9.2022 in so far as not already in force by [S.S.I. 2022/266](https://www.legislation.gov.uk/ssi/2022/266), [art. 2(d)](https://www.legislation.gov.uk/ssi/2022/266/article/2/d)
 
-[^key-a935c2d93a7910c6b189a51cafe4d13f]: Commencement: [S. 42(3)(b)](https://www.legislation.gov.uk/asp/2006/14/section/42/3/b) in force at 24.9.2022 in so far as not already in force by [S.S.I. 2022/266](https://www.legislation.gov.uk/ssi/2022/266), [art. 2(e)](https://www.legislation.gov.uk/ssi/2022/266/article/2/e)
+[^c-a935c2d93a7910c6b189a51cafe4d13f]: Commencement: [S. 42(3)(b)](https://www.legislation.gov.uk/asp/2006/14/section/42/3/b) in force at 24.9.2022 in so far as not already in force by [S.S.I. 2022/266](https://www.legislation.gov.uk/ssi/2022/266), [art. 2(e)](https://www.legislation.gov.uk/ssi/2022/266/article/2/e)

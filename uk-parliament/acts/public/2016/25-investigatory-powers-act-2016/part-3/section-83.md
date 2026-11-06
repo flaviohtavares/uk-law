@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Certain transfer and agency arrangements with public authorities[^key-0e0ff0817b8b6f4bacb67f8a6c13c392]
+## 83. Certain transfer and agency arrangements with public authorities[^c-0e0ff0817b8b6f4bacb67f8a6c13c392]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e0ff0817b8b6f4bacb67f8a6c13c392]: Commencement: S. 83 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)
+[^c-0e0ff0817b8b6f4bacb67f8a6c13c392]: Commencement: S. 83 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)

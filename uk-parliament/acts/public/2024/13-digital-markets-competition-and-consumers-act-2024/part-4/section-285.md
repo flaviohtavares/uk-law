@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 285. Insolvency protection requirement[^key-0d009e2767fbbf16534d8cc7364d1571][^key-3126013e9b5b37a24f6df54f44eb76a6]
+## 285. Insolvency protection requirement[^c-0d009e2767fbbf16534d8cc7364d1571][^c-3126013e9b5b37a24f6df54f44eb76a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d009e2767fbbf16534d8cc7364d1571]: Commencement: S. 285 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-0d009e2767fbbf16534d8cc7364d1571]: Commencement: S. 285 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-3126013e9b5b37a24f6df54f44eb76a6]: Commencement: [S. 285](https://www.legislation.gov.uk/ukpga/2024/13/section/285) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)
+[^c-3126013e9b5b37a24f6df54f44eb76a6]: Commencement: [S. 285](https://www.legislation.gov.uk/ukpga/2024/13/section/285) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)

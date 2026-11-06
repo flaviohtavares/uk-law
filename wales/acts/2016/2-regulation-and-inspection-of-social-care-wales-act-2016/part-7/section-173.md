@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Standards of conduct[^key-edbb83a2e994c087becd538eeb2a34a2]
+## 173. Standards of conduct[^c-edbb83a2e994c087becd538eeb2a34a2]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edbb83a2e994c087becd538eeb2a34a2]: Commencement: [S. 173](https://www.legislation.gov.uk/anaw/2016/2/section/173) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(f)](https://www.legislation.gov.uk/wsi/2017/309/article/2/f) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-edbb83a2e994c087becd538eeb2a34a2]: Commencement: [S. 173](https://www.legislation.gov.uk/anaw/2016/2/section/173) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(f)](https://www.legislation.gov.uk/wsi/2017/309/article/2/f) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

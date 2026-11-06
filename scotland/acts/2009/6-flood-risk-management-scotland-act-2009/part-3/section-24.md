@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Flood hazard maps and flood risk maps: review[^key-b5407dd6d2a66af18946a30e15ab20c5]
+## 24. Flood hazard maps and flood risk maps: review[^c-b5407dd6d2a66af18946a30e15ab20c5]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5407dd6d2a66af18946a30e15ab20c5]: Commencement: S. 24 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-b5407dd6d2a66af18946a30e15ab20c5]: Commencement: S. 24 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

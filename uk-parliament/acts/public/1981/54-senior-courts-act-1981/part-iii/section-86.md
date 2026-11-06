@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. The Crown Court Rule Committee.[^key-1a34cd517d89fd0423492a809960fb86]
+## 86. The Crown Court Rule Committee.[^c-1a34cd517d89fd0423492a809960fb86]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a34cd517d89fd0423492a809960fb86]: Textual amendment: [S. 86](https://www.legislation.gov.uk/ukpga/1981/54/section/86) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/3)
+[^c-1a34cd517d89fd0423492a809960fb86]: Textual amendment: [S. 86](https://www.legislation.gov.uk/ukpga/1981/54/section/86) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/3)

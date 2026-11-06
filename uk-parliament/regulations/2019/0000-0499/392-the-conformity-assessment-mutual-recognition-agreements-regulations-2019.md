@@ -50,11 +50,11 @@ The Secretary of State has been designated for the purposes of making Regulation
 
 The Secretary of State, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, makes the following Regulations.
 
-## 1. Citation and commencement[^key-a0558169e8fb7c165c68f22522640d29]
+## 1. Citation and commencement[^c-a0558169e8fb7c165c68f22522640d29]
 
 These Regulations may be cited as the Conformity Assessment (Mutual Recognition Agreements) Regulations 2019 and come into force on 22nd March 2019.
 
-## 2. Interpretation[^key-6ba159c2879faaf78aa84728389bbddb]
+## 2. Interpretation[^c-6ba159c2879faaf78aa84728389bbddb]
 
 In these Regulations—
 
@@ -81,7 +81,7 @@ In these Regulations—
 - (f) “**Swiss agreement**” means the agreement mentioned in sub-paragraph (e)(vii);
 - (g) “**Turkish agreement**” means the decision mentioned in sub-paragraph (e)(ix).
 
-## 3. Recognition of conformity assessments etc.[^key-ff615ee9aad864f21dbfbd7b8d7b28e5]
+## 3. Recognition of conformity assessments etc.[^c-ff615ee9aad864f21dbfbd7b8d7b28e5]
 
 (1) Subject to paragraph (10), paragraph (2) applies where, pursuant to a mutual recognition agreement, member States are required to recognise or accept an attestation of conformity with the relevant European Union law in respect of a product, process or service (a “mutually recognised attestation of conformity”).
 
@@ -122,9 +122,9 @@ In these Regulations—
 
 (11) In paragraph (10), “sector specific provision”, means provision in respect of the product, process or service, which is of similar effect to the default provision in question.
 
-## 4. Recognition of authorised representatives established in Switzerland[^key-59120ea2970ee0c4f484b69408d0acd8]
+## 4. Recognition of authorised representatives established in Switzerland[^c-59120ea2970ee0c4f484b69408d0acd8]
 
-(1) This regulation applies in respect of the product sectors listed in Chapters 2, 4 to 11[^key-3db959842f54121106eb35fcb33c0e02], 16, 17, 19 and 20 of Annex 1 to the Swiss agreement (“the specified product sectors”).
+(1) This regulation applies in respect of the product sectors listed in Chapters 2, 4 to 11[^c-3db959842f54121106eb35fcb33c0e02], 16, 17, 19 and 20 of Annex 1 to the Swiss agreement (“the specified product sectors”).
 
 (2) Any person established in Switzerland is to be treated as established in a member State for the purpose of determining whether that person is, or is eligible to be appointed as, the authorised representative of a manufacturer.
 
@@ -132,7 +132,7 @@ In these Regulations—
 
 (4) In paragraph (3), “updated relevant European Union law” and “updated relevant Swiss law” have the meanings given in regulation 3(9).
 
-## 5. Recognition of authorised representatives established in Turkey[^key-b3e92bf7d7d596b7e94e5a872899d90a]
+## 5. Recognition of authorised representatives established in Turkey[^c-b3e92bf7d7d596b7e94e5a872899d90a]
 
 (1) This regulation applies where a statement, adopted as mentioned in Article 1(1) of the Turkish agreement, recommends implementation of the principle of mutual recognition of the rights of authorised representatives in respect of any product to which the statement relates (“the relevant product”).
 
@@ -142,7 +142,7 @@ In these Regulations—
 
 (4) In paragraph (3), “updated relevant European Union law” and “updated relevant Turkish law” have the meanings given in regulation 3(9).
 
-## 6. Recognition of importers established in Switzerland[^key-09d445eb2aa24efc68595b75fc6b265d]
+## 6. Recognition of importers established in Switzerland[^c-09d445eb2aa24efc68595b75fc6b265d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -156,87 +156,87 @@ Department for Business, Energy and Industrial Strategy
 
 Preamble
 
-**1.**[^key-c3dbe67d4f4c6a9286888589d6396731] Regulation of the type, description, construction or equipment of vehicles, and of components of vehicles, and in particular any vehicle type approval scheme [^c23605141].
+**1.**[^c-c3dbe67d4f4c6a9286888589d6396731] Regulation of the type, description, construction or equipment of vehicles, and of components of vehicles, and in particular any vehicle type approval scheme [^c23605141].
 
-**2.**[^key-218728ff6c66baca4c737661b599af79] Measures for safety as respects electrical equipment [^c23605151].
+**2.**[^c-218728ff6c66baca4c737661b599af79] Measures for safety as respects electrical equipment [^c23605151].
 
-**3.**[^key-76a156335ac35cf27c07358683840816] Medicinal products [^c23605161].
+**3.**[^c-76a156335ac35cf27c07358683840816] Medicinal products [^c23605161].
 
-**4.**[^key-c9f556d2dae3f016dcbc3e024ed0ad26] The regulation of specifications, construction, placing on the market and use of articles, instruments, containers or other equipment intended for weighing, measuring or testing or for purposes ancillary thereto, including, in particular—
+**4.**[^c-c9f556d2dae3f016dcbc3e024ed0ad26] The regulation of specifications, construction, placing on the market and use of articles, instruments, containers or other equipment intended for weighing, measuring or testing or for purposes ancillary thereto, including, in particular—
 
 - (a) approval of patterns and the verification of conformity with patterns or other requirements;
 - (b) authentication and proof of such approval or verification or of exemption from the need for approval or verification;
 - (c) supervision and enforcement of compliance with requirements [^c23605171].
 
-**5.**[^key-824d2eafc58c69bc52a3f7019ead6ca9] Units of measurement to be used for economic, health, safety or administrative purposes and the prefixes to be used with such units [^c23605181].
+**5.**[^c-824d2eafc58c69bc52a3f7019ead6ca9] Units of measurement to be used for economic, health, safety or administrative purposes and the prefixes to be used with such units [^c23605181].
 
-**6.**[^key-4650377da57234feeb81e8e92f2b57ca] Measures relating to safety as regards simple pressure vessels [^c23605191].
+**6.**[^c-4650377da57234feeb81e8e92f2b57ca] Measures relating to safety as regards simple pressure vessels [^c23605191].
 
-**7.**[^key-3d53db75ea2f1406838c1ef39b36705a] Measures relating to the approval of telecommunications terminal equipment [^c23605201].
+**7.**[^c-3d53db75ea2f1406838c1ef39b36705a] Measures relating to the approval of telecommunications terminal equipment [^c23605201].
 
-**8.**[^key-433dafda1d9e8c677724dbb90fb543eb] Measures relating to construction products [^c23605211].
+**8.**[^c-433dafda1d9e8c677724dbb90fb543eb] Measures relating to construction products [^c23605211].
 
-**9.**[^key-5c56dc5efe9f370b017e985e5c646052] Measures relating to apparatus which is liable to cause electromagnetic disturbance and to apparatus the performance of which is liable to be affected by such disturbance [^c23605221].
+**9.**[^c-5c56dc5efe9f370b017e985e5c646052] Measures relating to apparatus which is liable to cause electromagnetic disturbance and to apparatus the performance of which is liable to be affected by such disturbance [^c23605221].
 
-**10.**[^key-b7d33fe4775061d0ee33a800ca5ea9f9] Measures relating to safety as regards personal protective equipment [^c23605231].
+**10.**[^c-b7d33fe4775061d0ee33a800ca5ea9f9] Measures relating to safety as regards personal protective equipment [^c23605231].
 
-**11.**[^key-201950cee30bf87f3d3f6d56fa562b08] Measures relating to safety as regards appliances burning gaseous fuels [^c23605241].
+**11.**[^c-201950cee30bf87f3d3f6d56fa562b08] Measures relating to safety as regards appliances burning gaseous fuels [^c23605241].
 
-**12.**[^key-e52265a8c248d86edff68440d7b46229] Measures relating to active implantable medical devices [^c23605261].
+**12.**[^c-e52265a8c248d86edff68440d7b46229] Measures relating to active implantable medical devices [^c23605261].
 
-**13.**[^key-42d63f35cdd8b6b8d5c1eac1e6679548] Measures relating to efficiency requirements for new hot-water boilers fired with liquid or gaseous fuels [^c23605281].
+**13.**[^c-42d63f35cdd8b6b8d5c1eac1e6679548] Measures relating to efficiency requirements for new hot-water boilers fired with liquid or gaseous fuels [^c23605281].
 
-**14.**[^key-fdf32f1650fc954105239ecab2df8d8d] Regulation of the type, description, construction or equipment of agricultural or forestry tractors and of their components, and in particular any type approval scheme for such tractors [^c23605291].
+**14.**[^c-fdf32f1650fc954105239ecab2df8d8d] Regulation of the type, description, construction or equipment of agricultural or forestry tractors and of their components, and in particular any type approval scheme for such tractors [^c23605291].
 
-**15.**[^key-d644c3317f31c299ea7984efb6f73d8e] Measures relating to the safety of ships and the health and safety of persons on them [^c23605301].
+**15.**[^c-d644c3317f31c299ea7984efb6f73d8e] Measures relating to the safety of ships and the health and safety of persons on them [^c23605301].
 
-**16.**[^key-a70f32c8406ecadff465ad6b85685126] Measures relating to medical devices other than active implantable medical devices [^c23605311].
+**16.**[^c-a70f32c8406ecadff465ad6b85685126] Measures relating to medical devices other than active implantable medical devices [^c23605311].
 
-**17.**[^key-bf5685b25ad70a82df97d4aa560f7f5a] Measures relating to the placing on the market, transfer and safety of explosives for civil use [^c23605321].
+**17.**[^c-bf5685b25ad70a82df97d4aa560f7f5a] Measures relating to the placing on the market, transfer and safety of explosives for civil use [^c23605321].
 
-**18.**[^key-85ef0dce77843da10f187fdf88e1043a] Measures relating to consumer protection [^c23605331].
+**18.**[^c-85ef0dce77843da10f187fdf88e1043a] Measures relating to consumer protection [^c23605331].
 
-**19.**[^key-eafa14fc58d4e37df67f5d5130d029d1] Measures relating to maritime transport [^c23605341].
+**19.**[^c-eafa14fc58d4e37df67f5d5130d029d1] Measures relating to maritime transport [^c23605341].
 
-**20.**[^key-f1fc9e22570c84c271df7be3a3e48df4] Measures relating to equipment and protective systems intended for use in potentially explosive atmospheres [^c23605351].
+**20.**[^c-f1fc9e22570c84c271df7be3a3e48df4] Measures relating to equipment and protective systems intended for use in potentially explosive atmospheres [^c23605351].
 
-**21.**[^key-e764ba1f3dfb4dc7259c0615f08fb349] Measures relating to craft intended for recreational purposes [^c23605361].
+**21.**[^c-e764ba1f3dfb4dc7259c0615f08fb349] Measures relating to craft intended for recreational purposes [^c23605361].
 
-**22.**[^key-19abc1934823c378b5f3f8dd8f0df890] Measures relating to the transport of dangerous or environmentally hazardous goods by road or rail [^c23605371].
+**22.**[^c-19abc1934823c378b5f3f8dd8f0df890] Measures relating to the transport of dangerous or environmentally hazardous goods by road or rail [^c23605371].
 
-**23.**[^key-f7c3c8beb90c08ff11c753f68316d3d6] Measures relating to lifts and the safety components for use in lifts [^c23605381].
+**23.**[^c-f7c3c8beb90c08ff11c753f68316d3d6] Measures relating to lifts and the safety components for use in lifts [^c23605381].
 
-**24.**[^key-6437e9711d77ca5a2941c8f3630564fd] Measures relating to pressure equipment and assemblies of pressure equipment [^c23605391].
+**24.**[^c-6437e9711d77ca5a2941c8f3630564fd] Measures relating to pressure equipment and assemblies of pressure equipment [^c23605391].
 
-**25.**[^key-8ba355b27ab96cfab4640659189d2418] Measures in the veterinary and phytosanitary fields for the protection of public health [^c23605401].
+**25.**[^c-8ba355b27ab96cfab4640659189d2418] Measures in the veterinary and phytosanitary fields for the protection of public health [^c23605401].
 
-**26.**[^key-c7e7fee1f8b8c4bf09ebef3170521e8e] Measures relating to biocides [^c23605411].
+**26.**[^c-c7e7fee1f8b8c4bf09ebef3170521e8e] Measures relating to biocides [^c23605411].
 
-**27.**[^key-8344a28dc609c71d3e00a9a32005b9cb] Measures relating to wireless telegraphy including radio equipment [^c23605421].
+**27.**[^c-8344a28dc609c71d3e00a9a32005b9cb] Measures relating to wireless telegraphy including radio equipment [^c23605421].
 
-**28.**[^key-410e42111d0a460a4b172fcc409dd45b] Matters in respect of noise emission in the environment by equipment for use outdoors [^c23605431].
+**28.**[^c-410e42111d0a460a4b172fcc409dd45b] Matters in respect of noise emission in the environment by equipment for use outdoors [^c23605431].
 
-**29.**[^key-390d86bc401b65d770c3cfbd30e2f729] Cableway installations designed to carry people and components of such installations [^c23605441].
+**29.**[^c-390d86bc401b65d770c3cfbd30e2f729] Cableway installations designed to carry people and components of such installations [^c23605441].
 
-**30.**[^key-3055d6557eb9f7bec90c5ac5df7388cd] The restriction of the use of hazardous substances in electrical and electronic equipment [^c23605451].
+**30.**[^c-3055d6557eb9f7bec90c5ac5df7388cd] The restriction of the use of hazardous substances in electrical and electronic equipment [^c23605451].
 
-**31.**[^key-38391c88a9e1ae9f8c46c8784b42d4ce] Health protection measures regulating the use of material of human origin [^c23605461].
+**31.**[^c-38391c88a9e1ae9f8c46c8784b42d4ce] Health protection measures regulating the use of material of human origin [^c23605461].
 
-**32.**[^key-12688f6757d30802420e57bdd4233e1e] The regulation, labelling and control of packages and products made up to a pre-determined constant nominal quantity, whether that be weight, volume, number, area, length or any other measurement [^c23605471].
+**32.**[^c-12688f6757d30802420e57bdd4233e1e] The regulation, labelling and control of packages and products made up to a pre-determined constant nominal quantity, whether that be weight, volume, number, area, length or any other measurement [^c23605471].
 
-**33.**[^key-cee628fa146cae43401d89836d8a9cbf] Machinery, including—
+**33.**[^c-cee628fa146cae43401d89836d8a9cbf] Machinery, including—
 
 - (a) component parts of machines;
 - (b) components or equipment to be attached to or used with machines; and
 - (c) sub-assemblies to be incorporated into or assembled with machines [^c23605481].
 
-**34.**[^key-fb7c305fc50f27b7e8bde8a7784dead2] The packaging of products [^c23605491].
+**34.**[^c-fb7c305fc50f27b7e8bde8a7784dead2] The packaging of products [^c23605491].
 
-**35.**[^key-1bb90428f342fd02fbd32f68424479f4] Pyrotechnic articles [^c23605501].
+**35.**[^c-1bb90428f342fd02fbd32f68424479f4] Pyrotechnic articles [^c23605501].
 
-**36.**[^key-2b39448032db73cea8225f45e8d04b50] Market surveillance and marking which indicates that a product is in conformity with requirements of EU legislation [^c23605511].
+**36.**[^c-2b39448032db73cea8225f45e8d04b50] Market surveillance and marking which indicates that a product is in conformity with requirements of EU legislation [^c23605511].
 
-**37.**[^key-54458dba36d7239252e298342f2634c4] The environmental aspects of product design [^c23605521].
+**37.**[^c-54458dba36d7239252e298342f2634c4] The environmental aspects of product design [^c23605521].
 
 *(This note is not part of the Regulations)*
 
@@ -272,9 +272,9 @@ An impact assessment has not been published for this instrument as it has no or 
 
 [^c23605021]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). It is prospectively repealed by section 1 of the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), with effect from exit day (see [section 20](https://www.legislation.gov.uk/ukpga/2018/16/section/20) of that Act).
 
-[^key-a0558169e8fb7c165c68f22522640d29]: Commencement: Reg. 1 in force at 22.3.2019, see reg. 1
+[^c-a0558169e8fb7c165c68f22522640d29]: Commencement: Reg. 1 in force at 22.3.2019, see reg. 1
 
-[^key-6ba159c2879faaf78aa84728389bbddb]: Commencement: Reg. 2 in force at 22.3.2019, see reg. 1
+[^c-6ba159c2879faaf78aa84728389bbddb]: Commencement: Reg. 2 in force at 22.3.2019, see reg. 1
 
 [^c23605031]: Marginal citation: OJ No. L 229, 17.8.1998, p. 3. This agreement was amended by the Agreement between the European Union and Australia amending the Agreement on mutual recognition in relation to conformity assessment, certificates and markings between the European Community and Australia (OJ No. L 359, 29.12.2012, p. 2). There are other amendments but they are not relevant.
 
@@ -298,160 +298,160 @@ An impact assessment has not been published for this instrument as it has no or 
 
 [^c23605131]: Marginal citation: OJ No. L 1, 4.1.2013, p. 2.
 
-[^key-ff615ee9aad864f21dbfbd7b8d7b28e5]: Commencement: Reg. 3 in force at 22.3.2019, see reg. 1
+[^c-ff615ee9aad864f21dbfbd7b8d7b28e5]: Commencement: Reg. 3 in force at 22.3.2019, see reg. 1
 
-[^key-59120ea2970ee0c4f484b69408d0acd8]: Commencement: Reg. 4 in force at 22.3.2019, see reg. 1
+[^c-59120ea2970ee0c4f484b69408d0acd8]: Commencement: Reg. 4 in force at 22.3.2019, see reg. 1
 
-[^key-3db959842f54121106eb35fcb33c0e02]: Textual amendment: Words in reg. 4(1) substituted (10.9.2019) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/2/2)
+[^c-3db959842f54121106eb35fcb33c0e02]: Textual amendment: Words in reg. 4(1) substituted (10.9.2019) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/2/2)
 
-[^key-b3e92bf7d7d596b7e94e5a872899d90a]: Commencement: Reg. 5 in force at 22.3.2019, see reg. 1
+[^c-b3e92bf7d7d596b7e94e5a872899d90a]: Commencement: Reg. 5 in force at 22.3.2019, see reg. 1
 
-[^key-09d445eb2aa24efc68595b75fc6b265d]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/392/regulation/6) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2019/1246/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-09d445eb2aa24efc68595b75fc6b265d]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/392/regulation/6) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2019/1246/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c3dbe67d4f4c6a9286888589d6396731]: Commencement: Sch. para. 1 in force at 22.3.2019, see reg. 1
+[^c-c3dbe67d4f4c6a9286888589d6396731]: Commencement: Sch. para. 1 in force at 22.3.2019, see reg. 1
 
 [^c23605141]: Marginal citation: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
 
-[^key-218728ff6c66baca4c737661b599af79]: Commencement: Sch. para. 2 in force at 22.3.2019, see reg. 1
+[^c-218728ff6c66baca4c737661b599af79]: Commencement: Sch. para. 2 in force at 22.3.2019, see reg. 1
 
 [^c23605151]: Marginal citation: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811), superseded in relation to measures relating to consumer protection by [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661).
 
-[^key-76a156335ac35cf27c07358683840816]: Commencement: Sch. para. 3 in force at 22.3.2019, see reg. 1
+[^c-76a156335ac35cf27c07358683840816]: Commencement: Sch. para. 3 in force at 22.3.2019, see reg. 1
 
 [^c23605161]: Marginal citation: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
 
-[^key-c9f556d2dae3f016dcbc3e024ed0ad26]: Commencement: Sch. para. 4 in force at 22.3.2019, see reg. 1
+[^c-c9f556d2dae3f016dcbc3e024ed0ad26]: Commencement: Sch. para. 4 in force at 22.3.2019, see reg. 1
 
 [^c23605171]: Marginal citation: [S.I. 1975/427](https://www.legislation.gov.uk/uksi/1975/427).
 
-[^key-824d2eafc58c69bc52a3f7019ead6ca9]: Commencement: Sch. para. 5 in force at 22.3.2019, see reg. 1
+[^c-824d2eafc58c69bc52a3f7019ead6ca9]: Commencement: Sch. para. 5 in force at 22.3.2019, see reg. 1
 
 [^c23605181]: Marginal citation: [S.I. 1976/897](https://www.legislation.gov.uk/uksi/1976/897).
 
-[^key-4650377da57234feeb81e8e92f2b57ca]: Commencement: Sch. para. 6 in force at 22.3.2019, see reg. 1
+[^c-4650377da57234feeb81e8e92f2b57ca]: Commencement: Sch. para. 6 in force at 22.3.2019, see reg. 1
 
 [^c23605191]: Marginal citation: [S.I. 1989/1327](https://www.legislation.gov.uk/uksi/1989/1327).
 
-[^key-3d53db75ea2f1406838c1ef39b36705a]: Commencement: Sch. para. 7 in force at 22.3.2019, see reg. 1
+[^c-3d53db75ea2f1406838c1ef39b36705a]: Commencement: Sch. para. 7 in force at 22.3.2019, see reg. 1
 
 [^c23605201]: Marginal citation: [S.I. 1989/1327](https://www.legislation.gov.uk/uksi/1989/1327).
 
-[^key-433dafda1d9e8c677724dbb90fb543eb]: Commencement: Sch. para. 8 in force at 22.3.2019, see reg. 1
+[^c-433dafda1d9e8c677724dbb90fb543eb]: Commencement: Sch. para. 8 in force at 22.3.2019, see reg. 1
 
 [^c23605211]: Marginal citation: [S.I. 1989/2393](https://www.legislation.gov.uk/uksi/1989/2393).
 
-[^key-5c56dc5efe9f370b017e985e5c646052]: Commencement: Sch. para. 9 in force at 22.3.2019, see reg. 1
+[^c-5c56dc5efe9f370b017e985e5c646052]: Commencement: Sch. para. 9 in force at 22.3.2019, see reg. 1
 
 [^c23605221]: Marginal citation: [S.I. 1989/2393](https://www.legislation.gov.uk/uksi/1989/2393).
 
-[^key-b7d33fe4775061d0ee33a800ca5ea9f9]: Commencement: Sch. para. 10 in force at 22.3.2019, see reg. 1
+[^c-b7d33fe4775061d0ee33a800ca5ea9f9]: Commencement: Sch. para. 10 in force at 22.3.2019, see reg. 1
 
 [^c23605231]: Marginal citation: [S.I. 1990/1304](https://www.legislation.gov.uk/uksi/1990/1304).
 
-[^key-201950cee30bf87f3d3f6d56fa562b08]: Commencement: Sch. para. 11 in force at 22.3.2019, see reg. 1
+[^c-201950cee30bf87f3d3f6d56fa562b08]: Commencement: Sch. para. 11 in force at 22.3.2019, see reg. 1
 
 [^c23605241]: Marginal citation: [S.I. 1991/755](https://www.legislation.gov.uk/uksi/1991/755).
 
-[^key-e52265a8c248d86edff68440d7b46229]: Commencement: Sch. para. 12 in force at 22.3.2019, see reg. 1
+[^c-e52265a8c248d86edff68440d7b46229]: Commencement: Sch. para. 12 in force at 22.3.2019, see reg. 1
 
 [^c23605261]: Marginal citation: [S.I. 1991/2289](https://www.legislation.gov.uk/uksi/1991/2289).
 
-[^key-42d63f35cdd8b6b8d5c1eac1e6679548]: Commencement: Sch. para. 13 in force at 22.3.2019, see reg. 1
+[^c-42d63f35cdd8b6b8d5c1eac1e6679548]: Commencement: Sch. para. 13 in force at 22.3.2019, see reg. 1
 
 [^c23605281]: Marginal citation: [S.I. 1992/1711](https://www.legislation.gov.uk/uksi/1992/1711).
 
-[^key-fdf32f1650fc954105239ecab2df8d8d]: Commencement: Sch. para. 14 in force at 22.3.2019, see reg. 1
+[^c-fdf32f1650fc954105239ecab2df8d8d]: Commencement: Sch. para. 14 in force at 22.3.2019, see reg. 1
 
 [^c23605291]: Marginal citation: [S.I. 1992/1711](https://www.legislation.gov.uk/uksi/1992/1711).
 
-[^key-d644c3317f31c299ea7984efb6f73d8e]: Commencement: Sch. para. 15 in force at 22.3.2019, see reg. 1
+[^c-d644c3317f31c299ea7984efb6f73d8e]: Commencement: Sch. para. 15 in force at 22.3.2019, see reg. 1
 
 [^c23605301]: Marginal citation: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
 
-[^key-a70f32c8406ecadff465ad6b85685126]: Commencement: Sch. para. 16 in force at 22.3.2019, see reg. 1
+[^c-a70f32c8406ecadff465ad6b85685126]: Commencement: Sch. para. 16 in force at 22.3.2019, see reg. 1
 
 [^c23605311]: Marginal citation: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661).
 
-[^key-bf5685b25ad70a82df97d4aa560f7f5a]: Commencement: Sch. para. 17 in force at 22.3.2019, see reg. 1
+[^c-bf5685b25ad70a82df97d4aa560f7f5a]: Commencement: Sch. para. 17 in force at 22.3.2019, see reg. 1
 
 [^c23605321]: Marginal citation: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661).
 
-[^key-85ef0dce77843da10f187fdf88e1043a]: Commencement: Sch. para. 18 in force at 22.3.2019, see reg. 1
+[^c-85ef0dce77843da10f187fdf88e1043a]: Commencement: Sch. para. 18 in force at 22.3.2019, see reg. 1
 
 [^c23605331]: Marginal citation: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661).
 
-[^key-eafa14fc58d4e37df67f5d5130d029d1]: Commencement: Sch. para. 19 in force at 22.3.2019, see reg. 1
+[^c-eafa14fc58d4e37df67f5d5130d029d1]: Commencement: Sch. para. 19 in force at 22.3.2019, see reg. 1
 
 [^c23605341]: Marginal citation: [S.I. 1994/757](https://www.legislation.gov.uk/uksi/1994/757).
 
-[^key-f1fc9e22570c84c271df7be3a3e48df4]: Commencement: Sch. para. 20 in force at 22.3.2019, see reg. 1
+[^c-f1fc9e22570c84c271df7be3a3e48df4]: Commencement: Sch. para. 20 in force at 22.3.2019, see reg. 1
 
 [^c23605351]: Marginal citation: [S.I. 1995/751](https://www.legislation.gov.uk/uksi/1995/751).
 
-[^key-e764ba1f3dfb4dc7259c0615f08fb349]: Commencement: Sch. para. 21 in force at 22.3.2019, see reg. 1
+[^c-e764ba1f3dfb4dc7259c0615f08fb349]: Commencement: Sch. para. 21 in force at 22.3.2019, see reg. 1
 
 [^c23605361]: Marginal citation: [S.I. 1995/2983](https://www.legislation.gov.uk/uksi/1995/2983).
 
-[^key-19abc1934823c378b5f3f8dd8f0df890]: Commencement: Sch. para. 22 in force at 22.3.2019, see reg. 1
+[^c-19abc1934823c378b5f3f8dd8f0df890]: Commencement: Sch. para. 22 in force at 22.3.2019, see reg. 1
 
 [^c23605371]: Marginal citation: [S.I. 1996/266](https://www.legislation.gov.uk/uksi/1996/266).
 
-[^key-f7c3c8beb90c08ff11c753f68316d3d6]: Commencement: Sch. para. 23 in force at 22.3.2019, see reg. 1
+[^c-f7c3c8beb90c08ff11c753f68316d3d6]: Commencement: Sch. para. 23 in force at 22.3.2019, see reg. 1
 
 [^c23605381]: Marginal citation: [S.I. 1996/1912](https://www.legislation.gov.uk/uksi/1996/1912).
 
-[^key-6437e9711d77ca5a2941c8f3630564fd]: Commencement: Sch. para. 24 in force at 22.3.2019, see reg. 1
+[^c-6437e9711d77ca5a2941c8f3630564fd]: Commencement: Sch. para. 24 in force at 22.3.2019, see reg. 1
 
 [^c23605391]: Marginal citation: [S.I. 1998/2793](https://www.legislation.gov.uk/uksi/1998/2793).
 
-[^key-8ba355b27ab96cfab4640659189d2418]: Commencement: Sch. para. 25 in force at 22.3.2019, see reg. 1
+[^c-8ba355b27ab96cfab4640659189d2418]: Commencement: Sch. para. 25 in force at 22.3.2019, see reg. 1
 
 [^c23605401]: Marginal citation: [S.I. 1999/2027](https://www.legislation.gov.uk/uksi/1999/2027).
 
-[^key-c7e7fee1f8b8c4bf09ebef3170521e8e]: Commencement: Sch. para. 26 in force at 22.3.2019, see reg. 1
+[^c-c7e7fee1f8b8c4bf09ebef3170521e8e]: Commencement: Sch. para. 26 in force at 22.3.2019, see reg. 1
 
 [^c23605411]: Marginal citation: [S.I. 1999/2788](https://www.legislation.gov.uk/uksi/1999/2788).
 
-[^key-8344a28dc609c71d3e00a9a32005b9cb]: Commencement: Sch. para. 27 in force at 22.3.2019, see reg. 1
+[^c-8344a28dc609c71d3e00a9a32005b9cb]: Commencement: Sch. para. 27 in force at 22.3.2019, see reg. 1
 
 [^c23605421]: Marginal citation: [S.I. 1999/2788](https://www.legislation.gov.uk/uksi/1999/2788).
 
-[^key-410e42111d0a460a4b172fcc409dd45b]: Commencement: Sch. para. 28 in force at 22.3.2019, see reg. 1
+[^c-410e42111d0a460a4b172fcc409dd45b]: Commencement: Sch. para. 28 in force at 22.3.2019, see reg. 1
 
 [^c23605431]: Marginal citation: [S.I. 2000/3238](https://www.legislation.gov.uk/uksi/2000/3238).
 
-[^key-390d86bc401b65d770c3cfbd30e2f729]: Commencement: Sch. para. 29 in force at 22.3.2019, see reg. 1
+[^c-390d86bc401b65d770c3cfbd30e2f729]: Commencement: Sch. para. 29 in force at 22.3.2019, see reg. 1
 
 [^c23605441]: Marginal citation: [S.I. 2001/2555](https://www.legislation.gov.uk/uksi/2001/2555).
 
-[^key-3055d6557eb9f7bec90c5ac5df7388cd]: Commencement: Sch. para. 30 in force at 22.3.2019, see reg. 1
+[^c-3055d6557eb9f7bec90c5ac5df7388cd]: Commencement: Sch. para. 30 in force at 22.3.2019, see reg. 1
 
 [^c23605451]: Marginal citation: [S.I. 2004/706](https://www.legislation.gov.uk/uksi/2004/706).
 
-[^key-38391c88a9e1ae9f8c46c8784b42d4ce]: Commencement: Sch. para. 31 in force at 22.3.2019, see reg. 1
+[^c-38391c88a9e1ae9f8c46c8784b42d4ce]: Commencement: Sch. para. 31 in force at 22.3.2019, see reg. 1
 
 [^c23605461]: Marginal citation: [S.I. 2004/3037](https://www.legislation.gov.uk/uksi/2004/3037).
 
-[^key-12688f6757d30802420e57bdd4233e1e]: Commencement: Sch. para. 32 in force at 22.3.2019, see reg. 1
+[^c-12688f6757d30802420e57bdd4233e1e]: Commencement: Sch. para. 32 in force at 22.3.2019, see reg. 1
 
 [^c23605471]: Marginal citation: [S.I. 2005/2766](https://www.legislation.gov.uk/uksi/2005/2766).
 
-[^key-cee628fa146cae43401d89836d8a9cbf]: Commencement: Sch. para. 33 in force at 22.3.2019, see reg. 1
+[^c-cee628fa146cae43401d89836d8a9cbf]: Commencement: Sch. para. 33 in force at 22.3.2019, see reg. 1
 
 [^c23605481]: Marginal citation: [S.I. 2007/1679](https://www.legislation.gov.uk/uksi/2007/1679).
 
-[^key-fb7c305fc50f27b7e8bde8a7784dead2]: Commencement: Sch. para. 34 in force at 22.3.2019, see reg. 1
+[^c-fb7c305fc50f27b7e8bde8a7784dead2]: Commencement: Sch. para. 34 in force at 22.3.2019, see reg. 1
 
 [^c23605491]: Marginal citation: [S.I. 2009/221](https://www.legislation.gov.uk/uksi/2009/221).
 
-[^key-1bb90428f342fd02fbd32f68424479f4]: Commencement: Sch. para. 35 in force at 22.3.2019, see reg. 1
+[^c-1bb90428f342fd02fbd32f68424479f4]: Commencement: Sch. para. 35 in force at 22.3.2019, see reg. 1
 
 [^c23605501]: Marginal citation: [S.I. 2009/2743](https://www.legislation.gov.uk/uksi/2009/2743).
 
-[^key-2b39448032db73cea8225f45e8d04b50]: Commencement: Sch. para. 36 in force at 22.3.2019, see reg. 1
+[^c-2b39448032db73cea8225f45e8d04b50]: Commencement: Sch. para. 36 in force at 22.3.2019, see reg. 1
 
 [^c23605511]: Marginal citation: [S.I. 2009/3214](https://www.legislation.gov.uk/uksi/2009/3214).
 
-[^key-54458dba36d7239252e298342f2634c4]: Commencement: Sch. para. 37 in force at 22.3.2019, see reg. 1
+[^c-54458dba36d7239252e298342f2634c4]: Commencement: Sch. para. 37 in force at 22.3.2019, see reg. 1
 
 [^c23605521]: Marginal citation: [S.I. 2010/1552](https://www.legislation.gov.uk/uksi/2010/1552).

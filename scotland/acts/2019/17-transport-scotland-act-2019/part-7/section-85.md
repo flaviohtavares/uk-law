@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Enforcement powers[^key-da1b189800f2b8dfe2d594aec6d36ba8]
+## 85. Enforcement powers[^c-da1b189800f2b8dfe2d594aec6d36ba8]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da1b189800f2b8dfe2d594aec6d36ba8]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2019/17/section/85) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-da1b189800f2b8dfe2d594aec6d36ba8]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2019/17/section/85) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

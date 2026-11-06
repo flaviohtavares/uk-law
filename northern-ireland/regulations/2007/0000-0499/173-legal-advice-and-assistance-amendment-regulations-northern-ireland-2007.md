@@ -43,15 +43,15 @@ To be laid before Parliament
 
 The Lord Chancellor makes the following Regulations in exercise of the powers conferred by Articles 7(2), 22 and 27 of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981[^f00001] and now vested in him[^f00002]:
 
-## 1. Citation and commencement[^key-b1cedeb1df7796851c8d6538d9331669]
+## 1. Citation and commencement[^c-b1cedeb1df7796851c8d6538d9331669]
 
 These Regulations may be cited as the Legal Advice and Assistance (Amendment) Regulations (Northern Ireland) 2007 and shall come into operation on 9th April 2007.
 
-## 2. Revocation[^key-bfcd471b862551f2feb08087cb2d51ce][^key-53f6abc0c204c6afd1eb9dc90c149066]
+## 2. Revocation[^c-bfcd471b862551f2feb08087cb2d51ce][^c-53f6abc0c204c6afd1eb9dc90c149066]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to Schedule 2[^key-feca937bae29f90fec1c00c2eccc9dd4]
+## 3. Amendment to Schedule 2[^c-feca937bae29f90fec1c00c2eccc9dd4]
 
 For the table set out in Schedule 2 to the Legal Advice and Assistance Regulations (Northern Ireland) 1981[^f00004] there shall be substituted the following table –
 
@@ -98,12 +98,12 @@ These Regulations amend the Legal Advice and Assistance Regulations (Northern Ir
 
 [^f00002]: Footnote: [S.I. 1982/159](https://www.legislation.gov.uk/uksi/1982/159)
 
-[^key-b1cedeb1df7796851c8d6538d9331669]: Commencement: Reg. 1 in operation at 9.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/173/regulation/1)
+[^c-b1cedeb1df7796851c8d6538d9331669]: Commencement: Reg. 1 in operation at 9.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/173/regulation/1)
 
-[^key-bfcd471b862551f2feb08087cb2d51ce]: Annotation text not found in the source document.
+[^c-bfcd471b862551f2feb08087cb2d51ce]: Annotation text not found in the source document.
 
-[^key-53f6abc0c204c6afd1eb9dc90c149066]: Annotation text not found in the source document.
+[^c-53f6abc0c204c6afd1eb9dc90c149066]: Annotation text not found in the source document.
 
-[^key-feca937bae29f90fec1c00c2eccc9dd4]: Commencement: Reg. 3 in operation at 9.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/173/regulation/1)
+[^c-feca937bae29f90fec1c00c2eccc9dd4]: Commencement: Reg. 3 in operation at 9.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/173/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1981 No. 366](https://www.legislation.gov.uk/nisr/1981/366); to which the most recent relevant amendment was made by [S.R. 2006 No. 193](https://www.legislation.gov.uk/nisr/2006/193)

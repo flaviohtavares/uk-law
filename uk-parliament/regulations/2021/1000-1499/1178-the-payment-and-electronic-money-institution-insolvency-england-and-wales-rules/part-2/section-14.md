@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. The special administration order[^key-da037e06dc70405ecde07a3e2f63bd9f]
+## 14. The special administration order[^c-da037e06dc70405ecde07a3e2f63bd9f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ If the court makes a special administration order, the order must state—
 
 ## Annotations
 
-[^key-da037e06dc70405ecde07a3e2f63bd9f]: Commencement: Rule 14 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-da037e06dc70405ecde07a3e2f63bd9f]: Commencement: Rule 14 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

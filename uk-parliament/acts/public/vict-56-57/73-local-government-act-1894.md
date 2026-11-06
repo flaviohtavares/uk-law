@@ -75,7 +75,7 @@ An Act to make further provision for Local Government in England and Wales.
 
 - (a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5760481]
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5760491]
-- (c)[^key-d7e9a42fbbb00f18b1f40b0a30fed47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-d7e9a42fbbb00f18b1f40b0a30fed47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) . . . [^c5760511] sections one hundred and eighty-three to one hundred and eighty-six of the [^c5760521]Public Health Act, 1875, shall apply. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5760511] as if the parish council were a local authority within the meaning of those sections; and
 - (e)(f) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5760541]
 - (g)[^c5760551] to acquire by agreement any right of way, whether within their parish or an adjoining parish, the acquisition of which is beneficial to the inhabitants of the parish or any part thereof; and
@@ -87,7 +87,7 @@ An Act to make further provision for Local Government in England and Wales.
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5760581]
 
-(4)[^key-b867de3a26c9dcd0b444e39169f0c376] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b867de3a26c9dcd0b444e39169f0c376] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5760591]
 
@@ -121,7 +121,7 @@ In a rural parish not having a separate parish council, the following provisions
 
 (9)—(11) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5760701]
 
-#### 19A. Powers under other enactments[^key-b9eafdac799f2cae5d87735af328e2bc]
+#### 19A. Powers under other enactments[^c-b9eafdac799f2cae5d87735af328e2bc]
 
 (1) Nothing in this Part affects any powers, duties or liabilities conferred on a parish council by or under any other enactment (whenever passed or made).
 
@@ -159,13 +159,13 @@ In a rural parish not having a separate parish council, the following provisions
 
 (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5760851]
 
-(2)[^c5760861] A district council may with the consent of the county council for the county within which any common land is situate aid persons in maintaining rights of common where, in the opinion of the council, the extinction of such rights would be prejudicial to the inhabitants of the district; [^key-58eb938940071ccb181d4d0e363f7541]...
+(2)[^c5760861] A district council may with the consent of the county council for the county within which any common land is situate aid persons in maintaining rights of common where, in the opinion of the council, the extinction of such rights would be prejudicial to the inhabitants of the district; [^c-58eb938940071ccb181d4d0e363f7541]...
 
 (3) A district council may, for the purpose of carrying into effect this section, institute or defend any legal proceedings, and generally take such steps as they deem expedient.
 
 (4)—(6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5760851]
 
-(7)[^key-26d4eed467c9bc5a82d0e44f6065388c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-26d4eed467c9bc5a82d0e44f6065388c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 27. Transfer of certain powers of justices to district councils.
 
@@ -173,7 +173,7 @@ In a rural parish not having a separate parish council, the following provisions
 
 - (a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5760911]
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5760921]
-- (c)[^key-17a94e9e7aae8cda16882875fae5979f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-17a94e9e7aae8cda16882875fae5979f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5760931]
 - (e) the abolition of fairs and alteration of days for holding fairs;
 - (f) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5760931]
@@ -290,8 +290,8 @@ Where any powers and duties are transferred by this Act from one authority to an
   - (c) for use, if a building, as a church, chapel, mission room, or Sunday school, or otherwise by any particular church or denomination; or
   - (d) for the maintenance, repair, or improvement of any such building as aforesaid, or for the maintenance of divine service therein; or
   - (e) otherwise for the benefit of any particular church or denomination, or of any members thereof as such.
-- Provided that where any endowment of a charity, other than a building held for any of the purposes aforesaid, is held in part only for some of the purposes aforesaid, the charity, so far as that endowment is concerned, shall be an ecclesiastical charity within the meaning of this Act; and the Charity Commission[^key-e448f85dce1d2b7dfa66e6539d776f01] shall, on application by any person interested, make such provision for the apportionment and management of that endowment as seems to it[^key-24022c9833ea4859830aab2f1241d97a] necessary or expedient for giving effect to this Act.
-- The expression shall also include any building which in the opinion of the Charity Commission[^key-43917c556d914edc33bf58b7938aa2a2] has been erected or provided within forty years before the passing of this Act mainly by or at the cost of members of any particular church or denomination.
+- Provided that where any endowment of a charity, other than a building held for any of the purposes aforesaid, is held in part only for some of the purposes aforesaid, the charity, so far as that endowment is concerned, shall be an ecclesiastical charity within the meaning of this Act; and the Charity Commission[^c-e448f85dce1d2b7dfa66e6539d776f01] shall, on application by any person interested, make such provision for the apportionment and management of that endowment as seems to it[^c-24022c9833ea4859830aab2f1241d97a] necessary or expedient for giving effect to this Act.
+- The expression shall also include any building which in the opinion of the Charity Commission[^c-43917c556d914edc33bf58b7938aa2a2] has been erected or provided within forty years before the passing of this Act mainly by or at the cost of members of any particular church or denomination.
 - The expression “**affairs of the church**” shall include the distribution of offertories or other collections made in any church.
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5761321]
 - The expression “**vestry**” in relation to a parish means the inhabitants of the parish whether in vestry assembled or not, and includes any select vestry either by statute or at common law.
@@ -385,7 +385,7 @@ SCHEDULES
 
 [^c5760491]: Textual amendment: S. 8(1)(*b* repealed by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
 
-[^key-d7e9a42fbbb00f18b1f40b0a30fed47b]: Textual amendment: [S. 8(1)(c)](https://www.legislation.gov.uk/ukpga/Vict/56-57/73/section/8/1/c) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-d7e9a42fbbb00f18b1f40b0a30fed47b]: Textual amendment: [S. 8(1)(c)](https://www.legislation.gov.uk/ukpga/Vict/56-57/73/section/8/1/c) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
 [^c5760511]: Textual amendment: Words repealed by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
 
@@ -399,7 +399,7 @@ SCHEDULES
 
 [^c5760581]: Textual amendment: S. 8(3) repealed by [Public Health Act 1936 (c. 49)](https://www.legislation.gov.uk/ukpga/1936/49), [s. 346](https://www.legislation.gov.uk/ukpga/1936/49/section/346), [Sch. 3 Pt. V](https://www.legislation.gov.uk/ukpga/1936/49/schedule/3/part/V)
 
-[^key-b867de3a26c9dcd0b444e39169f0c376]: Textual amendment: [S. 8(4)](https://www.legislation.gov.uk/ukpga/Vict/56-57/73/section/8/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-b867de3a26c9dcd0b444e39169f0c376]: Textual amendment: [S. 8(4)](https://www.legislation.gov.uk/ukpga/Vict/56-57/73/section/8/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
 [^c5760591]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/Vict/56-57/73/section/9) repealed by [Local Government Act 1933 (c. 51)](https://www.legislation.gov.uk/ukpga/1933/51), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1933/51/schedule/11/part/IV)
 
@@ -427,7 +427,7 @@ SCHEDULES
 
 [^c5760711]: Textual amendment: [Ss. 16](https://www.legislation.gov.uk/ukpga/Vict/56-57/73/section/16), [19(8)](https://www.legislation.gov.uk/ukpga/Vict/56-57/73/section/19/8) repealed by [S.I. 1979/1123](https://www.legislation.gov.uk/uksi/1979/1123), [art. 3(1)](https://www.legislation.gov.uk/uksi/1979/1123/article/3/1)
 
-[^key-b9eafdac799f2cae5d87735af328e2bc]: Textual amendment: [S. 19A](https://www.legislation.gov.uk/ukpga/Vict/56-57/73/section/19A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 82](https://www.legislation.gov.uk/ukpga/2023/55/section/82), [255(2)(s)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/s) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-b9eafdac799f2cae5d87735af328e2bc]: Textual amendment: [S. 19A](https://www.legislation.gov.uk/ukpga/Vict/56-57/73/section/19A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 82](https://www.legislation.gov.uk/ukpga/2023/55/section/82), [255(2)(s)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/s) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c5760731]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/Vict/56-57/73/section/20) repealed by [Poor Law Act 1927 (c. 14)](https://www.legislation.gov.uk/ukpga/1927/14), [Sch. 11](https://www.legislation.gov.uk/ukpga/1927/14/schedule/11)
 
@@ -457,9 +457,9 @@ SCHEDULES
 
 [^c5760861]: Modification: Functions of Board of Agriculture under s. 26(2) now exercisable by Secretary of State: [Board of Agriculture and Fisheries Act 1903 (c. 31)](https://www.legislation.gov.uk/ukpga/1903/31), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1903/31/section/1/1), [Ministry of Agriculture and Fisheries Act 1919 (c. 91)](https://www.legislation.gov.uk/ukpga/1919/91), [s. 1](https://www.legislation.gov.uk/ukpga/1919/91/section/1) and [S.I. 1955/554](https://www.legislation.gov.uk/uksi/1955/554) (1955 I, p. 1200), 1965/143, 319, 1967/156, 1970/1681
 
-[^key-58eb938940071ccb181d4d0e363f7541]: Textual amendment: Words in s. 26(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-58eb938940071ccb181d4d0e363f7541]: Textual amendment: Words in s. 26(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
-[^key-26d4eed467c9bc5a82d0e44f6065388c]: Textual amendment: S. 26(7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-26d4eed467c9bc5a82d0e44f6065388c]: Textual amendment: S. 26(7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
 [^c5760901]: Textual amendment: Words repealed by [Statute Law Revision Act 1908 (c. 49)](https://www.legislation.gov.uk/ukpga/1908/49)
 
@@ -467,7 +467,7 @@ SCHEDULES
 
 [^c5760921]: Textual amendment: S. 27(1)(b) repealed by [Consumer Credit Act 1974 (c. 39)](https://www.legislation.gov.uk/ukpga/1974/39), [s. 192(4)](https://www.legislation.gov.uk/ukpga/1974/39/section/192/4), [Sch. 5](https://www.legislation.gov.uk/ukpga/1974/39/schedule/5)
 
-[^key-17a94e9e7aae8cda16882875fae5979f]: Textual amendment: [S. 27(1)(c)](https://www.legislation.gov.uk/ukpga/Vict/56-57/73/section/27/1/c) repealed (1.8.2007) by [Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(e)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/e)
+[^c-17a94e9e7aae8cda16882875fae5979f]: Textual amendment: [S. 27(1)(c)](https://www.legislation.gov.uk/ukpga/Vict/56-57/73/section/27/1/c) repealed (1.8.2007) by [Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(e)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/e)
 
 [^c5760931]: Textual amendment: Ss. 27(1)(*d*)(*f*), 28, 29 repealed by [Local Government Act 1933 (c. 51)](https://www.legislation.gov.uk/ukpga/1933/51), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1933/51/schedule/11/part/IV)
 
@@ -547,11 +547,11 @@ SCHEDULES
 
 [^c5761321]: Textual amendment: Definition repealed by [Statute Law (Repeals) Act 1978 (c. 45)](https://www.legislation.gov.uk/ukpga/1978/45), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1978/45/section/1/1), [Sch. 1 Pt. XII](https://www.legislation.gov.uk/ukpga/1978/45/schedule/1/part/XII)
 
-[^key-e448f85dce1d2b7dfa66e6539d776f01]: Textual amendment: Words in s. 75(2) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/9/2/a); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-e448f85dce1d2b7dfa66e6539d776f01]: Textual amendment: Words in s. 75(2) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/9/2/a); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-24022c9833ea4859830aab2f1241d97a]: Textual amendment: Word in s. 75(2) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/9/2/b); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-24022c9833ea4859830aab2f1241d97a]: Textual amendment: Word in s. 75(2) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/9/2/b); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-43917c556d914edc33bf58b7938aa2a2]: Textual amendment: Words in s. 75(2) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 9(3)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/9/3); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-43917c556d914edc33bf58b7938aa2a2]: Textual amendment: Words in s. 75(2) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 9(3)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/9/3); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
 [^c5761361]: Textual amendment: Definition of “rateable value” repealed by [Local Government Act 1958 (c. 55)](https://www.legislation.gov.uk/ukpga/1958/55), [Sch. 9 Pt. V](https://www.legislation.gov.uk/ukpga/1958/55/schedule/9/part/V)
 

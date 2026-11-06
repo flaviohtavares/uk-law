@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18.2. Form of application to find caution or give security (affected by repeal, see note)[^key-1885cc850112a6aab409d404c9c7c2ed][^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+## 18.2. Form of application to find caution or give security (affected by repeal, see note)[^c-1885cc850112a6aab409d404c9c7c2ed][^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
-An application— *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+An application— *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
-- (a) for an order for caution or other security; *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
-- (b) to vary or recall such an order, *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+- (a) for an order for caution or other security; *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
+- (b) to vary or recall such an order, *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
-is to be made by motion. *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+is to be made by motion. *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 ## Annotations
 
-[^key-1885cc850112a6aab409d404c9c7c2ed]: Commencement: Rule 18.2 in force at 1.1.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2015/356/rule/1.1/2)
+[^c-1885cc850112a6aab409d404c9c7c2ed]: Commencement: Rule 18.2 in force at 1.1.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2015/356/rule/1.1/2)
 
-[^key-f0b547b9fda9054e3bcfc93085b1a950]: Textual amendment: Rules revoked (with saving in [rule 34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3)) (6.1.2022) by [Act of Sederunt (Sheriff Appeal Court Rules) 2021 (S.S.I. 2021/468)](https://www.legislation.gov.uk/ssi/2021/468), [rules 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/rule/1.1/2), [34.1](https://www.legislation.gov.uk/ssi/2021/468/rule/34.1) (with [rules 1.2](https://www.legislation.gov.uk/ssi/2021/468/rule/1.2), [34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3))
+[^c-f0b547b9fda9054e3bcfc93085b1a950]: Textual amendment: Rules revoked (with saving in [rule 34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3)) (6.1.2022) by [Act of Sederunt (Sheriff Appeal Court Rules) 2021 (S.S.I. 2021/468)](https://www.legislation.gov.uk/ssi/2021/468), [rules 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/rule/1.1/2), [34.1](https://www.legislation.gov.uk/ssi/2021/468/rule/34.1) (with [rules 1.2](https://www.legislation.gov.uk/ssi/2021/468/rule/1.2), [34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3))

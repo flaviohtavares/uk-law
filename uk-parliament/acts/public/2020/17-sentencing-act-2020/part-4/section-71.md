@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Supply of controlled drug near school premises or involving child[^key-f773a4df8cec18f48fa70572afe9c288]
+## 71. Supply of controlled drug near school premises or involving child[^c-f773a4df8cec18f48fa70572afe9c288]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f773a4df8cec18f48fa70572afe9c288]: Commencement: S. 71 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f773a4df8cec18f48fa70572afe9c288]: Commencement: S. 71 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

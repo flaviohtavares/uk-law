@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies where—
 
 - (a) any enactment makes provision (“provision for Parliamentary laying”) for any report or statement to be laid before Parliament or either House of Parliament,
-- (b) the report or statement is not one which, by or by virtue of this Act, is to be made by or given to the Welsh Ministers, the First Minister, the Counsel General or the Senedd[^key-60edd79c70d763519861630d1afb7962] Commission, and
+- (b) the report or statement is not one which, by or by virtue of this Act, is to be made by or given to the Welsh Ministers, the First Minister, the Counsel General or the Senedd[^c-60edd79c70d763519861630d1afb7962] Commission, and
 - (c) the report or statement relates to matters with respect to which functions are exercisable by the Welsh Ministers, the First Minister, the Counsel General or the Senedd Commission.
 
 (2) If no functions relating to the matters are exercisable by a Minister of the Crown, the provision for Parliamentary laying is to be construed as provision for the report or statement to be laid before the Senedd instead of before Parliament or either House of Parliament.
@@ -39,4 +39,4 @@ summary: ''
 
 [^c16527221]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

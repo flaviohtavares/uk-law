@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28A. Modules of courses: modification of Chapter in relation to powers of the Secretary of State[^key-1deedf6855896ab85ce8a680fb3a60f3]
+## 28A. Modules of courses: modification of Chapter in relation to powers of the Secretary of State[^c-1deedf6855896ab85ce8a680fb3a60f3]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1deedf6855896ab85ce8a680fb3a60f3]: Textual amendment: S. 28A inserted (12.5.2026) by [Skills and Post-16 Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2022/21/section/15/1), [36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/15/2)); [S.I. 2026/498](https://www.legislation.gov.uk/uksi/2026/498), [reg. 2](https://www.legislation.gov.uk/uksi/2026/498/regulation/2)
+[^c-1deedf6855896ab85ce8a680fb3a60f3]: Textual amendment: S. 28A inserted (12.5.2026) by [Skills and Post-16 Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2022/21/section/15/1), [36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/15/2)); [S.I. 2026/498](https://www.legislation.gov.uk/uksi/2026/498), [reg. 2](https://www.legislation.gov.uk/uksi/2026/498/regulation/2)

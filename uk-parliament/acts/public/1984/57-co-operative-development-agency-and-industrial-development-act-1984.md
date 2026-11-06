@@ -39,7 +39,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### 1, 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c1040199]
 
-### 3. Power to dissolve Agency.[^key-d76325e9fd0f7fb65c2207e0da35f53a][^c1040200]
+### 3. Power to dissolve Agency.[^c-d76325e9fd0f7fb65c2207e0da35f53a][^c1040200]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -61,25 +61,25 @@ This section has effect subject to any provision of the commencement order under
 
 ### 5. New scheme of regional development grants.
 
-(1)[^key-677ed3c1527d126697f667875919cdc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-677ed3c1527d126697f667875919cdc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The enactments specified in Part II of that Schedule shall have effect subject to the amendments specified in that Part, being amendments consequential on the substitution effected by subsection (1) above.
 
-(3)[^key-31ecfe69250b69c9d2904ac7eba6b1cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-31ecfe69250b69c9d2904ac7eba6b1cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-31ecfe69250b69c9d2904ac7eba6b1cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-31ecfe69250b69c9d2904ac7eba6b1cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-31ecfe69250b69c9d2904ac7eba6b1cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-31ecfe69250b69c9d2904ac7eba6b1cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-31ecfe69250b69c9d2904ac7eba6b1cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-31ecfe69250b69c9d2904ac7eba6b1cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part III — SUPPLEMENTAL
 
 ### 6. Repeals.
 
-The enactments specified in Schedule 2 to this Act (one of which is spent) are hereby repealed to the extent specified in the third column of that Schedule [^key-f6c62440e7f23e4bde5ce4ed76994aa7]....
+The enactments specified in Schedule 2 to this Act (one of which is spent) are hereby repealed to the extent specified in the third column of that Schedule [^c-f6c62440e7f23e4bde5ce4ed76994aa7]....
 
-### 7. Commencement and transition.[^key-75210351d7428f092ad67247f1f2dca3]
+### 7. Commencement and transition.[^c-75210351d7428f092ad67247f1f2dca3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -87,7 +87,7 @@ The enactments specified in Schedule 2 to this Act (one of which is spent) are h
 
 (1) This Act may be cited as the Co-operative Development Agency and Industrial Development Act 1984.
 
-(2) [^key-e62c947fc2d8bca59a66f1fbab7764a7]...The repeals in Parts I and II of Schedule 2 together with so much of section 6 as relates to those repeals extended to Northern Ireland; but otherwise this Act does not extend there.
+(2) [^c-e62c947fc2d8bca59a66f1fbab7764a7]...The repeals in Parts I and II of Schedule 2 together with so much of section 6 as relates to those repeals extended to Northern Ireland; but otherwise this Act does not extend there.
 
 SCHEDULES
 
@@ -95,9 +95,9 @@ SCHEDULES
 
 Section 5.
 
-### Part I — ...[^key-e51171d425065f3f119ac9cfe9b701b2]
+### Part I — ...[^c-e51171d425065f3f119ac9cfe9b701b2]
 
-[^key-e51171d425065f3f119ac9cfe9b701b2]
+[^c-e51171d425065f3f119ac9cfe9b701b2]
 
 **May not be in force at this date. Check the source.**
 
@@ -107,7 +107,7 @@ Section 5.
 
 #### Industry Act 1975 (c. 68)
 
-**1.**[^key-42e4f3cb949774fca2b32f81e1da7651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-42e4f3cb949774fca2b32f81e1da7651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Energy Act 1976 (c. 76)
 
@@ -123,11 +123,11 @@ Section 5.
 
 #### Industrial Development Act 1982 (c. 52)
 
-**4.**[^key-a2745055ad83abc19d1fa6fe0bec094d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a2745055ad83abc19d1fa6fe0bec094d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ce8ec52b5a9456167067e603ec9eee0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ce8ec52b5a9456167067e603ec9eee0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-729c7ad66254530b486f9f74b55b3fa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-729c7ad66254530b486f9f74b55b3fa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Repeals.
 
@@ -140,7 +140,7 @@ Section 6.
 | Chapter | Short title | Extent of repeal |
 | 1978 c. 21. | Go-operative Develop-Agency Act 1978. | Section 3(2) and (3)(b). Section 4(3). |
 
-[^key-7697918a0fb27b1618e8f7cfbfb00482]...
+[^c-7697918a0fb27b1618e8f7cfbfb00482]...
 
 ### Part II — Repeals in Event of Dissolution of Agency
 
@@ -152,7 +152,7 @@ Section 6.
 | 1978 c. 21. | Co-operative Development Agency Act 1978. | The whole Act so far as unrepealed. |
 | 1984 c. 57. | Co-operative Development Agency and Industrial Development Act 1984. | Sections 1 and 2. |
 
-[^key-213b332413b4ac2f2daf9da962756cc6]...
+[^c-213b332413b4ac2f2daf9da962756cc6]...
 
 ### Part III — Repeals Relating to Regional Development Grant.
 
@@ -161,13 +161,13 @@ Section 6.
 | Chapter | Short title | Extent of repeal |
 | 1982 c. 52. | Industrial Development Act 1982. | Section 18(2).<br>In Schedule 1, paragraph 3(4). In Part II of Schedule 2,<br>paragraph 12 and paragraph<br>14\. |
 
-[^key-d5f75b0a842899f2cf5596f7460d46f7]...
+[^c-d5f75b0a842899f2cf5596f7460d46f7]...
 
 ## Annotations
 
 [^c1040199]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/1984/57/section/1), [2](https://www.legislation.gov.uk/ukpga/1984/57/section/2) repealed by virtue of Co-operative [Development Agency and Industrial Development Act 1984 (c. 57, SIF 64)](https://www.legislation.gov.uk/ukpga/1984/57), [s. 6](https://www.legislation.gov.uk/ukpga/1984/57/section/6), [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1984/57/schedule/2/part/II) and [S.I. 1990/279](https://www.legislation.gov.uk/uksi/1990/279)
 
-[^key-d76325e9fd0f7fb65c2207e0da35f53a]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1984/57/section/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-d76325e9fd0f7fb65c2207e0da35f53a]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1984/57/section/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c1040200]: Modification: Power conferred by s. 3 not yet exercised
 
@@ -175,28 +175,28 @@ Section 6.
 
 [^c1040202]: Marginal citation: [1982 c. 42](https://www.legislation.gov.uk/ukpga/1982/42).
 
-[^key-677ed3c1527d126697f667875919cdc6]: Textual amendment: [S. 5(1)](https://www.legislation.gov.uk/ukpga/1984/57/section/5/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-677ed3c1527d126697f667875919cdc6]: Textual amendment: [S. 5(1)](https://www.legislation.gov.uk/ukpga/1984/57/section/5/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-31ecfe69250b69c9d2904ac7eba6b1cd]: Textual amendment: [S. 5(3)-(6)](https://www.legislation.gov.uk/ukpga/1984/57/section/5/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-31ecfe69250b69c9d2904ac7eba6b1cd]: Textual amendment: [S. 5(3)-(6)](https://www.legislation.gov.uk/ukpga/1984/57/section/5/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-f6c62440e7f23e4bde5ce4ed76994aa7]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/1984/57/section/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-f6c62440e7f23e4bde5ce4ed76994aa7]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/1984/57/section/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-75210351d7428f092ad67247f1f2dca3]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1984/57/section/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-75210351d7428f092ad67247f1f2dca3]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1984/57/section/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-e62c947fc2d8bca59a66f1fbab7764a7]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/1984/57/section/8/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-e62c947fc2d8bca59a66f1fbab7764a7]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/1984/57/section/8/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-e51171d425065f3f119ac9cfe9b701b2]: Textual amendment: Sch. 1 Pt. I repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-e51171d425065f3f119ac9cfe9b701b2]: Textual amendment: Sch. 1 Pt. I repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-42e4f3cb949774fca2b32f81e1da7651]: Textual amendment: Sch. 1 para. 1 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-42e4f3cb949774fca2b32f81e1da7651]: Textual amendment: Sch. 1 para. 1 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-a2745055ad83abc19d1fa6fe0bec094d]: Textual amendment: Sch. 1 para. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-a2745055ad83abc19d1fa6fe0bec094d]: Textual amendment: Sch. 1 para. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-ce8ec52b5a9456167067e603ec9eee0f]: Textual amendment: Sch. 1 para. 5 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-ce8ec52b5a9456167067e603ec9eee0f]: Textual amendment: Sch. 1 para. 5 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-729c7ad66254530b486f9f74b55b3fa5]: Textual amendment: Sch. 1 para. 6 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-729c7ad66254530b486f9f74b55b3fa5]: Textual amendment: Sch. 1 para. 6 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-7697918a0fb27b1618e8f7cfbfb00482]: Textual amendment: Words in [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1984/57/schedule/2/part/I) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-7697918a0fb27b1618e8f7cfbfb00482]: Textual amendment: Words in [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1984/57/schedule/2/part/I) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-213b332413b4ac2f2daf9da962756cc6]: Textual amendment: Words in [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1984/57/schedule/2/part/II) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-213b332413b4ac2f2daf9da962756cc6]: Textual amendment: Words in [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1984/57/schedule/2/part/II) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-d5f75b0a842899f2cf5596f7460d46f7]: Textual amendment: Words in [Sch. 2 Pt. III](https://www.legislation.gov.uk/ukpga/1984/57/schedule/2/part/III) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-d5f75b0a842899f2cf5596f7460d46f7]: Textual amendment: Words in [Sch. 2 Pt. III](https://www.legislation.gov.uk/ukpga/1984/57/schedule/2/part/III) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Revocations[^key-4a3526170687f35de071750337f43386]
+## SCHEDULE 2 — Revocations[^c-4a3526170687f35de071750337f43386]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 101
 
-[^key-4a3526170687f35de071750337f43386]
+[^c-4a3526170687f35de071750337f43386]
 
 - The Savings Contracts Regulations 1969[^f00051]
 - The Premium Savings Bonds Regulations 1972[^f00052]
@@ -91,7 +91,7 @@ Regulation 101
 
 ## Annotations
 
-[^key-4a3526170687f35de071750337f43386]: Commencement: Sch. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-4a3526170687f35de071750337f43386]: Commencement: Sch. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00051]: Footnote: [S.I. 1969/1342](https://www.legislation.gov.uk/uksi/1969/1342)
 

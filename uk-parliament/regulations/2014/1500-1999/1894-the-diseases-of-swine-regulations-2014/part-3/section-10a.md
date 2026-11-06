@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10A. Designating premises in England as infected premises where the presence of disease is confirmed[^key-90e8a9e5ea4fd5e3bd0c9cd25eda01c9]
+## 10A. Designating premises in England as infected premises where the presence of disease is confirmed[^c-90e8a9e5ea4fd5e3bd0c9cd25eda01c9]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ that disease is present on premises in England, an inspector must serve a notice
 
 ## Annotations
 
-[^key-90e8a9e5ea4fd5e3bd0c9cd25eda01c9]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/10A) inserted (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2026/475/article/3/6)
+[^c-90e8a9e5ea4fd5e3bd0c9cd25eda01c9]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/10A) inserted (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2026/475/article/3/6)

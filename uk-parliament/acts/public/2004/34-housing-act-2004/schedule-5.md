@@ -101,7 +101,7 @@ Sections 71 and 94
 
 **11.**[^c2051795] Paragraphs 5, 6 and 8 do not apply to a refusal to grant a licence on particular terms if the local housing authority are proposing to grant the licence on different terms.
 
-**11A.**[^key-0e4a0ba9f34ef2b931507acf963832d2] The requirements of paragraph 5 do not apply where the refusal to grant the licence was because of section 66(3C) or 89(3C) (person with banning order not a fit and proper person).
+**11A.**[^c-0e4a0ba9f34ef2b931507acf963832d2] The requirements of paragraph 5 do not apply where the refusal to grant the licence was because of section 66(3C) or 89(3C) (person with banning order not a fit and proper person).
 
 #### Meaning of “the end of the consultation period”
 
@@ -220,7 +220,7 @@ Sections 71 and 94
 
 **25.**[^c2051815] The requirements of paragraph 22 do not apply if the revocation is agreed by the licence holder and the local housing authority consider that it would not be appropriate to comply with the requirements of that paragraph.
 
-**25A.**[^key-66c14cb374ab1b298a68881571df2bc0] The requirements of paragraph 22 do not apply if the revocation is required by section 70A or 93A (duty to revoke licence in banning order cases).
+**25A.**[^c-66c14cb374ab1b298a68881571df2bc0] The requirements of paragraph 22 do not apply if the revocation is required by section 70A or 93A (duty to revoke licence in banning order cases).
 
 #### Refusal to revoke a licence
 
@@ -273,7 +273,7 @@ Sections 71 and 94
 
 #### Right to appeal against refusal or grant of licence
 
-**31.**[^c2051832] (1) The applicant or any relevant person may appeal to the appropriate tribunal[^key-833a30d44af6fc613adc106715e0b30a] against a decision by the local housing authority on an application for a licence—
+**31.**[^c2051832] (1) The applicant or any relevant person may appeal to the appropriate tribunal[^c-833a30d44af6fc613adc106715e0b30a] against a decision by the local housing authority on an application for a licence—
 
 - (a) to refuse to grant the licence, or
 - (b) to grant the licence.
@@ -282,14 +282,14 @@ Sections 71 and 94
 
 #### Right to appeal against decision or refusal to vary or revoke licence
 
-**32.**[^c2051834] (1) The licence holder or any relevant person may appeal to the appropriate tribunal[^key-62911f1a53bd045b1f5cdcca7435aef9] against a decision by the local housing authority—
+**32.**[^c2051834] (1) The licence holder or any relevant person may appeal to the appropriate tribunal[^c-62911f1a53bd045b1f5cdcca7435aef9] against a decision by the local housing authority—
 
 - (a) to vary or revoke a licence, or
 - (b) to refuse to vary or revoke a licence.
 
 (2) But this does not apply to the licence holder in a case where the decision to vary or revoke the licence was made with his agreement.
 
-#### No rights of appeal where banning order involved[^key-4a0aaa9b22dd0d2783896d06e955173a]
+#### No rights of appeal where banning order involved[^c-4a0aaa9b22dd0d2783896d06e955173a]
 
 **32A.** (1) The right of appeal under paragraph 31(1)(a) does not apply where a licence is refused because of section 66(3A) or 89(3A) (person with banning order not a fit and proper person).
 
@@ -301,11 +301,11 @@ Sections 71 and 94
 
 (2) Any appeal under paragraph 32 against a decision to vary or revoke, or (as the case may be) to refuse to vary or revoke, a licence must be made within the period of 28 days beginning with the date specified in the notice under paragraph 16, 21, 24 or 28 as the date on which the decision was made.
 
-(3) The appropriate tribunal[^key-48967388e57bb48b355d5961a153ca7b] may allow an appeal to be made to it after the end of the period mentioned in sub-paragraph (1) or (2) if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
+(3) The appropriate tribunal[^c-48967388e57bb48b355d5961a153ca7b] may allow an appeal to be made to it after the end of the period mentioned in sub-paragraph (1) or (2) if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
 
-#### Powers of ... tribunal hearing appeal[^key-d3f80090aad856ce07c593a1fe0c0d91]
+#### Powers of ... tribunal hearing appeal[^c-d3f80090aad856ce07c593a1fe0c0d91]
 
-**34.**[^c2051836] (1) This paragraph applies to appeals to the appropriate tribunal[^key-bd6cafbf1bbc97da625e29c4027088e9] under paragraph 31 or 32.
+**34.**[^c2051836] (1) This paragraph applies to appeals to the appropriate tribunal[^c-bd6cafbf1bbc97da625e29c4027088e9] under paragraph 31 or 32.
 
 (2) An appeal—
 
@@ -375,7 +375,7 @@ Sections 71 and 94
 
 [^c2051795]: Commencement: Sch. 5 wholly in force at 16.6.2006; Sch. 5 not in force at Royal Assent see s. 270(4)(5); Sch. 5 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 5 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-0e4a0ba9f34ef2b931507acf963832d2]: Textual amendment: [Sch. 5 para. 11A](https://www.legislation.gov.uk/ukpga/2004/34/schedule/5/paragraph/11A) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/12/2); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-0e4a0ba9f34ef2b931507acf963832d2]: Textual amendment: [Sch. 5 para. 11A](https://www.legislation.gov.uk/ukpga/2004/34/schedule/5/paragraph/11A) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/12/2); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
 [^c2051797]: Commencement: Sch. 5 wholly in force at 16.6.2006; Sch. 5 not in force at Royal Assent see s. 270(4)(5); Sch. 5 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 5 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
@@ -405,7 +405,7 @@ Sections 71 and 94
 
 [^c2051815]: Commencement: Sch. 5 wholly in force at 16.6.2006; Sch. 5 not in force at Royal Assent see s. 270(4)(5); Sch. 5 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 5 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-66c14cb374ab1b298a68881571df2bc0]: Textual amendment: [Sch. 5 para. 25A](https://www.legislation.gov.uk/ukpga/2004/34/schedule/5/paragraph/25A) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/12/3); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-66c14cb374ab1b298a68881571df2bc0]: Textual amendment: [Sch. 5 para. 25A](https://www.legislation.gov.uk/ukpga/2004/34/schedule/5/paragraph/25A) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/12/3); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
 [^c2051818]: Commencement: Sch. 5 wholly in force at 16.6.2006; Sch. 5 not in force at Royal Assent see s. 270(4)(5); Sch. 5 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 5 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
@@ -419,23 +419,23 @@ Sections 71 and 94
 
 [^c2051832]: Commencement: Sch. 5 wholly in force at 16.6.2006; Sch. 5 not in force at Royal Assent see s. 270(4)(5); Sch. 5 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 5 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-833a30d44af6fc613adc106715e0b30a]: Textual amendment: Words in Sch. 5 para. 31(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 184(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/184/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-833a30d44af6fc613adc106715e0b30a]: Textual amendment: Words in Sch. 5 para. 31(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 184(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/184/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051834]: Commencement: Sch. 5 wholly in force at 16.6.2006; Sch. 5 not in force at Royal Assent see s. 270(4)(5); Sch. 5 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 5 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-62911f1a53bd045b1f5cdcca7435aef9]: Textual amendment: Words in Sch. 5 para. 32(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 184(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/184/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-62911f1a53bd045b1f5cdcca7435aef9]: Textual amendment: Words in Sch. 5 para. 32(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 184(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/184/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-4a0aaa9b22dd0d2783896d06e955173a]: Textual amendment: [Sch. 5 para. 32A](https://www.legislation.gov.uk/ukpga/2004/34/schedule/5/paragraph/32A) and cross-heading inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 12(4)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/12/4); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-4a0aaa9b22dd0d2783896d06e955173a]: Textual amendment: [Sch. 5 para. 32A](https://www.legislation.gov.uk/ukpga/2004/34/schedule/5/paragraph/32A) and cross-heading inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 12(4)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/12/4); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
 [^c2051835]: Commencement: Sch. 5 wholly in force at 16.6.2006; Sch. 5 not in force at Royal Assent see s. 270(4)(5); Sch. 5 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 5 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-48967388e57bb48b355d5961a153ca7b]: Textual amendment: Words in Sch. 5 para. 33(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 184(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/184/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-48967388e57bb48b355d5961a153ca7b]: Textual amendment: Words in Sch. 5 para. 33(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 184(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/184/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-d3f80090aad856ce07c593a1fe0c0d91]: Textual amendment: Words in Sch. 5 para. 34 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 184(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/184/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-d3f80090aad856ce07c593a1fe0c0d91]: Textual amendment: Words in Sch. 5 para. 34 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 184(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/184/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051836]: Commencement: Sch. 5 wholly in force at 16.6.2006; Sch. 5 not in force at Royal Assent see s. 270(4)(5); Sch. 5 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 5 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-bd6cafbf1bbc97da625e29c4027088e9]: Textual amendment: Words in Sch. 5 para. 34(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 184(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/184/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-bd6cafbf1bbc97da625e29c4027088e9]: Textual amendment: Words in Sch. 5 para. 34(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 184(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/184/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051839]: Commencement: Sch. 5 wholly in force at 16.6.2006; Sch. 5 not in force at Royal Assent see s. 270(4)(5); Sch. 5 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 5 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 

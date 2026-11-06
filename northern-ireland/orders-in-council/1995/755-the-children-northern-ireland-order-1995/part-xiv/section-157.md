@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-Schedule 6 (which contains provisions relating to property rights where the parents of a child were not married to , or civil partners of,[^key-338a0981a67dc7803045634f3e1b97b8] each other at the time of his birth) shall have effect.
+Schedule 6 (which contains provisions relating to property rights where the parents of a child were not married to , or civil partners of,[^c-338a0981a67dc7803045634f3e1b97b8] each other at the time of his birth) shall have effect.
 
 ## Annotations
 
-[^key-338a0981a67dc7803045634f3e1b97b8]: Textual amendment: Words in [art. 157](https://www.legislation.gov.uk/nisi/1995/755/article/157) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [38(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/38/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-338a0981a67dc7803045634f3e1b97b8]: Textual amendment: Words in [art. 157](https://www.legislation.gov.uk/nisi/1995/755/article/157) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [38(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/38/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

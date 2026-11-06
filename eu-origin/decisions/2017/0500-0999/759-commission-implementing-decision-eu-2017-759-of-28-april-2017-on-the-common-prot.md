@@ -33,37 +33,37 @@ of 28 April 2017
 
 on the common protocols and data formats to be used by air carriers when transferring PNR data to Passenger Information Units (revoked)
 
-[^key-9ddade6e3a42e21cc9c6ee9c04cd5b1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ddade6e3a42e21cc9c6ee9c04cd5b1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Common protocols and supported data formats[^key-9ddade6e3a42e21cc9c6ee9c04cd5b1b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Review[^key-9ddade6e3a42e21cc9c6ee9c04cd5b1b]
+## Article 1. Common protocols and supported data formats[^c-9ddade6e3a42e21cc9c6ee9c04cd5b1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-9ddade6e3a42e21cc9c6ee9c04cd5b1b]
+## Article 2. Review[^c-9ddade6e3a42e21cc9c6ee9c04cd5b1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9ddade6e3a42e21cc9c6ee9c04cd5b1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 3. Entry into force[^c-9ddade6e3a42e21cc9c6ee9c04cd5b1b]
 
-## ANNEX[^key-9ddade6e3a42e21cc9c6ee9c04cd5b1b]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9ddade6e3a42e21cc9c6ee9c04cd5b1b]1.
+[^c-9ddade6e3a42e21cc9c6ee9c04cd5b1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-9ddade6e3a42e21cc9c6ee9c04cd5b1b]
+
+[^c-9ddade6e3a42e21cc9c6ee9c04cd5b1b]1.
 
 **Data formats for the transfer of PNR data**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9ddade6e3a42e21cc9c6ee9c04cd5b1b]2.
+[^c-9ddade6e3a42e21cc9c6ee9c04cd5b1b]2.
 
 **Transmission protocols for the transfer of PNR data**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9ddade6e3a42e21cc9c6ee9c04cd5b1b]3.
+[^c-9ddade6e3a42e21cc9c6ee9c04cd5b1b]3.
 
 **Data formats for the transfer of API data when transferred separately from the PNR message**
 
@@ -71,4 +71,4 @@ on the common protocols and data formats to be used by air carriers when transfe
 
 ## Annotations
 
-[^key-9ddade6e3a42e21cc9c6ee9c04cd5b1b]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [106](https://www.legislation.gov.uk/uksi/2019/742/regulation/106); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ddade6e3a42e21cc9c6ee9c04cd5b1b]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [106](https://www.legislation.gov.uk/uksi/2019/742/regulation/106); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

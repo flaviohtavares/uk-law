@@ -62,9 +62,9 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 In section 37(1) of the 1975 Act (general interpretation), in the definition of “year of revaluation”—
 
 - (a) for “2017-18” substitute “ 2022-23 ”,
-- (b)[^key-46b0fd264b6632e631f995714093e0fa] for “fifth” substitute “ third ”.
+- (b)[^c-46b0fd264b6632e631f995714093e0fa] for “fifth” substitute “ third ”.
 
-#### 3. New or improved properties: mark in valuation roll[^key-efe3b0f178ee634b5a85ec228287de94][^key-7248fcebd96cd589b9cab05488109d23]
+#### 3. New or improved properties: mark in valuation roll[^c-efe3b0f178ee634b5a85ec228287de94][^c-7248fcebd96cd589b9cab05488109d23]
 
 After section 2 of the 1975 Act insert—
 
@@ -124,7 +124,7 @@ After section 2 of the 1975 Act insert—
 
 .
 
-#### 4. Power of Scottish Ministers to remove exempt status of lands and heritages[^key-0119763d709e10868c3ba802339e3f06]
+#### 4. Power of Scottish Ministers to remove exempt status of lands and heritages[^c-0119763d709e10868c3ba802339e3f06]
 
 After section 8C of the 1956 Act insert—
 
@@ -155,7 +155,7 @@ After section 8C of the 1956 Act insert—
 
 .
 
-#### 5. Entering of parks in valuation roll[^key-33d08497fbd1ffb6def2fea149812ddf]
+#### 5. Entering of parks in valuation roll[^c-33d08497fbd1ffb6def2fea149812ddf]
 
 (1) Section 19 of the 1963 Act (certain parks not to be entered in the valuation roll) is amended as follows.
 
@@ -180,7 +180,7 @@ After section 8C of the 1956 Act insert—
 
 .
 
-#### 6. Discretion of local authority to determine whether lands and heritages are dwellings[^key-d7c27bc6ff6498031c47bd8c463b4837]
+#### 6. Discretion of local authority to determine whether lands and heritages are dwellings[^c-d7c27bc6ff6498031c47bd8c463b4837]
 
 In section 72 of the Local Government Finance Act 1992 (dwellings chargeable to council tax), after subsection (4) insert—
 
@@ -188,7 +188,7 @@ In section 72 of the Local Government Finance Act 1992 (dwellings chargeable to 
 
 .
 
-#### 7. Agreement as to valuation[^key-6f9b1b5f70841baaed520f638c2f91d3]
+#### 7. Agreement as to valuation[^c-6f9b1b5f70841baaed520f638c2f91d3]
 
 In section 1 of the 1975 Act (the valuation roll and revaluation), after subsection (3) insert—
 
@@ -198,7 +198,7 @@ In section 1 of the 1975 Act (the valuation roll and revaluation), after subsect
 
 .
 
-#### 8. Draft valuation roll and draft valuation notices[^key-c0a4090776d1d142d244b50714648b39]
+#### 8. Draft valuation roll and draft valuation notices[^c-c0a4090776d1d142d244b50714648b39]
 
 After section 1A of the 1975 Act insert—
 
@@ -230,7 +230,7 @@ After section 1A of the 1975 Act insert—
 
 .
 
-#### 9. Valuation notices[^key-528af78867ac0aaed2aafa3ad6d1283a]
+#### 9. Valuation notices[^c-528af78867ac0aaed2aafa3ad6d1283a]
 
 In section 3 of the 1975 Act (provisions supplementary to sections 1 and 2)—
 
@@ -258,7 +258,7 @@ In section 3 of the 1975 Act (provisions supplementary to sections 1 and 2)—
 
   .
 
-#### 10. Proposals to alter, and appeals against, valuation roll[^key-f5f3df2d44e49bbaae0a9a0a7db1049d][^key-5be1de9b8cb76e4a8519b967dcf99b34]
+#### 10. Proposals to alter, and appeals against, valuation roll[^c-f5f3df2d44e49bbaae0a9a0a7db1049d][^c-5be1de9b8cb76e4a8519b967dcf99b34]
 
 (1) The 1975 Act is amended as follows.
 
@@ -417,7 +417,7 @@ In section 3 of the 1975 Act (provisions supplementary to sections 1 and 2)—
 
 .
 
-#### 11. Proposals and appeals: consequential modifications[^key-7748505340c0195cfcb0e9da9de0d79b]
+#### 11. Proposals and appeals: consequential modifications[^c-7748505340c0195cfcb0e9da9de0d79b]
 
 (1) In section 13 of the 1956 Act (times for giving notices etc.), after subsection (3) insert—
 
@@ -430,7 +430,7 @@ In section 3 of the 1975 Act (provisions supplementary to sections 1 and 2)—
 
 (2) In section 15(2) of the 1963 Act (proceedings in appeals), after “committees” where it second occurs insert “ other than appeals under section 3ZB of the Local Government (Scotland) Act 1975 ”.
 
-#### 12. Restriction on making complaints[^key-b2badec92b289615111532582ed2b105]
+#### 12. Restriction on making complaints[^c-b2badec92b289615111532582ed2b105]
 
 In section 13 of the 1854 Act (complaints with regard to valuations)—
 
@@ -441,7 +441,7 @@ In section 13 of the 1854 Act (complaints with regard to valuations)—
 
   .
 
-#### 13. Meaning of “material change of circumstances”[^key-957a5c1c71a5973ecb5f1e895122063e]
+#### 13. Meaning of “material change of circumstances”[^c-957a5c1c71a5973ecb5f1e895122063e]
 
 In section 37 (interpretation) of the 1975 Act, in the definition of “material change of circumstances”—
 
@@ -456,7 +456,7 @@ In section 37 (interpretation) of the 1975 Act, in the definition of “material
 
 ### Reform of reliefs etc.
 
-#### 14. New or improved properties: rates relief[^key-61e73f5fcd7a05a75d98e7f66e431a75]
+#### 14. New or improved properties: rates relief[^c-61e73f5fcd7a05a75d98e7f66e431a75]
 
 (1) The Scottish Ministers may by regulations make provision for relief from the payment of non-domestic rates in respect of—
 
@@ -483,7 +483,7 @@ In section 37 (interpretation) of the 1975 Act, in the definition of “material
 - “**improved lands and heritages**” means lands and heritages for which an entry in the valuation roll is altered as described in section 2A(4) of the 1975 Act,
 - “**newly built lands and heritages**” means lands and heritages for which an entry in the valuation roll is made or altered as described in section 2A(3) of the 1975 Act.
 
-#### 15. Contribution to net-zero emissions target: rates relief[^key-e5691161e5fe1e0d39459b68fb4be2ff]
+#### 15. Contribution to net-zero emissions target: rates relief[^c-e5691161e5fe1e0d39459b68fb4be2ff]
 
 (1) Section 153 of the Local Government etc. (Scotland) Act 1994 (power to prescribe amount of non-domestic rate) is amended as follows.
 
@@ -503,7 +503,7 @@ In section 37 (interpretation) of the 1975 Act, in the definition of “material
 
 .
 
-#### 16. Specialist music provision in public schools: rates relief[^key-5fe32bf4f3b93608f955329655bcfdc5]
+#### 16. Specialist music provision in public schools: rates relief[^c-5fe32bf4f3b93608f955329655bcfdc5]
 
 (1) The Scottish Ministers may by regulations make provision for relief from the payment of non-domestic rates in respect of any part of lands and heritages which falls within subsection (2).
 
@@ -530,7 +530,7 @@ In section 37 (interpretation) of the 1975 Act, in the definition of “material
 
 (7) In this section, “**public school**” has the meaning given by section 135(1) of the Education (Scotland) Act 1980.
 
-#### 17. Charitable relief: independent schools[^key-9d506ea057fab844d22e6e7e96ccf565]
+#### 17. Charitable relief: independent schools[^c-9d506ea057fab844d22e6e7e96ccf565]
 
 (1) Section 4 of the 1962 Act (reduction and remission of rates payable by charitable and other organisations) is amended as follows.
 
@@ -568,7 +568,7 @@ In section 37 (interpretation) of the 1975 Act, in the definition of “material
 
 .
 
-#### 18. Power to reduce or remit rates for certain organisations: guidance[^key-63e8c12e4bf945cd78712f2e8c543937]
+#### 18. Power to reduce or remit rates for certain organisations: guidance[^c-63e8c12e4bf945cd78712f2e8c543937]
 
 In section 4 of the 1962 Act (reduction and remission of rates payable by charitable and other organisations), after subsection (7) insert—
 
@@ -602,7 +602,7 @@ In section 4 of the 1962 Act (reduction and remission of rates payable by charit
 
 .
 
-#### 19. Unoccupied properties[^key-b05522392b9f4f6bd2c1ff956a762dee]
+#### 19. Unoccupied properties[^c-b05522392b9f4f6bd2c1ff956a762dee]
 
 (1) The Local Government (Scotland) Act 1966 is amended as follows.
 
@@ -635,7 +635,7 @@ In section 4 of the 1962 Act (reduction and remission of rates payable by charit
 - (a) for “section 24 of this Act” substitute “ any scheme under section 3A of the Local Government (Financial Provisions etc.) (Scotland) Act 1962 which provides for the rates leviable in respect of lands and heritages to be reduced or remitted by virtue of the lands and heritages being unoccupied ”,
 - (b) in paragraph 5, the words “under section 24 of this Act” are repealed.
 
-#### 20. Non-use or underuse of lands and heritages: notification[^key-c375815c3f6674b5c2cf58bce84b3697]
+#### 20. Non-use or underuse of lands and heritages: notification[^c-c375815c3f6674b5c2cf58bce84b3697]
 
 (1) This section applies where the non-domestic rates payable in respect of any lands and heritages are being reduced or remitted for any reason (other than the operation of sections 24A and 24B (rating of unoccupied property) of the Local Government (Scotland) Act 1966).
 
@@ -670,7 +670,7 @@ In section 4 of the 1962 Act (reduction and remission of rates payable by charit
 
 ### Failure to pay instalments
 
-#### 21. Failure to pay instalments[^key-b31e320160fed9865e198d7110743514]
+#### 21. Failure to pay instalments[^c-b31e320160fed9865e198d7110743514]
 
 (1) The 1975 Act is amended in accordance with subsections (2) and (3).
 
@@ -725,7 +725,7 @@ In section 4 of the 1962 Act (reduction and remission of rates payable by charit
 
 ### Electronic communications
 
-#### 22. Electronic communication of information[^key-f973e3cbf9ce8595f5a19f41d7f93bfb]
+#### 22. Electronic communication of information[^c-f973e3cbf9ce8595f5a19f41d7f93bfb]
 
 (1) The Scottish Ministers may by regulations make provision allowing or requiring a notice falling within subsection (2) to be given by electronic means.
 
@@ -758,7 +758,7 @@ In section 4 of the 1962 Act (reduction and remission of rates payable by charit
 - “**notice**” includes any information given to another person,
 - “**the Valuation Acts**” means the 1854 Act, the Acts amending that Act, and any other enactment relating to valuation.
 
-#### 23. Procedure for regulations under section 22[^key-c2178450e40f8258060163e61c10b792]
+#### 23. Procedure for regulations under section 22[^c-c2178450e40f8258060163e61c10b792]
 
 (1) Regulations under section 22 are subject to the affirmative procedure.
 
@@ -778,7 +778,7 @@ In section 4 of the 1962 Act (reduction and remission of rates payable by charit
 
 ### Report on number of assessors and availability of resources
 
-#### 24. Duty to report on number of assessors and availability of resources[^key-033cbdd0dec43a20c002ae55534c97e8]
+#### 24. Duty to report on number of assessors and availability of resources[^c-033cbdd0dec43a20c002ae55534c97e8]
 
 (1) Subsection (2) applies to—
 
@@ -798,7 +798,7 @@ In section 4 of the 1962 Act (reduction and remission of rates payable by charit
 
 ### Valuation appeal panels and committees
 
-#### 25. Status of secretary of valuation appeal panel[^key-b4843cca345d95157d8e5f9ace1b8dbb]
+#### 25. Status of secretary of valuation appeal panel[^c-b4843cca345d95157d8e5f9ace1b8dbb]
 
 In schedule 2 of the Tribunals (Scotland) Act 2014 (transfer-in of members), in paragraph 1, after sub-paragraph (3) insert—
 
@@ -821,9 +821,9 @@ In schedule 2 of the Tribunals (Scotland) Act 2014 (transfer-in of members), in 
 
 (4) Nothing in this section requires a person to provide anything in respect of which a claim to confidentiality of communications could be maintained in legal proceedings.
 
-(5)[^key-90bcc65668190ee4fa1b9ad262a85c3e] Section 7 of the 1854 Act is repealed.
+(5)[^c-90bcc65668190ee4fa1b9ad262a85c3e] Section 7 of the 1854 Act is repealed.
 
-### 27. Local authority information notices[^key-12e8cb5276947115c577cb3b7687a4c8]
+### 27. Local authority information notices[^c-12e8cb5276947115c577cb3b7687a4c8]
 
 (1) An authorised officer of a local authority may give to any person who the officer thinks is the proprietor, tenant or occupier of lands and heritages a notice in writing (in this Part, a “local authority information notice”) requiring the person to provide the local authority with such information as it may reasonably require for the purpose of issuing any demand or other document relating to non-domestic rates in respect of those lands and heritages.
 
@@ -835,7 +835,7 @@ In schedule 2 of the Tribunals (Scotland) Act 2014 (transfer-in of members), in 
 
 (5) In this section and sections 33 and 34, an “**authorised officer**”, in relation to a local authority, means a person authorised in writing by the local authority for the purposes of this section and section 33.
 
-### 28. Duty to notify changes of circumstances[^key-3ebcf7199815c69a8c35affd63eb1f1d]
+### 28. Duty to notify changes of circumstances[^c-3ebcf7199815c69a8c35affd63eb1f1d]
 
 (1) Subsection (2) applies to a person who—
 
@@ -856,9 +856,9 @@ In schedule 2 of the Tribunals (Scotland) Act 2014 (transfer-in of members), in 
 (1) A person commits an offence if the person knowingly provides false or misleading information in purported compliance with—
 
 - (a) an assessor information notice, or
-- (b)[^key-93802d8f5b8b959786a9ccf6a68b166c] a local authority information notice.
+- (b)[^c-93802d8f5b8b959786a9ccf6a68b166c] a local authority information notice.
 
-(2)[^key-93802d8f5b8b959786a9ccf6a68b166c] A person commits an offence if the person knowingly provides false or misleading information in a notification under section 28(2).
+(2)[^c-93802d8f5b8b959786a9ccf6a68b166c] A person commits an offence if the person knowingly provides false or misleading information in a notification under section 28(2).
 
 (3) A person who commits an offence under subsection (1) or (2) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
@@ -901,13 +901,13 @@ In schedule 2 of the Tribunals (Scotland) Act 2014 (transfer-in of members), in 
 
 (7) An assessor may mitigate or remit any penalty under this section.
 
-(8)[^key-ec676f9e8f77d34bfdc05570222bd45c] The Scottish Ministers may by regulations modify the penalties to which a person may become liable under this section, including by increasing or decreasing any sum or percentage for the time being set out in subsections (3), (4) or (5) or by otherwise modifying the way in which any penalty is determined.
+(8)[^c-ec676f9e8f77d34bfdc05570222bd45c] The Scottish Ministers may by regulations modify the penalties to which a person may become liable under this section, including by increasing or decreasing any sum or percentage for the time being set out in subsections (3), (4) or (5) or by otherwise modifying the way in which any penalty is determined.
 
-(9)[^key-ec676f9e8f77d34bfdc05570222bd45c] Regulations under subsection (8) may make transitional, transitory or saving provision.
+(9)[^c-ec676f9e8f77d34bfdc05570222bd45c] Regulations under subsection (8) may make transitional, transitory or saving provision.
 
-(10)[^key-ec676f9e8f77d34bfdc05570222bd45c] Regulations under subsection (8) are subject to the affirmative procedure.
+(10)[^c-ec676f9e8f77d34bfdc05570222bd45c] Regulations under subsection (8) are subject to the affirmative procedure.
 
-(11)[^key-ec676f9e8f77d34bfdc05570222bd45c] Before laying a draft of a Scottish statutory instrument containing regulations under subsection (8) before the Scottish Parliament, the Scottish Ministers must consult such persons as they consider appropriate.
+(11)[^c-ec676f9e8f77d34bfdc05570222bd45c] Before laying a draft of a Scottish statutory instrument containing regulations under subsection (8) before the Scottish Parliament, the Scottish Ministers must consult such persons as they consider appropriate.
 
 (12) The Scottish Ministers may by regulations make further provision about penalty notices under this section, including in particular—
 
@@ -923,7 +923,7 @@ In schedule 2 of the Tribunals (Scotland) Act 2014 (transfer-in of members), in 
 
 ### 31. Penalties under section 30: appeals and enforcement
 
-(1) A person who is given a penalty notice under section 30 may appeal to the First-tier Tribunal for Scotland[^key-b0cce357192c30795271088565eec41b] against the imposition of the penalty.
+(1) A person who is given a penalty notice under section 30 may appeal to the First-tier Tribunal for Scotland[^c-b0cce357192c30795271088565eec41b] against the imposition of the penalty.
 
 (2) An appeal must be made before the end of the period of 28 days beginning with the day on which the penalty notice is given.
 
@@ -957,7 +957,7 @@ In schedule 2 of the Tribunals (Scotland) Act 2014 (transfer-in of members), in 
 
 (10) Before making regulations under subsection (7), the Scottish Ministers must consult such persons as they consider appropriate.
 
-### 32. Payment of penalties into the Scottish Consolidated Fund[^key-db17bd1d035ed88bbb727d6a8d20dc20]
+### 32. Payment of penalties into the Scottish Consolidated Fund[^c-db17bd1d035ed88bbb727d6a8d20dc20]
 
 (1) An assessor must pay any money recovered under or by virtue of section 30 into the Scottish Consolidated Fund.
 
@@ -967,7 +967,7 @@ In schedule 2 of the Tribunals (Scotland) Act 2014 (transfer-in of members), in 
 
 (4) Regulations under subsection (3) are subject to the negative procedure.
 
-### 33. Civil penalties for failure to comply with local authority information notices and for failure to notify changes in circumstances[^key-ab46d9f855d4895c97bbffb54452738b]
+### 33. Civil penalties for failure to comply with local authority information notices and for failure to notify changes in circumstances[^c-ab46d9f855d4895c97bbffb54452738b]
 
 (1) A person is liable to pay a penalty if the person—
 
@@ -1012,33 +1012,33 @@ In schedule 2 of the Tribunals (Scotland) Act 2014 (transfer-in of members), in 
 
 ### 34. Penalties under section 33: appeals
 
-(1)[^key-691d565936beefec99b11c44125d9eb1] A person who is given a penalty notice under section 33 may appeal to the First-tier Tribunal for Scotland[^key-d9c0f62473673dc1af5642101a2c693a] against the amount of penalty imposed.
+(1)[^c-691d565936beefec99b11c44125d9eb1] A person who is given a penalty notice under section 33 may appeal to the First-tier Tribunal for Scotland[^c-d9c0f62473673dc1af5642101a2c693a] against the amount of penalty imposed.
 
-(2)[^key-691d565936beefec99b11c44125d9eb1] An appeal must be made before the end of the period of 28 days beginning with the day on which the penalty notice is given.
+(2)[^c-691d565936beefec99b11c44125d9eb1] An appeal must be made before the end of the period of 28 days beginning with the day on which the penalty notice is given.
 
-(3)[^key-691d565936beefec99b11c44125d9eb1] The making of an appeal under subsection (1) against the amount of penalty imposed by a penalty notice given under section 33(2)—
+(3)[^c-691d565936beefec99b11c44125d9eb1] The making of an appeal under subsection (1) against the amount of penalty imposed by a penalty notice given under section 33(2)—
 
 - (a) is to be treated as an appeal against the amount of that penalty and any other penalty imposed on the appellant under section 33 in relation to the information to which the penalty notice relates,
 - (b) does not prevent an authorised officer giving the appellant a further local authority information notice under section 27(3) or penalty notice under section 33 in relation to that information.
 
-(4)[^key-691d565936beefec99b11c44125d9eb1] On an appeal the First-tier Tribunal for Scotland may mitigate or remit any penalty under section 33 if it is satisfied that the penalty is excessive.
+(4)[^c-691d565936beefec99b11c44125d9eb1] On an appeal the First-tier Tribunal for Scotland may mitigate or remit any penalty under section 33 if it is satisfied that the penalty is excessive.
 
-(5)[^key-323ec79c255453ea0109bb6d70a0ff56] The Scottish Ministers may by regulations make further provision about appeals under this section, including in particular—
+(5)[^c-323ec79c255453ea0109bb6d70a0ff56] The Scottish Ministers may by regulations make further provision about appeals under this section, including in particular—
 
 - (a) information to be included in, and documents to be submitted with, such an appeal,
 - (b) the procedure to be followed in such an appeal,
 - (c) the period within which such an appeal is to be disposed of.
 
-(6)[^key-323ec79c255453ea0109bb6d70a0ff56] Regulations under subsection (5)—
+(6)[^c-323ec79c255453ea0109bb6d70a0ff56] Regulations under subsection (5)—
 
 - (a) may make different provision for different purposes,
 - (b) may make incidental, supplementary, consequential, transitional, transitory or saving provision.
 
-(7)[^key-323ec79c255453ea0109bb6d70a0ff56] Regulations under subsection (5) are subject to the negative procedure.
+(7)[^c-323ec79c255453ea0109bb6d70a0ff56] Regulations under subsection (5) are subject to the negative procedure.
 
-(8)[^key-323ec79c255453ea0109bb6d70a0ff56] Before making regulations under subsection (5), the Scottish Ministers must consult such persons as they consider appropriate.
+(8)[^c-323ec79c255453ea0109bb6d70a0ff56] Before making regulations under subsection (5), the Scottish Ministers must consult such persons as they consider appropriate.
 
-### 35. Penalties under section 33: enforcement[^key-3ee62a9dc180975e8dfa6b25a937fe00]
+### 35. Penalties under section 33: enforcement[^c-3ee62a9dc180975e8dfa6b25a937fe00]
 
 (1) A penalty under section 33 is recoverable as a civil debt due to the local authority.
 
@@ -1061,7 +1061,7 @@ In schedule 2 of the Tribunals (Scotland) Act 2014 (transfer-in of members), in 
 - (a) the affirmative procedure, if they add to, replace or omit any part of the text of an Act,
 - (b) otherwise, the negative procedure.
 
-### 36. Sections 31 and 34: consequential modifications[^key-1007fc2c7fb4e0a3e57b380accaa0dac]
+### 36. Sections 31 and 34: consequential modifications[^c-1007fc2c7fb4e0a3e57b380accaa0dac]
 
 (1) In section 13 of the 1956 Act (times for giving notices etc.), after subsection (3A) (inserted by section 11(1)) insert—
 
@@ -1073,7 +1073,7 @@ In schedule 2 of the Tribunals (Scotland) Act 2014 (transfer-in of members), in 
 
 ## PART 4 — Anti-avoidance regulations
 
-### 37. Anti-avoidance regulations[^key-752d08c13383f088388d7a946b8793f4]
+### 37. Anti-avoidance regulations[^c-752d08c13383f088388d7a946b8793f4]
 
 (1) The Scottish Ministers may by regulations (“**anti-avoidance regulations**”) make such provision as they consider appropriate with a view to preventing or minimising advantages (see section 38) arising from non-domestic rates avoidance arrangements that are artificial (see sections 39 and 40).
 
@@ -1085,7 +1085,7 @@ In schedule 2 of the Tribunals (Scotland) Act 2014 (transfer-in of members), in 
 - (b) may make different provision for different purposes,
 - (c) may make incidental, supplementary, consequential, transitional, transitory or saving provision.
 
-### 38. Meaning of “advantage”[^key-91099c3ed13872a1f685c5d4808c1905]
+### 38. Meaning of “advantage”[^c-91099c3ed13872a1f685c5d4808c1905]
 
 (1) An “**advantage**”, in relation to non-domestic rates, includes in particular—
 
@@ -1097,13 +1097,13 @@ In schedule 2 of the Tribunals (Scotland) Act 2014 (transfer-in of members), in 
 
 (2) In determining whether a non-domestic rates avoidance arrangement has resulted in an advantage, regard may be had to the amount of non-domestic rates that would have been payable in the absence of the arrangement.
 
-### 39. Non-domestic rates avoidance arrangements[^key-20642cb097f47d31805a60dde6b795fa]
+### 39. Non-domestic rates avoidance arrangements[^c-20642cb097f47d31805a60dde6b795fa]
 
 (1) An arrangement (or series of arrangements) is a non-domestic rates avoidance arrangement if, having regard to all the circumstances, it would be reasonable to conclude that obtaining an advantage is the main purpose, or one of the main purposes, of the arrangement.
 
 (2) An “**arrangement**” includes any agreement, transaction, undertaking, action or event (whether legally enforceable or not).
 
-### 40. Meaning of “artificial”[^key-b4daf651a7605e6362f2af0ab322a55b]
+### 40. Meaning of “artificial”[^c-b4daf651a7605e6362f2af0ab322a55b]
 
 (1) A non-domestic rates avoidance arrangement is artificial if Condition A or B is met.
 
@@ -1128,7 +1128,7 @@ In schedule 2 of the Tribunals (Scotland) Act 2014 (transfer-in of members), in 
 
 (6) Where a non-domestic rates avoidance arrangement forms part of any other arrangements, regard must also be had to those other arrangements.
 
-### 41. Procedure for anti-avoidance regulations[^key-d8992e795f101764973335e70db3099b]
+### 41. Procedure for anti-avoidance regulations[^c-d8992e795f101764973335e70db3099b]
 
 (1) Anti-avoidance regulations are subject to the affirmative procedure.
 
@@ -1165,7 +1165,7 @@ In schedule 2 of the Tribunals (Scotland) Act 2014 (transfer-in of members), in 
 
 In this Act—
 
-- “[^key-28834df88cb7d17ca6f2bfecc75d8d73]**the First-tier Tribunal for Scotland**” means the First-tier Tribunal for Scotland, established by section 1 of the Tribunals (Scotland) Act 2014,
+- “[^c-28834df88cb7d17ca6f2bfecc75d8d73]**the First-tier Tribunal for Scotland**” means the First-tier Tribunal for Scotland, established by section 1 of the Tribunals (Scotland) Act 2014,
 - “**lands and heritages**” is to be construed in accordance with section 42 of the 1854 Act,
 - “**non-domestic rates**” means non-domestic rates levied under section 7B of the 1975 Act,
 - “**valuation roll**” means a valuation roll made up under section 1 of that Act.
@@ -1213,98 +1213,98 @@ The short title of this Act is the Non-Domestic Rates (Scotland) Act 2020.
 
 ## Annotations
 
-[^key-46b0fd264b6632e631f995714093e0fa]: Commencement: [S. 2(b)](https://www.legislation.gov.uk/asp/2020/4/section/2/b) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-46b0fd264b6632e631f995714093e0fa]: Commencement: [S. 2(b)](https://www.legislation.gov.uk/asp/2020/4/section/2/b) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-efe3b0f178ee634b5a85ec228287de94]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/4/section/3) in force at 5.11.2020 for specified purposes by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/2/a)
+[^c-efe3b0f178ee634b5a85ec228287de94]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/4/section/3) in force at 5.11.2020 for specified purposes by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/2/a)
 
-[^key-7248fcebd96cd589b9cab05488109d23]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/4/section/3) in force at 1.4.2021 in so far as not already in force by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/2/b)
+[^c-7248fcebd96cd589b9cab05488109d23]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/4/section/3) in force at 1.4.2021 in so far as not already in force by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/2/b)
 
-[^key-0119763d709e10868c3ba802339e3f06]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/4/section/4) in force at 1.4.2022 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-0119763d709e10868c3ba802339e3f06]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/4/section/4) in force at 1.4.2022 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-33d08497fbd1ffb6def2fea149812ddf]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/4/section/5) in force at 1.4.2023 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-33d08497fbd1ffb6def2fea149812ddf]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/4/section/5) in force at 1.4.2023 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-d7c27bc6ff6498031c47bd8c463b4837]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/4/section/6) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-d7c27bc6ff6498031c47bd8c463b4837]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/4/section/6) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-6f9b1b5f70841baaed520f638c2f91d3]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/4/section/7) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-6f9b1b5f70841baaed520f638c2f91d3]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/4/section/7) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-c0a4090776d1d142d244b50714648b39]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/4/section/8) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-c0a4090776d1d142d244b50714648b39]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/4/section/8) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-528af78867ac0aaed2aafa3ad6d1283a]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/4/section/9) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-528af78867ac0aaed2aafa3ad6d1283a]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/4/section/9) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-f5f3df2d44e49bbaae0a9a0a7db1049d]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/4/section/10) in force at 5.11.2020 for specified purposes by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [reg. 2(3)(a)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/3/a)
+[^c-f5f3df2d44e49bbaae0a9a0a7db1049d]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/4/section/10) in force at 5.11.2020 for specified purposes by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [reg. 2(3)(a)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/3/a)
 
-[^key-5be1de9b8cb76e4a8519b967dcf99b34]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/4/section/10) in force at 1.4.2023 in so far as not already in force by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [reg. 2(3)(b)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/3/b) (as amended by S.S.I. 2022/23, [reg. 3(2)](https://www.legislation.gov.uk/ssi/2022/23/regulation/3/2) and S.S.I. 2022/301, [reg. 2(2)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/2))
+[^c-5be1de9b8cb76e4a8519b967dcf99b34]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/4/section/10) in force at 1.4.2023 in so far as not already in force by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [reg. 2(3)(b)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/3/b) (as amended by S.S.I. 2022/23, [reg. 3(2)](https://www.legislation.gov.uk/ssi/2022/23/regulation/3/2) and S.S.I. 2022/301, [reg. 2(2)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/2))
 
-[^key-7748505340c0195cfcb0e9da9de0d79b]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/4/section/11) in force at 1.4.2023 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by S.S.I. 2022/23, [reg. 3(4)(a)](https://www.legislation.gov.uk/ssi/2022/23/regulation/3/4/a) and S.S.I. 2022/301, [reg. 2(4)(a)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/4/a))
+[^c-7748505340c0195cfcb0e9da9de0d79b]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/4/section/11) in force at 1.4.2023 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by S.S.I. 2022/23, [reg. 3(4)(a)](https://www.legislation.gov.uk/ssi/2022/23/regulation/3/4/a) and S.S.I. 2022/301, [reg. 2(4)(a)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/4/a))
 
-[^key-b2badec92b289615111532582ed2b105]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/4/section/12) in force at 1.4.2023 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/327/regulation/3)) (as amended by S.S.I. 2022/23, [reg. 3(3)(4)(b)](https://www.legislation.gov.uk/ssi/2022/23/regulation/3/3/4/b) and S.S.I. 2022/301, [reg. 2(3)(4)(b)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/3/4/b))
+[^c-b2badec92b289615111532582ed2b105]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/4/section/12) in force at 1.4.2023 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/327/regulation/3)) (as amended by S.S.I. 2022/23, [reg. 3(3)(4)(b)](https://www.legislation.gov.uk/ssi/2022/23/regulation/3/3/4/b) and S.S.I. 2022/301, [reg. 2(3)(4)(b)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/3/4/b))
 
-[^key-957a5c1c71a5973ecb5f1e895122063e]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/4/section/13) in force at 2.4.2020 by [S.S.I. 2020/107](https://www.legislation.gov.uk/ssi/2020/107), [reg. 2](https://www.legislation.gov.uk/ssi/2020/107/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/107/regulation/3))
+[^c-957a5c1c71a5973ecb5f1e895122063e]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/4/section/13) in force at 2.4.2020 by [S.S.I. 2020/107](https://www.legislation.gov.uk/ssi/2020/107), [reg. 2](https://www.legislation.gov.uk/ssi/2020/107/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/107/regulation/3))
 
-[^key-61e73f5fcd7a05a75d98e7f66e431a75]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/4/section/14) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-61e73f5fcd7a05a75d98e7f66e431a75]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/4/section/14) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-e5691161e5fe1e0d39459b68fb4be2ff]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/4/section/15) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-e5691161e5fe1e0d39459b68fb4be2ff]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/4/section/15) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-5fe32bf4f3b93608f955329655bcfdc5]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/4/section/16) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-5fe32bf4f3b93608f955329655bcfdc5]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/4/section/16) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-9d506ea057fab844d22e6e7e96ccf565]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2020/4/section/17) in force at 1.4.2022 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by S.S.I. 2021/120, [regs. 1](https://www.legislation.gov.uk/ssi/2021/120/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/120/regulation/2))
+[^c-9d506ea057fab844d22e6e7e96ccf565]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2020/4/section/17) in force at 1.4.2022 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by S.S.I. 2021/120, [regs. 1](https://www.legislation.gov.uk/ssi/2021/120/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/120/regulation/2))
 
-[^key-63e8c12e4bf945cd78712f2e8c543937]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/4/section/18) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-63e8c12e4bf945cd78712f2e8c543937]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/4/section/18) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-b05522392b9f4f6bd2c1ff956a762dee]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2020/4/section/19) in force at 1.4.2023 by [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/23/regulation/4))
+[^c-b05522392b9f4f6bd2c1ff956a762dee]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2020/4/section/19) in force at 1.4.2023 by [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 2](https://www.legislation.gov.uk/ssi/2022/23/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/23/regulation/4))
 
-[^key-c375815c3f6674b5c2cf58bce84b3697]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/4/section/20) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-c375815c3f6674b5c2cf58bce84b3697]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/4/section/20) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-b31e320160fed9865e198d7110743514]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2020/4/section/21) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/327/regulation/4))
+[^c-b31e320160fed9865e198d7110743514]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2020/4/section/21) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/327/regulation/4))
 
-[^key-f973e3cbf9ce8595f5a19f41d7f93bfb]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2020/4/section/22) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-f973e3cbf9ce8595f5a19f41d7f93bfb]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2020/4/section/22) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-c2178450e40f8258060163e61c10b792]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2020/4/section/23) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-c2178450e40f8258060163e61c10b792]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2020/4/section/23) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-033cbdd0dec43a20c002ae55534c97e8]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2020/4/section/24) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-033cbdd0dec43a20c002ae55534c97e8]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2020/4/section/24) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-b4843cca345d95157d8e5f9ace1b8dbb]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2020/4/section/25) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-b4843cca345d95157d8e5f9ace1b8dbb]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2020/4/section/25) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
 [^c24064821]: Commencement: [S. 26(1)-(4)](https://www.legislation.gov.uk/asp/2020/4/section/26/1) in force at 12.3.2020 see [s. 44](https://www.legislation.gov.uk/asp/2020/4/section/44)
 
-[^key-90bcc65668190ee4fa1b9ad262a85c3e]: Commencement: [S. 26(5)](https://www.legislation.gov.uk/asp/2020/4/section/26/5) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 5](https://www.legislation.gov.uk/ssi/2020/327/regulation/5))
+[^c-90bcc65668190ee4fa1b9ad262a85c3e]: Commencement: [S. 26(5)](https://www.legislation.gov.uk/asp/2020/4/section/26/5) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 5](https://www.legislation.gov.uk/ssi/2020/327/regulation/5))
 
-[^key-12e8cb5276947115c577cb3b7687a4c8]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2020/4/section/27) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-12e8cb5276947115c577cb3b7687a4c8]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2020/4/section/27) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-3ebcf7199815c69a8c35affd63eb1f1d]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2020/4/section/28) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2020/327/regulation/6))
+[^c-3ebcf7199815c69a8c35affd63eb1f1d]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2020/4/section/28) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2020/327/regulation/6))
 
 [^c24064831]: Commencement: [S. 29(1)(a)(3)](https://www.legislation.gov.uk/asp/2020/4/section/29/1/a/3) in force at 12.3.2020 see [s. 44](https://www.legislation.gov.uk/asp/2020/4/section/44)
 
-[^key-93802d8f5b8b959786a9ccf6a68b166c]: Commencement: [S. 29(1)(b)](https://www.legislation.gov.uk/asp/2020/4/section/29/1/b)[(2)](https://www.legislation.gov.uk/asp/2020/4/section/29/2) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-93802d8f5b8b959786a9ccf6a68b166c]: Commencement: [S. 29(1)(b)](https://www.legislation.gov.uk/asp/2020/4/section/29/1/b)[(2)](https://www.legislation.gov.uk/asp/2020/4/section/29/2) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
 [^c24064931]: Commencement: S. 30(1)-(7)(12)-(14) in force at 12.3.2020 see s. 44
 
-[^key-ec676f9e8f77d34bfdc05570222bd45c]: Commencement: [S. 30(8)-(11)](https://www.legislation.gov.uk/asp/2020/4/section/30/8) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-ec676f9e8f77d34bfdc05570222bd45c]: Commencement: [S. 30(8)-(11)](https://www.legislation.gov.uk/asp/2020/4/section/30/8) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-b0cce357192c30795271088565eec41b]: Textual amendment: Words in [s. 31](https://www.legislation.gov.uk/asp/2020/4/section/31) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 12(2)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/12/2) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-b0cce357192c30795271088565eec41b]: Textual amendment: Words in [s. 31](https://www.legislation.gov.uk/asp/2020/4/section/31) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 12(2)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/12/2) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-db17bd1d035ed88bbb727d6a8d20dc20]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2020/4/section/32) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-db17bd1d035ed88bbb727d6a8d20dc20]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2020/4/section/32) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-ab46d9f855d4895c97bbffb54452738b]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2020/4/section/33) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-ab46d9f855d4895c97bbffb54452738b]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2020/4/section/33) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-691d565936beefec99b11c44125d9eb1]: Commencement: [S. 34(1)-(4)](https://www.legislation.gov.uk/asp/2020/4/section/34/1) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-691d565936beefec99b11c44125d9eb1]: Commencement: [S. 34(1)-(4)](https://www.legislation.gov.uk/asp/2020/4/section/34/1) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-d9c0f62473673dc1af5642101a2c693a]: Textual amendment: Words in [s. 34](https://www.legislation.gov.uk/asp/2020/4/section/34) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 12(3)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/12/3) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-d9c0f62473673dc1af5642101a2c693a]: Textual amendment: Words in [s. 34](https://www.legislation.gov.uk/asp/2020/4/section/34) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 12(3)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/12/3) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-323ec79c255453ea0109bb6d70a0ff56]: Commencement: [S. 34(5)-(8)](https://www.legislation.gov.uk/asp/2020/4/section/34/5) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-323ec79c255453ea0109bb6d70a0ff56]: Commencement: [S. 34(5)-(8)](https://www.legislation.gov.uk/asp/2020/4/section/34/5) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-3ee62a9dc180975e8dfa6b25a937fe00]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2020/4/section/35) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-3ee62a9dc180975e8dfa6b25a937fe00]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2020/4/section/35) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-1007fc2c7fb4e0a3e57b380accaa0dac]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2020/4/section/36) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-1007fc2c7fb4e0a3e57b380accaa0dac]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2020/4/section/36) in force at 1.4.2021 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-752d08c13383f088388d7a946b8793f4]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2020/4/section/37) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-752d08c13383f088388d7a946b8793f4]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2020/4/section/37) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-91099c3ed13872a1f685c5d4808c1905]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2020/4/section/38) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-91099c3ed13872a1f685c5d4808c1905]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2020/4/section/38) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-20642cb097f47d31805a60dde6b795fa]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2020/4/section/39) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-20642cb097f47d31805a60dde6b795fa]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2020/4/section/39) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-b4daf651a7605e6362f2af0ab322a55b]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2020/4/section/40) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-b4daf651a7605e6362f2af0ab322a55b]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2020/4/section/40) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-d8992e795f101764973335e70db3099b]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2020/4/section/41) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-d8992e795f101764973335e70db3099b]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2020/4/section/41) in force at 5.11.2020 by [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
-[^key-28834df88cb7d17ca6f2bfecc75d8d73]: Textual amendment: Words in [s. 42](https://www.legislation.gov.uk/asp/2020/4/section/42) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 12(4)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/12/4) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-28834df88cb7d17ca6f2bfecc75d8d73]: Textual amendment: Words in [s. 42](https://www.legislation.gov.uk/asp/2020/4/section/42) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 12(4)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/12/4) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))

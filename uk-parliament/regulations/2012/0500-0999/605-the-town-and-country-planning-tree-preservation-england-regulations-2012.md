@@ -48,13 +48,13 @@ The Secretary of State for Communities and Local Government, in exercise of the 
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and application[^key-d70d4aff1940b24de6dc69adb7f70056]
+### 1. Citation, commencement and application[^c-d70d4aff1940b24de6dc69adb7f70056]
 
 (1) These Regulations may be cited as the Town and Country Planning (Tree Preservation)(England) Regulations 2012 and shall come into force on 6th April 2012.
 
 (2) These Regulations apply in relation to England only.
 
-### 2. Interpretation[^key-b789d35b32c1772e316b9ddaace46459]
+### 2. Interpretation[^c-b789d35b32c1772e316b9ddaace46459]
 
 (1) In these Regulations—
 
@@ -70,7 +70,7 @@ The Secretary of State for Communities and Local Government, in exercise of the 
 
 ## PART 2 — TREE PRESERVATION ORDERS
 
-### 3. Form of tree preservation order[^key-6234962399b6d16fbcae347307636490]
+### 3. Form of tree preservation order[^c-6234962399b6d16fbcae347307636490]
 
 (1) An order shall be in the form set out in the Schedule to these Regulations or in a form substantially to the same effect and—
 
@@ -88,7 +88,7 @@ The Secretary of State for Communities and Local Government, in exercise of the 
 
 (4) In the case of any discrepancy between the map contained in, or annexed to, an order and the specification contained in the Schedule to that order, the map shall prevail.
 
-### 4. Provisional effect of order[^key-c703bc3a6fe57ca3f95ae508f36ece00]
+### 4. Provisional effect of order[^c-c703bc3a6fe57ca3f95ae508f36ece00]
 
 (1) An order shall not take effect (other than provisionally in accordance with paragraph (2)) unless and until confirmed by the authority, and must be confirmed no later than the expiration of the period of six months beginning with the date on which it was made.
 
@@ -100,7 +100,7 @@ The Secretary of State for Communities and Local Government, in exercise of the 
 
 whichever first occurs.
 
-### 5. Procedure after making an order[^key-fdc8a4b413cca8a2f0f7b0408e7eea61]
+### 5. Procedure after making an order[^c-fdc8a4b413cca8a2f0f7b0408e7eea61]
 
 (1) As soon as practicable after making an order, and before confirming it, the authority which made it shall—
 
@@ -119,7 +119,7 @@ whichever first occurs.
 
 (3) A copy of the order shall be made available for inspection, free of charge, at all reasonable hours, at the offices of the authority by whom the order was made; and where an order is made on behalf of an authority, it shall be made available for inspection also at the offices of the authority on whose behalf it was made.
 
-### 6. Objections and representations[^key-930380eb0913e1328181e42c737fb86e]
+### 6. Objections and representations[^c-930380eb0913e1328181e42c737fb86e]
 
 (1) Subject to paragraph (2), objections and representations—
 
@@ -131,7 +131,7 @@ whichever first occurs.
 
 (2) The authority may treat as duly made objections and representations which do not comply with the requirements of paragraph (1) if, in the particular case, they are satisfied that compliance with those requirements could not reasonably have been expected.
 
-### 7. Procedure for confirmation of a tree preservation order[^key-884269d617b11149c953d2495d9006d7]
+### 7. Procedure for confirmation of a tree preservation order[^c-884269d617b11149c953d2495d9006d7]
 
 (1) The authority shall not confirm an order which they have made unless they have first considered objections and representations duly made in respect of it and not withdrawn.
 
@@ -146,7 +146,7 @@ whichever first occurs.
 
 (5) A modification under paragraph (2) may not add to the Schedule to the order (and the map) references to a tree to which the order did not previously apply.
 
-### 8. Action after confirmation of tree preservation order[^key-66e20fb038b0c61d245f74c2e05d7925]
+### 8. Action after confirmation of tree preservation order[^c-66e20fb038b0c61d245f74c2e05d7925]
 
 As soon as practicable after confirming an order, the authority which confirmed it shall—
 
@@ -157,7 +157,7 @@ As soon as practicable after confirming an order, the authority which confirmed 
 - (b) where the order was confirmed with modifications, send a copy of the order, as confirmed, to those persons; and
 - (c) make a copy of the order, as confirmed, available for public inspection, in place of the copy made so available in accordance with regulation 5, free of charge, at all reasonable hours, at the offices of the authority by whom the order was made; and where an order is made on behalf of an authority, it shall be made available for inspection also at the offices of the authority on whose behalf it was made.
 
-### 9. Action where tree preservation order not confirmed[^key-9c6e334c8429105fba69eb98193685ba]
+### 9. Action where tree preservation order not confirmed[^c-9c6e334c8429105fba69eb98193685ba]
 
 Where an authority decide not to confirm an order they shall as soon as practicable—
 
@@ -165,7 +165,7 @@ Where an authority decide not to confirm an order they shall as soon as practica
 - (b) notify the persons interested in the land affected by the order of their decision; and
 - (c) withdraw from public inspection the copy of the order made available in accordance with regulation 5.
 
-### 10. Variation of tree preservation orders[^key-56638306c205f4ec4aed897e7397890a]
+### 10. Variation of tree preservation orders[^c-56638306c205f4ec4aed897e7397890a]
 
 (1) Where an authority vary an order they shall—
 
@@ -184,7 +184,7 @@ Where an authority decide not to confirm an order they shall as soon as practica
 
 (4) For the purpose of this regulation, “land affected by the variation order” means the land on which the trees, groups of trees or woodlands to which the variation order relates are situated.
 
-### 11. Revocation of tree preservation orders[^key-df4f72f27f24225b823331dd594f9a43]
+### 11. Revocation of tree preservation orders[^c-df4f72f27f24225b823331dd594f9a43]
 
 Where an authority revoke an order they shall—
 
@@ -192,7 +192,7 @@ Where an authority revoke an order they shall—
 - (b) notify the persons interested in the land affected by the order that the order has been revoked; and
 - (c) withdraw from public inspection the copy of the original order made available in accordance with regulation 5.
 
-### 12. Register[^key-ef285107e9924340a12d0b89ada3a816]
+### 12. Register[^c-ef285107e9924340a12d0b89ada3a816]
 
 (1) Every authority shall keep a register containing the following information with respect to orders made by that authority—
 
@@ -204,7 +204,7 @@ Where an authority revoke an order they shall—
 
 ## PART 3 — PROHIBITED ACTIVITIES AND EXCEPTIONS
 
-### 13. Prohibited activities[^key-656b309318887a6e8cbb8c9cdbb525fc]
+### 13. Prohibited activities[^c-656b309318887a6e8cbb8c9cdbb525fc]
 
 Without prejudice to subsection (7) of section 198[^f00003] (power to make tree preservation orders) or subsection (1) of section 200[^f00004] (tree preservation orders: Forestry Commissioners) and, subject to the exceptions in regulation 14, no person shall—
 
@@ -217,7 +217,7 @@ Without prejudice to subsection (7) of section 198[^f00003] (power to make tree 
 
 any tree to which an order relates, or shall cause or permit the carrying out of any of the activities in sub-paragraphs (a) to (f) to such a tree, except with the written consent of the authority and, where such consent is given subject to conditions, in accordance with those conditions.
 
-### 14. Exceptions[^key-693dc01bd7251ce6016187f0f829bad9][^key-cba31c8e6afbb2d6615dca29267c1590][^key-170548f802c72dd4906c4f46e732267a][^key-ec4894d322a074423a5a0a2ff18441d5][^key-04df58fede017cc239dda984c339405f][^key-1fc24a24c518db2c63a56da3d00bbf84][^key-6051d113ca0dae809f74a6a9ea9d2924]
+### 14. Exceptions[^c-693dc01bd7251ce6016187f0f829bad9][^c-cba31c8e6afbb2d6615dca29267c1590][^c-170548f802c72dd4906c4f46e732267a][^c-ec4894d322a074423a5a0a2ff18441d5][^c-04df58fede017cc239dda984c339405f][^c-1fc24a24c518db2c63a56da3d00bbf84][^c-6051d113ca0dae809f74a6a9ea9d2924]
 
 (1) Nothing in regulation 13 shall prevent—
 
@@ -231,7 +231,7 @@ any tree to which an order relates, or shall cause or permit the carrying out of
   - (iv) where that work is required to enable the implementation of an order made or confirmed under paragraph 8(1) or paragraph 15(1) of Schedule 1 to the Highways Act 1980[^f00006] (procedures for making or confirming certain orders or schemes);
   - (v) where that work is urgently necessary for national security purposes;
   - (vi) where that tree is cultivated for the production of fruit in the course of a business or trade and such work is in the interests of that business or trade;
-  - (vii) so far as such work is necessary to implement a planning permission (other than an outline planning permission or, without prejudice to paragraph (iii)(cc), a permission granted by or under the Town and Country Planning (General Permitted Development) Order 1995) granted on an application under Part III of the Town and Country Planning Act 1990 (control over development) or granted on an application under section 293B or 293D of that Act[^key-528f61a34b76b7731db2ff29a94f137c], or deemed to have been granted (whether for the purposes of that Part or otherwise);
+  - (vii) so far as such work is necessary to implement a planning permission (other than an outline planning permission or, without prejudice to paragraph (iii)(cc), a permission granted by or under the Town and Country Planning (General Permitted Development) Order 1995) granted on an application under Part III of the Town and Country Planning Act 1990 (control over development) or granted on an application under section 293B or 293D of that Act[^c-528f61a34b76b7731db2ff29a94f137c], or deemed to have been granted (whether for the purposes of that Part or otherwise);
   - (viii) by or at the request of the Environment Agency to enable the Agency to carry out development permitted by or under the Town and Country Planning (General Permitted Development) Order 1995; or
   - (ix) by or at the request of a drainage body where that tree interferes, or is likely to interfere, with the exercise of any of the functions of that body in relation to the maintenance, improvement or construction of watercourses or of drainage works, and for this purpose “drainage body” and “drainage” shall have the same meanings as in section 72(1) of the Land Drainage Act 1991[^f00007] (interpretation);
 - (b) the removal of dead branches from a living tree;
@@ -250,12 +250,12 @@ any tree to which an order relates, or shall cause or permit the carrying out of
 - (b) a relevant airport operator (within the meaning of Part V of the Airports Act 1986[^f00009] (status of certain airport operators as statutory undertakers, etc));
 - (c) the holder of a licence under section 6 of the Electricity Act 1989[^f00010] (licences authorising supply, etc);
 - (d) a gas transporter;
-- (e)[^key-dfaa1e06fcf9319fd39d37dec49de707] an operator of an electronic communications code network (within the meaning given in paragraph 1(1) of Schedule 17 to the Communications Act 2003);
+- (e)[^c-dfaa1e06fcf9319fd39d37dec49de707] an operator of an electronic communications code network (within the meaning given in paragraph 1(1) of Schedule 17 to the Communications Act 2003);
 - (f) a water or sewerage undertaker;
 - (g) the Civil Aviation Authority, a body acting on behalf of that authority or a person who holds a licence under Chapter I of Part I of the Transport Act 2000[^f00012] (air traffic services);
 - (h) a universal postal service provider in connection with the provision of a universal postal service.
 
-### 15. Trees in conservation areas – exceptions[^key-fdba50f83488a4f76ea0bf1aa10335fa]
+### 15. Trees in conservation areas – exceptions[^c-fdba50f83488a4f76ea0bf1aa10335fa]
 
 (1) Section 211[^f00013] (preservation of trees in conservation areas) shall not apply to—
 
@@ -277,7 +277,7 @@ any tree to which an order relates, or shall cause or permit the carrying out of
 
 ## PART 4 — APPLICATIONS FOR CONSENT UNDER TREE PRESERVATION ORDERS
 
-### 16. Applications for consent under tree preservation order[^key-03b8904c371325d2b821ef7801873363]
+### 16. Applications for consent under tree preservation order[^c-03b8904c371325d2b821ef7801873363]
 
 (1) Subject to the following provisions of this regulation, an application for consent to the cutting down, topping, lopping or uprooting of any tree in respect of which an order is for the time being in force shall—
 
@@ -299,7 +299,7 @@ any tree to which an order relates, or shall cause or permit the carrying out of
 
 and such withdrawal or revocation shall be final and shall take effect on the date specified by the person in the notice being not less than seven days after the date on which the notice is given.
 
-### 17. Determination of applications for consent and conditions[^key-19ad9fe4c5468e1a82ae5f7e1e4ca815]
+### 17. Determination of applications for consent and conditions[^c-19ad9fe4c5468e1a82ae5f7e1e4ca815]
 
 (1) Where an application is made to the authority for consent under an order in accordance with regulation 16 the authority may—
 
@@ -326,7 +326,7 @@ unless otherwise stated in a condition within paragraph (2)(d).
 
 ## PART 5 — APPEALS
 
-### 18. Application of Part 5 and interpretation[^key-09ca671016e09798414c533d62c6f881]
+### 18. Application of Part 5 and interpretation[^c-09ca671016e09798414c533d62c6f881]
 
 (1) This Part applies in relation to every appeal—
 
@@ -343,7 +343,7 @@ which is to be disposed of without a hearing or inquiry to which rules under sec
 - “questionnaire” means a document in the form supplied by the Secretary of State for the purposes of this Part; and
 - “relevant authority” in relation to an appeal, means the local planning authority that made the decision (including any failure to determine the application) or served the notice which is the subject of the appeal.
 
-### 19. Appeals[^key-09f389c417eeb3502dd0a48e5de0811e]
+### 19. Appeals[^c-09f389c417eeb3502dd0a48e5de0811e]
 
 (1) Where the authority—
 
@@ -366,7 +366,7 @@ the applicant may by notice appeal to the Secretary of State.
 
 (5) Schedule 6 to the Town and Country Planning Act 1990 (determination of certain appeals by person appointed by Secretary of State) applies to appeals under this regulation.
 
-### 20. Preliminary information[^key-20101b23ca47a205a23362fdb71c9773]
+### 20. Preliminary information[^c-20101b23ca47a205a23362fdb71c9773]
 
 The relevant authority shall, as soon as practicable after receiving notification of an appeal, send copies of the following to the Secretary of State—
 
@@ -379,7 +379,7 @@ The relevant authority shall, as soon as practicable after receiving notificatio
   - (iii) where the notice has been issued as a result of a contravention of these regulations within section 206(1)(a)[^f00020] (removal, uprooting or destruction of tree in contravention of tree preservation regulations), the date of that breach, if not included in the notice; and
   - (iv) where the notice has been issued as a result of a failure to replace a protected tree removed under the exception in section 206(1)(b)[^f00021] (dead or dangerous tree), the date of the alleged failure, if not included in the notice.
 
-### 21. Questionnaire[^key-5a5ec0081126aa7af78afe6db42b059a]
+### 21. Questionnaire[^c-5a5ec0081126aa7af78afe6db42b059a]
 
 (1) The Secretary of State shall, as soon as practicable after receipt of the preliminary information, supply a questionnaire to the relevant authority.
 
@@ -387,13 +387,13 @@ The relevant authority shall, as soon as practicable after receiving notificatio
 
 (3) The questionnaire shall state the date on which it is submitted to the Secretary of State.
 
-### 22. Further information[^key-47535e7b452f7f164c2ac750183b4e74]
+### 22. Further information[^c-47535e7b452f7f164c2ac750183b4e74]
 
 (1) The Secretary of State or the appointed person (as the case may be) may in writing require the parties to provide such further information, including any representations, relevant to the appeal as the Secretary of State or the appointed person may specify.
 
 (2) Such information must be provided in writing within such period as the Secretary of State or the appointed person may specify.
 
-### 23. Determination[^key-91636e09fb055bbd2b962d9b46936914]
+### 23. Determination[^c-91636e09fb055bbd2b962d9b46936914]
 
 (1) Where an appeal is made under regulation 19 the Secretary of State may—
 
@@ -424,7 +424,7 @@ and such withdrawal or revocation shall be final and shall take effect on the da
 
 ## PART 6 — COMPENSATION
 
-### 24. Compensation[^key-d0b71c3b5d8f1b6daf74eeebecd330d1]
+### 24. Compensation[^c-d0b71c3b5d8f1b6daf74eeebecd330d1]
 
 (1) If, on a claim under this regulation, a person establishes that loss or damage has been caused or incurred in consequence of—
 
@@ -480,11 +480,11 @@ that person shall, subject to paragraphs (3) and (4), be entitled to compensatio
 
 ## PART 7 — MISCELLANEOUS PROVISIONS
 
-### 25. Prescribed time[^key-f577b62eb8c820f353038f31a472e171]
+### 25. Prescribed time[^c-f577b62eb8c820f353038f31a472e171]
 
 The prescribed[^f00028] time for the purposes of section 206(1)(b) (replacement of trees) and section 213(1)(b)[^f00029] (enforcement of controls as respects trees in conservation areas) is whenever the cutting down or uprooting of a tree is authorised only by virtue of regulation 14(1)(a)(i) or 14(1)(c).
 
-### 26. Revocation, transitional, transitory and saving provisions[^key-81a27eddf42b57c6357b06ab6d1f00cc]
+### 26. Revocation, transitional, transitory and saving provisions[^c-81a27eddf42b57c6357b06ab6d1f00cc]
 
 (1) The Town and Country Planning (Trees) Regulations 1999[^f00030] (“the 1999 Regulations”), so far as they apply to England, the Town and Country Planning (Trees) (Amendment) (England) Regulations 2008[^f00031] and the Town and Country Planning (Trees) (Amendment No. 2) (England) Regulations 2008[^f00032] are revoked except—
 
@@ -542,17 +542,17 @@ The \[*title of Order (including year)*\]
 
 The \[*name of Council*\], in exercise of the powers conferred on them by section 198 of the Town and Country Planning Act 1990 make the following Order—
 
-### 1. Citation[^key-facc97d4bf9fb7b509732020727f33a3]
+### 1. Citation[^c-facc97d4bf9fb7b509732020727f33a3]
 
 This Order may be cited as \[title of Order (including year)\].
 
-### 2. Interpretation[^key-ab74c7319c239344ff0485b194e983d7]
+### 2. Interpretation[^c-ab74c7319c239344ff0485b194e983d7]
 
 (1) In this Order “the authority” means the \[*name of Council making the Order*\].
 
 (2) In this Order any reference to a numbered section is a reference to the section so numbered in the Town and Country Planning Act 1990 and any reference to a numbered regulation is a reference to the regulation so numbered in the Town and Country Planning (Tree Preservation)(England) Regulations 2012.
 
-### 3. Effect[^key-e9e0ecc0932ac9164012affcf5b0de0d]
+### 3. Effect[^c-e9e0ecc0932ac9164012affcf5b0de0d]
 
 (1) Subject to article 4, this Order takes effect provisionally on the date on which it is made.
 
@@ -563,13 +563,13 @@ This Order may be cited as \[title of Order (including year)\].
 
 any tree specified in the Schedule to this Order except with the written consent of the authority in accordance with regulations 16 and 17, or of the Secretary of State in accordance with regulation 23, and, where such consent is given subject to conditions, in accordance with those conditions.
 
-### 4. Application to trees to be planted pursuant to a condition[^key-f3bc1d37f1bfd7b9703ca34e739b5c9d]
+### 4. Application to trees to be planted pursuant to a condition[^c-f3bc1d37f1bfd7b9703ca34e739b5c9d]
 
 In relation to any tree identified in the first column of the Schedule by the letter “C”, being a tree to be planted pursuant to a condition imposed under paragraph (a) of section 197 (planning permission to include appropriate provision for preservation and planting of trees), this Order takes effect as from the time when the tree is planted.
 
 Dated this \[*insert date of Order*\] day of \[*insert month and year*\]
 
-## SCHEDULE — Specification of trees[^key-79e570f9a811865e6505022cd38cfa91]
+## SCHEDULE — Specification of trees[^c-79e570f9a811865e6505022cd38cfa91]
 
 Article 3
 
@@ -641,57 +641,57 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Sections 202A-202G were inserted by section 192 of the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29). Section 202E was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307). Sections 206, 212 and 213(1)(b) were amended by section 192(8) of, and paragraphs 7, 11, 15 and 16 of Schedule 8 to, the Planning Act 2008. Section 212 was also amended by Schedule 13 to the Planning Act 2008. Section 316 was substituted by section 20 of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). Section 323 was amended by section 18(1) of, and paragraph 26 of Schedule 3 to, the Tribunals and Inquiries Act [1992 (c. 53)](https://www.legislation.gov.uk/ukpga/1992/53) and paragraphs 1 and 12 of Schedule 10 to the Planning Act 2008. Section 333(1) was amended by section 78 of, and paragraph 32(12) of Schedule 10 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25). *See* section 336(1) of theTown and Country Planning Act 1990 for the definition of “prescribed”. The functions of the Secretary of State under sections 206, 212, 213(1)(b), 316(1), 323 and 333(1) are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)); *see* the entry in Schedule 1 for the Town and Country Planning Act 1990, as substituted by article 4 of, and Schedule 3 to, the National Assembly for Wales (Transfer of Functions) Order 2000 ([S.I. 2000/253](https://www.legislation.gov.uk/uksi/2000/253)). By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), the functions were transferred to the Welsh Ministers. As to section 202A *see* section 202A(5).
 
-[^key-d70d4aff1940b24de6dc69adb7f70056]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/605/regulation/1) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-d70d4aff1940b24de6dc69adb7f70056]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/605/regulation/1) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-b789d35b32c1772e316b9ddaace46459]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/605/regulation/2) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-b789d35b32c1772e316b9ddaace46459]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/605/regulation/2) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-6234962399b6d16fbcae347307636490]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/605/regulation/3) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-6234962399b6d16fbcae347307636490]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/605/regulation/3) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-c703bc3a6fe57ca3f95ae508f36ece00]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/605/regulation/4) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-c703bc3a6fe57ca3f95ae508f36ece00]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/605/regulation/4) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-fdc8a4b413cca8a2f0f7b0408e7eea61]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/605/regulation/5) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-fdc8a4b413cca8a2f0f7b0408e7eea61]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/605/regulation/5) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-930380eb0913e1328181e42c737fb86e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/605/regulation/6) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-930380eb0913e1328181e42c737fb86e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/605/regulation/6) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-884269d617b11149c953d2495d9006d7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/605/regulation/7) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-884269d617b11149c953d2495d9006d7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/605/regulation/7) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-66e20fb038b0c61d245f74c2e05d7925]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/605/regulation/8) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-66e20fb038b0c61d245f74c2e05d7925]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/605/regulation/8) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
 [^f00002]: Footnote: There are amendments to section 284 but none is relevant to this regulation.
 
-[^key-9c6e334c8429105fba69eb98193685ba]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/605/regulation/9) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-9c6e334c8429105fba69eb98193685ba]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/605/regulation/9) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-56638306c205f4ec4aed897e7397890a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/605/regulation/10) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-56638306c205f4ec4aed897e7397890a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/605/regulation/10) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-df4f72f27f24225b823331dd594f9a43]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/605/regulation/11) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-df4f72f27f24225b823331dd594f9a43]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/605/regulation/11) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-ef285107e9924340a12d0b89ada3a816]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/605/regulation/12) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-ef285107e9924340a12d0b89ada3a816]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/605/regulation/12) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-656b309318887a6e8cbb8c9cdbb525fc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/605/regulation/13) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-656b309318887a6e8cbb8c9cdbb525fc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/605/regulation/13) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
 [^f00003]: Footnote: Section 198(7) was amended by section 192(8) of, and paragraphs 7 and 8 of Schedule 8 to, the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29).
 
 [^f00004]: Footnote: Section 200 was substituted by section 85 of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5) and subsection (1) was amended by section 192(8) of, and paragraphs 7 and 9 of Schedule 8 to, the Planning Act 2008.
 
-[^key-693dc01bd7251ce6016187f0f829bad9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/605/regulation/14) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-693dc01bd7251ce6016187f0f829bad9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/605/regulation/14) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-cba31c8e6afbb2d6615dca29267c1590]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/605/regulation/14) modified (7.5.2014) by [The National Grid (North London Reinforcement Project) Order 2014 (S.I. 2014/1052)](https://www.legislation.gov.uk/uksi/2014/1052), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1), [37(4)](https://www.legislation.gov.uk/uksi/2014/1052/article/37/4)
+[^c-cba31c8e6afbb2d6615dca29267c1590]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/605/regulation/14) modified (7.5.2014) by [The National Grid (North London Reinforcement Project) Order 2014 (S.I. 2014/1052)](https://www.legislation.gov.uk/uksi/2014/1052), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1), [37(4)](https://www.legislation.gov.uk/uksi/2014/1052/article/37/4)
 
-[^key-170548f802c72dd4906c4f46e732267a]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/605/regulation/14) modified (9.2.2016) by [The National Grid (Hinkley Point C Connection Project) Order 2016 (S.I. 2016/49)](https://www.legislation.gov.uk/uksi/2016/49), [arts. 1](https://www.legislation.gov.uk/uksi/2016/49/article/1), [41(4)](https://www.legislation.gov.uk/uksi/2016/49/article/41/4) (with [art. 32](https://www.legislation.gov.uk/uksi/2016/49/article/32))
+[^c-170548f802c72dd4906c4f46e732267a]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/605/regulation/14) modified (9.2.2016) by [The National Grid (Hinkley Point C Connection Project) Order 2016 (S.I. 2016/49)](https://www.legislation.gov.uk/uksi/2016/49), [arts. 1](https://www.legislation.gov.uk/uksi/2016/49/article/1), [41(4)](https://www.legislation.gov.uk/uksi/2016/49/article/41/4) (with [art. 32](https://www.legislation.gov.uk/uksi/2016/49/article/32))
 
-[^key-ec4894d322a074423a5a0a2ff18441d5]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/605/regulation/14) modified (27.7.2023) by [The Boston Alternative Energy Facility Order 2023 (S.I. 2023/778)](https://www.legislation.gov.uk/uksi/2023/778), [arts. 1](https://www.legislation.gov.uk/uksi/2023/778/article/1), [42(3)](https://www.legislation.gov.uk/uksi/2023/778/article/42/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2023/778/article/5), [53](https://www.legislation.gov.uk/uksi/2023/778/article/53), [Sch. 8 paras. 6](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/6), [64](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/64))
+[^c-ec4894d322a074423a5a0a2ff18441d5]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/605/regulation/14) modified (27.7.2023) by [The Boston Alternative Energy Facility Order 2023 (S.I. 2023/778)](https://www.legislation.gov.uk/uksi/2023/778), [arts. 1](https://www.legislation.gov.uk/uksi/2023/778/article/1), [42(3)](https://www.legislation.gov.uk/uksi/2023/778/article/42/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2023/778/article/5), [53](https://www.legislation.gov.uk/uksi/2023/778/article/53), [Sch. 8 paras. 6](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/6), [64](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/64))
 
-[^key-04df58fede017cc239dda984c339405f]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/605/regulation/14) modified (5.4.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) Development Consent Order 2024 (S.I. 2024/393)](https://www.legislation.gov.uk/uksi/2024/393), [arts. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1), [46(4)](https://www.legislation.gov.uk/uksi/2024/393/article/46/4) (with [art. 44](https://www.legislation.gov.uk/uksi/2024/393/article/44), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/393/schedule/15))
+[^c-04df58fede017cc239dda984c339405f]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/605/regulation/14) modified (5.4.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) Development Consent Order 2024 (S.I. 2024/393)](https://www.legislation.gov.uk/uksi/2024/393), [arts. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1), [46(4)](https://www.legislation.gov.uk/uksi/2024/393/article/46/4) (with [art. 44](https://www.legislation.gov.uk/uksi/2024/393/article/44), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/393/schedule/15))
 
-[^key-1fc24a24c518db2c63a56da3d00bbf84]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/605/regulation/14) modified (3.8.2024) by [The Mallard Pass Solar Farm Order 2024 (S.I. 2024/796)](https://www.legislation.gov.uk/uksi/2024/796), [arts. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1), [6(4)](https://www.legislation.gov.uk/uksi/2024/796/article/6/4) (with [Sch. 15](https://www.legislation.gov.uk/uksi/2024/796/schedule/15))
+[^c-1fc24a24c518db2c63a56da3d00bbf84]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/605/regulation/14) modified (3.8.2024) by [The Mallard Pass Solar Farm Order 2024 (S.I. 2024/796)](https://www.legislation.gov.uk/uksi/2024/796), [arts. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1), [6(4)](https://www.legislation.gov.uk/uksi/2024/796/article/6/4) (with [Sch. 15](https://www.legislation.gov.uk/uksi/2024/796/schedule/15))
 
-[^key-6051d113ca0dae809f74a6a9ea9d2924]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/605/regulation/14) modified (5.11.2025) by [The Tillbridge Solar Order 2025 (S.I. 2025/1105)](https://www.legislation.gov.uk/uksi/2025/1105), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1), [6(4)](https://www.legislation.gov.uk/uksi/2025/1105/article/6/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2025/1105/article/49), [Sch. 15](https://www.legislation.gov.uk/uksi/2025/1105/schedule/15))
+[^c-6051d113ca0dae809f74a6a9ea9d2924]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/605/regulation/14) modified (5.11.2025) by [The Tillbridge Solar Order 2025 (S.I. 2025/1105)](https://www.legislation.gov.uk/uksi/2025/1105), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1), [6(4)](https://www.legislation.gov.uk/uksi/2025/1105/article/6/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2025/1105/article/49), [Sch. 15](https://www.legislation.gov.uk/uksi/2025/1105/schedule/15))
 
 [^f00005]: Footnote: [S.I. 1995/418](https://www.legislation.gov.uk/uksi/1995/418); amended by the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), section 76(7). Relevant amending instruments are [S.I. 1996/528](https://www.legislation.gov.uk/uksi/1996/528), [2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [2003/2155](https://www.legislation.gov.uk/uksi/2003/2155) and [2011/2085](https://www.legislation.gov.uk/uksi/2011/2085).
 
 [^f00006]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-528f61a34b76b7731db2ff29a94f137c]: Textual amendment: Words in [reg. 14(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2012/605/regulation/14/1/a/vii) inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2025/412/regulation/7)
+[^c-528f61a34b76b7731db2ff29a94f137c]: Textual amendment: Words in [reg. 14(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2012/605/regulation/14/1/a/vii) inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2025/412/regulation/7)
 
 [^f00007]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59); these definitions were amended by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), sections 100(2) and 120, and Schedule 22, paragraphs 191 and 194.
 
@@ -701,11 +701,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00010]: Footnote: Section 6 was amended by the Utilities Act 2000, section 30, by the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) sections 89, 136, 145 and 197(9), Schedule 19, paragraphs 3 and 5, and Schedule 23, Part 1, and by the Climate Change Act [2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), section 79 and Schedule 8, paragraph 2. There are other amendments not relevant to these Regulations.
 
-[^key-dfaa1e06fcf9319fd39d37dec49de707]: Textual amendment: [Reg. 14(3)(e)](https://www.legislation.gov.uk/uksi/2012/605/regulation/14/3/e) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/3/paragraph/6/2)
+[^c-dfaa1e06fcf9319fd39d37dec49de707]: Textual amendment: [Reg. 14(3)(e)](https://www.legislation.gov.uk/uksi/2012/605/regulation/14/3/e) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/3/paragraph/6/2)
 
 [^f00012]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-fdba50f83488a4f76ea0bf1aa10335fa]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/605/regulation/15) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-fdba50f83488a4f76ea0bf1aa10335fa]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/605/regulation/15) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
 [^f00013]: Footnote: Section 211 was amended by section 86 of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5) and by sections 36 and 192(8) of, and paragraphs 34 and 36 of Schedule 2 and paragraphs 7 and 14 of Schedule 8 to, the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29).
 
@@ -715,33 +715,33 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00016]: Footnote: [1979 c. 21](https://www.legislation.gov.uk/ukpga/1979/21); section 1 was amended by [S.I. 2000/746](https://www.legislation.gov.uk/uksi/2000/746); there are other amendments not relevant to these Regulations.
 
-[^key-03b8904c371325d2b821ef7801873363]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2012/605/regulation/16) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-03b8904c371325d2b821ef7801873363]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2012/605/regulation/16) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-19ad9fe4c5468e1a82ae5f7e1e4ca815]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/605/regulation/17) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-19ad9fe4c5468e1a82ae5f7e1e4ca815]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/605/regulation/17) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
 [^f00017]: Footnote: Section 202D was inserted by section 192(1) and (7) of the Planning Act 2008.
 
-[^key-09ca671016e09798414c533d62c6f881]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/605/regulation/18) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-09ca671016e09798414c533d62c6f881]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/605/regulation/18) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
 [^f00018]: Footnote: Section 207(1) was amended by section 192(8) of, and paragraphs 7 and 12 of Schedule 8 to, the Planning Act 2008.
 
 [^f00019]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53); there are amendments to section 9 but none is relevant to these Regulations.
 
-[^key-09f389c417eeb3502dd0a48e5de0811e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/605/regulation/19) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-09f389c417eeb3502dd0a48e5de0811e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/605/regulation/19) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-20101b23ca47a205a23362fdb71c9773]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/605/regulation/20) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-20101b23ca47a205a23362fdb71c9773]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/605/regulation/20) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
 [^f00020]: Footnote: Section 206(1) was amended by section 192(8) of, and paragraphs 7 and 11 of Schedule 8 to, the Planning Act 2008.
 
 [^f00021]: Footnote: For the meaning of “prescribed time” in section 206(1)(b), *see* regulation 25 below.
 
-[^key-5a5ec0081126aa7af78afe6db42b059a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2012/605/regulation/21) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-5a5ec0081126aa7af78afe6db42b059a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2012/605/regulation/21) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-47535e7b452f7f164c2ac750183b4e74]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2012/605/regulation/22) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-47535e7b452f7f164c2ac750183b4e74]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2012/605/regulation/22) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-91636e09fb055bbd2b962d9b46936914]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/605/regulation/23) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-91636e09fb055bbd2b962d9b46936914]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/605/regulation/23) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-d0b71c3b5d8f1b6daf74eeebecd330d1]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2012/605/regulation/24) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-d0b71c3b5d8f1b6daf74eeebecd330d1]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2012/605/regulation/24) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
 [^f00022]: Footnote: [1967 c. 10](https://www.legislation.gov.uk/ukpga/1967/10).
 
@@ -755,13 +755,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00027]: Footnote: There are amendments to section 34 but none is relevant to these Regulations.
 
-[^key-f577b62eb8c820f353038f31a472e171]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2012/605/regulation/25) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-f577b62eb8c820f353038f31a472e171]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2012/605/regulation/25) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
 [^f00028]: Footnote: For the meaning of “prescribed” *see* section 336(1) of the Town and Country Planning Act 1990.
 
 [^f00029]: Footnote: Section 213 was amended by section 192(8) of, and paragraphs 7 and 16 of Schedule 8 to, the Planning Act 2008.
 
-[^key-81a27eddf42b57c6357b06ab6d1f00cc]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2012/605/regulation/26) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-81a27eddf42b57c6357b06ab6d1f00cc]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2012/605/regulation/26) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
 [^f00030]: Footnote: [S.I. 1999/1892](https://www.legislation.gov.uk/uksi/1999/1892); amended by [S.I. 2008/2260](https://www.legislation.gov.uk/uksi/2008/2260) and [2008/3202](https://www.legislation.gov.uk/uksi/2008/3202).
 
@@ -773,12 +773,12 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00034]: Footnote: Section 201 was repealed by sections 192(1) and (4) and 238 of, and Schedule 13 to, the Planning Act 2008.
 
-[^key-facc97d4bf9fb7b509732020727f33a3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2012/605/schedule/paragraph/1) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-facc97d4bf9fb7b509732020727f33a3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2012/605/schedule/paragraph/1) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-ab74c7319c239344ff0485b194e983d7]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2012/605/schedule/paragraph/2) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-ab74c7319c239344ff0485b194e983d7]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2012/605/schedule/paragraph/2) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-e9e0ecc0932ac9164012affcf5b0de0d]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2012/605/schedule/paragraph/3) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-e9e0ecc0932ac9164012affcf5b0de0d]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2012/605/schedule/paragraph/3) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-f3bc1d37f1bfd7b9703ca34e739b5c9d]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2012/605/schedule/paragraph/4) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-f3bc1d37f1bfd7b9703ca34e739b5c9d]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2012/605/schedule/paragraph/4) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
 
-[^key-79e570f9a811865e6505022cd38cfa91]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2012/605/schedule) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)
+[^c-79e570f9a811865e6505022cd38cfa91]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2012/605/schedule) in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1)

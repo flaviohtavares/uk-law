@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Interpretation[^key-835aa2be55fa940dd38770617d961407]
+## 27. Interpretation[^c-835aa2be55fa940dd38770617d961407]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-835aa2be55fa940dd38770617d961407]: Commencement: Reg. 27 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-835aa2be55fa940dd38770617d961407]: Commencement: Reg. 27 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

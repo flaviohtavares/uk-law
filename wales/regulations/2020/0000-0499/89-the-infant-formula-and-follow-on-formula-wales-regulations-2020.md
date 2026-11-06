@@ -51,7 +51,7 @@ The Welsh Ministers have had regard to relevant advice given by the Food Standar
 
 There has been open and transparent public consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c23972801], during the preparation and evaluation of these Regulations.
 
-## 1. Title, commencement and application[^key-a56c8832e14e8f1729bf33472ba54aad]
+## 1. Title, commencement and application[^c-a56c8832e14e8f1729bf33472ba54aad]
 
 (1) The title of these Regulations is the Infant Formula and Follow-on Formula (Wales) Regulations 2020.
 
@@ -62,7 +62,7 @@ There has been open and transparent public consultation as required by Article 9
 
 (3) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-467d9c09088d75c3a9f1b69896be332c]
+## 2. Interpretation[^c-467d9c09088d75c3a9f1b69896be332c]
 
 (1) In these Regulations—
 
@@ -75,11 +75,11 @@ There has been open and transparent public consultation as required by Article 9
 
 (3) Expressions used both in these Regulations and in the Delegated Regulation have the same meaning in these Regulations as they have in the Delegated Regulation.
 
-## 3. Enforcement[^key-418b9c9b3bedbe2e6b1b95ac7ee5334b]
+## 3. Enforcement[^c-418b9c9b3bedbe2e6b1b95ac7ee5334b]
 
 Each food authority must execute and enforce these Regulations within its area.
 
-## 4. Application of provisions of the Act[^key-1abe1ab888a543852a575ad4363f8197]
+## 4. Application of provisions of the Act[^c-1abe1ab888a543852a575ad4363f8197]
 
 (1) Section 10(1) and (2) of the Act (improvement notices) applies, with the modification (in the case of section 10(1)) specified in Part 1 of Schedule 2, for the purposes of—
 
@@ -115,7 +115,7 @@ Each food authority must execute and enforce these Regulations within its area.
 
 and any reference in the paragraph (7) provisions to a section of the Act, including a reference to “any of the preceding provisions of this Part”, is to be read as a reference to such sections of the Act that apply by virtue of, and with the modifications made by, these Regulations.
 
-## 5. Revocations, savings and transitional provisions[^key-f792150b47c491e856af6dddd3a12ecd]
+## 5. Revocations, savings and transitional provisions[^c-f792150b47c491e856af6dddd3a12ecd]
 
 (1) The instruments specified in column 1 of the table in Schedule 3 are revoked to the extent specified in column 3 of that table, subject to paragraph (2).
 
@@ -133,7 +133,7 @@ and any reference in the paragraph (7) provisions to a section of the Act, inclu
   - (i) regulation 3(1) (prohibition on the marketing of infant formula unless certain conditions are met) in the case of infant formula;
   - (ii) regulation 3(2) (prohibition on the marketing of follow-on formula unless certain conditions are met) in the case of follow-on formula.
 
-(4)[^key-0ff2fc348b4657d5642b3e2cebd20dc3] Regulations 2 to 4 do not apply in respect of infant formula and follow-on formula manufactured from protein hydrolysates until 22 February 2022.
+(4)[^c-0ff2fc348b4657d5642b3e2cebd20dc3] Regulations 2 to 4 do not apply in respect of infant formula and follow-on formula manufactured from protein hydrolysates until 22 February 2022.
 
 (5) Schedule 4 makes provision in relation to infant formula and follow-on formula manufactured from protein hydrolysates until 22 February 2022.
 
@@ -141,7 +141,7 @@ Vaughan Gething
 
 Minister for Health and Social Services, one of the Welsh Ministers
 
-## SCHEDULE 1 — Specified EU law requirements[^key-97685f6e98bef4a854d2b10835e65da9]
+## SCHEDULE 1 — Specified EU law requirements[^c-97685f6e98bef4a854d2b10835e65da9]
 
 Regulation 2(1)
 
@@ -192,7 +192,7 @@ Regulation 4
 
 ### PART 1 — Modification of section 10 of the Act
 
-**1.**[^key-132908784609a304801975620446aec4] Section 10 of the Act (improvement notices) applies as if, for subsection (1), there were substituted—
+**1.**[^c-132908784609a304801975620446aec4] Section 10 of the Act (improvement notices) applies as if, for subsection (1), there were substituted—
 
 > (1) If an authorised officer of an enforcement authority has reasonable grounds for believing that a person is failing to comply with a specified EU law requirement, the authorised officer may, by a notice served on that person (in this Act referred to as an “**improvement notice**”)—
 >
@@ -203,7 +203,7 @@ Regulation 4
 
 ### PART 2 — Modification of section 32 of the Act
 
-**2.**[^key-7fa43a301a8640488768c48f3d2b3105] Section 32 of the Act [^c23972891] (powers of entry) applies as if—
+**2.**[^c-7fa43a301a8640488768c48f3d2b3105] Section 32 of the Act [^c23972891] (powers of entry) applies as if—
 
 - (a) in subsection (1) for paragraphs (a) to (c) there were substituted—
 
@@ -216,13 +216,13 @@ Regulation 4
 
 ### PART 3 — Modification of section 35 of the Act
 
-**3.**[^key-4da4ab0b80c82c1e4616c6e0d7b7f9bd] Section 35 of the Act (punishment of offences) applies as if, before subsection (2), there were inserted—
+**3.**[^c-4da4ab0b80c82c1e4616c6e0d7b7f9bd] Section 35 of the Act (punishment of offences) applies as if, before subsection (2), there were inserted—
 
 > (1B) A person guilty of an offence under section 10(2), as applied by regulation 4(1) of the Infant Formula and Follow-on Formula (Wales) Regulations 2020, is liable on summary conviction, to a fine.
 
 ### PART 4 — Modification of section 37 of the Act
 
-**4.**[^key-92049b18929e5eff4fafcc853fbdb0bd] Section 37 of the Act (appeals to magistrates' court or sheriff) applies as if—
+**4.**[^c-92049b18929e5eff4fafcc853fbdb0bd] Section 37 of the Act (appeals to magistrates' court or sheriff) applies as if—
 
 - (a) for the heading there were substituted “ Appeals ”;
 - (b) for subsection (1) there were substituted—
@@ -245,34 +245,34 @@ Regulation 4
 
 ### PART 5 — Modification of section 39 of the Act
 
-**5.**[^key-3ea2fd7300ce718fba1f7596fe8c6c7f] Section 39 of the Act (appeals against improvement notices) applies as if in subsection (3), “for want of prosecution” were omitted.
+**5.**[^c-3ea2fd7300ce718fba1f7596fe8c6c7f] Section 39 of the Act (appeals against improvement notices) applies as if in subsection (3), “for want of prosecution” were omitted.
 
 ### PART 6 — Further modifications of provisions of the Act
 
-**6.**[^key-2b01109583c0aa9b7b1072c3396e1ab7] Section 3 of the 1990 Act (presumptions that food intended for human consumption) applies as if, in subsection (1), for “this Act” there were substituted “ the 2020 Regulations ”.
+**6.**[^c-2b01109583c0aa9b7b1072c3396e1ab7] Section 3 of the 1990 Act (presumptions that food intended for human consumption) applies as if, in subsection (1), for “this Act” there were substituted “ the 2020 Regulations ”.
 
-**7.**[^key-a74e9680e53f4fed615a0b614c7324a5] Section 20 of the Act (offences due to fault of another person) applies as if, for “any of the preceding provisions of this Part”, there were substituted “ the 2020 Regulations ”.
+**7.**[^c-a74e9680e53f4fed615a0b614c7324a5] Section 20 of the Act (offences due to fault of another person) applies as if, for “any of the preceding provisions of this Part”, there were substituted “ the 2020 Regulations ”.
 
-**8.**[^key-7934250d67e0f7cb9fc3df7d69a3df3d] Section 21 of the Act (defence of due diligence) applies as if, in subsection (1), for “any of the preceding provisions of this Part”, there were substituted “ the 2020 Regulations ”.
+**8.**[^c-7934250d67e0f7cb9fc3df7d69a3df3d] Section 21 of the Act (defence of due diligence) applies as if, in subsection (1), for “any of the preceding provisions of this Part”, there were substituted “ the 2020 Regulations ”.
 
-**9.**[^key-7b662891f0ac02e329b9c402ac18ed08] Section 22 of the Act (defence of publication in the course of business) applies as if, for “any of the preceding provisions of this Part”, there were substituted “ the 2020 Regulations ”.
+**9.**[^c-7b662891f0ac02e329b9c402ac18ed08] Section 22 of the Act (defence of publication in the course of business) applies as if, for “any of the preceding provisions of this Part”, there were substituted “ the 2020 Regulations ”.
 
-**10.**[^key-b858c168f6fe6b4eb3dcd4822ca6b456] Section 29 of the Act (procurement of samples) applies as if, in paragraph (b)(ii), after “under section 32 below”, there were inserted “ including under section 32 as applied and modified by regulation 4(2) of, and Part 2 of Schedule 2 to, the 2020 Regulations ”.
+**10.**[^c-b858c168f6fe6b4eb3dcd4822ca6b456] Section 29 of the Act (procurement of samples) applies as if, in paragraph (b)(ii), after “under section 32 below”, there were inserted “ including under section 32 as applied and modified by regulation 4(2) of, and Part 2 of Schedule 2 to, the 2020 Regulations ”.
 
-**11.**[^key-35807f8f00d94a303fa63b43e6ae5b0b] Section 30 of the Act (analysis etc. of samples) applies as if—
+**11.**[^c-35807f8f00d94a303fa63b43e6ae5b0b] Section 30 of the Act (analysis etc. of samples) applies as if—
 
 - (a) in subsection (1), after “under section 29 above”, there were inserted “ including under section 29 as applied and modified by regulation 4(6) of, and Part 6 of Schedule 2 to, the 2020 Regulations ”; and
 - (b) in subsection (8), for “this Act” there were substituted “ the 2020 Regulations ”.
 
-**12.**[^key-ee561478788b9101f8485079e178be8a] Section 33 of the Act (obstruction etc. of officers) applies as if, in subsection (1), for “this Act” (in each place where it occurs) there were substituted “ the 2020 Regulations ”.
+**12.**[^c-ee561478788b9101f8485079e178be8a] Section 33 of the Act (obstruction etc. of officers) applies as if, in subsection (1), for “this Act” (in each place where it occurs) there were substituted “ the 2020 Regulations ”.
 
-**13.**[^key-6e60edbe678c44c5e4cde0945b247dd9] Section 36 of the Act (offences by bodies corporate) applies as if, in subsection (1), for “this Act” there were substituted “ the 2020 Regulations ”.
+**13.**[^c-6e60edbe678c44c5e4cde0945b247dd9] Section 36 of the Act (offences by bodies corporate) applies as if, in subsection (1), for “this Act” there were substituted “ the 2020 Regulations ”.
 
-**14.**[^key-e52c7b8e992d3f74e91acd2493e43f71] Section 36A of the Act [^c23972901] (offences by Scottish partnerships) applies as if, for “this Act”, there were substituted “ the 2020 Regulations ”.
+**14.**[^c-e52c7b8e992d3f74e91acd2493e43f71] Section 36A of the Act [^c23972901] (offences by Scottish partnerships) applies as if, for “this Act”, there were substituted “ the 2020 Regulations ”.
 
-**15.**[^key-606f66d75b60247d5b7a1fea55953478] Section 44 of the Act (protection of officers acting in good faith) applies as if, for “this Act”, in each place where those words appear, there were substituted “ the 2020 Regulations ”.
+**15.**[^c-606f66d75b60247d5b7a1fea55953478] Section 44 of the Act (protection of officers acting in good faith) applies as if, for “this Act”, in each place where those words appear, there were substituted “ the 2020 Regulations ”.
 
-**16.**[^key-2a73c6391653de21ac97e683898a1dd7] Section 53 (general interpretation) applies as if—
+**16.**[^c-2a73c6391653de21ac97e683898a1dd7] Section 53 (general interpretation) applies as if—
 
 - (a) after the definition of “the 1956 Act” there were inserted—
 
@@ -285,7 +285,7 @@ Regulation 4
 
   .
 
-## SCHEDULE 3 — Revocations relating to Infant Formula and Follow-on Formula[^key-49d98f27b3733da93594ae4e2183ae62]
+## SCHEDULE 3 — Revocations relating to Infant Formula and Follow-on Formula[^c-49d98f27b3733da93594ae4e2183ae62]
 
 Regulation 5(1)
 
@@ -298,7 +298,7 @@ Regulation 5(1)
 | Transfer of Functions (Food) (Wales) Regulations 2014 | S.I. 2014/1102 (W. 110) | Regulation 5 |
 | Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016 | S.I. 2016/639 (W. 175) | Schedule 3, paragraph 4 |
 
-## SCHEDULE 4 — Regulation of infant formula and follow-on formula manufactured from protein hydrolysates until 22 February 2022[^key-b963bd66708283f17545b90b80f058ef]
+## SCHEDULE 4 — Regulation of infant formula and follow-on formula manufactured from protein hydrolysates until 22 February 2022[^c-b963bd66708283f17545b90b80f058ef]
 
 Regulation 5(5)
 
@@ -390,7 +390,7 @@ The prohibitions and limitations on the use of food ingredients in infant formul
 
 (3) The relevant purity criteria for the purposes of sub-paragraph (2) are—
 
-- (a) the purity criteria for substances, as provided for in assimilated[^key-923f3b2c66b5dee5056a14cd5d16ccf3] law concerning the use of substances listed in Annex III, in the manufacture of foodstuffs for purposes other than those covered by the Directive; and
+- (a) the purity criteria for substances, as provided for in assimilated[^c-923f3b2c66b5dee5056a14cd5d16ccf3] law concerning the use of substances listed in Annex III, in the manufacture of foodstuffs for purposes other than those covered by the Directive; and
 - (b) in the absence of such purity criteria, generally acceptable purity criteria recommended by international bodies.
 
 ### 12. Notification of infant formula
@@ -669,17 +669,17 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23972801]: Marginal citation: OJ No. L 31, 1.2.2002, p. 1, as last amended by Regulation (EU) 2019/1243 of the European Parliament and of the Council (OJ No. L 198, 25.7.2019, p. 241).
 
-[^key-a56c8832e14e8f1729bf33472ba54aad]: Commencement: Reg. 1 in force at 22.2.2020 for specified purposes at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-a56c8832e14e8f1729bf33472ba54aad]: Commencement: Reg. 1 in force at 22.2.2020 for specified purposes at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-467d9c09088d75c3a9f1b69896be332c]: Commencement: Reg. 2 in force at 22.2.2020 for specified purpose and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-467d9c09088d75c3a9f1b69896be332c]: Commencement: Reg. 2 in force at 22.2.2020 for specified purpose and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
 [^c23972811]: Marginal citation: OJ No. L 25, 2.2.2016, p. 1, as last amended by Commission Delegated Regulation (EU) 2019/828 (OJ No. L 137, 23.5.2019, p. 12).
 
 [^c23972821]: Marginal citation: [Section 5(1A)](https://www.legislation.gov.uk/wsi/2020/89/section/5/1A) was inserted by paragraph 16 of Schedule 9 to the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19).
 
-[^key-418b9c9b3bedbe2e6b1b95ac7ee5334b]: Commencement: Reg. 3 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-418b9c9b3bedbe2e6b1b95ac7ee5334b]: Commencement: Reg. 3 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-1abe1ab888a543852a575ad4363f8197]: Commencement: Reg. 4 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-1abe1ab888a543852a575ad4363f8197]: Commencement: Reg. 4 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
 [^c23972831]: Marginal citation: There are amendments to section 32(5) and (6), but none are relevant.
 
@@ -691,52 +691,52 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23972871]: Marginal citation: [Section 36A](https://www.legislation.gov.uk/wsi/2020/89/section/36A) was inserted by paragraph 16 of Schedule 5 to the 1999 Act.
 
-[^key-f792150b47c491e856af6dddd3a12ecd]: Commencement: Reg. 5 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-f792150b47c491e856af6dddd3a12ecd]: Commencement: Reg. 5 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
 [^c23972881]: Marginal citation: [S.I. 2007/3573](https://www.legislation.gov.uk/uksi/2007/3573) (W. 316). The relevant amending instrument is [S.I. 2008/2602](https://www.legislation.gov.uk/uksi/2008/2602) (W. 228).
 
-[^key-0ff2fc348b4657d5642b3e2cebd20dc3]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/wsi/2020/89/regulation/5/4)[(5)](https://www.legislation.gov.uk/wsi/2020/89/regulation/5/5) inserted (16.9.2021) by [The Infant Formula and Follow-on Formula (Wales) (Amendment) Regulations 2021 (S.I. 2021/955)](https://www.legislation.gov.uk/wsi/2021/955), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/955/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/955/regulation/2/2)
+[^c-0ff2fc348b4657d5642b3e2cebd20dc3]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/wsi/2020/89/regulation/5/4)[(5)](https://www.legislation.gov.uk/wsi/2020/89/regulation/5/5) inserted (16.9.2021) by [The Infant Formula and Follow-on Formula (Wales) (Amendment) Regulations 2021 (S.I. 2021/955)](https://www.legislation.gov.uk/wsi/2021/955), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/955/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/955/regulation/2/2)
 
-[^key-97685f6e98bef4a854d2b10835e65da9]: Commencement: Sch. 1 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-97685f6e98bef4a854d2b10835e65da9]: Commencement: Sch. 1 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-132908784609a304801975620446aec4]: Commencement: Sch. 2 para. 1 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-132908784609a304801975620446aec4]: Commencement: Sch. 2 para. 1 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-7fa43a301a8640488768c48f3d2b3105]: Commencement: Sch. 2 para. 2 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-7fa43a301a8640488768c48f3d2b3105]: Commencement: Sch. 2 para. 2 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
 [^c23972891]: Marginal citation: [Section 32(5)](https://www.legislation.gov.uk/wsi/2020/89/section/32/5) and (6) was amended by section 70 of, and paragraph 18 of Schedule 2 to, the [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16).
 
-[^key-4da4ab0b80c82c1e4616c6e0d7b7f9bd]: Commencement: Sch. 2 para. 3 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-4da4ab0b80c82c1e4616c6e0d7b7f9bd]: Commencement: Sch. 2 para. 3 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-92049b18929e5eff4fafcc853fbdb0bd]: Commencement: Sch. 2 para. 4 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-92049b18929e5eff4fafcc853fbdb0bd]: Commencement: Sch. 2 para. 4 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-3ea2fd7300ce718fba1f7596fe8c6c7f]: Commencement: Sch. 2 para. 5 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-3ea2fd7300ce718fba1f7596fe8c6c7f]: Commencement: Sch. 2 para. 5 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-2b01109583c0aa9b7b1072c3396e1ab7]: Commencement: Sch. 2 para. 6 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-2b01109583c0aa9b7b1072c3396e1ab7]: Commencement: Sch. 2 para. 6 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-a74e9680e53f4fed615a0b614c7324a5]: Commencement: Sch. 2 para. 7 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-a74e9680e53f4fed615a0b614c7324a5]: Commencement: Sch. 2 para. 7 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-7934250d67e0f7cb9fc3df7d69a3df3d]: Commencement: Sch. 2 para. 8 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-7934250d67e0f7cb9fc3df7d69a3df3d]: Commencement: Sch. 2 para. 8 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-7b662891f0ac02e329b9c402ac18ed08]: Commencement: Sch. 2 para. 9 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-7b662891f0ac02e329b9c402ac18ed08]: Commencement: Sch. 2 para. 9 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-b858c168f6fe6b4eb3dcd4822ca6b456]: Commencement: Sch. 2 para. 10 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-b858c168f6fe6b4eb3dcd4822ca6b456]: Commencement: Sch. 2 para. 10 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-35807f8f00d94a303fa63b43e6ae5b0b]: Commencement: Sch. 2 para. 11 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-35807f8f00d94a303fa63b43e6ae5b0b]: Commencement: Sch. 2 para. 11 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-ee561478788b9101f8485079e178be8a]: Commencement: Sch. 2 para. 12 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-ee561478788b9101f8485079e178be8a]: Commencement: Sch. 2 para. 12 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-6e60edbe678c44c5e4cde0945b247dd9]: Commencement: Sch. 2 para. 13 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-6e60edbe678c44c5e4cde0945b247dd9]: Commencement: Sch. 2 para. 13 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-e52c7b8e992d3f74e91acd2493e43f71]: Commencement: Sch. 2 para. 14 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-e52c7b8e992d3f74e91acd2493e43f71]: Commencement: Sch. 2 para. 14 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
 [^c23972901]: Marginal citation: [Section 36A](https://www.legislation.gov.uk/wsi/2020/89/section/36A) was inserted by section 40(1) of, and paragraph 16 of Schedule 5 to, the 1999 Act.
 
-[^key-606f66d75b60247d5b7a1fea55953478]: Commencement: Sch. 2 para. 15 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-606f66d75b60247d5b7a1fea55953478]: Commencement: Sch. 2 para. 15 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-2a73c6391653de21ac97e683898a1dd7]: Commencement: Sch. 2 para. 16 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-2a73c6391653de21ac97e683898a1dd7]: Commencement: Sch. 2 para. 16 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-49d98f27b3733da93594ae4e2183ae62]: Commencement: Sch. 3 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
+[^c-49d98f27b3733da93594ae4e2183ae62]: Commencement: Sch. 3 in force at 22.2.2020 for specified purposes and at 22.2.2021 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2)
 
-[^key-b963bd66708283f17545b90b80f058ef]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/wsi/2020/89/schedule/4) inserted (16.9.2021) by [The Infant Formula and Follow-on Formula (Wales) (Amendment) Regulations 2021 (S.I. 2021/955)](https://www.legislation.gov.uk/wsi/2021/955), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/955/regulation/1/2), [Sch.](https://www.legislation.gov.uk/wsi/2021/955/schedule)
+[^c-b963bd66708283f17545b90b80f058ef]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/wsi/2020/89/schedule/4) inserted (16.9.2021) by [The Infant Formula and Follow-on Formula (Wales) (Amendment) Regulations 2021 (S.I. 2021/955)](https://www.legislation.gov.uk/wsi/2021/955), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/955/regulation/1/2), [Sch.](https://www.legislation.gov.uk/wsi/2021/955/schedule)
 
-[^key-923f3b2c66b5dee5056a14cd5d16ccf3]: Textual amendment: Word in [Sch. 4 para. 11(3)(a)](https://www.legislation.gov.uk/wsi/2020/89/schedule/4/paragraph/11/3/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [23](https://www.legislation.gov.uk/wsi/2023/1332/regulation/23)
+[^c-923f3b2c66b5dee5056a14cd5d16ccf3]: Textual amendment: Word in [Sch. 4 para. 11(3)(a)](https://www.legislation.gov.uk/wsi/2020/89/schedule/4/paragraph/11/3/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [23](https://www.legislation.gov.uk/wsi/2023/1332/regulation/23)

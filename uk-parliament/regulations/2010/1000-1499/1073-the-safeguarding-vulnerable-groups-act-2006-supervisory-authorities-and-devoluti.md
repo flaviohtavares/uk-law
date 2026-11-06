@@ -46,13 +46,13 @@ Coming into force in accordance with article 1
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 45(9) and 54(1) and (2)(a) of the Safeguarding Vulnerable Groups Act 2006[^f00001]:
 
-## 1. Citation and commencement[^key-85069dfb2960744c0a684a909da5fd75]
+## 1. Citation and commencement[^c-85069dfb2960744c0a684a909da5fd75]
 
 (1) This Order may be cited as the Safeguarding Vulnerable Groups Act 2006 (Supervisory Authorities and Devolution Alignment) Order 2010 and, subject to paragraph (2), comes into force on 26th July 2010.
 
 (2) Article 2 comes into force twenty one days after the day on which this Order is laid.
 
-## 2. Supervisory authorities[^key-33a1970d79250d125ebdb8332066daf3]
+## 2. Supervisory authorities[^c-33a1970d79250d125ebdb8332066daf3]
 
 After section 45(7)(a), insert—
 
@@ -60,7 +60,7 @@ After section 45(7)(a), insert—
 
 .
 
-## 3. Devolution: alignment[^key-c94623ca9882f84065a2a92d27b7289a]
+## 3. Devolution: alignment[^c-c94623ca9882f84065a2a92d27b7289a]
 
 **Not yet in force.**
 
@@ -90,8 +90,8 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
 
-[^key-85069dfb2960744c0a684a909da5fd75]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/1073/article/1) in force at 26.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1073/article/1/1)
+[^c-85069dfb2960744c0a684a909da5fd75]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/1073/article/1) in force at 26.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1073/article/1/1)
 
-[^key-33a1970d79250d125ebdb8332066daf3]: Commencement: Art. 2 in force at 22.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1073/article/1/2)
+[^c-33a1970d79250d125ebdb8332066daf3]: Commencement: Art. 2 in force at 22.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1073/article/1/2)
 
-[^key-c94623ca9882f84065a2a92d27b7289a]: Textual amendment: Art. 3 revoked (25.7.2010) by [The Safeguarding Vulnerable Groups Act 2006 (Supervisory Authorities and Devolution Alignment) (Amendment) Order 2010 (S.I. 2010/1710)](https://www.legislation.gov.uk/uksi/2010/1710), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1710/article/1), [2](https://www.legislation.gov.uk/uksi/2010/1710/article/2)
+[^c-c94623ca9882f84065a2a92d27b7289a]: Textual amendment: Art. 3 revoked (25.7.2010) by [The Safeguarding Vulnerable Groups Act 2006 (Supervisory Authorities and Devolution Alignment) (Amendment) Order 2010 (S.I. 2010/1710)](https://www.legislation.gov.uk/uksi/2010/1710), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1710/article/1), [2](https://www.legislation.gov.uk/uksi/2010/1710/article/2)

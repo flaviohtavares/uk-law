@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Other assessment and maps of flood risk[^key-c7efa77c7e6967b591d1bf9bcad49714]
+## 73. Other assessment and maps of flood risk[^c-c7efa77c7e6967b591d1bf9bcad49714]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7efa77c7e6967b591d1bf9bcad49714]: Commencement: S. 73 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-c7efa77c7e6967b591d1bf9bcad49714]: Commencement: S. 73 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

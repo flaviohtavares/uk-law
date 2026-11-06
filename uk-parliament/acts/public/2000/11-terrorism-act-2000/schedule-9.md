@@ -192,7 +192,7 @@ Section 65.
 
 #### Notes
 
-**1.** Any offence specified in this Part of this Schedule [^c16857341]. . . is not a scheduled offence in any particular case in which the Advocate General for Northern Ireland[^key-813114b8b37429329e11f8e802d36e2a] certifies that it is not to be treated as a scheduled offence.
+**1.** Any offence specified in this Part of this Schedule [^c16857341]. . . is not a scheduled offence in any particular case in which the Advocate General for Northern Ireland[^c-813114b8b37429329e11f8e802d36e2a] certifies that it is not to be treated as a scheduled offence.
 
 **2.** An offence specified in paragraph 10(a) or (c) or 23[^c18718951] is a scheduled offence only where it is charged that the offence was committed in relation to or by means of nuclear material within the meaning of the [^c11209271]Nuclear Material (Offences) Act 1983 [^c16932851]. . .
 
@@ -224,7 +224,7 @@ Any extra-territorial offence as defined in section 1(3) of the [^c11209341]Crim
 
 #### Note
 
-An extra-territorial offence is not a scheduled offence in any particular case in which the Advocate General for Northern Ireland[^key-c7d0e3dd3b489fa92e0716d73e5a2566] certifies that it is not to be treated as a scheduled offence.
+An extra-territorial offence is not a scheduled offence in any particular case in which the Advocate General for Northern Ireland[^c-c7d0e3dd3b489fa92e0716d73e5a2566] certifies that it is not to be treated as a scheduled offence.
 
 ## Annotations
 
@@ -324,7 +324,7 @@ An extra-territorial offence is not a scheduled offence in any particular case i
 
 [^c16857341]: Textual amendment: Words in Sch. 9 Pt. I Note 1 repealed (19.2.2006) by [Terrorism (Northern Ireland) Act 2006 (c. 4)](https://www.legislation.gov.uk/ukpga/2006/4), ss. {3(1)(a)}, 5(2)(3), {Sch.}
 
-[^key-813114b8b37429329e11f8e802d36e2a]: Textual amendment: Words in Sch. 9 Pt. 1 substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/23); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(d)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/d)
+[^c-813114b8b37429329e11f8e802d36e2a]: Textual amendment: Words in Sch. 9 Pt. 1 substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/23); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(d)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/d)
 
 [^c18718951]: Textual amendment: Words in Sch. 9 Pt. 1 note 2 substituted (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 14(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/14/1), [Sch. 1 para. 30(3)](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/30/3); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
 
@@ -344,4 +344,4 @@ An extra-territorial offence is not a scheduled offence in any particular case i
 
 [^c11209341]: Marginal citation: [1975 c. 59](https://www.legislation.gov.uk/ukpga/1975/59).
 
-[^key-c7d0e3dd3b489fa92e0716d73e5a2566]: Textual amendment: Words in Sch. 9 Pt. 3 substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/23); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(d)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/d)
+[^c-c7d0e3dd3b489fa92e0716d73e5a2566]: Textual amendment: Words in Sch. 9 Pt. 3 substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/23); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(d)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/d)

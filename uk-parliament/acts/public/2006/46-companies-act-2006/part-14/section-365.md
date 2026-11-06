@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-016cd5a86776d76aca52b18fc6b93113]
+[^c-016cd5a86776d76aca52b18fc6b93113]
 
 (1) In this Part “**political expenditure**”, in relation to a company, means expenditure incurred by the company on—
 
@@ -31,7 +31,7 @@ summary: ''
   that, at the time of publication or dissemination, is capable of being reasonably regarded as intended to affect public support for a political party or other political organisation, or an independent election candidate, or
 - (b) activities on the part of the company that are capable of being reasonably regarded as intended—
   - (i) to affect public support for a political party or other political organisation, or an independent election candidate, or
-  - (ii) to influence voters in relation to any national or regional referendum held under the law of the United Kingdom[^key-9d2d330f34c221cba0561b085e98c3ed].
+  - (ii) to influence voters in relation to any national or regional referendum held under the law of the United Kingdom[^c-9d2d330f34c221cba0561b085e98c3ed].
 
 (2) For the purposes of this Part a political donation does not count as political expenditure.
 
@@ -41,6 +41,6 @@ summary: ''
 
 [^c20616501]: Modification: Ss. 362-379 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/9) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-016cd5a86776d76aca52b18fc6b93113]: Modification: Pts. 1-39 modified (31.12.2020) by Regulation (EC) No. 2157/2001, Art. AAA1(3) (as inserted by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-016cd5a86776d76aca52b18fc6b93113]: Modification: Pts. 1-39 modified (31.12.2020) by Regulation (EC) No. 2157/2001, Art. AAA1(3) (as inserted by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-9d2d330f34c221cba0561b085e98c3ed]: Textual amendment: Words in [s. 365(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2006/46/section/365/1/b/ii) substituted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2019/348/schedule/1/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d2d330f34c221cba0561b085e98c3ed]: Textual amendment: Words in [s. 365(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2006/46/section/365/1/b/ii) substituted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2019/348/schedule/1/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

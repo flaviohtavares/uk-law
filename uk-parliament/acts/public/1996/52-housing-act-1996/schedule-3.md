@@ -69,7 +69,7 @@ Section 55.
 
 .
 
-**6.**[^key-fac4e80c234e875e3088a5d02b5dac77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-fac4e80c234e875e3088a5d02b5dac77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.**[^c13157861][^c13157871] In section 87 of the Housing Associations Act 1985 (financial assistance for formation, management, &c. of housing associations), for subsection (1) substitute—
 
@@ -79,7 +79,7 @@ Section 55.
 
 ### Income and Corporation Taxes Act 1988 (c.1)
 
-**8.**[^key-02f2c20af5bedc1b6c0cf2f61bc95c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-02f2c20af5bedc1b6c0cf2f61bc95c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Housing (Scotland) Act 1988 (c.43)
 
@@ -93,9 +93,9 @@ Section 55.
 
 **10.**[^c13157891][^c13157901] Section 58 of the Housing Act 1988 (application of Housing Acts to certain transactions) shall cease to have effect.
 
-**11.**[^c13157911] In section 79(2) of the Housing Act 1988 (permitted disposals of land by housing action trusts) for paragraph (a) and the word “or” at the end of the paragraph substitute— *(affected by repeal, see note)*[^key-e1540308f320cade2a33a32580afb619]
+**11.**[^c13157911] In section 79(2) of the Housing Act 1988 (permitted disposals of land by housing action trusts) for paragraph (a) and the word “or” at the end of the paragraph substitute— *(affected by repeal, see note)*[^c-e1540308f320cade2a33a32580afb619]
 
-> - (a) to a registered social landlord (within the meaning of Part I of the Housing Act 1996), or *(affected by repeal, see note)*[^key-e1540308f320cade2a33a32580afb619]
+> - (a) to a registered social landlord (within the meaning of Part I of the Housing Act 1996), or *(affected by repeal, see note)*[^c-e1540308f320cade2a33a32580afb619]
 
 .
 
@@ -117,13 +117,13 @@ Section 55.
 
 [^c13157841]: Modification: Sch. 3 para. 5 extended (16.9.1996) by [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3),Sch. para. 1
 
-[^key-fac4e80c234e875e3088a5d02b5dac77]: Textual amendment: Sch. 3 para. 6 repealed (1.4.2009) by [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2)
+[^c-fac4e80c234e875e3088a5d02b5dac77]: Textual amendment: Sch. 3 para. 6 repealed (1.4.2009) by [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2)
 
 [^c13157861]: Extent: Sch. 3 para. 7: the extent of amendments/repeals of Housing Associations Act 1985 is as mentioned in s. 231(1)(4)(a)
 
 [^c13157871]: Commencement: Sch. 3 para. 7 wholly in force 1.10.1996; Sch. 3 para. 7 not in force at Royal Assent see s. 232(1)-(3); Sch. 3 para. 7 in force for certain purposes at 1.8.1996 by [S.I. 1996/2048](https://www.legislation.gov.uk/uksi/1996/2048), [art. 4](https://www.legislation.gov.uk/uksi/1996/2048/article/4) and in force at 1.10.1996 to the extent not already in force by [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/1996/2402/schedule/paragraph/1)
 
-[^key-02f2c20af5bedc1b6c0cf2f61bc95c87]: Textual amendment: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/1996/52/schedule/3/paragraph/8) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-02f2c20af5bedc1b6c0cf2f61bc95c87]: Textual amendment: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/1996/52/schedule/3/paragraph/8) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c13157881]: Textual amendment: Sch. 3 para. 9 repealed (1.11.2001) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 112](https://www.legislation.gov.uk/asp/2001/10/section/112), [Sch. 10 para. 24](https://www.legislation.gov.uk/asp/2001/10/schedule/10/paragraph/24); [S.S.I. 2001/397](https://www.legislation.gov.uk/ssi/2001/397), [art. 2(2)](https://www.legislation.gov.uk/ssi/2001/397/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2001/397/schedule) Table (subject to transitional provisions in arts. 3-6)
 
@@ -133,4 +133,4 @@ Section 55.
 
 [^c13157911]: Modification: Sch. 3 para. 11 extended (16.9.1996) by [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3),Sch. para. 1
 
-[^key-e1540308f320cade2a33a32580afb619]: Textual amendment: Sch. 3 para. 11 omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 10](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/10)
+[^c-e1540308f320cade2a33a32580afb619]: Textual amendment: Sch. 3 para. 11 omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 10](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/10)

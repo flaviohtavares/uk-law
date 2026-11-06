@@ -29,11 +29,11 @@ summary: ''
 
 (3) In paragraph (2) “**relevant Department**” means—
 
-- (a) DOE, in the case of an offence alleged to have been committed in providing any information or making any application under or for the purposes of any provision in Articles 107 to 112 or[^key-a3576390e0967e01818a0323819e1a9f] in Articles 118 to 123;
+- (a) DOE, in the case of an offence alleged to have been committed in providing any information or making any application under or for the purposes of any provision in Articles 107 to 112 or[^c-a3576390e0967e01818a0323819e1a9f] in Articles 118 to 123;
 - (b) the Department in any other case.
 
 ## Annotations
 
 [^c20619721]: Commencement: Art. 267 wholly in operation at 1.4.2007, see art. 1(2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-a3576390e0967e01818a0323819e1a9f]: Textual amendment: Words in [art. 267(3)(a)](https://www.legislation.gov.uk/nisi/2006/3336/article/267/3/a) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 19(9)](https://www.legislation.gov.uk/nia/2016/13/section/19/9), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(1) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))
+[^c-a3576390e0967e01818a0323819e1a9f]: Textual amendment: Words in [art. 267(3)(a)](https://www.legislation.gov.uk/nisi/2006/3336/article/267/3/a) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 19(9)](https://www.legislation.gov.uk/nia/2016/13/section/19/9), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(1) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))

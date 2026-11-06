@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Resumption of investigation of complaint after disciplinary or criminal proceedings[^key-cba0821d8150982a714b0d6b59f02f8c]
+## 41. Resumption of investigation of complaint after disciplinary or criminal proceedings[^c-cba0821d8150982a714b0d6b59f02f8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ the Commissioner or appropriate authority (as the case may be) must determine wh
 
 ## Annotations
 
-[^key-cba0821d8150982a714b0d6b59f02f8c]: Commencement: Reg. 41 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-cba0821d8150982a714b0d6b59f02f8c]: Commencement: Reg. 41 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

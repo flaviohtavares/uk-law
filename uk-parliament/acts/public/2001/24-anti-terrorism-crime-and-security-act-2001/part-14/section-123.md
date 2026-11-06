@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Effect of report[^key-675b45da9dd0ef6035fdb4673740d567]
+## 123. Effect of report[^c-675b45da9dd0ef6035fdb4673740d567]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-675b45da9dd0ef6035fdb4673740d567]: Textual amendment: [S. 123](https://www.legislation.gov.uk/ukpga/2001/24/section/123) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+[^c-675b45da9dd0ef6035fdb4673740d567]: Textual amendment: [S. 123](https://www.legislation.gov.uk/ukpga/2001/24/section/123) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)

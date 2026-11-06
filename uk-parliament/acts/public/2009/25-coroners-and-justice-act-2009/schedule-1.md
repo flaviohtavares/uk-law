@@ -28,14 +28,14 @@ Section 11
 
 *Extent: E+W*
 
-**1.**[^key-9f378558b2300f425a6bbdde1f7a5dcf] (1) A senior coroner must suspend an investigation under this Part of this Act into a person's death in the following cases.
+**1.**[^c-9f378558b2300f425a6bbdde1f7a5dcf] (1) A senior coroner must suspend an investigation under this Part of this Act into a person's death in the following cases.
 
 (2) The first case is where a prosecuting authority requests the coroner to suspend the investigation on the ground that a person may be charged with—
 
 - (a) a homicide offence involving the death of the deceased, or
 - (b) an offence (other than a service offence) that is alleged to be a related offence.
 
-(3) The second case is where a Provost Marshal of a service police force, the Provost Marshal for serious crime[^key-b41b3d77e44d98ff4001ce48c9159af6] or the Director of Service Prosecutions requests the coroner to suspend the investigation on the ground that a person may be charged with—
+(3) The second case is where a Provost Marshal of a service police force, the Provost Marshal for serious crime[^c-b41b3d77e44d98ff4001ce48c9159af6] or the Director of Service Prosecutions requests the coroner to suspend the investigation on the ground that a person may be charged with—
 
 - (a) the service equivalent of a homicide offence involving the death of the deceased, or
 - (b) a service offence that is alleged to be a related offence.
@@ -59,11 +59,11 @@ Section 11
   - (b) an offence under any of the following provisions of the Road Traffic Act 1988 (c. 52)—
     - (i) section 1 (causing death by dangerous driving);
     - (ii) section 2B (causing death by careless, or inconsiderate, driving);
-    - (iii) section 3ZB (causing death by driving: unlicensed [^key-af1f3dfe73af7c5ef301aa097b2d4e5a]... or uninsured drivers);
-    - (iiia) section 3ZC (causing death by driving: disqualified drivers);[^key-4cfd581afe24faa026a5a7996aa1e386]
+    - (iii) section 3ZB (causing death by driving: unlicensed [^c-af1f3dfe73af7c5ef301aa097b2d4e5a]... or uninsured drivers);
+    - (iiia) section 3ZC (causing death by driving: disqualified drivers);[^c-4cfd581afe24faa026a5a7996aa1e386]
     - (iv) section 3A (causing death by careless driving when under the influence of drink or drugs);
   - (c) an offence under section 2(1) of the Suicide Act 1961 (c. 60) (encouraging or assisting suicide);
-  - (d) an offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (c. 28) of causing or allowing the death of a child or vulnerable adult[^key-c948dbeb153044c7b7b45ff86a22d411];
+  - (d) an offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (c. 28) of causing or allowing the death of a child or vulnerable adult[^c-c948dbeb153044c7b7b45ff86a22d411];
 - “**related offence**” means an offence (including a service offence) that—
   - (a) involves the death of the deceased, but is not a homicide offence or the service equivalent of a homicide offence, or
   - (b) involves the death of a person other than the deceased (whether or not it is a homicide offence or the service equivalent of a homicide offence) and is committed in circumstances connected with the death of the deceased;
@@ -73,7 +73,7 @@ Section 11
 
 *Extent: E+W*
 
-**2.**[^key-1be81e2b5e0193941cb64933e9e14981] (1) Subject to sub-paragraph (6), a senior coroner must suspend an investigation under this Part of this Act into a person's death in the following cases.
+**2.**[^c-1be81e2b5e0193941cb64933e9e14981] (1) Subject to sub-paragraph (6), a senior coroner must suspend an investigation under this Part of this Act into a person's death in the following cases.
 
 (2) The first case is where the coroner—
 
@@ -108,7 +108,7 @@ and the prosecuting authority requests the coroner to suspend the investigation.
 
 *Extent: E+W*
 
-**3.**[^key-4fd1091b65c74d4a0546e93cf44a5d9a] (1) Subject to sub-paragraph (2), a senior coroner must suspend an investigation under this Part of this Act into a person's death if—
+**3.**[^c-4fd1091b65c74d4a0546e93cf44a5d9a] (1) Subject to sub-paragraph (2), a senior coroner must suspend an investigation under this Part of this Act into a person's death if—
 
 - (a) the Lord Chancellor requests the coroner to do so on the ground that the cause of death is likely to be adequately investigated by an inquiry under the Inquiries Act 2005 (c. 12) that is being or is to be held,
 - (b) a senior judge has been appointed under that Act as chairman of the inquiry, and
@@ -123,7 +123,7 @@ In paragraph (b) “**senior judge**” means a judge of the High Court or the C
 - (a) a reference above in this paragraph to suspending the investigation is to be read as a reference to continuing the suspension of the investigation;
 - (b) if the suspension of the investigation is continued under this paragraph, the investigation is to be treated for the purposes of paragraphs 1(4), 7 and 9 of this Schedule as suspended under this paragraph (and not as suspended under paragraph 1).
 
-**4.**[^key-f66e7925871f4eb0cb79f74670ce63a1] (1) This paragraph applies where an investigation is suspended under paragraph 3 on the basis that the cause of death is likely to be adequately investigated by an inquiry under the Inquiries Act 2005 (c. 12).
+**4.**[^c-f66e7925871f4eb0cb79f74670ce63a1] (1) This paragraph applies where an investigation is suspended under paragraph 3 on the basis that the cause of death is likely to be adequately investigated by an inquiry under the Inquiries Act 2005 (c. 12).
 
 (2) The terms of reference of the inquiry must be such that it has as its purpose, or among its purposes, the purpose set out in section 5(1) above (read with section 5(2) where applicable); and section 5 of the Inquiries Act 2005 has effect accordingly.
 
@@ -131,13 +131,13 @@ In paragraph (b) “**senior judge**” means a judge of the High Court or the C
 
 *Extent: E+W*
 
-**5.**[^key-cf19b29c5a318c31e2c106cea9a619ea] A senior coroner may suspend an investigation under this Part of this Act into a person's death in any case if it appears to the coroner that it would be appropriate to do so.
+**5.**[^c-cf19b29c5a318c31e2c106cea9a619ea] A senior coroner may suspend an investigation under this Part of this Act into a person's death in any case if it appears to the coroner that it would be appropriate to do so.
 
 #### Effect of suspension
 
 *Extent: E+W*
 
-**6.**[^key-c0e47e24df300bdb4451475c5ab3c3db] (1) Where an investigation is suspended under this Schedule, the senior coroner must adjourn any inquest that is being held as part of the investigation.
+**6.**[^c-c0e47e24df300bdb4451475c5ab3c3db] (1) Where an investigation is suspended under this Schedule, the senior coroner must adjourn any inquest that is being held as part of the investigation.
 
 (2) Where an inquest held with a jury is adjourned under this paragraph, the senior coroner may discharge the jury.
 
@@ -147,11 +147,11 @@ In paragraph (b) “**senior judge**” means a judge of the High Court or the C
 
 #### Resumption of investigation suspended under paragraph 1
 
-**7.**[^key-e99067ca2cd03cb43ecd5542463c9bbd] An investigation that is suspended under paragraph 1 must be resumed once the period under sub-paragraph (4) of that paragraph, or as the case may be the extended period under sub-paragraph (5) of that paragraph, has ended.
+**7.**[^c-e99067ca2cd03cb43ecd5542463c9bbd] An investigation that is suspended under paragraph 1 must be resumed once the period under sub-paragraph (4) of that paragraph, or as the case may be the extended period under sub-paragraph (5) of that paragraph, has ended.
 
 #### Resumption of investigation suspended under paragraph 2
 
-**8.**[^key-94da174e5fa5be6e2005a4cad8259652] (1) An investigation that is suspended under paragraph 2 may not be resumed unless, but must be resumed if, the senior coroner thinks that there is sufficient reason for resuming it.
+**8.**[^c-94da174e5fa5be6e2005a4cad8259652] (1) An investigation that is suspended under paragraph 2 may not be resumed unless, but must be resumed if, the senior coroner thinks that there is sufficient reason for resuming it.
 
 (2) Subject to sub-paragraph (3)—
 
@@ -175,7 +175,7 @@ In paragraph (b) “**senior judge**” means a judge of the High Court or the C
 
 #### Resumption of investigation suspended under paragraph 3
 
-**9.**[^key-30c5ea380a7aaca114249b22ec958e5f] (1) Where an investigation is suspended under paragraph 3—
+**9.**[^c-30c5ea380a7aaca114249b22ec958e5f] (1) Where an investigation is suspended under paragraph 3—
 
 - (a) it may not be resumed unless, but must be resumed if, the senior coroner thinks that there is sufficient reason for resuming it;
 - (b) it may not be resumed before the end of the period of 28 days beginning with the relevant day;
@@ -215,13 +215,13 @@ In paragraph (b) “**senior judge**” means a judge of the High Court or the C
 
 #### Resumption of investigation suspended under paragraph 5
 
-**10.**[^key-195c92dc28f214fc47ce237fd9edfff1] An investigation that is suspended under paragraph 5 may be resumed at any time if the senior coroner thinks that there is sufficient reason for resuming it.
+**10.**[^c-195c92dc28f214fc47ce237fd9edfff1] An investigation that is suspended under paragraph 5 may be resumed at any time if the senior coroner thinks that there is sufficient reason for resuming it.
 
 #### Supplemental
 
-**11.**[^key-19a9c077213b0e309d57eca41217fdfc] (1) Where an investigation is resumed under this Schedule, the senior coroner must resume any inquest that was adjourned under paragraph 6.
+**11.**[^c-19a9c077213b0e309d57eca41217fdfc] (1) Where an investigation is resumed under this Schedule, the senior coroner must resume any inquest that was adjourned under paragraph 6.
 
-(2) Sub-paragraphs (3) and (4)[^key-88193f2d667e85ef6856227b3710e738] apply, in place of section 7, to an inquest that is resumed under this paragraph.
+(2) Sub-paragraphs (3) and (4)[^c-88193f2d667e85ef6856227b3710e738] apply, in place of section 7, to an inquest that is resumed under this paragraph.
 
 (3) The resumed inquest may be held with a jury if the senior coroner thinks that there is sufficient reason for it to be held with one.
 
@@ -230,40 +230,40 @@ In paragraph (b) “**senior judge**” means a judge of the High Court or the C
 - (a) if at least seven persons who were members of the original jury are available to serve at the resumed inquest, the resumed inquest must be held with a jury consisting of those persons;
 - (b) if not, or if the original jury was discharged under paragraph 6(2), a new jury must be summoned.
 
-(5)[^key-a7d6847ccfaa6cf09cbc9fb475402f77] Where an inquest is resumed under this paragraph without a jury (whether or not it had one before the adjournment), the senior coroner must consider, in accordance with section 9C, whether the resumed inquest is to be held at a hearing or in writing.
+(5)[^c-a7d6847ccfaa6cf09cbc9fb475402f77] Where an inquest is resumed under this paragraph without a jury (whether or not it had one before the adjournment), the senior coroner must consider, in accordance with section 9C, whether the resumed inquest is to be held at a hearing or in writing.
 
 ## Annotations
 
-[^key-9f378558b2300f425a6bbdde1f7a5dcf]: Commencement: Sch. 1 para. 1 in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
+[^c-9f378558b2300f425a6bbdde1f7a5dcf]: Commencement: Sch. 1 para. 1 in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
 
-[^key-b41b3d77e44d98ff4001ce48c9159af6]: Textual amendment: Words in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/1/3) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 40](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/40); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-b41b3d77e44d98ff4001ce48c9159af6]: Textual amendment: Words in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/1/3) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 40](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/40); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
 
-[^key-af1f3dfe73af7c5ef301aa097b2d4e5a]: Textual amendment: Word in Sch. 1 para. 1(6) omitted (13.4.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 6 para. 12(2)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/6/paragraph/12/2) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2015/2/section/29/5)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 75](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/75)
+[^c-af1f3dfe73af7c5ef301aa097b2d4e5a]: Textual amendment: Word in Sch. 1 para. 1(6) omitted (13.4.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 6 para. 12(2)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/6/paragraph/12/2) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2015/2/section/29/5)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 75](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/75)
 
-[^key-4cfd581afe24faa026a5a7996aa1e386]: Textual amendment: Words in Sch. 1 para. 1(6) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 6 para. 12(3)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/6/paragraph/12/3) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2015/2/section/29/5)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 75](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/75)
+[^c-4cfd581afe24faa026a5a7996aa1e386]: Textual amendment: Words in Sch. 1 para. 1(6) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 6 para. 12(3)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/6/paragraph/12/3) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2015/2/section/29/5)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 75](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/75)
 
-[^key-c948dbeb153044c7b7b45ff86a22d411]: Textual amendment: Words in Sch. 1 para. 1(6) substituted (2.7.2012) by [Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4)](https://www.legislation.gov.uk/ukpga/2012/4), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2012/4/section/4/2), [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2012/4/schedule/paragraph/12); [S.I. 2012/1432](https://www.legislation.gov.uk/uksi/2012/1432), [art. 2](https://www.legislation.gov.uk/uksi/2012/1432/article/2)
+[^c-c948dbeb153044c7b7b45ff86a22d411]: Textual amendment: Words in Sch. 1 para. 1(6) substituted (2.7.2012) by [Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4)](https://www.legislation.gov.uk/ukpga/2012/4), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2012/4/section/4/2), [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2012/4/schedule/paragraph/12); [S.I. 2012/1432](https://www.legislation.gov.uk/uksi/2012/1432), [art. 2](https://www.legislation.gov.uk/uksi/2012/1432/article/2)
 
-[^key-1be81e2b5e0193941cb64933e9e14981]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/2) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
+[^c-1be81e2b5e0193941cb64933e9e14981]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/2) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
 
-[^key-4fd1091b65c74d4a0546e93cf44a5d9a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/3) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
+[^c-4fd1091b65c74d4a0546e93cf44a5d9a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/3) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
 
-[^key-f66e7925871f4eb0cb79f74670ce63a1]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/4) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
+[^c-f66e7925871f4eb0cb79f74670ce63a1]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/4) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
 
-[^key-cf19b29c5a318c31e2c106cea9a619ea]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/5) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
+[^c-cf19b29c5a318c31e2c106cea9a619ea]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/5) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
 
-[^key-c0e47e24df300bdb4451475c5ab3c3db]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/6) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
+[^c-c0e47e24df300bdb4451475c5ab3c3db]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/6) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
 
-[^key-e99067ca2cd03cb43ecd5542463c9bbd]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/7) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
+[^c-e99067ca2cd03cb43ecd5542463c9bbd]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/7) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
 
-[^key-94da174e5fa5be6e2005a4cad8259652]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/8) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
+[^c-94da174e5fa5be6e2005a4cad8259652]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/8) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
 
-[^key-30c5ea380a7aaca114249b22ec958e5f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/9) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
+[^c-30c5ea380a7aaca114249b22ec958e5f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/9) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
 
-[^key-195c92dc28f214fc47ce237fd9edfff1]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/10) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
+[^c-195c92dc28f214fc47ce237fd9edfff1]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/10) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
 
-[^key-19a9c077213b0e309d57eca41217fdfc]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/11) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
+[^c-19a9c077213b0e309d57eca41217fdfc]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/11) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/h)
 
-[^key-88193f2d667e85ef6856227b3710e738]: Textual amendment: Words in [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/11/2) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 40(6)(a)](https://www.legislation.gov.uk/ukpga/2022/35/section/40/6/a), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+[^c-88193f2d667e85ef6856227b3710e738]: Textual amendment: Words in [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/11/2) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 40(6)(a)](https://www.legislation.gov.uk/ukpga/2022/35/section/40/6/a), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
 
-[^key-a7d6847ccfaa6cf09cbc9fb475402f77]: Textual amendment: [Sch. 1 para. 11(5)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/11/5) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2022/35/section/40/6/b), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+[^c-a7d6847ccfaa6cf09cbc9fb475402f77]: Textual amendment: [Sch. 1 para. 11(5)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/1/paragraph/11/5) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2022/35/section/40/6/b), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)

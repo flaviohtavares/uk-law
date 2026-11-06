@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Reduction of some surviving spouses' pensions[^key-f69e74674b339c6a825a7c267e480cdd]
+## 41. Reduction of some surviving spouses' pensions[^c-f69e74674b339c6a825a7c267e480cdd]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f69e74674b339c6a825a7c267e480cdd]: Commencement: Reg. 41 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-f69e74674b339c6a825a7c267e480cdd]: Commencement: Reg. 41 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

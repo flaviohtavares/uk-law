@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Amendment to regulation 190[^key-8e74adbc40f52814fb0abb3ae85ec19b]
+## 81. Amendment to regulation 190[^c-8e74adbc40f52814fb0abb3ae85ec19b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 190(1)(b) (signal detection: holder obligation)[^f00091], for “a
 
 ## Annotations
 
-[^key-8e74adbc40f52814fb0abb3ae85ec19b]: Commencement: [Reg. 81](https://www.legislation.gov.uk/uksi/2024/832/regulation/81) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-8e74adbc40f52814fb0abb3ae85ec19b]: Commencement: [Reg. 81](https://www.legislation.gov.uk/uksi/2024/832/regulation/81) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00091]: Footnote: Paragraph (1) was substituted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies to orders and regulations under this Act made by the Secretary of State, the Minister for the Civil Service,[^key-d7e5055d0d5721b09cbd057b44d6eae4] the Treasury or the Lord Chancellor.
+(1) This section applies to orders and regulations under this Act made by the Secretary of State, the Minister for the Civil Service,[^c-d7e5055d0d5721b09cbd057b44d6eae4] the Treasury or the Lord Chancellor.
 
 (2) Any order or regulations may—
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7e5055d0d5721b09cbd057b44d6eae4]: Textual amendment: Words in [s. 89(1)](https://www.legislation.gov.uk/ukpga/2011/5/section/89/1) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2014/500/article/5/8) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-d7e5055d0d5721b09cbd057b44d6eae4]: Textual amendment: Words in [s. 89(1)](https://www.legislation.gov.uk/ukpga/2011/5/section/89/1) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2014/500/article/5/8) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 354. Commission Implementing Regulation (EU) 2017/373: introduction[^key-b0eb8d1c4cafd07905456154f228eedf]
+## 354. Commission Implementing Regulation (EU) 2017/373: introduction[^c-b0eb8d1c4cafd07905456154f228eedf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Regulation (EU) 2017/373 of 1 March 2017 laying down com
 
 ## Annotations
 
-[^key-b0eb8d1c4cafd07905456154f228eedf]: Commencement: Reg. 354 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b0eb8d1c4cafd07905456154f228eedf]: Commencement: Reg. 354 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

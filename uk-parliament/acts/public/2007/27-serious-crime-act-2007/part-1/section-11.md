@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Restrictions on oral answers[^key-7555b8c2e5669e5a157262641f66261f]
+## 11. Restrictions on oral answers[^c-7555b8c2e5669e5a157262641f66261f]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ A serious crime prevention order may not require a person to answer questions, o
 
 ## Annotations
 
-[^key-7555b8c2e5669e5a157262641f66261f]: Commencement: S. 11 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)
+[^c-7555b8c2e5669e5a157262641f66261f]: Commencement: S. 11 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)

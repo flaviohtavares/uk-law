@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Combined reports[^key-9278cae16978546f17c81ff117d7669f]
+## 152. Combined reports[^c-9278cae16978546f17c81ff117d7669f]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ is to be read, so far as necessary, as a reference to the publication of the com
 
 ## Annotations
 
-[^key-9278cae16978546f17c81ff117d7669f]: Commencement: S. 152 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-9278cae16978546f17c81ff117d7669f]: Commencement: S. 152 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)

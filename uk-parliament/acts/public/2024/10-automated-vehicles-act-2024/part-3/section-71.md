@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Obtaining reports from police[^key-9cb8343cdde05a6d3359a303b97bd960]
+## 71. Obtaining reports from police[^c-9cb8343cdde05a6d3359a303b97bd960]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cb8343cdde05a6d3359a303b97bd960]: Commencement: S. 71 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-9cb8343cdde05a6d3359a303b97bd960]: Commencement: S. 71 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

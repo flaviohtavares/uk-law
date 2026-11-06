@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. End of temporary listing[^key-89aebe7e9552d146d863e27df6b688c4][^key-2388d23ef4e3d006f84638294dbeb15e]
+## 85. End of temporary listing[^c-89aebe7e9552d146d863e27df6b688c4][^c-2388d23ef4e3d006f84638294dbeb15e]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89aebe7e9552d146d863e27df6b688c4]: Commencement: S. 85 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-89aebe7e9552d146d863e27df6b688c4]: Commencement: S. 85 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-2388d23ef4e3d006f84638294dbeb15e]: Commencement: [S. 85](https://www.legislation.gov.uk/asc/2023/3/section/85) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-2388d23ef4e3d006f84638294dbeb15e]: Commencement: [S. 85](https://www.legislation.gov.uk/asc/2023/3/section/85) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

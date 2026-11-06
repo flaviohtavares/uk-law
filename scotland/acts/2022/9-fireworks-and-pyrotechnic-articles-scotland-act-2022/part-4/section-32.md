@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Power to make further provision[^key-7170c72aa15e9f1a9411d4cbc0b977d9][^key-161725af5289bf50fba07c8b98a18ecd]
+## 32. Power to make further provision[^c-7170c72aa15e9f1a9411d4cbc0b977d9][^c-161725af5289bf50fba07c8b98a18ecd]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7170c72aa15e9f1a9411d4cbc0b977d9]: Commencement: S. 32 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-7170c72aa15e9f1a9411d4cbc0b977d9]: Commencement: S. 32 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-161725af5289bf50fba07c8b98a18ecd]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2022/9/section/32) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)
+[^c-161725af5289bf50fba07c8b98a18ecd]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2022/9/section/32) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)

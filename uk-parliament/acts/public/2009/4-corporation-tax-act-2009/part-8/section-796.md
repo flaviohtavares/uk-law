@@ -43,14 +43,14 @@ summary: ''
 
 - “**director**”, in relation to a company—
   - (a) has the meaning given by section 67(1) of ITEPA 2003 (read with section 67(2) of that Act) and
-  - (b) includes any person falling within section 452(1) of CTA 2010[^key-e52bfe1eb15880171481b6e56afd4e87] ,
+  - (b) includes any person falling within section 452(1) of CTA 2010[^c-e52bfe1eb15880171481b6e56afd4e87] ,
 - “**controlling director**”, in relation to a company, means a director of the company who has control of it, and
 - “group” and “principal company” have the meaning that would be given by Chapter 8 if in that Chapter for references to 75% subsidiaries there were substituted references to 51% subsidiaries.
 
-(5) In subsection (4) “**control**” is to be read in accordance with sections 450 and 451 of CTA 2010[^key-e29460fa5ff169197ea44b519a578dd5].
+(5) In subsection (4) “**control**” is to be read in accordance with sections 450 and 451 of CTA 2010[^c-e29460fa5ff169197ea44b519a578dd5].
 
 ## Annotations
 
-[^key-e52bfe1eb15880171481b6e56afd4e87]: Textual amendment: Words in s. 796(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 653(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/653/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e52bfe1eb15880171481b6e56afd4e87]: Textual amendment: Words in s. 796(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 653(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/653/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-e29460fa5ff169197ea44b519a578dd5]: Textual amendment: Words in s. 796(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 653(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/653/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e29460fa5ff169197ea44b519a578dd5]: Textual amendment: Words in s. 796(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 653(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/653/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

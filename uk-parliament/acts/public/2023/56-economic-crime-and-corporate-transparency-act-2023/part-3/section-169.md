@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Resolving inconsistencies in the register[^key-93a9ef535c16fa137b3a456ed5a59586][^key-66e1315bdcb2490b73638ca6afc8cbcd]
+## 169. Resolving inconsistencies in the register[^c-93a9ef535c16fa137b3a456ed5a59586][^c-66e1315bdcb2490b73638ca6afc8cbcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93a9ef535c16fa137b3a456ed5a59586]: Commencement: S. 169 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-93a9ef535c16fa137b3a456ed5a59586]: Commencement: S. 169 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-66e1315bdcb2490b73638ca6afc8cbcd]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2023/56/section/169) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z53)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z53)
+[^c-66e1315bdcb2490b73638ca6afc8cbcd]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2023/56/section/169) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z53)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z53)

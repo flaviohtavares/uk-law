@@ -23,7 +23,7 @@ summary: ''
 (1) This regulation applies if—
 
 - (a) the employment of one or more active members (“the transferring employees”) is transferred without their consent to a new employer,
-- (b) on that transfer the transferring employees cease to be eligible to be active members of this Section of[^key-ef44d8fcda28ea44b17f4b3a02ee42d9] the Scheme,
+- (b) on that transfer the transferring employees cease to be eligible to be active members of this Section of[^c-ef44d8fcda28ea44b17f4b3a02ee42d9] the Scheme,
 - (c) after that transfer the transferring employees become active members of another occupational pension scheme (“the new employer’s scheme”),
 - (d) the Secretary of State has agreed special terms for the making of transfer value payments in respect of the transferring employees to the new employer’s scheme, after consultation with the Scheme actuary, and
 - (e) the transferring employees have consented in writing to their rights being transferred in accordance with those terms.
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef44d8fcda28ea44b17f4b3a02ee42d9]: Textual amendment: Words in [reg. 2.F.14(1)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.14/1/b) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-ef44d8fcda28ea44b17f4b3a02ee42d9]: Textual amendment: Words in [reg. 2.F.14(1)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.14/1/b) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)

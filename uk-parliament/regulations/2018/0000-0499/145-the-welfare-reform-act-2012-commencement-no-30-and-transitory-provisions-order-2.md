@@ -47,13 +47,13 @@ The Secretary of State for Education makes the following Order in exercise of th
 
 The day appointed for the coming into force of section 147 of, and Schedule 14 to, the Welfare Reform Act 2012 (both of which deal with repeals) [^c22913671] insofar as they relate to section 512ZB(4) of the 1996 Act, is 31st March 2022.
 
-## 2A. Cessation of eligibility for a free school lunch in respect of certain persons[^key-739a215b0550932fda2f2a7cef6e42d0]
+## 2A. Cessation of eligibility for a free school lunch in respect of certain persons[^c-739a215b0550932fda2f2a7cef6e42d0]
 
 *Extent: E*
 
 A person who, on 16th August 2026 was eligible for a free school lunch by virtue of the transitory provision in article 3 of this Order, as it was in force on that date, ceases to be so eligible on 17th August 2026.
 
-## 3. Transitory provisions[^key-14248db4995d9e05e5c7b3612f87bdf9]
+## 3. Transitory provisions[^c-14248db4995d9e05e5c7b3612f87bdf9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -397,8 +397,8 @@ The following provisions of the Welfare Reform Act 2012 (c. 5) were brought into
 
 [^c22913671]: Marginal citation: [Schedule 14](https://www.legislation.gov.uk/uksi/2018/145/schedule/14), insofar as it relates to subsection (4) of section 512ZB of the Education Act 1996, repeals parts of that subsection relating to universal credit.
 
-[^key-739a215b0550932fda2f2a7cef6e42d0]: Textual amendment: [Art. 2A](https://www.legislation.gov.uk/uksi/2018/145/article/2A) inserted (E.) (17.8.2026) by [The Welfare Reform Act 2012 (Commencement No. 30 and Transitory Provisions) (Amendment) (England) Order 2026 (S.I. 2026/813)](https://www.legislation.gov.uk/uksi/2026/813), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/813/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2026/813/article/2/a)
+[^c-739a215b0550932fda2f2a7cef6e42d0]: Textual amendment: [Art. 2A](https://www.legislation.gov.uk/uksi/2018/145/article/2A) inserted (E.) (17.8.2026) by [The Welfare Reform Act 2012 (Commencement No. 30 and Transitory Provisions) (Amendment) (England) Order 2026 (S.I. 2026/813)](https://www.legislation.gov.uk/uksi/2026/813), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/813/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2026/813/article/2/a)
 
-[^key-14248db4995d9e05e5c7b3612f87bdf9]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2018/145/article/3) omitted (E.) (17.8.2026) by virtue of [The Welfare Reform Act 2012 (Commencement No. 30 and Transitory Provisions) (Amendment) (England) Order 2026 (S.I. 2026/813)](https://www.legislation.gov.uk/uksi/2026/813), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/813/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/813/article/2/b)
+[^c-14248db4995d9e05e5c7b3612f87bdf9]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2018/145/article/3) omitted (E.) (17.8.2026) by virtue of [The Welfare Reform Act 2012 (Commencement No. 30 and Transitory Provisions) (Amendment) (England) Order 2026 (S.I. 2026/813)](https://www.legislation.gov.uk/uksi/2026/813), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/813/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/813/article/2/b)
 
 [^c22913731]: Marginal citation: [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) (C. 42) was amended by [S.I. 2012/1440](https://www.legislation.gov.uk/uksi/2012/1440) (C. 55) and 2530 (C. 102).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Schools’ budget share adjustments[^key-44df9afac1a934804c741b41e7741774]
+## 25. Schools’ budget share adjustments[^c-44df9afac1a934804c741b41e7741774]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44df9afac1a934804c741b41e7741774]: Commencement: Reg. 25 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-44df9afac1a934804c741b41e7741774]: Commencement: Reg. 25 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

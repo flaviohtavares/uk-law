@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Parliamentary Commissioner for Administration[^key-27df7992edaa5e14e1f07ceeb65a791b][^key-64fce8e32f0351ff7e4e977bb6f7c78a]
+## 27. Parliamentary Commissioner for Administration[^c-27df7992edaa5e14e1f07ceeb65a791b][^c-64fce8e32f0351ff7e4e977bb6f7c78a]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27df7992edaa5e14e1f07ceeb65a791b]: Commencement: S. 27 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-27df7992edaa5e14e1f07ceeb65a791b]: Commencement: S. 27 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-64fce8e32f0351ff7e4e977bb6f7c78a]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2024/21/section/27) in force at 29.1.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/i)
+[^c-64fce8e32f0351ff7e4e977bb6f7c78a]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2024/21/section/27) in force at 29.1.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/i)

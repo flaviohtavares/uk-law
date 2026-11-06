@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Training etc of police volunteers[^c22718731][^key-4c0944a7b059ddcce95e1d6505428307]
+## 40. Training etc of police volunteers[^c22718731][^c-4c0944a7b059ddcce95e1d6505428307]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c22718731]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/3/section/40) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-4c0944a7b059ddcce95e1d6505428307]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/3/section/40) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/f) (as amended by S.I 2017/1162, reg. 2)
+[^c-4c0944a7b059ddcce95e1d6505428307]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/3/section/40) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/f) (as amended by S.I 2017/1162, reg. 2)

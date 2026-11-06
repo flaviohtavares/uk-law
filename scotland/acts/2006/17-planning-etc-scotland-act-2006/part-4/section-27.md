@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Enforcement charters[^key-0c090121d08a35bf30b69cf47843282a]
+## 27. Enforcement charters[^c-0c090121d08a35bf30b69cf47843282a]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ After section 158 of the principal Act insert—
 
 ## Annotations
 
-[^key-0c090121d08a35bf30b69cf47843282a]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2006/17/section/27) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-0c090121d08a35bf30b69cf47843282a]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2006/17/section/27) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

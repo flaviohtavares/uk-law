@@ -43,7 +43,7 @@ Whereas the Secretary of State is a Minister designated for the purposes of sect
 
 And whereas, in so far as the following Regulations are made in exercise of the powers conferred by section 130A of the Merchant Shipping Act 1995 [^c5062051], the Secretary of State has consulted the organisations referred to in section 306(4) of that Act,
 
-Now, therefore, the Secretary of State, in exercise of the powers conferred upon him by section 2(2) of the European Communities Act 1972 and sections 130A(1) and (2), 130B(1), (2) and (5) to (7), 130C(2) and (7) and 130D(1) and (2) of the Merchant Shipping Act 1995 and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-c7b5ceee38c379e2dd23f9aa1841517d]
+Now, therefore, the Secretary of State, in exercise of the powers conferred upon him by section 2(2) of the European Communities Act 1972 and sections 130A(1) and (2), 130B(1), (2) and (5) to (7), 130C(2) and (7) and 130D(1) and (2) of the Merchant Shipping Act 1995 and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^c-c7b5ceee38c379e2dd23f9aa1841517d]
 
 ## 1. Citation, commencement and revocation
 
@@ -62,7 +62,7 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred upon
 - “**crude oil**” means any liquid hydrocarbon mixture occurring naturally in the earth, whether or not treated to render it suitable for transportation, and includes—
   - (a) crude oil from which certain distillate fractions may have been removed; and
   - (b) crude oil to which certain distillate fractions may have been added;
-- “the Directive” means[^key-fcc948b2aeefcf713e1ac60c853a2cee] [Directive 2000/59/EC](https://www.legislation.gov.uk/eudr/2000/0059) of the European Parliament and Council on port reception facilities for ship-generated waste and cargo residues as amended;
+- “the Directive” means[^c-fcc948b2aeefcf713e1ac60c853a2cee] [Directive 2000/59/EC](https://www.legislation.gov.uk/eudr/2000/0059) of the European Parliament and Council on port reception facilities for ship-generated waste and cargo residues as amended;
 - “**fishing vessel**” means any ship equipped or used commercially for catching fish or other living resources of the sea;
 - “**fuel oil**” means any oil used as fuel in connection with the propulsion and auxiliary machinery of the ship in which such oil is carried;
 - “**IBC Code**” means the 1998 Edition of the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk published by the International Maritime Organization;
@@ -70,7 +70,7 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred upon
 - “master”, in the application of these Regulations to hovercraft, includes the captain of a hovercraft;
 - “**Merchant Shipping Notice**” means a Notice described as such and issued by the Maritime and Coastguard Agency; and any reference to a particular Merchant Shipping Notice includes a reference to any document amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time;
 - “**noxious liquid substance**” means either a substance listed as such in MEPC Circular 2/CIRC.1 or a Category A, B, C or D substance, but does not include cargo residues; and for this purpose “**MEPC Circular**” means a circular of that description issued by the Marine Environment Protection Committee of the International Maritime Organization;
-- “**oil**” means petroleum in any form including crude oil, fuel oil, sludge, oil refuse and refined products, other than oil-like substances which are subject to the Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018[^key-d2d0f37af8d05c68c1de7d6a479584c0];
+- “**oil**” means petroleum in any form including crude oil, fuel oil, sludge, oil refuse and refined products, other than oil-like substances which are subject to the Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018[^c-d2d0f37af8d05c68c1de7d6a479584c0];
 - “**oily mixture**” means a mixture with any oil content;
 - “**operational waste**” means all cargo-associated waste and maintenance waste; and for this purpose “**cargo-associated waste**” means all materials which have become wastes as a result of use on board a ship for cargo stowage and handling and includes dunnage, shoring, pallets, lining and packing materials, plywood, paper, cardboard, wire and steel strapping;
 - “**owner**” means the owner, charterer, manager or operator of a ship;
@@ -84,25 +84,25 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred upon
   - (c) ship-generated waste;
 - “**recreational craft**” means a ship of any type, regardless of the means of propulsion, which is intended for sports or leisure purposes;
 - “**relevant inspector**” means a person mentioned in paragraphs (a), (b) or (c) of section 258(1) of the Act;
-- “sewage” means—[^key-8c7df8fdea233c5048b2468343814aed]
+- “sewage” means—[^c-8c7df8fdea233c5048b2468343814aed]
   - (a) drainage and other wastes from any form of toilets and urinals,
   - (b) drainage from medical premises (including, for example, a dispensary or sick bay) via wash basins, wash tubs and scuppers located in such premises,
   - (c) drainage from spaces containing living animals, or
   - (d) other waste waters when mixed with any drainage referred to in paragraph (a), (b) or (c);
 - “**ship**” means a sea-going vessel of any type whatsoever (including hydrofoils, hovercraft, submersibles and floating craft) operating in the marine environment beyond the limits of waters of categories A and B as categorised in Merchant Shipping Notice No. MSN 1776(M); and
-- “**ship-generated waste**” means all waste and residues which are generated during the service of a ship and which fall within the definitions of garbage, sewage,[^key-c607ee682ce72b9787de0a6e2ab9de9d] oil and oily mixtures, but does not include cargo residues; and for this purpose “**garbage**” means all kinds of victual, domestic and operational waste excluding fresh fish and parts thereof, generated during the normal operation of the ship and liable to be disposed of continuously or periodically, except sewage [^key-1189aab77a37df864b12a7483af61ebb]....
+- “**ship-generated waste**” means all waste and residues which are generated during the service of a ship and which fall within the definitions of garbage, sewage,[^c-c607ee682ce72b9787de0a6e2ab9de9d] oil and oily mixtures, but does not include cargo residues; and for this purpose “**garbage**” means all kinds of victual, domestic and operational waste excluding fresh fish and parts thereof, generated during the normal operation of the ship and liable to be disposed of continuously or periodically, except sewage [^c-1189aab77a37df864b12a7483af61ebb]....
 
 (2) For the purposes of these Regulations the “competent authority” shall be—
 
 - (a) in relation to the United Kingdom, the Maritime and Coastguard Agency;
-- (b) in relation to an[^key-767a19dd71d670428dfd1e6a16799db9] EEA[^key-7f7cf0809623698b0d5a83cd831277b4] State, the national maritime administration maintained by that State for the inspection of ships; and
-- (c) in relation to a state other than a an[^key-beff0928516f71f83c9416184bd1ccf2] EEA State, any authority designated as such by that State.
+- (b) in relation to an[^c-767a19dd71d670428dfd1e6a16799db9] EEA[^c-7f7cf0809623698b0d5a83cd831277b4] State, the national maritime administration maintained by that State for the inspection of ships; and
+- (c) in relation to a state other than a an[^c-beff0928516f71f83c9416184bd1ccf2] EEA State, any authority designated as such by that State.
 
 (3) Words and expressions used in these Regulations which are defined in the Act shall bear those meanings throughout these Regulations.
 
 (4) Any direction given under these Regulations shall be in writing.
 
-(5)[^key-e4219326fcf52eea4d87bd16a6f2a945] Any power under these Regulations to give a direction includes power to vary or revoke the direction by a subsequent direction.
+(5)[^c-e4219326fcf52eea4d87bd16a6f2a945] Any power under these Regulations to give a direction includes power to vary or revoke the direction by a subsequent direction.
 
 ## 3. Application
 
@@ -212,18 +212,18 @@ The Secretary of State may direct any harbour authority or terminal operator to 
 
 (5) The master of a ship bound for a harbour or terminal in the United Kingdom shall—
 
-- (a) if the previous port of call of the ship was a port in an[^key-f6c04a115bd750b414c8dfbd949f4c46] EEA State, and
+- (a) if the previous port of call of the ship was a port in an[^c-f6c04a115bd750b414c8dfbd949f4c46] EEA State, and
 - (b) the Maritime and Coastguard Agency request it,
 
 produce to the Agency, immediately on request, a copy of the notice retained in accordance with paragraph (4).
 
-(6)[^key-b29343d59b5245c82b00839b5ed26e3e] Where the previous port of call of a United Kingdom ship was a port in an EEA State, the master of that ship calling at a port of another EEA State shall, immediately on request by the competent authority of the latter State, produce to that authority a copy of the notice retained in accordance with paragraph (4).
+(6)[^c-b29343d59b5245c82b00839b5ed26e3e] Where the previous port of call of a United Kingdom ship was a port in an EEA State, the master of that ship calling at a port of another EEA State shall, immediately on request by the competent authority of the latter State, produce to that authority a copy of the notice retained in accordance with paragraph (4).
 
 ## 12. Delivery of ship-generated waste
 
 (1) Subject to paragraph (2), the master of a ship calling at a harbour or terminal shall ensure that before the ship leaves the harbour or terminal all ship-generated waste is delivered to a waste reception facility.
 
-(2)[^key-04c5e1900a86d6b3d31767f83577586e] A ship may proceed to the next port of call without delivering ship-generated waste if—
+(2)[^c-04c5e1900a86d6b3d31767f83577586e] A ship may proceed to the next port of call without delivering ship-generated waste if—
 
 - (a) the ship-generated waste in question is sewage, and the master of the ship is not required under regulation 11 to notify information about that waste, or
 - (b) subject to paragraph (3), it follows from the information notified under regulation 11(2) or (3) that there is sufficient dedicated storage capacity on board the ship to hold all the ship-generated waste that has been accumulated and all the ship-generated waste that will be accumulated during the intended voyage of the ship to the port of delivery.
@@ -305,7 +305,7 @@ he may give a direction to the master or owner of the ship requiring the ship-ge
 
 the harbour authority or terminal operator shall immediately inform the Maritime and Coastguard Agency.
 
-(2) Where there is clear evidence that a ship has proceeded to sea without having complied with regulation 12(1) or 16(1) the Secretary of State shall, if the next port of call of the ship is a port of an[^key-a254601930ced657c580c19c3f948d20] EEA[^key-1db96b08219a16d2a73cc7f6e3fbfdac] State, inform the competent authority of the State in which the port is situated about the ship and the evidence.
+(2) Where there is clear evidence that a ship has proceeded to sea without having complied with regulation 12(1) or 16(1) the Secretary of State shall, if the next port of call of the ship is a port of an[^c-a254601930ced657c580c19c3f948d20] EEA[^c-1db96b08219a16d2a73cc7f6e3fbfdac] State, inform the competent authority of the State in which the port is situated about the ship and the evidence.
 
 (3) Where the Maritime and Coastguard Agency has been informed by another competent authority of a ship in respect of which there is clear evidence of the type mentioned in paragraph (1) the Agency shall inspect the ship at the earliest opportunity.
 
@@ -357,7 +357,7 @@ in respect of a ship the owner of that ship shall be guilty of an offence and li
 
 (3) If there is clear evidence that the ship has proceeded to sea without having complied with article 7 or 10 of the Directive the inspector shall detain the ship until a more detailed assessment of factors relating to the ship’s compliance with these Regulations (such as the accuracy of any information provided in accordance with regulation 11), has taken place.
 
-(3A)[^key-3bc2f2b3afcaeda78a3d7e593b475eb5] For the purposes of regulation 20(3), articles 7 and 10 of the Directive are to be read as if a reference to a ‘Community port’ includes a port within the United Kingdom.
+(3A)[^c-3bc2f2b3afcaeda78a3d7e593b475eb5] For the purposes of regulation 20(3), articles 7 and 10 of the Directive are to be read as if a reference to a ‘Community port’ includes a port within the United Kingdom.
 
 (4) The relevant inspector shall not in the exercise of his power under this regulation detain or delay the ship unreasonably.
 
@@ -372,7 +372,7 @@ when the ship has called at a United Kingdom port in the normal course of busine
 
 (2) If there is clear evidence that the ship has proceeded to sea without having complied with article 7 or 10 of the Directive the inspector shall detain the ship until a more detailed assessment of factors relating to the ship’s compliance with these Regulations (such as the accuracy of any information provided in accordance with regulation 11), has taken place.
 
-(2A)[^key-7b8d9a4c68c2f61e778686f724f15bcd] For the purposes of regulation 21(2), articles 7 and 10 of the Directive are to be read as if a reference to a ‘Community port’ includes a port within the United Kingdom.
+(2A)[^c-7b8d9a4c68c2f61e778686f724f15bcd] For the purposes of regulation 21(2), articles 7 and 10 of the Directive are to be read as if a reference to a ‘Community port’ includes a port within the United Kingdom.
 
 (3) If the ship is detained the relevant inspector shall forthwith notify the nearest maritime, consular or diplomatic representative of the State whose flag the ship is entitled to fly.
 
@@ -394,7 +394,7 @@ Where a ship is liable to be detained under these Regulations, section 284 of th
   - (ii) in subsection (3), “to whether the ship was or was not a dangerously unsafe ship”; and
   - (iii) in subsection (5), “as a dangerously unsafe ship”.
 
-## 24. Review[^key-a585583557b5a5d7f8701fcc24989ac0]
+## 24. Review[^c-a585583557b5a5d7f8701fcc24989ac0]
 
 (1) The Secretary of State must from time to time—
 
@@ -463,7 +463,7 @@ Regulation 6(5)
 
 Regulation 11(1)
 
- [^key-baeffcfc42d6e964bd3cccc030126628]
+ [^c-baeffcfc42d6e964bd3cccc030126628]
 
  
 
@@ -501,50 +501,50 @@ Merchant Shipping Notices are published by the Maritime and Coastguard Agency. C
 
 [^c5062051]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 130A, 130B and 130D were inserted by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [section 5](https://www.legislation.gov.uk/ukpga/1997/28/section/5).
 
-[^key-c7b5ceee38c379e2dd23f9aa1841517d]: Modification: Regulations extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e/f))
+[^c-c7b5ceee38c379e2dd23f9aa1841517d]: Modification: Regulations extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e/f))
 
 [^c5062061]: Marginal citation: [S.I. 1997/3018](https://www.legislation.gov.uk/uksi/1997/3018), amended by [S.I. 1998/531](https://www.legislation.gov.uk/uksi/1998/531).
 
 [^c5062071]: Marginal citation: Cmnd. 5748; amended by the Protocol of 1978 (Cmnd. 7347).
 
-[^key-fcc948b2aeefcf713e1ac60c853a2cee]: Textual amendment: Words in reg. 2(1) substituted (13.1.2017) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2016 (S.I. 2016/1211)](https://www.legislation.gov.uk/uksi/2016/1211), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1211/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/1211/regulation/2/2)
+[^c-fcc948b2aeefcf713e1ac60c853a2cee]: Textual amendment: Words in reg. 2(1) substituted (13.1.2017) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2016 (S.I. 2016/1211)](https://www.legislation.gov.uk/uksi/2016/1211), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1211/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/1211/regulation/2/2)
 
-[^key-d2d0f37af8d05c68c1de7d6a479584c0]: Textual amendment: Words in reg. 2(1) substituted (12.3.2018) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 (S.I. 2018/68)](https://www.legislation.gov.uk/uksi/2018/68), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/1/1), [Sch. Pt 1 para. 2](https://www.legislation.gov.uk/uksi/2018/68/schedule/part/1/paragraph/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/68/regulation/5))
+[^c-d2d0f37af8d05c68c1de7d6a479584c0]: Textual amendment: Words in reg. 2(1) substituted (12.3.2018) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 (S.I. 2018/68)](https://www.legislation.gov.uk/uksi/2018/68), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/1/1), [Sch. Pt 1 para. 2](https://www.legislation.gov.uk/uksi/2018/68/schedule/part/1/paragraph/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/68/regulation/5))
 
-[^key-8c7df8fdea233c5048b2468343814aed]: Textual amendment: Words in reg. 2(1) inserted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/2/a)
+[^c-8c7df8fdea233c5048b2468343814aed]: Textual amendment: Words in reg. 2(1) inserted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/2/a)
 
-[^key-c607ee682ce72b9787de0a6e2ab9de9d]: Textual amendment: Word in reg. 2(1) inserted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/2/b/i)
+[^c-c607ee682ce72b9787de0a6e2ab9de9d]: Textual amendment: Word in reg. 2(1) inserted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/2/b/i)
 
-[^key-1189aab77a37df864b12a7483af61ebb]: Textual amendment: Words in reg. 2(1) omitted (16.5.2009) by virtue of [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/2/b/ii)
+[^c-1189aab77a37df864b12a7483af61ebb]: Textual amendment: Words in reg. 2(1) omitted (16.5.2009) by virtue of [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/2/b/ii)
 
-[^key-767a19dd71d670428dfd1e6a16799db9]: Textual amendment: Word in reg. 2(2)(b) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 18(2)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-767a19dd71d670428dfd1e6a16799db9]: Textual amendment: Word in reg. 2(2)(b) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 18(2)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7f7cf0809623698b0d5a83cd831277b4]: Textual amendment: Words in reg. 2(2)(b) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/3/a)
+[^c-7f7cf0809623698b0d5a83cd831277b4]: Textual amendment: Words in reg. 2(2)(b) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/3/a)
 
-[^key-beff0928516f71f83c9416184bd1ccf2]: Textual amendment: Words in reg. 2(2)(c) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/3/b)
+[^c-beff0928516f71f83c9416184bd1ccf2]: Textual amendment: Words in reg. 2(2)(c) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/3/b)
 
-[^key-e4219326fcf52eea4d87bd16a6f2a945]: Textual amendment: Reg. 2(5) added (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/4)
+[^c-e4219326fcf52eea4d87bd16a6f2a945]: Textual amendment: Reg. 2(5) added (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/4)
 
-[^key-f6c04a115bd750b414c8dfbd949f4c46]: Textual amendment: Words in reg. 11(5)(a) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/5/a)
+[^c-f6c04a115bd750b414c8dfbd949f4c46]: Textual amendment: Words in reg. 11(5)(a) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/5/a)
 
-[^key-b29343d59b5245c82b00839b5ed26e3e]: Textual amendment: Reg. 11(6) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/5/b)
+[^c-b29343d59b5245c82b00839b5ed26e3e]: Textual amendment: Reg. 11(6) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/5/b)
 
-[^key-04c5e1900a86d6b3d31767f83577586e]: Textual amendment: Reg. 12(2) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/6)
+[^c-04c5e1900a86d6b3d31767f83577586e]: Textual amendment: Reg. 12(2) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/6)
 
 [^c5062101]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40). Section 27A was inserted by paragraph 8(1) of Schedule 6 to the [Transport Act 1981 (c. 56)](https://www.legislation.gov.uk/ukpga/1981/56).
 
-[^key-a254601930ced657c580c19c3f948d20]: Textual amendment: Word in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2003/1809/regulation/17/2) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 18(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/18/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a254601930ced657c580c19c3f948d20]: Textual amendment: Word in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2003/1809/regulation/17/2) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 18(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/18/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1db96b08219a16d2a73cc7f6e3fbfdac]: Textual amendment: Words in reg. 17(2) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/7)
+[^c-1db96b08219a16d2a73cc7f6e3fbfdac]: Textual amendment: Words in reg. 17(2) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/7)
 
-[^key-3bc2f2b3afcaeda78a3d7e593b475eb5]: Textual amendment: [Reg. 20(3A)](https://www.legislation.gov.uk/uksi/2003/1809/regulation/20/3A) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 18(4)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/18/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3bc2f2b3afcaeda78a3d7e593b475eb5]: Textual amendment: [Reg. 20(3A)](https://www.legislation.gov.uk/uksi/2003/1809/regulation/20/3A) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 18(4)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/18/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7b8d9a4c68c2f61e778686f724f15bcd]: Textual amendment: [Reg. 21(2A)](https://www.legislation.gov.uk/uksi/2003/1809/regulation/21/2A) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 18(5)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/18/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b8d9a4c68c2f61e778686f724f15bcd]: Textual amendment: [Reg. 21(2A)](https://www.legislation.gov.uk/uksi/2003/1809/regulation/21/2A) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 18(5)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/18/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c5062111]: Marginal citation: Section 284 was amended by the Merchant Shipping and Maritime Security Act 1997, Schedule 1, paragraph 5 (c.28).
 
-[^key-a585583557b5a5d7f8701fcc24989ac0]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2003/1809/regulation/24) inserted (13.1.2017) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2016 (S.I. 2016/1211)](https://www.legislation.gov.uk/uksi/2016/1211), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1211/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/1211/regulation/2/3)
+[^c-a585583557b5a5d7f8701fcc24989ac0]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2003/1809/regulation/24) inserted (13.1.2017) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2016 (S.I. 2016/1211)](https://www.legislation.gov.uk/uksi/2016/1211), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1211/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/1211/regulation/2/3)
 
 [^c5062121]: Marginal citation: O.J. L114, 24.4.2001, p.1.
 
-[^key-baeffcfc42d6e964bd3cccc030126628]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1809/schedule/2) substituted (13.1.2017) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2016 (S.I. 2016/1211)](https://www.legislation.gov.uk/uksi/2016/1211), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1211/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2016/1211/regulation/2/4), [Sch.](https://www.legislation.gov.uk/uksi/2016/1211/schedule)
+[^c-baeffcfc42d6e964bd3cccc030126628]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1809/schedule/2) substituted (13.1.2017) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2016 (S.I. 2016/1211)](https://www.legislation.gov.uk/uksi/2016/1211), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1211/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2016/1211/regulation/2/4), [Sch.](https://www.legislation.gov.uk/uksi/2016/1211/schedule)

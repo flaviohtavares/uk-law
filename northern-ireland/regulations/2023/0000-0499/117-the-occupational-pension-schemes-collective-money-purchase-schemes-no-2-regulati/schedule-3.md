@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — Financial sustainability requirement[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+## SCHEDULE 3 — Financial sustainability requirement[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
 *Extent: N.I.*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Regulations 6 and 12
 
-### PART 1 — Information required on application for authorisation[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### PART 1 — Information required on application for authorisation[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**1.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Matters which the Regulator must take into account[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### PART 2 — Matters which the Regulator must take into account[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**2.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Requirements to be met by the collective money purchase scheme[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### PART 3 — Requirements to be met by the collective money purchase scheme[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**4.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e25d5c44d6ebee8f738a36f4ebd5312b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/117) revoked (26.1.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024 (S.R. 2024/15)](https://www.legislation.gov.uk/nisr/2024/15), [regs. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1), [36](https://www.legislation.gov.uk/nisr/2024/15/regulation/36)
+[^c-e25d5c44d6ebee8f738a36f4ebd5312b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/117) revoked (26.1.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024 (S.R. 2024/15)](https://www.legislation.gov.uk/nisr/2024/15), [regs. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1), [36](https://www.legislation.gov.uk/nisr/2024/15/regulation/36)

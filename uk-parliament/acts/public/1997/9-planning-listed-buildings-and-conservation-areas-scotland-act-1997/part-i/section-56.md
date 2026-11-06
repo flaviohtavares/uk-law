@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Intimation of local authority notices etc. affecting listed buildings.[^key-ca11b8cf40ab88645882fbe80cb94673]
+## 56. Intimation of local authority notices etc. affecting listed buildings.[^c-ca11b8cf40ab88645882fbe80cb94673]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ they shall forthwith give written intimation of the notice, order or proposal to
 
 ## Annotations
 
-[^key-ca11b8cf40ab88645882fbe80cb94673]: Modification: [Ss. 56-58](https://www.legislation.gov.uk/ukpga/1997/9/section/56) applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
+[^c-ca11b8cf40ab88645882fbe80cb94673]: Modification: [Ss. 56-58](https://www.legislation.gov.uk/ukpga/1997/9/section/56) applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))

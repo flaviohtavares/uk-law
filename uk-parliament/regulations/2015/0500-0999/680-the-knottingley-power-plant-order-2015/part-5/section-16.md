@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Authority to survey and investigate the land[^key-74e920149ed20d6408f8cecccc33a3ba]
+## 16. Authority to survey and investigate the land[^c-74e920149ed20d6408f8cecccc33a3ba]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74e920149ed20d6408f8cecccc33a3ba]: Commencement: Art. 16 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-74e920149ed20d6408f8cecccc33a3ba]: Commencement: Art. 16 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
 [^f00021]: Footnote: The functions of the Lands Tribunal under the 1961 Act are transferred to the Upper Tribunal under the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).

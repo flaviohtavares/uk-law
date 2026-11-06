@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Further provision about section 29 designations[^key-3af305306c105572183b2891e815057c]
+## 30. Further provision about section 29 designations[^c-3af305306c105572183b2891e815057c]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3af305306c105572183b2891e815057c]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2015/5/section/30) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-3af305306c105572183b2891e815057c]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2015/5/section/30) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

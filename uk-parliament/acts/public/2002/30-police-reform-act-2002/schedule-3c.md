@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3C — Designations under section 38: additional powers and duties[^key-44662dab4589dd85edd56594182133a1]
+## SCHEDULE 3C — Designations under section 38: additional powers and duties[^c-44662dab4589dd85edd56594182133a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,7 +79,7 @@ Section 38(6B)(b)
 (3) In this paragraph, “**relevant offence**” means any of the following offences—
 
 - (a) an offence in respect of which the CSO or CSV is authorised to give a penalty notice (whether in consequence of paragraph 2 of this Schedule or in consequence of provision included in his or her designation in reliance on section 38(6B)(a));
-- (b)[^key-f10f10c2141b0ddb3df5896a5ac6440f] an offence under section 3 or 4 of the Vagrancy Act 1824; *(affected by repeal, see note)*[^key-f10f10c2141b0ddb3df5896a5ac6440f]
+- (b)[^c-f10f10c2141b0ddb3df5896a5ac6440f] an offence under section 3 or 4 of the Vagrancy Act 1824; *(affected by repeal, see note)*[^c-f10f10c2141b0ddb3df5896a5ac6440f]
 - (c) an offence committed in a specified park which by virtue of section 2 of the Parks Regulation (Amendment) Act 1926 is an offence against the Parks Regulation Act 1872;
 - (d) an offence under section 39 of the Anti-social Behaviour, Crime and Policing Act 2014;
 - (e) an offence under a listed byelaw;
@@ -230,13 +230,13 @@ Section 50 of that Act applies in relation to any such substance as if the refer
 
 (2) Sub-paragraph (1) does not apply if the requirement to give a name and address was imposed in connection with a relevant licensing offence mentioned in paragraph 3(4)(a), (c) or (f) which the CSO or CSV believes to have been committed on licensed premises (within the meaning of the Licensing Act 2003).
 
-(3)[^key-f78304abc5ac920eab528c068f20a389] A CSO or CSV may require a person to wait with the CSO or CSV, for a period not exceeding 30 minutes, for the arrival of a constable where— *(affected by repeal, see note)*[^key-f78304abc5ac920eab528c068f20a389]
+(3)[^c-f78304abc5ac920eab528c068f20a389] A CSO or CSV may require a person to wait with the CSO or CSV, for a period not exceeding 30 minutes, for the arrival of a constable where— *(affected by repeal, see note)*[^c-f78304abc5ac920eab528c068f20a389]
 
-- (a) the CSO or CSV has reason to believe that the person is committing an offence under section 3 or 4 of the Vagrancy Act 1824, *(affected by repeal, see note)*[^key-f78304abc5ac920eab528c068f20a389]
-- (b) the CSO or CSV requires the person to stop doing whatever gives rise to that belief, and *(affected by repeal, see note)*[^key-f78304abc5ac920eab528c068f20a389]
-- (c) the person fails to stop as required. *(affected by repeal, see note)*[^key-f78304abc5ac920eab528c068f20a389]
+- (a) the CSO or CSV has reason to believe that the person is committing an offence under section 3 or 4 of the Vagrancy Act 1824, *(affected by repeal, see note)*[^c-f78304abc5ac920eab528c068f20a389]
+- (b) the CSO or CSV requires the person to stop doing whatever gives rise to that belief, and *(affected by repeal, see note)*[^c-f78304abc5ac920eab528c068f20a389]
+- (c) the person fails to stop as required. *(affected by repeal, see note)*[^c-f78304abc5ac920eab528c068f20a389]
 
-(4) A person who has been required under sub-paragraph (1) or (3) *(affected by repeal, see note)*[^key-843b5231e02333630c308c29ca89aff4] to wait with a CSO or CSV may, if requested to do so, elect that (instead of waiting) he or she will accompany the CSO or CSV to a police station in the relevant police area.
+(4) A person who has been required under sub-paragraph (1) or (3) *(affected by repeal, see note)*[^c-843b5231e02333630c308c29ca89aff4] to wait with a CSO or CSV may, if requested to do so, elect that (instead of waiting) he or she will accompany the CSO or CSV to a police station in the relevant police area.
 
 (5) Where the person does not elect to accompany the CSO or CSV to the police station, and the constable arrives within the period of 30 minutes, the CSO or CSV is under a duty to remain with the person and the constable until the CSO or CSV has transferred control of the person to the constable.
 
@@ -248,7 +248,7 @@ Section 50 of that Act applies in relation to any such substance as if the refer
 
 (7) A person who—
 
-- (a) makes off while subject to a requirement under sub-paragraph (1) or (3) *(affected by repeal, see note)*[^key-7fabc201a8da79a8895ccfa58db9c88c], or
+- (a) makes off while subject to a requirement under sub-paragraph (1) or (3) *(affected by repeal, see note)*[^c-7fabc201a8da79a8895ccfa58db9c88c], or
 - (b) makes off while accompanying a CSO or CSV to a police station in accordance with an election under sub-paragraph (4),
 
 is guilty of an offence and liable, on summary conviction, to a fine not exceeding level 3 on the standard scale.
@@ -303,12 +303,12 @@ is guilty of an offence and liable, on summary conviction, to a fine not exceedi
 
 ## Annotations
 
-[^key-44662dab4589dd85edd56594182133a1]: Textual amendment: Sch. 3C inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 11](https://www.legislation.gov.uk/ukpga/2017/3/schedule/11); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/d) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
+[^c-44662dab4589dd85edd56594182133a1]: Textual amendment: Sch. 3C inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 11](https://www.legislation.gov.uk/ukpga/2017/3/schedule/11); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/d) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
 
-[^key-f10f10c2141b0ddb3df5896a5ac6440f]: Textual amendment: Sch. 3C para. 3(3)(b) omitted (E.W.) (29.6.2026) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/6/a/i), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
+[^c-f10f10c2141b0ddb3df5896a5ac6440f]: Textual amendment: Sch. 3C para. 3(3)(b) omitted (E.W.) (29.6.2026) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/6/a/i), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
 
-[^key-f78304abc5ac920eab528c068f20a389]: Textual amendment: Sch. 3C para. 7(3) omitted (E.W.) (29.6.2026) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/6/a/ii), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
+[^c-f78304abc5ac920eab528c068f20a389]: Textual amendment: Sch. 3C para. 7(3) omitted (E.W.) (29.6.2026) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/6/a/ii), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
 
-[^key-843b5231e02333630c308c29ca89aff4]: Textual amendment: Words in Sch. 3C para. 7(4) omitted (E.W.) (29.6.2026) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(6)(a)(iii)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/6/a/iii), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
+[^c-843b5231e02333630c308c29ca89aff4]: Textual amendment: Words in Sch. 3C para. 7(4) omitted (E.W.) (29.6.2026) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(6)(a)(iii)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/6/a/iii), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
 
-[^key-7fabc201a8da79a8895ccfa58db9c88c]: Textual amendment: Words in Sch. 3C para. 7(7)(a) omitted (E.W.) (29.6.2026) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(6)(a)(iv)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/6/a/iv), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
+[^c-7fabc201a8da79a8895ccfa58db9c88c]: Textual amendment: Words in Sch. 3C para. 7(7)(a) omitted (E.W.) (29.6.2026) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(6)(a)(iv)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/6/a/iv), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)

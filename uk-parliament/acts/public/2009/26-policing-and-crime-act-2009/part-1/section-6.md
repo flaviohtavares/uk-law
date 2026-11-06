@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Authorisations to interfere with property etc[^key-29c64dec5791d769aa8965ed190e3774]
+## 6. Authorisations to interfere with property etc[^c-29c64dec5791d769aa8965ed190e3774]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29c64dec5791d769aa8965ed190e3774]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2009/26/section/6) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/a)
+[^c-29c64dec5791d769aa8965ed190e3774]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2009/26/section/6) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/a)

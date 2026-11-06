@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Effect of unauthorised transfer[^key-a03d124bc062c12036f3480f4f41ee92]
+## 71. Effect of unauthorised transfer[^c-a03d124bc062c12036f3480f4f41ee92]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ the transfer becomes binding on the landlord on the day immediately after the la
 
 ## Annotations
 
-[^key-a03d124bc062c12036f3480f4f41ee92]: Commencement: [S. 71](https://www.legislation.gov.uk/anaw/2016/1/section/71) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-a03d124bc062c12036f3480f4f41ee92]: Commencement: [S. 71](https://www.legislation.gov.uk/anaw/2016/1/section/71) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

@@ -25,7 +25,7 @@ summary: ''
 - (a) is exercisable by statutory instrument;
 - (b) includes power to make different provision for different purposes, for different cases and for different areas.
 
-(2) A statutory instrument containing regulations made under any of the following provisions of this Act may not be made unless a draft of the instrument containing the regulations has been laid before and approved by resolution of Senedd Cymru[^key-43cdc682e694106085f37df5b5f983bd]—
+(2) A statutory instrument containing regulations made under any of the following provisions of this Act may not be made unless a draft of the instrument containing the regulations has been laid before and approved by resolution of Senedd Cymru[^c-43cdc682e694106085f37df5b5f983bd]—
 
 - (a) section 2(1)(i) (regulations specifying other care and support services as regulated services);
 - (b) section 2(3) (regulations prescribing things not to be treated as regulated services);
@@ -51,12 +51,12 @@ summary: ''
 - (v) section 177(1)(h) (regulations prescribing other persons as relevant authorities for the purposes of Part 9);
 - (w) paragraph 7 of Schedule 1 (regulations specifying certain services as regulated advocacy services).
 
-(3) Any other statutory instrument containing regulations made under this Act is subject to annulment in pursuance of a resolution of Senedd Cymru[^key-d768f85dfcefd29f6c3e94ff1093c4de].
+(3) Any other statutory instrument containing regulations made under this Act is subject to annulment in pursuance of a resolution of Senedd Cymru[^c-d768f85dfcefd29f6c3e94ff1093c4de].
 
 (4) This section does not apply to regulations made under section 186.
 
 ## Annotations
 
-[^key-43cdc682e694106085f37df5b5f983bd]: Textual amendment: Words in [s. 187(2)](https://www.legislation.gov.uk/anaw/2016/2/section/187/2) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(15)(f)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/15/f)
+[^c-43cdc682e694106085f37df5b5f983bd]: Textual amendment: Words in [s. 187(2)](https://www.legislation.gov.uk/anaw/2016/2/section/187/2) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(15)(f)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/15/f)
 
-[^key-d768f85dfcefd29f6c3e94ff1093c4de]: Textual amendment: Words in [s. 187(3)](https://www.legislation.gov.uk/anaw/2016/2/section/187/3) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(15)(f)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/15/f)
+[^c-d768f85dfcefd29f6c3e94ff1093c4de]: Textual amendment: Words in [s. 187(3)](https://www.legislation.gov.uk/anaw/2016/2/section/187/3) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(15)(f)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/15/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Multiple collections[^key-a2e653f25adbe33f9b764aebbb7f6c03]
+## 38. Multiple collections[^c-a2e653f25adbe33f9b764aebbb7f6c03]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2e653f25adbe33f9b764aebbb7f6c03]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/wsi/2005/1806/regulation/38) omitted (29.3.2011) by virtue of [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 13](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/13)
+[^c-a2e653f25adbe33f9b764aebbb7f6c03]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/wsi/2005/1806/regulation/38) omitted (29.3.2011) by virtue of [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 13](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/13)

@@ -37,7 +37,7 @@ laying down the Union Customs Code
 
 (recast)
 
-[^key-e019af052a59859c6a6143c0ba4f79b4][^key-f4c9216659cc66895171e66689809c0f][^key-65b27048a490c7c231b1363bcbe627a7]
+[^c-e019af052a59859c6a6143c0ba4f79b4][^c-f4c9216659cc66895171e66689809c0f][^c-65b27048a490c7c231b1363bcbe627a7]
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -979,15 +979,15 @@ HAVE ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-[^key-48a7d63dc750e4edf61cf49a759d251b]...
+[^c-48a7d63dc750e4edf61cf49a759d251b]...
 
 ## Annotations
 
-[^key-e019af052a59859c6a6143c0ba4f79b4]: Modification: Regulation modified (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1624/regulation/4)
+[^c-e019af052a59859c6a6143c0ba4f79b4]: Modification: Regulation modified (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1624/regulation/4)
 
-[^key-f4c9216659cc66895171e66689809c0f]: Modification: Regulation modified (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1624/regulation/3)
+[^c-f4c9216659cc66895171e66689809c0f]: Modification: Regulation modified (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1624/regulation/3)
 
-[^key-65b27048a490c7c231b1363bcbe627a7]: Modification: Regulation applied in part (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133K(3)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133K/3), [133M(2)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133M/2) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
+[^c-65b27048a490c7c231b1363bcbe627a7]: Modification: Regulation applied in part (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133K(3)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133K/3), [133M(2)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133M/2) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
 
 [^f00001]: Footnote: [OJ C 229, 31.7.2012, p. 68](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2012.229.01.0068.01.ENG).
 
@@ -1013,4 +1013,4 @@ HAVE ADOPTED THIS REGULATION:
 
 [^f00012]: Footnote: [OJ L 165, 21.6.2001, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.165.01.0001.01.ENG).
 
-[^key-48a7d63dc750e4edf61cf49a759d251b]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/952/signature) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2019/715/regulation/2/4) (as amended by [S.I. 2020/1624](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1624/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48a7d63dc750e4edf61cf49a759d251b]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/952/signature) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2019/715/regulation/2/4) (as amended by [S.I. 2020/1624](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1624/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

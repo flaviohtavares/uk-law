@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Straddle carriers: requirements as to length[^key-66d6f6034dbc84737b4febf6a6cb7ab1]
+## 48. Straddle carriers: requirements as to length[^c-66d6f6034dbc84737b4febf6a6cb7ab1]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66d6f6034dbc84737b4febf6a6cb7ab1]: Commencement: Art. 48 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-66d6f6034dbc84737b4febf6a6cb7ab1]: Commencement: Art. 48 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

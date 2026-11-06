@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Register of directions[^key-5ec4da627609573f31a58794a1dddc27][^key-944f16490f16b4c9897e4bcc362b54ad]
+## 22. Register of directions[^c-5ec4da627609573f31a58794a1dddc27][^c-944f16490f16b4c9897e4bcc362b54ad]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ec4da627609573f31a58794a1dddc27]: Commencement: S. 22 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-5ec4da627609573f31a58794a1dddc27]: Commencement: S. 22 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-944f16490f16b4c9897e4bcc362b54ad]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2025/8/section/22) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-944f16490f16b4c9897e4bcc362b54ad]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2025/8/section/22) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

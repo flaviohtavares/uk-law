@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Eligible service[^key-81cdb0814732668d3271abeceac483a7]
+## 12. Eligible service[^c-81cdb0814732668d3271abeceac483a7]
 
 *Extent: S*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-81cdb0814732668d3271abeceac483a7]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-81cdb0814732668d3271abeceac483a7]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00030]: Footnote: See regulation 13 (periods of unpaid leave) for periods of unpaid leave during which the employment relationship continues.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Transitional provision[^key-8fb3d333d494e1fc0d5f2d9c2c57c757]
+## 55. Transitional provision[^c-8fb3d333d494e1fc0d5f2d9c2c57c757]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fb3d333d494e1fc0d5f2d9c2c57c757]: Textual amendment: [Reg. 55](https://www.legislation.gov.uk/uksi/2012/2996/regulation/55) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [209(9)](https://www.legislation.gov.uk/uksi/2022/634/regulation/209/9)
+[^c-8fb3d333d494e1fc0d5f2d9c2c57c757]: Textual amendment: [Reg. 55](https://www.legislation.gov.uk/uksi/2012/2996/regulation/55) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [209(9)](https://www.legislation.gov.uk/uksi/2022/634/regulation/209/9)

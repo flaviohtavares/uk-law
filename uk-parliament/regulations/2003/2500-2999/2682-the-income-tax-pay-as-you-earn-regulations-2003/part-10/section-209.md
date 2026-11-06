@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Standards of accuracy and completeness[^key-904414869b79d306017e9b5e146d6769]
+## 209. Standards of accuracy and completeness[^c-904414869b79d306017e9b5e146d6769]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-904414869b79d306017e9b5e146d6769]: Textual amendment: Reg. 209 substituted (13.8. 2009 with effect in relation to the tax year 2009-10 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2009 (S.I. 2009/2029)](https://www.legislation.gov.uk/uksi/2009/2029), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2009/2029/regulation/1/4), [11](https://www.legislation.gov.uk/uksi/2009/2029/regulation/11) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2009/2029/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2009/2029/regulation/1/6))
+[^c-904414869b79d306017e9b5e146d6769]: Textual amendment: Reg. 209 substituted (13.8. 2009 with effect in relation to the tax year 2009-10 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2009 (S.I. 2009/2029)](https://www.legislation.gov.uk/uksi/2009/2029), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2009/2029/regulation/1/4), [11](https://www.legislation.gov.uk/uksi/2009/2029/regulation/11) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2009/2029/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2009/2029/regulation/1/6))

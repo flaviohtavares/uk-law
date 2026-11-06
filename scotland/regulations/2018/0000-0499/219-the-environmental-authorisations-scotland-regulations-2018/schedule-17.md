@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 17 — MANAGEMENT OF WASTE BATTERIES[^key-44065645c833dade3e90c5aa623ddc22]
+## SCHEDULE 17 — MANAGEMENT OF WASTE BATTERIES[^c-44065645c833dade3e90c5aa623ddc22]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ SEPA must ensure that an authorisation for the treatment and storage at a treatm
 
 ## Annotations
 
-[^key-44065645c833dade3e90c5aa623ddc22]: Textual amendment: [Sch. 17](https://www.legislation.gov.uk/ssi/2018/219/schedule/17) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 8](https://www.legislation.gov.uk/ssi/2025/165/schedule/8) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-44065645c833dade3e90c5aa623ddc22]: Textual amendment: [Sch. 17](https://www.legislation.gov.uk/ssi/2018/219/schedule/17) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 8](https://www.legislation.gov.uk/ssi/2025/165/schedule/8) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

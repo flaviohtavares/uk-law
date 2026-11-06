@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Resolution company: report[^key-e36d38c07b29475b629dd12782493645][^key-95bfbf83794b506c72db811e17c630b3]
+## 80. Resolution company: report[^c-e36d38c07b29475b629dd12782493645][^c-95bfbf83794b506c72db811e17c630b3]
 
 *Extent: E+W+S+N.I.*
 
-(1) Where the Bank of England transfers all or part of a bank's business to a resolution company[^key-a1a014f1806466560fb36261c1078d73], the Bank must report to the Chancellor of the Exchequer about the activities of the resolution company.
+(1) Where the Bank of England transfers all or part of a bank's business to a resolution company[^c-a1a014f1806466560fb36261c1078d73], the Bank must report to the Chancellor of the Exchequer about the activities of the resolution company.
 
 (2) The first report must be made as soon as is reasonably practicable after the end of one year beginning with the date of the first transfer to the resolution company.
 
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e36d38c07b29475b629dd12782493645]: Commencement: S. 80 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-e36d38c07b29475b629dd12782493645]: Commencement: S. 80 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
 
-[^key-95bfbf83794b506c72db811e17c630b3]: Textual amendment: Words in s. 80 heading substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [87(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/87/2)
+[^c-95bfbf83794b506c72db811e17c630b3]: Textual amendment: Words in s. 80 heading substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [87(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/87/2)
 
-[^key-a1a014f1806466560fb36261c1078d73]: Textual amendment: Words in s. 80 substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [87(1)](https://www.legislation.gov.uk/uksi/2014/3329/article/87/1)
+[^c-a1a014f1806466560fb36261c1078d73]: Textual amendment: Words in s. 80 substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [87(1)](https://www.legislation.gov.uk/uksi/2014/3329/article/87/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167ZV. Extent of entitlement and when payable: birth[^key-604f3133e2a60f1eb77d1cdae586af7e]
+## 167ZV. Extent of entitlement and when payable: birth[^c-604f3133e2a60f1eb77d1cdae586af7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) Provision under subsection (1)(a) is to secure that the number of weeks in respect of which a person is entitled to payments of statutory shared parental pay in respect of a child does not exceed the number of weeks of the maternity pay period reduced by—
 
-- (a) where the mother of the child takes action that is treated by regulations as constituting for the purposes of section 167ZU and this section her return to work without satisfying conditions prescribed under subsection (2)(g) or, as the case may be, (4)(h)[^key-dd59571ffbc39ac0d30f560258fb2d51] of section 167ZU—
+- (a) where the mother of the child takes action that is treated by regulations as constituting for the purposes of section 167ZU and this section her return to work without satisfying conditions prescribed under subsection (2)(g) or, as the case may be, (4)(h)[^c-dd59571ffbc39ac0d30f560258fb2d51] of section 167ZU—
   - (i) the number of relevant weeks in respect of which maternity allowance or statutory maternity pay is payable to the mother, or
   - (ii) if that number of relevant weeks is less than a number prescribed by regulations, that prescribed number of weeks, or
 - (b) except where paragraph (a) applies, the number of weeks to which the maternity allowance period is reduced by virtue of section 35(3A) or, as the case may be, the maternity pay period is reduced by virtue of section 161(3A).
@@ -80,6 +80,6 @@ summary: ''
 
 ## Annotations
 
-[^key-604f3133e2a60f1eb77d1cdae586af7e]: Textual amendment: [Pt. 12ZC](https://www.legislation.gov.uk/ukpga/1992/7/part/12ZC) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 5(2)](https://www.legislation.gov.uk/nia/2015/1/section/5/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/d)
+[^c-604f3133e2a60f1eb77d1cdae586af7e]: Textual amendment: [Pt. 12ZC](https://www.legislation.gov.uk/ukpga/1992/7/part/12ZC) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 5(2)](https://www.legislation.gov.uk/nia/2015/1/section/5/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/d)
 
-[^key-dd59571ffbc39ac0d30f560258fb2d51]: Textual amendment: Words in [s. 167ZV(2)(a)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZV/2/a) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 25(2)(a)](https://www.legislation.gov.uk/nia/2016/15/section/25/2/a), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(j)](https://www.legislation.gov.uk/nisr/2020/1/article/2/j)
+[^c-dd59571ffbc39ac0d30f560258fb2d51]: Textual amendment: Words in [s. 167ZV(2)(a)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZV/2/a) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 25(2)(a)](https://www.legislation.gov.uk/nia/2016/15/section/25/2/a), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(j)](https://www.legislation.gov.uk/nisr/2020/1/article/2/j)

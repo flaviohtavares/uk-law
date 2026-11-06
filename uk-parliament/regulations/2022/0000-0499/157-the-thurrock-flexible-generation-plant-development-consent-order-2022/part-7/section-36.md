@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Protective provisions[^key-887f2a9eb2271aa029da08c93bcc810c]
+## 36. Protective provisions[^c-887f2a9eb2271aa029da08c93bcc810c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 8 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-887f2a9eb2271aa029da08c93bcc810c]: Commencement: Art. 36 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-887f2a9eb2271aa029da08c93bcc810c]: Commencement: Art. 36 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)

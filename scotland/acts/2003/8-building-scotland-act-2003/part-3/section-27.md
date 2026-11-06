@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Building warrant enforcement notices[^key-8cd6cfbf991c1da55299e7f86ceebf1b]
+## 27. Building warrant enforcement notices[^c-8cd6cfbf991c1da55299e7f86ceebf1b]
 
 *Extent: S*
 
@@ -83,4 +83,4 @@ whether or not the notice has taken effect.
 
 ## Annotations
 
-[^key-8cd6cfbf991c1da55299e7f86ceebf1b]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2003/8/section/27) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-8cd6cfbf991c1da55299e7f86ceebf1b]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2003/8/section/27) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

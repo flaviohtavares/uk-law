@@ -22,7 +22,7 @@ summary: ''
 
 Articles 9 and 13
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT[^key-76a1b81aa15dda338bbf4dbcaad0fbe1]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT[^c-76a1b81aa15dda338bbf4dbcaad0fbe1]
 
 <table>
 <thead>
@@ -37,7 +37,7 @@ Articles 9 and 13
 </tbody>
 </table>
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^key-65527ca4353397093361274ee4dd7156]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^c-65527ca4353397093361274ee4dd7156]
 
 <table>
 <thead>
@@ -52,6 +52,6 @@ Articles 9 and 13
 
 ## Annotations
 
-[^key-76a1b81aa15dda338bbf4dbcaad0fbe1]: Commencement: Sch. 3 Pt. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-76a1b81aa15dda338bbf4dbcaad0fbe1]: Commencement: Sch. 3 Pt. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
 
-[^key-65527ca4353397093361274ee4dd7156]: Commencement: Sch. 3 Pt. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-65527ca4353397093361274ee4dd7156]: Commencement: Sch. 3 Pt. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)

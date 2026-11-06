@@ -31,7 +31,7 @@ Coast Protection Act 1949
 
 An Act to amend the law relating to the protection of the coast of Great Britain against erosion and encroachment by the sea; to provide for the restriction and removal of works detrimental to navigation; to transfer the management of Crown foreshore from the Minister of Transport to the Commissioners of Crown Lands; and for purposes connected with the matters aforesaid.
 
-\[24th November 1949\][^c6288941][^c6288951][^c6288961][^key-285b7631c2014f96969cfa51f0fc87e9]
+\[24th November 1949\][^c6288941][^c6288951][^c6288961][^c-285b7631c2014f96969cfa51f0fc87e9]
 
 ## Contents
 
@@ -84,7 +84,7 @@ An Act to amend the law relating to the protection of the coast of Great Britain
 - [Section 32 — Application to the Crown.](part-i/section-32.md)
 - [Section 33 — Provisions as to land belonging to ecclesiastical corporations.](part-i/section-33.md)
 
-### Part II — Provisions for Safety of Navigation[^key-a6d7c1fdb099f2b7fc2d0a71376cc042][^key-c97b53b5f005b2368b83b7748fd732d6][^key-2d1f69cb29e6c06f94a0b37e5298444d]
+### Part II — Provisions for Safety of Navigation[^c-a6d7c1fdb099f2b7fc2d0a71376cc042][^c-c97b53b5f005b2368b83b7748fd732d6][^c-2d1f69cb29e6c06f94a0b37e5298444d]
 
 *Extent: E+W+S*
 
@@ -133,12 +133,12 @@ SCHEDULES
 
 [^c6288961]: Commencement: Act wholly in force at Royal Assent
 
-[^key-285b7631c2014f96969cfa51f0fc87e9]: Modification: Act: power to amend conferred (E.W.) (1.10.2010) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 28](https://www.legislation.gov.uk/ukpga/2010/29/section/28), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-285b7631c2014f96969cfa51f0fc87e9]: Modification: Act: power to amend conferred (E.W.) (1.10.2010) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 28](https://www.legislation.gov.uk/ukpga/2010/29/section/28), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
 [^c6288971]: Modification: Pt. I (ss. 1-33) saved (25.7.1991) by [Highland Regional Council (Harbours) Order Confirmation Act 1991 (c. xii)](https://www.legislation.gov.uk/ukla/1991/12), [s. 1](https://www.legislation.gov.uk/ukla/1991/12/section/1), [Sch.](https://www.legislation.gov.uk/ukla/1991/12/schedule), [s. 61(1)(e)](https://www.legislation.gov.uk/ukla/1991/12/section/61/1/e)
 
-[^key-a6d7c1fdb099f2b7fc2d0a71376cc042]: Modification: S. 36A transitional provisions for effects of 2010 asp 5 Sch. 4 para. 1 (S.) (6.4.2011) by [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [arts. 1](https://www.legislation.gov.uk/ssi/2011/202/article/1), [4](https://www.legislation.gov.uk/ssi/2011/202/article/4)
+[^c-a6d7c1fdb099f2b7fc2d0a71376cc042]: Modification: S. 36A transitional provisions for effects of 2010 asp 5 Sch. 4 para. 1 (S.) (6.4.2011) by [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [arts. 1](https://www.legislation.gov.uk/ssi/2011/202/article/1), [4](https://www.legislation.gov.uk/ssi/2011/202/article/4)
 
-[^key-c97b53b5f005b2368b83b7748fd732d6]: Textual amendment: Pt. II repealed (S.) (6.4.2011) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [s. 168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1), [sch. 4 para. 1(a)](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/1/a) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(d)](https://www.legislation.gov.uk/ssi/2011/58/article/3/d)
+[^c-c97b53b5f005b2368b83b7748fd732d6]: Textual amendment: Pt. II repealed (S.) (6.4.2011) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [s. 168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1), [sch. 4 para. 1(a)](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/1/a) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(d)](https://www.legislation.gov.uk/ssi/2011/58/article/3/d)
 
-[^key-2d1f69cb29e6c06f94a0b37e5298444d]: Textual amendment: Pt. II repealed (E.W.) (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 1(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/1/2), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/2)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-2d1f69cb29e6c06f94a0b37e5298444d]: Textual amendment: Pt. II repealed (E.W.) (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 1(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/1/2), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/2)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)

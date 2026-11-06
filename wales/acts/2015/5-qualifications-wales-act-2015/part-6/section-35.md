@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Award in Wales of an approved qualification: restriction on application of conditions imposed by Ofqual[^key-2a642d21ab1a15b11e714abb47faa1b2]
+## 35. Award in Wales of an approved qualification: restriction on application of conditions imposed by Ofqual[^c-2a642d21ab1a15b11e714abb47faa1b2]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a642d21ab1a15b11e714abb47faa1b2]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2015/5/section/35) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-2a642d21ab1a15b11e714abb47faa1b2]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2015/5/section/35) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

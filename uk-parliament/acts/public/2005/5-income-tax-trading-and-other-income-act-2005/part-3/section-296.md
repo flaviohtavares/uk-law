@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies if in respect of a lease—
 
-- (a) there is a receipt of a Schedule A business or an overseas property business (within the meaning of section 70A(4) of ICTA) as a result of section 34 or 35 of ICTA (treatment of premiums etc. as rent and assignments for profit of lease granted at an undervalue) for an accounting period ending after 5th April 2005 but before 1st April 2009[^key-667be76d37223ee1f9a16960c2c3bb3a], or
+- (a) there is a receipt of a Schedule A business or an overseas property business (within the meaning of section 70A(4) of ICTA) as a result of section 34 or 35 of ICTA (treatment of premiums etc. as rent and assignments for profit of lease granted at an undervalue) for an accounting period ending after 5th April 2005 but before 1st April 2009[^c-667be76d37223ee1f9a16960c2c3bb3a], or
 - (b) there would be such a receipt, but for the operation of section 37(2) or (3) of ICTA (reductions in certain receipts under section 34 or 35 of ICTA).
 
 In this Chapter such a receipt is referred to as a “**corporation tax receipt**”.
@@ -45,4 +45,4 @@ In this Chapter such a receipt is referred to as a “**corporation tax receipt*
 
 ## Annotations
 
-[^key-667be76d37223ee1f9a16960c2c3bb3a]: Textual amendment: Words in s. 296(1)(a) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 623](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/623) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-667be76d37223ee1f9a16960c2c3bb3a]: Textual amendment: Words in s. 296(1)(a) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 623](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/623) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

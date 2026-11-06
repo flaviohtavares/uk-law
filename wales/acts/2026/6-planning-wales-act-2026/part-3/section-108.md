@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Apportionment and recovery of compensation for depreciation[^key-888c36495f823a1884b71c2d87f67e76]
+## 108. Apportionment and recovery of compensation for depreciation[^c-888c36495f823a1884b71c2d87f67e76]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 10 provides for the apportionment and recovery of compensation for depr
 
 ## Annotations
 
-[^key-888c36495f823a1884b71c2d87f67e76]: Commencement: S. 108 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-888c36495f823a1884b71c2d87f67e76]: Commencement: S. 108 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

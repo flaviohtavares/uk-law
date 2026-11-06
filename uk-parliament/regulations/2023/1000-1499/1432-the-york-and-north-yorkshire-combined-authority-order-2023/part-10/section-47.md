@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Police, Fire and Crime Panel: scrutiny of the community risk management plan[^key-bb78583d2b12491ed67ce8f70bca6857]
+## 47. Police, Fire and Crime Panel: scrutiny of the community risk management plan[^c-bb78583d2b12491ed67ce8f70bca6857]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb78583d2b12491ed67ce8f70bca6857]: Commencement: Art. 47 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-bb78583d2b12491ed67ce8f70bca6857]: Commencement: Art. 47 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00106]: Footnote: Section 28 was amended by paragraph 89 of Schedule 1 to the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).

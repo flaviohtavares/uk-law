@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Keeping information about higher-risk buildings[^key-c76fc0a0c17e1c5b884ddf619e00e981][^key-3f3e0bf043a62eb81806ac25ef520c34]
+## 88. Keeping information about higher-risk buildings[^c-c76fc0a0c17e1c5b884ddf619e00e981][^c-3f3e0bf043a62eb81806ac25ef520c34]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c76fc0a0c17e1c5b884ddf619e00e981]: Commencement: S. 88 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-c76fc0a0c17e1c5b884ddf619e00e981]: Commencement: S. 88 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-3f3e0bf043a62eb81806ac25ef520c34]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2022/30/section/88) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/j)
+[^c-3f3e0bf043a62eb81806ac25ef520c34]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2022/30/section/88) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/j)

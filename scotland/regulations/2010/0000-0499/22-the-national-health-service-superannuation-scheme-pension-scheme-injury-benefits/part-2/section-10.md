@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Schedule 1 of these Regulations[^key-2e3c58236b0f3e6c2a6890a76a464969]
+## 10. Schedule 1 of these Regulations[^c-2e3c58236b0f3e6c2a6890a76a464969]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 1 of these Regulations shall have effect.
 
 ## Annotations
 
-[^key-2e3c58236b0f3e6c2a6890a76a464969]: Commencement: Reg. 10 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-2e3c58236b0f3e6c2a6890a76a464969]: Commencement: Reg. 10 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)

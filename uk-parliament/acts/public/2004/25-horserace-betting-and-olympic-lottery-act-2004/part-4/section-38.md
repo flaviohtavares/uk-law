@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Repeals[^key-e4dbfea02f6b05d11043d25a58605787][^key-1f591cbae3f38a84cec124b1b6d3fbcd]
+## 38. Repeals[^c-e4dbfea02f6b05d11043d25a58605787][^c-1f591cbae3f38a84cec124b1b6d3fbcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The enactments listed in Schedule 6 are hereby repealed to the extent specified.
 
 ## Annotations
 
-[^key-e4dbfea02f6b05d11043d25a58605787]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2004/25/section/38) in force at 8.4.2005 for specified purposes by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
+[^c-e4dbfea02f6b05d11043d25a58605787]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2004/25/section/38) in force at 8.4.2005 for specified purposes by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
 
-[^key-1f591cbae3f38a84cec124b1b6d3fbcd]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2004/25/section/38) in force at 13.7.2011 for specified purposes by [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)
+[^c-1f591cbae3f38a84cec124b1b6d3fbcd]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2004/25/section/38) in force at 13.7.2011 for specified purposes by [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)

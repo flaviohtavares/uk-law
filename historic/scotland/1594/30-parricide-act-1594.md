@@ -30,12 +30,12 @@ Parricide Act 1594 (repealed)
 
 1594 c.30
 
-[^key-da9478700ba0fdbf9d5785c3ce03b688]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da9478700ba0fdbf9d5785c3ce03b688]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-da9478700ba0fdbf9d5785c3ce03b688]...
+[^c-da9478700ba0fdbf9d5785c3ce03b688]...
 
 ## Annotations
 
-[^key-da9478700ba0fdbf9d5785c3ce03b688]: Textual amendment: [Act](https://www.legislation.gov.uk/aosp/1594/30) repealed (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [ss. 17](https://www.legislation.gov.uk/asp/2016/7/section/17), [31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-da9478700ba0fdbf9d5785c3ce03b688]: Textual amendment: [Act](https://www.legislation.gov.uk/aosp/1594/30) repealed (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [ss. 17](https://www.legislation.gov.uk/asp/2016/7/section/17), [31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)

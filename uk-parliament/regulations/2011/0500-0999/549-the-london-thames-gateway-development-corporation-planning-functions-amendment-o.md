@@ -32,7 +32,7 @@ summary: ''
 
 Urban Development
 
-The London Thames Gateway Development Corporation (Planning Functions) (Amendment) Order 2011 (revoked)[^key-dd9e22fe985f6d15c98cf9d60263dc59]
+The London Thames Gateway Development Corporation (Planning Functions) (Amendment) Order 2011 (revoked)[^c-dd9e22fe985f6d15c98cf9d60263dc59]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 1st April 2011
 
-[^key-dd9e22fe985f6d15c98cf9d60263dc59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd9e22fe985f6d15c98cf9d60263dc59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dd9e22fe985f6d15c98cf9d60263dc59]
+## 1. Citation and commencement[^c-dd9e22fe985f6d15c98cf9d60263dc59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-dd9e22fe985f6d15c98cf9d60263dc59]
+## 2. Interpretation[^c-dd9e22fe985f6d15c98cf9d60263dc59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Order[^key-dd9e22fe985f6d15c98cf9d60263dc59]
+## 3. Amendment of Order[^c-dd9e22fe985f6d15c98cf9d60263dc59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment relating to planning functions area[^key-dd9e22fe985f6d15c98cf9d60263dc59]
+## 4. Amendment relating to planning functions area[^c-dd9e22fe985f6d15c98cf9d60263dc59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional provisions in connection with planning functions[^key-dd9e22fe985f6d15c98cf9d60263dc59]
+## 5. Transitional provisions in connection with planning functions[^c-dd9e22fe985f6d15c98cf9d60263dc59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional provisions in connection with planning applications[^key-dd9e22fe985f6d15c98cf9d60263dc59]
+## 6. Transitional provisions in connection with planning applications[^c-dd9e22fe985f6d15c98cf9d60263dc59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Liability for compensation in connection with planning functions and planning obligations[^key-dd9e22fe985f6d15c98cf9d60263dc59]
+## 7. Liability for compensation in connection with planning functions and planning obligations[^c-dd9e22fe985f6d15c98cf9d60263dc59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9e22fe985f6d15c98cf9d60263dc59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd9e22fe985f6d15c98cf9d60263dc59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dd9e22fe985f6d15c98cf9d60263dc59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd9e22fe985f6d15c98cf9d60263dc59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dd9e22fe985f6d15c98cf9d60263dc59]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/549) revoked (1.10.2012) by [The London Legacy Development Corporation (Planning Functions) Order 2012 (S.I. 2012/2167)](https://www.legislation.gov.uk/uksi/2012/2167), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2167/article/1), [8(d)](https://www.legislation.gov.uk/uksi/2012/2167/article/8/d) (with [Schs. 1](https://www.legislation.gov.uk/uksi/2012/2167/schedule/section/1), [2](https://www.legislation.gov.uk/uksi/2012/2167/schedule/section/2))
+[^c-dd9e22fe985f6d15c98cf9d60263dc59]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/549) revoked (1.10.2012) by [The London Legacy Development Corporation (Planning Functions) Order 2012 (S.I. 2012/2167)](https://www.legislation.gov.uk/uksi/2012/2167), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2167/article/1), [8(d)](https://www.legislation.gov.uk/uksi/2012/2167/article/8/d) (with [Schs. 1](https://www.legislation.gov.uk/uksi/2012/2167/schedule/section/1), [2](https://www.legislation.gov.uk/uksi/2012/2167/schedule/section/2))

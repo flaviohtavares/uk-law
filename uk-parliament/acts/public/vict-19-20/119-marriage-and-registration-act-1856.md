@@ -31,42 +31,42 @@ Marriage and Registration Act 1856 (repealed)
 
 1856 c.119
 
-[^key-02b788669ec05e5df9b7dd74038e1b31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02b788669ec05e5df9b7dd74038e1b31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[29th July 1856\]
 
 **No longer in force.**
 
-## 1–14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-02b788669ec05e5df9b7dd74038e1b31][^key-02b788669ec05e5df9b7dd74038e1b31]
+## 1–14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-02b788669ec05e5df9b7dd74038e1b31][^c-02b788669ec05e5df9b7dd74038e1b31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15, 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-02b788669ec05e5df9b7dd74038e1b31][^key-02b788669ec05e5df9b7dd74038e1b31]
+## 15, 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-02b788669ec05e5df9b7dd74038e1b31][^c-02b788669ec05e5df9b7dd74038e1b31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17–23. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-02b788669ec05e5df9b7dd74038e1b31][^key-02b788669ec05e5df9b7dd74038e1b31]
+## 17–23. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-02b788669ec05e5df9b7dd74038e1b31][^c-02b788669ec05e5df9b7dd74038e1b31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Recites the Act of 15 & 16 Vict. c. 36. Registrar General to allow searches to be made, and give extracts from the returns of certified places of worship made to him thereto, on payment of specified fees.[^key-02b788669ec05e5df9b7dd74038e1b31][^key-02b788669ec05e5df9b7dd74038e1b31]
+## 24. Recites the Act of 15 & 16 Vict. c. 36. Registrar General to allow searches to be made, and give extracts from the returns of certified places of worship made to him thereto, on payment of specified fees.[^c-02b788669ec05e5df9b7dd74038e1b31][^c-02b788669ec05e5df9b7dd74038e1b31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Act not to extend to Ireland or Scotland.[^key-02b788669ec05e5df9b7dd74038e1b31][^key-02b788669ec05e5df9b7dd74038e1b31]
+## 25. Act not to extend to Ireland or Scotland.[^c-02b788669ec05e5df9b7dd74038e1b31][^c-02b788669ec05e5df9b7dd74038e1b31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-02b788669ec05e5df9b7dd74038e1b31][^key-02b788669ec05e5df9b7dd74038e1b31]
+## 26. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-02b788669ec05e5df9b7dd74038e1b31][^c-02b788669ec05e5df9b7dd74038e1b31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULES (A)–(C)[^key-02b788669ec05e5df9b7dd74038e1b31]
+## SCHEDULES (A)–(C)[^c-02b788669ec05e5df9b7dd74038e1b31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-02b788669ec05e5df9b7dd74038e1b31]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
+[^c-02b788669ec05e5df9b7dd74038e1b31]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)

@@ -50,11 +50,11 @@ A draft of this Order was laid before and approved by a resolution of each House
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-1583d88dc3bf117e3353177037d1497f]
+### 1. Citation and commencement[^c-1583d88dc3bf117e3353177037d1497f]
 
 This Order may be cited as the Northamptonshire (Structural Changes) Order 2020 and comes into force on the day after the day on which the Order is made.
 
-### 2. Interpretation[^key-60a7cc55327492bb03d2d55768bcb26c]
+### 2. Interpretation[^c-60a7cc55327492bb03d2d55768bcb26c]
 
 In this Order—
 
@@ -62,26 +62,26 @@ In this Order—
 - “**the 1989 Act**” means the Local Government and Housing Act 1989 [^c23979751];
 - “**the 2000 Act**” means the Local Government Act 2000 [^c23979761];
 - “**the 2011 Act**” means the Localism Act 2011 [^c23979771];
-- “[^key-57ed88cca3b07150f1a9dcc5ee649fae]**2021 election**” means an election required by article 20(1)(a) to be held in 2021;
-- “the 2021 election day” means the ordinary day of elections of councillors in 2021[^key-525a6a685762d07fb2f5ef8cc9481d48] [^c23979781];
+- “[^c-57ed88cca3b07150f1a9dcc5ee649fae]**2021 election**” means an election required by article 20(1)(a) to be held in 2021;
+- “the 2021 election day” means the ordinary day of elections of councillors in 2021[^c-525a6a685762d07fb2f5ef8cc9481d48] [^c23979781];
 - “**the article 22 functions**” means the functions referred to in article 22;
 - “**the county council**” means the council of the county of Northamptonshire;
 - “**the Implementation Team**” means the team required to be formed under article 26(1);
 - “**the North Northamptonshire districts**” means the districts of Corby, East Northamptonshire, Kettering and Wellingborough;
 - “**the North Northamptonshire councils**” means Corby Borough Council, East Northamptonshire District Council, Kettering Borough Council and Wellingborough Borough Council;
-- “[^key-f79c2783ad5d8f6d596ecbd563acd258]**North Northamptonshire electoral division**” means an electoral division of the county council which comprises part of the area of one of the North Northamptonshire councils;
+- “[^c-f79c2783ad5d8f6d596ecbd563acd258]**North Northamptonshire electoral division**” means an electoral division of the county council which comprises part of the area of one of the North Northamptonshire councils;
 - “**ordinary day of election of councillors**” has the meaning given by section 37 of the Representation of the People Act 1983 [^c23979791];
 - “**the proper officer**”, in relation to any purpose and any council, means the officer appointed for that purpose by that council;
 - “**shadow authority**” means an authority (not being a local authority) which will become a local authority on<sup></sup>1st April 2021;
 - “**shadow executive**” has the meaning given in article 7(1);
-- “[^key-b71b9bb34dedc2baf760f1762a5a9ad7]**the shadow period**” means the period beginning with 11th May 2020 and ending on the fourth day after the 2021 election day;
+- “[^c-b71b9bb34dedc2baf760f1762a5a9ad7]**the shadow period**” means the period beginning with 11th May 2020 and ending on the fourth day after the 2021 election day;
 - “**the West Northamptonshire districts**” means the districts of Daventry, Northampton and South Northamptonshire;
 - “**the West Northamptonshire councils**” means Daventry District Council, Northampton Borough Council and South Northamptonshire District Council;
-- “[^key-2aa5f9dd0a6fadba8a378d6306e2b99d]**West Northamptonshire electoral division**” means an electoral division of the county council which comprises part of the area of one of the West Northamptonshire councils.
+- “[^c-2aa5f9dd0a6fadba8a378d6306e2b99d]**West Northamptonshire electoral division**” means an electoral division of the county council which comprises part of the area of one of the West Northamptonshire councils.
 
 ## PART 2 — ESTABLISHMENT OF SINGLE TIER OF LOCAL GOVERNMENT IN NORTHAMPTONSHIRE
 
-### 3. Single tier of local government in North Northamptonshire[^key-0517316b81a45f770e23c212286141c1]
+### 3. Single tier of local government in North Northamptonshire[^c-0517316b81a45f770e23c212286141c1]
 
 (1) A new non-metropolitan county and a new non-metropolitan district, each to be known as North Northamptonshire, are constituted comprising (in each case) the area of the North Northamptonshire districts.
 
@@ -99,7 +99,7 @@ In this Order—
 - (a) the North Northamptonshire districts are abolished as local government areas; and
 - (b) the North Northamptonshire councils are wound up and dissolved.
 
-### 4. Single tier of local government in West Northamptonshire[^key-b39689191d33a8acb591ab6cc33dafae]
+### 4. Single tier of local government in West Northamptonshire[^c-b39689191d33a8acb591ab6cc33dafae]
 
 (1) A new non-metropolitan county and a new non-metropolitan district, each to be known as West Northamptonshire, are constituted comprising (in each case) the area of the West Northamptonshire districts.
 
@@ -117,7 +117,7 @@ In this Order—
 - (a) the West Northamptonshire districts are abolished as local government areas; and
 - (b) the West Northamptonshire councils are wound up and dissolved.
 
-### 5. Northamptonshire County Council and councillors of that Council[^key-06a0d471f8b20d9d8393c212a87a2d6a]
+### 5. Northamptonshire County Council and councillors of that Council[^c-06a0d471f8b20d9d8393c212a87a2d6a]
 
 (1) On 1st April 2021—
 
@@ -134,7 +134,7 @@ In this Order—
 
 ## PART 3 — SHADOW AUTHORITIES
 
-### 6. Shadow authorities[^key-26d4c5a45266fc64fbeca4b3b3d13e9f][^key-14d709a2e87152a6f9a42b60aa956737]
+### 6. Shadow authorities[^c-26d4c5a45266fc64fbeca4b3b3d13e9f][^c-14d709a2e87152a6f9a42b60aa956737]
 
 (1) During the shadow period North Northamptonshire Council and West Northamptonshire Council shall each be a shadow authority for the purposes of the following provisions of this Part.
 
@@ -184,7 +184,7 @@ but may not be counted in relation to both.
 
 both of which must be held no later than 4th June 2020.
 
-### 7. Duties of shadow authorities: executive arrangements[^key-220f7d7bddd909ee35d48eb99c2752f3][^key-6609a3e425560a55c791f969e321f8b6]
+### 7. Duties of shadow authorities: executive arrangements[^c-220f7d7bddd909ee35d48eb99c2752f3][^c-6609a3e425560a55c791f969e321f8b6]
 
 (1) At its first meeting, the shadow authority for North Northamptonshire must, in accordance with paragraphs (2) to (9), create a leader and cabinet executive within the meaning of Part 1A of the 2000 Act [^c23979811] (arrangements with respect to local authority governance) (“the shadow executive”).
 
@@ -273,13 +273,13 @@ until the end of the shadow period, notwithstanding the dissolution on that date
 - (a) it were a district council (but not a principal authority in relation to a parish council); and
 - (b) references to co-opted members were omitted.
 
-### 8. Duties of shadow authorities: code of conduct[^key-c212e5a9787097be844f7804aa3cf643]
+### 8. Duties of shadow authorities: code of conduct[^c-c212e5a9787097be844f7804aa3cf643]
 
 (1) Subject to paragraph (2), each shadow authority must adopt a code of conduct proposed pursuant to article 25(1) and (2) at its first meeting.
 
 (2) In complying with paragraph (1), each shadow authority must make such amendments or modifications to the proposals submitted to it under article 25 as it considers necessary to secure that, when adopted, the code will satisfy the requirements of section 27 (duty to promote and maintain high standards of conduct) and section 28 (codes of conduct) of the 2011 Act.
 
-### 9. Duties of shadow authorities: appointment of certain officers[^key-3d4d7af6cc50b4cd88ffe7cc07e4b941]
+### 9. Duties of shadow authorities: appointment of certain officers[^c-3d4d7af6cc50b4cd88ffe7cc07e4b941]
 
 (1) At its first meeting, the shadow authority for North Northamptonshire must designate on an interim basis—
 
@@ -332,7 +332,7 @@ as they apply in relation to a relevant authority and the monitoring officer and
 
 (7) Subsections (2) to (5) and (6) of section 4 of the 1989 Act apply in relation to a shadow authority and its interim head of paid service as they apply in relation to a relevant authority and its head of paid service as if references in those subsections to a relevant authority and its head of paid service were references to a shadow authority and its interim head of paid service.
 
-### 10. Duties of shadow authorities: members' allowances for North Northamptonshire Council and West Northamptonshire Council[^key-91e0fb60215ff633aeafe18730f6685b]
+### 10. Duties of shadow authorities: members' allowances for North Northamptonshire Council and West Northamptonshire Council[^c-91e0fb60215ff633aeafe18730f6685b]
 
 (1) The shadow authority for North Northamptonshire must formulate proposals for the scheme of members' allowances to be adopted by North Northamptonshire Council.
 
@@ -357,7 +357,7 @@ as they apply in relation to a relevant authority and the monitoring officer and
 
 (10) In this article “**relevant councils**” means the county council, the North Northamptonshire Councils and the West Northamptonshire Councils.
 
-### 11. Functions of shadow authorities: Implementation Plan[^key-77ff73fa1e9fb81763ba41a4dc32ce28]
+### 11. Functions of shadow authorities: Implementation Plan[^c-77ff73fa1e9fb81763ba41a4dc32ce28]
 
 (1) After the dissolution of the North Northamptonshire Joint Committee, the shadow authority for North Northamptonshire must keep under review, and revise as necessary, the Implementation Plan prepared by the North Northamptonshire Joint Committee.
 
@@ -386,11 +386,11 @@ as they apply in relation to a relevant authority and the monitoring officer and
 - (a) as regards the shadow authority for North Northamptonshire, the function referred to in article 13(2); and
 - (b) as regards the shadow authority for West Northamptonshire, the function referred to in article 13(3).
 
-### 12. Other functions of the shadow authorities[^key-17060769372d10b28e92c5886cf61a66]
+### 12. Other functions of the shadow authorities[^c-17060769372d10b28e92c5886cf61a66]
 
 During the shadow period the shadow authorities have, in addition to the functions specified or referred to in articles 7 to 11, the functions referred to or specified in articles 13 to 17.
 
-### 13.[^key-22031fbb884c3718462a859f31481bfd]
+### 13.[^c-22031fbb884c3718462a859f31481bfd]
 
 (1) Each shadow authority must take all such practicable steps as are necessary or expedient—
 
@@ -403,11 +403,11 @@ During the shadow period the shadow authorities have, in addition to the functio
 
 (3) The shadow authority for West Northamptonshire must also take all such practicable steps as are necessary or expedient to liaise with the West Northamptonshire councils for the purpose of ensuring continuity of the delivery of public services on and after 1st April 2021.
 
-### 14.[^key-a3e06dfa7296c9a7783c1098f7ae0be2]
+### 14.[^c-a3e06dfa7296c9a7783c1098f7ae0be2]
 
 The shadow authorities have all the other powers of a non-metropolitan county council or a non-metropolitan district council.
 
-### 15.[^key-21dd9d7b769dd19cb2dd0f616f361002]
+### 15.[^c-21dd9d7b769dd19cb2dd0f616f361002]
 
 The powers conferred by article 14 may be exercised by a shadow authority only—
 
@@ -418,14 +418,14 @@ The powers conferred by article 14 may be exercised by a shadow authority only�
   - (i) with the prior consent of the county council, where the expenditure or liability relates to a matter which, before 1st April 2021, is the responsibility of that council; or
   - (ii) where the expenditure or liability relates to a matter which, before 1st April 2021, is the responsibility of a district council, with the prior consent of that council.
 
-### 16.[^key-f64e3e54d8b77385db115ba714d3c19d]
+### 16.[^c-f64e3e54d8b77385db115ba714d3c19d]
 
 The total of the expenditure properly incurred by the shadow authorities is to be divided among, and paid by, the county council, the North Northamptonshire councils and the West Northamptonshire councils in such proportion as may be agreed between those councils; but, where either of the shadow authorities notifies the Secretary of State that there is no such agreement, the Secretary of State may—
 
 - (a) determine the proportion in which that expenditure is to be divided and paid; or
 - (b) appoint an arbitrator for that purpose.
 
-### 17.[^key-07612924fb20cdfa3d7e08f33fbdeb90]
+### 17.[^c-07612924fb20cdfa3d7e08f33fbdeb90]
 
 (1) The following provisions of the 1972 Act apply in relation to a shadow authority, notwithstanding that it does not have the functions and full powers of a local authority:
 
@@ -451,9 +451,9 @@ Table 1
 - (e) for the purposes of the Data Protection Act 2018 [^c23979901], as a public authority; and
 - (f) for the purposes of the Freedom of Information Act 2000 [^c23979911], as a public authority.
 
-(3)[^key-ca696f80ff3a7bfb718aef1a6192b057] The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 [^c23980031] apply in relation to each shadow authority as if that authority were a district council and its executive were the executive of a district council.
+(3)[^c-ca696f80ff3a7bfb718aef1a6192b057] The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 [^c23980031] apply in relation to each shadow authority as if that authority were a district council and its executive were the executive of a district council.
 
-### 18. Discharge of shadow authorities' functions by shadow executives[^key-870a7018e03b3adb0eb4cc627ec80cda]
+### 18. Discharge of shadow authorities' functions by shadow executives[^c-870a7018e03b3adb0eb4cc627ec80cda]
 
 (1) Except to the extent that any provision of any Act, this Order or regulations under section 9D (functions which are the responsibility of an executive), 9DA (functions of an executive: further provision) or 13 [^c23979921] (functions which are the responsibility of an executive) of the 2000 Act requires otherwise, the functions conferred on a shadow authority by or under this Order are to be delegated to, and discharged by, its shadow executive.
 
@@ -461,7 +461,7 @@ Table 1
 
 ## PART 4 — ELECTORAL MATTERS
 
-### 19. Cancellation of elections to the North Northamptonshire and West Northamptonshire Councils[^key-904aca4511c90175cefdb20fd3b25556]
+### 19. Cancellation of elections to the North Northamptonshire and West Northamptonshire Councils[^c-904aca4511c90175cefdb20fd3b25556]
 
 (1) Notwithstanding section 7(8) and (9) of the 1972 Act (elections of councillors)—
 
@@ -474,11 +474,11 @@ Table 1
 
 (4) Where, in the circumstances mentioned in paragraph (3), the declaration mentioned in section 89(1)(a) of the 1972 Act has been made or the notice in writing mentioned in section 89(1)(b) of the 1972 Act has been given within thirty-five days of 1st April 2021 (computed in accordance with section 243(4) of the 1972 Act) an election shall not be held and any proceedings required by the Local Elections (Principal Areas) (England and Wales) Rules 2006 [^c23979941] shall not be commenced.
 
-### 20. Election of councillors of North Northamptonshire Council and West Northamptonshire Council in 2020 and subsequent years[^key-9d2300f135b4f34ffff69e787c905bc7]
+### 20. Election of councillors of North Northamptonshire Council and West Northamptonshire Council in 2020 and subsequent years[^c-9d2300f135b4f34ffff69e787c905bc7]
 
 (1) Whole council elections of councillors of North Northamptonshire Council and West Northamptonshire Council are to be held—
 
-- (a) on the ordinary day of election of councillors in 2021[^key-3ace7753cc613c4d7dff4ba732ec983a];
+- (a) on the ordinary day of election of councillors in 2021[^c-3ace7753cc613c4d7dff4ba732ec983a];
 - (b) on the ordinary day of election of councillors in 2025;
 - (c) every fourth year thereafter.
 
@@ -496,11 +496,11 @@ Table 1
 - (c) the area of each new ward is to be the same as that of the county council electoral division, as that electoral division exists on 31st March 2020, and as indicated in column 2 of that Table;
 - (d) each new ward is to return the number of councillors indicated in column 3 of that Table.
 
-(4)[^key-688df859da1516e521d867699bfe409c] The shadow authority for North Northamptonshire must designate an officer of the county council or one of the North Northamptonshire councils to act at the 2021 election as the returning officer for North Northamptonshire (“the North Northamptonshire Council returning officer”).
+(4)[^c-688df859da1516e521d867699bfe409c] The shadow authority for North Northamptonshire must designate an officer of the county council or one of the North Northamptonshire councils to act at the 2021 election as the returning officer for North Northamptonshire (“the North Northamptonshire Council returning officer”).
 
 (5) The shadow authority for West Northamptonshire must designate an officer of the county council or one of the West Northamptonshire councils to act at the 2021 election as the returning officer for West Northamptonshire (“the West Northamptonshire Council returning officer”).
 
-(6) The North Northamptonshire Council returning officer and the West Northamptonshire Council returning officer must take such steps as are necessary or appropriate to prepare for the 2021 elections[^key-412371ebbeaa1d620edd96add95d2f43], including the making of all necessary alterations in the electoral register.
+(6) The North Northamptonshire Council returning officer and the West Northamptonshire Council returning officer must take such steps as are necessary or appropriate to prepare for the 2021 elections[^c-412371ebbeaa1d620edd96add95d2f43], including the making of all necessary alterations in the electoral register.
 
 (7) The total of the expenditure properly incurred by the North Northamptonshire Council returning officer and the West Northamptonshire Council returning officer in relation to the holding of the 2021 elections is to be divided among, and paid by, the county council, the North Northamptonshire councils and the West Northamptonshire councils in such proportion as may be agreed between them; but, where the North Northamptonshire Council returning officer or the West Northamptonshire Council returning officer notifies the Secretary of State that there is not such agreement, the Secretary of State may—
 
@@ -509,46 +509,46 @@ Table 1
 
 (8) In relation to the 2021 elections, “the appropriate officer” in Parts 1 and 2 of the Representation of the People Act 1983 [^c23979961] does not have the meaning given by section 67(7) of that Act but means the North Northamptonshire Council returning officer or the West Northamptonshire Council returning officer.
 
-(9) All councillors elected in 2021[^key-8bb4a3de5d8c6430bc2cdec3b56d2ad5] or any later year are to retire on the fourth day after the ordinary day of election of councillors in the year of retirement and the newly-elected councillors are to come into office on the day on which their predecessors retire.
+(9) All councillors elected in 2021[^c-8bb4a3de5d8c6430bc2cdec3b56d2ad5] or any later year are to retire on the fourth day after the ordinary day of election of councillors in the year of retirement and the newly-elected councillors are to come into office on the day on which their predecessors retire.
 
 (10) In this article “the year of retirement” —
 
-- (a) in relation to councillors elected in 2021[^key-562403425e2de98cfd0a0c038db82b18] means 2025;
+- (a) in relation to councillors elected in 2021[^c-562403425e2de98cfd0a0c038db82b18] means 2025;
 - (b) in relation to councillors elected in 2025 or in any later year means the fourth year after the year of election of those councillors.
 
-(11)[^key-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(15)[^key-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(16)[^key-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(16)[^c-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(17)[^key-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(17)[^c-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(18)[^key-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(18)[^c-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(19)[^key-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(19)[^c-7ecf4c8c7670a9cf0afef2a7d86fbd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Cancellation of parish council elections, etc[^key-20a7d092fe1404dd0879ea1d86a39656]
+### 21. Cancellation of parish council elections, etc[^c-20a7d092fe1404dd0879ea1d86a39656]
 
 Notwithstanding section 16(3) of the 1972 Act (election of parish councillors)—
 
-- (a) ordinary elections are not to be held in [^key-1afe3289d85a2efeaaacd9bde40ad528]... 2022, 2023, 2026 or in 2027 for the return of councillors to the council of any parish within the non-metropolitan district of North Northamptonshire and the non-metropolitan district of West Northamptonshire;
+- (a) ordinary elections are not to be held in [^c-1afe3289d85a2efeaaacd9bde40ad528]... 2022, 2023, 2026 or in 2027 for the return of councillors to the council of any parish within the non-metropolitan district of North Northamptonshire and the non-metropolitan district of West Northamptonshire;
 - (b) the term of office of parish councillors elected at the ordinary elections in 2020 or in any earlier year or at any subsequent by-election held before the ordinary day of election of councillors in 2025 ends on the fourth day after the ordinary day of elections in 2025 [^c23979981];
-- (c) ordinary elections of parish councillors for those parishes in which, but for paragraph (a), elections would have been held in [^key-44e3d12def0d1c1068b2f377e92a7e30]... 2022 or 2023 are to be held on the ordinary day of election of councillors in 2025 and every fourth year thereafter;
+- (c) ordinary elections of parish councillors for those parishes in which, but for paragraph (a), elections would have been held in [^c-44e3d12def0d1c1068b2f377e92a7e30]... 2022 or 2023 are to be held on the ordinary day of election of councillors in 2025 and every fourth year thereafter;
 - (d) the term of office of parish councillors elected at the ordinary elections in 2025 or at any subsequent by-election held before the ordinary day of election of councillors in 2029 ends on the fourth day after the ordinary day of elections in 2029; and
 - (e) ordinary elections of parish councillors for those parishes in which, but for paragraph (a), elections would have been held in 2026 or 2027 are to be held on the ordinary day of election of councillors in 2029 and every fourth year thereafter.
 
 ## PART 5 — FURTHER TRANSITIONAL PROVISIONS
 
-### 22. Functions of the county council, the North Northamptonshire councils and the West Northamptonshire councils[^key-26b522bd2b91a6d0a310c6883df0ac49]
+### 22. Functions of the county council, the North Northamptonshire councils and the West Northamptonshire councils[^c-26b522bd2b91a6d0a310c6883df0ac49]
 
-(1) There is added to the functions of the county council the function, which is exercisable only in the transitional period beginning on the coming into force of this Order and ending on 4th June 2020[^key-d5b1bdb5bcf3d07e4ea7bf58d03c0389], of preparing for and facilitating the economic, effective, efficient and timely transfer to the North Northamptonshire Council, of such of its functions, property, rights and liabilities as relate to North Northamptonshire and its inhabitants.
+(1) There is added to the functions of the county council the function, which is exercisable only in the transitional period beginning on the coming into force of this Order and ending on 4th June 2020[^c-d5b1bdb5bcf3d07e4ea7bf58d03c0389], of preparing for and facilitating the economic, effective, efficient and timely transfer to the North Northamptonshire Council, of such of its functions, property, rights and liabilities as relate to North Northamptonshire and its inhabitants.
 
 (2) There is added to the functions of the county council the function, which is exercisable only in the transitional period beginning on the coming into force of this Order and ending on 4th June 2020, of preparing for and facilitating the economic, effective, efficient and timely transfer to the West Northamptonshire Council, of such of its functions, property, rights and liabilities as relate to West Northamptonshire and its inhabitants.
 
@@ -556,7 +556,7 @@ Notwithstanding section 16(3) of the 1972 Act (election of parish councillors)�
 
 (4) There is added to the functions of each of the West Northamptonshire councils the function, which is exercisable only in the transitional period beginning on the coming into force of this Order and ending on 4th June 2020, of preparing for and facilitating the economic, effective, efficient and timely transfer to the West Northamptonshire Council of its functions, property, rights and liabilities.
 
-### 23. Joint committees[^key-4f25136bdcd74d941b08acc9773b5529]
+### 23. Joint committees[^c-4f25136bdcd74d941b08acc9773b5529]
 
 (1) Not later than 14 days after the coming into force of this Order—
 
@@ -595,7 +595,7 @@ must co-operate in the establishment of the relevant Joint Committee.
 
 (10) The West Northamptonshire Joint Committee is dissolved on the day following that on which the shadow authority for West Northamptonshire holds its first meeting.
 
-### 24. Implementation Plans and further provisions relevant to the discharge of functions by joint committees[^key-94c87c467b9c4523b8ebe5f7d0f6f6fd]
+### 24. Implementation Plans and further provisions relevant to the discharge of functions by joint committees[^c-94c87c467b9c4523b8ebe5f7d0f6f6fd]
 
 (1) The North Northamptonshire Joint Committee and the West Northamptonshire Joint Committee must each prepare, keep under review, and revise as necessary, an Implementation Plan which must include—
 
@@ -624,7 +624,7 @@ each Joint Committee must have regard to—
 
 require the council referred to in the notice to take such action relevant to any of the article 22 functions as may be specified in the notice.
 
-### 25. Functions of joint committees relevant to codes of conduct[^key-17ae6da9997bf5f9ce319350204e9b40]
+### 25. Functions of joint committees relevant to codes of conduct[^c-17ae6da9997bf5f9ce319350204e9b40]
 
 (1) The North Northamptonshire Joint Committee must formulate proposals for the code of conduct to be adopted by the shadow authority for North Northamptonshire in accordance with article 8(1) and present those proposals at the first meeting of the shadow authority.
 
@@ -632,7 +632,7 @@ require the council referred to in the notice to take such action relevant to an
 
 (3) In formulating proposals under paragraphs (1) and (2) the joint committees must have regard to section 27 (duty to promote and maintain high standards of conduct) and section 28 (codes of conduct) of the 2011 Act.
 
-### 26. Implementation Team[^key-2e6cf7fc5d61a8696cce4145194d1ed4]
+### 26. Implementation Team[^c-2e6cf7fc5d61a8696cce4145194d1ed4]
 
 (1) Not later than 21 days after the coming into force of this Order, the North Northamptonshire Joint Committee and the West Northamptonshire Joint Committee must form a single team of officers (“the Implementation Team”) for the purposes of assisting—
 
@@ -659,7 +659,7 @@ require the council referred to in the notice to take such action relevant to an
   - (a) as regards the North Northamptonshire councils, the shadow authority for North Northamptonshire; and
   - (b) as regards the West Northamptonshire councils, the shadow authority for West Northamptonshire.
 
-### 27. General transitional duties of the county council, the North Northamptonshire Councils and the West Northamptonshire Councils[^key-513bb49cc24acd585cd3a2a306a1675c]
+### 27. General transitional duties of the county council, the North Northamptonshire Councils and the West Northamptonshire Councils[^c-513bb49cc24acd585cd3a2a306a1675c]
 
 (1) The county council, each of the North Northamptonshire councils and each of the West Northamptonshire councils must—
 
@@ -702,7 +702,7 @@ Ministry of Housing, Communities and Local Government
 
 Article 20(2) and (3)
 
-### PART 1 — Wards of North Northamptonshire[^key-7e403c5f2e535830df9d08d1800be68f]
+### PART 1 — Wards of North Northamptonshire[^c-7e403c5f2e535830df9d08d1800be68f]
 
 | *New ward**Column 1* | *Existing electoral division**Column 2* | *Number of Councillors**Column 3* |
 | --- | --- | --- |
@@ -733,7 +733,7 @@ Article 20(2) and (3)
 | Wicksteed | Wicksteed | 3 |
 | Windmill | Windmill | 3 |
 
-### PART 2 — Wards of West Northamptonshire[^key-a2f19368163662786e1a98dd06b9b253]
+### PART 2 — Wards of West Northamptonshire[^c-a2f19368163662786e1a98dd06b9b253]
 
 | *New ward**Column 1* | *Existing electoral division**Column 2* | *Number of Councillors**Column 3* |
 | --- | --- | --- |
@@ -789,9 +789,9 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c23979731]: Marginal citation: [2007 c. 28](https://www.legislation.gov.uk/ukpga/2007/28).
 
-[^key-1583d88dc3bf117e3353177037d1497f]: Commencement: Art. 1 in force at 14.2.2020, see art. 1
+[^c-1583d88dc3bf117e3353177037d1497f]: Commencement: Art. 1 in force at 14.2.2020, see art. 1
 
-[^key-60a7cc55327492bb03d2d55768bcb26c]: Commencement: Art. 2 in force at 14.2.2020, see art. 1
+[^c-60a7cc55327492bb03d2d55768bcb26c]: Commencement: Art. 2 in force at 14.2.2020, see art. 1
 
 [^c23979741]: Marginal citation: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -801,47 +801,47 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c23979771]: Marginal citation: [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-57ed88cca3b07150f1a9dcc5ee649fae]: Textual amendment: Words in art. 2 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2020/426/regulation/10/a)
+[^c-57ed88cca3b07150f1a9dcc5ee649fae]: Textual amendment: Words in art. 2 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2020/426/regulation/10/a)
 
-[^key-525a6a685762d07fb2f5ef8cc9481d48]: Textual amendment: Words in art. 2 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2020/426/regulation/10/b)
+[^c-525a6a685762d07fb2f5ef8cc9481d48]: Textual amendment: Words in art. 2 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2020/426/regulation/10/b)
 
 [^c23979781]: Marginal citation: See section 37 of the [Representation of the People Act 1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2).
 
-[^key-f79c2783ad5d8f6d596ecbd563acd258]: Textual amendment: Words in art. 2 inserted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2020/426/regulation/10/c)
+[^c-f79c2783ad5d8f6d596ecbd563acd258]: Textual amendment: Words in art. 2 inserted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2020/426/regulation/10/c)
 
 [^c23979791]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 
-[^key-b71b9bb34dedc2baf760f1762a5a9ad7]: Textual amendment: Words in art. 2 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [10(d)](https://www.legislation.gov.uk/uksi/2020/426/regulation/10/d)
+[^c-b71b9bb34dedc2baf760f1762a5a9ad7]: Textual amendment: Words in art. 2 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [10(d)](https://www.legislation.gov.uk/uksi/2020/426/regulation/10/d)
 
-[^key-2aa5f9dd0a6fadba8a378d6306e2b99d]: Textual amendment: Words in art. 2 inserted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [10(e)](https://www.legislation.gov.uk/uksi/2020/426/regulation/10/e)
+[^c-2aa5f9dd0a6fadba8a378d6306e2b99d]: Textual amendment: Words in art. 2 inserted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [10(e)](https://www.legislation.gov.uk/uksi/2020/426/regulation/10/e)
 
-[^key-0517316b81a45f770e23c212286141c1]: Commencement: Art. 3 in force at 14.2.2020, see art. 1
+[^c-0517316b81a45f770e23c212286141c1]: Commencement: Art. 3 in force at 14.2.2020, see art. 1
 
-[^key-b39689191d33a8acb591ab6cc33dafae]: Commencement: Art. 4 in force at 14.2.2020, see art. 1
+[^c-b39689191d33a8acb591ab6cc33dafae]: Commencement: Art. 4 in force at 14.2.2020, see art. 1
 
-[^key-06a0d471f8b20d9d8393c212a87a2d6a]: Commencement: Art. 5 in force at 14.2.2020, see art. 1
+[^c-06a0d471f8b20d9d8393c212a87a2d6a]: Commencement: Art. 5 in force at 14.2.2020, see art. 1
 
 [^c23979801]: Marginal citation: [S.I. 2006/3304](https://www.legislation.gov.uk/uksi/2006/3304).
 
-[^key-26d4c5a45266fc64fbeca4b3b3d13e9f]: Commencement: Art. 6 in force at 14.2.2020, see art. 1
+[^c-26d4c5a45266fc64fbeca4b3b3d13e9f]: Commencement: Art. 6 in force at 14.2.2020, see art. 1
 
-[^key-14d709a2e87152a6f9a42b60aa956737]: Textual amendment: Art. 6 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2020/426/regulation/11)
+[^c-14d709a2e87152a6f9a42b60aa956737]: Textual amendment: Art. 6 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2020/426/regulation/11)
 
-[^key-220f7d7bddd909ee35d48eb99c2752f3]: Commencement: Art. 7 in force at 14.2.2020, see art. 1
+[^c-220f7d7bddd909ee35d48eb99c2752f3]: Commencement: Art. 7 in force at 14.2.2020, see art. 1
 
-[^key-6609a3e425560a55c791f969e321f8b6]: Textual amendment: Art. 7 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2020/426/regulation/12)
+[^c-6609a3e425560a55c791f969e321f8b6]: Textual amendment: Art. 7 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2020/426/regulation/12)
 
 [^c23979811]: Marginal citation: Part 1A was inserted by the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), section 21 and Schedule 2.
 
-[^key-c212e5a9787097be844f7804aa3cf643]: Commencement: Art. 8 in force at 14.2.2020, see art. 1
+[^c-c212e5a9787097be844f7804aa3cf643]: Commencement: Art. 8 in force at 14.2.2020, see art. 1
 
-[^key-3d4d7af6cc50b4cd88ffe7cc07e4b941]: Commencement: Art. 9 in force at 14.2.2020, see art. 1
+[^c-3d4d7af6cc50b4cd88ffe7cc07e4b941]: Commencement: Art. 9 in force at 14.2.2020, see art. 1
 
 [^c23979821]: Marginal citation: Relevant amendments, including the insertion of section 5A, were made by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237), article 23.
 
 [^c23979831]: Marginal citation: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41). Relevant amendments were made by the [Local Government and Housing Act 1989](https://www.legislation.gov.uk/ukpga/1989/42), section 139 and Schedule 5, and by the [Local Government Act 2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26), section 30 and [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237).
 
-[^key-91e0fb60215ff633aeafe18730f6685b]: Commencement: Art. 10 in force at 14.2.2020, see art. 1
+[^c-91e0fb60215ff633aeafe18730f6685b]: Commencement: Art. 10 in force at 14.2.2020, see art. 1
 
 [^c23979841]: Marginal citation: [S.I. 2003/1021](https://www.legislation.gov.uk/uksi/2003/1021).
 
@@ -849,19 +849,19 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c23979861]: Marginal citation: For the meaning of “special responsibility allowance” see regulation 5 of [S.I. 2003/1021](https://www.legislation.gov.uk/uksi/2003/1021).
 
-[^key-77ff73fa1e9fb81763ba41a4dc32ce28]: Commencement: Art. 11 in force at 14.2.2020, see art. 1
+[^c-77ff73fa1e9fb81763ba41a4dc32ce28]: Commencement: Art. 11 in force at 14.2.2020, see art. 1
 
-[^key-17060769372d10b28e92c5886cf61a66]: Commencement: Art. 12 in force at 14.2.2020, see art. 1
+[^c-17060769372d10b28e92c5886cf61a66]: Commencement: Art. 12 in force at 14.2.2020, see art. 1
 
-[^key-22031fbb884c3718462a859f31481bfd]: Commencement: Art. 13 in force at 14.2.2020, see art. 1
+[^c-22031fbb884c3718462a859f31481bfd]: Commencement: Art. 13 in force at 14.2.2020, see art. 1
 
-[^key-a3e06dfa7296c9a7783c1098f7ae0be2]: Commencement: Art. 14 in force at 14.2.2020, see art. 1
+[^c-a3e06dfa7296c9a7783c1098f7ae0be2]: Commencement: Art. 14 in force at 14.2.2020, see art. 1
 
-[^key-21dd9d7b769dd19cb2dd0f616f361002]: Commencement: Art. 15 in force at 14.2.2020, see art. 1
+[^c-21dd9d7b769dd19cb2dd0f616f361002]: Commencement: Art. 15 in force at 14.2.2020, see art. 1
 
-[^key-f64e3e54d8b77385db115ba714d3c19d]: Commencement: Art. 16 in force at 14.2.2020, see art. 1
+[^c-f64e3e54d8b77385db115ba714d3c19d]: Commencement: Art. 16 in force at 14.2.2020, see art. 1
 
-[^key-07612924fb20cdfa3d7e08f33fbdeb90]: Commencement: Art. 17 in force at 14.2.2020, see art. 1
+[^c-07612924fb20cdfa3d7e08f33fbdeb90]: Commencement: Art. 17 in force at 14.2.2020, see art. 1
 
 [^c23979871]: Marginal citation: [2014 c.2](https://www.legislation.gov.uk/ukpga/2014/2).
 
@@ -873,51 +873,51 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c23979911]: Marginal citation: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36).
 
-[^key-ca696f80ff3a7bfb718aef1a6192b057]: Textual amendment: Art. 17(3) inserted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2020/426/regulation/13)
+[^c-ca696f80ff3a7bfb718aef1a6192b057]: Textual amendment: Art. 17(3) inserted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2020/426/regulation/13)
 
 [^c23980031]: Marginal citation: [S.I. 2020/392](https://www.legislation.gov.uk/uksi/2020/392).
 
-[^key-870a7018e03b3adb0eb4cc627ec80cda]: Commencement: Art. 18 in force at 14.2.2020, see art. 1
+[^c-870a7018e03b3adb0eb4cc627ec80cda]: Commencement: Art. 18 in force at 14.2.2020, see art. 1
 
 [^c23979921]: Marginal citation: Section 13 was amended by Schedule 3 of the [Localism Act 2011](https://www.legislation.gov.uk/ukpga/2011/20) so that it applies to Wales only from 4th May 2012. The Local Authorities (Functions and Responsibilities) (England) Regulations ([S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853)) made under section 13 continue to apply to England.
 
-[^key-904aca4511c90175cefdb20fd3b25556]: Commencement: Art. 19 in force at 14.2.2020, see art. 1
+[^c-904aca4511c90175cefdb20fd3b25556]: Commencement: Art. 19 in force at 14.2.2020, see art. 1
 
 [^c23979931]: Marginal citation: The Northamptonshire (Changes to Years of Elections) Order 2018 [S.I. 2018/1324](https://www.legislation.gov.uk/uksi/2018/1324) changed the year of elections of the districts within Northamptonshire from 2019 to 2020.
 
 [^c23979941]: Marginal citation: [S.I. 2006/3304](https://www.legislation.gov.uk/uksi/2006/3304).
 
-[^key-9d2300f135b4f34ffff69e787c905bc7]: Commencement: Art. 20 in force at 14.2.2020, see art. 1
+[^c-9d2300f135b4f34ffff69e787c905bc7]: Commencement: Art. 20 in force at 14.2.2020, see art. 1
 
-[^key-3ace7753cc613c4d7dff4ba732ec983a]: Textual amendment: Word in art. 20(1)(a) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2020/426/regulation/14/b)
+[^c-3ace7753cc613c4d7dff4ba732ec983a]: Textual amendment: Word in art. 20(1)(a) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2020/426/regulation/14/b)
 
-[^key-688df859da1516e521d867699bfe409c]: Textual amendment: Art. 20(4)(5) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [14(c)](https://www.legislation.gov.uk/uksi/2020/426/regulation/14/c)
+[^c-688df859da1516e521d867699bfe409c]: Textual amendment: Art. 20(4)(5) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [14(c)](https://www.legislation.gov.uk/uksi/2020/426/regulation/14/c)
 
-[^key-412371ebbeaa1d620edd96add95d2f43]: Textual amendment: Words in art. 20 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2020/426/regulation/14/a)
+[^c-412371ebbeaa1d620edd96add95d2f43]: Textual amendment: Words in art. 20 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2020/426/regulation/14/a)
 
 [^c23979961]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 
-[^key-8bb4a3de5d8c6430bc2cdec3b56d2ad5]: Textual amendment: Word in art. 20(9) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2020/426/regulation/14/b)
+[^c-8bb4a3de5d8c6430bc2cdec3b56d2ad5]: Textual amendment: Word in art. 20(9) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2020/426/regulation/14/b)
 
-[^key-562403425e2de98cfd0a0c038db82b18]: Textual amendment: Word in art. 20(10) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2020/426/regulation/14/b)
+[^c-562403425e2de98cfd0a0c038db82b18]: Textual amendment: Word in art. 20(10) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2020/426/regulation/14/b)
 
-[^key-7ecf4c8c7670a9cf0afef2a7d86fbd69]: Textual amendment: Art. 20(11)-(19) omitted (E.) (8.5.2020) by virtue of [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [14(d)](https://www.legislation.gov.uk/uksi/2020/426/regulation/14/d)
+[^c-7ecf4c8c7670a9cf0afef2a7d86fbd69]: Textual amendment: Art. 20(11)-(19) omitted (E.) (8.5.2020) by virtue of [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [14(d)](https://www.legislation.gov.uk/uksi/2020/426/regulation/14/d)
 
-[^key-20a7d092fe1404dd0879ea1d86a39656]: Commencement: Art. 21 in force at 14.2.2020, see art. 1
+[^c-20a7d092fe1404dd0879ea1d86a39656]: Commencement: Art. 21 in force at 14.2.2020, see art. 1
 
-[^key-1afe3289d85a2efeaaacd9bde40ad528]: Textual amendment: Word in art. 21(a) omitted (E.) (8.5.2020) by virtue of [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2020/426/regulation/15)
+[^c-1afe3289d85a2efeaaacd9bde40ad528]: Textual amendment: Word in art. 21(a) omitted (E.) (8.5.2020) by virtue of [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2020/426/regulation/15)
 
 [^c23979981]: Marginal citation: Under section 16(3) of the Local Government Act 1972, the term of office of parish councillors is four years and elections of councillors for parish councillors within Northamptonshire were due to be held on the ordinary day of elections in 2019. The Northamptonshire (Changes to Years of Elections) Order 2018 [S.I. 2018/1324](https://www.legislation.gov.uk/uksi/2018/1324) changed the year of elections of parish councils within Northamptonshire from 2019 to 2020.
 
-[^key-44e3d12def0d1c1068b2f377e92a7e30]: Textual amendment: Word in art. 21(c) omitted (E.) (8.5.2020) by virtue of [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2020/426/regulation/15)
+[^c-44e3d12def0d1c1068b2f377e92a7e30]: Textual amendment: Word in art. 21(c) omitted (E.) (8.5.2020) by virtue of [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2020/426/regulation/15)
 
-[^key-26b522bd2b91a6d0a310c6883df0ac49]: Commencement: Art. 22 in force at 14.2.2020, see art. 1
+[^c-26b522bd2b91a6d0a310c6883df0ac49]: Commencement: Art. 22 in force at 14.2.2020, see art. 1
 
-[^key-d5b1bdb5bcf3d07e4ea7bf58d03c0389]: Textual amendment: Words in art. 22 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2020/426/regulation/16)
+[^c-d5b1bdb5bcf3d07e4ea7bf58d03c0389]: Textual amendment: Words in art. 22 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2020/426/regulation/16)
 
-[^key-4f25136bdcd74d941b08acc9773b5529]: Commencement: Art. 23 in force at 14.2.2020, see art. 1
+[^c-4f25136bdcd74d941b08acc9773b5529]: Commencement: Art. 23 in force at 14.2.2020, see art. 1
 
-[^key-94c87c467b9c4523b8ebe5f7d0f6f6fd]: Commencement: Art. 24 in force at 14.2.2020, see art. 1
+[^c-94c87c467b9c4523b8ebe5f7d0f6f6fd]: Commencement: Art. 24 in force at 14.2.2020, see art. 1
 
 [^c23979991]: Marginal citation: The Secretary of State for Housing, Communities and Local Government appointed Max Caller to undertake an inspection of the compliance of Northamptonshire County Council with the requirement of Part 1 of the Local Government Act 1999 (as amended) in relation to the Authority's governance functions, particularly those functions under Section 151 of the Local Government Act 1972. The document is available at https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/690731/Best\_Value\_Inspection\_NCC.pdf or in hard copy from the Secretary of State on request to the Ministry of Housing, Communities and Local Government, 2 Marsham Street, London SW1P 4DF.
 
@@ -927,12 +927,12 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c23980021]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). The Secretary of State for Education issued Directions to Northamptonshire County Council on 30th November and 10<sup>th</sup> June 2019. The Directions were issued in relation to concerns surrounding the provision of children's social care functions within Northamptonshire. Copies of the Directions can be found at https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/759368/STATUTORY\_DIRECTION\_TO\_NORTHAMPTONSHIRE\_COUNTY\_COUNCIL\_.pdf and https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/807427/Northamptonshire\_direction\_June\_2019.pdf or in hard copy from the Secretary of State on request.
 
-[^key-17ae6da9997bf5f9ce319350204e9b40]: Commencement: Art. 25 in force at 14.2.2020, see art. 1
+[^c-17ae6da9997bf5f9ce319350204e9b40]: Commencement: Art. 25 in force at 14.2.2020, see art. 1
 
-[^key-2e6cf7fc5d61a8696cce4145194d1ed4]: Commencement: Art. 26 in force at 14.2.2020, see art. 1
+[^c-2e6cf7fc5d61a8696cce4145194d1ed4]: Commencement: Art. 26 in force at 14.2.2020, see art. 1
 
-[^key-513bb49cc24acd585cd3a2a306a1675c]: Commencement: Art. 27 in force at 14.2.2020, see art. 1
+[^c-513bb49cc24acd585cd3a2a306a1675c]: Commencement: Art. 27 in force at 14.2.2020, see art. 1
 
-[^key-7e403c5f2e535830df9d08d1800be68f]: Commencement: Sch. Pt. 1 in force at 14.2.2020, see art. 1
+[^c-7e403c5f2e535830df9d08d1800be68f]: Commencement: Sch. Pt. 1 in force at 14.2.2020, see art. 1
 
-[^key-a2f19368163662786e1a98dd06b9b253]: Commencement: Sch. Pt. 2 in force at 14.2.2020, see art. 1
+[^c-a2f19368163662786e1a98dd06b9b253]: Commencement: Sch. Pt. 2 in force at 14.2.2020, see art. 1

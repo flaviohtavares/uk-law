@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. CRTS credits: registration of ZE SPVs (SPV car manufacturers)[^key-d70eb0ea9e8c3b671714f07146554927]
+## 21. CRTS credits: registration of ZE SPVs (SPV car manufacturers)[^c-d70eb0ea9e8c3b671714f07146554927]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d70eb0ea9e8c3b671714f07146554927]: Commencement: Art. 21 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-d70eb0ea9e8c3b671714f07146554927]: Commencement: Art. 21 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

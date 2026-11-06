@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Amendment to the Landfill Regulations (Northern Ireland) 2003[^key-8e0e1d6844f7a1b3a788d7235b4362be]
+## 43. Amendment to the Landfill Regulations (Northern Ireland) 2003[^c-8e0e1d6844f7a1b3a788d7235b4362be]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8e0e1d6844f7a1b3a788d7235b4362be]: Commencement: Reg. 43 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-8e0e1d6844f7a1b3a788d7235b4362be]: Commencement: Reg. 43 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00055]: Footnote: [S.R. 2003 No.496](https://www.legislation.gov.uk/nisr/2003/496) as amended by [S.R. 2004 No.297](https://www.legislation.gov.uk/nisr/2004/297), [S.R. 2005 No. 300](https://www.legislation.gov.uk/nisr/2005/300), [S./R. 2006 No. 280](https://www.legislation.gov.uk/nisr/2006/280), [S.R. 2007 No.179](https://www.legislation.gov.uk/nisr/2007/179) and [S.R. 2007 No.258](https://www.legislation.gov.uk/nisr/2007/258)

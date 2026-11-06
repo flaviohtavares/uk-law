@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Giving effect to reviews under ss. 225 and 226[^key-504ba5a5ec74bd5865655cf4cf2ee291]
+## 228. Giving effect to reviews under ss. 225 and 226[^c-504ba5a5ec74bd5865655cf4cf2ee291]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,17 +48,17 @@ summary: ''
 (8) In this section—
 
 - “**the appropriate percentage**” has the same meaning as in section 19 of the 1990 Act;
-- “**licensing period**” , in relation to a licence,[^key-1e891a22f1b0e4c7a830d3b268055309] means—
-  - (a) the period beginning with the commencement of this section and ending with the initial expiry date for that type of licence[^key-b2a3a4fba413b29b8a7a4eef1eea5c57] ; or
-  - (b) any subsequent period of ten years beginning with the end of the previous licensing period for that type of licence[^key-06e8f07b26be9ec4692af35a2cb1ec83] ;
+- “**licensing period**” , in relation to a licence,[^c-1e891a22f1b0e4c7a830d3b268055309] means—
+  - (a) the period beginning with the commencement of this section and ending with the initial expiry date for that type of licence[^c-b2a3a4fba413b29b8a7a4eef1eea5c57] ; or
+  - (b) any subsequent period of ten years beginning with the end of the previous licensing period for that type of licence[^c-06e8f07b26be9ec4692af35a2cb1ec83] ;
 - “**notional expiry date**” means a first or subsequent notional expiry date within the meaning of section 225.
 
 ## Annotations
 
-[^key-504ba5a5ec74bd5865655cf4cf2ee291]: Commencement: S. 228 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-504ba5a5ec74bd5865655cf4cf2ee291]: Commencement: S. 228 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-1e891a22f1b0e4c7a830d3b268055309]: Textual amendment: Words in s. 228(8) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 26(5)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/26/5/a), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-1e891a22f1b0e4c7a830d3b268055309]: Textual amendment: Words in s. 228(8) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 26(5)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/26/5/a), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
 
-[^key-b2a3a4fba413b29b8a7a4eef1eea5c57]: Textual amendment: Words in s. 228(8) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 26(5)(b)](https://www.legislation.gov.uk/ukpga/2010/24/section/26/5/b), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-b2a3a4fba413b29b8a7a4eef1eea5c57]: Textual amendment: Words in s. 228(8) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 26(5)(b)](https://www.legislation.gov.uk/ukpga/2010/24/section/26/5/b), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
 
-[^key-06e8f07b26be9ec4692af35a2cb1ec83]: Textual amendment: Words in s. 228(8) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 26(5)(c)](https://www.legislation.gov.uk/ukpga/2010/24/section/26/5/c), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-06e8f07b26be9ec4692af35a2cb1ec83]: Textual amendment: Words in s. 228(8) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 26(5)(c)](https://www.legislation.gov.uk/ukpga/2010/24/section/26/5/c), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

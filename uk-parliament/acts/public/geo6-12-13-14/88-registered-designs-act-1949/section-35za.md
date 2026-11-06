@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35ZA. Offence of unauthorised copying etc. of design in course of business[^key-c8480483b68d5cf2ff06a2709180a5f5]
+## 35ZA. Offence of unauthorised copying etc. of design in course of business[^c-c8480483b68d5cf2ff06a2709180a5f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 (6) The reference in subsection (3) to using a product in the course of a business does not include a reference to using it for a purpose which is merely incidental to the carrying on of the business.
 
-(7)[^key-50ef00ecaf3734869ca0f63e17691140] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-50ef00ecaf3734869ca0f63e17691140] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) A person guilty of an offence under this section is liable—
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8480483b68d5cf2ff06a2709180a5f5]: Textual amendment: Ss. 35ZA-35ZD inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 13](https://www.legislation.gov.uk/ukpga/2014/18/section/13), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (as amended by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3)) (as amended (1.10.2014) by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3))
+[^c-c8480483b68d5cf2ff06a2709180a5f5]: Textual amendment: Ss. 35ZA-35ZD inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 13](https://www.legislation.gov.uk/ukpga/2014/18/section/13), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (as amended by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3)) (as amended (1.10.2014) by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3))
 
-[^key-50ef00ecaf3734869ca0f63e17691140]: Textual amendment: [S. 35ZA(7)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/35ZA/7) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 8 para. 9](https://www.legislation.gov.uk/uksi/2019/638/schedule/8/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-50ef00ecaf3734869ca0f63e17691140]: Textual amendment: [S. 35ZA(7)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/35ZA/7) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 8 para. 9](https://www.legislation.gov.uk/uksi/2019/638/schedule/8/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

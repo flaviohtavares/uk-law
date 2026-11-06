@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-The county court[^key-ac9845c10614c1a3005422e42a93a89c] shall have jurisdiction to hear and determine any application for an order under section 2 of the [^c4403011]Inheritance (Provision for Family and Dependants) Act 1975 (including any application for permission to apply for such an order and any application made, in the proceedings on an application for such an order, for an order under any other provision of that Act) [^c4403021] . . ..
+The county court[^c-ac9845c10614c1a3005422e42a93a89c] shall have jurisdiction to hear and determine any application for an order under section 2 of the [^c4403011]Inheritance (Provision for Family and Dependants) Act 1975 (including any application for permission to apply for such an order and any application made, in the proceedings on an application for such an order, for an order under any other provision of that Act) [^c4403021] . . ..
 
 ## Annotations
 
 [^c4403001]: Modification: S. 25 extended by [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/1991/724/article/2/1/l)
 
-[^key-ac9845c10614c1a3005422e42a93a89c]: Textual amendment: Words in ss. 15-25 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 10(1)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/10/1/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-ac9845c10614c1a3005422e42a93a89c]: Textual amendment: Words in ss. 15-25 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 10(1)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/10/1/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
 
 [^c4403011]: Marginal citation: [1975 c. 63](https://www.legislation.gov.uk/ukpga/1975/63).
 

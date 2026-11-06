@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Trade: licensing offences[^key-faf6bc8bb256f552d7e598d20be38b2c]
+## 53. Trade: licensing offences[^c-faf6bc8bb256f552d7e598d20be38b2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ for the purpose of obtaining a trade licence (whether for P or anyone else).
 
 ## Annotations
 
-[^key-faf6bc8bb256f552d7e598d20be38b2c]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-faf6bc8bb256f552d7e598d20be38b2c]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and Commencement[^key-0b7c12812ee874384806d39ea43a3d9a]
+## 1. Citation and Commencement[^c-0b7c12812ee874384806d39ea43a3d9a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Rules may be cited as the Postal Administration Rules 2013 and shall come 
 
 ## Annotations
 
-[^key-0b7c12812ee874384806d39ea43a3d9a]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-0b7c12812ee874384806d39ea43a3d9a]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

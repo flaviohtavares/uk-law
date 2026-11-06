@@ -33,7 +33,7 @@ A Measure passed by the National Assembly of the Church of England. To enable th
 
 \[27th March 1931\]
 
-## 1. Power to make loans for expenditure on Church of England Training Colleges.[^key-654c4a7414dfa4ebddc71a7574b837a8]
+## 1. Power to make loans for expenditure on Church of England Training Colleges.[^c-654c4a7414dfa4ebddc71a7574b837a8]
 
 (1) The Church Commissioners[^c887852] (who are hereinafter referred to as “**the Commissioners**”) may, notwithstanding any statutory or other restriction or limitation of their powers of investment, out of capital funds held by them, the income from which forms part of their general fund, from time to time lend such sums as the Commissioners may think fit for the purpose of defraying expenditure upon buildings or lands belonging to or to be provided for any Church of England Training College for Teachers, and so that any such loan may be made either to the Central Board of Finance of the Church of England or, if the Central Board of Finance shall so request, directly to any such College.
 
@@ -45,7 +45,7 @@ In addition to or instead of themselves making any such loan the Commissioners m
 
 ## 3. Borrowing powers not to be enlarged or jurisdiction of Secretary of State affected.[^c887855]
 
-Nothing in this Measure shall confer on the Archbishops’ Council[^key-31e73354c187177514ecab1968b26524] of the Church of England or on any Church of England Training College for Teachers any power of borrowing money or giving security which it did not possess at the passing of this Measure, or affect any jurisdiction over any charity or endowment vested in the Secretary of State.
+Nothing in this Measure shall confer on the Archbishops’ Council[^c-31e73354c187177514ecab1968b26524] of the Church of England or on any Church of England Training College for Teachers any power of borrowing money or giving security which it did not possess at the passing of this Measure, or affect any jurisdiction over any charity or endowment vested in the Secretary of State.
 
 ## 4. Short title.
 
@@ -53,7 +53,7 @@ This Measure may be cited as the Ecclesiastical Commissioners (Loans for Church 
 
 ## Annotations
 
-[^key-654c4a7414dfa4ebddc71a7574b837a8]: Modification: S. 1: transfer of functions (1.1.2008) by [National Institutions of the Church of England (Transfer of Functions) Order 2007 (S.I. 2007/1556)](https://www.legislation.gov.uk/uksi/2007/1556), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1556/article/1/1), [2](https://www.legislation.gov.uk/uksi/2007/1556/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/1556/article/3))
+[^c-654c4a7414dfa4ebddc71a7574b837a8]: Modification: S. 1: transfer of functions (1.1.2008) by [National Institutions of the Church of England (Transfer of Functions) Order 2007 (S.I. 2007/1556)](https://www.legislation.gov.uk/uksi/2007/1556), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1556/article/1/1), [2](https://www.legislation.gov.uk/uksi/2007/1556/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/1556/article/3))
 
 [^c887852]: Textual amendment: Words substituted by virtue of [Church Commissioners Measure 1947 (No. 2)](https://www.legislation.gov.uk/ukcm/1947/2), [s. 18(2)](https://www.legislation.gov.uk/ukcm/1947/2/section/18/2)
 
@@ -61,4 +61,4 @@ This Measure may be cited as the Ecclesiastical Commissioners (Loans for Church 
 
 [^c887855]: Textual amendment: Words substituted by virtue of [Education Act 1944 (c. 31)](https://www.legislation.gov.uk/ukpga/1944/31), [s. 2(1)](https://www.legislation.gov.uk/ukpga/1944/31/section/2/1) and [S.I. 1964/490](https://www.legislation.gov.uk/uksi/1964/490), [art. 3(2)](https://www.legislation.gov.uk/uksi/1964/490/article/3/2)(*a*)
 
-[^key-31e73354c187177514ecab1968b26524]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukcm/Geo5/21-22/2/section/3) substituted (1.1.2008) by [National Institutions of the Church of England (Transfer of Functions) Order 2007 (S.I. 2007/1556)](https://www.legislation.gov.uk/uksi/2007/1556), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1556/article/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2007/1556/schedule/paragraph/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/1556/article/3))
+[^c-31e73354c187177514ecab1968b26524]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukcm/Geo5/21-22/2/section/3) substituted (1.1.2008) by [National Institutions of the Church of England (Transfer of Functions) Order 2007 (S.I. 2007/1556)](https://www.legislation.gov.uk/uksi/2007/1556), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1556/article/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2007/1556/schedule/paragraph/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/1556/article/3))

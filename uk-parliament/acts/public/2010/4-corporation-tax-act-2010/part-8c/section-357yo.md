@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357YO. Duty to deduct tax from payments of restitution interest[^key-9a04ada177c581939694de8061a99242]
+## 357YO. Duty to deduct tax from payments of restitution interest[^c-9a04ada177c581939694de8061a99242]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 - (a) the payment of an amount to the Commissioners under a mistake of law relating to a taxation matter, or
 - (b) the unlawful collection by the Commissioners of an amount in respect of taxation.
 
-(4) Condition 2 is that the interest is not limited to simple interest at a rate equivalent to or lower than a[^key-8bafcd8893ebef82d9da78a528011a71] statutory rate.
+(4) Condition 2 is that the interest is not limited to simple interest at a rate equivalent to or lower than a[^c-8bafcd8893ebef82d9da78a528011a71] statutory rate.
 
 In determining whether or not this condition is met, all amounts which the Commissioners are liable to pay, or have agreed or determined to pay in respect of the claim are to be considered together.
 
@@ -55,6 +55,6 @@ In determining whether or not this condition is met, all amounts which the Commi
 
 ## Annotations
 
-[^key-9a04ada177c581939694de8061a99242]: Textual amendment: Pt. 8C inserted (18.11.2015) (with effect in accordance with s. 38(9)-(12) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2015/33/section/38/3)
+[^c-9a04ada177c581939694de8061a99242]: Textual amendment: Pt. 8C inserted (18.11.2015) (with effect in accordance with s. 38(9)-(12) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2015/33/section/38/3)
 
-[^key-8bafcd8893ebef82d9da78a528011a71]: Textual amendment: Words in [s. 357YO(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/357YO/4) inserted (15.1.2026) by [The Corporation Tax Act 2010 (Part 8C) (Amendment) Regulations 2025 (S.I. 2025/1253)](https://www.legislation.gov.uk/uksi/2025/1253), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1253/regulation/1), [5](https://www.legislation.gov.uk/uksi/2025/1253/regulation/5)
+[^c-8bafcd8893ebef82d9da78a528011a71]: Textual amendment: Words in [s. 357YO(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/357YO/4) inserted (15.1.2026) by [The Corporation Tax Act 2010 (Part 8C) (Amendment) Regulations 2025 (S.I. 2025/1253)](https://www.legislation.gov.uk/uksi/2025/1253), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1253/regulation/1), [5](https://www.legislation.gov.uk/uksi/2025/1253/regulation/5)

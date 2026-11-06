@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Amendment of the 2009 Regulations[^key-b537de605800a14d54234ed1239dbf70]
+## 124. Amendment of the 2009 Regulations[^c-b537de605800a14d54234ed1239dbf70]
 
 *Extent: E+W*
 
@@ -24,32 +24,32 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**125.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**125.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**126.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**126.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**127.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**127.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**128.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**128.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**129.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**129.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**130.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**130.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**131.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**131.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**132.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**132.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**133.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**133.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**134.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**134.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**135.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**135.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**136.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**136.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**137.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**137.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b537de605800a14d54234ed1239dbf70]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/148) revoked (1.9.2012) by [The Assembly Learning Grants and Loans (Higher Education) (Wales) (No. 2) Regulations 2011 (S.I. 2011/886)](https://www.legislation.gov.uk/wsi/2011/886), [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/1) (with [reg. 3(10)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/10)[(12)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/12))
+[^c-b537de605800a14d54234ed1239dbf70]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/148) revoked (1.9.2012) by [The Assembly Learning Grants and Loans (Higher Education) (Wales) (No. 2) Regulations 2011 (S.I. 2011/886)](https://www.legislation.gov.uk/wsi/2011/886), [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/1) (with [reg. 3(10)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/10)[(12)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/12))

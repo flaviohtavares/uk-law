@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 283. Liability of officers of entities[^key-ab67d86b4893a162569448cb39155255][^key-f5851bbd6112a0f3acedb1e8a6ecccf0]
+## 283. Liability of officers of entities[^c-ab67d86b4893a162569448cb39155255][^c-f5851bbd6112a0f3acedb1e8a6ecccf0]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ that officer (as well as the body corporate) commits the offence and is liable t
 
 ## Annotations
 
-[^key-ab67d86b4893a162569448cb39155255]: Commencement: S. 283 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-ab67d86b4893a162569448cb39155255]: Commencement: S. 283 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-f5851bbd6112a0f3acedb1e8a6ecccf0]: Commencement: [S. 283](https://www.legislation.gov.uk/ukpga/2023/52/section/283) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/vi)
+[^c-f5851bbd6112a0f3acedb1e8a6ecccf0]: Commencement: [S. 283](https://www.legislation.gov.uk/ukpga/2023/52/section/283) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/vi)

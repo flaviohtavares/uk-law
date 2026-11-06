@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Prohibition on contracting out[^key-75821bcd9580be6e56de76fae8d0ccda]
+## 47. Prohibition on contracting out[^c-75821bcd9580be6e56de76fae8d0ccda]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75821bcd9580be6e56de76fae8d0ccda]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2014/14/section/47) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-75821bcd9580be6e56de76fae8d0ccda]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2014/14/section/47) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

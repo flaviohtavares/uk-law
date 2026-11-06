@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Federated schools[^key-49781aa9ec68beb9cb51ca2b106b1e02]
+## 24. Federated schools[^c-49781aa9ec68beb9cb51ca2b106b1e02]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49781aa9ec68beb9cb51ca2b106b1e02]: Commencement: Reg. 24 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-49781aa9ec68beb9cb51ca2b106b1e02]: Commencement: Reg. 24 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
 
 [^f00048]: Footnote: [2011 nawm 7](https://www.legislation.gov.uk/mwa/2011/7).

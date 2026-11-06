@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 60(5) and (6), 75(7) and (8) and 93(6) and (7) of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00001]
 
-## 1. Citation, commencement, application and supplementary provision[^key-1ad2d45bb0af40d44cd2ceac60baa471]
+## 1. Citation, commencement, application and supplementary provision[^c-1ad2d45bb0af40d44cd2ceac60baa471]
 
 (1) This Order may be cited as The Ecclesiastical Exemption (Listed Buildings and Conservation Areas) (England) Order 2010 and shall come into force on 1st October 2010.
 
@@ -54,11 +54,11 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (3) Nothing in this Order shall operate to require listed building consent or conservation area consent for works commenced or in respect of which a contract has been made before this Order comes into force.
 
-## 2. Revocation[^key-f0b2aa561689ae5a29c2788c7e53443a]
+## 2. Revocation[^c-f0b2aa561689ae5a29c2788c7e53443a]
 
 The Ecclesiastical Exemption (Listed Buildings and Conservation Areas) Order 1994[^f00002] is revoked in respect of England only.
 
-## 3. Interpretation[^key-bd7271a1b7ec76d9aaf0e80f793b9e2a]
+## 3. Interpretation[^c-bd7271a1b7ec76d9aaf0e80f793b9e2a]
 
 (1) In this Order, unless the context otherwise requires—
 
@@ -81,15 +81,15 @@ The Ecclesiastical Exemption (Listed Buildings and Conservation Areas) Order 199
 
 (3) This Order only applies to a building which is an ecclesiastical building which is for the time being used for ecclesiastical purposes.[^f00006]
 
-## 4. Exclusion or restriction of ecclesiastical exemption[^key-476e46268db9029c66ab5dae439662e9]
+## 4. Exclusion or restriction of ecclesiastical exemption[^c-476e46268db9029c66ab5dae439662e9]
 
 The ecclesiastical exemption is excluded in respect of all buildings other than those falling within article 5, 6, 7 or 8.
 
-## 5. Buildings within the faculty jurisdiction[^key-91243696d60586eb74d331cf3c625e23]
+## 5. Buildings within the faculty jurisdiction[^c-91243696d60586eb74d331cf3c625e23]
 
 The ecclesiastical exemption is retained for church buildings within the faculty jurisdiction of the Church of England.
 
-## 6. Buildings within the Care of Cathedrals Measure 1990[^key-b01fafe086a153e9e870816ae780701a]
+## 6. Buildings within the Care of Cathedrals Measure 1990[^c-b01fafe086a153e9e870816ae780701a]
 
 The ecclesiastical exemption is retained for the following buildings subject to the Measure—
 
@@ -99,7 +99,7 @@ The ecclesiastical exemption is retained for the following buildings subject to 
   - (i) within the precinct of a cathedral church for the purposes of the Measure and situated outside the red line; and
   - (ii) situated in a churchyard, graveyard or other land which is or has been used for the purposes of burial.
 
-## 7. Other ecclesiastical buildings[^key-fc72ddfa6ad79b5aca386de930b523b8]
+## 7. Other ecclesiastical buildings[^c-fc72ddfa6ad79b5aca386de930b523b8]
 
 (1) The ecclesiastical exemption is retained for buildings in the following categories, but is restricted to the extent set out in paragraph (2)—
 
@@ -116,7 +116,7 @@ The ecclesiastical exemption is retained for the following buildings subject to 
 - (a) to works carried out by or on behalf of a church or body, or constituent part of a church or body referred to in those paragraphs; or
 - (b) where the building is on any premises forming part of a university, college, school, hospital or public or charitable institution, to works carried out on behalf of the governing body or the trustees of that institution.
 
-## 8. Special cases[^key-a8abb78382177e19afb3eed5a3021d30]
+## 8. Special cases[^c-a8abb78382177e19afb3eed5a3021d30]
 
 (1) The ecclesiastical exemption is retained for buildings to which this article applies which do not fall within article 5, 6 or 7.
 
@@ -135,11 +135,11 @@ Department for Culture, Media and Sport
 
 31st March 2010
 
-## SCHEDULE 1 — TRUST CORPORATIONS[^key-8c495a70dbb1cda57559b6c8a1f1e02c]
+## SCHEDULE 1 — TRUST CORPORATIONS[^c-8c495a70dbb1cda57559b6c8a1f1e02c]
 
 Article 7(1)(c)
 
-[^key-8c495a70dbb1cda57559b6c8a1f1e02c]
+[^c-8c495a70dbb1cda57559b6c8a1f1e02c]
 
 - The Baptist Union Corporation Limited
 - The Baptist Union Corporation of Wales
@@ -152,13 +152,13 @@ Article 7(1)(c)
 - The West of England Baptist Trust Company (West) Limited
 - The Yorkshire Baptist Association (Incorporated)
 
-## SCHEDULE 2 — PROVINCES OF THE UNITED REFORMED CHURCH[^key-0f02a202582cbdcee71f116d39ccca3f]
+## SCHEDULE 2 — PROVINCES OF THE UNITED REFORMED CHURCH[^c-0f02a202582cbdcee71f116d39ccca3f]
 
 Article 7(1)(d)
 
-[^key-0f02a202582cbdcee71f116d39ccca3f]
+[^c-0f02a202582cbdcee71f116d39ccca3f]
 
-- Northern[^key-cac2d768b0ee03af7681a8fb862e478c]
+- Northern[^c-cac2d768b0ee03af7681a8fb862e478c]
 - North Western
 - Mersey
 - Yorkshire
@@ -170,11 +170,11 @@ Article 7(1)(d)
 - Thames North
 - Southern
 
-## SCHEDULE 3 — EDUCATIONAL INSTITUTIONS (UNITED REFORMED CHURCH)[^key-26618527746a16906daa009173431458]
+## SCHEDULE 3 — EDUCATIONAL INSTITUTIONS (UNITED REFORMED CHURCH)[^c-26618527746a16906daa009173431458]
 
 Article 7(1)(e)
 
-[^key-26618527746a16906daa009173431458]
+[^c-26618527746a16906daa009173431458]
 
 - Eltham College, London, SE9 4QF
 - Mansfield College, Oxford, OX1 3TF
@@ -208,13 +208,13 @@ The meaning of “building” in the Order has the same meaning as “building�
 
 [^f00001]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9). Functions of the Secretary of State under the 1990 Act (except the Treasury Functions under section s.83(8)) so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by virtue of article 2 of the Transfer of Functions Order 1999 ([SI 1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-1ad2d45bb0af40d44cd2ceac60baa471]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/1176/article/1) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+[^c-1ad2d45bb0af40d44cd2ceac60baa471]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/1176/article/1) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
 
-[^key-f0b2aa561689ae5a29c2788c7e53443a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/1176/article/2) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+[^c-f0b2aa561689ae5a29c2788c7e53443a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/1176/article/2) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
 
 [^f00002]: Footnote: [S.I. 1994/1771](https://www.legislation.gov.uk/uksi/1994/1771).
 
-[^key-bd7271a1b7ec76d9aaf0e80f793b9e2a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/1176/article/3) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+[^c-bd7271a1b7ec76d9aaf0e80f793b9e2a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/1176/article/3) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
 
 [^f00003]: Footnote: See the definition of “building” in section 91(2) of the Act which is incorporated from the Town and Country Planning Act [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8).
 
@@ -224,24 +224,24 @@ The meaning of “building” in the Order has the same meaning as “building�
 
 [^f00006]: Footnote: Section 60 of the Act provides the ecclesiastical exemption for an ecclesiastical building which is for the time being used for ecclesiastical purposes.
 
-[^key-476e46268db9029c66ab5dae439662e9]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/1176/article/4) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+[^c-476e46268db9029c66ab5dae439662e9]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/1176/article/4) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
 
-[^key-91243696d60586eb74d331cf3c625e23]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/1176/article/5) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+[^c-91243696d60586eb74d331cf3c625e23]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/1176/article/5) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
 
-[^key-b01fafe086a153e9e870816ae780701a]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/1176/article/6) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+[^c-b01fafe086a153e9e870816ae780701a]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/1176/article/6) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
 
-[^key-fc72ddfa6ad79b5aca386de930b523b8]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/1176/article/7) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+[^c-fc72ddfa6ad79b5aca386de930b523b8]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/1176/article/7) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
 
 [^f00007]: Footnote: [1972 c.18](https://www.legislation.gov.uk/ukpga/1972/18).
 
 [^f00008]: Footnote: [1981 c.14](https://www.legislation.gov.uk/ukpga/1981/14).
 
-[^key-a8abb78382177e19afb3eed5a3021d30]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/1176/article/8) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+[^c-a8abb78382177e19afb3eed5a3021d30]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/1176/article/8) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
 
-[^key-8c495a70dbb1cda57559b6c8a1f1e02c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1176/schedule/1) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+[^c-8c495a70dbb1cda57559b6c8a1f1e02c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1176/schedule/1) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
 
-[^key-0f02a202582cbdcee71f116d39ccca3f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1176/schedule/2) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+[^c-0f02a202582cbdcee71f116d39ccca3f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1176/schedule/2) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
 
-[^key-cac2d768b0ee03af7681a8fb862e478c]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1176/schedule/2) inserted (1.10.2010) by [The Ecclesiastical Exemption (Listed Buildings and Conservation Areas) (England) (Amendment) Order 2010 (S.I. 2010/1806)](https://www.legislation.gov.uk/uksi/2010/1806), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1806/article/1), [2](https://www.legislation.gov.uk/uksi/2010/1806/article/2)
+[^c-cac2d768b0ee03af7681a8fb862e478c]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1176/schedule/2) inserted (1.10.2010) by [The Ecclesiastical Exemption (Listed Buildings and Conservation Areas) (England) (Amendment) Order 2010 (S.I. 2010/1806)](https://www.legislation.gov.uk/uksi/2010/1806), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1806/article/1), [2](https://www.legislation.gov.uk/uksi/2010/1806/article/2)
 
-[^key-26618527746a16906daa009173431458]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2010/1176/schedule/3) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+[^c-26618527746a16906daa009173431458]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2010/1176/schedule/3) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)

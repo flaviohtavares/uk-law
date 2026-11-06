@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-31b75841cf8eb9e79c527fda698ef9dd]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-31b75841cf8eb9e79c527fda698ef9dd]
 
 *Extent: E+W+S*
 
 Article 3
 
-[^key-31b75841cf8eb9e79c527fda698ef9dd]
+[^c-31b75841cf8eb9e79c527fda698ef9dd]
 
 In the County Borough of Rhondda Cynon Taf—
 
@@ -36,13 +36,13 @@ In the County Borough of Rhondda Cynon Taf—
     - (b) a store;
     - (c) a control room/office/workshop;
     - (d) telemetry apparatus;
-    - (e) three black start diesel generators where one gas turbine generator is constructed and one black start diesel generator where two, three, four or five gas turbine generators are constructed;[^key-34c7ce3757f1107801e881117777d96a]
+    - (e) three black start diesel generators where one gas turbine generator is constructed and one black start diesel generator where two, three, four or five gas turbine generators are constructed;[^c-34c7ce3757f1107801e881117777d96a]
     - (f) a natural gas receiving station and gas treatment compound containing—
       - (i) a pipeline inspection gauge (PIG) receiving facility;
       - (ii) isolation valves, metering, heating, filtering, compression, pressure regulation equipment;
       - (iii) electricity supply kiosk; and
       - (iv) control and instrumentation kiosks,
-    - (g) external fin fan cooler (where only one gas turbine generator is constructed).[^key-33ee4e581a9c16721d38c4ae90bd8187]
+    - (g) external fin fan cooler (where only one gas turbine generator is constructed).[^c-33ee4e581a9c16721d38c4ae90bd8187]
   - ***Numbered work 2C*** development comprising a switchyard / banking compound containing up to eight transformers, switchgear building and other plant required to manage the transmission of electricity,
   - ***Numbered work 2D*** development comprising a construction and maintenance compound including new hardstanding,
   - ***Numbered work 2E*** development comprising—
@@ -62,8 +62,8 @@ In the County Borough of Rhondda Cynon Taf—
 
 ## Annotations
 
-[^key-31b75841cf8eb9e79c527fda698ef9dd]: Commencement: Sch. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-31b75841cf8eb9e79c527fda698ef9dd]: Commencement: Sch. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-34c7ce3757f1107801e881117777d96a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1574/schedule/1) substituted (12.11.2016) by [The Hirwaun Generating Station (Amendment) Order 2016 (S.I. 2016/1087)](https://www.legislation.gov.uk/uksi/2016/1087), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1087/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2016/1087/article/5/2)
+[^c-34c7ce3757f1107801e881117777d96a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1574/schedule/1) substituted (12.11.2016) by [The Hirwaun Generating Station (Amendment) Order 2016 (S.I. 2016/1087)](https://www.legislation.gov.uk/uksi/2016/1087), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1087/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2016/1087/article/5/2)
 
-[^key-33ee4e581a9c16721d38c4ae90bd8187]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1574/schedule/1) inserted (12.11.2016) by [The Hirwaun Generating Station (Amendment) Order 2016 (S.I. 2016/1087)](https://www.legislation.gov.uk/uksi/2016/1087), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1087/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2016/1087/article/5/3)
+[^c-33ee4e581a9c16721d38c4ae90bd8187]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1574/schedule/1) inserted (12.11.2016) by [The Hirwaun Generating Station (Amendment) Order 2016 (S.I. 2016/1087)](https://www.legislation.gov.uk/uksi/2016/1087), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1087/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2016/1087/article/5/3)

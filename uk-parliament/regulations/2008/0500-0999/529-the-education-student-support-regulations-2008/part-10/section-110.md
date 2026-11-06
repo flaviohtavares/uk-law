@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Payment of loans for living costs and long courses loans[^key-7eab74eaa353ed4c6e3993877afe08bd]
+## 110. Payment of loans for living costs and long courses loans[^c-7eab74eaa353ed4c6e3993877afe08bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7eab74eaa353ed4c6e3993877afe08bd]: Commencement: Reg. 110 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-7eab74eaa353ed4c6e3993877afe08bd]: Commencement: Reg. 110 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

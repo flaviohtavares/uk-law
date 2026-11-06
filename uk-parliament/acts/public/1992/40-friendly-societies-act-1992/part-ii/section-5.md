@@ -33,7 +33,7 @@ summary: ''
   - (ii) is to be funded by voluntary subscriptions from members of the society, with or without donations; and
 - (c) any other purposes which it is to have are within the permitted capacity of incorporated friendly societies under this Act.
 
-(3) A society established under this Act is incorporated as from the date of its registration under this Act by the FCA[^key-c9de751d188ce67f2d43f59d8aa80f11].
+(3) A society established under this Act is incorporated as from the date of its registration under this Act by the FCA[^c-c9de751d188ce67f2d43f59d8aa80f11].
 
 (4)[^c15377331] The Treasury may by order[^c15377341] vary Schedule 2 to this Act by adding to or deleting, or by varying the description of, any activity for the time being specified in it.
 
@@ -51,7 +51,7 @@ and certain incidents of membership of incorporated friendly societies.
 
 ## Annotations
 
-[^key-c9de751d188ce67f2d43f59d8aa80f11]: Textual amendment: Word in [s. 5(3)](https://www.legislation.gov.uk/ukpga/1992/40/section/5/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 4](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/4) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-c9de751d188ce67f2d43f59d8aa80f11]: Textual amendment: Word in [s. 5(3)](https://www.legislation.gov.uk/ukpga/1992/40/section/5/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 4](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/4) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15377331]: Modification: [S. 5(4)](https://www.legislation.gov.uk/ukpga/1992/40/section/5/4): Functions of the Friendly Societies Commission transferred (1.12.2001) to the Treasury by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/4/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/2617/schedule/1/part/II); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 

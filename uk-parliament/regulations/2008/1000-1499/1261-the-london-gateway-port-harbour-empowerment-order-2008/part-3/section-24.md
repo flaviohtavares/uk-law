@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Construction of bridges[^key-bbafe8eba057a2b394b77cfd9f040063]
+## 24. Construction of bridges[^c-bbafe8eba057a2b394b77cfd9f040063]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any bridge to be constructed under this Order for carrying an authorised work ov
 
 ## Annotations
 
-[^key-bbafe8eba057a2b394b77cfd9f040063]: Commencement: Art. 24 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-bbafe8eba057a2b394b77cfd9f040063]: Commencement: Art. 24 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

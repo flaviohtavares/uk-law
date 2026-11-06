@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Acceptance of applications for registration[^key-d43cf75822804c661bfcaf65899475d6]
+## 8. Acceptance of applications for registration[^c-d43cf75822804c661bfcaf65899475d6]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ as part of the description of the land which comprises that other croft, that co
 
 ## Annotations
 
-[^key-d43cf75822804c661bfcaf65899475d6]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2010/14/section/8) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2) (with [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/1/c))
+[^c-d43cf75822804c661bfcaf65899475d6]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2010/14/section/8) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2) (with [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/1/c))

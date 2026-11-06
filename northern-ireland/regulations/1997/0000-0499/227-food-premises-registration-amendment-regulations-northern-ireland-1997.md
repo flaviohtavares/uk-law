@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-Food Premises (Registration) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-8febd629e25d17581b43070391032aca]
+Food Premises (Registration) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-8febd629e25d17581b43070391032aca]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 9th June 1997
 
-[^key-8febd629e25d17581b43070391032aca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8febd629e25d17581b43070391032aca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8febd629e25d17581b43070391032aca]
+## 1. Citation, commencement and interpretation[^c-8febd629e25d17581b43070391032aca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-8febd629e25d17581b43070391032aca]
+## 2. Amendment of the principal Regulations[^c-8febd629e25d17581b43070391032aca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8febd629e25d17581b43070391032aca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8febd629e25d17581b43070391032aca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8febd629e25d17581b43070391032aca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8febd629e25d17581b43070391032aca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8febd629e25d17581b43070391032aca]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/227) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)
+[^c-8febd629e25d17581b43070391032aca]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/227) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)

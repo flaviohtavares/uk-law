@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Savings and transitional provisions[^key-4c7518f28595a35d00d2f2625076802b]
+## 82. Savings and transitional provisions[^c-4c7518f28595a35d00d2f2625076802b]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,7 +58,7 @@ which, in either case, is deemed to be a licence granted under regulation 13 of 
 - (a) 1st October 2015; or
 - (b) the expiry of the licence or registration, as the case may be, deemed to be a licence under, respectively, paragraph (1) or (2); and
 
-until that later date, that person must continue to comply with the requirements of regulation 5 of the 2005 Regulations as if those Regulations had not been revoked by these Regulations[^key-4a1986d7a93b5e5d447b158effb72359].
+until that later date, that person must continue to comply with the requirements of regulation 5 of the 2005 Regulations as if those Regulations had not been revoked by these Regulations[^c-4a1986d7a93b5e5d447b158effb72359].
 
 (12) Where the storage of explosives at any place—
 
@@ -89,9 +89,9 @@ continue to have effect despite the revocation of the 2005 Regulations by these 
 
 ## Annotations
 
-[^key-4c7518f28595a35d00d2f2625076802b]: Textual amendment: Pt. 15 reg. 47 renumbered as Pt. 15 reg. 82 (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2016/315/regulation/9/b) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
+[^c-4c7518f28595a35d00d2f2625076802b]: Textual amendment: Pt. 15 reg. 47 renumbered as Pt. 15 reg. 82 (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2016/315/regulation/9/b) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
 
-[^key-4a1986d7a93b5e5d447b158effb72359]: Textual amendment: Words in reg. 47(11) inserted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 18(e)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/18/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-4a1986d7a93b5e5d447b158effb72359]: Textual amendment: Words in reg. 47(11) inserted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 18(e)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/18/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
 [^c22150781]: Marginal citation: [S.I. 1956/1943](https://www.legislation.gov.uk/uksi/1956/1943), amended by [S.I. 2005/1082](https://www.legislation.gov.uk/uksi/2005/1082); there are other amending instruments but none is relevant.
 

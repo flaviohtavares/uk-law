@@ -24,13 +24,13 @@ Section 25
 
 ### Introductory
 
-**1.**[^key-410a044625a39bb1b7592f8fd62bee4a] (1) This Schedule applies, where a proposal for the discontinuance of all the excluded London services provided on a particular line, or from a particular station, is made by the person providing them (“the service operator”), to so much of the proposal as relates to excluded London services which are special procedure excluded services.
+**1.**[^c-410a044625a39bb1b7592f8fd62bee4a] (1) This Schedule applies, where a proposal for the discontinuance of all the excluded London services provided on a particular line, or from a particular station, is made by the person providing them (“the service operator”), to so much of the proposal as relates to excluded London services which are special procedure excluded services.
 
 (2) In this Schedule “**excluded London service**” and “**special procedure excluded service**” have the same meanings as in section 25.
 
 ### Notice of proposal
 
-**2.**[^key-a9befc960cfb23167b1f929eccf296a9] (1) The service operator—
+**2.**[^c-a9befc960cfb23167b1f929eccf296a9] (1) The service operator—
 
 - (a) must give notice in the required manner of his proposal; and
 - (b) must not give effect to the closure before the end of the period specified in the notice for the making of objections to the London Transport Users' Committee.
@@ -62,7 +62,7 @@ and must require every such operator to publish the notice by displaying it at t
 
 ### Objections etc.
 
-**3.**[^key-d28a01f3bfb5f7f910bfcab53d670bfc] (1) Where a notice has been published under paragraph 2 objections about the proposal may be made to the London Transport Users' Committee—
+**3.**[^c-d28a01f3bfb5f7f910bfcab53d670bfc] (1) Where a notice has been published under paragraph 2 objections about the proposal may be made to the London Transport Users' Committee—
 
 - (a) by any user of a service to which the proposal relates; or
 - (b) by any person representing such users.
@@ -71,7 +71,7 @@ and must require every such operator to publish the notice by displaying it at t
 
 ### Consideration of objections and report to Mayor of London
 
-**4.**[^key-0866d0bda904a5f5e286912a6bfdd60a] (1) This paragraph applies where any objection is made under paragraph 3.
+**4.**[^c-0866d0bda904a5f5e286912a6bfdd60a] (1) This paragraph applies where any objection is made under paragraph 3.
 
 (2) The London Transport Users' Committee must immediately inform—
 
@@ -103,7 +103,7 @@ the hearing must be in public.
 
 ### Consent of Mayor to closure
 
-**5.**[^key-618c74abe880202cd2bd0fe915449c25] (1) After—
+**5.**[^c-618c74abe880202cd2bd0fe915449c25] (1) After—
 
 - (a) receiving—
   - (i) the report from the London Transport Users' Committee required by sub-paragraph (4) of paragraph 4, and
@@ -134,12 +134,12 @@ the Mayor of London must decide whether or not to consent to the proposed closur
 
 ## Annotations
 
-[^key-410a044625a39bb1b7592f8fd62bee4a]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/8/paragraph/1) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-410a044625a39bb1b7592f8fd62bee4a]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/8/paragraph/1) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-a9befc960cfb23167b1f929eccf296a9]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2005/14/schedule/8/paragraph/2) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-a9befc960cfb23167b1f929eccf296a9]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2005/14/schedule/8/paragraph/2) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-d28a01f3bfb5f7f910bfcab53d670bfc]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/8/paragraph/3) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-d28a01f3bfb5f7f910bfcab53d670bfc]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/8/paragraph/3) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-0866d0bda904a5f5e286912a6bfdd60a]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/8/paragraph/4) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-0866d0bda904a5f5e286912a6bfdd60a]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/8/paragraph/4) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-618c74abe880202cd2bd0fe915449c25]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2005/14/schedule/8/paragraph/5) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-618c74abe880202cd2bd0fe915449c25]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2005/14/schedule/8/paragraph/5) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)

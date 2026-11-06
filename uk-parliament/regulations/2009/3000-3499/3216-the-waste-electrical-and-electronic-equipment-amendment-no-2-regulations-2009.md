@@ -34,7 +34,7 @@ This Statutory Instrument has been printed in substitution of the SI of the same
 
 Environmental Protection
 
-The Waste Electrical and Electronic Equipment (Amendment) (No.2) Regulations 2009 (revoked)[^key-2321581e3021dc345e039be8eee26411]
+The Waste Electrical and Electronic Equipment (Amendment) (No.2) Regulations 2009 (revoked)[^c-2321581e3021dc345e039be8eee26411]
 
 Made
 
@@ -46,23 +46,23 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-2321581e3021dc345e039be8eee26411]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2321581e3021dc345e039be8eee26411]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2321581e3021dc345e039be8eee26411]
+## 1. Citation and commencement[^c-2321581e3021dc345e039be8eee26411]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Waste Electrical and Electronic Equipment (Amendment) Regulations 2009[^key-2321581e3021dc345e039be8eee26411]
+## 2. Amendments to the Waste Electrical and Electronic Equipment (Amendment) Regulations 2009[^c-2321581e3021dc345e039be8eee26411]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2321581e3021dc345e039be8eee26411]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2321581e3021dc345e039be8eee26411]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-2321581e3021dc345e039be8eee26411]EXPLANATORY NOTE
+[^c-2321581e3021dc345e039be8eee26411]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -74,4 +74,4 @@ The impact assessment prepared in November 2009 does not need to be revised. A c
 
 ## Annotations
 
-[^key-2321581e3021dc345e039be8eee26411]: Textual amendment: Regulations revoked (1.1.2014) by [The Waste Electrical and Electronic Equipment Regulations 2013 (S.I. 2013/3113)](https://www.legislation.gov.uk/uksi/2013/3113), regs. 1(2), [96(1)(c)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/96/1/c) (with [regs. 10](https://www.legislation.gov.uk/uksi/2013/3113/regulation/10), [49](https://www.legislation.gov.uk/uksi/2013/3113/regulation/49), [50](https://www.legislation.gov.uk/uksi/2013/3113/regulation/50), [87(4)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/87/4))
+[^c-2321581e3021dc345e039be8eee26411]: Textual amendment: Regulations revoked (1.1.2014) by [The Waste Electrical and Electronic Equipment Regulations 2013 (S.I. 2013/3113)](https://www.legislation.gov.uk/uksi/2013/3113), regs. 1(2), [96(1)(c)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/96/1/c) (with [regs. 10](https://www.legislation.gov.uk/uksi/2013/3113/regulation/10), [49](https://www.legislation.gov.uk/uksi/2013/3113/regulation/49), [50](https://www.legislation.gov.uk/uksi/2013/3113/regulation/50), [87(4)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/87/4))

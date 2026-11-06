@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 147. Moving from special administration to dissolution[^key-f33ce679bf1eaa4b604b5e5f07fd2cb0]
+## 147. Moving from special administration to dissolution[^c-f33ce679bf1eaa4b604b5e5f07fd2cb0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f33ce679bf1eaa4b604b5e5f07fd2cb0]: Commencement: Rule 147 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-f33ce679bf1eaa4b604b5e5f07fd2cb0]: Commencement: Rule 147 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

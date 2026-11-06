@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Free distribution and discount of products[^key-09fa360f90b514475d275603b01ee304]
+## 15. Free distribution and discount of products[^c-09fa360f90b514475d275603b01ee304]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09fa360f90b514475d275603b01ee304]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2026/18/section/15) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-09fa360f90b514475d275603b01ee304]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2026/18/section/15) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

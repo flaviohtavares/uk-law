@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1216CH. Television tax credit claimable if company has surrenderable loss[^key-d270a9585cd06681b6121dd8d870fc26]
+## 1216CH. Television tax credit claimable if company has surrenderable loss[^c-d270a9585cd06681b6121dd8d870fc26]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ RUL is the amount of any relevant unused loss of the company (see subsection (4)
 (4) The “relevant unused loss” of a company is so much of any available loss of the company for the previous accounting period as has not been—
 
 - (a) surrendered under section 1216CI(1), or
-- (b) carried forward under section 45 or 45B[^key-45eb5fa41afa3755d63cfe493faae152] of CTA 2010 and set against profits of the separate programme trade.
+- (b) carried forward under section 45 or 45B[^c-45eb5fa41afa3755d63cfe493faae152] of CTA 2010 and set against profits of the separate programme trade.
 
 (5) For the first period of account during which the separate programme trade is carried on, the available qualifying expenditure is the amount that is E for that period for the purposes of section 1216CG(1).
 
@@ -58,6 +58,6 @@ S is the total amount previously surrendered under section 1216CI(1).
 
 ## Annotations
 
-[^key-d270a9585cd06681b6121dd8d870fc26]: Textual amendment: Pt. 15A inserted (17.7.2013 for specified purposes, 19.7.2013 in so far as not already in force, and with effect in accordance with Sch. 16 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 16 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/2); [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/1)
+[^c-d270a9585cd06681b6121dd8d870fc26]: Textual amendment: Pt. 15A inserted (17.7.2013 for specified purposes, 19.7.2013 in so far as not already in force, and with effect in accordance with Sch. 16 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 16 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/2); [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/1)
 
-[^key-45eb5fa41afa3755d63cfe493faae152]: Textual amendment: Words in s. 1216CH(4)(b) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 140](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/140)
+[^c-45eb5fa41afa3755d63cfe493faae152]: Textual amendment: Words in s. 1216CH(4)(b) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 140](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/140)

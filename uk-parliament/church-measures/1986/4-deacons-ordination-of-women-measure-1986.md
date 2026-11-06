@@ -52,7 +52,7 @@ A MEASURE passed by the General Synod of the Church of England to make provision
 
 (2) Nothing in this Measure shall affect the rights of a deaconess who does not become a deacon.
 
-## 3. Provisions as to pensions etc.[^key-1c844f25b37f2e9899d12024fafc8a02]
+## 3. Provisions as to pensions etc.[^c-1c844f25b37f2e9899d12024fafc8a02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -72,24 +72,24 @@ In any Canon, order, rule or regulation relating to deacons, words importing the
 
 (5) This Measure may be applied to the Channel Islands as defined in the Channel Islands (Church Legislation) Measures 1931 and 1957, or either of them, in accordance with those Measures.
 
-## SCHEDULE — Amendments of Clergy Pensions Measure 1961[^key-8fe87fea4324f87013e48b8cd6e49461]
+## SCHEDULE — Amendments of Clergy Pensions Measure 1961[^c-8fe87fea4324f87013e48b8cd6e49461]
 
 **No longer in force.**
 
-**1.**[^key-8fe87fea4324f87013e48b8cd6e49461] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8fe87fea4324f87013e48b8cd6e49461] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8fe87fea4324f87013e48b8cd6e49461] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8fe87fea4324f87013e48b8cd6e49461] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8fe87fea4324f87013e48b8cd6e49461] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8fe87fea4324f87013e48b8cd6e49461] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8fe87fea4324f87013e48b8cd6e49461] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8fe87fea4324f87013e48b8cd6e49461] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c9227261]: Marginal citation: [1964 No. 6](https://www.legislation.gov.uk/ukcm/1964/6).
 
-[^key-1c844f25b37f2e9899d12024fafc8a02]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukcm/1986/4/section/3) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-1c844f25b37f2e9899d12024fafc8a02]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukcm/1986/4/section/3) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
 [^c9227281]: Modification: Power of appointment conferred by s. 5(2) fully exercised: 16.2.1987 appointed by Instrument dated 3.2.1987
 
-[^key-8fe87fea4324f87013e48b8cd6e49461]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ukcm/1986/4/schedule) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-8fe87fea4324f87013e48b8cd6e49461]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ukcm/1986/4/schedule) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

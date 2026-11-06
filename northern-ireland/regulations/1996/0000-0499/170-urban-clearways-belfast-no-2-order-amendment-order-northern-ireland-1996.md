@@ -46,11 +46,11 @@ AND WHEREAS no objection or representation has been received;
 
 NOW THEREFORE the Department, in exercise of the powers conferred on it by Article 21(1) of the Road Traffic (Northern Ireland) Order 1981 and of every other power enabling it in that behalf, makes the following Order:
 
-## 1. Citation and commencement[^key-58ecf47bf10b217b01e0a4b3dd9f1e47]
+## 1. Citation and commencement[^c-58ecf47bf10b217b01e0a4b3dd9f1e47]
 
 This Order may be cited as the Urban Clearways (Belfast) (No. 2) Order (Amendment) Order (Northern Ireland) 1996 and shall come into operation on 10th June 1996.
 
-## 2. Amendment[^key-26d9d73c2803283fefef514fadd5efb2]
+## 2. Amendment[^c-26d9d73c2803283fefef514fadd5efb2]
 
 The Schedule to the Urban Clearways (Belfast) (No. 2) Order (Northern Ireland) 1981[^f00002] shall be amended by—
 
@@ -65,7 +65,7 @@ Assistant Secretary
 
 23rd April 1996
 
-## SCHEDULE 1[^key-cf6322be2339a530a4f5b7e6472cc3ad]
+## SCHEDULE 1[^c-cf6322be2339a530a4f5b7e6472cc3ad]
 
 | *Column 1* | *Column 2* | *Column 3* |
 | --- | --- | --- |
@@ -74,7 +74,7 @@ Assistant Secretary
 | carriageway) — both | 4.30 p.m. to 6.00 p.m. |  |
 | sides |  |  |
 
-## SCHEDULE 2[^key-d0e700ce25485b2118e4b58bf95fe000]
+## SCHEDULE 2[^c-d0e700ce25485b2118e4b58bf95fe000]
 
 | *Column 1* | *Column 2* | *Column 3* |
 | --- | --- | --- |
@@ -112,12 +112,12 @@ Traffic signs indicating the effect of the Order will in due course be erected o
 
 [^f00001]: Footnote: S.I. [1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2(2) for the definition of “Department”
 
-[^key-58ecf47bf10b217b01e0a4b3dd9f1e47]: Commencement: Art. 1 in operation at 10.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/170/article/1)
+[^c-58ecf47bf10b217b01e0a4b3dd9f1e47]: Commencement: Art. 1 in operation at 10.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/170/article/1)
 
-[^key-26d9d73c2803283fefef514fadd5efb2]: Commencement: Art. 2 in operation at 10.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/170/article/1)
+[^c-26d9d73c2803283fefef514fadd5efb2]: Commencement: Art. 2 in operation at 10.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/170/article/1)
 
 [^f00002]: Footnote: [S.R. 1981 No. 304](https://www.legislation.gov.uk/nisr/1981/304); relevant amending rules are [S.R. 1985 No. 246](https://www.legislation.gov.uk/nisr/1985/246), [S.R. 1987 No. 371](https://www.legislation.gov.uk/nisr/1987/371) and [S.R. 1993 No. 385](https://www.legislation.gov.uk/nisr/1993/385)
 
-[^key-cf6322be2339a530a4f5b7e6472cc3ad]: Commencement: Sch. 1 in operation at 10.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/170/article/1)
+[^c-cf6322be2339a530a4f5b7e6472cc3ad]: Commencement: Sch. 1 in operation at 10.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/170/article/1)
 
-[^key-d0e700ce25485b2118e4b58bf95fe000]: Commencement: Sch. 2 in operation at 10.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/170/article/1)
+[^c-d0e700ce25485b2118e4b58bf95fe000]: Commencement: Sch. 2 in operation at 10.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/170/article/1)

@@ -32,7 +32,7 @@ summary: ''
 
 European Communities
 
-The European Grouping of Territorial Cooperation (Amendment) Regulations 2008 (revoked)[^key-f517e7d5467b743621611f00d845ee94]
+The European Grouping of Territorial Cooperation (Amendment) Regulations 2008 (revoked)[^c-f517e7d5467b743621611f00d845ee94]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 6th April 2008
 
-[^key-f517e7d5467b743621611f00d845ee94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f517e7d5467b743621611f00d845ee94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-f517e7d5467b743621611f00d845ee94]
+## 1.[^c-f517e7d5467b743621611f00d845ee94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-f517e7d5467b743621611f00d845ee94]
+## 2.[^c-f517e7d5467b743621611f00d845ee94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f517e7d5467b743621611f00d845ee94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f517e7d5467b743621611f00d845ee94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f517e7d5467b743621611f00d845ee94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f517e7d5467b743621611f00d845ee94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f517e7d5467b743621611f00d845ee94]: Textual amendment: Regulations revoked (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), regs. 1(2), [13(3)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/13/3)
+[^c-f517e7d5467b743621611f00d845ee94]: Textual amendment: Regulations revoked (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), regs. 1(2), [13(3)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/13/3)

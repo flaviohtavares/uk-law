@@ -31,7 +31,7 @@ summary: ''
 
 Highways, England
 
-The Severn Bridges Tolls Order 2010 (revoked)[^key-76d3953adca4570a8cebac3a76c5a6f7]
+The Severn Bridges Tolls Order 2010 (revoked)[^c-76d3953adca4570a8cebac3a76c5a6f7]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into force
 
 1st January 2011
 
-[^key-76d3953adca4570a8cebac3a76c5a6f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76d3953adca4570a8cebac3a76c5a6f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-76d3953adca4570a8cebac3a76c5a6f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-76d3953adca4570a8cebac3a76c5a6f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-76d3953adca4570a8cebac3a76c5a6f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-76d3953adca4570a8cebac3a76c5a6f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-76d3953adca4570a8cebac3a76c5a6f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-76d3953adca4570a8cebac3a76c5a6f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-76d3953adca4570a8cebac3a76c5a6f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76d3953adca4570a8cebac3a76c5a6f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-76d3953adca4570a8cebac3a76c5a6f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76d3953adca4570a8cebac3a76c5a6f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-76d3953adca4570a8cebac3a76c5a6f7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/3002) revoked (1.1.2012) by [The Severn Bridges Tolls Order 2011 (S.I. 2011/3060)](https://www.legislation.gov.uk/uksi/2011/3060), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3060/article/1), [3](https://www.legislation.gov.uk/uksi/2011/3060/article/3)
+[^c-76d3953adca4570a8cebac3a76c5a6f7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/3002) revoked (1.1.2012) by [The Severn Bridges Tolls Order 2011 (S.I. 2011/3060)](https://www.legislation.gov.uk/uksi/2011/3060), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3060/article/1), [3](https://www.legislation.gov.uk/uksi/2011/3060/article/3)

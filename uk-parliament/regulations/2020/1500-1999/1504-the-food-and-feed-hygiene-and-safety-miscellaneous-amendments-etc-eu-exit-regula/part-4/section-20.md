@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Amendments of Commission Implementing Regulation (EU) 2020/1158[^key-6b78eeb4f777246774e57b0569c5ba9e]
+## 20. Amendments of Commission Implementing Regulation (EU) 2020/1158[^c-6b78eeb4f777246774e57b0569c5ba9e]
 
 *Extent: E+W+S*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b78eeb4f777246774e57b0569c5ba9e]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-6b78eeb4f777246774e57b0569c5ba9e]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)

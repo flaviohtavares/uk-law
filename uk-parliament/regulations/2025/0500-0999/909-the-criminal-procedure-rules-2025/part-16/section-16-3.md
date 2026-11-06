@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16.3. Reference to exhibit[^key-a3f0199b766a5f8000cd29c3cf68281b]
+## 16.3. Reference to exhibit[^c-a3f0199b766a5f8000cd29c3cf68281b]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ Where the statement refers to a document or object as an exhibit, it must identi
 
 ## Annotations
 
-[^key-a3f0199b766a5f8000cd29c3cf68281b]: Commencement: [Rule 16.3](https://www.legislation.gov.uk/uksi/2025/909/rule/16.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a3f0199b766a5f8000cd29c3cf68281b]: Commencement: [Rule 16.3](https://www.legislation.gov.uk/uksi/2025/909/rule/16.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00420]: Footnote: [1967 c. 80](https://www.legislation.gov.uk/ukpga/1967/80).

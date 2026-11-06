@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 479. Amount of gain realised on occurrence of chargeable event[^key-a071c0f56de4162a89de32d06c427457]
+## 479. Amount of gain realised on occurrence of chargeable event[^c-a071c0f56de4162a89de32d06c427457]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,10 +57,10 @@ consists (in whole or in part) in the provision of securities or an interest in 
 (9) In subsection (8)(b)—
 
 - (a) “**group**” means a company and its 51% subsidiaries, and
-- (b) “**group relief**” has the same meaning as in section 183(1) of CTA 2010[^key-44117a12a3f99e2d18103f3c9676f571].
+- (b) “**group relief**” has the same meaning as in section 183(1) of CTA 2010[^c-44117a12a3f99e2d18103f3c9676f571].
 
 ## Annotations
 
-[^key-a071c0f56de4162a89de32d06c427457]: Textual amendment: Pt. 7 Ch. 5 substituted (16.4.2003 for specified purposes and otherwise 1.9.2003 with effect in accordance with Sch. 22 para. 10(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 10(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/10/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-a071c0f56de4162a89de32d06c427457]: Textual amendment: Pt. 7 Ch. 5 substituted (16.4.2003 for specified purposes and otherwise 1.9.2003 with effect in accordance with Sch. 22 para. 10(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 10(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/10/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-44117a12a3f99e2d18103f3c9676f571]: Textual amendment: Words in s. 479(9)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 390](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/390) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-44117a12a3f99e2d18103f3c9676f571]: Textual amendment: Words in s. 479(9)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 390](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/390) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

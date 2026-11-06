@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — AMENDMENT OF THE SOCIAL SECURITY (CLAIMS AND PAYMENTS) REGULATIONS 1987[^key-0fb58388d3ad548331dd370d857762c1]
+## SCHEDULE 6 — AMENDMENT OF THE SOCIAL SECURITY (CLAIMS AND PAYMENTS) REGULATIONS 1987[^c-0fb58388d3ad548331dd370d857762c1]
 
 *Extent: E+W+S*
 
@@ -126,7 +126,7 @@ Article 3(6)
 
 ## Annotations
 
-[^key-0fb58388d3ad548331dd370d857762c1]: Modification: Sch. 6 modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-0fb58388d3ad548331dd370d857762c1]: Modification: Sch. 6 modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c16476741]: Marginal citation: The definition of “claim for benefit" was amended by [S.I. 1989/1686](https://www.legislation.gov.uk/uksi/1989/1686) and 1992/247.
 

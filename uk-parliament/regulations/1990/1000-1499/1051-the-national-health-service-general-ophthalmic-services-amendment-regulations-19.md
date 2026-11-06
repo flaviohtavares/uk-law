@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State for Health, in exercise of powers conferred by sections 38(1) and 39 of the National Health Service Act 1977[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-0274dea59a3db9d0ad550273f087930d]
+## 1. Citation and commencement[^c-0274dea59a3db9d0ad550273f087930d]
 
 These Regulations may be cited as the National Health Service (General Ophthalmic Services) Amendment Regulations 1990 and shall come into force on 1st June 1990.
 
-## 2. Amendment of terms of service[^key-6bb03cecb0dbef5f736d3296681cde74]
+## 2. Amendment of terms of service[^c-6bb03cecb0dbef5f736d3296681cde74]
 
 (1) Schedule 1 to the National Health Service (General Ophthalmic Services) Regulations 1986[^f00002] (terms of service) is amended in accordance with the following provisions of this regulation.
 
@@ -89,8 +89,8 @@ Regulation 2(2) substitutes a new paragraph 3 to require a contractor to provide
 
 [^f00001]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); *see* section 128(1) for the definition of “prescribed” and “regulations”. Section 38(1) was amended by [S.I. 1985/39](https://www.legislation.gov.uk/uksi/1985/39), article 7(11), by section 1(3) of the Health and Social Security Act [1984 (c. 48)](https://www.legislation.gov.uk/ukpga/1984/48) (“the 1984 Act”) and by the Health and Medicines Act [1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49), section 13(1). Section 39 was amended by [S.I. 1985/39](https://www.legislation.gov.uk/uksi/1985/39), article 7(12), by paragraph 52 of Schedule 1 to the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53) and by section 1(4) of, and paragraph 1 of Schedule 1 to, the 1984 Act.
 
-[^key-0274dea59a3db9d0ad550273f087930d]: Commencement: Reg. 1 in force at 1.6.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1051/regulation/1)
+[^c-0274dea59a3db9d0ad550273f087930d]: Commencement: Reg. 1 in force at 1.6.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1051/regulation/1)
 
-[^key-6bb03cecb0dbef5f736d3296681cde74]: Commencement: Reg. 2 in force at 1.6.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1051/regulation/1)
+[^c-6bb03cecb0dbef5f736d3296681cde74]: Commencement: Reg. 2 in force at 1.6.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1051/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1986/975](https://www.legislation.gov.uk/uksi/1986/975), amended by [S.I. 1988/486](https://www.legislation.gov.uk/uksi/1988/486), [1989/395](https://www.legislation.gov.uk/uksi/1989/395) and [1175](https://www.legislation.gov.uk/uksi/1989/1175).

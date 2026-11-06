@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38A. Anonymous registration: applications and declarations[^key-9b122cc53ee4c6d16c619dc4777accad][^key-a8bbf32531b5e2c6d0cb4a63c54b7cbc]
+## 38A. Anonymous registration: applications and declarations[^c-9b122cc53ee4c6d16c619dc4777accad][^c-a8bbf32531b5e2c6d0cb4a63c54b7cbc]
 
 *Extent: N.I.*
 
 (1) An application for an anonymous entry must state—
 
 - (a) the applicant’s full name,
-- (b)[^key-5990e2fdea266c6c167367cdefbec694] the address in respect of which the applicant is seeking to be registered, or is registered, in the register,
+- (b)[^c-5990e2fdea266c6c167367cdefbec694] the address in respect of which the applicant is seeking to be registered, or is registered, in the register,
 - (ba) if different to the address referred to in sub-paragraph (b), the applicant’s present address,
 - (c) the reason for the application, and
 - (d) the date of the application.
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9b122cc53ee4c6d16c619dc4777accad]: Textual amendment: [Regs. 38A-38E](https://www.legislation.gov.uk/uksi/2008/1741/regulation/38A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2014/1808/regulation/10)
+[^c-9b122cc53ee4c6d16c619dc4777accad]: Textual amendment: [Regs. 38A-38E](https://www.legislation.gov.uk/uksi/2008/1741/regulation/38A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2014/1808/regulation/10)
 
-[^key-a8bbf32531b5e2c6d0cb4a63c54b7cbc]: Modification: [Reg. 38A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/38A) applied (with modifications) (15.9.2014) by [S.I. 2001/1184](https://www.legislation.gov.uk/uksi/2001/1184), [reg. 9](https://www.legislation.gov.uk/uksi/2001/1184/regulation/9), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2001/1184/schedule) (as inserted by [S.I. 2014/1803](https://www.legislation.gov.uk/uksi/2014/1803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/8/3/a))
+[^c-a8bbf32531b5e2c6d0cb4a63c54b7cbc]: Modification: [Reg. 38A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/38A) applied (with modifications) (15.9.2014) by [S.I. 2001/1184](https://www.legislation.gov.uk/uksi/2001/1184), [reg. 9](https://www.legislation.gov.uk/uksi/2001/1184/regulation/9), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2001/1184/schedule) (as inserted by [S.I. 2014/1803](https://www.legislation.gov.uk/uksi/2014/1803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/8/3/a))
 
-[^key-5990e2fdea266c6c167367cdefbec694]: Textual amendment: [Reg. 38A(1)(b)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/38A/1/b)[(ba)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/38A/1/ba) substituted for [reg. 38A(1)(b)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/38A/1/b) (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2024/43/regulation/17) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2024/43/regulation/28/2))
+[^c-5990e2fdea266c6c167367cdefbec694]: Textual amendment: [Reg. 38A(1)(b)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/38A/1/b)[(ba)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/38A/1/ba) substituted for [reg. 38A(1)(b)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/38A/1/b) (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2024/43/regulation/17) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2024/43/regulation/28/2))

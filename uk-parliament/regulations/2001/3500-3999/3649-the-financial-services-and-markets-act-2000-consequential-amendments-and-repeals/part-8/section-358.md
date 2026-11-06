@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 358. Payments by insurers[^key-7fcb50f6f74f251bee50667e33aa85a4]
+## 358. Payments by insurers[^c-7fcb50f6f74f251bee50667e33aa85a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fcb50f6f74f251bee50667e33aa85a4]: Commencement: Art. 358 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7fcb50f6f74f251bee50667e33aa85a4]: Commencement: Art. 358 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

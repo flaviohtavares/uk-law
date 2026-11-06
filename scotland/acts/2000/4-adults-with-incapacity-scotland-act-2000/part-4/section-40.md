@@ -22,9 +22,9 @@ summary: ''
 
 (1)[^c10141791] The supervisory body for the purposes of this Part is, in relation to—
 
-- (a) a registered establishment which is—[^key-c7caec36942ad9b19fcbad4cb51a5572]
+- (a) a registered establishment which is—[^c-c7caec36942ad9b19fcbad4cb51a5572]
   - (i) registered under the Public Services Reform (Scotland) Act 2010, Social Care and Social Work Improvement Scotland;
-  - (ii)[^key-96e6c8c873010d87803c6cde3606b9b8] registered under the National Health Service (Scotland) Act 1978, Healthcare Improvement Scotland;
+  - (ii)[^c-96e6c8c873010d87803c6cde3606b9b8] registered under the National Health Service (Scotland) Act 1978, Healthcare Improvement Scotland;
 - (b) an unregistered establishment, the Health Board for the area in which the establishment is situated;
 
 and any reference in this Part to an authorised establishment in relation to a supervisory body is a reference to an authorised establishment for which the supervisory body is responsible.
@@ -39,9 +39,9 @@ and any reference in this Part to an authorised establishment in relation to a s
 
 [^c10141791]: Textual amendment: S. 40(1)(a)(b) substituted (1.4.2002) for words "from the beginning of the subsection to the end of paragraph (c)" by virtue of [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8), [ss. 79](https://www.legislation.gov.uk/asp/2001/8/section/79), [81(2)](https://www.legislation.gov.uk/asp/2001/8/section/81/2), [Sch. 3 para. 23(3)(a)](https://www.legislation.gov.uk/asp/2001/8/schedule/3/paragraph/23/3/a); [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2](https://www.legislation.gov.uk/ssi/2002/162/article/2) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
-[^key-c7caec36942ad9b19fcbad4cb51a5572]: Textual amendment: S. 40(1)(a) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 8(3)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/8/3)
+[^c-c7caec36942ad9b19fcbad4cb51a5572]: Textual amendment: S. 40(1)(a) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 8(3)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/8/3)
 
-[^key-96e6c8c873010d87803c6cde3606b9b8]: Textual amendment: S. 40(1)(a)(ii) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 5(3)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/5/3)
+[^c-96e6c8c873010d87803c6cde3606b9b8]: Textual amendment: S. 40(1)(a)(ii) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 5(3)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/5/3)
 
 [^c10141801]: Textual amendment: Word in s. 40(2)(3) substituted (1.4.2002) by [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8), [ss. 79](https://www.legislation.gov.uk/asp/2001/8/section/79), [81(2)](https://www.legislation.gov.uk/asp/2001/8/section/81/2), [Sch. 3 para. 23(3)(b)](https://www.legislation.gov.uk/asp/2001/8/schedule/3/paragraph/23/3/b); [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2](https://www.legislation.gov.uk/ssi/2002/162/article/2)
 

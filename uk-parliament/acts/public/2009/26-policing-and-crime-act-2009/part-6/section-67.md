@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Article 26 alerts[^key-c2f28f72eee142ce0fb4844288031459]
+## 67. Article 26 alerts[^c-c2f28f72eee142ce0fb4844288031459]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ For section 204 of the Extradition Act 2003 (c. 41) (Part 1 warrant: transmissio
 
 ## Annotations
 
-[^key-c2f28f72eee142ce0fb4844288031459]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2009/26/section/67) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/j) (with [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2009/3096/article/4/1/a))
+[^c-c2f28f72eee142ce0fb4844288031459]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2009/26/section/67) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/j) (with [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2009/3096/article/4/1/a))

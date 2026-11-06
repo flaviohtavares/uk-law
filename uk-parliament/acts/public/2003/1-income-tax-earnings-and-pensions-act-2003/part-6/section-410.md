@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 410. Exception for payments and benefits in respect of certain legal expenses etc and indemnity insurance: individual deceased[^key-fd8c5799959e9ee52b9a6bcf75065205]
+## 410. Exception for payments and benefits in respect of certain legal expenses etc and indemnity insurance: individual deceased[^c-fd8c5799959e9ee52b9a6bcf75065205]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) For the purposes of this section “**deductible amount**” means an amount which meets conditions A to C.
 
-(3) Condition A is that the amount is paid by the individual’s personal representatives or by the former employer on behalf of the individual's personal representatives[^key-305dc6942c993588c52ee7cf67800fea] .
+(3) Condition A is that the amount is paid by the individual’s personal representatives or by the former employer on behalf of the individual's personal representatives[^c-305dc6942c993588c52ee7cf67800fea] .
 
 (4) Condition B is that a deduction for the amount would have been allowed under section 346 from earnings from the relevant employment, if—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd8c5799959e9ee52b9a6bcf75065205]: Textual amendment: Words in s. 410 heading substituted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(5)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/5/a)
+[^c-fd8c5799959e9ee52b9a6bcf75065205]: Textual amendment: Words in s. 410 heading substituted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(5)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/5/a)
 
-[^key-305dc6942c993588c52ee7cf67800fea]: Textual amendment: Words in s. 410(3) inserted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(5)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/5/b)
+[^c-305dc6942c993588c52ee7cf67800fea]: Textual amendment: Words in s. 410(3) inserted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(5)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/5/b)

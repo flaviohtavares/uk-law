@@ -33,14 +33,14 @@ of 14 December 2015
 
 correcting Delegated Regulation (EU) 2015/63 supplementing Directive 2014/59/EU of the European Parliament and of the Council with regard to *ex ante* contributions to resolution financing arrangements (revoked)
 
-[^key-cdb6c3769c025131af0cc26ef2bd7b58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cdb6c3769c025131af0cc26ef2bd7b58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-cdb6c3769c025131af0cc26ef2bd7b58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-cdb6c3769c025131af0cc26ef2bd7b58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-cdb6c3769c025131af0cc26ef2bd7b58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-cdb6c3769c025131af0cc26ef2bd7b58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cdb6c3769c025131af0cc26ef2bd7b58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cdb6c3769c025131af0cc26ef2bd7b58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cdb6c3769c025131af0cc26ef2bd7b58]: Textual amendment: Regulation revoked (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cdb6c3769c025131af0cc26ef2bd7b58]: Textual amendment: Regulation revoked (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

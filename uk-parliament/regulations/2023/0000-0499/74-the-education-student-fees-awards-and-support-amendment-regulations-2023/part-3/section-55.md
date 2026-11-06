@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Insertion of definition of “the course start date”[^key-957f9bf6231018c83eb4a39122c25dd5]
+## 55. Insertion of definition of “the course start date”[^c-957f9bf6231018c83eb4a39122c25dd5]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ In regulation 2 (interpretation), after the definition of “award” insert—
 
 .
 
-**56.**[^key-8c4faaba7b5ebba705af3ea7ccc8d754] (1) Schedule 1 (eligible students)[^f00049] is amended as follows.—
+**56.**[^c-8c4faaba7b5ebba705af3ea7ccc8d754] (1) Schedule 1 (eligible students)[^f00049] is amended as follows.—
 
 (2) In paragraph 2A(1) (persons who are settled in the United Kingdom)—
 
@@ -39,8 +39,8 @@ In regulation 2 (interpretation), after the definition of “award” insert—
 
 ## Annotations
 
-[^key-957f9bf6231018c83eb4a39122c25dd5]: Commencement: Reg. 55 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-957f9bf6231018c83eb4a39122c25dd5]: Commencement: Reg. 55 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-8c4faaba7b5ebba705af3ea7ccc8d754]: Commencement: Reg. 56 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-8c4faaba7b5ebba705af3ea7ccc8d754]: Commencement: Reg. 56 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00049]: Footnote: Paragraph 2A was inserted by [S.I. 2021/127](https://www.legislation.gov.uk/uksi/2021/127) and amended by [S.I. 2021/929](https://www.legislation.gov.uk/uksi/2021/929). There are amendments to paragraph 8 but none is relevant. Paragraph 8A was inserted by [S.I. 2021/127](https://www.legislation.gov.uk/uksi/2021/127).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Adult Protection Committees[^key-ae3c369d89555336225d398331109cd4]
+## 42. Adult Protection Committees[^c-ae3c369d89555336225d398331109cd4]
 
 *Extent: S*
 
@@ -32,18 +32,18 @@ summary: ''
 (3) The public bodies and office-holders to which this section applies are—
 
 - (a) the council,
-- (b)[^key-5c91707bec4757c39ef7a68b1ee3a258] SCSWIS,
-- (ba)[^key-e538e56a441e8f2ed8813a53b4f77147] Healthcare Improvement Scotland,
+- (b)[^c-5c91707bec4757c39ef7a68b1ee3a258] SCSWIS,
+- (ba)[^c-e538e56a441e8f2ed8813a53b4f77147] Healthcare Improvement Scotland,
 - (c) the relevant Health Board,
-- (d)[^key-0e439d112bafa14172fcb67cb22e2b0c] the chief constable of the Police Service of Scotland,
+- (d)[^c-0e439d112bafa14172fcb67cb22e2b0c] the chief constable of the Police Service of Scotland,
 - (e) any other public body or office-holder as the Scottish Ministers may by order specify.
 
 ## Annotations
 
-[^key-ae3c369d89555336225d398331109cd4]: Commencement: S. 42 in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-ae3c369d89555336225d398331109cd4]: Commencement: S. 42 in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
 
-[^key-5c91707bec4757c39ef7a68b1ee3a258]: Textual amendment: S. 42(3)(b) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 14 para. 21](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/21); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-5c91707bec4757c39ef7a68b1ee3a258]: Textual amendment: S. 42(3)(b) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 14 para. 21](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/21); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-e538e56a441e8f2ed8813a53b4f77147]: Textual amendment: S. 42(3)(ba) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 35(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/35/b); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-e538e56a441e8f2ed8813a53b4f77147]: Textual amendment: S. 42(3)(ba) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 35(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/35/b); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-0e439d112bafa14172fcb67cb22e2b0c]: Textual amendment: S. 42(3)(d) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 35(4)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/35/4); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-0e439d112bafa14172fcb67cb22e2b0c]: Textual amendment: S. 42(3)(d) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 35(4)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/35/4); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

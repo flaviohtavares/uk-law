@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Lights liable to endanger[^key-25fac653a725f4f61b279f0fe9741b21]
+## 137. Lights liable to endanger[^c-25fac653a725f4f61b279f0fe9741b21]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25fac653a725f4f61b279f0fe9741b21]: Commencement: [Art. 137](https://www.legislation.gov.uk/uksi/2015/870/article/137) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-25fac653a725f4f61b279f0fe9741b21]: Commencement: [Art. 137](https://www.legislation.gov.uk/uksi/2015/870/article/137) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

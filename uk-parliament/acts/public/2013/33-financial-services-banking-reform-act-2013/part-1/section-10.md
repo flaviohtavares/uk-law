@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Independent review of proprietary trading[^key-b603eb1ca58b6a0e52f191252fe99d46]
+## 10. Independent review of proprietary trading[^c-b603eb1ca58b6a0e52f191252fe99d46]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ and any question arising under paragraph (a) or (b) is to be determined by the S
 
 ## Annotations
 
-[^key-b603eb1ca58b6a0e52f191252fe99d46]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/33/section/10) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(i)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/i)
+[^c-b603eb1ca58b6a0e52f191252fe99d46]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/33/section/10) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(i)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/i)

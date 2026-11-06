@@ -29,12 +29,12 @@ summary: ''
 - “**the Order of 1981**” means the Road Traffic (Northern Ireland) Order 1981 (NI 1);
 - “**the Order of 1991**” means the Road Traffic (Amendment) (Northern Ireland) Order 1991 (NI 3);
 - “**the Order of 1995**” means the Road Traffic (Northern Ireland) Order 1995 (NI 18);
-- [^key-3ed7eaa41f75e5e4188f2b7402bc7a2c]...
-- “[^key-699d411dd3844de283cc356b1fa127d8]**the Regulations of 2023**” means the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023;
+- [^c-3ed7eaa41f75e5e4188f2b7402bc7a2c]...
+- “[^c-699d411dd3844de283cc356b1fa127d8]**the Regulations of 2023**” means the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023;
 - “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33).
 
 ## Annotations
 
-[^key-3ed7eaa41f75e5e4188f2b7402bc7a2c]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2007/916/article/2/2) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/2)
+[^c-3ed7eaa41f75e5e4188f2b7402bc7a2c]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2007/916/article/2/2) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/2)
 
-[^key-699d411dd3844de283cc356b1fa127d8]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2007/916/article/2/2) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 95(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/95/2)
+[^c-699d411dd3844de283cc356b1fa127d8]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2007/916/article/2/2) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 95(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/95/2)

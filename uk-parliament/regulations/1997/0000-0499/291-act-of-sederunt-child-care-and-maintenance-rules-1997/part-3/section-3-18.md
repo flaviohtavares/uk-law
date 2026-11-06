@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.18. Power to dispense with service[^key-1880960138ff5ed3b9e4dc6ed117b8f6]
+## 3.18. Power to dispense with service[^c-1880960138ff5ed3b9e4dc6ed117b8f6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Subject to rule 3.3, the sheriff may, on cause shown, dispense with service on a
 
 ## Annotations
 
-[^key-1880960138ff5ed3b9e4dc6ed117b8f6]: Commencement: Rule 3.18 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-1880960138ff5ed3b9e4dc6ed117b8f6]: Commencement: Rule 3.18 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

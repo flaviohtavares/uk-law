@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Calculation of “retirement index adjustment”[^key-721ee4ce1dd7ee37797b6c3df2d2702c]
+## 26. Calculation of “retirement index adjustment”[^c-721ee4ce1dd7ee37797b6c3df2d2702c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ Apply the retirement index percentage to the amount of accrued pension.
 
 The resulting amount is the retirement index adjustment.
 
-(2) In this regulation and regulation 26A[^key-01bcb04ee061233d1246d54615a849a4]—
+(2) In this regulation and regulation 26A[^c-01bcb04ee061233d1246d54615a849a4]—
 
 - “complete month” includes an incomplete month that consists of at least 16 days;
 - “the leaving year” means the scheme year in which the last day of pensionable service falls;
@@ -51,6 +51,6 @@ The resulting amount is the retirement index adjustment.
 
 ## Annotations
 
-[^key-721ee4ce1dd7ee37797b6c3df2d2702c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2014/2336/regulation/26) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-721ee4ce1dd7ee37797b6c3df2d2702c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2014/2336/regulation/26) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
 
-[^key-01bcb04ee061233d1246d54615a849a4]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/26/2) inserted (6.5.2024) by [The Armed Forces Pensions (Amendment) Regulations 2024 (S.I. 2024/491)](https://www.legislation.gov.uk/uksi/2024/491), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/491/regulation/1/b), [6](https://www.legislation.gov.uk/uksi/2024/491/regulation/6)
+[^c-01bcb04ee061233d1246d54615a849a4]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/26/2) inserted (6.5.2024) by [The Armed Forces Pensions (Amendment) Regulations 2024 (S.I. 2024/491)](https://www.legislation.gov.uk/uksi/2024/491), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/491/regulation/1/b), [6](https://www.legislation.gov.uk/uksi/2024/491/regulation/6)

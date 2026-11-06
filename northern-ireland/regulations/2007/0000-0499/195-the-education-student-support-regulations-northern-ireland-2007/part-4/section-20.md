@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Standard entitlement – course leading to degree in social work[^key-037b0f02c435b761c86f4d276efe65c5]
+## 20. Standard entitlement – course leading to degree in social work[^c-037b0f02c435b761c86f4d276efe65c5]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ where
 
 ## Annotations
 
-[^key-037b0f02c435b761c86f4d276efe65c5]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2007/195/regulation/20) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-037b0f02c435b761c86f4d276efe65c5]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2007/195/regulation/20) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Mental health officer’s duty to prepare proposed care plan[^key-115c9d4a6d7fb3456cb7615731e51f43]
+## 62. Mental health officer’s duty to prepare proposed care plan[^c-115c9d4a6d7fb3456cb7615731e51f43]
 
 *Extent: S*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-115c9d4a6d7fb3456cb7615731e51f43]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2003/13/section/62) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-115c9d4a6d7fb3456cb7615731e51f43]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2003/13/section/62) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

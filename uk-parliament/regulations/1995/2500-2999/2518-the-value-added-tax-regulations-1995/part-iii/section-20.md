@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. General[^key-d6859de05b7a98829c755abaeb047d9c]
+## 20. General[^c-d6859de05b7a98829c755abaeb047d9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Regulations 13, 14, 15, 16, 17, 18 and 19 shall not apply to the following suppl
 
 ## Annotations
 
-[^key-d6859de05b7a98829c755abaeb047d9c]: Commencement: Reg. 20 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-d6859de05b7a98829c755abaeb047d9c]: Commencement: Reg. 20 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

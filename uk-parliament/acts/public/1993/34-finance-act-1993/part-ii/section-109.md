@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-9a41cfa08b6e6f77d0ae1be4cc7399bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-9a41cfa08b6e6f77d0ae1be4cc7399bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-9a41cfa08b6e6f77d0ae1be4cc7399bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9a41cfa08b6e6f77d0ae1be4cc7399bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-71d2322f9554baf8f7cba680256af8a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-71d2322f9554baf8f7cba680256af8a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3de3f7875b1f1ddb9870e046b9bea0d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3de3f7875b1f1ddb9870e046b9bea0d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9a41cfa08b6e6f77d0ae1be4cc7399bc]: Textual amendment: S. 109(1)(2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-9a41cfa08b6e6f77d0ae1be4cc7399bc]: Textual amendment: S. 109(1)(2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-71d2322f9554baf8f7cba680256af8a7]: Textual amendment: [S. 109(3)](https://www.legislation.gov.uk/ukpga/1993/34/section/109/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-71d2322f9554baf8f7cba680256af8a7]: Textual amendment: [S. 109(3)](https://www.legislation.gov.uk/ukpga/1993/34/section/109/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-3de3f7875b1f1ddb9870e046b9bea0d3]: Textual amendment: S. 109(4) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-3de3f7875b1f1ddb9870e046b9bea0d3]: Textual amendment: S. 109(4) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

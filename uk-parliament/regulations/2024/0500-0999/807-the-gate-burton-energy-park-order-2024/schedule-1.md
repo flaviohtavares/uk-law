@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-**1.**[^key-19fadb589e9dbc34637f5c3288173cb5] In this Schedule—
+**1.**[^c-19fadb589e9dbc34637f5c3288173cb5] In this Schedule—
 
 - “**balance of solar system (BoSS) plant**” means inverters, transformers and switch gear and would be either—
   - (a) solar stations being a station comprising centralised inverters, transformers and switch gear with each component for each solar station either—
@@ -40,7 +40,7 @@ Article 2
 - “**switch gear**” means a combination of electrical disconnect switches, fuses or circuit breakers used to control, protect and isolate electrical equipment; and
 - “**transformer**” means a structure serving to transform electricity to a higher voltage.
 
-**2.**[^key-628a9db4a08adcfe6f1b448c1da9c08a] In the Districts of West Lindsey and Bassetlaw and in the Counties of Lincolnshire and Nottinghamshire a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act.
+**2.**[^c-628a9db4a08adcfe6f1b448c1da9c08a] In the Districts of West Lindsey and Bassetlaw and in the Counties of Lincolnshire and Nottinghamshire a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act.
 
 The nationally significant infrastructure project comprises one generating station with a gross electrical output capacity of over 50 megawatts comprising all or any of the work numbers in this Schedule or any part of any work number in this Schedule—
 
@@ -154,6 +154,6 @@ and further associated development comprising such other works or operations as 
 
 ## Annotations
 
-[^key-19fadb589e9dbc34637f5c3288173cb5]: Commencement: Sch. 1 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-19fadb589e9dbc34637f5c3288173cb5]: Commencement: Sch. 1 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-628a9db4a08adcfe6f1b448c1da9c08a]: Commencement: Sch. 1 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-628a9db4a08adcfe6f1b448c1da9c08a]: Commencement: Sch. 1 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)

@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-57560acc000e1cebac1b3033c7fa2741]
+The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-57560acc000e1cebac1b3033c7fa2741]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 1st August 2004
 
-[^key-57560acc000e1cebac1b3033c7fa2741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57560acc000e1cebac1b3033c7fa2741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-57560acc000e1cebac1b3033c7fa2741]
+## 1. Citation and commencement[^c-57560acc000e1cebac1b3033c7fa2741]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Student Loans) Regulations (Northern Ireland) 1998[^key-57560acc000e1cebac1b3033c7fa2741]
+## 2. Amendment of the Education (Student Loans) Regulations (Northern Ireland) 1998[^c-57560acc000e1cebac1b3033c7fa2741]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-57560acc000e1cebac1b3033c7fa2741]
+## 3. Revocation[^c-57560acc000e1cebac1b3033c7fa2741]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57560acc000e1cebac1b3033c7fa2741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57560acc000e1cebac1b3033c7fa2741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57560acc000e1cebac1b3033c7fa2741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57560acc000e1cebac1b3033c7fa2741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-57560acc000e1cebac1b3033c7fa2741]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/305) revoked (1.8.2005) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/351)](https://www.legislation.gov.uk/nisr/2005/351), [regs. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/351/regulation/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/351/schedule/1)
+[^c-57560acc000e1cebac1b3033c7fa2741]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/305) revoked (1.8.2005) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/351)](https://www.legislation.gov.uk/nisr/2005/351), [regs. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/351/regulation/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/351/schedule/1)

@@ -27,8 +27,8 @@ summary: ''
 
 (2) Subsection (1) does not prevent a person making a fixtures claim in respect of capital expenditure if—
 
-- (a) the only previous claim was under Part 3, 3A[^key-a3f685babeada6782efc3878fb314fa1] or 6 (industrial buildings and research and development allowances), and
-- (b) section 186(2), 186A(2)[^key-60c6a7d0713dac100e14e734a3ed8416] or 187(2) (limit on amount of expenditure that may be taken into account) applies to that expenditure.
+- (a) the only previous claim was under Part 3, 3A[^c-a3f685babeada6782efc3878fb314fa1] or 6 (industrial buildings and research and development allowances), and
+- (b) section 186(2), 186A(2)[^c-60c6a7d0713dac100e14e734a3ed8416] or 187(2) (limit on amount of expenditure that may be taken into account) applies to that expenditure.
 
 (3) If a person entitled to do so has made a fixtures claim in respect of capital expenditure relating to an asset, no one is entitled to an allowance on a later claim under any Part other than Part 2 in respect of any capital expenditure relating to the asset.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3f685babeada6782efc3878fb314fa1]: Textual amendment: Words in s. 9(2)(a) inserted (with effect in accordance with Sch. 10 para. 12 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 7(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/7/a)
+[^c-a3f685babeada6782efc3878fb314fa1]: Textual amendment: Words in s. 9(2)(a) inserted (with effect in accordance with Sch. 10 para. 12 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 7(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/7/a)
 
-[^key-60c6a7d0713dac100e14e734a3ed8416]: Textual amendment: Words in s. 9(2)(b) inserted (with effect in accordance with Sch. 10 para. 12 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 7(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/7/b)
+[^c-60c6a7d0713dac100e14e734a3ed8416]: Textual amendment: Words in s. 9(2)(b) inserted (with effect in accordance with Sch. 10 para. 12 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 7(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/7/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Articles for use in fraud[^key-a82d4da5cef2f29203559a852046bf50]
+## 49. Articles for use in fraud[^c-a82d4da5cef2f29203559a852046bf50]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a82d4da5cef2f29203559a852046bf50]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2010/13/section/49) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-a82d4da5cef2f29203559a852046bf50]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2010/13/section/49) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

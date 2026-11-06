@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Use of fixed penalty receipts[^key-e3ad4035ae53170d4b1a20b8f6410b86]
+## 54. Use of fixed penalty receipts[^c-e3ad4035ae53170d4b1a20b8f6410b86]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3ad4035ae53170d4b1a20b8f6410b86]: Commencement: [S. 54](https://www.legislation.gov.uk/nia/2011/23/section/54) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-e3ad4035ae53170d4b1a20b8f6410b86]: Commencement: [S. 54](https://www.legislation.gov.uk/nia/2011/23/section/54) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

@@ -33,13 +33,13 @@ Table
 | The designated officer for the court mentioned in the row above. | The designated officer for the court mentioned in the row above. |
 | (A) The fines officer who made the order.<br>(B) A fines officer acting in the same local justice area as was the court which made the order. | <br>In either case, a fines officer acting in the local justice area specified in the order. |
 
-(2A)[^c18253321] The functions of the court to which subsection (2) above relates shall be deemed to include the court’s under this Part of this Act[^c19407771] power to apply to the Secretary of State under any regulations made by him under section 24(1)(a) of the [^c18253331]Criminal Justice Act 1991 (power to deduct fines etc from universal credit and[^key-2f3d3b91008ab99b605c9f7e99428383] income support).
+(2A)[^c18253321] The functions of the court to which subsection (2) above relates shall be deemed to include the court’s under this Part of this Act[^c19407771] power to apply to the Secretary of State under any regulations made by him under section 24(1)(a) of the [^c18253331]Criminal Justice Act 1991 (power to deduct fines etc from universal credit and[^c-2f3d3b91008ab99b605c9f7e99428383] income support).
 
 (3)[^c19407531] A court or a fines officer, as the case may be, by which or whom[^c19407791] functions in relation to any sum are for the time being exercisable by virtue of a transfer of fine order may make a further transfer of fine order with respect to that sum.
 
 (4) In this section and sections 90 and 91 below, references to this Part of this Act do not include references to section 81(1) above.
 
-(5)[^key-6db6026f1c9e89e9e7a558a7242fc721] When this section applies to a sum payable by virtue of a conviction under section 16H—
+(5)[^c-6db6026f1c9e89e9e7a558a7242fc721] When this section applies to a sum payable by virtue of a conviction under section 16H—
 
 - (a) a reference to a sum that is the subject of a collection order has effect as a reference to a sum set out in the notice of conviction and penalty (within the meaning of section 16L), and
 - (b) the power in subsection (1) may be exercised by any fines officer.
@@ -66,10 +66,10 @@ Table
 
 [^c18253331]: Marginal citation: [1991 c. 53](https://www.legislation.gov.uk/ukpga/1991/53).
 
-[^key-2f3d3b91008ab99b605c9f7e99428383]: Textual amendment: Words in s. 89(2A) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/4/2)
+[^c-2f3d3b91008ab99b605c9f7e99428383]: Textual amendment: Words in s. 89(2A) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/4/2)
 
 [^c19407531]: Textual amendment: S. 89(3) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 225(4)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/225/4); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c19407791]: Textual amendment: Words in s. 89(3) substituted (3.7.2006) by [The Collection of Fines (Final Scheme) Order 2006 (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [art. 49(d)](https://www.legislation.gov.uk/uksi/2006/1737/article/49/d)
 
-[^key-6db6026f1c9e89e9e7a558a7242fc721]: Textual amendment: S. 89(5) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/1/3); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-6db6026f1c9e89e9e7a558a7242fc721]: Textual amendment: S. 89(5) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/1/3); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)

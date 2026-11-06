@@ -31,10 +31,10 @@ summary: ''
 
 of 14 January 1992 relating to a proceeding pursuant to Article 85 of the EEC Treaty (IV/33.100 - Assurpol)(Only the French text is authentic) (revoked)
 
-[^key-1a4a8acaef0bd21c5a43e1367695db6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a4a8acaef0bd21c5a43e1367695db6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-1a4a8acaef0bd21c5a43e1367695db6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-1a4a8acaef0bd21c5a43e1367695db6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a4a8acaef0bd21c5a43e1367695db6c]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a4a8acaef0bd21c5a43e1367695db6c]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

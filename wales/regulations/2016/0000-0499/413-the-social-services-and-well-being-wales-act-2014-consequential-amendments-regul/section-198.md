@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**198.**[^key-1a8ced7ed6ec467e4b77d34d9aef95ba] In Schedule 6—
+**198.**[^c-1a8ced7ed6ec467e4b77d34d9aef95ba] In Schedule 6—
 
 - (a) after “(where stated) of the 1989 Act” insert “or the 2014 Act”;
 - (b) in the table, insert in the appropriate place in alphabetical order—
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a8ced7ed6ec467e4b77d34d9aef95ba]: Commencement: Reg. 198 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-1a8ced7ed6ec467e4b77d34d9aef95ba]: Commencement: Reg. 198 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

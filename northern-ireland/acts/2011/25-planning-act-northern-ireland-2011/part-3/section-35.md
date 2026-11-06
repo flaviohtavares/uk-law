@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Simplified planning zone schemes: conditions and limitations on planning permission[^key-60b6f5436f3fe5e0baec34a7c3d4a029][^key-0aaac9c6deeb97a329250a21eb2741aa][^key-2f5f0ed73ae267031cc18d32f95f44b5][^key-2f5f0ed73ae267031cc18d32f95f44b5]
+## 35. Simplified planning zone schemes: conditions and limitations on planning permission[^c-60b6f5436f3fe5e0baec34a7c3d4a029][^c-0aaac9c6deeb97a329250a21eb2741aa][^c-2f5f0ed73ae267031cc18d32f95f44b5][^c-2f5f0ed73ae267031cc18d32f95f44b5]
 
 *Extent: N.I.*
 
@@ -36,8 +36,8 @@ and no limitation or restriction subject to which permission has been granted ot
 
 ## Annotations
 
-[^key-60b6f5436f3fe5e0baec34a7c3d4a029]: Commencement: S. 35 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
+[^c-60b6f5436f3fe5e0baec34a7c3d4a029]: Commencement: S. 35 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
 
-[^key-0aaac9c6deeb97a329250a21eb2741aa]: Commencement: S. 35 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
+[^c-0aaac9c6deeb97a329250a21eb2741aa]: Commencement: S. 35 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
 
-[^key-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
+[^c-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))

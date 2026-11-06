@@ -31,7 +31,7 @@ summary: ''
 
 DATA PROTECTION
 
-The Data Protection (Conditions under Paragraph 3 of Part II of Schedule 1) Order 2000 (revoked)[^key-23c98ba4099a2e2012d142772eddcb93]
+The Data Protection (Conditions under Paragraph 3 of Part II of Schedule 1) Order 2000 (revoked)[^c-23c98ba4099a2e2012d142772eddcb93]
 
 Made
 
@@ -45,36 +45,36 @@ Coming into force
 
 1st March 2000
 
-[^key-23c98ba4099a2e2012d142772eddcb93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23c98ba4099a2e2012d142772eddcb93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-23c98ba4099a2e2012d142772eddcb93]
+## 1. Citation and commencement[^c-23c98ba4099a2e2012d142772eddcb93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-23c98ba4099a2e2012d142772eddcb93]
+## 2. Interpretation[^c-23c98ba4099a2e2012d142772eddcb93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. General provisions[^key-23c98ba4099a2e2012d142772eddcb93]
+## 3. General provisions[^c-23c98ba4099a2e2012d142772eddcb93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Notices in writing[^key-23c98ba4099a2e2012d142772eddcb93]
+## 4. Notices in writing[^c-23c98ba4099a2e2012d142772eddcb93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Further condition in cases of disproportionate effort[^key-23c98ba4099a2e2012d142772eddcb93]
+## 5. Further condition in cases of disproportionate effort[^c-23c98ba4099a2e2012d142772eddcb93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23c98ba4099a2e2012d142772eddcb93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23c98ba4099a2e2012d142772eddcb93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-23c98ba4099a2e2012d142772eddcb93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23c98ba4099a2e2012d142772eddcb93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23c98ba4099a2e2012d142772eddcb93]: Textual amendment: Order revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 240](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/240) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210) and saving in [Sch. 20 para. 58](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-23c98ba4099a2e2012d142772eddcb93]: Textual amendment: Order revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 240](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/240) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210) and saving in [Sch. 20 para. 58](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

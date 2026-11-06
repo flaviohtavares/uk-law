@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Application under section 176A(5) of the 1986 Act to disappply section 176A of the 1986 Act[^key-7d9a5cbb76512885d9d43b29e03d120b]
+## 95. Application under section 176A(5) of the 1986 Act to disappply section 176A of the 1986 Act[^c-7d9a5cbb76512885d9d43b29e03d120b]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d9a5cbb76512885d9d43b29e03d120b]: Commencement: Rule 95 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-7d9a5cbb76512885d9d43b29e03d120b]: Commencement: Rule 95 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00017]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 176A inserted by the Enterprise Act [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), section 252.

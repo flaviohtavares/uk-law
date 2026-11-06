@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 478. Interpretation of the Trust Deed and Superannuation Scheme[^key-41e57240e4355cfb8c4219ba44b636c7]
+## 478. Interpretation of the Trust Deed and Superannuation Scheme[^c-41e57240e4355cfb8c4219ba44b636c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41e57240e4355cfb8c4219ba44b636c7]: Commencement: Art. 478 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-41e57240e4355cfb8c4219ba44b636c7]: Commencement: Art. 478 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37.[^key-e6bd394454ef6f19234df34432c4ebc0]
+## 37.[^c-e6bd394454ef6f19234df34432c4ebc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In points 14.1 and 15.1 for “Each Member State” substitute “ The appropria
 
 ## Annotations
 
-[^key-e6bd394454ef6f19234df34432c4ebc0]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-e6bd394454ef6f19234df34432c4ebc0]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

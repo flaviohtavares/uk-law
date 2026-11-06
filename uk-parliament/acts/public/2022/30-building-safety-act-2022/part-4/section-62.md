@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Meaning of “building safety risk”[^key-52a59c54adea9d25483d0c4734b5eebc]
+## 62. Meaning of “building safety risk”[^c-52a59c54adea9d25483d0c4734b5eebc]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52a59c54adea9d25483d0c4734b5eebc]: Commencement: S. 62 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)
+[^c-52a59c54adea9d25483d0c4734b5eebc]: Commencement: S. 62 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)

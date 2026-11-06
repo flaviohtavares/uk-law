@@ -52,7 +52,7 @@ Provided that no person shall be authorised or required by this subsection to pa
 
 Provided that nothing in this subsection shall affect any limitation contained in the grant, or any power of the court to revoke the grant.
 
-(4) Notwithstanding anything in subsection (2) of section 114 of the[^c597942] Senior Courts Act 1981[^key-9747c6ca0f35786469e15ab0e4a41fb5](which provides that in the case of a minority or a life interest administration must in general[^c597943] be granted either to a trust corporation or to not less than two individuals), administration of an estate may in any case be granted by virtue of this section to a consular officer alone; and subsection (4) of that section(which provides for the appointment of additional personal representatives in the case of a minority or a life interest) shall not apply in any case where the existing personal representative is a consular officer appointed by virtue of this section.
+(4) Notwithstanding anything in subsection (2) of section 114 of the[^c597942] Senior Courts Act 1981[^c-9747c6ca0f35786469e15ab0e4a41fb5](which provides that in the case of a minority or a life interest administration must in general[^c597943] be granted either to a trust corporation or to not less than two individuals), administration of an estate may in any case be granted by virtue of this section to a consular officer alone; and subsection (4) of that section(which provides for the appointment of additional personal representatives in the case of a minority or a life interest) shall not apply in any case where the existing personal representative is a consular officer appointed by virtue of this section.
 
 (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c597945]
 
@@ -123,7 +123,7 @@ This Act may be cited as the Consular Conventions Act, 1949.
 
 [^c597942]: Textual amendment: Words substituted by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(1)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1981/54/schedule/5)
 
-[^key-9747c6ca0f35786469e15ab0e4a41fb5]: Textual amendment: Words in s. 1 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-9747c6ca0f35786469e15ab0e4a41fb5]: Textual amendment: Words in s. 1 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c597943]: Textual amendment: Words inserted by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(1)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1981/54/schedule/5)
 

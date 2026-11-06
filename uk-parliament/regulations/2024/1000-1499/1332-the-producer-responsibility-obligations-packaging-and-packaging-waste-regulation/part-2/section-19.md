@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Distributors[^key-c5fa7b56cb15583bfd7fc40297561453]
+## 19. Distributors[^c-c5fa7b56cb15583bfd7fc40297561453]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5fa7b56cb15583bfd7fc40297561453]: Commencement: Reg. 19 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-c5fa7b56cb15583bfd7fc40297561453]: Commencement: Reg. 19 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

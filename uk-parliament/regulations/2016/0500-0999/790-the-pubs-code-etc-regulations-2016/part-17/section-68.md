@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Review of Parts 11 to 16[^key-78b9efdb51c3eae120e0bca92daf7521]
+## 68. Review of Parts 11 to 16[^c-78b9efdb51c3eae120e0bca92daf7521]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78b9efdb51c3eae120e0bca92daf7521]: Commencement: Reg. 68 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-78b9efdb51c3eae120e0bca92daf7521]: Commencement: Reg. 68 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
 [^f00029]: Footnote: Parts 2 to 10 of these Regulations are made under sections 42 to 44 of SBEEA 2015 and are, accordingly, “**the Pubs Code**” for the purposes of SBEEA 2015 (see section 42(2)). Section 46 of SBEEA 2015 requires the Secretary of State to review the Pubs Code.

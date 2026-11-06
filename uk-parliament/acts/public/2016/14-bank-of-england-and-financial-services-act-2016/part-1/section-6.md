@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Financial Policy Committee: status and membership[^key-e0bf9135a0f2879696c72f05d9ce09b5]
+## 6. Financial Policy Committee: status and membership[^c-e0bf9135a0f2879696c72f05d9ce09b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0bf9135a0f2879696c72f05d9ce09b5]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/14/section/6) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/g)
+[^c-e0bf9135a0f2879696c72f05d9ce09b5]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/14/section/6) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/g)

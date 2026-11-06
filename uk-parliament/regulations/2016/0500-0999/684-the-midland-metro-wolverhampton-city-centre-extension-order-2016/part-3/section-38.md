@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Extinction or suspension of private rights of way[^key-0407c01d6151e4d03be8ef18d7944770]
+## 38. Extinction or suspension of private rights of way[^c-0407c01d6151e4d03be8ef18d7944770]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ whichever is sooner.
 
 ## Annotations
 
-[^key-0407c01d6151e4d03be8ef18d7944770]: Commencement: Art. 38 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-0407c01d6151e4d03be8ef18d7944770]: Commencement: Art. 38 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
 
 [^f00042]: Footnote: Section 11 was amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of, and part 1 of Schedule 1 to, the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure 2006 ([2006 No 1](https://www.legislation.gov.uk/ukcm/2006/1)) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

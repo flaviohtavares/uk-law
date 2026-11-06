@@ -44,11 +44,11 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 A draft of this instrument has been laid before Parliament in accordance with section 116(1) of the Financial Services Act 2012 and section 39(6) of the Bank of England and Financial Services Act 2016 and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-bb8a5b7f451b52116770689bdced493b]
+## 1. Citation and commencement[^c-bb8a5b7f451b52116770689bdced493b]
 
 These Regulations may be cited as the Bank of England and Financial Services (Consequential Amendments) Regulations 2017 and come into force on 1st March 2017.
 
-## 2. Consequential amendments[^key-f360fd605e5cc8934a01af2e81eee820]
+## 2. Consequential amendments[^c-f360fd605e5cc8934a01af2e81eee820]
 
 The Schedule has effect.
 
@@ -66,7 +66,7 @@ Regulation 2
 
 ### PART 1 — Amendments to primary legislation
 
-#### 1. Companies Act 1985[^key-3d2fdb4824b03768fe08785370e891cf]
+#### 1. Companies Act 1985[^c-3d2fdb4824b03768fe08785370e891cf]
 
 In the Companies Act 1985[^f00003], before section 746 insert—
 
@@ -76,7 +76,7 @@ In the Companies Act 1985[^f00003], before section 746 insert—
 
 .
 
-#### 2. Building Societies Act 1986[^key-99a5c903db73f7c346c86a9f8023a3b9]
+#### 2. Building Societies Act 1986[^c-99a5c903db73f7c346c86a9f8023a3b9]
 
 In section 119 of the Building Societies Act 1986[^f00004] (interpretation), after subsection (1) insert—
 
@@ -84,7 +84,7 @@ In section 119 of the Building Societies Act 1986[^f00004] (interpretation), aft
 
 .
 
-#### 3. Companies Act 1989[^key-ac1c8076a5133369f7385e9a56c44c5e]
+#### 3. Companies Act 1989[^c-ac1c8076a5133369f7385e9a56c44c5e]
 
 In the Companies Act 1989[^f00005]—
 
@@ -97,7 +97,7 @@ In the Companies Act 1989[^f00005]—
   ; and
 - (b) in section 213 (provisions extending to Northern Ireland), in subsection (8) after “(miscellaneous and general provisions),” insert “section 211A,”.
 
-#### 4. Water Act 1989[^key-9171d12f82d124bdd2de29f091f1e79b]
+#### 4. Water Act 1989[^c-9171d12f82d124bdd2de29f091f1e79b]
 
 In section 174 of the Water Act 1989[^f00006] (general restrictions on disclosure of information), after subsection (8) insert—
 
@@ -105,7 +105,7 @@ In section 174 of the Water Act 1989[^f00006] (general restrictions on disclosur
 
 .
 
-#### 5. Water Industry Act 1991[^key-43fdf69ac7ade84982af7cd56f47623f]
+#### 5. Water Industry Act 1991[^c-43fdf69ac7ade84982af7cd56f47623f]
 
 In section 206 of the Water Industry Act 1991[^f00007] (restriction on disclosure of information), after subsection (10) insert—
 
@@ -113,7 +113,7 @@ In section 206 of the Water Industry Act 1991[^f00007] (restriction on disclosur
 
 .
 
-#### 6. Water Resources Act 1991[^key-a6f3b9a462aeab1e5f7baa086865ac60]
+#### 6. Water Resources Act 1991[^c-a6f3b9a462aeab1e5f7baa086865ac60]
 
 In section 204 of the Water Resources Act 1991[^f00008] (restriction on disclosure of information), after subsection (7) insert—
 
@@ -121,21 +121,21 @@ In section 204 of the Water Resources Act 1991[^f00008] (restriction on disclosu
 
 .
 
-#### 7. Social Security Administration (Northern Ireland) Act 1992[^key-350e28f8d4688836635a60108f02d0c9]
+#### 7. Social Security Administration (Northern Ireland) Act 1992[^c-350e28f8d4688836635a60108f02d0c9]
 
 In the Social Security Administration (Northern Ireland) Act 1992[^f00009]—
 
 - (a) in section 13A (payment out of benefit of sums in respect of mortgage interest, etc.), in subsection (4), in the definitions of “deposit taker” and “insurer”, for “Part 4” substitute “Part 4A”; and
 - (b) in section 103B (power to require information), in subsection (7), in the definitions of “bank” and “insurer”, for “Part IV” substitute “Part 4A”.
 
-#### 8. Pension Schemes Act 1993[^key-1d5f49b7eed410e5b4472083233bd0d7]
+#### 8. Pension Schemes Act 1993[^c-1d5f49b7eed410e5b4472083233bd0d7]
 
 In the Pension Schemes Act 1993[^f00010]—
 
 - (a) in section 149 (procedure on an investigation), in subsection (6)(eb), after the words “Bank of England” insert “(acting otherwise than in its capacity as the Prudential Regulation Authority)”; and
 - (b) in section 158A (other disclosures by the Secretary of State), in the Table in subsection (1), in the entry relating to the Bank of England, in the second column, after the word “functions” insert “, apart from its functions as the Prudential Regulation Authority”.
 
-#### 9. Pension Schemes (Northern Ireland) Act 1993[^key-6731db955b54ee5bfaff2f7a44e934d6]
+#### 9. Pension Schemes (Northern Ireland) Act 1993[^c-6731db955b54ee5bfaff2f7a44e934d6]
 
 In the Pension Schemes (Northern Ireland) Act 1993[^f00011]—
 
@@ -164,18 +164,18 @@ In the Pension Schemes (Northern Ireland) Act 1993[^f00011]—
 
     .
 
-#### 10. Freedom of Information Act 2000[^key-32e9b121d7ae3ab0b748209b155d94e5]
+#### 10. Freedom of Information Act 2000[^c-32e9b121d7ae3ab0b748209b155d94e5]
 
 In Part 6 of Schedule 1 to the Freedom of Information Act 2000[^f00013] (other public bodies and offices: general)—
 
 - (a) omit the entry for the Prudential Regulation Authority, and
 - (b) in the entry for the Bank of England, after the words “Bank of England” insert “(including the Bank in its capacity as the Prudential Regulation Authority)”.
 
-#### 11. Terrorism Act 2000[^key-f30e2ae2fb49d1a8fea296e198436c62]
+#### 11. Terrorism Act 2000[^c-f30e2ae2fb49d1a8fea296e198436c62]
 
 In Part 1 of Schedule 3A to the Terrorism Act 2000[^f00014] (regulated sector), in paragraph 2(4)(c) after the words “Bank of England” insert “(acting otherwise than in its capacity as the Prudential Regulation Authority)”.
 
-#### 12. Utilities Act 2000[^key-2c2037fbe7ac014cd1e85c3c0c202c73]
+#### 12. Utilities Act 2000[^c-2c2037fbe7ac014cd1e85c3c0c202c73]
 
 In section 105 of the Utilities Act 2000[^f00015] (general restrictions on disclosure of information), in subsection (10), for the full stop at the end of the definition of “REMIT requirement” substitute a semicolon and after that definition insert —
 
@@ -183,11 +183,11 @@ In section 105 of the Utilities Act 2000[^f00015] (general restrictions on discl
 
 .
 
-#### 13. Proceeds of Crime Act 2002[^key-122ba2a22b7fc9cecf7fa39e7e308100]
+#### 13. Proceeds of Crime Act 2002[^c-122ba2a22b7fc9cecf7fa39e7e308100]
 
 In Part 1 of Schedule 9 to the Proceeds of Crime Act 2002[^f00016] (regulated sector), in paragraph 2(4)(c), after the words “Bank of England” insert “(acting otherwise than in its capacity as the Prudential Regulation Authority)”.
 
-#### 14. Companies (Audit, Investigations and Community Enterprise) Act 2004[^key-0d3d9d1798710efb864031e667b7d17b]
+#### 14. Companies (Audit, Investigations and Community Enterprise) Act 2004[^c-0d3d9d1798710efb864031e667b7d17b]
 
 In section 15D of the Companies (Audit, Investigations and Community Enterprise) Act 2004[^f00017] (permitted disclosure of information obtained under compulsory powers)—
 
@@ -196,28 +196,28 @@ In section 15D of the Companies (Audit, Investigations and Community Enterprise)
 - (c) in subsection (4)(e), after the words “Bank of England” insert “(acting otherwise than in its capacity as the Prudential Regulation Authority)”; and
 - (d) in subsection (4)(g), for the words “Financial Services Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”.
 
-#### 15. Pensions Act 2004[^key-54631dc4c9fb426c2ec759d20861e0f6]
+#### 15. Pensions Act 2004[^c-54631dc4c9fb426c2ec759d20861e0f6]
 
 In the Pensions Act 2004[^f00018]—
 
 - (a) in Schedule 3 (restricted information held by the Regulator: certain permitted disclosures to facilitate exercise of functions), in the Table, in the entry relating to the Bank of England, in the second column, after the word “functions” insert “, apart from its functions as the Prudential Regulation Authority”; and
 - (b) in Schedule 8 (restricted information held by the Board: certain permitted disclosures to facilitate exercise of functions), in the Table, in the entry relating to the Bank of England, in the second column, after the word “functions” insert “, apart from its functions as the Prudential Regulation Authority”.
 
-#### 16. Pensions (Northern Ireland) Order 2005[^key-823934cbe49a972f7d641c573399557b]
+#### 16. Pensions (Northern Ireland) Order 2005[^c-823934cbe49a972f7d641c573399557b]
 
 In the Pensions (Northern Ireland) Order 2005[^f00019]—
 
 - (a) in Schedule 3 (restricted information held by the Regulator: certain permitted disclosures to facilitate exercise of functions), in the Table, in the entry relating to the Bank of England, in the second column, after the word “functions” insert “, apart from its functions as the Prudential Regulation Authority”; and
 - (b) in Schedule 7 (restricted information held by the Board: certain permitted disclosures to facilitate exercise of functions), in the Table, in the entry relating to the Bank of England, in the second column, after the word “functions” insert “, apart from its functions as the Prudential Regulation Authority”.
 
-#### 17. Serious Organised Crime and Police Act 2005[^key-a7915327c03487bd33b07a770b38a4c0]
+#### 17. Serious Organised Crime and Police Act 2005[^c-a7915327c03487bd33b07a770b38a4c0]
 
 In section 71 of the Serious Organised Crime and Police Act 2005[^f00020] (assistance by offender: immunity from prosecution), in subsection (6B)—
 
 - (a) omit the words “and paragraph 16(1) of Schedule 1ZB”, and
 - (b) after “(arrangements for discharging functions)” insert “and paragraph 17(1) of Schedule 6A to the Bank of England Act 1998[^f00021] (delegation of functions)”.
 
-#### 18. Companies Act 2006[^key-dbd33899391d002c3cc639daf08b4bd7]
+#### 18. Companies Act 2006[^c-dbd33899391d002c3cc639daf08b4bd7]
 
 In the Companies Act 2006[^f00022], after section 1292 insert—
 
@@ -227,20 +227,20 @@ In the Companies Act 2006[^f00022], after section 1292 insert—
 >
 > In this Act, except in section 796, references to the Bank of England do not include the Bank acting in its capacity as the Prudential Regulation Authority.
 
-#### 19. Equality Act 2010[^key-e1b0fac57a67e2ec52cafa409cc2498e]
+#### 19. Equality Act 2010[^c-e1b0fac57a67e2ec52cafa409cc2498e]
 
 In Part 1 of Schedule 19 to the Equality Act 2010[^f00023] (public authorities: general), under the heading “Industry, business and finance etc”—
 
 - (a) in the entry for the Bank of England, after the words “Bank of England” insert “(including the Bank in its capacity as the Prudential Regulation Authority)”, and
 - (b) omit the entry for the Prudential Regulation Authority.
 
-#### 20. Charities Act 2011[^key-55b30b84deb37db771db430036392897]
+#### 20. Charities Act 2011[^c-55b30b84deb37db771db430036392897]
 
 In section 109 of the Charities Act 2011[^f00024] (dormant bank accounts: supplementary), in subsection (3)(a), after the words “Bank of England” insert “(acting otherwise than in its capacity as the Prudential Regulation Authority)”.
 
 ### PART 2 — Amendments to subordinate legislation
 
-#### 21. Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^key-93d1afcf2a72543f272ef68645d36102]
+#### 21. Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^c-93d1afcf2a72543f272ef68645d36102]
 
 In article 2 of the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^f00025], before paragraph (2A) insert—
 
@@ -248,11 +248,11 @@ In article 2 of the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975
 
 .
 
-#### 22. Race Relations (Prescribed Public Bodies) (No. 2) Regulations 1994[^key-6caf0daa656219f6d91529b8bdc9c172]
+#### 22. Race Relations (Prescribed Public Bodies) (No. 2) Regulations 1994[^c-6caf0daa656219f6d91529b8bdc9c172]
 
 In Schedule 2 to the Race Relations (Prescribed Public Bodies) (No. 2) Regulations 1994[^f00026] (prescribed public bodies), in the entry for the Bank of England, after the words “Bank of England” insert “(including the Bank in its capacity as the Prudential Regulation Authority)”.
 
-#### 23. Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^key-e0eebb7dd92734fc979ce149c85a84a1]
+#### 23. Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^c-e0eebb7dd92734fc979ce149c85a84a1]
 
 In regulation 2 of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^f00027] (interpretation), in paragraph (2) before sub-paragraph (a) insert—
 
@@ -260,7 +260,7 @@ In regulation 2 of the Financial Markets and Insolvency (Settlement Finality) Re
 
 .
 
-#### 24. Land Registration Rules 2003[^key-5af3d3c1e38c3cb646c3383a54cc855c]
+#### 24. Land Registration Rules 2003[^c-5af3d3c1e38c3cb646c3383a54cc855c]
 
 (1) In the Land Registration Rules 2003[^f00028]—
 
@@ -269,19 +269,19 @@ In regulation 2 of the Financial Markets and Insolvency (Settlement Finality) Re
 
 (2) Forms of the kind mentioned in paragraph (1)(a) may be used after the coming into force of these Regulations even though they do not contain the wording inserted by paragraph (1)(a) and references to the Bank of England in those forms are to be read as references to the Bank acting otherwise than in its capacity as the Prudential Regulation Authority.
 
-#### 25. Proceeds of Crime Act 2002 (Disclosure of Information to and by Lord Advocate and Scottish Ministers) Order 2003[^key-1543a225c65b1dc41fdf21a11a31f8a1]
+#### 25. Proceeds of Crime Act 2002 (Disclosure of Information to and by Lord Advocate and Scottish Ministers) Order 2003[^c-1543a225c65b1dc41fdf21a11a31f8a1]
 
 In article 3 of the Proceeds of Crime Act 2002 (Disclosure of Information to and by the Lord Advocate and Scottish Ministers) Order 2003[^f00029] (disclosure of information by Lord Advocate and by Scottish Ministers), in paragraph (b), after the words “Bank of England” insert “(acting otherwise than in its capacity as the Prudential Regulation Authority)”.
 
-#### 26. Credit Institutions (Reorganisation and Winding up) Regulations 2004[^key-0be16163a96475a70527a02f1da0fbeb]
+#### 26. Credit Institutions (Reorganisation and Winding up) Regulations 2004[^c-0be16163a96475a70527a02f1da0fbeb]
 
 In regulation 10 of the Credit Institutions (Reorganisation and Winding up) Regulations 2004[^f00030] (notification to EEA regulators), in paragraph (3), after “Bank of England” insert “(acting otherwise than in its capacity as the Prudential Regulation Authority)”.
 
-#### 27. Financial Assistance Scheme (Appeals) Regulations 2005[^key-cf403d8fbe481a2624b935519e07e5a4]
+#### 27. Financial Assistance Scheme (Appeals) Regulations 2005[^c-cf403d8fbe481a2624b935519e07e5a4]
 
 In regulation 28 of the Financial Assistance Scheme (Appeals) Regulations 2005[^f00031] (restriction on use of documents and information provided for investigations), in paragraph (3)(fb), after the words “Bank of England” insert “(acting otherwise than in its capacity as the Prudential Regulation Authority)”.
 
-#### 28. Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^key-9af25fd3f9256a06449509e650e7daf2]
+#### 28. Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^c-9af25fd3f9256a06449509e650e7daf2]
 
 In section 461 of the Companies Act 2006[^f00032], as modified and applied to LLPs by regulation 24 of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^f00033], further modify subsection (4)(e) to read as follows—
 
@@ -289,11 +289,11 @@ In section 461 of the Companies Act 2006[^f00032], as modified and applied to LL
 
 .
 
-#### 29. Proceeds of Crime Act 2002 (Disclosure of Information) Order 2008[^key-ba5b3619b049fef8c2771685fc1f6f61]
+#### 29. Proceeds of Crime Act 2002 (Disclosure of Information) Order 2008[^c-ba5b3619b049fef8c2771685fc1f6f61]
 
 In article 3 of the Proceeds of Crime Act 2002 (Disclosure of Information) Order 2008[^f00034] (disclosure of information by certain Directors), in paragraph (b), after the words “Bank of England” insert “(acting otherwise than in its capacity as the Prudential Regulation Authority)”.
 
-#### 30. Bank Administration (England and Wales) Rules 2009[^key-3f3b0641c826650aacd9e8c4a41f56ed]
+#### 30. Bank Administration (England and Wales) Rules 2009[^c-3f3b0641c826650aacd9e8c4a41f56ed]
 
 In rule 4 of the Bank Administration (England and Wales) Rules 2009[^f00035], after paragraph (1)(d) insert—
 
@@ -301,7 +301,7 @@ In rule 4 of the Bank Administration (England and Wales) Rules 2009[^f00035], af
 
 .
 
-#### 31. Bank Administration Rules (Northern Ireland) 2009[^key-584f061acef15fc08fdd5cbbc1f36b1f]
+#### 31. Bank Administration Rules (Northern Ireland) 2009[^c-584f061acef15fc08fdd5cbbc1f36b1f]
 
 In rule 4 of the Bank Administration Rules (Northern Ireland) 2009[^f00036], in the appropriate place insert—
 
@@ -309,7 +309,7 @@ In rule 4 of the Bank Administration Rules (Northern Ireland) 2009[^f00036], in 
 
 .
 
-#### 32. Bank Administration (Scotland) Rules 2009[^key-7bca3e91bd88e55acb6daf933e7055b3]
+#### 32. Bank Administration (Scotland) Rules 2009[^c-7bca3e91bd88e55acb6daf933e7055b3]
 
 In rule 4 of the Bank Administration (Scotland) Rules 2009[^f00037], after paragraph (1)(d) insert—
 
@@ -317,7 +317,7 @@ In rule 4 of the Bank Administration (Scotland) Rules 2009[^f00037], after parag
 
 .
 
-#### 33. Building Society Special Administration (Scotland) Rules 2009[^key-7565be6eff38dede43ce6b349e0daefc]
+#### 33. Building Society Special Administration (Scotland) Rules 2009[^c-7565be6eff38dede43ce6b349e0daefc]
 
 In rule 4 of the Building Society Special Administration (Scotland) Rules 2009[^f00038], in paragraph (1)(l), before paragraph (i) insert—
 
@@ -325,21 +325,21 @@ In rule 4 of the Building Society Special Administration (Scotland) Rules 2009[^
 
 .
 
-#### 34. Companies (Disclosure of Address) Regulations 2009[^key-394da762d957d503e8167bff2e7dd18b]
+#### 34. Companies (Disclosure of Address) Regulations 2009[^c-394da762d957d503e8167bff2e7dd18b]
 
 In Schedule 1 to the Companies (Disclosure of Address) Regulations 2009[^f00039] (specified public authorities)—
 
 - (a) in the entry for the Bank of England, after the words “Bank of England” insert “(including the Bank in its capacity as the Prudential Regulation Authority)”, and
 - (b) omit the entry for the Prudential Regulation Authority.
 
-#### 35. Overseas Companies Regulations 2009[^key-86c4d414df512a48d35e5326c5eea19d]
+#### 35. Overseas Companies Regulations 2009[^c-86c4d414df512a48d35e5326c5eea19d]
 
 In Schedule 1 to the Overseas Companies Regulations 2009[^f00040] (specified public authorities)—
 
 - (a) in the entry for the Bank of England, after the words “Bank of England” insert “(including the Bank in its capacity as the Prudential Regulation Authority)”, and
 - (b) omit the entry for the Prudential Regulation Authority.
 
-#### 36. Building Society Special Administration (England and Wales) Rules 2010[^key-4e3eafe0bdb8c424acaabe8ff737c1a8]
+#### 36. Building Society Special Administration (England and Wales) Rules 2010[^c-4e3eafe0bdb8c424acaabe8ff737c1a8]
 
 In rule 4 of the Building Society Special Administration (England and Wales) Rules 2010[^f00041] (interpretation), before paragraph (1)(h)(i) insert—
 
@@ -347,18 +347,18 @@ In rule 4 of the Building Society Special Administration (England and Wales) Rul
 
 .
 
-#### 37. Equality Act 2010 (Specific Duties) Regulations 2011[^key-c64fd3c33411da087d72f3f5ef54d637]
+#### 37. Equality Act 2010 (Specific Duties) Regulations 2011[^c-c64fd3c33411da087d72f3f5ef54d637]
 
 In Schedule 1 to the Equality Act 2010 (Specific Duties) Regulations 2011[^f00042] (public authorities required to publish information by 31st January 2012), under the heading “Industry, business, finance etc”—
 
 - (a) in the entry for the Bank of England, after the words “Bank of England” insert “(including the Bank in its capacity as the Prudential Regulation Authority)”, and
 - (b) omit the entry for the Prudential Regulation Authority.
 
-#### 38. Postal Services Act 2011 (Disclosure of Information) Order 2012[^key-ba86d5ffeef770d6d6b8ef62f24fcaa9]
+#### 38. Postal Services Act 2011 (Disclosure of Information) Order 2012[^c-ba86d5ffeef770d6d6b8ef62f24fcaa9]
 
 In article 3 of the Postal Services Act 2011 (Disclosure of Information) Order 2012[^f00043] (prescription of bodies and persons), in the entry for the Bank of England, after the words “Bank of England” insert “acting otherwise than in its capacity as the Prudential Regulation Authority”.
 
-#### 39. Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^key-9ef3ff4452157dc7e9098aa56a5f1db2]
+#### 39. Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^c-9ef3ff4452157dc7e9098aa56a5f1db2]
 
 In article 2 of the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^f00044] (interpretation), after paragraph (1) insert—
 
@@ -366,11 +366,11 @@ In article 2 of the Rehabilitation of Offenders Act 1974 (Exclusions and Excepti
 
 .
 
-#### 40. Bank Recovery and Resolution (No. 2) Order 2014[^key-aae678f40c5863170b6a5c9d15a417fe]
+#### 40. Bank Recovery and Resolution (No. 2) Order 2014[^c-aae678f40c5863170b6a5c9d15a417fe]
 
 In article 2 of the Bank Recovery and Resolution (No. 2) Order 2014[^f00045] (interpretation), in paragraph (1), in the definition of “the Bank”, after the words “Bank of England” insert “acting otherwise than in its capacity as the Prudential Regulation Authority”.
 
-#### 41. Building Society Special Administration Rules (Northern Ireland) 2014[^key-92b911c59f779ad7b334056c18369219]
+#### 41. Building Society Special Administration Rules (Northern Ireland) 2014[^c-92b911c59f779ad7b334056c18369219]
 
 In rule 4 of the Building Society Special Administration Rules (Northern Ireland) 2014[^f00046], before paragraph 2(a)(i) insert—
 
@@ -378,26 +378,26 @@ In rule 4 of the Building Society Special Administration Rules (Northern Ireland
 
 .
 
-#### 42. Financial Services (Banking Reform) Act 2013 (Disclosure of Confidential Information) Regulations 2014[^key-6eb4a407a68b2ace9908b4fd4eeed604]
+#### 42. Financial Services (Banking Reform) Act 2013 (Disclosure of Confidential Information) Regulations 2014[^c-6eb4a407a68b2ace9908b4fd4eeed604]
 
 In the Schedule to the Financial Services (Banking Reform) Act 2013 (Disclosure of Confidential Information) Regulations 2014[^f00047] (persons and functions in respect of which disclosure is permitted), in the Table, in the entry relating to the Bank of England, in the second column, after the words “Its public functions” insert “, apart from its functions as the Prudential Regulation Authority”.
 
-#### 43. Companies (Disclosure of Date of Birth Information) Regulations 2015[^key-8431ba32c6f1e519df5be6dc9cd932e2]
+#### 43. Companies (Disclosure of Date of Birth Information) Regulations 2015[^c-8431ba32c6f1e519df5be6dc9cd932e2]
 
 In Schedule 1 to the Companies (Disclosure of Date of Birth Information) Regulations 2015[^f00048] (specified public authorities)—
 
 - (a) in the entry for the Bank of England, after the words “Bank of England” insert “(including the Bank in its capacity as the Prudential Regulation Authority)”, and
 - (b) omit the entry for the Prudential Regulation Authority.
 
-#### 44. Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015[^key-f44c5a66e28f588ca876eeba16da0592]
+#### 44. Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015[^c-f44c5a66e28f588ca876eeba16da0592]
 
 In Schedule 4 to the Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015[^f00049] (specified “public authorities” and list of government departments and other bodies whose views must be sought), in the Table, in the entry relating to the Prudential Regulation Authority, for the words in column (2) substitute “the Governor and Company of the Bank of England”.
 
-#### 45. Small and Medium Sized Business (Credit Information) Regulations 2015[^key-8671f8e795e421957c099582a36641e6]
+#### 45. Small and Medium Sized Business (Credit Information) Regulations 2015[^c-8671f8e795e421957c099582a36641e6]
 
 In regulation 7 of the Small and Medium Sized Business (Credit Information) Regulations 2015[^f00050] (designated credit reference agencies to provide information to the Bank of England), omit paragraphs (3)(a), (4) and (5) and in paragraph (3)(b) omit the word “other”.
 
-#### 46. Register of People with Significant Control Regulations 2016[^key-d505e95dd2fcff30ef456a48ca7f60ee]
+#### 46. Register of People with Significant Control Regulations 2016[^c-d505e95dd2fcff30ef456a48ca7f60ee]
 
 In Schedule 3 to the Register of People with Significant Control Regulations 2016[^f00051] (specified public authorities)—
 
@@ -428,196 +428,196 @@ The Explanatory Memorandum is published alongside the instrument on www.legislat
 
 [^f00002]: Footnote: [2016 c.14](https://www.legislation.gov.uk/ukpga/2016/14).
 
-[^key-bb8a5b7f451b52116770689bdced493b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-bb8a5b7f451b52116770689bdced493b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
-[^key-f360fd605e5cc8934a01af2e81eee820]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/80/regulation/2) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-f360fd605e5cc8934a01af2e81eee820]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/80/regulation/2) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
-[^key-3d2fdb4824b03768fe08785370e891cf]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/1) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-3d2fdb4824b03768fe08785370e891cf]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/1) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00003]: Footnote: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6); section 449 was substituted by the Companies (Audit, Investigations and Community Enterprise) Act [2004 (c.27)](https://www.legislation.gov.uk/ukpga/2004/27), Schedule 2, Part 3, paragraph 18; section 745 was repealed by the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46), Schedule 16.
 
-[^key-99a5c903db73f7c346c86a9f8023a3b9]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/2) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-99a5c903db73f7c346c86a9f8023a3b9]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/2) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00004]: Footnote: [1986 c.53](https://www.legislation.gov.uk/ukpga/1986/53); sections 89A and 90D were inserted by [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805) and subsequently amended by [S.I. 2013/496](https://www.legislation.gov.uk/uksi/2013/496), section 90D was further amended by [S.I. 2014/3344](https://www.legislation.gov.uk/uksi/2014/3344); section 119 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) and [2013/496](https://www.legislation.gov.uk/uksi/2013/496).
 
-[^key-ac1c8076a5133369f7385e9a56c44c5e]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/3) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-ac1c8076a5133369f7385e9a56c44c5e]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/3) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00005]: Footnote: [1989 c.40](https://www.legislation.gov.uk/ukpga/1989/40).
 
-[^key-9171d12f82d124bdd2de29f091f1e79b]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/4) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-9171d12f82d124bdd2de29f091f1e79b]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/4) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00006]: Footnote: [1989 c.15](https://www.legislation.gov.uk/ukpga/1989/15); paragraph (e) of section 174(2) was substituted by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and subsequently amended by the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), Schedule 18, Part 2, paragraph 61 and [S.I. 2013/1882](https://www.legislation.gov.uk/uksi/2013/1882).
 
-[^key-43fdf69ac7ade84982af7cd56f47623f]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/5) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-43fdf69ac7ade84982af7cd56f47623f]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/5) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00007]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56); paragraph (e) of section 206(3) was substituted by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and subsequently amended by the Financial Services Act 2012, Schedule 18, Part 2, paragraph 72.
 
-[^key-a6f3b9a462aeab1e5f7baa086865ac60]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/6) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-a6f3b9a462aeab1e5f7baa086865ac60]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/6) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00008]: Footnote: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57); paragraph (e) of section 204(2) was substituted by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and subsequently amended by the Financial Services Act 2012, Schedule 18, Part 2, paragraph 73.
 
-[^key-350e28f8d4688836635a60108f02d0c9]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/7) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-350e28f8d4688836635a60108f02d0c9]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/7) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00009]: Footnote: [1992 c.8](https://www.legislation.gov.uk/ukpga/1992/8); section 13A was inserted by the Social Security (Mortgage Interest Payments) (Northern Ireland) Order 1992 ([S.I. 1992/1309 (N.I. 9)](https://www.legislation.gov.uk/nisi/1992/1309)), Schedule, paragraph 1 and the definitions of “deposit taker” and “insurer” in subsection (4) were inserted by [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555); section 103B was inserted by the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c.4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)), Schedule 6, paragraph 2; subsections (6) and (7) were inserted by the Social Security Fraud Act (Northern Ireland) [2001 (c.17 (N.I.)](https://www.legislation.gov.uk/nia/2001/17)), section 1(4) and the definitions of “bank” and “insurer” in subsection (7) were substituted and inserted, respectively, by [S.R. (N.I.) 2002 No. 408](https://www.legislation.gov.uk/nisr/2002/408).
 
-[^key-1d5f49b7eed410e5b4472083233bd0d7]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/8) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-1d5f49b7eed410e5b4472083233bd0d7]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/8) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00010]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48); subsections (5) and (6) of section 149 were inserted by the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26), section 159(1) and subsection (6) was subsequently amended by the Financial Services Act 2012, Schedule 18, Part 2, paragraph 78(2). Section 158A was inserted by the Pensions Act 1995, Schedule 6, paragraph 9 and subsequently amended by the Bank of England Act [1998 (c.11)](https://www.legislation.gov.uk/ukpga/1998/11), Schedule 5, paragraph 69(3) and the Financial Services Act 2012, Schedule 18, Part 2, paragraph 78(3).
 
-[^key-6731db955b54ee5bfaff2f7a44e934d6]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/9) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-6731db955b54ee5bfaff2f7a44e934d6]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/9) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00011]: Footnote: [1993 c.49](https://www.legislation.gov.uk/ukpga/1993/49); subsections (5) and (6) of section 145 were inserted by the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)), Article 155(1) and paragraph (e) of subsection (6) was subsequently amended by the Bank of England Act 1998, Schedule 5, paragraph 70(2); section 154A was inserted by the Pensions (Northern Ireland) Order 1995, Schedule 4, paragraph 9 and, in that section, the entries relating to the Bank of England and the Financial Services Authority were amended and inserted, respectively, by the Bank of England Act 1998, Schedule 5, paragraph 70(3) and the entry relating to the Financial Services Authority was subsequently amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649); section 175A was inserted by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649); section 180 was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
 [^f00012]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-32e9b121d7ae3ab0b748209b155d94e5]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/10) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-32e9b121d7ae3ab0b748209b155d94e5]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/10) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00013]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36); in Part 6 of Schedule 1, the entry for the Prudential Regulation Authority was inserted by the Financial Services Act 2012, Schedule 18, Part 2, paragraph 91(b).
 
-[^key-f30e2ae2fb49d1a8fea296e198436c62]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/11) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-f30e2ae2fb49d1a8fea296e198436c62]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/11) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00014]: Footnote: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11); Schedule 3A was inserted by the Anti-terrorism, Crime and Security Act [2001 (c.24)](https://www.legislation.gov.uk/ukpga/2001/24), Schedule 2, Part 3, paragraph 5(6) and Part 1 of Schedule 3A was substituted by [S.I. 2007/3288](https://www.legislation.gov.uk/uksi/2007/3288).
 
-[^key-2c2037fbe7ac014cd1e85c3c0c202c73]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/12) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-2c2037fbe7ac014cd1e85c3c0c202c73]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/12) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00015]: Footnote: [2000 c.27](https://www.legislation.gov.uk/ukpga/2000/27); paragraph (da) of section 105(4) was inserted by [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555) and subsequently amended by the Financial Services Act 2012, Schedule 18, Part 2, paragraph 89 and [S.I. 2013/1882](https://www.legislation.gov.uk/uksi/2013/1882).
 
-[^key-122ba2a22b7fc9cecf7fa39e7e308100]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/13) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-122ba2a22b7fc9cecf7fa39e7e308100]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/13) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00016]: Footnote: [2002 c.29](https://www.legislation.gov.uk/ukpga/2002/29); Part 1 of Schedule 9 was substituted by [S.I. 2007/3287](https://www.legislation.gov.uk/uksi/2007/3287).
 
-[^key-0d3d9d1798710efb864031e667b7d17b]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/14) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-0d3d9d1798710efb864031e667b7d17b]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/14) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00017]: Footnote: [2004 c.27](https://www.legislation.gov.uk/ukpga/2004/27); section 15D was inserted by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948).
 
-[^key-54631dc4c9fb426c2ec759d20861e0f6]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/15) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-54631dc4c9fb426c2ec759d20861e0f6]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/15) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00018]: Footnote: [2004 c.35](https://www.legislation.gov.uk/ukpga/2004/35); Schedules 3 and 8 were amended by the Financial Services Act 2012, Schedule 18, Part 2, paragraphs 104(3)(a) and (4)(a) respectively.
 
-[^key-823934cbe49a972f7d641c573399557b]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/16) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-823934cbe49a972f7d641c573399557b]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/16) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00019]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255), amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472); there are other amending instruments but none is relevant.
 
-[^key-a7915327c03487bd33b07a770b38a4c0]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/17) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-a7915327c03487bd33b07a770b38a4c0]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/17) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00020]: Footnote: [2005 c.15](https://www.legislation.gov.uk/ukpga/2005/15); section 71(6B) was substituted by the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), Schedule 18, Part 2, paragraph 106(4).
 
 [^f00021]: Footnote: [1998 c.11](https://www.legislation.gov.uk/ukpga/1998/11); Schedule 6A was inserted by the Bank of England and Financial Services Act [2016 (c.14)](https://www.legislation.gov.uk/ukpga/2016/14), section 13(3) and Schedule 1.
 
-[^key-dbd33899391d002c3cc639daf08b4bd7]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/18) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-dbd33899391d002c3cc639daf08b4bd7]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/18) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00022]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46); sections 461, 948, 950 and 995 were amended by the Financial Services Act 2012, Schedule 18, Part 2, paragraphs 112, 118, 119 and 120 respectively; Schedule 2 was amended by paragraph 123(2) and (3)(c) and Schedule 11A was amended by paragraph 124(2) and (3)(c) of Schedule 18 to that Act.
 
-[^key-e1b0fac57a67e2ec52cafa409cc2498e]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/19) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-e1b0fac57a67e2ec52cafa409cc2498e]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/19) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00023]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15); In Part 1 of Schedule 19, the heading “Industry, business and finance etc” and related entries were inserted by [S.I. 2011/1060](https://www.legislation.gov.uk/uksi/2011/1060) and the entry for the Prudential Regulation Authority was inserted by the Financial Services Act 2012, Schedule 18, Part 2, paragraph 131(b).
 
-[^key-55b30b84deb37db771db430036392897]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/20) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-55b30b84deb37db771db430036392897]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/20) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00024]: Footnote: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25).
 
-[^key-93d1afcf2a72543f272ef68645d36102]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/21) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-93d1afcf2a72543f272ef68645d36102]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/21) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00025]: Footnote: [S.I. 1975/1023](https://www.legislation.gov.uk/uksi/1975/1023); relevant amending instruments are [S.I. 2001/3816](https://www.legislation.gov.uk/uksi/2001/3816), [2007/2149](https://www.legislation.gov.uk/uksi/2007/2149), [2011/99](https://www.legislation.gov.uk/uksi/2011/99), [2011/1800](https://www.legislation.gov.uk/uksi/2011/1800), [2013/472](https://www.legislation.gov.uk/uksi/2013/472), [2013/504](https://www.legislation.gov.uk/uksi/2013/504), [2013/1198](https://www.legislation.gov.uk/uksi/2013/1198), [2013/1388](https://www.legislation.gov.uk/uksi/2013/1388) and [2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 
-[^key-6caf0daa656219f6d91529b8bdc9c172]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/22) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-6caf0daa656219f6d91529b8bdc9c172]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/22) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00026]: Footnote: [S.I. 1994/1986](https://www.legislation.gov.uk/uksi/1994/1986).
 
-[^key-e0eebb7dd92734fc979ce149c85a84a1]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/23) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-e0eebb7dd92734fc979ce149c85a84a1]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/23) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00027]: Footnote: [S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979), amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472); there are other amending instruments but none is relevant.
 
-[^key-5af3d3c1e38c3cb646c3383a54cc855c]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/24) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-5af3d3c1e38c3cb646c3383a54cc855c]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/24) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00028]: Footnote: [S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417), Schedule 1 was substituted [S.I. 2008/1919](https://www.legislation.gov.uk/uksi/2008/1919) and form CIT in Schedule 1 was subsequently amended by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), [2013/2318](https://www.legislation.gov.uk/uksi/2013/2318), [2014/834](https://www.legislation.gov.uk/uksi/2014/834) and [2014/2371](https://www.legislation.gov.uk/uksi/2014/2371). Schedule 5 was amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472); there are other amending instruments but none is relevant.
 
-[^key-1543a225c65b1dc41fdf21a11a31f8a1]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/25) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-1543a225c65b1dc41fdf21a11a31f8a1]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/25) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00029]: Footnote: [S.S.I. 2003/93](https://www.legislation.gov.uk/ssi/2003/93), amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472); there are other amending instruments but none is relevant.
 
-[^key-0be16163a96475a70527a02f1da0fbeb]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/26) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-0be16163a96475a70527a02f1da0fbeb]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/26) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00030]: Footnote: [S.I. 2004/1045](https://www.legislation.gov.uk/uksi/2004/1045); relevant amending instruments are [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [2013/3115](https://www.legislation.gov.uk/uksi/2013/3115) and [2014/3348](https://www.legislation.gov.uk/uksi/2014/3348).
 
-[^key-cf403d8fbe481a2624b935519e07e5a4]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/27) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-cf403d8fbe481a2624b935519e07e5a4]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/27) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00031]: Footnote: [S.I. 2005/3273](https://www.legislation.gov.uk/uksi/2005/3273), amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472); there are other amending instruments but none is relevant.
 
-[^key-9af25fd3f9256a06449509e650e7daf2]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/28) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-9af25fd3f9256a06449509e650e7daf2]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/28) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00032]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46); section 461 was amended by the Financial Services Act 2012, Schedule 18, Part 2, paragraph 112.
 
 [^f00033]: Footnote: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911); relevant amending instruments are [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [2012/1439](https://www.legislation.gov.uk/uksi/2012/1439), [2012/1741](https://www.legislation.gov.uk/uksi/2012/1741), [2013/472](https://www.legislation.gov.uk/uksi/2013/472) and [2014/1815](https://www.legislation.gov.uk/uksi/2014/1815).
 
-[^key-ba5b3619b049fef8c2771685fc1f6f61]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/29) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-ba5b3619b049fef8c2771685fc1f6f61]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/29) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00034]: Footnote: [S.I. 2008/1909](https://www.legislation.gov.uk/uksi/2008/1909), amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472).
 
-[^key-3f3b0641c826650aacd9e8c4a41f56ed]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/30) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-3f3b0641c826650aacd9e8c4a41f56ed]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/30) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00035]: Footnote: [S.I. 2009/357](https://www.legislation.gov.uk/uksi/2009/357); to which there are amendments not relevant to these Regulations. Section 256B of the Banking Act [2009 (c.1)](https://www.legislation.gov.uk/ukpga/2009/1) was inserted by the Bank of England and Financial Services Act 2016, Schedule 2, Part 2, paragraph 62.
 
-[^key-584f061acef15fc08fdd5cbbc1f36b1f]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/31) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-584f061acef15fc08fdd5cbbc1f36b1f]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/31) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00036]: Footnote: [S.R. (N.I.) 2009 No. 63](https://www.legislation.gov.uk/nisr/2009/63); to which there are amendments not relevant to these Regulations.
 
-[^key-7bca3e91bd88e55acb6daf933e7055b3]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/32) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-7bca3e91bd88e55acb6daf933e7055b3]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/32) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00037]: Footnote: [S.I. 2009/350 (S.4)](https://www.legislation.gov.uk/uksi/2009/350); to which there are amendments not relevant to these Regulations.
 
-[^key-7565be6eff38dede43ce6b349e0daefc]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/33) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-7565be6eff38dede43ce6b349e0daefc]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/33) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00038]: Footnote: [S.I. 2009/806 (S.3)](https://www.legislation.gov.uk/uksi/2009/806), amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472); there are other amending instruments but none is relevant.
 
-[^key-394da762d957d503e8167bff2e7dd18b]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/34) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-394da762d957d503e8167bff2e7dd18b]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/34) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00039]: Footnote: [S.I. 2009/214](https://www.legislation.gov.uk/uksi/2009/214), amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472); there are other amending instruments but none is relevant.
 
-[^key-86c4d414df512a48d35e5326c5eea19d]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/35) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-86c4d414df512a48d35e5326c5eea19d]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/35) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00040]: Footnote: [S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801), amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472); there are other amending instruments but none is relevant.
 
-[^key-4e3eafe0bdb8c424acaabe8ff737c1a8]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/36) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-4e3eafe0bdb8c424acaabe8ff737c1a8]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/36) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00041]: Footnote: [S.I. 2010/2580](https://www.legislation.gov.uk/uksi/2010/2580), amended by [S.I. 2013/496](https://www.legislation.gov.uk/uksi/2013/496); there are other amending instruments but none is relevant.
 
-[^key-c64fd3c33411da087d72f3f5ef54d637]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/37) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-c64fd3c33411da087d72f3f5ef54d637]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/37) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00042]: Footnote: [S.I. 2011/2260](https://www.legislation.gov.uk/uksi/2011/2260), amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472); there are other amending instruments but none is relevant.
 
-[^key-ba86d5ffeef770d6d6b8ef62f24fcaa9]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/38) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-ba86d5ffeef770d6d6b8ef62f24fcaa9]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/38) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00043]: Footnote: [S.I. 2012/1128](https://www.legislation.gov.uk/uksi/2012/1128), amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472); there are other amending instruments but none is relevant.
 
-[^key-9ef3ff4452157dc7e9098aa56a5f1db2]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/39) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-9ef3ff4452157dc7e9098aa56a5f1db2]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/39) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00044]: Footnote: [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50); relevant amending instruments are [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [2013/504](https://www.legislation.gov.uk/uksi/2013/504) and [2013/1388](https://www.legislation.gov.uk/uksi/2013/1388).
 
-[^key-aae678f40c5863170b6a5c9d15a417fe]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/40) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-aae678f40c5863170b6a5c9d15a417fe]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/40) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00045]: Footnote: [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348).
 
-[^key-92b911c59f779ad7b334056c18369219]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/41) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-92b911c59f779ad7b334056c18369219]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/41) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00046]: Footnote: [S.R. (N.I.) 2014 No. 40](https://www.legislation.gov.uk/nisr/2014/40).
 
-[^key-6eb4a407a68b2ace9908b4fd4eeed604]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/42) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-6eb4a407a68b2ace9908b4fd4eeed604]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/42) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00047]: Footnote: [S.I. 2014/882](https://www.legislation.gov.uk/uksi/2014/882).
 
-[^key-8431ba32c6f1e519df5be6dc9cd932e2]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/43) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-8431ba32c6f1e519df5be6dc9cd932e2]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/43) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00048]: Footnote: [S.I. 2015/1694](https://www.legislation.gov.uk/uksi/2015/1694); to which there are amendments not relevant to these Regulations.
 
-[^key-f44c5a66e28f588ca876eeba16da0592]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/44) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-f44c5a66e28f588ca876eeba16da0592]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/44) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00049]: Footnote: [S.I. 2015/17](https://www.legislation.gov.uk/uksi/2015/17).
 
-[^key-8671f8e795e421957c099582a36641e6]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/45) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-8671f8e795e421957c099582a36641e6]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/45) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00050]: Footnote: [S.I. 2015/1945](https://www.legislation.gov.uk/uksi/2015/1945).
 
-[^key-d505e95dd2fcff30ef456a48ca7f60ee]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/46) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
+[^c-d505e95dd2fcff30ef456a48ca7f60ee]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/46) in force at 1.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1)
 
 [^f00051]: Footnote: [S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339).

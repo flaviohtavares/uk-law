@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 14.4. Inspection of church etc.[^key-6c4a8538d78d05145a56401a736355e2]
+## 14.4. Inspection of church etc.[^c-6c4a8538d78d05145a56401a736355e2]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Where an order has been made under rule 14.1, the chancellor may nevertheless in
 
 ## Annotations
 
-[^key-6c4a8538d78d05145a56401a736355e2]: Commencement: [Rule 14.4](https://www.legislation.gov.uk/uksi/2015/1568/article/14.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-6c4a8538d78d05145a56401a736355e2]: Commencement: [Rule 14.4](https://www.legislation.gov.uk/uksi/2015/1568/article/14.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104.[^key-788b0696343fcfc1a0244b2c09dd0e7c]
+## 104.[^c-788b0696343fcfc1a0244b2c09dd0e7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,7 +65,7 @@ For Annexes I and II substitute—
 
 ## Annotations
 
-[^key-788b0696343fcfc1a0244b2c09dd0e7c]: Commencement: Reg. 104 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-788b0696343fcfc1a0244b2c09dd0e7c]: Commencement: Reg. 104 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23621241]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 

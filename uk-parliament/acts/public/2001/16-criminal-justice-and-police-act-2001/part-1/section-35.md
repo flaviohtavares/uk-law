@@ -47,7 +47,7 @@ summary: ''
 (5) Where the prohibition imposed on any person by a travel restriction order is suspended, it shall be the duty of that person—
 
 - (a) to be in the United Kingdom when the period of the suspension ends; and
-- (b) if the order contains a direction under section 33(4), to surrender, before the end of that period, any passport[^key-f7aea0ed0938d4e0549a0e0ab6e65910] returned or issued to that person, in respect of the suspension, by the Secretary of State;
+- (b) if the order contains a direction under section 33(4), to surrender, before the end of that period, any passport[^c-f7aea0ed0938d4e0549a0e0ab6e65910] returned or issued to that person, in respect of the suspension, by the Secretary of State;
 
 and a passport that is required to be surrendered under paragraph (b) shall be surrendered to the Secretary of State in such manner or by being sent to such address as the Secretary of State may direct at the time when he returns or issues it.
 
@@ -61,4 +61,4 @@ and a passport that is required to be surrendered under paragraph (b) shall be s
 
 ## Annotations
 
-[^key-f7aea0ed0938d4e0549a0e0ab6e65910]: Textual amendment: Word in s. 35 substituted (21.1.2011) by [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/17)
+[^c-f7aea0ed0938d4e0549a0e0ab6e65910]: Textual amendment: Word in s. 35 substituted (21.1.2011) by [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/17)

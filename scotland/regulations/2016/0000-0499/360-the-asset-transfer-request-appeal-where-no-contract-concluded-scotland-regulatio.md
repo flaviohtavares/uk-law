@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and application[^key-874b15eed1e2da3d8d361ca2ef4d34e3]
+### 1. Citation, commencement and application[^c-874b15eed1e2da3d8d361ca2ef4d34e3]
 
 (1) These Regulations may be cited as the Asset Transfer Request (Appeal Where No Contract Concluded) (Scotland) Regulations 2016 and come into force on 23rd January 2017.
 
@@ -58,7 +58,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (4) These Regulations apply as specified in regulation 14(5) to applications under section 90(5) of the Act (application for direction).
 
-### 2. Interpretation[^key-b9a60e5547bca99fb88a56f63c30ab16]
+### 2. Interpretation[^c-b9a60e5547bca99fb88a56f63c30ab16]
 
 In these Regulations—
 
@@ -81,7 +81,7 @@ In these Regulations—
 
 ## PART 2 — Appeals under section 83(6) of the Act
 
-### 3. Appeals under section 83(6) of the Act[^key-0f0221b877b8c4b4b325d013d2e6b179]
+### 3. Appeals under section 83(6) of the Act[^c-0f0221b877b8c4b4b325d013d2e6b179]
 
 (1) An appeal to the Scottish Ministers under section 83(6) of the Act is to be made by giving notice in writing in accordance with this regulation.
 
@@ -112,7 +112,7 @@ In these Regulations—
 - (a) in accordance with and to the extent permitted by regulation 4(3); or
 - (b) where the review panel or the Scottish Ministers make a request for further representations to be made or further information to be provided by the community transfer body (whether under regulation 8(1), rule 1(1) of the Hearing Session Rules or otherwise).
 
-### 4. Intimation to relevant authority and relevant authority’s response[^key-9a5bdd27946c6254ad084a3f1c5ad000]
+### 4. Intimation to relevant authority and relevant authority’s response[^c-9a5bdd27946c6254ad084a3f1c5ad000]
 
 (1) The community transfer body must at the same time as giving the notice of appeal to the Scottish Ministers send to the relevant authority—
 
@@ -137,9 +137,9 @@ In these Regulations—
 
 (4) In addition to matters set out in the relevant authority’s response and related documents, the relevant authority may raise matters and submit further documents, materials or evidence only in accordance with and to the extent to which the review panel or the Scottish Ministers make a request for further representations to be made or further information to be provided by the relevant authority (whether under regulation 8(1), rule 1(1) of the Hearing Session Rules or otherwise).
 
-### 5. Review panel[^key-172619732368ee8a83be8f079d102db8]
+### 5. Review panel[^c-172619732368ee8a83be8f079d102db8]
 
-(1) Where an appeal is made under section 83(6) of the Act[^key-57ced226e3589a811f7ea8ac6c8622ee] the Scottish Ministers must appoint 3 persons, no more than one of whom may be[^key-24f716e2226ec19bd8ec36d377512044] a member of the staff of the Scottish Ministers, to consider the appeal and report to them on it (“the review panel”).
+(1) Where an appeal is made under section 83(6) of the Act[^c-57ced226e3589a811f7ea8ac6c8622ee] the Scottish Ministers must appoint 3 persons, no more than one of whom may be[^c-24f716e2226ec19bd8ec36d377512044] a member of the staff of the Scottish Ministers, to consider the appeal and report to them on it (“the review panel”).
 
 (2) Following such consideration the review panel must report—
 
@@ -150,11 +150,11 @@ to the Scottish Ministers.
 
 ## PART 3 — Procedure for determination
 
-### 6. Determination without further procedure[^key-b9698de0f8a2a6fefa8902c52b9f4394]
+### 6. Determination without further procedure[^c-b9698de0f8a2a6fefa8902c52b9f4394]
 
 Where the review panel consider that no further representations are, or information is, required to enable them to do so, the review panel may finalise their report without further procedure.
 
-### 7. Further procedure[^key-fff3c1cb7cc5f8b9946856cd9911b4ad]
+### 7. Further procedure[^c-fff3c1cb7cc5f8b9946856cd9911b4ad]
 
 (1) Where the review panel consider that further procedure is desirable to assist them in the preparation of their report, the review panel may determine the manner in which the appeal is to be conducted.
 
@@ -170,7 +170,7 @@ Where the review panel consider that no further representations are, or informat
 
 (4) Notices given under regulation 8(1) or rule 1(1) of the Hearing Session Rules may be given separately or combined into a single notice.
 
-### 8. Written submissions[^key-7c964b0b1c19777c3be0027e024a3e49]
+### 8. Written submissions[^c-7c964b0b1c19777c3be0027e024a3e49]
 
 (1) Where the review panel request that further representations should be made or further information should be provided by means of written submissions, the review panel are to do so by giving written notice to that effect to—
 
@@ -194,17 +194,17 @@ Where the review panel consider that no further representations are, or informat
 
 (6) In this regulation “additional material” has the meaning given in paragraph (3).
 
-### 9. New evidence[^key-caaeb626a006c0a7b8a9ab9ec9f178c9]
+### 9. New evidence[^c-caaeb626a006c0a7b8a9ab9ec9f178c9]
 
 If, after conclusion of any further procedure or after consideration of any report by the review panel, the Scottish Ministers propose to take into consideration any new evidence which is material to the determination of the appeal, the Scottish Ministers must not reach a decision on the appeal without affording the community transfer body and the relevant authority an opportunity of making representations on such new evidence.
 
-### 10. Decision notice[^key-34822b8a92a7ac9e8cf80abfadc54297]
+### 10. Decision notice[^c-34822b8a92a7ac9e8cf80abfadc54297]
 
 The Scottish Ministers must give notice of their decision on the appeal to the community transfer body and to the relevant authority.
 
 ## PART 4 — Applications under section 83(8) of the Act
 
-### 11. Application under section 83(8) of the Act[^key-ae12efb69ef5dd8cfa72d3af2c65e286]
+### 11. Application under section 83(8) of the Act[^c-ae12efb69ef5dd8cfa72d3af2c65e286]
 
 (1) An application to the Scottish Ministers under section 83(8) of the Act is to be made in writing in accordance with this regulation.
 
@@ -242,19 +242,19 @@ The Scottish Ministers must give notice of their decision on the appeal to the c
   the date of expiry of such longer period; and
 - “the relevant period” means the period which begins 30 working days before the relevant date and expires 20 working days before the relevant date.
 
-### 12. Intimation of application to relevant authority[^key-709a494219267a12091fcfaa713b52e0]
+### 12. Intimation of application to relevant authority[^c-709a494219267a12091fcfaa713b52e0]
 
 (1) The community transfer body must at the same time as making an application under section 83(8) of the Act to the Scottish Ministers send a copy of the application to the relevant authority.
 
 (2) The relevant authority may, within the period of 10 working days beginning with the date of receipt of the copy of the application, send comments on the application to the Scottish Ministers and the community transfer body.
 
-### 13. Direction under section 83(7)(b)(ii) of the Act[^key-15ec8ccf6a4e827fb0e038399b62da42]
+### 13. Direction under section 83(7)(b)(ii) of the Act[^c-15ec8ccf6a4e827fb0e038399b62da42]
 
 The Scottish Ministers must give a copy of any direction made under section 83(7)(b)(ii) of the Act to the community transfer body and to the relevant authority.
 
 ## PART 5 — Applications under section 90(5) of the Act
 
-### 14. Application under section 90(5) of the Act[^key-b7c619b0b22a0751b445f229ea54bc96]
+### 14. Application under section 90(5) of the Act[^c-b7c619b0b22a0751b445f229ea54bc96]
 
 (1) An application to the Scottish Ministers under section 90(5) of the Act is to be made in writing in accordance with this regulation.
 
@@ -274,38 +274,38 @@ The Scottish Ministers must give a copy of any direction made under section 83(7
 
 (5) This Part and Part 1, regulation 7(2) and (3) and 8 and Part 6 of these Regulations and the Hearing Session Rules apply to an application under section 90(5) of the Act as if references in regulation 7(2) and (3) and 8 and the Hearing Session Rules to the review panel were references to the Scottish Ministers.
 
-### 15. Intimation of application to relevant authority[^key-67a28cbf6f0f628c8ef3ac9840238981]
+### 15. Intimation of application to relevant authority[^c-67a28cbf6f0f628c8ef3ac9840238981]
 
 (1) The community transfer body must at the same time as making an application under section 90(5) of the Act to the Scottish Ministers send a copy of the application to the relevant authority.
 
 (2) The relevant authority may, within the period of 10 working days beginning with the date of receipt of the copy of the application, send comments on the application to the Scottish Ministers and the community transfer body.
 
-### 16. Direction under section 90(5) of the Act[^key-62fe383b9d4f3406289154c934d990ed]
+### 16. Direction under section 90(5) of the Act[^c-62fe383b9d4f3406289154c934d990ed]
 
 The Scottish Ministers must give a copy of any direction given to the relevant authority under section 90(5) of the Act to the community transfer body.
 
 ## PART 6 — General
 
-### 17. Further copies of documents etc.[^key-38aabb87afbd5f7fb862e32ed823619e]
+### 17. Further copies of documents etc.[^c-38aabb87afbd5f7fb862e32ed823619e]
 
 (1) The Scottish Ministers may require any person who has submitted documents, materials or evidence under these Regulations in connection with an appeal or application to—
 
 - (a) provide to the Scottish Ministers such number of additional copies of such of those documents, materials or evidence as the Scottish Ministers may specify;
 - (b) provide to such other persons as the Scottish Ministers may specify such copies or additional copies of any document, materials or evidence as the Scottish Ministers may specify.
 
-### 18. Contact address[^key-897cc0bac5a113dddc2da79d7e37f509][^key-b9bcffb1d0baf7d47d1aa671b5cb02ee]
+### 18. Contact address[^c-897cc0bac5a113dddc2da79d7e37f509][^c-b9bcffb1d0baf7d47d1aa671b5cb02ee]
 
 (1) In relation to an appeal or application to which these Regulations apply, the “contact address” is the address (or addresses), including any address (or addresses) for the purposes of electronic communication within the meaning of regulation 19, to which the community transfer body wishes any document relating to the appeal or application, as the case may be, to be sent.
 
 (2) The contact address is the address (or addresses) included in the notice of appeal or application, as the case may be, unless the community transfer body subsequently expressly informs the Scottish Ministers of a change to the contact address.
 
-### 19. Electronic communication[^key-2a2c0cf684bab8530f763efc4e0a9622]
+### 19. Electronic communication[^c-2a2c0cf684bab8530f763efc4e0a9622]
 
 (1) Where the criteria in paragraph (2) are met, any document required or authorised to be sent by these Regulations may be sent by electronic communication and any requirement in these Regulations that any document is to be in writing is fulfilled.
 
 (2) The criteria are—
 
-- (a) the recipient agrees, or is deemed to have agreed under paragraph (3) or (5A)[^key-77c17261152f5f2905d42a70500d7288], to receive it electronically; and
+- (a) the recipient agrees, or is deemed to have agreed under paragraph (3) or (5A)[^c-77c17261152f5f2905d42a70500d7288], to receive it electronically; and
 - (b) the document transmitted by electronic communication is—
   - (i) capable of being accessed by the recipient;
   - (ii) legible in all material respects; and
@@ -323,7 +323,7 @@ The Scottish Ministers must give a copy of any direction given to the relevant a
 - (a) the date specified by the person in the notice; or
 - (b) the date of expiry of the period of 5 working days beginning with the date on which the notice is given.
 
-(5A)[^key-aaa193ccb33378d97e2a25ae725a59d2] Where the contact address includes an address (or addresses) for the purposes of electronic communication (“electronic communication contact address”) the community transfer body is taken to have agreed—
+(5A)[^c-aaa193ccb33378d97e2a25ae725a59d2] Where the contact address includes an address (or addresses) for the purposes of electronic communication (“electronic communication contact address”) the community transfer body is taken to have agreed—
 
 - (a) to the use of electronic communication for all purposes relating to the appeal or application, as the case may be, which are capable of being carried out electronically; and
 - (b) that the address for the purposes of such communication is the electronic communication contact address.
@@ -338,7 +338,7 @@ The Scottish Ministers must give a copy of any direction given to the relevant a
 - “address” includes any number or address used for the purpose of such communication or storage;
 - “document” includes any notice, consent, agreement, decision, representation, statement, report or other information or communication;
 - “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00002];
-- “electronic communication contact address” has the meaning given in paragraph (5A);[^key-93e825da68562d35991474480c68f96c]
+- “electronic communication contact address” has the meaning given in paragraph (5A);[^c-93e825da68562d35991474480c68f96c]
 - “legible in all material respects” means that the information contained in the document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form; and
 - “sent” includes served, submitted or given and cognate expressions are to be construed accordingly.
 
@@ -356,7 +356,7 @@ Edinburgh
 
 Regulation 2
 
-### 1. Notice of hearing session and specified matters[^key-5118d52c23dba5473a823b8c831f92fe]
+### 1. Notice of hearing session and specified matters[^c-5118d52c23dba5473a823b8c831f92fe]
 
 (1) Where the review panel have determined that a hearing session should be held they are to give written notice to that effect to—
 
@@ -370,7 +370,7 @@ Regulation 2
 
 (4) A person given notice under paragraph (1) and who intends to appear at the hearing session must within the period of 10 working days beginning with the date of such notice inform the review panel in writing of that intention.
 
-### 2. Appearances at hearing session[^key-8d7debc6af8000174eaa5363507b1fb5]
+### 2. Appearances at hearing session[^c-8d7debc6af8000174eaa5363507b1fb5]
 
 The persons entitled to appear at a hearing session are—
 
@@ -378,13 +378,13 @@ The persons entitled to appear at a hearing session are—
 - (b) the relevant authority; and
 - (c) any other person who, in response to a notice given under rule 1(1), has informed the review panel of their intention to appear at the hearing session in accordance with rule 1(4).
 
-### 3. Date and notification of hearing session[^key-02672ea48775cf8bc6491bb5c3ba15db]
+### 3. Date and notification of hearing session[^c-02672ea48775cf8bc6491bb5c3ba15db]
 
 (1) The date, time and place at which the hearing session is to be held is to be determined (and may subsequently be varied) by the review panel.
 
 (2) The review panel are to give to those persons entitled to appear at the hearing session such notice of the date, time and place fixed for the holding of a hearing session (and any subsequent variation thereof) as may appear to the review panel to be reasonable in the circumstances.
 
-### 4. Service of hearing statements and documents[^key-5ca23489afc1f2ce82522367dd51f22a]
+### 4. Service of hearing statements and documents[^c-5ca23489afc1f2ce82522367dd51f22a]
 
 (1) Where required to do so by notice given by the review panel, a person entitled to appear at the hearing session must, by such date as is specified in the notice, send to the review panel, the community transfer body, the relevant authority and to such other persons entitled to appear at the hearing session as the review panel may specify in such notice—
 
@@ -393,7 +393,7 @@ The persons entitled to appear at a hearing session are—
 
 (2) Any person who has served a hearing statement in accordance with this rule must—
 
-- (a) when required by notice in writing from the review panel [^key-e10774122f125170ece7b8c19f7079b2]... provide such further information about the matters contained in the hearing statement as the review panel may specify; and
+- (a) when required by notice in writing from the review panel [^c-e10774122f125170ece7b8c19f7079b2]... provide such further information about the matters contained in the hearing statement as the review panel may specify; and
 - (b) at the same time send a copy of such further information to any other person on whom the hearing statement has been served.
 
 (3) Different dates and different persons may be specified for the purposes of paragraph (1).
@@ -406,7 +406,7 @@ The persons entitled to appear at a hearing session are—
 - (b) a list of documents (if any) which the person putting forward such case intends to refer to or rely on; and
 - (c) a list of any other persons who are to speak at the hearing session in respect of such case, any matters which such persons are particularly to address and any relevant qualifications of such persons to do so.
 
-### 5. Procedure at hearing[^key-d625f995bbcf315a60e6d988baaf660c]
+### 5. Procedure at hearing[^c-d625f995bbcf315a60e6d988baaf660c]
 
 (1) Except as otherwise provided in these Hearing Session Rules, the procedure at a hearing session shall be as the review panel determine.
 
@@ -450,66 +450,66 @@ Part 6 makes general provisions in relation to the provision of further copies o
 
 [^f00001]: Footnote: [2015 asp 6](https://www.legislation.gov.uk/asp/2015/6).
 
-[^key-874b15eed1e2da3d8d361ca2ef4d34e3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/360/regulation/1) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-874b15eed1e2da3d8d361ca2ef4d34e3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/360/regulation/1) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-b9a60e5547bca99fb88a56f63c30ab16]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/360/regulation/2) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-b9a60e5547bca99fb88a56f63c30ab16]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/360/regulation/2) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-0f0221b877b8c4b4b325d013d2e6b179]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/360/regulation/3) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-0f0221b877b8c4b4b325d013d2e6b179]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/360/regulation/3) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-9a5bdd27946c6254ad084a3f1c5ad000]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/360/regulation/4) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-9a5bdd27946c6254ad084a3f1c5ad000]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/360/regulation/4) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-172619732368ee8a83be8f079d102db8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/360/regulation/5) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-172619732368ee8a83be8f079d102db8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/360/regulation/5) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-57ced226e3589a811f7ea8ac6c8622ee]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/5/1) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2016/411/regulation/5/2/a)
+[^c-57ced226e3589a811f7ea8ac6c8622ee]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/5/1) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2016/411/regulation/5/2/a)
 
-[^key-24f716e2226ec19bd8ec36d377512044]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/5/1) substituted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2016/411/regulation/5/2/b)
+[^c-24f716e2226ec19bd8ec36d377512044]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/5/1) substituted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2016/411/regulation/5/2/b)
 
-[^key-b9698de0f8a2a6fefa8902c52b9f4394]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/360/regulation/6) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-b9698de0f8a2a6fefa8902c52b9f4394]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/360/regulation/6) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-fff3c1cb7cc5f8b9946856cd9911b4ad]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/360/regulation/7) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-fff3c1cb7cc5f8b9946856cd9911b4ad]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/360/regulation/7) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-7c964b0b1c19777c3be0027e024a3e49]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/360/regulation/8) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-7c964b0b1c19777c3be0027e024a3e49]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/360/regulation/8) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-caaeb626a006c0a7b8a9ab9ec9f178c9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/360/regulation/9) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-caaeb626a006c0a7b8a9ab9ec9f178c9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/360/regulation/9) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-34822b8a92a7ac9e8cf80abfadc54297]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/360/regulation/10) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-34822b8a92a7ac9e8cf80abfadc54297]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/360/regulation/10) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-ae12efb69ef5dd8cfa72d3af2c65e286]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/360/regulation/11) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-ae12efb69ef5dd8cfa72d3af2c65e286]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/360/regulation/11) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-709a494219267a12091fcfaa713b52e0]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/360/regulation/12) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-709a494219267a12091fcfaa713b52e0]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/360/regulation/12) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-15ec8ccf6a4e827fb0e038399b62da42]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/360/regulation/13) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-15ec8ccf6a4e827fb0e038399b62da42]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/360/regulation/13) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-b7c619b0b22a0751b445f229ea54bc96]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2016/360/regulation/14) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-b7c619b0b22a0751b445f229ea54bc96]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2016/360/regulation/14) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-67a28cbf6f0f628c8ef3ac9840238981]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2016/360/regulation/15) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-67a28cbf6f0f628c8ef3ac9840238981]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2016/360/regulation/15) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-62fe383b9d4f3406289154c934d990ed]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/360/regulation/16) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-62fe383b9d4f3406289154c934d990ed]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/360/regulation/16) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-38aabb87afbd5f7fb862e32ed823619e]: Commencement: Reg. 17 in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-38aabb87afbd5f7fb862e32ed823619e]: Commencement: Reg. 17 in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-897cc0bac5a113dddc2da79d7e37f509]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/360/regulation/18) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-897cc0bac5a113dddc2da79d7e37f509]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/360/regulation/18) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-b9bcffb1d0baf7d47d1aa671b5cb02ee]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/360/regulation/18) substituted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2016/411/regulation/5/3)
+[^c-b9bcffb1d0baf7d47d1aa671b5cb02ee]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/360/regulation/18) substituted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2016/411/regulation/5/3)
 
-[^key-2a2c0cf684bab8530f763efc4e0a9622]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2016/360/regulation/19) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-2a2c0cf684bab8530f763efc4e0a9622]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2016/360/regulation/19) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-77c17261152f5f2905d42a70500d7288]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/ssi/2016/360/regulation/19/2/a) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/ssi/2016/411/regulation/5/4/a)
+[^c-77c17261152f5f2905d42a70500d7288]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/ssi/2016/360/regulation/19/2/a) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/ssi/2016/411/regulation/5/4/a)
 
-[^key-aaa193ccb33378d97e2a25ae725a59d2]: Textual amendment: [Reg. 19(5A)](https://www.legislation.gov.uk/ssi/2016/360/regulation/19/5A)[(5B)](https://www.legislation.gov.uk/ssi/2016/360/regulation/19/5B) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/ssi/2016/411/regulation/5/4/b)
+[^c-aaa193ccb33378d97e2a25ae725a59d2]: Textual amendment: [Reg. 19(5A)](https://www.legislation.gov.uk/ssi/2016/360/regulation/19/5A)[(5B)](https://www.legislation.gov.uk/ssi/2016/360/regulation/19/5B) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/ssi/2016/411/regulation/5/4/b)
 
 [^f00002]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), schedule 17, paragraph 158.
 
-[^key-93e825da68562d35991474480c68f96c]: Textual amendment: Words in [reg. 19(6)](https://www.legislation.gov.uk/ssi/2016/360/regulation/19/6) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [5(4)(c)](https://www.legislation.gov.uk/ssi/2016/411/regulation/5/4/c)
+[^c-93e825da68562d35991474480c68f96c]: Textual amendment: Words in [reg. 19(6)](https://www.legislation.gov.uk/ssi/2016/360/regulation/19/6) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [5(4)(c)](https://www.legislation.gov.uk/ssi/2016/411/regulation/5/4/c)
 
-[^key-5118d52c23dba5473a823b8c831f92fe]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2016/360/schedule/paragraph/1) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-5118d52c23dba5473a823b8c831f92fe]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2016/360/schedule/paragraph/1) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-8d7debc6af8000174eaa5363507b1fb5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2016/360/schedule/paragraph/2) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-8d7debc6af8000174eaa5363507b1fb5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2016/360/schedule/paragraph/2) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-02672ea48775cf8bc6491bb5c3ba15db]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2016/360/schedule/paragraph/3) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-02672ea48775cf8bc6491bb5c3ba15db]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2016/360/schedule/paragraph/3) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-5ca23489afc1f2ce82522367dd51f22a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2016/360/schedule/paragraph/4) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-5ca23489afc1f2ce82522367dd51f22a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2016/360/schedule/paragraph/4) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
 
-[^key-e10774122f125170ece7b8c19f7079b2]: Textual amendment: Word in [sch. para. 4(2)(a)](https://www.legislation.gov.uk/ssi/2016/360/schedule/paragraph/4/2/a) omitted (22.1.2017) by virtue of [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [5(5)](https://www.legislation.gov.uk/ssi/2016/411/regulation/5/5)
+[^c-e10774122f125170ece7b8c19f7079b2]: Textual amendment: Word in [sch. para. 4(2)(a)](https://www.legislation.gov.uk/ssi/2016/360/schedule/paragraph/4/2/a) omitted (22.1.2017) by virtue of [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [5(5)](https://www.legislation.gov.uk/ssi/2016/411/regulation/5/5)
 
-[^key-d625f995bbcf315a60e6d988baaf660c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2016/360/schedule/paragraph/5) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)
+[^c-d625f995bbcf315a60e6d988baaf660c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2016/360/schedule/paragraph/5) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/360/regulation/1/1)

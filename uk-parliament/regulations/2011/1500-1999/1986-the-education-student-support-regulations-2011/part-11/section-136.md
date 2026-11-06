@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-ab5f2a5adaa26f79942c1afd8c5df1c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ab5f2a5adaa26f79942c1afd8c5df1c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-9ee286e77d89fc9fe17f2941c1c71b7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-9ee286e77d89fc9fe17f2941c1c71b7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In this Part,—
 
@@ -35,12 +35,12 @@ summary: ''
   - (iii) not to have repeated any part of the full-time equivalent; and
   - (iv) not to be absent from the full-time equivalent other than during vacations.
 
-(3)[^key-8b64e07eaabb7d5ae41ea6a9fdf8d898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8b64e07eaabb7d5ae41ea6a9fdf8d898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab5f2a5adaa26f79942c1afd8c5df1c2]: Textual amendment: [Reg. 136(1)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/136/1) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/4/3/a)
+[^c-ab5f2a5adaa26f79942c1afd8c5df1c2]: Textual amendment: [Reg. 136(1)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/136/1) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/4/3/a)
 
-[^key-9ee286e77d89fc9fe17f2941c1c71b7f]: Textual amendment: [Reg. 136(1A)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/136/1A) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/4/3/a)
+[^c-9ee286e77d89fc9fe17f2941c1c71b7f]: Textual amendment: [Reg. 136(1A)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/136/1A) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/4/3/a)
 
-[^key-8b64e07eaabb7d5ae41ea6a9fdf8d898]: Textual amendment: [Reg. 136(3)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/136/3) omitted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by virtue of [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [9(c)](https://www.legislation.gov.uk/uksi/2018/472/regulation/9/c)
+[^c-8b64e07eaabb7d5ae41ea6a9fdf8d898]: Textual amendment: [Reg. 136(3)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/136/3) omitted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by virtue of [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [9(c)](https://www.legislation.gov.uk/uksi/2018/472/regulation/9/c)

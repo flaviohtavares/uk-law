@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Forms and documents: variations and translations[^key-425ea3f975f3f63ecd8c33d3dae307ce]
+## 90. Forms and documents: variations and translations[^c-425ea3f975f3f63ecd8c33d3dae307ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-425ea3f975f3f63ecd8c33d3dae307ce]: Commencement: Art. 90 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-425ea3f975f3f63ecd8c33d3dae307ce]: Commencement: Art. 90 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

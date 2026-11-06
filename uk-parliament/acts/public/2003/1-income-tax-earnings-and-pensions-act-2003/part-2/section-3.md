@@ -29,15 +29,15 @@ summary: ''
 - Part 4 deals with exemptions from the charge to tax under this Part (and, in some cases, from other charges to tax);
 - Part 5 deals with deductions from taxable earnings;
 - Part 6 deals with employment income other than earnings or share-related income; and
-- Part 7 deals with income and exemptions relating to securities and securities options acquired in connection with an employment[^key-d93513bf477de867db15d74c15cef677].
-- Part 7A deals with employment income provided through third parties.[^key-e873b2c76161611711526bb95db0f038]
+- Part 7 deals with income and exemptions relating to securities and securities options acquired in connection with an employment[^c-d93513bf477de867db15d74c15cef677].
+- Part 7A deals with employment income provided through third parties.[^c-e873b2c76161611711526bb95db0f038]
 
-(2) In this Act “**the employment income Parts**” means this Part and Parts 3 to 7A[^key-bd9406d982a5031adf633a074d50c72f] .
+(2) In this Act “**the employment income Parts**” means this Part and Parts 3 to 7A[^c-bd9406d982a5031adf633a074d50c72f] .
 
 ## Annotations
 
-[^key-d93513bf477de867db15d74c15cef677]: Textual amendment: Words in s. 3(1) substituted (16.4.2003 with effect in accordance with Sch. 22 para. 16(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 16(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/16/1)
+[^c-d93513bf477de867db15d74c15cef677]: Textual amendment: Words in s. 3(1) substituted (16.4.2003 with effect in accordance with Sch. 22 para. 16(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 16(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/16/1)
 
-[^key-e873b2c76161611711526bb95db0f038]: Textual amendment: Words in s. 3(1) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/4/2)
+[^c-e873b2c76161611711526bb95db0f038]: Textual amendment: Words in s. 3(1) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/4/2)
 
-[^key-bd9406d982a5031adf633a074d50c72f]: Textual amendment: Word in s. 3(2) substituted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/4/3)
+[^c-bd9406d982a5031adf633a074d50c72f]: Textual amendment: Word in s. 3(2) substituted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/4/3)

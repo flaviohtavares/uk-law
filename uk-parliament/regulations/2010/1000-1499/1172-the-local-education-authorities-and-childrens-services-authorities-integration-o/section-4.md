@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Amendment of non-education subordinate legislation[^key-406e7e358f91b00af7a67aac1b3ad952]
+## 4. Amendment of non-education subordinate legislation[^c-406e7e358f91b00af7a67aac1b3ad952]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The non-education subordinate legislation specified in Schedule 3 is amended in 
 
 ## Annotations
 
-[^key-406e7e358f91b00af7a67aac1b3ad952]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/1172/article/4) in force at 5.5.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1)
+[^c-406e7e358f91b00af7a67aac1b3ad952]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/1172/article/4) in force at 5.5.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1)

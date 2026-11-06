@@ -32,7 +32,7 @@ summary: ''
 
 Landfill Tax
 
-The Scottish Landfill Tax (Standard Rate and Lower Rate) Order 2016 (revoked)[^key-2587e2ffa5a53b2374d6cad5f931419f]
+The Scottish Landfill Tax (Standard Rate and Lower Rate) Order 2016 (revoked)[^c-2587e2ffa5a53b2374d6cad5f931419f]
 
 Approved by the Scottish Parliament
 
@@ -48,28 +48,28 @@ Coming into force
 
 1st April 2016
 
-[^key-2587e2ffa5a53b2374d6cad5f931419f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2587e2ffa5a53b2374d6cad5f931419f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-2587e2ffa5a53b2374d6cad5f931419f]
+## 1. Citation, commencement and application[^c-2587e2ffa5a53b2374d6cad5f931419f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Rates of Scottish landfill tax[^key-2587e2ffa5a53b2374d6cad5f931419f]
+## 2. Rates of Scottish landfill tax[^c-2587e2ffa5a53b2374d6cad5f931419f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-2587e2ffa5a53b2374d6cad5f931419f]
+## 3. Revocation[^c-2587e2ffa5a53b2374d6cad5f931419f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2587e2ffa5a53b2374d6cad5f931419f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2587e2ffa5a53b2374d6cad5f931419f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2587e2ffa5a53b2374d6cad5f931419f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2587e2ffa5a53b2374d6cad5f931419f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2587e2ffa5a53b2374d6cad5f931419f]: Textual amendment: Order revoked (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The Scottish Landfill Tax (Standard Rate and Lower Rate) Order 2017 (S.S.I. 2017/23)](https://www.legislation.gov.uk/ssi/2017/23), [arts. 1](https://www.legislation.gov.uk/ssi/2017/23/article/1), [3](https://www.legislation.gov.uk/ssi/2017/23/article/3)
+[^c-2587e2ffa5a53b2374d6cad5f931419f]: Textual amendment: Order revoked (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The Scottish Landfill Tax (Standard Rate and Lower Rate) Order 2017 (S.S.I. 2017/23)](https://www.legislation.gov.uk/ssi/2017/23), [arts. 1](https://www.legislation.gov.uk/ssi/2017/23/article/1), [3](https://www.legislation.gov.uk/ssi/2017/23/article/3)

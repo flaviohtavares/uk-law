@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Amount of limit[^key-ef004bc9ade9cfdc8f48e6e02db113f1][^key-4c03b38f65abc95c14f25aa3ac5bc4e4][^key-ef004bc9ade9cfdc8f48e6e02db113f1]
+## 42. Amount of limit[^c-ef004bc9ade9cfdc8f48e6e02db113f1][^c-4c03b38f65abc95c14f25aa3ac5bc4e4][^c-ef004bc9ade9cfdc8f48e6e02db113f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,17 +43,17 @@ IG is the amount of the income or gain (but see subsection (3)).
 (4) Subsection (2) is to be read with—
 
 - section 43, which, if the company has a permanent establishment outside the United Kingdom, is about attributing profits to the establishment for the purposes of applying subsection (2),
-- sections 44 to 49, which modify how subsection (2) applies in connection with allowing credit against tax on trade income (as defined in section 44), section 49B, which requires subsection (2) to be applied separately to certain non-trading credits, and[^key-96a698e0e59bc84f0282d423ab281d8b]
+- sections 44 to 49, which modify how subsection (2) applies in connection with allowing credit against tax on trade income (as defined in section 44), section 49B, which requires subsection (2) to be applied separately to certain non-trading credits, and[^c-96a698e0e59bc84f0282d423ab281d8b]
 - sections 50 and 51, which require subsection (2) to be applied as if corporation tax were charged in a modified way on profits of the company for the period from loan relationships and intangible fixed assets.
 
-(5)[^key-64cca77e93b11c0e86d45bfe5716e816] See also section 49A which contains an additional limit on credit allowed in certain cases involving CFCs.
+(5)[^c-64cca77e93b11c0e86d45bfe5716e816] See also section 49A which contains an additional limit on credit allowed in certain cases involving CFCs.
 
 ## Annotations
 
-[^key-ef004bc9ade9cfdc8f48e6e02db113f1]: Modification: Pt. 2 applied by 2010 c. 4, s. 269DL(6) (as inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1))
+[^c-ef004bc9ade9cfdc8f48e6e02db113f1]: Modification: Pt. 2 applied by 2010 c. 4, s. 269DL(6) (as inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1))
 
-[^key-4c03b38f65abc95c14f25aa3ac5bc4e4]: Modification: S. 42 excluded by 2010 c. 4, s. 269DL(8)(a) (as inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1))
+[^c-4c03b38f65abc95c14f25aa3ac5bc4e4]: Modification: S. 42 excluded by 2010 c. 4, s. 269DL(8)(a) (as inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1))
 
-[^key-96a698e0e59bc84f0282d423ab281d8b]: Textual amendment: Words in s. 42(4) substituted (with effect in accordance with s. 292(9)(10) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 292(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/292/6)
+[^c-96a698e0e59bc84f0282d423ab281d8b]: Textual amendment: Words in s. 42(4) substituted (with effect in accordance with s. 292(9)(10) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 292(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/292/6)
 
-[^key-64cca77e93b11c0e86d45bfe5716e816]: Textual amendment: S. 42(5) inserted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 12](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/12), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)
+[^c-64cca77e93b11c0e86d45bfe5716e816]: Textual amendment: S. 42(5) inserted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 12](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/12), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)

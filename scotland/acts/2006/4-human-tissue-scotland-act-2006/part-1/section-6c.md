@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6C. Withdrawal of opt-out declaration: adult[^key-35e62c4a675da8804f8bc273faa8dfa2]
+## 6C. Withdrawal of opt-out declaration: adult[^c-35e62c4a675da8804f8bc273faa8dfa2]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35e62c4a675da8804f8bc273faa8dfa2]: Textual amendment: Ss. 6B, 6C inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 6](https://www.legislation.gov.uk/asp/2019/11/section/6), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-35e62c4a675da8804f8bc273faa8dfa2]: Textual amendment: Ss. 6B, 6C inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 6](https://www.legislation.gov.uk/asp/2019/11/section/6), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

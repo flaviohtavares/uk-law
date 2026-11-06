@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Maintenance grant –eligible students who are 2010 cohort students or 2012 cohort students[^key-75368902f995106e5e19f48a8525e0e6]
+## 36. Maintenance grant –eligible students who are 2010 cohort students or 2012 cohort students[^c-75368902f995106e5e19f48a8525e0e6]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75368902f995106e5e19f48a8525e0e6]: Commencement: Reg. 36 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-75368902f995106e5e19f48a8525e0e6]: Commencement: Reg. 36 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

@@ -16,64 +16,64 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4[^key-6879be746997a4233e1726ce46f917dc]
+## SCHEDULE 4[^c-6879be746997a4233e1726ce46f917dc]
 
 *Extent: E+W+S*
 
 Regulation 19
 
-### PART I — applicable amounts of persons in residential care and nursing homes[^key-6879be746997a4233e1726ce46f917dc]
+### PART I — applicable amounts of persons in residential care and nursing homes[^c-6879be746997a4233e1726ce46f917dc]
 
 **No longer in force.**
 
-**1.**[^key-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Residential care homes[^key-6879be746997a4233e1726ce46f917dc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 7. Nursing homes[^key-6879be746997a4233e1726ce46f917dc]
+#### 6. Residential care homes[^c-6879be746997a4233e1726ce46f917dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 12. Circumstances in which the maximum is not to apply[^key-6879be746997a4233e1726ce46f917dc]
+#### 7. Nursing homes[^c-6879be746997a4233e1726ce46f917dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Personal allowances[^key-6879be746997a4233e1726ce46f917dc]
+**8.**[^c-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 12. Circumstances in which the maximum is not to apply[^c-6879be746997a4233e1726ce46f917dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — persons to whom regulation 19 does not apply[^key-6879be746997a4233e1726ce46f917dc]
+#### 13. Personal allowances[^c-6879be746997a4233e1726ce46f917dc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART II — persons to whom regulation 19 does not apply[^c-6879be746997a4233e1726ce46f917dc]
 
 **No longer in force.**
 
-**14.**[^key-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-6879be746997a4233e1726ce46f917dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6879be746997a4233e1726ce46f917dc]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/1987/1967/schedule/4) omitted (8.4.2002) by virtue of [The Social Security Amendment (Residential Care and Nursing Homes) Regulations 2001 (S.I. 2001/3767)](https://www.legislation.gov.uk/uksi/2001/3767), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3767/regulation/1), [Sch. Pt. I para. 16](https://www.legislation.gov.uk/uksi/2001/3767/schedule/part/I/paragraph/16)
+[^c-6879be746997a4233e1726ce46f917dc]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/1987/1967/schedule/4) omitted (8.4.2002) by virtue of [The Social Security Amendment (Residential Care and Nursing Homes) Regulations 2001 (S.I. 2001/3767)](https://www.legislation.gov.uk/uksi/2001/3767), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3767/regulation/1), [Sch. Pt. I para. 16](https://www.legislation.gov.uk/uksi/2001/3767/schedule/part/I/paragraph/16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Acquisition of wayleaves, easements and other rights[^key-0c1af761a17d8437cb17043fad44d352]
+## 34. Acquisition of wayleaves, easements and other rights[^c-0c1af761a17d8437cb17043fad44d352]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 12 (acquisition of wayleaves, easements and other rights) has effect.
 
 ## Annotations
 
-[^key-0c1af761a17d8437cb17043fad44d352]: Commencement: Art. 34 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-0c1af761a17d8437cb17043fad44d352]: Commencement: Art. 34 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

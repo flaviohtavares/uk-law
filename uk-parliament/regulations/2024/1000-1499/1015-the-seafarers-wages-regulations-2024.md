@@ -54,13 +54,13 @@ In accordance with section 4(9) of the Act, the Secretary of State in making the
 
 ## Part 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-1074991dfdac02557601320b768689fd]
+### 1. Citation, commencement and extent[^c-1074991dfdac02557601320b768689fd]
 
 (1) These Regulations may be cited as the Seafarers’ Wages Regulations 2024 and come into force on 1st December 2024.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-b2b2c9a30bbfc9f105c04c2a9a5ffaab]
+### 2. Interpretation[^c-b2b2c9a30bbfc9f105c04c2a9a5ffaab]
 
 In these Regulations—
 
@@ -94,11 +94,11 @@ In these Regulations—
 - “**UK additional remuneration**” has the meaning given in regulation 19;
 - “**unmeasured work**” has the meaning given in regulation 50.
 
-### 3. Relevant year[^key-2ce85ab6dbfaafbe167f9375fbf835be]
+### 3. Relevant year[^c-2ce85ab6dbfaafbe167f9375fbf835be]
 
 The first relevant year begins on 1st December 2024[^f00007].
 
-### 4. Harbour and harbour authority[^key-df11483a964e9849331872013eebde79]
+### 4. Harbour and harbour authority[^c-df11483a964e9849331872013eebde79]
 
 (1) Where there is more than one harbour authority in respect of a harbour, the harbour authority in respect of the harbour for the purposes of the Act and these Regulations is the harbour authority responsible for the berth at which ships[^f00008] providing the relevant service dock.
 
@@ -106,14 +106,14 @@ The first relevant year begins on 1st December 2024[^f00007].
 
 ## Part 2 — Declarations, surcharges and refusal of access
 
-### 5. Declarations[^key-911c1e5c83e665eb1a130f26be628355]
+### 5. Declarations[^c-911c1e5c83e665eb1a130f26be628355]
 
 (1) A harbour authority which is required to request an equivalence declaration[^f00009] must do so within the period of 28 days beginning with the day specified in paragraph (2).
 
 (2) For the purposes of paragraph (1), the day specified is whichever is the later of—
 
 - (a) the day on which the harbour authority has reasonable grounds to believe that ships providing a relevant service will enter, or have entered, its harbour on at least 120 occasions during a relevant year;
-- (b) the first day of[^key-a67bbc5cb828f615e7bd984630bb6714] the relevant year to which the request relates.
+- (b) the first day of[^c-a67bbc5cb828f615e7bd984630bb6714] the relevant year to which the request relates.
 
 (3) A request for an equivalence declaration must include the date on which it is sent.
 
@@ -122,7 +122,7 @@ The first relevant year begins on 1st December 2024[^f00007].
 - (a) within the period of three months beginning with the date of the request from the harbour authority, and
 - (b) in the form prescribed in Schedule 1.
 
-### 6. Notification of the imposition of a surcharge[^key-c7c949c0e15927eb18d9504800146aa2]
+### 6. Notification of the imposition of a surcharge[^c-c7c949c0e15927eb18d9504800146aa2]
 
 (1) A harbour authority which imposes a surcharge[^f00010] must send a surcharge notification to the operator of the service within the period of 14 days beginning with the day on which the duty to impose the surcharge arises.
 
@@ -152,15 +152,15 @@ The first relevant year begins on 1st December 2024[^f00007].
 
 (8) In this regulation, “**payment deadline**” means the last day within the period specified in regulation 8 (period for payment of surcharges).
 
-### 7. Tariff of surcharges[^key-840667bdb4ec6cdd21884e926e05f92b]
+### 7. Tariff of surcharges[^c-840667bdb4ec6cdd21884e926e05f92b]
 
 A harbour authority which imposes a surcharge must impose a surcharge according to the tariff[^f00011] prescribed in Schedule 2.
 
-### 8. Period for payment of surcharges[^key-c59f411726cffbee1e7d2196f2e4669c]
+### 8. Period for payment of surcharges[^c-c59f411726cffbee1e7d2196f2e4669c]
 
 An operator must pay each surcharge to which the surcharge notification relates within the period of 60 days beginning with the day after the day on which the surcharge notification was given.
 
-### 9. Publication of surcharges[^key-7ea733de1ddbfaa23249bda83489b5f9]
+### 9. Publication of surcharges[^c-7ea733de1ddbfaa23249bda83489b5f9]
 
 (1) The Secretary of State must publish on the gov.uk website the information in paragraph (2).
 
@@ -173,7 +173,7 @@ An operator must pay each surcharge to which the surcharge notification relates 
 
 (3) The information must be published within a reasonable time after it is notified to the Secretary of State.
 
-### 10. Time limit for objections to surcharges[^key-e779bcb234b6737ba65e4830ffa16620]
+### 10. Time limit for objections to surcharges[^c-e779bcb234b6737ba65e4830ffa16620]
 
 (1) Paragraph (2) applies to an objection by an operator who is an interested party[^f00012] and on whom a surcharge has been imposed.
 
@@ -185,7 +185,7 @@ An operator must pay each surcharge to which the surcharge notification relates 
 
 (5) The Secretary of State may extend the time limits in this regulation if satisfied that there are good reasons for doing so.
 
-### 11. Notification of non-payment of surcharge to the Secretary of State[^key-c9a89786d5ee8a005678897ce8375512]
+### 11. Notification of non-payment of surcharge to the Secretary of State[^c-c9a89786d5ee8a005678897ce8375512]
 
 (1) Paragraph (2) applies where—
 
@@ -202,7 +202,7 @@ An operator must pay each surcharge to which the surcharge notification relates 
 - (a) the name of the operator to whom the surcharge notification has been given;
 - (b) the date and time from which ships providing the service to which the surcharge relates are to be refused access to the harbour until the surcharge is paid.
 
-### 12. Notification of refusal of access[^key-5c82db3b20be0ed772adf76a0099d943]
+### 12. Notification of refusal of access[^c-5c82db3b20be0ed772adf76a0099d943]
 
 (1) Paragraph (2) applies where—
 
@@ -234,26 +234,26 @@ An operator must pay each surcharge to which the surcharge notification relates 
 
 ## Part 3 — Pay reference period and national minimum wage equivalent
 
-### 13. Pay reference period[^key-4d76abe45bf199105e5eb957fab41428]
+### 13. Pay reference period[^c-4d76abe45bf199105e5eb957fab41428]
 
 A pay reference period is a month, or in the case of a seafarer who is paid wages by reference to a period shorter than a month, that period.
 
-### 14. The national minimum wage equivalent[^key-9cb8c4bdc87c5fe15c5f6efeeedb6be5]
+### 14. The national minimum wage equivalent[^c-9cb8c4bdc87c5fe15c5f6efeeedb6be5]
 
 (1) The hourly rate for the purposes of the national minimum wage equivalent is—
 
-- (a) £12.71[^key-d46322b646dc322ae514bdf87a2a1e1a] for a seafarer who is aged 21 years or over;
-- (b) £10.85[^key-4e2a73d143d0c69af15a45e902619d10] for a seafarer who is aged 18 years or over (but is not yet aged 21 years);
-- (c) £8.00[^key-70691b225ddfb00f7e6598962b8d4f1f] for a seafarer who is aged under 18 years;
-- (d) £8.00[^key-cfff0ea0f8a08881b354c6d5376f5139] for a seafarer to whom the apprenticeship rate applies, as determined in accordance with regulation 16 (determining whether the apprenticeship rate applies).
+- (a) £12.71[^c-d46322b646dc322ae514bdf87a2a1e1a] for a seafarer who is aged 21 years or over;
+- (b) £10.85[^c-4e2a73d143d0c69af15a45e902619d10] for a seafarer who is aged 18 years or over (but is not yet aged 21 years);
+- (c) £8.00[^c-70691b225ddfb00f7e6598962b8d4f1f] for a seafarer who is aged under 18 years;
+- (d) £8.00[^c-cfff0ea0f8a08881b354c6d5376f5139] for a seafarer to whom the apprenticeship rate applies, as determined in accordance with regulation 16 (determining whether the apprenticeship rate applies).
 
 (2) If the rate in paragraph (1)(d) applies to a seafarer, the rates in paragraph (1)(a) to (c) of this regulation do not apply to that seafarer.
 
-### 15. Determining the applicable national minimum wage equivalent[^key-1191d9675b2d4fcf53cd34734d31b50f]
+### 15. Determining the applicable national minimum wage equivalent[^c-1191d9675b2d4fcf53cd34734d31b50f]
 
 The national minimum wage equivalent applicable to a seafarer as respects their hours of UK work in a pay reference period is the rate which would apply to the seafarer on the first day of that period.
 
-### 16. Determining whether the apprenticeship rate applies[^key-a179adde9d2fac9f5a985cb16bddf584]
+### 16. Determining whether the apprenticeship rate applies[^c-a179adde9d2fac9f5a985cb16bddf584]
 
 (1) The apprenticeship rate applies to a seafarer—
 
@@ -272,17 +272,17 @@ The national minimum wage equivalent applicable to a seafarer as respects their 
 (4) In this regulation, “**Government arrangements**” means—
 
 - (a) in England, arrangements made by the Secretary of State under section 2 of the Employment and Training Act 1973[^f00015] or section 17B of the Jobseekers Act 1995[^f00016];
-- (b) in Wales, arrangements made by the Secretary of State or the Welsh Ministers under section 2 of the Employment and Training Act 1973, by the Secretary of State under section 17B of the Jobseekers Act 1995 or by the Commission for Tertiary Education and Research under sections 89(3), 93, 95 or 97 of the Tertiary Education and Research (Wales) Act 2022 or section 65 of the Further and Higher Education Act 1992[^key-48b312394631a31d4b45a91c3ffb7982];
+- (b) in Wales, arrangements made by the Secretary of State or the Welsh Ministers under section 2 of the Employment and Training Act 1973, by the Secretary of State under section 17B of the Jobseekers Act 1995 or by the Commission for Tertiary Education and Research under sections 89(3), 93, 95 or 97 of the Tertiary Education and Research (Wales) Act 2022 or section 65 of the Further and Higher Education Act 1992[^c-48b312394631a31d4b45a91c3ffb7982];
 - (c) in Scotland, arrangements made by the Secretary of State or the Scottish Ministers under section 2 of the Employment and Training Act 1973 or by Scottish Enterprise or Highlands and Islands Enterprise under section 2 of the Enterprise and New Towns (Scotland) Act 1990[^f00018];
 - (d) in Northern Ireland, arrangements made by the Department for Employment and Learning under section 1 of the Employment and Training Act (Northern Ireland) 1950[^f00019].
 
 ## Part 4 — Calculation of the hourly rate
 
-### 17. Calculation to determine whether the national minimum wage equivalent has been paid[^key-7e78417688d3a7ffb2e21bc26dc7d408]
+### 17. Calculation to determine whether the national minimum wage equivalent has been paid[^c-7e78417688d3a7ffb2e21bc26dc7d408]
 
 In order to determine whether a seafarer has been paid at a rate which is at least equal to the national minimum wage equivalent, the seafarer’s remuneration for their hours of UK work is to be calculated by adding the basic rate, and the UK additional rate, applicable to them.
 
-### 18. Calculation to determine the basic rate[^key-64cfa22afcfea47495991bddb2bc08f6]
+### 18. Calculation to determine the basic rate[^c-64cfa22afcfea47495991bddb2bc08f6]
 
 A seafarer’s basic rate in a payment reference period is determined by the calculation—
 
@@ -291,7 +291,7 @@ A seafarer’s basic rate in a payment reference period is determined by the cal
   - “**basic remuneration**” is the basic remuneration in the pay reference period determined in accordance with Part 5;
   - “**total hours of work**” are the total hours of work in the pay reference period determined in accordance with Chapters 4 to 7 of Part 6.
 
-### 19. Calculation to determine the UK additional rate[^key-2e43ca77ce6b490cfc2e6fbfdbae8ad6]
+### 19. Calculation to determine the UK additional rate[^c-2e43ca77ce6b490cfc2e6fbfdbae8ad6]
 
 Any UK additional rate in a payment reference period is determined by the calculation—
 
@@ -304,7 +304,7 @@ Any UK additional rate in a payment reference period is determined by the calcul
 
 ### Chapter 1 — Basic and additional remuneration in a pay reference period
 
-#### 20. Basic remuneration in a pay reference period[^key-c631011ca98738141de744416856671a]
+#### 20. Basic remuneration in a pay reference period[^c-c631011ca98738141de744416856671a]
 
 In regulation 18, the basic remuneration in the pay reference period is determined by the calculation—
 
@@ -313,7 +313,7 @@ In regulation 18, the basic remuneration in the pay reference period is determin
   - “**basic payments**” are the payments from the employer to the seafarer which form part of a seafarer’s basic remuneration as respects the pay reference period, determined in accordance with Chapter 2;
   - “**basic reductions**” are the reductions which reduce a seafarer’s basic remuneration determined in accordance with Chapter 3.
 
-#### 21. UK additional remuneration in a pay reference period[^key-2a40e2217220b1cffe37ef56ef09216f]
+#### 21. UK additional remuneration in a pay reference period[^c-2a40e2217220b1cffe37ef56ef09216f]
 
 In regulation 19, any UK additional remuneration in the pay reference period is determined by the calculation—
 
@@ -324,7 +324,7 @@ In regulation 19, any UK additional remuneration in the pay reference period is 
 
 ### Chapter 2 — Payments from the employer to the seafarer
 
-#### 22. Payments as respects the pay reference period[^key-60bbd3332af1941cddacb363f2bf8fa4]
+#### 22. Payments as respects the pay reference period[^c-60bbd3332af1941cddacb363f2bf8fa4]
 
 (1) The following payments, except as provided in regulation 25, are to be treated as payments by the employer to the seafarer as respects the pay reference period—
 
@@ -334,18 +334,18 @@ In regulation 19, any UK additional remuneration in the pay reference period is 
 
 (2) Payments paid by the employer to the seafarer in the pay reference period as respects a previous pay reference period are not to be treated as payments as respects the pay reference period in which they are paid.
 
-#### 23. Payments which form part of a seafarer’s UK additional remuneration[^key-113432ccbbc590a41c1aec5c684e08b9]
+#### 23. Payments which form part of a seafarer’s UK additional remuneration[^c-113432ccbbc590a41c1aec5c684e08b9]
 
 Payments which fall within regulation 22 form part of a seafarer’s UK additional remuneration where they are—
 
 - (a) only attributable to hours of UK work, and
 - (b) would not be paid to the seafarer if the hours of work were not hours of UK work.
 
-#### 24. Payments which form part of a seafarer’s basic remuneration[^key-1b61b7e1d005632227c814160000f8fe]
+#### 24. Payments which form part of a seafarer’s basic remuneration[^c-1b61b7e1d005632227c814160000f8fe]
 
 Payments which fall within regulation 22 which do not form part of a seafarer’s UK additional remuneration form part of a seafarer’s basic remuneration.
 
-#### 25. Payments and benefits in kind which do not form part of a seafarer’s remuneration[^key-dc1dc79cdd1da9914172da2902ff3fd5]
+#### 25. Payments and benefits in kind which do not form part of a seafarer’s remuneration[^c-dc1dc79cdd1da9914172da2902ff3fd5]
 
 The following payments and benefits in kind do not form part of a seafarer’s basic or UK additional remuneration—
 
@@ -373,25 +373,25 @@ The following payments and benefits in kind do not form part of a seafarer’s b
 
 ### Chapter 3 — Reductions
 
-#### 26. Determining the total reductions which reduce a seafarer’s remuneration[^key-baf377101e4996f7b3a886fd6a15c2c1]
+#### 26. Determining the total reductions which reduce a seafarer’s remuneration[^c-baf377101e4996f7b3a886fd6a15c2c1]
 
 (1) ”Total reductions” are the total reductions in the pay reference period, determined by adding together all of the payments or deductions treated as reductions in that period in accordance with this Chapter.
 
 (2) To the extent that any payment or deduction is required to be treated as a reduction by virtue of more than one provision in this Chapter, it is to be counted only once.
 
-#### 27. Determining the reductions which reduce a seafarer’s basic remuneration[^key-ff42acffa43715a4a628d296c46dfcd3]
+#### 27. Determining the reductions which reduce a seafarer’s basic remuneration[^c-ff42acffa43715a4a628d296c46dfcd3]
 
 In regulation 20, the reductions which reduce the seafarer’s basic remuneration in the pay reference period are determined by the calculation—
 
 - total reductions x (total hours of work / (total hours of work + hours of UK work)).
 
-#### 28. Determining the reductions which reduce a seafarer’s UK additional remuneration[^key-b2353c82de0dc0df9c70ccbf31a5bb49]
+#### 28. Determining the reductions which reduce a seafarer’s UK additional remuneration[^c-b2353c82de0dc0df9c70ccbf31a5bb49]
 
 In regulation 21, the reductions which reduce the seafarer’s UK additional remuneration in the pay reference period are determined by the calculation—
 
 - total reductions x (hours of UK work / (total hours of work + hours of UK work)).
 
-#### 29. Deductions or payments for the employer’s or operator’s own use and benefit[^key-5f8b7750340d4a2671cabf28c6580229]
+#### 29. Deductions or payments for the employer’s or operator’s own use and benefit[^c-5f8b7750340d4a2671cabf28c6580229]
 
 (1) Deductions made by the employer in the pay reference period, or payments due from the seafarer to the employer or operator in the pay reference period, for the employer’s or operator’s own use and benefit are treated as reductions except as specified in paragraph (2).
 
@@ -405,7 +405,7 @@ In regulation 21, the reductions which reduce the seafarer’s UK additional rem
   - (i) the purchase is made in order to comply with a requirement imposed by the employer or operator in connection with the seafarer’s employment, and
   - (ii) the payment is not met, or not intended to be met, by a payment paid to the seafarer by the employer or operator.
 
-#### 30. Deductions or payments as respects a seafarer’s expenditure or living accommodation[^key-928d65658517a74abb712990ede0c806]
+#### 30. Deductions or payments as respects a seafarer’s expenditure or living accommodation[^c-928d65658517a74abb712990ede0c806]
 
 (1) The following deductions are to be treated as reductions if the deduction is made by the employer in the pay reference period—
 
@@ -424,7 +424,7 @@ In regulation 21, the reductions which reduce the seafarer’s UK additional rem
 
 ### Chapter 4 — Determining the hours of work
 
-#### 31. Total hours of work for determining the basic rate[^key-974a54edce8d8aab9fd2417eeffaf244]
+#### 31. Total hours of work for determining the basic rate[^c-974a54edce8d8aab9fd2417eeffaf244]
 
 In regulation 18 (calculation to determine the basic rate), the total hours of work in the pay reference period are the hours worked or treated as worked by the seafarer in the pay reference period as determined—
 
@@ -432,11 +432,11 @@ In regulation 18 (calculation to determine the basic rate), the total hours of w
 - (b) for time work, in accordance with Chapter 6;
 - (c) for unmeasured work, in accordance with Chapter 7.
 
-#### 32. Hours of work for determining the UK additional rate[^key-5cd554af63f9fa64374802ed36196924]
+#### 32. Hours of work for determining the UK additional rate[^c-5cd554af63f9fa64374802ed36196924]
 
 In regulation 19 (calculation to determine the UK additional rate), the hours of UK work in the pay reference period are the hours worked or treated as worked by the seafarer in the pay reference period as determined in accordance with Chapter 8.
 
-#### 33. Hours spent training[^key-5d96ee386df53c8968297b26e447854a]
+#### 33. Hours spent training[^c-5d96ee386df53c8968297b26e447854a]
 
 (1) In this Part, references to “training” include hours when the seafarer is—
 
@@ -446,7 +446,7 @@ In regulation 19 (calculation to determine the UK additional rate), the hours of
 
 (2) In paragraph (1), hours when the seafarer would “otherwise be working” include any hours when the seafarer is attending at a place or travelling where it is uncertain whether the seafarer would otherwise be working because the seafarer’s hours of work vary either as to their length or in respect of the time at which they are performed.
 
-#### 34. Hours spent travelling[^key-23deecd31fb63053dba3090d32dc86bb]
+#### 34. Hours spent travelling[^c-23deecd31fb63053dba3090d32dc86bb]
 
 In this Part, references to “travelling” include hours when the seafarer is—
 
@@ -457,7 +457,7 @@ In this Part, references to “travelling” include hours when the seafarer is�
 
 ### Chapter 5 — Salaried hours work
 
-#### 35. The meaning of salaried hours work[^key-f95f73dc40345e75d0d6ba4e9c299769]
+#### 35. The meaning of salaried hours work[^c-f95f73dc40345e75d0d6ba4e9c299769]
 
 (1) “**Salaried hours work**” is work which is done under a seafarer’s contract and which meets the conditions in paragraphs (2) to (5) of this regulation.
 
@@ -515,7 +515,7 @@ In this Part, references to “travelling” include hours when the seafarer is�
   - (vi) on a particular task;
   - (vii) subject to a particular responsibility.
 
-#### 36. The meaning of calculation year[^key-698f6fda7b52959d8b9b5ee6599d2dd9]
+#### 36. The meaning of calculation year[^c-698f6fda7b52959d8b9b5ee6599d2dd9]
 
 (1) In this Chapter, “**calculation year**” has the meaning given in the following paragraphs.
 
@@ -533,7 +533,7 @@ In this Part, references to “travelling” include hours when the seafarer is�
 - (a) the year beginning with the first day of the employment;
 - (b) in each subsequent year, a year beginning on an anniversary of that day.
 
-#### 37. Determining the basic hours in the calculation year[^key-a5f2e01bdebb76aa964ff0a0544d4e54]
+#### 37. Determining the basic hours in the calculation year[^c-a5f2e01bdebb76aa964ff0a0544d4e54]
 
 (1) In this Chapter, the basic hours in a calculation year are determined in accordance with the following paragraphs.
 
@@ -556,7 +556,7 @@ In this Part, references to “travelling” include hours when the seafarer is�
   - “**D**”means the number of days in the period;
   - “**H**”means the basic hours in the calculation year which have effect in that period.
 
-#### 38. Determining total hours of salaried hours work in a pay reference period[^key-0852b6bd6e42ff1d1237dc72061abd64]
+#### 38. Determining total hours of salaried hours work in a pay reference period[^c-0852b6bd6e42ff1d1237dc72061abd64]
 
 (1) The total hours of salaried hours work in a pay reference period are to be calculated in accordance with the following paragraphs.
 
@@ -582,7 +582,7 @@ In this Part, references to “travelling” include hours when the seafarer is�
 - (a) the employment terminates before the end of the calculation year, or
 - (b) the contract is varied before the end of the calculation year so that it is no longer a contract for salaried hours work.
 
-#### 39. Absences from work to be reduced from the total hours of salaried hours work in a pay reference period[^key-f3743ee2e23b46dc6e39b27b8a8733fa]
+#### 39. Absences from work to be reduced from the total hours of salaried hours work in a pay reference period[^c-f3743ee2e23b46dc6e39b27b8a8733fa]
 
 (1) The hours a seafarer is absent from work are to be subtracted from the total hours of salaried hours work in a pay reference period if all of the following conditions are met—
 
@@ -591,7 +591,7 @@ In this Part, references to “travelling” include hours when the seafarer is�
 
 (2) The hours during which a seafarer takes industrial action are to be subtracted from the total hours of salaried hours work in a pay reference period if an annual salary was payable for those hours, or would have been payable but for the industrial action.
 
-#### 40. Determining whether a seafarer works excess hours[^key-3ec64504afc0f83cdbcd0dee0dd99b5e]
+#### 40. Determining whether a seafarer works excess hours[^c-3ec64504afc0f83cdbcd0dee0dd99b5e]
 
 (1) For the purposes of this regulation and regulations 38(8) and 42, a seafarer works excess hours if all of the following hours added together exceed the basic hours in a calculation year—
 
@@ -604,7 +604,7 @@ In this Part, references to “travelling” include hours when the seafarer is�
 
 (3) In this Chapter references to “excess hours” are to be construed in accordance with paragraphs (1) and (2).
 
-#### 41. Hours treated as worked for the purpose of determining whether a seafarer works excess hours[^key-dfe7aca3f4b16a3d51252d40f4295ede]
+#### 41. Hours treated as worked for the purpose of determining whether a seafarer works excess hours[^c-dfe7aca3f4b16a3d51252d40f4295ede]
 
 (1) The hours listed in paragraph (2) are treated as worked—
 
@@ -626,7 +626,7 @@ In this Part, references to “travelling” include hours when the seafarer is�
 - (a) hours when the seafarer is travelling for the purpose of carrying out assignments to be carried out at different places between which the seafarer is obliged to travel, and which are not places occupied by the employer or operator;
 - (b) hours when the seafarer is travelling where it is uncertain whether the seafarer would otherwise be working because the seafarer’s hours of work vary either as to their length or in respect of the time at which they are performed.
 
-#### 42. Determining total hours of salaried hours work if a seafarer works excess hours[^key-4fa642007711e825b7f2555b389f9ad2]
+#### 42. Determining total hours of salaried hours work if a seafarer works excess hours[^c-4fa642007711e825b7f2555b389f9ad2]
 
 (1) Paragraph (2) applies to the first pay reference period in a calculation year during which—
 
@@ -657,7 +657,7 @@ In this Part, references to “travelling” include hours when the seafarer is�
 
 (6) Regulation 39 (absences from work) does not apply to the calculation in paragraph (5)(a).
 
-#### 43. Total hours of salaried hours work if the employment terminates or contract is varied[^key-9606ec4d60f3ed09f21ce8d1548dcf64]
+#### 43. Total hours of salaried hours work if the employment terminates or contract is varied[^c-9606ec4d60f3ed09f21ce8d1548dcf64]
 
 (1) Where the employment terminates before the end of a calculation year the total hours of salaried hours work in the final pay reference period are calculated in accordance with the following paragraphs.
 
@@ -679,25 +679,25 @@ In this Part, references to “travelling” include hours when the seafarer is�
 
 ### Chapter 6 — Time work
 
-#### 44. The meaning of time work[^key-77797254d1afa6f8f4665905161f939f]
+#### 44. The meaning of time work[^c-77797254d1afa6f8f4665905161f939f]
 
 Time work is work, other than salaried hours work, in respect of which a seafarer is entitled under their contract to be paid by reference to the time worked by the seafarer.
 
-#### 45. Determining total hours of time work in a pay reference period[^key-d2c3c55514880f734432e151609f7c30]
+#### 45. Determining total hours of time work in a pay reference period[^c-d2c3c55514880f734432e151609f7c30]
 
 The total hours of time work in a pay reference period are the total number of hours of time work worked by the seafarer or treated under this Chapter as hours of time work in that period.
 
-#### 46. Time work where seafarer is available at or near a place of work[^key-8b470dca358f7ec77f561cd1c0af175e]
+#### 46. Time work where seafarer is available at or near a place of work[^c-8b470dca358f7ec77f561cd1c0af175e]
 
 (1) Time work includes hours when a seafarer is available, and required to be available, at or near a place of work for the purposes of working unless the seafarer is at home.
 
 (2) In paragraph (1), hours when a seafarer is “available” only includes hours when the seafarer is awake for the purposes of working, even if a seafarer by arrangement sleeps at or near a place of work and the employer or operator provides suitable facilities for sleeping.
 
-#### 47. Training treated as hours of time work[^key-acd5640bbe2e5305ccb9d05439cc08e2]
+#### 47. Training treated as hours of time work[^c-acd5640bbe2e5305ccb9d05439cc08e2]
 
 The hours a seafarer spends training, when the seafarer would otherwise be doing time work, are treated as hours of time work.
 
-#### 48. Travelling treated as hours of time work[^key-feb9f15a00f661d1d8336295f5c83882]
+#### 48. Travelling treated as hours of time work[^c-feb9f15a00f661d1d8336295f5c83882]
 
 (1) The hours when a seafarer is travelling for the purposes of time work, where the seafarer would otherwise be working, are treated as hours of time work unless the travelling is between—
 
@@ -709,7 +709,7 @@ The hours a seafarer spends training, when the seafarer would otherwise be doing
 - (a) hours when the seafarer is travelling for the purpose of carrying out assignments to be carried out at different places between which the seafarer is obliged to travel, and which are not places occupied by the employer or operator;
 - (b) hours when the seafarer is travelling where it is uncertain whether the seafarer would otherwise be working because the seafarer’s hours of work vary either as to their length or in respect of the time at which they are performed.
 
-#### 49. Hours not treated as time work[^key-49de8b8d257f5c3945cd861b88c0e8fc]
+#### 49. Hours not treated as time work[^c-49de8b8d257f5c3945cd861b88c0e8fc]
 
 (1) The hours a seafarer is absent from work are not treated as hours of time work, except as specified in regulations 46 to 48.
 
@@ -721,25 +721,25 @@ The hours a seafarer spends training, when the seafarer would otherwise be doing
 
 ### Chapter 7 — Unmeasured work
 
-#### 50. The meaning of unmeasured work[^key-dfbcf4ddf73fdb8ad61d9d563253829c]
+#### 50. The meaning of unmeasured work[^c-dfbcf4ddf73fdb8ad61d9d563253829c]
 
 Unmeasured work is any other work that is not time work or salaried hours work.
 
-#### 51. Determining total hours of unmeasured work in a pay reference period[^key-7c70141ea606ca5d8cef5b5de089973e]
+#### 51. Determining total hours of unmeasured work in a pay reference period[^c-7c70141ea606ca5d8cef5b5de089973e]
 
 The total hours of unmeasured work in a pay reference period are the total number of hours of unmeasured work worked or treated under this Chapter as hours of unmeasured work in that period.
 
-#### 52. Unmeasured work where seafarer is available at or near a place of work[^key-77f72b7f7d8e46fdab9f16c6a33658c7]
+#### 52. Unmeasured work where seafarer is available at or near a place of work[^c-77f72b7f7d8e46fdab9f16c6a33658c7]
 
 (1) Unmeasured work includes hours when a seafarer is available, and required to be available, at or near a place of work for the purposes of working unless the seafarer is at home.
 
 (2) In paragraph (1), hours when a seafarer is “available” only includes hours when the seafarer is awake for the purposes of working, even if a seafarer by arrangement sleeps at or near a place of work and the employer or operator provides suitable facilities for sleeping.
 
-#### 53. Training treated as hours of unmeasured work[^key-fed629724b35bd1abd55d70d73fcbfa1]
+#### 53. Training treated as hours of unmeasured work[^c-fed629724b35bd1abd55d70d73fcbfa1]
 
 The hours when a seafarer is training, where the seafarer would otherwise be doing unmeasured work, are to be treated as hours of unmeasured work.
 
-#### 54. Travelling treated as hours of unmeasured work[^key-004a8c860b37362600dc3c0b220e337f]
+#### 54. Travelling treated as hours of unmeasured work[^c-004a8c860b37362600dc3c0b220e337f]
 
 (1) The hours when a seafarer is travelling for the purposes of unmeasured work, where the seafarer would otherwise be working, are to be treated as hours of unmeasured work unless the travelling is between—
 
@@ -751,7 +751,7 @@ The hours when a seafarer is training, where the seafarer would otherwise be doi
 - (a) hours when the seafarer is travelling for the purpose of carrying out assignments to be carried out at different places between which the seafarer is obliged to travel, and which are not places occupied by the employer or operator;
 - (b) hours when the seafarer is travelling where it is uncertain whether the seafarer would otherwise be working because the seafarer’s hours of work vary either as to their length or in respect of the time at which they are performed.
 
-#### 55. Hours not treated as unmeasured work[^key-4327db808af708daa148db445edf758b]
+#### 55. Hours not treated as unmeasured work[^c-4327db808af708daa148db445edf758b]
 
 (1) The hours a seafarer is absent from work are not treated as hours of unmeasured work, except as specified in regulations 52 to 54.
 
@@ -763,21 +763,21 @@ The hours when a seafarer is training, where the seafarer would otherwise be doi
 
 ### Chapter 8 — Hours of UK work
 
-#### 56. Determining hours of UK work in a pay reference period[^key-7fe4655fcdc9f61c8f2b659d5dce6e48]
+#### 56. Determining hours of UK work in a pay reference period[^c-7fe4655fcdc9f61c8f2b659d5dce6e48]
 
 The hours of UK work in a pay reference period are the total number of hours of UK work in relation to a relevant service which are worked by the seafarer or treated under this Chapter as hours of UK work in that period.
 
-#### 57. Hours of UK work where seafarer is available at or near place of work[^key-d5370acded0b30dea8488d0aca4be810]
+#### 57. Hours of UK work where seafarer is available at or near place of work[^c-d5370acded0b30dea8488d0aca4be810]
 
 (1) Hours of UK work includes hours when a seafarer is available, and required to be available, at or near a place of work for the purposes of doing UK work[^f00022] unless the seafarer is at home.
 
 (2) In paragraph (1), hours when a seafarer is “available” only includes hours when the seafarer is awake for the purposes of working, even if a seafarer by arrangement sleeps at or near a place of work and the employer or operator provides suitable facilities for sleeping.
 
-#### 58. Training treated as hours of UK work[^key-6da8b2c25db3848e3da6cb053b083c4b]
+#### 58. Training treated as hours of UK work[^c-6da8b2c25db3848e3da6cb053b083c4b]
 
 The hours a seafarer spends training, when the seafarer would otherwise be doing UK work, are treated as hours of UK work.
 
-#### 59. Travelling treated as hours of UK work[^key-180aca2f85967fcaae4294f967a57525]
+#### 59. Travelling treated as hours of UK work[^c-180aca2f85967fcaae4294f967a57525]
 
 (1) The hours when a seafarer is travelling for the purposes of UK work, where the seafarer would otherwise be doing UK work, are treated as hours of UK work unless the travelling is between—
 
@@ -789,7 +789,7 @@ The hours a seafarer spends training, when the seafarer would otherwise be doing
 - (a) hours when the seafarer is travelling for the purpose of carrying out assignments in respect of the relevant service to be carried out at different places between which the seafarer is obliged to travel, and which are not places occupied by the employer or operator;
 - (b) hours when the seafarer is travelling where it is uncertain whether the seafarer would otherwise be doing UK work because the seafarer’s hours of work vary either as to their length or in respect of the time at which they are performed.
 
-#### 60. Hours not treated as hours of UK work[^key-167ef0f916f6f950833526191edfc2ce]
+#### 60. Hours not treated as hours of UK work[^c-167ef0f916f6f950833526191edfc2ce]
 
 (1) The hours a seafarer is absent from work are not treated as hours of UK work, except as specified in regulations 57 to 59.
 
@@ -801,7 +801,7 @@ The hours a seafarer spends training, when the seafarer would otherwise be doing
 
 ## Part 7 — Review
 
-### 61. Review[^key-718ad67f5ca695f95655ec907ca054be]
+### 61. Review[^c-718ad67f5ca695f95655ec907ca054be]
 
 (1) The Secretary of State must from time to time—
 
@@ -833,155 +833,155 @@ Department for Transport
 
 Schedules
 
-## Schedule 1 — National Minimum Wage Equivalence Declaration Form[^key-c56ec4dacefc9a8d2e313564239040d8]
+## Schedule 1 — National Minimum Wage Equivalence Declaration Form[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 Regulation 5
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 **Form \[\*\*\*\]**
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 Place outside of the United Kingdom that the service calls at:
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 **A declaration is to be made pursuant to one only of section 4(2) OR section 4(3) OR section 4(4) OR section 4(5) of the Seafarers’ Wages Act 2023 (“**the Act**”).**
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 **Section 4(2) Declaration**
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 Period to which this declaration applies:
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 \_\_ \_\_\_\_\_\_\_\_\_\_\_\_ 20\_\_\_ to \_\_ \_\_\_\_\_\_\_\_\_\_\_\_ 20\_\_\_
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 Please tick the statement which applies:
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 □ On behalf of the operator of the service, I declare that during the period to which this declaration applies all non-qualifying seafarers, as defined in the Act, who will work on ships which will provide the service will be paid, in respect of their UK work in relation to the service, a rate equivalent to the UK national minimum wage in accordance with the Seafarers' Wages Regulations 2024.
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 □ On behalf of the operator of the service, I declare that during the period to which this declaration applies, there will be no non-qualifying seafarers, as defined in the Act, working on ships providing the service.
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 **Section 4(3) Declaration**
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 Period to which this declaration applies:
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 \_\_ \_\_\_\_\_\_\_\_\_\_\_\_ 20\_\_\_ to 20\_\_
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 Please tick the statement which applies:
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 □ On behalf of the operator of the service, I declare that during the period to which this declaration applies all non-qualifying seafarers, as defined in the Act, working on ships providing the service will be paid, in respect of their UK work in relation to the service, a rate equivalent to the UK national minimum wage in accordance with the Seafarers' Wages Regulations 2024.
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 □ On behalf of the operator of the service, I declare that during the period to which this declaration applies, there will be no non-qualifying seafarers, as defined in the Act, working on ships providing the service.
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 **Section 4(4) Declaration**
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 Period to which this part of this declaration applies:
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 \_\_ \_\_\_\_\_\_\_\_\_\_\_\_ 20\_\_\_ to \_\_ \_\_\_\_\_\_\_\_\_\_\_\_ 20\_\_\_
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 Please tick the statement which applies:
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 □ On behalf of the operator of the service, I declare that during the period to which this part of this declaration applies all non-qualifying seafarers, as defined in the Act, who worked on ships which provided the service were paid, in respect of their UK work in relation to the service, a rate equivalent to the UK national minimum wage in accordance with the Seafarers' Wages Regulations 2024.
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 □ On behalf of the operator of the service, I declare that during the period to which this part of this declaration applies, there were no non-qualifying seafarers, as defined in the Act, working on ships which provided the service
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 and
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 Period to which this part of this declaration applies:
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 \_\_ \_\_\_\_\_\_\_\_\_\_\_\_ 20\_\_\_ to \_\_ \_\_\_\_\_\_\_\_\_\_\_\_ 20\_\_\_
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 Please tick the statement which applies:
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 □ On behalf of the operator of the service, I declare that during the period to which this declaration applies all non-qualifying seafarers, as defined in the Act, working on ships providing the service will be paid, in respect of their UK work in relation to the service, a rate equivalent to the UK national minimum wage in accordance with the Seafarers' Wages Regulations 2024.
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 □ On behalf of the operator of the service, I declare that during the period to which this declaration applies, there will be no non-qualifying seafarers, as defined in the Act, working on ships providing the service.
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 **Section 4(5) Declaration**
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 Period to which this declaration applies:
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 \_\_ \_\_\_\_\_\_\_\_\_\_\_\_ 20\_\_\_ to \_\_ \_\_\_\_\_\_\_\_\_\_\_\_ 20\_\_\_
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 Please tick the statement which applies:
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 □ On behalf of the operator of the service, I declare that during the period to which this declaration applies all non-qualifying seafarers, as defined in the Act, who worked on ships which provided the service were paid, in respect of their UK work in relation to the service, a rate equivalent to the UK national minimum wage in accordance with the Seafarers’ Wages Regulations 2024.
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 □ On behalf of the operator of the service, I declare that during the period to which this declaration applies, there were no non-qualifying seafarers, as defined in the Act, working on ships which provided the service.
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 **Note that, pursuant to section 5 of the Seafarers’ Wages Act 2023, it may be a criminal offence to operate the service inconsistently with this declaration. It may also be a criminal offence to provide a false or misleading declaration in so far as it concerns the operation of the service before the declaration was provided.**
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 Name of person making this declaration on behalf of the operator, and capacity in which they are making this declaration:
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 Signature:
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]
+[^c-c56ec4dacefc9a8d2e313564239040d8]
 
 Date:
 
@@ -989,7 +989,7 @@ Date:
 
 Regulation 7
 
-**1.**[^key-1e5d6d12e9d1cc23cf3f0462252753c4] (1) The rate of surcharge to be imposed per entry to the harbour by a ship providing the service to which the surcharge relates is to be calculated according to the tonnage of the ship as follows—
+**1.**[^c-1e5d6d12e9d1cc23cf3f0462252753c4] (1) The rate of surcharge to be imposed per entry to the harbour by a ship providing the service to which the surcharge relates is to be calculated according to the tonnage of the ship as follows—
 
 (2) in respect of a ship of Class A—
 
@@ -1001,7 +1001,7 @@ Regulation 7
 - (a) 10p per tonne up to a maximum of 50,000 tonnes; plus
 - (b) 2p per tonne in excess of 50,000 tonnes.
 
-**2.**[^key-e79e5a6790b43908df46478cfa038b23] For purposes of this Schedule—
+**2.**[^c-e79e5a6790b43908df46478cfa038b23] For purposes of this Schedule—
 
 - (a) a ship's tonnage shall be its gross tonnage assessed in accordance with the International Convention on Tonnage Measurement of Ships 1969 and entered on its International Tonnage Certificate (1969) or, if this certificate is not available for any reason, the ship's gross registered tonnage or, in the case of an unregistered ship or a ship measured only by length, the tonnage reckoned in accordance with the Thames Measurement adopted by Lloyds Register;
 - (b) a ship of Class A is a ship certified to carry 12 or fewer passengers;
@@ -1047,63 +1047,63 @@ A full impact assessment of the effect that the Act and secondary legislation wo
 
 [^f00004]: Footnote: See section 1(3) of the National Minimum Wage Act [1998 (c. 39)](https://www.legislation.gov.uk/ukpga/1998/39) for the meaning of “national minimum wage”.
 
-[^key-1074991dfdac02557601320b768689fd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-1074991dfdac02557601320b768689fd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-b2b2c9a30bbfc9f105c04c2a9a5ffaab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/1015/regulation/2) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-b2b2c9a30bbfc9f105c04c2a9a5ffaab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/1015/regulation/2) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
 [^f00005]: Footnote: See section 18(1) of the Act for the meanings of “harbour” and “harbour authority”. In relation to England, Wales and Scotland, these terms have the same meanings as in the Harbours Act [1964 (c. 40)](https://www.legislation.gov.uk/ukpga/1964/40). In relation to Northern Ireland, these terms have the same meanings as in the Harbours Act (Northern Ireland) [1970 (c. 1)](https://www.legislation.gov.uk/apni/1970/1).
 
 [^f00006]: Footnote: See section 19 of the Act for the meaning of “operator”.
 
-[^key-2ce85ab6dbfaafbe167f9375fbf835be]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/1015/regulation/3) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-2ce85ab6dbfaafbe167f9375fbf835be]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/1015/regulation/3) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
 [^f00007]: Footnote: “Relevant year” is defined in section 3(6) of the Act as being the period of 12 months beginning with a date specified in regulations and each successive period of 12 months.
 
-[^key-df11483a964e9849331872013eebde79]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/1015/regulation/4) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-df11483a964e9849331872013eebde79]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/1015/regulation/4) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
 [^f00008]: Footnote: See section 1(4) of the Act for the meaning of “ship”.
 
-[^key-911c1e5c83e665eb1a130f26be628355]: Commencement: Reg. 5 in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-911c1e5c83e665eb1a130f26be628355]: Commencement: Reg. 5 in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
 [^f00009]: Footnote: See section 3(2) of the Act for the meaning of “equivalence declaration”.
 
-[^key-a67bbc5cb828f615e7bd984630bb6714]: Textual amendment: Words in reg. 5(2)(b) substituted (1.4.2025) by [The Seafarers' Wages (Amendment) Regulations 2025 (S.I. 2025/289)](https://www.legislation.gov.uk/uksi/2025/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/2/2)
+[^c-a67bbc5cb828f615e7bd984630bb6714]: Textual amendment: Words in reg. 5(2)(b) substituted (1.4.2025) by [The Seafarers' Wages (Amendment) Regulations 2025 (S.I. 2025/289)](https://www.legislation.gov.uk/uksi/2025/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/2/2)
 
-[^key-c7c949c0e15927eb18d9504800146aa2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/1015/regulation/6) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-c7c949c0e15927eb18d9504800146aa2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/1015/regulation/6) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
 [^f00010]: Footnote: See section 9 of the Act for the meaning of “surcharge”. Sections 6 to 8 set out the circumstances in which a harbour authority must impose a surcharge.
 
-[^key-840667bdb4ec6cdd21884e926e05f92b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/1015/regulation/7) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-840667bdb4ec6cdd21884e926e05f92b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/1015/regulation/7) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
 [^f00011]: Footnote: Section 9(1) of the Act provides that the amount of a surcharge is to be determined by a tariff of surcharges specified in regulations.
 
-[^key-c59f411726cffbee1e7d2196f2e4669c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/1015/regulation/8) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-c59f411726cffbee1e7d2196f2e4669c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/1015/regulation/8) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-7ea733de1ddbfaa23249bda83489b5f9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/1015/regulation/9) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-7ea733de1ddbfaa23249bda83489b5f9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/1015/regulation/9) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-e779bcb234b6737ba65e4830ffa16620]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/1015/regulation/10) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-e779bcb234b6737ba65e4830ffa16620]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/1015/regulation/10) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
 [^f00012]: Footnote: See section 10(5) of the Act for the definition of “interested party”.
 
-[^key-c9a89786d5ee8a005678897ce8375512]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/1015/regulation/11) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-c9a89786d5ee8a005678897ce8375512]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/1015/regulation/11) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-5c82db3b20be0ed772adf76a0099d943]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/1015/regulation/12) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-5c82db3b20be0ed772adf76a0099d943]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/1015/regulation/12) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-4d76abe45bf199105e5eb957fab41428]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/1015/regulation/13) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-4d76abe45bf199105e5eb957fab41428]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/1015/regulation/13) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-9cb8c4bdc87c5fe15c5f6efeeedb6be5]: Commencement: Reg. 14 in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-9cb8c4bdc87c5fe15c5f6efeeedb6be5]: Commencement: Reg. 14 in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-d46322b646dc322ae514bdf87a2a1e1a]: Textual amendment: Sum in reg. 14(1)(a) substituted (1.4.2026) by [The Seafarers’ Wages (Amendment) Regulations 2026 (S.I. 2026/244)](https://www.legislation.gov.uk/uksi/2026/244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/289/regulation/2/2/a)
+[^c-d46322b646dc322ae514bdf87a2a1e1a]: Textual amendment: Sum in reg. 14(1)(a) substituted (1.4.2026) by [The Seafarers’ Wages (Amendment) Regulations 2026 (S.I. 2026/244)](https://www.legislation.gov.uk/uksi/2026/244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/289/regulation/2/2/a)
 
-[^key-4e2a73d143d0c69af15a45e902619d10]: Textual amendment: Sum in reg. 14(1)(b) substituted (1.4.2026) by [The Seafarers’ Wages (Amendment) Regulations 2026 (S.I. 2026/244)](https://www.legislation.gov.uk/uksi/2026/244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/289/regulation/2/2/b)
+[^c-4e2a73d143d0c69af15a45e902619d10]: Textual amendment: Sum in reg. 14(1)(b) substituted (1.4.2026) by [The Seafarers’ Wages (Amendment) Regulations 2026 (S.I. 2026/244)](https://www.legislation.gov.uk/uksi/2026/244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/289/regulation/2/2/b)
 
-[^key-70691b225ddfb00f7e6598962b8d4f1f]: Textual amendment: Sum in reg. 14(1)(c) substituted (1.4.2026) by [The Seafarers’ Wages (Amendment) Regulations 2026 (S.I. 2026/244)](https://www.legislation.gov.uk/uksi/2026/244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2025/289/regulation/2/2/c)
+[^c-70691b225ddfb00f7e6598962b8d4f1f]: Textual amendment: Sum in reg. 14(1)(c) substituted (1.4.2026) by [The Seafarers’ Wages (Amendment) Regulations 2026 (S.I. 2026/244)](https://www.legislation.gov.uk/uksi/2026/244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2025/289/regulation/2/2/c)
 
-[^key-cfff0ea0f8a08881b354c6d5376f5139]: Textual amendment: Sum in reg. 14(1)(d) substituted (1.4.2026) by [The Seafarers’ Wages (Amendment) Regulations 2026 (S.I. 2026/244)](https://www.legislation.gov.uk/uksi/2026/244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2025/289/regulation/2/2/d)
+[^c-cfff0ea0f8a08881b354c6d5376f5139]: Textual amendment: Sum in reg. 14(1)(d) substituted (1.4.2026) by [The Seafarers’ Wages (Amendment) Regulations 2026 (S.I. 2026/244)](https://www.legislation.gov.uk/uksi/2026/244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2025/289/regulation/2/2/d)
 
-[^key-1191d9675b2d4fcf53cd34734d31b50f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/1015/regulation/15) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-1191d9675b2d4fcf53cd34734d31b50f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/1015/regulation/15) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-a179adde9d2fac9f5a985cb16bddf584]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/1015/regulation/16) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-a179adde9d2fac9f5a985cb16bddf584]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/1015/regulation/16) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
 [^f00013]: Footnote: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22).
 
@@ -1113,112 +1113,112 @@ A full impact assessment of the effect that the Act and secondary legislation wo
 
 [^f00016]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18); section 17B was inserted by the Welfare Reform Act [2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), section 1.
 
-[^key-48b312394631a31d4b45a91c3ffb7982]: Textual amendment: Words in [reg. 16(4)(b)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/16/4/b) substituted (1.4.2026) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Order 2026 (S.I. 2026/358)](https://www.legislation.gov.uk/uksi/2026/358), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/358/article/1/3), [6](https://www.legislation.gov.uk/uksi/2026/358/article/6)
+[^c-48b312394631a31d4b45a91c3ffb7982]: Textual amendment: Words in [reg. 16(4)(b)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/16/4/b) substituted (1.4.2026) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Order 2026 (S.I. 2026/358)](https://www.legislation.gov.uk/uksi/2026/358), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/358/article/1/3), [6](https://www.legislation.gov.uk/uksi/2026/358/article/6)
 
 [^f00018]: Footnote: [1990 c. 35](https://www.legislation.gov.uk/ukpga/1990/35) (S.); subsection (3)(d) of section 2 was inserted and subsection (4) was amended, by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), section 47; subsection (4)(a) was amended by the Equality Act [2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), Schedule 26, Part 1, paragraph 20; subsection (6) was amended by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
 
 [^f00019]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); the powers of the Department under section 1 were extended by [S.I. 1974/2144 (N.I. 7)](https://www.legislation.gov.uk/nisi/1974/2144), Article 7; subsections (1) to (1C) were substituted for subsections (1) to (1A) by [S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087); subsections (2) and (3) were amended by [S.I. 1990/1200 (N.I. 8)](https://www.legislation.gov.uk/nisi/1990/1200), Article 5; section 1(1A)(d) was amended by the Employment Act (Northern Ireland) [2010 c. 12 (N.I.)](https://www.legislation.gov.uk/nia/2010/12), Schedule 1, paragraph 1.
 
-[^key-7e78417688d3a7ffb2e21bc26dc7d408]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/1015/regulation/17) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-7e78417688d3a7ffb2e21bc26dc7d408]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/1015/regulation/17) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-64cfa22afcfea47495991bddb2bc08f6]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/1015/regulation/18) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-64cfa22afcfea47495991bddb2bc08f6]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/1015/regulation/18) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-2e43ca77ce6b490cfc2e6fbfdbae8ad6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/1015/regulation/19) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-2e43ca77ce6b490cfc2e6fbfdbae8ad6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/1015/regulation/19) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
 [^f00020]: Footnote: “UK Work” is defined in section 4(10) of the Act as work which is carried out in the United Kingdom or its territorial waters. “Territorial waters” are to be construed in accordance with the definition of “territorial sea” in section 1 of the Territorial Sea Act [1987 (c. 49)](https://www.legislation.gov.uk/ukpga/1987/49).
 
-[^key-c631011ca98738141de744416856671a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/1015/regulation/20) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-c631011ca98738141de744416856671a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/1015/regulation/20) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-2a40e2217220b1cffe37ef56ef09216f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2024/1015/regulation/21) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-2a40e2217220b1cffe37ef56ef09216f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2024/1015/regulation/21) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-60bbd3332af1941cddacb363f2bf8fa4]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2024/1015/regulation/22) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-60bbd3332af1941cddacb363f2bf8fa4]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2024/1015/regulation/22) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-113432ccbbc590a41c1aec5c684e08b9]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2024/1015/regulation/23) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-113432ccbbc590a41c1aec5c684e08b9]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2024/1015/regulation/23) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-1b61b7e1d005632227c814160000f8fe]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2024/1015/regulation/24) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-1b61b7e1d005632227c814160000f8fe]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2024/1015/regulation/24) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-dc1dc79cdd1da9914172da2902ff3fd5]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2024/1015/regulation/25) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-dc1dc79cdd1da9914172da2902ff3fd5]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2024/1015/regulation/25) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
 [^f00021]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
 
-[^key-baf377101e4996f7b3a886fd6a15c2c1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2024/1015/regulation/26) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-baf377101e4996f7b3a886fd6a15c2c1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2024/1015/regulation/26) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-ff42acffa43715a4a628d296c46dfcd3]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2024/1015/regulation/27) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-ff42acffa43715a4a628d296c46dfcd3]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2024/1015/regulation/27) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-b2353c82de0dc0df9c70ccbf31a5bb49]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2024/1015/regulation/28) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-b2353c82de0dc0df9c70ccbf31a5bb49]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2024/1015/regulation/28) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-5f8b7750340d4a2671cabf28c6580229]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2024/1015/regulation/29) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-5f8b7750340d4a2671cabf28c6580229]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2024/1015/regulation/29) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-928d65658517a74abb712990ede0c806]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2024/1015/regulation/30) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-928d65658517a74abb712990ede0c806]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2024/1015/regulation/30) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-974a54edce8d8aab9fd2417eeffaf244]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2024/1015/regulation/31) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-974a54edce8d8aab9fd2417eeffaf244]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2024/1015/regulation/31) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-5cd554af63f9fa64374802ed36196924]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2024/1015/regulation/32) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-5cd554af63f9fa64374802ed36196924]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2024/1015/regulation/32) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-5d96ee386df53c8968297b26e447854a]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2024/1015/regulation/33) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-5d96ee386df53c8968297b26e447854a]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2024/1015/regulation/33) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-23deecd31fb63053dba3090d32dc86bb]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2024/1015/regulation/34) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-23deecd31fb63053dba3090d32dc86bb]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2024/1015/regulation/34) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-f95f73dc40345e75d0d6ba4e9c299769]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2024/1015/regulation/35) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-f95f73dc40345e75d0d6ba4e9c299769]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2024/1015/regulation/35) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-698f6fda7b52959d8b9b5ee6599d2dd9]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2024/1015/regulation/36) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-698f6fda7b52959d8b9b5ee6599d2dd9]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2024/1015/regulation/36) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-a5f2e01bdebb76aa964ff0a0544d4e54]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2024/1015/regulation/37) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-a5f2e01bdebb76aa964ff0a0544d4e54]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2024/1015/regulation/37) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-0852b6bd6e42ff1d1237dc72061abd64]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2024/1015/regulation/38) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-0852b6bd6e42ff1d1237dc72061abd64]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2024/1015/regulation/38) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-f3743ee2e23b46dc6e39b27b8a8733fa]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2024/1015/regulation/39) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-f3743ee2e23b46dc6e39b27b8a8733fa]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2024/1015/regulation/39) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-3ec64504afc0f83cdbcd0dee0dd99b5e]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2024/1015/regulation/40) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-3ec64504afc0f83cdbcd0dee0dd99b5e]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2024/1015/regulation/40) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-dfe7aca3f4b16a3d51252d40f4295ede]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2024/1015/regulation/41) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-dfe7aca3f4b16a3d51252d40f4295ede]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2024/1015/regulation/41) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-4fa642007711e825b7f2555b389f9ad2]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2024/1015/regulation/42) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-4fa642007711e825b7f2555b389f9ad2]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2024/1015/regulation/42) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-9606ec4d60f3ed09f21ce8d1548dcf64]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2024/1015/regulation/43) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-9606ec4d60f3ed09f21ce8d1548dcf64]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2024/1015/regulation/43) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-77797254d1afa6f8f4665905161f939f]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2024/1015/regulation/44) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-77797254d1afa6f8f4665905161f939f]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2024/1015/regulation/44) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-d2c3c55514880f734432e151609f7c30]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2024/1015/regulation/45) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-d2c3c55514880f734432e151609f7c30]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2024/1015/regulation/45) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-8b470dca358f7ec77f561cd1c0af175e]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2024/1015/regulation/46) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-8b470dca358f7ec77f561cd1c0af175e]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2024/1015/regulation/46) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-acd5640bbe2e5305ccb9d05439cc08e2]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2024/1015/regulation/47) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-acd5640bbe2e5305ccb9d05439cc08e2]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2024/1015/regulation/47) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-feb9f15a00f661d1d8336295f5c83882]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2024/1015/regulation/48) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-feb9f15a00f661d1d8336295f5c83882]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2024/1015/regulation/48) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-49de8b8d257f5c3945cd861b88c0e8fc]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2024/1015/regulation/49) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-49de8b8d257f5c3945cd861b88c0e8fc]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2024/1015/regulation/49) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-dfbcf4ddf73fdb8ad61d9d563253829c]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2024/1015/regulation/50) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-dfbcf4ddf73fdb8ad61d9d563253829c]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2024/1015/regulation/50) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-7c70141ea606ca5d8cef5b5de089973e]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2024/1015/regulation/51) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-7c70141ea606ca5d8cef5b5de089973e]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2024/1015/regulation/51) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-77f72b7f7d8e46fdab9f16c6a33658c7]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2024/1015/regulation/52) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-77f72b7f7d8e46fdab9f16c6a33658c7]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2024/1015/regulation/52) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-fed629724b35bd1abd55d70d73fcbfa1]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2024/1015/regulation/53) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-fed629724b35bd1abd55d70d73fcbfa1]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2024/1015/regulation/53) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-004a8c860b37362600dc3c0b220e337f]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2024/1015/regulation/54) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-004a8c860b37362600dc3c0b220e337f]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2024/1015/regulation/54) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-4327db808af708daa148db445edf758b]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2024/1015/regulation/55) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-4327db808af708daa148db445edf758b]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2024/1015/regulation/55) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-7fe4655fcdc9f61c8f2b659d5dce6e48]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2024/1015/regulation/56) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-7fe4655fcdc9f61c8f2b659d5dce6e48]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2024/1015/regulation/56) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-d5370acded0b30dea8488d0aca4be810]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2024/1015/regulation/57) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-d5370acded0b30dea8488d0aca4be810]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2024/1015/regulation/57) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
 [^f00022]: Footnote: “UK work” is defined in section 4(10) of the Act as work which is carried out in the United Kingdom or its territorial waters. “Territorial waters” are to be construed in accordance with the definition of “territorial sea” in section 1 of the Territorial Sea Act [1987 (c. 49)](https://www.legislation.gov.uk/ukpga/1987/49).
 
-[^key-6da8b2c25db3848e3da6cb053b083c4b]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2024/1015/regulation/58) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-6da8b2c25db3848e3da6cb053b083c4b]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2024/1015/regulation/58) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-180aca2f85967fcaae4294f967a57525]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2024/1015/regulation/59) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-180aca2f85967fcaae4294f967a57525]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2024/1015/regulation/59) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-167ef0f916f6f950833526191edfc2ce]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2024/1015/regulation/60) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-167ef0f916f6f950833526191edfc2ce]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2024/1015/regulation/60) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-718ad67f5ca695f95655ec907ca054be]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2024/1015/regulation/61) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-718ad67f5ca695f95655ec907ca054be]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2024/1015/regulation/61) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
 [^f00023]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-c56ec4dacefc9a8d2e313564239040d8]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1015/schedule/1) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-c56ec4dacefc9a8d2e313564239040d8]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1015/schedule/1) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-1e5d6d12e9d1cc23cf3f0462252753c4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/1015/schedule/2/paragraph/1) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-1e5d6d12e9d1cc23cf3f0462252753c4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/1015/schedule/2/paragraph/1) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
 
-[^key-e79e5a6790b43908df46478cfa038b23]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/1015/schedule/2/paragraph/2) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)
+[^c-e79e5a6790b43908df46478cfa038b23]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/1015/schedule/2/paragraph/2) in force at 1.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1015/regulation/1/1)

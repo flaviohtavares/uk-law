@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44A. Arrangements with other persons who maintain registers of health or social care workers[^key-aab72d747c2f4eb7d8b0631a19e4643c]
+## 44A. Arrangements with other persons who maintain registers of health or social care workers[^c-aab72d747c2f4eb7d8b0631a19e4643c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aab72d747c2f4eb7d8b0631a19e4643c]: Textual amendment: [Art. 44A](https://www.legislation.gov.uk/uksi/2002/254/article/44A) inserted (27.3.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 219(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/219/1), [306(1)(a)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/a) (with [s. 230(6)](https://www.legislation.gov.uk/ukpga/2012/7/section/230/6))
+[^c-aab72d747c2f4eb7d8b0631a19e4643c]: Textual amendment: [Art. 44A](https://www.legislation.gov.uk/uksi/2002/254/article/44A) inserted (27.3.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 219(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/219/1), [306(1)(a)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/a) (with [s. 230(6)](https://www.legislation.gov.uk/ukpga/2012/7/section/230/6))

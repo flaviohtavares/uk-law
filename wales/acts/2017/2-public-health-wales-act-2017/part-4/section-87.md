@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Supplementary provision about powers of entry[^key-742e79c4db014ef5d508631bce5fc2fd]
+## 87. Supplementary provision about powers of entry[^c-742e79c4db014ef5d508631bce5fc2fd]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-742e79c4db014ef5d508631bce5fc2fd]: Commencement: [S. 87](https://www.legislation.gov.uk/anaw/2017/2/section/87) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(bb)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/bb) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-742e79c4db014ef5d508631bce5fc2fd]: Commencement: [S. 87](https://www.legislation.gov.uk/anaw/2017/2/section/87) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(bb)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/bb) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

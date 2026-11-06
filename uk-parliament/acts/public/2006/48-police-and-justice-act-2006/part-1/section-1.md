@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. National Policing Improvement Agency[^key-2d241328214bd0d342025ce9a73b4510]
+## 1. National Policing Improvement Agency[^c-2d241328214bd0d342025ce9a73b4510]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d241328214bd0d342025ce9a73b4510]: Textual amendment: S. 1 omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 168](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/168); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-2d241328214bd0d342025ce9a73b4510]: Textual amendment: S. 1 omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 168](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/168); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

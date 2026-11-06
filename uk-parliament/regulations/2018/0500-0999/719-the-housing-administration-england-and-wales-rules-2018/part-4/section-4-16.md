@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.16. Order for examination etc[^key-6213eade515c5a58bea891be53d72d3a]
+## 4.16. Order for examination etc[^c-6213eade515c5a58bea891be53d72d3a]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6213eade515c5a58bea891be53d72d3a]: Commencement: Rule 4.16 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-6213eade515c5a58bea891be53d72d3a]: Commencement: Rule 4.16 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

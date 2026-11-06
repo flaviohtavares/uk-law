@@ -44,7 +44,7 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 The powers are exercisable by the Department for Communities by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-9a464d8ece670a90747afc857fc515b7]
+## 1. Citation, commencement and interpretation[^c-9a464d8ece670a90747afc857fc515b7]
 
 (1) These Regulations may be cited as the Universal Credit (Work Allowance and Taper) (Amendment) Regulations (Northern Ireland) 2021 and, subject to paragraph (2), come into operation on 24th November 2021.
 
@@ -52,7 +52,7 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 
 (3) In these Regulations “**the Universal Credit Regulations**” means the Universal Credit Regulations (Northern Ireland) 2016[^f00004].
 
-## 2. Decrease in the universal credit taper[^key-d4fa8984ada06d1346614f139bc7886b]
+## 2. Decrease in the universal credit taper[^c-d4fa8984ada06d1346614f139bc7886b]
 
 (1) In regulation 23(1)(b)(i) and (ii) of the Universal Credit Regulations (deduction of income and work allowance) for “63%” substitute “55%”[^f00005]
 
@@ -62,7 +62,7 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 
 .
 
-## 3. Increase in the work allowance[^key-2c141ce3e580e474ba120fa1ebcb74f2]
+## 3. Increase in the work allowance[^c-2c141ce3e580e474ba120fa1ebcb74f2]
 
 (1) In the table of work allowances set out in regulation 23 of the Universal Credit Regulations[^f00007]—
 
@@ -101,16 +101,16 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00003]: Footnote: [S.I 2020/927](https://www.legislation.gov.uk/nisr/2021/82)
 
-[^key-9a464d8ece670a90747afc857fc515b7]: Commencement: Reg. 1 in operation at 24.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/1/1)
+[^c-9a464d8ece670a90747afc857fc515b7]: Commencement: Reg. 1 in operation at 24.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
 
-[^key-d4fa8984ada06d1346614f139bc7886b]: Commencement: Reg. 2 in operation at 24.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/1/1)
+[^c-d4fa8984ada06d1346614f139bc7886b]: Commencement: Reg. 2 in operation at 24.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/1/1)
 
 [^f00005]: Footnote: [S.R.2017 No.147](https://www.legislation.gov.uk/nisr/2017/147) substituted “63%” for “65%”
 
 [^f00006]: Footnote: Regulation 54 was substituted by [S.R. 2018 No. 92](https://www.legislation.gov.uk/nisr/2018/92)
 
-[^key-2c141ce3e580e474ba120fa1ebcb74f2]: Commencement: Reg. 3 in operation at 24.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/1/1)
+[^c-2c141ce3e580e474ba120fa1ebcb74f2]: Commencement: Reg. 3 in operation at 24.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/1/1)
 
 [^f00007]: Footnote: The amounts in the table were substituted by [S.R. 2021 No. 82](https://www.legislation.gov.uk/nisr/2021/82)

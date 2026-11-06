@@ -105,7 +105,7 @@ This Regulation respects the fundamental rights and observes the principles reco
 
 HAVE ADOPTED THIS REGULATION:
 
-## Article 1. Objective[^key-5eca1ffd74fab7226ff01f8863aafa8a]
+## Article 1. Objective[^c-5eca1ffd74fab7226ff01f8863aafa8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -113,14 +113,14 @@ HAVE ADOPTED THIS REGULATION:
 
 For the purposes of this Regulation:
 
-- 1.. ‘[^key-5c74c5a8ab890daa18e2b100811bb773]HMRC’ means Her Majesty’s Revenue and Customs;
+- 1.. ‘[^c-5c74c5a8ab890daa18e2b100811bb773]HMRC’ means Her Majesty’s Revenue and Customs;
 - 2.. ‘cash’ means:
   - ((a)) bearer-negotiable instruments including monetary instruments in bearer form such as travellers cheques, negotiable instruments (including cheques, promissory notes and money orders) that are either in bearer form, endorsed without restriction, made out to a fictitious payee, or otherwise in such form that title thereto passes upon delivery and incomplete instruments (including cheques, promissory notes and money orders) signed, but with the payee's name omitted;
   - ((b)) currency (banknotes and coins that are in circulation as a medium of exchange).
 
 ## Article 3. Obligation to declare
 
-1.[^key-f29757fd3d290bfe201ec0dc6e2c6782] A person who enters or exits the United Kingdom and who is carrying a sum of cash to a value of £10,000 or more must make a declaration of that sum to HMRC in accordance with paragraphs 2 and 3. The obligation to declare shall not have been fulfilled if the information provided is incorrect or incomplete at the time of entry to, or exit from, the United Kingdom.
+1.[^c-f29757fd3d290bfe201ec0dc6e2c6782] A person who enters or exits the United Kingdom and who is carrying a sum of cash to a value of £10,000 or more must make a declaration of that sum to HMRC in accordance with paragraphs 2 and 3. The obligation to declare shall not have been fulfilled if the information provided is incorrect or incomplete at the time of entry to, or exit from, the United Kingdom.
 
 2. The declaration referred to in paragraph 1 shall contain details of:
 
@@ -132,47 +132,47 @@ For the purposes of this Regulation:
 - (f) the transport route;
 - (g) the means of transport.
 
-3.[^key-8e74d69c9c36fe2fdc044f4511bdbdf6] The declaration referred to in paragraph 1 must be made in such form or manner as HMRC specify by written notice which is made publicly available. Such notice may make different provision for different cases or different purposes.
+3.[^c-8e74d69c9c36fe2fdc044f4511bdbdf6] The declaration referred to in paragraph 1 must be made in such form or manner as HMRC specify by written notice which is made publicly available. Such notice may make different provision for different cases or different purposes.
 
 ## Article 4. Powers of the competent authorities
 
-1.[^key-3086a97e0cb86837d16c89b8e6975e31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.[^c-3086a97e0cb86837d16c89b8e6975e31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-2.[^key-1985e1c8ca634a600aa62261805287ee] Where a person has failed to comply with Article 3, an officer of Revenue and Customs may detain cash which that person is found to be carrying. Cash may be detained until the time a decision has been made whether or not to impose a penalty under regulation 3(1) of the Control of Cash (Penalties) Regulations 2007. Where a penalty has been imposed, regulation 8 of those Regulations applies.
+2.[^c-1985e1c8ca634a600aa62261805287ee] Where a person has failed to comply with Article 3, an officer of Revenue and Customs may detain cash which that person is found to be carrying. Cash may be detained until the time a decision has been made whether or not to impose a penalty under regulation 3(1) of the Control of Cash (Penalties) Regulations 2007. Where a penalty has been imposed, regulation 8 of those Regulations applies.
 
 ## Article 5. Recording and processing of information
 
-1.[^key-ef7bf1647450e6323cf6c7da55c9b9c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.[^c-ef7bf1647450e6323cf6c7da55c9b9c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-2.[^key-d84bf6afbbd701c6a32080607a10f2c4] Where, by virtue of the making of a declaration referred to in Article 3(1), an officer of Revenue and Customs has cause to believe that a person is carrying a sum of cash in relation to an illegal activity, the officer may disclose to the relevant customs or law enforcement authorities of another territory such information in relation to the person as the officer considers necessary for the detection or prevention of the illegal activity or to enable proceedings to be taken against any person in relation to the illegal activity.
+2.[^c-d84bf6afbbd701c6a32080607a10f2c4] Where, by virtue of the making of a declaration referred to in Article 3(1), an officer of Revenue and Customs has cause to believe that a person is carrying a sum of cash in relation to an illegal activity, the officer may disclose to the relevant customs or law enforcement authorities of another territory such information in relation to the person as the officer considers necessary for the detection or prevention of the illegal activity or to enable proceedings to be taken against any person in relation to the illegal activity.
 
-## Article 6. Exchange of information[^key-8b3bc4f34c8d9f6ee3e609ef76a09b14]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 7. Exchange of information with third countries[^key-8b3bc4f34c8d9f6ee3e609ef76a09b14]
+## Article 6. Exchange of information[^c-8b3bc4f34c8d9f6ee3e609ef76a09b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Duty of professional secrecy[^key-8b3bc4f34c8d9f6ee3e609ef76a09b14]
+## Article 7. Exchange of information with third countries[^c-8b3bc4f34c8d9f6ee3e609ef76a09b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Penalties[^key-8b3bc4f34c8d9f6ee3e609ef76a09b14]
+## Article 8. Duty of professional secrecy[^c-8b3bc4f34c8d9f6ee3e609ef76a09b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Evaluation[^key-8b3bc4f34c8d9f6ee3e609ef76a09b14]
+## Article 9. Penalties[^c-8b3bc4f34c8d9f6ee3e609ef76a09b14]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 10. Evaluation[^c-8b3bc4f34c8d9f6ee3e609ef76a09b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 11. Entry into force
 
-[^key-8b3bc4f34c8d9f6ee3e609ef76a09b14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b3bc4f34c8d9f6ee3e609ef76a09b14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 It shall apply from 15 June 2007.
 
-[^key-ee2c9eb6f64a3ce2b0257f1f26ce5cd4]...
+[^c-ee2c9eb6f64a3ce2b0257f1f26ce5cd4]...
 
 Done at Strasbourg, 26 October 2005.
 
@@ -202,22 +202,22 @@ D. Alexander
 
 [^f00006]: Footnote: [OJ L 8, 12.1.2001, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.008.01.0001.01.ENG).
 
-[^key-5eca1ffd74fab7226ff01f8863aafa8a]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2005/1889/article/1) omitted (31.12.2020) by virtue of [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5eca1ffd74fab7226ff01f8863aafa8a]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2005/1889/article/1) omitted (31.12.2020) by virtue of [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5c74c5a8ab890daa18e2b100811bb773]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/eur/2005/1889/article/2/1) substituted (31.12.2020) by [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c74c5a8ab890daa18e2b100811bb773]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/eur/2005/1889/article/2/1) substituted (31.12.2020) by [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f29757fd3d290bfe201ec0dc6e2c6782]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/eur/2005/1889/article/3/1) substituted (31.12.2020) by [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f29757fd3d290bfe201ec0dc6e2c6782]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/eur/2005/1889/article/3/1) substituted (31.12.2020) by [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e74d69c9c36fe2fdc044f4511bdbdf6]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/eur/2005/1889/article/3/3) substituted (31.12.2020) by [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e74d69c9c36fe2fdc044f4511bdbdf6]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/eur/2005/1889/article/3/3) substituted (31.12.2020) by [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3086a97e0cb86837d16c89b8e6975e31]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/eur/2005/1889/article/4/1) omitted (31.12.2020) by virtue of [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/5/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3086a97e0cb86837d16c89b8e6975e31]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/eur/2005/1889/article/4/1) omitted (31.12.2020) by virtue of [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/5/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1985e1c8ca634a600aa62261805287ee]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/eur/2005/1889/article/4/2) substituted (31.12.2020) by [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/5/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1985e1c8ca634a600aa62261805287ee]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/eur/2005/1889/article/4/2) substituted (31.12.2020) by [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/5/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ef7bf1647450e6323cf6c7da55c9b9c5]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/eur/2005/1889/article/5/1) omitted (31.12.2020) by virtue of [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/6/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef7bf1647450e6323cf6c7da55c9b9c5]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/eur/2005/1889/article/5/1) omitted (31.12.2020) by virtue of [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/6/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d84bf6afbbd701c6a32080607a10f2c4]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/eur/2005/1889/article/5/2) substituted (31.12.2020) by [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/6/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d84bf6afbbd701c6a32080607a10f2c4]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/eur/2005/1889/article/5/2) substituted (31.12.2020) by [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/6/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8b3bc4f34c8d9f6ee3e609ef76a09b14]: Textual amendment: [Arts. 6-11](https://www.legislation.gov.uk/eur/2005/1889/article/6) omitted (31.12.2020) by virtue of [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8b3bc4f34c8d9f6ee3e609ef76a09b14]: Textual amendment: [Arts. 6-11](https://www.legislation.gov.uk/eur/2005/1889/article/6) omitted (31.12.2020) by virtue of [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee2c9eb6f64a3ce2b0257f1f26ce5cd4]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2005/1889/signature) omitted (31.12.2020) by virtue of [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee2c9eb6f64a3ce2b0257f1f26ce5cd4]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2005/1889/signature) omitted (31.12.2020) by virtue of [The Cash Controls (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/712)](https://www.legislation.gov.uk/uksi/2019/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2019/712/regulation/2/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/712/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

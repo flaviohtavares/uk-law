@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 997. Meaning of “generally accepted accounting practice” and related expressions[^key-d7e364825016906c4f1d035c683f517e]
+## 997. Meaning of “generally accepted accounting practice” and related expressions[^c-d7e364825016906c4f1d035c683f517e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ This is subject to subsection (3).
 
 (4) In the Income Tax Acts “**for accounting purposes**” means for the purposes of accounts drawn up in accordance with generally accepted accounting practice.
 
-(5) In the Income Tax Acts “**international accounting standards**” has the same meaning as in the Corporation Tax Acts (see section 1127 of CTA 2010[^key-e17d3ce112e85f154012b3cd4849931b]).
+(5) In the Income Tax Acts “**international accounting standards**” has the same meaning as in the Corporation Tax Acts (see section 1127 of CTA 2010[^c-e17d3ce112e85f154012b3cd4849931b]).
 
 (6) In this section—
 
@@ -47,6 +47,6 @@ This is subject to subsection (3).
 
 ## Annotations
 
-[^key-d7e364825016906c4f1d035c683f517e]: Modification: S. 997 applied (with modifications) (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 53(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/53/6)
+[^c-d7e364825016906c4f1d035c683f517e]: Modification: S. 997 applied (with modifications) (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 53(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/53/6)
 
-[^key-e17d3ce112e85f154012b3cd4849931b]: Textual amendment: Words in s. 997(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 566](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/566) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e17d3ce112e85f154012b3cd4849931b]: Textual amendment: Words in s. 997(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 566](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/566) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

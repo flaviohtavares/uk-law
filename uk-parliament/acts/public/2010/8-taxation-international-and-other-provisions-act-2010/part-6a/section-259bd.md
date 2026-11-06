@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259BD. Chargeable companies in respect of CFCs and foreign CFCs[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259BD. Chargeable companies in respect of CFCs and foreign CFCs[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,7 +80,7 @@ summary: ''
 
 (12) The relevant income is to be taken to be brought into account (if at all) only to the extent that the total amount of income mentioned in subsection (2) that is brought into account exceeds the amount of income mentioned in that subsection that is not relevant income.
 
-(12A)[^key-f7643e502d12c3f31f933fcd92a28790] For the purposes of subsection (2)—
+(12A)[^c-f7643e502d12c3f31f933fcd92a28790] For the purposes of subsection (2)—
 
 - (a) a qualifying CFC amount arising to C is treated as an amount of relevant income,
 - (b) a qualifying CFC amount arising to C, for a permitted taxable period, is “under taxed” if the highest rate at which tax is charged on the amount, taking into account on a just and reasonable basis the effect of any credit for underlying tax, is less than C’s full marginal rate for that period,
@@ -103,13 +103,13 @@ summary: ''
   - (b) in relation to a foreign CFC charge, means an entity (by whatever name known) corresponding to a chargeable company within the meaning of that Part;
 - “chargeable profits”—
   - (a) in relation to the CFC charge, has the same meaning as in that Part (see that section), and
-  - (b) in relation to a foreign CFC charge, means the concept (by whatever name known) corresponding to chargeable profits within the meaning of that Part (including any qualifying CFC amount within the meaning given by subsection (12B))[^key-47953e19cfdfb0919945806b5284805c];
+  - (b) in relation to a foreign CFC charge, means the concept (by whatever name known) corresponding to chargeable profits within the meaning of that Part (including any qualifying CFC amount within the meaning given by subsection (12B))[^c-47953e19cfdfb0919945806b5284805c];
 - “**hybrid transfer arrangement**” has the meaning given by section 259DB.
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-f7643e502d12c3f31f933fcd92a28790]: Textual amendment: Ss. 259BD(12A)-(12C) inserted (15.9.2016 retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 paras. 7(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/7/2), [19(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/19/4)
+[^c-f7643e502d12c3f31f933fcd92a28790]: Textual amendment: Ss. 259BD(12A)-(12C) inserted (15.9.2016 retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 paras. 7(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/7/2), [19(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/19/4)
 
-[^key-47953e19cfdfb0919945806b5284805c]: Textual amendment: Words in s. 259BD(13) inserted (15.9.2016 retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 paras. 7(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/7/3), [19(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/19/4)
+[^c-47953e19cfdfb0919945806b5284805c]: Textual amendment: Words in s. 259BD(13) inserted (15.9.2016 retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 paras. 7(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/7/3), [19(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/19/4)

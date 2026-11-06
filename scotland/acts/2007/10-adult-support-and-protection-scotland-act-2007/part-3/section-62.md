@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Accommodation charges: removal of liability to maintain spouse and child etc.[^key-be6821ee3c0939b680cbfc3e7e218b4a]
+## 62. Accommodation charges: removal of liability to maintain spouse and child etc.[^c-be6821ee3c0939b680cbfc3e7e218b4a]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be6821ee3c0939b680cbfc3e7e218b4a]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2007/10/section/62) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)
+[^c-be6821ee3c0939b680cbfc3e7e218b4a]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2007/10/section/62) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)

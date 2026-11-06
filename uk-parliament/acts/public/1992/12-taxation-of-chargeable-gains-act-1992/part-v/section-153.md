@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Assets only partly replaced.[^c2138260][^key-208f22d583c64b85c2f5c44d6e4c1ef4][^key-3d98161715f5f76998c5943ed43630d9][^key-2db3890b14676204cbc9a451baac73cc][^key-229281ef497d10e4b1591aef4ed78bad][^key-f46d0cc1100767ef46be299c27dec443][^key-60e7388c79d375a8b0b937b16dbab59e][^key-f0c6880dce83b02a9c59b868aa36d8c5][^M_C_4706c006-7b55-4fb2-d11f-99f9c51f4987]
+## 153. Assets only partly replaced.[^c2138260][^c-208f22d583c64b85c2f5c44d6e4c1ef4][^c-3d98161715f5f76998c5943ed43630d9][^c-2db3890b14676204cbc9a451baac73cc][^c-229281ef497d10e4b1591aef4ed78bad][^c-f46d0cc1100767ef46be299c27dec443][^c-60e7388c79d375a8b0b937b16dbab59e][^c-f0c6880dce83b02a9c59b868aa36d8c5][^M_C_4706c006-7b55-4fb2-d11f-99f9c51f4987]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,18 +35,18 @@ but neither paragraph (a) nor paragraph (b) above shall affect the treatment for
 
     Ss. 152-156 modified (27.7.1993) by [1993 c. 37](https://www.legislation.gov.uk/ukpga/1993/37), [s. 12](https://www.legislation.gov.uk/ukpga/1993/37/section/12), [Sch. 2 Pt. I para. 6(2)](https://www.legislation.gov.uk/ukpga/1993/37/schedule/2/part/I/paragraph/6/2)
 
-[^key-208f22d583c64b85c2f5c44d6e4c1ef4]: Modification: S. 153 restricted (retrospective to 11.1.1994) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 252(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/252/3), [Sch. 24 para. 6(3)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/24/paragraph/6/3)
+[^c-208f22d583c64b85c2f5c44d6e4c1ef4]: Modification: S. 153 restricted (retrospective to 11.1.1994) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 252(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/252/3), [Sch. 24 para. 6(3)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/24/paragraph/6/3)
 
-[^key-3d98161715f5f76998c5943ed43630d9]: Modification: Ss. 152-154 modified (retrospective to 11.1.1994) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 252(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/252/3), [Sch. 24 para. 6(4)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/24/paragraph/6/4)
+[^c-3d98161715f5f76998c5943ed43630d9]: Modification: Ss. 152-154 modified (retrospective to 11.1.1994) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 252(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/252/3), [Sch. 24 para. 6(4)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/24/paragraph/6/4)
 
-[^key-2db3890b14676204cbc9a451baac73cc]: Modification: Ss. 152-160 modified (retrospective to 11.1.1994) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 252(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/252/3), [Sch. 24 para. 6(1)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/24/paragraph/6/1)
+[^c-2db3890b14676204cbc9a451baac73cc]: Modification: Ss. 152-160 modified (retrospective to 11.1.1994) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 252(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/252/3), [Sch. 24 para. 6(1)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/24/paragraph/6/1)
 
-[^key-229281ef497d10e4b1591aef4ed78bad]: Modification: Ss. 152-156 modified (3.5.1994) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [Sch. 25 para. 3(2)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/25/paragraph/3/2)
+[^c-229281ef497d10e4b1591aef4ed78bad]: Modification: Ss. 152-156 modified (3.5.1994) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [Sch. 25 para. 3(2)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/25/paragraph/3/2)
 
-[^key-f46d0cc1100767ef46be299c27dec443]: Modification: S. 153 restricted (19.9.1994) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 4 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/4/paragraph/7/2/a) (with [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/1994/21/schedule/4/paragraph/14)); [S.I. 1994/2189](https://www.legislation.gov.uk/uksi/1994/2189), art. 2, Sch.
+[^c-f46d0cc1100767ef46be299c27dec443]: Modification: S. 153 restricted (19.9.1994) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 4 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/4/paragraph/7/2/a) (with [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/1994/21/schedule/4/paragraph/14)); [S.I. 1994/2189](https://www.legislation.gov.uk/uksi/1994/2189), art. 2, Sch.
 
-[^key-60e7388c79d375a8b0b937b16dbab59e]: Modification: S. 153 applied (with modifications) (19.9.1994) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/4/paragraph/7/3) (with [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/1994/21/schedule/4/paragraph/14)); [S.I. 1994/2189](https://www.legislation.gov.uk/uksi/1994/2189), art. 2, Sch.
+[^c-60e7388c79d375a8b0b937b16dbab59e]: Modification: S. 153 applied (with modifications) (19.9.1994) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/4/paragraph/7/3) (with [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/1994/21/schedule/4/paragraph/14)); [S.I. 1994/2189](https://www.legislation.gov.uk/uksi/1994/2189), art. 2, Sch.
 
-[^key-f0c6880dce83b02a9c59b868aa36d8c5]: Modification: Ss. 152, 153 excluded (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 22 para. 67](https://www.legislation.gov.uk/ukpga/2000/17/schedule/22/paragraph/67)
+[^c-f0c6880dce83b02a9c59b868aa36d8c5]: Modification: Ss. 152, 153 excluded (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 22 para. 67](https://www.legislation.gov.uk/ukpga/2000/17/schedule/22/paragraph/67)
 
 [^M_C_4706c006-7b55-4fb2-d11f-99f9c51f4987]: Modification: S. 153 modified (with effect in accordance with [s. 84(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/84/1) of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 29 para. 132(2)(3)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/29/paragraph/132/2/3)

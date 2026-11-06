@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, International Travel) (England) Regulations 2020 (revoked)[^key-d6a1072b7c57a35a23b09b7826d3c44a]
+The Health Protection (Coronavirus, International Travel) (England) Regulations 2020 (revoked)[^c-d6a1072b7c57a35a23b09b7826d3c44a]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 8th June 2020
 
-[^key-d6a1072b7c57a35a23b09b7826d3c44a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6a1072b7c57a35a23b09b7826d3c44a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-d6a1072b7c57a35a23b09b7826d3c44a]
+### PART 1 — General[^c-d6a1072b7c57a35a23b09b7826d3c44a]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ Coming into force
 - [Section 1 — Citation, commencement and application](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — Obligations on persons arriving in England and others[^key-d6a1072b7c57a35a23b09b7826d3c44a]
+### PART 2 — Obligations on persons arriving in England and others[^c-d6a1072b7c57a35a23b09b7826d3c44a]
 
 *Extent: E+W*
 
@@ -73,7 +73,7 @@ Coming into force
 - [Section 3D — Test requirements: offshore installation workers](part-2/section-3d.md)
 - [Section 4 — Requirement to self-isolate](part-2/section-4.md)
 
-### PART 2A — Prohibition on the arrival of aircraft and vessels into England[^key-d6a1072b7c57a35a23b09b7826d3c44a]
+### PART 2A — Prohibition on the arrival of aircraft and vessels into England[^c-d6a1072b7c57a35a23b09b7826d3c44a]
 
 **No longer in force.**
 
@@ -81,7 +81,7 @@ Coming into force
 - [Section 4B — Prohibition on arrival of aircraft into England](part-2a/section-4b.md)
 - [Section 4C — Prohibition on arrival of vessels into England](part-2a/section-4c.md)
 
-### PART 3 — Enforcement[^key-d6a1072b7c57a35a23b09b7826d3c44a]
+### PART 3 — Enforcement[^c-d6a1072b7c57a35a23b09b7826d3c44a]
 
 *Extent: E+W*
 
@@ -93,7 +93,7 @@ Coming into force
 - [Section 7 — Fixed penalty notices](part-3/section-7.md)
 - [Section 8 — Prosecutions](part-3/section-8.md)
 
-### PART 4 — Information sharing[^key-d6a1072b7c57a35a23b09b7826d3c44a]
+### PART 4 — Information sharing[^c-d6a1072b7c57a35a23b09b7826d3c44a]
 
 *Extent: E+W*
 
@@ -102,7 +102,7 @@ Coming into force
 - [Section 9 — Power to use and disclose information](part-4/section-9.md)
 - [Section 10 — Self-incrimination](part-4/section-10.md)
 
-### PART 5 — Review and expiry of Regulations[^key-d6a1072b7c57a35a23b09b7826d3c44a]
+### PART 5 — Review and expiry of Regulations[^c-d6a1072b7c57a35a23b09b7826d3c44a]
 
 *Extent: E+W*
 
@@ -127,14 +127,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-d6a1072b7c57a35a23b09b7826d3c44a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6a1072b7c57a35a23b09b7826d3c44a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-d6a1072b7c57a35a23b09b7826d3c44a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6a1072b7c57a35a23b09b7826d3c44a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6a1072b7c57a35a23b09b7826d3c44a]: Textual amendment: Regulations revoked (17.5.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) Regulations 2021 (S.I. 2021/582)](https://www.legislation.gov.uk/uksi/2021/582), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/582/regulation/1/2), [26(1)(b)](https://www.legislation.gov.uk/uksi/2021/582/regulation/26/1/b) (with [regs. 25](https://www.legislation.gov.uk/uksi/2021/582/regulation/25), [26(4)](https://www.legislation.gov.uk/uksi/2021/582/regulation/26/4), [Sch. 16](https://www.legislation.gov.uk/uksi/2021/582/schedule/16))
+[^c-d6a1072b7c57a35a23b09b7826d3c44a]: Textual amendment: Regulations revoked (17.5.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) Regulations 2021 (S.I. 2021/582)](https://www.legislation.gov.uk/uksi/2021/582), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/582/regulation/1/2), [26(1)(b)](https://www.legislation.gov.uk/uksi/2021/582/regulation/26/1/b) (with [regs. 25](https://www.legislation.gov.uk/uksi/2021/582/regulation/25), [26(4)](https://www.legislation.gov.uk/uksi/2021/582/regulation/26/4), [Sch. 16](https://www.legislation.gov.uk/uksi/2021/582/schedule/16))

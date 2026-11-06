@@ -29,7 +29,7 @@ summary: ''
 - (d) provide that persons of such description as may be prescribed shall, within a prescribed period of being required to do so by the Board, furnish to the Board information (of a prescribed kind) about training courses which are qualifying courses of vocational training for the purposes of section 32 above;
 - (e) make provision generally as to administration in connection with section 32 above.
 
-(2)[^key-6b7d768d777c879ecf34315615f23720] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6b7d768d777c879ecf34315615f23720] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The following provisions of the [^c12036741]Taxes Management Act 1970, namely—
 
@@ -61,7 +61,7 @@ shall apply in relation to an amount which is paid to any person by the Board as
 
 [^c12036721]: Textual amendment: [S. 33(1)(aa)](https://www.legislation.gov.uk/ukpga/1991/31/section/33/1/aa) inserted (29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 129(4)](https://www.legislation.gov.uk/ukpga/1996/8/section/129/4)
 
-[^key-6b7d768d777c879ecf34315615f23720]: Textual amendment: [S. 33(2)](https://www.legislation.gov.uk/ukpga/1991/31/section/33/2) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 60(e)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/60/e)
+[^c-6b7d768d777c879ecf34315615f23720]: Textual amendment: [S. 33(2)](https://www.legislation.gov.uk/ukpga/1991/31/section/33/2) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 60(e)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/60/e)
 
 [^c12036741]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 

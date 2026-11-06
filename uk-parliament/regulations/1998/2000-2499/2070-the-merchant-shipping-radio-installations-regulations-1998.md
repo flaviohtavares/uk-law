@@ -42,44 +42,44 @@ Coming into force
 
 28th September 1998
 
-The Secretary of State for the Environment, Transport and the Regions, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of the powers conferred by sections 85(1)(a) and (b), (3) (5) to (7) and 86(1) of that Act[^f00002] and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-dca412374a5296f6b1828fb1bfdafe05][^key-5448b16b14fd95a34b25e8b80b1d039d][^key-f8815e7ae1de04410147003426fd2444][^key-4f6c5f06fa0efc8fd9c0af7a11986f37]
+The Secretary of State for the Environment, Transport and the Regions, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of the powers conferred by sections 85(1)(a) and (b), (3) (5) to (7) and 86(1) of that Act[^f00002] and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^c-dca412374a5296f6b1828fb1bfdafe05][^c-5448b16b14fd95a34b25e8b80b1d039d][^c-f8815e7ae1de04410147003426fd2444][^c-4f6c5f06fa0efc8fd9c0af7a11986f37]
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and revocation[^key-910c50d012a0bdc7d0e6e6b9b137d530]
+### 1. Citation, commencement and revocation[^c-910c50d012a0bdc7d0e6e6b9b137d530]
 
 (1) These Regulations may be cited as the Merchant Shipping (Radio Installations) Regulations 1998 and shall come into force on 28th September 1998.
 
 (2) The Merchant Shipping (Radio Installations) Regulations 1992[^f00003] are hereby revoked.
 
-### 2. Interpretation[^key-a112a526a92b441ca50fac27b35fbee7]
+### 2. Interpretation[^c-a112a526a92b441ca50fac27b35fbee7]
 
 In these Regulations—
 
-- [^key-fdb07a636f0a82368ba42c1599c04acc]...
+- [^c-fdb07a636f0a82368ba42c1599c04acc]...
 - “cargo ship” means a ship other than a passenger ship;
-- [^key-88aeeb4cf1ef4f3629e95c44348534f7]...
-- [^key-bdfbf886c3868dbdf9ab9bb07bf1dda6]...
-- [^key-41fda13e7369540ef27f7b06309d1ee3]...
-- “EEA State” has the meaning given by Schedule 1 to the Interpretation Act 1978;[^key-dff5538194b843bf929295b1c2870529]
-- [^key-825eeac72bdb0e67bd0cef79c73d79a2]...
-- “fishing vessel” means a ship used for catching fish, whales, seals, walrus or other living resources of the sea;[^key-8c97d88c3e5dc57401a43153af1cdb3e]
+- [^c-88aeeb4cf1ef4f3629e95c44348534f7]...
+- [^c-bdfbf886c3868dbdf9ab9bb07bf1dda6]...
+- [^c-41fda13e7369540ef27f7b06309d1ee3]...
+- “EEA State” has the meaning given by Schedule 1 to the Interpretation Act 1978;[^c-dff5538194b843bf929295b1c2870529]
+- [^c-825eeac72bdb0e67bd0cef79c73d79a2]...
+- “fishing vessel” means a ship used for catching fish, whales, seals, walrus or other living resources of the sea;[^c-8c97d88c3e5dc57401a43153af1cdb3e]
 - “general radiotelecommunications” means operational and public correspondence traffic, other than distress, urgency and safety messages, conducted by radio;
-- “gross tonnage” means gross tonnage as determined in accordance with regulation 6 or 12(1) of the Merchant Shipping (Tonnage) Regulations 1997;[^key-f265a421afa9b88ed7b15c518875e6e6]
+- “gross tonnage” means gross tonnage as determined in accordance with regulation 6 or 12(1) of the Merchant Shipping (Tonnage) Regulations 1997;[^c-f265a421afa9b88ed7b15c518875e6e6]
 - “GMDSS” means the Global Maritime Distress and Safety System;
 - “GMDSS ship” means a ship to which Part II of these Regulations applies;
-- “interference” has the same meaning as in the Wireless Telegraphy Act 2006[^key-c5b08acb3251a3e1c7efe98e0b93da7b];
-- “international voyage” means a voyage between—[^key-9149ac30334fe61bccf9fe33eda9cdd1]
+- “interference” has the same meaning as in the Wireless Telegraphy Act 2006[^c-c5b08acb3251a3e1c7efe98e0b93da7b];
+- “international voyage” means a voyage between—[^c-9149ac30334fe61bccf9fe33eda9cdd1]
   - (a) a port in the United Kingdom and a port outside the United Kingdom; or
   - (b) a port in a country other than the United Kingdom and a port in any other country or territory which is outside the United Kingdom;
-- [^key-f0d0d5b71a4d49dae0887aba6958d170]...
-- “Merchant Shipping Notice” means a notice described as such and issued by the Maritime and Coastguard Agency (an executive agency of the Department for Transport) and includes a reference to any document amending or replacing that notice which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice;[^key-fd6ba4dbd7dda17df336e32ae99c3a20]
-- “non-United Kingdom ship” means any ship other than a United Kingdom ship;[^key-4a33463b45fd6ce33b3f91f4554398ec]
+- [^c-f0d0d5b71a4d49dae0887aba6958d170]...
+- “Merchant Shipping Notice” means a notice described as such and issued by the Maritime and Coastguard Agency (an executive agency of the Department for Transport) and includes a reference to any document amending or replacing that notice which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice;[^c-fd6ba4dbd7dda17df336e32ae99c3a20]
+- “non-United Kingdom ship” means any ship other than a United Kingdom ship;[^c-4a33463b45fd6ce33b3f91f4554398ec]
 - “passenger” is a person other than—
   - (a) the master and the members of the crew or other persons employed or engaged in any capacity on board a ship on the business of that ship; and
   - (b) a child under one year of age;
-- [^key-3fb7d0e3e12699875ac937a97fbcf21f]...
-- [^key-3fb7d0e3e12699875ac937a97fbcf21f]...
+- [^c-3fb7d0e3e12699875ac937a97fbcf21f]...
+- [^c-3fb7d0e3e12699875ac937a97fbcf21f]...
 - “passenger ship” means a ship certified to carry more than 12 passengers;
 - “pleasure vessel” means—
   - (a) any vessel which at the time it is being used is—
@@ -90,19 +90,19 @@ In these Regulations—
   - (b) any vessel wholly owned by or on behalf of a members' club formed for the purpose of sport or pleasure which, at the time it is being used, is used only for the sport or pleasure of members of that club or their immediate family or friends; and
   - (c) in the case of any vessel referred to in paragraphs (a) or (b) above no other payments are made by or on behalf of users of the vessel, other than by the owner.
 
-In this definition “immediate family” means in relation to an individual, the spouse or civil partner[^key-6aa03adc91ecece9d15a99b2a986704f] of the individual, and a relative of the individual or the individual’s spouse or civil partner, and “relative” means brother, sister, ancestor or lineal descendant;
+In this definition “immediate family” means in relation to an individual, the spouse or civil partner[^c-6aa03adc91ecece9d15a99b2a986704f] of the individual, and a relative of the individual or the individual’s spouse or civil partner, and “relative” means brother, sister, ancestor or lineal descendant;
 
 - “radio installation” means any radio installation provided on board a ship in compliance with these Regulations, including its associated antennas, interconnecting circuits and, where appropriate, sources of electrical energy;
-- “Radio Regulations” means the Radio Regulations annexed to, or regarded as being annexed to, the Constitution and Convention of the International Telecommunication Union, 1992;[^key-dc72a5ef6a8d21b6e4a4211f5001ab5b]
-- “[^key-29c59d63345b6e75c605998023fea9fb]**remote operation centre**” means any location from which a remotely operated vessel is operated except that vessel;
+- “Radio Regulations” means the Radio Regulations annexed to, or regarded as being annexed to, the Constitution and Convention of the International Telecommunication Union, 1992;[^c-dc72a5ef6a8d21b6e4a4211f5001ab5b]
+- “[^c-29c59d63345b6e75c605998023fea9fb]**remote operation centre**” means any location from which a remotely operated vessel is operated except that vessel;
 - “**remotely operated unmanned vessel**” means a vessel that—
   - (a) is operated from a remote operation centre, and
   - (b) is not carrying any person at the time that it is operated;
 - “Safety Convention” means the International Convention for the Safety of Life at Sea 1974[^f00009].
-- [^key-e52839ec4f2ce4eb0e360c831fd9c31a]...
-- [^key-e52839ec4f2ce4eb0e360c831fd9c31a]...
+- [^c-e52839ec4f2ce4eb0e360c831fd9c31a]...
+- [^c-e52839ec4f2ce4eb0e360c831fd9c31a]...
 
-### 3. Application[^key-708551283c5246520b9202cb9850f458]
+### 3. Application[^c-708551283c5246520b9202cb9850f458]
 
 (1) Subject to paragraph (2), these Regulations apply to—
 
@@ -114,28 +114,28 @@ In this definition “immediate family” means in relation to an individual, th
 - (a) ships of war and naval auxiliaries;
 - (b) ships owned or operated by a state and engaged only on governmental non-commercial service;
 - (c) ships engaged on an international voyage;
-- (d)[^key-cddc210e585580c1c59f9f1e1ae73957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-cddc210e585580c1c59f9f1e1ae73957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) ships not propelled by mechanical means;
 - (f) cargo ships of less than 300 gross tonnage;
 - (g) pleasure vessels;
 - (h) fishing vessels;
-- (ha)[^key-9bf51a91834e05786987897c42dc6b8a] remotely operated unmanned vessels;
+- (ha)[^c-9bf51a91834e05786987897c42dc6b8a] remotely operated unmanned vessels;
 - (i) ships to which the Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 apply;
 - (j) ships to which the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 apply;
-- (k) ships to which the Merchant Shipping (High Speed Craft) Regulations 2022[^key-35aaf01ce4794d22ad49dfc0b82574e5] apply; and
+- (k) ships to which the Merchant Shipping (High Speed Craft) Regulations 2022[^c-35aaf01ce4794d22ad49dfc0b82574e5] apply; and
 - (l) ships while being navigated within the Great Lakes of North America and their connecting and tributary waters as far east as the lower exit of St. Lambert Lock in Montreal in the Province of Quebec, Canada.
 
-### 4. Ships and persons in distress[^key-d338caa60eacadb042b0783f027e025c]
+### 4. Ships and persons in distress[^c-d338caa60eacadb042b0783f027e025c]
 
 Nothing in these Regulations shall prohibit any ship, survival craft or person in distress from using any means at their disposal to attract attention, make known their position or obtain help.
 
-### 5. Equivalents and exemptions[^key-0530ffa2bc86921ff7812699c9a1af86]
+### 5. Equivalents and exemptions[^c-0530ffa2bc86921ff7812699c9a1af86]
 
 (1) Where these Regulations require that a particular fitting, material, appliance or apparatus, or type thereof, shall be fitted or carried in a ship, or that any particular provision shall be made, the Secretary of state may permit any other fitting, material, appliance or apparatus or type thereof to be fitted or carried, or any other provision to be made in that ship if he is satisfied by trial thereof or otherwise that such other fitting, material, appliance or apparatus, or type thereof, or provision, is at least as effective as that required by these Regulations.
 
-(2) For the purpose of these Regulations, the results of verifications and tests carried out by bodies and laboratories[^key-0edd12a53490e87f2da65bba966f5f38] offering suitable and satisfactory guarantees of technical and professional competence shall be accepted.
+(2) For the purpose of these Regulations, the results of verifications and tests carried out by bodies and laboratories[^c-0edd12a53490e87f2da65bba966f5f38] offering suitable and satisfactory guarantees of technical and professional competence shall be accepted.
 
-(3)[^key-79810b57f383bc786bf94cece8613450] Where paragraph (4) applies, the Secretary of State may grant an exemption from the requirements of these Regulations in respect of a ship provided the functional requirements in paragraph 2 of Merchant Shipping Notice 1903 (M) are satisfied in respect of that ship.
+(3)[^c-79810b57f383bc786bf94cece8613450] Where paragraph (4) applies, the Secretary of State may grant an exemption from the requirements of these Regulations in respect of a ship provided the functional requirements in paragraph 2 of Merchant Shipping Notice 1903 (M) are satisfied in respect of that ship.
 
 (4) This paragraph applies—
 
@@ -163,25 +163,25 @@ Nothing in these Regulations shall prohibit any ship, survival craft or person i
 
 (9) Where an exemption granted under paragraph (3) or (5) is granted subject to safety requirements under paragraph (6)(a), the exemption ceases to have effect if those requirements are not complied with.
 
-### 6. Performance standards[^key-6e2456667d58d2fe6ad66d1e695ca786]
+### 6. Performance standards[^c-6e2456667d58d2fe6ad66d1e695ca786]
 
-(1) Subject to paragraph (4) below,[^key-ae0ff0611b97731194e46ffd708cbfc9] equipment required to be provided under these Regulations shall—
+(1) Subject to paragraph (4) below,[^c-ae0ff0611b97731194e46ffd708cbfc9] equipment required to be provided under these Regulations shall—
 
-- (a)[^key-b8dc20e7400c69dff72b5be146eef352] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b8dc20e7400c69dff72b5be146eef352] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) subject to paragraph (2) below, be of a type approved by the Secretary of State; and
-- (c)[^key-e78a963f81f05de4eaae86752ce41913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e78a963f81f05de4eaae86752ce41913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4a57fc80d8bf91dea4e17f0aa5e1babb]...
+[^c-4a57fc80d8bf91dea4e17f0aa5e1babb]...
 
 (2) In respect of a ship registered in a State party to the Safety Convention, sub-paragraph (b) above shall not apply to equipment of a type approved by the Administration of that State.
 
 (3) Any approval given pursuant to this regulation shall be given in writing and shall specify the date on which it takes effect and the conditions (if any) on which it is given.
 
-(4)[^key-0e1f99e55566abce34435255712c4e76] Equipment required to be provided under these Regulations to which the Merchant Shipping (Marine Equipment) Regulations 2025[^key-718015c10b7d0d70622dcd9b14f9c1a2] apply shall comply with the requirements of those Regulations.
+(4)[^c-0e1f99e55566abce34435255712c4e76] Equipment required to be provided under these Regulations to which the Merchant Shipping (Marine Equipment) Regulations 2025[^c-718015c10b7d0d70622dcd9b14f9c1a2] apply shall comply with the requirements of those Regulations.
 
 ## PART II — GMDSS SHIP REQUIREMENTS
 
-### 7. Interpretation of Part II[^key-f2f448185194e373547cd9dcb39891d3]
+### 7. Interpretation of Part II[^c-f2f448185194e373547cd9dcb39891d3]
 
 In this Part—
 
@@ -194,12 +194,12 @@ In this Part—
 - “conning position” means the place on the bridge with a commanding view of the ship and its position used by navigators when commanding, manoeuvring and controlling the ship;
 - “continuous watch” means a radio watch which is not interrupted other than for brief intervals when the ship’s receiving capability is impaired or blocked by its own communications or when the facilities are under periodical maintenance or checks;
 - “direct-printing telegraphy” means an automated telegraphy technique which complies with the relevant recommendations specified in a Merchant Shipping Notice;
-- “DSC” means Digital Selective Calling being a technique using digital codes which enables a radio station to establish contact with, and transfer information to, another station or group of stations, and complying with the relevant recommendations as specified in Section 5 of Annex 1 to Merchant Shipping Notice 1874 (M+F) Amendment 4[^key-11ce9b9dcdceb95068998dc3d6891596];
-- “EPIRB” means an emergency position-indicating radio beacon operating in the frequency band 406.0-406.1 MHz capable of transmitting a distress alert via satellite to a rescue coordination centre and transmitting signals for on-scene locating;[^key-66a73bd4d045d30d7fc6bef6e511652b]
-- [^key-c44ec5b3e8400dc01fc96639f0e9fc22]...
-- “GMDSS general operator’s certificate” and “GMDSS restricted operator’s certificate” mean the certificates respectively so called in the Radio Regulations, issued in accordance with those Regulations, and in relation to a United Kingdom ship, associated with an authority from the Secretary of State issued under Part 2 of the Wireless Telegraphy Act 2006[^key-1b75ee0894cb70b734b34dd0be3f7ebf];
+- “DSC” means Digital Selective Calling being a technique using digital codes which enables a radio station to establish contact with, and transfer information to, another station or group of stations, and complying with the relevant recommendations as specified in Section 5 of Annex 1 to Merchant Shipping Notice 1874 (M+F) Amendment 4[^c-11ce9b9dcdceb95068998dc3d6891596];
+- “EPIRB” means an emergency position-indicating radio beacon operating in the frequency band 406.0-406.1 MHz capable of transmitting a distress alert via satellite to a rescue coordination centre and transmitting signals for on-scene locating;[^c-66a73bd4d045d30d7fc6bef6e511652b]
+- [^c-c44ec5b3e8400dc01fc96639f0e9fc22]...
+- “GMDSS general operator’s certificate” and “GMDSS restricted operator’s certificate” mean the certificates respectively so called in the Radio Regulations, issued in accordance with those Regulations, and in relation to a United Kingdom ship, associated with an authority from the Secretary of State issued under Part 2 of the Wireless Telegraphy Act 2006[^c-1b75ee0894cb70b734b34dd0be3f7ebf];
 - “HF” means the frequency spectrum between 3000 kHz and 30 Mhz;
-- [^key-0e1723be2aadc002913066dd6b8b964b]...
+- [^c-0e1723be2aadc002913066dd6b8b964b]...
 - “International NAVTEX service” means the co-ordinated broadcast and automatic reception on 518 kHz of maritime safety information by means of narrow-band direct-printing telegraphy using the English language;
 - “locating” means the finding of ships, aircraft, units or persons in distress;
 - “maritme safety information” means navigational and meteorological warnings, meteorological forecasts and other urgent safety related messages broadcast to ships;
@@ -210,11 +210,11 @@ In this Part—
   and this service may also include feeder links necessary for its operation;
 - “MF” means the frequency spectrum between 300 kHz and 3000 kHz;
 - “pola orbiting satellite service” means a service which is based on polar orbiting satellites which receive and relay distress alerts from satellite EPIRBS and which provides their position;
-- [^key-0e1723be2aadc002913066dd6b8b964b]...
+- [^c-0e1723be2aadc002913066dd6b8b964b]...
 - “radio communication” means telecommunication by means of radio waves;
 - “radio communications service” means a service as defined in the Radio Regulations involving the transmission, emission and/or reception of radio waves for specific telecommunication purposes;
 - “radio log” means the record required to be kept by regulation 20;
-- “recognised mobile satellite service” means any service which operates through a satellite system and is recognized by the International Maritime Organization, for use in the GMDSS;[^key-c57e31dc15bfe5bdf5e79ae9ba95da0e]
+- “recognised mobile satellite service” means any service which operates through a satellite system and is recognized by the International Maritime Organization, for use in the GMDSS;[^c-c57e31dc15bfe5bdf5e79ae9ba95da0e]
 - “satellite EPIRB” means an EPIRB which is in the mobile-satellite service;
 - “sea area A1” means an area specified as sea area A1 in the Admiralty List of Radio Signals;
 - “sea area A2” means an area specified as sea area A2 in the Admiralty List of Radio Signals;
@@ -225,11 +225,11 @@ In this Part—
 - “ship station” means a mobile station in the maritime mobile-satellite service located on board a vessel which is not permanently moored, other than a survival craft station;
 - “survival craft station” means a mobile station in the maritime mobile-satellite service intended solely for survival purposes and located on any lifeboat, life-raft or other survival equipment;
 
-### 8. Functional Requirements[^key-fbf9c4f4b019cb3dff5f333c761983b3]
+### 8. Functional Requirements[^c-fbf9c4f4b019cb3dff5f333c761983b3]
 
 A ship must comply with each requirement applicable to that ship prescribed by Merchant Shipping Notice 1903 (M).
 
-### 9. Installation, location and control of radio equipment[^key-fba00b9a787ab0a2beca431ec408efee]
+### 9. Installation, location and control of radio equipment[^c-fba00b9a787ab0a2beca431ec408efee]
 
 (1) Every radio installation shall—
 
@@ -243,7 +243,7 @@ A ship must comply with each requirement applicable to that ship prescribed by M
 
 (3) Each radio transmitter and receiver fitted in accordance with these Regulations shall be provided with a suitable antenna or antennas. The antennas shall be so constructed and sited as to enable each transmitter and receiver to perform its intended communication function effectively.
 
-### 10. Installation of a distress panel[^key-104a1c3c6fe68e9187c17728bbc222f8]
+### 10. Installation of a distress panel[^c-104a1c3c6fe68e9187c17728bbc222f8]
 
 (1) In every passenger ship to which this regulation applies a distress panel shall be installed at the conning position.
 
@@ -263,51 +263,51 @@ A ship must comply with each requirement applicable to that ship prescribed by M
 
 (5) Information on the ship’s position shall be continuously and automatically provided to all relevant radio communication equipment included in the initial distress alert when the button or buttons on the distress panel is pressed.
 
-### 11. Radio equipment to be provided for all sea areas[^key-6372c99c8e910c8dce9fccdbd965bad5]
+### 11. Radio equipment to be provided for all sea areas[^c-6372c99c8e910c8dce9fccdbd965bad5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Additional radio equipment to be provided for area A1 ships[^key-6372c99c8e910c8dce9fccdbd965bad5]
+### 12. Additional radio equipment to be provided for area A1 ships[^c-6372c99c8e910c8dce9fccdbd965bad5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Additional radio equipment to be provided for area A2 ships[^key-6372c99c8e910c8dce9fccdbd965bad5]
+### 13. Additional radio equipment to be provided for area A2 ships[^c-6372c99c8e910c8dce9fccdbd965bad5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Additional radio equipment to be provided for area A3 ships[^key-6372c99c8e910c8dce9fccdbd965bad5]
+### 14. Additional radio equipment to be provided for area A3 ships[^c-6372c99c8e910c8dce9fccdbd965bad5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Additional radio equipment to be provided for area A4 ships[^key-6372c99c8e910c8dce9fccdbd965bad5]
+### 15. Additional radio equipment to be provided for area A4 ships[^c-6372c99c8e910c8dce9fccdbd965bad5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Radio watches[^key-5e5390d53d225710ba2ad1a652811432]
+### 16. Radio watches[^c-5e5390d53d225710ba2ad1a652811432]
 
 (1) Every ship while at sea shall maintain a continuous watch—
 
 - (a) on VHF DSC channel 70, if the ship, in accordance with the requirements of regulation 11(1)(b), is fittted with VHF radio installation;
 - (b) on the distress and safety DSC frequency 2, 187.5 kHz, if the ship, in accordance with the requirements of regulation 13(1)(b) or paragraph (c) of ALTERNATIVE A in regulation 14, is fitted with an MF radio installation;
 - (c) on the distress and safety DSC frequencies 2,187.5 kHz and 8,414.5 kHz, 6,312 kHz and also on at least one of the distress and safety DSC frequencies 4,207.5 kHz, 6,312 kHz, 12,577 kHz or 16,804.5 kHz, appropriate to the time of day and the geographical position of the ship, if the ship, in accordance with the requirements of paragraph (b) of ALTERNATIVE B in regulation 14 or 15, is fitted with an MF/HF radio installation; this watch may be kept by means of a scanning receiver;
-- (d) for satellite shore-to-ship distress alerts, if the ship, in accordance with the requirements of paragraph (a) ALTERNATIVE A in regulation 14, is fitted with a recognised mobile satellite service[^key-4bee844816195329ece949a1d61d4841] ship earth station.
+- (d) for satellite shore-to-ship distress alerts, if the ship, in accordance with the requirements of paragraph (a) ALTERNATIVE A in regulation 14, is fitted with a recognised mobile satellite service[^c-4bee844816195329ece949a1d61d4841] ship earth station.
 
 (2) Every ship while at sea shall maintain a radio watch for broadcasts of maritime safety information on the appropriate frequency or frequencies on which such information is broadcast for the area in which the ship is navigating.
 
-(3)[^key-c00e05ac40ff223916af3ddb0cc4d3ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c00e05ac40ff223916af3ddb0cc4d3ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-46f70afd61bcff06ae7e93d87e3ef25e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-46f70afd61bcff06ae7e93d87e3ef25e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Sources of energy[^key-8f2353ed2992a2c52a6e8f8336eb9d47]
+### 17. Sources of energy[^c-8f2353ed2992a2c52a6e8f8336eb9d47]
 
 (1) There shall be available at all times while the ship is at sea a supply of electrical energy sufficient to operate the radio installations and to charge any batteries used as part of a reserve source or sources of energy for the radio installations.
 
-(2) A reserve source or sources of energy shall be provided on every ship, to supply radio installations, used for the purpose of conducting distress and safety radiocommunications, in the event of failure of the ship’s main and emergency sources of electrical power. The reserve source or sources of energy shall be capable of simultaneously operating the VHF radio installation required by regulation 11(1)(a) and, as appropriate for the sea area or sea areas for which the ship is equipped, either the MF radio installation required by regulation 13(1)(a), the MF/HF radio installation required by subparagraph (a) of ALTERNATIVE B in regulation 14 or regulation 15, or the Organisation established by the Convention on the International Maritime Satellite Organisation[^key-81adbf26c353084cb919d068bde8c5dd]... ship earth station required by subparagraph (a) of ALTERNATIVE A in regulation 14 and any of the additional loads mentioned in paragraphs (5), (6) and (9) of this regulation for a period of at least—
+(2) A reserve source or sources of energy shall be provided on every ship, to supply radio installations, used for the purpose of conducting distress and safety radiocommunications, in the event of failure of the ship’s main and emergency sources of electrical power. The reserve source or sources of energy shall be capable of simultaneously operating the VHF radio installation required by regulation 11(1)(a) and, as appropriate for the sea area or sea areas for which the ship is equipped, either the MF radio installation required by regulation 13(1)(a), the MF/HF radio installation required by subparagraph (a) of ALTERNATIVE B in regulation 14 or regulation 15, or the Organisation established by the Convention on the International Maritime Satellite Organisation[^c-81adbf26c353084cb919d068bde8c5dd]... ship earth station required by subparagraph (a) of ALTERNATIVE A in regulation 14 and any of the additional loads mentioned in paragraphs (5), (6) and (9) of this regulation for a period of at least—
 
 - (a) one hour on ships provided with an emergency source of electrical power; or
 - (b) six hours on ships not provided with an emergency source of electrical power,
 
-if such source of power complies with all relevant provisions of the [^key-26ede843a66117d68707ce9ac15a3998]... Merchant Shipping (Cargo Ship Construction) Regulations 1997[^f00019] or the Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II or II(A)) Regulations 1998[^key-9f5b3b8f37f3aa6b96d81ee5ef18ddd4], as appropriate, including the supply of such power to the radio installations.
+if such source of power complies with all relevant provisions of the [^c-26ede843a66117d68707ce9ac15a3998]... Merchant Shipping (Cargo Ship Construction) Regulations 1997[^f00019] or the Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II or II(A)) Regulations 1998[^c-9f5b3b8f37f3aa6b96d81ee5ef18ddd4], as appropriate, including the supply of such power to the radio installations.
 
 (3) The reserve source or sources of energy need not be capable of supplying independent HF and MF radio installations simultaneously.
 
@@ -341,11 +341,11 @@ if such source of power complies with all relevant provisions of the [^key-26ede
 - (b) one fifth of the current consumption of the VHF transmitter;
 - (c) the current consumption of a MF or MF/HF receiver and of the transmitter when it is in condition that operation of the “press to transmit” switch will make it ready for immediate transmission;
 - (d) one third of the current which may be drawn by a MF or MF/HF transmitter for speech transmission on the frequency at which the current consumption of the transmitter is at a maximum;
-- (e) the current consumption of a[^key-27b35c167ed795fe28f1ea69530e321e] ship earth station when it is receiving transmissions;
-- (f) one quarter of the current which may be drawn by a[^key-2f0f8097a7e46e1b83884d64d9e54848] ship earth station when it is transmitting in the mode at which the current consumption is at a maximum; and
+- (e) the current consumption of a[^c-27b35c167ed795fe28f1ea69530e321e] ship earth station when it is receiving transmissions;
+- (f) one quarter of the current which may be drawn by a[^c-2f0f8097a7e46e1b83884d64d9e54848] ship earth station when it is transmitting in the mode at which the current consumption is at a maximum; and
 - (g) the total current consumption of all additional loads to which the reserve source may supply energy in times of distress or emergency.
 
-### 18. Serviceability and maintenance requirements[^key-1370847d816a1d11a9e2e05120885e4e]
+### 18. Serviceability and maintenance requirements[^c-1370847d816a1d11a9e2e05120885e4e]
 
 (1) The equipment used pursuant to these Regulations shall be so designed that the main units can be replaced readily, without elaborate recalibration or readjustment.
 
@@ -357,11 +357,11 @@ if such source of power complies with all relevant provisions of the [^key-26ede
 
 (5) Radio equipment required by this Part shall be maintained to meet the recommended performance standards of such equipment.
 
-(6) On ships while at sea the availability of equipment shall be ensured, as required in Merchant Shipping Notice 1690 (M) Amendment 1[^key-dae876648ab133afc1e107efc3add74f].
+(6) On ships while at sea the availability of equipment shall be ensured, as required in Merchant Shipping Notice 1690 (M) Amendment 1[^c-dae876648ab133afc1e107efc3add74f].
 
 (7) In all United Kingdom ships to which these Regulations apply a person nominated by the Master, normally the person qualified under regulation 19(3), shall, while the ship is at sea, carry out the appropriate tests and checks specified in Schedule 2 to these Regulations. If any of the radio installations required by these Regulations are not in working order, the nominated person shall inform the Master and record details of the deficiencies in the Radio Log referred to in regulation 20(1) below.
 
-### 19. Radio personnel[^key-0aacb7e9b1b43b8041e600d25eb74731]
+### 19. Radio personnel[^c-0aacb7e9b1b43b8041e600d25eb74731]
 
 (1) Every ship shall carry a person or persons qualified for distress and safety radio communication purposes as specified in paragraph (3) or (4) (as appropriate) of this regulation. Such person or persons shall be holders of certificates specified in the Radio Regulations as appropriate.
 
@@ -370,11 +370,11 @@ if such source of power complies with all relevant provisions of the [^key-26ede
 - (a) In the case of passenger ships to which this sub-paragraph applies, at least one such person as mentioned in paragraph (1) above shall be assigned by the master to perform only radio communication duties during distress incidents.
 - (b) In the case of all other ships one such person as mentioned in paragraph (1) above shall be designated by the master to have primary responsibility for radio communications during distress incidents.
 
-(3) On area A1 ships the person qualified as mentioned in paragraph (1) above shall hold at least a GMDSS restricted operator’s certificate issued in accordance with Section III of Article 47 of the Radio Regulations[^key-6cddc86c1aba03e7657e68ef1593cf12].
+(3) On area A1 ships the person qualified as mentioned in paragraph (1) above shall hold at least a GMDSS restricted operator’s certificate issued in accordance with Section III of Article 47 of the Radio Regulations[^c-6cddc86c1aba03e7657e68ef1593cf12].
 
-(4) On area A2, area A3 and area A4 ships the person qualified as mentioned in paragraph (1) above shall hold at least a GMDSS general operator’s certificate issued in accordance with Section III of Article 47 of the Radio Regulations[^key-86ba0059c16a9246ee4cf375f119ebdc], or equivalent.
+(4) On area A2, area A3 and area A4 ships the person qualified as mentioned in paragraph (1) above shall hold at least a GMDSS general operator’s certificate issued in accordance with Section III of Article 47 of the Radio Regulations[^c-86ba0059c16a9246ee4cf375f119ebdc], or equivalent.
 
-### 20. Radio records[^key-ea6143d98447a5b4da200518f01f8d20]
+### 20. Radio records[^c-ea6143d98447a5b4da200518f01f8d20]
 
 (1) A record (hereinafter referred to as “the GMDSS Radio Log”) shall be kept of the matters specified in Schedule 3.
 
@@ -386,121 +386,121 @@ if such source of power complies with all relevant provisions of the [^key-26ede
 
 ## PART III — NON-GMDSS SHIP REQUIREMENTS
 
-### 21. Interpretation[^key-99104977e081279d8c2de6e65add5941]
+### 21. Interpretation[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Provision of radio installations[^key-99104977e081279d8c2de6e65add5941]
+### 22. Provision of radio installations[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Interference with reception and with other installations[^key-99104977e081279d8c2de6e65add5941]
+### 23. Interference with reception and with other installations[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Testing of equipment[^key-99104977e081279d8c2de6e65add5941]
+### 24. Testing of equipment[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Charging of batteries[^key-99104977e081279d8c2de6e65add5941]
+### 25. Charging of batteries[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Spare parts, tools and testing equipment[^key-99104977e081279d8c2de6e65add5941]
+### 26. Spare parts, tools and testing equipment[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Serviceability and maintenance of radio installation[^key-99104977e081279d8c2de6e65add5941]
+### 27. Serviceability and maintenance of radio installation[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. VHF radiotelephone station[^key-99104977e081279d8c2de6e65add5941]
+### 28. VHF radiotelephone station[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Provision of antennas[^key-99104977e081279d8c2de6e65add5941]
+### 29. Provision of antennas[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Supply of electrical energy[^key-99104977e081279d8c2de6e65add5941]
+### 30. Supply of electrical energy[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Radiotelephone operators using the VHF radiotelephone installation[^key-99104977e081279d8c2de6e65add5941]
+### 31. Radiotelephone operators using the VHF radiotelephone installation[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. VHF radio watch[^key-99104977e081279d8c2de6e65add5941]
+### 32. VHF radio watch[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Radiotelephone station[^key-99104977e081279d8c2de6e65add5941]
+### 33. Radiotelephone station[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Provision of antennas[^key-99104977e081279d8c2de6e65add5941]
+### 34. Provision of antennas[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Range of radiotelephone transmitter[^key-99104977e081279d8c2de6e65add5941]
+### 35. Range of radiotelephone transmitter[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Supply of electrical energy[^key-99104977e081279d8c2de6e65add5941]
+### 36. Supply of electrical energy[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 37. Radiotelephone operators[^key-99104977e081279d8c2de6e65add5941]
+### 37. Radiotelephone operators[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 38. Radio watch[^key-99104977e081279d8c2de6e65add5941]
+### 38. Radio watch[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 39. Radio log—radiotelephone ship[^key-99104977e081279d8c2de6e65add5941]
+### 39. Radio log—radiotelephone ship[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 40. Radiotelegraph station[^key-99104977e081279d8c2de6e65add5941]
+### 40. Radiotelegraph station[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 41. Radiotelegraph operating rooms[^key-99104977e081279d8c2de6e65add5941]
+### 41. Radiotelegraph operating rooms[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 42. Provision of antennas[^key-99104977e081279d8c2de6e65add5941]
+### 42. Provision of antennas[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 43. Range of radiotelegraph transmitter[^key-99104977e081279d8c2de6e65add5941]
+### 43. Range of radiotelegraph transmitter[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44. Supply of electrical energy[^key-99104977e081279d8c2de6e65add5941]
+### 44. Supply of electrical energy[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 45. Radio officers[^key-99104977e081279d8c2de6e65add5941]
+### 45. Radio officers[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 46. Radio watch[^key-99104977e081279d8c2de6e65add5941]
+### 46. Radio watch[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 47. Radio log—radiotelegraph ship[^key-99104977e081279d8c2de6e65add5941]
+### 47. Radio log—radiotelegraph ship[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 48. Radio equipment for lifeboats and survival craft[^key-99104977e081279d8c2de6e65add5941]
+### 48. Radio equipment for lifeboats and survival craft[^c-99104977e081279d8c2de6e65add5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART IV — ENFORCEMENT
 
-### 49. Power to detain[^key-e293ad6b5f6be60503f2ba8b9cbe0912]
+### 49. Power to detain[^c-e293ad6b5f6be60503f2ba8b9cbe0912]
 
 (1) For the purposes of this regulation, any reference to “the Act” is a reference to the Merchant Shipping Act 1995.
 
@@ -534,17 +534,17 @@ if such source of power complies with all relevant provisions of the [^key-26ede
 
 (10) A ship must not be detained in a port where repair facilities are not readily available by reason of malfunction of the equipment for providing general radiocommunications referred to in paragraph 2.1.8 of Merchant Shipping Notice 1903 (M) if the ship is capable of performing all other distress and safety functions as required by that Merchant Shipping Notice.
 
-### 50. Penalties[^key-60222cc84306263818fead47938766c0]
+### 50. Penalties[^c-60222cc84306263818fead47938766c0]
 
-(1) If a [^key-f1ed41355e854ff9ceb457199cf32d44]... person nominated under regulation 18(7) of these Regulations contravenes any provision of these Regulations imposing a duty on him, he shall be guilty of an offence punishable on summary conviction to a fine not exceeding level 2 on the standard scale; and if any person, being the owner or master of the ship, permits such a contravention, he shall be guilty of an offence punishable on summary conviction to a fine not exceeding the statutory maximum or, on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine, or both.
+(1) If a [^c-f1ed41355e854ff9ceb457199cf32d44]... person nominated under regulation 18(7) of these Regulations contravenes any provision of these Regulations imposing a duty on him, he shall be guilty of an offence punishable on summary conviction to a fine not exceeding level 2 on the standard scale; and if any person, being the owner or master of the ship, permits such a contravention, he shall be guilty of an offence punishable on summary conviction to a fine not exceeding the statutory maximum or, on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine, or both.
 
 (2) If these Regulations are contravened in any other respect in relation to any ship, the owner and master of the ship shall each be guilty of an offence punishable on summary conviction to a fine not exceeding the statutory maximum or, on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine, or both.
 
-### 51. Defence[^key-5351b019ebb01a6c858dd1b64434fdfd]
+### 51. Defence[^c-5351b019ebb01a6c858dd1b64434fdfd]
 
 It shall be a defence for a person charged under these Regulations to show that he took all reasonable precautions to avoid the commission of the offence.
 
-### 52. Review of Regulations[^key-211987467b9786dc0377a0ceb1b4dabb]
+### 52. Review of Regulations[^c-211987467b9786dc0377a0ceb1b4dabb]
 
 (1) The Secretary of State must from time to time—
 
@@ -572,7 +572,7 @@ Parliamentary Under-Secretary of State,
 
 Department of the Environment, Transport and the Regions
 
-## SCHEDULE 1 — SATELLITE EPIRBS[^key-e50f03c9e8dd308a2534d6e11ddcb637]
+## SCHEDULE 1 — SATELLITE EPIRBS[^c-e50f03c9e8dd308a2534d6e11ddcb637]
 
 **No longer in force.**
 
@@ -584,56 +584,56 @@ Regulation 11(1)(f)
 
 Regulation 18(7)
 
-### 1. Daily[^key-474946b29dc38c0d1b2ead3172277018]
+### 1. Daily[^c-474946b29dc38c0d1b2ead3172277018]
 
 - (a) The proper functioning of the DSC facilities shall be tested at least once each day, without radiation of signals, by use of the means provided on the equipment.
 - (b) Batteries providing a source of energy for any part of the radio installations shall be tested daily and, where necessary, brought up to the fully charged condition.
 
-### 2. Weekly[^key-708178fdf16574b1be4e679a4d1dec6c]
+### 2. Weekly[^c-708178fdf16574b1be4e679a4d1dec6c]
 
 - (a) The proper operation of the DSC facilities shall be tested at least once a week by means of a test call, when within communication range of a coast station fitted with DSC equipment. Where a ship has been out of communication range of a coast station fitted with DSC equipment for a period of longer than one week, a test call shall be made on the first opportunity that the ship is within communication range of such a coast station.
 - (b) Where the reserve source of energy is not a battery (for example, a motor generator), the reserve source of energy shall be tested weekly.
 
-### 3. Monthly[^key-f1f49f60b64fd2acff8a9f94d679dfdf]
+### 3. Monthly[^c-f1f49f60b64fd2acff8a9f94d679dfdf]
 
 - (a) Each EPIRB and satellite EPIRB shall be examined at least once a month to determine its capability to operate properly, particularly its ability to float free (where required to do so) in the event of the ship sinking, its security and for signs of damage.
 - (b) Each search and rescue radar transponder shall be checked at least once a month for security and signs of damage.
 - (c) Each survival craft two-way VHF equipment shall be tested at least once a month on a frequency other than 156.8 MHz (VHF Channel 16).
 - (d) A check shall be made at least once a month on the security and condition of all batteries providing a source of energy for any part of a radio installation. The battery connections and compartment shall also be checked.
 
-## SCHEDULE 3 — GMDSS RADIO LOG[^key-d0203e7a66089d96202cbfccdc6f6395]
+## SCHEDULE 3 — GMDSS RADIO LOG[^c-d0203e7a66089d96202cbfccdc6f6395]
 
 Regulation 20(1)
 
-[^key-d0203e7a66089d96202cbfccdc6f6395]The following shall be recorded in the GMDSS Radio Log as they occur—
+[^c-d0203e7a66089d96202cbfccdc6f6395]The following shall be recorded in the GMDSS Radio Log as they occur—
 
 - (a) a summary of communications relating to distress, urgency and safety traffic and the time such communications occurred;
 - (b) a record of important incidents connected with the radio service and the time such incidents occurred; and
 - (c) where appropriate, the position of the ship at least once a day and the time at which the ship was in that position.
 
-## SCHEDULE 4 — EQUIPMENT TESTS AND BATTERY RESERVE POWER CHECKS[^key-73eea97ea49d82c01da1ede2c58f73fe]
+## SCHEDULE 4 — EQUIPMENT TESTS AND BATTERY RESERVE POWER CHECKS[^c-73eea97ea49d82c01da1ede2c58f73fe]
 
 **No longer in force.**
 
 Regulation 24(1)
 
-### 1. Daily[^key-73eea97ea49d82c01da1ede2c58f73fe]
+### 1. Daily[^c-73eea97ea49d82c01da1ede2c58f73fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Weekly[^key-73eea97ea49d82c01da1ede2c58f73fe]
+### 2. Weekly[^c-73eea97ea49d82c01da1ede2c58f73fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Monthly[^key-73eea97ea49d82c01da1ede2c58f73fe]
+### 3. Monthly[^c-73eea97ea49d82c01da1ede2c58f73fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Annually[^key-73eea97ea49d82c01da1ede2c58f73fe]
+### 4. Annually[^c-73eea97ea49d82c01da1ede2c58f73fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — ADDITIONAL KNOWLEDGE AND TRAINING REQUIREMENTS FOR RADIOTELEPHONE OPERATORS AND RADIO OFFICERS[^key-73eea97ea49d82c01da1ede2c58f73fe]
+## SCHEDULE 5 — ADDITIONAL KNOWLEDGE AND TRAINING REQUIREMENTS FOR RADIOTELEPHONE OPERATORS AND RADIO OFFICERS[^c-73eea97ea49d82c01da1ede2c58f73fe]
 
 **No longer in force.**
 
@@ -641,41 +641,41 @@ Regulations 37(3) and 45(4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — RADIO LOG—RADIOTELEPHONE SHIP[^key-73eea97ea49d82c01da1ede2c58f73fe]
+## SCHEDULE 6 — RADIO LOG—RADIOTELEPHONE SHIP[^c-73eea97ea49d82c01da1ede2c58f73fe]
 
 **No longer in force.**
 
 Regulation 39(2)
 
-### PART A[^key-73eea97ea49d82c01da1ede2c58f73fe]
+### PART A[^c-73eea97ea49d82c01da1ede2c58f73fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — FORM OF RADIOTELEPHONE LOG-BOOK[^key-73eea97ea49d82c01da1ede2c58f73fe]
+### PART B — FORM OF RADIOTELEPHONE LOG-BOOK[^c-73eea97ea49d82c01da1ede2c58f73fe]
 
 **RADIOTELEPHONE LOG**
 
 [image: see source](https://www.legislation.gov.uk/uksi/1998/2070/images/uksi_19982070_en_001)
 
-## SCHEDULE 7 — RADIO LOG—RADIOTELEGRAPH SHIP[^key-73eea97ea49d82c01da1ede2c58f73fe]
+## SCHEDULE 7 — RADIO LOG—RADIOTELEGRAPH SHIP[^c-73eea97ea49d82c01da1ede2c58f73fe]
 
 **No longer in force.**
 
 Regulation 47(2)
 
-### PART A[^key-73eea97ea49d82c01da1ede2c58f73fe]
+### PART A[^c-73eea97ea49d82c01da1ede2c58f73fe]
 
 The radio log book, the form of which is at Part B below, is compiled in two parts which shall be completed in accordance with the following—
 
-#### PART I[^key-73eea97ea49d82c01da1ede2c58f73fe]
+#### PART I[^c-73eea97ea49d82c01da1ede2c58f73fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### PART II[^key-73eea97ea49d82c01da1ede2c58f73fe]
+#### PART II[^c-73eea97ea49d82c01da1ede2c58f73fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — FORM OF RADIOTELEPHONE LOG-BOOK[^key-73eea97ea49d82c01da1ede2c58f73fe]
+### PART B — FORM OF RADIOTELEPHONE LOG-BOOK[^c-73eea97ea49d82c01da1ede2c58f73fe]
 
 **RADIOTELEPHONE LOG**
 
@@ -701,166 +701,166 @@ Copies of SOLAS may be obtained from the International Maritime Organisation, 4 
 
 [^f00002]: Footnote: Sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), section 8.
 
-[^key-dca412374a5296f6b1828fb1bfdafe05]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/2070) excluded (16.12.1998) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998 (S.I. 1998/2771)](https://www.legislation.gov.uk/uksi/1998/2771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/2771/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1998/2771/regulation/4), [5](https://www.legislation.gov.uk/uksi/1998/2771/regulation/5), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/2771/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1998/2771/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/1998/2771/regulation/3))
+[^c-dca412374a5296f6b1828fb1bfdafe05]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/2070) excluded (16.12.1998) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998 (S.I. 1998/2771)](https://www.legislation.gov.uk/uksi/1998/2771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/2771/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1998/2771/regulation/4), [5](https://www.legislation.gov.uk/uksi/1998/2771/regulation/5), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/2771/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1998/2771/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/1998/2771/regulation/3))
 
-[^key-5448b16b14fd95a34b25e8b80b1d039d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/2070) excluded in part (23.10.2000) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (S.I. 2000/2687)](https://www.legislation.gov.uk/uksi/2000/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1), [5(1)(h)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1/h)
+[^c-5448b16b14fd95a34b25e8b80b1d039d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/2070) excluded in part (23.10.2000) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (S.I. 2000/2687)](https://www.legislation.gov.uk/uksi/2000/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1), [5(1)(h)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1/h)
 
-[^key-f8815e7ae1de04410147003426fd2444]: Modification: Regulations excluded (6.4.2016) by [S.I. 1998/2771](https://www.legislation.gov.uk/uksi/1998/2771), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/2771/schedule/1) [Table (as substituted by The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) (Amendment) Regulations 2016 (S.I. 2016/353)](https://www.legislation.gov.uk/uksi/2016/353), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/353/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2016/353/regulation/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/353/schedule/1))
+[^c-f8815e7ae1de04410147003426fd2444]: Modification: Regulations excluded (6.4.2016) by [S.I. 1998/2771](https://www.legislation.gov.uk/uksi/1998/2771), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/2771/schedule/1) [Table (as substituted by The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) (Amendment) Regulations 2016 (S.I. 2016/353)](https://www.legislation.gov.uk/uksi/2016/353), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/353/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2016/353/regulation/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/353/schedule/1))
 
-[^key-4f6c5f06fa0efc8fd9c0af7a11986f37]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/2070) excluded (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1195/schedule/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-4f6c5f06fa0efc8fd9c0af7a11986f37]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/2070) excluded (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1195/schedule/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
-[^key-910c50d012a0bdc7d0e6e6b9b137d530]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-910c50d012a0bdc7d0e6e6b9b137d530]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1992/3](https://www.legislation.gov.uk/uksi/1992/3), as amended by [S.I. 1995/1210](https://www.legislation.gov.uk/uksi/1995/1210).
 
-[^key-a112a526a92b441ca50fac27b35fbee7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-a112a526a92b441ca50fac27b35fbee7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-fdb07a636f0a82368ba42c1599c04acc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-fdb07a636f0a82368ba42c1599c04acc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-88aeeb4cf1ef4f3629e95c44348534f7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (15.4.2026) by virtue of [The Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 (S.I. 2026/306)](https://www.legislation.gov.uk/uksi/2026/306), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1), [Sch. Pt. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/1/paragraph/1)
+[^c-88aeeb4cf1ef4f3629e95c44348534f7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (15.4.2026) by virtue of [The Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 (S.I. 2026/306)](https://www.legislation.gov.uk/uksi/2026/306), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1), [Sch. Pt. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/1/paragraph/1)
 
-[^key-bdfbf886c3868dbdf9ab9bb07bf1dda6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-bdfbf886c3868dbdf9ab9bb07bf1dda6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-41fda13e7369540ef27f7b06309d1ee3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (20.12.2018) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(2)(d)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/d)
+[^c-41fda13e7369540ef27f7b06309d1ee3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (20.12.2018) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(2)(d)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/d)
 
-[^key-dff5538194b843bf929295b1c2870529]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) substituted (20.12.2018) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(2)(d)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/d)
+[^c-dff5538194b843bf929295b1c2870529]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) substituted (20.12.2018) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(2)(d)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/d)
 
-[^key-825eeac72bdb0e67bd0cef79c73d79a2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(d)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-825eeac72bdb0e67bd0cef79c73d79a2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(d)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-8c97d88c3e5dc57401a43153af1cdb3e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) inserted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(e)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-8c97d88c3e5dc57401a43153af1cdb3e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) inserted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(e)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-f265a421afa9b88ed7b15c518875e6e6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) inserted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(f)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/f) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-f265a421afa9b88ed7b15c518875e6e6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) inserted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(f)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/f) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-c5b08acb3251a3e1c7efe98e0b93da7b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(g)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-c5b08acb3251a3e1c7efe98e0b93da7b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(g)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-9149ac30334fe61bccf9fe33eda9cdd1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) inserted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(h)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/h) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-9149ac30334fe61bccf9fe33eda9cdd1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) inserted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(h)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/h) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-f0d0d5b71a4d49dae0887aba6958d170]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(i)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-f0d0d5b71a4d49dae0887aba6958d170]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(i)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-fd6ba4dbd7dda17df336e32ae99c3a20]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(j)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/j) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-fd6ba4dbd7dda17df336e32ae99c3a20]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(j)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/j) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-4a33463b45fd6ce33b3f91f4554398ec]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) inserted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(l)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/l) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-4a33463b45fd6ce33b3f91f4554398ec]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) inserted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(l)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/l) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-3fb7d0e3e12699875ac937a97fbcf21f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(k)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/k) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-3fb7d0e3e12699875ac937a97fbcf21f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(k)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/k) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-6aa03adc91ecece9d15a99b2a986704f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(15)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/15), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 15](https://www.legislation.gov.uk/uksi/2005/2114/schedule/15)
+[^c-6aa03adc91ecece9d15a99b2a986704f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(15)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/15), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 15](https://www.legislation.gov.uk/uksi/2005/2114/schedule/15)
 
-[^key-dc72a5ef6a8d21b6e4a4211f5001ab5b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(m)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/m) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-dc72a5ef6a8d21b6e4a4211f5001ab5b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(m)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/m) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-29c59d63345b6e75c605998023fea9fb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) inserted (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2023/1216/schedule/2/paragraph/2/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
+[^c-29c59d63345b6e75c605998023fea9fb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) inserted (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2023/1216/schedule/2/paragraph/2/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
 
 [^f00009]: Footnote: Cmnd, 7874.
 
-[^key-e52839ec4f2ce4eb0e360c831fd9c31a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(n)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/n) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-e52839ec4f2ce4eb0e360c831fd9c31a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/2070/regulation/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 2(n)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/2/n) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-708551283c5246520b9202cb9850f458]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/2070/regulation/3) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-708551283c5246520b9202cb9850f458]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/2070/regulation/3) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-cddc210e585580c1c59f9f1e1ae73957]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/3/2/d) omitted (15.4.2026) by virtue of [The Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 (S.I. 2026/306)](https://www.legislation.gov.uk/uksi/2026/306), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1), [Sch. Pt. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/1/paragraph/1)
+[^c-cddc210e585580c1c59f9f1e1ae73957]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/3/2/d) omitted (15.4.2026) by virtue of [The Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 (S.I. 2026/306)](https://www.legislation.gov.uk/uksi/2026/306), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1), [Sch. Pt. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/1/paragraph/1)
 
-[^key-9bf51a91834e05786987897c42dc6b8a]: Textual amendment: [Reg. 3(2)(ha)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/3/2/ha) inserted (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2023/1216/schedule/2/paragraph/2/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
+[^c-9bf51a91834e05786987897c42dc6b8a]: Textual amendment: [Reg. 3(2)(ha)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/3/2/ha) inserted (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2023/1216/schedule/2/paragraph/2/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
 
-[^key-35aaf01ce4794d22ad49dfc0b82574e5]: Textual amendment: Words in [reg. 3(2)(k)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/3/2/k) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/6) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-35aaf01ce4794d22ad49dfc0b82574e5]: Textual amendment: Words in [reg. 3(2)(k)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/3/2/k) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/6) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
 
-[^key-d338caa60eacadb042b0783f027e025c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/2070/regulation/4) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-d338caa60eacadb042b0783f027e025c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/2070/regulation/4) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-0530ffa2bc86921ff7812699c9a1af86]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1998/2070/regulation/5) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-0530ffa2bc86921ff7812699c9a1af86]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1998/2070/regulation/5) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-0edd12a53490e87f2da65bba966f5f38]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/5/2) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/4/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-0edd12a53490e87f2da65bba966f5f38]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/5/2) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/4/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-79810b57f383bc786bf94cece8613450]: Textual amendment: [Reg. 5(3)-(9)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/5/3) substituted for [reg. 5(3)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/5/3) (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/4/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-79810b57f383bc786bf94cece8613450]: Textual amendment: [Reg. 5(3)-(9)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/5/3) substituted for [reg. 5(3)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/5/3) (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/4/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-6e2456667d58d2fe6ad66d1e695ca786]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/2070/regulation/6) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-6e2456667d58d2fe6ad66d1e695ca786]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/2070/regulation/6) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-ae0ff0611b97731194e46ffd708cbfc9]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/6/1) inserted (5.8.1999) by [The Merchant Shipping (Marine Equipment) Regulations 1999 (S.I. 1999/1957)](https://www.legislation.gov.uk/uksi/1999/1957), [reg. 1](https://www.legislation.gov.uk/uksi/1999/1957/regulation/1), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/1957/schedule/1/paragraph/1/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/1957/regulation/4))
+[^c-ae0ff0611b97731194e46ffd708cbfc9]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/6/1) inserted (5.8.1999) by [The Merchant Shipping (Marine Equipment) Regulations 1999 (S.I. 1999/1957)](https://www.legislation.gov.uk/uksi/1999/1957), [reg. 1](https://www.legislation.gov.uk/uksi/1999/1957/regulation/1), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/1957/schedule/1/paragraph/1/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/1957/regulation/4))
 
-[^key-b8dc20e7400c69dff72b5be146eef352]: Textual amendment: [Reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/6/1/a) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/5/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-b8dc20e7400c69dff72b5be146eef352]: Textual amendment: [Reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/6/1/a) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/5/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-e78a963f81f05de4eaae86752ce41913]: Textual amendment: [Reg. 6(1)(c)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/6/1/c) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/5/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-e78a963f81f05de4eaae86752ce41913]: Textual amendment: [Reg. 6(1)(c)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/6/1/c) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/5/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-4a57fc80d8bf91dea4e17f0aa5e1babb]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/1998/2070/regulation/6) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/5/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-4a57fc80d8bf91dea4e17f0aa5e1babb]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/1998/2070/regulation/6) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/5/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-0e1f99e55566abce34435255712c4e76]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/6/4) inserted (5.8.1999) by [The Merchant Shipping (Marine Equipment) Regulations 1999 (S.I. 1999/1957)](https://www.legislation.gov.uk/uksi/1999/1957), [reg. 1](https://www.legislation.gov.uk/uksi/1999/1957/regulation/1), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/1999/1957/schedule/1/paragraph/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/1957/regulation/4))
+[^c-0e1f99e55566abce34435255712c4e76]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/6/4) inserted (5.8.1999) by [The Merchant Shipping (Marine Equipment) Regulations 1999 (S.I. 1999/1957)](https://www.legislation.gov.uk/uksi/1999/1957), [reg. 1](https://www.legislation.gov.uk/uksi/1999/1957/regulation/1), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/1999/1957/schedule/1/paragraph/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/1957/regulation/4))
 
-[^key-718015c10b7d0d70622dcd9b14f9c1a2]: Textual amendment: Word in [reg. 6(4)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/6/4) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-718015c10b7d0d70622dcd9b14f9c1a2]: Textual amendment: Word in [reg. 6(4)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/6/4) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
-[^key-f2f448185194e373547cd9dcb39891d3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1998/2070/regulation/7) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-f2f448185194e373547cd9dcb39891d3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1998/2070/regulation/7) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-11ce9b9dcdceb95068998dc3d6891596]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1998/2070/regulation/7) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/6/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-11ce9b9dcdceb95068998dc3d6891596]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1998/2070/regulation/7) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/6/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-66a73bd4d045d30d7fc6bef6e511652b]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1998/2070/regulation/7) substituted (15.4.2026) by [The Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 (S.I. 2026/306)](https://www.legislation.gov.uk/uksi/2026/306), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1), [Sch. Pt. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/1/paragraph/1)
+[^c-66a73bd4d045d30d7fc6bef6e511652b]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1998/2070/regulation/7) substituted (15.4.2026) by [The Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 (S.I. 2026/306)](https://www.legislation.gov.uk/uksi/2026/306), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1), [Sch. Pt. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/1/paragraph/1)
 
-[^key-c44ec5b3e8400dc01fc96639f0e9fc22]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/1998/2070/regulation/7) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/6/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-c44ec5b3e8400dc01fc96639f0e9fc22]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/1998/2070/regulation/7) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/6/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-1b75ee0894cb70b734b34dd0be3f7ebf]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1998/2070/regulation/7) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 6(c)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/6/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-1b75ee0894cb70b734b34dd0be3f7ebf]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1998/2070/regulation/7) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 6(c)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/6/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-0e1723be2aadc002913066dd6b8b964b]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1998/2070/regulation/7) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 6(d)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/6/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-0e1723be2aadc002913066dd6b8b964b]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1998/2070/regulation/7) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 6(d)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/6/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-c57e31dc15bfe5bdf5e79ae9ba95da0e]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1998/2070/regulation/7) inserted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 6(e)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/6/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-c57e31dc15bfe5bdf5e79ae9ba95da0e]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1998/2070/regulation/7) inserted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 6(e)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/6/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-fbf9c4f4b019cb3dff5f333c761983b3]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1998/2070/regulation/8) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/7) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-fbf9c4f4b019cb3dff5f333c761983b3]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1998/2070/regulation/8) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/7) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-fba00b9a787ab0a2beca431ec408efee]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/2070/regulation/9) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-fba00b9a787ab0a2beca431ec408efee]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/2070/regulation/9) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-104a1c3c6fe68e9187c17728bbc222f8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/2070/regulation/10) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-104a1c3c6fe68e9187c17728bbc222f8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/2070/regulation/10) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-6372c99c8e910c8dce9fccdbd965bad5]: Textual amendment: [Regs. 11-15](https://www.legislation.gov.uk/uksi/1998/2070/regulation/11) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/8) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-6372c99c8e910c8dce9fccdbd965bad5]: Textual amendment: [Regs. 11-15](https://www.legislation.gov.uk/uksi/1998/2070/regulation/11) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/8) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-5e5390d53d225710ba2ad1a652811432]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1998/2070/regulation/16) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-5e5390d53d225710ba2ad1a652811432]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1998/2070/regulation/16) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-4bee844816195329ece949a1d61d4841]: Textual amendment: Words in [reg. 16(1)(d)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/16/1/d) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/9/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-4bee844816195329ece949a1d61d4841]: Textual amendment: Words in [reg. 16(1)(d)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/16/1/d) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/9/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-c00e05ac40ff223916af3ddb0cc4d3ea]: Textual amendment: [Reg. 16(3)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/16/3) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/9/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-c00e05ac40ff223916af3ddb0cc4d3ea]: Textual amendment: [Reg. 16(3)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/16/3) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/9/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-46f70afd61bcff06ae7e93d87e3ef25e]: Textual amendment: [Reg. 16(4)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/16/4) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/9/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-46f70afd61bcff06ae7e93d87e3ef25e]: Textual amendment: [Reg. 16(4)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/16/4) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/9/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-8f2353ed2992a2c52a6e8f8336eb9d47]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1998/2070/regulation/17) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-8f2353ed2992a2c52a6e8f8336eb9d47]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1998/2070/regulation/17) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-81adbf26c353084cb919d068bde8c5dd]: Textual amendment: Word in [reg. 17(2)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/17/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 10(a)(i)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/10/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-81adbf26c353084cb919d068bde8c5dd]: Textual amendment: Word in [reg. 17(2)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/17/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 10(a)(i)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/10/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-26ede843a66117d68707ce9ac15a3998]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/17/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 10(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/10/a/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-26ede843a66117d68707ce9ac15a3998]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/17/2) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 10(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/10/a/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
 [^f00019]: Footnote: [S.I. 1997/1509](https://www.legislation.gov.uk/uksi/1997/1509).
 
-[^key-9f5b3b8f37f3aa6b96d81ee5ef18ddd4]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/17/2) inserted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 10(a)(iii)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/10/a/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-9f5b3b8f37f3aa6b96d81ee5ef18ddd4]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/17/2) inserted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 10(a)(iii)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/10/a/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-27b35c167ed795fe28f1ea69530e321e]: Textual amendment: Word in [reg. 17(10)(e)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/17/10/e) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/10/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-27b35c167ed795fe28f1ea69530e321e]: Textual amendment: Word in [reg. 17(10)(e)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/17/10/e) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/10/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-2f0f8097a7e46e1b83884d64d9e54848]: Textual amendment: Word in [reg. 17(10)(f)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/17/10/f) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/10/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-2f0f8097a7e46e1b83884d64d9e54848]: Textual amendment: Word in [reg. 17(10)(f)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/17/10/f) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/10/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-1370847d816a1d11a9e2e05120885e4e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1998/2070/regulation/18) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-1370847d816a1d11a9e2e05120885e4e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1998/2070/regulation/18) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-dae876648ab133afc1e107efc3add74f]: Textual amendment: Words in [reg. 18(6)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/18/6) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/11) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-dae876648ab133afc1e107efc3add74f]: Textual amendment: Words in [reg. 18(6)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/18/6) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/11) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-0aacb7e9b1b43b8041e600d25eb74731]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1998/2070/regulation/19) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-0aacb7e9b1b43b8041e600d25eb74731]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1998/2070/regulation/19) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-6cddc86c1aba03e7657e68ef1593cf12]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/19/3) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/12/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-6cddc86c1aba03e7657e68ef1593cf12]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/19/3) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/12/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-86ba0059c16a9246ee4cf375f119ebdc]: Textual amendment: Words in [reg. 19(4)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/19/4) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/12/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-86ba0059c16a9246ee4cf375f119ebdc]: Textual amendment: Words in [reg. 19(4)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/19/4) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/12/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-ea6143d98447a5b4da200518f01f8d20]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1998/2070/regulation/20) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-ea6143d98447a5b4da200518f01f8d20]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1998/2070/regulation/20) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
 [^f00020]: Footnote: [S.I. 1981/569](https://www.legislation.gov.uk/uksi/1981/569), amended by S.I. 1991/ .
 
-[^key-99104977e081279d8c2de6e65add5941]: Textual amendment: [Regs. 21-48](https://www.legislation.gov.uk/uksi/1998/2070/regulation/21) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-99104977e081279d8c2de6e65add5941]: Textual amendment: [Regs. 21-48](https://www.legislation.gov.uk/uksi/1998/2070/regulation/21) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-e293ad6b5f6be60503f2ba8b9cbe0912]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/uksi/1998/2070/regulation/49) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/14) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-e293ad6b5f6be60503f2ba8b9cbe0912]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/uksi/1998/2070/regulation/49) substituted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/14) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-60222cc84306263818fead47938766c0]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1998/2070/regulation/50) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-60222cc84306263818fead47938766c0]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1998/2070/regulation/50) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-f1ed41355e854ff9ceb457199cf32d44]: Textual amendment: Words in [reg. 50(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/50/1) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/15) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-f1ed41355e854ff9ceb457199cf32d44]: Textual amendment: Words in [reg. 50(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/50/1) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/15) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-5351b019ebb01a6c858dd1b64434fdfd]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1998/2070/regulation/51) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-5351b019ebb01a6c858dd1b64434fdfd]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1998/2070/regulation/51) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-211987467b9786dc0377a0ceb1b4dabb]: Textual amendment: [Reg. 52](https://www.legislation.gov.uk/uksi/1998/2070/regulation/52) inserted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/16) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-211987467b9786dc0377a0ceb1b4dabb]: Textual amendment: [Reg. 52](https://www.legislation.gov.uk/uksi/1998/2070/regulation/52) inserted (24.12.2021) by [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/16) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-e50f03c9e8dd308a2534d6e11ddcb637]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1998/2070/schedule/1) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/17) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-e50f03c9e8dd308a2534d6e11ddcb637]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1998/2070/schedule/1) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/17) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
 
-[^key-474946b29dc38c0d1b2ead3172277018]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1998/2070/schedule/2/paragraph/1) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-474946b29dc38c0d1b2ead3172277018]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1998/2070/schedule/2/paragraph/1) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-708178fdf16574b1be4e679a4d1dec6c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1998/2070/schedule/2/paragraph/2) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-708178fdf16574b1be4e679a4d1dec6c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1998/2070/schedule/2/paragraph/2) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-f1f49f60b64fd2acff8a9f94d679dfdf]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1998/2070/schedule/2/paragraph/3) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-f1f49f60b64fd2acff8a9f94d679dfdf]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1998/2070/schedule/2/paragraph/3) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-d0203e7a66089d96202cbfccdc6f6395]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1998/2070/schedule/3) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
+[^c-d0203e7a66089d96202cbfccdc6f6395]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1998/2070/schedule/3) in force at 28.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2070/regulation/1/1)
 
-[^key-73eea97ea49d82c01da1ede2c58f73fe]: Textual amendment: [Schs. 4-7](https://www.legislation.gov.uk/uksi/1998/2070/schedule/4) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/17) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))
+[^c-73eea97ea49d82c01da1ede2c58f73fe]: Textual amendment: [Schs. 4-7](https://www.legislation.gov.uk/uksi/1998/2070/schedule/4) omitted (24.12.2021) by virtue of [The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 (S.I. 2021/1316)](https://www.legislation.gov.uk/uksi/2021/1316), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/17) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4))

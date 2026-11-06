@@ -32,7 +32,7 @@ summary: ''
 
 CRIMINAL LAW
 
-The Victims of Violent Intentional Crime (Arrangements for Compensation) (European Communities) Regulations 2005 (revoked)[^key-4b051af78c3a9d5c0bd7bcec1e504e64]
+The Victims of Violent Intentional Crime (Arrangements for Compensation) (European Communities) Regulations 2005 (revoked)[^c-4b051af78c3a9d5c0bd7bcec1e504e64]
 
 Made
 
@@ -46,66 +46,66 @@ Coming into force
 
 1st January 2006
 
-[^key-4b051af78c3a9d5c0bd7bcec1e504e64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b051af78c3a9d5c0bd7bcec1e504e64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-4b051af78c3a9d5c0bd7bcec1e504e64]
+## 1. Citation, commencement and interpretation[^c-4b051af78c3a9d5c0bd7bcec1e504e64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transitional provision[^key-4b051af78c3a9d5c0bd7bcec1e504e64]
+## 2. Transitional provision[^c-4b051af78c3a9d5c0bd7bcec1e504e64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of assisting authority[^key-4b051af78c3a9d5c0bd7bcec1e504e64]
+## 3. Designation of assisting authority[^c-4b051af78c3a9d5c0bd7bcec1e504e64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Designation of deciding authorities[^key-4b051af78c3a9d5c0bd7bcec1e504e64]
+## 4. Designation of deciding authorities[^c-4b051af78c3a9d5c0bd7bcec1e504e64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Information to potential applicant for compensation[^key-4b051af78c3a9d5c0bd7bcec1e504e64]
+## 5. Information to potential applicant for compensation[^c-4b051af78c3a9d5c0bd7bcec1e504e64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Right to submit an application for compensation[^key-4b051af78c3a9d5c0bd7bcec1e504e64]
+## 6. Right to submit an application for compensation[^c-4b051af78c3a9d5c0bd7bcec1e504e64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Assistance to applicant for compensation[^key-4b051af78c3a9d5c0bd7bcec1e504e64]
+## 7. Assistance to applicant for compensation[^c-4b051af78c3a9d5c0bd7bcec1e504e64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transmission of applications[^key-4b051af78c3a9d5c0bd7bcec1e504e64]
+## 8. Transmission of applications[^c-4b051af78c3a9d5c0bd7bcec1e504e64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Receipt of applications[^key-4b051af78c3a9d5c0bd7bcec1e504e64]
+## 9. Receipt of applications[^c-4b051af78c3a9d5c0bd7bcec1e504e64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Requests for supplementary information[^key-4b051af78c3a9d5c0bd7bcec1e504e64]
+## 10. Requests for supplementary information[^c-4b051af78c3a9d5c0bd7bcec1e504e64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Hearing of the applicant for compensation[^key-4b051af78c3a9d5c0bd7bcec1e504e64]
+## 11. Hearing of the applicant for compensation[^c-4b051af78c3a9d5c0bd7bcec1e504e64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Communication of the decision[^key-4b051af78c3a9d5c0bd7bcec1e504e64]
+## 12. Communication of the decision[^c-4b051af78c3a9d5c0bd7bcec1e504e64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Other provisions[^key-4b051af78c3a9d5c0bd7bcec1e504e64]
+## 13. Other provisions[^c-4b051af78c3a9d5c0bd7bcec1e504e64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b051af78c3a9d5c0bd7bcec1e504e64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b051af78c3a9d5c0bd7bcec1e504e64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b051af78c3a9d5c0bd7bcec1e504e64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b051af78c3a9d5c0bd7bcec1e504e64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b051af78c3a9d5c0bd7bcec1e504e64]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/3396) revoked (31.12.2020) by [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2019/780/regulation/2) (with [reg. 21](https://www.legislation.gov.uk/uksi/2019/780/regulation/21)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2020/1493/regulation/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b051af78c3a9d5c0bd7bcec1e504e64]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/3396) revoked (31.12.2020) by [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2019/780/regulation/2) (with [reg. 21](https://www.legislation.gov.uk/uksi/2019/780/regulation/21)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2020/1493/regulation/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

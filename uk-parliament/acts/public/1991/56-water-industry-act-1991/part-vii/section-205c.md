@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205C. Sections 205A and 205B: enforcement and sanctions[^key-ff944838e3c2e5b57ad4a8dbe4aae30d]
+## 205C. Sections 205A and 205B: enforcement and sanctions[^c-ff944838e3c2e5b57ad4a8dbe4aae30d]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff944838e3c2e5b57ad4a8dbe4aae30d]: Textual amendment: [Ss. 205A-205C](https://www.legislation.gov.uk/ukpga/1991/56/section/205A) and cross-heading inserted (23.6.2025 for E., 1.9.2025 for W.) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 3](https://www.legislation.gov.uk/ukpga/2025/5/section/3), [17(3)(a)(4)(a)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/3/a/4/a); [S.I. 2025/726](https://www.legislation.gov.uk/uksi/2025/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/726/regulation/2/a); [S.I. 2025/936](https://www.legislation.gov.uk/uksi/2025/936), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/936/regulation/2/a)
+[^c-ff944838e3c2e5b57ad4a8dbe4aae30d]: Textual amendment: [Ss. 205A-205C](https://www.legislation.gov.uk/ukpga/1991/56/section/205A) and cross-heading inserted (23.6.2025 for E., 1.9.2025 for W.) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 3](https://www.legislation.gov.uk/ukpga/2025/5/section/3), [17(3)(a)(4)(a)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/3/a/4/a); [S.I. 2025/726](https://www.legislation.gov.uk/uksi/2025/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/726/regulation/2/a); [S.I. 2025/936](https://www.legislation.gov.uk/uksi/2025/936), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/936/regulation/2/a)

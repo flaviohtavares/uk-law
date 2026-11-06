@@ -59,7 +59,7 @@ The Minister of Agriculture, Fisheries and Food, in exercise of the powers confe
 - “approved slaughterhouse" means a slaughterhouse approved by an officer for the slaughter of reactors;
 - “bovine animal" means a bull, cow, steer, heifer or calf;
 - “carcase" means the carcase of a bovine animal and includes part of a carcase and the meat, bones, hideskin, hooves, offal or other part of a bovine animal, separately or otherwise, or any portion thereof;
-- [^key-bafaa1498aae77f1c621e678deadb19f]...
+- [^c-bafaa1498aae77f1c621e678deadb19f]...
 - “premises" includes land, with or without buildings;
 - “suspected animal" means a bovine animal that is suspected of being affected with enzootic bovine leukosis because—
   - (a) it is exhibiting swollen, painless lymph nodes or tumorous changes (other than haemangiomas, papillomas or warts) in parts of its body; or
@@ -77,21 +77,21 @@ The Minister of Agriculture, Fisheries and Food, in exercise of the powers confe
 (1) A person who has in his possession or under his control an affected or suspected animal, or a veterinary surgeon who examines any such animal shall with all practicable speed give notice of that fact to—
 
 - (a) an inspector of the local authority; or
-- (b) the Secretary of State[^key-2cf075a971cac69abfaed62d825c6ad0].
+- (b) the Secretary of State[^c-2cf075a971cac69abfaed62d825c6ad0].
 
-(2) Where notice under paragraph (1) of this article is given to an inspector of the local authority, he shall immediately inform the Secretary of State[^key-c8ecd418362a6393bd1a29b116bc0191].
+(2) Where notice under paragraph (1) of this article is given to an inspector of the local authority, he shall immediately inform the Secretary of State[^c-c8ecd418362a6393bd1a29b116bc0191].
 
 (3) A person who has in his possession or under his charge an affected animal or a suspected animal shall detain it on the premises where it is kept until it has been examined by a veterinary inspector.
 
 ## 4. Notification of disease in carcases
 
-(1) Any person who has in his possession or under his charge the carcase of an affected or suspected animal, showing signs of tumorous changes (other than haemangiomas, papillomas or warts) in the lymph nodes or any part thereof, shall with all practicable speed, give notice of that fact to the Secretary of State[^key-66bc6759da66f6f54fd8bb7d5bd2c3d7].
+(1) Any person who has in his possession or under his charge the carcase of an affected or suspected animal, showing signs of tumorous changes (other than haemangiomas, papillomas or warts) in the lymph nodes or any part thereof, shall with all practicable speed, give notice of that fact to the Secretary of State[^c-66bc6759da66f6f54fd8bb7d5bd2c3d7].
 
 (2) A person who has in his possession or under his charge a carcase to which paragraph (1) of this article applies, shall detain it on the premises where it is kept until it has been examined by a veterinary inspector or until a veterinary inspector has determined that an inspection is not required.
 
 ## 5. Notification of disease in laboratory samples
 
-(1) Subject to paragraph (2) below, where by reason of a laboratory examination of a sample taken from a bovine animal, evidence of the existence of enzootic bovine leukosis is identified, the person in charge of the laboratory shall, within 24 hours, notify the Secretary of State[^key-7dfe3e70ce9fa40f674f27e84a3e3596], of that fact.
+(1) Subject to paragraph (2) below, where by reason of a laboratory examination of a sample taken from a bovine animal, evidence of the existence of enzootic bovine leukosis is identified, the person in charge of the laboratory shall, within 24 hours, notify the Secretary of State[^c-7dfe3e70ce9fa40f674f27e84a3e3596], of that fact.
 
 (2) The obligation to give notification in paragraph (1) shall not apply where enzootic bovine leukosis has been deliberately introduced into a laboratory sample.
 
@@ -236,16 +236,16 @@ A Regulatory Impact Assessment in relation to this Order has been placed in the 
 
 [^c16056671]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). See section 86(1) for definitions of “the Ministers" and “the Minister". Functions of “the Ministers" so far as exercisable in relation to England were transferred to the Minister of Agriculture, Fisheries and Food by the [Transfer of Functions (Agriculture and Food) Order 1999 (S.I. 1999/3141)](https://www.legislation.gov.uk/uksi/1999/3141).
 
-[^key-bafaa1498aae77f1c621e678deadb19f]: Textual amendment: Words in art. 2(1) revoked (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2713/schedule/2)
+[^c-bafaa1498aae77f1c621e678deadb19f]: Textual amendment: Words in art. 2(1) revoked (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2713/schedule/2)
 
 [^c16056681]: Marginal citation: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36).
 
-[^key-2cf075a971cac69abfaed62d825c6ad0]: Textual amendment: Words in [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2000/2056/article/3/1/b) substituted (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
+[^c-2cf075a971cac69abfaed62d825c6ad0]: Textual amendment: Words in [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2000/2056/article/3/1/b) substituted (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
 
-[^key-c8ecd418362a6393bd1a29b116bc0191]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2000/2056/article/3/2) substituted (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
+[^c-c8ecd418362a6393bd1a29b116bc0191]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2000/2056/article/3/2) substituted (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
 
-[^key-66bc6759da66f6f54fd8bb7d5bd2c3d7]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2000/2056/article/4/1) substituted (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2009/2713/article/6/2)
+[^c-66bc6759da66f6f54fd8bb7d5bd2c3d7]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2000/2056/article/4/1) substituted (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2009/2713/article/6/2)
 
-[^key-7dfe3e70ce9fa40f674f27e84a3e3596]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2000/2056/article/5/1) substituted (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2009/2713/article/6/3)
+[^c-7dfe3e70ce9fa40f674f27e84a3e3596]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2000/2056/article/5/1) substituted (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2009/2713/article/6/3)
 
 [^c16056691]: Marginal citation: [S.I. 1997/757](https://www.legislation.gov.uk/uksi/1997/757).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-938cce6b412655c084d7df7443285301]
+## 60. The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-938cce6b412655c084d7df7443285301]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ summary: ''
 
 ## Annotations
 
-[^key-938cce6b412655c084d7df7443285301]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2020/1385/regulation/60) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-938cce6b412655c084d7df7443285301]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2020/1385/regulation/60) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00048]: Footnote: [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), to which there are amendments not relevant to these Regulations.
 

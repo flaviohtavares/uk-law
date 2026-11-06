@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Removal of requirement for both civil partners to obtain full gender recognition certificate[^key-968722947f3514f8783a26f10ba64a12]
+## 30. Removal of requirement for both civil partners to obtain full gender recognition certificate[^c-968722947f3514f8783a26f10ba64a12]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Omit section 5B[^f00051].
 
 ## Annotations
 
-[^key-968722947f3514f8783a26f10ba64a12]: Commencement: Reg. 30 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-968722947f3514f8783a26f10ba64a12]: Commencement: Reg. 30 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00051]: Footnote: Section 5B was inserted by the Marriage (Same Sex Couples) Act 2013, Schedule 5, paragraph 5.

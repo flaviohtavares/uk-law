@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Application of programmes of enforcement to old age of sale offences[^key-d405c08b4b297c2a181bbe1a5e63ecc2]
+## 45. Application of programmes of enforcement to old age of sale offences[^c-d405c08b4b297c2a181bbe1a5e63ecc2]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Sections 33 and 34 have effect in relation to times before 1 January 2027 as if 
 
 ## Annotations
 
-[^key-d405c08b4b297c2a181bbe1a5e63ecc2]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2026/18/section/45) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-d405c08b4b297c2a181bbe1a5e63ecc2]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2026/18/section/45) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

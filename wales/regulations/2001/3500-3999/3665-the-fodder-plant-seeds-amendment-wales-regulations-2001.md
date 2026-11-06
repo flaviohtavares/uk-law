@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS, WALES
 
-The Fodder Plant Seeds (Amendment) (Wales) Regulations 2001 (revoked)[^key-16a97d534bb15e956490a214af625d7e]
+The Fodder Plant Seeds (Amendment) (Wales) Regulations 2001 (revoked)[^c-16a97d534bb15e956490a214af625d7e]
 
 Made
 
@@ -41,52 +41,52 @@ Coming into force
 
 29th November 2001
 
-[^key-16a97d534bb15e956490a214af625d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16a97d534bb15e956490a214af625d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-16a97d534bb15e956490a214af625d7e]
+## 1. Title, commencement and application[^c-16a97d534bb15e956490a214af625d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fodder Plant Seeds Regulations 1993[^key-16a97d534bb15e956490a214af625d7e]
+## 2. Amendment of the Fodder Plant Seeds Regulations 1993[^c-16a97d534bb15e956490a214af625d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Regulation 3 (Interpretation)[^key-16a97d534bb15e956490a214af625d7e]
+## 3. Regulation 3 (Interpretation)[^c-16a97d534bb15e956490a214af625d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Regulation 4 (Seeds to which the Fodder Plant Seeds Regulations 1993 apply)[^key-16a97d534bb15e956490a214af625d7e]
+## 4. Regulation 4 (Seeds to which the Fodder Plant Seeds Regulations 1993 apply)[^c-16a97d534bb15e956490a214af625d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Regulation 5 (Marketing of Seeds)[^key-16a97d534bb15e956490a214af625d7e]
+## 5. Regulation 5 (Marketing of Seeds)[^c-16a97d534bb15e956490a214af625d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Regulation 8 (Sealing of Packages)[^key-16a97d534bb15e956490a214af625d7e]
+## 6. Regulation 8 (Sealing of Packages)[^c-16a97d534bb15e956490a214af625d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Regulation 9 (Labelling of packages)[^key-16a97d534bb15e956490a214af625d7e]
+## 7. Regulation 9 (Labelling of packages)[^c-16a97d534bb15e956490a214af625d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Regulation 9A (Labelling of packages — breeder’s confirmation)[^key-16a97d534bb15e956490a214af625d7e]
+## 8. Regulation 9A (Labelling of packages — breeder’s confirmation)[^c-16a97d534bb15e956490a214af625d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Schedule 6 (Labelling requirements)[^key-16a97d534bb15e956490a214af625d7e]
+## 9. Schedule 6 (Labelling requirements)[^c-16a97d534bb15e956490a214af625d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16a97d534bb15e956490a214af625d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16a97d534bb15e956490a214af625d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-16a97d534bb15e956490a214af625d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16a97d534bb15e956490a214af625d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-16a97d534bb15e956490a214af625d7e]: Textual amendment: Regulations revoked (30.4.2005) by [The Fodder Plant Seed (Wales) Regulations 2005 (S.I. 2005/1207)](https://www.legislation.gov.uk/uksi/2005/1207), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1207/regulation/1), [32(1)(b)](https://www.legislation.gov.uk/uksi/2005/1207/regulation/32/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2005/1207/regulation/5))
+[^c-16a97d534bb15e956490a214af625d7e]: Textual amendment: Regulations revoked (30.4.2005) by [The Fodder Plant Seed (Wales) Regulations 2005 (S.I. 2005/1207)](https://www.legislation.gov.uk/uksi/2005/1207), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1207/regulation/1), [32(1)(b)](https://www.legislation.gov.uk/uksi/2005/1207/regulation/32/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2005/1207/regulation/5))

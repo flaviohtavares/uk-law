@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Recovery of relevant costs by principal accountable person[^key-9bfac7c0941d9e8a958f6179ab29aef8]
+## 69. Recovery of relevant costs by principal accountable person[^c-9bfac7c0941d9e8a958f6179ab29aef8]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bfac7c0941d9e8a958f6179ab29aef8]: Commencement: S. 69 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-9bfac7c0941d9e8a958f6179ab29aef8]: Commencement: S. 69 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

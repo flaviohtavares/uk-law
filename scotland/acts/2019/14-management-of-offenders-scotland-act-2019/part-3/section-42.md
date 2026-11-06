@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Mandatory categories of member[^key-7039524444d3a0b4ee8c8f6f7eedc07a]
+## 42. Mandatory categories of member[^c-7039524444d3a0b4ee8c8f6f7eedc07a]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7039524444d3a0b4ee8c8f6f7eedc07a]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2019/14/section/42) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/h)
+[^c-7039524444d3a0b4ee8c8f6f7eedc07a]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2019/14/section/42) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/h)

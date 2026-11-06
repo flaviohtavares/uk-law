@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Temporary extension of moratoriums on diligence[^key-72b7e805007040fd88485b8e354d1049]
+## 3. Temporary extension of moratoriums on diligence[^c-72b7e805007040fd88485b8e354d1049]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72b7e805007040fd88485b8e354d1049]: Textual amendment: [S. 3](https://www.legislation.gov.uk/asp/2020/7/section/3) expires (1.10.2022) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/7/section/12/1)
+[^c-72b7e805007040fd88485b8e354d1049]: Textual amendment: [S. 3](https://www.legislation.gov.uk/asp/2020/7/section/3) expires (1.10.2022) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/7/section/12/1)

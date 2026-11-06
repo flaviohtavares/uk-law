@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. OFCOM’s guidance about duties set out in sections 71 and 72[^key-ab10a471f2b308b06837f45f487cc9e4][^key-09b5cd79b0a1cd435763bce11219d517]
+## 73. OFCOM’s guidance about duties set out in sections 71 and 72[^c-ab10a471f2b308b06837f45f487cc9e4][^c-09b5cd79b0a1cd435763bce11219d517]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab10a471f2b308b06837f45f487cc9e4]: Commencement: S. 73 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-ab10a471f2b308b06837f45f487cc9e4]: Commencement: S. 73 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-09b5cd79b0a1cd435763bce11219d517]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2023/50/section/73) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/v)
+[^c-09b5cd79b0a1cd435763bce11219d517]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2023/50/section/73) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/v)

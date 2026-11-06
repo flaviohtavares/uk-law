@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Chapter 8[^key-6f40864ea3496f15170b570583b5406d]
+## 33. Chapter 8[^c-6f40864ea3496f15170b570583b5406d]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f40864ea3496f15170b570583b5406d]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-6f40864ea3496f15170b570583b5406d]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
 
 [^c24375151]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**4.**[^key-b6c86bd134530ff8247432cee1886cd8] The Northern Ireland Regulations are modified for the purposes of regulation 2 as follows.
+**4.**[^c-b6c86bd134530ff8247432cee1886cd8] The Northern Ireland Regulations are modified for the purposes of regulation 2 as follows.
 
 ## Annotations
 
-[^key-b6c86bd134530ff8247432cee1886cd8]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-b6c86bd134530ff8247432cee1886cd8]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

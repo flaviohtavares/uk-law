@@ -73,7 +73,7 @@ the acts or failures within sub-paragraph (b) are not to count for the purposes 
 (12) In this Article—
 
 - (a) “ **a warning notice** ” means a notice given as mentioned in Article 91(2)(a);
-- (b)[^key-35df8d45026e117d9ee666f6257d5f55] a reference to party to an act or failure to act includes a reference to a person who knowingly assists in the act or failure;
+- (b)[^c-35df8d45026e117d9ee666f6257d5f55] a reference to party to an act or failure to act includes a reference to a person who knowingly assists in the act or failure;
 - (c) any reference to the accrued scheme benefits being received has the same meaning as in Article 34A;
 
 and paragraph (9) of Article 34A applies for the purposes of conditions A to C as it applies for the purposes of that Article.
@@ -84,4 +84,4 @@ and paragraph (9) of Article 34A applies for the purposes of conditions A to C a
 
 [^c21177551]: Textual amendment: Arts. 34A, 34B inserted (15.12.2008 for certain purposes, otherwise 29.6.2009) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 103](https://www.legislation.gov.uk/nia/2008/13/section/103), [118(1)(2)(h)(3)(a)(ii)(vi)(b)](https://www.legislation.gov.uk/nia/2008/13/section/118/1/2/h/3/a/ii/vi/b), [Sch. 8 para. 2(2)](https://www.legislation.gov.uk/nia/2008/13/schedule/8/paragraph/2/2) (with [Sch. 8 para. 15(1)](https://www.legislation.gov.uk/nia/2008/13/schedule/8/paragraph/15/1)); [S.R. 2009/249](https://www.legislation.gov.uk/nisr/2009/249), [art. 2(a)(b)(ii)](https://www.legislation.gov.uk/nisr/2009/249/article/2/a/b/ii)
 
-[^key-35df8d45026e117d9ee666f6257d5f55]: Textual amendment: [Art. 34B(12)(b)](https://www.legislation.gov.uk/nisi/2005/255/article/34B/12/b) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/17); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(4)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/4/c)
+[^c-35df8d45026e117d9ee666f6257d5f55]: Textual amendment: [Art. 34B(12)(b)](https://www.legislation.gov.uk/nisi/2005/255/article/34B/12/b) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/17); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(4)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/4/c)

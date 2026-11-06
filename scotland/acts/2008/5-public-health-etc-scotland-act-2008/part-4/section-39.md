@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Application to have person quarantined[^key-ea4b6b10b2fdccb681572bdee0d8b3fd]
+## 39. Application to have person quarantined[^c-ea4b6b10b2fdccb681572bdee0d8b3fd]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea4b6b10b2fdccb681572bdee0d8b3fd]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2008/5/section/39) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-ea4b6b10b2fdccb681572bdee0d8b3fd]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2008/5/section/39) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

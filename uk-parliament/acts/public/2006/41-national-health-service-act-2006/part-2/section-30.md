@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W*
 
-(1) An NHS foundation trust is a public benefit corporation the function of which is to provide in accordance with this Chapter[^key-815f05ab953034b5f8416ba587a85b1c] goods and services for the purposes of the health service in England.
+(1) An NHS foundation trust is a public benefit corporation the function of which is to provide in accordance with this Chapter[^c-815f05ab953034b5f8416ba587a85b1c] goods and services for the purposes of the health service in England.
 
 (2) A public benefit corporation is a body corporate which, in pursuance of an application under this Chapter, is constituted in accordance with Schedule 7.
 
 ## Annotations
 
-[^key-815f05ab953034b5f8416ba587a85b1c]: Textual amendment: Words in [s. 30(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/30/1) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 159(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/159/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-815f05ab953034b5f8416ba587a85b1c]: Textual amendment: Words in [s. 30(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/30/1) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 159(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/159/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)

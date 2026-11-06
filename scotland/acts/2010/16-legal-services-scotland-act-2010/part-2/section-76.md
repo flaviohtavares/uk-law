@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Input by the CMA[^key-4e003e5a71b09da8f4531b75abaed6c1][^key-39b619534840542962f58044a3203ddb]
+## 76. Input by the CMA[^c-4e003e5a71b09da8f4531b75abaed6c1][^c-39b619534840542962f58044a3203ddb]
 
 *Extent: S*
 
-(1) The Scottish Ministers or (as the case may be) an approved regulator must, whenever consulting the CMA[^key-875ee87ad52dd9070d1f2ffacc30da59] under this Part, request the OFT—
+(1) The Scottish Ministers or (as the case may be) an approved regulator must, whenever consulting the CMA[^c-875ee87ad52dd9070d1f2ffacc30da59] under this Part, request the OFT—
 
 - (a) to give such advice as it considers appropriate in relation to the matter concerned,
 - (b) in considering what advice to give, to have particular regard to whether the matter concerned would have (or be likely to have) the effect of preventing, or significantly restricting or distorting, competition within the legal services market.
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4e003e5a71b09da8f4531b75abaed6c1]: Commencement: S. 76 in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-4e003e5a71b09da8f4531b75abaed6c1]: Commencement: S. 76 in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-39b619534840542962f58044a3203ddb]: Textual amendment: Word in s. 76 heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 197(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/197/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-39b619534840542962f58044a3203ddb]: Textual amendment: Word in s. 76 heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 197(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/197/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-875ee87ad52dd9070d1f2ffacc30da59]: Textual amendment: Words in s. 76(1)-(3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 197(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/197/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-875ee87ad52dd9070d1f2ffacc30da59]: Textual amendment: Words in s. 76(1)-(3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 197(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/197/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Recovery by parent etc. where child placed and placement order refused[^key-297c7854443c6660a612ffdd3dcfb37c]
+## 33. Recovery by parent etc. where child placed and placement order refused[^c-297c7854443c6660a612ffdd3dcfb37c]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-297c7854443c6660a612ffdd3dcfb37c]: Commencement: S. 33 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-297c7854443c6660a612ffdd3dcfb37c]: Commencement: S. 33 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

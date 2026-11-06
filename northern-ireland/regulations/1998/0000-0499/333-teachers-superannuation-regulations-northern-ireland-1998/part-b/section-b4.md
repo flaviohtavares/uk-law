@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## B4. Election not to be pensionable[^key-ace01a1da0a1c15986ad604f9a849d7e]
+## B4. Election not to be pensionable[^c-ace01a1da0a1c15986ad604f9a849d7e]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ may at any time, by giving written notice to the Department, make an election un
 
 ## Annotations
 
-[^key-ace01a1da0a1c15986ad604f9a849d7e]: Commencement: Reg. B4 in operation at 2.11.1998, see reg. A1
+[^c-ace01a1da0a1c15986ad604f9a849d7e]: Commencement: Reg. B4 in operation at 2.11.1998, see reg. A1

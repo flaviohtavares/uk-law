@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Regulation (EU) No 575/2013[^key-72b453e2e026224ba22eafc72a968aa1]
+## 74. Regulation (EU) No 575/2013[^c-72b453e2e026224ba22eafc72a968aa1]
 
 *Extent: E+W+S+N.I.*
 
@@ -127,4 +127,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72b453e2e026224ba22eafc72a968aa1]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2020/1385/regulation/74) in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3)
+[^c-72b453e2e026224ba22eafc72a968aa1]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2020/1385/regulation/74) in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3)

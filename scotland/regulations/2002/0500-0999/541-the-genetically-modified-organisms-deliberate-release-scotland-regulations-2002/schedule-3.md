@@ -54,7 +54,7 @@ Regulations 11(1) and 16(2)
 
 **12.** The following pathological, ecological and physiological traits:–
 
-- (a) the classification of hazard according to assimilated[^key-41e0ce946001bace390439cdc11f3002][^key-24c1c1240667972cd19856ccaf5c15f7] law concerning the protection of human health and the environment;
+- (a) the classification of hazard according to assimilated[^c-41e0ce946001bace390439cdc11f3002][^c-24c1c1240667972cd19856ccaf5c15f7] law concerning the protection of human health and the environment;
 - (b) the generation time in natural ecosystems, sexual and asexual reproductive cycle;
 - (c) information on survivability, including seasonability and the ability to form survival structures, including seeds, spores and sclerotia;
 - (d) pathogencity, including infectivity, toxigenicity, virulence, allergenicity, carrier (vector) of pathogen, possible vectors, host range including non-target organisms and possible activation of latent viruses (proviruses) and ability to colonise other organisms;
@@ -289,6 +289,6 @@ Regulations 11(1) and 16(2)
 
 ## Annotations
 
-[^key-41e0ce946001bace390439cdc11f3002]: Textual amendment: Word in [sch. 3 para. 12(a)](https://www.legislation.gov.uk/ssi/2002/541/schedule/3/paragraph/12/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 2(6)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/2/6)
+[^c-41e0ce946001bace390439cdc11f3002]: Textual amendment: Word in [sch. 3 para. 12(a)](https://www.legislation.gov.uk/ssi/2002/541/schedule/3/paragraph/12/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 2(6)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/2/6)
 
-[^key-24c1c1240667972cd19856ccaf5c15f7]: Textual amendment: Words in [sch. 3 para. 12(a)](https://www.legislation.gov.uk/ssi/2002/541/schedule/3/paragraph/12/a) substituted (31.12.2020) by [The Genetically Modified Organisms (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/57)](https://www.legislation.gov.uk/ssi/2019/57), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/57/regulation/1/2/b), [3(26)](https://www.legislation.gov.uk/ssi/2019/57/regulation/3/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24c1c1240667972cd19856ccaf5c15f7]: Textual amendment: Words in [sch. 3 para. 12(a)](https://www.legislation.gov.uk/ssi/2002/541/schedule/3/paragraph/12/a) substituted (31.12.2020) by [The Genetically Modified Organisms (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/57)](https://www.legislation.gov.uk/ssi/2019/57), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/57/regulation/1/2/b), [3(26)](https://www.legislation.gov.uk/ssi/2019/57/regulation/3/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

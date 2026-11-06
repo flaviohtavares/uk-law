@@ -31,46 +31,46 @@ summary: ''
 
 CRIMINAL LAW, ENGLAND AND WALES
 
-The Sentencing Act 2026 (Commencement No. 4) Regulations 2026 (revoked)[^key-84779a0fe18b80f3f4684c92def4df21]
+The Sentencing Act 2026 (Commencement No. 4) Regulations 2026 (revoked)[^c-84779a0fe18b80f3f4684c92def4df21]
 
 Made
 
 8th June 2026
 
-[^key-84779a0fe18b80f3f4684c92def4df21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84779a0fe18b80f3f4684c92def4df21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, extent and interpretation[^key-84779a0fe18b80f3f4684c92def4df21]
+## 1. Citation, extent and interpretation[^c-84779a0fe18b80f3f4684c92def4df21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Provisions coming into force on 2nd September 2026[^key-84779a0fe18b80f3f4684c92def4df21]
+## 2. Provisions coming into force on 2nd September 2026[^c-84779a0fe18b80f3f4684c92def4df21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Provisions coming into force between 2nd September 2026 and 8th June 2027[^key-84779a0fe18b80f3f4684c92def4df21]
+## 3. Provisions coming into force between 2nd September 2026 and 8th June 2027[^c-84779a0fe18b80f3f4684c92def4df21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Provisions coming into force on 12th October 2027[^key-84779a0fe18b80f3f4684c92def4df21]
+## 4. Provisions coming into force on 12th October 2027[^c-84779a0fe18b80f3f4684c92def4df21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Further provision regarding section 23(10)[^key-84779a0fe18b80f3f4684c92def4df21]
+## 5. Further provision regarding section 23(10)[^c-84779a0fe18b80f3f4684c92def4df21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84779a0fe18b80f3f4684c92def4df21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84779a0fe18b80f3f4684c92def4df21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-84779a0fe18b80f3f4684c92def4df21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84779a0fe18b80f3f4684c92def4df21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-84779a0fe18b80f3f4684c92def4df21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84779a0fe18b80f3f4684c92def4df21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-84779a0fe18b80f3f4684c92def4df21]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2026/609) revoked (1.9.2026) by [The Sentencing Act 2026 (Commencement No. 6 and Revocation) Regulations 2026 (S.I. 2026/953)](https://www.legislation.gov.uk/uksi/2026/953), [reg. 7](https://www.legislation.gov.uk/uksi/2026/953/regulation/7)
+[^c-84779a0fe18b80f3f4684c92def4df21]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2026/609) revoked (1.9.2026) by [The Sentencing Act 2026 (Commencement No. 6 and Revocation) Regulations 2026 (S.I. 2026/953)](https://www.legislation.gov.uk/uksi/2026/953), [reg. 7](https://www.legislation.gov.uk/uksi/2026/953/regulation/7)

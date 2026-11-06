@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Exemption certificates[^key-9fc28217162d39ab53539bfbea9d3fcc]
+## 29. Exemption certificates[^c-9fc28217162d39ab53539bfbea9d3fcc]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ and any such exemption may be granted subject to conditions and to a limit of ti
 
 ## Annotations
 
-[^key-9fc28217162d39ab53539bfbea9d3fcc]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/1997/474/regulation/29) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-9fc28217162d39ab53539bfbea9d3fcc]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/1997/474/regulation/29) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

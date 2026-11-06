@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Proposals under section 19: implementation[^key-6289a3b468c9f1e695dca806d17bfb29]
+## 24. Proposals under section 19: implementation[^c-6289a3b468c9f1e695dca806d17bfb29]
 
 *Extent: E+W*
 
@@ -65,10 +65,10 @@ summary: ''
 
 (8) A school's change of category in pursuance of proposals published under section 19 is not to be taken as authorising any change in the religious character of the school, or the acquisition or loss of religious character.
 
-(9)[^key-60ef083ac9a44155273606cd284f2135] In subsection (4) “local authority” includes a non-metropolitan district council for an area for which there is a county council.
+(9)[^c-60ef083ac9a44155273606cd284f2135] In subsection (4) “local authority” includes a non-metropolitan district council for an area for which there is a county council.
 
 ## Annotations
 
-[^key-6289a3b468c9f1e695dca806d17bfb29]: Commencement: S. 24 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(c)](https://www.legislation.gov.uk/uksi/2007/935/article/5/c)
+[^c-6289a3b468c9f1e695dca806d17bfb29]: Commencement: S. 24 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(c)](https://www.legislation.gov.uk/uksi/2007/935/article/5/c)
 
-[^key-60ef083ac9a44155273606cd284f2135]: Textual amendment: S. 24(9) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/4)
+[^c-60ef083ac9a44155273606cd284f2135]: Textual amendment: S. 24(9) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/4)

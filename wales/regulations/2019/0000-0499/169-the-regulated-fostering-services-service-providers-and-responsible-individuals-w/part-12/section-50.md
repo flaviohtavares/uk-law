@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Duty to appoint a manager[^key-0de7b3638feb14469a58439ca740fc9b]
+## 50. Duty to appoint a manager[^c-0de7b3638feb14469a58439ca740fc9b]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0de7b3638feb14469a58439ca740fc9b]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2019/169/regulation/50) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-0de7b3638feb14469a58439ca740fc9b]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2019/169/regulation/50) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

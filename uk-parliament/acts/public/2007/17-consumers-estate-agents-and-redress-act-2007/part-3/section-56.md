@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Grounds for warning orders[^key-0f998fe0d3967d1c70a532e70e210ff7]
+## 56. Grounds for warning orders[^c-0f998fe0d3967d1c70a532e70e210ff7]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f998fe0d3967d1c70a532e70e210ff7]: Commencement: S. 56 in force at 1.10.2008 by [S.I. 2008/905](https://www.legislation.gov.uk/uksi/2008/905), [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/905/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/905/schedule/2)
+[^c-0f998fe0d3967d1c70a532e70e210ff7]: Commencement: S. 56 in force at 1.10.2008 by [S.I. 2008/905](https://www.legislation.gov.uk/uksi/2008/905), [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/905/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/905/schedule/2)

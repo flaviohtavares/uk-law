@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Reduction of benefits where annual allowance charge paid by scheme manager[^key-54fa43a9627ff151923084c76b5d794a]
+## 181. Reduction of benefits where annual allowance charge paid by scheme manager[^c-54fa43a9627ff151923084c76b5d794a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54fa43a9627ff151923084c76b5d794a]: Commencement: [Reg. 181](https://www.legislation.gov.uk/uksi/2014/2848/regulation/181) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-54fa43a9627ff151923084c76b5d794a]: Commencement: [Reg. 181](https://www.legislation.gov.uk/uksi/2014/2848/regulation/181) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

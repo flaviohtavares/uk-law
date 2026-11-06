@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. Definition of advanced therapy medicinal product etc.[^key-ea88897759324b168b0dbd866617b515]
+## 2A. Definition of advanced therapy medicinal product etc.[^c-ea88897759324b168b0dbd866617b515]
 
 *Extent: E+W+S+N.I.*
 
-(1) In these Regulations [^key-90e5a5d8170fdfce85c44478c278be97]... “**advanced therapy medicinal product**” means any of the following products—
+(1) In these Regulations [^c-90e5a5d8170fdfce85c44478c278be97]... “**advanced therapy medicinal product**” means any of the following products—
 
 - (a) a gene therapy medicinal product;
 - (b) a somatic cell therapy medicinal product; or
@@ -78,7 +78,7 @@ summary: ''
 - (l) cryopreservation; and
 - (m) vitrification.
 
-(10) In these Regulations [^key-c63f3138ca8b0d44393d6bd91e79bd22]... “**combined advanced therapy medicinal product**” means an advanced therapy medicinal product—
+(10) In these Regulations [^c-c63f3138ca8b0d44393d6bd91e79bd22]... “**combined advanced therapy medicinal product**” means an advanced therapy medicinal product—
 
 - (a) which incorporates, as an integral part of the product, one or more medical devices or one or more active implantable medical devices; and
 - (b) the cellular part of which—
@@ -100,8 +100,8 @@ is to be treated as a gene therapy medicinal product.
 
 ## Annotations
 
-[^key-ea88897759324b168b0dbd866617b515]: Textual amendment: Reg. 2A inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/775/regulation/4) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/1)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea88897759324b168b0dbd866617b515]: Textual amendment: Reg. 2A inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/775/regulation/4) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/1)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-90e5a5d8170fdfce85c44478c278be97]: Textual amendment: Words in reg. 2A(1) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/832/regulation/3)
+[^c-90e5a5d8170fdfce85c44478c278be97]: Textual amendment: Words in reg. 2A(1) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/832/regulation/3)
 
-[^key-c63f3138ca8b0d44393d6bd91e79bd22]: Textual amendment: Words in reg. 2A(10) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/832/regulation/3)
+[^c-c63f3138ca8b0d44393d6bd91e79bd22]: Textual amendment: Words in reg. 2A(10) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/832/regulation/3)

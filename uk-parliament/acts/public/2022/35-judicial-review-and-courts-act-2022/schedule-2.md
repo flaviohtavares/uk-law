@@ -22,7 +22,7 @@ summary: ''
 
 Section 18
 
-### 1. Amendments in connection with section 3[^key-2a5267da6c1b3608d3c68bd0868a64e2][^key-3fc45015f8c7d108ed62c7533522f909]
+### 1. Amendments in connection with section 3[^c-2a5267da6c1b3608d3c68bd0868a64e2][^c-3fc45015f8c7d108ed62c7533522f909]
 
 (1) The Magistrates’ Courts Act 1980 is amended as follows.
 
@@ -55,13 +55,13 @@ Section 18
 
 (6) In section 150(1) (interpretation), in the definition of “fine”, after “purposes of” insert “sections 16G to 16M and of”.
 
-**2.**[^key-0ab0e2ce13b16e25f735304f22dc4629][^key-6f7d919212c74c6a7708f023504a496f] In section 8 of the Road Traffic Offenders Act 1988 (duty to include date of birth and sex in written plea of guilty), after paragraph (aa) (but before the final “or”) insert—
+**2.**[^c-0ab0e2ce13b16e25f735304f22dc4629][^c-6f7d919212c74c6a7708f023504a496f] In section 8 of the Road Traffic Offenders Act 1988 (duty to include date of birth and sex in written plea of guilty), after paragraph (aa) (but before the final “or”) insert—
 
 > - (ab) gives a notification amounting to acceptance of the automatic online conviction option (within the meaning of section 16G of the Magistrates’ Courts Act 1980),
 
 .
 
-**3.**[^key-8541fbc9230c944d66601556d5302c99][^key-5589540fd987e9b3f307a01d7a1aa7fe] (1) Schedule 5 to the Courts Act 2003 (collection of fines and other sums imposed on conviction) is amended as set out in sub-paragraphs (2) to (10).
+**3.**[^c-8541fbc9230c944d66601556d5302c99][^c-5589540fd987e9b3f307a01d7a1aa7fe] (1) Schedule 5 to the Courts Act 2003 (collection of fines and other sums imposed on conviction) is amended as set out in sub-paragraphs (2) to (10).
 
 (2) In paragraph 1 (application of Schedule)—
 
@@ -131,7 +131,7 @@ Section 18
 
 (11) In Schedule 6 to the Courts Act 2003 (discharge of fines by unpaid work), in paragraph 2 (cases where work order may be made), in sub-paragraph (1)(a)(vi), after “Schedule 5” insert “(including a notice of conviction and penalty (within the meaning of section 16L of the Magistrates’ Courts Act 1980) in a case where, by virtue of paragraph 21(3) of Schedule 5, that notice is treated as a collection order)”.
 
-**4.**[^key-ad8f519420e609663e797baef251408f][^key-38f2740e001fddfd030cf80686cc0bc3] (1) The Criminal Justice Act 2003 is amended as follows.
+**4.**[^c-ad8f519420e609663e797baef251408f][^c-38f2740e001fddfd030cf80686cc0bc3] (1) The Criminal Justice Act 2003 is amended as follows.
 
 (2) In section 29 (institution of proceedings by written charge)—
 
@@ -162,13 +162,13 @@ Section 18
 
 (4) In section 330 (orders and rules), in subsection (1)(c), after “sections” insert “29(2E),”.
 
-### 5. Amendment in connection with section 4[^key-c3f4eafc108221eb132b7b086fb06ce2]
+### 5. Amendment in connection with section 4[^c-c3f4eafc108221eb132b7b086fb06ce2]
 
 **Not yet in force.**
 
 In section 11(5) of the Magistrates’ Courts Act 1980 (proceedings to which section 11(3) and (4) of that Act applies), after “apply” insert “(except where the court is proceeding under section 12(5))”.
 
-### 6. Amendments in connection with sections 6 to 8[^key-1914763b6eba5172d8ca903f0dc3e145]
+### 6. Amendments in connection with sections 6 to 8[^c-1914763b6eba5172d8ca903f0dc3e145]
 
 **Not yet in force.**
 
@@ -297,11 +297,11 @@ In section 11(5) of the Magistrates’ Courts Act 1980 (proceedings to which sec
 
 > (1) A magistrates’ court may at any time, whether before or after beginning to hear the trial of any person for an offence, transfer the matter to another magistrates’ court.
 
-**7.**[^key-6dc9cec8d7ff50ac8a8e1a8627ac8a0a] In section 47 of the Police and Criminal Evidence Act 1984 (bail after arrest), for subsection (3A) substitute—
+**7.**[^c-6dc9cec8d7ff50ac8a8e1a8627ac8a0a] In section 47 of the Police and Criminal Evidence Act 1984 (bail after arrest), for subsection (3A) substitute—
 
 > (3A) Where a custody officer grants bail to a person subject to a duty to appear before a magistrates’ court, the custody officer shall appoint for the appearance the time and date, and place, which is notified to the custody officer by the designated officer for the court.
 
-**8.**[^key-27c00335b72db066419a3fd61bf20628] (1) The Crime and Disorder Act 1998 is amended as follows.
+**8.**[^c-27c00335b72db066419a3fd61bf20628] (1) The Crime and Disorder Act 1998 is amended as follows.
 
 (2) In section 50A (order of consideration where person accused of either-way offence appears before magistrates’ court)—
 
@@ -312,7 +312,7 @@ In section 11(5) of the Magistrates’ Courts Act 1980 (proceedings to which sec
 
 (3) In section 51B(4) (court to which notices under that section to be given), at the end insert “, or which is conducting any written proceedings in relation to the offence”.
 
-### 9. Amendments in connection with section 9[^key-e1524601f8e5c40260a8c573c1825155]
+### 9. Amendments in connection with section 9[^c-e1524601f8e5c40260a8c573c1825155]
 
 **Not yet in force.**
 
@@ -326,7 +326,7 @@ In section 11(5) of the Magistrates’ Courts Act 1980 (proceedings to which sec
 
 (5) In section 24C(1) (power to adjourn plea and allocation hearing), for “or 24B” substitute “, 24B or 24BA”.
 
-### 10. Amendments in connection with section 10[^key-ddfdda24350128ac25f298dc11a72c43]
+### 10. Amendments in connection with section 10[^c-ddfdda24350128ac25f298dc11a72c43]
 
 **Not yet in force.**
 
@@ -340,7 +340,7 @@ In section 11(5) of the Magistrates’ Courts Act 1980 (proceedings to which sec
 >   - (i) whether to send the accused to the Crown Court for trial, or
 >   - (ii) any matter the effect of which would be to determine whether the accused is sent to the Crown Court for trial.
 
-**11.**[^key-0df83965b7d230d37aa9cbab3ba41aaf] (1) The Crime and Disorder Act 1998 is amended as follows.
+**11.**[^c-0df83965b7d230d37aa9cbab3ba41aaf] (1) The Crime and Disorder Act 1998 is amended as follows.
 
 (2) In section 50A (order of consideration where person accused of either-way offence appears before magistrates’ court), in subsection (3)(a)—
 
@@ -353,7 +353,7 @@ In section 11(5) of the Magistrates’ Courts Act 1980 (proceedings to which sec
 
 (3) In section 51E (interpretation of sections 50A to 51D), omit paragraphs (c) and (d).
 
-### 12. Amendments in connection with section 11[^key-55982253690bf75c02eadd542c50371b]
+### 12. Amendments in connection with section 11[^c-55982253690bf75c02eadd542c50371b]
 
 (1) Schedule 3 to the Crime and Disorder Act 1998 (procedure where accused sent to the Crown Court for trial) is amended as follows.
 
@@ -364,7 +364,7 @@ In section 11(5) of the Magistrates’ Courts Act 1980 (proceedings to which sec
 - (a) in sub-paragraph (1), for “paragraphs 9 to” substitute “paragraph”;
 - (b) omit sub-paragraphs (3) and (4).
 
-**13.**[^key-00b628c64083fe78f777c0b233b659a8] In section 122(1) of the Coroners and Justice Act 2009 (“allocation guidelines”)—
+**13.**[^c-00b628c64083fe78f777c0b233b659a8] In section 122(1) of the Coroners and Justice Act 2009 (“allocation guidelines”)—
 
 - (a) the words from “decisions” to the end become paragraph (a);
 - (b) in that paragraph, omit the words from “, or the” to “(c. 37),”;
@@ -372,14 +372,14 @@ In section 11(5) of the Magistrates’ Courts Act 1980 (proceedings to which sec
 
   > - (b) decisions by the Crown Court as to whether to exercise the power in section 46ZA(1) of the Senior Courts Act 1981 or section 25A(2) of the Sentencing Code.
 
-**14.**[^key-c5f56e01a016a1ec4f6e1785a2e7506a] In section 26 of the Sentencing Code (provision about remission by Crown Court)—
+**14.**[^c-c5f56e01a016a1ec4f6e1785a2e7506a] In section 26 of the Sentencing Code (provision about remission by Crown Court)—
 
 - (a) in the heading, after “youth court” insert “or other magistrates’ court”;
 - (b) in subsection (1), at the end insert “or a magistrates’ court under section 25A”;
 - (c) in subsection (2), after “youth court” insert “or magistrates’ court”;
 - (d) in subsection (3)(b), after “youth court” insert “or magistrates’ court”.
 
-### 15. Amendments in connection with section 12[^key-4e2ef6108c0d84def06e2bae49b22924]
+### 15. Amendments in connection with section 12[^c-4e2ef6108c0d84def06e2bae49b22924]
 
 **Not yet in force.**
 
@@ -402,18 +402,18 @@ In section 11(5) of the Magistrates’ Courts Act 1980 (proceedings to which sec
   - (iv) paragraph 5(2);
   - (v) paragraph 6(1).
 
-### 16. Amendments in connection with section 13[^key-bc6ad4706e1940c7df4cdd4aecf2e544][^key-60657c6c81791ce5b7b162200e93750a]
+### 16. Amendments in connection with section 13[^c-bc6ad4706e1940c7df4cdd4aecf2e544][^c-60657c6c81791ce5b7b162200e93750a]
 
 In section 133 of the Magistrates’ Courts Act 1980 (consecutive terms of imprisonment)—
 
 - (a) in subsection (1), for “6 months” substitute “the longest term that could be imposed in respect of any one of the offences for which a term of imprisonment is being imposed”;
 - (b) in subsection (2), for “6 months” substitute “the longest term otherwise permitted by subsection (1) (if less than 12 months)”.
 
-**17.**[^key-b020ff1e08d42a7a79bd6731060084f8][^key-9ea2bf72dbda98ebfff96516b03be753] In section 141(5A) of the Environmental Protection Act 1990 (maximum terms for offences under regulations about waste imports and exports), in paragraph (b), for “twelve months” substitute “the general limit in a magistrates’ court”.
+**17.**[^c-b020ff1e08d42a7a79bd6731060084f8][^c-9ea2bf72dbda98ebfff96516b03be753] In section 141(5A) of the Environmental Protection Act 1990 (maximum terms for offences under regulations about waste imports and exports), in paragraph (b), for “twelve months” substitute “the general limit in a magistrates’ court”.
 
-**18.**[^key-4030ff7c2f4b28e14245068f6012359f][^key-c06d8fe51e6f8d90bb39a3485e5f131f] In section 113(10A) of the Scotland Act 1998 (maximum terms for offences under subordinate legislation under that Act), in paragraph (b), for “twelve months” substitute “the general limit in a magistrates’ court”.
+**18.**[^c-4030ff7c2f4b28e14245068f6012359f][^c-c06d8fe51e6f8d90bb39a3485e5f131f] In section 113(10A) of the Scotland Act 1998 (maximum terms for offences under subordinate legislation under that Act), in paragraph (b), for “twelve months” substitute “the general limit in a magistrates’ court”.
 
-**19.**[^key-44a46850f23c63b3bec80d42f070905f][^key-53716bcc73bd1f869769bde564036156] (1) The Criminal Justice Act 2003 is amended as follows.
+**19.**[^c-44a46850f23c63b3bec80d42f070905f][^c-53716bcc73bd1f869769bde564036156] (1) The Criminal Justice Act 2003 is amended as follows.
 
 (2) In section 155(2) (amendment of section 133(1) of the Magistrates’ Courts Act 1980), for ““6 months”” substitute “the words from “the longest” to “being imposed””.
 
@@ -424,12 +424,12 @@ In section 133 of the Magistrates’ Courts Act 1980 (consecutive terms of impri
   - (ii) omit paragraph (b);
 - (b) omit subsection (3).
 
-**20.**[^key-598f9113956b22cdc3c8aedb9c496b02][^key-0854cc4cc64b7b050f8326f6fdefb504] In section 42 of the Gambling Act 2005 (offence of cheating at gambling)—
+**20.**[^c-598f9113956b22cdc3c8aedb9c496b02][^c-0854cc4cc64b7b050f8326f6fdefb504] In section 42 of the Gambling Act 2005 (offence of cheating at gambling)—
 
 - (a) in subsection (4)(b), for “51 weeks” substitute “the general limit in a magistrates’ court”;
 - (b) in subsection (5), for “51 weeks” substitute “the general limit in a magistrates’ court”.
 
-**21.**[^key-b892e9014ee4b2b1c537502bbfd88f70][^key-e2f42def8af6dd81eb206d6b46203a13] In Part 5 of Schedule 22 to the Sentencing Act 2020 (prospective amendments of the Sentencing Code in relation to custodial sentences)—
+**21.**[^c-b892e9014ee4b2b1c537502bbfd88f70][^c-e2f42def8af6dd81eb206d6b46203a13] In Part 5 of Schedule 22 to the Sentencing Act 2020 (prospective amendments of the Sentencing Code in relation to custodial sentences)—
 
 - (a) omit paragraph 24;
 - (b) before paragraph 25 insert—
@@ -438,64 +438,64 @@ In section 133 of the Magistrates’ Courts Act 1980 (consecutive terms of impri
 
 ## Annotations
 
-[^key-2a5267da6c1b3608d3c68bd0868a64e2]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-2a5267da6c1b3608d3c68bd0868a64e2]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-3fc45015f8c7d108ed62c7533522f909]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/1) in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-3fc45015f8c7d108ed62c7533522f909]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/1) in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
-[^key-0ab0e2ce13b16e25f735304f22dc4629]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-0ab0e2ce13b16e25f735304f22dc4629]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-6f7d919212c74c6a7708f023504a496f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/2) in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-6f7d919212c74c6a7708f023504a496f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/2) in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
-[^key-8541fbc9230c944d66601556d5302c99]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-8541fbc9230c944d66601556d5302c99]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-5589540fd987e9b3f307a01d7a1aa7fe]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3) in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-5589540fd987e9b3f307a01d7a1aa7fe]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3) in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
-[^key-ad8f519420e609663e797baef251408f]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-ad8f519420e609663e797baef251408f]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-38f2740e001fddfd030cf80686cc0bc3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/4) in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-38f2740e001fddfd030cf80686cc0bc3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/4) in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
-[^key-c3f4eafc108221eb132b7b086fb06ce2]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-c3f4eafc108221eb132b7b086fb06ce2]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-1914763b6eba5172d8ca903f0dc3e145]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-1914763b6eba5172d8ca903f0dc3e145]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-6dc9cec8d7ff50ac8a8e1a8627ac8a0a]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-6dc9cec8d7ff50ac8a8e1a8627ac8a0a]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-27c00335b72db066419a3fd61bf20628]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-27c00335b72db066419a3fd61bf20628]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-e1524601f8e5c40260a8c573c1825155]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-e1524601f8e5c40260a8c573c1825155]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-ddfdda24350128ac25f298dc11a72c43]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-ddfdda24350128ac25f298dc11a72c43]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-0df83965b7d230d37aa9cbab3ba41aaf]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-0df83965b7d230d37aa9cbab3ba41aaf]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-55982253690bf75c02eadd542c50371b]: Commencement: Sch. 2 para. 12 in force at Royal Assent, see [s. 51](https://www.legislation.gov.uk/ukpga/2022/35/section/51)
+[^c-55982253690bf75c02eadd542c50371b]: Commencement: Sch. 2 para. 12 in force at Royal Assent, see [s. 51](https://www.legislation.gov.uk/ukpga/2022/35/section/51)
 
-[^key-00b628c64083fe78f777c0b233b659a8]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/13) in force at Royal Assent, see [s. 51(1)(c)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1/c)
+[^c-00b628c64083fe78f777c0b233b659a8]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/13) in force at Royal Assent, see [s. 51(1)(c)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1/c)
 
-[^key-c5f56e01a016a1ec4f6e1785a2e7506a]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/14) in force at Royal Assent, see [s. 51(1)(c)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1/c)
+[^c-c5f56e01a016a1ec4f6e1785a2e7506a]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/14) in force at Royal Assent, see [s. 51(1)(c)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1/c)
 
-[^key-4e2ef6108c0d84def06e2bae49b22924]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-4e2ef6108c0d84def06e2bae49b22924]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-bc6ad4706e1940c7df4cdd4aecf2e544]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-bc6ad4706e1940c7df4cdd4aecf2e544]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-60657c6c81791ce5b7b162200e93750a]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/16) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/d)
+[^c-60657c6c81791ce5b7b162200e93750a]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/16) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/d)
 
-[^key-b020ff1e08d42a7a79bd6731060084f8]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-b020ff1e08d42a7a79bd6731060084f8]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-9ea2bf72dbda98ebfff96516b03be753]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/17) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/d)
+[^c-9ea2bf72dbda98ebfff96516b03be753]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/17) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/d)
 
-[^key-4030ff7c2f4b28e14245068f6012359f]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-4030ff7c2f4b28e14245068f6012359f]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-c06d8fe51e6f8d90bb39a3485e5f131f]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/18) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/d)
+[^c-c06d8fe51e6f8d90bb39a3485e5f131f]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/18) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/d)
 
-[^key-44a46850f23c63b3bec80d42f070905f]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-44a46850f23c63b3bec80d42f070905f]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-53716bcc73bd1f869769bde564036156]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/19) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/d)
+[^c-53716bcc73bd1f869769bde564036156]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/19) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/d)
 
-[^key-598f9113956b22cdc3c8aedb9c496b02]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-598f9113956b22cdc3c8aedb9c496b02]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-0854cc4cc64b7b050f8326f6fdefb504]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/20) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/d)
+[^c-0854cc4cc64b7b050f8326f6fdefb504]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/20) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/d)
 
-[^key-b892e9014ee4b2b1c537502bbfd88f70]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-b892e9014ee4b2b1c537502bbfd88f70]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-e2f42def8af6dd81eb206d6b46203a13]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/21) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/d)
+[^c-e2f42def8af6dd81eb206d6b46203a13]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/21) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/d)

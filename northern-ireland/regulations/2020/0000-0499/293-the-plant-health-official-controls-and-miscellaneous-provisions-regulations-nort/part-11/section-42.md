@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Defence: reasonable excuse[^key-be9cca69315ca3347c12bfc8b07c13ed]
+## 42. Defence: reasonable excuse[^c-be9cca69315ca3347c12bfc8b07c13ed]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ It is a defence for a person charged with an offence under regulation 40 or 41 t
 
 ## Annotations
 
-[^key-be9cca69315ca3347c12bfc8b07c13ed]: Commencement: Reg. 42 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-be9cca69315ca3347c12bfc8b07c13ed]: Commencement: Reg. 42 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Entitlement ceasing on a failure to comply[^key-95d4a710a3ff588891910e8f915af7e6]
+## 25. Entitlement ceasing on a failure to comply[^c-95d4a710a3ff588891910e8f915af7e6]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95d4a710a3ff588891910e8f915af7e6]: Commencement: Reg. 25 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-95d4a710a3ff588891910e8f915af7e6]: Commencement: Reg. 25 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

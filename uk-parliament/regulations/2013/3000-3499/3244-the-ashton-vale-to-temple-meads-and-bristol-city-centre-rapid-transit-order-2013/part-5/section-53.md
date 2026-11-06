@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Notice of penalty fare provisions[^key-b413c5ffc83ee51bdb53cf7e7b3fd3ac]
+## 53. Notice of penalty fare provisions[^c-b413c5ffc83ee51bdb53cf7e7b3fd3ac]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b413c5ffc83ee51bdb53cf7e7b3fd3ac]: Commencement: Art. 53 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-b413c5ffc83ee51bdb53cf7e7b3fd3ac]: Commencement: Art. 53 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

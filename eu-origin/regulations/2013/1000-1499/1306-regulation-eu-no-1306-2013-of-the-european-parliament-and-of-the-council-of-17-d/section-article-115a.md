@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 115A. Regulations: the Secretary of State[^key-99636b4b3a30e5a060c899bc7ba7511b]
+## Article 115A. Regulations: the Secretary of State[^c-99636b4b3a30e5a060c899bc7ba7511b]
 
 *Extent: E+W+S+N.I.*
 
 1. Except as specified in paragraphs 2 to 6, a statutory instrument containing regulations made by the Secretary of State under this Regulation is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-2.[^key-13f412a2942c3e6e00fca8959ab7d450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-13f412a2942c3e6e00fca8959ab7d450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 3. A statutory instrument containing regulations made by the Secretary of State under Article 75(3) must be laid before Parliament after being made.
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99636b4b3a30e5a060c899bc7ba7511b]: Textual amendment: Arts. 115-115D substituted for Art. 115 (31.1.2020 in so far as they relate to the Common Agricultural Policy direct payment schemes) by [The Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/90)](https://www.legislation.gov.uk/uksi/2020/90), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/10/2); and Arts. 115-115D substituted for Art. 115 (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [27](https://www.legislation.gov.uk/uksi/2019/748/regulation/27) (as amended by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [10(10)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/10/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99636b4b3a30e5a060c899bc7ba7511b]: Textual amendment: Arts. 115-115D substituted for Art. 115 (31.1.2020 in so far as they relate to the Common Agricultural Policy direct payment schemes) by [The Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/90)](https://www.legislation.gov.uk/uksi/2020/90), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/10/2); and Arts. 115-115D substituted for Art. 115 (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [27](https://www.legislation.gov.uk/uksi/2019/748/regulation/27) (as amended by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [10(10)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/10/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-13f412a2942c3e6e00fca8959ab7d450]: Textual amendment: Art. 115A(2) omitted (8.6.2020) by virtue of [The Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/576)](https://www.legislation.gov.uk/uksi/2020/576), [regs. 1](https://www.legislation.gov.uk/uksi/2020/576/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/576/regulation/2/6)
+[^c-13f412a2942c3e6e00fca8959ab7d450]: Textual amendment: Art. 115A(2) omitted (8.6.2020) by virtue of [The Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/576)](https://www.legislation.gov.uk/uksi/2020/576), [regs. 1](https://www.legislation.gov.uk/uksi/2020/576/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/576/regulation/2/6)

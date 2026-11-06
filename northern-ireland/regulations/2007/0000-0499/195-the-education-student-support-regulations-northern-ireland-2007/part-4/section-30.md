@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Amount of the grant for fees for a course at a publicly-funded institution in the United Kingdom or relevant institution of higher education in the Republic of Ireland[^key-3b5f5a79dc1515e16ea4e1761f66e0d6]
+## 30. Amount of the grant for fees for a course at a publicly-funded institution in the United Kingdom or relevant institution of higher education in the Republic of Ireland[^c-3b5f5a79dc1515e16ea4e1761f66e0d6]
 
 *Extent: N.I.*
 
@@ -34,12 +34,12 @@ summary: ''
 
 (4) Paragraphs (1) to (3) do not apply to designated courses at Heythrop College or at Guildhall School of Music and Drama.
 
-(5)[^key-533a6ef06ccccd9b75b78a0911cec879] In the case of a designated course at Heythrop College, the amount of grant for fees in respect of an academic year is the lesser of—
+(5)[^c-533a6ef06ccccd9b75b78a0911cec879] In the case of a designated course at Heythrop College, the amount of grant for fees in respect of an academic year is the lesser of—
 
 - (a) £2,195; and
 - (b) the fees payable by the student in connection with that year.
 
-(6)[^key-3a9e15b4cbd31399adcb2d13d48e84ec] In the case of a designated course at Guildhall School of Music and Drama, the amount of grant for fees in respect of an academic year is the lesser of—
+(6)[^c-3a9e15b4cbd31399adcb2d13d48e84ec] In the case of a designated course at Guildhall School of Music and Drama, the amount of grant for fees in respect of an academic year is the lesser of—
 
 - (a) £4,455; and
 - (b) the fees payable by the student in connection with that year.
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3b5f5a79dc1515e16ea4e1761f66e0d6]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2007/195/regulation/30) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-3b5f5a79dc1515e16ea4e1761f66e0d6]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2007/195/regulation/30) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-533a6ef06ccccd9b75b78a0911cec879]: Textual amendment: [Reg. 30(5)](https://www.legislation.gov.uk/nisr/2007/195/regulation/30/5) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [8(2)](https://www.legislation.gov.uk/nisr/2007/363/regulation/8/2)
+[^c-533a6ef06ccccd9b75b78a0911cec879]: Textual amendment: [Reg. 30(5)](https://www.legislation.gov.uk/nisr/2007/195/regulation/30/5) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [8(2)](https://www.legislation.gov.uk/nisr/2007/363/regulation/8/2)
 
-[^key-3a9e15b4cbd31399adcb2d13d48e84ec]: Textual amendment: [Reg. 30(6)](https://www.legislation.gov.uk/nisr/2007/195/regulation/30/6) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [8(3)](https://www.legislation.gov.uk/nisr/2007/363/regulation/8/3)
+[^c-3a9e15b4cbd31399adcb2d13d48e84ec]: Textual amendment: [Reg. 30(6)](https://www.legislation.gov.uk/nisr/2007/195/regulation/30/6) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [8(3)](https://www.legislation.gov.uk/nisr/2007/363/regulation/8/3)

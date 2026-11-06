@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 142. Further circumstances in which an income-based jobseeker’s allowance is payable to a person in hardship[^key-8e94c5d32c07d11a7608d2271c9a40f0]
+## 142. Further circumstances in which an income-based jobseeker’s allowance is payable to a person in hardship[^c-8e94c5d32c07d11a7608d2271c9a40f0]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ and ending on the day before the claim is determined where a reason for the dela
 
 ## Annotations
 
-[^key-8e94c5d32c07d11a7608d2271c9a40f0]: Commencement: Reg. 142 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-8e94c5d32c07d11a7608d2271c9a40f0]: Commencement: Reg. 142 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

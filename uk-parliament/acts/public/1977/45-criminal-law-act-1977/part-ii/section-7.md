@@ -36,7 +36,7 @@ summary: ''
 
 (5) A person guilty of an offence under this section shall be liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale or to both.
 
-(6)[^key-503662756c21f39ec28bf60899a2aea5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-503662756c21f39ec28bf60899a2aea5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Section 12 below contains provisions which apply for determining when any person is to be regarded for the purposes of this Part of this Act as a displaced residential occupier of any premises or of any access to any premises and section 12A below contains provisions which apply for determining when any person is to be regarded for the purposes of this Part of this Act as a protected intending occupier of any premises or of any access to any premises.
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c4764381]: Textual amendment: S. 7 substituted (3.5.1995) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s.73](https://www.legislation.gov.uk/ukpga/1994/33/section/73); [S.I. 1995/127](https://www.legislation.gov.uk/uksi/1995/127), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/127/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1995/127/schedule/1).
 
-[^key-503662756c21f39ec28bf60899a2aea5]: Textual amendment: [S. 7(6)](https://www.legislation.gov.uk/ukpga/1977/45/section/7/6) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 19(3)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/19/3), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-503662756c21f39ec28bf60899a2aea5]: Textual amendment: [S. 7(6)](https://www.legislation.gov.uk/ukpga/1977/45/section/7/6) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 19(3)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/19/3), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)

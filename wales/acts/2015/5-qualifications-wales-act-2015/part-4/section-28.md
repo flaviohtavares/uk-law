@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Transitional provision in connection with withdrawal of approval[^key-f1dfa3c87db3507100da08f1a118defb]
+## 28. Transitional provision in connection with withdrawal of approval[^c-f1dfa3c87db3507100da08f1a118defb]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1dfa3c87db3507100da08f1a118defb]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2015/5/section/28) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-f1dfa3c87db3507100da08f1a118defb]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2015/5/section/28) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43D. Claims for double taxation relief in relation to petroleum revenue tax[^key-43b30d603b9e2a5f499be5e7a09e8dd7]
+## 43D. Claims for double taxation relief in relation to petroleum revenue tax[^c-43b30d603b9e2a5f499be5e7a09e8dd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43b30d603b9e2a5f499be5e7a09e8dd7]: Textual amendment: S. 43D inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/7) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-43b30d603b9e2a5f499be5e7a09e8dd7]: Textual amendment: S. 43D inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/7) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

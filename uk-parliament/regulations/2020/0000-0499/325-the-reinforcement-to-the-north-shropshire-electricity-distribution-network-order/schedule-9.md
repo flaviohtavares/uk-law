@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 9 — DOCUMENTS TO BE CERTIFIED[^key-ef6c08f237445d098923362943cc5e60]
+## SCHEDULE 9 — DOCUMENTS TO BE CERTIFIED[^c-ef6c08f237445d098923362943cc5e60]
 
 *Extent: E+W*
 
@@ -179,4 +179,4 @@ Table 10
 
 ## Annotations
 
-[^key-ef6c08f237445d098923362943cc5e60]: Commencement: Sch. 9 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-ef6c08f237445d098923362943cc5e60]: Commencement: Sch. 9 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Power of the CAC to end period for agreement on bargaining unit[^key-cdeb4cb34aa4d7e853c755b6f0c2a946]
+## 2. Power of the CAC to end period for agreement on bargaining unit[^c-cdeb4cb34aa4d7e853c755b6f0c2a946]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdeb4cb34aa4d7e853c755b6f0c2a946]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2004/24/section/2) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+[^c-cdeb4cb34aa4d7e853c755b6f0c2a946]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2004/24/section/2) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/872/article/6))

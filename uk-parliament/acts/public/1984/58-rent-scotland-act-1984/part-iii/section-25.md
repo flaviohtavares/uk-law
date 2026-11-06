@@ -28,9 +28,9 @@ summary: ''
   - (ii) the Tenancy of Shops (Scotland) [^c981391]Act 1949;
   - (iii) [^c981401]the Agricultural Holdings (Scotland) Act 1991;
   - (iv) the Crofters (Scotland) [^c981411]Acts 1955 and [^c981421]1961;
-  - (v) the Agricultural Holdings (Scotland) Act 2003 (that is a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy).[^key-b31a8eed0431760bedd7a18ae5bc5b71]
+  - (v) the Agricultural Holdings (Scotland) Act 2003 (that is a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy).[^c-b31a8eed0431760bedd7a18ae5bc5b71]
 
-  [^key-1884ea3e34f3c9821c38950bdc5c4880]...
+  [^c-1884ea3e34f3c9821c38950bdc5c4880]...
 
 (2) Nothing in this Part of this Act shall affect any jurisdiction of the Court of Session in relation to actions of removing.
 
@@ -50,9 +50,9 @@ summary: ''
 
 [^c981421]: Marginal citation: [1961 c. 58](https://www.legislation.gov.uk/ukpga/1961/58).
 
-[^key-b31a8eed0431760bedd7a18ae5bc5b71]: Textual amendment: Words in s. 25(1) inserted (30.11.2017) by [The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416)](https://www.legislation.gov.uk/ssi/2017/416), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1), [sch. 1 para. 5(2)(b)](https://www.legislation.gov.uk/ssi/2017/416/schedule/1/paragraph/5/2/b) (with [sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2017/416/schedule/2/paragraph/5))
+[^c-b31a8eed0431760bedd7a18ae5bc5b71]: Textual amendment: Words in s. 25(1) inserted (30.11.2017) by [The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416)](https://www.legislation.gov.uk/ssi/2017/416), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1), [sch. 1 para. 5(2)(b)](https://www.legislation.gov.uk/ssi/2017/416/schedule/1/paragraph/5/2/b) (with [sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2017/416/schedule/2/paragraph/5))
 
-[^key-1884ea3e34f3c9821c38950bdc5c4880]: Textual amendment: Words in s. 25(1) omitted (30.11.2017) by virtue of [The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416)](https://www.legislation.gov.uk/ssi/2017/416), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1), [sch. 1 para. 5(2)(a)](https://www.legislation.gov.uk/ssi/2017/416/schedule/1/paragraph/5/2/a)
+[^c-1884ea3e34f3c9821c38950bdc5c4880]: Textual amendment: Words in s. 25(1) omitted (30.11.2017) by virtue of [The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416)](https://www.legislation.gov.uk/ssi/2017/416), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1), [sch. 1 para. 5(2)(a)](https://www.legislation.gov.uk/ssi/2017/416/schedule/1/paragraph/5/2/a)
 
 [^c981431]: Marginal citation: [1842 c. 94](https://www.legislation.gov.uk/ukpga/1842/94).
 

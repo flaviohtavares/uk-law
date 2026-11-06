@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26E. Free-circulation procedure: NATO forces[^key-2e92bd27475d8d451307ec5ba28c5244]
+## 26E. Free-circulation procedure: NATO forces[^c-2e92bd27475d8d451307ec5ba28c5244]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e92bd27475d8d451307ec5ba28c5244]: Textual amendment: Reg. 26E inserted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/2/4); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-2e92bd27475d8d451307ec5ba28c5244]: Textual amendment: Reg. 26E inserted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/2/4); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

@@ -71,7 +71,7 @@ summary: ''
 
 .
 
-(2)[^key-831c0554c9d707fa341730c2dbcda96b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-831c0554c9d707fa341730c2dbcda96b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -79,4 +79,4 @@ summary: ''
 
 [^c2549101]: Marginal citation: [1961 c. 64](https://www.legislation.gov.uk/ukpga/1961/64).
 
-[^key-831c0554c9d707fa341730c2dbcda96b]: Textual amendment: [S. 27(2)](https://www.legislation.gov.uk/ukpga/1982/30/section/27/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-831c0554c9d707fa341730c2dbcda96b]: Textual amendment: [S. 27(2)](https://www.legislation.gov.uk/ukpga/1982/30/section/27/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

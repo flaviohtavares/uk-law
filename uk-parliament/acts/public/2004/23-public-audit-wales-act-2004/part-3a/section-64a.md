@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Auditor General for Wales may conduct data matching exercises [^key-53da80d95019e645e82026a02773ac31]....
+(1) The Auditor General for Wales may conduct data matching exercises [^c-53da80d95019e645e82026a02773ac31]....
 
 (2) A data matching exercise is an exercise involving the comparison of sets of data to determine how far they match (including the identification of any patterns and trends).
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c20975311]: Textual amendment: Pt. 3A inserted (1.3.2008 for s. 64G(1)(3)(4) and 6.4.2008 otherwise) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 73](https://www.legislation.gov.uk/ukpga/2007/27/section/73), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2007/27/schedule/7/paragraph/4); [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 3(i)](https://www.legislation.gov.uk/uksi/2008/219/article/3/i); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 16](https://www.legislation.gov.uk/uksi/2008/755/article/16)
 
-[^key-53da80d95019e645e82026a02773ac31]: Textual amendment: Words in [s. 64A(1)](https://www.legislation.gov.uk/ukpga/2004/23/section/64A/1) omitted (1.4.2014) by virtue of [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 62](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/62) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-53da80d95019e645e82026a02773ac31]: Textual amendment: Words in [s. 64A(1)](https://www.legislation.gov.uk/ukpga/2004/23/section/64A/1) omitted (1.4.2014) by virtue of [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 62](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/62) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 346. Obstructing persons subject to service law in course of duty[^key-182b043e13e2abfead7b210dfe5c5758][^key-2dd4e219ca1e9ea95bd4fe7874c263ce]
+## 346. Obstructing persons subject to service law in course of duty[^c-182b043e13e2abfead7b210dfe5c5758][^c-2dd4e219ca1e9ea95bd4fe7874c263ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-182b043e13e2abfead7b210dfe5c5758]: Commencement: S. 346 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-182b043e13e2abfead7b210dfe5c5758]: Commencement: S. 346 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-2dd4e219ca1e9ea95bd4fe7874c263ce]: Commencement: S. 346 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-2dd4e219ca1e9ea95bd4fe7874c263ce]: Commencement: S. 346 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

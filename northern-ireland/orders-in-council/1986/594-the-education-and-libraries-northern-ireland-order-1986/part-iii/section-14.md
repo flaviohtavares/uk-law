@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] proposes—
+(1) Where the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] proposes—
 
 - (a) to establish a new controlled school, other than a controlled integrated school[^c17006081];
 - (b) to have an existing school recognised as a controlled school, other than a controlled integrated school;
@@ -40,8 +40,8 @@ the Authority shall submit the proposal to the Department.
 
 then—
 
-- (i) where the school is, or is proposed to be established or recognised as, a Catholic maintained school, the person making the proposal shall submit it to the Council for Catholic Maintained Schools which, after making such modifications (if any) as may be agreed with the person making the proposal, shall submit the proposal to the Authority [^key-0f99182875202b90985e7d2decab677f]... together with the Council's views thereon;
-- (ii) in any other case, the person making the proposal shall submit the proposal to the Authority [^key-0f99182875202b90985e7d2decab677f]...,
+- (i) where the school is, or is proposed to be established or recognised as, a Catholic maintained school, the person making the proposal shall submit it to the Council for Catholic Maintained Schools which, after making such modifications (if any) as may be agreed with the person making the proposal, shall submit the proposal to the Authority [^c-0f99182875202b90985e7d2decab677f]... together with the Council's views thereon;
+- (ii) in any other case, the person making the proposal shall submit the proposal to the Authority [^c-0f99182875202b90985e7d2decab677f]...,
 
 and the Authority shall submit the proposal to the Department together with its views thereon and, in a case to which head (i) applies, the Council's views thereon.
 
@@ -89,11 +89,11 @@ and the Authority shall submit the proposal to the Department together with its 
 
 ## Annotations
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17006081]: Textual amendment: [1989 NI 20](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-0f99182875202b90985e7d2decab677f]: Textual amendment: Words in art. 14(2)(i)(ii) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-0f99182875202b90985e7d2decab677f]: Textual amendment: Words in art. 14(2)(i)(ii) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17006181]: Textual amendment: [2003 NI 12](https://www.legislation.gov.uk/nisi/2003)
 

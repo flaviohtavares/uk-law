@@ -39,16 +39,16 @@ summary: ''
 >
 > (4) Neither subsection (1) nor subsection (2) above shall be construed as extending, or enabling an Order to extend, to other cetaceans so much of section 3 of this Act as is expressed to apply only to right whales, grey whales, blue whales or fin whales.
 
-(3)[^c8102731] In sections 2, 3(1) and 4(2) (penalty for unlawful taking, treating, killing or attempting to kill whales) for the words from “to imprisonment” onwards there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-551dbb5e552d77075f04a32b0831b5a7] “ on summary conviction to a fine not exceeding £50,000 or on conviction on indictment to a fine. ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-551dbb5e552d77075f04a32b0831b5a7]
+(3)[^c8102731] In sections 2, 3(1) and 4(2) (penalty for unlawful taking, treating, killing or attempting to kill whales) for the words from “to imprisonment” onwards there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-551dbb5e552d77075f04a32b0831b5a7] “ on summary conviction to a fine not exceeding £50,000 or on conviction on indictment to a fine. ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-551dbb5e552d77075f04a32b0831b5a7]
 
-(4)[^c8102731] In section 6(7) (penalty for contravening condition of licence) for the words from “to imprisonment” to “and such fine” there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-551dbb5e552d77075f04a32b0831b5a7] “ on summary conviction to a fine not exceeding £5,000 or on conviction on indictment to a fine. ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-551dbb5e552d77075f04a32b0831b5a7]
+(4)[^c8102731] In section 6(7) (penalty for contravening condition of licence) for the words from “to imprisonment” to “and such fine” there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-551dbb5e552d77075f04a32b0831b5a7] “ on summary conviction to a fine not exceeding £5,000 or on conviction on indictment to a fine. ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-551dbb5e552d77075f04a32b0831b5a7]
 
 (5)[^c8102731] In sections 6(8) and 9(1) (penalty for failure to keep or falsifying records and for forgery of documents) for the words from “to imprisonment” onwards there shall be substituted the words “ on summary conviction to a fine not exceeding £1,000 or on conviction on indictment to a fine. ”
 
 (6)[^c8102731] In section 8(3) (obstructing inspectors)—
 
 - (a) before the word “refuses”, in each place where it occurs, there shall be inserted the words “ without reasonable excuse ” and for the word “obstructs” there shall be substituted the words “ wilfully obstructs ”;
-- (b) for the words “to a fine not exceeding one hundred pounds” there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-551dbb5e552d77075f04a32b0831b5a7] “ on summary conviction to a fine not exceeding £5,000 or on conviction on indictment to a fine. ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-551dbb5e552d77075f04a32b0831b5a7]
+- (b) for the words “to a fine not exceeding one hundred pounds” there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-551dbb5e552d77075f04a32b0831b5a7] “ on summary conviction to a fine not exceeding £5,000 or on conviction on indictment to a fine. ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-551dbb5e552d77075f04a32b0831b5a7]
 
 (7)[^c8102731] In section 10(2) (summary proceedings) for the words from the beginning to “proceedings taken by virtue of this Act” there shall be substituted the words “ Summary proceedings taken by virtue of this Act ”.
 
@@ -60,4 +60,4 @@ summary: ''
 
 [^c8102731]: Modification: The text of s. 3(6), 19–26, 28, 29, 35(2)–(7), 36(2), 37–39, 45, 46(2), Sch. 1 para. 10, Sch. 3 para. 8(2)(3), Sch. 5 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-551dbb5e552d77075f04a32b0831b5a7]: Textual amendment: S. 35(3)(4)(6)(b) omitted (E.W.) (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 95(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/95/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-551dbb5e552d77075f04a32b0831b5a7]: Textual amendment: S. 35(3)(4)(6)(b) omitted (E.W.) (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 95(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/95/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

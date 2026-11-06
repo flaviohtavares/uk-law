@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The price of the following accessories is to be taken into account under step 2 of section 121(1) and step 2 of section 121B(1)[^key-319cc579f988b8ae42faa9427b8f07b7] —
+(1) The price of the following accessories is to be taken into account under step 2 of section 121(1) and step 2 of section 121B(1)[^c-319cc579f988b8ae42faa9427b8f07b7] —
 
 - (a) in the case of a car with a list price, the price of any initial extra accessory, and
 - (b) in the case of any car, the price of any later accessory.
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-319cc579f988b8ae42faa9427b8f07b7]: Textual amendment: Words in [s. 126(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/126/1) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/24)
+[^c-319cc579f988b8ae42faa9427b8f07b7]: Textual amendment: Words in [s. 126(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/126/1) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/24)

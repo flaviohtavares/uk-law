@@ -51,11 +51,11 @@ But where a transaction is voidable by virtue of this section and valid by virtu
 
 (8) In this section “**transaction**” includes any act; and the reference in subsection (1) above to limitations under the society’s constitution includes limitations deriving—
 
-- (a) from a resolution of the society passed at a general or special meeting or on a postal or electronic[^key-fff4bd67d551196cf3d2c0a3d8f27ee0] ballot; or
+- (a) from a resolution of the society passed at a general or special meeting or on a postal or electronic[^c-fff4bd67d551196cf3d2c0a3d8f27ee0] ballot; or
 - (b) from any agreement between the members of the society.
 
 ## Annotations
 
 [^c15508771]: Textual amendment: S. 66A inserted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 38](https://www.legislation.gov.uk/ukpga/1997/32/section/38), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(v)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/v)
 
-[^key-fff4bd67d551196cf3d2c0a3d8f27ee0]: Textual amendment: Words in s. 66A(8)(a) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(4)](https://www.legislation.gov.uk/uksi/2003/404/article/30/4)
+[^c-fff4bd67d551196cf3d2c0a3d8f27ee0]: Textual amendment: Words in s. 66A(8)(a) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(4)](https://www.legislation.gov.uk/uksi/2003/404/article/30/4)

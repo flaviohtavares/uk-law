@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. English language requirements for public sector workers[^key-5adfbb6f67250be655cf29128bbcdff1]
+## 77. English language requirements for public sector workers[^c-5adfbb6f67250be655cf29128bbcdff1]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5adfbb6f67250be655cf29128bbcdff1]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2016/19/section/77) in force at 21.11.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1037/regulation/3)
+[^c-5adfbb6f67250be655cf29128bbcdff1]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2016/19/section/77) in force at 21.11.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1037/regulation/3)

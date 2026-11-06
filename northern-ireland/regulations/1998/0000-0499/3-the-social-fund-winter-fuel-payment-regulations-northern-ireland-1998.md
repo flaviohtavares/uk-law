@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 134(2) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and sections 5(1)(*j*), 57(1) and (2)(*c*), 165(1) and (3) to (5) of, and paragraph 4 of Schedule 3 to the Social Security Administration (Northern Ireland) Act 1992[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-f1d32b0b667772390498e4ecb3f46173]
+## 1. Citation, commencement and interpretation[^c-f1d32b0b667772390498e4ecb3f46173]
 
 (1) These Regulations may be cited as the Social Fund Winter Fuel Payment Regulations (Northern Ireland) 1998 and shall come into operation on 16th January 1998.
 
@@ -67,7 +67,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Prescribed description of persons[^key-ce3a77c4fd994d38c09b300f27b5f51d]
+## 2. Prescribed description of persons[^c-ce3a77c4fd994d38c09b300f27b5f51d]
 
 (1) Subject to regulation 3, a winter fuel payment shall be paid to persons who come within either of the categories specified in paragraph (2) or (5).
 
@@ -111,7 +111,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (8) Paragraph (7)(*c*)(ii) shall not have effect to exclude persons from entitlement to a winter fuel payment where the person concerned is temporarily in Health and Social Services Board or HSS trust accommodation under paragraph 10B(1) or (2) of Schedule 7 to the Income Support Regulations[^f00022].
 
-## 3. Prescribed amount[^key-aa384f02a283ea2c0dac2c44857820eb]
+## 3. Prescribed amount[^c-aa384f02a283ea2c0dac2c44857820eb]
 
 (1) Subject to paragraphs (2) to (4), winter fuel payments shall be of the following amounts—
 
@@ -127,7 +127,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (4) Where a person who has received a payment under paragraph (1)(*b*) is subsequently awarded income support or income-based jobseeker’s allowance in respect of the qualifying week, he shall be paid the difference between the amount he and his partner, if any, have already received and the amount to which paragraph (1)(*a*) refers.
 
-## 4. Official records[^key-c93386ca12b7887ae7c6ebc479891395]
+## 4. Official records[^c-c93386ca12b7887ae7c6ebc479891395]
 
 (1) Subject to paragraph (2), official records held by the Department or the Secretary of State as to a person’s circumstances shall be sufficient evidence thereof for the purpose of deciding his entitlement to a winter fuel payment and its amount.
 
@@ -153,7 +153,7 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-f1d32b0b667772390498e4ecb3f46173]: Commencement: Reg. 1 in operation at 16.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/3/regulation/1/1)
+[^c-f1d32b0b667772390498e4ecb3f46173]: Commencement: Reg. 1 in operation at 16.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/3/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending regulations are [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139), [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147), [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149), [165](https://www.legislation.gov.uk/nisr/1993/165), [235](https://www.legislation.gov.uk/nisr/1993/235) and [373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1997 Nos. 113](https://www.legislation.gov.uk/nisr/1997/113) and [412](https://www.legislation.gov.uk/nisr/1997/412)
 
@@ -165,7 +165,7 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-ce3a77c4fd994d38c09b300f27b5f51d]: Commencement: Reg. 2 in operation at 16.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/3/regulation/1/1)
+[^c-ce3a77c4fd994d38c09b300f27b5f51d]: Commencement: Reg. 2 in operation at 16.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/3/regulation/1/1)
 
 [^f00008]: Footnote: Paragraph 9 was substituted and paragraph 9A was inserted by [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139) and paragraph 10 was amended by [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146) and [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147)
 
@@ -197,6 +197,6 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00022]: Footnote: Paragraph 10B was inserted by regulation 34 of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146); relevant amending regulations are [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
 
-[^key-aa384f02a283ea2c0dac2c44857820eb]: Commencement: Reg. 3 in operation at 16.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/3/regulation/1/1)
+[^c-aa384f02a283ea2c0dac2c44857820eb]: Commencement: Reg. 3 in operation at 16.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/3/regulation/1/1)
 
-[^key-c93386ca12b7887ae7c6ebc479891395]: Commencement: Reg. 4 in operation at 16.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/3/regulation/1/1)
+[^c-c93386ca12b7887ae7c6ebc479891395]: Commencement: Reg. 4 in operation at 16.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/3/regulation/1/1)

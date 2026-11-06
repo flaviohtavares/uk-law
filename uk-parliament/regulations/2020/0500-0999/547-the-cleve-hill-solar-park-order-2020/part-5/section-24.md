@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Temporary use of land for carrying out the authorised development[^key-5c081188ef59302f47e2b0b23c1f8840]
+## 24. Temporary use of land for carrying out the authorised development[^c-5c081188ef59302f47e2b0b23c1f8840]
 
 *Extent: E+W+S+N.I.*
 
 (1) The undertaker may, in connection with the carrying out of the authorised development—
 
-- (a) enter on and take temporary possession of any of the Order land in respect of which no notice of entry has been served under section 11 (powers of entry) of the 1965 Act (other than in connection with the acquisition of rights only)[^key-b959ae3cde267f263e51c634b9ba4514] and no declaration has been made under section 4 (execution of declaration) of the 1981 Act;
+- (a) enter on and take temporary possession of any of the Order land in respect of which no notice of entry has been served under section 11 (powers of entry) of the 1965 Act (other than in connection with the acquisition of rights only)[^c-b959ae3cde267f263e51c634b9ba4514] and no declaration has been made under section 4 (execution of declaration) of the 1981 Act;
 - (b) remove any buildings, agricultural plant and apparatus, drainage, fences, debris and vegetation from that land;
 - (c) construct temporary works, haul roads, security fencing, bridges, structures and buildings on that land;
 - (d) use the land for the purposes of a temporary working site with access to the working site in connection with the authorised development;
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c081188ef59302f47e2b0b23c1f8840]: Commencement: Art. 24 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-5c081188ef59302f47e2b0b23c1f8840]: Commencement: Art. 24 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-b959ae3cde267f263e51c634b9ba4514]: Textual amendment: Words in [art. 24(1)(a)](https://www.legislation.gov.uk/uksi/2020/547/article/24/1/a) inserted (11.8.2021) by [The Cleve Hill Solar Park (Correction) Order 2021 (S.I. 2021/934)](https://www.legislation.gov.uk/uksi/2021/934), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/934/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/934/schedule)
+[^c-b959ae3cde267f263e51c634b9ba4514]: Textual amendment: Words in [art. 24(1)(a)](https://www.legislation.gov.uk/uksi/2020/547/article/24/1/a) inserted (11.8.2021) by [The Cleve Hill Solar Park (Correction) Order 2021 (S.I. 2021/934)](https://www.legislation.gov.uk/uksi/2021/934), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/934/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/934/schedule)

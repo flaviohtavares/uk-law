@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Additional requirements for killing animals other than in slaughterhouses[^key-b495916eaecfbce678e1f29a76dd4e2d]
+## 26. Additional requirements for killing animals other than in slaughterhouses[^c-b495916eaecfbce678e1f29a76dd4e2d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 2 has effect.
 
 ## Annotations
 
-[^key-b495916eaecfbce678e1f29a76dd4e2d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2014/951/regulation/26) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-b495916eaecfbce678e1f29a76dd4e2d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2014/951/regulation/26) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

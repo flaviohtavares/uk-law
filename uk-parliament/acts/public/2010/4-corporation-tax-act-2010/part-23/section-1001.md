@@ -28,8 +28,8 @@ The following table mentions, for each paragraph in section 1000(1)—
 | *Paragraph in section 1000(1)* | *Explained or supplemented by* | *Limited by* |
 | --- | --- | --- |
 | A (dividends). |  | Section 1054 (building society payments). |
-|  |  | Sections 1055(2) and 1057(2) (dividend paid by registered society[^key-57907656dfc498721a96a86d3aa0fe1e] or UK agricultural or fishing co-operative). |
-| B (other distributions in respect of shares). | Sections 1024 to 1028 (meaning of “repayment of share capital”). | [^key-f3a1f005096138fc691ff3aa94b6a626]. . . |
+|  |  | Sections 1055(2) and 1057(2) (dividend paid by registered society[^c-57907656dfc498721a96a86d3aa0fe1e] or UK agricultural or fishing co-operative). |
+| B (other distributions in respect of shares). | Sections 1024 to 1028 (meaning of “repayment of share capital”). | [^c-f3a1f005096138fc691ff3aa94b6a626]. . . |
 |  | Section 1113(1) (extends meaning of “in respect of shares in the company”). |  |
 | C (redeemable share capital). | Section 1003 (redeemable share capital). | Section 1049(3)(a) (stock dividends). |
 |  | Section 1113(1). |  |
@@ -46,6 +46,6 @@ The following table mentions, for each paragraph in section 1000(1)—
 
 ## Annotations
 
-[^key-57907656dfc498721a96a86d3aa0fe1e]: Textual amendment: Words in [s. 1001](https://www.legislation.gov.uk/ukpga/2010/4/section/1001) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 163](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/163) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-57907656dfc498721a96a86d3aa0fe1e]: Textual amendment: Words in [s. 1001](https://www.legislation.gov.uk/ukpga/2010/4/section/1001) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 163](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/163) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-f3a1f005096138fc691ff3aa94b6a626]: Textual amendment: Words in s. 1001 omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 33(5)(c)](https://www.legislation.gov.uk/ukpga/2012/14/section/33/5/c)
+[^c-f3a1f005096138fc691ff3aa94b6a626]: Textual amendment: Words in s. 1001 omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 33(5)(c)](https://www.legislation.gov.uk/ukpga/2012/14/section/33/5/c)

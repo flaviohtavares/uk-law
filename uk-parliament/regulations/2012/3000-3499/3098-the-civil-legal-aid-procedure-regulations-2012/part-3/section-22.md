@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the proposed provider decides that attendance in person is not necessary in accordance with the provider's arrangement with the Lord Chancellor under section 2(1) of the Act;
 - (b) the individual—
-  - (i) resides, or is present, in the United Kingdom[^key-e56cba919e6e48e364051c377ed05f77];
+  - (i) resides, or is present, in the United Kingdom[^c-e56cba919e6e48e364051c377ed05f77];
   - (ii) cannot attend in person for good reason; and
   - (iii) authorises another person to attend on their behalf; or
 - (c) the individual is applying for Controlled Work to be provided by a specialist telephone provider.
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e56cba919e6e48e364051c377ed05f77]: Textual amendment: Words in [reg. 22(1)(b)(i)](https://www.legislation.gov.uk/uksi/2012/3098/regulation/22/1/b/i) substituted (31.12.2020) by [The Civil Legal Aid (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/505)](https://www.legislation.gov.uk/uksi/2019/505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/505/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/505/regulation/4/2) (with [regs. 8](https://www.legislation.gov.uk/uksi/2019/505/regulation/8), [9](https://www.legislation.gov.uk/uksi/2019/505/regulation/9)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [7(2)-(4)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/7/2)): [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e56cba919e6e48e364051c377ed05f77]: Textual amendment: Words in [reg. 22(1)(b)(i)](https://www.legislation.gov.uk/uksi/2012/3098/regulation/22/1/b/i) substituted (31.12.2020) by [The Civil Legal Aid (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/505)](https://www.legislation.gov.uk/uksi/2019/505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/505/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/505/regulation/4/2) (with [regs. 8](https://www.legislation.gov.uk/uksi/2019/505/regulation/8), [9](https://www.legislation.gov.uk/uksi/2019/505/regulation/9)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [7(2)-(4)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/7/2)): [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21489581]: Marginal citation: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955).
 

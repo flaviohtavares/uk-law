@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation, commencement and extent[^key-68be086e83b0c965dbb0cca34e596326]
+## 1. Citation, commencement and extent[^c-68be086e83b0c965dbb0cca34e596326]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68be086e83b0c965dbb0cca34e596326]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-68be086e83b0c965dbb0cca34e596326]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2013/240](https://www.legislation.gov.uk/uksi/2013/240).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Additional services[^key-566264fe13de4c63be298990acd59b4e]
+## 16. Additional services[^c-566264fe13de4c63be298990acd59b4e]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ A contract which includes the provision of any additional services must –
 
 ## Annotations
 
-[^key-566264fe13de4c63be298990acd59b4e]: Commencement: Reg. 16 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-566264fe13de4c63be298990acd59b4e]: Commencement: Reg. 16 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)

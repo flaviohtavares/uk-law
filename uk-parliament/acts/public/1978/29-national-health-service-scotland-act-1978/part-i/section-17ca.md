@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17CA. Primary medical services: persons with whom agreements can be made[^c20969801][^key-046ff196cf20fcbfdda9dbc11f657411]
+## 17CA. Primary medical services: persons with whom agreements can be made[^c20969801][^c-046ff196cf20fcbfdda9dbc11f657411]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ regularly performs, or is engaged in the day to day provision of, primary medica
 
 [^c20969801]: Textual amendment: S. 17CA inserted (8.11.2010 for certain purposes otherwise 22.12.2010) by [Tobacco and Primary Medical Services (Scotland) Act 2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3), [ss. 38](https://www.legislation.gov.uk/asp/2010/3/section/38), [43(3)](https://www.legislation.gov.uk/asp/2010/3/section/43/3), [S.S.I. 2010/372](https://www.legislation.gov.uk/ssi/2010/372), [art. 2](https://www.legislation.gov.uk/ssi/2010/372/article/2), [Schs. 1](https://www.legislation.gov.uk/ssi/2010/372/schedule/1), [2](https://www.legislation.gov.uk/ssi/2010/372/schedule/2)
 
-[^key-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))

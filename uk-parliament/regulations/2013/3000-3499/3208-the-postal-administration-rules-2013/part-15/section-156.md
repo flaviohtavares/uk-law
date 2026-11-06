@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 156. Personal delivery of documents[^key-7d463e6bda6096b289219b97139f4517]
+## 156. Personal delivery of documents[^c-7d463e6bda6096b289219b97139f4517]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Personal delivery of a notice or other document is permissible in any case.
 
 ## Annotations
 
-[^key-7d463e6bda6096b289219b97139f4517]: Commencement: [Rule 156](https://www.legislation.gov.uk/uksi/2013/3208/rule/156) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-7d463e6bda6096b289219b97139f4517]: Commencement: [Rule 156](https://www.legislation.gov.uk/uksi/2013/3208/rule/156) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

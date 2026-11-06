@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Expiry and renewal of licence[^key-8bed2c9069ef82c94f97c345a6d97f23]
+## 26. Expiry and renewal of licence[^c-8bed2c9069ef82c94f97c345a6d97f23]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bed2c9069ef82c94f97c345a6d97f23]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2014/7/section/26) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(p)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/p)
+[^c-8bed2c9069ef82c94f97c345a6d97f23]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2014/7/section/26) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(p)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/p)

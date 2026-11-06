@@ -32,10 +32,10 @@ summary: ''
   - (ii) expenses incurred by the applicant under arrangements made for the care of a member of the applicant's family owing to the applicant's absence from home;
 - (g) the amount of any payment by way of a non-cash voucher which has been taken into account in the computation of a person's earnings in accordance with Part 5 of Schedule 3 to the Social Security (Contributions) Regulations 2001 [^c21459461];
 - (h) statutory sick pay and statutory maternity pay;
-- (i) statutory paternity pay[^key-179bdd306cd248b295055df760598ddd];
-- (iza)[^key-3a2938d0e484795c3b29accd62f50b67] statutory neonatal care pay;
-- (ia)[^key-f493b052928c6bf63e7a46365e042b03] statutory shared parental pay;
-- (ib)[^key-a7775e44b9432b8ff14e4c880b9d0001] statutory parental bereavement pay;
+- (i) statutory paternity pay[^c-179bdd306cd248b295055df760598ddd];
+- (iza)[^c-3a2938d0e484795c3b29accd62f50b67] statutory neonatal care pay;
+- (ia)[^c-f493b052928c6bf63e7a46365e042b03] statutory shared parental pay;
+- (ib)[^c-a7775e44b9432b8ff14e4c880b9d0001] statutory parental bereavement pay;
 - (j) statutory adoption pay; and
 - (k) any sums payable under a contract of service—
   - (i) for incapacity for work due to sickness or injury; or
@@ -45,7 +45,7 @@ summary: ''
 
 - (a) subject to paragraph (3), any payment in kind;
 - (b) any payment in respect of expenses wholly, exclusively and necessarily incurred in the performance of the duties of the employment;
-- (ba)[^key-d9700e947281eb8d8f8854402d84d2ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ba)[^c-d9700e947281eb8d8f8854402d84d2ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) any occupational pension;
 - (d) any lump sum payment made under the Iron and Steel Re-adaptation Benefits Scheme [^c21459471];
 - (e) any payment of compensation made pursuant to an award by an employment tribunal established under the Employment Tribunals Act 1996 [^c21459481] in respect of unfair dismissal or unlawful discrimination; and
@@ -57,15 +57,15 @@ summary: ''
 
 [^c21459461]: Marginal citation: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004) as relevantly amended by [S.I. 2001/2412](https://www.legislation.gov.uk/uksi/2001/2412), 2002/307, 2003/2958, 2004/770, 2005/778, 2006/883 and 2003, 2007/2091, 2008/607, 2009/600 and 2011/1000 and 2700.
 
-[^key-179bdd306cd248b295055df760598ddd]: Textual amendment: Words in reg. 32(1)(i) substituted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [24(6)(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/6/a) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-179bdd306cd248b295055df760598ddd]: Textual amendment: Words in reg. 32(1)(i) substituted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [24(6)(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/6/a) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-3a2938d0e484795c3b29accd62f50b67]: Textual amendment: [Reg. 32(1)(iza)](https://www.legislation.gov.uk/ssi/2012/319/regulation/32/1/iza) inserted (25.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2025 (S.S.I. 2025/150)](https://www.legislation.gov.uk/ssi/2025/150), [regs. 1](https://www.legislation.gov.uk/ssi/2025/150/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2025/150/regulation/2/6)
+[^c-3a2938d0e484795c3b29accd62f50b67]: Textual amendment: [Reg. 32(1)(iza)](https://www.legislation.gov.uk/ssi/2012/319/regulation/32/1/iza) inserted (25.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2025 (S.S.I. 2025/150)](https://www.legislation.gov.uk/ssi/2025/150), [regs. 1](https://www.legislation.gov.uk/ssi/2025/150/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2025/150/regulation/2/6)
 
-[^key-f493b052928c6bf63e7a46365e042b03]: Textual amendment: Reg. 32(1)(ia) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [24(6)(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/6/b)
+[^c-f493b052928c6bf63e7a46365e042b03]: Textual amendment: Reg. 32(1)(ia) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [24(6)(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/6/b)
 
-[^key-a7775e44b9432b8ff14e4c880b9d0001]: Textual amendment: [Reg. 32(1)(ib)](https://www.legislation.gov.uk/ssi/2012/319/regulation/32/1/ib) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [25(6)](https://www.legislation.gov.uk/uksi/2020/354/regulation/25/6)
+[^c-a7775e44b9432b8ff14e4c880b9d0001]: Textual amendment: [Reg. 32(1)(ib)](https://www.legislation.gov.uk/ssi/2012/319/regulation/32/1/ib) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [25(6)](https://www.legislation.gov.uk/uksi/2020/354/regulation/25/6)
 
-[^key-d9700e947281eb8d8f8854402d84d2ff]: Textual amendment: [Reg. 32(2)(ba)](https://www.legislation.gov.uk/ssi/2012/319/regulation/32/2/ba) omitted (3.11.2022) by virtue of [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (No. 2) (Scotland) Regulations 2022 (S.S.I. 2022/271)](https://www.legislation.gov.uk/ssi/2022/271), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/271/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2022/271/regulation/5/3)
+[^c-d9700e947281eb8d8f8854402d84d2ff]: Textual amendment: [Reg. 32(2)(ba)](https://www.legislation.gov.uk/ssi/2012/319/regulation/32/2/ba) omitted (3.11.2022) by virtue of [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (No. 2) (Scotland) Regulations 2022 (S.S.I. 2022/271)](https://www.legislation.gov.uk/ssi/2022/271), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/271/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2022/271/regulation/5/3)
 
 [^c21459471]: Marginal citation: The Scheme is set out in regulation 4 of, and the Schedule to, the [European Communities (Iron and Steel Employees Re-adaptation Benefits Scheme) (No. 2) (Amendment) Regulations 1996 (S.I. 1996/3812)](https://www.legislation.gov.uk/uksi/1996/3812).
 

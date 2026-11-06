@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Modification of the 1949 and 1988 Acts in their application to the Isle of Man[^key-d818f433d862868e207b0d359b167850]
+## 3. Modification of the 1949 and 1988 Acts in their application to the Isle of Man[^c-d818f433d862868e207b0d359b167850]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d818f433d862868e207b0d359b167850]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2533/article/3) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-d818f433d862868e207b0d359b167850]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2533/article/3) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)

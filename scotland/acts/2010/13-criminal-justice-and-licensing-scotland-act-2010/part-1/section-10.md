@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Scottish Court Service to provide sentencing information to the Council[^key-d0412a8abeea5441330d2b4f75a8100a]
+## 10. Scottish Court Service to provide sentencing information to the Council[^c-d0412a8abeea5441330d2b4f75a8100a]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0412a8abeea5441330d2b4f75a8100a]: Commencement: S. 10 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)
+[^c-d0412a8abeea5441330d2b4f75a8100a]: Commencement: S. 10 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)

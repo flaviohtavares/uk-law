@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Private finance transactions[^key-6571d72eebab373a079ad55c63acf5fd]
+## 17. Private finance transactions[^c-6571d72eebab373a079ad55c63acf5fd]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A private finance transaction which, apart from this regulation, would not be a 
 
 ## Annotations
 
-[^key-6571d72eebab373a079ad55c63acf5fd]: Commencement: Reg. 17 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-6571d72eebab373a079ad55c63acf5fd]: Commencement: Reg. 17 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

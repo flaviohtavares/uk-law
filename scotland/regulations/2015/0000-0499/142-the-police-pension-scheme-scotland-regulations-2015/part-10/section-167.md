@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 167. Member repays refund of contributions on rejoining this scheme[^key-ae3c2caf05de9da00e9d8131060ea090]
+## 167. Member repays refund of contributions on rejoining this scheme[^c-ae3c2caf05de9da00e9d8131060ea090]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae3c2caf05de9da00e9d8131060ea090]: Commencement: Reg. 167 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ae3c2caf05de9da00e9d8131060ea090]: Commencement: Reg. 167 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

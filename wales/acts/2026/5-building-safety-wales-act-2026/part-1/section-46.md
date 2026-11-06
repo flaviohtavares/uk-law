@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Category 2 buildings: residents’ engagement strategies[^key-1a09a2cba8303ac2cb05b37f7cf3f6d1]
+## 46. Category 2 buildings: residents’ engagement strategies[^c-1a09a2cba8303ac2cb05b37f7cf3f6d1]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a09a2cba8303ac2cb05b37f7cf3f6d1]: Commencement: S. 46 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-1a09a2cba8303ac2cb05b37f7cf3f6d1]: Commencement: S. 46 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 693. Bringing into account adjustments under Part 4 of TIOPA 2010[^key-a3a8172e7733023472999237083e7b59]
+## 693. Bringing into account adjustments under Part 4 of TIOPA 2010[^c-a3a8172e7733023472999237083e7b59]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section deals with the credits and debits which are to be brought into account in accordance with this Part as a result of Part 4 of TIOPA 2010[^key-18dc9a2e90a9067c6a1692726597e340] (provision not at arm's length) applying in relation to a company's derivative contracts or related transactions.
+(1) This section deals with the credits and debits which are to be brought into account in accordance with this Part as a result of Part 4 of TIOPA 2010[^c-18dc9a2e90a9067c6a1692726597e340] (provision not at arm's length) applying in relation to a company's derivative contracts or related transactions.
 
-(2) Subsection (3) applies if under Part 4 of TIOPA 2010[^key-61626867a2914af8156eadb198fee9c8] an amount (“the imputed amount”) is treated as an amount of profits or losses arising to a company from any of its derivative contracts or related transactions.
+(2) Subsection (3) applies if under Part 4 of TIOPA 2010[^c-61626867a2914af8156eadb198fee9c8] an amount (“the imputed amount”) is treated as an amount of profits or losses arising to a company from any of its derivative contracts or related transactions.
 
 (3) Credits or debits relating to the imputed amount are to be brought into account in accordance with this Part to the same extent as they would be in the case of an actual amount of such profits or losses.
 
-(4) Subsection (5) applies if under Part 4 of TIOPA 2010[^key-9b1dca333e841a227f7de4510c956114] an amount is treated as expenses incurred by a company under or for the purposes of any of its derivative contracts or related transactions.
+(4) Subsection (5) applies if under Part 4 of TIOPA 2010[^c-9b1dca333e841a227f7de4510c956114] an amount is treated as expenses incurred by a company under or for the purposes of any of its derivative contracts or related transactions.
 
 (5) Debits relating to the amount are to be brought into account in accordance with this Part to the same extent as they would be in the case of an actual amount of such expenses.
 
-(6)[^key-2a9a81c3eabc115dc3a25817cbe11d3b] Where a company makes a claim under this subsection, any qualifying credit which (ignoring this subsection) would be brought into account for the purposes of this Part is not to be brought into account.
+(6)[^c-2a9a81c3eabc115dc3a25817cbe11d3b] Where a company makes a claim under this subsection, any qualifying credit which (ignoring this subsection) would be brought into account for the purposes of this Part is not to be brought into account.
 
 (7) But subsection (6) does not apply—
 
@@ -81,12 +81,12 @@ summary: ''
 
 ## Annotations
 
-[^key-a3a8172e7733023472999237083e7b59]: Textual amendment: Words in s. 693 title substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 142(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/142/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-a3a8172e7733023472999237083e7b59]: Textual amendment: Words in s. 693 title substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 142(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/142/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-18dc9a2e90a9067c6a1692726597e340]: Textual amendment: Words in s. 693(1) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 142(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/142/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-18dc9a2e90a9067c6a1692726597e340]: Textual amendment: Words in s. 693(1) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 142(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/142/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-61626867a2914af8156eadb198fee9c8]: Textual amendment: Words in s. 693(2) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 142(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/142/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-61626867a2914af8156eadb198fee9c8]: Textual amendment: Words in s. 693(2) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 142(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/142/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-9b1dca333e841a227f7de4510c956114]: Textual amendment: Words in s. 693(4) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 142(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/142/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-9b1dca333e841a227f7de4510c956114]: Textual amendment: Words in s. 693(4) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 142(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/142/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-2a9a81c3eabc115dc3a25817cbe11d3b]: Textual amendment: [S. 693(6)-(18)](https://www.legislation.gov.uk/ukpga/2009/4/section/693/6) substituted for [s. 693(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/693/6) (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 22(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/22/2), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)
+[^c-2a9a81c3eabc115dc3a25817cbe11d3b]: Textual amendment: [S. 693(6)-(18)](https://www.legislation.gov.uk/ukpga/2009/4/section/693/6) substituted for [s. 693(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/693/6) (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 22(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/22/2), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)

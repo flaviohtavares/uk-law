@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Commission Decision [2000/572/EC](https://www.legislation.gov.uk/european/decision/2000/0572) laying down the animal and public health and veterinary certification conditions for imports of meat preparations into the Community from third countries[^key-81fb2f48c0451daee829759623099b17]
+## 40. Commission Decision [2000/572/EC](https://www.legislation.gov.uk/european/decision/2000/0572) laying down the animal and public health and veterinary certification conditions for imports of meat preparations into the Community from third countries[^c-81fb2f48c0451daee829759623099b17]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81fb2f48c0451daee829759623099b17]: Commencement: Reg. 40 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-81fb2f48c0451daee829759623099b17]: Commencement: Reg. 40 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

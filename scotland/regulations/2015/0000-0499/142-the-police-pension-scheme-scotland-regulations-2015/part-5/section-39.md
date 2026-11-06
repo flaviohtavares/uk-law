@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Determination of “the age addition”[^key-14c288ab9ba120acfbffad0feb8e3422]
+## 39. Determination of “the age addition”[^c-14c288ab9ba120acfbffad0feb8e3422]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14c288ab9ba120acfbffad0feb8e3422]: Commencement: Reg. 39 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-14c288ab9ba120acfbffad0feb8e3422]: Commencement: Reg. 39 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

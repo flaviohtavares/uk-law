@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Recalculation notices: producers[^key-f6bb09eaf6d868eee830b656d9bca286]
+## 82. Recalculation notices: producers[^c-f6bb09eaf6d868eee830b656d9bca286]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6bb09eaf6d868eee830b656d9bca286]: Commencement: Reg. 82 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-f6bb09eaf6d868eee830b656d9bca286]: Commencement: Reg. 82 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

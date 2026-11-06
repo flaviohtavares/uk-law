@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32D. Service of notices[^key-6965b045904f4489e84724ea8f121d9d]
+## 32D. Service of notices[^c-6965b045904f4489e84724ea8f121d9d]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6965b045904f4489e84724ea8f121d9d]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/ssi/2002/541/part/6A) inserted (15.3.2019) by [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [16](https://www.legislation.gov.uk/ssi/2019/86/regulation/16)
+[^c-6965b045904f4489e84724ea8f121d9d]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/ssi/2002/541/part/6A) inserted (15.3.2019) by [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [16](https://www.legislation.gov.uk/ssi/2019/86/regulation/16)

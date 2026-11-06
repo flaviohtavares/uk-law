@@ -28,7 +28,7 @@ A company may be wound up by the High Court if—
 - (d) the company does not commence its business within one year from its incorporation or suspends its business for a year,
 - (e) [^c22529971]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) the company is unable to pay its debts,
-- (fa)[^key-6331397ee046c4b45117626c6266406f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (fa)[^c-6331397ee046c4b45117626c6266406f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) the Court is of the opinion that it is just and equitable that the company should be wound up.
 
 ## Annotations
@@ -43,4 +43,4 @@ A company may be wound up by the High Court if—
 
 [^c22529971]: Textual amendment: [Art. 102(e)](https://www.legislation.gov.uk/nisi/1989/2405/article/102/e) omitted (12.5.2011) by virtue of [Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2011/1265/article/7/3)
 
-[^key-6331397ee046c4b45117626c6266406f]: Textual amendment: [Art. 102(fa)](https://www.legislation.gov.uk/nisi/1989/2405/article/102/fa) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/14) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-6331397ee046c4b45117626c6266406f]: Textual amendment: [Art. 102(fa)](https://www.legislation.gov.uk/nisi/1989/2405/article/102/fa) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/14) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

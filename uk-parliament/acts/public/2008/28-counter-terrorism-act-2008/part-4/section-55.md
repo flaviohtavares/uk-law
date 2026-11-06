@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Effect of absence abroad[^key-2bbdab6e3326d983e8c2f6acb4d08064]
+## 55. Effect of absence abroad[^c-2bbdab6e3326d983e8c2f6acb4d08064]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,19 +33,19 @@ This is subject to subsection (4).
 - (a) the period of absence begins before the end of the period within which notification must be made under that section, and
 - (b) the person's absence results from the person's removal from the United Kingdom.
 
-(5) Sections 48 and 48A[^key-0f3d1e9f67e7f9452ca3925f459d71d8] (notification of changes)—
+(5) Sections 48 and 48A[^c-0f3d1e9f67e7f9452ca3925f459d71d8] (notification of changes)—
 
-- (a) apply[^key-44f704e9fa92071111a50ca21f2fb90c] in relation to an event that occurs before the period of absence, but
-- (b) do[^key-1be48ada24d5fee1960ad2c7c6f88592] not apply in relation to an event that occurs during the period of absence.
+- (a) apply[^c-44f704e9fa92071111a50ca21f2fb90c] in relation to an event that occurs before the period of absence, but
+- (b) do[^c-1be48ada24d5fee1960ad2c7c6f88592] not apply in relation to an event that occurs during the period of absence.
 
 Paragraph (a) is subject to subsection (6).
 
-(6) Sections 48 and 48A do[^key-de212ab7323966eb420ab8d8f789d047] not apply in relation to an event that occurs before the period of absence if—
+(6) Sections 48 and 48A do[^c-de212ab7323966eb420ab8d8f789d047] not apply in relation to an event that occurs before the period of absence if—
 
 - (a) the period of absence begins before the end of the period within which notification must be made under that section, and
 - (b) the person's absence results from the person's removal from the United Kingdom.
 
-(7) Section 49 (periodic re-notification) does not apply if the applicable period[^key-1d8c0c0b79292c368580e842112697c0] referred to in subsection (1) of that section ends during the period of absence.
+(7) Section 49 (periodic re-notification) does not apply if the applicable period[^c-1d8c0c0b79292c368580e842112697c0] referred to in subsection (1) of that section ends during the period of absence.
 
 (8) Section 53(7) (disregard of period of custody etc) applies in relation to the period of absence as if it referred to any period when the person was—
 
@@ -62,14 +62,14 @@ Paragraph (a) is subject to subsection (6).
 
 ## Annotations
 
-[^key-2bbdab6e3326d983e8c2f6acb4d08064]: Commencement: S. 55 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
+[^c-2bbdab6e3326d983e8c2f6acb4d08064]: Commencement: S. 55 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
 
-[^key-0f3d1e9f67e7f9452ca3925f459d71d8]: Textual amendment: Words in [s. 55(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/55/5) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 49(2)(a)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/49/2/a)
+[^c-0f3d1e9f67e7f9452ca3925f459d71d8]: Textual amendment: Words in [s. 55(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/55/5) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 49(2)(a)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/49/2/a)
 
-[^key-44f704e9fa92071111a50ca21f2fb90c]: Textual amendment: Word in [s. 55(5)(a)](https://www.legislation.gov.uk/ukpga/2008/28/section/55/5/a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 49(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/49/2/b)
+[^c-44f704e9fa92071111a50ca21f2fb90c]: Textual amendment: Word in [s. 55(5)(a)](https://www.legislation.gov.uk/ukpga/2008/28/section/55/5/a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 49(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/49/2/b)
 
-[^key-1be48ada24d5fee1960ad2c7c6f88592]: Textual amendment: Word in [s. 55(5)(b)](https://www.legislation.gov.uk/ukpga/2008/28/section/55/5/b) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 49(2)(c)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/49/2/c)
+[^c-1be48ada24d5fee1960ad2c7c6f88592]: Textual amendment: Word in [s. 55(5)(b)](https://www.legislation.gov.uk/ukpga/2008/28/section/55/5/b) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 49(2)(c)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/49/2/c)
 
-[^key-de212ab7323966eb420ab8d8f789d047]: Textual amendment: Words in [s. 55(6)](https://www.legislation.gov.uk/ukpga/2008/28/section/55/6) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 49(3)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/49/3)
+[^c-de212ab7323966eb420ab8d8f789d047]: Textual amendment: Words in [s. 55(6)](https://www.legislation.gov.uk/ukpga/2008/28/section/55/6) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 49(3)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/49/3)
 
-[^key-1d8c0c0b79292c368580e842112697c0]: Textual amendment: Words in [s. 55(7)](https://www.legislation.gov.uk/ukpga/2008/28/section/55/7) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 49(4)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/49/4)
+[^c-1d8c0c0b79292c368580e842112697c0]: Textual amendment: Words in [s. 55(7)](https://www.legislation.gov.uk/ukpga/2008/28/section/55/7) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 49(4)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/49/4)

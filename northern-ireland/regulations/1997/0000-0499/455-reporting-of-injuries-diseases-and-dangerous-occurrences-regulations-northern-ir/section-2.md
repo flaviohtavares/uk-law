@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-0e53a114aa72ce95e394daf541d4730a]
+## 2. Interpretation[^c-0e53a114aa72ce95e394daf541d4730a]
 
 *Extent: N.I.*
 
@@ -108,7 +108,7 @@ In addition to minor and drafting amendments, these Regulations make the followi
 
 ## Annotations
 
-[^key-0e53a114aa72ce95e394daf541d4730a]: Commencement: Reg. 2 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-0e53a114aa72ce95e394daf541d4730a]: Commencement: Reg. 2 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1995 No. 340](https://www.legislation.gov.uk/nisr/1995/340), as amended by [S.R. 1996 No. 228](https://www.legislation.gov.uk/nisr/1996/228) regulation 26(2)
 

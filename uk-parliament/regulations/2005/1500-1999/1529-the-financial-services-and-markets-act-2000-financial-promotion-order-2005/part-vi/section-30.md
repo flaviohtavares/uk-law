@@ -25,14 +25,14 @@ summary: ''
 (2) In this article—
 
 - “**overseas communicator**” means a person who carries on relevant investment activities outside the United Kingdom but who does not carry on any such activity from a permanent place of business maintained by him in the United Kingdom;
-- “**relevant investment activities**” means controlled activities which fall within paragraphs 3 to 7 or 10 to 10B, 10BA or 10BB[^key-65493908e976548458443a84a4508ad4] of Schedule 1 or, so far as relevant to any of those paragraphs, paragraph 11 of that Schedule.
+- “**relevant investment activities**” means controlled activities which fall within paragraphs 3 to 7 or 10 to 10B, 10BA or 10BB[^c-65493908e976548458443a84a4508ad4] of Schedule 1 or, so far as relevant to any of those paragraphs, paragraph 11 of that Schedule.
 
 *Extent: E+W+S*
 
-(3)[^key-532469fd297c58fa41381b69ef2f61dd] Paragraph (1) does not apply to any communication in respect of a controlled claims management activity.
+(3)[^c-532469fd297c58fa41381b69ef2f61dd] Paragraph (1) does not apply to any communication in respect of a controlled claims management activity.
 
 ## Annotations
 
-[^key-65493908e976548458443a84a4508ad4]: Textual amendment: Words in art. 30(2) inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [17(3)](https://www.legislation.gov.uk/uksi/2013/1881/article/17/3)
+[^c-65493908e976548458443a84a4508ad4]: Textual amendment: Words in art. 30(2) inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [17(3)](https://www.legislation.gov.uk/uksi/2013/1881/article/17/3)
 
-[^key-532469fd297c58fa41381b69ef2f61dd]: Textual amendment: Art. 30(3) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [24](https://www.legislation.gov.uk/uksi/2018/1253/article/24)
+[^c-532469fd297c58fa41381b69ef2f61dd]: Textual amendment: Art. 30(3) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [24](https://www.legislation.gov.uk/uksi/2018/1253/article/24)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28ZE. Effect of determination[^key-bb12e332c539949d96d40031da9cd7f5]
+## 28ZE. Effect of determination[^c-bb12e332c539949d96d40031da9cd7f5]
 
 *Extent: E+W+S+N.I.*
 
-(1) The determination of a question referred to the tribunal[^key-0880b6dfaf84bb2ae677949ffb87b8aa] under section 28ZA of this Act is binding on the parties to the referral in the same way, and to the same extent, as a decision on a preliminary issue in an appeal.
+(1) The determination of a question referred to the tribunal[^c-0880b6dfaf84bb2ae677949ffb87b8aa] under section 28ZA of this Act is binding on the parties to the referral in the same way, and to the same extent, as a decision on a preliminary issue in an appeal.
 
 (2) The determination shall be taken into account by an officer of the Board—
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb12e332c539949d96d40031da9cd7f5]: Textual amendment: Pt. 3A inserted (with effect and application in accordance with s. 88(3), Sch. 29 para. 6(2) of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 29 para. 6(1)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/29/paragraph/6/1)
+[^c-bb12e332c539949d96d40031da9cd7f5]: Textual amendment: Pt. 3A inserted (with effect and application in accordance with s. 88(3), Sch. 29 para. 6(2) of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 29 para. 6(1)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/29/paragraph/6/1)
 
-[^key-0880b6dfaf84bb2ae677949ffb87b8aa]: Textual amendment: Word in s. 28ZE(1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/16)
+[^c-0880b6dfaf84bb2ae677949ffb87b8aa]: Textual amendment: Word in s. 28ZE(1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Financial assessment process[^key-7d4a90dec00cb7d6bd73ca25b6fdbe86]
+## 9. Financial assessment process[^c-7d4a90dec00cb7d6bd73ca25b6fdbe86]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d4a90dec00cb7d6bd73ca25b6fdbe86]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/1844/regulation/9) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-7d4a90dec00cb7d6bd73ca25b6fdbe86]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/1844/regulation/9) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)

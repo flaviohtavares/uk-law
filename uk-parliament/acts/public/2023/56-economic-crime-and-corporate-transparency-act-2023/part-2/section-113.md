@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. A limited partnership’s registered office[^key-979a1e9339ac0d7ce35b9f40f8d6bcd9]
+## 113. A limited partnership’s registered office[^c-979a1e9339ac0d7ce35b9f40f8d6bcd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -115,4 +115,4 @@ summary: ''
 
 ## Annotations
 
-[^key-979a1e9339ac0d7ce35b9f40f8d6bcd9]: Commencement: S. 113 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-979a1e9339ac0d7ce35b9f40f8d6bcd9]: Commencement: S. 113 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Welsh public records[^key-43c7320bd7bace14ca9111f755490c14]
+## 34. Welsh public records[^c-43c7320bd7bace14ca9111f755490c14]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 148 of the Government of Wales Act 2006 (c. 32) (meaning of “Welsh 
 
 ## Annotations
 
-[^key-43c7320bd7bace14ca9111f755490c14]: Commencement: S. 34 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-43c7320bd7bace14ca9111f755490c14]: Commencement: S. 34 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

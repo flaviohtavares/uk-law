@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Sanctions for the purposes of Scottish domestic energy efficiency regulations[^key-c193cdce7dbca473616857de7b157e4f]
+## 57. Sanctions for the purposes of Scottish domestic energy efficiency regulations[^c-c193cdce7dbca473616857de7b157e4f]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ including, in cases falling within paragraph (b) or (c), the imposition of a civ
 
 ## Annotations
 
-[^key-c193cdce7dbca473616857de7b157e4f]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2011/16/section/57) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)
+[^c-c193cdce7dbca473616857de7b157e4f]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2011/16/section/57) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)

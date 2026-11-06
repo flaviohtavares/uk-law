@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 45. Forwarding of documents presented to customs offices[^key-3d7771388b203403ab07b572612eccbf]
+## Article 45. Forwarding of documents presented to customs offices[^c-3d7771388b203403ab07b572612eccbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d7771388b203403ab07b572612eccbf]: Textual amendment: [Art. 45](https://www.legislation.gov.uk/eur/2006/865/article/45) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(46)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/46)
+[^c-3d7771388b203403ab07b572612eccbf]: Textual amendment: [Art. 45](https://www.legislation.gov.uk/eur/2006/865/article/45) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(46)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/46)

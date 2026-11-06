@@ -25,7 +25,7 @@ summary: ''
 - (a) a work-related requirement imposed on that claimant ceases to have effect for a period of 13 consecutive weeks starting on the date of the notification referred to in paragraph (3)(a); and
 - (b) the Secretary of State must not impose any other work-related requirement on that claimant during that period.
 
-(1A)[^key-89d2c94e07e853136c6457e0a38cff72] Where a claimant referred to in paragraph (1) is a person who falls within section 22 of the Act (claimants subject to all work-related requirements) and is the responsible carer of a child, the Secretary of State must not impose a work search requirement or a work availability requirement on that claimant for a further period of 13 consecutive weeks beginning on the day after the period in paragraph (1)(a) expires.
+(1A)[^c-89d2c94e07e853136c6457e0a38cff72] Where a claimant referred to in paragraph (1) is a person who falls within section 22 of the Act (claimants subject to all work-related requirements) and is the responsible carer of a child, the Secretary of State must not impose a work search requirement or a work availability requirement on that claimant for a further period of 13 consecutive weeks beginning on the day after the period in paragraph (1)(a) expires.
 
 (2) A person has recently been a victim of domestic violence if a period of 6 months has not expired since the violence was inflicted or threatened.
 
@@ -54,19 +54,19 @@ summary: ''
 - “**health care professional**” means a person who is a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 [^c2165968];
 - “**person acting in an official capacity**” means a health care professional, a police officer, a registered social worker, the claimant's employer, a representative of the claimant's trade union, or any public, voluntary or charitable body which has had direct contact with the claimant in connection with domestic violence;
 - “**registered social worker**” means a person registered as a social worker in a register maintained by—
-  - (a) Social Work England;[^key-61e1da7f855e2dab4a0d3ea503855cdf]
-  - (b) Social Care Wales;[^key-d354bb809cfa13e453c82428bcaf8c2b]
+  - (a) Social Work England;[^c-61e1da7f855e2dab4a0d3ea503855cdf]
+  - (b) Social Care Wales;[^c-d354bb809cfa13e453c82428bcaf8c2b]
   - (c) The Scottish Social Services Council; or
   - (d) The Northern Ireland Social Care Council.
 
 ## Annotations
 
-[^key-89d2c94e07e853136c6457e0a38cff72]: Textual amendment: Reg. 98(1A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/8/2)
+[^c-89d2c94e07e853136c6457e0a38cff72]: Textual amendment: Reg. 98(1A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/8/2)
 
 [^c2190965]: Textual amendment: Words in reg. 98(4) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/b), [3(9)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/3/9)
 
 [^c2165968]: Marginal citation: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17).
 
-[^key-61e1da7f855e2dab4a0d3ea503855cdf]: Textual amendment: Words in [reg. 98(4)](https://www.legislation.gov.uk/uksi/2013/376/regulation/98/4) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 30](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/30); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), reg. 2(b)
+[^c-61e1da7f855e2dab4a0d3ea503855cdf]: Textual amendment: Words in [reg. 98(4)](https://www.legislation.gov.uk/uksi/2013/376/regulation/98/4) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 30](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/30); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), reg. 2(b)
 
-[^key-d354bb809cfa13e453c82428bcaf8c2b]: Textual amendment: Words in reg. 98(4) substituted (1.4.2017) by [The Social Security (Social Care Wales) (Amendment) Regulations 2017 (S.I. 2017/291)](https://www.legislation.gov.uk/uksi/2017/291), [regs. 1](https://www.legislation.gov.uk/uksi/2017/291/regulation/1), [2](https://www.legislation.gov.uk/uksi/2017/291/regulation/2)
+[^c-d354bb809cfa13e453c82428bcaf8c2b]: Textual amendment: Words in reg. 98(4) substituted (1.4.2017) by [The Social Security (Social Care Wales) (Amendment) Regulations 2017 (S.I. 2017/291)](https://www.legislation.gov.uk/uksi/2017/291), [regs. 1](https://www.legislation.gov.uk/uksi/2017/291/regulation/1), [2](https://www.legislation.gov.uk/uksi/2017/291/regulation/2)

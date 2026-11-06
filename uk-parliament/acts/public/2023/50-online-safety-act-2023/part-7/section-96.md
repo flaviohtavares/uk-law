@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Duty to maintain register[^key-eee3f6f4560b51b45dabb544485e9545][^key-56f9910538d0d0ff3a84950f8169ac64]
+## 96. Duty to maintain register[^c-eee3f6f4560b51b45dabb544485e9545][^c-56f9910538d0d0ff3a84950f8169ac64]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eee3f6f4560b51b45dabb544485e9545]: Commencement: S. 96 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-eee3f6f4560b51b45dabb544485e9545]: Commencement: S. 96 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-56f9910538d0d0ff3a84950f8169ac64]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2023/50/section/96) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z3)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z3)
+[^c-56f9910538d0d0ff3a84950f8169ac64]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2023/50/section/96) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z3)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Matters relevant to a decision to give a notice under section 121(1)[^key-189b8bcb3784fb1fbe4dc2f1e3bcc618][^key-e2de433b0a2c9bacfba376060622064d]
+## 124. Matters relevant to a decision to give a notice under section 121(1)[^c-189b8bcb3784fb1fbe4dc2f1e3bcc618][^c-e2de433b0a2c9bacfba376060622064d]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-189b8bcb3784fb1fbe4dc2f1e3bcc618]: Commencement: S. 124 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-189b8bcb3784fb1fbe4dc2f1e3bcc618]: Commencement: S. 124 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-e2de433b0a2c9bacfba376060622064d]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2023/50/section/124) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z16)
+[^c-e2de433b0a2c9bacfba376060622064d]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2023/50/section/124) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z16)

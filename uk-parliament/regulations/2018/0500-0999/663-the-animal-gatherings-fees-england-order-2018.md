@@ -48,19 +48,19 @@ Coming into force
 
 The Secretary of State makes this Order with the approval of the Treasury in exercise of the powers conferred by section 84(1) of the Animal Health Act 1981[^f00001], and now vested in the Secretary of State[^f00002].
 
-## 1. Title and commencement[^key-7e130a70e0e1880cee0a7f34315e480d]
+## 1. Title and commencement[^c-7e130a70e0e1880cee0a7f34315e480d]
 
 This Order may be cited as the Animal Gatherings (Fees) (England) Order 2018 and comes into force on 30th June 2018.
 
-## 2. Interpretation[^key-2b91fafeab7c50aa87c8abc0c772651e]
+## 2. Interpretation[^c-2b91fafeab7c50aa87c8abc0c772651e]
 
 In this Order—
 
 - “the 2010 Order” means the Animal Gatherings Order 2010[^f00003];
-- “collection centre” means premises[^key-9e152c246b72a096a94dba26221b4b62] where animals are collected for onward consignment within Great Britain;
+- “collection centre” means premises[^c-9e152c246b72a096a94dba26221b4b62] where animals are collected for onward consignment within Great Britain;
 - “licensed premises” means premises licensed under article 5(1) of the 2010 Order.
 
-## 3. Fees payable[^key-1fcf86c9ab06432b6483022631112850]
+## 3. Fees payable[^c-1fcf86c9ab06432b6483022631112850]
 
 (1) The fees payable to the Secretary of State for the issue, amendment or renewal of a licence under the 2010 Order are to be determined in accordance with Table 1 of the Schedule.
 
@@ -68,7 +68,7 @@ In this Order—
 
 (3) Additional fees related to travel time and extra veterinary visits payable to the Secretary of State are to be determined in accordance with Table 3 of the Schedule.
 
-(4) A person is exempt from a licence fee where the animal gathering on premises, or on the part of premises[^key-3e417ba3a1747d46ab4e2c3c9c7802fc] to which the licence relates, involves—
+(4) A person is exempt from a licence fee where the animal gathering on premises, or on the part of premises[^c-3e417ba3a1747d46ab4e2c3c9c7802fc] to which the licence relates, involves—
 
 - (a) only shows or exhibitions that are open to the public for not more than one day at a time, in circumstances where no public sale or auction of animals takes place;
 - (b) a gathering solely for the purpose of an inspection to confirm that animals possess specific breed characteristics.
@@ -91,7 +91,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 24th May 2018
 
-## SCHEDULE[^key-3a282ce28ce4015d93e3ab98c7390d50]
+## SCHEDULE[^c-3a282ce28ce4015d93e3ab98c7390d50]
 
 Article 3
 
@@ -152,16 +152,16 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: Functions conferred under this Act on the Minister of Agriculture, Fisheries and Food were transferred to the Secretary of State by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794).
 
-[^key-7e130a70e0e1880cee0a7f34315e480d]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2018/663/article/1) in force at 30.6.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2018/663/article/1)
+[^c-7e130a70e0e1880cee0a7f34315e480d]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2018/663/article/1) in force at 30.6.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2018/663/article/1)
 
-[^key-2b91fafeab7c50aa87c8abc0c772651e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2018/663/article/2) in force at 30.6.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2018/663/article/1)
+[^c-2b91fafeab7c50aa87c8abc0c772651e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2018/663/article/2) in force at 30.6.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2018/663/article/1)
 
 [^f00003]: Footnote: [S.I. 2010/460](https://www.legislation.gov.uk/uksi/2010/460). There are amendments not relevant to this Order.
 
-[^key-9e152c246b72a096a94dba26221b4b62]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2018/663/article/2) substituted (1.12.2022) by [The Animal Health (Poultry Compartments, Approved Disinfectants and Animal Gatherings) (Fees) (England) (Amendment) Order 2022 (S.I. 2022/1121)](https://www.legislation.gov.uk/uksi/2022/1121), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1121/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2022/1121/article/4/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/1121/article/5))
+[^c-9e152c246b72a096a94dba26221b4b62]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2018/663/article/2) substituted (1.12.2022) by [The Animal Health (Poultry Compartments, Approved Disinfectants and Animal Gatherings) (Fees) (England) (Amendment) Order 2022 (S.I. 2022/1121)](https://www.legislation.gov.uk/uksi/2022/1121), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1121/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2022/1121/article/4/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/1121/article/5))
 
-[^key-1fcf86c9ab06432b6483022631112850]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2018/663/article/3) in force at 30.6.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2018/663/article/1)
+[^c-1fcf86c9ab06432b6483022631112850]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2018/663/article/3) in force at 30.6.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2018/663/article/1)
 
-[^key-3e417ba3a1747d46ab4e2c3c9c7802fc]: Textual amendment: Word in [art. 3(4)](https://www.legislation.gov.uk/uksi/2018/663/article/3/4) substituted (1.12.2022) by [The Animal Health (Poultry Compartments, Approved Disinfectants and Animal Gatherings) (Fees) (England) (Amendment) Order 2022 (S.I. 2022/1121)](https://www.legislation.gov.uk/uksi/2022/1121), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1121/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2022/1121/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/1121/article/5))
+[^c-3e417ba3a1747d46ab4e2c3c9c7802fc]: Textual amendment: Word in [art. 3(4)](https://www.legislation.gov.uk/uksi/2018/663/article/3/4) substituted (1.12.2022) by [The Animal Health (Poultry Compartments, Approved Disinfectants and Animal Gatherings) (Fees) (England) (Amendment) Order 2022 (S.I. 2022/1121)](https://www.legislation.gov.uk/uksi/2022/1121), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1121/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2022/1121/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/1121/article/5))
 
-[^key-3a282ce28ce4015d93e3ab98c7390d50]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2018/663/schedule) substituted (1.12.2024) by [The Animal Health (Approved Disinfectants and Animal Gatherings) (Fees) (England) (Amendment) Order 2024 (S.I. 2024/1140)](https://www.legislation.gov.uk/uksi/2024/1140), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1140/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/1140/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1140/article/4))
+[^c-3a282ce28ce4015d93e3ab98c7390d50]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2018/663/schedule) substituted (1.12.2024) by [The Animal Health (Approved Disinfectants and Animal Gatherings) (Fees) (England) (Amendment) Order 2024 (S.I. 2024/1140)](https://www.legislation.gov.uk/uksi/2024/1140), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1140/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/1140/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1140/article/4))

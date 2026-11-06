@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809ZP. Connected charities[^key-a137542f054243a0afcb3e80db0cece6]
+## 809ZP. Connected charities[^c-a137542f054243a0afcb3e80db0cece6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of this Chapter, a “**connected charity**” in relation to a
 
 ## Annotations
 
-[^key-a137542f054243a0afcb3e80db0cece6]: Textual amendment: Pt. 13 Ch. 8 inserted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 28 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/1)
+[^c-a137542f054243a0afcb3e80db0cece6]: Textual amendment: Pt. 13 Ch. 8 inserted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 28 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/1)

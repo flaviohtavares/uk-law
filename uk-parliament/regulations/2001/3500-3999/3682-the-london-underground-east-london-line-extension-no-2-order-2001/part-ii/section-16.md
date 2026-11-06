@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Power to survey and investigate land[^key-a8deb2fb99a20d9f60466e6a4f899742]
+## 16. Power to survey and investigate land[^c-a8deb2fb99a20d9f60466e6a4f899742]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8deb2fb99a20d9f60466e6a4f899742]: Commencement: Art. 16 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-a8deb2fb99a20d9f60466e6a4f899742]: Commencement: Art. 16 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

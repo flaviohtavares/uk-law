@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Volunteers[^key-82ecb2b743532daf679f7d544db56cf7]
+## 12. Volunteers[^c-82ecb2b743532daf679f7d544db56cf7]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ in determining whether he is available for employment no matter relating to his 
 
 ## Annotations
 
-[^key-82ecb2b743532daf679f7d544db56cf7]: Commencement: Reg. 12 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-82ecb2b743532daf679f7d544db56cf7]: Commencement: Reg. 12 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

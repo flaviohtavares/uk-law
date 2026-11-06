@@ -22,9 +22,9 @@ summary: ''
 
 (1) In this Part—
 
-- “[^key-0a3672ee640f51b209aa05ef2a1eb0d2]**arrangements**” includes any scheme, agreement, understanding, transaction or series of transactions (whether or not legally enforceable);
+- “[^c-0a3672ee640f51b209aa05ef2a1eb0d2]**arrangements**” includes any scheme, agreement, understanding, transaction or series of transactions (whether or not legally enforceable);
 - “**bonus shares**” means shares which are issued otherwise than for payment (whether in cash or otherwise),
-- “director” is read in accordance with section 452 of CTA 2010[^key-da54cfd282c3a2103de6143c7340a6e2],
+- “director” is read in accordance with section 452 of CTA 2010[^c-da54cfd282c3a2103de6143c7340a6e2],
 - “**group**” means a parent company and its qualifying subsidiaries,
 - “**group company**”, in relation to a group, means the parent company or any of its qualifying subsidiaries,
 - “**ordinary shares**” means shares forming part of a company's ordinary share capital,
@@ -42,7 +42,7 @@ summary: ''
 - section 233(2), and
 - section 243(4),
 
-and in those provisions “**control**” is to be read in accordance with sections 450 and 451 of CTA 2010[^key-601a8d6467318202cbd3f951d1d11d4a].
+and in those provisions “**control**” is to be read in accordance with sections 450 and 451 of CTA 2010[^c-601a8d6467318202cbd3f951d1d11d4a].
 
 (4) In this Part—
 
@@ -53,7 +53,7 @@ and in those provisions “**control**” is to be read in accordance with secti
   - (i) to the withdrawal of the EIS relief attributable to those shares, or
   - (ii) if no relief has yet been obtained, to ceasing to be eligible for EIS relief in respect of those shares.
 
-(5) For the purposes of this Part shares in a company are not treated as being of the same class unless they would be so treated if dealt in on a recognised stock exchange[^key-ac86f4e1042c1118cbf1cdf0b3cb1c65].
+(5) For the purposes of this Part shares in a company are not treated as being of the same class unless they would be so treated if dealt in on a recognised stock exchange[^c-ac86f4e1042c1118cbf1cdf0b3cb1c65].
 
 (6) For the purposes of this Part the market value at any time of any asset is the price which it might reasonably be expected to fetch on a sale at that time in the open market free from any interest or right which exists by way of security in or over it.
 
@@ -66,10 +66,10 @@ and in those provisions “**control**” is to be read in accordance with secti
 
 ## Annotations
 
-[^key-0a3672ee640f51b209aa05ef2a1eb0d2]: Textual amendment: Words in s. 257(1) substituted (retrospective to 6.4.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 paras. 21](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/21), [25](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/25)
+[^c-0a3672ee640f51b209aa05ef2a1eb0d2]: Textual amendment: Words in s. 257(1) substituted (retrospective to 6.4.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 paras. 21](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/21), [25](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/25)
 
-[^key-da54cfd282c3a2103de6143c7340a6e2]: Textual amendment: Words in s. 257(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 503(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/503/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-da54cfd282c3a2103de6143c7340a6e2]: Textual amendment: Words in s. 257(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 503(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/503/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-601a8d6467318202cbd3f951d1d11d4a]: Textual amendment: Words in s. 257(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 503(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/503/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-601a8d6467318202cbd3f951d1d11d4a]: Textual amendment: Words in s. 257(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 503(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/503/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-ac86f4e1042c1118cbf1cdf0b3cb1c65]: Textual amendment: Words in s. 257(5) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/5)
+[^c-ac86f4e1042c1118cbf1cdf0b3cb1c65]: Textual amendment: Words in s. 257(5) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/5)

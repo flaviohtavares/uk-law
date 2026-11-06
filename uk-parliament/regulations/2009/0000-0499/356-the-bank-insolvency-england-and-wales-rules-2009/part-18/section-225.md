@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 225. Procedure on appeal[^key-0c86bdce95a189022856eb3874d05b89]
+## 225. Procedure on appeal[^c-0c86bdce95a189022856eb3874d05b89]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Part 52 of the CPR applies with regard to the procedure for appeals.
 
 ## Annotations
 
-[^key-0c86bdce95a189022856eb3874d05b89]: Commencement: Rule 225 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-0c86bdce95a189022856eb3874d05b89]: Commencement: Rule 225 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Confidentiality of case records[^key-5dd1e5b760b77ab2e64a4db5a2b89838]
+## 42. Confidentiality of case records[^c-5dd1e5b760b77ab2e64a4db5a2b89838]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to regulation 43, any information obtained or reports, recommendations o
 
 ## Annotations
 
-[^key-5dd1e5b760b77ab2e64a4db5a2b89838]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2005/1313/regulation/42) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-5dd1e5b760b77ab2e64a4db5a2b89838]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2005/1313/regulation/42) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)

@@ -26,16 +26,16 @@ summary: ''
 
 - sections 71 and 72;
 - sections 82 and 83;
-- [^key-27a5111b366ceb6c346c7e7fb7f8bc6c]...
+- [^c-27a5111b366ceb6c346c7e7fb7f8bc6c]...
 - section 188 and Schedule 11;
-- [^key-27a5111b366ceb6c346c7e7fb7f8bc6c]...
+- [^c-27a5111b366ceb6c346c7e7fb7f8bc6c]...
 - section 293;
 - section 306
 - section 307;
 - section 311;
 - this Part, except sections 331, 332 and 334(5);
 - paragraphs 19, 70 and 71 of Schedule 3;
-- [^key-27a5111b366ceb6c346c7e7fb7f8bc6c]...
+- [^c-27a5111b366ceb6c346c7e7fb7f8bc6c]...
 - paragraphs 3, 6, 7 and 8 of Schedule 27;
 - paragraphs 6 to 8 of Schedule 31.
 
@@ -127,7 +127,7 @@ has the same extent as the enactment to which it relates.
 
 ## Annotations
 
-[^key-27a5111b366ceb6c346c7e7fb7f8bc6c]: Textual amendment: Words in [s. 337(2)](https://www.legislation.gov.uk/ukpga/2003/44/section/337/2) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-27a5111b366ceb6c346c7e7fb7f8bc6c]: Textual amendment: Words in [s. 337(2)](https://www.legislation.gov.uk/ukpga/2003/44/section/337/2) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19173781]: Textual amendment: Words in s. 337(5) inserted (7.4.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 167(a)](https://www.legislation.gov.uk/ukpga/2005/15/section/167/a), [178(1)(a)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/1/a)
 

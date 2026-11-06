@@ -27,21 +27,21 @@ summary: ''
 
 1976 No. 425 (N.I. 7)
 
-Co-operative and Community Benefit Societies (Northern Ireland) Order 1976[^key-593daec479be3cc2799979c3172ec726]
+Co-operative and Community Benefit Societies (Northern Ireland) Order 1976[^c-593daec479be3cc2799979c3172ec726]
 
 \[17th March 1976\] [^c19087321]
 
 ## 1. Title and commencement
 
-This Order may be cited as the Co-operative and Community Benefit Societies (Northern Ireland) Order 1976[^key-7e4886739641893d5a4da09194f6ae98] … *Commencement* …
+This Order may be cited as the Co-operative and Community Benefit Societies (Northern Ireland) Order 1976[^c-7e4886739641893d5a4da09194f6ae98] … *Commencement* …
 
 ## 2. Interpretation, construction and citation
 
 (1) The Interpretation Act (Northern Ireland) 1954 [^m00001] shall apply to Article 1 and the following provisions of this Order as it applies to a Measure of the Northern Ireland Assembly.
 
-(2) In this Order “the principal Act” means the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^key-2cc3aba3d7fc5d2e9e72fb2e87034000] [^m00002].
+(2) In this Order “the principal Act” means the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^c-2cc3aba3d7fc5d2e9e72fb2e87034000] [^m00002].
 
-(3) This Order and the principal Act shall be construed as one and may be cited together as the Co-operative and Community Benefit Societies Acts (Northern Ireland) 1969 and 1976[^key-69018fdccaf9e95aa61cf95871fedbaa] .
+(3) This Order and the principal Act shall be construed as one and may be cited together as the Co-operative and Community Benefit Societies Acts (Northern Ireland) 1969 and 1976[^c-69018fdccaf9e95aa61cf95871fedbaa] .
 
 ## 3. Raising of limit on share of any one member
 
@@ -67,16 +67,16 @@ This Order may be cited as the Co-operative and Community Benefit Societies (Nor
 
 ## Annotations
 
-[^key-593daec479be3cc2799979c3172ec726]: Textual amendment: Order: "The Industrial and Provident Societies (N.I.) Order 1976 may be cited as The Co-operative and Community Benefit Societies (N.I.) Order 1976" (6.4.2018) by virtue of the Credit Unions and Co-operative and Community Benefit Societies Act (N.I.) [2016 c. 16 (N.I.)](https://www.legislation.gov.uk/nia/2016/16), ss. 8(2), 17(2) (with Sch. 2 paras. 2, 3); 2017 SR217, art. 2(b)
+[^c-593daec479be3cc2799979c3172ec726]: Textual amendment: Order: "The Industrial and Provident Societies (N.I.) Order 1976 may be cited as The Co-operative and Community Benefit Societies (N.I.) Order 1976" (6.4.2018) by virtue of the Credit Unions and Co-operative and Community Benefit Societies Act (N.I.) [2016 c. 16 (N.I.)](https://www.legislation.gov.uk/nia/2016/16), ss. 8(2), 17(2) (with Sch. 2 paras. 2, 3); 2017 SR217, art. 2(b)
 
 [^c19087321]: Modification: Order: power to modify conferred (1.7.2006) by [Industrial and Provident Societies (Northern Ireland) Order 2006 (S.I. 2006/314 (N.I. 3))](https://www.legislation.gov.uk/nisi/2006/314), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/314/article/1/3), [10(2)-(6)](https://www.legislation.gov.uk/nisi/2006/314/article/10/2); [S.R. 2006/242](https://www.legislation.gov.uk/nisr/2006/242), [art. 2](https://www.legislation.gov.uk/nisr/2006/242/article/2)
 
-[^key-7e4886739641893d5a4da09194f6ae98]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/nisi/1976/425/article/1) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/18); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-7e4886739641893d5a4da09194f6ae98]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/nisi/1976/425/article/1) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/18); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
 [^m00001]: Marginal citation: 1954 c.33
 
-[^key-2cc3aba3d7fc5d2e9e72fb2e87034000]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1976/425/article/2/2) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/19/2); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-2cc3aba3d7fc5d2e9e72fb2e87034000]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1976/425/article/2/2) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/19/2); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
 [^m00002]: Marginal citation: 1969 c.24
 
-[^key-69018fdccaf9e95aa61cf95871fedbaa]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisi/1976/425/article/2/3) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/19/3); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-69018fdccaf9e95aa61cf95871fedbaa]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisi/1976/425/article/2/3) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/19/3); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)

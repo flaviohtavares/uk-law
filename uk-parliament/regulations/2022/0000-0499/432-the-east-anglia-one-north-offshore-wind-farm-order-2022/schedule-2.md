@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — Streets subject to street works[^key-95d1a196967fc173f412ed2b1618f2c9]
+## SCHEDULE 2 — Streets subject to street works[^c-95d1a196967fc173f412ed2b1618f2c9]
 
 *Extent: E+W+S*
 
@@ -78,4 +78,4 @@ Article 8
 
 ## Annotations
 
-[^key-95d1a196967fc173f412ed2b1618f2c9]: Commencement: Sch. 2 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-95d1a196967fc173f412ed2b1618f2c9]: Commencement: Sch. 2 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)

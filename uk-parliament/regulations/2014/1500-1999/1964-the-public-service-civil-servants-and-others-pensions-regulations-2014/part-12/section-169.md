@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Forfeiture and set-off: procedure and appeals[^key-e385b70c5b955376517194e61df9ed40]
+## 169. Forfeiture and set-off: procedure and appeals[^c-e385b70c5b955376517194e61df9ed40]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e385b70c5b955376517194e61df9ed40]: Commencement: [Reg. 169](https://www.legislation.gov.uk/uksi/2014/1964/regulation/169) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-e385b70c5b955376517194e61df9ed40]: Commencement: [Reg. 169](https://www.legislation.gov.uk/uksi/2014/1964/regulation/169) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

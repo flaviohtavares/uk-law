@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred by sections 167D and 171(1) to (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], Article 6(1) and (6) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994[^f00002] and Article 75(5) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00003], and now vested in it[^f00004], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-36da5b9e8675b1d5506504a1ca9b2ea3]
+## 1. Citation, commencement and interpretation[^c-36da5b9e8675b1d5506504a1ca9b2ea3]
 
 (1) These Regulations may be cited as the Social Security (Incapacity) (Miscellaneous Amendments) Regulations (Northern Ireland) 2002 and shall come into operation—
 
@@ -48,7 +48,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-13bb23e06f17b749527239615254132d]
+## 2. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-13bb23e06f17b749527239615254132d]
 
 (1) The Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00006] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -66,13 +66,13 @@ The Department for Social Development, in exercise of the powers conferred by se
 
   .
 
-(3)[^key-92f2d569793971a6c3bdb492e243a25a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-92f2d569793971a6c3bdb492e243a25a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security (Incapacity Benefit) Regulations[^key-6659dbab437e259d6f9022015fd69452]
+## 3. Amendment of the Social Security (Incapacity Benefit) Regulations[^c-6659dbab437e259d6f9022015fd69452]
 
 In regulation 18 of the Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994[^f00010] (persons formerly entitled to severe disablement allowance), for “immediately before 6th April 2001”, in both places where those words occur, there shall be substituted “on 6th April 2001”.
 
-## 4. Transitional provisions[^key-eb10d30d173d16dcde57de737fc12f7b]
+## 4. Transitional provisions[^c-eb10d30d173d16dcde57de737fc12f7b]
 
 (1) Where, at any time during the pre-commencement period, a person was undertaking work of a kind described in regulation 17(1)(*a*) of the Social Security (Incapacity for Work) Regulations (Northern Ireland) 1995 as then in operation (work undertaken on the advice of a doctor), that regulation 17 shall, until the end of the day specified in paragraph (3) continue to apply in his case as if regulation 2(3) had not come into operation.
 
@@ -91,7 +91,7 @@ whichever first occurs.
 - “period of incapacity for work” is to be construed in accordance with section 30C(1)(*b*) and (*c*) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00012];
 - “pre-commencement period” means the period which began 56 days before the day on which these Regulations come into operation and ended on the day preceding that day.
 
-## 5. Revocation[^key-f8c5e1452435d05dcf5b7669d38d96ae]
+## 5. Revocation[^c-f8c5e1452435d05dcf5b7669d38d96ae]
 
 Regulation 7 of the Social Security (Incapacity Benefit) (Transitional) Regulations (Northern Ireland) 1995 is hereby revoked.
 
@@ -130,26 +130,26 @@ These Regulations do not impose a charge on business.
 
 [^f00004]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-36da5b9e8675b1d5506504a1ca9b2ea3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/86/regulation/1) in operation at 5.4.2002, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2002/86/regulation/1/1/a)
+[^c-36da5b9e8675b1d5506504a1ca9b2ea3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/86/regulation/1) in operation at 5.4.2002, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2002/86/regulation/1/1/a)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-13bb23e06f17b749527239615254132d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/86/regulation/2) in operation at 8.4.2002, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/86/regulation/1/1/b)
+[^c-13bb23e06f17b749527239615254132d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/86/regulation/2) in operation at 8.4.2002, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/86/regulation/1/1/b)
 
 [^f00006]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); relevant amending regulations are [S.R. 1999 No. 428](https://www.legislation.gov.uk/nisr/1999/428), [S.R. 2000 No. 109](https://www.legislation.gov.uk/nisr/2000/109) and [S.R. 2001 No. 316](https://www.legislation.gov.uk/nisr/2001/316)
 
 [^f00007]: Footnote: Regulation 10A was inserted by regulation 7(3) of [S.R. 2000 No. 109](https://www.legislation.gov.uk/nisr/2000/109)
 
-[^key-92f2d569793971a6c3bdb492e243a25a]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2002/86/regulation/2/3) revoked (10.4.2006) by [The Social Security (Incapacity for Work) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/150)](https://www.legislation.gov.uk/nisr/2006/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/150/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2006/150/regulation/4), [Sch.](https://www.legislation.gov.uk/nisr/2006/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/2006/150/regulation/3))
+[^c-92f2d569793971a6c3bdb492e243a25a]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2002/86/regulation/2/3) revoked (10.4.2006) by [The Social Security (Incapacity for Work) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/150)](https://www.legislation.gov.uk/nisr/2006/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/150/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2006/150/regulation/4), [Sch.](https://www.legislation.gov.uk/nisr/2006/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/2006/150/regulation/3))
 
-[^key-6659dbab437e259d6f9022015fd69452]: Commencement: Reg. 3 in operation at 5.4.2002, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2002/86/regulation/1/1/a)
+[^c-6659dbab437e259d6f9022015fd69452]: Commencement: Reg. 3 in operation at 5.4.2002, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2002/86/regulation/1/1/a)
 
 [^f00010]: Footnote: [S.R. 1994 No. 461](https://www.legislation.gov.uk/nisr/1994/461); regulation 18 was added by regulation 2(5) of [S.R. 2000 No. 404](https://www.legislation.gov.uk/nisr/2000/404)
 
-[^key-eb10d30d173d16dcde57de737fc12f7b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/86/regulation/4) in operation at 8.4.2002, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/86/regulation/1/1/b)
+[^c-eb10d30d173d16dcde57de737fc12f7b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/86/regulation/4) in operation at 8.4.2002, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/86/regulation/1/1/b)
 
 [^f00011]: Footnote: [S.R. 1995 No. 35](https://www.legislation.gov.uk/nisr/1995/35)
 
 [^f00012]: Footnote: Section 30C was inserted by Article 5(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994
 
-[^key-f8c5e1452435d05dcf5b7669d38d96ae]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/86/regulation/5) in operation at 8.4.2002, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/86/regulation/1/1/b)
+[^c-f8c5e1452435d05dcf5b7669d38d96ae]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/86/regulation/5) in operation at 8.4.2002, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/86/regulation/1/1/b)

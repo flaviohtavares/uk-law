@@ -57,7 +57,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 1.** 1. The product descriptions set out in the list in Annex I hereto, originating in the third countries referred to therein, may only be used for products produced in accordance with the laws and regulations of the third countries concerned.
 
-2. The products referred to in paragraph 1 shall be covered by the measures for the protection and control of spirit drinks contained in the Spirit Drinks Regulations 2008[^key-8230215236a3c21843b4ac5ba6e014fe] under the conditions laid down in the agreement with the third countries concerned.
+2. The products referred to in paragraph 1 shall be covered by the measures for the protection and control of spirit drinks contained in the Spirit Drinks Regulations 2008[^c-8230215236a3c21843b4ac5ba6e014fe] under the conditions laid down in the agreement with the third countries concerned.
 
 **Article 2.** Regulation (EC) No 1267/94 is repealed.
 
@@ -65,7 +65,7 @@ References to the repealed Regulation shall be construed as references to this R
 
 **Article 3.** This Regulation shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.
 
-[^key-3fa54211b2c261aaf687377f5f18b2ba]...
+[^c-3fa54211b2c261aaf687377f5f18b2ba]...
 
 Done at Brussels, 7 October 2009.
 
@@ -112,6 +112,6 @@ Mariann Fischer Boel
 
 [^f00003]: Footnote: See Annex II.
 
-[^key-8230215236a3c21843b4ac5ba6e014fe]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2009/936/article/1/2) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/3/2)
+[^c-8230215236a3c21843b4ac5ba6e014fe]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2009/936/article/1/2) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/3/2)
 
-[^key-3fa54211b2c261aaf687377f5f18b2ba]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2009/936/signature) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/3/3)
+[^c-3fa54211b2c261aaf687377f5f18b2ba]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2009/936/signature) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/3/3)

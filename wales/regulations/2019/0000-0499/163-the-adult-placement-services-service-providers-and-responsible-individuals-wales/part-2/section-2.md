@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Requirements in relation to the provision of the service[^key-9e4622153ec3fdaa4df08a0963b1bc28]
+## 2. Requirements in relation to the provision of the service[^c-9e4622153ec3fdaa4df08a0963b1bc28]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must ensure that the service is provided with sufficient ca
 
 ## Annotations
 
-[^key-9e4622153ec3fdaa4df08a0963b1bc28]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2019/163/regulation/2) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-9e4622153ec3fdaa4df08a0963b1bc28]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2019/163/regulation/2) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

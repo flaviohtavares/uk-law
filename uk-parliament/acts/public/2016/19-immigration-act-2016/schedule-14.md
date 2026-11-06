@@ -22,16 +22,16 @@ summary: ''
 
 Section 75
 
-**1.**[^key-ad18245177d72a530fc4c4521fe0d600] The Immigration Act 1971 is amended as follows.
+**1.**[^c-ad18245177d72a530fc4c4521fe0d600] The Immigration Act 1971 is amended as follows.
 
-**2.**[^key-fdaca67b9e375b3c74701fa7dde022b0] In section 25(1) (offence of assisting unlawful immigration to member State), in paragraphs (a) and (b) after “breach” insert “ or attempted breach ”.
+**2.**[^c-fdaca67b9e375b3c74701fa7dde022b0] In section 25(1) (offence of assisting unlawful immigration to member State), in paragraphs (a) and (b) after “breach” insert “ or attempted breach ”.
 
-**3.**[^key-0ebf6011ea3819b85272c92a42c5ab52] In section 25A (helping an asylum-seeker to enter United Kingdom) in subsection (1)(a)—
+**3.**[^c-0ebf6011ea3819b85272c92a42c5ab52] In section 25A (helping an asylum-seeker to enter United Kingdom) in subsection (1)(a)—
 
 - (a) after “arrival” insert “ or attempted arrival ”, and
 - (b) after “entry” insert “ or attempted entry ”.
 
-**4.**[^key-d54f596b504aaf5773edd10957c39589] In section 25B (assisting entry to United Kingdom in breach of deportation or exclusion order)—
+**4.**[^c-d54f596b504aaf5773edd10957c39589] In section 25B (assisting entry to United Kingdom in breach of deportation or exclusion order)—
 
 - (a) in subsection (1), in paragraphs (a) and (b) after “breach” insert “ or attempted breach ”,
 - (b) for subsection (2) substitute—
@@ -46,13 +46,13 @@ Section 75
 
   > (5) In this section a “**temporary exclusion order**” means an order under section 2 of the Counter-Terrorism and Security Act 2015.
 
-**5.**[^key-1a25e89f53da766ab68d9d9660b9afb7] In section 28 (proceedings) after subsection (2) insert—
+**5.**[^c-1a25e89f53da766ab68d9d9660b9afb7] In section 28 (proceedings) after subsection (2) insert—
 
 > (2A) Section 3 of the Territorial Waters Jurisdiction Act 1878 (consent of Secretary of State for certain prosecutions) does not apply to proceedings for an offence under section 25, 25A or 25B.
 
-**6.**[^key-70bb109464b415f46f0807fcb4e35736] In section 28A(3) (arrest without warrant) in paragraphs (a) and (b) after “committed” insert “ or attempted to commit ”.
+**6.**[^c-70bb109464b415f46f0807fcb4e35736] In section 28A(3) (arrest without warrant) in paragraphs (a) and (b) after “committed” insert “ or attempted to commit ”.
 
-**7.**[^key-6e83abfeb3ec2912f59fada6e2b5d254] After Part 3 insert—
+**7.**[^c-6e83abfeb3ec2912f59fada6e2b5d254] After Part 3 insert—
 
 > **PART 3A — Maritime enforcement**
 >
@@ -207,7 +207,7 @@ Section 75
 > - (b) an individual who is habitually resident in the United Kingdom, or
 > - (c) a body corporate which is established under the law of a part of the United Kingdom and has its principal place of business in the United Kingdom.
 
-**8.**[^key-5a1dd527283c804e915dfcc3361eab60] After Schedule 4 insert—
+**8.**[^c-5a1dd527283c804e915dfcc3361eab60] After Schedule 4 insert—
 
 > **SCHEDULE 4A — Enforcement powers in relation to ships**
 >
@@ -721,18 +721,18 @@ Section 75
 
 ## Annotations
 
-[^key-ad18245177d72a530fc4c4521fe0d600]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/1) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
+[^c-ad18245177d72a530fc4c4521fe0d600]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/1) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
 
-[^key-fdaca67b9e375b3c74701fa7dde022b0]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/2) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
+[^c-fdaca67b9e375b3c74701fa7dde022b0]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/2) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
 
-[^key-0ebf6011ea3819b85272c92a42c5ab52]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/3) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
+[^c-0ebf6011ea3819b85272c92a42c5ab52]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/3) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
 
-[^key-d54f596b504aaf5773edd10957c39589]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/4) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
+[^c-d54f596b504aaf5773edd10957c39589]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/4) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
 
-[^key-1a25e89f53da766ab68d9d9660b9afb7]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/5) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
+[^c-1a25e89f53da766ab68d9d9660b9afb7]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/5) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
 
-[^key-70bb109464b415f46f0807fcb4e35736]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/6) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
+[^c-70bb109464b415f46f0807fcb4e35736]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/6) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
 
-[^key-6e83abfeb3ec2912f59fada6e2b5d254]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/7) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
+[^c-6e83abfeb3ec2912f59fada6e2b5d254]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/7) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
 
-[^key-5a1dd527283c804e915dfcc3361eab60]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/8) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
+[^c-5a1dd527283c804e915dfcc3361eab60]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/8) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)

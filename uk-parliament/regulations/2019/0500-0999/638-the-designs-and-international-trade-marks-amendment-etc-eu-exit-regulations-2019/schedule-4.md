@@ -22,15 +22,15 @@ summary: ''
 
 Regulation 6
 
-**1.**[^key-2965568ffdf69d9347bcaf0510344b55] The 1994 Act is amended as follows.
+**1.**[^c-2965568ffdf69d9347bcaf0510344b55] The 1994 Act is amended as follows.
 
-**2.**[^key-9876509e06b704be79bfb8e1e72743bc] After section 54 [^c23664131] (and before the italic heading before section 55), insert—
+**2.**[^c-9876509e06b704be79bfb8e1e72743bc] After section 54 [^c23664131] (and before the italic heading before section 55), insert—
 
 > **54A. Certain international trade marks protected in the European Union to be treated as registered trade marks**
 >
-> Schedule 2B makes provision for international trade marks protected in the European Union (including certain expired marks) to be treated as registered trade marks with effect from IP completion day[^key-de201b2b68e53884885308aaa7c2a8ec] and about certain applications for the protection of an international trade mark in the European Union and transformation applications made before IP completion day.
+> Schedule 2B makes provision for international trade marks protected in the European Union (including certain expired marks) to be treated as registered trade marks with effect from IP completion day[^c-de201b2b68e53884885308aaa7c2a8ec] and about certain applications for the protection of an international trade mark in the European Union and transformation applications made before IP completion day.
 
-**3.**[^key-81046e64e5910706cbe63fde01b7c105] Before Schedule 3, insert—
+**3.**[^c-81046e64e5910706cbe63fde01b7c105] Before Schedule 3, insert—
 
 > **SCHEDULE 2B — INTERNATIONAL TRADE MARKS PROTECTED IN THE EUROPEAN UNION**
 >
@@ -40,7 +40,7 @@ Regulation 6
 >
 > **1. An international trade mark protected in the European Union to be treated as registered under this Act**
 >
-> (1) A trade mark which, immediately before IP completion day[^key-7de35a9608f8cd84f920c3a9f309fe25], is an international trade mark which is protected in the European Union in accordance with Article 189(2) of the European Union Trade Mark Regulation (an “existing IR(EU)”) is to be treated on and after IP completion day as if an application had been made, and the trade mark had been registered, under this Act in respect of the same goods or services in respect of which the international trade mark is protected in the European Union.
+> (1) A trade mark which, immediately before IP completion day[^c-7de35a9608f8cd84f920c3a9f309fe25], is an international trade mark which is protected in the European Union in accordance with Article 189(2) of the European Union Trade Mark Regulation (an “existing IR(EU)”) is to be treated on and after IP completion day as if an application had been made, and the trade mark had been registered, under this Act in respect of the same goods or services in respect of which the international trade mark is protected in the European Union.
 >
 > (2) Where the international registration to which an international trade mark is subject is sub-divided to reflect the making of more than one request for territorial extension to the European Union under Article 3*ter* there is to be deemed for the purposes of sub-paragraph (1) to be a separate trade mark in respect of the goods or services covered by each sub-division of the registration.
 >
@@ -673,17 +673,17 @@ Regulation 6
 
 ## Annotations
 
-[^key-2965568ffdf69d9347bcaf0510344b55]: Commencement: Sch. 4 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-2965568ffdf69d9347bcaf0510344b55]: Commencement: Sch. 4 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-9876509e06b704be79bfb8e1e72743bc]: Commencement: Sch. 4 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-9876509e06b704be79bfb8e1e72743bc]: Commencement: Sch. 4 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c23664131]: Marginal citation: Section 54 was amended by the [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [section 2(4)](https://www.legislation.gov.uk/ukpga/2017/14/section/2/4).
 
-[^key-de201b2b68e53884885308aaa7c2a8ec]: Textual amendment: Words in [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/4/paragraph/2) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/22/a)
+[^c-de201b2b68e53884885308aaa7c2a8ec]: Textual amendment: Words in [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/4/paragraph/2) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/22/a)
 
-[^key-81046e64e5910706cbe63fde01b7c105]: Commencement: Sch. 4 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-81046e64e5910706cbe63fde01b7c105]: Commencement: Sch. 4 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-7de35a9608f8cd84f920c3a9f309fe25]: Textual amendment: Words in [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2019/638/schedule/4/paragraph/3) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/22/b)
+[^c-7de35a9608f8cd84f920c3a9f309fe25]: Textual amendment: Words in [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2019/638/schedule/4/paragraph/3) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/22/b)
 
 [^c23664141]: Marginal citation: Available from the World Intellectual Property Organization at www.wipo.int.
 

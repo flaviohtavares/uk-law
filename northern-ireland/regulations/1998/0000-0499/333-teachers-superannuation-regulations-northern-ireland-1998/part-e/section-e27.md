@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E27. Relevant service[^key-bd3fa0400e64631e71c0ee36906ce08a]
+## E27. Relevant service[^c-bd3fa0400e64631e71c0ee36906ce08a]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd3fa0400e64631e71c0ee36906ce08a]: Commencement: Reg. E27 in operation at 2.11.1998, see reg. A1
+[^c-bd3fa0400e64631e71c0ee36906ce08a]: Commencement: Reg. E27 in operation at 2.11.1998, see reg. A1
 
 [^f00022]: Footnote: [S.R. 1974 No. 185](https://www.legislation.gov.uk/nisr/1974/185), revoked by [S.R. 1977 No. 260](https://www.legislation.gov.uk/nisr/1977/260)

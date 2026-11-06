@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85AC. Power to seize items found during search under section 85AA[^key-b10e5e710edc8add5afaa0653ead6b05]
+## 85AC. Power to seize items found during search under section 85AA[^c-b10e5e710edc8add5afaa0653ead6b05]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ but may not seize alcohol from S under this section where S is aged 18 or over.
 
 (6) In determining, for the purposes of subsections (4) and (5), whether there is a good reason to dispose of a controlled drug or to return a stolen article to its owner, retain it or dispose of it, the person must have regard to any guidance issued by the Secretary of State.
 
-(6A)[^key-b85b4c85ecfc76750002157388bce2e0] A person who seizes an item that is a prohibited item by virtue of section 85AA(3)(ea) (article used in commission of offence or to cause personal injury or damage to property) under subsection (1) must—
+(6A)[^c-b85b4c85ecfc76750002157388bce2e0] A person who seizes an item that is a prohibited item by virtue of section 85AA(3)(ea) (article used in commission of offence or to cause personal injury or damage to property) under subsection (1) must—
 
 - (a) deliver the item to a police constable as soon as reasonably practicable,
 - (b) return the item to its owner,
@@ -74,14 +74,14 @@ In deciding what to do with an item under this subsection, the person who seized
 
 must deliver it to a police constable as soon as reasonably practicable.
 
-(9) Subsection (8)(c) is subject to subsections (3), (4) and (5)[^key-e666c4d1e07e0834ee0b3f92bb198ee4] and regulations made under subsection (7).
+(9) Subsection (8)(c) is subject to subsections (3), (4) and (5)[^c-e666c4d1e07e0834ee0b3f92bb198ee4] and regulations made under subsection (7).
 
 (10) In subsections (3) to (8), references to alcohol, a controlled drug, a stolen article, an article to which section 139 of the Criminal Justice Act 1988 applies and an offensive weapon include references to anything which a person has reasonable grounds for suspecting is alcohol, a controlled drug, a stolen article, an article to which section 139 of the Criminal Justice Act 1988 applies or an offensive weapon.
 
 ## Annotations
 
-[^key-b10e5e710edc8add5afaa0653ead6b05]: Textual amendment: Ss. 85AA-85AD inserted (1.9.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 244(1)](https://www.legislation.gov.uk/ukpga/2009/22/section/244/1), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (as amended (26.7.2010) by [S.I. 2010/1891](https://www.legislation.gov.uk/uksi/2010/1891), art. 2(2) (with art. 3))
+[^c-b10e5e710edc8add5afaa0653ead6b05]: Textual amendment: Ss. 85AA-85AD inserted (1.9.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 244(1)](https://www.legislation.gov.uk/ukpga/2009/22/section/244/1), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (as amended (26.7.2010) by [S.I. 2010/1891](https://www.legislation.gov.uk/uksi/2010/1891), art. 2(2) (with art. 3))
 
-[^key-b85b4c85ecfc76750002157388bce2e0]: Textual amendment: Ss. 85AC(6A)-(6E) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2011/21/section/3/4/a), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-b85b4c85ecfc76750002157388bce2e0]: Textual amendment: Ss. 85AC(6A)-(6E) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2011/21/section/3/4/a), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-e666c4d1e07e0834ee0b3f92bb198ee4]: Textual amendment: Words in s. 85AC(9) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/3/4/b), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-e666c4d1e07e0834ee0b3f92bb198ee4]: Textual amendment: Words in s. 85AC(9) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/3/4/b), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

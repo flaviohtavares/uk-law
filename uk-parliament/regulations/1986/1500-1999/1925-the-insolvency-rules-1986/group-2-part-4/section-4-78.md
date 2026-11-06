@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.78. Cost of proving[^key-f7ddae2cdfa2e9d48b3f14c228a45948]
+## 4.78. Cost of proving[^c-f7ddae2cdfa2e9d48b3f14c228a45948]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7ddae2cdfa2e9d48b3f14c228a45948]: Commencement: [Rule 4.78](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.78) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f7ddae2cdfa2e9d48b3f14c228a45948]: Commencement: [Rule 4.78](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.78) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

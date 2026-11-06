@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Alignment of definition of “tobacco product” in old legislation[^key-1dd18a61cd70ab686a4f00e11f39a97f]
+## 138. Alignment of definition of “tobacco product” in old legislation[^c-1dd18a61cd70ab686a4f00e11f39a97f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In section 1 of the Tobacco Advertising and Promotion Act 2002 (interpretation),
 
 ## Annotations
 
-[^key-1dd18a61cd70ab686a4f00e11f39a97f]: Commencement: S. 138 in force at Royal Assent, see [s. 176(2)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/a)
+[^c-1dd18a61cd70ab686a4f00e11f39a97f]: Commencement: S. 138 in force at Royal Assent, see [s. 176(2)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/a)

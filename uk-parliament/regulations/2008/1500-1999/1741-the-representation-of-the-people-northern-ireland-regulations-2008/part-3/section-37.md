@@ -31,8 +31,8 @@ summary: ''
 
 (3) The list must be made available for inspection at the registration officer’s office.
 
-(4)[^key-3f234f8d90ede5e3a6a4326050b007c2] This regulation does not apply to any review where the subject of the review has an anonymous entry.
+(4)[^c-3f234f8d90ede5e3a6a4326050b007c2] This regulation does not apply to any review where the subject of the review has an anonymous entry.
 
 ## Annotations
 
-[^key-3f234f8d90ede5e3a6a4326050b007c2]: Textual amendment: [Reg. 37(4)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/37/4) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2014/1808/regulation/9)
+[^c-3f234f8d90ede5e3a6a4326050b007c2]: Textual amendment: [Reg. 37(4)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/37/4) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2014/1808/regulation/9)

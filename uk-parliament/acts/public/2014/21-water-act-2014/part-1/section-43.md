@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Application for retail exit[^key-83b77c6331c9082fc360f9a553082f1b]
+## 43. Application for retail exit[^c-83b77c6331c9082fc360f9a553082f1b]
 
 *Extent: E+W*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83b77c6331c9082fc360f9a553082f1b]: Commencement: S. 43 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/ii) (with art. 5)
+[^c-83b77c6331c9082fc360f9a553082f1b]: Commencement: S. 43 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/ii) (with art. 5)

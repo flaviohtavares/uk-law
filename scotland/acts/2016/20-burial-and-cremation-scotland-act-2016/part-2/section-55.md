@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Duties of cremation authority where ashes returned[^key-044cc446c9448459b77e9b07a7086f95]
+## 55. Duties of cremation authority where ashes returned[^c-044cc446c9448459b77e9b07a7086f95]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-044cc446c9448459b77e9b07a7086f95]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2016/20/section/55) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 5](https://www.legislation.gov.uk/ssi/2018/380/regulation/5), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-044cc446c9448459b77e9b07a7086f95]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2016/20/section/55) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 5](https://www.legislation.gov.uk/ssi/2018/380/regulation/5), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

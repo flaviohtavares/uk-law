@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Provision of other services to Secretary of State[^key-3810a527c74b2b176eb7dbf8836acbac]
+## 37. Provision of other services to Secretary of State[^c-3810a527c74b2b176eb7dbf8836acbac]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3810a527c74b2b176eb7dbf8836acbac]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2014/20/section/37) in force at 14.7.2014 by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/1751/article/3/c)
+[^c-3810a527c74b2b176eb7dbf8836acbac]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2014/20/section/37) in force at 14.7.2014 by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/1751/article/3/c)

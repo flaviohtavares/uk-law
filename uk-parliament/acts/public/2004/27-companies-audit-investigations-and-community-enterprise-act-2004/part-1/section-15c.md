@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15C. Restrictions on disclosure of information obtained under compulsory powers[^key-ff2115efd122a2f622885317cf169a4b]
+## 15C. Restrictions on disclosure of information obtained under compulsory powers[^c-ff2115efd122a2f622885317cf169a4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,10 +41,10 @@ summary: ''
   - (i) in England and Wales or Scotland, to imprisonment for a term not exceeding twelve months or to a fine not exceeding the statutory maximum (or both);
   - (ii) in Northern Ireland, to imprisonment for a term not exceeding six months, or to a fine not exceeding the statutory maximum (or both).
 
-(6) In subsection (5)(b)(i) as it applies in relation to England and Wales the reference to twelve months is to be read as a reference to the general limit in a magistrates’ court (or to six months in the case of an offence committed before 2 May 2022).[^key-21dd97b11003b6cf96d75227ae087ea1]
+(6) In subsection (5)(b)(i) as it applies in relation to England and Wales the reference to twelve months is to be read as a reference to the general limit in a magistrates’ court (or to six months in the case of an offence committed before 2 May 2022).[^c-21dd97b11003b6cf96d75227ae087ea1]
 
 ## Annotations
 
-[^key-ff2115efd122a2f622885317cf169a4b]: Textual amendment: Ss. 15-15E substituted for s. 15 (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 232(2)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/232/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-ff2115efd122a2f622885317cf169a4b]: Textual amendment: Ss. 15-15E substituted for s. 15 (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 232(2)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/232/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-21dd97b11003b6cf96d75227ae087ea1]: Textual amendment: Words in [s. 15C(6)](https://www.legislation.gov.uk/ukpga/2004/27/section/15C/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/12/3)
+[^c-21dd97b11003b6cf96d75227ae087ea1]: Textual amendment: Words in [s. 15C(6)](https://www.legislation.gov.uk/ukpga/2004/27/section/15C/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/12/3)

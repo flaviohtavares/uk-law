@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Annex to Regulation [(EC) No 2150/2005](https://www.legislation.gov.uk/eur/2005/2150)[^key-8a51f35ed30b3563d07de89c1f3875c2]
+## 95. Annex to Regulation [(EC) No 2150/2005](https://www.legislation.gov.uk/eur/2005/2150)[^c-8a51f35ed30b3563d07de89c1f3875c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the Annex (list of elements required for the annual report on the application
 
 ## Annotations
 
-[^key-8a51f35ed30b3563d07de89c1f3875c2]: Commencement: Reg. 95 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-8a51f35ed30b3563d07de89c1f3875c2]: Commencement: Reg. 95 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

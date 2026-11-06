@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Staffing of children’s homes[^key-afec3787c1bf6c64e473096629bad0e1]
+## 24. Staffing of children’s homes[^c-afec3787c1bf6c64e473096629bad0e1]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ a sufficient number of suitably qualified, competent and experienced persons wor
 
 ## Annotations
 
-[^key-afec3787c1bf6c64e473096629bad0e1]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2005/176/regulation/24) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-afec3787c1bf6c64e473096629bad0e1]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2005/176/regulation/24) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

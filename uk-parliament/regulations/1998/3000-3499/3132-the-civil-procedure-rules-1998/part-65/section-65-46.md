@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65.46. Application for warrant of arrest under section 44(2) of the 2009 Act or section 10 of the 2014 Act[^key-c39a8680db089b17b6fa9bcc62f4e999][^key-fe983083cb3d124dd305ab0b59611da3][^key-64c59ca88013a3cb3100342093f3bee5]
+## 65.46. Application for warrant of arrest under section 44(2) of the 2009 Act or section 10 of the 2014 Act[^c-c39a8680db089b17b6fa9bcc62f4e999][^c-fe983083cb3d124dd305ab0b59611da3][^c-64c59ca88013a3cb3100342093f3bee5]
 
 *Extent: E+W*
 
-(1) An application for a warrant of arrest under section 44(2) of the 2009 Act or section 10 of the[^key-bf7912db1868394df7583eb47a74318a] 2014 Act must be made in accordance with Part 23 and may be made without notice.
+(1) An application for a warrant of arrest under section 44(2) of the 2009 Act or section 10 of the[^c-bf7912db1868394df7583eb47a74318a] 2014 Act must be made in accordance with Part 23 and may be made without notice.
 
-(2) An applicant for a warrant of arrest under section 44(2) of the 2009 Act or section 10 of the[^key-236b1c8e38d0f66b3c2cbdfbfe9bb188] 2014 Act must—
+(2) An applicant for a warrant of arrest under section 44(2) of the 2009 Act or section 10 of the[^c-236b1c8e38d0f66b3c2cbdfbfe9bb188] 2014 Act must—
 
 - (a) file an affidavit setting out grounds for the application with the application notice; or
 - (b) give oral evidence of the grounds for the application at the hearing.
@@ -31,12 +31,12 @@ summary: ''
 
 ## Annotations
 
-[^key-c39a8680db089b17b6fa9bcc62f4e999]: Textual amendment: Pt. 65 Section 8 inserted (31.1.2011) by [The Civil Procedure (Amendment No.2) Rules 2010 (S.I. 2010/1953)](https://www.legislation.gov.uk/uksi/2010/1953), [rule 1(3)](https://www.legislation.gov.uk/uksi/2010/1953/rule/1/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/1953/schedule/3); [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
+[^c-c39a8680db089b17b6fa9bcc62f4e999]: Textual amendment: Pt. 65 Section 8 inserted (31.1.2011) by [The Civil Procedure (Amendment No.2) Rules 2010 (S.I. 2010/1953)](https://www.legislation.gov.uk/uksi/2010/1953), [rule 1(3)](https://www.legislation.gov.uk/uksi/2010/1953/rule/1/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/1953/schedule/3); [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
 
-[^key-fe983083cb3d124dd305ab0b59611da3]: Textual amendment: Pt. 65 inserted (30.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1306/schedule/2) (with [rule 20(2)(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/20/2/a))
+[^c-fe983083cb3d124dd305ab0b59611da3]: Textual amendment: Pt. 65 inserted (30.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1306/schedule/2) (with [rule 20(2)(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/20/2/a))
 
-[^key-64c59ca88013a3cb3100342093f3bee5]: Textual amendment: Words in rule 65.46 heading inserted (1.10.2014) by [The Civil Procedure (Amendment No. 6) Rules 2014 (S.I. 2014/2044)](https://www.legislation.gov.uk/uksi/2014/2044), [rules 2](https://www.legislation.gov.uk/uksi/2014/2044/article/2), [11(g)](https://www.legislation.gov.uk/uksi/2014/2044/rule/11/g)
+[^c-64c59ca88013a3cb3100342093f3bee5]: Textual amendment: Words in rule 65.46 heading inserted (1.10.2014) by [The Civil Procedure (Amendment No. 6) Rules 2014 (S.I. 2014/2044)](https://www.legislation.gov.uk/uksi/2014/2044), [rules 2](https://www.legislation.gov.uk/uksi/2014/2044/article/2), [11(g)](https://www.legislation.gov.uk/uksi/2014/2044/rule/11/g)
 
-[^key-bf7912db1868394df7583eb47a74318a]: Textual amendment: Words in rule 65.46(1) inserted (1.10.2014) by [The Civil Procedure (Amendment No. 6) Rules 2014 (S.I. 2014/2044)](https://www.legislation.gov.uk/uksi/2014/2044), [rules 2](https://www.legislation.gov.uk/uksi/2014/2044/article/2), [11(g)](https://www.legislation.gov.uk/uksi/2014/2044/rule/11/g)
+[^c-bf7912db1868394df7583eb47a74318a]: Textual amendment: Words in rule 65.46(1) inserted (1.10.2014) by [The Civil Procedure (Amendment No. 6) Rules 2014 (S.I. 2014/2044)](https://www.legislation.gov.uk/uksi/2014/2044), [rules 2](https://www.legislation.gov.uk/uksi/2014/2044/article/2), [11(g)](https://www.legislation.gov.uk/uksi/2014/2044/rule/11/g)
 
-[^key-236b1c8e38d0f66b3c2cbdfbfe9bb188]: Textual amendment: Words in rule 65.46(2) inserted (1.10.2014) by [The Civil Procedure (Amendment No. 6) Rules 2014 (S.I. 2014/2044)](https://www.legislation.gov.uk/uksi/2014/2044), [rules 2](https://www.legislation.gov.uk/uksi/2014/2044/article/2), [11(g)](https://www.legislation.gov.uk/uksi/2014/2044/rule/11/g)
+[^c-236b1c8e38d0f66b3c2cbdfbfe9bb188]: Textual amendment: Words in rule 65.46(2) inserted (1.10.2014) by [The Civil Procedure (Amendment No. 6) Rules 2014 (S.I. 2014/2044)](https://www.legislation.gov.uk/uksi/2014/2044), [rules 2](https://www.legislation.gov.uk/uksi/2014/2044/article/2), [11(g)](https://www.legislation.gov.uk/uksi/2014/2044/rule/11/g)

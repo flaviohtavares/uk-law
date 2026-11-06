@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Contents of application and affidavit in support[^key-fd0f5e3ba44c60239f65183d5ab137bd]
+## 6. Contents of application and affidavit in support[^c-fd0f5e3ba44c60239f65183d5ab137bd]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd0f5e3ba44c60239f65183d5ab137bd]: Commencement: Rule 6 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-fd0f5e3ba44c60239f65183d5ab137bd]: Commencement: Rule 6 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00009]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 124A was inserted by the Companies Act [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40), section 60(3) and amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), article 305, and the Companies (Audit, Investigations and Community Enterprise) Act [2004 c. 27](https://www.legislation.gov.uk/ukpga/2004/27), section 25(1), Schedule 2, paragraph 27.

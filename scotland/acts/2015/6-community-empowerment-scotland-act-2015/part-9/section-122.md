@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Power to remove unauthorised buildings from allotment sites[^key-39a5aa59da384218e34615847aec311d]
+## 122. Power to remove unauthorised buildings from allotment sites[^c-39a5aa59da384218e34615847aec311d]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39a5aa59da384218e34615847aec311d]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2015/6/section/122) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-39a5aa59da384218e34615847aec311d]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2015/6/section/122) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

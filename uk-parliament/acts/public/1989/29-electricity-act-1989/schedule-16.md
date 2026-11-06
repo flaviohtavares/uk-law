@@ -38,13 +38,13 @@ Section 112(1).
 - (viii) the [^c4125081]Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951;
 - (ix) the [^c4125091]Landlord and Tenant Act 1954;
 - (x) the [^c4125101]Opencast Coal Act 1958;
-- (xi)[^key-35e5f3071395fdf720e6ce21b6ac48ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (xi)[^c-35e5f3071395fdf720e6ce21b6ac48ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (xii) section 17(10) of the [^c4125121]Public Health Act 1961;
 - (xiii) the [^c4125131]Pipe-lines Act 1962;
 - (xiv) Schedule 3 to the [^c4125141]Harbours Act 1964;
 - (xv) Schedule 6 to the [^c4125151]Gas Act 1965;
 - (xvi)[^c4125161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (xvii)[^key-edcee81b20c4c9c5bc26de5a47b76a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (xvii)[^c-edcee81b20c4c9c5bc26de5a47b76a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (xviii) section 50 of the [^c4125181]Agriculture Act 1967;
 - (xix) section 38 of the [^c4125191]Countryside (Scotland) Act 1967;
 - (xx) paragraph 6 of Schedule 2 to the [^c4125201]Countryside Act 1968;
@@ -67,19 +67,19 @@ Section 112(1).
 - (xxxvii) section 120 of the [^c4125401]Civic Government (Scotland) Act 1982;
 - (xxxviii) section 2(2)(c) of the [^c4125411]Cycle Tracks Act 1984;
 - (xxxix) the [^c4125421]Building Act 1984;
-- (xl)[^key-48636cd5695aa8c95a6914586f8179d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (xl)[^c-48636cd5695aa8c95a6914586f8179d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (xli) paragraph 11 of Schedule 8 to the [^c4125441]Housing (Scotland) Act 1987.
 - (xlii)[^c4125451] section 9 of the Enterprise and New Towns (Scotland) Act 1990.
 
 (2) References in the [^c4125461]Landlord and Tenant Act 1927 to a statutory company shall be construed as including references to the holder of a licence under section 6(1) of this Act.
 
-(3)[^key-4f067e574f7527f2a59d75a5a7af95d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4f067e574f7527f2a59d75a5a7af95d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The references in sections 73(11)(c) and 74(11)(b) of the [^c4125481]Highways Act 1980 to electricity undertakers shall be construed as references to the holder of a licence under section 6(1)(a) of this Act.
 
 (5)[^c4125051] The holder of a licence under section 6(1) of this Act shall be deemed to be an excepted undertaker for the purposes of section 6 of the [^c4125501]Water Act 1981.
 
-(6) Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code)[^key-baa105fdb1eae2ee9de52820788538e3] (undertakers’ works) shall apply to a licence holder for the purposes of any works carried out by him.
+(6) Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code)[^c-baa105fdb1eae2ee9de52820788538e3] (undertakers’ works) shall apply to a licence holder for the purposes of any works carried out by him.
 
 (7) The reference in section 82(4) of the [^c4125521]Building Act 1984 (provisions with respect to demolition orders) to a person authorised by an enactment to carry on an undertaking for the supply of electricity shall be construed as a reference to a licence holder.
 
@@ -128,7 +128,7 @@ to electricity undertakers shall be construed as references to licence holders e
 
 (9) It is immaterial for the purposes of this paragraph whether any power conferred by, or by any provision of, Schedule 3 or 4 to this Act on the holder of a licence under section 6(1)(a) or (2) of this Act is qualified by restrictions, exceptions or conditions included in the licence.
 
-**3.** (1)[^key-0d03eb031d2076b95a2cba254ebfa80d] In the following enactments, namely—
+**3.** (1)[^c-0d03eb031d2076b95a2cba254ebfa80d] In the following enactments, namely—
 
 - (a)[^c4126881] the [^c4126891]Water Act 1948;
 - (b) section 39 of the [^c4126901]Opencast Coal Act 1958 except in its application to Scotland;
@@ -158,7 +158,7 @@ to electricity undertakers shall be construed as references to licence holders e
 
 *Extent: E+W+S*
 
-**4.**[^key-d6a7a68499c5c0fcaff8a56def5b7168] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d6a7a68499c5c0fcaff8a56def5b7168] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Water Act 1945 (c.42)
 
@@ -170,7 +170,7 @@ to electricity undertakers shall be construed as references to licence holders e
 
 *Extent: E+W+S*
 
-**6.**[^key-27c7e878b5d88f3f8731625ff4aa08a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-27c7e878b5d88f3f8731625ff4aa08a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Public Utilities Street Works Act 1950 (c.39)
 
@@ -236,7 +236,7 @@ to electricity undertakers shall be construed as references to licence holders e
 
 ### The Nuclear Installations Act 1965 (c.57)
 
-**11.**[^key-a493c716795ad35b2d8d2fc81f2bce05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-a493c716795ad35b2d8d2fc81f2bce05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Building Control Act 1966 (c.27)
 
@@ -284,7 +284,7 @@ to electricity undertakers shall be construed as references to licence holders e
 
 *Extent: E+W+S*
 
-**16.**[^key-153b84cb6fb0708a564080fad34e7292] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-153b84cb6fb0708a564080fad34e7292] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Consumer Credit Act 1974 (c. 39)
 
@@ -292,7 +292,7 @@ to electricity undertakers shall be construed as references to licence holders e
 
 **17.** (1) The Consumer Credit Act 1974 shall be amended as follows.
 
-(2)[^key-64a50f63856f43432f2e1c7aa7f72d71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-64a50f63856f43432f2e1c7aa7f72d71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 189, for the words “the Electric Lighting Act 1882” there shall be substituted the words “the Electricity Act 1989”.
 
@@ -300,15 +300,15 @@ to electricity undertakers shall be construed as references to licence holders e
 
 *Extent: E+W+S*
 
-**18.** (1)[^key-0c0f0ccc705b7fa4ba9a3cd142110c89] Section 21 of the Control of Pollution Act 1974 (power of disposal authority to produce and dispose of energy from waste) shall be amended as follows. *(affected by repeal, see note)*[^key-0c0f0ccc705b7fa4ba9a3cd142110c89]
+**18.** (1)[^c-0c0f0ccc705b7fa4ba9a3cd142110c89] Section 21 of the Control of Pollution Act 1974 (power of disposal authority to produce and dispose of energy from waste) shall be amended as follows. *(affected by repeal, see note)*[^c-0c0f0ccc705b7fa4ba9a3cd142110c89]
 
-(2) In subsection (1), for the words “subsections (2) and (3)” there shall be substituted the words “subsection (2)” and after the words “use, sell or otherwise dispose of any heat” there shall be inserted the words “or electricity”. *(affected by repeal, see note)*[^key-0c0f0ccc705b7fa4ba9a3cd142110c89]
+(2) In subsection (1), for the words “subsections (2) and (3)” there shall be substituted the words “subsection (2)” and after the words “use, sell or otherwise dispose of any heat” there shall be inserted the words “or electricity”. *(affected by repeal, see note)*[^c-0c0f0ccc705b7fa4ba9a3cd142110c89]
 
-(3) For subsections (2) and (3) there shall be substituted the following subsection— *(affected by repeal, see note)*[^key-0c0f0ccc705b7fa4ba9a3cd142110c89]
+(3) For subsections (2) and (3) there shall be substituted the following subsection— *(affected by repeal, see note)*[^c-0c0f0ccc705b7fa4ba9a3cd142110c89]
 
-> (2) Nothing in subsection (1) of this section shall be construed as exempting a disposal authority from the requirements of Part I of the Electricity Act 1989. *(affected by repeal, see note)*[^key-0c0f0ccc705b7fa4ba9a3cd142110c89]
+> (2) Nothing in subsection (1) of this section shall be construed as exempting a disposal authority from the requirements of Part I of the Electricity Act 1989. *(affected by repeal, see note)*[^c-0c0f0ccc705b7fa4ba9a3cd142110c89]
 
-(4) In subsection (6), the words “(except the restrictions imposed by subsections (2) and (3))” shall cease to have effect. *(affected by repeal, see note)*[^key-0c0f0ccc705b7fa4ba9a3cd142110c89]
+(4) In subsection (6), the words “(except the restrictions imposed by subsections (2) and (3))” shall cease to have effect. *(affected by repeal, see note)*[^c-0c0f0ccc705b7fa4ba9a3cd142110c89]
 
 ### The Restrictive Trade Practices Act 1976 (c. 34)
 
@@ -348,25 +348,25 @@ to electricity undertakers shall be construed as references to licence holders e
 
 *Extent: E+W+S*
 
-**22.**[^key-4aaf4ddf6d5922e064c1a532a4ed082f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-4aaf4ddf6d5922e064c1a532a4ed082f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Land Registration (Scotland) Act 1979 (c. 33)
 
 *Extent: E+W+S*
 
-**23.**[^key-61798db992cb292a9e68b27e37cedc94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-61798db992cb292a9e68b27e37cedc94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Estate Agents Act 1979 (c. 38)
 
 *Extent: E+W+S*
 
-**24.**[^key-06c4246f294639eca3550dd69b8d72fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-06c4246f294639eca3550dd69b8d72fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Competition Act 1980 (c. 21)
 
 *Extent: E+W+S*
 
-**25.**[^key-06c4246f294639eca3550dd69b8d72fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-06c4246f294639eca3550dd69b8d72fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Water (Scotland) Act 1980 (c. 45)
 
@@ -444,7 +444,7 @@ to electricity undertakers shall be construed as references to licence holders e
 
 *Extent: E+W+S*
 
-**32.**[^key-b86a2a6cb5fa3744bac995201aba6892] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-b86a2a6cb5fa3744bac995201aba6892] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Airports Act 1986 (c. 31)
 
@@ -478,7 +478,7 @@ to electricity undertakers shall be construed as references to licence holders e
 
 *Extent: E+W+S*
 
-**36.**[^key-79bdf8775e885edbcad2dabe8adfb397] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-79bdf8775e885edbcad2dabe8adfb397] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Water Act 1989 (c. 15)
 
@@ -522,7 +522,7 @@ to electricity undertakers shall be construed as references to licence holders e
 
 [^c4125101]: Marginal citation: [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69).
 
-[^key-35e5f3071395fdf720e6ce21b6ac48ac]: Textual amendment: Sch. 16 para. 1(1)(xi) repealed (S.) (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/5) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)
+[^c-35e5f3071395fdf720e6ce21b6ac48ac]: Textual amendment: Sch. 16 para. 1(1)(xi) repealed (S.) (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/5) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)
 
 [^c4125121]: Marginal citation: [1961 c. 64](https://www.legislation.gov.uk/ukpga/1961/64).
 
@@ -534,7 +534,7 @@ to electricity undertakers shall be construed as references to licence holders e
 
 [^c4125161]: Textual amendment: Sch. 16 para. 1(1)(xvi) repealed by [Enterprise and New Towns (Scotland) Act 1990 (c. 35, SIF 64)](https://www.legislation.gov.uk/ukpga/1990/35), [s. 38(2)](https://www.legislation.gov.uk/ukpga/1990/35/section/38/2), [Sch. 5 Pt. III](https://www.legislation.gov.uk/ukpga/1990/35/schedule/5/part/III)
 
-[^key-edcee81b20c4c9c5bc26de5a47b76a75]: Textual amendment: [Sch. 16 para. 1(1)(xvii)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/16/paragraph/1/1/xvii) repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-edcee81b20c4c9c5bc26de5a47b76a75]: Textual amendment: [Sch. 16 para. 1(1)(xvii)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/16/paragraph/1/1/xvii) repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
 [^c4125181]: Marginal citation: [1967 c. 22](https://www.legislation.gov.uk/ukpga/1967/22).
 
@@ -582,7 +582,7 @@ to electricity undertakers shall be construed as references to licence holders e
 
 [^c4125421]: Marginal citation: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55).
 
-[^key-48636cd5695aa8c95a6914586f8179d5]: Textual amendment: Sch. 16 para. 1(1)(xl) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-48636cd5695aa8c95a6914586f8179d5]: Textual amendment: Sch. 16 para. 1(1)(xl) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
 [^c4125441]: Marginal citation: [1987 c. 27](https://www.legislation.gov.uk/ukpga/1987/27).
 
@@ -590,13 +590,13 @@ to electricity undertakers shall be construed as references to licence holders e
 
 [^c4125461]: Marginal citation: [1927 c. 36](https://www.legislation.gov.uk/ukpga/1927/36).
 
-[^key-4f067e574f7527f2a59d75a5a7af95d0]: Textual amendment: Sch. 16 para. 1(3) repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
+[^c-4f067e574f7527f2a59d75a5a7af95d0]: Textual amendment: Sch. 16 para. 1(3) repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
 
 [^c4125481]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
 [^c4125501]: Marginal citation: [1981 c. 12](https://www.legislation.gov.uk/ukpga/1981/12).
 
-[^key-baa105fdb1eae2ee9de52820788538e3]: Textual amendment: Words in Sch. 16 para. 1(6) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/28); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
+[^c-baa105fdb1eae2ee9de52820788538e3]: Textual amendment: Words in Sch. 16 para. 1(6) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/28); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
 
 [^c4125521]: Marginal citation: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55).
 
@@ -644,7 +644,7 @@ to electricity undertakers shall be construed as references to licence holders e
 
 [^c4126221]: Textual amendment: Words in Sch. 16 para. 2(8) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
 
-[^key-0d03eb031d2076b95a2cba254ebfa80d]: Modification: Sch. 16 para. 3(1): transfer of functions (5.3.2009) by [The Secretary of State for Energy and Climate Change Order 2009 (S.I. 2009/229)](https://www.legislation.gov.uk/uksi/2009/229), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/229/article/1/2), [4](https://www.legislation.gov.uk/uksi/2009/229/article/4), [Sch. 1(c)](https://www.legislation.gov.uk/uksi/2009/229/schedule/1/c)
+[^c-0d03eb031d2076b95a2cba254ebfa80d]: Modification: Sch. 16 para. 3(1): transfer of functions (5.3.2009) by [The Secretary of State for Energy and Climate Change Order 2009 (S.I. 2009/229)](https://www.legislation.gov.uk/uksi/2009/229), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/229/article/1/2), [4](https://www.legislation.gov.uk/uksi/2009/229/article/4), [Sch. 1(c)](https://www.legislation.gov.uk/uksi/2009/229/schedule/1/c)
 
 [^c4126881]: Textual amendment: Sch. 16 para. 3(1)(a) repealed (E.W.) (01.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1991/60/section/3/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1991/60/schedule/3/part/I).
 
@@ -680,38 +680,38 @@ to electricity undertakers shall be construed as references to licence holders e
 
 [^c4127041]: Textual amendment: Sch. 16 para. 3(2)(i) inserted by [Enterprise and New Towns (Scotland) Act 1990 (c. 35, SIF 64)](https://www.legislation.gov.uk/ukpga/1990/35), [s. 38(1)](https://www.legislation.gov.uk/ukpga/1990/35/section/38/1), [Sch. 4 para. 17(b)](https://www.legislation.gov.uk/ukpga/1990/35/schedule/4/paragraph/17/b)
 
-[^key-d6a7a68499c5c0fcaff8a56def5b7168]: Textual amendment: Sch. 16 para. 4 repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
+[^c-d6a7a68499c5c0fcaff8a56def5b7168]: Textual amendment: Sch. 16 para. 4 repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
 
-[^key-27c7e878b5d88f3f8731625ff4aa08a3]: Textual amendment: Sch. 16 para. 6 repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
+[^c-27c7e878b5d88f3f8731625ff4aa08a3]: Textual amendment: Sch. 16 para. 6 repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
 
 [^c4127051]: Textual amendment: Sch. 16 para. 7 repealed (1.1.1993) by [New Roads and Street Works Act 1991 (c. 22, SIF 59)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/2), [Sch.9](https://www.legislation.gov.uk/ukpga/1991/22/schedule/9); (E.W.) [S.I. 1992/2984](https://www.legislation.gov.uk/uksi/1992/2984), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2984/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/2984/schedule/2) and (S.) [S.I. 1992/2990](https://www.legislation.gov.uk/uksi/1992/2990), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2990/article/2/2), [Sch.2](https://www.legislation.gov.uk/uksi/1992/2990/schedule/2).
 
 [^c4127061]: Textual amendment: Sch. 16 para. 10 repealed (E.W.) (01.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1991/60/section/3/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 3 Pt.I](https://www.legislation.gov.uk/ukpga/1991/60/schedule/3/part/I).
 
-[^key-a493c716795ad35b2d8d2fc81f2bce05]: Textual amendment: Sch. 16 para. 11 repealed (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/30); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-a493c716795ad35b2d8d2fc81f2bce05]: Textual amendment: Sch. 16 para. 11 repealed (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/30); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
 [^c4127071]: Textual amendment: Sch. 16 para. 15 repealed (26.3.2001) by [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26), [s. 127(6)](https://www.legislation.gov.uk/ukpga/2000/26/section/127/6), [Sch. 9](https://www.legislation.gov.uk/ukpga/2000/26/schedule/9); [S.I. 2001/1148](https://www.legislation.gov.uk/uksi/2001/1148), [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/1148/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1148/schedule) (subject to [arts. 3-42](https://www.legislation.gov.uk/uksi/2001/1148/article/3))
 
-[^key-153b84cb6fb0708a564080fad34e7292]: Textual amendment: Sch. 16 para. 16 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-153b84cb6fb0708a564080fad34e7292]: Textual amendment: Sch. 16 para. 16 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
-[^key-64a50f63856f43432f2e1c7aa7f72d71]: Textual amendment: Sch. 16 para. 17(2) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-64a50f63856f43432f2e1c7aa7f72d71]: Textual amendment: Sch. 16 para. 17(2) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
-[^key-0c0f0ccc705b7fa4ba9a3cd142110c89]: Textual amendment: Sch. 16 para. 18 repealed (1.4.2015 for S.) by [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3), [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/II); [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(2)(d)](https://www.legislation.gov.uk/ssi/2015/72/article/2/2/d)
+[^c-0c0f0ccc705b7fa4ba9a3cd142110c89]: Textual amendment: Sch. 16 para. 18 repealed (1.4.2015 for S.) by [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3), [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/II); [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(2)(d)](https://www.legislation.gov.uk/ssi/2015/72/article/2/2/d)
 
 [^c4127111]: Textual amendment: Sch. 16 para. 21 repealed (E.W.) (01.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1991/60/section/3/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 3 Pt.I](https://www.legislation.gov.uk/ukpga/1991/60/schedule/3/part/I).
 
-[^key-4aaf4ddf6d5922e064c1a532a4ed082f]: Textual amendment: Sch. 16 para. 22 omitted (25.6.2013) by virtue of [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/18/2), [35(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/3)
+[^c-4aaf4ddf6d5922e064c1a532a4ed082f]: Textual amendment: Sch. 16 para. 22 omitted (25.6.2013) by virtue of [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/18/2), [35(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/3)
 
-[^key-61798db992cb292a9e68b27e37cedc94]: Textual amendment: Sch. 16 para. 23 repealed (S.) (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 31](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/31) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-61798db992cb292a9e68b27e37cedc94]: Textual amendment: Sch. 16 para. 23 repealed (S.) (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 31](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/31) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-06c4246f294639eca3550dd69b8d72fc]: Textual amendment: Sch. 16 paras. 24, 25 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-06c4246f294639eca3550dd69b8d72fc]: Textual amendment: Sch. 16 paras. 24, 25 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
 [^c4127121]: Textual amendment: Sch. 16 para. 27 repealed (1.1.1993) by [New Roads and Street Works Act 1991 (c. 22, SIF 59)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/2), [Sch.9](https://www.legislation.gov.uk/ukpga/1991/22/schedule/9); (E.W.) [S.I. 1992/2984](https://www.legislation.gov.uk/uksi/1992/2984), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2984/article/2/2), [Sch.2](https://www.legislation.gov.uk/uksi/1992/2984/schedule/2) and (S.) [S.I. 1992/2990](https://www.legislation.gov.uk/uksi/1992/2990), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2990/article/2/2), [Sch.2](https://www.legislation.gov.uk/uksi/1992/2990/schedule/2).
 
-[^key-b86a2a6cb5fa3744bac995201aba6892]: Textual amendment: Sch. 16 para. 32 repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-b86a2a6cb5fa3744bac995201aba6892]: Textual amendment: Sch. 16 para. 32 repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
 [^c17612761]: Textual amendment: Sch. 16 para. 35 repealed (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 108](https://www.legislation.gov.uk/ukpga/2000/27/section/108), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/27/schedule/8); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-79bdf8775e885edbcad2dabe8adfb397]: Textual amendment: Sch. 16 para. 36 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-79bdf8775e885edbcad2dabe8adfb397]: Textual amendment: Sch. 16 para. 36 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
 [^c4127141]: Textual amendment: Sch. 16 para. 37 repealed (E.W.) (01.12.1991) by [Water Consolidation (Consequential Provions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1991/60/section/3/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 3 Pt.I](https://www.legislation.gov.uk/ukpga/1991/60/schedule/3/part/I).

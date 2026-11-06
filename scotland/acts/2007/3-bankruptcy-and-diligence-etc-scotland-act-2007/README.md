@@ -32,7 +32,7 @@ Bankruptcy and Diligence etc. (Scotland) Act 2007
 
 [^c2070523]An Act of the Scottish Parliament to amend the law of sequestration and personal insolvency; to amend the law about floating charges; to establish a Scottish Civil Enforcement Commission and replace officers of court with judicial officers; to amend the law of diligence; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 30th November 2006 and received Royal Assent on 15th January 2007[^key-4f8a71337e0b8d28e9af4f6d4445e896][^key-980c047025f55c6ed7b6d9636d9f9479][^key-33bf12908ea0ebe8aaa9489fc538c634][^key-0821c559eb97e61d4007b87685b4815d]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 30th November 2006 and received Royal Assent on 15th January 2007[^c-4f8a71337e0b8d28e9af4f6d4445e896][^c-980c047025f55c6ed7b6d9636d9f9479][^c-33bf12908ea0ebe8aaa9489fc538c634][^c-0821c559eb97e61d4007b87685b4815d]
 
 ## Contents
 
@@ -136,7 +136,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 35 — Certain regulations under the 1985 Act: procedure](part-1/section-35.md)
 - [Section 36 — Minor and consequential amendments of the 1985 Act](part-1/section-36.md)
 
-### Part 2 — Floating charges[^key-a93fea950d3638118c4b0a30ed7fe4e5][^c2011032]
+### Part 2 — Floating charges[^c-a93fea950d3638118c4b0a30ed7fe4e5][^c2011032]
 
 *Extent: S*
 
@@ -161,7 +161,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 48 — Formalities as to documents](part-2/section-48.md)
 - [Section 49 — Industrial and provident societies](part-2/section-49.md)
 
-### Part 3 — Officers of court[^key-b3b941687f8cf054bad6ca201623af1b]
+### Part 3 — Officers of court[^c-b3b941687f8cf054bad6ca201623af1b]
 
 *Extent: S*
 
@@ -169,7 +169,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 50 — Scottish Civil Enforcement Commission](part-3/section-50.md)
 
-#### Advisory Council on Messengers-at-Arms and Sheriff Officers[^key-0de8839ee9b807722236f5e6d0d3a30d]
+#### Advisory Council on Messengers-at-Arms and Sheriff Officers[^c-0de8839ee9b807722236f5e6d0d3a30d]
 
 *Extent: S*
 
@@ -192,14 +192,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 60 — Abolition of offices of messenger-at-arms and sheriff officer](part-3/section-60.md)
 
-#### Regulation of officers of court[^key-906ab8731cd87d46f8b67c4766d24990]
+#### Regulation of officers of court[^c-906ab8731cd87d46f8b67c4766d24990]
 
 *Extent: S*
 
 - [Section 61 — Regulation of officers of court](part-3/section-61.md)
 - [Section 62 — Duty to notify Lord President and sheriff principal of bankruptcy etc.](part-3/section-62.md)
 
-#### Officers of court's professional association[^key-793d967f1cb2c3a6f656867b25d1d65a]
+#### Officers of court's professional association[^c-793d967f1cb2c3a6f656867b25d1d65a]
 
 *Extent: S*
 
@@ -208,13 +208,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 64 — Duty of professional association to forward complaints ...](part-3/section-64.md)
 - [Section 65 — Information from professional association](part-3/section-65.md)
 
-#### Annual fee for officers of court[^key-e746f21fd62fa04215fc218b299d75bd]
+#### Annual fee for officers of court[^c-e746f21fd62fa04215fc218b299d75bd]
 
 *Extent: S*
 
 - [Section 65A — Annual fee](part-3/section-65a.md)
 
-#### Investigation of officers of court[^key-889b274b199e8cc2dce3b01a69f9b9d3]
+#### Investigation of officers of court[^c-889b274b199e8cc2dce3b01a69f9b9d3]
 
 *Extent: S*
 
@@ -547,26 +547,26 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 [^c2070523]: Modification: Act modified (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [art. 3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
 
-[^key-4f8a71337e0b8d28e9af4f6d4445e896]: Modification: [Act](https://www.legislation.gov.uk/asp/2007/3) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+[^c-4f8a71337e0b8d28e9af4f6d4445e896]: Modification: [Act](https://www.legislation.gov.uk/asp/2007/3) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
 
-[^key-980c047025f55c6ed7b6d9636d9f9479]: Modification: [Act](https://www.legislation.gov.uk/asp/2007/3) modified (6.4.2011) by [Financial Markets and Insolvency (Settlement Finality and Financial Collateral Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2993)](https://www.legislation.gov.uk/uksi/2010/2993), [reg. 5](https://www.legislation.gov.uk/uksi/2010/2993/regulation/5)
+[^c-980c047025f55c6ed7b6d9636d9f9479]: Modification: [Act](https://www.legislation.gov.uk/asp/2007/3) modified (6.4.2011) by [Financial Markets and Insolvency (Settlement Finality and Financial Collateral Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2993)](https://www.legislation.gov.uk/uksi/2010/2993), [reg. 5](https://www.legislation.gov.uk/uksi/2010/2993/regulation/5)
 
-[^key-33bf12908ea0ebe8aaa9489fc538c634]: Modification: [Act](https://www.legislation.gov.uk/asp/2007/3) applied (with modifications) (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1125/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-33bf12908ea0ebe8aaa9489fc538c634]: Modification: [Act](https://www.legislation.gov.uk/asp/2007/3) applied (with modifications) (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1125/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0821c559eb97e61d4007b87685b4815d]: Modification: Act applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [21(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
+[^c-0821c559eb97e61d4007b87685b4815d]: Modification: Act applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [21(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
 
-[^key-a93fea950d3638118c4b0a30ed7fe4e5]: Modification: Pt. 2 amendment to earlier affecting provision S.I. 2015/428, Sch. 2 (with application in accordance with art. 1(4) of the amending S.I.) by [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2016/679/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2016/679/article/7/b)
+[^c-a93fea950d3638118c4b0a30ed7fe4e5]: Modification: Pt. 2 amendment to earlier affecting provision S.I. 2015/428, Sch. 2 (with application in accordance with art. 1(4) of the amending S.I.) by [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2016/679/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2016/679/article/7/b)
 
 [^c2011032]: Modification: Pt. 2 applied (prosp.) by [1967 c. 48](https://www.legislation.gov.uk/ukpga/1967/48), [s. 3(1)](https://www.legislation.gov.uk/ukpga/1967/48/section/3/1) (as substituted by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp. 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 49(1)](https://www.legislation.gov.uk/asp/2007/3/section/49/1), [227](https://www.legislation.gov.uk/asp/2007/3/section/227) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)))
 
-[^key-b3b941687f8cf054bad6ca201623af1b]: Textual amendment: Pt. 3 Title substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 10](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/10); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-b3b941687f8cf054bad6ca201623af1b]: Textual amendment: Pt. 3 Title substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 10](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/10); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-0de8839ee9b807722236f5e6d0d3a30d]: Textual amendment: Cross-heading before s. 51 inserted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 11(3)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/11/3); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-0de8839ee9b807722236f5e6d0d3a30d]: Textual amendment: Cross-heading before s. 51 inserted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 11(3)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/11/3); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-906ab8731cd87d46f8b67c4766d24990]: Textual amendment: Words in crossheading before s. 61 substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 13(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/13/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-906ab8731cd87d46f8b67c4766d24990]: Textual amendment: Words in crossheading before s. 61 substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 13(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/13/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-793d967f1cb2c3a6f656867b25d1d65a]: Textual amendment: Words in crossheading preceding s. 63 substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 15(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/15/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-793d967f1cb2c3a6f656867b25d1d65a]: Textual amendment: Words in crossheading preceding s. 63 substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 15(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/15/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-e746f21fd62fa04215fc218b299d75bd]: Textual amendment: S. 65A and preceding cross-heading inserted (1.4.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 19](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/19); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(2)](https://www.legislation.gov.uk/ssi/2011/30/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2011/30/schedule/2)
+[^c-e746f21fd62fa04215fc218b299d75bd]: Textual amendment: S. 65A and preceding cross-heading inserted (1.4.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 19](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/19); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(2)](https://www.legislation.gov.uk/ssi/2011/30/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2011/30/schedule/2)
 
-[^key-889b274b199e8cc2dce3b01a69f9b9d3]: Textual amendment: Words in crossheading preceding s. 66 substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 20(3)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/20/3); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-889b274b199e8cc2dce3b01a69f9b9d3]: Textual amendment: Words in crossheading preceding s. 66 substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 20(3)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/20/3); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^c780205][^key-7104db6d32f87026f5d3ae7372d4c509] This section applies where a Local Commissioner reports that there has been—
+(1)[^c780205][^c-7104db6d32f87026f5d3ae7372d4c509] This section applies where a Local Commissioner reports that there has been—
 
 - (a) maladministration in connection with the exercise of the authority's administrative functions,
 - (b) a failure in a service which it was the function of an authority to provide, or
@@ -36,7 +36,7 @@ summary: ''
 
 he shall make a further report setting out those facts and making recommendations.
 
-(2B)[^key-769abd771a042deceb91eda450d536c3] Where the report relates to maladministration, those recommendations are recommendations with respect to action which, in the Local Commissioner's opinion, the authority concerned should take—
+(2B)[^c-769abd771a042deceb91eda450d536c3] Where the report relates to maladministration, those recommendations are recommendations with respect to action which, in the Local Commissioner's opinion, the authority concerned should take—
 
 - (a) to remedy any injustice sustained by the person affected in consequence of the maladministration, and
 - (b) to prevent injustice being caused in the future in consequence of similar maladministration in connection with the exercise of the authority's administrative functions.
@@ -79,7 +79,7 @@ the Local Commissioner shall arrange for such a statement as is mentioned in sub
 (3)[^c780206] In any case where—
 
 - (a) a report is laid before an authority under subsection (2) or (2C)[^c780207] above, and
-- (b) on consideration of the report, it appears to the authority that a payment should be made to, or some other benefit should be provided for, a person who has suffered injustice in consequence of the maladministration or failure[^key-36543e5001eee12d7bd276a54e42a26d] to which the report relates[^c780208],
+- (b) on consideration of the report, it appears to the authority that a payment should be made to, or some other benefit should be provided for, a person who has suffered injustice in consequence of the maladministration or failure[^c-36543e5001eee12d7bd276a54e42a26d] to which the report relates[^c780208],
 
 the authority may incur such expenditure as appears to them to be appropriate in making such a payment or providing such a benefit.
 
@@ -93,15 +93,15 @@ the authority may incur such expenditure as appears to them to be appropriate in
 
 [^c780205]: Textual amendment: S. 31 subsections (1)–(2H) substituted for subsections (1)(2) by virtue of [Local Government and Housing Act 1989 (c. 42, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 26(1)(2)](https://www.legislation.gov.uk/ukpga/1989/42/section/26/1/2)
 
-[^key-7104db6d32f87026f5d3ae7372d4c509]: Textual amendment: S. 31(1) substituted (1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 176(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/176/2), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-7104db6d32f87026f5d3ae7372d4c509]: Textual amendment: S. 31(1) substituted (1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 176(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/176/2), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-769abd771a042deceb91eda450d536c3]: Textual amendment: S. 31(2B)(2BA) substituted for s. 31(2B) (1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 176(3)](https://www.legislation.gov.uk/ukpga/2007/28/section/176/3), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-769abd771a042deceb91eda450d536c3]: Textual amendment: S. 31(2B)(2BA) substituted for s. 31(2B) (1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 176(3)](https://www.legislation.gov.uk/ukpga/2007/28/section/176/3), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
 [^c780206]: Textual amendment: S. 31(3) added by [Local Government Act 1978 (c. 39)](https://www.legislation.gov.uk/ukpga/1978/39), [s. 1](https://www.legislation.gov.uk/ukpga/1978/39/section/1)
 
 [^c780207]: Textual amendment: Words substituted by virtue of [Local Government and Housing Act 1989 (c. 42, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(1)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/1), [Sch. 11 para. 39(1)(2)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/39/1/2)
 
-[^key-36543e5001eee12d7bd276a54e42a26d]: Textual amendment: Words in s. 31(3)(b) substituted (1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 176(4)](https://www.legislation.gov.uk/ukpga/2007/28/section/176/4), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-36543e5001eee12d7bd276a54e42a26d]: Textual amendment: Words in s. 31(3)(b) substituted (1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 176(4)](https://www.legislation.gov.uk/ukpga/2007/28/section/176/4), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
 [^c780208]: Textual amendment: Words substituted by [Local Government Act 1988 (c. 9, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1988/9), [s. 29](https://www.legislation.gov.uk/ukpga/1988/9/section/29), [Sch. 3 para. 7(1)(4)(5)](https://www.legislation.gov.uk/ukpga/1988/9/schedule/3/paragraph/7/1/4/5)
 

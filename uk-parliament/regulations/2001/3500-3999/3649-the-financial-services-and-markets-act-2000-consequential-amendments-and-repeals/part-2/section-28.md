@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. References to the Companies Acts in certain provisions to include references to the Financial Services and Markets Act 2000[^key-36219bca086e68021209ebc0a25ab225]
+## 28. References to the Companies Acts in certain provisions to include references to the Financial Services and Markets Act 2000[^c-36219bca086e68021209ebc0a25ab225]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 735B of the 1985 Act (construction of certain references to the Compa
 
 ## Annotations
 
-[^key-36219bca086e68021209ebc0a25ab225]: Commencement: Art. 28 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-36219bca086e68021209ebc0a25ab225]: Commencement: Art. 28 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00032]: Footnote: Inserted by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 127 and amended by the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40), Schedule 16, paragraph 10.

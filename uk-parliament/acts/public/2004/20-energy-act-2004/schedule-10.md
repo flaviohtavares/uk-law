@@ -26,7 +26,7 @@ Section 51
 
 #### Appointment
 
-**1.**[^key-88e4d971c5951304adc26a44daa3d7e3] (1) The Police Authority shall consist of not fewer than seven and not more than thirteen members.
+**1.**[^c-88e4d971c5951304adc26a44daa3d7e3] (1) The Police Authority shall consist of not fewer than seven and not more than thirteen members.
 
 (2) The members of the Police Authority are to be appointed by the Secretary of State.
 
@@ -34,7 +34,7 @@ Section 51
 
 #### Terms of appointment
 
-**2.**[^key-95dee8589ec0d761b8c4535f90021cb1] (1) Subject to what follows, each member of the Police Authority is to hold and vacate office as chairman, or otherwise as a member, in accordance with the terms of his appointment.
+**2.**[^c-95dee8589ec0d761b8c4535f90021cb1] (1) Subject to what follows, each member of the Police Authority is to hold and vacate office as chairman, or otherwise as a member, in accordance with the terms of his appointment.
 
 (2) Each appointment must state the period for which it is made.
 
@@ -46,8 +46,8 @@ Section 51
 
 (6) This sub-paragraph applies to a person if—
 
-- (a) he is an undischarged bankrupt or has had his estate sequestrated without being discharged or a moratorium period under a debt relief order applies in relation to him (under Part 7A of the Insolvency Act 1986)[^key-d26d53f5635aeddb062803ac032ebf4e];
-- (b) he is subject to a bankruptcy restrictions order or an interim bankruptcy restrictions order or a debt relief restrictions order or an interim debt relief restrictions order (under Schedule 4ZB of the Insolvency Act 1986)[^key-0924b8ed928c85286ab6df4304698722];
+- (a) he is an undischarged bankrupt or has had his estate sequestrated without being discharged or a moratorium period under a debt relief order applies in relation to him (under Part 7A of the Insolvency Act 1986)[^c-d26d53f5635aeddb062803ac032ebf4e];
+- (b) he is subject to a bankruptcy restrictions order or an interim bankruptcy restrictions order or a debt relief restrictions order or an interim debt relief restrictions order (under Schedule 4ZB of the Insolvency Act 1986)[^c-0924b8ed928c85286ab6df4304698722];
 - (c) he has made an arrangement with his creditors, or has entered into a trust deed for creditors, or has made a composition contract with his creditors;
 - (d) he has been convicted of an offence;
 - (e) he has been absent, on at least three consecutive occasions and without the consent of the Police Authority, from meetings of that Authority; or
@@ -57,13 +57,13 @@ Section 51
 
 #### Remuneration
 
-**3.**[^key-e94a0b5da7223e3d071097cf74a66da4] The Police Authority may pay to each of its members such remuneration and allowances as the Secretary of State may determine.
+**3.**[^c-e94a0b5da7223e3d071097cf74a66da4] The Police Authority may pay to each of its members such remuneration and allowances as the Secretary of State may determine.
 
 ### Part 2 — Proceedings
 
 #### Police Authority to regulate procedure
 
-**4.**[^key-47f4446e50595dba4e67bcb29b7a75f3] (1) The Police Authority may make such arrangements as it thinks fit for regulating its proceedings.
+**4.**[^c-47f4446e50595dba4e67bcb29b7a75f3] (1) The Police Authority may make such arrangements as it thinks fit for regulating its proceedings.
 
 (2) Those arrangements may include—
 
@@ -75,7 +75,7 @@ Section 51
 
 #### Validity etc.
 
-**5.**[^key-6a981507e1e347da8595009ff92a4b2a] The validity of proceedings of the Police Authority shall not be affected by—
+**5.**[^c-6a981507e1e347da8595009ff92a4b2a] The validity of proceedings of the Police Authority shall not be affected by—
 
 - (a) a failure by the Secretary of State to comply with paragraph 1; or
 - (b) any other defect in the appointment of a member of the Police Authority.
@@ -84,7 +84,7 @@ Section 51
 
 #### Employees of the Police Authority
 
-**6.**[^key-c52d32b8b965245118a944d6b948e52e] (1) The Police Authority may employ such persons as it may determine.
+**6.**[^c-c52d32b8b965245118a944d6b948e52e] (1) The Police Authority may employ such persons as it may determine.
 
 (2) Those persons are to be employed by the Police Authority on such terms and conditions, including terms and conditions as to remuneration, as the Police Authority determines.
 
@@ -99,7 +99,7 @@ as it determines.
 
 #### UKAEA pensions for employees of the Police Authority
 
-**7.**[^key-57b1296c0210d8b634fadf2a04dd7e50] (1) A pension scheme maintained by the UKAEA under paragraph 7(2)(b) of Schedule 1 to the Atomic Energy Authority Act 1954 (c. 32) (“**a UKAEA pension scheme**”) may apply to employees of the Police Authority as it applies to persons to whom it applies apart from this paragraph.
+**7.**[^c-57b1296c0210d8b634fadf2a04dd7e50] (1) A pension scheme maintained by the UKAEA under paragraph 7(2)(b) of Schedule 1 to the Atomic Energy Authority Act 1954 (c. 32) (“**a UKAEA pension scheme**”) may apply to employees of the Police Authority as it applies to persons to whom it applies apart from this paragraph.
 
 (2) The Secretary of State may, by direction, require the UKAEA to make such modifications of a UKAEA pension scheme as the Secretary of State considers appropriate in respect of the participation of persons in such a scheme by virtue of this paragraph.
 
@@ -132,7 +132,7 @@ as it determines.
 
 #### Borrowing by the Police Authority
 
-**8.**[^key-d2e94d7979232f132e41e8e384051956] (1) The Police Authority may borrow money, but only in accordance with this paragraph.
+**8.**[^c-d2e94d7979232f132e41e8e384051956] (1) The Police Authority may borrow money, but only in accordance with this paragraph.
 
 (2) The approval of the Treasury is required for borrowing by the Police Authority.
 
@@ -145,7 +145,7 @@ as it determines.
 - (a) to take the aggregate amount outstanding in respect of the principal of sums it has borrowed over its borrowing limit; or
 - (b) to increase the amount by which the aggregate amount so outstanding exceeds that limit.
 
-(6) The Police Authority’s borrowing limit is £30 million[^key-bbd678072062947abb1af6d0264c76c5].
+(6) The Police Authority’s borrowing limit is £30 million[^c-bbd678072062947abb1af6d0264c76c5].
 
 (7) The Secretary of State may by order vary the Police Authority’s borrowing limit.
 
@@ -155,7 +155,7 @@ as it determines.
 
 #### Guarantees for borrowing by the Police Authority
 
-**9.**[^key-aa1b1624d6f900579a662abe1076cc96] (1) The Secretary of State may guarantee—
+**9.**[^c-aa1b1624d6f900579a662abe1076cc96] (1) The Secretary of State may guarantee—
 
 - (a) the repayment of the principal of any sum borrowed by the Police Authority;
 - (b) the payment of interest on such a sum; and
@@ -189,7 +189,7 @@ as it determines.
 
 #### Grants and loans to the Police Authority
 
-**10.**[^key-0ee1b7de32dcd950407f7ec9200f96f3] (1) The Secretary of State may—
+**10.**[^c-0ee1b7de32dcd950407f7ec9200f96f3] (1) The Secretary of State may—
 
 - (a) make payments by way of grant to the Police Authority; and
 - (b) also make payments to it by way of loan.
@@ -200,7 +200,7 @@ as it determines.
 
 #### Financial duties
 
-**11.**[^key-e1b06e885d293b839deb1770b3c136a1] (1) The Secretary of State may determine the financial duties of the Police Authority.
+**11.**[^c-e1b06e885d293b839deb1770b3c136a1] (1) The Secretary of State may determine the financial duties of the Police Authority.
 
 (2) Before determining any financial duties under this paragraph, the Secretary of State must consult the Police Authority.
 
@@ -218,7 +218,7 @@ as it determines.
 
 #### Accounts and audit
 
-**12.**[^key-d75d0d2d562216a06b754ba43a08b6ea] (1) The Police Authority must—
+**12.**[^c-d75d0d2d562216a06b754ba43a08b6ea] (1) The Police Authority must—
 
 - (a) keep proper accounts and proper accounting records; and
 - (b) prepare, in respect of each of its accounting years, a statement of its accounts.
@@ -265,7 +265,7 @@ as it determines.
 
 #### Receipts and surpluses
 
-**13.**[^key-98383ac16c8d5f70821e3ff9446ab70d] (1) The Secretary of State may give a direction requiring the Police Authority to pay to him an amount equal to—
+**13.**[^c-98383ac16c8d5f70821e3ff9446ab70d] (1) The Secretary of State may give a direction requiring the Police Authority to pay to him an amount equal to—
 
 - (a) the whole or part of a sum which it has received (otherwise than from the Secretary of State); or
 - (b) the whole or part of any surplus which it has for a financial year.
@@ -279,7 +279,7 @@ as it determines.
 
 #### Destination of receipts
 
-**14.**[^key-c8b06bfc9a4f291792e5ba08964bcdf9] The Secretary of State must pay sums received by him under paragraph 9, 10 or 13 into the Consolidated Fund.
+**14.**[^c-c8b06bfc9a4f291792e5ba08964bcdf9] The Secretary of State must pay sums received by him under paragraph 9, 10 or 13 into the Consolidated Fund.
 
 ### Part 5 — Miscellaneous
 
@@ -287,7 +287,7 @@ as it determines.
 
 *Extent: E+W*
 
-**15.**[^key-988588b69193c231654ec32e09541f10] (1) The application of the seal of the Police Authority is to be authenticated by the signature of—
+**15.**[^c-988588b69193c231654ec32e09541f10] (1) The application of the seal of the Police Authority is to be authenticated by the signature of—
 
 - (a) a member of the Police Authority; or
 - (b) any other person who has been authorised by it (whether generally or specifically) for the purpose.
@@ -303,7 +303,7 @@ may be received in evidence and, except so far as the contrary is shown, is to b
 
 #### Status
 
-**16.**[^key-c3c35174fa6986dc462e2818ede6b7cf] (1) The Police Authority is not to be regarded—
+**16.**[^c-c3c35174fa6986dc462e2818ede6b7cf] (1) The Police Authority is not to be regarded—
 
 - (a) as the servant or agent of the Crown; or
 - (b) as enjoying any status, immunity or privilege of the Crown.
@@ -312,11 +312,11 @@ may be received in evidence and, except so far as the contrary is shown, is to b
 
 #### Disqualification for House of Commons
 
-**17.**[^key-79223357bdca61144d92b82ae96a018e] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (c. 24) (bodies of which all members are disqualified), at the appropriate place, insert— “ The Civil Nuclear Police Authority ”.
+**17.**[^c-79223357bdca61144d92b82ae96a018e] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (c. 24) (bodies of which all members are disqualified), at the appropriate place, insert— “ The Civil Nuclear Police Authority ”.
 
 #### Freedom of information
 
-**18.**[^key-65feacce9de18242287b916256bb70ca] In Part 5 of Schedule 1 to the Freedom of Information Act 2000 (c. 36) (police bodies to be public authorities for the purposes of that Act), after paragraph 63 insert—
+**18.**[^c-65feacce9de18242287b916256bb70ca] In Part 5 of Schedule 1 to the Freedom of Information Act 2000 (c. 36) (police bodies to be public authorities for the purposes of that Act), after paragraph 63 insert—
 
 > **63A.** The Civil Nuclear Police Authority.
 >
@@ -324,44 +324,44 @@ may be received in evidence and, except so far as the contrary is shown, is to b
 
 ## Annotations
 
-[^key-88e4d971c5951304adc26a44daa3d7e3]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/1) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-88e4d971c5951304adc26a44daa3d7e3]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/1) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-95dee8589ec0d761b8c4535f90021cb1]: Commencement: Sch. 10 para. 2 in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-95dee8589ec0d761b8c4535f90021cb1]: Commencement: Sch. 10 para. 2 in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-d26d53f5635aeddb062803ac032ebf4e]: Textual amendment: Words in Sch. 10 para. 2(6)(a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 50(3)(a)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/50/3/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-d26d53f5635aeddb062803ac032ebf4e]: Textual amendment: Words in Sch. 10 para. 2(6)(a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 50(3)(a)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/50/3/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
-[^key-0924b8ed928c85286ab6df4304698722]: Textual amendment: Words in Sch. 10 para. 2(6)(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 50(3)(b)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/50/3/b) (with [arts. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5), [6](https://www.legislation.gov.uk/uksi/2012/2404/article/6))
+[^c-0924b8ed928c85286ab6df4304698722]: Textual amendment: Words in Sch. 10 para. 2(6)(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 50(3)(b)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/50/3/b) (with [arts. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5), [6](https://www.legislation.gov.uk/uksi/2012/2404/article/6))
 
-[^key-e94a0b5da7223e3d071097cf74a66da4]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/3) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-e94a0b5da7223e3d071097cf74a66da4]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/3) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-47f4446e50595dba4e67bcb29b7a75f3]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/4) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-47f4446e50595dba4e67bcb29b7a75f3]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/4) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-6a981507e1e347da8595009ff92a4b2a]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/5) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-6a981507e1e347da8595009ff92a4b2a]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/5) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-c52d32b8b965245118a944d6b948e52e]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/6) in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-c52d32b8b965245118a944d6b948e52e]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/6) in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
 
-[^key-57b1296c0210d8b634fadf2a04dd7e50]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/7) in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-57b1296c0210d8b634fadf2a04dd7e50]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/7) in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
 
-[^key-d2e94d7979232f132e41e8e384051956]: Commencement: Sch. 10 para. 8 in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-d2e94d7979232f132e41e8e384051956]: Commencement: Sch. 10 para. 8 in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
 
-[^key-bbd678072062947abb1af6d0264c76c5]: Textual amendment: Words in Sch. 10 para. 8(6) substituted (18.9.2025) by [The Civil Nuclear Police Authority (Borrowing Limit) (Amendment) Order 2025 (S.I. 2025/838)](https://www.legislation.gov.uk/uksi/2025/838), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/838/article/1/2), [2](https://www.legislation.gov.uk/uksi/2025/838/article/2)
+[^c-bbd678072062947abb1af6d0264c76c5]: Textual amendment: Words in Sch. 10 para. 8(6) substituted (18.9.2025) by [The Civil Nuclear Police Authority (Borrowing Limit) (Amendment) Order 2025 (S.I. 2025/838)](https://www.legislation.gov.uk/uksi/2025/838), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/838/article/1/2), [2](https://www.legislation.gov.uk/uksi/2025/838/article/2)
 
-[^key-aa1b1624d6f900579a662abe1076cc96]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/9) in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-aa1b1624d6f900579a662abe1076cc96]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/9) in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
 
-[^key-0ee1b7de32dcd950407f7ec9200f96f3]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/10) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-0ee1b7de32dcd950407f7ec9200f96f3]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/10) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-e1b06e885d293b839deb1770b3c136a1]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/11) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-e1b06e885d293b839deb1770b3c136a1]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/11) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-d75d0d2d562216a06b754ba43a08b6ea]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/12) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-d75d0d2d562216a06b754ba43a08b6ea]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/12) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-98383ac16c8d5f70821e3ff9446ab70d]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/13) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-98383ac16c8d5f70821e3ff9446ab70d]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/13) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-c8b06bfc9a4f291792e5ba08964bcdf9]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/14) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-c8b06bfc9a4f291792e5ba08964bcdf9]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/14) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-988588b69193c231654ec32e09541f10]: Commencement: [Sch. 10 para. 15](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/15) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-988588b69193c231654ec32e09541f10]: Commencement: [Sch. 10 para. 15](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/15) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-c3c35174fa6986dc462e2818ede6b7cf]: Commencement: [Sch. 10 para. 16](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/16) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-c3c35174fa6986dc462e2818ede6b7cf]: Commencement: [Sch. 10 para. 16](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/16) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-79223357bdca61144d92b82ae96a018e]: Commencement: [Sch. 10 para. 17](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/17) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-79223357bdca61144d92b82ae96a018e]: Commencement: [Sch. 10 para. 17](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/17) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-65feacce9de18242287b916256bb70ca]: Commencement: [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/18) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-65feacce9de18242287b916256bb70ca]: Commencement: [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/18) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)

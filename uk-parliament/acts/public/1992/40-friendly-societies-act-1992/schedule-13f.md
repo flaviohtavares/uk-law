@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13F — Disclosure of auditor remuneration etc[^key-b1fd5a73c5f354206fb4cd4cff3b316a]
+## SCHEDULE 13F — Disclosure of auditor remuneration etc[^c-b1fd5a73c5f354206fb4cd4cff3b316a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Section 69M
 
 **1.** (1) The following must be shown—
 
-- (a) the amount of any remuneration receivable by the society’s auditor , or an associate of the society’s auditor,[^key-e5d472e012aed2b3c89cc61ae8195f2e] for the auditing of the annual accounts, and
+- (a) the amount of any remuneration receivable by the society’s auditor , or an associate of the society’s auditor,[^c-e5d472e012aed2b3c89cc61ae8195f2e] for the auditing of the annual accounts, and
 - (b) the amount of any remuneration receivable in respect of the financial year by—
   - (i) the society’s auditor, or
   - (ii) any person who was, at any time during that financial year, an associate of the society’s auditor,
@@ -44,7 +44,7 @@ Section 69M
 (6) Where a friendly society is required to prepare consolidated group accounts—
 
 - (a) those accounts must comply with sub-paragraph (1)(b) as if the undertakings included in the consolidation were a single friendly society, and
-- (b)[^key-64a3d0633e2f3749f9d4f14b7e54299e] the notes to the individual accounts of—
+- (b)[^c-64a3d0633e2f3749f9d4f14b7e54299e] the notes to the individual accounts of—
   - (i) the society, and
   - (ii) a subsidiary of the society, where the subsidiary is included in the group accounts and the statutory auditor is the same for both the society and the subsidiary,
 
@@ -52,7 +52,7 @@ Section 69M
 
 ### Types of service
 
-**2.**[^key-65724a25ba88d36c981f5df6e03a219c] The types of service in respect of which disclosure is required are—
+**2.**[^c-65724a25ba88d36c981f5df6e03a219c] The types of service in respect of which disclosure is required are—
 
 - (a) the auditing of accounts of any associate of the society;
 - (b) audit-related assurance services;
@@ -65,7 +65,7 @@ Section 69M
 
 ### Disclosure not required of remuneration for certain services provided by distant associate
 
-**3.** (1) Disclosure is not required of remuneration receivable for the supply of services falling within paragraph 2(h)[^key-0d3a7749c5c22c57979a670c42514b9b] supplied by a distant associate of the society’s auditor where the total remuneration receivable for all of those services supplied by that associate does not exceed—
+**3.** (1) Disclosure is not required of remuneration receivable for the supply of services falling within paragraph 2(h)[^c-0d3a7749c5c22c57979a670c42514b9b] supplied by a distant associate of the society’s auditor where the total remuneration receivable for all of those services supplied by that associate does not exceed—
 
 - (a) £10,000, or
 - (b) 1% of the total audit remuneration received by the society’s auditor in the most recent financial year of the auditor which ended no later than the end of the financial year of the society to which the accounts relate.
@@ -150,12 +150,12 @@ Section 69M
 
 ## Annotations
 
-[^key-b1fd5a73c5f354206fb4cd4cff3b316a]: Textual amendment: [Sch. 13F](https://www.legislation.gov.uk/ukpga/1992/40/schedule/13F) inserted (29.6.2008 with effect in accordance with art. 1(3) of the amending S.I.) by [The Friendly Societies Act 1992 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1140)](https://www.legislation.gov.uk/uksi/2008/1140), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1140/article/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2008/1140/schedule/1/paragraph/1)
+[^c-b1fd5a73c5f354206fb4cd4cff3b316a]: Textual amendment: [Sch. 13F](https://www.legislation.gov.uk/ukpga/1992/40/schedule/13F) inserted (29.6.2008 with effect in accordance with art. 1(3) of the amending S.I.) by [The Friendly Societies Act 1992 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1140)](https://www.legislation.gov.uk/uksi/2008/1140), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1140/article/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2008/1140/schedule/1/paragraph/1)
 
-[^key-e5d472e012aed2b3c89cc61ae8195f2e]: Textual amendment: Words in [Sch. 13F para. 1(1)(a)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/13F/paragraph/1/1/a) inserted (with effect in accordance with reg. 2(2) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 5(a)(i)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/5/a/i) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-e5d472e012aed2b3c89cc61ae8195f2e]: Textual amendment: Words in [Sch. 13F para. 1(1)(a)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/13F/paragraph/1/1/a) inserted (with effect in accordance with reg. 2(2) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 5(a)(i)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/5/a/i) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
-[^key-64a3d0633e2f3749f9d4f14b7e54299e]: Textual amendment: [Sch. 13F para. 1(6)(b)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/13F/paragraph/1/6/b) substituted (with effect in accordance with reg. 2(2) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 5(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/5/a/ii) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-64a3d0633e2f3749f9d4f14b7e54299e]: Textual amendment: [Sch. 13F para. 1(6)(b)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/13F/paragraph/1/6/b) substituted (with effect in accordance with reg. 2(2) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 5(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/5/a/ii) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
-[^key-65724a25ba88d36c981f5df6e03a219c]: Textual amendment: [Sch. 13F para. 2](https://www.legislation.gov.uk/ukpga/1992/40/schedule/13F/paragraph/2) substituted (with effect in accordance with reg. 2(2) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/5/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-65724a25ba88d36c981f5df6e03a219c]: Textual amendment: [Sch. 13F para. 2](https://www.legislation.gov.uk/ukpga/1992/40/schedule/13F/paragraph/2) substituted (with effect in accordance with reg. 2(2) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/5/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
-[^key-0d3a7749c5c22c57979a670c42514b9b]: Textual amendment: Word in [Sch. 13F para. 3(1)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/13F/paragraph/3/1) substituted (with effect in accordance with reg. 2(2) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2/3), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/5/c) (with [reg. 2(6)(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6/7))
+[^c-0d3a7749c5c22c57979a670c42514b9b]: Textual amendment: Word in [Sch. 13F para. 3(1)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/13F/paragraph/3/1) substituted (with effect in accordance with reg. 2(2) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2/3), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/5/c) (with [reg. 2(6)(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6/7))

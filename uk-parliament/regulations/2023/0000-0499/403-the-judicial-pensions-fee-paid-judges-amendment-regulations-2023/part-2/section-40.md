@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Insertion of new regulation 58A[^key-32619780b318789af2d87805d2fee509]
+## 40. Insertion of new regulation 58A[^c-32619780b318789af2d87805d2fee509]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ After regulation 58 insert—
 
 ## Annotations
 
-[^key-32619780b318789af2d87805d2fee509]: Commencement: Reg. 40 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-32619780b318789af2d87805d2fee509]: Commencement: Reg. 40 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2022/319](https://www.legislation.gov.uk/uksi/2022/319).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 136. Amendments relating to termination of status as eligible student: Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018[^key-90614822bd6ed69c3d88b63a7c38fe54]
+## 136. Amendments relating to termination of status as eligible student: Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018[^c-90614822bd6ed69c3d88b63a7c38fe54]
 
 *Extent: E+W*
 
@@ -110,6 +110,6 @@ summary: ''
 
 ## Annotations
 
-[^key-90614822bd6ed69c3d88b63a7c38fe54]: Commencement: Reg. 136 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-90614822bd6ed69c3d88b63a7c38fe54]: Commencement: Reg. 136 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00100]: Footnote: Paragraph (12) was inserted by [S.I. 2021/127](https://www.legislation.gov.uk/uksi/2021/127) and amended by [S.I. 2021/929](https://www.legislation.gov.uk/uksi/2021/929).

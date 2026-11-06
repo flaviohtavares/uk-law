@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Inquiry by the Privy Council[^key-0ee0374dfdbc6d2e0619a109baed7c2e]
+## 53. Inquiry by the Privy Council[^c-0ee0374dfdbc6d2e0619a109baed7c2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ and every such order may be made a rule of the appropriate court on the applicat
 
 ## Annotations
 
-[^key-0ee0374dfdbc6d2e0619a109baed7c2e]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2002/253/article/53) in force at 1.4.2002 as notified in the London Gazette (Issue 56517, published 25.3.2002), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-0ee0374dfdbc6d2e0619a109baed7c2e]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2002/253/article/53) in force at 1.4.2002 as notified in the London Gazette (Issue 56517, published 25.3.2002), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)

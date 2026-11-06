@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Exercise of functions by councillors[^key-b92b3b16dd6041d8ab0465ec741f959f]
+## 56. Exercise of functions by councillors[^c-b92b3b16dd6041d8ab0465ec741f959f]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) Arrangements under this section may only provide for a non-executive member (N) to exercise functions—
 
-- (a) in relation to the electoral ward[^key-d9aef32a61bdaa394f8bf1e94ce2941e] for which N is elected, or
+- (a) in relation to the electoral ward[^c-d9aef32a61bdaa394f8bf1e94ce2941e] for which N is elected, or
 - (b) in relation to N's official membership of a body other than the local authority.
 
 (4) No arrangements may be made under this section for the exercise of a function—
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b92b3b16dd6041d8ab0465ec741f959f]: Commencement: S. 56 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/d)
+[^c-b92b3b16dd6041d8ab0465ec741f959f]: Commencement: S. 56 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/d)
 
-[^key-d9aef32a61bdaa394f8bf1e94ce2941e]: Textual amendment: Word in [s. 56(3)(a)](https://www.legislation.gov.uk/mwa/2011/4/section/56/3/a) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/14/2)
+[^c-d9aef32a61bdaa394f8bf1e94ce2941e]: Textual amendment: Word in [s. 56(3)(a)](https://www.legislation.gov.uk/mwa/2011/4/section/56/3/a) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/14/2)

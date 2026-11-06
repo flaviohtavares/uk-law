@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Provision of false or misleading information to Regulator[^key-caa00ee5f0bb8e857e063cb76e68391f][^key-a17665bfc53581070e37c839484a7f65]
+## 113. Provision of false or misleading information to Regulator[^c-caa00ee5f0bb8e857e063cb76e68391f][^c-a17665bfc53581070e37c839484a7f65]
 
 *Extent: E+W+S*
 
@@ -48,6 +48,6 @@ After section 80 of the Pensions Act 2004 (offences of providing false or mislea
 
 ## Annotations
 
-[^key-caa00ee5f0bb8e857e063cb76e68391f]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2021/1/section/113) in force at 1.10.2021 for specified purposes by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(g)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/g) (with [reg. 6](https://www.legislation.gov.uk/uksi/2021/950/regulation/6))
+[^c-caa00ee5f0bb8e857e063cb76e68391f]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2021/1/section/113) in force at 1.10.2021 for specified purposes by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(g)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/g) (with [reg. 6](https://www.legislation.gov.uk/uksi/2021/950/regulation/6))
 
-[^key-a17665bfc53581070e37c839484a7f65]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2021/1/section/113) in force at 1.8.2022 for specified purposes by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/c)
+[^c-a17665bfc53581070e37c839484a7f65]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2021/1/section/113) in force at 1.8.2022 for specified purposes by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/c)

@@ -31,10 +31,10 @@ summary: ''
 
 of 22 May 2001 on arrangements for publication or dissemination of the statistical data collected pursuant to Council Directive 95/64/EC on statistical returns in respect of carriage of goods and passengers by sea (Text with EEA relevance) (notified under document number C(2001) 1456) (revoked)
 
-[^key-cb704d02852d82e5a2d83debec9104c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb704d02852d82e5a2d83debec9104c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-cb704d02852d82e5a2d83debec9104c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-cb704d02852d82e5a2d83debec9104c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cb704d02852d82e5a2d83debec9104c4]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/30)
+[^c-cb704d02852d82e5a2d83debec9104c4]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/30)

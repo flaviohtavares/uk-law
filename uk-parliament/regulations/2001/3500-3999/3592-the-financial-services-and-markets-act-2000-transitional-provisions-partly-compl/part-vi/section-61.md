@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Decisions taken by the Authority giving effect to interim tribunal directions[^key-c36a4b4979a4f1af8ec1830e28172451]
+## 61. Decisions taken by the Authority giving effect to interim tribunal directions[^c-c36a4b4979a4f1af8ec1830e28172451]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c36a4b4979a4f1af8ec1830e28172451]: Commencement: Art. 61 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-c36a4b4979a4f1af8ec1830e28172451]: Commencement: Art. 61 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

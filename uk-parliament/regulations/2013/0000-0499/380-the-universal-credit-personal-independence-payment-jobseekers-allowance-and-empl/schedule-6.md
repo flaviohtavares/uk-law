@@ -24,7 +24,7 @@ Regulation 60
 
 ### 1. Interpretation
 
-(1)[^key-7cf1a24d67c871612bd2e86a651a807d] In this Schedule—
+(1)[^c-7cf1a24d67c871612bd2e86a651a807d] In this Schedule—
 
 - “**assessment period**” has the meaning given by regulation 21 (assessment periods) of the Universal Credit Regulations [^c2167267];
 - “**the work allowance**” means, in relation to any claimant, the amount applicable to that claimant under regulation 22(2) (deduction of income and work allowance) of the Universal Credit Regulations;
@@ -37,9 +37,9 @@ Regulation 60
 - “**water charges**” means—
   - (a) as respects England and Wales, any water and sewerage charges under Chapter 1 of Part 5 of the Water Industry Act 1991 [^c2167273];
   - (b) as respects Scotland, any such charges established by Scottish Water under a charges scheme made under section 29A of the Water Industry (Scotland) Act 2002 [^c2167274];
-- [^key-2c368e611491b99d50355d05780034b4]...
+- [^c-2c368e611491b99d50355d05780034b4]...
 
-(2)[^key-d7d171d958db6275aa43334815cb689e] For the purposes of this Schedule, where the relevant percentage of the standard allowance results in a fraction of a penny, that fraction is to be disregarded if it is less than half a penny and otherwise it is to be treated as a penny.
+(2)[^c-d7d171d958db6275aa43334815cb689e] For the purposes of this Schedule, where the relevant percentage of the standard allowance results in a fraction of a penny, that fraction is to be disregarded if it is less than half a penny and otherwise it is to be treated as a penny.
 
 ### 2. General
 
@@ -60,7 +60,7 @@ Regulation 60
 - (b) paragraph 7 (rent and service charges included in rent) of this Schedule;
 - (c) paragraph 8 (fuel costs) of this Schedule;
 - (d) paragraph 9 (water charges) of this Schedule;
-- (e)[^key-1662855d53b3ea25b090e0530c2cd0fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-1662855d53b3ea25b090e0530c2cd0fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) paragraph 11 (eligible loans) of this Schedule;
 - (g) paragraph 12 (integration loans) of this Schedule;
 - (h) regulation 3 (deductions from income support etc.) of the Community Charges Regulations;
@@ -68,11 +68,11 @@ Regulation 60
 - (j) regulation 5 (deduction from debtor's income support etc.) of the Council Tax Regulations [^c2167275]; and
 - (k) regulation 4 (deductions from offender's income support etc.) of the Fines Regulations [^c2167276].
 
-(3) The aggregate amount deducted from a claimant's award of universal credit in relation to any assessment period and paid to a third party under paragraphs 8 (fuel costs) and 9 (water charges) of this Schedule must not, without the claimant's consent, exceed a sum equal to 25%[^key-251eead8780ff81223523c8f111b67c9] of the aggregate of the standard allowance and any child element.
+(3) The aggregate amount deducted from a claimant's award of universal credit in relation to any assessment period and paid to a third party under paragraphs 8 (fuel costs) and 9 (water charges) of this Schedule must not, without the claimant's consent, exceed a sum equal to 25%[^c-251eead8780ff81223523c8f111b67c9] of the aggregate of the standard allowance and any child element.
 
 ### 4. Maximum amount
 
-(1) Except as provided for in sub-paragraph (4), the Secretary of State may not deduct an amount from a claimant's award of universal credit under a provision mentioned in paragraph 5(2) of this Schedule if, in relation to any assessment period, that would result in the Secretary of State deducting an amount in excess of 40%[^key-348441558872e1601eabe4bec97f2e83] of the standard allowance (“the maximum amount”) from the claimant's award under one or more relevant provisions.
+(1) Except as provided for in sub-paragraph (4), the Secretary of State may not deduct an amount from a claimant's award of universal credit under a provision mentioned in paragraph 5(2) of this Schedule if, in relation to any assessment period, that would result in the Secretary of State deducting an amount in excess of 40%[^c-348441558872e1601eabe4bec97f2e83] of the standard allowance (“the maximum amount”) from the claimant's award under one or more relevant provisions.
 
 (2) The relevant provisions are—
 
@@ -89,9 +89,9 @@ Regulation 60
 - (a) paragraph 8(4)(b) (fuel costs) of this Schedule; or
 - (b) paragraph 9(6)(b) or (7)(b)(water charges) of this Schedule.
 
-(4) Subject to paragraph 3 of this Schedule, the Secretary of State may deduct an amount from the claimant's award under paragraph 6 (housing costs), [^key-e8d11377156a58e0bbd48d27cbf4aea3]... paragraph 8 (fuel costs), or the minimum amount which may be deducted under paragraph 7 (rent and service charges included in rent)[^key-ef412c2353f2afc4223f49dc48d8272a] of this Schedule and pay that amount to a third party where the deduction appears to the Secretary of State to be in the claimant's best interests, even though the deduction would result in the maximum amount being exceeded.
+(4) Subject to paragraph 3 of this Schedule, the Secretary of State may deduct an amount from the claimant's award under paragraph 6 (housing costs), [^c-e8d11377156a58e0bbd48d27cbf4aea3]... paragraph 8 (fuel costs), or the minimum amount which may be deducted under paragraph 7 (rent and service charges included in rent)[^c-ef412c2353f2afc4223f49dc48d8272a] of this Schedule and pay that amount to a third party where the deduction appears to the Secretary of State to be in the claimant's best interests, even though the deduction would result in the maximum amount being exceeded.
 
-### 5. Priority as between certain debts[^key-cc95bccb702b83864c75e525a6f4b598]
+### 5. Priority as between certain debts[^c-cc95bccb702b83864c75e525a6f4b598]
 
 (1) This paragraph applies to a claimant (“C”) where, in relation to any assessment period—
 
@@ -100,29 +100,29 @@ Regulation 60
 
 (2) The provisions are—
 
-- (za)[^key-e0efa88d275f42172af8bb330116593f] Schedule 7 (deductions from benefit in respect of child support maintenance and payment to persons with care) to these Regulations;
+- (za)[^c-e0efa88d275f42172af8bb330116593f] Schedule 7 (deductions from benefit in respect of child support maintenance and payment to persons with care) to these Regulations;
 - (a) paragraph 6 (housing costs) of this Schedule;
-- (b) paragraph 7 (rent and service charges included in rent) of this Schedule where the amount of the deduction equals 10% of the standard allowance[^key-e787bc83db122f87027213404d0eb5f1];
+- (b) paragraph 7 (rent and service charges included in rent) of this Schedule where the amount of the deduction equals 10% of the standard allowance[^c-e787bc83db122f87027213404d0eb5f1];
 - (c) paragraph 8 (fuel costs) of this Schedule;
 - (d) regulation 3 (deductions from income support etc.) of the Community Charges Regulations, regulation 3 (deductions from income support etc.) of the Community Charges (Scotland) Regulations or (because no such payments are being made in C's case) regulation 5 (deduction from debtor's income support etc.) of the Council Tax Regulations;
-- (e) regulation 4 (deductions from offender's income support etc.) of the Fines Regulations [^key-f3288146873ed9f688b55272e3d72e12]...;
+- (e) regulation 4 (deductions from offender's income support etc.) of the Fines Regulations [^c-f3288146873ed9f688b55272e3d72e12]...;
 - (f) paragraph 9 (water charges) of this Schedule;
-- (g)[^key-61b283d06e26f386ebaba7022dda11df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-0aac8c122b658bf794e0da25dab0d913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-61b283d06e26f386ebaba7022dda11df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-0aac8c122b658bf794e0da25dab0d913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) section 78(2) (recovery of social fund awards) of the Administration Act;
-- (j) section 71ZH(1)(a) or (b) (recovery of hardship payments etc.) of the Administration Act[^key-f3cfdd9728269c136120eaa24f5a1d61][^c2167281];
+- (j) section 71ZH(1)(a) or (b) (recovery of hardship payments etc.) of the Administration Act[^c-f3cfdd9728269c136120eaa24f5a1d61][^c2167281];
 - (k) section 115A (penalty as alternative to prosecution) of the Administration Act [^c2167282] where an overpayment is recoverable from a person by, or due from a person to, the Secretary of State or an authority under or by virtue of section 71 (overpayments – general)[^c2167283], section 75 (overpayments of housing benefit) [^c2167284] or section 71ZB (recovery of overpayments of certain benefits) of that Act [^c2167285];
 - (l) section 71 (overpayments – general), section 71ZC (deduction from benefit) [^c2167286] or section 75(4) (overpayments of housing benefit) of the Administration Act or an overpayment of working tax credit or child tax credit, where in each case, the overpayment (or part of it) is the result of fraud;
 - (m) section 115C(4) (incorrect statements etc.) [^c2167287] and section 115D(4) (failure to disclose information) [^c2167288] of the Administration Act;
 - (n) section 71 (overpayments – general), section 71ZC (deduction from benefit) or section 75(4) (overpayments of housing benefit) of the Administration Act or an overpayment of working tax credit or child tax credit, where in each case, the overpayment (or part of it) is not the result of fraud;
 - (o) paragraph 12 (integration loans) of this Schedule;
 - (p) paragraph 11 (eligible loans) of this Schedule;
-- (pa)[^key-3bb711e5e27876ca546e931b2609c78b] paragraph 7 (rent and service charges included in rent) where the amount of deduction exceeds the minimum amount that may be deducted under that paragraph;
-- (q)[^key-d6528907f9a04d723c472d3c493110fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (pa)[^c-3bb711e5e27876ca546e931b2609c78b] paragraph 7 (rent and service charges included in rent) where the amount of deduction exceeds the minimum amount that may be deducted under that paragraph;
+- (q)[^c-d6528907f9a04d723c472d3c493110fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where this paragraph applies to a claimant, the Secretary of State must make a deduction under any of the provisions mentioned sub-paragraph (2) in accordance with sub-paragraphs (4) and (5).
 
-(4) The Secretary of State must give priority to any such deductions in the order in which they are listed in sub-paragraph (2), with deductions under Schedule 7 (deductions from benefit in respect of child support maintenance and payment to persons with care) to these Regulations[^key-05305bf7de3c82f4f32434871b39f373] having the priority.
+(4) The Secretary of State must give priority to any such deductions in the order in which they are listed in sub-paragraph (2), with deductions under Schedule 7 (deductions from benefit in respect of child support maintenance and payment to persons with care) to these Regulations[^c-05305bf7de3c82f4f32434871b39f373] having the priority.
 
 (5) Where two or more provisions mentioned in any single paragraph of sub-paragraph (2) apply to the claimant, unless the Secretary of State directs otherwise, those deductions have equal priority with each other and the amount of such deductions are to be apportioned accordingly.
 
@@ -142,9 +142,9 @@ Regulation 60
 
 (4) Before the Secretary of State may commence (or re-commence) making deductions in respect of any such debt, the claimant's earned income (or in the case of joint claimants their combined earned income) in relation to the previous assessment period must not exceed the work allowance.
 
-(5)[^key-ea0afe0b12cf378b4f4f7fbc83a9b8bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ea0afe0b12cf378b4f4f7fbc83a9b8bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-ea0afe0b12cf378b4f4f7fbc83a9b8bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ea0afe0b12cf378b4f4f7fbc83a9b8bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 7. Rent and service charges included in rent
 
@@ -162,7 +162,7 @@ Regulation 60
 
 (4) The third condition is that the claimant occupies the accommodation to which the debt relates.
 
-(5) Where this paragraph applies, but subject to sub-paragraphs (6) and (7), the Secretary of State may, in such cases and circumstances as the Secretary of State may determine, deduct in relation to that assessment period an amount from the claimant's award which is no less than 10% and no more than 20%[^key-cc995e9ec426fed9364ac4fe4f7118d6] of the standard allowance and pay that amount to the person to whom the debt is owed.
+(5) Where this paragraph applies, but subject to sub-paragraphs (6) and (7), the Secretary of State may, in such cases and circumstances as the Secretary of State may determine, deduct in relation to that assessment period an amount from the claimant's award which is no less than 10% and no more than 20%[^c-cc995e9ec426fed9364ac4fe4f7118d6] of the standard allowance and pay that amount to the person to whom the debt is owed.
 
 (6) Before the Secretary of State may commence (or re-commence) making deductions in respect of such a debt, the claimant's earned income (or in the case of joint claimants their combined earned income) in relation to the previous assessment period must not exceed the work allowance.
 
@@ -174,20 +174,20 @@ Regulation 60
 - “**rent payments**” includes any elements included in the claimant's rent which would not fall to be treated as rent under the Housing Benefit Regulations 2006 [^c2167291] or as rent payments under the Universal Credit Regulations;
 - “**service charges**” includes any items in a charge for services in respect of the accommodation occupied by the claimant which would not fall to be treated as service charges under the Universal Credit Regulations.
 
-### 8. Fuel costs[^key-b0d5dd8e1a5d52d259d3133dc81f3eda]
+### 8. Fuel costs[^c-b0d5dd8e1a5d52d259d3133dc81f3eda]
 
 (1) This paragraph applies where the following condition is met.
 
-(2) The condition is that in any assessment period the claimant is in debt for any fuel item[^key-e7862e1f95cedebc338ad55d2d87bdb6].
+(2) The condition is that in any assessment period the claimant is in debt for any fuel item[^c-e7862e1f95cedebc338ad55d2d87bdb6].
 
-(3) Where this paragraph applies, but subject to sub-paragraphs (4A), (5) and (6)[^key-f18bc682be7dd283a6dc7200f2221685], the Secretary of State may, in such cases and circumstances as the Secretary of State may determine, deduct in relation to that assessment period the following amounts from the claimant's award and pay them to the person to whom the payment is due.
+(3) Where this paragraph applies, but subject to sub-paragraphs (4A), (5) and (6)[^c-f18bc682be7dd283a6dc7200f2221685], the Secretary of State may, in such cases and circumstances as the Secretary of State may determine, deduct in relation to that assessment period the following amounts from the claimant's award and pay them to the person to whom the payment is due.
 
 (4) The amount which may be deducted in respect of any fuel item is—
 
 - (a) an amount equal to 5% of the standard allowance; and
-- (b) an additional amount which the Secretary of State estimates is not more than[^key-5ca6749ec1da08de533016df382ea8f2] the average monthly cost necessary to meet the claimant's continuing need for the fuel in respect of which the debt arose, plus such monthly amount as is required to meet any payments required to be made under a green deal plan within the meaning of section 1 of the Energy Act 2011 (“the 2011 Act”)[^key-26a0d4b09e2b956e55f21113c6171f9a], except where current consumption is paid for by other means such as a pre-payment meter.
+- (b) an additional amount which the Secretary of State estimates is not more than[^c-5ca6749ec1da08de533016df382ea8f2] the average monthly cost necessary to meet the claimant's continuing need for the fuel in respect of which the debt arose, plus such monthly amount as is required to meet any payments required to be made under a green deal plan within the meaning of section 1 of the Energy Act 2011 (“the 2011 Act”)[^c-26a0d4b09e2b956e55f21113c6171f9a], except where current consumption is paid for by other means such as a pre-payment meter.
 
-(4A)[^key-bcce1eb83ca97efe124774fcc53bc634] The Secretary of State may only make deductions under sub-paragraph (4)(b) if—
+(4A)[^c-bcce1eb83ca97efe124774fcc53bc634] The Secretary of State may only make deductions under sub-paragraph (4)(b) if—
 
 - (a) an application for deductions is made by the person to whom the payment is due; and
 - (b) except where the application is for a reduction in the amount of a deduction, the claimant consents to the application.
@@ -198,7 +198,7 @@ Regulation 60
 
 (7) As between liabilities for items of gas or electricity, the Secretary of State must give priority to whichever liability the Secretary of State considers it would, having regard to the circumstances and to any requests of the claimant, be appropriate to discharge.
 
-(8)[^key-3c427d82a9dd9d66b6c178e474ad240c] In this paragraph, “fuel item” means—
+(8)[^c-3c427d82a9dd9d66b6c178e474ad240c] In this paragraph, “fuel item” means—
 
 - (a) any charge for mains gas, including for the reconnection of mains gas;
 - (b) any charge for mains electricity and including any charge for the disconnection and reconnection of mains electricity and including any payments required to be made under a green deal plan within the meaning of section 1 of the 2011 Act.
@@ -236,17 +236,17 @@ Regulation 60
 - (a) in relation to any area in England and Wales, a company holding an appointment as a water undertaker or a sewerage undertaker under the Water Industry Act 1991 [^c2167292]; or
 - (b) in relation to any area in Scotland, Scottish Water.
 
-### 10. Payments in place of payments of child support maintenance[^key-fa60f687b136033b73a3d8f4359e5507]
+### 10. Payments in place of payments of child support maintenance[^c-fa60f687b136033b73a3d8f4359e5507]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Eligible loans[^key-5a4bd24d9e78261c3ac55df956f0e3ad]
+### 11. Eligible loans[^c-5a4bd24d9e78261c3ac55df956f0e3ad]
 
-(1) This paragraph applies where in any assessment period the claimant is in arrears in respect of a loan entered into (whether solely or jointly) with an eligible lender in respect of an eligible loan[^key-36f29e88e0ff03bd409a5db8b82cf799].
+(1) This paragraph applies where in any assessment period the claimant is in arrears in respect of a loan entered into (whether solely or jointly) with an eligible lender in respect of an eligible loan[^c-36f29e88e0ff03bd409a5db8b82cf799].
 
-(2)[^key-b88b68906aaa7cfdfa599903ee1bc1f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b88b68906aaa7cfdfa599903ee1bc1f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-b88b68906aaa7cfdfa599903ee1bc1f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b88b68906aaa7cfdfa599903ee1bc1f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where the claimant has an award of universal credit, the Secretary of State may, in such cases and circumstances as the Secretary of State may determine, deduct in relation to the assessment period referred to in sub-paragraph (2) an amount from the claimant's award equal to 5% of the standard allowance and pay that amount to the eligible lender towards discharging the amount owing under the loan agreement.
 
@@ -256,7 +256,7 @@ Regulation 60
 
 (7) The Secretary of State must not make deductions from a claimant's employment and support allowance or a jobseeker's allowance under this paragraph if that would reduce the amount payable to the claimant to less than 10 pence.
 
-(8)[^key-ed161ae9885e6eb83ccb748337f14035] In this paragraph—
+(8)[^c-ed161ae9885e6eb83ccb748337f14035] In this paragraph—
 
 - “**eligible benefit**” means—
   - (a) an employment and support allowance;
@@ -285,11 +285,11 @@ Regulation 60
 
 ### 12. Integration loans
 
-(1) This paragraph applies where the claimant has an integration loan which is recoverable by deductions[^key-2387ff42ec607531384995412df15b25].
+(1) This paragraph applies where the claimant has an integration loan which is recoverable by deductions[^c-2387ff42ec607531384995412df15b25].
 
-(2)[^key-9b0279aeaf8ea649a1035ec0ccda7c04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9b0279aeaf8ea649a1035ec0ccda7c04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-9b0279aeaf8ea649a1035ec0ccda7c04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9b0279aeaf8ea649a1035ec0ccda7c04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where this paragraph applies, the amount payable by deductions in any assessment period is to be equal to 5% of the standard allowance.
 
@@ -297,7 +297,7 @@ Regulation 60
 
 ## Annotations
 
-[^key-7cf1a24d67c871612bd2e86a651a807d]: Textual amendment: Sch. 6 para. 1(1): Sch. 6 para. 1 renumbered as Sch. 6 para. 1(1) (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [6(3)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/6/3/a)
+[^c-7cf1a24d67c871612bd2e86a651a807d]: Textual amendment: Sch. 6 para. 1(1): Sch. 6 para. 1 renumbered as Sch. 6 para. 1(1) (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [6(3)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/6/3/a)
 
 [^c2167267]: Marginal citation: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
 
@@ -315,19 +315,19 @@ Regulation 60
 
 [^c2167274]: Marginal citation: [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3).
 
-[^key-2c368e611491b99d50355d05780034b4]: Textual amendment: Words in Sch. 6 para. 1(1) omitted (29.7.2013) by virtue of [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [6(3)(b)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/6/3/b)
+[^c-2c368e611491b99d50355d05780034b4]: Textual amendment: Words in Sch. 6 para. 1(1) omitted (29.7.2013) by virtue of [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [6(3)(b)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/6/3/b)
 
-[^key-d7d171d958db6275aa43334815cb689e]: Textual amendment: Sch. 6 para. 1(2) added (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [6(3)(c)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/6/3/c)
+[^c-d7d171d958db6275aa43334815cb689e]: Textual amendment: Sch. 6 para. 1(2) added (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [6(3)(c)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/6/3/c)
 
-[^key-1662855d53b3ea25b090e0530c2cd0fc]: Textual amendment: [Sch. 6 para. 3(2)(e)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/3/2/e) omitted (30.4.2026) by virtue of [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations 2026 (S.I. 2026/322)](https://www.legislation.gov.uk/uksi/2026/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/322/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2026/322/regulation/2/a)
+[^c-1662855d53b3ea25b090e0530c2cd0fc]: Textual amendment: [Sch. 6 para. 3(2)(e)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/3/2/e) omitted (30.4.2026) by virtue of [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations 2026 (S.I. 2026/322)](https://www.legislation.gov.uk/uksi/2026/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/322/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2026/322/regulation/2/a)
 
 [^c2167275]: Marginal citation: Relevant amending instruments are [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), 2002/3019 and 2008/1554.
 
 [^c2167276]: Marginal citation: Relevant amending instruments are [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), 2002/3019, 2004/2889 and 2008/1554.
 
-[^key-251eead8780ff81223523c8f111b67c9]: Textual amendment: Words in Sch. 6 para. 3(3) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [6(3)(d)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/6/3/d)
+[^c-251eead8780ff81223523c8f111b67c9]: Textual amendment: Words in Sch. 6 para. 3(3) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [6(3)(d)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/6/3/d)
 
-[^key-348441558872e1601eabe4bec97f2e83]: Textual amendment: Words in Sch. 6 para. 4(1) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [6(3)(e)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/6/3/e)
+[^c-348441558872e1601eabe4bec97f2e83]: Textual amendment: Words in Sch. 6 para. 4(1) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [6(3)(e)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/6/3/e)
 
 [^c2167277]: Marginal citation: Section 71ZG was inserted by section 105(1) of the 2012 Act.
 
@@ -337,23 +337,23 @@ Regulation 60
 
 [^c2167280]: Marginal citation: Section 9 was amended by paragraphs 44 and 46(1) to (3) of Schedule 2 to the State Pension Credit Act 2002, paragraph 23(1), (4) and (5) of Schedule 3 to the Welfare Reform Act 2007 and paragraphs 1 and 4(1) to (3) of Schedule 4 to the Welfare Reform Act 2009. It was also amended by section 113(8)(b), paragraphs 56 and 61(1) to (5) of Schedule 2 and Parts 1 and 12 of Schedule 14 to the 2012 Act.
 
-[^key-e8d11377156a58e0bbd48d27cbf4aea3]: Textual amendment: Words in Sch. 6 para. 4(4) omitted (with effect in accordance with reg. 1(2) of the commencing S.I.) by virtue of [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/6/2/a/i)
+[^c-e8d11377156a58e0bbd48d27cbf4aea3]: Textual amendment: Words in Sch. 6 para. 4(4) omitted (with effect in accordance with reg. 1(2) of the commencing S.I.) by virtue of [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/6/2/a/i)
 
-[^key-ef412c2353f2afc4223f49dc48d8272a]: Textual amendment: Words in Sch. 6 para. 4(4) inserted (with effect in accordance with reg. 1(2) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/6/2/a/ii)
+[^c-ef412c2353f2afc4223f49dc48d8272a]: Textual amendment: Words in Sch. 6 para. 4(4) inserted (with effect in accordance with reg. 1(2) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/6/2/a/ii)
 
-[^key-cc95bccb702b83864c75e525a6f4b598]: Modification: [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/5) modified (temp.) (30.4.2025) by [The Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) (Modification) Regulations 2025 (S.I. 2025/387)](https://www.legislation.gov.uk/uksi/2025/387), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/387/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/387/regulation/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/387/regulation/1/3))
+[^c-cc95bccb702b83864c75e525a6f4b598]: Modification: [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/5) modified (temp.) (30.4.2025) by [The Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) (Modification) Regulations 2025 (S.I. 2025/387)](https://www.legislation.gov.uk/uksi/2025/387), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/387/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/387/regulation/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/387/regulation/1/3))
 
-[^key-e0efa88d275f42172af8bb330116593f]: Textual amendment: [Sch. 6 para. 5(2)(za)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/5/2/za) inserted (30.4.2026) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations 2026 (S.I. 2026/322)](https://www.legislation.gov.uk/uksi/2026/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/322/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2026/322/regulation/2/b/i)
+[^c-e0efa88d275f42172af8bb330116593f]: Textual amendment: [Sch. 6 para. 5(2)(za)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/5/2/za) inserted (30.4.2026) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations 2026 (S.I. 2026/322)](https://www.legislation.gov.uk/uksi/2026/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/322/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2026/322/regulation/2/b/i)
 
-[^key-e787bc83db122f87027213404d0eb5f1]: Textual amendment: Words in Sch. 6 para. 5(2)(b) inserted (with effect in accordance with reg. 1(2) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [6(2)(b)(i)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/6/2/b/i)
+[^c-e787bc83db122f87027213404d0eb5f1]: Textual amendment: Words in Sch. 6 para. 5(2)(b) inserted (with effect in accordance with reg. 1(2) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [6(2)(b)(i)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/6/2/b/i)
 
-[^key-f3288146873ed9f688b55272e3d72e12]: Textual amendment: Words in [Sch. 6 para. 5(2)(e)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/5/2/e) omitted (29.10.2021) by virtue of [The Fines (Deductions from Income Support) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1077)](https://www.legislation.gov.uk/uksi/2021/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1077/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/1077/regulation/3/2)
+[^c-f3288146873ed9f688b55272e3d72e12]: Textual amendment: Words in [Sch. 6 para. 5(2)(e)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/5/2/e) omitted (29.10.2021) by virtue of [The Fines (Deductions from Income Support) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1077)](https://www.legislation.gov.uk/uksi/2021/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1077/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/1077/regulation/3/2)
 
-[^key-61b283d06e26f386ebaba7022dda11df]: Textual amendment: [Sch. 6 para. 5(2)(g)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/5/2/g) omitted (30.4.2026) by virtue of [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations 2026 (S.I. 2026/322)](https://www.legislation.gov.uk/uksi/2026/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/322/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/322/regulation/2/b/ii)
+[^c-61b283d06e26f386ebaba7022dda11df]: Textual amendment: [Sch. 6 para. 5(2)(g)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/5/2/g) omitted (30.4.2026) by virtue of [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations 2026 (S.I. 2026/322)](https://www.legislation.gov.uk/uksi/2026/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/322/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/322/regulation/2/b/ii)
 
-[^key-0aac8c122b658bf794e0da25dab0d913]: Textual amendment: [Sch. 6 para. 5(2)(h)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/5/2/h) omitted (30.4.2026) by virtue of [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations 2026 (S.I. 2026/322)](https://www.legislation.gov.uk/uksi/2026/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/322/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/322/regulation/2/b/ii)
+[^c-0aac8c122b658bf794e0da25dab0d913]: Textual amendment: [Sch. 6 para. 5(2)(h)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/5/2/h) omitted (30.4.2026) by virtue of [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations 2026 (S.I. 2026/322)](https://www.legislation.gov.uk/uksi/2026/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/322/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/322/regulation/2/b/ii)
 
-[^key-f3cfdd9728269c136120eaa24f5a1d61]: Textual amendment: Words in Sch. 6 para. 5(2)(j) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments Regulations 2015 (S.I. 2015/1754)](https://www.legislation.gov.uk/uksi/2015/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2015/1754/regulation/9)
+[^c-f3cfdd9728269c136120eaa24f5a1d61]: Textual amendment: Words in Sch. 6 para. 5(2)(j) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments Regulations 2015 (S.I. 2015/1754)](https://www.legislation.gov.uk/uksi/2015/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2015/1754/regulation/9)
 
 [^c2167281]: Marginal citation: Section 71ZH was inserted by section 105(1) of the 2012 Act.
 
@@ -371,47 +371,47 @@ Regulation 60
 
 [^c2167288]: Marginal citation: Section 115D was inserted by section 116(1) of the 2012 Act.
 
-[^key-3bb711e5e27876ca546e931b2609c78b]: Textual amendment: Sch. 6 para. 5(2)(pa) inserted (with effect in accordance with reg. 1(2) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [6(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/6/2/b/ii)
+[^c-3bb711e5e27876ca546e931b2609c78b]: Textual amendment: Sch. 6 para. 5(2)(pa) inserted (with effect in accordance with reg. 1(2) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [6(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/6/2/b/ii)
 
-[^key-d6528907f9a04d723c472d3c493110fa]: Textual amendment: [Sch. 6 para. 5(2)(q)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/5/2/q) omitted (29.10.2021) by virtue of [The Fines (Deductions from Income Support) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1077)](https://www.legislation.gov.uk/uksi/2021/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1077/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/1077/regulation/3/3)
+[^c-d6528907f9a04d723c472d3c493110fa]: Textual amendment: [Sch. 6 para. 5(2)(q)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/5/2/q) omitted (29.10.2021) by virtue of [The Fines (Deductions from Income Support) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1077)](https://www.legislation.gov.uk/uksi/2021/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1077/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/1077/regulation/3/3)
 
-[^key-05305bf7de3c82f4f32434871b39f373]: Textual amendment: Words in [Sch. 6 para. 5(4)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/5/4) substituted (30.4.2026) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations 2026 (S.I. 2026/322)](https://www.legislation.gov.uk/uksi/2026/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/322/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2026/322/regulation/2/c)
+[^c-05305bf7de3c82f4f32434871b39f373]: Textual amendment: Words in [Sch. 6 para. 5(4)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/5/4) substituted (30.4.2026) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations 2026 (S.I. 2026/322)](https://www.legislation.gov.uk/uksi/2026/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/322/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2026/322/regulation/2/c)
 
 [^c2167289]: Marginal citation: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-ea0afe0b12cf378b4f4f7fbc83a9b8bd]: Textual amendment: [Sch. 6 para. 6(5)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/6/5)[(6)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/6/6) omitted by S.I. 2017/725, Sch. 5 para. 8(d) (as inserted) (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
+[^c-ea0afe0b12cf378b4f4f7fbc83a9b8bd]: Textual amendment: [Sch. 6 para. 6(5)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/6/5)[(6)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/6/6) omitted by S.I. 2017/725, Sch. 5 para. 8(d) (as inserted) (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
 
 [^c2167290]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 130 was amended by paragraph 3 of Schedule 9 to the [Local Government Finance Act 1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14) and paragraph 1(1) and (3) of Schedule 5 to the [Welfare Reform Act 2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5).
 
-[^key-cc995e9ec426fed9364ac4fe4f7118d6]: Textual amendment: Words in Sch. 6 para. 7(5) substituted (with effect in accordance with reg. 1(2) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/6/2/c)
+[^c-cc995e9ec426fed9364ac4fe4f7118d6]: Textual amendment: Words in Sch. 6 para. 7(5) substituted (with effect in accordance with reg. 1(2) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/6/2/c)
 
 [^c2167291]: Marginal citation: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213).
 
-[^key-b0d5dd8e1a5d52d259d3133dc81f3eda]: Modification: [Sch. 6 para. 8](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/8) modified (temp.) (26.4.2022) by [The Social Security Benefits (Claims and Payments) (Modification) Regulations 2022 (S.I. 2022/428)](https://www.legislation.gov.uk/uksi/2022/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/428/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2022/428/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/428/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2022/428/regulation/1/4))
+[^c-b0d5dd8e1a5d52d259d3133dc81f3eda]: Modification: [Sch. 6 para. 8](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/8) modified (temp.) (26.4.2022) by [The Social Security Benefits (Claims and Payments) (Modification) Regulations 2022 (S.I. 2022/428)](https://www.legislation.gov.uk/uksi/2022/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/428/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2022/428/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/428/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2022/428/regulation/1/4))
 
-[^key-e7862e1f95cedebc338ad55d2d87bdb6]: Textual amendment: Words in Sch. 6 para. 8(2) substituted (29.4.2013 with effect in accordance with reg. 1(3)) by [The Social Security (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/443)](https://www.legislation.gov.uk/uksi/2013/443), [regs. 1](https://www.legislation.gov.uk/uksi/2013/443/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2013/443/regulation/10/a)
+[^c-e7862e1f95cedebc338ad55d2d87bdb6]: Textual amendment: Words in Sch. 6 para. 8(2) substituted (29.4.2013 with effect in accordance with reg. 1(3)) by [The Social Security (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/443)](https://www.legislation.gov.uk/uksi/2013/443), [regs. 1](https://www.legislation.gov.uk/uksi/2013/443/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2013/443/regulation/10/a)
 
-[^key-f18bc682be7dd283a6dc7200f2221685]: Textual amendment: Words in [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/8/3) substituted (1.4.2023) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2023 (S.I. 2023/232)](https://www.legislation.gov.uk/uksi/2023/232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2023/232/regulation/3/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/3))
+[^c-f18bc682be7dd283a6dc7200f2221685]: Textual amendment: Words in [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/8/3) substituted (1.4.2023) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2023 (S.I. 2023/232)](https://www.legislation.gov.uk/uksi/2023/232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2023/232/regulation/3/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/3))
 
-[^key-5ca6749ec1da08de533016df382ea8f2]: Textual amendment: Words in [Sch. 6 para. 8(4)(b)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/8/4/b) substituted (1.4.2023) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2023 (S.I. 2023/232)](https://www.legislation.gov.uk/uksi/2023/232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/232/regulation/3/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/3))
+[^c-5ca6749ec1da08de533016df382ea8f2]: Textual amendment: Words in [Sch. 6 para. 8(4)(b)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/8/4/b) substituted (1.4.2023) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2023 (S.I. 2023/232)](https://www.legislation.gov.uk/uksi/2023/232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/232/regulation/3/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/3))
 
-[^key-26a0d4b09e2b956e55f21113c6171f9a]: Textual amendment: Words in Sch. 6 para. 8(4)(b) substituted (29.4.2013 with effect in accordance with reg. 1(3)) by [The Social Security (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/443)](https://www.legislation.gov.uk/uksi/2013/443), [regs. 1](https://www.legislation.gov.uk/uksi/2013/443/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2013/443/regulation/10/b)
+[^c-26a0d4b09e2b956e55f21113c6171f9a]: Textual amendment: Words in Sch. 6 para. 8(4)(b) substituted (29.4.2013 with effect in accordance with reg. 1(3)) by [The Social Security (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/443)](https://www.legislation.gov.uk/uksi/2013/443), [regs. 1](https://www.legislation.gov.uk/uksi/2013/443/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2013/443/regulation/10/b)
 
-[^key-bcce1eb83ca97efe124774fcc53bc634]: Textual amendment: [Sch. 6 para. 8(4A)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/8/4A) inserted (1.4.2023) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2023 (S.I. 2023/232)](https://www.legislation.gov.uk/uksi/2023/232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2023/232/regulation/3/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/3))
+[^c-bcce1eb83ca97efe124774fcc53bc634]: Textual amendment: [Sch. 6 para. 8(4A)](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/8/4A) inserted (1.4.2023) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2023 (S.I. 2023/232)](https://www.legislation.gov.uk/uksi/2023/232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2023/232/regulation/3/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/3))
 
-[^key-3c427d82a9dd9d66b6c178e474ad240c]: Textual amendment: Sch. 6 para. 8(8) added (29.4.2013 with effect in accordance with reg. 1(3)) by [The Social Security (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/443)](https://www.legislation.gov.uk/uksi/2013/443), [regs. 1](https://www.legislation.gov.uk/uksi/2013/443/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2013/443/regulation/10/c)
+[^c-3c427d82a9dd9d66b6c178e474ad240c]: Textual amendment: Sch. 6 para. 8(8) added (29.4.2013 with effect in accordance with reg. 1(3)) by [The Social Security (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/443)](https://www.legislation.gov.uk/uksi/2013/443), [regs. 1](https://www.legislation.gov.uk/uksi/2013/443/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2013/443/regulation/10/c)
 
 [^c2167292]: Marginal citation: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-fa60f687b136033b73a3d8f4359e5507]: Textual amendment: [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/10) omitted (4.7.2019) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1084)](https://www.legislation.gov.uk/uksi/2019/1084), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1084/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/1084/regulation/7)
+[^c-fa60f687b136033b73a3d8f4359e5507]: Textual amendment: [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2013/380/schedule/6/paragraph/10) omitted (4.7.2019) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1084)](https://www.legislation.gov.uk/uksi/2019/1084), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1084/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/1084/regulation/7)
 
-[^key-5a4bd24d9e78261c3ac55df956f0e3ad]: Textual amendment: Sch. 6 para. 11(9) inserted (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 45(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/45/b)
+[^c-5a4bd24d9e78261c3ac55df956f0e3ad]: Textual amendment: Sch. 6 para. 11(9) inserted (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 45(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/45/b)
 
-[^key-36f29e88e0ff03bd409a5db8b82cf799]: Textual amendment: Words in Sch. 6 para. 11(1) substituted (28.4.2014) by [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2014/597/regulation/5/a/i)
+[^c-36f29e88e0ff03bd409a5db8b82cf799]: Textual amendment: Words in Sch. 6 para. 11(1) substituted (28.4.2014) by [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2014/597/regulation/5/a/i)
 
-[^key-b88b68906aaa7cfdfa599903ee1bc1f7]: Textual amendment: Sch. 6 para. 11(2)(3) omitted (28.4.2014) by virtue of [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2014/597/regulation/5/a/ii)
+[^c-b88b68906aaa7cfdfa599903ee1bc1f7]: Textual amendment: Sch. 6 para. 11(2)(3) omitted (28.4.2014) by virtue of [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2014/597/regulation/5/a/ii)
 
-[^key-ed161ae9885e6eb83ccb748337f14035]: Textual amendment: Words in Sch. 6 para. 11(8) substituted (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 45(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/45/a)
+[^c-ed161ae9885e6eb83ccb748337f14035]: Textual amendment: Words in Sch. 6 para. 11(8) substituted (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 45(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/45/a)
 
 [^c2167296]: Marginal citation: [1965 c.12](https://www.legislation.gov.uk/ukpga/1965/12). Relevant amending instruments are [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) and 2009/1941.
 
@@ -425,8 +425,8 @@ Regulation 60
 
 [^c2167301]: Marginal citation: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-2387ff42ec607531384995412df15b25]: Textual amendment: Words in Sch. 6 para. 12(1) substituted (28.4.2014) by [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2014/597/regulation/5/b/i)
+[^c-2387ff42ec607531384995412df15b25]: Textual amendment: Words in Sch. 6 para. 12(1) substituted (28.4.2014) by [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2014/597/regulation/5/b/i)
 
-[^key-9b0279aeaf8ea649a1035ec0ccda7c04]: Textual amendment: Sch. 6 para. 12(2)(3) omitted (28.4.2014) by virtue of [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2014/597/regulation/5/b/ii)
+[^c-9b0279aeaf8ea649a1035ec0ccda7c04]: Textual amendment: Sch. 6 para. 12(2)(3) omitted (28.4.2014) by virtue of [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2014/597/regulation/5/b/ii)
 
 [^c2167302]: Marginal citation: [S.I. 2007/1598](https://www.legislation.gov.uk/uksi/2007/1598).

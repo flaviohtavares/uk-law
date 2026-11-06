@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. General functions of Licensing Standards Officers[^key-772956fa06ea2e6ea8a0116329deed41]
+## 14. General functions of Licensing Standards Officers[^c-772956fa06ea2e6ea8a0116329deed41]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
   - (ii) occasional licences,
 
   in respect of premises in the area with the conditions of their licences and other requirements of this Act,
-- (ba)[^key-88cac52e157826aa5f0e5114ce2103d2] providing information to Licensing Boards about any conduct of holders of, or persons applying for, personal licences in the area, which is inconsistent with the licensing objectives,
+- (ba)[^c-88cac52e157826aa5f0e5114ce2103d2] providing information to Licensing Boards about any conduct of holders of, or persons applying for, personal licences in the area, which is inconsistent with the licensing objectives,
 - (c) providing mediation services for the purpose of avoiding or resolving disputes or disagreements between—
   - (i) the holders of the licences referred to in paragraph (b), and
   - (ii) any other persons,
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-772956fa06ea2e6ea8a0116329deed41]: Commencement: S. 14 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-772956fa06ea2e6ea8a0116329deed41]: Commencement: S. 14 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
 
-[^key-88cac52e157826aa5f0e5114ce2103d2]: Textual amendment: S. 14(1)(ba) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 57](https://www.legislation.gov.uk/asp/2015/10/section/57), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)
+[^c-88cac52e157826aa5f0e5114ce2103d2]: Textual amendment: S. 14(1)(ba) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 57](https://www.legislation.gov.uk/asp/2015/10/section/57), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)

@@ -32,7 +32,7 @@ summary: ''
 
 Sheriff Appeal Court
 
-The Sheriff Appeal Court Fees Order 2022 (revoked)[^key-9dd8858a1e99edf6a75d25f9382dcd6b]
+The Sheriff Appeal Court Fees Order 2022 (revoked)[^c-9dd8858a1e99edf6a75d25f9382dcd6b]
 
 Made
 
@@ -44,55 +44,55 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with article 1
 
-[^key-9dd8858a1e99edf6a75d25f9382dcd6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9dd8858a1e99edf6a75d25f9382dcd6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-9dd8858a1e99edf6a75d25f9382dcd6b]
+## 1. Citation, commencement and effect[^c-9dd8858a1e99edf6a75d25f9382dcd6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable in the Sheriff Appeal Court[^key-9dd8858a1e99edf6a75d25f9382dcd6b]
+## 2. Fees payable in the Sheriff Appeal Court[^c-9dd8858a1e99edf6a75d25f9382dcd6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption of certain persons from fees: legal aid[^key-9dd8858a1e99edf6a75d25f9382dcd6b]
+## 3. Exemption of certain persons from fees: legal aid[^c-9dd8858a1e99edf6a75d25f9382dcd6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemption of certain persons from fees: social security[^key-9dd8858a1e99edf6a75d25f9382dcd6b]
+## 4. Exemption of certain persons from fees: social security[^c-9dd8858a1e99edf6a75d25f9382dcd6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exemptions relating to particular proceedings[^key-9dd8858a1e99edf6a75d25f9382dcd6b]
+## 5. Exemptions relating to particular proceedings[^c-9dd8858a1e99edf6a75d25f9382dcd6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exemptions for applicants for certain interdicts and orders[^key-9dd8858a1e99edf6a75d25f9382dcd6b]
+## 6. Exemptions for applicants for certain interdicts and orders[^c-9dd8858a1e99edf6a75d25f9382dcd6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-9dd8858a1e99edf6a75d25f9382dcd6b]
+## 7. Revocation[^c-9dd8858a1e99edf6a75d25f9382dcd6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9dd8858a1e99edf6a75d25f9382dcd6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9dd8858a1e99edf6a75d25f9382dcd6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — TABLE OF FEES[^key-9dd8858a1e99edf6a75d25f9382dcd6b]
+## SCHEDULE 1 — TABLE OF FEES[^c-9dd8858a1e99edf6a75d25f9382dcd6b]
 
 Article 2(1)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — TABLE OF FEES[^key-9dd8858a1e99edf6a75d25f9382dcd6b]
+## SCHEDULE 2 — TABLE OF FEES[^c-9dd8858a1e99edf6a75d25f9382dcd6b]
 
 Article 2(1)(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — TABLE OF FEES[^key-9dd8858a1e99edf6a75d25f9382dcd6b]
+## SCHEDULE 3 — TABLE OF FEES[^c-9dd8858a1e99edf6a75d25f9382dcd6b]
 
 Article 2(1)(c)
 
@@ -100,8 +100,8 @@ Article 2(1)(c)
 
 **May not be in force at this date. Check the source.**
 
-[^key-9dd8858a1e99edf6a75d25f9382dcd6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9dd8858a1e99edf6a75d25f9382dcd6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9dd8858a1e99edf6a75d25f9382dcd6b]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2022/183) revoked (1.11.2024) by [The Sheriff Appeal Court Fees Order 2024 (S.S.I. 2024/236)](https://www.legislation.gov.uk/ssi/2024/236), [arts. 1](https://www.legislation.gov.uk/ssi/2024/236/article/1), [7](https://www.legislation.gov.uk/ssi/2024/236/article/7)
+[^c-9dd8858a1e99edf6a75d25f9382dcd6b]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2022/183) revoked (1.11.2024) by [The Sheriff Appeal Court Fees Order 2024 (S.S.I. 2024/236)](https://www.legislation.gov.uk/ssi/2024/236), [arts. 1](https://www.legislation.gov.uk/ssi/2024/236/article/1), [7](https://www.legislation.gov.uk/ssi/2024/236/article/7)

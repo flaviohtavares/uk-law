@@ -16,43 +16,43 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Convention[^key-53d250963eef3eae683958b1fd885866]
+## SCHEDULE 1 — Convention[^c-53d250963eef3eae683958b1fd885866]
 
 *Extent: E+W+S+N.I.*
 
 Section 1(2)
 
-[^key-53d250963eef3eae683958b1fd885866]The High Contracting Parties,
+[^c-53d250963eef3eae683958b1fd885866]The High Contracting Parties,
 
-[^key-53d250963eef3eae683958b1fd885866]**Recognizing** that cultural property has suffered grave damage during recent armed conflicts and that, by reason of the developments in the technique of warfare, it is in increasing danger of destruction;
+[^c-53d250963eef3eae683958b1fd885866]**Recognizing** that cultural property has suffered grave damage during recent armed conflicts and that, by reason of the developments in the technique of warfare, it is in increasing danger of destruction;
 
-[^key-53d250963eef3eae683958b1fd885866]**Being convinced** that damage to cultural property belonging to any people whatsoever means damage to the cultural heritage of all mankind, since each people makes its contribution to the culture of the world;
+[^c-53d250963eef3eae683958b1fd885866]**Being convinced** that damage to cultural property belonging to any people whatsoever means damage to the cultural heritage of all mankind, since each people makes its contribution to the culture of the world;
 
-[^key-53d250963eef3eae683958b1fd885866]**Considering** that the preservation of the cultural heritage is of great importance for all peoples of the world and that it is important that this heritage should receive international protection;
+[^c-53d250963eef3eae683958b1fd885866]**Considering** that the preservation of the cultural heritage is of great importance for all peoples of the world and that it is important that this heritage should receive international protection;
 
-[^key-53d250963eef3eae683958b1fd885866]**Guided** by the principles concerning the protection of cultural property during armed conflict, as established in the Conventions of The Hague of 1899 and of 1907 and in the Washington Pact of 15 April, 1935;
+[^c-53d250963eef3eae683958b1fd885866]**Guided** by the principles concerning the protection of cultural property during armed conflict, as established in the Conventions of The Hague of 1899 and of 1907 and in the Washington Pact of 15 April, 1935;
 
-[^key-53d250963eef3eae683958b1fd885866]**Being of the opinion** that such protection cannot be effective unless both national and international measures have been taken to organize it in time of peace;
+[^c-53d250963eef3eae683958b1fd885866]**Being of the opinion** that such protection cannot be effective unless both national and international measures have been taken to organize it in time of peace;
 
-[^key-53d250963eef3eae683958b1fd885866]**Being determined** to take all possible steps to protect cultural property;
+[^c-53d250963eef3eae683958b1fd885866]**Being determined** to take all possible steps to protect cultural property;
 
-[^key-53d250963eef3eae683958b1fd885866]Have agreed upon the following provisions:
+[^c-53d250963eef3eae683958b1fd885866]Have agreed upon the following provisions:
 
-[^key-53d250963eef3eae683958b1fd885866]The High Contracting Parties,
+[^c-53d250963eef3eae683958b1fd885866]The High Contracting Parties,
 
-[^key-53d250963eef3eae683958b1fd885866]**Recognizing** that cultural property has suffered grave damage during recent armed conflicts and that, by reason of the developments in the technique of warfare, it is in increasing danger of destruction;
+[^c-53d250963eef3eae683958b1fd885866]**Recognizing** that cultural property has suffered grave damage during recent armed conflicts and that, by reason of the developments in the technique of warfare, it is in increasing danger of destruction;
 
-[^key-53d250963eef3eae683958b1fd885866]**Being convinced** that damage to cultural property belonging to any people whatsoever means damage to the cultural heritage of all mankind, since each people makes its contribution to the culture of the world;
+[^c-53d250963eef3eae683958b1fd885866]**Being convinced** that damage to cultural property belonging to any people whatsoever means damage to the cultural heritage of all mankind, since each people makes its contribution to the culture of the world;
 
-[^key-53d250963eef3eae683958b1fd885866]**Considering** that the preservation of the cultural heritage is of great importance for all peoples of the world and that it is important that this heritage should receive international protection;
+[^c-53d250963eef3eae683958b1fd885866]**Considering** that the preservation of the cultural heritage is of great importance for all peoples of the world and that it is important that this heritage should receive international protection;
 
-[^key-53d250963eef3eae683958b1fd885866]**Guided** by the principles concerning the protection of cultural property during armed conflict, as established in the Conventions of The Hague of 1899 and of 1907 and in the Washington Pact of 15 April, 1935;
+[^c-53d250963eef3eae683958b1fd885866]**Guided** by the principles concerning the protection of cultural property during armed conflict, as established in the Conventions of The Hague of 1899 and of 1907 and in the Washington Pact of 15 April, 1935;
 
-[^key-53d250963eef3eae683958b1fd885866]**Being of the opinion** that such protection cannot be effective unless both national and international measures have been taken to organize it in time of peace;
+[^c-53d250963eef3eae683958b1fd885866]**Being of the opinion** that such protection cannot be effective unless both national and international measures have been taken to organize it in time of peace;
 
-[^key-53d250963eef3eae683958b1fd885866]**Being determined** to take all possible steps to protect cultural property;
+[^c-53d250963eef3eae683958b1fd885866]**Being determined** to take all possible steps to protect cultural property;
 
-[^key-53d250963eef3eae683958b1fd885866]Have agreed upon the following provisions:
+[^c-53d250963eef3eae683958b1fd885866]Have agreed upon the following provisions:
 
 #### Chapter I. — General provisions regarding protection
 
@@ -355,4 +355,4 @@ In accordance with Article 102 of the Charter of the United Nations, the present
 
 ## Annotations
 
-[^key-53d250963eef3eae683958b1fd885866]: Commencement: Sch. 1 in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-53d250963eef3eae683958b1fd885866]: Commencement: Sch. 1 in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

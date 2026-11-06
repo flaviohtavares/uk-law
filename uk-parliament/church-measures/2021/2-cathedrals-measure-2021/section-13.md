@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1) If the office of dean of a cathedral is vacant or the dean is unable to discharge functions because of illness, absence or any other reason, the bishop must appoint a residentiary canon, or another clerk in Holy Orders, who is qualified to hold the office of dean to carry out the functions concerned during the period concerned (and the reference to a residentiary canon does not, accordingly, include a reference to a lay residentiary canon)[^key-0418fc3e6411a0aa37dc4b41a03443db].
+(1) If the office of dean of a cathedral is vacant or the dean is unable to discharge functions because of illness, absence or any other reason, the bishop must appoint a residentiary canon, or another clerk in Holy Orders, who is qualified to hold the office of dean to carry out the functions concerned during the period concerned (and the reference to a residentiary canon does not, accordingly, include a reference to a lay residentiary canon)[^c-0418fc3e6411a0aa37dc4b41a03443db].
 
 (2) An appointment under subsection (1) is to be on such terms and for such period as the bishop may determine; and, accordingly, in section 1 of the Ecclesiastical Offices (Terms of Service) Measure 2009 (common tenure), in subsection (1)(d), after “office in a cathedral” insert “ other than the office under section 13(1) of the Cathedrals Measure 2021 (interim dean) ”.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0418fc3e6411a0aa37dc4b41a03443db]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/13/1) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/19)
+[^c-0418fc3e6411a0aa37dc4b41a03443db]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/13/1) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/19)

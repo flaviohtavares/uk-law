@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.194. Application for order[^key-abf7d8095a1f15142e28d26d9d8383cd]
+## 6.194. Application for order[^c-abf7d8095a1f15142e28d26d9d8383cd]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ A copy of the statement shall be sent forthwith to the applicant.
 
 ## Annotations
 
-[^key-abf7d8095a1f15142e28d26d9d8383cd]: Commencement: [Rule 6.194](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.194) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-abf7d8095a1f15142e28d26d9d8383cd]: Commencement: [Rule 6.194](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.194) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

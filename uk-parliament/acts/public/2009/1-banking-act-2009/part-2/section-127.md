@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Insolvency Services Account[^key-bc01bd7b13e2dc241fb4494f3c9c22c6]
+## 127. Insolvency Services Account[^c-bc01bd7b13e2dc241fb4494f3c9c22c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A bank liquidator who obtains money by realising assets in the course of the ban
 
 ## Annotations
 
-[^key-bc01bd7b13e2dc241fb4494f3c9c22c6]: Commencement: S. 127 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-bc01bd7b13e2dc241fb4494f3c9c22c6]: Commencement: S. 127 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)

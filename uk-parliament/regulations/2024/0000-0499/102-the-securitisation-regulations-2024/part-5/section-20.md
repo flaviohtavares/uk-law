@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Notification of decision[^key-9c6d97560d27f6ca90164d8acb6200c0]
+## 20. Notification of decision[^c-9c6d97560d27f6ca90164d8acb6200c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ the FCA must give the applicant or securitisation repository a written notice.
 
 ## Annotations
 
-[^key-9c6d97560d27f6ca90164d8acb6200c0]: Commencement: Reg. 20 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-9c6d97560d27f6ca90164d8acb6200c0]: Commencement: Reg. 20 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Calculation and payment of contributions[^c19558171][^key-c943ae7e7c0c1681f8aba0e7b00c98cd]
+## 38. Calculation and payment of contributions[^c19558171][^c-c943ae7e7c0c1681f8aba0e7b00c98cd]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 [^c19558171]: Commencement: S. 38 partly in force; s. 38 in force for certain purposes at Royal Assent see s. 118(2)
 
-[^key-c943ae7e7c0c1681f8aba0e7b00c98cd]: Commencement: S. 38 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
+[^c-c943ae7e7c0c1681f8aba0e7b00c98cd]: Commencement: S. 38 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)

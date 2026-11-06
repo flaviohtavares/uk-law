@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 312. Liens[^key-5fd77761d42dc6478cbaeb263f5cd00a]
+## 312. Liens[^c-5fd77761d42dc6478cbaeb263f5cd00a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ If a person claims a lien on a document, its production under any provision made
 
 ## Annotations
 
-[^key-5fd77761d42dc6478cbaeb263f5cd00a]: Commencement: [S. 312](https://www.legislation.gov.uk/ukpga/2004/35/section/312) in force at 1.9.2005 by [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/1)
+[^c-5fd77761d42dc6478cbaeb263f5cd00a]: Commencement: [S. 312](https://www.legislation.gov.uk/ukpga/2004/35/section/312) in force at 1.9.2005 by [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 18 — DECLARATION OF CONFORMITY[^key-b59e9d18d4b895b0c2310b4942ad29c5]
+## SCHEDULE 18 — DECLARATION OF CONFORMITY[^c-b59e9d18d4b895b0c2310b4942ad29c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ Signed for and on behalf of: (place and date of issue): (name, function) (signat
 
 ## Annotations
 
-[^key-b59e9d18d4b895b0c2310b4942ad29c5]: Textual amendment: [Schs. 17, 18](https://www.legislation.gov.uk/uksi/2014/1638/schedule/17) inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 16 para. 35](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/35) (with [Sch. 16 para. 29](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/29)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b59e9d18d4b895b0c2310b4942ad29c5]: Textual amendment: [Schs. 17, 18](https://www.legislation.gov.uk/uksi/2014/1638/schedule/17) inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 16 para. 35](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/35) (with [Sch. 16 para. 29](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/29)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

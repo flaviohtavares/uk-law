@@ -32,7 +32,7 @@ summary: ''
 
 SEEDS, ENGLAND
 
-The Beet Seed (England) (Amendment) Regulations 2005 (revoked)[^key-1b07595c463316a299367a305c5f9591]
+The Beet Seed (England) (Amendment) Regulations 2005 (revoked)[^c-1b07595c463316a299367a305c5f9591]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 26th October 2005
 
-[^key-1b07595c463316a299367a305c5f9591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b07595c463316a299367a305c5f9591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-1b07595c463316a299367a305c5f9591]
+## 1. Title and commencement[^c-1b07595c463316a299367a305c5f9591]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Beet Seed (England) Regulations 2002[^key-1b07595c463316a299367a305c5f9591]
+## 2. Amendment of the Beet Seed (England) Regulations 2002[^c-1b07595c463316a299367a305c5f9591]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b07595c463316a299367a305c5f9591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b07595c463316a299367a305c5f9591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1b07595c463316a299367a305c5f9591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b07595c463316a299367a305c5f9591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b07595c463316a299367a305c5f9591]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(n)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/n)
+[^c-1b07595c463316a299367a305c5f9591]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(n)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/n)

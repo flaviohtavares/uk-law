@@ -65,7 +65,7 @@ This Order may be cited as the Electoral Law (Northern Ireland) Order 1972 … *
 
 *Art. 8 amends schs. 4, 5, 10 of 1962 c. 14 (NI)*
 
-## 9. Conduct of elections[^key-731ac48b231ae42fd091c4ceebe15132]
+## 9. Conduct of elections[^c-731ac48b231ae42fd091c4ceebe15132]
 
 (1) The Chief Electoral Officer shall be the returning officer for all elections to district councils and for all elections held on or after 1st April 1973 to the \[[^c5456651] Assembly\].
 
@@ -135,7 +135,7 @@ but a polling station scheme approved under section 65 of the principal Act as a
 
 [^c5456641]: Textual amendment: SI 1973/2163
 
-[^key-731ac48b231ae42fd091c4ceebe15132]: Modification: [Art. 9](https://www.legislation.gov.uk/nisi/1972/1264/article/9) applied (with modifications) (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2013/3156/article/5/3)
+[^c-731ac48b231ae42fd091c4ceebe15132]: Modification: [Art. 9](https://www.legislation.gov.uk/nisi/1972/1264/article/9) applied (with modifications) (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2013/3156/article/5/3)
 
 [^c5456651]: Textual amendment: SI 1973/2163
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Amendment of the Feeding Stuffs Regulations (Northern Ireland) 2005[^key-47fdc0074e5b67c0462cb21e48f37d7b]
+## 66. Amendment of the Feeding Stuffs Regulations (Northern Ireland) 2005[^c-47fdc0074e5b67c0462cb21e48f37d7b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47fdc0074e5b67c0462cb21e48f37d7b]: Textual amendment: [Reg. 66](https://www.legislation.gov.uk/nisr/2011/127/regulation/66) revoked (30.11.2013) by [The Waste (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/241)](https://www.legislation.gov.uk/nisr/2013/241), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/241/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2013/241/regulation/6)
+[^c-47fdc0074e5b67c0462cb21e48f37d7b]: Textual amendment: [Reg. 66](https://www.legislation.gov.uk/nisr/2011/127/regulation/66) revoked (30.11.2013) by [The Waste (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/241)](https://www.legislation.gov.uk/nisr/2013/241), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/241/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2013/241/regulation/6)

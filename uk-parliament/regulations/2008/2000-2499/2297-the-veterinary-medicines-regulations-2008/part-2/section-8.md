@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 8. Administration of the product[^key-c0458e053c8163c87ad0cb6da7d5ed5d]
+## 8. Administration of the product[^c-c0458e053c8163c87ad0cb6da7d5ed5d]
 
 *Extent: E+W+S+NI*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0458e053c8163c87ad0cb6da7d5ed5d]: Textual amendment: Regulations revoked (except reg. 45(2)) (1.10.2009) by [The Veterinary Medicines Regulations 2009 (S.I. 2009/2297)](https://www.legislation.gov.uk/uksi/2009/2297), regs. 1, [45](https://www.legislation.gov.uk/uksi/2009/2297/regulation/45) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2297/regulation/3))
+[^c-c0458e053c8163c87ad0cb6da7d5ed5d]: Textual amendment: Regulations revoked (except reg. 45(2)) (1.10.2009) by [The Veterinary Medicines Regulations 2009 (S.I. 2009/2297)](https://www.legislation.gov.uk/uksi/2009/2297), regs. 1, [45](https://www.legislation.gov.uk/uksi/2009/2297/regulation/45) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2297/regulation/3))

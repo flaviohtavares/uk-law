@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.6. Use of witness statements for other purposes[^key-a368865b81dc53d0b100bc1eecb74055]
+## 33.6. Use of witness statements for other purposes[^c-a368865b81dc53d0b100bc1eecb74055]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a368865b81dc53d0b100bc1eecb74055]: Commencement: [Rule 33.6](https://www.legislation.gov.uk/uksi/2025/909/rule/33.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a368865b81dc53d0b100bc1eecb74055]: Commencement: [Rule 33.6](https://www.legislation.gov.uk/uksi/2025/909/rule/33.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

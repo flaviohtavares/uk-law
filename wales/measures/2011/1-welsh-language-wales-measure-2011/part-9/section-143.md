@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 143. Abolition of Board and transfer of functions[^key-0cb4f2dbd864619251e1b76f84371c6b]
+## 143. Abolition of Board and transfer of functions[^c-0cb4f2dbd864619251e1b76f84371c6b]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cb4f2dbd864619251e1b76f84371c6b]: Commencement: [S. 143](https://www.legislation.gov.uk/mwa/2011/1/section/143) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
+[^c-0cb4f2dbd864619251e1b76f84371c6b]: Commencement: [S. 143](https://www.legislation.gov.uk/mwa/2011/1/section/143) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)

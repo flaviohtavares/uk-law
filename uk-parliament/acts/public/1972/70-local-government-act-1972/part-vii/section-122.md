@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 122. Appropriation of land by principal councils.[^c15107751][^key-314756c87c0b2fa759a3283dec983a95][^key-4b6ff0b3878b405f55f29e4b717dffdd]
+## 122. Appropriation of land by principal councils.[^c15107751][^c-314756c87c0b2fa759a3283dec983a95][^c-4b6ff0b3878b405f55f29e4b717dffdd]
 
 *Extent: E+W*
 
@@ -48,9 +48,9 @@ the land shall by virtue of the appropriation be freed from any trust arising so
 
 [^c15107751]: Modification: S. 122 extended (with modifications) (19.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 65(7)](https://www.legislation.gov.uk/ukpga/1995/25/section/65/7), [125(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/2), [Sch. 8 para. 1(1)(a)(4)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/1/1/a/4) (with [ss.7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7))
 
-[^key-314756c87c0b2fa759a3283dec983a95]: Modification: Ss. 120-123 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
+[^c-314756c87c0b2fa759a3283dec983a95]: Modification: Ss. 120-123 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
 
-[^key-4b6ff0b3878b405f55f29e4b717dffdd]: Modification: Ss. 120-123 applied (with modifications) (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/558/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/558/schedule/1)
+[^c-4b6ff0b3878b405f55f29e4b717dffdd]: Modification: Ss. 120-123 applied (with modifications) (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/558/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/558/schedule/1)
 
 [^c15107761]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 28(1)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/28/1)
 

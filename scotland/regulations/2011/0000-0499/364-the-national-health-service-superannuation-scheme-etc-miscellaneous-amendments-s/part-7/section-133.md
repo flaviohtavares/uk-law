@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 133. Option to persons detrimentally affected by these Regulations[^key-dd7a0aabb9ce1be5423ff803831dbe34]
+## 133. Option to persons detrimentally affected by these Regulations[^c-dd7a0aabb9ce1be5423ff803831dbe34]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd7a0aabb9ce1be5423ff803831dbe34]: Commencement: [Reg. 133](https://www.legislation.gov.uk/ssi/2011/364/regulation/133) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-dd7a0aabb9ce1be5423ff803831dbe34]: Commencement: [Reg. 133](https://www.legislation.gov.uk/ssi/2011/364/regulation/133) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Court to inform council of convictions[^key-45da84b73bed64114d8e1481a1600d52]
+## 77. Court to inform council of convictions[^c-45da84b73bed64114d8e1481a1600d52]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45da84b73bed64114d8e1481a1600d52]: Commencement: [S. 77](https://www.legislation.gov.uk/nia/2016/22/section/77) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-45da84b73bed64114d8e1481a1600d52]: Commencement: [S. 77](https://www.legislation.gov.uk/nia/2016/22/section/77) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

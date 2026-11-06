@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.128. Other matters affecting remuneration[^key-9bb7a7f03235ed12d96a84f8bc597c18]
+## 4.128. Other matters affecting remuneration[^c-9bb7a7f03235ed12d96a84f8bc597c18]
 
 *Extent: E+W*
 
-(1)[^key-cfbb1fbb713100d998da5777f26ed91a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-cfbb1fbb713100d998da5777f26ed91a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where there are joint liquidators, it is for them to agree between themselves as to how the remuneration payable should be apportioned. Any dispute arising between them may be referred—
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9bb7a7f03235ed12d96a84f8bc597c18]: Commencement: [Rule 4.128](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.128) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-9bb7a7f03235ed12d96a84f8bc597c18]: Commencement: [Rule 4.128](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.128) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-cfbb1fbb713100d998da5777f26ed91a]: Textual amendment: Rule 4.128(1) omitted (1.4.2004) by virtue of [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [16](https://www.legislation.gov.uk/uksi/2004/584/article/16) (with [rule 3](https://www.legislation.gov.uk/uksi/2004/584/article/3))
+[^c-cfbb1fbb713100d998da5777f26ed91a]: Textual amendment: Rule 4.128(1) omitted (1.4.2004) by virtue of [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [16](https://www.legislation.gov.uk/uksi/2004/584/article/16) (with [rule 3](https://www.legislation.gov.uk/uksi/2004/584/article/3))

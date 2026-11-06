@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 315. Application of relevant pensions legislation[^key-9ed89f1ffb9d5d7fc7256e3cab3eb8f9]
+## 315. Application of relevant pensions legislation[^c-9ed89f1ffb9d5d7fc7256e3cab3eb8f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ as the Secretary of State considers appropriate for the purposes of or in connec
 
 ## Annotations
 
-[^key-9ed89f1ffb9d5d7fc7256e3cab3eb8f9]: Commencement: S. 315 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-9ed89f1ffb9d5d7fc7256e3cab3eb8f9]: Commencement: S. 315 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

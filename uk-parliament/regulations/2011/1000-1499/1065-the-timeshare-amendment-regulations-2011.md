@@ -54,7 +54,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (2) They come into force on 28th April 2011.
 
-## 2. Amendments to the Criminal Justice and Police Act 2001[^key-8734d52c41f8b24472b05c38d44ae642]
+## 2. Amendments to the Criminal Justice and Police Act 2001[^c-8734d52c41f8b24472b05c38d44ae642]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -88,6 +88,6 @@ An impact assessment has not been prepared for these Regulations since they have
 
 [^c20825791]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-8734d52c41f8b24472b05c38d44ae642]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/1065/regulation/2) revoked (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(l)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/l); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-8734d52c41f8b24472b05c38d44ae642]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/1065/regulation/2) revoked (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(l)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/l); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
 [^c20825841]: Marginal citation: [S.I. 1983/1553](https://www.legislation.gov.uk/uksi/1983/1553); relevant amending instruments are [S.I. 2004/1482](https://www.legislation.gov.uk/uksi/2004/1482) and [S.I. 2010/2960](https://www.legislation.gov.uk/uksi/2010/2960).

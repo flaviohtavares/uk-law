@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 344. Meaning of “sexual harm”[^key-6f734cf02489016554a6b8c67d55e38b]
+## 344. Meaning of “sexual harm”[^c-6f734cf02489016554a6b8c67d55e38b]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ that condition is to be disregarded in determining for the purposes of subsectio
 
 ## Annotations
 
-[^key-6f734cf02489016554a6b8c67d55e38b]: Commencement: [S. 344](https://www.legislation.gov.uk/ukpga/2020/17/section/344) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6f734cf02489016554a6b8c67d55e38b]: Commencement: [S. 344](https://www.legislation.gov.uk/ukpga/2020/17/section/344) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

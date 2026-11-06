@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38A. Inspection, entry, search and seizure[^key-6ea622d605dd14bccd1e63a12d6c57ca]
+## 38A. Inspection, entry, search and seizure[^c-6ea622d605dd14bccd1e63a12d6c57ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ea622d605dd14bccd1e63a12d6c57ca]: Textual amendment: [S. 38A](https://www.legislation.gov.uk/ukpga/1990/37/section/38A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2008/22/section/28/1), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(n)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/n)
+[^c-6ea622d605dd14bccd1e63a12d6c57ca]: Textual amendment: [S. 38A](https://www.legislation.gov.uk/ukpga/1990/37/section/38A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2008/22/section/28/1), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(n)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/n)

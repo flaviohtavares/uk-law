@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16A. Qualifying additional pension arrangements[^key-95be8457472c486241f2ddb194288fd5]
+## 16A. Qualifying additional pension arrangements[^c-95be8457472c486241f2ddb194288fd5]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95be8457472c486241f2ddb194288fd5]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2013/2356/regulation/16A) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [8(1)](https://www.legislation.gov.uk/uksi/2026/226/regulation/8/1) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2026/226/regulation/8/2))
+[^c-95be8457472c486241f2ddb194288fd5]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2013/2356/regulation/16A) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [8(1)](https://www.legislation.gov.uk/uksi/2026/226/regulation/8/1) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2026/226/regulation/8/2))

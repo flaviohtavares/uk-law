@@ -22,7 +22,7 @@ summary: ''
 
 In this Part—
 
-- “the[^key-f7d745161b35855201213036d0fddd0e] EU Tachographs Regulation” means Regulation (EU) No. 165/2014 of the European Parliament and of the Council of 4 February 2014 on tachographs in road transport, as read with the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009;
+- “the[^c-f7d745161b35855201213036d0fddd0e] EU Tachographs Regulation” means Regulation (EU) No. 165/2014 of the European Parliament and of the Council of 4 February 2014 on tachographs in road transport, as read with the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009;
 - “construction and use requirements” means requirements, whether applicable generally or at specified times or in specified circumstances, imposed under Article 55;
 - “examination for plating” has the meaning given in Article 65(4);
 - “goods vehicle test” has the meaning given in Article 65(4);
@@ -38,4 +38,4 @@ In this Part—
 
 ## Annotations
 
-[^key-f7d745161b35855201213036d0fddd0e]: Textual amendment: Words in [art. 53](https://www.legislation.gov.uk/nisi/1995/2994/article/53) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/343/regulation/2/2)
+[^c-f7d745161b35855201213036d0fddd0e]: Textual amendment: Words in [art. 53](https://www.legislation.gov.uk/nisi/1995/2994/article/53) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/343/regulation/2/2)

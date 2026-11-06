@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Meaning of “interim compulsory supervision order”[^key-b2cbf3c9d790c506ddeae28f044bd6d1]
+## 86. Meaning of “interim compulsory supervision order”[^c-b2cbf3c9d790c506ddeae28f044bd6d1]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2cbf3c9d790c506ddeae28f044bd6d1]: Commencement: S. 86 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-b2cbf3c9d790c506ddeae28f044bd6d1]: Commencement: S. 86 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

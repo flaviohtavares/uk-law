@@ -44,13 +44,13 @@ Coming into force
 
 1st April 2016
 
-The Secretary of State for Energy and Climate Change makes the following Regulations in exercise of the powers conferred by sections 42(1) and 53(1) of, and paragraphs 1, 3 and 5 to 7 of Schedule 7 to, the Infrastructure Act 2015[^f00001].[^key-5329c19c91913a5571b00d1e85619bb1]
+The Secretary of State for Energy and Climate Change makes the following Regulations in exercise of the powers conferred by sections 42(1) and 53(1) of, and paragraphs 1, 3 and 5 to 7 of Schedule 7 to, the Infrastructure Act 2015[^f00001].[^c-5329c19c91913a5571b00d1e85619bb1]
 
-## 1. Citation and commencement[^key-34c0332f3f3ad8e77e0dca7ea2fb25f2]
+## 1. Citation and commencement[^c-34c0332f3f3ad8e77e0dca7ea2fb25f2]
 
 These Regulations may be cited as the Oil and Gas Authority (Levy) Regulations 2016 and come into force on 1st April 2016.
 
-## 2. Interpretation[^key-25cc9fba330ffde7252496ce3474bf15]
+## 2. Interpretation[^c-25cc9fba330ffde7252496ce3474bf15]
 
 In these Regulations—
 
@@ -66,7 +66,7 @@ In these Regulations—
   - (a) section 2 of the Petroleum (Production) Act 1934[^f00004] (licences to search for and get petroleum), or
   - (b) section 3 of the Petroleum Act 1998[^f00005] (licences to search and bore for and get petroleum).
 
-## 3. Liability to pay the levy[^key-3fc39ac601b94aaf80e81b3a8ec5f361]
+## 3. Liability to pay the levy[^c-3fc39ac601b94aaf80e81b3a8ec5f361]
 
 (1) Except where paragraph (2) applies, for each offshore production licence which a licensee holds at the relevant time, the licensee is liable to pay, in respect of the charging period, a levy of £6,808.65.
 
@@ -83,7 +83,7 @@ the licensee is liable to pay, in respect of the charging period, a levy of £64
 
 (4) For the purpose of this regulation the “relevant time” means 12.01a.m. on 1st April 2016.
 
-## 4. Payment of the levy[^key-2a154d04c4d364e986ccf9d5989ebd3a][^key-f897711123a24867fb9d8cdeb9dda2ac]
+## 4. Payment of the levy[^c-2a154d04c4d364e986ccf9d5989ebd3a][^c-f897711123a24867fb9d8cdeb9dda2ac]
 
 Where a licensee of an offshore licence is liable to pay a levy to the Secretary of State in accordance with regulation 3, the Secretary of State must notify that licensee in writing of—
 
@@ -91,7 +91,7 @@ Where a licensee of an offshore licence is liable to pay a levy to the Secretary
 - (b) the date by which the amount is required to be paid; and
 - (c) details of how the payment can be made.
 
-## 5. Interest payable on late payment of the levy[^key-9c25adfb5832ffb7f4b834e6b5fa4b43][^key-0f80ade3c1523ec92b236a83af1a2134]
+## 5. Interest payable on late payment of the levy[^c-9c25adfb5832ffb7f4b834e6b5fa4b43][^c-0f80ade3c1523ec92b236a83af1a2134]
 
 (1) Where any amount of the levy notified to the licensee of an offshore licence is not paid in accordance with the notification under regulation 4, the licensee is liable to pay to the Secretary of State interest, calculated in accordance with paragraph (2), on the amount of the levy which remains unpaid.
 
@@ -102,13 +102,13 @@ Where a licensee of an offshore licence is liable to pay a levy to the Secretary
 - (a) the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets; or
 - (b) where an order under section 19 of the Bank of England Act 1998[^f00006] (reserve powers) is in force, any equivalent rate determined by the Treasury under that section.
 
-## 6. Recovery of the levy[^key-ef04d4ab84f25bc73152b01bdec54363]
+## 6. Recovery of the levy[^c-ef04d4ab84f25bc73152b01bdec54363]
 
 (1) Where any amount of the levy notified to the licensee of an offshore licence is not paid in accordance with the notification under regulation 4, that unpaid amount together with any interest due in accordance with regulation 5 is recoverable as a civil debt due to the Secretary of State.
 
 (2) Where a licensee of an offshore licence is more than one person, the liability to pay the levy is joint and several.
 
-## 7. Repayment or credit of the levy[^key-bfc417399209b5e669676c22a4066135]
+## 7. Repayment or credit of the levy[^c-bfc417399209b5e669676c22a4066135]
 
 (1) This regulation applies where the total amount of the levy to be paid by virtue of the 2015 Regulations in respect of the period beginning on 1st October 2015 and ending on 31st March 2016 exceeds the costs incurred by the Secretary of State in exercising the relevant functions referred to in section 42(3)(a) of the Infrastructure Act 2015[^f00007] in respect of that period.
 
@@ -162,11 +162,11 @@ An impact assessment has not been produced for this instrument since a full impa
 
 [^f00001]: Footnote: [2015 c. 7](https://www.legislation.gov.uk/ukpga/2015/7).
 
-[^key-5329c19c91913a5571b00d1e85619bb1]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2016/318) modified (1.10.2016) by [The Energy Act 2016 (Commencement No. 2 and Transitional Provisions) Regulations 2016 (S.I. 2016/920)](https://www.legislation.gov.uk/uksi/2016/920), [reg. 3](https://www.legislation.gov.uk/uksi/2016/920/regulation/3)
+[^c-5329c19c91913a5571b00d1e85619bb1]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2016/318) modified (1.10.2016) by [The Energy Act 2016 (Commencement No. 2 and Transitional Provisions) Regulations 2016 (S.I. 2016/920)](https://www.legislation.gov.uk/uksi/2016/920), [reg. 3](https://www.legislation.gov.uk/uksi/2016/920/regulation/3)
 
-[^key-34c0332f3f3ad8e77e0dca7ea2fb25f2]: Commencement: Reg. 1 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/318/regulation/1)
+[^c-34c0332f3f3ad8e77e0dca7ea2fb25f2]: Commencement: Reg. 1 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/318/regulation/1)
 
-[^key-25cc9fba330ffde7252496ce3474bf15]: Commencement: Reg. 2 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/318/regulation/1)
+[^c-25cc9fba330ffde7252496ce3474bf15]: Commencement: Reg. 2 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/318/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2009/2814](https://www.legislation.gov.uk/uksi/2009/2814).
 
@@ -176,21 +176,21 @@ An impact assessment has not been produced for this instrument since a full impa
 
 [^f00005]: Footnote: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
 
-[^key-3fc39ac601b94aaf80e81b3a8ec5f361]: Commencement: Reg. 3 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/318/regulation/1)
+[^c-3fc39ac601b94aaf80e81b3a8ec5f361]: Commencement: Reg. 3 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/318/regulation/1)
 
-[^key-2a154d04c4d364e986ccf9d5989ebd3a]: Commencement: Reg. 4 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/318/regulation/1)
+[^c-2a154d04c4d364e986ccf9d5989ebd3a]: Commencement: Reg. 4 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/318/regulation/1)
 
-[^key-f897711123a24867fb9d8cdeb9dda2ac]: Modification: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/318/regulation/4) modified (1.4.2017) by [The Oil and Gas Authority (Levy) Regulations 2017 (S.I. 2017/323)](https://www.legislation.gov.uk/uksi/2017/323), [regs. 1](https://www.legislation.gov.uk/uksi/2017/323/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2017/323/regulation/7/4)
+[^c-f897711123a24867fb9d8cdeb9dda2ac]: Modification: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/318/regulation/4) modified (1.4.2017) by [The Oil and Gas Authority (Levy) Regulations 2017 (S.I. 2017/323)](https://www.legislation.gov.uk/uksi/2017/323), [regs. 1](https://www.legislation.gov.uk/uksi/2017/323/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2017/323/regulation/7/4)
 
-[^key-9c25adfb5832ffb7f4b834e6b5fa4b43]: Commencement: Reg. 5 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/318/regulation/1)
+[^c-9c25adfb5832ffb7f4b834e6b5fa4b43]: Commencement: Reg. 5 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/318/regulation/1)
 
-[^key-0f80ade3c1523ec92b236a83af1a2134]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/318/regulation/5) modified (1.4.2017) by [The Oil and Gas Authority (Levy) Regulations 2017 (S.I. 2017/323)](https://www.legislation.gov.uk/uksi/2017/323), [regs. 1](https://www.legislation.gov.uk/uksi/2017/323/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2017/323/regulation/7/4)
+[^c-0f80ade3c1523ec92b236a83af1a2134]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/318/regulation/5) modified (1.4.2017) by [The Oil and Gas Authority (Levy) Regulations 2017 (S.I. 2017/323)](https://www.legislation.gov.uk/uksi/2017/323), [regs. 1](https://www.legislation.gov.uk/uksi/2017/323/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2017/323/regulation/7/4)
 
 [^f00006]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-ef04d4ab84f25bc73152b01bdec54363]: Commencement: Reg. 6 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/318/regulation/1)
+[^c-ef04d4ab84f25bc73152b01bdec54363]: Commencement: Reg. 6 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/318/regulation/1)
 
-[^key-bfc417399209b5e669676c22a4066135]: Commencement: Reg. 7 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/318/regulation/1)
+[^c-bfc417399209b5e669676c22a4066135]: Commencement: Reg. 7 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/318/regulation/1)
 
 [^f00007]: Footnote: [2015 c. 7](https://www.legislation.gov.uk/ukpga/2015/7).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58D. Financial penalty for conduct risking accrued scheme benefits[^key-2613425be09f508798235d85caf2ade0]
+## 58D. Financial penalty for conduct risking accrued scheme benefits[^c-2613425be09f508798235d85caf2ade0]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ the series of acts or failures to act is to be regarded as an act or failure to 
 
 ## Annotations
 
-[^key-2613425be09f508798235d85caf2ade0]: Textual amendment: [Ss. 58C](https://www.legislation.gov.uk/ukpga/2004/35/section/58C), [58D](https://www.legislation.gov.uk/ukpga/2004/35/section/58D) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 107(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/107/3), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(d)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/d) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(4)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/4))
+[^c-2613425be09f508798235d85caf2ade0]: Textual amendment: [Ss. 58C](https://www.legislation.gov.uk/ukpga/2004/35/section/58C), [58D](https://www.legislation.gov.uk/ukpga/2004/35/section/58D) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 107(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/107/3), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(d)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/d) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(4)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/4))

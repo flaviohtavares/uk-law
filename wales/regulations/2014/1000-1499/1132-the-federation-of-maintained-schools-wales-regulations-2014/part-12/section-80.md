@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Procedure for a school to leave a local authority federation[^key-8a84043bbee3fa2011b0e3e502fb408a]
+## 80. Procedure for a school to leave a local authority federation[^c-8a84043bbee3fa2011b0e3e502fb408a]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a84043bbee3fa2011b0e3e502fb408a]: Commencement: Reg. 80 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-8a84043bbee3fa2011b0e3e502fb408a]: Commencement: Reg. 80 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00039]: Footnote: Within the meaning of section 532 of the 1996 Act.

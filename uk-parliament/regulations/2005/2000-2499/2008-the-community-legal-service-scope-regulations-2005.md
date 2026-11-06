@@ -42,22 +42,22 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred upon the Lord Chancellor by sections 6(7) and 26 of the Access to Justice Act 1999[^f00001] and now vested in him[^f00002], makes the following Regulations a draft of which has been laid before and approved by resolution of each House of Parliament:
 
-**1.**[^key-91e5075454ed0a0faae448e20bb36b42] These Regulations may be cited as the Community Legal Service (Scope) Regulations 2005 and shall come into force on 25th July 2005.
+**1.**[^c-91e5075454ed0a0faae448e20bb36b42] These Regulations may be cited as the Community Legal Service (Scope) Regulations 2005 and shall come into force on 25th July 2005.
 
-**2.**[^key-4542fa09b57ca44158e9e5cf981bbf80] In paragraph 1 of Schedule 2 to the Access to Justice Act 1999[^f00003], for sub-paragraph (a) substitute—
+**2.**[^c-4542fa09b57ca44158e9e5cf981bbf80] In paragraph 1 of Schedule 2 to the Access to Justice Act 1999[^f00003], for sub-paragraph (a) substitute—
 
 > - (a) allegations of personal injury or death, other than allegations relating to clinical negligence,
 > - (aa) allegations of negligently caused damage to property,
 
 .
 
-**3.**[^key-cb62cee9c83d848b1f7b2d1f8c3b9144] In paragraph 3(1) of Schedule 2 to the Access to Justice Act 1999[^f00004], before paragraph (a) insert—
+**3.**[^c-cb62cee9c83d848b1f7b2d1f8c3b9144] In paragraph 3(1) of Schedule 2 to the Access to Justice Act 1999[^f00004], before paragraph (a) insert—
 
 > - (za) an application under section 42 for a restraint order;
 
 .
 
-**4.**[^key-b494668488e93d81ae324ba26f9ba08e] Regulation 2 shall not apply to applications for funded services made before 25th July 2005, and applications made before that date shall be treated as if that regulation had not been made.
+**4.**[^c-b494668488e93d81ae324ba26f9ba08e] Regulation 2 shall not apply to applications for funded services made before 25th July 2005, and applications made before that date shall be treated as if that regulation had not been made.
 
 Signed by authority of the Secretary of State
 
@@ -82,14 +82,14 @@ These Regulations amend Schedule 2 to the Access to Justice Act 1999 so as:
 
 [^f00002]: Footnote: By virtue of the Secretary of State for Constitutional Affairs Order 2003 (S.I. [2003/1887](https://www.legislation.gov.uk/uksi/2003/1887)), articles 4(1) and 9, Schedule 1, and Schedule 2, paragraph 11(1)(a).
 
-[^key-91e5075454ed0a0faae448e20bb36b42]: Commencement: Reg. 1 in force at 25.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2008/regulation/1)
+[^c-91e5075454ed0a0faae448e20bb36b42]: Commencement: Reg. 1 in force at 25.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2008/regulation/1)
 
-[^key-4542fa09b57ca44158e9e5cf981bbf80]: Commencement: Reg. 2 in force at 25.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2008/regulation/1)
+[^c-4542fa09b57ca44158e9e5cf981bbf80]: Commencement: Reg. 2 in force at 25.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2008/regulation/1)
 
 [^f00003]: Footnote: Paragraph 1 of Schedule 2 was amended by S.I. [2004/1055](https://www.legislation.gov.uk/uksi/2004/1055).
 
-[^key-cb62cee9c83d848b1f7b2d1f8c3b9144]: Commencement: Reg. 3 in force at 25.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2008/regulation/1)
+[^c-cb62cee9c83d848b1f7b2d1f8c3b9144]: Commencement: Reg. 3 in force at 25.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2008/regulation/1)
 
 [^f00004]: Footnote: Paragraph 3 of Schedule 2 was inserted by the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), section 456 and Schedule 11, paragraph 36.
 
-[^key-b494668488e93d81ae324ba26f9ba08e]: Commencement: Reg. 4 in force at 25.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2008/regulation/1)
+[^c-b494668488e93d81ae324ba26f9ba08e]: Commencement: Reg. 4 in force at 25.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2008/regulation/1)

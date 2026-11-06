@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Redundancy.[^c16333041][^c16933591][^key-0dd38e36826d23272765c02262224c40]
+## 139. Redundancy.[^c16333041][^c16933591][^c-0dd38e36826d23272765c02262224c40]
 
 *Extent: E+W+S*
 
@@ -56,7 +56,7 @@ he shall be taken for the purposes of this Act to be dismissed by reason of redu
 
 [^c16933591]: Modification: S. 139 applied (1.10.2002 except in relation to W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 37(6)](https://www.legislation.gov.uk/ukpga/2002/32/section/37/6) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3)
 
-[^key-0dd38e36826d23272765c02262224c40]: Modification: S. 139 applied by 2015 c. 26, s. 153A(5) (as inserted (1.2.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 41](https://www.legislation.gov.uk/ukpga/2016/12/section/41), [44(4)(b)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/4/b); [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/b))
+[^c-0dd38e36826d23272765c02262224c40]: Modification: S. 139 applied by 2015 c. 26, s. 153A(5) (as inserted (1.2.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 41](https://www.legislation.gov.uk/ukpga/2016/12/section/41), [44(4)(b)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/4/b); [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/b))
 
 [^c16333051]: Modification: S. 139(3) extended (temp. from 1.4.1999 to 1.9.1999) by [S.I. 1999/638](https://www.legislation.gov.uk/uksi/1999/638), [reg. 4](https://www.legislation.gov.uk/uksi/1999/638/regulation/4)
 

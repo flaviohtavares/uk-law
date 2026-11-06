@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 8A — COMMUNITY LEGISLATION IN RELATION TO EXPORTS TO THIRD COUNTRIES[^key-4e3e00fcab8e3c106fb8d5852aa93b18]
+## SCHEDULE 8A — COMMUNITY LEGISLATION IN RELATION TO EXPORTS TO THIRD COUNTRIES[^c-4e3e00fcab8e3c106fb8d5852aa93b18]
 
 *Extent: S*
 
 **No longer in force.**
 
-### Bluetongue susceptible animals[^key-4e3e00fcab8e3c106fb8d5852aa93b18]
+### Bluetongue susceptible animals[^c-4e3e00fcab8e3c106fb8d5852aa93b18]
 
-**1.**[^key-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4e3e00fcab8e3c106fb8d5852aa93b18]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/b), [38(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))
+[^c-4e3e00fcab8e3c106fb8d5852aa93b18]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/b), [38(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))

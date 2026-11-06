@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.48.3. Variation, renewal or discharge of a trafficking and exploitation risk order[^key-672c7bca140a78c074e203aee3f6cc31]
+## 3.48.3. Variation, renewal or discharge of a trafficking and exploitation risk order[^c-672c7bca140a78c074e203aee3f6cc31]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-672c7bca140a78c074e203aee3f6cc31]: Textual amendment: [Rule 3.48.3](https://www.legislation.gov.uk/uksi/1999/929/rule/3.48.3) inserted (31.10.2017) by [Act of Sederunt (Summary Application Rules 1999 Amendment) (Trafficking and Exploitation Orders) 2017 (S.S.I. 2017/211)](https://www.legislation.gov.uk/ssi/2017/211), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2017/211/paragraph/1/3), [2(4)(b)](https://www.legislation.gov.uk/ssi/2017/211/paragraph/2/4/b)
+[^c-672c7bca140a78c074e203aee3f6cc31]: Textual amendment: [Rule 3.48.3](https://www.legislation.gov.uk/uksi/1999/929/rule/3.48.3) inserted (31.10.2017) by [Act of Sederunt (Summary Application Rules 1999 Amendment) (Trafficking and Exploitation Orders) 2017 (S.S.I. 2017/211)](https://www.legislation.gov.uk/ssi/2017/211), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2017/211/paragraph/1/3), [2(4)(b)](https://www.legislation.gov.uk/ssi/2017/211/paragraph/2/4/b)

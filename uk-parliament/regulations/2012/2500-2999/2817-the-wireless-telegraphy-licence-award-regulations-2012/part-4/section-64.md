@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Incomplete or defective supplementary bids form[^key-53079620190cc8559a81ad870acf2035]
+## 64. Incomplete or defective supplementary bids form[^c-53079620190cc8559a81ad870acf2035]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53079620190cc8559a81ad870acf2035]: Commencement: Reg. 64 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-53079620190cc8559a81ad870acf2035]: Commencement: Reg. 64 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

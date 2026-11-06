@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 84. Adjustment of housing subsidy for year 1989-90.[^key-d8680008cb658320a77568e4c02606fe]
+## 84. Adjustment of housing subsidy for year 1989-90.[^c-d8680008cb658320a77568e4c02606fe]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8680008cb658320a77568e4c02606fe]: Textual amendment: [Ss. 82-84](https://www.legislation.gov.uk/ukpga/1989/42/section/82) repealed (1.10.2013) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/7), [Sch. 25 Pt. 24](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/24); [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
+[^c-d8680008cb658320a77568e4c02606fe]: Textual amendment: [Ss. 82-84](https://www.legislation.gov.uk/ukpga/1989/42/section/82) repealed (1.10.2013) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/15/paragraph/7), [Sch. 25 Pt. 24](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/24); [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)

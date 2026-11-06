@@ -46,7 +46,7 @@ shall as from that date be exercisable by the Board.
 
 (2) This paragraph does not apply to rights and liabilities under a contract of employment (which are dealt with in paragraph 4).
 
-(3) A certificate by the Department of Justice[^key-cc520f010f4399f76ce97a5c03341d1e] that any property, right or liability has vested in the Board under this paragraph shall be conclusive evidence of that fact for all purposes.
+(3) A certificate by the Department of Justice[^c-cc520f010f4399f76ce97a5c03341d1e] that any property, right or liability has vested in the Board under this paragraph shall be conclusive evidence of that fact for all purposes.
 
 ### Transfer of employed staff
 
@@ -114,4 +114,4 @@ he shall be treated as if he were a person to whom this paragraph applies.
 
 ## Annotations
 
-[^key-cc520f010f4399f76ce97a5c03341d1e]: Textual amendment: Words in [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/2/paragraph/3/3) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 87](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/87) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-cc520f010f4399f76ce97a5c03341d1e]: Textual amendment: Words in [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/2/paragraph/3/3) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 87](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/87) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

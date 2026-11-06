@@ -22,7 +22,7 @@ summary: ''
 
 Section 65 applies to LLPs, modified so that it reads as follows—
 
-> **65. Inappropriate use of indications of company type or legal form[^key-ba20432120c4e8d67da0fe00c49c9a29]**
+> **65. Inappropriate use of indications of company type or legal form[^c-ba20432120c4e8d67da0fe00c49c9a29]**
 >
 > (1) The provisions of the Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 relating to inappropriate use of indications of company type or legal form apply to LLPs.
 >
@@ -48,4 +48,4 @@ Section 65 applies to LLPs, modified so that it reads as follows—
 
 ## Annotations
 
-[^key-ba20432120c4e8d67da0fe00c49c9a29]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2009/1804/regulation/10) substituted (31.1.2015) by [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2015/17/schedule/5/paragraph/3)
+[^c-ba20432120c4e8d67da0fe00c49c9a29]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2009/1804/regulation/10) substituted (31.1.2015) by [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2015/17/schedule/5/paragraph/3)

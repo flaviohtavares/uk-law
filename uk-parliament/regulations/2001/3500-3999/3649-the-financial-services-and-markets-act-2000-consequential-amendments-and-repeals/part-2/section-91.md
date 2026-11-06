@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Disqualification after investigation of company[^key-ac77fe2d19d8e2ea3c1358c059658a92]
+## 91. Disqualification after investigation of company[^c-ac77fe2d19d8e2ea3c1358c059658a92]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ In Article 11 of the Companies (Northern Ireland) Order 1989 (disqualification a
 
 ## Annotations
 
-[^key-ac77fe2d19d8e2ea3c1358c059658a92]: Commencement: Art. 91 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ac77fe2d19d8e2ea3c1358c059658a92]: Commencement: Art. 91 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00089]: Footnote: Paragraph (1) of Article 11 was amended by the Criminal Justice Act [1993 (c. 36)](https://www.legislation.gov.uk/ukpga/1993/36) Schedule 6 Part II and [Companies (No. 2) (NI) Order 1990 (NI 10)](https://www.legislation.gov.uk/nisi/1990/1504) Article 26.

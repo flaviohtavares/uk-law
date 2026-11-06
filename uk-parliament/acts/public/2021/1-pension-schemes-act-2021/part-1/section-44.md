@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Pause orders[^c24459221][^key-173c742668ea4581a3aa8e42d18e45f5]
+## 44. Pause orders[^c24459221][^c-173c742668ea4581a3aa8e42d18e45f5]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 - (a) a direction that no new members (or no new members of a specified description) are to be admitted to the scheme;
 - (b) a direction that no further payments (or no further payments of a specified description) are to be made towards the scheme—
-  - (i) by or on behalf of employers or , where the scheme is a single or connected employer scheme,[^key-d06a489f782d59619cf4e0af078116d5] relevant former employers (or employers or relevant former employers of a specified description), or
+  - (i) by or on behalf of employers or , where the scheme is a single or connected employer scheme,[^c-d06a489f782d59619cf4e0af078116d5] relevant former employers (or employers or relevant former employers of a specified description), or
   - (ii) by or in respect of members (or members of a specified description);
 - (c) a direction that an amount (or specified amount) which—
   - (i) corresponds to a payment that would be due to be made towards the scheme in respect of a member but for a direction under paragraph (b), and
@@ -80,6 +80,6 @@ unless the amounts paid out from the scheme in respect of the transfers or trans
 
 [^c24459221]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2021/1/section/44) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-173c742668ea4581a3aa8e42d18e45f5]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2021/1/section/44) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-173c742668ea4581a3aa8e42d18e45f5]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2021/1/section/44) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
 
-[^key-d06a489f782d59619cf4e0af078116d5]: Textual amendment: Words in [s. 44(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2021/1/section/44/5/b/i) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [17(4)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/17/4)
+[^c-d06a489f782d59619cf4e0af078116d5]: Textual amendment: Words in [s. 44(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2021/1/section/44/5/b/i) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [17(4)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/17/4)

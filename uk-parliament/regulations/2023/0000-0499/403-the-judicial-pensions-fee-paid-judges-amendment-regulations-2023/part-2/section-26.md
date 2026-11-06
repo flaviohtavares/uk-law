@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Amendment of regulation 26[^key-4cd3852ab89a98e68c4da8e64fad9757]
+## 26. Amendment of regulation 26[^c-4cd3852ab89a98e68c4da8e64fad9757]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 26(1) for “a member (“**P**”)” substitute “P”.
 
 ## Annotations
 
-[^key-4cd3852ab89a98e68c4da8e64fad9757]: Commencement: Reg. 26 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-4cd3852ab89a98e68c4da8e64fad9757]: Commencement: Reg. 26 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

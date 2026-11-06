@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**183.**[^key-0aafe43dafc35c072504c044e89ec70b] In section 55 (power for local authorities to take charges on land instead of contributions)—
+**183.**[^c-0aafe43dafc35c072504c044e89ec70b] In section 55 (power for local authorities to take charges on land instead of contributions)—
 
 - (a) after subsection (2A)[^f00181] insert—
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0aafe43dafc35c072504c044e89ec70b]: Commencement: Reg. 183 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-0aafe43dafc35c072504c044e89ec70b]: Commencement: Reg. 183 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00181]: Footnote: Section 55(2A) was inserted by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraphs 62, 64(1), (2).
 

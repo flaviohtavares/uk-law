@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 88. Date of receipt[^key-5194c83bc58c62ea5c0deac9bfc491f9]
+## 88. Date of receipt[^c-5194c83bc58c62ea5c0deac9bfc491f9]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Where a document has been sent in accordance with rules 83 to 87, it must, unles
 
 ## Annotations
 
-[^key-5194c83bc58c62ea5c0deac9bfc491f9]: Commencement: [Rule 88](https://www.legislation.gov.uk/uksi/2024/1155/rule/88) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-5194c83bc58c62ea5c0deac9bfc491f9]: Commencement: [Rule 88](https://www.legislation.gov.uk/uksi/2024/1155/rule/88) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

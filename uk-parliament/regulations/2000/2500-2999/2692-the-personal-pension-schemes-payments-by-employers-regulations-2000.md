@@ -59,23 +59,23 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
   - (a) in the case of a scheme established under a trust, the trustees of the scheme; and
   - (b) in any other case, the managers of the scheme.
 
-## 2. Record of direct payment arrangements[^key-02f87f2834e8444740499acf0f4cbf5d]
+## 2. Record of direct payment arrangements[^c-02f87f2834e8444740499acf0f4cbf5d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed time in which an employer is to make a record of direct payment arrangements available to trustees or managers[^key-320c7646447f3e583ab42857fe416f64]
+## 3. Prescribed time in which an employer is to make a record of direct payment arrangements available to trustees or managers[^c-320c7646447f3e583ab42857fe416f64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Time limits for giving notice to the Regulatory Authority and to the employee that any contribution which is payable has not been paid and the circumstances in which such notice need not be given[^key-383ceb2e140b3f0abfab6d718ee9c391]
+## 4. Time limits for giving notice to the Regulatory Authority and to the employee that any contribution which is payable has not been paid and the circumstances in which such notice need not be given[^c-383ceb2e140b3f0abfab6d718ee9c391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Prescribed period for the purpose of calculating the due date for the payment of any contribution on behalf of an employee[^key-6b0dfd4f11dc633dcbeec9106b0d7daa]
+## 5. Prescribed period for the purpose of calculating the due date for the payment of any contribution on behalf of an employee[^c-6b0dfd4f11dc633dcbeec9106b0d7daa]
 
 (1) Save as provided in paragraph (2), the prescribed period for the purposes of section 111A(15)(b) of the 1993 Act (meaning of “due date” where a contribution payable under the direct payment arrangements falls to be paid on behalf of the employee) is the period of 19 days commencing on the day following the last day of the month in which the deduction was made from the employee’s earnings.
 
-(2)[^key-40aa5a49fff92a4d2ce5bbf9b0289125] Where a jobholder becomes an active member of a personal pension scheme in accordance with arrangements provided for in regulation 6, 13, 18, 28 or 29 of the 2010 Regulations, in relation to any contributions deducted between the relevant date and the end of the opt out period, the prescribed period for the purposes of section 111A(15)(b) of the 1993 Act is the period commencing on the relevant date and ending on the last day of the second month after the month which includes the relevant date.
+(2)[^c-40aa5a49fff92a4d2ce5bbf9b0289125] Where a jobholder becomes an active member of a personal pension scheme in accordance with arrangements provided for in regulation 6, 13, 18, 28 or 29 of the 2010 Regulations, in relation to any contributions deducted between the relevant date and the end of the opt out period, the prescribed period for the purposes of section 111A(15)(b) of the 1993 Act is the period commencing on the relevant date and ending on the last day of the second month after the month which includes the relevant date.
 
 (3) For the purposes of this regulation—
 
@@ -86,7 +86,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
   - (a) a scheme which is a qualifying scheme in relation to the person under section 16 of the 2008 Act; or
   - (b) where the person is enrolled in the scheme pursuant to section 9 of the 2008 Act, a scheme which meets the requirements of section 9.
 
-## 5A. The issue of payment statements to an employee[^key-f841a84276e7716c310f8f9fb789123d]
+## 5A. The issue of payment statements to an employee[^c-f841a84276e7716c310f8f9fb789123d]
 
 (1) Where section 111A of the Pension Schemes Act 1993 (monitoring of employers' payments to personal pension schemes) applies the trustees or managers of the scheme must before the end of the interval specified in paragraph (4) or (5), as the case may be, send the employee a statement setting out the amounts and dates of the payments made under the direct payment arrangements during the period specified in paragraph (2) or (3), as the case may be.
 
@@ -106,13 +106,13 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 (5) Where the scheme is a stakeholder pension scheme the interval is three months after the end of the statement year to which that statement relates.
 
-(6)[^key-1f9a7a295302fc3b651366dbb0a0c256] A statement referred to in paragraph (1) may be issued in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (giving information and documents).
+(6)[^c-1f9a7a295302fc3b651366dbb0a0c256] A statement referred to in paragraph (1) may be issued in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (giving information and documents).
 
-## 6. The issue of payment statements to an employee[^key-1b903a6c5d7e241b6bf5cfc1f3e350db]
+## 6. The issue of payment statements to an employee[^c-1b903a6c5d7e241b6bf5cfc1f3e350db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-04ec4116add998d79175cfeb1f9ce04a]
+## 7. Revocation[^c-04ec4116add998d79175cfeb1f9ce04a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -154,20 +154,20 @@ The impact on business of these Regulations was included in the Regulatory Impac
 
 [^c1608780]: Marginal citation: [S.I. 2000/1403](https://www.legislation.gov.uk/uksi/2000/1403).
 
-[^key-02f87f2834e8444740499acf0f4cbf5d]: Textual amendment: Reg. 2 revoked (6.4.2006) by [Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations 2005 (S.I. 2005/2426)](https://www.legislation.gov.uk/uksi/2005/2426), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/2426/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2005/2426/regulation/5)
+[^c-02f87f2834e8444740499acf0f4cbf5d]: Textual amendment: Reg. 2 revoked (6.4.2006) by [Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations 2005 (S.I. 2005/2426)](https://www.legislation.gov.uk/uksi/2005/2426), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/2426/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2005/2426/regulation/5)
 
-[^key-320c7646447f3e583ab42857fe416f64]: Textual amendment: Reg. 3 revoked (6.4.2006) by [Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations 2005 (S.I. 2005/2426)](https://www.legislation.gov.uk/uksi/2005/2426), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/2426/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2005/2426/regulation/5)
+[^c-320c7646447f3e583ab42857fe416f64]: Textual amendment: Reg. 3 revoked (6.4.2006) by [Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations 2005 (S.I. 2005/2426)](https://www.legislation.gov.uk/uksi/2005/2426), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/2426/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2005/2426/regulation/5)
 
-[^key-383ceb2e140b3f0abfab6d718ee9c391]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/2692/regulation/4) revoked (6.4.2006) by [Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations 2005 (S.I. 2005/2426)](https://www.legislation.gov.uk/uksi/2005/2426), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/2426/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2005/2426/regulation/5)
+[^c-383ceb2e140b3f0abfab6d718ee9c391]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/2692/regulation/4) revoked (6.4.2006) by [Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations 2005 (S.I. 2005/2426)](https://www.legislation.gov.uk/uksi/2005/2426), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/2426/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2005/2426/regulation/5)
 
-[^key-6b0dfd4f11dc633dcbeec9106b0d7daa]: Textual amendment: Reg. 5 substituted (1.10.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations 2010 (S.I. 2010/772)](https://www.legislation.gov.uk/uksi/2010/772) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/772/regulation/1/1) , [49](https://www.legislation.gov.uk/uksi/2010/772/regulation/49)
+[^c-6b0dfd4f11dc633dcbeec9106b0d7daa]: Textual amendment: Reg. 5 substituted (1.10.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations 2010 (S.I. 2010/772)](https://www.legislation.gov.uk/uksi/2010/772) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/772/regulation/1/1) , [49](https://www.legislation.gov.uk/uksi/2010/772/regulation/49)
 
-[^key-40aa5a49fff92a4d2ce5bbf9b0289125]: Textual amendment: Reg. 5(2) (3) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1) , [3](https://www.legislation.gov.uk/uksi/2013/2556/regulation/3)
+[^c-40aa5a49fff92a4d2ce5bbf9b0289125]: Textual amendment: Reg. 5(2) (3) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1) , [3](https://www.legislation.gov.uk/uksi/2013/2556/regulation/3)
 
-[^key-f841a84276e7716c310f8f9fb789123d]: Textual amendment: Reg. 5A added (6.4.2006) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/778)](https://www.legislation.gov.uk/uksi/2006/778), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/778/regulation/1/1/b), [8(2)](https://www.legislation.gov.uk/uksi/2006/778/regulation/8/2)
+[^c-f841a84276e7716c310f8f9fb789123d]: Textual amendment: Reg. 5A added (6.4.2006) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/778)](https://www.legislation.gov.uk/uksi/2006/778), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/778/regulation/1/1/b), [8(2)](https://www.legislation.gov.uk/uksi/2006/778/regulation/8/2)
 
-[^key-1f9a7a295302fc3b651366dbb0a0c256]: Textual amendment: [Reg. 5A(6)](https://www.legislation.gov.uk/uksi/2000/2692/regulation/5A/6) added (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1), [Sch. 9 para. 10](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/10)
+[^c-1f9a7a295302fc3b651366dbb0a0c256]: Textual amendment: [Reg. 5A(6)](https://www.legislation.gov.uk/uksi/2000/2692/regulation/5A/6) added (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1), [Sch. 9 para. 10](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/10)
 
-[^key-1b903a6c5d7e241b6bf5cfc1f3e350db]: Textual amendment: Reg. 6 revoked (6.4.2006) by [Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations 2005 (S.I. 2005/2426)](https://www.legislation.gov.uk/uksi/2005/2426), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/2426/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2005/2426/regulation/5)
+[^c-1b903a6c5d7e241b6bf5cfc1f3e350db]: Textual amendment: Reg. 6 revoked (6.4.2006) by [Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations 2005 (S.I. 2005/2426)](https://www.legislation.gov.uk/uksi/2005/2426), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/2426/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2005/2426/regulation/5)
 
-[^key-04ec4116add998d79175cfeb1f9ce04a]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2000/2692/regulation/7) revoked (6.4.2006) by [Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations 2005 (S.I. 2005/2426)](https://www.legislation.gov.uk/uksi/2005/2426), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/2426/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2005/2426/regulation/5)
+[^c-04ec4116add998d79175cfeb1f9ce04a]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2000/2692/regulation/7) revoked (6.4.2006) by [Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations 2005 (S.I. 2005/2426)](https://www.legislation.gov.uk/uksi/2005/2426), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/2426/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2005/2426/regulation/5)

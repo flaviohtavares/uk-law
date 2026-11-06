@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-The Feeding Stuffs (Amendment) (No. 2) Regulations 1998 (revoked)[^key-93e8503284be5162918f30b3f385e016]
+The Feeding Stuffs (Amendment) (No. 2) Regulations 1998 (revoked)[^c-93e8503284be5162918f30b3f385e016]
 
 Made
 
@@ -50,28 +50,28 @@ In relation to regulation 3
 
 16th September 1998
 
-[^key-93e8503284be5162918f30b3f385e016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93e8503284be5162918f30b3f385e016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-93e8503284be5162918f30b3f385e016]
+## 1. Title and commencement[^c-93e8503284be5162918f30b3f385e016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feeding Stuffs Regulations 1995[^key-93e8503284be5162918f30b3f385e016]
+## 2. Amendment of the Feeding Stuffs Regulations 1995[^c-93e8503284be5162918f30b3f385e016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-93e8503284be5162918f30b3f385e016] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-93e8503284be5162918f30b3f385e016] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-93e8503284be5162918f30b3f385e016] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-93e8503284be5162918f30b3f385e016] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-93e8503284be5162918f30b3f385e016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93e8503284be5162918f30b3f385e016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-93e8503284be5162918f30b3f385e016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93e8503284be5162918f30b3f385e016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-93e8503284be5162918f30b3f385e016]: Textual amendment: Regulations revoked: (E.) (29.10.2000) by [The Feeding Stuffs Regulations 2000 (S.I. 2000/2481)](https://www.legislation.gov.uk/uksi/2000/2481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/2481/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2000/2481/regulation/26); (S.) (31.1.2001) by [The Feeding Stuffs (Scotland) Regulations 2000 (S.S.I. 2000/453)](https://www.legislation.gov.uk/ssi/2000/453), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/453/regulation/1/1), [26](https://www.legislation.gov.uk/ssi/2000/453/regulation/26); and (W.) (1.3.2001) by [The Feeding Stuffs (Wales) Regulations 2001 (S.I. 2001/343)](https://www.legislation.gov.uk/uksi/2001/343), [regs. 1](https://www.legislation.gov.uk/uksi/2001/343/regulation/1), [23](https://www.legislation.gov.uk/uksi/2001/343/regulation/23)
+[^c-93e8503284be5162918f30b3f385e016]: Textual amendment: Regulations revoked: (E.) (29.10.2000) by [The Feeding Stuffs Regulations 2000 (S.I. 2000/2481)](https://www.legislation.gov.uk/uksi/2000/2481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/2481/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2000/2481/regulation/26); (S.) (31.1.2001) by [The Feeding Stuffs (Scotland) Regulations 2000 (S.S.I. 2000/453)](https://www.legislation.gov.uk/ssi/2000/453), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/453/regulation/1/1), [26](https://www.legislation.gov.uk/ssi/2000/453/regulation/26); and (W.) (1.3.2001) by [The Feeding Stuffs (Wales) Regulations 2001 (S.I. 2001/343)](https://www.legislation.gov.uk/uksi/2001/343), [regs. 1](https://www.legislation.gov.uk/uksi/2001/343/regulation/1), [23](https://www.legislation.gov.uk/uksi/2001/343/regulation/23)

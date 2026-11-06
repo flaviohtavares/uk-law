@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-ceca785034e2ffdedeaab67aefcfbd9a]
+## 2. Interpretation[^c-ceca785034e2ffdedeaab67aefcfbd9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ In this Order—
 
 ## Annotations
 
-[^key-ceca785034e2ffdedeaab67aefcfbd9a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2008/2860/article/2) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-ceca785034e2ffdedeaab67aefcfbd9a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2008/2860/article/2) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
 [^f00002]: Footnote: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6).
 

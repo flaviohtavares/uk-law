@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Abolition of Central Fire Brigades Advisory Council[^key-755a763ae6210f5326dab04ecff330ca][^key-fa3c0a872fe6cdf5692d3ceca6eb59bf]
+## 51. Abolition of Central Fire Brigades Advisory Council[^c-755a763ae6210f5326dab04ecff330ca][^c-fa3c0a872fe6cdf5692d3ceca6eb59bf]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Central Fire Brigades Advisory Council is abolished.
 
 ## Annotations
 
-[^key-755a763ae6210f5326dab04ecff330ca]: Commencement: S. 51 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-755a763ae6210f5326dab04ecff330ca]: Commencement: S. 51 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-fa3c0a872fe6cdf5692d3ceca6eb59bf]: Commencement: S. 51 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-fa3c0a872fe6cdf5692d3ceca6eb59bf]: Commencement: S. 51 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

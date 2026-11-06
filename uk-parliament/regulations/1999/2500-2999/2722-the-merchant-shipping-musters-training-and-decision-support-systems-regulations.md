@@ -47,7 +47,7 @@ Coming into force
 
 The Secretary of State for the Environment, Transport and the Regions, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of the powers conferred upon him by sections 85(1)(a) and (b), (3), (5) to (7) and 86(1) of that Act[^f00002] and all other powers enabling him in that behalf, hereby makes the following Regulations:–
 
-## 1. Citation, commencement and revocation[^key-050d561ae77783f072ec9f341a0f8ab4]
+## 1. Citation, commencement and revocation[^c-050d561ae77783f072ec9f341a0f8ab4]
 
 (1) These Regulations may be cited as the Merchant Shipping (Musters, Training and Decision Support Systems) Regulations 1999 and, subject to paragraph (3) below, shall come into force on 29th October 1999.
 
@@ -58,7 +58,7 @@ The Secretary of State for the Environment, Transport and the Regions, after con
 
 (3) Where a ship to which the Merchant Shipping (Musters and Training) Regulations 1986 apply is in the course of a voyage on 29th October 1999, those Regulations shall continue to apply to that ship until the end of that voyage and these Regulations shall come into force in relation to that ship at the end of that voyage.
 
-## 2. Interpretation[^key-187917bfbf547925094d0c4a1252e34f]
+## 2. Interpretation[^c-187917bfbf547925094d0c4a1252e34f]
 
 (1) In these Regulations–
 
@@ -79,7 +79,7 @@ The Secretary of State for the Environment, Transport and the Regions, after con
   - (b) any vessel wholly owned by or on behalf of a member’s club formed for the purpose of sport or pleasure which, at the time it is being used, is used only for the sport or pleasure of members of that club or their immediate family; and for the use of which any charges levied are paid into club funds and applied for the general use of the club; and
   - (c) in the case of any vessel referred to in paragraphs (a) or (b) above no other payments are made by or on behalf of users of the vessel, other than by the owner.
 
-  In this definition “immediate family” means in relation to an individual, the spouse or civil partner[^key-45453b50244e666aedff3683b5a3b420] of the individual, and a relative of the individual or the individual’s spouse or civil partner, and “relative” means brother, sister, ancestor or lineal descendant.
+  In this definition “immediate family” means in relation to an individual, the spouse or civil partner[^c-45453b50244e666aedff3683b5a3b420] of the individual, and a relative of the individual or the individual’s spouse or civil partner, and “relative” means brother, sister, ancestor or lineal descendant.
 - “ro-ro passenger ship” means a ship certified to carry more than 12 passengers which is provided with cargo or vehicle spaces not normally subdivided in any way and extending to either a substantial length or the entire length of the ship in which cargo or vehicles can be loaded or unloaded in a horizontal direction;
 - “short international voyage” means–
   - (a) subject to paragraph (b) below, an international voyage–
@@ -99,7 +99,7 @@ The Secretary of State for the Environment, Transport and the Regions, after con
 
 (4) Any approval given pursuant to these Regulations shall be given in writing and shall specify the date on which it takes effect and the conditions (if any) on which it is given.
 
-## 3. Application[^key-c7243ebc0dc21ba35e61152da75c86c7]
+## 3. Application[^c-c7243ebc0dc21ba35e61152da75c86c7]
 
 (1) Unless otherwise stated, these Regulations shall apply to–
 
@@ -113,13 +113,13 @@ The Secretary of State for the Environment, Transport and the Regions, after con
 - (c) pleasure vessels;
 - (d) ships which are not United Kingdom ships which are:–
   - (i) cargo ships of less than 500 tons; or
-  - (ii) ships not propelled by mechanical means; [^key-fa67b5e8914d993cc001becb561ce56c]...
-- (e) craft to which the Merchant Shipping (High Speed Craft) Regulations 2022[^key-a58fe31487b15f46b17e63f95371f6cb] apply ; and[^key-53e767a2b891514ac84411040159af2f]
+  - (ii) ships not propelled by mechanical means; [^c-fa67b5e8914d993cc001becb561ce56c]...
+- (e) craft to which the Merchant Shipping (High Speed Craft) Regulations 2022[^c-a58fe31487b15f46b17e63f95371f6cb] apply ; and[^c-53e767a2b891514ac84411040159af2f]
 - (f) ships to which either Part 2 or Part 4 of the Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020 applies.
 
 (3) These Regulations shall not apply to a ship flying the flag of a state which is not a party to the International Convention for the Safety of Life at Sea, 1974 by reason of its being within the United Kingdom or the territorial waters thereof if it would not have been there but for stress of weather or any other circumstances which could not have been prevented by the master, the owner or the charterer (if any).
 
-## 4. Decision support systems[^key-f59668a7e073b611dff9dd14bdd7fdcc]
+## 4. Decision support systems[^c-f59668a7e073b611dff9dd14bdd7fdcc]
 
 (1) Subject to paragraph (2) below, this regulation shall apply to any ship of Class I, II or II(A).
 
@@ -151,7 +151,7 @@ The Secretary of State for the Environment, Transport and the Regions, after con
 - (a) provides all the information contained in the emergency plan or plans, including the emergency procedures, and any associated checklists, referred to in paragraph (5)(b) above; and
 - (b) is able to present a list of recommended actions to be carried out in any foreseeable emergency situation.
 
-## 5. Muster list and emergency instructions[^key-17b9c5feb1c6d75105609a147e392a07]
+## 5. Muster list and emergency instructions[^c-17b9c5feb1c6d75105609a147e392a07]
 
 (1) This regulation shall apply to any ship of Class I, II, II(A), III, VII, VII(T), VIII or VIII(T) and any ship of Class IX or XI engaged on international voyages.
 
@@ -205,7 +205,7 @@ The Secretary of State for the Environment, Transport and the Regions, after con
   - (ii) the essential actions they must take in an emergency; and
   - (iii) the method of donning lifejackets.
 
-## 6. General emergency alarm signal[^key-c0b56857048b86f5fbb126e0ae75f9a7]
+## 6. General emergency alarm signal[^c-c0b56857048b86f5fbb126e0ae75f9a7]
 
 (1) The general emergency alarm signal for summoning passengers and crew to assembly or muster stations and initiating the actions specified in the muster list shall consist of at least seven short blasts followed by one long blast–
 
@@ -219,7 +219,7 @@ The Secretary of State for the Environment, Transport and the Regions, after con
 
 (3) Once activated the general emergency alarm signal shall continue to sound until it is manually turned off or is temporarily interrupted by a message on the public address system.
 
-## 7. Public address systems[^key-05480a03ca84d6ec5d3bc3900d625a42]
+## 7. Public address systems[^c-05480a03ca84d6ec5d3bc3900d625a42]
 
 (1) Every ship shall have a public address system consisting of a loudspeaker installation enabling the broadcast of messages into all spaces where crew members or passengers, or both, are normally present and to all assembly or muster stations (as appropriate).
 
@@ -230,7 +230,7 @@ The Secretary of State for the Environment, Transport and the Regions, after con
 - (c) not require any action by the addressee in order to be audible; and
 - (d) be protected against any unauthorised use.
 
-## 8. Practice crew drills[^key-d360bd668c3baee3eec7bfd51d4d749b]
+## 8. Practice crew drills[^c-d360bd668c3baee3eec7bfd51d4d749b]
 
 (1) This regulation shall apply to any ship of Class I, II, II(A), III, VII, VII(T), VIII, VIII(T), VIII(A), VIII(A)(T) or IX, and any ship of Class XI engaged on an international voyage.
 
@@ -243,7 +243,7 @@ The Secretary of State for the Environment, Transport and the Regions, after con
 - (a) within 24 hours of the ship leaving a port if more than 25% of the crew have not participated in abandon ship drills and fire drills on board that particular ship in the previous month, unless this is impracticable for any ship in which case other suitable arrangements shall be made; or
 - (b) before the ship sails if the ship is entering service for the first time, if the ship is re-entering service after a modification of a major character or if an entirely new crew has been engaged.
 
-## 9. Practice passenger musters[^key-1c8a11692f407c6552ef1ac6d2b60f32]
+## 9. Practice passenger musters[^c-1c8a11692f407c6552ef1ac6d2b60f32]
 
 (1) On any ship carrying passengers where the passengers are scheduled to be on board the ship for more than 24 hours, musters of the passengers shall take place within 24 hours after their embarkation.
 
@@ -269,7 +269,7 @@ if a muster of the passengers is not held on departure, the attention of the pas
 
 (7) Information cards, posters or video programmes displayed on a ship’s video system may be used to supplement the passenger safety briefing required by paragraph (5) above but shall not be used to replace the announcement required by that paragraph.
 
-## 10. Abandon ship drills[^key-165290ee19d95ff26df183de816d9dbf]
+## 10. Abandon ship drills[^c-165290ee19d95ff26df183de816d9dbf]
 
 (1) Each abandon ship drill required by these Regulations shall include–
 
@@ -320,7 +320,7 @@ if a muster of the passengers is not held on departure, the attention of the pas
 
 (15) Emergency lighting for mustering and abandonment shall be tested at each abandon ship drill.
 
-## 11. Fire drills[^key-c7e43d561a521f3a4af80aad30bff684]
+## 11. Fire drills[^c-c7e43d561a521f3a4af80aad30bff684]
 
 (1) Each fire drill required by these Regulations shall include:
 
@@ -342,7 +342,7 @@ if a muster of the passengers is not held on departure, the attention of the pas
 
 (3) A fire drill shall, as far as practicable, be conducted as if there were an actual emergency.
 
-## 12. On-board training and instructions[^key-336eb56fc1c3ae64f94cdd76aa5fa66c]
+## 12. On-board training and instructions[^c-336eb56fc1c3ae64f94cdd76aa5fa66c]
 
 (1) This regulation shall apply to any ship of Class I, II, II(A), III, VII, VII(T), VIII, VIII(T), VIII(A), VIII(A)(T), or IX and to any ship of Class XI engaged on an international voyage.
 
@@ -380,7 +380,7 @@ shall be given at the same interval as the drills required by these Regulations.
 
 (10) Every member of the crew with assigned emergency duties in respect of a voyage shall be familiar with those duties before the voyage begins.
 
-## 13. Records[^key-00c0380db3429267fa56c66080bca77f]
+## 13. Records[^c-00c0380db3429267fa56c66080bca77f]
 
 (1) The following matters shall be recorded by the master in the official logbook:
 
@@ -394,11 +394,11 @@ shall be given at the same interval as the drills required by these Regulations.
 
 (2) In ships not required to keep an official logbook a record of each matter specified in paragraph (1) above shall be made by the master and shall be retained on board for a period of not less than 12 months.
 
-## 14. Exemptions[^key-c2271bd5acf63e990704e040f472743c]
+## 14. Exemptions[^c-c2271bd5acf63e990704e040f472743c]
 
 The Secretary of State may grant exemptions from specified provisions of these Regulations for classes of ships or individual ships, subject to such terms (if any) as he may specify, and may alter or cancel any exemption so granted.
 
-## 15. Penalties[^key-7bc9573cc0a854b66aab58767e295061]
+## 15. Penalties[^c-7bc9573cc0a854b66aab58767e295061]
 
 (1) If, in respect of a ship, there is a breach of any of the requirements of these Regulations the master and the owner shall each be guilty of an offence punishable on summary conviction by a fine not exceeding the statutory maximum or, on conviction on indictment, by imprisonment for a term not exceeding two years, or a fine, or both.
 
@@ -436,13 +436,13 @@ Merchant Shipping Notices are obtainable from Eros Marketing Support Services, U
 
 [^f00002]: Footnote: Sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), section 8.
 
-[^key-050d561ae77783f072ec9f341a0f8ab4]: Commencement: Reg. 1 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
+[^c-050d561ae77783f072ec9f341a0f8ab4]: Commencement: Reg. 1 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1986/1071](https://www.legislation.gov.uk/uksi/1986/1071).
 
 [^f00004]: Footnote: S.I. [1993/3231](https://www.legislation.gov.uk/uksi/1993/3231).
 
-[^key-187917bfbf547925094d0c4a1252e34f]: Commencement: Reg. 2 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
+[^c-187917bfbf547925094d0c4a1252e34f]: Commencement: Reg. 2 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
 
 [^f00005]: Footnote: S.I. [1999/2721](https://www.legislation.gov.uk/uksi/1999/2721).
 
@@ -450,7 +450,7 @@ Merchant Shipping Notices are obtainable from Eros Marketing Support Services, U
 
 [^f00007]: Footnote: Cmnd. 7874.
 
-[^key-45453b50244e666aedff3683b5a3b420]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/2/1) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/article/1), [Sch. 15](https://www.legislation.gov.uk/uksi/2005/2114/schedule/15)
+[^c-45453b50244e666aedff3683b5a3b420]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/2/1) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/article/1), [Sch. 15](https://www.legislation.gov.uk/uksi/2005/2114/schedule/15)
 
 [^f00008]: Footnote: S.I. [1982/841](https://www.legislation.gov.uk/uksi/1982/841): these Regulations have been revoked by S.I. [1997/1510](https://www.legislation.gov.uk/uksi/1997/1510) but the Secretary of State may permit certain ships to continue to use the gross tonnage additionally ascertained under Schedule 5 thereto, *see* regulation 12.
 
@@ -458,34 +458,34 @@ Merchant Shipping Notices are obtainable from Eros Marketing Support Services, U
 
 [^f00010]: Footnote: S.I. [1999/2723](https://www.legislation.gov.uk/uksi/1999/2723).
 
-[^key-c7243ebc0dc21ba35e61152da75c86c7]: Commencement: Reg. 3 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
+[^c-c7243ebc0dc21ba35e61152da75c86c7]: Commencement: Reg. 3 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
 
-[^key-fa67b5e8914d993cc001becb561ce56c]: Textual amendment: Word in reg. 3(2)(d)(ii) omitted (9.6.2020) by virtue of [The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020 (S.I. 2020/501)](https://www.legislation.gov.uk/uksi/2020/501), [reg. 1](https://www.legislation.gov.uk/uksi/2020/501/regulation/1), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/paragraph/10/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/501/regulation/4))
+[^c-fa67b5e8914d993cc001becb561ce56c]: Textual amendment: Word in reg. 3(2)(d)(ii) omitted (9.6.2020) by virtue of [The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020 (S.I. 2020/501)](https://www.legislation.gov.uk/uksi/2020/501), [reg. 1](https://www.legislation.gov.uk/uksi/2020/501/regulation/1), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/paragraph/10/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/501/regulation/4))
 
-[^key-a58fe31487b15f46b17e63f95371f6cb]: Textual amendment: Words in reg. 3(2)(e) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/10) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-a58fe31487b15f46b17e63f95371f6cb]: Textual amendment: Words in reg. 3(2)(e) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/10) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
 
-[^key-53e767a2b891514ac84411040159af2f]: Textual amendment: Reg. 3(2)(f) and word inserted (9.6.2020) by [The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020 (S.I. 2020/501)](https://www.legislation.gov.uk/uksi/2020/501), [reg. 1](https://www.legislation.gov.uk/uksi/2020/501/regulation/1), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/paragraph/10/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/501/regulation/4))
+[^c-53e767a2b891514ac84411040159af2f]: Textual amendment: Reg. 3(2)(f) and word inserted (9.6.2020) by [The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020 (S.I. 2020/501)](https://www.legislation.gov.uk/uksi/2020/501), [reg. 1](https://www.legislation.gov.uk/uksi/2020/501/regulation/1), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/paragraph/10/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/501/regulation/4))
 
-[^key-f59668a7e073b611dff9dd14bdd7fdcc]: Commencement: Reg. 4 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
+[^c-f59668a7e073b611dff9dd14bdd7fdcc]: Commencement: Reg. 4 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
 
-[^key-17b9c5feb1c6d75105609a147e392a07]: Commencement: Reg. 5 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
+[^c-17b9c5feb1c6d75105609a147e392a07]: Commencement: Reg. 5 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
 
-[^key-c0b56857048b86f5fbb126e0ae75f9a7]: Commencement: Reg. 6 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
+[^c-c0b56857048b86f5fbb126e0ae75f9a7]: Commencement: Reg. 6 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
 
-[^key-05480a03ca84d6ec5d3bc3900d625a42]: Commencement: Reg. 7 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
+[^c-05480a03ca84d6ec5d3bc3900d625a42]: Commencement: Reg. 7 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
 
-[^key-d360bd668c3baee3eec7bfd51d4d749b]: Commencement: Reg. 8 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
+[^c-d360bd668c3baee3eec7bfd51d4d749b]: Commencement: Reg. 8 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
 
-[^key-1c8a11692f407c6552ef1ac6d2b60f32]: Commencement: Reg. 9 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
+[^c-1c8a11692f407c6552ef1ac6d2b60f32]: Commencement: Reg. 9 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
 
-[^key-165290ee19d95ff26df183de816d9dbf]: Commencement: Reg. 10 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
+[^c-165290ee19d95ff26df183de816d9dbf]: Commencement: Reg. 10 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
 
-[^key-c7e43d561a521f3a4af80aad30bff684]: Commencement: Reg. 11 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
+[^c-c7e43d561a521f3a4af80aad30bff684]: Commencement: Reg. 11 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
 
-[^key-336eb56fc1c3ae64f94cdd76aa5fa66c]: Commencement: Reg. 12 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
+[^c-336eb56fc1c3ae64f94cdd76aa5fa66c]: Commencement: Reg. 12 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
 
-[^key-00c0380db3429267fa56c66080bca77f]: Commencement: Reg. 13 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
+[^c-00c0380db3429267fa56c66080bca77f]: Commencement: Reg. 13 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
 
-[^key-c2271bd5acf63e990704e040f472743c]: Commencement: Reg. 14 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
+[^c-c2271bd5acf63e990704e040f472743c]: Commencement: Reg. 14 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
 
-[^key-7bc9573cc0a854b66aab58767e295061]: Commencement: Reg. 15 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)
+[^c-7bc9573cc0a854b66aab58767e295061]: Commencement: Reg. 15 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2722/regulation/1/1)

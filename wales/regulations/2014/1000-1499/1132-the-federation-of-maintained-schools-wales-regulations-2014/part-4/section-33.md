@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Joint appointments[^key-04b9c7fb7c5dac3a3374d18b2c3ce23d]
+## 33. Joint appointments[^c-04b9c7fb7c5dac3a3374d18b2c3ce23d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ the appointment is to be made by, or in accordance with a direction given by, th
 
 ## Annotations
 
-[^key-04b9c7fb7c5dac3a3374d18b2c3ce23d]: Commencement: Reg. 33 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-04b9c7fb7c5dac3a3374d18b2c3ce23d]: Commencement: Reg. 33 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

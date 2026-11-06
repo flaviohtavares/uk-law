@@ -22,7 +22,7 @@ summary: ''
 
 Regulation J9(1)(a)
 
-**1.**[^key-1de9307d32bbe360672202133a84423c] Subject to the provisions of this schedule, the period which a person is entitled to reckon as reckonable service by virtue of regulation J9(1)(a) is a period equal to the period of reckonable service which would enable the fund authority to pay under regulation 12 a transfer value (calculated in accordance with Schedule 16)—
+**1.**[^c-1de9307d32bbe360672202133a84423c] Subject to the provisions of this schedule, the period which a person is entitled to reckon as reckonable service by virtue of regulation J9(1)(a) is a period equal to the period of reckonable service which would enable the fund authority to pay under regulation 12 a transfer value (calculated in accordance with Schedule 16)—
 
 - (a) of the amount which that authority accepted in respect of him under regulation J8, or
 - (b) where—
@@ -31,7 +31,7 @@ Regulation J9(1)(a)
 
   of the total of the amount mentioned in sub-paragraph (a) and the amount of the premium.
 
-**2.**[^key-e7df75b38720a5eaeddfa7487378f151] For the purposes of paragraph 1 above—
+**2.**[^c-e7df75b38720a5eaeddfa7487378f151] For the purposes of paragraph 1 above—
 
 (1) in the case of a person who was subject in his non-local government employment to a statutory scheme or to any other scheme which is for the time being specified by the Secretary of State as a scheme which is to be treated as a statutory scheme for the purposes of this Schedule—
 
@@ -67,6 +67,6 @@ Regulation J9(1)(a)
 
 ## Annotations
 
-[^key-1de9307d32bbe360672202133a84423c]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/17/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-1de9307d32bbe360672202133a84423c]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/17/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-e7df75b38720a5eaeddfa7487378f151]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/17/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-e7df75b38720a5eaeddfa7487378f151]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/17/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

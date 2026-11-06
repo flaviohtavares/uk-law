@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 87. Restrictions on presentation pending making of pastoral schemes or orders or bishop's pastoral orders[^key-caf19b0aeed017ca8b0df720b4250979][^key-6701e8fe6b76970b3b5f05bac8f70f9b]
+## 87. Restrictions on presentation pending making of pastoral schemes or orders or bishop's pastoral orders[^c-caf19b0aeed017ca8b0df720b4250979][^c-6701e8fe6b76970b3b5f05bac8f70f9b]
 
 *Extent: E*
 
@@ -39,7 +39,7 @@ that those matters are being considered, and thereupon the registered patron sha
 
 (3) A restriction imposed by subsection (2) shall cease to operate at the expiration of one year from the date of the notice unless within that period proposals are approved under section 7 or section 22(1) or where the bishop is of the opinion under section 17(1) that proposals should be implemented containing recommendations for any of the matters specified in subsection (1) or (2) which would affect the benefice concerned, in which case the restriction shall continue until occurrence of whichever of the following first occurs, that is to say, the several events mentioned in paragraphs (a), (b) and (c) of subsection (1), and the expiration of three years from the date of the notice or, where the proviso to subsection (1) applies, the date on which the decision of Her Majesty in Council on the appeal is delivered.
 
-(3A)[^key-213a0b82aed025a8e28f40bfba8514e8] Where the bishop proposes to make a bishop's pastoral order containing provision under section 54A(1)(k) (designation of first incumbent of a new benefice or of two or more benefices to be held in plurality)—
+(3A)[^c-213a0b82aed025a8e28f40bfba8514e8] Where the bishop proposes to make a bishop's pastoral order containing provision under section 54A(1)(k) (designation of first incumbent of a new benefice or of two or more benefices to be held in plurality)—
 
 - (a) the bishop must give notice of the proposal to the patron concerned, and
 - (b) the patron's right of presentation to the new benefice or benefices may not be exercised after the date on which the bishop gives notice under paragraph (a) until the order containing the provision comes into operation.
@@ -48,8 +48,8 @@ that those matters are being considered, and thereupon the registered patron sha
 
 ## Annotations
 
-[^key-caf19b0aeed017ca8b0df720b4250979]: Commencement: S. 87 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-caf19b0aeed017ca8b0df720b4250979]: Commencement: S. 87 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-6701e8fe6b76970b3b5f05bac8f70f9b]: Textual amendment: [S. 87](https://www.legislation.gov.uk/ukcm/2011/3/section/87) title substituted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 7(2)](https://www.legislation.gov.uk/ukcm/2018/4/section/7/2), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(f)](https://www.legislation.gov.uk/uksi/2018/722/article/3/f)
+[^c-6701e8fe6b76970b3b5f05bac8f70f9b]: Textual amendment: [S. 87](https://www.legislation.gov.uk/ukcm/2011/3/section/87) title substituted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 7(2)](https://www.legislation.gov.uk/ukcm/2018/4/section/7/2), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(f)](https://www.legislation.gov.uk/uksi/2018/722/article/3/f)
 
-[^key-213a0b82aed025a8e28f40bfba8514e8]: Textual amendment: [S. 87(3A)](https://www.legislation.gov.uk/ukcm/2011/3/section/87/3A) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 7(2)](https://www.legislation.gov.uk/ukcm/2018/4/section/7/2), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(f)](https://www.legislation.gov.uk/uksi/2018/722/article/3/f)
+[^c-213a0b82aed025a8e28f40bfba8514e8]: Textual amendment: [S. 87(3A)](https://www.legislation.gov.uk/ukcm/2011/3/section/87/3A) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 7(2)](https://www.legislation.gov.uk/ukcm/2018/4/section/7/2), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(f)](https://www.legislation.gov.uk/uksi/2018/722/article/3/f)

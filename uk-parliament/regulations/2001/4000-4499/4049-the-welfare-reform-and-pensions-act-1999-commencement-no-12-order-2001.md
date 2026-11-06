@@ -53,7 +53,7 @@ The Secretary of State for Work and Pensions, in exercise of the power conferred
 
 is 1st January 2002.
 
-(2)[^key-2dd8369bbc8df00c44bc571e2ffdf004] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2dd8369bbc8df00c44bc571e2ffdf004] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The day appointed for the coming into force of—
 
@@ -196,7 +196,7 @@ the Welfare Reform and Pensions Act 1999 (Commencement No. 11) Order 2001 (S.I. 
 
 [^c1583512]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-2dd8369bbc8df00c44bc571e2ffdf004]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2001/4049/article/2/2) omitted (30.1.2002) by virtue of [The Welfare Reform and Pensions Act 1999 (Commencement No. 13) Order 2002 (S.I. 2002/153)](https://www.legislation.gov.uk/uksi/2002/153), [art. 3](https://www.legislation.gov.uk/uksi/2002/153/article/3)
+[^c-2dd8369bbc8df00c44bc571e2ffdf004]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2001/4049/article/2/2) omitted (30.1.2002) by virtue of [The Welfare Reform and Pensions Act 1999 (Commencement No. 13) Order 2002 (S.I. 2002/153)](https://www.legislation.gov.uk/uksi/2002/153), [art. 3](https://www.legislation.gov.uk/uksi/2002/153/article/3)
 
 [^c1583514]: Marginal citation: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49).
 

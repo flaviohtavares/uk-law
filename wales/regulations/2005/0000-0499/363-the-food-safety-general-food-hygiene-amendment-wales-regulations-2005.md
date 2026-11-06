@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food Safety (General Food Hygiene) (Amendment) (Wales) Regulations 2005 (revoked)[^key-13d39832b00e7bfaa1c1c6c777497dc8]
+The Food Safety (General Food Hygiene) (Amendment) (Wales) Regulations 2005 (revoked)[^c-13d39832b00e7bfaa1c1c6c777497dc8]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 1 March 2005
 
-[^key-13d39832b00e7bfaa1c1c6c777497dc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13d39832b00e7bfaa1c1c6c777497dc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-13d39832b00e7bfaa1c1c6c777497dc8]
+## 1. Title, application and commencement[^c-13d39832b00e7bfaa1c1c6c777497dc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Food Safety (General Food Hygiene) Regulations 1995[^key-13d39832b00e7bfaa1c1c6c777497dc8]
+## 2. Amendment to the Food Safety (General Food Hygiene) Regulations 1995[^c-13d39832b00e7bfaa1c1c6c777497dc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-13d39832b00e7bfaa1c1c6c777497dc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13d39832b00e7bfaa1c1c6c777497dc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-13d39832b00e7bfaa1c1c6c777497dc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13d39832b00e7bfaa1c1c6c777497dc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-13d39832b00e7bfaa1c1c6c777497dc8]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-13d39832b00e7bfaa1c1c6c777497dc8]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

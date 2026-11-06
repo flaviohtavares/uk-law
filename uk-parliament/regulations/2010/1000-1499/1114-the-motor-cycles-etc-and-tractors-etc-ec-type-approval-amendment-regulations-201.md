@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Motor Cycles Etc. and Tractors Etc. (EC Type Approval) (Amendment) Regulations 2010 (revoked)[^key-7b944500ab93f624d126c2d451f0b0ef]
+The Motor Cycles Etc. and Tractors Etc. (EC Type Approval) (Amendment) Regulations 2010 (revoked)[^c-7b944500ab93f624d126c2d451f0b0ef]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st June 2010
 
-[^key-7b944500ab93f624d126c2d451f0b0ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b944500ab93f624d126c2d451f0b0ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7b944500ab93f624d126c2d451f0b0ef]
+## 1. Citation and commencement[^c-7b944500ab93f624d126c2d451f0b0ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Motor Cycles Etc. Regulations[^key-7b944500ab93f624d126c2d451f0b0ef]
+## 2. Amendment of the Motor Cycles Etc. Regulations[^c-7b944500ab93f624d126c2d451f0b0ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Tractor etc Regulations[^key-7b944500ab93f624d126c2d451f0b0ef]
+## 3. Amendment of the Tractor etc Regulations[^c-7b944500ab93f624d126c2d451f0b0ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b944500ab93f624d126c2d451f0b0ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b944500ab93f624d126c2d451f0b0ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7b944500ab93f624d126c2d451f0b0ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b944500ab93f624d126c2d451f0b0ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b944500ab93f624d126c2d451f0b0ef]: Textual amendment: Regulations revoked (20.5.2018) by [The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235)](https://www.legislation.gov.uk/uksi/2018/235), reg. 1(b), [Sch. 2 para. 8(j)](https://www.legislation.gov.uk/uksi/2018/235/schedule/2/paragraph/8/j) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/17))
+[^c-7b944500ab93f624d126c2d451f0b0ef]: Textual amendment: Regulations revoked (20.5.2018) by [The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235)](https://www.legislation.gov.uk/uksi/2018/235), reg. 1(b), [Sch. 2 para. 8(j)](https://www.legislation.gov.uk/uksi/2018/235/schedule/2/paragraph/8/j) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/17))

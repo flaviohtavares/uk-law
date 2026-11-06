@@ -48,13 +48,13 @@ The Department for the Economy[^f00001] in exercise of the powers conferred by A
 
 ### Introductory
 
-#### 1. Citation, commencement and application[^key-73934d5842ca01d0cd6d2ac801cdbe15]
+#### 1. Citation, commencement and application[^c-73934d5842ca01d0cd6d2ac801cdbe15]
 
 (1) These Regulations may be cited as the Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024.
 
 (2) These Regulations come into operation on 6th April 2024.
 
-#### 2. Interpretation[^key-ac2cdc8cb97cad2c223951417fc568af]
+#### 2. Interpretation[^c-ac2cdc8cb97cad2c223951417fc568af]
 
 In these Regulations “**the Repayment Regulations**” means the Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009 [^f00003].
 
@@ -62,7 +62,7 @@ In these Regulations “**the Repayment Regulations**” means the Education (St
 
 ### Amendment of Part 1 (general)
 
-#### 3. Amendment to regulation 3 (interpretation)[^key-f97233ac7e9087140347d84dc4e3914f]
+#### 3. Amendment to regulation 3 (interpretation)[^c-f97233ac7e9087140347d84dc4e3914f]
 
 In regulation 3 (interpretation) —
 
@@ -89,7 +89,7 @@ In regulation 3 (interpretation) —
 
 ### Amendment of Part 2 (Provisions Applicable to all Repayments)
 
-#### 4. Amendments to regulation 6 (interpretation)[^key-97355b32dfa0bc66c8f7f23749bf39a6]
+#### 4. Amendments to regulation 6 (interpretation)[^c-97355b32dfa0bc66c8f7f23749bf39a6]
 
 In regulation 6[^f00005] (interpretation)—
 
@@ -100,7 +100,7 @@ In regulation 6[^f00005] (interpretation)—
 
     ;
 
-#### 5. Amendments to regulation 11 (timing of repayments: general)[^key-327d4bb199322a14ebc5a71d829ae877]
+#### 5. Amendments to regulation 11 (timing of repayments: general)[^c-327d4bb199322a14ebc5a71d829ae877]
 
 In regulation 11[^f00008] (timing of repayments: general)—
 
@@ -114,7 +114,7 @@ In regulation 11[^f00008] (timing of repayments: general)—
 
   .
 
-#### 6. Amendments to regulation 16 (interest rates on the loans)[^key-f564face0d47762d8ae244b23acd015b]
+#### 6. Amendments to regulation 16 (interest rates on the loans)[^c-f564face0d47762d8ae244b23acd015b]
 
 In regulation 16[^f00009] (interest rates on the loans)—
 
@@ -125,7 +125,7 @@ In regulation 16[^f00009] (interest rates on the loans)—
 
 ### Amendment of Part 3 (Repayments by Assessment to Income Tax)
 
-#### 7. Amendments to regulation 24 (time for and amount of repayments)[^key-50d5b01ca1b6dcfe0eae286394e0e495]
+#### 7. Amendments to regulation 24 (time for and amount of repayments)[^c-50d5b01ca1b6dcfe0eae286394e0e495]
 
 In regulation 24 (time for and amount of repayments) [^f00010] —
 
@@ -139,11 +139,11 @@ In regulation 24 (time for and amount of repayments) [^f00010] —
 
   .
 
-#### 8. Amendment to regulation 31 (late payment penalties)[^key-986a63a77a80bd1e3c5d75e9f12e4f23]
+#### 8. Amendment to regulation 31 (late payment penalties)[^c-986a63a77a80bd1e3c5d75e9f12e4f23]
 
 Omit regulation 31[^f00014](a) (including the “and” that follows it).
 
-#### 9. Amendments to regulation 35 (penalties)[^key-8e8463f49fc4d9a9ce80eeae660215ce]
+#### 9. Amendments to regulation 35 (penalties)[^c-8e8463f49fc4d9a9ce80eeae660215ce]
 
 In regulation 35[^f00015]—
 
@@ -153,7 +153,7 @@ In regulation 35[^f00015]—
 
 ### Amendment of Part 4 (Deduction of Repayments by Employers)
 
-#### 10. Amendments to regulation 36 (interpretation)[^key-ebc29480025e49758413d6a7dd905ea4]
+#### 10. Amendments to regulation 36 (interpretation)[^c-ebc29480025e49758413d6a7dd905ea4]
 
 In regulation 36 (interpretation)[^f00016]—
 
@@ -162,11 +162,11 @@ In regulation 36 (interpretation)[^f00016]—
 - (c) in the definition of “non-Real Time Information employer”, for “one within regulation 36A” substitute “a Real Time Information employer”;
 - (d) in the definition of “Real Time Information employer”, for “regulation 36A” substitute “regulation 2A of the PAYE Regulations”.
 
-#### 11. Omission of regulation 36A (Real Time Information employer)[^key-8b91cdfada75650a75a0247c844a79df]
+#### 11. Omission of regulation 36A (Real Time Information employer)[^c-8b91cdfada75650a75a0247c844a79df]
 
 Omit regulation 36A (Real Time Information employer).
 
-#### 12. Substitution of regulation 38 (commencement of employment with a non-Real Time Information employer) with (new employee to declare repayments liability)[^key-497c8c93364c1f2a5b8936dabce6cbcf]
+#### 12. Substitution of regulation 38 (commencement of employment with a non-Real Time Information employer) with (new employee to declare repayments liability)[^c-497c8c93364c1f2a5b8936dabce6cbcf]
 
 For regulation 38[^f00017] (commencement of employment with a non-Real Time Information employer) substitute—
 
@@ -174,11 +174,11 @@ For regulation 38[^f00017] (commencement of employment with a non-Real Time Info
 >
 > A person who commences employment with an employer must inform the employer whether the person has any liability to repay a student loan.
 
-#### 13. Omission of regulation 38A (Commencement of employment with a Real Time Information employer)[^key-f6a67d522369d2f94142ae75d004a31f]
+#### 13. Omission of regulation 38A (Commencement of employment with a Real Time Information employer)[^c-f6a67d522369d2f94142ae75d004a31f]
 
 Omit regulation 38A (Commencement of employment with a Real Time Information employer).
 
-#### 14. Amendments to regulation 45 (deductions of repayments)[^key-7b2c537aa24d6defd1a041f8442e8cc1]
+#### 14. Amendments to regulation 45 (deductions of repayments)[^c-7b2c537aa24d6defd1a041f8442e8cc1]
 
 In regulation 45[^f00018] (deductions of repayments) —
 
@@ -190,29 +190,29 @@ In regulation 45[^f00018] (deductions of repayments) —
   - (i) omit sub-paragraph (c) (including the “or” that follows it);
   - (ii) in sub-paragraph (d) for “regulation 38A” substitute “regulation 38”.
 
-#### 15. Amendment to regulation 54 (returns by employers)[^key-78448650e26ea145005234cff2c45b24]
+#### 15. Amendment to regulation 54 (returns by employers)[^c-78448650e26ea145005234cff2c45b24]
 
 In regulation 54(7) (returns by employers), for “section 566(1) of the 1988 Act” substitute “section 70(1)(a) or 71 of the Finance Act 2004[^f00019]”.
 
-#### 16. Amendments to regulation 54B (real time returns of information about payments of earnings)[^key-037e247709f4561b1e86d486b296f6eb]
+#### 16. Amendments to regulation 54B (real time returns of information about payments of earnings)[^c-037e247709f4561b1e86d486b296f6eb]
 
 In regulation 54B[^f00020] (real time returns of information about payments of earnings)—
 
 - (a) in paragraph (1) omit “but this is subject to paragraph (1A)”;
 - (b) omit paragraphs (1A) to (1E).
 
-#### 17. Amendments to regulation 54E (exceptions to regulation 54B)[^key-95c0e0ac448d3ade0def99b6ae55dbc6]
+#### 17. Amendments to regulation 54E (exceptions to regulation 54B)[^c-95c0e0ac448d3ade0def99b6ae55dbc6]
 
 In regulation 54E[^f00021] (exceptions to regulation 54B)—
 
 - (a) omit paragraph (2A);
 - (b) in paragraph (3), for “On and after 6 April 2014, the” substitute “The”.
 
-#### 18. Amendment to regulation 54G (failure to make a return under regulation 54B or 54E)[^key-ab4e036e862e598020654a13d5ef6f9c]
+#### 18. Amendment to regulation 54G (failure to make a return under regulation 54B or 54E)[^c-ab4e036e862e598020654a13d5ef6f9c]
 
 In regulation 54G[^f00022] (failure to make a return under regulation 54B or 54E) omit paragraph (5).
 
-#### 19. Amendments to regulation 62 (cessation of employment)[^key-7d5eadb579a73b9046ac60f4ede96215]
+#### 19. Amendments to regulation 62 (cessation of employment)[^c-7d5eadb579a73b9046ac60f4ede96215]
 
 In regulation 62[^f00023] (cessation of employment)—
 
@@ -222,7 +222,7 @@ In regulation 62[^f00023] (cessation of employment)—
 
 ### Amendment of Part 5 (Repayment by Overseas Borrowers)
 
-#### 20. Amendments to regulation 66 (interpretation)[^key-22d21d7e32036f363e2749b096587456]
+#### 20. Amendments to regulation 66 (interpretation)[^c-22d21d7e32036f363e2749b096587456]
 
 In regulation 66[^f00024] (interpretation)—
 
@@ -232,7 +232,7 @@ In regulation 66[^f00024] (interpretation)—
   > - “**country**” includes territory;
   > - “**country-specific multiplier**” means the country-specific multiplier calculated in accordance with regulation 66A;
 
-#### 21. Insertion of regulation 66A (How to calculate country-specific multiplier)[^key-38cd3081fbfb4552c12d7c467d068316]
+#### 21. Insertion of regulation 66A (How to calculate country-specific multiplier)[^c-38cd3081fbfb4552c12d7c467d068316]
 
 After regulation 66(interpretation) insert—
 
@@ -276,7 +276,7 @@ After regulation 66(interpretation) insert—
 
 .
 
-#### 22. Amendments to regulation 69 (repayment by fixed instalments)[^key-7fea23483a794c1fa7c10c7e287ea52a]
+#### 22. Amendments to regulation 69 (repayment by fixed instalments)[^c-7fea23483a794c1fa7c10c7e287ea52a]
 
 In regulation 69 (repayment by fixed instalments) —
 
@@ -291,7 +291,7 @@ In regulation 69 (repayment by fixed instalments) —
   >
   > (3) The fixed instalment rate for the student loan is calculated in accordance with regulation 69A.
 
-#### 23. Insertion of regulation 69A (how to calculate fixed instalment rate)[^key-98d99bf98542930cb1e9cbb2ca3770e9]
+#### 23. Insertion of regulation 69A (how to calculate fixed instalment rate)[^c-98d99bf98542930cb1e9cbb2ca3770e9]
 
 After regulation 69 (repayments by fixed instalments) insert—
 
@@ -309,7 +309,7 @@ After regulation 69 (repayments by fixed instalments) insert—
 > - “**x**” means the median salary for graduates (to the nearest £500) in the most-recent year published by the Department for Education[^f00026];
 > - “**y**” means the repayment threshold for the student loan as calculated under Regulation 24(6).
 
-#### 24. Amendments to regulation 70 (repayment by income-related instalments)[^key-8d556f89d0f09de1800adacc024fd35b]
+#### 24. Amendments to regulation 70 (repayment by income-related instalments)[^c-8d556f89d0f09de1800adacc024fd35b]
 
 In regulation 70[^f00027] (repayment by income-related instalments)—
 
@@ -321,7 +321,7 @@ In regulation 70[^f00027] (repayment by income-related instalments)—
   > - (b) income in respect of which the Department is satisfied that repayments are likely to be made under Part 3 or 4.
 - (b) in paragraph (5) for “the instalment”, substitute “each instalment”.
 
-#### 25. Insertion of regulation 70A (how to calculate applicable threshold)[^key-70a048af7dd5754f4124206adcc6a0ed]
+#### 25. Insertion of regulation 70A (how to calculate applicable threshold)[^c-70a048af7dd5754f4124206adcc6a0ed]
 
 After regulation 70 (repayment by income-related instalments) insert—
 
@@ -336,7 +336,7 @@ After regulation 70 (repayment by income-related instalments) insert—
 
 .
 
-#### 26. Omission of regulation 71 (calculation of fixed instalment and applicable threshold)[^key-20ff63d29591cfa1e3cf3c3818f4f2b4]
+#### 26. Omission of regulation 71 (calculation of fixed instalment and applicable threshold)[^c-20ff63d29591cfa1e3cf3c3818f4f2b4]
 
 Omit regulation 71 (calculation of fixed instalment and applicable threshold).
 
@@ -403,17 +403,17 @@ A regulatory impact assessment has not been produced for this rule as no, or no 
 
 [^f00002]: Footnote: [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760). Article 3 was amended by the Learning and Skills Act [2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21), section 147(3)(a) and (b), the Student Loans (Amendment) Act (Northern Ireland) 2011, (c.2 (N.I.)), s.1(1), the Income Tax (Earnings and Pensions) Act [2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6, the Finance Act 2003, (c.14), s.147(4), the Higher Education (Northern Ireland) Order 2005, ([S.I. 2005/1116 (N.I. 5))](https://www.legislation.gov.uk/nisi/2005/1116), Articles 11 and 12 and the Schedule, and by the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013, ([S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881)), Schedule 1.
 
-[^key-73934d5842ca01d0cd6d2ac801cdbe15]: Commencement: Reg. 1 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-73934d5842ca01d0cd6d2ac801cdbe15]: Commencement: Reg. 1 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
-[^key-ac2cdc8cb97cad2c223951417fc568af]: Commencement: Reg. 2 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-ac2cdc8cb97cad2c223951417fc568af]: Commencement: Reg. 2 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2009 No. 128](https://www.legislation.gov.uk/nisr/2009/128), amended by Orders [2013/1881](https://www.legislation.gov.uk/uksi/2013/1881) and [2013/3021](https://www.legislation.gov.uk/uksi/2013/3021), [S.R. 2010 No. 91](https://www.legislation.gov.uk/nisr/2010/91), [S.R. 2011 No. 137](https://www.legislation.gov.uk/nisr/2011/137), [S.R. 2012 No. 136](https://www.legislation.gov.uk/nisr/2012/136), [S.R. 2013 No. 68](https://www.legislation.gov.uk/nisr/2013/68), [S.R. 2014 No. 87](https://www.legislation.gov.uk/nisr/2014/87), [S.R. 2016 No. 228](https://www.legislation.gov.uk/nisr/2016/228), [S.R. 2017 No. 7](https://www.legislation.gov.uk/nisr/2017/7), [S.R. 2019 No. 35](https://www.legislation.gov.uk/nisr/2019/35), [S.R. 2021 No.50](https://www.legislation.gov.uk/nisr/2021/50) and [S.R. 2021 No. 260](https://www.legislation.gov.uk/nisr/2021/260).
 
-[^key-f97233ac7e9087140347d84dc4e3914f]: Commencement: Reg. 3 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-f97233ac7e9087140347d84dc4e3914f]: Commencement: Reg. 3 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00004]: Footnote: The RPI All Items Index is published at https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/chaw/.
 
-[^key-97355b32dfa0bc66c8f7f23749bf39a6]: Commencement: Reg. 4 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-97355b32dfa0bc66c8f7f23749bf39a6]: Commencement: Reg. 4 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00005]: Footnote: Regulation 6 was amended by[S.R. 2013 No. 3021](https://www.legislation.gov.uk/nisr/2013/3021), [S.R. 2016 No. 228](https://www.legislation.gov.uk/nisr/2016/228) and [S.R. 2017 No. 7](https://www.legislation.gov.uk/nisr/2017/7).
 
@@ -421,15 +421,15 @@ A regulatory impact assessment has not been produced for this rule as no, or no 
 
 [^f00007]: Footnote: The total charge for credit rules are published as part of the FCA Handbook, which is published at https://www.handbook.fca.org.uk/handbook.
 
-[^key-327d4bb199322a14ebc5a71d829ae877]: Commencement: Reg. 5 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-327d4bb199322a14ebc5a71d829ae877]: Commencement: Reg. 5 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00008]: Footnote: Regulation 11 was amended by [S.R. 2017 No. 7](https://www.legislation.gov.uk/nisr/2017/7).
 
-[^key-f564face0d47762d8ae244b23acd015b]: Commencement: Reg. 6 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-f564face0d47762d8ae244b23acd015b]: Commencement: Reg. 6 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00009]: Footnote: Regulation 16 had words substituted by Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order [2013/1881](https://www.legislation.gov.uk/uksi/2013/1881) (July 26, 2013: substitution has effect subject to transitional provisions specified in [SI 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881) Pt.8).
 
-[^key-50d5b01ca1b6dcfe0eae286394e0e495]: Commencement: Reg. 7 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-50d5b01ca1b6dcfe0eae286394e0e495]: Commencement: Reg. 7 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00010]: Footnote: Regulation 24 was amended by[S.R. 2011 No. 137](https://www.legislation.gov.uk/nisr/2011/137), [S.R. 2010 No.91](https://www.legislation.gov.uk/nisr/2010/91), Section 128 of the Income Tax Act [2007 (c.3)](https://www.legislation.gov.uk/ukpga/2007/3) was amended by the Finance Act [2009 (c.10)](https://www.legislation.gov.uk/ukpga/2009/10) section 68(1), The requirements to ‘exclude’ certain income and to ‘deduct’ other sources of income from a borrower’s total income for the purposes of student loan repayments reflects the structure of section 23 of the 2007 Act, [SI 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705), [S.R. 2011 No. 137](https://www.legislation.gov.uk/nisr/2011/137) and had words repealed by [S.R. 2014 No. 87](https://www.legislation.gov.uk/nisr/2014/87).
 
@@ -439,68 +439,68 @@ A regulatory impact assessment has not been produced for this rule as no, or no 
 
 [^f00013]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
 
-[^key-986a63a77a80bd1e3c5d75e9f12e4f23]: Commencement: Reg. 8 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-986a63a77a80bd1e3c5d75e9f12e4f23]: Commencement: Reg. 8 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00014]: Footnote: Regulation 31 was substituted by [S.R. 2011 No. 137](https://www.legislation.gov.uk/nisr/2011/137) (April 6, 2011: substitution does not apply to repayments payable by a borrower under [SR 2009/128](https://www.legislation.gov.uk/nisr/2009/128) Part 3 in relation to the tax year 2009-10 or any previous tax year).
 
-[^key-8e8463f49fc4d9a9ce80eeae660215ce]: Commencement: Reg. 9 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-8e8463f49fc4d9a9ce80eeae660215ce]: Commencement: Reg. 9 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00015]: Footnote: Regulation 35 was amended by [S.R. 2011 No. 137](https://www.legislation.gov.uk/nisr/2011/137) (April 6, 2011: substitution does not apply to repayments payable by a borrower under [SR 2009/128](https://www.legislation.gov.uk/nisr/2009/128) Part 3 in relation to the tax year 2009-10 or any previous tax year).
 
-[^key-ebc29480025e49758413d6a7dd905ea4]: Commencement: Reg. 10 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-ebc29480025e49758413d6a7dd905ea4]: Commencement: Reg. 10 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00016]: Footnote: Regulation 36 was amended by [S.R. 2012 No. 136](https://www.legislation.gov.uk/nisr/2012/136) and [S.R. 2021 No. 260](https://www.legislation.gov.uk/nisr/2021/260).
 
-[^key-8b91cdfada75650a75a0247c844a79df]: Commencement: Reg. 11 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-8b91cdfada75650a75a0247c844a79df]: Commencement: Reg. 11 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
-[^key-497c8c93364c1f2a5b8936dabce6cbcf]: Commencement: Reg. 12 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-497c8c93364c1f2a5b8936dabce6cbcf]: Commencement: Reg. 12 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00017]: Footnote: Regulation 38 was substituted by [S.R. 2012 No. 136](https://www.legislation.gov.uk/nisr/2012/136).
 
-[^key-f6a67d522369d2f94142ae75d004a31f]: Commencement: Reg. 13 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-f6a67d522369d2f94142ae75d004a31f]: Commencement: Reg. 13 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
-[^key-7b2c537aa24d6defd1a041f8442e8cc1]: Commencement: Reg. 14 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-7b2c537aa24d6defd1a041f8442e8cc1]: Commencement: Reg. 14 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00018]: Footnote: Regulation 45 was amended by [S.R. 2012 No. 136](https://www.legislation.gov.uk/nisr/2012/136).
 
-[^key-78448650e26ea145005234cff2c45b24]: Commencement: Reg. 15 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-78448650e26ea145005234cff2c45b24]: Commencement: Reg. 15 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00019]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Section 71 was amended by Part 1 of Schedule 3 to the Corporation Tax Act [2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4).
 
-[^key-037e247709f4561b1e86d486b296f6eb]: Commencement: Reg. 16 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-037e247709f4561b1e86d486b296f6eb]: Commencement: Reg. 16 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00020]: Footnote: Regulation 54B was inserted by [S.R. 2012 No. 136](https://www.legislation.gov.uk/nisr/2012/136) and amended by [S.R. 2014 No. 87](https://www.legislation.gov.uk/nisr/2014/87).
 
-[^key-95c0e0ac448d3ade0def99b6ae55dbc6]: Commencement: Reg. 17 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-95c0e0ac448d3ade0def99b6ae55dbc6]: Commencement: Reg. 17 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00021]: Footnote: Regulation 54E was added by [S.R. 2012 No. 136](https://www.legislation.gov.uk/nisr/2012/136) and amended by [S.R 2013 No. 68](https://www.legislation.gov.uk/nisr/2013/68) and [S.R. 2014 No. 87](https://www.legislation.gov.uk/nisr/2014/87).
 
-[^key-ab4e036e862e598020654a13d5ef6f9c]: Commencement: Reg. 18 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-ab4e036e862e598020654a13d5ef6f9c]: Commencement: Reg. 18 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00022]: Footnote: Regulation 54G was added by [S.R 2013 No. 68](https://www.legislation.gov.uk/nisr/2013/68) and amended by [S.R. 2014 No. 87](https://www.legislation.gov.uk/nisr/2014/87).
 
-[^key-7d5eadb579a73b9046ac60f4ede96215]: Commencement: Reg. 19 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-7d5eadb579a73b9046ac60f4ede96215]: Commencement: Reg. 19 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00023]: Footnote: Regulation 62 was amended by [S.R. 2012 No. 136](https://www.legislation.gov.uk/nisr/2012/136).
 
-[^key-22d21d7e32036f363e2749b096587456]: Commencement: Reg. 20 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-22d21d7e32036f363e2749b096587456]: Commencement: Reg. 20 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00024]: Footnote: Regulation 66 was amended by [S.R. 2012 No. 136](https://www.legislation.gov.uk/nisr/2012/136).
 
-[^key-38cd3081fbfb4552c12d7c467d068316]: Commencement: Reg. 21 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-38cd3081fbfb4552c12d7c467d068316]: Commencement: Reg. 21 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00025]: Footnote: The world development indicator is published at https://data.worldbank.org/indicator/PA.NUS.PPPC.RF.
 
-[^key-7fea23483a794c1fa7c10c7e287ea52a]: Commencement: Reg. 22 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-7fea23483a794c1fa7c10c7e287ea52a]: Commencement: Reg. 22 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
-[^key-98d99bf98542930cb1e9cbb2ca3770e9]: Commencement: Reg. 23 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-98d99bf98542930cb1e9cbb2ca3770e9]: Commencement: Reg. 23 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00026]: Footnote: The median salary for graduates is published online at https://explore-education-statistics.service.gov.uk/find-statistics/graduate-labour-markets. Data published in a given calendar year is used to calculate the fixed instalment rate for the financial year beginning in the following calendar year.
 
-[^key-8d556f89d0f09de1800adacc024fd35b]: Commencement: Reg. 24 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-8d556f89d0f09de1800adacc024fd35b]: Commencement: Reg. 24 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
 [^f00027]: Footnote: Regulation 70 was amended by [S.R. 2012 No. 136](https://www.legislation.gov.uk/nisr/2012/136) and [S.R 2013 No. 68](https://www.legislation.gov.uk/nisr/2013/68).
 
-[^key-70a048af7dd5754f4124206adcc6a0ed]: Commencement: Reg. 25 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-70a048af7dd5754f4124206adcc6a0ed]: Commencement: Reg. 25 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
 
-[^key-20ff63d29591cfa1e3cf3c3818f4f2b4]: Commencement: Reg. 26 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)
+[^c-20ff63d29591cfa1e3cf3c3818f4f2b4]: Commencement: Reg. 26 in operation at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2)

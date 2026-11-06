@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39A. Appeals against compliance notices and stop notices etc[^key-9055af08c7ad60cfa41419e6b1fa6955]
+## 39A. Appeals against compliance notices and stop notices etc[^c-9055af08c7ad60cfa41419e6b1fa6955]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9055af08c7ad60cfa41419e6b1fa6955]: Textual amendment: [S. 39A](https://www.legislation.gov.uk/ukpga/1984/55/section/39A) inserted (6.4.2023 for specified purposes except in relation to W., 5.9.2023 for W. for specified purposes, 1.10.2023 in so far as not already in force except in relation to W., 1.7.2026 for W. in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/38/2), [170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(q)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/q); [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(v)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/v); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/h); [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(d)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/d)
+[^c-9055af08c7ad60cfa41419e6b1fa6955]: Textual amendment: [S. 39A](https://www.legislation.gov.uk/ukpga/1984/55/section/39A) inserted (6.4.2023 for specified purposes except in relation to W., 5.9.2023 for W. for specified purposes, 1.10.2023 in so far as not already in force except in relation to W., 1.7.2026 for W. in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/38/2), [170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(q)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/q); [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(v)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/v); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/h); [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(d)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/d)

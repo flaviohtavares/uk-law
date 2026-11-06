@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 135. Other amounts to be disregarded[^key-4fa8389cda9e060203ff50522349c88f]
+## 135. Other amounts to be disregarded[^c-4fa8389cda9e060203ff50522349c88f]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fa8389cda9e060203ff50522349c88f]: Commencement: Reg. 135 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-4fa8389cda9e060203ff50522349c88f]: Commencement: Reg. 135 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Interpretation[^key-34e3ca12eed9728db10afc85c6429e99]
+## 77. Interpretation[^c-34e3ca12eed9728db10afc85c6429e99]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-34e3ca12eed9728db10afc85c6429e99]: Commencement: S. 77 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-34e3ca12eed9728db10afc85c6429e99]: Commencement: S. 77 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

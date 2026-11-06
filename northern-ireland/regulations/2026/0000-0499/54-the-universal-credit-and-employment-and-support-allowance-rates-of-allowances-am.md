@@ -44,7 +44,7 @@ The Department for Communities makes these Regulations in exercise of the powers
 
 The powers are exercisable by the Department for Communities by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-ae8c65170abe42ee0a79c89ac4e2fcf8]
+## 1. Citation, commencement and interpretation[^c-ae8c65170abe42ee0a79c89ac4e2fcf8]
 
 (1) These Regulations may be cited as the Universal Credit and Employment and Support Allowance (Rates of Allowances) (Amendment and Modification) Regulations (Northern Ireland) 2026 and come into operation in accordance with paragraphs (2) to (4).
 
@@ -58,7 +58,7 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 
 (6) The Interpretation Act (Northern Ireland) 1954[^f00006] applies to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendments to the Employment and Support Allowance Regulations[^key-fb1062a6448889bf61de7e27e299f42c]
+## 2. Amendments to the Employment and Support Allowance Regulations[^c-fb1062a6448889bf61de7e27e299f42c]
 
 (1) The Employment and Support Allowance Regulations (Northern Ireland) 2008 are amended in accordance with paragraphs (2) and (7).
 
@@ -180,7 +180,7 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 
 (7) The Schedule makes further amendments to Employment and Support Allowance Regulations (Northern Ireland) 2008 in connection with amendments made by this regulation.
 
-## 3. Amendments to the Universal Credit Regulations[^key-310bfc719553241a29ec3a3607170764]
+## 3. Amendments to the Universal Credit Regulations[^c-310bfc719553241a29ec3a3607170764]
 
 (1) The Universal Credit Regulations (Northern Ireland) 2016[^f00011] are amended in accordance with paragraphs (2) to (4).
 
@@ -259,7 +259,7 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 > - (a) before 6th April 2026, a claimant is entitled to an employment and support allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007[^f00013] that includes the support component within the meaning of that Part; and
 > - (b) the claimant has been so entitled throughout the period beginning with 6th April 2026 and ending with the date on which the claimant is awarded universal credit that includes the LCWRA element.
 
-## 4. Transitional provisions[^key-ed617b192e353441f528336a30ae3614]
+## 4. Transitional provisions[^c-ed617b192e353441f528336a30ae3614]
 
 In cases falling within paragraphs 2 to 7 of Schedule 2 to the Employment and Support Allowance (Consequential Amendments and Transitional and Savings Provisions) Regulations (Northern Ireland) 2017[^f00014], the Employment and Support Allowance Regulations (Northern Ireland) 2008 are to be read with the following modifications—
 
@@ -283,16 +283,16 @@ A senior officer of the Department for Communities
 
 Regulation 2(7)
 
-**1.**[^key-f3958e6127ee00be7fddb4ec4aef6c6f] The Employment and Support Allowance Regulations (Northern Ireland) 2008 are amended in accordance with paragraphs 2 to 5.
+**1.**[^c-f3958e6127ee00be7fddb4ec4aef6c6f] The Employment and Support Allowance Regulations (Northern Ireland) 2008 are amended in accordance with paragraphs 2 to 5.
 
-**2.**[^key-fc92480c7d8acfc6b60ccb8a2f99bc9f] In regulation 63[^f00015] (reduction of employment and support allowance)—
+**2.**[^c-fc92480c7d8acfc6b60ccb8a2f99bc9f] In regulation 63[^f00015] (reduction of employment and support allowance)—
 
 - (a) in paragraph (2) for “paragraph (1)(a) of Part 1” substitute “paragraph A1(1)(a) of Part A1, or paragraph 1(1)(a) of Part 1, as the case may be”;
 - (b) in paragraph (3)(c) for “paragraph 1(a) of Part 1” substitute “paragraph A1(1)(a) of Part A1 or paragraph 1(1)(a) of Part 1, as the case may be”.
 
-**3.**[^key-1cd5fbd9bc38df3d9dc8085cd3e75109] In regulation 64D(1)[^f00016] (the amount of a hardship payment) for “Part 1”, each time it appears, substitute “Part A1”.
+**3.**[^c-1cd5fbd9bc38df3d9dc8085cd3e75109] In regulation 64D(1)[^f00016] (the amount of a hardship payment) for “Part 1”, each time it appears, substitute “Part A1”.
 
-**4.**[^key-3b3fadf87bd0e9cc0c5ca4882d7c813a] In regulation 68(1)[^f00017] (polygamous marriages)—
+**4.**[^c-3b3fadf87bd0e9cc0c5ca4882d7c813a] In regulation 68(1)[^f00017] (polygamous marriages)—
 
 - (a) in sub-paragraph (a) for “paragraph 1(3) of Schedule 4” substitute “paragraph A1(3) of Part A1 of Schedule 4”;
 - (b) in sub-paragraph (b)—
@@ -300,7 +300,7 @@ Regulation 2(7)
   - (ii) for “paragraph 1(1)(b)” substitute “paragraph A1(1)(b)”,
   - (iii) before “Schedule 4” insert “Part A1 of”.
 
-**5.**[^key-425217a954413d2635c6de3dddaff962] In regulation 83(4) (calculation of income and capital of members of claimant’s family and of a polygamous marriage)—
+**5.**[^c-425217a954413d2635c6de3dddaff962] In regulation 83(4) (calculation of income and capital of members of claimant’s family and of a polygamous marriage)—
 
 - (a) in the opening words, for “paragraph 1(3)(e), (f), (g), (h) or (i) of Schedule 4” substitute “paragraph A1(3)(e), (f), (g), (h) or (i) of Part A1 of Schedule 4”;
 - (b) in sub-paragraph (a)—
@@ -345,7 +345,7 @@ These Regulations make in relation to Northern Ireland provision corresponding t
 
 [^f00003]: Footnote: [S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927)
 
-[^key-ae8c65170abe42ee0a79c89ac4e2fcf8]: Commencement: Reg. 1 in operation at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/2)
+[^c-ae8c65170abe42ee0a79c89ac4e2fcf8]: Commencement: Reg. 1 in operation at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/2)
 
 [^f00004]: Footnote: [S.R 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280)
 
@@ -353,7 +353,7 @@ These Regulations make in relation to Northern Ireland provision corresponding t
 
 [^f00006]: Footnote: [1954 c.33](https://www.legislation.gov.uk/ukpga/1954/33)
 
-[^key-fb1062a6448889bf61de7e27e299f42c]: Commencement: Reg. 2 in operation at 6.4.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3)
+[^c-fb1062a6448889bf61de7e27e299f42c]: Commencement: Reg. 2 in operation at 6.4.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3)
 
 [^f00007]: Footnote: Regulation 67 was amended by paragraph 4(a) of Schedule 5 to [S.R. 2017 No. 176](https://www.legislation.gov.uk/nisr/2017/176)
 
@@ -363,7 +363,7 @@ These Regulations make in relation to Northern Ireland provision corresponding t
 
 [^f00010]: Footnote: Amended by regulation 2(4)(c) and Schedule 2 of [S.R. 2017 No. 51](https://www.legislation.gov.uk/nisr/2017/51)
 
-[^key-310bfc719553241a29ec3a3607170764]: Commencement: Reg. 3 in operation at 6.4.2026, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/4)
+[^c-310bfc719553241a29ec3a3607170764]: Commencement: Reg. 3 in operation at 6.4.2026, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/4)
 
 [^f00011]: Footnote: Amended by [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64). Regulation 28A was inserted by paragraph 2(4) of Schedule 2 to the Universal Credit Act [2025 (c. 22)](https://www.legislation.gov.uk/ukpga/2025/22)
 
@@ -371,22 +371,22 @@ These Regulations make in relation to Northern Ireland provision corresponding t
 
 [^f00013]: Footnote: [2007 c. 2](https://www.legislation.gov.uk/ukpga/2007/2)
 
-[^key-ed617b192e353441f528336a30ae3614]: Commencement: Reg. 4 in operation at 6.4.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3)
+[^c-ed617b192e353441f528336a30ae3614]: Commencement: Reg. 4 in operation at 6.4.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3)
 
 [^f00014]: Footnote: [S.R. 2017 No. 51](https://www.legislation.gov.uk/nisr/2017/51); *see also [S.R. 2017 No. 146](https://www.legislation.gov.uk/nisr/2017/146) which set outs the transitional and savings provisions for Universal Credit claimants who retained the LCW element*
 
-[^key-f3958e6127ee00be7fddb4ec4aef6c6f]: Commencement: Sch. para. 1 in operation at 6.4.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3)
+[^c-f3958e6127ee00be7fddb4ec4aef6c6f]: Commencement: Sch. para. 1 in operation at 6.4.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3)
 
-[^key-fc92480c7d8acfc6b60ccb8a2f99bc9f]: Commencement: Sch. para. 2 in operation at 6.4.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3)
+[^c-fc92480c7d8acfc6b60ccb8a2f99bc9f]: Commencement: Sch. para. 2 in operation at 6.4.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3)
 
 [^f00015]: Footnote: Amendments made by regulations 4(2) and (3) of [S.R. 2016 No. 240](https://www.legislation.gov.uk/nisr/2016/240) and regulation 10(8)(b) of [S.R. 2011 No. 265](https://www.legislation.gov.uk/nisr/2011/265)
 
-[^key-1cd5fbd9bc38df3d9dc8085cd3e75109]: Commencement: Sch. para. 3 in operation at 6.4.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3)
+[^c-1cd5fbd9bc38df3d9dc8085cd3e75109]: Commencement: Sch. para. 3 in operation at 6.4.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3)
 
 [^f00016]: Footnote: Inserted by regulation 6 of [S.R. 2016 No. 240](https://www.legislation.gov.uk/nisr/2016/240) and substituted by regulation 5 of [S.R. 2017 No.50](https://www.legislation.gov.uk/nisr/2017/50)
 
-[^key-3b3fadf87bd0e9cc0c5ca4882d7c813a]: Commencement: Sch. para. 4 in operation at 6.4.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3)
+[^c-3b3fadf87bd0e9cc0c5ca4882d7c813a]: Commencement: Sch. para. 4 in operation at 6.4.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3)
 
 [^f00017]: Footnote: Amendments made by regulation 3(4)(b) of [S.R. 2010 No. 6](https://www.legislation.gov.uk/nisr/2010/6) and paragraph 4(b) of Schedule 5 to [S.R. 2017 No.176](https://www.legislation.gov.uk/nisr/2017/176)
 
-[^key-425217a954413d2635c6de3dddaff962]: Commencement: Sch. para. 5 in operation at 6.4.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3)
+[^c-425217a954413d2635c6de3dddaff962]: Commencement: Sch. para. 5 in operation at 6.4.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3)

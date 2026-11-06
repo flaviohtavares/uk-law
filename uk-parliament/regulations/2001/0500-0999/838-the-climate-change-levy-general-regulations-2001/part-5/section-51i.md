@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51I. Supplies pursuant to CHP declaration contract[^key-803aa9fa3f649411679cf9cd7eb6114a]
+## 51I. Supplies pursuant to CHP declaration contract[^c-803aa9fa3f649411679cf9cd7eb6114a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Electricity is only “CHP electricity” for the purposes of paragraphs 20A and
 
 ## Annotations
 
-[^key-803aa9fa3f649411679cf9cd7eb6114a]: Textual amendment: Pt. 4A inserted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [19](https://www.legislation.gov.uk/uksi/2003/604/regulation/19)
+[^c-803aa9fa3f649411679cf9cd7eb6114a]: Textual amendment: Pt. 4A inserted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [19](https://www.legislation.gov.uk/uksi/2003/604/regulation/19)

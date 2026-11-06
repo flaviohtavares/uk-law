@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Power to issue bulk interception warrants[^key-dd26b12b760cd30de20a06af17b56eda][^key-3a3421df422513c0b3f02e0d8aaf93be]
+## 138. Power to issue bulk interception warrants[^c-dd26b12b760cd30de20a06af17b56eda][^c-3a3421df422513c0b3f02e0d8aaf93be]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ For the meaning of “head of an intelligence service”, see section 263.
 
 ## Annotations
 
-[^key-dd26b12b760cd30de20a06af17b56eda]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2016/25/section/138) in force at 31.5.2018 for specified purposes by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/c) (with [reg. 15(1)(c)](https://www.legislation.gov.uk/uksi/2018/652/regulation/15/1/c))
+[^c-dd26b12b760cd30de20a06af17b56eda]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2016/25/section/138) in force at 31.5.2018 for specified purposes by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/c) (with [reg. 15(1)(c)](https://www.legislation.gov.uk/uksi/2018/652/regulation/15/1/c))
 
-[^key-3a3421df422513c0b3f02e0d8aaf93be]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2016/25/section/138) in force at 27.6.2018 in so far as not already in force by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/a)
+[^c-3a3421df422513c0b3f02e0d8aaf93be]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2016/25/section/138) in force at 27.6.2018 in so far as not already in force by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/a)

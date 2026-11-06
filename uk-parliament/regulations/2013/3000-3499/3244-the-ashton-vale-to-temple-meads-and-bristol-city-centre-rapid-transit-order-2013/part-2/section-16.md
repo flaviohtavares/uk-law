@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Temporary closure of and works in waterways[^key-093bfcbd4182ccc8c156be50d3caf5f0]
+## 16. Temporary closure of and works in waterways[^c-093bfcbd4182ccc8c156be50d3caf5f0]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ is entitled to be paid compensation for such loss or damage by the promoter, to 
 
 ## Annotations
 
-[^key-093bfcbd4182ccc8c156be50d3caf5f0]: Commencement: Art. 16 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-093bfcbd4182ccc8c156be50d3caf5f0]: Commencement: Art. 16 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

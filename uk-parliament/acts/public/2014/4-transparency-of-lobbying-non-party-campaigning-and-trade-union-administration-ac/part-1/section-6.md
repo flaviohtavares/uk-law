@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Duty to update register[^key-baf24799ec20244bc1e7fab07214ddbc]
+## 6. Duty to update register[^c-baf24799ec20244bc1e7fab07214ddbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baf24799ec20244bc1e7fab07214ddbc]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/4/section/6) in force at 1.4.2015 by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)
+[^c-baf24799ec20244bc1e7fab07214ddbc]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/4/section/6) in force at 1.4.2015 by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)

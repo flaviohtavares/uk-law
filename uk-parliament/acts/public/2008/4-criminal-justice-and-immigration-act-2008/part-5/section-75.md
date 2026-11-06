@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Offences relating to the physical protection of nuclear material and nuclear facilities[^key-8a17339fc851f79d80016e91749ff66d]
+## 75. Offences relating to the physical protection of nuclear material and nuclear facilities[^c-8a17339fc851f79d80016e91749ff66d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ and makes other amendments to that Act.
 
 ## Annotations
 
-[^key-8a17339fc851f79d80016e91749ff66d]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2008/4/section/75) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(i)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/i)
+[^c-8a17339fc851f79d80016e91749ff66d]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2008/4/section/75) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(i)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/i)

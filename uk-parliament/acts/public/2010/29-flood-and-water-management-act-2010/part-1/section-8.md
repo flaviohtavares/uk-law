@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. National flood and coastal erosion risk management strategy: Wales[^key-f9135f8260cf1651bfc222f81d542a00]
+## 8. National flood and coastal erosion risk management strategy: Wales[^c-f9135f8260cf1651bfc222f81d542a00]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9135f8260cf1651bfc222f81d542a00]: Commencement: S. 8 in force at 1.10.2010 for W. by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-f9135f8260cf1651bfc222f81d542a00]: Commencement: S. 8 in force at 1.10.2010 for W. by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)

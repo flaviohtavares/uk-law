@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Prohibition on extending implementation period[^key-44e6d5c127c33fb4f2fae44fa845e82f]
+## 15A. Prohibition on extending implementation period[^c-44e6d5c127c33fb4f2fae44fa845e82f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A Minister of the Crown may not agree in the Joint Committee to an extension of 
 
 ## Annotations
 
-[^key-44e6d5c127c33fb4f2fae44fa845e82f]: Textual amendment: S. 15A inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 33](https://www.legislation.gov.uk/ukpga/2020/1/section/33), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))
+[^c-44e6d5c127c33fb4f2fae44fa845e82f]: Textual amendment: S. 15A inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 33](https://www.legislation.gov.uk/ukpga/2020/1/section/33), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))

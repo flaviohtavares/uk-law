@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**38B.**[^key-dd600efaffe902719cb9b53e1d5c14fd] (1) This Article applies where a contribution notice is issued to a person under Article 34.
+**38B.**[^c-dd600efaffe902719cb9b53e1d5c14fd] (1) This Article applies where a contribution notice is issued to a person under Article 34.
 
 (2) Article 83A (financial penalties) applies to the person if the person, without reasonable excuse, fails to pay the debt due by virtue of the contribution notice to—
 
@@ -38,4 +38,4 @@ and the application has not been determined, withdrawn or abandoned.
 
 ## Annotations
 
-[^key-dd600efaffe902719cb9b53e1d5c14fd]: Textual amendment: [Art. 38B](https://www.legislation.gov.uk/nisi/2005/255/article/38B) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(4)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/4); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))
+[^c-dd600efaffe902719cb9b53e1d5c14fd]: Textual amendment: [Art. 38B](https://www.legislation.gov.uk/nisi/2005/255/article/38B) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(4)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/4); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))

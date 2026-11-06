@@ -22,7 +22,7 @@ summary: ''
 
 Article 1(3)
 
-### PART I — ORDERS NOT PREVIOUSLY REVOKED[^key-94dad3ee83f8ed38f7370b4014462850]
+### PART I — ORDERS NOT PREVIOUSLY REVOKED[^c-94dad3ee83f8ed38f7370b4014462850]
 
 | Orders revoked | Reference | Extent of revocation |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ Article 1(3)
 | The Firemen’s Pension Scheme (Amendment No. 2) Order (Northern Ireland) 1991 | [S.R. 1991 No. 447](https://www.legislation.gov.uk/nisr/1991/447) | The whole Order. |
 | The Firemen’s Pension Scheme Order (Northern Ireland) 2006 | [S.R 2006 No. 210](https://www.legislation.gov.uk/nisr/2006/210) | The whole Order |
 
-### PART II — ORDERS PREVIOUSLY REVOKED SUBJECT TO SAVINGS[^key-9dfab9dba80e79b9c0cba38266ed66f7]
+### PART II — ORDERS PREVIOUSLY REVOKED SUBJECT TO SAVINGS[^c-9dfab9dba80e79b9c0cba38266ed66f7]
 
 | Orders revoked | References | Extent of revocation |
 | --- | --- | --- |
@@ -61,6 +61,6 @@ Article 1(3)
 
 ## Annotations
 
-[^key-94dad3ee83f8ed38f7370b4014462850]: Commencement: [Sch. 11 Pt. 1](https://www.legislation.gov.uk/nisr/2007/144/schedule/11/part/1) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-94dad3ee83f8ed38f7370b4014462850]: Commencement: [Sch. 11 Pt. 1](https://www.legislation.gov.uk/nisr/2007/144/schedule/11/part/1) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-9dfab9dba80e79b9c0cba38266ed66f7]: Commencement: [Sch. 11 Pt. 2](https://www.legislation.gov.uk/nisr/2007/144/schedule/11/part/2) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-9dfab9dba80e79b9c0cba38266ed66f7]: Commencement: [Sch. 11 Pt. 2](https://www.legislation.gov.uk/nisr/2007/144/schedule/11/part/2) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 786. Character of credits and debits brought into account as a result of section 785[^key-2c255c5108376ece0fb09b52b8e9150b]
+## 786. Character of credits and debits brought into account as a result of section 785[^c-2c255c5108376ece0fb09b52b8e9150b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c255c5108376ece0fb09b52b8e9150b]: Modification: Pt. 8 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-2c255c5108376ece0fb09b52b8e9150b]: Modification: Pt. 8 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))

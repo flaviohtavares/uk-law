@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. For protection of specified undertakers[^key-c6418c8501edfcc30e5fa469871266b6]
+## 43. For protection of specified undertakers[^c-c6418c8501edfcc30e5fa469871266b6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 13 to this Order shall have effect.
 
 ## Annotations
 
-[^key-c6418c8501edfcc30e5fa469871266b6]: Commencement: Art. 43 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-c6418c8501edfcc30e5fa469871266b6]: Commencement: Art. 43 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 129. Penalty for inaccuracy in document given to WRA[^key-232b819ce36fe15eb0c714b8303f9944]
+## 129. Penalty for inaccuracy in document given to WRA[^c-232b819ce36fe15eb0c714b8303f9944]
 
 *Extent: E+W*
 
@@ -27,9 +27,9 @@ summary: ''
 
 (2) Condition 1 is that the document contains an inaccuracy which amounts to, or leads to—
 
-- (a) an understatement of a liability to a WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] tax,
-- (b) a false or inflated statement of a loss relating to a WRA-collected tax, [^key-fd76a8ab18d39f06eb56b59690ba319f]...
-- (c) a false or inflated claim to repayment of WRA-collected tax , or[^key-ac8ba2fe537934324db36d2499a94b02]
+- (a) an understatement of a liability to a WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] tax,
+- (b) a false or inflated statement of a loss relating to a WRA-collected tax, [^c-fd76a8ab18d39f06eb56b59690ba319f]...
+- (c) a false or inflated claim to repayment of WRA-collected tax , or[^c-ac8ba2fe537934324db36d2499a94b02]
 - (d) a false or inflated claim for a tax credit.
 
 (3) Condition 2 is that the inaccuracy was deliberate or careless on the person's part.
@@ -45,10 +45,10 @@ summary: ''
 
 ## Annotations
 
-[^key-232b819ce36fe15eb0c714b8303f9944]: Commencement: S. 129 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-232b819ce36fe15eb0c714b8303f9944]: Commencement: S. 129 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
 
-[^key-fd76a8ab18d39f06eb56b59690ba319f]: Textual amendment: Word in [s. 129(2)](https://www.legislation.gov.uk/anaw/2016/6/section/129/2) omitted (1.4.2018) by virtue of [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 29(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/29/a)
+[^c-fd76a8ab18d39f06eb56b59690ba319f]: Textual amendment: Word in [s. 129(2)](https://www.legislation.gov.uk/anaw/2016/6/section/129/2) omitted (1.4.2018) by virtue of [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 29(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/29/a)
 
-[^key-ac8ba2fe537934324db36d2499a94b02]: Textual amendment: [S. 129(2)(d)](https://www.legislation.gov.uk/anaw/2016/6/section/129/2/d) and word inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 29(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/29/b)
+[^c-ac8ba2fe537934324db36d2499a94b02]: Textual amendment: [S. 129(2)(d)](https://www.legislation.gov.uk/anaw/2016/6/section/129/2/d) and word inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 29(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/29/b)

@@ -27,7 +27,7 @@ summary: ''
 
 (2) The carrying on of any activities of research and development from which it is intended—
 
-- (a)[^key-a440e963c5cb7f0659f0c394a7c22ca6] that a trade will be derived which will be a qualifying trade, or
+- (a)[^c-a440e963c5cb7f0659f0c394a7c22ca6] that a trade will be derived which will be a qualifying trade, or
 - (b) that a trade will benefit which is or will be a qualifying trade,
 
 is to be treated as the carrying on of a qualifying trade.
@@ -38,4 +38,4 @@ is to be treated as the carrying on of a qualifying trade.
 
 ## Annotations
 
-[^key-a440e963c5cb7f0659f0c394a7c22ca6]: Textual amendment: S. 300(2)(a)(b) substituted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(3), 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(11)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/11); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-a440e963c5cb7f0659f0c394a7c22ca6]: Textual amendment: S. 300(2)(a)(b) substituted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(3), 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(11)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/11); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)

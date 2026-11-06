@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225ZAA. Chapter not to apply where cash basis used[^key-adb0bb5d3e20b5be3de4b41bd6666162][^key-2f6ef58ac1b32d27aaebea07e3c91b2e]
+## 225ZAA. Chapter not to apply where cash basis used[^c-adb0bb5d3e20b5be3de4b41bd6666162][^c-2f6ef58ac1b32d27aaebea07e3c91b2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Nothing in this Chapter applies in calculating the profits of a trade on the cas
 
 ## Annotations
 
-[^key-adb0bb5d3e20b5be3de4b41bd6666162]: Textual amendment: S. 225ZAA inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/33)
+[^c-adb0bb5d3e20b5be3de4b41bd6666162]: Textual amendment: S. 225ZAA inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/33)
 
-[^key-2f6ef58ac1b32d27aaebea07e3c91b2e]: Textual amendment: Pt. 2 Ch. 16ZA inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [6](https://www.legislation.gov.uk/uksi/2012/266/article/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2012/266/article/9))
+[^c-2f6ef58ac1b32d27aaebea07e3c91b2e]: Textual amendment: Pt. 2 Ch. 16ZA inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [6](https://www.legislation.gov.uk/uksi/2012/266/article/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2012/266/article/9))

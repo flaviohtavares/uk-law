@@ -25,7 +25,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-3d1c56e176d5af772ac6da7538c3a386]Regulation (EU) No 1027/2012 of the European Parliament and of the Council
+[^c-3d1c56e176d5af772ac6da7538c3a386]Regulation (EU) No 1027/2012 of the European Parliament and of the Council
 
 of 25 October 2012
 
@@ -151,7 +151,7 @@ A. D. Mavroyiannis
 
 ## Annotations
 
-[^key-3d1c56e176d5af772ac6da7538c3a386]: Textual amendment: Regulation revoked in part (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(v)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/v) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3d1c56e176d5af772ac6da7538c3a386]: Textual amendment: Regulation revoked in part (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(v)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/v) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00001]: Footnote: [OJ C 181, 21.6.2012, p. 202](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2012.181.01.0202.01.ENG).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Orders enforcing compliance with these Rules[^key-3f272a2ad67879270fd7601e025d500f]
+## 50. Orders enforcing compliance with these Rules[^c-3f272a2ad67879270fd7601e025d500f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f272a2ad67879270fd7601e025d500f]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/2007/3141/rule/50) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-3f272a2ad67879270fd7601e025d500f]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/2007/3141/rule/50) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

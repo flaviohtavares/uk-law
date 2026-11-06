@@ -22,7 +22,7 @@ summary: ''
 
 Article 44
 
-### PART 1 — SPEED LIMITS[^key-df146c616888a5b7e4fc2666835a6cfd]
+### PART 1 — SPEED LIMITS[^c-df146c616888a5b7e4fc2666835a6cfd]
 
 <table>
 <thead>
@@ -65,7 +65,7 @@ Article 44
 </tbody>
 </table>
 
-### PART 2 — TRAFFIC REGULATION MEASURES[^key-e7d7640682e1960142acce261e2bd125]
+### PART 2 — TRAFFIC REGULATION MEASURES[^c-e7d7640682e1960142acce261e2bd125]
 
 <table>
 <thead>
@@ -95,7 +95,7 @@ Article 44
 </tbody>
 </table>
 
-### PART 3 — SPEED LIMIT REVOCATIONS AND VARIATIONS[^key-77e6bce3348b5e7f711fefc3ef420d2c]
+### PART 3 — SPEED LIMIT REVOCATIONS AND VARIATIONS[^c-77e6bce3348b5e7f711fefc3ef420d2c]
 
 <table>
 <thead>
@@ -122,7 +122,7 @@ Article 44
 </tbody>
 </table>
 
-### PART 4 — WEIGHT LIMIT VARIATIONS[^key-eabb90a39817b3d133c23e96955b4183]
+### PART 4 — WEIGHT LIMIT VARIATIONS[^c-eabb90a39817b3d133c23e96955b4183]
 
 <table>
 <thead>
@@ -138,10 +138,10 @@ Article 44
 
 ## Annotations
 
-[^key-df146c616888a5b7e4fc2666835a6cfd]: Commencement: Sch. 14 Pt. 1 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-df146c616888a5b7e4fc2666835a6cfd]: Commencement: Sch. 14 Pt. 1 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-e7d7640682e1960142acce261e2bd125]: Commencement: Sch. 14 Pt. 2 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-e7d7640682e1960142acce261e2bd125]: Commencement: Sch. 14 Pt. 2 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-77e6bce3348b5e7f711fefc3ef420d2c]: Commencement: Sch. 14 Pt. 3 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-77e6bce3348b5e7f711fefc3ef420d2c]: Commencement: Sch. 14 Pt. 3 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-eabb90a39817b3d133c23e96955b4183]: Commencement: Sch. 14 Pt. 4 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-eabb90a39817b3d133c23e96955b4183]: Commencement: Sch. 14 Pt. 4 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

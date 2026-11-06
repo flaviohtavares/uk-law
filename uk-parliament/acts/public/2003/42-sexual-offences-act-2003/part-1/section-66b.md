@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66B. Sharing or threatening to share intimate photograph or film[^key-caa77fc33f1c066cc95677670dbaa0e8]
+## 66B. Sharing or threatening to share intimate photograph or film[^c-caa77fc33f1c066cc95677670dbaa0e8]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-caa77fc33f1c066cc95677670dbaa0e8]: Textual amendment: Ss. 66B-66D inserted (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 188](https://www.legislation.gov.uk/ukpga/2023/50/section/188), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-caa77fc33f1c066cc95677670dbaa0e8]: Textual amendment: Ss. 66B-66D inserted (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 188](https://www.legislation.gov.uk/ukpga/2023/50/section/188), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

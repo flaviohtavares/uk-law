@@ -50,7 +50,7 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by sections 1028 and 1029 of the Income Tax Act 2007[^f00001].
 
-## 1. Citation, commencement and effect[^key-755bc5979e30b3af74342881b12bc31f]
+## 1. Citation, commencement and effect[^c-755bc5979e30b3af74342881b12bc31f]
 
 (1) This Order may be cited as the Income Tax Act 2007 (Amendment) Order 2009 and shall come into force on 3rd February 2009.
 
@@ -59,11 +59,11 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 - (a) for income tax and capital gains tax purposes, for the tax year 2007-08 and subsequent tax years, and
 - (b) for corporation tax purposes, for accounting periods ending after 5th April 2007.
 
-## 2. Amendment of the Income and Corporation Taxes Act 1988[^key-72c300fc702835a39adcb0c382050d92]
+## 2. Amendment of the Income and Corporation Taxes Act 1988[^c-72c300fc702835a39adcb0c382050d92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Taxation of Chargeable Gains Act 1992[^key-3e507c609e957d95511e27f307a75db0]
+## 3. Amendment of the Taxation of Chargeable Gains Act 1992[^c-3e507c609e957d95511e27f307a75db0]
 
 In section 256 of the Taxation of Chargeable Gains Act 1992[^f00006] (charities) after subsection (5) insert—
 
@@ -71,11 +71,11 @@ In section 256 of the Taxation of Chargeable Gains Act 1992[^f00006] (charities)
 
 .
 
-## 4. Amendment of the Finance Act 1994[^key-a8a5c443c7207133734d69a34c007cf7]
+## 4. Amendment of the Finance Act 1994[^c-a8a5c443c7207133734d69a34c007cf7]
 
 In section 113 of the Finance Act 1994[^f00007] (umbrella schemes) omit subsection (3).
 
-## 5. Amendment of the Income Tax Act 2007[^key-162c6455b6ae5fb7fbdaacef7e42f91b]
+## 5. Amendment of the Income Tax Act 2007[^c-162c6455b6ae5fb7fbdaacef7e42f91b]
 
 (1) The Income Tax Act 2007 is amended as follows.
 
@@ -132,16 +132,16 @@ A full and final Impact Assessment has not been produced for this instrument as 
 
 [^f00001]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
 
-[^key-755bc5979e30b3af74342881b12bc31f]: Commencement: Art. 1 in force at 3.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/23/article/1/1)
+[^c-755bc5979e30b3af74342881b12bc31f]: Commencement: Art. 1 in force at 3.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/23/article/1/1)
 
-[^key-72c300fc702835a39adcb0c382050d92]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2009/23/article/2) revoked (1.4.2010 with effect for accounting periods ending on or after that day, and for income tax and capital gains tax purposes, with for the tax year 2010-11 and subsequent tax years) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-72c300fc702835a39adcb0c382050d92]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2009/23/article/2) revoked (1.4.2010 with effect for accounting periods ending on or after that day, and for income tax and capital gains tax purposes, with for the tax year 2010-11 and subsequent tax years) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-3e507c609e957d95511e27f307a75db0]: Commencement: Art. 3 in force at 3.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/23/article/1/1)
+[^c-3e507c609e957d95511e27f307a75db0]: Commencement: Art. 3 in force at 3.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/23/article/1/1)
 
 [^f00006]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12); section 256 was amended by section 55(4) of the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and paragraph 326 of Schedule 1 to the Income Tax Act 2007.
 
-[^key-a8a5c443c7207133734d69a34c007cf7]: Commencement: Art. 4 in force at 3.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/23/article/1/1)
+[^c-a8a5c443c7207133734d69a34c007cf7]: Commencement: Art. 4 in force at 3.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/23/article/1/1)
 
 [^f00007]: Footnote: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-162c6455b6ae5fb7fbdaacef7e42f91b]: Commencement: Art. 5 in force at 3.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/23/article/1/1)
+[^c-162c6455b6ae5fb7fbdaacef7e42f91b]: Commencement: Art. 5 in force at 3.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/23/article/1/1)

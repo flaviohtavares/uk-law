@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Effect of increases under this Chapter for older members[^key-9c1b69782643e6dc2491bd22006978f1]
+## 56. Effect of increases under this Chapter for older members[^c-9c1b69782643e6dc2491bd22006978f1]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ Regulation 53 applies as respects additional periods counted under the previous 
 
 ## Annotations
 
-[^key-9c1b69782643e6dc2491bd22006978f1]: Commencement: Reg. 56 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-9c1b69782643e6dc2491bd22006978f1]: Commencement: Reg. 56 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

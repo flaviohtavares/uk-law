@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 1b. Electronic forms[^key-996fed6e7a7dcc712910de59325e69e7]
+## Article 1b. Electronic forms[^c-996fed6e7a7dcc712910de59325e69e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any form mentioned in Article 4 (including an application form, continuation she
 
 ## Annotations
 
-[^key-996fed6e7a7dcc712910de59325e69e7]: Textual amendment: [Art. 1b](https://www.legislation.gov.uk/eur/2006/865/article/1b) inserted (23.6.2026) by [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/3/2)
+[^c-996fed6e7a7dcc712910de59325e69e7]: Textual amendment: [Art. 1b](https://www.legislation.gov.uk/eur/2006/865/article/1b) inserted (23.6.2026) by [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/3/2)

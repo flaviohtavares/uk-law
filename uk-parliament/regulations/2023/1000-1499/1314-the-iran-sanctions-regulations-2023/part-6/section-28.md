@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Export of restricted goods[^key-bbfbebd3bc643bf8ac9e42d913d8d9ef]
+## 28. Export of restricted goods[^c-bbfbebd3bc643bf8ac9e42d913d8d9ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbfbebd3bc643bf8ac9e42d913d8d9ef]: Commencement: Reg. 28 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-bbfbebd3bc643bf8ac9e42d913d8d9ef]: Commencement: Reg. 28 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

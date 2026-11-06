@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 5. Introduction[^key-26b945d354571b8166a42f9fd4793d42]
+## 5. Introduction[^c-26b945d354571b8166a42f9fd4793d42]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ This Part contains provisions relating to the procedure for making pastoral sche
 
 ## Annotations
 
-[^key-26b945d354571b8166a42f9fd4793d42]: Commencement: S. 5 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-26b945d354571b8166a42f9fd4793d42]: Commencement: S. 5 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

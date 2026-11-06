@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Investigations by the Commissioner: power to serve information notice[^key-80d7143c499e553c1149f79b62bd57f6]
+## 43. Investigations by the Commissioner: power to serve information notice[^c-80d7143c499e553c1149f79b62bd57f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-80d7143c499e553c1149f79b62bd57f6]: Commencement: Reg. 43 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-80d7143c499e553c1149f79b62bd57f6]: Commencement: Reg. 43 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00013]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 

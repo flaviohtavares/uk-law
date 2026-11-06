@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — EQUIVALENCE DECISIONS[^key-c6c40e6728df302277b9552e5be48675]
+## SCHEDULE 4 — EQUIVALENCE DECISIONS[^c-c6c40e6728df302277b9552e5be48675]
 
 *Extent: E+W*
 
@@ -24,12 +24,12 @@ summary: ''
 
 Regulation 8(3)(c)
 
-**1.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c6c40e6728df302277b9552e5be48675]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/1387) revoked (31.5.2004) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2004 (revoked) 2004 (S.I. 2004/1430)](https://www.legislation.gov.uk/wsi/2004/1430), [reg. 1](https://www.legislation.gov.uk/wsi/2004/1430/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2004/1430/schedule/6)
+[^c-c6c40e6728df302277b9552e5be48675]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/1387) revoked (31.5.2004) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2004 (revoked) 2004 (S.I. 2004/1430)](https://www.legislation.gov.uk/wsi/2004/1430), [reg. 1](https://www.legislation.gov.uk/wsi/2004/1430/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2004/1430/schedule/6)

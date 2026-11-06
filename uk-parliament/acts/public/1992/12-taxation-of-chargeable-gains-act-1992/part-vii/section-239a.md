@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239A. De-registration of registered pension schemes[^key-3ed2c5842b1c69be0c9507d14bf16968]
+## 239A. De-registration of registered pension schemes[^c-3ed2c5842b1c69be0c9507d14bf16968]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ed2c5842b1c69be0c9507d14bf16968]: Textual amendment: S. 239A and cross-heading substituted for ss. 239A, 239B (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 35 para. 40](https://www.legislation.gov.uk/ukpga/2004/12/schedule/35/paragraph/40) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-3ed2c5842b1c69be0c9507d14bf16968]: Textual amendment: S. 239A and cross-heading substituted for ss. 239A, 239B (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 35 para. 40](https://www.legislation.gov.uk/ukpga/2004/12/schedule/35/paragraph/40) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

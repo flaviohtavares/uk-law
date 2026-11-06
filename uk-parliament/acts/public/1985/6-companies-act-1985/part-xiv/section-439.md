@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 439. Expenses of investigating a company’s affairs.[^c17409151][^c17409161][^key-c69907ba3a0d9da79737eb763ef5f6a1]
+## 439. Expenses of investigating a company’s affairs.[^c17409151][^c17409161][^c-c69907ba3a0d9da79737eb763ef5f6a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ the applicant or applicants for the investigation is or are liable to such exten
 
 [^c17409161]: Modification: S. 439 applied (with modifications) (6.4.2001) by [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), [reg. 4](https://www.legislation.gov.uk/uksi/2001/1090/regulation/4), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/1090/schedule/2/part/I)
 
-[^key-c69907ba3a0d9da79737eb763ef5f6a1]: Modification: S. 439 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
+[^c-c69907ba3a0d9da79737eb763ef5f6a1]: Modification: S. 439 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
 
 [^c17409171]: Textual amendment: S. 439(1) substituted by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/59/2), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2)
 

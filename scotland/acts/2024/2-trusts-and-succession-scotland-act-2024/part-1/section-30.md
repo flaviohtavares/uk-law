@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Trustees’ duty to provide information on request[^key-4716626ef59992138c266f4937fe8393]
+## 30. Trustees’ duty to provide information on request[^c-4716626ef59992138c266f4937fe8393]
 
 *Extent: S*
 
@@ -99,4 +99,4 @@ information requested by the beneficiary (or as the case may be by the potential
 
 ## Annotations
 
-[^key-4716626ef59992138c266f4937fe8393]: Commencement: S. 30 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-4716626ef59992138c266f4937fe8393]: Commencement: S. 30 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

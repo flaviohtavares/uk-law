@@ -24,7 +24,7 @@ summary: ''
 
 ### Status
 
-**1.**[^key-3fda7173703afc50d0fed401e3c4f2ee] (1) The Council is a body corporate.
+**1.**[^c-3fda7173703afc50d0fed401e3c4f2ee] (1) The Council is a body corporate.
 
 (2) The Council—
 
@@ -35,15 +35,15 @@ and its property is not to be regarded as property of, or held on behalf of, the
 
 ### Membership of the Council
 
-**2.**[^key-b905afb0983a5a5c66da5b699f8020de] (1) The Council is to consist of the following members—
+**2.**[^c-b905afb0983a5a5c66da5b699f8020de] (1) The Council is to consist of the following members—
 
 - (a) the person holding the post of chief executive;
 - (b) a person appointed by the Scottish Ministers to chair meetings of the Council (the “chairing member”); and
-- (c) no fewer than 11 nor more than 16[^key-d3445c730a060149711604e5722c539b] other members appointed by the Scottish Ministers.
+- (c) no fewer than 11 nor more than 16[^c-d3445c730a060149711604e5722c539b] other members appointed by the Scottish Ministers.
 
 (2) Each member (apart from the chief executive) is to be appointed for a period not exceeding 4 years.
 
-(3)[^key-bec7548371ce718881756d963faf6683] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-bec7548371ce718881756d963faf6683] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) A member (apart from the chief executive)—
 
@@ -57,11 +57,11 @@ and its property is not to be regarded as property of, or held on behalf of, the
 
 the Scottish Ministers may by giving notice in writing to the member remove the member from office.
 
-(6) A person who is, or has been, a member is[^key-3cdfa01dd84f40ab36beab30712be0df] eligible for reappointment.
+(6) A person who is, or has been, a member is[^c-3cdfa01dd84f40ab36beab30712be0df] eligible for reappointment.
 
-(7)[^key-ebb6e46bcd1e5fb6f0cecdb2207b15e5] In this schedule, references to a member’s appointment include that member’s reappointment.
+(7)[^c-ebb6e46bcd1e5fb6f0cecdb2207b15e5] In this schedule, references to a member’s appointment include that member’s reappointment.
 
-**2A.**[^key-1f5a290cf0595f126a6852b346e8e0e0] (1) The Council may, with the approval of the Scottish Ministers, appoint persons as co-opted members of the Council.
+**2A.**[^c-1f5a290cf0595f126a6852b346e8e0e0] (1) The Council may, with the approval of the Scottish Ministers, appoint persons as co-opted members of the Council.
 
 (2) No more than two persons may be appointed as co-opted members at any time.
 
@@ -80,7 +80,7 @@ the Scottish Ministers may by giving notice in writing to the member remove the 
 
 (8) Otherwise, references in this schedule to a member of the Council do not apply to a co-opted member.
 
-**3.**[^key-5a1aa59e024acf18357de043195e60f8] (1) In appointing members, the Scottish Ministers are to have regard to the desirability of including—
+**3.**[^c-5a1aa59e024acf18357de043195e60f8] (1) In appointing members, the Scottish Ministers are to have regard to the desirability of including—
 
 - (a) persons who—
   - (i) have experience of, and have shown capacity in, the provision of fundable further education or fundable higher education; or
@@ -100,7 +100,7 @@ the Scottish Ministers may by giving notice in writing to the member remove the 
 
 ### Disqualification from membership
 
-**4.**[^key-e59d4e4f54947198d23ff3b313a7f155] (1)[^key-4b9ea2330d2f0883ef016cbb3778f24d] A person is disqualified from appointment, and from holding office, as a member of the Council if that person is—
+**4.**[^c-e59d4e4f54947198d23ff3b313a7f155] (1)[^c-4b9ea2330d2f0883ef016cbb3778f24d] A person is disqualified from appointment, and from holding office, as a member of the Council if that person is—
 
 - (a) a member of the House of Lords;
 - (b) a member of the House of Commons;
@@ -108,7 +108,7 @@ the Scottish Ministers may by giving notice in writing to the member remove the 
 - (d) a member of the European Parliament; or
 - (e) disqualified from election as a member of the Scottish Parliament or as a member of a local authority.
 
-(2)[^key-d38b68be0ce8022ac2f376f34b81e94c] A person is disqualified from appointment as a member of the Council if that person—
+(2)[^c-d38b68be0ce8022ac2f376f34b81e94c] A person is disqualified from appointment as a member of the Council if that person—
 
 - (a) has within 5 years of the date on which the appointment would take effect, been sentenced (following conviction for an offence in the United Kingdom, the Channel Islands, the Isle of Man or the Irish Republic) to imprisonment for a period of not less than 3 months, whether suspended or not, without the option of a fine;
 - (b) is an undischarged bankrupt; or
@@ -131,7 +131,7 @@ the Scottish Ministers may by giving notice in writing to the member remove the 
 
 ### Remuneration, allowances and pensions for members
 
-**5.**[^key-c0e257b24fd4c2e38d195d8302e0fc36] (1) The Council is to pay to its members (apart from the chief executive) such remuneration as the Scottish Ministers may in each case determine.
+**5.**[^c-c0e257b24fd4c2e38d195d8302e0fc36] (1) The Council is to pay to its members (apart from the chief executive) such remuneration as the Scottish Ministers may in each case determine.
 
 (2) The Council is to pay to its members such allowances as the Scottish Ministers may in each case determine.
 
@@ -141,7 +141,7 @@ the Scottish Ministers may by giving notice in writing to the member remove the 
 
 ### Chief executive
 
-**6.**[^key-47795d67f25213510816487257c6d7f1] (1) The Council is to employ a chief executive.
+**6.**[^c-47795d67f25213510816487257c6d7f1] (1) The Council is to employ a chief executive.
 
 (2) The person referred to in sub-paragraph (3) is (except where sub-paragraph (4) applies) transferred to the employment of, and becomes the first chief executive of, the Council.
 
@@ -161,7 +161,7 @@ the Scottish Ministers are to make the first appointment of the chief executive 
 
 ### Other staff
 
-**7.**[^key-02a04e0cd995d3b57a3a71cfcf5ca9f4] (1) All staff employed, immediately before the coming into force of this paragraph, by—
+**7.**[^c-02a04e0cd995d3b57a3a71cfcf5ca9f4] (1) All staff employed, immediately before the coming into force of this paragraph, by—
 
 - (a) the Scottish Higher Education Funding Council;
 - (b) the Scottish Further Education Funding Council; and
@@ -175,7 +175,7 @@ are transferred to the employment of the Council.
 
 ### Continuity of employment etc.
 
-**8.**[^key-44a33d0fbfbb90e10f4dcc81bbd041df] (1) The contract of employment of a person transferred by virtue of paragraph 6(2) or 7(1)—
+**8.**[^c-44a33d0fbfbb90e10f4dcc81bbd041df] (1) The contract of employment of a person transferred by virtue of paragraph 6(2) or 7(1)—
 
 - (a) is not terminated by the transfer; and
 - (b) has effect from the date of transfer as if originally made between the person and the Council.
@@ -189,7 +189,7 @@ are transferred to the employment of the Council.
 
 ### Transfer of property and liabilities
 
-**9.**[^key-c3d10b4f83df5e2cb135bd1eefe26ecf] (1) All property (including rights) and liabilities, subsisting immediately before the coming into force of this paragraph, of—
+**9.**[^c-c3d10b4f83df5e2cb135bd1eefe26ecf] (1) All property (including rights) and liabilities, subsisting immediately before the coming into force of this paragraph, of—
 
 - (a) the Scottish Higher Education Funding Council; and
 - (b) the Scottish Further Education Funding Council,
@@ -200,13 +200,13 @@ are transferred to, and vest in, the Council.
 
 ### Proceedings of the Council
 
-**10.**[^key-ac7f913d48ae878c596cb463706f66c8] (1) The Council may regulate its own procedure (including any quorum).
+**10.**[^c-ac7f913d48ae878c596cb463706f66c8] (1) The Council may regulate its own procedure (including any quorum).
 
 (2) The validity of any proceedings of the Council is not affected by a vacancy in membership nor by any defect in the appointment of a member.
 
 ### Committees
 
-**11.**[^key-297a377acfbeac105d2b898fb34aed3f] (1) The Council must establish a committee (a “skills committee”) for the purposes of advising the Council on matters relating to skills.
+**11.**[^c-297a377acfbeac105d2b898fb34aed3f] (1) The Council must establish a committee (a “skills committee”) for the purposes of advising the Council on matters relating to skills.
 
 (2) The Council is to appoint one of its members to chair meetings of the skills committee.
 
@@ -217,7 +217,7 @@ are transferred to, and vest in, the Council.
 - (a) the composition of the skills committee; and
 - (b) the committee's functions.
 
-**12.**[^key-fff44cac0ad46c6d5cbfb04195d25788] (1) The Council must establish a committee (a “research committee”) for the purposes of advising the Council on matters concerning research.
+**12.**[^c-fff44cac0ad46c6d5cbfb04195d25788] (1) The Council must establish a committee (a “research committee”) for the purposes of advising the Council on matters concerning research.
 
 (2) The Council is to appoint one of its members to chair meetings of the research committee.
 
@@ -226,7 +226,7 @@ are transferred to, and vest in, the Council.
 - (a) have experience, and have shown capacity, relating to research or the application of research; and
 - (b) are currently engaged in research or the application of research.
 
-**12A.**[^key-022a16f77f192883fadcef2907aca11f] (1) The Council must establish a committee (an “apprenticeship committee”) for the purposes of advising the Council on matters concerning apprenticeships and work-based learning.
+**12A.**[^c-022a16f77f192883fadcef2907aca11f] (1) The Council must establish a committee (an “apprenticeship committee”) for the purposes of advising the Council on matters concerning apprenticeships and work-based learning.
 
 (2) In exercising its functions, the committee may consult local authorities and have regard to their views.
 
@@ -255,11 +255,11 @@ are transferred to, and vest in, the Council.
 - (b) the appointment of the chair of the committee, and
 - (c) the committee’s functions.
 
-**13.**[^key-f12d420936d711a3ccd44548daaa2577] The Council may establish other committees for any purposes relating to its functions.
+**13.**[^c-f12d420936d711a3ccd44548daaa2577] The Council may establish other committees for any purposes relating to its functions.
 
-**14.**[^key-bdd268579360e096e22a35f212250d80] (1) The Council is to—
+**14.**[^c-bdd268579360e096e22a35f212250d80] (1) The Council is to—
 
-- (a) subject to paragraphs 11(2) and (3) , 12(2) and (3) and 12A(3) and (5)[^key-fece1f84385c9fb4176f9056c7c45266], determine the composition of its committees;
+- (a) subject to paragraphs 11(2) and (3) , 12(2) and (3) and 12A(3) and (5)[^c-fece1f84385c9fb4176f9056c7c45266], determine the composition of its committees;
 - (b) determine the terms and conditions of committee membership; and
 - (c) determine the procedure (including any quorum) of its committees.
 
@@ -271,7 +271,7 @@ are transferred to, and vest in, the Council.
 
 ### Delegation of functions
 
-**15.**[^key-fbf3eb33b3f4b8b2f27444a45c6b70a2] (1) The Council may authorise—
+**15.**[^c-fbf3eb33b3f4b8b2f27444a45c6b70a2] (1) The Council may authorise—
 
 - (a) the chief executive;
 - (b) the chairing member; or
@@ -283,11 +283,11 @@ to exercise such of its functions to such extent as it may determine.
 
 ### Participation of Scottish Ministers at meetings
 
-**16.**[^key-57d5608d30c7b7f3fbd38583cfb2ed37] A representative of the Scottish Ministers is entitled to participate in any deliberations (but not in decisions) at meetings of the Council or of any committee of the Council.
+**16.**[^c-57d5608d30c7b7f3fbd38583cfb2ed37] A representative of the Scottish Ministers is entitled to participate in any deliberations (but not in decisions) at meetings of the Council or of any committee of the Council.
 
 ### Accounts
 
-**17.**[^key-59c9c53c24d22c048c401e2ec5b5502c] (1) The Council must—
+**17.**[^c-59c9c53c24d22c048c401e2ec5b5502c] (1) The Council must—
 
 - (a) keep proper accounts and accounting records;
 - (b) prepare in respect of each financial year a statement of accounts; and
@@ -299,7 +299,7 @@ in accordance with such directions as the Scottish Ministers may give.
 
 ### Reports and information
 
-**18.**[^key-e29be50ca57d55f39be6224e39ca2235] (1) As soon as practicable after the end of each financial year, the Council must prepare a report on its activities during that year and must—
+**18.**[^c-e29be50ca57d55f39be6224e39ca2235] (1) As soon as practicable after the end of each financial year, the Council must prepare a report on its activities during that year and must—
 
 - (a) send a copy of the report to the Scottish Ministers; and
 - (b) publish the report,
@@ -312,56 +312,56 @@ in accordance with such directions as the Scottish Ministers may give.
 
 ## Annotations
 
-[^key-3fda7173703afc50d0fed401e3c4f2ee]: Commencement: Sch. 1 para. 1 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-3fda7173703afc50d0fed401e3c4f2ee]: Commencement: Sch. 1 para. 1 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-b905afb0983a5a5c66da5b699f8020de]: Commencement: Sch. 1 para. 2 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-b905afb0983a5a5c66da5b699f8020de]: Commencement: Sch. 1 para. 2 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-d3445c730a060149711604e5722c539b]: Textual amendment: Word in [sch. 1 para. 2(1)(c)](https://www.legislation.gov.uk/asp/2005/6/schedule/1/paragraph/2/1/c) substituted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 28(2)](https://www.legislation.gov.uk/asp/2026/5/section/28/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-d3445c730a060149711604e5722c539b]: Textual amendment: Word in [sch. 1 para. 2(1)(c)](https://www.legislation.gov.uk/asp/2005/6/schedule/1/paragraph/2/1/c) substituted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 28(2)](https://www.legislation.gov.uk/asp/2026/5/section/28/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-bec7548371ce718881756d963faf6683]: Textual amendment: [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/asp/2005/6/schedule/1/paragraph/2/3) repealed (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 26(2)(a)](https://www.legislation.gov.uk/asp/2026/5/section/26/2/a), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-bec7548371ce718881756d963faf6683]: Textual amendment: [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/asp/2005/6/schedule/1/paragraph/2/3) repealed (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 26(2)(a)](https://www.legislation.gov.uk/asp/2026/5/section/26/2/a), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-3cdfa01dd84f40ab36beab30712be0df]: Textual amendment: Words in [sch. 1 para. 2(6)](https://www.legislation.gov.uk/asp/2005/6/schedule/1/paragraph/2/6) substituted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 26(2)(b)](https://www.legislation.gov.uk/asp/2026/5/section/26/2/b), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-3cdfa01dd84f40ab36beab30712be0df]: Textual amendment: Words in [sch. 1 para. 2(6)](https://www.legislation.gov.uk/asp/2005/6/schedule/1/paragraph/2/6) substituted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 26(2)(b)](https://www.legislation.gov.uk/asp/2026/5/section/26/2/b), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-ebb6e46bcd1e5fb6f0cecdb2207b15e5]: Textual amendment: [Sch. 1 para. 2(7)](https://www.legislation.gov.uk/asp/2005/6/schedule/1/paragraph/2/7) inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 26(2)(c)](https://www.legislation.gov.uk/asp/2026/5/section/26/2/c), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-ebb6e46bcd1e5fb6f0cecdb2207b15e5]: Textual amendment: [Sch. 1 para. 2(7)](https://www.legislation.gov.uk/asp/2005/6/schedule/1/paragraph/2/7) inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 26(2)(c)](https://www.legislation.gov.uk/asp/2026/5/section/26/2/c), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-1f5a290cf0595f126a6852b346e8e0e0]: Textual amendment: [Sch. 1 para. 2A](https://www.legislation.gov.uk/asp/2005/6/schedule/1/paragraph/2A) inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 30(2)](https://www.legislation.gov.uk/asp/2026/5/section/30/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-1f5a290cf0595f126a6852b346e8e0e0]: Textual amendment: [Sch. 1 para. 2A](https://www.legislation.gov.uk/asp/2005/6/schedule/1/paragraph/2A) inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 30(2)](https://www.legislation.gov.uk/asp/2026/5/section/30/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-5a1aa59e024acf18357de043195e60f8]: Commencement: Sch. 1 para. 3 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-5a1aa59e024acf18357de043195e60f8]: Commencement: Sch. 1 para. 3 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-e59d4e4f54947198d23ff3b313a7f155]: Commencement: Sch. 1 para. 4 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-e59d4e4f54947198d23ff3b313a7f155]: Commencement: Sch. 1 para. 4 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-4b9ea2330d2f0883ef016cbb3778f24d]: Textual amendment: Sch. 1 para. 4 renumbered as Sch. 1 para. 4(1) (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [Sch. para. 8(24)(a)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/24/a); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-4b9ea2330d2f0883ef016cbb3778f24d]: Textual amendment: Sch. 1 para. 4 renumbered as Sch. 1 para. 4(1) (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [Sch. para. 8(24)(a)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/24/a); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-d38b68be0ce8022ac2f376f34b81e94c]: Textual amendment: Sch. 1 para. 4(2)-(4) inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [Sch. para. 8(24)(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/24/b); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-d38b68be0ce8022ac2f376f34b81e94c]: Textual amendment: Sch. 1 para. 4(2)-(4) inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [Sch. para. 8(24)(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/24/b); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-c0e257b24fd4c2e38d195d8302e0fc36]: Commencement: Sch. 1 para. 5 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-c0e257b24fd4c2e38d195d8302e0fc36]: Commencement: Sch. 1 para. 5 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-47795d67f25213510816487257c6d7f1]: Commencement: Sch. 1 para. 6 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-47795d67f25213510816487257c6d7f1]: Commencement: Sch. 1 para. 6 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-02a04e0cd995d3b57a3a71cfcf5ca9f4]: Commencement: Sch. 1 para. 7 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-02a04e0cd995d3b57a3a71cfcf5ca9f4]: Commencement: Sch. 1 para. 7 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-44a33d0fbfbb90e10f4dcc81bbd041df]: Commencement: Sch. 1 para. 8 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-44a33d0fbfbb90e10f4dcc81bbd041df]: Commencement: Sch. 1 para. 8 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-c3d10b4f83df5e2cb135bd1eefe26ecf]: Commencement: Sch. 1 para. 9 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-c3d10b4f83df5e2cb135bd1eefe26ecf]: Commencement: Sch. 1 para. 9 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-ac7f913d48ae878c596cb463706f66c8]: Commencement: Sch. 1 para. 10 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-ac7f913d48ae878c596cb463706f66c8]: Commencement: Sch. 1 para. 10 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-297a377acfbeac105d2b898fb34aed3f]: Commencement: Sch. 1 para. 11 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-297a377acfbeac105d2b898fb34aed3f]: Commencement: Sch. 1 para. 11 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-fff44cac0ad46c6d5cbfb04195d25788]: Commencement: Sch. 1 para. 12 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-fff44cac0ad46c6d5cbfb04195d25788]: Commencement: Sch. 1 para. 12 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-022a16f77f192883fadcef2907aca11f]: Textual amendment: [Sch. 1 para. 12A](https://www.legislation.gov.uk/asp/2005/6/schedule/1/paragraph/12A) inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 31(2)](https://www.legislation.gov.uk/asp/2026/5/section/31/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-022a16f77f192883fadcef2907aca11f]: Textual amendment: [Sch. 1 para. 12A](https://www.legislation.gov.uk/asp/2005/6/schedule/1/paragraph/12A) inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 31(2)](https://www.legislation.gov.uk/asp/2026/5/section/31/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-f12d420936d711a3ccd44548daaa2577]: Commencement: Sch. 1 para. 13 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-f12d420936d711a3ccd44548daaa2577]: Commencement: Sch. 1 para. 13 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-bdd268579360e096e22a35f212250d80]: Commencement: Sch. 1 para. 14 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-bdd268579360e096e22a35f212250d80]: Commencement: Sch. 1 para. 14 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-fece1f84385c9fb4176f9056c7c45266]: Textual amendment: Words in [sch. 1 para. 14(1)(a)](https://www.legislation.gov.uk/asp/2005/6/schedule/1/paragraph/14/1/a) substituted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 31(3)](https://www.legislation.gov.uk/asp/2026/5/section/31/3), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-fece1f84385c9fb4176f9056c7c45266]: Textual amendment: Words in [sch. 1 para. 14(1)(a)](https://www.legislation.gov.uk/asp/2005/6/schedule/1/paragraph/14/1/a) substituted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 31(3)](https://www.legislation.gov.uk/asp/2026/5/section/31/3), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-fbf3eb33b3f4b8b2f27444a45c6b70a2]: Commencement: Sch. 1 para. 15 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-fbf3eb33b3f4b8b2f27444a45c6b70a2]: Commencement: Sch. 1 para. 15 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-57d5608d30c7b7f3fbd38583cfb2ed37]: Commencement: Sch. 1 para. 16 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-57d5608d30c7b7f3fbd38583cfb2ed37]: Commencement: Sch. 1 para. 16 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-59c9c53c24d22c048c401e2ec5b5502c]: Commencement: Sch. 1 para. 17 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-59c9c53c24d22c048c401e2ec5b5502c]: Commencement: Sch. 1 para. 17 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-e29be50ca57d55f39be6224e39ca2235]: Commencement: Sch. 1 para. 18 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-e29be50ca57d55f39be6224e39ca2235]: Commencement: Sch. 1 para. 18 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)

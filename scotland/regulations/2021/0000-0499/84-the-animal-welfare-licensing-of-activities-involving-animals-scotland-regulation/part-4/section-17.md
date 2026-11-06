@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Grounds for suspension, variation (without consent) or revocation of a licence[^key-93831ebb6b585e1341711bc043c4a1ed]
+## 17. Grounds for suspension, variation (without consent) or revocation of a licence[^c-93831ebb6b585e1341711bc043c4a1ed]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93831ebb6b585e1341711bc043c4a1ed]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2021/84/regulation/17) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-93831ebb6b585e1341711bc043c4a1ed]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2021/84/regulation/17) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

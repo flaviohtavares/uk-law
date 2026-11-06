@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 113. Recovery or retention where former member has misconduct obligation[^key-f6df5399972ce7f63e2522ce4758d3de]
+## 113. Recovery or retention where former member has misconduct obligation[^c-f6df5399972ce7f63e2522ce4758d3de]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ whichever is less.
 
 ## Annotations
 
-[^key-f6df5399972ce7f63e2522ce4758d3de]: Commencement: Reg. 113 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-f6df5399972ce7f63e2522ce4758d3de]: Commencement: Reg. 113 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

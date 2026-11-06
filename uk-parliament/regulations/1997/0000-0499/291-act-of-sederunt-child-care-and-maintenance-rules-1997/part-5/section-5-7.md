@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.7. Application for registration[^key-0697a5bb643abbda44160e8781f8423e]
+## 5.7. Application for registration[^c-0697a5bb643abbda44160e8781f8423e]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0697a5bb643abbda44160e8781f8423e]: Commencement: Rule 5.7 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-0697a5bb643abbda44160e8781f8423e]: Commencement: Rule 5.7 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

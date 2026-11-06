@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC
 
-The Motor Cycles Etc. (EC Type Approval) (Amendment) Regulations 2003 (revoked)[^key-d6c80bda5fc31857e7a8bf5af19cabde]
+The Motor Cycles Etc. (EC Type Approval) (Amendment) Regulations 2003 (revoked)[^c-d6c80bda5fc31857e7a8bf5af19cabde]
 
 Made
 
@@ -51,46 +51,46 @@ Remainder
 
 9th November 2003
 
-[^key-d6c80bda5fc31857e7a8bf5af19cabde]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6c80bda5fc31857e7a8bf5af19cabde]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d6c80bda5fc31857e7a8bf5af19cabde]
+## 1. Citation and commencement[^c-d6c80bda5fc31857e7a8bf5af19cabde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Motor Cycles Etc. (EC Type Approval) Regulations 1999[^key-d6c80bda5fc31857e7a8bf5af19cabde]
+## 2. Amendment of the Motor Cycles Etc. (EC Type Approval) Regulations 1999[^c-d6c80bda5fc31857e7a8bf5af19cabde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Road Traffic Act 1988[^key-d6c80bda5fc31857e7a8bf5af19cabde]
+## 3. Amendment of the Road Traffic Act 1988[^c-d6c80bda5fc31857e7a8bf5af19cabde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Road Traffic (Northern Ireland) Order 1981[^key-d6c80bda5fc31857e7a8bf5af19cabde]
+## 4. Amendment of the Road Traffic (Northern Ireland) Order 1981[^c-d6c80bda5fc31857e7a8bf5af19cabde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6c80bda5fc31857e7a8bf5af19cabde]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6c80bda5fc31857e7a8bf5af19cabde]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-d6c80bda5fc31857e7a8bf5af19cabde]
+## SCHEDULE[^c-d6c80bda5fc31857e7a8bf5af19cabde]
 
 Regulation 2(g).
 
-> **SCHEDULE 1A — MEANING OF END OF SERIES VEHICLE[^key-d6c80bda5fc31857e7a8bf5af19cabde]**
+> **SCHEDULE 1A — MEANING OF END OF SERIES VEHICLE[^c-d6c80bda5fc31857e7a8bf5af19cabde]**
 >
 > Regulation 18A(7)
 >
-> **1.**[^key-d6c80bda5fc31857e7a8bf5af19cabde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-d6c80bda5fc31857e7a8bf5af19cabde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-d6c80bda5fc31857e7a8bf5af19cabde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-d6c80bda5fc31857e7a8bf5af19cabde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d6c80bda5fc31857e7a8bf5af19cabde]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6c80bda5fc31857e7a8bf5af19cabde]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6c80bda5fc31857e7a8bf5af19cabde]: Textual amendment: Regulations revoked (20.5.2018) by [The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235)](https://www.legislation.gov.uk/uksi/2018/235), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/b), [Sch. 2 para. 8(d)](https://www.legislation.gov.uk/uksi/2018/235/schedule/2/paragraph/8/d) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/17))
+[^c-d6c80bda5fc31857e7a8bf5af19cabde]: Textual amendment: Regulations revoked (20.5.2018) by [The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235)](https://www.legislation.gov.uk/uksi/2018/235), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/b), [Sch. 2 para. 8(d)](https://www.legislation.gov.uk/uksi/2018/235/schedule/2/paragraph/8/d) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/17))

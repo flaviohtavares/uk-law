@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Financial penalties: interaction with offences[^key-091e924e4b7d67b2b4d4cb505aae6936][^key-042adf6af79d0cd99733ccaf6d7d4c02]
+## 175. Financial penalties: interaction with offences[^c-091e924e4b7d67b2b4d4cb505aae6936][^c-042adf6af79d0cd99733ccaf6d7d4c02]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ In section 39 of the Economic Crime (Transparency and Enforcement) Act 2022 (fin
 
 ## Annotations
 
-[^key-091e924e4b7d67b2b4d4cb505aae6936]: Commencement: S. 175 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-091e924e4b7d67b2b4d4cb505aae6936]: Commencement: S. 175 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-042adf6af79d0cd99733ccaf6d7d4c02]: Commencement: [S. 175](https://www.legislation.gov.uk/ukpga/2023/56/section/175) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z58)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z58)
+[^c-042adf6af79d0cd99733ccaf6d7d4c02]: Commencement: [S. 175](https://www.legislation.gov.uk/ukpga/2023/56/section/175) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z58)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z58)

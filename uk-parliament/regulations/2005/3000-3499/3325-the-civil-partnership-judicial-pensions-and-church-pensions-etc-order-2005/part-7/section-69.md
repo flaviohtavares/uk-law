@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**69.**[^key-77e574d6f2b88c01629dda783b9a92e6] The Judicial Pensions and Retirement Act 1993[^f00022] is amended as follows.
+**69.**[^c-77e574d6f2b88c01629dda783b9a92e6] The Judicial Pensions and Retirement Act 1993[^f00022] is amended as follows.
 
 ## Annotations
 
-[^key-77e574d6f2b88c01629dda783b9a92e6]: Commencement: Art. 69 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-77e574d6f2b88c01629dda783b9a92e6]: Commencement: Art. 69 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
 
 [^f00022]: Footnote: [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8); no amendments to the 1993 Act are relevant to those made in this Order.

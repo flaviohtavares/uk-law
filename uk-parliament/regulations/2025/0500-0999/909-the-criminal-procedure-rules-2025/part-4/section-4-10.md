@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.10. Documents that may not be served on a legal representative[^key-8dd4dd0253c9426f55b2520a7286c378]
+## 4.10. Documents that may not be served on a legal representative[^c-8dd4dd0253c9426f55b2520a7286c378]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ Unless the court otherwise directs, service on a party’s legal representative 
 
 ## Annotations
 
-[^key-8dd4dd0253c9426f55b2520a7286c378]: Commencement: [Rule 4.10](https://www.legislation.gov.uk/uksi/2025/909/rule/4.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8dd4dd0253c9426f55b2520a7286c378]: Commencement: [Rule 4.10](https://www.legislation.gov.uk/uksi/2025/909/rule/4.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00175]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53); section 25 was amended by section 90 of, and paragraphs 140 and 142 of Schedule 13 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), section 165 of, and paragraph 118 of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6) and section 109 of, and paragraph 311 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 

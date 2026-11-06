@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 169. Termination of appointment[^key-6ea61745016ca7a7b7c72110045472f4]
+## 169. Termination of appointment[^c-6ea61745016ca7a7b7c72110045472f4]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ea61745016ca7a7b7c72110045472f4]: Commencement: Rule 169 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-6ea61745016ca7a7b7c72110045472f4]: Commencement: Rule 169 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

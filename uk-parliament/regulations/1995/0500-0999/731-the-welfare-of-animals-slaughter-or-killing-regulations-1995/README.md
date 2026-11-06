@@ -30,7 +30,7 @@ ANIMALS
 
 PREVENTION OF CRUELTY
 
-[^key-29e8ef3a5d57f823261f46df805d0311]The Welfare of Animals (Slaughter or Killing) Regulations 1995
+[^c-29e8ef3a5d57f823261f46df805d0311]The Welfare of Animals (Slaughter or Killing) Regulations 1995
 
 Made
 
@@ -44,11 +44,11 @@ Coming into force
 
 1st April 1995
 
-The Minister of Agriculture, Fisheries and Food and the Secretary of State, being Ministers designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, acting jointly, in exercise of the powers conferred upon them by the said section 2(2) and of all other powers enabling them in that behalf, hereby make the following Regulations[^key-4b3f3dcfdaea50a3e3e6dfcee362b4d7][^key-2fa20cc73de9ab26fd80b637abb28f66]
+The Minister of Agriculture, Fisheries and Food and the Secretary of State, being Ministers designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, acting jointly, in exercise of the powers conferred upon them by the said section 2(2) and of all other powers enabling them in that behalf, hereby make the following Regulations[^c-4b3f3dcfdaea50a3e3e6dfcee362b4d7][^c-2fa20cc73de9ab26fd80b637abb28f66]
 
 ## Contents
 
-### PART I (Extent: W) (affected by repeal, see note) — INTRODUCTORY (Extent: W) (affected by repeal, see note)[^key-29e8ef3a5d57f823261f46df805d0311][^key-29e8ef3a5d57f823261f46df805d0311]
+### PART I (Extent: W) (affected by repeal, see note) — INTRODUCTORY (Extent: W) (affected by repeal, see note)[^c-29e8ef3a5d57f823261f46df805d0311][^c-29e8ef3a5d57f823261f46df805d0311]
 
 *Extent: E+W+S*
 
@@ -61,7 +61,7 @@ The Minister of Agriculture, Fisheries and Food and the Secretary of State, bein
 - [Section 6 — Animal welfare legislation and codes](part-i/section-6.md)
 - [Section 7 — Codes of practice](part-i/section-7.md)
 
-### PART II (affected by repeal, see note) (Extent: W) (affected by repeal, see note) — REQUIREMENTS APPLICABLE TO SLAUGHTERHOUSES AND KNACKERS' YARDS (affected by repeal, see note) (Extent: W) (affected by repeal, see note)[^key-e7f24afcfd63f2e7102de37d71ac3f7f][^key-29e8ef3a5d57f823261f46df805d0311][^key-e7f24afcfd63f2e7102de37d71ac3f7f][^key-29e8ef3a5d57f823261f46df805d0311]
+### PART II (affected by repeal, see note) (Extent: W) (affected by repeal, see note) — REQUIREMENTS APPLICABLE TO SLAUGHTERHOUSES AND KNACKERS' YARDS (affected by repeal, see note) (Extent: W) (affected by repeal, see note)[^c-e7f24afcfd63f2e7102de37d71ac3f7f][^c-29e8ef3a5d57f823261f46df805d0311][^c-e7f24afcfd63f2e7102de37d71ac3f7f][^c-29e8ef3a5d57f823261f46df805d0311]
 
 *Extent: E+W+S*
 
@@ -71,7 +71,7 @@ The Minister of Agriculture, Fisheries and Food and the Secretary of State, bein
 - [Section 11 — The killing of pigs and birds by exposure to gas mixtures](part-ii/section-11.md)
 - [Section 12 — Additional provisions for the slaughter or killing of horses](part-ii/section-12.md)
 
-### PART III (Extent: W) (affected by repeal, see note) — SLAUGHTER OR KILLING ELSEWHERE THAN IN SLAUGHTERHOUSES OR KNACKERS' YARDS (Extent: W) (affected by repeal, see note)[^key-29e8ef3a5d57f823261f46df805d0311][^key-29e8ef3a5d57f823261f46df805d0311]
+### PART III (Extent: W) (affected by repeal, see note) — SLAUGHTER OR KILLING ELSEWHERE THAN IN SLAUGHTERHOUSES OR KNACKERS' YARDS (Extent: W) (affected by repeal, see note)[^c-29e8ef3a5d57f823261f46df805d0311][^c-29e8ef3a5d57f823261f46df805d0311]
 
 *Extent: E+W+S*
 
@@ -85,14 +85,14 @@ The Minister of Agriculture, Fisheries and Food and the Secretary of State, bein
 - [Section 19 — The killing of surplus chicks and embryos in hatchery waste](part-iii/section-19.md)
 - [Section 20 — Birds awaiting slaughter at place of purchase](part-iii/section-20.md)
 
-### PART IV (Extent: W) (affected by repeal, see note) — SLAUGHTER BY A RELIGIOUS METHOD (Extent: W) (affected by repeal, see note)[^key-29e8ef3a5d57f823261f46df805d0311][^key-29e8ef3a5d57f823261f46df805d0311]
+### PART IV (Extent: W) (affected by repeal, see note) — SLAUGHTER BY A RELIGIOUS METHOD (Extent: W) (affected by repeal, see note)[^c-29e8ef3a5d57f823261f46df805d0311][^c-29e8ef3a5d57f823261f46df805d0311]
 
 *Extent: E+W+S*
 
 - [Section 21 — Additional requirements relating to slaughter by a religious method](part-iv/section-21.md)
 - [Section 22 — Exemption for slaughter by a religious method](part-iv/section-22.md)
 
-### PART V (Extent: W) (affected by repeal, see note) — EXECUTION, OFFENCES AND PENALTIES (Extent: W) (affected by repeal, see note)[^key-29e8ef3a5d57f823261f46df805d0311][^key-29e8ef3a5d57f823261f46df805d0311]
+### PART V (Extent: W) (affected by repeal, see note) — EXECUTION, OFFENCES AND PENALTIES (Extent: W) (affected by repeal, see note)[^c-29e8ef3a5d57f823261f46df805d0311][^c-29e8ef3a5d57f823261f46df805d0311]
 
 *Extent: E+W+S*
 
@@ -103,7 +103,7 @@ The Minister of Agriculture, Fisheries and Food and the Secretary of State, bein
 - [Section 26A — Time limit for summary prosecution](part-v/section-26a.md)
 - [Section 27 — Defence](part-v/section-27.md)
 
-### PART VI (Extent: W) (affected by repeal, see note) — REPEALS, REVOCATIONS AND AMENDMENTS (Extent: W) (affected by repeal, see note)[^key-29e8ef3a5d57f823261f46df805d0311][^key-29e8ef3a5d57f823261f46df805d0311]
+### PART VI (Extent: W) (affected by repeal, see note) — REPEALS, REVOCATIONS AND AMENDMENTS (Extent: W) (affected by repeal, see note)[^c-29e8ef3a5d57f823261f46df805d0311][^c-29e8ef3a5d57f823261f46df805d0311]
 
 *Extent: E+W+S*
 
@@ -131,17 +131,17 @@ The Minister of Agriculture, Fisheries and Food and the Secretary of State, bein
 
 *Extent: E+W+S*
 
-Angela Browning *(Extent: W)* *(affected by repeal, see note)*[^key-29e8ef3a5d57f823261f46df805d0311]
+Angela Browning *(Extent: W)* *(affected by repeal, see note)*[^c-29e8ef3a5d57f823261f46df805d0311]
 
-Parliamentary Secretary, Ministry of Agriculture, Fisheries and Food *(Extent: W)* *(affected by repeal, see note)*[^key-29e8ef3a5d57f823261f46df805d0311]
+Parliamentary Secretary, Ministry of Agriculture, Fisheries and Food *(Extent: W)* *(affected by repeal, see note)*[^c-29e8ef3a5d57f823261f46df805d0311]
 
-14th March 1995 *(Extent: W)* *(affected by repeal, see note)*[^key-29e8ef3a5d57f823261f46df805d0311]
+14th March 1995 *(Extent: W)* *(affected by repeal, see note)*[^c-29e8ef3a5d57f823261f46df805d0311]
 
-Hector Monro *(Extent: W)* *(affected by repeal, see note)*[^key-29e8ef3a5d57f823261f46df805d0311]
+Hector Monro *(Extent: W)* *(affected by repeal, see note)*[^c-29e8ef3a5d57f823261f46df805d0311]
 
-Parliamentary Under Secretary of State, Scottish Office *(Extent: W)* *(affected by repeal, see note)*[^key-29e8ef3a5d57f823261f46df805d0311]
+Parliamentary Under Secretary of State, Scottish Office *(Extent: W)* *(affected by repeal, see note)*[^c-29e8ef3a5d57f823261f46df805d0311]
 
-14th March 1995 *(Extent: W)* *(affected by repeal, see note)*[^key-29e8ef3a5d57f823261f46df805d0311]
+14th March 1995 *(Extent: W)* *(affected by repeal, see note)*[^c-29e8ef3a5d57f823261f46df805d0311]
 
 *Extent: E+W+S*
 
@@ -176,14 +176,14 @@ A Compliance Cost Assessment in relation to these Regulations has been placed in
 
 ## Annotations
 
-[^key-29e8ef3a5d57f823261f46df805d0311]: Textual amendment: Regulations revoked (W.) (20.5.2014) by [The Welfare of Animals at the Time of Killing (Wales) Regulations 2014 (S.I. 2014/951)](https://www.legislation.gov.uk/uksi/2014/951), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2014/951/regulation/1/c), [46(a)](https://www.legislation.gov.uk/uksi/2014/951/regulation/46/a); and revoked (E.) (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [47(a)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/47/a)
+[^c-29e8ef3a5d57f823261f46df805d0311]: Textual amendment: Regulations revoked (W.) (20.5.2014) by [The Welfare of Animals at the Time of Killing (Wales) Regulations 2014 (S.I. 2014/951)](https://www.legislation.gov.uk/uksi/2014/951), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2014/951/regulation/1/c), [46(a)](https://www.legislation.gov.uk/uksi/2014/951/regulation/46/a); and revoked (E.) (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [47(a)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/47/a)
 
 [^f00001]: Footnote: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-4b3f3dcfdaea50a3e3e6dfcee362b4d7]: Modification: Regulations: certain functions transferred (1.7.1999) by [The National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/672/article/1/2), [2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+[^c-4b3f3dcfdaea50a3e3e6dfcee362b4d7]: Modification: Regulations: certain functions transferred (1.7.1999) by [The National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/672/article/1/2), [2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-2fa20cc73de9ab26fd80b637abb28f66]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1995/731): functions transferred (31.12.2004) by [The National Assembly for Wales (Transfer of Functions) Order 2004 (S.I. 2004/3044)](https://www.legislation.gov.uk/uksi/2004/3044), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/3044/article/1/2), [2(a)(c)](https://www.legislation.gov.uk/uksi/2004/3044/article/2/a/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3044/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/3044/article/3))
+[^c-2fa20cc73de9ab26fd80b637abb28f66]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1995/731): functions transferred (31.12.2004) by [The National Assembly for Wales (Transfer of Functions) Order 2004 (S.I. 2004/3044)](https://www.legislation.gov.uk/uksi/2004/3044), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/3044/article/1/2), [2(a)(c)](https://www.legislation.gov.uk/uksi/2004/3044/article/2/a/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3044/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/3044/article/3))
 
-[^key-e7f24afcfd63f2e7102de37d71ac3f7f]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/1995/731/part/II) revoked (S. in relation to slaughterhouses) (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [30(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/30/1) (with [reg. 30(3)](https://www.legislation.gov.uk/ssi/2012/321/regulation/30/3))
+[^c-e7f24afcfd63f2e7102de37d71ac3f7f]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/1995/731/part/II) revoked (S. in relation to slaughterhouses) (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [30(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/30/1) (with [reg. 30(3)](https://www.legislation.gov.uk/ssi/2012/321/regulation/30/3))

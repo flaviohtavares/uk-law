@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Persons temporarily absent from Northern Ireland[^key-b5a799960494ac6def5cd04704597fe0]
+## 50. Persons temporarily absent from Northern Ireland[^c-b5a799960494ac6def5cd04704597fe0]
 
 *Extent: N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5a799960494ac6def5cd04704597fe0]: Commencement: Reg. 50 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-b5a799960494ac6def5cd04704597fe0]: Commencement: Reg. 50 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

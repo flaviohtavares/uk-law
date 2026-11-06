@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Treatment of the receipt of manufactured overseas dividends[^key-d5fc27d1240f51f6b148ab533b99e6ca]
+## 22. Treatment of the receipt of manufactured overseas dividends[^c-d5fc27d1240f51f6b148ab533b99e6ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5fc27d1240f51f6b148ab533b99e6ca]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2012/14/section/22) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 50(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/50/2)
+[^c-d5fc27d1240f51f6b148ab533b99e6ca]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2012/14/section/22) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 50(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/50/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Statutory undertakers, etc.[^key-b04488d4571d0554d7afabf7ee7e1c9b]
+## 38. Statutory undertakers, etc.[^c-b04488d4571d0554d7afabf7ee7e1c9b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 7 (provisions relating to statutory undertakers, etc.
 
 ## Annotations
 
-[^key-b04488d4571d0554d7afabf7ee7e1c9b]: Commencement: Art. 38 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-b04488d4571d0554d7afabf7ee7e1c9b]: Commencement: Art. 38 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

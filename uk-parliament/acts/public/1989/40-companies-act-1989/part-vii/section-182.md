@@ -29,9 +29,9 @@ are begun on or after 22nd December 1988 and before the commencement of this sec
 
 That person is referred to in this section as “**the relevant person**”.
 
-(2) For the purposes of this section “**insolvency proceedings**” means proceedings under Part II, IV, V or IX of the [^c13696451]Insolvency Act 1986 (administration, winding up and bankruptcy) or under the Bankruptcy (Scotland) Act 2016[^key-23d5225af46ccf602fb7d60cdd4b464d]; and references in this section to the beginning of such proceedings are to—
+(2) For the purposes of this section “**insolvency proceedings**” means proceedings under Part II, IV, V or IX of the [^c13696451]Insolvency Act 1986 (administration, winding up and bankruptcy) or under the Bankruptcy (Scotland) Act 2016[^c-23d5225af46ccf602fb7d60cdd4b464d]; and references in this section to the beginning of such proceedings are to—
 
-- (za)[^key-451ab69157e1ce0fcc67787ee792e6c1] the making of a bankruptcy application on which a bankruptcy order is made,
+- (za)[^c-451ab69157e1ce0fcc67787ee792e6c1] the making of a bankruptcy application on which a bankruptcy order is made,
 - (a) the presentation of a petition on which an administration order, winding-up order, bankruptcy order or award of sequestration is made, or
 - (b) the passing of a resolution for voluntary winding up.
 
@@ -73,8 +73,8 @@ make such order as it thinks fit for achieving, except so far as assets of the r
 
 [^c13696451]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-23d5225af46ccf602fb7d60cdd4b464d]: Textual amendment: Word in s. 182(2) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 6(9)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/6/9)
+[^c-23d5225af46ccf602fb7d60cdd4b464d]: Textual amendment: Word in s. 182(2) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 6(9)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/6/9)
 
-[^key-451ab69157e1ce0fcc67787ee792e6c1]: Textual amendment: S. 182(2)(za) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 9(7)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/9/7)
+[^c-451ab69157e1ce0fcc67787ee792e6c1]: Textual amendment: S. 182(2)(za) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 9(7)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/9/7)
 
 [^c13696471]: Marginal citation: [1889 c. 39](https://www.legislation.gov.uk/ukpga/1889/39).

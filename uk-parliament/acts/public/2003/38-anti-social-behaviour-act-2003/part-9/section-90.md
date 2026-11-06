@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 90. Report by local authority in certain cases where person remanded on bail[^key-5f0eb64d45a3c07429b9c198b5214dcf]
+## 90. Report by local authority in certain cases where person remanded on bail[^c-5f0eb64d45a3c07429b9c198b5214dcf]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ After section 23A of the Children and Young Persons Act 1969 (c. 54) there is in
 
 ## Annotations
 
-[^key-5f0eb64d45a3c07429b9c198b5214dcf]: Commencement: S. 90 in force at 31.7.2004 by [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 3](https://www.legislation.gov.uk/uksi/2004/1502/article/3)
+[^c-5f0eb64d45a3c07429b9c198b5214dcf]: Commencement: S. 90 in force at 31.7.2004 by [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 3](https://www.legislation.gov.uk/uksi/2004/1502/article/3)

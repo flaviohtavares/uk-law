@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 24 — Repeals and revocations[^c14550391][^c14550401][^key-fee6a4b6e60e0471fcdc40e0e9bdf2be][^key-52ab4c044c3c860537eb535e5a0f3ae4][^key-79eeafb254bc124d719dbc46b7ffb1b3]
+## SCHEDULE 24 — Repeals and revocations[^c14550391][^c14550401][^c-fee6a4b6e60e0471fcdc40e0e9bdf2be][^c-52ab4c044c3c860537eb535e5a0f3ae4][^c-79eeafb254bc124d719dbc46b7ffb1b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ Section 120.
 
 | Reference | Short title or title | Extent of repeal orrevocation |
 | --- | --- | --- |
-| [^key-e2c5fbd4733438a9b907fde46fb607a8]. . . | [^key-e2c5fbd4733438a9b907fde46fb607a8]. . . | [^key-e2c5fbd4733438a9b907fde46fb607a8]. . . |
-|  |  | [^key-e2c5fbd4733438a9b907fde46fb607a8]. . . |
+| [^c-e2c5fbd4733438a9b907fde46fb607a8]. . . | [^c-e2c5fbd4733438a9b907fde46fb607a8]. . . | [^c-e2c5fbd4733438a9b907fde46fb607a8]. . . |
+|  |  | [^c-e2c5fbd4733438a9b907fde46fb607a8]. . . |
 | 6 Edw. 7. c. 14. | The Alkali, &c, Works Regulation Act 1906. | In section 9, the proviso to subsection (5). |
 |  |  | Section 25. |
 |  |  | In section 27(1), the definitions of the expressions “chief inspector” and “inspector”. |
@@ -346,10 +346,10 @@ Section 120.
 
 [^c14550401]: Extent: For extent of Sch. 24, see s. 125(7)(8)(10)
 
-[^key-fee6a4b6e60e0471fcdc40e0e9bdf2be]: Commencement: Sch. 24 in force at 1.1.2005 for specified purposes for S. by [S.S.I. 2004/541](https://www.legislation.gov.uk/ssi/2004/541), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/541/article/2/b)
+[^c-fee6a4b6e60e0471fcdc40e0e9bdf2be]: Commencement: Sch. 24 in force at 1.1.2005 for specified purposes for S. by [S.S.I. 2004/541](https://www.legislation.gov.uk/ssi/2004/541), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/541/article/2/b)
 
-[^key-52ab4c044c3c860537eb535e5a0f3ae4]: Commencement: Sch. 24 in force at 1.1.2005 for specified purposes for E.W. by [S.I. 2006/934](https://www.legislation.gov.uk/uksi/2006/934), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/934/article/2/b)
+[^c-52ab4c044c3c860537eb535e5a0f3ae4]: Commencement: Sch. 24 in force at 1.1.2005 for specified purposes for E.W. by [S.I. 2006/934](https://www.legislation.gov.uk/uksi/2006/934), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/934/article/2/b)
 
-[^key-79eeafb254bc124d719dbc46b7ffb1b3]: Commencement: [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) in force at 1.4.2015 for specified purposes for S. by [S.S.I. 2015/73](https://www.legislation.gov.uk/ssi/2015/73), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/73/article/2/2)
+[^c-79eeafb254bc124d719dbc46b7ffb1b3]: Commencement: [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) in force at 1.4.2015 for specified purposes for S. by [S.S.I. 2015/73](https://www.legislation.gov.uk/ssi/2015/73), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/73/article/2/2)
 
-[^key-e2c5fbd4733438a9b907fde46fb607a8]: Textual amendment: Words in Sch. 24 repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-e2c5fbd4733438a9b907fde46fb607a8]: Textual amendment: Words in Sch. 24 repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

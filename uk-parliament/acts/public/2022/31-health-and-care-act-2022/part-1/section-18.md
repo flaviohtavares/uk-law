@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Role of integrated care boards[^key-b7ed56d65af09a1dda49616b83f063de][^key-734d46017dde61850215350cef669664]
+## 18. Role of integrated care boards[^c-b7ed56d65af09a1dda49616b83f063de][^c-734d46017dde61850215350cef669664]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ For section 1I of the National Health Service Act 2006 and the italic heading be
 
 ## Annotations
 
-[^key-b7ed56d65af09a1dda49616b83f063de]: Commencement: S. 18 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-b7ed56d65af09a1dda49616b83f063de]: Commencement: S. 18 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-734d46017dde61850215350cef669664]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/31/section/18) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-734d46017dde61850215350cef669664]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/31/section/18) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

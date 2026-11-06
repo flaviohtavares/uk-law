@@ -26,7 +26,7 @@ Section 288.
 
 **1.** For the purposes of this Act “**gilt-edged securities**” means the securities specified in Part II of this Schedule, and such stocks and bonds issued under section 12 of the National Loans Act 1968[^m00001], denominated in sterling and issued after 15th April 1969, as may be specified by order made by the Treasury.
 
-**1A.**[^key-8ff0c9eb554f6deb9f28dee5217f7c51] (1) Any security which is a strip of a security which is a gilt-edged security for the purposes of this Act is also itself a gilt-edged security for those purposes.
+**1A.**[^c-8ff0c9eb554f6deb9f28dee5217f7c51] (1) Any security which is a strip of a security which is a gilt-edged security for the purposes of this Act is also itself a gilt-edged security for those purposes.
 
 (2) In this paragraph “**strip**” has the same meaning as in section 47 of the Finance Act 1942.
 
@@ -173,6 +173,6 @@ Section 288.
 
 [^m00001]: Marginal citation: 1968 c. 13.
 
-[^key-8ff0c9eb554f6deb9f28dee5217f7c51]: Textual amendment: Sch. 9 para. 1A inserted (29.4.1996) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 40 para. 8](https://www.legislation.gov.uk/ukpga/1996/8/schedule/40/paragraph/8)
+[^c-8ff0c9eb554f6deb9f28dee5217f7c51]: Textual amendment: Sch. 9 para. 1A inserted (29.4.1996) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 40 para. 8](https://www.legislation.gov.uk/ukpga/1996/8/schedule/40/paragraph/8)
 
 [^m00002]: Marginal citation: 1978 c. 30.

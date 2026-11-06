@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Options under this Chapter[^key-88a76c6a1d6eeba2099c9670b313b098]
+## 110. Options under this Chapter[^c-88a76c6a1d6eeba2099c9670b313b098]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The options under this Chapter are—
 
 ## Annotations
 
-[^key-88a76c6a1d6eeba2099c9670b313b098]: Commencement: Reg. 110 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-88a76c6a1d6eeba2099c9670b313b098]: Commencement: Reg. 110 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

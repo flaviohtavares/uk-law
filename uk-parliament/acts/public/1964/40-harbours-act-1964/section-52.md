@@ -29,10 +29,10 @@ summary: ''
 - (a) in subsection (1) for references to a Crown or Duchy interest there shall be substituted references to a Crown interest;
 - (b) subsection (2) shall not apply; and
 - (c) “**Crown interest**” means an interest belonging to Her Majesty in right of the Crown or belonging to a government department, or held in trust for Her Majesty for the purposes of a goverment department, and the “**appropriate authority**”—
-  - (i) in relation to land belonging to Her Majesty in right of the Crown and forming part of the Crown estate means the Crown Estate Commissioners, and, in relation to any other land belonging to Her Majesty in right of the Crown, means the government department having the management of that land or the relevant person[^key-b0df2f5d849908fdad0d28d82345673e]; and
+  - (i) in relation to land belonging to Her Majesty in right of the Crown and forming part of the Crown estate means the Crown Estate Commissioners, and, in relation to any other land belonging to Her Majesty in right of the Crown, means the government department having the management of that land or the relevant person[^c-b0df2f5d849908fdad0d28d82345673e]; and
   - (ii) in relation to land belonging to a government department or held in trust for Her Majesty for the purposes of a government department, means that department.
 
-(3A)[^key-211a7e0fc5a7e53a1f31adbc7e95a399] In subsection (3), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
+(3A)[^c-211a7e0fc5a7e53a1f31adbc7e95a399] In subsection (3), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
 
 (4) If any question arises as to what authority is the appropriate authority in relation to any land for the purposes of the last foregoing subsection, that question shall be referred to the Treasury, whose decision shall be final.
 
@@ -42,6 +42,6 @@ summary: ''
 
 [^c7740971]: Textual amendment: Words substituted by virtue of [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/11)
 
-[^key-b0df2f5d849908fdad0d28d82345673e]: Textual amendment: Words in s. 52(3)(c)(i) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 10(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/10/a)
+[^c-b0df2f5d849908fdad0d28d82345673e]: Textual amendment: Words in s. 52(3)(c)(i) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 10(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/10/a)
 
-[^key-211a7e0fc5a7e53a1f31adbc7e95a399]: Textual amendment: S. 52(3A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 10(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/10/b)
+[^c-211a7e0fc5a7e53a1f31adbc7e95a399]: Textual amendment: S. 52(3A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 10(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/10/b)

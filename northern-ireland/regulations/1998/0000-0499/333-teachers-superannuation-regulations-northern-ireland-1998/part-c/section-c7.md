@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## C7. Additional contributions for current period: service in a reserve force[^key-981e7cd9418344977732d675de20f7b5]
+## C7. Additional contributions for current period: service in a reserve force[^c-981e7cd9418344977732d675de20f7b5]
 
 *Extent: N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-981e7cd9418344977732d675de20f7b5]: Commencement: Reg. C7 in operation at 2.11.1998, see reg. A1
+[^c-981e7cd9418344977732d675de20f7b5]: Commencement: Reg. C7 in operation at 2.11.1998, see reg. A1
 
 [^f00013]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14)
 

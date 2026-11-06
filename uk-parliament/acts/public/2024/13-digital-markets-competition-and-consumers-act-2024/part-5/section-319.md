@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 319. Provision of investigative assistance to overseas regulators[^key-0bec3481c0bec9bf39c1c704005e6619][^key-a4db1ccec664433e6098e8980a12ae87]
+## 319. Provision of investigative assistance to overseas regulators[^c-0bec3481c0bec9bf39c1c704005e6619][^c-a4db1ccec664433e6098e8980a12ae87]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0bec3481c0bec9bf39c1c704005e6619]: Commencement: S. 319 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-0bec3481c0bec9bf39c1c704005e6619]: Commencement: S. 319 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-a4db1ccec664433e6098e8980a12ae87]: Commencement: [S. 319](https://www.legislation.gov.uk/ukpga/2024/13/section/319) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/4)
+[^c-a4db1ccec664433e6098e8980a12ae87]: Commencement: [S. 319](https://www.legislation.gov.uk/ukpga/2024/13/section/319) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/4)

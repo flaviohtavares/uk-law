@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Appeals[^key-a85d8790cebd73d81410ed64172afd96]
+## 20. Appeals[^c-a85d8790cebd73d81410ed64172afd96]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a85d8790cebd73d81410ed64172afd96]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2010/14/section/20) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)
+[^c-a85d8790cebd73d81410ed64172afd96]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2010/14/section/20) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)

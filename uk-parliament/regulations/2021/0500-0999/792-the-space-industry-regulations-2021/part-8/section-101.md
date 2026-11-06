@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Additional requirement relating to the launch vehicle during operator’s spaceflight activities[^key-96e3d461e2a88581698e3cdebfd3b089]
+## 101. Additional requirement relating to the launch vehicle during operator’s spaceflight activities[^c-96e3d461e2a88581698e3cdebfd3b089]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96e3d461e2a88581698e3cdebfd3b089]: Commencement: Reg. 101 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-96e3d461e2a88581698e3cdebfd3b089]: Commencement: Reg. 101 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

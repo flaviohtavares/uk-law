@@ -44,30 +44,30 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-The Treasury [^c23638301], in exercise of the powers conferred by sections 1(1)(a) and (c) and (3), 3(1)(a), (b)(i) and (d)(i), 9(2)(a), 10(2)(a), (3) and (4), 11(2) to (9), 15(2)(a) and (b), (3)(a), (b), (d), (f), (g) and (h) and (6), 16(1)(a), (b), (c) and (e), (2) and (3)(a), 17(2)(a), (b)(i) and (c), (3) to (5) and (8), 21(1), 54(1) and (2), 56 and 62(4) and (5) of the Sanctions and Anti-Money Laundering Act 2018 [^c23638311], and having decided, upon consideration of the matters set out in section 2(2) and 56(1) of that Act, that it is appropriate to do so, makes the following Regulations:[^key-10ccccf3399adaa5cbaaf55f0659efb5]
+The Treasury [^c23638301], in exercise of the powers conferred by sections 1(1)(a) and (c) and (3), 3(1)(a), (b)(i) and (d)(i), 9(2)(a), 10(2)(a), (3) and (4), 11(2) to (9), 15(2)(a) and (b), (3)(a), (b), (d), (f), (g) and (h) and (6), 16(1)(a), (b), (c) and (e), (2) and (3)(a), 17(2)(a), (b)(i) and (c), (3) to (5) and (8), 21(1), 54(1) and (2), 56 and 62(4) and (5) of the Sanctions and Anti-Money Laundering Act 2018 [^c23638311], and having decided, upon consideration of the matters set out in section 2(2) and 56(1) of that Act, that it is appropriate to do so, makes the following Regulations:[^c-10ccccf3399adaa5cbaaf55f0659efb5]
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-bd899946b4989e981155faaa2e5e7f6f]
+### 1. Citation and commencement[^c-bd899946b4989e981155faaa2e5e7f6f]
 
 (1) These Regulations may be cited as the Counter-Terrorism (Sanctions) (EU Exit) Regulations 2019.
 
 (2) These Regulations come into force in accordance with regulations made by the Treasury under section 56 of the Act.
 
-### 2. Interpretation[^key-dab120bfe805a447feadbaf3e649e034]
+### 2. Interpretation[^c-dab120bfe805a447feadbaf3e649e034]
 
 In these Regulations—
 
 - “**the Act**” means the Sanctions and Anti-Money Laundering Act 2018;
 - “**arrangement**” includes any agreement, understanding, scheme, transaction or series of transactions, whether or not legally enforceable (but see paragraph 12 of the Schedule for the meaning of that term in the Schedule);
 - “**conduct**” includes acts and omissions;
-- “[^key-706c8db5dfa64eb5ba04bf6eb372cb3e]**director disqualification licence**” means a licence under regulation 19A;
+- “[^c-706c8db5dfa64eb5ba04bf6eb372cb3e]**director disqualification licence**” means a licence under regulation 19A;
 - “**document**” includes information recorded in any form and, in relation to information recorded otherwise than in legible form, references to its production include producing a copy of the information in legible form;
 - “**resolution 1373**” means resolution 1373 (2001) adopted by the Security Council on 28 September 2001;
 - “**Treasury licence**” means a licence under regulation 19(1);
 - “**United Kingdom person**” has the same meaning as in section 21 of the Act.
 
-### 3. Application of prohibitions and requirements[^key-00be25bceeceea61157c2a546a3b455f]
+### 3. Application of prohibitions and requirements[^c-00be25bceeceea61157c2a546a3b455f]
 
 (1) A United Kingdom person may contravene a relevant prohibition by conduct wholly or partly outside the United Kingdom.
 
@@ -90,7 +90,7 @@ In these Regulations—
 
 (7) Nothing in this regulation is to be taken to prevent a relevant prohibition or a relevant requirement from applying to conduct (by any person) in the United Kingdom.
 
-### 4. Purposes[^key-b00db16f41388b8b91a991d77c79c53b]
+### 4. Purposes[^c-b00db16f41388b8b91a991d77c79c53b]
 
 (1) The regulations contained in this instrument that are made under section 1 of the Act have the following purposes—
 
@@ -106,17 +106,17 @@ In these Regulations—
 
 ## PART 2 — Designation of persons
 
-### 5. Power to designate persons[^key-ed3fc94b364a6974f48e818ccad4b4be]
+### 5. Power to designate persons[^c-ed3fc94b364a6974f48e818ccad4b4be]
 
-(1)[^key-053dddc325b0252d7c0b7521c56b395c] The Treasury may designate persons by name in accordance with regulation 5A (conditions for the designation of persons by name)[^key-4edfaa067dfb89834db78fa5f93d233c] for the purposes of any of the following—[^key-e21714b1d0ff02032f63c6b752ae91eb]
+(1)[^c-053dddc325b0252d7c0b7521c56b395c] The Treasury may designate persons by name in accordance with regulation 5A (conditions for the designation of persons by name)[^c-4edfaa067dfb89834db78fa5f93d233c] for the purposes of any of the following—[^c-e21714b1d0ff02032f63c6b752ae91eb]
 
 - (a) regulations 11 to 15 (asset-freeze etc.);
 - (b) regulation 16A (director disqualification sanctions);
 - (c) regulation 16B (immigration).
 
-(2)[^key-b82b6718135413d03167a12457bfba10] The Treasury may designate different persons for the purposes of different provisions mentioned in paragraph (1).
+(2)[^c-b82b6718135413d03167a12457bfba10] The Treasury may designate different persons for the purposes of different provisions mentioned in paragraph (1).
 
-### 5A. Conditions for the designation of persons by name[^key-8b17b38e421d55d8e8f84381c61a6fff]
+### 5A. Conditions for the designation of persons by name[^c-8b17b38e421d55d8e8f84381c61a6fff]
 
 (1) The Treasury may choose whether to designate a person under regulation 5 (power to designate persons) under—
 
@@ -156,11 +156,11 @@ In these Regulations—
 
 (12) In this regulation, “**involved person**” has the meaning given in regulation 6 (designation criteria: meaning of “involved person”).
 
-### 6. Designation criteria: meaning of “involved person”[^key-86a5b8f9412528e1d54acc9b5a81c255][^key-c07c9218b2b5992c4d9efaa41d2b5940]
+### 6. Designation criteria: meaning of “involved person”[^c-86a5b8f9412528e1d54acc9b5a81c255][^c-c07c9218b2b5992c4d9efaa41d2b5940]
 
-(1)[^key-14cfe270cdcc03a3457083c7873ea544] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-14cfe270cdcc03a3457083c7873ea544] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) For the purposes of regulation 5A (conditions for the designation of person by name)[^key-19ea4aee7c5911f3e9a44fe830e231ee], an “**involved person**” means a person who—
+(2) For the purposes of regulation 5A (conditions for the designation of person by name)[^c-19ea4aee7c5911f3e9a44fe830e231ee], an “**involved person**” means a person who—
 
 - (a) is or has been involved in terrorist activity,
 - (b) is owned or controlled directly or indirectly (within the meaning of regulation 7) by a person who is or has been so involved,
@@ -198,7 +198,7 @@ In these Regulations—
 
 (6) Nothing in any sub-paragraph of paragraph (3) is to be taken to limit the meaning of any of the other sub-paragraphs of that paragraph.
 
-### 7. Meaning of “owned or controlled directly or indirectly”[^key-35dcd810ea5924fb48ee63bb54408a6d]
+### 7. Meaning of “owned or controlled directly or indirectly”[^c-35dcd810ea5924fb48ee63bb54408a6d]
 
 (1) A person who is not an individual (“C”) is “owned or controlled directly or indirectly” by another person (“P”) if either of the following two conditions is met (or both are met).
 
@@ -212,7 +212,7 @@ In these Regulations—
 
 (4) The second condition is that it is reasonable, having regard to all the circumstances, to expect that P would (if P chose to) be able, in most cases or in significant respects, by whatever means and, whether directly or indirectly, to achieve the result that affairs of C are conducted in accordance with P's wishes.
 
-### 8. Notification and publicity where designation power used[^key-cd2b9fffa8653ef1b8d6632705511eaa]
+### 8. Notification and publicity where designation power used[^c-cd2b9fffa8653ef1b8d6632705511eaa]
 
 (1) Paragraph (2) applies where the Treasury—
 
@@ -224,7 +224,7 @@ In these Regulations—
 - (a) must without delay take such steps as are reasonably practicable to inform the designated person of the designation, variation or revocation, and
 - (b) must take steps to publicise the designation, variation or revocation.
 
-(3)[^key-92f9fdc2c0dd2ee439b825505c75c2da] The information given under paragraph (2)(a)—
+(3)[^c-92f9fdc2c0dd2ee439b825505c75c2da] The information given under paragraph (2)(a)—
 
 - (a) where the Treasury designate a person under the standard procedure, must include a statement of reasons;
 - (b) where the Treasury designate a person under the urgent procedure, must include a statement—
@@ -237,7 +237,7 @@ In these Regulations—
 - (a) in a case where the person ceases to be a designated person, take such steps as are reasonably practicable to inform the person that they have ceased to be a designated person, or
 - (b) in any other case, take such steps as are reasonably practicable to give the person a statement of reasons.
 
-(4)[^key-4c9095b57ffc2c0c73033068f946c650] In this regulation, a “**statement of reasons**” means a brief statement of the matters that the Treasury know, or have reasonable grounds to suspect, in relation to the person—
+(4)[^c-4c9095b57ffc2c0c73033068f946c650] In this regulation, a “**statement of reasons**” means a brief statement of the matters that the Treasury know, or have reasonable grounds to suspect, in relation to the person—
 
 - (a) in the case of a designation under the standard procedure, which have led the Treasury to make the designation, and
 - (b) in the case of a designation under the urgent procedure, as a result of which the person does not cease to be a designated person at the end of the period mentioned in regulation 5A(7) or (8) (as the case may be).
@@ -273,7 +273,7 @@ In these Regulations—
 - (a) take such steps as are reasonably practicable to inform the designated person that none of the restricted publicity conditions is now met, and
 - (b) take steps to publicise generally the designation and the statement of reasons relating to it.
 
-### 9. Confidential information in certain cases where designation power used[^key-37cb717b55682daa19ab44e144b511b0]
+### 9. Confidential information in certain cases where designation power used[^c-37cb717b55682daa19ab44e144b511b0]
 
 (1) Where the Treasury in accordance with regulation 8(6)(b) inform only certain persons of a designation, variation or revocation and (in the case of a designation) of the contents of the statement of reasons, the Treasury may specify that any of that information is to be treated as confidential.
 
@@ -308,11 +308,11 @@ grant an injunction (in Scotland, an interdict) to prevent a breach of the prohi
 
 ## PART 3 — Finance
 
-### 10. Meaning of “designated person” in Part 3[^key-90952ade15bba36608ece96303328668]
+### 10. Meaning of “designated person” in Part 3[^c-90952ade15bba36608ece96303328668]
 
 In this Part, a “**designated person**” means a person who is designated under regulation 5 for the purposes of regulations 11 to 15 (asset-freeze etc.).
 
-### 11. Asset-freeze in relation to designated persons[^key-8c6db0bdd7b0ff650bc32e7f95fcf945]
+### 11. Asset-freeze in relation to designated persons[^c-8c6db0bdd7b0ff650bc32e7f95fcf945]
 
 (1) A person (“P”) must not deal with funds or economic resources owned, held or controlled by a designated person if P knows, or has reasonable cause to suspect, that P is dealing with such funds or economic resources.
 
@@ -340,7 +340,7 @@ In this Part, a “**designated person**” means a person who is designated und
 
 (8) For the avoidance of doubt, the reference in paragraph (1) to a designated person includes P if P is a designated person.
 
-### 12. Making funds or financial services available to designated person[^key-8e84ae01899d5950488d16f0869144a4]
+### 12. Making funds or financial services available to designated person[^c-8e84ae01899d5950488d16f0869144a4]
 
 (1) A person (“P”) must not make funds or financial services available directly or indirectly to a designated person if P knows, or has reasonable cause to suspect, that P is making the funds or financial services so available.
 
@@ -350,7 +350,7 @@ In this Part, a “**designated person**” means a person who is designated und
 
 (4) The reference in paragraph (1) to making funds or financial services available indirectly to a designated person includes, in particular, a reference to making them available to a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person.
 
-### 13. Making funds or financial services available for benefit of designated person[^key-c4ed7f847a6c6242e1b4f2c6fd6ea020][^key-5b6701e70847f9023318092c5d1cc1ea]
+### 13. Making funds or financial services available for benefit of designated person[^c-c4ed7f847a6c6242e1b4f2c6fd6ea020][^c-5b6701e70847f9023318092c5d1cc1ea]
 
 (1) A person (“P”) must not make funds or financial services available to any person for the benefit of a designated person if P knows, or has reasonable cause to suspect, that P is making the funds or financial services so available.
 
@@ -358,14 +358,14 @@ In this Part, a “**designated person**” means a person who is designated und
 
 (3) A person who contravenes the prohibition in paragraph (1) commits an offence.
 
-(3A)[^key-5c5692983d1d073a1c8d7556b4689040] The reference in paragraph (1) to making funds or financial services available to any person for the benefit of a designated person includes making funds or financial services available for the benefit of a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (and references to designated person in paragraph (4) are to be read accordingly).
+(3A)[^c-5c5692983d1d073a1c8d7556b4689040] The reference in paragraph (1) to making funds or financial services available to any person for the benefit of a designated person includes making funds or financial services available for the benefit of a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (and references to designated person in paragraph (4) are to be read accordingly).
 
 (4) For the purposes of this regulation—
 
 - (a) funds are made available for the benefit of a designated person only if that person thereby obtains, or is able to obtain, a significant financial benefit, and
 - (b) “**financial benefit**” includes the discharge (or partial discharge) of a financial obligation for which the designated person is wholly or partly responsible.
 
-### 14. Making economic resources available to designated person[^key-a90996ce38e088d54a7bdc9365560eaa]
+### 14. Making economic resources available to designated person[^c-a90996ce38e088d54a7bdc9365560eaa]
 
 (1) A person (“P”) must not make economic resources available directly or indirectly to a designated person if P knows, or has reasonable cause to suspect—
 
@@ -378,7 +378,7 @@ In this Part, a “**designated person**” means a person who is designated und
 
 (4) The reference in paragraph (1) to making economic resources available indirectly to a designated person includes, in particular, a reference to making them available to a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person.
 
-### 15. Making economic resources available for benefit of designated person[^key-8f6dce4c510e7e1df2eed59b098f98b8]
+### 15. Making economic resources available for benefit of designated person[^c-8f6dce4c510e7e1df2eed59b098f98b8]
 
 (1) A person (“P”) must not make economic resources available to any person for the benefit of a designated person if P knows, or has reasonable cause to suspect, that P is making the economic resources so available.
 
@@ -386,14 +386,14 @@ In this Part, a “**designated person**” means a person who is designated und
 
 (3) A person who contravenes the prohibition in paragraph (1) commits an offence.
 
-(3A)[^key-0e96a570846471e9ba43d4bf9a0ca946] The reference in paragraph (1) to making economic resources available to any person for the benefit of a designated person includes making economic resources available for the benefit of a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (and references to designated person in paragraph (4) are to be read accordingly).
+(3A)[^c-0e96a570846471e9ba43d4bf9a0ca946] The reference in paragraph (1) to making economic resources available to any person for the benefit of a designated person includes making economic resources available for the benefit of a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (and references to designated person in paragraph (4) are to be read accordingly).
 
 (4) For the purposes of paragraph (1)—
 
 - (a) economic resources are made available for the benefit of a designated person only if that person thereby obtains, or is able to obtain, a significant financial benefit, and
 - (b) “**financial benefit**” includes the discharge (or partial discharge) of a financial obligation for which the designated person is wholly or partly responsible.
 
-### 16. Circumventing etc. prohibitions[^key-ffd7f8867fd106aff3a5ef86b5615c08]
+### 16. Circumventing etc. prohibitions[^c-ffd7f8867fd106aff3a5ef86b5615c08]
 
 (1) A person must not intentionally participate in activities knowing that the object or effect of them is, whether directly or indirectly—
 
@@ -402,7 +402,7 @@ In this Part, a “**designated person**” means a person who is designated und
 
 (2) A person who contravenes the prohibition in paragraph (1) commits an offence.
 
-## PART 3A — Director disqualification sanctions[^key-80d4778e169510282dd9038f8ee5ea68]
+## PART 3A — Director disqualification sanctions[^c-80d4778e169510282dd9038f8ee5ea68]
 
 ### 16A. Director disqualification sanctions
 
@@ -411,7 +411,7 @@ A person who is designated under regulation 5 (power to designate persons) for t
 - (a) section 11A of the Company Directors Disqualification Act 1986, and
 - (b) Article 15A of the Company Directors Disqualification (Northern Ireland) Order 2002.
 
-## PART 3B — Immigration[^key-062307d37174c054a5bb1d7deedc44f8]
+## PART 3B — Immigration[^c-062307d37174c054a5bb1d7deedc44f8]
 
 ### 16B. Immigration
 
@@ -419,7 +419,7 @@ A person who is designated under regulation 5 (power to designate persons) for t
 
 ## PART 4 — Exceptions and licences
 
-### 17. Finance: exceptions from prohibitions[^key-4619ce9f56a24072be05b15b4ef4f71e]
+### 17. Finance: exceptions from prohibitions[^c-4619ce9f56a24072be05b15b4ef4f71e]
 
 (1) The prohibition in regulation 11 (asset-freeze in relation to designated persons) is not contravened by an independent person (“P”) transferring to another person a legal or equitable interest in funds or economic resources where, immediately before the transfer, the interest—
 
@@ -458,11 +458,11 @@ whether or not the payment is made in respect of a designated person.
 
 (9) The definition of “relevant institution” in paragraph (8) is to be read with section 22 of the Financial Services and Markets Act 2000 [^c23638381], any relevant order under that section [^c23638391] and Schedule 2 to that Act [^c23638401].
 
-(10)[^key-5dc2603951f9bd7bd14760704fac6222] For the purposes of paragraphs (1)(b), (5) and (6) and the definition of “frozen account” in paragraph (8), references to a designated person are to be read as including a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person.
+(10)[^c-5dc2603951f9bd7bd14760704fac6222] For the purposes of paragraphs (1)(b), (5) and (6) and the definition of “frozen account” in paragraph (8), references to a designated person are to be read as including a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person.
 
 (11) When determining for the purposes of paragraph (5) when a person (“**C**”) who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (“**D**”) became a designated person, C is to be treated as having become a designated person at the same time as D.
 
-### 17ZA. Finance: exception from prohibitions for required payments[^key-0074d058a67868f7b0459f2aec46bd0f]
+### 17ZA. Finance: exception from prohibitions for required payments[^c-0074d058a67868f7b0459f2aec46bd0f]
 
 (1) This regulation applies to required payments within the meaning of paragraph (2).
 
@@ -510,7 +510,7 @@ whether or not the payment is made in respect of a designated person.
     - (iv) an application for review or approval of a document relating to listing;
     - (v) an application for approval as a sponsor or primary information provider;
     - (vi) an application for review or approval of—
-      - (aa) a document under rules made by the Financial Conduct Authority by virtue of Part 3 of the Public Offers and Admissions to Trading Regulations 2024;[^key-fcebd5b5dc4a4f0db35b0d19130a5985]
+      - (aa) a document under rules made by the Financial Conduct Authority by virtue of Part 3 of the Public Offers and Admissions to Trading Regulations 2024;[^c-fcebd5b5dc4a4f0db35b0d19130a5985]
       - (bb) listing particulars under section 79 of the Financial Services and Markets Act 2000 or supplementary listing particulars under section 81 of that Act;
   - (c) the Secretary of State or the Welsh Ministers, a payment that a designated person is required to make under or by virtue of an enactment other than a payment under or by virtue of Part 3 of the Local Government Finance Act 1988;
   - (d) the Department of Finance in Northern Ireland, a payment that a designated person is required to make under or by virtue of an enactment other than a payment under or by virtue of Part 2 of the Rates (Northern Ireland) Order 1977;
@@ -535,14 +535,14 @@ whether or not the payment is made in respect of a designated person.
   - (c) in relation to Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 or a person appointed by such a council for the purposes of the administration, collection and recovery of a BID levy;
   - (d) in relation to Northern Ireland, a district council;
 - “**primary information provider**” has the meaning given in section 89P(2) of the Financial Services and Markets Act 2000;
-- [^key-f04267861786bfa4b3db0f60551428db]...
-- [^key-f04267861786bfa4b3db0f60551428db]...
+- [^c-f04267861786bfa4b3db0f60551428db]...
+- [^c-f04267861786bfa4b3db0f60551428db]...
 - “**registrar of companies**” has the meaning given in section 1060 of the Companies Act 2006 (the registrar);
 - “**reimbursement payment**” means a repayment from the designated person to the person who made a required payment which is of the same amount as that required payment;
 - “**scheme manager**” has the meaning given in section 212 of the Financial Services and Markets Act 2000;
 - “**sponsor**” has the meaning given in section 88(2) of the Financial Services and Markets Act 2000.
 
-### 17A. Finance: exception for authorised conduct in a relevant country[^key-61108713a76e3dc9bdc986a6708735ca]
+### 17A. Finance: exception for authorised conduct in a relevant country[^c-61108713a76e3dc9bdc986a6708735ca]
 
 (1) Where a person's conduct in a relevant country would, in the absence of this regulation, contravene a prohibition in any of regulations 11 to 15 (asset-freeze etc.) (“the relevant prohibition”), the relevant prohibition is not contravened if the conduct is authorised by a licence or other authorisation which is issued—
 
@@ -559,7 +559,7 @@ whether or not the payment is made in respect of a designated person.
 
 (3) Nothing in this regulation affects the application of a prohibition in a case where it would be incompatible with a UN obligation for the prohibition or requirement not to apply.
 
-### 18. Exception for acts done for purposes of national security or prevention of serious crime[^key-9c799d945bb1ff3f1f5e8d8ec7d6d3e2]
+### 18. Exception for acts done for purposes of national security or prevention of serious crime[^c-9c799d945bb1ff3f1f5e8d8ec7d6d3e2]
 
 (1) Where an act would, in the absence of this paragraph, be prohibited by the prohibition in regulation 9(2) (confidentiality) or any prohibition in Part 3 (Finance), that prohibition does not apply to the act if the act is one which a responsible officer has determined would be in the interests of—
 
@@ -575,19 +575,19 @@ whether or not the payment is made in respect of a designated person.
 
 (4) Nothing in this regulation affects the application of a prohibition or requirement in a case where it would be incompatible with a UN obligation for the prohibition or requirement not to apply.
 
-### 19. Treasury licences[^key-6013e912eb3579aff353b3d00a3a46d3]
+### 19. Treasury licences[^c-6013e912eb3579aff353b3d00a3a46d3]
 
 (1) The prohibitions in regulations 11 to 15 (asset-freeze etc.) do not apply to anything done under the authority of a licence issued by the Treasury under this paragraph.
 
-(2)[^key-1884a5237c1aa05269ccfb60b8e0ae63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1884a5237c1aa05269ccfb60b8e0ae63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-1884a5237c1aa05269ccfb60b8e0ae63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1884a5237c1aa05269ccfb60b8e0ae63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-1884a5237c1aa05269ccfb60b8e0ae63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1884a5237c1aa05269ccfb60b8e0ae63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-1884a5237c1aa05269ccfb60b8e0ae63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1884a5237c1aa05269ccfb60b8e0ae63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19A. Director disqualification licences[^key-e5a927d8ad2b151c4acf87ffd1ab51a8]
+### 19A. Director disqualification licences[^c-e5a927d8ad2b151c4acf87ffd1ab51a8]
 
 The Secretary of State may issue a licence in relation to any person who is designated under regulation 5 for the purposes of regulation 16A (director disqualification sanctions) providing that the prohibitions in—
 
@@ -596,7 +596,7 @@ The Secretary of State may issue a licence in relation to any person who is desi
 
 do not apply to anything done under the authority of that licence.
 
-### 19B. Licences: general provisions[^key-bdefd022d6a7da7adec6ae15debfce9c]
+### 19B. Licences: general provisions[^c-bdefd022d6a7da7adec6ae15debfce9c]
 
 (1) This regulation applies in relation to Treasury licences and director disqualification licences.
 
@@ -611,11 +611,11 @@ do not apply to anything done under the authority of that licence.
 
 (5) A person who issues a licence may vary, revoke or suspend it at any time.
 
-(6) A person who , on the application of a person (“[^key-bb24cd497c54948223da2df5a29fdf46]**P**”), issues[^key-5ebc45e72ae6f6e360bc04e8eec59d69] a licence which authorises acts by a particular person , or varies, revokes or suspends that licence,[^key-1e4c3342c1ea4745b478b8de2f7c6e20] must give written notice to P[^key-2ebf591946c22df0ecf3e2ef17a00d3f] of the issue, variation, revocation or suspension of the licence.
+(6) A person who , on the application of a person (“[^c-bb24cd497c54948223da2df5a29fdf46]**P**”), issues[^c-5ebc45e72ae6f6e360bc04e8eec59d69] a licence which authorises acts by a particular person , or varies, revokes or suspends that licence,[^c-1e4c3342c1ea4745b478b8de2f7c6e20] must give written notice to P[^c-2ebf591946c22df0ecf3e2ef17a00d3f] of the issue, variation, revocation or suspension of the licence.
 
 (7) A person who issues, varies, revokes or suspends a general licence or a licence which authorises acts by persons of a particular description must take such steps as that person considers appropriate to publicise the issue, variation, revocation or suspension of the licence.
 
-### 20. Finance: licensing offences[^key-969d91c2862ce348c7f6b6073627c65d]
+### 20. Finance: licensing offences[^c-969d91c2862ce348c7f6b6073627c65d]
 
 (1) A person (“P”) commits an offence if P knowingly or recklessly—
 
@@ -626,7 +626,7 @@ for the purpose of obtaining a Treasury licence (whether for P or anyone else).
 
 (2) A person who purports to act under the authority of a Treasury licence but who fails to comply with any condition of the licence commits an offence.
 
-### 20A. Director disqualification: licensing offences[^key-d1e7ba18149673707bee21180898877e]
+### 20A. Director disqualification: licensing offences[^c-d1e7ba18149673707bee21180898877e]
 
 (1) A person (“**P**”) commits an offence if P knowingly or recklessly—
 
@@ -639,7 +639,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 (3) A licence in respect of which an offence under paragraph (1) has been committed is to be treated as void from the time at which it was issued.
 
-### 20B. Section 8B(1) to (3) of Immigration Act 1971: directions[^key-67b9d1a2daa60ef6d2adac567f9ad77b]
+### 20B. Section 8B(1) to (3) of Immigration Act 1971: directions[^c-67b9d1a2daa60ef6d2adac567f9ad77b]
 
 (1) The Secretary of State may direct that, in relation to any person within regulation 16B whose name is specified, or who is of a specified description, section 8B(1) and (2) of the Immigration Act 1971, or section 8B(3) of that Act, have effect subject to specified exceptions.
 
@@ -656,13 +656,13 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 ## PART 5 — Information
 
-### 21. Finance: reporting obligations[^key-dbee6e1427b50c80c37168af12333c43]
+### 21. Finance: reporting obligations[^c-dbee6e1427b50c80c37168af12333c43]
 
 (1) A relevant firm must inform the Treasury as soon as practicable if—
 
 - (a) it knows, or has reasonable cause to suspect, that a person—
   - (i) is a designated person, or
-  - (ii) has breached a prohibition or failed to comply with an obligation[^key-8b622e9f138700f300150c909b31c322] under any provision of Part 3 (Finance) or regulation 20 (finance: licensing offences), and
+  - (ii) has breached a prohibition or failed to comply with an obligation[^c-8b622e9f138700f300150c909b31c322] under any provision of Part 3 (Finance) or regulation 20 (finance: licensing offences), and
 - (b) the information or other matter on which the knowledge or cause for suspicion is based came to it in the course of carrying on its business.
 
 (2) Where a relevant firm informs the Treasury under paragraph (1), it must state—
@@ -677,7 +677,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 (4) The relevant firm must also state the nature and amount or quantity of any funds or economic resources held by it for the customer at the time when it first had the knowledge or suspicion.
 
-(4A)[^key-f0f3240f75a57ccda47a4beca4d551a2] Where a person (“**P**”) knows, or has reasonable cause to suspect, that P holds funds or economic resources owned, held or controlled by a designated person, P must by no later than 30th November in each calendar year provide a report to the Treasury as to the nature and amount or quantity of those funds or economic resources held by P as of 30th September in that calendar year.
+(4A)[^c-f0f3240f75a57ccda47a4beca4d551a2] Where a person (“**P**”) knows, or has reasonable cause to suspect, that P holds funds or economic resources owned, held or controlled by a designated person, P must by no later than 30th November in each calendar year provide a report to the Treasury as to the nature and amount or quantity of those funds or economic resources held by P as of 30th September in that calendar year.
 
 (4B) Where a report has been provided further to paragraph (4A) but as of 30th September in the following calendar year P no longer holds funds or economic resources owned, held or controlled by the designated person, P must by no later than 30th November in that calendar year report this to the Treasury.
 
@@ -690,7 +690,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 (6) A person who fails to comply with a requirement in paragraph (1), (2) or (4) commits an offence.
 
-(6A)[^key-12aba103b24b58f6f55410db7375bdbf] A person commits an offence if that person, without reasonable excuse, fails to comply with a requirement in paragraph (4A) or (4B).
+(6A)[^c-12aba103b24b58f6f55410db7375bdbf] A person commits an offence if that person, without reasonable excuse, fails to comply with a requirement in paragraph (4A) or (4B).
 
 (7) In this regulation—
 
@@ -699,7 +699,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 - “**relevant firm**” is to be read in accordance with regulation 22;
 - “**relevant institution**” has the same meaning as it has in regulation 17.
 
-### 21A. Finance: reporting obligations for required payments[^key-4e6431c7470b412869f8a2dd5d943855]
+### 21A. Finance: reporting obligations for required payments[^c-4e6431c7470b412869f8a2dd5d943855]
 
 (1) A designated person must inform the Treasury without delay if they make a required payment.
 
@@ -715,7 +715,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 - “**reimbursement payment**” has the meaning given in regulation 17ZA(8);
 - “**required payment**” has the meaning given in regulation 17ZA(2).
 
-### 22. “Relevant firm”[^key-687274073896ba315dd1e57ae13263c6]
+### 22. “Relevant firm”[^c-687274073896ba315dd1e57ae13263c6]
 
 (1) The following are relevant firms for the purposes of regulation 21—
 
@@ -737,9 +737,9 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 - (g) a person engaged in the business of making, supplying, selling (including selling by auction) or exchanging—
   - (i) articles made from gold, silver, platinum or palladium, or
   - (ii) precious stones or pearls.
-- (h)[^key-26a44e941477f4d39fd5dd34a1b0514f] a cryptoasset exchange provider;
+- (h)[^c-26a44e941477f4d39fd5dd34a1b0514f] a cryptoasset exchange provider;
 - (i) a custodian wallet provider;
-- (j)[^key-d6186af5a0fb642ecb21caf22eebd3e4] a high value dealer;
+- (j)[^c-d6186af5a0fb642ecb21caf22eebd3e4] a high value dealer;
 - (k) an art market participant;
 - (l) an insolvency practitioner;
 - (m) a firm or sole practitioner (“**P**”) that carries out, or whose employees carry out, letting agency work.
@@ -761,7 +761,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 - “**estate agency work**” is to be read in accordance with section 1 of the Estate Agents Act 1979 [^c23638441], but as if references in that section to disposing of or acquiring an interest in land included (despite anything in section 2 of that Act) references to disposing of or acquiring an estate or interest in land outside the United Kingdom where that estate or interest is capable of being owned or held as a separate interest;
 - “**firm**” means any entity that, whether or not a legal person, is not an individual, and includes a body corporate and a partnership or other unincorporated body.
 
-(3A)[^key-a55763df7dde7a9a3156bd28c789fb47] In paragraph (1), a “**cryptoasset exchange provider**” means a firm or sole practitioner that by way of business provides one or more of the following services, including where the firm or sole practitioner does so as creator or issuer of any of the cryptoassets involved—
+(3A)[^c-a55763df7dde7a9a3156bd28c789fb47] In paragraph (1), a “**cryptoasset exchange provider**” means a firm or sole practitioner that by way of business provides one or more of the following services, including where the firm or sole practitioner does so as creator or issuer of any of the cryptoassets involved—
 
 - (a) exchanging, or arranging or making arrangements with a view to the exchange of, cryptoassets for money or money for cryptoassets,
 - (b) exchanging, or arranging or making arrangements with a view to the exchange of, one cryptoasset for another, or
@@ -783,7 +783,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
   but does not include a cryptoasset; and
 - (c) in sub-paragraphs (a) to (c) of paragraph (3A), “**cryptoasset**” includes a right to, or interest in, the cryptoasset.
 
-(3D)[^key-63868c8b21fbd87a995e810bdb7cd181] In paragraph (1), a “**high value dealer**” means a firm or sole trader that by way of business trades in goods (including an auctioneer dealing in goods), when the firm or sole trader makes or receives, in respect of any transaction, a payment or payments in cash of at least £10,000[^key-ddf939efc4526a156e5a3fed969b2e4e] in total, whether the transaction is executed in a single operation or in several operations which appear to be linked.
+(3D)[^c-63868c8b21fbd87a995e810bdb7cd181] In paragraph (1), a “**high value dealer**” means a firm or sole trader that by way of business trades in goods (including an auctioneer dealing in goods), when the firm or sole trader makes or receives, in respect of any transaction, a payment or payments in cash of at least £10,000[^c-ddf939efc4526a156e5a3fed969b2e4e] in total, whether the transaction is executed in a single operation or in several operations which appear to be linked.
 
 (3E) In paragraph (1), an “**art market participant**” means, subject to paragraph (3F), a firm or sole practitioner that is registered or required to register with the Commissioners for His Majesty's Revenue and Customs as an art market participant under regulation 56(5) and (6) of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017.
 
@@ -822,12 +822,12 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 - (b) in the case of a relevant firm within paragraph (1)(c)(i), in the course of carrying out statutory audit work within the meaning of section 1210 of the Companies Act 2006 (meaning of “statutory auditor”);
 - (c) in the case of a relevant firm within paragraph (1)(c)(ii), in the course of carrying out an audit required by the Local Audit and Accountability Act 2014;
 - (d) in the case of a relevant firm within paragraph (1)(f), in the course of carrying on an activity in respect of which the licence mentioned in that provision is required;
-- (da)[^key-9622b2e7cf21e3b9cb70c5700a2ee1f4] in the case of a relevant firm within paragraph (1)(k)—
+- (da)[^c-9622b2e7cf21e3b9cb70c5700a2ee1f4] in the case of a relevant firm within paragraph (1)(k)—
   - (i) in the course of trading, or acting as an intermediary in the sale or purchase of, works of art when the value of the transaction, or a series of linked transactions, amounts to £10,000 or more, or
   - (ii) in the course of storing works of art where the value of the works of art so stored for a person amounts to £10,000 or more;
 - (e) in the case of a relevant firm within any other provision of paragraph (1), in the course of carrying on an activity mentioned in that provision.
 
-### 23. Finance: powers to request information[^key-4f9db643120b22f568fd03f420a34e92]
+### 23. Finance: powers to request information[^c-4f9db643120b22f568fd03f420a34e92]
 
 (1) The Treasury may request a designated person to provide information about—
 
@@ -874,7 +874,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 (13) Expressions used in this regulation have the same meaning as they have in Part 3.
 
-### 24. Finance: production of documents[^key-7fc462725f963663af5ea87d1f841c86]
+### 24. Finance: production of documents[^c-7fc462725f963663af5ea87d1f841c86]
 
 (1) A request under regulation 23 may include a request to produce specified documents or documents of a specified description.
 
@@ -895,7 +895,7 @@ to give such an explanation.
 
 (4) In this regulation, “**designated person**” has the same meaning as it has in Part 3 (Finance).
 
-### 25. Finance: information offences[^key-1b972d6934b602957b7d4ca347e58a70]
+### 25. Finance: information offences[^c-1b972d6934b602957b7d4ca347e58a70]
 
 (1) A person commits an offence, if that person—
 
@@ -906,13 +906,13 @@ to give such an explanation.
 
 (2) Where a person is convicted of an offence under this regulation, the court may make an order requiring that person, within such period as may be specified in the order, to comply with the request.
 
-### 26. Disclosure of information[^key-6ed74266db9dca83438b6d4f396889dc]
+### 26. Disclosure of information[^c-6ed74266db9dca83438b6d4f396889dc]
 
 (1) The Treasury may in accordance with this regulation, disclose—
 
 - (a) any information obtained under or by virtue of Part 4 (Exceptions and licences) or this Part, or
 - (b) any information held in connection with—
-  - (i) anything done under or by virtue of Part 2 (Designation of persons) , Part 3 (Finance) or Part 3A (Director disqualification sanctions)[^key-65b579c810997582e56c92b9d6430992], or
+  - (i) anything done under or by virtue of Part 2 (Designation of persons) , Part 3 (Finance) or Part 3A (Director disqualification sanctions)[^c-65b579c810997582e56c92b9d6430992], or
   - (ii) any exception or licence under Part 4 or anything done in accordance with such an exception or under the authority of such a licence.
 
 (2) Information referred to in paragraph (1) may be disclosed for, or in connection with, any of the following purposes—
@@ -956,9 +956,9 @@ to give such an explanation.
   - (i) a licence which had been issued under that Part, and
   - (ii) a licence which is deemed to have been issued under that Part.
 
-### 26A. Finance: disclosure to the Treasury[^key-2c5eb1ca60422191b3c204c68ed1f655]
+### 26A. Finance: disclosure to the Treasury[^c-2c5eb1ca60422191b3c204c68ed1f655]
 
-(1) A relevant public authority may disclose information to the Treasury if the disclosure is made for the purpose of enabling or assisting the Treasury to discharge any of its functions in connection with any sanctions regulations contained in these Regulations[^key-c9327027b9500793f1890cc9512d149c].
+(1) A relevant public authority may disclose information to the Treasury if the disclosure is made for the purpose of enabling or assisting the Treasury to discharge any of its functions in connection with any sanctions regulations contained in these Regulations[^c-c9327027b9500793f1890cc9512d149c].
 
 (2) In this regulation—
 
@@ -982,18 +982,18 @@ to give such an explanation.
   - (c) in relation to Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994, or
   - (d) in relation to Northern Ireland, a district council.
 
-### 27. Part 5: supplementary[^key-4b2ee8e4de22f810df2081c36a75bf7a]
+### 27. Part 5: supplementary[^c-4b2ee8e4de22f810df2081c36a75bf7a]
 
-(1) A disclosure of information under regulation 26 or 26A[^key-fd245758f0f1f215d928e18eab492896] does not breach any restriction on such disclosure imposed by statute or otherwise.
+(1) A disclosure of information under regulation 26 or 26A[^c-fd245758f0f1f215d928e18eab492896] does not breach any restriction on such disclosure imposed by statute or otherwise.
 
-(2) But nothing in those regulations[^key-fde3f402e1a8b5e27387907cfc472141] authorises a disclosure that—
+(2) But nothing in those regulations[^c-fde3f402e1a8b5e27387907cfc472141] authorises a disclosure that—
 
 - (a) contravenes the data protection legislation, or
 - (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016 [^c23638471].
 
 (3) Nothing in this Part is to be read as requiring a person who has acted or is acting as counsel or solicitor for any person to disclose any privileged information in their possession in that capacity.
 
-(4) Regulations 26 and 26A do[^key-d7e49f96b12894830d060c9584636a9c] not limit the circumstances in which information may be disclosed apart from those regulations[^key-3429319b6b082ce2ece23ffeeb7cfa22].
+(4) Regulations 26 and 26A do[^c-d7e49f96b12894830d060c9584636a9c] not limit the circumstances in which information may be disclosed apart from those regulations[^c-3429319b6b082ce2ece23ffeeb7cfa22].
 
 (5) Nothing in this Part limits any conditions which may be contained in a Treasury licence.
 
@@ -1004,18 +1004,18 @@ to give such an explanation.
 
 ## PART 6 — Enforcement
 
-### 28. Penalties for offences[^key-b555c8c56d6f3143018a284d15b7e43b]
+### 28. Penalties for offences[^c-b555c8c56d6f3143018a284d15b7e43b]
 
 (1) A person who commits an offence under any provision of Part 3 (Finance) or regulation 20 (finance: licensing offences), is liable—
 
-- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-baed7e80ef19f6c37d578d3bbd975c5d] or a fine (or both);
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-baed7e80ef19f6c37d578d3bbd975c5d] or a fine (or both);
 - (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both);
 - (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum (or both);
 - (d) on conviction on indictment, to imprisonment for a term not exceeding 7 years or a fine (or both).
 
-(2) A person who commits an offence under regulation 9(6) (confidentiality) or 20A (director disqualification: licensing offences)[^key-046973ec98fdaa25402673275cadbd90] is liable—
+(2) A person who commits an offence under regulation 9(6) (confidentiality) or 20A (director disqualification: licensing offences)[^c-046973ec98fdaa25402673275cadbd90] is liable—
 
-- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-1c163fc821c056475376f4fe61b61b8c] or a fine (or both);
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-1c163fc821c056475376f4fe61b61b8c] or a fine (or both);
 - (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both);
 - (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum (or both);
 - (d) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine (or both).
@@ -1026,9 +1026,9 @@ to give such an explanation.
 - (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both);
 - (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
 
-(4) In relation to an offence committed before 2nd May 2022[^key-000e4d5ed7afc15681bf75796c80eafd] the reference in each of paragraphs (1)(a) and (2)(a) to the general limit in a magistrates’ court[^key-807ae57226d930539f374a45b39ef400] is to be read as a reference to 6 months.
+(4) In relation to an offence committed before 2nd May 2022[^c-000e4d5ed7afc15681bf75796c80eafd] the reference in each of paragraphs (1)(a) and (2)(a) to the general limit in a magistrates’ court[^c-807ae57226d930539f374a45b39ef400] is to be read as a reference to 6 months.
 
-### 29. Liability of officers of bodies corporate etc[^key-4f688bf36a045a92fc44d8a0f36d6503]
+### 29. Liability of officers of bodies corporate etc[^c-4f688bf36a045a92fc44d8a0f36d6503]
 
 (1) Where an offence under these Regulations, committed by a body corporate—
 
@@ -1046,7 +1046,7 @@ that person as well as the body corporate is guilty of the offence and is liable
   - (i) where the body's affairs are managed by its members, to a member of the body;
   - (ii) in any other case, to a member of the governing body.
 
-### 30. Jurisdiction to try offences[^key-a5e43d200fd95751b858a867b8ef465f]
+### 30. Jurisdiction to try offences[^c-a5e43d200fd95751b858a867b8ef465f]
 
 (1) Where an offence under Part 3 (Finance), regulation 9(6) (confidentiality), regulation 20 (finance: licensing offences), regulation 21(6) (finance: reporting obligations) or regulation 25 (information offences in connection with Part 3) is committed in the United Kingdom—
 
@@ -1065,7 +1065,7 @@ that person as well as the body corporate is guilty of the offence and is liable
 
 (4) In paragraph (3), “**sheriff court district**” is to be read in accordance with the Criminal Procedure (Scotland) Act 1995 (see section 307(1) of that Act) [^c23638501].
 
-### 31. Procedure for offences by unincorporated bodies[^key-9e2b4675abcea6b097e9869e4beb4862]
+### 31. Procedure for offences by unincorporated bodies[^c-9e2b4675abcea6b097e9869e4beb4862]
 
 (1) Paragraphs (2) and (3) apply if it is alleged that an offence under these Regulations has been committed by an unincorporated body (as opposed to by a member of the body).
 
@@ -1080,7 +1080,7 @@ that person as well as the body corporate is guilty of the offence and is liable
 
 (4) A fine imposed on an unincorporated body on its conviction of an offence under these Regulations is to be paid out of the funds of the body.
 
-### 32. Time limit for proceedings for summary offences[^key-dc5d38ba5427669eed2200b8f2927f57]
+### 32. Time limit for proceedings for summary offences[^c-dc5d38ba5427669eed2200b8f2927f57]
 
 (1) Proceedings for an offence under these Regulations which is triable only summarily may be brought within the period of 12 months beginning with the date on which evidence sufficient in the opinion of the prosecutor to justify the proceedings comes to the prosecutor's knowledge.
 
@@ -1093,15 +1093,15 @@ that person as well as the body corporate is guilty of the offence and is liable
 - (a) section 136(3) of the Criminal Procedure (Scotland) Act 1995 (date of commencement of summary proceedings) applies for the purposes of this regulation as it applies for the purposes of that section, and
 - (b) references in this regulation to the prosecutor are to be treated as references to the Lord Advocate.
 
-### 33. Application of Chapter 1 of Part 2 of Serious Organised Crime and Police Act 2005[^key-2b05e6e34bb13e33656705073c699a0d]
+### 33. Application of Chapter 1 of Part 2 of Serious Organised Crime and Police Act 2005[^c-2b05e6e34bb13e33656705073c699a0d]
 
 Chapter 1 of Part 2 of the Serious Organised Crime and Police Act 2005 (investigatory powers) [^c23638551] applies to any offence under Part 3 (Finance) and regulation 20 (finance: licensing offences).
 
 ## PART 7 — Supplementary and final provision
 
-### 34. Notices[^key-d777d61c2cae27f3f1fe55fe4687f52b]
+### 34. Notices[^c-d777d61c2cae27f3f1fe55fe4687f52b]
 
-(1) This regulation applies in relation to a notice required by regulation 19 (treasury licences) or regulation 19A (director disqualification licences)[^key-24f3353ec375fabe916c99d69823bc71] to be given to a person.
+(1) This regulation applies in relation to a notice required by regulation 19 (treasury licences) or regulation 19A (director disqualification licences)[^c-24f3353ec375fabe916c99d69823bc71] to be given to a person.
 
 (2) The notice may be given to an individual—
 
@@ -1114,9 +1114,9 @@ Chapter 1 of Part 2 of the Serious Organised Crime and Police Act 2005 (investig
 - (a) by sending it by post to the proper officer of the body at its principal office, or
 - (b) by addressing it to the proper officer of the body and leaving it at that office.
 
-(3A)[^key-e203c2569e7f85337e3b4b7ebd77eec9] The notice may be given to the person by electronic means.
+(3A)[^c-e203c2569e7f85337e3b4b7ebd77eec9] The notice may be given to the person by electronic means.
 
-(4) The notice may be given to the person by other means [^key-b067597dfe36755660e3207dfe561d7a]... with the person's consent.
+(4) The notice may be given to the person by other means [^c-b067597dfe36755660e3207dfe561d7a]... with the person's consent.
 
 (5) In this regulation, the reference in paragraph (3) to a “principal office”—
 
@@ -1130,7 +1130,7 @@ Chapter 1 of Part 2 of the Serious Organised Crime and Police Act 2005 (investig
   - (b) in relation to a partnership, means a partner or a person who has the control or management of the partnership business;
 - “**registered company**” means a company registered under the enactments relating to companies for the time being in force in the United Kingdom.
 
-### 34A. Amendment of the Charities Act 2011[^key-1a8256ef17f7fcb5b3ba91338f50b6e0]
+### 34A. Amendment of the Charities Act 2011[^c-1a8256ef17f7fcb5b3ba91338f50b6e0]
 
 (1) The Charities Act 2011 is amended as set out in paragraph (2).
 
@@ -1176,7 +1176,7 @@ Chapter 1 of Part 2 of the Serious Organised Crime and Police Act 2005 (investig
 
 .
 
-### 35. Transitional provision: Treasury licences[^key-e6c106d63247f1fa1a8aa619154a8944]
+### 35. Transitional provision: Treasury licences[^c-e6c106d63247f1fa1a8aa619154a8944]
 
 (1) Paragraphs (2) to (4) apply to a licence (whether general or granted to a category of persons or to a particular person) which—
 
@@ -1202,7 +1202,7 @@ and such a licence is referred to in this regulation as “**an existing financi
 
 (7) In this regulation, “**the relevant date**” means the date on which P is designated under regulation 5 for the purposes of regulations 11 to 15 (asset-freeze etc.).
 
-### 36. Transitional provision: prior obligations[^key-225556fe2d1cfca9f7427fb1c7cef9b0]
+### 36. Transitional provision: prior obligations[^c-225556fe2d1cfca9f7427fb1c7cef9b0]
 
 Where a person (“P”) was designated by the Treasury for the purposes of Part 1 of the Terrorist Asset-Freezing etc. Act 2010 immediately before the date on which P is designated under regulation 5 for the purposes of regulations 11 to 15 (asset-freeze etc.), the reference in regulation 17(5) (finance: exceptions from prohibitions) to the date on which a person became a designated person is a reference to the date on which the person was designated by the Treasury for the purposes of Part 1 of the Terrorist Asset-Freezing etc. Act 2010.
 
@@ -1216,17 +1216,17 @@ Two of the Lords Commissioners of Her Majesty's Treasury
 
 Regulation 7(3)
 
-### 1. Application of Schedule[^key-a09735001dedea79af3f9797f65ed4be]
+### 1. Application of Schedule[^c-a09735001dedea79af3f9797f65ed4be]
 
 (1) The rules set out in the following paragraphs of this Schedule apply for the purpose of interpreting regulation 7(2).
 
 (2) They also apply for the purpose of interpreting this Schedule.
 
-### 2. Joint interests[^key-08d811fdca647f8636983099f8cfd9fe]
+### 2. Joint interests[^c-08d811fdca647f8636983099f8cfd9fe]
 
 If two or more persons each hold a share or right jointly, each of them is treated as holding that share or right.
 
-### 3. Joint arrangements[^key-fc6142716fcc24717a1fc90d325b9438]
+### 3. Joint arrangements[^c-fc6142716fcc24717a1fc90d325b9438]
 
 (1) If shares or rights held by a person and shares or rights held by another person are the subject of a joint arrangement between those persons, each of them is treated as holding the combined shares or rights of both of them.
 
@@ -1234,7 +1234,7 @@ If two or more persons each hold a share or right jointly, each of them is treat
 
 (3) “**Arrangement**” has the meaning given by paragraph 12.
 
-### 4. Calculating shareholdings[^key-41a6103e6322a74aa6627e288ca5113d]
+### 4. Calculating shareholdings[^c-41a6103e6322a74aa6627e288ca5113d]
 
 (1) In relation to a person who has a share capital, a reference to holding “more than 50% of the shares” in that person is to holding shares comprised in the issued share capital of that person of a nominal value exceeding (in aggregate) 50% of that share capital.
 
@@ -1243,7 +1243,7 @@ If two or more persons each hold a share or right jointly, each of them is treat
 - (a) a reference to holding shares in that person is to holding a right or rights to share in the capital or, as the case may be, profits of that person;
 - (b) a reference to holding “more than 50% of the shares” in that person is to holding a right or rights to share in more than 50% of the capital or, as the case may be, profits of that person.
 
-### 5. Voting rights[^key-b3d92c4c14318db227c34607602d8bb1]
+### 5. Voting rights[^c-b3d92c4c14318db227c34607602d8bb1]
 
 (1) A reference to the voting rights in a person is to the rights conferred on shareholders in respect of their shares (or, in the case of a person not having a share capital, on members) to vote at general meetings of the person on all or substantially all matters.
 
@@ -1252,15 +1252,15 @@ If two or more persons each hold a share or right jointly, each of them is treat
 - (a) a reference to holding voting rights in the person is to be read as a reference to holding rights in relation to the person that are equivalent to those of a person entitled to exercise voting rights in a company;
 - (b) a reference to holding “more than 50% of the voting rights” in the person is to be read as a reference to holding the right under the constitution of the person to block changes to the overall policy of the person or to the terms of its constitution.
 
-**6.**[^key-a89f1adbc849ef8f2aa4dab8da40da74] In applying regulation 7(2) and this Schedule, the voting rights in a person are to be reduced by any rights held by the person itself.
+**6.**[^c-a89f1adbc849ef8f2aa4dab8da40da74] In applying regulation 7(2) and this Schedule, the voting rights in a person are to be reduced by any rights held by the person itself.
 
-### 7. Rights to appoint or remove members of the board[^key-66c4f8a302853d0ad7dc588fbd7b8e65]
+### 7. Rights to appoint or remove members of the board[^c-66c4f8a302853d0ad7dc588fbd7b8e65]
 
 A reference to the right to appoint or remove a majority of the board of directors of a person is to the right to appoint or remove directors holding a majority of the voting rights at meetings of the board on all or substantially all matters.
 
-**8.**[^key-7b6c779cbe48d182d9d9f8ed77fd1b54] A reference to a board of directors, in the case of a person who does not have such a board, is to be read as a reference to the equivalent management body of that person.
+**8.**[^c-7b6c779cbe48d182d9d9f8ed77fd1b54] A reference to a board of directors, in the case of a person who does not have such a board, is to be read as a reference to the equivalent management body of that person.
 
-### 9. Shares or rights held “indirectly”[^key-85acd48ec3c523c783ac29ad9a8e9243]
+### 9. Shares or rights held “indirectly”[^c-85acd48ec3c523c783ac29ad9a8e9243]
 
 (1) A person holds a share “indirectly” if the person has a majority stake in another person and that other person—
 
@@ -1288,11 +1288,11 @@ A reference to the right to appoint or remove a majority of the board of directo
 - (a) any person's appointment as director follows necessarily from that person's appointment as director of A, or
 - (b) the directorship is held by A itself.
 
-### 10. Shares held by nominees[^key-ce63b26d9502de890ac1d5811c4adc36]
+### 10. Shares held by nominees[^c-ce63b26d9502de890ac1d5811c4adc36]
 
 A share held by a person as nominee for another is to be treated as held by the other (and not by the nominee).
 
-### 11. Rights treated as held by person who controls their exercise[^key-81120781038995dc46faa33b6a0ec734]
+### 11. Rights treated as held by person who controls their exercise[^c-81120781038995dc46faa33b6a0ec734]
 
 (1) Where a person controls a right, the right is to be treated as held by that person (and not by the person who in fact holds the right, unless that person also controls it).
 
@@ -1302,12 +1302,12 @@ A share held by a person as nominee for another is to be treated as held by the 
 - (b) in accordance with that person's directions or instructions, or
 - (c) with that person's consent or concurrence.
 
-**12.**[^key-0e8f3749149e86f02dac5c539301eccc] “**Arrangement**” includes—
+**12.**[^c-0e8f3749149e86f02dac5c539301eccc] “**Arrangement**” includes—
 
 - (a) any scheme, agreement or understanding, whether or not it is legally enforceable, and
 - (b) any convention, custom or practice of any kind.
 
-### 13. Rights exercisable only in certain circumstances etc.[^key-4e3f347a6a3612c784cf6452bdf20f42]
+### 13. Rights exercisable only in certain circumstances etc.[^c-4e3f347a6a3612c784cf6452bdf20f42]
 
 (1) Rights that are exercisable only in certain circumstances are to be taken into account only—
 
@@ -1324,7 +1324,7 @@ A share held by a person as nominee for another is to be treated as held by the 
 
 (4) Rights that are normally exercisable but are temporarily incapable of exercise are to continue to be taken into account.
 
-### 14. Rights attached to shares held by way of security[^key-f82380e058c2748da7eb05166e202a3b]
+### 14. Rights attached to shares held by way of security[^c-f82380e058c2748da7eb05166e202a3b]
 
 Rights attached to shares held by way of security provided by a person are to be treated for the purposes of this Schedule as held by that person—
 
@@ -1351,77 +1351,77 @@ An Impact Assessment has not been produced for these Regulations, This instrumen
 
 [^c23638311]: Marginal citation: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13).
 
-[^key-10ccccf3399adaa5cbaaf55f0659efb5]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/577) extended (British overseas territories) (with modifications) (31.12.2020 immediately after both S.I. 2020/950 and S.I. 2020/1289 have come into force) by [The Counter-Terrorism (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1564)](https://www.legislation.gov.uk/uksi/2020/1564), [art. 2](https://www.legislation.gov.uk/uksi/2020/1564/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1564/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1564/schedule/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17), [21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21) (as amended (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 10](https://www.legislation.gov.uk/uksi/2025/1307/schedule/10))
+[^c-10ccccf3399adaa5cbaaf55f0659efb5]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/577) extended (British overseas territories) (with modifications) (31.12.2020 immediately after both S.I. 2020/950 and S.I. 2020/1289 have come into force) by [The Counter-Terrorism (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1564)](https://www.legislation.gov.uk/uksi/2020/1564), [art. 2](https://www.legislation.gov.uk/uksi/2020/1564/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1564/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1564/schedule/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17), [21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21) (as amended (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 10](https://www.legislation.gov.uk/uksi/2025/1307/schedule/10))
 
-[^key-bd899946b4989e981155faaa2e5e7f6f]: Commencement: Reg. 1 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/a)
+[^c-bd899946b4989e981155faaa2e5e7f6f]: Commencement: Reg. 1 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/a)
 
-[^key-dab120bfe805a447feadbaf3e649e034]: Commencement: Reg. 2 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/b)
+[^c-dab120bfe805a447feadbaf3e649e034]: Commencement: Reg. 2 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/b)
 
-[^key-706c8db5dfa64eb5ba04bf6eb372cb3e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/577/regulation/2) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/2)
+[^c-706c8db5dfa64eb5ba04bf6eb372cb3e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/577/regulation/2) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/2)
 
-[^key-00be25bceeceea61157c2a546a3b455f]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-00be25bceeceea61157c2a546a3b455f]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-b00db16f41388b8b91a991d77c79c53b]: Commencement: Reg. 4 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/c)
+[^c-b00db16f41388b8b91a991d77c79c53b]: Commencement: Reg. 4 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/c)
 
 [^c23638321]: Marginal citation: Section 62(1) of the Sanctions and Anti-Money Laundering Act 2018 defines “terrorism” as having the same meaning as in the [Terrorism Act 2000 (c. 11)](https://www.legislation.gov.uk/ukpga/2000/11) (see [section 1(1) to (4)](https://www.legislation.gov.uk/ukpga/2000/11/section/1/1) of that Act).
 
-[^key-ed3fc94b364a6974f48e818ccad4b4be]: Commencement: Reg. 5 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/d)
+[^c-ed3fc94b364a6974f48e818ccad4b4be]: Commencement: Reg. 5 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/d)
 
-[^key-053dddc325b0252d7c0b7521c56b395c]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/577/regulation/5) renumbered as reg. 5(1) (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/3/a)
+[^c-053dddc325b0252d7c0b7521c56b395c]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/577/regulation/5) renumbered as reg. 5(1) (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/3/a)
 
-[^key-4edfaa067dfb89834db78fa5f93d233c]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2019/577/regulation/5/1) inserted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/9/2)
+[^c-4edfaa067dfb89834db78fa5f93d233c]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2019/577/regulation/5/1) inserted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/9/2)
 
-[^key-e21714b1d0ff02032f63c6b752ae91eb]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2019/577/regulation/5/1) substituted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/3/b)
+[^c-e21714b1d0ff02032f63c6b752ae91eb]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2019/577/regulation/5/1) substituted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/3/b)
 
-[^key-b82b6718135413d03167a12457bfba10]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/577/regulation/5/2) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(3)(c)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/3/c)
+[^c-b82b6718135413d03167a12457bfba10]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/577/regulation/5/2) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(3)(c)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/3/c)
 
-[^key-8b17b38e421d55d8e8f84381c61a6fff]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2019/577/regulation/5A) inserted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2025/394/regulation/9/3)
+[^c-8b17b38e421d55d8e8f84381c61a6fff]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2019/577/regulation/5A) inserted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2025/394/regulation/9/3)
 
-[^key-86a5b8f9412528e1d54acc9b5a81c255]: Commencement: Reg. 6 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/e)
+[^c-86a5b8f9412528e1d54acc9b5a81c255]: Commencement: Reg. 6 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/e)
 
-[^key-c07c9218b2b5992c4d9efaa41d2b5940]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/577/regulation/6) heading substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/9/4/a)
+[^c-c07c9218b2b5992c4d9efaa41d2b5940]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/577/regulation/6) heading substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/9/4/a)
 
-[^key-14cfe270cdcc03a3457083c7873ea544]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2019/577/regulation/6/1) omitted (18.4.2025) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/9/4/b)
+[^c-14cfe270cdcc03a3457083c7873ea544]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2019/577/regulation/6/1) omitted (18.4.2025) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/9/4/b)
 
-[^key-19ea4aee7c5911f3e9a44fe830e231ee]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/577/regulation/6/2) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [9(4)(c)](https://www.legislation.gov.uk/uksi/2025/394/regulation/9/4/c)
+[^c-19ea4aee7c5911f3e9a44fe830e231ee]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/577/regulation/6/2) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [9(4)(c)](https://www.legislation.gov.uk/uksi/2025/394/regulation/9/4/c)
 
 [^c23638341]: Marginal citation: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11). Section 3 was amended by the [Terrorism Act 2006 (c.11)](https://www.legislation.gov.uk/ukpga/2006/11).
 
-[^key-35dcd810ea5924fb48ee63bb54408a6d]: Commencement: Reg. 7 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/f)
+[^c-35dcd810ea5924fb48ee63bb54408a6d]: Commencement: Reg. 7 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/f)
 
-[^key-cd2b9fffa8653ef1b8d6632705511eaa]: Commencement: Reg. 8 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/g)
+[^c-cd2b9fffa8653ef1b8d6632705511eaa]: Commencement: Reg. 8 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/g)
 
-[^key-92f9fdc2c0dd2ee439b825505c75c2da]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2019/577/regulation/8/3)[(3A)](https://www.legislation.gov.uk/uksi/2019/577/regulation/8/3A) substituted for [reg. 8(3)](https://www.legislation.gov.uk/uksi/2019/577/regulation/8/3) (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/9/5/a)
+[^c-92f9fdc2c0dd2ee439b825505c75c2da]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2019/577/regulation/8/3)[(3A)](https://www.legislation.gov.uk/uksi/2019/577/regulation/8/3A) substituted for [reg. 8(3)](https://www.legislation.gov.uk/uksi/2019/577/regulation/8/3) (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/9/5/a)
 
-[^key-4c9095b57ffc2c0c73033068f946c650]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/uksi/2019/577/regulation/8/4) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [9(5)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/9/5/b)
+[^c-4c9095b57ffc2c0c73033068f946c650]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/uksi/2019/577/regulation/8/4) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [9(5)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/9/5/b)
 
-[^key-37cb717b55682daa19ab44e144b511b0]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-37cb717b55682daa19ab44e144b511b0]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-90952ade15bba36608ece96303328668]: Commencement: Reg. 10 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-90952ade15bba36608ece96303328668]: Commencement: Reg. 10 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-8c6db0bdd7b0ff650bc32e7f95fcf945]: Commencement: Reg. 11 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-8c6db0bdd7b0ff650bc32e7f95fcf945]: Commencement: Reg. 11 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-8e84ae01899d5950488d16f0869144a4]: Commencement: Reg. 12 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-8e84ae01899d5950488d16f0869144a4]: Commencement: Reg. 12 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-c4ed7f847a6c6242e1b4f2c6fd6ea020]: Commencement: Reg. 13 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/577/regulation/1/2)
+[^c-c4ed7f847a6c6242e1b4f2c6fd6ea020]: Commencement: Reg. 13 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/577/regulation/1/2)
 
-[^key-5b6701e70847f9023318092c5d1cc1ea]: Commencement: Reg. 13 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-5b6701e70847f9023318092c5d1cc1ea]: Commencement: Reg. 13 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-5c5692983d1d073a1c8d7556b4689040]: Textual amendment: [Reg. 13(3A)](https://www.legislation.gov.uk/uksi/2019/577/regulation/13/3A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/2)
+[^c-5c5692983d1d073a1c8d7556b4689040]: Textual amendment: [Reg. 13(3A)](https://www.legislation.gov.uk/uksi/2019/577/regulation/13/3A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/2)
 
-[^key-a90996ce38e088d54a7bdc9365560eaa]: Commencement: Reg. 14 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-a90996ce38e088d54a7bdc9365560eaa]: Commencement: Reg. 14 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-8f6dce4c510e7e1df2eed59b098f98b8]: Commencement: Reg. 15 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-8f6dce4c510e7e1df2eed59b098f98b8]: Commencement: Reg. 15 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-0e96a570846471e9ba43d4bf9a0ca946]: Textual amendment: [Reg. 15(3A)](https://www.legislation.gov.uk/uksi/2019/577/regulation/15/3A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/3)
+[^c-0e96a570846471e9ba43d4bf9a0ca946]: Textual amendment: [Reg. 15(3A)](https://www.legislation.gov.uk/uksi/2019/577/regulation/15/3A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/3)
 
-[^key-ffd7f8867fd106aff3a5ef86b5615c08]: Commencement: Reg. 16 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-ffd7f8867fd106aff3a5ef86b5615c08]: Commencement: Reg. 16 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-80d4778e169510282dd9038f8ee5ea68]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2019/577/part/3A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/4)
+[^c-80d4778e169510282dd9038f8ee5ea68]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2019/577/part/3A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/4)
 
-[^key-062307d37174c054a5bb1d7deedc44f8]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/uksi/2019/577/part/3B) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/5)
+[^c-062307d37174c054a5bb1d7deedc44f8]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/uksi/2019/577/part/3B) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/5)
 
-[^key-4619ce9f56a24072be05b15b4ef4f71e]: Commencement: Reg. 17 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-4619ce9f56a24072be05b15b4ef4f71e]: Commencement: Reg. 17 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
 [^c23638351]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Section 142D was inserted by section 4(1) of the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33).
 
@@ -1435,51 +1435,51 @@ An Impact Assessment has not been produced for these Regulations, This instrumen
 
 [^c23638401]: Marginal citation: Schedule 2 was amended by the [Regulation of Financial Services (Land Transactions) Act 2003 (c.24)](https://www.legislation.gov.uk/ukpga/2003/24), [section 1](https://www.legislation.gov.uk/ukpga/2003/24/section/1); the [Dormant Bank and Building Society Accounts Act 2008 (c.31)](https://www.legislation.gov.uk/ukpga/2008/31), [section 15](https://www.legislation.gov.uk/ukpga/2008/31/section/15), [Schedule 2](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2), [paragraph 1](https://www.legislation.gov.uk/ukpga/2008/31/paragraph/1); the Financial Services Act 2012, section 7(2) to (5) and section 8; [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881); section 27 of the [Financial Guidance and Claims Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16) and it is prospectively amended by [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135).
 
-[^key-5dc2603951f9bd7bd14760704fac6222]: Textual amendment: Reg. 17(10)(11) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/4)
+[^c-5dc2603951f9bd7bd14760704fac6222]: Textual amendment: Reg. 17(10)(11) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/4)
 
-[^key-0074d058a67868f7b0459f2aec46bd0f]: Textual amendment: [Reg. 17ZA](https://www.legislation.gov.uk/uksi/2019/577/regulation/17ZA) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/5)
+[^c-0074d058a67868f7b0459f2aec46bd0f]: Textual amendment: [Reg. 17ZA](https://www.legislation.gov.uk/uksi/2019/577/regulation/17ZA) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/5)
 
-[^key-fcebd5b5dc4a4f0db35b0d19130a5985]: Textual amendment: Words in [reg. 17ZA(8)](https://www.legislation.gov.uk/uksi/2019/577/regulation/17ZA/8) substituted (19.1.2026) by The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 18(a)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/18/a); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+[^c-fcebd5b5dc4a4f0db35b0d19130a5985]: Textual amendment: Words in [reg. 17ZA(8)](https://www.legislation.gov.uk/uksi/2019/577/regulation/17ZA/8) substituted (19.1.2026) by The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 18(a)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/18/a); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
 
-[^key-f04267861786bfa4b3db0f60551428db]: Textual amendment: Words in [reg. 17ZA(8)](https://www.legislation.gov.uk/uksi/2019/577/regulation/17ZA/8) omitted (19.1.2026) by virtue of The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 18(b)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/18/b); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+[^c-f04267861786bfa4b3db0f60551428db]: Textual amendment: Words in [reg. 17ZA(8)](https://www.legislation.gov.uk/uksi/2019/577/regulation/17ZA/8) omitted (19.1.2026) by virtue of The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 18(b)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/18/b); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
 
-[^key-61108713a76e3dc9bdc986a6708735ca]: Textual amendment: Reg. 17A inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No.3) Regulations 2020 (S.I. 2020/950)](https://www.legislation.gov.uk/uksi/2020/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/8/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-61108713a76e3dc9bdc986a6708735ca]: Textual amendment: Reg. 17A inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No.3) Regulations 2020 (S.I. 2020/950)](https://www.legislation.gov.uk/uksi/2020/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/8/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
-[^key-9c799d945bb1ff3f1f5e8d8ec7d6d3e2]: Commencement: Reg. 18 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-9c799d945bb1ff3f1f5e8d8ec7d6d3e2]: Commencement: Reg. 18 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-6013e912eb3579aff353b3d00a3a46d3]: Commencement: Reg. 19 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-6013e912eb3579aff353b3d00a3a46d3]: Commencement: Reg. 19 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-1884a5237c1aa05269ccfb60b8e0ae63]: Textual amendment: [Reg. 19(2)-(5)](https://www.legislation.gov.uk/uksi/2019/577/regulation/19/2) omitted (3.10.2024) by virtue of [The Mali (Sanctions) (EU Exit) (Amendment) and Sanctions (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/946)](https://www.legislation.gov.uk/uksi/2024/946), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/946/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/946/regulation/4/2)
+[^c-1884a5237c1aa05269ccfb60b8e0ae63]: Textual amendment: [Reg. 19(2)-(5)](https://www.legislation.gov.uk/uksi/2019/577/regulation/19/2) omitted (3.10.2024) by virtue of [The Mali (Sanctions) (EU Exit) (Amendment) and Sanctions (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/946)](https://www.legislation.gov.uk/uksi/2024/946), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/946/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/946/regulation/4/2)
 
-[^key-e5a927d8ad2b151c4acf87ffd1ab51a8]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2019/577/regulation/19A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/6)
+[^c-e5a927d8ad2b151c4acf87ffd1ab51a8]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2019/577/regulation/19A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/6)
 
-[^key-bdefd022d6a7da7adec6ae15debfce9c]: Textual amendment: [Reg. 19B](https://www.legislation.gov.uk/uksi/2019/577/regulation/19B) inserted (3.10.2024) by [The Mali (Sanctions) (EU Exit) (Amendment) and Sanctions (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/946)](https://www.legislation.gov.uk/uksi/2024/946), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/946/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2024/946/regulation/4/3)
+[^c-bdefd022d6a7da7adec6ae15debfce9c]: Textual amendment: [Reg. 19B](https://www.legislation.gov.uk/uksi/2019/577/regulation/19B) inserted (3.10.2024) by [The Mali (Sanctions) (EU Exit) (Amendment) and Sanctions (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/946)](https://www.legislation.gov.uk/uksi/2024/946), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/946/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2024/946/regulation/4/3)
 
-[^key-bb24cd497c54948223da2df5a29fdf46]: Textual amendment: Words in [reg. 19B(6)](https://www.legislation.gov.uk/uksi/2019/577/regulation/19B/6) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(6)(a)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/6/a)
+[^c-bb24cd497c54948223da2df5a29fdf46]: Textual amendment: Words in [reg. 19B(6)](https://www.legislation.gov.uk/uksi/2019/577/regulation/19B/6) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(6)(a)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/6/a)
 
-[^key-5ebc45e72ae6f6e360bc04e8eec59d69]: Textual amendment: Word in [reg. 19B(6)](https://www.legislation.gov.uk/uksi/2019/577/regulation/19B/6) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(6)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/6/b)
+[^c-5ebc45e72ae6f6e360bc04e8eec59d69]: Textual amendment: Word in [reg. 19B(6)](https://www.legislation.gov.uk/uksi/2019/577/regulation/19B/6) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(6)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/6/b)
 
-[^key-1e4c3342c1ea4745b478b8de2f7c6e20]: Textual amendment: Words in [reg. 19B(6)](https://www.legislation.gov.uk/uksi/2019/577/regulation/19B/6) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(6)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/6/c)
+[^c-1e4c3342c1ea4745b478b8de2f7c6e20]: Textual amendment: Words in [reg. 19B(6)](https://www.legislation.gov.uk/uksi/2019/577/regulation/19B/6) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(6)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/6/c)
 
-[^key-2ebf591946c22df0ecf3e2ef17a00d3f]: Textual amendment: Word in [reg. 19B(6)](https://www.legislation.gov.uk/uksi/2019/577/regulation/19B/6) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(6)(d)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/6/d)
+[^c-2ebf591946c22df0ecf3e2ef17a00d3f]: Textual amendment: Word in [reg. 19B(6)](https://www.legislation.gov.uk/uksi/2019/577/regulation/19B/6) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(6)(d)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/6/d)
 
-[^key-969d91c2862ce348c7f6b6073627c65d]: Commencement: Reg. 20 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-969d91c2862ce348c7f6b6073627c65d]: Commencement: Reg. 20 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-d1e7ba18149673707bee21180898877e]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2019/577/regulation/20A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(7)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/7)
+[^c-d1e7ba18149673707bee21180898877e]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2019/577/regulation/20A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(7)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/7)
 
-[^key-67b9d1a2daa60ef6d2adac567f9ad77b]: Textual amendment: [Reg. 20B](https://www.legislation.gov.uk/uksi/2019/577/regulation/20B) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/8)
+[^c-67b9d1a2daa60ef6d2adac567f9ad77b]: Textual amendment: [Reg. 20B](https://www.legislation.gov.uk/uksi/2019/577/regulation/20B) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/8)
 
-[^key-dbee6e1427b50c80c37168af12333c43]: Commencement: Reg. 21 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-dbee6e1427b50c80c37168af12333c43]: Commencement: Reg. 21 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-8b622e9f138700f300150c909b31c322]: Textual amendment: Words in reg. 21(1)(a)(ii) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(7)(a)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/7/a)
+[^c-8b622e9f138700f300150c909b31c322]: Textual amendment: Words in reg. 21(1)(a)(ii) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(7)(a)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/7/a)
 
-[^key-f0f3240f75a57ccda47a4beca4d551a2]: Textual amendment: Reg. 21(4A)-(4C) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(7)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/7/b)
+[^c-f0f3240f75a57ccda47a4beca4d551a2]: Textual amendment: Reg. 21(4A)-(4C) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(7)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/7/b)
 
-[^key-12aba103b24b58f6f55410db7375bdbf]: Textual amendment: Reg. 21(6A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(7)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/7/c)
+[^c-12aba103b24b58f6f55410db7375bdbf]: Textual amendment: Reg. 21(6A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(7)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/7/c)
 
-[^key-4e6431c7470b412869f8a2dd5d943855]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2019/577/regulation/21A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/8)
+[^c-4e6431c7470b412869f8a2dd5d943855]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2019/577/regulation/21A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/8)
 
-[^key-687274073896ba315dd1e57ae13263c6]: Commencement: Reg. 22 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-687274073896ba315dd1e57ae13263c6]: Commencement: Reg. 22 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
 [^c23638411]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46). Section 1210 was amended by [S.I. 2008/565](https://www.legislation.gov.uk/uksi/2008/565); [S.I. 2008/567](https://www.legislation.gov.uk/uksi/2008/567); [S.I. 2008/1950](https://www.legislation.gov.uk/uksi/2008/1950); [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809); [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115); [S.I. 2017/516](https://www.legislation.gov.uk/uksi/2017/516) and [S.I. 2017/1164](https://www.legislation.gov.uk/uksi/2017/1164). It is also amended by [S.I. 2019/177](https://www.legislation.gov.uk/uksi/2019/177). Those amendments have effect from exit day as defined in the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
@@ -1487,71 +1487,71 @@ An Impact Assessment has not been produced for these Regulations, This instrumen
 
 [^c23638431]: Marginal citation: [2005 c.19](https://www.legislation.gov.uk/ukpga/2005/19).
 
-[^key-26a44e941477f4d39fd5dd34a1b0514f]: Textual amendment: [Reg. 22(1)(h)(i)](https://www.legislation.gov.uk/uksi/2019/577/regulation/22/1/h/i) inserted (30.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(3)(g)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/3/g), [8(2)(a)](https://www.legislation.gov.uk/uksi/2022/819/regulation/8/2/a)
+[^c-26a44e941477f4d39fd5dd34a1b0514f]: Textual amendment: [Reg. 22(1)(h)(i)](https://www.legislation.gov.uk/uksi/2019/577/regulation/22/1/h/i) inserted (30.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(3)(g)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/3/g), [8(2)(a)](https://www.legislation.gov.uk/uksi/2022/819/regulation/8/2/a)
 
-[^key-d6186af5a0fb642ecb21caf22eebd3e4]: Textual amendment: [Reg. 22(1)(j)-(m)](https://www.legislation.gov.uk/uksi/2019/577/regulation/22/1/j) inserted (14.5.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2/i), [10(9)(a)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/9/a)
+[^c-d6186af5a0fb642ecb21caf22eebd3e4]: Textual amendment: [Reg. 22(1)(j)-(m)](https://www.legislation.gov.uk/uksi/2019/577/regulation/22/1/j) inserted (14.5.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2/i), [10(9)(a)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/9/a)
 
 [^c23638441]: Marginal citation: [1979 c.38](https://www.legislation.gov.uk/ukpga/1979/38), amended by paragraph 40 of Schedule 1 to the [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c.73)](https://www.legislation.gov.uk/ukpga/1985/73); paragraph 42 of Schedule 2 to the [Planning (Consequential Provisions) Act 1990 (c.11)](https://www.legislation.gov.uk/ukpga/1990/11); paragraph 28 of Schedule 2 to the [Planning (Consequential Provisions) (Scotland) Act 1997 (c.11)](https://www.legislation.gov.uk/ukpga/1997/11); section 70 of the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24); [S.I. 2001/1283](https://www.legislation.gov.uk/uksi/2001/1283); [S.I. 2000/121](https://www.legislation.gov.uk/uksi/2000/121); and [S.I. 1991/2684](https://www.legislation.gov.uk/uksi/1991/2684).
 
-[^key-a55763df7dde7a9a3156bd28c789fb47]: Textual amendment: [Reg. 22(3A)-(3C)](https://www.legislation.gov.uk/uksi/2019/577/regulation/22/3A) inserted (30.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(3)(g)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/3/g), [8(2)(b)](https://www.legislation.gov.uk/uksi/2022/819/regulation/8/2/b)
+[^c-a55763df7dde7a9a3156bd28c789fb47]: Textual amendment: [Reg. 22(3A)-(3C)](https://www.legislation.gov.uk/uksi/2019/577/regulation/22/3A) inserted (30.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(3)(g)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/3/g), [8(2)(b)](https://www.legislation.gov.uk/uksi/2022/819/regulation/8/2/b)
 
-[^key-63868c8b21fbd87a995e810bdb7cd181]: Textual amendment: [Reg. 22(3D)-(3K)](https://www.legislation.gov.uk/uksi/2019/577/regulation/22/3D) inserted (14.5.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2/i), [10(9)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/9/b)
+[^c-63868c8b21fbd87a995e810bdb7cd181]: Textual amendment: [Reg. 22(3D)-(3K)](https://www.legislation.gov.uk/uksi/2019/577/regulation/22/3D) inserted (14.5.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2/i), [10(9)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/9/b)
 
-[^key-ddf939efc4526a156e5a3fed969b2e4e]: Textual amendment: Sum in [reg. 22](https://www.legislation.gov.uk/uksi/2019/577/regulation/22) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/10/2)
+[^c-ddf939efc4526a156e5a3fed969b2e4e]: Textual amendment: Sum in [reg. 22](https://www.legislation.gov.uk/uksi/2019/577/regulation/22) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/10/2)
 
-[^key-9622b2e7cf21e3b9cb70c5700a2ee1f4]: Textual amendment: [Reg. 22(5)(da)](https://www.legislation.gov.uk/uksi/2019/577/regulation/22/5/da) inserted (14.5.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2/i), [10(9)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/9/c)
+[^c-9622b2e7cf21e3b9cb70c5700a2ee1f4]: Textual amendment: [Reg. 22(5)(da)](https://www.legislation.gov.uk/uksi/2019/577/regulation/22/5/da) inserted (14.5.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2/i), [10(9)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/9/c)
 
-[^key-4f9db643120b22f568fd03f420a34e92]: Commencement: Reg. 23 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-4f9db643120b22f568fd03f420a34e92]: Commencement: Reg. 23 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-7fc462725f963663af5ea87d1f841c86]: Commencement: Reg. 24 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-7fc462725f963663af5ea87d1f841c86]: Commencement: Reg. 24 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-1b972d6934b602957b7d4ca347e58a70]: Commencement: Reg. 25 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-1b972d6934b602957b7d4ca347e58a70]: Commencement: Reg. 25 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-6ed74266db9dca83438b6d4f396889dc]: Commencement: Reg. 26 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-6ed74266db9dca83438b6d4f396889dc]: Commencement: Reg. 26 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-65b579c810997582e56c92b9d6430992]: Textual amendment: Words in [reg. 26(1)(b)(i)](https://www.legislation.gov.uk/uksi/2019/577/regulation/26/1/b/i) substituted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/9)
+[^c-65b579c810997582e56c92b9d6430992]: Textual amendment: Words in [reg. 26(1)(b)(i)](https://www.legislation.gov.uk/uksi/2019/577/regulation/26/1/b/i) substituted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/9)
 
 [^c23638451]: Marginal citation: [2017 c.3](https://www.legislation.gov.uk/ukpga/2017/3).
 
 [^c23638461]: Marginal citation: Section 1(8) of the Act defines an “international obligation” as an obligation of the United Kingdom created or arising by or under any international agreement.
 
-[^key-2c5eb1ca60422191b3c204c68ed1f655]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2019/577/regulation/26A) inserted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2022/819/regulation/8/3)
+[^c-2c5eb1ca60422191b3c204c68ed1f655]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2019/577/regulation/26A) inserted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2022/819/regulation/8/3)
 
-[^key-c9327027b9500793f1890cc9512d149c]: Textual amendment: Words in [reg. 26A(1)](https://www.legislation.gov.uk/uksi/2019/577/regulation/26A/1) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(10)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/10)
+[^c-c9327027b9500793f1890cc9512d149c]: Textual amendment: Words in [reg. 26A(1)](https://www.legislation.gov.uk/uksi/2019/577/regulation/26A/1) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [10(10)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/10/10)
 
-[^key-4b2ee8e4de22f810df2081c36a75bf7a]: Commencement: Reg. 27 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-4b2ee8e4de22f810df2081c36a75bf7a]: Commencement: Reg. 27 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-fd245758f0f1f215d928e18eab492896]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2019/577/regulation/27/1) inserted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/2), [8(4)(a)](https://www.legislation.gov.uk/uksi/2022/819/regulation/8/4/a)
+[^c-fd245758f0f1f215d928e18eab492896]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2019/577/regulation/27/1) inserted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/2), [8(4)(a)](https://www.legislation.gov.uk/uksi/2022/819/regulation/8/4/a)
 
-[^key-fde3f402e1a8b5e27387907cfc472141]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/2019/577/regulation/27/2) substituted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/2), [8(4)(b)](https://www.legislation.gov.uk/uksi/2022/819/regulation/8/4/b)
+[^c-fde3f402e1a8b5e27387907cfc472141]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/2019/577/regulation/27/2) substituted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/2), [8(4)(b)](https://www.legislation.gov.uk/uksi/2022/819/regulation/8/4/b)
 
 [^c23638471]: Marginal citation: [2016 c.25](https://www.legislation.gov.uk/ukpga/2016/25). Amendments have been made by the [Policing and Crime Act 2017 (c.3)](https://www.legislation.gov.uk/ukpga/2017/3), [Schedule 9(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/3), [paragraph 74](https://www.legislation.gov.uk/ukpga/2017/3/paragraph/74); the [Data Protection Act 2018 (c.12)](https://www.legislation.gov.uk/ukpga/2018/12), [Schedule 19(1)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/1), [paragraphs 198-203](https://www.legislation.gov.uk/ukpga/2018/12/paragraph/198); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652) and [S.I. 2018/1123](https://www.legislation.gov.uk/uksi/2018/1123). Savings provisions are made by [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859). Chapter 1 of Part 9 has been amended by regulation 6 of the [Investigatory Powers Act 2016 (Commencement No. 3 and Transitory, Transitional and Savings Provisions) Regulations 2017 (S.I. 2017/859)](https://www.legislation.gov.uk/uksi/2017/859).
 
-[^key-d7e49f96b12894830d060c9584636a9c]: Textual amendment: Words in [reg. 27(4)](https://www.legislation.gov.uk/uksi/2019/577/regulation/27/4) substituted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/2), [8(4)(c)(i)](https://www.legislation.gov.uk/uksi/2022/819/regulation/8/4/c/i)
+[^c-d7e49f96b12894830d060c9584636a9c]: Textual amendment: Words in [reg. 27(4)](https://www.legislation.gov.uk/uksi/2019/577/regulation/27/4) substituted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/2), [8(4)(c)(i)](https://www.legislation.gov.uk/uksi/2022/819/regulation/8/4/c/i)
 
-[^key-3429319b6b082ce2ece23ffeeb7cfa22]: Textual amendment: Words in [reg. 27(4)](https://www.legislation.gov.uk/uksi/2019/577/regulation/27/4) substituted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/2), [8(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/819/regulation/8/4/c/ii)
+[^c-3429319b6b082ce2ece23ffeeb7cfa22]: Textual amendment: Words in [reg. 27(4)](https://www.legislation.gov.uk/uksi/2019/577/regulation/27/4) substituted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/2), [8(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/819/regulation/8/4/c/ii)
 
 [^c23638481]: Marginal citation: [2018 c.12](https://www.legislation.gov.uk/ukpga/2018/12). There are amendments to this Act that are not relevant to these Regulations.
 
-[^key-b555c8c56d6f3143018a284d15b7e43b]: Commencement: Reg. 28 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-b555c8c56d6f3143018a284d15b7e43b]: Commencement: Reg. 28 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-baed7e80ef19f6c37d578d3bbd975c5d]: Textual amendment: Words in [reg. 28(1)(a)](https://www.legislation.gov.uk/uksi/2019/577/regulation/28/1/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+[^c-baed7e80ef19f6c37d578d3bbd975c5d]: Textual amendment: Words in [reg. 28(1)(a)](https://www.legislation.gov.uk/uksi/2019/577/regulation/28/1/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
 
-[^key-046973ec98fdaa25402673275cadbd90]: Textual amendment: Words in [reg. 28(2)](https://www.legislation.gov.uk/uksi/2019/577/regulation/28/2) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/10)
+[^c-046973ec98fdaa25402673275cadbd90]: Textual amendment: Words in [reg. 28(2)](https://www.legislation.gov.uk/uksi/2019/577/regulation/28/2) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/10)
 
-[^key-1c163fc821c056475376f4fe61b61b8c]: Textual amendment: Words in [reg. 28(2)(a)](https://www.legislation.gov.uk/uksi/2019/577/regulation/28/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+[^c-1c163fc821c056475376f4fe61b61b8c]: Textual amendment: Words in [reg. 28(2)(a)](https://www.legislation.gov.uk/uksi/2019/577/regulation/28/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
 
-[^key-000e4d5ed7afc15681bf75796c80eafd]: Textual amendment: Words in [reg. 28(4)](https://www.legislation.gov.uk/uksi/2019/577/regulation/28/4) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/2)
+[^c-000e4d5ed7afc15681bf75796c80eafd]: Textual amendment: Words in [reg. 28(4)](https://www.legislation.gov.uk/uksi/2019/577/regulation/28/4) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/2)
 
-[^key-807ae57226d930539f374a45b39ef400]: Textual amendment: Words in [reg. 28(4)](https://www.legislation.gov.uk/uksi/2019/577/regulation/28/4) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+[^c-807ae57226d930539f374a45b39ef400]: Textual amendment: Words in [reg. 28(4)](https://www.legislation.gov.uk/uksi/2019/577/regulation/28/4) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
 
-[^key-4f688bf36a045a92fc44d8a0f36d6503]: Commencement: Reg. 29 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-4f688bf36a045a92fc44d8a0f36d6503]: Commencement: Reg. 29 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-a5e43d200fd95751b858a867b8ef465f]: Commencement: Reg. 30 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-a5e43d200fd95751b858a867b8ef465f]: Commencement: Reg. 30 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
 [^c23638501]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-9e2b4675abcea6b097e9869e4beb4862]: Commencement: Reg. 31 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-9e2b4675abcea6b097e9869e4beb4862]: Commencement: Reg. 31 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
 [^c23638511]: Marginal citation: [1925 c.86](https://www.legislation.gov.uk/ukpga/1925/86), as amended by the [Statute Law (Repeals) Act 2004 (c.14)](https://www.legislation.gov.uk/ukpga/2004/14), [section 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1) and Schedule 1, Part 17. Other amendments have been made to section 33 that are not relevant to these Regulations.
 
@@ -1561,56 +1561,56 @@ An Impact Assessment has not been produced for these Regulations, This instrumen
 
 [^c23638541]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-dc5d38ba5427669eed2200b8f2927f57]: Commencement: Reg. 32 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-dc5d38ba5427669eed2200b8f2927f57]: Commencement: Reg. 32 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-2b05e6e34bb13e33656705073c699a0d]: Commencement: Reg. 33 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-2b05e6e34bb13e33656705073c699a0d]: Commencement: Reg. 33 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
 [^c23638551]: Marginal citation: [2005 c.15](https://www.legislation.gov.uk/ukpga/2005/15). Chapter 1 of Part 2 has been amended by the [Terrorism Act 2006 (c.11)](https://www.legislation.gov.uk/ukpga/2006/11), [section 33(3)](https://www.legislation.gov.uk/ukpga/2006/11/section/33/3) and (4); the [Northern Ireland (Miscellaneous Provisions) Act 2006 (c.33)](https://www.legislation.gov.uk/ukpga/2006/33), [sections 26(2)](https://www.legislation.gov.uk/ukpga/2006/33/section/26/2) and 30(2) and Schedules 3 and 5; the [Bribery Act 2010 (c.23)](https://www.legislation.gov.uk/ukpga/2010/23), [section 17(2)](https://www.legislation.gov.uk/ukpga/2010/23/section/17/2) and Schedule 1; the [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [section 203](https://www.legislation.gov.uk/asp/2010/13/section/203) and Schedule 7, para 77; the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), [section 17(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/4) and Schedule 8, paragraphs 157 and 159; the [Criminal Finances Act 2017 (c.22)](https://www.legislation.gov.uk/ukpga/2017/22), [section 51(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/51/1); the Act, section 59(4) and Schedule 3, paragraph 4; and [S.I. 2014/823](https://www.legislation.gov.uk/uksi/2014/823).
 
-[^key-d777d61c2cae27f3f1fe55fe4687f52b]: Commencement: Reg. 34 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-d777d61c2cae27f3f1fe55fe4687f52b]: Commencement: Reg. 34 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-24f3353ec375fabe916c99d69823bc71]: Textual amendment: Words in [reg. 34](https://www.legislation.gov.uk/uksi/2019/577/regulation/34) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(11)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/11)
+[^c-24f3353ec375fabe916c99d69823bc71]: Textual amendment: Words in [reg. 34](https://www.legislation.gov.uk/uksi/2019/577/regulation/34) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [8(11)](https://www.legislation.gov.uk/uksi/2024/644/regulation/8/11)
 
-[^key-e203c2569e7f85337e3b4b7ebd77eec9]: Textual amendment: [Reg. 34(3A)](https://www.legislation.gov.uk/uksi/2019/577/regulation/34/3A) inserted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/10/3/a)
+[^c-e203c2569e7f85337e3b4b7ebd77eec9]: Textual amendment: [Reg. 34(3A)](https://www.legislation.gov.uk/uksi/2019/577/regulation/34/3A) inserted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/10/3/a)
 
-[^key-b067597dfe36755660e3207dfe561d7a]: Textual amendment: Words in [reg. 34(4)](https://www.legislation.gov.uk/uksi/2019/577/regulation/34/4) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/10/3/b)
+[^c-b067597dfe36755660e3207dfe561d7a]: Textual amendment: Words in [reg. 34(4)](https://www.legislation.gov.uk/uksi/2019/577/regulation/34/4) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/10/3/b)
 
-[^key-1a8256ef17f7fcb5b3ba91338f50b6e0]: Textual amendment: Regs. 34A-34E inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Consequential Provisions) (Amendment) Regulations 2020 (S.I. 2020/1289)](https://www.legislation.gov.uk/uksi/2020/1289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1289/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/1289/regulation/4/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21)
+[^c-1a8256ef17f7fcb5b3ba91338f50b6e0]: Textual amendment: Regs. 34A-34E inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Consequential Provisions) (Amendment) Regulations 2020 (S.I. 2020/1289)](https://www.legislation.gov.uk/uksi/2020/1289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1289/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/1289/regulation/4/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21)
 
-[^key-e6c106d63247f1fa1a8aa619154a8944]: Commencement: Reg. 35 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-e6c106d63247f1fa1a8aa619154a8944]: Commencement: Reg. 35 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
 [^c23638561]: Marginal citation: [2010 c.38](https://www.legislation.gov.uk/ukpga/2010/38).
 
-[^key-225556fe2d1cfca9f7427fb1c7cef9b0]: Commencement: Reg. 36 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
+[^c-225556fe2d1cfca9f7427fb1c7cef9b0]: Commencement: Reg. 36 in force at 31.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/2)
 
-[^key-a09735001dedea79af3f9797f65ed4be]: Commencement: Sch. para. 1 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
+[^c-a09735001dedea79af3f9797f65ed4be]: Commencement: Sch. para. 1 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
 
-[^key-08d811fdca647f8636983099f8cfd9fe]: Commencement: Sch. para. 2 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
+[^c-08d811fdca647f8636983099f8cfd9fe]: Commencement: Sch. para. 2 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
 
-[^key-fc6142716fcc24717a1fc90d325b9438]: Commencement: Sch. para. 3 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
+[^c-fc6142716fcc24717a1fc90d325b9438]: Commencement: Sch. para. 3 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
 
-[^key-41a6103e6322a74aa6627e288ca5113d]: Commencement: Sch. para. 4 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
+[^c-41a6103e6322a74aa6627e288ca5113d]: Commencement: Sch. para. 4 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
 
-[^key-b3d92c4c14318db227c34607602d8bb1]: Commencement: Sch. para. 5 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
+[^c-b3d92c4c14318db227c34607602d8bb1]: Commencement: Sch. para. 5 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
 
-[^key-a89f1adbc849ef8f2aa4dab8da40da74]: Commencement: Sch. para. 6 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
+[^c-a89f1adbc849ef8f2aa4dab8da40da74]: Commencement: Sch. para. 6 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
 
-[^key-66c4f8a302853d0ad7dc588fbd7b8e65]: Commencement: Sch. para. 7 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
+[^c-66c4f8a302853d0ad7dc588fbd7b8e65]: Commencement: Sch. para. 7 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
 
-[^key-7b6c779cbe48d182d9d9f8ed77fd1b54]: Commencement: Sch. para. 8 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
+[^c-7b6c779cbe48d182d9d9f8ed77fd1b54]: Commencement: Sch. para. 8 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
 
-[^key-85acd48ec3c523c783ac29ad9a8e9243]: Commencement: Sch. para. 9 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
+[^c-85acd48ec3c523c783ac29ad9a8e9243]: Commencement: Sch. para. 9 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
 
-[^key-ce63b26d9502de890ac1d5811c4adc36]: Commencement: Sch. para. 10 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
+[^c-ce63b26d9502de890ac1d5811c4adc36]: Commencement: Sch. para. 10 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
 
-[^key-81120781038995dc46faa33b6a0ec734]: Commencement: Sch. para. 11 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
+[^c-81120781038995dc46faa33b6a0ec734]: Commencement: Sch. para. 11 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
 
-[^key-0e8f3749149e86f02dac5c539301eccc]: Commencement: Sch. para. 12 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
+[^c-0e8f3749149e86f02dac5c539301eccc]: Commencement: Sch. para. 12 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
 
-[^key-4e3f347a6a3612c784cf6452bdf20f42]: Commencement: Sch. para. 13 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
+[^c-4e3f347a6a3612c784cf6452bdf20f42]: Commencement: Sch. para. 13 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
 
 [^c23638581]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
 [^c23638591]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
-[^key-f82380e058c2748da7eb05166e202a3b]: Commencement: Sch. para. 14 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)
+[^c-f82380e058c2748da7eb05166e202a3b]: Commencement: Sch. para. 14 in force at 7.12.2020 by [S.I. 2020/1416](https://www.legislation.gov.uk/uksi/2020/1416), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1416/regulation/2/1/h)

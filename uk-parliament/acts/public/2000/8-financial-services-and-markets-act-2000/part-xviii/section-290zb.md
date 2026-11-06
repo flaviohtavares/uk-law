@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 290ZB. Variation of CSD recognition order[^key-19bb8f4617b61223eae500240f01695d]
+## 290ZB. Variation of CSD recognition order[^c-19bb8f4617b61223eae500240f01695d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ the Bank of England must vary the CSD recognition order accordingly.
 
 ## Annotations
 
-[^key-19bb8f4617b61223eae500240f01695d]: Textual amendment: S. 290ZB inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [2(16)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/2/16) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-19bb8f4617b61223eae500240f01695d]: Textual amendment: S. 290ZB inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [2(16)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/2/16) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))

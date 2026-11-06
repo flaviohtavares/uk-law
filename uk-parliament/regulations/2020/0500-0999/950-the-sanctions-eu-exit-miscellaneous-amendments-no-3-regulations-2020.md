@@ -46,13 +46,13 @@ Coming into force in accordance with regulation 1(2)
 
 The Secretary of State [^c24281541], in exercise of the powers conferred by sections 1 and 45 of the Sanctions and Anti-Money Laundering Act 2018 [^c24281551], considers that the requirements of section 45(2) of the Act are satisfied and, having decided upon consideration of the matters set out in section 56(1) of the Act that it is appropriate to do so, makes the following Regulations:
 
-## 1. Citation and commencement[^key-7c0eeeddacd060b86ce0c32fe3ba7c58][^key-1bc9198e6258f3e465219a177599dcc8]
+## 1. Citation and commencement[^c-7c0eeeddacd060b86ce0c32fe3ba7c58][^c-1bc9198e6258f3e465219a177599dcc8]
 
 (1) These Regulations may be cited as the Sanctions (EU Exit) (Miscellaneous Amendments) (No.3) Regulations 2020.
 
 (2) These Regulations come into force in accordance with regulations made by the Secretary of State under section 56 of the Sanctions and Anti-Money Laundering Act 2018.
 
-## 2. Amendment of the Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019[^key-45a197cec4fb0c89ea7078d2eeb80b2d][^key-6f3beea1ce0b17448c46146bcbb01dc4]
+## 2. Amendment of the Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019[^c-45a197cec4fb0c89ea7078d2eeb80b2d][^c-6f3beea1ce0b17448c46146bcbb01dc4]
 
 (1) The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019 [^c24281561] are amended as follows.
 
@@ -98,7 +98,7 @@ The Secretary of State [^c24281541], in exercise of the powers conferred by sect
 >
 > (3) Nothing in this regulation affects the application of a prohibition or requirement in a case where it would be incompatible with a UN obligation for the prohibition or requirement not to apply.
 
-## 3. Amendment of the Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019[^key-84ef5fe716370c48f753bed43c6530b1][^key-eb8d21da81a20455a818030e3a4ef9d3]
+## 3. Amendment of the Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019[^c-84ef5fe716370c48f753bed43c6530b1][^c-eb8d21da81a20455a818030e3a4ef9d3]
 
 (1) The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019 [^c24281571] are amended as follows.
 
@@ -121,7 +121,7 @@ The Secretary of State [^c24281541], in exercise of the powers conferred by sect
 >
 > (3) Nothing in this regulation affects the application of a prohibition in a case where it would be incompatible with a UN obligation for the prohibition not to apply.
 
-## 4. Amendment of the South Sudan (Sanctions) (EU Exit) Regulations 2019[^key-0bd8068d8a4b42409258e2e2d5c5808a][^key-581f3374215929f7d73bf403499a6fad]
+## 4. Amendment of the South Sudan (Sanctions) (EU Exit) Regulations 2019[^c-0bd8068d8a4b42409258e2e2d5c5808a][^c-581f3374215929f7d73bf403499a6fad]
 
 (1) The South Sudan (Sanctions) (EU Exit) Regulations 2019 [^c24281581] are amended as follows.
 
@@ -164,7 +164,7 @@ The Secretary of State [^c24281541], in exercise of the powers conferred by sect
 - (b) immediately before paragraph 7 insert— “ PART 3 Purposes relating only to non-UN designated persons ”
 - (c) omit the heading to Part 3 (Purposes relating only to non-UN designated persons).
 
-## 5. Amendment of the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019[^key-34192a5833cf03503eaedc53f3729dce][^key-5f6c67a6f70dbf03453e7fc4f97fffef]
+## 5. Amendment of the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019[^c-34192a5833cf03503eaedc53f3729dce][^c-5f6c67a6f70dbf03453e7fc4f97fffef]
 
 (1) The Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 [^c24281591] are amended as follows.
 
@@ -187,7 +187,7 @@ The Secretary of State [^c24281541], in exercise of the powers conferred by sect
 >
 > (3) Nothing in this regulation affects the application of a prohibition in a case where it would be incompatible with a UN obligation for the prohibition not to apply.
 
-## 6. Amendment of the ISIL (Da'esh) and Al-Qaida (United Nations Sanctions) (EU Exit) Regulations 2019[^key-8b2f58aca2aa500dafa4af3f20cec0fb][^key-28c12702ecfd293cf4c7243f3bb910b6]
+## 6. Amendment of the ISIL (Da'esh) and Al-Qaida (United Nations Sanctions) (EU Exit) Regulations 2019[^c-8b2f58aca2aa500dafa4af3f20cec0fb][^c-28c12702ecfd293cf4c7243f3bb910b6]
 
 (1) The ISIL (Da'esh) and Al-Qaida (United Nations Sanctions) (EU Exit) Regulations 2019 [^c24281601] are amended as follows.
 
@@ -214,7 +214,7 @@ The Secretary of State [^c24281541], in exercise of the powers conferred by sect
 
 > (2) For the purposes of paragraph (1), a “**relevant activity**” means an activity which would constitute a contravention of any prohibition in Part 4 (Trade) except the prohibition in regulation 15 (export of military goods).
 
-## 7. Amendment of the Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019[^key-9c1f4e6764467e2666e69b62a7b8616d][^key-22d7fd8f2bf2dfca792bfd9fc64af478]
+## 7. Amendment of the Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019[^c-9c1f4e6764467e2666e69b62a7b8616d][^c-22d7fd8f2bf2dfca792bfd9fc64af478]
 
 (1) The Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019 [^c24281611] are amended as follows.
 
@@ -237,7 +237,7 @@ The Secretary of State [^c24281541], in exercise of the powers conferred by sect
 >
 > (3) Nothing in this regulation affects the application of a prohibition in a case where it would be incompatible with a UN obligation for the prohibition not to apply.
 
-## 8. Amendment of the Counter-Terrorism (Sanctions) (EU Exit) Regulations 2019[^key-9ed0c1ab1385eb6402a1d7c7604ba4da][^key-917c59aad8cd72ebbe254f5ba702ef2c]
+## 8. Amendment of the Counter-Terrorism (Sanctions) (EU Exit) Regulations 2019[^c-9ed0c1ab1385eb6402a1d7c7604ba4da][^c-917c59aad8cd72ebbe254f5ba702ef2c]
 
 (1) The Counter-Terrorism (Sanctions) (EU Exit) Regulations 2019 [^c24281621] are amended as follows.
 
@@ -260,7 +260,7 @@ The Secretary of State [^c24281541], in exercise of the powers conferred by sect
 >
 > (3) Nothing in this regulation affects the application of a prohibition in a case where it would be incompatible with a UN obligation for the prohibition or requirement not to apply.
 
-## 9. Amendment of the Lebanon (Sanctions) (EU Exit) Regulations 2020[^key-cf50df5212029c9af9de92e5a5752fda][^key-6755aa90ddbdfeff3e0344d8b95a696c]
+## 9. Amendment of the Lebanon (Sanctions) (EU Exit) Regulations 2020[^c-cf50df5212029c9af9de92e5a5752fda][^c-6755aa90ddbdfeff3e0344d8b95a696c]
 
 (1) The Lebanon (Sanctions) (EU Exit) Regulations 2020 [^c24281631] are amended as follows.
 
@@ -283,7 +283,7 @@ The Secretary of State [^c24281541], in exercise of the powers conferred by sect
 >
 > (3) Nothing in this regulation affects the application of a prohibition in a case where it would be incompatible with a UN obligation for the prohibition not to apply.
 
-## 10. Amendment of the Central African Republic (Sanctions) (EU Exit) Regulations 2020[^key-af15971f176b9aa2b379b8c862bd9a05][^key-b3919d6faf6dbc35418b228144bd2cf2]
+## 10. Amendment of the Central African Republic (Sanctions) (EU Exit) Regulations 2020[^c-af15971f176b9aa2b379b8c862bd9a05][^c-b3919d6faf6dbc35418b228144bd2cf2]
 
 (1) The Central African Republic (Sanctions) (EU Exit) Regulations 2020 [^c24281641] are amended as follows.
 
@@ -326,7 +326,7 @@ The Secretary of State [^c24281541], in exercise of the powers conferred by sect
 - (b) immediately before paragraph 7 insert— “ PART 3 Purposes relating only to non-UN designated persons ”
 - (c) omit the heading to Part 3 (Purposes relating only to non-UN designated persons).
 
-## 11. Amendment of the Lebanon (Sanctions) (Assassination of Rafiq Hariri and others) (EU Exit) Regulations 2020[^key-d04e31afbdedacf56b2a37ac3d89fa87][^key-79c1ad040f6c1a663c9c596bb2891416]
+## 11. Amendment of the Lebanon (Sanctions) (Assassination of Rafiq Hariri and others) (EU Exit) Regulations 2020[^c-d04e31afbdedacf56b2a37ac3d89fa87][^c-79c1ad040f6c1a663c9c596bb2891416]
 
 (1) The Lebanon (Sanctions) (Assassination of Rafiq Hariri and others) (EU Exit) Regulations 2020 [^c24281651] are amended as follows.
 
@@ -349,7 +349,7 @@ The Secretary of State [^c24281541], in exercise of the powers conferred by sect
 >
 > (3) Nothing in this regulation affects the application of a prohibition in a case where it would be incompatible with a UN obligation for the prohibition or requirement not to apply.
 
-## 12. Amendment of the Somalia (Sanctions) (EU Exit) Regulations 2020[^key-0eae0fca9fad4d56327483a1228f7053][^key-8776adf847ce53022695042ebb6ab901]
+## 12. Amendment of the Somalia (Sanctions) (EU Exit) Regulations 2020[^c-0eae0fca9fad4d56327483a1228f7053][^c-8776adf847ce53022695042ebb6ab901]
 
 (1) The Somalia (Sanctions) (EU Exit) Regulations 2020 [^c24281661] are amended as follows.
 
@@ -379,72 +379,72 @@ https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attac
 
 [^c24281551]: Marginal citation: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13).
 
-[^key-7c0eeeddacd060b86ce0c32fe3ba7c58]: Commencement: Reg. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
+[^c-7c0eeeddacd060b86ce0c32fe3ba7c58]: Commencement: Reg. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
 
-[^key-1bc9198e6258f3e465219a177599dcc8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/950/regulation/1) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-1bc9198e6258f3e465219a177599dcc8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/950/regulation/1) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
-[^key-45a197cec4fb0c89ea7078d2eeb80b2d]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
+[^c-45a197cec4fb0c89ea7078d2eeb80b2d]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
 
-[^key-6f3beea1ce0b17448c46146bcbb01dc4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/950/regulation/2) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-6f3beea1ce0b17448c46146bcbb01dc4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/950/regulation/2) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
 [^c24281561]: Marginal citation: [S.I. 2019/411](https://www.legislation.gov.uk/uksi/2019/411), amended by [S.I. 2019/843](https://www.legislation.gov.uk/uksi/2019/843) and [S.I. 2020/591](https://www.legislation.gov.uk/uksi/2020/591).
 
-[^key-84ef5fe716370c48f753bed43c6530b1]: Commencement: Reg. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
+[^c-84ef5fe716370c48f753bed43c6530b1]: Commencement: Reg. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
 
-[^key-eb8d21da81a20455a818030e3a4ef9d3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/950/regulation/3) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-eb8d21da81a20455a818030e3a4ef9d3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/950/regulation/3) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
 [^c24281571]: Marginal citation: [S.I. 2019/433](https://www.legislation.gov.uk/uksi/2019/433), amended by [S.I. 2020/591](https://www.legislation.gov.uk/uksi/2020/591).
 
-[^key-0bd8068d8a4b42409258e2e2d5c5808a]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
+[^c-0bd8068d8a4b42409258e2e2d5c5808a]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
 
-[^key-581f3374215929f7d73bf403499a6fad]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/950/regulation/4) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-581f3374215929f7d73bf403499a6fad]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/950/regulation/4) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
 [^c24281581]: Marginal citation: [S.I. 2019/438](https://www.legislation.gov.uk/uksi/2019/438), amended by [S.I. 2020/591](https://www.legislation.gov.uk/uksi/2020/591).
 
-[^key-34192a5833cf03503eaedc53f3729dce]: Commencement: Reg. 5 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
+[^c-34192a5833cf03503eaedc53f3729dce]: Commencement: Reg. 5 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
 
-[^key-5f6c67a6f70dbf03453e7fc4f97fffef]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/950/regulation/5) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-5f6c67a6f70dbf03453e7fc4f97fffef]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/950/regulation/5) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
 [^c24281591]: Marginal citation: [S.I. 2019/461](https://www.legislation.gov.uk/uksi/2019/461), amended by [S.I. 2019/843](https://www.legislation.gov.uk/uksi/2019/843) and [S.I. 2020/591](https://www.legislation.gov.uk/uksi/2020/591).
 
-[^key-8b2f58aca2aa500dafa4af3f20cec0fb]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
+[^c-8b2f58aca2aa500dafa4af3f20cec0fb]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
 
-[^key-28c12702ecfd293cf4c7243f3bb910b6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/950/regulation/6) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-28c12702ecfd293cf4c7243f3bb910b6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/950/regulation/6) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
 [^c24281601]: Marginal citation: [S.I. 2019/466](https://www.legislation.gov.uk/uksi/2019/466), amended by [S.I. 2019/843](https://www.legislation.gov.uk/uksi/2019/843) and [S.I. 2020/591](https://www.legislation.gov.uk/uksi/2020/591).
 
-[^key-9c1f4e6764467e2666e69b62a7b8616d]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
+[^c-9c1f4e6764467e2666e69b62a7b8616d]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
 
-[^key-22d7fd8f2bf2dfca792bfd9fc64af478]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/950/regulation/7) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-22d7fd8f2bf2dfca792bfd9fc64af478]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/950/regulation/7) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
 [^c24281611]: Marginal citation: [S.I. 2019/573](https://www.legislation.gov.uk/uksi/2019/573), amended by [S.I. 2019/843](https://www.legislation.gov.uk/uksi/2019/843) and [S.I. 2020/591](https://www.legislation.gov.uk/uksi/2020/591).
 
-[^key-9ed0c1ab1385eb6402a1d7c7604ba4da]: Commencement: Reg. 8 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
+[^c-9ed0c1ab1385eb6402a1d7c7604ba4da]: Commencement: Reg. 8 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
 
-[^key-917c59aad8cd72ebbe254f5ba702ef2c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/950/regulation/8) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-917c59aad8cd72ebbe254f5ba702ef2c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/950/regulation/8) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
 [^c24281621]: Marginal citation: [S.I. 2019/577](https://www.legislation.gov.uk/uksi/2019/577), amended by [S.I. 2020/591](https://www.legislation.gov.uk/uksi/2020/591).
 
-[^key-cf50df5212029c9af9de92e5a5752fda]: Commencement: Reg. 9 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
+[^c-cf50df5212029c9af9de92e5a5752fda]: Commencement: Reg. 9 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
 
-[^key-6755aa90ddbdfeff3e0344d8b95a696c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/950/regulation/9) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-6755aa90ddbdfeff3e0344d8b95a696c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/950/regulation/9) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
 [^c24281631]: Marginal citation: [S.I. 2020/612](https://www.legislation.gov.uk/uksi/2020/612).
 
-[^key-af15971f176b9aa2b379b8c862bd9a05]: Commencement: Reg. 10 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
+[^c-af15971f176b9aa2b379b8c862bd9a05]: Commencement: Reg. 10 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
 
-[^key-b3919d6faf6dbc35418b228144bd2cf2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/950/regulation/10) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-b3919d6faf6dbc35418b228144bd2cf2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/950/regulation/10) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
 [^c24281641]: Marginal citation: [S.I. 2020/616](https://www.legislation.gov.uk/uksi/2020/616).
 
-[^key-d04e31afbdedacf56b2a37ac3d89fa87]: Commencement: Reg. 11 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
+[^c-d04e31afbdedacf56b2a37ac3d89fa87]: Commencement: Reg. 11 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
 
-[^key-79c1ad040f6c1a663c9c596bb2891416]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/950/regulation/11) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-79c1ad040f6c1a663c9c596bb2891416]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/950/regulation/11) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
 [^c24281651]: Marginal citation: [S.I. 2020/617](https://www.legislation.gov.uk/uksi/2020/617).
 
-[^key-0eae0fca9fad4d56327483a1228f7053]: Commencement: Reg. 12 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
+[^c-0eae0fca9fad4d56327483a1228f7053]: Commencement: Reg. 12 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2)
 
-[^key-8776adf847ce53022695042ebb6ab901]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/950/regulation/12) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-8776adf847ce53022695042ebb6ab901]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/950/regulation/12) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
 [^c24281661]: Marginal citation: [S.I. 2020/642](https://www.legislation.gov.uk/uksi/2020/642).

@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies to—
 
 - (a) any provision of an Act of the Scottish Parliament, or of a Bill for such an Act, and
-- (b) any provision of subordinate legislation made, confirmed or approved, or purporting to be made, confirmed or approved, by a member of the Scottish Government[^key-1a6eec0a223077253e974615c6946a62],
+- (b) any provision of subordinate legislation made, confirmed or approved, or purporting to be made, confirmed or approved, by a member of the Scottish Government[^c-1a6eec0a223077253e974615c6946a62],
 
 which could be read in such a way as to be outside competence.
 
@@ -36,4 +36,4 @@ which could be read in such a way as to be outside competence.
 
 ## Annotations
 
-[^key-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
+[^c-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)

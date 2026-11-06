@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Place of slaughter[^key-b816f1f47476b2ae5e47a3b211210b40]
+## 23. Place of slaughter[^c-b816f1f47476b2ae5e47a3b211210b40]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b816f1f47476b2ae5e47a3b211210b40]: Commencement: Reg. 23 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-b816f1f47476b2ae5e47a3b211210b40]: Commencement: Reg. 23 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

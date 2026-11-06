@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 403. Powers to apply Parts 2 to 7 to former authorised institutions[^key-1e41ad233c50c8bc1305f854e4f9b8ec]
+## 403. Powers to apply Parts 2 to 7 to former authorised institutions[^c-1e41ad233c50c8bc1305f854e4f9b8ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In Article 366 of the Insolvency (Northern Ireland) Order 1989 (power to apply P
 
 ## Annotations
 
-[^key-1e41ad233c50c8bc1305f854e4f9b8ec]: Commencement: Art. 403 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1e41ad233c50c8bc1305f854e4f9b8ec]: Commencement: Art. 403 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00291]: Footnote: Article 366 was amended by the Bank of England Act [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11), Schedule 5, paragraph 40.

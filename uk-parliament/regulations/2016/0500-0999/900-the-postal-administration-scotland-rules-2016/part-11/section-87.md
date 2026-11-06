@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Use of websites by postal administrator[^key-4382d74f6509c1c6b604124e3e0751e1]
+## 87. Use of websites by postal administrator[^c-4382d74f6509c1c6b604124e3e0751e1]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4382d74f6509c1c6b604124e3e0751e1]: Commencement: Rule 87 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-4382d74f6509c1c6b604124e3e0751e1]: Commencement: Rule 87 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
 [^f00023]: Footnote: Section 246B was inserted by [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18), Article 3.

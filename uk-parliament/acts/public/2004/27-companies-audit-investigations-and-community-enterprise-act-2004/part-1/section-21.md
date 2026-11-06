@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Power to require documents and information[^key-213bd1fc5491d13c1988397a14f32b72]
+## 21. Power to require documents and information[^c-213bd1fc5491d13c1988397a14f32b72]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ For section 447 of the Companies Act 1985 (c. 6) substitute—
 
 ## Annotations
 
-[^key-213bd1fc5491d13c1988397a14f32b72]: Commencement: S. 21 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
+[^c-213bd1fc5491d13c1988397a14f32b72]: Commencement: S. 21 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))

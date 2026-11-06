@@ -52,103 +52,103 @@ The Secretary of State considers that the requirements imposed by these Regulati
 
 In accordance with section 45R of that Act the Secretary of State is of the opinion that, by reason of urgency, it is necessary to make this instrument without a draft having been laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation, commencement, extent and application[^key-6dec1af4e934836fc6dab3c8351a4195]
+## 1. Citation, commencement, extent and application[^c-6dec1af4e934836fc6dab3c8351a4195]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6dec1af4e934836fc6dab3c8351a4195]
+## 2. Interpretation[^c-6dec1af4e934836fc6dab3c8351a4195]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Qualifying test[^key-6dec1af4e934836fc6dab3c8351a4195]
+## 3. Qualifying test[^c-6dec1af4e934836fc6dab3c8351a4195]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Venues and events subject to these Regulations[^key-6dec1af4e934836fc6dab3c8351a4195]
+## 4. Venues and events subject to these Regulations[^c-6dec1af4e934836fc6dab3c8351a4195]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Requirements: entry to venues or events[^key-6dec1af4e934836fc6dab3c8351a4195]
+## 5. Requirements: entry to venues or events[^c-6dec1af4e934836fc6dab3c8351a4195]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Entry to events and venues: spot checks[^key-6dec1af4e934836fc6dab3c8351a4195]
+## 6. Entry to events and venues: spot checks[^c-6dec1af4e934836fc6dab3c8351a4195]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Requirements: statements and records[^key-a36be851b9b9b7b0b3ca58635f38655f]
+## 7. Requirements: statements and records[^c-a36be851b9b9b7b0b3ca58635f38655f]
 
-(1)[^key-2f3319b707e210897f6db538c062960d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-2f3319b707e210897f6db538c062960d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-2f3319b707e210897f6db538c062960d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2f3319b707e210897f6db538c062960d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-2f3319b707e210897f6db538c062960d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2f3319b707e210897f6db538c062960d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-2f3319b707e210897f6db538c062960d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2f3319b707e210897f6db538c062960d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-2f3319b707e210897f6db538c062960d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-2f3319b707e210897f6db538c062960d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-2f3319b707e210897f6db538c062960d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-2f3319b707e210897f6db538c062960d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-1fc2a29a85d00611561d5ec66952bb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-1fc2a29a85d00611561d5ec66952bb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Criteria for entrance and exemptions[^key-3ef326dadf8f392c35a9736adb0a3cf5]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 9. Acceptable evidence for the purposes of regulation 8[^key-3ef326dadf8f392c35a9736adb0a3cf5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 10. Exempt persons[^key-3ef326dadf8f392c35a9736adb0a3cf5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 11. Local authority powers[^key-3ef326dadf8f392c35a9736adb0a3cf5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 12. Coronavirus Improvement Notices[^key-3ef326dadf8f392c35a9736adb0a3cf5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 13. Coronavirus Immediate Restriction Notices[^key-3ef326dadf8f392c35a9736adb0a3cf5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 14. Coronavirus Restriction Notices[^key-3ef326dadf8f392c35a9736adb0a3cf5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 15. Appeals[^key-3ef326dadf8f392c35a9736adb0a3cf5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 16. Offences and penalties[^key-3ef326dadf8f392c35a9736adb0a3cf5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 17. Fixed penalty notices[^key-3ef326dadf8f392c35a9736adb0a3cf5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 18. Designations[^key-3ef326dadf8f392c35a9736adb0a3cf5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 19. Prosecutions[^key-3ef326dadf8f392c35a9736adb0a3cf5]
+## 8. Criteria for entrance and exemptions[^c-3ef326dadf8f392c35a9736adb0a3cf5]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Amendment of the Health Protection (Coronavirus, Wearing of Face Coverings) (England) Regulations 2021[^key-f6c21e484769d966cb195658d2cfbf8e]
+## 9. Acceptable evidence for the purposes of regulation 8[^c-3ef326dadf8f392c35a9736adb0a3cf5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Exempt persons[^c-3ef326dadf8f392c35a9736adb0a3cf5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Local authority powers[^c-3ef326dadf8f392c35a9736adb0a3cf5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Coronavirus Improvement Notices[^c-3ef326dadf8f392c35a9736adb0a3cf5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13. Coronavirus Immediate Restriction Notices[^c-3ef326dadf8f392c35a9736adb0a3cf5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Coronavirus Restriction Notices[^c-3ef326dadf8f392c35a9736adb0a3cf5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15. Appeals[^c-3ef326dadf8f392c35a9736adb0a3cf5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 16. Offences and penalties[^c-3ef326dadf8f392c35a9736adb0a3cf5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 17. Fixed penalty notices[^c-3ef326dadf8f392c35a9736adb0a3cf5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18. Designations[^c-3ef326dadf8f392c35a9736adb0a3cf5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 19. Prosecutions[^c-3ef326dadf8f392c35a9736adb0a3cf5]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 20. Amendment of the Health Protection (Coronavirus, Wearing of Face Coverings) (England) Regulations 2021[^c-f6c21e484769d966cb195658d2cfbf8e]
 
 (1) The Health Protection (Coronavirus, Wearing of Face Coverings) (England) Regulations 2021[^f00037] are amended as follows.
 
@@ -172,7 +172,7 @@ In accordance with section 45R of that Act the Secretary of State is of the opin
 
 .
 
-## 21. Expiry[^key-b33848dd6f0216e150dbfa9b15212b92]
+## 21. Expiry[^c-b33848dd6f0216e150dbfa9b15212b92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -182,43 +182,43 @@ Parliamentary Under Secretary of State,
 
 Department of Health and Social Care
 
-## SCHEDULE 1 — Venues to which requirements apply[^key-4cb1dd2467222e8344b6b7c9697f5723]
+## SCHEDULE 1 — Venues to which requirements apply[^c-4cb1dd2467222e8344b6b7c9697f5723]
 
 **No longer in force.**
 
 Regulation 4(2)
 
-**1.**[^key-4cb1dd2467222e8344b6b7c9697f5723] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4cb1dd2467222e8344b6b7c9697f5723] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4cb1dd2467222e8344b6b7c9697f5723] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4cb1dd2467222e8344b6b7c9697f5723] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4cb1dd2467222e8344b6b7c9697f5723] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4cb1dd2467222e8344b6b7c9697f5723] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4cb1dd2467222e8344b6b7c9697f5723] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4cb1dd2467222e8344b6b7c9697f5723] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4cb1dd2467222e8344b6b7c9697f5723] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4cb1dd2467222e8344b6b7c9697f5723] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Exempt events[^key-856601f5c5346f4c4456cbf6744529e4]
+## SCHEDULE 2 — Exempt events[^c-856601f5c5346f4c4456cbf6744529e4]
 
 **No longer in force.**
 
 Regulation 4(7)
 
-**1.**[^key-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-856601f5c5346f4c4456cbf6744529e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -238,22 +238,22 @@ No impact assessment has been prepared for these Regulations.
 
 [^f00001]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Part 2A was inserted by section 129 of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-6dec1af4e934836fc6dab3c8351a4195]: Textual amendment: Regs. 1-6 expired (27.1.2022) by [The Health Protection (Coronavirus, Restrictions) (Entry to Venues and Events) (England) Regulations 2021 (S.I. 2021/1416)](https://www.legislation.gov.uk/uksi/2021/1416), [reg. 21](https://www.legislation.gov.uk/uksi/2021/1416/regulation/21)
+[^c-6dec1af4e934836fc6dab3c8351a4195]: Textual amendment: Regs. 1-6 expired (27.1.2022) by [The Health Protection (Coronavirus, Restrictions) (Entry to Venues and Events) (England) Regulations 2021 (S.I. 2021/1416)](https://www.legislation.gov.uk/uksi/2021/1416), [reg. 21](https://www.legislation.gov.uk/uksi/2021/1416/regulation/21)
 
-[^key-a36be851b9b9b7b0b3ca58635f38655f]: Commencement: Reg. 7 in force at 15.12.2021 at 6.00 a.m., see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1416/regulation/1/2/b)
+[^c-a36be851b9b9b7b0b3ca58635f38655f]: Commencement: Reg. 7 in force at 15.12.2021 at 6.00 a.m., see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1416/regulation/1/2/b)
 
-[^key-2f3319b707e210897f6db538c062960d]: Textual amendment: Reg. 7(1)-(6) expired (27.1.2022) by [The Health Protection (Coronavirus, Restrictions) (Entry to Venues and Events) (England) Regulations 2021 (S.I. 2021/1416)](https://www.legislation.gov.uk/uksi/2021/1416), [reg. 21](https://www.legislation.gov.uk/uksi/2021/1416/regulation/21)
+[^c-2f3319b707e210897f6db538c062960d]: Textual amendment: Reg. 7(1)-(6) expired (27.1.2022) by [The Health Protection (Coronavirus, Restrictions) (Entry to Venues and Events) (England) Regulations 2021 (S.I. 2021/1416)](https://www.legislation.gov.uk/uksi/2021/1416), [reg. 21](https://www.legislation.gov.uk/uksi/2021/1416/regulation/21)
 
-[^key-1fc2a29a85d00611561d5ec66952bb67]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/uksi/2021/1416/regulation/7/7) expired (27.4.2022) by [The Health Protection (Coronavirus, Restrictions) (Entry to Venues and Events) (England) Regulations 2021 (S.I. 2021/1416)](https://www.legislation.gov.uk/uksi/2021/1416), [reg. 21](https://www.legislation.gov.uk/uksi/2021/1416/regulation/21)
+[^c-1fc2a29a85d00611561d5ec66952bb67]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/uksi/2021/1416/regulation/7/7) expired (27.4.2022) by [The Health Protection (Coronavirus, Restrictions) (Entry to Venues and Events) (England) Regulations 2021 (S.I. 2021/1416)](https://www.legislation.gov.uk/uksi/2021/1416), [reg. 21](https://www.legislation.gov.uk/uksi/2021/1416/regulation/21)
 
-[^key-3ef326dadf8f392c35a9736adb0a3cf5]: Textual amendment: Regs. 8-19 expired (27.1.2022) by [The Health Protection (Coronavirus, Restrictions) (Entry to Venues and Events) (England) Regulations 2021 (S.I. 2021/1416)](https://www.legislation.gov.uk/uksi/2021/1416), [reg. 21](https://www.legislation.gov.uk/uksi/2021/1416/regulation/21)
+[^c-3ef326dadf8f392c35a9736adb0a3cf5]: Textual amendment: Regs. 8-19 expired (27.1.2022) by [The Health Protection (Coronavirus, Restrictions) (Entry to Venues and Events) (England) Regulations 2021 (S.I. 2021/1416)](https://www.legislation.gov.uk/uksi/2021/1416), [reg. 21](https://www.legislation.gov.uk/uksi/2021/1416/regulation/21)
 
-[^key-f6c21e484769d966cb195658d2cfbf8e]: Commencement: Reg. 20 in force at 14.12.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1416/regulation/1/2/a)
+[^c-f6c21e484769d966cb195658d2cfbf8e]: Commencement: Reg. 20 in force at 14.12.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1416/regulation/1/2/a)
 
 [^f00037]: Footnote: [S.I. 2021/1340](https://www.legislation.gov.uk/uksi/2021/1340). Paragraph (5)(ba) was inserted by [S.I. 2021/1400](https://www.legislation.gov.uk/uksi/2021/1400).
 
-[^key-b33848dd6f0216e150dbfa9b15212b92]: Textual amendment: Reg. 21 expired (27.1.2022) by [The Health Protection (Coronavirus, Restrictions) (Entry to Venues and Events) (England) Regulations 2021 (S.I. 2021/1416)](https://www.legislation.gov.uk/uksi/2021/1416), [reg. 21](https://www.legislation.gov.uk/uksi/2021/1416/regulation/21)
+[^c-b33848dd6f0216e150dbfa9b15212b92]: Textual amendment: Reg. 21 expired (27.1.2022) by [The Health Protection (Coronavirus, Restrictions) (Entry to Venues and Events) (England) Regulations 2021 (S.I. 2021/1416)](https://www.legislation.gov.uk/uksi/2021/1416), [reg. 21](https://www.legislation.gov.uk/uksi/2021/1416/regulation/21)
 
-[^key-4cb1dd2467222e8344b6b7c9697f5723]: Textual amendment: Sch. 1 expired (27.1.2022) by [The Health Protection (Coronavirus, Restrictions) (Entry to Venues and Events) (England) Regulations 2021 (S.I. 2021/1416)](https://www.legislation.gov.uk/uksi/2021/1416), [reg. 21](https://www.legislation.gov.uk/uksi/2021/1416/regulation/21)
+[^c-4cb1dd2467222e8344b6b7c9697f5723]: Textual amendment: Sch. 1 expired (27.1.2022) by [The Health Protection (Coronavirus, Restrictions) (Entry to Venues and Events) (England) Regulations 2021 (S.I. 2021/1416)](https://www.legislation.gov.uk/uksi/2021/1416), [reg. 21](https://www.legislation.gov.uk/uksi/2021/1416/regulation/21)
 
-[^key-856601f5c5346f4c4456cbf6744529e4]: Textual amendment: Sch. 2 expired (27.1.2022) by [The Health Protection (Coronavirus, Restrictions) (Entry to Venues and Events) (England) Regulations 2021 (S.I. 2021/1416)](https://www.legislation.gov.uk/uksi/2021/1416), [reg. 21](https://www.legislation.gov.uk/uksi/2021/1416/regulation/21)
+[^c-856601f5c5346f4c4456cbf6744529e4]: Textual amendment: Sch. 2 expired (27.1.2022) by [The Health Protection (Coronavirus, Restrictions) (Entry to Venues and Events) (England) Regulations 2021 (S.I. 2021/1416)](https://www.legislation.gov.uk/uksi/2021/1416), [reg. 21](https://www.legislation.gov.uk/uksi/2021/1416/regulation/21)

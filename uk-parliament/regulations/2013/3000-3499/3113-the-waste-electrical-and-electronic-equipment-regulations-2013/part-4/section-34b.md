@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34B. Obligation to join a PBS[^key-078cc3d8541e6125c5baef3b8b3a467c]
+## 34B. Obligation to join a PBS[^c-078cc3d8541e6125c5baef3b8b3a467c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-078cc3d8541e6125c5baef3b8b3a467c]: Textual amendment: [Regs. 34A](https://www.legislation.gov.uk/uksi/2013/3113/regulation/34A), [34B](https://www.legislation.gov.uk/uksi/2013/3113/regulation/34B) inserted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [11](https://www.legislation.gov.uk/uksi/2018/1214/regulation/11)
+[^c-078cc3d8541e6125c5baef3b8b3a467c]: Textual amendment: [Regs. 34A](https://www.legislation.gov.uk/uksi/2013/3113/regulation/34A), [34B](https://www.legislation.gov.uk/uksi/2013/3113/regulation/34B) inserted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [11](https://www.legislation.gov.uk/uksi/2018/1214/regulation/11)

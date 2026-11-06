@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Power to direct additional crew to be carried[^key-cb3dde154ffa145193d5c91d4517e180]
+## 43. Power to direct additional crew to be carried[^c-cb3dde154ffa145193d5c91d4517e180]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Governor may, in the interests of safety, direct the operator of any aircraf
 
 ## Annotations
 
-[^key-cb3dde154ffa145193d5c91d4517e180]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2013/2870/article/43) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-cb3dde154ffa145193d5c91d4517e180]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2013/2870/article/43) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

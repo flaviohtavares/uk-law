@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Right to appeal against planning authority decision or failure to make decision[^key-99dc552bceca46acd739aaa1e4ec3443]
+## 73. Right to appeal against planning authority decision or failure to make decision[^c-99dc552bceca46acd739aaa1e4ec3443]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99dc552bceca46acd739aaa1e4ec3443]: Commencement: S. 73 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-99dc552bceca46acd739aaa1e4ec3443]: Commencement: S. 73 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

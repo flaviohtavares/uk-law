@@ -41,7 +41,7 @@ summary: ''
 - (a) the first regulations to be made under section 49,
 - (b) an order under section 58(1) or 59(1),
 - (c) regulations under section 70(3),
-- (d)[^key-10d09e9a77b6a1cbf07cc84d6b6d25db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-10d09e9a77b6a1cbf07cc84d6b6d25db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) regulations under subsection (6), (8), (9) or (10) of section 94,
 - (f) regulations under subsection (11) of that section which amend, repeal or revoke any provision of an enactment within the meaning of that section, or
 - (g) an order under section 136 which amends or repeals any provision of primary legislation,
@@ -55,4 +55,4 @@ is not to be made unless a draft of the instrument has been laid before, and app
 
 ## Annotations
 
-[^key-10d09e9a77b6a1cbf07cc84d6b6d25db]: Textual amendment: S. 135(6)(d) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/22) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+[^c-10d09e9a77b6a1cbf07cc84d6b6d25db]: Textual amendment: S. 135(6)(d) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/22) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))

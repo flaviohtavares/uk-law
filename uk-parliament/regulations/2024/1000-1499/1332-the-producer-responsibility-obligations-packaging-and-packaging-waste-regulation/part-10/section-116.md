@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Offences: scheme operators[^key-d7992cc454000a453b608baf58830a95]
+## 116. Offences: scheme operators[^c-d7992cc454000a453b608baf58830a95]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ It is an offence for a scheme operator—
 
 ## Annotations
 
-[^key-d7992cc454000a453b608baf58830a95]: Commencement: Reg. 116 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-d7992cc454000a453b608baf58830a95]: Commencement: Reg. 116 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Administration of poisons etc.[^key-7fb73877edda863ce3c11e7834fba84d]
+## 22. Administration of poisons etc.[^c-7fb73877edda863ce3c11e7834fba84d]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ and the person knows the drug or substance to be poisonous or injurious.
 
 ## Annotations
 
-[^key-7fb73877edda863ce3c11e7834fba84d]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2006/11/section/22) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-7fb73877edda863ce3c11e7834fba84d]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2006/11/section/22) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

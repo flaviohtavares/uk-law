@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Involvement of parent or guardian in proceedings conducted in writing[^key-5dcd911b2fc19f5426e50982d15b5a05]
+## 14. Involvement of parent or guardian in proceedings conducted in writing[^c-5dcd911b2fc19f5426e50982d15b5a05]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dcd911b2fc19f5426e50982d15b5a05]: Commencement: S. 14 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-5dcd911b2fc19f5426e50982d15b5a05]: Commencement: S. 14 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)

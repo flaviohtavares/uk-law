@@ -35,7 +35,7 @@ An Act to make provision about substance testing in prisons and similar institut
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Testing prisoners for psychoactive substances and other substances[^key-877b4c73801923baafb0cfb6cbb992ce]
+## 1. Testing prisoners for psychoactive substances and other substances[^c-877b4c73801923baafb0cfb6cbb992ce]
 
 (1) Section 16A of the Prison Act 1952 (testing prisoners for drugs) is amended in accordance with this section.
 
@@ -84,7 +84,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   ;
 - (d) in the definition of “specified drug”, for “ “**specified drug**” means” substitute “ “**specified substance**” means ”.
 
-## 2. Consequential amendments[^key-1f8445af38eac27eb1b2d1731d6cb143]
+## 2. Consequential amendments[^c-1f8445af38eac27eb1b2d1731d6cb143]
 
 (1) In section 47 of the Prison Act 1952 (prison rules), in subsection (3A)—
 
@@ -154,7 +154,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) omit rule 2(3), and
 - (b) omit rule 3(3).
 
-## 3. Final provisions[^key-53d3dd69f7ade34a0ad266dcc77eca57]
+## 3. Final provisions[^c-53d3dd69f7ade34a0ad266dcc77eca57]
 
 (1) This Act may be cited as the Prisons (Substance Testing) Act 2021.
 
@@ -164,8 +164,8 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-877b4c73801923baafb0cfb6cbb992ce]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/18/section/1) in force at 8.12.2021 by [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)
+[^c-877b4c73801923baafb0cfb6cbb992ce]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/18/section/1) in force at 8.12.2021 by [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)
 
-[^key-1f8445af38eac27eb1b2d1731d6cb143]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/18/section/2) in force at 8.12.2021 by [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)
+[^c-1f8445af38eac27eb1b2d1731d6cb143]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/18/section/2) in force at 8.12.2021 by [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)
 
-[^key-53d3dd69f7ade34a0ad266dcc77eca57]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/18/section/3) in force at 8.12.2021 by [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)
+[^c-53d3dd69f7ade34a0ad266dcc77eca57]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/18/section/3) in force at 8.12.2021 by [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)

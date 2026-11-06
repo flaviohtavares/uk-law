@@ -41,13 +41,13 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a) and (d), 132(4)(b), 134(1)(a) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], section 165(4) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], Article 14(4)(b) of the Jobseekers (Northern Ireland) Order 1995[^f00003] and Article 28(1) of, and paragraph 4 of Schedule 1 to, the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997[^f00004] and now vested in it[^f00005], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00006] in so far as regulation 2(2) is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00007], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-8ace7932d69530d6fb3d541c2bfeaa5f]
+## 1. Citation, commencement and interpretation[^c-8ace7932d69530d6fb3d541c2bfeaa5f]
 
 (1) These Regulations may be cited as the Social Security (Capital Disregards and Recovery of Benefits Amendment) Regulations (Northern Ireland) 2001 and shall come into operation on 12th April 2001.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Capital to be disregarded[^key-fc5f2f19ec32149db63f9c64d355e510]
+## 2. Capital to be disregarded[^c-fc5f2f19ec32149db63f9c64d355e510]
 
 (1) There shall be added as paragraph 59 of Schedule 10 to the Income Support (General) Regulations (Northern Ireland) 1987[^f00009] and paragraph 52 of Schedule 7 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00010] (capital to be disregarded) the following paragraph—
 
@@ -108,13 +108,13 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 .
 
-(2)[^key-1afaf71efc56ab6b7d10cd8cd3a2111a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1afaf71efc56ab6b7d10cd8cd3a2111a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Fund (Maternity and Funeral Expenses) Regulations[^key-90d756e67f95161f4a439ec587a75905]
+## 3. Amendment of the Social Fund (Maternity and Funeral Expenses) Regulations[^c-90d756e67f95161f4a439ec587a75905]
 
 In regulation 7(2) of the Social Fund (Maternity and Funeral Expenses) (General) Regulations (Northern Ireland) 1987[^f00014] (deductions from an award of a funeral payment), after “the Eileen Trust”, in the first place where those words appear, there shall be inserted “or under a trust established out of funds provided by the Secretary of State in respect of persons who suffered, or who are suffering, from variant Creutzfeldt-Jakob disease for the benefit of persons eligible for payments in accordance with its provisions”.
 
-## 4. Amendment of the Social Security (Recovery of Benefits) Regulations[^key-287fbc433bbdf484b0eba53f7010132c]
+## 4. Amendment of the Social Security (Recovery of Benefits) Regulations[^c-287fbc433bbdf484b0eba53f7010132c]
 
 In regulation 2(1) of the Social Security (Recovery of Benefits) Regulations (Northern Ireland) 1997[^f00015] (exempted trusts and payments), after sub-paragraph (*d*) there shall be added the following sub-paragraphs—
 
@@ -171,22 +171,22 @@ These Regulations do not impose any charge on business.
 
 [^f00007]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-8ace7932d69530d6fb3d541c2bfeaa5f]: Commencement: Reg. 1 in operation at 12.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/150/regulation/1/1)
+[^c-8ace7932d69530d6fb3d541c2bfeaa5f]: Commencement: Reg. 1 in operation at 12.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/150/regulation/1/1)
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-fc5f2f19ec32149db63f9c64d355e510]: Commencement: Reg. 2 in operation at 12.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/150/regulation/1/1)
+[^c-fc5f2f19ec32149db63f9c64d355e510]: Commencement: Reg. 2 in operation at 12.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/150/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); paragraph 58 was added by regulation 10 of [S.R. 2001 No. 78](https://www.legislation.gov.uk/nisr/2001/78)
 
 [^f00010]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); paragraph 51 was added by regulation 2(*c*) of [S.R. 2001 No. 4](https://www.legislation.gov.uk/nisr/2001/4)
 
-[^key-1afaf71efc56ab6b7d10cd8cd3a2111a]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2001/150/regulation/2/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-1afaf71efc56ab6b7d10cd8cd3a2111a]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2001/150/regulation/2/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-90d756e67f95161f4a439ec587a75905]: Commencement: Reg. 3 in operation at 12.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/150/regulation/1/1)
+[^c-90d756e67f95161f4a439ec587a75905]: Commencement: Reg. 3 in operation at 12.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/150/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 1987 No. 150](https://www.legislation.gov.uk/nisr/1987/150); paragraph (2) was added by regulation 2(6)(*c*) of [S.R. 1997 No. 155](https://www.legislation.gov.uk/nisr/1997/155)
 
-[^key-287fbc433bbdf484b0eba53f7010132c]: Commencement: Reg. 4 in operation at 12.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/150/regulation/1/1)
+[^c-287fbc433bbdf484b0eba53f7010132c]: Commencement: Reg. 4 in operation at 12.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/150/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1997 No. 429](https://www.legislation.gov.uk/nisr/1997/429); to which there are amendments not relevant to these regulations

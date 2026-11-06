@@ -24,7 +24,7 @@ Article 53
 
 ### Apparatus of statutory undertakers etc. on land acquired
 
-**1.**[^key-04c425954361bc01e65b553aa43f736a] (1) Sections 271 to 274[^f00077] (extinguishment of rights of statutory undertakers etc. and power of statutory undertakers etc. to remove or re-site apparatus) of the 1990 Act apply in relation to any land acquired or appropriated by the Agency under this Order subject to the following provisions of this paragraph; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282[^f00078], which provide for the payment of compensation) have effect accordingly.
+**1.**[^c-04c425954361bc01e65b553aa43f736a] (1) Sections 271 to 274[^f00077] (extinguishment of rights of statutory undertakers etc. and power of statutory undertakers etc. to remove or re-site apparatus) of the 1990 Act apply in relation to any land acquired or appropriated by the Agency under this Order subject to the following provisions of this paragraph; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282[^f00078], which provide for the payment of compensation) have effect accordingly.
 
 (2) In the provisions of the 1990 Act, as applied by sub-paragraph (1), references to the appropriate Minister are references to the Secretary of State.
 
@@ -46,7 +46,7 @@ is entitled to recover from the Agency compensation in respect of expenditure re
 
 ## Annotations
 
-[^key-04c425954361bc01e65b553aa43f736a]: Commencement: Sch. 6 para. 1 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-04c425954361bc01e65b553aa43f736a]: Commencement: Sch. 6 para. 1 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00077]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 

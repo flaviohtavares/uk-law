@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Effect of extension on authorisation where authorised measure unused etc[^key-f8a55822fe436c997c4234d867cf0fe2]
+## 44. Effect of extension on authorisation where authorised measure unused etc[^c-f8a55822fe436c997c4234d867cf0fe2]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8a55822fe436c997c4234d867cf0fe2]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2016/18/section/44) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-f8a55822fe436c997c4234d867cf0fe2]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2016/18/section/44) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

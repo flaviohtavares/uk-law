@@ -40,7 +40,7 @@ summary: ''
 - “executive member” is to be read with paragraph 1 of Schedule 1;
 - “**function**” means power or duty;
 - “**land**” includes corporeal or incorporeal hereditaments of any tenure and references to acquiring or disposing of land are to be read with subsections (3) and (4);
-- “[^key-d4b44024cfb1b077e0ae4f7120437701]**lay residentiary canon**” has the meaning given in section 14A(2);
+- “[^c-d4b44024cfb1b077e0ae4f7120437701]**lay residentiary canon**” has the meaning given in section 14A(2);
 - “non-executive member” is to be read with paragraph 1 of Schedule 1;
 - “original appointment date” under the Cathedrals Measure 1999, in relation to a cathedral, means the date appointed in the case of that cathedral under section 38(2) of that Measure (and referred to in that Measure as “the relevant date”);
 - “**permanent endowment**”, in relation to a cathedral, is to be read with section 353(3) of the Charities Act 2011;
@@ -71,6 +71,6 @@ summary: ''
 
 [^c24566021]: Commencement: [S. 45](https://www.legislation.gov.uk/ukcm/2021/2/section/45) in force at Royal Assent for specified purposes see [s. 53(1)(b)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/1/b)
 
-[^key-d4b44024cfb1b077e0ae4f7120437701]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/45/1) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/25)
+[^c-d4b44024cfb1b077e0ae4f7120437701]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/45/1) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/25)
 
 [^M_F_1f341302-0f35-4a3c-a642-793f44a66527]: Textual amendment: S. 45(7) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukcm/2024/1/schedule/2/paragraph/6)

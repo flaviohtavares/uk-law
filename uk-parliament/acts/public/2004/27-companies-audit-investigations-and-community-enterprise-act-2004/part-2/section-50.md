@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Petition for winding up[^key-d2fa10419d4fee74131236b08f42872f]
+## 50. Petition for winding up[^c-d2fa10419d4fee74131236b08f42872f]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2fa10419d4fee74131236b08f42872f]: Commencement: S. 50 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-d2fa10419d4fee74131236b08f42872f]: Commencement: S. 50 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)

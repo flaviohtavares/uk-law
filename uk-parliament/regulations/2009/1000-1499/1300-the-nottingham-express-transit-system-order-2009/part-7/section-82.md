@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Arbitration[^key-76f37138adad9b46f9839f51566dad3f]
+## 82. Arbitration[^c-76f37138adad9b46f9839f51566dad3f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Except where otherwise expressly provided for in this Order and unless otherwise
 
 ## Annotations
 
-[^key-76f37138adad9b46f9839f51566dad3f]: Commencement: Art. 82 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-76f37138adad9b46f9839f51566dad3f]: Commencement: Art. 82 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

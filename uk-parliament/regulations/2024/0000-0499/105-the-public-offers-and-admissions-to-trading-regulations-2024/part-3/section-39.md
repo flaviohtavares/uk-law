@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Public censure[^key-6933aead83a34841f510becdd7552e63]
+## 39. Public censure[^c-6933aead83a34841f510becdd7552e63]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ is failing or has failed to comply with the person’s obligations under an appl
 
 ## Annotations
 
-[^key-6933aead83a34841f510becdd7552e63]: Commencement: Reg. 39 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-6933aead83a34841f510becdd7552e63]: Commencement: Reg. 39 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

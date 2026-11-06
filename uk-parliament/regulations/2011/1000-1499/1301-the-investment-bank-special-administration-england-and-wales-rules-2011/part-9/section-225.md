@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 225. Principal court rules and practice to apply[^key-f48f2188a4aec9ed21f6ec283f04c69a]
+## 225. Principal court rules and practice to apply[^c-f48f2188a4aec9ed21f6ec283f04c69a]
 
 *Extent: E+W*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f48f2188a4aec9ed21f6ec283f04c69a]: Commencement: [Rule 225](https://www.legislation.gov.uk/uksi/2011/1301/rule/225) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-f48f2188a4aec9ed21f6ec283f04c69a]: Commencement: [Rule 225](https://www.legislation.gov.uk/uksi/2011/1301/rule/225) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
 [^f01000]: Footnote: (a)
 

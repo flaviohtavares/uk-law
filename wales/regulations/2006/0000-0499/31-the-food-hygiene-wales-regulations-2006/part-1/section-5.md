@@ -47,7 +47,7 @@ the food authority in whose area the collection centre or tannery concerned is s
 
 (5) The Agency must enforce and execute these Regulations in relation to the matters regulated by Schedule 6 in so far as it applies in relation to raw cows' milk intended for direct human consumption.
 
-(6)[^key-0c335b3c4f43e5e49f7371d2374d11da] In this regulation—
+(6)[^c-0c335b3c4f43e5e49f7371d2374d11da] In this regulation—
 
 - “cutting plant” (“*safle torri*”) means an establishment which is used for boning and/or cutting up fresh meat for placing on the market and which is approved or conditionally approved under Article 148 of Regulation 2017/625;
 - “game-handling establishment” (“*sefydliad trin anifeiliaid hela*”) means an establishment in which game and game meat obtained after hunting are prepared for placing on the market and which is approved or conditionally approved under Article 148 of Regulation 2017/625;
@@ -55,4 +55,4 @@ the food authority in whose area the collection centre or tannery concerned is s
 
 ## Annotations
 
-[^key-0c335b3c4f43e5e49f7371d2374d11da]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/wsi/2006/31/regulation/5/6) substituted (14.12.2019) by [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/1), [5](https://www.legislation.gov.uk/wsi/2019/1482/regulation/5)
+[^c-0c335b3c4f43e5e49f7371d2374d11da]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/wsi/2006/31/regulation/5/6) substituted (14.12.2019) by [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/1), [5](https://www.legislation.gov.uk/wsi/2019/1482/regulation/5)

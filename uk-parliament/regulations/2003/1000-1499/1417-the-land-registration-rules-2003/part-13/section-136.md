@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 136. Application that the registrar designate a document an exempt information document[^key-7d3c86903aaa609445e5e3c4ea6ff889]
+## 136. Application that the registrar designate a document an exempt information document[^c-7d3c86903aaa609445e5e3c4ea6ff889]
 
 *Extent: E+W*
 
 (1) A person may apply for the registrar to designate a relevant document an exempt information document if he claims that the document contains prejudicial information.
 
-(2)[^key-93b21d805b07c111393aa14e884343de] Subject to rule 132(1), an application under paragraph (1) must be made in Form EX1 and EX1A and include a copy of the relevant document which—
+(2)[^c-93b21d805b07c111393aa14e884343de] Subject to rule 132(1), an application under paragraph (1) must be made in Form EX1 and EX1A and include a copy of the relevant document which—
 
 - (a) excludes the prejudicial information,
 - (b) includes the words “excluded information” where the prejudicial information has been excluded, and
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d3c86903aaa609445e5e3c4ea6ff889]: Modification: Rule 136 applied (with modifications) (27.9.2004) by [The Commonhold (Land Registration) Rules 2004 (S.I. 2004/1830)](https://www.legislation.gov.uk/uksi/2004/1830), [rules 1](https://www.legislation.gov.uk/uksi/2004/1830/rule/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2004/1830/rule/3/3/c)
+[^c-7d3c86903aaa609445e5e3c4ea6ff889]: Modification: Rule 136 applied (with modifications) (27.9.2004) by [The Commonhold (Land Registration) Rules 2004 (S.I. 2004/1830)](https://www.legislation.gov.uk/uksi/2004/1830), [rules 1](https://www.legislation.gov.uk/uksi/2004/1830/rule/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2004/1830/rule/3/3/c)
 
-[^key-93b21d805b07c111393aa14e884343de]: Textual amendment: Rule 136(2) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/48) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-93b21d805b07c111393aa14e884343de]: Textual amendment: Rule 136(2) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/48) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

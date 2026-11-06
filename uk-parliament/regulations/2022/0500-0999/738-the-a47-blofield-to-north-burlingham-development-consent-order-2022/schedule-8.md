@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — REMOVAL OF HEDGEROWS[^key-cd58911fe333a17662b25e118273770d]
+## SCHEDULE 8 — REMOVAL OF HEDGEROWS[^c-cd58911fe333a17662b25e118273770d]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ Article 39
 
 ## Annotations
 
-[^key-cd58911fe333a17662b25e118273770d]: Commencement: Sch. 8 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-cd58911fe333a17662b25e118273770d]: Commencement: Sch. 8 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)

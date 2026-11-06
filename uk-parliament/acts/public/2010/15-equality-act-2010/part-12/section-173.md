@@ -28,7 +28,7 @@ summary: ''
   - (b) a dog which has been trained to assist a deaf person;
   - (c) a dog which has been trained by a prescribed charity to assist a disabled person who has a disability that consists of epilepsy or otherwise affects the person's mobility, manual dexterity, physical co-ordination or ability to lift, carry or otherwise move everyday objects;
   - (d) a dog of a prescribed category which has been trained to assist a disabled person who has a disability (other than one falling within paragraph (c)) of a prescribed kind;
-- “[^key-752007afc4e40ad2e5675a2d05977f8f]**operator**”, in relation to a private hire vehicle—
+- “[^c-752007afc4e40ad2e5675a2d05977f8f]**operator**”, in relation to a private hire vehicle—
   - (a) means a person who holds a licence under—
     - (i) section 55 of the Local Government (Miscellaneous Provisions) Act 1976,
     - (ii) section 3 of the Private Hire Vehicles (London) Act 1998, or
@@ -42,7 +42,7 @@ summary: ''
   - (b) in sections 164A to 167A, also includes a private hire car licensed under section 10 of the Civic Government (Scotland) Act 1982;
 - “taxi”—
   - (a) means a vehicle which is licensed under section 37 of the Town Police Clauses Act 1847 or section 6 of the Metropolitan Public Carriage Act 1869, and
-  - (b) in sections 162 and 164A[^key-f3534b07f4a5460ff2f69ded75017c2f] to 167, also includes a taxi licensed under section 10 of the Civic Government (Scotland) Act 1982,
+  - (b) in sections 162 and 164A[^c-f3534b07f4a5460ff2f69ded75017c2f] to 167, also includes a taxi licensed under section 10 of the Civic Government (Scotland) Act 1982,
 
   but does not include a vehicle drawn by a horse or other animal;
 - “**taxi accessibility regulations**” has the meaning given by section 160(1).
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-752007afc4e40ad2e5675a2d05977f8f]: Textual amendment: Words in [s. 173(1)](https://www.legislation.gov.uk/ukpga/2010/15/section/173/1) inserted (28.6.2022) by [Taxis and Private Hire Vehicles (Disabled Persons) Act 2022 (c. 29)](https://www.legislation.gov.uk/ukpga/2022/29), [ss. 5(5)(a)](https://www.legislation.gov.uk/ukpga/2022/29/section/5/5/a), [6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
+[^c-752007afc4e40ad2e5675a2d05977f8f]: Textual amendment: Words in [s. 173(1)](https://www.legislation.gov.uk/ukpga/2010/15/section/173/1) inserted (28.6.2022) by [Taxis and Private Hire Vehicles (Disabled Persons) Act 2022 (c. 29)](https://www.legislation.gov.uk/ukpga/2022/29), [ss. 5(5)(a)](https://www.legislation.gov.uk/ukpga/2022/29/section/5/5/a), [6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
 
-[^key-f3534b07f4a5460ff2f69ded75017c2f]: Textual amendment: Word in [s. 173(1)](https://www.legislation.gov.uk/ukpga/2010/15/section/173/1) substituted (28.6.2022) by [Taxis and Private Hire Vehicles (Disabled Persons) Act 2022 (c. 29)](https://www.legislation.gov.uk/ukpga/2022/29), [ss. 5(5)(b)](https://www.legislation.gov.uk/ukpga/2022/29/section/5/5/b), [6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
+[^c-f3534b07f4a5460ff2f69ded75017c2f]: Textual amendment: Word in [s. 173(1)](https://www.legislation.gov.uk/ukpga/2010/15/section/173/1) substituted (28.6.2022) by [Taxis and Private Hire Vehicles (Disabled Persons) Act 2022 (c. 29)](https://www.legislation.gov.uk/ukpga/2022/29), [ss. 5(5)(b)](https://www.legislation.gov.uk/ukpga/2022/29/section/5/5/b), [6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)

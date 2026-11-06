@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Power to test, and charge for testing, certain substances[^key-8419bee435a3fa112849c9e5b7f36ed8]
+## 107. Power to test, and charge for testing, certain substances[^c-8419bee435a3fa112849c9e5b7f36ed8]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8419bee435a3fa112849c9e5b7f36ed8]: Commencement: S. 107 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-8419bee435a3fa112849c9e5b7f36ed8]: Commencement: S. 107 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

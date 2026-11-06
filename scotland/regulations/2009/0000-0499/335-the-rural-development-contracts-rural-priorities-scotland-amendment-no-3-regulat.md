@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Rural Development Contracts (Rural Priorities) (Scotland) Amendment (No. 3) Regulations 2009 (revoked)[^key-4118fdc7a31822719636a6caa82d8bbd]
+The Rural Development Contracts (Rural Priorities) (Scotland) Amendment (No. 3) Regulations 2009 (revoked)[^c-4118fdc7a31822719636a6caa82d8bbd]
 
 Made
 
@@ -46,56 +46,56 @@ Coming into force
 
 7th November 2009
 
-[^key-4118fdc7a31822719636a6caa82d8bbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4118fdc7a31822719636a6caa82d8bbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4118fdc7a31822719636a6caa82d8bbd]
+## 1. Citation and commencement[^c-4118fdc7a31822719636a6caa82d8bbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Rural Development Contracts (Rural Priorities) (Scotland) Regulations 2008[^key-4118fdc7a31822719636a6caa82d8bbd]
+## 2. Amendment of the Rural Development Contracts (Rural Priorities) (Scotland) Regulations 2008[^c-4118fdc7a31822719636a6caa82d8bbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to regulation 2[^key-4118fdc7a31822719636a6caa82d8bbd]
+## 3. Amendment to regulation 2[^c-4118fdc7a31822719636a6caa82d8bbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to regulation 7[^key-4118fdc7a31822719636a6caa82d8bbd]
+## 4. Amendment to regulation 7[^c-4118fdc7a31822719636a6caa82d8bbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to regulation 9[^key-4118fdc7a31822719636a6caa82d8bbd]
+## 5. Amendment to regulation 9[^c-4118fdc7a31822719636a6caa82d8bbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment to regulation 12[^key-4118fdc7a31822719636a6caa82d8bbd]
+## 6. Amendment to regulation 12[^c-4118fdc7a31822719636a6caa82d8bbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment to Schedule 1[^key-4118fdc7a31822719636a6caa82d8bbd]
+## 7. Amendment to Schedule 1[^c-4118fdc7a31822719636a6caa82d8bbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment to Schedule 2[^key-4118fdc7a31822719636a6caa82d8bbd]
+## 8. Amendment to Schedule 2[^c-4118fdc7a31822719636a6caa82d8bbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment to Schedule 3[^key-4118fdc7a31822719636a6caa82d8bbd]
+## 9. Amendment to Schedule 3[^c-4118fdc7a31822719636a6caa82d8bbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Revocation[^key-4118fdc7a31822719636a6caa82d8bbd]
+## 10. Revocation[^c-4118fdc7a31822719636a6caa82d8bbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4118fdc7a31822719636a6caa82d8bbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4118fdc7a31822719636a6caa82d8bbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4118fdc7a31822719636a6caa82d8bbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4118fdc7a31822719636a6caa82d8bbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4118fdc7a31822719636a6caa82d8bbd]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))
+[^c-4118fdc7a31822719636a6caa82d8bbd]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))

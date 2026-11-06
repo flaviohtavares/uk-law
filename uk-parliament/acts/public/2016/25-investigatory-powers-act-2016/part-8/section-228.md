@@ -38,7 +38,7 @@ summary: ''
 - (c) the Commissioner's disqualification undertaking is accepted under section 7 or 8 of the Company Directors Disqualification Act 1986 or under the Company Directors Disqualification (Northern Ireland) Order 2002, or
 - (d) the Commissioner is convicted in the United Kingdom, the Channel Islands or the Isle of Man of an offence and receives a sentence of imprisonment (whether suspended or not).
 
-(6)[^key-f41bc63502c0c7b8ee44ec95db09906c] A person ceases to be a Deputy Investigatory Powers Commissioner if—
+(6)[^c-f41bc63502c0c7b8ee44ec95db09906c] A person ceases to be a Deputy Investigatory Powers Commissioner if—
 
 - (a) the person ceases to be a Judicial Commissioner,
 - (b) the Investigatory Powers Commissioner removes the person from being a Deputy Investigatory Powers Commissioner, or
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f41bc63502c0c7b8ee44ec95db09906c]: Textual amendment: [S. 228(6)](https://www.legislation.gov.uk/ukpga/2016/25/section/228/6) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/2024/9/section/7/3), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/g)
+[^c-f41bc63502c0c7b8ee44ec95db09906c]: Textual amendment: [S. 228(6)](https://www.legislation.gov.uk/ukpga/2016/25/section/228/6) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/2024/9/section/7/3), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/g)

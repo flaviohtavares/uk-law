@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Exemptions from disclosure[^key-9ed55b3eff763ab35bd01cae43c66030]
+## 25. Exemptions from disclosure[^c-9ed55b3eff763ab35bd01cae43c66030]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ed55b3eff763ab35bd01cae43c66030]: Commencement: Reg. 25 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-9ed55b3eff763ab35bd01cae43c66030]: Commencement: Reg. 25 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

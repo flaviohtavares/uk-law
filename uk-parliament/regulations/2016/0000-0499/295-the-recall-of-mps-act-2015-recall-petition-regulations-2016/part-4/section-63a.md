@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63A. Additional requirements for applications for the appointment of a proxy on grounds relating to identification: England and Wales and Scotland[^key-00cef6c3eb2a6140abfde58b3acc05c5]
+## 63A. Additional requirements for applications for the appointment of a proxy on grounds relating to identification: England and Wales and Scotland[^c-00cef6c3eb2a6140abfde58b3acc05c5]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00cef6c3eb2a6140abfde58b3acc05c5]: Textual amendment: Reg. 63A inserted (E.W.S.) (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [86](https://www.legislation.gov.uk/uksi/2022/1382/regulation/86) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-00cef6c3eb2a6140abfde58b3acc05c5]: Textual amendment: Reg. 63A inserted (E.W.S.) (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [86](https://www.legislation.gov.uk/uksi/2022/1382/regulation/86) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))

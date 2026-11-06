@@ -22,7 +22,7 @@ summary: ''
 
 Article 18
 
-### PART 1 — TEMPORARY[^key-a2b4e6e0519cdfd303704d6d7a90aca2]
+### PART 1 — TEMPORARY[^c-a2b4e6e0519cdfd303704d6d7a90aca2]
 
 <table>
 <thead>
@@ -82,7 +82,7 @@ Article 18
 </tbody>
 </table>
 
-### PART 2 — PERMANENT[^key-2b60088742727656eca528063f5dcb0c]
+### PART 2 — PERMANENT[^c-2b60088742727656eca528063f5dcb0c]
 
 <table>
 <thead>
@@ -101,6 +101,6 @@ Article 18
 
 ## Annotations
 
-[^key-a2b4e6e0519cdfd303704d6d7a90aca2]: Commencement: Sch. 10 Pt. 1 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-a2b4e6e0519cdfd303704d6d7a90aca2]: Commencement: Sch. 10 Pt. 1 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-2b60088742727656eca528063f5dcb0c]: Commencement: Sch. 10 Pt. 2 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-2b60088742727656eca528063f5dcb0c]: Commencement: Sch. 10 Pt. 2 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40A. Recommendations by healthcare professionals – coronavirus[^key-ecf15dc9ef9af6177249a52f803197ea]
+## 40A. Recommendations by healthcare professionals – coronavirus[^c-ecf15dc9ef9af6177249a52f803197ea]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecf15dc9ef9af6177249a52f803197ea]: Textual amendment: [Rule 40A](https://www.legislation.gov.uk/ssi/2011/331/rule/40A) inserted (7.4.2020 at 2.15 p.m.) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2020 (S.S.I. 2020/122)](https://www.legislation.gov.uk/ssi/2020/122), [rules 1](https://www.legislation.gov.uk/ssi/2020/122/rule/1), [2(9)](https://www.legislation.gov.uk/ssi/2020/122/rule/2/9)
+[^c-ecf15dc9ef9af6177249a52f803197ea]: Textual amendment: [Rule 40A](https://www.legislation.gov.uk/ssi/2011/331/rule/40A) inserted (7.4.2020 at 2.15 p.m.) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2020 (S.S.I. 2020/122)](https://www.legislation.gov.uk/ssi/2020/122), [rules 1](https://www.legislation.gov.uk/ssi/2020/122/rule/1), [2(9)](https://www.legislation.gov.uk/ssi/2020/122/rule/2/9)

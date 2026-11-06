@@ -34,7 +34,7 @@ Proceeds Of Crime, England And Wales
 
 Proceeds Of Crime, Northern Ireland
 
-The Proceeds of Crime Act 2002 (Investigations: Code of Practice) (England and Wales and Northern Ireland) Order 2016 (revoked)[^key-12d2e916ea7d23381bdf84f50c2fc5bb]
+The Proceeds of Crime Act 2002 (Investigations: Code of Practice) (England and Wales and Northern Ireland) Order 2016 (revoked)[^c-12d2e916ea7d23381bdf84f50c2fc5bb]
 
 Made
 
@@ -44,28 +44,28 @@ Coming into force
 
 1st March 2016
 
-[^key-12d2e916ea7d23381bdf84f50c2fc5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12d2e916ea7d23381bdf84f50c2fc5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-12d2e916ea7d23381bdf84f50c2fc5bb]
+## 1. Citation and commencement[^c-12d2e916ea7d23381bdf84f50c2fc5bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revised Code of Practice[^key-12d2e916ea7d23381bdf84f50c2fc5bb]
+## 2. Revised Code of Practice[^c-12d2e916ea7d23381bdf84f50c2fc5bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-12d2e916ea7d23381bdf84f50c2fc5bb]
+## 3. Revocations[^c-12d2e916ea7d23381bdf84f50c2fc5bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-12d2e916ea7d23381bdf84f50c2fc5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12d2e916ea7d23381bdf84f50c2fc5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-12d2e916ea7d23381bdf84f50c2fc5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12d2e916ea7d23381bdf84f50c2fc5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-12d2e916ea7d23381bdf84f50c2fc5bb]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/209) revoked (31.1.2018) by [The Proceeds of Crime Act 2002 (Investigations: Code of Practice) Order 2018 (S.I. 2018/84)](https://www.legislation.gov.uk/uksi/2018/84), [arts. 1](https://www.legislation.gov.uk/uksi/2018/84/article/1), [3](https://www.legislation.gov.uk/uksi/2018/84/article/3)
+[^c-12d2e916ea7d23381bdf84f50c2fc5bb]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/209) revoked (31.1.2018) by [The Proceeds of Crime Act 2002 (Investigations: Code of Practice) Order 2018 (S.I. 2018/84)](https://www.legislation.gov.uk/uksi/2018/84), [arts. 1](https://www.legislation.gov.uk/uksi/2018/84/article/1), [3](https://www.legislation.gov.uk/uksi/2018/84/article/3)

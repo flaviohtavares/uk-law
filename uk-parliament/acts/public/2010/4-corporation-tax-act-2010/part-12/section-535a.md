@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 535A. Gains: disposals of rights or interests in UK property rich companies[^key-470971560d586f2a60f68ad09e092f14]
+## 535A. Gains: disposals of rights or interests in UK property rich companies[^c-470971560d586f2a60f68ad09e092f14]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,12 +47,12 @@ summary: ''
 - (a) to which paragraph 8 of Schedule 5AAA to TCGA 1992 applies, but
 - (b) in relation to which an election under that paragraph has not been made.
 
-(7A)[^key-f90f41b8308d982863d2a0b42de0c8a5] Any such reference also includes the disposal of a right or interest in a fund (a “relevant fund”) that—
+(7A)[^c-f90f41b8308d982863d2a0b42de0c8a5] Any such reference also includes the disposal of a right or interest in a fund (a “relevant fund”) that—
 
-- (a) is an authorised contractual scheme (within the meaning given by section 237(3) of FISMA 2000) which is a co-ownership scheme (within the meaning given by section 235A of that Act) , or is a Reserved Investor Fund (Contractual Scheme) (within the meaning of section 20 of F(No.2)A 2024)[^key-accc62d7cd50956f4c617a213d8f8ec6], and
+- (a) is an authorised contractual scheme (within the meaning given by section 237(3) of FISMA 2000) which is a co-ownership scheme (within the meaning given by section 235A of that Act) , or is a Reserved Investor Fund (Contractual Scheme) (within the meaning of section 20 of F(No.2)A 2024)[^c-accc62d7cd50956f4c617a213d8f8ec6], and
 - (b) is UK property rich as determined in accordance with paragraph 3 of Schedule 5AAA to TCGA (UK property rich collective investment vehicles etc).
 
-(8) In the case of a disposal which is, as a result of subsection (7) or (7A)[^key-84285099db92b3fc97e96446b31017c3], a disposal of a right or interest in B, the value of B’s relevant PRB assets for the purposes of subsection (5)(b) is taken to be—
+(8) In the case of a disposal which is, as a result of subsection (7) or (7A)[^c-84285099db92b3fc97e96446b31017c3], a disposal of a right or interest in B, the value of B’s relevant PRB assets for the purposes of subsection (5)(b) is taken to be—
 
 - (a) the value of B’s assets that are used for the purposes of UK property rental business, plus
 - (b) the value of B’s assets deriving indirectly from assets held by a relevant fund that are used for the purposes of UK property rental business.
@@ -68,10 +68,10 @@ summary: ''
 
 ## Annotations
 
-[^key-470971560d586f2a60f68ad09e092f14]: Textual amendment: Ss. 535A, 535B inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 115](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/115)
+[^c-470971560d586f2a60f68ad09e092f14]: Textual amendment: Ss. 535A, 535B inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 115](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/115)
 
-[^key-f90f41b8308d982863d2a0b42de0c8a5]: Textual amendment: [S. 535A(7A)](https://www.legislation.gov.uk/ukpga/2010/4/section/535A/7A) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 9(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/9/2)
+[^c-f90f41b8308d982863d2a0b42de0c8a5]: Textual amendment: [S. 535A(7A)](https://www.legislation.gov.uk/ukpga/2010/4/section/535A/7A) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 9(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/9/2)
 
-[^key-accc62d7cd50956f4c617a213d8f8ec6]: Textual amendment: Words in [s. 535A(7A)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/535A/7A/a) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [61(3)](https://www.legislation.gov.uk/uksi/2025/200/regulation/61/3) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-accc62d7cd50956f4c617a213d8f8ec6]: Textual amendment: Words in [s. 535A(7A)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/535A/7A/a) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [61(3)](https://www.legislation.gov.uk/uksi/2025/200/regulation/61/3) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-84285099db92b3fc97e96446b31017c3]: Textual amendment: Words in [s. 535A(8)](https://www.legislation.gov.uk/ukpga/2010/4/section/535A/8) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 9(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/9/3)
+[^c-84285099db92b3fc97e96446b31017c3]: Textual amendment: Words in [s. 535A(8)](https://www.legislation.gov.uk/ukpga/2010/4/section/535A/8) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 9(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/9/3)

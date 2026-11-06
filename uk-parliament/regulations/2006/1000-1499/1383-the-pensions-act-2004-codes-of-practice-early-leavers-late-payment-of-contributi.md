@@ -33,28 +33,28 @@ This Statutory Instrument has been printed to correct an error in the SI of the 
 
 PENSIONS
 
-The Pensions Act 2004 (Codes of Practice) (Early Leavers, Late Payment of Contributions and Trustee Knowledge and Understanding) Appointed Day Order 2006 (revoked)[^key-dca3540c52ccaff660296ba5e69d9f8f]
+The Pensions Act 2004 (Codes of Practice) (Early Leavers, Late Payment of Contributions and Trustee Knowledge and Understanding) Appointed Day Order 2006 (revoked)[^c-dca3540c52ccaff660296ba5e69d9f8f]
 
 Made
 
 22nd May 2006
 
-[^key-dca3540c52ccaff660296ba5e69d9f8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dca3540c52ccaff660296ba5e69d9f8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-dca3540c52ccaff660296ba5e69d9f8f]
+## 1. Citation[^c-dca3540c52ccaff660296ba5e69d9f8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed day[^key-dca3540c52ccaff660296ba5e69d9f8f]
+## 2. Appointed day[^c-dca3540c52ccaff660296ba5e69d9f8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dca3540c52ccaff660296ba5e69d9f8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dca3540c52ccaff660296ba5e69d9f8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dca3540c52ccaff660296ba5e69d9f8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dca3540c52ccaff660296ba5e69d9f8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dca3540c52ccaff660296ba5e69d9f8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/1383) revoked (28.3.2024) by [The Pensions Act 2004 (General Code of Practice) (Appointed Day, Amendment and Revocations) Order 2024 (S.I. 2024/431)](https://www.legislation.gov.uk/uksi/2024/431), [art. 4(a)](https://www.legislation.gov.uk/uksi/2024/431/article/4/a)
+[^c-dca3540c52ccaff660296ba5e69d9f8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/1383) revoked (28.3.2024) by [The Pensions Act 2004 (General Code of Practice) (Appointed Day, Amendment and Revocations) Order 2024 (S.I. 2024/431)](https://www.legislation.gov.uk/uksi/2024/431), [art. 4(a)](https://www.legislation.gov.uk/uksi/2024/431/article/4/a)

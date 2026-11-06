@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Fees for certain services[^key-a5f168dadc3df71d7c5b98aadc0cce74]
+## 31. Fees for certain services[^c-a5f168dadc3df71d7c5b98aadc0cce74]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5f168dadc3df71d7c5b98aadc0cce74]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2025/34/section/31) in force at 18.2.2026, see [s. 118(1)(r)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/r)
+[^c-a5f168dadc3df71d7c5b98aadc0cce74]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2025/34/section/31) in force at 18.2.2026, see [s. 118(1)(r)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/r)

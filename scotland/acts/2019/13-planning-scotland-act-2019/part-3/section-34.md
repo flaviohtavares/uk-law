@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Planning obligations: financial agreements[^key-d1e0cf9c757d97cb746b5b61963b939a]
+## 34. Planning obligations: financial agreements[^c-d1e0cf9c757d97cb746b5b61963b939a]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1e0cf9c757d97cb746b5b61963b939a]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2019/13/section/34) in force at 18.11.2020 by [S.S.I. 2020/294](https://www.legislation.gov.uk/ssi/2020/294), [reg. 2](https://www.legislation.gov.uk/ssi/2020/294/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/294/regulation/3))
+[^c-d1e0cf9c757d97cb746b5b61963b939a]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2019/13/section/34) in force at 18.11.2020 by [S.S.I. 2020/294](https://www.legislation.gov.uk/ssi/2020/294), [reg. 2](https://www.legislation.gov.uk/ssi/2020/294/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/294/regulation/3))

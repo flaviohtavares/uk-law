@@ -31,7 +31,7 @@ summary: ''
 
 Road Traffic And Vehicles
 
-The Taxis (Ballymena) Bye-Laws (Northern Ireland) 2009 (revoked)[^key-ea82485466b8ca66ee1e1d23faaa4ed8]
+The Taxis (Ballymena) Bye-Laws (Northern Ireland) 2009 (revoked)[^c-ea82485466b8ca66ee1e1d23faaa4ed8]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 1st June 2009
 
-[^key-ea82485466b8ca66ee1e1d23faaa4ed8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea82485466b8ca66ee1e1d23faaa4ed8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-ea82485466b8ca66ee1e1d23faaa4ed8]
+## 1. Citation, commencement and interpretation[^c-ea82485466b8ca66ee1e1d23faaa4ed8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Location and number of taxis[^key-ea82485466b8ca66ee1e1d23faaa4ed8]
+## 2. Location and number of taxis[^c-ea82485466b8ca66ee1e1d23faaa4ed8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Use of stands or starting places[^key-ea82485466b8ca66ee1e1d23faaa4ed8]
+## 3. Use of stands or starting places[^c-ea82485466b8ca66ee1e1d23faaa4ed8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea82485466b8ca66ee1e1d23faaa4ed8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea82485466b8ca66ee1e1d23faaa4ed8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-ea82485466b8ca66ee1e1d23faaa4ed8]
+## SCHEDULE[^c-ea82485466b8ca66ee1e1d23faaa4ed8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ea82485466b8ca66ee1e1d23faaa4ed8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea82485466b8ca66ee1e1d23faaa4ed8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ea82485466b8ca66ee1e1d23faaa4ed8]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2009/187) revoked (10.11.2022) by [The Taxis (Ballymena) Order (Northern Ireland) 2022 (S.R. 2022/250)](https://www.legislation.gov.uk/nisr/2022/250), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2022/250/article/1/1), [4](https://www.legislation.gov.uk/nisr/2022/250/article/4)
+[^c-ea82485466b8ca66ee1e1d23faaa4ed8]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2009/187) revoked (10.11.2022) by [The Taxis (Ballymena) Order (Northern Ireland) 2022 (S.R. 2022/250)](https://www.legislation.gov.uk/nisr/2022/250), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2022/250/article/1/1), [4](https://www.legislation.gov.uk/nisr/2022/250/article/4)

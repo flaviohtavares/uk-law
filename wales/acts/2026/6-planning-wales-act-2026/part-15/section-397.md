@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 397. Powers to make provision about forms for applications and appeals[^key-89972a8e48423e1295325405f6231659]
+## 397. Powers to make provision about forms for applications and appeals[^c-89972a8e48423e1295325405f6231659]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89972a8e48423e1295325405f6231659]: Commencement: S. 397 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-89972a8e48423e1295325405f6231659]: Commencement: S. 397 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

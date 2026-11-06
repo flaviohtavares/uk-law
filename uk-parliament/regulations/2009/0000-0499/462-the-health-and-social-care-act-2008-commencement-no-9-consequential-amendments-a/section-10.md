@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Functions under the 1983 Act[^key-4327b67fc0e9faa8f9c5ef8e590842f3]
+## 10. Functions under the 1983 Act[^c-4327b67fc0e9faa8f9c5ef8e590842f3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 4 which makes transitional provision in relation to functions under the
 
 ## Annotations
 
-[^key-4327b67fc0e9faa8f9c5ef8e590842f3]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2009/462/article/10) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
+[^c-4327b67fc0e9faa8f9c5ef8e590842f3]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2009/462/article/10) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)

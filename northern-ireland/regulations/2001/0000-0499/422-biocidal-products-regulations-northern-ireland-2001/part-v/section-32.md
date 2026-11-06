@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Samples, models and drafts[^key-490ebbd2b2074cc3f7e6168bd223e84a]
+## 32. Samples, models and drafts[^c-490ebbd2b2074cc3f7e6168bd223e84a]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ When required to do so by the Executive, a person who has submitted an applicati
 
 ## Annotations
 
-[^key-490ebbd2b2074cc3f7e6168bd223e84a]: Commencement: Reg. 32 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-490ebbd2b2074cc3f7e6168bd223e84a]: Commencement: Reg. 32 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

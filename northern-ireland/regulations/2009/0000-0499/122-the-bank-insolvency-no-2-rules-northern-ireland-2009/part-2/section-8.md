@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Service of application[^key-cf9cc9a4df9f1ec648913093743caf4f]
+## 8. Service of application[^c-cf9cc9a4df9f1ec648913093743caf4f]
 
 *Extent: N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cf9cc9a4df9f1ec648913093743caf4f]: Commencement: Rule 8 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-cf9cc9a4df9f1ec648913093743caf4f]: Commencement: Rule 8 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
 
 [^f00011]: Footnote: Article 21 of the Companies Order is repealed on 1 October 2009
 

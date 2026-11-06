@@ -46,8 +46,8 @@ summary: ''
 - (a) “**structure**” means a fixed structure of any kind, other than a building (as defined by section 21(3)), and
 - (b) “**land**” does not include buildings or other structures, but otherwise has the meaning given in Schedule 1 to the Interpretation Act 1978 (c. 30).
 
-(4) This section is subject to section 23 (but any reference in list C in subsection (4) of that section to “[^key-6f8941e53fb6a64f00c48a4f95de01d5]**plant**” does not include anything where expenditure on its provision is excluded by this section).
+(4) This section is subject to section 23 (but any reference in list C in subsection (4) of that section to “[^c-6f8941e53fb6a64f00c48a4f95de01d5]**plant**” does not include anything where expenditure on its provision is excluded by this section).
 
 ## Annotations
 
-[^key-6f8941e53fb6a64f00c48a4f95de01d5]: Textual amendment: Words in s. 22(4) inserted (with effect in accordance with s. 35(3) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 35(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/35/2)
+[^c-6f8941e53fb6a64f00c48a4f95de01d5]: Textual amendment: Words in s. 22(4) inserted (with effect in accordance with s. 35(3) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 35(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/35/2)

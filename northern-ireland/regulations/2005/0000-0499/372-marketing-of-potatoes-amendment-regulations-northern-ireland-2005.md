@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-Marketing of Potatoes (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-c52dc54d3953fed332fa06078b57d650]
+Marketing of Potatoes (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-c52dc54d3953fed332fa06078b57d650]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 1st September 2005
 
-[^key-c52dc54d3953fed332fa06078b57d650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c52dc54d3953fed332fa06078b57d650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-c52dc54d3953fed332fa06078b57d650]
+## 1. Citation and Commencement[^c-c52dc54d3953fed332fa06078b57d650]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Marketing of Potatoes Regulations (Northern Ireland) 1989[^key-c52dc54d3953fed332fa06078b57d650]
+## 2. Amendment of the Marketing of Potatoes Regulations (Northern Ireland) 1989[^c-c52dc54d3953fed332fa06078b57d650]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-c52dc54d3953fed332fa06078b57d650]
+## 3. Revocation[^c-c52dc54d3953fed332fa06078b57d650]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c52dc54d3953fed332fa06078b57d650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c52dc54d3953fed332fa06078b57d650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c52dc54d3953fed332fa06078b57d650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c52dc54d3953fed332fa06078b57d650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c52dc54d3953fed332fa06078b57d650]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/372) revoked (1.9.2011) by [Marketing of Potatoes (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/223)](https://www.legislation.gov.uk/nisr/2011/223), [regs. 1](https://www.legislation.gov.uk/nisr/2011/223/regulation/1), [3](https://www.legislation.gov.uk/nisr/2011/223/regulation/3)
+[^c-c52dc54d3953fed332fa06078b57d650]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/372) revoked (1.9.2011) by [Marketing of Potatoes (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/223)](https://www.legislation.gov.uk/nisr/2011/223), [regs. 1](https://www.legislation.gov.uk/nisr/2011/223/regulation/1), [3](https://www.legislation.gov.uk/nisr/2011/223/regulation/3)

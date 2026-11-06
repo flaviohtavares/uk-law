@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139B. Power to deal with urgent cases[^key-8c8600ccae7a9b75d2393577a108c08f]
+## 139B. Power to deal with urgent cases[^c-8c8600ccae7a9b75d2393577a108c08f]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c8600ccae7a9b75d2393577a108c08f]: Textual amendment: Ss. 139A-139C inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/83) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [18](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/18))
+[^c-8c8600ccae7a9b75d2393577a108c08f]: Textual amendment: Ss. 139A-139C inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/83) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [18](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/18))

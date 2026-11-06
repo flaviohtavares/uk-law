@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 17 — CERTIFIED DOCUMENTS[^key-53517d5e436913758a379239ac68e823]
+## SCHEDULE 17 — CERTIFIED DOCUMENTS[^c-53517d5e436913758a379239ac68e823]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ Article 56
 
 ## Annotations
 
-[^key-53517d5e436913758a379239ac68e823]: Commencement: Sch. 17 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-53517d5e436913758a379239ac68e823]: Commencement: Sch. 17 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

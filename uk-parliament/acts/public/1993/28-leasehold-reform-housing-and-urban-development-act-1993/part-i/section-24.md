@@ -25,14 +25,14 @@ summary: ''
 - (a) a counter-notice under section 21 complying with the requirement set out in subsection (2)(a) of that section, or
 - (b) a further counter-notice required by or by virtue of section 22(3) or section 23(5) or (6),
 
-but any of the terms of acquisition remain in dispute at the end of the period of two months beginning with the date on which the counter-notice or further counter-notice was so given, the appropriate tribunal[^key-98798ea2add34930900eb810e57e79ca] may, on the application of either the nominee purchaser or the reversioner, determine the matters in dispute.
+but any of the terms of acquisition remain in dispute at the end of the period of two months beginning with the date on which the counter-notice or further counter-notice was so given, the appropriate tribunal[^c-98798ea2add34930900eb810e57e79ca] may, on the application of either the nominee purchaser or the reversioner, determine the matters in dispute.
 
 (2) Any application under subsection (1) must be made not later than the end of the period of six months beginning with the date on which the counter-notice or further counter-notice was given to the nominee purchaser.
 
 (3) Where—
 
 - (a) the reversioner has given the nominee purchaser such a counter-notice or further counter-notice as is mentioned in subsection (1)(a) or (b), and
-- (b) all of the terms of acquisition have been either agreed between the parties or determined by the appropriate tribunal[^key-e3d4bed63f986ba357a56c72e1089b85] under subsection (1),
+- (b) all of the terms of acquisition have been either agreed between the parties or determined by the appropriate tribunal[^c-e3d4bed63f986ba357a56c72e1089b85] under subsection (1),
 
 but a binding contract incorporating those terms has not been entered into by the end of the appropriate period specified in subsection (6), the court may, on the application of either the nominee purchaser or the reversioner, make such order under subsection (4) as it thinks fit.
 
@@ -40,7 +40,7 @@ but a binding contract incorporating those terms has not been entered into by th
 
 - (a) providing for the interests to be acquired by the nominee purchaser to be vested in him on the terms referred to in subsection (3);
 - (b) providing for those interests to be vested in him on those terms, but subject to such modifications as—
-  - (i) may have been determined by the appropriate tribunal[^key-287dad6ec4bd6e07331740b4c852b914], on the application of either the nominee purchaser or the reversioner, to be required by reason of any change in circumstances since the time when the terms were agreed or determined as mentioned in that subsection, and
+  - (i) may have been determined by the appropriate tribunal[^c-287dad6ec4bd6e07331740b4c852b914], on the application of either the nominee purchaser or the reversioner, to be required by reason of any change in circumstances since the time when the terms were agreed or determined as mentioned in that subsection, and
   - (ii) are specified in the order; or
 - (c) providing for the initial notice to be deemed to have been withdrawn at the end of the appropriate period specified in subsection (6);
 
@@ -51,7 +51,7 @@ and Schedule 5 shall have effect in relation to any such order as is mentioned i
 (6) For the purposes of this section the appropriate period is—
 
 - (a) where all of the terms of acquisition have been agreed between the parties, the period of two months beginning with the date when those terms were finally so agreed;
-- (b) where all or any of those terms have been determined by the appropriate tribunal[^key-6b0584bf632979181706575ec1c020f8] under subsection (1)—
+- (b) where all or any of those terms have been determined by the appropriate tribunal[^c-6b0584bf632979181706575ec1c020f8] under subsection (1)—
   - (i) the period of two months beginning with the date when the decision of the tribunal under that subsection becomes final, or
   - (ii) such other period as may have been fixed by the tribunal when making its determination.
 
@@ -69,10 +69,10 @@ or otherwise, and includes any such terms in respect of any interest to be acqui
 
 ## Annotations
 
-[^key-98798ea2add34930900eb810e57e79ca]: Textual amendment: Words in [s. 24(1)](https://www.legislation.gov.uk/ukpga/1993/28/section/24/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 101](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/101) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-98798ea2add34930900eb810e57e79ca]: Textual amendment: Words in [s. 24(1)](https://www.legislation.gov.uk/ukpga/1993/28/section/24/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 101](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/101) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-e3d4bed63f986ba357a56c72e1089b85]: Textual amendment: Words in [s. 24(3)(b)](https://www.legislation.gov.uk/ukpga/1993/28/section/24/3/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 101](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/101) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-e3d4bed63f986ba357a56c72e1089b85]: Textual amendment: Words in [s. 24(3)(b)](https://www.legislation.gov.uk/ukpga/1993/28/section/24/3/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 101](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/101) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-287dad6ec4bd6e07331740b4c852b914]: Textual amendment: Words in [s. 24(4)(b)(i)](https://www.legislation.gov.uk/ukpga/1993/28/section/24/4/b/i) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 101](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/101) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-287dad6ec4bd6e07331740b4c852b914]: Textual amendment: Words in [s. 24(4)(b)(i)](https://www.legislation.gov.uk/ukpga/1993/28/section/24/4/b/i) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 101](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/101) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-6b0584bf632979181706575ec1c020f8]: Textual amendment: Words in [s. 24(6)(b)](https://www.legislation.gov.uk/ukpga/1993/28/section/24/6/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 101](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/101) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-6b0584bf632979181706575ec1c020f8]: Textual amendment: Words in [s. 24(6)(b)](https://www.legislation.gov.uk/ukpga/1993/28/section/24/6/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 101](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/101) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Further modifications to the Schedule[^key-a0608ebbda978241ef160da05fd9ee52]
+## 77. Further modifications to the Schedule[^c-a0608ebbda978241ef160da05fd9ee52]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Paragraph 2 (notice of initiation of an investigation) of the Schedule has effec
 
 ## Annotations
 
-[^key-a0608ebbda978241ef160da05fd9ee52]: Commencement: Reg. 77 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-a0608ebbda978241ef160da05fd9ee52]: Commencement: Reg. 77 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

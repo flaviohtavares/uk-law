@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8A. Corporate joint committees’ well-being objectives[^key-62ab08cbf08d8dffd4ce22612cd8b121]
+## 8A. Corporate joint committees’ well-being objectives[^c-62ab08cbf08d8dffd4ce22612cd8b121]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62ab08cbf08d8dffd4ce22612cd8b121]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/anaw/2015/2/section/8A) inserted (3.12.2021) by [The Corporate Joint Committees (Amendment of the Well-being of Future Generations (Wales) Act 2015) Regulations 2021 (S.I. 2021/1360)](https://www.legislation.gov.uk/wsi/2021/1360), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1360/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/1360/regulation/2/3)
+[^c-62ab08cbf08d8dffd4ce22612cd8b121]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/anaw/2015/2/section/8A) inserted (3.12.2021) by [The Corporate Joint Committees (Amendment of the Well-being of Future Generations (Wales) Act 2015) Regulations 2021 (S.I. 2021/1360)](https://www.legislation.gov.uk/wsi/2021/1360), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1360/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/1360/regulation/2/3)

@@ -29,41 +29,41 @@ Sunday Entertainments Act 1932 (repealed)
 
 1932 c.51
 
-[^key-e87d370a2a47c021094f97acb973f05a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e87d370a2a47c021094f97acb973f05a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-e87d370a2a47c021094f97acb973f05a][^key-e87d370a2a47c021094f97acb973f05a]
-
-**May not be in force at this date. Check the source.**
-
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-e87d370a2a47c021094f97acb973f05a][^key-e87d370a2a47c021094f97acb973f05a]
+## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-e87d370a2a47c021094f97acb973f05a][^c-e87d370a2a47c021094f97acb973f05a]
 
 **May not be in force at this date. Check the source.**
 
-## 3. Provision as to musical entertainments.[^key-e87d370a2a47c021094f97acb973f05a][^key-e87d370a2a47c021094f97acb973f05a]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-e87d370a2a47c021094f97acb973f05a][^c-e87d370a2a47c021094f97acb973f05a]
+
+**May not be in force at this date. Check the source.**
+
+## 3. Provision as to musical entertainments.[^c-e87d370a2a47c021094f97acb973f05a][^c-e87d370a2a47c021094f97acb973f05a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Modification of Sunday Observance Acts.[^key-e87d370a2a47c021094f97acb973f05a][^key-e87d370a2a47c021094f97acb973f05a]
+## 4. Modification of Sunday Observance Acts.[^c-e87d370a2a47c021094f97acb973f05a][^c-e87d370a2a47c021094f97acb973f05a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Interpretation.[^key-e87d370a2a47c021094f97acb973f05a][^key-e87d370a2a47c021094f97acb973f05a]
+## 5. Interpretation.[^c-e87d370a2a47c021094f97acb973f05a][^c-e87d370a2a47c021094f97acb973f05a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. †Short title, extent and repeal.[^key-e87d370a2a47c021094f97acb973f05a][^key-e87d370a2a47c021094f97acb973f05a]
+## 6. †Short title, extent and repeal.[^c-e87d370a2a47c021094f97acb973f05a][^c-e87d370a2a47c021094f97acb973f05a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE[^key-e87d370a2a47c021094f97acb973f05a]
+## SCHEDULE[^c-e87d370a2a47c021094f97acb973f05a]
 
 **No longer in force.**
 
@@ -71,4 +71,4 @@ Sunday Entertainments Act 1932 (repealed)
 
 ## Annotations
 
-[^key-e87d370a2a47c021094f97acb973f05a]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/22-23/51) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/11), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-e87d370a2a47c021094f97acb973f05a]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/22-23/51) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/11), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))

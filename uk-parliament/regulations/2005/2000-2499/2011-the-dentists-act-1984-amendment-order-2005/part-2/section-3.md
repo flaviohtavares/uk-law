@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendment of section 1[^key-d363573e57aa9e144e9621ed531fda98]
+## 3. Amendment of section 1[^c-d363573e57aa9e144e9621ed531fda98]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ In section 1 (constitution and general duties of the Council), for subsections (
 
 ## Annotations
 
-[^key-d363573e57aa9e144e9621ed531fda98]: Commencement: Art. 3 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-d363573e57aa9e144e9621ed531fda98]: Commencement: Art. 3 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00003]: Footnote: Subsections (2A) to (2C) were inserted by S.I. [2001/3926](https://www.legislation.gov.uk/uksi/2001/3926).

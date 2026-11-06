@@ -42,13 +42,13 @@ and “**reinsurance business**” means the effecting and carrying out of contr
 
 (5) This subsection applies to a contract whose principal object is within one of the classes of general business but which contains subsidiary provisions within another of those classes.
 
-(6)[^key-029c812314f687503554edd98f0f2797] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-029c812314f687503554edd98f0f2797] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-83f38698d9b93997d547073e633fef8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-83f38698d9b93997d547073e633fef8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8)[^c15387951] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-5a432fffc3fa14e0fa15520feba7fe29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-5a432fffc3fa14e0fa15520feba7fe29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -60,10 +60,10 @@ and “**reinsurance business**” means the effecting and carrying out of contr
 
 [^c15387901]: Textual amendment: Definition in s. 117(1) added (1.9.1994) by [S.I. 1994/1984](https://www.legislation.gov.uk/uksi/1994/1984), [reg. 29(1)](https://www.legislation.gov.uk/uksi/1994/1984/regulation/29/1)
 
-[^key-029c812314f687503554edd98f0f2797]: Textual amendment: [S. 117(6)](https://www.legislation.gov.uk/ukpga/1992/40/section/117/6) omitted (31.12.2020) by virtue of [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [11](https://www.legislation.gov.uk/uksi/2018/1039/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-029c812314f687503554edd98f0f2797]: Textual amendment: [S. 117(6)](https://www.legislation.gov.uk/ukpga/1992/40/section/117/6) omitted (31.12.2020) by virtue of [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [11](https://www.legislation.gov.uk/uksi/2018/1039/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-83f38698d9b93997d547073e633fef8b]: Textual amendment: [S. 117(7)](https://www.legislation.gov.uk/ukpga/1992/40/section/117/7) omitted (31.12.2020) by virtue of [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [11](https://www.legislation.gov.uk/uksi/2018/1039/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-83f38698d9b93997d547073e633fef8b]: Textual amendment: [S. 117(7)](https://www.legislation.gov.uk/ukpga/1992/40/section/117/7) omitted (31.12.2020) by virtue of [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [11](https://www.legislation.gov.uk/uksi/2018/1039/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c15387951]: Textual amendment: [S. 117(8)](https://www.legislation.gov.uk/ukpga/1992/40/section/117/8) repealed (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [205(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/205/1)
 
-[^key-5a432fffc3fa14e0fa15520feba7fe29]: Textual amendment: [S. 117(9)](https://www.legislation.gov.uk/ukpga/1992/40/section/117/9) omitted (31.12.2020) by virtue of [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [11](https://www.legislation.gov.uk/uksi/2018/1039/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a432fffc3fa14e0fa15520feba7fe29]: Textual amendment: [S. 117(9)](https://www.legislation.gov.uk/ukpga/1992/40/section/117/9) omitted (31.12.2020) by virtue of [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [11](https://www.legislation.gov.uk/uksi/2018/1039/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

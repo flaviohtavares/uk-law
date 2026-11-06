@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Effect of postponement[^key-661b09f8253ca07c6d062cb971343de3]
+## 131. Effect of postponement[^c-661b09f8253ca07c6d062cb971343de3]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,12 +35,12 @@ summary: ''
 
 (6) The fact that a postponed writing-down allowance is claimed for a chargeable period does not affect entitlement to, or the amount of, any other writing-down allowance to which the person is otherwise entitled for that chargeable period.
 
-(7) A postponed allowance is not, merely because of the postponement, included in the reference in section 101(3) of CTA 2010 (group relief: meaning of “capital allowance excess”)[^key-b393097ae9d72cf022b30b321d55e595] to an allowance or amount brought[^key-8d16ad41960bf60f9fab595bfb38b82f] forward from an earlier period.
+(7) A postponed allowance is not, merely because of the postponement, included in the reference in section 101(3) of CTA 2010 (group relief: meaning of “capital allowance excess”)[^c-b393097ae9d72cf022b30b321d55e595] to an allowance or amount brought[^c-8d16ad41960bf60f9fab595bfb38b82f] forward from an earlier period.
 
 ## Annotations
 
-[^key-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
+[^c-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
 
-[^key-b393097ae9d72cf022b30b321d55e595]: Textual amendment: Words in s. 131(7) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 337(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/337/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b393097ae9d72cf022b30b321d55e595]: Textual amendment: Words in s. 131(7) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 337(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/337/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-8d16ad41960bf60f9fab595bfb38b82f]: Textual amendment: Word in s. 131(7) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 337(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/337/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-8d16ad41960bf60f9fab595bfb38b82f]: Textual amendment: Word in s. 131(7) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 337(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/337/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

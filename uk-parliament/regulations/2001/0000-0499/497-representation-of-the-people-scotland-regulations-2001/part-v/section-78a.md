@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78A. Cancellation of postal ballot papers[^key-618b25649bb18153a57bde7cc4b2b228][^key-d1c9b33a164eb0d8891c7058a13631ea]
+## 78A. Cancellation of postal ballot papers[^c-618b25649bb18153a57bde7cc4b2b228][^c-d1c9b33a164eb0d8891c7058a13631ea]
 
 *Extent: S*
 
-(1) Where, after the final nomination day at a parliamentary [^key-63caa2abf96fab9614f3ebe85fbadd02]... election, an application under—
+(1) Where, after the final nomination day at a parliamentary [^c-63caa2abf96fab9614f3ebe85fbadd02]... election, an application under—
 
 - (a) paragraph 3(5)(a) of Schedule 4 to the 2000 Act (application to be removed from the record of absent voters),
 - (b) paragraph 3(6) or 4(3)(b) of that Schedule (application to vote by proxy by a person recorded as voting by post),
@@ -51,8 +51,8 @@ is granted or a notice under paragraph 6(10) of that Schedule (cancellation of p
 
 ## Annotations
 
-[^key-618b25649bb18153a57bde7cc4b2b228]: Modification: [Reg. 78A](https://www.legislation.gov.uk/uksi/2001/497/regulation/78A) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 33](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/33)
+[^c-618b25649bb18153a57bde7cc4b2b228]: Modification: [Reg. 78A](https://www.legislation.gov.uk/uksi/2001/497/regulation/78A) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 33](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/33)
 
-[^key-d1c9b33a164eb0d8891c7058a13631ea]: Textual amendment: Reg. 78A inserted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/c), [31](https://www.legislation.gov.uk/uksi/2013/3206/regulation/31)
+[^c-d1c9b33a164eb0d8891c7058a13631ea]: Textual amendment: Reg. 78A inserted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/c), [31](https://www.legislation.gov.uk/uksi/2013/3206/regulation/31)
 
-[^key-63caa2abf96fab9614f3ebe85fbadd02]: Textual amendment: Words in reg. 78A(1) omitted (4.3.2015) by virtue of [The Representation of the People (Scotland) (Amendment) Regulations 2015 (S.I. 2015/450)](https://www.legislation.gov.uk/uksi/2015/450), [regs. 1](https://www.legislation.gov.uk/uksi/2015/450/regulation/1), [9](https://www.legislation.gov.uk/uksi/2015/450/regulation/9)
+[^c-63caa2abf96fab9614f3ebe85fbadd02]: Textual amendment: Words in reg. 78A(1) omitted (4.3.2015) by virtue of [The Representation of the People (Scotland) (Amendment) Regulations 2015 (S.I. 2015/450)](https://www.legislation.gov.uk/uksi/2015/450), [regs. 1](https://www.legislation.gov.uk/uksi/2015/450/regulation/1), [9](https://www.legislation.gov.uk/uksi/2015/450/regulation/9)

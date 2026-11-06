@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 130. Resolutions by post[^key-44d8682450ecbfd3be8fdb782e9d2f75]
+## 130. Resolutions by post[^c-44d8682450ecbfd3be8fdb782e9d2f75]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-44d8682450ecbfd3be8fdb782e9d2f75]: Commencement: Rule 130 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-44d8682450ecbfd3be8fdb782e9d2f75]: Commencement: Rule 130 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00054]: Footnote: Paragraph (2) was amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

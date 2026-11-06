@@ -36,50 +36,50 @@ laying down measures for the implementation of the European Council Decision on 
 
 (2009/908/EU) (revoked)
 
-[^key-23729672512377165f8f7fa244c404ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23729672512377165f8f7fa244c404ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-23729672512377165f8f7fa244c404ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-23729672512377165f8f7fa244c404ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-23729672512377165f8f7fa244c404ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-23729672512377165f8f7fa244c404ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-23729672512377165f8f7fa244c404ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-23729672512377165f8f7fa244c404ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-23729672512377165f8f7fa244c404ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-23729672512377165f8f7fa244c404ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-23729672512377165f8f7fa244c404ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-23729672512377165f8f7fa244c404ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-23729672512377165f8f7fa244c404ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-23729672512377165f8f7fa244c404ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23729672512377165f8f7fa244c404ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23729672512377165f8f7fa244c404ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-23729672512377165f8f7fa244c404ee]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX II — CHAIRMANSHIP OF THE PREPARATORY BODIES OF THE FOREIGN AFFAIRS COUNCIL[^key-23729672512377165f8f7fa244c404ee]
+## ANNEX I[^c-23729672512377165f8f7fa244c404ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## ANNEX II — CHAIRMANSHIP OF THE PREPARATORY BODIES OF THE FOREIGN AFFAIRS COUNCIL[^c-23729672512377165f8f7fa244c404ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23729672512377165f8f7fa244c404ee]Modalities for appointment of chairs
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — CHAIRPERSONS OF COUNCIL PREPARATORY BODIES WITH A FIXED CHAIR[^key-23729672512377165f8f7fa244c404ee]
-
-[^key-23729672512377165f8f7fa244c404ee]Elected chairs
+[^c-23729672512377165f8f7fa244c404ee]Modalities for appointment of chairs
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23729672512377165f8f7fa244c404ee]Chaired by the General Secretariat of the Council
+## ANNEX III — CHAIRPERSONS OF COUNCIL PREPARATORY BODIES WITH A FIXED CHAIR[^c-23729672512377165f8f7fa244c404ee]
+
+[^c-23729672512377165f8f7fa244c404ee]Elected chairs
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-23729672512377165f8f7fa244c404ee]Chaired by the General Secretariat of the Council
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23729672512377165f8f7fa244c404ee]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-23729672512377165f8f7fa244c404ee]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## H1. Interpretation[^key-db733a09af40e711ebd89a95bc34f5c2]
+## H1. Interpretation[^c-db733a09af40e711ebd89a95bc34f5c2]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ and in relation to a person appointed as aforesaid his taking up of the office o
 
 ## Annotations
 
-[^key-db733a09af40e711ebd89a95bc34f5c2]: Commencement: [Reg. H1](https://www.legislation.gov.uk/uksi/1986/24/regulation/H1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-db733a09af40e711ebd89a95bc34f5c2]: Commencement: [Reg. H1](https://www.legislation.gov.uk/uksi/1986/24/regulation/H1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00060]: Footnote: [S.I. 1961/1441](https://www.legislation.gov.uk/uksi/1961/1441), [1966/1523](https://www.legislation.gov.uk/uksi/1966/1523), [1972/1339](https://www.legislation.gov.uk/uksi/1972/1339), [1537](https://www.legislation.gov.uk/uksi/1972/1537), [1973/242](https://www.legislation.gov.uk/uksi/1973/242), [731](https://www.legislation.gov.uk/uksi/1973/731), [1649](https://www.legislation.gov.uk/uksi/1973/1649).
 

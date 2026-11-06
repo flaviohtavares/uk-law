@@ -22,11 +22,11 @@ summary: ''
 
 Article ‎20
 
-### 1. Compensation enactments[^key-edf9ed12748ea6ec8799a3ba3562fac2]
+### 1. Compensation enactments[^c-edf9ed12748ea6ec8799a3ba3562fac2]
 
 The enactments for the time being in force with respect to compensation for the compulsory purchase of land are to apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right or the imposition of a restrictive covenant as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-### 2.[^key-d05c9d6d86a3210be72111a4e1340745]
+### 2.[^c-d05c9d6d86a3210be72111a4e1340745]
 
 (1) Without limitation on the scope of paragraph ‎1, the Land Compensation Act 1973[^f00061] has effect subject to the modifications set out in sub-paragraph (2).
 
@@ -35,13 +35,13 @@ The enactments for the time being in force with respect to compensation for the 
 - (a) for the words “land is acquired or taken from” substitute “a right or restrictive covenant over land is purchased from or imposed on”; and
 - (b) for the words “acquired or taken from him” substitute “over which the right is exercisable or the restrictive covenant enforceable”.
 
-### 3.[^key-be90f58a7d9610c466ebff08c068ea8f]
+### 3.[^c-be90f58a7d9610c466ebff08c068ea8f]
 
 (1) Without limitation on the scope of paragraph ‎1, the 1961 Act has effect subject to the modifications set out in sub-paragraph ‎(2).
 
 (2) In section 5A(5A) (relevant valuation date), omit the words after “if—” and substitute—
 
-> - (a) the acquiring authority enters on land for the purpose of exercising a right in pursuant of a notice of entry under section 11(1) of the 1965 Act (as modified by paragraph ‎5(5) of Schedule 10 (modification of compensation and compulsory purchase enactments for the creation of new rights and imposition of new restrictive covenants))[^key-54f4a20b422fde6d569d9c3fd76e5574] to the Gate Burton Energy Park Order 2024;
+> - (a) the acquiring authority enters on land for the purpose of exercising a right in pursuant of a notice of entry under section 11(1) of the 1965 Act (as modified by paragraph ‎5(5) of Schedule 10 (modification of compensation and compulsory purchase enactments for the creation of new rights and imposition of new restrictive covenants))[^c-54f4a20b422fde6d569d9c3fd76e5574] to the Gate Burton Energy Park Order 2024;
 > - (b) the acquiring authority is subsequently required by a determination under paragraph 12 of Schedule 2A to the 1965 Act (as substituted by paragraph ‎5(7) of Schedule 10 (modification of compensation and compulsory purchase enactments for the creation of new rights and imposition of new restrictive covenants) to the Gate Burton Energy Park Order 2024) to acquire an interest in the land; and
 > - (c) the acquiring authority enters on and takes possession of that land
 >
@@ -49,14 +49,14 @@ The enactments for the time being in force with respect to compensation for the 
 
 .
 
-### 4. Application of Part 1 of the 1965 Act[^key-e627b12b7dbc950156147a68b3ec2513]
+### 4. Application of Part 1 of the 1965 Act[^c-e627b12b7dbc950156147a68b3ec2513]
 
 Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act to the acquisition of land under article ‎18 (compulsory acquisition of land) and as modified by article ‎25 (modification of Part 1 of the Compulsory Purchase Act 1965), applies to the compulsory acquisition of a right by the creation of a new right under article ‎20 (compulsory acquisition of rights)—
 
 - (a) with the modifications specified in paragraph ‎5; and
 - (b) with such other modifications as may be necessary.
 
-### 5.[^key-0c05805ae6f000b1ff2ce398ea98a6fe]
+### 5.[^c-0c05805ae6f000b1ff2ce398ea98a6fe]
 
 (1) The modifications referred to in paragraph ‎4(a) are as follows—
 
@@ -145,19 +145,19 @@ are modified to secure that, as against persons with interests in the land which
 
 ## Annotations
 
-[^key-edf9ed12748ea6ec8799a3ba3562fac2]: Commencement: Sch. 10 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-edf9ed12748ea6ec8799a3ba3562fac2]: Commencement: Sch. 10 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-d05c9d6d86a3210be72111a4e1340745]: Commencement: Sch. 10 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-d05c9d6d86a3210be72111a4e1340745]: Commencement: Sch. 10 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
 [^f00061]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-be90f58a7d9610c466ebff08c068ea8f]: Commencement: Sch. 10 para. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-be90f58a7d9610c466ebff08c068ea8f]: Commencement: Sch. 10 para. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-54f4a20b422fde6d569d9c3fd76e5574]: Textual amendment: Bracket in Sch. 10 para. 3(2) inserted (28.11.2024) by [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
+[^c-54f4a20b422fde6d569d9c3fd76e5574]: Textual amendment: Bracket in Sch. 10 para. 3(2) inserted (28.11.2024) by [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
 
-[^key-e627b12b7dbc950156147a68b3ec2513]: Commencement: Sch. 10 para. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-e627b12b7dbc950156147a68b3ec2513]: Commencement: Sch. 10 para. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-0c05805ae6f000b1ff2ce398ea98a6fe]: Commencement: Sch. 10 para. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-0c05805ae6f000b1ff2ce398ea98a6fe]: Commencement: Sch. 10 para. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
 [^f00062]: Footnote: Section 11 was amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of, and Part 1 of Schedule 1 to, the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), sections 186(2), 187(2) and 188 of, and paragraph 6 of Schedule 14 and paragraph 3 of Schedule 16 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

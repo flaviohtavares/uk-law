@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 94. Corporate representation[^key-e21388c6a0ccfdbf209f4fd351585dfd]
+## 94. Corporate representation[^c-e21388c6a0ccfdbf209f4fd351585dfd]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e21388c6a0ccfdbf209f4fd351585dfd]: Commencement: [Rule 94](https://www.legislation.gov.uk/nisr/2026/11/rule/94) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-e21388c6a0ccfdbf209f4fd351585dfd]: Commencement: [Rule 94](https://www.legislation.gov.uk/nisr/2026/11/rule/94) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

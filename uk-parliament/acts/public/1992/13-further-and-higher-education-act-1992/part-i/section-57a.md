@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57A. Intervention policy: Wales[^key-25f10349dcbac4ac4f346678e2947a04]
+## 57A. Intervention policy: Wales[^c-25f10349dcbac4ac4f346678e2947a04]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25f10349dcbac4ac4f346678e2947a04]: Textual amendment: S. 57A omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 5(4)](https://www.legislation.gov.uk/anaw/2014/1/section/5/4), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(e)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/e)
+[^c-25f10349dcbac4ac4f346678e2947a04]: Textual amendment: S. 57A omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 5(4)](https://www.legislation.gov.uk/anaw/2014/1/section/5/4), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(e)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/e)

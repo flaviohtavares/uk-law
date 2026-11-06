@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79A. Private sector purchaser: report[^key-20b986ba36f77d5b967b485e8705148a]
+## 79A. Private sector purchaser: report[^c-20b986ba36f77d5b967b485e8705148a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20b986ba36f77d5b967b485e8705148a]: Textual amendment: S. 79A inserted (1.1.2015) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 99(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/99/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2014/3323](https://www.legislation.gov.uk/uksi/2014/3323), [art. 2](https://www.legislation.gov.uk/uksi/2014/3323/article/2)
+[^c-20b986ba36f77d5b967b485e8705148a]: Textual amendment: S. 79A inserted (1.1.2015) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 99(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/99/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2014/3323](https://www.legislation.gov.uk/uksi/2014/3323), [art. 2](https://www.legislation.gov.uk/uksi/2014/3323/article/2)

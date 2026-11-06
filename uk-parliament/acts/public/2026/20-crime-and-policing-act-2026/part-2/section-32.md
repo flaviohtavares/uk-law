@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Remote sales of knives etc: England and Wales[^key-152be5dc35c432d25a7f6649d1d85b24]
+## 32. Remote sales of knives etc: England and Wales[^c-152be5dc35c432d25a7f6649d1d85b24]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-152be5dc35c432d25a7f6649d1d85b24]: Commencement: S. 32 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-152be5dc35c432d25a7f6649d1d85b24]: Commencement: S. 32 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

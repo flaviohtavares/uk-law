@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Postponement or disapplication of automatic enrolment[^c19555481][^key-89f4d86164d443af39c5a6794bbefdaa][^key-295e4dd8d1f46032118beafb1e305989]
+## 4. Postponement or disapplication of automatic enrolment[^c19555481][^c-89f4d86164d443af39c5a6794bbefdaa][^c-295e4dd8d1f46032118beafb1e305989]
 
 *Extent: N.I.*
 
@@ -63,6 +63,6 @@ the worker's automatic enrolment date is the deferral date if on that date secti
 
 [^c19555481]: Commencement: S. 4 partly in force; s. 4 in force for certain purposes at Royal Assent see s. 118(2)
 
-[^key-89f4d86164d443af39c5a6794bbefdaa]: Textual amendment: S. 4 substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 7(2)](https://www.legislation.gov.uk/nia/2012/3/section/7/2), [34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)[(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/b)
+[^c-89f4d86164d443af39c5a6794bbefdaa]: Textual amendment: S. 4 substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 7(2)](https://www.legislation.gov.uk/nia/2012/3/section/7/2), [34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)[(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/b)
 
-[^key-295e4dd8d1f46032118beafb1e305989]: Modification: Pt. 1 applied (with modifications) (1.7.2012) by [The Automatic Enrolment (Offshore Employment) Order 2012 (S.I. 2012/1388)](https://www.legislation.gov.uk/uksi/2012/1388), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5))
+[^c-295e4dd8d1f46032118beafb1e305989]: Modification: Pt. 1 applied (with modifications) (1.7.2012) by [The Automatic Enrolment (Offshore Employment) Order 2012 (S.I. 2012/1388)](https://www.legislation.gov.uk/uksi/2012/1388), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5))

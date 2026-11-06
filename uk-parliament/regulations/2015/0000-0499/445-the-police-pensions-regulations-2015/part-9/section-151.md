@@ -38,10 +38,10 @@ summary: ''
 (7) Paragraphs (5) and (6) do not apply to a pension that is—
 
 - (a) forfeited as a result of a conviction for treason; or
-- (b) forfeited under regulation 211 (forfeiture: offences committed by members) where the relevant offence within the meaning of that regulation is an offence under the Official Secrets Acts 1911 to 1989 [^c22402721] or an applicable offence under the National Security Act 2023[^key-e5aaf08516cdc87c019237f29c3dc5ff].
+- (b) forfeited under regulation 211 (forfeiture: offences committed by members) where the relevant offence within the meaning of that regulation is an offence under the Official Secrets Acts 1911 to 1989 [^c22402721] or an applicable offence under the National Security Act 2023[^c-e5aaf08516cdc87c019237f29c3dc5ff].
 
 ## Annotations
 
 [^c22402721]: Marginal citation: [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6); see [section 16(2)](https://www.legislation.gov.uk/ukpga/1989/6/section/16/2) for the meaning of “Official Secrets Acts 1911 to 1989”.
 
-[^key-e5aaf08516cdc87c019237f29c3dc5ff]: Textual amendment: Words in [reg. 151(7)(b)](https://www.legislation.gov.uk/uksi/2015/445/regulation/151/7/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 50(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/50/3)
+[^c-e5aaf08516cdc87c019237f29c3dc5ff]: Textual amendment: Words in [reg. 151(7)(b)](https://www.legislation.gov.uk/uksi/2015/445/regulation/151/7/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 50(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/50/3)

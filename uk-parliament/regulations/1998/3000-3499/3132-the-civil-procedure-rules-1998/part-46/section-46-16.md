@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46.16. Judicial review costs capping orders – general[^key-cf2b4742af57f534d9099306702f17bf][^key-b941119c8cdc9da1893b8454ae2b36e6]
+## 46.16. Judicial review costs capping orders – general[^c-cf2b4742af57f534d9099306702f17bf][^c-b941119c8cdc9da1893b8454ae2b36e6]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf2b4742af57f534d9099306702f17bf]: Textual amendment: [Pt. 46](https://www.legislation.gov.uk/uksi/1998/3132/part/46) Section 6 inserted (8.8.2016) by [The Civil Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/707)](https://www.legislation.gov.uk/uksi/2016/707), [rules 2](https://www.legislation.gov.uk/uksi/2016/707/rule/2), [5(b)](https://www.legislation.gov.uk/uksi/2016/707/rule/5/b) (with [rule 6](https://www.legislation.gov.uk/uksi/2016/707/rule/6)); [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(d)](https://www.legislation.gov.uk/uksi/2016/717/article/3/d)
+[^c-cf2b4742af57f534d9099306702f17bf]: Textual amendment: [Pt. 46](https://www.legislation.gov.uk/uksi/1998/3132/part/46) Section 6 inserted (8.8.2016) by [The Civil Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/707)](https://www.legislation.gov.uk/uksi/2016/707), [rules 2](https://www.legislation.gov.uk/uksi/2016/707/rule/2), [5(b)](https://www.legislation.gov.uk/uksi/2016/707/rule/5/b) (with [rule 6](https://www.legislation.gov.uk/uksi/2016/707/rule/6)); [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(d)](https://www.legislation.gov.uk/uksi/2016/717/article/3/d)
 
-[^key-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))

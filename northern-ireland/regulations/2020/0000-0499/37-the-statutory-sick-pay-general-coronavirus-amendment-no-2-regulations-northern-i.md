@@ -63,7 +63,7 @@ The Department for Communities [^c24028581] makes the following Regulations in e
 
 .
 
-## 3. Expiry[^key-a1c16aef1f05bb1bebaf94ab55e97dd5]
+## 3. Expiry[^c-a1c16aef1f05bb1bebaf94ab55e97dd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -105,4 +105,4 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^c24028641]: Marginal citation: Paragraph (3) was inserted by regulation 2(3) of S.R. [2020 No. 32](https://www.legislation.gov.uk/ukcm/2020/32)
 
-[^key-a1c16aef1f05bb1bebaf94ab55e97dd5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2020/37/regulation/3) omitted (28.3.2020) by virtue of [The Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/54)](https://www.legislation.gov.uk/nisr/2020/54), [regs. 1](https://www.legislation.gov.uk/nisr/2020/54/regulation/1), [5](https://www.legislation.gov.uk/nisr/2020/54/regulation/5)
+[^c-a1c16aef1f05bb1bebaf94ab55e97dd5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2020/37/regulation/3) omitted (28.3.2020) by virtue of [The Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/54)](https://www.legislation.gov.uk/nisr/2020/54), [regs. 1](https://www.legislation.gov.uk/nisr/2020/54/regulation/1), [5](https://www.legislation.gov.uk/nisr/2020/54/regulation/5)

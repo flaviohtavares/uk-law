@@ -42,13 +42,13 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001], makes the following Regulations in exercise of the powers conferred by sections 11 and 22 of, paragraphs 11M(1), (3) and (8) of Part 1C of Schedule 2 and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-51f2ac104317ac9373dbe34e5bc01f73]
+## 1. Citation, commencement and interpretation[^c-51f2ac104317ac9373dbe34e5bc01f73]
 
 (1) These Regulations may be cited as the Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 and come into operation on 24<sup>th</sup> January 2025.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] applies to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendments to the Cattle Identification (Enforcement) Regulations (Northern Ireland) 1998[^key-02b1f0e7dd145fa8d47dd0bb8a18a873]
+## 2. Amendments to the Cattle Identification (Enforcement) Regulations (Northern Ireland) 1998[^c-02b1f0e7dd145fa8d47dd0bb8a18a873]
 
 (1) Amendments to the Cattle Identification (Enforcement) Regulations (Northern Ireland) 1998[^f00004] are amended as follows.
 
@@ -95,7 +95,7 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001], makes the
 
 (4) In regulation 5(1), omit “Subject to and in accordance with the second paragraph of Article 22 of the Council Regulation, ”.
 
-## 3. Amendments to the Cattle Identification (No. 2) Regulations (Northern Ireland) 1998[^key-24e00d77b0fe26fd08bf552963cfca92]
+## 3. Amendments to the Cattle Identification (No. 2) Regulations (Northern Ireland) 1998[^c-24e00d77b0fe26fd08bf552963cfca92]
 
 (1) The Cattle Identification (No. 2) Regulations (Northern Ireland) 1998[^f00005] are amended as follows.
 
@@ -223,7 +223,7 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001], makes the
 
 (17) Omit the Schedule.
 
-## 4. Amendments to the Cattle Identification (Notification of Births, Deaths and Movements) Regulations (Northern Ireland) 1999[^key-4d17d3e1260af290beed75e013f871f5]
+## 4. Amendments to the Cattle Identification (Notification of Births, Deaths and Movements) Regulations (Northern Ireland) 1999[^c-4d17d3e1260af290beed75e013f871f5]
 
 (1) The Cattle Identification (Notification of Births, Deaths and Movements) Regulations (Northern Ireland) 1999[^f00006] are amended as follows.
 
@@ -275,7 +275,7 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001], makes the
 
 (9) In regulation 12(1), omit “In accordance with the second indent of Article 22.1 of the Council Regulation, ”.
 
-## 5. Amendments to the Cattle Passport Regulations (Northern Ireland) 1999[^key-217a30167f03a9aa177395ebe95543ed]
+## 5. Amendments to the Cattle Passport Regulations (Northern Ireland) 1999[^c-217a30167f03a9aa177395ebe95543ed]
 
 (1) The Cattle Passport Regulations (Northern Ireland) 1999[^f00007] are amended as follows.
 
@@ -327,7 +327,7 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001], makes the
 
 (6) In regulation 10(1), omit “ in accordance with Article 6.4 of the Council Regulation”.
 
-## 6. Amendments to the Sheep and Goats (Records, Identification and Movement) Order (Northern Ireland) 2009[^key-64c9b84da9f8149db13ee0b338be3ce1]
+## 6. Amendments to the Sheep and Goats (Records, Identification and Movement) Order (Northern Ireland) 2009[^c-64c9b84da9f8149db13ee0b338be3ce1]
 
 (1) The Sheep and Goats (Records, Identification and Movement) Order (Northern Ireland) 2009[^f00008] is amended as follows.
 
@@ -548,26 +548,26 @@ An impact assessment has not been produced for these Regulations as no, or no si
 
 [^f00002]: Footnote: [2018(c16)](https://www.legislation.gov.uk/ukpga/2018/16); Part 1C of Schedule 2 was inserted by section 22 of the European Union (Withdrawal Agreement) Act [2020 (c.1)](https://www.legislation.gov.uk/ukpga/2020/1) (the 2020 Act). Paragraph 21(b) of Schedule 7 was amended by paragraph 53(2)(b) of Schedule 5 to the 2020 Act.
 
-[^key-51f2ac104317ac9373dbe34e5bc01f73]: Commencement: Reg. 1 in operation at 24.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1)
+[^c-51f2ac104317ac9373dbe34e5bc01f73]: Commencement: Reg. 1 in operation at 24.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c.33(N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-02b1f0e7dd145fa8d47dd0bb8a18a873]: Commencement: Reg. 2 in operation at 24.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1)
+[^c-02b1f0e7dd145fa8d47dd0bb8a18a873]: Commencement: Reg. 2 in operation at 24.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1998 No. 27](https://www.legislation.gov.uk/nisr/1998/27) to which relevant amendments were made by [S.R. 1998 No. 279](https://www.legislation.gov.uk/nisr/1998/279), [S.R. 1999 No. 265](https://www.legislation.gov.uk/nisr/1999/265), [S.R. 2004 No. 420](https://www.legislation.gov.uk/nisr/2004/420), [S.R. 2019 No. 82](https://www.legislation.gov.uk/nisr/2019/82), [S.I. 2019/157](https://www.legislation.gov.uk/uksi/2019/157) and [S.R. 2020 No. 353](https://www.legislation.gov.uk/nisr/2020/353).
 
-[^key-24e00d77b0fe26fd08bf552963cfca92]: Commencement: Reg. 3 in operation at 24.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1)
+[^c-24e00d77b0fe26fd08bf552963cfca92]: Commencement: Reg. 3 in operation at 24.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1998 No. 279](https://www.legislation.gov.uk/nisr/1998/279), to which relevant amendments were made by [S.R. 1999 No. 324](https://www.legislation.gov.uk/nisr/1999/324), [S.R. 2004 No. 420](https://www.legislation.gov.uk/nisr/2004/420), [S.R. 2012 No. 416](https://www.legislation.gov.uk/nisr/2012/416), [S.R. 2015 No. 332](https://www.legislation.gov.uk/nisr/2015/332), [S.R. 2019 No. 82](https://www.legislation.gov.uk/nisr/2019/82), [S.I. 2019/157](https://www.legislation.gov.uk/uksi/2019/157), [S.R. 2020 No. 324](https://www.legislation.gov.uk/nisr/2020/324) and [S.R. 2020 No. 353](https://www.legislation.gov.uk/nisr/2020/353).
 
-[^key-4d17d3e1260af290beed75e013f871f5]: Commencement: Reg. 4 in operation at 24.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1)
+[^c-4d17d3e1260af290beed75e013f871f5]: Commencement: Reg. 4 in operation at 24.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1999 No. 265](https://www.legislation.gov.uk/nisr/1999/265), to which relevant amendments have been made by [S.R. 2004 No. 420](https://www.legislation.gov.uk/nisr/2004/420), [S.R. 2011 No. 349](https://www.legislation.gov.uk/nisr/2011/349), [S.R. 2012 No. 416](https://www.legislation.gov.uk/nisr/2012/416), [S.R. 2019 No. 82](https://www.legislation.gov.uk/nisr/2019/82) and [S.I. 2019/157](https://www.legislation.gov.uk/uksi/2019/157).
 
-[^key-217a30167f03a9aa177395ebe95543ed]: Commencement: Reg. 5 in operation at 24.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1)
+[^c-217a30167f03a9aa177395ebe95543ed]: Commencement: Reg. 5 in operation at 24.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1999 No. 324](https://www.legislation.gov.uk/nisr/1999/324), to which relevant amendments have been made by [S.R. 2001 No. 292](https://www.legislation.gov.uk/nisr/2001/292), [S.R. 2004 No. 420](https://www.legislation.gov.uk/nisr/2004/420), [S.R. 2012 No. 416](https://www.legislation.gov.uk/nisr/2012/416), [S.R. 2019 No. 82](https://www.legislation.gov.uk/nisr/2019/82), [S.I. 2019/157](https://www.legislation.gov.uk/uksi/2019/157) and [S.R. 2020 No. 324](https://www.legislation.gov.uk/nisr/2020/324).
 
-[^key-64c9b84da9f8149db13ee0b338be3ce1]: Commencement: Reg. 6 in operation at 24.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1)
+[^c-64c9b84da9f8149db13ee0b338be3ce1]: Commencement: Reg. 6 in operation at 24.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1)
 
 [^f00008]: Footnote: [S.R 2009 No. 411](https://www.legislation.gov.uk/nisr/2009/411), to which relevant amendments have been made by [S.R. 2019 No. 82](https://www.legislation.gov.uk/nisr/2019/82), [S.I. 2019/157](https://www.legislation.gov.uk/uksi/2019/157) and [S.R. 2020 No. 353](https://www.legislation.gov.uk/nisr/2020/353).

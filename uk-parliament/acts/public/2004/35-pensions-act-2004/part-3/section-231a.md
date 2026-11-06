@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231A. Requirements for winding up procedure[^key-cd512fed4193e51b8fa6b49ea7e830f2]
+## 231A. Requirements for winding up procedure[^c-cd512fed4193e51b8fa6b49ea7e830f2]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd512fed4193e51b8fa6b49ea7e830f2]: Textual amendment: S. 231A inserted (24.7.2006) by [The Occupational Pension Schemes (Winding up Procedure Requirement) Regulations 2006 (S.I. 2006/1733)](https://www.legislation.gov.uk/uksi/2006/1733), regs. 1, [2(1)](https://www.legislation.gov.uk/uksi/2006/1733/article/2/1),
+[^c-cd512fed4193e51b8fa6b49ea7e830f2]: Textual amendment: S. 231A inserted (24.7.2006) by [The Occupational Pension Schemes (Winding up Procedure Requirement) Regulations 2006 (S.I. 2006/1733)](https://www.legislation.gov.uk/uksi/2006/1733), regs. 1, [2(1)](https://www.legislation.gov.uk/uksi/2006/1733/article/2/1),

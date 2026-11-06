@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Supply and delivery of restricted goods[^key-a5aa51c2bc2e8a56bc220646b5b43942]
+## 23. Supply and delivery of restricted goods[^c-a5aa51c2bc2e8a56bc220646b5b43942]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5aa51c2bc2e8a56bc220646b5b43942]: Commencement: Reg. 23 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-a5aa51c2bc2e8a56bc220646b5b43942]: Commencement: Reg. 23 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

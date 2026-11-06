@@ -48,11 +48,11 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
 
 In accordance with section 302(1) of the Merchant Shipping Act 1995, regulation 4 of these Regulations is made with the consent of the Treasury.
 
-## 1. Citation and Commencement[^key-cb27c1fbddf2ed478f216c43aeb6337b]
+## 1. Citation and Commencement[^c-cb27c1fbddf2ed478f216c43aeb6337b]
 
 These Regulations may be cited as the Merchant Shipping (Prevention of Air Pollution from Ships) (Miscellaneous Amendments) Regulations 2019 and come into force on 30th June 2019.
 
-## 2. Amendment of the Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008[^key-8d35d8c52a1c62d969ee0203506c4b9e]
+## 2. Amendment of the Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008[^c-8d35d8c52a1c62d969ee0203506c4b9e]
 
 (1) The Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008[^f00004] are amended as follows.
 
@@ -193,11 +193,11 @@ These Regulations may be cited as the Merchant Shipping (Prevention of Air Pollu
 
 (11) After Schedule 3 (information to be included in a bunker delivery note) insert Schedule 4 as set out in the Schedule to these Regulations.
 
-## 3. Amendment of the Merchant Shipping (Port State Control) Regulations 2011[^key-e95b72a1eb120e5fe8832fedeefc0d91]
+## 3. Amendment of the Merchant Shipping (Port State Control) Regulations 2011[^c-e95b72a1eb120e5fe8832fedeefc0d91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Merchant Shipping Fees Regulations 2018[^key-3fba8ea85a0f856106efe0020ab7b326]
+## 4. Amendment of the Merchant Shipping Fees Regulations 2018[^c-3fba8ea85a0f856106efe0020ab7b326]
 
 (1) The Merchant Shipping Fees Regulations 2018[^f00007]are amended as follows.
 
@@ -223,7 +223,7 @@ Two of the Lords Commissioners in Her Majesty’s Treasury
 
 20th May 2019
 
-## SCHEDULE — New Schedule to be inserted in the Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008[^key-022ed2bfddafe32cfb27f565a22e2dae]
+## SCHEDULE — New Schedule to be inserted in the Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008[^c-022ed2bfddafe32cfb27f565a22e2dae]
 
 Regulation 2(11)
 
@@ -291,18 +291,18 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: [S.I.2006/1248](https://www.legislation.gov.uk/uksi/2006/1248).
 
-[^key-cb27c1fbddf2ed478f216c43aeb6337b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1) in force at 30.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1)
+[^c-cb27c1fbddf2ed478f216c43aeb6337b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1) in force at 30.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1)
 
-[^key-8d35d8c52a1c62d969ee0203506c4b9e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/940/regulation/2) in force at 30.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1)
+[^c-8d35d8c52a1c62d969ee0203506c4b9e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/940/regulation/2) in force at 30.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1)
 
 [^f00004]: Footnote: [S.I.2008/2924](https://www.legislation.gov.uk/uksi/2008/2924) amended by [S.I.2010/895](https://www.legislation.gov.uk/uksi/2010/895), there are other amending instruments but none is relevant.
 
 [^f00005]: Footnote: [S.I.2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), amended by [S.I, 2019/42](https://www.legislation.gov.uk/uksi/2019/42) there are other amending instruments but none is relevant.
 
-[^key-e95b72a1eb120e5fe8832fedeefc0d91]: Textual amendment: Reg. 3 revoked (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-e95b72a1eb120e5fe8832fedeefc0d91]: Textual amendment: Reg. 3 revoked (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-3fba8ea85a0f856106efe0020ab7b326]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/940/regulation/4) in force at 30.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1)
+[^c-3fba8ea85a0f856106efe0020ab7b326]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/940/regulation/4) in force at 30.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1)
 
 [^f00007]: Footnote: [S.I.2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), amended by [S.I, 2019/42](https://www.legislation.gov.uk/uksi/2019/42) there are other amending instruments but none is relevant.
 
-[^key-022ed2bfddafe32cfb27f565a22e2dae]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2019/940/schedule) in force at 30.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1)
+[^c-022ed2bfddafe32cfb27f565a22e2dae]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2019/940/schedule) in force at 30.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1)

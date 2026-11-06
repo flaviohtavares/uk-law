@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Prevention of duplication[^key-008a99bb0db73a9ff535733b54873fe5]
+## 46. Prevention of duplication[^c-008a99bb0db73a9ff535733b54873fe5]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-008a99bb0db73a9ff535733b54873fe5]: Commencement: Reg. 46 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-008a99bb0db73a9ff535733b54873fe5]: Commencement: Reg. 46 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

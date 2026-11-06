@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-606a888f33f405acd7250b7458ab4a02] A highway authority may carry out—
+(1)[^c-606a888f33f405acd7250b7458ab4a02] A highway authority may carry out—
 
 - (a) on land acquired by them under section 246 above;
 - (b) on any other land belonging to them;
@@ -31,8 +31,8 @@ works for mitigating any adverse effect which the construction, improvement, exi
 
 (2) Without prejudice to the generality of subsection (1) above, the works that may be carried out under that subsection include the planting of trees, shrubs or plants of any other description and the laying out of any area as grassland.
 
-(3)[^key-606a888f33f405acd7250b7458ab4a02] A highway authority may develop or redevelop any land acquired by them under section 246 above, or any other land belonging to them, for the purpose of improving the surroundings of a highway in any manner which they think desirable by reason of its construction, improvement, existence or use.
+(3)[^c-606a888f33f405acd7250b7458ab4a02] A highway authority may develop or redevelop any land acquired by them under section 246 above, or any other land belonging to them, for the purpose of improving the surroundings of a highway in any manner which they think desirable by reason of its construction, improvement, existence or use.
 
 ## Annotations
 
-[^key-606a888f33f405acd7250b7458ab4a02]: Modification: [S. 282(1)](https://www.legislation.gov.uk/ukpga/1980/66/section/282/1)[(3)](https://www.legislation.gov.uk/ukpga/1980/66/section/282/3) modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [12(g)(x)](https://www.legislation.gov.uk/uksi/2018/103/regulation/12/g/x)
+[^c-606a888f33f405acd7250b7458ab4a02]: Modification: [S. 282(1)](https://www.legislation.gov.uk/ukpga/1980/66/section/282/1)[(3)](https://www.legislation.gov.uk/ukpga/1980/66/section/282/3) modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [12(g)(x)](https://www.legislation.gov.uk/uksi/2018/103/regulation/12/g/x)

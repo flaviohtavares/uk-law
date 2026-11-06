@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Provisions relating to Part 4 of the Petroleum Act 1998[^key-a20d62ecb4d549baddc911429fac84d2]
+## 95. Provisions relating to Part 4 of the Petroleum Act 1998[^c-a20d62ecb4d549baddc911429fac84d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,4 +96,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a20d62ecb4d549baddc911429fac84d2]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2023/52/section/95) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-a20d62ecb4d549baddc911429fac84d2]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2023/52/section/95) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

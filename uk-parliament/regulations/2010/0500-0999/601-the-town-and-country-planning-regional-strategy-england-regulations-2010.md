@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 70(7), 71(9) and (10), 80(1)(a) and 81(3) of the Local Democracy, Economic Development and Construction Act 2009[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-b611d2f5064477fa7666e2a2de336005]
+## 1. Citation, commencement and application[^c-b611d2f5064477fa7666e2a2de336005]
 
 (1) These Regulations may be cited as the Town and Country Planning (Regional Strategy) (England) Regulations 2010 and shall come into force on 1st April 2010.
 
 (2) These Regulations apply in relation to England only.
 
-## 2. Interpretation[^key-7d17d7f3788d1a1dc3d63f833bc09244]
+## 2. Interpretation[^c-7d17d7f3788d1a1dc3d63f833bc09244]
 
 In these Regulations—
 
@@ -76,7 +76,7 @@ In these Regulations—
   - (b) a parish council any part of whose area is in or adjoins the RRA’s region;
   - (c) the RRA for each adjoining region, or, where the region adjoins London, the Mayor of London;
   - (d) Natural England;
-  - (e) [^key-fe464fef8b9716b5362688ce8fcbeaed]...
+  - (e) [^c-fe464fef8b9716b5362688ce8fcbeaed]...
   - (f) the Historic Buildings and Monuments Commission for England;
   - (g) the Homes and Communities Agency;
   - (h) the Environment Agency;
@@ -96,7 +96,7 @@ In these Regulations—
 
     exercising functions in any part of the region.
 
-## 3. Statement of policies on community involvement[^key-78278d78559e8d60b2407b04d2e0bc8d]
+## 3. Statement of policies on community involvement[^c-78278d78559e8d60b2407b04d2e0bc8d]
 
 In complying with the duty under section 75 of the Act (preparation and publication of statement of policies as to involvement of persons interested in exercise of RRAs functions in revision of regional strategy), an RRA must—
 
@@ -108,7 +108,7 @@ In complying with the duty under section 75 of the Act (preparation and publicat
   - (ii) such of the general consultation bodies as the RRA considers appropriate; and
 - (c) publish the statement together with details of the times and places at which the statement may be inspected.
 
-## 4. Revision of regional strategy: project plan[^key-b6d8201723720f259e2e617649ba7fe9]
+## 4. Revision of regional strategy: project plan[^c-b6d8201723720f259e2e617649ba7fe9]
 
 (1) Before preparing a draft revision of the regional strategy under section 74 of the Act (review and revision by responsible regional authorities), the RRA must prepare a project plan in relation to the revision, setting out the dates when—
 
@@ -126,13 +126,13 @@ In complying with the duty under section 75 of the Act (preparation and publicat
 
 (5) The RRA must comply with the project plan, or revised project plan (as the case may be), in the exercise of their functions in relation to revision of the regional strategy.
 
-## 5. Annual monitoring reports[^key-45f6a3f4ea722adb3bae168c941330dc]
+## 5. Annual monitoring reports[^c-45f6a3f4ea722adb3bae168c941330dc]
 
 (1) The period of twelve months specified for the purposes of section 81(3)(a) of the Act (implementation) is that commencing on 1st April in each year.
 
 (2) The date specified for the purposes of section 81(3)(c) of the Act is 28th February in the year following that in respect of which the report under section 81(2) of the Act is prepared.
 
-## 6. Access to meetings and documents of the Leaders’ Board[^key-7d1f8a26755d7b38b472dd489624e9db]
+## 6. Access to meetings and documents of the Leaders’ Board[^c-7d1f8a26755d7b38b472dd489624e9db]
 
 (1) Subject to paragraphs (2) to (5), Part 5A of the Local Government Act 1972[^f00006] (access to meetings and documents of certain authorities, committees and sub-committees) shall apply to a Leaders’ Board as it applies to a principal council[^f00007].
 
@@ -147,7 +147,7 @@ In complying with the duty under section 75 of the Act (preparation and publicat
 
 (5) Schedule 12A to the Local Government Act 1972[^f00009] (access to information: exempt information) shall have effect as if any reference to “the authority” included a reference to a Leaders’ Board.
 
-## 7. Treatment of areas of National Parks falling within more than one region[^key-e0916180dd86507ae3276b3cb60f1d6c]
+## 7. Treatment of areas of National Parks falling within more than one region[^c-e0916180dd86507ae3276b3cb60f1d6c]
 
 For the purposes of Part 5 of the Act (regional strategy)—
 
@@ -183,13 +183,13 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [2009 c.20](https://www.legislation.gov.uk/ukpga/2009/20).
 
-[^key-b611d2f5064477fa7666e2a2de336005]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/601/regulation/1) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/1/1)
+[^c-b611d2f5064477fa7666e2a2de336005]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/601/regulation/1) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/1/1)
 
-[^key-7d17d7f3788d1a1dc3d63f833bc09244]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/601/regulation/2) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/1/1)
+[^c-7d17d7f3788d1a1dc3d63f833bc09244]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/601/regulation/2) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/1/1)
 
 [^f00002]: Footnote: As to “responsible regional authorities” *see* section 72 of the Local Democracy, Economic Development and Construction Act 2009 . As to “region” *see* section 87 of the Local Democracy, Economic Development and Construction Act 2009.
 
-[^key-fe464fef8b9716b5362688ce8fcbeaed]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/2/1) revoked (1.4.2013) by [The Public Bodies (Abolition of the Commission for Rural Communities) Order 2012 (S.I. 2012/2654)](https://www.legislation.gov.uk/uksi/2012/2654), [art. 1(4)](https://www.legislation.gov.uk/uksi/2012/2654/article/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2012/2654/schedule)
+[^c-fe464fef8b9716b5362688ce8fcbeaed]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/2/1) revoked (1.4.2013) by [The Public Bodies (Abolition of the Commission for Rural Communities) Order 2012 (S.I. 2012/2654)](https://www.legislation.gov.uk/uksi/2012/2654), [art. 1(4)](https://www.legislation.gov.uk/uksi/2012/2654/article/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2012/2654/schedule)
 
 [^f00003]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).
 
@@ -197,13 +197,13 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00005]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7 was substituted by the Gas Act [1995 (c. 5)](https://www.legislation.gov.uk/ukpga/1995/5), section 5 and amended by the Utilities Act 2000, section 3(2).
 
-[^key-78278d78559e8d60b2407b04d2e0bc8d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/601/regulation/3) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/1/1)
+[^c-78278d78559e8d60b2407b04d2e0bc8d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/601/regulation/3) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/1/1)
 
-[^key-b6d8201723720f259e2e617649ba7fe9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/601/regulation/4) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/1/1)
+[^c-b6d8201723720f259e2e617649ba7fe9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/601/regulation/4) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/1/1)
 
-[^key-45f6a3f4ea722adb3bae168c941330dc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/601/regulation/5) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/1/1)
+[^c-45f6a3f4ea722adb3bae168c941330dc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/601/regulation/5) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/1/1)
 
-[^key-7d1f8a26755d7b38b472dd489624e9db]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/601/regulation/6) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/1/1)
+[^c-7d1f8a26755d7b38b472dd489624e9db]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/601/regulation/6) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/1/1)
 
 [^f00006]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70). Part 5A (sections 100A to 100K) was inserted by the Local Government (Access to Information) Act [1985 (c.43)](https://www.legislation.gov.uk/ukpga/1985/43), section 1.
 
@@ -213,4 +213,4 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00009]: Footnote: Schedule 12A was inserted by the Local Government (Access to Information) Act 1985, section 1 and Schedule 1.
 
-[^key-e0916180dd86507ae3276b3cb60f1d6c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/601/regulation/7) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/1/1)
+[^c-e0916180dd86507ae3276b3cb60f1d6c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/601/regulation/7) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/601/regulation/1/1)

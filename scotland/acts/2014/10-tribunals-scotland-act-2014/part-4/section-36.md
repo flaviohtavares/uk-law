@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Conduct and fitness etc.[^key-275160688023fea22dc2cb177e4b8cde]
+## 36. Conduct and fitness etc.[^c-275160688023fea22dc2cb177e4b8cde]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Schedule 8 contains provision for and in connection with—
 
 ## Annotations
 
-[^key-275160688023fea22dc2cb177e4b8cde]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2014/10/section/36) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-275160688023fea22dc2cb177e4b8cde]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2014/10/section/36) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

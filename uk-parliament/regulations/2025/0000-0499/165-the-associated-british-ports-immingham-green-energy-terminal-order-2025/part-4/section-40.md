@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Authorisation of operation and use[^key-78b4e87840bccff848024694a0b81cd2]
+## 40. Authorisation of operation and use[^c-78b4e87840bccff848024694a0b81cd2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to the provisions of this Order and to the requirements set out in Sched
 
 ## Annotations
 
-[^key-78b4e87840bccff848024694a0b81cd2]: Commencement: Art. 40 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-78b4e87840bccff848024694a0b81cd2]: Commencement: Art. 40 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

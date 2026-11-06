@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Registration of new common grazings[^key-1361a58290cb04f3be2a141eebe034f5]
+## 27. Registration of new common grazings[^c-1361a58290cb04f3be2a141eebe034f5]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1361a58290cb04f3be2a141eebe034f5]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2010/14/section/27) in force at 30.11.2013 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/3))
+[^c-1361a58290cb04f3be2a141eebe034f5]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2010/14/section/27) in force at 30.11.2013 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Effect of allocation[^key-102c4625dfd559b3fe40d9530753c228]
+## 74. Effect of allocation[^c-102c4625dfd559b3fe40d9530753c228]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ the scheme manager must pay to the pensioner (distinguishing it from any other p
 
 ## Annotations
 
-[^key-102c4625dfd559b3fe40d9530753c228]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2014/2848/regulation/74) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-102c4625dfd559b3fe40d9530753c228]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2014/2848/regulation/74) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-### PART 1 — New permanent means of access from the public highway[^key-6f8400986de421c613af8587e0ea57d7]
+### PART 1 — New permanent means of access from the public highway[^c-6f8400986de421c613af8587e0ea57d7]
 
 Article 16
 
@@ -42,7 +42,7 @@ Article 16
 | In the County of Flintshire | B5121 | Works for the installation, use and maintenance of a new access between points marked 28-A and 28-B on sheet 28 of the access rights of way plans |
 | In the County of Flintshire | Racecourse Lane | Works for the installation, use and maintenance of a new access between points marked 29-A and 29-B on sheet 29 of the access rights of way plans |
 
-### PART 2 — New temporary means of access from the public highway[^key-3c5df75b4d8211f3eba0f5637d7eed6f]
+### PART 2 — New temporary means of access from the public highway[^c-3c5df75b4d8211f3eba0f5637d7eed6f]
 
 Article 16
 
@@ -53,7 +53,7 @@ Article 16
 | In the County of Flintshire | Holywell Road | Works for the installation and maintenance of a new access at a point marked 18-J on sheet 18 of the access and rights of way plans |
 | In the County of Flintshire | B5125 (Village Road) | Works for the installation and maintenance of a new access at a point marked 20-E on sheet 20 of the access and rights of way plans |
 
-### PART 3 — New private means of access[^key-609f8d6f4140d8045ee5c3134df09698]
+### PART 3 — New private means of access[^c-609f8d6f4140d8045ee5c3134df09698]
 
 Article 16 and 18
 
@@ -136,8 +136,8 @@ Article 16 and 18
 
 ## Annotations
 
-[^key-6f8400986de421c613af8587e0ea57d7]: Commencement: Sch. 4 Pt. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-6f8400986de421c613af8587e0ea57d7]: Commencement: Sch. 4 Pt. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
-[^key-3c5df75b4d8211f3eba0f5637d7eed6f]: Commencement: Sch. 4 Pt. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-3c5df75b4d8211f3eba0f5637d7eed6f]: Commencement: Sch. 4 Pt. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
-[^key-609f8d6f4140d8045ee5c3134df09698]: Commencement: Sch. 4 Pt. 3 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-609f8d6f4140d8045ee5c3134df09698]: Commencement: Sch. 4 Pt. 3 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

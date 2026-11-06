@@ -22,39 +22,39 @@ summary: ''
 
 Section 126
 
-**1.**[^key-0fabdcf99d810e6d66a7190b833ec4c0] The Housing Act 2004 is amended as follows.
+**1.**[^c-0fabdcf99d810e6d66a7190b833ec4c0] The Housing Act 2004 is amended as follows.
 
-**2.**[^key-6b62c76bde6f55c2fdb2be8f240419e6] In section 30 (offence of failing to comply with improvement notice), after subsection (6) insert—
+**2.**[^c-6b62c76bde6f55c2fdb2be8f240419e6] In section 30 (offence of failing to comply with improvement notice), after subsection (6) insert—
 
 > (7) See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
 >
 > (8) If a local housing authority has imposed a financial penalty on a person under section 249A in respect of conduct amounting to an offence under this section the person may not be convicted of an offence under this section in respect of the conduct.
 
-**3.**[^key-1a07ab83d3f4980749dfd953d9a35c8b] In section 72 (offences in relation to licensing of HMOs), after subsection (7) insert—
+**3.**[^c-1a07ab83d3f4980749dfd953d9a35c8b] In section 72 (offences in relation to licensing of HMOs), after subsection (7) insert—
 
 > (7A) See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
 >
 > (7B) If a local housing authority has imposed a financial penalty on a person under section 249A in respect of conduct amounting to an offence under this section the person may not be convicted of an offence under this section in respect of the conduct.
 
-**4.**[^key-cc66d3e897de2de3cefa10b4caeba414] In section 95 (offences in relation to licensing of houses under Part 3), after subsection (6) insert—
+**4.**[^c-cc66d3e897de2de3cefa10b4caeba414] In section 95 (offences in relation to licensing of houses under Part 3), after subsection (6) insert—
 
 > (6A) See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
 >
 > (6B) If a local housing authority has imposed a financial penalty on a person under section 249A in respect of conduct amounting to an offence under this section the person may not be convicted of an offence under this section in respect of the conduct.
 
-**5.**[^key-893d546e8c523afc338db40879f1c463] In section 139 (overcrowding notices), after subsection (9) insert—
+**5.**[^c-893d546e8c523afc338db40879f1c463] In section 139 (overcrowding notices), after subsection (9) insert—
 
 > (10) See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
 >
 > (11) If a local housing authority has imposed a financial penalty on a person under section 249A in respect of conduct amounting to an offence under this section the person may not be convicted of an offence under this section in respect of the conduct.
 
-**6.**[^key-b8a1daf51358524798efcde659593f52] In section 234 (management regulations in respect of HMOs), after subsection (5) insert—
+**6.**[^c-b8a1daf51358524798efcde659593f52] In section 234 (management regulations in respect of HMOs), after subsection (5) insert—
 
 > (6) See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
 >
 > (7) If a local housing authority has imposed a financial penalty on a person under section 249A in respect of conduct amounting to an offence under this section the person may not be convicted of an offence under this section in respect of the conduct.
 
-**7.**[^key-7fed14c49dd10d3b344a104e7d06bc24][^key-ebf263fb4bd273af17fa700da0ad0c01] After section 249 insert—
+**7.**[^c-7fed14c49dd10d3b344a104e7d06bc24][^c-ebf263fb4bd273af17fa700da0ad0c01] After section 249 insert—
 
 > **Financial penalties as alternative to prosecution**
 >
@@ -92,7 +92,7 @@ Section 126
 >
 > (9) For the purposes of this section a person's conduct includes a failure to act.
 
-**8.**[^key-149d20f63c83dcc766b6490c74de60c2] After Schedule 13 insert—
+**8.**[^c-149d20f63c83dcc766b6490c74de60c2] After Schedule 13 insert—
 
 > **SCHEDULE 13A — Financial penalties under section 249A**
 >
@@ -193,20 +193,20 @@ Section 126
 
 ## Annotations
 
-[^key-0fabdcf99d810e6d66a7190b833ec4c0]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/1) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
+[^c-0fabdcf99d810e6d66a7190b833ec4c0]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/1) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
 
-[^key-6b62c76bde6f55c2fdb2be8f240419e6]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/2) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
+[^c-6b62c76bde6f55c2fdb2be8f240419e6]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/2) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
 
-[^key-1a07ab83d3f4980749dfd953d9a35c8b]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/3) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
+[^c-1a07ab83d3f4980749dfd953d9a35c8b]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/3) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
 
-[^key-cc66d3e897de2de3cefa10b4caeba414]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/4) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
+[^c-cc66d3e897de2de3cefa10b4caeba414]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/4) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
 
-[^key-893d546e8c523afc338db40879f1c463]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/5) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
+[^c-893d546e8c523afc338db40879f1c463]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/5) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
 
-[^key-b8a1daf51358524798efcde659593f52]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/6) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
+[^c-b8a1daf51358524798efcde659593f52]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/6) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
 
-[^key-7fed14c49dd10d3b344a104e7d06bc24]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/7) in force at 10.3.2017 for specified purposes by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/281/regulation/3/b)
+[^c-7fed14c49dd10d3b344a104e7d06bc24]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/7) in force at 10.3.2017 for specified purposes by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/281/regulation/3/b)
 
-[^key-ebf263fb4bd273af17fa700da0ad0c01]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/7) in force at 6.4.2017 in so far as not already in force by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
+[^c-ebf263fb4bd273af17fa700da0ad0c01]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/7) in force at 6.4.2017 in so far as not already in force by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
 
-[^key-149d20f63c83dcc766b6490c74de60c2]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/8) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
+[^c-149d20f63c83dcc766b6490c74de60c2]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/8) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)

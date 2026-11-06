@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 172. General use of websites to deliver notices and other documents[^key-eae5f65c2fc139be893faaea229af29b]
+## 172. General use of websites to deliver notices and other documents[^c-eae5f65c2fc139be893faaea229af29b]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eae5f65c2fc139be893faaea229af29b]: Commencement: Rule 172 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-eae5f65c2fc139be893faaea229af29b]: Commencement: Rule 172 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

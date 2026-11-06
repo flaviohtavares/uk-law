@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95ZA. Standards of performance in connection with provision of sewerage services: sewerage licensees[^key-e54325d700858bdf647282a774377fbf]
+## 95ZA. Standards of performance in connection with provision of sewerage services: sewerage licensees[^c-e54325d700858bdf647282a774377fbf]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e54325d700858bdf647282a774377fbf]: Textual amendment: S. 95ZA inserted (1.11.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/1), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(e)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/e)
+[^c-e54325d700858bdf647282a774377fbf]: Textual amendment: S. 95ZA inserted (1.11.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/1), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(e)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/e)

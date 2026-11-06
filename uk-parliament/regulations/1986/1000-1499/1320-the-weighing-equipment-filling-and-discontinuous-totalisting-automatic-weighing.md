@@ -43,17 +43,17 @@ Coming into Operation
 
 1st September 1986
 
-The Secretary of State, in exercise of the powers conferred by sections 11(1), (4) and (7), 12(12), 15(1), 86(1) and 94(1) of the Weights and Measures Act 1985 and of all other powers enabling him in that behalf, hereby makes the following Regulations:—[^key-587a222f3a640f743b8fc09114eec309]
+The Secretary of State, in exercise of the powers conferred by sections 11(1), (4) and (7), 12(12), 15(1), 86(1) and 94(1) of the Weights and Measures Act 1985 and of all other powers enabling him in that behalf, hereby makes the following Regulations:—[^c-587a222f3a640f743b8fc09114eec309]
 
 ## PART I — GENERAL
 
 *Extent: E+W+S*
 
-### 1. Citation and commencement[^key-e739728b96f8331437017f2e533da482]
+### 1. Citation and commencement[^c-e739728b96f8331437017f2e533da482]
 
 These Regulations may be cited as the Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) Regulations 1986 and shall come into operation on 1st September 1986.
 
-### 2. Interpretation[^key-cdb268d6c7e57a0657a5b86ae0cf6c34]
+### 2. Interpretation[^c-cdb268d6c7e57a0657a5b86ae0cf6c34]
 
 (1) In these Regulations—
 
@@ -61,7 +61,7 @@ These Regulations may be cited as the Weighing Equipment (Filling and Discontinu
 - “**analogue**” means capable of assigning any value or position within a continuous range;
 - “**automatic weighing machine**” means weighing equipment that includes a machine which accomplishes a weighing operation without intervention by an operator and which sets in motion an automatic process characteristic of the machine;
 - “**certificate of approval**” means a certificate of approval of a pattern of weighing equipment granted or renewed by the Secretary of State under section 12 of the Act or any instrument having effect under paragraph 11 of Schedule 11 to the Act as if it were a certificate of approval so granted on 4th April 1979;
-- “Class”, in relation to a discontinuous totaliser, means the Class of accuracy specified in the first column of Table 2 in Schedule 3 to these Regulations which corresponds to the limits of error specified in the second and third columns of that Table;[^key-d9dbd4d3878720cdc5e2d957b47cff9a]
+- “Class”, in relation to a discontinuous totaliser, means the Class of accuracy specified in the first column of Table 2 in Schedule 3 to these Regulations which corresponds to the limits of error specified in the second and third columns of that Table;[^c-d9dbd4d3878720cdc5e2d957b47cff9a]
 - “**device for interpolation of reading**” means a device which subdivides without special adjustment the scale of a machine with an analogue indicator;
 - “**digital**” means capable of assigning only certain discrete values or positions within a continuous range by a series of discontinuous steps;
 - “**discontinuous totaliser**” means a discontinuous totalising automatic weighing machine which systematically sub-divides material in bulk into separate loads, determines the mass of material in each load, effects a summation of loads and discharges the material into bulk;
@@ -86,7 +86,7 @@ These Regulations may be cited as the Weighing Equipment (Filling and Discontinu
 - “**the stamp**” means the prescribed stamp[^f00001];
 - “**tare device**” means a device for resetting the weight indicating device and the weight printing device to zero when a load is placed on the load receptor;
 - “**test load**” means a load of suitable material used for material testing;
-- “totalisation scale interval” means the value, expressed in units of mass, of the scale interval of the principal totalisation indicating device of the machine, that is to say, the part of the machine which indicates the sum of all the loads weighed and discharged to bulk;[^key-c89c7f97283c36635a3f23fed3c1e45d]
+- “totalisation scale interval” means the value, expressed in units of mass, of the scale interval of the principal totalisation indicating device of the machine, that is to say, the part of the machine which indicates the sum of all the loads weighed and discharged to bulk;[^c-c89c7f97283c36635a3f23fed3c1e45d]
 - “**weighing unit**” means a device which provides information on the mass of the load being weighed by the machine;
 - “**weight indicating device**” means a device which is not a weight printing device and which indicates the weight of a load on a load receptor of the machine; and
 - “**weight printing device**” is a device which can print the weight of a load which is on a load receptor of the machine.
@@ -97,13 +97,13 @@ These Regulations may be cited as the Weighing Equipment (Filling and Discontinu
 | --- | --- |
 | hundredweight | cwt |
 | quarter | qr |
-| [^key-79cd30b0efa1dcdc2ca4cbc852391d55]. . . | [^key-79cd30b0efa1dcdc2ca4cbc852391d55]. . . |
-| [^key-79cd30b0efa1dcdc2ca4cbc852391d55]. . . | [^key-79cd30b0efa1dcdc2ca4cbc852391d55]. . . |
+| [^c-79cd30b0efa1dcdc2ca4cbc852391d55]. . . | [^c-79cd30b0efa1dcdc2ca4cbc852391d55]. . . |
+| [^c-79cd30b0efa1dcdc2ca4cbc852391d55]. . . | [^c-79cd30b0efa1dcdc2ca4cbc852391d55]. . . |
 | tonne | t |
 | kilogram | kg |
 | gram | g, grm. |
 
-### 3. Application[^key-7bb516a095ac7f5c5e98e9616a2ae0ea]
+### 3. Application[^c-7bb516a095ac7f5c5e98e9616a2ae0ea]
 
 (1) Subject to paragraph (2) below, Parts II and V of these Regulations apply to all automatic weighing machines of the following description namely filling machines and discontinuous totalisers, Part III applies to filling machines and Part IV to discontinuous totalisers, for use for trade, and such machines are hereby prescribed for the purposes of section 11(1) of the Act.
 
@@ -115,7 +115,7 @@ These Regulations may be cited as the Weighing Equipment (Filling and Discontinu
 
 .
 
-### 4. Purposes of use for trade[^key-601bd54ec49be4840e350c1737e7b1aa]
+### 4. Purposes of use for trade[^c-601bd54ec49be4840e350c1737e7b1aa]
 
 No person shall use for trade an automatic weighing machine except for the purpose of weighing material the values of which, expressed in units of measurement of mass, are neither less than the value of the minimum load and the minimum totalised load nor more than the value of the maximum capacity.
 
@@ -123,44 +123,44 @@ No person shall use for trade an automatic weighing machine except for the purpo
 
 *Extent: E+W+S*
 
-**5.**[^key-f18a185a202435e489651a4db97ab85f] Regulations 6 to 13 below apply to automatic weighing machines consisting of filling machines and discontinuous totalisers.
+**5.**[^c-f18a185a202435e489651a4db97ab85f] Regulations 6 to 13 below apply to automatic weighing machines consisting of filling machines and discontinuous totalisers.
 
-**6.**[^key-eea24e5aa41d44e646e6bfc488eb7b9a] (1) Every automatic weighing machine which has readily removable parts, the removal of which would affect its accuracy, shall be so constructed that it cannot be used if any of the said parts are removed.
+**6.**[^c-eea24e5aa41d44e646e6bfc488eb7b9a] (1) Every automatic weighing machine which has readily removable parts, the removal of which would affect its accuracy, shall be so constructed that it cannot be used if any of the said parts are removed.
 
 (2) Where an automatic weighing machine has interchangeable or reversible parts, the interchange or reversal thereof shall not affect its metrological characteristics.
 
-**7.**[^key-85f88c73c8b0501cbe69c6983265e917] The constituent parts of an automatic weighing machine shall be sufficiently strong to withstand the wear and tear of ordinary use in trade.
+**7.**[^c-85f88c73c8b0501cbe69c6983265e917] The constituent parts of an automatic weighing machine shall be sufficiently strong to withstand the wear and tear of ordinary use in trade.
 
-**8.**[^key-a15d954229abce445c608f30ad9464ce] Where an automatic weighing machine is fitted with a zero-setting device designed to compensate for the wear and tear of ordinary use in trade, the device shall have a total range not exceeding 4 per cent. of the maximum capacity of that machine.
+**8.**[^c-a15d954229abce445c608f30ad9464ce] Where an automatic weighing machine is fitted with a zero-setting device designed to compensate for the wear and tear of ordinary use in trade, the device shall have a total range not exceeding 4 per cent. of the maximum capacity of that machine.
 
-**9.**[^key-00a478ea8dd827583c61f47c3af30520] Where an automatic weighing machine is provided with a means of giving a visual indication of the value of the measurement made of individual quantities of material or of comparisons with such values, it shall be so constructed as to provide for each and practicable weighings for test purposes not exceeding the maximum capacity of that machine.
+**9.**[^c-00a478ea8dd827583c61f47c3af30520] Where an automatic weighing machine is provided with a means of giving a visual indication of the value of the measurement made of individual quantities of material or of comparisons with such values, it shall be so constructed as to provide for each and practicable weighings for test purposes not exceeding the maximum capacity of that machine.
 
-**10.**[^key-3a05681dc5d3a103a596731ed9516ae6] (1) Subject to the following paragraphs of this Regulation, every automatic weighing machine shall be made in accordance with a pattern in respect of which a certificate of approval is in force.
+**10.**[^c-3a05681dc5d3a103a596731ed9516ae6] (1) Subject to the following paragraphs of this Regulation, every automatic weighing machine shall be made in accordance with a pattern in respect of which a certificate of approval is in force.
 
 (2) The marking of a machine in accordance with the requirements of Regulations 11, 18 and 25 below after it has been made in accordance with such a pattern shall not in itself be a breach of paragraph (1) above.
 
 (3) Any dispensation from the observance of the requirements of Regulation 5(1)(b) of the Weights and Measures Regulations 1963, being a dispensation made by the Secretary of State before the date of coming into operation of these Regulations under the provisions of section 14(3) of the Act or under section 14(3) of the Weights and Measures Act 1963 and relating to an automatic weighing machine, shall be deemed to be a dispensation from the observance of the requirements of paragraph (1) above.
 
-**11.**[^key-a582e339199b7ff0cf71ddfe38ba7459] Every automatic weighing machines passed as fit for use for trade on or after the date of coming into operation of these Regulations shall be legibly and durably marked with:—
+**11.**[^c-a582e339199b7ff0cf71ddfe38ba7459] Every automatic weighing machines passed as fit for use for trade on or after the date of coming into operation of these Regulations shall be legibly and durably marked with:—
 
 - (a) the name of the maker or supplier;
 - (b) the number of the certificate of approval or of the notice of examination in respect of the pattern in accordance with which the machine is made, preceded by the words “Certification No.”, “Cert. No.” or “Notice No.” as the case may be; and
 - (c) such other markings appropriate to the type of machine, as specified in Regulation 18 or 25.
 
-**12.**[^key-60a2bf45298a0d39920a67a1a4d99a12] (1) Where units of measurement are marked on automatic weighing machines first passed as fit for use for trade:
+**12.**[^c-60a2bf45298a0d39920a67a1a4d99a12] (1) Where units of measurement are marked on automatic weighing machines first passed as fit for use for trade:
 
-- (a) before 1st December 1980, they shall be marked in full though not in pounds or ounces,[^key-ac831f3009a69f3610725dc20cd09e13] or, except in the case of the ton, by means of one of the following abbreviations or symbols only:—
+- (a) before 1st December 1980, they shall be marked in full though not in pounds or ounces,[^c-ac831f3009a69f3610725dc20cd09e13] or, except in the case of the ton, by means of one of the following abbreviations or symbols only:—
 
-  cwt, qr, [^key-b883fec0db2b428414bc5b71f5d96af7]... t, kg, kilog, g, gram;
-- (b) on or after that date, they shall be marked, in metric units [^key-3f50d1de86d79bfb50ddb026be0551f6]..., in full or by means of one of the following [^key-3f50d1de86d79bfb50ddb026be0551f6]... symbols only:—
+  cwt, qr, [^c-b883fec0db2b428414bc5b71f5d96af7]... t, kg, kilog, g, gram;
+- (b) on or after that date, they shall be marked, in metric units [^c-3f50d1de86d79bfb50ddb026be0551f6]..., in full or by means of one of the following [^c-3f50d1de86d79bfb50ddb026be0551f6]... symbols only:—
 
-  [^key-3f50d1de86d79bfb50ddb026be0551f6]... t, kg, g.
+  [^c-3f50d1de86d79bfb50ddb026be0551f6]... t, kg, g.
 
 (2) Nothing in paragraph (1) above shall authorise the use for trade of the ton, hundredweight or quarter in any circumstances other than those permitted by paragraph 14(1) and (3) of Schedule 11 to the Act.
 
-**12A.**[^key-e2ad7680d150ebec4a215ff0757ddd93] Where either the indication of the exact quantity of material a filling machine purports to weigh or the visual indication of the weight of individual quantities of materials weighed by a discontinuous totaliser is given in metric units of measurement that indication may also be given by means of a supplementary indication [^key-3ed39898c16b9001aa3e62f57a842afb]....
+**12A.**[^c-e2ad7680d150ebec4a215ff0757ddd93] Where either the indication of the exact quantity of material a filling machine purports to weigh or the visual indication of the weight of individual quantities of materials weighed by a discontinuous totaliser is given in metric units of measurement that indication may also be given by means of a supplementary indication [^c-3ed39898c16b9001aa3e62f57a842afb]....
 
-**13.**[^key-a136ba15e543e1a2e0c43841f18aec3e] Every automatic weighing machine shall be provided with either—
+**13.**[^c-a136ba15e543e1a2e0c43841f18aec3e] Every automatic weighing machine shall be provided with either—
 
 - (a) a plug or stud made of soft metal and made irremovable by undercuting, or
 - (b) such sealing arrangements as may be contained in the certificate of approval or the notice of examination in respect of that pattern.
@@ -171,17 +171,17 @@ No person shall use for trade an automatic weighing machine except for the purpo
 
 ### Principles of construction and marking
 
-**14.**[^key-7ab9733bc931c5c21fb658b8174e824f] (1) Every filling machine which is not provided with a load receptor, the material being put directly into a container attached to the live part of the machine, shall be provided with a tare device.
+**14.**[^c-7ab9733bc931c5c21fb658b8174e824f] (1) Every filling machine which is not provided with a load receptor, the material being put directly into a container attached to the live part of the machine, shall be provided with a tare device.
 
 (2) Every movable filling machine shall be fitted with one or more level indicating devices.
 
-**15.**[^key-bf6e9cf310103a5f39b6b62741d2cbf4] Where a filling machine is provided with a manually controlled discharge facility it shall be so constructed that the facility cannot be operated during an automatic process.
+**15.**[^c-bf6e9cf310103a5f39b6b62741d2cbf4] Where a filling machine is provided with a manually controlled discharge facility it shall be so constructed that the facility cannot be operated during an automatic process.
 
-**16.**[^key-1401bb5e9b20c4984c80bd1a5ae73995] Every filling machine shall be provided with a clear indication of the exact quantity of material it purports to weigh.
+**16.**[^c-1401bb5e9b20c4984c80bd1a5ae73995] Every filling machine shall be provided with a clear indication of the exact quantity of material it purports to weigh.
 
-**17.**[^key-768b3198dec63a087c45e973bf89fad5] No filling machines shall be fitted with a rider or with a weight indicating device incorporating a device for interpolation of reading.
+**17.**[^c-768b3198dec63a087c45e973bf89fad5] No filling machines shall be fitted with a rider or with a weight indicating device incorporating a device for interpolation of reading.
 
-**18.**[^key-90abc0e001ebbf63cd8a50cc00c8eb73] Every filling machine passed as fit for use for trade on or after the date of coming into operation of these Regulations shall be legibly and durably marked, in addition to the markings required by Regulation 11 above, with:—
+**18.**[^c-90abc0e001ebbf63cd8a50cc00c8eb73] Every filling machine passed as fit for use for trade on or after the date of coming into operation of these Regulations shall be legibly and durably marked, in addition to the markings required by Regulation 11 above, with:—
 
 - (a) either—
   - (i) the maximum capacity, or
@@ -193,38 +193,38 @@ No person shall use for trade an automatic weighing machine except for the purpo
 
 ### Manner of erection and use for trade
 
-**19.**[^key-01c70b128e57a836a26d73d77a5706ff] (1) Every filling machine in use for trade shall be so positioned as to facilitate cleaning and testing.
+**19.**[^c-01c70b128e57a836a26d73d77a5706ff] (1) Every filling machine in use for trade shall be so positioned as to facilitate cleaning and testing.
 
 (2) No person shall use for trade any filling machine fitted with level indicating devices unless each such device indicates that it has been set to its reference position.
 
-**20.**[^key-42caebb13acb506aa503d66bc822d5f6] Where a filling machine is marked with a temperature range, no person shall use the machine for trade in temperatures outside that range.
+**20.**[^c-42caebb13acb506aa503d66bc822d5f6] Where a filling machine is marked with a temperature range, no person shall use the machine for trade in temperatures outside that range.
 
-**21.**[^key-1180651deecdf06897966df03dade517] Where a filling machine is fitted with a weight printing device, the machine shall be so erected and used that the printing device, when used, produces a clear and indelible printout for all loads within the weighing range of the machine.
+**21.**[^c-1180651deecdf06897966df03dade517] Where a filling machine is fitted with a weight printing device, the machine shall be so erected and used that the printing device, when used, produces a clear and indelible printout for all loads within the weighing range of the machine.
 
 ### Testing
 
-**22.**[^key-c1648f01add135d48e0df3fabf560fb7] (1) Every filling machine submitted for testing shall be completely assembled and in a clean condition.
+**22.**[^c-c1648f01add135d48e0df3fabf560fb7] (1) Every filling machine submitted for testing shall be completely assembled and in a clean condition.
 
-(2) A filling machine, other than one which has been transported without having been dismantled or is one where an inspector is satisfied that any dismantling and re-assembly or transportation of that filling machine to the position in which it is to be used could not, in his opinion, affect the accuracy or functioning of that filling machine,[^key-333cf1580af40781ff6c5165c526e091] shall not be tested, passed as fit for use for trade and stamped unless it has been completely erected ready for use and installed in the position in which it is to be used.
+(2) A filling machine, other than one which has been transported without having been dismantled or is one where an inspector is satisfied that any dismantling and re-assembly or transportation of that filling machine to the position in which it is to be used could not, in his opinion, affect the accuracy or functioning of that filling machine,[^c-333cf1580af40781ff6c5165c526e091] shall not be tested, passed as fit for use for trade and stamped unless it has been completely erected ready for use and installed in the position in which it is to be used.
 
 (3) For the purposes of the performance by an inspector of his functions under the Act or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of any filling machine, a person submitting such a machine to an inspector or who an inspector has reasonable cause to believe has control of such a machine for use for trade shall, if requested, provide for the inspector's use such material as the inspector may reasonably require, and any material so provided shall be returned to the person in question.
 
-**23.**[^key-7516d655f6d7c174d14cf4e82dc2e25f] (1) The inspector shall, subject to paragraph (2) below, test a filling machine in accordance with the provisions of Schedule 1 to these Regulations.
+**23.**[^c-7516d655f6d7c174d14cf4e82dc2e25f] (1) The inspector shall, subject to paragraph (2) below, test a filling machine in accordance with the provisions of Schedule 1 to these Regulations.
 
 (2) In the case of a machine made in accordance with a pattern in respect of which a certificate of approval is in force, being a machine for which certain of the testing provisions of Schedule 1 are not practicable or effective and which has a statement to that effect appended to the certificate of approval or the notice of examination in respect of that pattern, the machine shall, in place of the said testing provisions, be subject to any test or tests specified in the certificate of approval or the notice of examination.
 
-#### 23A. Filling Machines imported from a member State or an EEA State[^key-38cedfd68dd3765effadd54056361948][^key-02bcefbc7b3c6e2d84e2d3b4b5768646]
+#### 23A. Filling Machines imported from a member State or an EEA State[^c-38cedfd68dd3765effadd54056361948][^c-02bcefbc7b3c6e2d84e2d3b4b5768646]
 
-(1) In relation to a filling machine imported into Great Britain from a member State[^key-6bbb669cc9d22a89f78dae919268c19b] or from an EEA State, subject to paragraph (4) below, an inspector shall not carry out any test in accordance with the foregoing provisions of this Part of these Regulations if, together with the filling machine being imported, he is presented with the requisite documentation.
+(1) In relation to a filling machine imported into Great Britain from a member State[^c-6bbb669cc9d22a89f78dae919268c19b] or from an EEA State, subject to paragraph (4) below, an inspector shall not carry out any test in accordance with the foregoing provisions of this Part of these Regulations if, together with the filling machine being imported, he is presented with the requisite documentation.
 
 (2) In this regulation and in regulation 34 below–
 
 - (a) “requisite documentation” means–
   - (i) the test report of an approved body that the filling machine which is the subject of that report has been tested on the same basis as those set out in this Part of these Regulations and stating which tests have been applied to it; and
   - (ii) the test results relating to those tests; and
-- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^key-07ad871da97663459431603e2a5908a3]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
+- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^c-07ad871da97663459431603e2a5908a3]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
 
-(3)[^key-3717f28dbbb0126c93c826d1f075cea5] A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of filling machines or is a laboratory which has been accredited for the purposes of testing filling machines in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000.
+(3)[^c-3717f28dbbb0126c93c826d1f075cea5] A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of filling machines or is a laboratory which has been accredited for the purposes of testing filling machines in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000.
 
 (4) Nothing in these Regulations shall prevent an inspector testing in accordance with the foregoing provisions of this Part of these Regulations where he is not satisfied–
 
@@ -238,16 +238,16 @@ No person shall use for trade an automatic weighing machine except for the purpo
 
 ### Principles of construction and marking
 
-**24.**[^key-38c04e516e14d62c3f1037a2dfd36b63] (1)[^key-bf06aef594e330130642fa99e7d65c43] Where a discontinuous totaliser in provided with a visual indication of the weight of individual quantities of material, the machine may, for test purposes only, be constructed so that—
+**24.**[^c-38c04e516e14d62c3f1037a2dfd36b63] (1)[^c-bf06aef594e330130642fa99e7d65c43] Where a discontinuous totaliser in provided with a visual indication of the weight of individual quantities of material, the machine may, for test purposes only, be constructed so that—
 
 - (a) on manual command, the automatic processing of material is interrupted prior to the filling stage and the discharge stage, and
 - (b) the weight display scale is further subdivided.
 
-(2)[^key-b9eeb40e38c24638a89b016bc1dfc52d] In the case of every discontinuous totaliser first passed as fit for use for trade on or after 29th April 1996, the totalisation scale interval shall fall within the range 0.01% to 0.2% of the maximum capacity.
+(2)[^c-b9eeb40e38c24638a89b016bc1dfc52d] In the case of every discontinuous totaliser first passed as fit for use for trade on or after 29th April 1996, the totalisation scale interval shall fall within the range 0.01% to 0.2% of the maximum capacity.
 
-**25.**[^key-08907718d8c66d886a25305858cc45bc] Every discontinuous totaliser passed as fit for use for trade on or after the date of coming into operation of these Regulations shall be legibly and durably marked, in addition to the markings required by Regulation 11 above, with:—
+**25.**[^c-08907718d8c66d886a25305858cc45bc] Every discontinuous totaliser passed as fit for use for trade on or after the date of coming into operation of these Regulations shall be legibly and durably marked, in addition to the markings required by Regulation 11 above, with:—
 
-- (a)[^key-6c2d0c87e6aff0f18c4dc7de83ef42d9] its Class;
+- (a)[^c-6c2d0c87e6aff0f18c4dc7de83ef42d9] its Class;
 - (b) the maximum capacity of the load receptor;
 - (c) the minimum load for automatic operation;
 - (d) the minimum totalised load; and
@@ -255,20 +255,20 @@ No person shall use for trade an automatic weighing machine except for the purpo
 
 ### Manner of erection and use for trade
 
-**26.**[^key-be47aaf7797e3dc5b525655592579821] (1) Every discontinuous totaliser shall be erected in such a way that it is possible to test it in situ, including in particular the depositing on and removal from every load receptor of test loads in a reliable and easy manner, without disrupting the normal operation of the machine.
+**26.**[^c-be47aaf7797e3dc5b525655592579821] (1) Every discontinuous totaliser shall be erected in such a way that it is possible to test it in situ, including in particular the depositing on and removal from every load receptor of test loads in a reliable and easy manner, without disrupting the normal operation of the machine.
 
-(2)[^key-9122c063b99f6e4f3a7e1bfc0a6f5b27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9122c063b99f6e4f3a7e1bfc0a6f5b27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-9122c063b99f6e4f3a7e1bfc0a6f5b27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9122c063b99f6e4f3a7e1bfc0a6f5b27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Nothing in paragraph (1)[^key-f321afe2a8b3ec5fa532a279538864fe] above shall apply to any discontinuous totaliser first passed at fit for use for trade before 1st January 1988.
+(4) Nothing in paragraph (1)[^c-f321afe2a8b3ec5fa532a279538864fe] above shall apply to any discontinuous totaliser first passed at fit for use for trade before 1st January 1988.
 
-**27.**[^key-00e106cf4fee254c84e7aeaceeb0caac] No person shall use a discontinuous totaliser for trade in such a manner as to cause—
+**27.**[^c-00e106cf4fee254c84e7aeaceeb0caac] No person shall use a discontinuous totaliser for trade in such a manner as to cause—
 
 - (a) spillage of material from a load receptor; or
 - (b) loading of the weighing unit above its maximum capacity.
 
-**28.**[^key-f6c0d03a9bce003431044a7a32e25e57] (1) Subject to paragraph (3) below, every discontinuous totaliser having either a non-automatic zero-setting device or a semi-automatic zero setting device shall be erected in such a manner that the operator can, notwithstanding the nature of the machine or its surroundings, readily take up a single position from which he can:—
+**28.**[^c-f6c0d03a9bce003431044a7a32e25e57] (1) Subject to paragraph (3) below, every discontinuous totaliser having either a non-automatic zero-setting device or a semi-automatic zero setting device shall be erected in such a manner that the operator can, notwithstanding the nature of the machine or its surroundings, readily take up a single position from which he can:—
 
 - (a) check the zero or given point indication, and
 - (b) operate the zero or given point setting controls.
@@ -277,37 +277,37 @@ No person shall use for trade an automatic weighing machine except for the purpo
 
 (3) Nothing in paragraphs (1) and (2) above shall apply to any discontinuous totaliser first passed as fit for use for trade before 1st January 1988.
 
-**29.**[^key-d5ce277f9321f46cd9b8ae5ba471daa0] Where a discontinuous totaliser is fitted with a weight printing device, the machine shall be so erected and used that the printing device, when used, produces a clear and indelible printout for all loads and with the same scale interval as the relevant indicator.
+**29.**[^c-d5ce277f9321f46cd9b8ae5ba471daa0] Where a discontinuous totaliser is fitted with a weight printing device, the machine shall be so erected and used that the printing device, when used, produces a clear and indelible printout for all loads and with the same scale interval as the relevant indicator.
 
-**30.**[^key-8badb7c5ce903dc589d99988f14a327c] Where a discontinuous totaliser is marked with a temperature range, no person shall use the machine for trade in temperatures, outside that range.
+**30.**[^c-8badb7c5ce903dc589d99988f14a327c] Where a discontinuous totaliser is marked with a temperature range, no person shall use the machine for trade in temperatures, outside that range.
 
 ### Testing
 
-**31.**[^key-eed5051127c79f32f4db135e1427234a] (1)[^key-8ec2bad5780cde096aa02f37cfac407d] No discontinuous totaliser shall be tested, passed as fit for use for trade and stamped unless either—
+**31.**[^c-eed5051127c79f32f4db135e1427234a] (1)[^c-8ec2bad5780cde096aa02f37cfac407d] No discontinuous totaliser shall be tested, passed as fit for use for trade and stamped unless either—
 
 - (a) it has been completely erected ready for use and installed at the place where it is to be used, or
 - (b) it has been completely erected ready for use in conditions which are in all material respects the same as those at the place where it is to be used and it is not to be dismantled before it is installed at that place.
 
 (2) Every discontinuous totaliser submitted for testing shall be in a clean condition.
 
-(3) For the purposes of the performance by an inspector of his functions under the Act or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of any discontinuous totaliser, a person submitting such a machine to an inspector or who an inspector has reasonable cause to believe has control of such a machine for use for trade shall, if requested, provide for the inspector's use a non-automatic weighing machine which meets the requirements of[^key-1af6529ffaa680a9cfd0536bce04dbef] paragraph 5 in Part I of Schedule 2 to these Regulations[^key-5a6304aed9a55920b95b4870a9635f29] and such material as the inspector may reasonably require; and any such machine and material so provided shall be returned to the person in question.
+(3) For the purposes of the performance by an inspector of his functions under the Act or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of any discontinuous totaliser, a person submitting such a machine to an inspector or who an inspector has reasonable cause to believe has control of such a machine for use for trade shall, if requested, provide for the inspector's use a non-automatic weighing machine which meets the requirements of[^c-1af6529ffaa680a9cfd0536bce04dbef] paragraph 5 in Part I of Schedule 2 to these Regulations[^c-5a6304aed9a55920b95b4870a9635f29] and such material as the inspector may reasonably require; and any such machine and material so provided shall be returned to the person in question.
 
-**32.**[^key-0694abe0004006373fbf86494efe93ad] (1) The inspector shall, subject to paragraph (2) below, test a discontinuous totaliser in accordance with the provisions of Schedule 2 to these Regulations.
+**32.**[^c-0694abe0004006373fbf86494efe93ad] (1) The inspector shall, subject to paragraph (2) below, test a discontinuous totaliser in accordance with the provisions of Schedule 2 to these Regulations.
 
 (2) In the case of a machine made in accordance with a pattern in respect of which a certificate of approval is in force, being a machine for which certain of the testing provisions of Schedule 2 are not practicable or effective and which has a statement to that effect appended to the certificate of approval or the notice of examination in respect of that pattern, the machine shall, in place of the said testing provisions, be subject to any test or tests specified in the certificate of approval or the notice of examination.
 
-#### 32A. Discontinuous totalisers imported from a member State or an EEA State[^key-f9d270d4c2b5863efb0b89fea215553b][^key-6795b74826cc78275e099d4d1cea8e93]
+#### 32A. Discontinuous totalisers imported from a member State or an EEA State[^c-f9d270d4c2b5863efb0b89fea215553b][^c-6795b74826cc78275e099d4d1cea8e93]
 
-(1) In relation to discontinuous totalisers imported into Great Britain from a member State[^key-c2053deda7f20cfe697f13c34bc9053c] or from an EEA State, subject to paragraph (4) below, an inspector shall not carry out any test in accordance with the foregoing provisions of this Part of these Regulations if, together with the discontinuous totalisers being imported, he is presented with the requisite documentation.
+(1) In relation to discontinuous totalisers imported into Great Britain from a member State[^c-c2053deda7f20cfe697f13c34bc9053c] or from an EEA State, subject to paragraph (4) below, an inspector shall not carry out any test in accordance with the foregoing provisions of this Part of these Regulations if, together with the discontinuous totalisers being imported, he is presented with the requisite documentation.
 
 (2) In this regulation and in regulation 34 below—
 
 - (a) “requisite documentation” means—
   - (i) the test report of an approved body that the discontinuous totalisers which are the subject of that report have been tested on the same basis as those set out in this Part of these Regulations and stating which tests have been applied to them; and
   - (ii) the test results relating to those tests; and
-- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^key-d618718377786a36d0a3745daf84f084]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
+- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^c-d618718377786a36d0a3745daf84f084]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
 
-(3)[^key-cf2da6616f7f2e4dedca575d71d3bc8b] A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of discontinuous totalisers or is a laboratory which has been accredited for the purposes of testing discontinuous totalisers in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000.
+(3)[^c-cf2da6616f7f2e4dedca575d71d3bc8b] A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of discontinuous totalisers or is a laboratory which has been accredited for the purposes of testing discontinuous totalisers in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000.
 
 (4) Nothing in these Regulations shall prevent an inspector testing in accordance with the foregoing provisions of this Part of these Regulations where he is not satisfied—
 
@@ -321,9 +321,9 @@ No person shall use for trade an automatic weighing machine except for the purpo
 
 ### Prescribed limits of error
 
-**33.**[^key-174f395d18d49f41106761f3fa77ab03] (1) The prescribed limits of error relating to filling machines shall be those set out in columns 3 to 6 of Table 1 in Schedule 3 to these Regulations.
+**33.**[^c-174f395d18d49f41106761f3fa77ab03] (1) The prescribed limits of error relating to filling machines shall be those set out in columns 3 to 6 of Table 1 in Schedule 3 to these Regulations.
 
-(2)[^key-8b935ddd2322cf9feab3165a6d62974b] In the case—
+(2)[^c-8b935ddd2322cf9feab3165a6d62974b] In the case—
 
 - (a) of a discontinuous totaliser first passed as fit for use for trade on or after 29th April 1996, the prescribed limits of error relating to the several Classes specified in the first column in Table 2 in Schedule 3 to these Regulations shall be those respectively set out in the second and third columns of that Table; and
 - (b) of a discontinuous totaliser first passed as fit for use for trade before 29th April 1996, the prescribed limits of error shall be those so set out in relation to Class 1.
@@ -332,39 +332,39 @@ No person shall use for trade an automatic weighing machine except for the purpo
 
 ### Passing as fit for use for trade
 
-**34.**[^key-c9690c7d0219e39db9bc8f148a843af4] (1)[^key-544e3e21e9b2b6396b866763d61278f5] Subject to paragraph (2) below,[^key-edbb95ff7517791c6331393d7cb5bcab] no automatic weighing machine shall be passed as fit for use for trade unless:—
+**34.**[^c-c9690c7d0219e39db9bc8f148a843af4] (1)[^c-544e3e21e9b2b6396b866763d61278f5] Subject to paragraph (2) below,[^c-edbb95ff7517791c6331393d7cb5bcab] no automatic weighing machine shall be passed as fit for use for trade unless:—
 
 - (a) it complies with all the appropriate requirements of these Regulations; and
 - (b) on testing, it falls within the prescribed limits of error in relation to passing as fit for use for trade.
 
-(2)[^key-39133baf5b3f2c8e514620511b434daf] A filling machine or[^key-8d3d1ba8ec33db5ce71c7883af325485] discontinuous totaliser imported from a member State[^key-d3c297b7ed065bb7f119d8993407d0fd] or from an EEA State shall not be passed as fit for use for trade unless—
+(2)[^c-39133baf5b3f2c8e514620511b434daf] A filling machine or[^c-8d3d1ba8ec33db5ce71c7883af325485] discontinuous totaliser imported from a member State[^c-d3c297b7ed065bb7f119d8993407d0fd] or from an EEA State shall not be passed as fit for use for trade unless—
 
-- (a) where the requisite documentation is presented in accordance with regulation 23A or 32A above, as the case may be[^key-fa4b91a148f529b52285b2b529530d54], the test report recites and the test data confirm to the satisfaction of the inspector that on testing in accordance with the provisions of the law of a member State or an EEA State it fell within limits of error which afford in use an equivalent standard to the prescribed limits of error; and
+- (a) where the requisite documentation is presented in accordance with regulation 23A or 32A above, as the case may be[^c-fa4b91a148f529b52285b2b529530d54], the test report recites and the test data confirm to the satisfaction of the inspector that on testing in accordance with the provisions of the law of a member State or an EEA State it fell within limits of error which afford in use an equivalent standard to the prescribed limits of error; and
 - (b) it otherwise complies with all the relevant requirements of these Regulations; and
-- (c)[^key-790316bc9bd7331701ace708a1f945fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-790316bc9bd7331701ace708a1f945fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Stamping
 
-**35.**[^key-b98f6a3aa21037ffd4085b2708f9367b] (1)[^key-fe2142366dfd253d78b27b5a8ffa4bde] The stamp shall be placed on the plug or stud referred to in sub-paragraph (a) of regulation 13 above or on any sealing device required by the arrangements referred to in sub-paragraph (b) of that regulation.
+**35.**[^c-b98f6a3aa21037ffd4085b2708f9367b] (1)[^c-fe2142366dfd253d78b27b5a8ffa4bde] The stamp shall be placed on the plug or stud referred to in sub-paragraph (a) of regulation 13 above or on any sealing device required by the arrangements referred to in sub-paragraph (b) of that regulation.
 
 (2) No automatic weighing machine shall be stamped in accordance with paragraph (1) above if it bears any mark which, in the opinion of the inspector, might reasonably be mistaken for the stamp, or any statement or mark (other than an inspector's stamp) which purports to be or, in the opinion of the inspector, might reasonably be mistaken for an expression of approval or guarantee of accuracy by any body or person.
 
 ### Obliteration of stamps
 
-**36.**[^key-73d1d217bfa533017ee241441d7dc88e] Stamps shall be obliterated by an inspector, in accordance with the requirements of these Regulations, by means of punches or pincers of suitable sizes of a six-pointed star design as shown in the following illustration:—
+**36.**[^c-73d1d217bfa533017ee241441d7dc88e] Stamps shall be obliterated by an inspector, in accordance with the requirements of these Regulations, by means of punches or pincers of suitable sizes of a six-pointed star design as shown in the following illustration:—
 
 [image: see source](https://www.legislation.gov.uk/uksi/1986/1320/images/go000411)
 
-**37.**[^key-4f6cb474b85978cb98299ed68f082fca] (1) Subject to paragraph (2) below, an inspector shall obliterate the stamp on any automatic weighing machine which—
+**37.**[^c-4f6cb474b85978cb98299ed68f082fca] (1) Subject to paragraph (2) below, an inspector shall obliterate the stamp on any automatic weighing machine which—
 
 - (a) fails upon testing to fall within the prescribed limits of error in relation to obliteration of the stamp; or
 - (b) fails to comply with any other appropriate requirement of these Regulations.
 
 (2) Except as provided by Regulation 38 below, where any automatic weighing machine does not fully comply with the requirements of these Regulations, but the nature or degree of the non-compliance is not, in the inspector's opinion, such as to require the immediate obliteration of the stamp, he shall give to the proprietor or any person in control of the machine a notice calling on him to have the machine corrected within a stated period not exceeding 28 days, and shall obliterate the stamp if the correction has not been made within the stated period.
 
-**38.**[^key-416810024eaa49e2c556b79a11c08883] An inspector shall obliterate the stamp on any automatic weighing machine which has, since it was last stamped, had any alteration or addition made to it such that it could not be passed as fit for use for trade under Regulation 34 above.
+**38.**[^c-416810024eaa49e2c556b79a11c08883] An inspector shall obliterate the stamp on any automatic weighing machine which has, since it was last stamped, had any alteration or addition made to it such that it could not be passed as fit for use for trade under Regulation 34 above.
 
-**39.**[^key-1507ef0650a38a66ad4969dbfa1efd42] An inspector may obliterate the stamp on any automatic weighing machine which:—
+**39.**[^c-1507ef0650a38a66ad4969dbfa1efd42] An inspector may obliterate the stamp on any automatic weighing machine which:—
 
 - (a) has, since it was last stamped, been the subject of any adjustment, alteration, addition, repair or replacement which could, in the opinion of the inspector, have affected its accuracy or function;
 - (b) is in use for trade for a particular purpose and:
@@ -374,7 +374,7 @@ No person shall use for trade an automatic weighing machine except for the purpo
   - (i) prevent the machine operating consistently and correctly; or
   - (ii) are likely prematurely to degrade the metrological characteristics of the machine.
 
-**40.**[^key-ae5d73fac051bf58319f82aa40f14807] (1) For the purpose of these Regulations, the obliteration of any one stamp on any automatic weighing machine shall, subject to paragraph (2) below, be deemed to be the obliteration of all other stamps on that machine.
+**40.**[^c-ae5d73fac051bf58319f82aa40f14807] (1) For the purpose of these Regulations, the obliteration of any one stamp on any automatic weighing machine shall, subject to paragraph (2) below, be deemed to be the obliteration of all other stamps on that machine.
 
 (2) Where the stamp on one automatic weighing machine forming part of an interconnected system is obliterated, paragraph (1) above shall not apply so as to prevent the system or any other machine in the system being used provided that the integrity of the remainder of the system is unimpaired.
 
@@ -396,7 +396,7 @@ Regulation 23
 
 #### Setting to zero
 
-**1.**[^key-147788d6b92a0da75513f1b42e8f1a5d] (1) Subject to sub-paragraph (2) below, in testing any filling machine, the inspector shall satisfy himself that:—
+**1.**[^c-147788d6b92a0da75513f1b42e8f1a5d] (1) Subject to sub-paragraph (2) below, in testing any filling machine, the inspector shall satisfy himself that:—
 
 - (a) it is properly balanced or set to zero when unloaded;
 - (b) any beam or leverwork has sufficient room for oscillation and returns to the position of equilibrium when the load is removed;
@@ -406,9 +406,9 @@ Regulation 23
 
 #### Material testing
 
-**2.**[^key-95d4f93afbc9f947485f1d4620e57525] Before commencing material testing of the filling machine, the inspector shall satisfy himself that the arrangements to be used for determining the weight of material used in test loads selected in accordance with paragraph 3(1)(a) below will give weight determinations such that in respect of each test load the weight determination shall be to an accuracy equal to or better than one-fifth of the limits of error prescribed in respect of that load.
+**2.**[^c-95d4f93afbc9f947485f1d4620e57525] Before commencing material testing of the filling machine, the inspector shall satisfy himself that the arrangements to be used for determining the weight of material used in test loads selected in accordance with paragraph 3(1)(a) below will give weight determinations such that in respect of each test load the weight determination shall be to an accuracy equal to or better than one-fifth of the limits of error prescribed in respect of that load.
 
-**3.**[^key-a8bac6072c525aa21a0d64de24bc979b] (1) Every filling machine shall be subjected to the following test (hereinafter referred to as “**test A**”) that is to say the inspector shall—
+**3.**[^c-a8bac6072c525aa21a0d64de24bc979b] (1) Every filling machine shall be subjected to the following test (hereinafter referred to as “**test A**”) that is to say the inspector shall—
 
 - (a) select 20 separate consecutive test loads;
 - (b) determine the weight of the material in each test load using the arrangements referred to in paragraph 2 above;
@@ -420,7 +420,7 @@ Regulation 23
 
 (4) Where a filling machine is constructed to feed and weigh material of more than one purported weight, the inspector shall select two groups of 20 separate consecutive test loads, one group of test loads each made up as nearly as practicable equal to the minimum load and one other group.
 
-**4.**[^key-600c0ad909bf47e90f6bad8935e0a255] (1) Subject to sub-paragraph (3) below, if in the course of performing test A the weight of any test load exceeds the purported weight by more than:
+**4.**[^c-600c0ad909bf47e90f6bad8935e0a255] (1) Subject to sub-paragraph (3) below, if in the course of performing test A the weight of any test load exceeds the purported weight by more than:
 
 - (a) one-half per cent., or the appropriate amount per cent. given in column 3 of Table 1 in Schedule 3 to these Regulations for weighing specified materials, of the purported weight in relation to passing as fit for use for trade, or
 - (b) one per cent., or the appropriate amount per cent. given in column 5 of the said Table 1 for weighing specified materials, of the purported weight in relation to the obliteration of the stamp,
@@ -435,7 +435,7 @@ the filling machine shall be subjected to the further test B that is to say the 
 - (b) with a maximum capacity of 55 kg or less, used only for weighing vegetable produce;
 - (c) with a maximum capacity of less than 5 kg, used for weighing all other materials except potato crisps and other similar products commonly known as snack foods.
 
-## SCHEDULE 2 — DISCONTINUOUS TOTALISERS[^key-01e8c225a706cfed1cd9798505fcca2a]
+## SCHEDULE 2 — DISCONTINUOUS TOTALISERS[^c-01e8c225a706cfed1cd9798505fcca2a]
 
 Regulation 32(1)
 
@@ -503,7 +503,7 @@ Regulation 32(1)
 
 (9) For each group of tests referred to in sub-paragraph (5)(a) above, the inspector shall determine the material test error by ascertaining the difference between the weight of material determined as required by that sub-paragraph and the value of the weight of material obtained from the totalisation indicating device in accordance with sub-paragraphs (1)(b) and (5)(b) above.
 
-## SCHEDULE 3 — PRESCRIBED LIMITS OF ERROR[^key-cff35ffb08b25ee63e12d2f524d52b15]
+## SCHEDULE 3 — PRESCRIBED LIMITS OF ERROR[^c-cff35ffb08b25ee63e12d2f524d52b15]
 
 *Extent: E+W+S*
 
@@ -528,7 +528,7 @@ TABLE 1
 </tbody>
 </table>
 
-### DISCONTINUOUS TOTALISERS[^key-d90b8e72102a2430c9215689082613b7]
+### DISCONTINUOUS TOTALISERS[^c-d90b8e72102a2430c9215689082613b7]
 
 **Table 2**
 
@@ -576,174 +576,174 @@ The Regulations make the following changes of substance:—
 
 ## Annotations
 
-[^key-587a222f3a640f743b8fc09114eec309]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1986/1320) disapplied (17.7.2000) by [The Weighing Equipment (Automatic Gravimetric Filling Instruments) Regulations 2000 (S.I. 2000/388)](https://www.legislation.gov.uk/uksi/2000/388), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2000/388/regulation/3), [4](https://www.legislation.gov.uk/uksi/2000/388/regulation/4))
+[^c-587a222f3a640f743b8fc09114eec309]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1986/1320) disapplied (17.7.2000) by [The Weighing Equipment (Automatic Gravimetric Filling Instruments) Regulations 2000 (S.I. 2000/388)](https://www.legislation.gov.uk/uksi/2000/388), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2000/388/regulation/3), [4](https://www.legislation.gov.uk/uksi/2000/388/regulation/4))
 
-[^key-e739728b96f8331437017f2e533da482]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-e739728b96f8331437017f2e533da482]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-cdb268d6c7e57a0657a5b86ae0cf6c34]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1986/1320/regulation/2) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-cdb268d6c7e57a0657a5b86ae0cf6c34]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1986/1320/regulation/2) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-d9dbd4d3878720cdc5e2d957b47cff9a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/2/1) added (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/1996/797/regulation/2/a)
+[^c-d9dbd4d3878720cdc5e2d957b47cff9a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/2/1) added (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/1996/797/regulation/2/a)
 
 [^f00001]: Footnote: *See* S.I. 1968/1615.
 
-[^key-c89c7f97283c36635a3f23fed3c1e45d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/2/1) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1996/797/regulation/2/b)
+[^c-c89c7f97283c36635a3f23fed3c1e45d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/2/1) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1996/797/regulation/2/b)
 
-[^key-79cd30b0efa1dcdc2ca4cbc852391d55]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/2/2) omitted (1.1.2000) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/3)
+[^c-79cd30b0efa1dcdc2ca4cbc852391d55]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/2/2) omitted (1.1.2000) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/3)
 
-[^key-7bb516a095ac7f5c5e98e9616a2ae0ea]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1986/1320/regulation/3) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-7bb516a095ac7f5c5e98e9616a2ae0ea]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1986/1320/regulation/3) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
 [^f00002]: Footnote: Regulation 1(2) was amended by S.I. 1977/1932, 1979/1612, 1983/914, 1655.
 
-[^key-601bd54ec49be4840e350c1737e7b1aa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1986/1320/regulation/4) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-601bd54ec49be4840e350c1737e7b1aa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1986/1320/regulation/4) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-f18a185a202435e489651a4db97ab85f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1986/1320/regulation/5) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-f18a185a202435e489651a4db97ab85f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1986/1320/regulation/5) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-eea24e5aa41d44e646e6bfc488eb7b9a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1986/1320/regulation/6) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-eea24e5aa41d44e646e6bfc488eb7b9a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1986/1320/regulation/6) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-85f88c73c8b0501cbe69c6983265e917]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1986/1320/regulation/7) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-85f88c73c8b0501cbe69c6983265e917]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1986/1320/regulation/7) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-a15d954229abce445c608f30ad9464ce]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1986/1320/regulation/8) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-a15d954229abce445c608f30ad9464ce]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1986/1320/regulation/8) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-00a478ea8dd827583c61f47c3af30520]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1986/1320/regulation/9) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-00a478ea8dd827583c61f47c3af30520]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1986/1320/regulation/9) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-3a05681dc5d3a103a596731ed9516ae6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1986/1320/regulation/10) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-3a05681dc5d3a103a596731ed9516ae6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1986/1320/regulation/10) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-a582e339199b7ff0cf71ddfe38ba7459]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1986/1320/regulation/11) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-a582e339199b7ff0cf71ddfe38ba7459]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1986/1320/regulation/11) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-60a2bf45298a0d39920a67a1a4d99a12]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1986/1320/regulation/12) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-60a2bf45298a0d39920a67a1a4d99a12]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1986/1320/regulation/12) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-ac831f3009a69f3610725dc20cd09e13]: Textual amendment: Words in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/12/1/a) inserted (1.1.2000) by [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/III)
+[^c-ac831f3009a69f3610725dc20cd09e13]: Textual amendment: Words in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/12/1/a) inserted (1.1.2000) by [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/III)
 
-[^key-b883fec0db2b428414bc5b71f5d96af7]: Textual amendment: Word in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/12/1/a) omitted (1.1.2000) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/III)
+[^c-b883fec0db2b428414bc5b71f5d96af7]: Textual amendment: Word in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/12/1/a) omitted (1.1.2000) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/III)
 
-[^key-3f50d1de86d79bfb50ddb026be0551f6]: Textual amendment: Words in [reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/12/1/b) omitted (1.1.2000) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/III)
+[^c-3f50d1de86d79bfb50ddb026be0551f6]: Textual amendment: Words in [reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/12/1/b) omitted (1.1.2000) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/III)
 
-[^key-e2ad7680d150ebec4a215ff0757ddd93]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/1986/1320/regulation/12A) inserted (7.11.1994 immediately after [S.I. 1994/2867](https://www.legislation.gov.uk/uksi/1994/2867) comes into force) by [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/I)
+[^c-e2ad7680d150ebec4a215ff0757ddd93]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/1986/1320/regulation/12A) inserted (7.11.1994 immediately after [S.I. 1994/2867](https://www.legislation.gov.uk/uksi/1994/2867) comes into force) by [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/I)
 
-[^key-3ed39898c16b9001aa3e62f57a842afb]: Textual amendment: Words in [reg. 12A](https://www.legislation.gov.uk/uksi/1986/1320/regulation/12A) omitted (1.1.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 2009 (S.I. 2009/3045)](https://www.legislation.gov.uk/uksi/2009/3045), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3045/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2009/3045/regulation/3/2/c)
+[^c-3ed39898c16b9001aa3e62f57a842afb]: Textual amendment: Words in [reg. 12A](https://www.legislation.gov.uk/uksi/1986/1320/regulation/12A) omitted (1.1.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 2009 (S.I. 2009/3045)](https://www.legislation.gov.uk/uksi/2009/3045), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3045/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2009/3045/regulation/3/2/c)
 
-[^key-a136ba15e543e1a2e0c43841f18aec3e]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1986/1320/regulation/13) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [3](https://www.legislation.gov.uk/uksi/1996/797/regulation/3)
+[^c-a136ba15e543e1a2e0c43841f18aec3e]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1986/1320/regulation/13) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [3](https://www.legislation.gov.uk/uksi/1996/797/regulation/3)
 
-[^key-7ab9733bc931c5c21fb658b8174e824f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1986/1320/regulation/14) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-7ab9733bc931c5c21fb658b8174e824f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1986/1320/regulation/14) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-bf6e9cf310103a5f39b6b62741d2cbf4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1986/1320/regulation/15) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-bf6e9cf310103a5f39b6b62741d2cbf4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1986/1320/regulation/15) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-1401bb5e9b20c4984c80bd1a5ae73995]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1986/1320/regulation/16) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-1401bb5e9b20c4984c80bd1a5ae73995]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1986/1320/regulation/16) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-768b3198dec63a087c45e973bf89fad5]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1986/1320/regulation/17) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-768b3198dec63a087c45e973bf89fad5]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1986/1320/regulation/17) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-90abc0e001ebbf63cd8a50cc00c8eb73]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1986/1320/regulation/18) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-90abc0e001ebbf63cd8a50cc00c8eb73]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1986/1320/regulation/18) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-01c70b128e57a836a26d73d77a5706ff]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1986/1320/regulation/19) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-01c70b128e57a836a26d73d77a5706ff]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1986/1320/regulation/19) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-42caebb13acb506aa503d66bc822d5f6]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1986/1320/regulation/20) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-42caebb13acb506aa503d66bc822d5f6]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1986/1320/regulation/20) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-1180651deecdf06897966df03dade517]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1986/1320/regulation/21) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-1180651deecdf06897966df03dade517]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1986/1320/regulation/21) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-c1648f01add135d48e0df3fabf560fb7]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1986/1320/regulation/22) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-c1648f01add135d48e0df3fabf560fb7]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1986/1320/regulation/22) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-333cf1580af40781ff6c5165c526e091]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/22/2) inserted (17.3.2000) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 2000 (S.I. 2000/387)](https://www.legislation.gov.uk/uksi/2000/387), [regs. 1](https://www.legislation.gov.uk/uksi/2000/387/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2000/387/regulation/2/2)
+[^c-333cf1580af40781ff6c5165c526e091]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/22/2) inserted (17.3.2000) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 2000 (S.I. 2000/387)](https://www.legislation.gov.uk/uksi/2000/387), [regs. 1](https://www.legislation.gov.uk/uksi/2000/387/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2000/387/regulation/2/2)
 
-[^key-7516d655f6d7c174d14cf4e82dc2e25f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1986/1320/regulation/23) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-7516d655f6d7c174d14cf4e82dc2e25f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1986/1320/regulation/23) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-38cedfd68dd3765effadd54056361948]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/1986/1320/regulation/23A) inserted (17.3.2000) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 2000 (S.I. 2000/387)](https://www.legislation.gov.uk/uksi/2000/387), [regs. 1](https://www.legislation.gov.uk/uksi/2000/387/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2000/387/regulation/2/3)
+[^c-38cedfd68dd3765effadd54056361948]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/1986/1320/regulation/23A) inserted (17.3.2000) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 2000 (S.I. 2000/387)](https://www.legislation.gov.uk/uksi/2000/387), [regs. 1](https://www.legislation.gov.uk/uksi/2000/387/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2000/387/regulation/2/3)
 
-[^key-02bcefbc7b3c6e2d84e2d3b4b5768646]: Textual amendment: Words in [reg. 23A](https://www.legislation.gov.uk/uksi/1986/1320/regulation/23A) heading substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-02bcefbc7b3c6e2d84e2d3b4b5768646]: Textual amendment: Words in [reg. 23A](https://www.legislation.gov.uk/uksi/1986/1320/regulation/23A) heading substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6bbb669cc9d22a89f78dae919268c19b]: Textual amendment: Words in [reg. 23A(1)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/23A/1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6bbb669cc9d22a89f78dae919268c19b]: Textual amendment: Words in [reg. 23A(1)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/23A/1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-07ad871da97663459431603e2a5908a3]: Textual amendment: Words in [reg. 23A(2)(b)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/23A/2/b) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/3/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07ad871da97663459431603e2a5908a3]: Textual amendment: Words in [reg. 23A(2)(b)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/23A/2/b) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/3/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3717f28dbbb0126c93c826d1f075cea5]: Textual amendment: [Reg. 23A(3)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/23A/3) substituted (28.2.2003) by [The Weights and Measures (Standards Amendment)Regulations 2003 (S.I. 2003/214)](https://www.legislation.gov.uk/uksi/2003/214), [reg. 1](https://www.legislation.gov.uk/uksi/2003/214/regulation/1), [Sch. para. 2(i)](https://www.legislation.gov.uk/uksi/2003/214/schedule/paragraph/2/i)
+[^c-3717f28dbbb0126c93c826d1f075cea5]: Textual amendment: [Reg. 23A(3)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/23A/3) substituted (28.2.2003) by [The Weights and Measures (Standards Amendment)Regulations 2003 (S.I. 2003/214)](https://www.legislation.gov.uk/uksi/2003/214), [reg. 1](https://www.legislation.gov.uk/uksi/2003/214/regulation/1), [Sch. para. 2(i)](https://www.legislation.gov.uk/uksi/2003/214/schedule/paragraph/2/i)
 
-[^key-38c04e516e14d62c3f1037a2dfd36b63]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1986/1320/regulation/24) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-38c04e516e14d62c3f1037a2dfd36b63]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1986/1320/regulation/24) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-bf06aef594e330130642fa99e7d65c43]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/1986/1320/regulation/24) renumbered as reg. 24(1) (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [4](https://www.legislation.gov.uk/uksi/1996/797/regulation/4)
+[^c-bf06aef594e330130642fa99e7d65c43]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/1986/1320/regulation/24) renumbered as reg. 24(1) (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [4](https://www.legislation.gov.uk/uksi/1996/797/regulation/4)
 
-[^key-b9eeb40e38c24638a89b016bc1dfc52d]: Textual amendment: [Reg. 24(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/24/2) inserted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [4](https://www.legislation.gov.uk/uksi/1996/797/regulation/4)
+[^c-b9eeb40e38c24638a89b016bc1dfc52d]: Textual amendment: [Reg. 24(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/24/2) inserted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [4](https://www.legislation.gov.uk/uksi/1996/797/regulation/4)
 
-[^key-08907718d8c66d886a25305858cc45bc]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1986/1320/regulation/25) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-08907718d8c66d886a25305858cc45bc]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1986/1320/regulation/25) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-6c2d0c87e6aff0f18c4dc7de83ef42d9]: Textual amendment: [Regs. 25(a)-(e)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/25/a) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [5](https://www.legislation.gov.uk/uksi/1996/797/regulation/5)
+[^c-6c2d0c87e6aff0f18c4dc7de83ef42d9]: Textual amendment: [Regs. 25(a)-(e)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/25/a) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [5](https://www.legislation.gov.uk/uksi/1996/797/regulation/5)
 
-[^key-be47aaf7797e3dc5b525655592579821]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1986/1320/regulation/26) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-be47aaf7797e3dc5b525655592579821]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1986/1320/regulation/26) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-9122c063b99f6e4f3a7e1bfc0a6f5b27]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/26/2)[(3)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/26/3) omitted (29.4.1996) by virtue of [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/1996/797/regulation/6/a)
+[^c-9122c063b99f6e4f3a7e1bfc0a6f5b27]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/26/2)[(3)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/26/3) omitted (29.4.1996) by virtue of [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/1996/797/regulation/6/a)
 
-[^key-f321afe2a8b3ec5fa532a279538864fe]: Textual amendment: Words in [reg. 26(4)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/26/4) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/1996/797/regulation/6/b)
+[^c-f321afe2a8b3ec5fa532a279538864fe]: Textual amendment: Words in [reg. 26(4)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/26/4) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/1996/797/regulation/6/b)
 
-[^key-00e106cf4fee254c84e7aeaceeb0caac]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1986/1320/regulation/27) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-00e106cf4fee254c84e7aeaceeb0caac]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1986/1320/regulation/27) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-f6c0d03a9bce003431044a7a32e25e57]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1986/1320/regulation/28) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-f6c0d03a9bce003431044a7a32e25e57]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1986/1320/regulation/28) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-d5ce277f9321f46cd9b8ae5ba471daa0]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1986/1320/regulation/29) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-d5ce277f9321f46cd9b8ae5ba471daa0]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1986/1320/regulation/29) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-8badb7c5ce903dc589d99988f14a327c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1986/1320/regulation/30) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-8badb7c5ce903dc589d99988f14a327c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1986/1320/regulation/30) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-eed5051127c79f32f4db135e1427234a]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1986/1320/regulation/31) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-eed5051127c79f32f4db135e1427234a]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1986/1320/regulation/31) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-8ec2bad5780cde096aa02f37cfac407d]: Textual amendment: [Reg. 31(1)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/31/1) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/1996/797/regulation/7/a)
+[^c-8ec2bad5780cde096aa02f37cfac407d]: Textual amendment: [Reg. 31(1)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/31/1) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/1996/797/regulation/7/a)
 
-[^key-1af6529ffaa680a9cfd0536bce04dbef]: Textual amendment: Words in [reg. 31(3)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/31/3) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/1996/797/regulation/7/b)
+[^c-1af6529ffaa680a9cfd0536bce04dbef]: Textual amendment: Words in [reg. 31(3)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/31/3) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/1996/797/regulation/7/b)
 
-[^key-5a6304aed9a55920b95b4870a9635f29]: Textual amendment: Words in [reg. 31(3)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/31/3) substituted (17.3.2000) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 2000 (S.I. 2000/387)](https://www.legislation.gov.uk/uksi/2000/387), [regs. 1](https://www.legislation.gov.uk/uksi/2000/387/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2000/387/regulation/2/4)
+[^c-5a6304aed9a55920b95b4870a9635f29]: Textual amendment: Words in [reg. 31(3)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/31/3) substituted (17.3.2000) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 2000 (S.I. 2000/387)](https://www.legislation.gov.uk/uksi/2000/387), [regs. 1](https://www.legislation.gov.uk/uksi/2000/387/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2000/387/regulation/2/4)
 
-[^key-0694abe0004006373fbf86494efe93ad]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1986/1320/regulation/32) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-0694abe0004006373fbf86494efe93ad]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1986/1320/regulation/32) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-f9d270d4c2b5863efb0b89fea215553b]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/1986/1320/regulation/32A) inserted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [8](https://www.legislation.gov.uk/uksi/1996/797/regulation/8)
+[^c-f9d270d4c2b5863efb0b89fea215553b]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/1986/1320/regulation/32A) inserted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [8](https://www.legislation.gov.uk/uksi/1996/797/regulation/8)
 
-[^key-6795b74826cc78275e099d4d1cea8e93]: Textual amendment: Words in [reg. 32A](https://www.legislation.gov.uk/uksi/1986/1320/regulation/32A) heading substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6795b74826cc78275e099d4d1cea8e93]: Textual amendment: Words in [reg. 32A](https://www.legislation.gov.uk/uksi/1986/1320/regulation/32A) heading substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c2053deda7f20cfe697f13c34bc9053c]: Textual amendment: Words in [reg. 32A(1)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/32A/1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2053deda7f20cfe697f13c34bc9053c]: Textual amendment: Words in [reg. 32A(1)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/32A/1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d618718377786a36d0a3745daf84f084]: Textual amendment: Words in [reg. 32A(2)(b)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/32A/2/b) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 3(3)(c)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/3/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d618718377786a36d0a3745daf84f084]: Textual amendment: Words in [reg. 32A(2)(b)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/32A/2/b) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 3(3)(c)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/3/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cf2da6616f7f2e4dedca575d71d3bc8b]: Textual amendment: [Reg. 32A(3)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/32A/3) substituted (28.2.2003) by [The Weights and Measures (Standards Amendment)Regulations 2003 (S.I. 2003/214)](https://www.legislation.gov.uk/uksi/2003/214), [reg. 1](https://www.legislation.gov.uk/uksi/2003/214/regulation/1), [Sch. para. 2(ii)](https://www.legislation.gov.uk/uksi/2003/214/schedule/paragraph/2/ii)
+[^c-cf2da6616f7f2e4dedca575d71d3bc8b]: Textual amendment: [Reg. 32A(3)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/32A/3) substituted (28.2.2003) by [The Weights and Measures (Standards Amendment)Regulations 2003 (S.I. 2003/214)](https://www.legislation.gov.uk/uksi/2003/214), [reg. 1](https://www.legislation.gov.uk/uksi/2003/214/regulation/1), [Sch. para. 2(ii)](https://www.legislation.gov.uk/uksi/2003/214/schedule/paragraph/2/ii)
 
-[^key-174f395d18d49f41106761f3fa77ab03]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1986/1320/regulation/33) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-174f395d18d49f41106761f3fa77ab03]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1986/1320/regulation/33) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-8b935ddd2322cf9feab3165a6d62974b]: Textual amendment: [Reg. 33(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/33/2)[(3)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/33/3) substituted for [reg. 33(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/33/2) (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [9](https://www.legislation.gov.uk/uksi/1996/797/regulation/9)
+[^c-8b935ddd2322cf9feab3165a6d62974b]: Textual amendment: [Reg. 33(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/33/2)[(3)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/33/3) substituted for [reg. 33(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/33/2) (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [9](https://www.legislation.gov.uk/uksi/1996/797/regulation/9)
 
-[^key-c9690c7d0219e39db9bc8f148a843af4]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-c9690c7d0219e39db9bc8f148a843af4]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-544e3e21e9b2b6396b866763d61278f5]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34) renumbered as reg. 34(1) (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [10](https://www.legislation.gov.uk/uksi/1996/797/regulation/10)
+[^c-544e3e21e9b2b6396b866763d61278f5]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34) renumbered as reg. 34(1) (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [10](https://www.legislation.gov.uk/uksi/1996/797/regulation/10)
 
-[^key-edbb95ff7517791c6331393d7cb5bcab]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34/1) inserted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [10](https://www.legislation.gov.uk/uksi/1996/797/regulation/10)
+[^c-edbb95ff7517791c6331393d7cb5bcab]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34/1) inserted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [10](https://www.legislation.gov.uk/uksi/1996/797/regulation/10)
 
-[^key-39133baf5b3f2c8e514620511b434daf]: Textual amendment: [Reg. 34(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34/2) inserted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [10](https://www.legislation.gov.uk/uksi/1996/797/regulation/10)
+[^c-39133baf5b3f2c8e514620511b434daf]: Textual amendment: [Reg. 34(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34/2) inserted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [10](https://www.legislation.gov.uk/uksi/1996/797/regulation/10)
 
-[^key-8d3d1ba8ec33db5ce71c7883af325485]: Textual amendment: Words in [reg. 34(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34/2) inserted (17.3.2000) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 2000 (S.I. 2000/387)](https://www.legislation.gov.uk/uksi/2000/387), [regs. 1](https://www.legislation.gov.uk/uksi/2000/387/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2000/387/regulation/2/5/a)
+[^c-8d3d1ba8ec33db5ce71c7883af325485]: Textual amendment: Words in [reg. 34(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34/2) inserted (17.3.2000) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 2000 (S.I. 2000/387)](https://www.legislation.gov.uk/uksi/2000/387), [regs. 1](https://www.legislation.gov.uk/uksi/2000/387/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2000/387/regulation/2/5/a)
 
-[^key-d3c297b7ed065bb7f119d8993407d0fd]: Textual amendment: Words in [reg. 34(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34/2) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 3(4)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d3c297b7ed065bb7f119d8993407d0fd]: Textual amendment: Words in [reg. 34(2)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34/2) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 3(4)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fa4b91a148f529b52285b2b529530d54]: Textual amendment: Words in [reg. 34(2)(a)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34/2/a) substituted (17.3.2000) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 2000 (S.I. 2000/387)](https://www.legislation.gov.uk/uksi/2000/387), [regs. 1](https://www.legislation.gov.uk/uksi/2000/387/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2000/387/regulation/2/5/b)
+[^c-fa4b91a148f529b52285b2b529530d54]: Textual amendment: Words in [reg. 34(2)(a)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34/2/a) substituted (17.3.2000) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 2000 (S.I. 2000/387)](https://www.legislation.gov.uk/uksi/2000/387), [regs. 1](https://www.legislation.gov.uk/uksi/2000/387/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2000/387/regulation/2/5/b)
 
-[^key-790316bc9bd7331701ace708a1f945fc]: Textual amendment: [Reg. 34(2)(c)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34/2/c) omitted (17.3.2000) by virtue of [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 2000 (S.I. 2000/387)](https://www.legislation.gov.uk/uksi/2000/387), [regs. 1](https://www.legislation.gov.uk/uksi/2000/387/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2000/387/regulation/2/5/c)
+[^c-790316bc9bd7331701ace708a1f945fc]: Textual amendment: [Reg. 34(2)(c)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/34/2/c) omitted (17.3.2000) by virtue of [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 2000 (S.I. 2000/387)](https://www.legislation.gov.uk/uksi/2000/387), [regs. 1](https://www.legislation.gov.uk/uksi/2000/387/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2000/387/regulation/2/5/c)
 
-[^key-b98f6a3aa21037ffd4085b2708f9367b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1986/1320/regulation/35) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-b98f6a3aa21037ffd4085b2708f9367b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1986/1320/regulation/35) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-fe2142366dfd253d78b27b5a8ffa4bde]: Textual amendment: [Reg. 35(1)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/35/1) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [11](https://www.legislation.gov.uk/uksi/1996/797/regulation/11)
+[^c-fe2142366dfd253d78b27b5a8ffa4bde]: Textual amendment: [Reg. 35(1)](https://www.legislation.gov.uk/uksi/1986/1320/regulation/35/1) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [11](https://www.legislation.gov.uk/uksi/1996/797/regulation/11)
 
-[^key-73d1d217bfa533017ee241441d7dc88e]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1986/1320/regulation/36) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-73d1d217bfa533017ee241441d7dc88e]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1986/1320/regulation/36) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-4f6cb474b85978cb98299ed68f082fca]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1986/1320/regulation/37) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-4f6cb474b85978cb98299ed68f082fca]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1986/1320/regulation/37) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-416810024eaa49e2c556b79a11c08883]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1986/1320/regulation/38) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-416810024eaa49e2c556b79a11c08883]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1986/1320/regulation/38) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-1507ef0650a38a66ad4969dbfa1efd42]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1986/1320/regulation/39) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-1507ef0650a38a66ad4969dbfa1efd42]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1986/1320/regulation/39) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-ae5d73fac051bf58319f82aa40f14807]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1986/1320/regulation/40) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-ae5d73fac051bf58319f82aa40f14807]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1986/1320/regulation/40) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-147788d6b92a0da75513f1b42e8f1a5d]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1986/1320/schedule/1/paragraph/1) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-147788d6b92a0da75513f1b42e8f1a5d]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1986/1320/schedule/1/paragraph/1) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-95d4f93afbc9f947485f1d4620e57525]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1986/1320/schedule/1/paragraph/2) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-95d4f93afbc9f947485f1d4620e57525]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1986/1320/schedule/1/paragraph/2) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-a8bac6072c525aa21a0d64de24bc979b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1986/1320/schedule/1/paragraph/3) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-a8bac6072c525aa21a0d64de24bc979b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1986/1320/schedule/1/paragraph/3) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-600c0ad909bf47e90f6bad8935e0a255]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1986/1320/schedule/1/paragraph/4) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-600c0ad909bf47e90f6bad8935e0a255]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1986/1320/schedule/1/paragraph/4) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-01e8c225a706cfed1cd9798505fcca2a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1986/1320/schedule/2) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [12](https://www.legislation.gov.uk/uksi/1996/797/regulation/12)
+[^c-01e8c225a706cfed1cd9798505fcca2a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1986/1320/schedule/2) substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [12](https://www.legislation.gov.uk/uksi/1996/797/regulation/12)
 
-[^key-cff35ffb08b25ee63e12d2f524d52b15]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1986/1320/schedule/3) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
+[^c-cff35ffb08b25ee63e12d2f524d52b15]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1986/1320/schedule/3) in force at 1.9.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1320/regulation/1)
 
-[^key-d90b8e72102a2430c9215689082613b7]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1986/1320/schedule/3) Table 2 substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [13](https://www.legislation.gov.uk/uksi/1996/797/regulation/13)
+[^c-d90b8e72102a2430c9215689082613b7]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1986/1320/schedule/3) Table 2 substituted (29.4.1996) by [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996 (S.I. 1996/797)](https://www.legislation.gov.uk/uksi/1996/797), [regs. 1](https://www.legislation.gov.uk/uksi/1996/797/regulation/1), [13](https://www.legislation.gov.uk/uksi/1996/797/regulation/13)

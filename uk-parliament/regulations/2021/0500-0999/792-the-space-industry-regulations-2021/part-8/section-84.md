@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. A spaceflight operator’s organisation[^key-366e5d1d5f0ee128c4fd542cfb6678bc]
+## 84. A spaceflight operator’s organisation[^c-366e5d1d5f0ee128c4fd542cfb6678bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-366e5d1d5f0ee128c4fd542cfb6678bc]: Commencement: Reg. 84 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-366e5d1d5f0ee128c4fd542cfb6678bc]: Commencement: Reg. 84 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

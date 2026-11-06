@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. Defence to proceedings in respect of statutory nuisance[^key-0e4874124deb44d6c2c7a9a1c9d57f8b]
+## 63. Defence to proceedings in respect of statutory nuisance[^c-0e4874124deb44d6c2c7a9a1c9d57f8b]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ do not apply where the consent relates to the use of premises by the promoter fo
 
 ## Annotations
 
-[^key-0e4874124deb44d6c2c7a9a1c9d57f8b]: Commencement: Art. 63 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-0e4874124deb44d6c2c7a9a1c9d57f8b]: Commencement: Art. 63 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
 [^f00032]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

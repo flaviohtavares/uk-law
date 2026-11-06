@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Lay observers[^key-17e4b43896df122d9855b5575ed86511]
+## 42. Lay observers[^c-17e4b43896df122d9855b5575ed86511]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17e4b43896df122d9855b5575ed86511]: Textual amendment: [Art. 42](https://www.legislation.gov.uk/nisi/1976/582/article/42) repealed (1.7.2026) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [ss. 9(2)](https://www.legislation.gov.uk/nia/2016/14/section/9/2), [55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5) (with [s. 9(3)](https://www.legislation.gov.uk/nia/2016/14/section/9/3)[(4)](https://www.legislation.gov.uk/nia/2016/14/section/9/4)); [S.R. 2026/112](https://www.legislation.gov.uk/nisr/2026/112), [art. 2](https://www.legislation.gov.uk/nisr/2026/112/article/2)
+[^c-17e4b43896df122d9855b5575ed86511]: Textual amendment: [Art. 42](https://www.legislation.gov.uk/nisi/1976/582/article/42) repealed (1.7.2026) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [ss. 9(2)](https://www.legislation.gov.uk/nia/2016/14/section/9/2), [55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5) (with [s. 9(3)](https://www.legislation.gov.uk/nia/2016/14/section/9/3)[(4)](https://www.legislation.gov.uk/nia/2016/14/section/9/4)); [S.R. 2026/112](https://www.legislation.gov.uk/nisr/2026/112), [art. 2](https://www.legislation.gov.uk/nisr/2026/112/article/2)

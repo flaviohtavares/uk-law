@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Certificates[^key-d1f4e636b2480a923c058bedc1f2cbdc]
+## 21. Certificates[^c-d1f4e636b2480a923c058bedc1f2cbdc]
 
 *Extent: N.I.*
 
@@ -28,10 +28,10 @@ summary: ''
   - (iii) in the case of a contract with a company limited by shares, one of the persons legally or beneficially owning shares in that company; or
 - (b) is not being treated by or under the supervision of a health care professional.
 
-(2)[^key-c91598a057677b910a547e779b8b024d] The exception in paragraph (1)(a) does not apply where the certificate is issued in accordance with regulation 2(1) of the Social Security (Medical Evidence) Regulations (Northern Ireland) 1976 (Evidence of incapacity for work, limited capability for work and confinement) or regulation 2(1) of the Statutory Sick Pay (Medical Evidence) Regulations (Northern Ireland) 1985 (Medical information).
+(2)[^c-c91598a057677b910a547e779b8b024d] The exception in paragraph (1)(a) does not apply where the certificate is issued in accordance with regulation 2(1) of the Social Security (Medical Evidence) Regulations (Northern Ireland) 1976 (Evidence of incapacity for work, limited capability for work and confinement) or regulation 2(1) of the Statutory Sick Pay (Medical Evidence) Regulations (Northern Ireland) 1985 (Medical information).
 
 ## Annotations
 
-[^key-d1f4e636b2480a923c058bedc1f2cbdc]: Commencement: Reg. 21 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-d1f4e636b2480a923c058bedc1f2cbdc]: Commencement: Reg. 21 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-c91598a057677b910a547e779b8b024d]: Textual amendment: [Reg. 21(2)](https://www.legislation.gov.uk/nisr/2004/140/regulation/21/2) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2013/59/regulation/7)
+[^c-c91598a057677b910a547e779b8b024d]: Textual amendment: [Reg. 21(2)](https://www.legislation.gov.uk/nisr/2004/140/regulation/21/2) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2013/59/regulation/7)

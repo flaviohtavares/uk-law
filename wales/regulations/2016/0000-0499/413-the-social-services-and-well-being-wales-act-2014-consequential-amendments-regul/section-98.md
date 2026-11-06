@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**98.**[^key-4cba9ed445796418106a46851009d9c9] In section 34[^f00119] (parental contact etc. with children in care)—
+**98.**[^c-4cba9ed445796418106a46851009d9c9] In section 34[^f00119] (parental contact etc. with children in care)—
 
 - (a) in subsection (1) after “section 22(3)(a)” insert “or, where the local authority is in Wales, under section 78(1)(a) of the Social Services and Well-being (Wales) Act 2014”;
 - (b) after subsection (6A)[^f00120] insert—
@@ -27,7 +27,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4cba9ed445796418106a46851009d9c9]: Commencement: Reg. 98 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-4cba9ed445796418106a46851009d9c9]: Commencement: Reg. 98 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00119]: Footnote: Section 34(1) was amended by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), sections 8(1) and 12(4) and Schedule 2, paragraphs 1 and 31.
 

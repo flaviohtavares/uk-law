@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Notice of removal of vehicle by district council[^key-eff7835e5607b17f07c94244e47643df][^key-88ef9a607d757c32441353ed07a46a6f]
+## 8. Notice of removal of vehicle by district council[^c-eff7835e5607b17f07c94244e47643df][^c-88ef9a607d757c32441353ed07a46a6f]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eff7835e5607b17f07c94244e47643df]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/23/section/8) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-eff7835e5607b17f07c94244e47643df]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/23/section/8) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-88ef9a607d757c32441353ed07a46a6f]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/23/section/8) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-88ef9a607d757c32441353ed07a46a6f]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/23/section/8) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

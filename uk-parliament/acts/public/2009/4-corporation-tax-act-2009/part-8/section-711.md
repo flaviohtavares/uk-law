@@ -51,13 +51,13 @@ summary: ''
 - (d) Chapter 12 and 13 (related parties),
 - (e) Chapter 14 (further provisions relating to miscellaneous cases),
 - (f) Chapter 15 (adjustments on change of accounting policies),
-- (fa)[^key-d6e3797cc38e4ea6f2f11b6c57276ee1] Chapter 15A (debits in respect of goodwill and certain other assets),
-- (fb)[^key-3cadff21c292dba804d4737799bed339] Chapter 16A (debits in respect of assets that were pre-FA 2002 assets etc),
+- (fa)[^c-d6e3797cc38e4ea6f2f11b6c57276ee1] Chapter 15A (debits in respect of goodwill and certain other assets),
+- (fb)[^c-3cadff21c292dba804d4737799bed339] Chapter 16A (debits in respect of assets that were pre-FA 2002 assets etc),
 - (fc) Chapter 16B (fungible assets), and
 - (g) Chapter 17 (insurance companies).
 
 ## Annotations
 
-[^key-d6e3797cc38e4ea6f2f11b6c57276ee1]: Textual amendment: S. 711(8)(fa) inserted (with effect in accordance with Sch. 9 para. 7 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/9/paragraph/2)
+[^c-d6e3797cc38e4ea6f2f11b6c57276ee1]: Textual amendment: S. 711(8)(fa) inserted (with effect in accordance with Sch. 9 para. 7 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/9/paragraph/2)
 
-[^key-3cadff21c292dba804d4737799bed339]: Textual amendment: S. 711(8)(fb)(fc) inserted (with effect in accordance with s. 31(14)(15) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/2)
+[^c-3cadff21c292dba804d4737799bed339]: Textual amendment: S. 711(8)(fb)(fc) inserted (with effect in accordance with s. 31(14)(15) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/2)

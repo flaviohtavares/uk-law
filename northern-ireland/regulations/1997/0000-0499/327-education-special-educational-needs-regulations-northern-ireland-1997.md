@@ -30,7 +30,7 @@ summary: ''
 
 EDUCATION
 
-Education (Special Educational Needs) Regulations (Northern Ireland) 1997 (revoked)[^key-d1c293e5083376de83e2f928c8e3196f]
+Education (Special Educational Needs) Regulations (Northern Ireland) 1997 (revoked)[^c-d1c293e5083376de83e2f928c8e3196f]
 
 Made
 
@@ -40,103 +40,103 @@ Coming into operation
 
 1st September 1997
 
-[^key-d1c293e5083376de83e2f928c8e3196f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1c293e5083376de83e2f928c8e3196f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Part I — General[^key-d1c293e5083376de83e2f928c8e3196f]
+## Part I — General[^c-d1c293e5083376de83e2f928c8e3196f]
 
-### 1. Citation and commencement[^key-d1c293e5083376de83e2f928c8e3196f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-d1c293e5083376de83e2f928c8e3196f]
+### 1. Citation and commencement[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Delegation of functions[^key-d1c293e5083376de83e2f928c8e3196f]
+### 2. Interpretation[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part II — Assessments[^key-d1c293e5083376de83e2f928c8e3196f]
-
-### 4. Notices relating to assessment[^key-d1c293e5083376de83e2f928c8e3196f]
+### 3. Delegation of functions[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Advice to be sought[^key-d1c293e5083376de83e2f928c8e3196f]
+## Part II — Assessments[^c-d1c293e5083376de83e2f928c8e3196f]
+
+### 4. Notices relating to assessment[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Educational advice[^key-d1c293e5083376de83e2f928c8e3196f]
+### 5. Advice to be sought[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Medical advice[^key-d1c293e5083376de83e2f928c8e3196f]
+### 6. Educational advice[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Psychological advice[^key-d1c293e5083376de83e2f928c8e3196f]
+### 7. Medical advice[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Matters to be taken into account in making an assessment[^key-d1c293e5083376de83e2f928c8e3196f]
+### 8. Psychological advice[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9A. Time Limits[^key-d1c293e5083376de83e2f928c8e3196f]
+### 9. Matters to be taken into account in making an assessment[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part III — Statements[^key-d1c293e5083376de83e2f928c8e3196f]
-
-### 10. Notice accompanying a proposed statement[^key-d1c293e5083376de83e2f928c8e3196f]
+### 9A. Time Limits[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Statement of special educational needs[^key-d1c293e5083376de83e2f928c8e3196f]
+## Part III — Statements[^c-d1c293e5083376de83e2f928c8e3196f]
+
+### 10. Notice accompanying a proposed statement[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Period for amending or ceasing to maintain a statement[^key-d1c293e5083376de83e2f928c8e3196f]
+### 11. Statement of special educational needs[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Review of statement where child not aged 14 attends school[^key-d1c293e5083376de83e2f928c8e3196f]
+### 12. Period for amending or ceasing to maintain a statement[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Review of statement where child aged 14 attends school[^key-d1c293e5083376de83e2f928c8e3196f]
+### 13. Review of statement where child not aged 14 attends school[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Review of statement where child does not attend school[^key-d1c293e5083376de83e2f928c8e3196f]
+### 14. Review of statement where child aged 14 attends school[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Transfer of statements[^key-d1c293e5083376de83e2f928c8e3196f]
+### 15. Review of statement where child does not attend school[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Restriction on disclosure of statements[^key-d1c293e5083376de83e2f928c8e3196f]
+### 16. Transfer of statements[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part IV — Revocation and transitional provisions[^key-d1c293e5083376de83e2f928c8e3196f]
-
-### 18. Revocation[^key-d1c293e5083376de83e2f928c8e3196f]
+### 17. Restriction on disclosure of statements[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Transitional provisions[^key-d1c293e5083376de83e2f928c8e3196f]
+## Part IV — Revocation and transitional provisions[^c-d1c293e5083376de83e2f928c8e3196f]
+
+### 18. Revocation[^c-d1c293e5083376de83e2f928c8e3196f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1c293e5083376de83e2f928c8e3196f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 19. Transitional provisions[^c-d1c293e5083376de83e2f928c8e3196f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d1c293e5083376de83e2f928c8e3196f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-d1c293e5083376de83e2f928c8e3196f]
+## SCHEDULE[^c-d1c293e5083376de83e2f928c8e3196f]
 
 Regulations 10 and 11
 
@@ -144,8 +144,8 @@ Regulations 10 and 11
 
 **May not be in force at this date. Check the source.**
 
-[^key-d1c293e5083376de83e2f928c8e3196f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1c293e5083376de83e2f928c8e3196f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1c293e5083376de83e2f928c8e3196f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/327) revoked (1.9.2005) by [The Education (Special Educational Needs) Regulations (Northern Ireland) 2005 (S.R. 2005/384)](https://www.legislation.gov.uk/nisr/2005/384), [regs. 1](https://www.legislation.gov.uk/nisr/2005/384/regulation/1), [25(a)](https://www.legislation.gov.uk/nisr/2005/384/regulation/25/a) (with [reg. 26](https://www.legislation.gov.uk/nisr/2005/384/regulation/26))
+[^c-d1c293e5083376de83e2f928c8e3196f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/327) revoked (1.9.2005) by [The Education (Special Educational Needs) Regulations (Northern Ireland) 2005 (S.R. 2005/384)](https://www.legislation.gov.uk/nisr/2005/384), [regs. 1](https://www.legislation.gov.uk/nisr/2005/384/regulation/1), [25(a)](https://www.legislation.gov.uk/nisr/2005/384/regulation/25/a) (with [reg. 26](https://www.legislation.gov.uk/nisr/2005/384/regulation/26))

@@ -22,7 +22,7 @@ summary: ''
 
 (1) Claims for fees by litigators in proceedings in the Crown Court must be made and determined in accordance with the provisions of Schedule 2 to these Regulations.
 
-(2) Claims for disbursements by litigators in proceedings in the Crown Court or in proceedings in a magistrates' court which are subsequently [^key-b5aa0e9565351be8788ed7fb8706ee1e]... sent for trial to the Crown Court must be made and determined in accordance with the provisions of regulations 14 to 17.
+(2) Claims for disbursements by litigators in proceedings in the Crown Court or in proceedings in a magistrates' court which are subsequently [^c-b5aa0e9565351be8788ed7fb8706ee1e]... sent for trial to the Crown Court must be made and determined in accordance with the provisions of regulations 14 to 17.
 
 (3) Subject to regulation 31, a claim by a litigator for fees in respect of work done pursuant to a section 16 determination must not be entertained unless the litigator submits it within three months of the conclusion of the proceedings to which it relates.
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5aa0e9565351be8788ed7fb8706ee1e]: Textual amendment: Words in reg. 5(2) omitted (5.10.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [5(2)(b)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/5/2/b) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))
+[^c-b5aa0e9565351be8788ed7fb8706ee1e]: Textual amendment: Words in reg. 5(2) omitted (5.10.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [5(2)(b)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/5/2/b) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))

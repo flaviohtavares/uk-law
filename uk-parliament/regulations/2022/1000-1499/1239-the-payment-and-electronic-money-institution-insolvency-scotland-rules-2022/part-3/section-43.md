@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Quorum at meetings[^key-3459a1872192a118d986ccfa97d25560]
+## 43. Quorum at meetings[^c-3459a1872192a118d986ccfa97d25560]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ the meeting must not commence until at least the expiry of 15 minutes after the 
 
 ## Annotations
 
-[^key-3459a1872192a118d986ccfa97d25560]: Commencement: Rule 43 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-3459a1872192a118d986ccfa97d25560]: Commencement: Rule 43 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
 
 [^f00014]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46); section 323 was amended by [S.I. 2009/1632](https://www.legislation.gov.uk/uksi/2009/1632).

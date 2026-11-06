@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32ZB. Details of political expenditure to be included in annual return[^key-507d353d487866f8262b9d9eefeeb414]
+## 32ZB. Details of political expenditure to be included in annual return[^c-507d353d487866f8262b9d9eefeeb414]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-507d353d487866f8262b9d9eefeeb414]: Textual amendment: S. 32ZB omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/80/2), [159(2)(m)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/m) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/13))
+[^c-507d353d487866f8262b9d9eefeeb414]: Textual amendment: S. 32ZB omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/80/2), [159(2)(m)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/m) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/13))

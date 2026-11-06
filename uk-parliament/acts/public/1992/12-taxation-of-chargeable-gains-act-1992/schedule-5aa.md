@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5AA — Meaning of “scheme of reconstruction”[^key-901449d6123a3a7dedb937de4feb12fb]
+## SCHEDULE 5AA — Meaning of “scheme of reconstruction”[^c-901449d6123a3a7dedb937de4feb12fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,7 +57,7 @@ and does not involve the issue of ordinary share capital of the successor compan
 
 (3) For the purposes of this paragraph a business carried on by a company that is under the control of another company is treated as carried on by the controlling company as well as by the controlled company.
 
-Section 1124 of CTA 2010[^key-459435e4514bc2cce5b4d4bb8c326107] (meaning of “control") applies for the purposes of this sub-paragraph.
+Section 1124 of CTA 2010[^c-459435e4514bc2cce5b4d4bb8c326107] (meaning of “control") applies for the purposes of this sub-paragraph.
 
 (4) For the purposes of this paragraph the holding and management of assets that are retained by the original company, or any of the original companies, for the purpose of making a capital distribution in respect of shares in the company shall be disregarded.
 
@@ -68,7 +68,7 @@ In this sub-paragraph “**capital distribution**” has the same meaning as in 
 **5.** The fourth condition is that—
 
 - (a) the scheme is carried out in pursuance of a compromise or arrangement—
-  - (i)[^key-4e2a82806e1b181bc81cc4a93bdd6280] to which Part 26 or 26A[^key-10540595d7aad706f1790daf0e83583e] of the Companies Act 2006 (arrangements and reconstructions) applies,
+  - (i)[^c-4e2a82806e1b181bc81cc4a93bdd6280] to which Part 26 or 26A[^c-10540595d7aad706f1790daf0e83583e] of the Companies Act 2006 (arrangements and reconstructions) applies,
   - (ii) under any corresponding provision of the law of a country or territory outside the United Kingdom, and
 - (b) no part of the business of the original company, or of any of the original companies, is transferred under the scheme to any other person.
 
@@ -87,7 +87,7 @@ shall be disregarded for the purposes of the first and second conditions.
 
 ### Interpretation
 
-**8.** (1) In this Schedule “**ordinary share capital**” has the meaning given by section 1119 of CTA 2010[^key-6eabe71b875174963ac04ce15ae7d43d] and also includes—
+**8.** (1) In this Schedule “**ordinary share capital**” has the meaning given by section 1119 of CTA 2010[^c-6eabe71b875174963ac04ce15ae7d43d] and also includes—
 
 - (a) in relation to a unit trust scheme, any rights that are treated by section 99(1)(b) of this Act (application of Act to unit trust schemes) as shares in a company, and
 - (b) in relation to a company that has no share capital, any interests in the company possessed by members of the company.
@@ -96,12 +96,12 @@ shall be disregarded for the purposes of the first and second conditions.
 
 ## Annotations
 
-[^key-901449d6123a3a7dedb937de4feb12fb]: Textual amendment: Sch. 5AA inserted (with effect in accordance with Sch. 9 paras. 7, 8 of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/3)
+[^c-901449d6123a3a7dedb937de4feb12fb]: Textual amendment: Sch. 5AA inserted (with effect in accordance with Sch. 9 paras. 7, 8 of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/3)
 
-[^key-459435e4514bc2cce5b4d4bb8c326107]: Textual amendment: Words in Sch. 5AA para. 4(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 267(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/267/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-459435e4514bc2cce5b4d4bb8c326107]: Textual amendment: Words in Sch. 5AA para. 4(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 267(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/267/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-4e2a82806e1b181bc81cc4a93bdd6280]: Textual amendment: Sch. 5AA para. 5(a)(i) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [17](https://www.legislation.gov.uk/uksi/2008/954/article/17) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))
+[^c-4e2a82806e1b181bc81cc4a93bdd6280]: Textual amendment: Sch. 5AA para. 5(a)(i) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [17](https://www.legislation.gov.uk/uksi/2008/954/article/17) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))
 
-[^key-10540595d7aad706f1790daf0e83583e]: Textual amendment: Words in [Sch. 5AA para. 5(a)(i)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5AA/paragraph/5/a/i) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/14) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-10540595d7aad706f1790daf0e83583e]: Textual amendment: Words in [Sch. 5AA para. 5(a)(i)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5AA/paragraph/5/a/i) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/14) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-6eabe71b875174963ac04ce15ae7d43d]: Textual amendment: Words in Sch. 5AA para. 8(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 267(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/267/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-6eabe71b875174963ac04ce15ae7d43d]: Textual amendment: Words in Sch. 5AA para. 8(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 267(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/267/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

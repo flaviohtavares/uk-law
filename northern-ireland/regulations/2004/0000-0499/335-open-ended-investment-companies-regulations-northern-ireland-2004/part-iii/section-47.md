@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Exceptions from regulation 46[^key-70eee2bb231a984aa9ac6c2fa728d0e2]
+## 47. Exceptions from regulation 46[^c-70eee2bb231a984aa9ac6c2fa728d0e2]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70eee2bb231a984aa9ac6c2fa728d0e2]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2004/335/regulation/47) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-70eee2bb231a984aa9ac6c2fa728d0e2]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2004/335/regulation/47) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

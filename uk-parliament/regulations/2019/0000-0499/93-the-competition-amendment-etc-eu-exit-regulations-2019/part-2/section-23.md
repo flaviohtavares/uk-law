@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23.[^key-5017a577f266eb4df1a762b197a494fd]
+## 23.[^c-5017a577f266eb4df1a762b197a494fd]
 
 *Extent: E+W+S+N.I.*
 
 After section 60 insert—
 
-> **60A. Certain principles etc to be considered or applied from IP completion day[^key-b2e68fd0f39a2665e9e1d5e42d31eeb8]**
+> **60A. Certain principles etc to be considered or applied from IP completion day[^c-b2e68fd0f39a2665e9e1d5e42d31eeb8]**
 >
 > (1) This section applies when one of the following persons determines a question arising under this Part in relation to competition within the United Kingdom—
 >
@@ -65,6 +65,6 @@ After section 60 insert—
 
 ## Annotations
 
-[^key-5017a577f266eb4df1a762b197a494fd]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-5017a577f266eb4df1a762b197a494fd]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-b2e68fd0f39a2665e9e1d5e42d31eeb8]: Textual amendment: Words in reg. 23 substituted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/1343/regulation/5)
+[^c-b2e68fd0f39a2665e9e1d5e42d31eeb8]: Textual amendment: Words in reg. 23 substituted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/1343/regulation/5)

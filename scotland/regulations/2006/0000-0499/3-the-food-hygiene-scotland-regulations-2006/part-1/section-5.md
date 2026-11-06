@@ -48,7 +48,7 @@ summary: ''
 
 (6) The Agency and any food authority may appoint as authorised officers such persons (whether or not officers of the Agency or the authority) as they consider necessary for the purpose of enforcing the Hygiene Regulations.
 
-(7)[^key-278735b11482798f2ba8c03158e1d0db] In this regulation—
+(7)[^c-278735b11482798f2ba8c03158e1d0db] In this regulation—
 
 - “cutting plant” means any establishment which is used for boning and/or cutting up fresh meat for placing on the market and which is approved or conditionally approved under Article 148 of Regulation 2017/625,
 - “game-handling establishment” means any establishment in which game and game meat obtained after hunting are prepared for placing on the market and which is approved or conditionally approved under Article 148 of Regulation 2017/625, and
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-278735b11482798f2ba8c03158e1d0db]: Textual amendment: Reg. 5(7) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2019/407/regulation/4/3)
+[^c-278735b11482798f2ba8c03158e1d0db]: Textual amendment: Reg. 5(7) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2019/407/regulation/4/3)

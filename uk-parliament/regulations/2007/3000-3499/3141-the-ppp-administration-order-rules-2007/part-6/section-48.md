@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Appointment and remuneration of shorthand writers[^key-5b4e9f24313c03696d0e837f3cfbc41f]
+## 48. Appointment and remuneration of shorthand writers[^c-5b4e9f24313c03696d0e837f3cfbc41f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b4e9f24313c03696d0e837f3cfbc41f]: Commencement: [Rule 48](https://www.legislation.gov.uk/uksi/2007/3141/rule/48) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-5b4e9f24313c03696d0e837f3cfbc41f]: Commencement: [Rule 48](https://www.legislation.gov.uk/uksi/2007/3141/rule/48) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Cemeteries and crematoria: interests in land[^key-d555428ac9a322b3f2f9d9d6791b406f]
+## 169. Cemeteries and crematoria: interests in land[^c-d555428ac9a322b3f2f9d9d6791b406f]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ and the following provisions of this section apply for the interpretation of thi
 
 ## Annotations
 
-[^key-d555428ac9a322b3f2f9d9d6791b406f]: Textual amendment: S. 169 cross-heading substituted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2012/266/article/4/2) (with [art. 4(5)](https://www.legislation.gov.uk/uksi/2012/266/article/4/5))
+[^c-d555428ac9a322b3f2f9d9d6791b406f]: Textual amendment: S. 169 cross-heading substituted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2012/266/article/4/2) (with [art. 4(5)](https://www.legislation.gov.uk/uksi/2012/266/article/4/5))

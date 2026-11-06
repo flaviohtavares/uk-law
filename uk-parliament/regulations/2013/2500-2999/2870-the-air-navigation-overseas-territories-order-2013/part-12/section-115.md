@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Inspections by the operator for damage, leakage or contamination[^key-165a2b47b693dbb90efac44501b40510]
+## 115. Inspections by the operator for damage, leakage or contamination[^c-165a2b47b693dbb90efac44501b40510]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The operator of an aircraft in which dangerous goods are to be carried must ensu
 
 ## Annotations
 
-[^key-165a2b47b693dbb90efac44501b40510]: Commencement: [Art. 115](https://www.legislation.gov.uk/uksi/2013/2870/article/115) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-165a2b47b693dbb90efac44501b40510]: Commencement: [Art. 115](https://www.legislation.gov.uk/uksi/2013/2870/article/115) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

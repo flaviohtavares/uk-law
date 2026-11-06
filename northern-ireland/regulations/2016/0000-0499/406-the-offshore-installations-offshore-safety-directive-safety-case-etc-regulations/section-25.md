@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Power of competent authority in relation to safety cases and related documents[^key-270954bf46ae94c9c06eddcd49b67036]
+## 25. Power of competent authority in relation to safety cases and related documents[^c-270954bf46ae94c9c06eddcd49b67036]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-270954bf46ae94c9c06eddcd49b67036]: Commencement: Reg. 25 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-270954bf46ae94c9c06eddcd49b67036]: Commencement: Reg. 25 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

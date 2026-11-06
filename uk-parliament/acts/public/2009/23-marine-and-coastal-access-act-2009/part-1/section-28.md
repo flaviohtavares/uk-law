@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Provision of information by the MMO to the Secretary of State[^key-aca553729dafe7e7d90deb3177b62f13]
+## 28. Provision of information by the MMO to the Secretary of State[^c-aca553729dafe7e7d90deb3177b62f13]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aca553729dafe7e7d90deb3177b62f13]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2009/23/section/28) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/4)
+[^c-aca553729dafe7e7d90deb3177b62f13]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2009/23/section/28) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/4)

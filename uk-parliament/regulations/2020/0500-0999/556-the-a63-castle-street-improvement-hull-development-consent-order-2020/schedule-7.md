@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-9f49bc0fc786554815f5ccd5dc8e368e]
+## SCHEDULE 7 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-9f49bc0fc786554815f5ccd5dc8e368e]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ Article 29
 
 ## Annotations
 
-[^key-9f49bc0fc786554815f5ccd5dc8e368e]: Commencement: Sch. 7 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-9f49bc0fc786554815f5ccd5dc8e368e]: Commencement: Sch. 7 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)

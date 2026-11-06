@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Guidance for advocates[^key-1a968e6911b7db9dd0e502190f692fd0][^key-148bb57fc99adfb9d7ded32a192a1a6c]
+## 44. Guidance for advocates[^c-1a968e6911b7db9dd0e502190f692fd0][^c-148bb57fc99adfb9d7ded32a192a1a6c]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a968e6911b7db9dd0e502190f692fd0]: Commencement: S. 44 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-1a968e6911b7db9dd0e502190f692fd0]: Commencement: S. 44 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-148bb57fc99adfb9d7ded32a192a1a6c]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2024/21/section/44) in force at 18.9.2024 by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/966/regulation/2/j)
+[^c-148bb57fc99adfb9d7ded32a192a1a6c]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2024/21/section/44) in force at 18.9.2024 by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/966/regulation/2/j)

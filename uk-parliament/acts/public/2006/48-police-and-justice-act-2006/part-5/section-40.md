@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Forfeiture of indecent photographs of children: Northern Ireland[^key-5f36b56a7cb048d8de17b3ca3d186125]
+## 40. Forfeiture of indecent photographs of children: Northern Ireland[^c-5f36b56a7cb048d8de17b3ca3d186125]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ This is subject to subsection (7).
 
 ## Annotations
 
-[^key-5f36b56a7cb048d8de17b3ca3d186125]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2006/48/section/40) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/790/article/3/a)
+[^c-5f36b56a7cb048d8de17b3ca3d186125]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2006/48/section/40) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/790/article/3/a)

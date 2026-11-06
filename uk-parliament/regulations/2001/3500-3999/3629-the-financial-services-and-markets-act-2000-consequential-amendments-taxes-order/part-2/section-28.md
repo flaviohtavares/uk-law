@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Transfer of assets etc.[^key-9032d15c6fc964d6e9b258f86efe2b9c]
+## 28. Transfer of assets etc.[^c-9032d15c6fc964d6e9b258f86efe2b9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9032d15c6fc964d6e9b258f86efe2b9c]: Commencement: Art. 28 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-9032d15c6fc964d6e9b258f86efe2b9c]: Commencement: Art. 28 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00032]: Footnote: Section 440(2) was amended by paragraph 1(1) and (2)(b) of Schedule 9 to the Finance Act 1995.

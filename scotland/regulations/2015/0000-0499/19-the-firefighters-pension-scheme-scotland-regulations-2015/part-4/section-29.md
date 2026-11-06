@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Closure and adjustment of pension accounts on transfer out or repayment of balance of contributions[^key-ace0a34e3aabfa70ad9a8a0a01c7be34]
+## 29. Closure and adjustment of pension accounts on transfer out or repayment of balance of contributions[^c-ace0a34e3aabfa70ad9a8a0a01c7be34]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ace0a34e3aabfa70ad9a8a0a01c7be34]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2015/19/regulation/29) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-ace0a34e3aabfa70ad9a8a0a01c7be34]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2015/19/regulation/29) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
 [^f00039]: Footnote: Regulation 116 (refund of all member contributions and payments for extra pension made by member) provides for extinguishment of rights following the refund of all member contributions and payments for extra pension made by the member. Regulation 128 (effect of transfers-out) provides for extinguishment of rights following the making of a transfer payment.

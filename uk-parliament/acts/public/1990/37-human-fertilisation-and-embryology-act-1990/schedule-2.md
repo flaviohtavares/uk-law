@@ -29,25 +29,25 @@ Section 11 etc.
 - (a) bringing about the creation of embryos *in vitro*,
 - (b)[^c1970687] procuring, keeping, testing, processing or distributing embryos,
 - (c) procuring, testing, processing, distributing or using gametes
-- (ca)[^key-a86dfc0a309eb117f4542506ce312310] using embryos for the purpose of training persons in embryo biopsy, embryo storage or other embryological techniques,
-- (d) other[^c1970691] practices designed to secure that embryos are in a suitable condition to be placed in a woman [^key-345e0119a35e289ddcf665bf42795c38]... ,
-- (e) placing any permitted embryo[^key-9f9e04b60cfc097bc3300b046060d250] in a woman,
+- (ca)[^c-a86dfc0a309eb117f4542506ce312310] using embryos for the purpose of training persons in embryo biopsy, embryo storage or other embryological techniques,
+- (d) other[^c1970691] practices designed to secure that embryos are in a suitable condition to be placed in a woman [^c-345e0119a35e289ddcf665bf42795c38]... ,
+- (e) placing any permitted embryo[^c-9f9e04b60cfc097bc3300b046060d250] in a woman,
 - (f) mixing sperm with the egg of a hamster, or other animal specified in directions, for the purpose of testing the fertility or normality of the sperm, but only where anything which forms is destroyed when the test is complete and, in any event, not later than the two cell stage, and
-- (g) such other practices, apart from practices falling within section 4A(2),[^key-6d94c120b61b62c72112e05971d8c61f] as may be specified in, or determined in accordance with, regulations.
+- (g) such other practices, apart from practices falling within section 4A(2),[^c-6d94c120b61b62c72112e05971d8c61f] as may be specified in, or determined in accordance with, regulations.
 
 (2) Subject to the provisions of this Act, a licence under this paragraph may be granted subject to such conditions as may be specified in the licence and may authorise the performance of any of the activities referred to in sub-paragraph (1) above in such manner as may be so specified.
 
 (3) A licence under this paragraph cannot authorise any activity unless it appears to the Authority to be necessary or desirable for the purpose of providing treatment services.
 
-(4)[^key-1012a677a895b9e0e85597d55e00da13] A licence under this paragraph cannot authorise altering the nuclear or mitochondrial DNA of a cell while it forms part of an embryo, except for the purpose of creating something that will by virtue of regulations under section 3ZA(5) be a permitted embryo.
+(4)[^c-1012a677a895b9e0e85597d55e00da13] A licence under this paragraph cannot authorise altering the nuclear or mitochondrial DNA of a cell while it forms part of an embryo, except for the purpose of creating something that will by virtue of regulations under section 3ZA(5) be a permitted embryo.
 
-(4A)[^key-65cff071a4f7dd9abf58ba45c29b8c4d] A licence under this paragraph cannot authorise the use of embryos for the purpose mentioned in sub-paragraph (1)(ca) unless the Authority is satisfied that the proposed use of embryos is necessary for that purpose.
+(4A)[^c-65cff071a4f7dd9abf58ba45c29b8c4d] A licence under this paragraph cannot authorise the use of embryos for the purpose mentioned in sub-paragraph (1)(ca) unless the Authority is satisfied that the proposed use of embryos is necessary for that purpose.
 
 (5) A licence under this paragraph shall be granted for such period not exceeding five years as may be specified in the licence.
 
-(6)[^key-6cb365c38497bb5296e318348bcd8ed7] In this paragraph, references to a permitted embryo are to be read in accordance with section 3ZA.
+(6)[^c-6cb365c38497bb5296e318348bcd8ed7] In this paragraph, references to a permitted embryo are to be read in accordance with section 3ZA.
 
-### Embryo testing[^key-12718e8d715eecb1555c92eb155ee572]
+### Embryo testing[^c-12718e8d715eecb1555c92eb155ee572]
 
 **1ZA.** (1) A licence under paragraph 1 cannot authorise the testing of an embryo, except for one or more of the following purposes—
 
@@ -115,7 +115,7 @@ except on grounds relating to the health of any resulting child.
 - (a) procuring sperm, and
 - (b) distributing sperm.
 
-(1A)[^key-169f5bbb7bb6d4598858613a46fb83ab] A licence under this paragraph cannot authorise the procurement or distribution of sperm to which there has been applied any process designed to secure that any resulting child will be of one sex rather than the other.
+(1A)[^c-169f5bbb7bb6d4598858613a46fb83ab] A licence under this paragraph cannot authorise the procurement or distribution of sperm to which there has been applied any process designed to secure that any resulting child will be of one sex rather than the other.
 
 (2) Subject to the provisions of this Act, a licence under this paragraph may be granted subject to such conditions as may be specified in the licence and may authorise the performance of any of the activities referred to in sub-paragraph (1) above in such manner as may be so specified.
 
@@ -125,13 +125,13 @@ except on grounds relating to the health of any resulting child.
 
 **2.**[^c271744] (1) A licence under this paragraph or paragraph 1 or 3 of this Schedule may authorise the storage of gametes or embryos or both.
 
-(1A)[^key-02ba801f3853a71da4e7cd701dba68a5] A licence under this paragraph or paragraph 3 may authorise the storage of human admixed embryos (whether or not the licence also authorises the storage of gametes or embryos or both).
+(1A)[^c-02ba801f3853a71da4e7cd701dba68a5] A licence under this paragraph or paragraph 3 may authorise the storage of human admixed embryos (whether or not the licence also authorises the storage of gametes or embryos or both).
 
-(2) Subject to the provisions of this Act, a licence authorising such storage as is mentioned in sub-paragraph (1) or (1A)[^key-ebd221bfcc46c2713d84080617600ae1] may be granted subject to such conditions as may be specified in the licence and may authorise storage in such manner as may be so specified.
+(2) Subject to the provisions of this Act, a licence authorising such storage as is mentioned in sub-paragraph (1) or (1A)[^c-ebd221bfcc46c2713d84080617600ae1] may be granted subject to such conditions as may be specified in the licence and may authorise storage in such manner as may be so specified.
 
 (3) A licence under this paragraph shall be granted for such period not exceeding five years as may be specified in the licence.
 
-### Licences for research[^key-166baee2fac3eaddb10556aee250275d]
+### Licences for research[^c-166baee2fac3eaddb10556aee250275d]
 
 **3.** (1) A licence under this paragraph may authorise any of the following—
 
@@ -204,35 +204,35 @@ for the purposes of a project of research specified in the licence.
 
 [^c1970687]: Textual amendment: Sch. 2 para. 1(1)(b)(c) substituted (25.5.2007 for certain purposes, otherwise 5.7.2007) by [The Human Fertilisation and Embryology (Quality and Safety) Regulations 2007 (S.I. 2007/1522)](https://www.legislation.gov.uk/uksi/2007/1522), [regs 1](https://www.legislation.gov.uk/uksi/2007/1522/regulation/1), [29(a)(i)](https://www.legislation.gov.uk/uksi/2007/1522/regulation/29/a/i)
 
-[^key-a86dfc0a309eb117f4542506ce312310]: Textual amendment: Sch. 2 para. 1(1)(ca) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/2/2/a); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
+[^c-a86dfc0a309eb117f4542506ce312310]: Textual amendment: Sch. 2 para. 1(1)(ca) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/2/2/a); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
 
 [^c1970691]: Textual amendment: Word in Sch. 2 para. 1(1)(d) inserted (25.5.2007 for certain purposes, otherwise 5.7.2007) by [The Human Fertilisation and Embryology (Quality and Safety) Regulations 2007 (S.I. 2007/1522)](https://www.legislation.gov.uk/uksi/2007/1522), [regs 1](https://www.legislation.gov.uk/uksi/2007/1522/regulation/1), [29(a)(ii)](https://www.legislation.gov.uk/uksi/2007/1522/regulation/29/a/ii)
 
-[^key-345e0119a35e289ddcf665bf42795c38]: Textual amendment: Words in Sch. 2 para. 1(1)(d) repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/2/2/b), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
+[^c-345e0119a35e289ddcf665bf42795c38]: Textual amendment: Words in Sch. 2 para. 1(1)(d) repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/2/2/b), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
 
-[^key-9f9e04b60cfc097bc3300b046060d250]: Textual amendment: Words in Sch. 2 para. 1(1)(e) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/2/2/c); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
+[^c-9f9e04b60cfc097bc3300b046060d250]: Textual amendment: Words in Sch. 2 para. 1(1)(e) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/2/2/c); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
 
-[^key-6d94c120b61b62c72112e05971d8c61f]: Textual amendment: Words in Sch. 2 para. 1(1)(g) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 2(2)(d)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/2/2/d); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
+[^c-6d94c120b61b62c72112e05971d8c61f]: Textual amendment: Words in Sch. 2 para. 1(1)(g) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 2(2)(d)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/2/2/d); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
 
-[^key-1012a677a895b9e0e85597d55e00da13]: Textual amendment: Sch. 2 para. 1(4) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/2/3); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
+[^c-1012a677a895b9e0e85597d55e00da13]: Textual amendment: Sch. 2 para. 1(4) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/2/3); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
 
-[^key-65cff071a4f7dd9abf58ba45c29b8c4d]: Textual amendment: Sch. 2 para. 1(4A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/2/4); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
+[^c-65cff071a4f7dd9abf58ba45c29b8c4d]: Textual amendment: Sch. 2 para. 1(4A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/2/4); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
 
-[^key-6cb365c38497bb5296e318348bcd8ed7]: Textual amendment: Sch. 2 para. 1(6) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/2/5); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
+[^c-6cb365c38497bb5296e318348bcd8ed7]: Textual amendment: Sch. 2 para. 1(6) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/2/5); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
 
-[^key-12718e8d715eecb1555c92eb155ee572]: Textual amendment: Sch. 2 paras. 1ZA-1ZC and cross-headings inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/3); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
+[^c-12718e8d715eecb1555c92eb155ee572]: Textual amendment: Sch. 2 paras. 1ZA-1ZC and cross-headings inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/3); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
 
 [^c2007011]: Textual amendment: Sch. 2 para. 1A and cross-heading inserted (25.5.2007 for certain purposes, otherwise 5.7.2007) by [The Human Fertilisation and Embryology (Quality and Safety) Regulations 2007 (S.I. 2007/1522)](https://www.legislation.gov.uk/uksi/2007/1522), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1522/regulation/1), [29(b)](https://www.legislation.gov.uk/uksi/2007/1522/regulation/29/b)
 
-[^key-169f5bbb7bb6d4598858613a46fb83ab]: Textual amendment: Sch. 2 para. 1A(1A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/4); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
+[^c-169f5bbb7bb6d4598858613a46fb83ab]: Textual amendment: Sch. 2 para. 1A(1A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/4); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
 
 [^c271744]: Commencement: Schedule 2 para. 2 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400) art. 2(2)
 
-[^key-02ba801f3853a71da4e7cd701dba68a5]: Textual amendment: Sch. 2 para. 2(1A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/5/a); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
+[^c-02ba801f3853a71da4e7cd701dba68a5]: Textual amendment: Sch. 2 para. 2(1A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/5/a); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
 
-[^key-ebd221bfcc46c2713d84080617600ae1]: Textual amendment: Words in Sch. 2 para. 2(2) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/5/b); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
+[^c-ebd221bfcc46c2713d84080617600ae1]: Textual amendment: Words in Sch. 2 para. 2(2) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/5/b); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
 
-[^key-166baee2fac3eaddb10556aee250275d]: Textual amendment: Sch. 2 paras. 3, 3A and cross-headings substituted for Sch. 2 para. 3 (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/6); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
+[^c-166baee2fac3eaddb10556aee250275d]: Textual amendment: Sch. 2 paras. 3, 3A and cross-headings substituted for Sch. 2 para. 3 (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2008/22/schedule/2/paragraph/6); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/v)
 
 [^c271746]: Commencement: Schedule 2 para 4 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/2/2)
 

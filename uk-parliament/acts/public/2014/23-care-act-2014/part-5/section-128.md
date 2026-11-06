@@ -33,10 +33,10 @@ summary: ''
 - (e) section 118 (transfer orders), so far as relating to section 109 (the HRA);
 - (f) section 119 (Chapters 1 and 2 of Part 3: interpretation and supplementary provision);
 - (g) this Part;
-- (h)[^key-5eb5c1bb5333b2ceabd77e9457e77a4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-5eb5c1bb5333b2ceabd77e9457e77a4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Secretary of State may by order provide that specified provisions of this Act, in their application to the Isles of Scilly, have effect with such modifications as may be specified.
 
 ## Annotations
 
-[^key-5eb5c1bb5333b2ceabd77e9457e77a4e]: Textual amendment: [S. 128(3)(h)](https://www.legislation.gov.uk/ukpga/2014/23/section/128/3/h) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(16)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/16) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-5eb5c1bb5333b2ceabd77e9457e77a4e]: Textual amendment: [S. 128(3)(h)](https://www.legislation.gov.uk/ukpga/2014/23/section/128/3/h) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(16)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/16) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))

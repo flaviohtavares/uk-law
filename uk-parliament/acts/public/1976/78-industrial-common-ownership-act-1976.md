@@ -33,7 +33,7 @@ An Act to further the development of enterprises controlled by people working in
 
 \[22nd November 1976\]
 
-## 1. Grants and loans.[^key-77435e5aa145cc1b27b7b634d17c7cac]
+## 1. Grants and loans.[^c-77435e5aa145cc1b27b7b634d17c7cac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -43,8 +43,8 @@ An Act to further the development of enterprises controlled by people working in
 
 - (a) that the body is—
   - (i) a company which has no share capital, is limited by guarantee and is a bona fide co-operative society; or
-  - (ii)[^key-fa8310307c7aeb355ea8029ed44017cb] a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014;and
-- (b) that the articles of association[^key-8e772fa24d16dc94f35f68bd4e4b1ebd] or rules of the body include provisions which secure—
+  - (ii)[^c-fa8310307c7aeb355ea8029ed44017cb] a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014;and
+- (b) that the articles of association[^c-8e772fa24d16dc94f35f68bd4e4b1ebd] or rules of the body include provisions which secure—
   - (i) that only persons who are employed by, or by a subsidiary of, the body may be members of it, that (subject to any provision about qualifications for membership which is from time to time made by the members of the body by reference to age, length of service or other factors of any description which do not discriminate between persons by reference to politics or religion) all such persons may be members of the body and that members have equal voting rights at meetings of the body,
   - (ii) that the assets of the body are applied only for the purposes of objects of the body which do not include the making over of assets to any member of the body except for value and except in pursuance of arrangements for sharing the profits of the body among its members, and
   - (iii) that, if on the winding up or dissolution of the body any of its assets remain to be disposed of after its liabilities are satisfied, the assets are not distributed among its members but are transferred to such a common ownership enterprise or such a central fund maintained for the benefit of common ownership enterprises as may be determined by the members at or before the time of the winding up or dissolution or, in so far as the assets are not so transferred, are held for charitable purposes; and
@@ -61,10 +61,10 @@ An Act to further the development of enterprises controlled by people working in
 
 (5) In this section—
 
-- “company” means a company registered under the Companies Act 2006;[^key-624a9420eba632ae4cec4a7466aa51de]
+- “company” means a company registered under the Companies Act 2006;[^c-624a9420eba632ae4cec4a7466aa51de]
 - “**the registrar**” means the Chief Registrar within the meaning of the [^c724897]Friendly Societies Act 1974;
 
-and for the purposes of this section a body is a subsidiary of another body if it is a subsidiary of the other body as defined by[^c724898] section 1159 of the Companies Act 2006[^key-334a71c679071c8898e7c884946e9620] or for the purposes of or the [^c724899]Friendly and Industrial and Provident Societies Act 1968.
+and for the purposes of this section a body is a subsidiary of another body if it is a subsidiary of the other body as defined by[^c724898] section 1159 of the Companies Act 2006[^c-334a71c679071c8898e7c884946e9620] or for the purposes of or the [^c724899]Friendly and Industrial and Provident Societies Act 1968.
 
 ## 3. Short title and extent.
 
@@ -74,18 +74,18 @@ and for the purposes of this section a body is a subsidiary of another body if i
 
 ## Annotations
 
-[^key-77435e5aa145cc1b27b7b634d17c7cac]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1976/78/section/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-77435e5aa145cc1b27b7b634d17c7cac]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1976/78/section/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-fa8310307c7aeb355ea8029ed44017cb]: Textual amendment: [S. 2(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/1976/78/section/2/1/a/ii) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/31) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-fa8310307c7aeb355ea8029ed44017cb]: Textual amendment: [S. 2(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/1976/78/section/2/1/a/ii) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/31) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-8e772fa24d16dc94f35f68bd4e4b1ebd]: Textual amendment: Words in s. 2(1)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 35(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/35/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-8e772fa24d16dc94f35f68bd4e4b1ebd]: Textual amendment: Words in s. 2(1)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 35(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/35/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-624a9420eba632ae4cec4a7466aa51de]: Textual amendment: Words in s. 2(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 35(b)(i)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/35/b/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-624a9420eba632ae4cec4a7466aa51de]: Textual amendment: Words in s. 2(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 35(b)(i)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/35/b/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c724897]: Marginal citation: [1974 c. 46](https://www.legislation.gov.uk/ukpga/1974/46).
 
 [^c724898]: Textual amendment: Words substituted by virtue of [Companies Consolidation (Consequential Provisions) Act 1985 (c. 9, SIF 27)](https://www.legislation.gov.uk/ukpga/1985/9), [s. 30](https://www.legislation.gov.uk/ukpga/1985/9/section/30), [Sch. 2](https://www.legislation.gov.uk/ukpga/1985/9/schedule/2) and [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 144(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/144/4), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [Sch. 18 para. 15](https://www.legislation.gov.uk/ukpga/1989/40/schedule/18/paragraph/15) (subject to the transitional provisions referred to in [S.I. 1990/1392](https://www.legislation.gov.uk/uksi/1990/1392), [arts. 2(d)](https://www.legislation.gov.uk/uksi/1990/1392/article/2/d), [6](https://www.legislation.gov.uk/uksi/1990/1392/article/6))
 
-[^key-334a71c679071c8898e7c884946e9620]: Textual amendment: Words in s. 2(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 35(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/35/b/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-334a71c679071c8898e7c884946e9620]: Textual amendment: Words in s. 2(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 35(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/35/b/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c724899]: Marginal citation: [1968 c. 55](https://www.legislation.gov.uk/ukpga/1968/55).

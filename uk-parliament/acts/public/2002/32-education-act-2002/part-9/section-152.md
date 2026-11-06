@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 152. Regulation of child minding and day care[^c381708][^key-458a3afbcc5a2f5c6656331c50c30a27]
+## 152. Regulation of child minding and day care[^c381708][^c-458a3afbcc5a2f5c6656331c50c30a27]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ Schedule 13 (which makes provision about the regulation of child minding and day
 
     S. 152 in force at 19.12.2002 for specified purposes for W. by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 4](https://www.legislation.gov.uk/uksi/2002/3185/article/4), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/I)
 
-[^key-458a3afbcc5a2f5c6656331c50c30a27]: Commencement: S. 152 in force at 2.1.2008 for W. so far as not already in force by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-458a3afbcc5a2f5c6656331c50c30a27]: Commencement: S. 152 in force at 2.1.2008 for W. so far as not already in force by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 341. Forfeitures and deductions: general provisions[^key-b7aa9acd25be27bb13e12a5c4d44101f][^key-7e5de4b50cd4e472a68c8a0f2c247dbe]
+## 341. Forfeitures and deductions: general provisions[^c-b7aa9acd25be27bb13e12a5c4d44101f][^c-7e5de4b50cd4e472a68c8a0f2c247dbe]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7aa9acd25be27bb13e12a5c4d44101f]: Commencement: S. 341 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-b7aa9acd25be27bb13e12a5c4d44101f]: Commencement: S. 341 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-7e5de4b50cd4e472a68c8a0f2c247dbe]: Commencement: S. 341 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-7e5de4b50cd4e472a68c8a0f2c247dbe]: Commencement: S. 341 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

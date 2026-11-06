@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357BLB. Qualifying expenditure on relevant R&D undertaken in-house[^key-c419e2443f2ebe0b2be4436f50d32415][^key-3f3b3eec0117028f84fab3c68f3024c2]
+## 357BLB. Qualifying expenditure on relevant R&D undertaken in-house[^c-c419e2443f2ebe0b2be4436f50d32415][^c-3f3b3eec0117028f84fab3c68f3024c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,7 +61,7 @@ so far as it is expenditure brought into account in calculating a relevant profi
 - (b) section 1124 (when staffing costs are attributable to relevant research and development),
 - (c) section 1125 (meaning of “software , data licences, cloud computing services[^M_F_c6797add-2c84-487b-bb24-660716ee29ee] or consumable items”),
 - (d) sections 1126 to 1126B (when software , data licences, cloud computing services[^M_F_7947f174-9864-4b59-9d9d-3f902b8df44a] or consumable items are attributable to relevant research and development),
-- (e) sections 1127 to 1131 (meaning of “qualifying expenditure on externally provided workers”), as those provisions had effect before the amendments made by paragraph[^key-660ab34d8af92fb56f2b92292305dd45] 9 of Schedule 1 to FA 2024,
+- (e) sections 1127 to 1131 (meaning of “qualifying expenditure on externally provided workers”), as those provisions had effect before the amendments made by paragraph[^c-660ab34d8af92fb56f2b92292305dd45] 9 of Schedule 1 to FA 2024,
 - (f) section 1132 (when qualifying expenditure on externally provided workers is attributable to relevant research and development), and
 - (g) section 1140 (meaning of “relevant payments to the subjects of clinical trials”),
 
@@ -69,9 +69,9 @@ and in the application of those provisions for the purposes of this section any 
 
 ## Annotations
 
-[^key-c419e2443f2ebe0b2be4436f50d32415]: Textual amendment: Pt. 8A Chs. 2A, 2B inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3)
+[^c-c419e2443f2ebe0b2be4436f50d32415]: Textual amendment: Pt. 8A Chs. 2A, 2B inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3)
 
-[^key-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
+[^c-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
 
 [^M_F_e9415bf9-93b6-4e36-a85e-569edad31d50]: Textual amendment: Words in s. 357BLB(2)(b) inserted (with effect in relation to accounting periods beginning on or after 1.4.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/1/paragraph/9/a), [20](https://www.legislation.gov.uk/ukpga/2023/30/schedule/1/paragraph/20)
 
@@ -79,4 +79,4 @@ and in the application of those provisions for the purposes of this section any 
 
 [^M_F_7947f174-9864-4b59-9d9d-3f902b8df44a]: Textual amendment: Words in [s. 357BLB(7)(d)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BLB/7/d) inserted (with effect in relation to accounting periods beginning on or after 1.4.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 1 para. 9(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/1/paragraph/9/b/ii), [20](https://www.legislation.gov.uk/ukpga/2023/30/schedule/1/paragraph/20)
 
-[^key-660ab34d8af92fb56f2b92292305dd45]: Textual amendment: Words in [s. 357BLB(7)(e)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BLB/7/e) inserted (1.4.2024 with effect in relation to accounting periods beginning on or after that date of the commencing S.I.) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/13/3/b), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
+[^c-660ab34d8af92fb56f2b92292305dd45]: Textual amendment: Words in [s. 357BLB(7)(e)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BLB/7/e) inserted (1.4.2024 with effect in relation to accounting periods beginning on or after that date of the commencing S.I.) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/13/3/b), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)

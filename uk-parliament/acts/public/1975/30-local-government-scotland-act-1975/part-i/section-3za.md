@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3ZA. Proposal to alter entry in valuation roll[^key-93871727e77ad12c93639102184fb26d]
+## 3ZA. Proposal to alter entry in valuation roll[^c-93871727e77ad12c93639102184fb26d]
 
 *Extent: S*
 
@@ -40,7 +40,7 @@ summary: ''
 
 - (a) reached an agreement with the assessor in relation to the entry,
 - (b) made a proposal to the assessor in relation to the entry,
-- (c) appealed to the valuation appeal committee or the First-tier Tribunal for Scotland[^key-6e6c857087a6f4902966b50e7a04fe36] in relation to the entry.
+- (c) appealed to the valuation appeal committee or the First-tier Tribunal for Scotland[^c-6e6c857087a6f4902966b50e7a04fe36] in relation to the entry.
 
 (5) A proposal must—
 
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93871727e77ad12c93639102184fb26d]: Textual amendment: Ss. 3ZA, 3ZB inserted (5.11.2020 for specified purposes, 1.4.2023 in so far as not already in force) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 10(4)](https://www.legislation.gov.uk/asp/2020/4/section/10/4), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [reg. 2(3)(a)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/3/a)[(b)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/3/b)
+[^c-93871727e77ad12c93639102184fb26d]: Textual amendment: Ss. 3ZA, 3ZB inserted (5.11.2020 for specified purposes, 1.4.2023 in so far as not already in force) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 10(4)](https://www.legislation.gov.uk/asp/2020/4/section/10/4), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [reg. 2(3)(a)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/3/a)[(b)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/3/b)
 
-[^key-6e6c857087a6f4902966b50e7a04fe36]: Textual amendment: Words in [s. 3ZA(4)(c)](https://www.legislation.gov.uk/ukpga/1975/30/section/3ZA/4/c) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 6(3)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/6/3) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-6e6c857087a6f4902966b50e7a04fe36]: Textual amendment: Words in [s. 3ZA(4)(c)](https://www.legislation.gov.uk/ukpga/1975/30/section/3ZA/4/c) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 6(3)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/6/3) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))

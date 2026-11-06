@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Reserved trust ports[^key-6fb6d9a3f880cf43333de0a4c2d86193]
+## 32. Reserved trust ports[^c-6fb6d9a3f880cf43333de0a4c2d86193]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fb6d9a3f880cf43333de0a4c2d86193]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/4/section/32) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)
+[^c-6fb6d9a3f880cf43333de0a4c2d86193]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/4/section/32) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)

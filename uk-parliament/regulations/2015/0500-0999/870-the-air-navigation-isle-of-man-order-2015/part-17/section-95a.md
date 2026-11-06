@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95A. Dropping of persons and the granting of parachuting permissions[^key-4bcf131c06e86ca564ab9ced7d5ccf76]
+## 95A. Dropping of persons and the granting of parachuting permissions[^c-4bcf131c06e86ca564ab9ced7d5ccf76]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bcf131c06e86ca564ab9ced7d5ccf76]: Textual amendment: [Art. 95A](https://www.legislation.gov.uk/uksi/2015/870/article/95A) inserted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [12](https://www.legislation.gov.uk/uksi/2016/155/article/12)
+[^c-4bcf131c06e86ca564ab9ced7d5ccf76]: Textual amendment: [Art. 95A](https://www.legislation.gov.uk/uksi/2015/870/article/95A) inserted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [12](https://www.legislation.gov.uk/uksi/2016/155/article/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Notice of meetings by advertisement only[^key-1540da0b803e5a1ebe592aa7de536719]
+## 48. Notice of meetings by advertisement only[^c-1540da0b803e5a1ebe592aa7de536719]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.59 of the 1986 Rules.
 
 ## Annotations
 
-[^key-1540da0b803e5a1ebe592aa7de536719]: Commencement: Rule 48 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-1540da0b803e5a1ebe592aa7de536719]: Commencement: Rule 48 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

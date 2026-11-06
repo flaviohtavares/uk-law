@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Environment Agency.[^key-60fabbeb62fc27f85665ce763903c13f]
+## 147. Environment Agency.[^c-60fabbeb62fc27f85665ce763903c13f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60fabbeb62fc27f85665ce763903c13f]: Textual amendment: [S. 147](https://www.legislation.gov.uk/ukpga/1998/38/section/147) omitted (with effect in accordance with art. 1(3) of the amending S.I.) by virtue of [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/11/2) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+[^c-60fabbeb62fc27f85665ce763903c13f]: Textual amendment: [S. 147](https://www.legislation.gov.uk/ukpga/1998/38/section/147) omitted (with effect in accordance with art. 1(3) of the amending S.I.) by virtue of [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/11/2) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))

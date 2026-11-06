@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 176. Representations relating to former looked after children etc[^key-9baf37f09a483960784e6a286e4dc2d1]
+## 176. Representations relating to former looked after children etc[^c-9baf37f09a483960784e6a286e4dc2d1]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9baf37f09a483960784e6a286e4dc2d1]: Commencement: S. 176 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-9baf37f09a483960784e6a286e4dc2d1]: Commencement: S. 176 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

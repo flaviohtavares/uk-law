@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Variation and discharge on application[^key-7c38caeec18ce285712553a73ed0684b]
+## 28. Variation and discharge on application[^c-7c38caeec18ce285712553a73ed0684b]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ the reference in subsection (6)(b) to the court by or before which the person wa
 
 ## Annotations
 
-[^key-7c38caeec18ce285712553a73ed0684b]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2016/2/section/28) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-7c38caeec18ce285712553a73ed0684b]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2016/2/section/28) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

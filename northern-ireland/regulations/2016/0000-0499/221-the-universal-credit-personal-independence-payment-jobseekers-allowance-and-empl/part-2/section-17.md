@@ -30,7 +30,7 @@ summary: ''
 
 (2) A decision may be revised where, by virtue of regulation 6C of the Crediting Regulations [^c22846851] (treatment of Class 3 contributions paid under section 13A of the Act), a contribution is treated as paid on a date which falls on or before the date on which the decision was made.
 
-(3)[^key-a8574507f9b04325dcd1cca4896f2bfb] A decision in relation to a claim for a jobseeker’s allowance or an employment and support allowance may be revised at any time where—
+(3)[^c-a8574507f9b04325dcd1cca4896f2bfb] A decision in relation to a claim for a jobseeker’s allowance or an employment and support allowance may be revised at any time where—
 
 - (a) on or after the date of the decision, a contribution is treated as paid as set out in regulation 7A of the Crediting Regulations (treatment of Class 2 contributions paid by the due date); and
 - (b) by virtue of the contribution being so treated, the person satisfies the contribution conditions of entitlement specified in paragraph (6) in relation to that benefit.
@@ -63,4 +63,4 @@ summary: ''
 
 [^c22846851]: Marginal citation: Regulation 6C was inserted by regulation 3(3) of S.R. [2009 No. 105](https://www.legislation.gov.uk/ukcm/2009/105).
 
-[^key-a8574507f9b04325dcd1cca4896f2bfb]: Textual amendment: [Reg. 17(3)-(7)](https://www.legislation.gov.uk/nisr/2016/221/regulation/17/3) added (1.1.2017 for specified purposes) by [The Social Security (Credits, and Crediting and Treatment of Contributions) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/409)](https://www.legislation.gov.uk/nisr/2016/409), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2016/409/regulation/1/1/a), [6(2)](https://www.legislation.gov.uk/nisr/2016/409/regulation/6/2)
+[^c-a8574507f9b04325dcd1cca4896f2bfb]: Textual amendment: [Reg. 17(3)-(7)](https://www.legislation.gov.uk/nisr/2016/221/regulation/17/3) added (1.1.2017 for specified purposes) by [The Social Security (Credits, and Crediting and Treatment of Contributions) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/409)](https://www.legislation.gov.uk/nisr/2016/409), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2016/409/regulation/1/1/a), [6(2)](https://www.legislation.gov.uk/nisr/2016/409/regulation/6/2)

@@ -47,17 +47,17 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-721cfd8d30b331546f5cfb5eea470485]
+## 1. Citation, commencement and interpretation[^c-721cfd8d30b331546f5cfb5eea470485]
 
 (1) These Regulations may be cited as the Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2005 and shall come into force on 12th March 2005.
 
 (2) In these Regulations “principal Regulations” means the Less Favoured Area Support Scheme (Scotland) Regulations 2004[^f00002].
 
-## 2. Amendment of the Less Favoured Area Support Scheme (Scotland) Regulations 2004[^key-f076910ed47c9b036d604901715a889d]
+## 2. Amendment of the Less Favoured Area Support Scheme (Scotland) Regulations 2004[^c-f076910ed47c9b036d604901715a889d]
 
 The principal Regulations are amended in accordance with regulations 3 to 16.
 
-## 3. Amendment of regulation 2[^key-eca8b2b2301ccac90ca23f643117e009]
+## 3. Amendment of regulation 2[^c-eca8b2b2301ccac90ca23f643117e009]
 
 In regulation 2 (interpretation)–
 
@@ -72,7 +72,7 @@ In regulation 2 (interpretation)–
   - (viii) after the definition of “suckler cow” insert ““Suckler Cow Premium Scheme” means the Suckler Cow Premium (Scotland) Regulations 2001[^f00009];”; and
 - (b) in paragraph (3) after “as defined in” insert “section 15 of”.
 
-## 4. Amendment of regulation 4[^key-b1ba84085d4cdf77d5599bc567cfc53c]
+## 4. Amendment of regulation 4[^c-b1ba84085d4cdf77d5599bc567cfc53c]
 
 In regulation 4 (eligibility for payment of less favoured area support)–
 
@@ -92,11 +92,11 @@ In regulation 4 (eligibility for payment of less favoured area support)–
 
   .
 
-## 5. Amendment of regulation 9[^key-65961c83839900ccbd4042731add978f]
+## 5. Amendment of regulation 9[^c-65961c83839900ccbd4042731add978f]
 
 In regulation 9 (determination of payable area) in paragraph (1) for “2003” substitute “2004”.
 
-## 6. Amendment of regulation 10[^key-7bb1f99ab03b6ddb6c3f8d81a88c798f]
+## 6. Amendment of regulation 10[^c-7bb1f99ab03b6ddb6c3f8d81a88c798f]
 
 In regulation 10 (stocking density outwith maximum and minimum parameters)–
 
@@ -111,34 +111,34 @@ In regulation 10 (stocking density outwith maximum and minimum parameters)–
   ; and
 - (b) in paragraphs (2) and (3) for “2003” wherever that year occurs, substitute “2004”.
 
-## 7. Amendment of regulation 11[^key-5e6c076d901c6e1adf7acf0961cd8b3e]
+## 7. Amendment of regulation 11[^c-5e6c076d901c6e1adf7acf0961cd8b3e]
 
 In regulation 11 (enterprise mix), in paragraph (1) for “2003” substitute “the calendar year 2004”.
 
-## 8. Amendment of regulation 12[^key-ed049ae3efb48210f7a34e541599cbc7]
+## 8. Amendment of regulation 12[^c-ed049ae3efb48210f7a34e541599cbc7]
 
 In regulation 12 (rate of payment of less favoured area support)–
 
 - (a) in paragraph (2) for “Part 1” substitute “Part I”; and
 - (b) in paragraph (3) for “Part 2” substitute “Part II”.
 
-## 9. Amendment of regulation 13[^key-c84ec9cac182ffd4407006d8a2ad8141]
+## 9. Amendment of regulation 13[^c-c84ec9cac182ffd4407006d8a2ad8141]
 
 In regulation 13 (minimum payment) for “Scheme 2004 payment” substitute “Scheme 2005 payment”.
 
-## 10. Amendment of regulation 14[^key-345c88a775a0a60f32cc205dbe037882]
+## 10. Amendment of regulation 14[^c-345c88a775a0a60f32cc205dbe037882]
 
 In regulation 14(1)(a) (powers of authorised persons) for “Articles 59 to 61 of Commission Regulation 445/2002” substitute “Articles 67 to 69 of Commission Regulation 817/2004”.
 
-## 11. Amendment of regulation 15[^key-bcf98c17c384e8aaf87b64ed88ec6492]
+## 11. Amendment of regulation 15[^c-bcf98c17c384e8aaf87b64ed88ec6492]
 
 In regulation 15 (assistance to authorised persons) after “having” insert “, or appearing to have,”.
 
-## 12. Amendment of regulation 16[^key-fa604be704d7fac4673588fdffcfc8b0]
+## 12. Amendment of regulation 16[^c-fa604be704d7fac4673588fdffcfc8b0]
 
 In regulation 16 (withholding or recovery of less favoured area support) in each of paragraphs (c) and (d) for “eligible land” substitute “the holding”.
 
-## 13. Amendment of regulation 24[^key-e123d988b55f4028e7c879829125293f]
+## 13. Amendment of regulation 24[^c-e123d988b55f4028e7c879829125293f]
 
 For regulation 24 (appeal against decision as to eligibility of holding) substitute–
 
@@ -156,11 +156,11 @@ For regulation 24 (appeal against decision as to eligibility of holding) substit
 
 .
 
-## 14. Amendment of regulation 25[^key-bb8a4aae4e2f7b0777fed49509a7b67d]
+## 14. Amendment of regulation 25[^c-bb8a4aae4e2f7b0777fed49509a7b67d]
 
 In regulation 25(4)(a) after “the Scottish Ministers” insert “(whether or not that document or other evidence was available at the time of the said determination)”.
 
-## 15. Amendment of Schedule 2[^key-7e57fcecd3e5eb7e382526d90cd0676d]
+## 15. Amendment of Schedule 2[^c-7e57fcecd3e5eb7e382526d90cd0676d]
 
 In Schedule 2 (usual good farming practices)–
 
@@ -192,11 +192,11 @@ In Schedule 2 (usual good farming practices)–
 
     .
 
-## 16. Amendment of Schedule 8[^key-c0219a70ef5ded3c8d2a837bf6139d0c]
+## 16. Amendment of Schedule 8[^c-c0219a70ef5ded3c8d2a837bf6139d0c]
 
 In Schedule 8 (agency and cross border holdings), paragraph 1 omit “(as defined for the purposes of the Integrated Administration and Control System Regulations 1993[^f00012])”.
 
-## 17. Savings provision[^key-b7b83f5bcf4c6b6aeac8a2905d66de19]
+## 17. Savings provision[^c-b7b83f5bcf4c6b6aeac8a2905d66de19]
 
 Notwithstanding regulation 2, in respect of a Scheme 2004 payment, within the meaning of the principal Regulations, the principal Regulations shall continue to have effect as if the amendments made by these Regulations had not been made.
 
@@ -236,13 +236,13 @@ Regulation 17 is a savings provision to ensure that the principal Regulations, a
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The function conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-721cfd8d30b331546f5cfb5eea470485]: Commencement: Reg. 1 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-721cfd8d30b331546f5cfb5eea470485]: Commencement: Reg. 1 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2004/70](https://www.legislation.gov.uk/ssi/2004/70) as amended by [S.S.I. 2004/128](https://www.legislation.gov.uk/ssi/2004/128).
 
-[^key-f076910ed47c9b036d604901715a889d]: Commencement: Reg. 2 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-f076910ed47c9b036d604901715a889d]: Commencement: Reg. 2 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
-[^key-eca8b2b2301ccac90ca23f643117e009]: Commencement: Reg. 3 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-eca8b2b2301ccac90ca23f643117e009]: Commencement: Reg. 3 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
 [^f00003]: Footnote: Commission Regulation 445/2002 (O.J. No. L 74, 15.3.02, p.1) was repealed by Article 74(1) of Commission Regulation 817/2004 (O.J. L 153, 30.4.2004, p.30).
 
@@ -258,36 +258,36 @@ Regulation 17 is a savings provision to ensure that the principal Regulations, a
 
 [^f00009]: Footnote: [S.S.I. 2001/225](https://www.legislation.gov.uk/ssi/2001/225).
 
-[^key-b1ba84085d4cdf77d5599bc567cfc53c]: Commencement: Reg. 4 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-b1ba84085d4cdf77d5599bc567cfc53c]: Commencement: Reg. 4 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
-[^key-65961c83839900ccbd4042731add978f]: Commencement: Reg. 5 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-65961c83839900ccbd4042731add978f]: Commencement: Reg. 5 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
-[^key-7bb1f99ab03b6ddb6c3f8d81a88c798f]: Commencement: Reg. 6 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-7bb1f99ab03b6ddb6c3f8d81a88c798f]: Commencement: Reg. 6 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
-[^key-5e6c076d901c6e1adf7acf0961cd8b3e]: Commencement: Reg. 7 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-5e6c076d901c6e1adf7acf0961cd8b3e]: Commencement: Reg. 7 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
-[^key-ed049ae3efb48210f7a34e541599cbc7]: Commencement: Reg. 8 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-ed049ae3efb48210f7a34e541599cbc7]: Commencement: Reg. 8 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
-[^key-c84ec9cac182ffd4407006d8a2ad8141]: Commencement: Reg. 9 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-c84ec9cac182ffd4407006d8a2ad8141]: Commencement: Reg. 9 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
-[^key-345c88a775a0a60f32cc205dbe037882]: Commencement: Reg. 10 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-345c88a775a0a60f32cc205dbe037882]: Commencement: Reg. 10 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
-[^key-bcf98c17c384e8aaf87b64ed88ec6492]: Commencement: Reg. 11 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-bcf98c17c384e8aaf87b64ed88ec6492]: Commencement: Reg. 11 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
-[^key-fa604be704d7fac4673588fdffcfc8b0]: Commencement: Reg. 12 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-fa604be704d7fac4673588fdffcfc8b0]: Commencement: Reg. 12 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
-[^key-e123d988b55f4028e7c879829125293f]: Commencement: Reg. 13 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-e123d988b55f4028e7c879829125293f]: Commencement: Reg. 13 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
-[^key-bb8a4aae4e2f7b0777fed49509a7b67d]: Commencement: Reg. 14 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-bb8a4aae4e2f7b0777fed49509a7b67d]: Commencement: Reg. 14 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
-[^key-7e57fcecd3e5eb7e382526d90cd0676d]: Commencement: Reg. 15 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-7e57fcecd3e5eb7e382526d90cd0676d]: Commencement: Reg. 15 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
 [^f00010]: Footnote: S.I. [2005/63](https://www.legislation.gov.uk/uksi/2005/63).
 
 [^f00011]: Footnote: [S.S.I. 2000/442](https://www.legislation.gov.uk/ssi/2000/442) amended by [S.S.I. 2002/334](https://www.legislation.gov.uk/ssi/2002/334) and [2003/488](https://www.legislation.gov.uk/ssi/2003/488).
 
-[^key-c0219a70ef5ded3c8d2a837bf6139d0c]: Commencement: Reg. 16 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-c0219a70ef5ded3c8d2a837bf6139d0c]: Commencement: Reg. 16 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
 
 [^f00012]: Footnote: S.I. [1993/1317](https://www.legislation.gov.uk/uksi/1993/1317), as amended by S.I. [1994/1134](https://www.legislation.gov.uk/uksi/1994/1134), [1997/1148](https://www.legislation.gov.uk/uksi/1997/1148), [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), and [2000/2573](https://www.legislation.gov.uk/uksi/2000/2573).
 
-[^key-b7b83f5bcf4c6b6aeac8a2905d66de19]: Commencement: Reg. 17 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)
+[^c-b7b83f5bcf4c6b6aeac8a2905d66de19]: Commencement: Reg. 17 in force at 12.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/64/regulation/1/1)

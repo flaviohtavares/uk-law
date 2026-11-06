@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87I. Amendment of Certificate of Permission[^key-40aa6408905daf1d4c29c47a3896521c]
+## 87I. Amendment of Certificate of Permission[^c-40aa6408905daf1d4c29c47a3896521c]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40aa6408905daf1d4c29c47a3896521c]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/1993/3138/part/10A) inserted (29.3.2019) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2019/509/regulation/23)
+[^c-40aa6408905daf1d4c29c47a3896521c]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/1993/3138/part/10A) inserted (29.3.2019) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2019/509/regulation/23)

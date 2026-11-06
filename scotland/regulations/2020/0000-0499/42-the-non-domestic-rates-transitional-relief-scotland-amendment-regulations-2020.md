@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994 [^c23981181] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-636d0859370438dd33f0fabeeb777dae]
+## 1. Citation and commencement[^c-636d0859370438dd33f0fabeeb777dae]
 
 These Regulations may be cited as the Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2020 and come into force on 1 April 2020.
 
-## 2. Amendment of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017[^key-c4a1065f94375d15f305e15eff432656]
+## 2. Amendment of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017[^c-c4a1065f94375d15f305e15eff432656]
 
 (1) The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017 [^c23981191] are amended in accordance with paragraphs (2) to (7).
 
@@ -70,9 +70,9 @@ These Regulations may be cited as the Non-Domestic Rates (Transitional Relief) (
 
   > PF is the poundage figure of—
   >
-  > - (a) 0.516[^key-e9d4ae65c29d5ba5ae40eeca9ca91a7e] where the lands and heritages have a rateable value exceeding £95,000,
-  > - (b) 0.503[^key-dbab5f41fc158886a0d52300f29269b0] where the lands and heritages have a rateable value exceeding £51,000, but not exceeding £95,000, or
-  > - (c) 0.49[^key-8ca2583567bbd95806b2ba2720e9eb0a] in any other case.
+  > - (a) 0.516[^c-e9d4ae65c29d5ba5ae40eeca9ca91a7e] where the lands and heritages have a rateable value exceeding £95,000,
+  > - (b) 0.503[^c-dbab5f41fc158886a0d52300f29269b0] where the lands and heritages have a rateable value exceeding £51,000, but not exceeding £95,000, or
+  > - (c) 0.49[^c-8ca2583567bbd95806b2ba2720e9eb0a] in any other case.
 
   .
 
@@ -81,7 +81,7 @@ These Regulations may be cited as the Non-Domestic Rates (Transitional Relief) (
 - (a) in each formula in paragraph (1)—
   - (i) for “1.527” substitute “ 1.747 ”,
   - (ii) for “366” substitute “ 365 ”, and
-- (b)[^key-9e6796c2f8f8d2437f1b7cba3eabd607] for the definition of “PF” substitute—
+- (b)[^c-9e6796c2f8f8d2437f1b7cba3eabd607] for the definition of “PF” substitute—
 
   > PF is the poundage figure of—
   >
@@ -95,7 +95,7 @@ These Regulations may be cited as the Non-Domestic Rates (Transitional Relief) (
 
 - (a) in the heading, paragraph (1) and paragraph (2), for “2019” substitute “ 2020 ”, and
 - (b) in paragraph (1)—
-  - (i) in the formula, for “366” substitute “ 365 ”, and[^key-02361663a2dcde3c0bfd21f1f3f3d631]
+  - (i) in the formula, for “366” substitute “ 365 ”, and[^c-02361663a2dcde3c0bfd21f1f3f3d631]
   - (ii) for the definition of “PF” substitute—
 
     > PF is the poundage figure of—
@@ -126,20 +126,20 @@ Other paragraphs of regulation 2 uprate various figures used in the principal Re
 
 [^c23981181]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 153 was amended by section 67 of the [Climate Change (Scotland) Act 2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-636d0859370438dd33f0fabeeb777dae]: Commencement: Reg. 1 in force at 1.4.2020, see reg. 1
+[^c-636d0859370438dd33f0fabeeb777dae]: Commencement: Reg. 1 in force at 1.4.2020, see reg. 1
 
-[^key-c4a1065f94375d15f305e15eff432656]: Commencement: Reg. 2 in force at 1.4.2020, see reg. 1
+[^c-c4a1065f94375d15f305e15eff432656]: Commencement: Reg. 2 in force at 1.4.2020, see reg. 1
 
 [^c23981191]: Marginal citation: [S.S.I. 2017/85](https://www.legislation.gov.uk/ssi/2017/85), which was amended by [S.S.I. 2018/76](https://www.legislation.gov.uk/ssi/2018/76) and [S.S.I. 2019/44](https://www.legislation.gov.uk/ssi/2019/44).
 
 [^c23981201]: Marginal citation: [S.S.I. 2020/39](https://www.legislation.gov.uk/ssi/2020/39).
 
-[^key-e9d4ae65c29d5ba5ae40eeca9ca91a7e]: Textual amendment: Word in reg. 2(3)(b) substituted (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/a/i)
+[^c-e9d4ae65c29d5ba5ae40eeca9ca91a7e]: Textual amendment: Word in reg. 2(3)(b) substituted (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/a/i)
 
-[^key-dbab5f41fc158886a0d52300f29269b0]: Textual amendment: Word in reg. 2(3)(b) substituted (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/a/ii)
+[^c-dbab5f41fc158886a0d52300f29269b0]: Textual amendment: Word in reg. 2(3)(b) substituted (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/a/ii)
 
-[^key-8ca2583567bbd95806b2ba2720e9eb0a]: Textual amendment: Word in reg. 2(3)(b) substituted (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/a/iii)
+[^c-8ca2583567bbd95806b2ba2720e9eb0a]: Textual amendment: Word in reg. 2(3)(b) substituted (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/a/iii)
 
-[^key-9e6796c2f8f8d2437f1b7cba3eabd607]: Textual amendment: Reg. 2(4)(b) substituted (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/b)
+[^c-9e6796c2f8f8d2437f1b7cba3eabd607]: Textual amendment: Reg. 2(4)(b) substituted (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/b)
 
-[^key-02361663a2dcde3c0bfd21f1f3f3d631]: Textual amendment: Reg. 2(6)(b)(ii) and preceding word substituted for reg. 2(6)(b)(ii)(iii) (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/c)
+[^c-02361663a2dcde3c0bfd21f1f3f3d631]: Textual amendment: Reg. 2(6)(b)(ii) and preceding word substituted for reg. 2(6)(b)(ii)(iii) (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/c)

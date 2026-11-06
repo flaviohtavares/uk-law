@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Grant of fireworks licence[^key-c399840d7768b7440cd81cb6c402efbf]
+## 9. Grant of fireworks licence[^c-c399840d7768b7440cd81cb6c402efbf]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c399840d7768b7440cd81cb6c402efbf]: Commencement: S. 9 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-c399840d7768b7440cd81cb6c402efbf]: Commencement: S. 9 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

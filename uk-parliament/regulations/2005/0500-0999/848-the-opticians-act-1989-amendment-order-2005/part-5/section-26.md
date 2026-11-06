@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Amendment of Schedule 1[^key-9b41345a28ea7f9e7fd3fd7e4f2d59a8]
+## 26. Amendment of Schedule 1[^c-9b41345a28ea7f9e7fd3fd7e4f2d59a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -101,4 +101,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b41345a28ea7f9e7fd3fd7e4f2d59a8]: Commencement: Art. 26 comes into force in accordance with art. 1(3)-(6)
+[^c-9b41345a28ea7f9e7fd3fd7e4f2d59a8]: Commencement: Art. 26 comes into force in accordance with art. 1(3)-(6)

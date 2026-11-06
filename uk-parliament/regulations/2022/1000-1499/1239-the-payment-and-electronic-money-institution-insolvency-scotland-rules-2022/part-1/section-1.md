@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation[^key-1f67a8ce3ce58d17b7879870b6b6e9a5]
+## 1. Citation[^c-1f67a8ce3ce58d17b7879870b6b6e9a5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ These Rules may be cited as the Payment and Electronic Money Institution Insolve
 
 ## Annotations
 
-[^key-1f67a8ce3ce58d17b7879870b6b6e9a5]: Commencement: Rule 1 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-1f67a8ce3ce58d17b7879870b6b6e9a5]: Commencement: Rule 1 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

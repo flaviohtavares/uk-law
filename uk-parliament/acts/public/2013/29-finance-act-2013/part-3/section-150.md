@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Providers of social housing etc[^key-c536f1fabca79a2ce2e57b24834d4254]
+## 150. Providers of social housing etc[^c-c536f1fabca79a2ce2e57b24834d4254]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 - (b) the person from whom the qualifying housing provider acquired the interest (or any part of the interest) is a qualifying body, or
 - (c) the qualifying housing provider's acquisition of the interest (or of any part of the interest) was funded with the assistance of a public subsidy.
 
-(3A)[^key-6a8de96b38a581675f77ad5a5b5c7696] A day in a chargeable period is relievable in relation to a single-dwelling interest if on that day a qualifying housing co-operative (as defined by section 150A) is entitled to the interest.
+(3A)[^c-6a8de96b38a581675f77ad5a5b5c7696] A day in a chargeable period is relievable in relation to a single-dwelling interest if on that day a qualifying housing co-operative (as defined by section 150A) is entitled to the interest.
 
 (4) In this section—
 
@@ -57,7 +57,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c536f1fabca79a2ce2e57b24834d4254]: Textual amendment: Word in s. 150 heading inserted (with effect in accordance with s. 90(3)-(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 90(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/90/1/b)
+[^c-c536f1fabca79a2ce2e57b24834d4254]: Textual amendment: Word in s. 150 heading inserted (with effect in accordance with s. 90(3)-(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 90(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/90/1/b)
 
 [^M_F_a6999bfb-b308-40e8-8995-eaf303c4362c]: Textual amendment: Word in s. 150(2)(a) substituted (retrospective to 6.3.2024) by [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 9(13)(a)(i)(14)](https://www.legislation.gov.uk/ukpga/2024/12/section/9/13/a/i/14)
 
@@ -65,6 +65,6 @@ summary: ''
 
 [^M_F_b1a11981-3e43-4314-9c3c-951c5357160f]: Textual amendment: Word in s. 150(3) substituted (retrospective to 6.3.2024) by [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 9(13)(b)(14)](https://www.legislation.gov.uk/ukpga/2024/12/section/9/13/b/14)
 
-[^key-6a8de96b38a581675f77ad5a5b5c7696]: Textual amendment: [S. 150(3A)](https://www.legislation.gov.uk/ukpga/2013/29/section/150/3A) inserted (with effect in accordance with s. 90(3)-(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 90(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/90/1/a)
+[^c-6a8de96b38a581675f77ad5a5b5c7696]: Textual amendment: [S. 150(3A)](https://www.legislation.gov.uk/ukpga/2013/29/section/150/3A) inserted (with effect in accordance with s. 90(3)-(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 90(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/90/1/a)
 
 [^M_F_2a9c595f-62e9-42af-c83e-cd23f8d87bde]: Textual amendment: S. 150(4)(a)-(d) substituted for s. 150(4)(a)-(c) (retrospective to 6.3.2024) by [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 9(13)(c)(14)](https://www.legislation.gov.uk/ukpga/2024/12/section/9/13/c/14)

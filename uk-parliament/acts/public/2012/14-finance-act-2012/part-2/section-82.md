@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies in relation to an amount which is (or, but for this section, would be) regarded for the purposes of section 76 as an ordinary BLAGAB management expense of an insurance company.
 
-(2) Section 1249(1) and (2) of CTA 2009 (unpaid remuneration) apply for the purpose of determining the period of account for which the amount is debited in the accounts of the company for the purposes of section 77 [^key-0588015a8f13128727ad9517352dd23f]....
+(2) Section 1249(1) and (2) of CTA 2009 (unpaid remuneration) apply for the purpose of determining the period of account for which the amount is debited in the accounts of the company for the purposes of section 77 [^c-0588015a8f13128727ad9517352dd23f]....
 
 (3) Section 1249(1) and (3) of CTA 2009 apply for the purpose of determining whether the amount is to be regarded as an ordinary BLAGAB management expense of the company.
 
@@ -57,4 +57,4 @@ the amount that would otherwise be so deductible is reduced by 15%.
 
 ## Annotations
 
-[^key-0588015a8f13128727ad9517352dd23f]: Textual amendment: Words in [s. 82(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/82/2) omitted (with effect in relation to accounting periods of companies beginning on or after 1.1.2023 of the commencing S.I.) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 5 paras. 3(2)(f)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/3/2/f), [4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4); [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))
+[^c-0588015a8f13128727ad9517352dd23f]: Textual amendment: Words in [s. 82(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/82/2) omitted (with effect in relation to accounting periods of companies beginning on or after 1.1.2023 of the commencing S.I.) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 5 paras. 3(2)(f)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/3/2/f), [4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4); [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))

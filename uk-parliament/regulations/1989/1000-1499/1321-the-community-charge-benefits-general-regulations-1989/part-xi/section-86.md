@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 86. Person from whom recovery may be sought[^key-d61695df72ce0eeb7548cfc816d496d6]
+## 86. Person from whom recovery may be sought[^c-d61695df72ce0eeb7548cfc816d496d6]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d61695df72ce0eeb7548cfc816d496d6]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/1989/1321/regulation/86) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-d61695df72ce0eeb7548cfc816d496d6]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/1989/1321/regulation/86) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

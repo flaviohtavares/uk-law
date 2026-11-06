@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Forfeiture of Children’s Bonus Bonds[^key-7bd8d42e5f9920b18a6d4ee09897b2ef]
+## 59. Forfeiture of Children’s Bonus Bonds[^c-7bd8d42e5f9920b18a6d4ee09897b2ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ an amount credited to an account under this regulation is not to be counted if d
 
 ## Annotations
 
-[^key-7bd8d42e5f9920b18a6d4ee09897b2ef]: Commencement: Reg. 59 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-7bd8d42e5f9920b18a6d4ee09897b2ef]: Commencement: Reg. 59 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00021]: Footnote: [S.I. 2015/623](https://www.legislation.gov.uk/uksi/2015/623).
 

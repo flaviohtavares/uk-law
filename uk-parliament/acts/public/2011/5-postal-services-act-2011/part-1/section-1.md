@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Removal of restrictions on ownership of Royal Mail Holdings plc etc[^key-b4067ec22f7ad622a8ad329a92972678]
+## 1. Removal of restrictions on ownership of Royal Mail Holdings plc etc[^c-b4067ec22f7ad622a8ad329a92972678]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4067ec22f7ad622a8ad329a92972678]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2011/5/section/1) in force at 20.12.2011 by [S.I. 2011/3044](https://www.legislation.gov.uk/uksi/2011/3044), [art. 2](https://www.legislation.gov.uk/uksi/2011/3044/article/2)
+[^c-b4067ec22f7ad622a8ad329a92972678]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2011/5/section/1) in force at 20.12.2011 by [S.I. 2011/3044](https://www.legislation.gov.uk/uksi/2011/3044), [art. 2](https://www.legislation.gov.uk/uksi/2011/3044/article/2)

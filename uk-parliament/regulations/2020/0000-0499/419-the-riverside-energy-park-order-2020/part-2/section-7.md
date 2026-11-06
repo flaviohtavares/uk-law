@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Port of London Act 1968[^key-c1cfd3ea40d71c53cb7ddbd5af429de7]
+## 7. Port of London Act 1968[^c-c1cfd3ea40d71c53cb7ddbd5af429de7]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1cfd3ea40d71c53cb7ddbd5af429de7]: Commencement: Art. 7 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-c1cfd3ea40d71c53cb7ddbd5af429de7]: Commencement: Art. 7 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
 [^c24052581]: Marginal citation: 1968 (c.xxxii).

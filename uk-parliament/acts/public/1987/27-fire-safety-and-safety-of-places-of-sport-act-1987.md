@@ -35,93 +35,93 @@ An Act to amend the Fire Precautions Act 1971 and other enactments relating to f
 
 [^c791765][^c791766][^c791767]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## Part I — Fire Safety[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+## Part I — Fire Safety[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 **No longer in force.**
 
-### Exemption from requirement to have fire certificate[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+### Exemption from requirement to have fire certificate[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
-#### 1. Power to exempt from requirement to have fire certificate.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Exemption from requirement to have fire certificate: supplementary.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+#### 1. Power to exempt from requirement to have fire certificate.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Charges for fire certification work.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+#### 2. Exemption from requirement to have fire certificate: supplementary.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Means of escape and for fighting fire[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
-
-#### 4. Means of escape: scope of regulation.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+#### 3. Charges for fire certification work.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. General duty as to means of escape and for fighting fire.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+### Means of escape and for fighting fire[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
+
+#### 4. Means of escape: scope of regulation.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Codes of practice.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+#### 5. General duty as to means of escape and for fighting fire.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Improvement notices.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+#### 6. Codes of practice.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interim duties as to safety of premises[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
-
-#### 8. Duties as regards safety pending determination of applications for fire certificates.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+#### 7. Improvement notices.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Premises involving serious risk to persons[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+### Interim duties as to safety of premises[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
-#### 9. Special procedure in case of serious risk: prohibition notices.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Inspections of premises[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
-
-#### 10. Inspections of premises.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+#### 8. Duties as regards safety pending determination of applications for fire certificates.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Disclosure of information obtained in premises.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+### Premises involving serious risk to persons[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
+
+#### 9. Special procedure in case of serious risk: prohibition notices.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Civil and other liability[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+### Inspections of premises[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
-#### 12. Civil and other liability.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Miscellaneous[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
-
-#### 13. Removal of exemption for premises used for public religious worship.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+#### 10. Inspections of premises.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Breaches of fire certificate requirements: restriction of defence.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+#### 11. Disclosure of information obtained in premises.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Automatic means for fighting fire.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+### Civil and other liability[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
+
+#### 12. Civil and other liability.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Special provision for certain premises.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+### Miscellaneous[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
+
+#### 13. Removal of exemption for premises used for public religious worship.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Extension of power to apply Act.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+#### 14. Breaches of fire certificate requirements: restriction of defence.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Application to Crown etc.[^key-df5b09d99c75b296d5ad04ae2e15b1a7]
+#### 15. Automatic means for fighting fire.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 16. Special provision for certain premises.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 17. Extension of power to apply Act.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 18. Application to Crown etc.[^c-df5b09d99c75b296d5ad04ae2e15b1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -199,11 +199,11 @@ In section 2 of the principal Act (contents of safety certificates), after subse
 >
 > notwithstanding that that person was not party to the proceedings on the application.
 
-(4)[^key-a979ffa8cba51e63fdf15aed45bd081f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a979ffa8cba51e63fdf15aed45bd081f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In subsection (5), for the words “subsections (3) and (4) above”, there shall be substituted the words “ this section ”.
 
-(6)[^key-91be574e8900edf47f28f6706348269e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-91be574e8900edf47f28f6706348269e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 6(1) of the principal Act (power to make regulations) for paragraph (c) (appeals), there shall be substituted the following paragraph—
 
@@ -218,7 +218,7 @@ In section 2 of the principal Act (contents of safety certificates), after subse
 
   ;
 - (c) in subsection (3), for the words “notice is given of an appeal” there shall be substituted the words “ an appeal is brought ”, the words “, subject to subsection (4) below,” shall be omitted and for the words “Secretary of State” there shall be substituted the word “ court ”; and
-- (d)[^key-a48e21eeb356ca8fde3e10b90c4a28cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-a48e21eeb356ca8fde3e10b90c4a28cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Grounds involving serious risk to spectators
 
@@ -382,11 +382,11 @@ and any reference in this Part to a safety certificate’s being “for” a sta
 
 *Extent: E+W*
 
-(3A)[^key-6b0272397ee99ed5fde79b020ab8a4fe] No condition of a safety certificate shall require a person to contravene any provision of the Regulatory Reform (Fire Safety) Order 2005 or regulations made under it.
+(3A)[^c-6b0272397ee99ed5fde79b020ab8a4fe] No condition of a safety certificate shall require a person to contravene any provision of the Regulatory Reform (Fire Safety) Order 2005 or regulations made under it.
 
 *Extent: S*
 
-(3A)[^key-1114384a84373fbea071450831423ee9] No condition of a safety certificate shall require a person to contravene any provision of Part 3 of the Fire (Scotland) Act 2005 or of regulations made by virtue of that Part.
+(3A)[^c-1114384a84373fbea071450831423ee9] No condition of a safety certificate shall require a person to contravene any provision of Part 3 of the Fire (Scotland) Act 2005 or of regulations made by virtue of that Part.
 
 (4) Without prejudice to subsection (1) above, a safety certificate for a regulated stand may include a condition that the following records shall be kept—
 
@@ -430,7 +430,7 @@ and a determination made under paragraph (a) above that a stand is a regulated s
 
 (9) The local authority shall, if they determine that an applicant for a safety certificate does not qualify for the issue of the certificate, serve on him a notice stating their determination.
 
-(10)[^key-56920c1d7cf1c5e4e394c7d34ca6345b] The local authority shall send a copy of an application for a safety certificate for a regulated stand at a sports ground to the chief officer of police and where the local authority is in *(Extent: E+W)* *(affected by repeal, see note)*[^key-56920c1d7cf1c5e4e394c7d34ca6345b] Wales,[^c791775] *(Extent: E+W)* *(affected by repeal, see note)*[^key-56920c1d7cf1c5e4e394c7d34ca6345b] Greater London or a metropolitan county, the fire authority or, in any other case, the building authority for the area in which it *(Extent: E+W)* *(affected by repeal, see note)*[^key-56920c1d7cf1c5e4e394c7d34ca6345b] — *(Extent: E+W)*
+(10)[^c-56920c1d7cf1c5e4e394c7d34ca6345b] The local authority shall send a copy of an application for a safety certificate for a regulated stand at a sports ground to the chief officer of police and where the local authority is in *(Extent: E+W)* *(affected by repeal, see note)*[^c-56920c1d7cf1c5e4e394c7d34ca6345b] Wales,[^c791775] *(Extent: E+W)* *(affected by repeal, see note)*[^c-56920c1d7cf1c5e4e394c7d34ca6345b] Greater London or a metropolitan county, the fire authority or, in any other case, the building authority for the area in which it *(Extent: E+W)* *(affected by repeal, see note)*[^c-56920c1d7cf1c5e4e394c7d34ca6345b] — *(Extent: E+W)*
 
 - (a (Extent: E+W)) the chief officer of police, and *(Extent: E+W)*
 - (b (Extent: E+W)) if the local authority are not the fire and rescue authority, the fire and rescue authority, and *(Extent: E+W)*
@@ -452,23 +452,23 @@ for the area in which the sports ground *(Extent: E+W)* is situated, and shall c
 
 *Extent: E+W*
 
-(1A)[^key-69dad3cc6a2b4e05c024aaa7a7d24396] The local authority shall, if it appears to them that a safety certificate would require a person to contravene any provision of the Regulatory Reform (Fire Safety) Order 2005 or regulations made under it, amend the safety certificate by notice in writing to its holder; but nothing in this subsection shall be taken to require the local authority to take any action unless they are aware of such an inconsistency between a safety certificate and the Order.
+(1A)[^c-69dad3cc6a2b4e05c024aaa7a7d24396] The local authority shall, if it appears to them that a safety certificate would require a person to contravene any provision of the Regulatory Reform (Fire Safety) Order 2005 or regulations made under it, amend the safety certificate by notice in writing to its holder; but nothing in this subsection shall be taken to require the local authority to take any action unless they are aware of such an inconsistency between a safety certificate and the Order.
 
 *Extent: S*
 
-(1A)[^key-5fba47be3dbfe4c4c69a933e3db12005] The local authority shall, if it appears to them that a safety certificate would require a person to contravene any provision of Part 3 of the [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5) or regulations made by virtue of that Part, amend the safety certificate by notice in writing to its holder so as to remove the requirement.
+(1A)[^c-5fba47be3dbfe4c4c69a933e3db12005] The local authority shall, if it appears to them that a safety certificate would require a person to contravene any provision of Part 3 of the [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5) or regulations made by virtue of that Part, amend the safety certificate by notice in writing to its holder so as to remove the requirement.
 
 (2) A safety certificate may be cancelled, amended or replaced under subsection (1) above either on the application of the holder or without such an application.
 
 (3) Section 27 above shall apply on the amendment or replacement of a safety certificate.
 
-(4) A notice under subsection (1)(b) or (1A) *(Extent: E+W)*[^key-72dad4b63f604261a45dedabbcd1b809] above amending a general safety certificate shall specify the date on which the amendment to which it relates is to come into operation, and the date so specified may be a date later than the date of issue of the notice.
+(4) A notice under subsection (1)(b) or (1A) *(Extent: E+W)*[^c-72dad4b63f604261a45dedabbcd1b809] above amending a general safety certificate shall specify the date on which the amendment to which it relates is to come into operation, and the date so specified may be a date later than the date of issue of the notice.
 
 (5) If the local authority receive an application for the transfer of a safety certificate for a regulated stand at a sports ground from the holder to some other person it shall be their duty to determine whether that person would, if he made an application for the purpose, qualify for the issue of the certificate; and if they determine that he would, they may transfer the certificate to him and shall in any case notify him of their determination.
 
 (6) An application under subsection (5) above may be made either by the holder of the safety certificate or by the person to whom it is proposed that it should be transferred.
 
-(7)[^key-48f9525f9e6a3c29ec0d305a0346c9da] The local authority shall send a copy of an application for the transfer of a safety certificate for a regulated stand at a sports ground to the chief officer of police and where the local authority is in *(Extent: E+W)* *(affected by repeal, see note)*[^key-48f9525f9e6a3c29ec0d305a0346c9da] Wales,[^c791776] *(Extent: E+W)* *(affected by repeal, see note)*[^key-48f9525f9e6a3c29ec0d305a0346c9da] Greater London or a metropolitan county the fire authority or, in any other case, the building authority for the area in which it *(Extent: E+W)* *(affected by repeal, see note)*[^key-48f9525f9e6a3c29ec0d305a0346c9da] — *(Extent: E+W)*
+(7)[^c-48f9525f9e6a3c29ec0d305a0346c9da] The local authority shall send a copy of an application for the transfer of a safety certificate for a regulated stand at a sports ground to the chief officer of police and where the local authority is in *(Extent: E+W)* *(affected by repeal, see note)*[^c-48f9525f9e6a3c29ec0d305a0346c9da] Wales,[^c791776] *(Extent: E+W)* *(affected by repeal, see note)*[^c-48f9525f9e6a3c29ec0d305a0346c9da] Greater London or a metropolitan county the fire authority or, in any other case, the building authority for the area in which it *(Extent: E+W)* *(affected by repeal, see note)*[^c-48f9525f9e6a3c29ec0d305a0346c9da] — *(Extent: E+W)*
 
 - (a (Extent: E+W)) the chief officer of police, and *(Extent: E+W)*
 - (b (Extent: E+W)) if the local authority are not the fire and rescue authority, the fire and rescue authority, and *(Extent: E+W)*
@@ -488,13 +488,13 @@ about *(Extent: E+W)* any proposal to amend, replace or transfer a safety certif
 
 (10) The local authority may cancel a safety certificate if the holder dies or (if a body corporate) is dissolved.
 
-### 29A. Safety certificates: fire safety[^key-0e38e70721e89a2ada6b21f5bcc6bb37]
+### 29A. Safety certificates: fire safety[^c-0e38e70721e89a2ada6b21f5bcc6bb37]
 
 *Extent: E+W*
 
 A safety certificate has no effect to the extent that it would require a person to contravene any provision of the Regulatory Reform (Fire Safety) Order 2005 or regulations made under it.
 
-### 29A. Safety certificates: fire safety[^key-40a2cfe7d4d9c54f5fe0611357710e28]
+### 29A. Safety certificates: fire safety[^c-40a2cfe7d4d9c54f5fe0611357710e28]
 
 *Extent: S*
 
@@ -527,7 +527,7 @@ A safety certificate has no effect to the extent that it would require a person 
 
 *Extent: S*
 
-- (d (Extent: E+W) (affected by repeal, see note))[^key-49621e9c315345bd2c004e47c3746eaf] where the local authority is in *(Extent: E+W)* *(affected by repeal, see note)*[^key-49621e9c315345bd2c004e47c3746eaf] Wales,[^c791778] *(Extent: E+W)* *(affected by repeal, see note)*[^key-49621e9c315345bd2c004e47c3746eaf]Greater London or a metropolitan county, the fire authority or, in any other case, the building authority. *(Extent: E+W)* *(affected by repeal, see note)*[^key-49621e9c315345bd2c004e47c3746eaf]
+- (d (Extent: E+W) (affected by repeal, see note))[^c-49621e9c315345bd2c004e47c3746eaf] where the local authority is in *(Extent: E+W)* *(affected by repeal, see note)*[^c-49621e9c315345bd2c004e47c3746eaf] Wales,[^c791778] *(Extent: E+W)* *(affected by repeal, see note)*[^c-49621e9c315345bd2c004e47c3746eaf]Greater London or a metropolitan county, the fire authority or, in any other case, the building authority. *(Extent: E+W)* *(affected by repeal, see note)*[^c-49621e9c315345bd2c004e47c3746eaf]
 
 *Extent: E+W*
 
@@ -577,14 +577,14 @@ notwithstanding that that person was not party to the proceedings on the applica
 (1) While a general safety certificate is in force under this Part for a regulated stand at a sports ground, the following provisions shall not apply to the stand, that is to say—
 
 - (a) section 37(1) of the [^c791779]Public Health Acts Amendment Act 1890 (platforms for public occasions);
-- (b)[^key-443bf786994f31a443fffbe7e6f0b95c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-443bf786994f31a443fffbe7e6f0b95c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 89 of the [^c791781]Civic Government (Scotland) Act 1982 (which makes provision as to the safety of platforms, stands and similar structures) in so far as that section relates to any matter in relation to which requirements are imposed by the terms and conditions of the safety certificate;
-- (d) sections 24 and 71 *(Extent: E+W)* *(affected by repeal, see note)*[^key-7ea0582b55bd5139f331e8141d1f2e06] section 24 *(Extent: E+W)* of the [^c791782]Building Act 1984 (exits, entrances etc. in the case of certain public and other buildings); and
+- (d) sections 24 and 71 *(Extent: E+W)* *(affected by repeal, see note)*[^c-7ea0582b55bd5139f331e8141d1f2e06] section 24 *(Extent: E+W)* of the [^c791782]Building Act 1984 (exits, entrances etc. in the case of certain public and other buildings); and
 - (e) any provision of a local Act in so far as it relates to any matter in relation to which requirements are imposed by the terms and conditions of the safety certificate.
 
 (2) Where an enactment provides for the licensing of premises of any class or description and the authority responsible for licences thereunder is required or authorised to impose terms, conditions or restrictions in connection with such licences, then, so long as there is in operation with respect to the premises a safety certificate under this Part covering the use of the premises by reason of which a licence under that enactment is required, any term, condition or restriction imposed with respect to those premises in connection with any licence under that enactment shall be of no effect in so far as it relates to any matter in relation to which requirements are imposed by the terms and conditions of the certificate under this Part.
 
-(2A)[^key-acbfc53ce0cbc62b2c7f953e3a81c8b3] For the purposes of subsection (2)—
+(2A)[^c-acbfc53ce0cbc62b2c7f953e3a81c8b3] For the purposes of subsection (2)—
 
 - (a) “**the licensing of premises**” includes the granting of a premises licence or club premises certificate under the Licensing Act 2003, and
 - (b) “**licence**” is to be construed accordingly.
@@ -606,7 +606,7 @@ A person authorised by—
 
 *Extent: S*
 
-- (c (Extent: E+W) (affected by repeal, see note))[^key-6648af0674a9ae8b8c25471d61c859a7] where the local authority is in *(Extent: E+W)* *(affected by repeal, see note)*[^key-6648af0674a9ae8b8c25471d61c859a7] Wales,[^c791783] *(Extent: E+W)* *(affected by repeal, see note)*[^key-6648af0674a9ae8b8c25471d61c859a7]Greater London or a metropolitan county, the fire authority or, in any other case, the building authority, *(Extent: E+W)* *(affected by repeal, see note)*[^key-6648af0674a9ae8b8c25471d61c859a7]
+- (c (Extent: E+W) (affected by repeal, see note))[^c-6648af0674a9ae8b8c25471d61c859a7] where the local authority is in *(Extent: E+W)* *(affected by repeal, see note)*[^c-6648af0674a9ae8b8c25471d61c859a7] Wales,[^c791783] *(Extent: E+W)* *(affected by repeal, see note)*[^c-6648af0674a9ae8b8c25471d61c859a7]Greater London or a metropolitan county, the fire authority or, in any other case, the building authority, *(Extent: E+W)* *(affected by repeal, see note)*[^c-6648af0674a9ae8b8c25471d61c859a7]
 
 *Extent: E+W*
 
@@ -696,8 +696,8 @@ In this Part—
 
 - “**the building authority**” means-
   - (a) in England outside Greater London and the metropolitan counties, [^c791786]. . . the district council;
-  - (b) in Scotland, the local authority within the meaning of the Building (Scotland) Act 2003 (asp 8)[^key-5561c15312b9fbbdbd60c8ec950f1e56];
-- “**the court**” means, in relation to a sports ground in England and Wales, a magistrates’ court [^key-6be816170ecf972dd4851023e14384a8]... and, in relation to a sports ground in Scotland, the sheriff court within whose jurisdiction it is situated;
+  - (b) in Scotland, the local authority within the meaning of the Building (Scotland) Act 2003 (asp 8)[^c-5561c15312b9fbbdbd60c8ec950f1e56];
+- “**the court**” means, in relation to a sports ground in England and Wales, a magistrates’ court [^c-6be816170ecf972dd4851023e14384a8]... and, in relation to a sports ground in Scotland, the sheriff court within whose jurisdiction it is situated;
 - “**general safety certificate**” has the meaning assigned to it by section 26(11) above;
 - “**local authority**” means-
   - (a) in Greater London, the London borough council or the Common Council of the City of London;
@@ -720,11 +720,11 @@ In this Part—
 
 *Extent: E+W*
 
-#### 42. Licensing of indoor sports premises in London.[^key-63928c69ffb40b5450bc658b7e32b10f]
+#### 42. Licensing of indoor sports premises in London.[^c-63928c69ffb40b5450bc658b7e32b10f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 43. Licensing of indoor sports premises outside London.[^key-d7f475e6807bf880632bc4c82f640218]
+#### 43. Licensing of indoor sports premises outside London.[^c-d7f475e6807bf880632bc4c82f640218]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -776,11 +776,11 @@ In this Part—
 
 ### Miscellaneous
 
-#### 45. Entertainment licences: removal of exemption.[^key-bef3344f74788695a080c5527ec83eb1]
+#### 45. Entertainment licences: removal of exemption.[^c-bef3344f74788695a080c5527ec83eb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 46. Entertainment licences: fees for variation.[^key-1f4acaeaf184d98a4377f87ddfde1238]
+#### 46. Entertainment licences: fees for variation.[^c-1f4acaeaf184d98a4377f87ddfde1238]
 
 *Extent: E+W*
 
@@ -834,7 +834,7 @@ In section 98 of the Civic Government (Scotland) Act 1982 (power of Secretry of 
 
 SCHEDULES
 
-## SCHEDULE 1 — Fire Precautions: Special Provision for Certain Premises[^key-6fe75c4e21fd5b6e0541491dcfdafe3c]
+## SCHEDULE 1 — Fire Precautions: Special Provision for Certain Premises[^c-6fe75c4e21fd5b6e0541491dcfdafe3c]
 
 **No longer in force.**
 
@@ -939,67 +939,67 @@ Section 19.
 | Section 12(2). | Omit the words “stadium or other”. |
 | Section 17(1). | For the words “ “designated stadium””, substitute the words “designated sports ground” .Omit the definition of “sports stadium”. |
 
-## SCHEDULE 3 — Indoor Sports Licences[^key-07b2440036f7b701b597bbfe9c8a9322]
+## SCHEDULE 3 — Indoor Sports Licences[^c-07b2440036f7b701b597bbfe9c8a9322]
 
 *Extent: E+W*
 
 Section 42.
 
-### Consequential Amendments[^key-07b2440036f7b701b597bbfe9c8a9322]
+### Consequential Amendments[^c-07b2440036f7b701b597bbfe9c8a9322]
 
 **No longer in force.**
 
-#### Preliminary[^key-07b2440036f7b701b597bbfe9c8a9322]
+#### Preliminary[^c-07b2440036f7b701b597bbfe9c8a9322]
 
-**1.**[^key-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Amendments[^key-07b2440036f7b701b597bbfe9c8a9322]
+### Amendments[^c-07b2440036f7b701b597bbfe9c8a9322]
 
 **No longer in force.**
 
-#### Music and dancing licences[^key-07b2440036f7b701b597bbfe9c8a9322]
+#### Music and dancing licences[^c-07b2440036f7b701b597bbfe9c8a9322]
 
-**2.**[^key-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Boxing and wrestling licences[^key-07b2440036f7b701b597bbfe9c8a9322]
+#### Boxing and wrestling licences[^c-07b2440036f7b701b597bbfe9c8a9322]
 
-**3.**[^key-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Licences continued during applications[^key-07b2440036f7b701b597bbfe9c8a9322]
+#### Licences continued during applications[^c-07b2440036f7b701b597bbfe9c8a9322]
 
-**5.**[^key-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Transmission and cancellation of licences[^key-07b2440036f7b701b597bbfe9c8a9322]
+#### Transmission and cancellation of licences[^c-07b2440036f7b701b597bbfe9c8a9322]
 
-**6.**[^key-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Power to impose general terms et ceteralaetc. by regulations[^key-07b2440036f7b701b597bbfe9c8a9322]
+#### Power to impose general terms et ceteralaetc. by regulations[^c-07b2440036f7b701b597bbfe9c8a9322]
 
-**7.**[^key-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Enforcement[^key-07b2440036f7b701b597bbfe9c8a9322]
+#### Enforcement[^c-07b2440036f7b701b597bbfe9c8a9322]
 
-**8.**[^key-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Provisional grant of licences[^key-07b2440036f7b701b597bbfe9c8a9322]
+#### Provisional grant of licences[^c-07b2440036f7b701b597bbfe9c8a9322]
 
-**10.**[^key-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Variation of licences[^key-07b2440036f7b701b597bbfe9c8a9322]
+#### Variation of licences[^c-07b2440036f7b701b597bbfe9c8a9322]
 
-**11.**[^key-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Appeals[^key-07b2440036f7b701b597bbfe9c8a9322]
+#### Appeals[^c-07b2440036f7b701b597bbfe9c8a9322]
 
-**12.**[^key-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Meaning of “premises”[^key-07b2440036f7b701b597bbfe9c8a9322]
+#### Meaning of “premises”[^c-07b2440036f7b701b597bbfe9c8a9322]
 
-**13.**[^key-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-07b2440036f7b701b597bbfe9c8a9322] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 4 — Repeals[^c791800]
 
@@ -1020,10 +1020,10 @@ Section 49.
 
 **1.** In this Schedule—
 
-- [^key-77b1649a7bbe79c0dfcb745772f216ae].........
+- [^c-77b1649a7bbe79c0dfcb745772f216ae].........
 - “**the 1971 Act**” means the [^c791802]Fire Precautions Act 1971;
-- “**the 1975 Act**” means the [^c791803]Safety of Sports Grounds Act 1975; [^key-77b1649a7bbe79c0dfcb745772f216ae]...
-- [^key-77b1649a7bbe79c0dfcb745772f216ae].........
+- “**the 1975 Act**” means the [^c791803]Safety of Sports Grounds Act 1975; [^c-77b1649a7bbe79c0dfcb745772f216ae]...
+- [^c-77b1649a7bbe79c0dfcb745772f216ae].........
 
 ### Certain certificates deemed to be fire certificates
 
@@ -1054,13 +1054,13 @@ Section 49.
 
 ### Entertainment licences for sports generally
 
-**8.**[^key-053b43d989c318f52bfa4091771a1ed7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-053b43d989c318f52bfa4091771a1ed7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-053b43d989c318f52bfa4091771a1ed7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-053b43d989c318f52bfa4091771a1ed7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Boxing or wrestling licences
 
-**10.**[^key-053b43d989c318f52bfa4091771a1ed7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-053b43d989c318f52bfa4091771a1ed7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -1070,91 +1070,91 @@ Section 49.
 
 [^c791767]: Extent: Except as provided by an order under section 50 subsection (5) Parts II and III of this Act do not extend to the Isles of Scilly.
 
-[^key-df5b09d99c75b296d5ad04ae2e15b1a7]: Textual amendment: Pt. 1 repealed (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2005/1541/schedule/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)) and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
+[^c-df5b09d99c75b296d5ad04ae2e15b1a7]: Textual amendment: Pt. 1 repealed (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2005/1541/schedule/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)) and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
 
 [^c791770]: Extent: Except as provided by an order under section 50 subsection (5) Part II of this Act does not extend to the Isles of Scilly.
 
 [^c791771]: Marginal citation: [1975 c. 52](https://www.legislation.gov.uk/ukpga/1975/52).
 
-[^key-a979ffa8cba51e63fdf15aed45bd081f]: Textual amendment: [S. 22(4)](https://www.legislation.gov.uk/ukpga/1987/27/section/22/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-a979ffa8cba51e63fdf15aed45bd081f]: Textual amendment: [S. 22(4)](https://www.legislation.gov.uk/ukpga/1987/27/section/22/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
-[^key-91be574e8900edf47f28f6706348269e]: Textual amendment: [S. 22(6)](https://www.legislation.gov.uk/ukpga/1987/27/section/22/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-91be574e8900edf47f28f6706348269e]: Textual amendment: [S. 22(6)](https://www.legislation.gov.uk/ukpga/1987/27/section/22/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
-[^key-a48e21eeb356ca8fde3e10b90c4a28cb]: Textual amendment: [S. 22(8)(d)](https://www.legislation.gov.uk/ukpga/1987/27/section/22/8/d) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-a48e21eeb356ca8fde3e10b90c4a28cb]: Textual amendment: [S. 22(8)(d)](https://www.legislation.gov.uk/ukpga/1987/27/section/22/8/d) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c791772]: Textual amendment: Except as provided by an order under section 50 subsection (5) Part III of this Act does not extend to the Isles of Scilly
 
 [^c791773]: Modification: Part III (ss. 26–41) applied by [Finance Act 1989 (c. 26, SIF 40 : 1 : 2, 63 : 1 : 2, 65, 96, 98 : 5, 99 : 3, 107 : 2, 110, 114)](https://www.legislation.gov.uk/ukpga/1989/26) s. 119(2)(4) and by [Capital Allowance Act 1990 (c. 1, SIF 63 :1)](https://www.legislation.gov.uk/ukpga/1990/1), [s. 70(5)](https://www.legislation.gov.uk/ukpga/1990/1/section/70/5)
 
-[^key-6b0272397ee99ed5fde79b020ab8a4fe]: Textual amendment: S. 27(3A) inserted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 42(2)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/42/2) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+[^c-6b0272397ee99ed5fde79b020ab8a4fe]: Textual amendment: S. 27(3A) inserted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 42(2)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/42/2) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
 
-[^key-1114384a84373fbea071450831423ee9]: Textual amendment: S. 27(3A) inserted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 13(2)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/13/2)
+[^c-1114384a84373fbea071450831423ee9]: Textual amendment: S. 27(3A) inserted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 13(2)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/13/2)
 
 [^c791774]: Marginal citation: [1975 c. 52](https://www.legislation.gov.uk/ukpga/1975/52).
 
-[^key-56920c1d7cf1c5e4e394c7d34ca6345b]: Textual amendment: Words in s. 28(10) substituted (E.W.) (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 63(2)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/63/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); S.I. 2004/2917, art. 2
+[^c-56920c1d7cf1c5e4e394c7d34ca6345b]: Textual amendment: Words in s. 28(10) substituted (E.W.) (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 63(2)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/63/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); S.I. 2004/2917, art. 2
 
 [^c791775]: Textual amendment: Word in s. 28(10) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 81(1)(a)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/81/1/a) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5) [Sch. 17 para. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
-[^key-69dad3cc6a2b4e05c024aaa7a7d24396]: Textual amendment: S. 29(1A) inserted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 42(3)(a)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/42/3/a) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+[^c-69dad3cc6a2b4e05c024aaa7a7d24396]: Textual amendment: S. 29(1A) inserted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 42(3)(a)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/42/3/a) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
 
-[^key-5fba47be3dbfe4c4c69a933e3db12005]: Textual amendment: S. 29(1A) inserted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 13(3)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/13/3/a)
+[^c-5fba47be3dbfe4c4c69a933e3db12005]: Textual amendment: S. 29(1A) inserted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 13(3)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/13/3/a)
 
-[^key-72dad4b63f604261a45dedabbcd1b809]: Textual amendment: Words in s. 29(4) inserted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 42(3)(b)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/42/3/b) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)) and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 13(3)(b)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/13/3/b)
+[^c-72dad4b63f604261a45dedabbcd1b809]: Textual amendment: Words in s. 29(4) inserted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 42(3)(b)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/42/3/b) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)) and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 13(3)(b)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/13/3/b)
 
-[^key-48f9525f9e6a3c29ec0d305a0346c9da]: Textual amendment: Words in s. 29(7) substituted (E.W.) (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 63(2)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/63/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2; S.I. 2004/2917, art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2)
+[^c-48f9525f9e6a3c29ec0d305a0346c9da]: Textual amendment: Words in s. 29(7) substituted (E.W.) (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 63(2)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/63/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2; S.I. 2004/2917, art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2)
 
 [^c791776]: Textual amendment: Words in s. 29(7)(8) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 81(1)(b)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/81/1/b) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5) [Sch. 17 para. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
 [^M_F_78b2421c-b299-4388-c419-f4a46c014d0a]: Textual amendment: Words in s. 29(8) substituted (E.W.) (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 63(3)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/63/3); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
 
-[^key-0e38e70721e89a2ada6b21f5bcc6bb37]: Textual amendment: S. 29A inserted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 42(4)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/42/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+[^c-0e38e70721e89a2ada6b21f5bcc6bb37]: Textual amendment: S. 29A inserted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 42(4)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/42/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
 
-[^key-40a2cfe7d4d9c54f5fe0611357710e28]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/ukpga/1987/27/section/29A) inserted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 13(4)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/13/4)
+[^c-40a2cfe7d4d9c54f5fe0611357710e28]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/ukpga/1987/27/section/29A) inserted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 13(4)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/13/4)
 
-[^key-49621e9c315345bd2c004e47c3746eaf]: Textual amendment: S. 30(8)(d)(e) substituted for s. 30(8)(d) (E.W.) (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 63(4)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/63/4); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-49621e9c315345bd2c004e47c3746eaf]: Textual amendment: S. 30(8)(d)(e) substituted for s. 30(8)(d) (E.W.) (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 63(4)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/63/4); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
 
 [^c791778]: Textual amendment: Word in s. 30(8)(d) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 81(1)(c)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/81/1/c) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5) [Sch. 17 para. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
 [^c791779]: Marginal citation: 53 & 54 Vict. c. 59.
 
-[^key-443bf786994f31a443fffbe7e6f0b95c]: Textual amendment: S. 33(1)(b) repealed (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 42(5)(a)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/42/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2005/1541/schedule/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)) and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
+[^c-443bf786994f31a443fffbe7e6f0b95c]: Textual amendment: S. 33(1)(b) repealed (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 42(5)(a)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/42/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2005/1541/schedule/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)) and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
 
 [^c791781]: Marginal citation: [1982 c. 45](https://www.legislation.gov.uk/ukpga/1982/45).
 
-[^key-7ea0582b55bd5139f331e8141d1f2e06]: Textual amendment: Words in s. 33(1)(d) substituted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 42(5)(b)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/42/5/b) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+[^c-7ea0582b55bd5139f331e8141d1f2e06]: Textual amendment: Words in s. 33(1)(d) substituted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 42(5)(b)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/42/5/b) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
 
 [^c791782]: Marginal citation: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55).
 
-[^key-acbfc53ce0cbc62b2c7f953e3a81c8b3]: Textual amendment: S. 33(2A) inserted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 106](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/106) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
+[^c-acbfc53ce0cbc62b2c7f953e3a81c8b3]: Textual amendment: S. 33(2A) inserted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 106](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/106) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
 
-[^key-6648af0674a9ae8b8c25471d61c859a7]: Textual amendment: S. 35(c)(d) substituted for s. 35(c) (E.W.) (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 63(5)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/63/5); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-6648af0674a9ae8b8c25471d61c859a7]: Textual amendment: S. 35(c)(d) substituted for s. 35(c) (E.W.) (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 63(5)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/63/5); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
 
 [^c791783]: Textual amendment: Word in s. 35(c) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 81(1)(d)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/81/1/d) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5) [Sch. 17 para. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
 [^c791786]: Textual amendment: Words in s. 41 repealed (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)(8)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6/8), [Sch. 16 para. 81(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/81/2), [Sch. 18](https://www.legislation.gov.uk/ukpga/1994/19/schedule/18) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
-[^key-5561c15312b9fbbdbd60c8ec950f1e56]: Textual amendment: Words in s. 41 substituted (S.) (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 18](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/18) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-5561c15312b9fbbdbd60c8ec950f1e56]: Textual amendment: Words in s. 41 substituted (S.) (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 18](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/18) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
 
-[^key-6be816170ecf972dd4851023e14384a8]: Textual amendment: Words in s. 41 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 301](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/301), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-6be816170ecf972dd4851023e14384a8]: Textual amendment: Words in s. 41 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 301](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/301), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c791789]: Textual amendment: S. 41(cc) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 81(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/81/2) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5) [Sch. 17 para. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
 [^c791790]: Textual amendment: Words in s. 41(d) substituted (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 153](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/153); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/c)
 
-[^key-63928c69ffb40b5450bc658b7e32b10f]: Textual amendment: [S. 42](https://www.legislation.gov.uk/ukpga/1987/27/section/42) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-63928c69ffb40b5450bc658b7e32b10f]: Textual amendment: [S. 42](https://www.legislation.gov.uk/ukpga/1987/27/section/42) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-d7f475e6807bf880632bc4c82f640218]: Textual amendment: [S. 43](https://www.legislation.gov.uk/ukpga/1987/27/section/43) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-d7f475e6807bf880632bc4c82f640218]: Textual amendment: [S. 43](https://www.legislation.gov.uk/ukpga/1987/27/section/43) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-bef3344f74788695a080c5527ec83eb1]: Textual amendment: [S. 45](https://www.legislation.gov.uk/ukpga/1987/27/section/45) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-bef3344f74788695a080c5527ec83eb1]: Textual amendment: [S. 45](https://www.legislation.gov.uk/ukpga/1987/27/section/45) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-1f4acaeaf184d98a4377f87ddfde1238]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/1987/27/section/46) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-1f4acaeaf184d98a4377f87ddfde1238]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/1987/27/section/46) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c791792]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/1987/27/section/49) partly in force; [s. 49](https://www.legislation.gov.uk/ukpga/1987/27/section/49) not in force at Royal Assent see [s. 50(2)](https://www.legislation.gov.uk/ukpga/1987/27/section/50/2); [s. 49(1)](https://www.legislation.gov.uk/ukpga/1987/27/section/49/1) in force in relation to specified repeals: at 1.1.1988 by [S.I. 1987/1762](https://www.legislation.gov.uk/uksi/1987/1762), [art. 2](https://www.legislation.gov.uk/uksi/1987/1762/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1987/1762/schedule); at 1.6.1988 by [S.I. 1988/485](https://www.legislation.gov.uk/uksi/1988/485), [art. 2](https://www.legislation.gov.uk/uksi/1988/485/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1988/485/schedule); at 1.4.1989 by [S.I. 1989/75](https://www.legislation.gov.uk/uksi/1989/75), [art. 2](https://www.legislation.gov.uk/uksi/1989/75/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1989/75/schedule); at 1.8.1993 by [S.I. 1993/1411](https://www.legislation.gov.uk/uksi/1993/1411), [art. 2](https://www.legislation.gov.uk/uksi/1993/1411/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1993/1411/schedule)
 
 [^c791793]: Modification: Power of appointment conferred by s. 50(2) partly exercised: [S.I. 1987/1762](https://www.legislation.gov.uk/uksi/1987/1762), 1988/485, 626, 1806, 1989/75 and 1990/1984
 
-[^key-6fe75c4e21fd5b6e0541491dcfdafe3c]: Textual amendment: Sch. 1 repealed (E.W.) (1.4.2006) by The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541), art. 1(3), Sch. 4 (with art. 49) and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
+[^c-6fe75c4e21fd5b6e0541491dcfdafe3c]: Textual amendment: Sch. 1 repealed (E.W.) (1.4.2006) by The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541), art. 1(3), Sch. 4 (with art. 49) and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
 
 [^c791794]: Marginal citation: 9 & 10 Eliz. 2 c. 34.
 
@@ -1166,11 +1166,11 @@ Section 49.
 
 [^c791798]: Marginal citation: 18 & 19 Geo. V c. 32.
 
-[^key-07b2440036f7b701b597bbfe9c8a9322]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1987/27/schedule/3) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-07b2440036f7b701b597bbfe9c8a9322]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1987/27/schedule/3) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c791800]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/1987/27/schedule/4) partly in force; [Sch. 4](https://www.legislation.gov.uk/ukpga/1987/27/schedule/4) not in force at Royal Assent see [s. 50(2)](https://www.legislation.gov.uk/ukpga/1987/27/section/50/2); [Sch. 4](https://www.legislation.gov.uk/ukpga/1987/27/schedule/4) in force in relation to specified repeals: at 1.1.1988 by [S.I. 1987/1762](https://www.legislation.gov.uk/uksi/1987/1762), [art. 2](https://www.legislation.gov.uk/uksi/1987/1762/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1987/1762/schedule); at 1.6.1988 by [S.I. 1988/485](https://www.legislation.gov.uk/uksi/1988/485), [art. 2](https://www.legislation.gov.uk/uksi/1988/485/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1988/485/schedule); at 1.4.1989 by [S.I. 1989/75](https://www.legislation.gov.uk/uksi/1989/75), [art. 2](https://www.legislation.gov.uk/uksi/1989/75/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1989/75/schedule); at 1.8.1993 by [S.I. 1993/1411](https://www.legislation.gov.uk/uksi/1993/1411), [art. 2](https://www.legislation.gov.uk/uksi/1993/1411/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1993/1411/schedule)
 
-[^key-77b1649a7bbe79c0dfcb745772f216ae]: Textual amendment: Words in Sch. 5 para. 1 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-77b1649a7bbe79c0dfcb745772f216ae]: Textual amendment: Words in Sch. 5 para. 1 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c791802]: Marginal citation: [1971 c. 40](https://www.legislation.gov.uk/ukpga/1971/40).
 
@@ -1178,4 +1178,4 @@ Section 49.
 
 [^c791805]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
 
-[^key-053b43d989c318f52bfa4091771a1ed7]: Textual amendment: [Sch. 5 paras. 8-10](https://www.legislation.gov.uk/ukpga/1987/27/schedule/5/paragraph/8) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-053b43d989c318f52bfa4091771a1ed7]: Textual amendment: [Sch. 5 paras. 8-10](https://www.legislation.gov.uk/ukpga/1987/27/schedule/5/paragraph/8) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))

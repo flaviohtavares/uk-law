@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Amendment of the National Health Service (Personal Dental Services Agreements) Regulations 2005[^key-28de5031c3e3213fc32eb970b84740ef]
+## 18. Amendment of the National Health Service (Personal Dental Services Agreements) Regulations 2005[^c-28de5031c3e3213fc32eb970b84740ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28de5031c3e3213fc32eb970b84740ef]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2023/1071/regulation/18) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-28de5031c3e3213fc32eb970b84740ef]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2023/1071/regulation/18) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 2005/3373](https://www.legislation.gov.uk/uksi/2005/3373), amended by [S.I. 2013/364](https://www.legislation.gov.uk/uksi/2013/364); there are other amending instruments but none is relevant.

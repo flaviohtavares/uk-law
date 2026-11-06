@@ -55,16 +55,16 @@ These Regulations may be cited as the Paternity, Adoption and Shared Parental Le
 In these Regulations—
 
 - “**Curtailment Regulations**” means the Maternity and Adoption Leave (Curtailment of Statutory Rights to Leave) Regulations (Northern Ireland) 2015 [^c22711461];
-- “intended parent”, in relation to a child, means a person who, on the day of the child’s birth—[^key-b3c03937442427d9e9030f7242f04094]
+- “intended parent”, in relation to a child, means a person who, on the day of the child’s birth—[^c-b3c03937442427d9e9030f7242f04094]
   - (a) applies, or intends to apply during the period of 6 months beginning with that day—
     - (i) with another person for an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child; or
     - (ii) as the sole applicant for an order under section 54A of that Act in respect of the child; and
   - (b) expects the court to make such an order in respect of the child;
 - “**Leave Regulations**” means the Paternity and Adoption Leave Regulations (Northern Ireland) 2002 [^c22711471];
-- [^key-fc8bfb9af8e1d45d135c188bd96e79e7]...
-- [^key-bee8faeeb9856c3a3e2ae3eb17a1b11e]...
+- [^c-fc8bfb9af8e1d45d135c188bd96e79e7]...
+- [^c-bee8faeeb9856c3a3e2ae3eb17a1b11e]...
 - “**paternity leave (adoption)**” means paternity leave under regulation 8 of the Leave Regulations;
-- “section 54 parental order parent” means a person—[^key-1213ef52860a23fd08c6c46f0891758e]
+- “section 54 parental order parent” means a person—[^c-1213ef52860a23fd08c6c46f0891758e]
   - (a) on whose application the court has made an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of a child; or
   - (b) who is an intended parent of a child by reference to an application or intended application for such an order;
 - “section 54A parental order parent” means a person—
@@ -73,7 +73,7 @@ In these Regulations—
 - “**statutory adoption leave**” means ordinary adoption leave under Article 107A of the Employment Rights (Northern Ireland) Order 1996 or additional adoption leave under Article 107B of that Order;
 - “**SPL Regulations**” means the Shared Parental Leave Regulations (Northern Ireland) 2015 [^c22711491].
 
-### 3. Application of the Leave Regulations to parental order parents[^key-c9c11729c49e3aeb86399babd8d9cb8f]
+### 3. Application of the Leave Regulations to parental order parents[^c-c9c11729c49e3aeb86399babd8d9cb8f]
 
 (1) The provisions of the Leave Regulations, in so far as they apply to paternity leave (adoption) apply to section 54 parental order parents with the modifications set out in Part 2 of these Regulations.
 
@@ -86,24 +86,24 @@ with the modifications set out in Part 2 of these Regulations.
 
 ### 4. Application of the Curtailment Regulations to parental order parents
 
-The provisions of the Curtailment Regulations, in so far as they apply to the curtailment of statutory adoption leave, apply to section 54[^key-2ce846d27e06f7a131a82c028708a72b] parental order parents with the modifications set out in Part 3.
+The provisions of the Curtailment Regulations, in so far as they apply to the curtailment of statutory adoption leave, apply to section 54[^c-2ce846d27e06f7a131a82c028708a72b] parental order parents with the modifications set out in Part 3.
 
 ### 5. Application of the SPL Regulations to Parental Order Parents
 
-The provisions of the SPL Regulations, in so far as they apply to shared parental leave (adoption), apply to section 54[^key-61fcf2cf0af0c576bda5880dd1d546e5] parental order parents with the modifications set out in Part 4.
+The provisions of the SPL Regulations, in so far as they apply to shared parental leave (adoption), apply to section 54[^c-61fcf2cf0af0c576bda5880dd1d546e5] parental order parents with the modifications set out in Part 4.
 
 ## PART 2 — PARENTAL ORDER PARENTS: PATERNITY AND ADOPTION LEAVE
 
 ### 6.
 
-Regulation 2 (interpretation) of the Leave Regulations as they apply to section 54 parental order parents and section 54A parental order parents[^key-fb60cac218056303ea478ce00702b7d7] shall read as if—
+Regulation 2 (interpretation) of the Leave Regulations as they apply to section 54 parental order parents and section 54A parental order parents[^c-fb60cac218056303ea478ce00702b7d7] shall read as if—
 
 - (a) in paragraph (1)—
   - (i) the definitions of “adopter” and “child” were omitted;
   - (ii) in the definition of “partner”, “Parent A” were substituted (in each case) for the words “a child's mother or adopter”, “the mother or adopter” and “the mother or the adopter”;
   - (iii) there were, in the appropriate places alphabetically, the following definitions—
 
-    > - “intended parent”, in relation to a child, means a person who, on the day of the child’s birth—[^key-3d080af4c7d49e3809ea0c14d6f2d0b1]
+    > - “intended parent”, in relation to a child, means a person who, on the day of the child’s birth—[^c-3d080af4c7d49e3809ea0c14d6f2d0b1]
     >   - (a) applies, or intends to apply during the period of 6 months beginning with that day—
     >     - (i) with another person for an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child; or
     >     - (ii) as the sole applicant for an order under section 54A of that Act in respect of the child; and
@@ -111,17 +111,17 @@ Regulation 2 (interpretation) of the Leave Regulations as they apply to section 
 
     ;
 
-    > “**Parent A**”, in relation to a child, means the section 54[^key-cb420e3cd9bbf7a446ca05eb40f9b13a] parental order parent who has elected to be Parent A;
+    > “**Parent A**”, in relation to a child, means the section 54[^c-cb420e3cd9bbf7a446ca05eb40f9b13a] parental order parent who has elected to be Parent A;
 
     ;
 
-    > [^key-a3d6ab89e0e3c6b6649b8a215b528a0d]...
+    > [^c-a3d6ab89e0e3c6b6649b8a215b528a0d]...
 
     ;
 
-    > [^key-a3d6ab89e0e3c6b6649b8a215b528a0d]...
+    > [^c-a3d6ab89e0e3c6b6649b8a215b528a0d]...
 
-    > “parental statutory declaration” means a statutory declaration stating that the person making the declaration—[^key-b0229f09df6edb6bb78cde899b46ec13]
+    > “parental statutory declaration” means a statutory declaration stating that the person making the declaration—[^c-b0229f09df6edb6bb78cde899b46ec13]
     >
     > - (a) has applied, or intends to apply—
     >   - (i) under section 54 of the Human Fertilisation and Embryology Act 2008 with another person; or
@@ -130,7 +130,7 @@ Regulation 2 (interpretation) of the Leave Regulations as they apply to section 
     >   for a parental order under that section in respect of the child within the time limit for making such an application; and
     > - (b) expects the court to make an order under that section on that application in respect of the child;
 
-    > “section 54 parental order parent” means a person—[^key-c7377080d39273ea271597e17c5f900c]
+    > “section 54 parental order parent” means a person—[^c-c7377080d39273ea271597e17c5f900c]
     >
     > - (a) on whose application the court has made an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of a child; or
     > - (b) who is an intended parent of a child by reference to an application or intended application for such an order;
@@ -146,13 +146,13 @@ Regulation 2 (interpretation) of the Leave Regulations as they apply to section 
   - (ii) the words “the mother's or adopter's” were “Parent A's”;
 - (c) the words of paragraph (4) were—
 
-  > A section 54[^key-432545e1a8116b0cc5351f46ec5d8574] parental order parent elects to be Parent A in relation to a child if he agrees with the other section 54 parental order parent of the child that he, and not the other section 54 parental order parent, will be Parent A.
+  > A section 54[^c-432545e1a8116b0cc5351f46ec5d8574] parental order parent elects to be Parent A in relation to a child if he agrees with the other section 54 parental order parent of the child that he, and not the other section 54 parental order parent, will be Parent A.
 
   .
 
 ### 7.
 
-Regulation 3 (application) of the Leave Regulations as they apply to section 54[^key-7b7dd8314be619551951baabf9a789aa] parental order parents shall read as if—
+Regulation 3 (application) of the Leave Regulations as they apply to section 54[^c-7b7dd8314be619551951baabf9a789aa] parental order parents shall read as if—
 
 - (a) paragraph (1) were omitted;
 - (b) the words of paragraph (2) were—
@@ -162,7 +162,7 @@ Regulation 3 (application) of the Leave Regulations as they apply to section 54[
   ;
 - (c) in paragraphs (3) and (6), the words “8th December 2002” were “15th March 2015”.
 
-### 7A.[^key-3ac74f8ad40d64ea05908e1570f43002]
+### 7A.[^c-3ac74f8ad40d64ea05908e1570f43002]
 
 Regulation 3 (application) of the Leave Regulations as they apply to section 54A parental order parents shall read as if—
 
@@ -176,7 +176,7 @@ Regulation 3 (application) of the Leave Regulations as they apply to section 54A
 
 ### 8.
 
-In regulation 4 (entitlement to paternity leave: birth), paragraph (1A) [^c22711501] of the Leave Regulations, as they apply to section 54[^key-cc6ce80274d9eb8d87140c60a3ad6e8f] parental order parents, shall read as if the words of that paragraph were—
+In regulation 4 (entitlement to paternity leave: birth), paragraph (1A) [^c22711501] of the Leave Regulations, as they apply to section 54[^c-cc6ce80274d9eb8d87140c60a3ad6e8f] parental order parents, shall read as if the words of that paragraph were—
 
 > An employee is not entitled to be absent from work under paragraph (1) if the employee—
 >
@@ -188,7 +188,7 @@ In regulation 4 (entitlement to paternity leave: birth), paragraph (1A) [^c22711
 
 ### 9.
 
-In regulation 8 (entitlement to paternity leave: adoption) of the Leave Regulations as they apply to section 54[^key-d0612204c850e04d0a3bd0782a4782ea] parental order parents—
+In regulation 8 (entitlement to paternity leave: adoption) of the Leave Regulations as they apply to section 54[^c-d0612204c850e04d0a3bd0782a4782ea] parental order parents—
 
 - (a) paragraph (1) shall read as if the words “the child's adopter” were “Parent A”;
 - (b) paragraph (2)(a) shall read as if the words after “the week” to the end were “immediately preceding the 14th week before the expected week of the child's birth”;
@@ -202,7 +202,7 @@ In regulation 8 (entitlement to paternity leave: adoption) of the Leave Regulati
 
     > ; and
     >
-    > - (d) is a section 54 parental order parent[^key-a397d7859399b6b67ffa92f9f5c45277] of the child.
+    > - (d) is a section 54 parental order parent[^c-a397d7859399b6b67ffa92f9f5c45277] of the child.
 
     ;
 - (e) paragraph (4) shall read as if the words of that paragraph were—
@@ -231,7 +231,7 @@ In regulation 8 (entitlement to paternity leave: adoption) of the Leave Regulati
 
 ### 10.
 
-In regulation 9 (options in respect of leave under regulation 8) of the Leave Regulations as they apply to section 54[^key-810edb106b1addd760447ba0560957e7] parental order parents—
+In regulation 9 (options in respect of leave under regulation 8) of the Leave Regulations as they apply to section 54[^c-810edb106b1addd760447ba0560957e7] parental order parents—
 
 - (a) paragraph (2) shall read as if the words “the child is placed with the adopter” were “the child is born”;
 - (b) paragraph (3) shall read as if the words of that paragraph were—
@@ -246,7 +246,7 @@ In regulation 9 (options in respect of leave under regulation 8) of the Leave Re
 
 ### 11.
 
-Regulation 10 (notice and evidential requirements for leave under regulation 8) of the Leave Regulations as they apply to section 54[^key-d1a3b0d39ddcb8e89557908db8f81700] parental order parents shall read as if the words of that regulation were—
+Regulation 10 (notice and evidential requirements for leave under regulation 8) of the Leave Regulations as they apply to section 54[^c-d1a3b0d39ddcb8e89557908db8f81700] parental order parents shall read as if the words of that regulation were—
 
 > **10.**
 >
@@ -262,7 +262,7 @@ Regulation 10 (notice and evidential requirements for leave under regulation 8) 
 >
 > - (a) the purpose of the employee's absence from work will be that specified in regulation 8(1);
 > - (b) the employee satisfies the conditions of entitlement in sub-paragraphs (b) and (c) of regulation 8(2); and
-> - (c) the employee and Parent A are the section 54[^key-967cf8ddb32211b99e528be97abbdc83] parental order parents of the child.
+> - (c) the employee and Parent A are the section 54[^c-967cf8ddb32211b99e528be97abbdc83] parental order parents of the child.
 >
 > (4) An employee who has given notice under paragraph (1) may vary the date chosen as the date on which the period of leave will begin provided that the employee has given the employer notice of the variation—
 >
@@ -285,20 +285,20 @@ Regulation 10 (notice and evidential requirements for leave under regulation 8) 
 
 ### 12.
 
-In regulation 11 (commencement of leave under regulation 8) of the Leave Regulations, as they apply to section 54[^key-bfbb4397874d0da4d4453964372381d4] parental order parents—
+In regulation 11 (commencement of leave under regulation 8) of the Leave Regulations, as they apply to section 54[^c-bfbb4397874d0da4d4453964372381d4] parental order parents—
 
 - (a) paragraph (1) shall read as if the words “10(4) or (6)” were “10(4) or (5)”;
 - (b) paragraph (2)(a) shall read as if the words “the child is placed with the adopter” were “the child is born”.
 
 ### 13.
 
-In regulation 15 (entitlement to ordinary adoption leave) of the Leave Regulations, as they apply to section 54[^key-e7c01714960467a7ed199a8404ca894e] parental order parents—
+In regulation 15 (entitlement to ordinary adoption leave) of the Leave Regulations, as they apply to section 54[^c-e7c01714960467a7ed199a8404ca894e] parental order parents—
 
 - (a) paragraph (2) shall read as if the words of that paragraph were—
 
   > The conditions referred to in paragraph (1) are that the employee—
   >
-  > - (a) is one of the child's section 54[^key-1126268f955ab94f84e64ac349bea23c] parental order parents; and
+  > - (a) is one of the child's section 54[^c-1126268f955ab94f84e64ac349bea23c] parental order parents; and
   > - (b) has elected to be Parent A.
 
   ;
@@ -308,7 +308,7 @@ In regulation 15 (entitlement to ordinary adoption leave) of the Leave Regulatio
 
   .
 
-### 13A.[^key-d7525147043ed687c81911710d483280]
+### 13A.[^c-d7525147043ed687c81911710d483280]
 
 In regulation 15 (entitlement to ordinary adoption leave) of the Leave Regulations, as they apply to section 54A parental order parents—
 
@@ -324,7 +324,7 @@ In regulation 15 (entitlement to ordinary adoption leave) of the Leave Regulatio
 
 ### 14.
 
-Regulations 16 (options in respect of ordinary adoption leave) and 17 (notice and evidential requirements for ordinary adoption leave) of the Leave Regulations as they apply to section 54 parental order parents and section 54A parental order parents[^key-cee8dbfd93464c5a9089f99611045778] shall read as if the wording of those regulations were—
+Regulations 16 (options in respect of ordinary adoption leave) and 17 (notice and evidential requirements for ordinary adoption leave) of the Leave Regulations as they apply to section 54 parental order parents and section 54A parental order parents[^c-cee8dbfd93464c5a9089f99611045778] shall read as if the wording of those regulations were—
 
 > **16. Commencement of ordinary adoption leave**
 >
@@ -352,7 +352,7 @@ Regulations 16 (options in respect of ordinary adoption leave) and 17 (notice an
 
 ### 15.
 
-In regulation 18 (duration and commencement of ordinary adoption leave) of the Leave Regulations as they apply to section 54 parental order parents and section 54A parental order parents[^key-7d25b846d352a7c6ecb3bc688c32c5bb] , it shall read as if—
+In regulation 18 (duration and commencement of ordinary adoption leave) of the Leave Regulations as they apply to section 54 parental order parents and section 54A parental order parents[^c-7d25b846d352a7c6ecb3bc688c32c5bb] , it shall read as if—
 
 - (a) in the heading, the words “and commencement” were omitted;
 - (b) paragraph (1) was unnumbered; and
@@ -360,32 +360,32 @@ In regulation 18 (duration and commencement of ordinary adoption leave) of the L
 
 ### 16.
 
-In regulation 20 (additional adoption leave: entitlement, duration and commencement) of the Leave Regulations as they apply to section 54[^key-b86f6adf40dc93cef96cd3cfa0e8945a] parental order parents, sub-paragraph (a) of paragraph (1) shall read as if the words of that sub-paragraph were “the employee is Parent A,”.
+In regulation 20 (additional adoption leave: entitlement, duration and commencement) of the Leave Regulations as they apply to section 54[^c-b86f6adf40dc93cef96cd3cfa0e8945a] parental order parents, sub-paragraph (a) of paragraph (1) shall read as if the words of that sub-paragraph were “the employee is Parent A,”.
 
-### 16A.[^key-78ae455156b4fc1360fc2629d80f36e8]
+### 16A.[^c-78ae455156b4fc1360fc2629d80f36e8]
 
 In regulation 20 (additional adoption leave: entitlement duration and commencement) of the Leave Regulations as they apply to section 54A parental order parents, paragraph (1)(a) shall read as if the words of that sub-paragraph were “the employee is a section 54A parental order parent in respect of that child.”
 
 ### 17.
 
-In regulation 22 (disrupted placement in the course of adoption leave) of the Leave Regulations as they apply to section 54[^key-af32c235023c41dda9069f0d81cf2d05] parental order parents—
+In regulation 22 (disrupted placement in the course of adoption leave) of the Leave Regulations as they apply to section 54[^c-af32c235023c41dda9069f0d81cf2d05] parental order parents—
 
 - (a) paragraph (1) shall read as if the words of that paragraph were—
 
   > This regulation applies where—
   >
-  > - (a)[^key-9963dfaac8fdb9305f205b8cb4615904] the employee does not apply for an order under section 54 of the Human Fertilisation and Embryology Act 2008 within the time limit set by subsection (3) of that section; and
+  > - (a)[^c-9963dfaac8fdb9305f205b8cb4615904] the employee does not apply for an order under section 54 of the Human Fertilisation and Embryology Act 2008 within the time limit set by subsection (3) of that section; and
   > - (b) the employee’s application for an order under that section for the child is refused, withdrawn or otherwise terminated without the order being granted and any time for an appeal or a new application has expired; or
   > - (c) the child dies.
 
   ;
 - (b) paragraph (3) shall read as if—
-  - (i) in paragraph (a) the words from “the person with whom” to the end were “the time limit in section 54(3) of the Human Fertilisation and Embryology Act 2008 for an application for an order under that section[^key-07906a00baf11016b639c4e3cf39dd99] for the child expires;”;
-  - (ii) in paragraph (b) the words “paragraph (1)(b)(i)” to the end were “paragraph (1)(b), the week in which the employee's application for an order under that section[^key-434851e2a71cb112d90b2c5e808fd6c8] is refused, withdrawn or otherwise terminated without the order being granted;”;
+  - (i) in paragraph (a) the words from “the person with whom” to the end were “the time limit in section 54(3) of the Human Fertilisation and Embryology Act 2008 for an application for an order under that section[^c-07906a00baf11016b639c4e3cf39dd99] for the child expires;”;
+  - (ii) in paragraph (b) the words “paragraph (1)(b)(i)” to the end were “paragraph (1)(b), the week in which the employee's application for an order under that section[^c-434851e2a71cb112d90b2c5e808fd6c8] is refused, withdrawn or otherwise terminated without the order being granted;”;
   - (iii) in paragraph (c) the words “paragraph (1)(b)(ii)” to the end were “paragraph (1)(c), the week during which the child dies.”;
 - (c) paragraph (3A) is omitted in relation to any time on or after the date on which that paragraph comes into operation [^c22711511].
 
-### 17A.[^key-e076888ae8b1a2d3dd9e6720836c189c]
+### 17A.[^c-e076888ae8b1a2d3dd9e6720836c189c]
 
 In regulation 22 (disrupted placement in the course of adoption leave) of the Leave Regulations as they apply to section 54A parental order parents—
 
@@ -408,7 +408,7 @@ In regulation 22 (disrupted placement in the course of adoption leave) of the Le
 
 ### 18.
 
-Regulation 2(2) (application) of the Curtailment Regulations as they apply to section 54[^key-ebdd695e506a946bea8adadb42bd4bea] parental order parents shall read as if the words in that regulation were—
+Regulation 2(2) (application) of the Curtailment Regulations as they apply to section 54[^c-ebdd695e506a946bea8adadb42bd4bea] parental order parents shall read as if the words in that regulation were—
 
 > Part 3 of these Regulations has effect only in relation to children whose expected week of birth begins on or after 5th April 2015.
 
@@ -416,7 +416,7 @@ Regulation 2(2) (application) of the Curtailment Regulations as they apply to se
 
 ### 19.
 
-Regulation 3 (interpretation) of the Curtailment Regulations as they apply to section 54[^key-2ea0fa800811730ab07817801db0bd0e] parental order parents shall read as if in paragraph (1)—
+Regulation 3 (interpretation) of the Curtailment Regulations as they apply to section 54[^c-2ea0fa800811730ab07817801db0bd0e] parental order parents shall read as if in paragraph (1)—
 
 - (a) the definition of “A” read—
 
@@ -452,7 +452,7 @@ Regulation 3 (interpretation) of the Curtailment Regulations as they apply to se
 
 ### 20.
 
-In regulation 2 (application) of the SPL Regulations as they apply to section 54[^key-036ff759b4ccd079ebb026b165bdac44] parental order parents—
+In regulation 2 (application) of the SPL Regulations as they apply to section 54[^c-036ff759b4ccd079ebb026b165bdac44] parental order parents—
 
 - (a) paragraph (1) is omitted;
 - (b) paragraph (2) shall read as if the words in that paragraph were—
@@ -463,7 +463,7 @@ In regulation 2 (application) of the SPL Regulations as they apply to section 54
 
 ### 21.
 
-Regulation 3 (interpretation) of the SPL Regulations as they apply to section 54[^key-4ae7208d71690cae6e42434848ab1b71] parental order parents shall read as if in paragraph (1)—
+Regulation 3 (interpretation) of the SPL Regulations as they apply to section 54[^c-4ae7208d71690cae6e42434848ab1b71] parental order parents shall read as if in paragraph (1)—
 
 - (a) the definition of “A” read—
 
@@ -477,7 +477,7 @@ Regulation 3 (interpretation) of the SPL Regulations as they apply to section 54
   ;
 - (c) there were, in the appropriate places alphabetically, the following definitions—
 
-  > - “intended parent”, in relation to a child, means a person who, on the day of the child’s birth—[^key-0542f62c4894597a4f6d86b7afe78637]
+  > - “intended parent”, in relation to a child, means a person who, on the day of the child’s birth—[^c-0542f62c4894597a4f6d86b7afe78637]
   >   - (a) applies, or intends to apply during the period of 6 months beginning with that day, with another person for a parental order in respect of the child; and
   >   - (b) expects the court to make a parental order on that application in respect of the child;
 
@@ -498,7 +498,7 @@ Regulation 3 (interpretation) of the SPL Regulations as they apply to section 54
 
 ### 22.
 
-In regulation 20 (adopter's entitlement to shared parental leave) of the SPL Regulations as they apply to section 54[^key-0c4c4d08f53939340461ba4b943cdd13] parental order parents—
+In regulation 20 (adopter's entitlement to shared parental leave) of the SPL Regulations as they apply to section 54[^c-0c4c4d08f53939340461ba4b943cdd13] parental order parents—
 
 - (a) paragraphs (2)(b) and (3)(b) shall each read as if the words “at the date of the placement for adoption of C” were “at the date of C's birth”;
 - (b) paragraph (4) shall read as if the words of that paragraph were—
@@ -509,7 +509,7 @@ In regulation 20 (adopter's entitlement to shared parental leave) of the SPL Reg
 
 ### 23.
 
-In regulation 21 (adopter's partner's entitlement to shared parental leave) of the SPL Regulations as they apply to section 54[^key-884ce52973fd0d3ca35949eca9d22bae] parental order parents—
+In regulation 21 (adopter's partner's entitlement to shared parental leave) of the SPL Regulations as they apply to section 54[^c-884ce52973fd0d3ca35949eca9d22bae] parental order parents—
 
 - (a) paragraphs (2)(b) and (3)(b) shall each read as if the words “at the date of the placement for adoption of C” were “at the date of C's birth”;
 - (b) paragraph (4) shall read as if the words of that paragraph were—
@@ -520,7 +520,7 @@ In regulation 21 (adopter's partner's entitlement to shared parental leave) of t
 
 ### 24.
 
-Regulation 23 (periods when shared parental leave may be taken (adoption)) of the SPL Regulations as they apply to section 54[^key-708543fc38e1cf2b4d8634d36be20184] parental order parents shall read as if the words of paragraph (1) were—
+Regulation 23 (periods when shared parental leave may be taken (adoption)) of the SPL Regulations as they apply to section 54[^c-708543fc38e1cf2b4d8634d36be20184] parental order parents shall read as if the words of paragraph (1) were—
 
 > Shared parental leave may be taken at any time within the period which begins on the date C is born (or where more than one child is born as a result of the same pregnancy, the date on which the first child is born) and ends on the day before C's first birthday.
 
@@ -528,7 +528,7 @@ Regulation 23 (periods when shared parental leave may be taken (adoption)) of th
 
 ### 25.
 
-In regulation 24 (adopter's notice of entitlement and intention to take shared parental leave) of the SPL Regulations as they apply to section 54[^key-fc176850d5b8b15f6e177a1c834e267b] parental order parents—
+In regulation 24 (adopter's notice of entitlement and intention to take shared parental leave) of the SPL Regulations as they apply to section 54[^c-fc176850d5b8b15f6e177a1c834e267b] parental order parents—
 
 - (a) paragraph (2) shall read as if—
   - (i) the words of sub-paragraph (c) were—
@@ -562,7 +562,7 @@ In regulation 24 (adopter's notice of entitlement and intention to take shared p
 
 ### 26.
 
-In regulation 25 (adopter's partner's notice of entitlement and intention to take shared parental leave) of the SPL Regulations, as they apply to section 54[^key-21973aa4b5bb01c358a58fc7bb1b3a95] parental order parents—
+In regulation 25 (adopter's partner's notice of entitlement and intention to take shared parental leave) of the SPL Regulations, as they apply to section 54[^c-21973aa4b5bb01c358a58fc7bb1b3a95] parental order parents—
 
 - (a) paragraph (2) shall read as if—
   - (i) the words in sub-paragraph (c) were—
@@ -588,7 +588,7 @@ In regulation 25 (adopter's partner's notice of entitlement and intention to tak
 
 ### 27.
 
-In regulation 26 (supplementary evidence (adoption)) of the SPL Regulations as they apply to section 54 parental order[^key-f0cb255a15ed657b59d9b24810966503] parents—
+In regulation 26 (supplementary evidence (adoption)) of the SPL Regulations as they apply to section 54 parental order[^c-f0cb255a15ed657b59d9b24810966503] parents—
 
 - (a) paragraph (1)(a) shall read as if the words in that paragraph were replaced by—
 
@@ -603,7 +603,7 @@ In regulation 26 (supplementary evidence (adoption)) of the SPL Regulations as t
 
 ### 28.
 
-In regulation 28 (period of leave notice (adoption)) of the SPL Regulations as they apply to section 54[^key-c550a487227ad3c159a9786c5e89e635] parental order parents, paragraph (4)(c) shall read as if the words in that paragraph were—
+In regulation 28 (period of leave notice (adoption)) of the SPL Regulations as they apply to section 54[^c-c550a487227ad3c159a9786c5e89e635] parental order parents, paragraph (4)(c) shall read as if the words in that paragraph were—
 
 > if given before C is born—
 >
@@ -614,11 +614,11 @@ In regulation 28 (period of leave notice (adoption)) of the SPL Regulations as t
 
 ### 29.
 
-In regulation 32 (limit on number of period of leave notices or variations (adoption)) of the SPL Regulations as they apply to section 54[^key-4d4d373b0afaebe536c54ea4a8400a59] parental order parents, paragraph (2)(b) shall read as if the words “being placed earlier or later than the date expected” in that paragraph were “being born earlier or later than the expected week of birth”.
+In regulation 32 (limit on number of period of leave notices or variations (adoption)) of the SPL Regulations as they apply to section 54[^c-4d4d373b0afaebe536c54ea4a8400a59] parental order parents, paragraph (2)(b) shall read as if the words “being placed earlier or later than the date expected” in that paragraph were “being born earlier or later than the expected week of birth”.
 
 ### 30.
 
-In regulation 34 (entitlement to shared parental leave in the event of a disrupted placement or the death of adopter, adopter's partner or child) of the SPL Regulations as they apply to section 54[^key-90e291fd3330d52e7a3179843d923cad] parental order parents—
+In regulation 34 (entitlement to shared parental leave in the event of a disrupted placement or the death of adopter, adopter's partner or child) of the SPL Regulations as they apply to section 54[^c-90e291fd3330d52e7a3179843d923cad] parental order parents—
 
 - (a) paragraph (a) shall read as if the word “or” were omitted;
 - (b) paragraph (b) shall read as if the words of that paragraph were—
@@ -636,7 +636,7 @@ In regulation 34 (entitlement to shared parental leave in the event of a disrupt
 
 ### 31.
 
-In regulation 35 (continuity of employment test) of the SPL Regulations as they apply to section 54[^key-d5af1b5b206a63f30eb0533d3e8feb86] parental order parents—
+In regulation 35 (continuity of employment test) of the SPL Regulations as they apply to section 54[^c-d5af1b5b206a63f30eb0533d3e8feb86] parental order parents—
 
 - (a) it shall read as if after paragraph (2) there were inserted—
 
@@ -651,7 +651,7 @@ In regulation 35 (continuity of employment test) of the SPL Regulations as they 
 
 ### 32.
 
-Regulation 36 (employment and earnings test) of the SPL Regulations as they apply to section 54[^key-05226c74b11e9cc2f2f0b0da678700ec] parental order parents shall read as if the definition of “calculation week” in paragraph (5) were—
+Regulation 36 (employment and earnings test) of the SPL Regulations as they apply to section 54[^c-05226c74b11e9cc2f2f0b0da678700ec] parental order parents shall read as if the definition of “calculation week” in paragraph (5) were—
 
 > “**calculation week**” means the expected week of birth;
 
@@ -659,7 +659,7 @@ Regulation 36 (employment and earnings test) of the SPL Regulations as they appl
 
 ### 33.
 
-In the Schedule (shared parental leave in special circumstances) of the SPL Regulations as they apply to section 54[^key-9c6f0f9e582d0bd198ad2dbba919735c] parental order parents—
+In the Schedule (shared parental leave in special circumstances) of the SPL Regulations as they apply to section 54[^c-9c6f0f9e582d0bd198ad2dbba919735c] parental order parents—
 
 - (a) paragraph 10 (entitlement to shared parental leave in the event of a disrupted placement or the death of a child) shall read as if—
   - (i) in each of sub-paragraphs (1) and (2)—
@@ -714,122 +714,122 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^c22711461]: Marginal citation: S.R. [2015 No.95](https://www.legislation.gov.uk/ukcm/2015/95).
 
-[^key-b3c03937442427d9e9030f7242f04094]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/101/regulation/2) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/2/a)
+[^c-b3c03937442427d9e9030f7242f04094]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/101/regulation/2) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/2/a)
 
 [^c22711471]: Marginal citation: S.R. [2002 No.377](https://www.legislation.gov.uk/ukcm/2002/377); as amended by S.R. [2005 No. 48](https://www.legislation.gov.uk/ukcm/2005/48) (C. 5); S.R. [2005 No. 520](https://www.legislation.gov.uk/ukcm/2005/520); S.R. [2006 No. 373](https://www.legislation.gov.uk/ukcm/2006/373); S.R. [2008 No. 374](https://www.legislation.gov.uk/ukcm/2008/374); [S.I. 2011/1740](https://www.legislation.gov.uk/uksi/2011/1740); and S.R. [2015 No.87](https://www.legislation.gov.uk/ukcm/2015/87).
 
-[^key-fc8bfb9af8e1d45d135c188bd96e79e7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/101/regulation/2) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/2/b)
+[^c-fc8bfb9af8e1d45d135c188bd96e79e7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/101/regulation/2) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/2/b)
 
-[^key-bee8faeeb9856c3a3e2ae3eb17a1b11e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/101/regulation/2) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(2)(c)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/2/c)
+[^c-bee8faeeb9856c3a3e2ae3eb17a1b11e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/101/regulation/2) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(2)(c)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/2/c)
 
-[^key-1213ef52860a23fd08c6c46f0891758e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/101/regulation/2) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(2)(d)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/2/d)
+[^c-1213ef52860a23fd08c6c46f0891758e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/101/regulation/2) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(2)(d)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/2/d)
 
 [^c22711491]: Marginal citation: S.R. [2015 No.93](https://www.legislation.gov.uk/ukcm/2015/93).
 
-[^key-c9c11729c49e3aeb86399babd8d9cb8f]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/101/regulation/3) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/3)
+[^c-c9c11729c49e3aeb86399babd8d9cb8f]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/101/regulation/3) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/3)
 
-[^key-2ce846d27e06f7a131a82c028708a72b]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2015/101/regulation/4) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(4)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/4)
+[^c-2ce846d27e06f7a131a82c028708a72b]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2015/101/regulation/4) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(4)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/4)
 
-[^key-61fcf2cf0af0c576bda5880dd1d546e5]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2015/101/regulation/5) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(5)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/5)
+[^c-61fcf2cf0af0c576bda5880dd1d546e5]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2015/101/regulation/5) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(5)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/5)
 
-[^key-fb60cac218056303ea478ce00702b7d7]: Textual amendment: Words in reg. 6 substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(6)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/6/a)
+[^c-fb60cac218056303ea478ce00702b7d7]: Textual amendment: Words in reg. 6 substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(6)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/6/a)
 
-[^key-3d080af4c7d49e3809ea0c14d6f2d0b1]: Textual amendment: Words in reg. 6(a)(iii) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(6)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/6/b/i)
+[^c-3d080af4c7d49e3809ea0c14d6f2d0b1]: Textual amendment: Words in reg. 6(a)(iii) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(6)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/6/b/i)
 
-[^key-cb420e3cd9bbf7a446ca05eb40f9b13a]: Textual amendment: Words in reg. 6(a)(iii) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/6/b/ii)
+[^c-cb420e3cd9bbf7a446ca05eb40f9b13a]: Textual amendment: Words in reg. 6(a)(iii) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/6/b/ii)
 
-[^key-a3d6ab89e0e3c6b6649b8a215b528a0d]: Textual amendment: Words in reg. 6(a)(iii) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/6/b/iii)
+[^c-a3d6ab89e0e3c6b6649b8a215b528a0d]: Textual amendment: Words in reg. 6(a)(iii) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/6/b/iii)
 
-[^key-b0229f09df6edb6bb78cde899b46ec13]: Textual amendment: Words in [reg. 6(a)(iii)](https://www.legislation.gov.uk/nisr/2015/101/regulation/6/a/iii) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(6)(b)(v)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/6/b/v)
+[^c-b0229f09df6edb6bb78cde899b46ec13]: Textual amendment: Words in [reg. 6(a)(iii)](https://www.legislation.gov.uk/nisr/2015/101/regulation/6/a/iii) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(6)(b)(v)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/6/b/v)
 
-[^key-c7377080d39273ea271597e17c5f900c]: Textual amendment: Words in reg. 6(a)(iii) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/6/b/iv)
+[^c-c7377080d39273ea271597e17c5f900c]: Textual amendment: Words in reg. 6(a)(iii) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/6/b/iv)
 
-[^key-432545e1a8116b0cc5351f46ec5d8574]: Textual amendment: Words in reg. 6(c) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(6)(c)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/6/c)
+[^c-432545e1a8116b0cc5351f46ec5d8574]: Textual amendment: Words in reg. 6(c) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(6)(c)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/6/c)
 
-[^key-7b7dd8314be619551951baabf9a789aa]: Textual amendment: Words in reg. 7 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(7)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/7)
+[^c-7b7dd8314be619551951baabf9a789aa]: Textual amendment: Words in reg. 7 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(7)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/7)
 
-[^key-3ac74f8ad40d64ea05908e1570f43002]: Textual amendment: Reg. 7A inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(8)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/8)
+[^c-3ac74f8ad40d64ea05908e1570f43002]: Textual amendment: Reg. 7A inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(8)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/8)
 
 [^c22711501]: Marginal citation: Inserted by. S.R. [2015 No.87](https://www.legislation.gov.uk/ukcm/2015/87), [regulation 4(d)](https://www.legislation.gov.uk/ukcm/2015/87/regulation/4/d).
 
-[^key-cc6ce80274d9eb8d87140c60a3ad6e8f]: Textual amendment: Words in reg. 8 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(9)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/9)
+[^c-cc6ce80274d9eb8d87140c60a3ad6e8f]: Textual amendment: Words in reg. 8 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(9)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/9)
 
-[^key-d0612204c850e04d0a3bd0782a4782ea]: Textual amendment: Words in reg. 9 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(10)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/10/a)
+[^c-d0612204c850e04d0a3bd0782a4782ea]: Textual amendment: Words in reg. 9 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(10)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/10/a)
 
-[^key-a397d7859399b6b67ffa92f9f5c45277]: Textual amendment: Words in reg. 9(d)(iii) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(10)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/10/b)
+[^c-a397d7859399b6b67ffa92f9f5c45277]: Textual amendment: Words in reg. 9(d)(iii) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(10)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/10/b)
 
-[^key-810edb106b1addd760447ba0560957e7]: Textual amendment: Words in reg. 10 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(11)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/11)
+[^c-810edb106b1addd760447ba0560957e7]: Textual amendment: Words in reg. 10 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(11)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/11)
 
-[^key-d1a3b0d39ddcb8e89557908db8f81700]: Textual amendment: Words in reg. 11 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(12)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/12/a)
+[^c-d1a3b0d39ddcb8e89557908db8f81700]: Textual amendment: Words in reg. 11 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(12)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/12/a)
 
-[^key-967cf8ddb32211b99e528be97abbdc83]: Textual amendment: Words in reg. 11 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(12)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/12/b)
+[^c-967cf8ddb32211b99e528be97abbdc83]: Textual amendment: Words in reg. 11 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(12)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/12/b)
 
-[^key-bfbb4397874d0da4d4453964372381d4]: Textual amendment: Words in reg. 12 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(13)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/13)
+[^c-bfbb4397874d0da4d4453964372381d4]: Textual amendment: Words in reg. 12 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(13)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/13)
 
-[^key-e7c01714960467a7ed199a8404ca894e]: Textual amendment: Words in reg. 13 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(14)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/14/a)
+[^c-e7c01714960467a7ed199a8404ca894e]: Textual amendment: Words in reg. 13 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(14)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/14/a)
 
-[^key-1126268f955ab94f84e64ac349bea23c]: Textual amendment: Words in reg. 13(a) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(14)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/14/b)
+[^c-1126268f955ab94f84e64ac349bea23c]: Textual amendment: Words in reg. 13(a) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(14)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/14/b)
 
-[^key-d7525147043ed687c81911710d483280]: Textual amendment: Reg. 13A inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(15)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/15)
+[^c-d7525147043ed687c81911710d483280]: Textual amendment: Reg. 13A inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(15)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/15)
 
-[^key-cee8dbfd93464c5a9089f99611045778]: Textual amendment: Words in reg. 14 substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(16)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/16)
+[^c-cee8dbfd93464c5a9089f99611045778]: Textual amendment: Words in reg. 14 substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(16)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/16)
 
-[^key-7d25b846d352a7c6ecb3bc688c32c5bb]: Textual amendment: Words in reg. 15 substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(17)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/17)
+[^c-7d25b846d352a7c6ecb3bc688c32c5bb]: Textual amendment: Words in reg. 15 substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(17)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/17)
 
-[^key-b86f6adf40dc93cef96cd3cfa0e8945a]: Textual amendment: Words in reg. 16 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(18)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/18)
+[^c-b86f6adf40dc93cef96cd3cfa0e8945a]: Textual amendment: Words in reg. 16 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(18)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/18)
 
-[^key-78ae455156b4fc1360fc2629d80f36e8]: Textual amendment: Reg. 16A inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(19)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/19)
+[^c-78ae455156b4fc1360fc2629d80f36e8]: Textual amendment: Reg. 16A inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(19)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/19)
 
-[^key-af32c235023c41dda9069f0d81cf2d05]: Textual amendment: Words in reg. 17 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(20)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/20/a)
+[^c-af32c235023c41dda9069f0d81cf2d05]: Textual amendment: Words in reg. 17 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(20)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/20/a)
 
-[^key-9963dfaac8fdb9305f205b8cb4615904]: Textual amendment: Words in reg. 17(a) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(20)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/20/b)
+[^c-9963dfaac8fdb9305f205b8cb4615904]: Textual amendment: Words in reg. 17(a) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(20)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/20/b)
 
-[^key-07906a00baf11016b639c4e3cf39dd99]: Textual amendment: Words in reg. 17(b)(i) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(20)(c)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/20/c)
+[^c-07906a00baf11016b639c4e3cf39dd99]: Textual amendment: Words in reg. 17(b)(i) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(20)(c)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/20/c)
 
-[^key-434851e2a71cb112d90b2c5e808fd6c8]: Textual amendment: Words in reg. 17(b)(ii) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(20)(d)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/20/d)
+[^c-434851e2a71cb112d90b2c5e808fd6c8]: Textual amendment: Words in reg. 17(b)(ii) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(20)(d)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/20/d)
 
 [^c22711511]: Marginal citation: Paragraph (3A) was inserted by S.R. [2015 No.87](https://www.legislation.gov.uk/ukcm/2015/87).
 
-[^key-e076888ae8b1a2d3dd9e6720836c189c]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2015/101/regulation/17A) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(21)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/21)
+[^c-e076888ae8b1a2d3dd9e6720836c189c]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2015/101/regulation/17A) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(21)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/21)
 
-[^key-ebdd695e506a946bea8adadb42bd4bea]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/nisr/2015/101/regulation/18) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(22)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/22)
+[^c-ebdd695e506a946bea8adadb42bd4bea]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/nisr/2015/101/regulation/18) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(22)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/22)
 
-[^key-2ea0fa800811730ab07817801db0bd0e]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/nisr/2015/101/regulation/19) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(23)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/23)
+[^c-2ea0fa800811730ab07817801db0bd0e]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/nisr/2015/101/regulation/19) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(23)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/23)
 
 [^c22711521]: Marginal citation: Regulation 2(4) as modified by regulation 6(c) of these Regulations.
 
-[^key-036ff759b4ccd079ebb026b165bdac44]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/nisr/2015/101/regulation/20) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(24)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/24)
+[^c-036ff759b4ccd079ebb026b165bdac44]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/nisr/2015/101/regulation/20) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(24)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/24)
 
-[^key-4ae7208d71690cae6e42434848ab1b71]: Textual amendment: Words in reg. 21 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(25)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/25/a)
+[^c-4ae7208d71690cae6e42434848ab1b71]: Textual amendment: Words in reg. 21 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(25)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/25/a)
 
 [^c22711531]: Marginal citation: Regulation 2(4) as modified by regulation 6 of these Regulations.
 
-[^key-0542f62c4894597a4f6d86b7afe78637]: Textual amendment: Words in reg. 21(c) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(25)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/25/b)
+[^c-0542f62c4894597a4f6d86b7afe78637]: Textual amendment: Words in reg. 21(c) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(25)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/25/b)
 
 [^c22711541]: Marginal citation: “Parental order” is defined in Article 107G(6A) of the [Employment Rights (Northern Ireland) Order 1996 (S.I. 1996/1919 (N.I. 16))](https://www.legislation.gov.uk/nisi/1996/1919), as modified by S.R. [2015 No.100](https://www.legislation.gov.uk/ukcm/2015/100).
 
 [^c22711551]: Marginal citation: “Intended parent” is defined in section 107G(6A) of [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919), as modified by S.R. [2015 No.100](https://www.legislation.gov.uk/ukcm/2015/100).
 
-[^key-0c4c4d08f53939340461ba4b943cdd13]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/nisr/2015/101/regulation/22) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(26)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/26)
+[^c-0c4c4d08f53939340461ba4b943cdd13]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/nisr/2015/101/regulation/22) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(26)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/26)
 
-[^key-884ce52973fd0d3ca35949eca9d22bae]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/nisr/2015/101/regulation/23) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(27)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/27)
+[^c-884ce52973fd0d3ca35949eca9d22bae]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/nisr/2015/101/regulation/23) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(27)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/27)
 
-[^key-708543fc38e1cf2b4d8634d36be20184]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/nisr/2015/101/regulation/24) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(28)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/28)
+[^c-708543fc38e1cf2b4d8634d36be20184]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/nisr/2015/101/regulation/24) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(28)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/28)
 
-[^key-fc176850d5b8b15f6e177a1c834e267b]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/nisr/2015/101/regulation/25) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(29)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/29)
+[^c-fc176850d5b8b15f6e177a1c834e267b]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/nisr/2015/101/regulation/25) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(29)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/29)
 
-[^key-21973aa4b5bb01c358a58fc7bb1b3a95]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/nisr/2015/101/regulation/26) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(30)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/30)
+[^c-21973aa4b5bb01c358a58fc7bb1b3a95]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/nisr/2015/101/regulation/26) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(30)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/30)
 
-[^key-f0cb255a15ed657b59d9b24810966503]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/nisr/2015/101/regulation/27) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(31)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/31)
+[^c-f0cb255a15ed657b59d9b24810966503]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/nisr/2015/101/regulation/27) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(31)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/31)
 
-[^key-c550a487227ad3c159a9786c5e89e635]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/nisr/2015/101/regulation/28) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(32)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/32)
+[^c-c550a487227ad3c159a9786c5e89e635]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/nisr/2015/101/regulation/28) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(32)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/32)
 
-[^key-4d4d373b0afaebe536c54ea4a8400a59]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/nisr/2015/101/regulation/29) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(33)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/33)
+[^c-4d4d373b0afaebe536c54ea4a8400a59]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/nisr/2015/101/regulation/29) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(33)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/33)
 
-[^key-90e291fd3330d52e7a3179843d923cad]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/nisr/2015/101/regulation/30) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(34)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/34)
+[^c-90e291fd3330d52e7a3179843d923cad]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/nisr/2015/101/regulation/30) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(34)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/34)
 
-[^key-d5af1b5b206a63f30eb0533d3e8feb86]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/nisr/2015/101/regulation/31) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(35)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/35)
+[^c-d5af1b5b206a63f30eb0533d3e8feb86]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/nisr/2015/101/regulation/31) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(35)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/35)
 
-[^key-05226c74b11e9cc2f2f0b0da678700ec]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/nisr/2015/101/regulation/32) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(36)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/36)
+[^c-05226c74b11e9cc2f2f0b0da678700ec]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/nisr/2015/101/regulation/32) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(36)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/36)
 
-[^key-9c6f0f9e582d0bd198ad2dbba919735c]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/nisr/2015/101/regulation/33) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(37)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/37)
+[^c-9c6f0f9e582d0bd198ad2dbba919735c]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/nisr/2015/101/regulation/33) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 13(37)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/13/37)

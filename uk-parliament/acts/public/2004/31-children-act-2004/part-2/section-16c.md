@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16C. Events to be notified to the Panel[^key-ddd81e2dafda50c185f909def672ede9]
+## 16C. Events to be notified to the Panel[^c-ddd81e2dafda50c185f909def672ede9]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddd81e2dafda50c185f909def672ede9]: Textual amendment: S. 16C inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 14](https://www.legislation.gov.uk/ukpga/2017/16/section/14), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/c)
+[^c-ddd81e2dafda50c185f909def672ede9]: Textual amendment: S. 16C inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 14](https://www.legislation.gov.uk/ukpga/2017/16/section/14), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/c)

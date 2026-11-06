@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Meaning of “public authority”[^key-c03972e865df406927026d60d34a5263]
+## 78. Meaning of “public authority”[^c-c03972e865df406927026d60d34a5263]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) In subsection (3) “**Scotland**” and “**reserved matter**” have the same meanings as in the Scotland Act 1998.
 
-(5) A person who exercises functions in relation to Wales is a public authority for the purposes of this Part in relation to those functions only if and to the extent that those functions are functions that could not be conferred by provision falling within[^key-b7e47e5afe1db92e5571673e1e495f4c] the legislative competence of the National Assembly for Wales.
+(5) A person who exercises functions in relation to Wales is a public authority for the purposes of this Part in relation to those functions only if and to the extent that those functions are functions that could not be conferred by provision falling within[^c-b7e47e5afe1db92e5571673e1e495f4c] the legislative competence of the National Assembly for Wales.
 
 (6) A person who exercises functions in relation to Northern Ireland is a public authority for the purposes of this Part in relation to those functions only if and to the extent that those functions relate to an excepted matter.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c03972e865df406927026d60d34a5263]: Commencement: S. 78 in force at 21.11.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1037/regulation/3)
+[^c-c03972e865df406927026d60d34a5263]: Commencement: S. 78 in force at 21.11.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1037/regulation/3)
 
-[^key-b7e47e5afe1db92e5571673e1e495f4c]: Textual amendment: Words in [s. 78(5)](https://www.legislation.gov.uk/ukpga/2016/19/section/78/5) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 113](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/113) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-b7e47e5afe1db92e5571673e1e495f4c]: Textual amendment: Words in [s. 78(5)](https://www.legislation.gov.uk/ukpga/2016/19/section/78/5) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 113](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/113) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

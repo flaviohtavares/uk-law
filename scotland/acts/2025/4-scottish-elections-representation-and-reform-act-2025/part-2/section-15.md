@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Scottish Parliament: disqualification from membership[^key-2a785e5837b44f98522070c41dd57a83][^key-770588492b1d8233ff54a3eca0869d6e]
+## 15. Scottish Parliament: disqualification from membership[^c-2a785e5837b44f98522070c41dd57a83][^c-770588492b1d8233ff54a3eca0869d6e]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2a785e5837b44f98522070c41dd57a83]: Commencement: S. 15 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-2a785e5837b44f98522070c41dd57a83]: Commencement: S. 15 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-770588492b1d8233ff54a3eca0869d6e]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2025/4/section/15) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-770588492b1d8233ff54a3eca0869d6e]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2025/4/section/15) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

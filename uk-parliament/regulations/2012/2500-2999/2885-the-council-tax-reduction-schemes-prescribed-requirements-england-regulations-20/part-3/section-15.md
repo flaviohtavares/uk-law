@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Provision for all applicants[^key-eb738c3d662b3e8670ead88e24e5ebc1]
+## 15. Provision for all applicants[^c-eb738c3d662b3e8670ead88e24e5ebc1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb738c3d662b3e8670ead88e24e5ebc1]: Commencement: Reg. 15 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-eb738c3d662b3e8670ead88e24e5ebc1]: Commencement: Reg. 15 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)

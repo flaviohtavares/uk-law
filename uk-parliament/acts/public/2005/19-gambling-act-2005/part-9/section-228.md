@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Consideration by licensing authority: timing[^key-e89b1d1a541d124adf2b6fea7377297c]
+## 228. Consideration by licensing authority: timing[^c-e89b1d1a541d124adf2b6fea7377297c]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e89b1d1a541d124adf2b6fea7377297c]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2005/19/section/228) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-e89b1d1a541d124adf2b6fea7377297c]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2005/19/section/228) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 27.3. Amendment of appeal notice[^key-3284350695bc7e88527b66371b24b50c]
+## 27.3. Amendment of appeal notice[^c-3284350695bc7e88527b66371b24b50c]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3284350695bc7e88527b66371b24b50c]: Commencement: [Rule 27.3](https://www.legislation.gov.uk/uksi/2015/1568/article/27.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-3284350695bc7e88527b66371b24b50c]: Commencement: [Rule 27.3](https://www.legislation.gov.uk/uksi/2015/1568/article/27.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

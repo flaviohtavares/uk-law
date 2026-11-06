@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.75. Contents of proof[^key-83a3bb2ed35b49f7672d9cf44229965d]
+## 4.75. Contents of proof[^c-83a3bb2ed35b49f7672d9cf44229965d]
 
 *Extent: E+W*
 
 (NO CVL APPLICATION)
 
-(1)[^key-117095b9363b526b4d6bd2050f26a36e] Subject to Rule 4.73(5), the following matters shall be stated in a creditor’s proof of debt—
+(1)[^c-117095b9363b526b4d6bd2050f26a36e] Subject to Rule 4.73(5), the following matters shall be stated in a creditor’s proof of debt—
 
 - (a) the creditor’s name and address, and, if a company, its company registration number;
 - (b) the total amount of his claim (including any Value Added Tax) as at the date on which the company went into liquidation;
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83a3bb2ed35b49f7672d9cf44229965d]: Commencement: Rule 4.75 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-83a3bb2ed35b49f7672d9cf44229965d]: Commencement: Rule 4.75 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-117095b9363b526b4d6bd2050f26a36e]: Textual amendment: Rule 4.75(1) substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [10](https://www.legislation.gov.uk/uksi/2004/584/article/10)
+[^c-117095b9363b526b4d6bd2050f26a36e]: Textual amendment: Rule 4.75(1) substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [10](https://www.legislation.gov.uk/uksi/2004/584/article/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Power to modify Chapter 1 of Part 1[^key-2b750ae80fd548f7edf8ad102ae3bf15]
+## 35. Power to modify Chapter 1 of Part 1[^c-2b750ae80fd548f7edf8ad102ae3bf15]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b750ae80fd548f7edf8ad102ae3bf15]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2004/20/section/35) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-2b750ae80fd548f7edf8ad102ae3bf15]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2004/20/section/35) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

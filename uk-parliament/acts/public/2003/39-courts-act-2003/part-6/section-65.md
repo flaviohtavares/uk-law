@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-cf83a9b28c93c0fd378efe944c2bd9af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-cf83a9b28c93c0fd378efe944c2bd9af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Schedule 4 contains amendments conferring functions on District Judges (Magistrates' Courts).
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf83a9b28c93c0fd378efe944c2bd9af]: Textual amendment: S. 65(1) repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)
+[^c-cf83a9b28c93c0fd378efe944c2bd9af]: Textual amendment: S. 65(1) repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)

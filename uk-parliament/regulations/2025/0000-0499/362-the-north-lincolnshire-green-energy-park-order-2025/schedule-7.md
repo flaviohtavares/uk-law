@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — CLEARWAYS[^key-e12ca232e370dc4b17e6c9e141e996fb]
+## SCHEDULE 7 — CLEARWAYS[^c-e12ca232e370dc4b17e6c9e141e996fb]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ Article 18
 
 ## Annotations
 
-[^key-e12ca232e370dc4b17e6c9e141e996fb]: Commencement: Sch. 7 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-e12ca232e370dc4b17e6c9e141e996fb]: Commencement: Sch. 7 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Use of name suggesting connection with foreign governments etc[^key-733df893a5975abd0119d159d52aa75e][^key-da2cbd84a57929295374bcb073ae2655]
+## 23. Use of name suggesting connection with foreign governments etc[^c-733df893a5975abd0119d159d52aa75e][^c-da2cbd84a57929295374bcb073ae2655]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ In the Companies Act 2006, after section 1196 insert—
 
 ## Annotations
 
-[^key-733df893a5975abd0119d159d52aa75e]: Commencement: S. 23 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-733df893a5975abd0119d159d52aa75e]: Commencement: S. 23 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-da2cbd84a57929295374bcb073ae2655]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2023/56/section/23) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/r)
+[^c-da2cbd84a57929295374bcb073ae2655]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2023/56/section/23) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/r)

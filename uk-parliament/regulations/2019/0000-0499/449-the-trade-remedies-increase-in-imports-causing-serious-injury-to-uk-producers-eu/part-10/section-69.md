@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69.[^key-8a1b60f9a75b9f9278535b64b97ea72b]
+## 69.[^c-8a1b60f9a75b9f9278535b64b97ea72b]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ Regulation 38 (acceptance or rejection of the TRA's recommendation by the Secret
 
 ## Annotations
 
-[^key-8a1b60f9a75b9f9278535b64b97ea72b]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2019/449/regulation/69) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-8a1b60f9a75b9f9278535b64b97ea72b]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2019/449/regulation/69) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

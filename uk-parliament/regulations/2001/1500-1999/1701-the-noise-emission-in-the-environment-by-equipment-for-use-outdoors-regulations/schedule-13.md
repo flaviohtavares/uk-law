@@ -24,7 +24,7 @@ Regulation 17
 
 ### 1. Enforcement authorities
 
-(1)[^key-e2879d2cd95d544fc590eb79d8251328] The Secretary of State must enforce these Regulations and in carrying out this duty may appoint any person to act on behalf of the Secretary of State, and “enforcement authority” is to be construed accordingly.
+(1)[^c-e2879d2cd95d544fc590eb79d8251328] The Secretary of State must enforce these Regulations and in carrying out this duty may appoint any person to act on behalf of the Secretary of State, and “enforcement authority” is to be construed accordingly.
 
 (2) Nothing in these Regulations shall authorise any enforcement authority to bring proceedings in Scotland for an offence.
 
@@ -162,7 +162,7 @@ are pending at the end of the period specified in the first-mentioned notice.
 
 have not been brought or, having been brought, have been concluded.
 
-(5) Any person aggrieved by an order made under this paragraph[^key-978fa2f6bc5f4af7a8d82be319e8a5f8] by a magistrates’ court in England and Wales or Northern Ireland, or by a decision of such a court not to make such an order, may appeal against that order or decision—
+(5) Any person aggrieved by an order made under this paragraph[^c-978fa2f6bc5f4af7a8d82be319e8a5f8] by a magistrates’ court in England and Wales or Northern Ireland, or by a decision of such a court not to make such an order, may appeal against that order or decision—
 
 - (a) in England or Wales, to the Crown Court;
 - (b) in Northern Ireland, to the county court;
@@ -175,7 +175,7 @@ and an order so made may contain such provision as appears to the court appropri
 
 An officer of an enforcement authority may, for the purposes of exercising his functions under this Schedule, require—
 
-- (a) any person who is required by regulation 7(4) to retain a[^key-892d061d00fca50ed5c89126babbb9d8] declaration of conformity during the period in which that person is required to retain that document, to produce such document;
+- (a) any person who is required by regulation 7(4) to retain a[^c-892d061d00fca50ed5c89126babbb9d8] declaration of conformity during the period in which that person is required to retain that document, to produce such document;
 - (b) any person who is in possession of a declaration of conformity, or of a copy of such document, at any time to produce it;
 - (c) any person, to produce such technical documentation relating to such equipment as are in his possession or under his control; or
 - (d) any person, to give him such information as he may reasonably require,
@@ -333,17 +333,17 @@ Nothing in this Schedule shall be construed as preventing the taking of any acti
 
 ## Annotations
 
-[^key-e2879d2cd95d544fc590eb79d8251328]: Textual amendment: [Sch. 13 para. 1(1)](https://www.legislation.gov.uk/uksi/2001/1701/schedule/13/paragraph/1/1) substituted (1.4.2015) by [The Noise Emission in the Environment by Equipment for use Outdoors (Amendment) Regulations 2015 (S.I. 2015/98)](https://www.legislation.gov.uk/uksi/2015/98), [regs. 1](https://www.legislation.gov.uk/uksi/2015/98/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/98/regulation/2/3)
+[^c-e2879d2cd95d544fc590eb79d8251328]: Textual amendment: [Sch. 13 para. 1(1)](https://www.legislation.gov.uk/uksi/2001/1701/schedule/13/paragraph/1/1) substituted (1.4.2015) by [The Noise Emission in the Environment by Equipment for use Outdoors (Amendment) Regulations 2015 (S.I. 2015/98)](https://www.legislation.gov.uk/uksi/2015/98), [regs. 1](https://www.legislation.gov.uk/uksi/2015/98/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/98/regulation/2/3)
 
 [^c16922141]: Textual amendment: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
 [^c16922151]: Textual amendment: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-978fa2f6bc5f4af7a8d82be319e8a5f8]: Textual amendment: Word in [Sch. 13 para. 7(5)](https://www.legislation.gov.uk/uksi/2001/1701/schedule/13/paragraph/7/5) substituted (3.1.2002) by [The Noise Emission in the Environment by Equipment for use Outdoors (Amendment) Regulations 2001 (S.I. 2001/3958)](https://www.legislation.gov.uk/uksi/2001/3958), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3958/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2001/3958/regulation/2/4)
+[^c-978fa2f6bc5f4af7a8d82be319e8a5f8]: Textual amendment: Word in [Sch. 13 para. 7(5)](https://www.legislation.gov.uk/uksi/2001/1701/schedule/13/paragraph/7/5) substituted (3.1.2002) by [The Noise Emission in the Environment by Equipment for use Outdoors (Amendment) Regulations 2001 (S.I. 2001/3958)](https://www.legislation.gov.uk/uksi/2001/3958), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3958/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2001/3958/regulation/2/4)
 
 [^M_E_f9794e8f-246c-4fd8-8a72-245ac0ddea42]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-892d061d00fca50ed5c89126babbb9d8]: Textual amendment: Word in [Sch. 13 para. 8](https://www.legislation.gov.uk/uksi/2001/1701/schedule/13/paragraph/8) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 8 para. 27](https://www.legislation.gov.uk/uksi/2019/696/schedule/8/paragraph/27) (with [Sch. 8 para. 14](https://www.legislation.gov.uk/uksi/2019/696/schedule/8/paragraph/14)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-892d061d00fca50ed5c89126babbb9d8]: Textual amendment: Word in [Sch. 13 para. 8](https://www.legislation.gov.uk/uksi/2001/1701/schedule/13/paragraph/8) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 8 para. 27](https://www.legislation.gov.uk/uksi/2019/696/schedule/8/paragraph/27) (with [Sch. 8 para. 14](https://www.legislation.gov.uk/uksi/2019/696/schedule/8/paragraph/14)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_576835b4-2fe3-4cbe-b9e0-0e86f29f0170]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 

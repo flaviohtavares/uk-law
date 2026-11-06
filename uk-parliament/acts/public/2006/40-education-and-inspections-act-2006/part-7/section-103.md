@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Duty of parent in relation to excluded pupil[^key-6f0304a74c697c9c4e10ae468444181a]
+## 103. Duty of parent in relation to excluded pupil[^c-6f0304a74c697c9c4e10ae468444181a]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 (5) A person guilty of an offence under subsection (3) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-(6) Proceedings for an offence under subsection (3) may not be instituted except by a local authority[^key-0ea7acc4831332590d0c9da4689eca3c].
+(6) Proceedings for an offence under subsection (3) may not be instituted except by a local authority[^c-0ea7acc4831332590d0c9da4689eca3c].
 
 (7) Where the excluded pupil is excluded during the course of a school day but before the beginning of any afternoon session on that day, that day is to be treated for the purposes of subsection (2)(a) as the first day to which the exclusion relates.
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f0304a74c697c9c4e10ae468444181a]: Commencement: S. 103 in force at 1.9.2007 by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(h)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/h)
+[^c-6f0304a74c697c9c4e10ae468444181a]: Commencement: S. 103 in force at 1.9.2007 by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(h)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/h)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

@@ -29,14 +29,14 @@ summary: ''
 - (a) to C, unless it would not be appropriate to do so having regard to C's age and understanding,
 - (b) to P,
 - (c) to the IRO,
-- (d) where C is to be placed, or is placed, with F, to the fostering service provider that approved F in accordance with the Fostering Services Regulations[^key-07b616bee5f7c49fcacfabb30f372235],
-- (e) where C is to be placed, or is placed, in a children's home, to the person who is registered under Part 2 of the Care Standards Act 2000 or, who is registered as the service provider under Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016[^key-a33fd04d07e33486a5aafc2e51496d84] in respect of that home, and
+- (d) where C is to be placed, or is placed, with F, to the fostering service provider that approved F in accordance with the Fostering Services Regulations[^c-07b616bee5f7c49fcacfabb30f372235],
+- (e) where C is to be placed, or is placed, in a children's home, to the person who is registered under Part 2 of the Care Standards Act 2000 or, who is registered as the service provider under Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016[^c-a33fd04d07e33486a5aafc2e51496d84] in respect of that home, and
 - (f) where C is to be placed, or is placed, in accordance with other arrangements under section 22C(6)(d), to the person who will be responsible for C at the accommodation.
 
 (4) The responsible authority may decide not to give a copy of the care plan, or a full copy of the care plan, to P if to do so would put C at risk of significant harm.
 
 ## Annotations
 
-[^key-07b616bee5f7c49fcacfabb30f372235]: Textual amendment: Words in reg. 6(3)(d) substituted (1.4.2011) by [The Fostering Services (England) Regulations 2011 (S.I. 2011/581)](https://www.legislation.gov.uk/uksi/2011/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/581/regulation/1/1), [43(3)(ii)](https://www.legislation.gov.uk/uksi/2011/581/regulation/43/3/ii) (with [reg. 45](https://www.legislation.gov.uk/uksi/2011/581/regulation/45))
+[^c-07b616bee5f7c49fcacfabb30f372235]: Textual amendment: Words in reg. 6(3)(d) substituted (1.4.2011) by [The Fostering Services (England) Regulations 2011 (S.I. 2011/581)](https://www.legislation.gov.uk/uksi/2011/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/581/regulation/1/1), [43(3)(ii)](https://www.legislation.gov.uk/uksi/2011/581/regulation/43/3/ii) (with [reg. 45](https://www.legislation.gov.uk/uksi/2011/581/regulation/45))
 
-[^key-a33fd04d07e33486a5aafc2e51496d84]: Textual amendment: Words in reg. 6(3)(e) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 21(3)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/21/3)
+[^c-a33fd04d07e33486a5aafc2e51496d84]: Textual amendment: Words in reg. 6(3)(e) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 21(3)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/21/3)

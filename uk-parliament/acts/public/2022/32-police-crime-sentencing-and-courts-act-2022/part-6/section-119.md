@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Consequential amendments relating to Part 6[^key-b2a8b7ed071f5c76d7ccc4031522e272]
+## 119. Consequential amendments relating to Part 6[^c-b2a8b7ed071f5c76d7ccc4031522e272]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 11 contains consequential amendments.
 
 ## Annotations
 
-[^key-b2a8b7ed071f5c76d7ccc4031522e272]: Commencement: S. 119 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-b2a8b7ed071f5c76d7ccc4031522e272]: Commencement: S. 119 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

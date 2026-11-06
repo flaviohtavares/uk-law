@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 121. Inward transfers of pension rights[^key-91ed36c025f91f13438bb8b4a7e3939c]
+## 121. Inward transfers of pension rights[^c-91ed36c025f91f13438bb8b4a7e3939c]
 
 *Extent: E+W+S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-91ed36c025f91f13438bb8b4a7e3939c]: Commencement: Reg. 121 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-91ed36c025f91f13438bb8b4a7e3939c]: Commencement: Reg. 121 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00049]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

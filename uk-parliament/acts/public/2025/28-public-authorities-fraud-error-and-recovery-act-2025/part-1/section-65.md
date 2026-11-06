@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. Independent review[^key-6118b5fcb59a9739a8d5a6d0f8766194][^key-3fccb84cc70f1063e4788645ab56a56b]
+## 65. Independent review[^c-6118b5fcb59a9739a8d5a6d0f8766194][^c-3fccb84cc70f1063e4788645ab56a56b]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6118b5fcb59a9739a8d5a6d0f8766194]: Commencement: S. 65 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-6118b5fcb59a9739a8d5a6d0f8766194]: Commencement: S. 65 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-3fccb84cc70f1063e4788645ab56a56b]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2025/28/section/65) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-3fccb84cc70f1063e4788645ab56a56b]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2025/28/section/65) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

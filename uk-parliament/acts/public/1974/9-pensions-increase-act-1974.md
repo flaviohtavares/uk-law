@@ -31,7 +31,7 @@ Pensions (Increase) Act 1974
 
 An Act to provide for increases of certain official pensions and to amend the Pensions (Increase) Act 1971; and for purposes connected therewith.
 
-\[8th February 1974\][^c707161][^c707162][^key-ae6d4cbaf15b2bfcd66f089b854fad35][^key-0c4ab0643fd26a301697e277ef7923cb][^key-b5006b54c41673c9d27d4f679fe6a6aa][^key-91bd8a8d64cb09693144789e5a06712b][^key-490d38f50ddf568ebee594f65c1e3a8e]
+\[8th February 1974\][^c707161][^c707162][^c-ae6d4cbaf15b2bfcd66f089b854fad35][^c-0c4ab0643fd26a301697e277ef7923cb][^c-b5006b54c41673c9d27d4f679fe6a6aa][^c-91bd8a8d64cb09693144789e5a06712b][^c-490d38f50ddf568ebee594f65c1e3a8e]
 
 ## 1. Increases of certain official pensions.
 
@@ -191,15 +191,15 @@ and for the purposes of sub-paragraph (b) of this paragraph any fraction of a mo
 
     Act modified (1.4.1998) by [S.I. 1997/1612](https://www.legislation.gov.uk/uksi/1997/1612), [reg. 91(1)](https://www.legislation.gov.uk/uksi/1997/1612/regulation/91/1)
 
-[^key-ae6d4cbaf15b2bfcd66f089b854fad35]: Modification: Act applied (with modifications) (S.) (6.4.2006) by [Police (Injury Benefit) (Scotland) Regulations 2006 (S.S.I. 2006/610)](https://www.legislation.gov.uk/ssi/2006/610), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/610/regulation/1/1), [29](https://www.legislation.gov.uk/ssi/2006/610/regulation/29)
+[^c-ae6d4cbaf15b2bfcd66f089b854fad35]: Modification: Act applied (with modifications) (S.) (6.4.2006) by [Police (Injury Benefit) (Scotland) Regulations 2006 (S.S.I. 2006/610)](https://www.legislation.gov.uk/ssi/2006/610), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/610/regulation/1/1), [29](https://www.legislation.gov.uk/ssi/2006/610/regulation/29)
 
-[^key-0c4ab0643fd26a301697e277ef7923cb]: Modification: Act modified (E.W.) (20.4.2006) by [Police (Injury Benefit) Regulations 2006 (S.I. 2006/932)](https://www.legislation.gov.uk/uksi/2006/932), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/932/regulation/1/1), [29(2)](https://www.legislation.gov.uk/uksi/2006/932/regulation/29/2)
+[^c-0c4ab0643fd26a301697e277ef7923cb]: Modification: Act modified (E.W.) (20.4.2006) by [Police (Injury Benefit) Regulations 2006 (S.I. 2006/932)](https://www.legislation.gov.uk/uksi/2006/932), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/932/regulation/1/1), [29(2)](https://www.legislation.gov.uk/uksi/2006/932/regulation/29/2)
 
-[^key-b5006b54c41673c9d27d4f679fe6a6aa]: Modification: Act applied (with modifications) (E.W.) (1.2.2007) by [The Police Pensions Regulations 2006 (S.I. 2006/3415)](https://www.legislation.gov.uk/uksi/2006/3415), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3415/regulation/1/2), [50](https://www.legislation.gov.uk/uksi/2006/3415/regulation/50)
+[^c-b5006b54c41673c9d27d4f679fe6a6aa]: Modification: Act applied (with modifications) (E.W.) (1.2.2007) by [The Police Pensions Regulations 2006 (S.I. 2006/3415)](https://www.legislation.gov.uk/uksi/2006/3415), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3415/regulation/1/2), [50](https://www.legislation.gov.uk/uksi/2006/3415/regulation/50)
 
-[^key-91bd8a8d64cb09693144789e5a06712b]: Modification: Act applied (with modifications) (N.I.) (31.12.2007) by [The Police Pension (Northern Ireland) Regulations 2007 (S.R. 2007/476)](https://www.legislation.gov.uk/nisr/2007/476), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/476/regulation/1/2), [47](https://www.legislation.gov.uk/nisr/2007/476/regulation/47)
+[^c-91bd8a8d64cb09693144789e5a06712b]: Modification: Act applied (with modifications) (N.I.) (31.12.2007) by [The Police Pension (Northern Ireland) Regulations 2007 (S.R. 2007/476)](https://www.legislation.gov.uk/nisr/2007/476), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/476/regulation/1/2), [47](https://www.legislation.gov.uk/nisr/2007/476/regulation/47)
 
-[^key-490d38f50ddf568ebee594f65c1e3a8e]: Modification: Act applied (with modifications) (N.I.) (6.4.2009) by [The Police Pension (Northern Ireland) Regulations 2009 (S.R. 2009/79)](https://www.legislation.gov.uk/nisr/2009/79), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2), [47](https://www.legislation.gov.uk/nisr/2009/79/regulation/47) (with [reg. 4](https://www.legislation.gov.uk/nisr/2009/79/regulation/4))
+[^c-490d38f50ddf568ebee594f65c1e3a8e]: Modification: Act applied (with modifications) (N.I.) (6.4.2009) by [The Police Pension (Northern Ireland) Regulations 2009 (S.R. 2009/79)](https://www.legislation.gov.uk/nisr/2009/79), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2), [47](https://www.legislation.gov.uk/nisr/2009/79/regulation/47) (with [reg. 4](https://www.legislation.gov.uk/nisr/2009/79/regulation/4))
 
 [^c707163]: Marginal citation: [1972 c. 74](https://www.legislation.gov.uk/ukpga/1972/74).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Appeals against appealable fitness to practise decisions[^key-1709d194139f426e77b40fec98d7748c][^key-3b8f5291cc2650e45bb3af70238ae698]
+## 58. Appeals against appealable fitness to practise decisions[^c-1709d194139f426e77b40fec98d7748c][^c-3b8f5291cc2650e45bb3af70238ae698]
 
 *Extent: E+W+S*
 
@@ -47,6 +47,6 @@ and may make such order as to costs or, in Scotland, expenses as the relevant co
 
 ## Annotations
 
-[^key-1709d194139f426e77b40fec98d7748c]: Commencement: Art. 58 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-1709d194139f426e77b40fec98d7748c]: Commencement: Art. 58 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-3b8f5291cc2650e45bb3af70238ae698]: Commencement: [Art. 58](https://www.legislation.gov.uk/uksi/2010/231/article/58) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-3b8f5291cc2650e45bb3af70238ae698]: Commencement: [Art. 58](https://www.legislation.gov.uk/uksi/2010/231/article/58) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

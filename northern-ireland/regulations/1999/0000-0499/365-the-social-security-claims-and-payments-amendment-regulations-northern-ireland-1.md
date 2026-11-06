@@ -38,15 +38,15 @@ Coming into operation
 
 20th September 1999
 
-The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 5(1)(j) and (l) and 165(1) and (3) to (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^key-2b2473c930fb61357a1f53f93ba6b65f]
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 5(1)(j) and (l) and 165(1) and (3) to (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^c-2b2473c930fb61357a1f53f93ba6b65f]
 
-## 1. Citation, commencement and interpretation[^key-aa98fe908ac735a4481dac2a9a1c4abe]
+## 1. Citation, commencement and interpretation[^c-aa98fe908ac735a4481dac2a9a1c4abe]
 
 (1) These Regulations may be cited as the Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1999 and shall come into operation on 20th September 1999.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-f1710d231a48af196172091041a33d8c]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-f1710d231a48af196172091041a33d8c]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00003] shall be amended in accordance with paragraphs (2) to (7).
 
@@ -78,7 +78,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (7) In Schedule 6 (days for payment of long term benefits) paragraph 2 shall be omitted.
 
-## 3. Revocation[^key-5ce63e1565c29b03804324e499933806]
+## 3. Revocation[^c-5ce63e1565c29b03804324e499933806]
 
 Regulation 17 of the Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1992[^f00009] is hereby revoked.
 
@@ -102,13 +102,13 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 165(1) was amended by paragraph 49(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671))
 
-[^key-2b2473c930fb61357a1f53f93ba6b65f]: Modification: [Rules](https://www.legislation.gov.uk/nisr/1999/365) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-2b2473c930fb61357a1f53f93ba6b65f]: Modification: [Rules](https://www.legislation.gov.uk/nisr/1999/365) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
-[^key-aa98fe908ac735a4481dac2a9a1c4abe]: Commencement: Reg. 1 in operation at 20.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/365/regulation/1/1)
+[^c-aa98fe908ac735a4481dac2a9a1c4abe]: Commencement: Reg. 1 in operation at 20.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/365/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-f1710d231a48af196172091041a33d8c]: Commencement: Reg. 2 in operation at 20.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/365/regulation/1/1)
+[^c-f1710d231a48af196172091041a33d8c]: Commencement: Reg. 2 in operation at 20.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/365/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1988 No. 141](https://www.legislation.gov.uk/nisr/1988/141), [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7) and [S.R. 1993 No. 217](https://www.legislation.gov.uk/nisr/1993/217)
 
@@ -122,6 +122,6 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00008]: Footnote: [S.R. 1975 No. 98](https://www.legislation.gov.uk/nisr/1975/98); regulation 6A was inserted by regulation 9(4) of [S.R. 1977 No. 73](https://www.legislation.gov.uk/nisr/1977/73)
 
-[^key-5ce63e1565c29b03804324e499933806]: Commencement: Reg. 3 in operation at 20.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/365/regulation/1/1)
+[^c-5ce63e1565c29b03804324e499933806]: Commencement: Reg. 3 in operation at 20.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/365/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7)

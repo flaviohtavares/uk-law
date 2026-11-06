@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Expunging of proof by the court[^key-cb6582b0a694c9634e4df5fd4c1b48b2]
+## 68. Expunging of proof by the court[^c-cb6582b0a694c9634e4df5fd4c1b48b2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.85 of the 1986 Rules.
 
 ## Annotations
 
-[^key-cb6582b0a694c9634e4df5fd4c1b48b2]: Commencement: Rule 68 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-cb6582b0a694c9634e4df5fd4c1b48b2]: Commencement: Rule 68 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

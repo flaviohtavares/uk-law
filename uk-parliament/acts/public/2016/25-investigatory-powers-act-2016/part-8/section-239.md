@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Power to modify functions[^key-f58e440e553c22b743dc83a46b6571f8]
+## 239. Power to modify functions[^c-f58e440e553c22b743dc83a46b6571f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f58e440e553c22b743dc83a46b6571f8]: Commencement: [S. 239](https://www.legislation.gov.uk/ukpga/2016/25/section/239) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/m)
+[^c-f58e440e553c22b743dc83a46b6571f8]: Commencement: [S. 239](https://www.legislation.gov.uk/ukpga/2016/25/section/239) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/m)

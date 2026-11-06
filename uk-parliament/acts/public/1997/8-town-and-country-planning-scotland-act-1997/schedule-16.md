@@ -51,12 +51,12 @@ Section 209.
 
 #### Procedure in anticipation of planning permission, etc.
 
-**2.** (1) Where the Secretary of State would, if planning permission for any development had been granted under Part III or section 242A[^key-79aa57c91e09f3226f80f6a36695c654], have power to make an order under section 202 authorising the stopping-up or diversion of a road in order to enable that development to be carried out, then, notwithstanding that such permission has not been granted, the Secretary of State may, in the circumstances specified in sub-paragraphs (2) to (4), publish notice of the draft of such an order in accordance with paragraph 1.
+**2.** (1) Where the Secretary of State would, if planning permission for any development had been granted under Part III or section 242A[^c-79aa57c91e09f3226f80f6a36695c654], have power to make an order under section 202 authorising the stopping-up or diversion of a road in order to enable that development to be carried out, then, notwithstanding that such permission has not been granted, the Secretary of State may, in the circumstances specified in sub-paragraphs (2) to (4), publish notice of the draft of such an order in accordance with paragraph 1.
 
 (2) The Secretary of State may publish such a notice where the relevant development is the subject of an application for planning permission and either—
 
 - (a) that application is made by a local authority or statutory undertakers,
-- (aa)[^key-a05c48ef51618096a098047f952bf983] that application is made under section 242A;
+- (aa)[^c-a05c48ef51618096a098047f952bf983] that application is made under section 242A;
 - (b) that application stands referred to the Secretary of State in pursuance of a direction under section 46, or
 - (c) the applicant has appealed to the Secretary of State under section 47 against a refusal of planning permission or of approval required under a development order, or against a condition of any such permission or approval.
 
@@ -71,7 +71,7 @@ Section 209.
 
 #### Further procedure in anticipation of planning permission, etc.
 
-**3.** (1) Where a planning authority would, if planning permission for any development had been granted under Part III or section 242A[^key-35c36a1873dc460f4fe3a5564c8c0eba], have power to make an order under section 207 authorising the stopping-up or diversion of a road in order to enable that development to be carried out, then, notwithstanding that such permission has not been granted, the authority may, in the circumstances specified in sub-paragraphs (3) to (5), publish notice of the draft of such an order in accordance with the following provisions of this Schedule.
+**3.** (1) Where a planning authority would, if planning permission for any development had been granted under Part III or section 242A[^c-35c36a1873dc460f4fe3a5564c8c0eba], have power to make an order under section 207 authorising the stopping-up or diversion of a road in order to enable that development to be carried out, then, notwithstanding that such permission has not been granted, the authority may, in the circumstances specified in sub-paragraphs (3) to (5), publish notice of the draft of such an order in accordance with the following provisions of this Schedule.
 
 (2) Nothing in those provisions shall be construed as authorising the authority to make the order in anticipation of such permission.
 
@@ -181,11 +181,11 @@ shall not be earlier than confirmation of the order.
 
 ## Annotations
 
-[^key-79aa57c91e09f3226f80f6a36695c654]: Textual amendment: Words in Sch. 16 para. 2(1) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(14)(a)](https://www.legislation.gov.uk/ssi/2006/243/article/4/14/a)
+[^c-79aa57c91e09f3226f80f6a36695c654]: Textual amendment: Words in Sch. 16 para. 2(1) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(14)(a)](https://www.legislation.gov.uk/ssi/2006/243/article/4/14/a)
 
-[^key-a05c48ef51618096a098047f952bf983]: Textual amendment: Sch. 16 para. 2(2)(aa) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(14)(b)](https://www.legislation.gov.uk/ssi/2006/243/article/4/14/b)
+[^c-a05c48ef51618096a098047f952bf983]: Textual amendment: Sch. 16 para. 2(2)(aa) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(14)(b)](https://www.legislation.gov.uk/ssi/2006/243/article/4/14/b)
 
-[^key-35c36a1873dc460f4fe3a5564c8c0eba]: Textual amendment: Words in Sch. 16 para. 3(1) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(14)(c)](https://www.legislation.gov.uk/ssi/2006/243/article/4/14/c)
+[^c-35c36a1873dc460f4fe3a5564c8c0eba]: Textual amendment: Words in Sch. 16 para. 3(1) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(14)(c)](https://www.legislation.gov.uk/ssi/2006/243/article/4/14/c)
 
 [^c950548]: Marginal citation: [1984 c. 58](https://www.legislation.gov.uk/ukpga/1984/58).
 

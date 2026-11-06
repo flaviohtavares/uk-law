@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Limitation on award to adult survivor living apart from the deceased officer[^key-7a67c67c786532e10d02e4d35bb2064d]
+## 14. Limitation on award to adult survivor living apart from the deceased officer[^c-7a67c67c786532e10d02e4d35bb2064d]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ and, for the purposes of this regulation, contributions to an adult survivor for
 
 ## Annotations
 
-[^key-7a67c67c786532e10d02e4d35bb2064d]: Commencement: Reg. 14 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-7a67c67c786532e10d02e4d35bb2064d]: Commencement: Reg. 14 in operation at 25.7.2006 with effect in accordance with reg. 1

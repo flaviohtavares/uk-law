@@ -46,7 +46,7 @@ Section 53(1).
 
 ### The Criminal Jurisdiction Act 1975 (c. 59)
 
-**3.**[^key-483d947fa5bc9c76af4f48a577ead159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-483d947fa5bc9c76af4f48a577ead159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** In Schedule 1 to the Criminal Jurisdiction Act 1975 (offences in Republic of Ireland triable in Northern Ireland) in Part I after paragraph 11 there is inserted—
 
@@ -90,7 +90,7 @@ Section 53(1).
 
 ### The Police and Criminal Evidence Act 1984 (c. 60)
 
-**8.**[^key-cafa489b70aa22e36001f936ef0e8241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-cafa489b70aa22e36001f936ef0e8241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Extradition Act 1989 (c. 33)
 
@@ -118,18 +118,18 @@ Section 53(1).
 
 ### The Police and Criminal Evidence (Northern Ireland) Order 1989[^c10458921]
 
-**11.**[^key-5913404e3cf26afc0d17b217538de2e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-5913404e3cf26afc0d17b217538de2e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-483d947fa5bc9c76af4f48a577ead159]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1990/31/schedule/3/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-483d947fa5bc9c76af4f48a577ead159]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1990/31/schedule/3/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
 [^c10458901]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1990/31/schedule/3/paragraph/5) repealed (N.I.)(27.8.1991) by [Northern Ireland (Emergency Provisions) Act 1991 (c. 24, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/24), [ss. 69(1)](https://www.legislation.gov.uk/ukpga/1991/24/section/69/1), [70(4)](https://www.legislation.gov.uk/ukpga/1991/24/section/70/4), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1991/24/schedule/8/part/I).
 
-[^key-cafa489b70aa22e36001f936ef0e8241]: Textual amendment: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/1990/31/schedule/3/paragraph/8) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-cafa489b70aa22e36001f936ef0e8241]: Textual amendment: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/1990/31/schedule/3/paragraph/8) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
 
 [^c10458911]: Marginal citation: [1870 c. 52](https://www.legislation.gov.uk/ukpga/1870/52).
 
 [^c10458921]: Marginal citation: ([S.I.1989/1341 (N.I.12)](https://www.legislation.gov.uk/nisi/1989/1341))
 
-[^key-5913404e3cf26afc0d17b217538de2e5]: Textual amendment: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/1990/31/schedule/3/paragraph/11) repealed (N.I.) (1.3.2007) by [The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288)](https://www.legislation.gov.uk/nisi/2007/288), [art. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisi/2007/288/schedule/2)
+[^c-5913404e3cf26afc0d17b217538de2e5]: Textual amendment: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/1990/31/schedule/3/paragraph/11) repealed (N.I.) (1.3.2007) by [The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288)](https://www.legislation.gov.uk/nisi/2007/288), [art. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisi/2007/288/schedule/2)

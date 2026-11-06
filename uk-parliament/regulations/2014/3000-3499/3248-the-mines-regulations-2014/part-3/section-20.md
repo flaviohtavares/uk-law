@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Fire protection plan[^key-d5864a84ecc995d2c1ca81d7857763ce]
+## 20. Fire protection plan[^c-d5864a84ecc995d2c1ca81d7857763ce]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5864a84ecc995d2c1ca81d7857763ce]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/3248/regulation/20) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-d5864a84ecc995d2c1ca81d7857763ce]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/3248/regulation/20) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

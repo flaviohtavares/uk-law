@@ -22,9 +22,9 @@ summary: ''
 
 Section 77.
 
-### ...[^key-9039e8897ef8dd90e93772ed9f61e886]
+### ...[^c-9039e8897ef8dd90e93772ed9f61e886]
 
-**1.**[^key-9039e8897ef8dd90e93772ed9f61e886] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9039e8897ef8dd90e93772ed9f61e886] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Merchant Shipping Act 1894 (c. 60)
 
@@ -217,7 +217,7 @@ Section 77.
 
 ### Juries Act 1974 (c. 23)
 
-**35.**[^key-e0110633ccafae961b96e5cbb819f619] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-e0110633ccafae961b96e5cbb819f619] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Rehabilitation of Offenders Act 1974 (c. 53)
 
@@ -232,7 +232,7 @@ Section 77.
 
   .
 
-**37.**[^key-a5bc32b672059be8d669c4130f546307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-a5bc32b672059be8d669c4130f546307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Criminal Law Act 1977 (c. 45)
 
@@ -388,7 +388,7 @@ Section 77.
 
 ## Annotations
 
-[^key-9039e8897ef8dd90e93772ed9f61e886]: Textual amendment: Sch. 14 para. 1 and cross-heading repealed (E.W.) (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(d)(ii)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/d/ii), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
+[^c-9039e8897ef8dd90e93772ed9f61e886]: Textual amendment: Sch. 14 para. 1 and cross-heading repealed (E.W.) (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(d)(ii)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/d/ii), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
 
 [^c19341811]: Textual amendment: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/1982/48/schedule/14/paragraph/2) repealed (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/1), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch.12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/12) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1995/21/schedule/14/paragraph/1))
 
@@ -422,9 +422,9 @@ Section 77.
 
 [^c19341971]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43)
 
-[^key-e0110633ccafae961b96e5cbb819f619]: Textual amendment: [Sch. 14 para. 35](https://www.legislation.gov.uk/ukpga/1982/48/schedule/14/paragraph/35) repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/10); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1)[(2)(l)(iv)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/l/iv)
+[^c-e0110633ccafae961b96e5cbb819f619]: Textual amendment: [Sch. 14 para. 35](https://www.legislation.gov.uk/ukpga/1982/48/schedule/14/paragraph/35) repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/10); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1)[(2)(l)(iv)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/l/iv)
 
-[^key-a5bc32b672059be8d669c4130f546307]: Textual amendment: [Sch. 14 para. 37](https://www.legislation.gov.uk/ukpga/1982/48/schedule/14/paragraph/37) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-a5bc32b672059be8d669c4130f546307]: Textual amendment: [Sch. 14 para. 37](https://www.legislation.gov.uk/ukpga/1982/48/schedule/14/paragraph/37) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
 [^c19342001]: Marginal citation: [1967 c. 80](https://www.legislation.gov.uk/ukpga/1967/80).
 

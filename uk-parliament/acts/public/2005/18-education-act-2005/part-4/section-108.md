@@ -34,12 +34,12 @@ summary: ''
 (3) The following persons fall within this subsection—
 
 - (a) the Secretary of State,
-- (b)[^key-91556b86d3a5bcf3f5affadb21603ca2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ba)[^key-ae572589153f6caef9b5f18bdac53f38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-91556b86d3a5bcf3f5affadb21603ca2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ba)[^c-ae572589153f6caef9b5f18bdac53f38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Assembly,
 - (d) a Northern Ireland department,
 - (e) the Scottish Ministers, and
-- (f) any person providing services to a person within paragraphs (a) to (e)[^key-397d1f1c69ab55eaefcc2b94f4ac81ef].
+- (f) any person providing services to a person within paragraphs (a) to (e)[^c-397d1f1c69ab55eaefcc2b94f4ac81ef].
 
 (4) Information received by virtue of subsection or this subsection (2) by a person other than the Scottish Ministers may be supplied to a person falling within subsection (5) for use for purposes relating to eligibility for education maintenance allowances.
 
@@ -79,8 +79,8 @@ summary: ''
 
 ## Annotations
 
-[^key-91556b86d3a5bcf3f5affadb21603ca2]: Textual amendment: [S. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/108/3/b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 49](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/49)
+[^c-91556b86d3a5bcf3f5affadb21603ca2]: Textual amendment: [S. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/108/3/b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 49](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/49)
 
-[^key-ae572589153f6caef9b5f18bdac53f38]: Textual amendment: S. 108(3)(ba) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 28](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/28); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-ae572589153f6caef9b5f18bdac53f38]: Textual amendment: S. 108(3)(ba) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 28](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/28); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-397d1f1c69ab55eaefcc2b94f4ac81ef]: Textual amendment: Words in s. 108(3)(f) substituted (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 6 para. 57(c)](https://www.legislation.gov.uk/ukpga/2009/22/schedule/6/paragraph/57/c); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2)
+[^c-397d1f1c69ab55eaefcc2b94f4ac81ef]: Textual amendment: Words in s. 108(3)(f) substituted (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 6 para. 57(c)](https://www.legislation.gov.uk/ukpga/2009/22/schedule/6/paragraph/57/c); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2)

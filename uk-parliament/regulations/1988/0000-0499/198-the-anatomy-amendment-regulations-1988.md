@@ -31,40 +31,40 @@ This Statutory Instrument has been made in consequence of a defect in [S.I. 1988
 
 ANATOMY
 
-The Anatomy (Amendment) Regulations 1988 *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
+The Anatomy (Amendment) Regulations 1988 *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-Made *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
+Made *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-11th February 1988 *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
+11th February 1988 *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-Laid before Parliament *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
+Laid before Parliament *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-12th February 1988 *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
+12th February 1988 *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-Coming into force *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
+Coming into force *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-14th February 1988 *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
+14th February 1988 *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-The Secretary of State for Social Services, in exercise of the powers conferred by sections 3(5) and 5(6) of the Anatomy Act 1984 *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd][^f00001], and of all other powers enabling him in that behalf, hereby makes the following Regulations: *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
+The Secretary of State for Social Services, in exercise of the powers conferred by sections 3(5) and 5(6) of the Anatomy Act 1984 *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd][^f00001], and of all other powers enabling him in that behalf, hereby makes the following Regulations: *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-## 1 (Extent: S) (affected by repeal, see note). Citation and commencement (Extent: S) (affected by repeal, see note)[^key-a641193fc57e9594da997ab38095afe6][^key-81f379060fc4c4c49cb288f0e6ee36bd][^key-81f379060fc4c4c49cb288f0e6ee36bd]
+## 1 (Extent: S) (affected by repeal, see note). Citation and commencement (Extent: S) (affected by repeal, see note)[^c-a641193fc57e9594da997ab38095afe6][^c-81f379060fc4c4c49cb288f0e6ee36bd][^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-These Regulations may be cited as the Anatomy (Amendment) Regulations 1988 and shall come into force on 14th February 1988. *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
+These Regulations may be cited as the Anatomy (Amendment) Regulations 1988 and shall come into force on 14th February 1988. *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-## 2 (Extent: S) (affected by repeal, see note). Amendment of the Anatomy Regulations 1988 (Extent: S) (affected by repeal, see note)[^key-d905e6c03819659875cf1b626f421c55][^key-81f379060fc4c4c49cb288f0e6ee36bd][^key-81f379060fc4c4c49cb288f0e6ee36bd]
+## 2 (Extent: S) (affected by repeal, see note). Amendment of the Anatomy Regulations 1988 (Extent: S) (affected by repeal, see note)[^c-d905e6c03819659875cf1b626f421c55][^c-81f379060fc4c4c49cb288f0e6ee36bd][^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-The Anatomy Regulations 1988 *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd][^f00002] shall be amended as follows— *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
+The Anatomy Regulations 1988 *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd][^f00002] shall be amended as follows— *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-81f379060fc4c4c49cb288f0e6ee36bd] in regulation 2 (Records relating to anatomical examinations and anatomical specimens), for paragraph (1) there shall be substituted the following paragraph— *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
+- (a (Extent: S) (affected by repeal, see note))[^c-81f379060fc4c4c49cb288f0e6ee36bd] in regulation 2 (Records relating to anatomical examinations and anatomical specimens), for paragraph (1) there shall be substituted the following paragraph— *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-  > (1 (Extent: S) (affected by repeal, see note))[^key-81f379060fc4c4c49cb288f0e6ee36bd] A person to whom a licence has been granted under section 3(2) of the Act shall compile records in a permanent form in relation to each anatomical specimen which is in his possession or in the possession of another person to whom he has given permission to have possession of the anatomical specimen which records shall contain the particulars specified in paragraph (2) of this regulation. *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
+  > (1 (Extent: S) (affected by repeal, see note))[^c-81f379060fc4c4c49cb288f0e6ee36bd] A person to whom a licence has been granted under section 3(2) of the Act shall compile records in a permanent form in relation to each anatomical specimen which is in his possession or in the possession of another person to whom he has given permission to have possession of the anatomical specimen which records shall contain the particulars specified in paragraph (2) of this regulation. *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-  ; *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
-- (b (Extent: S) (affected by repeal, see note))[^key-81f379060fc4c4c49cb288f0e6ee36bd] in regulation 3 (Records relating to parts of bodies retained after anatomical examinations have been concluded), for paragraph (1) there shall be substituted the following paragraph— *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
+  ; *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
+- (b (Extent: S) (affected by repeal, see note))[^c-81f379060fc4c4c49cb288f0e6ee36bd] in regulation 3 (Records relating to parts of bodies retained after anatomical examinations have been concluded), for paragraph (1) there shall be substituted the following paragraph— *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-  > (1 (Extent: S) (affected by repeal, see note))[^key-81f379060fc4c4c49cb288f0e6ee36bd] A person to whom a licence has been granted under section 5(5) of the Act to have possession of parts of bodies shall compile records in a permanent form in relation to parts of bodies in his possession or in the possession of another person to whom he has given permission to have possession of such parts which records shall contain the particulars specified in paragraph (2) of this regulation. *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
+  > (1 (Extent: S) (affected by repeal, see note))[^c-81f379060fc4c4c49cb288f0e6ee36bd] A person to whom a licence has been granted under section 5(5) of the Act to have possession of parts of bodies shall compile records in a permanent form in relation to parts of bodies in his possession or in the possession of another person to whom he has given permission to have possession of such parts which records shall contain the particulars specified in paragraph (2) of this regulation. *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
-  . *(Extent: S)* *(affected by repeal, see note)*[^key-81f379060fc4c4c49cb288f0e6ee36bd]
+  . *(Extent: S)* *(affected by repeal, see note)*[^c-81f379060fc4c4c49cb288f0e6ee36bd]
 
 Signed by authority of the Secretary of State for Social Services.
 
@@ -82,12 +82,12 @@ These Regulations amend the Anatomy Regulations 1988 so that the requirement in 
 
 ## Annotations
 
-[^key-81f379060fc4c4c49cb288f0e6ee36bd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1988/198) revoked (S.) (1.9.2006) by [The Anatomy (Scotland) Regulations 2006 (S.S.I. 2006/334)](https://www.legislation.gov.uk/ssi/2006/334), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/334/regulation/1/1), [10(1)(b)](https://www.legislation.gov.uk/ssi/2006/334/regulation/10/1/b) (with [reg. 10(2)](https://www.legislation.gov.uk/ssi/2006/334/regulation/10/2)[(3)](https://www.legislation.gov.uk/ssi/2006/334/regulation/10/3))
+[^c-81f379060fc4c4c49cb288f0e6ee36bd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1988/198) revoked (S.) (1.9.2006) by [The Anatomy (Scotland) Regulations 2006 (S.S.I. 2006/334)](https://www.legislation.gov.uk/ssi/2006/334), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/334/regulation/1/1), [10(1)(b)](https://www.legislation.gov.uk/ssi/2006/334/regulation/10/1/b) (with [reg. 10(2)](https://www.legislation.gov.uk/ssi/2006/334/regulation/10/2)[(3)](https://www.legislation.gov.uk/ssi/2006/334/regulation/10/3))
 
 [^f00001]: Footnote: [1984 c. 14](https://www.legislation.gov.uk/ukpga/1984/14).
 
-[^key-a641193fc57e9594da997ab38095afe6]: Commencement: Reg. 1 in force at 14.2.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/198/regulation/1)
+[^c-a641193fc57e9594da997ab38095afe6]: Commencement: Reg. 1 in force at 14.2.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/198/regulation/1)
 
-[^key-d905e6c03819659875cf1b626f421c55]: Commencement: Reg. 2 in force at 14.2.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/198/regulation/1)
+[^c-d905e6c03819659875cf1b626f421c55]: Commencement: Reg. 2 in force at 14.2.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/198/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1988/44](https://www.legislation.gov.uk/uksi/1988/44).

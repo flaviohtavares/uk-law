@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 7 — Requirements for assessment methods other than fixed measurement[^key-2dd3a80c56069de5b9eb65e90811aba8]
+## SCHEDULE 7 — Requirements for assessment methods other than fixed measurement[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 *Extent: N.I.*
 
@@ -24,32 +24,32 @@ summary: ''
 
 Regulation 15(6)(b)Regulation 16(1)
 
-### PART 1 — Group A pollutants[^key-2dd3a80c56069de5b9eb65e90811aba8]
+### PART 1 — Group A pollutants[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
-**1.**[^key-2dd3a80c56069de5b9eb65e90811aba8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2dd3a80c56069de5b9eb65e90811aba8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2dd3a80c56069de5b9eb65e90811aba8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2dd3a80c56069de5b9eb65e90811aba8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Group B pollutants[^key-2dd3a80c56069de5b9eb65e90811aba8]
+### PART 2 — Group B pollutants[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
-#### 3. Requirements for air quality models[^key-2dd3a80c56069de5b9eb65e90811aba8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 4. Requirements for objective estimation techniques[^key-2dd3a80c56069de5b9eb65e90811aba8]
+#### 3. Requirements for air quality models[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Standardisation[^key-2dd3a80c56069de5b9eb65e90811aba8]
+#### 4. Requirements for objective estimation techniques[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Ozone and ozone precursor substances[^key-2dd3a80c56069de5b9eb65e90811aba8]
+#### 5. Standardisation[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
-**6.**[^key-2dd3a80c56069de5b9eb65e90811aba8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-2dd3a80c56069de5b9eb65e90811aba8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART 3 — Ozone and ozone precursor substances[^c-2dd3a80c56069de5b9eb65e90811aba8]
+
+**6.**[^c-2dd3a80c56069de5b9eb65e90811aba8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-2dd3a80c56069de5b9eb65e90811aba8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2dd3a80c56069de5b9eb65e90811aba8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/265) revoked (11.6.2010) by [The Air Quality Standards Regulations (Northern Ireland) 2010 (S.R. 2010/188)](https://www.legislation.gov.uk/nisr/2010/188), [regs. 1](https://www.legislation.gov.uk/nisr/2010/188/regulation/1), [30](https://www.legislation.gov.uk/nisr/2010/188/regulation/30)
+[^c-2dd3a80c56069de5b9eb65e90811aba8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/265) revoked (11.6.2010) by [The Air Quality Standards Regulations (Northern Ireland) 2010 (S.R. 2010/188)](https://www.legislation.gov.uk/nisr/2010/188), [regs. 1](https://www.legislation.gov.uk/nisr/2010/188/regulation/1), [30](https://www.legislation.gov.uk/nisr/2010/188/regulation/30)

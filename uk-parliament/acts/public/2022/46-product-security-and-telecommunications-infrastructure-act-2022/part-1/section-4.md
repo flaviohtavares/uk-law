@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Relevant connectable products[^key-82aa79b2d6f2970716608a450ad25111][^key-96c4b3d29c69aa7712da1e1b903c624c]
+## 4. Relevant connectable products[^c-82aa79b2d6f2970716608a450ad25111][^c-96c4b3d29c69aa7712da1e1b903c624c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-82aa79b2d6f2970716608a450ad25111]: Commencement: S. 4 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-82aa79b2d6f2970716608a450ad25111]: Commencement: S. 4 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-96c4b3d29c69aa7712da1e1b903c624c]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/46/section/4) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-96c4b3d29c69aa7712da1e1b903c624c]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/46/section/4) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

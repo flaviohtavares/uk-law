@@ -33,10 +33,10 @@ he does not by accepting them lose his right to reject the rest.
 
 (4) This section applies unless a contrary intention appears in, or is to be implied from, the contract.
 
-(5)[^key-e721ef896f20b671b6d4163e8a6f0ce4] This section does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in section 21 of that Act).
+(5)[^c-e721ef896f20b671b6d4163e8a6f0ce4] This section does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in section 21 of that Act).
 
 ## Annotations
 
 [^c1108934]: Textual amendment: S. 35A inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1994/35/section/3/1), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3)).
 
-[^key-e721ef896f20b671b6d4163e8a6f0ce4]: Textual amendment: S. 35A(5) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/25); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-e721ef896f20b671b6d4163e8a6f0ce4]: Textual amendment: S. 35A(5) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/25); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37A. Use of electronic communications[^key-d0d253731d1611ddf1ee3d0d6f3219a3]
+## 37A. Use of electronic communications[^c-d0d253731d1611ddf1ee3d0d6f3219a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ only if the directions under this section that apply to the manner in which it i
 
 ## Annotations
 
-[^key-d0d253731d1611ddf1ee3d0d6f3219a3]: Textual amendment: S. 37A inserted (1.10.2006) by [Registered Designs Act 1949 and Patents Act 1977 (Electronic Communications) Order 2006 (S.I. 2006/1229)](https://www.legislation.gov.uk/uksi/2006/1229), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1229/article/1), [2](https://www.legislation.gov.uk/uksi/2006/1229/article/2)
+[^c-d0d253731d1611ddf1ee3d0d6f3219a3]: Textual amendment: S. 37A inserted (1.10.2006) by [Registered Designs Act 1949 and Patents Act 1977 (Electronic Communications) Order 2006 (S.I. 2006/1229)](https://www.legislation.gov.uk/uksi/2006/1229), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1229/article/1), [2](https://www.legislation.gov.uk/uksi/2006/1229/article/2)

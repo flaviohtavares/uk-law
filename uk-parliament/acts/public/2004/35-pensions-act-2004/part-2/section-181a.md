@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181A. Pension protection levy: interest for late payment[^key-be0e32cc7e54552430e454c8d3e331ae]
+## 181A. Pension protection levy: interest for late payment[^c-be0e32cc7e54552430e454c8d3e331ae]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be0e32cc7e54552430e454c8d3e331ae]: Textual amendment: S. 181A inserted (26.2.2010) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2008/30/schedule/10/paragraph/5); [S.I. 2010/467](https://www.legislation.gov.uk/uksi/2010/467), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/467/article/2/b)
+[^c-be0e32cc7e54552430e454c8d3e331ae]: Textual amendment: S. 181A inserted (26.2.2010) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2008/30/schedule/10/paragraph/5); [S.I. 2010/467](https://www.legislation.gov.uk/uksi/2010/467), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/467/article/2/b)

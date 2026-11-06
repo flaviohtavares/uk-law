@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 
-## 134. Transitional provisions[^key-e1e72a186a4d63b75ae669b18d0bb0d4]
+## 134. Transitional provisions[^c-e1e72a186a4d63b75ae669b18d0bb0d4]
 
 **No longer in force.**
 
@@ -22,4 +22,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1e72a186a4d63b75ae669b18d0bb0d4]: Textual amendment: [Regs. 133-135](https://www.legislation.gov.uk/uksi/2010/490/regulation/133) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)
+[^c-e1e72a186a4d63b75ae669b18d0bb0d4]: Textual amendment: [Regs. 133-135](https://www.legislation.gov.uk/uksi/2010/490/regulation/133) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)

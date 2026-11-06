@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Advice and supervision of work by Welsh Ministers[^key-7af5288a7516bdbfbac5a06c794efc81][^key-4a4284448ff4bc09fc1900976534d608]
+## 63. Advice and supervision of work by Welsh Ministers[^c-7af5288a7516bdbfbac5a06c794efc81][^c-4a4284448ff4bc09fc1900976534d608]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7af5288a7516bdbfbac5a06c794efc81]: Commencement: S. 63 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-7af5288a7516bdbfbac5a06c794efc81]: Commencement: S. 63 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-4a4284448ff4bc09fc1900976534d608]: Commencement: [S. 63](https://www.legislation.gov.uk/asc/2023/3/section/63) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-4a4284448ff4bc09fc1900976534d608]: Commencement: [S. 63](https://www.legislation.gov.uk/asc/2023/3/section/63) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

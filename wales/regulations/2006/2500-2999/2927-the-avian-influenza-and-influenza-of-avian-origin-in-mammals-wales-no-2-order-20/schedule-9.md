@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 9 — Measures where influenza of avian origin is suspected in kept mammals[^key-caf9d7d649cecfea1fa9cca4c667df1d]
+## SCHEDULE 9 — Measures where influenza of avian origin is suspected in kept mammals[^c-caf9d7d649cecfea1fa9cca4c667df1d]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ The occupier must in accordance with the instructions of a veterinary inspector,
 
 ## Annotations
 
-[^key-caf9d7d649cecfea1fa9cca4c667df1d]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/wsi/2006/2927/schedule/9), [Sch. 10](https://www.legislation.gov.uk/wsi/2006/2927/schedule/10) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [47](https://www.legislation.gov.uk/wsi/2025/1357/article/47)
+[^c-caf9d7d649cecfea1fa9cca4c667df1d]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/wsi/2006/2927/schedule/9), [Sch. 10](https://www.legislation.gov.uk/wsi/2006/2927/schedule/10) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [47](https://www.legislation.gov.uk/wsi/2025/1357/article/47)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.46A. Expeditious determination of application[^key-2a6c344038ad4227cf4b37bc5c8f2a97]
+## 3.46A. Expeditious determination of application[^c-2a6c344038ad4227cf4b37bc5c8f2a97]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ Prior to or at a hearing on evidence under rule 3.47 (or any adjournment or con
 
 ## Annotations
 
-[^key-2a6c344038ad4227cf4b37bc5c8f2a97]: Textual amendment: Rule 3.46A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(34)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/34) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-2a6c344038ad4227cf4b37bc5c8f2a97]: Textual amendment: Rule 3.46A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(34)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/34) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

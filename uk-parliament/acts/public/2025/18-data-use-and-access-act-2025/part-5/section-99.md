@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Assessment notices: removal of OFSTED restriction[^key-df52a6ce296fb944ed01cd52e04ceb29][^key-97de95ff308c1b5818cde6a7e23d3369]
+## 99. Assessment notices: removal of OFSTED restriction[^c-df52a6ce296fb944ed01cd52e04ceb29][^c-97de95ff308c1b5818cde6a7e23d3369]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 147 of the 2018 Act (assessment notices: restrictions), in subsection
 
 ## Annotations
 
-[^key-df52a6ce296fb944ed01cd52e04ceb29]: Commencement: S. 99 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-df52a6ce296fb944ed01cd52e04ceb29]: Commencement: S. 99 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-97de95ff308c1b5818cde6a7e23d3369]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2025/18/section/99) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/r)
+[^c-97de95ff308c1b5818cde6a7e23d3369]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2025/18/section/99) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/r)

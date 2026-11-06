@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 317. Amendment of Annex 3 to [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^key-3617cf6797645410e9d972caccff8be2]
+## 317. Amendment of Annex 3 to [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^c-3617cf6797645410e9d972caccff8be2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3617cf6797645410e9d972caccff8be2]: Textual amendment: Reg. 317 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [37](https://www.legislation.gov.uk/uksi/2020/1116/regulation/37)
+[^c-3617cf6797645410e9d972caccff8be2]: Textual amendment: Reg. 317 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [37](https://www.legislation.gov.uk/uksi/2020/1116/regulation/37)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 98. Help for disadvantaged groups of gas customers.[^key-7ecaedc117a8f8bcf9d5507012ac97a1]
+## 98. Help for disadvantaged groups of gas customers.[^c-7ecaedc117a8f8bcf9d5507012ac97a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ecaedc117a8f8bcf9d5507012ac97a1]: Textual amendment: [S. 98](https://www.legislation.gov.uk/ukpga/2000/27/section/98) omitted (8.6.2010) by virtue of [Energy Act 2010 (c. 27)](https://www.legislation.gov.uk/ukpga/2010/27), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2010/27/section/38/3), [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/15)
+[^c-7ecaedc117a8f8bcf9d5507012ac97a1]: Textual amendment: [S. 98](https://www.legislation.gov.uk/ukpga/2000/27/section/98) omitted (8.6.2010) by virtue of [Energy Act 2010 (c. 27)](https://www.legislation.gov.uk/ukpga/2010/27), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2010/27/section/38/3), [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/15)

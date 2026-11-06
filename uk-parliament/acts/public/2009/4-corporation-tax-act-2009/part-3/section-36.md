@@ -24,10 +24,10 @@ summary: ''
 
 (2) All farming in the United Kingdom carried on by a company, other than farming carried on as part of another trade, is treated for corporation tax purposes as one trade.
 
-(3) This section does not apply to farming or market gardening by an insurance company on land which is an asset held by the company for the purposes of its long-term business[^key-a2d0349164c331bf4c2c4d869193624d].
+(3) This section does not apply to farming or market gardening by an insurance company on land which is an asset held by the company for the purposes of its long-term business[^c-a2d0349164c331bf4c2c4d869193624d].
 
 (4) In the case of farming carried on by a company as a member of a firm, this rule is explained by section 1270(1).
 
 ## Annotations
 
-[^key-a2d0349164c331bf4c2c4d869193624d]: Textual amendment: Words in s. 36(3) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 139](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/139)
+[^c-a2d0349164c331bf4c2c4d869193624d]: Textual amendment: Words in s. 36(3) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 139](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/139)

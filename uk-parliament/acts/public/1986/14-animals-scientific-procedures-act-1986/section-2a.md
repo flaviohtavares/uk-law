@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. Principles of replacement, reduction and refinement[^key-9cc9774c3222c2b0e1e09e8603f602fc]
+## 2A. Principles of replacement, reduction and refinement[^c-9cc9774c3222c2b0e1e09e8603f602fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cc9774c3222c2b0e1e09e8603f602fc]: Textual amendment: S. 2A inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2012/3039/regulation/5) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-9cc9774c3222c2b0e1e09e8603f602fc]: Textual amendment: S. 2A inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2012/3039/regulation/5) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

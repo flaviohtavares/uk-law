@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Retirement date for holders of judicial offices etc: repeal of references to old tribunals[^key-16956793f9cb4f3d27856b30e32ddb3b]
+## 113. Retirement date for holders of judicial offices etc: repeal of references to old tribunals[^c-16956793f9cb4f3d27856b30e32ddb3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 26(8) of the Judicial Pensions and Retirement Act 1993 (retirement da
 
 ## Annotations
 
-[^key-16956793f9cb4f3d27856b30e32ddb3b]: Commencement: Art. 113 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-16956793f9cb4f3d27856b30e32ddb3b]: Commencement: Art. 113 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

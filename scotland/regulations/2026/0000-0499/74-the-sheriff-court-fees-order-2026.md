@@ -46,13 +46,13 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 107(1) and (2) of the Courts Reform (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and effect[^key-55293c14cf860306ccfb9d374dbbff28]
+## 1. Citation, commencement and effect[^c-55293c14cf860306ccfb9d374dbbff28]
 
 (1) This Order may be cited as the Sheriff Court Fees Order 2026 and, subject to paragraph (2), comes into force on 1 April 2026.
 
 (2) Article 3(1)(b) and schedule 2 take effect, and article 3(1)(a) and schedule 1 cease to have effect, on 1 April 2027.
 
-## 2. Interpretation[^key-08ca7ac3ddee69814a92cc49b2ecfd9c]
+## 2. Interpretation[^c-08ca7ac3ddee69814a92cc49b2ecfd9c]
 
 In this Order—
 
@@ -66,7 +66,7 @@ In this Order—
 - “**summary cause**” has the meaning assigned to it by section 35(1) of the Sheriff Courts (Scotland) Act 1971[^f00003],
 - “**writ**” means any document containing written pleadings relating to proceedings in the sheriff court and includes an inventory of estate, a precept of arrestment on a liquid document of debt, a notice of intention to defend and a notice of appearance lodged in an action of multiplepoinding under rule 35.8 of the Ordinary Cause Rules.
 
-## 3. Fees payable in sheriff courts[^key-36781c0629e7d5b154a7936db1717e05]
+## 3. Fees payable in sheriff courts[^c-36781c0629e7d5b154a7936db1717e05]
 
 (1) Subject to paragraph (3) and articles 4 to 14—
 
@@ -82,21 +82,21 @@ In this Order—
 - (a) the payment of that fee, or
 - (b) an arrangement being entered into for payment of that fee.
 
-## 4. Certain fees payable only once[^key-d5f332a6c56978dd0d6498149219f739]
+## 4. Certain fees payable only once[^c-d5f332a6c56978dd0d6498149219f739]
 
 The fees payable in respect of the following matters are payable on one occasion only in respect of a cause—
 
 - (a) the matters specified in paragraphs 5, 24, 25 and 28 of the Table of Fees in Part 1 of schedule 1 or 2, and
 - (b) the matters specified in paragraphs 4 and 5 of the Table of Fees in Part 2 of schedule 1 or 2.
 
-## 5. Matters included in certain fees[^key-128bbc5009422209a53303b2f0c753d3]
+## 5. Matters included in certain fees[^c-128bbc5009422209a53303b2f0c753d3]
 
 The following matters include, where appropriate, issue of an extract decree—
 
 - (a) the matters specified in paragraphs 1, 5 to 8, 16 and 23 of the Table of Fees in Part 1 of schedule 1 or 2, and
 - (b) the matters specified in paragraphs 5 and 6 of the Table of Fees in Part 2 of schedule 1 or 2.
 
-## 6. Fees payable in the Sheriff Personal Injury Court[^key-a9627b3e2793e008ec6b28573a7a25db]
+## 6. Fees payable in the Sheriff Personal Injury Court[^c-a9627b3e2793e008ec6b28573a7a25db]
 
 (1) The fees specified in the Table of Fees in Part 2 of schedule 1 or 2 apply only in relation to proceedings in the Sheriff Personal Injury Court[^f00004].
 
@@ -104,13 +104,13 @@ The following matters include, where appropriate, issue of an extract decree—
 
 (3) The fee specified in the Table of Fees in Part 2 applies, and the corresponding fee in Part 1 is not payable in relation to proceedings in the Sheriff Personal Injury Court.
 
-## 7. Cases in which an extra fee is payable[^key-0cb6626415c40e673d2d7dc08b00d079]
+## 7. Cases in which an extra fee is payable[^c-0cb6626415c40e673d2d7dc08b00d079]
 
 (1) When a summary cause or simple procedure case[^f00005] is remitted to the ordinary cause roll, the fees payable in paragraphs 5 and 23 of the Table of Fees in Part 1 of schedule 1 or 2 become payable in respect of the cause by the persons who would have been required to pay them if the cause had been from its commencement an ordinary cause, less the amount of any fee previously paid by the person concerned in respect of the cause.
 
 (2) When any commissary proceedings, bankruptcy proceedings or proceedings under section 4 of the Requirements of Writing (Scotland) Act 1995[^f00006] are opposed, the fees specified in paragraphs 5 and 23 of the Table of Fees in Part 1 of schedule 1 or 2 become payable in respect of the proceedings by the persons who would have been required to pay them if the proceedings had been from their commencement proceedings to which those paragraphs applied, less the amount of any fee previously paid by the person concerned in respect of the proceedings.
 
-## 8. Exemption of certain persons from fees: legal aid[^key-da11d24b55cf77f064f49020cdb622cb]
+## 8. Exemption of certain persons from fees: legal aid[^c-da11d24b55cf77f064f49020cdb622cb]
 
 (1) A fee specified by this Order is not payable by a person if—
 
@@ -120,7 +120,7 @@ The following matters include, where appropriate, issue of an extract decree—
 
 (2) In this article, “**the 1986 Act**” means the Legal Aid (Scotland) Act 1986[^f00008].
 
-## 9. Exemption of certain persons from fees: social security[^key-210472bf460069fbe51274827a5e24ef]
+## 9. Exemption of certain persons from fees: social security[^c-210472bf460069fbe51274827a5e24ef]
 
 (1) A fee specified by this Order is not payable by a person if—
 
@@ -138,18 +138,18 @@ The following matters include, where appropriate, issue of an extract decree—
 
 (2) In this article, “**the 2012 Act**” means the Welfare Reform Act 2012[^f00017].
 
-## 10. Cases where articles 8 and 9 do not apply[^key-5c8b628788833b883415fa44d647767e]
+## 10. Cases where articles 8 and 9 do not apply[^c-5c8b628788833b883415fa44d647767e]
 
 Articles 8 and 9 do not apply as regards—
 
 - (a) the fees specified in paragraphs 1 to 4 (commissary proceedings) of the Table of Fees in Part 1 of schedule 1 or 2, or
 - (b) the fee specified in paragraph 18 (sheriff court proceedings: petition for removal of disqualification) of the Table of Fees in Part 1 of schedule 1 or 2.
 
-## 11. Exemption in connection with estate exempt from inheritance tax[^key-2defd3680a3c4362ed82f3c35e2b8fab]
+## 11. Exemption in connection with estate exempt from inheritance tax[^c-2defd3680a3c4362ed82f3c35e2b8fab]
 
 Where the estate of a deceased person is exempt from inheritance tax by virtue of section 153A (death of emergency service personnel etc.), 154 (death on active service etc.) or 155A (death of constables and service personnel targeted because of their status) of the Inheritance Tax Act 1984[^f00018], there will be no fee payable in respect of the inventory of that estate under paragraph 3(a), (b) or (c) (commissary proceedings) of the Table of Fees in Part 1 of schedule 1 or 2.
 
-## 12. Exemptions relating to particular proceedings[^key-21a2d12ecfe5f3f3e88e626fafadf89f]
+## 12. Exemptions relating to particular proceedings[^c-21a2d12ecfe5f3f3e88e626fafadf89f]
 
 (1) The fees provided for by this Order do not apply to—
 
@@ -161,7 +161,7 @@ Where the estate of a deceased person is exempt from inheritance tax by virtue o
 
 (2) Except in relation to the fee specified in paragraph 34 of the Table of Fees in Part 1 of schedule 1 or 2, the fees otherwise payable by a debtor or creditor in terms of this Order do not apply to any proceedings under the Debtors (Scotland) Act 1987[^f00022] or the Debt Arrangement and Attachment (Scotland) Act 2002[^f00023].
 
-## 13. Exemptions for applicants for certain interdicts and orders[^key-43d0026f0776b204edff3026351dab7b]
+## 13. Exemptions for applicants for certain interdicts and orders[^c-43d0026f0776b204edff3026351dab7b]
 
 (1) The fees provided for by this Order are not payable by a person applying for a specified interdict or for an exclusion order.
 
@@ -179,7 +179,7 @@ Where the estate of a deceased person is exempt from inheritance tax by virtue o
 
 (3) The exemption in paragraph (1) does not apply to a person applying for a principal remedy other than a specified interdict or exclusion order.
 
-## 14. Exemption of certain motions from fees: jury trials in the Sheriff Personal Injury Court[^key-b16670cda0a9862106f3be35c577aca9]
+## 14. Exemption of certain motions from fees: jury trials in the Sheriff Personal Injury Court[^c-b16670cda0a9862106f3be35c577aca9]
 
 The fees specified in paragraph 29 of the Table of Fees in Part 1 of schedule 1 or 2 and in paragraph 1 of the Table of Fees in Part 2 of schedule 1 or 2 are not payable in respect of motions under the following rules of the Ordinary Cause Rules—
 
@@ -188,7 +188,7 @@ The fees specified in paragraph 29 of the Table of Fees in Part 1 of schedule 1 
 - (c) rule 36B.2(7) (motion for approval of proposed counter-issue), and
 - (d) rule 36B.10 (motion for application of verdict).
 
-## 15. Revocation[^key-fa7947105b55e70f56130cba9fa3f0bc]
+## 15. Revocation[^c-fa7947105b55e70f56130cba9fa3f0bc]
 
 The Sheriff Court Fees Order 2024[^f00030] is revoked.
 
@@ -206,7 +206,7 @@ Edinburgh
 
 Article 3(1)(a)
 
-### Part 1 — Sheriff Court[^key-53fa36624d45a1dde1c07e3b8f752aa7]
+### Part 1 — Sheriff Court[^c-53fa36624d45a1dde1c07e3b8f752aa7]
 
 Payable from 1 April 2026
 
@@ -256,7 +256,7 @@ Payable from 1 April 2026
 | 38\. Citation of, or intimation to, any person or persons by sheriff officer as instructed by the sheriff clerk. | 15 plus sheriff officer’s fee | 14 plus sheriff officer’s fee |
 | PART III — AUDITOR OF COURT<br>39\. Taxing accounts of expenses incurred in judicial proceedings remitted to the auditor of court for taxation—<br>- (a) lodging account for taxation,<br>- (b) taxing accounts of expenses etc.—<br>  - (i) up to £400,<br>  - (ii) for every additional £100 or part thereof.<br>(Note: Fee to be determined by auditor of court on amount of account as submitted.)<br>- (c) cancellation of diet of taxation—<br>  - (i) where written notice of cancellation received from receiving party after 4.00pm on the fourth working day before the day of diet of taxation,<br>  - (ii) where written notice of cancellation received from receiving party after 4.00pm on the second working day before the day of the diet of taxation. | <br> <br> <br> <br>61<br> <br>26<br> <br>6<br> <br> <br> <br> <br>50% of fee that would have been payable under sub-paragraph (b) of this paragraph<br> <br>75% of fee that would have been payable under sub-paragraph (b) of this paragraph | <br> <br> <br> <br>59<br> <br>25<br> <br>6<br> <br> <br> <br> <br>50% of fee that would have been payable under sub-paragraph (b) of this paragraph<br> <br>75% of fee that would have been payable under sub-paragraph (b) of this paragraph |
 
-### Part 2 — Sheriff Personal Injury Court[^key-fde17f6e30b4b6025b54b6384ceffe33]
+### Part 2 — Sheriff Personal Injury Court[^c-fde17f6e30b4b6025b54b6384ceffe33]
 
 Payable from 1 April 2026
 
@@ -276,7 +276,7 @@ Payable from 1 April 2026
 
 Article 3(1)(b)
 
-### Part 1 — Sheriff Court[^key-6a828eb7f51fdbff606604687b879cfb]
+### Part 1 — Sheriff Court[^c-6a828eb7f51fdbff606604687b879cfb]
 
 Payable from 1 April 2027
 
@@ -327,7 +327,7 @@ Payable from 1 April 2027
 | PART III - AUDITOR OF COURT |  |  |
 | 39\. Taxing accounts of expenses incurred in judicial proceedings remitted to the auditor of court for taxation—<br>- (a) lodging account for taxation,<br>- (b) taxing accounts of expenses etc.—<br>  - (i) up to £400,<br>  - (ii) for every additional £100 or part thereof.<br>(Note: Fee to be determined by auditor of court on amount of account as submitted).<br>- (c) cancellation of diet of taxation—<br>  - (i) where written notice of cancellation received from receiving party after 4.00pm on the fourth working day before the day of diet of taxation,<br>  - (ii) where written notice of cancellation received from receiving party after 4.00pm on the second working day before the day of the diet of taxation. | <br> <br> <br>63<br> <br>27<br>6<br> <br> <br> <br>50% of fee that would have been payable under sub-paragraph (b) of this paragraph<br> <br>75% of fee that would have been payable under sub-paragraph (b) of this paragraph | <br> <br> <br>61<br> <br>26<br>6<br> <br> <br> <br>50% of fee that would have been payable under sub-paragraph (b) of this paragraph<br> <br>75% of fee that would have been payable under sub-paragraph (b) of this paragraph |
 
-### Part 2 — Sheriff Personal Injury Court[^key-3198d248eda210a88ba0c85ecb61dfa6]
+### Part 2 — Sheriff Personal Injury Court[^c-3198d248eda210a88ba0c85ecb61dfa6]
 
 Payable from 1 April 2027
 
@@ -382,37 +382,37 @@ Article 15 revokes the Sheriff Court Fees Order 2024.
 
 [^f00001]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18). The definition of “relevant officer” in section 107(3) was relevantly amended by [S.S.I. 2016/387](https://www.legislation.gov.uk/ssi/2016/387).
 
-[^key-55293c14cf860306ccfb9d374dbbff28]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2026/74/article/1) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-55293c14cf860306ccfb9d374dbbff28]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2026/74/article/1) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
-[^key-08ca7ac3ddee69814a92cc49b2ecfd9c]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2026/74/article/2) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-08ca7ac3ddee69814a92cc49b2ecfd9c]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2026/74/article/2) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
 [^f00002]: Footnote: The Ordinary Cause Rules 1993 are in schedule 1 of the Sheriff Courts (Scotland) Act [1907 (c. 51)](https://www.legislation.gov.uk/ukpga/1907/51). Schedule 1 was substituted by [S.I. 1993/1956](https://www.legislation.gov.uk/uksi/1993/1956) and was last amended by [S.S.I. 2025/302](https://www.legislation.gov.uk/ssi/2025/302).
 
 [^f00003]: Footnote: [1971 c. 58](https://www.legislation.gov.uk/ukpga/1971/58). Section 35(1) was amended by [S.S.I. 2007/507](https://www.legislation.gov.uk/ssi/2007/507) and schedule 6 of the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3).
 
-[^key-36781c0629e7d5b154a7936db1717e05]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2026/74/article/3) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-36781c0629e7d5b154a7936db1717e05]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2026/74/article/3) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
-[^key-d5f332a6c56978dd0d6498149219f739]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2026/74/article/4) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-d5f332a6c56978dd0d6498149219f739]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2026/74/article/4) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
-[^key-128bbc5009422209a53303b2f0c753d3]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2026/74/article/5) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-128bbc5009422209a53303b2f0c753d3]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2026/74/article/5) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
-[^key-a9627b3e2793e008ec6b28573a7a25db]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2026/74/article/6) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-a9627b3e2793e008ec6b28573a7a25db]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2026/74/article/6) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
 [^f00004]: Footnote: See article 2 of the All-Scotland Sheriff Court (Sheriff Personal Injury Court) Order 2015 ([S.S.I. 2015/213](https://www.legislation.gov.uk/ssi/2015/213)).
 
-[^key-0cb6626415c40e673d2d7dc08b00d079]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2026/74/article/7) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-0cb6626415c40e673d2d7dc08b00d079]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2026/74/article/7) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
 [^f00005]: Footnote: “simple procedure case” is defined in section 72(9) of the Courts Reform (Scotland) Act [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18).
 
 [^f00006]: Footnote: [1995 c. 7](https://www.legislation.gov.uk/ukpga/1995/7). Section 4 was amended by paragraph 8 of schedule 3 of the Land Registration etc. (Scotland) Act [2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5).
 
-[^key-da11d24b55cf77f064f49020cdb622cb]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2026/74/article/8) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-da11d24b55cf77f064f49020cdb622cb]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2026/74/article/8) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
 [^f00007]: Footnote: [1986 c. 47](https://www.legislation.gov.uk/ukpga/1986/47). Section 13(2) was amended by paragraph 36 of schedule 8 and schedule 9 of the Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c. 40)](https://www.legislation.gov.uk/ukpga/1990/40).
 
 [^f00008]: Footnote: [1986 c. 47](https://www.legislation.gov.uk/ukpga/1986/47).
 
-[^key-210472bf460069fbe51274827a5e24ef]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2026/74/article/9) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-210472bf460069fbe51274827a5e24ef]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2026/74/article/9) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
 [^f00009]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 124, which provides for income support, was amended by paragraph 30 of schedule 2 and schedule 3 of the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), paragraph 28 of schedule 8 of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), paragraph 2 of schedule 2 and schedule 3 of the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), paragraph 42 of schedule 24 of the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), paragraph 9 of schedule 3 and schedule 8 of the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), section 3 of the Welfare Reform Act [2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), and section 58 and schedule 14 of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5).
 
@@ -432,13 +432,13 @@ Article 15 revokes the Sheriff Court Fees Order 2024.
 
 [^f00017]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-5c8b628788833b883415fa44d647767e]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2026/74/article/10) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-5c8b628788833b883415fa44d647767e]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2026/74/article/10) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
-[^key-2defd3680a3c4362ed82f3c35e2b8fab]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2026/74/article/11) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-2defd3680a3c4362ed82f3c35e2b8fab]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2026/74/article/11) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
 [^f00018]: Footnote: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51). Sections 153A and 155A were inserted by section 75 of the Finance Act [2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11) (“**the 2015 Act**”). Section 154 was amended by paragraph 99 of schedule 16 of the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52) and section 75 of the 2015 Act.
 
-[^key-21a2d12ecfe5f3f3e88e626fafadf89f]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2026/74/article/12) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-21a2d12ecfe5f3f3e88e626fafadf89f]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2026/74/article/12) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
 [^f00019]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39). Section 129 was amended by the Debtors (Scotland) Act [1987 (c. 18)](https://www.legislation.gov.uk/ukpga/1987/18), the Consumer Credit Act [2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14) and [S.I. 2025/859](https://www.legislation.gov.uk/uksi/2025/859).
 
@@ -450,7 +450,7 @@ Article 15 revokes the Sheriff Court Fees Order 2024.
 
 [^f00023]: Footnote: [2002 asp 17](https://www.legislation.gov.uk/asp/2002/17).
 
-[^key-43d0026f0776b204edff3026351dab7b]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2026/74/article/13) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-43d0026f0776b204edff3026351dab7b]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2026/74/article/13) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
 [^f00024]: Footnote: [1981 c. 59](https://www.legislation.gov.uk/ukpga/1981/59). Section 14 was amended by schedule 3 of the Family Law (Scotland) Act [2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2) and by [S.S.I. 2006/384](https://www.legislation.gov.uk/ssi/2006/384).
 
@@ -464,24 +464,24 @@ Article 15 revokes the Sheriff Court Fees Order 2024.
 
 [^f00029]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36). Section 76 was amended by [S.S.I. 2003/583](https://www.legislation.gov.uk/ssi/2003/583) and paragraph 2 of schedule 5 of the Children’s Hearings (Scotland) Act [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1).
 
-[^key-b16670cda0a9862106f3be35c577aca9]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2026/74/article/14) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-b16670cda0a9862106f3be35c577aca9]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2026/74/article/14) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
-[^key-fa7947105b55e70f56130cba9fa3f0bc]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2026/74/article/15) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-fa7947105b55e70f56130cba9fa3f0bc]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2026/74/article/15) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
 [^f00030]: Footnote: [S.S.I. 2024/235](https://www.legislation.gov.uk/ssi/2024/235).
 
-[^key-53fa36624d45a1dde1c07e3b8f752aa7]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2026/74/schedule/1/part/1) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-53fa36624d45a1dde1c07e3b8f752aa7]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2026/74/schedule/1/part/1) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
 [^f00031]: Footnote: Column 3 shows the fees payable by virtue of Part 1 of the schedule of [S.S.I. 2024/235](https://www.legislation.gov.uk/ssi/2024/235) immediately before the coming into force of this schedule.
 
-[^key-fde17f6e30b4b6025b54b6384ceffe33]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2026/74/schedule/1/part/2) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-fde17f6e30b4b6025b54b6384ceffe33]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2026/74/schedule/1/part/2) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
 [^f00032]: Footnote: Column 3 shows the fees payable by virtue of Part 2 of the schedule of [S.S.I. 2024/235](https://www.legislation.gov.uk/ssi/2024/235) immediately before the coming into force of this schedule.
 
-[^key-6a828eb7f51fdbff606604687b879cfb]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ssi/2026/74/schedule/2/part/1) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-6a828eb7f51fdbff606604687b879cfb]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ssi/2026/74/schedule/2/part/1) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
 [^f00033]: Footnote: Column 3 shows the fees which were payable by virtue of Part 1 of schedule 1 of this Order immediately before the coming into force of this schedule.
 
-[^key-3198d248eda210a88ba0c85ecb61dfa6]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2026/74/schedule/2/part/2) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
+[^c-3198d248eda210a88ba0c85ecb61dfa6]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2026/74/schedule/2/part/2) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/74/article/1/1)
 
 [^f00034]: Footnote: Column 3 shows the fees which were payable by virtue of Part 2 of schedule 1 of this Order immediately before the coming into force of this schedule.

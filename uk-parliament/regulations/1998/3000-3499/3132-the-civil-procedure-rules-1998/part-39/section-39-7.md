@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.7. Impounded documents[^key-0904520324b616f3af614ed99b707c0e]
+## 39.7. Impounded documents[^c-0904520324b616f3af614ed99b707c0e]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0904520324b616f3af614ed99b707c0e]: Commencement: [Rule 39.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/39.7) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-0904520324b616f3af614ed99b707c0e]: Commencement: [Rule 39.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/39.7) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

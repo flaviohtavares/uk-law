@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Property transfer instruments: property held on trust[^key-05f044bdcdee45625bc1e2026c49ab78]
+## 98. Property transfer instruments: property held on trust[^c-05f044bdcdee45625bc1e2026c49ab78]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05f044bdcdee45625bc1e2026c49ab78]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2012/21/section/98) in force at 1.1.2015 by [S.I. 2014/3323](https://www.legislation.gov.uk/uksi/2014/3323), [art. 2](https://www.legislation.gov.uk/uksi/2014/3323/article/2)
+[^c-05f044bdcdee45625bc1e2026c49ab78]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2012/21/section/98) in force at 1.1.2015 by [S.I. 2014/3323](https://www.legislation.gov.uk/uksi/2014/3323), [art. 2](https://www.legislation.gov.uk/uksi/2014/3323/article/2)

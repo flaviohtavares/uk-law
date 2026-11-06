@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 828. Overlap profit[^key-64bb6d29b6af572d093d414fe4bbc705]
+## 828. Overlap profit[^c-64bb6d29b6af572d093d414fe4bbc705]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64bb6d29b6af572d093d414fe4bbc705]: Textual amendment: [S. 828](https://www.legislation.gov.uk/ukpga/2005/5/section/828) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 24](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/24), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-64bb6d29b6af572d093d414fe4bbc705]: Textual amendment: [S. 828](https://www.legislation.gov.uk/ukpga/2005/5/section/828) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 24](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/24), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

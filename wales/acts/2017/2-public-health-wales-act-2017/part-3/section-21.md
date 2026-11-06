@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Warrant to enter other premises[^key-ebf1a027016bdc372ba1e4ed61500cbb]
+## 21. Warrant to enter other premises[^c-ebf1a027016bdc372ba1e4ed61500cbb]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebf1a027016bdc372ba1e4ed61500cbb]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2017/2/section/21) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-ebf1a027016bdc372ba1e4ed61500cbb]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2017/2/section/21) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

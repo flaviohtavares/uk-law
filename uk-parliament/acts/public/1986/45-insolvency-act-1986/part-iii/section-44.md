@@ -41,7 +41,7 @@ summary: ''
 - (a) wages or salary payable in respect of a period of holiday or absence from work through sickness or other good cause are deemed to be wages or (as the case may be) salary in respect of services rendered in that period, and
 - (b) a sum payable in lieu of holiday is deemed to be wages or (as the case may be) salary in respect of services rendered in the period by reference to which the holiday entitlement arose.
 
-(2D)[^key-83c9fe89809c5711d806cf8ff8ab8773] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2D)[^c-83c9fe89809c5711d806cf8ff8ab8773] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This section does not limit any right to indemnity which the administrative receiver would have apart from it, nor limit his liability on contracts entered into or adopted without authority, nor confer any right to indemnity in respect of that liability.
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c15570801]: Textual amendment: S. 44(2A)-(2D) inserted (24.3.1994 with effect in relation to contracts of employment adopted on or after 15.3.1994) by [1994 c. 7](https://www.legislation.gov.uk/ukpga/1994/7), [s. 2(3)(4)](https://www.legislation.gov.uk/ukpga/1994/7/section/2/3/4)
 
-[^key-83c9fe89809c5711d806cf8ff8ab8773]: Textual amendment: S. 44(2D) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(n)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/n), [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/26)
+[^c-83c9fe89809c5711d806cf8ff8ab8773]: Textual amendment: S. 44(2D) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(n)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/n), [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/26)

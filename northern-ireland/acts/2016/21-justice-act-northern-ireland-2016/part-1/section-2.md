@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Collection officers[^key-10ae74f1a8604285a356cb5e057ebf18]
+## 2. Collection officers[^c-10ae74f1a8604285a356cb5e057ebf18]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10ae74f1a8604285a356cb5e057ebf18]: Commencement: S. 2 in operation at 3.10.2016 by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 4(a)](https://www.legislation.gov.uk/nisr/2016/248/article/4/a)
+[^c-10ae74f1a8604285a356cb5e057ebf18]: Commencement: S. 2 in operation at 3.10.2016 by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 4(a)](https://www.legislation.gov.uk/nisr/2016/248/article/4/a)

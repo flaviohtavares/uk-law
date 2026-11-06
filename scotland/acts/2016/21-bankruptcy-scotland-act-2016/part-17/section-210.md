@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 210. Sederunt book and other documents[^key-eb15cfc36a714105c926081694b0f6b7]
+## 210. Sederunt book and other documents[^c-eb15cfc36a714105c926081694b0f6b7]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb15cfc36a714105c926081694b0f6b7]: Commencement: S. 210 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-eb15cfc36a714105c926081694b0f6b7]: Commencement: S. 210 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

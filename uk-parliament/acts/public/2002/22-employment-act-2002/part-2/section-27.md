@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Practice directions[^key-bb691cd562c57c0b062a225c2f9fe965]
+## 27. Practice directions[^c-bb691cd562c57c0b062a225c2f9fe965]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ After section 7 of the Employment Tribunals Act 1996 (c. 17) there is insertedâ€
 
 ## Annotations
 
-[^key-bb691cd562c57c0b062a225c2f9fe965]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2002/22/section/27) in force at 9.7.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/1)
+[^c-bb691cd562c57c0b062a225c2f9fe965]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2002/22/section/27) in force at 9.7.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/1)

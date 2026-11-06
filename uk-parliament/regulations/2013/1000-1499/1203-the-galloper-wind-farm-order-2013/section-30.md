@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Certification of plans etc.[^key-2eeedf0816b9fcb25bd905edb12a152e]
+## 30. Certification of plans etc.[^c-2eeedf0816b9fcb25bd905edb12a152e]
 
 *Extent: E+W+S*
 
@@ -110,7 +110,7 @@ summary: ''
   - C2.4-78 Rev1;
   - C2.4-79 Rev1;
 - (f) other plans referred to in this Order—
-  - Number 2.7 Rev 41 (Onshore General Arrangement) dated 20 February 2013 submitted to the Secretary of State prior to this Order being made;[^key-216e3ce1d009d4db5c353fafc5346ca1]
+  - Number 2.7 Rev 41 (Onshore General Arrangement) dated 20 February 2013 submitted to the Secretary of State prior to this Order being made;[^c-216e3ce1d009d4db5c353fafc5346ca1]
   - Number 2.8 Rev 6 (Height Restrictions Plan) as submitted with the application for this Order;
   - Number 2.9 Rev 1 (Onshore Connection and Transmission Works – General Arrangement) dated 10 November 2012 submitted to the Examining authority in connection with the examination of the application for this Order;
   - Number 2.10 Rev 2 (Transmission Compound – General Arrangement and Elevations) dated 16 July 2012 submitted to the Examining authority in connection with the examination of the application for this Order;
@@ -130,6 +130,6 @@ for certification that they are true copies of the documents referred to in this
 
 ## Annotations
 
-[^key-2eeedf0816b9fcb25bd905edb12a152e]: Commencement: Art. 30 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)
+[^c-2eeedf0816b9fcb25bd905edb12a152e]: Commencement: Art. 30 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)
 
-[^key-216e3ce1d009d4db5c353fafc5346ca1]: Textual amendment: Words in [art. 30(1)(f)](https://www.legislation.gov.uk/uksi/2013/1203/article/30/1/f) substituted (21.8.2013) by [The Galloper Wind Farm (Correction) Order 2013 (S.I. 2013/2086)](https://www.legislation.gov.uk/uksi/2013/2086), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2086/article/1), [2](https://www.legislation.gov.uk/uksi/2013/2086/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/2086/schedule)
+[^c-216e3ce1d009d4db5c353fafc5346ca1]: Textual amendment: Words in [art. 30(1)(f)](https://www.legislation.gov.uk/uksi/2013/1203/article/30/1/f) substituted (21.8.2013) by [The Galloper Wind Farm (Correction) Order 2013 (S.I. 2013/2086)](https://www.legislation.gov.uk/uksi/2013/2086), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2086/article/1), [2](https://www.legislation.gov.uk/uksi/2013/2086/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/2086/schedule)

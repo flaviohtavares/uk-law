@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. New crofts: power to determine applicant will become the owner-occupier crofter[^key-cb499f3b598a7c079bf6473d340514f4]
+## 11. New crofts: power to determine applicant will become the owner-occupier crofter[^c-cb499f3b598a7c079bf6473d340514f4]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb499f3b598a7c079bf6473d340514f4]: Commencement: S. 11 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-cb499f3b598a7c079bf6473d340514f4]: Commencement: S. 11 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

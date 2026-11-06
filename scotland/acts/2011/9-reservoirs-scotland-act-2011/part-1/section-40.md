@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Preliminary and final certificates: compliance[^key-18f27b51087467c58fc23847db3459ec]
+## 40. Preliminary and final certificates: compliance[^c-18f27b51087467c58fc23847db3459ec]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The reservoir manager of a controlled reservoir must (subject to section 60(3)) 
 
 ## Annotations
 
-[^key-18f27b51087467c58fc23847db3459ec]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2011/9/section/40) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-18f27b51087467c58fc23847db3459ec]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2011/9/section/40) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

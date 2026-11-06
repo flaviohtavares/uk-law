@@ -31,7 +31,7 @@ summary: ''
 
 Criminal Law, England And Wales
 
-The Criminal Justice (Electronic Monitoring) (Responsible Person) (No. 2) Order 2016 (revoked)[^key-713a2e8cc0d00d04d517433277dc4a02]
+The Criminal Justice (Electronic Monitoring) (Responsible Person) (No. 2) Order 2016 (revoked)[^c-713a2e8cc0d00d04d517433277dc4a02]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 17th October 2016
 
-[^key-713a2e8cc0d00d04d517433277dc4a02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-713a2e8cc0d00d04d517433277dc4a02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-713a2e8cc0d00d04d517433277dc4a02]
+## 1. Citation and commencement[^c-713a2e8cc0d00d04d517433277dc4a02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Person responsible for monitoring of persons on bail[^key-713a2e8cc0d00d04d517433277dc4a02]
+## 2. Person responsible for monitoring of persons on bail[^c-713a2e8cc0d00d04d517433277dc4a02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Person responsible for monitoring of persons subject to community orders and suspended sentence orders[^key-713a2e8cc0d00d04d517433277dc4a02]
+## 3. Person responsible for monitoring of persons subject to community orders and suspended sentence orders[^c-713a2e8cc0d00d04d517433277dc4a02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-713a2e8cc0d00d04d517433277dc4a02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-713a2e8cc0d00d04d517433277dc4a02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-713a2e8cc0d00d04d517433277dc4a02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-713a2e8cc0d00d04d517433277dc4a02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-713a2e8cc0d00d04d517433277dc4a02]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/961) revoked (30.4.2024) by [The Electronic Monitoring (Responsible Persons) (Miscellaneous) Regulations 2024 (S.I. 2024/340)](https://www.legislation.gov.uk/uksi/2024/340), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2024/340/regulation/2/1), [9(1)(a)](https://www.legislation.gov.uk/uksi/2024/340/regulation/9/1/a)
+[^c-713a2e8cc0d00d04d517433277dc4a02]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/961) revoked (30.4.2024) by [The Electronic Monitoring (Responsible Persons) (Miscellaneous) Regulations 2024 (S.I. 2024/340)](https://www.legislation.gov.uk/uksi/2024/340), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2024/340/regulation/2/1), [9(1)(a)](https://www.legislation.gov.uk/uksi/2024/340/regulation/9/1/a)

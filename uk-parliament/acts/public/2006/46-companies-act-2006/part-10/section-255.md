@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255. Director “controlling” a body corporate[^key-8c8aab07f77f20a10ab8d4ff62e95a07]
+## 255. Director “controlling” a body corporate[^c-8c8aab07f77f20a10ab8d4ff62e95a07]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c8aab07f77f20a10ab8d4ff62e95a07]: Modification: Ss. 252-255 applied (with modifications) (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [ss. 49(5)](https://www.legislation.gov.uk/ukpga/2014/14/section/49/5), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-8c8aab07f77f20a10ab8d4ff62e95a07]: Modification: Ss. 252-255 applied (with modifications) (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [ss. 49(5)](https://www.legislation.gov.uk/ukpga/2014/14/section/49/5), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

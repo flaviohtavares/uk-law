@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Verification of application[^key-054cfe76e831f4e4afe099bc29332324]
+## 11. Verification of application[^c-054cfe76e831f4e4afe099bc29332324]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-054cfe76e831f4e4afe099bc29332324]: Commencement: Rule 11 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-054cfe76e831f4e4afe099bc29332324]: Commencement: Rule 11 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

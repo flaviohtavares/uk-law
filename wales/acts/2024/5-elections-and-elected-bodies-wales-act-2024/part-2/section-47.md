@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Electoral review recommendations and decisions: period before a local election[^key-000fdadca06f23483e72bac4c78ba5dd]
+## 47. Electoral review recommendations and decisions: period before a local election[^c-000fdadca06f23483e72bac4c78ba5dd]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-000fdadca06f23483e72bac4c78ba5dd]: Commencement: [S. 47](https://www.legislation.gov.uk/asc/2024/5/section/47) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)
+[^c-000fdadca06f23483e72bac4c78ba5dd]: Commencement: [S. 47](https://www.legislation.gov.uk/asc/2024/5/section/47) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)

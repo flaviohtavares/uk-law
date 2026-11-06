@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Functions of prisoner custody officers in relation to live link hearings[^key-f36e46174b92ecd46ec583dad6d44fb1]
+## 58. Functions of prisoner custody officers in relation to live link hearings[^c-f36e46174b92ecd46ec583dad6d44fb1]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f36e46174b92ecd46ec583dad6d44fb1]: Commencement: S. 58 in force at 28.6.2022, see [s. 208(5)(g)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/g)
+[^c-f36e46174b92ecd46ec583dad6d44fb1]: Commencement: S. 58 in force at 28.6.2022, see [s. 208(5)(g)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/g)

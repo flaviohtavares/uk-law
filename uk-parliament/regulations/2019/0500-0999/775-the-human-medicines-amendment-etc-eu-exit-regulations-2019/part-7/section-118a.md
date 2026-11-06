@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118A. Amendment of regulation 134 (failure to place on the market etc.)[^M_I_43bb0cdf-a452-45d2-b5a2-d5df8c6614a1][^key-c15c4b76f503b8d07475d7dc874aaa04]
+## 118A. Amendment of regulation 134 (failure to place on the market etc.)[^M_I_43bb0cdf-a452-45d2-b5a2-d5df8c6614a1][^c-c15c4b76f503b8d07475d7dc874aaa04]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^M_I_43bb0cdf-a452-45d2-b5a2-d5df8c6614a1]: Commencement: Reg. 118A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c15c4b76f503b8d07475d7dc874aaa04]: Textual amendment: Reg. 118A inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 90](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/90)
+[^c-c15c4b76f503b8d07475d7dc874aaa04]: Textual amendment: Reg. 118A inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 90](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/90)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Power of certain bodies to charge fees for advice in relation to applications under the Planning Acts[^key-6d6fccd9b799f442c9d02b335a2c3624]
+## 134. Power of certain bodies to charge fees for advice in relation to applications under the Planning Acts[^c-6d6fccd9b799f442c9d02b335a2c3624]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ After section 303ZA of the TCPA 1990 (fees for appeals) insert—
 
 ## Annotations
 
-[^key-6d6fccd9b799f442c9d02b335a2c3624]: Commencement: S. 134 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-6d6fccd9b799f442c9d02b335a2c3624]: Commencement: S. 134 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)

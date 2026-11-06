@@ -43,7 +43,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Employment and Learning[^f00001], in exercise of the powers conferred by Articles 3(3), 4(3), 11(1) and (4) of the Pneumoconiosis, etc., (Workers' Compensation) (Northern Ireland) Order 1979[^f00002] and now vested in it[^f00003] and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-3c0b2f25f1cb24ddf23eb3fd62032743]
+## 1. Citation, commencement and interpretation[^c-3c0b2f25f1cb24ddf23eb3fd62032743]
 
 (1) These Regulations may be cited as the Pneumoconiosis, etc., (Workers' Compensation) (Payment of Claims) (Amendment) Regulations (Northern Ireland) 2002 and shall come into operation on the day after they are approved by resolution of the Assembly.
 
@@ -52,7 +52,7 @@ The Department for Employment and Learning[^f00001], in exercise of the powers c
 - (a) “the Order” means the Pneumoconiosis, etc., (Workers' Compensation) (Northern Ireland) Order 1979;
 - (b) “the principal Regulations” means the Pneumoconiosis, etc., (Workers' Compensation) (Payment of Claims) Regulations (Northern Ireland) 1988[^f00004].
 
-## 2. Amendment of the principal Regulations[^key-8a1f5d5bda919c4545fa912d8b3ddb00][^key-ac36057020986cc1c129bbfe637d2946]
+## 2. Amendment of the principal Regulations[^c-8a1f5d5bda919c4545fa912d8b3ddb00][^c-ac36057020986cc1c129bbfe637d2946]
 
 (1) The principal Regulations shall be amended in accordance with paragraphs (2) to (4) in relation to any case in which a person first satisfies the conditions of entitlement to a payment under the Order on or after the day on which these Regulations come into operation.
 
@@ -64,7 +64,7 @@ A senior officer of the
 
 Department for Employment and Learning
 
-## SCHEDULE[^key-e71fb3919f561cf0d15b45e517b57a7b]
+## SCHEDULE[^c-e71fb3919f561cf0d15b45e517b57a7b]
 
 Regulation 2(2)
 
@@ -235,12 +235,12 @@ The diseases to which the Order applies are pneumoconiosis, byssinosis, diffuse 
 
 [^f00003]: Footnote: The Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)) transferred functions under the Pneumoconiosis, etc., (Workers' Compensation) (Northern Ireland) Order 1979 to the Department of Higher and Further Education, Training and Employment, now renamed the Department for Employment and Learning
 
-[^key-3c0b2f25f1cb24ddf23eb3fd62032743]: Commencement: Reg. 1 in operation at 23.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/133/regulation/1/1)
+[^c-3c0b2f25f1cb24ddf23eb3fd62032743]: Commencement: Reg. 1 in operation at 23.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/133/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1988 No. 242](https://www.legislation.gov.uk/nisr/1988/242) as amended by [S.R. 1989 No. 240](https://www.legislation.gov.uk/nisr/1989/240), [S.R. 1991 No. 120](https://www.legislation.gov.uk/nisr/1991/120), [S.R. 1992 No. 213](https://www.legislation.gov.uk/nisr/1992/213), [S.R. 1993 No. 325](https://www.legislation.gov.uk/nisr/1993/325), [S.R. 1995 No. 338](https://www.legislation.gov.uk/nisr/1995/338), [S.R. 1996 No. 485](https://www.legislation.gov.uk/nisr/1996/485), [S.R. 1997 No. 409](https://www.legislation.gov.uk/nisr/1997/409), [S.R. 1998 No. 358](https://www.legislation.gov.uk/nisr/1998/358) and [S.R. 2000 No. 134](https://www.legislation.gov.uk/nisr/2000/134)
 
-[^key-8a1f5d5bda919c4545fa912d8b3ddb00]: Commencement: Reg. 2 in operation at 23.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/133/regulation/1/1)
+[^c-8a1f5d5bda919c4545fa912d8b3ddb00]: Commencement: Reg. 2 in operation at 23.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/133/regulation/1/1)
 
-[^key-ac36057020986cc1c129bbfe637d2946]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2002/133/regulation/2/1) substituted (11.4.2004) by [Pneumoconiosis, etc., (Workers' Compensation) (Payment of Claims) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/124)](https://www.legislation.gov.uk/nisr/2004/124), [regs. 1](https://www.legislation.gov.uk/nisr/2004/124/regulation/1), [2](https://www.legislation.gov.uk/nisr/2004/124/regulation/2)
+[^c-ac36057020986cc1c129bbfe637d2946]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2002/133/regulation/2/1) substituted (11.4.2004) by [Pneumoconiosis, etc., (Workers' Compensation) (Payment of Claims) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/124)](https://www.legislation.gov.uk/nisr/2004/124), [regs. 1](https://www.legislation.gov.uk/nisr/2004/124/regulation/1), [2](https://www.legislation.gov.uk/nisr/2004/124/regulation/2)
 
-[^key-e71fb3919f561cf0d15b45e517b57a7b]: Commencement: Sch. in operation at 23.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/133/regulation/1/1)
+[^c-e71fb3919f561cf0d15b45e517b57a7b]: Commencement: Sch. in operation at 23.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/133/regulation/1/1)

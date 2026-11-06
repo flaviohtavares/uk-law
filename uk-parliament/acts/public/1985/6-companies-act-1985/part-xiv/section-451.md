@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 451. Punishment for furnishing false information.[^key-9e16c955df269a1d2717e3bac17f5fe7][^c17416231][^c17416241][^c19377711][^c19376641]
+## 451. Punishment for furnishing false information.[^c-9e16c955df269a1d2717e3bac17f5fe7][^c17416231][^c17416241][^c19377711][^c19376641]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9e16c955df269a1d2717e3bac17f5fe7]: Modification: S. 451 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
+[^c-9e16c955df269a1d2717e3bac17f5fe7]: Modification: S. 451 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
 
 [^c17416231]: Modification: S. 451 extended (with modifications) by [S.I. 1989/638](https://www.legislation.gov.uk/uksi/1989/638), [regs. 18](https://www.legislation.gov.uk/uksi/1989/638/regulation/18), [21](https://www.legislation.gov.uk/uksi/1989/638/regulation/21), [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/1989/638/schedule/4/paragraph/11)
 

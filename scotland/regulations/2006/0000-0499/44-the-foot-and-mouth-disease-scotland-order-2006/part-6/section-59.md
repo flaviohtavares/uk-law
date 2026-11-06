@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Amendment to the Diseases of Animals (Approved Disinfectants) Order 1978[^key-351a543659d309f3a7060090913ea4c2]
+## 59. Amendment to the Diseases of Animals (Approved Disinfectants) Order 1978[^c-351a543659d309f3a7060090913ea4c2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-351a543659d309f3a7060090913ea4c2]: Textual amendment: [Art. 59](https://www.legislation.gov.uk/ssi/2006/44/article/59) revoked (23.6.2008) by [The Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008 (S.S.I. 2008/219)](https://www.legislation.gov.uk/ssi/2008/219), [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2008/219/schedule)
+[^c-351a543659d309f3a7060090913ea4c2]: Textual amendment: [Art. 59](https://www.legislation.gov.uk/ssi/2006/44/article/59) revoked (23.6.2008) by [The Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008 (S.S.I. 2008/219)](https://www.legislation.gov.uk/ssi/2008/219), [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2008/219/schedule)

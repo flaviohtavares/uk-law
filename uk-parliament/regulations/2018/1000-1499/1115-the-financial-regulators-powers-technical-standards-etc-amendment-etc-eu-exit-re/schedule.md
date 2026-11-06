@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE[^key-cd87594ac056156933bc3bd91ac05279]
+## SCHEDULE[^c-cd87594ac056156933bc3bd91ac05279]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ Regulation 2
 
 **1.** Commission Delegated Regulation (EU) 694/2014 supplementing Directive 2011/61/EU of the European Parliament and of the Council with regard to regulatory technical standards determining types of alternative investment fund managers [^c23418691].
 
-#### Benchmarks Regulation[^key-57e65d5ad171ec49c91639dda4a05bb9]
+#### Benchmarks Regulation[^c-57e65d5ad171ec49c91639dda4a05bb9]
 
 **1A.** [Commission Implementing Regulation (EU) 2018/1105](https://www.legislation.gov.uk/eur/2018/1105) of 8 August 2018 laying down implementing technical standards with regard to procedures and forms for the provision of information by competent authorities to ESMA under [Regulation (EU) 2016/1011](https://www.legislation.gov.uk/eur/2016/1011) of the European Parliament and of the Council.
 
@@ -66,9 +66,9 @@ Regulation 2
 
 **6.** Commission Delegated Regulation (EU) 2015/3 of 30 September 2014 supplementing Regulation [(EC) 1060/2009](https://www.legislation.gov.uk/eur/2009/1060) of the European Parliament and of the Council with regard to regulatory technical standards on disclosure requirements for structured finance instruments [^c23418741].
 
-#### European Long-term Investment Funds Regulation[^key-d28536f9b946cb55c81a1edd3199e19b]
+#### European Long-term Investment Funds Regulation[^c-d28536f9b946cb55c81a1edd3199e19b]
 
-**6A.**[^key-480d9e8b0abe18a32371840d31704c03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6A.**[^c-480d9e8b0abe18a32371840d31704c03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### European Markets Infrastructure Regulation
 
@@ -78,7 +78,7 @@ Regulation 2
 
 **9.** Commission Delegated Regulation (EU) 151/2013 of 19 December 2012 supplementing Regulation (EU) 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories, with regard to regulatory technical standards specifying the data to be published and made available by trade repositories and operational standards for aggregating, comparing and accessing the data [^c23418771].
 
-**9A.**[^key-982567056562504b06a92b42cce5fe51] Commission Delegated Regulation (EU) 2020/447 of 16 December 2019 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council with regard to regulatory technical standards on the specification of criteria for establishing the arrangements to adequately mitigate counterparty credit risk associated with covered bonds and securitisations, and amending Delegated Regulations (EU) 2015/2205 and (EU) 2016/1178.
+**9A.**[^c-982567056562504b06a92b42cce5fe51] Commission Delegated Regulation (EU) 2020/447 of 16 December 2019 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council with regard to regulatory technical standards on the specification of criteria for establishing the arrangements to adequately mitigate counterparty credit risk associated with covered bonds and securitisations, and amending Delegated Regulations (EU) 2015/2205 and (EU) 2016/1178.
 
 #### European Social Entrepreneurship Fund Regulation
 
@@ -88,11 +88,11 @@ Regulation 2
 
 **11.** Commission Implementing Regulation (EU) 593/2014 of 3 June 2014 laying down implementing technical standards with regard to the format of the notification according to Article 16(1) of Regulation (EU) 345/2013 of the European Parliament and of the Council on European venture capital funds [^c23418791].
 
-#### Fourth Money Laundering Directive[^key-27f0ea4ba8f3114b81818a5fe882ae2b]
+#### Fourth Money Laundering Directive[^c-27f0ea4ba8f3114b81818a5fe882ae2b]
 
 **11A.** Commission Delegated Regulation (EU) 2019/758 of 31 January 2019 supplementing Directive (EU) 2015/849 of the European Parliament and of the Council with regard to regulatory technical standards for the minimum action and the type of additional measures credit and financial institutions must take to mitigate money laundering and terrorist financing risk in certain third countries.
 
-**11B.**[^key-930fdebcda444dff7b5f405da764195b] Commission Delegated Regulation (EU) 2018/1108 of 7 May 2018 supplementing Directive (EU) 2015/849 of the European Parliament and of the Council with regulatory technical standards on the criteria for the appointment of central contact points for electronic money issuers and payment service providers and with rules on their functions.
+**11B.**[^c-930fdebcda444dff7b5f405da764195b] Commission Delegated Regulation (EU) 2018/1108 of 7 May 2018 supplementing Directive (EU) 2015/849 of the European Parliament and of the Council with regulatory technical standards on the criteria for the appointment of central contact points for electronic money issuers and payment service providers and with rules on their functions.
 
 #### Insurance Distribution Directive
 
@@ -124,7 +124,7 @@ Regulation 2
 
 **24.** Commission Implementing Regulation (EU) 2017/1158 of 29 June 2017 laying down implementing technical standards with regards to the procedures and forms for competent authorities exchanging information with the European Securities Market Authority [^c23418921].
 
-**24A.**[^key-e1f325ea463626a8f571cf47ca635f93] [Commission Implementing Regulation (EU) 2018/292](https://www.legislation.gov.uk/eur/2018/0292) of 26 February 2018 laying down implementing technical standards with regard to procedures and forms for exchange of information and assistance between competent authorities according to [Regulation (EU) No 596/2014](https://www.legislation.gov.uk/eur/2014/0596) of the European Parliament and of the Council on market abuse.
+**24A.**[^c-e1f325ea463626a8f571cf47ca635f93] [Commission Implementing Regulation (EU) 2018/292](https://www.legislation.gov.uk/eur/2018/0292) of 26 February 2018 laying down implementing technical standards with regard to procedures and forms for exchange of information and assistance between competent authorities according to [Regulation (EU) No 596/2014](https://www.legislation.gov.uk/eur/2014/0596) of the European Parliament and of the Council on market abuse.
 
 #### Markets in financial instruments directive
 
@@ -208,7 +208,7 @@ Regulation 2
 
 **63.** Commission Delegated Regulation (EU) 2017/2194 of 14 August 2017 supplementing Regulation (EU) 600/2014 of the European Parliament and of the Council on markets in financial instruments with regard to package orders [^c23419311].
 
-#### Money Market Funds Regulation[^key-96ab4974ca41cc699af5cac2c1f85a94]
+#### Money Market Funds Regulation[^c-96ab4974ca41cc699af5cac2c1f85a94]
 
 **63A.** Commission Implementing Regulation (EU) 2018/708 of 17 April 2018 laying down implementing technical standards with regard to the template to be used by managers of money market funds when reporting to competent authorities as stipulated by Article 37 of Regulation (EU) 2017/1131 of the European Parliament and of the Council.
 
@@ -216,11 +216,11 @@ Regulation 2
 
 **64.** Commission Delegated Regulation (EU) 1125/2014 of 19 September 2014 supplementing Directive 2014/17/EU of the European Parliament and of the Council with regard to regulatory technical standards on the minimum monetary amount of the professional indemnity insurance or comparable guarantee to be held by credit intermediaries [^c23419321].
 
-#### ...[^key-130c49d5637a3de557d1fa83d8e121d2]
+#### ...[^c-130c49d5637a3de557d1fa83d8e121d2]
 
-**65.**[^key-130c49d5637a3de557d1fa83d8e121d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**65.**[^c-130c49d5637a3de557d1fa83d8e121d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Payment Accounts Directive[^key-211e951a7c9c6f1cf31bfa8f02a80342]
+#### Payment Accounts Directive[^c-211e951a7c9c6f1cf31bfa8f02a80342]
 
 **65A.** Commission Implementing Regulation (EU) 2018/33 of 28 September 2017 laying down implementing technical standards with regard to the standardised presentation format of the statement of fees and its common symbol according to [Directive 2014/92/EU](https://www.legislation.gov.uk/eudr/2014/0092) of the European Parliament and of the Council.
 
@@ -230,21 +230,21 @@ Regulation 2
 
 **66.** Commission Delegated Regulation (EU) 2017/2055 of 23 June 2017 supplementing Directive (EU) 2015/2366 of the European Parliament and of the Council with regard to regulatory technical standards for the cooperation and exchange of information between competent authorities relating to the exercise of the right of establishment and the freedom to provide services of payment institutions [^c23419341].
 
-**67.** [^key-02d3e50c9272df1e70e91dd4914dddfc]... Commission Delegated Regulation 2018/389 supplementing Directive (EU) 2015/2366 of the European Parliament and of the Council with regard to regulatory technical standards for strong customer authentication and common secure open standards of communication [^c23419351].
+**67.** [^c-02d3e50c9272df1e70e91dd4914dddfc]... Commission Delegated Regulation 2018/389 supplementing Directive (EU) 2015/2366 of the European Parliament and of the Council with regard to regulatory technical standards for strong customer authentication and common secure open standards of communication [^c23419351].
 
-**67A.**[^key-4b196654de696d1e32243eeb16992f79] Commission Implementing Regulation (EU) 2019/410 of 29 November 2018 laying down implementing technical standards with regard to the details and structure of the information to be notified, in the field of payment services, by competent authorities to the European Banking Authority pursuant to Directive (EU) 2015/2366 of the European Parliament and of the Council.
+**67A.**[^c-4b196654de696d1e32243eeb16992f79] Commission Implementing Regulation (EU) 2019/410 of 29 November 2018 laying down implementing technical standards with regard to the details and structure of the information to be notified, in the field of payment services, by competent authorities to the European Banking Authority pursuant to Directive (EU) 2015/2366 of the European Parliament and of the Council.
 
 **67B.** Commission Delegated Regulation (EU) 2019/411 of 29 November 2018 supplementing Directive (EU) 2015/2366 of the European Parliament and of the Council with regard to regulatory technical standards setting technical requirements on development, operation and maintenance of the electronic central register within the field of the payment services and on access to the information contained therein.
 
 #### Prospectus Regulation[^M_F_3050a63f-6afa-47f6-cee9-b004026cd01e]
 
-**68.**[^key-583bbb8ff9ab854a7edecc63044975cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**68.**[^c-583bbb8ff9ab854a7edecc63044975cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**69.**[^key-63f2218bf0724b951fb3920ebf7231d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69.**[^c-63f2218bf0724b951fb3920ebf7231d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**69ZA.**[^key-698e6f2a900e55957348ffe69646a473] Commission Delegated Regulation (EU) 2019/979 of 14 March 2019 supplementing Regulation (EU) 2017/1129 of the European Parliament and of the Council with regard to regulatory technical standards on key financial information in the summary of a prospectus, the publication and classification of prospectuses, advertisements for securities, supplements to a prospectus, and the notification portal, and repealing Commission Delegated Regulation (EU) No 382/2014 and Commission Delegated Regulation (EU) 2016/301.
+**69ZA.**[^c-698e6f2a900e55957348ffe69646a473] Commission Delegated Regulation (EU) 2019/979 of 14 March 2019 supplementing Regulation (EU) 2017/1129 of the European Parliament and of the Council with regard to regulatory technical standards on key financial information in the summary of a prospectus, the publication and classification of prospectuses, advertisements for securities, supplements to a prospectus, and the notification portal, and repealing Commission Delegated Regulation (EU) No 382/2014 and Commission Delegated Regulation (EU) 2016/301.
 
-#### Securities Financing Transactions Regulation[^key-9a7467715d07d04fbc23bdbafeb449b3]
+#### Securities Financing Transactions Regulation[^c-9a7467715d07d04fbc23bdbafeb449b3]
 
 **69A.** Commission Delegated Regulation (EU) 2019/357 of 13 December 2018 supplementing Regulation (EU) 2015/2365 of the European Parliament and of the Council with regard to regulatory technical standards on access to details of securities financing transactions (SFTs) held in trade repositories.
 
@@ -256,29 +256,29 @@ Regulation 2
 
 **69E.** Commission Implementing Regulation (EU) 2019/365 of 13 December 2018 laying down implementing technical standards with regard to the procedures and forms for exchange of information on sanctions, measures and investigations in accordance with Regulation (EU) 2015/2365 of the European Parliament and of the Council.
 
-#### ...[^key-b5741e4449f639ac39593859854aa856]
+#### ...[^c-b5741e4449f639ac39593859854aa856]
 
-**69F.**[^key-b5741e4449f639ac39593859854aa856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69F.**[^c-b5741e4449f639ac39593859854aa856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**69G.**[^key-b5741e4449f639ac39593859854aa856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69G.**[^c-b5741e4449f639ac39593859854aa856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**69H.**[^key-b5741e4449f639ac39593859854aa856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69H.**[^c-b5741e4449f639ac39593859854aa856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**69I.**[^key-b5741e4449f639ac39593859854aa856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69I.**[^c-b5741e4449f639ac39593859854aa856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**69J.**[^key-b5741e4449f639ac39593859854aa856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69J.**[^c-b5741e4449f639ac39593859854aa856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**69K.**[^key-b5741e4449f639ac39593859854aa856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69K.**[^c-b5741e4449f639ac39593859854aa856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**69L.**[^key-b5741e4449f639ac39593859854aa856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69L.**[^c-b5741e4449f639ac39593859854aa856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Short Selling Regulation
 
-**70.**[^key-08b435516fdecc34f99913555db7ba35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**70.**[^c-08b435516fdecc34f99913555db7ba35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**71.**[^key-83af21fb7e97222ae7b01276bb32fffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**71.**[^c-83af21fb7e97222ae7b01276bb32fffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**72.**[^key-f26de20626264c200ad12ad193e888f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**72.**[^c-f26de20626264c200ad12ad193e888f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Transparency Directive
 
@@ -286,7 +286,7 @@ Regulation 2
 
 **74.** Commission Delegated Regulation (EU) 2016/1437 of 19 May 2016 supplementing Directive [2004/109/EC](https://www.legislation.gov.uk/eudr/2004/109) of the European Parliament and of the Council with regard to regulatory technical standards on access to regulated information at Union level [^c23419421].
 
-**74A.**[^key-c70b1cc536bfbd0bb82525ec765c088c] Commission Delegated Regulation (EU) 2019/815 of 17 December 2018 supplementing [Directive 2004/109/EC](https://www.legislation.gov.uk/eudr/2004/0109) of the European Parliament and of the Council with regard to regulatory technical standards on the specification of a single electronic reporting format.
+**74A.**[^c-c70b1cc536bfbd0bb82525ec765c088c] Commission Delegated Regulation (EU) 2019/815 of 17 December 2018 supplementing [Directive 2004/109/EC](https://www.legislation.gov.uk/eudr/2004/0109) of the European Parliament and of the Council with regard to regulatory technical standards on the specification of a single electronic reporting format.
 
 #### Undertakings for Collective Investment in Transferable Securities
 
@@ -366,7 +366,7 @@ Regulation 2
 
 **104.** Commission Implementing Regulation (EU) 2016/962 of 16 June 2016 laying down implementing technical standards with regard to the uniform formats, templates and definitions for the identification and transmission of information by competent authorities and resolution authorities to the European Banking Authority according to Directive 2014/59/EU of the European Parliament and of the Council [^c23419721].
 
-**105.**[^key-c03959566bdcd1688a277ac34398984c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**105.**[^c-c03959566bdcd1688a277ac34398984c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **106.** Articles 22 to 32, 37 to 41 and 50 to 109 of Commission Delegated Regulation (EU) 2016/1075 of 23 March 2016 supplementing Directive 2014/59/EU of the European Parliament and of the Council with regard to regulatory technical standards specifying the content of recovery plans, resolution plans and group resolution plans, the minimum criteria that the competent authority is to assess as regards recovery plans and group recovery plans, the conditions for group financial support, the requirements for independent valuers, the contractual recognition of write-down and conversion powers, the procedures and contents of notification requirements and of notice of suspension and the operational functioning of the resolution colleges [^c23419741].
 
@@ -384,9 +384,9 @@ Regulation 2
 
 **113.** Commission Delegated Regulation (EU) 2018/345 of 14 November 2017 supplementing Directive 2014/59/EU of the European Parliament and of the Council with regard to regulatory technical standards specifying the criteria relating to the methodology for assessing the value of assets and liabilities of institutions or entities [^c23419811].
 
-**113A.**[^key-d76d51a7b17a6bb72a3e9e219032e5f4] [Commission Implementing Regulation (EU) 2018/1624](https://www.legislation.gov.uk/eur/2018/1624) of 23 October 2018 laying down implementing technical standards with regard to procedures and standard forms and templates for the provision of information for the purposes of resolution plans for credit institutions and investment firms pursuant to [Directive 2014/59/EU](https://www.legislation.gov.uk/eudr/2014/0059) of the European Parliament and of the Council, and repealing [Commission Implementing Regulation (EU) 2016/1066](https://www.legislation.gov.uk/eur/2016/1066).
+**113A.**[^c-d76d51a7b17a6bb72a3e9e219032e5f4] [Commission Implementing Regulation (EU) 2018/1624](https://www.legislation.gov.uk/eur/2018/1624) of 23 October 2018 laying down implementing technical standards with regard to procedures and standard forms and templates for the provision of information for the purposes of resolution plans for credit institutions and investment firms pursuant to [Directive 2014/59/EU](https://www.legislation.gov.uk/eudr/2014/0059) of the European Parliament and of the Council, and repealing [Commission Implementing Regulation (EU) 2016/1066](https://www.legislation.gov.uk/eur/2016/1066).
 
-**113B.**[^key-09be8e5519bf8bc263c37d1aeeeff9f6] Commission Delegated Regulation (EU) 2019/348 of 25 October 2018 supplementing [Directive 2014/59/EU](https://www.legislation.gov.uk/eudr/2014/0059) of the European Parliament and of the Council with regard to regulatory technical standards specifying the criteria for assessing the impact of an institution’s failure on financial markets, on other institutions and on funding conditions .
+**113B.**[^c-09be8e5519bf8bc263c37d1aeeeff9f6] Commission Delegated Regulation (EU) 2019/348 of 25 October 2018 supplementing [Directive 2014/59/EU](https://www.legislation.gov.uk/eudr/2014/0059) of the European Parliament and of the Council with regard to regulatory technical standards specifying the criteria for assessing the impact of an institution’s failure on financial markets, on other institutions and on funding conditions .
 
 #### Central Securities Depositories Regulation
 
@@ -510,7 +510,7 @@ Regulation 2
 
 **168.** Commission Delegated Regulation (EU) 2018/728 of 24 January 2018 supplementing Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to regulatory technical standards for procedures for excluding transactions with non-financial counterparties established in a third country from the own funds requirement for credit valuation adjustment risk [^c23420361].
 
-**168A.**[^key-a9e029ad3ed3d9d4f7e6bd8f3c16d862] [Commission Delegated Regulation (EU) 2018/959](https://www.legislation.gov.uk/eur/2018/0959) of 14 March 2018 supplementing [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/eur/2013/0575) of the European Parliament and of the Council with regard to regulatory technical standards of the specification of the assessment methodology under which competent authorities permit institutions to use Advanced Measurement Approaches for operational risk.
+**168A.**[^c-a9e029ad3ed3d9d4f7e6bd8f3c16d862] [Commission Delegated Regulation (EU) 2018/959](https://www.legislation.gov.uk/eur/2018/0959) of 14 March 2018 supplementing [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/eur/2013/0575) of the European Parliament and of the Council with regard to regulatory technical standards of the specification of the assessment methodology under which competent authorities permit institutions to use Advanced Measurement Approaches for operational risk.
 
 #### European Markets Infrastructure Regulation
 
@@ -532,15 +532,15 @@ Regulation 2
 
 #### ...[^M_F_8a593c93-43fb-4fe8-a80d-50058ef79d3d]
 
-**174ZA.**[^key-a68b79321f4a656f2554ab571d1180bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**174ZA.**[^c-a68b79321f4a656f2554ab571d1180bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**174ZB.**[^key-a68b79321f4a656f2554ab571d1180bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**174ZB.**[^c-a68b79321f4a656f2554ab571d1180bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 5 — EU Regulations for which the appropriate regulator is both the FCA and the Bank of England
 
 #### Markets in Financial Instruments Regulation
 
-**174A.**[^key-22c657e751d9db25d70e961ee1e34c06] Commission Delegated Regulation (EU) 2016/2021 of 2 June 2016 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council on markets in financial instruments with regard to regulatory technical standards on access in respect of benchmarks.
+**174A.**[^c-22c657e751d9db25d70e961ee1e34c06] Commission Delegated Regulation (EU) 2016/2021 of 2 June 2016 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council on markets in financial instruments with regard to regulatory technical standards on access in respect of benchmarks.
 
 **175.** Commission Delegated Regulation (EU) 2017/581 of 24 June 2016 supplementing Regulation (EU) 600/2014 of the European Parliament and of the Council with regard to regulatory technical standards on clearing access in respect of trading venues and central counterparties [^c23420431].
 
@@ -564,7 +564,7 @@ Regulation 2
 
 **184.** Commission Delegated Regulation (EU) 2016/1178 of 10 June 2016 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council with regard to regulatory technical standards on the clearing obligation [^c23420521].
 
-#### Securities Financing Transactions Regulation[^key-3b39ef9f0936581d430a0e049674273d]
+#### Securities Financing Transactions Regulation[^c-3b39ef9f0936581d430a0e049674273d]
 
 **184A.** Commission Delegated Regulation (EU) 2019/356 of 13 December 2018 supplementing Regulation (EU) 2015/2365 of the European Parliament and of the Council with regard to regulatory technical standards specifying the details of securities financing transactions (SFTs) to be reported to trade repositories.
 
@@ -578,11 +578,11 @@ Regulation 2
 
 ## Annotations
 
-[^key-cd87594ac056156933bc3bd91ac05279]: Modification: Sch. modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(2)(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/2/4) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cd87594ac056156933bc3bd91ac05279]: Modification: Sch. modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(2)(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/2/4) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23418691]: Marginal citation: OJ L183, 24.6.2014, p.18.
 
-[^key-57e65d5ad171ec49c91639dda4a05bb9]: Textual amendment: Sch. paras. 1A-1L and cross-heading inserted (15.3.2019) by [The Financial Regulators Powers (Technical Standards etc.) and Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/576)](https://www.legislation.gov.uk/uksi/2019/576), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/576/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/576/regulation/2/2)
+[^c-57e65d5ad171ec49c91639dda4a05bb9]: Textual amendment: Sch. paras. 1A-1L and cross-heading inserted (15.3.2019) by [The Financial Regulators Powers (Technical Standards etc.) and Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/576)](https://www.legislation.gov.uk/uksi/2019/576), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/576/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/576/regulation/2/2)
 
 [^c23418701]: Marginal citation: OJ L140, 30.5.2012, p.14.
 
@@ -594,9 +594,9 @@ Regulation 2
 
 [^c23418741]: Marginal citation: OJ L2, 6.1.2015, p.57.
 
-[^key-d28536f9b946cb55c81a1edd3199e19b]: Textual amendment: Sch. para. 6A and cross-heading inserted (21.2.2019) by [The Long-term Investment Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/336)](https://www.legislation.gov.uk/uksi/2019/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/336/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/336/regulation/2/2); and that same provision expressed to be inserted (15.3.2019) by virtue of [The Financial Regulators Powers (Technical Standards etc.) and Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/576)](https://www.legislation.gov.uk/uksi/2019/576), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/576/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2019/576/regulation/2/3)
+[^c-d28536f9b946cb55c81a1edd3199e19b]: Textual amendment: Sch. para. 6A and cross-heading inserted (21.2.2019) by [The Long-term Investment Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/336)](https://www.legislation.gov.uk/uksi/2019/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/336/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/336/regulation/2/2); and that same provision expressed to be inserted (15.3.2019) by virtue of [The Financial Regulators Powers (Technical Standards etc.) and Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/576)](https://www.legislation.gov.uk/uksi/2019/576), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/576/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2019/576/regulation/2/3)
 
-[^key-480d9e8b0abe18a32371840d31704c03]: Textual amendment: [Sch. para. 6A](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/6A) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/1410/regulation/13)
+[^c-480d9e8b0abe18a32371840d31704c03]: Textual amendment: [Sch. para. 6A](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/6A) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/1410/regulation/13)
 
 [^c23418751]: Marginal citation: OJ L352, 21.12.2012, p.30.
 
@@ -604,15 +604,15 @@ Regulation 2
 
 [^c23418771]: Marginal citation: OJ L52, 23.2.2013, p.33.
 
-[^key-982567056562504b06a92b42cce5fe51]: Textual amendment: [Sch. para. 9A](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/9A) inserted (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [43(2)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/43/2/a)
+[^c-982567056562504b06a92b42cce5fe51]: Textual amendment: [Sch. para. 9A](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/9A) inserted (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [43(2)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/43/2/a)
 
 [^c23418781]: Marginal citation: OJ L165, 4.6.2014, p.44.
 
 [^c23418791]: Marginal citation: OJ L165, 4.6.2014, p.41.
 
-[^key-27f0ea4ba8f3114b81818a5fe882ae2b]: Textual amendment: Sch. para. 11A and cross-heading inserted (25.10.2019) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1390)](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/8/2)
+[^c-27f0ea4ba8f3114b81818a5fe882ae2b]: Textual amendment: Sch. para. 11A and cross-heading inserted (25.10.2019) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1390)](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/8/2)
 
-[^key-930fdebcda444dff7b5f405da764195b]: Textual amendment: [Sch. para. 11B](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/11B) inserted (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [43(2)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/43/2/b)
+[^c-930fdebcda444dff7b5f405da764195b]: Textual amendment: [Sch. para. 11B](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/11B) inserted (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [43(2)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/43/2/b)
 
 [^c23418801]: Marginal citation: OJ L209, 12.8.2017, p.19.
 
@@ -640,7 +640,7 @@ Regulation 2
 
 [^c23418921]: Marginal citation: OJ L167, 30.6.2017, p.22.
 
-[^key-e1f325ea463626a8f571cf47ca635f93]: Textual amendment: Sch. para. 24A inserted (15.3.2019) by [The Financial Regulators Powers (Technical Standards etc.) and Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/576)](https://www.legislation.gov.uk/uksi/2019/576), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/576/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2019/576/regulation/2/4)
+[^c-e1f325ea463626a8f571cf47ca635f93]: Textual amendment: Sch. para. 24A inserted (15.3.2019) by [The Financial Regulators Powers (Technical Standards etc.) and Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/576)](https://www.legislation.gov.uk/uksi/2019/576), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/576/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2019/576/regulation/2/4)
 
 [^c23418931]: Marginal citation: OJ L137, 26.5.2016, p.10.
 
@@ -720,45 +720,45 @@ Regulation 2
 
 [^c23419311]: Marginal citation: OJ L312, 28.11.2017, p.1.
 
-[^key-96ab4974ca41cc699af5cac2c1f85a94]: Textual amendment: Sch. para. 63A and cross-heading inserted (27.2.2019) by [The Money Market Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/394)](https://www.legislation.gov.uk/uksi/2019/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/394/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/394/regulation/2)
+[^c-96ab4974ca41cc699af5cac2c1f85a94]: Textual amendment: Sch. para. 63A and cross-heading inserted (27.2.2019) by [The Money Market Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/394)](https://www.legislation.gov.uk/uksi/2019/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/394/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/394/regulation/2)
 
 [^c23419321]: Marginal citation: OJ L305, 24.10.2014, p.1.
 
-[^key-130c49d5637a3de557d1fa83d8e121d2]: Textual amendment: Sch. para. 65 and cross-heading omitted (22.11.2024 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Consumer Composite Investments (Designated Activities) Regulations 2024 (S.I. 2024/1198)](https://www.legislation.gov.uk/uksi/2024/1198), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/6); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/7/b)
+[^c-130c49d5637a3de557d1fa83d8e121d2]: Textual amendment: Sch. para. 65 and cross-heading omitted (22.11.2024 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Consumer Composite Investments (Designated Activities) Regulations 2024 (S.I. 2024/1198)](https://www.legislation.gov.uk/uksi/2024/1198), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/6); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/7/b)
 
-[^key-211e951a7c9c6f1cf31bfa8f02a80342]: Textual amendment: Sch. paras. 65A, 65B and cross-heading inserted (26.3.2019) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2019/661/regulation/17/2)
+[^c-211e951a7c9c6f1cf31bfa8f02a80342]: Textual amendment: Sch. paras. 65A, 65B and cross-heading inserted (26.3.2019) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2019/661/regulation/17/2)
 
 [^c23419341]: Marginal citation: OJ L294, 11.11.2017, p.1.
 
-[^key-02d3e50c9272df1e70e91dd4914dddfc]: Textual amendment: Words in Sch. para. 67 omitted (6.9.2019) by virtue of [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/13/2)
+[^c-02d3e50c9272df1e70e91dd4914dddfc]: Textual amendment: Words in Sch. para. 67 omitted (6.9.2019) by virtue of [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/13/2)
 
 [^c23419351]: Marginal citation: OJ L69, 13.3.2018, p.23.
 
-[^key-4b196654de696d1e32243eeb16992f79]: Textual amendment: Sch. paras. 67A, 67B inserted (25.10.2019) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1390)](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/8/3)
+[^c-4b196654de696d1e32243eeb16992f79]: Textual amendment: Sch. paras. 67A, 67B inserted (25.10.2019) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1390)](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/8/3)
 
 [^M_F_3050a63f-6afa-47f6-cee9-b004026cd01e]: Textual amendment: Word in Sch. para. 68 heading substituted (27.11.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [43(2)(c)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/43/2/d)
 
-[^key-583bbb8ff9ab854a7edecc63044975cc]: Textual amendment: Sch. para. 68 omitted (27.11.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [43(2)(d)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/43/2/d)
+[^c-583bbb8ff9ab854a7edecc63044975cc]: Textual amendment: Sch. para. 68 omitted (27.11.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [43(2)(d)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/43/2/d)
 
-[^key-63f2218bf0724b951fb3920ebf7231d1]: Textual amendment: Sch. para. 69 omitted (27.11.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [43(2)(d)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/43/2/d)
+[^c-63f2218bf0724b951fb3920ebf7231d1]: Textual amendment: Sch. para. 69 omitted (27.11.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [43(2)(d)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/43/2/d)
 
-[^key-698e6f2a900e55957348ffe69646a473]: Textual amendment: Sch. para. 69ZA inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/13/3)
+[^c-698e6f2a900e55957348ffe69646a473]: Textual amendment: Sch. para. 69ZA inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/13/3)
 
-[^key-9a7467715d07d04fbc23bdbafeb449b3]: Textual amendment: Sch. paras. 69A-69F and cross-headings inserted (25.10.2019) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1390)](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/8/4)
+[^c-9a7467715d07d04fbc23bdbafeb449b3]: Textual amendment: Sch. paras. 69A-69F and cross-headings inserted (25.10.2019) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1390)](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/8/4)
 
-[^key-b5741e4449f639ac39593859854aa856]: Textual amendment: [Sch. paras. 69F-69L](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/69F) and heading omitted (1.11.2024) by virtue of [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/8/a)
+[^c-b5741e4449f639ac39593859854aa856]: Textual amendment: [Sch. paras. 69F-69L](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/69F) and heading omitted (1.11.2024) by virtue of [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/8/a)
 
-[^key-08b435516fdecc34f99913555db7ba35]: Textual amendment: [Sch. para. 70](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/70) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/7); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
+[^c-08b435516fdecc34f99913555db7ba35]: Textual amendment: [Sch. para. 70](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/70) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/7); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
 
-[^key-83af21fb7e97222ae7b01276bb32fffd]: Textual amendment: [Sch. para. 71](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/71) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/7); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
+[^c-83af21fb7e97222ae7b01276bb32fffd]: Textual amendment: [Sch. para. 71](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/71) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/7); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
 
-[^key-f26de20626264c200ad12ad193e888f9]: Textual amendment: [Sch. para. 72](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/72) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/7); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
+[^c-f26de20626264c200ad12ad193e888f9]: Textual amendment: [Sch. para. 72](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/72) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/7); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
 
 [^c23419411]: Marginal citation: OJ L120, 13.5.2015, p.2.
 
 [^c23419421]: Marginal citation: OJ L234, 31.8.2016, p.1.
 
-[^key-c70b1cc536bfbd0bb82525ec765c088c]: Textual amendment: Sch. para. 74A inserted (30.6.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/2), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/628/regulation/5/3/a/ii)
+[^c-c70b1cc536bfbd0bb82525ec765c088c]: Textual amendment: Sch. para. 74A inserted (30.6.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/2), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/628/regulation/5/3/a/ii)
 
 [^c23419431]: Marginal citation: OJ L176, 10.7.2010, p.16.
 
@@ -820,7 +820,7 @@ Regulation 2
 
 [^c23419721]: Marginal citation: OJ L160, 17.6.2016, p.35.
 
-[^key-c03959566bdcd1688a277ac34398984c]: Textual amendment: Sch. para. 105 omitted (15.3.2019) by virtue of [The Financial Regulators Powers (Technical Standards etc.) and Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/576)](https://www.legislation.gov.uk/uksi/2019/576), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/576/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2019/576/regulation/2/5)
+[^c-c03959566bdcd1688a277ac34398984c]: Textual amendment: Sch. para. 105 omitted (15.3.2019) by virtue of [The Financial Regulators Powers (Technical Standards etc.) and Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/576)](https://www.legislation.gov.uk/uksi/2019/576), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/576/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2019/576/regulation/2/5)
 
 [^c23419741]: Marginal citation: OJ L184, 8.7.2016, p.1.
 
@@ -838,9 +838,9 @@ Regulation 2
 
 [^c23419811]: Marginal citation: OJ L67, 9.3.2018, p.8.
 
-[^key-d76d51a7b17a6bb72a3e9e219032e5f4]: Textual amendment: Sch. para. 113A inserted (15.3.2019) by [The Financial Regulators Powers (Technical Standards etc.) and Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/576)](https://www.legislation.gov.uk/uksi/2019/576), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/576/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2019/576/regulation/2/6)
+[^c-d76d51a7b17a6bb72a3e9e219032e5f4]: Textual amendment: Sch. para. 113A inserted (15.3.2019) by [The Financial Regulators Powers (Technical Standards etc.) and Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/576)](https://www.legislation.gov.uk/uksi/2019/576), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/576/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2019/576/regulation/2/6)
 
-[^key-09be8e5519bf8bc263c37d1aeeeff9f6]: Textual amendment: Sch. para. 113B inserted (25.10.2019) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1390)](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/3), [8(5)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/8/5)
+[^c-09be8e5519bf8bc263c37d1aeeeff9f6]: Textual amendment: Sch. para. 113B inserted (25.10.2019) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1390)](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/3), [8(5)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/8/5)
 
 [^c23419821]: Marginal citation: OJ L65, 10.3.2017, p.9.
 
@@ -952,7 +952,7 @@ Regulation 2
 
 [^c23420361]: Marginal citation: OJ L123, 18.5.2018, p.1.
 
-[^key-a9e029ad3ed3d9d4f7e6bd8f3c16d862]: Textual amendment: Sch. para. 168A inserted (15.3.2019) by [The Financial Regulators Powers (Technical Standards etc.) and Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/576)](https://www.legislation.gov.uk/uksi/2019/576), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/576/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2019/576/regulation/2/7)
+[^c-a9e029ad3ed3d9d4f7e6bd8f3c16d862]: Textual amendment: Sch. para. 168A inserted (15.3.2019) by [The Financial Regulators Powers (Technical Standards etc.) and Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/576)](https://www.legislation.gov.uk/uksi/2019/576), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/576/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2019/576/regulation/2/7)
 
 [^c23420371]: Marginal citation: OJ L3440, 15.12.2016, p.9.
 
@@ -968,9 +968,9 @@ Regulation 2
 
 [^M_F_8a593c93-43fb-4fe8-a80d-50058ef79d3d]: Textual amendment: [Sch. para. 174ZA](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/174ZA), [174ZB](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/174ZB) and heading omitted (1.11.2024) by virtue of [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/8/b)
 
-[^key-a68b79321f4a656f2554ab571d1180bb]: Textual amendment: [Sch. para. 174ZA](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/174ZA), [174ZB](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/174ZB) and heading omitted (1.11.2024) by virtue of [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/8/b)
+[^c-a68b79321f4a656f2554ab571d1180bb]: Textual amendment: [Sch. para. 174ZA](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/174ZA), [174ZB](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/174ZB) and heading omitted (1.11.2024) by virtue of [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/8/b)
 
-[^key-22c657e751d9db25d70e961ee1e34c06]: Textual amendment: Sch. para. 174A inserted (30.6.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2020/628/regulation/5/3/b)
+[^c-22c657e751d9db25d70e961ee1e34c06]: Textual amendment: Sch. para. 174A inserted (30.6.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2020/628/regulation/5/3/b)
 
 [^c23420431]: Marginal citation: OJ L87, 31.3.2017, p.212.
 
@@ -992,6 +992,6 @@ Regulation 2
 
 [^c23420521]: Marginal citation: OJ L195, 20.7.2016, p.3.
 
-[^key-3b39ef9f0936581d430a0e049674273d]: Textual amendment: Sch. paras. 184A, 184B and cross-heading inserted (25.10.2019) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1390)](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/3), [8(6)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/8/6)
+[^c-3b39ef9f0936581d430a0e049674273d]: Textual amendment: Sch. paras. 184A, 184B and cross-heading inserted (25.10.2019) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1390)](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/3), [8(6)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/8/6)
 
 [^c23420531]: Marginal citation: OJ L13, 18.1.2018, p.1.

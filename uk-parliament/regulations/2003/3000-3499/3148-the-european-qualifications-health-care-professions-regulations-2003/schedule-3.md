@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — PHARMACISTS[^key-e9c71fd2597c470601323e818bd20c3a]
+## SCHEDULE 3 — PHARMACISTS[^c-e9c71fd2597c470601323e818bd20c3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Regulation 8
 
-[^key-e9c71fd2597c470601323e818bd20c3a]
+[^c-e9c71fd2597c470601323e818bd20c3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e9c71fd2597c470601323e818bd20c3a]: Textual amendment: Sch. 3 omitted (30.3.2007 as notified in the Belfast, Edinburgh and London Gazettes dated 23.3.2007) by virtue of [The Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289)](https://www.legislation.gov.uk/uksi/2007/289), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/289/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2007/289/article/1/3), [Sch. 1 para. 32(b)](https://www.legislation.gov.uk/uksi/2007/289/schedule/1/paragraph/32/b)
+[^c-e9c71fd2597c470601323e818bd20c3a]: Textual amendment: Sch. 3 omitted (30.3.2007 as notified in the Belfast, Edinburgh and London Gazettes dated 23.3.2007) by virtue of [The Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289)](https://www.legislation.gov.uk/uksi/2007/289), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/289/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2007/289/article/1/3), [Sch. 1 para. 32(b)](https://www.legislation.gov.uk/uksi/2007/289/schedule/1/paragraph/32/b)

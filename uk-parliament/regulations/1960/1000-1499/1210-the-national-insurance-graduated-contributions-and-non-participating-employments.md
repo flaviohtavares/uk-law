@@ -67,9 +67,9 @@ and other expressions have the same meanings as in the National Insurance Acts, 
 
 ## Part II — Provisions as to Participating and Non-participating Employments
 
-### 2. Computation of remuneration for graduated contributions purposes[^key-177ac6cab4a67f7026488fdad69293b6]
+### 2. Computation of remuneration for graduated contributions purposes[^c-177ac6cab4a67f7026488fdad69293b6]
 
-(1)[^key-dd547dce229f3b15b00abbf128ac74fe] Where payments are made to a person on account of remuneration in two or more employments under the same employer which include both an employment which is, and an employment which is not, at the time of payment in respect thereof a non-participating employment, and, under section 4(3)(a) of the National Insurance Act 1965, those payments fall to be aggregated and treated as a single payment of remuneration in one employment, that one employment shall, for the purposes of the said section 4(3)(a), be taken to be—
+(1)[^c-dd547dce229f3b15b00abbf128ac74fe] Where payments are made to a person on account of remuneration in two or more employments under the same employer which include both an employment which is, and an employment which is not, at the time of payment in respect thereof a non-participating employment, and, under section 4(3)(a) of the National Insurance Act 1965, those payments fall to be aggregated and treated as a single payment of remuneration in one employment, that one employment shall, for the purposes of the said section 4(3)(a), be taken to be—
 
 - (a) an employment which is at the time of the payment a non-participating employment, if at the time of the payment (or each payment if there is more than one) in respect of participating employment which falls to be aggregated the person is employed in a non-participating employment under that employer; and
 - (b) subject to the provisions of paragraph (2A) of this regulation, in any other case an employment which is at the time of the payment a participating employment;
@@ -82,7 +82,7 @@ and for the purposes of this Part of these regulations a “**participating empl
 
 (2B) The provisions of paragraph (2) of this regulation shall not apply in a case where, having regard to the arrangements which are or might reasonably be made for the calculation and payment of the remuneration, it is not reasonably practicable at or before the time of the payment for any of the persons calculating or making the payment to have such information about the other employment as would enable them to know whether the provisions in question were applicable.
 
-(3) For the purpose [^key-bd33ca6caee60f6cb4be4ef1bfa14c8a]... of this regulation, at the time of a payment on account of his remuneration in a participating employment a person shall be deemed not to be employed in a non-participating employment if—
+(3) For the purpose [^c-bd33ca6caee60f6cb4be4ef1bfa14c8a]... of this regulation, at the time of a payment on account of his remuneration in a participating employment a person shall be deemed not to be employed in a non-participating employment if—
 
 - (a) his employer is not and has not been liable to pay weekly employer's contributions in respect of that non-participating employment for the contribution week in which that payment is made and for the thirteen contribution weeks immediately preceding, and his failure to be so liable does not arise by virtue of the provisions of subsection (1) of section 4, or of any regulations [^c22716591] made under paragraph (a) of subsection (1) of section 9, of the Act (which provide respectively that not more than one employer's contribution shall be payable in respect of any person for any week and as to the persons who are to be treated as employers); or
 - (b) that payment is made in a contribution week for which his employer is not liable as aforesaid, being part of a continuous period which is to last thirteen weeks or more for which he will not be so liable and for which his failure to be so liable does not arise by reason of that person's being, in those weeks, incapable of work or by virtue of the said provisions or of any such regulations.
@@ -93,7 +93,7 @@ and for the purposes of this Part of these regulations a “**participating empl
 
 Where a person is in the same contribution week employed both in a non-participating employment and in a participating employment, and a contribution is payable in respect of him for that week by an employer who employs him only in participating employment in that week, that contribution and any contribution payable by him for that week shall be payable at the rate appropriate to a participating employment.
 
-### 4. Calculation of excess graduated contributions[^key-5beec36d856d28a58eb3a3fb1bdf4660]
+### 4. Calculation of excess graduated contributions[^c-5beec36d856d28a58eb3a3fb1bdf4660]
 
 For the purposes of section 56(3) of the National Insurance Act 1965 , as amended by Schedule 1 paragraph 6 to the National Insurance Act 1966 (which relates to the determination of any question as to the amount, if any, by which the graduated contributions paid by certain persons in respect of remuneration paid in any income tax year exceeded the amount prescribed under section 4(4) of the National Insurance Act 1965)—
 
@@ -334,15 +334,15 @@ The report of the National Insurance Advisory Committee on the preliminary draft
 
 [^c22716581]: Marginal citation: 52 & 53 Vict. c. 63.
 
-[^key-177ac6cab4a67f7026488fdad69293b6]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/1960/1210/regulation/2) modified (6.4.1975) by [The National Insurance (Non-participation - Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://editorial.legislation.gov.uk/uksi/1974/2057), [3](https://editorial.legislation.gov.uk/uksi/1974/2057), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+[^c-177ac6cab4a67f7026488fdad69293b6]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/1960/1210/regulation/2) modified (6.4.1975) by [The National Insurance (Non-participation - Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://editorial.legislation.gov.uk/uksi/1974/2057), [3](https://editorial.legislation.gov.uk/uksi/1974/2057), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
 
-[^key-dd547dce229f3b15b00abbf128ac74fe]: Textual amendment: Reg. 2(1)-(2B) substituted for reg. 2(1)-(2) (5.10.1966) by [The National Insurance (Graduated Contributions and Non-participating Employments—Consequential) Regulations 1966 (S.I. 1966/1048)](https://www.legislation.gov.uk/uksi/1966/1048), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1966/1048/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/1966/1048/regulation/4)
+[^c-dd547dce229f3b15b00abbf128ac74fe]: Textual amendment: Reg. 2(1)-(2B) substituted for reg. 2(1)-(2) (5.10.1966) by [The National Insurance (Graduated Contributions and Non-participating Employments—Consequential) Regulations 1966 (S.I. 1966/1048)](https://www.legislation.gov.uk/uksi/1966/1048), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1966/1048/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/1966/1048/regulation/4)
 
-[^key-bd33ca6caee60f6cb4be4ef1bfa14c8a]: Textual amendment: Words in reg. 2(3) omitted (5.10.1966) by virtue of [The National Insurance (Graduated Contributions and Non-participating Employments—Consequential) Regulations 1966 (S.I. 1966/1048)](https://www.legislation.gov.uk/uksi/1966/1048), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1966/1048/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/1966/1048/regulation/4)
+[^c-bd33ca6caee60f6cb4be4ef1bfa14c8a]: Textual amendment: Words in reg. 2(3) omitted (5.10.1966) by virtue of [The National Insurance (Graduated Contributions and Non-participating Employments—Consequential) Regulations 1966 (S.I. 1966/1048)](https://www.legislation.gov.uk/uksi/1966/1048), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1966/1048/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/1966/1048/regulation/4)
 
 [^c22716591]: Marginal citation: [S.I. 1948/1274](https://www.legislation.gov.uk/uksi/1948/1274), [regs. 8 to 10](https://www.legislation.gov.uk/uksi/1948/1274/regulation/8) (Rev. XVI, p. 148: 1948 I, p. 3037).
 
-[^key-5beec36d856d28a58eb3a3fb1bdf4660]: Textual amendment: Reg. 4 substituted (5.10.1966) by [The National Insurance (Graduated Contributions and Non-participating Employments—Consequential) Regulations 1966 (S.I. 1966/1048)](https://www.legislation.gov.uk/uksi/1966/1048), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1966/1048/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1966/1048/regulation/5)
+[^c-5beec36d856d28a58eb3a3fb1bdf4660]: Textual amendment: Reg. 4 substituted (5.10.1966) by [The National Insurance (Graduated Contributions and Non-participating Employments—Consequential) Regulations 1966 (S.I. 1966/1048)](https://www.legislation.gov.uk/uksi/1966/1048), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1966/1048/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1966/1048/regulation/5)
 
 [^c22716631]: Marginal citation: *See* [S.I. 1950/330](https://www.legislation.gov.uk/uksi/1950/330), [reg.2](https://www.legislation.gov.uk/uksi/1950/330/regulation/2) (1950 II, p. 15).
 

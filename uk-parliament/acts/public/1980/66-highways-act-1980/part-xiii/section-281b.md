@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 281B. Power to provide for fees for certain services[^key-cc6ec16adada1e5899cdf7e694b9e3d6]
+## 281B. Power to provide for fees for certain services[^c-cc6ec16adada1e5899cdf7e694b9e3d6]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc6ec16adada1e5899cdf7e694b9e3d6]: Textual amendment: [S. 281B](https://www.legislation.gov.uk/ukpga/1980/66/section/281B) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/31/2), [118(1)(r)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/r) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-cc6ec16adada1e5899cdf7e694b9e3d6]: Textual amendment: [S. 281B](https://www.legislation.gov.uk/ukpga/1980/66/section/281B) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/31/2), [118(1)(r)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/r) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

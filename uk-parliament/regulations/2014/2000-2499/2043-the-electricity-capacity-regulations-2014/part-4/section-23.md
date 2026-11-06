@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The Delivery Body must, as soon as reasonably practicable after it has determined all the applications made to it and, if applicable, complied with any obligations under regulation 69(3) or (4) in relation to requests to review prequalification decisions notified to applicants on prequalification results day (which has the meaning given to that term in the Rules)[^key-3930ad2ccf3b5384a87fadfba080b097], notify the Secretary of State of the aggregate de-rated capacity of—
+(1) The Delivery Body must, as soon as reasonably practicable after it has determined all the applications made to it and, if applicable, complied with any obligations under regulation 69(3) or (4) in relation to requests to review prequalification decisions notified to applicants on prequalification results day (which has the meaning given to that term in the Rules)[^c-3930ad2ccf3b5384a87fadfba080b097], notify the Secretary of State of the aggregate de-rated capacity of—
 
 - (a) CMUs which have prequalified to bid in the capacity auction;
 - (b) CMUs in respect of which applications were rejected; and
-- (c) generating CMUs , or interconnector CMUs,[^key-e5894df640f0cd809a5948095ae81f63] in respect of which the Delivery Body received—
+- (c) generating CMUs , or interconnector CMUs,[^c-e5894df640f0cd809a5948095ae81f63] in respect of which the Delivery Body received—
   - (i) an opt-out notification stating that the CMU will be closed down, decommissioned or otherwise non-operational by the commencement of the delivery year;
   - (ii) an opt-out notification stating that the CMU will be temporarily non-operational for all the winter of the delivery year but will be operational thereafter; or
   - (iii) an opt-out notification stating that the CMU will remain operational during the delivery year.
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3930ad2ccf3b5384a87fadfba080b097]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/23/1) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/48)
+[^c-3930ad2ccf3b5384a87fadfba080b097]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/23/1) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/48)
 
-[^key-e5894df640f0cd809a5948095ae81f63]: Textual amendment: Words in [reg. 23(1)(c)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/23/1/c) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/6)
+[^c-e5894df640f0cd809a5948095ae81f63]: Textual amendment: Words in [reg. 23(1)(c)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/23/1/c) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/6)

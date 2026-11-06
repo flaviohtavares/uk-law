@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Notice of order under section 176A(5)[^key-3c25b0f2edf692ace8ef8d420e4e8bb8]
+## 104. Notice of order under section 176A(5)[^c-3c25b0f2edf692ace8ef8d420e4e8bb8]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c25b0f2edf692ace8ef8d420e4e8bb8]: Commencement: Rule 104 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-3c25b0f2edf692ace8ef8d420e4e8bb8]: Commencement: Rule 104 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

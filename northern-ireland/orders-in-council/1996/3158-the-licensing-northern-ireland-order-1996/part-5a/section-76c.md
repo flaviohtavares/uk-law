@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**76C.**[^key-c7902ac677d6b2dbac1995d389a6d294] (1) This Article applies where—
+**76C.**[^c-c7902ac677d6b2dbac1995d389a6d294] (1) This Article applies where—
 
 - (a) a pavement café area is associated with premises for which a licence is in force;
 - (b) those premises are—
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7902ac677d6b2dbac1995d389a6d294]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/nisi/1996/3158/part/5A) inserted (1.10.2016) by [Licensing of Pavement Cafes Act (Northern Ireland) 2014 (c. 9)](https://www.legislation.gov.uk/nia/2014/9), [s. 32(1)](https://www.legislation.gov.uk/nia/2014/9/section/32/1), [Sch. para. 2](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/2); [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-c7902ac677d6b2dbac1995d389a6d294]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/nisi/1996/3158/part/5A) inserted (1.10.2016) by [Licensing of Pavement Cafes Act (Northern Ireland) 2014 (c. 9)](https://www.legislation.gov.uk/nia/2014/9), [s. 32(1)](https://www.legislation.gov.uk/nia/2014/9/section/32/1), [Sch. para. 2](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/2); [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)

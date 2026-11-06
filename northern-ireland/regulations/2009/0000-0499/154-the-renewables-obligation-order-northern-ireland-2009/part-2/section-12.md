@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge his renewables obligation[^key-1f2d555d16c9c315ed26f621c20af051]
+## 12. Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge his renewables obligation[^c-1f2d555d16c9c315ed26f621c20af051]
 
 *Extent: N.I.*
 
@@ -26,12 +26,12 @@ summary: ''
 
 [formula: Figure set out in third column of Schedule \[1\] for that period x calculation B for that period over Calculation A for that period](https://www.legislation.gov.uk/nisr/2009/154)
 
-(3)[^key-f0254928e1fb76e80a887a89fa3f0ee7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f0254928e1fb76e80a887a89fa3f0ee7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Department must publish, by the 1st October preceding an obligation period, the number of renewables obligation certificates that a designated electricity supplier is required to produce in respect of each megawatt hour of electricity that he supplies to customers in Northern Ireland during that period in order to discharge his renewables obligation for that period.
 
 ## Annotations
 
-[^key-1f2d555d16c9c315ed26f621c20af051]: Commencement: Art. 12 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-1f2d555d16c9c315ed26f621c20af051]: Commencement: Art. 12 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
 
-[^key-f0254928e1fb76e80a887a89fa3f0ee7]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/nisr/2009/154/article/12/3) omitted (1.4.2010) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/134)](https://www.legislation.gov.uk/nisr/2010/134), [arts. 1](https://www.legislation.gov.uk/nisr/2010/134/article/1), [7](https://www.legislation.gov.uk/nisr/2010/134/article/7)
+[^c-f0254928e1fb76e80a887a89fa3f0ee7]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/nisr/2009/154/article/12/3) omitted (1.4.2010) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/134)](https://www.legislation.gov.uk/nisr/2010/134), [arts. 1](https://www.legislation.gov.uk/nisr/2010/134/article/1), [7](https://www.legislation.gov.uk/nisr/2010/134/article/7)

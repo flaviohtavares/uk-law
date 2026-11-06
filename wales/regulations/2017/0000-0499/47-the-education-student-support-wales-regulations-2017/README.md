@@ -149,7 +149,7 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 
 - [Section 53 — Additional amount of loans](part-7/section-53.md)
 
-### PART 8 — COLLEGE FEE LOANS[^key-2d30927e0b98135028b22773a16fdecc]
+### PART 8 — COLLEGE FEE LOANS[^c-2d30927e0b98135028b22773a16fdecc]
 
 *Extent: E+W*
 
@@ -176,7 +176,7 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [Section 62 — Overpayments](part-10/section-62.md)
 - [Section 63 — Payments - interpretation](part-10/section-63.md)
 
-### PART 11 — SUPPORT FOR FULL-TIME DISTANCE LEARNING COURSES[^key-98d4fd649dd511143a521c7d1ea15ae2]
+### PART 11 — SUPPORT FOR FULL-TIME DISTANCE LEARNING COURSES[^c-98d4fd649dd511143a521c7d1ea15ae2]
 
 *Extent: E+W*
 
@@ -351,6 +351,6 @@ Regulations. A copy can be obtained from the Higher Education Division, Welsh Go
 
 [^f00002]: Footnote: The functions of the Secretary of State under section 22 of the Teaching and Higher Education Act 1998 (except so far as they relate to the making of any provision authorised by subsection (2)(a), (c), (j) or (k), (3)(e) or (f) or (5) of section 22) were transferred to the National Assembly for Wales by section 44 of the Higher Education Act 2004 and the Higher Education Act 2004 (Commencement No. 2 and Transitional Provision) (Wales) Order 2005 ([S.I. 2005/1833 (W. 149) (C. 79)](https://www.legislation.gov.uk/wsi/2005/1833)) as amended by the Higher Education Act 2004 (Commencement No. 2 and Transitional Provision) (Wales) (Amendment) Order 2006 ([S.I. 2006/1660 (W. 159) (C. 56)](https://www.legislation.gov.uk/wsi/2006/1660)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of paragraphs 30(1) and 30(2)(c) of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-2d30927e0b98135028b22773a16fdecc]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/wsi/2017/47/part/8) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [20](https://www.legislation.gov.uk/wsi/2026/3/regulation/20)
+[^c-2d30927e0b98135028b22773a16fdecc]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/wsi/2017/47/part/8) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [20](https://www.legislation.gov.uk/wsi/2026/3/regulation/20)
 
-[^key-98d4fd649dd511143a521c7d1ea15ae2]: Textual amendment: [Pt. 11](https://www.legislation.gov.uk/wsi/2017/47/part/11) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [60](https://www.legislation.gov.uk/wsi/2021/481/regulation/60) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+[^c-98d4fd649dd511143a521c7d1ea15ae2]: Textual amendment: [Pt. 11](https://www.legislation.gov.uk/wsi/2017/47/part/11) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [60](https://www.legislation.gov.uk/wsi/2021/481/regulation/60) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))

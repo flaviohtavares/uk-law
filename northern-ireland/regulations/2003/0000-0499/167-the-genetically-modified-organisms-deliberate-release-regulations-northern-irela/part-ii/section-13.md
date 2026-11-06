@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Transitional provisions for release[^key-b0a0104af5b014100af6cf34741c0833]
+## 13. Transitional provisions for release[^c-b0a0104af5b014100af6cf34741c0833]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ Where the Department has received an application for consent to release genetica
 
 ## Annotations
 
-[^key-b0a0104af5b014100af6cf34741c0833]: Commencement: Reg. 13 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-b0a0104af5b014100af6cf34741c0833]: Commencement: Reg. 13 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

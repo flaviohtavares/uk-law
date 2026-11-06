@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Transitional provision in connection with section 29 designations[^key-af57ff72932323476a17f06dab0e28bd]
+## 31. Transitional provision in connection with section 29 designations[^c-af57ff72932323476a17f06dab0e28bd]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af57ff72932323476a17f06dab0e28bd]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2015/5/section/31) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-af57ff72932323476a17f06dab0e28bd]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2015/5/section/31) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

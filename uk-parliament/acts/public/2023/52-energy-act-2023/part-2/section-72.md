@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Functions of hydrogen levy administrator[^key-30a7e4a51fd204072ba97ad9a485b4ce]
+## 72. Functions of hydrogen levy administrator[^c-30a7e4a51fd204072ba97ad9a485b4ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ may be recovered from the relevant market participant by the hydrogen levy admin
 
 ## Annotations
 
-[^key-30a7e4a51fd204072ba97ad9a485b4ce]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2023/52/section/72) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-30a7e4a51fd204072ba97ad9a485b4ce]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2023/52/section/72) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

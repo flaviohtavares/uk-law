@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Rules[^key-201c4f595b587a703e19a660bd2d9e46]
+## 31. Rules[^c-201c4f595b587a703e19a660bd2d9e46]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ Rules required by regulation 12 must include—
 
 ## Annotations
 
-[^key-201c4f595b587a703e19a660bd2d9e46]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2014/3248/regulation/31) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-201c4f595b587a703e19a660bd2d9e46]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2014/3248/regulation/31) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

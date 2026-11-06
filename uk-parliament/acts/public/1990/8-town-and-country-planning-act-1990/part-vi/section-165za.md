@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 165ZA. Power of Greater London Authority to acquire land affected by designation of Mayoral development area where blight notice served[^key-62c31b30e9345e424235995bb0adfef6]
+## 165ZA. Power of Greater London Authority to acquire land affected by designation of Mayoral development area where blight notice served[^c-62c31b30e9345e424235995bb0adfef6]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62c31b30e9345e424235995bb0adfef6]: Textual amendment: S. 165ZA inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/33)
+[^c-62c31b30e9345e424235995bb0adfef6]: Textual amendment: S. 165ZA inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/33)

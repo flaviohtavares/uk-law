@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Construction of bridges[^key-d0e7a215a367f3ef737c2cd46d035196]
+## 16. Construction of bridges[^c-d0e7a215a367f3ef737c2cd46d035196]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0e7a215a367f3ef737c2cd46d035196]: Commencement: Art. 16 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-d0e7a215a367f3ef737c2cd46d035196]: Commencement: Art. 16 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)

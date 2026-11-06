@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.45.12. Attachment of power of arrest to incoming protection measure[^key-47f4241d0e20fb75f53bfb61ae0bf88c]
+## 3.45.12. Attachment of power of arrest to incoming protection measure[^c-47f4241d0e20fb75f53bfb61ae0bf88c]
 
 *Extent: S*
 
@@ -25,13 +25,13 @@ summary: ''
 (2) Where the sheriff attaches a power of arrest to a protection measure under section 1(2) of the Act of 2001, the following documents shall be served along with the power of arrest in accordance with section 2(1)—
 
 - (a) a copy of the protection measure;
-- (b) a copy of the Article 5 certificate issued by the issuing authority of a participating Member State in accordance with Article 5 of the MRP Regulation[^key-42c127bd0bc1055b48fc35957905eeeb]; and
+- (b) a copy of the Article 5 certificate issued by the issuing authority of a participating Member State in accordance with Article 5 of the MRP Regulation[^c-42c127bd0bc1055b48fc35957905eeeb]; and
 - (c) a copy of any interlocutor adjusting the factual elements of the protection measure.
 
 (3) After the power of arrest has been served, the following documents shall be delivered by the protected person to the chief constable of the Police Service of Scotland in accordance with section 3(1)—
 
 - (a) a copy of the protection measure;
-- (b) a copy of the Article 5 certificate issued by the issuing authority of a participating Member State in accordance with Article 5 of the MRP Regulation[^key-12cbd13adcbd2ec4a5c840079f3b8031];
+- (b) a copy of the Article 5 certificate issued by the issuing authority of a participating Member State in accordance with Article 5 of the MRP Regulation[^c-12cbd13adcbd2ec4a5c840079f3b8031];
 - (c) a copy of any interlocutor adjusting the factual elements of the protection measure;
 - (d) a copy of the application for the attachment of the power of arrest;
 - (e) a copy of the interlocutor attaching the power of arrest;
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-47f4241d0e20fb75f53bfb61ae0bf88c]: Textual amendment: [Ch. 3 Pt. 45](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/45) inserted (11.1.2015) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 3) (Mutual Recognition of Protection Measures) 2014 (S.S.I. 2014/371)](https://www.legislation.gov.uk/ssi/2014/371), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/4/2)
+[^c-47f4241d0e20fb75f53bfb61ae0bf88c]: Textual amendment: [Ch. 3 Pt. 45](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/45) inserted (11.1.2015) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 3) (Mutual Recognition of Protection Measures) 2014 (S.S.I. 2014/371)](https://www.legislation.gov.uk/ssi/2014/371), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/4/2)
 
-[^key-42c127bd0bc1055b48fc35957905eeeb]: Textual amendment: Words in [rule 3.45.12(2)(b)](https://www.legislation.gov.uk/uksi/1999/929/rule/3.45.12/2/b) substituted (1.12.2022) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Civil Protection Measures (EU Exit)) 2022 (S.S.I. 2022/329)](https://www.legislation.gov.uk/ssi/2022/329), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/1/2), [4(4)(a)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/4/4/a)
+[^c-42c127bd0bc1055b48fc35957905eeeb]: Textual amendment: Words in [rule 3.45.12(2)(b)](https://www.legislation.gov.uk/uksi/1999/929/rule/3.45.12/2/b) substituted (1.12.2022) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Civil Protection Measures (EU Exit)) 2022 (S.S.I. 2022/329)](https://www.legislation.gov.uk/ssi/2022/329), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/1/2), [4(4)(a)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/4/4/a)
 
-[^key-12cbd13adcbd2ec4a5c840079f3b8031]: Textual amendment: Words in [rule 3.45.12(3)(b)](https://www.legislation.gov.uk/uksi/1999/929/rule/3.45.12/3/b) substituted (1.12.2022) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Civil Protection Measures (EU Exit)) 2022 (S.S.I. 2022/329)](https://www.legislation.gov.uk/ssi/2022/329), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/1/2), [4(4)(b)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/4/4/b)
+[^c-12cbd13adcbd2ec4a5c840079f3b8031]: Textual amendment: Words in [rule 3.45.12(3)(b)](https://www.legislation.gov.uk/uksi/1999/929/rule/3.45.12/3/b) substituted (1.12.2022) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Civil Protection Measures (EU Exit)) 2022 (S.S.I. 2022/329)](https://www.legislation.gov.uk/ssi/2022/329), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/1/2), [4(4)(b)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/4/4/b)

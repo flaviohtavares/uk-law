@@ -48,7 +48,7 @@ The Department of Health [^c23891011], in exercise of the powers conferred by se
 
 (2) In these Regulations “**HSC Trust**” has the same meaning as in the Mental Capacity Act (Northern Ireland) 2016.
 
-## 2. Appropriate body for the purpose of research[^key-d88730804750fc2b8dec6f3b171a31ca]
+## 2. Appropriate body for the purpose of research[^c-d88730804750fc2b8dec6f3b171a31ca]
 
 For the purpose of section 132(4) of the Act, the following persons, committees or other bodies are appropriate bodies—
 
@@ -149,4 +149,4 @@ These Regulations provides who the appropriate body for approving research condu
 
 [^c23891021]: Marginal citation: [2016 c. 18 (NI)](https://www.legislation.gov.uk/nia/2016/18)
 
-[^key-d88730804750fc2b8dec6f3b171a31ca]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2019/193/regulation/2) substituted (21.12.2022) by [The Mental Capacity (Research) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/299)](https://www.legislation.gov.uk/nisr/2022/299), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/299/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2022/299/regulation/2)
+[^c-d88730804750fc2b8dec6f3b171a31ca]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2019/193/regulation/2) substituted (21.12.2022) by [The Mental Capacity (Research) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/299)](https://www.legislation.gov.uk/nisr/2022/299), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/299/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2022/299/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.60. Confiscation orders - revised assessments[^key-903479ff1ab56890474a814f1a683122]
+## 33.60. Confiscation orders - revised assessments[^c-903479ff1ab56890474a814f1a683122]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-903479ff1ab56890474a814f1a683122]: Commencement: [Rule 33.60](https://www.legislation.gov.uk/uksi/2025/909/rule/33.60) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-903479ff1ab56890474a814f1a683122]: Commencement: [Rule 33.60](https://www.legislation.gov.uk/uksi/2025/909/rule/33.60) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00853]: Footnote: [1994 c. 37](https://www.legislation.gov.uk/ukpga/1994/37); sections 13, 14 and 15 were repealed, with savings, by paragraphs 1 and 25 of Schedule 11 and Schedule 12 to the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29).
 

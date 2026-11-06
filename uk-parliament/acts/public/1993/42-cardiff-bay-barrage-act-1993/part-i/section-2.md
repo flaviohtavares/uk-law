@@ -33,7 +33,7 @@ summary: ''
 
 (5) In executing any of the works authorised by section 1 above the Development Corporation shall have regard to the desirability of developing and conserving flora and fauna.
 
-(6) The Development Corporation shall consult the Natural Resources Body for Wales[^key-20f6c4518eab812aa4d01f36d64c5dbc] and the Royal Society for the Protection of Birds to seek their views as to—
+(6) The Development Corporation shall consult the Natural Resources Body for Wales[^c-20f6c4518eab812aa4d01f36d64c5dbc] and the Royal Society for the Protection of Birds to seek their views as to—
 
 - (a) whether any works which the Development Corporation propose to execute so as to develop or conserve flora or fauna are appropriate for that purpose, and
 - (b) the measures which may be taken so as to develop and conserve flora and fauna in executing any of the other works authorised by section 1 above.
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20f6c4518eab812aa4d01f36d64c5dbc]: Textual amendment: Words in [s. 2(6)](https://www.legislation.gov.uk/ukpga/1993/42/section/2/6) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 347](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/347) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-20f6c4518eab812aa4d01f36d64c5dbc]: Textual amendment: Words in [s. 2(6)](https://www.legislation.gov.uk/ukpga/1993/42/section/2/6) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 347](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/347) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

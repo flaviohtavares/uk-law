@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**10.**[^key-a509bd719c592dbdcd9ab57c22ed59b5] (1) The governing bodies proposing to federate must jointly consider any responses to the proposals and each governing body must determine whether—
+**10.**[^c-a509bd719c592dbdcd9ab57c22ed59b5] (1) The governing bodies proposing to federate must jointly consider any responses to the proposals and each governing body must determine whether—
 
 - (a) to proceed with the proposals for federation as published;
 - (b) to proceed with the proposals for federation with such modifications as the governing body consider appropriate; or
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a509bd719c592dbdcd9ab57c22ed59b5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/1035/regulation/10) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-a509bd719c592dbdcd9ab57c22ed59b5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/1035/regulation/10) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

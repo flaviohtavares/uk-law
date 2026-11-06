@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 101. Civil consequences of failure to make required disclosure[^key-b83d4c10df9ad2656627398be28c9e9a]
+## 101. Civil consequences of failure to make required disclosure[^c-b83d4c10df9ad2656627398be28c9e9a]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ unless the court before which the proceedings are brought is satisfied that it i
 
 ## Annotations
 
-[^key-b83d4c10df9ad2656627398be28c9e9a]: Commencement: [S. 101](https://www.legislation.gov.uk/nia/2008/12/section/101) in operation at 24.6.2013 by [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
+[^c-b83d4c10df9ad2656627398be28c9e9a]: Commencement: [S. 101](https://www.legislation.gov.uk/nia/2008/12/section/101) in operation at 24.6.2013 by [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)

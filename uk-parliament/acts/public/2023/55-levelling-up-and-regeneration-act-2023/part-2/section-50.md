@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Boundaries of power under section 49[^key-b86ff4f355894258478d2c12fd2b1462]
+## 50. Boundaries of power under section 49[^c-b86ff4f355894258478d2c12fd2b1462]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b86ff4f355894258478d2c12fd2b1462]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/55/section/50) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-b86ff4f355894258478d2c12fd2b1462]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/55/section/50) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

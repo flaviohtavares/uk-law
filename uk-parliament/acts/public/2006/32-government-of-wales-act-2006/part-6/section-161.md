@@ -50,7 +50,7 @@ summary: ''
 
 (4) Subject to subsections (2), (3) and (6), the following provisions come into force immediately after the end of the initial period—
 
-- (a) any provision of this Act so far as relating to functions of the Welsh Ministers, the First Minister, the Counsel General or the Senedd[^key-60edd79c70d763519861630d1afb7962] Commission,
+- (a) any provision of this Act so far as relating to functions of the Welsh Ministers, the First Minister, the Counsel General or the Senedd[^c-60edd79c70d763519861630d1afb7962] Commission,
 - (b) any provision of this Act so far as relating to the Auditor General or the Comptroller and Auditor General,
 - (c) any other provision consisting of an amendment made in the Government of Wales Act 1998 (c. 38) by Schedule 10, and
 - (d) the repeal by Schedule 12 of provisions falling to be repealed in consequence of any provision within paragraph (a), (b) or (c).
@@ -62,10 +62,10 @@ summary: ''
 
 (6) The repeals by Schedule 12 of each of sections 83, 88, 93(8), 97 and 101A of the Government of Wales Act 1998 (and of the other provisions of that Act so far as relating to them) come into force when the section has been complied with for the financial year ending with 31st March 2007 (and earlier financial years); and sections 123, 131, 132 and 141 do not apply for that financial year.
 
-(7)[^key-c468a19d142eecfed03b00746ad3305e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-c468a19d142eecfed03b00746ad3305e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
-[^key-c468a19d142eecfed03b00746ad3305e]: Textual amendment: S. 161(7) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/11) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)
+[^c-c468a19d142eecfed03b00746ad3305e]: Textual amendment: S. 161(7) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/11) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)

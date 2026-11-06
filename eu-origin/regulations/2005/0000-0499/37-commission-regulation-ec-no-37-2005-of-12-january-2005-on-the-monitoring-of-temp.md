@@ -33,7 +33,7 @@ on the monitoring of temperatures in the means of transport, warehousing and sto
 
 (Text with EEA relevance)
 
-[^key-1f155bed7daaaf111baf83800e62d1ed]
+[^c-1f155bed7daaaf111baf83800e62d1ed]
 
 THE COMMISSION OF THE EUROPEAN COMMUNITIES,
 
@@ -112,7 +112,7 @@ This Regulation shall enter into force on the twentieth day following its public
 
 However, for transport by rail it shall apply from 1 January 2006.
 
-[^key-b45b95b6c6d25270eb83c6cfec79b4d7]...
+[^c-b45b95b6c6d25270eb83c6cfec79b4d7]...
 
 Done at Brussels, 12 January 2005.
 
@@ -124,10 +124,10 @@ Markos Kyprianou
 
 ## Annotations
 
-[^key-1f155bed7daaaf111baf83800e62d1ed]: Modification: Regulation applied (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-1f155bed7daaaf111baf83800e62d1ed]: Modification: Regulation applied (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00001]: Footnote: [OJ L 40, 11.2.1989, p. 34](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1989.040.01.0034.01.ENG). Directive as amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council ([OJ L 284, 31.10.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.284.01.0001.01.ENG)).
 
 [^f00002]: Footnote: [OJ L 34, 11.2.1992, p. 30](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1992.034.01.0030.01.ENG).
 
-[^key-b45b95b6c6d25270eb83c6cfec79b4d7]: Textual amendment: Final sentence omitted (31.12.2020) by virtue of [The Quick-frozen Foodstuffs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/462)](https://www.legislation.gov.uk/uksi/2019/462), [reg. 8](https://www.legislation.gov.uk/uksi/2019/462/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b45b95b6c6d25270eb83c6cfec79b4d7]: Textual amendment: Final sentence omitted (31.12.2020) by virtue of [The Quick-frozen Foodstuffs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/462)](https://www.legislation.gov.uk/uksi/2019/462), [reg. 8](https://www.legislation.gov.uk/uksi/2019/462/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

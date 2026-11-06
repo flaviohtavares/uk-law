@@ -29,22 +29,22 @@ summary: ''
 
   shall be transferred to and vested in SEPA by and in accordance with the scheme.
 
-(2)[^key-cac50d011b44b6a362d904950033d0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cac50d011b44b6a362d904950033d0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-cac50d011b44b6a362d904950033d0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cac50d011b44b6a362d904950033d0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-cac50d011b44b6a362d904950033d0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cac50d011b44b6a362d904950033d0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-cac50d011b44b6a362d904950033d0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-cac50d011b44b6a362d904950033d0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-cac50d011b44b6a362d904950033d0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-cac50d011b44b6a362d904950033d0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-cac50d011b44b6a362d904950033d0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-cac50d011b44b6a362d904950033d0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-cac50d011b44b6a362d904950033d0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-cac50d011b44b6a362d904950033d0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Schedule 2 to this Act shall have effect in relation to transfers by or under this section.
 
 ## Annotations
 
-[^key-cac50d011b44b6a362d904950033d0b5]: Textual amendment: S. 22(2)-(8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-cac50d011b44b6a362d904950033d0b5]: Textual amendment: S. 22(2)-(8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)

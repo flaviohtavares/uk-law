@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Application of the 1991 Act[^key-5821b8198026a47619b5cdbaf5c8f6b3]
+## 7. Application of the 1991 Act[^c-5821b8198026a47619b5cdbaf5c8f6b3]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The provisions of the 1991 Act referred to in paragraph (1) are—
 
-- section 54 (advance notice of certain works)[^key-2b1ae057ffab79d120a545458fa92466], subject to paragraph (3);
+- section 54 (advance notice of certain works)[^c-2b1ae057ffab79d120a545458fa92466], subject to paragraph (3);
 - section 55 (notice of starting date of works), subject to paragraph (3);
 - section 57 (notice of emergency works);
 - section 59 (general duty of street authority to co-ordinate works);
@@ -40,6 +40,6 @@ all such provisions as apply for the purposes of the provisions mentioned above.
 
 ## Annotations
 
-[^key-5821b8198026a47619b5cdbaf5c8f6b3]: Commencement: Art. 7 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-5821b8198026a47619b5cdbaf5c8f6b3]: Commencement: Art. 7 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-2b1ae057ffab79d120a545458fa92466]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/uksi/2014/3331/article/7/2) substituted (1.5.2015) by [The Hornsea One Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1280)](https://www.legislation.gov.uk/uksi/2015/1280), [art. 1](https://www.legislation.gov.uk/uksi/2015/1280/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1280/schedule)
+[^c-2b1ae057ffab79d120a545458fa92466]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/uksi/2014/3331/article/7/2) substituted (1.5.2015) by [The Hornsea One Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1280)](https://www.legislation.gov.uk/uksi/2015/1280), [art. 1](https://www.legislation.gov.uk/uksi/2015/1280/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1280/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Staying court proceedings where a complaint is made or a dispute is referred.[^key-36c0be76be1b6fd5cec0810cc40b7b90]
+## 148. Staying court proceedings where a complaint is made or a dispute is referred.[^c-36c0be76be1b6fd5cec0810cc40b7b90]
 
 *Extent: E+W+S*
 
@@ -45,19 +45,19 @@ apply to the court for a sist of process.
 
 (5) For the purposes of this section the parties to an investigation are—
 
-- (a)[^key-014d38acd4f1a14ac8cde7a0718aaed5] the person by whom, or on whose behalf, the complaint or reference has been made,
+- (a)[^c-014d38acd4f1a14ac8cde7a0718aaed5] the person by whom, or on whose behalf, the complaint or reference has been made,
 - (b) any person responsible for the management of the scheme to which the complaint or reference relates
-- (ba)[^key-0d83819e0dbe2fdc42f91189f51f68ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (bb)[^key-13425bc28f01a3f01bbc9fb93afff1b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ba)[^c-0d83819e0dbe2fdc42f91189f51f68ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bb)[^c-13425bc28f01a3f01bbc9fb93afff1b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) any person against whom allegations are made in the complaint or reference; and
 - (d) any person claiming under a person falling within paragraphs (a) to (c).
 
 ## Annotations
 
-[^key-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
-[^key-014d38acd4f1a14ac8cde7a0718aaed5]: Textual amendment: [S. 148(5)(a)](https://www.legislation.gov.uk/ukpga/1993/48/section/148/5/a)[(b)](https://www.legislation.gov.uk/ukpga/1993/48/section/148/5/b) substituted (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [ss. 157(6)](https://www.legislation.gov.uk/ukpga/1995/26/section/157/6), [180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
+[^c-014d38acd4f1a14ac8cde7a0718aaed5]: Textual amendment: [S. 148(5)(a)](https://www.legislation.gov.uk/ukpga/1993/48/section/148/5/a)[(b)](https://www.legislation.gov.uk/ukpga/1993/48/section/148/5/b) substituted (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [ss. 157(6)](https://www.legislation.gov.uk/ukpga/1995/26/section/157/6), [180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
 
-[^key-0d83819e0dbe2fdc42f91189f51f68ef]: Textual amendment: [S. 148(5)(ba)](https://www.legislation.gov.uk/ukpga/1993/48/section/148/5/ba) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 276(2)(a)](https://www.legislation.gov.uk/ukpga/2004/35/section/276/2/a), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13) Note; [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-0d83819e0dbe2fdc42f91189f51f68ef]: Textual amendment: [S. 148(5)(ba)](https://www.legislation.gov.uk/ukpga/1993/48/section/148/5/ba) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 276(2)(a)](https://www.legislation.gov.uk/ukpga/2004/35/section/276/2/a), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13) Note; [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-13425bc28f01a3f01bbc9fb93afff1b9]: Textual amendment: [S. 148(5)(bb)](https://www.legislation.gov.uk/ukpga/1993/48/section/148/5/bb) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 276(2)(a)](https://www.legislation.gov.uk/ukpga/2004/35/section/276/2/a), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13) Note; [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-13425bc28f01a3f01bbc9fb93afff1b9]: Textual amendment: [S. 148(5)(bb)](https://www.legislation.gov.uk/ukpga/1993/48/section/148/5/bb) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 276(2)(a)](https://www.legislation.gov.uk/ukpga/2004/35/section/276/2/a), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13) Note; [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

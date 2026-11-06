@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Asset-freeze in relation to designated persons[^key-a529f98d6870d6a05ec84b93574b0b1b]
+## 12. Asset-freeze in relation to designated persons[^c-a529f98d6870d6a05ec84b93574b0b1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a529f98d6870d6a05ec84b93574b0b1b]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-a529f98d6870d6a05ec84b93574b0b1b]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

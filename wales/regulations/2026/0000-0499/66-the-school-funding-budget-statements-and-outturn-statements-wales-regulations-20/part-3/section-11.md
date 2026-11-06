@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Consultation[^key-cc278027a0060d983b541fb4ff3b557c]
+## 11. Consultation[^c-cc278027a0060d983b541fb4ff3b557c]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc278027a0060d983b541fb4ff3b557c]: Commencement: Reg. 11 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-cc278027a0060d983b541fb4ff3b557c]: Commencement: Reg. 11 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

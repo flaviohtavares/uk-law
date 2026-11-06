@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16D. Provision of information concerning offender subject to compulsion order to person supporting victim[^key-88a4f4604845cfb82770971f82966541]
+## 16D. Provision of information concerning offender subject to compulsion order to person supporting victim[^c-88a4f4604845cfb82770971f82966541]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88a4f4604845cfb82770971f82966541]: Textual amendment: [S. 16D](https://www.legislation.gov.uk/asp/2003/7/section/16D) inserted (26.5.2024) by [Bail and Release from Custody (Scotland) Act 2023 (asp 4)](https://www.legislation.gov.uk/asp/2023/4), [ss. 14(3)](https://www.legislation.gov.uk/asp/2023/4/section/14/3), [18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2); [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)
+[^c-88a4f4604845cfb82770971f82966541]: Textual amendment: [S. 16D](https://www.legislation.gov.uk/asp/2003/7/section/16D) inserted (26.5.2024) by [Bail and Release from Custody (Scotland) Act 2023 (asp 4)](https://www.legislation.gov.uk/asp/2023/4), [ss. 14(3)](https://www.legislation.gov.uk/asp/2023/4/section/14/3), [18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2); [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)

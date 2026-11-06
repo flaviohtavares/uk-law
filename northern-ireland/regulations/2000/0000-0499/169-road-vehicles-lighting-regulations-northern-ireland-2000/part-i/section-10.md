@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Exceptions — invalid carriages[^key-8b8b1fa9253aeb0d1d24ed7da0e06346]
+## 10. Exceptions — invalid carriages[^c-8b8b1fa9253aeb0d1d24ed7da0e06346]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ An invalid carriage having a maximum speed not exceeding 4 mph is required by th
 
 ## Annotations
 
-[^key-8b8b1fa9253aeb0d1d24ed7da0e06346]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2000/169/regulation/10) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-8b8b1fa9253aeb0d1d24ed7da0e06346]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2000/169/regulation/10) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

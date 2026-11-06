@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Amendment of heading for Chapter 7[^key-9b4e6d510c948bc1b4e08a3b36da9242]
+## 24. Amendment of heading for Chapter 7[^c-9b4e6d510c948bc1b4e08a3b36da9242]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the heading substitute “ Functions, Regulations, Reporting and Inspection 
 
 ## Annotations
 
-[^key-9b4e6d510c948bc1b4e08a3b36da9242]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-9b4e6d510c948bc1b4e08a3b36da9242]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

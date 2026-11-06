@@ -25,9 +25,9 @@ summary: ''
 - (a) immediately before so ceasing the company had assigned the assets and liabilities which represent its loan relationships for consideration of an amount equal to their fair value at that time, and
 - (b) it had immediately reacquired them for consideration of the same amount.
 
-(2) Subsection (1) does not apply in relation to an asset or liability so far as immediately after the company ceases to be UK resident the asset is held or the liability is owed—[^key-ce9d5a6bd388cd8c39bb93a03b0dbfa0]
+(2) Subsection (1) does not apply in relation to an asset or liability so far as immediately after the company ceases to be UK resident the asset is held or the liability is owed—[^c-ce9d5a6bd388cd8c39bb93a03b0dbfa0]
 
-- (a) for the purposes of a permanent establishment of the company in the United Kingdom,[^key-c89ab73f2de0df7780f46f2032f156fb]
+- (a) for the purposes of a permanent establishment of the company in the United Kingdom,[^c-c89ab73f2de0df7780f46f2032f156fb]
 - (b) for the purposes of the company's trade of dealing in or developing UK land,
 - (c) for the purposes of the company's UK property business, or
 - (d) for the purposes of enabling the company to generate other UK property income (within the meaning given by section 5(6)).
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ce9d5a6bd388cd8c39bb93a03b0dbfa0]: Textual amendment: S. 333(2) renumbered as s. 333(2)(a) (6.4.2020) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 16(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/16/a), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))
+[^c-ce9d5a6bd388cd8c39bb93a03b0dbfa0]: Textual amendment: S. 333(2) renumbered as s. 333(2)(a) (6.4.2020) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 16(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/16/a), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))
 
-[^key-c89ab73f2de0df7780f46f2032f156fb]: Textual amendment: S. 333(2)(b)-(d) inserted (6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 16(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/16/b), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))
+[^c-c89ab73f2de0df7780f46f2032f156fb]: Textual amendment: S. 333(2)(b)-(d) inserted (6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 16(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/16/b), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))

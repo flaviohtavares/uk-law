@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Structures and buildings contributions allowances: destruction of asset[^key-b2ca3a243b55a8e7d4c54ea7906040cb]
+## 24A. Structures and buildings contributions allowances: destruction of asset[^c-b2ca3a243b55a8e7d4c54ea7906040cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2ca3a243b55a8e7d4c54ea7906040cb]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/ukpga/1992/12/section/24A) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/4/3)
+[^c-b2ca3a243b55a8e7d4c54ea7906040cb]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/ukpga/1992/12/section/24A) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/4/3)

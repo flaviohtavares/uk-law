@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where Natural England[^c19895521] or the[^key-8337d59bef7cb348c493e97580f6b0be] NRBW are of the opinion that any area of land in England or, as the case may be, in Wales—
+(1) Where Natural England[^c19895521] or the[^c-8337d59bef7cb348c493e97580f6b0be] NRBW are of the opinion that any area of land in England or, as the case may be, in Wales—
 
 - (a) is of special interest by reason of its flora, fauna or geological or physiographical features; and
 - (b) may at any time be affected by schemes, works, operations or activities of a relevant undertaker,
 
-Natural England or (as the case may be)[^c19895561] the[^key-04a8234c5a852ea6c12cae8bb49751c4] NRBW shall notify the fact that the land is of special interest for that reason to every relevant undertaker whose works, operations or activities may affect the land.
+Natural England or (as the case may be)[^c19895561] the[^c-04a8234c5a852ea6c12cae8bb49751c4] NRBW shall notify the fact that the land is of special interest for that reason to every relevant undertaker whose works, operations or activities may affect the land.
 
 (2) Where a National Park authority or the Broads Authority is of the opinion that any area of land in a National Park or in the Broads—
 
@@ -54,11 +54,11 @@ and section 3(9) above shall apply, as it applies in relation to that section, f
 
 [^c19895521]: Textual amendment: Words in s. 4(1) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 129(2)(a)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/129/2/a); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-8337d59bef7cb348c493e97580f6b0be]: Textual amendment: Words in s. 4 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 225(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/225/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-8337d59bef7cb348c493e97580f6b0be]: Textual amendment: Words in s. 4 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 225(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/225/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c19895561]: Textual amendment: Words in s. 4(1) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 129(2)(b)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/129/2/b); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-04a8234c5a852ea6c12cae8bb49751c4]: Textual amendment: Words in s. 4(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 225(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/225/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-04a8234c5a852ea6c12cae8bb49751c4]: Textual amendment: Words in s. 4(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 225(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/225/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c19895581]: Textual amendment: Words in s. 4(4) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 129(3)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/129/3); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 

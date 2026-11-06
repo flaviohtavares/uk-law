@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371IF. Determining the profits of a qualifying loan relationship[^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371IF. Determining the profits of a qualifying loan relationship[^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,12 +36,12 @@ Take the following steps to determine the profits of a qualifying loan relations
   If the credits exceed the debits add the excess to the step 3 credits and if the debits exceed the credits subtract the deficit from the step 3 credits. The result is “the step 4 credits”.
 - *Step 5* Allocate to the qualifying loan relationship a just and reasonable proportion of—
   - (a) the debits from the CFC's loan relationships which are brought into account in determining the CFC's non-trading finance profits (so far as not reflected in the step 4 credits), and
-  - (b) any amounts set off under Chapter 16 or Chapter 16A[^key-865a77deb87d00070ba28f73318571cd] of Part 5 of CTA 2009 (non-trading deficits) against amounts which, apart from the set off, would be included in the CFC's non-trading finance profits.
+  - (b) any amounts set off under Chapter 16 or Chapter 16A[^c-865a77deb87d00070ba28f73318571cd] of Part 5 of CTA 2009 (non-trading deficits) against amounts which, apart from the set off, would be included in the CFC's non-trading finance profits.
 
   Reduce the step 4 credits accordingly to give the profits of the qualifying loan relationship.
 
 ## Annotations
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
 
-[^key-865a77deb87d00070ba28f73318571cd]: Textual amendment: Words in [s. 371IF](https://www.legislation.gov.uk/ukpga/2010/8/section/371IF) Step 5 inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 179](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/179)
+[^c-865a77deb87d00070ba28f73318571cd]: Textual amendment: Words in [s. 371IF](https://www.legislation.gov.uk/ukpga/2010/8/section/371IF) Step 5 inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 179](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/179)

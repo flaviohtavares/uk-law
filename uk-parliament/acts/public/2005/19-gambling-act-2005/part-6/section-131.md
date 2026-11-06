@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Duration[^key-fc59d4492c303cba01f984e1400a0114][^key-b91b4450fb503a3b47fb51f92755c42a]
+## 131. Duration[^c-fc59d4492c303cba01f984e1400a0114][^c-b91b4450fb503a3b47fb51f92755c42a]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ A personal licence shall continue to have effect unless and until it ceases to h
 
 ## Annotations
 
-[^key-fc59d4492c303cba01f984e1400a0114]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2005/19/section/131) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)
+[^c-fc59d4492c303cba01f984e1400a0114]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2005/19/section/131) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)
 
-[^key-b91b4450fb503a3b47fb51f92755c42a]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/2005/19/part/6) modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 51](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/51)
+[^c-b91b4450fb503a3b47fb51f92755c42a]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/2005/19/part/6) modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 51](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/51)

@@ -16,39 +16,39 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Bursary year, ordinary duration, preliminary course, qualifying year of study and standard academic year (affected by repeal, see note)[^key-cd481a4113d7543c5b1e087df469dc8c][^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+## 33. Bursary year, ordinary duration, preliminary course, qualifying year of study and standard academic year (affected by repeal, see note)[^c-cd481a4113d7543c5b1e087df469dc8c][^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
-(1) A “bursary year” is an academic year of a course— *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
+(1) A “bursary year” is an academic year of a course— *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
 
-- (a) in relation to which the student is eligible to receive any bursary or award of similar description under Article 44 of the Health and Personal Social Services (Northern Ireland) Order 1972 *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12][^f00036] or section 63 of the Health Services and Public Health Act 1968 *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12][^f00037] the amount of which is calculated by reference to his income; or *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
-- (b) in relation to which the student is eligible to receive a Scottish healthcare allowance the amount of which is calculated by reference to his income. *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
+- (a) in relation to which the student is eligible to receive any bursary or award of similar description under Article 44 of the Health and Personal Social Services (Northern Ireland) Order 1972 *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12][^f00036] or section 63 of the Health Services and Public Health Act 1968 *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12][^f00037] the amount of which is calculated by reference to his income; or *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
+- (b) in relation to which the student is eligible to receive a Scottish healthcare allowance the amount of which is calculated by reference to his income. *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
 
-(2) The “ordinary duration” of a designated course is the number of academic years that a standard student would take to complete the course excluding any academic years of the designated course that are bursary years or Erasmus years. *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
+(2) The “ordinary duration” of a designated course is the number of academic years that a standard student would take to complete the course excluding any academic years of the designated course that are bursary years or Erasmus years. *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
 
-(3) A “standard student” is a student who is to be taken— *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
+(3) A “standard student” is a student who is to be taken— *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
 
-- (a) to have begun the designated course on the same date as the eligible student in question; *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
-- (b) not to be excused any part of the course; *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
-- (c) not to repeat any part of the course; and *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
-- (d) not to be absent from the course other than during vacations. *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
+- (a) to have begun the designated course on the same date as the eligible student in question; *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
+- (b) not to be excused any part of the course; *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
+- (c) not to repeat any part of the course; and *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
+- (d) not to be absent from the course other than during vacations. *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
 
-(4) A “preliminary course” is a course mentioned in paragraph 2 or 3 of Schedule 2 that is taken before a full-time degree course (other than a first degree course for the initial training of teachers) or a foundation degree course that is taken before a full-time honours degree course, as the case may be. *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
+(4) A “preliminary course” is a course mentioned in paragraph 2 or 3 of Schedule 2 that is taken before a full-time degree course (other than a first degree course for the initial training of teachers) or a foundation degree course that is taken before a full-time honours degree course, as the case may be. *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
 
-(5) A “qualifying year of study” is an academic year of a course— *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
+(5) A “qualifying year of study” is an academic year of a course— *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
 
-- (a) in respect of which the student qualified for fee support (even if the amount was nil); *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
-- (b) that was a bursary year; or *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
-- (c) in respect of which the student would have qualified for fee support (even if the amount would have been nil) if he had been an eligible student or the current course had been designated at the beginning of that year. *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
+- (a) in respect of which the student qualified for fee support (even if the amount was nil); *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
+- (b) that was a bursary year; or *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
+- (c) in respect of which the student would have qualified for fee support (even if the amount would have been nil) if he had been an eligible student or the current course had been designated at the beginning of that year. *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
 
-(6) A “standard academic year” is an academic year of a designated course (other than an academic year that is a bursary year or an Erasmus year) that would be taken (in whole or in part) by a person who does not repeat any part of the course as from 1st September 2006 and who enters the course at the same point as the eligible student. *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
+(6) A “standard academic year” is an academic year of a designated course (other than an academic year that is a bursary year or an Erasmus year) that would be taken (in whole or in part) by a person who does not repeat any part of the course as from 1st September 2006 and who enters the course at the same point as the eligible student. *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
 
 ## Annotations
 
-[^key-cd481a4113d7543c5b1e087df469dc8c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2006/312/regulation/33) in operation at 1.9.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/312/regulation/1)
+[^c-cd481a4113d7543c5b1e087df469dc8c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2006/312/regulation/33) in operation at 1.9.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/312/regulation/1)
 
-[^key-38e66e2f9723c92ebe23389f944f7e12]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/312) revoked (1.5.2007) by [The Education (Student Support) Regulations (Northern Ireland) 2007 (S.R. 2007/195)](https://www.legislation.gov.uk/nisr/2007/195), [regs. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/1/a) (with [reg. 4(3)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/3))
+[^c-38e66e2f9723c92ebe23389f944f7e12]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/312) revoked (1.5.2007) by [The Education (Student Support) Regulations (Northern Ireland) 2007 (S.R. 2007/195)](https://www.legislation.gov.uk/nisr/2007/195), [regs. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/1/a) (with [reg. 4(3)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/3))
 
 [^f00036]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 

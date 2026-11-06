@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 231. Right of inspection[^key-9bb5c2761a48821fda2aa2980e064f8b]
+## 231. Right of inspection[^c-9bb5c2761a48821fda2aa2980e064f8b]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bb5c2761a48821fda2aa2980e064f8b]: Commencement: Rule 231 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-9bb5c2761a48821fda2aa2980e064f8b]: Commencement: Rule 231 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

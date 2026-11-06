@@ -111,7 +111,7 @@ Section 93
 > - (b) in the case of the following institutions—
 >   - (i) an institution within the higher education sector which is not conducted by a higher education corporation;
 >   - (ii) an institution within the further education sector which is not conducted by a further education corporation; or
->   - (iii) an institution which provides higher education or further education and is assisted by a local authority[^key-5ca14e1c5c9fb4ff32ae914fdd63af76] ,
+>   - (iii) an institution which provides higher education or further education and is assisted by a local authority[^c-5ca14e1c5c9fb4ff32ae914fdd63af76] ,
 >
 >   to the governing body of the institution or, if it is conducted by a company, to the company; or
 > - (c) to a body corporate in which such a corporation or company as is mentioned in paragraph (a) or (b) above has a holding such as is mentioned in subsection (8) below
@@ -242,7 +242,7 @@ Section 93
 
 *Extent: E+W*
 
-**37.**[^key-52cfb4e1abc70610846b371125a57e67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-52cfb4e1abc70610846b371125a57e67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -301,17 +301,17 @@ Section 93
 
 *Extent: E+W*
 
-**46.**[^key-8713b8f11b8a03508b1efbd1a6a78f7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-8713b8f11b8a03508b1efbd1a6a78f7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**47.**[^key-8713b8f11b8a03508b1efbd1a6a78f7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-8713b8f11b8a03508b1efbd1a6a78f7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **48.**[^c11069671] In section 214(2)(a) (unrecognised degrees) after “Royal Charter or” there is inserted “ by or under ”.
 
 *Extent: E+W*
 
-**49.**[^key-4aa340d36fb5c6ca2d854922f887e58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-4aa340d36fb5c6ca2d854922f887e58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -478,23 +478,23 @@ Section 93
 
 *Extent: E+W*
 
-**75.**[^key-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**75.**[^c-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**76.**[^key-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**76.**[^c-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**77.**[^key-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**77.**[^c-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**78.**[^key-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**78.**[^c-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**79.**[^key-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**79.**[^c-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**80.**[^key-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**80.**[^c-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**81.**[^key-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**81.**[^c-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**82.**[^c11070231][^key-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**82.**[^c11070231][^c-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**83.**[^key-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**83.**[^c-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Race Relations Act 1976 (c. 74)
 
@@ -502,15 +502,15 @@ Section 93
 
 *Extent: E+W*
 
-**84.**[^key-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**84.**[^c-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**85.**[^key-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**85.**[^c-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**86.**[^key-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**86.**[^c-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **87.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**88.**[^c11070331][^key-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**88.**[^c11070331][^c-aecdd346d7c0dea523b3c25bae8a58b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Employment Protection (Consolidation) Act 1978 (c. 44)
 
@@ -522,7 +522,7 @@ Section 93
 
 *Extent: E+W+S*
 
-**90.**[^key-5985297582c369cdaafb0ab16362ec3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**90.**[^c-5985297582c369cdaafb0ab16362ec3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)
 
@@ -676,7 +676,7 @@ Section 93
 
 [^c11069291]: Commencement: Sch. 8, para. 21 wholly in force at 30.9.1992 see s. 94(3) and [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/831/schedule/2)
 
-[^key-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)
+[^c-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)
 
 [^c11069301]: Commencement: Sch. 8, para. 22 wholly in force at 1.4.1993 see s. 94(3) and [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
 
@@ -708,7 +708,7 @@ Section 93
 
 [^c11069531]: Commencement: Sch. 8, para. 36 wholly in force: Sch. 8, para. 36(a) in force at 6.5.1992; Sch. 8, para. 36(b) in force at 1.4.1993 see s. 94(3) and [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1992/831/schedule/1), [3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
 
-[^key-52cfb4e1abc70610846b371125a57e67]: Textual amendment: Sch. 8 para. 37 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4
+[^c-52cfb4e1abc70610846b371125a57e67]: Textual amendment: Sch. 8 para. 37 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4
 
 [^c11069551]: Commencement: Sch. 8, para. 38 wholly in force at 6.5.1992 see s. 94(3) and [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1992/831/schedule/1)
 
@@ -728,11 +728,11 @@ Section 93
 
 [^c11069641]: Commencement: Sch. 8, para. 45 wholly in force at 1.4.1993 see s. 94(3) and [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
 
-[^key-8713b8f11b8a03508b1efbd1a6a78f7e]: Textual amendment: Sch. 8 paras. 46, 47 repealed (1.4.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-8713b8f11b8a03508b1efbd1a6a78f7e]: Textual amendment: Sch. 8 paras. 46, 47 repealed (1.4.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
 [^c11069671]: Commencement: Sch. 8, para. 48 wholly in force at 6.5.1992 see s. 94(3) and [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1992/831/schedule/1)
 
-[^key-4aa340d36fb5c6ca2d854922f887e58e]: Textual amendment: Sch. 8 para. 49 repealed (2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-4aa340d36fb5c6ca2d854922f887e58e]: Textual amendment: Sch. 8 para. 49 repealed (2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
 [^c11069701]: Textual amendment: Sch. 8 para. 50 repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)(3)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2/3), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 38 Pt.I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39))
 
@@ -786,7 +786,7 @@ Section 93
 
 [^c11070111]: Commencement: Sch. 8, para. 74 wholly in force at 1.4.1993 see s. 94(3) and [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
 
-[^key-aecdd346d7c0dea523b3c25bae8a58b8]: Textual amendment: Sch. 8 paras. 75-88 repealed (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [Sch 27 Pt 1](https://www.legislation.gov.uk/ukpga/2002/32/schedule/27/part/1) (as substituted by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
+[^c-aecdd346d7c0dea523b3c25bae8a58b8]: Textual amendment: Sch. 8 paras. 75-88 repealed (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [Sch 27 Pt 1](https://www.legislation.gov.uk/ukpga/2002/32/schedule/27/part/1) (as substituted by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
 
 [^c11070231]: Textual amendment: Sch. 8 para. 82 repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)(3)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2/3), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 38 Pt.I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39))
 
@@ -794,7 +794,7 @@ Section 93
 
 [^c11070351]: Textual amendment: Sch. 8 para. 89 repealed (22.8.1998) by [1998 c. 18](https://www.legislation.gov.uk/ukpga/1998/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1998/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1998/18/section/243), [Sch. 3 Pt.I](https://www.legislation.gov.uk/ukpga/1998/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1998/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1998/18/section/202))
 
-[^key-5985297582c369cdaafb0ab16362ec3e]: Textual amendment: Sch. 8 para. 90 repealed (20.1.2003 for E., 1.9.2003 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2); [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-5985297582c369cdaafb0ab16362ec3e]: Textual amendment: Sch. 8 para. 90 repealed (20.1.2003 for E., 1.9.2003 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2); [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
 
 [^c11070371]: Commencement: Sch. 8, para. 91 wholly in force at 1.4.1993 see s. 94(3) and [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Helicopters flying for commercial air transport at night[^key-1980fe06f0dfa3a078b0e78f1248dcdd]
+## 128. Helicopters flying for commercial air transport at night[^c-1980fe06f0dfa3a078b0e78f1248dcdd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1980fe06f0dfa3a078b0e78f1248dcdd]: Textual amendment: [Arts. 126-134](https://www.legislation.gov.uk/uksi/2015/870/article/126) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2022 (S.I. 2022/172)](https://www.legislation.gov.uk/uksi/2022/172), [art. 7](https://www.legislation.gov.uk/uksi/2022/172/article/7)
+[^c-1980fe06f0dfa3a078b0e78f1248dcdd]: Textual amendment: [Arts. 126-134](https://www.legislation.gov.uk/uksi/2015/870/article/126) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2022 (S.I. 2022/172)](https://www.legislation.gov.uk/uksi/2022/172), [art. 7](https://www.legislation.gov.uk/uksi/2022/172/article/7)

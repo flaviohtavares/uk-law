@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Speed restrictions[^key-e814a3de629527b371581567688fbb9d]
+## 20. Speed restrictions[^c-e814a3de629527b371581567688fbb9d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e814a3de629527b371581567688fbb9d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/733) revoked (14.11.2025) by [The A1 in Northumberland: Morpeth to Ellingham Development Consent (Revocation) Order 2025 (S.I. 2025/1186)](https://www.legislation.gov.uk/uksi/2025/1186), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1186/article/1), [2](https://www.legislation.gov.uk/uksi/2025/1186/article/2)
+[^c-e814a3de629527b371581567688fbb9d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/733) revoked (14.11.2025) by [The A1 in Northumberland: Morpeth to Ellingham Development Consent (Revocation) Order 2025 (S.I. 2025/1186)](https://www.legislation.gov.uk/uksi/2025/1186), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1186/article/1), [2](https://www.legislation.gov.uk/uksi/2025/1186/article/2)

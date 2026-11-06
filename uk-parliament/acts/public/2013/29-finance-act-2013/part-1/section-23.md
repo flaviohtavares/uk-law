@@ -31,12 +31,12 @@ summary: ''
 
 .
 
-(4)[^key-ff29121d0ca07f4303a26b22527eedf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ff29121d0ca07f4303a26b22527eedf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In subsection (3)—
 
 - (a) after “the relevant threshold” omit “for the year”, and
-- (b)[^key-6cbf0dba7a23d619c7d425e34b7ce325] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6cbf0dba7a23d619c7d425e34b7ce325] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In subsection (4)—
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ff29121d0ca07f4303a26b22527eedf9]: Textual amendment: [S. 23(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/23/4) omitted (with effect in accordance with s. 24(17) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 24(16)](https://www.legislation.gov.uk/ukpga/2014/26/section/24/16)
+[^c-ff29121d0ca07f4303a26b22527eedf9]: Textual amendment: [S. 23(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/23/4) omitted (with effect in accordance with s. 24(17) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 24(16)](https://www.legislation.gov.uk/ukpga/2014/26/section/24/16)
 
-[^key-6cbf0dba7a23d619c7d425e34b7ce325]: Textual amendment: [S. 23(5)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/23/5/b) omitted (with effect in accordance with s. 24(17) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 24(16)](https://www.legislation.gov.uk/ukpga/2014/26/section/24/16)
+[^c-6cbf0dba7a23d619c7d425e34b7ce325]: Textual amendment: [S. 23(5)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/23/5/b) omitted (with effect in accordance with s. 24(17) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 24(16)](https://www.legislation.gov.uk/ukpga/2014/26/section/24/16)

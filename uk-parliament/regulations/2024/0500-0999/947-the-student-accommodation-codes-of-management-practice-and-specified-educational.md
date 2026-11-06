@@ -48,9 +48,9 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 The Secretary of State has taken reasonable steps to consult the persons mentioned in section 233(2)(b) of that Act and is satisfied as to publication arrangements as required by section 233(3) of that Act.
 
-## PART A1 — General[^key-9a9e4fad966e9fdf86bcf96de4fd4d0a]
+## PART A1 — General[^c-9a9e4fad966e9fdf86bcf96de4fd4d0a]
 
-### 1. Citation, commencement, extent and application[^key-727514f9f6e2774ce2b609f6ba3aa1f4][^key-dc3f86e21e2186d12397e814b31ae6f8]
+### 1. Citation, commencement, extent and application[^c-727514f9f6e2774ce2b609f6ba3aa1f4][^c-dc3f86e21e2186d12397e814b31ae6f8]
 
 (1) These Regulations may be cited as the Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) Regulations 2024.
 
@@ -58,31 +58,31 @@ The Secretary of State has taken reasonable steps to consult the persons mention
 
 (3) Regulation 5(2)(b) comes into force on 15th January 2025.
 
-(4) These Regulations extend to England and Wales and apply in relation to accommodation in England[^key-440c523499be6a0d58a344e92205ea20].
+(4) These Regulations extend to England and Wales and apply in relation to accommodation in England[^c-440c523499be6a0d58a344e92205ea20].
 
 ## PART 1 — Codes of Management Practice for Student Accommodation
 
-### 2. Application of this Part[^key-0cced45b0097829ee01bae4823b0378b]
+### 2. Application of this Part[^c-0cced45b0097829ee01bae4823b0378b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Approval of codes of practice[^key-624bf7612700df8b8c49216667df4b1d][^key-fb5c6ed8fe6d391d0313f3f25f051c73]
+### 3. Approval of codes of practice[^c-624bf7612700df8b8c49216667df4b1d][^c-fb5c6ed8fe6d391d0313f3f25f051c73]
 
-(1) The codes[^key-d863ee98b819bc4d1fd1c5db3b98646a] of practice mentioned in paragraph (2), which lay[^key-9aa722371595705ea7905f55474f1541] down standards of conduct and practice to be followed with regard to the management of certain houses in multiple occupation and accommodation falling within paragraph 3A of Schedule 14 to the Act (buildings occupied by students: England)[^key-9296717926111075a56fad18074025d0], are[^key-f11f2e3fb09fc3b1b1723145613a1e1b] approved for the purposes of section 233 of the Housing Act 2004.
+(1) The codes[^c-d863ee98b819bc4d1fd1c5db3b98646a] of practice mentioned in paragraph (2), which lay[^c-9aa722371595705ea7905f55474f1541] down standards of conduct and practice to be followed with regard to the management of certain houses in multiple occupation and accommodation falling within paragraph 3A of Schedule 14 to the Act (buildings occupied by students: England)[^c-9296717926111075a56fad18074025d0], are[^c-f11f2e3fb09fc3b1b1723145613a1e1b] approved for the purposes of section 233 of the Housing Act 2004.
 
-(2)[^key-b7f5155b0b58b6592c1484a487cc121e] The codes of practice are—
+(2)[^c-b7f5155b0b58b6592c1484a487cc121e] The codes of practice are—
 
 - (a) ANUK/Unipol Code of Standards for Larger Developments for student accommodation managed and controlled by educational establishments dated 5th September 2024;
 - (b) Universities UK/GuildHE Accommodation Code of Practice for Student Housing dated 11th March 2025;
-- (c)[^key-3df343707a9f6533a16ec36cd2bc2b04] ANUK/Unipol Code of Standards for Larger Developments for student accommodation not managed and controlled by educational establishments dated 27th February 2026.
+- (c)[^c-3df343707a9f6533a16ec36cd2bc2b04] ANUK/Unipol Code of Standards for Larger Developments for student accommodation not managed and controlled by educational establishments dated 27th February 2026.
 
-### 4. Revocations and savings[^key-c855383bca7c739df7c1aadd092fba26]
+### 4. Revocations and savings[^c-c855383bca7c739df7c1aadd092fba26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — ... Specified Educational Establishments[^key-8f9e35b3ff324d89cf354c3bb69fc0f9]
+## PART 2 — ... Specified Educational Establishments[^c-8f9e35b3ff324d89cf354c3bb69fc0f9]
 
-### 4A. Educational establishments specified for certain purposes of the Housing Act 2004[^key-463f69643b30e5c1f69843190338ff95]
+### 4A. Educational establishments specified for certain purposes of the Housing Act 2004[^c-463f69643b30e5c1f69843190338ff95]
 
 (1) The members from time to time of a housing management code of practice specified in paragraph (2) are specified as—
 
@@ -94,7 +94,7 @@ The Secretary of State has taken reasonable steps to consult the persons mention
 - (a) ANUK/Unipol Code of Standards for Larger Developments for student accommodation managed and controlled by educational establishments dated 5th September 2024;
 - (b) Universities UK/GuildHE Accommodation Code of Practice for Student Housing dated 11th March 2025.
 
-### 5. Amendment of the Houses in Multiple Occupation (Specified Educational Establishments) (England) Regulations 2019[^key-8c639a6bdd5bd177fd27c298f6c6872e]
+### 5. Amendment of the Houses in Multiple Occupation (Specified Educational Establishments) (England) Regulations 2019[^c-8c639a6bdd5bd177fd27c298f6c6872e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -108,7 +108,7 @@ Ministry of Housing, Communities and Local Government
 
 9th September 2024
 
-## SCHEDULE — Educational establishments specified for the purposes of paragraph 4 of Schedule 14 to the Housing Act 2004[^key-e433cb6e6da9197298fe72d2c625a7e9]
+## SCHEDULE — Educational establishments specified for the purposes of paragraph 4 of Schedule 14 to the Housing Act 2004[^c-e433cb6e6da9197298fe72d2c625a7e9]
 
 **No longer in force.**
 
@@ -142,38 +142,38 @@ An impact assessment has not been provided for this instrument as no impact on t
 
 [^f00001]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34). For the definition of appropriate national authority see section 261(1) of the Housing Act 2004.
 
-[^key-9a9e4fad966e9fdf86bcf96de4fd4d0a]: Textual amendment: [Pt. A1](https://www.legislation.gov.uk/uksi/2024/947/part/A1) heading inserted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/2)
+[^c-9a9e4fad966e9fdf86bcf96de4fd4d0a]: Textual amendment: [Pt. A1](https://www.legislation.gov.uk/uksi/2024/947/part/A1) heading inserted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/2)
 
-[^key-727514f9f6e2774ce2b609f6ba3aa1f4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/947/regulation/1) in force at 15.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/947/regulation/1/2)
+[^c-727514f9f6e2774ce2b609f6ba3aa1f4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/947/regulation/1) in force at 15.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/947/regulation/1/2)
 
-[^key-dc3f86e21e2186d12397e814b31ae6f8]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2024/947/regulation/1) heading substituted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/3/a)
+[^c-dc3f86e21e2186d12397e814b31ae6f8]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2024/947/regulation/1) heading substituted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/3/a)
 
-[^key-440c523499be6a0d58a344e92205ea20]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/947/regulation/1/4) inserted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/3/b)
+[^c-440c523499be6a0d58a344e92205ea20]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/947/regulation/1/4) inserted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/3/b)
 
-[^key-0cced45b0097829ee01bae4823b0378b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/947/regulation/2) omitted (1.5.2025) by virtue of [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/4)
+[^c-0cced45b0097829ee01bae4823b0378b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/947/regulation/2) omitted (1.5.2025) by virtue of [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/4)
 
-[^key-624bf7612700df8b8c49216667df4b1d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/947/regulation/3) in force at 15.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/947/regulation/1/2)
+[^c-624bf7612700df8b8c49216667df4b1d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/947/regulation/3) in force at 15.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/947/regulation/1/2)
 
-[^key-fb5c6ed8fe6d391d0313f3f25f051c73]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2024/947/regulation/3) heading substituted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/5/a)
+[^c-fb5c6ed8fe6d391d0313f3f25f051c73]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2024/947/regulation/3) heading substituted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/5/a)
 
-[^key-d863ee98b819bc4d1fd1c5db3b98646a]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2024/947/regulation/3/1) substituted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/5/b/i)
+[^c-d863ee98b819bc4d1fd1c5db3b98646a]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2024/947/regulation/3/1) substituted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/5/b/i)
 
-[^key-9aa722371595705ea7905f55474f1541]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2024/947/regulation/3/1) substituted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/5/b/ii)
+[^c-9aa722371595705ea7905f55474f1541]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2024/947/regulation/3/1) substituted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/5/b/ii)
 
-[^key-9296717926111075a56fad18074025d0]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2024/947/regulation/3/1) substituted (1.5.2026) by [The Student Accommodation (Miscellaneous Provisions) (England) Regulations 2026 (S.I. 2026/327)](https://www.legislation.gov.uk/uksi/2026/327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/327/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/327/regulation/2/2/a)
+[^c-9296717926111075a56fad18074025d0]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2024/947/regulation/3/1) substituted (1.5.2026) by [The Student Accommodation (Miscellaneous Provisions) (England) Regulations 2026 (S.I. 2026/327)](https://www.legislation.gov.uk/uksi/2026/327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/327/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/327/regulation/2/2/a)
 
-[^key-f11f2e3fb09fc3b1b1723145613a1e1b]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2024/947/regulation/3/1) substituted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/5/b/iii)
+[^c-f11f2e3fb09fc3b1b1723145613a1e1b]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2024/947/regulation/3/1) substituted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/5/b/iii)
 
-[^key-b7f5155b0b58b6592c1484a487cc121e]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2024/947/regulation/3/2) substituted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/5/c)
+[^c-b7f5155b0b58b6592c1484a487cc121e]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2024/947/regulation/3/2) substituted (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/5/c)
 
-[^key-3df343707a9f6533a16ec36cd2bc2b04]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2024/947/regulation/3/2/c) inserted (1.5.2026) by [The Student Accommodation (Miscellaneous Provisions) (England) Regulations 2026 (S.I. 2026/327)](https://www.legislation.gov.uk/uksi/2026/327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/327/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/327/regulation/2/2/b)
+[^c-3df343707a9f6533a16ec36cd2bc2b04]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2024/947/regulation/3/2/c) inserted (1.5.2026) by [The Student Accommodation (Miscellaneous Provisions) (England) Regulations 2026 (S.I. 2026/327)](https://www.legislation.gov.uk/uksi/2026/327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/327/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/327/regulation/2/2/b)
 
-[^key-c855383bca7c739df7c1aadd092fba26]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/947/regulation/4) omitted (1.5.2026) by virtue of [The Student Accommodation (Miscellaneous Provisions) (England) Regulations 2026 (S.I. 2026/327)](https://www.legislation.gov.uk/uksi/2026/327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/327/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/327/regulation/2/3)
+[^c-c855383bca7c739df7c1aadd092fba26]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/947/regulation/4) omitted (1.5.2026) by virtue of [The Student Accommodation (Miscellaneous Provisions) (England) Regulations 2026 (S.I. 2026/327)](https://www.legislation.gov.uk/uksi/2026/327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/327/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/327/regulation/2/3)
 
-[^key-8f9e35b3ff324d89cf354c3bb69fc0f9]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2024/947/part/2) heading omitted (1.5.2025) by virtue of [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/7)
+[^c-8f9e35b3ff324d89cf354c3bb69fc0f9]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2024/947/part/2) heading omitted (1.5.2025) by virtue of [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/7)
 
-[^key-463f69643b30e5c1f69843190338ff95]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2024/947/regulation/4A) substituted (1.5.2026) by [The Student Accommodation (Miscellaneous Provisions) (England) Regulations 2026 (S.I. 2026/327)](https://www.legislation.gov.uk/uksi/2026/327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/327/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2026/327/regulation/2/4)
+[^c-463f69643b30e5c1f69843190338ff95]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2024/947/regulation/4A) substituted (1.5.2026) by [The Student Accommodation (Miscellaneous Provisions) (England) Regulations 2026 (S.I. 2026/327)](https://www.legislation.gov.uk/uksi/2026/327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/327/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2026/327/regulation/2/4)
 
-[^key-8c639a6bdd5bd177fd27c298f6c6872e]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/947/regulation/5) omitted (1.5.2025) by virtue of [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/9)
+[^c-8c639a6bdd5bd177fd27c298f6c6872e]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/947/regulation/5) omitted (1.5.2025) by virtue of [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2025/431/regulation/2/9)
 
-[^key-e433cb6e6da9197298fe72d2c625a7e9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2024/947/schedule) omitted (1.5.2026) by virtue of [The Student Accommodation (Miscellaneous Provisions) (England) Regulations 2026 (S.I. 2026/327)](https://www.legislation.gov.uk/uksi/2026/327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/327/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2026/327/regulation/2/5)
+[^c-e433cb6e6da9197298fe72d2c625a7e9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2024/947/schedule) omitted (1.5.2026) by virtue of [The Student Accommodation (Miscellaneous Provisions) (England) Regulations 2026 (S.I. 2026/327)](https://www.legislation.gov.uk/uksi/2026/327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/327/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2026/327/regulation/2/5)

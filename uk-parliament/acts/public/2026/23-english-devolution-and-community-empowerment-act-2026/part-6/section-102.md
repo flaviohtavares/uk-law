@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 102. Saving of orders and regulations relating to combined authorities and CCAs[^key-b3cff8af68e59f1ea9e7bf5f8472fc4a][^key-c02c402ef9b90d098d63f79ec03adab0]
+## 102. Saving of orders and regulations relating to combined authorities and CCAs[^c-b3cff8af68e59f1ea9e7bf5f8472fc4a][^c-c02c402ef9b90d098d63f79ec03adab0]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ see section 104CC of LDEDCA 2009 or section 24C of LURA 2023 (inserted by sectio
 
 ## Annotations
 
-[^key-b3cff8af68e59f1ea9e7bf5f8472fc4a]: Commencement: S. 102 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)
+[^c-b3cff8af68e59f1ea9e7bf5f8472fc4a]: Commencement: S. 102 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)
 
-[^key-c02c402ef9b90d098d63f79ec03adab0]: Modification: [S. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102) applied (30.4.2026) by [The English Devolution and Community Empowerment Act 2026 (Transitional and Saving Provisions) (England) Regulations 2026 (S.I. 2026/482)](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/482/regulation/2/3)
+[^c-c02c402ef9b90d098d63f79ec03adab0]: Modification: [S. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102) applied (30.4.2026) by [The English Devolution and Community Empowerment Act 2026 (Transitional and Saving Provisions) (England) Regulations 2026 (S.I. 2026/482)](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/482/regulation/2/3)

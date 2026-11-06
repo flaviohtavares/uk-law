@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Conduct Regulations[^key-e726b70d4908a673287eb882aa24cd2e]
+## 3. Conduct Regulations[^c-e726b70d4908a673287eb882aa24cd2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e726b70d4908a673287eb882aa24cd2e]: Commencement: Reg. 3 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-e726b70d4908a673287eb882aa24cd2e]: Commencement: Reg. 3 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)

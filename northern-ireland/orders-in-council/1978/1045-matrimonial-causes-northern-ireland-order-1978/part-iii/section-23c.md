@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23C. Pension compensation: interpretation[^key-67afb2316184ce4f19cb5cb9a094439c]
+## 23C. Pension compensation: interpretation[^c-67afb2316184ce4f19cb5cb9a094439c]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ In this Part—
 
 ## Annotations
 
-[^key-67afb2316184ce4f19cb5cb9a094439c]: Textual amendment: Arts. 23B, 23C inserted (6.4.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/nia/2008/13/schedule/5/paragraph/2) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(2)](https://www.legislation.gov.uk/nisr/2011/108/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/108/schedule)
+[^c-67afb2316184ce4f19cb5cb9a094439c]: Textual amendment: Arts. 23B, 23C inserted (6.4.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/nia/2008/13/schedule/5/paragraph/2) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(2)](https://www.legislation.gov.uk/nisr/2011/108/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/108/schedule)

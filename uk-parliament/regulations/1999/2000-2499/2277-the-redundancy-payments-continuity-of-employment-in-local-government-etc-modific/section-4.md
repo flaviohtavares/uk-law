@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Revocation[^key-d83a23d7eae44f327ecfb826b6e762a9]
+## 4. Revocation[^c-d83a23d7eae44f327ecfb826b6e762a9]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Orders specified in Schedule 3 to this Order are revoked.
 
 ## Annotations
 
-[^key-d83a23d7eae44f327ecfb826b6e762a9]: Commencement: Art. 4 in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)
+[^c-d83a23d7eae44f327ecfb826b6e762a9]: Commencement: Art. 4 in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)

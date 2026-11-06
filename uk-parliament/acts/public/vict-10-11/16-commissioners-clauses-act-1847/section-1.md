@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Extent of Act.[^key-221491aa27c5326299e2752220b2f9c7]
+## 1. Extent of Act.[^c-221491aa27c5326299e2752220b2f9c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ Are you the person assessed as *A.B.,* on the \[ \] rate \[*specifying the rate
 
 ## Annotations
 
-[^key-221491aa27c5326299e2752220b2f9c7]: Modification: Ss. 1-4 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)
+[^c-221491aa27c5326299e2752220b2f9c7]: Modification: Ss. 1-4 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)

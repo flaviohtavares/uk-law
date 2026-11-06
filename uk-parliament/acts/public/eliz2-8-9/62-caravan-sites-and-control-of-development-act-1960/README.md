@@ -35,7 +35,7 @@ An Act to make further provision for the licensing and control of caravan sites,
 
 ## Contents
 
-### Part I — Caravan Sites[^c6634091][^c6634101][^c6634111][^c6634121][^key-fbba25aad194b2ddc331a84b04953d05]
+### Part I — Caravan Sites[^c6634091][^c6634101][^c6634111][^c6634121][^c-fbba25aad194b2ddc331a84b04953d05]
 
 *Extent: E+W+S*
 
@@ -67,7 +67,7 @@ An Act to make further provision for the licensing and control of caravan sites,
 - [Section 11 — Duty of licence holder to surrender licence for alteration.](part-i/section-11.md)
 - [Section 12 — Responsibility of occupier of land subject to a licence or special tenancy.](part-i/section-12.md)
 
-#### Requirement for manager of site to be fit and proper person[^key-557e0b6140ae6e22b58b787b21f3f609]
+#### Requirement for manager of site to be fit and proper person[^c-557e0b6140ae6e22b58b787b21f3f609]
 
 *Extent: E+W+S*
 
@@ -113,17 +113,17 @@ An Act to make further provision for the licensing and control of caravan sites,
 - [Section 31 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-31.md)
 - [Section 32 — Application of Part I to Scotland.](part-i/section-32.md)
 
-### PART 1A — Licensing of relevant permanent sites in Scotland[^key-818409832dab261966f68144f9387d36][^key-0c6b72314fab9386195926450a25d543]
+### PART 1A — Licensing of relevant permanent sites in Scotland[^c-818409832dab261966f68144f9387d36][^c-0c6b72314fab9386195926450a25d543]
 
 *Extent: S*
 
-#### General application[^key-d7e6b9123adebb72447e973f9c48c06c]
+#### General application[^c-d7e6b9123adebb72447e973f9c48c06c]
 
 *Extent: S*
 
 - [Section 32A — Licences under Part 1A](part-1a/section-32a.md)
 
-#### Part 1A site licence[^key-15d4648741df976fd01e718f2983f63d]
+#### Part 1A site licence[^c-15d4648741df976fd01e718f2983f63d]
 
 *Extent: S*
 
@@ -141,7 +141,7 @@ An Act to make further provision for the licensing and control of caravan sites,
 - [Section 32M — Appeals relating to a Part 1A site licence](part-1a/section-32m.md)
 - [Section 32N — Power to make provision in relation to procedure and appeals](part-1a/section-32n.md)
 
-#### Fit and proper persons[^key-fec6dc6b1a5401f92ed919a2d5c0437e]
+#### Fit and proper persons[^c-fec6dc6b1a5401f92ed919a2d5c0437e]
 
 *Extent: S*
 
@@ -149,7 +149,7 @@ An Act to make further provision for the licensing and control of caravan sites,
 - [Section 32P — Fit and proper person: Level 1 disclosure](part-1a/section-32p.md)
 - [Section 32Q — Fit and proper person: information sharing](part-1a/section-32q.md)
 
-#### Offences relating to relevant permanent sites[^key-231a426d5264589732293766d9299b57]
+#### Offences relating to relevant permanent sites[^c-231a426d5264589732293766d9299b57]
 
 *Extent: S*
 
@@ -157,7 +157,7 @@ An Act to make further provision for the licensing and control of caravan sites,
 - [Section 32S — Relevant permanent sites: use without a licence](part-1a/section-32s.md)
 - [Section 32T — Relevant permanent sites: breach of licence conditions](part-1a/section-32t.md)
 
-#### Local authority enforcement at relevant permanent sites[^key-5d252332d2bd9795baa55dc5fb3928d4]
+#### Local authority enforcement at relevant permanent sites[^c-5d252332d2bd9795baa55dc5fb3928d4]
 
 *Extent: S*
 
@@ -172,7 +172,7 @@ An Act to make further provision for the licensing and control of caravan sites,
 - [Section 32Z3 — Expenses of taking action under improvement notice or emergency action notice](part-1a/section-32z3.md)
 - [Section 32Z4 — Expenses of local authority in relation to Part 1A licences](part-1a/section-32z4.md)
 
-#### Miscellaneous[^key-f578fda1228510e1bae36a8156034658]
+#### Miscellaneous[^c-f578fda1228510e1bae36a8156034658]
 
 *Extent: S*
 
@@ -180,11 +180,11 @@ An Act to make further provision for the licensing and control of caravan sites,
 - [Section 32Z6 — Interpretation of Part 1A](part-1a/section-32z6.md)
 - [Section 32Z7 — Guidance](part-1a/section-32z7.md)
 
-### Part II (Extent: S)[^key-8847684b151be95d5b31cd9e36fd5bf5]
+### Part II (Extent: S)[^c-8847684b151be95d5b31cd9e36fd5bf5]
 
 - [Section 33 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-33.md)
 
-### Part III (Extent: S) — General (Extent: S)[^key-8847684b151be95d5b31cd9e36fd5bf5]
+### Part III (Extent: S) — General (Extent: S)[^c-8847684b151be95d5b31cd9e36fd5bf5]
 
 - [Section 48 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-48.md)
 - [Section 49 — Financial provisions.](part-iii/section-49.md)
@@ -213,24 +213,24 @@ SCHEDULES
 
 [^c6634121]: Modification: Pt. I (ss. 1-32) applied (E.W.) (6.3.1992) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 7(6)](https://www.legislation.gov.uk/ukpga/1992/14/section/7/6) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4)).
 
-[^key-fbba25aad194b2ddc331a84b04953d05]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/62/part/I): power to disapply conferred (W.) (28.4.2026) by [Development of Tourism and Regulation of Visitor Accommodation (Wales) Act 2026 (asc 10)](https://www.legislation.gov.uk/asc/2026/10), [ss. 57(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/57/2/b), [61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
+[^c-fbba25aad194b2ddc331a84b04953d05]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/62/part/I): power to disapply conferred (W.) (28.4.2026) by [Development of Tourism and Regulation of Visitor Accommodation (Wales) Act 2026 (asc 10)](https://www.legislation.gov.uk/asc/2026/10), [ss. 57(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/57/2/b), [61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
 
-[^key-557e0b6140ae6e22b58b787b21f3f609]: Textual amendment: Ss. 12A-12E and cross-heading inserted (15.6.2020) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 8](https://www.legislation.gov.uk/ukpga/2013/14/section/8), [15(2)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/2) (as amended by [S.I. 2014/1900](https://www.legislation.gov.uk/uksi/2014/1900), Sch. 1 para. 17); [S.I. 2020/565](https://www.legislation.gov.uk/uksi/2020/565), [art. 2](https://www.legislation.gov.uk/uksi/2020/565/article/2)
+[^c-557e0b6140ae6e22b58b787b21f3f609]: Textual amendment: Ss. 12A-12E and cross-heading inserted (15.6.2020) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 8](https://www.legislation.gov.uk/ukpga/2013/14/section/8), [15(2)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/2) (as amended by [S.I. 2014/1900](https://www.legislation.gov.uk/uksi/2014/1900), Sch. 1 para. 17); [S.I. 2020/565](https://www.legislation.gov.uk/uksi/2020/565), [art. 2](https://www.legislation.gov.uk/uksi/2020/565/article/2)
 
-[^key-818409832dab261966f68144f9387d36]: Modification: Pt. 1A excluded (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 83(3)](https://www.legislation.gov.uk/asp/2014/14/section/83/3), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-818409832dab261966f68144f9387d36]: Modification: Pt. 1A excluded (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 83(3)](https://www.legislation.gov.uk/asp/2014/14/section/83/3), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-0c6b72314fab9386195926450a25d543]: Textual amendment: Pt. 1A heading inserted (S.) (20.11.2014 for the purposes of ss. 32B-32I, 32N, 32Y, 1.5.2017 for remaining purposes) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 63(2)](https://www.legislation.gov.uk/asp/2014/14/section/63/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-0c6b72314fab9386195926450a25d543]: Textual amendment: Pt. 1A heading inserted (S.) (20.11.2014 for the purposes of ss. 32B-32I, 32N, 32Y, 1.5.2017 for remaining purposes) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 63(2)](https://www.legislation.gov.uk/asp/2014/14/section/63/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-d7e6b9123adebb72447e973f9c48c06c]: Textual amendment: S. 32A and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 63(2)](https://www.legislation.gov.uk/asp/2014/14/section/63/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-d7e6b9123adebb72447e973f9c48c06c]: Textual amendment: S. 32A and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 63(2)](https://www.legislation.gov.uk/asp/2014/14/section/63/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-15d4648741df976fd01e718f2983f63d]: Textual amendment: Ss. 32B, 32C and cross-heading inserted (20.11.2014 for specified purposes, 1.5.2017 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 64](https://www.legislation.gov.uk/asp/2014/14/section/64), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-15d4648741df976fd01e718f2983f63d]: Textual amendment: Ss. 32B, 32C and cross-heading inserted (20.11.2014 for specified purposes, 1.5.2017 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 64](https://www.legislation.gov.uk/asp/2014/14/section/64), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-fec6dc6b1a5401f92ed919a2d5c0437e]: Textual amendment: S. 32O and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 71](https://www.legislation.gov.uk/asp/2014/14/section/71), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-fec6dc6b1a5401f92ed919a2d5c0437e]: Textual amendment: S. 32O and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 71](https://www.legislation.gov.uk/asp/2014/14/section/71), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-231a426d5264589732293766d9299b57]: Textual amendment: Ss. 32R-32T and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 74](https://www.legislation.gov.uk/asp/2014/14/section/74), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-231a426d5264589732293766d9299b57]: Textual amendment: Ss. 32R-32T and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 74](https://www.legislation.gov.uk/asp/2014/14/section/74), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-5d252332d2bd9795baa55dc5fb3928d4]: Textual amendment: Ss. 32U-32W and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 75](https://www.legislation.gov.uk/asp/2014/14/section/75), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-5d252332d2bd9795baa55dc5fb3928d4]: Textual amendment: Ss. 32U-32W and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 75](https://www.legislation.gov.uk/asp/2014/14/section/75), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-f578fda1228510e1bae36a8156034658]: Textual amendment: S. 32Z5 and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 81](https://www.legislation.gov.uk/asp/2014/14/section/81), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-f578fda1228510e1bae36a8156034658]: Textual amendment: S. 32Z5 and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 81](https://www.legislation.gov.uk/asp/2014/14/section/81), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-8847684b151be95d5b31cd9e36fd5bf5]: Textual amendment: Pt. 1A heading inserted (S.) (20.11.2014 for the purposes of ss. 32B-32I, 32N, 32Y) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 63(2)](https://www.legislation.gov.uk/asp/2014/14/section/63/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-8847684b151be95d5b31cd9e36fd5bf5]: Textual amendment: Pt. 1A heading inserted (S.) (20.11.2014 for the purposes of ss. 32B-32I, 32N, 32Y) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 63(2)](https://www.legislation.gov.uk/asp/2014/14/section/63/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

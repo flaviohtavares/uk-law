@@ -42,23 +42,23 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 18, 23, 47 and 48(4) of the Child Support (Northern Ireland) Order 1991[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-4ef12af6ddb76c93256a250b7710288e]
+## 1. Citation and commencement[^c-4ef12af6ddb76c93256a250b7710288e]
 
 These Regulations may be cited as the Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1998 and shall come into operation on 7th December 1998.
 
-## 2. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^key-0a5f5058100f55cea7f2f3cde640cc4f]
+## 2. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^c-0a5f5058100f55cea7f2f3cde640cc4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations[^key-bff941e7768b35a06767e5ffc3fc410d]
+## 3. Amendment of the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations[^c-bff941e7768b35a06767e5ffc3fc410d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Child Support (Collection and Enforcement) Regulations[^key-d668391f10507b9bffd8bedee4a41ff6]
+## 4. Amendment of the Child Support (Collection and Enforcement) Regulations[^c-d668391f10507b9bffd8bedee4a41ff6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Child Support Departure Direction and Consequential Amendments Regulations[^key-99d78b24312d074f3f5438be1fd40541]
+## 5. Amendment of the Child Support Departure Direction and Consequential Amendments Regulations[^c-99d78b24312d074f3f5438be1fd40541]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -92,12 +92,12 @@ Regulations 3, 4 and 5 contain consequential amendments and savings provisions i
 
 [^f00001]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Article 18 was substituted by Article 40 of, and Article 47 was amended by paragraph 31 of Schedule 6 to, the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506))
 
-[^key-4ef12af6ddb76c93256a250b7710288e]: Commencement: Reg. 1 in operation at 7.12.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/400/regulation/1)
+[^c-4ef12af6ddb76c93256a250b7710288e]: Commencement: Reg. 1 in operation at 7.12.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/400/regulation/1)
 
-[^key-0a5f5058100f55cea7f2f3cde640cc4f]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/400/regulation/2) revoked (1.6.1999) by [The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1999 (S.R. 1999/167)](https://www.legislation.gov.uk/nisr/1999/167), [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/167/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/1999/167/schedule)
+[^c-0a5f5058100f55cea7f2f3cde640cc4f]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/400/regulation/2) revoked (1.6.1999) by [The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1999 (S.R. 1999/167)](https://www.legislation.gov.uk/nisr/1999/167), [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/167/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/1999/167/schedule)
 
-[^key-bff941e7768b35a06767e5ffc3fc410d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/400/regulation/3) revoked (1.6.1999) by [The Social Security (1998 Order) (Commencement No. 6 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999 (S.R. 1999/246)](https://www.legislation.gov.uk/nisr/1999/246), [art. 3(1)](https://www.legislation.gov.uk/nisr/1999/246/article/3/1), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/246/schedule/2)
+[^c-bff941e7768b35a06767e5ffc3fc410d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/400/regulation/3) revoked (1.6.1999) by [The Social Security (1998 Order) (Commencement No. 6 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999 (S.R. 1999/246)](https://www.legislation.gov.uk/nisr/1999/246), [art. 3(1)](https://www.legislation.gov.uk/nisr/1999/246/article/3/1), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/246/schedule/2)
 
-[^key-d668391f10507b9bffd8bedee4a41ff6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/400/regulation/4) revoked (1.6.1999) by [The Social Security (1998 Order) (Commencement No. 6 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999 (S.R. 1999/246)](https://www.legislation.gov.uk/nisr/1999/246), [art. 3(1)](https://www.legislation.gov.uk/nisr/1999/246/article/3/1), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/246/schedule/2)
+[^c-d668391f10507b9bffd8bedee4a41ff6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/400/regulation/4) revoked (1.6.1999) by [The Social Security (1998 Order) (Commencement No. 6 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999 (S.R. 1999/246)](https://www.legislation.gov.uk/nisr/1999/246), [art. 3(1)](https://www.legislation.gov.uk/nisr/1999/246/article/3/1), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/246/schedule/2)
 
-[^key-99d78b24312d074f3f5438be1fd40541]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/400/regulation/5) revoked (1.6.1999) by [The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1999 (S.R. 1999/167)](https://www.legislation.gov.uk/nisr/1999/167), [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/167/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/1999/167/schedule)
+[^c-99d78b24312d074f3f5438be1fd40541]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/400/regulation/5) revoked (1.6.1999) by [The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1999 (S.R. 1999/167)](https://www.legislation.gov.uk/nisr/1999/167), [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/167/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/1999/167/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Reserve forces: data-sharing by HMRC[^key-d9d4a5328d371f45edc310525d5e56ca]
+## 195. Reserve forces: data-sharing by HMRC[^c-d9d4a5328d371f45edc310525d5e56ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9d4a5328d371f45edc310525d5e56ca]: Commencement: S. 195 in force at 23.7.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/625/regulation/3/l)
+[^c-d9d4a5328d371f45edc310525d5e56ca]: Commencement: S. 195 in force at 23.7.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/625/regulation/3/l)

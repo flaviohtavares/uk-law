@@ -39,7 +39,7 @@ summary: ''
 
 (4) For the purposes of subsection (2)—
 
-- (a) for the purpose of determining[^key-515e102b4f47ea89b9303f3d146a9c93] the person to whom a trade belongs and, if a trade belongs to two or more persons, their respective shares in that trade—[^key-f27af693426ef1846cf1b478dfe78263]
+- (a) for the purpose of determining[^c-515e102b4f47ea89b9303f3d146a9c93] the person to whom a trade belongs and, if a trade belongs to two or more persons, their respective shares in that trade—[^c-f27af693426ef1846cf1b478dfe78263]
   - (i) apply section 941(6) of CTA 2010, and
   - (ii) an interest in a trade belonging to a company may be treated in accordance with any of the options set out in section 942 of that Act, and
 - (b) any interest, rights or powers of a person who is an associate of another person are treated as those of that other person.
@@ -57,6 +57,6 @@ is to be withdrawn, the reference in subsection (3)(b), and (so far as relating 
 
 ## Annotations
 
-[^key-515e102b4f47ea89b9303f3d146a9c93]: Textual amendment: Words in s. 232(4)(a) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 502(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/502/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-515e102b4f47ea89b9303f3d146a9c93]: Textual amendment: Words in s. 232(4)(a) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 502(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/502/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f27af693426ef1846cf1b478dfe78263]: Textual amendment: Words in s. 232(4)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 502(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/502/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f27af693426ef1846cf1b478dfe78263]: Textual amendment: Words in s. 232(4)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 502(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/502/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

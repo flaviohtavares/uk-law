@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 170. Value of security[^key-3dabdf1a14f18d4776d687e6868527ca]
+## 170. Value of security[^c-3dabdf1a14f18d4776d687e6868527ca]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ that creditor may re-value their security only with permission of the court.
 
 ## Annotations
 
-[^key-3dabdf1a14f18d4776d687e6868527ca]: Commencement: [Rule 170](https://www.legislation.gov.uk/uksi/2011/1301/rule/170) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-3dabdf1a14f18d4776d687e6868527ca]: Commencement: [Rule 170](https://www.legislation.gov.uk/uksi/2011/1301/rule/170) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Accreditation of forensic service providers[^key-ed61e14b8e4c962efb5891924f20fecc]
+## 10. Accreditation of forensic service providers[^c-ed61e14b8e4c962efb5891924f20fecc]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed61e14b8e4c962efb5891924f20fecc]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2020/29/section/10) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/i)
+[^c-ed61e14b8e4c962efb5891924f20fecc]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2020/29/section/10) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/i)

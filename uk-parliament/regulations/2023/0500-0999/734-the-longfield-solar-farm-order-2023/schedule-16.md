@@ -22,14 +22,14 @@ summary: ''
 
 Article 42
 
-### 1. Interpretation[^key-54e4e5599d5326e808dcbda2899213b5]
+### 1. Interpretation[^c-54e4e5599d5326e808dcbda2899213b5]
 
 In this Schedule—
 
 - “**requirement consultee**” means any body or authority named in a requirement as a body to be consulted by the relevant planning authority in discharging that requirement; and
 - “**start date**” means the date of the notification given by the Secretary of State under paragraph 4(2)(b).
 
-### 2. Applications made under requirement[^key-57aa66dbf86426beba012b2b134f4802]
+### 2. Applications made under requirement[^c-57aa66dbf86426beba012b2b134f4802]
 
 (1) Where an application has been made to the relevant planning authority for any consent, agreement or approval required by a requirement the relevant planning authority must give notice to the undertaker of its decision on the application within a period of ten weeks beginning with the later of—
 
@@ -51,7 +51,7 @@ In this Schedule—
 - (a) the timeframes in which the requirement consultee can request any further information from the undertaker (via the relevant planning authority) as prescribed in paragraph 3(6)(a) and the consequences of the failure to meet those timescales as prescribed in paragraph 3(6)(b); and
 - (b) the timeframes in which the requirement consultee must give notice to the relevant planning authority of its comments on the application as prescribed in paragraph 3(6)(d) and the consequences of the failure to meet those timescales as prescribed in paragraph 3(6)(e).
 
-### 3. Further information and consultation[^key-aaac88b91021efcc9bd93105e9b5fbba]
+### 3. Further information and consultation[^c-aaac88b91021efcc9bd93105e9b5fbba]
 
 (1) In relation to any application to which this Schedule applies, the relevant planning authority may request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -71,7 +71,7 @@ In this Schedule—
 - (d) A requirement consultee is required to notify the relevant planning authority in writing of any comments on the application within 15 working days of receipt of the application from the undertaker pursuant to paragraph 2(5), or the receipt of any further information pursuant to sub-paragraph (c) (where further information has been requested); and
 - (e) If a requirement consultee does not give notification as specified in sub-paragraph (d) it is deemed to have no comments on the application.
 
-### 4. Appeals[^key-c296cfa7fbfdb59e03e17b59b99cc198]
+### 4. Appeals[^c-c296cfa7fbfdb59e03e17b59b99cc198]
 
 (1) The undertaker may appeal in the event that—
 
@@ -112,7 +112,7 @@ and may deal with the application as if it had been made to them in the first in
 
 (11) On application by the relevant planning authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to advice on planning appeals and award costs published in Planning Practice Guidance: Appeals (March 2014) or any circular or guidance which may from time to time replace it.
 
-### 5. Fees[^key-a5fbc5cd9761d2f0770e3e226c8ad368]
+### 5. Fees[^c-a5fbc5cd9761d2f0770e3e226c8ad368]
 
 (1) Where an application is made to the relevant planning authority for written consent, agreement or approval in respect of a requirement, the fee prescribed under regulation 16(1)(b) of the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012[^f00073] (as may be amended or replaced from time to time) is to apply and must be paid to the relevant planning authority for each application.
 
@@ -125,14 +125,14 @@ and may deal with the application as if it had been made to them in the first in
 
 ## Annotations
 
-[^key-54e4e5599d5326e808dcbda2899213b5]: Commencement: Sch. 16 para. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-54e4e5599d5326e808dcbda2899213b5]: Commencement: Sch. 16 para. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-57aa66dbf86426beba012b2b134f4802]: Commencement: Sch. 16 para. 2 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-57aa66dbf86426beba012b2b134f4802]: Commencement: Sch. 16 para. 2 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-aaac88b91021efcc9bd93105e9b5fbba]: Commencement: Sch. 16 para. 3 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-aaac88b91021efcc9bd93105e9b5fbba]: Commencement: Sch. 16 para. 3 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-c296cfa7fbfdb59e03e17b59b99cc198]: Commencement: Sch. 16 para. 4 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-c296cfa7fbfdb59e03e17b59b99cc198]: Commencement: Sch. 16 para. 4 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-a5fbc5cd9761d2f0770e3e226c8ad368]: Commencement: Sch. 16 para. 5 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-a5fbc5cd9761d2f0770e3e226c8ad368]: Commencement: Sch. 16 para. 5 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
 [^f00073]: Footnote: [S.I. 2012/2920](https://www.legislation.gov.uk/uksi/2012/2920), amended by [S.I. 2013/2153](https://www.legislation.gov.uk/uksi/2013/2153), [S.I. 2014/357](https://www.legislation.gov.uk/uksi/2014/357), [S.I. 2014/643](https://www.legislation.gov.uk/uksi/2014/643), [S.I. 2017/1314](https://www.legislation.gov.uk/uksi/2017/1314) and [S.I. 2019/1154](https://www.legislation.gov.uk/uksi/2019/1154).

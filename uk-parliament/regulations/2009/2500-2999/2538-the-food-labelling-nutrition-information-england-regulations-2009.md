@@ -32,7 +32,7 @@ summary: ''
 
 Food, England
 
-The Food Labelling (Nutrition Information) (England) Regulations 2009 (revoked)[^key-0bdbe3683259e42dfd99210495067398]
+The Food Labelling (Nutrition Information) (England) Regulations 2009 (revoked)[^c-0bdbe3683259e42dfd99210495067398]
 
 Made
 
@@ -46,33 +46,33 @@ Coming into force
 
 30th October 2009
 
-[^key-0bdbe3683259e42dfd99210495067398]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0bdbe3683259e42dfd99210495067398]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-0bdbe3683259e42dfd99210495067398]
+## 1. Title, application and commencement[^c-0bdbe3683259e42dfd99210495067398]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-0bdbe3683259e42dfd99210495067398]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-0bdbe3683259e42dfd99210495067398]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-0bdbe3683259e42dfd99210495067398]
+## 3. Transitional provision[^c-0bdbe3683259e42dfd99210495067398]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0bdbe3683259e42dfd99210495067398]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0bdbe3683259e42dfd99210495067398]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Table of entries to be substituted as Table A (vitamins in respect of which claims may be made) in Schedule 6, Part II, to the Food Labelling Regulations 1996[^key-0bdbe3683259e42dfd99210495067398]
+## SCHEDULE 1 — Table of entries to be substituted as Table A (vitamins in respect of which claims may be made) in Schedule 6, Part II, to the Food Labelling Regulations 1996[^c-0bdbe3683259e42dfd99210495067398]
 
 Regulation 2(3)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Table of entries to be substituted as Table B (minerals in respect of which claims may be made) in Schedule 6, Part II, to the Food Labelling Regulations 1996[^key-0bdbe3683259e42dfd99210495067398]
+## SCHEDULE 2 — Table of entries to be substituted as Table B (minerals in respect of which claims may be made) in Schedule 6, Part II, to the Food Labelling Regulations 1996[^c-0bdbe3683259e42dfd99210495067398]
 
 Regulation 2(3)(b)
 
@@ -80,8 +80,8 @@ Regulation 2(3)(b)
 
 **May not be in force at this date. Check the source.**
 
-[^key-0bdbe3683259e42dfd99210495067398]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0bdbe3683259e42dfd99210495067398]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0bdbe3683259e42dfd99210495067398]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 24
+[^c-0bdbe3683259e42dfd99210495067398]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 24

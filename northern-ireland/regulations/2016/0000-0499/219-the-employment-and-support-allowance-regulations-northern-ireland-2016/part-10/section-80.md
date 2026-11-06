@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Earnings of employed earners[^key-59aadfe2091708d750e4d493438466b4]
+## 80. Earnings of employed earners[^c-59aadfe2091708d750e4d493438466b4]
 
 *Extent: N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 (2) “Earnings” are not to include—
 
 - (a) subject to paragraph (3), any payment in kind;
-- (b) any remuneration paid by or on behalf of an employer to the claimant in respect of a period throughout which the claimant is on maternity leave, paternity leave, adoption leave (which means a period of absence from work on ordinary or additional adoption leave under Article 107A or 107B of the Employment Rights Order [^f00075]), shared parental leave under Article 107E or 107G of that Order , parental bereavement leave under Article 112EA of that Order[^key-f539991d89f70fdf6e536eb2c458de74] or is absent from work because the claimant is ill;
+- (b) any remuneration paid by or on behalf of an employer to the claimant in respect of a period throughout which the claimant is on maternity leave, paternity leave, adoption leave (which means a period of absence from work on ordinary or additional adoption leave under Article 107A or 107B of the Employment Rights Order [^f00075]), shared parental leave under Article 107E or 107G of that Order , parental bereavement leave under Article 112EA of that Order[^c-f539991d89f70fdf6e536eb2c458de74] or is absent from work because the claimant is ill;
 - (c) any payment in respect of expenses wholly, exclusively and necessarily incurred in the performance of the duties of the employment;
 - (d) any occupational pension (which means any pension or other periodical payment under an occupational pension scheme but does not include any discretionary payment out of a fund established for relieving hardship in particular cases);
 - (e) any lump sum payment made under the Iron and Steel Re-adaptation Benefits Scheme[^f00076];
@@ -77,7 +77,7 @@ summary: ''
 
 ## Annotations
 
-[^key-59aadfe2091708d750e4d493438466b4]: Commencement: [Reg. 80](https://www.legislation.gov.uk/nisr/2016/219/regulation/80) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-59aadfe2091708d750e4d493438466b4]: Commencement: [Reg. 80](https://www.legislation.gov.uk/nisr/2016/219/regulation/80) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00072]: Footnote: Article 146(4) was amended by Schedule 9 to the Employment Relations (Northern Ireland) Order 1999 ([S.I. 1999/2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790)) and paragraph 2(6) of Schedule 5 to the Employment (Northern Ireland) Order 2003 ([S.I. 2003/2902) (N.I. 15)](https://www.legislation.gov.uk/nisi/2003/2902)) and Article 151(3) was amended by Article 32(2) of, and Schedule 9 to, the Employment Relations (Northern Ireland) Order 1999 and paragraph 2(6) of Schedule 5 to the Employment (Northern Ireland) Order 2003
 
@@ -87,7 +87,7 @@ summary: ''
 
 [^f00075]: Footnote: Articles 107A and 107B were inserted by Article 3 of the Employment (Northern Ireland) Order 2002 ([S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)) and Articles 107E and 107G were inserted by section 2(2) of the Work and Families Act (Northern Ireland) [2015 (c. 1)](https://www.legislation.gov.uk/ukpga/2015/1)
 
-[^key-f539991d89f70fdf6e536eb2c458de74]: Textual amendment: Words in [reg. 80(2)(b)](https://www.legislation.gov.uk/nisr/2016/219/regulation/80/2/b) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [26(2)](https://www.legislation.gov.uk/nisr/2023/157/regulation/26/2), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)
+[^c-f539991d89f70fdf6e536eb2c458de74]: Textual amendment: Words in [reg. 80(2)(b)](https://www.legislation.gov.uk/nisr/2016/219/regulation/80/2/b) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [26(2)](https://www.legislation.gov.uk/nisr/2023/157/regulation/26/2), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)
 
 [^f00076]: Footnote: *See* the Schedule to [S.I. 1996/3182](https://www.legislation.gov.uk/uksi/1996/3182)
 

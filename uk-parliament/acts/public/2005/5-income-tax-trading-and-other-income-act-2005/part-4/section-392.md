@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Sections 393 to 395 contain special rules about the charge under this Chapter in respect of shares awarded to an individual under a Schedule 2[^key-41eb755d437a2b21103b9063e425722d] share incentive plan.
+(1) Sections 393 to 395 contain special rules about the charge under this Chapter in respect of shares awarded to an individual under a Schedule 2[^c-41eb755d437a2b21103b9063e425722d] share incentive plan.
 
 (2) Those sections only apply if condition A or B was met at the time the shares in question were so awarded.
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41eb755d437a2b21103b9063e425722d]: Textual amendment: Words in s. 392(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 56](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/56), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-41eb755d437a2b21103b9063e425722d]: Textual amendment: Words in s. 392(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 56](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/56), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))

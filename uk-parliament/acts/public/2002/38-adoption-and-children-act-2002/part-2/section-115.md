@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Special guardianship[^key-73bbecb1027f2b18cb5fb51c0a5d8461][^key-3cc2676d2e158f9ed25e4270c1f7f387]
+## 115. Special guardianship[^c-73bbecb1027f2b18cb5fb51c0a5d8461][^c-3cc2676d2e158f9ed25e4270c1f7f387]
 
 *Extent: E+W+S+N.I.*
 
@@ -241,6 +241,6 @@ summary: ''
 
 ## Annotations
 
-[^key-73bbecb1027f2b18cb5fb51c0a5d8461]: Commencement: S. 115 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(x)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/x)
+[^c-73bbecb1027f2b18cb5fb51c0a5d8461]: Commencement: S. 115 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(x)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/x)
 
-[^key-3cc2676d2e158f9ed25e4270c1f7f387]: Commencement: S. 115 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-3cc2676d2e158f9ed25e4270c1f7f387]: Commencement: S. 115 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

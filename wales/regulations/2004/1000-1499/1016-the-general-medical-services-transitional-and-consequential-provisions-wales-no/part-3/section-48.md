@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Complaints[^key-a94b0f8ebbfc716adef29fd8abbc9c5a]
+## 48. Complaints[^c-a94b0f8ebbfc716adef29fd8abbc9c5a]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ shall be read as if they included a reference to services provided by or receive
 
 ## Annotations
 
-[^key-a94b0f8ebbfc716adef29fd8abbc9c5a]: Commencement: Art. 48 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-a94b0f8ebbfc716adef29fd8abbc9c5a]: Commencement: Art. 48 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

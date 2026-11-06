@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 506. Special rules for trustees affected by section 733 of ICTA[^key-915b5dcc29f9e2988cc3741bad1b8804]
+## 506. Special rules for trustees affected by section 733 of ICTA[^c-915b5dcc29f9e2988cc3741bad1b8804]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-915b5dcc29f9e2988cc3741bad1b8804]: Textual amendment: S. 506 omitted (21.7.2008 with effect in accordance with s. 66(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(4)(l)(vii)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/4/l/vii)
+[^c-915b5dcc29f9e2988cc3741bad1b8804]: Textual amendment: S. 506 omitted (21.7.2008 with effect in accordance with s. 66(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(4)(l)(vii)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/4/l/vii)

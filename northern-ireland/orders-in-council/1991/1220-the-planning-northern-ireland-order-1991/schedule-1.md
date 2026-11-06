@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — LISTED BUILDING CONSENT-APPLICATIONS AND APPEALS[^key-8cc61c9dc9517b3b1dfd808bfb3d5835]
+## SCHEDULE 1 — LISTED BUILDING CONSENT-APPLICATIONS AND APPEALS[^c-8cc61c9dc9517b3b1dfd808bfb3d5835]
 
 *Extent: N.I.*
 
@@ -24,48 +24,48 @@ summary: ''
 
 Article 45(6).
 
-### 1. Form and content of applications[^key-8cc61c9dc9517b3b1dfd808bfb3d5835]
+### 1. Form and content of applications[^c-8cc61c9dc9517b3b1dfd808bfb3d5835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Publication of notices of applications[^key-8cc61c9dc9517b3b1dfd808bfb3d5835]
+### 2. Publication of notices of applications[^c-8cc61c9dc9517b3b1dfd808bfb3d5835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Notification of applications to certain persons[^key-8cc61c9dc9517b3b1dfd808bfb3d5835]
+### 3. Notification of applications to certain persons[^c-8cc61c9dc9517b3b1dfd808bfb3d5835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Determination of application[^key-8cc61c9dc9517b3b1dfd808bfb3d5835]
+### 4. Determination of application[^c-8cc61c9dc9517b3b1dfd808bfb3d5835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Power to decline to determine application[^key-8cc61c9dc9517b3b1dfd808bfb3d5835]
+### Power to decline to determine application[^c-8cc61c9dc9517b3b1dfd808bfb3d5835]
 
-#### 4A. Power to decline to determine subsequent application[^key-8cc61c9dc9517b3b1dfd808bfb3d5835]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 4B. Power to decline to determine overlapping application[^key-8cc61c9dc9517b3b1dfd808bfb3d5835]
+#### 4A. Power to decline to determine subsequent application[^c-8cc61c9dc9517b3b1dfd808bfb3d5835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Consent to execute works without compliance with conditions previously attached[^key-8cc61c9dc9517b3b1dfd808bfb3d5835]
+#### 4B. Power to decline to determine overlapping application[^c-8cc61c9dc9517b3b1dfd808bfb3d5835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Effect of listed building consent[^key-8cc61c9dc9517b3b1dfd808bfb3d5835]
+### 5. Consent to execute works without compliance with conditions previously attached[^c-8cc61c9dc9517b3b1dfd808bfb3d5835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Appeals[^key-8cc61c9dc9517b3b1dfd808bfb3d5835]
+### 6. Effect of listed building consent[^c-8cc61c9dc9517b3b1dfd808bfb3d5835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Appeal in default of planning decision[^key-8cc61c9dc9517b3b1dfd808bfb3d5835]
+### 7. Appeals[^c-8cc61c9dc9517b3b1dfd808bfb3d5835]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Appeal in default of planning decision[^c-8cc61c9dc9517b3b1dfd808bfb3d5835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8cc61c9dc9517b3b1dfd808bfb3d5835]: Textual amendment: Sch. 1 repealed (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-8cc61c9dc9517b3b1dfd808bfb3d5835]: Textual amendment: Sch. 1 repealed (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

@@ -33,12 +33,12 @@ shall be exercisable only by Her Majesty by Order in Council.
 
 (4) An Order in Council under an open power may revoke, amend or re-enact an order, as well as an Order in Council, under the power; and an order under an open power may revoke, amend or re-enact an Order in Council, as well as an order, under the power.
 
-(5) Any power to make subordinate legislation conferred by this Act shall, in relation to its exercise by a Minister of the Crown or a member of the Scottish Government[^key-1a6eec0a223077253e974615c6946a62], be exercisable by statutory instrument.
+(5) Any power to make subordinate legislation conferred by this Act shall, in relation to its exercise by a Minister of the Crown or a member of the Scottish Government[^c-1a6eec0a223077253e974615c6946a62], be exercisable by statutory instrument.
 
-(6)[^key-ad3d5b1309aff10b3df33d38b102ae6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ad3d5b1309aff10b3df33d38b102ae6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
+[^c-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
 
-[^key-ad3d5b1309aff10b3df33d38b102ae6e]: Textual amendment: [S. 112(6)](https://www.legislation.gov.uk/ukpga/1998/46/section/112/6) omitted (18.5.2017) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 10(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/10/3), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/h)
+[^c-ad3d5b1309aff10b3df33d38b102ae6e]: Textual amendment: [S. 112(6)](https://www.legislation.gov.uk/ukpga/1998/46/section/112/6) omitted (18.5.2017) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 10(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/10/3), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/h)

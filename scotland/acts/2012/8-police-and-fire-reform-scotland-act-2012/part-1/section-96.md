@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Interpretation of Chapter 16[^key-267d1a8911b52f2245d2aaff00cfc3c6]
+## 96. Interpretation of Chapter 16[^c-267d1a8911b52f2245d2aaff00cfc3c6]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-267d1a8911b52f2245d2aaff00cfc3c6]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2012/8/section/96) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-267d1a8911b52f2245d2aaff00cfc3c6]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2012/8/section/96) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

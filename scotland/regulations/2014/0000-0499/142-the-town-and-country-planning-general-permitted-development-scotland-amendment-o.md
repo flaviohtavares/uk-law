@@ -46,13 +46,13 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 30, 31 and 275 of the Town and Country Planning (Scotland) Act 1997[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-5844ce716d7191ccc89a9e3bf10f0f13]
+## 1. Citation, commencement and interpretation[^c-5844ce716d7191ccc89a9e3bf10f0f13]
 
 (1) This Order may be cited as the Town and Country Planning (General Permitted Development) (Scotland) Amendment Order 2014 and comes into force on 30th June 2014.
 
 (2) In this Order “the 1992 Order” means the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^f00002].
 
-## 2. Amendment of the 1992 Order[^key-1845262591e11f45cd77cdc57c7cbe97]
+## 2. Amendment of the 1992 Order[^c-1845262591e11f45cd77cdc57c7cbe97]
 
 (1) The 1992 Order is amended in accordance with paragraphs (2) to (13).
 
@@ -224,7 +224,7 @@ Edinburgh
 
 28th May 2014
 
-## SCHEDULE[^key-115ce7e7a387f15e6c43e972356a06e7]
+## SCHEDULE[^c-115ce7e7a387f15e6c43e972356a06e7]
 
 Article 2(4)
 
@@ -265,9 +265,9 @@ Article 2(4)
 >
 > (5) In this class—
 >
-> - “enclosed shopping centre” means a building containing shops having frontages to an arcade or mall or other covered circulation area;[^key-a12a20719e655ff9ff046f7b11bbf594]
+> - “enclosed shopping centre” means a building containing shops having frontages to an arcade or mall or other covered circulation area;[^c-a12a20719e655ff9ff046f7b11bbf594]
 > - “raised platform” means a platform with a height greater than 300 millimetres;
-> - “retail park” means a group of 3 or more retail stores, at least one of which has a minimum internal floor area of 1,000 square metres and which—[^key-3cde776f03b7a1aa7e0082cf861d8884]
+> - “retail park” means a group of 3 or more retail stores, at least one of which has a minimum internal floor area of 1,000 square metres and which—[^c-3cde776f03b7a1aa7e0082cf861d8884]
 >   - (a) are set apart from existing shopping centres but within an existing or proposed urban area;
 >   - (b) sell primarily goods other than food; and
 >   - (c) share one or more communal car parks;
@@ -290,8 +290,8 @@ Article 2(4)
 >
 > (5) In this class—
 >
-> - [^key-c009968f72aabb5e58dd53b0a530f30e]...
-> - [^key-0a5e0770c4ecf64ea389f65bcf0e29bc]...
+> - [^c-c009968f72aabb5e58dd53b0a530f30e]...
+> - [^c-0a5e0770c4ecf64ea389f65bcf0e29bc]...
 > - “shop” means a building used for any purpose within class 1 of the Schedule to the Use Classes Order; and
 > - “trolley store” means a building or enclosure designed to be used for the storage of shopping trolleys.
 >
@@ -339,7 +339,7 @@ Article 2(4)
 > - (a) any reference to height is a reference to height when measured from ground level and ground level means the level of the surface of the ground immediately adjacent to the building or structure or, where the level of the ground is not uniform, the level of the lowest part of the surface of the ground adjacent to it;
 > - (b) “care” means personal care including the provision of appropriate help with physical and social needs or support including medical care and treatment; and
 >
-> - “raised platform” means a platform with a height greater than 300 millimetres;[^key-003b229ef5cdfa3d9df660bac68d7f29]
+> - “raised platform” means a platform with a height greater than 300 millimetres;[^c-003b229ef5cdfa3d9df660bac68d7f29]
 > - “World Heritage Site” means land appearing on the World Heritage List kept under article 11(2) of the 1972 UNESCO Convention for the Protection of the World Cultural and Natural Heritage.
 >
 > **PART 2C — OFFICE BUILDINGS**
@@ -373,7 +373,7 @@ Article 2(4)
 > (4) For the purposes of this class—
 >
 > - (a) any reference to height is a reference to height when measured from ground level and ground level means the level of the surface of the ground immediately adjacent to the building or structure or, where the level of the ground is not uniform, the level of the lowest part of the surface of the ground adjacent to it; and
-> - (b) “raised platform” means a platform with a height greater than 300 millimetres; and[^key-b453c5fefc8719905c405b4baaca5e75]
+> - (b) “raised platform” means a platform with a height greater than 300 millimetres; and[^c-b453c5fefc8719905c405b4baaca5e75]
 >
 > - “World Heritage Site” means land appearing on the World Heritage List kept under article 11(2) of the 1972 UNESCO Convention for the Protection of the World Cultural and Natural Heritage.
 >
@@ -518,11 +518,11 @@ The amendments made by article 2(13) relate to development by telecommunications
 
 [^f00001]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-5844ce716d7191ccc89a9e3bf10f0f13]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/142/article/1) in force at 30.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/142/article/1/1)
+[^c-5844ce716d7191ccc89a9e3bf10f0f13]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/142/article/1) in force at 30.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/142/article/1/1)
 
 [^f00002]: Footnote: [S.I. 1992/223](https://www.legislation.gov.uk/uksi/1992/223); relevantly amended by [S.I. 1992/1078](https://www.legislation.gov.uk/uksi/1992/1078) and [2084](https://www.legislation.gov.uk/ukpga/1992/2084), [1994/3294](https://www.legislation.gov.uk/ukpga/1994/3294), [1996/3023](https://www.legislation.gov.uk/ukpga/1996/3023) and [2003/2155](https://www.legislation.gov.uk/ukpga/2003/2155) and [S.S.I. 2001/266](https://www.legislation.gov.uk/ssi/2001/266), [2004/32](https://www.legislation.gov.uk/ssi/2004/32), [2006/270](https://www.legislation.gov.uk/ssi/2006/270), [2007/209](https://www.legislation.gov.uk/ssi/2007/209) and [2011/357](https://www.legislation.gov.uk/ssi/2011/357).
 
-[^key-1845262591e11f45cd77cdc57c7cbe97]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/142/article/2) in force at 30.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/142/article/1/1)
+[^c-1845262591e11f45cd77cdc57c7cbe97]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/142/article/2) in force at 30.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/142/article/1/1)
 
 [^f00003]: Footnote: [1979 c.46](https://www.legislation.gov.uk/ukpga/1979/46).
 
@@ -530,16 +530,16 @@ The amendments made by article 2(13) relate to development by telecommunications
 
 [^f00005]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-115ce7e7a387f15e6c43e972356a06e7]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2014/142/schedule) in force at 30.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/142/article/1/1)
+[^c-115ce7e7a387f15e6c43e972356a06e7]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2014/142/schedule) in force at 30.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/142/article/1/1)
 
-[^key-a12a20719e655ff9ff046f7b11bbf594]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/142/schedule) inserted (29.6.2014) by [The Town and Country Planning (General Permitted Development) (Scotland) Amendment (Amendment) Order 2014 (S.S.I. 2014/184)](https://www.legislation.gov.uk/ssi/2014/184), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/184/article/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2014/184/article/2/2/a/i)
+[^c-a12a20719e655ff9ff046f7b11bbf594]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/142/schedule) inserted (29.6.2014) by [The Town and Country Planning (General Permitted Development) (Scotland) Amendment (Amendment) Order 2014 (S.S.I. 2014/184)](https://www.legislation.gov.uk/ssi/2014/184), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/184/article/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2014/184/article/2/2/a/i)
 
-[^key-3cde776f03b7a1aa7e0082cf861d8884]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/142/schedule) inserted (29.6.2014) by [The Town and Country Planning (General Permitted Development) (Scotland) Amendment (Amendment) Order 2014 (S.S.I. 2014/184)](https://www.legislation.gov.uk/ssi/2014/184), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/184/article/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2014/184/article/2/2/a/ii)
+[^c-3cde776f03b7a1aa7e0082cf861d8884]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/142/schedule) inserted (29.6.2014) by [The Town and Country Planning (General Permitted Development) (Scotland) Amendment (Amendment) Order 2014 (S.S.I. 2014/184)](https://www.legislation.gov.uk/ssi/2014/184), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/184/article/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2014/184/article/2/2/a/ii)
 
-[^key-c009968f72aabb5e58dd53b0a530f30e]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/142/schedule) omitted (29.6.2014) by virtue of [The Town and Country Planning (General Permitted Development) (Scotland) Amendment (Amendment) Order 2014 (S.S.I. 2014/184)](https://www.legislation.gov.uk/ssi/2014/184), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/184/article/1/1), [2(2)(b)(i)](https://www.legislation.gov.uk/ssi/2014/184/article/2/2/b/i)
+[^c-c009968f72aabb5e58dd53b0a530f30e]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/142/schedule) omitted (29.6.2014) by virtue of [The Town and Country Planning (General Permitted Development) (Scotland) Amendment (Amendment) Order 2014 (S.S.I. 2014/184)](https://www.legislation.gov.uk/ssi/2014/184), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/184/article/1/1), [2(2)(b)(i)](https://www.legislation.gov.uk/ssi/2014/184/article/2/2/b/i)
 
-[^key-0a5e0770c4ecf64ea389f65bcf0e29bc]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/142/schedule) omitted (29.6.2014) by virtue of [The Town and Country Planning (General Permitted Development) (Scotland) Amendment (Amendment) Order 2014 (S.S.I. 2014/184)](https://www.legislation.gov.uk/ssi/2014/184), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/184/article/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2014/184/article/2/2/b/ii)
+[^c-0a5e0770c4ecf64ea389f65bcf0e29bc]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/142/schedule) omitted (29.6.2014) by virtue of [The Town and Country Planning (General Permitted Development) (Scotland) Amendment (Amendment) Order 2014 (S.S.I. 2014/184)](https://www.legislation.gov.uk/ssi/2014/184), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/184/article/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2014/184/article/2/2/b/ii)
 
-[^key-003b229ef5cdfa3d9df660bac68d7f29]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/142/schedule) inserted (29.6.2014) by [The Town and Country Planning (General Permitted Development) (Scotland) Amendment (Amendment) Order 2014 (S.S.I. 2014/184)](https://www.legislation.gov.uk/ssi/2014/184), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/184/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2014/184/article/2/2/c)
+[^c-003b229ef5cdfa3d9df660bac68d7f29]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/142/schedule) inserted (29.6.2014) by [The Town and Country Planning (General Permitted Development) (Scotland) Amendment (Amendment) Order 2014 (S.S.I. 2014/184)](https://www.legislation.gov.uk/ssi/2014/184), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/184/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2014/184/article/2/2/c)
 
-[^key-b453c5fefc8719905c405b4baaca5e75]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/142/schedule) inserted (29.6.2014) by [The Town and Country Planning (General Permitted Development) (Scotland) Amendment (Amendment) Order 2014 (S.S.I. 2014/184)](https://www.legislation.gov.uk/ssi/2014/184), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/184/article/1/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2014/184/article/2/2/d)
+[^c-b453c5fefc8719905c405b4baaca5e75]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/142/schedule) inserted (29.6.2014) by [The Town and Country Planning (General Permitted Development) (Scotland) Amendment (Amendment) Order 2014 (S.S.I. 2014/184)](https://www.legislation.gov.uk/ssi/2014/184), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/184/article/1/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2014/184/article/2/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Introduction[^key-42f398abfc8c2b4b586575e814fc6bd3]
+## 129. Introduction[^c-42f398abfc8c2b4b586575e814fc6bd3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Amend the Tax-exempt Special Savings Account Regulations 1990 in accordance with
 
 ## Annotations
 
-[^key-42f398abfc8c2b4b586575e814fc6bd3]: Commencement: Art. 129 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-42f398abfc8c2b4b586575e814fc6bd3]: Commencement: Art. 129 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

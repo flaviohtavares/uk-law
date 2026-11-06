@@ -31,7 +31,7 @@ summary: ''
 
 POLICE
 
-The Police (Northern Ireland) Act 2000 (Designated Places of Detention) Order 2004 (revoked)[^key-b809fc09dc1e65b88e5430e8559dfaeb]
+The Police (Northern Ireland) Act 2000 (Designated Places of Detention) Order 2004 (revoked)[^c-b809fc09dc1e65b88e5430e8559dfaeb]
 
 Made
 
@@ -45,20 +45,20 @@ Coming into force
 
 7th June 2004
 
-[^key-b809fc09dc1e65b88e5430e8559dfaeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b809fc09dc1e65b88e5430e8559dfaeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-b809fc09dc1e65b88e5430e8559dfaeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b809fc09dc1e65b88e5430e8559dfaeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b809fc09dc1e65b88e5430e8559dfaeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b809fc09dc1e65b88e5430e8559dfaeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b809fc09dc1e65b88e5430e8559dfaeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b809fc09dc1e65b88e5430e8559dfaeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b809fc09dc1e65b88e5430e8559dfaeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b809fc09dc1e65b88e5430e8559dfaeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b809fc09dc1e65b88e5430e8559dfaeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b809fc09dc1e65b88e5430e8559dfaeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b809fc09dc1e65b88e5430e8559dfaeb]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/221) revoked (7.12.2004) by [The Police (Northern Ireland) Act 2000 (Designated Places of Detention) (No. 2) Order 2004 (S.R. 2004/476)](https://www.legislation.gov.uk/nisr/2004/476), [arts. 1](https://www.legislation.gov.uk/nisr/2004/476/article/1), [3](https://www.legislation.gov.uk/nisr/2004/476/article/3)
+[^c-b809fc09dc1e65b88e5430e8559dfaeb]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/221) revoked (7.12.2004) by [The Police (Northern Ireland) Act 2000 (Designated Places of Detention) (No. 2) Order 2004 (S.R. 2004/476)](https://www.legislation.gov.uk/nisr/2004/476), [arts. 1](https://www.legislation.gov.uk/nisr/2004/476/article/1), [3](https://www.legislation.gov.uk/nisr/2004/476/article/3)

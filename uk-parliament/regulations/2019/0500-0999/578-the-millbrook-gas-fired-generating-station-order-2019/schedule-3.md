@@ -22,9 +22,9 @@ summary: ''
 
 Article 8
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT[^key-726129f3967abde58cb7f6386134e963]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT[^c-726129f3967abde58cb7f6386134e963]
 
-Table 3[^key-4d5d685ef93d11dc15eba86fb6f24dbb]
+Table 3[^c-4d5d685ef93d11dc15eba86fb6f24dbb]
 
 | *(1)**Area* | *(2)**Street subject to alteration of layout* | *(3)**Description of alteration* |
 | --- | --- | --- |
@@ -39,7 +39,7 @@ Table 3[^key-4d5d685ef93d11dc15eba86fb6f24dbb]
 | Central Bedfordshire Council | low level restoration scheme secondary access track | Creation of new access comprising part of numbered work 6 within the area shown on the rights of way, streets and access plan with orange hatching to provide permanent access to numbered work 6(a). |
 | Central Bedfordshire Council | Station Lane | Creation of new access comprising part of numbered work 6 between the points marked SS and TT on the rights of way, streets and access plan to provide permanent access to numbered work 6(a). |
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^key-c683e863c6198bba33f5c17d595b2e83]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^c-c683e863c6198bba33f5c17d595b2e83]
 
 Table 4
 
@@ -50,8 +50,8 @@ Table 4
 
 ## Annotations
 
-[^key-726129f3967abde58cb7f6386134e963]: Commencement: Sch. 3 Pt. 1 in force at 3.4.2019, see art. 1
+[^c-726129f3967abde58cb7f6386134e963]: Commencement: Sch. 3 Pt. 1 in force at 3.4.2019, see art. 1
 
-[^key-4d5d685ef93d11dc15eba86fb6f24dbb]: Textual amendment: Sch. 3 Pt. 1 Table 3 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [5](https://www.legislation.gov.uk/uksi/2020/413/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/413/schedule/2)
+[^c-4d5d685ef93d11dc15eba86fb6f24dbb]: Textual amendment: Sch. 3 Pt. 1 Table 3 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [5](https://www.legislation.gov.uk/uksi/2020/413/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/413/schedule/2)
 
-[^key-c683e863c6198bba33f5c17d595b2e83]: Commencement: Sch. 3 Pt. 2 in force at 3.4.2019, see art. 1
+[^c-c683e863c6198bba33f5c17d595b2e83]: Commencement: Sch. 3 Pt. 2 in force at 3.4.2019, see art. 1

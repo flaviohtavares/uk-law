@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Offence of breaching forced marriage protection order[^key-c34a48c4e3bcecd41d07998aea8a04cc]
+## 120. Offence of breaching forced marriage protection order[^c-c34a48c4e3bcecd41d07998aea8a04cc]
 
 *Extent: E+W*
 
@@ -65,10 +65,10 @@ summary: ''
 
 (6) This section applies only in relation to conduct occurring on or after the day on which it comes into force.
 
-(7) In relation to an offence committed before 2 May 2022[^key-42d25696db0fbf5ab73439d63ef5afdb], the reference to 12 months in section 63CA(5)(b) of the Family Law Act 1996 (inserted by subsection (2) above) is to be read as a reference to six months.
+(7) In relation to an offence committed before 2 May 2022[^c-42d25696db0fbf5ab73439d63ef5afdb], the reference to 12 months in section 63CA(5)(b) of the Family Law Act 1996 (inserted by subsection (2) above) is to be read as a reference to six months.
 
 ## Annotations
 
-[^key-c34a48c4e3bcecd41d07998aea8a04cc]: Commencement: S. 120 in force at 16.6.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 5(a)](https://www.legislation.gov.uk/uksi/2014/949/article/5/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2014/949/article/10))
+[^c-c34a48c4e3bcecd41d07998aea8a04cc]: Commencement: S. 120 in force at 16.6.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 5(a)](https://www.legislation.gov.uk/uksi/2014/949/article/5/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2014/949/article/10))
 
-[^key-42d25696db0fbf5ab73439d63ef5afdb]: Textual amendment: Words in [s. 120(7)](https://www.legislation.gov.uk/ukpga/2014/12/section/120/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-42d25696db0fbf5ab73439d63ef5afdb]: Textual amendment: Words in [s. 120(7)](https://www.legislation.gov.uk/ukpga/2014/12/section/120/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)

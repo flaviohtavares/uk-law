@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Applications to vary[^key-95d2c0956a28c2e020038f91bab2ff06][^key-1f5b0d12e29bedf399d7c75145e7e568]
+## 46. Applications to vary[^c-95d2c0956a28c2e020038f91bab2ff06][^c-1f5b0d12e29bedf399d7c75145e7e568]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95d2c0956a28c2e020038f91bab2ff06]: Commencement: S. 46 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-95d2c0956a28c2e020038f91bab2ff06]: Commencement: S. 46 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-1f5b0d12e29bedf399d7c75145e7e568]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2025/28/section/46) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-1f5b0d12e29bedf399d7c75145e7e568]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2025/28/section/46) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

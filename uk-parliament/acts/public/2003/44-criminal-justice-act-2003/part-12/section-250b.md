@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250B. Public event attendance prohibition condition[^key-e5cb29724bc00030d0cbbdc387f38f3b]
+## 250B. Public event attendance prohibition condition[^c-e5cb29724bc00030d0cbbdc387f38f3b]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5cb29724bc00030d0cbbdc387f38f3b]: Textual amendment: S. 250B inserted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 27(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/5), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 27(9)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/9)); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/i) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-e5cb29724bc00030d0cbbdc387f38f3b]: Textual amendment: S. 250B inserted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 27(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/5), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 27(9)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/9)); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/i) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))

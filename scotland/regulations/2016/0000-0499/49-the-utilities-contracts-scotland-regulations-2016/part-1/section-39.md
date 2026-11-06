@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Nomenclatures[^key-5578a34f0d3ab80f912926acd80bbcdf]
+## 39. Nomenclatures[^c-5578a34f0d3ab80f912926acd80bbcdf]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any references to nomenclatures in the context of procurement must be made using
 
 ## Annotations
 
-[^key-5578a34f0d3ab80f912926acd80bbcdf]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2016/49/regulation/39) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-5578a34f0d3ab80f912926acd80bbcdf]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2016/49/regulation/39) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

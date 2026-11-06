@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Persons subject to control order: powers of search and seizure[^key-8b8271dd76896a24c38fd7bfb25a913c]
+## 56. Persons subject to control order: powers of search and seizure[^c-8b8271dd76896a24c38fd7bfb25a913c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b8271dd76896a24c38fd7bfb25a913c]: Textual amendment: S. 56 omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 6(5)(a)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/6/5/a) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
+[^c-8b8271dd76896a24c38fd7bfb25a913c]: Textual amendment: S. 56 omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 6(5)(a)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/6/5/a) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))

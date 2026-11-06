@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Penalties for unlawful eviction or harassment of occupier[^key-14f1b37a629df65e50245770eecef948][^key-0fe70293f01ab88577d932be0a3a03d1]
+## 58. Penalties for unlawful eviction or harassment of occupier[^c-14f1b37a629df65e50245770eecef948][^c-0fe70293f01ab88577d932be0a3a03d1]
 
 *Extent: E+W*
 
@@ -176,6 +176,6 @@ summary: ''
 
 ## Annotations
 
-[^key-14f1b37a629df65e50245770eecef948]: Commencement: S. 58 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-14f1b37a629df65e50245770eecef948]: Commencement: S. 58 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-0fe70293f01ab88577d932be0a3a03d1]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2025/26/section/58) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/d)
+[^c-0fe70293f01ab88577d932be0a3a03d1]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2025/26/section/58) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/d)

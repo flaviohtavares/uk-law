@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 74. Testing and Inspection[^key-3e7c8c934b7f3e95be57d9d9dd8ad84e][^key-62795157f883ffbb4f19932971b276a7]
+## 74. Testing and Inspection[^c-3e7c8c934b7f3e95be57d9d9dd8ad84e][^c-62795157f883ffbb4f19932971b276a7]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) a police constable in uniform;
 - (b) a person appointed by the Commissioner of Police of the Metropolis to inspect public carriages for the purpose of the Metropolitan Public Carriage Act 1869;
-- (c) a person appointed by the police authority or local policing body[^key-cf70673f3869652ba812895972df65e5] for a police area to act for the purposes of section 53 of the 1972 Act;
+- (c) a person appointed by the police authority or local policing body[^c-cf70673f3869652ba812895972df65e5] for a police area to act for the purposes of section 53 of the 1972 Act;
 - (d) a goods vehicle examiner as defined in section 56 of the 1972 Act;
 - (e) a certifying officer as defined in section 7(1) of the 1981 Act; and
 - (f) a public service vehicle examiner appointed as mentioned in section 7(2) of the 1981 Act.
@@ -48,8 +48,8 @@ and in cases *(a)* and *(b)* the address of the owner as shown on the said regis
 
 ## Annotations
 
-[^key-3e7c8c934b7f3e95be57d9d9dd8ad84e]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/1986/1078/regulation/74) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-3e7c8c934b7f3e95be57d9d9dd8ad84e]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/1986/1078/regulation/74) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-62795157f883ffbb4f19932971b276a7]: Modification: [Reg. 74](https://www.legislation.gov.uk/uksi/1986/1078/regulation/74) applied (1.11.1989) by [The Road Vehicles Lighting Regulations 1989 (S.I. 1989/1796)](https://www.legislation.gov.uk/uksi/1989/1796), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1989/1796/regulation/28) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/4/3))
+[^c-62795157f883ffbb4f19932971b276a7]: Modification: [Reg. 74](https://www.legislation.gov.uk/uksi/1986/1078/regulation/74) applied (1.11.1989) by [The Road Vehicles Lighting Regulations 1989 (S.I. 1989/1796)](https://www.legislation.gov.uk/uksi/1989/1796), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1989/1796/regulation/28) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/4/3))
 
-[^key-cf70673f3869652ba812895972df65e5]: Textual amendment: Words in [reg. 74(1)(c)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/74/1/c) inserted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/9/4)
+[^c-cf70673f3869652ba812895972df65e5]: Textual amendment: Words in [reg. 74(1)(c)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/74/1/c) inserted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/9/4)

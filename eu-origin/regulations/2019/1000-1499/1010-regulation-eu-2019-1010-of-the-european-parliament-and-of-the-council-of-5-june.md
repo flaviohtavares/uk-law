@@ -264,7 +264,7 @@ Directive 2009/147/EC is amended as follows:
 
 Directive 2010/63/EU is amended as follows:
 
-- ((1)) [^key-abab512f2dd5da2046b3a47ed27f50e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((1)) [^c-abab512f2dd5da2046b3a47ed27f50e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - ((2)) Article 54 is amended as follows:
   - ((a)) the title and paragraphs 1 and 2 are replaced by the following:
 
@@ -430,6 +430,6 @@ G. CIAMBA
 
 [^f00024]: Footnote: Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers ([OJ L 55, 28.2.2011, p. 13](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.055.01.0013.01.ENG)).’
 
-[^key-abab512f2dd5da2046b3a47ed27f50e4]: Textual amendment: Art. 6(1) revoked (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2026/663/regulation/12)
+[^c-abab512f2dd5da2046b3a47ed27f50e4]: Textual amendment: Art. 6(1) revoked (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2026/663/regulation/12)
 
 [^f00025]: Footnote: Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information and repealing Council Directive 90/313/EEC ([OJ L 41, 14.2.2003, p. 26](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.041.01.0026.01.ENG)).’;

@@ -22,7 +22,7 @@ summary: ''
 
 (1) Before the appointed day the Secretary of State shall by order specify—
 
-- (a) each educational institution maintained by a local authority[^key-5ca14e1c5c9fb4ff32ae914fdd63af76] which appears to him to fall within subsection (2) below, and
+- (a) each educational institution maintained by a local authority[^c-5ca14e1c5c9fb4ff32ae914fdd63af76] which appears to him to fall within subsection (2) below, and
 - (b) each county school, controlled school or grant-maintained school which appears to him to fall within subsection (3) below.
 
 (2) An institution falls within this subsection if on 1st November 1990 its enrolment number calculated in accordance with paragraph 1(1) of Schedule 3 to this Act was not less than 15 per cent. of its total enrolment number calculated in accordance with paragraph 1(2) of that Schedule.
@@ -41,4 +41,4 @@ summary: ''
 
 [^c11062291]: Commencement: S. 15 wholly in force: s. 15(1)(2)(3)(5)(6)(7) in force at 6.5.1992; s. 15(4) in force at 30.9.1992, see s. 94(3) and [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1992/831/schedule/1), [2](https://www.legislation.gov.uk/uksi/1992/831/schedule/2)
 
-[^key-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)
+[^c-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)

@@ -45,36 +45,36 @@ Coming into Operation
 
 15th September 1982
 
-The Secretary of State for Transport (as respects England) and the Secretary of State for Wales (as respects Wales), in exercise of the powers conferred by Section 13(2) and (3) of the Road Traffic Regulation Act 1967[^f00001] and now vested in them [^f00002], and of all other enabling powers, and after consultation with representative organisations in accordance with the provisions of section 107(2) of that Act, hereby make the following Regulations:—[^key-f310dbc94affd9f6f31b18218ce0a4a2][^key-365b294eee05bdf8cf109906795e86c8][^key-a4f5e58efd36d2dbaa7bd8e644bf99eb][^key-9d0ecadcdf9df00a1b11aaea1084036f][^key-b837310ee351ebdf35f47f2834878d6f][^key-c0c2173c09b81b44dcf95797618ad144][^key-cd10ea3bf69906781f7a8fe7e7cda446][^key-94d1f0b8b93f9db5f2be0acd0affbdce][^key-9e00d85a77b2bb9a086f8ec4dce2f7ec][^key-2d6a1423b8f3124e301159a3fadc5a7a][^key-b8e7005861a3d3ba580f4bccf12d8063][^key-4b57f0e453cd108b44f275826885bc9c]
+The Secretary of State for Transport (as respects England) and the Secretary of State for Wales (as respects Wales), in exercise of the powers conferred by Section 13(2) and (3) of the Road Traffic Regulation Act 1967[^f00001] and now vested in them [^f00002], and of all other enabling powers, and after consultation with representative organisations in accordance with the provisions of section 107(2) of that Act, hereby make the following Regulations:—[^c-f310dbc94affd9f6f31b18218ce0a4a2][^c-365b294eee05bdf8cf109906795e86c8][^c-a4f5e58efd36d2dbaa7bd8e644bf99eb][^c-9d0ecadcdf9df00a1b11aaea1084036f][^c-b837310ee351ebdf35f47f2834878d6f][^c-c0c2173c09b81b44dcf95797618ad144][^c-cd10ea3bf69906781f7a8fe7e7cda446][^c-94d1f0b8b93f9db5f2be0acd0affbdce][^c-9e00d85a77b2bb9a086f8ec4dce2f7ec][^c-2d6a1423b8f3124e301159a3fadc5a7a][^c-b8e7005861a3d3ba580f4bccf12d8063][^c-4b57f0e453cd108b44f275826885bc9c]
 
-## 1. Commencement and citation[^key-5190dda62534aa9724252684027d9016]
+## 1. Commencement and citation[^c-5190dda62534aa9724252684027d9016]
 
 These Regulations shall come into operation on 15th September 1982 and may be cited as the Motorways Traffic (England and Wales) Regulations 1982.
 
-## 2. Revocation[^key-39c65779bccb4c3b10ad5e999c60dbd9]
+## 2. Revocation[^c-39c65779bccb4c3b10ad5e999c60dbd9]
 
 The Motorways Traffic Regulations 1959[^f00003] and the Motorways Traffic (England and Wales) (Amendment) Regulations 1971[^f00004] are hereby revoked.
 
-## 3. Interpretation[^key-201496f48b42aae1f216c2240d1cb2de]
+## 3. Interpretation[^c-201496f48b42aae1f216c2240d1cb2de]
 
 (1) In these Regulations, the following expressions have the meanings hereby respectively assigned to them:—
 
-- (a)[^key-4dc77ba5aafc791654e2aa003d2c78e6] “the 1984 Act” means the Road Traffic Regulation Act 1984;
-- (b)[^key-ab0f7f97eb0944741c89daa56b000886] “carriageway ” means that part of a motorway which—
+- (a)[^c-4dc77ba5aafc791654e2aa003d2c78e6] “the 1984 Act” means the Road Traffic Regulation Act 1984;
+- (b)[^c-ab0f7f97eb0944741c89daa56b000886] “carriageway ” means that part of a motorway which—
   - (i) is provided for the regular passage of vehicular motor traffic along the motorway; and
   - (ii) where a hard shoulder is provided, has the approximate position of its left-hand or near-side edge marked with a traffic sign of the type shown in diagram 1012.1 in Schedule 2 to the Traffic Signs Regulations and General Directions 1981.
 - (c) “central reservation” means that part of a motorway which separates the carriageway to be used by vehicles travelling in one direction from the carriageway to be used by vehicles travelling in the opposite direction;
 
 *Extent: E*
 
-- (ca)[^key-97734f04f2f18a2390f4417de6f9a6b2] emergency refuge area” means a part of the motorway—
+- (ca)[^c-97734f04f2f18a2390f4417de6f9a6b2] emergency refuge area” means a part of the motorway—
   - (i) which is adjacent to and situated on the left hand or near side of the hard shoulder or carriageway when facing in the direction in which, in accordance with regulation 6, vehicles may be driven, and
   - (ii) whose boundary with the hard shoulder or carriageway indicated by a marking of the type shown in diagram 1010 in Schedule 6 to the Traffic Signs Regulations 2002;
 - (d) “excluded traffic” means traffic which is not traffic of Classes I or II;
 - (e) “hard shoulder” means a part of the motorway which is adjacent to and situated on the left hand or near side of the carriageway when facing in the direction in which vehicles may be driven in accordance with Regulation 6, and which is designed to take the weight of a vehicle;
 - (f) “motorway” means any road or part of a road to which these Regulations apply by virtue of Regulation 4;
-- (ff)[^key-9cd733cf6e0832df46aa7412e48cdf48] “traffic officer” means an individual designated as such by, or under an authority given by, the Secretary of State or the National Assembly for Wales in accordance with section 2 of the Traffic Management Act 2004;
-- (g) “verge” means any part of a motorway which is not a carriageway, a hard shoulder, an emergency refuge area, *(Extent: E)*[^key-f1929cebd20acb398b407a3973db4a0b] or a central reservation.
+- (ff)[^c-9cd733cf6e0832df46aa7412e48cdf48] “traffic officer” means an individual designated as such by, or under an authority given by, the Secretary of State or the National Assembly for Wales in accordance with section 2 of the Traffic Management Act 2004;
+- (g) “verge” means any part of a motorway which is not a carriageway, a hard shoulder, an emergency refuge area, *(Extent: E)*[^c-f1929cebd20acb398b407a3973db4a0b] or a central reservation.
 
 (2) A vehicle shall be treated for the purposes of any provision of these Regulations as being on any part of a motorway specified in that provision if any part of the vehicle (whether it is at rest or not) is on the part of the motorway so specified.
 
@@ -82,15 +82,15 @@ The Motorways Traffic Regulations 1959[^f00003] and the Motorways Traffic (Engla
 
 (4) In these Regulations references to numbered classes of traffic are references to the classes of traffic set out in Schedule 4 to the Highways Act 1980[^f00006].
 
-## 4. Application[^key-4fb3191fb7128820ddf8ed35cf683aeb]
+## 4. Application[^c-4fb3191fb7128820ddf8ed35cf683aeb]
 
 Subject to section 17(5) of the 1984 Act, these Regulations apply to every special road or part of a special road which can be used only by traffic of Class I or II.
 
-## 5. Vehicles to be driven on the carriageway only[^key-483870cf1a2ec355dddeddb1aafb0067]
+## 5. Vehicles to be driven on the carriageway only[^c-483870cf1a2ec355dddeddb1aafb0067]
 
 Subject to the following provisions of these Regulations, no vehicle shall be driven on any part of a motorway which is not a carriageway.
 
-## 6. Direction of driving[^key-dc54536653f3ebf934f54112eff2ccac]
+## 6. Direction of driving[^c-dc54536653f3ebf934f54112eff2ccac]
 
 (1) Where there is a traffic sign indicating that there is no entry to a carriageway at a particular place, no vehicle shall be driven or moved onto that carriageway at that place.
 
@@ -107,11 +107,11 @@ Subject to the following provisions of these Regulations, no vehicle shall be dr
 
 shall be driven or moved so as to cause it to turn and proceed in or face the opposite direction.
 
-## 7. Restriction on stopping[^key-8d5f056911c2775cd8935b63dc4626fb]
+## 7. Restriction on stopping[^c-8d5f056911c2775cd8935b63dc4626fb]
 
 (1) Subject to the following provisions of this Regulation, no vehicle shall stop or remain at rest on a carriageway.
 
-(2) Where it is necessary for a vehicle which is being driven on a carriageway or on any emergency refuge area which is adjacent to that carriageway or hard shoulder *(Extent: E)*[^key-85fd1e743e0cd84838706f2376187da3] to be stopped while it is on a motorway—
+(2) Where it is necessary for a vehicle which is being driven on a carriageway or on any emergency refuge area which is adjacent to that carriageway or hard shoulder *(Extent: E)*[^c-85fd1e743e0cd84838706f2376187da3] to be stopped while it is on a motorway—
 
 - (a) by reason of a breakdown or mechanical defect or lack of fuel, oil or water, required for the vehicle; or
 - (b) by reason of any accident, illness or other emergency; or
@@ -122,16 +122,16 @@ the vehicle shall, as soon and in so far as is reasonably practicable, be driven
 
 (3) —
 
-- (a) A vehicle which is at rest on a hard shoulder or emergency refuge area *(Extent: E)*[^key-58fd4b354de334bc3967614d56e76941] shall so far as is reasonably practicable be allowed to remain at rest on that hard shoulder or emergency refuge area in such a position only that no part of it or of the load carried thereby shall obstruct or be a cause of danger to vehicles using the carriageway.
+- (a) A vehicle which is at rest on a hard shoulder or emergency refuge area *(Extent: E)*[^c-58fd4b354de334bc3967614d56e76941] shall so far as is reasonably practicable be allowed to remain at rest on that hard shoulder or emergency refuge area in such a position only that no part of it or of the load carried thereby shall obstruct or be a cause of danger to vehicles using the carriageway.
 - (b) A vehicle shall not remain at rest on a hard shoulder or emergency refuge area for longer than is necessary in the circumstances or for the purposes specified in paragraph (2) of this Regulation.
 
 (4) Nothing in the foregoing provisions of this Regulation shall preclude a vehicle from stopping or remaining at rest on a carriageway while it is prevented from proceeding along the carriageway by the presence of any other vehicle or any person or object.
 
-## 8. Restriction on reversing[^key-1647bb6f3fd849a4697e89d1ad034ca2]
+## 8. Restriction on reversing[^c-1647bb6f3fd849a4697e89d1ad034ca2]
 
 No vehicle on a motorway shall be driven or moved backwards except in so far as it is necessary to back the vehicle to enable it to proceed forwards or to be connected to any other vehicle.
 
-## 9. Restriction on the use of hard shoulders and emergency refuge areas[^M_E_edeb9948-df65-4dbe-d691-7fcfd61eecf1][^key-6da05292fbf59b939e161a719107ab31]
+## 9. Restriction on the use of hard shoulders and emergency refuge areas[^M_E_edeb9948-df65-4dbe-d691-7fcfd61eecf1][^c-6da05292fbf59b939e161a719107ab31]
 
 *Extent: E*
 
@@ -143,13 +143,13 @@ No vehicle shall be driven or stop or remain at rest on any hard shoulder or eme
 
 No vehicle shall be driven or stop or remain at rest on any hard shoulder except in accordance with paragraphs (2) and (3) of Regulation 7.
 
-## 10. Vehicles not to use the central reservation or verge[^key-e81cce7165c88211efc3476a053d0bf5]
+## 10. Vehicles not to use the central reservation or verge[^c-e81cce7165c88211efc3476a053d0bf5]
 
 No vehicle shall be driven or moved or stop or remain at rest on a central reservation or verge.
 
-## 11. Vehicles not to be driven by learner drivers[^key-6f069e213c606c6114120556d4a5d3d3]
+## 11. Vehicles not to be driven by learner drivers[^c-6f069e213c606c6114120556d4a5d3d3]
 
-(1) Subject to paragraphs (3) and (3A)[^key-c789400b89e325e5591d20e3ad18056e], a person shall not drive on a motorway a motor vehicle to which this regulation applies if he is authorised to drive that vehicle only by virtue of his being the holder of a provisional licence.
+(1) Subject to paragraphs (3) and (3A)[^c-c789400b89e325e5591d20e3ad18056e], a person shall not drive on a motorway a motor vehicle to which this regulation applies if he is authorised to drive that vehicle only by virtue of his being the holder of a provisional licence.
 
 (2) This regulation applies to—
 
@@ -158,55 +158,55 @@ No vehicle shall be driven or moved or stop or remain at rest on a central reser
 
 (3) Paragraph (1) shall not apply in relation to a vehicle if the holder of the provisional licence has passed a test of competence prescribed under section 89 of the Road Traffic Act 1988 for the grant of a licence to drive that vehicle.
 
-(3A)[^key-a9498719188dd76ea57682a7248130f8] Paragraph (1) shall not apply where the holder of the provisional licence—
+(3A)[^c-a9498719188dd76ea57682a7248130f8] Paragraph (1) shall not apply where the holder of the provisional licence—
 
 - (a) is driving a category B vehicle the transmission of which may be disengaged, and the brakes operated, independently from the driver by a person sitting in the front passenger seat, and
 - (b) is under the supervision of a person who is present with him in the vehicle, and whose name is in Part 1 or Part 2 of the register of approved instructors, referred to in section 123(1)(a) and (aa) of the Road Traffic Act 1988, and the registration is not suspended.
 
 (4) In this regulation —
 
-- (a) the expression “in force”and expressions relating to vehicle categories shall be construed in accordance with regulations 3(1) and (2)(a) and 4(3) of the Motor Vehicles (Driving Licences) Regulations 1999[^key-a24d9d77ee804ec7beb51c095a04cd33];
+- (a) the expression “in force”and expressions relating to vehicle categories shall be construed in accordance with regulations 3(1) and (2)(a) and 4(3) of the Motor Vehicles (Driving Licences) Regulations 1999[^c-a24d9d77ee804ec7beb51c095a04cd33];
 - (b) “provisional licence”, in relation to any vehicle, means a licence —
   - (i) granted under section 97(2) of the Road Traffic Act 1988, or
   - (ii) treated, by virtue of section 98 of that Act and regulations made thereunder, as authorising its holder to drive that vehicle as if he were authorised by a provisional licence to do so.
 
-## 12. Restriction on use of right hand or off side lane[^key-09d31876b18d2531f23c6356607e1244][^key-34cd9876dafa97710091124db6382d86][^key-4d7971cf8e39d6e10bb4799775fbf18b]
+## 12. Restriction on use of right hand or off side lane[^c-09d31876b18d2531f23c6356607e1244][^c-34cd9876dafa97710091124db6382d86][^c-4d7971cf8e39d6e10bb4799775fbf18b]
 
 (1) This Regulation applies to—
 
-- (a)[^key-15f5cfb3834b8499ad0844d6d9c590d8] a goods vehicle having a maximum laden weight exceeding 7.5 tonnes,
-- (aa)[^key-e0d16348dc7bb691389396ecd71f1ff2] a goods vehicle—
+- (a)[^c-15f5cfb3834b8499ad0844d6d9c590d8] a goods vehicle having a maximum laden weight exceeding 7.5 tonnes,
+- (aa)[^c-e0d16348dc7bb691389396ecd71f1ff2] a goods vehicle—
   - (i) having a maximum laden weight exceeding 3.5 tonnes but not exceeding 7.5 tonnes, and
   - (ii) to which regulation 36B of the Road Vehicles (Construction and Use) Regulations 1986 applies or would apply but for paragraph (14)(a) or (b) of that regulation;
-- (b)[^key-9e50f5b712d87ec3e0019f8b2749f665] a passenger vehicle which is constructed or adapted to carry more than eight seated passengers in addition to the driver the maximum laden weight of which exceeds 7.5 tonnes;
-- (bb)[^key-f867a9c8e78a193e4714991435d86dd8] a passenger vehicle—
+- (b)[^c-9e50f5b712d87ec3e0019f8b2749f665] a passenger vehicle which is constructed or adapted to carry more than eight seated passengers in addition to the driver the maximum laden weight of which exceeds 7.5 tonnes;
+- (bb)[^c-f867a9c8e78a193e4714991435d86dd8] a passenger vehicle—
   - (i) which is constructed or adapted to carry more than eight seated passengers in addition to the driver the maximum laden weight of which does not exceed 7.5 tonnes, and
   - (ii) to which regulation 36A of the Road Vehicles (Construction and Use) Regulations 1986 (Speed limiters) applies or would apply but for paragraph (13)(a) or (b) of that regulation;
 - (c) a motor vehicle drawing a trailer, and
-- (d)[^key-88ae0c96aa6f92ca011c833a55fcb197] a vehicle which is a motor tractor, a light locomotive or a heavy locomotive.
+- (d)[^c-88ae0c96aa6f92ca011c833a55fcb197] a vehicle which is a motor tractor, a light locomotive or a heavy locomotive.
 
-(2)[^key-3d35566085a52225f9d1395d5a44c525] Subject to the provisions of paragraph (3) below, no vehicle to which this Regulation applies shall be driven or moved or stop or remain at rest on the right hand or offside lane of a length of carriage way which has three or more traffic lanes at any place where all the lanes are open for use by traffic proceeding in the same direction.
+(2)[^c-3d35566085a52225f9d1395d5a44c525] Subject to the provisions of paragraph (3) below, no vehicle to which this Regulation applies shall be driven or moved or stop or remain at rest on the right hand or offside lane of a length of carriage way which has three or more traffic lanes at any place where all the lanes are open for use by traffic proceeding in the same direction.
 
 (3) The prohibition contained in paragraph (2) above shall not apply to a vehicle while it is being driven on any right hand or offside lane such as is mentioned in that paragraph in so far as it is necessary for the vehicle to be driven to enable it to pass another vehicle which is carrying or drawing a load of exceptional width.
 
-(4)[^key-c77a8ec216164960021fdd98423dacab] Nothing in this regulation shall have effect so as to require a vehicle to change lane during a period when it would not be reasonably practicable for it to do so without involving danger of injury to any person or inconvenience to other traffic.
+(4)[^c-c77a8ec216164960021fdd98423dacab] Nothing in this regulation shall have effect so as to require a vehicle to change lane during a period when it would not be reasonably practicable for it to do so without involving danger of injury to any person or inconvenience to other traffic.
 
-(5)[^key-9e8294223b94561aba050c43241d94af] In this Regulation “goods vehicle”, “passenger vehicle” and “maximum laden weight” have the same meanings as in Schedule 6 to the 1984 Act.
+(5)[^c-9e8294223b94561aba050c43241d94af] In this Regulation “goods vehicle”, “passenger vehicle” and “maximum laden weight” have the same meanings as in Schedule 6 to the 1984 Act.
 
-## 13. Restrictions affecting persons on foot on a motorway[^key-501c1a1fccb943b0041c6d7253c36a51]
+## 13. Restrictions affecting persons on foot on a motorway[^c-501c1a1fccb943b0041c6d7253c36a51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Restrictions affecting animals carried in vehicles[^key-6680b52db7a82030f523236a6bc52cb4]
+## 14. Restrictions affecting animals carried in vehicles[^c-6680b52db7a82030f523236a6bc52cb4]
 
 The person in charge of any animal which is carried by a vehicle using a motorway shall, so far as is practicable, secure that—
 
 - (a) the animal shall not be removed from or permitted to leave the vehicle while the vehicle is on a motorway, and
 - (b) if it escapes from, or it is necessary for it to be removed from, or permitted to leave, the vehicle—
-  - (i) it shall not go or remain on any part of the motorway other than a hard shoulder or an emergency refuge area[^key-d2074fe9144786daf09d63df586d47e0], and
+  - (i) it shall not go or remain on any part of the motorway other than a hard shoulder or an emergency refuge area[^c-d2074fe9144786daf09d63df586d47e0], and
   - (ii) it shall whilst it is not on or in the vehicle be held on a lead or otherwise kept under proper control.
 
-## 15. Use of motorway by excluded traffic[^key-56197b6e3b3328e4f03d004e98abf5a5]
+## 15. Use of motorway by excluded traffic[^c-56197b6e3b3328e4f03d004e98abf5a5]
 
 (1) Excluded traffic is hereby authorised to use a motorway on the occasions or in the emergencies and to the extent specified in the following provisions of this paragraph, that is to say—
 
@@ -222,14 +222,14 @@ The person in charge of any animal which is carried by a vehicle using a motorwa
 - (a) authorise any excluded traffic to use that motorway or that part of a motorway as an alternative road for the period during which the use of the other road by such traffic continues to be impossible or unsuitable, and
 - (b) relax any prohibition or restriction imposed by these Regulations in so far as he considers it necessary to do so in connection with the use of that motorway or that part of a motorway by excluded traffic in pursuance of any such authorisation as aforesaid.
 
-## 16. Exceptions and relaxations[^key-ac101fc3beb14a5601fe22e8a018d1b3]
+## 16. Exceptions and relaxations[^c-ac101fc3beb14a5601fe22e8a018d1b3]
 
 (1) Nothing in the foregoing provisions of these Regulations shall preclude any person from using a motorway otherwise than in accordance with the provisions in any of the following circumstances, that is to say—
 
-- (a) where he does so in accordance with any direction or permission given by a constable in uniform , a traffic officer in uniform[^key-a943ac5706fc0d1f78e265fa810bdcdf] or with the indication given by a traffic sign;
-- (b) where, in accordance with any permission given by a traffic officer in uniform or[^key-c5a23ccd6cb6c249f4b03117dc91fa86] a constable, he does so for the purpose of investigating any accident which has occurred on or near a motorway;
+- (a) where he does so in accordance with any direction or permission given by a constable in uniform , a traffic officer in uniform[^c-a943ac5706fc0d1f78e265fa810bdcdf] or with the indication given by a traffic sign;
+- (b) where, in accordance with any permission given by a traffic officer in uniform or[^c-c5a23ccd6cb6c249f4b03117dc91fa86] a constable, he does so for the purpose of investigating any accident which has occurred on or near a motorway;
 - (c) where it is necessary for him to do so to avoid or prevent an accident or to obtain or give help required as the result of an accident or emergency, and he does so in such manner as to cause as little danger or inconvenience as possible to other traffic on a motorway;
-- (d) where he does so in the exercise of his duty as a constable , a traffic officer, when in uniform,[^key-c6df66c097dd1cbddd7831fdb87a279f] as a member of the Serious Organised Crime Agency for the purposes of that Agency,[^key-863dfafcf5909e017b4941cb992006c4] or as a member of an ambulance service or as an employee of a fire and rescue authority employed for the purposes of that authority[^key-f807807a0d6aa46ff04a129d7a6dc0a7];
+- (d) where he does so in the exercise of his duty as a constable , a traffic officer, when in uniform,[^c-c6df66c097dd1cbddd7831fdb87a279f] as a member of the Serious Organised Crime Agency for the purposes of that Agency,[^c-863dfafcf5909e017b4941cb992006c4] or as a member of an ambulance service or as an employee of a fire and rescue authority employed for the purposes of that authority[^c-f807807a0d6aa46ff04a129d7a6dc0a7];
 - (e) where it is necessary for him to do so to carry out in an efficient manner—
   - (i) the maintenance, repair, cleaning, clearance, alteration or improvement of any part of a motorway, or
   - (ii) the removal of any vehicle from any part of a motorway, or
@@ -266,122 +266,122 @@ The principal amendments are as follows—
 
 [^f00002]: Footnote: As to the Secretary of State for Transport by virtue of [S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681), [1979/571](https://www.legislation.gov.uk/uksi/1979/571), [1981/238](https://www.legislation.gov.uk/uksi/1981/238).
 
-[^key-f310dbc94affd9f6f31b18218ce0a4a2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (19.7.1993) by [The Severn Bridge Regulations 1993 (S.I. 1993/1595)](https://www.legislation.gov.uk/uksi/1993/1595), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1595/regulation/1), [10](https://www.legislation.gov.uk/uksi/1993/1595/regulation/10), [Sch.](https://www.legislation.gov.uk/uksi/1993/1595/schedule) (with [reg. 4](https://www.legislation.gov.uk/uksi/1993/1595/regulation/4))
+[^c-f310dbc94affd9f6f31b18218ce0a4a2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (19.7.1993) by [The Severn Bridge Regulations 1993 (S.I. 1993/1595)](https://www.legislation.gov.uk/uksi/1993/1595), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1595/regulation/1), [10](https://www.legislation.gov.uk/uksi/1993/1595/regulation/10), [Sch.](https://www.legislation.gov.uk/uksi/1993/1595/schedule) (with [reg. 4](https://www.legislation.gov.uk/uksi/1993/1595/regulation/4))
 
-[^key-365b294eee05bdf8cf109906795e86c8]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (5.6.1996) by [The Severn Bridges Regulations 1996 (S.I. 1996/1316)](https://www.legislation.gov.uk/uksi/1996/1316), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1316/regulation/1), [10](https://www.legislation.gov.uk/uksi/1996/1316/regulation/10), [Sch.](https://www.legislation.gov.uk/uksi/1996/1316/schedule) (with [reg. 4](https://www.legislation.gov.uk/uksi/1996/1316/regulation/4))
+[^c-365b294eee05bdf8cf109906795e86c8]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (5.6.1996) by [The Severn Bridges Regulations 1996 (S.I. 1996/1316)](https://www.legislation.gov.uk/uksi/1996/1316), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1316/regulation/1), [10](https://www.legislation.gov.uk/uksi/1996/1316/regulation/10), [Sch.](https://www.legislation.gov.uk/uksi/1996/1316/schedule) (with [reg. 4](https://www.legislation.gov.uk/uksi/1996/1316/regulation/4))
 
-[^key-a4f5e58efd36d2dbaa7bd8e644bf99eb]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) excluded (1.3.1998) by [The Traffic Signs (Temporary Obstructions) Regulations 1997 (S.I. 1997/3053)](https://www.legislation.gov.uk/uksi/1997/3053), [regs. 1](https://www.legislation.gov.uk/uksi/1997/3053/regulation/1), [18](https://www.legislation.gov.uk/uksi/1997/3053/regulation/18) (with [reg. 17](https://www.legislation.gov.uk/uksi/1997/3053/regulation/17))
+[^c-a4f5e58efd36d2dbaa7bd8e644bf99eb]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) excluded (1.3.1998) by [The Traffic Signs (Temporary Obstructions) Regulations 1997 (S.I. 1997/3053)](https://www.legislation.gov.uk/uksi/1997/3053), [regs. 1](https://www.legislation.gov.uk/uksi/1997/3053/regulation/1), [18](https://www.legislation.gov.uk/uksi/1997/3053/regulation/18) (with [reg. 17](https://www.legislation.gov.uk/uksi/1997/3053/regulation/17))
 
-[^key-9d0ecadcdf9df00a1b11aaea1084036f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (25.9.2003) by [The M6 Toll (Collection of Tolls) Regulations 2003 (S.I. 2003/2186)](https://www.legislation.gov.uk/uksi/2003/2186), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2186/regulation/1), [9](https://www.legislation.gov.uk/uksi/2003/2186/regulation/9), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2186/schedule/1)
+[^c-9d0ecadcdf9df00a1b11aaea1084036f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (25.9.2003) by [The M6 Toll (Collection of Tolls) Regulations 2003 (S.I. 2003/2186)](https://www.legislation.gov.uk/uksi/2003/2186), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2186/regulation/1), [9](https://www.legislation.gov.uk/uksi/2003/2186/regulation/9), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2186/schedule/1)
 
-[^key-b837310ee351ebdf35f47f2834878d6f]: Modification: Regulations applied (with modifications) (27.7.2005) by [The M42 (Junctions 3A to 7) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2005 (S.I. 2005/1671)](https://www.legislation.gov.uk/uksi/2005/1671), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1671/regulation/1), [2](https://www.legislation.gov.uk/uksi/2005/1671/regulation/2), [3](https://www.legislation.gov.uk/uksi/2005/1671/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/1671/schedule) (as amended (21.7.2009) by [S.I. 2009/1568](https://www.legislation.gov.uk/uksi/2009/1568), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1568/regulation/1), [3](https://www.legislation.gov.uk/uksi/2009/1568/regulation/3))
+[^c-b837310ee351ebdf35f47f2834878d6f]: Modification: Regulations applied (with modifications) (27.7.2005) by [The M42 (Junctions 3A to 7) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2005 (S.I. 2005/1671)](https://www.legislation.gov.uk/uksi/2005/1671), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1671/regulation/1), [2](https://www.legislation.gov.uk/uksi/2005/1671/regulation/2), [3](https://www.legislation.gov.uk/uksi/2005/1671/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/1671/schedule) (as amended (21.7.2009) by [S.I. 2009/1568](https://www.legislation.gov.uk/uksi/2009/1568), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1568/regulation/1), [3](https://www.legislation.gov.uk/uksi/2009/1568/regulation/3))
 
-[^key-c0c2173c09b81b44dcf95797618ad144]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (21.7.2009) by [The M6 Motorway (Junctions 4 to 5) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2009 (S.I. 2009/1571)](https://www.legislation.gov.uk/uksi/2009/1571), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1571/regulation/1), [2](https://www.legislation.gov.uk/uksi/2009/1571/regulation/2), [3](https://www.legislation.gov.uk/uksi/2009/1571/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/1571/schedule/1)
+[^c-c0c2173c09b81b44dcf95797618ad144]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (21.7.2009) by [The M6 Motorway (Junctions 4 to 5) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2009 (S.I. 2009/1571)](https://www.legislation.gov.uk/uksi/2009/1571), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1571/regulation/1), [2](https://www.legislation.gov.uk/uksi/2009/1571/regulation/2), [3](https://www.legislation.gov.uk/uksi/2009/1571/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/1571/schedule/1)
 
-[^key-cd10ea3bf69906781f7a8fe7e7cda446]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (10.8.2010) by [The M6 Motorway (Junctions 8 to 10A) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2010 (S.I. 2010/284)](https://www.legislation.gov.uk/uksi/2010/284), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/284/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2010/284/regulation/2), [3](https://www.legislation.gov.uk/uksi/2010/284/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/284/schedule/1)
+[^c-cd10ea3bf69906781f7a8fe7e7cda446]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (10.8.2010) by [The M6 Motorway (Junctions 8 to 10A) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2010 (S.I. 2010/284)](https://www.legislation.gov.uk/uksi/2010/284), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/284/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2010/284/regulation/2), [3](https://www.legislation.gov.uk/uksi/2010/284/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/284/schedule/1)
 
-[^key-94d1f0b8b93f9db5f2be0acd0affbdce]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (3.5.2012) by [The M1 Motorway (Junctions 10 to 13) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2012 (S.I. 2012/985)](https://www.legislation.gov.uk/uksi/2012/985), [regs. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/985/regulation/2), [3](https://www.legislation.gov.uk/uksi/2012/985/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/985/schedule/1)
+[^c-94d1f0b8b93f9db5f2be0acd0affbdce]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (3.5.2012) by [The M1 Motorway (Junctions 10 to 13) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2012 (S.I. 2012/985)](https://www.legislation.gov.uk/uksi/2012/985), [regs. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/985/regulation/2), [3](https://www.legislation.gov.uk/uksi/2012/985/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/985/schedule/1)
 
-[^key-9e00d85a77b2bb9a086f8ec4dce2f7ec]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (20.8.2012) by [The M62 Motorway (Junctions 25 to 30) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2012 (S.I. 2012/1865)](https://www.legislation.gov.uk/uksi/2012/1865), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1865/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/1865/regulation/2), [3](https://www.legislation.gov.uk/uksi/2012/1865/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1865/schedule/1)
+[^c-9e00d85a77b2bb9a086f8ec4dce2f7ec]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (20.8.2012) by [The M62 Motorway (Junctions 25 to 30) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2012 (S.I. 2012/1865)](https://www.legislation.gov.uk/uksi/2012/1865), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1865/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/1865/regulation/2), [3](https://www.legislation.gov.uk/uksi/2012/1865/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1865/schedule/1)
 
-[^key-2d6a1423b8f3124e301159a3fadc5a7a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (15.6.2013) by [The M6 Motorway (Junctions 5 to 8) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2013 (S.I. 2013/1201)](https://www.legislation.gov.uk/uksi/2013/1201), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1201/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/1201/regulation/2), [3](https://www.legislation.gov.uk/uksi/2013/1201/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1201/schedule/1)
+[^c-2d6a1423b8f3124e301159a3fadc5a7a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (15.6.2013) by [The M6 Motorway (Junctions 5 to 8) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2013 (S.I. 2013/1201)](https://www.legislation.gov.uk/uksi/2013/1201), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1201/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/1201/regulation/2), [3](https://www.legislation.gov.uk/uksi/2013/1201/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1201/schedule/1)
 
-[^key-b8e7005861a3d3ba580f4bccf12d8063]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (4.11.2013) by [The M25 Motorway (Junctions 5 to 7) (Variable Speed Limits) Regulations 2013 (S.I. 2013/2397)](https://www.legislation.gov.uk/uksi/2013/2397), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2397/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/2397/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/2397/schedule)
+[^c-b8e7005861a3d3ba580f4bccf12d8063]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (4.11.2013) by [The M25 Motorway (Junctions 5 to 7) (Variable Speed Limits) Regulations 2013 (S.I. 2013/2397)](https://www.legislation.gov.uk/uksi/2013/2397), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2397/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/2397/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/2397/schedule)
 
-[^key-4b57f0e453cd108b44f275826885bc9c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (4.11.2013) by [The M25 Motorway (Junctions 23 to 27) (Variable Speed Limits) Regulations 2013 (S.I. 2013/2396)](https://www.legislation.gov.uk/uksi/2013/2396), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2396/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/2396/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/2396/schedule)
+[^c-4b57f0e453cd108b44f275826885bc9c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1982/1163) applied (with modifications) (4.11.2013) by [The M25 Motorway (Junctions 23 to 27) (Variable Speed Limits) Regulations 2013 (S.I. 2013/2396)](https://www.legislation.gov.uk/uksi/2013/2396), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2396/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/2396/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/2396/schedule)
 
-[^key-5190dda62534aa9724252684027d9016]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
+[^c-5190dda62534aa9724252684027d9016]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
 
-[^key-39c65779bccb4c3b10ad5e999c60dbd9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1982/1163/regulation/2) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
+[^c-39c65779bccb4c3b10ad5e999c60dbd9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1982/1163/regulation/2) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1959/1147](https://www.legislation.gov.uk/uksi/1959/1147).
 
 [^f00004]: Footnote: [S.I. 1971/1087](https://www.legislation.gov.uk/uksi/1971/1087).
 
-[^key-201496f48b42aae1f216c2240d1cb2de]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1982/1163/regulation/3) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
+[^c-201496f48b42aae1f216c2240d1cb2de]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1982/1163/regulation/3) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
 
-[^key-4dc77ba5aafc791654e2aa003d2c78e6]: Textual amendment: [Reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/3/1/a) substituted (1.7.1992) by [Motorways Traffic (England and Wales) (Amendment) Regulations 1992 (S.I. 1992/1364)](https://www.legislation.gov.uk/uksi/1992/1364), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1364/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/1992/1364/regulation/6/1)
+[^c-4dc77ba5aafc791654e2aa003d2c78e6]: Textual amendment: [Reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/3/1/a) substituted (1.7.1992) by [Motorways Traffic (England and Wales) (Amendment) Regulations 1992 (S.I. 1992/1364)](https://www.legislation.gov.uk/uksi/1992/1364), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1364/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/1992/1364/regulation/6/1)
 
-[^key-ab0f7f97eb0944741c89daa56b000886]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/3/1/b) substituted (17.10.1984) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 1984 (S.I. 1984/1479)](https://www.legislation.gov.uk/uksi/1984/1479), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1479/regulation/1), [2](https://www.legislation.gov.uk/uksi/1984/1479/regulation/2)
+[^c-ab0f7f97eb0944741c89daa56b000886]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/3/1/b) substituted (17.10.1984) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 1984 (S.I. 1984/1479)](https://www.legislation.gov.uk/uksi/1984/1479), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1479/regulation/1), [2](https://www.legislation.gov.uk/uksi/1984/1479/regulation/2)
 
-[^key-97734f04f2f18a2390f4417de6f9a6b2]: Textual amendment: [Reg. 3(1)(ca)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/3/1/ca) inserted (E.) (6.4.2015) by [The Motorways Traffic (England and Wales) (Amendment) (England) Regulations 2015 (S.I. 2015/392)](https://www.legislation.gov.uk/uksi/2015/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/392/regulation/2/2)
+[^c-97734f04f2f18a2390f4417de6f9a6b2]: Textual amendment: [Reg. 3(1)(ca)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/3/1/ca) inserted (E.) (6.4.2015) by [The Motorways Traffic (England and Wales) (Amendment) (England) Regulations 2015 (S.I. 2015/392)](https://www.legislation.gov.uk/uksi/2015/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/392/regulation/2/2)
 
-[^key-9cd733cf6e0832df46aa7412e48cdf48]: Textual amendment: [Reg. 3(1)(ff)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/3/1/ff) inserted (1.1.2005) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2004 (S.I. 2004/3258)](https://www.legislation.gov.uk/uksi/2004/3258), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1), [3](https://www.legislation.gov.uk/uksi/2004/3258/regulation/3)
+[^c-9cd733cf6e0832df46aa7412e48cdf48]: Textual amendment: [Reg. 3(1)(ff)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/3/1/ff) inserted (1.1.2005) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2004 (S.I. 2004/3258)](https://www.legislation.gov.uk/uksi/2004/3258), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1), [3](https://www.legislation.gov.uk/uksi/2004/3258/regulation/3)
 
-[^key-f1929cebd20acb398b407a3973db4a0b]: Textual amendment: Words in [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/3/1/g) inserted (E.) (6.4.2015) by [The Motorways Traffic (England and Wales) (Amendment) (England) Regulations 2015 (S.I. 2015/392)](https://www.legislation.gov.uk/uksi/2015/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/392/regulation/2/3)
+[^c-f1929cebd20acb398b407a3973db4a0b]: Textual amendment: Words in [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/3/1/g) inserted (E.) (6.4.2015) by [The Motorways Traffic (England and Wales) (Amendment) (England) Regulations 2015 (S.I. 2015/392)](https://www.legislation.gov.uk/uksi/2015/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/392/regulation/2/3)
 
 [^f00006]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-4fb3191fb7128820ddf8ed35cf683aeb]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1982/1163/regulation/4) substituted (1.7.1992) by [Motorways Traffic (England and Wales) (Amendment) Regulations 1992 (S.I. 1992/1364)](https://www.legislation.gov.uk/uksi/1992/1364), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1364/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/1992/1364/regulation/6/2)
+[^c-4fb3191fb7128820ddf8ed35cf683aeb]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1982/1163/regulation/4) substituted (1.7.1992) by [Motorways Traffic (England and Wales) (Amendment) Regulations 1992 (S.I. 1992/1364)](https://www.legislation.gov.uk/uksi/1992/1364), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1364/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/1992/1364/regulation/6/2)
 
-[^key-483870cf1a2ec355dddeddb1aafb0067]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1982/1163/regulation/5) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
+[^c-483870cf1a2ec355dddeddb1aafb0067]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1982/1163/regulation/5) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
 
-[^key-dc54536653f3ebf934f54112eff2ccac]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1982/1163/regulation/6) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
+[^c-dc54536653f3ebf934f54112eff2ccac]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1982/1163/regulation/6) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
 
-[^key-8d5f056911c2775cd8935b63dc4626fb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1982/1163/regulation/7) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
+[^c-8d5f056911c2775cd8935b63dc4626fb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1982/1163/regulation/7) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
 
-[^key-85fd1e743e0cd84838706f2376187da3]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/7/2) inserted (E.) (6.4.2015) by [The Motorways Traffic (England and Wales) (Amendment) (England) Regulations 2015 (S.I. 2015/392)](https://www.legislation.gov.uk/uksi/2015/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2015/392/regulation/2/4/a)
+[^c-85fd1e743e0cd84838706f2376187da3]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/7/2) inserted (E.) (6.4.2015) by [The Motorways Traffic (England and Wales) (Amendment) (England) Regulations 2015 (S.I. 2015/392)](https://www.legislation.gov.uk/uksi/2015/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2015/392/regulation/2/4/a)
 
-[^key-58fd4b354de334bc3967614d56e76941]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/7/3) inserted (E.) (6.4.2015) by [The Motorways Traffic (England and Wales) (Amendment) (England) Regulations 2015 (S.I. 2015/392)](https://www.legislation.gov.uk/uksi/2015/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2015/392/regulation/2/4/b)
+[^c-58fd4b354de334bc3967614d56e76941]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/7/3) inserted (E.) (6.4.2015) by [The Motorways Traffic (England and Wales) (Amendment) (England) Regulations 2015 (S.I. 2015/392)](https://www.legislation.gov.uk/uksi/2015/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2015/392/regulation/2/4/b)
 
-[^key-1647bb6f3fd849a4697e89d1ad034ca2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1982/1163/regulation/8) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
+[^c-1647bb6f3fd849a4697e89d1ad034ca2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1982/1163/regulation/8) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
 
 [^M_E_edeb9948-df65-4dbe-d691-7fcfd61eecf1]: Extent: This version of this provision applies to England only; a separate version has been created for Wales only
 
-[^key-6da05292fbf59b939e161a719107ab31]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1982/1163/regulation/9) substituted (E.) (6.4.2015) by [The Motorways Traffic (England and Wales) (Amendment) (England) Regulations 2015 (S.I. 2015/392)](https://www.legislation.gov.uk/uksi/2015/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/392/regulation/2/5)
+[^c-6da05292fbf59b939e161a719107ab31]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1982/1163/regulation/9) substituted (E.) (6.4.2015) by [The Motorways Traffic (England and Wales) (Amendment) (England) Regulations 2015 (S.I. 2015/392)](https://www.legislation.gov.uk/uksi/2015/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/392/regulation/2/5)
 
 [^M_E_ce169de0-137b-46a4-805c-b7a37c26f611]: Extent: This version of this provision applies to Wales only; a separate version has been created for England only
 
 [^V_W_911bb11e-4bb3-9e48-3697-31be5fcc1c53]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1982/1163/regulation/9) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
 
-[^key-e81cce7165c88211efc3476a053d0bf5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1982/1163/regulation/10) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
+[^c-e81cce7165c88211efc3476a053d0bf5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1982/1163/regulation/10) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
 
-[^key-6f069e213c606c6114120556d4a5d3d3]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1982/1163/regulation/11) substituted (1.1.1997) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 1996 (S.I. 1996/3053)](https://www.legislation.gov.uk/uksi/1996/3053), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3053/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/3053/regulation/2/2)
+[^c-6f069e213c606c6114120556d4a5d3d3]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1982/1163/regulation/11) substituted (1.1.1997) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 1996 (S.I. 1996/3053)](https://www.legislation.gov.uk/uksi/1996/3053), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3053/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/3053/regulation/2/2)
 
-[^key-c789400b89e325e5591d20e3ad18056e]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/11/1) substituted (4.6.2018) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/222)](https://www.legislation.gov.uk/uksi/2018/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/222/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/222/regulation/2/2/a)
+[^c-c789400b89e325e5591d20e3ad18056e]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/11/1) substituted (4.6.2018) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/222)](https://www.legislation.gov.uk/uksi/2018/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/222/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/222/regulation/2/2/a)
 
-[^key-a9498719188dd76ea57682a7248130f8]: Textual amendment: [Reg. 11(3A)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/11/3A) inserted (4.6.2018) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/222)](https://www.legislation.gov.uk/uksi/2018/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/222/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/222/regulation/2/2/b)
+[^c-a9498719188dd76ea57682a7248130f8]: Textual amendment: [Reg. 11(3A)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/11/3A) inserted (4.6.2018) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/222)](https://www.legislation.gov.uk/uksi/2018/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/222/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/222/regulation/2/2/b)
 
-[^key-a24d9d77ee804ec7beb51c095a04cd33]: Textual amendment: Words in [reg. 11(4)(a)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/11/4/a) substituted (4.6.2018) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/222)](https://www.legislation.gov.uk/uksi/2018/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/222/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2018/222/regulation/2/2/c)
+[^c-a24d9d77ee804ec7beb51c095a04cd33]: Textual amendment: Words in [reg. 11(4)(a)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/11/4/a) substituted (4.6.2018) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/222)](https://www.legislation.gov.uk/uksi/2018/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/222/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2018/222/regulation/2/2/c)
 
-[^key-09d31876b18d2531f23c6356607e1244]: Modification: Reg. 12 excluded (17.5.1999) by [The Motorways Traffic (M621 Motorway) Regulations 1999 (S.I. 1999/1077)](https://www.legislation.gov.uk/uksi/1999/1077), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1077/regulation/1), [3](https://www.legislation.gov.uk/uksi/1999/1077/regulation/3)
+[^c-09d31876b18d2531f23c6356607e1244]: Modification: Reg. 12 excluded (17.5.1999) by [The Motorways Traffic (M621 Motorway) Regulations 1999 (S.I. 1999/1077)](https://www.legislation.gov.uk/uksi/1999/1077), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1077/regulation/1), [3](https://www.legislation.gov.uk/uksi/1999/1077/regulation/3)
 
-[^key-34cd9876dafa97710091124db6382d86]: Modification: Reg. 12 excluded (1.12.2023) by [The M621 Motorway (Off Side Lane Prohibition Disapplication) (No. 2) Regulations 2023 (S.I. 2023/840)](https://www.legislation.gov.uk/uksi/2023/840), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/840/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2023/840/regulation/4)
+[^c-34cd9876dafa97710091124db6382d86]: Modification: Reg. 12 excluded (1.12.2023) by [The M621 Motorway (Off Side Lane Prohibition Disapplication) (No. 2) Regulations 2023 (S.I. 2023/840)](https://www.legislation.gov.uk/uksi/2023/840), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/840/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2023/840/regulation/4)
 
-[^key-4d7971cf8e39d6e10bb4799775fbf18b]: Textual amendment: Reg. 12 substituted (16.4.1983) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 1983 (S.I. 1983/374)](https://www.legislation.gov.uk/uksi/1983/374), [regs. 1](https://www.legislation.gov.uk/uksi/1983/374/regulation/1), [3](https://www.legislation.gov.uk/uksi/1983/374/regulation/3)
+[^c-4d7971cf8e39d6e10bb4799775fbf18b]: Textual amendment: Reg. 12 substituted (16.4.1983) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 1983 (S.I. 1983/374)](https://www.legislation.gov.uk/uksi/1983/374), [regs. 1](https://www.legislation.gov.uk/uksi/1983/374/regulation/1), [3](https://www.legislation.gov.uk/uksi/1983/374/regulation/3)
 
-[^key-15f5cfb3834b8499ad0844d6d9c590d8]: Textual amendment: Reg. 12(1)(a) substituted (1.7.1992) by [Motorways Traffic (England and Wales) (Amendment) Regulations 1992 (S.I. 1992/1364)](https://www.legislation.gov.uk/uksi/1992/1364), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1364/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/1992/1364/regulation/4/2/a)
+[^c-15f5cfb3834b8499ad0844d6d9c590d8]: Textual amendment: Reg. 12(1)(a) substituted (1.7.1992) by [Motorways Traffic (England and Wales) (Amendment) Regulations 1992 (S.I. 1992/1364)](https://www.legislation.gov.uk/uksi/1992/1364), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1364/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/1992/1364/regulation/4/2/a)
 
-[^key-e0d16348dc7bb691389396ecd71f1ff2]: Textual amendment: Reg. 12(1)(aa) inserted (1.1.2005) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2004 (S.I. 2004/3258)](https://www.legislation.gov.uk/uksi/2004/3258), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2004/3258/regulation/4/2/a)
+[^c-e0d16348dc7bb691389396ecd71f1ff2]: Textual amendment: Reg. 12(1)(aa) inserted (1.1.2005) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2004 (S.I. 2004/3258)](https://www.legislation.gov.uk/uksi/2004/3258), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2004/3258/regulation/4/2/a)
 
-[^key-9e50f5b712d87ec3e0019f8b2749f665]: Textual amendment: Reg. 12(1)(b) substituted (1.1.1996) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 1995 (S.I. 1995/158)](https://www.legislation.gov.uk/uksi/1995/158), [regs. 1](https://www.legislation.gov.uk/uksi/1995/158/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1995/158/regulation/2/2)
+[^c-9e50f5b712d87ec3e0019f8b2749f665]: Textual amendment: Reg. 12(1)(b) substituted (1.1.1996) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 1995 (S.I. 1995/158)](https://www.legislation.gov.uk/uksi/1995/158), [regs. 1](https://www.legislation.gov.uk/uksi/1995/158/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1995/158/regulation/2/2)
 
-[^key-f867a9c8e78a193e4714991435d86dd8]: Textual amendment: Reg. 12(1)(bb) inserted (1.1.2005) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2004 (S.I. 2004/3258)](https://www.legislation.gov.uk/uksi/2004/3258), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2004/3258/regulation/4/2/b)
+[^c-f867a9c8e78a193e4714991435d86dd8]: Textual amendment: Reg. 12(1)(bb) inserted (1.1.2005) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2004 (S.I. 2004/3258)](https://www.legislation.gov.uk/uksi/2004/3258), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2004/3258/regulation/4/2/b)
 
-[^key-88ae0c96aa6f92ca011c833a55fcb197]: Textual amendment: Reg. 12(1)(d) substituted (1.7.1992) by [Motorways Traffic (England and Wales) (Amendment) Regulations 1992 (S.I. 1992/1364)](https://www.legislation.gov.uk/uksi/1992/1364), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1364/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/1992/1364/regulation/4/2/b)
+[^c-88ae0c96aa6f92ca011c833a55fcb197]: Textual amendment: Reg. 12(1)(d) substituted (1.7.1992) by [Motorways Traffic (England and Wales) (Amendment) Regulations 1992 (S.I. 1992/1364)](https://www.legislation.gov.uk/uksi/1992/1364), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1364/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/1992/1364/regulation/4/2/b)
 
-[^key-3d35566085a52225f9d1395d5a44c525]: Modification: Reg. 12(2) excluded (1.12.2023) by [The M621 Motorway (Off Side Lane Prohibition Disapplication) (No. 3) Regulations 2023 (S.I. 2023/1111)](https://www.legislation.gov.uk/uksi/2023/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1111/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2023/1111/regulation/3)
+[^c-3d35566085a52225f9d1395d5a44c525]: Modification: Reg. 12(2) excluded (1.12.2023) by [The M621 Motorway (Off Side Lane Prohibition Disapplication) (No. 3) Regulations 2023 (S.I. 2023/1111)](https://www.legislation.gov.uk/uksi/2023/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1111/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2023/1111/regulation/3)
 
-[^key-c77a8ec216164960021fdd98423dacab]: Textual amendment: Reg. 12(4)[(5)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/12/5) substituted for [reg. 12(4)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/12/4) (1.7.1992) by [Motorways Traffic (England and Wales) (Amendment) Regulations 1992 (S.I. 1992/1364)](https://www.legislation.gov.uk/uksi/1992/1364), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1364/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/1992/1364/regulation/4/3)
+[^c-c77a8ec216164960021fdd98423dacab]: Textual amendment: Reg. 12(4)[(5)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/12/5) substituted for [reg. 12(4)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/12/4) (1.7.1992) by [Motorways Traffic (England and Wales) (Amendment) Regulations 1992 (S.I. 1992/1364)](https://www.legislation.gov.uk/uksi/1992/1364), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1364/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/1992/1364/regulation/4/3)
 
-[^key-9e8294223b94561aba050c43241d94af]: Textual amendment: Reg. 12(5) substituted (1.1.1996) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 1995 (S.I. 1995/158)](https://www.legislation.gov.uk/uksi/1995/158), [regs. 1](https://www.legislation.gov.uk/uksi/1995/158/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1995/158/regulation/2/3)
+[^c-9e8294223b94561aba050c43241d94af]: Textual amendment: Reg. 12(5) substituted (1.1.1996) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 1995 (S.I. 1995/158)](https://www.legislation.gov.uk/uksi/1995/158), [regs. 1](https://www.legislation.gov.uk/uksi/1995/158/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1995/158/regulation/2/3)
 
-[^key-501c1a1fccb943b0041c6d7253c36a51]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1982/1163/regulation/13) omitted (1.7.1992) by virtue of [Motorways Traffic (England and Wales) (Amendment) Regulations 1992 (S.I. 1992/1364)](https://www.legislation.gov.uk/uksi/1992/1364), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1364/regulation/1), [5](https://www.legislation.gov.uk/uksi/1992/1364/regulation/5)
+[^c-501c1a1fccb943b0041c6d7253c36a51]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1982/1163/regulation/13) omitted (1.7.1992) by virtue of [Motorways Traffic (England and Wales) (Amendment) Regulations 1992 (S.I. 1992/1364)](https://www.legislation.gov.uk/uksi/1992/1364), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1364/regulation/1), [5](https://www.legislation.gov.uk/uksi/1992/1364/regulation/5)
 
-[^key-6680b52db7a82030f523236a6bc52cb4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1982/1163/regulation/14) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
+[^c-6680b52db7a82030f523236a6bc52cb4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1982/1163/regulation/14) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
 
-[^key-d2074fe9144786daf09d63df586d47e0]: Textual amendment: Words in [reg. 14(b)(i)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/14/b/i) inserted (E.) (6.4.2015) by [The Motorways Traffic (England and Wales) (Amendment) (England) Regulations 2015 (S.I. 2015/392)](https://www.legislation.gov.uk/uksi/2015/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2015/392/regulation/2/6)
+[^c-d2074fe9144786daf09d63df586d47e0]: Textual amendment: Words in [reg. 14(b)(i)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/14/b/i) inserted (E.) (6.4.2015) by [The Motorways Traffic (England and Wales) (Amendment) (England) Regulations 2015 (S.I. 2015/392)](https://www.legislation.gov.uk/uksi/2015/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2015/392/regulation/2/6)
 
-[^key-56197b6e3b3328e4f03d004e98abf5a5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1982/1163/regulation/15) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
+[^c-56197b6e3b3328e4f03d004e98abf5a5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1982/1163/regulation/15) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
 
-[^key-ac101fc3beb14a5601fe22e8a018d1b3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1982/1163/regulation/16) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
+[^c-ac101fc3beb14a5601fe22e8a018d1b3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1982/1163/regulation/16) in force at 15.9.1982, see [reg. 1](https://www.legislation.gov.uk/uksi/1982/1163/regulation/1)
 
-[^key-a943ac5706fc0d1f78e265fa810bdcdf]: Textual amendment: Words in [reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/16/1/a) inserted (1.1.2005) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2004 (S.I. 2004/3258)](https://www.legislation.gov.uk/uksi/2004/3258), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2004/3258/regulation/5/2/a)
+[^c-a943ac5706fc0d1f78e265fa810bdcdf]: Textual amendment: Words in [reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/16/1/a) inserted (1.1.2005) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2004 (S.I. 2004/3258)](https://www.legislation.gov.uk/uksi/2004/3258), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2004/3258/regulation/5/2/a)
 
-[^key-c5a23ccd6cb6c249f4b03117dc91fa86]: Textual amendment: Words in [reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/16/1/b) inserted (1.1.2005) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2004 (S.I. 2004/3258)](https://www.legislation.gov.uk/uksi/2004/3258), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2004/3258/regulation/5/2/b)
+[^c-c5a23ccd6cb6c249f4b03117dc91fa86]: Textual amendment: Words in [reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/16/1/b) inserted (1.1.2005) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2004 (S.I. 2004/3258)](https://www.legislation.gov.uk/uksi/2004/3258), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2004/3258/regulation/5/2/b)
 
-[^key-c6df66c097dd1cbddd7831fdb87a279f]: Textual amendment: Words in [reg. 16(1)(d)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/16/1/d) inserted (1.1.2005) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2004 (S.I. 2004/3258)](https://www.legislation.gov.uk/uksi/2004/3258), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2004/3258/regulation/5/2/c)
+[^c-c6df66c097dd1cbddd7831fdb87a279f]: Textual amendment: Words in [reg. 16(1)(d)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/16/1/d) inserted (1.1.2005) by [The Motorways Traffic (England and Wales) (Amendment) Regulations 2004 (S.I. 2004/3258)](https://www.legislation.gov.uk/uksi/2004/3258), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2004/3258/regulation/5/2/c)
 
-[^key-863dfafcf5909e017b4941cb992006c4]: Textual amendment: Words in [reg. 16(1)(d)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/16/1/d) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/7)
+[^c-863dfafcf5909e017b4941cb992006c4]: Textual amendment: Words in [reg. 16(1)(d)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/16/1/d) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/7)
 
-[^key-f807807a0d6aa46ff04a129d7a6dc0a7]: Textual amendment: Words in [reg. 16(1)(d)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/16/1/d) substituted (E.) (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [8](https://www.legislation.gov.uk/uksi/2004/3168/article/8); and (W.) (25.10.2005) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (Wales) Order 2005 (S.I. 2005/2929)](https://www.legislation.gov.uk/uksi/2005/2929), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2929/article/1/1), [9](https://www.legislation.gov.uk/uksi/2005/2929/article/9)
+[^c-f807807a0d6aa46ff04a129d7a6dc0a7]: Textual amendment: Words in [reg. 16(1)(d)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/16/1/d) substituted (E.) (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [8](https://www.legislation.gov.uk/uksi/2004/3168/article/8); and (W.) (25.10.2005) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (Wales) Order 2005 (S.I. 2005/2929)](https://www.legislation.gov.uk/uksi/2005/2929), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2929/article/1/1), [9](https://www.legislation.gov.uk/uksi/2005/2929/article/9)

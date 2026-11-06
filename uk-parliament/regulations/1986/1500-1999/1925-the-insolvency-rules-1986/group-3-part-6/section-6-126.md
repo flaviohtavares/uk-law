@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.126. Creditors' meeting to receive trustee's resignation[^key-d58d4e15818be23fb02e0b45f3fe62fb]
+## 6.126. Creditors' meeting to receive trustee's resignation[^c-d58d4e15818be23fb02e0b45f3fe62fb]
 
 *Extent: E+W*
 
@@ -34,12 +34,12 @@ summary: ''
 
 (4) Where two or more persons are acting as trustee jointly, any one of them may proceed under this Rule (without prejudice to the continuation in office of the other or others) on the ground that, in his opinion and that of the other or others, it is no longer expedient that there should continue to be the present number of joint trustees.
 
-(5)[^key-0ac0b0986bd7f9768fcaa6fc2f1be95c] If there is no quorum present at the meeting summoned to receive the trustee’s resignation, the meeting is deemed to have been held, a resolution is deemed to have been passed that the trustee’s resignation be accepted and the creditors are deemed not to have resolved against the trustee having his release.
+(5)[^c-0ac0b0986bd7f9768fcaa6fc2f1be95c] If there is no quorum present at the meeting summoned to receive the trustee’s resignation, the meeting is deemed to have been held, a resolution is deemed to have been passed that the trustee’s resignation be accepted and the creditors are deemed not to have resolved against the trustee having his release.
 
 (6) Where paragraph (5) applies any reference in the Rules to a resolution that the trustee’s resignation be accepted is replaced by a reference to the making of a written statement, signed by the person who, had there been a quorum present, would have been chairman of the meeting, that no quorum was present and that the trustee may resign.
 
 ## Annotations
 
-[^key-d58d4e15818be23fb02e0b45f3fe62fb]: Commencement: [Rule 6.126](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.126) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-d58d4e15818be23fb02e0b45f3fe62fb]: Commencement: [Rule 6.126](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.126) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-0ac0b0986bd7f9768fcaa6fc2f1be95c]: Textual amendment: [Rule 6.126(5)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.126/5)[(6)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.126/6) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 114](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/114)
+[^c-0ac0b0986bd7f9768fcaa6fc2f1be95c]: Textual amendment: [Rule 6.126(5)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.126/5)[(6)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.126/6) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 114](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/114)

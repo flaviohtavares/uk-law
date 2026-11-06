@@ -32,7 +32,7 @@ summary: ''
 
 Education
 
-The Period Products in Schools (Scotland) Regulations 2020 (revoked)[^key-c906bd3ab97bed677d16af5dd9421ec1]
+The Period Products in Schools (Scotland) Regulations 2020 (revoked)[^c-c906bd3ab97bed677d16af5dd9421ec1]
 
 Made
 
@@ -46,30 +46,30 @@ Coming into force
 
 19th October 2020
 
-[^key-c906bd3ab97bed677d16af5dd9421ec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c906bd3ab97bed677d16af5dd9421ec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c906bd3ab97bed677d16af5dd9421ec1]
+## 1. Citation, commencement and interpretation[^c-c906bd3ab97bed677d16af5dd9421ec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-c906bd3ab97bed677d16af5dd9421ec1]
+## 2.[^c-c906bd3ab97bed677d16af5dd9421ec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requirement to provide period products[^key-c906bd3ab97bed677d16af5dd9421ec1]
+## 3. Requirement to provide period products[^c-c906bd3ab97bed677d16af5dd9421ec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-c906bd3ab97bed677d16af5dd9421ec1]
+## 4.[^c-c906bd3ab97bed677d16af5dd9421ec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c906bd3ab97bed677d16af5dd9421ec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c906bd3ab97bed677d16af5dd9421ec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c906bd3ab97bed677d16af5dd9421ec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c906bd3ab97bed677d16af5dd9421ec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c906bd3ab97bed677d16af5dd9421ec1]: Textual amendment: Regulations revoked (15.8.2022) by [Period Products (Free Provision) (Scotland) Act 2021 (asp 1)](https://www.legislation.gov.uk/asp/2021/1), [ss. 2(8)](https://www.legislation.gov.uk/asp/2021/1/section/2/8), [11(2)](https://www.legislation.gov.uk/asp/2021/1/section/11/2); [S.S.I. 2022/208](https://www.legislation.gov.uk/ssi/2022/208), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2022/208/regulation/2/b)
+[^c-c906bd3ab97bed677d16af5dd9421ec1]: Textual amendment: Regulations revoked (15.8.2022) by [Period Products (Free Provision) (Scotland) Act 2021 (asp 1)](https://www.legislation.gov.uk/asp/2021/1), [ss. 2(8)](https://www.legislation.gov.uk/asp/2021/1/section/2/8), [11(2)](https://www.legislation.gov.uk/asp/2021/1/section/11/2); [S.S.I. 2022/208](https://www.legislation.gov.uk/ssi/2022/208), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2022/208/regulation/2/b)

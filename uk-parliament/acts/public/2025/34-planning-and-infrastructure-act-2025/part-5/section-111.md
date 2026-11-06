@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Home loss payments: exclusions[^key-ed1cfaf6e4053c49f76852e22b303195]
+## 111. Home loss payments: exclusions[^c-ed1cfaf6e4053c49f76852e22b303195]
 
 *Extent: E+W*
 
@@ -136,4 +136,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed1cfaf6e4053c49f76852e22b303195]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2025/34/section/111) in force at 18.2.2026, see [s. 118(5)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/e)
+[^c-ed1cfaf6e4053c49f76852e22b303195]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2025/34/section/111) in force at 18.2.2026, see [s. 118(5)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/e)

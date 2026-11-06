@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28A. International recognition of satellite frequency assignments: power to charge fees[^key-a9b7cd221d80104532d7b5a9599f1bdf]
+## 28A. International recognition of satellite frequency assignments: power to charge fees[^c-a9b7cd221d80104532d7b5a9599f1bdf]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9b7cd221d80104532d7b5a9599f1bdf]: Textual amendment: [S. 28A](https://www.legislation.gov.uk/ukpga/2003/21/section/28A) inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 101(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/101/2), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 101(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/101/4)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/cc)
+[^c-a9b7cd221d80104532d7b5a9599f1bdf]: Textual amendment: [S. 28A](https://www.legislation.gov.uk/ukpga/2003/21/section/28A) inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 101(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/101/2), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 101(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/101/4)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/cc)

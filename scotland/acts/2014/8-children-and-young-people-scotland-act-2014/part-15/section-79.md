@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Correction of proposal paper[^key-ac42f680a6ab5d3d04912d274bbbb3da]
+## 79. Correction of proposal paper[^c-ac42f680a6ab5d3d04912d274bbbb3da]
 
 *Extent: S*
 
@@ -96,4 +96,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac42f680a6ab5d3d04912d274bbbb3da]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2014/8/section/79) in force at 1.8.2014 by [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-ac42f680a6ab5d3d04912d274bbbb3da]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2014/8/section/79) in force at 1.8.2014 by [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)

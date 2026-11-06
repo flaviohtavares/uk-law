@@ -26,7 +26,7 @@ summary: ''
 
 - (a) its name;
 - (b) its business address or registered office;
-- (c) the nature of the business as a promoter which the monitored promoter is carrying on[^key-5359bccbfba96fa3b3193fef82c1963a];
+- (c) the nature of the business as a promoter which the monitored promoter is carrying on[^c-5359bccbfba96fa3b3193fef82c1963a];
 - (d) any other information that the authorised officer considers it appropriate to publish in order to make clear the monitored promoter's identity.
 
 (3) The reference in subsection (2)(a) to the monitored promoter's name includes any name under which it carries on a business as a promoter and any previous name or pseudonym.
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5359bccbfba96fa3b3193fef82c1963a]: Textual amendment: Words in [s. 248(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/248/2/c) substituted (with effect in accordance with Sch. 30 para. 21(3) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 21(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/21/2)
+[^c-5359bccbfba96fa3b3193fef82c1963a]: Textual amendment: Words in [s. 248(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/248/2/c) substituted (with effect in accordance with Sch. 30 para. 21(3) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 21(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/21/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.54. Security[^key-c0c6df3851505a5879e41e92ab597425]
+## 6.54. Security[^c-c0c6df3851505a5879e41e92ab597425]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0c6df3851505a5879e41e92ab597425]: Commencement: [Rule 6.54](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.54) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c0c6df3851505a5879e41e92ab597425]: Commencement: [Rule 6.54](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.54) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

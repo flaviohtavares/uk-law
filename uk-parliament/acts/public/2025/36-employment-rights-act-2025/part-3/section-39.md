@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Power to establish Social Care Negotiating Body[^key-26b08c5de542d8ddf09956a805ac73b6][^key-152646b773bd343741db55df01855d04]
+## 39. Power to establish Social Care Negotiating Body[^c-26b08c5de542d8ddf09956a805ac73b6][^c-152646b773bd343741db55df01855d04]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-26b08c5de542d8ddf09956a805ac73b6]: Commencement: S. 39 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-26b08c5de542d8ddf09956a805ac73b6]: Commencement: S. 39 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-152646b773bd343741db55df01855d04]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2025/36/section/39) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(9)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/9)
+[^c-152646b773bd343741db55df01855d04]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2025/36/section/39) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(9)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/9)

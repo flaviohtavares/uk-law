@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.58B. Hearing on application[^key-184101d6d3653005695ebf52ff564005]
+## 3.58B. Hearing on application[^c-184101d6d3653005695ebf52ff564005]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-184101d6d3653005695ebf52ff564005]: Textual amendment: Ch. 3 Pt. 8A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(48)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/48) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-184101d6d3653005695ebf52ff564005]: Textual amendment: Ch. 3 Pt. 8A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(48)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/48) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

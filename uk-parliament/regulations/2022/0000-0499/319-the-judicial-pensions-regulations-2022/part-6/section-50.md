@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Partial retirement option notice[^key-4fa99548a814e2f9cdb9086e918898ff]
+## 50. Partial retirement option notice[^c-4fa99548a814e2f9cdb9086e918898ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fa99548a814e2f9cdb9086e918898ff]: Commencement: Reg. 50 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-4fa99548a814e2f9cdb9086e918898ff]: Commencement: Reg. 50 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

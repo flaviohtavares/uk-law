@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Transparency Regulations 2015 (revoked)[^key-0a339acaef47ba8eb8056f5143ea8af7]
+The Transparency Regulations 2015 (revoked)[^c-0a339acaef47ba8eb8056f5143ea8af7]
 
 Made
 
@@ -44,42 +44,42 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2), (3) and (4)
 
-[^key-0a339acaef47ba8eb8056f5143ea8af7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a339acaef47ba8eb8056f5143ea8af7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-0a339acaef47ba8eb8056f5143ea8af7]
+## 1. Citation, commencement and interpretation[^c-0a339acaef47ba8eb8056f5143ea8af7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to Part 6 of the Act: transparency rules[^key-0a339acaef47ba8eb8056f5143ea8af7]
+## 2. Amendments to Part 6 of the Act: transparency rules[^c-0a339acaef47ba8eb8056f5143ea8af7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Storage of regulated information[^key-0a339acaef47ba8eb8056f5143ea8af7]
+## 3. Storage of regulated information[^c-0a339acaef47ba8eb8056f5143ea8af7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Act: sanctions[^key-0a339acaef47ba8eb8056f5143ea8af7]
+## 4. Amendments to the Act: sanctions[^c-0a339acaef47ba8eb8056f5143ea8af7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to Part 6 of the Act: interpretation[^key-0a339acaef47ba8eb8056f5143ea8af7]
+## 5. Amendments to Part 6 of the Act: interpretation[^c-0a339acaef47ba8eb8056f5143ea8af7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Control over authorised persons and others: disregarded holdings[^key-0a339acaef47ba8eb8056f5143ea8af7]
+## 6. Control over authorised persons and others: disregarded holdings[^c-0a339acaef47ba8eb8056f5143ea8af7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Review[^key-0a339acaef47ba8eb8056f5143ea8af7]
+## 7. Review[^c-0a339acaef47ba8eb8056f5143ea8af7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a339acaef47ba8eb8056f5143ea8af7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a339acaef47ba8eb8056f5143ea8af7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a339acaef47ba8eb8056f5143ea8af7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a339acaef47ba8eb8056f5143ea8af7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0a339acaef47ba8eb8056f5143ea8af7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/1755) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-0a339acaef47ba8eb8056f5143ea8af7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/1755) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

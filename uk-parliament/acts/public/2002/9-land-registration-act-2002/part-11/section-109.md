@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Procedure[^key-19e0fec0f1ff9994ce4dc4d1a87dd576]
+## 109. Procedure[^c-19e0fec0f1ff9994ce4dc4d1a87dd576]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19e0fec0f1ff9994ce4dc4d1a87dd576]: Textual amendment: [S. 109](https://www.legislation.gov.uk/ukpga/2002/9/section/109) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 229](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/229) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-19e0fec0f1ff9994ce4dc4d1a87dd576]: Textual amendment: [S. 109](https://www.legislation.gov.uk/ukpga/2002/9/section/109) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 229](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/229) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

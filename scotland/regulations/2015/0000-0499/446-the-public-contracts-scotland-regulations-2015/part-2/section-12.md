@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: S*
 
-These Regulations do not apply to procurement for a public service contract to be awarded by a contracting authority to another contracting authority or to an association of contracting authorities on the basis of an exclusive right which such authority or association of authorities enjoys pursuant to law, regulation or published administrative provision [^key-d7b0245a715d38c7dcecc5e95276326b]....
+These Regulations do not apply to procurement for a public service contract to be awarded by a contracting authority to another contracting authority or to an association of contracting authorities on the basis of an exclusive right which such authority or association of authorities enjoys pursuant to law, regulation or published administrative provision [^c-d7b0245a715d38c7dcecc5e95276326b]....
 
 ## Annotations
 
-[^key-d7b0245a715d38c7dcecc5e95276326b]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/ssi/2015/446/regulation/12) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2024/338/regulation/3/4) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+[^c-d7b0245a715d38c7dcecc5e95276326b]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/ssi/2015/446/regulation/12) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2024/338/regulation/3/4) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))

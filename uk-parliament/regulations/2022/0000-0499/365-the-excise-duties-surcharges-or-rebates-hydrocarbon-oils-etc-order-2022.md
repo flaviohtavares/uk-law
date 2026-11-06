@@ -44,15 +44,15 @@ Coming into force
 
 at 6.00 p.m. on 23rd March 2022
 
-The Treasury, in exercise of the powers conferred by sections 1(2) and 2(3) of the Excise Duties (Surcharges or Rebates) Act 1979[^f00001], make the following Order.[^key-aee0c1e756541cbc324c2c0cc05f83bc]
+The Treasury, in exercise of the powers conferred by sections 1(2) and 2(3) of the Excise Duties (Surcharges or Rebates) Act 1979[^f00001], make the following Order.[^c-aee0c1e756541cbc324c2c0cc05f83bc]
 
-## 1. Citation and commencement[^key-c2c060fa163899cba70f0e39c756fe50]
+## 1. Citation and commencement[^c-c2c060fa163899cba70f0e39c756fe50]
 
 (1) This Order may be cited as the Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) Order 2022.
 
 (2) This Order comes into force at 6.00 p.m. on 23rd March 2022 and has effect in relation to products that are charged with duty under the Oil Act on or after that time on that date.
 
-## 2. Interpretation[^key-3320ee7d6a155d1366bc6b0e78a8b5f4]
+## 2. Interpretation[^c-3320ee7d6a155d1366bc6b0e78a8b5f4]
 
 In this Order—
 
@@ -64,7 +64,7 @@ In this Order—
 - (f) “**hydrocarbon oil duty**” means the duty charged by section 6(1) of the Oil Act[^f00007](excise duty on hydrocarbon oil);
 - (g) “**natural road fuel gas**” has the same meaning as in section 5(2) of the Oil Act[^f00008](road fuel gas).
 
-## 3. Adjustments of liability to duties chargeable by virtue of the Oil Act[^key-fdb8453bea9319d44d3f9fc7fd696e4e]
+## 3. Adjustments of liability to duties chargeable by virtue of the Oil Act[^c-fdb8453bea9319d44d3f9fc7fd696e4e]
 
 (1) The following are adjusted in accordance with Table A—
 
@@ -106,7 +106,7 @@ Table B
 
 (4) The figures in columns *(B)* and *(D)* are only for ease of reference and comprehension of effect.
 
-## 4. Adjustments of rights to rebate of duties chargeable by virtue of the Oil Act[^key-8710485f25d76cb121c6bcf40d35a252]
+## 4. Adjustments of rights to rebate of duties chargeable by virtue of the Oil Act[^c-8710485f25d76cb121c6bcf40d35a252]
 
 (1) The following are adjusted in accordance with Table C—
 
@@ -125,7 +125,7 @@ Table C
 | --- | --- | --- | --- | --- |
 |  | Product | Rebated rate before adjustment (£ per litre) | Percentage addition[^f00020] | Rebated rate after adjustment (£ per litre) |
 | (a) | Fuel oil | 0.1070 | 1.95 | 0.0978 |
-| (b) | Gas oil | 0.1114 | 9.96[^key-22c937e5931c66a592a63c855279125e] | 0.0648[^key-76b13b3fa0ef5190f3ded242d8094760] |
+| (b) | Gas oil | 0.1114 | 9.96[^c-22c937e5931c66a592a63c855279125e] | 0.0648[^c-76b13b3fa0ef5190f3ded242d8094760] |
 | (c) | Kerosene | 0.1114 | 9.96 | 0.0648 |
 | (d) | Heavy oil to which section 13ZA of the Oil Act applies | 0.1070 | 1.95 | 0.0978 |
 | (e) | Light oil | 0.1070 | 1.62 | 0.0978[^f00021] |
@@ -134,7 +134,7 @@ Table C
 
 (2) The figures in columns *(B)* and *(D)* are only for ease of reference and comprehension of effect.
 
-## 5. Adjustments of liability to fuel substitutes duty[^key-a9e1abbc20311fdb3cf13778041bf64a]
+## 5. Adjustments of liability to fuel substitutes duty[^c-a9e1abbc20311fdb3cf13778041bf64a]
 
 (1) This article applies where the rate of fuel substitutes duty for a product is prescribed by the Other Fuel Substitutes (Rates of Excise Duty etc.) Order 1995[^f00023] by reference to the rate of hydrocarbon oil duty specified in the Oil Act for—
 
@@ -151,7 +151,7 @@ Table C
 
 (5) The liability to fuel substitutes duty in the case described by paragraph (1)(d) is decreased by making the like adjustment as that made by article 3 in the case of the product specified in row *(d)* of Table A.
 
-## 6. Adjustments of liability to aqua methanol additive or extender duty[^key-1203fdd7c58b1e51166951c8ecd34dad]
+## 6. Adjustments of liability to aqua methanol additive or extender duty[^c-1203fdd7c58b1e51166951c8ecd34dad]
 
 (1) This article applies where the rate of aqua methanol additive or extender duty is prescribed by the Aqua Methanol (Use as Additive or Extender) (Rates of Excise Duty) Order 2016[^f00024] by reference to the rate of hydrocarbon oil duty specified in the Oil Act for—
 
@@ -187,11 +187,11 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [1979 c. 8](https://www.legislation.gov.uk/ukpga/1979/8) (“**the Surcharges or Rebates Act**”). Relevant amendments have been made by section 10(2) of the Finance Act [1980 (c. 48)](https://www.legislation.gov.uk/ukpga/1980/48), section 10(1) and (2) of the Finance Act [1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39) and section 11(4) of the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34). Section 2(2) of the Surcharges or Rebates Act provides that an order made under the Surcharges or Rebates Act shall cease to be in force at the expiration of a period of one year from the date on which it takes effect, unless continued in force by a further order; section 2(2) was substituted by section 10(3) of the Finance Act 1980.
 
-[^key-aee0c1e756541cbc324c2c0cc05f83bc]: Modification: Order continued until the end of 31.12.2026 (23.3.2026) by [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Temporary Continuation of 2022 Order and Adjustments) Order 2026 (S.I. 2026/164)](https://www.legislation.gov.uk/uksi/2026/164), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/164/article/1/1), [3](https://www.legislation.gov.uk/uksi/2026/164/article/3) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/164/article/1/2)) (as amended (15.6.2026) by [S.I. 2026/555](https://www.legislation.gov.uk/uksi/2026/555), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/555/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/555/article/2/3))
+[^c-aee0c1e756541cbc324c2c0cc05f83bc]: Modification: Order continued until the end of 31.12.2026 (23.3.2026) by [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Temporary Continuation of 2022 Order and Adjustments) Order 2026 (S.I. 2026/164)](https://www.legislation.gov.uk/uksi/2026/164), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/164/article/1/1), [3](https://www.legislation.gov.uk/uksi/2026/164/article/3) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/164/article/1/2)) (as amended (15.6.2026) by [S.I. 2026/555](https://www.legislation.gov.uk/uksi/2026/555), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/555/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/555/article/2/3))
 
-[^key-c2c060fa163899cba70f0e39c756fe50]: Commencement: Art. 1 in force at 23.3.2022 at 6.00 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/365/article/1/2)
+[^c-c2c060fa163899cba70f0e39c756fe50]: Commencement: Art. 1 in force at 23.3.2022 at 6.00 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/365/article/1/2)
 
-[^key-3320ee7d6a155d1366bc6b0e78a8b5f4]: Commencement: Art. 2 in force at 23.3.2022 at 6.00 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/365/article/1/2)
+[^c-3320ee7d6a155d1366bc6b0e78a8b5f4]: Commencement: Art. 2 in force at 23.3.2022 at 6.00 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/365/article/1/2)
 
 [^f00002]: Footnote: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5) (“**the Oil Act**”).
 
@@ -207,7 +207,7 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00008]: Footnote: Section 5(2) was inserted by section 6(1) of the Finance Act 2004.
 
-[^key-fdb8453bea9319d44d3f9fc7fd696e4e]: Commencement: Art. 3 in force at 23.3.2022 at 6.00 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/365/article/1/2)
+[^c-fdb8453bea9319d44d3f9fc7fd696e4e]: Commencement: Art. 3 in force at 23.3.2022 at 6.00 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/365/article/1/2)
 
 [^f00009]: Footnote: Section 6AA was inserted by section 5(4) of the Finance Act 2002 and amended by section 4(2) of the Finance Act 2003, sections 5(2) and 11 of, and paragraph 1 of Schedule 42 to, the Finance Act 2004, sections 4(4) and 5(3) of the Finance Act 2005, sections 6(3) and 7(3) of the Finance Act 2006, section 10(3) of the Finance Act 2007, section 15(3) of, and paragraph 4 of Schedule 5 to, the Finance Act 2008, section 15(3) and 16(3) of the Finance Act 2009 and section 12(3) of the Finance Act 2010, and is prospectively amended by paragraph 2 of Schedule 21 to the Finance Act 2021.
 
@@ -219,7 +219,7 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00013]: Footnote: Section 8 was amended by sections 6(2) and 9 of, and Part 2 of Schedule 29 to, the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), section 6(2) of the Finance Act 2004, paragraph 6 of Schedule 5 to the Finance Act 2008, section 179(3) of the Finance Act 2013.
 
-[^key-8710485f25d76cb121c6bcf40d35a252]: Commencement: Art. 4 in force at 23.3.2022 at 6.00 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/365/article/1/2)
+[^c-8710485f25d76cb121c6bcf40d35a252]: Commencement: Art. 4 in force at 23.3.2022 at 6.00 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/365/article/1/2)
 
 [^f00014]: Footnote: Relevant amendments were made to section 11 by section 2(2) and (3) of the Finance Act 1986, section 5(2) of the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), section 7(5) of, and Part 1 of Schedule 18 to, the Finance Act 1997, section 10(2) of the Finance Act 2000, paragraph 3 of Schedule 2 to the Finance Act 2002, section 5(1) of the Finance Act 2003, sections 5(3) and 10(5) of the Finance Act 2004, sections 4(7) and 5(6) of the Finance Act 2005, section 7(6) of the Finance Act 2006, section 10(6) of the Finance Act 2007, sections 13(5) and 15(6) of, and paragraph 25 of Schedule 6 to, the Finance Act 2008, sections 15(6), 16(6) and 121(1) of the Finance Act 2009, sections 12(8) and 13(4) of the Finance Act 2010, sections 19(4) and 20(4) of the Finance Act 2011 and section 179(4) of the Finance Act 2013.
 
@@ -235,16 +235,16 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00020]: Footnote: Section 1(4) of the Excise Duties (Surcharges or Rebates) Act 1979 provides: “The adjustment under this section of a right to any drawback, rebate or allowance in respect of a duty or goods charged with a duty shall be made where the right arises while the order is in force with respect to the duty (whenever the duty became due); but in calculating the amount to be adjusted any adjustment under this section of the liability to the duty shall be disregarded.”. In the Oil Act, the rebates are set by reference to the underlying rate of duty that applies to the product, which are also set in the Oil Act. The adjusted rebate (as provided by article 4 of this instrument) is also calculated by reference to the underlying rate of duty set by the Oil Act that applies to the product, and not by reference to that rate as adjusted by article 3 of this instrument. The percentage addition to the right to rebate is calculated accordingly.
 
-[^key-22c937e5931c66a592a63c855279125e]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2022/365/article/4) Table C substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Amendment) Order 2026 (S.I. 2026/555)](https://www.legislation.gov.uk/uksi/2026/555), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/555/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/555/article/3/a)
+[^c-22c937e5931c66a592a63c855279125e]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2022/365/article/4) Table C substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Amendment) Order 2026 (S.I. 2026/555)](https://www.legislation.gov.uk/uksi/2026/555), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/555/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/555/article/3/a)
 
-[^key-76b13b3fa0ef5190f3ded242d8094760]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2022/365/article/4) Table C substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Amendment) Order 2026 (S.I. 2026/555)](https://www.legislation.gov.uk/uksi/2026/555), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/555/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2026/555/article/3/b)
+[^c-76b13b3fa0ef5190f3ded242d8094760]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2022/365/article/4) Table C substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Amendment) Order 2026 (S.I. 2026/555)](https://www.legislation.gov.uk/uksi/2026/555), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/555/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2026/555/article/3/b)
 
 [^f00021]: Footnote: Unleaded petrol and aviation gasoline are not used as furnace fuel. The rebated rate specified here relates to the rate of duty for light oil other than unleaded petrol and aviation gasoline.
 
-[^key-a9e1abbc20311fdb3cf13778041bf64a]: Commencement: Art. 5 in force at 23.3.2022 at 6.00 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/365/article/1/2)
+[^c-a9e1abbc20311fdb3cf13778041bf64a]: Commencement: Art. 5 in force at 23.3.2022 at 6.00 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/365/article/1/2)
 
 [^f00023]: Footnote: [S.I. 1995/2716](https://www.legislation.gov.uk/uksi/1995/2716); relevant amendments were made by [S.I. 2002/3042](https://www.legislation.gov.uk/uksi/2002/3042), [2004/2062](https://www.legislation.gov.uk/uksi/2004/2062), [2008/754](https://www.legislation.gov.uk/uksi/2008/754) and [2014/470](https://www.legislation.gov.uk/uksi/2014/470), and relevant prospective amendments are made by [S.I. 2022/234](https://www.legislation.gov.uk/uksi/2022/234).
 
-[^key-1203fdd7c58b1e51166951c8ecd34dad]: Commencement: Art. 6 in force at 23.3.2022 at 6.00 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/365/article/1/2)
+[^c-1203fdd7c58b1e51166951c8ecd34dad]: Commencement: Art. 6 in force at 23.3.2022 at 6.00 p.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/365/article/1/2)
 
 [^f00024]: Footnote: [S.I. 2016/975](https://www.legislation.gov.uk/uksi/2016/975).

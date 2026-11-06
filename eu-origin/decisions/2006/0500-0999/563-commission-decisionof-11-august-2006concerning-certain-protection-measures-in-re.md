@@ -40,86 +40,86 @@ concerning certain protection measures in relation to highly pathogenic avian in
 
 (2006/563/EC)
 
-[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]. . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]. . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject-matter and scope[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 1. Subject-matter and scope[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 2. Definitions[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Establishment of control and monitoring areas[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 3. Establishment of control and monitoring areas[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Derogations from measures provided for in Article 3(1)[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 4. Derogations from measures provided for in Article 3(1)[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Measures in the control area[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 5. Measures in the control area[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Prohibitions in the control area[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 6. Prohibitions in the control area[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Measures in the monitoring area[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 7. Measures in the monitoring area[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Prohibitions in the monitoring area[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 8. Prohibitions in the monitoring area[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Derogations for live birds and day-old chicks[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 9. Derogations for live birds and day-old chicks[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Derogations for hatching eggs[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 10. Derogations for hatching eggs[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Derogations for meat, minced meat, meat preparations, mechanically separated meat and meat products[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 11. Derogations for meat, minced meat, meat preparations, mechanically separated meat and meat products[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Derogations for animal by-products[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 12. Derogations for animal by-products[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Conditions for movements[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 13. Conditions for movements[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Duration of the measures in the control and monitoring areas[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 14. Duration of the measures in the control and monitoring areas[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Derogations concerning the duration of measures in the control and monitoring areas[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 15. Derogations concerning the duration of measures in the control and monitoring areas[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Information obligations of affected Member State[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 16. Information obligations of affected Member State[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Repeals[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 17. Repeals[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Compliance[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 18. Compliance[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 19. Addressee[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]
+## Article 19. Addressee[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d8a8fba4a71d8468f6e9eb04b05b0caf]: Textual amendment: Decision revoked: (E.) (24.11.2021) by [The Avian Influenza (H5N1 in Wild Birds) (England) (Amendment) Order 2021 (S.I. 2021/1305)](https://www.legislation.gov.uk/uksi/2021/1305), [arts.1](https://www.legislation.gov.uk/uksi/2021/1305/article/1), [8](https://www.legislation.gov.uk/uksi/2021/1305/article/8); (S.) (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/article/1/1), [3](https://www.legislation.gov.uk/ssi/2021/444/article/3); and (W.) (19.11.2021 at 5.55 p.m.) by [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/uksi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1292/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1292/article/9).
+[^c-d8a8fba4a71d8468f6e9eb04b05b0caf]: Textual amendment: Decision revoked: (E.) (24.11.2021) by [The Avian Influenza (H5N1 in Wild Birds) (England) (Amendment) Order 2021 (S.I. 2021/1305)](https://www.legislation.gov.uk/uksi/2021/1305), [arts.1](https://www.legislation.gov.uk/uksi/2021/1305/article/1), [8](https://www.legislation.gov.uk/uksi/2021/1305/article/8); (S.) (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/article/1/1), [3](https://www.legislation.gov.uk/ssi/2021/444/article/3); and (W.) (19.11.2021 at 5.55 p.m.) by [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/uksi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1292/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1292/article/9).

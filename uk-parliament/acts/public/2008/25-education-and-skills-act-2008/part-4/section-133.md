@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Regulations under section 132: supplementary[^key-693bfe2b13382ec8c6613490392b3723]
+## 133. Regulations under section 132: supplementary[^c-693bfe2b13382ec8c6613490392b3723]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ about the proposal to make the regulations.
 
 ## Annotations
 
-[^key-693bfe2b13382ec8c6613490392b3723]: Commencement: S. 133 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
+[^c-693bfe2b13382ec8c6613490392b3723]: Commencement: S. 133 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)

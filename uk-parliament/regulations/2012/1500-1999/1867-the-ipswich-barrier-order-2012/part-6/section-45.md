@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Protection of Network Rail[^key-5158e390ba6df1636868c9ef69a2fa62]
+## 45. Protection of Network Rail[^c-5158e390ba6df1636868c9ef69a2fa62]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 8 (protection of Network Rail) has effect.
 
 ## Annotations
 
-[^key-5158e390ba6df1636868c9ef69a2fa62]: Commencement: Art. 45 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-5158e390ba6df1636868c9ef69a2fa62]: Commencement: Art. 45 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

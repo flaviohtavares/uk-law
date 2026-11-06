@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128E. Duty to notify registrar of changes[^key-1b31cc575fbf3cea5194d3feb194076f]
+## 128E. Duty to notify registrar of changes[^c-1b31cc575fbf3cea5194d3feb194076f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b31cc575fbf3cea5194d3feb194076f]: Textual amendment: Pt. 8 Ch. 2A omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 49(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/49/2/b), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)
+[^c-1b31cc575fbf3cea5194d3feb194076f]: Textual amendment: Pt. 8 Ch. 2A omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 49(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/49/2/b), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Remit of cases to the Scottish Land Court[^key-614a111f6e9b518bdb04441016327fb4]
+## 94. Remit of cases to the Scottish Land Court[^c-614a111f6e9b518bdb04441016327fb4]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-614a111f6e9b518bdb04441016327fb4]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2014/18/section/94) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-614a111f6e9b518bdb04441016327fb4]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2014/18/section/94) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Rules about the proceedings of the Parole Board[^key-3e4a50f16a291c5b60488215cb4c6034]
+## 40. Rules about the proceedings of the Parole Board[^c-3e4a50f16a291c5b60488215cb4c6034]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Omit section 73(2) of the Victims and Prisoners Act 2024 (rules about the procee
 
 ## Annotations
 
-[^key-3e4a50f16a291c5b60488215cb4c6034]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2026/2/section/40) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-3e4a50f16a291c5b60488215cb4c6034]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2026/2/section/40) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

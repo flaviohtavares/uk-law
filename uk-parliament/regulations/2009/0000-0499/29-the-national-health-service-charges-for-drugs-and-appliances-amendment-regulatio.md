@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Charges for Drugs and Appliances) Amendment Regulations 2009 (revoked)[^key-3c106a221e6467af3118d8203a119985]
+The National Health Service (Charges for Drugs and Appliances) Amendment Regulations 2009 (revoked)[^c-3c106a221e6467af3118d8203a119985]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 9th February 2009
 
-[^key-3c106a221e6467af3118d8203a119985]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c106a221e6467af3118d8203a119985]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3c106a221e6467af3118d8203a119985]
+## 1. Citation, commencement and interpretation[^c-3c106a221e6467af3118d8203a119985]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 7 of the principal Regulations[^key-3c106a221e6467af3118d8203a119985]
+## 2. Amendment of regulation 7 of the principal Regulations[^c-3c106a221e6467af3118d8203a119985]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 8 of the principal Regulations[^key-3c106a221e6467af3118d8203a119985]
+## 3. Amendment of regulation 8 of the principal Regulations[^c-3c106a221e6467af3118d8203a119985]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c106a221e6467af3118d8203a119985]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c106a221e6467af3118d8203a119985]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3c106a221e6467af3118d8203a119985]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c106a221e6467af3118d8203a119985]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3c106a221e6467af3118d8203a119985]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/29) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
+[^c-3c106a221e6467af3118d8203a119985]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/29) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)

@@ -43,7 +43,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 The Secretary of State has consulted the Electoral Commission in accordance with section 7(1) and (2)(ha) of the Political Parties, Elections and Referendums Act 2000[^f00002] in relation to the designations of returning officers for elections of persons as police and crime commissioners in England and Wales.
 
-## 1. Citation, commencement, extent, application and interpretation[^key-2e9bdaae46fbd8f6e791ae8738dd62eb]
+## 1. Citation, commencement, extent, application and interpretation[^c-2e9bdaae46fbd8f6e791ae8738dd62eb]
 
 (1) This Order may be cited as the Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) Order 2024 and comes into force on the day after the day on which it is made.
 
@@ -54,25 +54,25 @@ The Secretary of State has consulted the Electoral Commission in accordance with
 (4) In this Order—
 
 - “**the 2011 Act**” means the Police Reform and Social Responsibility Act 2011;
-- “**police area**” means a police area listed in Schedule 1 to the Police Act 1996 (police areas outside London)[^f00004], other than Greater Manchester[^f00005], North Yorkshire[^f00006] , South Yorkshire[^key-4bc9e171c98e218c6457e8a418c23e93] and West Yorkshire[^f00007].
+- “**police area**” means a police area listed in Schedule 1 to the Police Act 1996 (police areas outside London)[^f00004], other than Greater Manchester[^f00005], North Yorkshire[^f00006] , South Yorkshire[^c-4bc9e171c98e218c6457e8a418c23e93] and West Yorkshire[^f00007].
 
-## 2. Designation of local authorities in England[^key-6dc7500cc07501f49e5c08379fcd4b81]
+## 2. Designation of local authorities in England[^c-6dc7500cc07501f49e5c08379fcd4b81]
 
 In respect of each police area in England listed in column 1 of the table in Schedule 1, for the purpose of section 75(1) of the 2011 Act (the appropriate officer), the designated local authority is the authority listed in the corresponding entry in column 2 of that table.
 
-## 3. Designation of local authorities in Wales[^key-c7bc7e3b74112220be721c2d15ea694b]
+## 3. Designation of local authorities in Wales[^c-c7bc7e3b74112220be721c2d15ea694b]
 
 In respect of each police area in Wales listed in column 1 of the table in Schedule 2, for the purpose of section 75(1) of the 2011 Act (the appropriate officer), the designated local authority is the authority listed in the corresponding entry in column 2 of that table.
 
-## 4. Designation of police area returning officers in England[^key-1b06708502e7c2e773779b3ee1b8ae88]
+## 4. Designation of police area returning officers in England[^c-1b06708502e7c2e773779b3ee1b8ae88]
 
 In respect of each police area in England listed in column 1 of the table in Schedule 3, the police area returning officer is the person who is the acting returning officer[^f00008] for the parliamentary constituency listed in the corresponding entry in column 2 of that table.
 
-## 5. Designation of police area returning officers in Wales[^key-6bc7eee9f8cf703167933b2c1fadad1f]
+## 5. Designation of police area returning officers in Wales[^c-6bc7eee9f8cf703167933b2c1fadad1f]
 
 In respect of each police area in Wales listed in column 1 of the table in Schedule 4, the police area returning officer is the person who is the acting returning officer[^f00009] for the parliamentary constituency listed in the corresponding entry in column 2 of that table.
 
-## 6. Consequential amendments[^key-465fda7bbbaa477e6b9ede351ae48bf3]
+## 6. Consequential amendments[^c-465fda7bbbaa477e6b9ede351ae48bf3]
 
 (1) In the Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017[^f00010], in Schedule 2 (exclusion of legislation from application to the combined authority mayor with policing and crime functions) omit paragraphs 32 and 33.
 
@@ -80,7 +80,7 @@ In respect of each police area in Wales listed in column 1 of the table in Sched
 
 (3) In the York and North Yorkshire Combined Authority Order 2023[^f00012], in Schedule 6 (exclusion of legislation from application to the Combined Authority Mayor with policing and crime functions) omit paragraphs 32 and 33.
 
-## 7. Revocations and savings[^key-71312fceaebfba364156a3b2f55bbdd6]
+## 7. Revocations and savings[^c-71312fceaebfba364156a3b2f55bbdd6]
 
 (1) Subject to paragraph (3), the following Orders are revoked—
 
@@ -103,7 +103,7 @@ Department for Levelling Up, Housing and Communities
 
 21st February 2024
 
-## SCHEDULE 1 — Designated local authorities in England[^key-f82144df4f1b6729bf9b9be0ec127cfa]
+## SCHEDULE 1 — Designated local authorities in England[^c-f82144df4f1b6729bf9b9be0ec127cfa]
 
 Article 2
 
@@ -144,7 +144,7 @@ Article 2
 | West Midlands | Coventry City Council |
 | Wiltshire | Wiltshire Council |
 
-## SCHEDULE 2 — Designated local authorities in Wales[^key-511780bbebe878fb380c64b7db817ca2]
+## SCHEDULE 2 — Designated local authorities in Wales[^c-511780bbebe878fb380c64b7db817ca2]
 
 Article 3
 
@@ -155,13 +155,13 @@ Article 3
 | North Wales | Wrexham County Borough Council |
 | South Wales | Neath Port Talbot Council |
 
-## SCHEDULE 3 — Designated police area returning officers in England[^key-58b6d57de1e1b3f845c2003d16b4aabb]
+## SCHEDULE 3 — Designated police area returning officers in England[^c-58b6d57de1e1b3f845c2003d16b4aabb]
 
 Article 4
 
 | (1) Name of police area | (2) Parliamentary constituency |
 | --- | --- |
-| Avon and Somerset[^key-f5005668b0aa69e92b2ffd0b374f4d53] | Bath |
+| Avon and Somerset[^c-f5005668b0aa69e92b2ffd0b374f4d53] | Bath |
 | Bedfordshire | Luton South and South Bedfordshire |
 | Cambridgeshire | Ely and East Cambridgeshire |
 | Cheshire | Widnes and Halewood |
@@ -195,13 +195,13 @@ Article 4
 | West Midlands | Coventry South |
 | Wiltshire | Salisbury |
 
-## SCHEDULE 4 — Designated police area returning officers in Wales[^key-6753e33b64c26881bc50a29639dd4373]
+## SCHEDULE 4 — Designated police area returning officers in Wales[^c-6753e33b64c26881bc50a29639dd4373]
 
 Article 5
 
 | (1) Name of police area | (2) Parliamentary constituency |
 | --- | --- |
-| Dyfed Powys[^key-7c412dce61faa03f8b66518237fc01da] | Ceredigion Preseli |
+| Dyfed Powys[^c-7c412dce61faa03f8b66518237fc01da] | Ceredigion Preseli |
 | Gwent | Caerphilly |
 | North Wales | Wrexham |
 | South Wales | Aberafan Maesteg |
@@ -226,7 +226,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00002]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41); section 7(2)(ha) was inserted by paragraph 11 of Schedule 10 to the Police Reform and Social Responsibility Act 2011 (“**the 2011 Act**”).
 
-[^key-2e9bdaae46fbd8f6e791ae8738dd62eb]: Commencement: Art. 1 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
+[^c-2e9bdaae46fbd8f6e791ae8738dd62eb]: Commencement: Art. 1 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
 
 [^f00003]: Footnote: [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917), to which there are amendments not relevant to this Order.
 
@@ -236,23 +236,23 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00006]: Footnote: The functions of a police and crime commissioner in respect of North Yorkshire have been transferred to the mayor of the York and North Yorkshire Combined Authority by [S.I. 2023/1432](https://www.legislation.gov.uk/uksi/2023/1432). See paragraph 21 (b) and (d) of Schedule 6, the effect of which is to remove the requirement to designate both a police area returning officer under section 54(1)(b) of the 2011 Act and a local authority for the purposes of section 75(1) of that Act in respect of the York and North Yorkshire Combined Authority.
 
-[^key-4bc9e171c98e218c6457e8a418c23e93]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/uksi/2024/186/article/1/4) inserted (30.7.2024) by [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) (Amendment) Order 2024 (S.I. 2024/836)](https://www.legislation.gov.uk/uksi/2024/836), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/836/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/836/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/836/article/3))
+[^c-4bc9e171c98e218c6457e8a418c23e93]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/uksi/2024/186/article/1/4) inserted (30.7.2024) by [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) (Amendment) Order 2024 (S.I. 2024/836)](https://www.legislation.gov.uk/uksi/2024/836), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/836/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/836/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/836/article/3))
 
 [^f00007]: Footnote: The functions of a police and crime commissioner in respect of West Yorkshire have been transferred to the mayor of the West Yorkshire Combined Authority by [S.I. 2021/112](https://www.legislation.gov.uk/uksi/2021/112). See paragraph 21(b) and (d) of Schedule 6, the effect of which is to remove the requirement to designate both a police area returning officer under section 54(1)(b) of the 2011 Act and a local authority for the purposes of section 75(1) of that Act in respect of the West Yorkshire Combined Authority.
 
-[^key-6dc7500cc07501f49e5c08379fcd4b81]: Commencement: Art. 2 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
+[^c-6dc7500cc07501f49e5c08379fcd4b81]: Commencement: Art. 2 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
 
-[^key-c7bc7e3b74112220be721c2d15ea694b]: Commencement: Art. 3 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
+[^c-c7bc7e3b74112220be721c2d15ea694b]: Commencement: Art. 3 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
 
-[^key-1b06708502e7c2e773779b3ee1b8ae88]: Commencement: Art. 4 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
+[^c-1b06708502e7c2e773779b3ee1b8ae88]: Commencement: Art. 4 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
 
 [^f00008]: Footnote: The person who is acting returning officer for a parliamentary constituency in England is determined by section 28(1)(a) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2) and by any order made under section 28(1)(b) of that Act: see [S.I. 2007/2878](https://www.legislation.gov.uk/uksi/2007/2878).
 
-[^key-6bc7eee9f8cf703167933b2c1fadad1f]: Commencement: Art. 5 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
+[^c-6bc7eee9f8cf703167933b2c1fadad1f]: Commencement: Art. 5 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
 
 [^f00009]: Footnote: The person who is acting returning officer for a parliamentary constituency in Wales is determined by section 28(1)(aa) of the Representation of the People Act 1983 and by any order made under section 28(1)(b) of that Act: see [S.I. 2007/171](https://www.legislation.gov.uk/uksi/2007/171).
 
-[^key-465fda7bbbaa477e6b9ede351ae48bf3]: Commencement: Art. 6 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
+[^c-465fda7bbbaa477e6b9ede351ae48bf3]: Commencement: Art. 6 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
 
 [^f00010]: Footnote: [S.I. 2017/470](https://www.legislation.gov.uk/uksi/2017/470), to which there are amendments not relevant to this Order.
 
@@ -260,7 +260,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00012]: Footnote: [S.I. 2023/1432](https://www.legislation.gov.uk/uksi/2023/1432).
 
-[^key-71312fceaebfba364156a3b2f55bbdd6]: Commencement: Art. 7 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
+[^c-71312fceaebfba364156a3b2f55bbdd6]: Commencement: Art. 7 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
 
 [^f00013]: Footnote: [S.I. 2020/134](https://www.legislation.gov.uk/uksi/2020/134), amended by S.I.s [2021/258](https://www.legislation.gov.uk/uksi/2021/258) and [2022/1079](https://www.legislation.gov.uk/uksi/2022/1079).
 
@@ -272,14 +272,14 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00017]: Footnote: [S.I. 2022/1079](https://www.legislation.gov.uk/uksi/2022/1079).
 
-[^key-f82144df4f1b6729bf9b9be0ec127cfa]: Commencement: Sch. 1 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
+[^c-f82144df4f1b6729bf9b9be0ec127cfa]: Commencement: Sch. 1 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
 
-[^key-511780bbebe878fb380c64b7db817ca2]: Commencement: Sch. 2 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
+[^c-511780bbebe878fb380c64b7db817ca2]: Commencement: Sch. 2 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
 
-[^key-58b6d57de1e1b3f845c2003d16b4aabb]: Commencement: Sch. 3 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
+[^c-58b6d57de1e1b3f845c2003d16b4aabb]: Commencement: Sch. 3 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
 
-[^key-f5005668b0aa69e92b2ffd0b374f4d53]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2024/186/schedule/3) table substituted (30.7.2024) by [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) (Amendment) Order 2024 (S.I. 2024/836)](https://www.legislation.gov.uk/uksi/2024/836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/836/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/836/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/836/article/3))
+[^c-f5005668b0aa69e92b2ffd0b374f4d53]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2024/186/schedule/3) table substituted (30.7.2024) by [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) (Amendment) Order 2024 (S.I. 2024/836)](https://www.legislation.gov.uk/uksi/2024/836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/836/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/836/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/836/article/3))
 
-[^key-6753e33b64c26881bc50a29639dd4373]: Commencement: Sch. 4 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
+[^c-6753e33b64c26881bc50a29639dd4373]: Commencement: Sch. 4 in force at 22.2.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1)
 
-[^key-7c412dce61faa03f8b66518237fc01da]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2024/186/schedule/4) table substituted (30.7.2024) by [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) (Amendment) Order 2024 (S.I. 2024/836)](https://www.legislation.gov.uk/uksi/2024/836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/836/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/836/schedule/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/836/article/3))
+[^c-7c412dce61faa03f8b66518237fc01da]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2024/186/schedule/4) table substituted (30.7.2024) by [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) (Amendment) Order 2024 (S.I. 2024/836)](https://www.legislation.gov.uk/uksi/2024/836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/836/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/836/schedule/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/836/article/3))

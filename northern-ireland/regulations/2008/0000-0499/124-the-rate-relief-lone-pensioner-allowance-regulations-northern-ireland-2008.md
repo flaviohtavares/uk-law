@@ -43,11 +43,11 @@ The Department of Finance and Personnel makes the following Regulations in exerc
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-2dc8c6cc1d6e39fb51108f8b20866eea]
+### 1. Citation and commencement[^c-2dc8c6cc1d6e39fb51108f8b20866eea]
 
 These Regulations may be cited as the Rate Relief (Lone Pensioner Allowance) Regulations (Northern Ireland) 2008 and shall come into operation on 1st April 2008.
 
-### 2. Interpretation[^key-0cd3c28897ab1847fb9725a355e1c18e]
+### 2. Interpretation[^c-0cd3c28897ab1847fb9725a355e1c18e]
 
 (1) In these Regulations—
 
@@ -64,7 +64,7 @@ These Regulations may be cited as the Rate Relief (Lone Pensioner Allowance) Reg
 
 ## PART 2 — Lone Pensioner Allowance
 
-### 3. Grant of lone pensioner allowance[^key-dc6a9fe3ed0c6428a2f526ff2089530f]
+### 3. Grant of lone pensioner allowance[^c-dc6a9fe3ed0c6428a2f526ff2089530f]
 
 (1) Subject to the provisions of these Regulations, the relevant authority shall each year grant to a person who has attained the age of 70 years a rebate from the rates chargeable in respect of a dwelling-house which is occupied solely by him.
 
@@ -76,7 +76,7 @@ These Regulations may be cited as the Rate Relief (Lone Pensioner Allowance) Reg
 
 (5) Where the conditions for the grant of a rebate (other than the requirement for an application) apply for part only of a year, the amount of the rebate shall be proportionately reduced and if too large an amount has been paid or allowed by way of rebate the excess shall be recoverable summarily by the relevant authority as a debt.
 
-### 4. Administration[^key-a5dff8d512e0ab7d2a5ba2852e8bd3cc]
+### 4. Administration[^c-a5dff8d512e0ab7d2a5ba2852e8bd3cc]
 
 (1) These Regulations shall be administered by the Executive in so far as they relate to persons who are tenants of the Executive, private tenants or tenants of registered housing associations but otherwise shall be administered by the Department.
 
@@ -87,11 +87,11 @@ These Regulations may be cited as the Rate Relief (Lone Pensioner Allowance) Reg
   - (b) a tenancy the purpose of which is to confer on the tenant the right to occupy a hereditament for a holiday;
 - “registered housing association” means a housing association registered in the register maintained under Part II of the Housing (Northern Ireland) Order 1992[^f00005].
 
-### 5. Applications[^key-473e041f2b6604ff97717463de6333c5]
+### 5. Applications[^c-473e041f2b6604ff97717463de6333c5]
 
 A rebate shall be granted only if an application containing such information as the Department may reasonably require is made to a relevant authority by or on behalf of the person entitled to the rebate.
 
-### 6. Use of information[^key-9bc2dffbddd9ff8056df757de08a6736]
+### 6. Use of information[^c-9bc2dffbddd9ff8056df757de08a6736]
 
 Where information is given or evidence is gathered in relation to a claim for housing benefit or a claim under—
 
@@ -100,11 +100,11 @@ Where information is given or evidence is gathered in relation to a claim for ho
 
 that information or evidence may be used in relation to an application under regulation 5 but only where the claimant has given permission, in writing, for such information or evidence to be so used.
 
-### 7. Method of grant of rebate[^key-557afb177af7efaae4d81c5919eaf423]
+### 7. Method of grant of rebate[^c-557afb177af7efaae4d81c5919eaf423]
 
 A rebate may be granted either by making a payment of the amount of the rebate to the person who is entitled to the rebate or by reducing the amount of any payment which that person is liable to make by way of rates.
 
-### 8. Amount of rebate[^key-4e117f04c53797a5b234573ec1b82621]
+### 8. Amount of rebate[^c-4e117f04c53797a5b234573ec1b82621]
 
 (1) Subject to paragraphs (2) to (4), the amount of a rebate shall be 20 per cent. of the amount which, apart from these Regulations, would have been chargeable by way of rates in respect of the dwelling-house.
 
@@ -121,7 +121,7 @@ in respect of the same dwelling-house and period (“the rate relief rebate”),
 
 ## PART 3 — Reviews and Appeals
 
-### 9. Review by the relevant authority[^key-547142de72311afc124cf2199800c1d0]
+### 9. Review by the relevant authority[^c-547142de72311afc124cf2199800c1d0]
 
 (1) Where an application has been made under regulation 5, the relevant authority shall serve notice of its decision on the applicant.
 
@@ -129,7 +129,7 @@ in respect of the same dwelling-house and period (“the rate relief rebate”),
 
 (3) The relevant authority shall serve on that person a notice of the result of the review.
 
-### 10. Appeals to and from the Valuation Tribunal[^key-98a63ee07e4dd0bf438a1de350819276]
+### 10. Appeals to and from the Valuation Tribunal[^c-98a63ee07e4dd0bf438a1de350819276]
 
 (1) If a person on whom a notice is served under regulation 9(3) is dissatisfied with the result of the review, he may appeal to the Valuation Tribunal.
 
@@ -145,7 +145,7 @@ A senior officer of the Department of Finance and Personnel
 
 Regulation 3(3)
 
-**1.**[^key-08d97df9225e22b8fc1f969f6aeade30] (1) A person who is engaged in providing care to the person who has attained the age of 70 years in the circumstances set out in sub-paragraph (2).
+**1.**[^c-08d97df9225e22b8fc1f969f6aeade30] (1) A person who is engaged in providing care to the person who has attained the age of 70 years in the circumstances set out in sub-paragraph (2).
 
 (2) The circumstances referred to in sub-paragraph (1) are—
 
@@ -157,7 +157,7 @@ Regulation 3(3)
 (3) In this paragraph “prescribed benefit” means—
 
 - (a) a higher rate attendance allowance under section 65 of the 1992 Act;
-- (b) the highest rate of the care component of a disability living allowance under section 72(4)(a) of that Act or the daily living component of personal independence payment at the enhanced rate in accordance with Article 83(2) of the Welfare Reform (Northern Ireland) Order 2015[^key-ecb18ad5ec711d2e085fdc19c219e497] ;
+- (b) the highest rate of the care component of a disability living allowance under section 72(4)(a) of that Act or the daily living component of personal independence payment at the enhanced rate in accordance with Article 83(2) of the Welfare Reform (Northern Ireland) Order 2015[^c-ecb18ad5ec711d2e085fdc19c219e497] ;
 - (c) an increase in the rate of a disablement pension under section 104 of that Act by an amount which is the highest amount determined in accordance with paragraph (a) of regulation 17 of the Social Security (General Benefit) Regulations (Northern Ireland) 1984[^f00009] or, in a case to which paragraph (b) of that regulation applies, the amount determined in accordance with that paragraph; or
 - (d) a constant attendance allowance at the rate provided for by article 14(4) or (5) of the Personal Injuries (Civilians) Scheme 1983[^f00010] or article 8(4) or (5) or 71(4)(b) of the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006[^f00011] (including those provisions as applied, whether with or without modifications, by any other instrument).
 
@@ -166,7 +166,7 @@ Regulation 3(3)
 - (a) he is the spouse of the other or they live together as husband and wife; or
 - (b) he is the civil partner of the other or they live together as if they were civil partners.
 
-**2.**[^key-2b88a0c857583dfb988c0e46ee78ca45] (1) A person who—
+**2.**[^c-2b88a0c857583dfb988c0e46ee78ca45] (1) A person who—
 
 - (a) is receiving care from the person who has attained the age of 70 years; and
 - (b) fulfils the requirements set out in sub-paragraph (2).
@@ -180,11 +180,11 @@ Regulation 3(3)
 
 (3) Sub-paragraphs (3) and (4) of paragraph 1 shall apply for the purposes of this paragraph as they apply for the purposes of paragraph 1.
 
-**3.**[^key-a5d1ff838bf704104e218134ea176566] (1) A person who is a patient having his only or principal residence in a hospital.
+**3.**[^c-a5d1ff838bf704104e218134ea176566] (1) A person who is a patient having his only or principal residence in a hospital.
 
 (2) In this paragraph “hospital” has the same meaning as in Article 2 of the 2003 Order.
 
-**4.**[^key-d8a4cf67ca7dcfe46fa7349c91bcd249] (1) A person who—
+**4.**[^c-d8a4cf67ca7dcfe46fa7349c91bcd249] (1) A person who—
 
 - (a) has his only or principal residence in a nursing home or residential care home; and
 - (b) is receiving care or treatment (or both) in that home.
@@ -194,13 +194,13 @@ Regulation 3(3)
 - “nursing home” has the same meaning as in Article 11 of the 2003 Order; and
 - “residential care home” has the same meaning as in Article 10 of the 2003 Order.
 
-**5.**[^key-8fb14af290dfacc311de4943e5c1fb9d] (1) A person certified by a registered medical practitioner to be or to be likely to be severely mentally impaired.
+**5.**[^c-8fb14af290dfacc311de4943e5c1fb9d] (1) A person certified by a registered medical practitioner to be or to be likely to be severely mentally impaired.
 
 (2) For the purposes of this paragraph a person is severely mentally impaired if he has a severe impairment of intelligence or social functioning (however caused) which appears to be permanent.
 
-**6.**[^key-d7bf970fc072947bc62a1b59b04010e2] A person who has not attained the age of 18 years.
+**6.**[^c-d7bf970fc072947bc62a1b59b04010e2] A person who has not attained the age of 18 years.
 
-**7.**[^key-da2e58089a9c087ebd8c00c19a12ffaf] A person who has attained the age of 18 years in respect of whom another person is entitled to child benefit or would be so entitled but for paragraph 1(1)(f) of Schedule 9 to the 1992 Act.
+**7.**[^c-da2e58089a9c087ebd8c00c19a12ffaf] A person who has attained the age of 18 years in respect of whom another person is entitled to child benefit or would be so entitled but for paragraph 1(1)(f) of Schedule 9 to the 1992 Act.
 
 EXPLANATORY NOTE
 
@@ -222,9 +222,9 @@ These Regulations provide for a 20 per cent. rates rebate for a person who has a
 
 [^f00001]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 30 was inserted by Article 14 of the Rates (Amendment) (Northern Ireland) Order 2006, [S.I. 2006/2954 (N.I. 18)](https://www.legislation.gov.uk/nisi/2006/2954)
 
-[^key-2dc8c6cc1d6e39fb51108f8b20866eea]: Commencement: Reg. 1 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-2dc8c6cc1d6e39fb51108f8b20866eea]: Commencement: Reg. 1 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
-[^key-0cd3c28897ab1847fb9725a355e1c18e]: Commencement: Reg. 2 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-0cd3c28897ab1847fb9725a355e1c18e]: Commencement: Reg. 2 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
 [^f00002]: Footnote: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7)
 
@@ -232,33 +232,33 @@ These Regulations provide for a 20 per cent. rates rebate for a person who has a
 
 [^f00004]: Footnote: [1983 c.54](https://www.legislation.gov.uk/ukpga/1983/54)
 
-[^key-dc6a9fe3ed0c6428a2f526ff2089530f]: Commencement: Reg. 3 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-dc6a9fe3ed0c6428a2f526ff2089530f]: Commencement: Reg. 3 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
-[^key-a5dff8d512e0ab7d2a5ba2852e8bd3cc]: Commencement: Reg. 4 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-a5dff8d512e0ab7d2a5ba2852e8bd3cc]: Commencement: Reg. 4 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
 [^f00005]: Footnote: [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725)
 
-[^key-473e041f2b6604ff97717463de6333c5]: Commencement: Reg. 5 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-473e041f2b6604ff97717463de6333c5]: Commencement: Reg. 5 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
-[^key-9bc2dffbddd9ff8056df757de08a6736]: Commencement: Reg. 6 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-9bc2dffbddd9ff8056df757de08a6736]: Commencement: Reg. 6 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
 [^f00006]: Footnote: [S.R. 2007 No. 203](https://www.legislation.gov.uk/nisr/2007/203) as amended by [S.R. 2007 No. 244](https://www.legislation.gov.uk/nisr/2007/244) and [S.R. 2008 No. 68](https://www.legislation.gov.uk/nisr/2008/68)
 
 [^f00007]: Footnote: [S.R. 2007 No. 204](https://www.legislation.gov.uk/nisr/2007/204)
 
-[^key-557afb177af7efaae4d81c5919eaf423]: Commencement: Reg. 7 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-557afb177af7efaae4d81c5919eaf423]: Commencement: Reg. 7 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
-[^key-4e117f04c53797a5b234573ec1b82621]: Commencement: Reg. 8 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-4e117f04c53797a5b234573ec1b82621]: Commencement: Reg. 8 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
 [^f00008]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 20 was amended by Article 3(2)(b) of the Rates (Amendment) (Northern Ireland) Order 1983, [S.I. 1983/421 (N.I. 7)](https://www.legislation.gov.uk/nisi/1983/421) and by Article 35 of the Rates (Amendment) (Northern Ireland) Order 2006, [S.I. 2006/2954 (N.I. 18)](https://www.legislation.gov.uk/nisi/2006/2954); Article 21 was amended by Article 4 of the Rates (Amendment) (Northern Ireland) Order 1998, [S.I. 1998/3164 (N.I. 22)](https://www.legislation.gov.uk/nisi/1998/3164) and by [S.R. 2007 No. 2](https://www.legislation.gov.uk/nisr/2007/2); Article 30 was amended by Article 4 of the Rates (Amendment) (Northern Ireland) Order 1983 and by paragraph 13 of Schedule 2 to the Rates (Amendment) (Northern Ireland) Order 2006
 
-[^key-547142de72311afc124cf2199800c1d0]: Commencement: Reg. 9 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-547142de72311afc124cf2199800c1d0]: Commencement: Reg. 9 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
-[^key-98a63ee07e4dd0bf438a1de350819276]: Commencement: Reg. 10 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-98a63ee07e4dd0bf438a1de350819276]: Commencement: Reg. 10 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
-[^key-08d97df9225e22b8fc1f969f6aeade30]: Commencement: Sch. para. 1 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-08d97df9225e22b8fc1f969f6aeade30]: Commencement: Sch. para. 1 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
-[^key-ecb18ad5ec711d2e085fdc19c219e497]: Textual amendment: Words in [Sch. para. 1(3)(b)](https://www.legislation.gov.uk/nisr/2008/124/schedule/paragraph/1/3/b) inserted (1.4.2022) by [The Rate Relief (Lone Pensioner Allowance) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/90)](https://www.legislation.gov.uk/nisr/2022/90), [regs. 1](https://www.legislation.gov.uk/nisr/2022/90/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/90/regulation/2/2)
+[^c-ecb18ad5ec711d2e085fdc19c219e497]: Textual amendment: Words in [Sch. para. 1(3)(b)](https://www.legislation.gov.uk/nisr/2008/124/schedule/paragraph/1/3/b) inserted (1.4.2022) by [The Rate Relief (Lone Pensioner Allowance) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/90)](https://www.legislation.gov.uk/nisr/2022/90), [regs. 1](https://www.legislation.gov.uk/nisr/2022/90/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/90/regulation/2/2)
 
 [^f00009]: Footnote: [S.R. 1984 No. 92](https://www.legislation.gov.uk/nisr/1984/92)
 
@@ -266,14 +266,14 @@ These Regulations provide for a 20 per cent. rates rebate for a person who has a
 
 [^f00011]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606); relevant amending instruments are [S.I. 2006/1455](https://www.legislation.gov.uk/uksi/2006/1455) and [S.I. 2007/909](https://www.legislation.gov.uk/uksi/2007/909)
 
-[^key-2b88a0c857583dfb988c0e46ee78ca45]: Commencement: Sch. para. 2 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-2b88a0c857583dfb988c0e46ee78ca45]: Commencement: Sch. para. 2 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
-[^key-a5d1ff838bf704104e218134ea176566]: Commencement: Sch. para. 3 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-a5d1ff838bf704104e218134ea176566]: Commencement: Sch. para. 3 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
-[^key-d8a4cf67ca7dcfe46fa7349c91bcd249]: Commencement: Sch. para. 4 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-d8a4cf67ca7dcfe46fa7349c91bcd249]: Commencement: Sch. para. 4 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
-[^key-8fb14af290dfacc311de4943e5c1fb9d]: Commencement: Sch. para. 5 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-8fb14af290dfacc311de4943e5c1fb9d]: Commencement: Sch. para. 5 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
-[^key-d7bf970fc072947bc62a1b59b04010e2]: Commencement: Sch. para. 6 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-d7bf970fc072947bc62a1b59b04010e2]: Commencement: Sch. para. 6 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
 
-[^key-da2e58089a9c087ebd8c00c19a12ffaf]: Commencement: Sch. para. 7 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)
+[^c-da2e58089a9c087ebd8c00c19a12ffaf]: Commencement: Sch. para. 7 in operation at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/124/regulation/1)

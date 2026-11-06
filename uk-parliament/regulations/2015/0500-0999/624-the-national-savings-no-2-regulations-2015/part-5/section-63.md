@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Applications for payment[^key-51b8fb431f5c15dd28af918904e914b2]
+## 63. Applications for payment[^c-51b8fb431f5c15dd28af918904e914b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51b8fb431f5c15dd28af918904e914b2]: Commencement: Reg. 63 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-51b8fb431f5c15dd28af918904e914b2]: Commencement: Reg. 63 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

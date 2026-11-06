@@ -46,7 +46,7 @@ A draft of this instrument was laid before and approved by a resolution of each 
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-ab5f4b85cc5e5535f0bd345cd8b28a4e]
+### 1. Citation and commencement[^c-ab5f4b85cc5e5535f0bd345cd8b28a4e]
 
 (1) These Regulations may be cited as the Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019.
 
@@ -56,7 +56,7 @@ A draft of this instrument was laid before and approved by a resolution of each 
 
 ## PART 2 — Amendments to legislation relating to the Common Market Organisation
 
-### 2. Amendment of Regulation 1299/2007[^key-ea58fbdb3cf39c20739e66ad0852d67a]
+### 2. Amendment of Regulation 1299/2007[^c-ea58fbdb3cf39c20739e66ad0852d67a]
 
 (1) Commission Regulation [(EC) No 1299/2007](https://www.legislation.gov.uk/eur/2007/1299) on the recognition of producer groups for hops is amended as follows.
 
@@ -90,7 +90,7 @@ A draft of this instrument was laid before and approved by a resolution of each 
 
 (6) After Article 7, omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
 
-### 3. Amendment of Regulation 589/2008[^key-3a64a6e678ad96ed587865b31bf33a1e]
+### 3. Amendment of Regulation 589/2008[^c-3a64a6e678ad96ed587865b31bf33a1e]
 
 (1) Commission Regulation [(EC) No 589/2008](https://www.legislation.gov.uk/eur/2008/589) laying down detailed rules for implementing Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) as regards marketing standards for eggs is amended as follows.
 
@@ -108,7 +108,7 @@ A draft of this instrument was laid before and approved by a resolution of each 
 
 > **1.**
 >
-> Before eggs may be imported into Great Britain[^key-63c005587e847c5c1357f3c0fd4abca6] from a third country, the Secretary of State must make a determination of equivalence.
+> Before eggs may be imported into Great Britain[^c-63c005587e847c5c1357f3c0fd4abca6] from a third country, the Secretary of State must make a determination of equivalence.
 >
 > Any determination must include an evaluation of the rules on labelling and marketing, farming methods and control and an assessment of whether the requirements contained in this Regulation are effectively met by operators in the third country concerned.
 >
@@ -116,7 +116,7 @@ A draft of this instrument was laid before and approved by a resolution of each 
 
 .
 
-### 4. Amendment of Regulation 511/2012[^key-55a282cb089e76878363424c2a6c5a10]
+### 4. Amendment of Regulation 511/2012[^c-55a282cb089e76878363424c2a6c5a10]
 
 (1) Commission Implementing Regulation (EU) No 511/2012 on notifications concerning producer and interbranch organisations and contractual negotiations and relations provided for in Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) in the milk and milk products sector is amended as follows.
 
@@ -133,7 +133,7 @@ A draft of this instrument was laid before and approved by a resolution of each 
 
 (5) After Article 6, omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
 
-### 5. Amendment of Regulation 1308/2013[^key-6e3c487b7e8345d95f861904e7f0631d]
+### 5. Amendment of Regulation 1308/2013[^c-6e3c487b7e8345d95f861904e7f0631d]
 
 (1) Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products [^c23917751] is amended as follows.
 
@@ -160,12 +160,12 @@ A draft of this instrument was laid before and approved by a resolution of each 
 (5) In Article 89—
 
 - (a) in the words before point (a) —
-  - (i)[^key-1ce55592b660542ea7680c8873fec748] for the words from “the Union” to “countries” substitute “ Great Britain and certain third countries, movement between Great Britain and Northern Ireland, ”;
+  - (i)[^c-1ce55592b660542ea7680c8873fec748] for the words from “the Union” to “countries” substitute “ Great Britain and certain third countries, movement between Great Britain and Northern Ireland, ”;
   - (ii) for the words from “Commission” to “Article 227” substitute “ Secretary of State may make regulations ”;
 - (b) in point (a)—
   - (i) omit “Union”;
-  - (ii) after “standards” insert “ applicable in Great Britain[^key-7106db76fbd803baee2bc4dca929cb5a] ”;
-- (c)[^key-eb5b8dab7e1e3fddfe8d2dbf8a665bb1] in point (b), for “the Union” substitute “ Great Britain ”.
+  - (ii) after “standards” insert “ applicable in Great Britain[^c-7106db76fbd803baee2bc4dca929cb5a] ”;
+- (c)[^c-eb5b8dab7e1e3fddfe8d2dbf8a665bb1] in point (b), for “the Union” substitute “ Great Britain ”.
 
 (6) In Article 125—
 
@@ -239,7 +239,7 @@ A draft of this instrument was laid before and approved by a resolution of each 
 
 (13) In Article 202—
 
-- (a) in paragraph 1, for the words from “Commission” to “ Article 227[^key-06ec5533c5d61d18f18564ababeeff35] ” substitute “ Secretary of State may make regulations ”;
+- (a) in paragraph 1, for the words from “Commission” to “ Article 227[^c-06ec5533c5d61d18f18564ababeeff35] ” substitute “ Secretary of State may make regulations ”;
 - (b) in paragraph 2, for the words from “Commission” to “Article 227” substitute “ Secretary of State may make regulations ”;
 - (c) in paragraph 3—
   - (i) for the words from “Commission” to “Article 227” substitute “ Secretary of State may make regulations setting out ”;
@@ -273,7 +273,7 @@ A draft of this instrument was laid before and approved by a resolution of each 
 
 (17) In Annex 10, in Point 7, in point (c), for “Member State concerned” substitute “ Secretary of State ”.
 
-### 6. Amendment of Regulation 1370/2013[^key-05598c1f6df3b0ffb4b37da076731f96]
+### 6. Amendment of Regulation 1370/2013[^c-05598c1f6df3b0ffb4b37da076731f96]
 
 (1) Council Regulation (EU) No 1370/2013 determining measures on fixing certain aids and refunds related to the common organisation of the markets in agricultural products [^c23917791] is amended as follows.
 
@@ -323,7 +323,7 @@ A draft of this instrument was laid before and approved by a resolution of each 
     - (bb) for “Commission shall, by means of implementing acts, correct” substitute “ Secretary of State must make regulations correcting ”;
   - (iii) omit the third subparagraph.
 
-### 7. Amendment of Regulation 510/2014[^key-c4630f83a8a053d0877906aa18527263]
+### 7. Amendment of Regulation 510/2014[^c-c4630f83a8a053d0877906aa18527263]
 
 (1) Regulation (EU) No. 510/2014 of the European Parliament and of the Council laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products [^c23917801] is amended as follows.
 
@@ -343,7 +343,7 @@ A draft of this instrument was laid before and approved by a resolution of each 
 - (a) in the words before point (a), for the words from “Commission” to “Article 42” substitute “ Secretary of State may make regulations ”;
 - (b) in point (f), for the words from “adopted pursuant to” to “No 1308/2013” substitute—
 
-  > whether adopted pursuant to Article 202 of Regulation (EU) No 1308/2013 before IP completion day[^key-16d43dca79d8ac674f1d8763a530d340] or made under that Article after IP completion day
+  > whether adopted pursuant to Article 202 of Regulation (EU) No 1308/2013 before IP completion day[^c-16d43dca79d8ac674f1d8763a530d340] or made under that Article after IP completion day
 
   .
 
@@ -352,7 +352,7 @@ A draft of this instrument was laid before and approved by a resolution of each 
 - (a) in the words before point (a) for “Commission shall, where necessary, adopt implementing acts” substitute “ Secretary of State may make regulations ”;
 - (b) in point (i), for the words from “adopted pursuant to” to “No 1308/2013” substitute—
 
-  > , whether adopted pursuant to Article 203 of Regulation (EU) No 1308/2013 before IP completion day[^key-86abec189876f943304e51a12e2fec95] or made under that Article after IP completion day,
+  > , whether adopted pursuant to Article 203 of Regulation (EU) No 1308/2013 before IP completion day[^c-86abec189876f943304e51a12e2fec95] or made under that Article after IP completion day,
 
   .
 - (c) omit the last sentence.
@@ -462,7 +462,7 @@ A draft of this instrument was laid before and approved by a resolution of each 
 
 .
 
-### 8. Amendment of Regulation 2016/232[^key-2b6f17f1b1450cbba0f8ae7e7d2c28e8]
+### 8. Amendment of Regulation 2016/232[^c-2b6f17f1b1450cbba0f8ae7e7d2c28e8]
 
 (1) Commission Delegated Regulation (EU) No 2016/232 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to certain aspects of producer cooperation is amended as follows.
 
@@ -478,13 +478,13 @@ A draft of this instrument was laid before and approved by a resolution of each 
 
 (5) After Article 7 omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
 
-### 9. Amendment of S.I. 2019/821[^key-6f74346115c4e671da4f88c2118e62b9]
+### 9. Amendment of S.I. 2019/821[^c-6f74346115c4e671da4f88c2118e62b9]
 
 In regulation 84 of the Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc) (EU Exit) Regulations 2019 [^c23917821], omit sub-paragraph (a).
 
 ## PART 3 — Financing, Management and Monitoring Amendments
 
-### 10. Amendment of Regulation 1306/2013[^key-6bd16119fc4dc1fa741600698a241d16]
+### 10. Amendment of Regulation 1306/2013[^c-6bd16119fc4dc1fa741600698a241d16]
 
 In Article 62(1) of Regulation (EU) No 1306/2013 of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy [^c23917831], for the words from “which” to “laying down” substitute “ , the Secretary of State may make regulations setting out ”.
 
@@ -508,17 +508,17 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23917741]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-ab5f4b85cc5e5535f0bd345cd8b28a4e]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-ab5f4b85cc5e5535f0bd345cd8b28a4e]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-ea58fbdb3cf39c20739e66ad0852d67a]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-ea58fbdb3cf39c20739e66ad0852d67a]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-3a64a6e678ad96ed587865b31bf33a1e]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-3a64a6e678ad96ed587865b31bf33a1e]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-63c005587e847c5c1357f3c0fd4abca6]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/3/3) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [7(2)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/7/2)
+[^c-63c005587e847c5c1357f3c0fd4abca6]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/3/3) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [7(2)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/7/2)
 
-[^key-55a282cb089e76878363424c2a6c5a10]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-55a282cb089e76878363424c2a6c5a10]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-6e3c487b7e8345d95f861904e7f0631d]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-6e3c487b7e8345d95f861904e7f0631d]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23917751]: Marginal citation: Other amendments to Regulation (EU) No 1308/2013 are made by [S.I. 2019/821](https://www.legislation.gov.uk/uksi/2019/821), 828 and 831. Articles 227 and 228, as substituted by [S.I. 2019/831](https://www.legislation.gov.uk/uksi/2019/831), make provision about regulations made by the Secretary of State.
 
@@ -528,34 +528,34 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23917781]: Marginal citation: [1998 c.47](https://www.legislation.gov.uk/ukpga/1998/47); section 6 was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). It is prospectively amended by section 12(3) of the European Union (Withdrawal) Act 2018 from a date to be appointed.
 
-[^key-1ce55592b660542ea7680c8873fec748]: Textual amendment: [Reg. 5(5)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/5/a/i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [7(3)(a)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/7/3/a)
+[^c-1ce55592b660542ea7680c8873fec748]: Textual amendment: [Reg. 5(5)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/5/a/i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [7(3)(a)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/7/3/a)
 
-[^key-7106db76fbd803baee2bc4dca929cb5a]: Textual amendment: Words in [reg. 5(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/5/b/ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/7/3/b)
+[^c-7106db76fbd803baee2bc4dca929cb5a]: Textual amendment: Words in [reg. 5(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/5/b/ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/7/3/b)
 
-[^key-eb5b8dab7e1e3fddfe8d2dbf8a665bb1]: Textual amendment: [Reg. 5(5)(c)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/5/c) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [7(3)(c)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/7/3/c)
+[^c-eb5b8dab7e1e3fddfe8d2dbf8a665bb1]: Textual amendment: [Reg. 5(5)(c)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/5/c) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [7(3)(c)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/7/3/c)
 
-[^key-06ec5533c5d61d18f18564ababeeff35]: Textual amendment: Words in [reg. 5(13)(a)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/13/a) substituted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [17](https://www.legislation.gov.uk/uksi/2020/1445/regulation/17)
+[^c-06ec5533c5d61d18f18564ababeeff35]: Textual amendment: Words in [reg. 5(13)(a)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/13/a) substituted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [17](https://www.legislation.gov.uk/uksi/2020/1445/regulation/17)
 
-[^key-05598c1f6df3b0ffb4b37da076731f96]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-05598c1f6df3b0ffb4b37da076731f96]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23917791]: Marginal citation: Regulation (EU) No 1370/2013 is also amended by [S.I. 2019/821](https://www.legislation.gov.uk/uksi/2019/821) and 831. Article 15, as substituted by [S.I. 2019/831](https://www.legislation.gov.uk/uksi/2019/831), makes provision about regulations made by the Secretary of State.
 
-[^key-c4630f83a8a053d0877906aa18527263]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-c4630f83a8a053d0877906aa18527263]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23917801]: Marginal citation: Regulation (EU) No 510/2014 is also amended by [S.I. 2019/828](https://www.legislation.gov.uk/uksi/2019/828).
 
-[^key-16d43dca79d8ac674f1d8763a530d340]: Textual amendment: Words in reg. 7(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [7(4)(a)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/7/4/a)
+[^c-16d43dca79d8ac674f1d8763a530d340]: Textual amendment: Words in reg. 7(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [7(4)(a)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/7/4/a)
 
-[^key-86abec189876f943304e51a12e2fec95]: Textual amendment: Words in [reg. 7(5)(b)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/7/5/b) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [7(4)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/7/4/b)
+[^c-86abec189876f943304e51a12e2fec95]: Textual amendment: Words in [reg. 7(5)(b)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/7/5/b) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [7(4)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/7/4/b)
 
 [^c23917811]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-2b6f17f1b1450cbba0f8ae7e7d2c28e8]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-2b6f17f1b1450cbba0f8ae7e7d2c28e8]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-6f74346115c4e671da4f88c2118e62b9]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-6f74346115c4e671da4f88c2118e62b9]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23917821]: Marginal citation: [S.I. 2019/821](https://www.legislation.gov.uk/uksi/2019/821).
 
-[^key-6bd16119fc4dc1fa741600698a241d16]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-6bd16119fc4dc1fa741600698a241d16]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23917831]: Marginal citation: Regulation (EU) No 1306/2013 is also amended by [S.I. 2019/748](https://www.legislation.gov.uk/uksi/2019/748). Articles 115 and 115A, as substituted by [S.I. 2019/748](https://www.legislation.gov.uk/uksi/2019/748), make provision about regulations made by the Secretary of State.

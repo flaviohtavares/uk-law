@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1)[^key-53b58fb5a24445f97e8d5c2d299b99dc] Subject to the provisions of this Act, where property is vested in the official custodian in trust for a charity, the official custodian shall not exercise any powers of management, but regulations made by the Department may provide that the official custodian shall as trustee of any property—
+(1)[^c-53b58fb5a24445f97e8d5c2d299b99dc] Subject to the provisions of this Act, where property is vested in the official custodian in trust for a charity, the official custodian shall not exercise any powers of management, but regulations made by the Department may provide that the official custodian shall as trustee of any property—
 
 - (a) have such powers, duties and liabilities, and be entitled to such rights and immunities, as may be prescribed by the regulations, and
 - (b) be subject to the control and orders of the Court as the regulations may provide.
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53b58fb5a24445f97e8d5c2d299b99dc]: Textual amendment: [S. 42(1)](https://www.legislation.gov.uk/nia/2008/12/section/42/1) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/11)
+[^c-53b58fb5a24445f97e8d5c2d299b99dc]: Textual amendment: [S. 42(1)](https://www.legislation.gov.uk/nia/2008/12/section/42/1) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Licensed hours: off-sales[^key-5cbaf42df1e6e1c200f483a3585bd1a1]
+## 65. Licensed hours: off-sales[^c-5cbaf42df1e6e1c200f483a3585bd1a1]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ on any day, the Board must refuse the application.
 
 ## Annotations
 
-[^key-5cbaf42df1e6e1c200f483a3585bd1a1]: Commencement: S. 65 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-5cbaf42df1e6e1c200f483a3585bd1a1]: Commencement: S. 65 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

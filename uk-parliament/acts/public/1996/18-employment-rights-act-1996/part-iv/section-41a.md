@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41A. Notice of objection by shop workers to working additional hours on Sunday[^key-cb6131f04ebe6a424ec4738639fb331b]
+## 41A. Notice of objection by shop workers to working additional hours on Sunday[^c-cb6131f04ebe6a424ec4738639fb331b]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb6131f04ebe6a424ec4738639fb331b]: Textual amendment: Ss. 41A-41D inserted (4.5.2016 for specified purposes) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(1)(d)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/d), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2016/12/schedule/5/paragraph/3)
+[^c-cb6131f04ebe6a424ec4738639fb331b]: Textual amendment: Ss. 41A-41D inserted (4.5.2016 for specified purposes) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(1)(d)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/d), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2016/12/schedule/5/paragraph/3)

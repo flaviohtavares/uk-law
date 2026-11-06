@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-cc91393510e06d590084dbb775aa5ee8] The functions and jurisdiction of the sheriff in relation to actions arising from the following tenancies and occupancy agreements are transferred to the First-tier Tribunal—
+(1)[^c-cc91393510e06d590084dbb775aa5ee8] The functions and jurisdiction of the sheriff in relation to actions arising from the following tenancies and occupancy agreements are transferred to the First-tier Tribunal—
 
 - (a) a regulated tenancy (within the meaning of section 8 of the Rent (Scotland) Act 1984 (c.58)),
 - (b) a Part VII contract (within the meaning of section 63 of that Act),
@@ -28,10 +28,10 @@ summary: ''
 
 (2) But that does not include any function or jurisdiction relating to the prosecution of, or the imposition of a penalty for, a criminal offence.
 
-(3)[^key-b782280d4e490804a22feb816fb31789] Part 1 of schedule 1 makes minor and consequential amendments.
+(3)[^c-b782280d4e490804a22feb816fb31789] Part 1 of schedule 1 makes minor and consequential amendments.
 
 ## Annotations
 
-[^key-cc91393510e06d590084dbb775aa5ee8]: Commencement: S. 16(1)(2) in force at 1.12.2017 by [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/330/article/4))
+[^c-cc91393510e06d590084dbb775aa5ee8]: Commencement: S. 16(1)(2) in force at 1.12.2017 by [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/330/article/4))
 
-[^key-b782280d4e490804a22feb816fb31789]: Commencement: S. 16(3) in force at 1.12.2017 for specified purposes by [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-b782280d4e490804a22feb816fb31789]: Commencement: S. 16(3) in force at 1.12.2017 for specified purposes by [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)

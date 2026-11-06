@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Amendment of Commission Implementing Regulation (EU) 2016/6[^key-c27e8d3216ee79ae96bc408824ec0f11]
+## 19. Amendment of Commission Implementing Regulation (EU) 2016/6[^c-c27e8d3216ee79ae96bc408824ec0f11]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c27e8d3216ee79ae96bc408824ec0f11]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-c27e8d3216ee79ae96bc408824ec0f11]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)

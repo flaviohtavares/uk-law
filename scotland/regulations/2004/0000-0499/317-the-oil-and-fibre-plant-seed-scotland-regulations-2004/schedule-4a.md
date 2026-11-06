@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4A — STANDARDS FOR CERTIFICATION OF CONSERVATION VARIETIES[^key-645c7fb05798b12a415cf2e12e92660e]
+## SCHEDULE 4A — STANDARDS FOR CERTIFICATION OF CONSERVATION VARIETIES[^c-645c7fb05798b12a415cf2e12e92660e]
 
 *Extent: S*
 
@@ -61,7 +61,7 @@ The following particulars shall be specified in an official certificate–
 
 #### 1. Varietal identity and varietal purity
 
-The characteristics used for determination of varietal identity and varietal purity shall be those to which regard was had when the Conservation Variety was accepted on to the relevant GB Variety List or NI Variety List[^key-e73b7582653a7ef93804e7524a45d7c3].
+The characteristics used for determination of varietal identity and varietal purity shall be those to which regard was had when the Conservation Variety was accepted on to the relevant GB Variety List or NI Variety List[^c-e73b7582653a7ef93804e7524a45d7c3].
 
 #### 2. Harmful organisms in the crop
 
@@ -71,7 +71,7 @@ Harmful organisms which reduce the usefulness of the seed shall be at the lowest
 
 #### 1. Standards of germination, analytical purity and content of seed of other plant species
 
-The seed shall conform to the minimum [^key-3bee5d25635dcd9a54cda4449693908a]... standards for the final germination of that species as listed in paragraphs 13 and 14 of Part II of Schedule 4 as regards germination of pure seed, analytical purity and content of seed of other plant species.
+The seed shall conform to the minimum [^c-3bee5d25635dcd9a54cda4449693908a]... standards for the final germination of that species as listed in paragraphs 13 and 14 of Part II of Schedule 4 as regards germination of pure seed, analytical purity and content of seed of other plant species.
 
 #### 2. Harmful organisms in the seed
 
@@ -87,10 +87,10 @@ All examinations used to ascertain whether crops or seed lots meet the standards
 
 ## Annotations
 
-[^key-645c7fb05798b12a415cf2e12e92660e]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/ssi/2004/317/schedule/4A) inserted (30.6.2009) by [The Seed (Scotland) (Amendments for Conservation Varieties) Regulations 2009 (S.S.I. 2009/223)](https://www.legislation.gov.uk/ssi/2009/223), [regs. 1](https://www.legislation.gov.uk/ssi/2009/223/regulation/1), [20](https://www.legislation.gov.uk/ssi/2009/223/regulation/20), [sch. 2](https://www.legislation.gov.uk/ssi/2009/223/schedule/2)
+[^c-645c7fb05798b12a415cf2e12e92660e]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/ssi/2004/317/schedule/4A) inserted (30.6.2009) by [The Seed (Scotland) (Amendments for Conservation Varieties) Regulations 2009 (S.S.I. 2009/223)](https://www.legislation.gov.uk/ssi/2009/223), [regs. 1](https://www.legislation.gov.uk/ssi/2009/223/regulation/1), [20](https://www.legislation.gov.uk/ssi/2009/223/regulation/20), [sch. 2](https://www.legislation.gov.uk/ssi/2009/223/schedule/2)
 
 [^M_F_97442a53-3e09-4aa9-e7e5-6a8a67e71725]: Textual amendment: Words in Sch. 4A Pt. 2 substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 1(5)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/1/5)
 
-[^key-e73b7582653a7ef93804e7524a45d7c3]: Textual amendment: Words in [sch. 4A Pt. 3 para. 1](https://www.legislation.gov.uk/ssi/2004/317/schedule/4A/part/3/paragraph/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(24)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/24/a) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(21)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/21))
+[^c-e73b7582653a7ef93804e7524a45d7c3]: Textual amendment: Words in [sch. 4A Pt. 3 para. 1](https://www.legislation.gov.uk/ssi/2004/317/schedule/4A/part/3/paragraph/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(24)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/24/a) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(21)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/21))
 
-[^key-3bee5d25635dcd9a54cda4449693908a]: Textual amendment: Word in sch. 4A Pt. 4 para. 1 omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [12(24)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/24/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3bee5d25635dcd9a54cda4449693908a]: Textual amendment: Word in sch. 4A Pt. 4 para. 1 omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [12(24)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/24/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

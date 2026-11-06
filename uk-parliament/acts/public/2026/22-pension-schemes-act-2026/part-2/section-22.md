@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Small pots regulations[^key-5d684ed0634a8994b54d992296af8c73]
+## 22. Small pots regulations[^c-5d684ed0634a8994b54d992296af8c73]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d684ed0634a8994b54d992296af8c73]: Commencement: S. 22 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-5d684ed0634a8994b54d992296af8c73]: Commencement: S. 22 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

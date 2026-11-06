@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Interpretation of this Chapter[^key-7210db8d6a6fa2be190dae94bdbabc42][^key-46224aeb3bab322b137b505ac2977967]
+## 186. Interpretation of this Chapter[^c-7210db8d6a6fa2be190dae94bdbabc42][^c-46224aeb3bab322b137b505ac2977967]
 
 *Extent: E+W+S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7210db8d6a6fa2be190dae94bdbabc42]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2009/23/section/186) in force at 1.10.2010 for specified purposes by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(k)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/k)
+[^c-7210db8d6a6fa2be190dae94bdbabc42]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2009/23/section/186) in force at 1.10.2010 for specified purposes by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(k)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/k)
 
-[^key-46224aeb3bab322b137b505ac2977967]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2009/23/section/186) in force at 1.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/m)
+[^c-46224aeb3bab322b137b505ac2977967]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2009/23/section/186) in force at 1.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/m)

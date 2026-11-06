@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Emergency response plan requirement[^key-8168075877a38551d7ee1ff6748480f2]
+## 104. Emergency response plan requirement[^c-8168075877a38551d7ee1ff6748480f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8168075877a38551d7ee1ff6748480f2]: Commencement: Reg. 104 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-8168075877a38551d7ee1ff6748480f2]: Commencement: Reg. 104 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Applications to the tribunal[^key-b97c37fcd98dac818149dc37af8f4e99][^key-64654e6a4fd69aefef0d0d2a3ec1986d]
+## 82. Applications to the tribunal[^c-b97c37fcd98dac818149dc37af8f4e99][^c-64654e6a4fd69aefef0d0d2a3ec1986d]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b97c37fcd98dac818149dc37af8f4e99]: Modification: Art. 82 applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(5)(f)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/5/f), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-b97c37fcd98dac818149dc37af8f4e99]: Modification: Art. 82 applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(5)(f)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/5/f), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-64654e6a4fd69aefef0d0d2a3ec1986d]: Textual amendment: [Art. 82](https://www.legislation.gov.uk/nisi/1986/595/article/82) substituted (2.12.2019) by [Mental Capacity Act (Northern Ireland) 2016 (c. 18)](https://www.legislation.gov.uk/nia/2016/18), [s. 307(2)](https://www.legislation.gov.uk/nia/2016/18/section/307/2), [Sch. 8 para. 47](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/47) (with [ss. 285-287](https://www.legislation.gov.uk/nia/2016/18/section/285)); [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
+[^c-64654e6a4fd69aefef0d0d2a3ec1986d]: Textual amendment: [Art. 82](https://www.legislation.gov.uk/nisi/1986/595/article/82) substituted (2.12.2019) by [Mental Capacity Act (Northern Ireland) 2016 (c. 18)](https://www.legislation.gov.uk/nia/2016/18), [s. 307(2)](https://www.legislation.gov.uk/nia/2016/18/section/307/2), [Sch. 8 para. 47](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/47) (with [ss. 285-287](https://www.legislation.gov.uk/nia/2016/18/section/285)); [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)

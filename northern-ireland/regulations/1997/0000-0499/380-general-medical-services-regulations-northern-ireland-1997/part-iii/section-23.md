@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Limitation on number of persons on doctors' lists[^key-13a6284cbe7ffa7cca1cb395a34a2887]
+## 23. Limitation on number of persons on doctors' lists[^c-13a6284cbe7ffa7cca1cb395a34a2887]
 
 *Extent: N.I.*
 
@@ -96,4 +96,4 @@ the Agency may, on the doctor’s undertaking not to accept for inclusion in his
 
 ## Annotations
 
-[^key-13a6284cbe7ffa7cca1cb395a34a2887]: Commencement: Reg. 23 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-13a6284cbe7ffa7cca1cb395a34a2887]: Commencement: Reg. 23 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

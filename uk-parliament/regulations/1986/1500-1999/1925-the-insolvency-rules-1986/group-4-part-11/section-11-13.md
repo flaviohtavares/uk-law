@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.13. Debt payable at future time[^key-203fe31a702f9f9f0e1b066154f5b25d]
+## 11.13. Debt payable at future time[^c-203fe31a702f9f9f0e1b066154f5b25d]
 
 *Extent: E+W*
 
 (1) Where a creditor has proved for a debt of which payment is not due at the date of the declaration of dividend, he is entitled to dividend equally with other creditors, but subject as follows.
 
-(2)[^key-61104190dce03dc973d00b21e4963e04] For the purpose of dividend (and no other purpose) the amount of the creditor’s admitted proof (or, if a distribution has previously been made to him, the amount remaining outstanding in respect of his admitted proof) shall be reduced by applying the following formula—
+(2)[^c-61104190dce03dc973d00b21e4963e04] For the purpose of dividend (and no other purpose) the amount of the creditor’s admitted proof (or, if a distribution has previously been made to him, the amount remaining outstanding in respect of his admitted proof) shall be reduced by applying the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/1986/1925)
 
@@ -42,12 +42,12 @@ b
 - (b) in the case of a winding up which was immediately preceded by an administration, the date that the company entered administration; and
 - (c) in the case of a bankruptcy, the date of the bankruptcy order.
 
-(3)[^key-95a9a432a446959c0a7c26f32f4487e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-95a9a432a446959c0a7c26f32f4487e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-203fe31a702f9f9f0e1b066154f5b25d]: Commencement: [Rule 11.13](https://www.legislation.gov.uk/uksi/1986/1925/rule/11.13) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-203fe31a702f9f9f0e1b066154f5b25d]: Commencement: [Rule 11.13](https://www.legislation.gov.uk/uksi/1986/1925/rule/11.13) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-61104190dce03dc973d00b21e4963e04]: Textual amendment: [Rule 11.13(2)](https://www.legislation.gov.uk/uksi/1986/1925/article/11.13/2) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rule 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [43(1)](https://www.legislation.gov.uk/uksi/2005/527/rule/43/1) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))
+[^c-61104190dce03dc973d00b21e4963e04]: Textual amendment: [Rule 11.13(2)](https://www.legislation.gov.uk/uksi/1986/1925/article/11.13/2) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rule 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [43(1)](https://www.legislation.gov.uk/uksi/2005/527/rule/43/1) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))
 
-[^key-95a9a432a446959c0a7c26f32f4487e4]: Textual amendment: [Rule 11](https://www.legislation.gov.uk/uksi/1986/1925/rule/11).13(3) omitted (1.4.2005) by virtue of [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/rule/1/2), [43(2)](https://www.legislation.gov.uk/uksi/2005/527/rule/43/2) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/rule/3/1))
+[^c-95a9a432a446959c0a7c26f32f4487e4]: Textual amendment: [Rule 11](https://www.legislation.gov.uk/uksi/1986/1925/rule/11).13(3) omitted (1.4.2005) by virtue of [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/rule/1/2), [43(2)](https://www.legislation.gov.uk/uksi/2005/527/rule/43/2) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/rule/3/1))

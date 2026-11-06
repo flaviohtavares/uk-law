@@ -27,7 +27,7 @@ summary: ''
 
 1973 No. 69 (NI 1)
 
-Drainage (Northern Ireland) Order 1973[^key-b0bc688f9102d69c865887e7b4e06334]
+Drainage (Northern Ireland) Order 1973[^c-b0bc688f9102d69c865887e7b4e06334]
 
 \[19th January 1973\]
 
@@ -140,4 +140,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-b0bc688f9102d69c865887e7b4e06334]: Modification: [Order](https://www.legislation.gov.uk/nisi/1973/69): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-b0bc688f9102d69c865887e7b4e06334]: Modification: [Order](https://www.legislation.gov.uk/nisi/1973/69): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

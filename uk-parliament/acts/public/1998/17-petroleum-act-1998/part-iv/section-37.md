@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Default in carrying out programmes.[^c12434191][^key-28bc5944108b762883855a3bd6b5024f]
+## 37. Default in carrying out programmes.[^c12434191][^c-28bc5944108b762883855a3bd6b5024f]
 
 *Extent: E+W+S+N.I.*
 
 (1) If an abandonment programme approved by the Secretary of State is not carried out or a condition to which the approval is subject is not complied with, the Secretary of State may by written notice require any of the persons who submitted the programme to take such remedial action as may be specified in the notice within such time as may be so specified.
 
-(1A)[^key-86e6e79c56abbcbcc8370b849ec819ed] If it appears to the Secretary of State that the proposed remedial action is likely to have an effect on the cost of carrying out the programme, the Secretary of State must—
+(1A)[^c-86e6e79c56abbcbcc8370b849ec819ed] If it appears to the Secretary of State that the proposed remedial action is likely to have an effect on the cost of carrying out the programme, the Secretary of State must—
 
 - (a) consult the OGA before giving a notice under subsection (1), and
 - (b) take that effect into account when deciding whether to give the notice.
@@ -43,6 +43,6 @@ summary: ''
 
     S. 37(1) modified (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750) arts. 1(1), 4, Sch. 3
 
-[^key-28bc5944108b762883855a3bd6b5024f]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/1998/17/part/4) applied (with modifications) (26.12.2023) by [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32), [s. 30(1AA)(1AB)](https://www.legislation.gov.uk/ukpga/2008/32/section/30/1AA/1AB) (as inserted by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 95(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/95/3), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b))
+[^c-28bc5944108b762883855a3bd6b5024f]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/1998/17/part/4) applied (with modifications) (26.12.2023) by [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32), [s. 30(1AA)(1AB)](https://www.legislation.gov.uk/ukpga/2008/32/section/30/1AA/1AB) (as inserted by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 95(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/95/3), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b))
 
-[^key-86e6e79c56abbcbcc8370b849ec819ed]: Textual amendment: [S. 37(1A)](https://www.legislation.gov.uk/ukpga/1998/17/section/37/1A)[(1B)](https://www.legislation.gov.uk/ukpga/1998/17/section/37/1B) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/9); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-86e6e79c56abbcbcc8370b849ec819ed]: Textual amendment: [S. 37(1A)](https://www.legislation.gov.uk/ukpga/1998/17/section/37/1A)[(1B)](https://www.legislation.gov.uk/ukpga/1998/17/section/37/1B) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/9); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)

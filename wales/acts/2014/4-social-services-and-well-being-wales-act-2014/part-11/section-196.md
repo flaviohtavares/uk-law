@@ -36,11 +36,11 @@ summary: ''
 
 (6) A statutory instrument containing the following regulations or orders (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales—
 
-- (a) regulations under section 3(6), 16(3), 18(3), 32, 37(1), 40(1), 42(1), 119, 127(9), 135(4), 149B(5), 149C(1),[^key-7b9819a3352ff484413b2f4c24198165] 166, 167(3), 168 or 181;
+- (a) regulations under section 3(6), 16(3), 18(3), 32, 37(1), 40(1), 42(1), 119, 127(9), 135(4), 149B(5), 149C(1),[^c-7b9819a3352ff484413b2f4c24198165] 166, 167(3), 168 or 181;
 - (b) an order under section 140 or 143(2);
 - (c) regulations under section 198 which amend or repeal any provision of an Act of Parliament or a Measure or Act of the National Assembly for Wales;
-- (ca)[^key-e7acc2f0658e63bd72504ae2c1edebdc] the first regulations made under section 83(2B);
-- (d)[^key-0619e2ea45023fc21f771777b9dd55f9] the first regulations made under section 144A(2)(b);
+- (ca)[^c-e7acc2f0658e63bd72504ae2c1edebdc] the first regulations made under section 83(2B);
+- (d)[^c-0619e2ea45023fc21f771777b9dd55f9] the first regulations made under section 144A(2)(b);
 
 (see sections 33 and 141 for further requirements in relation to the making of regulations under section 32 and orders under section 140).
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7b9819a3352ff484413b2f4c24198165]: Textual amendment: Words in s. 196(6)(a) inserted (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [ss. 57(3)](https://www.legislation.gov.uk/anaw/2016/2/section/57/3), [188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(c)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/c)
+[^c-7b9819a3352ff484413b2f4c24198165]: Textual amendment: Words in s. 196(6)(a) inserted (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [ss. 57(3)](https://www.legislation.gov.uk/anaw/2016/2/section/57/3), [188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(c)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/c)
 
-[^key-e7acc2f0658e63bd72504ae2c1edebdc]: Textual amendment: S. 196(6)(ca) inserted (22.6.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 24(4)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/24/4); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 7A](https://www.legislation.gov.uk/wsi/2021/373/article/7A) (as amended by [S.I. 2021/735](https://www.legislation.gov.uk/uksi/2021/735), [art. 2(4)](https://www.legislation.gov.uk/uksi/2021/735/article/2/4))
+[^c-e7acc2f0658e63bd72504ae2c1edebdc]: Textual amendment: S. 196(6)(ca) inserted (22.6.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 24(4)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/24/4); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 7A](https://www.legislation.gov.uk/wsi/2021/373/article/7A) (as amended by [S.I. 2021/735](https://www.legislation.gov.uk/uksi/2021/735), [art. 2(4)](https://www.legislation.gov.uk/uksi/2021/735/article/2/4))
 
-[^key-0619e2ea45023fc21f771777b9dd55f9]: Textual amendment: S. 196(6)(d) inserted (4.9.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [ss. 56(2)](https://www.legislation.gov.uk/anaw/2016/2/section/56/2), [188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1); [S.I. 2017/846](https://www.legislation.gov.uk/wsi/2017/846), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/846/article/2/b)
+[^c-0619e2ea45023fc21f771777b9dd55f9]: Textual amendment: S. 196(6)(d) inserted (4.9.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [ss. 56(2)](https://www.legislation.gov.uk/anaw/2016/2/section/56/2), [188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1); [S.I. 2017/846](https://www.legislation.gov.uk/wsi/2017/846), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/846/article/2/b)

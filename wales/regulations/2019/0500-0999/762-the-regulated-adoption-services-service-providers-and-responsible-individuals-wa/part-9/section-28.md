@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Overarching requirement[^key-062e2aa8aa1e2f4c8483cf12ed6401fc]
+## 28. Overarching requirement[^c-062e2aa8aa1e2f4c8483cf12ed6401fc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must ensure that the premises are suitable for the service,
 
 ## Annotations
 
-[^key-062e2aa8aa1e2f4c8483cf12ed6401fc]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2019/762/regulation/28) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-062e2aa8aa1e2f4c8483cf12ed6401fc]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2019/762/regulation/28) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

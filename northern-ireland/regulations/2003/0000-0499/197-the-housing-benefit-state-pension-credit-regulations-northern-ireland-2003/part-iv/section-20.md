@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Transitional provision[^key-276bf1059f1f81bc2370ade36276f660]
+## 20. Transitional provision[^c-276bf1059f1f81bc2370ade36276f660]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ whichever is the later, if the relevant authority is satisfied that, on that day
 
 ## Annotations
 
-[^key-276bf1059f1f81bc2370ade36276f660]: Commencement: Reg. 20 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-276bf1059f1f81bc2370ade36276f660]: Commencement: Reg. 20 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)

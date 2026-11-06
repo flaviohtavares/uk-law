@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 41. Covenants[^key-dfe37a3516d1bad8f552775bf22a8299]
+## 41. Covenants[^c-dfe37a3516d1bad8f552775bf22a8299]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfe37a3516d1bad8f552775bf22a8299]: Commencement: [S. 41](https://www.legislation.gov.uk/ukcm/2018/8/section/41) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-dfe37a3516d1bad8f552775bf22a8299]: Commencement: [S. 41](https://www.legislation.gov.uk/ukcm/2018/8/section/41) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

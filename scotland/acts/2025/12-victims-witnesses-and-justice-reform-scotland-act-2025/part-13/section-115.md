@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Modification of enactments[^key-f36206ea011d109f711eee97f5ef7e37]
+## 115. Modification of enactments[^c-f36206ea011d109f711eee97f5ef7e37]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ Schedule 5 makes further modifications of enactments in consequence of this Act.
 
 ## Annotations
 
-[^key-f36206ea011d109f711eee97f5ef7e37]: Commencement: S. 115 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-f36206ea011d109f711eee97f5ef7e37]: Commencement: S. 115 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

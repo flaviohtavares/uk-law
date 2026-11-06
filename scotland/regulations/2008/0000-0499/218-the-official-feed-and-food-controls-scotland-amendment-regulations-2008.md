@@ -50,11 +50,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-5504c42a215c30e818a2cf6ecffa2019]
+## 1. Citation and commencement[^c-5504c42a215c30e818a2cf6ecffa2019]
 
 These Regulations may be cited as the Official Feed and Food Controls (Scotland) Amendment Regulations 2008, and come into force on 1st July 2008.
 
-## 2. Amendment of the Official Feed and Food Controls (Scotland) Regulations 2007[^key-72bd56e40909e7a5e7b916fea254b1e4]
+## 2. Amendment of the Official Feed and Food Controls (Scotland) Regulations 2007[^c-72bd56e40909e7a5e7b916fea254b1e4]
 
 (1) The Official Feed and Food Controls (Scotland) Regulations 2007[^f00002] are amended in accordance with paragraph (2).
 
@@ -90,9 +90,9 @@ No regulatory impact assessment has been prepared in relation to these Regulatio
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The functions conferred on the Minister of the Crown under section 2(2) of the 1972 Act, in so far as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). In so far as not so transferred, and in so far as relating to food (including drink) including the primary production of food, that function was transferred to the Scottish Ministers by the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. [2005/849](https://www.legislation.gov.uk/uksi/2005/849)) and in so far as relating to certain animal feeding stuffs and feed additives for use in animal nutrition, that function was transferred by the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2006 (S.I. [2006/304](https://www.legislation.gov.uk/uksi/2006/304)). Section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-5504c42a215c30e818a2cf6ecffa2019]: Commencement: Reg. 1 in force at 1.7.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/218/regulation/1)
+[^c-5504c42a215c30e818a2cf6ecffa2019]: Commencement: Reg. 1 in force at 1.7.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/218/regulation/1)
 
-[^key-72bd56e40909e7a5e7b916fea254b1e4]: Commencement: Reg. 2 in force at 1.7.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/218/regulation/1)
+[^c-72bd56e40909e7a5e7b916fea254b1e4]: Commencement: Reg. 2 in force at 1.7.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/218/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2007/522](https://www.legislation.gov.uk/ssi/2007/522).
 

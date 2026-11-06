@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Admission for assessment[^key-240c77428bc1a23d8dc946f055199c32][^key-a9d633f8a20240365f89c73d0144b41f][^key-42056f7475fc7e2edadb439c11c20616]
+## 4. Admission for assessment[^c-240c77428bc1a23d8dc946f055199c32][^c-a9d633f8a20240365f89c73d0144b41f][^c-42056f7475fc7e2edadb439c11c20616]
 
 *Extent: N.I.*
 
@@ -40,10 +40,10 @@ summary: ''
 
 ## Annotations
 
-[^key-240c77428bc1a23d8dc946f055199c32]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1986/595/article/4) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/a), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-240c77428bc1a23d8dc946f055199c32]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1986/595/article/4) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/a), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
-[^key-a9d633f8a20240365f89c73d0144b41f]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1986/595/article/4) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/a), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-a9d633f8a20240365f89c73d0144b41f]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1986/595/article/4) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/a), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
 [^c17121871]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/1994/ni2)

@@ -29,7 +29,7 @@ Finance Act 1908
 
 1908 c.16
 
-An Act to grant certain duties of Customs and Inland Revenue, to alter other duties, and to amend the Law relating to Customs and Inland Revenue and the National Debt, and to make other provisions for the financial arrangements of the year. *(Extent: E+W)* *(affected by repeal, see note)*[^key-c1a54b23d7bcbce0362e5981682e9adc]
+An Act to grant certain duties of Customs and Inland Revenue, to alter other duties, and to amend the Law relating to Customs and Inland Revenue and the National Debt, and to make other provisions for the financial arrangements of the year. *(Extent: E+W)* *(affected by repeal, see note)*[^c-c1a54b23d7bcbce0362e5981682e9adc]
 
 \[1st August 1908\][^c579032][^c579033][^c579034][^c579035]
 
@@ -89,7 +89,7 @@ Subsections (3) (4) and (5) of section twenty of the [^c579060]Local Government 
 
 ## Annotations
 
-[^key-c1a54b23d7bcbce0362e5981682e9adc]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Edw7/8/16) repealed (E.W.) (1.8.2007) by [Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [Sch. para. 1(f)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/f)
+[^c-c1a54b23d7bcbce0362e5981682e9adc]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Edw7/8/16) repealed (E.W.) (1.8.2007) by [Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [Sch. para. 1(f)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/f)
 
 [^c579032]: Modification: Act: Functions transferred (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 

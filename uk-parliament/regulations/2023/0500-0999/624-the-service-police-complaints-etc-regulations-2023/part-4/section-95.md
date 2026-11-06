@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Duty to provide progress reports[^key-9b7b5aac71867117e418c3fb033f384c]
+## 95. Duty to provide progress reports[^c-9b7b5aac71867117e418c3fb033f384c]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b7b5aac71867117e418c3fb033f384c]: Commencement: Reg. 95 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-9b7b5aac71867117e418c3fb033f384c]: Commencement: Reg. 95 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

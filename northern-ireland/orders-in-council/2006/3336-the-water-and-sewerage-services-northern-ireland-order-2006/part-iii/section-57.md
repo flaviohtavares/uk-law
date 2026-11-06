@@ -47,7 +47,7 @@ and sub-paragraph (b) applies whether the opinion is given in relation to the in
 
 (6) In considering whether information relates to any matter as mentioned in paragraph (5), the Council shall have regard to any opinion expressed (whether in relation to the information itself or to information of a description which applies to that information) by the Department or the Director of Public Prosecutions for Northern Ireland.
 
-(7) Where this Article applies by virtue of paragraph (1)(b), paragraphs (2) to (5) do not apply to a disclosure of information which is made to the Authority, the Department, the CMA[^key-5e115c5c8f7a25eac1c3311becd2c7e3] or any other public authority.
+(7) Where this Article applies by virtue of paragraph (1)(b), paragraphs (2) to (5) do not apply to a disclosure of information which is made to the Authority, the Department, the CMA[^c-5e115c5c8f7a25eac1c3311becd2c7e3] or any other public authority.
 
 (8) The disclosure by the Council of information in the exercise of a function to which this Article applies does not contravene Article 265 (restriction on disclosure of information).
 
@@ -57,4 +57,4 @@ and sub-paragraph (b) applies whether the opinion is given in relation to the in
 
 [^c20592021]: Commencement: Art. 57 wholly in operation at 1.4.2007, see art. 1(2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-5e115c5c8f7a25eac1c3311becd2c7e3]: Textual amendment: Word in [art. 57(7)](https://www.legislation.gov.uk/nisi/2006/3336/article/57/7) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 191](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/191); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-5e115c5c8f7a25eac1c3311becd2c7e3]: Textual amendment: Word in [art. 57(7)](https://www.legislation.gov.uk/nisi/2006/3336/article/57/7) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 191](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/191); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

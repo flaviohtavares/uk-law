@@ -31,10 +31,10 @@ summary: ''
 
 of 16 July 2012 on the signing, on behalf of the European Union, and the provisional application of the Protocol setting out the fishing opportunities and financial contribution provided for in the Fisheries Partnership Agreement between the European Community on the one hand and the Government of Denmark and the Home Rule Government of Greenland, on the other hand (revoked)
 
-[^key-1460a9f60b46c482bc0e4e71dfd22ed9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1460a9f60b46c482bc0e4e71dfd22ed9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-1460a9f60b46c482bc0e4e71dfd22ed9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-1460a9f60b46c482bc0e4e71dfd22ed9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1460a9f60b46c482bc0e4e71dfd22ed9]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (2023 c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-1460a9f60b46c482bc0e4e71dfd22ed9]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (2023 c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

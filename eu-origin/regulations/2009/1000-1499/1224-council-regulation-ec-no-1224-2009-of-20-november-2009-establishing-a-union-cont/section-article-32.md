@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 32. Detailed rules[^key-aef2a7f01fc01be24554b509075b5339]
+## Article 32. Detailed rules[^c-aef2a7f01fc01be24554b509075b5339]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A fisheries administration may make regulations specifying detailed rules for th
 
 ## Annotations
 
-[^key-aef2a7f01fc01be24554b509075b5339]: Textual amendment: [Art. 32](https://www.legislation.gov.uk/eur/2009/1224/article/32) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [27(12)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aef2a7f01fc01be24554b509075b5339]: Textual amendment: [Art. 32](https://www.legislation.gov.uk/eur/2009/1224/article/32) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [27(12)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

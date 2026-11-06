@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Protection of Act against modification[^key-73c0986f4b0b1a517174c72262cd28f1]
+## 54. Protection of Act against modification[^c-73c0986f4b0b1a517174c72262cd28f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73c0986f4b0b1a517174c72262cd28f1]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2020/27/section/54) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/k)
+[^c-73c0986f4b0b1a517174c72262cd28f1]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2020/27/section/54) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/k)

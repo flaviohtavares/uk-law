@@ -139,30 +139,30 @@ Section 37
 
 .
 
-### Part 2 — Corporation tax[^key-514fdb1ca3b547c9e0b028fca6bd79a8]
+### Part 2 — Corporation tax[^c-514fdb1ca3b547c9e0b028fca6bd79a8]
 
 **No longer in force.**
 
-#### Introduction[^key-514fdb1ca3b547c9e0b028fca6bd79a8]
+#### Introduction[^c-514fdb1ca3b547c9e0b028fca6bd79a8]
 
-**5.**[^key-514fdb1ca3b547c9e0b028fca6bd79a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-514fdb1ca3b547c9e0b028fca6bd79a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Transfers of trading stock between trade and trader[^key-514fdb1ca3b547c9e0b028fca6bd79a8]
+#### Transfers of trading stock between trade and trader[^c-514fdb1ca3b547c9e0b028fca6bd79a8]
 
-**6.**[^key-514fdb1ca3b547c9e0b028fca6bd79a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-514fdb1ca3b547c9e0b028fca6bd79a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-514fdb1ca3b547c9e0b028fca6bd79a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-514fdb1ca3b547c9e0b028fca6bd79a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Other disposals not made in the course of trade[^key-514fdb1ca3b547c9e0b028fca6bd79a8]
+#### Other disposals not made in the course of trade[^c-514fdb1ca3b547c9e0b028fca6bd79a8]
 
-**8.**[^key-514fdb1ca3b547c9e0b028fca6bd79a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-514fdb1ca3b547c9e0b028fca6bd79a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-514fdb1ca3b547c9e0b028fca6bd79a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-514fdb1ca3b547c9e0b028fca6bd79a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Relationship with transfer pricing rules[^key-514fdb1ca3b547c9e0b028fca6bd79a8]
+#### Relationship with transfer pricing rules[^c-514fdb1ca3b547c9e0b028fca6bd79a8]
 
-**10.**[^key-514fdb1ca3b547c9e0b028fca6bd79a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-514fdb1ca3b547c9e0b028fca6bd79a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-514fdb1ca3b547c9e0b028fca6bd79a8]: Textual amendment: [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/15/part/2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 736](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/736), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-514fdb1ca3b547c9e0b028fca6bd79a8]: Textual amendment: [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/15/part/2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 736](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/736), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

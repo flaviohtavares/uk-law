@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Meaning of “qualifying subsidiary”[^key-957d60d35d911cd48a46894ea9775131]
+## 191. Meaning of “qualifying subsidiary”[^c-957d60d35d911cd48a46894ea9775131]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ is for genuine commercial reasons, and is not part of a scheme or arrangement th
 
 ## Annotations
 
-[^key-957d60d35d911cd48a46894ea9775131]: Modification: S. 191 applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 2 para. 42](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/42) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-957d60d35d911cd48a46894ea9775131]: Modification: S. 191 applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 2 para. 42](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/42) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

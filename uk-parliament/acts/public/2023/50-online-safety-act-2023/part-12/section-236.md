@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Interpretation: general[^key-11bf1295de09474474e8f7bf696f93e6]
+## 236. Interpretation: general[^c-11bf1295de09474474e8f7bf696f93e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 - “**content**” means anything communicated by means of an internet service, whether publicly or privately, including written material or messages, oral communications, photographs, videos, visual images, music and data of any description;
 - “**the Convention**” has the meaning given by section 21(1) of the Human Rights Act 1998;
 - “**country**” includes territory;
-- “[^key-ebf36378ae9f98bacd63abb1aa63b29b]**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act);
+- “[^c-ebf36378ae9f98bacd63abb1aa63b29b]**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act);
 - “**document**” means anything in which information (in whatever form) is recorded;
 - “**encounter**”, in relation to content, means read, view, hear or otherwise experience content;
 - “**entity**” means a body or association of persons or an organisation, regardless of whether the body, association or organisation is—
@@ -42,7 +42,7 @@ summary: ''
   - (b) a legal person under the law under which it is formed;
 - “freedom of expression”: any reference to freedom of expression (except in sections 41(6)(f) and 78(2)(d)) is to the freedom to receive and impart ideas, opinions or information (referred to in Article 10(1) of the Convention) by means of speech, writing or images;
 - “**identifying content**” means content the function of which is to identify a user of an internet service (for example, a user name or profile picture);
-- “**information notice**” means a notice given under section 101(C1) or (1)[^key-b344836a0e6c321a4acec4b4cee935c2] or 101(1);
+- “**information notice**” means a notice given under section 101(C1) or (1)[^c-b344836a0e6c321a4acec4b4cee935c2] or 101(1);
 - “measure”: any reference to a measure includes a reference to any system or process relevant to the operation of an internet service or any step or action which may be taken by a provider of an internet service to comply with duties or requirements under this Act;
 - “**notice**” means notice in writing;
 - “**notify**” means notify in writing, and “**notification**” is to be construed accordingly;
@@ -92,8 +92,8 @@ and references to restrictions on access to a service or to content are to be re
 
 ## Annotations
 
-[^key-11bf1295de09474474e8f7bf696f93e6]: Commencement: S. 236 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
+[^c-11bf1295de09474474e8f7bf696f93e6]: Commencement: S. 236 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
 
-[^key-ebf36378ae9f98bacd63abb1aa63b29b]: Textual amendment: Words in [s. 236(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/236/1) inserted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(10)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/10/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+[^c-ebf36378ae9f98bacd63abb1aa63b29b]: Textual amendment: Words in [s. 236(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/236/1) inserted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(10)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/10/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
 
-[^key-b344836a0e6c321a4acec4b4cee935c2]: Textual amendment: Words in [s. 236(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/236/1) substituted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(10)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/10/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+[^c-b344836a0e6c321a4acec4b4cee935c2]: Textual amendment: Words in [s. 236(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/236/1) substituted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(10)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/10/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)

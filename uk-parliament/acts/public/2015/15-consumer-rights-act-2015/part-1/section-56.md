@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Right to price reduction[^key-33a7097e78cdefa844a96b6a01a379fc][^key-d3d1f346b338bdaf4bc41463ac2a073f]
+## 56. Right to price reduction[^c-33a7097e78cdefa844a96b6a01a379fc][^c-d3d1f346b338bdaf4bc41463ac2a073f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33a7097e78cdefa844a96b6a01a379fc]: Commencement: S. 56 in force at 1.10.2015 for specified purposes by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-33a7097e78cdefa844a96b6a01a379fc]: Commencement: S. 56 in force at 1.10.2015 for specified purposes by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-d3d1f346b338bdaf4bc41463ac2a073f]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2015/15/section/56) in force at 1.10.2016 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/1630/article/4/b) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/2)) (as amended by [S.I. 2016/484](https://www.legislation.gov.uk/uksi/2016/484), [art. 2](https://www.legislation.gov.uk/uksi/2016/484/article/2))
+[^c-d3d1f346b338bdaf4bc41463ac2a073f]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2015/15/section/56) in force at 1.10.2016 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/1630/article/4/b) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/2)) (as amended by [S.I. 2016/484](https://www.legislation.gov.uk/uksi/2016/484), [art. 2](https://www.legislation.gov.uk/uksi/2016/484/article/2))

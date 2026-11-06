@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, Business Closure) (Wales) Regulations 2020 (revoked)[^key-826c0b0c261a68d678b5a6b3e1578c87]
+The Health Protection (Coronavirus, Business Closure) (Wales) Regulations 2020 (revoked)[^c-826c0b0c261a68d678b5a6b3e1578c87]
 
 Made
 
@@ -45,78 +45,78 @@ Coming into force
 
 at 2.00 p.m. on 21 March 2020
 
-[^key-826c0b0c261a68d678b5a6b3e1578c87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-826c0b0c261a68d678b5a6b3e1578c87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-826c0b0c261a68d678b5a6b3e1578c87]
+## 1. Title and commencement[^c-826c0b0c261a68d678b5a6b3e1578c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Requirement to close premises during the emergency[^key-826c0b0c261a68d678b5a6b3e1578c87]
+## 2. Requirement to close premises during the emergency[^c-826c0b0c261a68d678b5a6b3e1578c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences and penalties[^key-826c0b0c261a68d678b5a6b3e1578c87]
+## 3. Offences and penalties[^c-826c0b0c261a68d678b5a6b3e1578c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement of restrictions and prosecution[^key-826c0b0c261a68d678b5a6b3e1578c87]
+## 4. Enforcement of restrictions and prosecution[^c-826c0b0c261a68d678b5a6b3e1578c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Expiry[^key-826c0b0c261a68d678b5a6b3e1578c87]
+## 5. Expiry[^c-826c0b0c261a68d678b5a6b3e1578c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-826c0b0c261a68d678b5a6b3e1578c87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-826c0b0c261a68d678b5a6b3e1578c87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Businesses which must close[^key-826c0b0c261a68d678b5a6b3e1578c87]
+## SCHEDULE — Businesses which must close[^c-826c0b0c261a68d678b5a6b3e1578c87]
 
 Regulation 2
 
-### PART 1[^key-826c0b0c261a68d678b5a6b3e1578c87]
+### PART 1[^c-826c0b0c261a68d678b5a6b3e1578c87]
 
-**1.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-826c0b0c261a68d678b5a6b3e1578c87]
+### PART 2[^c-826c0b0c261a68d678b5a6b3e1578c87]
 
-**5.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-826c0b0c261a68d678b5a6b3e1578c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-826c0b0c261a68d678b5a6b3e1578c87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-826c0b0c261a68d678b5a6b3e1578c87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-826c0b0c261a68d678b5a6b3e1578c87]: Textual amendment: Regulations revoked (26.3.2020 at 4.00 p.m.) by [The Health Protection (Coronavirus Restrictions) (Wales) Regulations 2020 (S.I. 2020/353)](https://www.legislation.gov.uk/wsi/2020/353), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/353/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/2020/353/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/wsi/2020/353/regulation/2/2))
+[^c-826c0b0c261a68d678b5a6b3e1578c87]: Textual amendment: Regulations revoked (26.3.2020 at 4.00 p.m.) by [The Health Protection (Coronavirus Restrictions) (Wales) Regulations 2020 (S.I. 2020/353)](https://www.legislation.gov.uk/wsi/2020/353), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/353/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/2020/353/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/wsi/2020/353/regulation/2/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Simplified deduction scheme for personal employees[^key-1eaf42e7d5b8c1833eb5593c2f7df633]
+## 64. Simplified deduction scheme for personal employees[^c-1eaf42e7d5b8c1833eb5593c2f7df633]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In regulation 34 (simplified deduction scheme for personal employees)—
 
 ## Annotations
 
-[^key-1eaf42e7d5b8c1833eb5593c2f7df633]: Commencement: Reg. 64 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-1eaf42e7d5b8c1833eb5593c2f7df633]: Commencement: Reg. 64 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27G. Storage procedure: unloading of surplus stores for storage[^key-67752edd02b6128a9d4d1b860edc0abe]
+## 27G. Storage procedure: unloading of surplus stores for storage[^c-67752edd02b6128a9d4d1b860edc0abe]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67752edd02b6128a9d4d1b860edc0abe]: Textual amendment: [Regs. 27G](https://www.legislation.gov.uk/uksi/2018/1248/regulation/27G), [27H](https://www.legislation.gov.uk/uksi/2018/1248/regulation/27H) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(7)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/7)
+[^c-67752edd02b6128a9d4d1b860edc0abe]: Textual amendment: [Regs. 27G](https://www.legislation.gov.uk/uksi/2018/1248/regulation/27G), [27H](https://www.legislation.gov.uk/uksi/2018/1248/regulation/27H) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(7)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/7)

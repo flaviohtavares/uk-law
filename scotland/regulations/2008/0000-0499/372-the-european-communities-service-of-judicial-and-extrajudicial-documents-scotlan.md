@@ -32,7 +32,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Service of Judicial and Extrajudicial Documents) (Scotland) Amendment Regulations 2008 (revoked)[^key-7cd467bdcc37bd80e2b02ebb57448d33]
+The European Communities (Service of Judicial and Extrajudicial Documents) (Scotland) Amendment Regulations 2008 (revoked)[^c-7cd467bdcc37bd80e2b02ebb57448d33]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 5th December 2008
 
-[^key-7cd467bdcc37bd80e2b02ebb57448d33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7cd467bdcc37bd80e2b02ebb57448d33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7cd467bdcc37bd80e2b02ebb57448d33]
+## 1. Citation and commencement[^c-7cd467bdcc37bd80e2b02ebb57448d33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the European Communities (Service of Judicial and Extrajudicial Documents) (Scotland) Regulations 2001[^key-7cd467bdcc37bd80e2b02ebb57448d33]
+## 2. Amendments to the European Communities (Service of Judicial and Extrajudicial Documents) (Scotland) Regulations 2001[^c-7cd467bdcc37bd80e2b02ebb57448d33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd467bdcc37bd80e2b02ebb57448d33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7cd467bdcc37bd80e2b02ebb57448d33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd467bdcc37bd80e2b02ebb57448d33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7cd467bdcc37bd80e2b02ebb57448d33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7cd467bdcc37bd80e2b02ebb57448d33]: Textual amendment: Regulations revoked (31.12.2020) by The Service of Documents and Taking of Evidence in [Civil and Commercial Matters (Revocation and Saving Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1257)](https://www.legislation.gov.uk/uksi/2018/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1257/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/1257/regulation/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2018/1257/regulation/8) (as substituted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/2/3))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7cd467bdcc37bd80e2b02ebb57448d33]: Textual amendment: Regulations revoked (31.12.2020) by The Service of Documents and Taking of Evidence in [Civil and Commercial Matters (Revocation and Saving Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1257)](https://www.legislation.gov.uk/uksi/2018/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1257/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/1257/regulation/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2018/1257/regulation/8) (as substituted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/2/3))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

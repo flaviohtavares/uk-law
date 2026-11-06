@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-316419f22d83103954024ac41d9effd7]
+## 1. Citation and commencement[^c-316419f22d83103954024ac41d9effd7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the South Humber Bank Energy Centre Order 2021 and co
 
 ## Annotations
 
-[^key-316419f22d83103954024ac41d9effd7]: Commencement: Art. 1 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-316419f22d83103954024ac41d9effd7]: Commencement: Art. 1 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)

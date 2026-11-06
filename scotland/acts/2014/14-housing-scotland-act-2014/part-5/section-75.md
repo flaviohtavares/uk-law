@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Improvement notices[^key-0946e5abdbded3ae7cf7e8d6c0a13a71]
+## 75. Improvement notices[^c-0946e5abdbded3ae7cf7e8d6c0a13a71]
 
 *Extent: S*
 
@@ -92,4 +92,4 @@ After section 32T of the 1960 Act (inserted by section 74), insert—
 
 ## Annotations
 
-[^key-0946e5abdbded3ae7cf7e8d6c0a13a71]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2014/14/section/75) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-0946e5abdbded3ae7cf7e8d6c0a13a71]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2014/14/section/75) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

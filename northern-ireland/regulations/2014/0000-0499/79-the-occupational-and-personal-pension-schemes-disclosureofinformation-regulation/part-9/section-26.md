@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Giving information and documents[^key-d9d13b630f587f3a06eb0bc249210753]
+## 26. Giving information and documents[^c-d9d13b630f587f3a06eb0bc249210753]
 
 *Extent: N.I.*
 
@@ -45,7 +45,7 @@ is not given in accordance with paragraph (2)(b), that information may not be gi
   the information, and
 - (b) taking into account the requirements of disabled persons.
 
-(4A)[^key-3afb38826cbd02cc117b63f1c207fc38] The provisions of paragraph (4) do not apply where regulation 29A or 29B[^key-e9f2c020df675a6fede50ab878f4859b] applies to the information.
+(4A)[^c-3afb38826cbd02cc117b63f1c207fc38] The provisions of paragraph (4) do not apply where regulation 29A or 29B[^c-e9f2c020df675a6fede50ab878f4859b] applies to the information.
 
 (5) Where—
 
@@ -63,8 +63,8 @@ information may not be given to that member or beneficiary of the scheme in acco
 
 ## Annotations
 
-[^key-d9d13b630f587f3a06eb0bc249210753]: Commencement: Reg. 26 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-d9d13b630f587f3a06eb0bc249210753]: Commencement: Reg. 26 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
-[^key-3afb38826cbd02cc117b63f1c207fc38]: Textual amendment: Reg. 26(4A) inserted (6.4.2018) by [The Occupational Pension Schemes (Administration and Disclosure) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/53)](https://www.legislation.gov.uk/nisr/2018/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/53/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2018/53/regulation/3/4)
+[^c-3afb38826cbd02cc117b63f1c207fc38]: Textual amendment: Reg. 26(4A) inserted (6.4.2018) by [The Occupational Pension Schemes (Administration and Disclosure) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/53)](https://www.legislation.gov.uk/nisr/2018/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/53/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2018/53/regulation/3/4)
 
-[^key-e9f2c020df675a6fede50ab878f4859b]: Textual amendment: Words in reg. 26(4A) inserted (4.12.2025) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/4)
+[^c-e9f2c020df675a6fede50ab878f4859b]: Textual amendment: Words in reg. 26(4A) inserted (4.12.2025) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/4)

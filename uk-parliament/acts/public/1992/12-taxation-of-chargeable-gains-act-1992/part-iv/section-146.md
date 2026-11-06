@@ -35,10 +35,10 @@ Subsections (5) and (6) of section 144 shall apply in relation to this subsectio
 (4) In this section—
 
 - (a) “**financial option**”, “**quoted option**” and “**traded option**” have the meanings given by section 144(8), and
-- (b) “**quoted shares or securities**” means shares or securities which are listed[^key-73aec83a5cd277ad985d9a8c273f7037] on a recognised stock exchange [^key-4fdd970eac2d5a902013ddd4a98a7302]... .
+- (b) “**quoted shares or securities**” means shares or securities which are listed[^c-73aec83a5cd277ad985d9a8c273f7037] on a recognised stock exchange [^c-4fdd970eac2d5a902013ddd4a98a7302]... .
 
 ## Annotations
 
-[^key-73aec83a5cd277ad985d9a8c273f7037]: Textual amendment: Words in s. 146(4)(b) substituted (with effect in accordance with Sch. 38 para. 11(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 38 para. 11(1)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/38/paragraph/11/1)
+[^c-73aec83a5cd277ad985d9a8c273f7037]: Textual amendment: Words in s. 146(4)(b) substituted (with effect in accordance with Sch. 38 para. 11(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 38 para. 11(1)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/38/paragraph/11/1)
 
-[^key-4fdd970eac2d5a902013ddd4a98a7302]: Textual amendment: Words in s. 146(4)(b) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 8(4)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/8/4), [Sch. 27 Pt. 6(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/5)
+[^c-4fdd970eac2d5a902013ddd4a98a7302]: Textual amendment: Words in s. 146(4)(b) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 8(4)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/8/4), [Sch. 27 Pt. 6(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/5)

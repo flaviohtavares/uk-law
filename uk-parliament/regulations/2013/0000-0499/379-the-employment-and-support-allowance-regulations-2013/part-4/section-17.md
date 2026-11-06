@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to paragraphs (2) and (3), the information or evidence required to determine whether a claimant has limited capability for work is—
 
-- (a) evidence of limited capability for work in accordance with the Medical Evidence Regulations (which prescribe the form of [^key-68bafcaeb042062b85b0ba71962e45e0]... statement or other evidence required in each case);
+- (a) evidence of limited capability for work in accordance with the Medical Evidence Regulations (which prescribe the form of [^c-68bafcaeb042062b85b0ba71962e45e0]... statement or other evidence required in each case);
 - (b) any information relating to a claimant's capability to perform the activities referred to in Schedule 2 as may be requested in the form of a questionnaire; and
 - (c) any such additional information as may be requested.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68bafcaeb042062b85b0ba71962e45e0]: Textual amendment: Word in [reg. 17(1)(a)](https://www.legislation.gov.uk/uksi/2013/379/regulation/17/1/a) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2022/630/regulation/4/5)
+[^c-68bafcaeb042062b85b0ba71962e45e0]: Textual amendment: Word in [reg. 17(1)(a)](https://www.legislation.gov.uk/uksi/2013/379/regulation/17/1/a) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2022/630/regulation/4/5)

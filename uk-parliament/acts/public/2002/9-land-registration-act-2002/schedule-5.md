@@ -70,11 +70,11 @@ Section 92
 
 ### 4. Appeals
 
-(1) A person who is aggrieved by a decision of the registrar with respect to entry into, or termination of, a network access agreement may appeal against the decision to the First-tier Tribunal[^key-33b4d35f29d47ff017c0f756e57d9fe7].
+(1) A person who is aggrieved by a decision of the registrar with respect to entry into, or termination of, a network access agreement may appeal against the decision to the First-tier Tribunal[^c-33b4d35f29d47ff017c0f756e57d9fe7].
 
-(2) On determining an appeal under this paragraph, the First-tier Tribunal[^key-e9a8425c1ea9b0df0ca0e694daa57368] may give such directions as the tribunal[^key-f5bdf95861217cd07a2396149c6b3196] considers appropriate to give effect to its[^key-fe8ba1e6c30893817b96321ae3f35eeb] determination.
+(2) On determining an appeal under this paragraph, the First-tier Tribunal[^c-e9a8425c1ea9b0df0ca0e694daa57368] may give such directions as the tribunal[^c-f5bdf95861217cd07a2396149c6b3196] considers appropriate to give effect to its[^c-fe8ba1e6c30893817b96321ae3f35eeb] determination.
 
-(3)[^key-5d34ad93856495268edf0cdd85ce5571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5d34ad93856495268edf0cdd85ce5571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5. Network transaction rules
 
@@ -118,7 +118,7 @@ Where—
 
 The registrar may provide, or arrange for the provision of, education and training in relation to the use of a land registry network.
 
-**11.** (1) Power to make rules under paragraph 1, 2 or 3 is exercisable by the Secretary of State[^key-9caaa0f783801935d824f01c46cee37c].
+**11.** (1) Power to make rules under paragraph 1, 2 or 3 is exercisable by the Secretary of State[^c-9caaa0f783801935d824f01c46cee37c].
 
 (2) Before making such rules, the Secretary of State must consult such persons as he considers appropriate.
 
@@ -139,14 +139,14 @@ The registrar may provide, or arrange for the provision of, education and traini
 
 ## Annotations
 
-[^key-33b4d35f29d47ff017c0f756e57d9fe7]: Textual amendment: Words in [Sch. 5 para. 4(1)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/5/paragraph/4/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 237(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/237/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-33b4d35f29d47ff017c0f756e57d9fe7]: Textual amendment: Words in [Sch. 5 para. 4(1)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/5/paragraph/4/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 237(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/237/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-e9a8425c1ea9b0df0ca0e694daa57368]: Textual amendment: Words in [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/5/paragraph/4/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 237(b)(i)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/237/b/i) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-e9a8425c1ea9b0df0ca0e694daa57368]: Textual amendment: Words in [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/5/paragraph/4/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 237(b)(i)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/237/b/i) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-f5bdf95861217cd07a2396149c6b3196]: Textual amendment: Words in [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/5/paragraph/4/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 237(b)(ii)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/237/b/ii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-f5bdf95861217cd07a2396149c6b3196]: Textual amendment: Words in [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/5/paragraph/4/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 237(b)(ii)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/237/b/ii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-fe8ba1e6c30893817b96321ae3f35eeb]: Textual amendment: Word in [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/5/paragraph/4/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 237(b)(iii)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/237/b/iii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-fe8ba1e6c30893817b96321ae3f35eeb]: Textual amendment: Word in [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/5/paragraph/4/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 237(b)(iii)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/237/b/iii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-5d34ad93856495268edf0cdd85ce5571]: Textual amendment: [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/5/paragraph/4/3) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 237(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/237/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-5d34ad93856495268edf0cdd85ce5571]: Textual amendment: [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/5/paragraph/4/3) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 237(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/237/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-9caaa0f783801935d824f01c46cee37c]: Textual amendment: Words in [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2002/9/schedule/5/paragraph/11) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)
+[^c-9caaa0f783801935d824f01c46cee37c]: Textual amendment: Words in [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2002/9/schedule/5/paragraph/11) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)

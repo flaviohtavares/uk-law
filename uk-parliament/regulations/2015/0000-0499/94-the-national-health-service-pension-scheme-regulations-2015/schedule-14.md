@@ -50,7 +50,7 @@ Table
 
 ### 3. Death of deferred member
 
-(1) A lump sum on death is payable under this paragraph in respect of the death of a deferred member who is not also an active member[^key-d1ae6e12a909372aa991befc6f5dd76b] before the member reaches the age of 75.
+(1) A lump sum on death is payable under this paragraph in respect of the death of a deferred member who is not also an active member[^c-d1ae6e12a909372aa991befc6f5dd76b] before the member reaches the age of 75.
 
 (2) The amount of the lump sum on death payable is equal to 2.025 times the amount of the member's deferred annual pension.
 
@@ -116,7 +116,7 @@ Table
 
   TDPS is the aggregate of DPS and the total number of days of pensionable service (at the election day or the last such election day if the option has been exercised more than once) which relate to the specified percentage of pension payable;
 - “**election day**” has the meaning given in regulation 84;
-- “re-valued pensionable earnings” means, in relation to a scheme year, an amount equal to the actual pensionable earnings for the year increased by the same amount as that by which an annual pension equal to that amount would have been increased for the first time under the Pensions (Increase) Act 1971 at the relevant day if—[^key-32496e0e6716d2a01a3ef2af6f0979d0]
+- “re-valued pensionable earnings” means, in relation to a scheme year, an amount equal to the actual pensionable earnings for the year increased by the same amount as that by which an annual pension equal to that amount would have been increased for the first time under the Pensions (Increase) Act 1971 at the relevant day if—[^c-32496e0e6716d2a01a3ef2af6f0979d0]
   - (a) the pension was eligible to be so increased;
   - (b) the beginning date for the pension was the first day of the following scheme year; and
   - (c) the relevant day was the member’s last day of pensionable service.
@@ -136,15 +136,15 @@ Table
 
 (5) For the purposes of sub-paragraph (4)—
 
-- (a) amount A is an amount which is five times the annual amount of pension payable to the member [^key-acbbc3c37fddc52cef4efd53138e0030]..., less the amount of the pension payments already made to the member;
+- (a) amount A is an amount which is five times the annual amount of pension payable to the member [^c-acbbc3c37fddc52cef4efd53138e0030]..., less the amount of the pension payments already made to the member;
 - (b) amount B is the amount which is the higher of—
   - (i) twice the pension debit member's re-valued pensionable earnings for the period of 12 months ending on the valuation day; and
   - (ii) twice the pension debit member's re-valued pensionable earnings for the scheme year falling in the earnings reference period which has the largest re-valued pensionable earnings.
 
 (6) In this paragraph—
 
-- [^key-7724f633a90b933eac20725dd9fb2afc]...
-- [^key-7724f633a90b933eac20725dd9fb2afc]...
+- [^c-7724f633a90b933eac20725dd9fb2afc]...
+- [^c-7724f633a90b933eac20725dd9fb2afc]...
 - “**valuation day**” means the day referred to in section 29(7) of the 1999 Act.
 
 ### 9. Payment of lump sums on death
@@ -180,7 +180,7 @@ the lump sum (or, as the case may be, the percentage of it specified in respect 
 
 the lump sum may be paid to that person unless sub-paragraph (7) applies.
 
-(7) This sub-paragraph applies if the person to whom the lump sum (or a specified percentage of the lump sum) would otherwise be payable has been convicted of an offence specified in paragraph 12(4) of Schedule 3[^key-7bfee5ef4329b30d508a0d05e43aaa1f] (forfeiture of rights to benefits) and the Secretary of State has directed, as a consequence of that conviction, that the person's right to a payment in respect of the member's death is forfeited.
+(7) This sub-paragraph applies if the person to whom the lump sum (or a specified percentage of the lump sum) would otherwise be payable has been convicted of an offence specified in paragraph 12(4) of Schedule 3[^c-7bfee5ef4329b30d508a0d05e43aaa1f] (forfeiture of rights to benefits) and the Secretary of State has directed, as a consequence of that conviction, that the person's right to a payment in respect of the member's death is forfeited.
 
 (8) A notice under sub-paragraph (3)—
 
@@ -196,14 +196,14 @@ the lump sum may be paid to that person unless sub-paragraph (7) applies.
 
 ## Annotations
 
-[^key-d1ae6e12a909372aa991befc6f5dd76b]: Textual amendment: Words in [Sch. 14 para. 3(1)](https://www.legislation.gov.uk/uksi/2015/94/schedule/14/paragraph/3/1) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [48(2)](https://www.legislation.gov.uk/uksi/2017/275/regulation/48/2)
+[^c-d1ae6e12a909372aa991befc6f5dd76b]: Textual amendment: Words in [Sch. 14 para. 3(1)](https://www.legislation.gov.uk/uksi/2015/94/schedule/14/paragraph/3/1) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [48(2)](https://www.legislation.gov.uk/uksi/2017/275/regulation/48/2)
 
-[^key-32496e0e6716d2a01a3ef2af6f0979d0]: Textual amendment: Words in [Sch. 14 para. 7(3)](https://www.legislation.gov.uk/uksi/2015/94/schedule/14/paragraph/7/3) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [48(3)](https://www.legislation.gov.uk/uksi/2017/275/regulation/48/3)
+[^c-32496e0e6716d2a01a3ef2af6f0979d0]: Textual amendment: Words in [Sch. 14 para. 7(3)](https://www.legislation.gov.uk/uksi/2015/94/schedule/14/paragraph/7/3) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [48(3)](https://www.legislation.gov.uk/uksi/2017/275/regulation/48/3)
 
-[^key-acbbc3c37fddc52cef4efd53138e0030]: Textual amendment: Words in Sch. 14 para. 8(5)(a) omitted (with effect from 1.4.2015) by virtue of [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(10)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/10), [29(a)](https://www.legislation.gov.uk/uksi/2021/631/regulation/29/a) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-acbbc3c37fddc52cef4efd53138e0030]: Textual amendment: Words in Sch. 14 para. 8(5)(a) omitted (with effect from 1.4.2015) by virtue of [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(10)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/10), [29(a)](https://www.legislation.gov.uk/uksi/2021/631/regulation/29/a) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-7724f633a90b933eac20725dd9fb2afc]: Textual amendment: Words in Sch. 14 para. 8(6) omitted (with effect from 1.4.2015) by virtue of [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(10)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/10), [29(b)](https://www.legislation.gov.uk/uksi/2021/631/regulation/29/b) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-7724f633a90b933eac20725dd9fb2afc]: Textual amendment: Words in Sch. 14 para. 8(6) omitted (with effect from 1.4.2015) by virtue of [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(10)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/10), [29(b)](https://www.legislation.gov.uk/uksi/2021/631/regulation/29/b) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-7bfee5ef4329b30d508a0d05e43aaa1f]: Textual amendment: Words in [Sch. 14 para. 9(7)](https://www.legislation.gov.uk/uksi/2015/94/schedule/14/paragraph/9/7) substituted (1.4.2025 with effect from 1.4.2015) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/5), [33](https://www.legislation.gov.uk/uksi/2025/316/regulation/33)
+[^c-7bfee5ef4329b30d508a0d05e43aaa1f]: Textual amendment: Words in [Sch. 14 para. 9(7)](https://www.legislation.gov.uk/uksi/2015/94/schedule/14/paragraph/9/7) substituted (1.4.2025 with effect from 1.4.2015) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/5), [33](https://www.legislation.gov.uk/uksi/2025/316/regulation/33)
 
 [^c22362601]: Marginal citation: [1965 c.32](https://www.legislation.gov.uk/ukpga/1965/32).

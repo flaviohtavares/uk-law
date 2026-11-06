@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Sending of applications, notices etc.[^key-602e31be812b7e0b66ea937f8ea3e878]
+## 91. Sending of applications, notices etc.[^c-602e31be812b7e0b66ea937f8ea3e878]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-602e31be812b7e0b66ea937f8ea3e878]: Commencement: Art. 91 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-602e31be812b7e0b66ea937f8ea3e878]: Commencement: Art. 91 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00056]: Footnote: Section 59(3B) was inserted by the 2006 Act, section 13.

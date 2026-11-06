@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Assessing etc risks posed by controlling or coercive offenders[^key-77c7f9208fa6704908aa81d6385e7f46][^key-8ab9210f26446e8489f4e7cc56c8a09f]
+## 65. Assessing etc risks posed by controlling or coercive offenders[^c-77c7f9208fa6704908aa81d6385e7f46][^c-8ab9210f26446e8489f4e7cc56c8a09f]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ In section 327 of the Criminal Justice Act 2003 (section 325: interpretation), i
 
 ## Annotations
 
-[^key-77c7f9208fa6704908aa81d6385e7f46]: Commencement: S. 65 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-77c7f9208fa6704908aa81d6385e7f46]: Commencement: S. 65 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-8ab9210f26446e8489f4e7cc56c8a09f]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2024/21/section/65) in force at 3.2.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/c)
+[^c-8ab9210f26446e8489f4e7cc56c8a09f]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2024/21/section/65) in force at 3.2.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/c)

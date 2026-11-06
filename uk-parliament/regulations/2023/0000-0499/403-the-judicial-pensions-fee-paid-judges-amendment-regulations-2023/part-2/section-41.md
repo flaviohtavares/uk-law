@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Amendment of regulation 62[^key-8b0d9b2057d6cc1935e53216eb922049]
+## 41. Amendment of regulation 62[^c-8b0d9b2057d6cc1935e53216eb922049]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ In regulation 62—
 
 ## Annotations
 
-[^key-8b0d9b2057d6cc1935e53216eb922049]: Commencement: Reg. 41 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-8b0d9b2057d6cc1935e53216eb922049]: Commencement: Reg. 41 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
 
 [^f00019]: Footnote: Paragraphs (3A), (3B) and (3C) were inserted by S.I. 202/386.

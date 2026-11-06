@@ -34,7 +34,7 @@ supplementing Directive 2011/61/EU of the European Parliament and of the Council
 
 (Text with EEA relevance)
 
-[^key-a72b6e22f5dbaba5aa2557e3e032a8a1]
+[^c-a72b6e22f5dbaba5aa2557e3e032a8a1]
 
 THE EUROPEAN COMMISSION,
 
@@ -605,7 +605,7 @@ HAS ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-#### SECTION 1 — Calculation of assets under management — ...[^key-f19a22aa657679f0aff5bc8932ac66e8]
+#### SECTION 1 — Calculation of assets under management — ...[^c-f19a22aa657679f0aff5bc8932ac66e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -614,7 +614,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 4 — Occasional breach of the threshold](section-article-4.md)
 - [Section Article 5 — Information to be provided as part of registration](section-article-5.md)
 
-#### SECTION 2 — Calculation of leverage — ...[^key-6197648eedcf426f8179dda7949e276b]
+#### SECTION 2 — Calculation of leverage — ...[^c-6197648eedcf426f8179dda7949e276b]
 
 *Extent: E+W+S+N.I.*
 
@@ -625,7 +625,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 10 — Conversion methodologies for derivative instruments](section-article-10.md)
 - [Section Article 11 — Duration netting rules](section-article-11.md)
 
-#### SECTION 3 — Additional own funds and professional indemnity insurance — ...[^key-9b7c556a220939f4664638e5ceec89c0]
+#### SECTION 3 — Additional own funds and professional indemnity insurance — ...[^c-9b7c556a220939f4664638e5ceec89c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -638,7 +638,7 @@ HAS ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-#### SECTION 1 — General principles — ...[^key-5e6b1165dc8a3bcdec64c54a76859c5b]
+#### SECTION 1 — General principles — ...[^c-5e6b1165dc8a3bcdec64c54a76859c5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -657,7 +657,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 28 — Placing orders to deal on behalf of AIFs with other entities for execution](section-article-28.md)
 - [Section Article 29 — Aggregation and allocation of trading orders](section-article-29.md)
 
-#### SECTION 2 — Conflicts of interest — ...[^key-1395da60c23b860cf7e4c47a2d809b98]
+#### SECTION 2 — Conflicts of interest — ...[^c-1395da60c23b860cf7e4c47a2d809b98]
 
 *Extent: E+W+S+N.I.*
 
@@ -670,7 +670,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 36 — Disclosure of conflicts of interest](section-article-36.md)
 - [Section Article 37 — Strategies for the exercise of voting rights](section-article-37.md)
 
-#### SECTION 3 — Risk management — ...[^key-cbcd7c281756a97c2ab8e51e83cd6871]
+#### SECTION 3 — Risk management — ...[^c-cbcd7c281756a97c2ab8e51e83cd6871]
 
 *Extent: E+W+S+N.I.*
 
@@ -683,7 +683,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 44 — Risk limits](section-article-44.md)
 - [Section Article 45 — Risk measurement and management](section-article-45.md)
 
-#### SECTION 4 — Liquidity management — ...[^key-5da80a7b6d7d9cfae9409a51ffc87423]
+#### SECTION 4 — Liquidity management — ...[^c-5da80a7b6d7d9cfae9409a51ffc87423]
 
 *Extent: E+W+S+N.I.*
 
@@ -692,7 +692,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 48 — Liquidity management limits and stress tests](section-article-48.md)
 - [Section Article 49 — Alignment of investment strategy, liquidity profile and redemption policy](section-article-49.md)
 
-#### SECTION 5 — Investment in securitisation positions — ...[^key-2c8ab99d16dce219d505b708b5a47ee3]
+#### SECTION 5 — Investment in securitisation positions — ...[^c-2c8ab99d16dce219d505b708b5a47ee3]
 
 *Extent: E+W+S+N.I.*
 
@@ -704,7 +704,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 55 — Grandfathering clause](section-article-55.md)
 - [Section Article 56 — Interpretation](section-article-56.md)
 
-#### SECTION 6 — Organisational requirements — general principles — ...[^key-837666a8efaefe8ce25ed605b6601334]
+#### SECTION 6 — Organisational requirements — general principles — ...[^c-837666a8efaefe8ce25ed605b6601334]
 
 *Extent: E+W+S+N.I.*
 
@@ -719,7 +719,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 65 — Recording of subscription and redemption orders](section-article-65.md)
 - [Section Article 66 — Recordkeeping requirements](section-article-66.md)
 
-#### SECTION 7 — Valuation — ...[^key-8af5344c55a6521385a6eb1f7cb07ad9]
+#### SECTION 7 — Valuation — ...[^c-8af5344c55a6521385a6eb1f7cb07ad9]
 
 *Extent: E+W+S+N.I.*
 
@@ -732,7 +732,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 73 — Professional guarantees](section-article-73.md)
 - [Section Article 74 — Frequency of valuation of assets held by open-ended AIFs](section-article-74.md)
 
-#### SECTION 8 — Delegation of AIFM functions — ...[^key-5bc4adf527308bd824e83be67b20508d]
+#### SECTION 8 — Delegation of AIFM functions — ...[^c-5bc4adf527308bd824e83be67b20508d]
 
 *Extent: E+W+S+N.I.*
 
@@ -749,19 +749,19 @@ HAS ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-#### SECTION 1 — Particulars of the written contract — ...[^key-db9ff29da8b12fbd12202fc92408e084]
+#### SECTION 1 — Particulars of the written contract — ...[^c-db9ff29da8b12fbd12202fc92408e084]
 
 *Extent: E+W+S+N.I.*
 
 - [Section Article 83 — Contractual particulars](section-article-83.md)
 
-#### SECTION 2 — General criteria for assessing the prudential regulation and supervision applicable to depositaries in third countries — ...[^key-49778893c386768d2ad316be0dc96987]
+#### SECTION 2 — General criteria for assessing the prudential regulation and supervision applicable to depositaries in third countries — ...[^c-49778893c386768d2ad316be0dc96987]
 
 *Extent: E+W+S+N.I.*
 
 - [Section Article 84 — Criteria for assessing prudential regulation and supervision applicable to a depositary in a third country](section-article-84.md)
 
-#### SECTION 3 — Depositary functions, due diligence duties and segregation obligation — ...[^key-30a56c3bed6696cc0668a2a3eb1f9b54]
+#### SECTION 3 — Depositary functions, due diligence duties and segregation obligation — ...[^c-30a56c3bed6696cc0668a2a3eb1f9b54]
 
 *Extent: E+W+S+N.I.*
 
@@ -781,7 +781,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 98 — Due diligence](section-article-98.md)
 - [Section Article 99 — Segregation obligation](section-article-99.md)
 
-#### SECTION 4 — Loss of financial instruments, liability discharge and objective reasons — ...[^key-30b5c0314d9cf6030df2bd3c58690d92]
+#### SECTION 4 — Loss of financial instruments, liability discharge and objective reasons — ...[^c-30b5c0314d9cf6030df2bd3c58690d92]
 
 *Extent: E+W+S+N.I.*
 
@@ -793,7 +793,7 @@ HAS ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-#### SECTION 1 — Annual report, disclosure to investors and reporting to competent authorities — ...[^key-a0cfe50de56bd2bd1ff5856fabf1a280]
+#### SECTION 1 — Annual report, disclosure to investors and reporting to competent authorities — ...[^c-a0cfe50de56bd2bd1ff5856fabf1a280]
 
 *Extent: E+W+S+N.I.*
 
@@ -807,13 +807,13 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 110 — Reporting to the FCA](section-article-110.md)
 - [Section Article 111 — Use of leverage on a ‘substantial basis’](section-article-111.md)
 
-#### SECTION 2 — AIFMs managing leveraged AIFs — ...[^key-69a195c26fddff8b4b991701b2f22072]
+#### SECTION 2 — AIFMs managing leveraged AIFs — ...[^c-69a195c26fddff8b4b991701b2f22072]
 
 *Extent: E+W+S+N.I.*
 
 - [Section Article 112 — Restrictions on the management of AIFs](section-article-112.md)
 
-#### SECTION 3 — Specific rules relating to third countries — ...[^key-92e98b2bf3fa1beedad8698ab2ed2d20]
+#### SECTION 3 — Specific rules relating to third countries — ...[^c-92e98b2bf3fa1beedad8698ab2ed2d20]
 
 *Extent: E+W+S+N.I.*
 
@@ -821,7 +821,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 114 — Mechanisms, instruments and procedures](section-article-114.md)
 - [Section Article 115 — Data protection](section-article-115.md)
 
-#### SECTION 4 — Exchange of information on the potential systemic consequences of AIFM activity — ...[^key-651070075613f8da3b167ab6ed3606a0]
+#### SECTION 4 — Exchange of information on the potential systemic consequences of AIFM activity — ...[^c-651070075613f8da3b167ab6ed3606a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -840,11 +840,11 @@ HAS ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-[^key-45872c14951e7a04a315e5375629d555]...
+[^c-45872c14951e7a04a315e5375629d555]...
 
 ## Annotations
 
-[^key-a72b6e22f5dbaba5aa2557e3e032a8a1]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-a72b6e22f5dbaba5aa2557e3e032a8a1]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 174, 1.7.2011, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.174.01.0001.01.ENG).
 
@@ -862,42 +862,42 @@ HAS ADOPTED THIS REGULATION:
 
 [^f00008]: Footnote: Committee of European Banking Supervisors, Guidelines to Article 122a of the Capital Requirements Directive of 31 December 2010, http://www.eba.europa.eu/cebs/media/Publications/Standards%20and%20Guidelines/2010/Application%20of%20Art.%20122a%20of%20the%20CRD/Guidelines.pdf
 
-[^key-f19a22aa657679f0aff5bc8932ac66e8]: Textual amendment: Words in Ch. 2 Section 1 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2019/328/regulation/23) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f19a22aa657679f0aff5bc8932ac66e8]: Textual amendment: Words in Ch. 2 Section 1 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2019/328/regulation/23) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6197648eedcf426f8179dda7949e276b]: Textual amendment: Words in Ch. 2 Section 2 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [23(7)](https://www.legislation.gov.uk/uksi/2019/328/regulation/23) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6197648eedcf426f8179dda7949e276b]: Textual amendment: Words in Ch. 2 Section 2 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [23(7)](https://www.legislation.gov.uk/uksi/2019/328/regulation/23) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9b7c556a220939f4664638e5ceec89c0]: Textual amendment: Words in Ch. 2 Section 3 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [23(11)](https://www.legislation.gov.uk/uksi/2019/328/regulation/23) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b7c556a220939f4664638e5ceec89c0]: Textual amendment: Words in Ch. 2 Section 3 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [23(11)](https://www.legislation.gov.uk/uksi/2019/328/regulation/23) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5e6b1165dc8a3bcdec64c54a76859c5b]: Textual amendment: Words in Ch. 3 Section 1 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [24(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/24) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e6b1165dc8a3bcdec64c54a76859c5b]: Textual amendment: Words in Ch. 3 Section 1 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [24(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/24) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1395da60c23b860cf7e4c47a2d809b98]: Textual amendment: Words in Ch. 3 Section 2 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [25(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/25) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1395da60c23b860cf7e4c47a2d809b98]: Textual amendment: Words in Ch. 3 Section 2 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [25(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/25) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cbcd7c281756a97c2ab8e51e83cd6871]: Textual amendment: Words in Ch. 3 Section 3 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [26(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/26) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cbcd7c281756a97c2ab8e51e83cd6871]: Textual amendment: Words in Ch. 3 Section 3 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [26(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/26) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5da80a7b6d7d9cfae9409a51ffc87423]: Textual amendment: Words in Ch. 3 Section 4 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [27(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/27) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5da80a7b6d7d9cfae9409a51ffc87423]: Textual amendment: Words in Ch. 3 Section 4 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [27(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/27) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2c8ab99d16dce219d505b708b5a47ee3]: Textual amendment: Words in Ch. 3 Section 5 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [28(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/28) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2c8ab99d16dce219d505b708b5a47ee3]: Textual amendment: Words in Ch. 3 Section 5 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [28(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/28) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-837666a8efaefe8ce25ed605b6601334]: Textual amendment: Words in Ch. 3 Section 6 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [29(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/29) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-837666a8efaefe8ce25ed605b6601334]: Textual amendment: Words in Ch. 3 Section 6 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [29(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/29) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8af5344c55a6521385a6eb1f7cb07ad9]: Textual amendment: Words in Ch. 3 Section 7 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [30(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/30) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8af5344c55a6521385a6eb1f7cb07ad9]: Textual amendment: Words in Ch. 3 Section 7 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [30(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/30) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5bc4adf527308bd824e83be67b20508d]: Textual amendment: Words in Ch. 3 Section 8 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [31(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/31) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5bc4adf527308bd824e83be67b20508d]: Textual amendment: Words in Ch. 3 Section 8 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [31(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/31) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-db9ff29da8b12fbd12202fc92408e084]: Textual amendment: Words in Ch. 4 Section 1 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [32(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/32) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-db9ff29da8b12fbd12202fc92408e084]: Textual amendment: Words in Ch. 4 Section 1 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [32(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/32) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-49778893c386768d2ad316be0dc96987]: Textual amendment: Words in Ch. 4 Section 2 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [33(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/33) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-49778893c386768d2ad316be0dc96987]: Textual amendment: Words in Ch. 4 Section 2 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [33(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/33) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-30a56c3bed6696cc0668a2a3eb1f9b54]: Textual amendment: Words in Ch. 4 Section 3 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [34(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/34) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-30a56c3bed6696cc0668a2a3eb1f9b54]: Textual amendment: Words in Ch. 4 Section 3 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [34(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/34) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-30b5c0314d9cf6030df2bd3c58690d92]: Textual amendment: Words in Ch. 4 Section 4 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [35(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/35) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-30b5c0314d9cf6030df2bd3c58690d92]: Textual amendment: Words in Ch. 4 Section 4 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [35(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/35) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a0cfe50de56bd2bd1ff5856fabf1a280]: Textual amendment: Words in Ch. 5 Section 1 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [36(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/36) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a0cfe50de56bd2bd1ff5856fabf1a280]: Textual amendment: Words in Ch. 5 Section 1 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [36(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/36) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-69a195c26fddff8b4b991701b2f22072]: Textual amendment: Words in Ch. 5 Section 2 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [37(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/37) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-69a195c26fddff8b4b991701b2f22072]: Textual amendment: Words in Ch. 5 Section 2 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [37(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/37) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-92e98b2bf3fa1beedad8698ab2ed2d20]: Textual amendment: Words in Ch. 5 Section 3 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [38(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/38) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-92e98b2bf3fa1beedad8698ab2ed2d20]: Textual amendment: Words in Ch. 5 Section 3 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [38(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/38) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-651070075613f8da3b167ab6ed3606a0]: Textual amendment: Words in Ch. 5 Section 4 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [39(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/39) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-651070075613f8da3b167ab6ed3606a0]: Textual amendment: Words in Ch. 5 Section 4 heading omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [39(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/39) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-45872c14951e7a04a315e5375629d555]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [40(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/40) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-45872c14951e7a04a315e5375629d555]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [40(1)](https://www.legislation.gov.uk/uksi/2019/328/regulation/40) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

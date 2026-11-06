@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Destruction of fingerprints.[^key-f8557810880f8d54cc01f6f98642ee1e]
+## 143. Destruction of fingerprints.[^c-f8557810880f8d54cc01f6f98642ee1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8557810880f8d54cc01f6f98642ee1e]: Textual amendment: S. 143 repealed (1.7.2021) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 17(2)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/17/2); [S.I. 2021/771](https://www.legislation.gov.uk/uksi/2021/771), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/771/regulation/2/b)
+[^c-f8557810880f8d54cc01f6f98642ee1e]: Textual amendment: S. 143 repealed (1.7.2021) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 17(2)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/17/2); [S.I. 2021/771](https://www.legislation.gov.uk/uksi/2021/771), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/771/regulation/2/b)

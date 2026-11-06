@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Duty to consult and plan in relation to power to provide school education for pre-school children[^key-e77258a7e5ec806b1cf99d5fc88188a6]
+## 54. Duty to consult and plan in relation to power to provide school education for pre-school children[^c-e77258a7e5ec806b1cf99d5fc88188a6]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ In section 1 of the 1980 Act, after subsection (2A) insert—
 
 ## Annotations
 
-[^key-e77258a7e5ec806b1cf99d5fc88188a6]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2014/8/section/54) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-e77258a7e5ec806b1cf99d5fc88188a6]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2014/8/section/54) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)

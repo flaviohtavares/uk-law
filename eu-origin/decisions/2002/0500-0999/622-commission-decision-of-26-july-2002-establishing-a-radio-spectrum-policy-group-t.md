@@ -38,36 +38,36 @@ establishing a Radio Spectrum Policy Group
 
 (2002/622/EC) (repealed) (revoked)
 
-[^key-b6a56730a18d7cd7de8ec467f18ebbdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6a56730a18d7cd7de8ec467f18ebbdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-b6a56730a18d7cd7de8ec467f18ebbdc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Tasks[^key-b6a56730a18d7cd7de8ec467f18ebbdc]
+## Article 1. Subject matter[^c-b6a56730a18d7cd7de8ec467f18ebbdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Membership[^key-b6a56730a18d7cd7de8ec467f18ebbdc]
+## Article 2. Tasks[^c-b6a56730a18d7cd7de8ec467f18ebbdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Operational arrangements[^key-b6a56730a18d7cd7de8ec467f18ebbdc]
+## Article 3. Membership[^c-b6a56730a18d7cd7de8ec467f18ebbdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Consultation[^key-b6a56730a18d7cd7de8ec467f18ebbdc]
+## Article 4. Operational arrangements[^c-b6a56730a18d7cd7de8ec467f18ebbdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Confidentiality[^key-b6a56730a18d7cd7de8ec467f18ebbdc]
+## Article 5. Consultation[^c-b6a56730a18d7cd7de8ec467f18ebbdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-b6a56730a18d7cd7de8ec467f18ebbdc]
+## Article 6. Confidentiality[^c-b6a56730a18d7cd7de8ec467f18ebbdc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 7. Entry into force[^c-b6a56730a18d7cd7de8ec467f18ebbdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b6a56730a18d7cd7de8ec467f18ebbdc]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b6a56730a18d7cd7de8ec467f18ebbdc]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

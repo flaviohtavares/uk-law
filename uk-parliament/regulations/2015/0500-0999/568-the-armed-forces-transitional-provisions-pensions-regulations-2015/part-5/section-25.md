@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Insertion of new regulation 3 into the FTRS Regulations[^key-d9f33fd8d44e0a48a23bfd0f25cb3983]
+## 25. Insertion of new regulation 3 into the FTRS Regulations[^c-d9f33fd8d44e0a48a23bfd0f25cb3983]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ The FTRS Regulations are amended by inserting, after regulation 2, the following
 
 ## Annotations
 
-[^key-d9f33fd8d44e0a48a23bfd0f25cb3983]: Commencement: Reg. 25 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-d9f33fd8d44e0a48a23bfd0f25cb3983]: Commencement: Reg. 25 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

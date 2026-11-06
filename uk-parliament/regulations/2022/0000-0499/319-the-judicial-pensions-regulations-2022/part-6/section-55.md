@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Meaning of “incapacity for employment”[^key-8defed8598643db5308ae80e20d6a15a]
+## 55. Meaning of “incapacity for employment”[^c-8defed8598643db5308ae80e20d6a15a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of this Chapter, a member’s permanent breakdown in health inv
 
 ## Annotations
 
-[^key-8defed8598643db5308ae80e20d6a15a]: Commencement: Reg. 55 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-8defed8598643db5308ae80e20d6a15a]: Commencement: Reg. 55 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

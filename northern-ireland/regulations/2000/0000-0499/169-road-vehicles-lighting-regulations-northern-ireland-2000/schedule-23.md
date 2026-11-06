@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 23 — Diagram showing where unlit parking is not permitted near a junction[^key-2b37c6d1557ca2603c3c3ba8074d24b2]
+## SCHEDULE 23 — Diagram showing where unlit parking is not permitted near a junction[^c-2b37c6d1557ca2603c3c3ba8074d24b2]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Regulation 27(6)
 
 ## Annotations
 
-[^key-2b37c6d1557ca2603c3c3ba8074d24b2]: Commencement: [Sch. 23](https://www.legislation.gov.uk/nisr/2000/169/schedule/23) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-2b37c6d1557ca2603c3c3ba8074d24b2]: Commencement: [Sch. 23](https://www.legislation.gov.uk/nisr/2000/169/schedule/23) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

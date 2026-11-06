@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-a6beb8bd0755e3334d29fc4b8bf9d4d7] The matters relating to a contract which are specified for the purposes of section 35(1)(b) (matters in relation to which the SSRO must make a determination) are—
+(1)[^c-a6beb8bd0755e3334d29fc4b8bf9d4d7] The matters relating to a contract which are specified for the purposes of section 35(1)(b) (matters in relation to which the SSRO must make a determination) are—
 
 - (a) the defined pricing structure and output metrics that the contractor must use in all reports provided under Part 5 for that contract;
 - (b) the matter mentioned in regulation 51(1)(c) (read as if a reference to the proposed contract were a reference to the contract).
 
-(2)[^key-69ed454a442fa79fc5e01d4025748311] A reference to the SSRO for a determination in relation to the matters mentioned in paragraph (1)(a)[^key-2711cda339ba464bcb6a2f8987509426] must be made—
+(2)[^c-69ed454a442fa79fc5e01d4025748311] A reference to the SSRO for a determination in relation to the matters mentioned in paragraph (1)(a)[^c-2711cda339ba464bcb6a2f8987509426] must be made—
 
 - (a) where the contract is a qualifying defence contract by virtue of section 14(3)—
   - (i) no later than 6 months after the contract is entered into, or
@@ -34,7 +34,7 @@ summary: ''
   - (i) no later than 6 months after the amendment mentioned in section 14(4)(c) or (5)(b) (as the case may be) is made, or
   - (ii) if the contract is subsequently amended in a way that affects those matters, no later than 6 months after the contract is so amended.
 
-(3)[^key-b9ccb8e874833610b3a597a2acdbb7cf] A reference to the SSRO for a determination in relation to the matters mentioned in paragraph (1)(b) must be made within two years of the contract completion date or, if the reference is made in respect of a component, within two years of the component completion date.
+(3)[^c-b9ccb8e874833610b3a597a2acdbb7cf] A reference to the SSRO for a determination in relation to the matters mentioned in paragraph (1)(b) must be made within two years of the contract completion date or, if the reference is made in respect of a component, within two years of the component completion date.
 
 (4) The SSRO must, on an application by a person within section 16(5) in relation to a qualifying defence contract, or a component of such a contract, which has been priced using an alternative pricing method (“the applicable pricing method”)—
 
@@ -59,10 +59,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a6beb8bd0755e3334d29fc4b8bf9d4d7]: Textual amendment: [Reg. 52(1)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/52/1) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [40(a)](https://www.legislation.gov.uk/uksi/2024/420/regulation/40/a)
+[^c-a6beb8bd0755e3334d29fc4b8bf9d4d7]: Textual amendment: [Reg. 52(1)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/52/1) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [40(a)](https://www.legislation.gov.uk/uksi/2024/420/regulation/40/a)
 
-[^key-69ed454a442fa79fc5e01d4025748311]: Textual amendment: Reg. 52(2) substituted (31.1.2019) by [The Single Source Contract (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1350)](https://www.legislation.gov.uk/uksi/2018/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1350/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2018/1350/regulation/4)
+[^c-69ed454a442fa79fc5e01d4025748311]: Textual amendment: Reg. 52(2) substituted (31.1.2019) by [The Single Source Contract (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1350)](https://www.legislation.gov.uk/uksi/2018/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1350/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2018/1350/regulation/4)
 
-[^key-2711cda339ba464bcb6a2f8987509426]: Textual amendment: Words in [reg. 52(2)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/52/2) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [40(b)](https://www.legislation.gov.uk/uksi/2024/420/regulation/40/b)
+[^c-2711cda339ba464bcb6a2f8987509426]: Textual amendment: Words in [reg. 52(2)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/52/2) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [40(b)](https://www.legislation.gov.uk/uksi/2024/420/regulation/40/b)
 
-[^key-b9ccb8e874833610b3a597a2acdbb7cf]: Textual amendment: [Reg. 52(3)-(8)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/52/3) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [40(c)](https://www.legislation.gov.uk/uksi/2024/420/regulation/40/c) (with [reg. 44(1)](https://www.legislation.gov.uk/uksi/2024/420/regulation/44/1))
+[^c-b9ccb8e874833610b3a597a2acdbb7cf]: Textual amendment: [Reg. 52(3)-(8)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/52/3) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [40(c)](https://www.legislation.gov.uk/uksi/2024/420/regulation/40/c) (with [reg. 44(1)](https://www.legislation.gov.uk/uksi/2024/420/regulation/44/1))

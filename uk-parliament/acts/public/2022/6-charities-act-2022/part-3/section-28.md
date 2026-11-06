@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Power to direct change of name of exempt charity[^key-c6ebf93883620afe72aa9c613a90e4c0][^key-ae2fb81daee7783f9ca2a28249dcd868]
+## 28. Power to direct change of name of exempt charity[^c-c6ebf93883620afe72aa9c613a90e4c0][^c-ae2fb81daee7783f9ca2a28249dcd868]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In Schedule 9 to the Charities Act 2011 (transitory modifications), omit paragra
 
 ## Annotations
 
-[^key-c6ebf93883620afe72aa9c613a90e4c0]: Commencement: S. 28 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-c6ebf93883620afe72aa9c613a90e4c0]: Commencement: S. 28 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-ae2fb81daee7783f9ca2a28249dcd868]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/6/section/28) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/15)
+[^c-ae2fb81daee7783f9ca2a28249dcd868]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/6/section/28) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/15)

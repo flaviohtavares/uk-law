@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Polling districts at parliamentary elections: Great Britain[^c19430921][^c14479931][^key-e938cf6ef9c47533fdd5928837f5ffdc]
+## 18A. Polling districts at parliamentary elections: Great Britain[^c19430921][^c14479931][^c-e938cf6ef9c47533fdd5928837f5ffdc]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 - (a) the registration officer who acts for the area must make such adaptations of his register of parliamentary electors as are necessary to take account of the alteration, and
 - (b) the alteration is effective on the date on which the registration officer publishes a notice stating that the adaptations have been made by him.
 
-(6)[^key-206ec3a57eeb8351920695a4fa8b8d49] This section does not apply to Northern Ireland.
+(6)[^c-206ec3a57eeb8351920695a4fa8b8d49] This section does not apply to Northern Ireland.
 
 ## Annotations
 
@@ -49,8 +49,8 @@ summary: ''
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 
-[^key-e938cf6ef9c47533fdd5928837f5ffdc]: Textual amendment: Words in s. 18A heading inserted (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2013/3156/article/9/2/a)
+[^c-e938cf6ef9c47533fdd5928837f5ffdc]: Textual amendment: Words in s. 18A heading inserted (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2013/3156/article/9/2/a)
 
 [^c20196721]: Modification: S. 18A(1) applied (with modifications) by [S.I. 2001/2599](https://www.legislation.gov.uk/uksi/2001/2599), [art. 3](https://www.legislation.gov.uk/uksi/2001/2599/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/2599/schedule/1) (as substituted (10.2.2009) by [S.I. 2009/256](https://www.legislation.gov.uk/uksi/2009/256), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/256/article/1/2), [3](https://www.legislation.gov.uk/uksi/2009/256/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/256/schedule/1))
 
-[^key-206ec3a57eeb8351920695a4fa8b8d49]: Textual amendment: S. 18A(6) inserted (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2013/3156/article/9/2/b)
+[^c-206ec3a57eeb8351920695a4fa8b8d49]: Textual amendment: S. 18A(6) inserted (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2013/3156/article/9/2/b)

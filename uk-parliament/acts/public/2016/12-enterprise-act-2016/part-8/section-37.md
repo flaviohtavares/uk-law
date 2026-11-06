@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Disposal of Crown's shares in UK Green Investment Bank company[^key-01e3ea521166e4a49ff0587bdf897752]
+## 37. Disposal of Crown's shares in UK Green Investment Bank company[^c-01e3ea521166e4a49ff0587bdf897752]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01e3ea521166e4a49ff0587bdf897752]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2016/12/section/37) in force at 18.8.2017 by [S.I. 2017/842](https://www.legislation.gov.uk/uksi/2017/842), [reg. 2](https://www.legislation.gov.uk/uksi/2017/842/regulation/2)
+[^c-01e3ea521166e4a49ff0587bdf897752]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2016/12/section/37) in force at 18.8.2017 by [S.I. 2017/842](https://www.legislation.gov.uk/uksi/2017/842), [reg. 2](https://www.legislation.gov.uk/uksi/2017/842/regulation/2)

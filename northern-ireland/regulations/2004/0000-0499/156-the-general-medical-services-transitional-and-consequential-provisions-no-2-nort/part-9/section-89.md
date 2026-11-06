@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89. Saving of Article 144 of the Trade Union and Labour Relations (Northern Ireland) Order 1995[^key-9c908139024b952c55f5c6af4778dfd2]
+## 89. Saving of Article 144 of the Trade Union and Labour Relations (Northern Ireland) Order 1995[^c-9c908139024b952c55f5c6af4778dfd2]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ Notwithstanding the coming into operation of the amendments to the definition of
 
 ## Annotations
 
-[^key-9c908139024b952c55f5c6af4778dfd2]: Commencement: Art. 89 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-9c908139024b952c55f5c6af4778dfd2]: Commencement: Art. 89 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00046]: Footnote: Paragraph 16 of Schedule 1 was commenced on 1st April 2004 by Article 2 of the 2004 Commencement Order

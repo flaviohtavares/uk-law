@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 255. Costs of proceedings under section 236[^key-e2a1d5c6808dbe23904405d81379afaa]
+## 255. Costs of proceedings under section 236[^c-e2a1d5c6808dbe23904405d81379afaa]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ the costs of the application for the order may be ordered by the court to be pai
 
 ## Annotations
 
-[^key-e2a1d5c6808dbe23904405d81379afaa]: Commencement: [Rule 255](https://www.legislation.gov.uk/uksi/2011/1301/rule/255) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-e2a1d5c6808dbe23904405d81379afaa]: Commencement: [Rule 255](https://www.legislation.gov.uk/uksi/2011/1301/rule/255) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Local planning authorities: general.[^key-6e3b808a442576cc29e90b8ff14dadfb]
+## 1. Local planning authorities: general.[^c-6e3b808a442576cc29e90b8ff14dadfb]
 
 *Extent: E+W*
 
@@ -51,13 +51,13 @@ and references in the planning Acts to a local planning authority in relation to
 
 - (a) this section has[^c14014931] effect subject to sections 4Ato[^c14014941]8A[^c14014951] of this Act [^c14014961]. . .; and[^c14014971]
 - (b) subsections (1) to (2)[^c14014981] have effect subject to sections 2 and 9; and
-- (c) subsection (3) has effect subject to [^c14014991]. . . Schedule 1 (which contains provisions as to the exercise of certain functions under this Act by particular authorities and liaison between them) and Part 1A of Schedule 7A (Biodiversity Gain in England: Local Planning Authority)[^key-dd1f61b7fa860f1efa850e042fa91160].
+- (c) subsection (3) has effect subject to [^c14014991]. . . Schedule 1 (which contains provisions as to the exercise of certain functions under this Act by particular authorities and liaison between them) and Part 1A of Schedule 7A (Biodiversity Gain in England: Local Planning Authority)[^c-dd1f61b7fa860f1efa850e042fa91160].
 
 (6)[^c14015001] The exercise, in relation to Wales, of functions conferred on local planning authorities is subject to [^c14015011]. . . Schedule 1A.
 
 ## Annotations
 
-[^key-6e3b808a442576cc29e90b8ff14dadfb]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1990/8/section/1) excluded (30.6.2015) by [The Swansea Bay Tidal Generating Station Order 2015 (S.I. 2015/1386)](https://www.legislation.gov.uk/uksi/2015/1386), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1), [44(1)](https://www.legislation.gov.uk/uksi/2015/1386/article/44/1) (with [arts. 51](https://www.legislation.gov.uk/uksi/2015/1386/article/51), [53](https://www.legislation.gov.uk/uksi/2015/1386/article/53))
+[^c-6e3b808a442576cc29e90b8ff14dadfb]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1990/8/section/1) excluded (30.6.2015) by [The Swansea Bay Tidal Generating Station Order 2015 (S.I. 2015/1386)](https://www.legislation.gov.uk/uksi/2015/1386), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1), [44(1)](https://www.legislation.gov.uk/uksi/2015/1386/article/44/1) (with [arts. 51](https://www.legislation.gov.uk/uksi/2015/1386/article/51), [53](https://www.legislation.gov.uk/uksi/2015/1386/article/53))
 
 [^c14014881]: Textual amendment: S. 1(1A)(1B) inserted (3.4.1995 for specified purposes and otherwise 1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 18(3)](https://www.legislation.gov.uk/ukpga/1994/19/section/18/3) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 4(1)-(3)](https://www.legislation.gov.uk/uksi/1995/852/article/4/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/852/schedule/2)
 
@@ -81,7 +81,7 @@ and references in the planning Acts to a local planning authority in relation to
 
 [^c14014991]: Textual amendment: Words in s. 1(5)(c) repealed (1.4.1997) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/2560](https://www.legislation.gov.uk/uksi/1996/2560), [art. 2](https://www.legislation.gov.uk/uksi/1996/2560/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2560/schedule)
 
-[^key-dd1f61b7fa860f1efa850e042fa91160]: Textual amendment: Words in s. 1(5)(c) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Consequential Amendments) Regulations 2024 (S.I. 2024/49)](https://www.legislation.gov.uk/uksi/2024/49), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/49/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/49/regulation/4); [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/e)
+[^c-dd1f61b7fa860f1efa850e042fa91160]: Textual amendment: Words in s. 1(5)(c) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Consequential Amendments) Regulations 2024 (S.I. 2024/49)](https://www.legislation.gov.uk/uksi/2024/49), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/49/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/49/regulation/4); [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/e)
 
 [^c14015001]: Textual amendment: S. 1(6) added (3.4.1995 for specified purposes and otherwise 1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 18(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/18/5) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 4(1)-(3)](https://www.legislation.gov.uk/uksi/1995/852/article/4/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/852/schedule/2)
 

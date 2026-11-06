@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Coroners[^key-379592430c1bf8eaf1ca760fd749afe8][^key-adfad4a161e7be52857e39dde1ec789f]
+## 11. Coroners[^c-379592430c1bf8eaf1ca760fd749afe8][^c-adfad4a161e7be52857e39dde1ec789f]
 
 *Extent: E+W+N.I.*
 
@@ -31,6 +31,6 @@ is, or may be, required for purposes of functions of a coroner, he shall not act
 
 ## Annotations
 
-[^key-379592430c1bf8eaf1ca760fd749afe8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2004/30/section/11) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
+[^c-379592430c1bf8eaf1ca760fd749afe8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2004/30/section/11) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
 
-[^key-adfad4a161e7be52857e39dde1ec789f]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2004/30/section/11) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-adfad4a161e7be52857e39dde1ec789f]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2004/30/section/11) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))

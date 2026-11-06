@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205. Licence required for operation of multi-purpose interconnector[^key-80ef71b4e6ddca6af8e25b2a31b9551b]
+## 205. Licence required for operation of multi-purpose interconnector[^c-80ef71b4e6ddca6af8e25b2a31b9551b]
 
 *Extent: E+W+S*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80ef71b4e6ddca6af8e25b2a31b9551b]: Commencement: S. 205 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-80ef71b4e6ddca6af8e25b2a31b9551b]: Commencement: S. 205 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)

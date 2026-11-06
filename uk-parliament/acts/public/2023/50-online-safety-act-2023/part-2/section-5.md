@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Disapplication of Act to certain parts of services[^key-2b33442f716a427b33e62ac177300f23]
+## 5. Disapplication of Act to certain parts of services[^c-2b33442f716a427b33e62ac177300f23]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b33442f716a427b33e62ac177300f23]: Commencement: S. 5 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/a)
+[^c-2b33442f716a427b33e62ac177300f23]: Commencement: S. 5 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/a)

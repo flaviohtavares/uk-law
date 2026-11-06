@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Transfer of property, rights and liabilities to the OGA[^key-a5060c5fc61ba44d4f88d6b064f1c10b]
+## 3. Transfer of property, rights and liabilities to the OGA[^c-a5060c5fc61ba44d4f88d6b064f1c10b]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5060c5fc61ba44d4f88d6b064f1c10b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/20/section/3) in force at 12.7.2016 by [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/602/regulation/3/b) (as substituted by S.I. 2016/710, reg. 2)
+[^c-a5060c5fc61ba44d4f88d6b064f1c10b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/20/section/3) in force at 12.7.2016 by [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/602/regulation/3/b) (as substituted by S.I. 2016/710, reg. 2)

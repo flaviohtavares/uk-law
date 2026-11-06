@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69J. Interpretation of Part 4A[^key-ef70bbf2419afa46388f7b74ad26523a]
+## 69J. Interpretation of Part 4A[^c-ef70bbf2419afa46388f7b74ad26523a]
 
 *Extent: N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 - “**closure order**” has the meaning given in Article 69B(2);
 - “**extension**”, in relation to a closure order, means an extension of the order under Article 69C;
-- [^key-7f426111f67157796562487397cbb051]...
+- [^c-7f426111f67157796562487397cbb051]...
 - “**responsible senior police officer**”, in relation to a closure order, means—
   - (a) the senior police officer who made the order, or
   - (b) if another senior police officer is designated for the purpose by the district commander for the police district in which the premises are situated, that other officer;
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef70bbf2419afa46388f7b74ad26523a]: Textual amendment: Pt. 4A inserted (10.12.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 1(1)](https://www.legislation.gov.uk/nia/2011/18/section/1/1), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
+[^c-ef70bbf2419afa46388f7b74ad26523a]: Textual amendment: Pt. 4A inserted (10.12.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 1(1)](https://www.legislation.gov.uk/nia/2011/18/section/1/1), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
 
-[^key-7f426111f67157796562487397cbb051]: Textual amendment: Words in [art. 69J(4)](https://www.legislation.gov.uk/nisi/1996/3158/article/69J/4) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 110(17)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/110/17), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-7f426111f67157796562487397cbb051]: Textual amendment: Words in [art. 69J(4)](https://www.legislation.gov.uk/nisi/1996/3158/article/69J/4) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 110(17)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/110/17), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

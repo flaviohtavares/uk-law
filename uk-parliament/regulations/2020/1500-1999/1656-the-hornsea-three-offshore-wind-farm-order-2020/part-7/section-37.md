@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Arbitration[^key-8c6b43f6717700ba1ea746d80de4e954]
+## 37. Arbitration[^c-8c6b43f6717700ba1ea746d80de4e954]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c6b43f6717700ba1ea746d80de4e954]: Commencement: Art. 37 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-8c6b43f6717700ba1ea746d80de4e954]: Commencement: Art. 37 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)

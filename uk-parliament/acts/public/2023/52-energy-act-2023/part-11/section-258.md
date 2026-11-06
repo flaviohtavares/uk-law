@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 258. ESOS action plans[^key-088927026ca6ebb5cf4c8fae8b7bab2f]
+## 258. ESOS action plans[^c-088927026ca6ebb5cf4c8fae8b7bab2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-088927026ca6ebb5cf4c8fae8b7bab2f]: Commencement: S. 258 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)
+[^c-088927026ca6ebb5cf4c8fae8b7bab2f]: Commencement: S. 258 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)

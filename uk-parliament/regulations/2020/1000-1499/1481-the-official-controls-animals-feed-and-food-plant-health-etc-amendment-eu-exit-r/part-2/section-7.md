@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Amendments to Title 2, Chapter 3[^key-a94891da5a54ed8bb7d64937cc9999b5]
+## 7. Amendments to Title 2, Chapter 3[^c-a94891da5a54ed8bb7d64937cc9999b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 28(2), for “a Member State” substitute “ the appropriate author
 
 ## Annotations
 
-[^key-a94891da5a54ed8bb7d64937cc9999b5]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-a94891da5a54ed8bb7d64937cc9999b5]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)

@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Introductory
 
-### 1. Entitlement to receive money towards costs of childcare[^c2231928][^key-1d10fe3406d37a8cd5262b477eaf832e][^key-ec4a3f1efaef06c6281d499436f085ad][^key-386e656360bfe3c1b2875d8d722bf436][^key-95e60d7fd042a6e5c807c12e7e86f363][^key-70fd050f4e59406092365ebffce3021f][^key-2a3845d2ba03ba3e34c42cd0cce2b754][^key-9fb7d05517b1100ea6c132bb1bd77890]
+### 1. Entitlement to receive money towards costs of childcare[^c2231928][^c-1d10fe3406d37a8cd5262b477eaf832e][^c-ec4a3f1efaef06c6281d499436f085ad][^c-386e656360bfe3c1b2875d8d722bf436][^c-95e60d7fd042a6e5c807c12e7e86f363][^c-70fd050f4e59406092365ebffce3021f][^c-2a3845d2ba03ba3e34c42cd0cce2b754][^c-9fb7d05517b1100ea6c132bb1bd77890]
 
 (1) This Act contains provision for HMRC to make payments (“top-up payments”) to be used towards the costs of qualifying childcare.
 
@@ -74,7 +74,7 @@ For the meaning of “qualifying childcare”, see section 2.
 
 (12) Sections 63 and 64 contain provision for the withdrawal of tax exemptions in respect of certain kinds of employer-provided childcare schemes.
 
-### 2. Qualifying childcare[^c2231929][^key-139441a8a79d6f3bb208f230cc1a3dd0][^key-bc6db0a770ce664c7314dd68a83cb593]
+### 2. Qualifying childcare[^c2231929][^c-139441a8a79d6f3bb208f230cc1a3dd0][^c-bc6db0a770ce664c7314dd68a83cb593]
 
 (1) In this Act “**childcare**” means any form of care or supervised activity for a child that is not provided in the course of the child's compulsory education.
 
@@ -98,7 +98,7 @@ For the meaning of “qualifying childcare”, see section 2.
 
 ## Eligibility
 
-### 3. Eligible persons[^c2231930][^key-28ee32975d54c6fce7dcf7912f504605][^key-e7647a7c7e9da2c63740224ec87c0e1a][^key-89882000f44e4d83000d13a84f1df70e][^key-2710b2f68bf2aa68dbadff52f6a9fa10][^key-492d3b2465a7d20640ad500fa548b014][^key-c0bcad857f6a3935d3537dcf81d3bdfb][^key-60f82efda9a8fa6a39eb8ea4ad8ee16b]
+### 3. Eligible persons[^c2231930][^c-28ee32975d54c6fce7dcf7912f504605][^c-e7647a7c7e9da2c63740224ec87c0e1a][^c-89882000f44e4d83000d13a84f1df70e][^c-2710b2f68bf2aa68dbadff52f6a9fa10][^c-492d3b2465a7d20640ad500fa548b014][^c-c0bcad857f6a3935d3537dcf81d3bdfb][^c-60f82efda9a8fa6a39eb8ea4ad8ee16b]
 
 (1) A person is an eligible person for an entitlement period if—
 
@@ -116,7 +116,7 @@ For the meaning of “qualifying childcare”, see section 2.
 
 (5) Regulations may make provision about when a person is, or is not, to be regarded as another person's partner for the purposes of this Act.
 
-### 4. Declarations of eligibility[^c2231931][^key-6a6053a4424eb7e7025ac0962169e41d][^key-bd3b1d392e9571de067db83f937db331][^key-90756a7211a0eab7dd3dc8de01424676][^key-7cb4e19612a17ccaceb007ba8b7d8e7b][^key-17529bfab165cf12c0e5d503399ec25b][^key-c14903cef3250b05f0bb75be6f370051][^key-af2277eefc00b90b27bfd90eb9e7e2bf]
+### 4. Declarations of eligibility[^c2231931][^c-6a6053a4424eb7e7025ac0962169e41d][^c-bd3b1d392e9571de067db83f937db331][^c-90756a7211a0eab7dd3dc8de01424676][^c-7cb4e19612a17ccaceb007ba8b7d8e7b][^c-17529bfab165cf12c0e5d503399ec25b][^c-c14903cef3250b05f0bb75be6f370051][^c-af2277eefc00b90b27bfd90eb9e7e2bf]
 
 (1) For the purposes of this Act a “declaration of eligibility” is a statement made by a person for an entitlement period which states that the person is an eligible person for the entitlement period.
 
@@ -154,7 +154,7 @@ For what is meant by an “active” childcare account, see section 17(3).
 
 (7) In subsection (6) “**specified**” means specified in the regulations.
 
-### 5. Entitlement periods[^c2231932][^key-340d77b21f4e816d5e66fe79efc9589d][^key-82f4168514bc58aff7024794b271759f]
+### 5. Entitlement periods[^c2231932][^c-340d77b21f4e816d5e66fe79efc9589d][^c-82f4168514bc58aff7024794b271759f]
 
 (1) The length of an entitlement period is 3 months.
 
@@ -170,15 +170,15 @@ This is subject to the following provision.
 - (a) provision for determining when entitlement periods are to begin or end, and
 - (b) provision enabling HMRC, in circumstances specified in the regulations, to vary the length of an entitlement period in particular cases.
 
-(4) Provision made by virtue of subsection (3)(b) may not enable HMRC to vary the length of an entitlement period by more than 2 months[^key-0654b0a379c56755de716d336c04e000] .
+(4) Provision made by virtue of subsection (3)(b) may not enable HMRC to vary the length of an entitlement period by more than 2 months[^c-0654b0a379c56755de716d336c04e000] .
 
 ## Conditions of eligibility
 
-### 6. The person must be 16 or over[^key-9d576bab391aec1954cbeb618e0c6b6a][^key-bbab2619ecce796a2a2c774b26085fd8][^key-216e9ef4cab8af48ef1a158b719536d5][^key-a7fc8e2262a0870cb79643260dd48fe9][^key-8727d6eee7ec0778edc87f7884cdf14f][^key-2567a97de6a9339a86736dcc26210604][^key-2c03615b5a774762fa57538aaa4be699]
+### 6. The person must be 16 or over[^c-9d576bab391aec1954cbeb618e0c6b6a][^c-bbab2619ecce796a2a2c774b26085fd8][^c-216e9ef4cab8af48ef1a158b719536d5][^c-a7fc8e2262a0870cb79643260dd48fe9][^c-8727d6eee7ec0778edc87f7884cdf14f][^c-2567a97de6a9339a86736dcc26210604][^c-2c03615b5a774762fa57538aaa4be699]
 
 A person meets the condition of eligibility in this section if the person is at least 16 years old on the date of the declaration.
 
-### 7. The person must be responsible for the child[^c2231933][^key-8842b2f36cb00efc4d4d0231f69ae0d1][^key-24e2e3ac89a14c7e3e3489a7c0f03f7a][^key-39d4eb89a2107b4f295a3a114560527d][^key-d1beab4e22dd7135831d948eb66e704e][^key-9118561ed2185f7934c403be60e1d04e][^key-5935f37041f4361e44dbba99112048f3][^key-653f89fa5aabf9d2a0929de04fae25fa]
+### 7. The person must be responsible for the child[^c2231933][^c-8842b2f36cb00efc4d4d0231f69ae0d1][^c-24e2e3ac89a14c7e3e3489a7c0f03f7a][^c-39d4eb89a2107b4f295a3a114560527d][^c-d1beab4e22dd7135831d948eb66e704e][^c-9118561ed2185f7934c403be60e1d04e][^c-5935f37041f4361e44dbba99112048f3][^c-653f89fa5aabf9d2a0929de04fae25fa]
 
 (1) A person meets the condition of eligibility in this section if, at the date of the declaration, the person is responsible for the relevant child.
 
@@ -186,7 +186,7 @@ A person meets the condition of eligibility in this section if the person is at 
 
 (3) Regulations may make provision as to the circumstances in which a person is, or is not, to be regarded as responsible for a child for the purposes of this Act.
 
-### 8. The person must be in the UK[^c2231934][^key-bb537cc0e9694144521341bde6dbaf8b][^key-55352e0400c9e5624a0d035d666b7575][^key-04695880a3542c25fae552769883e6b9][^key-4d23f9c610958570cfb463b17ebdbe25][^key-9b99ac03e35edf379912b44fda534d2a][^key-af43b7d3ab8312fa44d2863d799e2e5d][^key-12447502ecb301c91ed1758ab89dc620]
+### 8. The person must be in the UK[^c2231934][^c-bb537cc0e9694144521341bde6dbaf8b][^c-55352e0400c9e5624a0d035d666b7575][^c-04695880a3542c25fae552769883e6b9][^c-4d23f9c610958570cfb463b17ebdbe25][^c-9b99ac03e35edf379912b44fda534d2a][^c-af43b7d3ab8312fa44d2863d799e2e5d][^c-12447502ecb301c91ed1758ab89dc620]
 
 (1) A person meets the condition of eligibility in this section if the person is in the United Kingdom on the date of the declaration.
 
@@ -198,7 +198,7 @@ A person meets the condition of eligibility in this section if the person is at 
 
 (3) In subsection (2) “**specified**” means specified in the regulations.
 
-### 9. The person and his or her partner must be in qualifying paid work[^c2231935][^key-bcdc3bbe6f0926eafe7eff8cddd390c2][^key-40065c5b6e00d2ad1d109d3cbcf2baf1][^key-328af98823eb2e04174f27ec0ed38f6e][^key-982e2a927144f068cd8b8a90bbd6d7f6][^key-04b29397fd667e4670829ede24962201][^key-9edddca800b21a6f427ec56f57565458][^key-28c42127a5d112b8455fee1179485115]
+### 9. The person and his or her partner must be in qualifying paid work[^c2231935][^c-bcdc3bbe6f0926eafe7eff8cddd390c2][^c-40065c5b6e00d2ad1d109d3cbcf2baf1][^c-328af98823eb2e04174f27ec0ed38f6e][^c-982e2a927144f068cd8b8a90bbd6d7f6][^c-04b29397fd667e4670829ede24962201][^c-9edddca800b21a6f427ec56f57565458][^c-28c42127a5d112b8455fee1179485115]
 
 (1) A person meets the condition of eligibility in this section if the person is in qualifying paid work on the date of the declaration.
 
@@ -213,7 +213,7 @@ A person meets the condition of eligibility in this section if the person is at 
 - (b) provide that a person is in qualifying paid work only if the person's expected income from the work for the period, taken together with the person's expected income from any other work for the period, is greater than or equal to an amount specified in, or determined in accordance with, the regulations, and
 - (c) specify cases in which the condition mentioned in paragraph (b) does not need to be met.
 
-### 10. The income of the person and his or her partner must not exceed limit[^c2231936][^key-6c8776da15788848a4928ef67fece636][^key-1ba17bccb61935886ffb1543111125c0][^key-c5fa814afb1fe8f923c96d648e047659][^key-619c0c07dbda611144155cb4d8ba5f3b][^key-516244d788c5b81cbc4579b6155fb5e9][^key-1fa08fb6abfe3387ea367d58ef5368e3][^key-38085e385684fe1bc3b06dd4a12d945f]
+### 10. The income of the person and his or her partner must not exceed limit[^c2231936][^c-6c8776da15788848a4928ef67fece636][^c-1ba17bccb61935886ffb1543111125c0][^c-c5fa814afb1fe8f923c96d648e047659][^c-619c0c07dbda611144155cb4d8ba5f3b][^c-516244d788c5b81cbc4579b6155fb5e9][^c-1fa08fb6abfe3387ea367d58ef5368e3][^c-38085e385684fe1bc3b06dd4a12d945f]
 
 (1) A person meets the condition of eligibility in this section if, at the date of the declaration, the person's expected income for the relevant tax year is not greater than an amount specified in, or determined in accordance with, regulations for the purposes of this section.
 
@@ -229,7 +229,7 @@ A person meets the condition of eligibility in this section if the person is at 
 
 (5) In this section “**the relevant tax year**”, in relation to a declaration of eligibility, means the tax year in which the date of the declaration falls.
 
-### 11. Neither the person nor his or her partner may be claiming universal credit[^c2231937][^key-dbb58f4f52799af0802a12f34bece485][^key-22369dbd9fd85e39209934d8a4bf3c58][^key-5cd51f32c3ee56f28f503099379ccde2][^key-bad4791cd2d91233e2795fdef1e601da][^key-4394edab986d567dfbc1734c8857a311][^key-f61fc1941ba043dcc946a137d66c89e7][^key-821fc03eb796911d922b2a413f0392d0][^key-9a258a3516d591cfbf02b0237a2fc8fe]
+### 11. Neither the person nor his or her partner may be claiming universal credit[^c2231937][^c-dbb58f4f52799af0802a12f34bece485][^c-22369dbd9fd85e39209934d8a4bf3c58][^c-5cd51f32c3ee56f28f503099379ccde2][^c-bad4791cd2d91233e2795fdef1e601da][^c-4394edab986d567dfbc1734c8857a311][^c-f61fc1941ba043dcc946a137d66c89e7][^c-821fc03eb796911d922b2a413f0392d0][^c-9a258a3516d591cfbf02b0237a2fc8fe]
 
 (1) A person meets the condition of eligibility in this section if, at the date of the declaration—
 
@@ -252,7 +252,7 @@ A person meets the condition of eligibility in this section if the person is at 
 - (a) Part 1 of the Welfare Reform Act 2012, or
 - (b) any provision made for Northern Ireland which corresponds to that Part of that Act.
 
-### 12. The person and his or her partner must not be in a relevant childcare scheme[^key-de192cbe04ad7ab684843b2e11e7bdb2][^key-54c0b0b79a18127ad62dba2385d6ed2b][^key-b7940b1f136aebf584f7b226f0a08c6f][^key-dbffb4c0abe52947ac7d961d0ba911b2][^key-9edb3eb6c5242aa39293f9224130af29][^key-860cdaf6d9279c05ae38727692d5d83e][^key-edc6efa38042ce558685b4f195ea3e57]
+### 12. The person and his or her partner must not be in a relevant childcare scheme[^c-de192cbe04ad7ab684843b2e11e7bdb2][^c-54c0b0b79a18127ad62dba2385d6ed2b][^c-b7940b1f136aebf584f7b226f0a08c6f][^c-dbffb4c0abe52947ac7d961d0ba911b2][^c-9edb3eb6c5242aa39293f9224130af29][^c-860cdaf6d9279c05ae38727692d5d83e][^c-edc6efa38042ce558685b4f195ea3e57]
 
 (1) A person (“P”) meets the condition of eligibility in this section if, at the date of the declaration—
 
@@ -280,7 +280,7 @@ A person meets the condition of eligibility in this section if the person is at 
 
 (6) For provision enabling HMRC to recover top-up payments where P fails to give P's employer a childcare account notice as mentioned in subsection (1)(b) or (c), see section 39.
 
-### 13. Neither the person nor his or her partner may be receiving other childcare support[^key-01c47866a99dc33086e3a4e98c372fd1][^key-b0675349d94bd61a6e41932f4af67d0d][^key-886ef813ca976d10f83643665b18b8ec][^key-b360902728f6eb17e48232038401883b][^key-5cf864c66506bae0ac084f0979639e16][^key-dea66e3c54534afbc426e639063468ec][^key-6fe4703d64a838d2203704a086391466][^key-19bdae356528c00c6506f6c1e1d162bf]
+### 13. Neither the person nor his or her partner may be receiving other childcare support[^c-01c47866a99dc33086e3a4e98c372fd1][^c-b0675349d94bd61a6e41932f4af67d0d][^c-886ef813ca976d10f83643665b18b8ec][^c-b360902728f6eb17e48232038401883b][^c-5cf864c66506bae0ac084f0979639e16][^c-dea66e3c54534afbc426e639063468ec][^c-6fe4703d64a838d2203704a086391466][^c-19bdae356528c00c6506f6c1e1d162bf]
 
 (1) A person meets the condition of eligibility in this section if, at the date of the declaration—
 
@@ -309,7 +309,7 @@ A person meets the condition of eligibility in this section if the person is at 
 
 ## Qualifying children
 
-### 14. Qualifying child[^c2231938][^key-d4aa8ec7ab5983b9ad26c2aecc8eec60][^key-6dd2db1d021af53fa61524aaf36516b1][^key-6891ccaad8f9f155c91fd64ea1246c54][^key-46b13992c9e360312ed0b7bec27dd9ab][^key-81eb081c1ab46a41020cebb44380828a][^key-e8b0311fd369c2de39c26d6f7ee0e670][^key-f479ebd2dc700e9e64c4530da5ffc81d]
+### 14. Qualifying child[^c2231938][^c-d4aa8ec7ab5983b9ad26c2aecc8eec60][^c-6dd2db1d021af53fa61524aaf36516b1][^c-6891ccaad8f9f155c91fd64ea1246c54][^c-46b13992c9e360312ed0b7bec27dd9ab][^c-81eb081c1ab46a41020cebb44380828a][^c-e8b0311fd369c2de39c26d6f7ee0e670][^c-f479ebd2dc700e9e64c4530da5ffc81d]
 
 (1) For the purposes of this Act “**qualifying child**” means a child of a description specified in regulations.
 
@@ -317,7 +317,7 @@ A person meets the condition of eligibility in this section if the person is at 
 
 ## Childcare accounts
 
-### 15. Childcare accounts[^c2231939][^key-f44b0f075551b5a45e29bfceaa0c08b7][^key-2ab63eb0ca94ec6d581435660f515a90][^key-6f0cdc3ab185850ca0a7a9b5345f408d][^key-c9f30ecb3a4ad143000fa7694a17f6c9][^key-921b75482b01f0ab2c53d62a3ba311dd][^key-f7ade64f2deb0b9cd40755d3a49214d5][^key-a8f8f9cf5a698ba35718e4dd45f60368]
+### 15. Childcare accounts[^c2231939][^c-f44b0f075551b5a45e29bfceaa0c08b7][^c-2ab63eb0ca94ec6d581435660f515a90][^c-6f0cdc3ab185850ca0a7a9b5345f408d][^c-c9f30ecb3a4ad143000fa7694a17f6c9][^c-921b75482b01f0ab2c53d62a3ba311dd][^c-f7ade64f2deb0b9cd40755d3a49214d5][^c-a8f8f9cf5a698ba35718e4dd45f60368]
 
 (1) In this Act “**childcare account**” means an account which—
 
@@ -357,7 +357,7 @@ A person meets the condition of eligibility in this section if the person is at 
 - (a) the “**account-holder**”, in relation to a childcare account, means the person who holds the childcare account, and
 - (b) the “**account provider**”, in relation to a childcare account, means the person or body who provides the childcare account.
 
-### 16. Account providers[^key-0a284c47a507d4d88cdca5dd4b007e90][^key-15bca689cb9a30e74a7ca0714f8ed644]
+### 16. Account providers[^c-0a284c47a507d4d88cdca5dd4b007e90][^c-15bca689cb9a30e74a7ca0714f8ed644]
 
 (1) Childcare accounts may be provided by any of the following—
 
@@ -375,7 +375,7 @@ A person meets the condition of eligibility in this section if the person is at 
 - (b) any requirement for the account provider to notify HMRC of any matter, or for HMRC to notify the account provider of any matter, is to be disregarded, and
 - (c) any requirement for the account provider to give anything to HMRC, or for HMRC to give anything to the account provider, is to be disregarded.
 
-### 17. Opening a childcare account[^c2231940][^key-ba58907f758645db8a6de5ec93835ad6][^key-8989518303d2ad92355c9cb47f2c03f8][^key-356bd16e615ec67a17bc5e0622d824d6][^key-4915fc695a32df2594a0de5a5c6cfe79][^key-8eaaa7c27949c199d2ee6e6992d8ba1a][^key-809f038926acdda4d7a05440402f6408][^key-42752bfca531e9d91a58158712c0669d]
+### 17. Opening a childcare account[^c2231940][^c-ba58907f758645db8a6de5ec93835ad6][^c-8989518303d2ad92355c9cb47f2c03f8][^c-356bd16e615ec67a17bc5e0622d824d6][^c-4915fc695a32df2594a0de5a5c6cfe79][^c-8eaaa7c27949c199d2ee6e6992d8ba1a][^c-809f038926acdda4d7a05440402f6408][^c-42752bfca531e9d91a58158712c0669d]
 
 (1) A person who wishes to receive top-up payments (the “applicant”) must make an application to HMRC to open a childcare account.
 
@@ -399,7 +399,7 @@ A person meets the condition of eligibility in this section if the person is at 
 
 (5) In subsection (4) “**specified**” means specified in the regulations.
 
-### 18. Cases where there is more than one eligible person[^key-ba3a96899d7faccc01335b990b25722e][^key-4959d4ae5683b2d9720cf2ab76a0ecc3][^key-94c70aa4cd605674f1ada8aa088e0c83][^key-7e2ff5ce04603d13587450bc4d9e68af][^key-466783e342bb1eba9f9768d119753f2e][^key-9dcf9d4987d0919c2c4420d30e9a531f][^key-b59d1b5dc055f240a99be78e2b1af0db]
+### 18. Cases where there is more than one eligible person[^c-ba3a96899d7faccc01335b990b25722e][^c-4959d4ae5683b2d9720cf2ab76a0ecc3][^c-94c70aa4cd605674f1ada8aa088e0c83][^c-7e2ff5ce04603d13587450bc4d9e68af][^c-466783e342bb1eba9f9768d119753f2e][^c-9dcf9d4987d0919c2c4420d30e9a531f][^c-b59d1b5dc055f240a99be78e2b1af0db]
 
 (1) If two or more persons have applied to open a childcare account in respect of the same child, HMRC may determine which of them (if any) may open a childcare account in respect of the child.
 
@@ -414,7 +414,7 @@ HMRC may determine which of them (if any) may hold an active childcare account i
 
 (3) For provision enabling HMRC to make an account restriction order to give effect to a determination under subsection (2), see section 24.
 
-### 19. Payments into childcare accounts[^c2231941][^key-be54ec6b82ed5a793b3008e076615f7f][^key-0c30028fa96892e4cf6258f76af684c6][^key-8c1a11106f24356f9c90d5d81f722093][^key-2611a187fbf55cba5eb533bb52e6165f][^key-657e095db8a13dda59b4700a487577ca][^key-d34d45876776b3eb97561242d1781792][^key-86b1b53a8e9db7d2a270effdf417258d]
+### 19. Payments into childcare accounts[^c2231941][^c-be54ec6b82ed5a793b3008e076615f7f][^c-0c30028fa96892e4cf6258f76af684c6][^c-8c1a11106f24356f9c90d5d81f722093][^c-2611a187fbf55cba5eb533bb52e6165f][^c-657e095db8a13dda59b4700a487577ca][^c-d34d45876776b3eb97561242d1781792][^c-86b1b53a8e9db7d2a270effdf417258d]
 
 (1) In this Act “**qualifying payment**” means any payment made into a childcare account, other than—
 
@@ -434,7 +434,7 @@ This is subject to any provision made by or under this Act.
 
 (4) But the sum of any qualifying payments made into a childcare account in an entitlement period must not exceed the relevant maximum for the entitlement period.
 
-(5) The relevant maximum for an entitlement period is—[^key-5c5c189f8b99e934e845b452744d82da]
+(5) The relevant maximum for an entitlement period is—[^c-5c5c189f8b99e934e845b452744d82da]
 
 - (a) in the case of a disabled child, £4,000, and
 - (b) in the case of any other child, £2,000.
@@ -452,9 +452,9 @@ This is subject to subsection (6).
 
 (9) The account provider must notify HMRC of any qualifying payments made into a childcare account.
 
-(10)[^key-df7ff83848f579added71af49688525a] In subsection (5) “disabled child” is to be read in accordance with regulations made under section 14(1).
+(10)[^c-df7ff83848f579added71af49688525a] In subsection (5) “disabled child” is to be read in accordance with regulations made under section 14(1).
 
-### 20. Payments that may be made from childcare accounts[^c2231942][^key-0e401de35a8580ab52982da0c0c51143][^key-8c7acdedc7b40688d00ff6004ee802ca][^key-13bb18efbd524ef87d76bfd0d54cbe62][^key-ff446a1ba5a759cc40578523d1d5d34b][^key-557e01502fa44d3f2f078fee087b916e][^key-841361072bc92ceb1aac5dd08d2d7105][^key-505dd487ad38ae0efd3a3a7e8ce8a22c]
+### 20. Payments that may be made from childcare accounts[^c2231942][^c-0e401de35a8580ab52982da0c0c51143][^c-8c7acdedc7b40688d00ff6004ee802ca][^c-13bb18efbd524ef87d76bfd0d54cbe62][^c-ff446a1ba5a759cc40578523d1d5d34b][^c-557e01502fa44d3f2f078fee087b916e][^c-841361072bc92ceb1aac5dd08d2d7105][^c-505dd487ad38ae0efd3a3a7e8ce8a22c]
 
 (1) The only payments which the account-holder may authorise to be made from a childcare account are—
 
@@ -485,7 +485,7 @@ so much of the payment as is properly attributable to the costs of qualifying ch
 
 (8) For the meaning of “qualifying childcare”, see section 2.
 
-### 21. Calculating the top-up element of payments etc[^key-5d7ad55aa1e4cf98c98fe7ec1b782cee][^key-6fd9aa4229c207c2e71c030df2453e42][^key-ec3ea9699d15264b7b04e3c32ea42982][^key-f7f097292a397047b33b4870c61e9b99][^key-3d5e8e6f8164d442b7d0401bd935e5b5][^key-2fa6ca481a20a1cbeaaae45b42a45cca][^key-0f150a08cd9c27083c3b0a253bdc5109]
+### 21. Calculating the top-up element of payments etc[^c-5d7ad55aa1e4cf98c98fe7ec1b782cee][^c-6fd9aa4229c207c2e71c030df2453e42][^c-ec3ea9699d15264b7b04e3c32ea42982][^c-f7f097292a397047b33b4870c61e9b99][^c-3d5e8e6f8164d442b7d0401bd935e5b5][^c-2fa6ca481a20a1cbeaaae45b42a45cca][^c-0f150a08cd9c27083c3b0a253bdc5109]
 
 (1) For the purposes of this Act the “top-up element” of any amount is an amount equal to the relevant percentage of that amount.
 
@@ -495,7 +495,7 @@ so much of the payment as is properly attributable to the costs of qualifying ch
 
 where R is the percentage for the time being specified in section 1(4).
 
-### 22. Withdrawals[^key-effdf0062429db685eacf34be4af5d6e][^key-f9eebe470c17257f4136ccaea12f6974][^key-2ad1da3c874a94f2b3a973d3cb26233a][^key-4fa2e44e47d7bb3989316f82c3f86670][^key-cbb6e6f798bbe3355f4ba6d16b6bb446][^key-016d7f2862a8d24e63347c8872f5ce99][^key-dd5f8095b85dc6b90d434912f2f3f0b3]
+### 22. Withdrawals[^c-effdf0062429db685eacf34be4af5d6e][^c-f9eebe470c17257f4136ccaea12f6974][^c-2ad1da3c874a94f2b3a973d3cb26233a][^c-4fa2e44e47d7bb3989316f82c3f86670][^c-cbb6e6f798bbe3355f4ba6d16b6bb446][^c-016d7f2862a8d24e63347c8872f5ce99][^c-dd5f8095b85dc6b90d434912f2f3f0b3]
 
 (1) Where the account-holder makes a withdrawal from a childcare account, the account provider must pay the corresponding top-up amount to HMRC from the childcare account.
 
@@ -511,7 +511,7 @@ where R is the percentage for the time being specified in section 1(4).
 
 (5) A withdrawal may not be made from a childcare account at any time when a top-up payment is payable into the account.
 
-### 23. Refunds of payments made from childcare accounts[^key-b7e89b196bb7177b8d9e2da457c415de][^key-315ad517ae916ddf675a3dea5eb375d5][^key-2d3148788d9d7a7df583e9580c6d21e9][^key-f0a46854eb09e65e8875253dcd7e078f][^key-62690f0553752348146d9c117f6636cf][^key-f99ecd1cc680d2679cdc3b6c4e422d2f][^key-fd53d355f0c770b23312ae3cb37fdc10]
+### 23. Refunds of payments made from childcare accounts[^c-b7e89b196bb7177b8d9e2da457c415de][^c-315ad517ae916ddf675a3dea5eb375d5][^c-2d3148788d9d7a7df583e9580c6d21e9][^c-f0a46854eb09e65e8875253dcd7e078f][^c-62690f0553752348146d9c117f6636cf][^c-f99ecd1cc680d2679cdc3b6c4e422d2f][^c-fd53d355f0c770b23312ae3cb37fdc10]
 
 (1) Where—
 
@@ -541,7 +541,7 @@ the person must pay the repayable amount to the person or body who was the accou
 
 (For provision about calculating the top-up element of an amount, see section 21.)
 
-### 24. Imposing restrictions on childcare accounts[^c2231943][^key-2a77db7b9f403f441cf1738eea62fb7c][^key-341f90148e6e073ee9d1ba683c663f3a][^key-54b92df9b37daf702488e63a5cdf6dc3][^key-42dcf6530676af7a4481d4e6938d7f7f][^key-a053052fe5d7d0819a5edf149259ed52][^key-e2b8b1a23a784b235bcd13f7884a70e8][^key-1d8f54234e96f560e7bbf76a61f57f1d]
+### 24. Imposing restrictions on childcare accounts[^c2231943][^c-2a77db7b9f403f441cf1738eea62fb7c][^c-341f90148e6e073ee9d1ba683c663f3a][^c-54b92df9b37daf702488e63a5cdf6dc3][^c-42dcf6530676af7a4481d4e6938d7f7f][^c-a053052fe5d7d0819a5edf149259ed52][^c-e2b8b1a23a784b235bcd13f7884a70e8][^c-1d8f54234e96f560e7bbf76a61f57f1d]
 
 (1) If such conditions as may be specified in regulations are met, HMRC may make an account restriction order.
 
@@ -571,7 +571,7 @@ the person must pay the repayable amount to the person or body who was the accou
 - (a) HMRC must give a copy of the order to the account-holder and to the account provider, and
 - (b) the account provider must comply with the order.
 
-### 25. Closure of childcare accounts[^c2231944][^key-f7380fdd4736598bd076e4adc13b4744][^key-44ca8ac2c43fa53961771de8a9b95d96][^key-287a21640f06a37ff16752fc53ea4145][^key-e39eeee0983f6a2e77cdb67cabc6c346][^key-b47047cfb33717bce21b921c7365fde2][^key-40c269144efed40d72545e893a326e1a][^key-7214a876f8bffd333822f45d9609a301]
+### 25. Closure of childcare accounts[^c2231944][^c-f7380fdd4736598bd076e4adc13b4744][^c-44ca8ac2c43fa53961771de8a9b95d96][^c-287a21640f06a37ff16752fc53ea4145][^c-e39eeee0983f6a2e77cdb67cabc6c346][^c-b47047cfb33717bce21b921c7365fde2][^c-40c269144efed40d72545e893a326e1a][^c-7214a876f8bffd333822f45d9609a301]
 
 (1) Regulations may make provision about closing childcare accounts.
 
@@ -585,7 +585,7 @@ the person must pay the repayable amount to the person or body who was the accou
 
 ## Information
 
-### 26. Power to obtain information or documents[^c2231945][^key-cd8d5d8cd69d99ff107d19d7f52d7974]
+### 26. Power to obtain information or documents[^c2231945][^c-cd8d5d8cd69d99ff107d19d7f52d7974]
 
 (1) HMRC may by notice in writing require a person of a description specified in regulations to provide information or documents which HMRC require in connection with their functions under this Act.
 
@@ -600,7 +600,7 @@ the person must pay the repayable amount to the person or body who was the accou
 - (e) provision specifying descriptions of information or document which a notice may not require a person to provide;
 - (f) provision about determining in specified cases whether information or documents are of such a description, including provision for that determination to be made by a person or body specified in the regulations.
 
-### 27. Information sharing between HMRC and others[^key-3fb63a66b008c57914a83198a3e9f225]
+### 27. Information sharing between HMRC and others[^c-3fb63a66b008c57914a83198a3e9f225]
 
 (1) Subsection (2) applies to information which is held as mentioned in section 18(1) of the Commissioners for Revenue and Customs Act 2005 (confidentiality).
 
@@ -623,7 +623,7 @@ the person must pay the repayable amount to the person or body who was the accou
 
   .
 
-### 28. Wrongful disclosure of information received by others from HMRC[^key-912bc7e097c9f0cb0a1ef60ccdef0898]
+### 28. Wrongful disclosure of information received by others from HMRC[^c-912bc7e097c9f0cb0a1ef60ccdef0898]
 
 (1) If revenue and customs information relating to a person is disclosed in contravention of section 27(3) and the identity of the person—
 
@@ -634,7 +634,7 @@ section 19 of the Commissioners for Revenue and Customs Act 2005 (wrongful discl
 
 (2) “**Revenue and customs information relating to a person**” has the meaning given by section 19(2) of the Commissioners for Revenue and Customs Act 2005.
 
-### 29. Supply of information to HMRC by childminder agencies[^key-c2229f265722a55fc5dba4675d13170f]
+### 29. Supply of information to HMRC by childminder agencies[^c-c2229f265722a55fc5dba4675d13170f]
 
 In section 83A of the Childcare Act 2006 (supply of information to HMRC etc by childminder agencies), in subsection (2), in paragraph (b), for the words from “for the purposes of” to the end of that paragraph substitute
 
@@ -647,7 +647,7 @@ In section 83A of the Childcare Act 2006 (supply of information to HMRC etc by c
 
 ## Special rules affecting tax credit and universal credit claimants
 
-### 30. Termination of tax credit awards[^c2231927][^c2231946][^key-f7b0be015e4aa2e1297a60fda98556ae][^key-0f514d7c8d7c51bec950010de5609550]
+### 30. Termination of tax credit awards[^c2231927][^c2231946][^c-f7b0be015e4aa2e1297a60fda98556ae][^c-0f514d7c8d7c51bec950010de5609550]
 
 (1) In this section “**the relevant day**”, in relation to a person who has made a declaration of eligibility for an entitlement period, means—
 
@@ -714,7 +714,7 @@ that does not affect anything done by virtue of this section as a result of the 
 
 (13) This section ceases to have effect when the repeal of Part 1 of the Tax Credits Act 2002 made by Schedule 14 to the Welfare Reform Act 2012 has fully come into force.
 
-### 31. Power to provide for automatic termination of universal credit[^c2231947][^key-f661f70a04f63b7a9c3ac5b088aa5911]
+### 31. Power to provide for automatic termination of universal credit[^c2231947][^c-f661f70a04f63b7a9c3ac5b088aa5911]
 
 (1) Regulations may make provision for the purpose of securing that, where a person has made a valid declaration of eligibility—
 
@@ -745,7 +745,7 @@ that does not affect anything done by virtue of this section as a result of the 
 - (e) Part 1 of the Welfare Reform Act 2012;
 - (f) any provision made for Northern Ireland which corresponds to that Part of that Act.
 
-### 32. Power to disqualify tax credit claimants from obtaining top-up payments[^c2231948][^key-fe7ca4f4c9fe5e17d5f1915cc2cfab1e][^key-12ccc43bcb5d44cef77649189d0d6c42]
+### 32. Power to disqualify tax credit claimants from obtaining top-up payments[^c2231948][^c-fe7ca4f4c9fe5e17d5f1915cc2cfab1e][^c-12ccc43bcb5d44cef77649189d0d6c42]
 
 (1) This section applies in relation to a person (“P”) if—
 
@@ -769,7 +769,7 @@ that does not affect anything done by virtue of this section as a result of the 
 
 (7) In this section “**joint claim**” and “**single claim**” have the same meaning as in the Tax Credits Act 2002.
 
-### 33. Power to disqualify universal credit claimants from obtaining top-up payments[^c2231949][^key-32344dbbf80bb2cb59747f34f70b2270][^key-d3db822571d81bce8cb006526539d9ed]
+### 33. Power to disqualify universal credit claimants from obtaining top-up payments[^c2231949][^c-32344dbbf80bb2cb59747f34f70b2270][^c-d3db822571d81bce8cb006526539d9ed]
 
 (1) This section applies in relation to a person (“P”) if—
 
@@ -796,7 +796,7 @@ that does not affect anything done by virtue of this section as a result of the 
 - (a) Part 1 of the Welfare Reform Act 2012, or
 - (b) any provision made for Northern Ireland which corresponds to that Part of that Act.
 
-### 34. Disqualification notices[^key-ff7e6ce65c8fb6d46dfa886acb8ca941][^key-135620317554f098f94a986bb07b8506]
+### 34. Disqualification notices[^c-ff7e6ce65c8fb6d46dfa886acb8ca941][^c-135620317554f098f94a986bb07b8506]
 
 (1) If—
 
@@ -826,7 +826,7 @@ HMRC may give the person a disqualification notice under this section.
 
 ## Recovery of top-up payments
 
-### 35. Recovery of top-up payments where tax credits award made on a review[^key-d20ab092aa75e87a1128b9c48fe65ddc][^key-393097b1f874f0bf365192143b0d5030]
+### 35. Recovery of top-up payments where tax credits award made on a review[^c-d20ab092aa75e87a1128b9c48fe65ddc][^c-393097b1f874f0bf365192143b0d5030]
 
 (1) This section applies where—
 
@@ -857,7 +857,7 @@ HMRC may give the person a disqualification notice under this section.
 
 (7) For provision about terminating an award of a tax credit when a declaration of eligibility is made for a subsequent entitlement period, see section 30.
 
-### 36. Recovery of top-up payments where tax credits award made on appeal[^key-edbd3278a94488b5d71a2ae5c27fc98f][^key-79850adb0cdcb8a2a3bfa5f98e86dde0]
+### 36. Recovery of top-up payments where tax credits award made on appeal[^c-edbd3278a94488b5d71a2ae5c27fc98f][^c-79850adb0cdcb8a2a3bfa5f98e86dde0]
 
 (1) This section applies where—
 
@@ -888,7 +888,7 @@ HMRC may give the person a disqualification notice under this section.
 
 (7) For provision about terminating an award of a tax credit when a declaration of eligibility is made for a subsequent entitlement period, see section 30.
 
-### 37. Recovery of top-up payments where universal credit award made on revision[^key-47650c44e1bb9f4420448a19ea0c1cf1][^key-ccc75b1ca1fd78c0b64acf85ae2cfdea]
+### 37. Recovery of top-up payments where universal credit award made on revision[^c-47650c44e1bb9f4420448a19ea0c1cf1][^c-ccc75b1ca1fd78c0b64acf85ae2cfdea]
 
 (1) This section applies where any of the following decisions has been revised under section 9 of the Social Security Act 1998 or Article 10 of the Social Security (Northern Ireland) Order 1998 (S.I. 1998/1506 (N.I. 10))—
 
@@ -915,7 +915,7 @@ HMRC may give the person a disqualification notice under this section.
 
 (5) In subsection (2)(b) the “**relevant proportion**”, in relation to top-up payments made for an entitlement period, means a proportion equal to the proportion of the entitlement period which falls within the relevant period.
 
-### 38. Recovery of top-up payments where universal credit award made on appeal[^key-77d8785617b48e489d5c691d0466f322][^key-d423ecf769ed61140751f778c8f329c3]
+### 38. Recovery of top-up payments where universal credit award made on appeal[^c-77d8785617b48e489d5c691d0466f322][^c-d423ecf769ed61140751f778c8f329c3]
 
 (1) This section applies where—
 
@@ -949,7 +949,7 @@ HMRC may give the person a disqualification notice under this section.
 
 (6) In subsection (3)(b) the “**relevant proportion**”, in relation to top-up payments made for an entitlement period, means a proportion equal to the proportion of the entitlement period which falls within the relevant period.
 
-### 39. Recovery of top-up payments where person fails to give childcare account notice[^key-41ae36d8cf7c469bdec98e2e399d62bc]
+### 39. Recovery of top-up payments where person fails to give childcare account notice[^c-41ae36d8cf7c469bdec98e2e399d62bc]
 
 (1) This section applies where—
 
@@ -966,7 +966,7 @@ HMRC may give the person a disqualification notice under this section.
 
 (4) Expressions used in this section and in section 12 have the same meaning in this section as they have in that section.
 
-### 40. Recovery of top-up payments in other cases[^key-f057bb874344b379b28f3634c88d5d7d][^key-4f9d8efdbdae00b441e721bc5089e72f]
+### 40. Recovery of top-up payments in other cases[^c-f057bb874344b379b28f3634c88d5d7d][^c-4f9d8efdbdae00b441e721bc5089e72f]
 
 (1) If—
 
@@ -1009,7 +1009,7 @@ that person (as well as the firm) is liable to pay that amount to HMRC.
 
 (9) For provision about calculating the top-up element of a payment, see section 21.
 
-### 41. Assessment and enforcement of recoverable amounts[^key-9693c13095cbabfeda9a42ac72fa8295][^key-3eddbf070ed244e07018c06692cfa4cc]
+### 41. Assessment and enforcement of recoverable amounts[^c-9693c13095cbabfeda9a42ac72fa8295][^c-3eddbf070ed244e07018c06692cfa4cc]
 
 (1) Where a person is liable under any of sections 35 to 40 (“the relevant section”) to pay an amount to HMRC—
 
@@ -1045,7 +1045,7 @@ See also sections 52 to 54 (which contain further powers to recover amounts owed
 
 ## Penalties
 
-### 42. Penalties for inaccurate declarations of eligibility[^key-530a648e83445041a23ebcd26258c855][^key-cf7be5c8da45474a19f3db97677b3980]
+### 42. Penalties for inaccurate declarations of eligibility[^c-530a648e83445041a23ebcd26258c855][^c-cf7be5c8da45474a19f3db97677b3980]
 
 (1) A person is liable to a penalty under this section if the person meets condition A or B.
 
@@ -1077,7 +1077,7 @@ An inaccuracy is careless if it is due to a failure by the person to take reason
 
 then for the purposes of subsection (6) above the relevant maximum for the entitlement period is to be taken to be that greater amount.
 
-### 43. Penalties for failure to comply with information notice[^c2231950][^key-2dc15f5ae2e70e1f904cf954d32345da]
+### 43. Penalties for failure to comply with information notice[^c2231950][^c-2dc15f5ae2e70e1f904cf954d32345da]
 
 (1) If—
 
@@ -1113,7 +1113,7 @@ HMRC may give the person a warning notice.
 - (a) if a person is granted an extension of the period for making an application for a review of a decision to give an information notice, any warning notice given to the person in respect of the information notice before the application for the review is made is of no effect, and
 - (b) if a person is permitted to give notice of an appeal against an information notice after the end of the period mentioned in subsection (6)(b), any warning notice given to the person in respect of the information notice before the notice of appeal is given is of no effect.
 
-### 44. Penalties for providing inaccurate information or documents[^c2231951][^key-c6c102ab93be0f868d75c6439e29e0c4][^key-35f5f1e06adb11a501bd69b81e83f4d7]
+### 44. Penalties for providing inaccurate information or documents[^c2231951][^c-c6c102ab93be0f868d75c6439e29e0c4][^c-35f5f1e06adb11a501bd69b81e83f4d7]
 
 (1) A person is liable to a penalty under this section if—
 
@@ -1135,7 +1135,7 @@ An inaccuracy is careless if it is due to a failure by the person to take reason
 
 (6) Regulations may amend subsection (5) so as to substitute a different amount for the amount for the time being specified there.
 
-### 45. Penalties for making prohibited payments[^key-5d7a9075fc8ad1d5e9b66cc9067e9524][^key-ffdfe3f1b8ff5cde3d634290f3fe54ec]
+### 45. Penalties for making prohibited payments[^c-5d7a9075fc8ad1d5e9b66cc9067e9524][^c-ffdfe3f1b8ff5cde3d634290f3fe54ec]
 
 (1) A person is liable to a penalty under this section if—
 
@@ -1179,7 +1179,7 @@ An inaccuracy is careless if it is due to a failure by the person to take reason
 - (a) if a person is granted an extension of the period for making an application for a review of an assessment, any warning notice given to the person in respect of the assessment before the application for the review is made is of no effect, and
 - (b) if a person is permitted to give notice of an appeal against an assessment after the end of the period mentioned in subsection (7)(b), any warning notice given to the person in respect of the assessment before the notice of appeal is given is of no effect.
 
-### 46. Penalties for dishonestly obtaining top-up payments, etc[^c2231952][^key-88d073e3b1b8bcc1bd22de15d690bfec][^key-bea36ebb002de89eae15c478d931f77c]
+### 46. Penalties for dishonestly obtaining top-up payments, etc[^c2231952][^c-88d073e3b1b8bcc1bd22de15d690bfec][^c-bea36ebb002de89eae15c478d931f77c]
 
 (1) A person (“P”) is liable to a penalty under this section if—
 
@@ -1228,7 +1228,7 @@ that person (as well as the body corporate) is liable to a penalty under this se
 
 that person (as well as the firm) is liable to a penalty under this section.
 
-### 47. Assessment and enforcement of penalties[^key-82dcad1a872822c85cf92221dcacd5d7][^key-e5ba1eabfdd869d0ba2e42f5280e885c][^key-64d005263d52dc27eada7dfa723329b2]
+### 47. Assessment and enforcement of penalties[^c-82dcad1a872822c85cf92221dcacd5d7][^c-e5ba1eabfdd869d0ba2e42f5280e885c][^c-64d005263d52dc27eada7dfa723329b2]
 
 (1) Where a person becomes liable to a penalty under this Act—
 
@@ -1255,13 +1255,13 @@ that person (as well as the firm) is liable to a penalty under this section.
 
 See also section 53 (recovery of debts from childcare accounts).
 
-### 48. Double jeopardy[^key-696bfa58a431affa344c89dd0a37ab9b][^key-d44f09d1e347a5675d3d41daf6132216]
+### 48. Double jeopardy[^c-696bfa58a431affa344c89dd0a37ab9b][^c-d44f09d1e347a5675d3d41daf6132216]
 
 A person is not liable to a penalty under this Act in respect of anything in respect of which the person has been convicted of an offence.
 
 ## Other enforcement powers
 
-### 49. Disqualification orders[^key-9c44b789d6338998eeeb8f4e7156c1bc][^key-8b42a240c78d41bf9c85529394b3c807]
+### 49. Disqualification orders[^c-9c44b789d6338998eeeb8f4e7156c1bc][^c-8b42a240c78d41bf9c85529394b3c807]
 
 (1) HMRC may make a disqualification order in relation to a person if condition A, B or C is met.
 
@@ -1306,7 +1306,7 @@ A person is not liable to a penalty under this Act in respect of anything in res
 
 (11) HMRC may revoke a disqualification order made under this section.
 
-### 50. Power to exclude childcare from being qualifying childcare[^c2231953][^key-f9290f631c9324cb17ea3d3f94e9bc8c][^key-16a723465359cb622bce237df54851a0]
+### 50. Power to exclude childcare from being qualifying childcare[^c2231953][^c-f9290f631c9324cb17ea3d3f94e9bc8c][^c-16a723465359cb622bce237df54851a0]
 
 (1) This section applies if—
 
@@ -1335,7 +1335,7 @@ A person is not liable to a penalty under this Act in respect of anything in res
 
 (7) HMRC may revoke a direction made under this section.
 
-### 51. Power to charge interest[^key-b2b59e68daa72558390dcb4af5f4b422][^key-72412b8f76b71ca736671d3cc604e44c]
+### 51. Power to charge interest[^c-b2b59e68daa72558390dcb4af5f4b422][^c-72412b8f76b71ca736671d3cc604e44c]
 
 (1) Where—
 
@@ -1375,7 +1375,7 @@ HMRC may give the person a notice in writing requiring the person to pay interes
 
 each of those persons is jointly and severally liable to pay interest on the relevant debt.
 
-### 52. Deduction of recoverable amounts from tax credit awards[^key-4c2d499e0595b7739d1ae23072ffe8c9][^key-789d40f790edb7d1924298e2331902b9]
+### 52. Deduction of recoverable amounts from tax credit awards[^c-4c2d499e0595b7739d1ae23072ffe8c9][^c-789d40f790edb7d1924298e2331902b9]
 
 (1) This section applies where, as a result of a review of, or an appeal against, a tax credits decision—
 
@@ -1390,7 +1390,7 @@ each of those persons is jointly and severally liable to pay interest on the rel
 
 (5) This section ceases to have effect when the repeal of Part 1 of the Tax Credits Act 2002 made by Schedule 14 to the Welfare Reform Act 2012 has fully come into force.
 
-### 53. Recovery of debts from childcare accounts[^key-70783248f05f1891c5e571cfbf91c42c][^key-b534d6d3735178984f20383bbe8a104c]
+### 53. Recovery of debts from childcare accounts[^c-70783248f05f1891c5e571cfbf91c42c][^c-b534d6d3735178984f20383bbe8a104c]
 
 (1) This section applies where—
 
@@ -1444,7 +1444,7 @@ where R is the percentage for the time being specified in section 1(4).
 
 (16) This section does not affect any other power of HMRC to recover amounts that are due and payable to HMRC.
 
-### 54. Set-off[^key-2236c0cfb9b683f146368dced68823d6][^key-3ba564bf0af23aa4867124d23b26fe6d]
+### 54. Set-off[^c-2236c0cfb9b683f146368dced68823d6][^c-3ba564bf0af23aa4867124d23b26fe6d]
 
 (1) This section applies where—
 
@@ -1456,7 +1456,7 @@ where R is the percentage for the time being specified in section 1(4).
 
 (3) In a case where the whole or part of the corresponding top-up amount of a withdrawal (“the set-off amount”) is set off against the relevant debt, so much of the withdrawal as generated the set-off amount is to be ignored for the purposes of section 19(8).
 
-### 55. Order in which payments are taken to discharge debts[^key-6458ef2094485ffcc71c46f9ab50abcf][^key-36b8c52ed8459c8917643fbea7bf4845]
+### 55. Order in which payments are taken to discharge debts[^c-6458ef2094485ffcc71c46f9ab50abcf][^c-36b8c52ed8459c8917643fbea7bf4845]
 
 (1) This section applies where an amount (a “relevant debt”) is due and payable to HMRC under this Act by a person.
 
@@ -1476,7 +1476,7 @@ where R is the percentage for the time being specified in section 1(4).
 
 ## Reviews and appeals
 
-### 56. Appealable decisions[^key-2f068a75eaa4408c1fd0b7390666ad8a][^key-8d2233812b727b7d8fe68b5efcb873b4]
+### 56. Appealable decisions[^c-2f068a75eaa4408c1fd0b7390666ad8a][^c-8d2233812b727b7d8fe68b5efcb873b4]
 
 (1) A person who is affected by an appealable decision (see subsection (3)) may appeal against the decision.
 
@@ -1510,7 +1510,7 @@ where R is the percentage for the time being specified in section 1(4).
 
 (6) The effect of any other appealable decision is not suspended by the making of such an application or appeal.
 
-### 57. Review of decisions[^key-302cfcc2a68aaabd1c3780fbb269d84e][^key-9285a9ddb417d7e21d7fef66e22bf5fa]
+### 57. Review of decisions[^c-302cfcc2a68aaabd1c3780fbb269d84e][^c-9285a9ddb417d7e21d7fef66e22bf5fa]
 
 (1) A person who is affected by an appealable decision (“**the applicant**”) may apply to the Commissioners for Her Majesty's Revenue and Customs for a review of the decision.
 
@@ -1525,9 +1525,9 @@ where R is the percentage for the time being specified in section 1(4).
 - (b) contain sufficient information to identify the applicant and the decision, and
 - (c) set out the reasons for seeking a review of the decision.
 
-(3A)[^key-c14a7ae613793d268f475dd7eb9ce4aa] Regulations may make provision specifying, or enabling HMRC to specify, the form and manner in which the application may be made (subject to subsection (3)(a)).
+(3A)[^c-c14a7ae613793d268f475dd7eb9ce4aa] Regulations may make provision specifying, or enabling HMRC to specify, the form and manner in which the application may be made (subject to subsection (3)(a)).
 
-(4) If an application for a review of a decision is made to the Commissioners in accordance with this section (and any provision made under subsection (3A))[^key-9704b1947e4cad4c1f169a752ef3d3b9] , the Commissioners must review the decision.
+(4) If an application for a review of a decision is made to the Commissioners in accordance with this section (and any provision made under subsection (3A))[^c-9704b1947e4cad4c1f169a752ef3d3b9] , the Commissioners must review the decision.
 
 (5) On a review under this section, the Commissioners may—
 
@@ -1560,7 +1560,7 @@ the review may proceed without that information or evidence.
 
 In such a case, the Commissioners must notify the applicant of that conclusion.
 
-### 58. Extension of time limit for applications for review[^key-848153b481bdc1be884a488832810597][^key-a5e26edd3e278850c558b7064fa7ff28]
+### 58. Extension of time limit for applications for review[^c-848153b481bdc1be884a488832810597][^c-a5e26edd3e278850c558b7064fa7ff28]
 
 (1) A person who wishes to make an application for a review under section 57 may apply to the Commissioners for an extension of the period for making the application.
 
@@ -1569,7 +1569,7 @@ In such a case, the Commissioners must notify the applicant of that conclusion.
 - (a) must be made before the end of the period of 6 months beginning with the day after the last day of the period mentioned in section 57(2)(a) (“the standard period”), and
 - (b) must set out the reasons for seeking the extension.
 
-(2A)[^key-93f1368c98143c466daea047c791397e] Regulations may make provision specifying, or enabling HMRC to specify, the form and manner in which an application under this section may be made.
+(2A)[^c-93f1368c98143c466daea047c791397e] Regulations may make provision specifying, or enabling HMRC to specify, the form and manner in which an application under this section may be made.
 
 (3) The Commissioners may grant an extension under this section if they are satisfied that—
 
@@ -1578,7 +1578,7 @@ In such a case, the Commissioners must notify the applicant of that conclusion.
 
 (4) If an application under this section is refused, it may not be renewed.
 
-### 59. Exercise of right of appeal[^key-d84b615c80fae30886ebd7b96cd29368][^key-0286e60f90271012102fdc4b3af0bf3e]
+### 59. Exercise of right of appeal[^c-d84b615c80fae30886ebd7b96cd29368][^c-0286e60f90271012102fdc4b3af0bf3e]
 
 (1) An appeal under section 56 is to the appropriate tribunal.
 
@@ -1595,7 +1595,7 @@ In such a case, the Commissioners must notify the applicant of that conclusion.
 - (b) Chapter 2 of Part 2 of the Social Security (Northern Ireland) Order 1998 (social security appeals: Northern Ireland);
 - (c) section 54 of the Taxes Management Act 1970 (settling of appeals by agreement).
 
-### 60. Powers of tribunal[^key-33742c0a0f3c6dd47cda40c4ce7b98fe][^key-3c59b82645228f6775eaf594377fd6f2]
+### 60. Powers of tribunal[^c-33742c0a0f3c6dd47cda40c4ce7b98fe][^c-3c59b82645228f6775eaf594377fd6f2]
 
 (1) This section applies where a person is appealing to the Tribunal under section 56 against an appealable decision.
 
@@ -1631,7 +1631,7 @@ This is subject to section 61(8).
 - (a) the First-tier Tribunal, or
 - (b) in Northern Ireland, the appeal tribunal (within the meaning of section 59(3)).
 
-### 61. Cases where there is more than one eligible person[^key-f7ad0177dc39e56727e74c4e61cc35fa][^key-56ffadb43bc9c8355ebd787f332bd376]
+### 61. Cases where there is more than one eligible person[^c-f7ad0177dc39e56727e74c4e61cc35fa][^c-56ffadb43bc9c8355ebd787f332bd376]
 
 (1) This section applies in the following cases.
 
@@ -1669,7 +1669,7 @@ This is subject to section 61(8).
 
 ## Compensatory payments
 
-### 62. Compensatory payments[^c2231954][^key-e196918e695651d1c7293cd409c301cb][^key-df0dda4f75f937848206addfa8ac0d76][^key-1f2cccb920457d88eb2a6f773cc31805][^key-c18faa03b6d4789d8c90d4f57ecbd234][^key-9a684a74f426aa14eba4a40bb7e9cca3][^key-52f41f30c219e5df1ed1c166cd63ae8a][^key-d57e560ba81189f4634d7db0898b6444]
+### 62. Compensatory payments[^c2231954][^c-e196918e695651d1c7293cd409c301cb][^c-df0dda4f75f937848206addfa8ac0d76][^c-1f2cccb920457d88eb2a6f773cc31805][^c-c18faa03b6d4789d8c90d4f57ecbd234][^c-9a684a74f426aa14eba4a40bb7e9cca3][^c-52f41f30c219e5df1ed1c166cd63ae8a][^c-d57e560ba81189f4634d7db0898b6444]
 
 (1) Where a person has in circumstances specified in regulations been deprived of the opportunity to receive top-up payments in respect of a child for a period, HMRC must pay the person an amount equal to 20% of the costs incurred on qualifying childcare in respect of the child during the period.
 
@@ -1691,7 +1691,7 @@ This is subject to section 61(8).
 
 ## Withdrawal of existing tax exemptions
 
-### 63. Restrictions on claiming tax exemption for childcare vouchers[^key-14fc045ba9fa1ac8e3ba065f9320cee8]
+### 63. Restrictions on claiming tax exemption for childcare vouchers[^c-14fc045ba9fa1ac8e3ba065f9320cee8]
 
 (1) Section 270A of ITEPA 2003 (limited exemption from income tax for qualifying childcare vouchers) is amended as follows.
 
@@ -1732,7 +1732,7 @@ This is subject to section 61(8).
 
 (5) In section 717 of ITEPA 2003 (orders and regulations), in subsection (4), after “employments),” insert “ section 270AA(3) (exemption from income tax for qualifying childcare vouchers: meaning of “eligible employee”), ”.
 
-### 64. Restrictions on claiming tax exemption for employer-contracted childcare[^key-84444bf9c475c6d63e791017cec146d0]
+### 64. Restrictions on claiming tax exemption for employer-contracted childcare[^c-84444bf9c475c6d63e791017cec146d0]
 
 (1) Section 318A of ITEPA 2003 (childcare: limited exemption from income tax for other care) is amended as follows.
 
@@ -1781,11 +1781,11 @@ This is subject to section 61(8).
 
 The matters dealt with by and under this Act are to be under the management of the Commissioners for Her Majesty's Revenue and Customs.
 
-### 66. Tax treatment of top-up payments[^key-97ff7050dbe7673fa14d613c0616df74][^key-f1be5dc8a395cb287a2763a4aa5044d1]
+### 66. Tax treatment of top-up payments[^c-97ff7050dbe7673fa14d613c0616df74][^c-f1be5dc8a395cb287a2763a4aa5044d1]
 
 A top-up payment made into a childcare account is not to be regarded as income of the account-holder for the purposes of the Income Tax Acts.
 
-### 67. Set-off against tax liabilities etc[^key-a764490c1e02c4f0cebee7f0f68bbf2f][^key-124dd50725f5598892abb064489e1bc0]
+### 67. Set-off against tax liabilities etc[^c-a764490c1e02c4f0cebee7f0f68bbf2f][^c-124dd50725f5598892abb064489e1bc0]
 
 The following payments are not to be regarded as a credit for the purposes of section 130 of the Finance Act 2008 (set-off)—
 
@@ -1909,11 +1909,11 @@ In Schedule 2 to the Northern Ireland Act 1998 (excepted matters), after paragra
 
 (1) There is to be paid out of money provided by Parliament any increase attributable to this Act in the sums payable under any other Act out of money so provided.
 
-(2)[^key-6fa0d00512de2cb09f8d2637e4046dd5][^key-251cdc983db77a55db26f3fdcec65085][^key-c6fe280c77afab6e50be9eb2011462c6][^key-d10e8169341fdb06c171bc8e4679498f][^key-c9365dbcd918be5ec2671c29b2cb39cb][^key-5936c44e3b790a407563e26e18d9dbf1][^key-97feacc5c65deb9d11b6d11b9db08284] Subsections (3) and (4) apply if childcare accounts are provided by the Commissioners or the Director of Savings (“the relevant account provider”).
+(2)[^c-6fa0d00512de2cb09f8d2637e4046dd5][^c-251cdc983db77a55db26f3fdcec65085][^c-c6fe280c77afab6e50be9eb2011462c6][^c-d10e8169341fdb06c171bc8e4679498f][^c-c9365dbcd918be5ec2671c29b2cb39cb][^c-5936c44e3b790a407563e26e18d9dbf1][^c-97feacc5c65deb9d11b6d11b9db08284] Subsections (3) and (4) apply if childcare accounts are provided by the Commissioners or the Director of Savings (“the relevant account provider”).
 
-(3)[^key-6fa0d00512de2cb09f8d2637e4046dd5][^key-251cdc983db77a55db26f3fdcec65085][^key-c6fe280c77afab6e50be9eb2011462c6][^key-d10e8169341fdb06c171bc8e4679498f][^key-c9365dbcd918be5ec2671c29b2cb39cb][^key-5936c44e3b790a407563e26e18d9dbf1][^key-97feacc5c65deb9d11b6d11b9db08284] Sums paid into childcare accounts are not to be paid into the Consolidated Fund.
+(3)[^c-6fa0d00512de2cb09f8d2637e4046dd5][^c-251cdc983db77a55db26f3fdcec65085][^c-c6fe280c77afab6e50be9eb2011462c6][^c-d10e8169341fdb06c171bc8e4679498f][^c-c9365dbcd918be5ec2671c29b2cb39cb][^c-5936c44e3b790a407563e26e18d9dbf1][^c-97feacc5c65deb9d11b6d11b9db08284] Sums paid into childcare accounts are not to be paid into the Consolidated Fund.
 
-(4)[^key-6fa0d00512de2cb09f8d2637e4046dd5][^key-251cdc983db77a55db26f3fdcec65085][^key-c6fe280c77afab6e50be9eb2011462c6][^key-d10e8169341fdb06c171bc8e4679498f][^key-c9365dbcd918be5ec2671c29b2cb39cb][^key-5936c44e3b790a407563e26e18d9dbf1][^key-97feacc5c65deb9d11b6d11b9db08284] Sums payable from childcare accounts are not to be regarded as expenditure of the relevant account provider.
+(4)[^c-6fa0d00512de2cb09f8d2637e4046dd5][^c-251cdc983db77a55db26f3fdcec65085][^c-c6fe280c77afab6e50be9eb2011462c6][^c-d10e8169341fdb06c171bc8e4679498f][^c-c9365dbcd918be5ec2671c29b2cb39cb][^c-5936c44e3b790a407563e26e18d9dbf1][^c-97feacc5c65deb9d11b6d11b9db08284] Sums payable from childcare accounts are not to be regarded as expenditure of the relevant account provider.
 
 ### 74. Extent
 
@@ -1942,566 +1942,566 @@ In Schedule 2 to the Northern Ireland Act 1998 (excepted matters), after paragra
 
 [^c2231928]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) partly in force at Royal Assent; [s. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-1d10fe3406d37a8cd5262b477eaf832e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/a)
+[^c-1d10fe3406d37a8cd5262b477eaf832e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/a)
 
-[^key-ec4a3f1efaef06c6281d499436f085ad]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-ec4a3f1efaef06c6281d499436f085ad]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-386e656360bfe3c1b2875d8d722bf436]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-386e656360bfe3c1b2875d8d722bf436]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-95e60d7fd042a6e5c807c12e7e86f363]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/a)
+[^c-95e60d7fd042a6e5c807c12e7e86f363]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/a)
 
-[^key-70fd050f4e59406092365ebffce3021f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-70fd050f4e59406092365ebffce3021f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-2a3845d2ba03ba3e34c42cd0cce2b754]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-2a3845d2ba03ba3e34c42cd0cce2b754]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-9fb7d05517b1100ea6c132bb1bd77890]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-9fb7d05517b1100ea6c132bb1bd77890]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/28/section/1) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
 [^c2231929]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/28/section/2) partly in force at Royal Assent; [s. 2](https://www.legislation.gov.uk/ukpga/2014/28/section/2) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-139441a8a79d6f3bb208f230cc1a3dd0]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/28/section/2) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/a)
+[^c-139441a8a79d6f3bb208f230cc1a3dd0]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/28/section/2) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/a)
 
-[^key-bc6db0a770ce664c7314dd68a83cb593]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/28/section/2) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/a)
+[^c-bc6db0a770ce664c7314dd68a83cb593]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/28/section/2) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/a)
 
 [^c2231930]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) partly in force at Royal Assent; [s. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-28ee32975d54c6fce7dcf7912f504605]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) in force at 14.11.2016 for the purposes of the trial with specified adaptations by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1083/regulation/3)
+[^c-28ee32975d54c6fce7dcf7912f504605]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) in force at 14.11.2016 for the purposes of the trial with specified adaptations by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1083/regulation/3)
 
-[^key-e7647a7c7e9da2c63740224ec87c0e1a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-e7647a7c7e9da2c63740224ec87c0e1a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-89882000f44e4d83000d13a84f1df70e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-89882000f44e4d83000d13a84f1df70e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-2710b2f68bf2aa68dbadff52f6a9fa10]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/b)
+[^c-2710b2f68bf2aa68dbadff52f6a9fa10]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/b)
 
-[^key-492d3b2465a7d20640ad500fa548b014]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-492d3b2465a7d20640ad500fa548b014]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-c0bcad857f6a3935d3537dcf81d3bdfb]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-c0bcad857f6a3935d3537dcf81d3bdfb]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-60f82efda9a8fa6a39eb8ea4ad8ee16b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-60f82efda9a8fa6a39eb8ea4ad8ee16b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/28/section/3) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
 [^c2231931]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) partly in force at Royal Assent; [s. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-6a6053a4424eb7e7025ac0962169e41d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
+[^c-6a6053a4424eb7e7025ac0962169e41d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
 
-[^key-bd3b1d392e9571de067db83f937db331]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-bd3b1d392e9571de067db83f937db331]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-90756a7211a0eab7dd3dc8de01424676]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-90756a7211a0eab7dd3dc8de01424676]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-7cb4e19612a17ccaceb007ba8b7d8e7b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/b)
+[^c-7cb4e19612a17ccaceb007ba8b7d8e7b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/b)
 
-[^key-17529bfab165cf12c0e5d503399ec25b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-17529bfab165cf12c0e5d503399ec25b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-c14903cef3250b05f0bb75be6f370051]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-c14903cef3250b05f0bb75be6f370051]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-af2277eefc00b90b27bfd90eb9e7e2bf]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-af2277eefc00b90b27bfd90eb9e7e2bf]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/28/section/4) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
 [^c2231932]: Commencement: S. 5 partly in force at Royal Assent; s. 5 in force for specified purposes at Royal Assent, see s. 75(1)(c)
 
-[^key-340d77b21f4e816d5e66fe79efc9589d]: Commencement: S. 5 in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
+[^c-340d77b21f4e816d5e66fe79efc9589d]: Commencement: S. 5 in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
 
-[^key-82f4168514bc58aff7024794b271759f]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2014/28/section/5) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/b)
+[^c-82f4168514bc58aff7024794b271759f]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2014/28/section/5) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/b)
 
-[^key-0654b0a379c56755de716d336c04e000]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/5/4) substituted (16.3.2017) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/5/2), [7(3)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/3)
+[^c-0654b0a379c56755de716d336c04e000]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/5/4) substituted (16.3.2017) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/5/2), [7(3)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/3)
 
-[^key-9d576bab391aec1954cbeb618e0c6b6a]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/28/section/6) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
+[^c-9d576bab391aec1954cbeb618e0c6b6a]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/28/section/6) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
 
-[^key-bbab2619ecce796a2a2c774b26085fd8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/28/section/6) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-bbab2619ecce796a2a2c774b26085fd8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/28/section/6) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-216e9ef4cab8af48ef1a158b719536d5]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/28/section/6) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-216e9ef4cab8af48ef1a158b719536d5]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/28/section/6) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-a7fc8e2262a0870cb79643260dd48fe9]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/28/section/6) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
+[^c-a7fc8e2262a0870cb79643260dd48fe9]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/28/section/6) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
 
-[^key-8727d6eee7ec0778edc87f7884cdf14f]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/28/section/6) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-8727d6eee7ec0778edc87f7884cdf14f]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/28/section/6) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-2567a97de6a9339a86736dcc26210604]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/28/section/6) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-2567a97de6a9339a86736dcc26210604]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/28/section/6) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-2c03615b5a774762fa57538aaa4be699]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/28/section/6) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-2c03615b5a774762fa57538aaa4be699]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/28/section/6) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
 [^c2231933]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) partly in force at Royal Assent; [s. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-8842b2f36cb00efc4d4d0231f69ae0d1]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
+[^c-8842b2f36cb00efc4d4d0231f69ae0d1]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
 
-[^key-24e2e3ac89a14c7e3e3489a7c0f03f7a]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-24e2e3ac89a14c7e3e3489a7c0f03f7a]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-39d4eb89a2107b4f295a3a114560527d]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-39d4eb89a2107b4f295a3a114560527d]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-d1beab4e22dd7135831d948eb66e704e]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
+[^c-d1beab4e22dd7135831d948eb66e704e]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
 
-[^key-9118561ed2185f7934c403be60e1d04e]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-9118561ed2185f7934c403be60e1d04e]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-5935f37041f4361e44dbba99112048f3]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-5935f37041f4361e44dbba99112048f3]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-653f89fa5aabf9d2a0929de04fae25fa]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-653f89fa5aabf9d2a0929de04fae25fa]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/28/section/7) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
 [^c2231934]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) partly in force at Royal Assent; [s. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-bb537cc0e9694144521341bde6dbaf8b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
+[^c-bb537cc0e9694144521341bde6dbaf8b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
 
-[^key-55352e0400c9e5624a0d035d666b7575]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-55352e0400c9e5624a0d035d666b7575]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-04695880a3542c25fae552769883e6b9]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-04695880a3542c25fae552769883e6b9]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-4d23f9c610958570cfb463b17ebdbe25]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
+[^c-4d23f9c610958570cfb463b17ebdbe25]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
 
-[^key-9b99ac03e35edf379912b44fda534d2a]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-9b99ac03e35edf379912b44fda534d2a]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-af43b7d3ab8312fa44d2863d799e2e5d]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-af43b7d3ab8312fa44d2863d799e2e5d]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-12447502ecb301c91ed1758ab89dc620]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-12447502ecb301c91ed1758ab89dc620]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/28/section/8) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
 [^c2231935]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) partly in force at Royal Assent; [s. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-bcdc3bbe6f0926eafe7eff8cddd390c2]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
+[^c-bcdc3bbe6f0926eafe7eff8cddd390c2]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
 
-[^key-40065c5b6e00d2ad1d109d3cbcf2baf1]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-40065c5b6e00d2ad1d109d3cbcf2baf1]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-328af98823eb2e04174f27ec0ed38f6e]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-328af98823eb2e04174f27ec0ed38f6e]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-982e2a927144f068cd8b8a90bbd6d7f6]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
+[^c-982e2a927144f068cd8b8a90bbd6d7f6]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
 
-[^key-04b29397fd667e4670829ede24962201]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-04b29397fd667e4670829ede24962201]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-9edddca800b21a6f427ec56f57565458]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-9edddca800b21a6f427ec56f57565458]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-28c42127a5d112b8455fee1179485115]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-28c42127a5d112b8455fee1179485115]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/28/section/9) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
 [^c2231936]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) partly in force at Royal Assent; [s. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-6c8776da15788848a4928ef67fece636]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
+[^c-6c8776da15788848a4928ef67fece636]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
 
-[^key-1ba17bccb61935886ffb1543111125c0]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-1ba17bccb61935886ffb1543111125c0]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-c5fa814afb1fe8f923c96d648e047659]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-c5fa814afb1fe8f923c96d648e047659]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-619c0c07dbda611144155cb4d8ba5f3b]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
+[^c-619c0c07dbda611144155cb4d8ba5f3b]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
 
-[^key-516244d788c5b81cbc4579b6155fb5e9]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-516244d788c5b81cbc4579b6155fb5e9]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-1fa08fb6abfe3387ea367d58ef5368e3]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-1fa08fb6abfe3387ea367d58ef5368e3]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-38085e385684fe1bc3b06dd4a12d945f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-38085e385684fe1bc3b06dd4a12d945f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/28/section/10) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
 [^c2231937]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) partly in force at Royal Assent; [s. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-dbb58f4f52799af0802a12f34bece485]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) applied (with modifications) (5.3.2015) by [The Childcare Payments (Eligibility) Regulations 2015 (S.I. 2015/448)](https://www.legislation.gov.uk/uksi/2015/448), [regs. 1](https://www.legislation.gov.uk/uksi/2015/448/regulation/1), [16](https://www.legislation.gov.uk/uksi/2015/448/regulation/16)
+[^c-dbb58f4f52799af0802a12f34bece485]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) applied (with modifications) (5.3.2015) by [The Childcare Payments (Eligibility) Regulations 2015 (S.I. 2015/448)](https://www.legislation.gov.uk/uksi/2015/448), [regs. 1](https://www.legislation.gov.uk/uksi/2015/448/regulation/1), [16](https://www.legislation.gov.uk/uksi/2015/448/regulation/16)
 
-[^key-22369dbd9fd85e39209934d8a4bf3c58]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
+[^c-22369dbd9fd85e39209934d8a4bf3c58]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/b)
 
-[^key-5cd51f32c3ee56f28f503099379ccde2]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-5cd51f32c3ee56f28f503099379ccde2]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-bad4791cd2d91233e2795fdef1e601da]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-bad4791cd2d91233e2795fdef1e601da]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-4394edab986d567dfbc1734c8857a311]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
+[^c-4394edab986d567dfbc1734c8857a311]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
 
-[^key-f61fc1941ba043dcc946a137d66c89e7]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-f61fc1941ba043dcc946a137d66c89e7]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-821fc03eb796911d922b2a413f0392d0]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-821fc03eb796911d922b2a413f0392d0]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-9a258a3516d591cfbf02b0237a2fc8fe]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-9a258a3516d591cfbf02b0237a2fc8fe]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/28/section/11) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
-[^key-de192cbe04ad7ab684843b2e11e7bdb2]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/2014/28/section/12) applied (with modifications) (5.3.2015) by [The Childcare Payments (Eligibility) Regulations 2015 (S.I. 2015/448)](https://www.legislation.gov.uk/uksi/2015/448), [regs. 1](https://www.legislation.gov.uk/uksi/2015/448/regulation/1), [17](https://www.legislation.gov.uk/uksi/2015/448/regulation/17)
+[^c-de192cbe04ad7ab684843b2e11e7bdb2]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/2014/28/section/12) applied (with modifications) (5.3.2015) by [The Childcare Payments (Eligibility) Regulations 2015 (S.I. 2015/448)](https://www.legislation.gov.uk/uksi/2015/448), [regs. 1](https://www.legislation.gov.uk/uksi/2015/448/regulation/1), [17](https://www.legislation.gov.uk/uksi/2015/448/regulation/17)
 
-[^key-54c0b0b79a18127ad62dba2385d6ed2b]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/28/section/12) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2017/578/regulation/5))
+[^c-54c0b0b79a18127ad62dba2385d6ed2b]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/28/section/12) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2017/578/regulation/5))
 
-[^key-b7940b1f136aebf584f7b226f0a08c6f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/28/section/12) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2017/578/regulation/5))
+[^c-b7940b1f136aebf584f7b226f0a08c6f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/28/section/12) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2017/578/regulation/5))
 
-[^key-dbffb4c0abe52947ac7d961d0ba911b2]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/28/section/12) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
+[^c-dbffb4c0abe52947ac7d961d0ba911b2]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/28/section/12) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
 
-[^key-9edb3eb6c5242aa39293f9224130af29]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/28/section/12) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-9edb3eb6c5242aa39293f9224130af29]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/28/section/12) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-860cdaf6d9279c05ae38727692d5d83e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/28/section/12) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-860cdaf6d9279c05ae38727692d5d83e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/28/section/12) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-edc6efa38042ce558685b4f195ea3e57]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/28/section/12) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-edc6efa38042ce558685b4f195ea3e57]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/28/section/12) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
-[^key-01c47866a99dc33086e3a4e98c372fd1]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) applied (with modifications) (5.3.2015) by [The Childcare Payments (Eligibility) Regulations 2015 (S.I. 2015/448)](https://www.legislation.gov.uk/uksi/2015/448), [regs. 1](https://www.legislation.gov.uk/uksi/2015/448/regulation/1), [17](https://www.legislation.gov.uk/uksi/2015/448/regulation/17)
+[^c-01c47866a99dc33086e3a4e98c372fd1]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) applied (with modifications) (5.3.2015) by [The Childcare Payments (Eligibility) Regulations 2015 (S.I. 2015/448)](https://www.legislation.gov.uk/uksi/2015/448), [regs. 1](https://www.legislation.gov.uk/uksi/2015/448/regulation/1), [17](https://www.legislation.gov.uk/uksi/2015/448/regulation/17)
 
-[^key-b0675349d94bd61a6e41932f4af67d0d]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
+[^c-b0675349d94bd61a6e41932f4af67d0d]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
 
-[^key-886ef813ca976d10f83643665b18b8ec]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-886ef813ca976d10f83643665b18b8ec]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-b360902728f6eb17e48232038401883b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-b360902728f6eb17e48232038401883b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-5cf864c66506bae0ac084f0979639e16]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
+[^c-5cf864c66506bae0ac084f0979639e16]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
 
-[^key-dea66e3c54534afbc426e639063468ec]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-dea66e3c54534afbc426e639063468ec]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-6fe4703d64a838d2203704a086391466]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-6fe4703d64a838d2203704a086391466]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-19bdae356528c00c6506f6c1e1d162bf]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-19bdae356528c00c6506f6c1e1d162bf]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/28/section/13) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
 [^c2231938]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) partly in force at Royal Assent; [s. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-d4aa8ec7ab5983b9ad26c2aecc8eec60]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
+[^c-d4aa8ec7ab5983b9ad26c2aecc8eec60]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
 
-[^key-6dd2db1d021af53fa61524aaf36516b1]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-6dd2db1d021af53fa61524aaf36516b1]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-6891ccaad8f9f155c91fd64ea1246c54]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-6891ccaad8f9f155c91fd64ea1246c54]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-46b13992c9e360312ed0b7bec27dd9ab]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
+[^c-46b13992c9e360312ed0b7bec27dd9ab]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
 
-[^key-81eb081c1ab46a41020cebb44380828a]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-81eb081c1ab46a41020cebb44380828a]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-e8b0311fd369c2de39c26d6f7ee0e670]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-e8b0311fd369c2de39c26d6f7ee0e670]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-f479ebd2dc700e9e64c4530da5ffc81d]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-f479ebd2dc700e9e64c4530da5ffc81d]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/28/section/14) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
 [^c2231939]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) partly in force at Royal Assent; [s. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-f44b0f075551b5a45e29bfceaa0c08b7]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
+[^c-f44b0f075551b5a45e29bfceaa0c08b7]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
 
-[^key-2ab63eb0ca94ec6d581435660f515a90]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-2ab63eb0ca94ec6d581435660f515a90]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-6f0cdc3ab185850ca0a7a9b5345f408d]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-6f0cdc3ab185850ca0a7a9b5345f408d]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-c9f30ecb3a4ad143000fa7694a17f6c9]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
+[^c-c9f30ecb3a4ad143000fa7694a17f6c9]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/c)
 
-[^key-921b75482b01f0ab2c53d62a3ba311dd]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-921b75482b01f0ab2c53d62a3ba311dd]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-f7ade64f2deb0b9cd40755d3a49214d5]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-f7ade64f2deb0b9cd40755d3a49214d5]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-a8f8f9cf5a698ba35718e4dd45f60368]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-a8f8f9cf5a698ba35718e4dd45f60368]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/28/section/15) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
-[^key-0a284c47a507d4d88cdca5dd4b007e90]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2014/28/section/16) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
+[^c-0a284c47a507d4d88cdca5dd4b007e90]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2014/28/section/16) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
 
-[^key-15bca689cb9a30e74a7ca0714f8ed644]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2014/28/section/16) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/c)
+[^c-15bca689cb9a30e74a7ca0714f8ed644]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2014/28/section/16) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/c)
 
 [^c2231940]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) partly in force at Royal Assent; [s. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-ba58907f758645db8a6de5ec93835ad6]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
+[^c-ba58907f758645db8a6de5ec93835ad6]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
 
-[^key-8989518303d2ad92355c9cb47f2c03f8]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-8989518303d2ad92355c9cb47f2c03f8]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-356bd16e615ec67a17bc5e0622d824d6]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-356bd16e615ec67a17bc5e0622d824d6]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-4915fc695a32df2594a0de5a5c6cfe79]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
+[^c-4915fc695a32df2594a0de5a5c6cfe79]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
 
-[^key-8eaaa7c27949c199d2ee6e6992d8ba1a]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-8eaaa7c27949c199d2ee6e6992d8ba1a]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-809f038926acdda4d7a05440402f6408]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-809f038926acdda4d7a05440402f6408]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-42752bfca531e9d91a58158712c0669d]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-42752bfca531e9d91a58158712c0669d]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/28/section/17) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
-[^key-ba3a96899d7faccc01335b990b25722e]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/28/section/18) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
+[^c-ba3a96899d7faccc01335b990b25722e]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/28/section/18) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
 
-[^key-4959d4ae5683b2d9720cf2ab76a0ecc3]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/28/section/18) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-4959d4ae5683b2d9720cf2ab76a0ecc3]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/28/section/18) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-94c70aa4cd605674f1ada8aa088e0c83]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/28/section/18) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-94c70aa4cd605674f1ada8aa088e0c83]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/28/section/18) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-7e2ff5ce04603d13587450bc4d9e68af]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/28/section/18) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
+[^c-7e2ff5ce04603d13587450bc4d9e68af]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/28/section/18) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
 
-[^key-466783e342bb1eba9f9768d119753f2e]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/28/section/18) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-466783e342bb1eba9f9768d119753f2e]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/28/section/18) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-9dcf9d4987d0919c2c4420d30e9a531f]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/28/section/18) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-9dcf9d4987d0919c2c4420d30e9a531f]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/28/section/18) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-b59d1b5dc055f240a99be78e2b1af0db]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/28/section/18) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-b59d1b5dc055f240a99be78e2b1af0db]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/28/section/18) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
 [^c2231941]: Commencement: S. 19 partly in force at Royal Assent; s. 19 in force for specified purposes at Royal Assent, see s. 75(1)(c)
 
-[^key-be54ec6b82ed5a793b3008e076615f7f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/28/section/19) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
+[^c-be54ec6b82ed5a793b3008e076615f7f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/28/section/19) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
 
-[^key-0c30028fa96892e4cf6258f76af684c6]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/28/section/19) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-0c30028fa96892e4cf6258f76af684c6]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/28/section/19) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-8c1a11106f24356f9c90d5d81f722093]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/28/section/19) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-8c1a11106f24356f9c90d5d81f722093]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/28/section/19) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-2611a187fbf55cba5eb533bb52e6165f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/28/section/19) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
+[^c-2611a187fbf55cba5eb533bb52e6165f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/28/section/19) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
 
-[^key-657e095db8a13dda59b4700a487577ca]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/28/section/19) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-657e095db8a13dda59b4700a487577ca]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/28/section/19) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-d34d45876776b3eb97561242d1781792]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/28/section/19) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-d34d45876776b3eb97561242d1781792]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/28/section/19) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-86b1b53a8e9db7d2a270effdf417258d]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/28/section/19) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-86b1b53a8e9db7d2a270effdf417258d]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/28/section/19) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
-[^key-5c5c189f8b99e934e845b452744d82da]: Textual amendment: Words in [s. 19(5)](https://www.legislation.gov.uk/ukpga/2014/28/section/19/5) substituted (1.6.2015) by [The Childcare Payments Act 2014 (Amendment) Regulations 2015 (S.I. 2015/537)](https://www.legislation.gov.uk/uksi/2015/537), [regs. 1](https://www.legislation.gov.uk/uksi/2015/537/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/537/regulation/2/2)
+[^c-5c5c189f8b99e934e845b452744d82da]: Textual amendment: Words in [s. 19(5)](https://www.legislation.gov.uk/ukpga/2014/28/section/19/5) substituted (1.6.2015) by [The Childcare Payments Act 2014 (Amendment) Regulations 2015 (S.I. 2015/537)](https://www.legislation.gov.uk/uksi/2015/537), [regs. 1](https://www.legislation.gov.uk/uksi/2015/537/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/537/regulation/2/2)
 
-[^key-df7ff83848f579added71af49688525a]: Textual amendment: [S. 19(10)](https://www.legislation.gov.uk/ukpga/2014/28/section/19/10) inserted (1.6.2015) by [The Childcare Payments Act 2014 (Amendment) Regulations 2015 (S.I. 2015/537)](https://www.legislation.gov.uk/uksi/2015/537), [regs. 1](https://www.legislation.gov.uk/uksi/2015/537/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/537/regulation/2/3)
+[^c-df7ff83848f579added71af49688525a]: Textual amendment: [S. 19(10)](https://www.legislation.gov.uk/ukpga/2014/28/section/19/10) inserted (1.6.2015) by [The Childcare Payments Act 2014 (Amendment) Regulations 2015 (S.I. 2015/537)](https://www.legislation.gov.uk/uksi/2015/537), [regs. 1](https://www.legislation.gov.uk/uksi/2015/537/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/537/regulation/2/3)
 
 [^c2231942]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) partly in force at Royal Assent; [s. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-0e401de35a8580ab52982da0c0c51143]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
+[^c-0e401de35a8580ab52982da0c0c51143]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
 
-[^key-8c7acdedc7b40688d00ff6004ee802ca]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-8c7acdedc7b40688d00ff6004ee802ca]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-13bb18efbd524ef87d76bfd0d54cbe62]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-13bb18efbd524ef87d76bfd0d54cbe62]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-ff446a1ba5a759cc40578523d1d5d34b]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
+[^c-ff446a1ba5a759cc40578523d1d5d34b]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
 
-[^key-557e01502fa44d3f2f078fee087b916e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-557e01502fa44d3f2f078fee087b916e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-841361072bc92ceb1aac5dd08d2d7105]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-841361072bc92ceb1aac5dd08d2d7105]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-505dd487ad38ae0efd3a3a7e8ce8a22c]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-505dd487ad38ae0efd3a3a7e8ce8a22c]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/28/section/20) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
-[^key-5d7ad55aa1e4cf98c98fe7ec1b782cee]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/28/section/21) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
+[^c-5d7ad55aa1e4cf98c98fe7ec1b782cee]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/28/section/21) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
 
-[^key-6fd9aa4229c207c2e71c030df2453e42]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/28/section/21) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-6fd9aa4229c207c2e71c030df2453e42]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/28/section/21) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-ec3ea9699d15264b7b04e3c32ea42982]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/28/section/21) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-ec3ea9699d15264b7b04e3c32ea42982]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/28/section/21) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-f7f097292a397047b33b4870c61e9b99]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/28/section/21) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
+[^c-f7f097292a397047b33b4870c61e9b99]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/28/section/21) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
 
-[^key-3d5e8e6f8164d442b7d0401bd935e5b5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/28/section/21) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-3d5e8e6f8164d442b7d0401bd935e5b5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/28/section/21) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-2fa6ca481a20a1cbeaaae45b42a45cca]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/28/section/21) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-2fa6ca481a20a1cbeaaae45b42a45cca]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/28/section/21) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-0f150a08cd9c27083c3b0a253bdc5109]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/28/section/21) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-0f150a08cd9c27083c3b0a253bdc5109]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/28/section/21) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
-[^key-effdf0062429db685eacf34be4af5d6e]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/28/section/22) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
+[^c-effdf0062429db685eacf34be4af5d6e]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/28/section/22) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
 
-[^key-f9eebe470c17257f4136ccaea12f6974]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/28/section/22) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-f9eebe470c17257f4136ccaea12f6974]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/28/section/22) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-2ad1da3c874a94f2b3a973d3cb26233a]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/28/section/22) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-2ad1da3c874a94f2b3a973d3cb26233a]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/28/section/22) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-4fa2e44e47d7bb3989316f82c3f86670]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/28/section/22) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
+[^c-4fa2e44e47d7bb3989316f82c3f86670]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/28/section/22) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
 
-[^key-cbb6e6f798bbe3355f4ba6d16b6bb446]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/28/section/22) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-cbb6e6f798bbe3355f4ba6d16b6bb446]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/28/section/22) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-016d7f2862a8d24e63347c8872f5ce99]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/28/section/22) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-016d7f2862a8d24e63347c8872f5ce99]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/28/section/22) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-dd5f8095b85dc6b90d434912f2f3f0b3]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/28/section/22) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-dd5f8095b85dc6b90d434912f2f3f0b3]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/28/section/22) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
-[^key-b7e89b196bb7177b8d9e2da457c415de]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/28/section/23) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
+[^c-b7e89b196bb7177b8d9e2da457c415de]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/28/section/23) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
 
-[^key-315ad517ae916ddf675a3dea5eb375d5]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/28/section/23) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-315ad517ae916ddf675a3dea5eb375d5]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/28/section/23) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-2d3148788d9d7a7df583e9580c6d21e9]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/28/section/23) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-2d3148788d9d7a7df583e9580c6d21e9]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/28/section/23) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-f0a46854eb09e65e8875253dcd7e078f]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/28/section/23) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
+[^c-f0a46854eb09e65e8875253dcd7e078f]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/28/section/23) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
 
-[^key-62690f0553752348146d9c117f6636cf]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/28/section/23) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-62690f0553752348146d9c117f6636cf]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/28/section/23) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-f99ecd1cc680d2679cdc3b6c4e422d2f]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/28/section/23) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-f99ecd1cc680d2679cdc3b6c4e422d2f]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/28/section/23) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-fd53d355f0c770b23312ae3cb37fdc10]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/28/section/23) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-fd53d355f0c770b23312ae3cb37fdc10]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/28/section/23) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
 [^c2231943]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) partly in force at Royal Assent; [s. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-2a77db7b9f403f441cf1738eea62fb7c]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
+[^c-2a77db7b9f403f441cf1738eea62fb7c]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
 
-[^key-341f90148e6e073ee9d1ba683c663f3a]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-341f90148e6e073ee9d1ba683c663f3a]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-54b92df9b37daf702488e63a5cdf6dc3]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-54b92df9b37daf702488e63a5cdf6dc3]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-42dcf6530676af7a4481d4e6938d7f7f]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
+[^c-42dcf6530676af7a4481d4e6938d7f7f]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
 
-[^key-a053052fe5d7d0819a5edf149259ed52]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-a053052fe5d7d0819a5edf149259ed52]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-e2b8b1a23a784b235bcd13f7884a70e8]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-e2b8b1a23a784b235bcd13f7884a70e8]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-1d8f54234e96f560e7bbf76a61f57f1d]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-1d8f54234e96f560e7bbf76a61f57f1d]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/28/section/24) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
 [^c2231944]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) partly in force at Royal Assent; [s. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-f7380fdd4736598bd076e4adc13b4744]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
+[^c-f7380fdd4736598bd076e4adc13b4744]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/c)
 
-[^key-44ca8ac2c43fa53961771de8a9b95d96]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-44ca8ac2c43fa53961771de8a9b95d96]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-287a21640f06a37ff16752fc53ea4145]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-287a21640f06a37ff16752fc53ea4145]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-e39eeee0983f6a2e77cdb67cabc6c346]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
+[^c-e39eeee0983f6a2e77cdb67cabc6c346]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/d)
 
-[^key-b47047cfb33717bce21b921c7365fde2]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-b47047cfb33717bce21b921c7365fde2]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-40c269144efed40d72545e893a326e1a]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-40c269144efed40d72545e893a326e1a]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-7214a876f8bffd333822f45d9609a301]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-7214a876f8bffd333822f45d9609a301]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/28/section/25) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
 [^c2231945]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2014/28/section/26) partly in force at Royal Assent; [s. 26](https://www.legislation.gov.uk/ukpga/2014/28/section/26) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-cd8d5d8cd69d99ff107d19d7f52d7974]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2014/28/section/26) in force at 20.7.2016 by [S.I. 2016/763](https://www.legislation.gov.uk/uksi/2016/763), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/763/regulation/2/1)
+[^c-cd8d5d8cd69d99ff107d19d7f52d7974]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2014/28/section/26) in force at 20.7.2016 by [S.I. 2016/763](https://www.legislation.gov.uk/uksi/2016/763), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/763/regulation/2/1)
 
-[^key-3fb63a66b008c57914a83198a3e9f225]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2014/28/section/27) in force at 20.7.2016 by [S.I. 2016/763](https://www.legislation.gov.uk/uksi/2016/763), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/763/regulation/2/1)
+[^c-3fb63a66b008c57914a83198a3e9f225]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2014/28/section/27) in force at 20.7.2016 by [S.I. 2016/763](https://www.legislation.gov.uk/uksi/2016/763), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/763/regulation/2/1)
 
-[^key-912bc7e097c9f0cb0a1ef60ccdef0898]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2014/28/section/28) in force at 20.7.2016 by [S.I. 2016/763](https://www.legislation.gov.uk/uksi/2016/763), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/763/regulation/2/1)
+[^c-912bc7e097c9f0cb0a1ef60ccdef0898]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2014/28/section/28) in force at 20.7.2016 by [S.I. 2016/763](https://www.legislation.gov.uk/uksi/2016/763), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/763/regulation/2/1)
 
-[^key-c2229f265722a55fc5dba4675d13170f]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2014/28/section/29) in force at 20.7.2016 by [S.I. 2016/763](https://www.legislation.gov.uk/uksi/2016/763), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/763/regulation/2/1)
+[^c-c2229f265722a55fc5dba4675d13170f]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2014/28/section/29) in force at 20.7.2016 by [S.I. 2016/763](https://www.legislation.gov.uk/uksi/2016/763), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/763/regulation/2/1)
 
 [^c2231927]: Modification: This section ceases to have effect in accordance with s. 30(13)
 
 [^c2231946]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2014/28/section/30) partly in force at Royal Assent; [s. 30](https://www.legislation.gov.uk/ukpga/2014/28/section/30) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-f7b0be015e4aa2e1297a60fda98556ae]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2014/28/section/30) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/d)
+[^c-f7b0be015e4aa2e1297a60fda98556ae]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2014/28/section/30) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/d)
 
-[^key-0f514d7c8d7c51bec950010de5609550]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2014/28/section/30) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
+[^c-0f514d7c8d7c51bec950010de5609550]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2014/28/section/30) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
 
 [^c2231947]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2014/28/section/31) partly in force at Royal Assent; [s. 31](https://www.legislation.gov.uk/ukpga/2014/28/section/31) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-f661f70a04f63b7a9c3ac5b088aa5911]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2014/28/section/31) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
+[^c-f661f70a04f63b7a9c3ac5b088aa5911]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2014/28/section/31) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
 
 [^c2231948]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2014/28/section/32) partly in force at Royal Assent; [s. 32](https://www.legislation.gov.uk/ukpga/2014/28/section/32) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-fe7ca4f4c9fe5e17d5f1915cc2cfab1e]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2014/28/section/32) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/e)
+[^c-fe7ca4f4c9fe5e17d5f1915cc2cfab1e]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2014/28/section/32) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/e)
 
-[^key-12ccc43bcb5d44cef77649189d0d6c42]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2014/28/section/32) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
+[^c-12ccc43bcb5d44cef77649189d0d6c42]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2014/28/section/32) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
 
 [^c2231949]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2014/28/section/33) partly in force at Royal Assent; [s. 33](https://www.legislation.gov.uk/ukpga/2014/28/section/33) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-32344dbbf80bb2cb59747f34f70b2270]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2014/28/section/33) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/e)
+[^c-32344dbbf80bb2cb59747f34f70b2270]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2014/28/section/33) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/e)
 
-[^key-d3db822571d81bce8cb006526539d9ed]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2014/28/section/33) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
+[^c-d3db822571d81bce8cb006526539d9ed]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2014/28/section/33) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
 
-[^key-ff7e6ce65c8fb6d46dfa886acb8ca941]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2014/28/section/34) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/e)
+[^c-ff7e6ce65c8fb6d46dfa886acb8ca941]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2014/28/section/34) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/e)
 
-[^key-135620317554f098f94a986bb07b8506]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2014/28/section/34) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
+[^c-135620317554f098f94a986bb07b8506]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2014/28/section/34) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
 
-[^key-d20ab092aa75e87a1128b9c48fe65ddc]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2014/28/section/35) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/e)
+[^c-d20ab092aa75e87a1128b9c48fe65ddc]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2014/28/section/35) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/e)
 
-[^key-393097b1f874f0bf365192143b0d5030]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2014/28/section/35) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
+[^c-393097b1f874f0bf365192143b0d5030]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2014/28/section/35) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
 
-[^key-edbd3278a94488b5d71a2ae5c27fc98f]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2014/28/section/36) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/e)
+[^c-edbd3278a94488b5d71a2ae5c27fc98f]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2014/28/section/36) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/e)
 
-[^key-79850adb0cdcb8a2a3bfa5f98e86dde0]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2014/28/section/36) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
+[^c-79850adb0cdcb8a2a3bfa5f98e86dde0]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2014/28/section/36) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
 
-[^key-47650c44e1bb9f4420448a19ea0c1cf1]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2014/28/section/37) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/e)
+[^c-47650c44e1bb9f4420448a19ea0c1cf1]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2014/28/section/37) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/e)
 
-[^key-ccc75b1ca1fd78c0b64acf85ae2cfdea]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2014/28/section/37) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
+[^c-ccc75b1ca1fd78c0b64acf85ae2cfdea]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2014/28/section/37) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
 
-[^key-77d8785617b48e489d5c691d0466f322]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/28/section/38) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/e)
+[^c-77d8785617b48e489d5c691d0466f322]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/28/section/38) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/e)
 
-[^key-d423ecf769ed61140751f778c8f329c3]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/28/section/38) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
+[^c-d423ecf769ed61140751f778c8f329c3]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/28/section/38) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
 
-[^key-41ae36d8cf7c469bdec98e2e399d62bc]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2014/28/section/39) in force at 21.4.2017 by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/578/regulation/5))
+[^c-41ae36d8cf7c469bdec98e2e399d62bc]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2014/28/section/39) in force at 21.4.2017 by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/578/regulation/5))
 
-[^key-f057bb874344b379b28f3634c88d5d7d]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2014/28/section/40) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/f)
+[^c-f057bb874344b379b28f3634c88d5d7d]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2014/28/section/40) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/f)
 
-[^key-4f9d8efdbdae00b441e721bc5089e72f]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2014/28/section/40) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
+[^c-4f9d8efdbdae00b441e721bc5089e72f]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2014/28/section/40) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
 
-[^key-9693c13095cbabfeda9a42ac72fa8295]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2014/28/section/41) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/f)
+[^c-9693c13095cbabfeda9a42ac72fa8295]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2014/28/section/41) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/f)
 
-[^key-3eddbf070ed244e07018c06692cfa4cc]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2014/28/section/41) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
+[^c-3eddbf070ed244e07018c06692cfa4cc]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2014/28/section/41) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
 
-[^key-530a648e83445041a23ebcd26258c855]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2014/28/section/42) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/f)
+[^c-530a648e83445041a23ebcd26258c855]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2014/28/section/42) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/f)
 
-[^key-cf7be5c8da45474a19f3db97677b3980]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2014/28/section/42) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
+[^c-cf7be5c8da45474a19f3db97677b3980]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2014/28/section/42) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/d)
 
 [^c2231950]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2014/28/section/43) partly in force at Royal Assent; [s. 43](https://www.legislation.gov.uk/ukpga/2014/28/section/43) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-2dc15f5ae2e70e1f904cf954d32345da]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2014/28/section/43) in force at 20.7.2016 by [S.I. 2016/763](https://www.legislation.gov.uk/uksi/2016/763), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/763/regulation/2/1)
+[^c-2dc15f5ae2e70e1f904cf954d32345da]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2014/28/section/43) in force at 20.7.2016 by [S.I. 2016/763](https://www.legislation.gov.uk/uksi/2016/763), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/763/regulation/2/1)
 
 [^c2231951]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2014/28/section/44) partly in force at Royal Assent; [s. 44](https://www.legislation.gov.uk/ukpga/2014/28/section/44) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-c6c102ab93be0f868d75c6439e29e0c4]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2014/28/section/44) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-c6c102ab93be0f868d75c6439e29e0c4]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2014/28/section/44) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-35f5f1e06adb11a501bd69b81e83f4d7]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2014/28/section/44) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-35f5f1e06adb11a501bd69b81e83f4d7]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2014/28/section/44) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
-[^key-5d7a9075fc8ad1d5e9b66cc9067e9524]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2014/28/section/45) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-5d7a9075fc8ad1d5e9b66cc9067e9524]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2014/28/section/45) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-ffdfe3f1b8ff5cde3d634290f3fe54ec]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2014/28/section/45) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-ffdfe3f1b8ff5cde3d634290f3fe54ec]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2014/28/section/45) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
 [^c2231952]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2014/28/section/46) partly in force at Royal Assent; [s. 46](https://www.legislation.gov.uk/ukpga/2014/28/section/46) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-88d073e3b1b8bcc1bd22de15d690bfec]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2014/28/section/46) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-88d073e3b1b8bcc1bd22de15d690bfec]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2014/28/section/46) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-bea36ebb002de89eae15c478d931f77c]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2014/28/section/46) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-bea36ebb002de89eae15c478d931f77c]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2014/28/section/46) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
-[^key-82dcad1a872822c85cf92221dcacd5d7]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2014/28/section/47) in force at 20.7.2016 for specified purposes by [S.I. 2016/763](https://www.legislation.gov.uk/uksi/2016/763), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/763/regulation/2/2)
+[^c-82dcad1a872822c85cf92221dcacd5d7]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2014/28/section/47) in force at 20.7.2016 for specified purposes by [S.I. 2016/763](https://www.legislation.gov.uk/uksi/2016/763), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/763/regulation/2/2)
 
-[^key-e5ba1eabfdd869d0ba2e42f5280e885c]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2014/28/section/47) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-e5ba1eabfdd869d0ba2e42f5280e885c]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2014/28/section/47) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-64d005263d52dc27eada7dfa723329b2]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2014/28/section/47) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-64d005263d52dc27eada7dfa723329b2]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2014/28/section/47) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
-[^key-696bfa58a431affa344c89dd0a37ab9b]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2014/28/section/48) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-696bfa58a431affa344c89dd0a37ab9b]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2014/28/section/48) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-d44f09d1e347a5675d3d41daf6132216]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2014/28/section/48) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-d44f09d1e347a5675d3d41daf6132216]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2014/28/section/48) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
-[^key-9c44b789d6338998eeeb8f4e7156c1bc]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2014/28/section/49) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-9c44b789d6338998eeeb8f4e7156c1bc]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2014/28/section/49) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-8b42a240c78d41bf9c85529394b3c807]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2014/28/section/49) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-8b42a240c78d41bf9c85529394b3c807]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2014/28/section/49) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
 [^c2231953]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2014/28/section/50) partly in force at Royal Assent; [s. 50](https://www.legislation.gov.uk/ukpga/2014/28/section/50) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-f9290f631c9324cb17ea3d3f94e9bc8c]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2014/28/section/50) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-f9290f631c9324cb17ea3d3f94e9bc8c]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2014/28/section/50) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-16a723465359cb622bce237df54851a0]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2014/28/section/50) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-16a723465359cb622bce237df54851a0]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2014/28/section/50) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
-[^key-b2b59e68daa72558390dcb4af5f4b422]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2014/28/section/51) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-b2b59e68daa72558390dcb4af5f4b422]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2014/28/section/51) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-72412b8f76b71ca736671d3cc604e44c]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2014/28/section/51) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-72412b8f76b71ca736671d3cc604e44c]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2014/28/section/51) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
-[^key-4c2d499e0595b7739d1ae23072ffe8c9]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2014/28/section/52) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-4c2d499e0595b7739d1ae23072ffe8c9]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2014/28/section/52) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-789d40f790edb7d1924298e2331902b9]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2014/28/section/52) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-789d40f790edb7d1924298e2331902b9]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2014/28/section/52) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
-[^key-70783248f05f1891c5e571cfbf91c42c]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2014/28/section/53) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-70783248f05f1891c5e571cfbf91c42c]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2014/28/section/53) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-b534d6d3735178984f20383bbe8a104c]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2014/28/section/53) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-b534d6d3735178984f20383bbe8a104c]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2014/28/section/53) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
-[^key-2236c0cfb9b683f146368dced68823d6]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2014/28/section/54) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-2236c0cfb9b683f146368dced68823d6]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2014/28/section/54) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-3ba564bf0af23aa4867124d23b26fe6d]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2014/28/section/54) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-3ba564bf0af23aa4867124d23b26fe6d]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2014/28/section/54) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
-[^key-6458ef2094485ffcc71c46f9ab50abcf]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2014/28/section/55) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-6458ef2094485ffcc71c46f9ab50abcf]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2014/28/section/55) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-36b8c52ed8459c8917643fbea7bf4845]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2014/28/section/55) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-36b8c52ed8459c8917643fbea7bf4845]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2014/28/section/55) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
-[^key-2f068a75eaa4408c1fd0b7390666ad8a]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2014/28/section/56) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-2f068a75eaa4408c1fd0b7390666ad8a]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2014/28/section/56) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-8d2233812b727b7d8fe68b5efcb873b4]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2014/28/section/56) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-8d2233812b727b7d8fe68b5efcb873b4]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2014/28/section/56) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
-[^key-302cfcc2a68aaabd1c3780fbb269d84e]: Commencement: S. 57 in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-302cfcc2a68aaabd1c3780fbb269d84e]: Commencement: S. 57 in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-9285a9ddb417d7e21d7fef66e22bf5fa]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2014/28/section/57) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-9285a9ddb417d7e21d7fef66e22bf5fa]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2014/28/section/57) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
-[^key-c14a7ae613793d268f475dd7eb9ce4aa]: Textual amendment: [S. 57(3A)](https://www.legislation.gov.uk/ukpga/2014/28/section/57/3A) inserted (16.3.2017) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2017/1/section/5/3/a), [7(3)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/3)
+[^c-c14a7ae613793d268f475dd7eb9ce4aa]: Textual amendment: [S. 57(3A)](https://www.legislation.gov.uk/ukpga/2014/28/section/57/3A) inserted (16.3.2017) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2017/1/section/5/3/a), [7(3)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/3)
 
-[^key-9704b1947e4cad4c1f169a752ef3d3b9]: Textual amendment: Words in [s. 57(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/57/4) inserted (16.3.2017) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2017/1/section/5/3/b), [7(3)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/3)
+[^c-9704b1947e4cad4c1f169a752ef3d3b9]: Textual amendment: Words in [s. 57(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/57/4) inserted (16.3.2017) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2017/1/section/5/3/b), [7(3)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/3)
 
-[^key-848153b481bdc1be884a488832810597]: Commencement: S. 58 in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-848153b481bdc1be884a488832810597]: Commencement: S. 58 in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-a5e26edd3e278850c558b7064fa7ff28]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2014/28/section/58) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-a5e26edd3e278850c558b7064fa7ff28]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2014/28/section/58) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
-[^key-93f1368c98143c466daea047c791397e]: Textual amendment: [S. 58(2A)](https://www.legislation.gov.uk/ukpga/2014/28/section/58/2A) inserted (16.3.2017) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 5(4)](https://www.legislation.gov.uk/ukpga/2017/1/section/5/4), [7(3)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/3)
+[^c-93f1368c98143c466daea047c791397e]: Textual amendment: [S. 58(2A)](https://www.legislation.gov.uk/ukpga/2014/28/section/58/2A) inserted (16.3.2017) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 5(4)](https://www.legislation.gov.uk/ukpga/2017/1/section/5/4), [7(3)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/3)
 
-[^key-d84b615c80fae30886ebd7b96cd29368]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2014/28/section/59) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-d84b615c80fae30886ebd7b96cd29368]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2014/28/section/59) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-0286e60f90271012102fdc4b3af0bf3e]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2014/28/section/59) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-0286e60f90271012102fdc4b3af0bf3e]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2014/28/section/59) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
-[^key-33742c0a0f3c6dd47cda40c4ce7b98fe]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2014/28/section/60) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-33742c0a0f3c6dd47cda40c4ce7b98fe]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2014/28/section/60) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-3c59b82645228f6775eaf594377fd6f2]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2014/28/section/60) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-3c59b82645228f6775eaf594377fd6f2]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2014/28/section/60) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
-[^key-f7ad0177dc39e56727e74c4e61cc35fa]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2014/28/section/61) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-f7ad0177dc39e56727e74c4e61cc35fa]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2014/28/section/61) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-56ffadb43bc9c8355ebd787f332bd376]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2014/28/section/61) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
+[^c-56ffadb43bc9c8355ebd787f332bd376]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2014/28/section/61) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/e)
 
 [^c2231954]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) partly in force at Royal Assent; [s. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) in force for specified purposes at Royal Assent, see [s. 75(1)(c)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/c)
 
-[^key-e196918e695651d1c7293cd409c301cb]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
+[^c-e196918e695651d1c7293cd409c301cb]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/g)
 
-[^key-df0dda4f75f937848206addfa8ac0d76]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-df0dda4f75f937848206addfa8ac0d76]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-1f2cccb920457d88eb2a6f773cc31805]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-1f2cccb920457d88eb2a6f773cc31805]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-c18faa03b6d4789d8c90d4f57ecbd234]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(e)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/e)
+[^c-c18faa03b6d4789d8c90d4f57ecbd234]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(e)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/e)
 
-[^key-9a684a74f426aa14eba4a40bb7e9cca3]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-9a684a74f426aa14eba4a40bb7e9cca3]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-52f41f30c219e5df1ed1c166cd63ae8a]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-52f41f30c219e5df1ed1c166cd63ae8a]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-d57e560ba81189f4634d7db0898b6444]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-d57e560ba81189f4634d7db0898b6444]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2014/28/section/62) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
 
-[^key-14fc045ba9fa1ac8e3ba065f9320cee8]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2014/28/section/63) in force at 21.4.2017 by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/578/regulation/8))
+[^c-14fc045ba9fa1ac8e3ba065f9320cee8]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2014/28/section/63) in force at 21.4.2017 by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/578/regulation/8))
 
-[^key-84444bf9c475c6d63e791017cec146d0]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2014/28/section/64) in force at 21.4.2017 by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/578/regulation/8))
+[^c-84444bf9c475c6d63e791017cec146d0]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2014/28/section/64) in force at 21.4.2017 by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/578/regulation/8))
 
-[^key-97ff7050dbe7673fa14d613c0616df74]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2014/28/section/66) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/h)
+[^c-97ff7050dbe7673fa14d613c0616df74]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2014/28/section/66) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/h)
 
-[^key-f1be5dc8a395cb287a2763a4aa5044d1]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2014/28/section/66) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/g)
+[^c-f1be5dc8a395cb287a2763a4aa5044d1]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2014/28/section/66) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/g)
 
-[^key-a764490c1e02c4f0cebee7f0f68bbf2f]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2014/28/section/67) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/h)
+[^c-a764490c1e02c4f0cebee7f0f68bbf2f]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2014/28/section/67) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/h)
 
-[^key-124dd50725f5598892abb064489e1bc0]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2014/28/section/67) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/g)
+[^c-124dd50725f5598892abb064489e1bc0]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2014/28/section/67) in force at 21.4.2017 in so far as not already in force by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/g)
 
 [^c2231926]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2014/28/section/73) partly in force at Royal Assent; [s. 73(1)](https://www.legislation.gov.uk/ukpga/2014/28/section/73/1) in force at Royal Assent, see [s. 75(1)(b)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/1/b), (2)
 
-[^key-6fa0d00512de2cb09f8d2637e4046dd5]: Commencement: [S. 73(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/73/2) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/i)
+[^c-6fa0d00512de2cb09f8d2637e4046dd5]: Commencement: [S. 73(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/73/2) in force at 14.11.2016 for the purposes of the trial by [S.I. 2016/1083](https://www.legislation.gov.uk/uksi/2016/1083), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2016/1083/regulation/2/i)
 
-[^key-251cdc983db77a55db26f3fdcec65085]: Commencement: [S. 73(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/73/2) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
+[^c-251cdc983db77a55db26f3fdcec65085]: Commencement: [S. 73(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/73/2) in force at 21.4.2017 for specified purposes by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 2](https://www.legislation.gov.uk/uksi/2017/578/regulation/2)
 
-[^key-c6fe280c77afab6e50be9eb2011462c6]: Commencement: [S. 73(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/73/2) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
+[^c-c6fe280c77afab6e50be9eb2011462c6]: Commencement: [S. 73(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/73/2) in force at 16.5.2017 so far as not already in force in respect of those recruited to participate in the trial by [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 4](https://www.legislation.gov.uk/uksi/2017/578/regulation/4)
 
-[^key-d10e8169341fdb06c171bc8e4679498f]: Commencement: [S. 73(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/73/2) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(f)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/f)
+[^c-d10e8169341fdb06c171bc8e4679498f]: Commencement: [S. 73(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/73/2) in force at 14.7.2017 for specified purposes by [S.I. 2017/750](https://www.legislation.gov.uk/uksi/2017/750), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/1)[(2)(f)](https://www.legislation.gov.uk/uksi/2017/750/regulation/2/2/f)
 
-[^key-c9365dbcd918be5ec2671c29b2cb39cb]: Commencement: [S. 73(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/73/2) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
+[^c-c9365dbcd918be5ec2671c29b2cb39cb]: Commencement: [S. 73(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/73/2) in force at 24.11.2017 for specified purposes by [S.I. 2017/1116](https://www.legislation.gov.uk/uksi/2017/1116), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1116/regulation/2)
 
-[^key-5936c44e3b790a407563e26e18d9dbf1]: Commencement: [S. 73(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/73/2) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
+[^c-5936c44e3b790a407563e26e18d9dbf1]: Commencement: [S. 73(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/73/2) in force at 15.1.2018 for specified purposes by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/4)
 
-[^key-97feacc5c65deb9d11b6d11b9db08284]: Commencement: [S. 73(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/73/2) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)
+[^c-97feacc5c65deb9d11b6d11b9db08284]: Commencement: [S. 73(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/73/2) in force at 14.2.2018 in so far as not already in force by [S.I. 2018/27](https://www.legislation.gov.uk/uksi/2018/27), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/27/regulation/2/3)

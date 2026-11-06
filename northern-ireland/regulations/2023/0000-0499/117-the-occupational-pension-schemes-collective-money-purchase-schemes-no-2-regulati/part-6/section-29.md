@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Continuity option 1: discharge of liabilities and winding up[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+## 29. Continuity option 1: discharge of liabilities and winding up[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e25d5c44d6ebee8f738a36f4ebd5312b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/117) revoked (26.1.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024 (S.R. 2024/15)](https://www.legislation.gov.uk/nisr/2024/15), [regs. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1), [36](https://www.legislation.gov.uk/nisr/2024/15/regulation/36)
+[^c-e25d5c44d6ebee8f738a36f4ebd5312b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/117) revoked (26.1.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024 (S.R. 2024/15)](https://www.legislation.gov.uk/nisr/2024/15), [regs. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1), [36](https://www.legislation.gov.uk/nisr/2024/15/regulation/36)

@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Insolvency jurisdiction of county court hearing centres[^key-191f65614e7169c494188381ac91e503][^key-001f49ce619fc572d6fe7358cf801b4e][^key-58f26fd30bf61ad5d4c59e4b2d7b763b]
+## SCHEDULE 6 — Insolvency jurisdiction of county court hearing centres[^c-191f65614e7169c494188381ac91e503][^c-001f49ce619fc572d6fe7358cf801b4e][^c-58f26fd30bf61ad5d4c59e4b2d7b763b]
 
 *Extent: E+W*
 
 Rule 9.22
 
-[^key-191f65614e7169c494188381ac91e503][^key-001f49ce619fc572d6fe7358cf801b4e]
+[^c-191f65614e7169c494188381ac91e503][^c-001f49ce619fc572d6fe7358cf801b4e]
 
-[^key-58f26fd30bf61ad5d4c59e4b2d7b763b]
+[^c-58f26fd30bf61ad5d4c59e4b2d7b763b]
 
-\[Note: where the entry “London Insolvency District” appears in this table, jurisdiction under Part A1[^key-9cff2975030664a24d20a8ae894e2289] to 7 of the Act is conferred on the High Court as a result of article 6B of the High Court and County Courts Jurisdiction Order 1991 (S.I. 1991/724) which was inserted by the High Court and County Courts Jurisdiction (Amendment) Order 2014 (S.I. 2014/821).\]
+\[Note: where the entry “London Insolvency District” appears in this table, jurisdiction under Part A1[^c-9cff2975030664a24d20a8ae894e2289] to 7 of the Act is conferred on the High Court as a result of article 6B of the High Court and County Courts Jurisdiction Order 1991 (S.I. 1991/724) which was inserted by the High Court and County Courts Jurisdiction (Amendment) Order 2014 (S.I. 2014/821).\]
 
 | **Name of county court hearing centre** | **Parts of the Insolvency Act under which proceedings may be commenced at a county court hearing centre or the alternative court or county court hearing centre where proceedings may be commenced** | **Nearest full time court or hearing centre** |
 | --- | --- | --- |
@@ -193,10 +193,10 @@ Rule 9.22
 
 ## Annotations
 
-[^key-191f65614e7169c494188381ac91e503]: Modification: [Sch. 6](https://www.legislation.gov.uk/uksi/2016/1024/schedule/6) applied (with modifications) (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/47) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
+[^c-191f65614e7169c494188381ac91e503]: Modification: [Sch. 6](https://www.legislation.gov.uk/uksi/2016/1024/schedule/6) applied (with modifications) (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/47) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
 
-[^key-001f49ce619fc572d6fe7358cf801b4e]: Modification: Sch. 6 applied (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1), [35](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/35), [38](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/38) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
+[^c-001f49ce619fc572d6fe7358cf801b4e]: Modification: Sch. 6 applied (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1), [35](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/35), [38](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/38) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
 
-[^key-58f26fd30bf61ad5d4c59e4b2d7b763b]: Modification: [Sch. 6](https://www.legislation.gov.uk/uksi/2016/1024/schedule/6) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/1/d) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-58f26fd30bf61ad5d4c59e4b2d7b763b]: Modification: [Sch. 6](https://www.legislation.gov.uk/uksi/2016/1024/schedule/6) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/1/d) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-9cff2975030664a24d20a8ae894e2289]: Textual amendment: Words in Sch. 6 substituted (1.10.2021) by virtue of [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rule 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [Sch. 1 paras. 2](https://www.legislation.gov.uk/uksi/2021/1028/schedule/1/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/1028/schedule/1/paragraph/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-9cff2975030664a24d20a8ae894e2289]: Textual amendment: Words in Sch. 6 substituted (1.10.2021) by virtue of [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rule 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [Sch. 1 paras. 2](https://www.legislation.gov.uk/uksi/2021/1028/schedule/1/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/1028/schedule/1/paragraph/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Establishment of committees of the governing body[^key-d8fb4d743109172c7792b4b2d4cf4905]
+## 66. Establishment of committees of the governing body[^c-d8fb4d743109172c7792b4b2d4cf4905]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8fb4d743109172c7792b4b2d4cf4905]: Commencement: Reg. 66 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-d8fb4d743109172c7792b4b2d4cf4905]: Commencement: Reg. 66 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

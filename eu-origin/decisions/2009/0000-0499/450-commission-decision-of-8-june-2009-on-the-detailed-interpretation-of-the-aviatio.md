@@ -39,228 +39,228 @@ on the detailed interpretation of the aviation activities listed in Annex I to D
 
 (2009/450/EC) (revoked)
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-cd19f2e99949036ebb5f0a9dbb1cec19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-cd19f2e99949036ebb5f0a9dbb1cec19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-cd19f2e99949036ebb5f0a9dbb1cec19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-cd19f2e99949036ebb5f0a9dbb1cec19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Guidelines on the detailed interpretation of the aviation activities listed in Annex I to Directive 2003/87/EC[^key-cd19f2e99949036ebb5f0a9dbb1cec19]
+## ANNEX — Guidelines on the detailed interpretation of the aviation activities listed in Annex I to Directive 2003/87/EC[^c-cd19f2e99949036ebb5f0a9dbb1cec19]
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]1.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]1.
 
 DEFINITION OF AVIATION ACTIVITIES
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]1.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]3.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.
 
 INTERPRETATION OF THE EXEMPTIONS
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]4.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.1.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.1.
 
 **Exemption under subparagraph (a)**
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]5.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]6.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]7.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]8.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]9.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]10.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.2.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.2.
 
 **Exemptions under subparagraph (b)**
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.2.1.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.2.1.
 
 *Military flights*
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]11.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]11.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]12.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]12.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]13.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]13.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.2.2.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.2.2.
 
 *Customs and police flights*
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]14.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]14.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]15.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]15.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.3.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.3.
 
 **Exemptions under subparagraph (c)**
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]16.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]16.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.3.1.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.3.1.
 
 *Search and rescue flights*
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]17.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]17.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]18.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]18.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.3.2.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.3.2.
 
 *Firefighting flights*
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]19.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]19.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]20.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]20.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.3.3.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.3.3.
 
 *Humanitarian flights*
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]21.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]21.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]22.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]22.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.3.4.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.3.4.
 
 *Emergency medical service flights*
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]23.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]23.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]24.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]24.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.4.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.4.
 
 **Exemption under subparagraph (f)**
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]25.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]25.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.5.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.5.
 
 **Exemptions under subparagraph (g)**
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]26.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]26.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.5.1.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.5.1.
 
 *Flights performed exclusively for the purpose of scientific research*
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]27.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]27.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.5.2.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.5.2.
 
 *Flights performed exclusively for the purpose of checking, testing or certifying aircraft or equipment whether airborne or ground-based*
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]28.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]28.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.6.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.6.
 
 **Exemption under subparagraph (i) (public service obligation flights)**
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]29.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]29.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]2.7.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]2.7.
 
 **Exemption under subparagraph (j) (*de minimis* rule)**
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]30.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]30.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]31.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]31.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]32.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]32.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]33.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]33.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]34.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]34.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]35.
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]35.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cd19f2e99949036ebb5f0a9dbb1cec19]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-cd19f2e99949036ebb5f0a9dbb1cec19]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

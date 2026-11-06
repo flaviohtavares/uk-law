@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-653c0854ebd7ba3e617dc35ae520ca20] For section 29 (charges for goods and services) of the 2002 Act there is substituted—
+(1)[^c-653c0854ebd7ba3e617dc35ae520ca20] For section 29 (charges for goods and services) of the 2002 Act there is substituted—
 
 > **29. Charges for goods and services**
 >
@@ -246,7 +246,7 @@ summary: ''
 
 .
 
-(2)[^key-653c0854ebd7ba3e617dc35ae520ca20] In section 30 (maximum charges for services provided with help of Scottish Water) of that Act—
+(2)[^c-653c0854ebd7ba3e617dc35ae520ca20] In section 30 (maximum charges for services provided with help of Scottish Water) of that Act—
 
 - (a) in subsection (1), for the words “The Scottish Ministers may by order” there is substituted “ A charges scheme must also ”;
 - (b) in subsection (3), for the words “An order under this section” there is substituted “ In relation to maximum charges fixed by virtue of subsection (1), the charges scheme ”; and
@@ -254,15 +254,15 @@ summary: ''
   - (i) for the words “an order under this section” there is substituted “ , by virtue of subsection (1), a charges scheme ”; and
   - (ii) for the word “order” in the second place where it appears there is substituted “ scheme ”.
 
-(3)[^key-653c0854ebd7ba3e617dc35ae520ca20] Sections 31 to 34 of that Act (which make provision for and in connection with the making of charges schemes by Scottish Water) are repealed.
+(3)[^c-653c0854ebd7ba3e617dc35ae520ca20] Sections 31 to 34 of that Act (which make provision for and in connection with the making of charges schemes by Scottish Water) are repealed.
 
-(4)[^key-8d30d3fbca666bdee685be75d86edb65] In section 35 (liability of occupiers etc. for charges) of that Act, after subsection (9) there is added—
+(4)[^c-8d30d3fbca666bdee685be75d86edb65] In section 35 (liability of occupiers etc. for charges) of that Act, after subsection (9) there is added—
 
 > (10) This section does not apply to or in relation to any services provided by Scottish Water under section 16 of the Water Services etc. (Scotland) Act 2005 (asp 3) except where the provision of the service is continued under section 17(1) or 20(1) or (3) of that Act.
 
 .
 
-(5)[^key-8d30d3fbca666bdee685be75d86edb65] After that section of that Act there is inserted—
+(5)[^c-8d30d3fbca666bdee685be75d86edb65] After that section of that Act there is inserted—
 
 > **35A. Charges for services arranged by licensed providers**
 >
@@ -277,10 +277,10 @@ summary: ''
 
 .
 
-(6)[^key-653c0854ebd7ba3e617dc35ae520ca20] Schedule 3 makes provision in relation to certain pre-existing agreements as to charges.
+(6)[^c-653c0854ebd7ba3e617dc35ae520ca20] Schedule 3 makes provision in relation to certain pre-existing agreements as to charges.
 
 ## Annotations
 
-[^key-653c0854ebd7ba3e617dc35ae520ca20]: Commencement: S. 21(1)-(3) (6) in force at 1.7.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
+[^c-653c0854ebd7ba3e617dc35ae520ca20]: Commencement: S. 21(1)-(3) (6) in force at 1.7.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
 
-[^key-8d30d3fbca666bdee685be75d86edb65]: Commencement: S. 21(4)(5) in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-8d30d3fbca666bdee685be75d86edb65]: Commencement: S. 21(4)(5) in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)

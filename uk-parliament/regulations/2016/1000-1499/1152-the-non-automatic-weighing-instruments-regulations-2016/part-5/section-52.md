@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Subsidiaries and contractors[^M_E_e6ec4f98-8aef-4b6d-cc45-1d5ae07bebe6][^key-6b0a91f0fbfd2f7a675ec012ad9a4534]
+## 52. Subsidiaries and contractors[^M_E_e6ec4f98-8aef-4b6d-cc45-1d5ae07bebe6][^c-6b0a91f0fbfd2f7a675ec012ad9a4534]
 
 *Extent: E+W+S*
 
@@ -51,7 +51,7 @@ summary: ''
 
 [^M_E_e6ec4f98-8aef-4b6d-cc45-1d5ae07bebe6]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-6b0a91f0fbfd2f7a675ec012ad9a4534]: Textual amendment: Pt. 5 substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 32](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/32) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2); [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 paras. 1(o)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/o/v), [(vi)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/o/vi)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b0a91f0fbfd2f7a675ec012ad9a4534]: Textual amendment: Pt. 5 substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 32](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/32) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2); [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 paras. 1(o)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/o/v), [(vi)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/o/vi)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_81dfcb4c-a303-4828-f29c-8eb153a404bb]: Textual amendment: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 

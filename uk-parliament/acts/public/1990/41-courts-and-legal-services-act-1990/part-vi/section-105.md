@@ -62,7 +62,7 @@ summary: ''
 - (a) “**conveyancing services**” has the same meaning as in the [^c12477591]Law Reform (Miscellaneous Provisions) (Scotland) Act 1990; and
 - (b) the reference in section 104(1) to a loan being secured on land shall be read as a reference to its being secured over land by a standard security.
 
-(10) Before making any order or regulations under section 104 or this section the Secretary of State shall consult the FCA[^key-7a53501e2b7c25de5872feab0b348076] and such other persons as he considers appropriate.
+(10) Before making any order or regulations under section 104 or this section the Secretary of State shall consult the FCA[^c-7a53501e2b7c25de5872feab0b348076] and such other persons as he considers appropriate.
 
 ## Annotations
 
@@ -70,4 +70,4 @@ summary: ''
 
 [^c12477591]: Marginal citation: [1990 c. 40](https://www.legislation.gov.uk/ukpga/1990/40).
 
-[^key-7a53501e2b7c25de5872feab0b348076]: Textual amendment: Word in s. 105(10) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/2/2)
+[^c-7a53501e2b7c25de5872feab0b348076]: Textual amendment: Word in s. 105(10) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/2/2)

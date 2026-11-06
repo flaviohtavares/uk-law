@@ -38,7 +38,7 @@ summary: ''
 - (b)[^c13988471] he is the holder of–
   - (i) a current licence to drive a motor car (not being a provisional licence) granted under Part III of this Act,
   - (ii) a current licence to drive a motor car (not being a licence corresponding to a provisional licence) granted under the law in force in Northern Ireland, or
-  - (iii) a Community licence by which he is authorised to drive a motor car in Great Britain [^key-d5ab7e777f47f400889af81b7f23dfce]...,
+  - (iii) a Community licence by which he is authorised to drive a motor car in Great Britain [^c-d5ab7e777f47f400889af81b7f23dfce]...,
 - (c) during the period of six years ending with the day on which the application is made, the periods (if any) for which he did not hold one or more of the following licences, that is—
   - (i) a current licence of one of the kinds mentioned in paragraph (b) above, and
   - (ii)[^c13988481] a current foreign licence, that is to say a document issued under the law of a country or territory other than an EEA State (within the meaning of Part III of this Act [^c13988491]), authorising the holder to drive a motor car in that country or territory.
@@ -53,7 +53,7 @@ summary: ''
 - (a) the Registrar may not impose a requirement on the applicant under subsection (2C) if the Registrar is satisfied that the applicant holds a current certificate or other document that, under the law of the State that is the applicant’s home State for the purposes of those regulations, is of corresponding effect to an emergency control certificate, and
 - (b) subsection (3)(a) does not apply in relation to the applicant.
 
-(3B)[^key-0ebdf0fa0d69ea11d9bc25d973d3f915] Where the Registrar is satisfied that a person who has applied under subsection (3) is entitled to give paid instruction in the driving of motor cars by virtue of Part 2 of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023—
+(3B)[^c-0ebdf0fa0d69ea11d9bc25d973d3f915] Where the Registrar is satisfied that a person who has applied under subsection (3) is entitled to give paid instruction in the driving of motor cars by virtue of Part 2 of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023—
 
 - (a) the Registrar may not impose a requirement on the applicant under subsection (2C) if the Registrar is satisfied that the applicant holds a current certificate or other document that, under the law of one of the specified states set out in Schedule 1 to those Regulations, is of corresponding effect to an emergency control certificate, and
 - (b) subsection (3)(a) does not apply in relation to the applicant.
@@ -123,7 +123,7 @@ unless the Registrar is satisfied that there is good reason for permitting such 
 
 [^c13988471]: Textual amendment: S. 125(3)(b) substituted (1.4.1999) by [S.I. 1999/357](https://www.legislation.gov.uk/uksi/1999/357), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/1999/357/regulation/2/2/a)
 
-[^key-d5ab7e777f47f400889af81b7f23dfce]: Textual amendment: Words in s. 125(3)(b)(iii) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 2(c)(i)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/2/c/i)
+[^c-d5ab7e777f47f400889af81b7f23dfce]: Textual amendment: Words in s. 125(3)(b)(iii) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 2(c)(i)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/2/c/i)
 
 [^c13988481]: Textual amendment: S. 125(3)(c)(ii) substituted (1.4.1999) by [S.I. 1999/357](https://www.legislation.gov.uk/uksi/1999/357), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/1999/357/regulation/2/2/b)
 
@@ -139,7 +139,7 @@ unless the Registrar is satisfied that there is good reason for permitting such 
 
 [^M_F_431a7e04-9e45-4f3a-fd4b-1b7e03b2ae47]: Textual amendment: S. 125(3A) inserted (9.12.2016 until the commencement of [2006 c. 49](https://www.legislation.gov.uk/ukpga/2006/49), [Sch. 6](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6)) by [The Driving and Motorcycle Riding Instructors (Recognition of European Professional Qualifications) Regulations 2016 (S.I. 2016/1089)](https://www.legislation.gov.uk/uksi/2016/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1), [2(4)(f)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/4/f) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1089/regulation/5))
 
-[^key-0ebdf0fa0d69ea11d9bc25d973d3f915]: Textual amendment: [S. 125(3B)](https://www.legislation.gov.uk/ukpga/1988/52/section/125/3B) inserted (until the commencement of [2006 c. 49](https://www.legislation.gov.uk/ukpga/2006/49), [Sch. 6](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6)) by [S.I. 2016/1089](https://www.legislation.gov.uk/uksi/2016/1089), [reg. 2(4)(fa)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/4/fa) (as inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 97(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/97/2/a))
+[^c-0ebdf0fa0d69ea11d9bc25d973d3f915]: Textual amendment: [S. 125(3B)](https://www.legislation.gov.uk/ukpga/1988/52/section/125/3B) inserted (until the commencement of [2006 c. 49](https://www.legislation.gov.uk/ukpga/2006/49), [Sch. 6](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6)) by [S.I. 2016/1089](https://www.legislation.gov.uk/uksi/2016/1089), [reg. 2(4)(fa)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/4/fa) (as inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 97(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/97/2/a))
 
 [^M_F_45cc6779-8d5a-46f1-bfd4-2094494e2073]: Textual amendment: S. 125(5)(a)(b) and words substituted for words (8.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2), [Sch. 2 para. 17(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/17/4); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 

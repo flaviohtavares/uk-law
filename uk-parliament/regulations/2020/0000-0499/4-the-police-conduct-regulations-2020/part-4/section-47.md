@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Finding of the appeal[^key-0aae5231ce08fa6d2727492899c5f68e]
+## 47. Finding of the appeal[^c-0aae5231ce08fa6d2727492899c5f68e]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ the appropriate authority must give the Director General written notice of the d
 
 ## Annotations
 
-[^key-0aae5231ce08fa6d2727492899c5f68e]: Commencement: Reg. 47 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-0aae5231ce08fa6d2727492899c5f68e]: Commencement: Reg. 47 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

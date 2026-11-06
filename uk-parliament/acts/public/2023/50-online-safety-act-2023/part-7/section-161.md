@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. OFCOM’s report about use of app stores by children[^key-7624a28c5daafc45fcc80713ea5c693c][^key-14d4832e76e709d74dd5dd0ad584baac]
+## 161. OFCOM’s report about use of app stores by children[^c-7624a28c5daafc45fcc80713ea5c693c][^c-14d4832e76e709d74dd5dd0ad584baac]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7624a28c5daafc45fcc80713ea5c693c]: Commencement: S. 161 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-7624a28c5daafc45fcc80713ea5c693c]: Commencement: S. 161 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-14d4832e76e709d74dd5dd0ad584baac]: Commencement: S. 161 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-14d4832e76e709d74dd5dd0ad584baac]: Commencement: S. 161 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)

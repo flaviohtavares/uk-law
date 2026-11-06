@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Benefit of the Order[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+## 49. Benefit of the Order[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba60b02d70f93ffc3c65fe727c1611a8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/834) revoked (18.3.2026) by [The A303 (Amesbury to Berwick Down) Development Consent (Revocation) Order 2026 (S.I. 2026/309)](https://www.legislation.gov.uk/uksi/2026/309), [arts. 1](https://www.legislation.gov.uk/uksi/2026/309/article/1), [2](https://www.legislation.gov.uk/uksi/2026/309/article/2)
+[^c-ba60b02d70f93ffc3c65fe727c1611a8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/834) revoked (18.3.2026) by [The A303 (Amesbury to Berwick Down) Development Consent (Revocation) Order 2026 (S.I. 2026/309)](https://www.legislation.gov.uk/uksi/2026/309), [arts. 1](https://www.legislation.gov.uk/uksi/2026/309/article/1), [2](https://www.legislation.gov.uk/uksi/2026/309/article/2)

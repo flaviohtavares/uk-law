@@ -58,9 +58,9 @@ but without prejudice to the provisions of this Part as to the making of require
 
 but a failure to do so does not affect the validity of the permission.
 
-(7)[^key-527f68a4aae2d43c60f6a205219b18c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-527f68a4aae2d43c60f6a205219b18c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-527f68a4aae2d43c60f6a205219b18c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-527f68a4aae2d43c60f6a205219b18c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -68,4 +68,4 @@ but a failure to do so does not affect the validity of the permission.
 
 [^c16933681]: Textual amendment: Words in [s. 109(6)(a)](https://www.legislation.gov.uk/ukpga/1991/22/section/109/6/a) substituted (1.4.2002) by [Water Industry (Scotland) Act 2002 (asp. 3)](https://www.legislation.gov.uk/asp/2002/3), [s. 71](https://www.legislation.gov.uk/asp/2002/3/section/71), [Sch. 7 para. 21(3)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/21/3) (with [s. 67](https://www.legislation.gov.uk/asp/2002/3/section/67)); [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2](https://www.legislation.gov.uk/ssi/2002/118/article/2)
 
-[^key-527f68a4aae2d43c60f6a205219b18c5]: Textual amendment: [S. 109(7)](https://www.legislation.gov.uk/ukpga/1991/22/section/109/7)[(8)](https://www.legislation.gov.uk/ukpga/1991/22/section/109/8) repealed (10.1.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 114(2)](https://www.legislation.gov.uk/asp/2019/17/section/114/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-527f68a4aae2d43c60f6a205219b18c5]: Textual amendment: [S. 109(7)](https://www.legislation.gov.uk/ukpga/1991/22/section/109/7)[(8)](https://www.legislation.gov.uk/ukpga/1991/22/section/109/8) repealed (10.1.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 114(2)](https://www.legislation.gov.uk/asp/2019/17/section/114/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

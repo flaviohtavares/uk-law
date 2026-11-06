@@ -34,7 +34,7 @@ summary: ''
 
 (5) If without reasonable excuse the master of a ship causes or permits any prohibition imposed by a notice under subsection (2) above to be contravened in respect of the ship, he shall be liable—
 
-- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^key-cac0793e001e7d8bc400030d065c118e] a fine *(Extent: E+W)*;
+- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^c-cac0793e001e7d8bc400030d065c118e] a fine *(Extent: E+W)*;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine or both.
 
 (6) The obligation imposed by regulations under section 100F(2) shall not be enforceable except in accordance with this section, but this subsection does not limit the powers conferred by section 258.
@@ -43,4 +43,4 @@ summary: ''
 
 [^c14526381]: Textual amendment: Ss. 100F-100G inserted (19.3.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [ss. 11](https://www.legislation.gov.uk/ukpga/1997/28/section/11), [31(4)](https://www.legislation.gov.uk/ukpga/1997/28/section/31/4)
 
-[^key-cac0793e001e7d8bc400030d065c118e]: Textual amendment: Words in [s. 100G(5)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/100G/5/a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(8)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/8) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-cac0793e001e7d8bc400030d065c118e]: Textual amendment: Words in [s. 100G(5)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/100G/5/a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(8)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/8) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

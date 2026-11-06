@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Securing of liability for protected rights.[^key-b19d832310ff8cbf2144fec18471edf2]
+## 30. Securing of liability for protected rights.[^c-b19d832310ff8cbf2144fec18471edf2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b19d832310ff8cbf2144fec18471edf2]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/1993/48/section/30) repealed (6.4.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 106(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/106/1)[(3)(d)](https://www.legislation.gov.uk/ukpga/2008/30/section/106/3/d)[(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/106/4), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/3); [S.I. 2011/1266](https://www.legislation.gov.uk/uksi/2011/1266), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1266/article/2/c)
+[^c-b19d832310ff8cbf2144fec18471edf2]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/1993/48/section/30) repealed (6.4.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 106(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/106/1)[(3)(d)](https://www.legislation.gov.uk/ukpga/2008/30/section/106/3/d)[(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/106/4), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/3); [S.I. 2011/1266](https://www.legislation.gov.uk/uksi/2011/1266), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1266/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32A. Documents for European purposes.[^key-cbc1a4bf3b981e4e1640fcf59393ac0a]
+## 32A. Documents for European purposes.[^c-cbc1a4bf3b981e4e1640fcf59393ac0a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbc1a4bf3b981e4e1640fcf59393ac0a]: Textual amendment: S. 32A and crossheading omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [59(6)](https://www.legislation.gov.uk/uksi/2019/742/regulation/59/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cbc1a4bf3b981e4e1640fcf59393ac0a]: Textual amendment: S. 32A and crossheading omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [59(6)](https://www.legislation.gov.uk/uksi/2019/742/regulation/59/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Duty in relation to collected waste[^key-0b030b0009983da615877c143e832838]
+## 14. Duty in relation to collected waste[^c-0b030b0009983da615877c143e832838]
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-c67ded99ec6071a49e8500028cd9e1d1] In relation to Wales, paragraphs (1) and (2) apply in relation to separately collected waste from a domestic property or a caravan.
+(A1)[^c-c67ded99ec6071a49e8500028cd9e1d1] In relation to Wales, paragraphs (1) and (2) apply in relation to separately collected waste from a domestic property or a caravan.
 
 (1) Subject to paragraph (2), an establishment or undertaking which collects, transports or receives waste must ensure that where that waste has been separately collected it is not mixed with other material with different properties.
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b030b0009983da615877c143e832838]: Textual amendment: [Reg. 14(1)](https://www.legislation.gov.uk/uksi/2011/988/regulation/14/1)[(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/14/2) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(8)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/8)
+[^c-0b030b0009983da615877c143e832838]: Textual amendment: [Reg. 14(1)](https://www.legislation.gov.uk/uksi/2011/988/regulation/14/1)[(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/14/2) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(8)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/8)
 
-[^key-c67ded99ec6071a49e8500028cd9e1d1]: Textual amendment: [Reg. 14(A1)](https://www.legislation.gov.uk/uksi/2011/988/regulation/14/A1) inserted (6.4.2024) by [The Waste Separation Requirements (Wales) Regulations 2023 (S.I. 2023/1290)](https://www.legislation.gov.uk/wsi/2023/1290), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2), [12](https://www.legislation.gov.uk/wsi/2023/1290/regulation/12)
+[^c-c67ded99ec6071a49e8500028cd9e1d1]: Textual amendment: [Reg. 14(A1)](https://www.legislation.gov.uk/uksi/2011/988/regulation/14/A1) inserted (6.4.2024) by [The Waste Separation Requirements (Wales) Regulations 2023 (S.I. 2023/1290)](https://www.legislation.gov.uk/wsi/2023/1290), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2), [12](https://www.legislation.gov.uk/wsi/2023/1290/regulation/12)

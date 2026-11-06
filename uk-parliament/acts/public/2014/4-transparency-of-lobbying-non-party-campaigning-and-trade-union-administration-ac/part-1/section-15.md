@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Notice of intention to impose civil penalty[^key-76bc40df3a92a87cc0a7208072877efe]
+## 15. Notice of intention to impose civil penalty[^c-76bc40df3a92a87cc0a7208072877efe]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76bc40df3a92a87cc0a7208072877efe]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/4/section/15) in force at 1.4.2015 by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)
+[^c-76bc40df3a92a87cc0a7208072877efe]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/4/section/15) in force at 1.4.2015 by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)

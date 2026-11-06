@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Dairy Produce Quotas (Amendment) (Wales) (No. 2) Regulations 2000 (revoked)[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
+The Dairy Produce Quotas (Amendment) (Wales) (No. 2) Regulations 2000 (revoked)[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
 
 Made
 
@@ -41,68 +41,68 @@ Coming into force
 
 29th November 2000
 
-[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
+## 1. Title and commencement[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Dairy Produce Quotas Regulations 1997[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
+## 2. Amendment of the Dairy Produce Quotas Regulations 1997[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
+## 3.[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
+## 4.[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
+## 5.[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
+## 6.[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
+## 7.[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
+## 8.[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
+## 9.[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
+## 10.[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
+## 11.[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
+## 12.[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
+## 13.[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2000/3123) revoked (31.3.2002) by [The Dairy Produce Quotas (Wales) Regulations 2002 (revoked) 2002 (S.I. 2002/897)](https://www.legislation.gov.uk/wsi/2002/897), [regs. 1](https://www.legislation.gov.uk/wsi/2002/897/regulation/1), [35(1)](https://www.legislation.gov.uk/wsi/2002/897/regulation/35/1), [Sch. 4](https://www.legislation.gov.uk/wsi/2002/897/schedule/4)
+[^c-c370e9fcfdcee5fe8a4cccfcf1b4dc9b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2000/3123) revoked (31.3.2002) by [The Dairy Produce Quotas (Wales) Regulations 2002 (revoked) 2002 (S.I. 2002/897)](https://www.legislation.gov.uk/wsi/2002/897), [regs. 1](https://www.legislation.gov.uk/wsi/2002/897/regulation/1), [35(1)](https://www.legislation.gov.uk/wsi/2002/897/regulation/35/1), [Sch. 4](https://www.legislation.gov.uk/wsi/2002/897/schedule/4)

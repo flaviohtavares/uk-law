@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Provision of assistance to National Convener[^key-5a0195df399cd1dc039680c2d3d164d7]
+## 11. Provision of assistance to National Convener[^c-5a0195df399cd1dc039680c2d3d164d7]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ CHS must—
 
 ## Annotations
 
-[^key-5a0195df399cd1dc039680c2d3d164d7]: Commencement: S. 11 in force at 18.4.2011 by [S.S.I. 2011/111](https://www.legislation.gov.uk/ssi/2011/111), [art. 2](https://www.legislation.gov.uk/ssi/2011/111/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/111/schedule)
+[^c-5a0195df399cd1dc039680c2d3d164d7]: Commencement: S. 11 in force at 18.4.2011 by [S.S.I. 2011/111](https://www.legislation.gov.uk/ssi/2011/111), [art. 2](https://www.legislation.gov.uk/ssi/2011/111/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/111/schedule)

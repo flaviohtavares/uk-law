@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — TREES SUBJECT TO TREE PRESERVATION ORDER[^key-6d412edc0aa7b9fab677fe9ebc15f81e]
+## SCHEDULE 9 — TREES SUBJECT TO TREE PRESERVATION ORDER[^c-6d412edc0aa7b9fab677fe9ebc15f81e]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Article 38
 
 ## Annotations
 
-[^key-6d412edc0aa7b9fab677fe9ebc15f81e]: Commencement: Sch. 9 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-6d412edc0aa7b9fab677fe9ebc15f81e]: Commencement: Sch. 9 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)

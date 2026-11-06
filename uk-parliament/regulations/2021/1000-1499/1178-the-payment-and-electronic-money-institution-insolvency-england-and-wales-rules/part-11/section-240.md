@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 240. Preliminary[^key-2e71f60f7b2557693ffdeceddd567379]
+## 240. Preliminary[^c-2e71f60f7b2557693ffdeceddd567379]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The rules in this Part—
 
 ## Annotations
 
-[^key-2e71f60f7b2557693ffdeceddd567379]: Commencement: Rule 240 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-2e71f60f7b2557693ffdeceddd567379]: Commencement: Rule 240 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
 [^f00025]: Footnote: Section 216 was amended by Banking Act [2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1) and [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245). There are other amending instruments but none is relevant.

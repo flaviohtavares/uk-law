@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Increases of weekly amounts for exceptional circumstances[^key-081c5bd6f19362a8e35d80f3bae18540]
+## 60. Increases of weekly amounts for exceptional circumstances[^c-081c5bd6f19362a8e35d80f3bae18540]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ multiplied by 7.
 
 ## Annotations
 
-[^key-081c5bd6f19362a8e35d80f3bae18540]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/1992/1814/regulation/60) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-081c5bd6f19362a8e35d80f3bae18540]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/1992/1814/regulation/60) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

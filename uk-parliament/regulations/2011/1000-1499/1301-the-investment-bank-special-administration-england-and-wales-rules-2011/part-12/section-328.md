@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 328. Introduction[^key-ef2042ce5fc5cd5e5c0824d636f74676]
+## 328. Introduction[^c-ef2042ce5fc5cd5e5c0824d636f74676]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part of the Rules has effect for their interpretation and application; and 
 
 ## Annotations
 
-[^key-ef2042ce5fc5cd5e5c0824d636f74676]: Commencement: [Rule 328](https://www.legislation.gov.uk/uksi/2011/1301/rule/328) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-ef2042ce5fc5cd5e5c0824d636f74676]: Commencement: [Rule 328](https://www.legislation.gov.uk/uksi/2011/1301/rule/328) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -31,10 +31,10 @@ Commission Regulation (EC) No 2699/98
 
 of 17 December 1998 concerning the derogations to be granted for structural business statistics (Text with EEA relevance) (revoked)
 
-[^key-c541f0fd8a94de8d96037f593ddaa10e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c541f0fd8a94de8d96037f593ddaa10e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-c541f0fd8a94de8d96037f593ddaa10e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-c541f0fd8a94de8d96037f593ddaa10e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c541f0fd8a94de8d96037f593ddaa10e]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/22)
+[^c-c541f0fd8a94de8d96037f593ddaa10e]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/22)

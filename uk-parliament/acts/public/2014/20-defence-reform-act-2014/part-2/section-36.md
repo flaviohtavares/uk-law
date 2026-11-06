@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Recording, review and analysis functions[^key-b804df390228c923339c88fd670d780b]
+## 36. Recording, review and analysis functions[^c-b804df390228c923339c88fd670d780b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b804df390228c923339c88fd670d780b]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2014/20/section/36) in force at 5.12.2014 by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
+[^c-b804df390228c923339c88fd670d780b]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2014/20/section/36) in force at 5.12.2014 by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)

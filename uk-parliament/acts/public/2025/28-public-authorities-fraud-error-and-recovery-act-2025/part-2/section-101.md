@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 101. Offences: non-benefit payments[^key-e81d91d8a840afdb784b02dbf90835aa][^key-2eb2e28eea4aab64f0f39aae1bb15ab7]
+## 101. Offences: non-benefit payments[^c-e81d91d8a840afdb784b02dbf90835aa][^c-2eb2e28eea4aab64f0f39aae1bb15ab7]
 
 *Extent: E+W+S*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e81d91d8a840afdb784b02dbf90835aa]: Commencement: S. 101 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-e81d91d8a840afdb784b02dbf90835aa]: Commencement: S. 101 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-2eb2e28eea4aab64f0f39aae1bb15ab7]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2025/28/section/101) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/e)
+[^c-2eb2e28eea4aab64f0f39aae1bb15ab7]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2025/28/section/101) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/e)

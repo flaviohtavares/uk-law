@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 143. Power of appropriate agency to levy navigation tolls.[^c18736381][^key-21423ce0d47eaa650fb851bfceea3f8e]
+## 143. Power of appropriate agency to levy navigation tolls.[^c18736381][^c-21423ce0d47eaa650fb851bfceea3f8e]
 
 *Extent: E+W*
 
 (1) Where any navigable waters—
 
 - (a) in England and Wales; or
-- (b) in so much of the territorial sea adjacent to England and Wales as is included in a flood risk management region[^key-d4af6d07542cd8711db24f16ee64acc4],
+- (b) in so much of the territorial sea adjacent to England and Wales as is included in a flood risk management region[^c-d4af6d07542cd8711db24f16ee64acc4],
 
 are not subject to the control of any navigation authority, harbour authority or conservancy authority, the appropriate agency may apply to the Secretary of State for an order imposing tolls in respect of the navigation of vessels in those waters.
 
@@ -40,8 +40,8 @@ are not subject to the control of any navigation authority, harbour authority or
 
 [^c18736381]: Modification: S. 143 modified (01.12.1991) by [Land Drainage Act 1991 (c. 59, SIF 73:1)](https://www.legislation.gov.uk/ukpga/1991/59), [ss. 56(1)](https://www.legislation.gov.uk/ukpga/1991/59/section/56/1), [76(2)](https://www.legislation.gov.uk/ukpga/1991/59/section/76/2).
 
-[^key-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-d4af6d07542cd8711db24f16ee64acc4]: Textual amendment: Words in [s. 143(1)(b)](https://www.legislation.gov.uk/ukpga/1991/57/section/143/1/b) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(r)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/r), [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2014/21/schedule/10/paragraph/10)
+[^c-d4af6d07542cd8711db24f16ee64acc4]: Textual amendment: Words in [s. 143(1)(b)](https://www.legislation.gov.uk/ukpga/1991/57/section/143/1/b) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(r)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/r), [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2014/21/schedule/10/paragraph/10)
 
 [^c18736401]: Modification: S. 143(4) modified (01.12.1991) by [Land Drainage Act 1991 (c. 59, SIF 73:1)](https://www.legislation.gov.uk/ukpga/1991/59), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/1991/59/section/56/2), [76(2)](https://www.legislation.gov.uk/ukpga/1991/59/section/76/2).

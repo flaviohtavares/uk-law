@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Duty to publish requirement under section 25(1) or 27(1) in draft[^key-a56a4f6ed3114e7e5144160af16c7899][^key-7b4d3a05d952456d179dc3a07073fab4]
+## 30. Duty to publish requirement under section 25(1) or 27(1) in draft[^c-a56a4f6ed3114e7e5144160af16c7899][^c-7b4d3a05d952456d179dc3a07073fab4]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a56a4f6ed3114e7e5144160af16c7899]: Commencement: S. 30 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
+[^c-a56a4f6ed3114e7e5144160af16c7899]: Commencement: S. 30 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
 
-[^key-7b4d3a05d952456d179dc3a07073fab4]: Commencement: [S. 30](https://www.legislation.gov.uk/asc/2023/4/section/30) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)
+[^c-7b4d3a05d952456d179dc3a07073fab4]: Commencement: [S. 30](https://www.legislation.gov.uk/asc/2023/4/section/30) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 106. Reversing[^key-e3ff13dcc4460d9379d66a4eea0a5ffe]
+## 106. Reversing[^c-e3ff13dcc4460d9379d66a4eea0a5ffe]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ No person shall drive, or cause or permit to be driven, a motor vehicle backward
 
 ## Annotations
 
-[^key-e3ff13dcc4460d9379d66a4eea0a5ffe]: Commencement: [Reg. 106](https://www.legislation.gov.uk/uksi/1986/1078/regulation/106) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-e3ff13dcc4460d9379d66a4eea0a5ffe]: Commencement: [Reg. 106](https://www.legislation.gov.uk/uksi/1986/1078/regulation/106) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 224. Court proceedings[^key-1a8e977fec796a1ba51878cc84badc75]
+## 224. Court proceedings[^c-1a8e977fec796a1ba51878cc84badc75]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Tax due and payable may be sued for and recovered from the person liable to pay 
 
 ## Annotations
 
-[^key-1a8e977fec796a1ba51878cc84badc75]: Commencement: [S. 224](https://www.legislation.gov.uk/asp/2014/16/section/224) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-1a8e977fec796a1ba51878cc84badc75]: Commencement: [S. 224](https://www.legislation.gov.uk/asp/2014/16/section/224) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

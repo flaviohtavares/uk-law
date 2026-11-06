@@ -29,10 +29,10 @@ summary: ''
 
 Council Decision of 18 January 2011 on the signing, on behalf of the European Union, and provisional application of the Protocol extending to customs security measures the Agreement in the form of an Exchange of Letters between the European Economic Community and the Principality of Andorra (revoked)
 
-[^key-9f27829aa9126da8cb8db0e306b43a0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f27829aa9126da8cb8db0e306b43a0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-9f27829aa9126da8cb8db0e306b43a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-9f27829aa9126da8cb8db0e306b43a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f27829aa9126da8cb8db0e306b43a0d]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f27829aa9126da8cb8db0e306b43a0d]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

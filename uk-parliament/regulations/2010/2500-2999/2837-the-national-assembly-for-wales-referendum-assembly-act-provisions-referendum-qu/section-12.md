@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Correction of procedural errors[^key-52048c44b292b6fbd0c107eafa5d5ed8]
+## 12. Correction of procedural errors[^c-52048c44b292b6fbd0c107eafa5d5ed8]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52048c44b292b6fbd0c107eafa5d5ed8]: Commencement: Art. 12 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-52048c44b292b6fbd0c107eafa5d5ed8]: Commencement: Art. 12 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

@@ -34,7 +34,7 @@ INSOLVENCY
 
 COMPANIES
 
-The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (revoked)[^key-6e42328aeeca31107b7dc421265a770e]
+The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (revoked)[^c-6e42328aeeca31107b7dc421265a770e]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 6th April 2007
 
-[^key-6e42328aeeca31107b7dc421265a770e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e42328aeeca31107b7dc421265a770e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6e42328aeeca31107b7dc421265a770e]
+## 1. Citation and commencement[^c-6e42328aeeca31107b7dc421265a770e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to Credit Institutions (Reorganisation and Winding Up) Regulations 2004[^key-6e42328aeeca31107b7dc421265a770e]
+## 2. Amendments to Credit Institutions (Reorganisation and Winding Up) Regulations 2004[^c-6e42328aeeca31107b7dc421265a770e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6e42328aeeca31107b7dc421265a770e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e42328aeeca31107b7dc421265a770e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6e42328aeeca31107b7dc421265a770e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e42328aeeca31107b7dc421265a770e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e42328aeeca31107b7dc421265a770e]: Textual amendment: Regulations revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)
+[^c-6e42328aeeca31107b7dc421265a770e]: Textual amendment: Regulations revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)

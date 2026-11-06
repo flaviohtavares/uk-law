@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155A. Qualifying collateral arrangements and qualifying property transfers[^key-37b8cae49b132e9345d0699c87cbb0fe]
+## 155A. Qualifying collateral arrangements and qualifying property transfers[^c-37b8cae49b132e9345d0699c87cbb0fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,20 +38,20 @@ summary: ''
 (4) In relation to transactions which are cleared through a recognised central counterparty, this Part applies to—
 
 - (a) transfers of property made in accordance with Article 48(7) of the EMIR Level 1 Regulation;
-- (aa)[^key-e0c355c20c47cee4332520c3c298148c] transfers of property made in accordance with Article 4(6) and (7) of the EMIR Level 2 Regulation or Article 4(6) and (7) of the MIFIR Level 2 Regulation;
+- (aa)[^c-e0c355c20c47cee4332520c3c298148c] transfers of property made in accordance with Article 4(6) and (7) of the EMIR Level 2 Regulation or Article 4(6) and (7) of the MIFIR Level 2 Regulation;
 - (b) transfers of property to the extent that they—
   - (i) are made by a recognised central counterparty to a non-defaulting clearing member instead of, or in place of, a defaulting clearing member;
   - (ii) represent the termination or close out value of a clearing member client contract which is transferred from a defaulting clearing member to a non-defaulting clearing member; and
   - (iii) are determined in accordance with the default rules of the recognised central counterparty.
-- (c)[^key-6364d00ac8090a4f5ff31f933d06b1f6] transfers of property to the extent that they—
+- (c)[^c-6364d00ac8090a4f5ff31f933d06b1f6] transfers of property to the extent that they—
   - (i) are made by a clearing member to a non-defaulting client or another clearing member instead of, or in place of, a defaulting client;
   - (ii) represent the termination or close out value of a client trade which is transferred from a defaulting client to another clearing member or a non-defaulting client; and
   - (iii) do not exceed the termination or close out value of the clearing member client contract corresponding to that client trade, as determined in accordance with the default rules of the recognised central counterparty.
 
 ## Annotations
 
-[^key-37b8cae49b132e9345d0699c87cbb0fe]: Textual amendment: S. 155A inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2013/504/regulation/4/3) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+[^c-37b8cae49b132e9345d0699c87cbb0fe]: Textual amendment: S. 155A inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2013/504/regulation/4/3) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
 
-[^key-e0c355c20c47cee4332520c3c298148c]: Textual amendment: [S. 155A(4)(aa)](https://www.legislation.gov.uk/ukpga/1989/40/section/155A/4/aa) substituted (3.1.2018) by [The Companies Act 1989 (Financial Markets and Insolvency) (Amendment) Regulations 2017 (S.I. 2017/1247)](https://www.legislation.gov.uk/uksi/2017/1247), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1247/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/1247/regulation/2/2)
+[^c-e0c355c20c47cee4332520c3c298148c]: Textual amendment: [S. 155A(4)(aa)](https://www.legislation.gov.uk/ukpga/1989/40/section/155A/4/aa) substituted (3.1.2018) by [The Companies Act 1989 (Financial Markets and Insolvency) (Amendment) Regulations 2017 (S.I. 2017/1247)](https://www.legislation.gov.uk/uksi/2017/1247), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1247/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/1247/regulation/2/2)
 
-[^key-6364d00ac8090a4f5ff31f933d06b1f6]: Textual amendment: S. 155A(4)(c) inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/2/3/b)
+[^c-6364d00ac8090a4f5ff31f933d06b1f6]: Textual amendment: S. 155A(4)(c) inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/2/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Effect of community caution[^key-feb1f71629567a9a5c7b039507ca7fe6]
+## 115. Effect of community caution[^c-feb1f71629567a9a5c7b039507ca7fe6]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-feb1f71629567a9a5c7b039507ca7fe6]: Commencement: S. 115 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-feb1f71629567a9a5c7b039507ca7fe6]: Commencement: S. 115 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

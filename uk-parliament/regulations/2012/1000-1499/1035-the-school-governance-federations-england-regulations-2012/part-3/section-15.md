@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Staff governors[^key-cdf6c0f44bc90a48290fd2dcad22b8db]
+## 15. Staff governors[^c-cdf6c0f44bc90a48290fd2dcad22b8db]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdf6c0f44bc90a48290fd2dcad22b8db]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/1035/regulation/15) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-cdf6c0f44bc90a48290fd2dcad22b8db]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/1035/regulation/15) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

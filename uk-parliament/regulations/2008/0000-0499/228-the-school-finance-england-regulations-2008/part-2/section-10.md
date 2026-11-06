@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Initial determination of allocation of schools’ budget shares for funding periods 1, 2 and 3[^key-b4b745fae7ab58a1e0071e8d1ef1f602]
+## 10. Initial determination of allocation of schools’ budget shares for funding periods 1, 2 and 3[^c-b4b745fae7ab58a1e0071e8d1ef1f602]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Not later than 31st March 2008, a local education authority must—
 
 ## Annotations
 
-[^key-b4b745fae7ab58a1e0071e8d1ef1f602]: Commencement: Reg. 10 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-b4b745fae7ab58a1e0071e8d1ef1f602]: Commencement: Reg. 10 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) There shall be paid out of money provided by Parliament any sums required by a Minister of the Crown or department of the Government of the United Kingdom[^key-6256748feb17475590e2f538731882db] for making payments under or by virtue of this Act, or for defraying the expenses of its operation.
+(1) There shall be paid out of money provided by Parliament any sums required by a Minister of the Crown or department of the Government of the United Kingdom[^c-6256748feb17475590e2f538731882db] for making payments under or by virtue of this Act, or for defraying the expenses of its operation.
 
 (2) There shall be paid out of money so provided or, as the case may be, out of or into the Consolidated Fund any increase attributable to this Act in the sums so payable under any other statutory provision.
 
 ## Annotations
 
-[^key-6256748feb17475590e2f538731882db]: Textual amendment: Words in [s. 121(1)](https://www.legislation.gov.uk/ukpga/1978/23/section/121/1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 27](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/27) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-6256748feb17475590e2f538731882db]: Textual amendment: Words in [s. 121(1)](https://www.legislation.gov.uk/ukpga/1978/23/section/121/1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 27](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/27) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

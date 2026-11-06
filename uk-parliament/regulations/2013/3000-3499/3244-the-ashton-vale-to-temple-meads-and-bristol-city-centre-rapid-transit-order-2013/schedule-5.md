@@ -22,7 +22,7 @@ summary: ''
 
 Article 11
 
-### PART 1 — HIGHWAYS TO BE TEMPORARILY STOPPED UP[^key-b1a52c9ca90f314008522f78bb214d11]
+### PART 1 — HIGHWAYS TO BE TEMPORARILY STOPPED UP[^c-b1a52c9ca90f314008522f78bb214d11]
 
 Key to Schedule 5 Part 1
 
@@ -45,7 +45,7 @@ Key to Schedule 5 Part 1
 </tbody>
 </table>
 
-### PART 2 — FOOTPATHS TO BE TEMPORARILY STOPPED UP[^key-e0cd57caecdc4d665f7a11d629763b33]
+### PART 2 — FOOTPATHS TO BE TEMPORARILY STOPPED UP[^c-e0cd57caecdc4d665f7a11d629763b33]
 
 Key to Schedule 5 Part 2
 
@@ -68,6 +68,6 @@ Key to Schedule 5 Part 2
 
 ## Annotations
 
-[^key-b1a52c9ca90f314008522f78bb214d11]: Commencement: Sch. 5 Pt. 1 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-b1a52c9ca90f314008522f78bb214d11]: Commencement: Sch. 5 Pt. 1 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
-[^key-e0cd57caecdc4d665f7a11d629763b33]: Commencement: Sch. 5 Pt. 2 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-e0cd57caecdc4d665f7a11d629763b33]: Commencement: Sch. 5 Pt. 2 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

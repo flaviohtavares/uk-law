@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Period over which periodical payments are to be taken into account[^key-3b49ae52df12b7364567bdd0d1404c99]
+## 56. Period over which periodical payments are to be taken into account[^c-3b49ae52df12b7364567bdd0d1404c99]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b49ae52df12b7364567bdd0d1404c99]: Commencement: Reg. 56 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-3b49ae52df12b7364567bdd0d1404c99]: Commencement: Reg. 56 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)

@@ -31,7 +31,7 @@ summary: ''
 
 PENSIONS
 
-The Personal Pension Schemes (Appropriate Schemes) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-eb9f77908a7c2cfe05f7f0252a8ef041]
+The Personal Pension Schemes (Appropriate Schemes) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-eb9f77908a7c2cfe05f7f0252a8ef041]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 6th April 2006
 
-[^key-eb9f77908a7c2cfe05f7f0252a8ef041]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb9f77908a7c2cfe05f7f0252a8ef041]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-eb9f77908a7c2cfe05f7f0252a8ef041]
+## 1. Citation, commencement and interpretation[^c-eb9f77908a7c2cfe05f7f0252a8ef041]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Personal Pension Schemes (Appropriate Schemes) Regulations[^key-eb9f77908a7c2cfe05f7f0252a8ef041]
+## 2. Amendment of the Personal Pension Schemes (Appropriate Schemes) Regulations[^c-eb9f77908a7c2cfe05f7f0252a8ef041]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eb9f77908a7c2cfe05f7f0252a8ef041]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb9f77908a7c2cfe05f7f0252a8ef041]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-eb9f77908a7c2cfe05f7f0252a8ef041]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb9f77908a7c2cfe05f7f0252a8ef041]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eb9f77908a7c2cfe05f7f0252a8ef041]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/20) revoked (1.10.2008) by [The Personal and Occupational Pension Schemes (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/364)](https://www.legislation.gov.uk/nisr/2008/364), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/364/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/364/schedule)
+[^c-eb9f77908a7c2cfe05f7f0252a8ef041]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/20) revoked (1.10.2008) by [The Personal and Occupational Pension Schemes (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/364)](https://www.legislation.gov.uk/nisr/2008/364), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/364/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/364/schedule)

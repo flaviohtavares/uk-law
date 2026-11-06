@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Power of court to grant relief in certain cases[^key-1ef1a1e7094e671114753dcaa5b7f3d9]
+## 63. Power of court to grant relief in certain cases[^c-1ef1a1e7094e671114753dcaa5b7f3d9]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ the court may relieve him, either wholly or partly, from his liability on such t
 
 ## Annotations
 
-[^key-1ef1a1e7094e671114753dcaa5b7f3d9]: Commencement: [Reg. 63](https://www.legislation.gov.uk/nisr/2004/335/regulation/63) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-1ef1a1e7094e671114753dcaa5b7f3d9]: Commencement: [Reg. 63](https://www.legislation.gov.uk/nisr/2004/335/regulation/63) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

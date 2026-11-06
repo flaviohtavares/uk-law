@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Amendment of section 10[^key-42f07356455b34bf653de2848939d99b]
+## 11. Amendment of section 10[^c-42f07356455b34bf653de2848939d99b]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42f07356455b34bf653de2848939d99b]: Commencement: Art. 11 comes into force in accordance with art. 1(3)-(6)
+[^c-42f07356455b34bf653de2848939d99b]: Commencement: Art. 11 comes into force in accordance with art. 1(3)-(6)

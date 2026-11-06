@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 300. Power of local authority to end right of way over public path on land held for planning purposes[^key-a2ef6ca30a6d132732157aa763aa1a4a]
+## 300. Power of local authority to end right of way over public path on land held for planning purposes[^c-a2ef6ca30a6d132732157aa763aa1a4a]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2ef6ca30a6d132732157aa763aa1a4a]: Commencement: S. 300 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a2ef6ca30a6d132732157aa763aa1a4a]: Commencement: S. 300 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

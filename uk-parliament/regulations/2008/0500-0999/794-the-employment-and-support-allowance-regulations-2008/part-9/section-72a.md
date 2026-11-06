@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72A. Financial Assistance Scheme[^key-363c1fc0ae96b8d6ee7387ec6a7ce0d2]
+## 72A. Financial Assistance Scheme[^c-363c1fc0ae96b8d6ee7387ec6a7ce0d2]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-363c1fc0ae96b8d6ee7387ec6a7ce0d2]: Textual amendment: Reg. 72A inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/7/1)
+[^c-363c1fc0ae96b8d6ee7387ec6a7ce0d2]: Textual amendment: Reg. 72A inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/7/1)

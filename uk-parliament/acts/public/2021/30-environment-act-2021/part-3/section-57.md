@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Separation of waste[^key-fbd2b7d92dea71aa9b6073403e59b229][^key-2200f6ebec0177c5526500d92b998feb]
+## 57. Separation of waste[^c-fbd2b7d92dea71aa9b6073403e59b229][^c-2200f6ebec0177c5526500d92b998feb]
 
 *Extent: E+W+S+N.I.*
 
@@ -283,6 +283,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fbd2b7d92dea71aa9b6073403e59b229]: Commencement: S. 57 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-fbd2b7d92dea71aa9b6073403e59b229]: Commencement: S. 57 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-2200f6ebec0177c5526500d92b998feb]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2021/30/section/57) in force at 17.5.2024 by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/a) (with [regs. 5](https://www.legislation.gov.uk/uksi/2024/639/regulation/5), [6](https://www.legislation.gov.uk/uksi/2024/639/regulation/6), [7](https://www.legislation.gov.uk/uksi/2024/639/regulation/7), [Sch.](https://www.legislation.gov.uk/uksi/2024/639/schedule))
+[^c-2200f6ebec0177c5526500d92b998feb]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2021/30/section/57) in force at 17.5.2024 by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/a) (with [regs. 5](https://www.legislation.gov.uk/uksi/2024/639/regulation/5), [6](https://www.legislation.gov.uk/uksi/2024/639/regulation/6), [7](https://www.legislation.gov.uk/uksi/2024/639/regulation/7), [Sch.](https://www.legislation.gov.uk/uksi/2024/639/schedule))

@@ -42,15 +42,15 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament pursuant to section 84(6) of that Act.
 
-## 1. Citation and commencement[^key-49c0a496638f9d6d299db30b0ddb4c8e]
+## 1. Citation and commencement[^c-49c0a496638f9d6d299db30b0ddb4c8e]
 
 These Regulations may be cited as the Flood Reinsurance (Scheme and Scheme Administrator Designation) Regulations 2015 and come into force on the day after the day on which they were made.
 
-## 2. Designation of the Flood Reinsurance Scheme[^key-ac4dc8c58d601f3e0de555d76c3c8c08]
+## 2. Designation of the Flood Reinsurance Scheme[^c-ac4dc8c58d601f3e0de555d76c3c8c08]
 
-The scheme described in the Scheme Document dated 19th January 2022[^key-59dee47d1cf13c82f95c0ec6b2f4eacc] and established by Flood Re Limited (registered number 08670444) is designated as the Flood Reinsurance Scheme for the purposes of Part 4 of the Water Act 2014[^f00002].
+The scheme described in the Scheme Document dated 19th January 2022[^c-59dee47d1cf13c82f95c0ec6b2f4eacc] and established by Flood Re Limited (registered number 08670444) is designated as the Flood Reinsurance Scheme for the purposes of Part 4 of the Water Act 2014[^f00002].
 
-## 3. Designation of the Flood Reinsurance Scheme administrator[^key-c9f0817bb84a101a6d9516c2cfdd57cd]
+## 3. Designation of the Flood Reinsurance Scheme administrator[^c-c9f0817bb84a101a6d9516c2cfdd57cd]
 
 Flood Re Limited is designated as the Flood Reinsurance Scheme administrator for the purposes of section 65(1) of the Water Act 2014.
 
@@ -76,12 +76,12 @@ An Impact Assessment (IA) was prepared to inform consultees during the consultat
 
 [^f00001]: Footnote: [2014 c.21](https://www.legislation.gov.uk/ukpga/2014/21).
 
-[^key-49c0a496638f9d6d299db30b0ddb4c8e]: Commencement: Reg. 1 in force at 11.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1875/regulation/1)
+[^c-49c0a496638f9d6d299db30b0ddb4c8e]: Commencement: Reg. 1 in force at 11.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1875/regulation/1)
 
-[^key-ac4dc8c58d601f3e0de555d76c3c8c08]: Commencement: Reg. 2 in force at 11.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1875/regulation/1)
+[^c-ac4dc8c58d601f3e0de555d76c3c8c08]: Commencement: Reg. 2 in force at 11.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1875/regulation/1)
 
-[^key-59dee47d1cf13c82f95c0ec6b2f4eacc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/1875/regulation/2) substituted (1.4.2022) by [The Flood Reinsurance (Amendment) Regulations 2022 (S.I. 2022/383)](https://www.legislation.gov.uk/uksi/2022/383), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/383/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2022/383/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/383/regulation/2/2))
+[^c-59dee47d1cf13c82f95c0ec6b2f4eacc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/1875/regulation/2) substituted (1.4.2022) by [The Flood Reinsurance (Amendment) Regulations 2022 (S.I. 2022/383)](https://www.legislation.gov.uk/uksi/2022/383), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/383/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2022/383/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/383/regulation/2/2))
 
 [^f00002]: Footnote: A copy of the Scheme Document is annexed to the Explanatory Memorandum which is available alongside these Regulations and can be found at www.legislation.gov.uk. A copy can also be obtained from Flood Re Limited at their current registered office which is 51 Gresham Street, London, EC2V 7HQ.
 
-[^key-c9f0817bb84a101a6d9516c2cfdd57cd]: Commencement: Reg. 3 in force at 11.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1875/regulation/1)
+[^c-c9f0817bb84a101a6d9516c2cfdd57cd]: Commencement: Reg. 3 in force at 11.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1875/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 106. Modifications in respect of children and young persons[^key-393191958e850b6a4089e575240e31be]
+## 106. Modifications in respect of children and young persons[^c-393191958e850b6a4089e575240e31be]
 
 *Extent: N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-393191958e850b6a4089e575240e31be]: Commencement: Reg. 106 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-393191958e850b6a4089e575240e31be]: Commencement: Reg. 106 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00104]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)

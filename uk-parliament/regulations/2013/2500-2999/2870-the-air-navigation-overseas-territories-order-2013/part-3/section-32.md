@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Requirement for a certificate of release to service[^key-e3b9424c73f9864e2052b797a89059a5]
+## 32. Requirement for a certificate of release to service[^c-e3b9424c73f9864e2052b797a89059a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ must be installed or placed on board for use in an aircraft to which this articl
 
 ## Annotations
 
-[^key-e3b9424c73f9864e2052b797a89059a5]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2013/2870/article/32) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-e3b9424c73f9864e2052b797a89059a5]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2013/2870/article/32) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

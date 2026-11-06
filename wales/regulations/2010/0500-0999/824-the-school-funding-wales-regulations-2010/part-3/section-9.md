@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Timing and notification of initial determination of schools' budget shares[^key-4160a5359f3fbe4f8490de5d48001afb]
+## 9. Timing and notification of initial determination of schools' budget shares[^c-4160a5359f3fbe4f8490de5d48001afb]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4160a5359f3fbe4f8490de5d48001afb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2010/824/regulation/9) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-4160a5359f3fbe4f8490de5d48001afb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2010/824/regulation/9) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

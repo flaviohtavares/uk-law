@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Discharge: process[^key-ce2d446b5c34eaede638ef257a8c8344]
+## 34. Discharge: process[^c-ce2d446b5c34eaede638ef257a8c8344]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ In section 23 of the Mental Health Act 1983 (discharge of patients), after subse
 
 ## Annotations
 
-[^key-ce2d446b5c34eaede638ef257a8c8344]: Commencement: S. 34 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-ce2d446b5c34eaede638ef257a8c8344]: Commencement: S. 34 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

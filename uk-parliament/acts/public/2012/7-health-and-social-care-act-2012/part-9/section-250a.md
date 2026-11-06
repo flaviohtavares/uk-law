@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250A. Standards relating to information technology[^key-0f8d6852725a01c7fe1ee5bb5b058703]
+## 250A. Standards relating to information technology[^c-0f8d6852725a01c7fe1ee5bb5b058703]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f8d6852725a01c7fe1ee5bb5b058703]: Textual amendment: S. 250A inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/4); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
+[^c-0f8d6852725a01c7fe1ee5bb5b058703]: Textual amendment: S. 250A inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/4); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)

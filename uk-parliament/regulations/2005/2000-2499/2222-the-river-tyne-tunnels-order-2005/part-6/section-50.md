@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Repeal of enactments[^key-2066a2d34129485a21c2a9cfc96b32c5]
+## 50. Repeal of enactments[^c-2066a2d34129485a21c2a9cfc96b32c5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 13 shall have effect.
 
 ## Annotations
 
-[^key-2066a2d34129485a21c2a9cfc96b32c5]: Commencement: Art. 50 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-2066a2d34129485a21c2a9cfc96b32c5]: Commencement: Art. 50 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

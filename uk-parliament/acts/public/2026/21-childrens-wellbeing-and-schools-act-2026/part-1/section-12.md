@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Accommodation of looked after children: regional co-operation arrangements[^key-34d31b678cdfddc2ea174949f2b84f0e][^key-881a0743aa9821d79e56d91a992f118d]
+## 12. Accommodation of looked after children: regional co-operation arrangements[^c-34d31b678cdfddc2ea174949f2b84f0e][^c-881a0743aa9821d79e56d91a992f118d]
 
 *Extent: E+W*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-34d31b678cdfddc2ea174949f2b84f0e]: Commencement: S. 12 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-34d31b678cdfddc2ea174949f2b84f0e]: Commencement: S. 12 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
 
-[^key-881a0743aa9821d79e56d91a992f118d]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2026/21/section/12) in force at 15.7.2026 in so far as not already in force by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/b)
+[^c-881a0743aa9821d79e56d91a992f118d]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2026/21/section/12) in force at 15.7.2026 in so far as not already in force by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/b)

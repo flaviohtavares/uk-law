@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-06d09b66e77894d2c98a1aa5cbf3bb9b] The Financial Services and Markets Act 2000 is amended as follows.
+(1)[^c-06d09b66e77894d2c98a1aa5cbf3bb9b] The Financial Services and Markets Act 2000 is amended as follows.
 
-(2)[^key-06d09b66e77894d2c98a1aa5cbf3bb9b] Chapter 5 of Part 17 (recognised overseas schemes) is amended in accordance with subsections (3) to (5).
+(2)[^c-06d09b66e77894d2c98a1aa5cbf3bb9b] Chapter 5 of Part 17 (recognised overseas schemes) is amended in accordance with subsections (3) to (5).
 
-(3)[^key-06d09b66e77894d2c98a1aa5cbf3bb9b] In section 272 (individually recognised overseas schemes)—
+(3)[^c-06d09b66e77894d2c98a1aa5cbf3bb9b] In section 272 (individually recognised overseas schemes)—
 
 - (a) in subsection (1)—
   - (i) in paragraph (a) omit the “and” at the end,
@@ -46,9 +46,9 @@ summary: ''
 
 (4) In section 277 (requirement to notify the FCA of proposed alteration to recognised scheme)—
 
-- (a)[^key-2c2b161f8e6f98ce0a0dadcac10c3f47] in subsection (1), at the end insert “ which, if made, would be a material alteration ”,
-- (b)[^key-06d09b66e77894d2c98a1aa5cbf3bb9b] in subsection (3) omit “At least one month”,
-- (c)[^key-06d09b66e77894d2c98a1aa5cbf3bb9b] after that subsection insert—
+- (a)[^c-2c2b161f8e6f98ce0a0dadcac10c3f47] in subsection (1), at the end insert “ which, if made, would be a material alteration ”,
+- (b)[^c-06d09b66e77894d2c98a1aa5cbf3bb9b] in subsection (3) omit “At least one month”,
+- (c)[^c-06d09b66e77894d2c98a1aa5cbf3bb9b] after that subsection insert—
 
   > (3A) A notice under subsection (3) must be given—
   >
@@ -63,11 +63,11 @@ summary: ''
   > - (d) the address of the place in the United Kingdom for service of notices, or other documents, required or authorised to be served on the operator under this Act.
 
   , and
-- (d)[^key-06d09b66e77894d2c98a1aa5cbf3bb9b] after subsection (5) insert—
+- (d)[^c-06d09b66e77894d2c98a1aa5cbf3bb9b] after subsection (5) insert—
 
   > (6) The FCA may make rules specifying when a proposed alteration is a material alteration for the purposes of subsection (1).
 
-(5)[^key-06d09b66e77894d2c98a1aa5cbf3bb9b] After section 282 insert—
+(5)[^c-06d09b66e77894d2c98a1aa5cbf3bb9b] After section 282 insert—
 
 > **282A. Obligations on operator where recognition is revoked or suspended**
 >
@@ -133,17 +133,17 @@ summary: ''
 > - “**enactment**” has the same meaning as in section 271E;
 > - “**relevant enactment**” means an enactment passed or made before the day on which subsection (1) comes into force that makes provision in relation to collective investment schemes recognised, or seeking recognition, under section 272.
 
-(6)[^key-06d09b66e77894d2c98a1aa5cbf3bb9b] In section 237(3), in the definition of “a recognised scheme”, at the end insert “ (and see also section 282C) ”.
+(6)[^c-06d09b66e77894d2c98a1aa5cbf3bb9b] In section 237(3), in the definition of “a recognised scheme”, at the end insert “ (and see also section 282C) ”.
 
-(7)[^key-06d09b66e77894d2c98a1aa5cbf3bb9b] In section 392 (application of third party rights to notices)—
+(7)[^c-06d09b66e77894d2c98a1aa5cbf3bb9b] In section 392 (application of third party rights to notices)—
 
 - (a) in paragraph (a), after “280(1),” insert “ 282B(3), ”, and
 - (b) in paragraph (b), after “280(2),” insert “ 282B(4), ”.
 
-(8)[^key-06d09b66e77894d2c98a1aa5cbf3bb9b] In section 429(2) (regulations subject to affirmative procedure), before “284A” insert “ 282C, ”.
+(8)[^c-06d09b66e77894d2c98a1aa5cbf3bb9b] In section 429(2) (regulations subject to affirmative procedure), before “284A” insert “ 282C, ”.
 
 ## Annotations
 
-[^key-06d09b66e77894d2c98a1aa5cbf3bb9b]: Commencement: S. 25(1)-(3)(4)(b)-(d)(5)-(8) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/b)
+[^c-06d09b66e77894d2c98a1aa5cbf3bb9b]: Commencement: S. 25(1)-(3)(4)(b)-(d)(5)-(8) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/b)
 
-[^key-2c2b161f8e6f98ce0a0dadcac10c3f47]: Commencement: [S. 25(4)(a)](https://www.legislation.gov.uk/ukpga/2021/22/section/25/4/a) in force at 1.1.2023 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 3](https://www.legislation.gov.uk/uksi/2022/163/regulation/3)
+[^c-2c2b161f8e6f98ce0a0dadcac10c3f47]: Commencement: [S. 25(4)(a)](https://www.legislation.gov.uk/ukpga/2021/22/section/25/4/a) in force at 1.1.2023 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 3](https://www.legislation.gov.uk/uksi/2022/163/regulation/3)

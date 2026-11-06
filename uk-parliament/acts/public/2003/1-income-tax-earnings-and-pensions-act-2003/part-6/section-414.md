@@ -22,13 +22,13 @@ summary: ''
 
 (1) This section applies if—
 
-- (za)[^key-a3e988d6ddc7468ad1e4adc0ea49fba3] either—
+- (za)[^c-a3e988d6ddc7468ad1e4adc0ea49fba3] either—
   - (i) the payment or other benefit is within section 401(1)(a), and the employee or former employee is non-UK resident for the tax year in which the employment terminates, or
   - (ii) the payment or other benefit is within section 401(1)(b) or (c),
 - (a) the service of the employee or former employee in the employment in respect of which the payment or other benefit is received includes foreign service, and
-- (b)[^key-9ff1f7d00dea752b8ebe030b41a9f9a8] section 413(1) does not except the payment or other benefit from the application of this Chapter.
+- (b)[^c-9ff1f7d00dea752b8ebe030b41a9f9a8] section 413(1) does not except the payment or other benefit from the application of this Chapter.
 
-(2) The taxable person may claim relief in the form of a proportionate reduction of the amount that would otherwise—[^key-dcca2711e3b1e6d4e51392cb872dfb09]
+(2) The taxable person may claim relief in the form of a proportionate reduction of the amount that would otherwise—[^c-dcca2711e3b1e6d4e51392cb872dfb09]
 
 - (a) be treated as earnings by section 402B(1), or
 - (b) count as employment income as a result of section 403
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a3e988d6ddc7468ad1e4adc0ea49fba3]: Textual amendment: [S. 414(1)(za)](https://www.legislation.gov.uk/ukpga/2003/1/section/414/1/za) inserted (with effect in accordance with s. 10(5) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2018/3/section/10/3/a)
+[^c-a3e988d6ddc7468ad1e4adc0ea49fba3]: Textual amendment: [S. 414(1)(za)](https://www.legislation.gov.uk/ukpga/2003/1/section/414/1/za) inserted (with effect in accordance with s. 10(5) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2018/3/section/10/3/a)
 
-[^key-9ff1f7d00dea752b8ebe030b41a9f9a8]: Textual amendment: [S. 414(1)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/414/1/b) substituted (with effect in accordance with s. 10(5) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/10/3/b)
+[^c-9ff1f7d00dea752b8ebe030b41a9f9a8]: Textual amendment: [S. 414(1)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/414/1/b) substituted (with effect in accordance with s. 10(5) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/10/3/b)
 
-[^key-dcca2711e3b1e6d4e51392cb872dfb09]: Textual amendment: Words in s. 414(2) substituted (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(8)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/8)
+[^c-dcca2711e3b1e6d4e51392cb872dfb09]: Textual amendment: Words in s. 414(2) substituted (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(8)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/8)

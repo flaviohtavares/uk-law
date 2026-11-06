@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-4390bbd6f16fe6373bb8975f98339756] The applicant for the grant of a traditional herbal registration other than a THR(GB) under the unfettered access route must provide the material specified in Schedule 12 in relation to the product.
+(1)[^c-4390bbd6f16fe6373bb8975f98339756] The applicant for the grant of a traditional herbal registration other than a THR(GB) under the unfettered access route must provide the material specified in Schedule 12 in relation to the product.
 
 (1A) The applicant for the grant of a THR(GB) under the unfettered access route must provide—
 
@@ -32,7 +32,7 @@ together with any material specified in Schedule 12 which is not included in the
 
 (2) The applicant must also, if requested by the licensing authority to do so, provide the licensing authority with material or information that the licensing authority reasonably considers necessary for considering the application.
 
-(3) If the application relates to a product that is contained in the list referred to in Article 16f(1) of the 2001 Directive where the application is for a THR(NI) or THR(UK), or the list established under regulation 126A where the application is for a THR(GB)[^key-8ffcd6fd8bcfef23e21c4fbaa6a841e2]—
+(3) If the application relates to a product that is contained in the list referred to in Article 16f(1) of the 2001 Directive where the application is for a THR(NI) or THR(UK), or the list established under regulation 126A where the application is for a THR(GB)[^c-8ffcd6fd8bcfef23e21c4fbaa6a841e2]—
 
 - (a) the applicant does not need to provide the material referred to in paragraphs 16 to 20 of Part 1 of Schedule 12; and
 - (b) paragraph (2) of this regulation does not apply.
@@ -41,6 +41,6 @@ together with any material specified in Schedule 12 which is not included in the
 
 ## Annotations
 
-[^key-4390bbd6f16fe6373bb8975f98339756]: Textual amendment: Reg. 128(1)(1A) substituted for reg. 128(1) (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 114(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/114/2) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 85](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/85))
+[^c-4390bbd6f16fe6373bb8975f98339756]: Textual amendment: Reg. 128(1)(1A) substituted for reg. 128(1) (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 114(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/114/2) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 85](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/85))
 
-[^key-8ffcd6fd8bcfef23e21c4fbaa6a841e2]: Textual amendment: Words in reg. 128(3) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 114(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/114/3) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 85](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/85))
+[^c-8ffcd6fd8bcfef23e21c4fbaa6a841e2]: Textual amendment: Words in reg. 128(3) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 114(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/114/3) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 85](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/85))

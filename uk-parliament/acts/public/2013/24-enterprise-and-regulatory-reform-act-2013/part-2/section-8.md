@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Extension of limitation periods to allow for conciliation[^key-0e2883145e23b5bda68dda6733324aad]
+## 8. Extension of limitation periods to allow for conciliation[^c-0e2883145e23b5bda68dda6733324aad]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 2 (extension of limitation periods to allow for conciliation) has effec
 
 ## Annotations
 
-[^key-0e2883145e23b5bda68dda6733324aad]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/24/section/8) in force at 6.4.2014 by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/253/article/3/c)
+[^c-0e2883145e23b5bda68dda6733324aad]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/24/section/8) in force at 6.4.2014 by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/253/article/3/c)

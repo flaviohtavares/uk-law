@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208A. Insertion of new regulation 269A (offences relating to packaging and package leaflets in Northern Ireland: other persons)[^M_I_4f6b8147-4400-470d-9eed-725865de8203][^key-8fd73a6e991a51fb6397bcc9ba171b8a]
+## 208A. Insertion of new regulation 269A (offences relating to packaging and package leaflets in Northern Ireland: other persons)[^M_I_4f6b8147-4400-470d-9eed-725865de8203][^c-8fd73a6e991a51fb6397bcc9ba171b8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ After regulation 269 insert—
 
 [^M_I_4f6b8147-4400-470d-9eed-725865de8203]: Commencement: Reg. 208A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8fd73a6e991a51fb6397bcc9ba171b8a]: Textual amendment: Reg. 208A inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 164](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/164)
+[^c-8fd73a6e991a51fb6397bcc9ba171b8a]: Textual amendment: Reg. 208A inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 164](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/164)

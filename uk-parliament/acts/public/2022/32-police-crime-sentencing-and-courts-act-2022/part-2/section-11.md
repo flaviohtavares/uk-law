@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Specified authorities and local government areas[^key-8a598b0b853ced898ac8727e538cf4cc][^key-ff76481ec6fabcc0d4e333bca5821379]
+## 11. Specified authorities and local government areas[^c-8a598b0b853ced898ac8727e538cf4cc][^c-ff76481ec6fabcc0d4e333bca5821379]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a598b0b853ced898ac8727e538cf4cc]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 208(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/b)
+[^c-8a598b0b853ced898ac8727e538cf4cc]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 208(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/b)
 
-[^key-ff76481ec6fabcc0d4e333bca5821379]: Commencement: S. 11 in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/d)
+[^c-ff76481ec6fabcc0d4e333bca5821379]: Commencement: S. 11 in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/d)

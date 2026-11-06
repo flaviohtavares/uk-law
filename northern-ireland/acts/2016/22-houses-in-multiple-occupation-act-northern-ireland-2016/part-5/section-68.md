@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Council's statement of reasons for decisions which may be appealed[^key-75982d69fe337f738809b47c2c58ef96]
+## 68. Council's statement of reasons for decisions which may be appealed[^c-75982d69fe337f738809b47c2c58ef96]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75982d69fe337f738809b47c2c58ef96]: Commencement: [S. 68](https://www.legislation.gov.uk/nia/2016/22/section/68) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-75982d69fe337f738809b47c2c58ef96]: Commencement: [S. 68](https://www.legislation.gov.uk/nia/2016/22/section/68) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Notification of convictions and cancellation of fireworks licence[^key-287f15a93f39eda041cc658b0062121a]
+## 13. Notification of convictions and cancellation of fireworks licence[^c-287f15a93f39eda041cc658b0062121a]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-287f15a93f39eda041cc658b0062121a]: Commencement: S. 13 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-287f15a93f39eda041cc658b0062121a]: Commencement: S. 13 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

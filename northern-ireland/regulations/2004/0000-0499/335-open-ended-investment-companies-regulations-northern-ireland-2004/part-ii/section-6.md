@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. FCA rules[^key-0478e2b9c6c7150564099b7a26e10df3][^key-17a9141fb993bcb8fc32d9b21cf6070f]
+## 6. FCA rules[^c-0478e2b9c6c7150564099b7a26e10df3][^c-17a9141fb993bcb8fc32d9b21cf6070f]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0478e2b9c6c7150564099b7a26e10df3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/335/regulation/6) in operation at 15.9.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/a)
+[^c-0478e2b9c6c7150564099b7a26e10df3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/335/regulation/6) in operation at 15.9.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/a)
 
-[^key-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)
+[^c-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)

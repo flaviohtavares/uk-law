@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Release of information on opt-in bidders in principal stage[^key-37ca8853fd13bb9bb96e1a01a633602e]
+## 51. Release of information on opt-in bidders in principal stage[^c-37ca8853fd13bb9bb96e1a01a633602e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After the end of the opt-in round and before the start of the first primary bid 
 
 ## Annotations
 
-[^key-37ca8853fd13bb9bb96e1a01a633602e]: Commencement: Reg. 51 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-37ca8853fd13bb9bb96e1a01a633602e]: Commencement: Reg. 51 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Reinsurance commissions.[^key-996ad5b348daf6ec1d20a17ed51fff02]
+## 44. Reinsurance commissions.[^c-996ad5b348daf6ec1d20a17ed51fff02]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-996ad5b348daf6ec1d20a17ed51fff02]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/1990/29/section/44) repealed (with effect in accordance with s. 42 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/3)
+[^c-996ad5b348daf6ec1d20a17ed51fff02]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/1990/29/section/44) repealed (with effect in accordance with s. 42 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/3)

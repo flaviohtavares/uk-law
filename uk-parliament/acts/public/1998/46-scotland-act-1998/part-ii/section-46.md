@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Choice of the First Minister.[^key-02c7841b552615ae62dd374e0ca7b11c]
+## 46. Choice of the First Minister.[^c-02c7841b552615ae62dd374e0ca7b11c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) the office of First Minister becoming vacant (otherwise than in consequence of his so tendering his resignation),
 - (d) the First Minister ceasing to be a member of the Parliament otherwise than by virtue of a dissolution.
 
-(3)[^key-92e8b404f206584f3a9458403193fa64] The period allowed is—
+(3)[^c-92e8b404f206584f3a9458403193fa64] The period allowed is—
 
 - (a) the period of 28 days which begins with the day on which the event in question occurs, but—
   - (i) if another of those events occurs within the period allowed, that period is extended (subject to sub-paragraph (ii)) so that it ends with the period of 28 days beginning with the day on which that other event occurred, and
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-02c7841b552615ae62dd374e0ca7b11c]: Modification: [S. 46](https://www.legislation.gov.uk/ukpga/1998/46/section/46) modified (30.1.2021) by [Scottish General Election (Coronavirus) Act 2021 (asp 5)](https://www.legislation.gov.uk/asp/2021/5), [ss. 9(3)](https://www.legislation.gov.uk/asp/2021/5/section/9/3), [15](https://www.legislation.gov.uk/asp/2021/5/section/15) (with [s. 12](https://www.legislation.gov.uk/asp/2021/5/section/12))
+[^c-02c7841b552615ae62dd374e0ca7b11c]: Modification: [S. 46](https://www.legislation.gov.uk/ukpga/1998/46/section/46) modified (30.1.2021) by [Scottish General Election (Coronavirus) Act 2021 (asp 5)](https://www.legislation.gov.uk/asp/2021/5), [ss. 9(3)](https://www.legislation.gov.uk/asp/2021/5/section/9/3), [15](https://www.legislation.gov.uk/asp/2021/5/section/15) (with [s. 12](https://www.legislation.gov.uk/asp/2021/5/section/12))
 
-[^key-92e8b404f206584f3a9458403193fa64]: Textual amendment: [S. 46(3)](https://www.legislation.gov.uk/ukpga/1998/46/section/46/3) substituted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 30(2)](https://www.legislation.gov.uk/asp/2025/4/section/30/2), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-92e8b404f206584f3a9458403193fa64]: Textual amendment: [S. 46(3)](https://www.legislation.gov.uk/ukpga/1998/46/section/46/3) substituted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 30(2)](https://www.legislation.gov.uk/asp/2025/4/section/30/2), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)

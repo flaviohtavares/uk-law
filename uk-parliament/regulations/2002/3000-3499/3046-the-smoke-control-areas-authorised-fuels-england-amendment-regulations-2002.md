@@ -31,7 +31,7 @@ summary: ''
 
 CLEAN AIR, ENGLAND
 
-The Smoke Control Areas (Authorised Fuels) (England) (Amendment) Regulations 2002 (revoked)[^key-8d3c0929d48a8e4c4c07870cffe755ce]
+The Smoke Control Areas (Authorised Fuels) (England) (Amendment) Regulations 2002 (revoked)[^c-8d3c0929d48a8e4c4c07870cffe755ce]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 6th January 2003
 
-[^key-8d3c0929d48a8e4c4c07870cffe755ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d3c0929d48a8e4c4c07870cffe755ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-8d3c0929d48a8e4c4c07870cffe755ce]
+## 1. Citation, commencement and extent[^c-8d3c0929d48a8e4c4c07870cffe755ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Authorised Fuels for the purposes of the Clean Air Act 1993[^key-8d3c0929d48a8e4c4c07870cffe755ce]
+## 2. Authorised Fuels for the purposes of the Clean Air Act 1993[^c-8d3c0929d48a8e4c4c07870cffe755ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Savings[^key-8d3c0929d48a8e4c4c07870cffe755ce]
+## 3. Savings[^c-8d3c0929d48a8e4c4c07870cffe755ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d3c0929d48a8e4c4c07870cffe755ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d3c0929d48a8e4c4c07870cffe755ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8d3c0929d48a8e4c4c07870cffe755ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d3c0929d48a8e4c4c07870cffe755ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8d3c0929d48a8e4c4c07870cffe755ce]: Textual amendment: Regulations revoked (6.4.2008) by [The Smoke Control Areas (Authorised Fuels) (England) Regulations 2008 (S.I. 2008/514)](https://www.legislation.gov.uk/uksi/2008/514), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c), [3(1)](https://www.legislation.gov.uk/uksi/2008/514/regulation/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/514/schedule/2) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2008/514/regulation/3/2))
+[^c-8d3c0929d48a8e4c4c07870cffe755ce]: Textual amendment: Regulations revoked (6.4.2008) by [The Smoke Control Areas (Authorised Fuels) (England) Regulations 2008 (S.I. 2008/514)](https://www.legislation.gov.uk/uksi/2008/514), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c), [3(1)](https://www.legislation.gov.uk/uksi/2008/514/regulation/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/514/schedule/2) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2008/514/regulation/3/2))

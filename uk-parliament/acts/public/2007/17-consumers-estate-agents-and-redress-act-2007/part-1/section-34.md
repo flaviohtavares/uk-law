@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Compensation for loss of office[^key-943fb516e128d03352cf0a1c396f48da]
+## 34. Compensation for loss of office[^c-943fb516e128d03352cf0a1c396f48da]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-943fb516e128d03352cf0a1c396f48da]: Commencement: S. 34 in force at 1.10.2008 by [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550) , [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2) , [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-943fb516e128d03352cf0a1c396f48da]: Commencement: S. 34 in force at 1.10.2008 by [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550) , [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2) , [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)

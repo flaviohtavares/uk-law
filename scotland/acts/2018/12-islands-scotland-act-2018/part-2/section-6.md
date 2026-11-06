@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Review of plan[^key-317014f427f5fe3060b15f108f60a12d]
+## 6. Review of plan[^c-317014f427f5fe3060b15f108f60a12d]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-317014f427f5fe3060b15f108f60a12d]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2018/12/section/6) in force at 4.10.2018 by [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)
+[^c-317014f427f5fe3060b15f108f60a12d]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2018/12/section/6) in force at 4.10.2018 by [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)

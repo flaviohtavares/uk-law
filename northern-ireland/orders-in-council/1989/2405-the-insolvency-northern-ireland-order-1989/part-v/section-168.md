@@ -31,7 +31,7 @@ summary: ''
 (3) Directions under this Article—
 
 - (a) are directions making such provision as the Department thinks fit for enabling the winding up of the company to proceed as if no notice had been given under Article 167(2), and
-- (b) may, in the case of an application under Article 167(7)[^key-d23aa3842efd94d54654d8946ac92dc7], include a direction deferring the date at which the dissolution of the company is to take effect for such period as the Department thinks fit.
+- (b) may, in the case of an application under Article 167(7)[^c-d23aa3842efd94d54654d8946ac92dc7], include a direction deferring the date at which the dissolution of the company is to take effect for such period as the Department thinks fit.
 
 (4) An appeal to the High Court lies from any decision of the Department on an application for directions under this Article.
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d23aa3842efd94d54654d8946ac92dc7]: Textual amendment: Words in [art. 168(3)(b)](https://www.legislation.gov.uk/nisi/1989/2405/article/168/3/b) substituted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 106](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/106) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3))
+[^c-d23aa3842efd94d54654d8946ac92dc7]: Textual amendment: Words in [art. 168(3)(b)](https://www.legislation.gov.uk/nisi/1989/2405/article/168/3/b) substituted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 106](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/106) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3))

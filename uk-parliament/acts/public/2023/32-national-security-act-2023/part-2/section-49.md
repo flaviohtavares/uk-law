@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Revocation and revival of Part 2 notices[^key-e4f2fe5a25b41de4bc2e4df98a83ad28][^key-572b90c9303e74ac17f711f06142d35d]
+## 49. Revocation and revival of Part 2 notices[^c-e4f2fe5a25b41de4bc2e4df98a83ad28][^c-572b90c9303e74ac17f711f06142d35d]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ if conditions A, C and D are met.
 
 ## Annotations
 
-[^key-e4f2fe5a25b41de4bc2e4df98a83ad28]: Commencement: S. 49 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-e4f2fe5a25b41de4bc2e4df98a83ad28]: Commencement: S. 49 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-572b90c9303e74ac17f711f06142d35d]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2023/32/section/49) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-572b90c9303e74ac17f711f06142d35d]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2023/32/section/49) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

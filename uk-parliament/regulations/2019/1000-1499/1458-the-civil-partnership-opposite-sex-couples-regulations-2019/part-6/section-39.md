@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Recognition of overseas dissolution etc. granted outside country of domicile[^key-006d2d00dc6fae27e48292e2c5d4bcad]
+## 39. Recognition of overseas dissolution etc. granted outside country of domicile[^c-006d2d00dc6fae27e48292e2c5d4bcad]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In section 237 of the Civil Partnership Act 2004[^f00066], in subsection (2)(b)(
 
 ## Annotations
 
-[^key-006d2d00dc6fae27e48292e2c5d4bcad]: Commencement: Reg. 39 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-006d2d00dc6fae27e48292e2c5d4bcad]: Commencement: Reg. 39 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00066]: Footnote: Section 237 was amended by [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. Terminal illness[^key-20a197ca9c7da9a913acaf9cf84b8200]
+## 87. Terminal illness[^c-20a197ca9c7da9a913acaf9cf84b8200]
 
 *Extent: N.I.*
 
@@ -42,6 +42,6 @@ that person is to be regarded as making the claim despite its being made without
 
 ## Annotations
 
-[^key-20a197ca9c7da9a913acaf9cf84b8200]: Commencement: [Art. 87](https://www.legislation.gov.uk/nisi/2015/2006/article/87) in operation at 20.6.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)
+[^c-20a197ca9c7da9a913acaf9cf84b8200]: Commencement: [Art. 87](https://www.legislation.gov.uk/nisi/2015/2006/article/87) in operation at 20.6.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)
 
 [^M_F_85c20fbb-43c3-44fb-e11c-7db02d654741]: Textual amendment: Word in [art. 87(4)](https://editorial.legislation.gov.uk/nisi/2015/2006/article/87) substituted (4.4.2022) by [Social Security (Terminal Illness) Act (Northern Ireland) 2022 (c.7)](https://editorial.legislation.gov.uk/nia/2022/7/contents), [s. 1(2)(b)](https://editorial.legislation.gov.uk/nia/2022/7/section/1); [SR 2022/171](https://editorial.legislation.gov.uk/nisr/2022/171), [art. 2](https://editorial.legislation.gov.uk/nisr/2022/171/article/2)

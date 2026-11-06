@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-In this Part “**CIO regulations**” means regulations made by the Secretary of State[^key-2ee441662edd5e6ce24d48ebc1535c4d].
+In this Part “**CIO regulations**” means regulations made by the Secretary of State[^c-2ee441662edd5e6ce24d48ebc1535c4d].
 
 ## Annotations
 
-[^key-2ee441662edd5e6ce24d48ebc1535c4d]: Textual amendment: Words in s. 247 substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(gg)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/gg) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-2ee441662edd5e6ce24d48ebc1535c4d]: Textual amendment: Words in s. 247 substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(gg)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/gg) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

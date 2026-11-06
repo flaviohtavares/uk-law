@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Details to appear on referendum material.[^c10575011][^c20060291][^c20061431][^key-8bc22dec1d2f621535436b31c75b3d34]
+## 126. Details to appear on referendum material.[^c10575011][^c20060291][^c20061431][^c-8bc22dec1d2f621535436b31c75b3d34]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,6 +89,6 @@ shall be guilty of an offence.
 
 [^c20061431]: Modification: S. 126 applied (with modifications) (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [art. 7(1)](https://www.legislation.gov.uk/uksi/2004/1962/article/7/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2004/1962/schedule/3/part/1)
 
-[^key-8bc22dec1d2f621535436b31c75b3d34]: Modification: S. 126 excluded (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2014/29/schedule/1/paragraph/10)
+[^c-8bc22dec1d2f621535436b31c75b3d34]: Modification: S. 126 excluded (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2014/29/schedule/1/paragraph/10)
 
 [^c20073201]: Textual amendment: S. 126(10A) inserted (1.1.2007 for E.W.S. and 1.7.2008 for N.I.) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 66(1)](https://www.legislation.gov.uk/ukpga/2006/22/section/66/1), [77(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 14(x)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/14/x) (subject to [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2)); [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2008/1316/article/2/2), [4(v)](https://www.legislation.gov.uk/uksi/2008/1316/article/4/v)

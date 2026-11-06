@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Meaning of “qualifying lease”[^key-6d9841461f04dd32a73c15cdadfe57f1]
+## 117. Meaning of “qualifying lease”[^c-6d9841461f04dd32a73c15cdadfe57f1]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d9841461f04dd32a73c15cdadfe57f1]: Commencement: S. 117 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-6d9841461f04dd32a73c15cdadfe57f1]: Commencement: S. 117 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Agreements with highway authorities[^key-728beca53157371a280152104c737d55]
+## 20. Agreements with highway authorities[^c-728beca53157371a280152104c737d55]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-728beca53157371a280152104c737d55]: Commencement: Art. 20 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-728beca53157371a280152104c737d55]: Commencement: Art. 20 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

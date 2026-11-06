@@ -44,7 +44,7 @@ The Secretary of State for Health, in exercise of the powers conferred by sectio
 
 ## PART 1 — General
 
-### 1. Citation, commencement and application[^key-1a1d3186bdeebc6b043f2e5bd2f63c40]
+### 1. Citation, commencement and application[^c-1a1d3186bdeebc6b043f2e5bd2f63c40]
 
 (1) These Regulations which may be cited as the Smoke-free (Exemptions and Vehicles) Regulations 2007 shall come into force on 1st July 2007.
 
@@ -52,11 +52,11 @@ The Secretary of State for Health, in exercise of the powers conferred by sectio
 
 ## PART 2 — Exemptions
 
-### 2. Application of Part 2[^key-9b68063356ab7b554ebb36673432c68f]
+### 2. Application of Part 2[^c-9b68063356ab7b554ebb36673432c68f]
 
 The exemptions in this Part apply only to premises that would be smoke-free under section 2 of the Health Act 2006 if those exemptions had not been made.
 
-### 3. Private accommodation[^key-34b1dc8b96569d2a63e593604451ec89]
+### 3. Private accommodation[^c-34b1dc8b96569d2a63e593604451ec89]
 
 (1) A private dwelling is not smoke-free except for any part of it which is—
 
@@ -75,7 +75,7 @@ The exemptions in this Part apply only to premises that would be smoke-free unde
 
 (3) In this regulation, “private dwelling” includes self-contained residential accommodation for temporary or holiday use and any garage, outhouse or other structure for the exclusive use of persons living in the dwelling.
 
-### 4. Accommodation for guests and club members[^key-45adf8d0b2d02f349e0865eaaf739c74]
+### 4. Accommodation for guests and club members[^c-45adf8d0b2d02f349e0865eaaf739c74]
 
 (1) A designated bedroom in a hotel, guest house, inn, hostel or members’ club is not smoke-free.
 
@@ -90,7 +90,7 @@ The exemptions in this Part apply only to premises that would be smoke-free unde
 
 (3) In this regulation “bedroom” does not include any dormitory or other room that a person in charge of premises makes available under separate arrangements for persons to share at the same time.
 
-### 5. Other residential accommodation[^key-e28d76b82cf248178078183313bb1bab]
+### 5. Other residential accommodation[^c-e28d76b82cf248178078183313bb1bab]
 
 (1) A designated room that is used as accommodation for persons aged 18 years or over in the premises specified in paragraph (2) is not smoke-free.
 
@@ -108,11 +108,11 @@ The exemptions in this Part apply only to premises that would be smoke-free unde
 - (d) is clearly marked as a room in which smoking is permitted; and
 - (e) except where the room is in a prison, does not have any door that opens onto smoke-free premises which is not mechanically closed immediately after use.
 
-### 6. Performers[^key-c22b12fe3248384a7eaa11c17a89e4c6]
+### 6. Performers[^c-c22b12fe3248384a7eaa11c17a89e4c6]
 
 Where the artistic integrity of a performance makes it appropriate for a person who is taking part in that performance to smoke, the part of the premises in which that person performs is not smoke-free in relation to that person during his performance.
 
-### 7. Specialist tobacconists[^key-244f0d91bfd9aca41562138fb91f4c7a]
+### 7. Specialist tobacconists[^c-244f0d91bfd9aca41562138fb91f4c7a]
 
 (1) The shop of a specialist tobacconist that is being used by persons who are sampling cigars and pipe tobacco is not smoke-free for the duration of that sampling if it—
 
@@ -123,7 +123,7 @@ Where the artistic integrity of a performance makes it appropriate for a person 
 
 (2) In this regulation “cigar” has the same meaning as in the Tobacco Products (Descriptions of Products) Order 2003[^f00003] and “specialist tobacconist” has the same meaning as in section 6(2) of the Tobacco Advertising and Promotion Act 2002[^f00004].
 
-### 8. Offshore installations[^key-de31375e3355b6e67ee8b9a40c06429d]
+### 8. Offshore installations[^c-de31375e3355b6e67ee8b9a40c06429d]
 
 (1) A designated room in an offshore installation is not smoke-free.
 
@@ -135,7 +135,7 @@ Where the artistic integrity of a performance makes it appropriate for a person 
 - (d) does not have any door that opens onto smoke-free premises which is not mechanically closed immediately after use; and
 - (e) is clearly marked as a room in which smoking is permitted.
 
-### 9. Research and testing facilities[^key-8bd22eaea9af7d269308cf7c7181f351]
+### 9. Research and testing facilities[^c-8bd22eaea9af7d269308cf7c7181f351]
 
 (1) A designated room in a research or testing facility is not smoke-free whilst it is being used for any research or tests specified in paragraph (2).
 
@@ -155,7 +155,7 @@ Where the artistic integrity of a performance makes it appropriate for a person 
 - (d) does not have any door that opens onto smoke-free premises which is not mechanically closed immediately after use; and
 - (e) is clearly marked as a room in which smoking is permitted.
 
-### 10. Temporary exemption for mental health units[^key-103080180ed5073678e88e3f14916134]
+### 10. Temporary exemption for mental health units[^c-103080180ed5073678e88e3f14916134]
 
 (1) A designated room for the use of patients aged 18 years or over in residential accommodation in a mental health unit is not smoke-free.
 
@@ -173,20 +173,20 @@ Where the artistic integrity of a performance makes it appropriate for a person 
 
 ## PART 3 — Vehicles
 
-### 11. Enclosed vehicles[^key-e747b006db9578915c06a906a81fd7d4]
+### 11. Enclosed vehicles[^c-e747b006db9578915c06a906a81fd7d4]
 
 (1) Subject to the following paragraphs of this regulation, an enclosed vehicle and any enclosed part of a vehicle is smoke-free if it is used—
 
 - (a) by members of the public or a section of the public (whether or not for reward or hire); or
 - (b) in the course of paid or voluntary work by more than one person (even if those persons use the vehicle at different times, or only intermittently).
 
-(1A)[^key-481dbf0c21d60f5dca523381893b7e87] A vehicle that is not smoke-free by virtue of paragraph (1), or any part of such a vehicle, is smoke-free if—
+(1A)[^c-481dbf0c21d60f5dca523381893b7e87] A vehicle that is not smoke-free by virtue of paragraph (1), or any part of such a vehicle, is smoke-free if—
 
 - (a) it is enclosed,
 - (b) there is more than one person present in the vehicle, and
 - (c) a person under the age of 18 is present in the vehicle.
 
-(2) A vehicle or part of a vehicle is enclosed for the purposes of paragraphs (1) and (1A)[^key-1b13d553fa7259bfcffa99280ffc4b84] where it is enclosed wholly or partly by a roof and by any door or window that may be opened.
+(2) A vehicle or part of a vehicle is enclosed for the purposes of paragraphs (1) and (1A)[^c-1b13d553fa7259bfcffa99280ffc4b84] where it is enclosed wholly or partly by a roof and by any door or window that may be opened.
 
 (3) Except where paragraph (4) applies, “roof” in paragraph (2) includes any fixed or moveable structure or device which is capable of covering all or part of the vehicle, including any canvas, fabric or other covering.
 
@@ -200,9 +200,9 @@ Where the artistic integrity of a performance makes it appropriate for a person 
 (6) This regulation applies to all vehicles other than—
 
 - (a) aircraft; or
-- (b) ships or hovercraft in respect of which regulations could be made under section 85 of the Merchant Shipping Act 1995[^f00006] (safety and health on ships), including that section as applied by any Order in Council under section 1(1)(h) of the Hovercraft Act 1968[^f00007] [^key-ad5c40ec1eaae3e38d96e15bb234a406]....
+- (b) ships or hovercraft in respect of which regulations could be made under section 85 of the Merchant Shipping Act 1995[^f00006] (safety and health on ships), including that section as applied by any Order in Council under section 1(1)(h) of the Hovercraft Act 1968[^f00007] [^c-ad5c40ec1eaae3e38d96e15bb234a406]....
 
-(7)[^key-cf9a6a7803e9b0401bc5114759a48da5] Paragraph (1A) does not apply to—
+(7)[^c-cf9a6a7803e9b0401bc5114759a48da5] Paragraph (1A) does not apply to—
 
 - (a) a caravan or motor caravan that is stationary and not on a road; or
 - (b) a caravan or motor caravan that is stationary, is on a road and is being used as living accommodation.
@@ -253,44 +253,44 @@ A Regulatory Impact Assessment has been prepared for these Regulations and a cop
 
 [^f00001]: Footnote: [2006 c.28](https://www.legislation.gov.uk/ukpga/2006/28). As to the meaning of “appropriate national authority” see section 82(1).
 
-[^key-1a1d3186bdeebc6b043f2e5bd2f63c40]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/765/regulation/1) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
+[^c-1a1d3186bdeebc6b043f2e5bd2f63c40]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/765/regulation/1) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
 
-[^key-9b68063356ab7b554ebb36673432c68f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/765/regulation/2) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
+[^c-9b68063356ab7b554ebb36673432c68f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/765/regulation/2) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
 
-[^key-34b1dc8b96569d2a63e593604451ec89]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/765/regulation/3) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
+[^c-34b1dc8b96569d2a63e593604451ec89]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/765/regulation/3) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
 
-[^key-45adf8d0b2d02f349e0865eaaf739c74]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/765/regulation/4) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
+[^c-45adf8d0b2d02f349e0865eaaf739c74]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/765/regulation/4) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
 
-[^key-e28d76b82cf248178078183313bb1bab]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/765/regulation/5) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
+[^c-e28d76b82cf248178078183313bb1bab]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/765/regulation/5) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
 
 [^f00002]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14).
 
-[^key-c22b12fe3248384a7eaa11c17a89e4c6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/765/regulation/6) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
+[^c-c22b12fe3248384a7eaa11c17a89e4c6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/765/regulation/6) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
 
-[^key-244f0d91bfd9aca41562138fb91f4c7a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/765/regulation/7) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
+[^c-244f0d91bfd9aca41562138fb91f4c7a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/765/regulation/7) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2003/1471](https://www.legislation.gov.uk/uksi/2003/1471); see article 5 and the Schedule.
 
 [^f00004]: Footnote: [2002 c.36](https://www.legislation.gov.uk/ukpga/2002/36).
 
-[^key-de31375e3355b6e67ee8b9a40c06429d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/765/regulation/8) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
+[^c-de31375e3355b6e67ee8b9a40c06429d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/765/regulation/8) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
 
-[^key-8bd22eaea9af7d269308cf7c7181f351]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/765/regulation/9) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
+[^c-8bd22eaea9af7d269308cf7c7181f351]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/765/regulation/9) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
 
-[^key-103080180ed5073678e88e3f14916134]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/765/regulation/10) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
+[^c-103080180ed5073678e88e3f14916134]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/765/regulation/10) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
 
 [^f00005]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-e747b006db9578915c06a906a81fd7d4]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/765/regulation/11) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
+[^c-e747b006db9578915c06a906a81fd7d4]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/765/regulation/11) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/765/regulation/1/1)
 
-[^key-481dbf0c21d60f5dca523381893b7e87]: Textual amendment: [Reg. 11(1A)](https://www.legislation.gov.uk/uksi/2007/765/regulation/11/1A) inserted (1.10.2015) by [The Smoke-free (Private Vehicles) Regulations 2015 (S.I. 2015/286)](https://www.legislation.gov.uk/uksi/2015/286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/286/regulation/2/2)
+[^c-481dbf0c21d60f5dca523381893b7e87]: Textual amendment: [Reg. 11(1A)](https://www.legislation.gov.uk/uksi/2007/765/regulation/11/1A) inserted (1.10.2015) by [The Smoke-free (Private Vehicles) Regulations 2015 (S.I. 2015/286)](https://www.legislation.gov.uk/uksi/2015/286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/286/regulation/2/2)
 
-[^key-1b13d553fa7259bfcffa99280ffc4b84]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2007/765/regulation/11/2) substituted (1.10.2015) by [The Smoke-free (Private Vehicles) Regulations 2015 (S.I. 2015/286)](https://www.legislation.gov.uk/uksi/2015/286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/286/regulation/2/3)
+[^c-1b13d553fa7259bfcffa99280ffc4b84]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2007/765/regulation/11/2) substituted (1.10.2015) by [The Smoke-free (Private Vehicles) Regulations 2015 (S.I. 2015/286)](https://www.legislation.gov.uk/uksi/2015/286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/286/regulation/2/3)
 
 [^f00006]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21). Section 85 was amended by the British Overseas Territories Act [2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8), section 2, and by the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), sections 8 and 29 and Schedule 7, Part 1.
 
 [^f00007]: Footnote: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59). Section 1 was amended by the Control of Pollution Act [1974 (c.40)](https://www.legislation.gov.uk/ukpga/1974/40), section 108 and Schedule 3; the Supreme Court Act [1981 (c.54)](https://www.legislation.gov.uk/ukpga/1981/54), section 152 and Schedule 5; the Environmental Protection Act [1990 (c.43)](https://www.legislation.gov.uk/ukpga/1990/43), section 162 and Schedule 15; the Merchant Shipping Act [1995 (c.21)](https://www.legislation.gov.uk/ukpga/1995/21), section 314 and Schedule 13; the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), section 120 and Schedule 24; the Merchant Shipping and Marine Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), section 29 and Schedule 6; the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), section 59 and Schedule 11, and by [S.I. 1978/1049](https://www.legislation.gov.uk/uksi/1978/1049). It was also modified by the Pilotage Act [1987 (c.21)](https://www.legislation.gov.uk/ukpga/1987/21), section 32 and Schedule 2 and by the Merchant Shipping Act 1995, section 310.
 
-[^key-ad5c40ec1eaae3e38d96e15bb234a406]: Textual amendment: Words in [reg. 11(6)(b)](https://www.legislation.gov.uk/uksi/2007/765/regulation/11/6/b) omitted (1.10.2015) by virtue of [The Smoke-free (Private Vehicles) Regulations 2015 (S.I. 2015/286)](https://www.legislation.gov.uk/uksi/2015/286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/286/regulation/2/4)
+[^c-ad5c40ec1eaae3e38d96e15bb234a406]: Textual amendment: Words in [reg. 11(6)(b)](https://www.legislation.gov.uk/uksi/2007/765/regulation/11/6/b) omitted (1.10.2015) by virtue of [The Smoke-free (Private Vehicles) Regulations 2015 (S.I. 2015/286)](https://www.legislation.gov.uk/uksi/2015/286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/286/regulation/2/4)
 
-[^key-cf9a6a7803e9b0401bc5114759a48da5]: Textual amendment: [Reg. 11(7)](https://www.legislation.gov.uk/uksi/2007/765/regulation/11/7)[(8)](https://www.legislation.gov.uk/uksi/2007/765/regulation/11/8) added (1.10.2015) by [The Smoke-free (Private Vehicles) Regulations 2015 (S.I. 2015/286)](https://www.legislation.gov.uk/uksi/2015/286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/286/regulation/2/5)
+[^c-cf9a6a7803e9b0401bc5114759a48da5]: Textual amendment: [Reg. 11(7)](https://www.legislation.gov.uk/uksi/2007/765/regulation/11/7)[(8)](https://www.legislation.gov.uk/uksi/2007/765/regulation/11/8) added (1.10.2015) by [The Smoke-free (Private Vehicles) Regulations 2015 (S.I. 2015/286)](https://www.legislation.gov.uk/uksi/2015/286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/286/regulation/2/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Admission and rejection of proofs for dividend[^key-1b400f72b95f5817d3621200a88a474a]
+## 45. Admission and rejection of proofs for dividend[^c-1b400f72b95f5817d3621200a88a474a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b400f72b95f5817d3621200a88a474a]: Commencement: Rule 45 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-1b400f72b95f5817d3621200a88a474a]: Commencement: Rule 45 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

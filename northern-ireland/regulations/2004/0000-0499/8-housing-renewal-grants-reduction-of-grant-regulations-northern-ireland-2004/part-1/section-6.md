@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Definition of relevant person[^key-093ed3f3826acb7891743187efeb5a74]
+## 6. Definition of relevant person[^c-093ed3f3826acb7891743187efeb5a74]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ is not the parent or guardian of a disabled child who lives or intends to live i
 
 ## Annotations
 
-[^key-093ed3f3826acb7891743187efeb5a74]: Commencement: Reg. 6 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-093ed3f3826acb7891743187efeb5a74]: Commencement: Reg. 6 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

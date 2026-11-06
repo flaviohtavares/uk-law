@@ -31,7 +31,7 @@ summary: ''
 
 food
 
-The Condensed Milk and Dried Milk (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^key-66a34b030ce805fd51112602b6b52b4f]
+The Condensed Milk and Dried Milk (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^c-66a34b030ce805fd51112602b6b52b4f]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 7th March 2008
 
-[^key-66a34b030ce805fd51112602b6b52b4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66a34b030ce805fd51112602b6b52b4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-66a34b030ce805fd51112602b6b52b4f]
+## 1. Citation and commencement[^c-66a34b030ce805fd51112602b6b52b4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2003[^key-66a34b030ce805fd51112602b6b52b4f]
+## 2. Amendment of the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2003[^c-66a34b030ce805fd51112602b6b52b4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-66a34b030ce805fd51112602b6b52b4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-66a34b030ce805fd51112602b6b52b4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-66a34b030ce805fd51112602b6b52b4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-66a34b030ce805fd51112602b6b52b4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consequential amendments[^key-66a34b030ce805fd51112602b6b52b4f]
+## 5. Consequential amendments[^c-66a34b030ce805fd51112602b6b52b4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-66a34b030ce805fd51112602b6b52b4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-66a34b030ce805fd51112602b6b52b4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-66a34b030ce805fd51112602b6b52b4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66a34b030ce805fd51112602b6b52b4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-66a34b030ce805fd51112602b6b52b4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66a34b030ce805fd51112602b6b52b4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-66a34b030ce805fd51112602b6b52b4f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/42) revoked (23.4.2018) by [The Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018 (S.R. 2018/77)](https://www.legislation.gov.uk/nisr/2018/77), [reg. 8(c)](https://www.legislation.gov.uk/nisr/2018/77/regulation/8/c)
+[^c-66a34b030ce805fd51112602b6b52b4f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/42) revoked (23.4.2018) by [The Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018 (S.R. 2018/77)](https://www.legislation.gov.uk/nisr/2018/77), [reg. 8(c)](https://www.legislation.gov.uk/nisr/2018/77/regulation/8/c)

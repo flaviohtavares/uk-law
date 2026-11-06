@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Commission Decision [2009/359/EC](https://www.legislation.gov.uk/eudn/2009/359) completing the definition of inert waste in implementation of Article 22(1)(f) of Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and the Council concerning the management of waste from extractive industries[^key-c29d3238ab34784640b37f8d39a4292e]
+## 19. Commission Decision [2009/359/EC](https://www.legislation.gov.uk/eudn/2009/359) completing the definition of inert waste in implementation of Article 22(1)(f) of Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and the Council concerning the management of waste from extractive industries[^c-c29d3238ab34784640b37f8d39a4292e]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ summary: ''
 >
 > **2.**
 >
-> A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day[^key-40097aed1d1df10df84dacc3c7b713ab] , was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of England or Wales.
+> A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day[^c-40097aed1d1df10df84dacc3c7b713ab] , was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of England or Wales.
 >
 > **3.**
 >
@@ -103,13 +103,13 @@ summary: ''
 >
 > **1.**
 >
-> In Article 1A(3), the “**Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^key-5319e353d97a8cfffd15272f154cb7db], and read in accordance with this Article.
+> In Article 1A(3), the “**Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^c-5319e353d97a8cfffd15272f154cb7db], and read in accordance with this Article.
 >
 > **2.**
 >
-> A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day[^key-2ded1a90c6b415bdf874035550c652fa], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of England or Wales.
+> A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day[^c-2ded1a90c6b415bdf874035550c652fa], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of England or Wales.
 >
-> **3.[^key-687668c8434c86e8bb57d84b4b74305f]**
+> **3.[^c-687668c8434c86e8bb57d84b4b74305f]**
 >
 > Article 5 is to be read as if—
 >
@@ -166,7 +166,7 @@ summary: ''
 >
 > **7.**
 >
-> In this Article[^key-d802b7d798a2065562d9078a1f1b5043]—
+> In this Article[^c-d802b7d798a2065562d9078a1f1b5043]—
 >
 > - (a) “**appropriate agency**” has the meaning given in Article 1(5);
 > - (b) “appropriate authority” and “local authority” have the meanings given in Article 1A(4).
@@ -177,14 +177,14 @@ summary: ''
 
 ## Annotations
 
-[^key-c29d3238ab34784640b37f8d39a4292e]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-c29d3238ab34784640b37f8d39a4292e]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-40097aed1d1df10df84dacc3c7b713ab]: Textual amendment: Words in reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(15)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/15/a)
+[^c-40097aed1d1df10df84dacc3c7b713ab]: Textual amendment: Words in reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(15)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/15/a)
 
-[^key-5319e353d97a8cfffd15272f154cb7db]: Textual amendment: Words in reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(15)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/15/b/i)
+[^c-5319e353d97a8cfffd15272f154cb7db]: Textual amendment: Words in reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(15)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/15/b/i)
 
-[^key-2ded1a90c6b415bdf874035550c652fa]: Textual amendment: Words in reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(15)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/15/b/ii)
+[^c-2ded1a90c6b415bdf874035550c652fa]: Textual amendment: Words in reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(15)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/15/b/ii)
 
-[^key-687668c8434c86e8bb57d84b4b74305f]: Textual amendment: Words in reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(15)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/15/b/iii)
+[^c-687668c8434c86e8bb57d84b4b74305f]: Textual amendment: Words in reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(15)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/15/b/iii)
 
-[^key-d802b7d798a2065562d9078a1f1b5043]: Textual amendment: Words in reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(15)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/15/b/iv)
+[^c-d802b7d798a2065562d9078a1f1b5043]: Textual amendment: Words in reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(15)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/15/b/iv)

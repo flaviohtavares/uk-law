@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 454. Requirements for recognition of overseas investment exchanges[^key-32414e1c2ddcee052fd115edacdaac1d]
+## 454. Requirements for recognition of overseas investment exchanges[^c-32414e1c2ddcee052fd115edacdaac1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ For regulation 4 of the Traded Securities (Disclosure) Regulations 1994 substitu
 
 ## Annotations
 
-[^key-32414e1c2ddcee052fd115edacdaac1d]: Commencement: Art. 454 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-32414e1c2ddcee052fd115edacdaac1d]: Commencement: Art. 454 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

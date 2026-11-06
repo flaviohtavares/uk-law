@@ -22,7 +22,7 @@ summary: ''
 
 Article 15
 
-### PART 1 — STREETS TO BE STOPPED UP AND FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-680c0023fb72f42d38c33ef6ee7d539b]
+### PART 1 — STREETS TO BE STOPPED UP AND FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-680c0023fb72f42d38c33ef6ee7d539b]
 
 | *(1)*<br>*Street to be stopped up* | *(2)*<br>*Extent of stopping up* |
 | --- | --- |
@@ -30,7 +30,7 @@ Article 15
 | M62 (westbound) to M60 (southbound) (via Junction 18) | Existing section of 252 metres of public road, to be stopped up between points 2/5 to 2/G shown on Sheet 2 of the streets, rights of way and access plans |
 | M66 (southbound) to M62 (eastbound) (via Junction 18) | Existing section of 661 metres of public road, to be stopped up between points 4/3 on Sheet 4 to point 2/C shown on Sheet 2 of the streets, rights of way and access plans |
 
-### PART 2 — PUBLIC RIGHTS OF WAY TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-4b4a2a3490beb63e0f1b2c9f5ea8ff75]
+### PART 2 — PUBLIC RIGHTS OF WAY TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-4b4a2a3490beb63e0f1b2c9f5ea8ff75]
 
 | *(1)*<br>*Public right of way to be stopped up* | *(2)*<br>*Extent of stopping up* | *(3)*<br>*New public right of way to be substituted or provided* |
 | --- | --- | --- |
@@ -40,6 +40,6 @@ Article 15
 
 ## Annotations
 
-[^key-680c0023fb72f42d38c33ef6ee7d539b]: Commencement: Sch. 4 Pt. 1 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
+[^c-680c0023fb72f42d38c33ef6ee7d539b]: Commencement: Sch. 4 Pt. 1 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
 
-[^key-4b4a2a3490beb63e0f1b2c9f5ea8ff75]: Commencement: Sch. 4 Pt. 2 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
+[^c-4b4a2a3490beb63e0f1b2c9f5ea8ff75]: Commencement: Sch. 4 Pt. 2 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)

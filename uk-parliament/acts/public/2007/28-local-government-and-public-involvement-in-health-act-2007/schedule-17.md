@@ -22,9 +22,9 @@ summary: ''
 
 Section 235
 
-**1.**[^key-887e7527f16374b9b90f61727f9f519e] Schedule 5 to the Government of Wales Act 2006 (c. 32) (Assembly measures) is amended in accordance with this Schedule.
+**1.**[^c-887e7527f16374b9b90f61727f9f519e] Schedule 5 to the Government of Wales Act 2006 (c. 32) (Assembly measures) is amended in accordance with this Schedule.
 
-**2.**[^key-229987e3e9d39924df52f6872aebb507] In Part 1, after the heading “*Field 12: local government*” insert—
+**2.**[^c-229987e3e9d39924df52f6872aebb507] In Part 1, after the heading “*Field 12: local government*” insert—
 
 > *Matter 12.1*
 >
@@ -81,13 +81,13 @@ Section 235
 > - (d) a levying body within the meaning of section 74(1) of the Local Government Finance Act 1988 in respect of which the county council or charging authority referred to in section 74(1)(b) of that Act was a council or authority for an area in Wales,
 > - (e) a body to which section 75 of that Act applies (special levies) and which as regards the financial year beginning in 1989 had power to levy a rate by reference to property in Wales.
 
-**3.**[^key-ec1d2815a21932c720865468a65abee5] In Part 2, after paragraph 2 insert—
+**3.**[^c-ec1d2815a21932c720865468a65abee5] In Part 2, after paragraph 2 insert—
 
 > **Police areas**
 >
 > **2A.** A provision of an Assembly Measure cannot make any alteration in police areas.
 
-**4.**[^key-667353f970ddae40708f9e1f65ec35f1] In Part 3, after paragraph 7 insert—
+**4.**[^c-667353f970ddae40708f9e1f65ec35f1] In Part 3, after paragraph 7 insert—
 
 > **Police areas**
 >
@@ -95,10 +95,10 @@ Section 235
 
 ## Annotations
 
-[^key-887e7527f16374b9b90f61727f9f519e]: Commencement: Sch. 17 para. 1 in force at 30.12.2007, see s. 245(2)
+[^c-887e7527f16374b9b90f61727f9f519e]: Commencement: Sch. 17 para. 1 in force at 30.12.2007, see s. 245(2)
 
-[^key-229987e3e9d39924df52f6872aebb507]: Commencement: Sch. 17 para. 2 in force at 30.12.2007, see s. 245(2)
+[^c-229987e3e9d39924df52f6872aebb507]: Commencement: Sch. 17 para. 2 in force at 30.12.2007, see s. 245(2)
 
-[^key-ec1d2815a21932c720865468a65abee5]: Commencement: Sch. 17 para. 3 in force at 30.12.2007, see s. 245(2)
+[^c-ec1d2815a21932c720865468a65abee5]: Commencement: Sch. 17 para. 3 in force at 30.12.2007, see s. 245(2)
 
-[^key-667353f970ddae40708f9e1f65ec35f1]: Commencement: Sch. 17 para. 4 in force at 30.12.2007, see s. 245(2)
+[^c-667353f970ddae40708f9e1f65ec35f1]: Commencement: Sch. 17 para. 4 in force at 30.12.2007, see s. 245(2)

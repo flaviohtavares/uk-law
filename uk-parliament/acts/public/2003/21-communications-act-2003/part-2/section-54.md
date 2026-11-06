@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Approval of dispute procedures for the purposes of s. 52[^key-49fdadba6cee7a30c90c1a0e422fb5e4][^key-32836fcfddc765b79677764d3a7b1584]
+## 54. Approval of dispute procedures for the purposes of s. 52[^c-49fdadba6cee7a30c90c1a0e422fb5e4][^c-32836fcfddc765b79677764d3a7b1584]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) OFCOM are not to approve dispute procedures unless they are satisfied that the arrangements under which the procedures have effect—
 
 - (a) are administered by person who is for practical purposes independent (so far as decisions in relation to disputes are concerned) of both OFCOM and the communications providers to whom the arrangements apply;
-- (b) give effect to procedures that are easy to use, transparent , non-discriminatory[^key-c13f3132250f09b98863138c5093ab3a] and effective;
+- (b) give effect to procedures that are easy to use, transparent , non-discriminatory[^c-c13f3132250f09b98863138c5093ab3a] and effective;
 - (c) give, in the case of every communications provider to whom the arrangements apply, a right to each of his domestic and small business customers to use the procedures free of charge;
 - (d) ensure that all information necessary for giving effect to the procedures is obtained;
 - (e) ensure that disputes are effectively investigated;
@@ -62,8 +62,8 @@ OFCOM must have regard to the matters mentioned in subsection (7).
 
 ## Annotations
 
-[^key-49fdadba6cee7a30c90c1a0e422fb5e4]: Commencement: S. 54 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-49fdadba6cee7a30c90c1a0e422fb5e4]: Commencement: S. 54 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-32836fcfddc765b79677764d3a7b1584]: Commencement: S. 54 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-32836fcfddc765b79677764d3a7b1584]: Commencement: S. 54 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-c13f3132250f09b98863138c5093ab3a]: Textual amendment: Words in s. 54(2)(b) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/29) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-c13f3132250f09b98863138c5093ab3a]: Textual amendment: Words in s. 54(2)(b) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/29) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Errors and omissions[^key-de409d63c4d2ff2975402584da08ccda]
+## 41. Errors and omissions[^c-de409d63c4d2ff2975402584da08ccda]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a notice or statement contains an error or omission which does not affect 
 
 ## Annotations
 
-[^key-de409d63c4d2ff2975402584da08ccda]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2007/1167/regulation/41) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-de409d63c4d2ff2975402584da08ccda]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2007/1167/regulation/41) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)

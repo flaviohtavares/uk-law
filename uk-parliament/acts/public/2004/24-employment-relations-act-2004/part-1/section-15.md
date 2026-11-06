@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Power to amend Schedule A1 to the 1992 Act[^key-bb6c7458c69c67bde756b4ac856f6f4a]
+## 15. Power to amend Schedule A1 to the 1992 Act[^c-bb6c7458c69c67bde756b4ac856f6f4a]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb6c7458c69c67bde756b4ac856f6f4a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2004/24/section/15) in force at 31.12.2004 by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/3342/article/6))
+[^c-bb6c7458c69c67bde756b4ac856f6f4a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2004/24/section/15) in force at 31.12.2004 by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/3342/article/6))

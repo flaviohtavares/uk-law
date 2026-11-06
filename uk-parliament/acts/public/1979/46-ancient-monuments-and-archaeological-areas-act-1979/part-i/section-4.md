@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Duration, modification and revocation of scheduled monument consent.[^M_E_d500419c-4693-4328-a65d-b26fcee8af40][^key-e46a1aab137396813e20ed0f97d1a51a]
+## 4. Duration, modification and revocation of scheduled monument consent.[^M_E_d500419c-4693-4328-a65d-b26fcee8af40][^c-e46a1aab137396813e20ed0f97d1a51a]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) If it appears to the Secretary of State to be expedient to do so, he may by a direction given under this section modify or revoke a scheduled monument consent to any extent he considers expedient.
 
-[^key-9b0661eb3298f30802f25955232ce9c8]... The Secretary of State shall consult with the Commission before he gives such a direction.[^c250796]
+[^c-9b0661eb3298f30802f25955232ce9c8]... The Secretary of State shall consult with the Commission before he gives such a direction.[^c250796]
 
 (4) Without prejudice to the generality of the power conferred by subsection (3) above to modify a scheduled monument consent, it extends to specifying a period, or altering any period specified, for the purposes of subsection (1) above, and to including a provision to the effect mentioned in subsection (2) above, or altering any period specified for the purposes of any such provision.
 
@@ -50,9 +50,9 @@ summary: ''
 
 [^M_E_d500419c-4693-4328-a65d-b26fcee8af40]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-e46a1aab137396813e20ed0f97d1a51a]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1979/46/section/4) excluded (1.1.2022) by [The Scheduled Monuments (Heritage Partnership Agreements) (Wales) Regulations 2021 (S.I. 2021/1176)](https://www.legislation.gov.uk/wsi/2021/1176), [reg. 1](https://www.legislation.gov.uk/wsi/2021/1176/regulation/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2021/1176/schedule/1)
+[^c-e46a1aab137396813e20ed0f97d1a51a]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1979/46/section/4) excluded (1.1.2022) by [The Scheduled Monuments (Heritage Partnership Agreements) (Wales) Regulations 2021 (S.I. 2021/1176)](https://www.legislation.gov.uk/wsi/2021/1176), [reg. 1](https://www.legislation.gov.uk/wsi/2021/1176/regulation/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2021/1176/schedule/1)
 
-[^key-9b0661eb3298f30802f25955232ce9c8]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/ukpga/1979/46/section/4/3) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 23](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/23) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-9b0661eb3298f30802f25955232ce9c8]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/ukpga/1979/46/section/4/3) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 23](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/23) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c250796]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/29)
 

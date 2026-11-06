@@ -44,21 +44,21 @@ The Department of Agriculture and Rural Development is a Department designated [
 
 The Department of Agriculture and Rural Development makes the following Regulations in exercise of the powers conferred on it by section 2(2) of that Act.
 
-## 1. Title, commencement and interpretation[^key-675527ffe7161faf2d15e401fbeb6b84]
+## 1. Title, commencement and interpretation[^c-675527ffe7161faf2d15e401fbeb6b84]
 
 (1) These Regulations may be cited as the Common Agricultural Policy Direct Payments and Support Schemes (Cross Compliance) (Amendment) Regulations (Northern Ireland) 2015 and shall come into operation on 1st August 2015.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2014[^key-0bb79466a9e00f1ca3883c7006d652a0]
+## 2. Amendment of the Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2014[^c-0bb79466a9e00f1ca3883c7006d652a0]
 
-The Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2014[^f00004] are amended as follows:[^key-9aa167694876f0cd0a61a279c683d1dd]
+The Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2014[^f00004] are amended as follows:[^c-9aa167694876f0cd0a61a279c683d1dd]
 
-## 3.[^key-ad0393db10c5ce39bb963d23d38cb7c6]
+## 3.[^c-ad0393db10c5ce39bb963d23d38cb7c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-18b48479612469dfe8304dd358ab45af]
+## 4.[^c-18b48479612469dfe8304dd358ab45af]
 
 For paragraph (2) of regulation 5 there shall be substituted the following paragraph—
 
@@ -66,7 +66,7 @@ For paragraph (2) of regulation 5 there shall be substituted the following parag
 
 .
 
-## 5.[^key-07d5a397978547cd2129bab410ce6dc1]
+## 5.[^c-07d5a397978547cd2129bab410ce6dc1]
 
 In Schedule 1 (STANDARDS OF GOOD AGRICULTURAL AND ENVIRONMENTAL CONDITION)-
 
@@ -128,18 +128,18 @@ The Regulations also make minor drafting changes and corrections (regulations 3,
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-675527ffe7161faf2d15e401fbeb6b84]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/286/regulation/1) in operation at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/286/regulation/1/1)
+[^c-675527ffe7161faf2d15e401fbeb6b84]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/286/regulation/1) in operation at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/286/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-0bb79466a9e00f1ca3883c7006d652a0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/286/regulation/2) in operation at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/286/regulation/1/1)
+[^c-0bb79466a9e00f1ca3883c7006d652a0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/286/regulation/2) in operation at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/286/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2014 No. 291](https://www.legislation.gov.uk/nisr/2014/291)
 
-[^key-9aa167694876f0cd0a61a279c683d1dd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/286/regulation/2) substituted (10.3.2025) by [The Farm Sustainability Payments to Farmers (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/26)](https://www.legislation.gov.uk/nisr/2025/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2025/26/regulation/5/a)
+[^c-9aa167694876f0cd0a61a279c683d1dd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/286/regulation/2) substituted (10.3.2025) by [The Farm Sustainability Payments to Farmers (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/26)](https://www.legislation.gov.uk/nisr/2025/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2025/26/regulation/5/a)
 
-[^key-ad0393db10c5ce39bb963d23d38cb7c6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/286/regulation/3) omitted (10.3.2025) by virtue of [The Farm Sustainability Payments to Farmers (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/26)](https://www.legislation.gov.uk/nisr/2025/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2025/26/regulation/5/b)
+[^c-ad0393db10c5ce39bb963d23d38cb7c6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/286/regulation/3) omitted (10.3.2025) by virtue of [The Farm Sustainability Payments to Farmers (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/26)](https://www.legislation.gov.uk/nisr/2025/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2025/26/regulation/5/b)
 
-[^key-18b48479612469dfe8304dd358ab45af]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/286/regulation/4) in operation at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/286/regulation/1/1)
+[^c-18b48479612469dfe8304dd358ab45af]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/286/regulation/4) in operation at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/286/regulation/1/1)
 
-[^key-07d5a397978547cd2129bab410ce6dc1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/286/regulation/5) in operation at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/286/regulation/1/1)
+[^c-07d5a397978547cd2129bab410ce6dc1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/286/regulation/5) in operation at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/286/regulation/1/1)

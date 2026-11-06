@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 166. Creditors’ and customers’ request for further information[^key-962eaeea4991bc2b1ed87e29b3bc6444]
+## 166. Creditors’ and customers’ request for further information[^c-962eaeea4991bc2b1ed87e29b3bc6444]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ and the court may make such order as it thinks just.
 
 ## Annotations
 
-[^key-962eaeea4991bc2b1ed87e29b3bc6444]: Commencement: Rule 166 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-962eaeea4991bc2b1ed87e29b3bc6444]: Commencement: Rule 166 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

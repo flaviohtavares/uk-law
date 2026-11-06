@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Power of the Commissioner to treat conduct matter as having been referred[^key-e0a1dc068b6f96994c64a951f0f52f58]
+## 25. Power of the Commissioner to treat conduct matter as having been referred[^c-e0a1dc068b6f96994c64a951f0f52f58]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0a1dc068b6f96994c64a951f0f52f58]: Commencement: Reg. 25 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-e0a1dc068b6f96994c64a951f0f52f58]: Commencement: Reg. 25 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

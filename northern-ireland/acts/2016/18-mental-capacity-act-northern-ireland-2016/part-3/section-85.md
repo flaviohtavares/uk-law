@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Determining who is nominated person[^key-09b3d5224b0563637976107a41e43096]
+## 85. Determining who is nominated person[^c-09b3d5224b0563637976107a41e43096]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09b3d5224b0563637976107a41e43096]: Commencement: [S. 85](https://www.legislation.gov.uk/nia/2016/18/section/85) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-09b3d5224b0563637976107a41e43096]: Commencement: [S. 85](https://www.legislation.gov.uk/nia/2016/18/section/85) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

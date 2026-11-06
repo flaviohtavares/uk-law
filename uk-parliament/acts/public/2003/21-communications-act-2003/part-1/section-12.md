@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Duty to establish and maintain Content Board[^key-b59a96626a1481a6ac61d68980b86792]
+## 12. Duty to establish and maintain Content Board[^c-b59a96626a1481a6ac61d68980b86792]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ there is a different member of the Board capable of representing the interests a
 (9) The following shall be disqualified from being the chairman or another member of the Content Board—
 
 - (a) governors and employees of the BBC;
-- (b) members of the S4C Board and employees of S4C[^key-6e4c5a188e0e619d587f9d0fd683decc]; and
+- (b) members of the S4C Board and employees of S4C[^c-6e4c5a188e0e619d587f9d0fd683decc]; and
 - (c) members and employees of C4C.
 
 (10) Before appointing a person to be the chairman or another member of the Content Board, OFCOM must satisfy themselves that he will not have any financial or other interest which would be likely prejudicially to affect the carrying out by him of any of his functions as chairman or member of the Content Board.
@@ -70,6 +70,6 @@ there is a different member of the Board capable of representing the interests a
 
 ## Annotations
 
-[^key-b59a96626a1481a6ac61d68980b86792]: Commencement: S. 12 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b59a96626a1481a6ac61d68980b86792]: Commencement: S. 12 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-6e4c5a188e0e619d587f9d0fd683decc]: Textual amendment: Words in [s. 12(9)(b)](https://www.legislation.gov.uk/ukpga/2003/21/section/12/9/b) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/30); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-6e4c5a188e0e619d587f9d0fd683decc]: Textual amendment: Words in [s. 12(9)(b)](https://www.legislation.gov.uk/ukpga/2003/21/section/12/9/b) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/30); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)

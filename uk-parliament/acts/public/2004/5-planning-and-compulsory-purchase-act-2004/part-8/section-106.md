@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 106. Basic loss payment[^key-f0a50f3f1bb520d7b6d5dcafce45961a]
+## 106. Basic loss payment[^c-f0a50f3f1bb520d7b6d5dcafce45961a]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0a50f3f1bb520d7b6d5dcafce45961a]: Commencement: S. 106 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-f0a50f3f1bb520d7b6d5dcafce45961a]: Commencement: S. 106 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

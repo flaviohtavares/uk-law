@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Traffic signs[^key-32da98946ebac5a882188dcf90aafc59]
+## 38. Traffic signs[^c-32da98946ebac5a882188dcf90aafc59]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32da98946ebac5a882188dcf90aafc59]: Commencement: Art. 38 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-32da98946ebac5a882188dcf90aafc59]: Commencement: Art. 38 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

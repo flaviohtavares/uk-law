@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Reduction of guaranteed minimum in consequence of pension debit.[^key-933db6c490d7da8b129dd842ae67df84][^key-64362c7c60f10c72622be54b41ad321d][^key-d53465623c730ed46d73adf0c2cd16d5][^key-941960b188d601614090d55f6ad69ad5][^key-e05f8782c76af7e7ff6bb8331643328b][^key-06499561b9e184ebb7d9b2b0e163d242][^c11718591]
+## 11A. Reduction of guaranteed minimum in consequence of pension debit.[^c-933db6c490d7da8b129dd842ae67df84][^c-64362c7c60f10c72622be54b41ad321d][^c-d53465623c730ed46d73adf0c2cd16d5][^c-941960b188d601614090d55f6ad69ad5][^c-e05f8782c76af7e7ff6bb8331643328b][^c-06499561b9e184ebb7d9b2b0e163d242][^c11718591]
 
 *Extent: N.I.*
 
@@ -38,16 +38,16 @@ his guaranteed minimum in relation to the scheme is, subject to subsection (2), 
 
 ## Annotations
 
-[^key-933db6c490d7da8b129dd842ae67df84]: Modification: S. 11A modified (1.4.2015) by [The Firefighters Pension Scheme (Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/166)](https://www.legislation.gov.uk/nisr/2015/166), [regs. 1](https://www.legislation.gov.uk/nisr/2015/166/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2015/166/regulation/6/1)
+[^c-933db6c490d7da8b129dd842ae67df84]: Modification: S. 11A modified (1.4.2015) by [The Firefighters Pension Scheme (Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/166)](https://www.legislation.gov.uk/nisr/2015/166), [regs. 1](https://www.legislation.gov.uk/nisr/2015/166/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2015/166/regulation/6/1)
 
-[^key-64362c7c60f10c72622be54b41ad321d]: Modification: S. 11A modified (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/81)](https://www.legislation.gov.uk/nisr/2015/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/81/regulation/1/1), [6(1)](https://www.legislation.gov.uk/nisr/2015/81/regulation/6/1)
+[^c-64362c7c60f10c72622be54b41ad321d]: Modification: S. 11A modified (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/81)](https://www.legislation.gov.uk/nisr/2015/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/81/regulation/1/1), [6(1)](https://www.legislation.gov.uk/nisr/2015/81/regulation/6/1)
 
-[^key-d53465623c730ed46d73adf0c2cd16d5]: Modification: S. 11A modified (1.4.2015) by [The Health Service Workers (Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/167)](https://www.legislation.gov.uk/nisr/2015/167), [regs. 1](https://www.legislation.gov.uk/nisr/2015/167/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2015/167/regulation/6/1)
+[^c-d53465623c730ed46d73adf0c2cd16d5]: Modification: S. 11A modified (1.4.2015) by [The Health Service Workers (Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/167)](https://www.legislation.gov.uk/nisr/2015/167), [regs. 1](https://www.legislation.gov.uk/nisr/2015/167/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2015/167/regulation/6/1)
 
-[^key-941960b188d601614090d55f6ad69ad5]: Modification: S. 11A modified (1.4.2015) by [The Judicial Pensions Regulations (Northern Ireland) 2015 (S.R. 2015/76)](https://www.legislation.gov.uk/nisr/2015/76), [reg. 1(3)](https://www.legislation.gov.uk/nisr/2015/76/regulation/1/3), [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/4/1)
+[^c-941960b188d601614090d55f6ad69ad5]: Modification: S. 11A modified (1.4.2015) by [The Judicial Pensions Regulations (Northern Ireland) 2015 (S.R. 2015/76)](https://www.legislation.gov.uk/nisr/2015/76), [reg. 1(3)](https://www.legislation.gov.uk/nisr/2015/76/regulation/1/3), [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/4/1)
 
-[^key-e05f8782c76af7e7ff6bb8331643328b]: Modification: S. 11A modified (1.4.2015) by [The Police Pensions (Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/156)](https://www.legislation.gov.uk/nisr/2015/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/156/regulation/1/2), [6(1)](https://www.legislation.gov.uk/nisr/2015/156/regulation/6/1)
+[^c-e05f8782c76af7e7ff6bb8331643328b]: Modification: S. 11A modified (1.4.2015) by [The Police Pensions (Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/156)](https://www.legislation.gov.uk/nisr/2015/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/156/regulation/1/2), [6(1)](https://www.legislation.gov.uk/nisr/2015/156/regulation/6/1)
 
-[^key-06499561b9e184ebb7d9b2b0e163d242]: Modification: S. 11A modified (1.4.2015) by [The Teachers Pension Scheme (Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/170)](https://www.legislation.gov.uk/nisr/2015/170), [regs. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2015/170/regulation/6/1)
+[^c-06499561b9e184ebb7d9b2b0e163d242]: Modification: S. 11A modified (1.4.2015) by [The Teachers Pension Scheme (Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/170)](https://www.legislation.gov.uk/nisr/2015/170), [regs. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2015/170/regulation/6/1)
 
 [^c11718591]: Textual amendment: S. 11A inserted (1.12.1999 for certain purposes and otherwise 1.12.2000) by [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), [arts. 1(5)(a)](https://www.legislation.gov.uk/nisi/1999/3147/article/1/5/a), [29(3)](https://www.legislation.gov.uk/nisi/1999/3147/article/29/3); [S.R. 2000/133](https://www.legislation.gov.uk/nisr/2000/133), [art. 2(3)](https://www.legislation.gov.uk/nisr/2000/133/article/2/3), [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/2000/133/schedule/part/IV)

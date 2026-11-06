@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.2. Costs orders: general rules[^key-236000be4cd6d2d426a6e9da911e3fc1]
+## 45.2. Costs orders: general rules[^c-236000be4cd6d2d426a6e9da911e3fc1]
 
 *Extent: E+W*
 
@@ -80,7 +80,7 @@ summary: ''
 
 ## Annotations
 
-[^key-236000be4cd6d2d426a6e9da911e3fc1]: Commencement: [Rule 45.2](https://www.legislation.gov.uk/uksi/2025/909/rule/45.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-236000be4cd6d2d426a6e9da911e3fc1]: Commencement: [Rule 45.2](https://www.legislation.gov.uk/uksi/2025/909/rule/45.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01064]: Footnote: [1985 c. 23](https://www.legislation.gov.uk/ukpga/1985/23); section 16A was inserted by paragraphs 1 and 3 and Part 4 of Schedule 7 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
 

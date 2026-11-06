@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Appointment of officers.[^key-c79e22135fb08311d76b7b6a72ef3f16]
+## 13. Appointment of officers.[^c-c79e22135fb08311d76b7b6a72ef3f16]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c79e22135fb08311d76b7b6a72ef3f16]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1998/39/section/13) and [cross-heading](https://www.legislation.gov.uk/ukpga/1998/39/crossheading/officers) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/18) (with [s. 147 Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
+[^c-c79e22135fb08311d76b7b6a72ef3f16]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1998/39/section/13) and [cross-heading](https://www.legislation.gov.uk/ukpga/1998/39/crossheading/officers) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/18) (with [s. 147 Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)

@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1(2) and (3)
 
 The Department for Social Development, in exercise of the powers conferred by sections 122(1)(a) and (d), 132(3) and (4)(b) and 171(3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 14(1) and (4)(b) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-61283ce95ad88a881a9dc302608fd1ca]
+## 1. Citation, commencement and interpretation[^c-61283ce95ad88a881a9dc302608fd1ca]
 
 (1) These Regulations may be cited as the Social Security (Child Maintenance Premium) (Amendment) Regulations (Northern Ireland) 2004 and shall come into operation in accordance with paragraphs (2) and (3).
 
@@ -75,15 +75,15 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-79e838e60e6e7e308388533ab8811cc9]
+## 2. Amendment of the Income Support (General) Regulations[^c-79e838e60e6e7e308388533ab8811cc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-5b1e71cbf226bf77b5171505208eb532]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-5b1e71cbf226bf77b5171505208eb532]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations[^key-2fab64e088b928d77728f87f5e0164fd]
+## 4. Amendment of the Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations[^c-2fab64e088b928d77728f87f5e0164fd]
 
 (1) The Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations (Northern Ireland) 2001[^f00017] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -160,7 +160,7 @@ A regulatory impact assessment has not been produced for this rule as it has no 
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-61283ce95ad88a881a9dc302608fd1ca]: Commencement: Reg. 1 in operation at 16.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/1/2)
+[^c-61283ce95ad88a881a9dc302608fd1ca]: Commencement: Reg. 1 in operation at 16.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/1/2)
 
 [^f00004]: Footnote: *See* Article 6 of [S.R. 2003 No. 53 (C. 4)](https://www.legislation.gov.uk/nisr/2003/53), as substituted by Article 2 of [S.R. 2003 No. 92 (C. 7)](https://www.legislation.gov.uk/nisr/2003/92)
 
@@ -176,10 +176,10 @@ A regulatory impact assessment has not been produced for this rule as it has no 
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-79e838e60e6e7e308388533ab8811cc9]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/16/regulation/2) revoked (26.10.2009) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/338/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2009/338/regulation/9/a)
+[^c-79e838e60e6e7e308388533ab8811cc9]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/16/regulation/2) revoked (26.10.2009) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/338/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2009/338/regulation/9/a)
 
-[^key-5b1e71cbf226bf77b5171505208eb532]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/16/regulation/3) revoked (26.10.2009) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/338/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2009/338/regulation/9/a)
+[^c-5b1e71cbf226bf77b5171505208eb532]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/16/regulation/3) revoked (26.10.2009) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/338/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2009/338/regulation/9/a)
 
-[^key-2fab64e088b928d77728f87f5e0164fd]: Commencement: Reg. 4 in operation at 16.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/1/2)
+[^c-2fab64e088b928d77728f87f5e0164fd]: Commencement: Reg. 4 in operation at 16.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/1/2)
 
 [^f00017]: Footnote: [S.R. 2001 No. 25](https://www.legislation.gov.uk/nisr/2001/25), to which there is an amendment not relevant to these regulations

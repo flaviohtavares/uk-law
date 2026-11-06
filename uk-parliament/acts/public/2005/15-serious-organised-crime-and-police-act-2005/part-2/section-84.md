@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Transfer of responsibility to other protection provider[^key-d9639be2833ff047537ebc33aa31cf39][^key-10449713206d661f85fd897e9a18592d]
+## 84. Transfer of responsibility to other protection provider[^c-d9639be2833ff047537ebc33aa31cf39][^c-10449713206d661f85fd897e9a18592d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d9639be2833ff047537ebc33aa31cf39]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2005/15/section/84) in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
+[^c-d9639be2833ff047537ebc33aa31cf39]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2005/15/section/84) in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
 
-[^key-10449713206d661f85fd897e9a18592d]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2005/15/section/84) in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/b)
+[^c-10449713206d661f85fd897e9a18592d]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2005/15/section/84) in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/b)

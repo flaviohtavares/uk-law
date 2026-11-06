@@ -32,7 +32,7 @@ This Statutory Rule has been made in consequence of a defect in [S.R. 1998 No. 3
 
 SOCIAL SECURITY
 
-The Social Security (Contributions) (Amendment No. 4) Regulations (Northern Ireland) 1998 (revoked)[^key-7b9f9cfdf7f5d3cdead455ab4ef1f46e]
+The Social Security (Contributions) (Amendment No. 4) Regulations (Northern Ireland) 1998 (revoked)[^c-7b9f9cfdf7f5d3cdead455ab4ef1f46e]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 22nd September 1998
 
-[^key-7b9f9cfdf7f5d3cdead455ab4ef1f46e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b9f9cfdf7f5d3cdead455ab4ef1f46e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7b9f9cfdf7f5d3cdead455ab4ef1f46e]
+## 1. Citation and commencement[^c-7b9f9cfdf7f5d3cdead455ab4ef1f46e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 19 of the Social Security (Contributions) Regulations[^key-7b9f9cfdf7f5d3cdead455ab4ef1f46e]
+## 2. Amendment of regulation 19 of the Social Security (Contributions) Regulations[^c-7b9f9cfdf7f5d3cdead455ab4ef1f46e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b9f9cfdf7f5d3cdead455ab4ef1f46e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b9f9cfdf7f5d3cdead455ab4ef1f46e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7b9f9cfdf7f5d3cdead455ab4ef1f46e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b9f9cfdf7f5d3cdead455ab4ef1f46e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b9f9cfdf7f5d3cdead455ab4ef1f46e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/332) revoked (6.4.1999) by [The Social Security (Contributions), Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations (Northern Ireland) 1999 (S.R. 1999/117)](https://www.legislation.gov.uk/nisr/1999/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/117/regulation/1/1), [13(f)](https://www.legislation.gov.uk/nisr/1999/117/regulation/13/f)
+[^c-7b9f9cfdf7f5d3cdead455ab4ef1f46e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/332) revoked (6.4.1999) by [The Social Security (Contributions), Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations (Northern Ireland) 1999 (S.R. 1999/117)](https://www.legislation.gov.uk/nisr/1999/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/117/regulation/1/1), [13(f)](https://www.legislation.gov.uk/nisr/1999/117/regulation/13/f)

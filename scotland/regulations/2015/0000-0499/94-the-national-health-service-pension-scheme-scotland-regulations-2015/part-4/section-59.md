@@ -34,8 +34,8 @@ summary: ''
 - (a) may specify different amounts for different descriptions of members; and
 - (b) may be amended during a scheme year.
 
-(5)[^key-e15c299aeff56bbbd20c74080fb3b9b4] An amendment under paragraph (4)(b) must not affect the contributions payable during that year under any option, except an option under which contributions begin to be paid after the date on which the amendment takes effect.
+(5)[^c-e15c299aeff56bbbd20c74080fb3b9b4] An amendment under paragraph (4)(b) must not affect the contributions payable during that year under any option, except an option under which contributions begin to be paid after the date on which the amendment takes effect.
 
 ## Annotations
 
-[^key-e15c299aeff56bbbd20c74080fb3b9b4]: Textual amendment: [Reg. 59(5)](https://www.legislation.gov.uk/ssi/2015/94/regulation/59/5) substituted (with effect from 1.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/2), [28](https://www.legislation.gov.uk/ssi/2025/259/regulation/28)
+[^c-e15c299aeff56bbbd20c74080fb3b9b4]: Textual amendment: [Reg. 59(5)](https://www.legislation.gov.uk/ssi/2015/94/regulation/59/5) substituted (with effect from 1.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/2), [28](https://www.legislation.gov.uk/ssi/2025/259/regulation/28)

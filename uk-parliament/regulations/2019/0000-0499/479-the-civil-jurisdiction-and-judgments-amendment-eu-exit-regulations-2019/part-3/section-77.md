@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. The Armed Forces (Service of Process in Maintenance Proceedings) Regulations 2009[^key-de0fbd41eecd5fbae1408e3884602acc]
+## 77. The Armed Forces (Service of Process in Maintenance Proceedings) Regulations 2009[^c-de0fbd41eecd5fbae1408e3884602acc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 2 (interpretation) of the Armed Forces (Service of Process in Main
 
 ## Annotations
 
-[^key-de0fbd41eecd5fbae1408e3884602acc]: Commencement: Reg. 77 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-de0fbd41eecd5fbae1408e3884602acc]: Commencement: Reg. 77 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23624611]: Marginal citation: [S.I. 2009/1093](https://www.legislation.gov.uk/uksi/2009/1093).

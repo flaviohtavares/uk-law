@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.3. Application to vary or set aside registration[^key-d3d1e8f4b3a37f20ef54eac0e389582c]
+## 33.3. Application to vary or set aside registration[^c-d3d1e8f4b3a37f20ef54eac0e389582c]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3d1e8f4b3a37f20ef54eac0e389582c]: Commencement: [Rule 33.3](https://www.legislation.gov.uk/uksi/2025/909/rule/33.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d3d1e8f4b3a37f20ef54eac0e389582c]: Commencement: [Rule 33.3](https://www.legislation.gov.uk/uksi/2025/909/rule/33.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

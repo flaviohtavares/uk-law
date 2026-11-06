@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Space allowance[^key-1312725d7dc2655eacc4be3714833c3b]
+## 5. Space allowance[^c-1312725d7dc2655eacc4be3714833c3b]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1312725d7dc2655eacc4be3714833c3b]: Commencement: Art. 5 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-1312725d7dc2655eacc4be3714833c3b]: Commencement: Art. 5 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
 [^f00006]: Footnote: O.J. No. L340, 11.12.91, p. 17 as amended by Council Directive [95/29/EC](https://www.legislation.gov.uk/european/directive/1995/0029) (O.J. No. L148, 30.6.95, p. 52)

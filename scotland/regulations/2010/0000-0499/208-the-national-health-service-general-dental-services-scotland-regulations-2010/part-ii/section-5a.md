@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5A. Mandatory training[^key-f2566ced9637dd32186b45a715989a54][^key-b107eed0a1212a5c54668e7dc42a441c]
+## 5A. Mandatory training[^c-f2566ced9637dd32186b45a715989a54][^c-b107eed0a1212a5c54668e7dc42a441c]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f2566ced9637dd32186b45a715989a54]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/ssi/2010/208/regulation/5A) substituted (31.1.2026) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/380)](https://www.legislation.gov.uk/ssi/2025/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/380/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2025/380/regulation/8)
+[^c-f2566ced9637dd32186b45a715989a54]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/ssi/2010/208/regulation/5A) substituted (31.1.2026) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/380)](https://www.legislation.gov.uk/ssi/2025/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/380/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2025/380/regulation/8)
 
-[^key-b107eed0a1212a5c54668e7dc42a441c]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/ssi/2010/208/regulation/5A) inserted (26.10.2017) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/289)](https://www.legislation.gov.uk/ssi/2017/289), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2017/289/regulation/4) (with [reg. 14](https://www.legislation.gov.uk/ssi/2017/289/regulation/14))
+[^c-b107eed0a1212a5c54668e7dc42a441c]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/ssi/2010/208/regulation/5A) inserted (26.10.2017) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/289)](https://www.legislation.gov.uk/ssi/2017/289), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2017/289/regulation/4) (with [reg. 14](https://www.legislation.gov.uk/ssi/2017/289/regulation/14))

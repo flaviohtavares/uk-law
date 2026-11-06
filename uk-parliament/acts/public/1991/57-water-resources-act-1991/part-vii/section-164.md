@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 164. Consents for certain discharges under section 163.[^key-4fd68a45defbd191fc537dd3fe6cdf4a]
+## 164. Consents for certain discharges under section 163.[^c-4fd68a45defbd191fc537dd3fe6cdf4a]
 
 *Extent: E+W*
 
 (1) Except in an emergency, no discharge through any pipe the diameter of which exceeds two hundred and twenty-nine millimetres shall be made under section 163 above except with such consent as may be prescribed.
 
-(2) Where the appropriate agency[^key-774ff675d85722d26d1b3d2b1983663b] makes an application to any person for a consent for the purposes of this section—
+(2) Where the appropriate agency[^c-774ff675d85722d26d1b3d2b1983663b] makes an application to any person for a consent for the purposes of this section—
 
 - (a) that application shall be accompanied or supplemented by all such information as that person may reasonably require; and
 - (b) the appropriate agency shall serve a copy of the application, and of any consent given on that application, on every person who—
@@ -62,8 +62,8 @@ on every person on whom the appropriate agency would have been required to serve
 
 ## Annotations
 
-[^key-4fd68a45defbd191fc537dd3fe6cdf4a]: Modification: [S. 164](https://www.legislation.gov.uk/ukpga/1991/57/section/164) modified (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [102(4)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/102/4)
+[^c-4fd68a45defbd191fc537dd3fe6cdf4a]: Modification: [S. 164](https://www.legislation.gov.uk/ukpga/1991/57/section/164) modified (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [102(4)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/102/4)
 
-[^key-774ff675d85722d26d1b3d2b1983663b]: Textual amendment: Words in ss. 161D-164 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 283](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/283) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-774ff675d85722d26d1b3d2b1983663b]: Textual amendment: Words in ss. 161D-164 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 283](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/283) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18738371]: Marginal citation: [1945 c. 42](https://www.legislation.gov.uk/ukpga/1945/42).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Power to search and obtain information[^c22719251][^key-93e4a1111b3ceedf75d3b177d63f03ea]
+## 89. Power to search and obtain information[^c22719251][^c-93e4a1111b3ceedf75d3b177d63f03ea]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c22719251]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2017/3/section/89) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-93e4a1111b3ceedf75d3b177d63f03ea]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2017/3/section/89) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)
+[^c-93e4a1111b3ceedf75d3b177d63f03ea]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2017/3/section/89) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)

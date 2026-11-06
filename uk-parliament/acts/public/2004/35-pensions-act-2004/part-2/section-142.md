@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Sections 140 and 141: interpretation[^key-28554bbcca6306645c7edd914e225ba8][^key-a7ed8489e179b987a8f0f27af89fb104][^key-8ae4f61b00045ebee33fee3b22100c82][^key-a7ed8489e179b987a8f0f27af89fb104][^key-8ae4f61b00045ebee33fee3b22100c82]
+## 142. Sections 140 and 141: interpretation[^c-28554bbcca6306645c7edd914e225ba8][^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82][^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ summary: ''
   - (a) the annual rate of compensation which would be payable in respect of the pension at the assessment date, if the Board assumed responsibility for the scheme and the compensation so payable at that date was determined in accordance with regulations under section 141(2), or
   - (b) if no such compensation would have been so payable at that date, nil;
 - “**pensionable service**” is to be construed in accordance with Schedule 7;
-- “**scheme valuation**”, in relation to a scheme, means a valuation under section 143(2)(b)[^key-73d83b71f4331a240d3436d476025511] of the assets and protected liabilities of the scheme as at the time immediately before the assessment period begins.
+- “**scheme valuation**”, in relation to a scheme, means a valuation under section 143(2)(b)[^c-73d83b71f4331a240d3436d476025511] of the assets and protected liabilities of the scheme as at the time immediately before the assessment period begins.
 
 (2) For the purposes of section 140(4)—
 
@@ -45,10 +45,10 @@ have effect as if the references in those provisions to the admissible rules wer
 
 ## Annotations
 
-[^key-28554bbcca6306645c7edd914e225ba8]: Commencement: S. 142 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-28554bbcca6306645c7edd914e225ba8]: Commencement: S. 142 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-a7ed8489e179b987a8f0f27af89fb104]: Modification: Pt. 2 modified (8.3.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [The Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (S.I. 2005/277)](https://www.legislation.gov.uk/uksi/2005/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/277/regulation/1/1), [2-11](https://www.legislation.gov.uk/uksi/2005/277/regulation/2)
+[^c-a7ed8489e179b987a8f0f27af89fb104]: Modification: Pt. 2 modified (8.3.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [The Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (S.I. 2005/277)](https://www.legislation.gov.uk/uksi/2005/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/277/regulation/1/1), [2-11](https://www.legislation.gov.uk/uksi/2005/277/regulation/2)
 
-[^key-8ae4f61b00045ebee33fee3b22100c82]: Modification: Pt. 2 modified in part (9.3.2005 for specified purposes, 1.4.2005 for specified purposes, 6.4.2005 in so far as not already in force (except ch. 4)) by [The Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations 2005 (S.I. 2005/441)](https://www.legislation.gov.uk/uksi/2005/441), [regs. 1](https://www.legislation.gov.uk/uksi/2005/441/regulation/1), [2-60](https://www.legislation.gov.uk/uksi/2005/441/regulation/2), [71](https://www.legislation.gov.uk/uksi/2005/441/regulation/71), [72](https://www.legislation.gov.uk/uksi/2005/441/regulation/72)
+[^c-8ae4f61b00045ebee33fee3b22100c82]: Modification: Pt. 2 modified in part (9.3.2005 for specified purposes, 1.4.2005 for specified purposes, 6.4.2005 in so far as not already in force (except ch. 4)) by [The Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations 2005 (S.I. 2005/441)](https://www.legislation.gov.uk/uksi/2005/441), [regs. 1](https://www.legislation.gov.uk/uksi/2005/441/regulation/1), [2-60](https://www.legislation.gov.uk/uksi/2005/441/regulation/2), [71](https://www.legislation.gov.uk/uksi/2005/441/regulation/71), [72](https://www.legislation.gov.uk/uksi/2005/441/regulation/72)
 
-[^key-73d83b71f4331a240d3436d476025511]: Textual amendment: Word in s. 142(1) substituted (23.7.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [s. 38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2011/19/schedule/4/paragraph/4); [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2012/1681/article/3/b/ii)
+[^c-73d83b71f4331a240d3436d476025511]: Textual amendment: Word in s. 142(1) substituted (23.7.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [s. 38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2011/19/schedule/4/paragraph/4); [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2012/1681/article/3/b/ii)

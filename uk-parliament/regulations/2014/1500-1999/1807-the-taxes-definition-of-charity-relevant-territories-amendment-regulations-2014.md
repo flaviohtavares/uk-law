@@ -50,7 +50,7 @@ Stamp Duty Reserve Tax
 
 Annual Tax On Enveloped Dwellings
 
-The Taxes (Definition of Charity) (Relevant Territories) (Amendment) Regulations 2014 (revoked)[^key-c080cc31a87e1b35ebc8816527e6ad8c]
+The Taxes (Definition of Charity) (Relevant Territories) (Amendment) Regulations 2014 (revoked)[^c-c080cc31a87e1b35ebc8816527e6ad8c]
 
 Made
 
@@ -64,24 +64,24 @@ Coming into force
 
 31st July 2014
 
-[^key-c080cc31a87e1b35ebc8816527e6ad8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c080cc31a87e1b35ebc8816527e6ad8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c080cc31a87e1b35ebc8816527e6ad8c]
+## 1. Citation and commencement[^c-c080cc31a87e1b35ebc8816527e6ad8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Taxes (Definition of Charity) (Relevant Territories) Regulations 2010[^key-c080cc31a87e1b35ebc8816527e6ad8c]
+## 2. Amendment of the Taxes (Definition of Charity) (Relevant Territories) Regulations 2010[^c-c080cc31a87e1b35ebc8816527e6ad8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c080cc31a87e1b35ebc8816527e6ad8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c080cc31a87e1b35ebc8816527e6ad8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c080cc31a87e1b35ebc8816527e6ad8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c080cc31a87e1b35ebc8816527e6ad8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c080cc31a87e1b35ebc8816527e6ad8c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/1807) revoked (with effect in accordance with s. 344(2)-(11) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 344(13)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/344/13/b)
+[^c-c080cc31a87e1b35ebc8816527e6ad8c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/1807) revoked (with effect in accordance with s. 344(2)-(11) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 344(13)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/344/13/b)

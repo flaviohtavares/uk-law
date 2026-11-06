@@ -31,7 +31,7 @@ summary: ''
 
 FAIR EMPLOYMENT
 
-The Fair Employment Tribunal (Rules of Procedure) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-bf966c0c9f2c478b5c789dc4a9cb2b56]
+The Fair Employment Tribunal (Rules of Procedure) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-bf966c0c9f2c478b5c789dc4a9cb2b56]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 31st December 2005
 
-[^key-bf966c0c9f2c478b5c789dc4a9cb2b56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf966c0c9f2c478b5c789dc4a9cb2b56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-bf966c0c9f2c478b5c789dc4a9cb2b56]
+## 1. Citation, commencement and interpretation[^c-bf966c0c9f2c478b5c789dc4a9cb2b56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the principal Regulations[^key-bf966c0c9f2c478b5c789dc4a9cb2b56]
+## 2. Amendments to the principal Regulations[^c-bf966c0c9f2c478b5c789dc4a9cb2b56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Schedules to the principal Regulations[^key-bf966c0c9f2c478b5c789dc4a9cb2b56]
+## 3. Amendments to the Schedules to the principal Regulations[^c-bf966c0c9f2c478b5c789dc4a9cb2b56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf966c0c9f2c478b5c789dc4a9cb2b56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf966c0c9f2c478b5c789dc4a9cb2b56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf966c0c9f2c478b5c789dc4a9cb2b56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf966c0c9f2c478b5c789dc4a9cb2b56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bf966c0c9f2c478b5c789dc4a9cb2b56]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/579) revoked (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/1) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
+[^c-bf966c0c9f2c478b5c789dc4a9cb2b56]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/579) revoked (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/1) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))

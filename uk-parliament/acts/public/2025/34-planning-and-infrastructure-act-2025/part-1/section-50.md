@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Accessibility of public charging or refuelling points[^key-7a0d37a63194f4af69b3e1a023fcde5e]
+## 50. Accessibility of public charging or refuelling points[^c-7a0d37a63194f4af69b3e1a023fcde5e]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ In section 10 of the Automated and Electric Vehicles Act 2018 (public charging o
 
 ## Annotations
 
-[^key-7a0d37a63194f4af69b3e1a023fcde5e]: Commencement: S. 50 not in force at Royal Assent, see [s. 118(1)(z5)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z5)
+[^c-7a0d37a63194f4af69b3e1a023fcde5e]: Commencement: S. 50 not in force at Royal Assent, see [s. 118(1)(z5)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z5)

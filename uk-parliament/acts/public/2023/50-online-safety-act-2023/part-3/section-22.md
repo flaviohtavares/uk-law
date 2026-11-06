@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Duties about freedom of expression and privacy[^key-ffae33f4dcabb34891a90099933ccfce][^key-3c9102211d12ba46b891999d1b0c520c]
+## 22. Duties about freedom of expression and privacy[^c-ffae33f4dcabb34891a90099933ccfce][^c-3c9102211d12ba46b891999d1b0c520c]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ Interpretation
 
 ## Annotations
 
-[^key-ffae33f4dcabb34891a90099933ccfce]: Commencement: S. 22 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-ffae33f4dcabb34891a90099933ccfce]: Commencement: S. 22 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-3c9102211d12ba46b891999d1b0c520c]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2023/50/section/22) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/h)
+[^c-3c9102211d12ba46b891999d1b0c520c]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2023/50/section/22) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Obligation of owner to insure[^key-dbe809c5e00cb22db877acc9cf876998]
+## 18. Obligation of owner to insure[^c-dbe809c5e00cb22db877acc9cf876998]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ and not later than 14 days after that notice is given the recipient shall produc
 
 ## Annotations
 
-[^key-dbe809c5e00cb22db877acc9cf876998]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2004/11/section/18) in force at 24.1.2007 by [S.S.I. 2007/17](https://www.legislation.gov.uk/ssi/2007/17), [art. 2](https://www.legislation.gov.uk/ssi/2007/17/article/2)
+[^c-dbe809c5e00cb22db877acc9cf876998]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2004/11/section/18) in force at 24.1.2007 by [S.S.I. 2007/17](https://www.legislation.gov.uk/ssi/2007/17), [art. 2](https://www.legislation.gov.uk/ssi/2007/17/article/2)

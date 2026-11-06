@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Statutory sick pay[^key-92882c7e8e7c2f22b948e0a2d43947cc]
+## 9. Statutory sick pay[^c-92882c7e8e7c2f22b948e0a2d43947cc]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In section 153(1) of the Contributions and Benefits Act[^f00017] (rate of paymen
 
 ## Annotations
 
-[^key-92882c7e8e7c2f22b948e0a2d43947cc]: Commencement: Art. 9 in operation at 6.4.1996, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/b)
+[^c-92882c7e8e7c2f22b948e0a2d43947cc]: Commencement: Art. 9 in operation at 6.4.1996, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/b)
 
 [^f00017]: Footnote: Section 153(1) was amended by Article 10(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1[^key-d2b7703065c61775a18a6b9f1c502428]
+## SCHEDULE 1[^c-d2b7703065c61775a18a6b9f1c502428]
 
 *Extent: E+W*
 
@@ -148,7 +148,7 @@ Rule 6
 
 ## Annotations
 
-[^key-d2b7703065c61775a18a6b9f1c502428]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2087/schedule/1) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-d2b7703065c61775a18a6b9f1c502428]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2087/schedule/1) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
 
 [^f00011]: Footnote: S.I. [1986/1079](https://www.legislation.gov.uk/uksi/1986/1079), modified by sections 43 and 44 of the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43).
 

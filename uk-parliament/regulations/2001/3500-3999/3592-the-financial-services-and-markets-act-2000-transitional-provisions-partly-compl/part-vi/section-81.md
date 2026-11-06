@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Definition of “intervention measure”[^key-f48ab075eae167a2c953212e1ba013a9]
+## 81. Definition of “intervention measure”[^c-f48ab075eae167a2c953212e1ba013a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In this Chapter, an “intervention measure” means—
 
 ## Annotations
 
-[^key-f48ab075eae167a2c953212e1ba013a9]: Commencement: Art. 81 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-f48ab075eae167a2c953212e1ba013a9]: Commencement: Art. 81 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141. Interpretation of this Chapter[^key-c73a9fb5c43aaa1fa67668da6641408f][^key-3db0dca8a8ce0ae66f2adaaa01eb36ad]
+## 141. Interpretation of this Chapter[^c-c73a9fb5c43aaa1fa67668da6641408f][^c-3db0dca8a8ce0ae66f2adaaa01eb36ad]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ In this Chapter—
 
 ## Annotations
 
-[^key-c73a9fb5c43aaa1fa67668da6641408f]: Commencement: [S. 141](https://www.legislation.gov.uk/mwa/2011/1/section/141) in force at 1.4.2012 for specified purposes by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(o)](https://www.legislation.gov.uk/wsi/2012/969/article/2/o)
+[^c-c73a9fb5c43aaa1fa67668da6641408f]: Commencement: [S. 141](https://www.legislation.gov.uk/mwa/2011/1/section/141) in force at 1.4.2012 for specified purposes by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(o)](https://www.legislation.gov.uk/wsi/2012/969/article/2/o)
 
-[^key-3db0dca8a8ce0ae66f2adaaa01eb36ad]: Commencement: [S. 141](https://www.legislation.gov.uk/mwa/2011/1/section/141) in force at 7.7.2015 in so far as not already in force by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/e)
+[^c-3db0dca8a8ce0ae66f2adaaa01eb36ad]: Commencement: [S. 141](https://www.legislation.gov.uk/mwa/2011/1/section/141) in force at 7.7.2015 in so far as not already in force by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/e)

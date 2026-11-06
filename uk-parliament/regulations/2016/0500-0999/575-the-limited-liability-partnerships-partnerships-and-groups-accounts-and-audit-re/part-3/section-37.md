@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Amendments to Section A of Part 2 of Schedule 1 (accounting principles: non-IAS individual accounts)[^key-24a582f31781ee309857cc46b939b5e2]
+## 37. Amendments to Section A of Part 2 of Schedule 1 (accounting principles: non-IAS individual accounts)[^c-24a582f31781ee309857cc46b939b5e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ In Section A of Part 2 of Schedule 1 (accounting principles: non-IAS individual 
 
 ## Annotations
 
-[^key-24a582f31781ee309857cc46b939b5e2]: Commencement: Reg. 37 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-24a582f31781ee309857cc46b939b5e2]: Commencement: Reg. 37 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

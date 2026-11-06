@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The General Teaching Council for Wales (Additional Functions) (Amendment) Order 2009 (revoked)[^key-3494979aeb2be1ac90229f947331c901]
+The General Teaching Council for Wales (Additional Functions) (Amendment) Order 2009 (revoked)[^c-3494979aeb2be1ac90229f947331c901]
 
 Made
 
@@ -43,24 +43,24 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with article 1(2)
 
-[^key-3494979aeb2be1ac90229f947331c901]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3494979aeb2be1ac90229f947331c901]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-3494979aeb2be1ac90229f947331c901]
+## 1. Title and commencement[^c-3494979aeb2be1ac90229f947331c901]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the General Teaching Council for Wales (Additional Functions) Order 2000[^key-3494979aeb2be1ac90229f947331c901]
+## 2. Amendment of the General Teaching Council for Wales (Additional Functions) Order 2000[^c-3494979aeb2be1ac90229f947331c901]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3494979aeb2be1ac90229f947331c901]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3494979aeb2be1ac90229f947331c901]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3494979aeb2be1ac90229f947331c901]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3494979aeb2be1ac90229f947331c901]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3494979aeb2be1ac90229f947331c901]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2009/1351) revoked (1.4.2015) by [The Education Workforce Council (Additional Functions and Revocation) (Wales) Order 2015 (S.I. 2015/194)](https://www.legislation.gov.uk/wsi/2015/194), [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/194/article/1/1), [Sch.](https://www.legislation.gov.uk/wsi/2015/194/schedule)
+[^c-3494979aeb2be1ac90229f947331c901]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2009/1351) revoked (1.4.2015) by [The Education Workforce Council (Additional Functions and Revocation) (Wales) Order 2015 (S.I. 2015/194)](https://www.legislation.gov.uk/wsi/2015/194), [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/194/article/1/1), [Sch.](https://www.legislation.gov.uk/wsi/2015/194/schedule)

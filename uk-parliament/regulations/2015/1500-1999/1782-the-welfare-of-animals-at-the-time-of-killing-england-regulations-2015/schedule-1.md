@@ -186,7 +186,7 @@ The business operator and any person engaged in the stunning or killing of an an
 
 #### 25. Non-penetrative captive bolt
 
-No person may stun or kill[^key-46d0bc80a2c866e3c68ca79816ea05ab] an animal using a non-penetrative captive bolt except by an instrument which is applied in the proper position and which is used with the correct strength of cartridge or other propellant in accordance with the manufacturer’s instructions to produce an effective stun or kill, as appropriate[^key-1c0ddaa6a91ccb3fd5fc25165d4cdd5b].
+No person may stun or kill[^c-46d0bc80a2c866e3c68ca79816ea05ab] an animal using a non-penetrative captive bolt except by an instrument which is applied in the proper position and which is used with the correct strength of cartridge or other propellant in accordance with the manufacturer’s instructions to produce an effective stun or kill, as appropriate[^c-1c0ddaa6a91ccb3fd5fc25165d4cdd5b].
 
 #### 26. Percussive blow to the head
 
@@ -285,6 +285,6 @@ No person may kill a horse—
 
 ## Annotations
 
-[^key-46d0bc80a2c866e3c68ca79816ea05ab]: Textual amendment: Words in [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2015/1782/schedule/1/paragraph/25) inserted (3.2.2022) by [The Protection of Animals at the Time of Killing (Amendment) (England) Regulations 2022 (S.I. 2022/33)](https://www.legislation.gov.uk/uksi/2022/33), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/33/regulation/1/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/33/regulation/3/2/a)
+[^c-46d0bc80a2c866e3c68ca79816ea05ab]: Textual amendment: Words in [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2015/1782/schedule/1/paragraph/25) inserted (3.2.2022) by [The Protection of Animals at the Time of Killing (Amendment) (England) Regulations 2022 (S.I. 2022/33)](https://www.legislation.gov.uk/uksi/2022/33), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/33/regulation/1/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/33/regulation/3/2/a)
 
-[^key-1c0ddaa6a91ccb3fd5fc25165d4cdd5b]: Textual amendment: Words in [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2015/1782/schedule/1/paragraph/25) inserted (3.2.2022) by [The Protection of Animals at the Time of Killing (Amendment) (England) Regulations 2022 (S.I. 2022/33)](https://www.legislation.gov.uk/uksi/2022/33), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/33/regulation/1/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/33/regulation/3/2/b)
+[^c-1c0ddaa6a91ccb3fd5fc25165d4cdd5b]: Textual amendment: Words in [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2015/1782/schedule/1/paragraph/25) inserted (3.2.2022) by [The Protection of Animals at the Time of Killing (Amendment) (England) Regulations 2022 (S.I. 2022/33)](https://www.legislation.gov.uk/uksi/2022/33), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/33/regulation/1/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/33/regulation/3/2/b)

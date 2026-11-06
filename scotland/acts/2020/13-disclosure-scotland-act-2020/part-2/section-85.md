@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Appeals and removals: information power[^key-c2445d4b4c25ad2b1c89c2a554150300]
+## 85. Appeals and removals: information power[^c-c2445d4b4c25ad2b1c89c2a554150300]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2445d4b4c25ad2b1c89c2a554150300]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2020/13/section/85) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2021/380/regulation/4))
+[^c-c2445d4b4c25ad2b1c89c2a554150300]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2020/13/section/85) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2021/380/regulation/4))

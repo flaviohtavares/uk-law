@@ -38,13 +38,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### 1. Placing requests
 
-(1)[^key-45f265c58c2cccf066605711bda30917] The Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4) (“**the 2004 Act**”) is amended in accordance with this section.
+(1)[^c-45f265c58c2cccf066605711bda30917] The Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4) (“**the 2004 Act**”) is amended in accordance with this section.
 
-(2)[^key-45f265c58c2cccf066605711bda30917] In section 1(3)(a) (additional support needs), after “authority” substitute “ responsible for the school education of the child or young person, or in the case where there is no such authority, the education authority ”.
+(2)[^c-45f265c58c2cccf066605711bda30917] In section 1(3)(a) (additional support needs), after “authority” substitute “ responsible for the school education of the child or young person, or in the case where there is no such authority, the education authority ”.
 
-(3)[^key-45f265c58c2cccf066605711bda30917] In section 7(1)(b) (other children and young persons), for “the” substitute “ an ”.
+(3)[^c-45f265c58c2cccf066605711bda30917] In section 7(1)(b) (other children and young persons), for “the” substitute “ an ”.
 
-(4)[^key-45f265c58c2cccf066605711bda30917] In section 10 (reviews of co-ordinated support plans)—
+(4)[^c-45f265c58c2cccf066605711bda30917] In section 10 (reviews of co-ordinated support plans)—
 
 - (a) in subsection (1), for “belonging to their area” substitute “ for whose school education they are responsible ”,
 - (b) after subsection (5) insert—
@@ -53,15 +53,15 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-(5)[^key-97741198a58fb7bfe44d7bf4a2882731] In section 11(8) (co-ordinated support plans: further provision), in paragraph (e) the words from “when” to the end of the paragraph are repealed.
+(5)[^c-97741198a58fb7bfe44d7bf4a2882731] In section 11(8) (co-ordinated support plans: further provision), in paragraph (e) the words from “when” to the end of the paragraph are repealed.
 
-(6)[^key-45f265c58c2cccf066605711bda30917] In section 12 (duties to seek and take account of views, advice and information), after subsection (3) insert—
+(6)[^c-45f265c58c2cccf066605711bda30917] In section 12 (duties to seek and take account of views, advice and information), after subsection (3) insert—
 
 > (3A) Where any such co-ordinated support plan as is mentioned in section 10(1) is transferred to the education authority by virtue of regulations made in pursuance of section 11(8), the authority's duty under subsection (2)(a) includes a duty to seek and take account of information and advice (within such period as will enable the authority to comply with their duty under section 10(5A)) from the education authority from which the plan was transferred and any agencies or persons involved in providing support under the plan prior to its transfer.
 
 .
 
-(7)[^key-45f265c58c2cccf066605711bda30917] In section 18 (references to Tribunal in relation to co-ordinated support plan)—
+(7)[^c-45f265c58c2cccf066605711bda30917] In section 18 (references to Tribunal in relation to co-ordinated support plan)—
 
 - (a) after paragraph (d) of subsection (3) insert—
 
@@ -91,7 +91,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
     ,
 - (e) in subsection (7), for “(3)(e)” substitute “ (3)(da) or (e) ”.
 
-(8)[^key-45f265c58c2cccf066605711bda30917] In section 19 (powers of Tribunal in relation to reference)—
+(8)[^c-45f265c58c2cccf066605711bda30917] In section 19 (powers of Tribunal in relation to reference)—
 
 - (a) after subsection (4) insert—
 
@@ -144,7 +144,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
     ,
 - (c) in subsection (6), for the words “subsection (5)(c)” substitute “ paragraph (ba) or (c) of subsection (5) ”.
 
-(9)[^key-45f265c58c2cccf066605711bda30917] In schedule 2 (placing requests)—
+(9)[^c-45f265c58c2cccf066605711bda30917] In schedule 2 (placing requests)—
 
 - (a) after paragraph 2(4) add—
 
@@ -173,7 +173,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
     .
 
-### 2. Mediation services[^key-ed728ce7605a1a5b2d0dfecbf29bd92d]
+### 2. Mediation services[^c-ed728ce7605a1a5b2d0dfecbf29bd92d]
 
 In section 15(1) of the 2004 Act (mediation services)—
 
@@ -191,7 +191,7 @@ In section 15(1) of the 2004 Act (mediation services)—
 - (d) after the word “of”, where it occurs for the fifth time, substitute “ any of ”,
 - (e) for the word “such”, where it occurs for the third time, substitute “ the ”.
 
-### 3. Dispute resolution[^key-cd4348fff7eb0765d27bd14babd2c077]
+### 3. Dispute resolution[^c-cd4348fff7eb0765d27bd14babd2c077]
 
 In section 16(1) of the 2004 Act (dispute resolution), the following are repealed—
 
@@ -199,7 +199,7 @@ In section 16(1) of the 2004 Act (dispute resolution), the following are repeale
 - (b) in paragraph (b), the words “belonging to that area”,
 - (c) in paragraph (c), the word “such” where it occurs for the first time.
 
-### 4. Contributions not recoverable in respect of certain services[^key-cdb20c5232ebbc21e4937428dac57a10]
+### 4. Contributions not recoverable in respect of certain services[^c-cdb20c5232ebbc21e4937428dac57a10]
 
 In section 23 of the Education (Scotland) Act 1980 (c. 44) (provision by education authority for education of pupils belonging to areas of other authorities), after subsection (2) insert—
 
@@ -210,7 +210,7 @@ In section 23 of the Education (Scotland) Act 1980 (c. 44) (provision by educati
 
 .
 
-### 5. Arrangements between education authorities[^key-d7d85262c924a489df32b7eae1c432a4]
+### 5. Arrangements between education authorities[^c-d7d85262c924a489df32b7eae1c432a4]
 
 In section 29 of the 2004 Act (interpretation)—
 
@@ -223,14 +223,14 @@ In section 29 of the 2004 Act (interpretation)—
 
 ## Additional support needs
 
-### 6. Additional support[^key-c6b9ae9bff9fe7dcbf3080b4c8b588e7]
+### 6. Additional support[^c-c6b9ae9bff9fe7dcbf3080b4c8b588e7]
 
 In section 1(3) of the 2004 Act (additional support needs)—
 
 - (a) in paragraph (a), after “provision”, where it occurs for the first time, substitute “ (whether or not educational provision) ”,
 - (b) in paragraph (b), for “educational provision” substitute “ provision (whether or not educational provision) ”.
 
-### 7. Assessments and examination[^key-eca01962f4711396dcdb036fea219fd8]
+### 7. Assessments and examination[^c-eca01962f4711396dcdb036fea219fd8]
 
 After section 8 of the 2004 Act insert—
 
@@ -253,7 +253,7 @@ After section 8 of the 2004 Act insert—
 
 .
 
-### 8. Additional support needs etc.: specified children and young people[^key-27b1579130abf414d756c9663db7815c]
+### 8. Additional support needs etc.: specified children and young people[^c-27b1579130abf414d756c9663db7815c]
 
 (1) In section 1 (additional support needs) of the 2004 Act, after subsection (1) insert—
 
@@ -271,7 +271,7 @@ After section 8 of the 2004 Act insert—
 
 ## Pre-school children
 
-### 9. Functions of education authority in relation to certain pre-school children with additional support needs[^key-45ee42ab58252878875cfc2e7468a978]
+### 9. Functions of education authority in relation to certain pre-school children with additional support needs[^c-45ee42ab58252878875cfc2e7468a978]
 
 In section 5 of the 2004 Act (general functions of education authority in relation to additional support needs), for subsections (2) and (3) substitute—
 
@@ -284,13 +284,13 @@ In section 5 of the 2004 Act (general functions of education authority in relati
 >
 > - (a) is under school age (unless the child is a prescribed pre-school child),
 > - (b) belongs to the authority's area, and
-> - (c) appears to have additional support needs arising from a disability (within the meaning of the Equality Act 2010[^key-9836034c7eb8a780ce5c0128ceb884e4]) which the child has.
+> - (c) appears to have additional support needs arising from a disability (within the meaning of the Equality Act 2010[^c-9836034c7eb8a780ce5c0128ceb884e4]) which the child has.
 
 .
 
 ## Advocacy services
 
-### 10. Provision of advocacy service: Tribunal[^key-1ad29d9d87a3b441e6e748b9a7a09a4e]
+### 10. Provision of advocacy service: Tribunal[^c-1ad29d9d87a3b441e6e748b9a7a09a4e]
 
 After section 14 of the 2004 Act (supporters and advocacy), insert—
 
@@ -311,13 +311,13 @@ After section 14 of the 2004 Act (supporters and advocacy), insert—
 
 ## Mediation services
 
-### 11. Mediation services[^key-687e19d33b977c277863ada8a368bfcb]
+### 11. Mediation services[^c-687e19d33b977c277863ada8a368bfcb]
 
 In section 15(2) (independence of mediation services) of the 2004 Act, for the words “under this Act” substitute “ relating to education or any of their other functions ”.
 
 ## Dispute resolution
 
-### 12. Dispute resolution[^key-59d806a0d2179a3439ff40dd80210e09]
+### 12. Dispute resolution[^c-59d806a0d2179a3439ff40dd80210e09]
 
 In section 16(2) (dispute resolution) of the 2004 Act, before paragraph (a), insert—
 
@@ -327,7 +327,7 @@ In section 16(2) (dispute resolution) of the 2004 Act, before paragraph (a), ins
 
 ## Publication of information by education authority
 
-### 13. Provision of published information to certain persons[^key-81140f303b56a6341fb10aea6903ade9]
+### 13. Provision of published information to certain persons[^c-81140f303b56a6341fb10aea6903ade9]
 
 In section 26 of the 2004 Act—
 
@@ -351,7 +351,7 @@ In section 26 of the 2004 Act—
 
   .
 
-### 14. Availability of published information[^key-f9b43160093cd14e1b1c97e05589b914]
+### 14. Availability of published information[^c-f9b43160093cd14e1b1c97e05589b914]
 
 In section 26(1) of the 2004 Act (publication of information by education authority), after paragraph (a) insert—
 
@@ -362,7 +362,7 @@ In section 26(1) of the 2004 Act (publication of information by education author
 
 .
 
-### 15. Publication of information on dispute resolution[^key-ecf133ead4063872123869501b106586]
+### 15. Publication of information on dispute resolution[^c-ecf133ead4063872123869501b106586]
 
 In section 26(2) of the 2004 Act (publication of information by education authority), after paragraph (e) insert—
 
@@ -370,7 +370,7 @@ In section 26(2) of the 2004 Act (publication of information by education author
 
 .
 
-### 16. Power to specify additional sources of information[^key-babbc2ba5e6be21133d321cfbc67b081]
+### 16. Power to specify additional sources of information[^c-babbc2ba5e6be21133d321cfbc67b081]
 
 In section 26(2) of the 2004 Act (publication of information by education authority), after paragraph (h) insert
 
@@ -382,7 +382,7 @@ In section 26(2) of the 2004 Act (publication of information by education author
 
 ## Provision of information by education authority on occurrence of certain events
 
-### 17. Provision of information by education authority on occurrence of certain events[^key-86462738d908614e74b9bb94fa306859]
+### 17. Provision of information by education authority on occurrence of certain events[^c-86462738d908614e74b9bb94fa306859]
 
 In section 13 of the 2004 Act (provision of information etc. on occurrence of certain events), after subsection (4) insert—
 
@@ -394,7 +394,7 @@ In section 13 of the 2004 Act (provision of information etc. on occurrence of ce
 
 ### 18. References to Tribunal in relation to co-ordinated support plan
 
-(1)[^key-945bfff63a621c8130f118180cf7bf7c] In section 18 of the 2004 Act (references to Tribunal in relation to co-ordinated support plan)—
+(1)[^c-945bfff63a621c8130f118180cf7bf7c] In section 18 of the 2004 Act (references to Tribunal in relation to co-ordinated support plan)—
 
 - (a) after subsection (3)(d)(i) insert—
 
@@ -414,9 +414,9 @@ In section 13 of the 2004 Act (provision of information etc. on occurrence of ce
 
   .
 
-(2)[^key-b8f7d2d3cd4bed9a35c6aac2ee32120f] In section 19(3) of the 2004 Act (powers of Tribunal in relation to reference) for “(d)(ii)” substitute “ (d)(ia), (ii) ”.
+(2)[^c-b8f7d2d3cd4bed9a35c6aac2ee32120f] In section 19(3) of the 2004 Act (powers of Tribunal in relation to reference) for “(d)(ii)” substitute “ (d)(ia), (ii) ”.
 
-### 19. References to Tribunal in relation to duties under section 12(6) and 13[^key-f9e44148c979c4adf256c489ca44b179]
+### 19. References to Tribunal in relation to duties under section 12(6) and 13[^c-f9e44148c979c4adf256c489ca44b179]
 
 (1) In section 18 of the 2004 Act—
 
@@ -429,7 +429,7 @@ In section 13 of the 2004 Act (provision of information etc. on occurrence of ce
 
 (2) In section 19(3) of the 2004 Act, for “or (d)(ii) or (iii)”, substitute “ , (d)(ii) or (iii) or (g) ”.
 
-### 20. Power to make rules in respect of Tribunal practice and procedure[^key-ee254bd2d70714166c3f6f9f036b703b]
+### 20. Power to make rules in respect of Tribunal practice and procedure[^c-ee254bd2d70714166c3f6f9f036b703b]
 
 In paragraph 11(2) of schedule 1 to the 2004 Act (Additional Support Needs Tribunals for Scotland)—
 
@@ -449,7 +449,7 @@ In paragraph 11(2) of schedule 1 to the 2004 Act (Additional Support Needs Tribu
 
   .
 
-### 21. Power to monitor implementation of Tribunal decisions[^key-164afc9e29f3984ea313175fd2dbf7eb]
+### 21. Power to monitor implementation of Tribunal decisions[^c-164afc9e29f3984ea313175fd2dbf7eb]
 
 In schedule 1 of the 2004 Act (Additional Support Needs Tribunals for Scotland) after paragraph 11, insert—
 
@@ -464,7 +464,7 @@ In schedule 1 of the 2004 Act (Additional Support Needs Tribunals for Scotland) 
 
 ## Availability of information on additional support needs
 
-### 22. Availability of information on additional support needs[^key-8a55b48f9343e44f4dbabfdf93c7ba70]
+### 22. Availability of information on additional support needs[^c-8a55b48f9343e44f4dbabfdf93c7ba70]
 
 After section 26 of the 2004 Act insert—
 
@@ -476,7 +476,7 @@ After section 26 of the 2004 Act insert—
 
 ## Collection of data on additional support needs
 
-### 23. Collection of data on additional support needs[^key-913ceae5b7139d42cbd96d3451b0de7d]
+### 23. Collection of data on additional support needs[^c-913ceae5b7139d42cbd96d3451b0de7d]
 
 After section 27 of the 2004 Act insert—
 
@@ -529,54 +529,54 @@ After section 27 of the 2004 Act insert—
 
 ## Annotations
 
-[^key-45f265c58c2cccf066605711bda30917]: Commencement: S. 1(1)-(4)(6)-(9) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-45f265c58c2cccf066605711bda30917]: Commencement: S. 1(1)-(4)(6)-(9) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-97741198a58fb7bfe44d7bf4a2882731]: Commencement: S. 1(5) in force at 2.4.2010 by [S.S.I. 2010/129](https://www.legislation.gov.uk/ssi/2010/129), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/129/article/2/a)
+[^c-97741198a58fb7bfe44d7bf4a2882731]: Commencement: S. 1(5) in force at 2.4.2010 by [S.S.I. 2010/129](https://www.legislation.gov.uk/ssi/2010/129), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/129/article/2/a)
 
-[^key-ed728ce7605a1a5b2d0dfecbf29bd92d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2009/7/section/2) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-ed728ce7605a1a5b2d0dfecbf29bd92d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2009/7/section/2) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-cd4348fff7eb0765d27bd14babd2c077]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2009/7/section/3) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-cd4348fff7eb0765d27bd14babd2c077]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2009/7/section/3) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-cdb20c5232ebbc21e4937428dac57a10]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2009/7/section/4) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-cdb20c5232ebbc21e4937428dac57a10]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2009/7/section/4) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-d7d85262c924a489df32b7eae1c432a4]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2009/7/section/5) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-d7d85262c924a489df32b7eae1c432a4]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2009/7/section/5) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-c6b9ae9bff9fe7dcbf3080b4c8b588e7]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2009/7/section/6) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-c6b9ae9bff9fe7dcbf3080b4c8b588e7]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2009/7/section/6) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-eca01962f4711396dcdb036fea219fd8]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2009/7/section/7) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-eca01962f4711396dcdb036fea219fd8]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2009/7/section/7) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-27b1579130abf414d756c9663db7815c]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2009/7/section/8) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-27b1579130abf414d756c9663db7815c]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2009/7/section/8) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-45ee42ab58252878875cfc2e7468a978]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2009/7/section/9) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-45ee42ab58252878875cfc2e7468a978]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2009/7/section/9) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-9836034c7eb8a780ce5c0128ceb884e4]: Textual amendment: Words in s. 9 substituted (1.10.2010) by 2010 c. 15 Sch. 26 Pt. 2 para. 107 (as inserted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6))
+[^c-9836034c7eb8a780ce5c0128ceb884e4]: Textual amendment: Words in s. 9 substituted (1.10.2010) by 2010 c. 15 Sch. 26 Pt. 2 para. 107 (as inserted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6))
 
-[^key-1ad29d9d87a3b441e6e748b9a7a09a4e]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2009/7/section/10) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-1ad29d9d87a3b441e6e748b9a7a09a4e]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2009/7/section/10) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-687e19d33b977c277863ada8a368bfcb]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2009/7/section/11) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-687e19d33b977c277863ada8a368bfcb]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2009/7/section/11) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-59d806a0d2179a3439ff40dd80210e09]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2009/7/section/12) in force at 2.4.2010 by [S.S.I. 2010/129](https://www.legislation.gov.uk/ssi/2010/129), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/129/article/2/b)
+[^c-59d806a0d2179a3439ff40dd80210e09]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2009/7/section/12) in force at 2.4.2010 by [S.S.I. 2010/129](https://www.legislation.gov.uk/ssi/2010/129), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/129/article/2/b)
 
-[^key-81140f303b56a6341fb10aea6903ade9]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2009/7/section/13) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-81140f303b56a6341fb10aea6903ade9]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2009/7/section/13) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-f9b43160093cd14e1b1c97e05589b914]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2009/7/section/14) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-f9b43160093cd14e1b1c97e05589b914]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2009/7/section/14) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-ecf133ead4063872123869501b106586]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2009/7/section/15) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-ecf133ead4063872123869501b106586]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2009/7/section/15) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-babbc2ba5e6be21133d321cfbc67b081]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2009/7/section/16) in force at 2.4.2010 by [S.S.I. 2010/129](https://www.legislation.gov.uk/ssi/2010/129), [art. 2(c)](https://www.legislation.gov.uk/ssi/2010/129/article/2/c)
+[^c-babbc2ba5e6be21133d321cfbc67b081]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2009/7/section/16) in force at 2.4.2010 by [S.S.I. 2010/129](https://www.legislation.gov.uk/ssi/2010/129), [art. 2(c)](https://www.legislation.gov.uk/ssi/2010/129/article/2/c)
 
-[^key-86462738d908614e74b9bb94fa306859]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2009/7/section/17) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-86462738d908614e74b9bb94fa306859]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2009/7/section/17) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-945bfff63a621c8130f118180cf7bf7c]: Commencement: S. 18(1) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-945bfff63a621c8130f118180cf7bf7c]: Commencement: S. 18(1) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-b8f7d2d3cd4bed9a35c6aac2ee32120f]: Commencement: S. 18(2) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-b8f7d2d3cd4bed9a35c6aac2ee32120f]: Commencement: S. 18(2) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-f9e44148c979c4adf256c489ca44b179]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2009/7/section/19) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-f9e44148c979c4adf256c489ca44b179]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2009/7/section/19) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-ee254bd2d70714166c3f6f9f036b703b]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2009/7/section/20) in force at 2.4.2010 by [S.S.I. 2010/129](https://www.legislation.gov.uk/ssi/2010/129), [art. 2(d)](https://www.legislation.gov.uk/ssi/2010/129/article/2/d)
+[^c-ee254bd2d70714166c3f6f9f036b703b]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2009/7/section/20) in force at 2.4.2010 by [S.S.I. 2010/129](https://www.legislation.gov.uk/ssi/2010/129), [art. 2(d)](https://www.legislation.gov.uk/ssi/2010/129/article/2/d)
 
-[^key-164afc9e29f3984ea313175fd2dbf7eb]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2009/7/section/21) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-164afc9e29f3984ea313175fd2dbf7eb]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2009/7/section/21) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-8a55b48f9343e44f4dbabfdf93c7ba70]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2009/7/section/22) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
+[^c-8a55b48f9343e44f4dbabfdf93c7ba70]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2009/7/section/22) in force at 14.11.2010 by [S.S.I. 2010/277](https://www.legislation.gov.uk/ssi/2010/277), [art. 2](https://www.legislation.gov.uk/ssi/2010/277/article/2)
 
-[^key-913ceae5b7139d42cbd96d3451b0de7d]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2009/7/section/23) in force at 14.11.2010 by [S.S.I. 2010/368](https://www.legislation.gov.uk/ssi/2010/368), [art. 2](https://www.legislation.gov.uk/ssi/2010/368/article/2)
+[^c-913ceae5b7139d42cbd96d3451b0de7d]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2009/7/section/23) in force at 14.11.2010 by [S.S.I. 2010/368](https://www.legislation.gov.uk/ssi/2010/368), [art. 2](https://www.legislation.gov.uk/ssi/2010/368/article/2)

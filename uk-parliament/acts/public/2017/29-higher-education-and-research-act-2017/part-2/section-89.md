@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-dd0ca049fb3e444156a8ccc7c7a2d3dc] Part 2 of the Higher Education Act 2004 (review of student complaints) is amended in accordance with subsections (2) to (5).
+(1)[^c-dd0ca049fb3e444156a8ccc7c7a2d3dc] Part 2 of the Higher Education Act 2004 (review of student complaints) is amended in accordance with subsections (2) to (5).
 
 (2) In section 11 (qualifying institutions for purposes of student complaints scheme)—
 
@@ -38,8 +38,8 @@ summary: ''
 
   ,
 - (h) in paragraph (e)—
-  - (i)[^key-655b155de59cc8a555c4c12e71b2317a] after “institution” insert “ in England or Wales ”, and
-  - (ii)[^key-f40055d40186f87c0549f57928febe93][^key-b54a717388feeab8fa7d356e91660703] for “another paragraph” substitute “ any of the preceding paragraphs ”,
+  - (i)[^c-655b155de59cc8a555c4c12e71b2317a] after “institution” insert “ in England or Wales ”, and
+  - (ii)[^c-f40055d40186f87c0549f57928febe93][^c-b54a717388feeab8fa7d356e91660703] for “another paragraph” substitute “ any of the preceding paragraphs ”,
 - (i) after paragraph (e), insert—
 
   > - (ea) an institution in England (other than one within any of the preceding paragraphs of this section) which provides higher education courses leading to the grant of an award by or on behalf of—
@@ -47,13 +47,13 @@ summary: ''
   >   - (ii) the Office for Students where the grant is authorised by regulations under section 51(1) of the 2017 Act;
 
   , and
-- (j)[^key-dd0ca049fb3e444156a8ccc7c7a2d3dc] in paragraph (f)—
+- (j)[^c-dd0ca049fb3e444156a8ccc7c7a2d3dc] in paragraph (f)—
   - (i) after “institution” insert “ in England or Wales ”, and
   - (ii) after “the 1992 Act” insert “ or section 42 or 45 of the 2017 Act ”.
 
-(3)[^key-4928561f44ef52dce219aa1e6ab30755] In section 12(3) (qualifying complaints), for “paragraph (e)” substitute “ paragraph (da), (e), (ea) ”.
+(3)[^c-4928561f44ef52dce219aa1e6ab30755] In section 12(3) (qualifying complaints), for “paragraph (e)” substitute “ paragraph (da), (e), (ea) ”.
 
-(4)[^key-f40055d40186f87c0549f57928febe93][^key-b54a717388feeab8fa7d356e91660703] After section 20 insert—
+(4)[^c-f40055d40186f87c0549f57928febe93][^c-b54a717388feeab8fa7d356e91660703] After section 20 insert—
 
 > **20A. Institutions that cease to be qualifying institutions**
 >
@@ -70,7 +70,7 @@ summary: ''
 >
 > (4) In section 12(3) (power of designated operator to determine when certain complaints are qualifying complaints), the reference to a qualifying institution within paragraph (da), (e), (ea) or (f) of section 11 includes a transitional institution that was a qualifying institution within the paragraph in question immediately before the beginning of the transitional period.
 
-(5)[^key-4928561f44ef52dce219aa1e6ab30755] In section 21 (interpretation of Part 2)—
+(5)[^c-4928561f44ef52dce219aa1e6ab30755] In section 21 (interpretation of Part 2)—
 
 - (a) number the existing text as subsection (1),
 - (b) in that subsection, omit the definition of “governing body”,
@@ -92,18 +92,18 @@ summary: ''
   > - (b) in relation to a provider of higher education designated under section 84 of the Higher Education and Research Act 2017, means any persons responsible for the provider's management;
   > - (c) in relation to any other institution, has the meaning given by section 90(1) of the 1992 Act, but subject to any provision made by virtue of section 90(2) of that Act.
 
-(6)[^key-4928561f44ef52dce219aa1e6ab30755] In section 118(8) of the Equality Act 2010 (time limits), in the definition of “qualifying institution”, at the end insert “ , and includes an institution which is treated as continuing to be a qualifying institution for the purposes of Part 2 of that Act (see section 20A(2) of that Act) ”.
+(6)[^c-4928561f44ef52dce219aa1e6ab30755] In section 118(8) of the Equality Act 2010 (time limits), in the definition of “qualifying institution”, at the end insert “ , and includes an institution which is treated as continuing to be a qualifying institution for the purposes of Part 2 of that Act (see section 20A(2) of that Act) ”.
 
-(7)[^key-4928561f44ef52dce219aa1e6ab30755] In section 32(1) of the Counter-Terrorism and Security Act 2015 (monitoring of performance: further and higher education bodies), in paragraph (a) of the definition of “relevant higher education body”, after “2004” insert “ , disregarding paragraphs (da) and (ea) of that section and the definition of “institution” in section 21(1) of that Act ”.
+(7)[^c-4928561f44ef52dce219aa1e6ab30755] In section 32(1) of the Counter-Terrorism and Security Act 2015 (monitoring of performance: further and higher education bodies), in paragraph (a) of the definition of “relevant higher education body”, after “2004” insert “ , disregarding paragraphs (da) and (ea) of that section and the definition of “institution” in section 21(1) of that Act ”.
 
 ## Annotations
 
-[^key-dd0ca049fb3e444156a8ccc7c7a2d3dc]: Commencement: S. 89(1)(2)(a)-(g)(i)(j) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/l)
+[^c-dd0ca049fb3e444156a8ccc7c7a2d3dc]: Commencement: S. 89(1)(2)(a)-(g)(i)(j) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/l)
 
-[^key-655b155de59cc8a555c4c12e71b2317a]: Commencement: S. 89(2)(h)(i) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/l)
+[^c-655b155de59cc8a555c4c12e71b2317a]: Commencement: S. 89(2)(h)(i) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/l)
 
-[^key-f40055d40186f87c0549f57928febe93]: Commencement: S. 89(2)(h)(ii)(4) in force at 1.4.2018 for W. by [S.I. 2018/415](https://www.legislation.gov.uk/wsi/2018/415), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2018/415/regulation/2/b)
+[^c-f40055d40186f87c0549f57928febe93]: Commencement: S. 89(2)(h)(ii)(4) in force at 1.4.2018 for W. by [S.I. 2018/415](https://www.legislation.gov.uk/wsi/2018/415), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2018/415/regulation/2/b)
 
-[^key-b54a717388feeab8fa7d356e91660703]: Commencement: S. 89(2)(h)(ii)(4) in force at 1.4.2018 for E. by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/l)
+[^c-b54a717388feeab8fa7d356e91660703]: Commencement: S. 89(2)(h)(ii)(4) in force at 1.4.2018 for E. by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/l)
 
-[^key-4928561f44ef52dce219aa1e6ab30755]: Commencement: S. 89(3)(5)-(7) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/l)
+[^c-4928561f44ef52dce219aa1e6ab30755]: Commencement: S. 89(3)(5)-(7) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/l)

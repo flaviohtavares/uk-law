@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Amendments to the Government of Maintained Schools Regulations[^key-3869fc2ab6ac4d03af6e6f94544664f0]
+## 87. Amendments to the Government of Maintained Schools Regulations[^c-3869fc2ab6ac4d03af6e6f94544664f0]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3869fc2ab6ac4d03af6e6f94544664f0]: Commencement: [Reg. 87](https://www.legislation.gov.uk/wsi/2010/638/regulation/87) in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/638/regulation/1/1)
+[^c-3869fc2ab6ac4d03af6e6f94544664f0]: Commencement: [Reg. 87](https://www.legislation.gov.uk/wsi/2010/638/regulation/87) in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/638/regulation/1/1)
 
 [^f00046]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 

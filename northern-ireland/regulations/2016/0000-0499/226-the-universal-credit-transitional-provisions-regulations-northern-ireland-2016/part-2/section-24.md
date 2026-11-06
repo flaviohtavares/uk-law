@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Transition from other incapacity benefits: assessment under the ESA (Transitional Provisions) Regulations 2010[^key-7280fb0056a3d63e76f38c1d6117a536]
+## 24. Transition from other incapacity benefits: assessment under the ESA (Transitional Provisions) Regulations 2010[^c-7280fb0056a3d63e76f38c1d6117a536]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7280fb0056a3d63e76f38c1d6117a536]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2016/226/regulation/24) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-7280fb0056a3d63e76f38c1d6117a536]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2016/226/regulation/24) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)

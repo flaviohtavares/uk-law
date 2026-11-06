@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Use of miscellaneous additives in or on compound foods[^key-af3d41397f042afdd3b0887ca8d93545]
+## 4. Use of miscellaneous additives in or on compound foods[^c-af3d41397f042afdd3b0887ca8d93545]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af3d41397f042afdd3b0887ca8d93545]: Commencement: Reg. 4 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-af3d41397f042afdd3b0887ca8d93545]: Commencement: Reg. 4 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)

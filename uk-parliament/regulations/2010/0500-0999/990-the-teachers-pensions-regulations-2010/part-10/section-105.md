@@ -28,7 +28,7 @@ summary: ''
 
 (4) But a pension credit retirement lump sum is not payable if—
 
-- (a)[^key-00ebff320df64cd0dd732b4d9a07b355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-00ebff320df64cd0dd732b4d9a07b355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a retirement lump sum became payable to the pension debit member before the transfer day, unless—
   - (i) the pension debit member was in further employment on the transfer day, or
   - (ii) the pension debit member had ceased to be in further employment on the transfer day but payment of retirement benefits relating to that further employment has not been initiated on the transfer day.
@@ -71,4 +71,4 @@ paragraph (9)(b) does not apply and the relationship between the pension credit 
 
 ## Annotations
 
-[^key-00ebff320df64cd0dd732b4d9a07b355]: Textual amendment: [Reg. 105(4)(a)](https://www.legislation.gov.uk/uksi/2010/990/regulation/105/4/a) omitted (1.4.2012) by virtue of [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/673/regulation/5)
+[^c-00ebff320df64cd0dd732b4d9a07b355]: Textual amendment: [Reg. 105(4)(a)](https://www.legislation.gov.uk/uksi/2010/990/regulation/105/4/a) omitted (1.4.2012) by virtue of [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/673/regulation/5)

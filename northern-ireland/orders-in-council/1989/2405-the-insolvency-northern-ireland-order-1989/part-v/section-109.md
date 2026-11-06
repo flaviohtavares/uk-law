@@ -24,7 +24,7 @@ summary: ''
 
 (1A)[^c22531561][^c20105261] Where the Court makes a winding-up order by virtue of paragraph 14(1)(e) of Schedule B1, the winding up is deemed to commence on the making of the order.
 
-(2)[^key-f8e74754ae4b241941a6e9c150ea874a] In any other case, the winding up of a company by the High Court is deemed to commence at the time of the presentation of the petition for winding up.
+(2)[^c-f8e74754ae4b241941a6e9c150ea874a] In any other case, the winding up of a company by the High Court is deemed to commence at the time of the presentation of the petition for winding up.
 
 ## Annotations
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c20105261]: Textual amendment: [Art. 109(1A)](https://www.legislation.gov.uk/nisi/1989/2405/article/109/1A) inserted (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [3(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/3/3), [Sch. 2 para. 27](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2/paragraph/27) (with [art. 4](https://www.legislation.gov.uk/nisi/2005/1455/article/4)); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (with [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2](https://www.legislation.gov.uk/nisr/2006/22/article/2) - 7)
 
-[^key-f8e74754ae4b241941a6e9c150ea874a]: Modification: [Art. 109(2)](https://www.legislation.gov.uk/nisi/1989/2405/article/109/2) modified (temp.) (retrospective to 27.4.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 11 para. 8(1)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/2), [9](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/9) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-f8e74754ae4b241941a6e9c150ea874a]: Modification: [Art. 109(2)](https://www.legislation.gov.uk/nisi/1989/2405/article/109/2) modified (temp.) (retrospective to 27.4.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 11 para. 8(1)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/2), [9](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/9) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

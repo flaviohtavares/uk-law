@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Disclosure of retained data[^key-8c8eb4363233a63309373faf85be5535]
+## 93. Disclosure of retained data[^c-8c8eb4363233a63309373faf85be5535]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A telecommunications operator must put in place adequate security systems (inclu
 
 ## Annotations
 
-[^key-8c8eb4363233a63309373faf85be5535]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2016/25/section/93) in force at 30.12.2016 by [S.I. 2016/1233](https://www.legislation.gov.uk/uksi/2016/1233), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1233/regulation/2/g)
+[^c-8c8eb4363233a63309373faf85be5535]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2016/25/section/93) in force at 30.12.2016 by [S.I. 2016/1233](https://www.legislation.gov.uk/uksi/2016/1233), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/1233/regulation/2/g)

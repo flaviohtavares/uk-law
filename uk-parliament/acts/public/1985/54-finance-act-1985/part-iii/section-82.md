@@ -28,7 +28,7 @@ summary: ''
 
 (4) In section 15(1) of the [^c10034061]Finance (No. 2) Act 1983 (relief from duty under section 74 of the 1910 Act for local constituency associations) for the words from “7 above” to the end there shall be substituted “7 above, section 57 of the [^c10034071]Stamp Act 1891 shall not apply in relation to a conveyance or transfer by which the disposal or, in the case of paragraph (b), either of the disposals referred to in that paragraph is effected.”
 
-(5)[^key-7a1a4e480c76f2eee0b2eabdb9a1114f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7a1a4e480c76f2eee0b2eabdb9a1114f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) This section applies to—
 
@@ -39,7 +39,7 @@ summary: ''
 
 (8) The preceeding provisions of this section shall be deemed to have come into operation on 26th March 1985.
 
-(9)[^key-8d435d98b9dac2f620873f7ab9c3ca9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-8d435d98b9dac2f620873f7ab9c3ca9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -53,6 +53,6 @@ summary: ''
 
 [^c10034071]: Marginal citation: [1891 c. 39](https://www.legislation.gov.uk/ukpga/1891/39).
 
-[^key-7a1a4e480c76f2eee0b2eabdb9a1114f]: Textual amendment: [S. 82(5)](https://www.legislation.gov.uk/ukpga/1985/54/section/82/5) omitted (with effect in accordance with s. 100(3) of the commencing Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/100/1)
+[^c-7a1a4e480c76f2eee0b2eabdb9a1114f]: Textual amendment: [S. 82(5)](https://www.legislation.gov.uk/ukpga/1985/54/section/82/5) omitted (with effect in accordance with s. 100(3) of the commencing Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/100/1)
 
-[^key-8d435d98b9dac2f620873f7ab9c3ca9a]: Textual amendment: [S. 82(9)](https://www.legislation.gov.uk/ukpga/1985/54/section/82/9) omitted (with effect in accordance with s. 100(3) of the commencing Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/100/1)
+[^c-8d435d98b9dac2f620873f7ab9c3ca9a]: Textual amendment: [S. 82(9)](https://www.legislation.gov.uk/ukpga/1985/54/section/82/9) omitted (with effect in accordance with s. 100(3) of the commencing Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/100/1)

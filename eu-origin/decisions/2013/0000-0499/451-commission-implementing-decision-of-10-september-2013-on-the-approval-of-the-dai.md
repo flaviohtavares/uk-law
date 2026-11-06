@@ -97,7 +97,7 @@ HAS ADOPTED THIS DECISION:
 
 2. The CO<sub>2</sub> emissions reduction from the use of the Daimler engine compartment encapsulation system referred to in paragraph 1 shall be determined using the methodology set out in the Annex.
 
-**Article 2.**[^key-164c419f87f184207122e4fbdd9412ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-164c419f87f184207122e4fbdd9412ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 10 September 2013.
 
@@ -295,7 +295,7 @@ ECO-INNOVATION CODE TO BE ENTERED INTO TYPE-APPROVAL DOCUMENTATION
 
 For the purposes of determining the general eco-innovation code to be used in the relevant type-approval documents in accordance with Annexes I, VIII and IX to Directive 2007/46/EC of the European Parliament and of the Council[^f00008], the individual code to be used for the innovative technology approved through this Decision shall be ‘3’.
 
-[^key-fc1c69d2961936eeae55834b2bbeddb8]...
+[^c-fc1c69d2961936eeae55834b2bbeddb8]...
 
 ## Annotations
 
@@ -309,7 +309,7 @@ For the purposes of determining the general eco-innovation code to be used in th
 
 [^f00005]: Footnote: Commission Regulation (EC) No 692/2008 of 18 July 2008 implementing and amending Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information ([OJ L 199, 28.7.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.199.01.0001.01.ENG)).
 
-[^key-164c419f87f184207122e4fbdd9412ca]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2013/451/article/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-164c419f87f184207122e4fbdd9412ca]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2013/451/article/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: In this formula 6, TA<sub>CO<sub>2</sub> </sub> is the type-approval value for the baseline vehicle.
 
@@ -317,4 +317,4 @@ For the purposes of determining the general eco-innovation code to be used in th
 
 [^f00008]: Footnote: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) ([OJ L 263, 9.10.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.263.01.0001.01.ENG)).
 
-[^key-fc1c69d2961936eeae55834b2bbeddb8]: Textual amendment: Words in [Annex para. 6](https://www.legislation.gov.uk/eudn/2013/451/annex/paragraph/6) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2019/550/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc1c69d2961936eeae55834b2bbeddb8]: Textual amendment: Words in [Annex para. 6](https://www.legislation.gov.uk/eudn/2013/451/annex/paragraph/6) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2019/550/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

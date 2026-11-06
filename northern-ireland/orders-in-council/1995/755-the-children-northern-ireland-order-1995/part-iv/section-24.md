@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where the authority is satisfied that that person's means are insufficient for it to be reasonably practicable for him to pay the charge, the authority shall not require him to pay more than he can reasonably be expected to pay.
 
-(3) No person shall be liable to pay any charge under paragraph (1) at any time when he is in receipt of universal credit (except in such circumstances as may be prescribed),[^key-b733b0c1a43a5787788e00418d237e1b] of income support, of any element of child tax credit other than the family element, of working tax credit[^c17269471] , of an income-based jobseeker's allowance[^c20586081] , of an income-related employment and support allowance or of universal credit[^M_F_f0195b82-31cc-437e-8839-478d8598cc4e].
+(3) No person shall be liable to pay any charge under paragraph (1) at any time when he is in receipt of universal credit (except in such circumstances as may be prescribed),[^c-b733b0c1a43a5787788e00418d237e1b] of income support, of any element of child tax credit other than the family element, of working tax credit[^c17269471] , of an income-based jobseeker's allowance[^c20586081] , of an income-related employment and support allowance or of universal credit[^M_F_f0195b82-31cc-437e-8839-478d8598cc4e].
 
 (3A)[^c17269511] No person shall be liable to pay any charge under paragraph (1) for a service provided under Article 19(3) or (6) at any time when—
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b733b0c1a43a5787788e00418d237e1b]: Textual amendment: Words in art. 24(3) inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 28(c)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/28/c); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(i)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/i)
+[^c-b733b0c1a43a5787788e00418d237e1b]: Textual amendment: Words in art. 24(3) inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 28(c)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/28/c); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(i)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/i)
 
 [^c17269471]: Textual amendment: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21)
 

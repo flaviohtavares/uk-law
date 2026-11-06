@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Energy administrator’s duties on vacating office[^key-38b8deb886916880ce118900e109ecad]
+## 91. Energy administrator’s duties on vacating office[^c-38b8deb886916880ce118900e109ecad]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38b8deb886916880ce118900e109ecad]: Commencement: Rule 91 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-38b8deb886916880ce118900e109ecad]: Commencement: Rule 91 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

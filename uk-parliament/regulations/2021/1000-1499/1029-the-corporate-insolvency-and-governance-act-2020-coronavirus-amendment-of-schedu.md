@@ -34,7 +34,7 @@ Regulations made by the Secretary of State under section 20(1)(a) and 25(1) of t
 
 Insolvency
 
-The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Amendment of Schedule 10) Regulations 2021 (revoked)[^key-166e2f73b70506800c5c8ba0cde91a77]
+The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Amendment of Schedule 10) Regulations 2021 (revoked)[^c-166e2f73b70506800c5c8ba0cde91a77]
 
 Made
 
@@ -48,27 +48,27 @@ Coming into force
 
 29th September 2021
 
-[^key-166e2f73b70506800c5c8ba0cde91a77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-166e2f73b70506800c5c8ba0cde91a77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-166e2f73b70506800c5c8ba0cde91a77]
+## 1. Citation and commencement[^c-166e2f73b70506800c5c8ba0cde91a77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Corporate Insolvency and Governance Act 2020[^key-166e2f73b70506800c5c8ba0cde91a77]
+## 2. Amendment of the Corporate Insolvency and Governance Act 2020[^c-166e2f73b70506800c5c8ba0cde91a77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential provision[^key-166e2f73b70506800c5c8ba0cde91a77]
+## 3. Consequential provision[^c-166e2f73b70506800c5c8ba0cde91a77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-166e2f73b70506800c5c8ba0cde91a77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-166e2f73b70506800c5c8ba0cde91a77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-166e2f73b70506800c5c8ba0cde91a77]EXPLANATORY NOTE
+[^c-166e2f73b70506800c5c8ba0cde91a77]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -92,4 +92,4 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 ## Annotations
 
-[^key-166e2f73b70506800c5c8ba0cde91a77]: Textual amendment: Regulations revoked (28.9.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Amendment of Schedule 10) (No. 2) Regulations 2021 (S.I. 2021/1091)](https://www.legislation.gov.uk/uksi/2021/1091), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1091/regulation/2)
+[^c-166e2f73b70506800c5c8ba0cde91a77]: Textual amendment: Regulations revoked (28.9.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Amendment of Schedule 10) (No. 2) Regulations 2021 (S.I. 2021/1091)](https://www.legislation.gov.uk/uksi/2021/1091), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1091/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Costs: interest[^key-f73311845afa0fda11b18c2320b50e18]
+## 43. Costs: interest[^c-f73311845afa0fda11b18c2320b50e18]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f73311845afa0fda11b18c2320b50e18]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2015/5/section/43) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-f73311845afa0fda11b18c2320b50e18]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2015/5/section/43) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Effect of unauthorised borrowing: other arrangements[^key-0ca21bbbee8195e73aab6bee0028381a][^key-23ac6292e2863527ac636450eb43b0ab]
+## 185. Effect of unauthorised borrowing: other arrangements[^c-0ca21bbbee8195e73aab6bee0028381a][^c-23ac6292e2863527ac636450eb43b0ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ca21bbbee8195e73aab6bee0028381a]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-0ca21bbbee8195e73aab6bee0028381a]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-23ac6292e2863527ac636450eb43b0ab]: Modification: Ss. 182-185 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [16](https://www.legislation.gov.uk/uksi/2006/575/regulation/16)
+[^c-23ac6292e2863527ac636450eb43b0ab]: Modification: Ss. 182-185 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [16](https://www.legislation.gov.uk/uksi/2006/575/regulation/16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Extent[^key-a2b3cabc60296780dbc8f00256bec23f]
+## 3. Extent[^c-a2b3cabc60296780dbc8f00256bec23f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Rules extend to England and Wales only.
 
 ## Annotations
 
-[^key-a2b3cabc60296780dbc8f00256bec23f]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2011/1301/rule/3) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-a2b3cabc60296780dbc8f00256bec23f]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2011/1301/rule/3) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

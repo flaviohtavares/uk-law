@@ -31,18 +31,18 @@ European Communities (Greek Accession) Act 1979 (repealed)
 
 1979 c.57
 
-[^key-26f4cde50ac9cf081a8536b946af770d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26f4cde50ac9cf081a8536b946af770d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Extended meaning of “the Treaties” and “the Community Treaties”.[^key-26f4cde50ac9cf081a8536b946af770d]
+## 1. Extended meaning of “the Treaties” and “the Community Treaties”.[^c-26f4cde50ac9cf081a8536b946af770d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title.[^key-26f4cde50ac9cf081a8536b946af770d]
+## 2. Short title.[^c-26f4cde50ac9cf081a8536b946af770d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-26f4cde50ac9cf081a8536b946af770d]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1979/57) repealed (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26f4cde50ac9cf081a8536b946af770d]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1979/57) repealed (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

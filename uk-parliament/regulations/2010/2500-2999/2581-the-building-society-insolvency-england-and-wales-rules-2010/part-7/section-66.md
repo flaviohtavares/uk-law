@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Appeal against decision on proof[^key-0a7aa5f2a070858129f1d5c2a666b83e]
+## 66. Appeal against decision on proof[^c-0a7aa5f2a070858129f1d5c2a666b83e]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a7aa5f2a070858129f1d5c2a666b83e]: Commencement: Rule 66 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-0a7aa5f2a070858129f1d5c2a666b83e]: Commencement: Rule 66 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Neighbourhood development plans and orders: basic conditions[^key-fdd10ff21b3f92c69b7630df37555c7a][^key-ac306b7a87b3d902e51d30d2f4aa3051]
+## 99. Neighbourhood development plans and orders: basic conditions[^c-fdd10ff21b3f92c69b7630df37555c7a][^c-ac306b7a87b3d902e51d30d2f4aa3051]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fdd10ff21b3f92c69b7630df37555c7a]: Commencement: S. 99 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-fdd10ff21b3f92c69b7630df37555c7a]: Commencement: S. 99 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-ac306b7a87b3d902e51d30d2f4aa3051]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2023/55/section/99) in force at 25.3.2026 by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/d) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))
+[^c-ac306b7a87b3d902e51d30d2f4aa3051]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2023/55/section/99) in force at 25.3.2026 by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/d) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))

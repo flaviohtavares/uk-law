@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Powers in relation to transportation, storage and disposal of dead bodies etc[^key-a8cdb2b151493f69eb58e394202f13c6]
+## 58. Powers in relation to transportation, storage and disposal of dead bodies etc[^c-a8cdb2b151493f69eb58e394202f13c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8cdb2b151493f69eb58e394202f13c6]: Textual amendment: [S. 58](https://www.legislation.gov.uk/ukpga/2020/7/section/58) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-a8cdb2b151493f69eb58e394202f13c6]: Textual amendment: [S. 58](https://www.legislation.gov.uk/ukpga/2020/7/section/58) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

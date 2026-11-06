@@ -33,7 +33,7 @@ An Act to restate and amend the law relating to adoption; to make further amendm
 
 \[7th November 2002\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-550c1a8b6e935948cbc1489580a3d056][^key-afc19c1c1e6a1205ca501dca7cbd6aa2][^key-aa6dc83c7759c132b5edefef5509a540]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-550c1a8b6e935948cbc1489580a3d056][^c-afc19c1c1e6a1205ca501dca7cbd6aa2][^c-aa6dc83c7759c132b5edefef5509a540]
 
 ## Contents
 
@@ -143,7 +143,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 50 — Adoption by couple](part-1/section-50.md)
 - [Section 51 — Adoption by one person](part-1/section-51.md)
 
-##### Post-adoption contact[^key-7a3dec746061a80fae8b0941abf40014]
+##### Post-adoption contact[^c-7a3dec746061a80fae8b0941abf40014]
 
 - [Section 51A — Post-adoption contact](part-1/section-51a.md)
 - [Section 51B — Orders under section 51A: supplementary](part-1/section-51b.md)
@@ -370,10 +370,10 @@ SCHEDULES
 
 ## Annotations
 
-[^key-550c1a8b6e935948cbc1489580a3d056]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/38) applied (E.W.) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52) (with [regs. 53-58](https://www.legislation.gov.uk/uksi/2005/392/regulation/53))
+[^c-550c1a8b6e935948cbc1489580a3d056]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/38) applied (E.W.) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52) (with [regs. 53-58](https://www.legislation.gov.uk/uksi/2005/392/regulation/53))
 
-[^key-afc19c1c1e6a1205ca501dca7cbd6aa2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/38): power to modify conferred (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 55](https://www.legislation.gov.uk/ukpga/2008/22/section/55), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/q)
+[^c-afc19c1c1e6a1205ca501dca7cbd6aa2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/38): power to modify conferred (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 55](https://www.legislation.gov.uk/ukpga/2008/22/section/55), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/q)
 
-[^key-aa6dc83c7759c132b5edefef5509a540]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/38) applied (with modifications) (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1412/schedule/1)
+[^c-aa6dc83c7759c132b5edefef5509a540]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/38) applied (with modifications) (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1412/schedule/1)
 
-[^key-7a3dec746061a80fae8b0941abf40014]: Textual amendment: Ss. 51A, 51B and cross-heading inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/9/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/889/article/4/a) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-7a3dec746061a80fae8b0941abf40014]: Textual amendment: Ss. 51A, 51B and cross-heading inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/9/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/889/article/4/a) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)

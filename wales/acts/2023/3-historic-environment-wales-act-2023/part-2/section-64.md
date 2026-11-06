@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Expenditure by local authorities on archaeological investigation[^key-2ee28d0de303cb012d28919a4b800b66][^key-ce1c1b67f0e09b9f7a43da34e62409f4]
+## 64. Expenditure by local authorities on archaeological investigation[^c-2ee28d0de303cb012d28919a4b800b66][^c-ce1c1b67f0e09b9f7a43da34e62409f4]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ee28d0de303cb012d28919a4b800b66]: Commencement: S. 64 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-2ee28d0de303cb012d28919a4b800b66]: Commencement: S. 64 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-ce1c1b67f0e09b9f7a43da34e62409f4]: Commencement: [S. 64](https://www.legislation.gov.uk/asc/2023/3/section/64) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-ce1c1b67f0e09b9f7a43da34e62409f4]: Commencement: [S. 64](https://www.legislation.gov.uk/asc/2023/3/section/64) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

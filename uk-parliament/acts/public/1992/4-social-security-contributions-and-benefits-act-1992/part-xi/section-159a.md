@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159A. Power to provide for recovery by employers of sums paid by way of statutory sick pay.[^key-ad6f99540dfdfe5c22e1b0be478b94d3]
+## 159A. Power to provide for recovery by employers of sums paid by way of statutory sick pay.[^c-ad6f99540dfdfe5c22e1b0be478b94d3]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ and may repeal sections 158 and 159 above and make any amendments of other enact
 
 ## Annotations
 
-[^key-ad6f99540dfdfe5c22e1b0be478b94d3]: Textual amendment: S. 159A inserted (10.2.1994) by [Statutory Sick Pay Act 1994 (c. 2)](https://www.legislation.gov.uk/ukpga/1994/2), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1994/2/section/3/1), [5(2)](https://www.legislation.gov.uk/ukpga/1994/2/section/5/2) (with [s. 2(4)](https://www.legislation.gov.uk/ukpga/1994/2/section/2/4))
+[^c-ad6f99540dfdfe5c22e1b0be478b94d3]: Textual amendment: S. 159A inserted (10.2.1994) by [Statutory Sick Pay Act 1994 (c. 2)](https://www.legislation.gov.uk/ukpga/1994/2), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1994/2/section/3/1), [5(2)](https://www.legislation.gov.uk/ukpga/1994/2/section/5/2) (with [s. 2(4)](https://www.legislation.gov.uk/ukpga/1994/2/section/2/4))

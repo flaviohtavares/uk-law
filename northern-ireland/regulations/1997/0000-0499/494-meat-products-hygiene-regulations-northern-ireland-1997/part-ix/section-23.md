@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Meat products and other products of animal origin from Great Britain, the Isle of Man and the Channel Islands[^key-ac701cfb3bdd5a9e92ab3eccaf067009]
+## 23. Meat products and other products of animal origin from Great Britain, the Isle of Man and the Channel Islands[^c-ac701cfb3bdd5a9e92ab3eccaf067009]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ unless any handling or storing of that product in that place was in accordance w
 
 ## Annotations
 
-[^key-ac701cfb3bdd5a9e92ab3eccaf067009]: Commencement: Reg. 23 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-ac701cfb3bdd5a9e92ab3eccaf067009]: Commencement: Reg. 23 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

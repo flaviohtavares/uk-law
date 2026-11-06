@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 272. Corresponding powers to make regulations[^key-31d53318a2c5122c7ddc7b1cd07e4359][^key-3c369bc45c8efa5d4679f16d676e8dd2]
+## 272. Corresponding powers to make regulations[^c-31d53318a2c5122c7ddc7b1cd07e4359][^c-3c369bc45c8efa5d4679f16d676e8dd2]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31d53318a2c5122c7ddc7b1cd07e4359]: Commencement: S. 272 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-31d53318a2c5122c7ddc7b1cd07e4359]: Commencement: S. 272 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-3c369bc45c8efa5d4679f16d676e8dd2]: Commencement: [S. 272](https://www.legislation.gov.uk/ukpga/2023/52/section/272) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/iii)
+[^c-3c369bc45c8efa5d4679f16d676e8dd2]: Commencement: [S. 272](https://www.legislation.gov.uk/ukpga/2023/52/section/272) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/iii)

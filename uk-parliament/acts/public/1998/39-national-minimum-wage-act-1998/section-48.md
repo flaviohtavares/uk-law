@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Application of Act to superior employers.[^c9532591][^c9532601][^key-2f7f00c20da7603a31b69013e70d6bc0]
+## 48. Application of Act to superior employers.[^c9532591][^c9532601][^c-2f7f00c20da7603a31b69013e70d6bc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ that other person shall be deemed for the purposes of this Act to be the employe
 
 [^c9532601]: Modification: S. 48 extended (with modifications) by [S.I. 1997/2151 (N.I. 22)](https://www.legislation.gov.uk/nisi/1997/2151), [art. 8A](https://www.legislation.gov.uk/nisi/1997/2151/article/8A) (as inserted (1.4.1999) by [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39), [ss. 47(1)(c)](https://www.legislation.gov.uk/ukpga/1998/39/section/47/1/c), [56(2)](https://www.legislation.gov.uk/ukpga/1998/39/section/56/2), [Sch. 2 Pt. III](https://www.legislation.gov.uk/ukpga/1998/39/schedule/2/part/III), [para. 26](https://www.legislation.gov.uk/ukpga/1998/39/paragraph/26) (with [s. 36](https://www.legislation.gov.uk/ukpga/1998/39/section/36)); S.I. 1999/685, art. 2, Sch.))
 
-[^key-2f7f00c20da7603a31b69013e70d6bc0]: Modification: S. 48 applied (with modifications) (E.W.) (30.7.2014) by [Agricultural Sector (Wales) Act 2014 (anaw 6)](https://www.legislation.gov.uk/anaw/2014/6), [ss. 5(1)](https://www.legislation.gov.uk/anaw/2014/6/section/5/1)[(2)(m)](https://www.legislation.gov.uk/anaw/2014/6/section/5/2/m)[(3)-(7)](https://www.legislation.gov.uk/anaw/2014/6/section/5/3), [19](https://www.legislation.gov.uk/anaw/2014/6/section/19) (with [s. 14(1)](https://www.legislation.gov.uk/anaw/2014/6/section/14/1))
+[^c-2f7f00c20da7603a31b69013e70d6bc0]: Modification: S. 48 applied (with modifications) (E.W.) (30.7.2014) by [Agricultural Sector (Wales) Act 2014 (anaw 6)](https://www.legislation.gov.uk/anaw/2014/6), [ss. 5(1)](https://www.legislation.gov.uk/anaw/2014/6/section/5/1)[(2)(m)](https://www.legislation.gov.uk/anaw/2014/6/section/5/2/m)[(3)-(7)](https://www.legislation.gov.uk/anaw/2014/6/section/5/3), [19](https://www.legislation.gov.uk/anaw/2014/6/section/19) (with [s. 14(1)](https://www.legislation.gov.uk/anaw/2014/6/section/14/1))

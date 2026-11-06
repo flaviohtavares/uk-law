@@ -206,7 +206,7 @@ The Department may issue out of the Consolidated Fund and apply to the service o
 
 (2) The sum specified in Part 1 of a Schedule 2 estimate as a money requirement may be used by the person to whom the estimate relates for the purposes specified in Part 2 of the estimate.
 
-### 11. Power to borrow[^key-5ecf6e45d328924f495633adfc256dd3]
+### 11. Power to borrow[^c-5ecf6e45d328924f495633adfc256dd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1858,4 +1858,4 @@ Developing and regulating the electricity, gas, water and sewerage industries an
 
 ## Annotations
 
-[^key-5ecf6e45d328924f495633adfc256dd3]: Textual amendment: [S. 11](https://www.legislation.gov.uk/nia/2025/1/section/11) omitted (28.7.2025) by virtue of [Budget (No. 2) Act (Northern Ireland) 2025 (c. 4)](https://www.legislation.gov.uk/nia/2025/4), [s. 5(3)](https://www.legislation.gov.uk/nia/2025/4/section/5/3)
+[^c-5ecf6e45d328924f495633adfc256dd3]: Textual amendment: [S. 11](https://www.legislation.gov.uk/nia/2025/1/section/11) omitted (28.7.2025) by virtue of [Budget (No. 2) Act (Northern Ireland) 2025 (c. 4)](https://www.legislation.gov.uk/nia/2025/4), [s. 5(3)](https://www.legislation.gov.uk/nia/2025/4/section/5/3)

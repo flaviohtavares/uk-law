@@ -24,10 +24,10 @@ summary: ''
 
 (2) In calculating the period during which the Secretary of State must issue any authorisation requires the clock is stopped when the Secretary of State requires an applicant to provide further data until all the further data required have been provided.
 
-(3) The clock is also stopped during any period that the applicant is given to provide oral or written explanations or to provide any sample *(Extent: E+W+S)*[^key-6b5bfe61dad54134727a1a9faaefda53].
+(3) The clock is also stopped during any period that the applicant is given to provide oral or written explanations or to provide any sample *(Extent: E+W+S)*[^c-6b5bfe61dad54134727a1a9faaefda53].
 
 (4) The Secretary of State may stop the clock pending payment of outstanding fees.
 
 ## Annotations
 
-[^key-6b5bfe61dad54134727a1a9faaefda53]: Textual amendment: Words in [reg. 32(3)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/32/3) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2024/567/regulation/19)
+[^c-6b5bfe61dad54134727a1a9faaefda53]: Textual amendment: Words in [reg. 32(3)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/32/3) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2024/567/regulation/19)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12M. Transitional protection – reduction in LHA[^key-8a533dc2697f2eed004d3d2d6ea5d368]
+## 12M. Transitional protection – reduction in LHA[^c-8a533dc2697f2eed004d3d2d6ea5d368]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a533dc2697f2eed004d3d2d6ea5d368]: Textual amendment: [Reg. 12M](https://www.legislation.gov.uk/uksi/2006/213/regulation/12M) omitted (1.10.2022) by virtue of [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations 2022 (S.I. 2022/942)](https://www.legislation.gov.uk/uksi/2022/942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/942/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/942/regulation/2/3)
+[^c-8a533dc2697f2eed004d3d2d6ea5d368]: Textual amendment: [Reg. 12M](https://www.legislation.gov.uk/uksi/2006/213/regulation/12M) omitted (1.10.2022) by virtue of [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations 2022 (S.I. 2022/942)](https://www.legislation.gov.uk/uksi/2022/942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/942/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/942/regulation/2/3)

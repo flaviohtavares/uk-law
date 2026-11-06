@@ -44,10 +44,10 @@ summary: ''
 
 (3) The reports referred to in paragraph (1) must not include details of any waste batteries which have not arisen as waste in the United Kingdom.
 
-(4)[^key-70e5bdb4276e151ec325e5e8f9c47891] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-70e5bdb4276e151ec325e5e8f9c47891] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-70e5bdb4276e151ec325e5e8f9c47891] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-70e5bdb4276e151ec325e5e8f9c47891] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-70e5bdb4276e151ec325e5e8f9c47891]: Textual amendment: Reg. 66(4)(5) omitted (1.1.2016) by virtue of [The Waste Batteries and Accumulators (Amendment) Regulations 2015 (S.I. 2015/1935)](https://www.legislation.gov.uk/uksi/2015/1935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2015/1935/regulation/8)
+[^c-70e5bdb4276e151ec325e5e8f9c47891]: Textual amendment: Reg. 66(4)(5) omitted (1.1.2016) by virtue of [The Waste Batteries and Accumulators (Amendment) Regulations 2015 (S.I. 2015/1935)](https://www.legislation.gov.uk/uksi/2015/1935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2015/1935/regulation/8)

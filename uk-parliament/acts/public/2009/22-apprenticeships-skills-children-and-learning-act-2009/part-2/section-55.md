@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Transport policy statements for persons of sixth form age: content and publication[^key-64ccd1e85bd17d9a8dbf6c8b57f6acbd]
+## 55. Transport policy statements for persons of sixth form age: content and publication[^c-64ccd1e85bd17d9a8dbf6c8b57f6acbd]
 
 *Extent: E+W*
 
 (1) In section 509AB of the Education Act 1996 (provision about transport policy statements for persons of sixth form age in England), after subsection (7) insert—
 
-> (7A) In preparing and publishing a statement under section 509AA, a local authority[^key-539a148a152b679b0b2f5402f58a05e0] must have regard (among other things) to the need to—
+> (7A) In preparing and publishing a statement under section 509AA, a local authority[^c-539a148a152b679b0b2f5402f58a05e0] must have regard (among other things) to the need to—
 >
 > - (a) include in the statement sufficient information about the matters that the statement must specify, and
 > - (b) publish the statement in time,
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64ccd1e85bd17d9a8dbf6c8b57f6acbd]: Commencement: S. 55 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/3317/article/3))
+[^c-64ccd1e85bd17d9a8dbf6c8b57f6acbd]: Commencement: S. 55 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/3317/article/3))
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)

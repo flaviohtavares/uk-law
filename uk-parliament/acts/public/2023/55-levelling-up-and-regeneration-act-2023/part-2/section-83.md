@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. The Common Council of the City of London: removal of voting restrictions[^key-6d9cc7ce4bf3b8c29ee48d90e3e75084]
+## 83. The Common Council of the City of London: removal of voting restrictions[^c-6d9cc7ce4bf3b8c29ee48d90e3e75084]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d9cc7ce4bf3b8c29ee48d90e3e75084]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/55/section/83) in force at 26.12.2023, see [s. 255(2)(s)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/s)
+[^c-6d9cc7ce4bf3b8c29ee48d90e3e75084]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/55/section/83) in force at 26.12.2023, see [s. 255(2)(s)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/s)

@@ -32,7 +32,7 @@ summary: ''
 
 Planning
 
-The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2024 (revoked)[^key-cb8911800bc18960375828d93149c268]
+The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2024 (revoked)[^c-cb8911800bc18960375828d93149c268]
 
 Made
 
@@ -42,38 +42,38 @@ Coming into operation
 
 31st May 2024
 
-[^key-cb8911800bc18960375828d93149c268]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb8911800bc18960375828d93149c268]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cb8911800bc18960375828d93149c268]
+## 1. Citation and commencement[^c-cb8911800bc18960375828d93149c268]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Planning (Fees) Regulations (Northern Ireland) 2015[^key-cb8911800bc18960375828d93149c268]
+## 2. Amendment of the Planning (Fees) Regulations (Northern Ireland) 2015[^c-cb8911800bc18960375828d93149c268]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-cb8911800bc18960375828d93149c268]
+## 3. Revocations[^c-cb8911800bc18960375828d93149c268]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb8911800bc18960375828d93149c268]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb8911800bc18960375828d93149c268]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SUBSTITUTION OF PART 2 OF SCHEDULE 1 TO THE PLANNING (FEES) REGULATIONS (NORTHERN IRELAND) 2015[^key-cb8911800bc18960375828d93149c268]
+## SCHEDULE — SUBSTITUTION OF PART 2 OF SCHEDULE 1 TO THE PLANNING (FEES) REGULATIONS (NORTHERN IRELAND) 2015[^c-cb8911800bc18960375828d93149c268]
 
 Regulation 2(6)(b)
 
-> **PART 2 — SCALES OF FEES[^key-cb8911800bc18960375828d93149c268]**
+> **PART 2 — SCALES OF FEES[^c-cb8911800bc18960375828d93149c268]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cb8911800bc18960375828d93149c268]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb8911800bc18960375828d93149c268]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cb8911800bc18960375828d93149c268]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2024/108) revoked (1.4.2025) by [The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/49)](https://www.legislation.gov.uk/nisr/2025/49), [regs. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1), [3](https://www.legislation.gov.uk/nisr/2025/49/regulation/3)
+[^c-cb8911800bc18960375828d93149c268]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2024/108) revoked (1.4.2025) by [The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/49)](https://www.legislation.gov.uk/nisr/2025/49), [regs. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1), [3](https://www.legislation.gov.uk/nisr/2025/49/regulation/3)

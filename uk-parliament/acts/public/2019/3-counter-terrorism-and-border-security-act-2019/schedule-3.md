@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Border security[^key-84b46b4aa18dc486bf59c8a0fd259b25][^M_C_1bacf9c3-1ddd-44ff-b473-76b3ef74b2e1][^key-5139d056dee1bfb27528a67c7e08a536]
+## SCHEDULE 3 — Border security[^c-84b46b4aa18dc486bf59c8a0fd259b25][^M_C_1bacf9c3-1ddd-44ff-b473-76b3ef74b2e1][^c-5139d056dee1bfb27528a67c7e08a536]
 
 *Extent: E+W+S+N.I.*
 
 Section 22
 
-### PART 1 — Powers[^key-84b46b4aa18dc486bf59c8a0fd259b25]
+### PART 1 — Powers[^c-84b46b4aa18dc486bf59c8a0fd259b25]
 
 #### Power to stop, question and detain
 
-**1.**[^c23671441][^key-f25ba2907c396fcb5b8c8eb288eadbff][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) An examining officer may question a person for the purpose of determining whether the person appears to be a person who is, or has been, engaged in hostile activity if condition 1 or condition 2 is met.
+**1.**[^c23671441][^c-f25ba2907c396fcb5b8c8eb288eadbff][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) An examining officer may question a person for the purpose of determining whether the person appears to be a person who is, or has been, engaged in hostile activity if condition 1 or condition 2 is met.
 
 (2) Condition 1 is met if—
 
@@ -61,16 +61,16 @@ Section 22
   - (i) the offence, or one of the offences, which is or would be constituted by the conduct concerned is an offence for which a person who has reached the age of 18 (or, in relation to Scotland or Northern Ireland, 21) and has no previous convictions could reasonably be expected to be sentenced to imprisonment for a term of 3 years or more, or
   - (ii) the conduct involves the use of violence, results in substantial financial gain or is conduct by a large number of persons in pursuit of a common purpose.
 
-**2.**[^c23671451][^key-520797a1ca94c1acd8e13827fa7792eb][^key-84b46b4aa18dc486bf59c8a0fd259b25] An examining officer may question a person who is in the border area for the purpose of determining whether the person's presence in the area is connected with the person's entry into, or departure from, Northern Ireland.
+**2.**[^c23671451][^c-520797a1ca94c1acd8e13827fa7792eb][^c-84b46b4aa18dc486bf59c8a0fd259b25] An examining officer may question a person who is in the border area for the purpose of determining whether the person's presence in the area is connected with the person's entry into, or departure from, Northern Ireland.
 
-**3.**[^c23671461][^key-7f6976f00a6a9b82b65f47b17597c180][^key-84b46b4aa18dc486bf59c8a0fd259b25] A person (“P”) questioned under paragraph 1 or 2 must—
+**3.**[^c23671461][^c-7f6976f00a6a9b82b65f47b17597c180][^c-84b46b4aa18dc486bf59c8a0fd259b25] A person (“P”) questioned under paragraph 1 or 2 must—
 
 - (a) give the examining officer any information in P's possession that the officer requests;
 - (b) give the examining officer on request either a valid passport which includes a photograph or another document which establishes P's identity;
 - (c) declare whether any documents of a kind specified by the examining officer are in P's possession;
 - (d) give the examining officer on request any such document.
 
-**4.**[^c23671471][^key-d27128a2e216e05051a0d8412f312227][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) For the purposes of exercising a power under paragraph 1 or 2 an examining officer may—
+**4.**[^c23671471][^c-d27128a2e216e05051a0d8412f312227][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) For the purposes of exercising a power under paragraph 1 or 2 an examining officer may—
 
 - (a) stop a person or vehicle;
 - (b) detain a person.
@@ -81,7 +81,7 @@ Section 22
 
 (4) The power conferred by sub-paragraph (1)(a) to stop a vehicle does not include a power to stop an aircraft that is airborne.
 
-**5.**[^c23671481][^key-37a21d4dec613af424f268227598e2fa][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where a person is questioned under paragraph 1 or 2.
+**5.**[^c23671481][^c-37a21d4dec613af424f268227598e2fa][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where a person is questioned under paragraph 1 or 2.
 
 (2) At the end of the 1 hour period, the person may not be questioned under either of those paragraphs unless the person is detained under paragraph 4.
 
@@ -97,7 +97,7 @@ Section 22
 - (a) any time during which the person is being questioned under paragraph 1 or 2 in hospital or on the way there or back is to be included in calculating the 6 hour period, but
 - (b) any other time when the person is in hospital or on the way there or back is not to be included.
 
-**6.**[^c23671491][^key-c8cb315c809c0396147dc504dd551a9e][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) An answer or information given orally by a person in response to a question asked under paragraph 1 or 2 may not be used in evidence in criminal proceedings.
+**6.**[^c23671491][^c-c8cb315c809c0396147dc504dd551a9e][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) An answer or information given orally by a person in response to a question asked under paragraph 1 or 2 may not be used in evidence in criminal proceedings.
 
 (2) Sub-paragraph (1) does not apply—
 
@@ -119,13 +119,13 @@ by or on behalf of the person in the proceedings arising out of the prosecution.
 
 #### Searches
 
-**7.**[^c23671501][^key-a37004d573b799d76566cf52b57a3f09][^key-84b46b4aa18dc486bf59c8a0fd259b25] An examining officer may, for the purpose of determining whether there are any persons the officer may wish to question under paragraph 1—
+**7.**[^c23671501][^c-a37004d573b799d76566cf52b57a3f09][^c-84b46b4aa18dc486bf59c8a0fd259b25] An examining officer may, for the purpose of determining whether there are any persons the officer may wish to question under paragraph 1—
 
 - (a) search a ship or aircraft;
 - (b) search anything on a ship or aircraft;
 - (c) search anything that the officer reasonably believes has been, or is about to be, on a ship or aircraft.
 
-**8.**[^c23671511][^key-b9fb30aa2a8010a04e001efcee7f6c56][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) An examining officer who questions a person under paragraph 1 may—
+**8.**[^c23671511][^c-b9fb30aa2a8010a04e001efcee7f6c56][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) An examining officer who questions a person under paragraph 1 may—
 
 - (a) search the person;
 - (b) search anything on a ship or aircraft that the person has with them or which belongs to them;
@@ -166,7 +166,7 @@ by or on behalf of the person in the proceedings arising out of the prosecution.
   - (a) is being worn wholly or partly on the trunk, and
   - (b) is being so worn either next to the skin or next to an article of underwear.
 
-**9.**[^c23671521][^key-ff16ce889874d5e46e12e57c6ddc60c6][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) An examining officer may examine goods to which this paragraph applies for the purpose of determining whether they have been used in connection with a person's engagement in hostile activity.
+**9.**[^c23671521][^c-ff16ce889874d5e46e12e57c6ddc60c6][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) An examining officer may examine goods to which this paragraph applies for the purpose of determining whether they have been used in connection with a person's engagement in hostile activity.
 
 (2) This paragraph applies to—
 
@@ -205,7 +205,7 @@ by or on behalf of the person in the proceedings arising out of the prosecution.
 - “**sea cargo agent**” has the meaning given by section 41(1) of the Aviation and Maritime Security Act 1990;
 - “**transit shed**” has the meaning given by section 25A of the Customs and Excise Management Act 1979.
 
-**10.**[^c23671531][^key-c38f029f37ff2c283384ac8c8e970d28][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) An examining officer may authorise a person to carry out on the officer's behalf a search or examination under any of paragraphs 7 to 9.
+**10.**[^c23671531][^c-c38f029f37ff2c283384ac8c8e970d28][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) An examining officer may authorise a person to carry out on the officer's behalf a search or examination under any of paragraphs 7 to 9.
 
 (2) A person authorised under this paragraph is to be treated as an examining officer for the purposes of—
 
@@ -214,7 +214,7 @@ by or on behalf of the person in the proceedings arising out of the prosecution.
 
 #### Retention of property
 
-**11.**[^c23671541][^key-a455a5de2e95cbb296dbe8851153e623][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies to any article which—
+**11.**[^c23671541][^c-a455a5de2e95cbb296dbe8851153e623][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies to any article which—
 
 - (a) is given to an examining officer in accordance with paragraph 3(d),
 - (b) is searched or found on a search under paragraph 8, or
@@ -228,7 +228,7 @@ by or on behalf of the person in the proceedings arising out of the prosecution.
 - (d) while the officer believes that it could be used in connection with the carrying out of a hostile act, or
 - (e) while the officer believes it necessary to do so for the purpose of preventing death or significant injury.
 
-**12.**[^c23671551][^key-55d33779dff7c4e8d5eb5a09d6234398][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies in relation to an article retained by virtue of paragraph 11(2)(d) or (e), other than an article in respect of which an authorisation is granted under paragraph 14.
+**12.**[^c23671551][^c-55d33779dff7c4e8d5eb5a09d6234398][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies in relation to an article retained by virtue of paragraph 11(2)(d) or (e), other than an article in respect of which an authorisation is granted under paragraph 14.
 
 (2) The Investigatory Powers Commissioner (“**the Commissioner**”) must be informed of the article's retention as soon as is reasonably practicable.
 
@@ -268,18 +268,18 @@ by or on behalf of the person in the proceedings arising out of the prosecution.
 (11) “Protected material”—
 
 - (a) in relation to England and Wales, means—
-  - (i) items subject to legal privilege, within the meaning of the Police and Criminal Evidence Act 1984 (see section 10 of that Act), or[^key-106d605c78ae48485c4211888defdcbc]
-  - (ii) material falling within section 11(1)(a) or (b) of that Act (certain personal records, human tissue or tissue fluid held in confidence), [^key-092295f342cdc094b66d15366bf7b327]...
-  - (iii)[^key-8de5f59844bc8d2bc345328d053ea88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) items subject to legal privilege, within the meaning of the Police and Criminal Evidence Act 1984 (see section 10 of that Act), or[^c-106d605c78ae48485c4211888defdcbc]
+  - (ii) material falling within section 11(1)(a) or (b) of that Act (certain personal records, human tissue or tissue fluid held in confidence), [^c-092295f342cdc094b66d15366bf7b327]...
+  - (iii)[^c-8de5f59844bc8d2bc345328d053ea88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in relation to Scotland, means—
   - (i) items in respect of which a claim to confidentiality of communications could be maintained in legal proceedings, or
-  - (ii) other material of a kind mentioned in paragraph (a)(ii) [^key-5e27680d360d83d1edae73c93018c76c]... of this sub-paragraph;
+  - (ii) other material of a kind mentioned in paragraph (a)(ii) [^c-5e27680d360d83d1edae73c93018c76c]... of this sub-paragraph;
 - (c) in relation to Northern Ireland, means—
-  - (i) items subject to legal privilege, within the meaning of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)) (see Article 12 of that Order), or[^key-4ebce86713f0cf1eb223d2ae639881e2]
-  - (ii) material falling with Article 13(1)(a) or (b) of that Order (certain personal records, human tissue or tissue fluid held in confidence), [^key-f9e97bb5826de7f6f19d33ef4ecacfb8]...
-  - (iii)[^key-7d80d356bfb55334fad040808239d3a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) items subject to legal privilege, within the meaning of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)) (see Article 12 of that Order), or[^c-4ebce86713f0cf1eb223d2ae639881e2]
+  - (ii) material falling with Article 13(1)(a) or (b) of that Order (certain personal records, human tissue or tissue fluid held in confidence), [^c-f9e97bb5826de7f6f19d33ef4ecacfb8]...
+  - (iii)[^c-7d80d356bfb55334fad040808239d3a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^c23671561][^key-0a3d4b507524fbc726780f236c42aa70][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) Before proceeding under paragraph 12 in relation to an article, the Commissioner—
+**13.**[^c23671561][^c-0a3d4b507524fbc726780f236c42aa70][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) Before proceeding under paragraph 12 in relation to an article, the Commissioner—
 
 - (a) must invite each affected party to make representations, before the end of whatever period the Commissioner may specify, about how the Commissioner should proceed under that paragraph, and
 - (b) must have regard to any representations made by an affected party before the end of that period.
@@ -316,7 +316,7 @@ by or on behalf of the person in the proceedings arising out of the prosecution.
 
 (8) Representations under sub-paragraph (1) must be made in writing.
 
-**14.**[^c23671571][^key-0b949c1fe1abe7391c26b1407f30babf][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where—
+**14.**[^c23671571][^c-0b949c1fe1abe7391c26b1407f30babf][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where—
 
 - (a) an article is retained by virtue of paragraph 11(2)(d) or (e), and
 - (b) the examining officer who retained the article considers that the urgency condition is met in relation to the article.
@@ -356,7 +356,7 @@ by or on behalf of the person in the proceedings arising out of the prosecution.
   - (b) where the examining officer is an immigration officer, an immigration officer of a higher grade than the examining officer, and
   - (c) where the examining officer is a customs officer, a customs officer of a higher grade than the examining officer.
 
-**15.**[^c23671581][^key-34fe1874e1f5c7ee73868238070c7b59][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) If a senior officer grants an authorisation under paragraph 14, the examining officer who applied for the authorisation must inform the Investigatory Powers Commissioner and each affected party of its grant.
+**15.**[^c23671581][^c-34fe1874e1f5c7ee73868238070c7b59][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) If a senior officer grants an authorisation under paragraph 14, the examining officer who applied for the authorisation must inform the Investigatory Powers Commissioner and each affected party of its grant.
 
 (2) The information required under sub-paragraph (1) must be given as soon as reasonably practicable and in any event within 24 hours after the grant of the authorisation.
 
@@ -375,7 +375,7 @@ by or on behalf of the person in the proceedings arising out of the prosecution.
 - “**affected party**” has the meaning given by paragraph 13(3);
 - “**working day**” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in the part of the United Kingdom in which the authorisation is granted.
 
-**16.**[^c23671591][^key-3553cf87e6e7ba0a8e8d9990d6c0d582][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies after the Investigatory Powers Commissioner has considered any representations made about an authorisation in accordance with paragraph 15.
+**16.**[^c23671591][^c-3553cf87e6e7ba0a8e8d9990d6c0d582][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies after the Investigatory Powers Commissioner has considered any representations made about an authorisation in accordance with paragraph 15.
 
 (2) The Commissioner must—
 
@@ -415,7 +415,7 @@ and the Commissioner may further direct that all reasonable steps are taken to s
 
 #### Power to make and retain copies
 
-**17.**[^c23671601][^key-b32b64b89b3b6430db83ffbb9924af37][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where the examining officer is a constable.
+**17.**[^c23671601][^c-b32b64b89b3b6430db83ffbb9924af37][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where the examining officer is a constable.
 
 (2) The officer may copy anything which—
 
@@ -434,7 +434,7 @@ and the Commissioner may further direct that all reasonable steps are taken to s
   - (iii) for the purpose of preventing or detecting an act of serious crime, or
 - (e) while the examining officer believes it necessary to retain the copy to prevent death or significant injury.
 
-**18.**[^c23671611][^key-2463b037afce5979cee04edf362c49b0][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies in relation to a copy consisting of or including confidential material that is retained by virtue of paragraph 17(3)(d) or (e), other than a copy in respect of which an authorisation is granted under paragraph 20.
+**18.**[^c23671611][^c-2463b037afce5979cee04edf362c49b0][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies in relation to a copy consisting of or including confidential material that is retained by virtue of paragraph 17(3)(d) or (e), other than a copy in respect of which an authorisation is granted under paragraph 20.
 
 (2) The Investigatory Powers Commissioner (“**the Commissioner**”) must be informed of the copy's retention as soon as is reasonably practicable.
 
@@ -467,7 +467,7 @@ and the Commissioner may further direct that all reasonable steps are taken to s
 
 (10) In this paragraph “**confidential material**” has the meaning given by paragraph 12(10) and (11).
 
-**19.**[^c23671621][^key-eb96d6b2f12d1bdba613f4bf330c2cfd][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) Before proceeding under paragraph 18 in relation to a copy, the Commissioner—
+**19.**[^c23671621][^c-eb96d6b2f12d1bdba613f4bf330c2cfd][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) Before proceeding under paragraph 18 in relation to a copy, the Commissioner—
 
 - (a) must invite each affected party to make representations, before the end of whatever period the Commissioner may specify, about how the Commissioner should proceed under that paragraph, and
 - (b) must have regard to any representations made by an affected party before the end of that period.
@@ -504,7 +504,7 @@ and the Commissioner may further direct that all reasonable steps are taken to s
 
 (8) Representations under sub-paragraph (1) must be made in writing.
 
-**20.**[^c23671631][^key-bf74e033419983464500f7c0c38c06ba][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where—
+**20.**[^c23671631][^c-bf74e033419983464500f7c0c38c06ba][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where—
 
 - (a) a copy consisting of or including confidential material is retained by virtue of paragraph 17(3)(d) or (e), and
 - (b) the examining officer who retained the copy considers that the urgency condition is met in relation to the copy.
@@ -543,7 +543,7 @@ and the Commissioner may further direct that all reasonable steps are taken to s
   - (b) where the examining officer is an immigration officer, an immigration officer of a higher grade than the examining officer, and
   - (c) where the examining officer is a customs officer, a customs officer of a higher grade than the examining officer.
 
-**21.**[^c23672081][^key-863265cfca416e1f31fde7f846a7a1eb][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) If a senior officer grants an authorisation under paragraph 20, the examining officer who applied for the authorisation must inform the Investigatory Powers Commissioner and each affected party of its grant.
+**21.**[^c23672081][^c-863265cfca416e1f31fde7f846a7a1eb][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) If a senior officer grants an authorisation under paragraph 20, the examining officer who applied for the authorisation must inform the Investigatory Powers Commissioner and each affected party of its grant.
 
 (2) The information required under sub-paragraph (1) must be given as soon as reasonably practicable and in any event within 24 hours after the grant of the authorisation.
 
@@ -562,7 +562,7 @@ and the Commissioner may further direct that all reasonable steps are taken to s
 - “**affected party**” has the meaning given by paragraph 19(3);
 - “**working day**” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in the part of the United Kingdom in which the authorisation is granted.
 
-**22.**[^c23672061][^key-8e94676e674e435e26e7850e0bf9f42c][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies after the Investigatory Powers Commissioner has considered any representations made about an authorisation in accordance with paragraph 21.
+**22.**[^c23672061][^c-8e94676e674e435e26e7850e0bf9f42c][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies after the Investigatory Powers Commissioner has considered any representations made about an authorisation in accordance with paragraph 21.
 
 (2) The Commissioner must—
 
@@ -600,7 +600,7 @@ and the Commissioner may further direct that all reasonable steps are taken to s
 
 #### Offences
 
-**23.**[^c23672051][^key-04ce45189e155e198174a4a318f5b3d9][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) A person commits an offence if the person—
+**23.**[^c23672051][^c-04ce45189e155e198174a4a318f5b3d9][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) A person commits an offence if the person—
 
 - (a) wilfully fails to comply with a duty imposed under or by virtue of this Part of this Schedule, or
 - (b) wilfully obstructs, or seeks to frustrate, a search or examination under or by virtue of this Part of this Schedule.
@@ -624,13 +624,13 @@ and the Commissioner may further direct that all reasonable steps are taken to s
 
 #### Exercise of powers
 
-**24.**[^c23672041][^key-7baf8ecdb750b1d0f04f45968313223d][^key-84b46b4aa18dc486bf59c8a0fd259b25] The powers conferred by this Part of this Schedule are exercisable in spite of the rights conferred by section 1 of the Immigration Act 1971 (general principles regulating entry into and staying in the United Kingdom).
+**24.**[^c23672041][^c-7baf8ecdb750b1d0f04f45968313223d][^c-84b46b4aa18dc486bf59c8a0fd259b25] The powers conferred by this Part of this Schedule are exercisable in spite of the rights conferred by section 1 of the Immigration Act 1971 (general principles regulating entry into and staying in the United Kingdom).
 
-### PART 2 — Detention[^key-84b46b4aa18dc486bf59c8a0fd259b25]
+### PART 2 — Detention[^c-84b46b4aa18dc486bf59c8a0fd259b25]
 
 #### Place of detention
 
-**25.**[^c23672031][^key-645f0700dbc8447c0a733c548803992e][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) A detainee may be detained at a place designated under paragraph 1(1) of Schedule 8 to the Terrorism Act 2000 as a place where persons may be detained under Schedule 7 to that Act.
+**25.**[^c23672031][^c-645f0700dbc8447c0a733c548803992e][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) A detainee may be detained at a place designated under paragraph 1(1) of Schedule 8 to the Terrorism Act 2000 as a place where persons may be detained under Schedule 7 to that Act.
 
 (2) A detainee may be taken in the custody of an examining officer or of a person acting under an examining officer's authority to and from any place where the detainee's attendance is required for the purpose of—
 
@@ -647,7 +647,7 @@ and the Commissioner may further direct that all reasonable steps are taken to s
 
 #### Identification
 
-**26.**[^c23672021][^key-585ba2b6c9df44718612cbd0cdfebd12][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) An examining officer may take any steps which are reasonably necessary for—
+**26.**[^c23672021][^c-585ba2b6c9df44718612cbd0cdfebd12][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) An examining officer may take any steps which are reasonably necessary for—
 
 - (a) photographing the detainee,
 - (b) measuring the detainee, or
@@ -660,17 +660,17 @@ and the Commissioner may further direct that all reasonable steps are taken to s
 
 #### Video recording of interviews
 
-**27.**[^c23672011][^key-03194d15077bca969db2a1708935cb06][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies to any interview by a constable of a detainee that takes place in a police station.
+**27.**[^c23672011][^c-03194d15077bca969db2a1708935cb06][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies to any interview by a constable of a detainee that takes place in a police station.
 
 (2) The video recording (with sound) of interviews to which this paragraph applies must be carried out in accordance with any relevant code of practice under Part 4 of this Schedule.
 
 #### Status
 
-**28.**[^c23672001][^key-c8da96c4c4ec4687ffbc52d53ea1d52b][^key-84b46b4aa18dc486bf59c8a0fd259b25] A detainee is to be deemed to be in legal custody throughout the period of the detainee's detention.
+**28.**[^c23672001][^c-c8da96c4c4ec4687ffbc52d53ea1d52b][^c-84b46b4aa18dc486bf59c8a0fd259b25] A detainee is to be deemed to be in legal custody throughout the period of the detainee's detention.
 
 #### Rights: England, Wales and Northern Ireland
 
-**29.**[^c23671991][^key-0d4abdcd78653bc8ac397e7901f8a0d2][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) Subject to paragraph 32, a detainee who is detained at a place in England, Wales or Northern Ireland is entitled, if the detainee so requests, to have one named person informed as soon as is reasonably practicable that the detainee is being detained there.
+**29.**[^c23671991][^c-0d4abdcd78653bc8ac397e7901f8a0d2][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) Subject to paragraph 32, a detainee who is detained at a place in England, Wales or Northern Ireland is entitled, if the detainee so requests, to have one named person informed as soon as is reasonably practicable that the detainee is being detained there.
 
 (2) The person named must be—
 
@@ -682,13 +682,13 @@ and the Commissioner may further direct that all reasonable steps are taken to s
 
 (4) A detainee must be informed of the right under this paragraph on first being detained.
 
-**30.**[^c23671981][^key-a80861e2951fea167f58387595c9e5da][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) Subject to paragraphs 32 and 33, a detainee who is detained in England, Wales or Northern Ireland is entitled, if the detainee so requests, to consult a solicitor as soon as is reasonably practicable, privately and at any time.
+**30.**[^c23671981][^c-a80861e2951fea167f58387595c9e5da][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) Subject to paragraphs 32 and 33, a detainee who is detained in England, Wales or Northern Ireland is entitled, if the detainee so requests, to consult a solicitor as soon as is reasonably practicable, privately and at any time.
 
 (2) Where a request is made under sub-paragraph (1), the request and the time at which it was made must be recorded.
 
 (3) A detainee must be informed of the right under this paragraph on first being detained.
 
-**31.**[^c23671971][^key-bd171e6400a92df3e925a21e848b2eeb][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where a detainee makes a request to consult a solicitor.
+**31.**[^c23671971][^c-bd171e6400a92df3e925a21e848b2eeb][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where a detainee makes a request to consult a solicitor.
 
 (2) The examining officer may not question the detainee under paragraph 1 or 2 until the detainee has consulted a solicitor (or no longer wishes to do so).
 
@@ -704,7 +704,7 @@ and the Commissioner may further direct that all reasonable steps are taken to s
 
 (8) In this paragraph “**the relevant matters**” means the matters the examining officer seeks to determine under paragraph 1 or 2.
 
-**32.**[^c23671961][^key-13d668b6b01ff894b9489e1cb43bff0c][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) A police officer of at least the rank of superintendent may authorise a delay—
+**32.**[^c23671961][^c-13d668b6b01ff894b9489e1cb43bff0c][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) A police officer of at least the rank of superintendent may authorise a delay—
 
 - (a) in informing the person named by a detainee under paragraph 29;
 - (b) in permitting a detainee to consult a solicitor under paragraph 30.
@@ -731,7 +731,7 @@ and the Commissioner may further direct that all reasonable steps are taken to s
 
 (6) Where the reason for authorising delay ceases to subsist there may be no further delay in permitting the exercise of the right in the absence of a further authorisation under sub-paragraph (1).
 
-**33.**[^c23671951][^key-48762f58d8117b7597c1fe0114768f8a][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where a detainee exercises the right under paragraph 30 to consult a solicitor.
+**33.**[^c23671951][^c-48762f58d8117b7597c1fe0114768f8a][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where a detainee exercises the right under paragraph 30 to consult a solicitor.
 
 (2) A police officer of at least the rank of superintendent may direct that the right—
 
@@ -749,7 +749,7 @@ and the Commissioner may further direct that all reasonable steps are taken to s
 
 #### Fingerprints and samples: England, Wales and Northern Ireland
 
-**34.**[^c23671941][^key-c935346672fce2cfd3d41d718646801e][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where a detainee is detained in England, Wales or Northern Ireland.
+**34.**[^c23671941][^c-c935346672fce2cfd3d41d718646801e][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where a detainee is detained in England, Wales or Northern Ireland.
 
 (2) Fingerprints may be taken from the detainee only if they are taken by a constable—
 
@@ -782,7 +782,7 @@ and the Commissioner may further direct that all reasonable steps are taken to s
 
 (9) If an authorisation under sub-paragraph (4)(a) is given orally, the person giving it must confirm it in writing as soon as is reasonably practicable.
 
-**35.**[^c23671931][^key-d675ecc6e79bf5f578d7cf2607dfede0][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) Before fingerprints or a sample are taken from a person under paragraph 34, the person must be informed—
+**35.**[^c23671931][^c-d675ecc6e79bf5f578d7cf2607dfede0][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) Before fingerprints or a sample are taken from a person under paragraph 34, the person must be informed—
 
 - (a) that the fingerprints or sample may be used for the purposes of—
   - (i) a relevant search, as defined by paragraph 43(6),
@@ -806,7 +806,7 @@ and the Commissioner may further direct that all reasonable steps are taken to s
 
 (4) Where a sample of hair is to be taken under paragraph 34, the sample may be taken either by cutting hairs or by plucking hairs with their roots so long as no more are plucked than the person taking the sample reasonably considers to be necessary for a sufficient sample.
 
-**36.**[^c23671921][^key-2b5b803b8aa8881490b3db8ab6e2b962][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) In the application of paragraphs 26, 34 and 35 in relation to a person detained in England or Wales, the following expressions have the meaning given by section 65 of the Police and Criminal Evidence Act 1984—
+**36.**[^c23671921][^c-2b5b803b8aa8881490b3db8ab6e2b962][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) In the application of paragraphs 26, 34 and 35 in relation to a person detained in England or Wales, the following expressions have the meaning given by section 65 of the Police and Criminal Evidence Act 1984—
 
 - (a) “appropriate consent”,
 - (b) “fingerprints”,
@@ -825,7 +825,7 @@ and the Commissioner may further direct that all reasonable steps are taken to s
 
 #### Rights: Scotland
 
-**37.**[^c23671911][^key-e1d1311a08e9636466889b45f379c011][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) A detainee who is detained at a place in Scotland is entitled to have intimation of the detention and of the place sent without delay to a solicitor and to another person named by the detainee.
+**37.**[^c23671911][^c-e1d1311a08e9636466889b45f379c011][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) A detainee who is detained at a place in Scotland is entitled to have intimation of the detention and of the place sent without delay to a solicitor and to another person named by the detainee.
 
 (2) The person named must be—
 
@@ -852,7 +852,7 @@ must be recorded.
 
 (9) A detainee must be informed of the rights under sub-paragraphs (1) and (6) on first being detained.
 
-**38.**[^c23671901][^key-a4403ee2159186d065cef0a3a0876f4d][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where a detainee in Scotland requests to consult a solicitor.
+**38.**[^c23671901][^c-a4403ee2159186d065cef0a3a0876f4d][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where a detainee in Scotland requests to consult a solicitor.
 
 (2) The examining officer may not question the detainee under paragraph 1 or 2 until the person has consulted a solicitor (or no longer wishes to do so).
 
@@ -868,7 +868,7 @@ must be recorded.
 
 (8) In this paragraph “**the relevant matters**” means the matters the examining officer seeks to determine under paragraph 1 or 2.
 
-**39.**[^c23671891][^key-f63b03d5cee90892806a6c48497e6e45][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) Sub-paragraph (2) applies where a detainee exercises the right under paragraph 37(6) to consult a solicitor.
+**39.**[^c23671891][^c-f63b03d5cee90892806a6c48497e6e45][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) Sub-paragraph (2) applies where a detainee exercises the right under paragraph 37(6) to consult a solicitor.
 
 (2) A police officer not below the rank of superintendent may, if it appears to the officer to be necessary on one of the grounds mentioned in sub-paragraph (4), direct that the right—
 
@@ -900,7 +900,7 @@ must be recorded.
 - (b) the detainee must be told the reason for the delay as soon as is reasonably practicable, and
 - (c) the reason must be recorded as soon as is reasonably practicable.
 
-**40.**[^c23671881][^key-dce50449df7900ec36ac2e144d195de4][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) Paragraphs 37 to 39 have effect in relation to a detainee in place of any enactment or rule of law under or by virtue of which a person arrested or detained may be entitled to communicate or consult with any other person.
+**40.**[^c23671881][^c-dce50449df7900ec36ac2e144d195de4][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) Paragraphs 37 to 39 have effect in relation to a detainee in place of any enactment or rule of law under or by virtue of which a person arrested or detained may be entitled to communicate or consult with any other person.
 
 (2) But where the detainee appears to a constable to be a child—
 
@@ -915,13 +915,13 @@ must be recorded.
 - “**child**” means a person under 16 years of age;
 - “**parent**” includes guardian and any person who has the care of the child.
 
-**41.**[^c23671871][^key-91d392d28f44d459239f5aa2bf97f4ed][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) Subject to sub-paragraph (2), where a detainee is permitted to consult a solicitor, the solicitor is to be allowed to be present at any interview carried out in connection with an investigation carried out for the purposes of Part 1 of this Schedule.
+**41.**[^c23671871][^c-91d392d28f44d459239f5aa2bf97f4ed][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) Subject to sub-paragraph (2), where a detainee is permitted to consult a solicitor, the solicitor is to be allowed to be present at any interview carried out in connection with an investigation carried out for the purposes of Part 1 of this Schedule.
 
 (2) A police officer not below the rank of Assistant Chief Constable may direct that the solicitor is not to be allowed to be present at an interview (or part of an interview) if the officer is satisfied that the solicitor's behaviour during the interview would interfere with, or obstruct, the conduct of the interview.
 
 #### Fingerprints and samples: Scotland
 
-**42.**[^c23671861][^key-ecd6b59e9809c9f22c871b7b787199f2][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) Subject to the following modification, section 18 of the Criminal Procedure (Scotland) Act 1995 (procedure for taking certain prints and samples) applies to a detainee detained at a police station in Scotland under Part 1 of this Schedule as it applies to a person arrested.
+**42.**[^c23671861][^c-ecd6b59e9809c9f22c871b7b787199f2][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) Subject to the following modification, section 18 of the Criminal Procedure (Scotland) Act 1995 (procedure for taking certain prints and samples) applies to a detainee detained at a police station in Scotland under Part 1 of this Schedule as it applies to a person arrested.
 
 (2) The modification is that section 18 applies as if—
 
@@ -945,7 +945,7 @@ must be recorded.
 
 #### Destruction and retention of fingerprints and samples etc: United Kingdom
 
-**43.**[^c23671851][^key-b5fe27eea836d09d6fff376ed7923a75][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies to—
+**43.**[^c23671851][^c-b5fe27eea836d09d6fff376ed7923a75][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies to—
 
 - (a) fingerprints taken under paragraph 34,
 - (b) a DNA profile derived from a DNA sample taken under paragraph 34,
@@ -968,12 +968,12 @@ must be recorded.
 - (d) any of the relevant physical data, samples or information held by virtue of section 56 of the Criminal Justice (Scotland) Act 2003,
 - (e) material to which section 18 of the Counter-Terrorism Act 2008 applies,
 - (f) any of the fingerprints, data or samples obtained under paragraph 1 or 4 of Schedule 6 to the Terrorism Prevention and Investigation Measures Act 2011, or information derived from such samples,
-- (fa)[^key-6ba8779fd60451bcb73ee5bbd41bca2a] fingerprints or samples taken under paragraph 10 or 12 of Schedule 6 to the National Security Act 2023 or a DNA profile derived from a sample taken under one of those paragraphs,
+- (fa)[^c-6ba8779fd60451bcb73ee5bbd41bca2a] fingerprints or samples taken under paragraph 10 or 12 of Schedule 6 to the National Security Act 2023 or a DNA profile derived from a sample taken under one of those paragraphs,
 - (fb) any of the fingerprints, data or samples obtained under paragraph 1 or 4 of Schedule 12 to that Act, or information derived from such samples,
 - (g) any of the fingerprints, samples and information mentioned in section 63A(1)(a) and (b) of the Police and Criminal Evidence Act 1984 (checking of fingerprints and samples), and
 - (h) any of the fingerprints, samples and information mentioned in Article 63A(1)(a) and (b) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)) (checking of fingerprints and samples).
 
-**44.**[^c23671841][^key-4b481dc8f70abe3837ce0295fe2bdcde][^key-84b46b4aa18dc486bf59c8a0fd259b25][^key-81970b0a6e9e3ebed73e5770e345b378] (1) Paragraph 43 material may be retained indefinitely in the case of a detainee who—
+**44.**[^c23671841][^c-4b481dc8f70abe3837ce0295fe2bdcde][^c-84b46b4aa18dc486bf59c8a0fd259b25][^c-81970b0a6e9e3ebed73e5770e345b378] (1) Paragraph 43 material may be retained indefinitely in the case of a detainee who—
 
 - (a) has previously been convicted of a recordable offence (other than a single exempt conviction), or an offence in Scotland which is punishable by imprisonment, or
 - (b) is so convicted before the end of the period within which the material may be retained by virtue of this paragraph.
@@ -994,7 +994,7 @@ must be recorded.
 - (a) in the case of fingerprints or relevant physical data, the period of 6 months beginning with the date on which the fingerprints or relevant physical data were taken or provided, and
 - (b) in the case of a DNA profile, the period of 6 months beginning with the date on which the DNA sample from which the profile was derived was taken (or, if the profile was derived from more than one DNA sample, the date on which the first of those samples was taken).
 
-**45.**[^c23671831][^key-70af9e83c8f09ea02205efb7fb72faa2][^key-84b46b4aa18dc486bf59c8a0fd259b25][^key-f9abf219388800fd0836470b51e402bb] (1) For the purposes of paragraph 44, a person is to be treated as having been convicted of an offence if—
+**45.**[^c23671831][^c-70af9e83c8f09ea02205efb7fb72faa2][^c-84b46b4aa18dc486bf59c8a0fd259b25][^c-f9abf219388800fd0836470b51e402bb] (1) For the purposes of paragraph 44, a person is to be treated as having been convicted of an offence if—
 
 - (a) in relation to a recordable offence in England and Wales or Northern Ireland—
   - (i) the person has been given a caution in respect of the offence which, at the time of the caution, the person has admitted,
@@ -1053,7 +1053,7 @@ must be recorded.
 
 (9) Nothing in paragraph 44 prevents the start of a new retention period in relation to paragraph 43 material if a person is detained again under Part 1 of this Schedule when an existing retention period (whether or not extended) is still in force in relation to that material.
 
-**46.**[^c23671821][^key-2d226e5825c6ad49721ef57091b18d70][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) Paragraph 43 material may be retained for as long as a national security determination made by a chief officer of police has effect in relation to it.
+**46.**[^c23671821][^c-2d226e5825c6ad49721ef57091b18d70][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) Paragraph 43 material may be retained for as long as a national security determination made by a chief officer of police has effect in relation to it.
 
 (2) A national security determination is made if a chief officer of police determines that it is necessary for any paragraph 43 material to be retained for the purposes of national security.
 
@@ -1069,7 +1069,7 @@ must be recorded.
 - (b) the chief constable of the Police Service of Scotland, or
 - (c) the Chief Constable of the Police Service of Northern Ireland.
 
-**47.**[^c23671811][^key-3fd941bc3eaf17ff8aedb0d44ac64248][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where paragraph 43 material is or includes a person's fingerprints (“the original fingerprints”).
+**47.**[^c23671811][^c-3fd941bc3eaf17ff8aedb0d44ac64248][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies where paragraph 43 material is or includes a person's fingerprints (“the original fingerprints”).
 
 (2) A constable may make a determination under this paragraph in respect of any further fingerprints taken from, or provided by, the same person (“the further fingerprints”) if conditions 1 and 2 are met.
 
@@ -1080,9 +1080,9 @@ must be recorded.
   - (i) Part 5 of the Police and Criminal Evidence Act 1984,
   - (ii) Article 61 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)),
   - (iii) any provision, power or authority mentioned in section 18G(1) of the Criminal Procedure (Scotland) Act 1995,
-  - (iv) paragraph 10 of Schedule 8 to the Terrorism Act 2000, [^key-d58891e4fd3a55e8ea8e5904e78865a3]...
-  - (v) paragraph 1 or 4 of Schedule 6 to the Terrorism Prevention and Investigation Measures Act 2011, [^key-19fcc334897ad82f51a9aa7192602f18]...
-  - (vi)[^key-bee2a05c297020419b3728d0b28893f2] paragraph 10 of Schedule 6 to the National Security Act 2023, or
+  - (iv) paragraph 10 of Schedule 8 to the Terrorism Act 2000, [^c-d58891e4fd3a55e8ea8e5904e78865a3]...
+  - (v) paragraph 1 or 4 of Schedule 6 to the Terrorism Prevention and Investigation Measures Act 2011, [^c-19fcc334897ad82f51a9aa7192602f18]...
+  - (vi)[^c-bee2a05c297020419b3728d0b28893f2] paragraph 10 of Schedule 6 to the National Security Act 2023, or
   - (vii) paragraph 1 or 4 of Schedule 12 to that Act, or
 - (c) are material to which section 18 of the Counter-Terrorism Act 2008 applies.
 
@@ -1100,11 +1100,11 @@ must be recorded.
 
 (7) A written record must be made of a determination under this paragraph.
 
-**48.**[^c23671801][^key-057715d17a551f8423f9d5e731d413a6][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) If fingerprints or relevant physical data are required by paragraph 43 to be destroyed, any copies of the fingerprints or relevant physical data held by a police force must also be destroyed.
+**48.**[^c23671801][^c-057715d17a551f8423f9d5e731d413a6][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) If fingerprints or relevant physical data are required by paragraph 43 to be destroyed, any copies of the fingerprints or relevant physical data held by a police force must also be destroyed.
 
 (2) If a DNA profile is required by that paragraph to be destroyed, no copy may be retained by a police force except in a form which does not include information which identifies the person to whom the DNA profile relates.
 
-**49.**[^c23671791][^key-37ef4db7e51cb1487342428cdcf4855e][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies to—
+**49.**[^c23671791][^c-37ef4db7e51cb1487342428cdcf4855e][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies to—
 
 - (a) samples taken under paragraph 34, or
 - (b) samples taken by virtue of paragraph 42.
@@ -1124,7 +1124,7 @@ must be recorded.
 
 (7) In this paragraph “**a relevant search**” has the meaning given by paragraph 43(6).
 
-**50.**[^c23671781][^key-ab02dc0d64e5a99694db4ae57479108b][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) Any material to which paragraph 43 or 49 applies must not be used other than—
+**50.**[^c23671781][^c-ab02dc0d64e5a99694db4ae57479108b][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) Any material to which paragraph 43 or 49 applies must not be used other than—
 
 - (a) in the interests of national security,
 - (b) for the purposes of a terrorist investigation, as defined by section 32 of the Terrorism Act 2000,
@@ -1145,7 +1145,7 @@ must be recorded.
 
 (5) Sub-paragraphs (1), (2) and (4) do not form part of the law of Scotland.
 
-**51.**[^c23671771][^key-c669f35b38695fc9d27495db5cecd32a][^key-84b46b4aa18dc486bf59c8a0fd259b25] In paragraphs 43 to 50—
+**51.**[^c23671771][^c-c669f35b38695fc9d27495db5cecd32a][^c-84b46b4aa18dc486bf59c8a0fd259b25] In paragraphs 43 to 50—
 
 - “**DNA profile**” means any information derived from a DNA sample;
 - “**DNA sample**” means any material that has come from a human body and consists of or includes human cells;
@@ -1165,7 +1165,7 @@ must be recorded.
   - (k) the Royal Air Force Police;
   - (l) the British Transport Police;
 
-  and references to a police force are to be read as including the tri-service serious crime unit;[^key-e06c62649177370eb3d10d64371fae0d]
+  and references to a police force are to be read as including the tri-service serious crime unit;[^c-e06c62649177370eb3d10d64371fae0d]
 - “recordable offence” has—
   - (a) in relation to a conviction in England and Wales, the meaning given by section 118(1) of the Police and Criminal Evidence Act 1984, and
   - (b) in relation to a conviction in Northern Ireland, the meaning given by Article 2(2) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12));
@@ -1175,13 +1175,13 @@ must be recorded.
   - (b) in the case of a DNA profile, in which the sample from which the DNA profile was derived was taken;
 - “**responsible chief officer of police**” means, in relation to relevant physical data or samples taken or provided in Scotland, or a DNA profile derived from a sample so taken or provided, the chief constable of the Police Service of Scotland;
 - “**responsible chief officer of police**” means, in relation to fingerprints or samples taken in Northern Ireland, or a DNA profile derived from a sample so taken, the Chief Constable of the Police Service of Northern Ireland;
-- “[^key-0e9a01764aace34c9b8e670a88dd4d9f]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006.
+- “[^c-0e9a01764aace34c9b8e670a88dd4d9f]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006.
 
-### PART 3 — Review of detention[^key-84b46b4aa18dc486bf59c8a0fd259b25]
+### PART 3 — Review of detention[^c-84b46b4aa18dc486bf59c8a0fd259b25]
 
 #### General requirements
 
-**52.**[^c23671761][^key-ce3f5f9af949dc76f1111b0bbdb64b8d][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) The detention of a person (“the detainee”) under Part 1 of this Schedule must be periodically reviewed by a review officer.
+**52.**[^c23671761][^c-ce3f5f9af949dc76f1111b0bbdb64b8d][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) The detention of a person (“the detainee”) under Part 1 of this Schedule must be periodically reviewed by a review officer.
 
 (2) The first review must be carried out before the end of the period of one hour beginning with the detainee's detention under that Part.
 
@@ -1201,7 +1201,7 @@ must be recorded.
 
 #### Representations
 
-**53.**[^c23671751][^key-b1cc6cd0b3ed791086aa42927d039cd3][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) Before determining whether to authorise a detainee's continued detention, a review officer must give either of the following persons an opportunity to make representations about the detention—
+**53.**[^c23671751][^c-b1cc6cd0b3ed791086aa42927d039cd3][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) Before determining whether to authorise a detainee's continued detention, a review officer must give either of the following persons an opportunity to make representations about the detention—
 
 - (a) the detainee, or
 - (b) a solicitor representing the detainee who is available at the time of the review.
@@ -1212,7 +1212,7 @@ must be recorded.
 
 #### Rights
 
-**54.**[^c23671741][^key-0a2553363bdb373bed5019514f31fd26][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) Where a review officer authorises continued detention the officer must inform the detainee—
+**54.**[^c23671741][^c-0a2553363bdb373bed5019514f31fd26][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) Where a review officer authorises continued detention the officer must inform the detainee—
 
 - (a) of any of the detainee's rights under paragraph 29 or 30 (in the case of a detainee in England, Wales or Northern Ireland), or paragraph 37 (in the case of a detainee in Scotland), which have not yet been exercised, and
 - (b) if the exercise of any of those rights is being delayed in accordance with the provisions of paragraph 31 or 37, of the fact that it is being delayed.
@@ -1224,7 +1224,7 @@ must be recorded.
 
 #### Record
 
-**55.**[^c23671731][^key-7ae06ffa5238e6d66feb8c0bc2bf6c92][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) A review officer carrying out a review must make a written record of the outcome of the review and of any of the following which apply—
+**55.**[^c23671731][^c-7ae06ffa5238e6d66feb8c0bc2bf6c92][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) A review officer carrying out a review must make a written record of the outcome of the review and of any of the following which apply—
 
 - (a) the fact that the officer is satisfied that continued detention is necessary for the purposes of exercising a power under paragraph 1 or 2,
 - (b) the fact that the detainee has been informed as required under paragraph 54(1),
@@ -1239,9 +1239,9 @@ must be recorded.
 - (b) violent or likely to become violent, or
 - (c) in urgent need of medical attention.
 
-### PART 4 — Codes of practice[^key-84b46b4aa18dc486bf59c8a0fd259b25]
+### PART 4 — Codes of practice[^c-84b46b4aa18dc486bf59c8a0fd259b25]
 
-**56.**[^c23671721][^key-10fbd5c5211cef93cf5918687a0e31ea][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) The Secretary of State must issue codes of practice about—
+**56.**[^c23671721][^c-10fbd5c5211cef93cf5918687a0e31ea][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) The Secretary of State must issue codes of practice about—
 
 - (a) training to be undertaken by constables, immigration officers and customs officers who are to act as examining officers or exercise other functions under this Schedule,
 - (b) the exercise by such persons of functions conferred on them by virtue of this Schedule,
@@ -1266,7 +1266,7 @@ must be recorded.
 
 (7) The Secretary of State may revise a code and issue the revised code.
 
-**57.**[^c23671711][^key-717fc53b36d6403d19c2e7d2afd692fe][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) Before issuing a code under paragraph 56 the Secretary of State must—
+**57.**[^c23671711][^c-717fc53b36d6403d19c2e7d2afd692fe][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) Before issuing a code under paragraph 56 the Secretary of State must—
 
 - (a) publish a draft code,
 - (b) consider any representations made about the draft, and
@@ -1282,23 +1282,23 @@ must be recorded.
 
 (6) A statutory instrument containing regulations under sub-paragraph (3) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-### PART 5 — Related powers[^key-84b46b4aa18dc486bf59c8a0fd259b25]
+### PART 5 — Related powers[^c-84b46b4aa18dc486bf59c8a0fd259b25]
 
 #### Entry
 
-**58.**[^c23671701][^key-b646c16b36f7db06d6e7dd60ec258352][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) An examining officer may enter a vehicle for the purpose of exercising a function conferred on the officer by virtue of this Schedule.
+**58.**[^c23671701][^c-b646c16b36f7db06d6e7dd60ec258352][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) An examining officer may enter a vehicle for the purpose of exercising a function conferred on the officer by virtue of this Schedule.
 
 (2) In this paragraph “**vehicle**” includes an aircraft, hovercraft, train or vessel.
 
 #### Reasonable force
 
-**59.**[^c23671691][^key-2fe46658ca56e49541b35706440f6353][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) An examining officer may if necessary use reasonable force for the purpose of exercising a power conferred on the officer by virtue of this Schedule.
+**59.**[^c23671691][^c-2fe46658ca56e49541b35706440f6353][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) An examining officer may if necessary use reasonable force for the purpose of exercising a power conferred on the officer by virtue of this Schedule.
 
 (2) Sub-paragraph (1) does not apply in relation to the powers conferred by paragraphs 1 or 2.
 
 #### Information
 
-**60.**[^c23671681][^key-b53310285c1dc1f42214951ad642da72][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) Information acquired by an examining officer may be supplied—
+**60.**[^c23671681][^c-b53310285c1dc1f42214951ad642da72][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) Information acquired by an examining officer may be supplied—
 
 - (a) to the Secretary of State for use in relation to immigration;
 - (b) to the Commissioners for Her Majesty's Revenue and Customs or a customs officer;
@@ -1316,32 +1316,32 @@ must be recorded.
 
 #### Other police powers
 
-**61.**[^c23671671][^key-e2e998024dd33f8ead43974d21c19d6c][^key-84b46b4aa18dc486bf59c8a0fd259b25] A power conferred by virtue of this Schedule on a constable—
+**61.**[^c23671671][^c-e2e998024dd33f8ead43974d21c19d6c][^c-84b46b4aa18dc486bf59c8a0fd259b25] A power conferred by virtue of this Schedule on a constable—
 
 - (a) is additional to powers exercisable at common law or by virtue of any other enactment, and
 - (b) is not to be taken to affect those powers.
 
-### PART 6 — Review of powers[^key-84b46b4aa18dc486bf59c8a0fd259b25]
+### PART 6 — Review of powers[^c-84b46b4aa18dc486bf59c8a0fd259b25]
 
-**62.**[^c23671661][^key-14b5be5d012231f8853322f9751c1de9][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1)[^key-c90d7a937659c132205708d91845de8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**62.**[^c23671661][^c-14b5be5d012231f8853322f9751c1de9][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1)[^c-c90d7a937659c132205708d91845de8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-c90d7a937659c132205708d91845de8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c90d7a937659c132205708d91845de8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c90d7a937659c132205708d91845de8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c90d7a937659c132205708d91845de8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c90d7a937659c132205708d91845de8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c90d7a937659c132205708d91845de8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-c90d7a937659c132205708d91845de8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c90d7a937659c132205708d91845de8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 231 of the Investigatory Powers Act 2016 (error reporting), the reference in subsection (9)(a) to any other enactment does not include this Schedule.
 
-(7)[^key-7fae1524d64a07f2230bedf07f65f3fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-7fae1524d64a07f2230bedf07f65f3fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-7fae1524d64a07f2230bedf07f65f3fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-7fae1524d64a07f2230bedf07f65f3fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 7 — Cross-Channel rail services[^key-84b46b4aa18dc486bf59c8a0fd259b25]
+### PART 7 — Cross-Channel rail services[^c-84b46b4aa18dc486bf59c8a0fd259b25]
 
-**63.**[^c23671651][^key-fa5b0eb1f4b56d1af930a53eee7e773b][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) At the end of Schedule 4 to the Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813) insert—
+**63.**[^c23671651][^c-fa5b0eb1f4b56d1af930a53eee7e773b][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) At the end of Schedule 4 to the Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813) insert—
 
 > **Counter-Terrorism and Border Security Act 2019**
 >
@@ -1413,9 +1413,9 @@ must be recorded.
 
 (2) Nothing in sub-paragraph (1) affects the power in section 11 of the Channel Tunnel Act 1987 to revoke or amend any provision of the Order amended by that sub-paragraph.
 
-### PART 8 — Interpretation[^key-84b46b4aa18dc486bf59c8a0fd259b25]
+### PART 8 — Interpretation[^c-84b46b4aa18dc486bf59c8a0fd259b25]
 
-**64.**[^c23671641][^key-4f895ae53927172980d52855886fb3a8][^key-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies for the purposes of this Schedule.
+**64.**[^c23671641][^c-4f895ae53927172980d52855886fb3a8][^c-84b46b4aa18dc486bf59c8a0fd259b25] (1) This paragraph applies for the purposes of this Schedule.
 
 (2) References to engagement in hostile activity are to be read in accordance with paragraph 1(5); and references to a “hostile act” are to be read in accordance with paragraph 1(6).
 
@@ -1468,298 +1468,298 @@ must be recorded.
 
 ## Annotations
 
-[^key-84b46b4aa18dc486bf59c8a0fd259b25]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3) modified by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/7) (as inserted (12.2.2019 for specified purposes; 13.8.2020 in so far as not already in force) by [Counter Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(1)(g)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/g), [Sch. 3 para. 63(1)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/63/1) (with [s. 25(9)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/9), [Sch. 3 para. 63(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/63/2)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g))
+[^c-84b46b4aa18dc486bf59c8a0fd259b25]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3) modified by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/7) (as inserted (12.2.2019 for specified purposes; 13.8.2020 in so far as not already in force) by [Counter Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(1)(g)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/g), [Sch. 3 para. 63(1)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/63/1) (with [s. 25(9)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/9), [Sch. 3 para. 63(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/63/2)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g))
 
 [^M_C_1bacf9c3-1ddd-44ff-b473-76b3ef74b2e1]: Modification: Sch. 3 modified by [S.I. 1994/1405](https://www.legislation.gov.uk/uksi/1994/1405), [art. 7](https://www.legislation.gov.uk/uksi/1994/1405/article/7) (as amended (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/915/article/1/3), [11](https://www.legislation.gov.uk/uksi/2020/915/article/11))
 
-[^key-5139d056dee1bfb27528a67c7e08a536]: Modification: Sch. 3 modified (30.9.2020 immediately after the amendments by S.I. 2020/915, art. 5 come into force) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/916/article/1/3), [6](https://www.legislation.gov.uk/uksi/2020/916/article/6)
+[^c-5139d056dee1bfb27528a67c7e08a536]: Modification: Sch. 3 modified (30.9.2020 immediately after the amendments by S.I. 2020/915, art. 5 come into force) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/916/article/1/3), [6](https://www.legislation.gov.uk/uksi/2020/916/article/6)
 
 [^c23671441]: Commencement: Sch. 3 para. 1 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-f25ba2907c396fcb5b8c8eb288eadbff]: Commencement: Sch. 3 para. 1 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-f25ba2907c396fcb5b8c8eb288eadbff]: Commencement: Sch. 3 para. 1 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671451]: Commencement: Sch. 3 para. 2 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-520797a1ca94c1acd8e13827fa7792eb]: Commencement: Sch. 3 para. 2 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-520797a1ca94c1acd8e13827fa7792eb]: Commencement: Sch. 3 para. 2 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671461]: Commencement: Sch. 3 para. 3 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-7f6976f00a6a9b82b65f47b17597c180]: Commencement: Sch. 3 para. 3 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-7f6976f00a6a9b82b65f47b17597c180]: Commencement: Sch. 3 para. 3 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671471]: Commencement: Sch. 3 para. 4 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-d27128a2e216e05051a0d8412f312227]: Commencement: Sch. 3 para. 4 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-d27128a2e216e05051a0d8412f312227]: Commencement: Sch. 3 para. 4 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671481]: Commencement: Sch. 3 para. 5 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-37a21d4dec613af424f268227598e2fa]: Commencement: Sch. 3 para. 5 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-37a21d4dec613af424f268227598e2fa]: Commencement: Sch. 3 para. 5 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671491]: Commencement: Sch. 3 para. 6 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-c8cb315c809c0396147dc504dd551a9e]: Commencement: Sch. 3 para. 6 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-c8cb315c809c0396147dc504dd551a9e]: Commencement: Sch. 3 para. 6 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671501]: Commencement: Sch. 3 para. 7 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-a37004d573b799d76566cf52b57a3f09]: Commencement: Sch. 3 para. 7 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-a37004d573b799d76566cf52b57a3f09]: Commencement: Sch. 3 para. 7 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671511]: Commencement: Sch. 3 para. 8 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-b9fb30aa2a8010a04e001efcee7f6c56]: Commencement: Sch. 3 para. 8 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-b9fb30aa2a8010a04e001efcee7f6c56]: Commencement: Sch. 3 para. 8 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671521]: Commencement: Sch. 3 para. 9 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-ff16ce889874d5e46e12e57c6ddc60c6]: Commencement: Sch. 3 para. 9 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-ff16ce889874d5e46e12e57c6ddc60c6]: Commencement: Sch. 3 para. 9 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671531]: Commencement: Sch. 3 para. 10 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-c38f029f37ff2c283384ac8c8e970d28]: Commencement: Sch. 3 para. 10 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-c38f029f37ff2c283384ac8c8e970d28]: Commencement: Sch. 3 para. 10 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671541]: Commencement: Sch. 3 para. 11 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-a455a5de2e95cbb296dbe8851153e623]: Commencement: Sch. 3 para. 11 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-a455a5de2e95cbb296dbe8851153e623]: Commencement: Sch. 3 para. 11 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671551]: Commencement: Sch. 3 para. 12 in force at Royal Assent for specified purposes, see. [s. 27(1)(g)(2)(c)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/g/2/c)
 
-[^key-55d33779dff7c4e8d5eb5a09d6234398]: Commencement: Sch. 3 para. 12 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-55d33779dff7c4e8d5eb5a09d6234398]: Commencement: Sch. 3 para. 12 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
-[^key-106d605c78ae48485c4211888defdcbc]: Textual amendment: Word in [Sch. 3 para. 12(11)(a)(i)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/12/11/a/i) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 29(a)(i)](https://www.legislation.gov.uk/ukpga/2023/32/section/29/a/i), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-106d605c78ae48485c4211888defdcbc]: Textual amendment: Word in [Sch. 3 para. 12(11)(a)(i)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/12/11/a/i) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 29(a)(i)](https://www.legislation.gov.uk/ukpga/2023/32/section/29/a/i), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-092295f342cdc094b66d15366bf7b327]: Textual amendment: Word in [Sch. 3 para. 12(11)(a)(ii)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/12/11/a/ii) omitted (20.12.2023) by virtue of [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 29(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/32/section/29/a/ii), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-092295f342cdc094b66d15366bf7b327]: Textual amendment: Word in [Sch. 3 para. 12(11)(a)(ii)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/12/11/a/ii) omitted (20.12.2023) by virtue of [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 29(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/32/section/29/a/ii), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-8de5f59844bc8d2bc345328d053ea88a]: Textual amendment: [Sch. 3 para. 12(11)(a)(iii)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/12/11/a/iii) omitted (20.12.2023) by virtue of [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 29(a)(iii)](https://www.legislation.gov.uk/ukpga/2023/32/section/29/a/iii), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-8de5f59844bc8d2bc345328d053ea88a]: Textual amendment: [Sch. 3 para. 12(11)(a)(iii)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/12/11/a/iii) omitted (20.12.2023) by virtue of [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 29(a)(iii)](https://www.legislation.gov.uk/ukpga/2023/32/section/29/a/iii), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-5e27680d360d83d1edae73c93018c76c]: Textual amendment: Words in [Sch. 3 para. 12(11)(b)(ii)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/12/11/b/ii) omitted (20.12.2023) by virtue of [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 29(b)](https://www.legislation.gov.uk/ukpga/2023/32/section/29/b), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-5e27680d360d83d1edae73c93018c76c]: Textual amendment: Words in [Sch. 3 para. 12(11)(b)(ii)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/12/11/b/ii) omitted (20.12.2023) by virtue of [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 29(b)](https://www.legislation.gov.uk/ukpga/2023/32/section/29/b), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-4ebce86713f0cf1eb223d2ae639881e2]: Textual amendment: Word in [Sch. 3 para. 12(11)(c)(i)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/12/11/c/i) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 29(c)(i)](https://www.legislation.gov.uk/ukpga/2023/32/section/29/c/i), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-4ebce86713f0cf1eb223d2ae639881e2]: Textual amendment: Word in [Sch. 3 para. 12(11)(c)(i)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/12/11/c/i) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 29(c)(i)](https://www.legislation.gov.uk/ukpga/2023/32/section/29/c/i), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-f9e97bb5826de7f6f19d33ef4ecacfb8]: Textual amendment: Word in [Sch. 3 para. 12(11)(c)(ii)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/12/11/c/ii) omitted (20.12.2023) by virtue of [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 29(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/32/section/29/c/ii), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-f9e97bb5826de7f6f19d33ef4ecacfb8]: Textual amendment: Word in [Sch. 3 para. 12(11)(c)(ii)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/12/11/c/ii) omitted (20.12.2023) by virtue of [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 29(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/32/section/29/c/ii), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-7d80d356bfb55334fad040808239d3a1]: Textual amendment: [Sch. 3 para. 12(11)(c)(iii)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/12/11/c/iii) omitted (20.12.2023) by virtue of [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 29(c)(iii)](https://www.legislation.gov.uk/ukpga/2023/32/section/29/c/iii), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-7d80d356bfb55334fad040808239d3a1]: Textual amendment: [Sch. 3 para. 12(11)(c)(iii)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/12/11/c/iii) omitted (20.12.2023) by virtue of [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 29(c)(iii)](https://www.legislation.gov.uk/ukpga/2023/32/section/29/c/iii), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
 [^c23671561]: Commencement: Sch. 3 para. 13 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-0a3d4b507524fbc726780f236c42aa70]: Commencement: Sch. 3 para. 13 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-0a3d4b507524fbc726780f236c42aa70]: Commencement: Sch. 3 para. 13 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671571]: Commencement: Sch. 3 para. 14 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-0b949c1fe1abe7391c26b1407f30babf]: Commencement: Sch. 3 para. 14 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-0b949c1fe1abe7391c26b1407f30babf]: Commencement: Sch. 3 para. 14 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671581]: Commencement: Sch. 3 para. 15 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-34fe1874e1f5c7ee73868238070c7b59]: Commencement: Sch. 3 para. 15 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-34fe1874e1f5c7ee73868238070c7b59]: Commencement: Sch. 3 para. 15 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671591]: Commencement: Sch. 3 para. 16 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-3553cf87e6e7ba0a8e8d9990d6c0d582]: Commencement: Sch. 3 para. 16 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-3553cf87e6e7ba0a8e8d9990d6c0d582]: Commencement: Sch. 3 para. 16 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671601]: Commencement: Sch. 3 para. 17 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-b32b64b89b3b6430db83ffbb9924af37]: Commencement: Sch. 3 para. 17 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-b32b64b89b3b6430db83ffbb9924af37]: Commencement: Sch. 3 para. 17 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671611]: Commencement: Sch. 3 para. 18 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-2463b037afce5979cee04edf362c49b0]: Commencement: Sch. 3 para. 18 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-2463b037afce5979cee04edf362c49b0]: Commencement: Sch. 3 para. 18 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671621]: Commencement: Sch. 3 para. 19 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-eb96d6b2f12d1bdba613f4bf330c2cfd]: Commencement: Sch. 3 para. 19 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-eb96d6b2f12d1bdba613f4bf330c2cfd]: Commencement: Sch. 3 para. 19 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671631]: Commencement: Sch. 3 para. 20 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-bf74e033419983464500f7c0c38c06ba]: Commencement: Sch. 3 para. 20 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-bf74e033419983464500f7c0c38c06ba]: Commencement: Sch. 3 para. 20 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23672081]: Commencement: Sch. 3 para. 21 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-863265cfca416e1f31fde7f846a7a1eb]: Commencement: Sch. 3 para. 21 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-863265cfca416e1f31fde7f846a7a1eb]: Commencement: Sch. 3 para. 21 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23672061]: Commencement: Sch. 3 para. 22 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-8e94676e674e435e26e7850e0bf9f42c]: Commencement: Sch. 3 para. 22 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-8e94676e674e435e26e7850e0bf9f42c]: Commencement: Sch. 3 para. 22 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23672051]: Commencement: Sch. 3 para. 23 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-04ce45189e155e198174a4a318f5b3d9]: Commencement: Sch. 3 para. 23 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-04ce45189e155e198174a4a318f5b3d9]: Commencement: Sch. 3 para. 23 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23672041]: Commencement: Sch. 3 para. 24 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-7baf8ecdb750b1d0f04f45968313223d]: Commencement: Sch. 3 para. 24 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-7baf8ecdb750b1d0f04f45968313223d]: Commencement: Sch. 3 para. 24 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23672031]: Commencement: Sch. 3 para. 25 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-645f0700dbc8447c0a733c548803992e]: Commencement: Sch. 3 para. 25 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-645f0700dbc8447c0a733c548803992e]: Commencement: Sch. 3 para. 25 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23672021]: Commencement: Sch. 3 para. 26 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-585ba2b6c9df44718612cbd0cdfebd12]: Commencement: Sch. 3 para. 26 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-585ba2b6c9df44718612cbd0cdfebd12]: Commencement: Sch. 3 para. 26 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23672011]: Commencement: Sch. 3 para. 27 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-03194d15077bca969db2a1708935cb06]: Commencement: Sch. 3 para. 27 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-03194d15077bca969db2a1708935cb06]: Commencement: Sch. 3 para. 27 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23672001]: Commencement: Sch. 3 para. 28 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-c8da96c4c4ec4687ffbc52d53ea1d52b]: Commencement: Sch. 3 para. 28 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-c8da96c4c4ec4687ffbc52d53ea1d52b]: Commencement: Sch. 3 para. 28 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671991]: Commencement: Sch. 3 para. 29 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-0d4abdcd78653bc8ac397e7901f8a0d2]: Commencement: Sch. 3 para. 29 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-0d4abdcd78653bc8ac397e7901f8a0d2]: Commencement: Sch. 3 para. 29 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671981]: Commencement: Sch. 3 para. 30 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-a80861e2951fea167f58387595c9e5da]: Commencement: Sch. 3 para. 30 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-a80861e2951fea167f58387595c9e5da]: Commencement: Sch. 3 para. 30 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671971]: Commencement: Sch. 3 para. 31 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-bd171e6400a92df3e925a21e848b2eeb]: Commencement: Sch. 3 para. 31 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-bd171e6400a92df3e925a21e848b2eeb]: Commencement: Sch. 3 para. 31 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671961]: Commencement: Sch. 3 para. 32 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-13d668b6b01ff894b9489e1cb43bff0c]: Commencement: Sch. 3 para. 32 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-13d668b6b01ff894b9489e1cb43bff0c]: Commencement: Sch. 3 para. 32 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671951]: Commencement: Sch. 3 para. 33 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-48762f58d8117b7597c1fe0114768f8a]: Commencement: Sch. 3 para. 33 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-48762f58d8117b7597c1fe0114768f8a]: Commencement: Sch. 3 para. 33 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671941]: Commencement: Sch. 3 para. 34 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-c935346672fce2cfd3d41d718646801e]: Commencement: Sch. 3 para. 34 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-c935346672fce2cfd3d41d718646801e]: Commencement: Sch. 3 para. 34 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671931]: Commencement: Sch. 3 para. 35 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-d675ecc6e79bf5f578d7cf2607dfede0]: Commencement: Sch. 3 para. 35 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-d675ecc6e79bf5f578d7cf2607dfede0]: Commencement: Sch. 3 para. 35 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671921]: Commencement: Sch. 3 para. 36 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-2b5b803b8aa8881490b3db8ab6e2b962]: Commencement: Sch. 3 para. 36 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-2b5b803b8aa8881490b3db8ab6e2b962]: Commencement: Sch. 3 para. 36 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671911]: Commencement: Sch. 3 para. 37 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-e1d1311a08e9636466889b45f379c011]: Commencement: Sch. 3 para. 37 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-e1d1311a08e9636466889b45f379c011]: Commencement: Sch. 3 para. 37 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671901]: Commencement: Sch. 3 para. 38 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-a4403ee2159186d065cef0a3a0876f4d]: Commencement: Sch. 3 para. 38 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-a4403ee2159186d065cef0a3a0876f4d]: Commencement: Sch. 3 para. 38 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671891]: Commencement: Sch. 3 para. 39 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-f63b03d5cee90892806a6c48497e6e45]: Commencement: Sch. 3 para. 39 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-f63b03d5cee90892806a6c48497e6e45]: Commencement: Sch. 3 para. 39 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671881]: Commencement: Sch. 3 para. 40 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-dce50449df7900ec36ac2e144d195de4]: Commencement: Sch. 3 para. 40 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-dce50449df7900ec36ac2e144d195de4]: Commencement: Sch. 3 para. 40 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671871]: Commencement: Sch. 3 para. 41 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-91d392d28f44d459239f5aa2bf97f4ed]: Commencement: Sch. 3 para. 41 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-91d392d28f44d459239f5aa2bf97f4ed]: Commencement: Sch. 3 para. 41 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671861]: Commencement: Sch. 3 para. 42 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-ecd6b59e9809c9f22c871b7b787199f2]: Commencement: Sch. 3 para. 42 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-ecd6b59e9809c9f22c871b7b787199f2]: Commencement: Sch. 3 para. 42 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671851]: Commencement: Sch. 3 para. 43 in force at Royal Assent for specified purposes, see. [s. 27(1)(g)(2)(c)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/g/2/c)
 
-[^key-b5fe27eea836d09d6fff376ed7923a75]: Commencement: Sch. 3 para. 43 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-b5fe27eea836d09d6fff376ed7923a75]: Commencement: Sch. 3 para. 43 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
-[^key-6ba8779fd60451bcb73ee5bbd41bca2a]: Textual amendment: [Sch. 3 para. 43(6)(fa)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/43/6/fa)[(fb)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/43/6/fb) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 31(2)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/31/2)
+[^c-6ba8779fd60451bcb73ee5bbd41bca2a]: Textual amendment: [Sch. 3 para. 43(6)(fa)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/43/6/fa)[(fb)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/43/6/fb) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 31(2)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/31/2)
 
 [^c23671841]: Commencement: Sch. 3 para. 44 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-4b481dc8f70abe3837ce0295fe2bdcde]: Commencement: Sch. 3 para. 44 in force at 13.8.2020 in so far as not already in force except in relation to N.I. by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-4b481dc8f70abe3837ce0295fe2bdcde]: Commencement: Sch. 3 para. 44 in force at 13.8.2020 in so far as not already in force except in relation to N.I. by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
-[^key-81970b0a6e9e3ebed73e5770e345b378]: Commencement: [Sch. 3 para. 44](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/44) in force at 1.6.2021 for N.I. by [S.I. 2021/622](https://www.legislation.gov.uk/uksi/2021/622), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/622/regulation/2/b)
+[^c-81970b0a6e9e3ebed73e5770e345b378]: Commencement: [Sch. 3 para. 44](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/44) in force at 1.6.2021 for N.I. by [S.I. 2021/622](https://www.legislation.gov.uk/uksi/2021/622), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/622/regulation/2/b)
 
 [^c23671831]: Commencement: Sch. 3 para. 45 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-70af9e83c8f09ea02205efb7fb72faa2]: Commencement: Sch. 3 para. 45 in force at 13.8.2020 in so far as not already in force except in relation to N.I. by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-70af9e83c8f09ea02205efb7fb72faa2]: Commencement: Sch. 3 para. 45 in force at 13.8.2020 in so far as not already in force except in relation to N.I. by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
-[^key-f9abf219388800fd0836470b51e402bb]: Commencement: [Sch. 3 para. 45](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/45) in force at 1.6.2021 for N.I. by [S.I. 2021/622](https://www.legislation.gov.uk/uksi/2021/622), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/622/regulation/2/b)
+[^c-f9abf219388800fd0836470b51e402bb]: Commencement: [Sch. 3 para. 45](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/45) in force at 1.6.2021 for N.I. by [S.I. 2021/622](https://www.legislation.gov.uk/uksi/2021/622), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/622/regulation/2/b)
 
 [^c23671821]: Commencement: Sch. 3 para. 46 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-2d226e5825c6ad49721ef57091b18d70]: Commencement: Sch. 3 para. 46 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-2d226e5825c6ad49721ef57091b18d70]: Commencement: Sch. 3 para. 46 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671811]: Commencement: Sch. 3 para. 47 in force at Royal Assent for specified purposes, see. [s. 27(1)(g)(2)(c)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/g/2/c)
 
-[^key-3fd941bc3eaf17ff8aedb0d44ac64248]: Commencement: Sch. 3 para. 47 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-3fd941bc3eaf17ff8aedb0d44ac64248]: Commencement: Sch. 3 para. 47 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
-[^key-d58891e4fd3a55e8ea8e5904e78865a3]: Textual amendment: Word in [Sch. 3 para. 47(3)(b)(iv)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/47/3/b/iv) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 31(3)(a)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/31/3/a)
+[^c-d58891e4fd3a55e8ea8e5904e78865a3]: Textual amendment: Word in [Sch. 3 para. 47(3)(b)(iv)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/47/3/b/iv) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 31(3)(a)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/31/3/a)
 
-[^key-19fcc334897ad82f51a9aa7192602f18]: Textual amendment: Word in [Sch. 3 para. 47(3)(b)(v)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/47/3/b/v) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 31(3)(b)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/31/3/b)
+[^c-19fcc334897ad82f51a9aa7192602f18]: Textual amendment: Word in [Sch. 3 para. 47(3)(b)(v)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/47/3/b/v) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 31(3)(b)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/31/3/b)
 
-[^key-bee2a05c297020419b3728d0b28893f2]: Textual amendment: [Sch. 3 para. 47(3)(b)(vi)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/47/3/b/vi)[(vii)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/47/3/b/vii) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 31(3)(c)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/31/3/c)
+[^c-bee2a05c297020419b3728d0b28893f2]: Textual amendment: [Sch. 3 para. 47(3)(b)(vi)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/47/3/b/vi)[(vii)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/47/3/b/vii) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 31(3)(c)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/31/3/c)
 
 [^c23671801]: Commencement: Sch. 3 para. 48 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-057715d17a551f8423f9d5e731d413a6]: Commencement: Sch. 3 para. 48 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-057715d17a551f8423f9d5e731d413a6]: Commencement: Sch. 3 para. 48 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671791]: Commencement: Sch. 3 para. 49 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-37ef4db7e51cb1487342428cdcf4855e]: Commencement: Sch. 3 para. 49 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-37ef4db7e51cb1487342428cdcf4855e]: Commencement: Sch. 3 para. 49 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671781]: Commencement: Sch. 3 para. 50 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-ab02dc0d64e5a99694db4ae57479108b]: Commencement: Sch. 3 para. 50 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-ab02dc0d64e5a99694db4ae57479108b]: Commencement: Sch. 3 para. 50 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671771]: Commencement: Sch. 3 para. 51 in force at Royal Assent for specified purposes, see. [s. 27(1)(g)(2)(c)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/g/2/c)
 
-[^key-c669f35b38695fc9d27495db5cecd32a]: Commencement: Sch. 3 para. 51 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-c669f35b38695fc9d27495db5cecd32a]: Commencement: Sch. 3 para. 51 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
-[^key-e06c62649177370eb3d10d64371fae0d]: Textual amendment: Words in [Sch. 3 para. 51](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/51) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 50(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/50/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-e06c62649177370eb3d10d64371fae0d]: Textual amendment: Words in [Sch. 3 para. 51](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/51) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 50(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/50/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
 
-[^key-0e9a01764aace34c9b8e670a88dd4d9f]: Textual amendment: Words in [Sch. 3 para. 51](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/51) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 50(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/50/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-0e9a01764aace34c9b8e670a88dd4d9f]: Textual amendment: Words in [Sch. 3 para. 51](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/51) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 50(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/50/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
 
 [^c23671761]: Commencement: Sch. 3 para. 52 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-ce3f5f9af949dc76f1111b0bbdb64b8d]: Commencement: Sch. 3 para. 52 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-ce3f5f9af949dc76f1111b0bbdb64b8d]: Commencement: Sch. 3 para. 52 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671751]: Commencement: Sch. 3 para. 53 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-b1cc6cd0b3ed791086aa42927d039cd3]: Commencement: Sch. 3 para. 53 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-b1cc6cd0b3ed791086aa42927d039cd3]: Commencement: Sch. 3 para. 53 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671741]: Commencement: Sch. 3 para. 54 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-0a2553363bdb373bed5019514f31fd26]: Commencement: Sch. 3 para. 54 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-0a2553363bdb373bed5019514f31fd26]: Commencement: Sch. 3 para. 54 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671731]: Commencement: Sch. 3 para. 55 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-7ae06ffa5238e6d66feb8c0bc2bf6c92]: Commencement: Sch. 3 para. 55 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-7ae06ffa5238e6d66feb8c0bc2bf6c92]: Commencement: Sch. 3 para. 55 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671721]: Commencement: Sch. 3 para. 56 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-10fbd5c5211cef93cf5918687a0e31ea]: Commencement: Sch. 3 para. 56 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-10fbd5c5211cef93cf5918687a0e31ea]: Commencement: Sch. 3 para. 56 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671711]: Commencement: Sch. 3 para. 57 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-717fc53b36d6403d19c2e7d2afd692fe]: Commencement: Sch. 3 para. 57 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-717fc53b36d6403d19c2e7d2afd692fe]: Commencement: Sch. 3 para. 57 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671701]: Commencement: Sch. 3 para. 58 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-b646c16b36f7db06d6e7dd60ec258352]: Commencement: Sch. 3 para. 58 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-b646c16b36f7db06d6e7dd60ec258352]: Commencement: Sch. 3 para. 58 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671691]: Commencement: Sch. 3 para. 59 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-2fe46658ca56e49541b35706440f6353]: Commencement: Sch. 3 para. 59 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-2fe46658ca56e49541b35706440f6353]: Commencement: Sch. 3 para. 59 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671681]: Commencement: Sch. 3 para. 60 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-b53310285c1dc1f42214951ad642da72]: Commencement: Sch. 3 para. 60 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-b53310285c1dc1f42214951ad642da72]: Commencement: Sch. 3 para. 60 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671671]: Commencement: Sch. 3 para. 61 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-e2e998024dd33f8ead43974d21c19d6c]: Commencement: Sch. 3 para. 61 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-e2e998024dd33f8ead43974d21c19d6c]: Commencement: Sch. 3 para. 61 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671661]: Commencement: Sch. 3 para. 62 in force at Royal Assent for specified purposes, see. [s. 27(1)(g)(2)(c)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/g/2/c)
 
-[^key-14b5be5d012231f8853322f9751c1de9]: Commencement: Sch. 3 para. 62 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-14b5be5d012231f8853322f9751c1de9]: Commencement: Sch. 3 para. 62 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
-[^key-c90d7a937659c132205708d91845de8c]: Textual amendment: [Sch. 3 para. 62(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/62/1) omitted (20.12.2023) by virtue of [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 11(a)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/11/a) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)
+[^c-c90d7a937659c132205708d91845de8c]: Textual amendment: [Sch. 3 para. 62(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/62/1) omitted (20.12.2023) by virtue of [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 11(a)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/11/a) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)
 
-[^key-7fae1524d64a07f2230bedf07f65f3fe]: Textual amendment: [Sch. 3 para. 62(7)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/62/7)[(8)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/62/8) omitted (20.12.2023) by virtue of [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 11(b)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/11/b) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)
+[^c-7fae1524d64a07f2230bedf07f65f3fe]: Textual amendment: [Sch. 3 para. 62(7)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/62/7)[(8)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/62/8) omitted (20.12.2023) by virtue of [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 11(b)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/11/b) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)
 
 [^c23671651]: Commencement: Sch. 3 para. 63 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-fa5b0eb1f4b56d1af930a53eee7e773b]: Commencement: Sch. 3 para. 63 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-fa5b0eb1f4b56d1af930a53eee7e773b]: Commencement: Sch. 3 para. 63 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
 [^c23671641]: Commencement: Sch. 3 para. 64 in force at Royal Assent for specified purposes, see. s. 27(1)(g)(2)(c)
 
-[^key-4f895ae53927172980d52855886fb3a8]: Commencement: Sch. 3 para. 64 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-4f895ae53927172980d52855886fb3a8]: Commencement: Sch. 3 para. 64 in force at 13.8.2020 in so far as not already in force by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)

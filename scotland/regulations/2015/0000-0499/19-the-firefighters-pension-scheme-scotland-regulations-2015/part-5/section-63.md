@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Exercise of partial retirement option[^key-86fc4693e2bc7cd381f6860b5f7f0ddc]
+## 63. Exercise of partial retirement option[^c-86fc4693e2bc7cd381f6860b5f7f0ddc]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86fc4693e2bc7cd381f6860b5f7f0ddc]: Commencement: [Reg. 63](https://www.legislation.gov.uk/ssi/2015/19/regulation/63) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-86fc4693e2bc7cd381f6860b5f7f0ddc]: Commencement: [Reg. 63](https://www.legislation.gov.uk/ssi/2015/19/regulation/63) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

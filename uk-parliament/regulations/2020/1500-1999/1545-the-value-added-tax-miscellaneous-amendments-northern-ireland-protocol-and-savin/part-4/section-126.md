@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126.[^key-99038981c43b6ab212f9ac0db23d19df]
+## 126.[^c-99038981c43b6ab212f9ac0db23d19df]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the application of regulation 121D of the Value Added Tax Regulations 1995 to
 
 ## Annotations
 
-[^key-99038981c43b6ab212f9ac0db23d19df]: Commencement: Reg. 126 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-99038981c43b6ab212f9ac0db23d19df]: Commencement: Reg. 126 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

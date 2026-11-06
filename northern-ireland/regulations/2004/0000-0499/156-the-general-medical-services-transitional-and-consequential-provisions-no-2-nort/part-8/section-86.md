@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 86. Transitory interpretation of references in statutory provisions to primary medical services[^key-620e94e69f7a7979f7276fc08d625968]
+## 86. Transitory interpretation of references in statutory provisions to primary medical services[^c-620e94e69f7a7979f7276fc08d625968]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ For so long as default contracts entered into pursuant to Article 5(3) of the 20
 
 ## Annotations
 
-[^key-620e94e69f7a7979f7276fc08d625968]: Commencement: Art. 86 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-620e94e69f7a7979f7276fc08d625968]: Commencement: Art. 86 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

@@ -34,7 +34,7 @@ This Statutory Instrument has been made partly in consequence of defects in [S.I
 
 Marine Pollution
 
-The Merchant Shipping (Prevention of Pollution by Sewage and Garbage from Ships)(Amendment) Regulations 2010 (revoked)[^key-a24abdd97817b0668514c65195853e80]
+The Merchant Shipping (Prevention of Pollution by Sewage and Garbage from Ships)(Amendment) Regulations 2010 (revoked)[^c-a24abdd97817b0668514c65195853e80]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 1st May 2010
 
-[^key-a24abdd97817b0668514c65195853e80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a24abdd97817b0668514c65195853e80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a24abdd97817b0668514c65195853e80]
+## 1. Citation and commencement[^c-a24abdd97817b0668514c65195853e80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Merchant Shipping (Prevention of Pollution by Sewage and Garbage from Ships) Regulations 2008[^key-a24abdd97817b0668514c65195853e80]
+## 2. Amendment of the Merchant Shipping (Prevention of Pollution by Sewage and Garbage from Ships) Regulations 2008[^c-a24abdd97817b0668514c65195853e80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a24abdd97817b0668514c65195853e80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a24abdd97817b0668514c65195853e80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a24abdd97817b0668514c65195853e80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a24abdd97817b0668514c65195853e80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a24abdd97817b0668514c65195853e80]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/897) revoked (22.7.2020) by [The Merchant Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020 (S.I. 2020/620)](https://www.legislation.gov.uk/uksi/2020/620), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2020/620/schedule/1/part/2)
+[^c-a24abdd97817b0668514c65195853e80]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/897) revoked (22.7.2020) by [The Merchant Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020 (S.I. 2020/620)](https://www.legislation.gov.uk/uksi/2020/620), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2020/620/schedule/1/part/2)

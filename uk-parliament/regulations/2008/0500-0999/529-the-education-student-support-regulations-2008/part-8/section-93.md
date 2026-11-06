@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Interest[^key-c05210aa8ea0e6193afd20103c4939e4]
+## 93. Interest[^c-c05210aa8ea0e6193afd20103c4939e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c05210aa8ea0e6193afd20103c4939e4]: Commencement: Reg. 93 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-c05210aa8ea0e6193afd20103c4939e4]: Commencement: Reg. 93 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00058]: Footnote: [S.I. 1980/51](https://www.legislation.gov.uk/uksi/1980/51), amended by [S.I. 1989/596](https://www.legislation.gov.uk/uksi/1989/596) and [S.I. 1999/3177](https://www.legislation.gov.uk/uksi/1999/3177).
 

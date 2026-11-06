@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57.7. Contents of statements of case[^key-cde46d73152a6807962bb3825076a841]
+## 57.7. Contents of statements of case[^c-cde46d73152a6807962bb3825076a841]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 (4) Any party who wishes to contend that—
 
 - (a) a will was not duly executed;
-- (b) at the time of the execution of a will the testator lacked testamentary capacity[^key-70514ea698e0ee7cece80c0ef07d438d]; or
+- (b) at the time of the execution of a will the testator lacked testamentary capacity[^c-70514ea698e0ee7cece80c0ef07d438d]; or
 - (c) the execution of a will was obtained by undue influence or fraud,
 
 must set out the contention specifically and give particulars of the facts and matters relied on.
@@ -41,6 +41,6 @@ must set out the contention specifically and give particulars of the facts and m
 
 ## Annotations
 
-[^key-cde46d73152a6807962bb3825076a841]: Textual amendment: [Pt. 57](https://www.legislation.gov.uk/uksi/1998/3132/part/57) inserted (15.10.2001) by [The Civil Procedure (Amendment No. 2) Rules 2001 (S.I. 2001/1388)](https://www.legislation.gov.uk/uksi/2001/1388), [rule 1(b)](https://www.legislation.gov.uk/uksi/2001/1388/rule/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2001/1388/schedule) (with [rule 19](https://www.legislation.gov.uk/uksi/2001/1388/rule/19))
+[^c-cde46d73152a6807962bb3825076a841]: Textual amendment: [Pt. 57](https://www.legislation.gov.uk/uksi/1998/3132/part/57) inserted (15.10.2001) by [The Civil Procedure (Amendment No. 2) Rules 2001 (S.I. 2001/1388)](https://www.legislation.gov.uk/uksi/2001/1388), [rule 1(b)](https://www.legislation.gov.uk/uksi/2001/1388/rule/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2001/1388/schedule) (with [rule 19](https://www.legislation.gov.uk/uksi/2001/1388/rule/19))
 
-[^key-70514ea698e0ee7cece80c0ef07d438d]: Textual amendment: Words in [rule 57.7(4)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/57.7/4/b) substituted (6.4.2008) by [The Civil Procedure (Amendment No.2) Rules 2007 (S.I. 2007/3543)](https://www.legislation.gov.uk/uksi/2007/3543), [rules 1(b)](https://www.legislation.gov.uk/uksi/2007/3543/rule/1/b), [8](https://www.legislation.gov.uk/uksi/2007/3543/rule/8)
+[^c-70514ea698e0ee7cece80c0ef07d438d]: Textual amendment: Words in [rule 57.7(4)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/57.7/4/b) substituted (6.4.2008) by [The Civil Procedure (Amendment No.2) Rules 2007 (S.I. 2007/3543)](https://www.legislation.gov.uk/uksi/2007/3543), [rules 1(b)](https://www.legislation.gov.uk/uksi/2007/3543/rule/1/b), [8](https://www.legislation.gov.uk/uksi/2007/3543/rule/8)

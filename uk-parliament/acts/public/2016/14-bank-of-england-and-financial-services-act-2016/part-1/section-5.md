@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Financial stability strategy[^key-a26aff2f15d2534e698eea185a86367a]
+## 5. Financial stability strategy[^c-a26aff2f15d2534e698eea185a86367a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a26aff2f15d2534e698eea185a86367a]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/14/section/5) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/f)
+[^c-a26aff2f15d2534e698eea185a86367a]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/14/section/5) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/f)

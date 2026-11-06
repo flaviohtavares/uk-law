@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29.1. Application of this Chapter[^key-68ec0d4bdee7393428750324c8a13901]
+## 29.1. Application of this Chapter[^c-68ec0d4bdee7393428750324c8a13901]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ This Chapter applies to an application—
 
 ## Annotations
 
-[^key-68ec0d4bdee7393428750324c8a13901]: Commencement: Para. 29.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-68ec0d4bdee7393428750324c8a13901]: Commencement: Para. 29.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

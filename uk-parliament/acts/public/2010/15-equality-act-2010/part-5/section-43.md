@@ -38,7 +38,7 @@ summary: ''
 
 (4) “**Police cadet**” means a person appointed to undergo training with a view to becoming a constable.
 
-(5)[^key-537e6b0845b14b702cc45551ee0b67dc] “NCA ” means the National Crime Agency; and a reference to a constable at NCA is a reference to a constable seconded to it to serve as an NCA officer.
+(5)[^c-537e6b0845b14b702cc45551ee0b67dc] “NCA ” means the National Crime Agency; and a reference to a constable at NCA is a reference to a constable seconded to it to serve as an NCA officer.
 
 (5A)[^c22561261] “ **SPA** ” means the Scottish Police Authority; and a reference to a constable at SPA is a reference to a constable serving as a member of its staff by virtue of paragraph 7(1) of schedule 1 to the Police and Fire Reform (Scotland) Act 2012.
 
@@ -61,7 +61,7 @@ summary: ''
 
 [^c21893671]: Textual amendment: Words in s. 43(3) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 99](https://www.legislation.gov.uk/ukpga/2011/13/section/99), [Sch. 16 para. 382(a)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/382/a); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), {Sch. 1 para. (nnn)(iii)}
 
-[^key-537e6b0845b14b702cc45551ee0b67dc]: Textual amendment: S. 43(5) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 182](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/182); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-537e6b0845b14b702cc45551ee0b67dc]: Textual amendment: S. 43(5) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 182](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/182); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
 [^c22561261]: Textual amendment: S. 43(5A) substituted (1.4.2013) for s. 43(6) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [26](https://www.legislation.gov.uk/uksi/2013/602/article/26), [Sch. 2 para. 63(3)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/63/3/a)
 

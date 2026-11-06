@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27A. Variation of small quantity threshold[^key-ff5363a10733830aee1809c6accfd82d]
+## 27A. Variation of small quantity threshold[^c-ff5363a10733830aee1809c6accfd82d]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (in each case as specified in the order) as if for “twenty cubic metres” there were substituted another quantity specified in the order.
 
-(2) The Secretary of State shall not make such an order except upon the application of the appropriate agency[^key-00f6362be3359c3a9d0204aa207ad093]; but he may direct the appropriate agency to make such an application.
+(2) The Secretary of State shall not make such an order except upon the application of the appropriate agency[^c-00f6362be3359c3a9d0204aa207ad093]; but he may direct the appropriate agency to make such an application.
 
 (3) Such an order may—
 
@@ -59,6 +59,6 @@ to cease to have effect, or to cease to have effect to the extent specified in t
 
 ## Annotations
 
-[^key-ff5363a10733830aee1809c6accfd82d]: Textual amendment: Ss 27, 27A substituted (1.4.2004 for the insertion of s. 27A, 1.4.2005 in so far as not already in force) for s. 27 by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/6/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/641/article/3/a) (with [Sch. 3 paras. 1](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/1) [7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); S.I. 2005/968, art. 2(a)
+[^c-ff5363a10733830aee1809c6accfd82d]: Textual amendment: Ss 27, 27A substituted (1.4.2004 for the insertion of s. 27A, 1.4.2005 in so far as not already in force) for s. 27 by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/6/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/641/article/3/a) (with [Sch. 3 paras. 1](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/1) [7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); S.I. 2005/968, art. 2(a)
 
-[^key-00f6362be3359c3a9d0204aa207ad093]: Textual amendment: Words in [s. 27A](https://www.legislation.gov.uk/ukpga/1991/57/section/27A) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(e)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/e) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-00f6362be3359c3a9d0204aa207ad093]: Textual amendment: Words in [s. 27A](https://www.legislation.gov.uk/ukpga/1991/57/section/27A) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(e)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/e) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

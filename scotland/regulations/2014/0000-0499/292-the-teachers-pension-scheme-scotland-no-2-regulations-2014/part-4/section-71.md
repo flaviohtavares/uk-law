@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Meaning of “actuarial adjustment”[^key-f99be7be39e6f2c5d643e3aff3b6334b]
+## 71. Meaning of “actuarial adjustment”[^c-f99be7be39e6f2c5d643e3aff3b6334b]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In these Regulations, “actuarial adjustment” means the actuarial adjustment 
 
 ## Annotations
 
-[^key-f99be7be39e6f2c5d643e3aff3b6334b]: Commencement: [Reg. 71](https://www.legislation.gov.uk/ssi/2014/292/regulation/71) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-f99be7be39e6f2c5d643e3aff3b6334b]: Commencement: [Reg. 71](https://www.legislation.gov.uk/ssi/2014/292/regulation/71) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

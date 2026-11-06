@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Effect of work on entitlement to contributory allowance where claimant is receiving certain regular treatment[^key-4d6834a2ac7d13b79c8451617eaf2627]
+## 46. Effect of work on entitlement to contributory allowance where claimant is receiving certain regular treatment[^c-4d6834a2ac7d13b79c8451617eaf2627]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a claimant who is entitled to a contributory allowance and is treated as h
 
 ## Annotations
 
-[^key-4d6834a2ac7d13b79c8451617eaf2627]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2008/280/regulation/46) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-4d6834a2ac7d13b79c8451617eaf2627]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2008/280/regulation/46) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

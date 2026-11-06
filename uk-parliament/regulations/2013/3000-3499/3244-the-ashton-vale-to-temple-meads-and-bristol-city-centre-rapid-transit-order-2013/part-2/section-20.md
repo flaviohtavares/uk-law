@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Power to survey and investigate land, etc.[^key-b7a3d2cdb5740ae61c47e5b9ff1909bc]
+## 20. Power to survey and investigate land, etc.[^c-b7a3d2cdb5740ae61c47e5b9ff1909bc]
 
 *Extent: E+W+S*
 
@@ -49,6 +49,6 @@ but such consent must not be unreasonably withheld.
 
 ## Annotations
 
-[^key-b7a3d2cdb5740ae61c47e5b9ff1909bc]: Commencement: Art. 20 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-b7a3d2cdb5740ae61c47e5b9ff1909bc]: Commencement: Art. 20 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
 [^f00018]: Footnote: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46).

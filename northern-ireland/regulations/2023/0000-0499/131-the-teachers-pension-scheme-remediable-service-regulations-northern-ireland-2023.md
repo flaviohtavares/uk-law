@@ -48,11 +48,11 @@ In accordance with section 21(1) of the 2014 Act, the Department of Education ha
 
 ## PART 1 — Introductory provisions
 
-### 1. Citation and commencement[^key-31d3fa19d0a59b830cc5116c8e9b70c5]
+### 1. Citation and commencement[^c-31d3fa19d0a59b830cc5116c8e9b70c5]
 
 – These Regulations may be cited as the Teachers’ Pension Scheme (Remediable Service) Regulations (Northern Ireland) 2023 and come into operation on 1<sup>st</sup> October 2023.
 
-### 2. Interpretation[^key-57ba7a6a78714517863860b44b32b679]
+### 2. Interpretation[^c-57ba7a6a78714517863860b44b32b679]
 
 (1) In these Regulations—
 
@@ -109,13 +109,13 @@ has, in relation to the scheme established by the relevant Regulations, the mean
 
 (6) The Interpretation Act (Northern Ireland) 1954[^f00008]shall apply to these Regulations as it applies to an Act of the Assembly.
 
-### 3. Delegation[^key-d9f5bca3a74f4684446c2d6b4ffd86b8]
+### 3. Delegation[^c-d9f5bca3a74f4684446c2d6b4ffd86b8]
 
 The scheme manager may delegate any functions of the scheme manager under these Regulations, including this power to delegate.
 
 ## PART 2 — Remediable service statements
 
-### 4. Requirements relating to remediable service statements[^key-7bee7779c4ccba5e69c3b5cee7847d6a]
+### 4. Requirements relating to remediable service statements[^c-7bee7779c4ccba5e69c3b5cee7847d6a]
 
 (1) The scheme manager must provide a remediable service statement in respect of each remedy member (“**M**”) in accordance with—
 
@@ -159,7 +159,7 @@ The scheme manager may delegate any functions of the scheme manager under these 
 
 ### CHAPTER 1 — Opted-out service elections
 
-#### 5. Application and interpretation of Chapter 1[^key-877b7c8da1e2d9928f1c78df2229b26c]
+#### 5. Application and interpretation of Chapter 1[^c-877b7c8da1e2d9928f1c78df2229b26c]
 
 (1) This Chapter applies to and in respect of a member (“**M**”) with opted-out service[^f00011] in an employment or office in relation to the legacy scheme.
 
@@ -168,7 +168,7 @@ The scheme manager may delegate any functions of the scheme manager under these 
 - “**opted-out service decision-maker**” means the person who may make an opted-out service election under regulation 6(2);
 - “**relevant opted-out service**” means the service referred to in paragraph (1).
 
-#### 6. Election in relation to relevant opted-out service[^key-5a00090f7d76870cfd5fb54561d83d1d]
+#### 6. Election in relation to relevant opted-out service[^c-5a00090f7d76870cfd5fb54561d83d1d]
 
 (1) An election (an “opted-out service election”) may be made in relation to M’s relevant opted-out service in accordance with this Part and section 5 of PSPJOA 2022.
 
@@ -209,11 +209,11 @@ The scheme manager may delegate any functions of the scheme manager under these 
 
 ### CHAPTER 2 — Immediate choice decision for reformed scheme or legacy scheme benefits
 
-#### 7. Application and interpretation of Chapter 2[^key-528ec3ceffcfc21252743b727ca05f15]
+#### 7. Application and interpretation of Chapter 2[^c-528ec3ceffcfc21252743b727ca05f15]
 
 This Chapter applies in respect of the remediable teacher service of an immediate choice member (“**M**”).
 
-#### 8. Immediate choice decision for reformed scheme or legacy scheme benefits: general[^key-a27d71f7fc68903270a82f5cbfaed2fe]
+#### 8. Immediate choice decision for reformed scheme or legacy scheme benefits: general[^c-a27d71f7fc68903270a82f5cbfaed2fe]
 
 (1) A decision (an “immediate choice decision”) may be made in accordance with this Chapter—
 
@@ -249,7 +249,7 @@ This Chapter applies in respect of the remediable teacher service of an immediat
 - (b) section 7(1)(b) (provision about when a section 6 election is to be treated as having taken effect);
 - (c) section 9 (provision about persons with remediable service in more than one Chapter 1 legacy scheme).
 
-#### 9. Immediate choice decision: additional requirements[^key-6677dd7e5f2b8a6bd41b3820c15f55fa]
+#### 9. Immediate choice decision: additional requirements[^c-6677dd7e5f2b8a6bd41b3820c15f55fa]
 
 (1) This regulation applies where the immediate choice decision-maker (“**D**”) is a person other than the scheme manager.
 
@@ -260,7 +260,7 @@ This Chapter applies in respect of the remediable teacher service of an immediat
 - (a) information in D’s possession, or
 - (b) information which D can reasonably be expected to obtain.
 
-#### 10. Immediate choice decision: deemed section 6 election[^key-933fd338d8f319cc01065ab30c46d32c]
+#### 10. Immediate choice decision: deemed section 6 election[^c-933fd338d8f319cc01065ab30c46d32c]
 
 (1) Where—
 
@@ -277,11 +277,11 @@ the scheme manager may treat a section 6 election as having been made in relatio
 
 ### CHAPTER 3 — Deferred choice decision for reformed scheme or legacy scheme benefits
 
-#### 11. Application and interpretation of Chapter 3[^key-6ff325cd2ef13e535cf0777029381648]
+#### 11. Application and interpretation of Chapter 3[^c-6ff325cd2ef13e535cf0777029381648]
 
 This Chapter applies in respect of the remediable teacher service of a deferred choice member (“**M**”).
 
-#### 12. Deferred choice decision for reformed scheme or legacy scheme benefits: general[^key-48c8e8f4157d1636bbe0e68a338509ad]
+#### 12. Deferred choice decision for reformed scheme or legacy scheme benefits: general[^c-48c8e8f4157d1636bbe0e68a338509ad]
 
 (1) A decision (a “deferred choice decision”) may be made—
 
@@ -347,7 +347,7 @@ the beneficiary must pay an amount equal to the difference to the scheme.
   - (b) otherwise, the end of the section 10 election period in relation to M;
 - “**remediable voluntary contribution**” has the meaning given in regulation 27.
 
-#### 13. Deferred choice decision to be made by M[^key-db1597009a4ebc44bc7a0011287efd3a]
+#### 13. Deferred choice decision to be made by M[^c-db1597009a4ebc44bc7a0011287efd3a]
 
 (1) This regulation applies where M is the deferred choice decision-maker.
 
@@ -382,7 +382,7 @@ the beneficiary must pay an amount equal to the difference to the scheme.
 
 the section 10 election period is treated as never having begun or ended (and, accordingly, a new section 10 election period may begin in accordance with paragraph (2)(a)).
 
-#### 14. Deferred choice decision to be made by a person other than M[^key-c57e0cdd29b8538df9f511aff184e144]
+#### 14. Deferred choice decision to be made by a person other than M[^c-c57e0cdd29b8538df9f511aff184e144]
 
 (1) This regulation applies where a person other than M is the deferred choice decision-maker.
 
@@ -398,7 +398,7 @@ the section 10 election period is treated as never having begun or ended (and, a
 
 (3) A deferred choice decision made by a person other than M is irrevocable.
 
-#### 15. Deferred choice decision: deemed section 10 election[^key-8d5d414800738bfdc8eb41f45f9dcb46]
+#### 15. Deferred choice decision: deemed section 10 election[^c-8d5d414800738bfdc8eb41f45f9dcb46]
 
 (1) This regulation applies where—
 
@@ -416,7 +416,7 @@ the section 10 election period is treated as never having begun or ended (and, a
 - “**monetary value of the remediable benefits**” means the amount that would be crystallised in relation to the remediable benefits immediately before they became payable in accordance with section 216 of the Finance Act 2004 as it had effect immediately before 1st October 2023;
 - “**remediable benefits**” means rights to benefits secured by virtue of M’s remediable teacher service.
 
-#### 16. Deferred choice decision: additional requirements[^key-f735b32ffeb34ce71443521318aaba3d]
+#### 16. Deferred choice decision: additional requirements[^c-f735b32ffeb34ce71443521318aaba3d]
 
 Where the deferred choice decision-maker (“**D**”) is a person other than the scheme manager, a deferred choice decision is to be treated as having been made only if D provides any information specified in a written request from the scheme manager that is—
 
@@ -429,7 +429,7 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
 
 #### SECTION 1 — Application and interpretation of Chapter 1
 
-##### 17. Application and interpretation of Chapter 1[^key-6e5374a60e6ead3681f1b80a3887d223]
+##### 17. Application and interpretation of Chapter 1[^c-6e5374a60e6ead3681f1b80a3887d223]
 
 (1) This Chapter applies in relation to—
 
@@ -463,7 +463,7 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
 
 #### SECTION 2 — Pension sharing orders: information provided before 1st October 2023
 
-##### 18. Application and interpretation of Section 2[^key-a7fd1e4f64271d0842118b706cc6e9d2]
+##### 18. Application and interpretation of Section 2[^c-a7fd1e4f64271d0842118b706cc6e9d2]
 
 (1) This Section applies where, before 1st October 2023, the scheme manager has provided information for the purpose of determining amounts under article 26 of WRPO 1999 in respect of a remedy member’s remediable teacher service.
 
@@ -482,7 +482,7 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
 
 (3) For the purposes of this Section, a relevant pension sharing order relates to mixed service if it specifies an appropriate amount in accordance with article 26(2) or (3) of WRPO 1999 by reference to the value of remediable relevant benefits to which D is entitled by virtue of remediable shareable rights secured in both D’s legacy scheme and the reformed scheme (and, accordingly, a relevant pension sharing order does not relate to mixed service if it specifies an appropriate amount by reference to remediable shareable rights secured in only one of those schemes).
 
-##### 19. Meaning of “alternative amount”[^key-1e5ff89c4599f7566ab3f6fe92ecb4a4]
+##### 19. Meaning of “alternative amount”[^c-1e5ff89c4599f7566ab3f6fe92ecb4a4]
 
 (1) “**Alternative amount**” means—
 
@@ -522,7 +522,7 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
   - (b) otherwise, the percentage value that is specified in relation to the alternative scheme;
 - “**tapered protection closing date**”, in relation to D, has the meaning given in paragraph 4 of Schedule 3 to the 2014 Regulations.
 
-##### 20. Information provided before 1st October 2023: calculating a remediable credit adjustment[^key-328e8141abab894d394a1745264ded1b]
+##### 20. Information provided before 1st October 2023: calculating a remediable credit adjustment[^c-328e8141abab894d394a1745264ded1b]
 
 (1) The scheme manager must determine the alternative amount in relation to C’s pension credit—
 
@@ -542,7 +542,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 - (b) any remediable credit adjustment, and
 - (c) where regulation 21(4)(b) applies in relation to C, an explanation of the request that may be in accordance with regulation 21(5) and the consequences of making, or not making, such a request.
 
-##### 21. Information provided before 1st October 2023: applying a remediable credit adjustment[^key-66b440451a4b897c52d462a17e08f66a]
+##### 21. Information provided before 1st October 2023: applying a remediable credit adjustment[^c-66b440451a4b897c52d462a17e08f66a]
 
 (1) This regulation applies where C’s pension account is subject to a remediable credit adjustment.
 
@@ -576,7 +576,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 - (b) a reference to the effect, if any, of sections 2(1) and 6(4) were a reference to the effect, if any, of this regulation;
 - (c) the term “**operative time**” means the time at which the adjustment mentioned in paragraph (2) is made (disregarding paragraph (3)).
 
-##### 22. Information provided before 1st October 2023: recalculating D’s reduction of benefit[^key-3bb98fda545bb5b5b04d50676d2c908b]
+##### 22. Information provided before 1st October 2023: recalculating D’s reduction of benefit[^c-3bb98fda545bb5b5b04d50676d2c908b]
 
 (1) This regulation applies where D’s remediable relevant benefits have been reduced by an initial reduction amount.
 
@@ -600,7 +600,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 
 #### SECTION 3 — Information provided on or after 1st October 2023
 
-##### 23. Application and interpretation of Section 3[^key-569dc4515989e44942edb82cae137fac]
+##### 23. Application and interpretation of Section 3[^c-569dc4515989e44942edb82cae137fac]
 
 (1) This Section applies where, on or after 1st October 2023, the scheme manager provides information for the purpose of determining amounts under article 26 of WRPO 1999 in respect of a remedy member’s remediable teacher service.
 
@@ -612,7 +612,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 - “**legacy scheme cash equivalent**” has the meaning given in regulation 24(2)(a);
 - “**reformed scheme cash equivalent**” has the meaning given in regulation 24(2)(b).
 
-##### 24. Information provided on or after 1st October 2023: calculation of pension credits and debits[^key-2bac4488b92ce92bc0fb1bac3dddd9e5]
+##### 24. Information provided on or after 1st October 2023: calculation of pension credits and debits[^c-2bac4488b92ce92bc0fb1bac3dddd9e5]
 
 (1) This regulation applies where D is—
 
@@ -631,7 +631,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 - (a) the legacy scheme cash equivalent, or
 - (b) the reformed scheme cash equivalent.
 
-##### 25. Information provided on or after 1st October 2023: recalculating D’s reduction of benefit[^key-54cbb480a46bcd0300bca7e4e32bef38]
+##### 25. Information provided on or after 1st October 2023: recalculating D’s reduction of benefit[^c-54cbb480a46bcd0300bca7e4e32bef38]
 
 (1) This regulation applies where D’s remediable relevant benefits are to be reduced in relation to a pension debit calculated under regulation 24(3).
 
@@ -650,7 +650,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 
 ### CHAPTER 2 — Arrangements on divorce, annulment or dissolution other than a pension sharing order
 
-#### 26. Arrangements other than a pension sharing order: calculating the value of pension benefits[^key-d26f2a92e890629b76f7af6e015ce8b0]
+#### 26. Arrangements other than a pension sharing order: calculating the value of pension benefits[^c-d26f2a92e890629b76f7af6e015ce8b0]
 
 (1) This regulation applies where—
 
@@ -680,7 +680,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 
 ### CHAPTER 1 — General
 
-#### 27. Interpretation of Part 5[^key-c83b46f1cb374116a823e666e8d4b063]
+#### 27. Interpretation of Part 5[^c-c83b46f1cb374116a823e666e8d4b063]
 
 In this Part—
 
@@ -702,7 +702,7 @@ In this Part—
   - (a) additional pension under the legacy scheme, or
   - (b) a reformed scheme flexibility.
 
-#### 28. Requirement to determine the value of flexibilities in a member’s alternative scheme[^key-11f324220cac8b82cd15258ad548524a]
+#### 28. Requirement to determine the value of flexibilities in a member’s alternative scheme[^c-11f324220cac8b82cd15258ad548524a]
 
 (1) The scheme manager must, as soon as is practicable after 1st October 2023, determine—
 
@@ -729,7 +729,7 @@ In this Part—
   - (i) the reformed scheme as if it was paid to the legacy scheme in the same relevant pension year in which it was paid to the reformed scheme;
   - (ii) the legacy scheme as if it was paid to the reformed scheme in the same relevant pension year in which it was paid to the legacy scheme.
 
-#### 29. Election in relation to remediable voluntary contributions[^key-505f57bff5c6fbb6912f6f9687d7d580]
+#### 29. Election in relation to remediable voluntary contributions[^c-505f57bff5c6fbb6912f6f9687d7d580]
 
 (1) This regulation applies where—
 
@@ -776,14 +776,14 @@ In this Part—
   - (a) where M is an immediate choice member, the immediate choice decision-maker in relation to M;
   - (b) where M is a deferred choice member, the deferred choice decision-maker in relation to M.
 
-#### 30. Disapplication of scheme regulations where rights are determined, varied or conferred[^key-899c800204ce5789dd529aa2429dd3fa]
+#### 30. Disapplication of scheme regulations where rights are determined, varied or conferred[^c-899c800204ce5789dd529aa2429dd3fa]
 
 Where rights, or the value of rights, are determined, varied or conferred under Chapter 2 or 3, the following do not apply in relation to those rights—
 
 - (a) any procedural requirement (such as the giving of a notice) imposed by the 1998 Regulations or the 2014 Regulations in connection with securing rights that are the same as, or similar to, the varied or conferred rights;
 - (b) any provision contained in the 1998 Regulations or the 2014 Regulations limiting the amount of additional pension, bought out standard reduction or faster accrual that may be secured in a particular period.
 
-#### 31. Variation of the period during which a buy-out election may be made[^key-0d3d795c3923cecb1767c4be7243fd2b]
+#### 31. Variation of the period during which a buy-out election may be made[^c-0d3d795c3923cecb1767c4be7243fd2b]
 
 (1) In relation to a relevant member, paragraph 29(4) of Schedule 2 to the 2014 Regulations is to be read as if for “after P enters pensionable service under this scheme” there were substituted “of the beginning of 1st October 2023”.
 
@@ -791,11 +791,11 @@ Where rights, or the value of rights, are determined, varied or conferred under 
 
 ### CHAPTER 2 — Immediate choice members
 
-#### 32. Application of Chapter 2[^key-5e0c0153b6b7249239d12ff4059e7347]
+#### 32. Application of Chapter 2[^c-5e0c0153b6b7249239d12ff4059e7347]
 
 This Chapter applies in relation to the remediable voluntary contributions of an immediate choice member (“**M**”).
 
-#### 33. Treatment of legacy scheme additional pension where reformed scheme benefits chosen[^key-aa5321cf61a02777e622c7f02b2a7e28]
+#### 33. Treatment of legacy scheme additional pension where reformed scheme benefits chosen[^c-aa5321cf61a02777e622c7f02b2a7e28]
 
 (1) This regulation applies where M has paid remediable voluntary contributions to secure additional pension under the legacy scheme.
 
@@ -818,7 +818,7 @@ the scheme manager must vary the value of additional pension secured under the l
 - (a) the scheme manager must pay to M or, if M is deceased, to M’s personal representatives an amount by way of compensation equal to the compensatable amount, and
 - (b) the rights that would have been secured by payment of the remediable contributions are extinguished.
 
-#### 34. Treatment of reformed scheme flexibilities where legacy scheme benefits take effect[^key-73f8e71e951365a35bc219811d63c666]
+#### 34. Treatment of reformed scheme flexibilities where legacy scheme benefits take effect[^c-73f8e71e951365a35bc219811d63c666]
 
 (1) This regulation applies where M has paid remediable voluntary contributions to secure a reformed scheme flexibility.
 
@@ -845,7 +845,7 @@ the scheme manager must confer the rights to alternative legacy scheme additiona
 
 the scheme manager owes to M or, where M is deceased, to M’s personal representatives an amount equal to the compensatable amount.
 
-#### 35. Treatment of scheme flexibilities in payment[^key-8695f437e0738a7f33ddbe2f4d083998]
+#### 35. Treatment of scheme flexibilities in payment[^c-8695f437e0738a7f33ddbe2f4d083998]
 
 (1) Paragraph (2) applies where—
 
@@ -869,19 +869,19 @@ the scheme manager owes to M or, where M is deceased, to M’s personal represen
 
 #### SECTION 1 — Application of Chapter 3
 
-##### 36. Application of Chapter 3[^key-ee84958fb5a1e564c85d2c09e1f6328c]
+##### 36. Application of Chapter 3[^c-ee84958fb5a1e564c85d2c09e1f6328c]
 
 This Chapter applies in relation to the remediable voluntary contributions of a deferred choice member (“**M**”).
 
 #### SECTION 2 — Provision about remediable voluntary contributions on the entry into force of section 2(1) of PSPJOA 2022
 
-##### 37. Application of Section 2[^key-58987628ab47103f1c2feb6bf1cee8ae]
+##### 37. Application of Section 2[^c-58987628ab47103f1c2feb6bf1cee8ae]
 
 (1) This Section applies where M has paid remediable voluntary contributions to secure a reformed scheme flexibility.
 
 (2) This Section applies separately in relation to each type of reformed scheme flexibility secured by M’s remediable voluntary contributions.
 
-##### 38. Treatment of rights to reformed scheme flexibilities on the entry into force of section 2(1) of PSPJOA 2022[^key-5c656e67c4d0067fe2cbd3586ecdbe6c]
+##### 38. Treatment of rights to reformed scheme flexibilities on the entry into force of section 2(1) of PSPJOA 2022[^c-5c656e67c4d0067fe2cbd3586ecdbe6c]
 
 (1) Paragraph (2) applies in relation to rights to reformed scheme flexibilities in respect of which—
 
@@ -902,7 +902,7 @@ This Chapter applies in relation to the remediable voluntary contributions of a 
 - (b) the rights to reformed scheme flexibilities mentioned in paragraph (3) are extinguished, and
 - (c) if the arrangement under which remediable voluntary contributions are paid to secure the reformed scheme flexibilities is continuing, that arrangement is terminated.
 
-##### 39. Agreement to waive payment of a compensatable amount[^key-8dd884586cc7ea8c2e003596163dbab9]
+##### 39. Agreement to waive payment of a compensatable amount[^c-8dd884586cc7ea8c2e003596163dbab9]
 
 (1) This regulation applies in relation to rights to reformed scheme flexibilities in respect of which an RVC election is made under regulation 29(5)(c).
 
@@ -926,7 +926,7 @@ This Chapter applies in relation to the remediable voluntary contributions of a 
 
 #### SECTION 3 — Provision about remediable voluntary contributions on a deferred choice decision
 
-##### 40. Variation of legacy scheme additional pension where reformed scheme benefits chosen[^key-a7a49e307b0f09f8fcf8f98303c1136c]
+##### 40. Variation of legacy scheme additional pension where reformed scheme benefits chosen[^c-a7a49e307b0f09f8fcf8f98303c1136c]
 
 (1) This regulation applies where M has paid remediable voluntary contributions to secure additional pension under the legacy scheme.
 
@@ -949,7 +949,7 @@ the scheme manager must vary the value of additional pension under the legacy sc
 - (a) the scheme manager must pay to M or, if M is deceased, to M’s personal representatives an amount by way of compensation equal to the compensatable amount, and
 - (b) the rights that would have been secured by payment of the remediable voluntary contributions are extinguished.
 
-##### 41. Reinstatement of reformed scheme flexibilities where reformed scheme benefits chosen[^key-2f7429003a74c8a8f3db116e3832d5a4]
+##### 41. Reinstatement of reformed scheme flexibilities where reformed scheme benefits chosen[^c-2f7429003a74c8a8f3db116e3832d5a4]
 
 (1) Paragraph (2) applies—
 
@@ -971,7 +971,7 @@ the scheme manager must vary the value of additional pension under the legacy sc
 - (a) the scheme manager must, having consulted the scheme actuary, confer rights under the legacy scheme that are equivalent to the extinguished rights mentioned in paragraph (3)(a), and
 - (b) the right to payment of the compensatable amount is extinguished.
 
-##### 42. Treatment of waived compensatable amount where legacy scheme benefits take effect[^key-a3ba5fca2cc2ca110557abc101a41804]
+##### 42. Treatment of waived compensatable amount where legacy scheme benefits take effect[^c-a3ba5fca2cc2ca110557abc101a41804]
 
 (1) This regulation applies where—
 
@@ -983,7 +983,7 @@ the scheme manager must vary the value of additional pension under the legacy sc
 
 ### CHAPTER 4 — Remediable arrangements to pay voluntary contributions to the legacy scheme
 
-#### 43. Remediable arrangements to pay voluntary contributions to secure legacy scheme additional pension[^key-c9cd220d412e00ffeb0fb683913242e3]
+#### 43. Remediable arrangements to pay voluntary contributions to secure legacy scheme additional pension[^c-c9cd220d412e00ffeb0fb683913242e3]
 
 (1) This regulation applies to a remedy member (“**M**”) who is not a deceased member.
 
@@ -1027,7 +1027,7 @@ the scheme manager must vary the value of additional pension under the legacy sc
 
 ### CHAPTER 1 — General
 
-#### 44. Interpretation of Part 6[^key-004fad65664cac7b2e6d366e85f5ba16]
+#### 44. Interpretation of Part 6[^c-004fad65664cac7b2e6d366e85f5ba16]
 
 (1) In this Part—
 
@@ -1055,7 +1055,7 @@ the scheme manager must vary the value of additional pension under the legacy sc
 - (a) the provisions of the teacher pension scheme which apply to the calculation of values of that type, and
 - (b) the guidance and tables provided by the scheme actuary for the purpose of calculating such values that were, or are, in use on the date used for the calculation of the value which originally secured rights under a teacher pension scheme.
 
-#### 45. Transferred out remediable service statements[^key-ce73150cafe3a44cea73fd7e4a4eb3f1]
+#### 45. Transferred out remediable service statements[^c-ce73150cafe3a44cea73fd7e4a4eb3f1]
 
 Where a remedy member has transferred any rights in respect of remediable service out of a teacher pension scheme, the scheme manager must provide a transferred out remediable service statement in accordance with direction 6(2) to (4) of the PSP(NI) Directions 2023 (and direction 6(4) applies as if the reference to “any provision made by virtue of section 29(1) of PSPJOA 2022” were a reference to regulation 4).
 
@@ -1063,7 +1063,7 @@ Where a remedy member has transferred any rights in respect of remediable servic
 
 #### SECTION 1 — Transfers before 1st October 2023
 
-##### 46. Transfers out before 1st October 2023[^key-77f2d89f5ba187f3ae3c4774d1a00837]
+##### 46. Transfers out before 1st October 2023[^c-77f2d89f5ba187f3ae3c4774d1a00837]
 
 (1) This regulation applies in relation to each member (“**M**”) in respect of whom the scheme manager paid a remediable transfer value before 1st October 2023.
 
@@ -1095,7 +1095,7 @@ the scheme manager owes M or, where M is deceased, M’s personal representative
 - (a) would be a payment described in regulation 6 of the Registered Pension Schemes (Authorised Payments) Regulations 2009[^f00018] (“**the 2009 Regulations**”) as if regulation 6(1)(a) of those Regulations were omitted, the compensatable amount is to be reduced by the amount equal to the income tax that would be chargeable on it as if regulation 3(b) of the 2009 Regulations applied to it;
 - (b) would not be a payment so described, the compensatable amount is to be reduced by an amount equal to the income tax that would be charged on the amount if it were taxed as pension income under Part 9 of the Income Tax (Earnings and Pensions) Act 2003[^f00019].
 
-##### 47. Transfers in before 1st October 2023[^key-552f076223f9325ca5743c4ec991e6cf]
+##### 47. Transfers in before 1st October 2023[^c-552f076223f9325ca5743c4ec991e6cf]
 
 (1) This regulation applies in relation to each payment of a remediable transfer value in respect of a member (“**M**”) which was accepted by the scheme manager before 1st October 2023.
 
@@ -1113,11 +1113,11 @@ the scheme manager owes M or, where M is deceased, M’s personal representative
 
 #### SECTION 2 — Transfers on or after 1st October 2023
 
-##### 48. Application of Section 2[^key-c4f373d5e7f61fd06fd30bbeae61a009]
+##### 48. Application of Section 2[^c-c4f373d5e7f61fd06fd30bbeae61a009]
 
 This Section applies in respect of a deferred choice member (“**M**”) where no pension benefits have become payable in relation to M’s remediable teacher service.
 
-##### 49. Transfers out on or after 1st October 2023[^key-5cf57080def9fd05fc8e0e769d74963d]
+##### 49. Transfers out on or after 1st October 2023[^c-5cf57080def9fd05fc8e0e769d74963d]
 
 (1) This regulation applies to a remediable transfer value paid in relation to M by the scheme manager on or after 1st October 2023.
 
@@ -1132,7 +1132,7 @@ This Section applies in respect of a deferred choice member (“**M**”) where 
 
 #### SECTION 1 — Club transfers before 1st October 2023
 
-##### 50. Club transfers out before 1st October 2023[^key-e878cee49227cf09fb039fcbd4dce38e]
+##### 50. Club transfers out before 1st October 2023[^c-e878cee49227cf09fb039fcbd4dce38e]
 
 (1) This regulation applies in relation to each member (“**M**”) in respect of whom the scheme manager paid a remediable club transfer value before 1st October 2023.
 
@@ -1152,7 +1152,7 @@ the scheme manager must pay the receiving scheme an amount equal to *x* – *y*.
 
 (5) A payment made under paragraph (4) is subject to the same conditions as the remediable club transfer value.
 
-##### 51. Club transfers in before 1st October 2023[^key-de57e1980df3a22c117020f00f3479c8]
+##### 51. Club transfers in before 1st October 2023[^c-de57e1980df3a22c117020f00f3479c8]
 
 (1) This regulation applies in relation to each remediable club transfer payment value in respect of a member (“**M**”) which was accepted by the scheme manager before 1st October 2023.
 
@@ -1170,11 +1170,11 @@ the scheme manager must pay the receiving scheme an amount equal to *x* – *y*.
 
 #### SECTION 2 — Club transfers on or after 1st October 2023
 
-##### 52. Application of Section 2[^key-31710d45844f8e1a3d1642bf6dc0979e]
+##### 52. Application of Section 2[^c-31710d45844f8e1a3d1642bf6dc0979e]
 
 This Section applies in respect of a member (“**M**”) who is a deferred choice member, and no pension benefits have become payable in relation to M’s remediable teacher service.
 
-##### 53. Club transfers out on or after 1st October 2023[^key-98493b590dc3cde776f005849d37110c]
+##### 53. Club transfers out on or after 1st October 2023[^c-98493b590dc3cde776f005849d37110c]
 
 (1) This regulation applies in relation to a remediable club transfer value payment to be made by the scheme manager on or after 1st October 2023.
 
@@ -1187,7 +1187,7 @@ This Section applies in respect of a member (“**M**”) who is a deferred choi
 
 (4) The scheme manager must provide to the receiving scheme the result of the calculations mentioned in paragraph (2).
 
-##### 54. Club transfers in on or after 1st October 2023[^key-24efa971ebfd746f847e4252d0b0a77f]
+##### 54. Club transfers in on or after 1st October 2023[^c-24efa971ebfd746f847e4252d0b0a77f]
 
 (1) This regulation applies in relation to a remediable club transfer value payment which is accepted by the scheme manager on or after 1st October 2023.
 
@@ -1198,13 +1198,13 @@ This Section applies in respect of a member (“**M**”) who is a deferred choi
 
 ### CHAPTER 4 — Variation of transfer application periods
 
-#### 55. Variation of transfer application periods[^key-c1608b0a9017909d839ad6cc09730742]
+#### 55. Variation of transfer application periods[^c-c1608b0a9017909d839ad6cc09730742]
 
 Regulations 204(2)(a) and 212(2)(a) of the 2014 Regulations apply in relation to the relevant remediable teacher service of a relevant member as if, in each of those provisions, for “after the day on which P enters pensionable service under this scheme” there were substituted “from 1st October 2023”.
 
 ### CHAPTER 5 — Treatment of rights secured by virtue of a remediable value
 
-#### 56. Application and interpretation of Chapter 5[^key-82abc9711232912e4dd2ffb5ff936d27]
+#### 56. Application and interpretation of Chapter 5[^c-82abc9711232912e4dd2ffb5ff936d27]
 
 (1) This Chapter applies in relation to the following accepted by the scheme manager in respect of a member (“**M**”)—
 
@@ -1213,7 +1213,7 @@ Regulations 204(2)(a) and 212(2)(a) of the 2014 Regulations apply in relation to
 
 (2) In this Chapter, “**transferred in remediable rights**” means M’s remediable rights in a teacher pension scheme secured by virtue of a remediable value together with any payment or, as the case may be, adjustment under regulation 47(3) or 51(2).
 
-#### 57. Transferred in remediable rights treated as being in the legacy scheme[^key-80f27d0cd3ede3323c3fdfc8cfa8b714]
+#### 57. Transferred in remediable rights treated as being in the legacy scheme[^c-80f27d0cd3ede3323c3fdfc8cfa8b714]
 
 (1) Where M’s transferred in remediable rights would, apart from this regulation, be rights to benefits under the reformed scheme, the rights—
 
@@ -1225,7 +1225,7 @@ Regulations 204(2)(a) and 212(2)(a) of the 2014 Regulations apply in relation to
 - (a) for the purposes of determining which teachers’ pension scheme is (or at any time was) required to pay benefits to or in respect of M’s transferred remediable rights, and
 - (b) subject to regulation 58, for all other purposes.
 
-#### 58. Varying the value of benefits secured by virtue of transferred in remediable rights[^key-4bde4b26a884b3c5abd4adf36b7b89a2]
+#### 58. Varying the value of benefits secured by virtue of transferred in remediable rights[^c-4bde4b26a884b3c5abd4adf36b7b89a2]
 
 (1) Where—
 
@@ -1266,7 +1266,7 @@ the scheme manager must vary the value of those rights so that they are of an eq
 
 (8) In paragraph (7), “**relevant pension year**” has the meaning given by direction 4(14)(f) of the PSP(NI) Directions 2023.
 
-#### 59. Benefits already paid in relation to transferred in remediable rights[^key-bd8bdce45efe1711543267a20e398f70]
+#### 59. Benefits already paid in relation to transferred in remediable rights[^c-bd8bdce45efe1711543267a20e398f70]
 
 (1) Paragraph (2) applies in relation to any benefits (“the paid benefits”) that the reformed scheme has at any time paid to a person (“**P**”) so far as—
 
@@ -1278,7 +1278,7 @@ the scheme manager must vary the value of those rights so that they are of an eq
 - (a) as not having been paid to P by the reformed scheme, but
 - (b) as having been paid to P instead by the legacy scheme.
 
-#### 60. Pension benefits and lump sum benefits in relation to transferred in remediable rights[^key-54a90e9758183567d12294faba8dc12b]
+#### 60. Pension benefits and lump sum benefits in relation to transferred in remediable rights[^c-54a90e9758183567d12294faba8dc12b]
 
 (1) This regulation applies—
 
@@ -1303,7 +1303,7 @@ the beneficiary must pay an amount equal to the difference to the scheme.
 
 ### CHAPTER 1 — Ill-health retirement
 
-#### 61. Interpretation of Chapter 2[^key-db38960650e57ad069ec4156e193b267]
+#### 61. Interpretation of Chapter 2[^c-db38960650e57ad069ec4156e193b267]
 
 (1) In this Chapter—
 
@@ -1320,7 +1320,7 @@ the beneficiary must pay an amount equal to the difference to the scheme.
 - (a) it has been determined that the member in respect of whom the application is made meets the ill-health retirement criteria of that scheme, or
 - (b) it has been determined that the member does not meet the ill-health retirement criteria of that scheme, and any route for disputing that determination has been exhausted (including where any deadline for initiating a dispute has passed and no dispute has been initiated).
 
-#### 62. Determining whether a member meets the ill-health retirement criteria in each scheme[^key-6325511ed30e104aa149082af9d6a65b]
+#### 62. Determining whether a member meets the ill-health retirement criteria in each scheme[^c-6325511ed30e104aa149082af9d6a65b]
 
 (1) Paragraph (2) applies where, during the period beginning on 1st April 2015 and ending at the end of 30th September 2023, an application by a remedy member (“**M**”) for ill-health retirement benefits was finally determined.
 
@@ -1350,7 +1350,7 @@ the beneficiary must pay an amount equal to the difference to the scheme.
 - (a) whether M would have met the ill-health retirement criteria in the legacy scheme if the application had been determined on 31st March 2022, and
 - (b) whether M meets the ill-health retirement criteria in the reformed scheme.
 
-#### 63. Provisions about ill-health retirement benefits following reassessment[^key-e6402bfdabd7a772917bb04350dcf065]
+#### 63. Provisions about ill-health retirement benefits following reassessment[^c-e6402bfdabd7a772917bb04350dcf065]
 
 (1) This regulation applies where—
 
@@ -1388,7 +1388,7 @@ M is to be treated as if the immediate IHR election had not been made (and no su
 
 (7) The provisions of Chapter 1 of PSPJOA 2022 and of these Regulations about the timing and effect of, as the case may be, a deferred choice decision and a section 10 election apply subject to this regulation.
 
-#### 64. Ill-health retirement benefit payable in transitional cases[^key-123ae8aa60793c03157b9065bb475dc3]
+#### 64. Ill-health retirement benefit payable in transitional cases[^c-123ae8aa60793c03157b9065bb475dc3]
 
 (1) This regulation applies where—
 
@@ -1424,7 +1424,7 @@ an amount is payable to P under the reformed scheme which is equal to the differ
 
 ### CHAPTER 2 — Miscellaneous special cases
 
-#### 65. Protection of the amount of pension payable to an eligible child[^key-2f5ee3af21c0eeb67f59f204d32f7a7d]
+#### 65. Protection of the amount of pension payable to an eligible child[^c-2f5ee3af21c0eeb67f59f204d32f7a7d]
 
 (1) This regulation applies where—
 
@@ -1438,11 +1438,11 @@ an amount is payable to P under the reformed scheme which is equal to the differ
 - (a) E does not owe the scheme manager a liability under section 14(3) of PSPJOA 2022 in respect of the child pension, and
 - (b) the rate of child pension continues to be the rate that was payable before the decision was made.
 
-#### 66. Premature retirement[^key-02be1acf30297b513517692850609639]
+#### 66. Premature retirement[^c-02be1acf30297b513517692850609639]
 
 No annual compensation or lump sum compensation to which M is eligible under regulation 7 of the Teachers (Compensation for Redundancy and Premature Retirement) Regulations (Northern Ireland) 2010[^f00020] is to be treated as a pension benefit or a lump sum benefit for the purposes of PSPJOA 2022 or these Regulations.
 
-#### 67. Payment of annual allowance tax charges and provision of information[^key-fbb5267d1af62e8b888b4b2e9e4e1a8f]
+#### 67. Payment of annual allowance tax charges and provision of information[^c-fbb5267d1af62e8b888b4b2e9e4e1a8f]
 
 Where a remedy member is unable to give an effective notice to the scheme administrator under section 237B(3) of FA 2004[^f00021] in relation to an in-scope tax year (within the meaning of direction 7(7) of the PSP(NI) Directions 2023) because the time limit in section 237BA[^f00022] has passed, direction 7(2) to (6) of the PSP(NI) Directions 2023 applies in relation to the remedy member.
 
@@ -1450,13 +1450,13 @@ Where a remedy member is unable to give an effective notice to the scheme admini
 
 ### CHAPTER 1 — Application of Part 8
 
-#### 68. Application of Part 8[^key-7f101144329a63013e230b2c7c19f12e]
+#### 68. Application of Part 8[^c-7f101144329a63013e230b2c7c19f12e]
 
 This Part applies in relation to a relevant amount[^f00023] owed in respect of the remediable teacher service of a remedy member.
 
 ### CHAPTER 2 — Interest, compensation and netting off
 
-#### 69. Interest[^key-296a2d3b76f3eb4fe6f4f8771b1c7195]
+#### 69. Interest[^c-296a2d3b76f3eb4fe6f4f8771b1c7195]
 
 (1) The scheme manager must calculate interest on a relevant amount described in direction 15 of the PSP(NI) Directions 2023 in accordance with the provisions of directions 14 and 15 which apply to that description of relevant amount.
 
@@ -1467,7 +1467,7 @@ This Part applies in relation to a relevant amount[^f00023] owed in respect of t
 - (a) direction 16(2) (provision of explanation);
 - (b) direction 16(3) and (4) (appeals).
 
-#### 70. Indirect compensation[^key-c66ade50a3ae9ae7c286811ad890b2b9]
+#### 70. Indirect compensation[^c-c66ade50a3ae9ae7c286811ad890b2b9]
 
 (1) This regulation applies where—
 
@@ -1480,7 +1480,7 @@ This Part applies in relation to a relevant amount[^f00023] owed in respect of t
 
 (3) Instead, the amount of benefit payable under a teacher pension scheme is to be increased to reflect the amount of the relevant loss in such manner as determined by the scheme manager in accordance with direction 10(2) to (4) of the PSP(NI) Directions 2023.
 
-#### 71. Applications for compensation or indirect compensation[^key-af82a98c7d9f8b3e254239f3669de2f3]
+#### 71. Applications for compensation or indirect compensation[^c-af82a98c7d9f8b3e254239f3669de2f3]
 
 (1) This regulation applies in relation to —
 
@@ -1500,7 +1500,7 @@ This Part applies in relation to a relevant amount[^f00023] owed in respect of t
 - (a) direction 18(4) (provision of explanation);
 - (b) direction 18(5) and (6) (appeals).
 
-#### 72. Netting off[^key-cfd896b30c82cc9e867a258961fae558]
+#### 72. Netting off[^c-cfd896b30c82cc9e867a258961fae558]
 
 (1) This regulation applies where—
 
@@ -1518,7 +1518,7 @@ This Part applies in relation to a relevant amount[^f00023] owed in respect of t
 
 ### CHAPTER 3 — Reduction and waiver of liabilities
 
-#### 73. Requirement to reduce liabilities by tax relief amounts[^key-f176db198451b35ac9d00d9528b0bf94]
+#### 73. Requirement to reduce liabilities by tax relief amounts[^c-f176db198451b35ac9d00d9528b0bf94]
 
 (1) This regulation applies where—
 
@@ -1537,7 +1537,7 @@ under section 15, 16 or 17 of PSPJOA 2022.
 - (a) direction 4(10) (provision of explanation);
 - (b) direction 4(11) and (12) (appeals).
 
-#### 74. Power to reduce or waive amounts owed by a person to the scheme manager[^key-838682b719c45e602eaeeaa56a8eca4a]
+#### 74. Power to reduce or waive amounts owed by a person to the scheme manager[^c-838682b719c45e602eaeeaa56a8eca4a]
 
 (1) The scheme manager may reduce or waive an amount owed by a person to the scheme under
 
@@ -1546,7 +1546,7 @@ under section 15, 16 or 17 of PSPJOA 2022.
 
 (2) When reducing or waiving an amount under paragraph (1), the scheme manager must comply with the requirements set out in direction 4(1)(a) to (c) of the PSPJOA Directions 2022 (and the reference in direction 4(1)(c) to “any scheme regulations made by virtue of section 26(1)(b) of PSPJOA 2022” is to be read as a reference to regulation 77.
 
-#### 75. Agreement to waive a liability owed by the scheme manager in respect of an immediate correction[^key-8d78b314723cfcfb611af8ab73372ee0]
+#### 75. Agreement to waive a liability owed by the scheme manager in respect of an immediate correction[^c-8d78b314723cfcfb611af8ab73372ee0]
 
 (1) This regulation applies where the scheme manager owes a liability to pay compensation to a person (“**P**”) under section 16(3) of PSPJOA 2022.
 
@@ -1567,11 +1567,11 @@ under section 15, 16 or 17 of PSPJOA 2022.
 
 ### CHAPTER 4 — Payment of net liabilities
 
-#### 76. Application of Chapter 4[^key-d09247bbde5b21c9cde58c4f56944da6]
+#### 76. Application of Chapter 4[^c-d09247bbde5b21c9cde58c4f56944da6]
 
 This Chapter applies in respect of a relevant amount (together with any interest on that relevant amount) owed after taking into account the effect, if any, of regulations 69 to 75 (a “net liability”).
 
-#### 77. Payment of amounts owed to the scheme manager[^key-f7eba6c4b03498cf5985197a6a1e8727]
+#### 77. Payment of amounts owed to the scheme manager[^c-f7eba6c4b03498cf5985197a6a1e8727]
 
 (1) This regulation applies where a person (“**P**”) has a net liability to the scheme manager within the meaning of regulation 76.
 
@@ -1606,7 +1606,7 @@ the scheme manager must send another notice in writing to P under paragraph (2).
 
 (8) P has no liability to pay any amount on account of the net liability until the time for payment arises in accordance with this regulation or an agreement under this regulation, and until that time the scheme manager has no cause of action for the recovery of any such amount (whether for the purposes of the Limitation (Northern Ireland) Order 1989[^f00027] or otherwise).
 
-#### 78. Payment of amounts owed to a person[^key-63a8d06bee3ecdbf5e6fa54d3c68297f]
+#### 78. Payment of amounts owed to a person[^c-63a8d06bee3ecdbf5e6fa54d3c68297f]
 
 (1) This regulation applies where the scheme manager owes a net liability to a person (“**P**”).
 
@@ -1642,7 +1642,7 @@ A senior officer of the Department of Finance
 
 Regulations 4(3), 6(2), 8(2) and 12(2)
 
-### 1. Interpretation[^key-1c5d3d7c13046bb1e08b56ea20a5045a]
+### 1. Interpretation[^c-1c5d3d7c13046bb1e08b56ea20a5045a]
 
 (1) In this Schedule—
 
@@ -1661,7 +1661,7 @@ Regulations 4(3), 6(2), 8(2) and 12(2)
 - (b) an eligible child is a reference to an eligible child of M;
 - (c) a surviving adult is a reference to a surviving adult in relation to M.
 
-### 2. Sole beneficiary: an adult[^key-f51b2c01aef6d836c982fc9a83c9788b]
+### 2. Sole beneficiary: an adult[^c-f51b2c01aef6d836c982fc9a83c9788b]
 
 Where a person is—
 
@@ -1670,7 +1670,7 @@ Where a person is—
 
 the eligible decision-maker is that person.
 
-### 3. Sole beneficiary: a child[^key-81aef0a6e9e86fa688cb919ea0e79a01]
+### 3. Sole beneficiary: a child[^c-81aef0a6e9e86fa688cb919ea0e79a01]
 
 Where a person (“**C**”) is—
 
@@ -1679,11 +1679,11 @@ Where a person (“**C**”) is—
 
 the eligible decision-maker is C’s guardian.
 
-### 4. Sole beneficiary: M’s estate[^key-5178b3a9162dba4e0458ca5cc7798e44]
+### 4. Sole beneficiary: M’s estate[^c-5178b3a9162dba4e0458ca5cc7798e44]
 
 Where M’s estate is the sole beneficiary, the eligible decision-maker is M’s personal representative.
 
-### 5. Multiple beneficiaries: including a surviving adult[^key-c8522b8e3b1b29b7aa3e7d604b2c6571]
+### 5. Multiple beneficiaries: including a surviving adult[^c-c8522b8e3b1b29b7aa3e7d604b2c6571]
 
 Where—
 
@@ -1692,7 +1692,7 @@ Where—
 
 the eligible decision-maker is A.
 
-### 6. Multiple beneficiaries: including adult eligible children[^key-c720057fad1da6d222abdd97f8e2f87e]
+### 6. Multiple beneficiaries: including adult eligible children[^c-c720057fad1da6d222abdd97f8e2f87e]
 
 (1) Where—
 
@@ -1707,7 +1707,7 @@ the eligible decision-maker is determined in accordance with sub-paragraph (2).
 - (a) the person agreed upon by the adult eligible children, or
 - (b) where no decision about whether to make an election has been received by the scheme manager by the day four weeks before an election must, in accordance with these Regulations, be received by the scheme manager, the scheme manager.
 
-### 7. Multiple beneficiaries: nominated individuals only[^key-d21a141e839c0eec6517bbb8a2050b75]
+### 7. Multiple beneficiaries: nominated individuals only[^c-d21a141e839c0eec6517bbb8a2050b75]
 
 (1) Where—
 
@@ -1728,7 +1728,7 @@ the eligible decision-maker is determined in accordance with sub-paragraph (2).
 
   the scheme manager.
 
-### 8. Multiple beneficiaries: non-adult eligible children[^key-90efa754e6f72b3bed5c9cb7c1bcc9c7]
+### 8. Multiple beneficiaries: non-adult eligible children[^c-90efa754e6f72b3bed5c9cb7c1bcc9c7]
 
 Where the only beneficiaries are children, two or more of which are eligible children, the eligible decision-maker is—
 
@@ -1737,7 +1737,7 @@ Where the only beneficiaries are children, two or more of which are eligible chi
   - (i) M’s personal representative, or
   - (ii) where M has no personal representative, the scheme manager.
 
-### 9. Multiple beneficiaries: nominated children only[^key-201e2685d8193983465b889c470fa717]
+### 9. Multiple beneficiaries: nominated children only[^c-201e2685d8193983465b889c470fa717]
 
 Where the only beneficiaries of lump sum death benefits are two or more children who are not eligible children, the eligible decision-maker is—
 
@@ -1746,7 +1746,7 @@ Where the only beneficiaries of lump sum death benefits are two or more children
   - (i) M’s personal representative, or
   - (ii) where M has no personal representative, the scheme manager.
 
-### 10. Multiple beneficiaries: one or more adults and one or more children[^key-9b57463c2387d6457fc18316dc356abb]
+### 10. Multiple beneficiaries: one or more adults and one or more children[^c-9b57463c2387d6457fc18316dc356abb]
 
 (1) Where the beneficiaries include one or more adults and one or more children—
 
@@ -1778,7 +1778,7 @@ Where the only beneficiaries of lump sum death benefits are two or more children
   - (i) has never married or formed a civil partnership, and
   - (ii) meets any of conditions 1, 2 or 3 as set out in regulation 137(2), (3) and (4) of the 2014 Regulations.
 
-### 11. Other cases[^key-940f45fbdc740bc1dde1bc7295816e87]
+### 11. Other cases[^c-940f45fbdc740bc1dde1bc7295816e87]
 
 In any case not covered by paragraphs 2 to 10, the eligible decision-maker is the scheme manager.
 
@@ -1843,9 +1843,9 @@ An impact assessment has not been completed for these Regulations. An Explanator
 
 [^f00002]: Footnote: [2022 c. 7](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-31d3fa19d0a59b830cc5116c8e9b70c5]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-31d3fa19d0a59b830cc5116c8e9b70c5]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-57ba7a6a78714517863860b44b32b679]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-57ba7a6a78714517863860b44b32b679]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1998 No 333](https://www.legislation.gov.uk/nisr/1998/333)
 
@@ -1859,214 +1859,214 @@ An impact assessment has not been completed for these Regulations. An Explanator
 
 [^f00008]: Footnote: [1954 c 33. (N.I)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-d9f5bca3a74f4684446c2d6b4ffd86b8]: Commencement: Reg. 3 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-d9f5bca3a74f4684446c2d6b4ffd86b8]: Commencement: Reg. 3 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-7bee7779c4ccba5e69c3b5cee7847d6a]: Commencement: Reg. 4 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-7bee7779c4ccba5e69c3b5cee7847d6a]: Commencement: Reg. 4 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00009]: Footnote: See section 29(10) of PSPJOA 2022 for the meaning of “the relevant date”.
 
 [^f00010]: Footnote: In accordance with section 29(9) of PSPJOA 2022, only one request under regulation 3(2)(b)(ii) may be made during any period of 12 months.
 
-[^key-877b7c8da1e2d9928f1c78df2229b26c]: Commencement: Reg. 5 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-877b7c8da1e2d9928f1c78df2229b26c]: Commencement: Reg. 5 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00011]: Footnote: See section 36 of PSPJOA 2022 for the meaning of “opted-out service”.
 
-[^key-5a00090f7d76870cfd5fb54561d83d1d]: Commencement: Reg. 6 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-5a00090f7d76870cfd5fb54561d83d1d]: Commencement: Reg. 6 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00012]: Footnote: See section 25(8) of PSPJOA 2022 for the meaning of “non-discrimination rule” and section 25(9) for the circumstances in which breach of a non-discrimination rule is “relevant”.
 
-[^key-528ec3ceffcfc21252743b727ca05f15]: Commencement: Reg. 7 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-528ec3ceffcfc21252743b727ca05f15]: Commencement: Reg. 7 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-a27d71f7fc68903270a82f5cbfaed2fe]: Commencement: Reg. 8 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-a27d71f7fc68903270a82f5cbfaed2fe]: Commencement: Reg. 8 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00013]: Footnote: See section 7(2) of PSPJOA 2022 for the meaning of “the end of the section 6 election period”.
 
-[^key-6677dd7e5f2b8a6bd41b3820c15f55fa]: Commencement: Reg. 9 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-6677dd7e5f2b8a6bd41b3820c15f55fa]: Commencement: Reg. 9 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-933fd338d8f319cc01065ab30c46d32c]: Commencement: Reg. 10 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-933fd338d8f319cc01065ab30c46d32c]: Commencement: Reg. 10 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00014]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Section 216 was amended by paragraphs 31 and 42 of Schedule 10 to the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7); paragraph 30 of Schedule 23 to the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25); paragraphs 1(3) and 5 of Schedule 29 to the Finance Act [2008 (c. 8)](https://www.legislation.gov.uk/ukpga/2008/8); paragraphs 43 and 73(2) and (3)(a) and (b) of Schedule 16 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11); paragraph 16 of Schedule 1, and paragraph 21 of Schedule 2, to the Taxation of Pensions Act [2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30); paragraph 4(2) and (3) of Schedule 4 to the Finance Act [2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11); and paragraph 10(2)(a) and (b) of Schedule 5 to the Finance Act [2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26).
 
-[^key-6ff325cd2ef13e535cf0777029381648]: Commencement: Reg. 11 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-6ff325cd2ef13e535cf0777029381648]: Commencement: Reg. 11 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-48c8e8f4157d1636bbe0e68a338509ad]: Commencement: Reg. 12 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-48c8e8f4157d1636bbe0e68a338509ad]: Commencement: Reg. 12 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-db1597009a4ebc44bc7a0011287efd3a]: Commencement: Reg. 13 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-db1597009a4ebc44bc7a0011287efd3a]: Commencement: Reg. 13 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-c57e0cdd29b8538df9f511aff184e144]: Commencement: Reg. 14 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-c57e0cdd29b8538df9f511aff184e144]: Commencement: Reg. 14 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-8d5d414800738bfdc8eb41f45f9dcb46]: Commencement: Reg. 15 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-8d5d414800738bfdc8eb41f45f9dcb46]: Commencement: Reg. 15 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-f735b32ffeb34ce71443521318aaba3d]: Commencement: Reg. 16 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-f735b32ffeb34ce71443521318aaba3d]: Commencement: Reg. 16 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-6e5374a60e6ead3681f1b80a3887d223]: Commencement: Reg. 17 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-6e5374a60e6ead3681f1b80a3887d223]: Commencement: Reg. 17 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00015]: Footnote: See section 19(7) of PSPJOA 2022 for the meanings of “pension debit” and “pension credit”.
 
-[^key-a7fd1e4f64271d0842118b706cc6e9d2]: Commencement: Reg. 18 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-a7fd1e4f64271d0842118b706cc6e9d2]: Commencement: Reg. 18 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-1e5ff89c4599f7566ab3f6fe92ecb4a4]: Commencement: Reg. 19 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-1e5ff89c4599f7566ab3f6fe92ecb4a4]: Commencement: Reg. 19 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-328e8141abab894d394a1745264ded1b]: Commencement: Reg. 20 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-328e8141abab894d394a1745264ded1b]: Commencement: Reg. 20 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-66b440451a4b897c52d462a17e08f66a]: Commencement: Reg. 21 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-66b440451a4b897c52d462a17e08f66a]: Commencement: Reg. 21 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-3bb98fda545bb5b5b04d50676d2c908b]: Commencement: Reg. 22 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-3bb98fda545bb5b5b04d50676d2c908b]: Commencement: Reg. 22 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-569dc4515989e44942edb82cae137fac]: Commencement: Reg. 23 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-569dc4515989e44942edb82cae137fac]: Commencement: Reg. 23 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-2bac4488b92ce92bc0fb1bac3dddd9e5]: Commencement: Reg. 24 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-2bac4488b92ce92bc0fb1bac3dddd9e5]: Commencement: Reg. 24 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-54cbb480a46bcd0300bca7e4e32bef38]: Commencement: Reg. 25 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-54cbb480a46bcd0300bca7e4e32bef38]: Commencement: Reg. 25 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-d26f2a92e890629b76f7af6e015ce8b0]: Commencement: Reg. 26 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-d26f2a92e890629b76f7af6e015ce8b0]: Commencement: Reg. 26 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-c83b46f1cb374116a823e666e8d4b063]: Commencement: Reg. 27 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-c83b46f1cb374116a823e666e8d4b063]: Commencement: Reg. 27 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00016]: Footnote: See section 110(1) of PSPJOA 2022 for the meaning of “voluntary contributions”.
 
-[^key-11f324220cac8b82cd15258ad548524a]: Commencement: Reg. 28 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-11f324220cac8b82cd15258ad548524a]: Commencement: Reg. 28 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-505f57bff5c6fbb6912f6f9687d7d580]: Commencement: Reg. 29 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-505f57bff5c6fbb6912f6f9687d7d580]: Commencement: Reg. 29 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-899c800204ce5789dd529aa2429dd3fa]: Commencement: Reg. 30 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-899c800204ce5789dd529aa2429dd3fa]: Commencement: Reg. 30 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-0d3d795c3923cecb1767c4be7243fd2b]: Commencement: Reg. 31 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-0d3d795c3923cecb1767c4be7243fd2b]: Commencement: Reg. 31 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-5e0c0153b6b7249239d12ff4059e7347]: Commencement: Reg. 32 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-5e0c0153b6b7249239d12ff4059e7347]: Commencement: Reg. 32 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-aa5321cf61a02777e622c7f02b2a7e28]: Commencement: Reg. 33 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-aa5321cf61a02777e622c7f02b2a7e28]: Commencement: Reg. 33 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-73f8e71e951365a35bc219811d63c666]: Commencement: Reg. 34 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-73f8e71e951365a35bc219811d63c666]: Commencement: Reg. 34 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-8695f437e0738a7f33ddbe2f4d083998]: Commencement: Reg. 35 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-8695f437e0738a7f33ddbe2f4d083998]: Commencement: Reg. 35 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-ee84958fb5a1e564c85d2c09e1f6328c]: Commencement: Reg. 36 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-ee84958fb5a1e564c85d2c09e1f6328c]: Commencement: Reg. 36 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-58987628ab47103f1c2feb6bf1cee8ae]: Commencement: Reg. 37 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-58987628ab47103f1c2feb6bf1cee8ae]: Commencement: Reg. 37 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-5c656e67c4d0067fe2cbd3586ecdbe6c]: Commencement: Reg. 38 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-5c656e67c4d0067fe2cbd3586ecdbe6c]: Commencement: Reg. 38 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-8dd884586cc7ea8c2e003596163dbab9]: Commencement: Reg. 39 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-8dd884586cc7ea8c2e003596163dbab9]: Commencement: Reg. 39 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-a7a49e307b0f09f8fcf8f98303c1136c]: Commencement: Reg. 40 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-a7a49e307b0f09f8fcf8f98303c1136c]: Commencement: Reg. 40 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-2f7429003a74c8a8f3db116e3832d5a4]: Commencement: Reg. 41 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-2f7429003a74c8a8f3db116e3832d5a4]: Commencement: Reg. 41 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-a3ba5fca2cc2ca110557abc101a41804]: Commencement: Reg. 42 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-a3ba5fca2cc2ca110557abc101a41804]: Commencement: Reg. 42 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-c9cd220d412e00ffeb0fb683913242e3]: Commencement: Reg. 43 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-c9cd220d412e00ffeb0fb683913242e3]: Commencement: Reg. 43 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-004fad65664cac7b2e6d366e85f5ba16]: Commencement: Reg. 44 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-004fad65664cac7b2e6d366e85f5ba16]: Commencement: Reg. 44 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00017]: Footnote: See section 33 of PSPJOA 2022 for the meaning of “Chapter 1 scheme”.
 
-[^key-ce73150cafe3a44cea73fd7e4a4eb3f1]: Commencement: Reg. 45 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-ce73150cafe3a44cea73fd7e4a4eb3f1]: Commencement: Reg. 45 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-77f2d89f5ba187f3ae3c4774d1a00837]: Commencement: Reg. 46 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-77f2d89f5ba187f3ae3c4774d1a00837]: Commencement: Reg. 46 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00018]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171). Regulation 6 was amended by section 42(6)(a) of the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26).
 
 [^f00019]: Footnote: [2003, c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
 
-[^key-552f076223f9325ca5743c4ec991e6cf]: Commencement: Reg. 47 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-552f076223f9325ca5743c4ec991e6cf]: Commencement: Reg. 47 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-c4f373d5e7f61fd06fd30bbeae61a009]: Commencement: Reg. 48 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-c4f373d5e7f61fd06fd30bbeae61a009]: Commencement: Reg. 48 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-5cf57080def9fd05fc8e0e769d74963d]: Commencement: Reg. 49 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-5cf57080def9fd05fc8e0e769d74963d]: Commencement: Reg. 49 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-e878cee49227cf09fb039fcbd4dce38e]: Commencement: Reg. 50 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-e878cee49227cf09fb039fcbd4dce38e]: Commencement: Reg. 50 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-de57e1980df3a22c117020f00f3479c8]: Commencement: Reg. 51 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-de57e1980df3a22c117020f00f3479c8]: Commencement: Reg. 51 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-31710d45844f8e1a3d1642bf6dc0979e]: Commencement: Reg. 52 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-31710d45844f8e1a3d1642bf6dc0979e]: Commencement: Reg. 52 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-98493b590dc3cde776f005849d37110c]: Commencement: Reg. 53 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-98493b590dc3cde776f005849d37110c]: Commencement: Reg. 53 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-24efa971ebfd746f847e4252d0b0a77f]: Commencement: Reg. 54 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-24efa971ebfd746f847e4252d0b0a77f]: Commencement: Reg. 54 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-c1608b0a9017909d839ad6cc09730742]: Commencement: Reg. 55 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-c1608b0a9017909d839ad6cc09730742]: Commencement: Reg. 55 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-82abc9711232912e4dd2ffb5ff936d27]: Commencement: Reg. 56 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-82abc9711232912e4dd2ffb5ff936d27]: Commencement: Reg. 56 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-80f27d0cd3ede3323c3fdfc8cfa8b714]: Commencement: Reg. 57 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-80f27d0cd3ede3323c3fdfc8cfa8b714]: Commencement: Reg. 57 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-4bde4b26a884b3c5abd4adf36b7b89a2]: Commencement: Reg. 58 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-4bde4b26a884b3c5abd4adf36b7b89a2]: Commencement: Reg. 58 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-bd8bdce45efe1711543267a20e398f70]: Commencement: Reg. 59 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-bd8bdce45efe1711543267a20e398f70]: Commencement: Reg. 59 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-54a90e9758183567d12294faba8dc12b]: Commencement: Reg. 60 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-54a90e9758183567d12294faba8dc12b]: Commencement: Reg. 60 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-db38960650e57ad069ec4156e193b267]: Commencement: Reg. 61 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-db38960650e57ad069ec4156e193b267]: Commencement: Reg. 61 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-6325511ed30e104aa149082af9d6a65b]: Commencement: Reg. 62 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-6325511ed30e104aa149082af9d6a65b]: Commencement: Reg. 62 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-e6402bfdabd7a772917bb04350dcf065]: Commencement: Reg. 63 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-e6402bfdabd7a772917bb04350dcf065]: Commencement: Reg. 63 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-123ae8aa60793c03157b9065bb475dc3]: Commencement: Reg. 64 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-123ae8aa60793c03157b9065bb475dc3]: Commencement: Reg. 64 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-2f5ee3af21c0eeb67f59f204d32f7a7d]: Commencement: Reg. 65 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-2f5ee3af21c0eeb67f59f204d32f7a7d]: Commencement: Reg. 65 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-02be1acf30297b513517692850609639]: Commencement: Reg. 66 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-02be1acf30297b513517692850609639]: Commencement: Reg. 66 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00020]: Footnote: [S.R. 2010/136](https://www.legislation.gov.uk/nisr/2010/136).
 
-[^key-fbb5267d1af62e8b888b4b2e9e4e1a8f]: Commencement: Reg. 67 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-fbb5267d1af62e8b888b4b2e9e4e1a8f]: Commencement: Reg. 67 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00021]: Footnote: In accordance with section 110(1) of PSPJOA 2022, “**FA 2004**” means the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12). Section 237B was inserted by paragraph 15 of Schedule 17 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
 [^f00022]: Footnote: Section 237BA was inserted by section 9(3) of the Finance Act [2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3).
 
-[^key-7f101144329a63013e230b2c7c19f12e]: Commencement: Reg. 68 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-7f101144329a63013e230b2c7c19f12e]: Commencement: Reg. 68 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00023]: Footnote: See section 26(3) of PSPJOA 2022 for the meaning of “relevant amount”.
 
-[^key-296a2d3b76f3eb4fe6f4f8771b1c7195]: Commencement: Reg. 69 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-296a2d3b76f3eb4fe6f4f8771b1c7195]: Commencement: Reg. 69 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-c66ade50a3ae9ae7c286811ad890b2b9]: Commencement: Reg. 70 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-c66ade50a3ae9ae7c286811ad890b2b9]: Commencement: Reg. 70 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00024]: Footnote: See section 23 of PSPJOA 2022 and direction 11 of the PSP(NI) Directions 2023 for the meaning of “compensatable loss”.
 
 [^f00025]: Footnote: See section 23(9) of PSPJOA 2022 for the meaning of “Part 4 tax loss”.
 
-[^key-af82a98c7d9f8b3e254239f3669de2f3]: Commencement: Reg. 71 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-af82a98c7d9f8b3e254239f3669de2f3]: Commencement: Reg. 71 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-cfd896b30c82cc9e867a258961fae558]: Commencement: Reg. 72 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-cfd896b30c82cc9e867a258961fae558]: Commencement: Reg. 72 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-f176db198451b35ac9d00d9528b0bf94]: Commencement: Reg. 73 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-f176db198451b35ac9d00d9528b0bf94]: Commencement: Reg. 73 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00026]: Footnote: See section 18(4) of PSPJOA 2022 for the meaning of “**tax relief amounts**” for the purposes of a liability mentioned in regulation 72(1)(a) and section 18(7) of that Act for the meaning of that term for the purposes of a liability mentioned in regulation 72(1)(b).
 
-[^key-838682b719c45e602eaeeaa56a8eca4a]: Commencement: Reg. 74 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-838682b719c45e602eaeeaa56a8eca4a]: Commencement: Reg. 74 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-8d78b314723cfcfb611af8ab73372ee0]: Commencement: Reg. 75 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-8d78b314723cfcfb611af8ab73372ee0]: Commencement: Reg. 75 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-d09247bbde5b21c9cde58c4f56944da6]: Commencement: Reg. 76 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-d09247bbde5b21c9cde58c4f56944da6]: Commencement: Reg. 76 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-f7eba6c4b03498cf5985197a6a1e8727]: Commencement: Reg. 77 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-f7eba6c4b03498cf5985197a6a1e8727]: Commencement: Reg. 77 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
 [^f00027]: Footnote: [1989/1339 (N.I. 11)](https://www.legislation.gov.uk/nisi/1989/1339)
 
-[^key-63a8d06bee3ecdbf5e6fa54d3c68297f]: Commencement: Reg. 78 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-63a8d06bee3ecdbf5e6fa54d3c68297f]: Commencement: Reg. 78 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-1c5d3d7c13046bb1e08b56ea20a5045a]: Commencement: Sch. para. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-1c5d3d7c13046bb1e08b56ea20a5045a]: Commencement: Sch. para. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-f51b2c01aef6d836c982fc9a83c9788b]: Commencement: Sch. para. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-f51b2c01aef6d836c982fc9a83c9788b]: Commencement: Sch. para. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-81aef0a6e9e86fa688cb919ea0e79a01]: Commencement: Sch. para. 3 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-81aef0a6e9e86fa688cb919ea0e79a01]: Commencement: Sch. para. 3 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-5178b3a9162dba4e0458ca5cc7798e44]: Commencement: Sch. para. 4 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-5178b3a9162dba4e0458ca5cc7798e44]: Commencement: Sch. para. 4 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-c8522b8e3b1b29b7aa3e7d604b2c6571]: Commencement: Sch. para. 5 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-c8522b8e3b1b29b7aa3e7d604b2c6571]: Commencement: Sch. para. 5 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-c720057fad1da6d222abdd97f8e2f87e]: Commencement: Sch. para. 6 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-c720057fad1da6d222abdd97f8e2f87e]: Commencement: Sch. para. 6 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-d21a141e839c0eec6517bbb8a2050b75]: Commencement: Sch. para. 7 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-d21a141e839c0eec6517bbb8a2050b75]: Commencement: Sch. para. 7 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-90efa754e6f72b3bed5c9cb7c1bcc9c7]: Commencement: Sch. para. 8 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-90efa754e6f72b3bed5c9cb7c1bcc9c7]: Commencement: Sch. para. 8 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-201e2685d8193983465b889c470fa717]: Commencement: Sch. para. 9 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-201e2685d8193983465b889c470fa717]: Commencement: Sch. para. 9 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-9b57463c2387d6457fc18316dc356abb]: Commencement: Sch. para. 10 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-9b57463c2387d6457fc18316dc356abb]: Commencement: Sch. para. 10 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
 
-[^key-940f45fbdc740bc1dde1bc7295816e87]: Commencement: Sch. para. 11 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)
+[^c-940f45fbdc740bc1dde1bc7295816e87]: Commencement: Sch. para. 11 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1)

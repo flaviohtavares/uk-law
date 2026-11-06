@@ -36,7 +36,7 @@ An Act to make provision for protecting individuals against being forced to ente
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Protection against forced marriage: England and Wales[^key-1b76eb20f98587d1c850719bb041c897]
+## 1. Protection against forced marriage: England and Wales[^c-1b76eb20f98587d1c850719bb041c897]
 
 *Extent: E+W*
 
@@ -287,7 +287,7 @@ After Part 4 of the Family Law Act 1996 (c. 27) insert—
 > > - (a) the High Court; and
 > > - (b) any county court.
 >
-> [^key-69c561bda6b32ada23d7bd45a388aee0]
+> [^c-69c561bda6b32ada23d7bd45a388aee0]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -295,7 +295,7 @@ After Part 4 of the Family Law Act 1996 (c. 27) insert—
 >
 > The powers of the court in relation to contempt of court arising out of a person's failure to comply with a forced marriage protection order or otherwise in connection with such an order may be exercised by the relevant judge.
 >
-> [^key-69c561bda6b32ada23d7bd45a388aee0]
+> [^c-69c561bda6b32ada23d7bd45a388aee0]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -341,7 +341,7 @@ After Part 4 of the Family Law Act 1996 (c. 27) insert—
 >   - (a) where the order was made by the High Court, a judge of that court; and
 >   - (b) where the order was made by a county court, a judge or district judge of that or any other county court.
 
-## 2. Protection against forced marriage: Northern Ireland[^key-454be2dcb9a6c411c9ba04028bd5da33]
+## 2. Protection against forced marriage: Northern Ireland[^c-454be2dcb9a6c411c9ba04028bd5da33]
 
 *Extent: N.I.*
 
@@ -349,7 +349,7 @@ Schedule 1 (protection against forced marriage: Northern Ireland) has effect.
 
 ## 3. Consequential amendments etc.[^c1884606]
 
-(1)[^key-c63f0712cb4a313ff1cae5ea98bfc6dd][^key-844a55780723c0abf68542d63cf8b0a3] Schedule 2 (consequential amendments) has effect.
+(1)[^c-c63f0712cb4a313ff1cae5ea98bfc6dd][^c-844a55780723c0abf68542d63cf8b0a3] Schedule 2 (consequential amendments) has effect.
 
 (2) The Lord Chancellor may by order make such supplementary, incidental or consequential provision as the Lord Chancellor considers appropriate for the purposes of section 1 or in consequence of that section.
 
@@ -414,7 +414,7 @@ Section 2
 
 #### Forced marriage protection orders
 
-**1.**[^key-dea22b774cc6a6dba9f582ab40c890a1] (1) The court may make an order for the purposes of protecting—
+**1.**[^c-dea22b774cc6a6dba9f582ab40c890a1] (1) The court may make an order for the purposes of protecting—
 
 - (a) a person from being forced into a marriage or from any attempt to be forced into a marriage; or
 - (b) a person who has been forced into a marriage.
@@ -434,7 +434,7 @@ Section 2
 
 #### Contents of orders
 
-**2.**[^key-0d0b38575f04184c9029faf4dc32d539] (1) A forced marriage protection order may contain—
+**2.**[^c-0d0b38575f04184c9029faf4dc32d539] (1) A forced marriage protection order may contain—
 
 - (a) such prohibitions, restrictions or requirements; and
 - (b) such other terms;
@@ -454,33 +454,33 @@ as the court considers appropriate for the purposes of the order.
 
 #### Applications and other occasions for making orders
 
-**3.** (1)[^key-62ce9d1b96a2daacf7720af4050d5a3d] The court may make a forced marriage protection order—
+**3.** (1)[^c-62ce9d1b96a2daacf7720af4050d5a3d] The court may make a forced marriage protection order—
 
 - (a) on an application being made to it; or
 - (b) without an application being made to it but in the circumstances mentioned in sub-paragraph (6).
 
 (2) An application may be made by—
 
-- (a)[^key-62ce9d1b96a2daacf7720af4050d5a3d] the person who is to be protected by the order; or
+- (a)[^c-62ce9d1b96a2daacf7720af4050d5a3d] the person who is to be protected by the order; or
 - (b) a relevant third party.
 
-(3)[^key-62ce9d1b96a2daacf7720af4050d5a3d] An application may be made by any other person with the leave of the court.
+(3)[^c-62ce9d1b96a2daacf7720af4050d5a3d] An application may be made by any other person with the leave of the court.
 
-(4)[^key-62ce9d1b96a2daacf7720af4050d5a3d] In deciding whether to grant leave, the court must have regard to all the circumstances including—
+(4)[^c-62ce9d1b96a2daacf7720af4050d5a3d] In deciding whether to grant leave, the court must have regard to all the circumstances including—
 
 - (a) the applicant's connection with the person to be protected;
 - (b) the applicant's knowledge of the circumstances of the person to be protected; and
 - (c) the wishes and feelings of the person to be protected so far as they are reasonably ascertainable and so far as the court considers it appropriate, in the light of the person's age and understanding, to have regard to them.
 
-(5)[^key-62ce9d1b96a2daacf7720af4050d5a3d] An application under this paragraph may be made in other family proceedings or without any other family proceedings being instituted.
+(5)[^c-62ce9d1b96a2daacf7720af4050d5a3d] An application under this paragraph may be made in other family proceedings or without any other family proceedings being instituted.
 
-(6)[^key-62ce9d1b96a2daacf7720af4050d5a3d] The circumstances in which the court may make an order without an application being made are where—
+(6)[^c-62ce9d1b96a2daacf7720af4050d5a3d] The circumstances in which the court may make an order without an application being made are where—
 
 - (a) any other family proceedings are before the court (“the current proceedings”);
 - (b) the court considers that a forced marriage protection order should be made to protect a person (whether or not a party to the current proceedings); and
 - (c) a person who would be a respondent to any such proceedings for a forced marriage protection order is a party to the current proceedings.
 
-(7)[^key-2810719afd250e0a1fddfb27facc17f7] In this paragraph—
+(7)[^c-2810719afd250e0a1fddfb27facc17f7] In this paragraph—
 
 - “**family proceedings**” has the same meaning as in the Family Homes and Domestic Violence (Northern Ireland) Order 1998 (S.I. 1998/1071 (N.I.6)) (see Article 2(2) and (3)) but also includes—
   - (a) proceedings under the inherent jurisdiction of the High Court in relation to adults;
@@ -492,7 +492,7 @@ as the court considers appropriate for the purposes of the order.
 
 #### Ex parte orders
 
-**4.**[^key-451e54f7f8adf5ca5b74af9323e96c3a] (1) The court may, in any case where it considers that it is just and convenient to do so, make a forced marriage protection order even though the respondent has not been given such notice of the proceedings as would otherwise be required by rules of court.
+**4.**[^c-451e54f7f8adf5ca5b74af9323e96c3a] (1) The court may, in any case where it considers that it is just and convenient to do so, make a forced marriage protection order even though the respondent has not been given such notice of the proceedings as would otherwise be required by rules of court.
 
 (2) In deciding whether to exercise its powers under sub-paragraph (1), the court must have regard to all the circumstances including—
 
@@ -508,11 +508,11 @@ as the court considers appropriate for the purposes of the order.
 
 #### Duration of orders
 
-**5.**[^key-fcd30c559b588763730bfc66db63dcb3] A forced marriage protection order may be made for a specified period or until varied or discharged.
+**5.**[^c-fcd30c559b588763730bfc66db63dcb3] A forced marriage protection order may be made for a specified period or until varied or discharged.
 
 #### Variation of orders and their discharge
 
-**6.**[^key-dda5ac89bfa47518475579c9e9d2cc0f] (1) The court may vary or discharge a forced marriage protection order on an application by—
+**6.**[^c-dda5ac89bfa47518475579c9e9d2cc0f] (1) The court may vary or discharge a forced marriage protection order on an application by—
 
 - (a) any party to the proceedings for the order;
 - (b) the person being protected by the order (if not a party to the proceedings for the order); or
@@ -526,7 +526,7 @@ as the court considers appropriate for the purposes of the order.
 
 #### Offence of contravening an order
 
-**7.**[^key-9cbb1a49fd1b3571ed36ee1346acdb9b] Any person who, without reasonable excuse, contravenes a forced marriage protection order, commits an offence and is liable on summary conviction—
+**7.**[^c-9cbb1a49fd1b3571ed36ee1346acdb9b] Any person who, without reasonable excuse, contravenes a forced marriage protection order, commits an offence and is liable on summary conviction—
 
 - (a) to a fine not exceeding level 5 on the standard scale;
 - (b) to imprisonment for a term not exceeding 6 months; or
@@ -536,7 +536,7 @@ as the court considers appropriate for the purposes of the order.
 
 #### Jurisdiction of courts
 
-**8.**[^key-befadeddf1c8bdbed58a52be0f72ac9c] (1) For the purposes of this Schedule “**the court**” means the High Court or a county court.
+**8.**[^c-befadeddf1c8bdbed58a52be0f72ac9c] (1) For the purposes of this Schedule “**the court**” means the High Court or a county court.
 
 (2) Sub-paragraph (1) is subject to any provision made by virtue of sub-paragraphs (3) and (4).
 
@@ -551,7 +551,7 @@ as the court considers appropriate for the purposes of the order.
 
 #### Power to extend jurisdiction to courts of summary jurisdiction
 
-**9.** (1)[^key-7b4185d57bacde4265b3c07681c1a68d] The Lord Chancellor may, after consulting the Lord Chief Justice, by order provide for courts of summary jurisdiction to be included among the courts who may hear proceedings under this Schedule.
+**9.** (1)[^c-7b4185d57bacde4265b3c07681c1a68d] The Lord Chancellor may, after consulting the Lord Chief Justice, by order provide for courts of summary jurisdiction to be included among the courts who may hear proceedings under this Schedule.
 
 (2) An order under sub-paragraph (1) may, in particular, make any provision in relation to courts of summary jurisdiction which corresponds to provision made in relation to such courts by or under the Family Homes and Domestic Violence (Northern Ireland) Order 1998 (S.I. 1998/1071 (N.I.6)).
 
@@ -566,18 +566,18 @@ as the court considers appropriate for the purposes of the order.
 
 #### Contempt proceedings
 
-**10.**[^key-ab8efc160026307fed1fe4f19f219056] The powers of the court in relation to contempt of court arising out of a person's failure to comply with a forced marriage protection order or otherwise in connection with such an order may be exercised by the relevant judge.
+**10.**[^c-ab8efc160026307fed1fe4f19f219056] The powers of the court in relation to contempt of court arising out of a person's failure to comply with a forced marriage protection order or otherwise in connection with such an order may be exercised by the relevant judge.
 
 #### Appeals from county courts
 
-**11.**[^key-891c15dc6fc1fd80e7344f2fe234f6d9] (1) An appeal lies to the High Court against—
+**11.**[^c-891c15dc6fc1fd80e7344f2fe234f6d9] (1) An appeal lies to the High Court against—
 
 - (a) the making by a county court of any order under this Schedule; or
 - (b) any refusal by a county court to make such an order;
 
 as if the decision had been made in the exercise of the jurisdiction conferred by Part 3 of the County Courts (Northern Ireland) Order 1980 (S.I. 1980/397 (N.I.3)) (original civil jurisdiction) and the appeal were brought under Article 60 of that Order (ordinary appeals in civil cases).
 
-(2) But an appeal does not lie to the High Court under sub-paragraph (1) where the county court is [^key-e2894da6cbd929ff35790100cc0732ba]... exercising jurisdiction under the Matrimonial Causes (Northern Ireland) Order 1978 (S.I. 1978/1045 (N.I.15)) in the same proceedings.
+(2) But an appeal does not lie to the High Court under sub-paragraph (1) where the county court is [^c-e2894da6cbd929ff35790100cc0732ba]... exercising jurisdiction under the Matrimonial Causes (Northern Ireland) Order 1978 (S.I. 1978/1045 (N.I.15)) in the same proceedings.
 
 (3) Provision must be made by rules of court for an appeal to lie (upon a point of law, a question of fact or the admission or rejection of any evidence) to the Court of Appeal against—
 
@@ -603,7 +603,7 @@ as if it were an order of the county court from which the appeal was brought and
 
 #### Appeals: transfers and proposed transfers
 
-**12.**[^key-bc774f9acfaed89d25bf13883d450ddc] (1)[^key-339f0e9bede40a8db84e66c7b936454a] The Lord Chancellor may, after consulting the Lord Chief Justice, by order make provision as to the circumstances in which appeals may be made against decisions taken by courts on questions arising in connection with the transfer, or proposed transfer, of proceedings by virtue of an order made under Article 34(5) of the Family Homes and Domestic Violence (Northern Ireland) Order 1998 (S.I. 1998/1071 (N.I.6)) as applied by paragraph 8(3) and (4) above.
+**12.**[^c-bc774f9acfaed89d25bf13883d450ddc] (1)[^c-339f0e9bede40a8db84e66c7b936454a] The Lord Chancellor may, after consulting the Lord Chief Justice, by order make provision as to the circumstances in which appeals may be made against decisions taken by courts on questions arising in connection with the transfer, or proposed transfer, of proceedings by virtue of an order made under Article 34(5) of the Family Homes and Domestic Violence (Northern Ireland) Order 1998 (S.I. 1998/1071 (N.I.6)) as applied by paragraph 8(3) and (4) above.
 
 (2) Except so far as provided for in any order made under sub-paragraph (1), no appeal may be made against any decision of a kind mentioned in that sub-paragraph.
 
@@ -616,7 +616,7 @@ as if it were an order of the county court from which the appeal was brought and
 
 #### Guidance
 
-**13.**[^key-8a51cec7d6026a5cec5139071ca2cb5f] (1) The Department of Finance and Personnel may from time to time prepare and publish guidance to such descriptions of persons as the Department of Finance and Personnel considers appropriate about—
+**13.**[^c-8a51cec7d6026a5cec5139071ca2cb5f] (1) The Department of Finance and Personnel may from time to time prepare and publish guidance to such descriptions of persons as the Department of Finance and Personnel considers appropriate about—
 
 - (a) the effect of this Schedule or any provision of this Schedule; or
 - (b) other matters relating to forced marriages.
@@ -634,25 +634,25 @@ as if it were an order of the county court from which the appeal was brought and
 - (c) is to be made by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I.12)); and
 - (d) is subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.))).
 
-(2)[^key-181ebb72a36aebb2796a3434fcc2a5f2][^key-e92ea148f042099ec48ef81df402ac65] An order made by the Lord Chancellor by virtue of paragraph 8(3) and (4) or under paragraph 12(1)—
+(2)[^c-181ebb72a36aebb2796a3434fcc2a5f2][^c-e92ea148f042099ec48ef81df402ac65] An order made by the Lord Chancellor by virtue of paragraph 8(3) and (4) or under paragraph 12(1)—
 
 - (a) may make different provision for different purposes;
 - (b) may contain such incidental, supplemental, consequential, transitional, transitory or saving provision as the Lord Chancellor considers appropriate;
 - (c) is to be made by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I.12)); and
-- (d) is subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954)[^key-ed5c98c59f57feec8bb31c762f7e247a].
+- (d) is subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954)[^c-ed5c98c59f57feec8bb31c762f7e247a].
 
-(3)[^key-181ebb72a36aebb2796a3434fcc2a5f2][^key-e92ea148f042099ec48ef81df402ac65] An order made by the Lord Chancellor under paragraph 9—
+(3)[^c-181ebb72a36aebb2796a3434fcc2a5f2][^c-e92ea148f042099ec48ef81df402ac65] An order made by the Lord Chancellor under paragraph 9—
 
 - (a) may make different provision for different purposes;
 - (b) may contain such incidental, supplemental, consequential, transitional, transitory or saving provision as the Lord Chancellor considers appropriate;
 - (c) is to be made by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I.12)); and
-- (d) is not to be made unless a draft of the order has been laid before, and approved by a resolution of, the Northern Ireland Assembly[^key-e22289713f98eaea2faeb453d848222e].
+- (d) is not to be made unless a draft of the order has been laid before, and approved by a resolution of, the Northern Ireland Assembly[^c-e22289713f98eaea2faeb453d848222e].
 
-(4)[^key-6feb654db03ce5823a0dc6e36201331b] Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of sub-paragraph (3) in relation to the laying of a draft as it applies in relation to the laying of a statutory document under an enactment.
+(4)[^c-6feb654db03ce5823a0dc6e36201331b] Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of sub-paragraph (3) in relation to the laying of a draft as it applies in relation to the laying of a statutory document under an enactment.
 
 #### Other protection or assistance against forced marriage
 
-**15.**[^key-f9626efc7fec894be14cde59f836304e] (1) This Schedule does not affect any other protection or assistance available to a person who—
+**15.**[^c-f9626efc7fec894be14cde59f836304e] (1) This Schedule does not affect any other protection or assistance available to a person who—
 
 - (a) is being, or may be, forced into a marriage or subjected to an attempt to be forced into a marriage; or
 - (b) has been forced into a marriage.
@@ -669,7 +669,7 @@ as if it were an order of the county court from which the appeal was brought and
 
 #### Interpretation
 
-**16.**[^key-fa4e69bce791dbe1cfc494ad0a5ecb12] In this Schedule—
+**16.**[^c-fa4e69bce791dbe1cfc494ad0a5ecb12] In this Schedule—
 
 - “the court” is to be read with paragraph 8(1);
 - “force” (and related expressions), in relation to a marriage, are to be read in accordance with paragraph 1(4) to (6);
@@ -687,29 +687,29 @@ Section 3(1)
 
 *Extent: E+W*
 
-**1.**[^key-a0fae111bbc22cf266c83fedc16d9472] In paragraph 3(f)(i) of Schedule 1 to the Supreme Court Act 1981 (c. 54) (distribution of business in High Court: family division) after “Part IV” insert “ or 4A ”.
+**1.**[^c-a0fae111bbc22cf266c83fedc16d9472] In paragraph 3(f)(i) of Schedule 1 to the Supreme Court Act 1981 (c. 54) (distribution of business in High Court: family division) after “Part IV” insert “ or 4A ”.
 
-**2.**[^key-e763ab331a319a723aaaaf9e26a43243] In section 58A(2)(f) of the Courts and Legal Services Act 1990 (c. 41) (conditional fee agreements: supplementary) for “Part IV” substitute “ Parts 4 and 4A ”.
+**2.**[^c-e763ab331a319a723aaaaf9e26a43243] In section 58A(2)(f) of the Courts and Legal Services Act 1990 (c. 41) (conditional fee agreements: supplementary) for “Part IV” substitute “ Parts 4 and 4A ”.
 
-**3.** (1)[^key-85ae787fb7c1cbc28f183cfbe7eaf433] The Family Law Act 1996 (c. 27) is amended as follows.
+**3.** (1)[^c-85ae787fb7c1cbc28f183cfbe7eaf433] The Family Law Act 1996 (c. 27) is amended as follows.
 
-(2)[^key-85ae787fb7c1cbc28f183cfbe7eaf433] In section 63(2) (interpretation of Part 4: family proceedings), after paragraph (b), insert—
+(2)[^c-85ae787fb7c1cbc28f183cfbe7eaf433] In section 63(2) (interpretation of Part 4: family proceedings), after paragraph (b), insert—
 
 > - (ba) Part 4A;
 
 .
 
-(3)[^key-255907dd354506901a4a073dabc71b37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-255907dd354506901a4a073dabc71b37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Northern Ireland
 
 *Extent: N.I.*
 
-**4.**[^key-636f138aec6f0e954c6bf38ed2e37aa6] In Article 2(3) of the Family Homes and Domestic Violence (Northern Ireland) Order 1998 (S.I. 1998/1071 (N.I.6)) (interpretation: family proceedings), after sub-paragraph (h), insert—
+**4.**[^c-636f138aec6f0e954c6bf38ed2e37aa6] In Article 2(3) of the Family Homes and Domestic Violence (Northern Ireland) Order 1998 (S.I. 1998/1071 (N.I.6)) (interpretation: family proceedings), after sub-paragraph (h), insert—
 
 > - (i) Schedule 1 to the Forced Marriage (Civil Protection) Act 2007.
 
-**5.**[^key-96509ad647f740634ccf46ef0627d9fa] In Article 39(2) of the Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I.10)) (conditional fee agreements: supplementary), after sub-paragraph (g), insert—
+**5.**[^c-96509ad647f740634ccf46ef0627d9fa] In Article 39(2) of the Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I.10)) (conditional fee agreements: supplementary), after sub-paragraph (g), insert—
 
 > - (h) Schedule 1 to the Forced Marriage (Civil Protection) Act 2007,
 
@@ -717,72 +717,72 @@ Section 3(1)
 
 ## Annotations
 
-[^key-1b76eb20f98587d1c850719bb041c897]: Commencement: S. 1 in force at 25.11.2008 for specified purposes by [S.I. 2008/2779](https://www.legislation.gov.uk/uksi/2008/2779), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2779/article/2/a)
+[^c-1b76eb20f98587d1c850719bb041c897]: Commencement: S. 1 in force at 25.11.2008 for specified purposes by [S.I. 2008/2779](https://www.legislation.gov.uk/uksi/2008/2779), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2779/article/2/a)
 
-[^key-69c561bda6b32ada23d7bd45a388aee0]: Textual amendment: Words in s. 1 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-69c561bda6b32ada23d7bd45a388aee0]: Textual amendment: Words in s. 1 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-454be2dcb9a6c411c9ba04028bd5da33]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/20/section/2) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-454be2dcb9a6c411c9ba04028bd5da33]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/20/section/2) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
 [^c1884606]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2007/20/section/3) partly in force; [s. 3(2)-(10)](https://www.legislation.gov.uk/ukpga/2007/20/section/3/2) in force at Royal Assent see [s. 4(2)(4)](https://www.legislation.gov.uk/ukpga/2007/20/section/4/2/4)
 
-[^key-c63f0712cb4a313ff1cae5ea98bfc6dd]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2007/20/section/3/1) in force at 25.11.2008 for specified purposes by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(b)](https://www.legislation.gov.uk/nisr/2008/446/article/2/b)
+[^c-c63f0712cb4a313ff1cae5ea98bfc6dd]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2007/20/section/3/1) in force at 25.11.2008 for specified purposes by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(b)](https://www.legislation.gov.uk/nisr/2008/446/article/2/b)
 
-[^key-844a55780723c0abf68542d63cf8b0a3]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2007/20/section/3/1) in force at 25.11.2008 for specified purposes by [S.I. 2008/2779](https://www.legislation.gov.uk/uksi/2008/2779), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/2779/article/2/b)
+[^c-844a55780723c0abf68542d63cf8b0a3]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2007/20/section/3/1) in force at 25.11.2008 for specified purposes by [S.I. 2008/2779](https://www.legislation.gov.uk/uksi/2008/2779), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/2779/article/2/b)
 
-[^key-dea22b774cc6a6dba9f582ab40c890a1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/1) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-dea22b774cc6a6dba9f582ab40c890a1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/1) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-0d0b38575f04184c9029faf4dc32d539]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/2) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-0d0b38575f04184c9029faf4dc32d539]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/2) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-62ce9d1b96a2daacf7720af4050d5a3d]: Commencement: Sch. 1 para. 3(1)(2)(a)(3)-(6) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-62ce9d1b96a2daacf7720af4050d5a3d]: Commencement: Sch. 1 para. 3(1)(2)(a)(3)-(6) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-2810719afd250e0a1fddfb27facc17f7]: Commencement: Sch. 1 para. 3(7) in force at 25.11.2008 for specified purposes by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-2810719afd250e0a1fddfb27facc17f7]: Commencement: Sch. 1 para. 3(7) in force at 25.11.2008 for specified purposes by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-451e54f7f8adf5ca5b74af9323e96c3a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/4) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-451e54f7f8adf5ca5b74af9323e96c3a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/4) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-fcd30c559b588763730bfc66db63dcb3]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/5) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-fcd30c559b588763730bfc66db63dcb3]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/5) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-dda5ac89bfa47518475579c9e9d2cc0f]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/6) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-dda5ac89bfa47518475579c9e9d2cc0f]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/6) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-9cbb1a49fd1b3571ed36ee1346acdb9b]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/7) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-9cbb1a49fd1b3571ed36ee1346acdb9b]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/7) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-befadeddf1c8bdbed58a52be0f72ac9c]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/8) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-befadeddf1c8bdbed58a52be0f72ac9c]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/8) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-7b4185d57bacde4265b3c07681c1a68d]: Modification: Sch. 1 para. 9(1): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 22](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/22) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-7b4185d57bacde4265b3c07681c1a68d]: Modification: Sch. 1 para. 9(1): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 22](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/22) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-ab8efc160026307fed1fe4f19f219056]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/10) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-ab8efc160026307fed1fe4f19f219056]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/10) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-891c15dc6fc1fd80e7344f2fe234f6d9]: Commencement: Sch. 1 para. 11 in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-891c15dc6fc1fd80e7344f2fe234f6d9]: Commencement: Sch. 1 para. 11 in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-e2894da6cbd929ff35790100cc0732ba]: Textual amendment: Words in Sch. 1 para. 11(2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 131](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/131), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-e2894da6cbd929ff35790100cc0732ba]: Textual amendment: Words in Sch. 1 para. 11(2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 131](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/131), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-bc774f9acfaed89d25bf13883d450ddc]: Commencement: Sch. 1 para. 12 in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-bc774f9acfaed89d25bf13883d450ddc]: Commencement: Sch. 1 para. 12 in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-339f0e9bede40a8db84e66c7b936454a]: Modification: Sch. 1 para. 12(1): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 22](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/22) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-339f0e9bede40a8db84e66c7b936454a]: Modification: Sch. 1 para. 12(1): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 22](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/22) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-8a51cec7d6026a5cec5139071ca2cb5f]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/13) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-8a51cec7d6026a5cec5139071ca2cb5f]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/13) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-181ebb72a36aebb2796a3434fcc2a5f2]: Commencement: Sch. 1 para. 14(2)(3) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-181ebb72a36aebb2796a3434fcc2a5f2]: Commencement: Sch. 1 para. 14(2)(3) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-e92ea148f042099ec48ef81df402ac65]: Modification: Sch. 1 para. 14(2)(3): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 22](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/22) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-e92ea148f042099ec48ef81df402ac65]: Modification: Sch. 1 para. 14(2)(3): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 22](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/22) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-ed5c98c59f57feec8bb31c762f7e247a]: Textual amendment: Words in Sch. 1 para. 14(2)(d) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 82(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/82/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-ed5c98c59f57feec8bb31c762f7e247a]: Textual amendment: Words in Sch. 1 para. 14(2)(d) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 82(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/82/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-e22289713f98eaea2faeb453d848222e]: Textual amendment: Words in Sch. 1 para. 14(3)(d) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 82(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/82/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-e22289713f98eaea2faeb453d848222e]: Textual amendment: Words in Sch. 1 para. 14(3)(d) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 82(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/82/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-6feb654db03ce5823a0dc6e36201331b]: Textual amendment: Sch. 1 para. 14(4) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 82(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/82/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-6feb654db03ce5823a0dc6e36201331b]: Textual amendment: Sch. 1 para. 14(4) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 82(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/82/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-f9626efc7fec894be14cde59f836304e]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/15) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-f9626efc7fec894be14cde59f836304e]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/15) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-fa4e69bce791dbe1cfc494ad0a5ecb12]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/16) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
+[^c-fa4e69bce791dbe1cfc494ad0a5ecb12]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2007/20/schedule/1/paragraph/16) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/446/article/2/a)
 
-[^key-a0fae111bbc22cf266c83fedc16d9472]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2007/20/schedule/2/paragraph/1) in force at 25.11.2008 by [S.I. 2008/2779](https://www.legislation.gov.uk/uksi/2008/2779), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2779/article/2/c)
+[^c-a0fae111bbc22cf266c83fedc16d9472]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2007/20/schedule/2/paragraph/1) in force at 25.11.2008 by [S.I. 2008/2779](https://www.legislation.gov.uk/uksi/2008/2779), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2779/article/2/c)
 
-[^key-e763ab331a319a723aaaaf9e26a43243]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2007/20/schedule/2/paragraph/2) in force at 25.11.2008 by [S.I. 2008/2779](https://www.legislation.gov.uk/uksi/2008/2779), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2779/article/2/c)
+[^c-e763ab331a319a723aaaaf9e26a43243]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2007/20/schedule/2/paragraph/2) in force at 25.11.2008 by [S.I. 2008/2779](https://www.legislation.gov.uk/uksi/2008/2779), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2779/article/2/c)
 
-[^key-85ae787fb7c1cbc28f183cfbe7eaf433]: Commencement: Sch. 2 para. 3(1)(2) in force at 25.11.2008 by [S.I. 2008/2779](https://www.legislation.gov.uk/uksi/2008/2779), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2779/article/2/c)
+[^c-85ae787fb7c1cbc28f183cfbe7eaf433]: Commencement: Sch. 2 para. 3(1)(2) in force at 25.11.2008 by [S.I. 2008/2779](https://www.legislation.gov.uk/uksi/2008/2779), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2779/article/2/c)
 
-[^key-255907dd354506901a4a073dabc71b37]: Textual amendment: [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2007/20/schedule/2/paragraph/3/3) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-255907dd354506901a4a073dabc71b37]: Textual amendment: [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2007/20/schedule/2/paragraph/3/3) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-636f138aec6f0e954c6bf38ed2e37aa6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2007/20/schedule/2/paragraph/4) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(c)](https://www.legislation.gov.uk/nisr/2008/446/article/2/c)
+[^c-636f138aec6f0e954c6bf38ed2e37aa6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2007/20/schedule/2/paragraph/4) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(c)](https://www.legislation.gov.uk/nisr/2008/446/article/2/c)
 
-[^key-96509ad647f740634ccf46ef0627d9fa]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2007/20/schedule/2/paragraph/5) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(c)](https://www.legislation.gov.uk/nisr/2008/446/article/2/c)
+[^c-96509ad647f740634ccf46ef0627d9fa]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2007/20/schedule/2/paragraph/5) in force at 25.11.2008 by [S.R. 2008/446](https://www.legislation.gov.uk/nisr/2008/446), [art. 2(c)](https://www.legislation.gov.uk/nisr/2008/446/article/2/c)

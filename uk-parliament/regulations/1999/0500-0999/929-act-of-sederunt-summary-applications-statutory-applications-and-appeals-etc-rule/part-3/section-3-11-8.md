@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.8. Clerk of court[^key-3dddf03bcbb89b9c10649be92909714b]
+## 3.11.8. Clerk of court[^c-3dddf03bcbb89b9c10649be92909714b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The sheriff clerk shall attend and act as clerk of court at the trial of the pet
 
 ## Annotations
 
-[^key-3dddf03bcbb89b9c10649be92909714b]: Commencement: Rule 3.11.8 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-3dddf03bcbb89b9c10649be92909714b]: Commencement: Rule 3.11.8 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

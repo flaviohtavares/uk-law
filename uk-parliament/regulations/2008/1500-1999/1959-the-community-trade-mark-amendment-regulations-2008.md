@@ -32,7 +32,7 @@ summary: ''
 
 Trade Marks
 
-The Community Trade Mark (Amendment) Regulations 2008 (revoked)[^key-75f783f244bfd59a8d3497834e563ad6]
+The Community Trade Mark (Amendment) Regulations 2008 (revoked)[^c-75f783f244bfd59a8d3497834e563ad6]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st October 2008
 
-[^key-75f783f244bfd59a8d3497834e563ad6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75f783f244bfd59a8d3497834e563ad6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-75f783f244bfd59a8d3497834e563ad6]
+## 1. Citation and commencement[^c-75f783f244bfd59a8d3497834e563ad6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Community Trade Mark Regulations[^key-75f783f244bfd59a8d3497834e563ad6]
+## 2. Amendment of the Community Trade Mark Regulations[^c-75f783f244bfd59a8d3497834e563ad6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-75f783f244bfd59a8d3497834e563ad6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75f783f244bfd59a8d3497834e563ad6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-75f783f244bfd59a8d3497834e563ad6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75f783f244bfd59a8d3497834e563ad6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-75f783f244bfd59a8d3497834e563ad6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1959) revoked (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-75f783f244bfd59a8d3497834e563ad6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1959) revoked (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

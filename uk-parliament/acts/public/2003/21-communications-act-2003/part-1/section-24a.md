@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Provision of information before publication[^key-00de176b3827081e4122598883540ffd]
+## 24A. Provision of information before publication[^c-00de176b3827081e4122598883540ffd]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00de176b3827081e4122598883540ffd]: Textual amendment: Ss. 24A, 24B inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/98/2), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 98(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/98/3)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/aa)
+[^c-00de176b3827081e4122598883540ffd]: Textual amendment: Ss. 24A, 24B inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/98/2), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 98(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/98/3)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/aa)

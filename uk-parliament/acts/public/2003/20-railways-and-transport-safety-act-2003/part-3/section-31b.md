@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31B. Exercise of functions in relation to children under the Scottish age of criminal responsibility[^key-ef13d95613d833fa06c6945c122b4c25]
+## 31B. Exercise of functions in relation to children under the Scottish age of criminal responsibility[^c-ef13d95613d833fa06c6945c122b4c25]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef13d95613d833fa06c6945c122b4c25]: Textual amendment: [S. 31B](https://www.legislation.gov.uk/ukpga/2003/20/section/31B) inserted (17.12.2021) by [The Age of Criminal Responsibility (Scotland) Act 2019 (Consequential Provisions and Modifications) Order 2021 (S.I. 2021/1458)](https://www.legislation.gov.uk/uksi/2021/1458), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1), [18](https://www.legislation.gov.uk/uksi/2021/1458/article/18)
+[^c-ef13d95613d833fa06c6945c122b4c25]: Textual amendment: [S. 31B](https://www.legislation.gov.uk/ukpga/2003/20/section/31B) inserted (17.12.2021) by [The Age of Criminal Responsibility (Scotland) Act 2019 (Consequential Provisions and Modifications) Order 2021 (S.I. 2021/1458)](https://www.legislation.gov.uk/uksi/2021/1458), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1), [18](https://www.legislation.gov.uk/uksi/2021/1458/article/18)

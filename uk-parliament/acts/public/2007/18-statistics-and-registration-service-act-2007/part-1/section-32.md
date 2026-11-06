@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Executive office[^key-d47c36f3d7d0f7c34b56a87c28bc960a]
+## 32. Executive office[^c-d47c36f3d7d0f7c34b56a87c28bc960a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d47c36f3d7d0f7c34b56a87c28bc960a]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2007/18/section/32) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-d47c36f3d7d0f7c34b56a87c28bc960a]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2007/18/section/32) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

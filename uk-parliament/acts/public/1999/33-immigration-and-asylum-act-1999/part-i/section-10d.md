@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10D. Removal: PRN recipients[^key-ccd9a10a231115c064ae1153b8ef422b]
+## 10D. Removal: PRN recipients[^c-ccd9a10a231115c064ae1153b8ef422b]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ and for the purposes of this subsection, whether a PRN recipient’s appeal righ
 
 ## Annotations
 
-[^key-ccd9a10a231115c064ae1153b8ef422b]: Textual amendment: [Ss. 10A-10E](https://www.legislation.gov.uk/ukpga/1999/33/section/10A) inserted (20.11.2023 except for the insertion of s. 10D(1)-(7)) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 46(7)](https://www.legislation.gov.uk/ukpga/2022/36/section/46/7), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2023/1130](https://www.legislation.gov.uk/uksi/2023/1130), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1130/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1130/regulation/3))
+[^c-ccd9a10a231115c064ae1153b8ef422b]: Textual amendment: [Ss. 10A-10E](https://www.legislation.gov.uk/ukpga/1999/33/section/10A) inserted (20.11.2023 except for the insertion of s. 10D(1)-(7)) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 46(7)](https://www.legislation.gov.uk/ukpga/2022/36/section/46/7), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2023/1130](https://www.legislation.gov.uk/uksi/2023/1130), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1130/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1130/regulation/3))

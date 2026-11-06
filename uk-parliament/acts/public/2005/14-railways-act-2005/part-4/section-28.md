@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Proposal to discontinue operation of secured network[^key-1b080726f3aadbb3eaa93f41b1b1fa5d][^key-1650043052a62af2c8b9c75f928aab01][^key-cd35fbf2cec23940718a72beac111d17][^key-1ffe894a181b682b420e8d6c9c7bee0e][^key-279f1bfac8a543864fa3730d4de738ff]
+## 28. Proposal to discontinue operation of secured network[^c-1b080726f3aadbb3eaa93f41b1b1fa5d][^c-1650043052a62af2c8b9c75f928aab01][^c-cd35fbf2cec23940718a72beac111d17][^c-1ffe894a181b682b420e8d6c9c7bee0e][^c-279f1bfac8a543864fa3730d4de738ff]
 
 *Extent: E+W+S*
 
@@ -37,7 +37,7 @@ summary: ''
 
 - (a) give notice of its proposal to the national authority, if it is not itself that authority;
 - (b) carry out a consultation under Schedule 7 about the proposal; and
-- (c) after carrying out that consultation, either withdraw the proposal or refer the proposal (with or without modifications) to the Office of Rail and Road[^key-8f8904b6dcdce9a4026f5d101fdc08b3].
+- (c) after carrying out that consultation, either withdraw the proposal or refer the proposal (with or without modifications) to the Office of Rail and Road[^c-8f8904b6dcdce9a4026f5d101fdc08b3].
 
 (4) A notice to the national authority under subsection (3)(a) must set out—
 
@@ -68,14 +68,14 @@ and a proposal that relates to a network or part of a network that is partly in 
 
 ## Annotations
 
-[^key-1b080726f3aadbb3eaa93f41b1b1fa5d]: Commencement: S. 28 in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-1b080726f3aadbb3eaa93f41b1b1fa5d]: Commencement: S. 28 in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-1650043052a62af2c8b9c75f928aab01]: Modification: Ss. 26-28 power to exclude conferred (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 27](https://www.legislation.gov.uk/ukpga/2008/18/section/27)
+[^c-1650043052a62af2c8b9c75f928aab01]: Modification: Ss. 26-28 power to exclude conferred (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 27](https://www.legislation.gov.uk/ukpga/2008/18/section/27)
 
-[^key-cd35fbf2cec23940718a72beac111d17]: Modification: Ss. 26-28 excluded (1.4.2013) by [The Greater Manchester (Light Rapid Transit System) (Exemptions) Order 2013 (S.I. 2013/339)](https://www.legislation.gov.uk/uksi/2013/339), [arts. 1](https://www.legislation.gov.uk/uksi/2013/339/article/1), [8](https://www.legislation.gov.uk/uksi/2013/339/article/8)
+[^c-cd35fbf2cec23940718a72beac111d17]: Modification: Ss. 26-28 excluded (1.4.2013) by [The Greater Manchester (Light Rapid Transit System) (Exemptions) Order 2013 (S.I. 2013/339)](https://www.legislation.gov.uk/uksi/2013/339), [arts. 1](https://www.legislation.gov.uk/uksi/2013/339/article/1), [8](https://www.legislation.gov.uk/uksi/2013/339/article/8)
 
-[^key-1ffe894a181b682b420e8d6c9c7bee0e]: Modification: [Ss. 26-28](https://www.legislation.gov.uk/ukpga/2005/14/section/26): power to exclude conferred (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 41](https://www.legislation.gov.uk/ukpga/2017/7/section/41), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
+[^c-1ffe894a181b682b420e8d6c9c7bee0e]: Modification: [Ss. 26-28](https://www.legislation.gov.uk/ukpga/2005/14/section/26): power to exclude conferred (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 41](https://www.legislation.gov.uk/ukpga/2017/7/section/41), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
 
-[^key-279f1bfac8a543864fa3730d4de738ff]: Modification: [Ss. 26-28](https://www.legislation.gov.uk/ukpga/2005/14/section/26): power to exclude conferred (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 36](https://www.legislation.gov.uk/ukpga/2021/2/section/36), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
+[^c-279f1bfac8a543864fa3730d4de738ff]: Modification: [Ss. 26-28](https://www.legislation.gov.uk/ukpga/2005/14/section/26): power to exclude conferred (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 36](https://www.legislation.gov.uk/ukpga/2021/2/section/36), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
 
-[^key-8f8904b6dcdce9a4026f5d101fdc08b3]: Textual amendment: Words in [s. 28](https://www.legislation.gov.uk/ukpga/2005/14/section/28) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 3(g)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/3/g)
+[^c-8f8904b6dcdce9a4026f5d101fdc08b3]: Textual amendment: Words in [s. 28](https://www.legislation.gov.uk/ukpga/2005/14/section/28) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 3(g)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/3/g)

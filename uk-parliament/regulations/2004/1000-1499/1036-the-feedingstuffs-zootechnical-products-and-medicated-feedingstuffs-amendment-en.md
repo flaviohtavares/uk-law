@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Feedingstuffs (Zootechnical Products) and Medicated Feedingstuffs (Amendment) (England, Scotland and Wales) Regulations 2004 (revoked)[^key-17544f8c3d8461f77eebc9853f024646]
+The Feedingstuffs (Zootechnical Products) and Medicated Feedingstuffs (Amendment) (England, Scotland and Wales) Regulations 2004 (revoked)[^c-17544f8c3d8461f77eebc9853f024646]
 
 Made
 
@@ -45,58 +45,58 @@ Coming into force
 
 22nd April 2004
 
-[^key-17544f8c3d8461f77eebc9853f024646]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17544f8c3d8461f77eebc9853f024646]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-17544f8c3d8461f77eebc9853f024646]
+## 1. Title, commencement and extent[^c-17544f8c3d8461f77eebc9853f024646]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feedingstuffs (Zootechnical Products) Regulations 1999[^key-17544f8c3d8461f77eebc9853f024646]
+## 2. Amendment of the Feedingstuffs (Zootechnical Products) Regulations 1999[^c-17544f8c3d8461f77eebc9853f024646]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Medicated Feedingstuffs Regulations 1998[^key-17544f8c3d8461f77eebc9853f024646]
+## 3. Amendment of the Medicated Feedingstuffs Regulations 1998[^c-17544f8c3d8461f77eebc9853f024646]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17544f8c3d8461f77eebc9853f024646]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17544f8c3d8461f77eebc9853f024646]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Substitution of Parts II and III of Schedule 3 to the Feedingstuffs (Zootechnical Products) Regulations 1999[^key-17544f8c3d8461f77eebc9853f024646]
+## SCHEDULE 1 — Substitution of Parts II and III of Schedule 3 to the Feedingstuffs (Zootechnical Products) Regulations 1999[^c-17544f8c3d8461f77eebc9853f024646]
 
 Regulation 2
 
-> **PART II[^key-17544f8c3d8461f77eebc9853f024646]**
+> **PART II[^c-17544f8c3d8461f77eebc9853f024646]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART III[^key-17544f8c3d8461f77eebc9853f024646]**
+> **PART III[^c-17544f8c3d8461f77eebc9853f024646]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Substitution of Schedule 1 to the Medicated Feedingstuffs Regulations 1998[^key-17544f8c3d8461f77eebc9853f024646]
+## SCHEDULE 2 — Substitution of Schedule 1 to the Medicated Feedingstuffs Regulations 1998[^c-17544f8c3d8461f77eebc9853f024646]
 
 Regulation 3
 
-> **SCHEDULE 1[^key-17544f8c3d8461f77eebc9853f024646]**
+> **SCHEDULE 1[^c-17544f8c3d8461f77eebc9853f024646]**
 >
 > Regulation 35
 >
-> **PART I[^key-17544f8c3d8461f77eebc9853f024646]**
+> **PART I[^c-17544f8c3d8461f77eebc9853f024646]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART II[^key-17544f8c3d8461f77eebc9853f024646]**
+> **PART II[^c-17544f8c3d8461f77eebc9853f024646]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-17544f8c3d8461f77eebc9853f024646]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17544f8c3d8461f77eebc9853f024646]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-17544f8c3d8461f77eebc9853f024646]: Textual amendment: Regulations revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))
+[^c-17544f8c3d8461f77eebc9853f024646]: Textual amendment: Regulations revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))

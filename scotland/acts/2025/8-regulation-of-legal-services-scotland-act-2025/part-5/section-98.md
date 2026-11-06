@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Individual culpability for offending by an organisation[^key-bbe4f166ee3db8c2db7b6e6d4d9eed11]
+## 98. Individual culpability for offending by an organisation[^c-bbe4f166ee3db8c2db7b6e6d4d9eed11]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbe4f166ee3db8c2db7b6e6d4d9eed11]: Commencement: S. 98 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-bbe4f166ee3db8c2db7b6e6d4d9eed11]: Commencement: S. 98 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

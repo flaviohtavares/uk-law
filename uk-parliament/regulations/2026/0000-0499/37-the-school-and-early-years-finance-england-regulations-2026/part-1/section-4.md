@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Amendment of the Schools Forums (England) Regulations 2012[^key-c9810428d6276a016bc5d39acebb679a]
+## 4. Amendment of the Schools Forums (England) Regulations 2012[^c-c9810428d6276a016bc5d39acebb679a]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In regulation 8 (meetings and proceedings of schools forum) of the Schools Forum
 
 ## Annotations
 
-[^key-c9810428d6276a016bc5d39acebb679a]: Commencement: Reg. 4 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-c9810428d6276a016bc5d39acebb679a]: Commencement: Reg. 4 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
 [^f00051]: Footnote: [S.I. 2012/2261](https://www.legislation.gov.uk/uksi/2012/2261); relevant amending instruments are [S.I. 2017/44](https://www.legislation.gov.uk/uksi/2017/44) and [2025/42](https://www.legislation.gov.uk/uksi/2025/42).

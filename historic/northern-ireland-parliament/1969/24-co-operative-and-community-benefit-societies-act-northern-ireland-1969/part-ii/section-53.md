@@ -35,7 +35,7 @@ summary: ''
 - (a) keep at its registered office a duplicate register, containing the particulars in the register kept under subsection (1) other than those entered under paragraph (b) or (c) of that subsection; or
 - (b) so construct the register kept under subsection (1) that it is possible to open to inspection the particulars therein other than the particulars entered under the said paragraph (b) or (c) without exposing those last-mentioned particulars.
 
-(4) The registrar or a person acting on its[^key-7370a3f8ef88bff90adf1aa43eaf5ecc] behalf may at all reasonable hours inspect any particulars in any register or duplicate register kept under this section.
+(4) The registrar or a person acting on its[^c-7370a3f8ef88bff90adf1aa43eaf5ecc] behalf may at all reasonable hours inspect any particulars in any register or duplicate register kept under this section.
 
 (5) A registered society's register or duplicate register kept under this section, or any other register or list of members or shares kept by the society, shall be prima facie evidence of any of the following particulars entered therein, that is to say—
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7370a3f8ef88bff90adf1aa43eaf5ecc]: Textual amendment: Word in [s. 53(4)](https://www.legislation.gov.uk/apni/1969/24/section/53/4) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2018/323/schedule/2/paragraph/14) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-7370a3f8ef88bff90adf1aa43eaf5ecc]: Textual amendment: Word in [s. 53(4)](https://www.legislation.gov.uk/apni/1969/24/section/53/4) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2018/323/schedule/2/paragraph/14) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))

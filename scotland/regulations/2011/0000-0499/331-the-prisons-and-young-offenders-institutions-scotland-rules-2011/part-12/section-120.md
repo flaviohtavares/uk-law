@@ -23,7 +23,7 @@ summary: ''
 (1) A prisoner may make a request to an officer to speak to—
 
 - (a) a member of staff of the Scottish Administration;
-- (b)[^key-af41e2d9902fa9a75373293a4a60f4d3] an independent prison monitor;
+- (b)[^c-af41e2d9902fa9a75373293a4a60f4d3] an independent prison monitor;
 - (c) a sheriff or a justice of the peace visiting the prison in terms of section 15 of the Act.
 
 (2) Where a prisoner makes a request under paragraph (1), the officer must, without delay—
@@ -31,7 +31,7 @@ summary: ''
 - (a) record the request in writing; and
 - (b) arrange for the request to be brought to the attention of the person with whom the prisoner wishes to speak.
 
-(3)[^key-79377d154147ed7f715f034c9e91a91e] A prisoner may write to an independent prison monitor and for that purpose the Governor must ensure that—
+(3)[^c-79377d154147ed7f715f034c9e91a91e] A prisoner may write to an independent prison monitor and for that purpose the Governor must ensure that—
 
 - (a) the prisoner is supplied with paper; and
 - (b) the letter is posted, or otherwise delivered, to an independent prison monitor without delay.
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-af41e2d9902fa9a75373293a4a60f4d3]: Textual amendment: Rule 120(1)(b) substituted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2015/39/article/4/3/a) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))
+[^c-af41e2d9902fa9a75373293a4a60f4d3]: Textual amendment: Rule 120(1)(b) substituted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2015/39/article/4/3/a) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))
 
-[^key-79377d154147ed7f715f034c9e91a91e]: Textual amendment: Rule 120(3) substituted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2015/39/article/4/3/b) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))
+[^c-79377d154147ed7f715f034c9e91a91e]: Textual amendment: Rule 120(3) substituted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2015/39/article/4/3/b) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))

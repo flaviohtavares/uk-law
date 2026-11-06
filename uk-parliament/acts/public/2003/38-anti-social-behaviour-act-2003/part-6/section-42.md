@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Dealing with noise at night[^key-291c01c715e38287df11b54b2482a866][^key-f97cd4e18989b77168b193e68f4afff0]
+## 42. Dealing with noise at night[^c-291c01c715e38287df11b54b2482a866][^c-f97cd4e18989b77168b193e68f4afff0]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-291c01c715e38287df11b54b2482a866]: Commencement: S. 42 in force at 31.3.2004 for E. by [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 3(c)](https://www.legislation.gov.uk/uksi/2004/690/article/3/c)
+[^c-291c01c715e38287df11b54b2482a866]: Commencement: S. 42 in force at 31.3.2004 for E. by [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 3(c)](https://www.legislation.gov.uk/uksi/2004/690/article/3/c)
 
-[^key-f97cd4e18989b77168b193e68f4afff0]: Commencement: S. 42 in force at 31.3.2004 for W. by [S.I. 2004/999](https://www.legislation.gov.uk/uksi/2004/999), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/999/article/2/c)
+[^c-f97cd4e18989b77168b193e68f4afff0]: Commencement: S. 42 in force at 31.3.2004 for W. by [S.I. 2004/999](https://www.legislation.gov.uk/uksi/2004/999), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/999/article/2/c)

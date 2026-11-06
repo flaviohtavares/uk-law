@@ -34,13 +34,13 @@ An Act to establish and make provision in connection with a Care Quality Commiss
 
 \[21st July 2008\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-3ee48919ac1b2c1cdbaf46e23113d696]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-3ee48919ac1b2c1cdbaf46e23113d696]
 
 ## Contents
 
-### Part 1 — The Care Quality Commission[^key-1e28ec148890d74561a7d1afd4597ac8][^key-34d30c48fe83376a82b39dfc49e02f81][^key-2035e0d59a5da2016f9739cfbe249cc6][^key-fe1cef3adfeac5982cc68b4689cf041a]
+### Part 1 — The Care Quality Commission[^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81][^c-2035e0d59a5da2016f9739cfbe249cc6][^c-fe1cef3adfeac5982cc68b4689cf041a]
 
-#### Chapter 1 — Introductory[^key-1e28ec148890d74561a7d1afd4597ac8][^key-34d30c48fe83376a82b39dfc49e02f81]
+#### Chapter 1 — Introductory[^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81]
 
 *Extent: E+W*
 
@@ -52,7 +52,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 6 — Transfers of property, rights and liabilities](part-1/section-6.md)
 - [Section 7 — Meaning of “health and social care services” in Chapter 1](part-1/section-7.md)
 
-#### Chapter 2 — Registration in respect of provision of health or social care[^key-1e28ec148890d74561a7d1afd4597ac8][^key-34d30c48fe83376a82b39dfc49e02f81][^key-2035e0d59a5da2016f9739cfbe249cc6][^key-fe1cef3adfeac5982cc68b4689cf041a]
+#### Chapter 2 — Registration in respect of provision of health or social care[^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81][^c-2035e0d59a5da2016f9739cfbe249cc6][^c-fe1cef3adfeac5982cc68b4689cf041a]
 
 *Extent: E+W*
 
@@ -133,17 +133,17 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 44 — Interpretation of Chapter 2](part-1/section-44.md)
 
-#### Chapter 3 — Quality of health and social care[^key-532081469ad84a61940413a4067fac16]
+#### Chapter 3 — Quality of health and social care[^c-532081469ad84a61940413a4067fac16]
 
 *Extent: E+W*
 
-##### ...[^key-d0c5595e6a817daed9f4a996e3317bb0]
+##### ...[^c-d0c5595e6a817daed9f4a996e3317bb0]
 
 *Extent: E+W*
 
 - [Section 45 — Standards set by Secretary of State](part-1/section-45.md)
 
-##### Healthwatch England and Local Healthwatch organisations[^key-6c9a11c91453bf65871577fec7a80f15]
+##### Healthwatch England and Local Healthwatch organisations[^c-6c9a11c91453bf65871577fec7a80f15]
 
 *Extent: E+W*
 
@@ -169,7 +169,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 52 — Transfer and amendment of functions under Mental Health Act 1983](part-1/section-52.md)
 
-#### Chapter 5 — Further functions[^key-f6c06f2e4b73af6f455e4c646f0ccbd5]
+#### Chapter 5 — Further functions[^c-f6c06f2e4b73af6f455e4c646f0ccbd5]
 
 *Extent: E+W*
 
@@ -181,7 +181,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 58 — Publication of information](part-1/section-58.md)
 - [Section 59 — Additional functions](part-1/section-59.md)
 
-#### Chapter 6 — Miscellaneous and General[^key-1e28ec148890d74561a7d1afd4597ac8][^key-34d30c48fe83376a82b39dfc49e02f81][^key-9871cd13b97b961bee5ae76d2c9c810e]
+#### Chapter 6 — Miscellaneous and General[^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81][^c-9871cd13b97b961bee5ae76d2c9c810e]
 
 *Extent: E+W+S+N.I.*
 
@@ -463,22 +463,22 @@ SCHEDULES
 
 ## Annotations
 
-[^key-3ee48919ac1b2c1cdbaf46e23113d696]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2008/14) modified (temp.) (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 181(7)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/181/7/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-3ee48919ac1b2c1cdbaf46e23113d696]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2008/14) modified (temp.) (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 181(7)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/181/7/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-1e28ec148890d74561a7d1afd4597ac8]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [17(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/17/4/c) [(5)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/17/5/b)
+[^c-1e28ec148890d74561a7d1afd4597ac8]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [17(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/17/4/c) [(5)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/17/5/b)
 
-[^key-34d30c48fe83376a82b39dfc49e02f81]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [14(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/14/4/c)
+[^c-34d30c48fe83376a82b39dfc49e02f81]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [14(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/14/4/c)
 
-[^key-2035e0d59a5da2016f9739cfbe249cc6]: Modification: Pt. 1 modified (E.W.) (6.4.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/57/1), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 4](https://www.legislation.gov.uk/uksi/2015/993/article/4) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995))
+[^c-2035e0d59a5da2016f9739cfbe249cc6]: Modification: Pt. 1 modified (E.W.) (6.4.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/57/1), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 4](https://www.legislation.gov.uk/uksi/2015/993/article/4) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995))
 
-[^key-fe1cef3adfeac5982cc68b4689cf041a]: Modification: Pt. 1 modified (E.W.) (6.4.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), ss. 57(1)(2), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 4](https://www.legislation.gov.uk/uksi/2015/993/article/4) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995))
+[^c-fe1cef3adfeac5982cc68b4689cf041a]: Modification: Pt. 1 modified (E.W.) (6.4.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), ss. 57(1)(2), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 4](https://www.legislation.gov.uk/uksi/2015/993/article/4) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995))
 
-[^key-532081469ad84a61940413a4067fac16]: Modification: Pt. 1 Ch. 3 modified by 2004 c. 17, s. 10(1) (as substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), [arts. 1(1), 15](https://www.legislation.gov.uk/uksi/2010/813/article/15))
+[^c-532081469ad84a61940413a4067fac16]: Modification: Pt. 1 Ch. 3 modified by 2004 c. 17, s. 10(1) (as substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), [arts. 1(1), 15](https://www.legislation.gov.uk/uksi/2010/813/article/15))
 
-[^key-d0c5595e6a817daed9f4a996e3317bb0]: Textual amendment: S. 45 and preceding crossheading omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 17 para. 12(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/17/paragraph/12/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-d0c5595e6a817daed9f4a996e3317bb0]: Textual amendment: S. 45 and preceding crossheading omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 17 para. 12(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/17/paragraph/12/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-6c9a11c91453bf65871577fec7a80f15]: Textual amendment: Ss. 45A-45C and cross-heading inserted (27.3.2012 for specified purposes, 1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 181(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/181/4), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d), [(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/1831/article/7)); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-6c9a11c91453bf65871577fec7a80f15]: Textual amendment: Ss. 45A-45C and cross-heading inserted (27.3.2012 for specified purposes, 1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 181(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/181/4), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d), [(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/1831/article/7)); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-f6c06f2e4b73af6f455e4c646f0ccbd5]: Modification: Pt. 1 Ch. 5 modified by 2004 c. 17, s. 10(1) (as substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), [art. 15](https://www.legislation.gov.uk/uksi/2010/813/article/15)[reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/813/regulation/1/1))
+[^c-f6c06f2e4b73af6f455e4c646f0ccbd5]: Modification: Pt. 1 Ch. 5 modified by 2004 c. 17, s. 10(1) (as substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), [art. 15](https://www.legislation.gov.uk/uksi/2010/813/article/15)[reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/813/regulation/1/1))
 
-[^key-9871cd13b97b961bee5ae76d2c9c810e]: Modification: Pt. 1 Ch. 6 modified by 2004 c. 17, s. 10(1) (as substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), [arts. 1(1), 15](https://www.legislation.gov.uk/uksi/2010/813/article/15))
+[^c-9871cd13b97b961bee5ae76d2c9c810e]: Modification: Pt. 1 Ch. 6 modified by 2004 c. 17, s. 10(1) (as substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), [arts. 1(1), 15](https://www.legislation.gov.uk/uksi/2010/813/article/15))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Prior consultation on proposals[^key-a0fda8b2bf7efec1c0223e0a50f8a0fa][^key-9cfb5da096909cdb018d2ec185a96508]
+## 28. Prior consultation on proposals[^c-a0fda8b2bf7efec1c0223e0a50f8a0fa][^c-9cfb5da096909cdb018d2ec185a96508]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a0fda8b2bf7efec1c0223e0a50f8a0fa]: Commencement: S. 28 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-a0fda8b2bf7efec1c0223e0a50f8a0fa]: Commencement: S. 28 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-9cfb5da096909cdb018d2ec185a96508]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2022/9/section/28) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)
+[^c-9cfb5da096909cdb018d2ec185a96508]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2022/9/section/28) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)

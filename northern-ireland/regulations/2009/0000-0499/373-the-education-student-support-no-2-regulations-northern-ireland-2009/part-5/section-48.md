@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Calculations[^key-7ccf1a3d3a61e7132f2c11b94ec7d451]
+## 48. Calculations[^c-7ccf1a3d3a61e7132f2c11b94ec7d451]
 
 *Extent: N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 (6) Where the amount of the parents’ learning allowance calculated under paragraph (1) is £0.01 or more but less than £50, the amount of parents’ learning allowance payable is £50.
 
-(7)[^key-09f9bda6afde69d9e619c086e6dead20] In this regulation—
+(7)[^c-09f9bda6afde69d9e619c086e6dead20] In this regulation—
 
 *A* is the aggregate of—
 
@@ -85,7 +85,7 @@ Where the student begins the course on or after 1st September 2013, *B* is—
 - (a) there is a change in the number of the eligible student’s dependants;
 - (b) a person becomes or ceases to be a dependant of the eligible student;
 - (c) the eligible student becomes or ceases to be a lone parent;
-- (d) a student becomes eligible for support as a result of —[^key-26bf38def77c650f838a4e54a2f08d8c]
+- (d) a student becomes eligible for support as a result of —[^c-26bf38def77c650f838a4e54a2f08d8c]
   - (i) course designation event, or
   - (ii) an in-year qualifying event (other than a settled status event).
 
@@ -108,8 +108,8 @@ Where the student begins the course on or after 1st September 2013, *B* is—
 
 ## Annotations
 
-[^key-7ccf1a3d3a61e7132f2c11b94ec7d451]: Commencement: Reg. 48 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-7ccf1a3d3a61e7132f2c11b94ec7d451]: Commencement: Reg. 48 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-09f9bda6afde69d9e619c086e6dead20]: Textual amendment: [Reg. 48(7)](https://www.legislation.gov.uk/nisr/2009/373/regulation/48/7), [(7A)-(7D)](https://www.legislation.gov.uk/nisr/2009/373/regulation/48/7A) substituted for [reg. 48(7)](https://www.legislation.gov.uk/nisr/2009/373/regulation/48/7) (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) (No. 2) Regulations (Northern Ireland) 2012 (S.R. 2012/398)](https://www.legislation.gov.uk/nisr/2012/398), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/398/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2012/398/regulation/10)
+[^c-09f9bda6afde69d9e619c086e6dead20]: Textual amendment: [Reg. 48(7)](https://www.legislation.gov.uk/nisr/2009/373/regulation/48/7), [(7A)-(7D)](https://www.legislation.gov.uk/nisr/2009/373/regulation/48/7A) substituted for [reg. 48(7)](https://www.legislation.gov.uk/nisr/2009/373/regulation/48/7) (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) (No. 2) Regulations (Northern Ireland) 2012 (S.R. 2012/398)](https://www.legislation.gov.uk/nisr/2012/398), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/398/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2012/398/regulation/10)
 
-[^key-26bf38def77c650f838a4e54a2f08d8c]: Textual amendment: Words in [reg. 48(8)(d)](https://www.legislation.gov.uk/nisr/2009/373/regulation/48/8/d) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [43](https://www.legislation.gov.uk/nisr/2024/19/regulation/43)
+[^c-26bf38def77c650f838a4e54a2f08d8c]: Textual amendment: Words in [reg. 48(8)(d)](https://www.legislation.gov.uk/nisr/2009/373/regulation/48/8/d) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [43](https://www.legislation.gov.uk/nisr/2024/19/regulation/43)

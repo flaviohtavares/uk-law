@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Powers to form companies etc.[^key-402e284fdf69b19dfe97a2fff7e0f949]
+## 29. Powers to form companies etc.[^c-402e284fdf69b19dfe97a2fff7e0f949]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The HCA may, with the consent of the Secretary of State, form, or acquire intere
 
 ## Annotations
 
-[^key-402e284fdf69b19dfe97a2fff7e0f949]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2008/17/section/29) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(o)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/o) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-402e284fdf69b19dfe97a2fff7e0f949]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2008/17/section/29) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(o)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/o) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

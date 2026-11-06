@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3F — Text of the 2005 Hague Convention[^key-224cf40519da7bd8f7791fbe5598b31c]
+## SCHEDULE 3F — Text of the 2005 Hague Convention[^c-224cf40519da7bd8f7791fbe5598b31c]
 
 *Extent: E+W+S+N.I.*
 
@@ -375,4 +375,4 @@ Done at The Hague, on 30 June 2005, in the English and French languages, both te
 
 ## Annotations
 
-[^key-224cf40519da7bd8f7791fbe5598b31c]: Textual amendment: [Sch. 3F](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3F) inserted (31.12.2020) by [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2020/24/schedule/3) (with [s. 3(1)](https://www.legislation.gov.uk/ukpga/2020/24/section/3/1), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/7))
+[^c-224cf40519da7bd8f7791fbe5598b31c]: Textual amendment: [Sch. 3F](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3F) inserted (31.12.2020) by [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2020/24/schedule/3) (with [s. 3(1)](https://www.legislation.gov.uk/ukpga/2020/24/section/3/1), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/7))

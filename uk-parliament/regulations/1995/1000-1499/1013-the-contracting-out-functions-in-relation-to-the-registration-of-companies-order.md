@@ -44,7 +44,7 @@ And whereas a draft of this Order has been laid before Parliament and approved b
 
 Now therefore the Secretary of State, in exercise of the powers conferred on him by section 69 of that Act and of all other powers enabling him in that behalf, hereby makes the following Order:—
 
-## 1. Citation and Commencement[^key-8e2eace45c7ff3d3bfc13373e37a0948]
+## 1. Citation and Commencement[^c-8e2eace45c7ff3d3bfc13373e37a0948]
 
 (1) This Order may be cited as the Contracting Out (Functions in relation to the Registration of Companies) Order 1995.
 
@@ -52,28 +52,28 @@ Now therefore the Secretary of State, in exercise of the powers conferred on him
 
 (3) This Order shall come into force in relation to any functions conferred by or under sections 652A to F of the Companies Act 1985[^f00002] (striking off register of non-trading private companies) immediately after those sections come into force.
 
-## 2. Interpretation[^key-3804ad07cd4ad8aaf8e750b64bf9adc9]
+## 2. Interpretation[^c-3804ad07cd4ad8aaf8e750b64bf9adc9]
 
 (1) In this Order—
 
 - “the Act” means the Companies Act 1985;
 - “the Regulations” mean the European Economic Interest Grouping Regulations 1989[^f00003]; and
-- “[^key-0fbc4e35607f80371cff7cf97f8ae80e]**EEIG establishment**” has the meaning given in regulation 2(1) of the Regulations;
-- “[^key-c8ffdd1b384637c0178c27cc4fba3786]**UKEIG**” has the meaning given in regulation 2(1) of the Regulations
+- “[^c-0fbc4e35607f80371cff7cf97f8ae80e]**EEIG establishment**” has the meaning given in regulation 2(1) of the Regulations;
+- “[^c-c8ffdd1b384637c0178c27cc4fba3786]**UKEIG**” has the meaning given in regulation 2(1) of the Regulations
 
 (2) Any expression used in the Act, if used in this Order, bears the same meaning as it bears in the Act unless the context otherwise requires.
 
-## 3. Contracting out of functions of the registrar in relation to England and Wales[^key-d3a9d1cab1c4bcd1c5906f4efb290256]
+## 3. Contracting out of functions of the registrar in relation to England and Wales[^c-d3a9d1cab1c4bcd1c5906f4efb290256]
 
 Any function of the registrar of companies for England and Wales which is listed in Schedule 1 to this Order may be exercised by, or by employees of, such person (if any) as may be authorised in that behalf by the registrar of companies for England and Wales.
 
-## 4. Contracting out of functions of the registrar in relation to Scotland[^key-9c39d48ae74dbd0d5b707f9d3acc43d7]
+## 4. Contracting out of functions of the registrar in relation to Scotland[^c-9c39d48ae74dbd0d5b707f9d3acc43d7]
 
 (1) Subject to paragraph (2) below, any function of the registrar of companies for Scotland which is conferred by or under any enactment may be exercised by, or by employees of, such person (if any) as may be authorised in that behalf by the registrar of companies for Scotland.
 
 (2) Paragraph (1) above does not apply to the functions listed in Schedule 2 to this Order.
 
-## 5. Contracting out of functions of the Secretary of State[^key-b09073e62238d3773497d55e2f780a45]
+## 5. Contracting out of functions of the Secretary of State[^c-b09073e62238d3773497d55e2f780a45]
 
 Any function of the Secretary of State which is listed in Schedule 3 to this Order may be exercised by, or by employees of, such person (if any) as may be authorised in that behalf by the Secretary of State.
 
@@ -87,14 +87,14 @@ Department of Trade and Industry
 
 Article 3
 
-**1.**[^key-aa6801def374ff68feffc43f6bbf3cde] Any function of receiving any return, account or other document required to be filed with, delivered or sent, or notice of any matter required to be given, to the registrar which is conferred by or under any enactment.
+**1.**[^c-aa6801def374ff68feffc43f6bbf3cde] Any function of receiving any return, account or other document required to be filed with, delivered or sent, or notice of any matter required to be given, to the registrar which is conferred by or under any enactment.
 
-**2.**[^key-76f82b300312cef8c735fce27d913f05] Any functions in relation to—
+**2.**[^c-76f82b300312cef8c735fce27d913f05] Any functions in relation to—
 
 - (a) the incorporation of companies and the change of name of companies by or under Chapters I and II of Part I of the Act (company formation; company names);
 - (b) the re-registration and change of status of companies by or under Part II (re-registration as a means of altering a company’s status) and sections 138 (registration of order and minute of reduction), 139 and 147 of the Act (re-registration of public companies on reduction of capital).
 
-**3.**[^key-98a0740103f2842f876085984b9ad5a1] Functions conferred by or under any of the following provisions of the Act:
+**3.**[^c-98a0740103f2842f876085984b9ad5a1] Functions conferred by or under any of the following provisions of the Act:
 
 - (a) sections 705 and 705A[^f00004] (companies' registered numbers and registration of branches of oversea companies) except insofar as they relate respectively to the determination of the form of companies' registered numbers and branches' registered numbers;
 - (b) section 706[^f00005] (delivery to the registrar of documents in legible form) except insofar as they relate to specification of requirements for the purpose of enabling the copying of documents delivered to the registrar;
@@ -103,21 +103,21 @@ Article 3
 - (e) section 710 (certificate of incorporation); and
 - (f) section 710A[^f00008] (provision and authentication by registrar of documents in non-legible form) except insofar as they relate to the approval of the means of communication to the registrar of information in non-legible form.
 
-**4.**[^key-dd3c45e4850be3b7e5204ec17978be4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-dd3c45e4850be3b7e5204ec17978be4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c33cea01f23ed933350041b2f6bb5f4d] Functions conferred by or under section 16 of the Limited Partnerships Act 1907[^f00010] (inspection of statements registered).
+**5.**[^c-c33cea01f23ed933350041b2f6bb5f4d] Functions conferred by or under section 16 of the Limited Partnerships Act 1907[^f00010] (inspection of statements registered).
 
-**6.**[^key-8de9de2cdc364a276c11008cd6cd16c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8de9de2cdc364a276c11008cd6cd16c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-38bc28975fd88ad830019c7dc4741055] Functions conferred by or under regulation 14 of the Regulations (inspection of documents).
+**7.**[^c-38bc28975fd88ad830019c7dc4741055] Functions conferred by or under regulation 14 of the Regulations (inspection of documents).
 
-**8.**[^key-2c9d2135bae850ddf572eafccc791dd0] Functions conferred by or under any provision of the Act listed in paragraphs 2 and 3 above to the extent specified in those paragraphs where any such provision is applied to UKEIGs or EEIG establishments[^key-aa39d7bc951a03b3b0622f1c9c7b1efa] by regulation 18 of the Regulations (application of the Companies Act 1985).
+**8.**[^c-2c9d2135bae850ddf572eafccc791dd0] Functions conferred by or under any provision of the Act listed in paragraphs 2 and 3 above to the extent specified in those paragraphs where any such provision is applied to UKEIGs or EEIG establishments[^c-aa39d7bc951a03b3b0622f1c9c7b1efa] by regulation 18 of the Regulations (application of the Companies Act 1985).
 
 ## SCHEDULE 2 — FUNCTIONS OF REGISTRAR OF COMPANIES FOR SCOTLAND EXCLUDED FROM CONTRACTING OUT
 
 Article 4
 
-**1.**[^key-32a500032a78fe5f28b9efa9e721611d] Functions conferred by or under any of the following provisions of the Act:
+**1.**[^c-32a500032a78fe5f28b9efa9e721611d] Functions conferred by or under any of the following provisions of the Act:
 
 - (a) section 242[^f00012] (accounts and reports to be delivered to the registrar) so far as they relate to the making of an application to the court;
 - (b) sections 705 and 705A so far as they relate respectively to the determination of the form of companies' registered numbers and branches' registered numbers;
@@ -129,28 +129,28 @@ Article 4
 - (h) section 710A so far as they relate to the approval of the means of communication by the registrar of information in non-legible form; and
 - (i) section 713[^f00014] (enforcement of company’s duty to make returns) so far as they relate to the making of an application to the court.
 
-**2.**[^key-c83829cfddfe74f7875b7135c055ebc4] Functions conferred by or under any of the following provisions of the Insolvency Act 1986[^f00015]:
+**2.**[^c-c83829cfddfe74f7875b7135c055ebc4] Functions conferred by or under any of the following provisions of the Insolvency Act 1986[^f00015]:
 
 - (a) section 69 (enforcement of receiver’s duty to make returns etc.); and
 - (b) section 170 (enforcement of liquidator’s duty to make returns etc.).
 
-**3.**[^key-37168490f600f250920262573a8c405b] Functions conferred by or under regulation 4(2) of the Regulations (transfer of official address).
+**3.**[^c-37168490f600f250920262573a8c405b] Functions conferred by or under regulation 4(2) of the Regulations (transfer of official address).
 
-**4.**[^key-ff0e22d55dcfb13d18f390183466e463] Functions conferred by or under any provision of the Act or the Insolvency Act 1986 listed in paragraphs 1 and 2(a) above to the extent specified in these paragraphs where any such provision is applied to UKEIGs or EEIG establishments[^key-77fc0a89392aa9e9f8dd8aa70809b998] by regulation 18 or 19 of the Regulations.
+**4.**[^c-ff0e22d55dcfb13d18f390183466e463] Functions conferred by or under any provision of the Act or the Insolvency Act 1986 listed in paragraphs 1 and 2(a) above to the extent specified in these paragraphs where any such provision is applied to UKEIGs or EEIG establishments[^c-77fc0a89392aa9e9f8dd8aa70809b998] by regulation 18 or 19 of the Regulations.
 
 ## SCHEDULE 3 — FUNCTIONS OF THE SECRETARY OF STATE ENABLED TO BE CONTRACTED OUT
 
 Article 5
 
-**1.**[^key-e3e38cc3238330ff488381e51953a447] Functions conferred by or under any of the following provisions of the Act:
+**1.**[^c-e3e38cc3238330ff488381e51953a447] Functions conferred by or under any of the following provisions of the Act:
 
 - (a) section 26(2) (prohibition on registration of certain names except with the approval of the Secretary of State);
 - (b) section 244(5) (extension by Secretary of State of the period allowed for laying and delivering accounts and reports); and
 - (c) section 702(5) (extension by Secretary of State of period for delivering accounts and reports of an oversea company).
 
-**2.**[^key-685dbe691048ff3eede1f2db4d5e9299] Functions conferred by or under section 2 of the Business Names Act 1985[^f00016] (prohibition of use of certain business names).
+**2.**[^c-685dbe691048ff3eede1f2db4d5e9299] Functions conferred by or under section 2 of the Business Names Act 1985[^f00016] (prohibition of use of certain business names).
 
-**3.**[^key-753355758b01db0d0c9c9dfc9dcfa550] Functions conferred by or under section 2 of the Business Names Act 1985 as applied to EEIGs by regulation 17 of the Regulations (application of Business Names Act 1985).
+**3.**[^c-753355758b01db0d0c9c9dfc9dcfa550] Functions conferred by or under section 2 of the Business Names Act 1985 as applied to EEIGs by regulation 17 of the Regulations (application of Business Names Act 1985).
 
 (This note does not form part of the Order)
 
@@ -166,29 +166,29 @@ Article 5 of the Order enables the Secretary of State to authorise the exercise 
 
 [^f00001]: Footnote: [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40).
 
-[^key-8e2eace45c7ff3d3bfc13373e37a0948]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1995/1013/article/1) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-8e2eace45c7ff3d3bfc13373e37a0948]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1995/1013/article/1) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
 [^f00002]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6); sections 652A to F are prospectively inserted by section 13(1) of, and paragraphs 1 and 2 of Schedule 5 to, the Deregulation and Contracting Out Act 1994.
 
-[^key-3804ad07cd4ad8aaf8e750b64bf9adc9]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1995/1013/article/2) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-3804ad07cd4ad8aaf8e750b64bf9adc9]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1995/1013/article/2) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
 [^f00003]: Footnote: S.I. [1989/638](https://www.legislation.gov.uk/uksi/1989/638).
 
-[^key-0fbc4e35607f80371cff7cf97f8ae80e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/1013/article/2/1) substituted (31.12.2020) by [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [64(a)(i)](https://www.legislation.gov.uk/uksi/2018/1299/regulation/64/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0fbc4e35607f80371cff7cf97f8ae80e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/1013/article/2/1) substituted (31.12.2020) by [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [64(a)(i)](https://www.legislation.gov.uk/uksi/2018/1299/regulation/64/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c8ffdd1b384637c0178c27cc4fba3786]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/1013/article/2/1) inserted (31.12.2020) by [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [64(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1299/regulation/64/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8ffdd1b384637c0178c27cc4fba3786]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/1013/article/2/1) inserted (31.12.2020) by [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [64(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1299/regulation/64/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d3a9d1cab1c4bcd1c5906f4efb290256]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1995/1013/article/3) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-d3a9d1cab1c4bcd1c5906f4efb290256]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1995/1013/article/3) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
-[^key-9c39d48ae74dbd0d5b707f9d3acc43d7]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1995/1013/article/4) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-9c39d48ae74dbd0d5b707f9d3acc43d7]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1995/1013/article/4) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
-[^key-b09073e62238d3773497d55e2f780a45]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1995/1013/article/5) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-b09073e62238d3773497d55e2f780a45]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1995/1013/article/5) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
-[^key-aa6801def374ff68feffc43f6bbf3cde]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/1) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-aa6801def374ff68feffc43f6bbf3cde]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/1) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
-[^key-76f82b300312cef8c735fce27d913f05]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/2) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-76f82b300312cef8c735fce27d913f05]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/2) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
-[^key-98a0740103f2842f876085984b9ad5a1]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/3) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-98a0740103f2842f876085984b9ad5a1]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/3) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
 [^f00004]: Footnote: Section 705 was substituted by section 145 of, and paragraph 14 of Schedule 19 to, the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), and amended by regulation 4 of, and paragraph 5 of Schedule 3 to, S.I. [1992/3179](https://www.legislation.gov.uk/uksi/1992/3179); section 705A was inserted by regulation 3(2) of S.I. [1992/3179](https://www.legislation.gov.uk/uksi/1992/3179).
 
@@ -200,21 +200,21 @@ Article 5 of the Order enables the Secretary of State to authorise the exercise 
 
 [^f00008]: Footnote: Section 710A was inserted by section 126(2) of the Companies Act 1989.
 
-[^key-dd3c45e4850be3b7e5204ec17978be4a]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/4) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2015/971/schedule/5/paragraph/2)
+[^c-dd3c45e4850be3b7e5204ec17978be4a]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/4) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2015/971/schedule/5/paragraph/2)
 
-[^key-c33cea01f23ed933350041b2f6bb5f4d]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/5) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-c33cea01f23ed933350041b2f6bb5f4d]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/5) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
 [^f00010]: Footnote: 7 Edw. 7 c. 24.
 
-[^key-8de9de2cdc364a276c11008cd6cd16c9]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/6) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [490](https://www.legislation.gov.uk/uksi/2001/3649/article/490)
+[^c-8de9de2cdc364a276c11008cd6cd16c9]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/6) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [490](https://www.legislation.gov.uk/uksi/2001/3649/article/490)
 
-[^key-38bc28975fd88ad830019c7dc4741055]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/7) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-38bc28975fd88ad830019c7dc4741055]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/7) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
-[^key-2c9d2135bae850ddf572eafccc791dd0]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/8) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-2c9d2135bae850ddf572eafccc791dd0]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/8) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
-[^key-aa39d7bc951a03b3b0622f1c9c7b1efa]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/8) substituted (31.12.2020) by [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [64(b)](https://www.legislation.gov.uk/uksi/2018/1299/regulation/64/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa39d7bc951a03b3b0622f1c9c7b1efa]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1995/1013/schedule/1/paragraph/8) substituted (31.12.2020) by [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [64(b)](https://www.legislation.gov.uk/uksi/2018/1299/regulation/64/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-32a500032a78fe5f28b9efa9e721611d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1995/1013/schedule/2/paragraph/1) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-32a500032a78fe5f28b9efa9e721611d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1995/1013/schedule/2/paragraph/1) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
 [^f00012]: Footnote: Section 242 was substituted by section 11 of the Companies Act 1989 and amended by regulation 2(1) and (2) of S.I. [1992/1083](https://www.legislation.gov.uk/uksi/1992/1083) and by section 30(4) of the Welsh Language Act [1993 (c. 38)](https://www.legislation.gov.uk/ukpga/1993/38).
 
@@ -222,20 +222,20 @@ Article 5 of the Order enables the Secretary of State to authorise the exercise 
 
 [^f00014]: Footnote: Section 713(1) was amended by section 127(4) of the Companies Act 1989.
 
-[^key-c83829cfddfe74f7875b7135c055ebc4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1995/1013/schedule/2/paragraph/2) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-c83829cfddfe74f7875b7135c055ebc4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1995/1013/schedule/2/paragraph/2) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
 [^f00015]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-37168490f600f250920262573a8c405b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1995/1013/schedule/2/paragraph/3) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-37168490f600f250920262573a8c405b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1995/1013/schedule/2/paragraph/3) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
-[^key-ff0e22d55dcfb13d18f390183466e463]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1995/1013/schedule/2/paragraph/4) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-ff0e22d55dcfb13d18f390183466e463]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1995/1013/schedule/2/paragraph/4) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
-[^key-77fc0a89392aa9e9f8dd8aa70809b998]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1995/1013/schedule/2/paragraph/4) substituted (31.12.2020) by [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [64(c)](https://www.legislation.gov.uk/uksi/2018/1299/regulation/64/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-77fc0a89392aa9e9f8dd8aa70809b998]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1995/1013/schedule/2/paragraph/4) substituted (31.12.2020) by [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [64(c)](https://www.legislation.gov.uk/uksi/2018/1299/regulation/64/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e3e38cc3238330ff488381e51953a447]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1995/1013/schedule/3/paragraph/1) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-e3e38cc3238330ff488381e51953a447]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1995/1013/schedule/3/paragraph/1) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
-[^key-685dbe691048ff3eede1f2db4d5e9299]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1995/1013/schedule/3/paragraph/2) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-685dbe691048ff3eede1f2db4d5e9299]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1995/1013/schedule/3/paragraph/2) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
 
 [^f00016]: Footnote: [1985 c. 7](https://www.legislation.gov.uk/ukpga/1985/7).
 
-[^key-753355758b01db0d0c9c9dfc9dcfa550]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1995/1013/schedule/3/paragraph/3) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)
+[^c-753355758b01db0d0c9c9dfc9dcfa550]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1995/1013/schedule/3/paragraph/3) in force at 5.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/1013/article/1/3)

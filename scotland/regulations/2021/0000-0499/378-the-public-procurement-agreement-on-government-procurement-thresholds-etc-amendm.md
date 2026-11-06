@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by regulations 5A(4) and 83A(2) of the Public Contracts (Scotland) Regulations 2015[^f00001], regulation 15A(4) and 108A(2) of the Utilities Contracts (Scotland) Regulations 2016[^f00002], regulations 8A(4) and 60ZA(2) of the Concession Contracts (Scotland) Regulations 2016[^f00003] and sections 1(1) and 4(1) of the Trade Act 2021[^f00004] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and extent[^key-92ed232ed65413b34ff4751947717497]
+## 1. Citation, commencement and extent[^c-92ed232ed65413b34ff4751947717497]
 
 (1) These Regulations may be cited as the Public Procurement (Agreement on Government Procurement) (Thresholds etc.) (Amendment) (Scotland) Regulations 2021.
 
@@ -54,7 +54,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (3) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-5d550f12fc79727e96059c81326d6a27]
+## 2. Interpretation[^c-5d550f12fc79727e96059c81326d6a27]
 
 In these Regulations—
 
@@ -62,7 +62,7 @@ In these Regulations—
 - “the Concession Regulations” means the Concession Contracts (Scotland) Regulations 2016; and
 - “the Utilities Regulations” means the Utilities Contracts (Scotland) Regulations 2016.
 
-## 3. Amendment of the Public Contracts (Scotland) Regulations 2015[^key-3df99445ed470da69938762a1a4ea53e]
+## 3. Amendment of the Public Contracts (Scotland) Regulations 2015[^c-3df99445ed470da69938762a1a4ea53e]
 
 (1) The 2015 Regulations[^f00005] are amended as follows.
 
@@ -80,23 +80,23 @@ In these Regulations—
 - (a) in sub-paragraph (a), for “net of value added tax” substitute “inclusive of value added tax, where appropriate”,
 - (b) in sub-paragraph (b), for “net of value added tax” substitute “inclusive of value added tax, where appropriate”.
 
-(5) In Part 2 of Schedule 1[^key-0a9471c1b63e2183a65ee659f6d511b5] omit “Regional Development Scotland”.
+(5) In Part 2 of Schedule 1[^c-0a9471c1b63e2183a65ee659f6d511b5] omit “Regional Development Scotland”.
 
-## 4. Amendment of the Utilities Contracts (Scotland) Regulations 2016[^key-466639404bfb66203d7d017ec695f707]
+## 4. Amendment of the Utilities Contracts (Scotland) Regulations 2016[^c-466639404bfb66203d7d017ec695f707]
 
 (1) The Utilities Regulations[^f00006] are amended as follows.
 
 (2) In regulation 15 (thresholds), in paragraph (1)—
 
 - (a) for “not including VAT” substitute “inclusive of VAT, where appropriate”,
-- (b) in sub-paragraph (a), for “£378,660” substitute “£426,955[^key-5555524d90c28d19b6adf48a68e60864]”,
+- (b) in sub-paragraph (a), for “£378,660” substitute “£426,955[^c-5555524d90c28d19b6adf48a68e60864]”,
 - (c) in sub-paragraph (b), for “£4,733,252” substitute “£5,336,937”.
 
 (3) In regulation 16 (methods for calculating the estimated value), in paragraph (1) for “not including VAT” substitute “inclusive of VAT, where appropriate”.
 
 (4) In regulation 91 (scope of chapter), in heads (a) and (b) in each place it occurs, for “net of VAT” substitute “inclusive of VAT, where appropriate”.
 
-## 5. Amendment of the Concession Contracts (Scotland) Regulations 2016[^key-b1f2ddb4ae620fc108c33d8962729836]
+## 5. Amendment of the Concession Contracts (Scotland) Regulations 2016[^c-b1f2ddb4ae620fc108c33d8962729836]
 
 In regulation 8 (thresholds and methods for calculating the estimated value of the concession contract) of the Concession Regulations[^f00007]—
 
@@ -105,7 +105,7 @@ In regulation 8 (thresholds and methods for calculating the estimated value of t
   - (ii) for “not including value added tax” substitute “inclusive of value added tax, where appropriate”,
 - (b) in paragraph (3) for “net of value added tax” substitute “inclusive of value added tax, where appropriate”.
 
-## 6. Transitional provision and saving where public contract procurement procedures commenced before 1 January 2022[^key-619c4c7380726580466a9cf50a6ed669]
+## 6. Transitional provision and saving where public contract procurement procedures commenced before 1 January 2022[^c-619c4c7380726580466a9cf50a6ed669]
 
 (1) In this Regulation—
 
@@ -161,24 +161,24 @@ These Regulations amend the thresholds that apply in the field of public procure
 
 [^f00004]: Footnote: [2021 c. 10](https://www.legislation.gov.uk/ukpga/2021/10).
 
-[^key-92ed232ed65413b34ff4751947717497]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/378/regulation/1) in force at 1.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2)
+[^c-92ed232ed65413b34ff4751947717497]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/378/regulation/1) in force at 1.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2)
 
-[^key-5d550f12fc79727e96059c81326d6a27]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/378/regulation/2) in force at 1.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2)
+[^c-5d550f12fc79727e96059c81326d6a27]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/378/regulation/2) in force at 1.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2)
 
-[^key-3df99445ed470da69938762a1a4ea53e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/378/regulation/3) in force at 1.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2)
+[^c-3df99445ed470da69938762a1a4ea53e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/378/regulation/3) in force at 1.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2)
 
 [^f00005]: Footnote: [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446) as amended by regulation 4(5) and (6) of the 2020 Regulations and regulation 5(3) and Schedule 2 of the Public Procurement (Agreement on Government Procurement) (Amendment) (No. 2) Regulations 2021 ([S.I. 2021/872](https://www.legislation.gov.uk/uksi/2021/872)).
 
-[^key-0a9471c1b63e2183a65ee659f6d511b5]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/ssi/2021/378/regulation/3/5) substituted (31.12.2021) by [The Public Procurement (Agreement on Government Procurement) (Thresholds etc.) (Amendment) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/424)](https://www.legislation.gov.uk/ssi/2021/424), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/424/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2021/424/regulation/2/2)
+[^c-0a9471c1b63e2183a65ee659f6d511b5]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/ssi/2021/378/regulation/3/5) substituted (31.12.2021) by [The Public Procurement (Agreement on Government Procurement) (Thresholds etc.) (Amendment) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/424)](https://www.legislation.gov.uk/ssi/2021/424), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/424/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2021/424/regulation/2/2)
 
-[^key-466639404bfb66203d7d017ec695f707]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/378/regulation/4) in force at 1.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2)
+[^c-466639404bfb66203d7d017ec695f707]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/378/regulation/4) in force at 1.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2)
 
 [^f00006]: Footnote: [S.S.I. 2016/49](https://www.legislation.gov.uk/ssi/2016/49) as amended by regulation 6(6) and (7) of the 2020 Regulations.
 
-[^key-5555524d90c28d19b6adf48a68e60864]: Textual amendment: Sum in reg. 4(2)(b) substituted (31.12.2021) by [The Public Procurement (Agreement on Government Procurement) (Thresholds etc.) (Amendment) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/424)](https://www.legislation.gov.uk/ssi/2021/424), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/424/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2021/424/regulation/2/3)
+[^c-5555524d90c28d19b6adf48a68e60864]: Textual amendment: Sum in reg. 4(2)(b) substituted (31.12.2021) by [The Public Procurement (Agreement on Government Procurement) (Thresholds etc.) (Amendment) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/424)](https://www.legislation.gov.uk/ssi/2021/424), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/424/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2021/424/regulation/2/3)
 
-[^key-b1f2ddb4ae620fc108c33d8962729836]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/378/regulation/5) in force at 1.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2)
+[^c-b1f2ddb4ae620fc108c33d8962729836]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/378/regulation/5) in force at 1.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2)
 
 [^f00007]: Footnote: [S.S.I. 2016/65](https://www.legislation.gov.uk/ssi/2016/65) as amended by regulation 8(5) and (6) of the 2020 Regulations.
 
-[^key-619c4c7380726580466a9cf50a6ed669]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/378/regulation/6) in force at 1.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2)
+[^c-619c4c7380726580466a9cf50a6ed669]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/378/regulation/6) in force at 1.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2)

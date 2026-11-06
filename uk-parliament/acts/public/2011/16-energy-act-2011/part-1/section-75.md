@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Access to register of energy performance certificates etc: Scotland[^key-758a77f8f0a25c0a7eee82afb86ea5a3]
+## 75. Access to register of energy performance certificates etc: Scotland[^c-758a77f8f0a25c0a7eee82afb86ea5a3]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-758a77f8f0a25c0a7eee82afb86ea5a3]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2011/16/section/75) in force at 22.6.2012 by [S.S.I. 2012/191](https://www.legislation.gov.uk/ssi/2012/191), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/191/article/2/1)[(2)(e)](https://www.legislation.gov.uk/ssi/2012/191/article/2/2/e)
+[^c-758a77f8f0a25c0a7eee82afb86ea5a3]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2011/16/section/75) in force at 22.6.2012 by [S.S.I. 2012/191](https://www.legislation.gov.uk/ssi/2012/191), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/191/article/2/1)[(2)(e)](https://www.legislation.gov.uk/ssi/2012/191/article/2/2/e)

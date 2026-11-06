@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Social Security (Northern Ireland) Order 1989[^key-597a348be54568cff8d3422bdba52a70]
+## 63. Social Security (Northern Ireland) Order 1989[^c-597a348be54568cff8d3422bdba52a70]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ In paragraph 2 of Schedule 5 to the Social Security (Northern Ireland) Order 198
 
 ## Annotations
 
-[^key-597a348be54568cff8d3422bdba52a70]: Commencement: Reg. 63 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-597a348be54568cff8d3422bdba52a70]: Commencement: Reg. 63 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00089]: Footnote: [S.I. 1989/1342 (N.I. 13)](https://www.legislation.gov.uk/nisi/1989/1342).

@@ -32,7 +32,7 @@ summary: ''
 
 INCOME TAX
 
-The Tax Information Exchange Agreement (Taxes on Income) (Gibraltar) Order 2006 (revoked)[^key-eff45f1eb9050352d62efffd9487deb3]
+The Tax Information Exchange Agreement (Taxes on Income) (Gibraltar) Order 2006 (revoked)[^c-eff45f1eb9050352d62efffd9487deb3]
 
 Made
 
@@ -44,23 +44,23 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-eff45f1eb9050352d62efffd9487deb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eff45f1eb9050352d62efffd9487deb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-eff45f1eb9050352d62efffd9487deb3]
+## 1. Citation[^c-eff45f1eb9050352d62efffd9487deb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Declaration about exchange of information[^key-eff45f1eb9050352d62efffd9487deb3]
+## 2. Declaration about exchange of information[^c-eff45f1eb9050352d62efffd9487deb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eff45f1eb9050352d62efffd9487deb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eff45f1eb9050352d62efffd9487deb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — AGREEMENT ON THE TAXATION OF SAVINGS INCOME BETWEEN GIBRALTAR AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND[^key-eff45f1eb9050352d62efffd9487deb3]
+## SCHEDULE 1 — AGREEMENT ON THE TAXATION OF SAVINGS INCOME BETWEEN GIBRALTAR AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND[^c-eff45f1eb9050352d62efffd9487deb3]
 
 Article 2
 
@@ -68,8 +68,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-eff45f1eb9050352d62efffd9487deb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eff45f1eb9050352d62efffd9487deb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eff45f1eb9050352d62efffd9487deb3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/1453) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-eff45f1eb9050352d62efffd9487deb3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/1453) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

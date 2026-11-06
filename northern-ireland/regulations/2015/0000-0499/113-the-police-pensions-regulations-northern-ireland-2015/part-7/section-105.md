@@ -35,7 +35,7 @@ summary: ''
 - (a) in respect of a member mentioned in paragraph (1)(a) or (b), when the member reaches normal pension age under this scheme; or
 - (b) in respect of a member mentioned in paragraph (1)(c), when the member reaches the member's state pension age.
 
-(5)[^key-d23d4ba2dd3dc20a77b6525f7ef04723] When the member reaches the member’s state pension age, if the reduced pension is less than the amount of full retirement pension that would have been payable to the member under regulation 89(2) had the member reached the member’s state pension age when the member left eligible service, the scheme manager must increase the pension to that amount.
+(5)[^c-d23d4ba2dd3dc20a77b6525f7ef04723] When the member reaches the member’s state pension age, if the reduced pension is less than the amount of full retirement pension that would have been payable to the member under regulation 89(2) had the member reached the member’s state pension age when the member left eligible service, the scheme manager must increase the pension to that amount.
 
 (6) The member may appeal under regulation 206 (appeals to the Department) against the decision of the scheme manager to reduce a pension under this regulation.
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c22512171]: Marginal citation: See regulation 89(3) for when a full retirement pension comes into payment early on grounds of permanent medical unfitness.
 
-[^key-d23d4ba2dd3dc20a77b6525f7ef04723]: Textual amendment: [Reg. 105(5)](https://www.legislation.gov.uk/nisr/2015/113/regulation/105/5) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [26](https://www.legislation.gov.uk/nisr/2024/38/regulation/26)
+[^c-d23d4ba2dd3dc20a77b6525f7ef04723]: Textual amendment: [Reg. 105(5)](https://www.legislation.gov.uk/nisr/2015/113/regulation/105/5) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [26](https://www.legislation.gov.uk/nisr/2024/38/regulation/26)

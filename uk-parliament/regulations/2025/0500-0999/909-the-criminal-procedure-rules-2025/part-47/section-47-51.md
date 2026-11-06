@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.51. When this Section applies[^key-6fa82f6b0fd20cc89148b274944ceaea]
+## 47.51. When this Section applies[^c-6fa82f6b0fd20cc89148b274944ceaea]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ This Section applies where a justice of the peace can make an order approving th
 
 ## Annotations
 
-[^key-6fa82f6b0fd20cc89148b274944ceaea]: Textual amendment: Rule 47.51 substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [10(a)](https://www.legislation.gov.uk/uksi/2026/47/rule/10/a)
+[^c-6fa82f6b0fd20cc89148b274944ceaea]: Textual amendment: Rule 47.51 substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [10(a)](https://www.legislation.gov.uk/uksi/2026/47/rule/10/a)

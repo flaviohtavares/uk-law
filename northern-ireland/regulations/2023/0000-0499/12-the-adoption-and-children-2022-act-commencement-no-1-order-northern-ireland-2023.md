@@ -37,13 +37,13 @@ Made
 
 The Department of Health, in exercise of the powers conferred by section 160(1) of the Adoption and Children Act (Northern Ireland) 2022[^f00001], makes the following Order:
 
-## 1. Citation and interpretation[^key-1961c355f0f6e0a1997c7e9d882620e9]
+## 1. Citation and interpretation[^c-1961c355f0f6e0a1997c7e9d882620e9]
 
 (1) This Order may be cited as the Adoption and Children (2022 Act) (Commencement No. 1) Order (Northern Ireland) 2023.
 
 (2) In this Order “**the 2022 Act**” means the Adoption and Children Act (Northern Ireland) 2022.
 
-## 2. Appointed Day[^key-c5465ec0c352134c809ce728be391c15]
+## 2. Appointed Day[^c-c5465ec0c352134c809ce728be391c15]
 
 The day appointed for the coming into operation of section 137 of the 2022 Act is 13th February 2023.
 
@@ -67,6 +67,6 @@ Section 137 provides that a guardian ad litem is to be known as a children’s c
 
 [^f00001]: Footnote: [2022 c. 18](https://www.legislation.gov.uk/ukpga/2022/18)
 
-[^key-1961c355f0f6e0a1997c7e9d882620e9]: Commencement: Art. 1 in operation at made date
+[^c-1961c355f0f6e0a1997c7e9d882620e9]: Commencement: Art. 1 in operation at made date
 
-[^key-c5465ec0c352134c809ce728be391c15]: Commencement: Art. 2 in operation at made date
+[^c-c5465ec0c352134c809ce728be391c15]: Commencement: Art. 2 in operation at made date

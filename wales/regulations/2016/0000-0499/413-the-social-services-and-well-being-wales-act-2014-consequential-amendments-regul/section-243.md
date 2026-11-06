@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**243.**[^key-d308cd80ae87df725380bff2cfefcb00] In section 256 (power to make payments towards expenditure on community services)—
+**243.**[^c-d308cd80ae87df725380bff2cfefcb00] In section 256 (power to make payments towards expenditure on community services)—
 
 - (a) in subsection (1)(a), after the words “a local social services authority” insert “in England”;
 - (b) after subsection (1)(a), insert—
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d308cd80ae87df725380bff2cfefcb00]: Commencement: Reg. 243 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-d308cd80ae87df725380bff2cfefcb00]: Commencement: Reg. 243 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

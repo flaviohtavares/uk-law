@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50P (Extent: W). Persons to whom compensation may be awarded (Extent: W)[^key-4fd81b0c894c4cddea03289691291c70]
+## 50P (Extent: W). Persons to whom compensation may be awarded (Extent: W)[^c-4fd81b0c894c4cddea03289691291c70]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Compensation in respect of a failure may be awarded to one or more persons who h
 
 ## Annotations
 
-[^key-4fd81b0c894c4cddea03289691291c70]: Textual amendment: S. 50P inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 65](https://www.legislation.gov.uk/mwa/2011/5/section/65), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)
+[^c-4fd81b0c894c4cddea03289691291c70]: Textual amendment: S. 50P inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 65](https://www.legislation.gov.uk/mwa/2011/5/section/65), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)

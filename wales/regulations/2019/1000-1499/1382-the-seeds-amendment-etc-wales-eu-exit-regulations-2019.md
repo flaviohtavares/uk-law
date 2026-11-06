@@ -53,30 +53,30 @@ In accordance with section 59(3) of the Government of Wales Act 2006 [^c23912251
 
 ## PART 1 — Introduction
 
-### 1. Title, commencement and application[^key-6dc0adc513f9823c94e5e6c6b1938a60]
+### 1. Title, commencement and application[^c-6dc0adc513f9823c94e5e6c6b1938a60]
 
 (1) The title of these Regulations is the Seeds (Amendment etc.) (Wales) (EU Exit) Regulations 2019.
 
 (2) They come into force as follows—
 
 - (a) as regards this Part and Part 2, on the day after the day on which these Regulations are made;
-- (b)[^key-df7984c82b6eb38e21143ac196be76dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-df7984c82b6eb38e21143ac196be76dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) These Regulations apply in relation to Wales.
 
 ## PART 2 — Marketing of seeds and plant propagating material: amendment of domestic legislation
 
-### 2. The Marketing of Fruit Plant and Propagating Material (Wales) Regulations 2017[^key-3bb39fd00334db1085a28401b256b5bc]
+### 2. The Marketing of Fruit Plant and Propagating Material (Wales) Regulations 2017[^c-3bb39fd00334db1085a28401b256b5bc]
 
 In the Marketing of Fruit Plant and Propagating Material (Wales) Regulations 2017 [^c23912261], in regulation 5, for paragraphs (3) and (4) substitute—
 
 > (3) The Welsh Ministers may authorise the marketing of plant material from any country outside the European Union if satisfied that the plant material has been produced under conditions equivalent to the requirements in these Regulations for plant material.
 
-## PART 3 — Marketing of seeds and plant propagating material: amendment of domestic legislation consequent on the withdrawal of the United Kingdom from the European Union[^key-358d87e13009e02b6b9e93fe4592008b]
+## PART 3 — Marketing of seeds and plant propagating material: amendment of domestic legislation consequent on the withdrawal of the United Kingdom from the European Union[^c-358d87e13009e02b6b9e93fe4592008b]
 
 **Not yet in force.**
 
-### 3. The Marketing of Seeds and Plant Propagating Material (Amendment) (Wales) (EU Exit) Regulations 2019[^key-358d87e13009e02b6b9e93fe4592008b]
+### 3. The Marketing of Seeds and Plant Propagating Material (Amendment) (Wales) (EU Exit) Regulations 2019[^c-358d87e13009e02b6b9e93fe4592008b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -102,12 +102,12 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23912251]: Marginal citation: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Section 59(3) was amended by section 20(2)(c) of the [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-6dc0adc513f9823c94e5e6c6b1938a60]: Commencement: Reg. 1 in force at 23.10.2019, see reg. 1(2)(a)
+[^c-6dc0adc513f9823c94e5e6c6b1938a60]: Commencement: Reg. 1 in force at 23.10.2019, see reg. 1(2)(a)
 
-[^key-df7984c82b6eb38e21143ac196be76dd]: Textual amendment: Reg. 1(2)(b) omitted (30.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1573)](https://www.legislation.gov.uk/wsi/2020/1573), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2020/1573/regulation/1/2/a), [5(2)](https://www.legislation.gov.uk/wsi/2020/1573/regulation/5/2)
+[^c-df7984c82b6eb38e21143ac196be76dd]: Textual amendment: Reg. 1(2)(b) omitted (30.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1573)](https://www.legislation.gov.uk/wsi/2020/1573), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2020/1573/regulation/1/2/a), [5(2)](https://www.legislation.gov.uk/wsi/2020/1573/regulation/5/2)
 
-[^key-3bb39fd00334db1085a28401b256b5bc]: Commencement: Reg. 2 in force at 23.10.2019, see reg. 1(2)(a)
+[^c-3bb39fd00334db1085a28401b256b5bc]: Commencement: Reg. 2 in force at 23.10.2019, see reg. 1(2)(a)
 
 [^c23912261]: Marginal citation: [S.I. 2017/691](https://www.legislation.gov.uk/uksi/2017/691) (W. 163), to which there are amendments not relevant to these Regulations.
 
-[^key-358d87e13009e02b6b9e93fe4592008b]: Textual amendment: Pt. 3 omitted (30.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1573)](https://www.legislation.gov.uk/wsi/2020/1573), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2020/1573/regulation/1/2/a), [5(2)](https://www.legislation.gov.uk/wsi/2020/1573/regulation/5/2)
+[^c-358d87e13009e02b6b9e93fe4592008b]: Textual amendment: Pt. 3 omitted (30.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1573)](https://www.legislation.gov.uk/wsi/2020/1573), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2020/1573/regulation/1/2/a), [5(2)](https://www.legislation.gov.uk/wsi/2020/1573/regulation/5/2)

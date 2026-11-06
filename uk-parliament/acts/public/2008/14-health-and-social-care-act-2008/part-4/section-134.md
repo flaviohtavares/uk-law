@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Entitlement: Northern Ireland[^c1942083][^key-aef2c77e937f303c97de92ae4cc227b6]
+## 134. Entitlement: Northern Ireland[^c1942083][^c-aef2c77e937f303c97de92ae4cc227b6]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ After Part 8 of the Social Security Contributions and Benefits (Northern Ireland
 
 [^c1942083]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2008/14/section/134) partly in force; [s. 134](https://www.legislation.gov.uk/ukpga/2008/14/section/134) in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-aef2c77e937f303c97de92ae4cc227b6]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2008/14/section/134) in force at 1.1.2009 in so far as not already in force by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)
+[^c-aef2c77e937f303c97de92ae4cc227b6]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2008/14/section/134) in force at 1.1.2009 in so far as not already in force by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)

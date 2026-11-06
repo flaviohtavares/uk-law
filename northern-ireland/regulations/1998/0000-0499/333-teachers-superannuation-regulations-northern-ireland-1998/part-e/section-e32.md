@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E32. Effective reckonable service[^key-f52cfbfae297cedb7aeb4f8bb0dff926]
+## E32. Effective reckonable service[^c-f52cfbfae297cedb7aeb4f8bb0dff926]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ is less than 20 years, his effective reckonable service does not include so much
 
 ## Annotations
 
-[^key-f52cfbfae297cedb7aeb4f8bb0dff926]: Commencement: Reg. E32 in operation at 2.11.1998, see reg. A1
+[^c-f52cfbfae297cedb7aeb4f8bb0dff926]: Commencement: Reg. E32 in operation at 2.11.1998, see reg. A1

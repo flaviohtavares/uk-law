@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Increase in rates or amounts of certain pensions or allowances under the Contributions and Benefits Act[^key-4cbdc4c4c9e4f793ecea7df7a6057a94]
+## 4. Increase in rates or amounts of certain pensions or allowances under the Contributions and Benefits Act[^c-4cbdc4c4c9e4f793ecea7df7a6057a94]
 
 *Extent: N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4cbdc4c4c9e4f793ecea7df7a6057a94]: Commencement: Art. 4 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
+[^c-4cbdc4c4c9e4f793ecea7df7a6057a94]: Commencement: Art. 4 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
 
 [^f00007]: Footnote: Section 44(4) was amended by paragraph 11 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 and Article 4(3) of [S.R. 1995 No. 71](https://www.legislation.gov.uk/nisr/1995/71)
 

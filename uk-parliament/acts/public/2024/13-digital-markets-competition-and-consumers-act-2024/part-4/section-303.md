@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 303. ADR information regulations[^key-dab48d69a62c5fecb6534442813e95cb][^key-87296f20bfd91f0448371066c38f50a6]
+## 303. ADR information regulations[^c-dab48d69a62c5fecb6534442813e95cb][^c-87296f20bfd91f0448371066c38f50a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dab48d69a62c5fecb6534442813e95cb]: Commencement: S. 303 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-dab48d69a62c5fecb6534442813e95cb]: Commencement: S. 303 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-87296f20bfd91f0448371066c38f50a6]: Commencement: [S. 303](https://www.legislation.gov.uk/ukpga/2024/13/section/303) in force at 6.4.2026 in so far as not already in force by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)
+[^c-87296f20bfd91f0448371066c38f50a6]: Commencement: [S. 303](https://www.legislation.gov.uk/ukpga/2024/13/section/303) in force at 6.4.2026 in so far as not already in force by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)

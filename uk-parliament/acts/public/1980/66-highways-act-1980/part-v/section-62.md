@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. General power of improvement.[^c21456761][^key-f185e8611f49fb4f896b03427d32ef59][^key-56329275976b90da1e57c14ca7f2c1d5]
+## 62. General power of improvement.[^c21456761][^c-f185e8611f49fb4f896b03427d32ef59][^c-56329275976b90da1e57c14ca7f2c1d5]
 
 *Extent: E+W*
 
@@ -45,9 +45,9 @@ summary: ''
 
 [^c21456761]: Modification: S. 62 modified (1.4.2011) by [The Greater Manchester Combined Authority Order 2011 (S.I. 2011/908)](https://www.legislation.gov.uk/uksi/2011/908), [arts. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2011/908/article/8/2)
 
-[^key-f185e8611f49fb4f896b03427d32ef59]: Modification: S. 62 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/b)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
+[^c-f185e8611f49fb4f896b03427d32ef59]: Modification: S. 62 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/b)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
 
-[^key-56329275976b90da1e57c14ca7f2c1d5]: Modification: [S. 62](https://www.legislation.gov.uk/ukpga/1980/66/section/62) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [18(3)(a)](https://www.legislation.gov.uk/uksi/2023/1432/article/18/3/a)
+[^c-56329275976b90da1e57c14ca7f2c1d5]: Modification: [S. 62](https://www.legislation.gov.uk/ukpga/1980/66/section/62) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [18(3)(a)](https://www.legislation.gov.uk/uksi/2023/1432/article/18/3/a)
 
 [^c13420771]: Textual amendment: S. 62(3)(*ff*) inserted by [Transport Act 1981 (c. 56, SIF 126)](https://www.legislation.gov.uk/ukpga/1981/56), [s. 32](https://www.legislation.gov.uk/ukpga/1981/56/section/32), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/1981/56/schedule/10/paragraph/1)
 

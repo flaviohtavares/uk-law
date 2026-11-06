@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Review of regulators' complaints and appeals procedures[^key-58736508dcb9f75b6dc617dee4b2adbe]
+## 17. Review of regulators' complaints and appeals procedures[^c-58736508dcb9f75b6dc617dee4b2adbe]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58736508dcb9f75b6dc617dee4b2adbe]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2015/26/section/17) in force at 1.10.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 7(a)](https://www.legislation.gov.uk/uksi/2016/321/regulation/7/a)
+[^c-58736508dcb9f75b6dc617dee4b2adbe]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2015/26/section/17) in force at 1.10.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 7(a)](https://www.legislation.gov.uk/uksi/2016/321/regulation/7/a)

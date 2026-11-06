@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — Obligatory lamps, reflectors, rear markings and devices[^key-b203c2da5f80b1353cf57abd6912e275]
+## SCHEDULE 1 — Obligatory lamps, reflectors, rear markings and devices[^c-b203c2da5f80b1353cf57abd6912e275]
 
 *Extent: N.I.*
 
@@ -53,7 +53,7 @@ Motor vehicle having three or more wheels not being a vehicle to which any other
 </tbody>
 </table>
 
-[^key-16c06d6629ade76efadb32d389b1bcc6][^key-c7c21ed8a243d4bedb558e51c413beb0][^key-c41b5ff02ede35c2f35d4359bc82270e][^key-37d27bf2596094e65adbd720d9df5573]
+[^c-16c06d6629ade76efadb32d389b1bcc6][^c-c7c21ed8a243d4bedb558e51c413beb0][^c-c41b5ff02ede35c2f35d4359bc82270e][^c-37d27bf2596094e65adbd720d9df5573]
 
 TABLE II
 
@@ -150,7 +150,7 @@ Trailer drawn by a motor vehicle
 </tbody>
 </table>
 
-[^key-1debddc7a9e2b1ed3bc495d0e046d829][^key-183cfe8f3e7206af0cfedd1329e9d09d]
+[^c-1debddc7a9e2b1ed3bc495d0e046d829][^c-183cfe8f3e7206af0cfedd1329e9d09d]
 
 TABLE VII
 
@@ -169,16 +169,16 @@ Trailer drawn by a cycle
 
 ## Annotations
 
-[^key-b203c2da5f80b1353cf57abd6912e275]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/1) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-b203c2da5f80b1353cf57abd6912e275]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/1) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-16c06d6629ade76efadb32d389b1bcc6]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/1) Table 1 omitted (21.10.2011) by virtue of [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [11(2)(a)](https://www.legislation.gov.uk/nisr/2011/329/regulation/11/2/a)
+[^c-16c06d6629ade76efadb32d389b1bcc6]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/1) Table 1 omitted (21.10.2011) by virtue of [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [11(2)(a)](https://www.legislation.gov.uk/nisr/2011/329/regulation/11/2/a)
 
-[^key-c7c21ed8a243d4bedb558e51c413beb0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/1) Table 1 added (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [11(2)(b)](https://www.legislation.gov.uk/nisr/2011/329/regulation/11/2/b)
+[^c-c7c21ed8a243d4bedb558e51c413beb0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/1) Table 1 added (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [11(2)(b)](https://www.legislation.gov.uk/nisr/2011/329/regulation/11/2/b)
 
-[^key-c41b5ff02ede35c2f35d4359bc82270e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/1) Table 1 inserted (20.5.2018) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/88)](https://www.legislation.gov.uk/nisr/2018/88), [regs. 1](https://www.legislation.gov.uk/nisr/2018/88/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2018/88/regulation/2/6)
+[^c-c41b5ff02ede35c2f35d4359bc82270e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/1) Table 1 inserted (20.5.2018) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/88)](https://www.legislation.gov.uk/nisr/2018/88), [regs. 1](https://www.legislation.gov.uk/nisr/2018/88/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2018/88/regulation/2/6)
 
-[^key-37d27bf2596094e65adbd720d9df5573]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/1) Table 1 substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 14(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/14/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-37d27bf2596094e65adbd720d9df5573]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/1) Table 1 substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 14(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/14/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-1debddc7a9e2b1ed3bc495d0e046d829]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/1) Table 6 omitted (21.10.2011) by virtue of [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [11(3)(a)](https://www.legislation.gov.uk/nisr/2011/329/regulation/11/3/a)
+[^c-1debddc7a9e2b1ed3bc495d0e046d829]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/1) Table 6 omitted (21.10.2011) by virtue of [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [11(3)(a)](https://www.legislation.gov.uk/nisr/2011/329/regulation/11/3/a)
 
-[^key-183cfe8f3e7206af0cfedd1329e9d09d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/1) Table 6 added (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [11(3)(b)](https://www.legislation.gov.uk/nisr/2011/329/regulation/11/3/b)
+[^c-183cfe8f3e7206af0cfedd1329e9d09d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/1) Table 6 added (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [11(3)(b)](https://www.legislation.gov.uk/nisr/2011/329/regulation/11/3/b)

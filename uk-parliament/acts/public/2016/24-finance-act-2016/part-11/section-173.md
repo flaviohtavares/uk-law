@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-73d63df27dda3f6a2b6ec05f7b2f63af] At the end of section 428 of ITA 2007 insert—
+(1)[^c-73d63df27dda3f6a2b6ec05f7b2f63af] At the end of section 428 of ITA 2007 insert—
 
 > (5) The regulations may also make provision—
 >
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73d63df27dda3f6a2b6ec05f7b2f63af]: Commencement: [S. 173(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/173/1) in force at 14.11.2016 for the purposes of the amendment made by that provision by [S.I. 2016/1010](https://www.legislation.gov.uk/uksi/2016/1010), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1010/regulation/3)
+[^c-73d63df27dda3f6a2b6ec05f7b2f63af]: Commencement: [S. 173(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/173/1) in force at 14.11.2016 for the purposes of the amendment made by that provision by [S.I. 2016/1010](https://www.legislation.gov.uk/uksi/2016/1010), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1010/regulation/3)

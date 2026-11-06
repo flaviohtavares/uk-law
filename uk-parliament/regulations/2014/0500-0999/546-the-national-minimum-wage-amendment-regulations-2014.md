@@ -32,7 +32,7 @@ summary: ''
 
 Terms And Conditions Of Employment
 
-The National Minimum Wage (Amendment) Regulations 2014 (revoked)[^key-86ef0464fb893afc7e3b9b272f7da42d]
+The National Minimum Wage (Amendment) Regulations 2014 (revoked)[^c-86ef0464fb893afc7e3b9b272f7da42d]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 7th March 2014
 
-[^key-86ef0464fb893afc7e3b9b272f7da42d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86ef0464fb893afc7e3b9b272f7da42d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-86ef0464fb893afc7e3b9b272f7da42d]
+## 1. Citation and commencement[^c-86ef0464fb893afc7e3b9b272f7da42d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the National Minimum Wage Regulations 1999[^key-86ef0464fb893afc7e3b9b272f7da42d]
+## 2. Amendments to the National Minimum Wage Regulations 1999[^c-86ef0464fb893afc7e3b9b272f7da42d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-86ef0464fb893afc7e3b9b272f7da42d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86ef0464fb893afc7e3b9b272f7da42d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-86ef0464fb893afc7e3b9b272f7da42d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86ef0464fb893afc7e3b9b272f7da42d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-86ef0464fb893afc7e3b9b272f7da42d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/546) revoked (6.4.2015) by [The National Minimum Wage Regulations 2015 (S.I. 2015/621)](https://www.legislation.gov.uk/uksi/2015/621), [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/621/schedule)
+[^c-86ef0464fb893afc7e3b9b272f7da42d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/546) revoked (6.4.2015) by [The National Minimum Wage Regulations 2015 (S.I. 2015/621)](https://www.legislation.gov.uk/uksi/2015/621), [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/621/schedule)

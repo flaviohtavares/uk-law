@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Repeals[^c1983963][^key-0eb5b20e62ce644c549978daf85344c2][^key-a9d7a95e8bfdf4f5b2bffac580ae5331][^key-e98333e6a896a996be32878f8d891237]
+## SCHEDULE 7 — Repeals[^c1983963][^c-0eb5b20e62ce644c549978daf85344c2][^c-a9d7a95e8bfdf4f5b2bffac580ae5331][^c-e98333e6a896a996be32878f8d891237]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,8 +33,8 @@ Section 39
 
 [^c1983963]: Commencement: Sch. 7 partly in force; Sch. 7 in force for certain purposes at Royal Assent see s. 43(5); Sch. 7 in force for certain purposes at 4.9.2009 by [S.I. 2009/2395](https://www.legislation.gov.uk/uksi/2009/2395), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/2395/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/2395/article/3)); for certain purposes at 25.11.2009 and 1.1.2010 by [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [arts. 3(d)](https://www.legislation.gov.uk/uksi/2009/3084/article/3/d), [4(k)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/k)
 
-[^key-0eb5b20e62ce644c549978daf85344c2]: Commencement: Sch. 7 in force at 26.3.2010 for specified purposes by [S.I. 2010/969](https://www.legislation.gov.uk/uksi/2010/969), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/969/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/969/article/3))
+[^c-0eb5b20e62ce644c549978daf85344c2]: Commencement: Sch. 7 in force at 26.3.2010 for specified purposes by [S.I. 2010/969](https://www.legislation.gov.uk/uksi/2010/969), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/969/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/969/article/3))
 
-[^key-a9d7a95e8bfdf4f5b2bffac580ae5331]: Commencement: Sch. 7 in force at 1.12.2010 for specified purposes by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(h)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/h) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2866/article/5))
+[^c-a9d7a95e8bfdf4f5b2bffac580ae5331]: Commencement: Sch. 7 in force at 1.12.2010 for specified purposes by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(h)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/h) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2866/article/5))
 
-[^key-e98333e6a896a996be32878f8d891237]: Commencement: Sch. 7 in force at 1.1.2011 for specified purposes by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 4(g)](https://www.legislation.gov.uk/uksi/2010/2866/article/4/g)
+[^c-e98333e6a896a996be32878f8d891237]: Commencement: Sch. 7 in force at 1.1.2011 for specified purposes by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 4(g)](https://www.legislation.gov.uk/uksi/2010/2866/article/4/g)

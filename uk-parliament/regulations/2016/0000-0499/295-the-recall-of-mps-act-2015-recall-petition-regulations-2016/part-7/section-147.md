@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Public notices and declarations[^key-0956c4d5e6e9de14b1051d67a5128fe0]
+## 147. Public notices and declarations[^c-0956c4d5e6e9de14b1051d67a5128fe0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0956c4d5e6e9de14b1051d67a5128fe0]: Commencement: Reg. 147 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-0956c4d5e6e9de14b1051d67a5128fe0]: Commencement: Reg. 147 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

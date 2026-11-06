@@ -32,7 +32,7 @@ summary: ''
 
 EDUCATION
 
-The Education Maintenance Allowances (Scotland) Regulations 2007 (revoked)[^key-518b0eb086143f7f5e97c15eb25a49f8]
+The Education Maintenance Allowances (Scotland) Regulations 2007 (revoked)[^c-518b0eb086143f7f5e97c15eb25a49f8]
 
 Made
 
@@ -46,74 +46,74 @@ Coming into force
 
 1st August 2007
 
-[^key-518b0eb086143f7f5e97c15eb25a49f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-518b0eb086143f7f5e97c15eb25a49f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-518b0eb086143f7f5e97c15eb25a49f8]
+## 1. Citation and commencement[^c-518b0eb086143f7f5e97c15eb25a49f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-518b0eb086143f7f5e97c15eb25a49f8]
+## 2. Interpretation[^c-518b0eb086143f7f5e97c15eb25a49f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exercise of power to grant an education maintenance allowance[^key-518b0eb086143f7f5e97c15eb25a49f8]
+## 3. Exercise of power to grant an education maintenance allowance[^c-518b0eb086143f7f5e97c15eb25a49f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amount of education maintenance allowances[^key-518b0eb086143f7f5e97c15eb25a49f8]
+## 4. Amount of education maintenance allowances[^c-518b0eb086143f7f5e97c15eb25a49f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Conditions of education maintenance allowance[^key-518b0eb086143f7f5e97c15eb25a49f8]
+## 5. Conditions of education maintenance allowance[^c-518b0eb086143f7f5e97c15eb25a49f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-518b0eb086143f7f5e97c15eb25a49f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-518b0eb086143f7f5e97c15eb25a49f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — PERSONS ELIGIBLE FOR EDUCATION MAINTENANCE ALLOWANCES[^key-518b0eb086143f7f5e97c15eb25a49f8]
+## SCHEDULE 1 — PERSONS ELIGIBLE FOR EDUCATION MAINTENANCE ALLOWANCES[^c-518b0eb086143f7f5e97c15eb25a49f8]
 
 Regulation 3(1)
 
-**1.**[^key-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — ORDINARY RESIDENCE[^key-518b0eb086143f7f5e97c15eb25a49f8]
+## SCHEDULE 2 — ORDINARY RESIDENCE[^c-518b0eb086143f7f5e97c15eb25a49f8]
 
 Regulation 3(2)
 
-**1.**[^key-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-518b0eb086143f7f5e97c15eb25a49f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-518b0eb086143f7f5e97c15eb25a49f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-518b0eb086143f7f5e97c15eb25a49f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-518b0eb086143f7f5e97c15eb25a49f8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2007/156) revoked (1.8.2022) by [The Student Support (Scotland) Regulations 2022 (S.S.I. 2022/157)](https://www.legislation.gov.uk/ssi/2022/157), [reg. 1](https://www.legislation.gov.uk/ssi/2022/157/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2022/157/schedule/5)
+[^c-518b0eb086143f7f5e97c15eb25a49f8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2007/156) revoked (1.8.2022) by [The Student Support (Scotland) Regulations 2022 (S.S.I. 2022/157)](https://www.legislation.gov.uk/ssi/2022/157), [reg. 1](https://www.legislation.gov.uk/ssi/2022/157/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2022/157/schedule/5)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Public rights of navigation[^key-311af0851e0463466f2edda3e9879b3c]
+## 47. Public rights of navigation[^c-311af0851e0463466f2edda3e9879b3c]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ the Authority shall issue a notice to mariners in accordance with the provisions
 
 ## Annotations
 
-[^key-311af0851e0463466f2edda3e9879b3c]: Commencement: Art. 47 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-311af0851e0463466f2edda3e9879b3c]: Commencement: Art. 47 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

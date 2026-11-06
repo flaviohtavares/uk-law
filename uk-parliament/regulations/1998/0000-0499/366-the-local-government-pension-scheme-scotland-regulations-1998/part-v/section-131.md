@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 131. Former contributors[^key-9f252ffa5930e44636c6de38b0a7776e]
+## 131. Former contributors[^c-9f252ffa5930e44636c6de38b0a7776e]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ Schedule 6 (former contributors) shall have effect.
 
 ## Annotations
 
-[^key-9f252ffa5930e44636c6de38b0a7776e]: Commencement: Reg. 131 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-9f252ffa5930e44636c6de38b0a7776e]: Commencement: Reg. 131 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

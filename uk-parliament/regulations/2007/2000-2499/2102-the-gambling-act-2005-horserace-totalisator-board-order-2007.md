@@ -42,7 +42,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 A draft of this Order has been laid before Parliament in accordance with section 355(8)(b) of that Act, and has been approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and interpretation[^key-72ae451f7b6db702763bceb75afd24b4]
+## 1. Citation, commencement and interpretation[^c-72ae451f7b6db702763bceb75afd24b4]
 
 (1) This Order may be cited as the Gambling Act 2005 (Horserace Totalisator Board) Order 2007 and shall come into force on whichever is the later of 1st September 2007 or the day after the day on which the Order is made.
 
@@ -59,13 +59,13 @@ A draft of this Order has been laid before Parliament in accordance with section
 
 (3) Any reference in this Order to a person infringing the right conferred on the Tote by section 14 of the 1963 Act shall be construed in accordance with subsection (2) of that section.
 
-## 2. Savings[^key-bf9361375cc763875dceb807aae0171b]
+## 2. Savings[^c-bf9361375cc763875dceb807aae0171b]
 
 (1) Despite the repeal of the 1963 Act by the 2005 Act, sections 12, 14 and 15 of the 1963 Act shall continue in force until immediately before the dissolution date, subject to the following modification.
 
 (2) Section 14 shall have effect as if the expressions listed in column 1 of the table in the Schedule had the meanings given in the associated entry in column 2 of that table.
 
-## 3. Modification of section 33 of the Gambling Act 2005[^key-03ad34afd721e516547f9d02e9f070fc]
+## 3. Modification of section 33 of the Gambling Act 2005[^c-03ad34afd721e516547f9d02e9f070fc]
 
 (1) Section 33 of the 2005 Act shall have effect until immediately before the dissolution date with the following modifications.
 
@@ -85,11 +85,11 @@ A draft of this Order has been laid before Parliament in accordance with section
 
 (6) In paragraph (3) “authorised pool betting business” means a pool betting business carried on, with the authority of the Tote, by the persons having the management of the horse-race course referred to in sub-paragraph (a) of that paragraph.
 
-## 4. Modification of section 163 of the Gambling Act 2005[^key-f04b6e5ebe18d2cc6678ad7d05c7fd1e]
+## 4. Modification of section 163 of the Gambling Act 2005[^c-f04b6e5ebe18d2cc6678ad7d05c7fd1e]
 
 Section 163 of the 2005 Act shall have effect in relation to an application by the Tote for a betting premises licence with the omission of subsection (2).
 
-## 5. Modification of sections 336 to 338 of the Gambling Act 2005[^key-f3321fa1ce8a88269ae89accdc3cd50a]
+## 5. Modification of sections 336 to 338 of the Gambling Act 2005[^c-f3321fa1ce8a88269ae89accdc3cd50a]
 
 Sections 336 to 338 of the Gambling Act 2005 shall apply to a bet accepted by or through—
 
@@ -107,7 +107,7 @@ Department for Culture, Media and Sport
 
 19th July 2007
 
-## SCHEDULE — Definitions of expressions used in section 14 of the Betting, Gaming and Lotteries Act 1963[^key-37ff682d93e71f17e92f2570c0a4bb36]
+## SCHEDULE — Definitions of expressions used in section 14 of the Betting, Gaming and Lotteries Act 1963[^c-37ff682d93e71f17e92f2570c0a4bb36]
 
 Articles 1 and 2
 
@@ -152,7 +152,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2005 c. 19](https://www.legislation.gov.uk/ukpga/2005/19).
 
-[^key-72ae451f7b6db702763bceb75afd24b4]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2007/2102/article/1) in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2102/article/1/1)
+[^c-72ae451f7b6db702763bceb75afd24b4]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2007/2102/article/1) in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2102/article/1/1)
 
 [^f00002]: Footnote: [1963 c. 2](https://www.legislation.gov.uk/ukpga/1963/2).
 
@@ -160,12 +160,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00004]: Footnote: [2004 c. 25](https://www.legislation.gov.uk/ukpga/2004/25).
 
-[^key-bf9361375cc763875dceb807aae0171b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2007/2102/article/2) in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2102/article/1/1)
+[^c-bf9361375cc763875dceb807aae0171b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2007/2102/article/2) in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2102/article/1/1)
 
-[^key-03ad34afd721e516547f9d02e9f070fc]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2007/2102/article/3) in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2102/article/1/1)
+[^c-03ad34afd721e516547f9d02e9f070fc]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2007/2102/article/3) in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2102/article/1/1)
 
-[^key-f04b6e5ebe18d2cc6678ad7d05c7fd1e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2007/2102/article/4) in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2102/article/1/1)
+[^c-f04b6e5ebe18d2cc6678ad7d05c7fd1e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2007/2102/article/4) in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2102/article/1/1)
 
-[^key-f3321fa1ce8a88269ae89accdc3cd50a]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2007/2102/article/5) in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2102/article/1/1)
+[^c-f3321fa1ce8a88269ae89accdc3cd50a]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2007/2102/article/5) in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2102/article/1/1)
 
-[^key-37ff682d93e71f17e92f2570c0a4bb36]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2007/2102/schedule) in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2102/article/1/1)
+[^c-37ff682d93e71f17e92f2570c0a4bb36]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2007/2102/schedule) in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2102/article/1/1)

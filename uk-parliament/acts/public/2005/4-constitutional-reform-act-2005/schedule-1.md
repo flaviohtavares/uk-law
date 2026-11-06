@@ -35,7 +35,7 @@ Section 12
 (2) The Lord Chief Justice may nominate a judicial office holder in accordance with sub-paragraph (1)—
 
 - (a) to make designated rules generally, or
-- (b)[^key-a9b5e4562b6d74d67029acfd0f42bb61] to make designated rules under a particular enactment.
+- (b)[^c-a9b5e4562b6d74d67029acfd0f42bb61] to make designated rules under a particular enactment.
 
 (3) In this Part—
 
@@ -53,7 +53,7 @@ Section 12
 
 (2) A statutory instrument containing designated rules is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-**5.**[^key-b746fe4137952a8361dba3fa8a4604c2] (1) This paragraph applies if the Lord Chancellor gives the Lord Chief Justice, or his nominee, written notice that he thinks it is expedient for designated rules to include provision that would achieve a purpose specified in the notice.
+**5.**[^c-b746fe4137952a8361dba3fa8a4604c2] (1) This paragraph applies if the Lord Chancellor gives the Lord Chief Justice, or his nominee, written notice that he thinks it is expedient for designated rules to include provision that would achieve a purpose specified in the notice.
 
 (2) The Lord Chief Justice, or his nominee, must make such designated rules as he considers necessary to achieve the specified purpose.
 
@@ -191,6 +191,6 @@ Section 12
 
 ## Annotations
 
-[^key-a9b5e4562b6d74d67029acfd0f42bb61]: Modification: [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/1/paragraph/2/2/b) modified by 1984 c. 42, s. 31D(7) (as inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/1); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11))
+[^c-a9b5e4562b6d74d67029acfd0f42bb61]: Modification: [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/1/paragraph/2/2/b) modified by 1984 c. 42, s. 31D(7) (as inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/1); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11))
 
-[^key-b746fe4137952a8361dba3fa8a4604c2]: Modification: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/1/paragraph/5) excluded by 1984 c. 42, s. 31D(8) (as inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/1); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11))
+[^c-b746fe4137952a8361dba3fa8a4604c2]: Modification: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/1/paragraph/5) excluded by 1984 c. 42, s. 31D(8) (as inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/1); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11))

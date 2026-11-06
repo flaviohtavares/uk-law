@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101A. Application in respect of change to constitution, functions or funding: existing EPB[^key-bbabac641475602ee7467254d6c2206a]
+## 101A. Application in respect of change to constitution, functions or funding: existing EPB[^c-bbabac641475602ee7467254d6c2206a]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbabac641475602ee7467254d6c2206a]: Textual amendment: [S. 101A](https://www.legislation.gov.uk/ukpga/2009/20/section/101A) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 13(4)](https://www.legislation.gov.uk/ukpga/2016/1/section/13/4), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-bbabac641475602ee7467254d6c2206a]: Textual amendment: [S. 101A](https://www.legislation.gov.uk/ukpga/2009/20/section/101A) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 13(4)](https://www.legislation.gov.uk/ukpga/2016/1/section/13/4), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)

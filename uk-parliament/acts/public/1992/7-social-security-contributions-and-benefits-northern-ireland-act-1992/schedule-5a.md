@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5A — Pension Increase or Lump Sum Where Entitlement to Shared Additional Pension is Deferred[^key-cf3fc2b2b106a48bad4b481b4476ff91]
+## SCHEDULE 5A — Pension Increase or Lump Sum Where Entitlement to Shared Additional Pension is Deferred[^c-cf3fc2b2b106a48bad4b481b4476ff91]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ### Increase of pension where entitlement deferred
 
-**2.**[^key-c936ad5a38a1855afa81a6a1d01e5436] (1) This paragraph applies where a person’s entitlement to a shared additional pension is deferred and either—
+**2.**[^c-c936ad5a38a1855afa81a6a1d01e5436] (1) This paragraph applies where a person’s entitlement to a shared additional pension is deferred and either—
 
 - (a) the period of deferment is less than 12 months, or
 - (b) the person has made an election under paragraph 1(1)(a) in relation to the period of deferment.
@@ -102,6 +102,6 @@ where—
 
 ## Annotations
 
-[^key-cf3fc2b2b106a48bad4b481b4476ff91]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/ukpga/1992/7/schedule/5A) inserted (17.2.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255)](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(4)](https://www.legislation.gov.uk/nisi/2005/255/article/1/4), [Sch. 9 para. 14](https://www.legislation.gov.uk/nisi/2005/255/schedule/9/paragraph/14)
+[^c-cf3fc2b2b106a48bad4b481b4476ff91]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/ukpga/1992/7/schedule/5A) inserted (17.2.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255)](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(4)](https://www.legislation.gov.uk/nisi/2005/255/article/1/4), [Sch. 9 para. 14](https://www.legislation.gov.uk/nisi/2005/255/schedule/9/paragraph/14)
 
-[^key-c936ad5a38a1855afa81a6a1d01e5436]: Modification: [Sch. 5A para. 2](https://www.legislation.gov.uk/ukpga/1992/7/schedule/5A/paragraph/2): sums amended (coming into force in accordance with art. 1(2)(3)(a), 7 of the amending Rule) by The Social Security Benefits Up-rating [Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [4(5)](https://www.legislation.gov.uk/nisr/2026/59/article/4/5)
+[^c-c936ad5a38a1855afa81a6a1d01e5436]: Modification: [Sch. 5A para. 2](https://www.legislation.gov.uk/ukpga/1992/7/schedule/5A/paragraph/2): sums amended (coming into force in accordance with art. 1(2)(3)(a), 7 of the amending Rule) by The Social Security Benefits Up-rating [Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [4(5)](https://www.legislation.gov.uk/nisr/2026/59/article/4/5)

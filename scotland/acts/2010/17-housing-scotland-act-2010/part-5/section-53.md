@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Exercise of regulatory intervention powers[^key-b3be05232ea23d3853c4bb833efd7629]
+## 53. Exercise of regulatory intervention powers[^c-b3be05232ea23d3853c4bb833efd7629]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3be05232ea23d3853c4bb833efd7629]: Commencement: S. 53 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-b3be05232ea23d3853c4bb833efd7629]: Commencement: S. 53 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

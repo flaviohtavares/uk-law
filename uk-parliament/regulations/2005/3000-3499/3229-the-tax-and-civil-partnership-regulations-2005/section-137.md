@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Income Tax (Earnings and Pensions) Act 2003[^key-577dc597918f21f516e3d1c8c5b5e652]
+## 137. Income Tax (Earnings and Pensions) Act 2003[^c-577dc597918f21f516e3d1c8c5b5e652]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Income Tax (Earnings and Pensions) Act 2003 [^f00042] is amended as follows.
 
 ## Annotations
 
-[^key-577dc597918f21f516e3d1c8c5b5e652]: Commencement: Reg. 137 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-577dc597918f21f516e3d1c8c5b5e652]: Commencement: Reg. 137 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
 
 [^f00042]: Footnote: [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1).

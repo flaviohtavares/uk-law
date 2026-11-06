@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Schedule 3 amended (applications, notices, etc.)[^key-ecb899ded04ab727d63a8f800c72fac3]
+## 34. Schedule 3 amended (applications, notices, etc.)[^c-ecb899ded04ab727d63a8f800c72fac3]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecb899ded04ab727d63a8f800c72fac3]: Commencement: Art. 34 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-ecb899ded04ab727d63a8f800c72fac3]: Commencement: Art. 34 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

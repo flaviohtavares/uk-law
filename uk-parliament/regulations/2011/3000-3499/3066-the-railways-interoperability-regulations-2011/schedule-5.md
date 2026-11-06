@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — UK declaration of verification of subsystems[^key-2af3dbebd9d72313c0fe7e83080bb1b0]
+## SCHEDULE 5 — UK declaration of verification of subsystems[^c-2af3dbebd9d72313c0fe7e83080bb1b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ Where additional UK verifications are carried out an additional UK declaration o
 
 ## Annotations
 
-[^key-2af3dbebd9d72313c0fe7e83080bb1b0]: Textual amendment: Sch. 5 inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2019/345/schedule/4) (as amended by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(10)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2af3dbebd9d72313c0fe7e83080bb1b0]: Textual amendment: Sch. 5 inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2019/345/schedule/4) (as amended by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(10)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

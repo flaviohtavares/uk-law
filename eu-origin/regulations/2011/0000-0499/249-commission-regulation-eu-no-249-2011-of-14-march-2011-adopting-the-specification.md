@@ -35,25 +35,25 @@ adopting the specifications of the 2012 ad hoc module on transition from work to
 
 (Text with EEA relevance) (revoked)
 
-[^key-83bfd546088455c22dd50ef265da5895]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83bfd546088455c22dd50ef265da5895]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-83bfd546088455c22dd50ef265da5895] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-83bfd546088455c22dd50ef265da5895] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-83bfd546088455c22dd50ef265da5895] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-83bfd546088455c22dd50ef265da5895] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-83bfd546088455c22dd50ef265da5895]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83bfd546088455c22dd50ef265da5895]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — LABOUR FORCE SURVEY[^key-83bfd546088455c22dd50ef265da5895]
+## ANNEX — LABOUR FORCE SURVEY[^c-83bfd546088455c22dd50ef265da5895]
 
-[^key-83bfd546088455c22dd50ef265da5895] Specifications of the 2012 ad hoc module on transition from work to retirement
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-83bfd546088455c22dd50ef265da5895]1.
+[^c-83bfd546088455c22dd50ef265da5895] Specifications of the 2012 ad hoc module on transition from work to retirement
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-83bfd546088455c22dd50ef265da5895]2.
+[^c-83bfd546088455c22dd50ef265da5895]1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-83bfd546088455c22dd50ef265da5895]2.
 
 The variables will be coded as follows:
 
@@ -61,4 +61,4 @@ The variables will be coded as follows:
 
 ## Annotations
 
-[^key-83bfd546088455c22dd50ef265da5895]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 186](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/186); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-83bfd546088455c22dd50ef265da5895]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 186](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/186); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

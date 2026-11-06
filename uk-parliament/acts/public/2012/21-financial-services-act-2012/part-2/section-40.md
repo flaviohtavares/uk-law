@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Lloyd's[^key-4428568d96eea8a94d587bd1f61c9aca][^key-90bf7084e9e4dad77abd5a2cf6a234df]
+## 40. Lloyd's[^c-4428568d96eea8a94d587bd1f61c9aca][^c-90bf7084e9e4dad77abd5a2cf6a234df]
 
 *Extent: E+W+S+N.I.*
 
@@ -204,6 +204,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4428568d96eea8a94d587bd1f61c9aca]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2012/21/section/40) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-4428568d96eea8a94d587bd1f61c9aca]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2012/21/section/40) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-90bf7084e9e4dad77abd5a2cf6a234df]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2012/21/section/40) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-90bf7084e9e4dad77abd5a2cf6a234df]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2012/21/section/40) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

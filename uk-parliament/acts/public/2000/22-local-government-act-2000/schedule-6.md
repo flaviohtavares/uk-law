@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Repeals[^c1428140][^key-ac574a71ae53bc31783fc2923385eab9]
+## SCHEDULE 6 — Repeals[^c1428140][^c-ac574a71ae53bc31783fc2923385eab9]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ Section 107.
 
 [^c1428140]: Commencement: Sch. 6 partly in force; Sch. 6 not in force at Royal Assent see s. 108; Sch. 6 in force as follows: at 28.9.2000 for specified repeal see s. 108(2)(c); at 1.10.2000 for specified repeal in relation to England only by [S.I. 2000/2187](https://www.legislation.gov.uk/uksi/2000/2187), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/2187/article/1/3), [3](https://www.legislation.gov.uk/uksi/2000/2187/article/3); at 18.10.2000 for specified repeals in relation to England only by [S.I. 2000/2836](https://www.legislation.gov.uk/uksi/2000/2836), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/2836/article/1/3), [2(b)](https://www.legislation.gov.uk/uksi/2000/2836/article/2/b); at 26.10.2000 for specified repeals in relation to England only by [S.I. 2000/2849](https://www.legislation.gov.uk/uksi/2000/2849), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/2849/article/1/3), [2(f)](https://www.legislation.gov.uk/uksi/2000/2849/article/2/f); at 9.4.2001 for specified repeals in relation to Wales only by [S.I. 2001/1471](https://www.legislation.gov.uk/uksi/2001/1471), [art. 2](https://www.legislation.gov.uk/uksi/2001/1471/article/2); at 28.7.2001 for the remaining repeals other than those specified in s. 108(3)(c) that have not already been brought into force, see [s. 108(3)-(6)](https://www.legislation.gov.uk/uksi/2001/1471/section/108/3); at 27.7.2002 for specified repeals in relation to England and police authorities in Wales by [S.I. 2002/1718](https://www.legislation.gov.uk/uksi/2002/1718), [art. 2(b)](https://www.legislation.gov.uk/uksi/2002/1718/article/2/b)
 
-[^key-ac574a71ae53bc31783fc2923385eab9]: Commencement: Sch. 6 in force for specified purposes at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/b)
+[^c-ac574a71ae53bc31783fc2923385eab9]: Commencement: Sch. 6 in force for specified purposes at 22.5.2012 by [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/b)

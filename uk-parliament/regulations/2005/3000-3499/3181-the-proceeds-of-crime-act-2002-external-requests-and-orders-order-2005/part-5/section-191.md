@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Applying realised proceeds[^key-81ef74f409aa7f6cd5acd632cd0be0b8]
+## 191. Applying realised proceeds[^c-81ef74f409aa7f6cd5acd632cd0be0b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,19 +33,19 @@ summary: ''
 
 and any sum which remains is to be paid to the enforcement authority.
 
-(3) The enforcement authority (unless it is the Scottish Ministers)[^key-72d682d14556f7fd9b81cca67166cce0] may apply a sum received by it[^key-33689d960d8d1cdb9525da65cddb8d31] under paragraph (2) in making payment of the remuneration and expenses of—
+(3) The enforcement authority (unless it is the Scottish Ministers)[^c-72d682d14556f7fd9b81cca67166cce0] may apply a sum received by it[^c-33689d960d8d1cdb9525da65cddb8d31] under paragraph (2) in making payment of the remuneration and expenses of—
 
 - (a) the trustee, or
 - (b) any interim receiver appointed in, or in anticipation of, the proceedings for the recovery order.
 
-(4) Paragraph (3)(a) does not apply in relation to the remuneration of the trustee if the trustee is a member of the staff of the enforcement authority concerned[^key-691e254471b415ee51a576d55f487534].
+(4) Paragraph (3)(a) does not apply in relation to the remuneration of the trustee if the trustee is a member of the staff of the enforcement authority concerned[^c-691e254471b415ee51a576d55f487534].
 
 ## Annotations
 
-[^key-81ef74f409aa7f6cd5acd632cd0be0b8]: Commencement: [Art. 191](https://www.legislation.gov.uk/uksi/2005/3181/article/191) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-81ef74f409aa7f6cd5acd632cd0be0b8]: Commencement: [Art. 191](https://www.legislation.gov.uk/uksi/2005/3181/article/191) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-72d682d14556f7fd9b81cca67166cce0]: Textual amendment: Words in [art. 191(3)](https://www.legislation.gov.uk/uksi/2005/3181/article/191/3) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(39)(a)(i)](https://www.legislation.gov.uk/uksi/2008/302/article/2/39/a/i)
+[^c-72d682d14556f7fd9b81cca67166cce0]: Textual amendment: Words in [art. 191(3)](https://www.legislation.gov.uk/uksi/2005/3181/article/191/3) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(39)(a)(i)](https://www.legislation.gov.uk/uksi/2008/302/article/2/39/a/i)
 
-[^key-33689d960d8d1cdb9525da65cddb8d31]: Textual amendment: Word in [art. 191(3)](https://www.legislation.gov.uk/uksi/2005/3181/article/191/3) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(39)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/302/article/2/39/a/ii)
+[^c-33689d960d8d1cdb9525da65cddb8d31]: Textual amendment: Word in [art. 191(3)](https://www.legislation.gov.uk/uksi/2005/3181/article/191/3) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(39)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/302/article/2/39/a/ii)
 
-[^key-691e254471b415ee51a576d55f487534]: Textual amendment: Words in [art. 191(4)](https://www.legislation.gov.uk/uksi/2005/3181/article/191/4) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(39)(b)](https://www.legislation.gov.uk/uksi/2008/302/article/2/39/b)
+[^c-691e254471b415ee51a576d55f487534]: Textual amendment: Words in [art. 191(4)](https://www.legislation.gov.uk/uksi/2005/3181/article/191/4) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(39)(b)](https://www.legislation.gov.uk/uksi/2008/302/article/2/39/b)

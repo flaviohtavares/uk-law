@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257MB. Power to amend limits on amounts raised[^key-2d2ee740d3309659fe3b55bcb16dd941][^key-aaf10c7dc329529b2ca19087f01e69e7]
+## 257MB. Power to amend limits on amounts raised[^c-2d2ee740d3309659fe3b55bcb16dd941][^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d2ee740d3309659fe3b55bcb16dd941]: Textual amendment: S. 257MB omitted (with effect in accordance with Sch. 1 para. 14(1)(2) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/6/2)
+[^c-2d2ee740d3309659fe3b55bcb16dd941]: Textual amendment: S. 257MB omitted (with effect in accordance with Sch. 1 para. 14(1)(2) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/6/2)
 
-[^key-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
+[^c-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)

@@ -192,9 +192,9 @@ summary: ''
 
 (10) The amendments made by this section come into force on the passing of this Act; and—
 
-- (a)[^key-970d40e122a2ba4f00b5a95f6566ba3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-970d40e122a2ba4f00b5a95f6566ba3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a power under Part 7 of FA 2004 as amended by this section may be exercised in relation to, or by virtue of, matters arising wholly or partly before the passing of this Act.
 
 ## Annotations
 
-[^key-970d40e122a2ba4f00b5a95f6566ba3d]: Textual amendment: S. 108(10)(a) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 465](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/465)
+[^c-970d40e122a2ba4f00b5a95f6566ba3d]: Textual amendment: S. 108(10)(a) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 465](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/465)

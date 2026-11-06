@@ -48,13 +48,13 @@ summary: ''
 
 #### Prevention of Oil Pollution Act 1971
 
-**2.**[^key-170996971feb92c013d9e68b56e26c0c] In section 11A of the Prevention of Oil Pollution Act 1971 (certain provisions not to apply where discharge or escape authorised under certain enactments), in subsection (1), after “1999” insert “ or section 18 of the Regulatory Reform (Scotland) Act 2014 ”.
+**2.**[^c-170996971feb92c013d9e68b56e26c0c] In section 11A of the Prevention of Oil Pollution Act 1971 (certain provisions not to apply where discharge or escape authorised under certain enactments), in subsection (1), after “1999” insert “ or section 18 of the Regulatory Reform (Scotland) Act 2014 ”.
 
 #### Environmental Protection Act 1990
 
-**3.**[^key-2df796d863b74a6280edf32821c31823] (1) The Environmental Protection Act 1990 is amended as follows.
+**3.**[^c-2df796d863b74a6280edf32821c31823] (1) The Environmental Protection Act 1990 is amended as follows.
 
-(2)[^key-3acb859060bbaf05779046c7840ca778] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3acb859060bbaf05779046c7840ca778] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 46 (receptacles for household waste), in subsection (4)—
 
@@ -80,7 +80,7 @@ summary: ''
 
 #### Clean Air Act 1993
 
-**4.**[^key-53334eaa9c74fbbd34dc77e775d94792] (1) The Clean Air Act 1993 is amended as follows.
+**4.**[^c-53334eaa9c74fbbd34dc77e775d94792] (1) The Clean Air Act 1993 is amended as follows.
 
 (2) In section 31 (regulations about sulphur content of oil fuel for furnaces or engines), in subsection (4)—
 
@@ -121,7 +121,7 @@ summary: ''
 
 #### Environment Act 1995
 
-**5.**[^key-2365cb50d7248547e79610dc26f1347f] (1) The Environment Act 1995 is amended as follows.
+**5.**[^c-2365cb50d7248547e79610dc26f1347f] (1) The Environment Act 1995 is amended as follows.
 
 (2) In section 56 (interpretation of Part 1), in the definition of “**environmental licence**” in relation to SEPA, after paragraph (aa) insert—
 
@@ -135,20 +135,20 @@ summary: ''
 
 #### Merchant Shipping Act 1995
 
-**6.**[^key-8391cc1578de4d3aa41e17e6cc7bc8df] In section 136A of the Merchant Shipping Act 1995 (discharges etc. authorised under other enactments), after “1999” insert “ or an authorisation under regulations under section 18 of the Regulatory Reform (Scotland) Act 2014 ”.
+**6.**[^c-8391cc1578de4d3aa41e17e6cc7bc8df] In section 136A of the Merchant Shipping Act 1995 (discharges etc. authorised under other enactments), after “1999” insert “ or an authorisation under regulations under section 18 of the Regulatory Reform (Scotland) Act 2014 ”.
 
 #### Pollution Prevention and Control Act 1999
 
-**7.**[^key-e32c6a08173e2a5fddce82c19015f26e] In the Pollution Prevention and Control Act 1999, in section 1 (general purpose of section 2 and definitions)—
+**7.**[^c-e32c6a08173e2a5fddce82c19015f26e] In the Pollution Prevention and Control Act 1999, in section 1 (general purpose of section 2 and definitions)—
 
 - (a) paragraph (a) is repealed,
 - (b) in paragraph (b), the words “, otherwise in pursuance of that Directive,” are repealed.
 
 #### Water Environment and Water Services (Scotland) Act 2003
 
-**8.** (1)[^key-6c23bbe0daad6ee8302732124eaf975d] The Water Environment and Water Services (Scotland) Act 2003 is amended as follows.
+**8.** (1)[^c-6c23bbe0daad6ee8302732124eaf975d] The Water Environment and Water Services (Scotland) Act 2003 is amended as follows.
 
-(2)[^key-6c23bbe0daad6ee8302732124eaf975d] In section 2 (the general duties), in subsection (8), in the definition of “the relevant enactments”, after “Part” insert “ , Part 3 of the Regulatory Reform (Scotland) Act 2014 ”.
+(2)[^c-6c23bbe0daad6ee8302732124eaf975d] In section 2 (the general duties), in subsection (8), in the definition of “the relevant enactments”, after “Part” insert “ , Part 3 of the Regulatory Reform (Scotland) Act 2014 ”.
 
 (3) Section 20 (regulation of controlled activities) is repealed.
 
@@ -196,7 +196,7 @@ summary: ''
 
 #### Water Services etc. (Scotland) Act 2005
 
-**9.**[^key-8ad3989ad5631bbbe4e46ceb08ecc9fc] In section 25 of the Water Services etc. (Scotland) Act 2005 (sewerage nuisance: code of practice), in subsection (9), after “(c.24)” insert “ or by an authorisation under regulations made under section 18 of the Regulatory Reform (Scotland) Act 2014 ”.
+**9.**[^c-8ad3989ad5631bbbe4e46ceb08ecc9fc] In section 25 of the Water Services etc. (Scotland) Act 2005 (sewerage nuisance: code of practice), in subsection (9), after “(c.24)” insert “ or by an authorisation under regulations made under section 18 of the Regulatory Reform (Scotland) Act 2014 ”.
 
 #### Water Resources (Scotland) Act 2013
 
@@ -222,9 +222,9 @@ summary: ''
 
 #### Environmental Protection Act 1990
 
-**11.** (1)[^key-1b7ddf010779249e8443aab9dfe4665b] The Environmental Protection Act 1990 is amended as follows.
+**11.** (1)[^c-1b7ddf010779249e8443aab9dfe4665b] The Environmental Protection Act 1990 is amended as follows.
 
-(2)[^key-1b7ddf010779249e8443aab9dfe4665b] In section 33A (fixed penalty notices for contraventions of section 33(1)(a) and (c): Scotland)—
+(2)[^c-1b7ddf010779249e8443aab9dfe4665b] In section 33A (fixed penalty notices for contraventions of section 33(1)(a) and (c): Scotland)—
 
 - (a) in subsection (1), in paragraph (a)—
   - (i) for the words “officer of a local authority” substitute “ person or a constable ”,
@@ -281,7 +281,7 @@ summary: ''
 
   .
 
-(3)[^key-1b7ddf010779249e8443aab9dfe4665b] In section 59 (power to require removal of waste unlawfully deposited), after subsection (8B) insert—
+(3)[^c-1b7ddf010779249e8443aab9dfe4665b] In section 59 (power to require removal of waste unlawfully deposited), after subsection (8B) insert—
 
 > (8C) An authority may not recover costs under subsection (8) above if a compensation order has been made under section 249 of the Criminal Procedure (Scotland) Act 1995 in favour of the authority in respect of any part of those costs.
 >
@@ -289,7 +289,7 @@ summary: ''
 
 .
 
-(4)[^key-d4576013aa83e060bec6ef9955734802] In section 88 (fixed penalty notices for leaving litter)—
+(4)[^c-d4576013aa83e060bec6ef9955734802] In section 88 (fixed penalty notices for leaving litter)—
 
 - (a) in subsection (1), in paragraph (a)—
   - (i) for the words “officer of a litter authority” substitute “ person or a constable ”,
@@ -346,7 +346,7 @@ summary: ''
 
 #### Criminal Procedure (Scotland) Act 1995
 
-**12.**[^key-86a3b5216a1d9126baad65079355b550] In section 249 of the Criminal Procedure (Scotland) Act 1995 (compensation order against convicted person), after subsection (10) add—
+**12.**[^c-86a3b5216a1d9126baad65079355b550] In section 249 of the Criminal Procedure (Scotland) Act 1995 (compensation order against convicted person), after subsection (10) add—
 
 > (11) This section is subject to section 34 of the Regulatory Reform (Scotland) Act 2014.
 
@@ -354,7 +354,7 @@ summary: ''
 
 #### Reservoirs (Scotland) Act 2011
 
-**13.**[^key-b2735a307518fcf7689ae0291ad4df31] (1) The Reservoirs (Scotland) Act 2011 is amended as follows.
+**13.**[^c-b2735a307518fcf7689ae0291ad4df31] (1) The Reservoirs (Scotland) Act 2011 is amended as follows.
 
 (2) Sections 78 to 81 (enforcement undertakings, fixed monetary penalties, fixed monetary penalties: procedure and fixed monetary penalties: criminal proceedings and conviction, etc.) are repealed.
 
@@ -392,7 +392,7 @@ summary: ''
 
 #### Environment Act 1995
 
-**14.**[^key-30f209eab55e14efeac030e24ae83ed3] (1) The Environment Act 1995 is amended as follows.
+**14.**[^c-30f209eab55e14efeac030e24ae83ed3] (1) The Environment Act 1995 is amended as follows.
 
 (2) In section 31 (guidance on sustainable development and other aims and objectives), after subsection (2) insert—
 
@@ -434,11 +434,11 @@ summary: ''
 
 #### Water Industry (Scotland) Act 2002
 
-**15.**[^key-beaa3c2695cedc172841836513e71826] In schedule 7 to the Water Industry (Scotland) Act 2002 (modifications of other enactments), paragraph 24(2) is repealed.
+**15.**[^c-beaa3c2695cedc172841836513e71826] In schedule 7 to the Water Industry (Scotland) Act 2002 (modifications of other enactments), paragraph 24(2) is repealed.
 
 ### PART 4 — CONTROL OF POLLUTION ACT 1974
 
-**16.**[^key-c08d9c829b0b37350deaec760ff62571] (1) The Control of Pollution Act 1974 is amended as follows.
+**16.**[^c-c08d9c829b0b37350deaec760ff62571] (1) The Control of Pollution Act 1974 is amended as follows.
 
 (2) The following provisions are repealed—
 
@@ -516,19 +516,19 @@ summary: ''
 
 #### Scottish Board of Health Act 1919
 
-**17.**[^key-9d6c6e87e7b14ce19d1a8f8d58e2086a] In the Scottish Board of Health Act 1919, in section 4 (transfer of powers and duties to and from the Board), paragraph (d) of subsection (1) is repealed.
+**17.**[^c-9d6c6e87e7b14ce19d1a8f8d58e2086a] In the Scottish Board of Health Act 1919, in section 4 (transfer of powers and duties to and from the Board), paragraph (d) of subsection (1) is repealed.
 
 #### Local Government (Scotland) Act 1973
 
-**18.**[^key-fbef90d77a21753203f5f404f8eefdb4] In the Local Government (Scotland) Act 1973, in Schedule 27 (adaptation and amendment of enactments), paragraphs 146 to 148 are repealed.
+**18.**[^c-fbef90d77a21753203f5f404f8eefdb4] In the Local Government (Scotland) Act 1973, in Schedule 27 (adaptation and amendment of enactments), paragraphs 146 to 148 are repealed.
 
 #### Local Government, Planning and Land Act 1980
 
-**19.**[^key-cfa5412acfff2327e7e361fbe5f55cfc] In the Local Government, Planning and Land Act 1980, in Schedule 2 (relaxation of controls over functions relating to clean air and pollution), paragraphs 10, 14 and 18 are repealed.
+**19.**[^c-cfa5412acfff2327e7e361fbe5f55cfc] In the Local Government, Planning and Land Act 1980, in Schedule 2 (relaxation of controls over functions relating to clean air and pollution), paragraphs 10, 14 and 18 are repealed.
 
 #### Litter Act 1983
 
-**20.**[^key-a83e0cde1f59197e64a3b5e6b72080dc] In the Litter Act 1983—
+**20.**[^c-a83e0cde1f59197e64a3b5e6b72080dc] In the Litter Act 1983—
 
 - (a) in section 4 (consultation and proposals for abatement of litter), subsections (4), (4ZA), (4A) and (5) are repealed,
 - (b) in section 9 (orders), subsection (3) is repealed,
@@ -536,15 +536,15 @@ summary: ''
 
 #### Water Act 1989
 
-**21.**[^key-85db3a1ee8b0fe1158d1e99d673beccd] In the Water Act 1989, in Schedule 23 (control of water pollution in Scotland), paragraphs 2 and 3 are repealed.
+**21.**[^c-85db3a1ee8b0fe1158d1e99d673beccd] In the Water Act 1989, in Schedule 23 (control of water pollution in Scotland), paragraphs 2 and 3 are repealed.
 
 #### Planning (Consequential Provisions) Act 1990
 
-**22.**[^key-3ed7b62da4c7e017621e08627cc36db3] In the Planning (Consequential Provisions) Act 1990, in Schedule 2 (consequential amendments), paragraph 31(1) is repealed.
+**22.**[^c-3ed7b62da4c7e017621e08627cc36db3] In the Planning (Consequential Provisions) Act 1990, in Schedule 2 (consequential amendments), paragraph 31(1) is repealed.
 
 #### Environmental Protection Act 1990
 
-**23.**[^key-a7cc49e577bdba5a7709d37149f27d83] In the Environmental Protection Act 1990—
+**23.**[^c-a7cc49e577bdba5a7709d37149f27d83] In the Environmental Protection Act 1990—
 
 - (a) in section 79 (statutory nuisances and inspections therefor), in subsection (10), the words from “Part I” to “under”, where it third occurs, are repealed,
 - (b) in section 80 (summary proceedings for statutory nuisances)—
@@ -582,11 +582,11 @@ summary: ''
 
 #### Agricultural Holdings (Scotland) Act 1991
 
-**25.**[^key-cfe37fd748c21598cb0753cfb00cc0b1] In section 26 of the Agricultural Holdings (Scotland) Act 1991 (certificates of bad husbandry), subsection (2) is repealed.
+**25.**[^c-cfe37fd748c21598cb0753cfb00cc0b1] In section 26 of the Agricultural Holdings (Scotland) Act 1991 (certificates of bad husbandry), subsection (2) is repealed.
 
 #### Clean Air Act 1993
 
-**26.**[^key-11d68c8e8bb4c11802ea9a1334e1cb14] In the Clean Air Act 1993, in section 42 (colliery spoilbanks)—
+**26.**[^c-11d68c8e8bb4c11802ea9a1334e1cb14] In the Clean Air Act 1993, in section 42 (colliery spoilbanks)—
 
 - (a) in subsection (2), for the words “or quarry” substitute “ , or the operator of a quarry, ”,
 - (b) in subsection (6), for the words from “mine” to the end substitute—
@@ -603,15 +603,15 @@ summary: ''
 
 #### Radioactive Substances Act 1993
 
-**27.**[^key-ffb7c26ade8cb123fa67c5209f117203] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-ffb7c26ade8cb123fa67c5209f117203] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Local Government etc. (Scotland) Act 1994
 
-**28.**[^key-fde351597c3ccc9aa0494c6fab0e97e0] In the Local Government etc. (Scotland) Act 1994, in Schedule 13 (minor and consequential amendments), sub-paragraphs (3), (5) and (10) of paragraph 95 are repealed.
+**28.**[^c-fde351597c3ccc9aa0494c6fab0e97e0] In the Local Government etc. (Scotland) Act 1994, in Schedule 13 (minor and consequential amendments), sub-paragraphs (3), (5) and (10) of paragraph 95 are repealed.
 
 #### Environment Act 1995
 
-**29.**[^key-358a3d627b075098ea5e6bcd412e9389] (1) The Environment Act 1995 is amended as follows.
+**29.**[^c-358a3d627b075098ea5e6bcd412e9389] (1) The Environment Act 1995 is amended as follows.
 
 (2) In section 21 (transfer of functions to SEPA)—
 
@@ -675,11 +675,11 @@ summary: ''
 - (c) paragraph 8, and
 - (d) paragraph 18.
 
-**30.**[^key-66096c218eecb51e608a5e204321099e] The amendments made by paragraph 29 to subsection (4) of section 110 of the Environment Act 1995 do not affect the penalty for an offence under that section committed before the coming into force of those amendments.
+**30.**[^c-66096c218eecb51e608a5e204321099e] The amendments made by paragraph 29 to subsection (4) of section 110 of the Environment Act 1995 do not affect the penalty for an offence under that section committed before the coming into force of those amendments.
 
 #### Criminal Procedure (Scotland) Act 1995
 
-**31.**[^key-3e2242acaa5f2bbd252873d7f006542f] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+**31.**[^c-3e2242acaa5f2bbd252873d7f006542f] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
 (2) In section 277 (transcript of police interview sufficient evidence)—
 
@@ -732,40 +732,40 @@ summary: ''
 
 #### Town and Country Planning (Scotland) Act 1997
 
-**32.**[^key-913d42737c0b8410192ac674c165e02a] In the Town and Country Planning (Scotland) Act 1997, in section 275 (regulations and orders), the subsection numbered “(2A)” inserted by section 54(16)(a) of the Planning etc. (Scotland) Act 2006 is renumbered as “(2B)”.
+**32.**[^c-913d42737c0b8410192ac674c165e02a] In the Town and Country Planning (Scotland) Act 1997, in section 275 (regulations and orders), the subsection numbered “(2A)” inserted by section 54(16)(a) of the Planning etc. (Scotland) Act 2006 is renumbered as “(2B)”.
 
 #### Planning (Consequential Provisions) (Scotland) Act 1997
 
-**33.**[^key-74c419eb69da42fb02552e3fb99f1045] In the Planning (Consequential Provisions) (Scotland) Act 1997, in Schedule 2 (consequential amendments), paragraph 23(1) is repealed.
+**33.**[^c-74c419eb69da42fb02552e3fb99f1045] In the Planning (Consequential Provisions) (Scotland) Act 1997, in Schedule 2 (consequential amendments), paragraph 23(1) is repealed.
 
 #### Crime and Punishment (Scotland) Act 1997
 
-**34.**[^key-c703e86e81a652157f69fe2d87da6fe0] In the Crime and Punishment (Scotland) Act 1997, in section 30 (routine evidence)—
+**34.**[^c-c703e86e81a652157f69fe2d87da6fe0] In the Crime and Punishment (Scotland) Act 1997, in section 30 (routine evidence)—
 
 - (a) in subsection (1), for the words “subsections (2) and (3)” substitute “ subsection (3) ”,
 - (b) subsection (2) is repealed.
 
 #### City of Edinburgh (Guided Busways) Order Confirmation Act 1998
 
-**35.**[^key-e2dcd223cb3b2b1f3529ba56e419ae84] In the City of Edinburgh (Guided Busways) Order Confirmation Act 1998, in section 29 (connection of drains, etc, with streams, etc.) of the Order contained in the Schedule confirmed by section 1 of that Act, subsection (4) is repealed.
+**35.**[^c-e2dcd223cb3b2b1f3529ba56e419ae84] In the City of Edinburgh (Guided Busways) Order Confirmation Act 1998, in section 29 (connection of drains, etc, with streams, etc.) of the Order contained in the Schedule confirmed by section 1 of that Act, subsection (4) is repealed.
 
 #### Pollution Prevention and Control Act 1999
 
-**36.**[^key-2e01b02bdb1b62eb76f23bba2bb338f4] In the Pollution Prevention and Control Act 1999, in Schedule 3 (repeals), in the third column of the entry relating to the Environmental Protection Act 1990, the words “In section 79(10), the words “under Part I or”” are repealed.
+**36.**[^c-2e01b02bdb1b62eb76f23bba2bb338f4] In the Pollution Prevention and Control Act 1999, in Schedule 3 (repeals), in the third column of the entry relating to the Environmental Protection Act 1990, the words “In section 79(10), the words “under Part I or”” are repealed.
 
 #### Antisocial Behaviour etc. (Scotland) Act 2004
 
-**37.**[^key-77a1cbb85c23e49edaac0367bfdf050a] In the Antisocial Behaviour etc. (Scotland) Act 2004, in schedule 2 (penalties for certain environmental offences), paragraph 2 is repealed.
+**37.**[^c-77a1cbb85c23e49edaac0367bfdf050a] In the Antisocial Behaviour etc. (Scotland) Act 2004, in schedule 2 (penalties for certain environmental offences), paragraph 2 is repealed.
 
 #### Forth Crossing Act 2011
 
-**38.**[^key-30d8f520a9b7b472abdd614d5b7e4b8f] In section 70 of the Forth Crossing Act 2011 (control of noise: Control of Pollution Act 1974), subsection (3) is repealed.
+**38.**[^c-30d8f520a9b7b472abdd614d5b7e4b8f] In section 70 of the Forth Crossing Act 2011 (control of noise: Control of Pollution Act 1974), subsection (3) is repealed.
 
 ### PART 6 — MODIFICATIONS OF REFERENCES TO “ENACTMENT” ETC.
 
 #### Control of Pollution Act 1974
 
-**39.**[^key-60b2dd52a98512bbb19f383dab7b27ba] (1) The Control of Pollution Act 1974 is amended as follows.
+**39.**[^c-60b2dd52a98512bbb19f383dab7b27ba] (1) The Control of Pollution Act 1974 is amended as follows.
 
 (2) In section 73 (interpretation and other supplementary provisions), after subsection (3) insert—
 
@@ -783,7 +783,7 @@ summary: ''
 
 #### Environmental Protection Act 1990
 
-**40.**[^key-c63edc6d688d4f0a6965257d7651e869] (1) The Environmental Protection Act 1990 is amended as follows.
+**40.**[^c-c63edc6d688d4f0a6965257d7651e869] (1) The Environmental Protection Act 1990 is amended as follows.
 
 (2) In section 33 (prohibition on unauthorised or harmful deposit, treatment or disposal etc. of waste), after subsection (10) add—
 
@@ -841,7 +841,7 @@ summary: ''
 
 #### Natural Heritage (Scotland) Act 1991
 
-**41.**[^key-43a4851124e2b8009747efe8163f3c4b] (1) The Natural Heritage (Scotland) Act 1991 is amended as follows.
+**41.**[^c-43a4851124e2b8009747efe8163f3c4b] (1) The Natural Heritage (Scotland) Act 1991 is amended as follows.
 
 (2) In section 7 (powers of entry), after subsection (11) add—
 
@@ -857,11 +857,11 @@ summary: ''
 
 #### Radioactive Substances Act 1993
 
-**42.**[^key-cb1d05027866e44469a21369ac32f208] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-cb1d05027866e44469a21369ac32f208] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Environment Act 1995
 
-**43.**[^key-44a16956d909606a0d0c50b7dbfd669f] (1) The Environment Act 1995 is amended as follows.
+**43.**[^c-44a16956d909606a0d0c50b7dbfd669f] (1) The Environment Act 1995 is amended as follows.
 
 (2) In section 27 (power of SEPA to obtain information about land), after subsection (3) add—
 
@@ -945,92 +945,92 @@ summary: ''
 
 #### Flood Risk Management (Scotland) Act 2009
 
-**44.**[^key-d559d6ab433491e89401f707ea7f2034] Section 78 of the Flood Risk Management (Scotland) Act 2009 (SEPA's power to obtain information about land) is repealed.
+**44.**[^c-d559d6ab433491e89401f707ea7f2034] Section 78 of the Flood Risk Management (Scotland) Act 2009 (SEPA's power to obtain information about land) is repealed.
 
 ## Annotations
 
-[^key-170996971feb92c013d9e68b56e26c0c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/2) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-170996971feb92c013d9e68b56e26c0c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/2) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-2df796d863b74a6280edf32821c31823]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/3) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-2df796d863b74a6280edf32821c31823]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/3) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-3acb859060bbaf05779046c7840ca778]: Textual amendment: [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/3/2) repealed (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-3acb859060bbaf05779046c7840ca778]: Textual amendment: [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/3/2) repealed (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-53334eaa9c74fbbd34dc77e775d94792]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/4) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-53334eaa9c74fbbd34dc77e775d94792]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/4) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-2365cb50d7248547e79610dc26f1347f]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/5) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-2365cb50d7248547e79610dc26f1347f]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/5) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-8391cc1578de4d3aa41e17e6cc7bc8df]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/6) in force at 1.10.2015 by [S.S.I. 2015/52](https://www.legislation.gov.uk/ssi/2015/52), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/52/article/2/2)
+[^c-8391cc1578de4d3aa41e17e6cc7bc8df]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/6) in force at 1.10.2015 by [S.S.I. 2015/52](https://www.legislation.gov.uk/ssi/2015/52), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/52/article/2/2)
 
-[^key-e32c6a08173e2a5fddce82c19015f26e]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/7) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-e32c6a08173e2a5fddce82c19015f26e]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/7) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-6c23bbe0daad6ee8302732124eaf975d]: Commencement: [Sch. 3 para. 8(1)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/8/1)[(2)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/8/2) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-6c23bbe0daad6ee8302732124eaf975d]: Commencement: [Sch. 3 para. 8(1)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/8/1)[(2)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/8/2) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-8ad3989ad5631bbbe4e46ceb08ecc9fc]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/9) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-8ad3989ad5631bbbe4e46ceb08ecc9fc]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/9) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-1b7ddf010779249e8443aab9dfe4665b]: Commencement: [Sch. 3 para. 11(1)-(3)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/1) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-1b7ddf010779249e8443aab9dfe4665b]: Commencement: [Sch. 3 para. 11(1)-(3)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/1) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-d4576013aa83e060bec6ef9955734802]: Commencement: [Sch. 3 para. 11(4)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4) in force at 1.4.2015 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
+[^c-d4576013aa83e060bec6ef9955734802]: Commencement: [Sch. 3 para. 11(4)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4) in force at 1.4.2015 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
 
-[^key-86a3b5216a1d9126baad65079355b550]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/12) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-86a3b5216a1d9126baad65079355b550]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/12) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-b2735a307518fcf7689ae0291ad4df31]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-b2735a307518fcf7689ae0291ad4df31]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-30f209eab55e14efeac030e24ae83ed3]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/14) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-30f209eab55e14efeac030e24ae83ed3]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/14) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-beaa3c2695cedc172841836513e71826]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/15) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-beaa3c2695cedc172841836513e71826]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/15) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-c08d9c829b0b37350deaec760ff62571]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/16) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-c08d9c829b0b37350deaec760ff62571]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/16) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-9d6c6e87e7b14ce19d1a8f8d58e2086a]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/17) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-9d6c6e87e7b14ce19d1a8f8d58e2086a]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/17) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-fbef90d77a21753203f5f404f8eefdb4]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/18) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-fbef90d77a21753203f5f404f8eefdb4]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/18) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-cfa5412acfff2327e7e361fbe5f55cfc]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/19) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-cfa5412acfff2327e7e361fbe5f55cfc]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/19) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-a83e0cde1f59197e64a3b5e6b72080dc]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/20) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-a83e0cde1f59197e64a3b5e6b72080dc]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/20) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-85db3a1ee8b0fe1158d1e99d673beccd]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/21) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-85db3a1ee8b0fe1158d1e99d673beccd]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/21) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-3ed7b62da4c7e017621e08627cc36db3]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/22) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-3ed7b62da4c7e017621e08627cc36db3]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/22) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-a7cc49e577bdba5a7709d37149f27d83]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/23) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-a7cc49e577bdba5a7709d37149f27d83]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/23) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-cfe37fd748c21598cb0753cfb00cc0b1]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/25) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-cfe37fd748c21598cb0753cfb00cc0b1]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/25) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-11d68c8e8bb4c11802ea9a1334e1cb14]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/26) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-11d68c8e8bb4c11802ea9a1334e1cb14]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/26) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-ffb7c26ade8cb123fa67c5209f117203]: Textual amendment: Sch. 3 para. 27 repealed (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-ffb7c26ade8cb123fa67c5209f117203]: Textual amendment: Sch. 3 para. 27 repealed (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
 
-[^key-fde351597c3ccc9aa0494c6fab0e97e0]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/28) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-fde351597c3ccc9aa0494c6fab0e97e0]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/28) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-358a3d627b075098ea5e6bcd412e9389]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/29) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-358a3d627b075098ea5e6bcd412e9389]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/29) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-66096c218eecb51e608a5e204321099e]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/30) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-66096c218eecb51e608a5e204321099e]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/30) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-3e2242acaa5f2bbd252873d7f006542f]: Commencement: [Sch. 3 para. 31](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/31) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-3e2242acaa5f2bbd252873d7f006542f]: Commencement: [Sch. 3 para. 31](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/31) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-913d42737c0b8410192ac674c165e02a]: Commencement: [Sch. 3 para. 32](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/32) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-913d42737c0b8410192ac674c165e02a]: Commencement: [Sch. 3 para. 32](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/32) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-74c419eb69da42fb02552e3fb99f1045]: Commencement: [Sch. 3 para. 33](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/33) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-74c419eb69da42fb02552e3fb99f1045]: Commencement: [Sch. 3 para. 33](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/33) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-c703e86e81a652157f69fe2d87da6fe0]: Commencement: [Sch. 3 para. 34](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/34) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-c703e86e81a652157f69fe2d87da6fe0]: Commencement: [Sch. 3 para. 34](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/34) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-e2dcd223cb3b2b1f3529ba56e419ae84]: Commencement: [Sch. 3 para. 35](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/35) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-e2dcd223cb3b2b1f3529ba56e419ae84]: Commencement: [Sch. 3 para. 35](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/35) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-2e01b02bdb1b62eb76f23bba2bb338f4]: Commencement: [Sch. 3 para. 36](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/36) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-2e01b02bdb1b62eb76f23bba2bb338f4]: Commencement: [Sch. 3 para. 36](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/36) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-77a1cbb85c23e49edaac0367bfdf050a]: Commencement: [Sch. 3 para. 37](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/37) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-77a1cbb85c23e49edaac0367bfdf050a]: Commencement: [Sch. 3 para. 37](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/37) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-30d8f520a9b7b472abdd614d5b7e4b8f]: Commencement: [Sch. 3 para. 38](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/38) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-30d8f520a9b7b472abdd614d5b7e4b8f]: Commencement: [Sch. 3 para. 38](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/38) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-60b2dd52a98512bbb19f383dab7b27ba]: Commencement: [Sch. 3 para. 39](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/39) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-60b2dd52a98512bbb19f383dab7b27ba]: Commencement: [Sch. 3 para. 39](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/39) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-c63edc6d688d4f0a6965257d7651e869]: Commencement: [Sch. 3 para. 40](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/40) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-c63edc6d688d4f0a6965257d7651e869]: Commencement: [Sch. 3 para. 40](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/40) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-43a4851124e2b8009747efe8163f3c4b]: Commencement: [Sch. 3 para. 41](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/41) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-43a4851124e2b8009747efe8163f3c4b]: Commencement: [Sch. 3 para. 41](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/41) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-cb1d05027866e44469a21369ac32f208]: Textual amendment: [Sch. 3 para. 42](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/42) repealed (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-cb1d05027866e44469a21369ac32f208]: Textual amendment: [Sch. 3 para. 42](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/42) repealed (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
 
-[^key-44a16956d909606a0d0c50b7dbfd669f]: Commencement: [Sch. 3 para. 43](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/43) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-44a16956d909606a0d0c50b7dbfd669f]: Commencement: [Sch. 3 para. 43](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/43) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-d559d6ab433491e89401f707ea7f2034]: Commencement: [Sch. 3 para. 44](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/44) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-d559d6ab433491e89401f707ea7f2034]: Commencement: [Sch. 3 para. 44](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/44) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

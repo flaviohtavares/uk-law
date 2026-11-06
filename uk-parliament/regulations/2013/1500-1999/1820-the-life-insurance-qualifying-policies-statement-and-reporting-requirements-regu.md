@@ -46,13 +46,13 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by section 552ZB(1) of, and paragraph B3(2), (7) and (9)(c) of Schedule 15 to, the Income and Corporation Taxes Act 1988[^f00001].
 
-## 1. Citation and commencement and interpretation[^key-d67c614b8072d97a866d43d8889124c1]
+## 1. Citation and commencement and interpretation[^c-d67c614b8072d97a866d43d8889124c1]
 
 (1) These Regulations may be cited as the Life Insurance Qualifying Policies (Statement and Reporting Requirements) Regulations 2013 and come into force on 12 August 2013.
 
 (2) In these Regulations, “Schedule 15” means Schedule 15 to the Income and Corporation Taxes Act 1988.
 
-## 2. Statement by beneficiary[^key-d8c9550a03eb5acaad658cacf18fae67]
+## 2. Statement by beneficiary[^c-d8c9550a03eb5acaad658cacf18fae67]
 
 (1) In relation to a statement made under paragraph B3(2) of Schedule 15, the prescribed matters are set out in paragraphs (2) to (6).
 
@@ -86,7 +86,7 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 (6) For the purpose of paragraph (2)(f), whether a beneficiary is in breach of the premium limit for qualifying policies is determined in accordance with paragraph A3(1) of Schedule 15.
 
-## 3. Exceptions to the requirement to make a statement[^key-4d9277f83d5d88edf5eab0913a58bd3b]
+## 3. Exceptions to the requirement to make a statement[^c-4d9277f83d5d88edf5eab0913a58bd3b]
 
 A beneficiary is not required to make a statement under paragraph B3(2) of Schedule 15 in the following circumstances—
 
@@ -96,12 +96,12 @@ A beneficiary is not required to make a statement under paragraph B3(2) of Sched
 - (b) on an assignment of a share in any rights under a policy, if—
   - (i) the beneficiary has previously made a statement under paragraph B3(2) of Schedule 15 in respect of that policy, and
   - (ii) that information has not changed since making that statement;
-- (c) on a deceased beneficiary event, if before the event the beneficiary is a beneficiary under the policy in relation to which the event occurs;[^key-cf4e82616650c513b38055dfe00fae0b]
+- (c) on a deceased beneficiary event, if before the event the beneficiary is a beneficiary under the policy in relation to which the event occurs;[^c-cf4e82616650c513b38055dfe00fae0b]
 - (d) on the occurrence of an event within paragraph B3(1)(e) or (f) of Schedule 15 in respect of a policy, if—
   - (i) the policy is a protected policy within paragraph A4 of Schedule 15, and
   - (ii) the policy is a paid-up policy.
 
-## 4. Applications and statements not in writing[^key-c125935118b142a508c4ef7827a3aeb6]
+## 4. Applications and statements not in writing[^c-c125935118b142a508c4ef7827a3aeb6]
 
 Where an application for the issue of a qualifying policy or a statement made under paragraph B3(2) of Schedule 15 is not in writing—
 
@@ -109,7 +109,7 @@ Where an application for the issue of a qualifying policy or a statement made un
 - (b) the relevant person must send a copy of the written record to the applicant or beneficiary within 20 business days of making it; and
 - (c) the applicant or beneficiary must notify the relevant person of any errors in the written record within 30 days of receiving it and the relevant person must amend the application or statement accordingly.
 
-## 5. Reporting requirements of relevant person[^key-74c0bac24f80a67958fff5e503865e8c]
+## 5. Reporting requirements of relevant person[^c-74c0bac24f80a67958fff5e503865e8c]
 
 (1) A relevant person must provide the following information to an officer of Revenue and Customs within 3 months of the end of a tax year—
 
@@ -122,7 +122,7 @@ Where an application for the issue of a qualifying policy or a statement made un
 
 (2) This regulation does not apply to qualifying policies issued before 6 April 2013 or to pure protection policies.
 
-## 6. Amendment to the Life Assurance and Other Policies (Keeping of Information and Duties of Insurers) Regulations 1997[^key-eb6c4ad2c031d1e917129bfbcb03699f]
+## 6. Amendment to the Life Assurance and Other Policies (Keeping of Information and Duties of Insurers) Regulations 1997[^c-eb6c4ad2c031d1e917129bfbcb03699f]
 
 (1) The Life Assurance and Other Policies (Keeping of Information and Duties of Insurers) Regulations 1997[^f00002] are amended as follows.
 
@@ -187,18 +187,18 @@ Tax Information and Impact Notes covering this instrument were published on 11 D
 
 [^f00001]: Footnote: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1); section 552ZB of, and paragraph B3 of Schedule 15 to, the Income and Corporation Taxes Act 1988 were inserted by paragraphs 3 and 10 of Schedule 9 to the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29).
 
-[^key-d67c614b8072d97a866d43d8889124c1]: Commencement: Reg. 1 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1820/regulation/1/1)
+[^c-d67c614b8072d97a866d43d8889124c1]: Commencement: Reg. 1 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1820/regulation/1/1)
 
-[^key-d8c9550a03eb5acaad658cacf18fae67]: Commencement: Reg. 2 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1820/regulation/1/1)
+[^c-d8c9550a03eb5acaad658cacf18fae67]: Commencement: Reg. 2 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1820/regulation/1/1)
 
-[^key-4d9277f83d5d88edf5eab0913a58bd3b]: Commencement: Reg. 3 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1820/regulation/1/1)
+[^c-4d9277f83d5d88edf5eab0913a58bd3b]: Commencement: Reg. 3 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1820/regulation/1/1)
 
-[^key-cf4e82616650c513b38055dfe00fae0b]: Textual amendment: [Reg. 3(d)](https://www.legislation.gov.uk/uksi/2013/1820/regulation/3/d) and word substituted for word (26.3.2015) by [The Life Insurance Qualifying Policies (Statement and Reporting Requirements) (Amendment) Regulations 2015 (S.I. 2015/544)](https://www.legislation.gov.uk/uksi/2015/544), [regs. 1](https://www.legislation.gov.uk/uksi/2015/544/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/544/regulation/2/2)
+[^c-cf4e82616650c513b38055dfe00fae0b]: Textual amendment: [Reg. 3(d)](https://www.legislation.gov.uk/uksi/2013/1820/regulation/3/d) and word substituted for word (26.3.2015) by [The Life Insurance Qualifying Policies (Statement and Reporting Requirements) (Amendment) Regulations 2015 (S.I. 2015/544)](https://www.legislation.gov.uk/uksi/2015/544), [regs. 1](https://www.legislation.gov.uk/uksi/2015/544/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/544/regulation/2/2)
 
-[^key-c125935118b142a508c4ef7827a3aeb6]: Commencement: Reg. 4 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1820/regulation/1/1)
+[^c-c125935118b142a508c4ef7827a3aeb6]: Commencement: Reg. 4 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1820/regulation/1/1)
 
-[^key-74c0bac24f80a67958fff5e503865e8c]: Commencement: Reg. 5 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1820/regulation/1/1)
+[^c-74c0bac24f80a67958fff5e503865e8c]: Commencement: Reg. 5 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1820/regulation/1/1)
 
-[^key-eb6c4ad2c031d1e917129bfbcb03699f]: Commencement: Reg. 6 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1820/regulation/1/1)
+[^c-eb6c4ad2c031d1e917129bfbcb03699f]: Commencement: Reg. 6 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1820/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1997/265](https://www.legislation.gov.uk/uksi/1997/265) as amended by [S.I. 2002/444](https://www.legislation.gov.uk/uksi/2002/444) and [S.I. 2008/2628](https://www.legislation.gov.uk/uksi/2008/2628).

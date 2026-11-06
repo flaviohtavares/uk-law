@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Additional restrictions at suspect premises[^key-9213bf28fdc80959f67dfe4371707ebe]
+## 16. Additional restrictions at suspect premises[^c-9213bf28fdc80959f67dfe4371707ebe]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ In a notice served under regulation 13(b), the Department must state if the meas
 
 ## Annotations
 
-[^key-9213bf28fdc80959f67dfe4371707ebe]: Commencement: Reg. 16 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-9213bf28fdc80959f67dfe4371707ebe]: Commencement: Reg. 16 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

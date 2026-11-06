@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 179. Investigation of complaints about privately arranged or funded social care and palliative care[^key-0f949c71af2d7509330701bc307df0ee]
+## 179. Investigation of complaints about privately arranged or funded social care and palliative care[^c-0f949c71af2d7509330701bc307df0ee]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 3 (which inserts new Parts 2A and 2B into the Public Services Ombudsman
 
 ## Annotations
 
-[^key-0f949c71af2d7509330701bc307df0ee]: Commencement: S. 179 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-0f949c71af2d7509330701bc307df0ee]: Commencement: S. 179 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)

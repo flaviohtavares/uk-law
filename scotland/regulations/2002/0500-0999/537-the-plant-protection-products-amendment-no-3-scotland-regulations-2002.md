@@ -31,7 +31,7 @@ summary: ''
 
 PESTICIDES
 
-The Plant Protection Products Amendment (No. 3) (Scotland) Regulations 2002 (revoked)[^key-6d1e7d182972002a34919d3b578a84ed]
+The Plant Protection Products Amendment (No. 3) (Scotland) Regulations 2002 (revoked)[^c-6d1e7d182972002a34919d3b578a84ed]
 
 Made
 
@@ -45,34 +45,34 @@ Coming into force
 
 31st December 2002
 
-[^key-6d1e7d182972002a34919d3b578a84ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d1e7d182972002a34919d3b578a84ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-6d1e7d182972002a34919d3b578a84ed]
+## 1. Citation, commencement and extent[^c-6d1e7d182972002a34919d3b578a84ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Protection Products Regulations 1995[^key-6d1e7d182972002a34919d3b578a84ed]
+## 2. Amendment of the Plant Protection Products Regulations 1995[^c-6d1e7d182972002a34919d3b578a84ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6d1e7d182972002a34919d3b578a84ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d1e7d182972002a34919d3b578a84ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SCHEDULE A1 AS INSERTED BY THESE REGULATIONS[^key-6d1e7d182972002a34919d3b578a84ed]
+## SCHEDULE — SCHEDULE A1 AS INSERTED BY THESE REGULATIONS[^c-6d1e7d182972002a34919d3b578a84ed]
 
 Regulation 2(4)
 
-[^key-6d1e7d182972002a34919d3b578a84ed]
+[^c-6d1e7d182972002a34919d3b578a84ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6d1e7d182972002a34919d3b578a84ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d1e7d182972002a34919d3b578a84ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d1e7d182972002a34919d3b578a84ed]: Textual amendment: Regulations revoked (31.12.2003) by [The Plant Protection Products (Scotland) Regulations 2003 (S.S.I. 2003/579)](https://www.legislation.gov.uk/ssi/2003/579), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/579/regulation/1/1), [29](https://www.legislation.gov.uk/ssi/2003/579/regulation/29), [sch. 5](https://www.legislation.gov.uk/ssi/2003/579/schedule/5) (with [sch. 4](https://www.legislation.gov.uk/ssi/2003/579/schedule/4))
+[^c-6d1e7d182972002a34919d3b578a84ed]: Textual amendment: Regulations revoked (31.12.2003) by [The Plant Protection Products (Scotland) Regulations 2003 (S.S.I. 2003/579)](https://www.legislation.gov.uk/ssi/2003/579), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/579/regulation/1/1), [29](https://www.legislation.gov.uk/ssi/2003/579/regulation/29), [sch. 5](https://www.legislation.gov.uk/ssi/2003/579/schedule/5) (with [sch. 4](https://www.legislation.gov.uk/ssi/2003/579/schedule/4))

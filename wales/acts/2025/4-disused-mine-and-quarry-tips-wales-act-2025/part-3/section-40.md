@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Supplementary provision about appeals[^key-68820043fa19a178fd9459e1d5dac784]
+## 40. Supplementary provision about appeals[^c-68820043fa19a178fd9459e1d5dac784]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68820043fa19a178fd9459e1d5dac784]: Commencement: S. 40 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-68820043fa19a178fd9459e1d5dac784]: Commencement: S. 40 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

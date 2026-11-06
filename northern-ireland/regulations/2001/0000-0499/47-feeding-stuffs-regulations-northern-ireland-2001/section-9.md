@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Manner of packaging and sealing compound feeding stuffs, additives and premixtures[^key-e17d462c5c198b13e8b1524a8c1e50c9]
+## 9. Manner of packaging and sealing compound feeding stuffs, additives and premixtures[^c-e17d462c5c198b13e8b1524a8c1e50c9]
 
 *Extent: N.I.*
 
@@ -121,4 +121,4 @@ The exceptions are — provisions relating to non-feed uses in Article 9k.1 and 
 
 ## Annotations
 
-[^key-e17d462c5c198b13e8b1524a8c1e50c9]: Commencement: Reg. 9 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-e17d462c5c198b13e8b1524a8c1e50c9]: Commencement: Reg. 9 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

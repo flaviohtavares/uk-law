@@ -44,11 +44,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by sections 15(1), (2), (4)(a), (5)(b), (6)(a) and (b) and 82(3)(a) of, and paragraphs 1(1)(c) and (2), 8, 9, 11, 12, 14, 15(1), 16, 18 and 21(b) of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”) and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-f1b3b606354d33632aa911ce961848d1]
+## 1. Citation and commencement[^c-f1b3b606354d33632aa911ce961848d1]
 
 These Regulations may be cited as the Borehole Sites and Operations Regulations 1995 and shall come into force on 1st October 1995.
 
-## 2. Interpretation[^key-4f0978d10137240f36f5627d381fdcde]
+## 2. Interpretation[^c-4f0978d10137240f36f5627d381fdcde]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -81,13 +81,13 @@ or to the preparation for sale, but not the processing, of extracted minerals at
 - (a) a reference to a numbered regulation or Schedule is a reference to the regulation or Schedule in these Regulations so numbered; and
 - (b) a reference to a numbered paragraph is a reference to the paragraph so numbered in the regulation or Schedule in which that reference occurs.
 
-## 3. Application[^key-58c911b23eefe14f1cbdf9390f98a7f2]
+## 3. Application[^c-58c911b23eefe14f1cbdf9390f98a7f2]
 
 (1) These Regulations shall not apply to offshore installations or activities carried out from such installations.
 
 (2) These Regulations shall apply to a self-employed person as they apply to an employer and as if that self-employed person were both an employer and an employee.
 
-## 4. Information to and general duties of the operator[^key-5a591f3042891f89c7a21e1d0b9a6e87]
+## 4. Information to and general duties of the operator[^c-5a591f3042891f89c7a21e1d0b9a6e87]
 
 (1) Where the owner is not himself the operator of a borehole site, he shall furnish the operator with all information in his possession needed to enable the operator to perform his duties under these Regulations.
 
@@ -98,11 +98,11 @@ or to the preparation for sale, but not the processing, of extracted minerals at
 
 (3) In relation to a borehole site, any duty imposed on an employer by these Regulations shall also be imposed on the operator in so far as it relates to matters under his control.
 
-## 5. Co-operation[^key-faa4317e679bef2e989952d69d738fb4]
+## 5. Co-operation[^c-faa4317e679bef2e989952d69d738fb4]
 
 Every employer of persons at work at a borehole site (other than the operator) shall co-operate with the operator, to the extent necessary to enable him to comply with the relevant statutory provisions at the site.
 
-## 6. Notice of the commencement of drilling operations and the abandonment of boreholes[^key-8d4d80eb444b2f93d8780e852cca2172]
+## 6. Notice of the commencement of drilling operations and the abandonment of boreholes[^c-8d4d80eb444b2f93d8780e852cca2172]
 
 (1) In the case of petroleum, the operator of a borehole site shall ensure that no drilling operation, abandonment operation or other operation on a well which would make a significant alteration to it, or involve a risk of the accidental release of fluids from the well or reservoir, is commenced at that site unless he has notified to the Executive the particulars specified in Part I of Schedule 1 at least 21 days in advance, or such shorter time in advance as the Executive may agree.
 
@@ -118,7 +118,7 @@ Every employer of persons at work at a borehole site (other than the operator) s
 
 (7) In paragraph (1) “petroleum” means any mineral oil or relative hydrocarbon and natural gas existing in its natural condition in strata, but does not include coal or bituminous shales or other stratified deposits from which oil can be extracted by destructive distillation.
 
-(8) Subject to paragraph (9) and to any of the provisions imposed by the European Union[^key-2315d546b9ff79e5bbaaaba673cf9362] (as they had effect immediately before IP completion day)[^key-46c76a582269473fa9cae4aade2d6969] in respect of the encouragement of improvements in the safety and health of workers at work, the Executive may, by a certificate in writing, exempt any person, borehole, borehole site, or class of persons, boreholes or borehole sites from any requirement or prohibition imposed by the preceding provisions of this regulation and any such exemption may be granted subject to conditions and with or without limit of time and may be revoked by a certificate in writing at any time.
+(8) Subject to paragraph (9) and to any of the provisions imposed by the European Union[^c-2315d546b9ff79e5bbaaaba673cf9362] (as they had effect immediately before IP completion day)[^c-46c76a582269473fa9cae4aade2d6969] in respect of the encouragement of improvements in the safety and health of workers at work, the Executive may, by a certificate in writing, exempt any person, borehole, borehole site, or class of persons, boreholes or borehole sites from any requirement or prohibition imposed by the preceding provisions of this regulation and any such exemption may be granted subject to conditions and with or without limit of time and may be revoked by a certificate in writing at any time.
 
 (9) The Executive shall not grant any such exemption unless, having regard to the circumstances of the case and, in particular, to—
 
@@ -127,7 +127,7 @@ Every employer of persons at work at a borehole site (other than the operator) s
 
 it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
 
-## 7. The health and safety document[^key-2636bc5e9c0565a53cd99051e45204b6]
+## 7. The health and safety document[^c-2636bc5e9c0565a53cd99051e45204b6]
 
 (1) No borehole operation shall be commenced at a borehole site unless the operator has ensured that a document (in these Regulations referred to as “the health and safety document”) has been prepared, which—
 
@@ -149,9 +149,9 @@ it is satisfied that the health and safety of persons who are likely to be affec
 
 (4) Each employer of persons at work at the site shall have regard to the health and safety document in meeting his obligations under the relevant statutory provisions.
 
-(5) In this regulation “the Management Regulations" means the[^key-3e55acfd59aeda700085ca8c309f92cc] Management of Health and Safety at Work Regulations 1999.
+(5) In this regulation “the Management Regulations" means the[^c-3e55acfd59aeda700085ca8c309f92cc] Management of Health and Safety at Work Regulations 1999.
 
-## 8. Additional duties of the operator[^key-b0f673548c94f137e14774f65f36120e]
+## 8. Additional duties of the operator[^c-b0f673548c94f137e14774f65f36120e]
 
 (1) The operator shall ensure that every workplace on a borehole site is designed, constructed, erected and maintained and has sufficient stability to afford adequate protection for employees and to withstand the environmental forces anticipated at the site.
 
@@ -162,19 +162,19 @@ it is satisfied that the health and safety of persons who are likely to be affec
 
 (3) In this regulation “workplace” has the same meaning as in regulation 2(1) of the Workplace (Health, Safety and Welfare) Regulations 1992[^f00003].
 
-## 9. Additional health and safety requirements[^key-5ce79569553d7542a1de33c0e0472c99]
+## 9. Additional health and safety requirements[^c-5ce79569553d7542a1de33c0e0472c99]
 
 (1) Subject to paragraph (2), it shall be the duty of every employer of persons at work on a borehole site to ensure that the additional health and safety provisions set out in Schedule 2 are applied as they are appropriate having regard to the nature and circumstances of the work carried on there and to the provisions of the health and safety document.
 
 (2) The additional health and safety requirements referred to in paragraph (1) shall apply without prejudice to the requirements of the other relevant statutory provisions relating to the borehole site.
 
-## 10. Health surveillance[^key-29de822b2af046b6e5443d5569127457]
+## 10. Health surveillance[^c-29de822b2af046b6e5443d5569127457]
 
 (1) An employer of a person engaged in borehole operations shall ensure that he is provided with such health surveillance as is appropriate; and where that person is assigned to the work after the coming into force of these Regulations, the health surveillance shall be commenced before he is so assigned.
 
 (2) In this regulation “appropriate” means appropriate having regard to the nature and magnitude of the risks to the safety and health of the person referred to in paragraph (1).
 
-## 11. Defence[^key-e698f2cc91928f6595a1ef40d92b2516]
+## 11. Defence[^c-e698f2cc91928f6595a1ef40d92b2516]
 
 In any proceedings for an offence under these Regulations, it shall be a defence for any person to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of that offence.
 
@@ -192,7 +192,7 @@ Department of the Environment.
 
 Regulation 6
 
-### PART I — notification under regulation 6(1)[^key-932811595e380e1a389ce3392e52dcfa]
+### PART I — notification under regulation 6(1)[^c-932811595e380e1a389ce3392e52dcfa]
 
 The particulars required for a notification under regulation 6(1) are as follows:—
 
@@ -255,7 +255,7 @@ The particulars required for a notification under regulation 6(1) are as follows
 
 **10.** In the case of an abandonment operation details of the proposed sealing or treatment.
 
-### PART II — notification under regulation 6(2)[^key-d508ac0ca1b034937fe8a2267083f588]
+### PART II — notification under regulation 6(2)[^c-d508ac0ca1b034937fe8a2267083f588]
 
 The particulars required for a notification under regulation 6(2) are as follows:—
 
@@ -275,7 +275,7 @@ The particulars required for a notification under regulation 6(2) are as follows
 
 **3.** A description of the operations to be performed and a programme of works which includes the dates on which operations are expected to start and finish.
 
-### PART III — notification under regulation 6(3)[^key-5c9f98100559222a66231127ef8a3cfc]
+### PART III — notification under regulation 6(3)[^c-5c9f98100559222a66231127ef8a3cfc]
 
 The particulars required for a notification under regulation 6(3) are as follows:—
 
@@ -295,7 +295,7 @@ The particulars required for a notification under regulation 6(3) are as follows
 
 **3.** A description of the operations to be, or being, performed and a programme of works which includes the dates on which operations are expected to start and finish or (if past) the dates they started and finished.
 
-### PART IV — notification under regulation 6(4)[^key-6ba797922e5a71e072f701b242c74d45]
+### PART IV — notification under regulation 6(4)[^c-6ba797922e5a71e072f701b242c74d45]
 
 The particulars required for a notification under regulation 6(4) are as follows:—
 
@@ -319,19 +319,19 @@ The particulars required for a notification under regulation 6(4) are as follows
 
 Regulation 9(1)
 
-### 1. Delineation and provision of safety signs[^key-33ecf1131be38cab4e621e8d86796ff5]
+### 1. Delineation and provision of safety signs[^c-33ecf1131be38cab4e621e8d86796ff5]
 
 Areas where there is a special hazard shall be delineated and appropriate safety signs placed.
 
-### 2. Person in charge and supervision[^key-3a07604d102e7db209de752860d5c033]
+### 2. Person in charge and supervision[^c-3a07604d102e7db209de752860d5c033]
 
 A competent person appointed by the operator shall be in charge of every borehole site where employees are present and there shall be sufficient competent persons appointed by the operator to exercise immediate supervision of borehole operations with a view to ensuring the health and safety of the persons at work at the site.
 
-### 3. Provision of competent persons[^key-ed5a0819e8c0ebdb1b9d5eb63efe419a]
+### 3. Provision of competent persons[^c-ed5a0819e8c0ebdb1b9d5eb63efe419a]
 
 Where borehole operations are carried on, there shall be provided a sufficient number of competent persons with a view to enabling those operations to be carried on safely.
 
-### 4. Written instructions[^key-d001215feab4313b6d1200b912adf44f]
+### 4. Written instructions[^c-d001215feab4313b6d1200b912adf44f]
 
 (1) Where borehole operations are carried on, employers shall provide written instructions containing:
 
@@ -340,13 +340,13 @@ Where borehole operations are carried on, there shall be provided a sufficient n
 
 (2) Copies of the written instructions referred to in sub-paragraph (1) above shall be made available to all employees who may be affected by them.
 
-### 5. Work permits[^key-1be2788431bd1ae82b80cbbd2e85f55b]
+### 5. Work permits[^c-1be2788431bd1ae82b80cbbd2e85f55b]
 
 (1) Where borehole operations are carried on and it is shown in the health and safety document that such a measure is necessary, a system of work permits shall be introduced for carrying out hazardous operations and usually straightforward operations which may interact with other activities to cause serious hazards.
 
 (2) Work permits shall specify the conditions to be fulfilled and the precautions to be taken before, during and after the work concerned and shall be issued by the person in charge of those operations in accordance with a scheme agreed with the operator of the borehole site.
 
-### 6. Maintenance[^key-6137323f865ca9ac65ec9f682442ead7]
+### 6. Maintenance[^c-6137323f865ca9ac65ec9f682442ead7]
 
 (1) Where borehole operations are carried on, a suitable scheme shall be set up for the systematic examination, maintenance and, where appropriate, testing of mechanical and electrical equipment and plant.
 
@@ -354,33 +354,33 @@ Where borehole operations are carried on, there shall be provided a sufficient n
 
 (3) The foregoing sub-paragraphs of this paragraph shall also apply in relation to the safety equipment provided, with a view to ensuring that it is ready for use and in good working order at all times having regard to the uses to which it may be put.
 
-### 7. Well control[^key-1e1efa54fb0b13b3a48a4b538b433431]
+### 7. Well control[^c-1e1efa54fb0b13b3a48a4b538b433431]
 
 (1) Suitable well control equipment shall be provided for use during borehole operations to protect against blowouts having regard to the provisions of the health and safety document.
 
 (2) The deployment of such equipment shall take into account the prevailing well and operational conditions.
 
-### 8. Harmful atmospheres[^key-1606d97350f5f95c8586706ccb2457f6]
+### 8. Harmful atmospheres[^c-1606d97350f5f95c8586706ccb2457f6]
 
 Where there is a risk that employees may be exposed to atmospheres that are hazardous to health, there shall be provided:
 
 - (a) sufficient appropriate breathing and resuscitation equipment and apparatus; and
 - (b) a sufficient number of employees trained to use the apparatus present at the borehole site.
 
-### 9. Prevention of explosions[^key-9d063fc0843356468128919f29b97f6f]
+### 9. Prevention of explosions[^c-9d063fc0843356468128919f29b97f6f]
 
 Where there is a risk of explosion, all necessary measures shall be taken with a view to—
 
 - (a) preventing the occurrence and accumulation of explosive atmospheres; and
 - (b) preventing the ignition of explosive atmospheres.
 
-### 10. Remote control in emergencies[^key-96a7a1db98af15c84f55862b6b8a4dd5]
+### 10. Remote control in emergencies[^c-96a7a1db98af15c84f55862b6b8a4dd5]
 
 (1) Where the health and safety document shows that such a measure is necessary, certain equipment shall be capable of remote control from suitable locations in the event of an emergency.
 
 (2) The equipment referred to in sub-paragraph (1) above shall, in any case, include systems for the isolation and blowdown of wells, plant and pipelines.
 
-### 11. Communications, general and emergency[^key-b0caa7ee03284e9877bfe687b81b6633]
+### 11. Communications, general and emergency[^c-b0caa7ee03284e9877bfe687b81b6633]
 
 (1) Where the health and safety document shows that such a measure is necessary, every borehole site at which employees are present shall be provided with—
 
@@ -391,7 +391,7 @@ Where there is a risk of explosion, all necessary measures shall be taken with a
 
 (3) Where employees are present at sites that are not usually manned, appropriate means of communication shall be placed at their disposal.
 
-### 12. Means of evacuation and escape[^key-9246061ea235939e232beacd81a2e7bd]
+### 12. Means of evacuation and escape[^c-9246061ea235939e232beacd81a2e7bd]
 
 (1) Employees shall be trained in appropriate action to be taken in the event of an emergency.
 
@@ -399,7 +399,7 @@ Where there is a risk of explosion, all necessary measures shall be taken with a
 
 (3) Where escape routes are difficult and where irrespirable atmospheres are or may be present, self-contained escape apparatus shall be provided for immediate use by employees at the workstation.
 
-### 13. Safety drills[^key-c04479ac9cccd261f791a08cf12e45dd]
+### 13. Safety drills[^c-c04479ac9cccd261f791a08cf12e45dd]
 
 (1) Safety drills shall be held at regular intervals at all borehole sites at which employees are usually present.
 
@@ -407,7 +407,7 @@ Where there is a risk of explosion, all necessary measures shall be taken with a
 
 (3) Where appropriate, employees who have been so assigned shall also be drilled in the correct use, handling or operation of that equipment.
 
-### 14. Fire detection and fire-fighting[^key-ba29323b64cf6440e28ee4ec53ad4794]
+### 14. Fire detection and fire-fighting[^c-ba29323b64cf6440e28ee4ec53ad4794]
 
 (1) Adequate measures shall be taken to prevent fires from starting and spreading from sources identified in the health and safety document.
 
@@ -419,7 +419,7 @@ Where there is a risk of explosion, all necessary measures shall be taken with a
 
 (5) The fire protection plan referred to in regulation 7(2)(c) shall be kept available on the site.
 
-### 15. Safe assembly points and muster list[^key-7b6885deff21985fbd9857cef02f0a5e]
+### 15. Safe assembly points and muster list[^c-7b6885deff21985fbd9857cef02f0a5e]
 
 Where required in the health and safety document, safe assembly points must be specified, muster lists maintained and the necessary action shall be taken.
 
@@ -457,70 +457,70 @@ The Regulations, by regulation 6, also make other provision.
 
 [^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37). Sections 15 and 50 were amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71) schedule 15, paragraphs 6 and 16 respectively.
 
-[^key-f1b3b606354d33632aa911ce961848d1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-f1b3b606354d33632aa911ce961848d1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-4f0978d10137240f36f5627d381fdcde]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/2038/regulation/2) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-4f0978d10137240f36f5627d381fdcde]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/2038/regulation/2) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-58c911b23eefe14f1cbdf9390f98a7f2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/2038/regulation/3) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-58c911b23eefe14f1cbdf9390f98a7f2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/2038/regulation/3) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-5a591f3042891f89c7a21e1d0b9a6e87]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1995/2038/regulation/4) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-5a591f3042891f89c7a21e1d0b9a6e87]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1995/2038/regulation/4) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-faa4317e679bef2e989952d69d738fb4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/2038/regulation/5) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-faa4317e679bef2e989952d69d738fb4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/2038/regulation/5) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-8d4d80eb444b2f93d8780e852cca2172]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/2038/regulation/6) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-8d4d80eb444b2f93d8780e852cca2172]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/2038/regulation/6) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-2315d546b9ff79e5bbaaaba673cf9362]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3))
+[^c-2315d546b9ff79e5bbaaaba673cf9362]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3))
 
-[^key-46c76a582269473fa9cae4aade2d6969]: Textual amendment: Words in [reg. 6(8)](https://www.legislation.gov.uk/uksi/1995/2038/regulation/6/8) inserted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/4/2) (as amended by [The Health and Safety (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/660)](https://www.legislation.gov.uk/uksi/2020/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/660/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/660/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46c76a582269473fa9cae4aade2d6969]: Textual amendment: Words in [reg. 6(8)](https://www.legislation.gov.uk/uksi/1995/2038/regulation/6/8) inserted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/4/2) (as amended by [The Health and Safety (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/660)](https://www.legislation.gov.uk/uksi/2020/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/660/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/660/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2636bc5e9c0565a53cd99051e45204b6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/2038/regulation/7) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-2636bc5e9c0565a53cd99051e45204b6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/2038/regulation/7) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-3e55acfd59aeda700085ca8c309f92cc]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/1995/2038/regulation/7/5) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
+[^c-3e55acfd59aeda700085ca8c309f92cc]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/1995/2038/regulation/7/5) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
 
-[^key-b0f673548c94f137e14774f65f36120e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1995/2038/regulation/8) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-b0f673548c94f137e14774f65f36120e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1995/2038/regulation/8) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1992/3004](https://www.legislation.gov.uk/uksi/1992/3004).
 
-[^key-5ce79569553d7542a1de33c0e0472c99]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1995/2038/regulation/9) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-5ce79569553d7542a1de33c0e0472c99]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1995/2038/regulation/9) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-29de822b2af046b6e5443d5569127457]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1995/2038/regulation/10) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-29de822b2af046b6e5443d5569127457]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1995/2038/regulation/10) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-e698f2cc91928f6595a1ef40d92b2516]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1995/2038/regulation/11) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-e698f2cc91928f6595a1ef40d92b2516]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1995/2038/regulation/11) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-932811595e380e1a389ce3392e52dcfa]: Commencement: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1995/2038/schedule/1/part/I) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-932811595e380e1a389ce3392e52dcfa]: Commencement: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1995/2038/schedule/1/part/I) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-d508ac0ca1b034937fe8a2267083f588]: Commencement: [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1995/2038/schedule/1/part/II) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-d508ac0ca1b034937fe8a2267083f588]: Commencement: [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1995/2038/schedule/1/part/II) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-5c9f98100559222a66231127ef8a3cfc]: Commencement: [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/1995/2038/schedule/1/part/III) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-5c9f98100559222a66231127ef8a3cfc]: Commencement: [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/1995/2038/schedule/1/part/III) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-6ba797922e5a71e072f701b242c74d45]: Commencement: [Sch. 1 Pt. IV](https://www.legislation.gov.uk/uksi/1995/2038/schedule/1/part/IV) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-6ba797922e5a71e072f701b242c74d45]: Commencement: [Sch. 1 Pt. IV](https://www.legislation.gov.uk/uksi/1995/2038/schedule/1/part/IV) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-33ecf1131be38cab4e621e8d86796ff5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/1) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-33ecf1131be38cab4e621e8d86796ff5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/1) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-3a07604d102e7db209de752860d5c033]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/2) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-3a07604d102e7db209de752860d5c033]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/2) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-ed5a0819e8c0ebdb1b9d5eb63efe419a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/3) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-ed5a0819e8c0ebdb1b9d5eb63efe419a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/3) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-d001215feab4313b6d1200b912adf44f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/4) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-d001215feab4313b6d1200b912adf44f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/4) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-1be2788431bd1ae82b80cbbd2e85f55b]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/5) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-1be2788431bd1ae82b80cbbd2e85f55b]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/5) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-6137323f865ca9ac65ec9f682442ead7]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/6) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-6137323f865ca9ac65ec9f682442ead7]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/6) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-1e1efa54fb0b13b3a48a4b538b433431]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/7) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-1e1efa54fb0b13b3a48a4b538b433431]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/7) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-1606d97350f5f95c8586706ccb2457f6]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/8) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-1606d97350f5f95c8586706ccb2457f6]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/8) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-9d063fc0843356468128919f29b97f6f]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/9) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-9d063fc0843356468128919f29b97f6f]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/9) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-96a7a1db98af15c84f55862b6b8a4dd5]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/10) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-96a7a1db98af15c84f55862b6b8a4dd5]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/10) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-b0caa7ee03284e9877bfe687b81b6633]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/11) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-b0caa7ee03284e9877bfe687b81b6633]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/11) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-9246061ea235939e232beacd81a2e7bd]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/12) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-9246061ea235939e232beacd81a2e7bd]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/12) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-c04479ac9cccd261f791a08cf12e45dd]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/13) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-c04479ac9cccd261f791a08cf12e45dd]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/13) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-ba29323b64cf6440e28ee4ec53ad4794]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/14) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-ba29323b64cf6440e28ee4ec53ad4794]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/14) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
 
-[^key-7b6885deff21985fbd9857cef02f0a5e]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/15) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)
+[^c-7b6885deff21985fbd9857cef02f0a5e]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/1995/2038/schedule/2/paragraph/15) in force at 1.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2038/regulation/1)

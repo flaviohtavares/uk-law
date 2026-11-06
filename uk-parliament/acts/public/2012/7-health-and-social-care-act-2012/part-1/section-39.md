@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Discharge of patients[^key-3f9970f9b85a3a54c746453e9969a967]
+## 39. Discharge of patients[^c-3f9970f9b85a3a54c746453e9969a967]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f9970f9b85a3a54c746453e9969a967]: Commencement: S. 39 in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-3f9970f9b85a3a54c746453e9969a967]: Commencement: S. 39 in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)

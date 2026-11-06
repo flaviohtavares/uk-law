@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255BA. Automatic release: other offenders[^key-33486b7cc6c19aa7ea3b0c8013732ac2]
+## 255BA. Automatic release: other offenders[^c-33486b7cc6c19aa7ea3b0c8013732ac2]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 (4) The Secretary of State must not release P under subsection (3) unless the Secretary of State is satisfied that it is not necessary for the protection of the public that P should remain in prison until the end of the section 255BA automatic release period.
 
-(4A)[^key-8840c936515e805711de19fbbd3d8b75] The Secretary of State must not be satisfied as mentioned in subsection (4) unless the Secretary of State considers that there is no more than a minimal risk that, if P were released before the end of the period mentioned in subsection (1)(b), P would commit a further offence the commission of which would cause serious harm (and section 237A(4) applies for the purposes of that assessment).
+(4A)[^c-8840c936515e805711de19fbbd3d8b75] The Secretary of State must not be satisfied as mentioned in subsection (4) unless the Secretary of State considers that there is no more than a minimal risk that, if P were released before the end of the period mentioned in subsection (1)(b), P would commit a further offence the commission of which would cause serious harm (and section 237A(4) applies for the purposes of that assessment).
 
 (5) Subsection (9) applies in relation to P if at any time the Secretary of State determines that P should not be released at the end of the section 255BA automatic release period.
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33486b7cc6c19aa7ea3b0c8013732ac2]: Textual amendment: [S. 255BA](https://www.legislation.gov.uk/ukpga/2003/44/section/255BA) inserted (22.1.2026 for enabling the exercise of power to make regulations, 31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 32(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/32/2), [49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iii)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iii), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-33486b7cc6c19aa7ea3b0c8013732ac2]: Textual amendment: [S. 255BA](https://www.legislation.gov.uk/ukpga/2003/44/section/255BA) inserted (22.1.2026 for enabling the exercise of power to make regulations, 31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 32(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/32/2), [49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iii)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iii), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
 
-[^key-8840c936515e805711de19fbbd3d8b75]: Textual amendment: [S. 255BA(4A)](https://www.legislation.gov.uk/ukpga/2003/44/section/255BA/4A) inserted (31.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 32(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/32/4), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/a)
+[^c-8840c936515e805711de19fbbd3d8b75]: Textual amendment: [S. 255BA(4A)](https://www.legislation.gov.uk/ukpga/2003/44/section/255BA/4A) inserted (31.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 32(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/32/4), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/a)

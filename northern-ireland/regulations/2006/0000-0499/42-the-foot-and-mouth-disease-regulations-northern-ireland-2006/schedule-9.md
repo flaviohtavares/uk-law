@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 9 — REVOCATIONS[^key-b519ea1cf628559835eae716f01e6292]
+## SCHEDULE 9 — REVOCATIONS[^c-b519ea1cf628559835eae716f01e6292]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ Regulation 62
 
 ## Annotations
 
-[^key-b519ea1cf628559835eae716f01e6292]: Commencement: Sch. 9 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-b519ea1cf628559835eae716f01e6292]: Commencement: Sch. 9 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

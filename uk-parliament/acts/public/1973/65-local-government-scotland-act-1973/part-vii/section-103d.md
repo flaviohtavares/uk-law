@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103D. Findings of hearings[^key-ea5a94ddd72127be467ca373f64dbee2][^c19246061][^c9677851]
+## 103D. Findings of hearings[^c-ea5a94ddd72127be467ca373f64dbee2][^c19246061][^c9677851]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ The members of the Commission conducting a hearing under section 103B(1)(b) of t
 
 ## Annotations
 
-[^key-ea5a94ddd72127be467ca373f64dbee2]: Modification: Ss. 103A-103J modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
+[^c-ea5a94ddd72127be467ca373f64dbee2]: Modification: Ss. 103A-103J modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
 
 [^c19246061]: Modification: [S. 103D](https://www.legislation.gov.uk/ukpga/1973/65/section/103D) applied (with modifications) (1.4.2003) by Local Government in [Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 4(1)](https://www.legislation.gov.uk/asp/2003/1/section/4/1), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 

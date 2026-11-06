@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Commission’s annual report and accounts.[^key-93fb1691267dd1fa93a11302358d293c][^c14210681]
+## 19. Commission’s annual report and accounts.[^c-93fb1691267dd1fa93a11302358d293c][^c14210681]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93fb1691267dd1fa93a11302358d293c]: Textual amendment: Ss. 1-25 repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-93fb1691267dd1fa93a11302358d293c]: Textual amendment: Ss. 1-25 repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
 
 [^c14210681]: Modification: S. 19 extended (14.3.2001) by [S.I. 2001/935](https://www.legislation.gov.uk/uksi/2001/935), [art. 2](https://www.legislation.gov.uk/uksi/2001/935/article/2), [para. 16](https://www.legislation.gov.uk/uksi/2001/935/paragraph/16) of Scheme

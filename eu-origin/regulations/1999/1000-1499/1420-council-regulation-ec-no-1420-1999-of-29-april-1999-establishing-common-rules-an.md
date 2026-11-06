@@ -41,508 +41,508 @@ of 29 April 1999
 
 establishing common rules and procedures to apply to shipments to certain non-OECD countries of certain types of waste (revoked)
 
-[^key-7fb784ca2cbca6da48dd800a34052199]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fb784ca2cbca6da48dd800a34052199]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-7fb784ca2cbca6da48dd800a34052199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7fb784ca2cbca6da48dd800a34052199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7fb784ca2cbca6da48dd800a34052199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7fb784ca2cbca6da48dd800a34052199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-7fb784ca2cbca6da48dd800a34052199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-7fb784ca2cbca6da48dd800a34052199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-7fb784ca2cbca6da48dd800a34052199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-7fb784ca2cbca6da48dd800a34052199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-7fb784ca2cbca6da48dd800a34052199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-7fb784ca2cbca6da48dd800a34052199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-7fb784ca2cbca6da48dd800a34052199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-7fb784ca2cbca6da48dd800a34052199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fb784ca2cbca6da48dd800a34052199]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX A — Countries and territories which have indicated to the Commission that they do not wish to receive shipments for recovery of certain types of waste listed in Annex II to Council Regulation (EEC) No 259/93[^key-7fb784ca2cbca6da48dd800a34052199]
+## ANNEX A — Countries and territories which have indicated to the Commission that they do not wish to receive shipments for recovery of certain types of waste listed in Annex II to Council Regulation (EEC) No 259/93[^c-7fb784ca2cbca6da48dd800a34052199]
 
-[^key-7fb784ca2cbca6da48dd800a34052199] ALBANIA
+[^c-7fb784ca2cbca6da48dd800a34052199] ALBANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]ANDORRA
+[^c-7fb784ca2cbca6da48dd800a34052199]ANDORRA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]ANTIGUA and BARBUDA
+[^c-7fb784ca2cbca6da48dd800a34052199]ANTIGUA and BARBUDA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]ARUBA
+[^c-7fb784ca2cbca6da48dd800a34052199]ARUBA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]BAHAMAS
+[^c-7fb784ca2cbca6da48dd800a34052199]BAHAMAS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] BAHRAIN
+[^c-7fb784ca2cbca6da48dd800a34052199] BAHRAIN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]BARBADOS
+[^c-7fb784ca2cbca6da48dd800a34052199]BARBADOS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]BELIZE
+[^c-7fb784ca2cbca6da48dd800a34052199]BELIZE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]BHUTAN
+[^c-7fb784ca2cbca6da48dd800a34052199]BHUTAN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]BOLIVIA
+[^c-7fb784ca2cbca6da48dd800a34052199]BOLIVIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]BOTSWANA
+[^c-7fb784ca2cbca6da48dd800a34052199]BOTSWANA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] BRAZIL
+[^c-7fb784ca2cbca6da48dd800a34052199] BRAZIL
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] BULGARIA
+[^c-7fb784ca2cbca6da48dd800a34052199] BULGARIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]BURKINA FASO
+[^c-7fb784ca2cbca6da48dd800a34052199]BURKINA FASO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] BURUNDI
+[^c-7fb784ca2cbca6da48dd800a34052199] BURUNDI
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]CAMEROON
+[^c-7fb784ca2cbca6da48dd800a34052199]CAMEROON
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]CAPE VERDE
+[^c-7fb784ca2cbca6da48dd800a34052199]CAPE VERDE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]COLOMBIA
+[^c-7fb784ca2cbca6da48dd800a34052199]COLOMBIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]COMOROS, Federal Islamic republic
+[^c-7fb784ca2cbca6da48dd800a34052199]COMOROS, Federal Islamic republic
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]COSTA RICA
+[^c-7fb784ca2cbca6da48dd800a34052199]COSTA RICA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]DOMINICA
+[^c-7fb784ca2cbca6da48dd800a34052199]DOMINICA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]DOMINICAN REPUBLIC
+[^c-7fb784ca2cbca6da48dd800a34052199]DOMINICAN REPUBLIC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]DJIBOUTH
+[^c-7fb784ca2cbca6da48dd800a34052199]DJIBOUTH
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]EGYPT
+[^c-7fb784ca2cbca6da48dd800a34052199]EGYPT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]FIJI
+[^c-7fb784ca2cbca6da48dd800a34052199]FIJI
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]GAMBIA
+[^c-7fb784ca2cbca6da48dd800a34052199]GAMBIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]GHANA
+[^c-7fb784ca2cbca6da48dd800a34052199]GHANA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]GRENADA
+[^c-7fb784ca2cbca6da48dd800a34052199]GRENADA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]GUYANA
+[^c-7fb784ca2cbca6da48dd800a34052199]GUYANA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] HAITI
+[^c-7fb784ca2cbca6da48dd800a34052199] HAITI
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] HONDURAS
+[^c-7fb784ca2cbca6da48dd800a34052199] HONDURAS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] JAMAICA
+[^c-7fb784ca2cbca6da48dd800a34052199] JAMAICA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]KIRIBATI
+[^c-7fb784ca2cbca6da48dd800a34052199]KIRIBATI
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]KUWAIT
+[^c-7fb784ca2cbca6da48dd800a34052199]KUWAIT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]LEBANON
+[^c-7fb784ca2cbca6da48dd800a34052199]LEBANON
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] LIBYA
+[^c-7fb784ca2cbca6da48dd800a34052199] LIBYA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]MALAWI
+[^c-7fb784ca2cbca6da48dd800a34052199]MALAWI
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]MALDIVES
+[^c-7fb784ca2cbca6da48dd800a34052199]MALDIVES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]MALI
+[^c-7fb784ca2cbca6da48dd800a34052199]MALI
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]MOLDOVA
+[^c-7fb784ca2cbca6da48dd800a34052199]MOLDOVA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]MONGOLIA
+[^c-7fb784ca2cbca6da48dd800a34052199]MONGOLIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]MYANMAR
+[^c-7fb784ca2cbca6da48dd800a34052199]MYANMAR
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] NAMIBIA
+[^c-7fb784ca2cbca6da48dd800a34052199] NAMIBIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]NICRAGUA
+[^c-7fb784ca2cbca6da48dd800a34052199]NICRAGUA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]NIGER
+[^c-7fb784ca2cbca6da48dd800a34052199]NIGER
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] NIGERIA
+[^c-7fb784ca2cbca6da48dd800a34052199] NIGERIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]PAKISTAN
+[^c-7fb784ca2cbca6da48dd800a34052199]PAKISTAN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]PAPUA NEW GUINEA
+[^c-7fb784ca2cbca6da48dd800a34052199]PAPUA NEW GUINEA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] PARAGUAY
+[^c-7fb784ca2cbca6da48dd800a34052199] PARAGUAY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] PERU
+[^c-7fb784ca2cbca6da48dd800a34052199] PERU
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] QATAR
+[^c-7fb784ca2cbca6da48dd800a34052199] QATAR
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] ROMANIA
+[^c-7fb784ca2cbca6da48dd800a34052199] ROMANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]SÃO TOME AND PRINCIPE
+[^c-7fb784ca2cbca6da48dd800a34052199]SÃO TOME AND PRINCIPE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]SAUDIA ARABIA
+[^c-7fb784ca2cbca6da48dd800a34052199]SAUDIA ARABIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]SENEGAL
+[^c-7fb784ca2cbca6da48dd800a34052199]SENEGAL
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]SEYCHELLES
+[^c-7fb784ca2cbca6da48dd800a34052199]SEYCHELLES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] SINGAPORE
+[^c-7fb784ca2cbca6da48dd800a34052199] SINGAPORE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]ST. KITTS AND NEVIS
+[^c-7fb784ca2cbca6da48dd800a34052199]ST. KITTS AND NEVIS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]ST LUCIA
+[^c-7fb784ca2cbca6da48dd800a34052199]ST LUCIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]ST VINCENT AND THE GRENADINES
+[^c-7fb784ca2cbca6da48dd800a34052199]ST VINCENT AND THE GRENADINES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]TANZANIA
+[^c-7fb784ca2cbca6da48dd800a34052199]TANZANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] TUNISIA
+[^c-7fb784ca2cbca6da48dd800a34052199] TUNISIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]UGANDA
+[^c-7fb784ca2cbca6da48dd800a34052199]UGANDA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]TUVALU
+[^c-7fb784ca2cbca6da48dd800a34052199]TUVALU
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] UZBEKISTAN
+[^c-7fb784ca2cbca6da48dd800a34052199] UZBEKISTAN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]VANUATU
+[^c-7fb784ca2cbca6da48dd800a34052199]VANUATU
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] VATICAN CITY
+[^c-7fb784ca2cbca6da48dd800a34052199] VATICAN CITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]WESTERN SAMOA
+[^c-7fb784ca2cbca6da48dd800a34052199]WESTERN SAMOA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX B — Countries and territories which have not responded to the Commission's communications on shipments for recovery of certain types of waste listed in Annex II to Council Regulation (EEC) No 259/93[^key-7fb784ca2cbca6da48dd800a34052199]
+## ANNEX B — Countries and territories which have not responded to the Commission's communications on shipments for recovery of certain types of waste listed in Annex II to Council Regulation (EEC) No 259/93[^c-7fb784ca2cbca6da48dd800a34052199]
 
-[^key-7fb784ca2cbca6da48dd800a34052199]AFGHANISTAN
+[^c-7fb784ca2cbca6da48dd800a34052199]AFGHANISTAN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]ALGERIA
+[^c-7fb784ca2cbca6da48dd800a34052199]ALGERIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]ANGOLA
+[^c-7fb784ca2cbca6da48dd800a34052199]ANGOLA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]ARMENIA
+[^c-7fb784ca2cbca6da48dd800a34052199]ARMENIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]AZERBAIJAN
+[^c-7fb784ca2cbca6da48dd800a34052199]AZERBAIJAN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] BAHRAIN
+[^c-7fb784ca2cbca6da48dd800a34052199] BAHRAIN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]BANGLADESH
+[^c-7fb784ca2cbca6da48dd800a34052199]BANGLADESH
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]BRUNEI
+[^c-7fb784ca2cbca6da48dd800a34052199]BRUNEI
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] BURUNDI
+[^c-7fb784ca2cbca6da48dd800a34052199] BURUNDI
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]CAMBODIA
+[^c-7fb784ca2cbca6da48dd800a34052199]CAMBODIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]ECUADOR
+[^c-7fb784ca2cbca6da48dd800a34052199]ECUADOR
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]EL SALVADOR
+[^c-7fb784ca2cbca6da48dd800a34052199]EL SALVADOR
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]EQUATORIAL GUINEA
+[^c-7fb784ca2cbca6da48dd800a34052199]EQUATORIAL GUINEA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]ERITREA
+[^c-7fb784ca2cbca6da48dd800a34052199]ERITREA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]ETHIOPIA
+[^c-7fb784ca2cbca6da48dd800a34052199]ETHIOPIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]FORMER YUGOSLAV REPUBLIC OF MACEDONIA
+[^c-7fb784ca2cbca6da48dd800a34052199]FORMER YUGOSLAV REPUBLIC OF MACEDONIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]GABON
+[^c-7fb784ca2cbca6da48dd800a34052199]GABON
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]GUATEMALA
+[^c-7fb784ca2cbca6da48dd800a34052199]GUATEMALA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]GUINEA
+[^c-7fb784ca2cbca6da48dd800a34052199]GUINEA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] HAITI
+[^c-7fb784ca2cbca6da48dd800a34052199] HAITI
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] HONDURAS
+[^c-7fb784ca2cbca6da48dd800a34052199] HONDURAS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]IVORY COAST
+[^c-7fb784ca2cbca6da48dd800a34052199]IVORY COAST
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]KAZAKHSTAN
+[^c-7fb784ca2cbca6da48dd800a34052199]KAZAKHSTAN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]KYRGYSTAN
+[^c-7fb784ca2cbca6da48dd800a34052199]KYRGYSTAN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]LAOS
+[^c-7fb784ca2cbca6da48dd800a34052199]LAOS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]LESOTHO
+[^c-7fb784ca2cbca6da48dd800a34052199]LESOTHO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] MOROCCO
+[^c-7fb784ca2cbca6da48dd800a34052199] MOROCCO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]MOZAMBIQUE
+[^c-7fb784ca2cbca6da48dd800a34052199]MOZAMBIQUE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] NAMIBIA
+[^c-7fb784ca2cbca6da48dd800a34052199] NAMIBIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]NEPAL
+[^c-7fb784ca2cbca6da48dd800a34052199]NEPAL
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]OMAN
+[^c-7fb784ca2cbca6da48dd800a34052199]OMAN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]PANAMA
+[^c-7fb784ca2cbca6da48dd800a34052199]PANAMA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] QATAR
+[^c-7fb784ca2cbca6da48dd800a34052199] QATAR
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]RUSSIAN FEDERATION
+[^c-7fb784ca2cbca6da48dd800a34052199]RUSSIAN FEDERATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]SOLOMON ISLANDS
+[^c-7fb784ca2cbca6da48dd800a34052199]SOLOMON ISLANDS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]SUDAN
+[^c-7fb784ca2cbca6da48dd800a34052199]SUDAN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]SWAZILAND
+[^c-7fb784ca2cbca6da48dd800a34052199]SWAZILAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]SYRIA
+[^c-7fb784ca2cbca6da48dd800a34052199]SYRIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]TAJIKISTAN
+[^c-7fb784ca2cbca6da48dd800a34052199]TAJIKISTAN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]TONGA
+[^c-7fb784ca2cbca6da48dd800a34052199]TONGA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] TUNISIA
+[^c-7fb784ca2cbca6da48dd800a34052199] TUNISIA
 
-[^key-7fb784ca2cbca6da48dd800a34052199]1.
+[^c-7fb784ca2cbca6da48dd800a34052199]1.
 
 In section GC (‘Other wastes containing metals’)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]2.
+[^c-7fb784ca2cbca6da48dd800a34052199]2.
 
 In section GN (‘Wastes arising from tanning and fellmongery operations and leather use’)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]TURKMENISTAN
+[^c-7fb784ca2cbca6da48dd800a34052199]TURKMENISTAN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] UNITED ARAB EMIRATES
+[^c-7fb784ca2cbca6da48dd800a34052199] UNITED ARAB EMIRATES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] UZBEKISTAN
+[^c-7fb784ca2cbca6da48dd800a34052199] UZBEKISTAN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] VATICAN CITY
+[^c-7fb784ca2cbca6da48dd800a34052199] VATICAN CITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]VENEZUELA
+[^c-7fb784ca2cbca6da48dd800a34052199]VENEZUELA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]VIETNAM
+[^c-7fb784ca2cbca6da48dd800a34052199]VIETNAM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199]YEMEN
+[^c-7fb784ca2cbca6da48dd800a34052199]YEMEN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb784ca2cbca6da48dd800a34052199] ZIMBABWE
+[^c-7fb784ca2cbca6da48dd800a34052199] ZIMBABWE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7fb784ca2cbca6da48dd800a34052199]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-7fb784ca2cbca6da48dd800a34052199]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

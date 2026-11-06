@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 403ZA. Co-operation with local government pension scheme managers[^key-26a6e7271eac03e3e58781d4e9471751]
+## 403ZA. Co-operation with local government pension scheme managers[^c-26a6e7271eac03e3e58781d4e9471751]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26a6e7271eac03e3e58781d4e9471751]: Textual amendment: S. 403ZA inserted (15.7.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 43(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/43/3), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/a)
+[^c-26a6e7271eac03e3e58781d4e9471751]: Textual amendment: S. 403ZA inserted (15.7.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 43(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/43/3), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/a)

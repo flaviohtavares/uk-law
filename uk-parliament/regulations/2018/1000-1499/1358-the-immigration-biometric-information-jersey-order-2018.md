@@ -31,7 +31,7 @@ summary: ''
 
 Immigration
 
-The Immigration (Biometric Information) (Jersey) Order 2018 (revoked)[^key-565afd75e639182ba0d08fa5caead455]
+The Immigration (Biometric Information) (Jersey) Order 2018 (revoked)[^c-565afd75e639182ba0d08fa5caead455]
 
 Made
 
@@ -45,65 +45,65 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-565afd75e639182ba0d08fa5caead455]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-565afd75e639182ba0d08fa5caead455]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-565afd75e639182ba0d08fa5caead455]
+## 1. Citation, commencement and interpretation[^c-565afd75e639182ba0d08fa5caead455]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension of the 1999 Act to Jersey[^key-565afd75e639182ba0d08fa5caead455]
+## 2. Extension of the 1999 Act to Jersey[^c-565afd75e639182ba0d08fa5caead455]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Extension of the 2002 Act to Jersey[^key-565afd75e639182ba0d08fa5caead455]
+## 3. Extension of the 2002 Act to Jersey[^c-565afd75e639182ba0d08fa5caead455]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Extension of the 2014 Act to Jersey[^key-565afd75e639182ba0d08fa5caead455]
+## 4. Extension of the 2014 Act to Jersey[^c-565afd75e639182ba0d08fa5caead455]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consequential amendments[^key-565afd75e639182ba0d08fa5caead455]
+## 5. Consequential amendments[^c-565afd75e639182ba0d08fa5caead455]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-565afd75e639182ba0d08fa5caead455]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-565afd75e639182ba0d08fa5caead455]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Modifications of section 145 of the Immigration and Asylum Act 1999 as it extends to Jersey[^key-565afd75e639182ba0d08fa5caead455]
+## SCHEDULE 1 — Modifications of section 145 of the Immigration and Asylum Act 1999 as it extends to Jersey[^c-565afd75e639182ba0d08fa5caead455]
 
 Article 2
 
-**1.**[^key-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Modifications of sections 126, 127 and 128 of the Nationality, Immigration and Asylum Act 2002 as they extend to Jersey[^key-565afd75e639182ba0d08fa5caead455]
+## SCHEDULE 2 — Modifications of sections 126, 127 and 128 of the Nationality, Immigration and Asylum Act 2002 as they extend to Jersey[^c-565afd75e639182ba0d08fa5caead455]
 
 Article 3
 
-**1.**[^key-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Modifications of sections 8 and 14(3) of, and Schedule 2 to, the Immigration Act 2014 as they extend to Jersey[^key-565afd75e639182ba0d08fa5caead455]
+## SCHEDULE 3 — Modifications of sections 8 and 14(3) of, and Schedule 2 to, the Immigration Act 2014 as they extend to Jersey[^c-565afd75e639182ba0d08fa5caead455]
 
 Article 4
 
-**1.**[^key-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-565afd75e639182ba0d08fa5caead455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-565afd75e639182ba0d08fa5caead455]EXPLANATORY NOTE
+[^c-565afd75e639182ba0d08fa5caead455]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -123,4 +123,4 @@ The Order makes consequential amendments to the Immigration and Asylum Act 1999 
 
 ## Annotations
 
-[^key-565afd75e639182ba0d08fa5caead455]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/1358) revoked (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/15/1) (with [art. 15(2)](https://www.legislation.gov.uk/uksi/2021/1281/article/15/2))
+[^c-565afd75e639182ba0d08fa5caead455]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/1358) revoked (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/15/1) (with [art. 15(2)](https://www.legislation.gov.uk/uksi/2021/1281/article/15/2))

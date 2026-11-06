@@ -45,15 +45,15 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by section 30(2) and (2ZA) of the Fisheries Act 1981 [^c23601741] now vested in them [^c23601751] and sections 294 and 316(1)(b) of the Marine and Coastal Access Act 2009 [^c23601761], make the following Order.
 
-## 1. Title, commencement and application[^key-cfaffa3a5ef8dc61f18511a18f7398d2]
+## 1. Title, commencement and application[^c-cfaffa3a5ef8dc61f18511a18f7398d2]
 
 (1) The title of this Order is the Sea Fishing (Penalty Notices) (Wales) Order 2019.
 
 (2) This Order comes into force on 22 March 2019.
 
-(3)[^key-43803c58e0d1f5147c43957a5fb649f2] This Order applies in relation to Wales and the Welsh zone.
+(3)[^c-43803c58e0d1f5147c43957a5fb649f2] This Order applies in relation to Wales and the Welsh zone.
 
-## 2. Interpretation[^key-cf1e509feb82ee148c408b0b1a89fa9d]
+## 2. Interpretation[^c-cf1e509feb82ee148c408b0b1a89fa9d]
 
 In this Order—
 
@@ -61,10 +61,10 @@ In this Order—
 - “**penalty**” (“***cosb***”) means the amount specified in a penalty notice;
 - “**penalty notice**” (“***hysbysiad cosb***”) means a notice offering the opportunity, by payment of a specified amount in accordance with this Order, to discharge any liability to be convicted of the penalty offence to which the notice relates;
 - “**penalty offence**” (“***trosedd cosb***”) means an offence (other than one involving assault, obstruction or failure to comply with a requirement imposed by a person) listed in the Schedule.
-- “Wales” (“[^key-2cdc5938f2437bfdeb0a5fec25f71bee]*Cymru*”) has the same meaning as in section 158(1) of the Government of Wales Act 2006;
+- “Wales” (“[^c-2cdc5938f2437bfdeb0a5fec25f71bee]*Cymru*”) has the same meaning as in section 158(1) of the Government of Wales Act 2006;
 - “the Welsh zone” (“*parth Cymru*”) has the same meaning as in section 158(1) of the Government of Wales Act 2006.
 
-## 3. Issue of penalty notice[^key-7cf6423d50b113954e931cb94f8f0c87]
+## 3. Issue of penalty notice[^c-7cf6423d50b113954e931cb94f8f0c87]
 
 (1) Where an officer has reason to believe that a person has committed a penalty offence, the officer may issue that person with a penalty notice for an amount not exceeding £10,000.
 
@@ -72,7 +72,7 @@ In this Order—
 
 (3) A penalty notice is issued at the time when it is sent by post or delivered by hand to the person to whom it relates.
 
-## 4. Content of penalty notice[^key-06e9b4a33dea16e6e146d54095e8d6b6]
+## 4. Content of penalty notice[^c-06e9b4a33dea16e6e146d54095e8d6b6]
 
 (1) A penalty notice issued under article 3 must—
 
@@ -82,7 +82,7 @@ In this Order—
 - (d) state the person to whom, and the address at which, the penalty may be paid; and
 - (e) state that payment must not be in cash.
 
-## 5. Restriction on proceedings for penalty offence[^key-4c9aa65fb0adc685e6a84f5bdb214dc6]
+## 5. Restriction on proceedings for penalty offence[^c-4c9aa65fb0adc685e6a84f5bdb214dc6]
 
 (1) Where a person is issued with a penalty notice—
 
@@ -94,13 +94,13 @@ In this Order—
 - (a) is subject to article 10; and
 - (b) does not apply if the penalty notice is withdrawn in accordance with article 9.
 
-## 6. Payment of penalty[^key-ef5414b4bfb4345c83ed9e556aafff3a]
+## 6. Payment of penalty[^c-ef5414b4bfb4345c83ed9e556aafff3a]
 
 (1) Payment of a penalty must be made to the person specified in the penalty notice by sending it by post or by such method as may be specified in the notice.
 
 (2) It may not be made in cash.
 
-## 7. Payment of one penalty treated as payment of connected penalties[^key-3456c1a01bc0f3a2f74907512cd39374]
+## 7. Payment of one penalty treated as payment of connected penalties[^c-3456c1a01bc0f3a2f74907512cd39374]
 
 (1) Where a person (“A”) pays the penalty in accordance with article 6, an officer must give a notice (a “**notice of deemed payment**” (“***hysbysiad taliad tybiedig***”)) to all other persons who have been issued with a connected penalty notice.
 
@@ -120,11 +120,11 @@ In this Order—
 
 (5) If no notice of objection is given in accordance with this article, the penalty notice issued to a person who has been given a notice of deemed payment is to be treated as having been paid.
 
-## 8. Certificate of payment or non-payment of penalty notice[^key-11c3c0e1fc0d63979bb661c56fcd3bdd]
+## 8. Certificate of payment or non-payment of penalty notice[^c-11c3c0e1fc0d63979bb661c56fcd3bdd]
 
 In any proceedings a certificate purporting to be signed by or on behalf of the Welsh Ministers stating that payment in respect of a penalty notice was or was not received on or before a date specified in the certificate is evidence of the facts stated.
 
-## 9. Withdrawal of penalty notices[^key-bd9d8a5bf08c06d7623fec5c5f05ed16]
+## 9. Withdrawal of penalty notices[^c-bd9d8a5bf08c06d7623fec5c5f05ed16]
 
 (1) A penalty notice may be withdrawn by an officer who has reason to believe that it ought not to have been issued (whether to the person named in the penalty notice or otherwise).
 
@@ -132,7 +132,7 @@ In any proceedings a certificate purporting to be signed by or on behalf of the 
 
 (3) If a penalty notice is withdrawn any penalty paid must be repaid.
 
-## 10. Commencement of proceedings after payment of penalty in relation to fishing boats from outside the United Kingdom[^key-3b9f1fbacf70c6aa4447b70073316158]
+## 10. Commencement of proceedings after payment of penalty in relation to fishing boats from outside the United Kingdom[^c-3b9f1fbacf70c6aa4447b70073316158]
 
 (1) This article applies in relation to a penalty notice issued to the master, owner or charterer of a fishing boat other than an English, Northern Ireland, Scottish or Welsh fishing boat.
 
@@ -156,7 +156,7 @@ In any proceedings a certificate purporting to be signed by or on behalf of the 
 
 (8) If no fine is imposed on the person in respect of the penalty offence, any penalty paid must be repaid.
 
-## 11. Transitional provision[^key-524003703fbbb3fd4dcb434323f257d9]
+## 11. Transitional provision[^c-524003703fbbb3fd4dcb434323f257d9]
 
 (1) This article applies where—
 
@@ -165,7 +165,7 @@ In any proceedings a certificate purporting to be signed by or on behalf of the 
 
 (2) The penalty notice is deemed to have been issued under this Order.
 
-## 12. Revocation[^key-73b266f6cc8c260ee5b591a70e313a13]
+## 12. Revocation[^c-73b266f6cc8c260ee5b591a70e313a13]
 
 The Sea Fishing (Enforcement of Community Measures) (Penalty Notices) Order 2008 is revoked.
 
@@ -177,7 +177,7 @@ Minister for Environment, Energy and Rural Affairs, one of the Welsh Ministers
 
 Article 2
 
-**1.**[^key-7ed334c365f0e8a65bcc326eaa4c1166] In the Sea Fisheries (Shellfish) Act 1967 [^c23601781], an offence under—
+**1.**[^c-7ed334c365f0e8a65bcc326eaa4c1166] In the Sea Fisheries (Shellfish) Act 1967 [^c23601781], an offence under—
 
 - (a) section 3 (effect of grant of right of regulating a fishery);
 - (b) section 7 (protection of fisheries);
@@ -185,24 +185,24 @@ Article 2
 - (d) section 16 (oysters not to be sold between certain dates);
 - (e) section 17 (taking and sale of certain crabs and lobsters prohibited).
 
-**2.**[^key-85160c1348b8f3cdc8da072a643f9c2b] In the Sea Fish (Conservation) Act 1967 [^c23601791], an offence under—
+**2.**[^c-85160c1348b8f3cdc8da072a643f9c2b] In the Sea Fish (Conservation) Act 1967 [^c23601791], an offence under—
 
 - (a) section 1 (size limits, etc for fish);
 - (b) section 2 (size limits for fish for use in course of any business);
 - (c) section 3 (regulation of nets and other fishing gear);
-- (d)[^key-cee160022322efbcbab8f25bbcec8708] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-cee160022322efbcbab8f25bbcec8708] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) section 4A (licensing of vessels receiving trans-shipped fish);
 - (f) section 5 (power to restrict fishing for sea fish);
 - (g) section 6 (prohibition on landing of sea fish caught in certain areas);
 - (h) section 8 (regulation of landing of foreign-caught sea fish).
 
-**3.**[^key-b901f997d18658b294aaf957721d4e4c] An offence under section 5 of the Sea Fisheries Act 1968 [^c23601801] (regulation of conduct of fishing operations).
+**3.**[^c-b901f997d18658b294aaf957721d4e4c] An offence under section 5 of the Sea Fisheries Act 1968 [^c23601801] (regulation of conduct of fishing operations).
 
-**4.**[^key-4f1b572460527ad99a1c4d40f88c7793] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4f1b572460527ad99a1c4d40f88c7793] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a4614f3771fcd97fc164b09b41f3ad05] An offence under section 30 of the Fisheries Act 1981 [^c23601821] (enforcement of Community rules).
+**5.**[^c-a4614f3771fcd97fc164b09b41f3ad05] An offence under section 30 of the Fisheries Act 1981 [^c23601821] (enforcement of Community rules).
 
-**6.**[^key-4a72ba6132ee4be6fd01ca761c8b4cee][^key-48e6ac91a3a13951e70269db36feab5f] In the Marine and Coastal Access Act 2009, an offence under—
+**6.**[^c-4a72ba6132ee4be6fd01ca761c8b4cee][^c-48e6ac91a3a13951e70269db36feab5f] In the Marine and Coastal Access Act 2009, an offence under—
 
 - (a) section 139(1)(b) (offence of contravening byelaws or orders), in so far as it relates to any order made under—
   - (i) section 134A (orders relating to exploitation of sea fisheries resources: Wales);
@@ -210,18 +210,18 @@ Article 2
   - (iii) section 136(1A) (interim orders);
 - (b) section 190 (offences).
 
-**7.**[^key-4de82cd95059dc452be0c79609a35b91] An offence under regulations 3 to 11 of the Registration of Fish Buyers and Sellers and Designation of Fish Auction Sites (Wales) Regulations 2006 [^c23601841].
+**7.**[^c-4de82cd95059dc452be0c79609a35b91] An offence under regulations 3 to 11 of the Registration of Fish Buyers and Sellers and Designation of Fish Auction Sites (Wales) Regulations 2006 [^c23601841].
 
-**8.**[^key-a239a60ad2ab58dc331a21703e131964] An offence under article 9 of the Sea Fishing (Illegal, Unreported and Unregulated Fishing) Order 2009 [^c23601851].
+**8.**[^c-a239a60ad2ab58dc331a21703e131964] An offence under article 9 of the Sea Fishing (Illegal, Unreported and Unregulated Fishing) Order 2009 [^c23601851].
 
-**8A.**[^key-69c40664cfc2baa86b5221255b0e0686] In the Fisheries Act 2020, an offence under—
+**8A.**[^c-69c40664cfc2baa86b5221255b0e0686] In the Fisheries Act 2020, an offence under—
 
 - (a) section 12(3) (access to British fisheries by foreign fishing boats);
 - (b) section 14(6) (British fishing boats required to be licensed);
 - (c) section 16(6) (foreign fishing boats required to be licensed if within British fishery limits);
 - (d) paragraph 1(4) of Schedule 3 (power to attach conditions to sea fishing licence).
 
-**9.**[^key-c17ab0bf12f1ba711db046b3000233bb] In this Schedule, reference to a section includes subordinate legislation made under that section.
+**9.**[^c-c17ab0bf12f1ba711db046b3000233bb] In this Schedule, reference to a section includes subordinate legislation made under that section.
 
 *(This note is not part of the Order)*
 
@@ -241,68 +241,68 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23601761]: Marginal citation: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-cfaffa3a5ef8dc61f18511a18f7398d2]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2019/363/article/1) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-cfaffa3a5ef8dc61f18511a18f7398d2]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2019/363/article/1) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
-[^key-43803c58e0d1f5147c43957a5fb649f2]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/wsi/2019/363/article/1/3) substituted (21.3.2019) by [The Sea Fishing (Penalty Notices) (Wales) (Amendment) Order 2019 (S.I. 2019/602)](https://www.legislation.gov.uk/wsi/2019/602), [art. 2(2)](https://www.legislation.gov.uk/wsi/2019/602/article/2/2), [reg. 1(4)](https://www.legislation.gov.uk/wsi/2019/602/regulation/1/4)
+[^c-43803c58e0d1f5147c43957a5fb649f2]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/wsi/2019/363/article/1/3) substituted (21.3.2019) by [The Sea Fishing (Penalty Notices) (Wales) (Amendment) Order 2019 (S.I. 2019/602)](https://www.legislation.gov.uk/wsi/2019/602), [art. 2(2)](https://www.legislation.gov.uk/wsi/2019/602/article/2/2), [reg. 1(4)](https://www.legislation.gov.uk/wsi/2019/602/regulation/1/4)
 
-[^key-cf1e509feb82ee148c408b0b1a89fa9d]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2019/363/article/2) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-cf1e509feb82ee148c408b0b1a89fa9d]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2019/363/article/2) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
-[^key-2cdc5938f2437bfdeb0a5fec25f71bee]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2019/363/article/2) inserted (21.3.2019) by [The Sea Fishing (Penalty Notices) (Wales) (Amendment) Order 2019 (S.I. 2019/602)](https://www.legislation.gov.uk/wsi/2019/602), [art. 2(3)](https://www.legislation.gov.uk/wsi/2019/602/article/2/3), [reg. 1(4)](https://www.legislation.gov.uk/wsi/2019/602/regulation/1/4)
+[^c-2cdc5938f2437bfdeb0a5fec25f71bee]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2019/363/article/2) inserted (21.3.2019) by [The Sea Fishing (Penalty Notices) (Wales) (Amendment) Order 2019 (S.I. 2019/602)](https://www.legislation.gov.uk/wsi/2019/602), [art. 2(3)](https://www.legislation.gov.uk/wsi/2019/602/article/2/3), [reg. 1(4)](https://www.legislation.gov.uk/wsi/2019/602/regulation/1/4)
 
-[^key-7cf6423d50b113954e931cb94f8f0c87]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2019/363/article/3) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-7cf6423d50b113954e931cb94f8f0c87]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2019/363/article/3) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
-[^key-06e9b4a33dea16e6e146d54095e8d6b6]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2019/363/article/4) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-06e9b4a33dea16e6e146d54095e8d6b6]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2019/363/article/4) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
-[^key-4c9aa65fb0adc685e6a84f5bdb214dc6]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2019/363/article/5) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-4c9aa65fb0adc685e6a84f5bdb214dc6]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2019/363/article/5) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
-[^key-ef5414b4bfb4345c83ed9e556aafff3a]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2019/363/article/6) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-ef5414b4bfb4345c83ed9e556aafff3a]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2019/363/article/6) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
-[^key-3456c1a01bc0f3a2f74907512cd39374]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2019/363/article/7) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-3456c1a01bc0f3a2f74907512cd39374]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2019/363/article/7) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
-[^key-11c3c0e1fc0d63979bb661c56fcd3bdd]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2019/363/article/8) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-11c3c0e1fc0d63979bb661c56fcd3bdd]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2019/363/article/8) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
-[^key-bd9d8a5bf08c06d7623fec5c5f05ed16]: Commencement: [Art. 9](https://www.legislation.gov.uk/wsi/2019/363/article/9) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-bd9d8a5bf08c06d7623fec5c5f05ed16]: Commencement: [Art. 9](https://www.legislation.gov.uk/wsi/2019/363/article/9) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
-[^key-3b9f1fbacf70c6aa4447b70073316158]: Commencement: [Art. 10](https://www.legislation.gov.uk/wsi/2019/363/article/10) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-3b9f1fbacf70c6aa4447b70073316158]: Commencement: [Art. 10](https://www.legislation.gov.uk/wsi/2019/363/article/10) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
-[^key-524003703fbbb3fd4dcb434323f257d9]: Commencement: [Art. 11](https://www.legislation.gov.uk/wsi/2019/363/article/11) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-524003703fbbb3fd4dcb434323f257d9]: Commencement: [Art. 11](https://www.legislation.gov.uk/wsi/2019/363/article/11) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
 [^c23601771]: Marginal citation: [S.I. 2008/984](https://www.legislation.gov.uk/uksi/2008/984).
 
-[^key-73b266f6cc8c260ee5b591a70e313a13]: Commencement: [Art. 12](https://www.legislation.gov.uk/wsi/2019/363/article/12) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-73b266f6cc8c260ee5b591a70e313a13]: Commencement: [Art. 12](https://www.legislation.gov.uk/wsi/2019/363/article/12) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
-[^key-7ed334c365f0e8a65bcc326eaa4c1166]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/1) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-7ed334c365f0e8a65bcc326eaa4c1166]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/1) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
 [^c23601781]: Marginal citation: [1967 c. 83](https://www.legislation.gov.uk/ukpga/1967/83); [Section 3](https://www.legislation.gov.uk/wsi/2019/363/section/3) was amended by sections 204, 206 and 207 of the Marine and Coastal Access Act 2009, section 72 of the Environment (Wales) Act 2016 (anaw 3) and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664). Section 7 was amended by sections 210 and 211 of the Marine and Coastal Access Act 2009, section 2 of the [Sale of Goods (Amendment) Act 1994 (c. 32)](https://www.legislation.gov.uk/ukpga/1994/32), and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664). Section 14 was amended by section 35, 37, 38 and 46 of the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [Schedule 8](https://www.legislation.gov.uk/ukpga/1982/48/schedule/8) to the [Criminal Justice and Public Order Act 1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), and section 6 of the [Diseases of Fish Act 1983 (c. 30)](https://www.legislation.gov.uk/ukpga/1983/30). Section 16 was amended by sections 35, 37, 38 and 46 of the Criminal Justice Act 1982, Schedule 8 to the Criminal Justice and Public Order Act 1994 and section 1 of the [Sea Fisheries (Shellfish) Act 1973 (c. 30)](https://www.legislation.gov.uk/ukpga/1973/30). Section 17 was amended by section 212 and 213 of the Marine and Coastal Access Act 2009, sections 35, 37, 38 and 46 of the Criminal Justice Act 1982, and Schedule 8 to the Criminal Justice and Public Order Act 1994.
 
-[^key-85160c1348b8f3cdc8da072a643f9c2b]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/2) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-85160c1348b8f3cdc8da072a643f9c2b]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/2) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
 [^c23601791]: Marginal citation: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84); [Section 1](https://www.legislation.gov.uk/wsi/2019/363/section/1) was substituted by section 19 of the [Fisheries Act 1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29) and amended by section 314 and paragraph 38 of Schedule 13 to the [Merchant Shipping Act 1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21), [section 194](https://www.legislation.gov.uk/ukpga/1995/21/section/194) of the Marine and Coastal Access Act 2009, [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820) and [S.I. 2010/760](https://www.legislation.gov.uk/uksi/2010/760). Section 2 was amended by section 19 of the Fisheries Act 1981 and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Section 3 was amended by section 195, paragraph 7 of Schedule 14, paragraph 2 of Schedule 15 and Part 4 of Schedule 22 to the Marine and Coastal Access Act 2009, Schedule 2 to the [Fishery Limits Act 1976 (c. 83)](https://www.legislation.gov.uk/ukpga/1976/83) and [S. I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Section 4 was substituted by section 3 of the Fishery Limits Act 1976 and amended by section 20 of the Fisheries Act 1981, section 1 of the [Sea Fish (Conservation) Act 1992 (c.60)](https://www.legislation.gov.uk/ukpga/1992/60), [sections 4](https://www.legislation.gov.uk/ukpga/1992/60/section/4), [196](https://www.legislation.gov.uk/ukpga/1992/60/section/196) and 197 of the Marine and Coastal Access Act 2009 and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Section 4A was inserted by section 21 of the Fisheries Act 1981 and amended by section 3 of the Sea Fish (Conservation) Act 1992, section 6 of the Marine and Coastal Access Act 2009 and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Section 5 was amended by section 22 of the Fisheries Act 1981, section 198 and paragraph 3 of Schedule 15 to the Marine and Coastal Access Act 2009, paragraph 38 of Schedule 13 to the Merchant Shipping Act 1995, [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820) and [S.I. 2010/760](https://www.legislation.gov.uk/uksi/2010/760). Section 6 was amended by section 23 of the Fisheries Act 1981 and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Section 8 was amended by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
 
-[^key-cee160022322efbcbab8f25bbcec8708]: Textual amendment: [Sch. para. 2(d)](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/2/d) omitted (14.4.2021) by virtue of [The Sea Fishing (Penalty Notices) (Wales) (Amendment) Order 2021 (S.I. 2021/368)](https://www.legislation.gov.uk/wsi/2021/368), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/368/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2021/368/article/2/2/a)
+[^c-cee160022322efbcbab8f25bbcec8708]: Textual amendment: [Sch. para. 2(d)](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/2/d) omitted (14.4.2021) by virtue of [The Sea Fishing (Penalty Notices) (Wales) (Amendment) Order 2021 (S.I. 2021/368)](https://www.legislation.gov.uk/wsi/2021/368), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/368/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2021/368/article/2/2/a)
 
-[^key-b901f997d18658b294aaf957721d4e4c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/3) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-b901f997d18658b294aaf957721d4e4c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/3) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
 [^c23601801]: Marginal citation: [1968 c.77](https://www.legislation.gov.uk/ukpga/1968/77); [section 5](https://www.legislation.gov.uk/wsi/2019/363/section/5) was amended by section 4 of, and paragraph 3 of Schedule 1 and paragraph 17 of Schedule 2 to the Fishery Limits Act 1976, section 24 of the Fisheries Act 1981 and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
 
-[^key-4f1b572460527ad99a1c4d40f88c7793]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/4) omitted (14.4.2021) by virtue of [The Sea Fishing (Penalty Notices) (Wales) (Amendment) Order 2021 (S.I. 2021/368)](https://www.legislation.gov.uk/wsi/2021/368), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/368/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2021/368/article/2/2/b)
+[^c-4f1b572460527ad99a1c4d40f88c7793]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/4) omitted (14.4.2021) by virtue of [The Sea Fishing (Penalty Notices) (Wales) (Amendment) Order 2021 (S.I. 2021/368)](https://www.legislation.gov.uk/wsi/2021/368), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/368/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2021/368/article/2/2/b)
 
-[^key-a4614f3771fcd97fc164b09b41f3ad05]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/5) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-a4614f3771fcd97fc164b09b41f3ad05]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/5) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
 [^c23601821]: Marginal citation: [Section 30](https://www.legislation.gov.uk/wsi/2019/363/section/30) was amended by section 293 of the Marine and Coastal Access Act 2009, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
 
-[^key-4a72ba6132ee4be6fd01ca761c8b4cee]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/6) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-4a72ba6132ee4be6fd01ca761c8b4cee]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/6) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
-[^key-48e6ac91a3a13951e70269db36feab5f]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/6) substituted (14.4.2021) by [The Sea Fishing (Penalty Notices) (Wales) (Amendment) Order 2021 (S.I. 2021/368)](https://www.legislation.gov.uk/wsi/2021/368), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/368/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/wsi/2021/368/article/2/2/c)
+[^c-48e6ac91a3a13951e70269db36feab5f]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/6) substituted (14.4.2021) by [The Sea Fishing (Penalty Notices) (Wales) (Amendment) Order 2021 (S.I. 2021/368)](https://www.legislation.gov.uk/wsi/2021/368), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/368/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/wsi/2021/368/article/2/2/c)
 
-[^key-4de82cd95059dc452be0c79609a35b91]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/7) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-4de82cd95059dc452be0c79609a35b91]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/7) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
 [^c23601841]: Marginal citation: [S. I. 2006/1495](https://www.legislation.gov.uk/uksi/2006/1495).
 
-[^key-a239a60ad2ab58dc331a21703e131964]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/8) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-a239a60ad2ab58dc331a21703e131964]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/8) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
 
 [^c23601851]: Marginal citation: [S. I. 2009/3391](https://www.legislation.gov.uk/uksi/2009/3391).
 
-[^key-69c40664cfc2baa86b5221255b0e0686]: Textual amendment: [Sch. para. 8A](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/8A) inserted (14.4.2021) by [The Sea Fishing (Penalty Notices) (Wales) (Amendment) Order 2021 (S.I. 2021/368)](https://www.legislation.gov.uk/wsi/2021/368), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/368/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/wsi/2021/368/article/2/2/d)
+[^c-69c40664cfc2baa86b5221255b0e0686]: Textual amendment: [Sch. para. 8A](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/8A) inserted (14.4.2021) by [The Sea Fishing (Penalty Notices) (Wales) (Amendment) Order 2021 (S.I. 2021/368)](https://www.legislation.gov.uk/wsi/2021/368), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/368/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/wsi/2021/368/article/2/2/d)
 
-[^key-c17ab0bf12f1ba711db046b3000233bb]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/9) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)
+[^c-c17ab0bf12f1ba711db046b3000233bb]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/wsi/2019/363/schedule/paragraph/9) in force at 22.3.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/363/article/1/2)

@@ -31,18 +31,18 @@ Vagrancy Act 1935 (repealed)
 
 1935 c.20
 
-[^key-59f000b61445e4bd80c51a8b09782148]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59f000b61445e4bd80c51a8b09782148]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Amendment of 5 Geo. 4. c. 83 s. 4.[^key-59f000b61445e4bd80c51a8b09782148]
+## 1. Amendment of 5 Geo. 4. c. 83 s. 4.[^c-59f000b61445e4bd80c51a8b09782148]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title and extent.[^key-59f000b61445e4bd80c51a8b09782148]
+## 2. Short title and extent.[^c-59f000b61445e4bd80c51a8b09782148]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-59f000b61445e4bd80c51a8b09782148]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/25-26/20) repealed (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
+[^c-59f000b61445e4bd80c51a8b09782148]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/25-26/20) repealed (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)

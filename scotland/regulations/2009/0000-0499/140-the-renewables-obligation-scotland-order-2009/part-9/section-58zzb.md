@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 58ZZB. Preliminary accreditation and accreditation: common provisions[^key-705b9591f9bb6587b9d012ad851dc25b]
+## 58ZZB. Preliminary accreditation and accreditation: common provisions[^c-705b9591f9bb6587b9d012ad851dc25b]
 
 (1) This article applies to the granting and withdrawing of preliminary accreditation and accreditation of generating stations by the Authority.
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-705b9591f9bb6587b9d012ad851dc25b]: Textual amendment: Arts. 58-58ZZB substituted for art. 58 (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [20](https://www.legislation.gov.uk/ssi/2014/94/article/20) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-705b9591f9bb6587b9d012ad851dc25b]: Textual amendment: Arts. 58-58ZZB substituted for art. 58 (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [20](https://www.legislation.gov.uk/ssi/2014/94/article/20) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))

@@ -42,7 +42,7 @@ summary: ''
 
 section 75(2) to (4) of CTA 2009 (retraining courses: recovery of tax) apply.
 
-(5)[^key-3f794d35b0c476733bb36c79ab0a0eae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3f794d35b0c476733bb36c79ab0a0eae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Section 1253 of CTA 2009 (contributions to local enterprise organisations or urban regeneration companies: disqualifying benefits) applies in the case of amounts treated, as a result of the application by this section of section 1244 of that Act, as ordinary BLAGAB management expenses as it applies in the case of amounts for which a deduction has been made under section 1219 of that Act as a result of section 1244 of that Act.
 
@@ -58,4 +58,4 @@ section 75(2) to (4) of CTA 2009 (retraining courses: recovery of tax) apply.
 
 ## Annotations
 
-[^key-3f794d35b0c476733bb36c79ab0a0eae]: Textual amendment: [S. 81(5)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/5) omitted (with effect in relation to accounting periods of companies beginning on or after 1.1.2023 of the commencing S.I.) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 5 paras. 3(2)(e)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/3/2/e), [4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4); [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))
+[^c-3f794d35b0c476733bb36c79ab0a0eae]: Textual amendment: [S. 81(5)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/5) omitted (with effect in relation to accounting periods of companies beginning on or after 1.1.2023 of the commencing S.I.) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 5 paras. 3(2)(e)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/3/2/e), [4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4); [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))

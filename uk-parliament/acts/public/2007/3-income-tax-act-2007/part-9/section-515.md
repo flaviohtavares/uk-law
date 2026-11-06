@@ -22,9 +22,9 @@ summary: ''
 
 Tax is charged under section 512 at the rate found by—
 
-- (a) taking the additional rate[^key-e8701e8f8a9b5aa890bd0c5294e69034] for the tax year during which the charge arises, and
+- (a) taking the additional rate[^c-e8701e8f8a9b5aa890bd0c5294e69034] for the tax year during which the charge arises, and
 - (b) reducing it by the trust rate for that year.
 
 ## Annotations
 
-[^key-e8701e8f8a9b5aa890bd0c5294e69034]: Textual amendment: Words in s. 515(a) substituted (with effect in accordance with Sch. 2 para. 25 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/2/paragraph/7)
+[^c-e8701e8f8a9b5aa890bd0c5294e69034]: Textual amendment: Words in s. 515(a) substituted (with effect in accordance with Sch. 2 para. 25 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/2/paragraph/7)

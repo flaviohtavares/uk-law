@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44C. Earnings factor credits[^key-d1c2ac95b07bbff08069f5acd975c171]
+## 44C. Earnings factor credits[^c-d1c2ac95b07bbff08069f5acd975c171]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ This is subject to subsection (5) below.
 
 ## Annotations
 
-[^key-d1c2ac95b07bbff08069f5acd975c171]: Textual amendment: Ss. 44B, 44C inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2007/22/section/9/1), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
+[^c-d1c2ac95b07bbff08069f5acd975c171]: Textual amendment: Ss. 44B, 44C inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2007/22/section/9/1), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164A. The existing shareholdings requirement[^key-ef8530429144a8468d68a3c9b5e5446d]
+## 164A. The existing shareholdings requirement[^c-ef8530429144a8468d68a3c9b5e5446d]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef8530429144a8468d68a3c9b5e5446d]: Textual amendment: [S. 164A](https://www.legislation.gov.uk/ukpga/2007/3/section/164BA) inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/4)
+[^c-ef8530429144a8468d68a3c9b5e5446d]: Textual amendment: [S. 164A](https://www.legislation.gov.uk/ukpga/2007/3/section/164BA) inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/4)

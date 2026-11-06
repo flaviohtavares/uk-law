@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Forfeiture of prohibited items[^key-f444304985f6ce96ccbb07ec565fab0e]
+## 46. Forfeiture of prohibited items[^c-f444304985f6ce96ccbb07ec565fab0e]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f444304985f6ce96ccbb07ec565fab0e]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2013/7/section/46) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-f444304985f6ce96ccbb07ec565fab0e]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2013/7/section/46) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

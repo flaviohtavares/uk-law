@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Power to obtain information[^key-ac872fdd5c03a959583455d2076ad4fb]
+## 48. Power to obtain information[^c-ac872fdd5c03a959583455d2076ad4fb]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac872fdd5c03a959583455d2076ad4fb]: Commencement: S. 48 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-ac872fdd5c03a959583455d2076ad4fb]: Commencement: S. 48 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

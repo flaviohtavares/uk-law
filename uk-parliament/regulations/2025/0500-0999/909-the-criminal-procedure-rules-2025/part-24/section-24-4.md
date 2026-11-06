@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24.4. Evidence of a witness in person[^key-f2a29c8d1b277b8c24cb787e3f5dc0e8]
+## 24.4. Evidence of a witness in person[^c-f2a29c8d1b277b8c24cb787e3f5dc0e8]
 
 *Extent: E+W*
 
@@ -81,7 +81,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f2a29c8d1b277b8c24cb787e3f5dc0e8]: Commencement: [Rule 24.4](https://www.legislation.gov.uk/uksi/2025/909/rule/24.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f2a29c8d1b277b8c24cb787e3f5dc0e8]: Commencement: [Rule 24.4](https://www.legislation.gov.uk/uksi/2025/909/rule/24.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00526]: Footnote: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23).
 

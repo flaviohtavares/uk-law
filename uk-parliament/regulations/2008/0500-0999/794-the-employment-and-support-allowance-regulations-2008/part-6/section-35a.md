@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35A. Relevant linked cases – limited capability for work-related activity[^key-b49367164e5bf03689772417563503b9]
+## 35A. Relevant linked cases – limited capability for work-related activity[^c-b49367164e5bf03689772417563503b9]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ A claimant is to be treated as having limited capability for work-related activi
 
 ## Annotations
 
-[^key-b49367164e5bf03689772417563503b9]: Textual amendment: Reg. 35A inserted (1.5.2012) by [The Employment and Support Allowance (Amendment of Linking Rules) Regulations 2012 (S.I. 2012/919)](https://www.legislation.gov.uk/uksi/2012/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/919/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2012/919/regulation/5/5)
+[^c-b49367164e5bf03689772417563503b9]: Textual amendment: Reg. 35A inserted (1.5.2012) by [The Employment and Support Allowance (Amendment of Linking Rules) Regulations 2012 (S.I. 2012/919)](https://www.legislation.gov.uk/uksi/2012/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/919/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2012/919/regulation/5/5)

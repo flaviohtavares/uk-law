@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.150. Rule against solicitation[^key-a28cfd33276905df231a94fff7fbd7c1]
+## 4.150. Rule against solicitation[^c-a28cfd33276905df231a94fff7fbd7c1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a28cfd33276905df231a94fff7fbd7c1]: Commencement: [Rule 4.150](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.150) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a28cfd33276905df231a94fff7fbd7c1]: Commencement: [Rule 4.150](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.150) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

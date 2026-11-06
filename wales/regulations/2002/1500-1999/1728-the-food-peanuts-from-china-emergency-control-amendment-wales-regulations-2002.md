@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food (Peanuts from China) (Emergency Control) (Amendment) (Wales) Regulations 2002 (revoked)[^key-48401d47e0083fa99215deaed4ea9642]
+The Food (Peanuts from China) (Emergency Control) (Amendment) (Wales) Regulations 2002 (revoked)[^c-48401d47e0083fa99215deaed4ea9642]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 5th July 2002
 
-[^key-48401d47e0083fa99215deaed4ea9642]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48401d47e0083fa99215deaed4ea9642]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-48401d47e0083fa99215deaed4ea9642]
+## 1. Citation, commencement and application[^c-48401d47e0083fa99215deaed4ea9642]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-48401d47e0083fa99215deaed4ea9642]
+## 2. Interpretation[^c-48401d47e0083fa99215deaed4ea9642]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-48401d47e0083fa99215deaed4ea9642]
+## 3. Amendment of the principal Regulations[^c-48401d47e0083fa99215deaed4ea9642]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-48401d47e0083fa99215deaed4ea9642]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48401d47e0083fa99215deaed4ea9642]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-48401d47e0083fa99215deaed4ea9642]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48401d47e0083fa99215deaed4ea9642]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-48401d47e0083fa99215deaed4ea9642]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-48401d47e0083fa99215deaed4ea9642]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

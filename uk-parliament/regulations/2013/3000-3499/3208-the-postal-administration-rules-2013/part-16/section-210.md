@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 210. Application[^key-f7640932a7919e73ae08d17aad253028]
+## 210. Application[^c-f7640932a7919e73ae08d17aad253028]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Rules apply to postal administration proceedings commenced on or after the d
 
 ## Annotations
 
-[^key-f7640932a7919e73ae08d17aad253028]: Commencement: [Rule 210](https://www.legislation.gov.uk/uksi/2013/3208/rule/210) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-f7640932a7919e73ae08d17aad253028]: Commencement: [Rule 210](https://www.legislation.gov.uk/uksi/2013/3208/rule/210) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Variation of licence[^key-4090e0e14397697f3342c4b2e49ce083]
+## 18A. Variation of licence[^c-4090e0e14397697f3342c4b2e49ce083]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4090e0e14397697f3342c4b2e49ce083]: Textual amendment: Ss. 18, 18A substituted for s. 18 (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 18](https://www.legislation.gov.uk/ukpga/2008/22/section/18), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(f)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/f)
+[^c-4090e0e14397697f3342c4b2e49ce083]: Textual amendment: Ss. 18, 18A substituted for s. 18 (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 18](https://www.legislation.gov.uk/ukpga/2008/22/section/18), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(f)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/f)

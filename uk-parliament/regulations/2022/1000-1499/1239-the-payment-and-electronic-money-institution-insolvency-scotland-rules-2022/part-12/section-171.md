@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 171. Use of websites by administrator[^key-17a7a3d38c0617de5f3c9c95fd21aacb]
+## 171. Use of websites by administrator[^c-17a7a3d38c0617de5f3c9c95fd21aacb]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17a7a3d38c0617de5f3c9c95fd21aacb]: Commencement: Rule 171 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-17a7a3d38c0617de5f3c9c95fd21aacb]: Commencement: Rule 171 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

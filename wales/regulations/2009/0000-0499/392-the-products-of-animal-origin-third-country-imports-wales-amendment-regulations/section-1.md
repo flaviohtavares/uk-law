@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title, application and commencement[^key-aa27f064daf62bdffeb85c08e9294047]
+## 1. Title, application and commencement[^c-aa27f064daf62bdffeb85c08e9294047]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa27f064daf62bdffeb85c08e9294047]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), reg. 1(3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-aa27f064daf62bdffeb85c08e9294047]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), reg. 1(3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

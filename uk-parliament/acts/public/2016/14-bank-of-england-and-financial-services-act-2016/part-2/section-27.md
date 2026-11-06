@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Enforceability of agreements relating to credit[^key-7ef979efba3ee7b0ddd39514abe65d54]
+## 27. Enforceability of agreements relating to credit[^c-7ef979efba3ee7b0ddd39514abe65d54]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ef979efba3ee7b0ddd39514abe65d54]: Commencement: S. 27 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(u)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/u)
+[^c-7ef979efba3ee7b0ddd39514abe65d54]: Commencement: S. 27 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(u)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/u)

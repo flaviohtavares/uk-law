@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A2D1. Approval of technical education qualifications: overview[^key-030b4554ae49c3d19be79aaee667c19f]
+## A2D1. Approval of technical education qualifications: overview[^c-030b4554ae49c3d19be79aaee667c19f]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-030b4554ae49c3d19be79aaee667c19f]: Textual amendment: Ss. A2D1, A2D2 inserted (30.9.2022) by [Skills and Post-16 Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/7/2), [36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3); [S.I. 2022/965](https://www.legislation.gov.uk/uksi/2022/965), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/965/regulation/3/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/965/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/965/regulation/5))
+[^c-030b4554ae49c3d19be79aaee667c19f]: Textual amendment: Ss. A2D1, A2D2 inserted (30.9.2022) by [Skills and Post-16 Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/7/2), [36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3); [S.I. 2022/965](https://www.legislation.gov.uk/uksi/2022/965), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/965/regulation/3/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/965/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/965/regulation/5))

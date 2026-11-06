@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — COMMENCEMENT AND INTERPRETATION
 
-### 1. Citation, commencement and interpretation[^key-936803cab39550df1c236f4b16079041]
+### 1. Citation, commencement and interpretation[^c-936803cab39550df1c236f4b16079041]
 
 (1) These Regulations may be cited as the Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 and come into force on 1st April 2012.
 
@@ -57,11 +57,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “the 2005 Directions” means the Directions to Health Boards, Special Health Boards and the Agency on Complaints Procedure, made on 31st March 2005 and brought into force on 1st April 2005;
 - “the Act” means the Patient Rights (Scotland) Act 2011;
 - “arrangements” means, unless the context otherwise requires, arrangements that are required by virtue of section 15 of the Act;
-- “feedback and complaints officer” means the officer appointed by a responsible body under regulation 3(1);[^key-2745ddb9389129d1614081bc65dbd204]
+- “feedback and complaints officer” means the officer appointed by a responsible body under regulation 3(1);[^c-2745ddb9389129d1614081bc65dbd204]
 - “relevant complaints procedure” means—
   - (a) any complaints procedure required prior to 1st April 2012 by any of the following provisions—
-    - (i) part 6 of schedule 6 of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018;[^key-2735fd1611a8a7d40cd7d1159676d07a]
-    - (ii) part 6 of schedule 1 to the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018[^key-a32258931cde540a22c1e8897ce93d52];
+    - (i) part 6 of schedule 6 of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018;[^c-2735fd1611a8a7d40cd7d1159676d07a]
+    - (ii) part 6 of schedule 1 to the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018[^c-a32258931cde540a22c1e8897ce93d52];
     - (iii) paragraph 11 of Schedule 1 to the National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006[^f00004];
     - (iv) paragraph 12 of Schedule 1 to the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^f00005];
     - (v) paragraph 36 of Schedule 1 to the National Health Service (General Dental Services) (Scotland) Regulations 2010[^f00006];
@@ -71,11 +71,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 2 — GENERAL
 
-### 2. Duty to have arrangements in place[^key-e81544ff03a990fa60aefaf1e36662f1]
+### 2. Duty to have arrangements in place[^c-e81544ff03a990fa60aefaf1e36662f1]
 
 Each responsible body must have arrangements in place for the matters described in section 15(3) of the Act.
 
-### 3. Feedback and Complaints Officer and Manager[^key-54505a1c073d7b02ff6a7dacab5480f1]
+### 3. Feedback and Complaints Officer and Manager[^c-54505a1c073d7b02ff6a7dacab5480f1]
 
 (1) Each responsible body must appoint a feedback and complaints officer to manage the arrangements.
 
@@ -85,19 +85,19 @@ Each responsible body must have arrangements in place for the matters described 
 
 (4) The functions of the feedback and complaints manager must be performed by the person who acts as the chief executive of the relevant NHS body, or by an appropriately senior person authorised by the relevant NHS body to act on the chief executive’s behalf.
 
-### 4. Persons who may give feedback or comments, or raise concerns or complaints in relation to health care[^key-dd1d6ec2bf2f06a5fc74ebebb5464e37]
+### 4. Persons who may give feedback or comments, or raise concerns or complaints in relation to health care[^c-dd1d6ec2bf2f06a5fc74ebebb5464e37]
 
 Any person who is, or is likely to be affected by an act or omission of a responsible body is specified for the purposes of section 15(3)(a)(ii) of the Act.
 
 ## PART 3 — DEALING WITH COMPLAINTS
 
-### 5. Period for raising a complaint[^key-87258d3d14fbf0ac21abb8efc19c582a]
+### 5. Period for raising a complaint[^c-87258d3d14fbf0ac21abb8efc19c582a]
 
-(1) Regulations 6 to[^key-567832693d9f8d3c97ee7b6f56b01510] 7 apply where a complaint is raised orally or in writing within six months from the date on which the subject matter of the complaint comes to the complainant’s notice, provided that is no later than twelve months after the date on which the subject matter of the complaint occurred.
+(1) Regulations 6 to[^c-567832693d9f8d3c97ee7b6f56b01510] 7 apply where a complaint is raised orally or in writing within six months from the date on which the subject matter of the complaint comes to the complainant’s notice, provided that is no later than twelve months after the date on which the subject matter of the complaint occurred.
 
-(2) The periods specified in paragraph (1) may be extended if the feedback and complaints officer [^key-be50cbee5d3c0cb0ef3c980d79bf49c5]... considers it would be reasonable in the circumstances.
+(2) The periods specified in paragraph (1) may be extended if the feedback and complaints officer [^c-be50cbee5d3c0cb0ef3c980d79bf49c5]... considers it would be reasonable in the circumstances.
 
-### 6. Requirement to deal with complaints[^key-805d51fb3f2b05bba48d86c829a6449a]
+### 6. Requirement to deal with complaints[^c-805d51fb3f2b05bba48d86c829a6449a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -157,7 +157,7 @@ The period of 20 working days referred to in regulations 6A(4)(c) and 6B(1)(d) m
 
 (4) A requirement to investigate the complaint only applies to the extent that the responsible authority is able to determine the facts and circumstances giving rise to the complaint.
 
-### 7. Complaints not to be dealt with under the arrangements[^key-16370d3e8c896331fecddf3533fa7fbe][^key-0d47dc88cb82898f8c6d8b64a1ab5c95]
+### 7. Complaints not to be dealt with under the arrangements[^c-16370d3e8c896331fecddf3533fa7fbe][^c-0d47dc88cb82898f8c6d8b64a1ab5c95]
 
 (1) In dealing with a complaint specified in regulation 7(2), the responsible body must as soon as reasonably practicable notify the complainant in writing—
 
@@ -171,17 +171,17 @@ The period of 20 working days referred to in regulations 6A(4)(c) and 6B(1)(d) m
 - (c) a complaint raised by an employee of a responsible body about any matter relating to that employee’s contract of employment;
 - (d) a complaint which is being or has been investigated by the Scottish Public Services Ombudsman;
 - (e) a complaint arising out of an alleged failure to comply with a request for information under the Freedom of Information (Scotland) Act 2002[^f00007];
-- (f) a complaint about which the complainant has commenced legal proceedings (whether or not those proceedings have concluded)[^key-ff93ab6f6297a18441aa923e8d513b8a];
-- (fa)[^key-87eb173931d8b8236bf186043fdf2ae0] a complaint which in the opinion of the feedback and complaints officer should not be investigated under the arrangements because legal proceedings are likely to be commenced in respect of the complaint;
+- (f) a complaint about which the complainant has commenced legal proceedings (whether or not those proceedings have concluded)[^c-ff93ab6f6297a18441aa923e8d513b8a];
+- (fa)[^c-87eb173931d8b8236bf186043fdf2ae0] a complaint which in the opinion of the feedback and complaints officer should not be investigated under the arrangements because legal proceedings are likely to be commenced in respect of the complaint;
 - (g) a complaint about which a responsible body is taking or proposing to take disciplinary proceedings against the person who is the subject of the complaint; and
 - (h) a complaint, the subject matter of which has previously been investigated under—
   - (i) the arrangements;
   - (ii) the 2005 Directions, in relation to a complaint raised under those Directions prior to 1st April 2012; or
   - (iii) a relevant complaints procedure, in relation to a complaint raised under such a procedure prior to 1st April 2012.
 
-(3) Where a complaint specified in paragraph (2) is connected with another complaint which is not so specified, the other complaint is to be dealt with in accordance with regulation 6A or 6B, as the case may be[^key-0834504e0d840d23f0da54ad8bc96476].
+(3) Where a complaint specified in paragraph (2) is connected with another complaint which is not so specified, the other complaint is to be dealt with in accordance with regulation 6A or 6B, as the case may be[^c-0834504e0d840d23f0da54ad8bc96476].
 
-### 8. Form of communications[^key-7a69c86335f760b6c853d19a76b48cd9]
+### 8. Form of communications[^c-7a69c86335f760b6c853d19a76b48cd9]
 
 Any communication which is required by these Regulations to be made to a complainant may be sent to the complainant electronically where the complainant—
 
@@ -190,7 +190,7 @@ Any communication which is required by these Regulations to be made to a complai
 
 ## PART 4 — TRANSITIONAL, SAVING AND CONSEQUENTIAL PROVISIONS
 
-### 9. Transitional provision in respect of former complaints[^key-f70e56c7981d660375dd83d69f954401]
+### 9. Transitional provision in respect of former complaints[^c-f70e56c7981d660375dd83d69f954401]
 
 (1) Where a complaint has been raised prior to 1st April 2012 it must be handled or continue to be handled in accordance with any former complaints legislation.
 
@@ -214,15 +214,15 @@ Edinburgh
 
 Regulation 9(4)
 
-### 1. Amendment of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004.[^key-1342845c81a55e0971c10738651f3957]
+### 1. Amendment of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004.[^c-1342845c81a55e0971c10738651f3957]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Amendment of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004.[^key-d608e395be849c6e0083768aba6aa684]
+### 2. Amendment of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004.[^c-d608e395be849c6e0083768aba6aa684]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of the National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006.[^key-87dc8378e28fd54fba73871a999388ba]
+### 3. Amendment of the National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006.[^c-87dc8378e28fd54fba73871a999388ba]
 
 (1) The National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006[^f00011] are amended as follows.
 
@@ -249,7 +249,7 @@ Regulation 9(4)
 
 (5) For paragraph 12 (co-operation with investigations) for “directions given under section 2(5) of the Act” substitute “section 15 of the Patient Rights (Scotland) Act 2011”.
 
-### 4. Amendment of the National Health Service (Discipline Committees) (Scotland) Regulations 2006.[^key-54e108dbdad69030820e57091ee98e61]
+### 4. Amendment of the National Health Service (Discipline Committees) (Scotland) Regulations 2006.[^c-54e108dbdad69030820e57091ee98e61]
 
 (1) The National Health Service (Discipline Committees) (Scotland) Regulations 2006[^f00012] are amended as follows.
 
@@ -267,7 +267,7 @@ Regulation 9(4)
 
 (5) In paragraph 6(5) (procedure at the hearing) of Schedule 2 (procedure for investigation by discipline committees), for “the investigation of the complaint” in each place it occurs, substitute “consideration as part of the hearing”.
 
-### 5. Amendment of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^key-7524e5bf2fc98412905eaec218f65e39]
+### 5. Amendment of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^c-7524e5bf2fc98412905eaec218f65e39]
 
 (1) Schedule 1 (terms of service for pharmacists and pharmacy contractors) to the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^f00013] is amended as follows.
 
@@ -292,7 +292,7 @@ Regulation 9(4)
 
 (4) In paragraph 13 (complaints) for “directions given under section 2(5) of the Act”, substitute “section 15 of the Patient Rights (Scotland) Act 2011”.
 
-### 6. Amendment of the National Health Service (General Dental Services) (Scotland) Regulations 2010[^key-40981f1d80231934116f97d7f12a32c1]
+### 6. Amendment of the National Health Service (General Dental Services) (Scotland) Regulations 2010[^c-40981f1d80231934116f97d7f12a32c1]
 
 (1) Schedule 1 (terms of service for dentists) to the National Health Service (General Dental Services) (Scotland) Regulations 2010[^f00014] is amended as follows.
 
@@ -345,13 +345,13 @@ The Schedule makes consequential amendments which are required to other legislat
 
 [^f00001]: Footnote: [2011 asp 5](https://www.legislation.gov.uk/asp/2011/5).
 
-[^key-936803cab39550df1c236f4b16079041]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/36/regulation/1) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
+[^c-936803cab39550df1c236f4b16079041]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/36/regulation/1) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
 
-[^key-2745ddb9389129d1614081bc65dbd204]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/2) inserted (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
+[^c-2745ddb9389129d1614081bc65dbd204]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/2) inserted (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
 
-[^key-2735fd1611a8a7d40cd7d1159676d07a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/2) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/66/regulation/1/2), [sch. 10 para. 7(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/7/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2)) (as amended by [S.S.I. 2018/94](https://www.legislation.gov.uk/ssi/2018/94), [reg. 10(d)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/d))
+[^c-2735fd1611a8a7d40cd7d1159676d07a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/2) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/66/regulation/1/2), [sch. 10 para. 7(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/7/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2)) (as amended by [S.S.I. 2018/94](https://www.legislation.gov.uk/ssi/2018/94), [reg. 10(d)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/d))
 
-[^key-a32258931cde540a22c1e8897ce93d52]: Textual amendment: Words in reg. 1(2) substituted (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/regulation/1/2), [sch. 8 para. 5(2)](https://www.legislation.gov.uk/ssi/2018/67/schedule/8/paragraph/5/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2)) (as amended by [S.S.I. 2018/94](https://www.legislation.gov.uk/ssi/2018/94), [reg. 12](https://www.legislation.gov.uk/ssi/2018/94/regulation/12))
+[^c-a32258931cde540a22c1e8897ce93d52]: Textual amendment: Words in reg. 1(2) substituted (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/regulation/1/2), [sch. 8 para. 5(2)](https://www.legislation.gov.uk/ssi/2018/67/schedule/8/paragraph/5/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2)) (as amended by [S.S.I. 2018/94](https://www.legislation.gov.uk/ssi/2018/94), [reg. 12](https://www.legislation.gov.uk/ssi/2018/94/regulation/12))
 
 [^f00004]: Footnote: [S.S.I. 2006/135](https://www.legislation.gov.uk/ssi/2006/135). Paragraph 11 was amended by [S.S.I. 2006/329](https://www.legislation.gov.uk/ssi/2006/329) and [2007/193](https://www.legislation.gov.uk/ssi/2007/193).
 
@@ -359,54 +359,54 @@ The Schedule makes consequential amendments which are required to other legislat
 
 [^f00006]: Footnote: [S.S.I. 2010/208](https://www.legislation.gov.uk/ssi/2010/208).
 
-[^key-e81544ff03a990fa60aefaf1e36662f1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/36/regulation/2) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
+[^c-e81544ff03a990fa60aefaf1e36662f1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/36/regulation/2) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
 
-[^key-54505a1c073d7b02ff6a7dacab5480f1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/36/regulation/3) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
+[^c-54505a1c073d7b02ff6a7dacab5480f1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/36/regulation/3) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
 
-[^key-dd1d6ec2bf2f06a5fc74ebebb5464e37]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/36/regulation/4) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
+[^c-dd1d6ec2bf2f06a5fc74ebebb5464e37]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/36/regulation/4) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
 
-[^key-87258d3d14fbf0ac21abb8efc19c582a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2012/36/regulation/5) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
+[^c-87258d3d14fbf0ac21abb8efc19c582a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2012/36/regulation/5) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
 
-[^key-567832693d9f8d3c97ee7b6f56b01510]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/5/1) substituted (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
+[^c-567832693d9f8d3c97ee7b6f56b01510]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/5/1) substituted (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
 
-[^key-be50cbee5d3c0cb0ef3c980d79bf49c5]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2012/36/regulation/5/2) deleted (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
+[^c-be50cbee5d3c0cb0ef3c980d79bf49c5]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2012/36/regulation/5/2) deleted (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
 
-[^key-805d51fb3f2b05bba48d86c829a6449a]: Textual amendment: [Regs. 6A-6D](https://www.legislation.gov.uk/ssi/2012/36/regulation/6A) substituted for [reg. 6](https://www.legislation.gov.uk/ssi/2012/36/regulation/6) (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
+[^c-805d51fb3f2b05bba48d86c829a6449a]: Textual amendment: [Regs. 6A-6D](https://www.legislation.gov.uk/ssi/2012/36/regulation/6A) substituted for [reg. 6](https://www.legislation.gov.uk/ssi/2012/36/regulation/6) (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
 
-[^key-16370d3e8c896331fecddf3533fa7fbe]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2012/36/regulation/7) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
+[^c-16370d3e8c896331fecddf3533fa7fbe]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2012/36/regulation/7) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
 
-[^key-0d47dc88cb82898f8c6d8b64a1ab5c95]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2012/36/regulation/7) heading inserted (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
+[^c-0d47dc88cb82898f8c6d8b64a1ab5c95]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2012/36/regulation/7) heading inserted (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
 
 [^f00007]: Footnote: [2002 asp 13](https://www.legislation.gov.uk/asp/2002/13).
 
-[^key-ff93ab6f6297a18441aa923e8d513b8a]: Textual amendment: Words in [reg. 7(2)(f)](https://www.legislation.gov.uk/ssi/2012/36/regulation/7/2/f) substituted (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/7/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
+[^c-ff93ab6f6297a18441aa923e8d513b8a]: Textual amendment: Words in [reg. 7(2)(f)](https://www.legislation.gov.uk/ssi/2012/36/regulation/7/2/f) substituted (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/7/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
 
-[^key-87eb173931d8b8236bf186043fdf2ae0]: Textual amendment: [Reg. 7(2)(fa)](https://www.legislation.gov.uk/ssi/2012/36/regulation/7/2/fa) inserted (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/7/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
+[^c-87eb173931d8b8236bf186043fdf2ae0]: Textual amendment: [Reg. 7(2)(fa)](https://www.legislation.gov.uk/ssi/2012/36/regulation/7/2/fa) inserted (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/7/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
 
-[^key-0834504e0d840d23f0da54ad8bc96476]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/ssi/2012/36/regulation/7/3) substituted (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(8)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/8) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
+[^c-0834504e0d840d23f0da54ad8bc96476]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/ssi/2012/36/regulation/7/3) substituted (1.4.2017) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/401)](https://www.legislation.gov.uk/ssi/2016/401), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/401/regulation/1/1), [2(8)](https://www.legislation.gov.uk/ssi/2016/401/regulation/2/8) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/401/regulation/3))
 
-[^key-7a69c86335f760b6c853d19a76b48cd9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2012/36/regulation/8) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
+[^c-7a69c86335f760b6c853d19a76b48cd9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2012/36/regulation/8) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
 
-[^key-f70e56c7981d660375dd83d69f954401]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2012/36/regulation/9) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
+[^c-f70e56c7981d660375dd83d69f954401]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2012/36/regulation/9) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
 
 [^f00008]: Footnote: [1985 c.42](https://www.legislation.gov.uk/ukpga/1985/42). This Act is repealed by section 11 of the Act.
 
-[^key-1342845c81a55e0971c10738651f3957]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/1) revoked (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/66/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+[^c-1342845c81a55e0971c10738651f3957]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/1) revoked (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/66/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
 
-[^key-d608e395be849c6e0083768aba6aa684]: Textual amendment: Sch. para. 2 revoked (1.4.2018) by virtue of [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/regulation/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2018/67/schedule/7) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2)) (as amended by [S.S.I. 2018/94](https://www.legislation.gov.uk/ssi/2018/94), [reg. 12](https://www.legislation.gov.uk/ssi/2018/94/regulation/12))
+[^c-d608e395be849c6e0083768aba6aa684]: Textual amendment: Sch. para. 2 revoked (1.4.2018) by virtue of [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/regulation/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2018/67/schedule/7) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2)) (as amended by [S.S.I. 2018/94](https://www.legislation.gov.uk/ssi/2018/94), [reg. 12](https://www.legislation.gov.uk/ssi/2018/94/regulation/12))
 
-[^key-87dc8378e28fd54fba73871a999388ba]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/3) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
+[^c-87dc8378e28fd54fba73871a999388ba]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/3) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
 
 [^f00011]: Footnote: [S.S.I. 2006/135](https://www.legislation.gov.uk/ssi/2006/135).
 
-[^key-54e108dbdad69030820e57091ee98e61]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/4) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
+[^c-54e108dbdad69030820e57091ee98e61]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/4) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
 
 [^f00012]: Footnote: [S.S.I. 2006/330](https://www.legislation.gov.uk/ssi/2006/330).
 
-[^key-7524e5bf2fc98412905eaec218f65e39]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/5) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
+[^c-7524e5bf2fc98412905eaec218f65e39]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/5) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
 
 [^f00013]: Footnote: [S.S.I. 2009/183](https://www.legislation.gov.uk/ssi/2009/183).
 
-[^key-40981f1d80231934116f97d7f12a32c1]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/6) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
+[^c-40981f1d80231934116f97d7f12a32c1]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/6) in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1)
 
 [^f00014]: Footnote: [S.S.I. 2010/208](https://www.legislation.gov.uk/ssi/2010/208).

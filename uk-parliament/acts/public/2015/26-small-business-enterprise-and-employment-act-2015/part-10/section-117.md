@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Power for administrator to bring claim for fraudulent or wrongful trading[^key-6d6a13f2c98cf042423f4afd0d783fb6]
+## 117. Power for administrator to bring claim for fraudulent or wrongful trading[^c-6d6a13f2c98cf042423f4afd0d783fb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d6a13f2c98cf042423f4afd0d783fb6]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2015/26/section/117) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/j) (with [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/15))
+[^c-6d6a13f2c98cf042423f4afd0d783fb6]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2015/26/section/117) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/j) (with [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/15))

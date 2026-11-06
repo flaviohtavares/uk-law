@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Additional provisions relating to mines[^key-10ca5e808208e50bb2f494d81dabd8b0]
+## 8. Additional provisions relating to mines[^c-10ca5e808208e50bb2f494d81dabd8b0]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The provisions of Schedule 5 (which contains additional provisions relating to m
 
 ## Annotations
 
-[^key-10ca5e808208e50bb2f494d81dabd8b0]: Commencement: Reg. 8 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-10ca5e808208e50bb2f494d81dabd8b0]: Commencement: Reg. 8 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)

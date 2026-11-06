@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Northern Ireland[^key-985ba6955548b78beafcdd1d5834eee5][^key-b316b00c48398c6a4ecca28d38fe1fc1]
+## 167. Northern Ireland[^c-985ba6955548b78beafcdd1d5834eee5][^c-b316b00c48398c6a4ecca28d38fe1fc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In the application of this Part to Northern Ireland—
 
 ## Annotations
 
-[^key-985ba6955548b78beafcdd1d5834eee5]: Commencement: S. 167 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-985ba6955548b78beafcdd1d5834eee5]: Commencement: S. 167 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
 
-[^key-b316b00c48398c6a4ecca28d38fe1fc1]: Modification: S. 167 applied (with modifications) (23.11.2009) by [Scottish and Northern Ireland Banknote Regulations 2009 (S.I. 2009/3056)](https://www.legislation.gov.uk/uksi/2009/3056), [reg. 1](https://www.legislation.gov.uk/uksi/2009/3056/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2009/3056/schedule/1/paragraph/4)
+[^c-b316b00c48398c6a4ecca28d38fe1fc1]: Modification: S. 167 applied (with modifications) (23.11.2009) by [Scottish and Northern Ireland Banknote Regulations 2009 (S.I. 2009/3056)](https://www.legislation.gov.uk/uksi/2009/3056), [reg. 1](https://www.legislation.gov.uk/uksi/2009/3056/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2009/3056/schedule/1/paragraph/4)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**21.**[^key-17878a6ed6845de644c9a658c3b23c7c] In article 3A of the Service Departments Registers Order 1959[^f00043]—
+**21.**[^c-17878a6ed6845de644c9a658c3b23c7c] In article 3A of the Service Departments Registers Order 1959[^f00043]—
 
 - (a) in paragraph (1), in the words before sub-paragraph (a), after “married to” insert “, or civil partners of,”;
 - (b) in paragraph (3), in the words before sub-paragraph (a), after “married to” insert “, or civil partners of,”.
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17878a6ed6845de644c9a658c3b23c7c]: Commencement: Reg. 21 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-17878a6ed6845de644c9a658c3b23c7c]: Commencement: Reg. 21 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00043]: Footnote: [S.I. 1959/406](https://www.legislation.gov.uk/uksi/1959/406). Article 3A was inserted by [S.I. 2007/908](https://www.legislation.gov.uk/uksi/2007/908), and amended by [S.I. 2009/1736](https://www.legislation.gov.uk/uksi/2009/1736).

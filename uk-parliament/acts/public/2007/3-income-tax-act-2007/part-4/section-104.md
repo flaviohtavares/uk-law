@@ -37,12 +37,12 @@ summary: ''
 - (a) the sum of the amount of the relief given and the total amount of all other relevant relief given, less
 - (b) the total amount of recovered relief,
 
-must not exceed the individual's contribution to the firm as at the end of [^key-a5a89a0722045e1f2e695c70c8b6d43d]... the relevant tax year (see section 105).
+must not exceed the individual's contribution to the firm as at the end of [^c-a5a89a0722045e1f2e695c70c8b6d43d]... the relevant tax year (see section 105).
 
 (5) “**Relevant relief**” means sideways relief or capital gains relief given to the individual for—
 
 - (a) a loss made in the relevant trade in a tax year at a time during which the individual carries on that trade as a limited partner, or
-- (b) a loss made in the relevant trade in an early tax year during which the individual carries on that trade as a non-active partner [^key-ae9eaadecc198d5b6e82233bd8fe5df6]....
+- (b) a loss made in the relevant trade in an early tax year during which the individual carries on that trade as a non-active partner [^c-ae9eaadecc198d5b6e82233bd8fe5df6]....
 
 (6) “**The total amount of recovered relief**” means the total amount of income treated as received by the individual under section 792 (recovery of excess relief) as a result of the application of that section in relation to claims for relief for losses made by the individual in the relevant trade.
 
@@ -53,6 +53,6 @@ must not exceed the individual's contribution to the firm as at the end of [^key
 
 ## Annotations
 
-[^key-a5a89a0722045e1f2e695c70c8b6d43d]: Textual amendment: Words in [s. 104(4)](https://www.legislation.gov.uk/ukpga/2007/3/section/104/4) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 50](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/50), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-a5a89a0722045e1f2e695c70c8b6d43d]: Textual amendment: Words in [s. 104(4)](https://www.legislation.gov.uk/ukpga/2007/3/section/104/4) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 50](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/50), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
 
-[^key-ae9eaadecc198d5b6e82233bd8fe5df6]: Textual amendment: Words in s. 104(5) repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 10(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/10/a), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21), [Sch. 27 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/1)
+[^c-ae9eaadecc198d5b6e82233bd8fe5df6]: Textual amendment: Words in s. 104(5) repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 10(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/10/a), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21), [Sch. 27 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/1)

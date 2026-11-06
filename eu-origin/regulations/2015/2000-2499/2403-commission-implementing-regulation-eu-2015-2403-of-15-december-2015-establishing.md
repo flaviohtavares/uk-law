@@ -101,7 +101,7 @@ HAS ADOPTED THIS REGULATION:
 
 1.[^c000001] This Regulation shall apply to firearms of all categories listed in Part II of Annex I to Directive 91/477/EEC.
 
-2. This Regulation shall not apply to firearms deactivated prior to 8 April 2016[^key-bf6a88395e265ebafaeaac6710518066], unless those firearms are transferred outside of the United Kingdom[^key-ee7a1a158be20543975ec381cf610261] or placed on the market.
+2. This Regulation shall not apply to firearms deactivated prior to 8 April 2016[^c-bf6a88395e265ebafaeaac6710518066], unless those firearms are transferred outside of the United Kingdom[^c-ee7a1a158be20543975ec381cf610261] or placed on the market.
 
 ## Article 2. Persons and entities authorised to deactivate firearms
 
@@ -109,46 +109,46 @@ Deactivation of firearms shall be carried out by public or private entities or b
 
 ## Article 3. Verification and certification of deactivation of firearms
 
-1. The appropriate authority[^key-85caf678b058b24d8795565c3a39b9d6] shall designate a competent public authority to verify that the deactivation of the firearm has been carried out in accordance with the technical specifications set out in Annex I (‘the verifying entity’).
+1. The appropriate authority[^c-85caf678b058b24d8795565c3a39b9d6] shall designate a competent public authority to verify that the deactivation of the firearm has been carried out in accordance with the technical specifications set out in Annex I (‘the verifying entity’).
 
-2. Where the verifying entity is also authorised to deactivate firearms, the appropriate authority[^key-7b5b91ff32e3b2b4b467399fec527088] shall ensure a clear separation of those tasks and of the persons carrying them out within that entity.
+2. Where the verifying entity is also authorised to deactivate firearms, the appropriate authority[^c-7b5b91ff32e3b2b4b467399fec527088] shall ensure a clear separation of those tasks and of the persons carrying them out within that entity.
 
-3.[^key-8f1de31e63c662805b7475e3f8d6c213] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-8f1de31e63c662805b7475e3f8d6c213] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-4. Where the deactivation of the firearm has been carried out in accordance with the technical specifications set out in Annex I, the verifying entity shall issue to the owner of the firearm certification in writing in accordance with the relevant legislation[^key-26dc99981b7e77286f84dce49508bd64]. [^key-21756bd6b3020f5bc501cb7ed6c2bf6c]...
+4. Where the deactivation of the firearm has been carried out in accordance with the technical specifications set out in Annex I, the verifying entity shall issue to the owner of the firearm certification in writing in accordance with the relevant legislation[^c-26dc99981b7e77286f84dce49508bd64]. [^c-21756bd6b3020f5bc501cb7ed6c2bf6c]...
 
 5. The owner of a deactivated firearm shall retain the deactivation certificate at all times. If the deactivated firearm is placed on the market, it shall be accompanied by the deactivation certificate.
 
-6. The appropriate authority[^key-75f37d83b464ed4b36257ed7e0a5680c] shall ensure that a record is kept of the certificates issued for deactivated firearms, with an indication of the date of deactivation and the certificate number, for a period of at least 20 years.
+6. The appropriate authority[^c-75f37d83b464ed4b36257ed7e0a5680c] shall ensure that a record is kept of the certificates issued for deactivated firearms, with an indication of the date of deactivation and the certificate number, for a period of at least 20 years.
 
-7.[^key-013572b8770ce281c8fae810e71adb98] In this Article—
+7.[^c-013572b8770ce281c8fae810e71adb98] In this Article—
 
 - “**the appropriate authority**” means, the Secretary of State;
 - “**the relevant legislation**” means, section 8(b) of the Firearms (Amendment) Act 1988.
 
-## Article 4. Requests for assistance[^key-0225d51d479feb15063df93f928a9dd1]
+## Article 4. Requests for assistance[^c-0225d51d479feb15063df93f928a9dd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 5. Marking of deactivated firearms
 
-(1.)[^key-5baf1c2f3239e577860edb6a5b632cc5] Deactivated firearms shall be marked with a common unique marking in accordance with the relevant legislation[^key-ac21e3eafab7fbc01f28832235e78d23] to indicate that they have been deactivated in accordance with the technical specifications set out in Annex I. The marking shall be affixed by the verifying entity to all essential components modified for the deactivation of the firearm and shall fulfil the following criteria:
+(1.)[^c-5baf1c2f3239e577860edb6a5b632cc5] Deactivated firearms shall be marked with a common unique marking in accordance with the relevant legislation[^c-ac21e3eafab7fbc01f28832235e78d23] to indicate that they have been deactivated in accordance with the technical specifications set out in Annex I. The marking shall be affixed by the verifying entity to all essential components modified for the deactivation of the firearm and shall fulfil the following criteria:
 
 - ((a)) it is clearly visible and irremovable;
-- ((b)) [^key-3e3f7cc9e9a5307201f2d2c5e7bd6673]...
+- ((b)) [^c-3e3f7cc9e9a5307201f2d2c5e7bd6673]...
 - ((c)) the original serial number(s) of the firearm are maintained.
 
-(2.) In this Article, “[^key-0857a94bb35812b8ca04143c697197e2]**the relevant legislation**” means, section 8(a) of the Firearms (Amendment) Act 1988.
+(2.) In this Article, “[^c-0857a94bb35812b8ca04143c697197e2]**the relevant legislation**” means, section 8(a) of the Firearms (Amendment) Act 1988.
 
-## Article 6. Additional deactivation measures[^key-3d102afd9bcdf18bf74fa5f63ac08db4]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 7. Transfer of deactivated firearms within the Union[^key-449bd33e0da7d89df0dd390040a3945e]
+## Article 6. Additional deactivation measures[^c-3d102afd9bcdf18bf74fa5f63ac08db4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Notification requirements[^key-3cab520529662c6c5d67f85f909a8d94]
+## Article 7. Transfer of deactivated firearms within the Union[^c-449bd33e0da7d89df0dd390040a3945e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 8. Notification requirements[^c-3cab520529662c6c5d67f85f909a8d94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -158,7 +158,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 8 April 2016.
 
-[^key-401a3aa4cea9da83640afafedb3ac2f0]...
+[^c-401a3aa4cea9da83640afafedb3ac2f0]...
 
 ## ANNEX I — Technical specifications for the deactivation of firearms
 
@@ -167,8 +167,8 @@ It shall apply from 8 April 2016.
   - Table II sets out the general principles to be followed when rendering firearms irreversibly inoperable,
   - Table III describes the specific operations per type of firearm to be performed to render the firearms irreversibly inoperable.
 - The technical specifications for the deactivation of firearms should prevent the reactivation of firearms with the use of ordinary tools.
-- The technical specifications for the deactivation of firearms focus on the deactivation of essential components of firearms [^key-5ae42655c06889c665ab2c9d4f0feadb].... The technical specifications for the deactivation of firearms set out in Annex I also apply to the deactivation of exchange barrels which, being separate objects, are technically linked with and intended to be mounted on the firearm to be deactivated.
-- [^key-14bc29759efe72a630606012ae6469e2]...
+- The technical specifications for the deactivation of firearms focus on the deactivation of essential components of firearms [^c-5ae42655c06889c665ab2c9d4f0feadb].... The technical specifications for the deactivation of firearms set out in Annex I also apply to the deactivation of exchange barrels which, being separate objects, are technically linked with and intended to be mounted on the firearm to be deactivated.
+- [^c-14bc29759efe72a630606012ae6469e2]...
 
 *Table I*
 
@@ -378,11 +378,11 @@ Hardness of inserts: Deactivating entity has to ensure that pins/plugs/rods used
 </tbody>
 </table>
 
-## ANNEX II — Template for marking of deactivated firearms[^key-7f06eec9714742ec21a3972371428cad]
+## ANNEX II — Template for marking of deactivated firearms[^c-7f06eec9714742ec21a3972371428cad]
 
 **No longer in force.**
 
-[^key-7f06eec9714742ec21a3972371428cad]
+[^c-7f06eec9714742ec21a3972371428cad]
 
 [image: see source](https://www.legislation.gov.uk/eur/2015/2403/images/eur_20152403_2018-06-28_en_001)
 
@@ -402,11 +402,11 @@ Hardness of inserts: Deactivating entity has to ensure that pins/plugs/rods used
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7f06eec9714742ec21a3972371428cad]
+[^c-7f06eec9714742ec21a3972371428cad]
 
 The full mark will be affixed only on the frame of the firearm, while the deactivation mark (1) and the country of deactivation (2) will be affixed on all other essential components.
 
-## ANNEX III — Model certificate for deactivated firearms — (this certificate should be prepared on non-falsifiable paper)[^key-6d487e0a43e6debf6ac9826aecc94253]
+## ANNEX III — Model certificate for deactivated firearms — (this certificate should be prepared on non-falsifiable paper)[^c-6d487e0a43e6debf6ac9826aecc94253]
 
 **No longer in force.**
 
@@ -422,46 +422,46 @@ The full mark will be affixed only on the frame of the firearm, while the deacti
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2018/337 of 5 March 2018 amending Implementing Regulation (EU) 2015/2403 establishing common guidelines on deactivation standards and techniques for ensuring that deactivated firearms are rendered irreversibly inoperable (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2018/337).
 
-[^key-bf6a88395e265ebafaeaac6710518066]: Textual amendment: Words in Art. 1(2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(2)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf6a88395e265ebafaeaac6710518066]: Textual amendment: Words in Art. 1(2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(2)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee7a1a158be20543975ec381cf610261]: Textual amendment: Words in Art. 1(2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(2)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee7a1a158be20543975ec381cf610261]: Textual amendment: Words in Art. 1(2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(2)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-85caf678b058b24d8795565c3a39b9d6]: Textual amendment: Words in Art. 3(1) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(3)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-85caf678b058b24d8795565c3a39b9d6]: Textual amendment: Words in Art. 3(1) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(3)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7b5b91ff32e3b2b4b467399fec527088]: Textual amendment: Words in Art. 3(2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(3)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b5b91ff32e3b2b4b467399fec527088]: Textual amendment: Words in Art. 3(2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(3)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8f1de31e63c662805b7475e3f8d6c213]: Textual amendment: Art. 3(3) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(3)(c)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f1de31e63c662805b7475e3f8d6c213]: Textual amendment: Art. 3(3) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(3)(c)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-26dc99981b7e77286f84dce49508bd64]: Textual amendment: Words in Art. 3(4) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(3)(d)(i)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/3/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26dc99981b7e77286f84dce49508bd64]: Textual amendment: Words in Art. 3(4) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(3)(d)(i)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/3/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-21756bd6b3020f5bc501cb7ed6c2bf6c]: Textual amendment: Words in Art. 3(4) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/3/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-21756bd6b3020f5bc501cb7ed6c2bf6c]: Textual amendment: Words in Art. 3(4) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/3/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-75f37d83b464ed4b36257ed7e0a5680c]: Textual amendment: Words in Art. 3(6) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(3)(e)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-75f37d83b464ed4b36257ed7e0a5680c]: Textual amendment: Words in Art. 3(6) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(3)(e)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-013572b8770ce281c8fae810e71adb98]: Textual amendment: [Art. 3(7)](https://www.legislation.gov.uk/eur/2015/2403/article/3/7) inserted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(3)(f)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/3/f) (as amended by [S.I. 2020/1371](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/2/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-013572b8770ce281c8fae810e71adb98]: Textual amendment: [Art. 3(7)](https://www.legislation.gov.uk/eur/2015/2403/article/3/7) inserted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(3)(f)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/3/f) (as amended by [S.I. 2020/1371](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/2/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0225d51d479feb15063df93f928a9dd1]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2015/2403/article/4) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(4)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0225d51d479feb15063df93f928a9dd1]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2015/2403/article/4) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(4)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5baf1c2f3239e577860edb6a5b632cc5]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2015/2403/article/5) renumbered as Art. 5(1) (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(5)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5baf1c2f3239e577860edb6a5b632cc5]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2015/2403/article/5) renumbered as Art. 5(1) (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(5)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ac21e3eafab7fbc01f28832235e78d23]: Textual amendment: Words in [Art. 5(1)](https://www.legislation.gov.uk/eur/2015/2403/article/5/1) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(5)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ac21e3eafab7fbc01f28832235e78d23]: Textual amendment: Words in [Art. 5(1)](https://www.legislation.gov.uk/eur/2015/2403/article/5/1) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(5)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3e3f7cc9e9a5307201f2d2c5e7bd6673]: Textual amendment: [Art. 5(1)(b)](https://www.legislation.gov.uk/eur/2015/2403/article/5/1/b) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(5)(c)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e3f7cc9e9a5307201f2d2c5e7bd6673]: Textual amendment: [Art. 5(1)(b)](https://www.legislation.gov.uk/eur/2015/2403/article/5/1/b) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(5)(c)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0857a94bb35812b8ca04143c697197e2]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/eur/2015/2403/article/5/2) inserted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(5)(d)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/5/d) (as amended by [S.I. 2020/1371](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0857a94bb35812b8ca04143c697197e2]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/eur/2015/2403/article/5/2) inserted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(5)(d)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/5/d) (as amended by [S.I. 2020/1371](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3d102afd9bcdf18bf74fa5f63ac08db4]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2015/2403/article/6) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(6)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3d102afd9bcdf18bf74fa5f63ac08db4]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2015/2403/article/6) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(6)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-449bd33e0da7d89df0dd390040a3945e]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2015/2403/article/7) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(7)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-449bd33e0da7d89df0dd390040a3945e]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2015/2403/article/7) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(7)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3cab520529662c6c5d67f85f909a8d94]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2015/2403/article/8) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(8)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3cab520529662c6c5d67f85f909a8d94]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2015/2403/article/8) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(8)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-401a3aa4cea9da83640afafedb3ac2f0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/2403/signature) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(9)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-401a3aa4cea9da83640afafedb3ac2f0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/2403/signature) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(9)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5ae42655c06889c665ab2c9d4f0feadb]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2015/2403/annex/I) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(10)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ae42655c06889c665ab2c9d4f0feadb]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2015/2403/annex/I) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(10)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-14bc29759efe72a630606012ae6469e2]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2015/2403/annex/I) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(10)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14bc29759efe72a630606012ae6469e2]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2015/2403/annex/I) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(10)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7f06eec9714742ec21a3972371428cad]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eur/2015/2403/annex/II) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(11)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f06eec9714742ec21a3972371428cad]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eur/2015/2403/annex/II) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(11)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6d487e0a43e6debf6ac9826aecc94253]: Textual amendment: [Annex 3](https://www.legislation.gov.uk/eur/2015/2403/annex/III) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(12)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d487e0a43e6debf6ac9826aecc94253]: Textual amendment: [Annex 3](https://www.legislation.gov.uk/eur/2015/2403/annex/III) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [58(12)](https://www.legislation.gov.uk/uksi/2019/742/regulation/58/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

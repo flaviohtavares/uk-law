@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Liability to pay fee and waiver of fees[^key-81d3624e348509a847cc6ff4dba17aea]
+## 50. Liability to pay fee and waiver of fees[^c-81d3624e348509a847cc6ff4dba17aea]
 
 *Extent: E+W*
 
@@ -49,10 +49,10 @@ summary: ''
 (5) In paragraph (4), “couple” (“*cwpl*”) means—
 
 - (a) two people who are either married to, or civil partners of, each other and who are members of the same household; or
-- (b) two people who are living together as if they are a married couple or civil partners[^key-6dcbb708a1642c95734cf2c4a8d4ec1d].
+- (b) two people who are living together as if they are a married couple or civil partners[^c-6dcbb708a1642c95734cf2c4a8d4ec1d].
 
 ## Annotations
 
-[^key-81d3624e348509a847cc6ff4dba17aea]: Commencement: Reg. 50 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-81d3624e348509a847cc6ff4dba17aea]: Commencement: Reg. 50 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-6dcbb708a1642c95734cf2c4a8d4ec1d]: Textual amendment: Words in [reg. 50(5)(b)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/50/5/b) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 103(1)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/103/1)
+[^c-6dcbb708a1642c95734cf2c4a8d4ec1d]: Textual amendment: Words in [reg. 50(5)(b)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/50/5/b) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 103(1)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/103/1)

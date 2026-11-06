@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 59(3) and 60(15)
 
-### PART 1 — New proxy paper form[^key-85439185d61aa0433fef27e959cb5a69]
+### PART 1 — New proxy paper form[^c-85439185d61aa0433fef27e959cb5a69]
 
 *Front of form*
 
@@ -32,7 +32,7 @@ Regulations 59(3) and 60(15)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2022/1382/images/uksi_20221382_en_034)
 
-### PART 2 — Forms for use at a PCC election[^key-21837482fb5f51c09f23b85a61a2fe5a]
+### PART 2 — Forms for use at a PCC election[^c-21837482fb5f51c09f23b85a61a2fe5a]
 
 **Form 11: Official poll card**
 
@@ -64,6 +64,6 @@ Regulations 59(3) and 60(15)
 
 ## Annotations
 
-[^key-85439185d61aa0433fef27e959cb5a69]: Commencement: Sch. 10 Pt. 1 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-85439185d61aa0433fef27e959cb5a69]: Commencement: Sch. 10 Pt. 1 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
-[^key-21837482fb5f51c09f23b85a61a2fe5a]: Commencement: Sch. 10 Pt. 2 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-21837482fb5f51c09f23b85a61a2fe5a]: Commencement: Sch. 10 Pt. 2 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

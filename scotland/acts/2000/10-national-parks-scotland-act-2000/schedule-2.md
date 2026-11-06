@@ -157,11 +157,11 @@ An authority may—
 
 - (a) enter into contracts,
 - (b) carry on any business or undertaking,
-- (c) form or promote (whether alone or with others) companies under the Companies Act 2006[^key-179500c34d32307db14b9d6e776e10f2],
+- (c) form or promote (whether alone or with others) companies under the Companies Act 2006[^c-179500c34d32307db14b9d6e776e10f2],
 - (d) form partnerships with other persons,
 - (e) accept gifts or contributions,
 - (f) invest sums not immediately required in relation to the exercise of its functions.
 
 ## Annotations
 
-[^key-179500c34d32307db14b9d6e776e10f2]: Textual amendment: Words in Sch. 2 para. 15(c) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 186](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/186) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-179500c34d32307db14b9d6e776e10f2]: Textual amendment: Words in Sch. 2 para. 15(c) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 186](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/186) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

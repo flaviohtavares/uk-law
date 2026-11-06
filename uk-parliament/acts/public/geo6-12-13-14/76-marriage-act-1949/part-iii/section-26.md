@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Marriage of a man and a woman; marriage of same sex couples for which no opt-in necessary[^key-d83370e7180c26114c14b8230ddeae50]
+## 26. Marriage of a man and a woman; marriage of same sex couples for which no opt-in necessary[^c-d83370e7180c26114c14b8230ddeae50]
 
 *Extent: E+W*
 
-(1) The following marriages may be solemnized on the authority of a marriage schedule[^key-da08f56b8075806f5e958edda28b968a]—
+(1) The following marriages may be solemnized on the authority of a marriage schedule[^c-da08f56b8075806f5e958edda28b968a]—
 
 - (a) a marriage of a man and a woman, in a building registered under section 41, according to such form and ceremony as the persons to be married see fit to adopt;
 - (b) a marriage of any couple in the office of a superintendent registrar;
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d83370e7180c26114c14b8230ddeae50]: Textual amendment: S. 26 substituted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 3](https://www.legislation.gov.uk/ukpga/2013/30/section/3), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3) (with [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2013/30/schedule/7/paragraph/1)); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)
+[^c-d83370e7180c26114c14b8230ddeae50]: Textual amendment: S. 26 substituted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 3](https://www.legislation.gov.uk/ukpga/2013/30/section/3), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3) (with [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2013/30/schedule/7/paragraph/1)); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)
 
-[^key-da08f56b8075806f5e958edda28b968a]: Textual amendment: Words in s. 26(1) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/11/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-da08f56b8075806f5e958edda28b968a]: Textual amendment: Words in s. 26(1) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/11/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))

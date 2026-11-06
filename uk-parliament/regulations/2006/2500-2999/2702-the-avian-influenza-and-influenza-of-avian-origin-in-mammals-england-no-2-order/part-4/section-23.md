@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Tracing of meat and eggs from infected premises[^key-2717216a2069c51bcd9e2b4e00b1f27a]
+## 23. Tracing of meat and eggs from infected premises[^c-2717216a2069c51bcd9e2b4e00b1f27a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2717216a2069c51bcd9e2b4e00b1f27a]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/uksi/2006/2702/article/23) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(17)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/17)
+[^c-2717216a2069c51bcd9e2b4e00b1f27a]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/uksi/2006/2702/article/23) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(17)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/17)

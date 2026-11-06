@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. General duty of local authority to secure sufficient accommodation[^key-8b60039b7dea60bbb2b17bf4e46fe4c2]
+## 9. General duty of local authority to secure sufficient accommodation[^c-8b60039b7dea60bbb2b17bf4e46fe4c2]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ After section 22F of the 1989 Act (which is inserted by section 8) insert—
 
 ## Annotations
 
-[^key-8b60039b7dea60bbb2b17bf4e46fe4c2]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2008/23/section/9) in force at 1.4.2011 for E. by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(b)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/b)
+[^c-8b60039b7dea60bbb2b17bf4e46fe4c2]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2008/23/section/9) in force at 1.4.2011 for E. by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(b)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Charges[^key-566bd4087a404279a25c6083814e7527]
+## 42. Charges[^c-566bd4087a404279a25c6083814e7527]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) giving advice in relation to an application under or by virtue of this Order or any other advice in relation to the operation of CORSIA,
 - (b) considering an application under or by virtue of this Order,
-- (c) issuing or varying an Emissions Monitoring Plan[^key-b20f3d5ddbbdc2c7fff6483fb8bc73b3],
+- (c) issuing or varying an Emissions Monitoring Plan[^c-b20f3d5ddbbdc2c7fff6483fb8bc73b3],
 - (d) giving any notice or other document provided for by or under this Order,
 - (e) receiving any notice or other document provided for by or under this Order,
 - (f) monitoring compliance with this Order.
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-566bd4087a404279a25c6083814e7527]: Commencement: Art. 42 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-566bd4087a404279a25c6083814e7527]: Commencement: Art. 42 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
-[^key-b20f3d5ddbbdc2c7fff6483fb8bc73b3]: Textual amendment: Words in [art. 42(2)(c)](https://www.legislation.gov.uk/uksi/2021/534/article/42/2/c) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [23](https://www.legislation.gov.uk/uksi/2022/1050/article/23)
+[^c-b20f3d5ddbbdc2c7fff6483fb8bc73b3]: Textual amendment: Words in [art. 42(2)(c)](https://www.legislation.gov.uk/uksi/2021/534/article/42/2/c) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [23](https://www.legislation.gov.uk/uksi/2022/1050/article/23)

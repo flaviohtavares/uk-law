@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Notice of proposed change of manager of unit trust scheme[^key-3cb9bd6d7ba2bb6fa237df7662f1586e]
+## 41. Notice of proposed change of manager of unit trust scheme[^c-3cb9bd6d7ba2bb6fa237df7662f1586e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ the notice has effect after commencement as a notice given in accordance with se
 
 ## Annotations
 
-[^key-3cb9bd6d7ba2bb6fa237df7662f1586e]: Commencement: Art. 41 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-3cb9bd6d7ba2bb6fa237df7662f1586e]: Commencement: Art. 41 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

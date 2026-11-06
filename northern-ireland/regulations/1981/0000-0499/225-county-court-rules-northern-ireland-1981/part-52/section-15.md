@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) An application under Article 10 of the Order may be made by notice of application in Form 396 [^key-f10951b84fbf66867090d400adde8e86]...
+(1) An application under Article 10 of the Order may be made by notice of application in Form 396 [^c-f10951b84fbf66867090d400adde8e86]...
 
 (2) An application under the said Article 10 may be brought:
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f10951b84fbf66867090d400adde8e86]: Textual amendment: Words in Order 52 rule 15(1) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(21)(b)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/21/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-f10951b84fbf66867090d400adde8e86]: Textual amendment: Words in Order 52 rule 15(1) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(21)(b)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/21/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

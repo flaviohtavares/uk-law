@@ -32,7 +32,7 @@ summary: ''
 
 Protection Of Wrecks, England
 
-The Protection of Wrecks (Designation) (England) Order 2017 (revoked)[^key-6406be81dd771a880a42a9e24f1e0d69]
+The Protection of Wrecks (Designation) (England) Order 2017 (revoked)[^c-6406be81dd771a880a42a9e24f1e0d69]
 
 Made
 
@@ -46,33 +46,33 @@ Coming into force
 
 18th August 2017
 
-[^key-6406be81dd771a880a42a9e24f1e0d69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6406be81dd771a880a42a9e24f1e0d69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6406be81dd771a880a42a9e24f1e0d69]
+## 1. Citation and commencement[^c-6406be81dd771a880a42a9e24f1e0d69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Identification and sites and designation of restricted areas[^key-6406be81dd771a880a42a9e24f1e0d69]
+## 2. Identification and sites and designation of restricted areas[^c-6406be81dd771a880a42a9e24f1e0d69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-6406be81dd771a880a42a9e24f1e0d69]
+## 3. Revocations[^c-6406be81dd771a880a42a9e24f1e0d69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6406be81dd771a880a42a9e24f1e0d69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6406be81dd771a880a42a9e24f1e0d69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — SITES OF WRECKS[^key-6406be81dd771a880a42a9e24f1e0d69]
+## SCHEDULE 1 — SITES OF WRECKS[^c-6406be81dd771a880a42a9e24f1e0d69]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — REVOCATIONS[^key-6406be81dd771a880a42a9e24f1e0d69]
+## SCHEDULE 2 — REVOCATIONS[^c-6406be81dd771a880a42a9e24f1e0d69]
 
 Article 3
 
@@ -80,8 +80,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-6406be81dd771a880a42a9e24f1e0d69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6406be81dd771a880a42a9e24f1e0d69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6406be81dd771a880a42a9e24f1e0d69]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/773) revoked (6.9.2017) by [The Protection of Wrecks (Designation) (England) (No. 2) Order 2017 (S.I. 2017/872)](https://www.legislation.gov.uk/uksi/2017/872), [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/872/schedule/2)
+[^c-6406be81dd771a880a42a9e24f1e0d69]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/773) revoked (6.9.2017) by [The Protection of Wrecks (Designation) (England) (No. 2) Order 2017 (S.I. 2017/872)](https://www.legislation.gov.uk/uksi/2017/872), [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/872/schedule/2)

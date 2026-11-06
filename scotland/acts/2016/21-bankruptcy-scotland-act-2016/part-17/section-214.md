@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 214. Review of decision by Accountant in Bankruptcy: grounds of appeal[^key-b74df696963f8c9993de54423d9f0a6a]
+## 214. Review of decision by Accountant in Bankruptcy: grounds of appeal[^c-b74df696963f8c9993de54423d9f0a6a]
 
 *Extent: S*
 
@@ -45,7 +45,7 @@ summary: ''
 - (o) section 127(5),
 - (p) section 139(6),
 - (q) section 144(6),
-- (qa)[^key-729daf32b427007e30760f9185b353f9] section 147B(5),
+- (qa)[^c-729daf32b427007e30760f9185b353f9] section 147B(5),
 - (r) section 149(4),
 - (s) section 151(7),
 - (t) section 161(8),
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b74df696963f8c9993de54423d9f0a6a]: Commencement: S. 214 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-b74df696963f8c9993de54423d9f0a6a]: Commencement: S. 214 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-729daf32b427007e30760f9185b353f9]: Textual amendment: [S. 214(2)(qa)](https://www.legislation.gov.uk/asp/2016/21/section/214/2/qa) inserted (17.4.2025 for specified purposes, 25.6.2025 in so far as not already in force) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 12(3)](https://www.legislation.gov.uk/asp/2024/9/section/12/3), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/d)
+[^c-729daf32b427007e30760f9185b353f9]: Textual amendment: [S. 214(2)(qa)](https://www.legislation.gov.uk/asp/2016/21/section/214/2/qa) inserted (17.4.2025 for specified purposes, 25.6.2025 in so far as not already in force) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 12(3)](https://www.legislation.gov.uk/asp/2024/9/section/12/3), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/d)

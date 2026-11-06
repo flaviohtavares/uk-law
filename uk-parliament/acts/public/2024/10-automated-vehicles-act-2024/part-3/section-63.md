@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Powers in respect of persons[^key-d1f8ca2a17df0dc20cfed38464b80549]
+## 63. Powers in respect of persons[^c-d1f8ca2a17df0dc20cfed38464b80549]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1f8ca2a17df0dc20cfed38464b80549]: Commencement: S. 63 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-d1f8ca2a17df0dc20cfed38464b80549]: Commencement: S. 63 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

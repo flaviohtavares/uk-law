@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Special procedure: notification of severity assessment etc.[^key-bc53bcc74a5de6499378b9ba7c1179d9]
+## 48. Special procedure: notification of severity assessment etc.[^c-bc53bcc74a5de6499378b9ba7c1179d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ considers that giving the notification or providing a copy of the terms, or revi
 
 ## Annotations
 
-[^key-bc53bcc74a5de6499378b9ba7c1179d9]: Commencement: Reg. 48 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-bc53bcc74a5de6499378b9ba7c1179d9]: Commencement: Reg. 48 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

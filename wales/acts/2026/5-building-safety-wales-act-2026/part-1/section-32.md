@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Further provision about fire risk assessments[^key-d181b236d8514446bb90425f261b751e]
+## 32. Further provision about fire risk assessments[^c-d181b236d8514446bb90425f261b751e]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d181b236d8514446bb90425f261b751e]: Commencement: S. 32 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-d181b236d8514446bb90425f261b751e]: Commencement: S. 32 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

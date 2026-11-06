@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Power of Executive in relation to safety cases and related documents[^key-e1cf5d487c1cb9013838c7b9c87aa0f2]
+## 15. Power of Executive in relation to safety cases and related documents[^c-e1cf5d487c1cb9013838c7b9c87aa0f2]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1cf5d487c1cb9013838c7b9c87aa0f2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2007/247/regulation/15) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-e1cf5d487c1cb9013838c7b9c87aa0f2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2007/247/regulation/15) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

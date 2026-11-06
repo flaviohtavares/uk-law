@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Explanatory memoranda[^key-ecb495d68bb279c4f9ad201eb02d0881]
+## 24. Explanatory memoranda[^c-ecb495d68bb279c4f9ad201eb02d0881]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In laying a treaty before Parliament under this Part, a Minister shall accompany
 
 ## Annotations
 
-[^key-ecb495d68bb279c4f9ad201eb02d0881]: Commencement: S. 24 in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/b)
+[^c-ecb495d68bb279c4f9ad201eb02d0881]: Commencement: S. 24 in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Duty to grant warrants for entry: removal orders[^key-82b812599afb82b69a2418bb26ed89f3]
+## 39. Duty to grant warrants for entry: removal orders[^c-82b812599afb82b69a2418bb26ed89f3]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ the warrant for entry granted under subsection (1) in relation to the order is, 
 
 ## Annotations
 
-[^key-82b812599afb82b69a2418bb26ed89f3]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2007/10/section/39) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-82b812599afb82b69a2418bb26ed89f3]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2007/10/section/39) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

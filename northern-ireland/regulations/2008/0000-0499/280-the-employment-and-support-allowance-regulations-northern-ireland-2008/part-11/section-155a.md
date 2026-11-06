@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 155A. Absence where His Majesty’s Government provides public information to advise British nationals to leave a country or territory or arranges evacuation of British nationals from that country or territory[^key-7e16e43c7ae74746a390affc51e43b36]
+## 155A. Absence where His Majesty’s Government provides public information to advise British nationals to leave a country or territory or arranges evacuation of British nationals from that country or territory[^c-7e16e43c7ae74746a390affc51e43b36]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ A claimant is to continue to be entitled to an employment and support allowance 
 
 ## Annotations
 
-[^key-7e16e43c7ae74746a390affc51e43b36]: Textual amendment: [Reg. 155A](https://www.legislation.gov.uk/nisr/2008/280/regulation/155A) inserted (19.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/136)](https://www.legislation.gov.uk/nisr/2025/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1), [9(3)](https://www.legislation.gov.uk/nisr/2025/136/regulation/9/3)
+[^c-7e16e43c7ae74746a390affc51e43b36]: Textual amendment: [Reg. 155A](https://www.legislation.gov.uk/nisr/2008/280/regulation/155A) inserted (19.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/136)](https://www.legislation.gov.uk/nisr/2025/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1), [9(3)](https://www.legislation.gov.uk/nisr/2025/136/regulation/9/3)

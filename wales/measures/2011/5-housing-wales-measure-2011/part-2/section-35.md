@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Standards of performance[^key-24a9c61dba0f059de515a8a678b25b1b][^key-c90465156ed7fc392346420e38a50392]
+## 35. Standards of performance[^c-24a9c61dba0f059de515a8a678b25b1b][^c-c90465156ed7fc392346420e38a50392]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ Before section 34 of the Housing Act 1996 (but after the italic heading immediat
 
 ## Annotations
 
-[^key-24a9c61dba0f059de515a8a678b25b1b]: Commencement: [S. 35](https://www.legislation.gov.uk/mwa/2011/5/section/35) in force for specified purposes at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/a)
+[^c-24a9c61dba0f059de515a8a678b25b1b]: Commencement: [S. 35](https://www.legislation.gov.uk/mwa/2011/5/section/35) in force for specified purposes at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/a)
 
-[^key-c90465156ed7fc392346420e38a50392]: Commencement: [S. 35](https://www.legislation.gov.uk/mwa/2011/5/section/35) in force in so far as not already in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/a)
+[^c-c90465156ed7fc392346420e38a50392]: Commencement: [S. 35](https://www.legislation.gov.uk/mwa/2011/5/section/35) in force in so far as not already in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/a)

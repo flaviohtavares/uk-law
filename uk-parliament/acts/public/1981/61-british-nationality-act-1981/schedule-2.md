@@ -44,12 +44,12 @@ Section 36.
 
 (3) A person shall not be a British subject by virtue of this paragraph if by virtue of it he is a citizen of a description mentioned in sub-paragraph (2).
 
-### Persons aged 18 to 22 born in the United Kingdom or a British overseas territory after commencement[^key-8ee8fe6343980f1a228148c426d0ef7f][^c16733421]
+### Persons aged 18 to 22 born in the United Kingdom or a British overseas territory after commencement[^c-8ee8fe6343980f1a228148c426d0ef7f][^c16733421]
 
 **3.** (1) A person born in the United Kingdom or a British overseas territory[^c16734421] after commencement shall be entitled, on an application for his registration under this paragraph, to be so registered if the following requirements are satisfied in his case, namely—
 
 - (a) that he is and always has been stateless; and
-- (b) that on the date of the application he had attained the age of eighteen but[^key-b2702193fbf36f4e4f1c45238f4dac5d] [^c19267161]. . . was under the age of twenty-two; and
+- (b) that on the date of the application he had attained the age of eighteen but[^c-b2702193fbf36f4e4f1c45238f4dac5d] [^c19267161]. . . was under the age of twenty-two; and
 - (c) that he was in the United Kingdom or a British overseas territory (no matter which) at the beginning of the period of five years ending with that date and that (subject to paragraph 6) the number of days on which he was absent from both the United Kingdom and the British overseas territories[^c16734691] in that period does not exceed 450.
 
 (2) A person entitled to registration under this paragraph—
@@ -57,7 +57,7 @@ Section 36.
 - (a) shall be registered under it as a British citizen if, in the period of five years mentioned in sub-paragraph (1), the number of days wholly or partly spent by him in the United Kingdom exceeds the number of days wholly or partly spent by him in the British overseas territories;
 - (b) in any other case, shall be registered under it as a British overseas territories citizen[^c16786051].
 
-### Minors aged 5 to 17 born in the United Kingdom or a British overseas territory after commencement[^key-9ffc6f7aab3a9107a7626d9a02192aff]
+### Minors aged 5 to 17 born in the United Kingdom or a British overseas territory after commencement[^c-9ffc6f7aab3a9107a7626d9a02192aff]
 
 **3A.** (1) A person born in the United Kingdom or a British overseas territory after commencement is entitled, on an application for the person to be registered under this paragraph, to be so registered if—
 
@@ -112,7 +112,7 @@ that person would have been entitled under that section to be registered as such
 
 ### Supplementary
 
-**6.** If in the special circumstances of any particular case the Secretary of State thinks fit, he may for the purposes of paragraph 3 , 3A[^key-245ed398d78471450e23fcc40931f05d] or 4 treat the person who is the subject of the application as fulfilling the requirement specified in sub-paragraph (1)(c) of that paragraph although the number of days on which he was absent from both the United Kingdom and the British overseas territories[^c16744751] in the period there mentioned exceeds the number there mentioned.
+**6.** If in the special circumstances of any particular case the Secretary of State thinks fit, he may for the purposes of paragraph 3 , 3A[^c-245ed398d78471450e23fcc40931f05d] or 4 treat the person who is the subject of the application as fulfilling the requirement specified in sub-paragraph (1)(c) of that paragraph although the number of days on which he was absent from both the United Kingdom and the British overseas territories[^c16744751] in the period there mentioned exceeds the number there mentioned.
 
 ## Annotations
 
@@ -128,13 +128,13 @@ that person would have been entitled under that section to be registered as such
 
 [^c19267221]: Textual amendment: Words in [Sch. 2 para. 2(1)(b)](https://www.legislation.gov.uk/ukpga/1981/61/schedule/2/paragraph/2/1/b) ceased to have effect (1.7.2006 with effect as mentioned in [s. 162(5)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/5) of the amending Act) and repealed (prosp.) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 9(5)(b)](https://www.legislation.gov.uk/ukpga/2002/41/section/9/5/b), [161](https://www.legislation.gov.uk/ukpga/2002/41/section/161), [162](https://www.legislation.gov.uk/ukpga/2002/41/section/162), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2006/1498](https://www.legislation.gov.uk/uksi/2006/1498), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2006/1498/article/2/b), [3](https://www.legislation.gov.uk/uksi/2006/1498/article/3)
 
-[^key-8ee8fe6343980f1a228148c426d0ef7f]: Textual amendment: Words in Sch. 2 para. 3 cross-heading inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2022/36/section/11/2), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/9)
+[^c-8ee8fe6343980f1a228148c426d0ef7f]: Textual amendment: Words in Sch. 2 para. 3 cross-heading inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2022/36/section/11/2), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/9)
 
 [^c16733421]: Textual amendment: Words in Sch. 2 para. 3 cross-heading substituted (26.2.2002) by [British Overseas Territories Act 2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2002/8/section/1/1/b)
 
 [^c16734421]: Textual amendment: Words in Sch. 2 para. 3 substituted (26.2.2002) by [British Overseas Territories Act 2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2002/8/section/1/1/b)
 
-[^key-b2702193fbf36f4e4f1c45238f4dac5d]: Textual amendment: Words in Sch. 2 para. 3(1)(b) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2022/36/section/11/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/9)
+[^c-b2702193fbf36f4e4f1c45238f4dac5d]: Textual amendment: Words in Sch. 2 para. 3(1)(b) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2022/36/section/11/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/9)
 
 [^c19267161]: Textual amendment: Words in Sch. 2 para. 3(1)(b) repealed (1.4.2003 with effect as mentioned in [s. 162(4)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/4) of the amending Act) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 8](https://www.legislation.gov.uk/ukpga/2002/41/section/8), [161](https://www.legislation.gov.uk/ukpga/2002/41/section/161), [162](https://www.legislation.gov.uk/ukpga/2002/41/section/162), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2](https://www.legislation.gov.uk/uksi/2003/754/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/754/schedule/2) (as amended by [S.I. 2003/1040](https://www.legislation.gov.uk/uksi/2003/1040), [art. 2](https://www.legislation.gov.uk/uksi/2003/1040/article/2) and [S.I. 2003/1339](https://www.legislation.gov.uk/uksi/2003/1339), [art. 4](https://www.legislation.gov.uk/uksi/2003/1339/article/4)))
 
@@ -142,7 +142,7 @@ that person would have been entitled under that section to be registered as such
 
 [^c16786051]: Textual amendment: Words in Sch. 2 para. 3(2)(b) substituted (26.2.2002) by [British Overseas Territories Act 2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), [s. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2002/8/section/2/2/b)
 
-[^key-9ffc6f7aab3a9107a7626d9a02192aff]: Textual amendment: [Sch. 2 para. 3A](https://www.legislation.gov.uk/ukpga/1981/61/schedule/2/paragraph/3A) and cross-heading inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/11/4), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/9)
+[^c-9ffc6f7aab3a9107a7626d9a02192aff]: Textual amendment: [Sch. 2 para. 3A](https://www.legislation.gov.uk/ukpga/1981/61/schedule/2/paragraph/3A) and cross-heading inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/11/4), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/9)
 
 [^c16757521]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1981/61/schedule/2/paragraph/4) cross-heading substituted (26.2.2002) by [British Overseas Territories Act 2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2002/8/section/1/1/b)
 
@@ -156,6 +156,6 @@ that person would have been entitled under that section to be registered as such
 
 [^c8127791]: Marginal citation: [1964 c. 54](https://www.legislation.gov.uk/ukpga/1964/54).
 
-[^key-245ed398d78471450e23fcc40931f05d]: Textual amendment: Word in Sch. 2 para. 6 inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 11(5)](https://www.legislation.gov.uk/ukpga/2022/36/section/11/5), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/9)
+[^c-245ed398d78471450e23fcc40931f05d]: Textual amendment: Word in Sch. 2 para. 6 inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 11(5)](https://www.legislation.gov.uk/ukpga/2022/36/section/11/5), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/9)
 
 [^c16744751]: Textual amendment: Words in Sch. 2 para. 6 substituted (26.2.2002) by [British Overseas Territories Act 2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2002/8/section/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 272. Information to be contained in all notifications to the registrar of companies[^key-75bec0f0e5b0b02d3f71b3dd1b7008be]
+## 272. Information to be contained in all notifications to the registrar of companies[^c-75bec0f0e5b0b02d3f71b3dd1b7008be]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75bec0f0e5b0b02d3f71b3dd1b7008be]: Commencement: [Rule 272](https://www.legislation.gov.uk/nisr/2026/11/rule/272) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-75bec0f0e5b0b02d3f71b3dd1b7008be]: Commencement: [Rule 272](https://www.legislation.gov.uk/nisr/2026/11/rule/272) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

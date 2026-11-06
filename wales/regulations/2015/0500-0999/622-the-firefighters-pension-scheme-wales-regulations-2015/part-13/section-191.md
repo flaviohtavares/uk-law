@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 191. Reduction of benefits where annual allowance charge paid by scheme manager[^key-b49d4c8f466469547e3a2e4775fa14fe]
+## 191. Reduction of benefits where annual allowance charge paid by scheme manager[^c-b49d4c8f466469547e3a2e4775fa14fe]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b49d4c8f466469547e3a2e4775fa14fe]: Commencement: Reg. 191 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-b49d4c8f466469547e3a2e4775fa14fe]: Commencement: Reg. 191 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

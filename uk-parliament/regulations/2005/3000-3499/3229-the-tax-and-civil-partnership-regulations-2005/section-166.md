@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166.[^key-4f0524af17ad7f101a6b56de881633ce]
+## 166.[^c-4f0524af17ad7f101a6b56de881633ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 674 (taxable maximum: contribution-based jobseeker’s allowance), in
 
 ## Annotations
 
-[^key-4f0524af17ad7f101a6b56de881633ce]: Commencement: Reg. 166 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-4f0524af17ad7f101a6b56de881633ce]: Commencement: Reg. 166 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

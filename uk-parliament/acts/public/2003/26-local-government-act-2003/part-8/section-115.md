@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Overview and scrutiny committees: voting rights of co-opted members[^key-6ddc5db296d64b064e4c39118da84d3d]
+## 115. Overview and scrutiny committees: voting rights of co-opted members[^c-6ddc5db296d64b064e4c39118da84d3d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ddc5db296d64b064e4c39118da84d3d]: Textual amendment: S. 115 repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
+[^c-6ddc5db296d64b064e4c39118da84d3d]: Textual amendment: S. 115 repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)

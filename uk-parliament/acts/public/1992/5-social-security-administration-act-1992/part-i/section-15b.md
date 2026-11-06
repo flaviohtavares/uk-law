@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15B. Expenses of paying sums in respect of vehicle hire etc.[^key-9682dc8c0d7dd60c0e8ff47c07416800]
+## 15B. Expenses of paying sums in respect of vehicle hire etc.[^c-9682dc8c0d7dd60c0e8ff47c07416800]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9682dc8c0d7dd60c0e8ff47c07416800]: Textual amendment: [S. 15B](https://www.legislation.gov.uk/ukpga/1992/5/section/15B) and cross-heading inserted (30.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 22](https://www.legislation.gov.uk/ukpga/2016/7/section/22), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2016/394](https://www.legislation.gov.uk/uksi/2016/394), [reg. 6](https://www.legislation.gov.uk/uksi/2016/394/regulation/6)
+[^c-9682dc8c0d7dd60c0e8ff47c07416800]: Textual amendment: [S. 15B](https://www.legislation.gov.uk/ukpga/1992/5/section/15B) and cross-heading inserted (30.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 22](https://www.legislation.gov.uk/ukpga/2016/7/section/22), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2016/394](https://www.legislation.gov.uk/uksi/2016/394), [reg. 6](https://www.legislation.gov.uk/uksi/2016/394/regulation/6)

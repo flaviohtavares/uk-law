@@ -27,7 +27,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Rural Development Grants (Agriculture and Forestry) Regulations 2000 (revoked)[^key-013a1443815f0b4b7f49d94e1ddf6831]
+The Rural Development Grants (Agriculture and Forestry) Regulations 2000 (revoked)[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 Made
 
@@ -41,108 +41,108 @@ Coming into force
 
 29th November 2000
 
-[^key-013a1443815f0b4b7f49d94e1ddf6831]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-013a1443815f0b4b7f49d94e1ddf6831]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 1. Title, commencement and extent[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 2. Interpretation[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Assistance for rural development[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 3. Assistance for rural development[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Applications for approval of operations[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 4. Applications for approval of operations[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Approval of operations[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 5. Approval of operations[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Claims[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 6. Claims[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Payment[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 7. Payment[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Information[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 8. Information[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Powers of authorised persons[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 9. Powers of authorised persons[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Record keeping[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 10. Record keeping[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Breaches of obligations[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 11. Breaches of obligations[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Other cases in which recovery etc. powers apply[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 12. Other cases in which recovery etc. powers apply[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Minister’s powers[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 13. Minister’s powers[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Recovery of interest[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 14. Recovery of interest[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Recovery of payments[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 15. Recovery of payments[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Offences and penalties[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 16. Offences and penalties[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Revocations and transitional saving[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## 17. Revocations and transitional saving[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-013a1443815f0b4b7f49d94e1ddf6831]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-013a1443815f0b4b7f49d94e1ddf6831]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — MEANING OF “COMMUNITY LEGISLATION[^key-013a1443815f0b4b7f49d94e1ddf6831]
+## SCHEDULE — MEANING OF “COMMUNITY LEGISLATION[^c-013a1443815f0b4b7f49d94e1ddf6831]
 
 regulation 2(1)
 
-**1.**[^key-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-013a1443815f0b4b7f49d94e1ddf6831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-013a1443815f0b4b7f49d94e1ddf6831]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-013a1443815f0b4b7f49d94e1ddf6831]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-013a1443815f0b4b7f49d94e1ddf6831]: Textual amendment: Regulations revoked (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/526/schedule)
+[^c-013a1443815f0b4b7f49d94e1ddf6831]: Textual amendment: Regulations revoked (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/526/schedule)

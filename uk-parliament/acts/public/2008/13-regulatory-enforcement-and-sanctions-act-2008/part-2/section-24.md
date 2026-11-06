@@ -39,10 +39,10 @@ summary: ''
 
 (6) In subsection (4) “**transferred matter**” and “**Northern Ireland**” have the same meanings as in the Northern Ireland Act 1998 (c. 47).
 
-(7)[^key-df4ffd6fd85f729670df54be460a8fa2] References in this Part to “**the relevant function**”, in relation to the regulated person, are to the relevant function by reference to which the Secretary of State is satisfied that the person is within section 22(1) or (1A).
+(7)[^c-df4ffd6fd85f729670df54be460a8fa2] References in this Part to “**the relevant function**”, in relation to the regulated person, are to the relevant function by reference to which the Secretary of State is satisfied that the person is within section 22(1) or (1A).
 
 ## Annotations
 
 [^c2035393]: Commencement: S. 24 wholly in force at 6.4.2009; s. 24 not in force at Royal Assent see s. 76(1); s. 24(1)(b)(c) in force at 1.10.2008 by [S.I. 2008/2371](https://www.legislation.gov.uk/uksi/2008/2371), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/2371/article/2/b); s. 24 in force for all remaining purposes at 6.4.2009 by [S.I. 2009/550](https://www.legislation.gov.uk/uksi/2009/550), [art. 2](https://www.legislation.gov.uk/uksi/2009/550/article/2)
 
-[^key-df4ffd6fd85f729670df54be460a8fa2]: Textual amendment: S. 24(7) inserted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 67(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/67/6), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/d)
+[^c-df4ffd6fd85f729670df54be460a8fa2]: Textual amendment: S. 24(7) inserted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 67(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/67/6), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/d)

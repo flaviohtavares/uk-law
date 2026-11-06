@@ -49,7 +49,7 @@ but, for those provisions to apply, the claim to the right and that it has been 
 - (a)[^c20058581] the Merchant Shipping (Working Time: Inland Waterways) Regulations 2003.
 - (b)[^c20058621] the Fishing Vessels (Working Time: Sea-fishermen) Regulations 2004.
 - (c)[^c20372131] the Cross-border Railway Services (Working Time) Regulations 2008
-- (d)[^key-b8cf450b5794f47247f601c52f39a8f2] the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 ([S.I. 2018/58](https://www.legislation.gov.uk/uksi/2018/58)).
+- (d)[^c-b8cf450b5794f47247f601c52f39a8f2] the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 ([S.I. 2018/58](https://www.legislation.gov.uk/uksi/2018/58)).
 
 ## Annotations
 
@@ -67,4 +67,4 @@ but, for those provisions to apply, the claim to the right and that it has been 
 
 [^c20372131]: Textual amendment: S. 45A(5)(c) inserted (27.7.2008) by The Cross-border [Railway Services (Working Time) Regulations 2008 (S.I. 2008/1660)](https://www.legislation.gov.uk/uksi/2008/1660), [reg. 19](https://www.legislation.gov.uk/uksi/2008/1660/regulation/19), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2008/1660/schedule/3/paragraph/2/2)
 
-[^key-b8cf450b5794f47247f601c52f39a8f2]: Textual amendment: S. 45A(5)(d) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58)](https://www.legislation.gov.uk/uksi/2018/58), [reg. 1](https://www.legislation.gov.uk/uksi/2018/58/regulation/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2018/58/schedule/2/paragraph/2/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/58/regulation/3), [4](https://www.legislation.gov.uk/uksi/2018/58/regulation/4))
+[^c-b8cf450b5794f47247f601c52f39a8f2]: Textual amendment: S. 45A(5)(d) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58)](https://www.legislation.gov.uk/uksi/2018/58), [reg. 1](https://www.legislation.gov.uk/uksi/2018/58/regulation/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2018/58/schedule/2/paragraph/2/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/58/regulation/3), [4](https://www.legislation.gov.uk/uksi/2018/58/regulation/4))

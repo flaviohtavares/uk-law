@@ -36,11 +36,11 @@ An Act to make provision for and in connection with the repeal of the Health and
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Repeal of the Health and Social Care Levy Act 2021[^key-2e8dc423d17c19c46dffdf0f13e7f64d]
+## 1. Repeal of the Health and Social Care Levy Act 2021[^c-2e8dc423d17c19c46dffdf0f13e7f64d]
 
 The Health and Social Care Levy Act 2021 is repealed.
 
-## 2. Transitional NICs rates for tax year 2022-23 etc[^key-0ebe5dad4cfebcc9aa3ad0daf992a491]
+## 2. Transitional NICs rates for tax year 2022-23 etc[^c-0ebe5dad4cfebcc9aa3ad0daf992a491]
 
 (1) The following provisions of section 5 of the Health and Social Care Levy Act 2021 (modification of rates of national insurance contributions for tax year 2022-23) continue to have effect in relation to payments of earnings made before 6 November 2022—
 
@@ -62,7 +62,7 @@ The Health and Social Care Levy Act 2021 is repealed.
 - (a) further transitional provision, and
 - (b) a power to make consequential provision.
 
-## 3. Short title and interpretation[^key-a865537d9cfe0994d1f2ff4f31b1bdad]
+## 3. Short title and interpretation[^c-a865537d9cfe0994d1f2ff4f31b1bdad]
 
 (1) This Act may be cited as the Health and Social Care Levy (Repeal) Act 2022.
 
@@ -75,7 +75,7 @@ The Health and Social Care Levy Act 2021 is repealed.
 
 Section 2 (4)
 
-### 1. Class 1A contributions other than contributions in respect of certain termination awards and sporting testimonial payments[^key-fc2c0dc9e5a35109847458781358ffec]
+### 1. Class 1A contributions other than contributions in respect of certain termination awards and sporting testimonial payments[^c-fc2c0dc9e5a35109847458781358ffec]
 
 (1) This paragraph applies to Class 1A contributions payable for the tax year 2022-23 other than Class 1A contributions in respect of—
 
@@ -91,7 +91,7 @@ Section 2 (4)
 - “**relevant sporting testimonial payment**” means a sporting testimonial payment (within the meaning given by section 226E(6) of the Income Tax (Earnings and Pensions) Act 2003) to which regulation 40D(2) of the Social Security (Contributions) Regulations 2001 applies (requirement to make real time returns etc);
 - “**relevant termination award**” means a termination award (within the meaning given by section 10(12) of the Social Security Contributions and Benefits Act 1992) to which regulation 40C(2) of the Social Security (Contributions) Regulations 2001 applies (requirement to make real time returns etc).
 
-### 2. Class 1A contributions in respect of certain termination awards and sporting testimonial payments[^key-c803d25f27c3fbb50b41a7022e8b1918]
+### 2. Class 1A contributions in respect of certain termination awards and sporting testimonial payments[^c-c803d25f27c3fbb50b41a7022e8b1918]
 
 (1) This paragraph applies to Class 1A contributions payable for the tax year 2022-23 in respect of—
 
@@ -102,17 +102,17 @@ Section 2 (4)
 
 (3) Section 10 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 has effect in relation to Class 1A contributions to which this paragraph applies as if in subsection (5) for the words “for the tax year in question” there were substituted “that applies at the time of the payment of the general earnings or amount”.
 
-### 3. Class 1B contributions[^key-41989b7abe3dbbc26b7232d85ed08a8d]
+### 3. Class 1B contributions[^c-41989b7abe3dbbc26b7232d85ed08a8d]
 
 (1) Section 10A of the Social Security Contributions and Benefits Act 1992 (Class 1B contributions) has effect, for the tax year 2022-23, as if in subsection (6) for the words from “means” to the end there were substituted “is 14.53%”.
 
 (2) Section 10A of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Class 1B contributions) has effect, for the tax year 2022-23, as if in subsection (6) for the words from “means” to the end there were substituted “is 14.53%”.
 
-### 4. Primary Class 1 contributions payable at a reduced rate[^key-74763c43381caf9e02ac75a4883086ff]
+### 4. Primary Class 1 contributions payable at a reduced rate[^c-74763c43381caf9e02ac75a4883086ff]
 
 In regulation 1(2) of the Social Security (Contributions) (Amendment No. 2) Regulations 2022 ([S.I. 2022/416](https://www.legislation.gov.uk/uksi/2022/416)), for “for” substitute “in relation to payments of earnings made before 6 November in”.
 
-### 5. Directors[^key-2f473010b9517f971cff15fa3ba3ec0e]
+### 5. Directors[^c-2f473010b9517f971cff15fa3ba3ec0e]
 
 (1) This paragraph applies to an assessment of the amount of earnings-related contributions payable where that amount is assessed on the amount of earnings paid in an earnings period specified in regulation 8(2) to (5) of the Social Security (Contributions) Regulations 2001 (earnings periods for directors).
 
@@ -136,7 +136,7 @@ In regulation 1(2) of the Social Security (Contributions) (Amendment No. 2) Regu
 
 (6) In this paragraph “**earnings-related contributions**” has the meaning it has in the Social Security (Contributions) Regulations 2001 (see regulation 1(2)).
 
-### 6. Annual maximum contributions[^key-531d588674f647e1f3d2cbf55e234edd]
+### 6. Annual maximum contributions[^c-531d588674f647e1f3d2cbf55e234edd]
 
 (1) Regulation 21 of the Social Security (Contributions) Regulations 2001 (annual maxima for those with more than one employment) has effect, for the tax year 2022-23, as if—
 
@@ -157,7 +157,7 @@ In regulation 1(2) of the Social Security (Contributions) (Amendment No. 2) Regu
 
 (3) The Social Security (Contributions) (Amendment) Regulations 2022 ([S.I.2022/300](https://www.legislation.gov.uk/uksi/2022/300)) are revoked and are to be treated as never having come into force.
 
-### 7. Allocation of additional NICs in tax year 2022-23[^key-c571c6979fa817260be2ba7bcdcfeeb2]
+### 7. Allocation of additional NICs in tax year 2022-23[^c-c571c6979fa817260be2ba7bcdcfeeb2]
 
 (1) Section 162 of the Social Security Administration Act 1992 (destination of national insurance contributions) has effect as if—
 
@@ -227,11 +227,11 @@ In regulation 1(2) of the Social Security (Contributions) (Amendment No. 2) Regu
 
 .
 
-### 8. Exclusion of modifications from determination of rates for tax year 2023-24[^key-b7711e967a6a2e2076f9c10cf979aec2]
+### 8. Exclusion of modifications from determination of rates for tax year 2023-24[^c-b7711e967a6a2e2076f9c10cf979aec2]
 
 No modification of a percentage made by this Act is to be taken into account for the purposes of sections 143(4) and 145(3) of the Social Security Administration Act 1992 (limit on power to alter contribution rates by reference to rates in preceding tax year) in relation to the tax year 2023-24.
 
-### 9. Power to make consequential provision[^key-de73584cfbccb2b1efbcd35da08d1005]
+### 9. Power to make consequential provision[^c-de73584cfbccb2b1efbcd35da08d1005]
 
 (1) The Treasury may by regulations made by statutory instrument make such provision as they consider appropriate in consequence of this Act.
 
@@ -245,26 +245,26 @@ No modification of a percentage made by this Act is to be taken into account for
 
 ## Annotations
 
-[^key-2e8dc423d17c19c46dffdf0f13e7f64d]: Commencement: S. 1 in force at Royal Assent
+[^c-2e8dc423d17c19c46dffdf0f13e7f64d]: Commencement: S. 1 in force at Royal Assent
 
-[^key-0ebe5dad4cfebcc9aa3ad0daf992a491]: Commencement: S. 2 in force at Royal Assent
+[^c-0ebe5dad4cfebcc9aa3ad0daf992a491]: Commencement: S. 2 in force at Royal Assent
 
-[^key-a865537d9cfe0994d1f2ff4f31b1bdad]: Commencement: S. 3 in force at Royal Assent
+[^c-a865537d9cfe0994d1f2ff4f31b1bdad]: Commencement: S. 3 in force at Royal Assent
 
-[^key-fc2c0dc9e5a35109847458781358ffec]: Commencement: Sch. para. 1 in force at Royal Assent
+[^c-fc2c0dc9e5a35109847458781358ffec]: Commencement: Sch. para. 1 in force at Royal Assent
 
-[^key-c803d25f27c3fbb50b41a7022e8b1918]: Commencement: Sch. para. 2 in force at Royal Assent
+[^c-c803d25f27c3fbb50b41a7022e8b1918]: Commencement: Sch. para. 2 in force at Royal Assent
 
-[^key-41989b7abe3dbbc26b7232d85ed08a8d]: Commencement: Sch. para. 3 in force at Royal Assent
+[^c-41989b7abe3dbbc26b7232d85ed08a8d]: Commencement: Sch. para. 3 in force at Royal Assent
 
-[^key-74763c43381caf9e02ac75a4883086ff]: Commencement: Sch. para. 4 in force at Royal Assent
+[^c-74763c43381caf9e02ac75a4883086ff]: Commencement: Sch. para. 4 in force at Royal Assent
 
-[^key-2f473010b9517f971cff15fa3ba3ec0e]: Commencement: Sch. para. 5 in force at Royal Assent
+[^c-2f473010b9517f971cff15fa3ba3ec0e]: Commencement: Sch. para. 5 in force at Royal Assent
 
-[^key-531d588674f647e1f3d2cbf55e234edd]: Commencement: Sch. para. 6 in force at Royal Assent
+[^c-531d588674f647e1f3d2cbf55e234edd]: Commencement: Sch. para. 6 in force at Royal Assent
 
-[^key-c571c6979fa817260be2ba7bcdcfeeb2]: Commencement: Sch. para. 7 in force at Royal Assent
+[^c-c571c6979fa817260be2ba7bcdcfeeb2]: Commencement: Sch. para. 7 in force at Royal Assent
 
-[^key-b7711e967a6a2e2076f9c10cf979aec2]: Commencement: Sch. para. 8 in force at Royal Assent
+[^c-b7711e967a6a2e2076f9c10cf979aec2]: Commencement: Sch. para. 8 in force at Royal Assent
 
-[^key-de73584cfbccb2b1efbcd35da08d1005]: Commencement: Sch. para. 9 in force at Royal Assent
+[^c-de73584cfbccb2b1efbcd35da08d1005]: Commencement: Sch. para. 9 in force at Royal Assent

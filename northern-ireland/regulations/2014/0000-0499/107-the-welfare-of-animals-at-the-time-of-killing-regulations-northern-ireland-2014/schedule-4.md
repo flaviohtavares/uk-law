@@ -40,7 +40,7 @@ Subject to paragraph 3, this Schedule applies to the killing of animals which ar
 
 This Schedule does not apply to animals which are killed—
 
-- (a) during scientific experiments carried out under the supervision of the Department of Health[^key-ec9a6304605c1fe7d089ed81b124276f];
+- (a) during scientific experiments carried out under the supervision of the Department of Health[^c-ec9a6304605c1fe7d089ed81b124276f];
 - (b) during hunting or recreational fishing activities; or
 - (c) during sporting events.
 
@@ -62,4 +62,4 @@ Poultry, rabbits or hares which are bled by their owner outside a slaughterhouse
 
 ## Annotations
 
-[^key-ec9a6304605c1fe7d089ed81b124276f]: Textual amendment: Words in [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/nisr/2014/107/schedule/4/paragraph/3/a) substituted (31.12.2020) by [The Animal Health and Welfare (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/158)](https://www.legislation.gov.uk/uksi/2019/158), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/158/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2019/158/regulation/7/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec9a6304605c1fe7d089ed81b124276f]: Textual amendment: Words in [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/nisr/2014/107/schedule/4/paragraph/3/a) substituted (31.12.2020) by [The Animal Health and Welfare (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/158)](https://www.legislation.gov.uk/uksi/2019/158), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/158/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2019/158/regulation/7/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

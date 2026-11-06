@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Duty of Scottish Water to promote water conservation and water-use efficiency[^key-ff05a96959cecc3235749fbd8946fb76]
+## 74. Duty of Scottish Water to promote water conservation and water-use efficiency[^c-ff05a96959cecc3235749fbd8946fb76]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In section 56(1) of the Water Industry (Scotland) Act 2002 (asp 3), after paragr
 
 ## Annotations
 
-[^key-ff05a96959cecc3235749fbd8946fb76]: Commencement: S. 74 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-ff05a96959cecc3235749fbd8946fb76]: Commencement: S. 74 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

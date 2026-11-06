@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Flood hazard maps[^key-fed8f6debed4d5ddf2dcd052d51459a8]
+## 22. Flood hazard maps[^c-fed8f6debed4d5ddf2dcd052d51459a8]
 
 *Extent: S*
 
@@ -75,4 +75,4 @@ show information referred to in subsection (1) as respects any flood in the area
 
 ## Annotations
 
-[^key-fed8f6debed4d5ddf2dcd052d51459a8]: Commencement: S. 22 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-fed8f6debed4d5ddf2dcd052d51459a8]: Commencement: S. 22 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

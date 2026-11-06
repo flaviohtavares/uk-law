@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Lights on tidal works, etc.[^key-22b7ff8f31de376e5807b3f9f729998a]
+## 18. Lights on tidal works, etc.[^c-22b7ff8f31de376e5807b3f9f729998a]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ for a failure to comply with a direction given under this article.
 
 ## Annotations
 
-[^key-22b7ff8f31de376e5807b3f9f729998a]: Commencement: Art. 18 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-22b7ff8f31de376e5807b3f9f729998a]: Commencement: Art. 18 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

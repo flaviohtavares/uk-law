@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Provision of support to persons in connection with an application[^key-1aaff8f374cb2806a23baec93bafc2f1]
+## 89. Provision of support to persons in connection with an application[^c-1aaff8f374cb2806a23baec93bafc2f1]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1aaff8f374cb2806a23baec93bafc2f1]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2021/15/section/89) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-1aaff8f374cb2806a23baec93bafc2f1]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2021/15/section/89) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

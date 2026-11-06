@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Payment by cheque[^key-fc107c7f5e16fb39612619e07267652a]
+## 51. Payment by cheque[^c-fc107c7f5e16fb39612619e07267652a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In the list in regulation 219(2) (payment by cheque), after the entry relating t
 
 ## Annotations
 
-[^key-fc107c7f5e16fb39612619e07267652a]: Commencement: Reg. 51 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-fc107c7f5e16fb39612619e07267652a]: Commencement: Reg. 51 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

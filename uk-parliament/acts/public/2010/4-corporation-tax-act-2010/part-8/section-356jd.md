@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356JD. Meaning of “cluster area”[^key-d4aa543b7323fe7fc3668e790aa4a9bb]
+## 356JD. Meaning of “cluster area”[^c-d4aa543b7323fe7fc3668e790aa4a9bb]
 
 *Extent: E+W+S+N.I.*
 
-(1) In this Part “**cluster area**” means an offshore area which the OGA[^key-5ef05406c6acb483a24dc9741a675f48] determines to be a cluster area.
+(1) In this Part “**cluster area**” means an offshore area which the OGA[^c-5ef05406c6acb483a24dc9741a675f48] determines to be a cluster area.
 
 (2) A cluster area is treated as not including any previously authorised oil field (or any part of such an oil field) (see section 356JDA).
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4aa543b7323fe7fc3668e790aa4a9bb]: Textual amendment: Pt. 8 Ch. 9 inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/13/paragraph/2)
+[^c-d4aa543b7323fe7fc3668e790aa4a9bb]: Textual amendment: Pt. 8 Ch. 9 inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/13/paragraph/2)
 
-[^key-5ef05406c6acb483a24dc9741a675f48]: Textual amendment: Word in s. 356JD substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [15(7)](https://www.legislation.gov.uk/uksi/2016/898/regulation/15/7)
+[^c-5ef05406c6acb483a24dc9741a675f48]: Textual amendment: Word in s. 356JD substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [15(7)](https://www.legislation.gov.uk/uksi/2016/898/regulation/15/7)

@@ -31,10 +31,10 @@ summary: ''
   - (i) outside Great Britain;
   - (ii) during the period whilst the claimant is temporarily absent from Great Britain; and
   - (iii) by, or under the supervision of, a person appropriately qualified to carry out that treatment; and
-- (e)[^key-5c4ad39d12273f5d3e2a9d5fa27133ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-5c4ad39d12273f5d3e2a9d5fa27133ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In paragraph (1)(d)(iii), “**appropriately qualified**” means qualified to provide medical treatment, physiotherapy or a form of treatment which is similar to, or related to, either of those forms of treatment.
 
 ## Annotations
 
-[^key-5c4ad39d12273f5d3e2a9d5fa27133ba]: Textual amendment: Reg. 153(1)(e) omitted (26.10.2009) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/1), [11(15)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/15)
+[^c-5c4ad39d12273f5d3e2a9d5fa27133ba]: Textual amendment: Reg. 153(1)(e) omitted (26.10.2009) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/1), [11(15)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/15)

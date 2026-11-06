@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Changes in participation[^c2253092][^key-11194a415ba1df1a5f4dc8cb53fb4aee]
+## 33. Changes in participation[^c2253092][^c-11194a415ba1df1a5f4dc8cb53fb4aee]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^c2253092]: Commencement: [S. 33](https://www.legislation.gov.uk/anaw/2015/2/section/33) partly in force; [s. 33](https://www.legislation.gov.uk/anaw/2015/2/section/33) in force for specified purposes at 30.4.2015, see [s. 56(1)(b)](https://www.legislation.gov.uk/anaw/2015/2/section/56/1/b)
 
-[^key-11194a415ba1df1a5f4dc8cb53fb4aee]: Commencement: [S. 33](https://www.legislation.gov.uk/anaw/2015/2/section/33) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-11194a415ba1df1a5f4dc8cb53fb4aee]: Commencement: [S. 33](https://www.legislation.gov.uk/anaw/2015/2/section/33) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

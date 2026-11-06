@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation, commencement and interpretation[^key-1f6f994d9e43d030048e4dc5872d1c7f]
+## 1. Citation, commencement and interpretation[^c-1f6f994d9e43d030048e4dc5872d1c7f]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1f6f994d9e43d030048e4dc5872d1c7f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/350/regulation/1) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-1f6f994d9e43d030048e4dc5872d1c7f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/350/regulation/1) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 Nos. 356](https://www.legislation.gov.uk/nisr/1996/356), and [358](https://www.legislation.gov.uk/nisr/1996/358), [S.R. 1997 Nos. 22](https://www.legislation.gov.uk/nisr/1997/22), [165](https://www.legislation.gov.uk/nisr/1997/165), [435](https://www.legislation.gov.uk/nisr/1997/435) and [541](https://www.legislation.gov.uk/nisr/1997/541), [S.R. 1998 Nos. 2](https://www.legislation.gov.uk/nisr/1998/2), [182](https://www.legislation.gov.uk/nisr/1998/182), [198](https://www.legislation.gov.uk/nisr/1998/198) and [326](https://www.legislation.gov.uk/nisr/1998/326), [S.R. 1999 Nos. 391](https://www.legislation.gov.uk/nisr/1999/391) and [428](https://www.legislation.gov.uk/nisr/1999/428) and [S.R. 2000 No. 9](https://www.legislation.gov.uk/nisr/2000/9)
 

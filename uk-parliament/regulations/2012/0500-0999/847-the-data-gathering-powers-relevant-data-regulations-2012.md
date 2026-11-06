@@ -44,11 +44,11 @@ A draft of these Regulations was laid before, and approved by a resolution of, t
 
 Accordingly the Treasury make the following Regulations in exercise of the power conferred by paragraph 1(3) of Schedule 23 to the Finance Act 2011.
 
-## 1. Citation, commencement and interpretation[^key-dcf3140368ba232b2276ba27e682feec]
+## 1. Citation, commencement and interpretation[^c-dcf3140368ba232b2276ba27e682feec]
 
 These Regulations may be cited as the Data-gathering Powers (Relevant Data) Regulations 2012 and come into force on 1st April 2012.
 
-**2.**[^key-4e3c2abc8a0cfde9064b2a16802da9cc] In these Regulations—
+**2.**[^c-4e3c2abc8a0cfde9064b2a16802da9cc] In these Regulations—
 
 - “company registration number” has the same meaning as “registered number” in section 1066 of the Companies Act 2006;
 - “identifying information” means information which identifies a person or an account and includes—
@@ -59,7 +59,7 @@ These Regulations may be cited as the Data-gathering Powers (Relevant Data) Regu
 - “Schedule 23” means Schedule 23 to the Finance Act 2011;
 - “VAT number” has the same meaning as “registration number” in paragraph (1) of regulation 2 of the Value Added Tax Regulations 1995.
 
-## 3. Salaries, fees, commission etc[^key-5c319a0710fde63394b0ea6c8ed63560]
+## 3. Salaries, fees, commission etc[^c-5c319a0710fde63394b0ea6c8ed63560]
 
 (1) The relevant data for a data-holder of the type described in paragraph 9(1)(a) of Schedule 23 are information relating to all payments made by the employer that relate to the employment (referred to in this regulation as “employment related payments”).
 
@@ -76,9 +76,9 @@ These Regulations may be cited as the Data-gathering Powers (Relevant Data) Regu
   - (i) payments from which income tax is deductible; and
   - (ii) payments made to any one person where the total of those payments, particulars of which would otherwise fall to be provided, does not exceed £500.
 
-**4.**[^key-9978e9bfbbd9bab86f75bb865da1f6cd] The relevant data for a data-holder of the type described in paragraph 11 of Schedule 23 are the data described in paragraph 11(2)(b).
+**4.**[^c-9978e9bfbbd9bab86f75bb865da1f6cd] The relevant data for a data-holder of the type described in paragraph 11 of Schedule 23 are the data described in paragraph 11(2)(b).
 
-## 5. Interest etc[^key-85c2d1af9122dd368d463e2bd849b535]
+## 5. Interest etc[^c-85c2d1af9122dd368d463e2bd849b535]
 
 (1) The relevant data for a data-holder of the type described in paragraph 12 of Schedule 23 are information and documents relating to accounts or sums on which relevant interest is payable, including but not limited to the data in regulations 8, 9 and 10.
 
@@ -87,16 +87,16 @@ These Regulations may be cited as the Data-gathering Powers (Relevant Data) Regu
 - (a) on money received or retained in the United Kingdom; and
 - (b) either without deduction of income tax or after deduction of income tax.
 
-**6.**[^key-a67ae90577e6be2e6e0638434de837ff] Information relating to the following payments is not relevant data for the purposes of a data-holder of the type described in paragraph 12—
+**6.**[^c-a67ae90577e6be2e6e0638434de837ff] Information relating to the following payments is not relevant data for the purposes of a data-holder of the type described in paragraph 12—
 
 - (a) a payment in respect of a certificate of deposit within the meaning given by section 1019 of the Income Tax Act 2007[^f00003];
 - (b) a payment in respect of an investment or a deposit held by a branch of a person to whom a data-holder notice is issued, where the branch is situated in a territory other than the United Kingdom;
-- (c)[^key-3b81ae95d98fe7c2d8f17b4529662864] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3b81ae95d98fe7c2d8f17b4529662864] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) a payment in respect of an investment under a plan provided for by regulations made under Chapter 3 of Part 6 of the Income Tax (Trading and Other Income) Act 2005[^f00004];
-- (e) a payment to or a receipt for a person other than an individual (in whatever capacity the individual is acting), except where the case falls within regulation 9(c) or 10(d) or where the relevant data-holder is carrying on a trade or business and, in the ordinary course of the operations thereof, receives or retains money in such circumstances that interest becomes payable thereon[^key-fdb4b02b76c34002e980afffbbe0536b];
+- (e) a payment to or a receipt for a person other than an individual (in whatever capacity the individual is acting), except where the case falls within regulation 9(c) or 10(d) or where the relevant data-holder is carrying on a trade or business and, in the ordinary course of the operations thereof, receives or retains money in such circumstances that interest becomes payable thereon[^c-fdb4b02b76c34002e980afffbbe0536b];
 - (f) any other payment not falling within any of paragraphs (a) to (e) which is specified in the data-holder notice as being a payment in respect of which information is not required.
 
-**7.**[^key-e597cf670b739aa7b4ffd7608e49a0f3] (1) Information is not relevant data for the purposes of a data-holder of the type described in paragraph 12 if it is in respect of a relevant dormant account before the balance of the account is paid out to the account-holder following a repayment claim (such payment being referred to in this regulation as the repayment claim being “settled”).
+**7.**[^c-e597cf670b739aa7b4ffd7608e49a0f3] (1) Information is not relevant data for the purposes of a data-holder of the type described in paragraph 12 if it is in respect of a relevant dormant account before the balance of the account is paid out to the account-holder following a repayment claim (such payment being referred to in this regulation as the repayment claim being “settled”).
 
 (2) Where a repayment claim to the balance of a dormant account is settled, all interest paid, credited or included in the balance of the account, during and at the end of the relevant dormant period, is relevant data for the purposes of paragraph 12 and shall be treated—
 
@@ -115,7 +115,7 @@ These Regulations may be cited as the Data-gathering Powers (Relevant Data) Regu
 
 Other terms used have the same meaning as in the Dormant Accounts Act.
 
-**8.**[^key-218958cf4ef173420de8204a3718a0af] If a payment is made in circumstances in which a certificate has been supplied under regulation 4 of the Income Tax (Deposit-takers and Building Societies) (Interest Payments) Regulations 2008[^f00007] [^key-f217257aa531dfbdef015201458f4c32]... the relevant data are—
+**8.**[^c-218958cf4ef173420de8204a3718a0af] If a payment is made in circumstances in which a certificate has been supplied under regulation 4 of the Income Tax (Deposit-takers and Building Societies) (Interest Payments) Regulations 2008[^f00007] [^c-f217257aa531dfbdef015201458f4c32]... the relevant data are—
 
 - (a) the name and address of the person or persons by or on behalf of whom a certificate has been given in connection with the payment (“the beneficiary”) if other than the person or persons to whom the payment was made;
 - (b) the date of birth of the beneficiary;
@@ -128,7 +128,7 @@ Other terms used have the same meaning as in the Dormant Accounts Act.
 - (i) where the payment was the first payment made in respect of an account, notification of that fact;
 - (j) where the payment was in a currency other than sterling and the amount of the payment is recorded in that currency in the data provided under a data-holder notice notification of the fact that the amount is so recorded and the specification of the currency concerned.
 
-**9.**[^key-c3ca6f32fc45e0cedd549408d983a0fe] In cases to which regulation 8 does not apply, the relevant data relating to payments in respect of deposits are—
+**9.**[^c-c3ca6f32fc45e0cedd549408d983a0fe] In cases to which regulation 8 does not apply, the relevant data relating to payments in respect of deposits are—
 
 - (a) the reference number of the account in respect of which a payment was made and, where necessary for identifying the account, the branch of the payer where the account is held;
 - (b) where a payment was made to two or more account holders, notification of that fact and, if known, the number of such persons;
@@ -140,7 +140,7 @@ Other terms used have the same meaning as in the Dormant Accounts Act.
 - (f) where a payment made in the course of the year was the first payment in respect of an account, notification of that fact;
 - (g) where a payment was in a currency other than sterling and the amount of the payment is recorded in that currency in the data provided under a data-holder notice notification of the fact that the amount is so recorded and the specification of the currency concerned.
 
-**10.**[^key-08c585fc5c9011bd4c3b9b738bd6e55f] In cases to which regulation 8 does not apply, the relevant data relating to payments and receipts of interest other than payments in respect of deposits are—
+**10.**[^c-08c585fc5c9011bd4c3b9b738bd6e55f] In cases to which regulation 8 does not apply, the relevant data relating to payments and receipts of interest other than payments in respect of deposits are—
 
 - (a) identification of the security or investment in respect of which the payment was made or received;
 - (b) where a payment or receipt was in a currency other than sterling and the amount of the payment is recorded in that currency in the data provided under a data-holder notice notification of the fact that the amount is so recorded and the specification of the currency concerned;
@@ -148,28 +148,28 @@ Other terms used have the same meaning as in the Dormant Accounts Act.
 - (d) where a payment was made without deduction of tax by virtue of a declaration made under regulation 31 of the Authorised Investment Funds (Tax) Regulations 2006[^f00008], the name and principal residential address of the person beneficially entitled to the payment, or if more than one, of each person beneficially entitled to the payment;
 - (e) in a case falling within paragraph (d), notification of the fact that the account in respect of which the payment was made was one in respect of which the declaration had been made.
 
-## 11. Income, assets etc belonging to others[^key-26eb9a7a5e9760ab7584328197ebc71d]
+## 11. Income, assets etc belonging to others[^c-26eb9a7a5e9760ab7584328197ebc71d]
 
 The relevant data for a data-holder of the type described in paragraph 13 of Schedule 23 are—
 
 - (a) information relating to the money or value received; and
 - (b) the name and address of the beneficial owner of the money or value.
 
-## 11A. Merchant acquirers etc[^key-d4ae90d0b48d587905d61e4345b93b7a]
+## 11A. Merchant acquirers etc[^c-d4ae90d0b48d587905d61e4345b93b7a]
 
 (1) The relevant data for a data-holder of the type described in paragraph 13A of Schedule 23 are—
 
 - (a) in relation to a retailer, information relating to payment card transactions recorded against a merchant account, including the currency these payment card transactions were made in;
-- (b)[^key-82db517954ebc3623e0840f3f91bf756] identifying information relating to a retailer to whom the data-holder has a contractual obligation to make payments, including any identifying information about the retailer’s merchant account; and
+- (b)[^c-82db517954ebc3623e0840f3f91bf756] identifying information relating to a retailer to whom the data-holder has a contractual obligation to make payments, including any identifying information about the retailer’s merchant account; and
 - (c) identifying information relating to an account or system into which payments are made by the data-holder to the retailer.
 
 (2) In this regulation—
 
 - “merchant account” means an account held by a retailer with the relevant data-holder, by reference to which the amount due to be paid by the relevant data-holder to the retailer in settlement of payment card transactions is calculated; and
-- [^key-fe4d5b6c166b5b4716a8108df579077e]...
-- “payment card transaction” and “retailer” have the meanings given by paragraph 13A of Schedule 23[^key-2b28da4465fc13574bb7387a31db0864]
+- [^c-fe4d5b6c166b5b4716a8108df579077e]...
+- “payment card transaction” and “retailer” have the meanings given by paragraph 13A of Schedule 23[^c-2b28da4465fc13574bb7387a31db0864]
 
-## 11B. Electronic stored-value payment service providers[^key-47c278d259711a2b1365822adedd603d]
+## 11B. Electronic stored-value payment service providers[^c-47c278d259711a2b1365822adedd603d]
 
 (1) The relevant data for a data-holder of the type described in paragraph 13B of Schedule 23 are—
 
@@ -194,7 +194,7 @@ The relevant data for a data-holder of the type described in paragraph 13 of Sch
 
 (2) In this regulation “suppliers” has the meaning given by paragraph 13C of Schedule 23.
 
-## 11D. Money service businesses[^key-6ec1a8bcba8fa3c5c0a7c499fcd6ff60]
+## 11D. Money service businesses[^c-6ec1a8bcba8fa3c5c0a7c499fcd6ff60]
 
 (1) The relevant data for a data-holder of the type described in paragraph 13D of Schedule 23 are—
 
@@ -205,7 +205,7 @@ The relevant data for a data-holder of the type described in paragraph 13 of Sch
 
 (2) In this regulation “beneficial owner” has the meaning given by regulations 5 and 6 of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017.
 
-## 12. Payments derived from securities[^key-a14904488ec186038f2c914cad31fc78]
+## 12. Payments derived from securities[^c-a14904488ec186038f2c914cad31fc78]
 
 The relevant data for a data-holder of the type described in paragraph 14 of Schedule 23 are—
 
@@ -215,9 +215,9 @@ The relevant data for a data-holder of the type described in paragraph 14 of Sch
   - (ii) if those details are not known or if different, details of the person for whom the securities are held or to whom the payment is or may be paid on; and
 - (c) if there is more than one beneficial owner or more than one person of the kind mentioned in paragraph (b)(ii), their respective interests in the securities or payment.
 
-**13.**[^key-b3cfcc882d72ceff95fa5390ba7276b1] The relevant data for a data-holder of the type described in paragraph 15 of Schedule 23 are details of the amounts paid that were received from or paid on behalf of another person including the name and address of each such person.
+**13.**[^c-b3cfcc882d72ceff95fa5390ba7276b1] The relevant data for a data-holder of the type described in paragraph 15 of Schedule 23 are details of the amounts paid that were received from or paid on behalf of another person including the name and address of each such person.
 
-## 14. Grants and subsidies out of public funds[^key-9b6604085c26a6a0f68969a87bf32fd7]
+## 14. Grants and subsidies out of public funds[^c-9b6604085c26a6a0f68969a87bf32fd7]
 
 The relevant data for a data-holder of the type described in paragraph 16 of Schedule 23 are—
 
@@ -225,7 +225,7 @@ The relevant data for a data-holder of the type described in paragraph 16 of Sch
 - (b) the amount of the payment so made or received; and
 - (c) the address of any property in respect of which the payment has been made.
 
-## 15. Licences, approvals etc[^key-ce4fc40054913c591eaf44373d7b3e0f]
+## 15. Licences, approvals etc[^c-ce4fc40054913c591eaf44373d7b3e0f]
 
 The relevant data for a data-holder of the type described in paragraph 17 of Schedule 23 are—
 
@@ -233,7 +233,7 @@ The relevant data for a data-holder of the type described in paragraph 17 of Sch
 - (b) particulars of the licence, approval or entry;
 - (c) information relating to any application for such a licence or approval or for entry on that register.
 
-## 16. Rent and other payments arising from land[^key-dc86d67a9b7352593a86f6946c4c5dd2]
+## 16. Rent and other payments arising from land[^c-dc86d67a9b7352593a86f6946c4c5dd2]
 
 (1) The relevant data for a data-holder of the type described in paragraph 18 of Schedule 23 are—
 
@@ -247,7 +247,7 @@ The relevant data for a data-holder of the type described in paragraph 17 of Sch
 - (b) “lessee” includes a successor in title of a lease; and
 - (c) in relation to Scotland, “assignment” means an assignation.
 
-## 17. Dealing etc in securities[^key-6859fafa092dcb2309d617711264dfca]
+## 17. Dealing etc in securities[^c-6859fafa092dcb2309d617711264dfca]
 
 (1) The relevant data for a data-holder of the type described in paragraph 19 of Schedule 23 are—
 
@@ -259,28 +259,28 @@ The relevant data for a data-holder of the type described in paragraph 17 of Sch
 - (a) “placing” means a placing of shares or securities in a company; and
 - (b) “public issue” means a public issue of shares or securities in a company.
 
-## 18. Dealing in other property[^key-32a440f2d1afad6195c5bbe7e286ad17]
+## 18. Dealing in other property[^c-32a440f2d1afad6195c5bbe7e286ad17]
 
 The relevant data for a data-holder of the type described in paragraph 20 of Schedule 23 are—
 
-- (a) particulars of any transactions effected through a clearing house or a central securities depository[^key-fdd3d4c10dbf50e3f7d8913044cf972c];
+- (a) particulars of any transactions effected through a clearing house or a central securities depository[^c-fdd3d4c10dbf50e3f7d8913044cf972c];
 - (b) particulars of any transaction which meets the following conditions—
   - (i) the transaction is effected by or through that person;
   - (ii) in the transaction, an asset which is tangible moveable property is disposed of; and
   - (iii) the amount or value of the consideration for the disposal exceeds, in the hands of the recipient, £6,000.
 
-## 19. Lloyd’s[^key-d95f6729414d6abd45f3fed6a284b844]
+## 19. Lloyd’s[^c-d95f6729414d6abd45f3fed6a284b844]
 
 The relevant data for a data-holder of the type described in paragraph 21 of Schedule 23 are information and documents relating to, and to the activities of, the syndicate of underwriting members of Lloyd’s.
 
-## 20. Investment plans etc[^key-1d3b00272f7e93339da3b885741b8af0]
+## 20. Investment plans etc[^c-1d3b00272f7e93339da3b885741b8af0]
 
 The relevant data for a data-holder of the type described in paragraph 22 of Schedule 23 are—
 
 - (a) information and documents relating to the plan, including investments which are or have been held under the plan;
 - (b) information and documents relating to the child trust fund including investments which are or have been held under the fund.
 
-## 21. Petroleum activities[^key-37bcb73c884bf8ea862ba2d4b0d5f8d5]
+## 21. Petroleum activities[^c-37bcb73c884bf8ea862ba2d4b0d5f8d5]
 
 The relevant data for a data-holder of the type described in paragraph 23 of Schedule 23 are—
 
@@ -289,14 +289,14 @@ The relevant data for a data-holder of the type described in paragraph 23 of Sch
 - (c) particulars of the persons to whom such earnings, money or other payments were paid and are payable;
 - (d) information and documents relating to the oil field.
 
-## 22. Insurance activities[^key-2503e884ca4302e3215417c9ef3ab3e5]
+## 22. Insurance activities[^c-2503e884ca4302e3215417c9ef3ab3e5]
 
 The relevant data for a data-holder of the type described in paragraph 24 of Schedule 23 are—
 
 - (a) information and documents relating to contracts of insurance entered into in the course of an insurance business;
 - (b) if paragraph 24(b) or (c) applies, information and documents relating to the contracts of insurance.
 
-## 23. Environmental activities[^key-ad17d134c055374bd23a1eda75f9f7bd]
+## 23. Environmental activities[^c-ad17d134c055374bd23a1eda75f9f7bd]
 
 The relevant data for a data-holder of the type described in paragraph 25 of Schedule 23 are—
 
@@ -304,11 +304,11 @@ The relevant data for a data-holder of the type described in paragraph 25 of Sch
 - (b) information and documents relating to climate change levy matters in which the person is or has been involved;
 - (c) information and documents relating to any landfill disposal.
 
-## 24. Settlements[^key-a0475885a7993eaed6247be8450172f2]
+## 24. Settlements[^c-a0475885a7993eaed6247be8450172f2]
 
 The relevant data for a data-holder of the type described in paragraph 26 of Schedule 23 are information and documents relating to the settlement in question and to income or gains arising to the settlement.
 
-## 25. Charities[^key-9484a3b758e6dcd0c8615b77a3eeea4d]
+## 25. Charities[^c-9484a3b758e6dcd0c8615b77a3eeea4d]
 
 The relevant data for a data-holder of the type described in paragraph 27 of Schedule 23 are information relating to donations to the charity that are eligible for tax relief under any of the following provisions—
 
@@ -342,81 +342,81 @@ A Tax Information and Impact Note covering this instrument was published on 9th 
 
 [^f00001]: Footnote: [2011 c. 11](https://www.legislation.gov.uk/ukpga/2011/11).
 
-[^key-dcf3140368ba232b2276ba27e682feec]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-dcf3140368ba232b2276ba27e682feec]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-4e3c2abc8a0cfde9064b2a16802da9cc]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/847/regulation/2) substituted (1.11.2016) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2016 (S.I. 2016/979)](https://www.legislation.gov.uk/uksi/2016/979), [regs. 1](https://www.legislation.gov.uk/uksi/2016/979/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/979/regulation/3)
+[^c-4e3c2abc8a0cfde9064b2a16802da9cc]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/847/regulation/2) substituted (1.11.2016) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2016 (S.I. 2016/979)](https://www.legislation.gov.uk/uksi/2016/979), [regs. 1](https://www.legislation.gov.uk/uksi/2016/979/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/979/regulation/3)
 
-[^key-5c319a0710fde63394b0ea6c8ed63560]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/847/regulation/3) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-5c319a0710fde63394b0ea6c8ed63560]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/847/regulation/3) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
 [^f00002]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1); Part 12 was amended by paragraphs 103(a) and 118 of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11); section 96 of the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [S.I 2009/56](https://www.legislation.gov.uk/uksi/2009/56), [S.I. 209/3054](https://www.legislation.gov.uk/uksi/2009/3054) and paragraph 5 of Schedule 3 of the Finance Act 2011.
 
-[^key-9978e9bfbbd9bab86f75bb865da1f6cd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/847/regulation/4) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-9978e9bfbbd9bab86f75bb865da1f6cd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/847/regulation/4) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-85c2d1af9122dd368d463e2bd849b535]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/847/regulation/5) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-85c2d1af9122dd368d463e2bd849b535]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/847/regulation/5) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-a67ae90577e6be2e6e0638434de837ff]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/847/regulation/6) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-a67ae90577e6be2e6e0638434de837ff]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/847/regulation/6) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
 [^f00003]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
 
-[^key-3b81ae95d98fe7c2d8f17b4529662864]: Textual amendment: [Reg. 6(c)](https://www.legislation.gov.uk/uksi/2012/847/regulation/6/c) omitted (1.9.2013) by virtue of [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2013 (S.I. 2013/1811)](https://www.legislation.gov.uk/uksi/2013/1811), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1811/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/1811/regulation/3)
+[^c-3b81ae95d98fe7c2d8f17b4529662864]: Textual amendment: [Reg. 6(c)](https://www.legislation.gov.uk/uksi/2012/847/regulation/6/c) omitted (1.9.2013) by virtue of [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2013 (S.I. 2013/1811)](https://www.legislation.gov.uk/uksi/2013/1811), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1811/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/1811/regulation/3)
 
 [^f00004]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5); Chapter 3 was amended by section 50 of and paragraphs 131 and 132 of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), section 40 of the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9) and section 40 of the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
-[^key-fdb4b02b76c34002e980afffbbe0536b]: Textual amendment: Words in [reg. 6(e)](https://www.legislation.gov.uk/uksi/2012/847/regulation/6/e) added (1.9.2013) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2013 (S.I. 2013/1811)](https://www.legislation.gov.uk/uksi/2013/1811), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1811/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/1811/regulation/4)
+[^c-fdb4b02b76c34002e980afffbbe0536b]: Textual amendment: Words in [reg. 6(e)](https://www.legislation.gov.uk/uksi/2012/847/regulation/6/e) added (1.9.2013) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2013 (S.I. 2013/1811)](https://www.legislation.gov.uk/uksi/2013/1811), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1811/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/1811/regulation/4)
 
-[^key-e597cf670b739aa7b4ffd7608e49a0f3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/847/regulation/7) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-e597cf670b739aa7b4ffd7608e49a0f3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/847/regulation/7) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
 [^f00005]: Footnote: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9).
 
 [^f00006]: Footnote: [2008 c. 31](https://www.legislation.gov.uk/ukpga/2008/31).
 
-[^key-218958cf4ef173420de8204a3718a0af]: Commencement: Reg. 8 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-218958cf4ef173420de8204a3718a0af]: Commencement: Reg. 8 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
 [^f00007]: Footnote: [S.I. 2008/2682](https://www.legislation.gov.uk/uksi/2008/2682), to which there are amendments not relevant to these Regulations.
 
-[^key-f217257aa531dfbdef015201458f4c32]: Textual amendment: Words in reg. 8 omitted (6.4.2015) by virtue of [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2015 (S.I. 2015/672)](https://www.legislation.gov.uk/uksi/2015/672), [regs. 1](https://www.legislation.gov.uk/uksi/2015/672/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/672/regulation/2)
+[^c-f217257aa531dfbdef015201458f4c32]: Textual amendment: Words in reg. 8 omitted (6.4.2015) by virtue of [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2015 (S.I. 2015/672)](https://www.legislation.gov.uk/uksi/2015/672), [regs. 1](https://www.legislation.gov.uk/uksi/2015/672/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/672/regulation/2)
 
-[^key-c3ca6f32fc45e0cedd549408d983a0fe]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/847/regulation/9) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-c3ca6f32fc45e0cedd549408d983a0fe]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/847/regulation/9) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-08c585fc5c9011bd4c3b9b738bd6e55f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/847/regulation/10) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-08c585fc5c9011bd4c3b9b738bd6e55f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/847/regulation/10) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
 [^f00008]: Footnote: [S.I. 2006/964](https://www.legislation.gov.uk/uksi/2006/964), to which there are amendments not relevant to these Regulations.
 
-[^key-26eb9a7a5e9760ab7584328197ebc71d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/847/regulation/11) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-26eb9a7a5e9760ab7584328197ebc71d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/847/regulation/11) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-d4ae90d0b48d587905d61e4345b93b7a]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2012/847/regulation/11A) inserted (1.9.2013) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2013 (S.I. 2013/1811)](https://www.legislation.gov.uk/uksi/2013/1811), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1811/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/1811/regulation/5)
+[^c-d4ae90d0b48d587905d61e4345b93b7a]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2012/847/regulation/11A) inserted (1.9.2013) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2013 (S.I. 2013/1811)](https://www.legislation.gov.uk/uksi/2013/1811), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1811/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/1811/regulation/5)
 
-[^key-82db517954ebc3623e0840f3f91bf756]: Textual amendment: [Reg. 11A(1)(b)](https://www.legislation.gov.uk/uksi/2012/847/regulation/11A/1/b)[(c)](https://www.legislation.gov.uk/uksi/2012/847/regulation/11A/1/c) substituted for reg. 11A(1)(b)-(f) (1.11.2016) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2016 (S.I. 2016/979)](https://www.legislation.gov.uk/uksi/2016/979), [regs. 1](https://www.legislation.gov.uk/uksi/2016/979/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/979/regulation/4/a)
+[^c-82db517954ebc3623e0840f3f91bf756]: Textual amendment: [Reg. 11A(1)(b)](https://www.legislation.gov.uk/uksi/2012/847/regulation/11A/1/b)[(c)](https://www.legislation.gov.uk/uksi/2012/847/regulation/11A/1/c) substituted for reg. 11A(1)(b)-(f) (1.11.2016) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2016 (S.I. 2016/979)](https://www.legislation.gov.uk/uksi/2016/979), [regs. 1](https://www.legislation.gov.uk/uksi/2016/979/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/979/regulation/4/a)
 
-[^key-fe4d5b6c166b5b4716a8108df579077e]: Textual amendment: Words in [reg. 11A(2)](https://www.legislation.gov.uk/uksi/2012/847/regulation/11A/2) omitted (1.11.2016) by virtue of [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2016 (S.I. 2016/979)](https://www.legislation.gov.uk/uksi/2016/979), [regs. 1](https://www.legislation.gov.uk/uksi/2016/979/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2016/979/regulation/4/b/i)
+[^c-fe4d5b6c166b5b4716a8108df579077e]: Textual amendment: Words in [reg. 11A(2)](https://www.legislation.gov.uk/uksi/2012/847/regulation/11A/2) omitted (1.11.2016) by virtue of [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2016 (S.I. 2016/979)](https://www.legislation.gov.uk/uksi/2016/979), [regs. 1](https://www.legislation.gov.uk/uksi/2016/979/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2016/979/regulation/4/b/i)
 
-[^key-2b28da4465fc13574bb7387a31db0864]: Textual amendment: Words in [reg. 11A(2)](https://www.legislation.gov.uk/uksi/2012/847/regulation/11A/2) inserted (1.11.2016) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2016 (S.I. 2016/979)](https://www.legislation.gov.uk/uksi/2016/979), [regs. 1](https://www.legislation.gov.uk/uksi/2016/979/regulation/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2016/979/regulation/4/b/ii)
+[^c-2b28da4465fc13574bb7387a31db0864]: Textual amendment: Words in [reg. 11A(2)](https://www.legislation.gov.uk/uksi/2012/847/regulation/11A/2) inserted (1.11.2016) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2016 (S.I. 2016/979)](https://www.legislation.gov.uk/uksi/2016/979), [regs. 1](https://www.legislation.gov.uk/uksi/2016/979/regulation/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2016/979/regulation/4/b/ii)
 
-[^key-47c278d259711a2b1365822adedd603d]: Textual amendment: [Regs. 11B](https://www.legislation.gov.uk/uksi/2012/847/regulation/11B), [11C](https://www.legislation.gov.uk/uksi/2012/847/regulation/11C) inserted (1.11.2016) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2016 (S.I. 2016/979)](https://www.legislation.gov.uk/uksi/2016/979), [regs. 1](https://www.legislation.gov.uk/uksi/2016/979/regulation/1), [5](https://www.legislation.gov.uk/uksi/2016/979/regulation/5)
+[^c-47c278d259711a2b1365822adedd603d]: Textual amendment: [Regs. 11B](https://www.legislation.gov.uk/uksi/2012/847/regulation/11B), [11C](https://www.legislation.gov.uk/uksi/2012/847/regulation/11C) inserted (1.11.2016) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2016 (S.I. 2016/979)](https://www.legislation.gov.uk/uksi/2016/979), [regs. 1](https://www.legislation.gov.uk/uksi/2016/979/regulation/1), [5](https://www.legislation.gov.uk/uksi/2016/979/regulation/5)
 
-[^key-6ec1a8bcba8fa3c5c0a7c499fcd6ff60]: Textual amendment: [Reg. 11D](https://www.legislation.gov.uk/uksi/2012/847/regulation/11D) inserted (21.12.2017) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2017 (S.I. 2017/1175)](https://www.legislation.gov.uk/uksi/2017/1175), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1175/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1175/regulation/3)
+[^c-6ec1a8bcba8fa3c5c0a7c499fcd6ff60]: Textual amendment: [Reg. 11D](https://www.legislation.gov.uk/uksi/2012/847/regulation/11D) inserted (21.12.2017) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2017 (S.I. 2017/1175)](https://www.legislation.gov.uk/uksi/2017/1175), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1175/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1175/regulation/3)
 
-[^key-a14904488ec186038f2c914cad31fc78]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/847/regulation/12) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-a14904488ec186038f2c914cad31fc78]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/847/regulation/12) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-b3cfcc882d72ceff95fa5390ba7276b1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/847/regulation/13) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-b3cfcc882d72ceff95fa5390ba7276b1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/847/regulation/13) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-9b6604085c26a6a0f68969a87bf32fd7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/847/regulation/14) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-9b6604085c26a6a0f68969a87bf32fd7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/847/regulation/14) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-ce4fc40054913c591eaf44373d7b3e0f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/847/regulation/15) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-ce4fc40054913c591eaf44373d7b3e0f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/847/regulation/15) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-dc86d67a9b7352593a86f6946c4c5dd2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2012/847/regulation/16) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-dc86d67a9b7352593a86f6946c4c5dd2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2012/847/regulation/16) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-6859fafa092dcb2309d617711264dfca]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/847/regulation/17) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-6859fafa092dcb2309d617711264dfca]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/847/regulation/17) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-32a440f2d1afad6195c5bbe7e286ad17]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/847/regulation/18) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-32a440f2d1afad6195c5bbe7e286ad17]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/847/regulation/18) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-fdd3d4c10dbf50e3f7d8913044cf972c]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2012/847/regulation/18) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/38) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-fdd3d4c10dbf50e3f7d8913044cf972c]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2012/847/regulation/18) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/38) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
-[^key-d95f6729414d6abd45f3fed6a284b844]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/847/regulation/19) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-d95f6729414d6abd45f3fed6a284b844]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/847/regulation/19) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-1d3b00272f7e93339da3b885741b8af0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/847/regulation/20) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-1d3b00272f7e93339da3b885741b8af0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/847/regulation/20) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-37bcb73c884bf8ea862ba2d4b0d5f8d5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2012/847/regulation/21) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-37bcb73c884bf8ea862ba2d4b0d5f8d5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2012/847/regulation/21) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
 [^f00009]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12). Section 276 was amended by paragraph 10 of Schedule 38 to the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), paragraph 35 of Schedule 29 to the Finance Act [2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17) and paragraphs 225 and 262 of Schedule 1 to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4).
 
@@ -426,13 +426,13 @@ A Tax Information and Impact Note covering this instrument was published on 9th 
 
 [^f00012]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
 
-[^key-2503e884ca4302e3215417c9ef3ab3e5]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2012/847/regulation/22) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-2503e884ca4302e3215417c9ef3ab3e5]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2012/847/regulation/22) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-ad17d134c055374bd23a1eda75f9f7bd]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/847/regulation/23) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-ad17d134c055374bd23a1eda75f9f7bd]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/847/regulation/23) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-a0475885a7993eaed6247be8450172f2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2012/847/regulation/24) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-a0475885a7993eaed6247be8450172f2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2012/847/regulation/24) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
-[^key-9484a3b758e6dcd0c8615b77a3eeea4d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2012/847/regulation/25) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+[^c-9484a3b758e6dcd0c8615b77a3eeea4d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2012/847/regulation/25) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
 
 [^f00013]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12); Section 257 was amended by section 72 of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), paragraphs 294 and 328 of Schedule 1 to the Income Tax Act [2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3) and paragraphs 225 and 258 of Schedule 1 to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4).
 

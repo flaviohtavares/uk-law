@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Surveys and studies[^key-b3fd1b66a185a9c0c204825e2c2739a2][^key-de5c43e24607898b76acf281782c4624]
+## 65. Surveys and studies[^c-b3fd1b66a185a9c0c204825e2c2739a2][^c-de5c43e24607898b76acf281782c4624]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b3fd1b66a185a9c0c204825e2c2739a2]: Commencement: S. 65 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-b3fd1b66a185a9c0c204825e2c2739a2]: Commencement: S. 65 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-de5c43e24607898b76acf281782c4624]: Commencement: [S. 65](https://www.legislation.gov.uk/asc/2022/1/section/65) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(i)](https://www.legislation.gov.uk/wsi/2026/62/article/2/i)
+[^c-de5c43e24607898b76acf281782c4624]: Commencement: [S. 65](https://www.legislation.gov.uk/asc/2022/1/section/65) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(i)](https://www.legislation.gov.uk/wsi/2026/62/article/2/i)

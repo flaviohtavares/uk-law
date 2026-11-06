@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (International Travel, Prohibition on Travel from the United Arab Emirates) (Scotland) Amendment Regulations 2021 (revoked)[^key-20649ddba712a82f4a1aa1016dcf0178]
+The Health Protection (Coronavirus) (International Travel, Prohibition on Travel from the United Arab Emirates) (Scotland) Amendment Regulations 2021 (revoked)[^c-20649ddba712a82f4a1aa1016dcf0178]
 
 Approved by the Scottish Parliament
 
@@ -48,40 +48,40 @@ Coming into force
 
 at 4.00 a.m. on 29th January 2021
 
-[^key-20649ddba712a82f4a1aa1016dcf0178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-20649ddba712a82f4a1aa1016dcf0178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-20649ddba712a82f4a1aa1016dcf0178]
+## 1. Citation and commencement[^c-20649ddba712a82f4a1aa1016dcf0178]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-20649ddba712a82f4a1aa1016dcf0178]
+## 2. Interpretation[^c-20649ddba712a82f4a1aa1016dcf0178]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on the arrival of aircraft travelling directly from the United Arab Emirates[^key-20649ddba712a82f4a1aa1016dcf0178]
+## 3. Prohibition on the arrival of aircraft travelling directly from the United Arab Emirates[^c-20649ddba712a82f4a1aa1016dcf0178]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Offences and penalties[^key-20649ddba712a82f4a1aa1016dcf0178]
+## 4. Offences and penalties[^c-20649ddba712a82f4a1aa1016dcf0178]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Health Protection (Coronavirus) (International Travel) (Scotland) Regulations 2020[^key-20649ddba712a82f4a1aa1016dcf0178]
+## 5. Amendment of the Health Protection (Coronavirus) (International Travel) (Scotland) Regulations 2020[^c-20649ddba712a82f4a1aa1016dcf0178]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Savings[^key-20649ddba712a82f4a1aa1016dcf0178]
+## 6. Savings[^c-20649ddba712a82f4a1aa1016dcf0178]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-20649ddba712a82f4a1aa1016dcf0178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-20649ddba712a82f4a1aa1016dcf0178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-20649ddba712a82f4a1aa1016dcf0178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-20649ddba712a82f4a1aa1016dcf0178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-20649ddba712a82f4a1aa1016dcf0178]: Textual amendment: Regulations revoked in so far as not already revoked (20.9.2021) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021 (S.S.I. 2021/322)](https://www.legislation.gov.uk/ssi/2021/322), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2021/322/schedule/9) (with [regs. 50](https://www.legislation.gov.uk/ssi/2021/322/regulation/50), [52(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/52/2))
+[^c-20649ddba712a82f4a1aa1016dcf0178]: Textual amendment: Regulations revoked in so far as not already revoked (20.9.2021) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021 (S.S.I. 2021/322)](https://www.legislation.gov.uk/ssi/2021/322), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2021/322/schedule/9) (with [regs. 50](https://www.legislation.gov.uk/ssi/2021/322/regulation/50), [52(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/52/2))

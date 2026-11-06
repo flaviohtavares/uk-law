@@ -31,7 +31,7 @@ summary: ''
 
 Animal Health
 
-The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2008 (revoked)[^key-60b36a3434026b9e749cee6690851aa4]
+The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2008 (revoked)[^c-60b36a3434026b9e749cee6690851aa4]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into operation
 
 1st January 2009
 
-[^key-60b36a3434026b9e749cee6690851aa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60b36a3434026b9e749cee6690851aa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL PROVISIONS[^key-60b36a3434026b9e749cee6690851aa4]
+### PART I — GENERAL PROVISIONS[^c-60b36a3434026b9e749cee6690851aa4]
 
 *Extent: N.I.*
 
@@ -56,7 +56,7 @@ Coming into operation
 - [Section 3 — Appointment of competent authority](part-i/section-3.md)
 - [Section 4 — Exception for research](part-i/section-4.md)
 
-### PART II — INTRODUCTION OF SCHEDULES[^key-60b36a3434026b9e749cee6690851aa4]
+### PART II — INTRODUCTION OF SCHEDULES[^c-60b36a3434026b9e749cee6690851aa4]
 
 *Extent: N.I.*
 
@@ -64,7 +64,7 @@ Coming into operation
 
 - [Section 5 — The Schedules](part-ii/section-5.md)
 
-### PART III — ADMINISTRATION AND ENFORCEMENT[^key-60b36a3434026b9e749cee6690851aa4]
+### PART III — ADMINISTRATION AND ENFORCEMENT[^c-60b36a3434026b9e749cee6690851aa4]
 
 *Extent: N.I.*
 
@@ -99,14 +99,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-60b36a3434026b9e749cee6690851aa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60b36a3434026b9e749cee6690851aa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-60b36a3434026b9e749cee6690851aa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60b36a3434026b9e749cee6690851aa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-60b36a3434026b9e749cee6690851aa4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/508) revoked (31.12.2010) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/406)](https://www.legislation.gov.uk/nisr/2010/406), [regs. 1](https://www.legislation.gov.uk/nisr/2010/406/regulation/1), [22(a)](https://www.legislation.gov.uk/nisr/2010/406/regulation/22/a)
+[^c-60b36a3434026b9e749cee6690851aa4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/508) revoked (31.12.2010) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/406)](https://www.legislation.gov.uk/nisr/2010/406), [regs. 1](https://www.legislation.gov.uk/nisr/2010/406/regulation/1), [22(a)](https://www.legislation.gov.uk/nisr/2010/406/regulation/22/a)

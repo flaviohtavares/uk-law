@@ -47,10 +47,10 @@ summary: ''
 - (e) require to be installed in vehicles of such classes or descriptions and in such manner and place as may be so specified, equipment of such type and manner as may be so specified, for recording information as to the use of the vehicle and impose duties on the owners and drivers of the vehicle with respect to the use and operation of the equipment;
 - (f) provide for the inspection of any records required to be kept or equipment to be installed under sub-paragraphs ( *d*) and ( *e*) respectively.
 
-(6) In this Order “**the domestic drivers' hours code**” means the provisions of paragraphs (1) and (2) (including those provisions as applied by Article 63) [^key-52da115f0376d56338c52e28a69b8ff6]... and the provisions of any regulations made under paragraph (5) or made under Article 58 for purposes of those paragraphs.
+(6) In this Order “**the domestic drivers' hours code**” means the provisions of paragraphs (1) and (2) (including those provisions as applied by Article 63) [^c-52da115f0376d56338c52e28a69b8ff6]... and the provisions of any regulations made under paragraph (5) or made under Article 58 for purposes of those paragraphs.
 
 ## Annotations
 
 [^c17616471]: Textual amendment: mod. by SR 1981/199
 
-[^key-52da115f0376d56338c52e28a69b8ff6]: Textual amendment: Words in [art. 56(6)](https://www.legislation.gov.uk/nisi/1981/154/article/56/6) omitted (31.12.2020) by virtue of [The Drivers Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2019/596/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52da115f0376d56338c52e28a69b8ff6]: Textual amendment: Words in [art. 56(6)](https://www.legislation.gov.uk/nisi/1981/154/article/56/6) omitted (31.12.2020) by virtue of [The Drivers Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2019/596/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

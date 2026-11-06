@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1) Where a relevant local authority[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6] is satisfied that a person (“**the employer**”) has contravened section 21, the authority may by notice (a “penalty notice”) require the employer to pay a financial penalty.
+(1) Where a relevant local authority[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6] is satisfied that a person (“**the employer**”) has contravened section 21, the authority may by notice (a “penalty notice”) require the employer to pay a financial penalty.
 
 (2) The amount of the financial penalty is to be determined in accordance with regulations.
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — SCHEDULED WORKS[^key-49f97558c3549b14b89d5473a8625a5b]
+## SCHEDULE 1 — SCHEDULED WORKS[^c-49f97558c3549b14b89d5473a8625a5b]
 
 *Extent: E+W*
 
 Articles 2 and 4
 
-[^key-49f97558c3549b14b89d5473a8625a5b]
+[^c-49f97558c3549b14b89d5473a8625a5b]
 
 In the City of Leeds—
 
@@ -31,4 +31,4 @@ In the City of Leeds—
 
 ## Annotations
 
-[^key-49f97558c3549b14b89d5473a8625a5b]: Commencement: Sch. 1 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-49f97558c3549b14b89d5473a8625a5b]: Commencement: Sch. 1 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

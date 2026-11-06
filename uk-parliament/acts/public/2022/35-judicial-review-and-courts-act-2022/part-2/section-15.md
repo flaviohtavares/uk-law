@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Removal of certain requirements for hearings about procedural matters[^key-dd61032a749da200d364a90a152e88e3]
+## 15. Removal of certain requirements for hearings about procedural matters[^c-dd61032a749da200d364a90a152e88e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd61032a749da200d364a90a152e88e3]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/35/section/15) in force at 28.6.2022, see [s. 51(3)(a)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/a)
+[^c-dd61032a749da200d364a90a152e88e3]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/35/section/15) in force at 28.6.2022, see [s. 51(3)(a)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 136. Client money protection schemes: investigatory powers of local authorities[^key-e75ae929d3049ba4b262e96d2a1c9fad]
+## 136. Client money protection schemes: investigatory powers of local authorities[^c-e75ae929d3049ba4b262e96d2a1c9fad]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In paragraph 10 of Schedule 5 to the [Consumer Rights Act 2015](https://www.legi
 
 ## Annotations
 
-[^key-e75ae929d3049ba4b262e96d2a1c9fad]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2025/26/section/136) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-e75ae929d3049ba4b262e96d2a1c9fad]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2025/26/section/136) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

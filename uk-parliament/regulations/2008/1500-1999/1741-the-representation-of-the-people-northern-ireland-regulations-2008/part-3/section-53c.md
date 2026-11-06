@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53C. Supply of the record of anonymous entries to police forces and other organisations[^key-ced95e4297f718d971186127dd7fe513][^key-216c24d2ba1307be2b6331e82a182dae]
+## 53C. Supply of the record of anonymous entries to police forces and other organisations[^c-ced95e4297f718d971186127dd7fe513][^c-216c24d2ba1307be2b6331e82a182dae]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) the Police Service of Scotland;
 - (c) the Police Service of Northern Ireland and the Police Service of Northern Ireland (Reserve);
 - (d) the National Crime Agency;
-- (e)[^key-285b3d5b085eac072ecaf26df123fa82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-285b3d5b085eac072ecaf26df123fa82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) any body of constables established under an Act of Parliament.
 
 (2) “Senior officer” means—
@@ -56,8 +56,8 @@ otherwise than for the purposes specified in paragraph (4).
 
 ## Annotations
 
-[^key-ced95e4297f718d971186127dd7fe513]: Textual amendment: [Regs. 53A-53D](https://www.legislation.gov.uk/uksi/2008/1741/regulation/53A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2014/1808/regulation/15)
+[^c-ced95e4297f718d971186127dd7fe513]: Textual amendment: [Regs. 53A-53D](https://www.legislation.gov.uk/uksi/2008/1741/regulation/53A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2014/1808/regulation/15)
 
-[^key-216c24d2ba1307be2b6331e82a182dae]: Modification: [Reg. 53C](https://www.legislation.gov.uk/uksi/2008/1741/regulation/53C) applied (15.9.2014) by [S.I. 2001/1184](https://www.legislation.gov.uk/uksi/2001/1184), [reg. 9](https://www.legislation.gov.uk/uksi/2001/1184/regulation/9), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2001/1184/schedule) (as inserted by [S.I. 2014/1803](https://www.legislation.gov.uk/uksi/2014/1803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/8/3/b))
+[^c-216c24d2ba1307be2b6331e82a182dae]: Modification: [Reg. 53C](https://www.legislation.gov.uk/uksi/2008/1741/regulation/53C) applied (15.9.2014) by [S.I. 2001/1184](https://www.legislation.gov.uk/uksi/2001/1184), [reg. 9](https://www.legislation.gov.uk/uksi/2001/1184/regulation/9), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2001/1184/schedule) (as inserted by [S.I. 2014/1803](https://www.legislation.gov.uk/uksi/2014/1803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/8/3/b))
 
-[^key-285b3d5b085eac072ecaf26df123fa82]: Textual amendment: [Reg. 53C(1)(e)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/53C/1/e) omitted (31.10.2023) by virtue of [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/5/1)
+[^c-285b3d5b085eac072ecaf26df123fa82]: Textual amendment: [Reg. 53C(1)(e)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/53C/1/e) omitted (31.10.2023) by virtue of [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/5/1)

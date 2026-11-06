@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — Constitution of Independent Schools Tribunals[^key-5a2379a74b17d67abbfeb0617fa4a1f2]
+## SCHEDULE 2 — Constitution of Independent Schools Tribunals[^c-5a2379a74b17d67abbfeb0617fa4a1f2]
 
 *Extent: S*
 
@@ -24,16 +24,16 @@ summary: ''
 
 Section 100(1).
 
-**1.**[^key-5a2379a74b17d67abbfeb0617fa4a1f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5a2379a74b17d67abbfeb0617fa4a1f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5a2379a74b17d67abbfeb0617fa4a1f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5a2379a74b17d67abbfeb0617fa4a1f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5a2379a74b17d67abbfeb0617fa4a1f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5a2379a74b17d67abbfeb0617fa4a1f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5a2379a74b17d67abbfeb0617fa4a1f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5a2379a74b17d67abbfeb0617fa4a1f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5a2379a74b17d67abbfeb0617fa4a1f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5a2379a74b17d67abbfeb0617fa4a1f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5a2379a74b17d67abbfeb0617fa4a1f2]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1980/44/schedule/2) repealed (31.12.2005) by [School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), [s. 9(2)](https://www.legislation.gov.uk/asp/2004/12/section/9/2), [sch. 2](https://www.legislation.gov.uk/asp/2004/12/schedule/2); [S.S.I. 2005/10](https://www.legislation.gov.uk/ssi/2005/10), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/10/article/3/d) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2005/10/article/3/2))
+[^c-5a2379a74b17d67abbfeb0617fa4a1f2]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1980/44/schedule/2) repealed (31.12.2005) by [School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), [s. 9(2)](https://www.legislation.gov.uk/asp/2004/12/section/9/2), [sch. 2](https://www.legislation.gov.uk/asp/2004/12/schedule/2); [S.S.I. 2005/10](https://www.legislation.gov.uk/ssi/2005/10), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/10/article/3/d) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2005/10/article/3/2))

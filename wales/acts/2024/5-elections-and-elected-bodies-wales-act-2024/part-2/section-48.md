@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Deadline for completion of reviews[^key-82d72f3ce272b02562924f798d0f1df1]
+## 48. Deadline for completion of reviews[^c-82d72f3ce272b02562924f798d0f1df1]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82d72f3ce272b02562924f798d0f1df1]: Commencement: [S. 48](https://www.legislation.gov.uk/asc/2024/5/section/48) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)
+[^c-82d72f3ce272b02562924f798d0f1df1]: Commencement: [S. 48](https://www.legislation.gov.uk/asc/2024/5/section/48) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)

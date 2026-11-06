@@ -83,7 +83,7 @@ Sections 23 and 59.
 
 ### Sheriff Courts (Scotland) Act 1971 (c.58)
 
-**12.**[^key-c26276faad86fd6bbf0b6180463648ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c26276faad86fd6bbf0b6180463648ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **13.** In section 33(4) (appointment of secretary of Sheriff Court Rules Council) the words “whole-time sheriff clerk as” shall cease to have effect.
 
@@ -170,7 +170,7 @@ Sections 23 and 59.
 
 [^c1004400]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1985/73/schedule/2/paragraph/8) repealed (S.) by [Court of Session Act 1988 (c. 36, SIF 36:1)](https://www.legislation.gov.uk/ukpga/1988/36), [s. 52(2)](https://www.legislation.gov.uk/ukpga/1988/36/section/52/2), [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1988/36/schedule/2/part/I) (and re-enacted as referred to in Sch. 2 Pt. II of that Act)
 
-[^key-c26276faad86fd6bbf0b6180463648ad]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/1985/73/schedule/2/paragraph/12) repealed (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 1 para. 1(d)](https://www.legislation.gov.uk/ssi/2016/387/schedule/1/paragraph/1/d) (with [art. 4(1)](https://www.legislation.gov.uk/ssi/2016/387/article/4/1))
+[^c-c26276faad86fd6bbf0b6180463648ad]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/1985/73/schedule/2/paragraph/12) repealed (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 1 para. 1(d)](https://www.legislation.gov.uk/ssi/2016/387/schedule/1/paragraph/1/d) (with [art. 4(1)](https://www.legislation.gov.uk/ssi/2016/387/article/4/1))
 
 [^c1004401]: Textual amendment: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/1985/73/schedule/2/paragraph/16) repealed (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 6](https://www.legislation.gov.uk/ukpga/1995/40/section/6), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch.5](https://www.legislation.gov.uk/ukpga/1995/40/schedule/5) (with [Sch. 3 paras 1](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3/paragraph/3))
 

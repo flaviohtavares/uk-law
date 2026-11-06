@@ -31,26 +31,26 @@ summary: ''
 
 ARMS AND AMMUNITION
 
-The Firearms (Amendment) Act 1988(Firearms Consultative Committee) Order 2000 (revoked)[^key-2005deb8d36cfe089ad15c2e1d365960]
+The Firearms (Amendment) Act 1988(Firearms Consultative Committee) Order 2000 (revoked)[^c-2005deb8d36cfe089ad15c2e1d365960]
 
 Made
 
 27th January 2000
 
-[^key-2005deb8d36cfe089ad15c2e1d365960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2005deb8d36cfe089ad15c2e1d365960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-2005deb8d36cfe089ad15c2e1d365960] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2005deb8d36cfe089ad15c2e1d365960] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2005deb8d36cfe089ad15c2e1d365960] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2005deb8d36cfe089ad15c2e1d365960] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2005deb8d36cfe089ad15c2e1d365960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2005deb8d36cfe089ad15c2e1d365960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2005deb8d36cfe089ad15c2e1d365960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2005deb8d36cfe089ad15c2e1d365960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2005deb8d36cfe089ad15c2e1d365960]: Textual amendment: Order revoked (1.2.2002) by [The Firearms (Amendment) Act 1988 (Firearms Consultative Committee) Order 2002 (S.I. 2002/127)](https://www.legislation.gov.uk/uksi/2002/127), [arts. 1](https://www.legislation.gov.uk/uksi/2002/127/article/1), [3](https://www.legislation.gov.uk/uksi/2002/127/article/3)
+[^c-2005deb8d36cfe089ad15c2e1d365960]: Textual amendment: Order revoked (1.2.2002) by [The Firearms (Amendment) Act 1988 (Firearms Consultative Committee) Order 2002 (S.I. 2002/127)](https://www.legislation.gov.uk/uksi/2002/127), [arts. 1](https://www.legislation.gov.uk/uksi/2002/127/article/1), [3](https://www.legislation.gov.uk/uksi/2002/127/article/3)

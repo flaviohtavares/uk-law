@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Appeals[^key-3a01bcfe3275e7202685ef06d194a50e]
+## 160. Appeals[^c-3a01bcfe3275e7202685ef06d194a50e]
 
 *Extent: E+W+S+N.I.*
 
@@ -127,4 +127,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a01bcfe3275e7202685ef06d194a50e]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2014/12/section/160) in force at 15.4.2015 by [S.I. 2015/987](https://www.legislation.gov.uk/uksi/2015/987), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/987/article/2/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/987/article/4))
+[^c-3a01bcfe3275e7202685ef06d194a50e]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2014/12/section/160) in force at 15.4.2015 by [S.I. 2015/987](https://www.legislation.gov.uk/uksi/2015/987), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/987/article/2/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/987/article/4))

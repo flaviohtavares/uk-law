@@ -16,9 +16,9 @@ summary: ''
 
 ## 34. Information to be included in the register
 
-(1) The register shall contain the particulars set out in paragraphs (1A)[^key-2bc2164342cd86437af26f3bffea18f3] to (10).
+(1) The register shall contain the particulars set out in paragraphs (1A)[^c-2bc2164342cd86437af26f3bffea18f3] to (10).
 
-(1A)[^key-6321a80aef11faa9c12eb9b8e50d856b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-6321a80aef11faa9c12eb9b8e50d856b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In relation to a prohibition notice served by the Secretary of State under section 110 of the Act—
 
@@ -38,12 +38,12 @@ summary: ''
 - (e) the intended dates of the release,
 - (f) the environmental risk assessment,
 - (g) the methods and plans for monitoring the genetically modified organisms and for responding to an emergency, and
-- (h) a summary of any advice the Secretary of State has received from the Advisory Committee on Releases to the Environment as to whether an application for release of , or to market,[^key-9e316f86c1ea277aa239dc3d0327e7d8] genetically modified organisms should be granted or rejected, and either—
+- (h) a summary of any advice the Secretary of State has received from the Advisory Committee on Releases to the Environment as to whether an application for release of , or to market,[^c-9e316f86c1ea277aa239dc3d0327e7d8] genetically modified organisms should be granted or rejected, and either—
   - (i) the conditions or limitations in accordance with which that committee has advised that the consent should be granted, or
   - (ii) a summary of the reasons why that committee has advised that the consent should not be granted.
-- (i)[^key-494e8d9a842d7d5f2e5b7107733fe09a] the summary of the information contained in the application required by regulation 11(1)(d) or, as the case may be, of the application required by regulation 16(2)(j).
+- (i)[^c-494e8d9a842d7d5f2e5b7107733fe09a] the summary of the information contained in the application required by regulation 11(1)(d) or, as the case may be, of the application required by regulation 16(2)(j).
 
-(3A)[^key-12268c1d521c84098cb92165aa182367] Subject to paragraph (4) and to the information concerned not being confidential, in relation to an application for a consent under section 111(1) of the Act to market genetically modified organisms—
+(3A)[^c-12268c1d521c84098cb92165aa182367] Subject to paragraph (4) and to the information concerned not being confidential, in relation to an application for a consent under section 111(1) of the Act to market genetically modified organisms—
 
 - (a) the name and address of the person who is responsible for the marketing, whether manufacturer, importer or distributor;
 - (b) the proposed commercial name of the product;
@@ -67,13 +67,13 @@ summary: ''
 - (a) any information provided to the Secretary of State in accordance with section 111(6A) or 112(5)(b)(i) of the Act,
 - (b) any information relating to an unforeseen event occurring in connection with a release of a genetically modified organism which might affect the risks there are of damage being caused to the environment notified to the Secretary of State in accordance with section 112(5)(b)(iii) of the Act.
 
-(7) A copy of any consent to market genetically modified organisms granted before exit day[^key-3f88fb7eb1ae4d29921c4366667d71b6] by a competent authority of another member State.
+(7) A copy of any consent to market genetically modified organisms granted before exit day[^c-3f88fb7eb1ae4d29921c4366667d71b6] by a competent authority of another member State.
 
-(7A)[^key-e39c9a7fd8ddb0792c983fecb7bf68e8] A copy of any assessment report produced in accordance with regulation 23(1)(d) or regulation 25(1)(c).
+(7A)[^c-e39c9a7fd8ddb0792c983fecb7bf68e8] A copy of any assessment report produced in accordance with regulation 23(1)(d) or regulation 25(1)(c).
 
 (8) The location of any genetically modified organisms grown in England pursuant to a consent to market insofar as that information is supplied to the Secretary of State in accordance with the monitoring requirements imposed on the consent.
 
-(9) Any decision adopted before exit day by the European[^key-080f2a27462adbe9229789db550a749a] Commission in accordance with Article 18 of the Deliberate Release Directive.
+(9) Any decision adopted before exit day by the European[^c-080f2a27462adbe9229789db550a749a] Commission in accordance with Article 18 of the Deliberate Release Directive.
 
 (10) In relation to convictions for any offence under section 118 of the Act—
 
@@ -84,18 +84,18 @@ summary: ''
 
 ## Annotations
 
-[^key-2bc2164342cd86437af26f3bffea18f3]: Textual amendment: Word in [reg. 34(1)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/1) substituted (11.4.2022) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2022 (S.I. 2022/347)](https://www.legislation.gov.uk/uksi/2022/347), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/347/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2022/347/regulation/2/5/a)
+[^c-2bc2164342cd86437af26f3bffea18f3]: Textual amendment: Word in [reg. 34(1)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/1) substituted (11.4.2022) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2022 (S.I. 2022/347)](https://www.legislation.gov.uk/uksi/2022/347), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/347/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2022/347/regulation/2/5/a)
 
-[^key-6321a80aef11faa9c12eb9b8e50d856b]: Textual amendment: [Reg. 34(1A)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/1A) omitted (13.11.2025) by virtue of [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [55(1)(d)](https://www.legislation.gov.uk/uksi/2025/581/regulation/55/1/d)
+[^c-6321a80aef11faa9c12eb9b8e50d856b]: Textual amendment: [Reg. 34(1A)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/1A) omitted (13.11.2025) by virtue of [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [55(1)(d)](https://www.legislation.gov.uk/uksi/2025/581/regulation/55/1/d)
 
-[^key-9e316f86c1ea277aa239dc3d0327e7d8]: Textual amendment: Words in [reg. 34(3)(h)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/3/h) inserted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [3(16)(a)(i)](https://www.legislation.gov.uk/uksi/2019/88/regulation/3/16/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e316f86c1ea277aa239dc3d0327e7d8]: Textual amendment: Words in [reg. 34(3)(h)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/3/h) inserted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [3(16)(a)(i)](https://www.legislation.gov.uk/uksi/2019/88/regulation/3/16/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-494e8d9a842d7d5f2e5b7107733fe09a]: Textual amendment: [Reg. 34(3)(i)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/3/i) inserted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [3(16)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/88/regulation/3/16/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-494e8d9a842d7d5f2e5b7107733fe09a]: Textual amendment: [Reg. 34(3)(i)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/3/i) inserted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [3(16)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/88/regulation/3/16/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-12268c1d521c84098cb92165aa182367]: Textual amendment: [Reg. 34(3A)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/3A) inserted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [3(16)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/3/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-12268c1d521c84098cb92165aa182367]: Textual amendment: [Reg. 34(3A)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/3A) inserted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [3(16)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/3/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3f88fb7eb1ae4d29921c4366667d71b6]: Textual amendment: Words in [reg. 34(7)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/7) inserted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [3(16)(c)](https://www.legislation.gov.uk/uksi/2019/88/regulation/3/16/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f88fb7eb1ae4d29921c4366667d71b6]: Textual amendment: Words in [reg. 34(7)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/7) inserted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [3(16)(c)](https://www.legislation.gov.uk/uksi/2019/88/regulation/3/16/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e39c9a7fd8ddb0792c983fecb7bf68e8]: Textual amendment: [Reg. 34(7A)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/7A) inserted (31.12.2020) by [The Food and Farming (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/759)](https://www.legislation.gov.uk/uksi/2019/759), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2019/759/regulation/1/b), [9(4)](https://www.legislation.gov.uk/uksi/2019/759/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e39c9a7fd8ddb0792c983fecb7bf68e8]: Textual amendment: [Reg. 34(7A)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/7A) inserted (31.12.2020) by [The Food and Farming (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/759)](https://www.legislation.gov.uk/uksi/2019/759), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2019/759/regulation/1/b), [9(4)](https://www.legislation.gov.uk/uksi/2019/759/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-080f2a27462adbe9229789db550a749a]: Textual amendment: Words in [reg. 34(9)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/9) substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [3(16)(d)](https://www.legislation.gov.uk/uksi/2019/88/regulation/3/16/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-080f2a27462adbe9229789db550a749a]: Textual amendment: Words in [reg. 34(9)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/34/9) substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [3(16)(d)](https://www.legislation.gov.uk/uksi/2019/88/regulation/3/16/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

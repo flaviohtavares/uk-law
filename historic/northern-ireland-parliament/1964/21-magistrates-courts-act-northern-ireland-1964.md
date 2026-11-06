@@ -56,7 +56,7 @@ And Whereas the Clerk of the Parliaments has certified accordingly pursuant to s
 
 ### Appointment, oath and removal of justices of the peace
 
-#### 3. Justices of the peace.[^key-ef8a7db5cf880021dd07b7d86d161252]
+#### 3. Justices of the peace.[^c-ef8a7db5cf880021dd07b7d86d161252]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -70,11 +70,11 @@ And Whereas the Clerk of the Parliaments has certified accordingly pursuant to s
 
 (2) If any justice of the peace is adjudged bankrupt, or makes any arrangement or composition with his creditors under the Irish Bankrupt and Insolvent Act 1857 [^m00001] or the Bankruptcy (Ireland) Amendment Act 1872 [^m00002], he shall be and remain incapable of acting as a justice of the peace until he has been again appointed a justice of the peace.
 
-(3)[^key-2b6febdaef1daf13332222e8ecf0116e] A person who is adjudged bankrupt shall not be capable of being appointed a justice of the peace unless and until either the adjudication of bankruptcy is annulled or he is discharged
+(3)[^c-2b6febdaef1daf13332222e8ecf0116e] A person who is adjudged bankrupt shall not be capable of being appointed a justice of the peace unless and until either the adjudication of bankruptcy is annulled or he is discharged
 
-(3ZA)[^key-76ef838897d03cd67a2c267a3250741a] A person in relation to whom a moratorium period under a debt relief order applies shall not be capable of being appointed a justice of the peace.
+(3ZA)[^c-76ef838897d03cd67a2c267a3250741a] A person in relation to whom a moratorium period under a debt relief order applies shall not be capable of being appointed a justice of the peace.
 
-(3A)[^key-a2b7c2c42a3d058e350fe59b9b5a453b] A person who is the subject of a bankruptcy restrictions order or who is subject to a debt relief restrictions order[^key-365eb817b6071b6b0490bee6fe71f6df] shall not be capable of being appointed a justice of the peace
+(3A)[^c-a2b7c2c42a3d058e350fe59b9b5a453b] A person who is the subject of a bankruptcy restrictions order or who is subject to a debt relief restrictions order[^c-365eb817b6071b6b0490bee6fe71f6df] shall not be capable of being appointed a justice of the peace
 
 (4) A person shall not be deemed incapable, on grounds of interest or bias, of acting as a justice of the peace in relation to any matter concerning a local authority by reason only that—
 
@@ -106,11 +106,11 @@ And Whereas the Clerk of the Parliaments has certified accordingly pursuant to s
 
 (3) A resident magistrate shall sit in accordance with directions given by the Lord Chief Justice[^c19795781].
 
-(4) A resident magistrate may, in accordance with such directions, sit in any magistrates' court[^key-5624cec67267a6e4e407f954d9c86dbb] .
+(4) A resident magistrate may, in accordance with such directions, sit in any magistrates' court[^c-5624cec67267a6e4e407f954d9c86dbb] .
 
-(5) Subject to subsections (3) and (4), the Lord Chief Justice may assign a resident magistrate to one or more divisions[^key-96873e06302aa5808b9bb704aa838904] and may from time to time vary any such assignment.\]
+(5) Subject to subsections (3) and (4), the Lord Chief Justice may assign a resident magistrate to one or more divisions[^c-96873e06302aa5808b9bb704aa838904] and may from time to time vary any such assignment.\]
 
-(6)[^key-1c5dd3c78488f006b67070c49af12224] In subsection (5) “**division**” means an administrative court division specified under section2 of the Justice Act (Northern Ireland) 2015 for all or the residual purposes of a magistrates' court.
+(6)[^c-1c5dd3c78488f006b67070c49af12224] In subsection (5) “**division**” means an administrative court division specified under section2 of the Justice Act (Northern Ireland) 2015 for all or the residual purposes of a magistrates' court.
 
 #### 10. Appointment of deputy resident magistrates.
 
@@ -222,7 +222,7 @@ SCHEDULES
 
 [^c19796061]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/apni/1964/21/section/1/3): words in the definition of "resident magistrate" repealed (3.4.2006) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 86](https://www.legislation.gov.uk/ukpga/2002/26/section/86), [87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2006/124](https://www.legislation.gov.uk/nisr/2006/124), [art. 2](https://www.legislation.gov.uk/nisr/2006/124/article/2), [Sch. paras. 9](https://www.legislation.gov.uk/nisr/2006/124/schedule/paragraph/9), [11(c)](https://www.legislation.gov.uk/nisr/2006/124/schedule/paragraph/11/c)
 
-[^key-ef8a7db5cf880021dd07b7d86d161252]: Textual amendment: [S. 3](https://www.legislation.gov.uk/apni/1964/21/section/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 57(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/57/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(l)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-ef8a7db5cf880021dd07b7d86d161252]: Textual amendment: [S. 3](https://www.legislation.gov.uk/apni/1964/21/section/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 57(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/57/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(l)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c17169471]: Textual amendment: [1975 NI 7](https://www.legislation.gov.uk/nisi/1975); [1981 NI 26](https://www.legislation.gov.uk/nisi/1981)
 
@@ -236,13 +236,13 @@ SCHEDULES
 
 [^m00002]: Marginal citation: 1872 c.58
 
-[^key-2b6febdaef1daf13332222e8ecf0116e]: Textual amendment: S. 6(3) substituted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. Pt para. 2(2)(a)](https://www.legislation.gov.uk/nisr/2015/159/schedule/Pt/paragraph/2/2/a)
+[^c-2b6febdaef1daf13332222e8ecf0116e]: Textual amendment: S. 6(3) substituted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. Pt para. 2(2)(a)](https://www.legislation.gov.uk/nisr/2015/159/schedule/Pt/paragraph/2/2/a)
 
-[^key-76ef838897d03cd67a2c267a3250741a]: Textual amendment: [S. 6(3ZA)](https://www.legislation.gov.uk/apni/1964/21/section/6/3ZA) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/3/a)
+[^c-76ef838897d03cd67a2c267a3250741a]: Textual amendment: [S. 6(3ZA)](https://www.legislation.gov.uk/apni/1964/21/section/6/3ZA) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/3/a)
 
-[^key-a2b7c2c42a3d058e350fe59b9b5a453b]: Textual amendment: S. 6(3A) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2015/159/schedule/Pt/paragraph/2/2/b)
+[^c-a2b7c2c42a3d058e350fe59b9b5a453b]: Textual amendment: S. 6(3A) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2015/159/schedule/Pt/paragraph/2/2/b)
 
-[^key-365eb817b6071b6b0490bee6fe71f6df]: Textual amendment: Words in [s. 6(3A)](https://www.legislation.gov.uk/apni/1964/21/section/6/3A) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 3(b)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/3/b)
+[^c-365eb817b6071b6b0490bee6fe71f6df]: Textual amendment: Words in [s. 6(3A)](https://www.legislation.gov.uk/apni/1964/21/section/6/3A) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 3(b)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/3/b)
 
 [^c17169511]: Textual amendment: [1977 NI 28](https://www.legislation.gov.uk/nisi/1977)
 
@@ -256,11 +256,11 @@ SCHEDULES
 
 [^c19795781]: Textual amendment: Words in s. 9(3)(5) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para.16](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/16); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art.2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 
-[^key-5624cec67267a6e4e407f954d9c86dbb]: Textual amendment: Words in [s. 9(4)](https://www.legislation.gov.uk/apni/1964/21/section/9/4) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 57(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/57/2/a) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-5624cec67267a6e4e407f954d9c86dbb]: Textual amendment: Words in [s. 9(4)](https://www.legislation.gov.uk/apni/1964/21/section/9/4) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 57(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/57/2/a) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-96873e06302aa5808b9bb704aa838904]: Textual amendment: Words in [s. 9(5)](https://www.legislation.gov.uk/apni/1964/21/section/9/5) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 57(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/57/2/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-96873e06302aa5808b9bb704aa838904]: Textual amendment: Words in [s. 9(5)](https://www.legislation.gov.uk/apni/1964/21/section/9/5) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 57(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/57/2/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-1c5dd3c78488f006b67070c49af12224]: Textual amendment: [S. 9(6)](https://www.legislation.gov.uk/apni/1964/21/section/9/6) added (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 57(2)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/57/2/c) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-1c5dd3c78488f006b67070c49af12224]: Textual amendment: [S. 9(6)](https://www.legislation.gov.uk/apni/1964/21/section/9/6) added (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 57(2)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/57/2/c) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c21884471]: Textual amendment: [S. 10(1)](https://www.legislation.gov.uk/apni/1964/21/section/10/1) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 2(3)(4)](https://www.legislation.gov.uk/ukpga/2009/3/section/2/3/4), [5(7)(a)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7/a), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/4) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 

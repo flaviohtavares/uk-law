@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 674A. Section 674: exception for certain losses of ring fence trade[^key-38e3dfbc1284cdd95fac44e2371c3321]
+## 674A. Section 674: exception for certain losses of ring fence trade[^c-38e3dfbc1284cdd95fac44e2371c3321]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38e3dfbc1284cdd95fac44e2371c3321]: Textual amendment: [S. 674A](https://www.legislation.gov.uk/ukpga/2010/4/section/674A) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 74](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/74)
+[^c-38e3dfbc1284cdd95fac44e2371c3321]: Textual amendment: [S. 674A](https://www.legislation.gov.uk/ukpga/2010/4/section/674A) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 74](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/74)

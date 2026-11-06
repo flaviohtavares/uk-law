@@ -34,48 +34,48 @@ of 25 March 2010
 
 establishing a European Progress Microfinance Facility for employment and social inclusion (revoked)
 
-[^key-8b1b2648a85a8b6e95981aa1e502a087]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b1b2648a85a8b6e95981aa1e502a087]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Establishment[^key-8b1b2648a85a8b6e95981aa1e502a087]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Objective[^key-8b1b2648a85a8b6e95981aa1e502a087]
+## Article 1. Establishment[^c-8b1b2648a85a8b6e95981aa1e502a087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Budget[^key-8b1b2648a85a8b6e95981aa1e502a087]
+## Article 2. Objective[^c-8b1b2648a85a8b6e95981aa1e502a087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Eligible actions and beneficiaries[^key-8b1b2648a85a8b6e95981aa1e502a087]
+## Article 3. Budget[^c-8b1b2648a85a8b6e95981aa1e502a087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Management[^key-8b1b2648a85a8b6e95981aa1e502a087]
+## Article 4. Eligible actions and beneficiaries[^c-8b1b2648a85a8b6e95981aa1e502a087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Compliance[^key-8b1b2648a85a8b6e95981aa1e502a087]
+## Article 5. Management[^c-8b1b2648a85a8b6e95981aa1e502a087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Protection of the Union’s financial interests[^key-8b1b2648a85a8b6e95981aa1e502a087]
+## Article 6. Compliance[^c-8b1b2648a85a8b6e95981aa1e502a087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Annual report[^key-8b1b2648a85a8b6e95981aa1e502a087]
+## Article 7. Protection of the Union’s financial interests[^c-8b1b2648a85a8b6e95981aa1e502a087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Evaluation[^key-8b1b2648a85a8b6e95981aa1e502a087]
+## Article 8. Annual report[^c-8b1b2648a85a8b6e95981aa1e502a087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Entry into force[^key-8b1b2648a85a8b6e95981aa1e502a087]
+## Article 9. Evaluation[^c-8b1b2648a85a8b6e95981aa1e502a087]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 10. Entry into force[^c-8b1b2648a85a8b6e95981aa1e502a087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8b1b2648a85a8b6e95981aa1e502a087]: Textual amendment: Decision revoked (31.12.2020) by [The European Network of Employment Services (EU Exit) Regulations 2018 (S.I. 2018/1283)](https://www.legislation.gov.uk/uksi/2018/1283), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1283/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1283/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1283/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8b1b2648a85a8b6e95981aa1e502a087]: Textual amendment: Decision revoked (31.12.2020) by [The European Network of Employment Services (EU Exit) Regulations 2018 (S.I. 2018/1283)](https://www.legislation.gov.uk/uksi/2018/1283), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1283/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1283/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1283/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

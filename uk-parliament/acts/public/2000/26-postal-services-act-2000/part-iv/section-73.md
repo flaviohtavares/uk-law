@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Statutory accounts of the original holding company.[^key-205fe024b08c0f821b770eaa3d1fa3ff]
+## 73. Statutory accounts of the original holding company.[^c-205fe024b08c0f821b770eaa3d1fa3ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,10 +32,10 @@ summary: ''
 - (a) the amount to be included from time to time in any reserves of the original holding company as representing its accumulated realised profits shall be determined as if any profits realised and retained by the Post Office had been realised and retained by the original holding company, and
 - (b) the amount to be included from time to time in any statutory accounts of the original holding company as representing its accumulated realised losses shall be determined as if any losses realised by the Post Office had been realised by the original holding company.
 
-(4) In this section “**statutory accounts**”, in relation to the original holding company, means any accounts of that company prepared for the purposes of any provision of the Companies Act 2006[^key-c9c54cc2794a4b856aa2b4ce4649128e] (including group accounts).
+(4) In this section “**statutory accounts**”, in relation to the original holding company, means any accounts of that company prepared for the purposes of any provision of the Companies Act 2006[^c-c9c54cc2794a4b856aa2b4ce4649128e] (including group accounts).
 
 ## Annotations
 
-[^key-205fe024b08c0f821b770eaa3d1fa3ff]: Textual amendment: Words in s. 73 substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/14); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-205fe024b08c0f821b770eaa3d1fa3ff]: Textual amendment: Words in s. 73 substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/14); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-c9c54cc2794a4b856aa2b4ce4649128e]: Textual amendment: Words in s. 73(4) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 216](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/216) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-c9c54cc2794a4b856aa2b4ce4649128e]: Textual amendment: Words in s. 73(4) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 216](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/216) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))

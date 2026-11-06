@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10.153A. Application[^key-7e88c76cffe46049db63a72bc549ac56]
+## 10.153A. Application[^c-7e88c76cffe46049db63a72bc549ac56]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The rules in this chapter apply to proceedings arising out of criminal bankruptc
 
 ## Annotations
 
-[^key-7e88c76cffe46049db63a72bc549ac56]: Textual amendment: [Rule 10.153A](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.153A) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [32](https://www.legislation.gov.uk/uksi/2017/366/rule/32)
+[^c-7e88c76cffe46049db63a72bc549ac56]: Textual amendment: [Rule 10.153A](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.153A) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [32](https://www.legislation.gov.uk/uksi/2017/366/rule/32)

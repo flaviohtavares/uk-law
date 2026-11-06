@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Disregard of capital of child and young person[^key-d33549e784bf8a7d5624ff3996435c66]
+## 42. Disregard of capital of child and young person[^c-d33549e784bf8a7d5624ff3996435c66]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The capital of a child or young person who is a member of the claimant’s famil
 
 ## Annotations
 
-[^key-d33549e784bf8a7d5624ff3996435c66]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2006/405/regulation/42) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-d33549e784bf8a7d5624ff3996435c66]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2006/405/regulation/42) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

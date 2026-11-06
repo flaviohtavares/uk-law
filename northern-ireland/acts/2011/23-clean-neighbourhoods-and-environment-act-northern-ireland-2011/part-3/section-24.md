@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Abandoned shopping and luggage trolleys[^key-9900fe821f45fcf6b09ea63e6f02573f]
+## 24. Abandoned shopping and luggage trolleys[^c-9900fe821f45fcf6b09ea63e6f02573f]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9900fe821f45fcf6b09ea63e6f02573f]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2011/23/section/24) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-9900fe821f45fcf6b09ea63e6f02573f]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2011/23/section/24) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

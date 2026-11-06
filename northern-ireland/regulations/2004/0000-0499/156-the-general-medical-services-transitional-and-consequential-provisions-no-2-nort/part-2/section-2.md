@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Application and interpretation of this Part[^key-169846233b82dc8a72398acbd80fcead]
+## 2. Application and interpretation of this Part[^c-169846233b82dc8a72398acbd80fcead]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-169846233b82dc8a72398acbd80fcead]: Commencement: Art. 2 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-169846233b82dc8a72398acbd80fcead]: Commencement: Art. 2 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

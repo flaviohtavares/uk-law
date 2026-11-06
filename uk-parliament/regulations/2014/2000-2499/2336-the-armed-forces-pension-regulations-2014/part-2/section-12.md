@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Conflict of interest: scheme advisory board[^key-377807375e02b73ee1e81db6a9e87910]
+## 12. Conflict of interest: scheme advisory board[^c-377807375e02b73ee1e81db6a9e87910]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-377807375e02b73ee1e81db6a9e87910]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/2336/regulation/12) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-377807375e02b73ee1e81db6a9e87910]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/2336/regulation/12) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

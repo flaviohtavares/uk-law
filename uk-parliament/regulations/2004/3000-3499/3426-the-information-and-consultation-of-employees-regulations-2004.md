@@ -56,7 +56,7 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 In these Regulations—
 
 - “**the 1996 Act**” means the Employment Rights Act 1996 [^c5404881];
-- “agency worker” has the same meaning as in regulation 3 of the Agency Workers Regulations 2010;[^key-24d4bde8b0e8a0626ab0f4e01468211c]
+- “agency worker” has the same meaning as in regulation 3 of the Agency Workers Regulations 2010;[^c-24d4bde8b0e8a0626ab0f4e01468211c]
 - “**Appeal Tribunal**” means the Employment Appeal Tribunal;
 - “**CAC**” means the Central Arbitration Committee;
 - “**consultation**” means the exchange of views and establishment of a dialogue between—
@@ -81,14 +81,14 @@ In these Regulations—
   - (b) an agreement between the employer and the information and consultation representatives referred to in regulation 18(2);
 - “**negotiating representative**” means a person elected or appointed pursuant to regulation 14(1)(a);
 - “**parties**” means the employer and the negotiating representatives or the information and consultation representatives, as the case may be;
-- “[^key-01499f0801d3921495664af3e11fca3b]Pension Schemes Regulations” means the Occupational and Personal Pension Schemes (Consultation by Employers and Miscellaneous Amendment) Regulations 2006;
+- “[^c-01499f0801d3921495664af3e11fca3b]Pension Schemes Regulations” means the Occupational and Personal Pension Schemes (Consultation by Employers and Miscellaneous Amendment) Regulations 2006;
 - “**pre-existing agreement**” means an agreement between an employer and his employees or their representatives which—
   - (a) is made prior to the making of an employee request; and
   - (b) satisfies the conditions set out in regulation 8(1)(a) to (d),
 
   but does not include an agreement concluded in accordance with regulations 17 or 42 to 45 of the Transnational Information and Consultation of Employees Regulations 1999 [^c5404901] or a negotiated agreement;
 - “**standard information and consultation provisions**” means the provisions set out in regulation 20;
-- “suitable information relating to the use of agency workers” means information as to—[^key-b4923f6a401ef7f33180cc1d95ce34d2]
+- “suitable information relating to the use of agency workers” means information as to—[^c-b4923f6a401ef7f33180cc1d95ce34d2]
   - (a) the number of agency workers working temporarily for and under the supervision and direction of the employer,
   - (b) the parts of the employer’s undertaking in which those agency workers are working, and
   - (c) the type of work those agency workers are carrying out.
@@ -106,7 +106,7 @@ In these Regulations—
 
 (3) In these Regulations, an undertaking to which these Regulations apply is referred to, in relation to its employees, as “the employer”.
 
-### 3A. Agency Workers[^key-dd5236ce48c093dd220b0b3bed3332f8]
+### 3A. Agency Workers[^c-dd5236ce48c093dd220b0b3bed3332f8]
 
 (1) Paragraphs (2) and (3) apply to an agency worker whose contract within regulation 3(1)(b) of the Agency Workers Regulations 2010 (contract with the temporary work agency) is not a contract of employment.
 
@@ -141,7 +141,7 @@ the employee may be counted as representing half of a full-time employee for the
 (3) The employer must provide the employee or the employees' representative who made the request with data to enable him to—
 
 - (a) make the calculation of the numbers of employees referred to in regulation 4, and
-- (b) determine, for the purpose of regulation 7(2), what number of employees constitutes 2%[^key-be4f8e0713fccd1415d2c8efcfe78a7a] of the employees in the undertaking.
+- (b) determine, for the purpose of regulation 7(2), what number of employees constitutes 2%[^c-be4f8e0713fccd1415d2c8efcfe78a7a] of the employees in the undertaking.
 
 ### 6. Complaint of failure to provide data
 
@@ -166,10 +166,10 @@ the employee may be counted as representing half of a full-time employee for the
 
 (2) Subject to paragraph (3), an employee request is not a valid employee request unless it consists of—
 
-- (a) a single request made by at least 2%[^key-d79c282925087c1bd3d4953862fd00fa] of the employees in the undertaking; or
+- (a) a single request made by at least 2%[^c-d79c282925087c1bd3d4953862fd00fa] of the employees in the undertaking; or
 - (b) a number of separate requests made on the same or different days by employees which when taken together mean that at least 2% of the employees in that undertaking have made requests, provided that the requests are made within a period of six months.
 
-(3) Where the figure of 2%[^key-3f429c1dc0a40b69fca14f4af6674461] in paragraph (2) would result in less than 15 or more than 2,500 employees being required in order for a valid employee request to be made, that paragraph shall have effect as if, for the figure of 2%, there were substituted the figure of 15, or as the case may be, 2,500.
+(3) Where the figure of 2%[^c-3f429c1dc0a40b69fca14f4af6674461] in paragraph (2) would result in less than 15 or more than 2,500 employees being required in order for a valid employee request to be made, that paragraph shall have effect as if, for the figure of 2%, there were substituted the figure of 15, or as the case may be, 2,500.
 
 (4) An employee request is not a valid employee request unless the single request referred to in paragraph (2)(a) or each separate request referred to in paragraph (2)(b)—
 
@@ -241,7 +241,7 @@ have voted in favour of endorsing the request.
 
 (9) Where the CAC finds a complaint under paragraph (8) well-founded it shall make an order requiring the employer to hold the ballot within such period as the order may specify.
 
-### 8A. Pre-existing agreements: agency workers[^key-3992b49281f0c9da734da003dc8edb76]
+### 8A. Pre-existing agreements: agency workers[^c-3992b49281f0c9da734da003dc8edb76]
 
 Where information about the employment situation is to be provided under a pre-existing agreement by an employer, such information must include suitable information relating to the use of agency workers (if any) in that undertaking.
 
@@ -360,10 +360,10 @@ the employer may apply to the CAC for a declaration as to whether there was a va
 - (b) be in writing;
 - (c) be dated;
 - (d) be approved in accordance with paragraphs (3) to (5);
-- (e) be signed by or on behalf of the employer; [^key-a1000dd0f653cb4dcab830c384aa3fea]...
+- (e) be signed by or on behalf of the employer; [^c-a1000dd0f653cb4dcab830c384aa3fea]...
 - (f) either—
   - (i) provide for the appointment or election of information and consultation representatives to whom the employer must provide the information and whom the employer must consult in the circumstances referred to in sub-paragraph (a); or
-  - (ii) provide that the employer must provide information directly to the employees to which it relates and consult those employees directly in the circumstances referred to in sub-paragraph (a); and[^key-62218ff107cf86154594eedee491623a]
+  - (ii) provide that the employer must provide information directly to the employees to which it relates and consult those employees directly in the circumstances referred to in sub-paragraph (a); and[^c-62218ff107cf86154594eedee491623a]
 - (g) provide that where an employer is to provide information about the employment situation, under that agreement or under any part, such information shall include suitable information relating to the use of agency workers (if any) in that undertaking.
 
 (2) Where a negotiated agreement consist of different parts they may provide differently in relation to the matters referred to in paragraph (1)(a) and (f).
@@ -398,7 +398,7 @@ the employer may apply to the CAC for a declaration as to whether there was a va
 
 (2) Where the CAC finds the complaint well-founded it shall make an order requiring the employer to hold the ballot referred to in regulation 16 again within such period as the order may specify.
 
-### 17A. Negotiated agreements and listed changes to pension schemes[^key-bdbb2444e3ba52f3cc32a4b43138ee05]
+### 17A. Negotiated agreements and listed changes to pension schemes[^c-bdbb2444e3ba52f3cc32a4b43138ee05]
 
 (1) A requirement in any negotiated agreement or any part of such an agreement made before 6th April 2006 to inform and consult employees or their representatives about a listed change shall cease to apply once—
 
@@ -447,10 +447,10 @@ the employer may apply to the CAC for a declaration as to whether there was a va
 (1) Where the standard information and consultation provisions apply pursuant to regulation 18, the employer must provide the information and consultation representatives with information on—
 
 - (a) the recent and probable development of the undertaking’s activities and economic situation;
-- (b) the situation, structure and probable development of employment within the undertaking (and such information must include suitable information relating to the use of agency workers (if any) in that undertaking)[^key-ea6e21d499a3ca5eabb36cd07c66a8cb] and on any anticipatory measures envisaged, in particular, where there is a threat to employment within the undertaking; and
+- (b) the situation, structure and probable development of employment within the undertaking (and such information must include suitable information relating to the use of agency workers (if any) in that undertaking)[^c-ea6e21d499a3ca5eabb36cd07c66a8cb] and on any anticipatory measures envisaged, in particular, where there is a threat to employment within the undertaking; and
 - (c) subject to paragraph (5), decisions likely to lead to substantial changes in work organisation or in contractual relations, including those referred to in—
   - (i) sections 188 to 192 of the Trade Union and Labour Relations (Consolidation) Act 1992 [^c5404911]; and
-  - (ii) regulations 13 to 16 of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^key-39a2593d057b3547fbf5391660aa8978].
+  - (ii) regulations 13 to 16 of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^c-39a2593d057b3547fbf5391660aa8978].
 
 (2) The information referred to in paragraph (1) must be given at such time, in such fashion and with such content as are appropriate to enable, in particular, the information and consultation representatives to conduct an adequate study and, where necessary, to prepare for consultation.
 
@@ -465,11 +465,11 @@ the employer may apply to the CAC for a declaration as to whether there was a va
 
 (5) The duties in this regulation to inform and consult the information and consultation representatives on decisions falling within paragraph (1)(c) cease to apply once the employer is under a duty under—
 
-- (a) section 188 of the Act referred to in paragraph (1)(c)(i) (duty of employer to consult representatives); [^key-c5003bea07fa72782bc8ffa950fed005]...
-- (b) regulation 13[^M_F_9edef66d-2e5b-4440-adf0-92343c626e96] of the Regulations referred to in paragraph (1)(c)(ii) (duty to inform and consult representatives), or[^key-9c8e36f5694bd554422c8d25c2485073]
+- (a) section 188 of the Act referred to in paragraph (1)(c)(i) (duty of employer to consult representatives); [^c-c5003bea07fa72782bc8ffa950fed005]...
+- (b) regulation 13[^M_F_9edef66d-2e5b-4440-adf0-92343c626e96] of the Regulations referred to in paragraph (1)(c)(ii) (duty to inform and consult representatives), or[^c-9c8e36f5694bd554422c8d25c2485073]
 - (c) any of regulations 11 to 13 of the Pension Schemes Regulations,
 
-and he has notified the information and consultation representatives in writing that he will be complying with his duty under the legislation referred to in sub-paragraph (a), (b) or (c)[^key-73fa69fb752f06ef647924cbe5b9f015], as the case may be, instead of under these Regulations, provided that the notification is given on each occasion on which the employer has become or is about to become subject to the duty.
+and he has notified the information and consultation representatives in writing that he will be complying with his duty under the legislation referred to in sub-paragraph (a), (b) or (c)[^c-73fa69fb752f06ef647924cbe5b9f015], as the case may be, instead of under these Regulations, provided that the notification is given on each occasion on which the employer has become or is about to become subject to the duty.
 
 (6) Where there is an obligation in these Regulations on the employer to inform and consult his employees, a failure on the part of a person who controls the employer (either directly or indirectly) to provide information to the employer shall not constitute a valid reason for the employer failing to inform and consult.
 
@@ -633,10 +633,10 @@ is entitled to be permitted by his employer to take reasonable time off during t
 
 (2) A tribunal shall not consider a complaint under this regulation unless it is presented—
 
-- (a) before the end of the period of six[^key-19e850a09ed8b8fe37fa2b62ec8d95d5] months beginning with the day on which the time off was taken or on which it is alleged the time off should have been permitted; or
-- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of six[^key-fa057039a9b3f481aa41d44d8b43f2d8] months.
+- (a) before the end of the period of six[^c-19e850a09ed8b8fe37fa2b62ec8d95d5] months beginning with the day on which the time off was taken or on which it is alleged the time off should have been permitted; or
+- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of six[^c-fa057039a9b3f481aa41d44d8b43f2d8] months.
 
-(2A)[^key-01285c162573ff5a087f611540df0585] Regulation 29A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+(2A)[^c-01285c162573ff5a087f611540df0585] Regulation 29A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
 (3) Where a tribunal finds a complaint under this regulation well-founded, the tribunal shall make a declaration to that effect.
 
@@ -644,7 +644,7 @@ is entitled to be permitted by his employer to take reasonable time off during t
 
 (5) If the complaint is that the employer has failed to pay the employee the whole or part of any amount to which he is entitled under regulation 28, the tribunal shall also order the employer to pay to the employee the amount it finds due to him.
 
-### 29A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-f2e1bf6e88bc9d59ae87a1913e2281f2]
+### 29A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-f2e1bf6e88bc9d59ae87a1913e2281f2]
 
 (1) In this regulation—
 
@@ -875,11 +875,11 @@ the CAC shall proceed to hear and determine the application or complaint.
 - (a) to exclude or limit the operation of any provision of Part VIII; or
 - (b) to preclude a person from bringing any proceedings before an employment tribunal under that Part.
 
-(2) Paragraph (1) does not apply to any agreement to refrain from instituting or continuing proceedings before an employment tribunal where a conciliation officer has taken action under any of sections 18A to 18C[^key-58e1273b294ded5c4ee0933aad69ce09] of the Employment Tribunals Act 1996 (conciliation).
+(2) Paragraph (1) does not apply to any agreement to refrain from instituting or continuing proceedings before an employment tribunal where a conciliation officer has taken action under any of sections 18A to 18C[^c-58e1273b294ded5c4ee0933aad69ce09] of the Employment Tribunals Act 1996 (conciliation).
 
-(3) Paragraph (1) does not apply to any agreement to refrain from instituting or continuing before an employment tribunal proceedings within section 18(1) of the Employment Tribunals Act 1996 (proceedings under these Regulations where conciliation is available) if the conditions regulating settlement[^key-0eda106c4d4fe17601e43669f72b3cac] agreements under these Regulations are satisfied in relation to the agreement.
+(3) Paragraph (1) does not apply to any agreement to refrain from instituting or continuing before an employment tribunal proceedings within section 18(1) of the Employment Tribunals Act 1996 (proceedings under these Regulations where conciliation is available) if the conditions regulating settlement[^c-0eda106c4d4fe17601e43669f72b3cac] agreements under these Regulations are satisfied in relation to the agreement.
 
-(4) For the purposes of paragraph (3) the conditions regulating settlement[^key-ff56c9d9f117bb4139578116cfddebe4] agreements are that—
+(4) For the purposes of paragraph (3) the conditions regulating settlement[^c-ff56c9d9f117bb4139578116cfddebe4] agreements are that—
 
 - (a) the agreement must be in writing;
 - (b) the agreement must relate to the particular proceedings;
@@ -902,10 +902,10 @@ the CAC shall proceed to hear and determine the application or complaint.
 
 (7) In paragraph (5)(a), “**qualified lawyer**” means—
 
-- (a) as respects England and Wales, a person who, for the purposes of the Legal Services Act 2007), is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act)[^key-5d24f2b485a2868fe6e3a4f5f9e3b34d]; and
+- (a) as respects England and Wales, a person who, for the purposes of the Legal Services Act 2007), is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act)[^c-5d24f2b485a2868fe6e3a4f5f9e3b34d]; and
 - (b) as respects Scotland, an advocate (whether in practice as such or employed to give legal advice) or a solicitor who holds a practising certificate.
 
-(8) A person shall be treated as being a qualified lawyer within the meaning of paragraph (7)(a) if he is a Fellow of the Institute of Legal Executives practising in a solicitor’s practice (including a body recognised under section 9 of the Administration of Justice Act 1985)[^key-a7acccd72acd1527336c2f9afd573106].
+(8) A person shall be treated as being a qualified lawyer within the meaning of paragraph (7)(a) if he is a Fellow of the Institute of Legal Executives practising in a solicitor’s practice (including a body recognised under section 9 of the Administration of Justice Act 1985)[^c-a7acccd72acd1527336c2f9afd573106].
 
 (9) For the purposes of paragraph (6) any two employers shall be treated as associated if—
 
@@ -952,7 +952,7 @@ The Employment Appeal Tribunal Rules 1993 [^c5405021] shall be amended as follow
 - (a) references to an employee shall be construed as references to a person in Crown employment; and
 - (b) references to a contract of employment shall be construed as references to the terms of employment of a person in Crown employment.
 
-### 43. Exception for merchant navy[^key-514acccc1e651a414834cdd87aec9dde]
+### 43. Exception for merchant navy[^c-514acccc1e651a414834cdd87aec9dde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1089,55 +1089,55 @@ The principal provisions of the Regulations provide as follows—
 
 [^c5404881]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-24d4bde8b0e8a0626ab0f4e01468211c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/3426/regulation/2) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 22(a)](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/22/a)
+[^c-24d4bde8b0e8a0626ab0f4e01468211c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/3426/regulation/2) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 22(a)](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/22/a)
 
 [^c5404891]: Marginal citation: OJ L 80, 23.3.2002, P29.
 
-[^key-01499f0801d3921495664af3e11fca3b]: Textual amendment: Words in reg. 2 inserted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations 2006 (S.I. 2006/514)](https://www.legislation.gov.uk/uksi/2006/514), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/514/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/514/regulation/3)
+[^c-01499f0801d3921495664af3e11fca3b]: Textual amendment: Words in reg. 2 inserted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations 2006 (S.I. 2006/514)](https://www.legislation.gov.uk/uksi/2006/514), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/514/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/514/regulation/3)
 
 [^c5404901]: Marginal citation: [S.I. 1999/3323](https://www.legislation.gov.uk/uksi/1999/3323).
 
-[^key-b4923f6a401ef7f33180cc1d95ce34d2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/3426/regulation/2) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 22(b)](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/22/b)
+[^c-b4923f6a401ef7f33180cc1d95ce34d2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/3426/regulation/2) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 22(b)](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/22/b)
 
-[^key-dd5236ce48c093dd220b0b3bed3332f8]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3A) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/23)
+[^c-dd5236ce48c093dd220b0b3bed3332f8]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3A) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/23)
 
-[^key-be4f8e0713fccd1415d2c8efcfe78a7a]: Textual amendment: Word in [reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/5/3/b) substituted (6.4.2020) by [The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731)](https://www.legislation.gov.uk/uksi/2019/731), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/731/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2019/731/regulation/16/2)
+[^c-be4f8e0713fccd1415d2c8efcfe78a7a]: Textual amendment: Word in [reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/5/3/b) substituted (6.4.2020) by [The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731)](https://www.legislation.gov.uk/uksi/2019/731), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/731/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2019/731/regulation/16/2)
 
-[^key-d79c282925087c1bd3d4953862fd00fa]: Textual amendment: Word in reg. 7(2) substituted (6.4.2020) by [The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731)](https://www.legislation.gov.uk/uksi/2019/731), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/731/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2019/731/regulation/16/3)
+[^c-d79c282925087c1bd3d4953862fd00fa]: Textual amendment: Word in reg. 7(2) substituted (6.4.2020) by [The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731)](https://www.legislation.gov.uk/uksi/2019/731), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/731/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2019/731/regulation/16/3)
 
-[^key-3f429c1dc0a40b69fca14f4af6674461]: Textual amendment: Word in reg. 7(3) substituted (6.4.2020) by [The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731)](https://www.legislation.gov.uk/uksi/2019/731), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/731/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2019/731/regulation/16/3)
+[^c-3f429c1dc0a40b69fca14f4af6674461]: Textual amendment: Word in reg. 7(3) substituted (6.4.2020) by [The Employment Rights (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/731)](https://www.legislation.gov.uk/uksi/2019/731), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/731/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2019/731/regulation/16/3)
 
-[^key-3992b49281f0c9da734da003dc8edb76]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2004/3426/regulation/8A) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/24)
+[^c-3992b49281f0c9da734da003dc8edb76]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2004/3426/regulation/8A) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/24)
 
-[^key-a1000dd0f653cb4dcab830c384aa3fea]: Textual amendment: Word in [reg. 16(1)(e)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/16/1/e) omitted (1.10.2011) by virtue of [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/25)
+[^c-a1000dd0f653cb4dcab830c384aa3fea]: Textual amendment: Word in [reg. 16(1)(e)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/16/1/e) omitted (1.10.2011) by virtue of [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/25)
 
-[^key-62218ff107cf86154594eedee491623a]: Textual amendment: [Reg. 16(1)(g)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/16/1/g) and preceding word added (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/26)
+[^c-62218ff107cf86154594eedee491623a]: Textual amendment: [Reg. 16(1)(g)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/16/1/g) and preceding word added (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/26)
 
-[^key-bdbb2444e3ba52f3cc32a4b43138ee05]: Textual amendment: Reg. 17A inserted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations 2006 (S.I. 2006/514)](https://www.legislation.gov.uk/uksi/2006/514), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/514/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/514/regulation/4)
+[^c-bdbb2444e3ba52f3cc32a4b43138ee05]: Textual amendment: Reg. 17A inserted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations 2006 (S.I. 2006/514)](https://www.legislation.gov.uk/uksi/2006/514), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/514/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/514/regulation/4)
 
-[^key-ea6e21d499a3ca5eabb36cd07c66a8cb]: Textual amendment: Words in reg. 20(1)(b) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/27)
+[^c-ea6e21d499a3ca5eabb36cd07c66a8cb]: Textual amendment: Words in reg. 20(1)(b) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/27)
 
 [^c5404911]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-39a2593d057b3547fbf5391660aa8978]: Textual amendment: Words in reg. 20(1)(c)(ii) substituted (1.10.2006) by [The Transfer of Undertakings (Protection of Employment) (Consequential Amendments) Regulations 2006 (S.I. 2006/2405)](https://www.legislation.gov.uk/uksi/2006/2405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2405/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2006/2405/regulation/2)
+[^c-39a2593d057b3547fbf5391660aa8978]: Textual amendment: Words in reg. 20(1)(c)(ii) substituted (1.10.2006) by [The Transfer of Undertakings (Protection of Employment) (Consequential Amendments) Regulations 2006 (S.I. 2006/2405)](https://www.legislation.gov.uk/uksi/2006/2405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2405/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2006/2405/regulation/2)
 
-[^key-c5003bea07fa72782bc8ffa950fed005]: Textual amendment: Word in reg. 20(5)(a) omitted (6.4.2006) by virtue of [The Information and Consultation of Employees (Amendment) Regulations 2006 (S.I. 2006/514)](https://www.legislation.gov.uk/uksi/2006/514), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/514/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2006/514/regulation/5/a)
+[^c-c5003bea07fa72782bc8ffa950fed005]: Textual amendment: Word in reg. 20(5)(a) omitted (6.4.2006) by virtue of [The Information and Consultation of Employees (Amendment) Regulations 2006 (S.I. 2006/514)](https://www.legislation.gov.uk/uksi/2006/514), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/514/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2006/514/regulation/5/a)
 
 [^M_F_9edef66d-2e5b-4440-adf0-92343c626e96]: Textual amendment: Words in reg. 20(5)(b) substituted (1.10.2006) by [The Transfer of Undertakings (Protection of Employment) (Consequential Amendments) Regulations 2006 (S.I. 2006/2405)](https://www.legislation.gov.uk/uksi/2006/2405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2405/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2006/2405/regulation/2)
 
-[^key-9c8e36f5694bd554422c8d25c2485073]: Textual amendment: Reg. 20(5)(c) and word inserted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations 2006 (S.I. 2006/514)](https://www.legislation.gov.uk/uksi/2006/514), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/514/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2006/514/regulation/5/b)
+[^c-9c8e36f5694bd554422c8d25c2485073]: Textual amendment: Reg. 20(5)(c) and word inserted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations 2006 (S.I. 2006/514)](https://www.legislation.gov.uk/uksi/2006/514), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/514/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2006/514/regulation/5/b)
 
-[^key-73fa69fb752f06ef647924cbe5b9f015]: Textual amendment: Words in reg. 20(5) substituted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations 2006 (S.I. 2006/514)](https://www.legislation.gov.uk/uksi/2006/514), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/514/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2006/514/regulation/5/c)
+[^c-73fa69fb752f06ef647924cbe5b9f015]: Textual amendment: Words in reg. 20(5) substituted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations 2006 (S.I. 2006/514)](https://www.legislation.gov.uk/uksi/2006/514), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/514/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2006/514/regulation/5/c)
 
 [^c5404931]: Marginal citation: [Section 43A](https://www.legislation.gov.uk/uksi/2004/3426/section/43A) of the 1996 Act was inserted by the [Public Interest Disclosure Act 1998 (c. 23)](https://www.legislation.gov.uk/ukpga/1998/23), [section 1](https://www.legislation.gov.uk/ukpga/1998/23/section/1).
 
-[^key-19e850a09ed8b8fe37fa2b62ec8d95d5]: Textual amendment: Word in [reg. 29(2)(a)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/29/2/a) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/758/regulation/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
+[^c-19e850a09ed8b8fe37fa2b62ec8d95d5]: Textual amendment: Word in [reg. 29(2)(a)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/29/2/a) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/758/regulation/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
 
-[^key-fa057039a9b3f481aa41d44d8b43f2d8]: Textual amendment: Word in [reg. 29(2)(b)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/29/2/b) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/758/regulation/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
+[^c-fa057039a9b3f481aa41d44d8b43f2d8]: Textual amendment: Word in [reg. 29(2)(b)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/29/2/b) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/758/regulation/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
 
-[^key-01285c162573ff5a087f611540df0585]: Textual amendment: [Reg. 29(2A)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/29/2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/33)
+[^c-01285c162573ff5a087f611540df0585]: Textual amendment: [Reg. 29(2A)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/29/2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/33)
 
-[^key-f2e1bf6e88bc9d59ae87a1913e2281f2]: Textual amendment: [Reg. 29A](https://www.legislation.gov.uk/uksi/2004/3426/regulation/29A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 34](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/34)
+[^c-f2e1bf6e88bc9d59ae87a1913e2281f2]: Textual amendment: [Reg. 29A](https://www.legislation.gov.uk/uksi/2004/3426/regulation/29A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 34](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/34)
 
 [^c5404941]: Marginal citation: Section 105 has been amended on a number of occasions to specify additional circumstances in which an employee dismissed by reason of redundancy is to be regarded as unfairly dismissed.
 
@@ -1153,16 +1153,16 @@ The principal provisions of the Regulations provide as follows—
 
 [^c5405001]: Marginal citation: [Section 21(1)](https://www.legislation.gov.uk/uksi/2004/3426/section/21/1) has been amended on a number of occasions to add additional proceedings.
 
-[^key-58e1273b294ded5c4ee0933aad69ce09]: Textual amendment: Words in [reg. 40(2)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/40/2) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 35](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/35)
+[^c-58e1273b294ded5c4ee0933aad69ce09]: Textual amendment: Words in [reg. 40(2)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/40/2) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 35](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/35)
 
-[^key-0eda106c4d4fe17601e43669f72b3cac]: Textual amendment: Word in reg. 40(3) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/9)
+[^c-0eda106c4d4fe17601e43669f72b3cac]: Textual amendment: Word in reg. 40(3) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/9)
 
-[^key-ff56c9d9f117bb4139578116cfddebe4]: Textual amendment: Word in reg. 40(4) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/9)
+[^c-ff56c9d9f117bb4139578116cfddebe4]: Textual amendment: Word in reg. 40(4) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/9)
 
-[^key-5d24f2b485a2868fe6e3a4f5f9e3b34d]: Textual amendment: Words in reg. 40(7)(a) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [23](https://www.legislation.gov.uk/uksi/2009/3348/article/23), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3348/schedule/2)
+[^c-5d24f2b485a2868fe6e3a4f5f9e3b34d]: Textual amendment: Words in reg. 40(7)(a) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [23](https://www.legislation.gov.uk/uksi/2009/3348/article/23), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3348/schedule/2)
 
-[^key-a7acccd72acd1527336c2f9afd573106]: Textual amendment: Words in reg. 40(8) substituted (16.12.2009) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/2), [22](https://www.legislation.gov.uk/uksi/2009/3348/article/22), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3348/schedule/1)
+[^c-a7acccd72acd1527336c2f9afd573106]: Textual amendment: Words in reg. 40(8) substituted (16.12.2009) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/2), [22](https://www.legislation.gov.uk/uksi/2009/3348/article/22), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3348/schedule/1)
 
 [^c5405021]: Marginal citation: [S.I. 1993/2854](https://www.legislation.gov.uk/uksi/1993/2854), amended by [S.I. 1996/3216](https://www.legislation.gov.uk/uksi/1996/3216), 2001/1128 and 2004/2526.
 
-[^key-514acccc1e651a414834cdd87aec9dde]: Textual amendment: [Reg. 43](https://www.legislation.gov.uk/uksi/2004/3426/regulation/43) omitted (13.4.2018) by virtue of [The Seafarers (Insolvency, Collective Redundancies and Information and Consultation Miscellaneous Amendments) Regulations 2018 (S.I. 2018/407)](https://www.legislation.gov.uk/uksi/2018/407), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/407/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/407/regulation/4/2)
+[^c-514acccc1e651a414834cdd87aec9dde]: Textual amendment: [Reg. 43](https://www.legislation.gov.uk/uksi/2004/3426/regulation/43) omitted (13.4.2018) by virtue of [The Seafarers (Insolvency, Collective Redundancies and Information and Consultation Miscellaneous Amendments) Regulations 2018 (S.I. 2018/407)](https://www.legislation.gov.uk/uksi/2018/407), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/407/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/407/regulation/4/2)

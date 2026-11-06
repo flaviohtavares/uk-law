@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 150. Transitional provisions[^key-beb1347176444c7256c9b500420b8016]
+## Article 150. Transitional provisions[^c-beb1347176444c7256c9b500420b8016]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-beb1347176444c7256c9b500420b8016]: Textual amendment: [Art. 150](https://www.legislation.gov.uk/eur/2011/543/article/150) omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [8(40)](https://www.legislation.gov.uk/uksi/2019/822/regulation/8/40); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-beb1347176444c7256c9b500420b8016]: Textual amendment: [Art. 150](https://www.legislation.gov.uk/eur/2011/543/article/150) omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [8(40)](https://www.legislation.gov.uk/uksi/2019/822/regulation/8/40); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

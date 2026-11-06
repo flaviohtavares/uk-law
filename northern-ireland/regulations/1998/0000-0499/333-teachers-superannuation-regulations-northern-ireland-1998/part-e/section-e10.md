@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E10. National Insurance modification of pensions[^key-7bfe5fa59621e89a828c54a3394a41a9]
+## E10. National Insurance modification of pensions[^c-7bfe5fa59621e89a828c54a3394a41a9]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Part I of Schedule 9 has effect for modifying the retirement pensions of persons
 
 ## Annotations
 
-[^key-7bfe5fa59621e89a828c54a3394a41a9]: Commencement: Reg. E10 in operation at 2.11.1998, see reg. A1
+[^c-7bfe5fa59621e89a828c54a3394a41a9]: Commencement: Reg. E10 in operation at 2.11.1998, see reg. A1

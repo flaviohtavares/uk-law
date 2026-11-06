@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Increases of weekly amounts for exceptional circumstances[^key-3ad95193e13194ddff1754fb03a8b4e6]
+## 57. Increases of weekly amounts for exceptional circumstances[^c-3ad95193e13194ddff1754fb03a8b4e6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The appropriate authority may modify the provisions of Part VI of these Regulati
 
 ## Annotations
 
-[^key-3ad95193e13194ddff1754fb03a8b4e6]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/1988/1890/regulation/57) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-3ad95193e13194ddff1754fb03a8b4e6]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/1988/1890/regulation/57) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

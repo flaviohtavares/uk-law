@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Information relating to victims: service police etc[^key-6e8a1d5632390c6a4c76e29da0dcb26a][^key-7902289457257feb4a391c1400d1b170]
+## 29. Information relating to victims: service police etc[^c-6e8a1d5632390c6a4c76e29da0dcb26a][^c-7902289457257feb4a391c1400d1b170]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,6 +67,6 @@ After section 44E of the Police, Crime, Sentencing and Courts Act 2022 (inserted
 
 ## Annotations
 
-[^key-6e8a1d5632390c6a4c76e29da0dcb26a]: Commencement: S. 29 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-6e8a1d5632390c6a4c76e29da0dcb26a]: Commencement: S. 29 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-7902289457257feb4a391c1400d1b170]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2024/21/section/29) in force at 12.1.2026 by [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/1168/regulation/3/b)
+[^c-7902289457257feb4a391c1400d1b170]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2024/21/section/29) in force at 12.1.2026 by [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/1168/regulation/3/b)

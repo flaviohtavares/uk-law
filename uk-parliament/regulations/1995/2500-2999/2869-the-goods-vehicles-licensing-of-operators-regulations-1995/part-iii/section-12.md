@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Time of making objections and representations[^key-8a90e0bb31bf75a8d57bc2d9182415b2]
+## 12. Time of making objections and representations[^c-8a90e0bb31bf75a8d57bc2d9182415b2]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a90e0bb31bf75a8d57bc2d9182415b2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1995/2869/regulation/12) in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-8a90e0bb31bf75a8d57bc2d9182415b2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1995/2869/regulation/12) in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)

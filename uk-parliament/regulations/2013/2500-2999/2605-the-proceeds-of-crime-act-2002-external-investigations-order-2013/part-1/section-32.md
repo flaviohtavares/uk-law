@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Applications[^key-edfbd2701fcb4916b658eece2a55b958]
+## 32. Applications[^c-edfbd2701fcb4916b658eece2a55b958]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ An application for an account monitoring order may be made ex parte to a High Co
 
 ## Annotations
 
-[^key-edfbd2701fcb4916b658eece2a55b958]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2013/2605/article/32) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-edfbd2701fcb4916b658eece2a55b958]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2013/2605/article/32) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

@@ -56,7 +56,7 @@ summary: ''
 
 .
 
-(3)[^key-64371c18fa8171d5dfb8c64dd93916da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-64371c18fa8171d5dfb8c64dd93916da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For section 107(6) of the [^c441665]Criminal Justice and Public Order Act 1994 (medical officers in contracted out prisons), there shall be substituted the following subsections—
 
@@ -107,7 +107,7 @@ summary: ''
 
 [^c441664]: Marginal citation: [1993 c.9](https://www.legislation.gov.uk/ukpga/1993/9).
 
-[^key-64371c18fa8171d5dfb8c64dd93916da]: Textual amendment: [S. 43(3)](https://www.legislation.gov.uk/ukpga/1997/48/section/43/3) repealed (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/6/a)
+[^c-64371c18fa8171d5dfb8c64dd93916da]: Textual amendment: [S. 43(3)](https://www.legislation.gov.uk/ukpga/1997/48/section/43/3) repealed (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/6/a)
 
 [^c441665]: Marginal citation: [1994 c.33](https://www.legislation.gov.uk/ukpga/1994/33).
 

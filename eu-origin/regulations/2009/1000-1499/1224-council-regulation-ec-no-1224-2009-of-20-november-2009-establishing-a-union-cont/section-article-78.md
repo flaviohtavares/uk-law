@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. A fisheries administration must[^key-ec78731c4f0f2c5163e63d68f0230917] set up and keep up to date an electronic database where they upload all inspection and surveillance reports drawn up by their officials.
+1. A fisheries administration must[^c-ec78731c4f0f2c5163e63d68f0230917] set up and keep up to date an electronic database where they upload all inspection and surveillance reports drawn up by their officials.
 
-2.[^key-008f70450938695b87f84c798c23bb70] A fisheries administration may make regulations specifying detailed rules for the application of this Article.
+2.[^c-008f70450938695b87f84c798c23bb70] A fisheries administration may make regulations specifying detailed rules for the application of this Article.
 
 ## Annotations
 
-[^key-ec78731c4f0f2c5163e63d68f0230917]: Textual amendment: Words in [Art. 78(1)](https://www.legislation.gov.uk/eur/2009/1224/article/78/1) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(77)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/77); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec78731c4f0f2c5163e63d68f0230917]: Textual amendment: Words in [Art. 78(1)](https://www.legislation.gov.uk/eur/2009/1224/article/78/1) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(77)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/77); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-008f70450938695b87f84c798c23bb70]: Textual amendment: [Art. 78(2)](https://www.legislation.gov.uk/eur/2009/1224/article/78/2) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [27(25)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-008f70450938695b87f84c798c23bb70]: Textual amendment: [Art. 78(2)](https://www.legislation.gov.uk/eur/2009/1224/article/78/2) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [27(25)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

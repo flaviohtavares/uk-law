@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68. Functions of employing and administering authorities[^key-26071cd682cf4161542bfc12946cfa5e]
+## 68. Functions of employing and administering authorities[^c-26071cd682cf4161542bfc12946cfa5e]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26071cd682cf4161542bfc12946cfa5e]: Commencement: Reg. 68 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-26071cd682cf4161542bfc12946cfa5e]: Commencement: Reg. 68 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

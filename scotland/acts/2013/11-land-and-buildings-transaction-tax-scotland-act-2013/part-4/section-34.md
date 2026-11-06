@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Return or further return in consequence of later linked transaction[^key-39388836c2b55cdd7411687067ed12e2]
+## 34. Return or further return in consequence of later linked transaction[^c-39388836c2b55cdd7411687067ed12e2]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39388836c2b55cdd7411687067ed12e2]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2013/11/section/34) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-39388836c2b55cdd7411687067ed12e2]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2013/11/section/34) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

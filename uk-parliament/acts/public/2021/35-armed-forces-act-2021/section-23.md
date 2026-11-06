@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Meaning of “AFA 2006”[^key-24e8e9e3f64f26905912204c2e5e0c22]
+## 23. Meaning of “AFA 2006”[^c-24e8e9e3f64f26905912204c2e5e0c22]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Act “AFA 2006” means the Armed Forces Act 2006.
 
 ## Annotations
 
-[^key-24e8e9e3f64f26905912204c2e5e0c22]: Commencement: S. 23 in force at Royal Assent, see [s. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/b)
+[^c-24e8e9e3f64f26905912204c2e5e0c22]: Commencement: S. 23 in force at Royal Assent, see [s. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/b)

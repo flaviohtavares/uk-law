@@ -26,13 +26,13 @@ Section 66(2).
 
 **Not yet in force.**
 
-**1.**[^key-e43773e13e6dbd47f5d1b5830d121fe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e43773e13e6dbd47f5d1b5830d121fe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Modifications of enactments etc.
 
 **Not yet in force.**
 
-**2.**[^key-9d10a8edaf1303878040a91bc274fa4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9d10a8edaf1303878040a91bc274fa4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** If an Act or subordinate legislation—
 
@@ -45,9 +45,9 @@ the Lord Chancellor may by order make such consequential modifications of any pr
 
 **4.** In paragraphs 2 and 3—
 
-- [^key-cbd09e12204e673337f11a9a16f004ad]...
-- [^key-cbd09e12204e673337f11a9a16f004ad]...
-- [^key-cbd09e12204e673337f11a9a16f004ad]...
+- [^c-cbd09e12204e673337f11a9a16f004ad]...
+- [^c-cbd09e12204e673337f11a9a16f004ad]...
+- [^c-cbd09e12204e673337f11a9a16f004ad]...
 - “subordinate legislation” has the same meaning as in the [^c12124081]Interpretation Act 1978.
 
 ### Proceedings under way
@@ -132,11 +132,11 @@ the Lord Chancellor may by order make such consequential modifications of any pr
 
 ## Annotations
 
-[^key-e43773e13e6dbd47f5d1b5830d121fe6]: Textual amendment: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9/paragraph/1) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(2)(f)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/2/f), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
+[^c-e43773e13e6dbd47f5d1b5830d121fe6]: Textual amendment: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9/paragraph/1) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(2)(f)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/2/f), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
 
-[^key-9d10a8edaf1303878040a91bc274fa4b]: Textual amendment: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9/paragraph/2) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(2)(f)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/2/f), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
+[^c-9d10a8edaf1303878040a91bc274fa4b]: Textual amendment: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9/paragraph/2) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(2)(f)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/2/f), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
 
-[^key-cbd09e12204e673337f11a9a16f004ad]: Textual amendment: Definitions in Sch. 9 para. 4 repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(2)(f)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/2/f), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
+[^c-cbd09e12204e673337f11a9a16f004ad]: Textual amendment: Definitions in Sch. 9 para. 4 repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(2)(f)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/2/f), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
 
 [^c12124081]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 

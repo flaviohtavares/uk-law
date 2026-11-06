@@ -58,7 +58,7 @@ In accordance with Article 144(7) of Regulation (EU) 2017/625, before making the
 
 In accordance with Article 3(2B) of Regulation (EU) 2017/625 [^c24553951], regulation 71(2) of the Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020, and regulation 35(2) of the Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020, the Welsh Ministers, in relation to the application of these Regulations in relation to Wales, and the Scottish Ministers, in relation to the application of these Regulations in relation to Scotland, have consented to the Secretary of State making these Regulations.
 
-## 1. Citation, commencement, extent and application[^key-c7968c5add83b0c84d9bdf84af2bc8ce]
+## 1. Citation, commencement, extent and application[^c-c7968c5add83b0c84d9bdf84af2bc8ce]
 
 (1) These Regulations—
 
@@ -71,23 +71,23 @@ In accordance with Article 3(2B) of Regulation (EU) 2017/625 [^c24553951], regul
 
 (4) Regulation 6 extends to Scotland only.
 
-## 2. End of the transitional staging period[^M_E_3c1fa7e5-b1e8-4f15-add2-08b52c67710e][^key-0571c9b19846b474292a766d3784d9f8]
+## 2. End of the transitional staging period[^M_E_3c1fa7e5-b1e8-4f15-add2-08b52c67710e][^c-0571c9b19846b474292a766d3784d9f8]
 
 *Extent: E+S*
 
-For the purposes of sub-paragraph (b) of the definition of “the transitional staging period” in paragraph 2 (interpretation) of Annex 6 to Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, the appointed date is 31st January 2027[^key-0359a59d5aa9537c300678704e877148].
+For the purposes of sub-paragraph (b) of the definition of “the transitional staging period” in paragraph 2 (interpretation) of Annex 6 to Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, the appointed date is 31st January 2027[^c-0359a59d5aa9537c300678704e877148].
 
-## 2. End of the transitional staging period[^M_E_66ae96cd-1458-439a-e37e-ecf7812cd108][^key-0c596100f17bbb9ff0a65b583d20c8b7]
+## 2. End of the transitional staging period[^M_E_66ae96cd-1458-439a-e37e-ecf7812cd108][^c-0c596100f17bbb9ff0a65b583d20c8b7]
 
 *Extent: W*
 
 In relation to Wales, for the purposes of sub-paragraph (b) of the definition of “the transitional staging period” in paragraph 2 (interpretation) of Annex 6 to Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, the appointed date is 31st January 2027.
 
-## 3. General transitional provision relating to model certificates: end of period of application[^key-91731e24081f9cfa4b718394011e40a0]
+## 3. General transitional provision relating to model certificates: end of period of application[^c-91731e24081f9cfa4b718394011e40a0]
 
 The appointed date for the purposes of regulation 33(2) of the Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 is 30th September 2021.
 
-## 4. Amendments to Regulation (EU) 2017/625[^key-f82a1dc0fdbd97435a40d3ccb8987116]
+## 4. Amendments to Regulation (EU) 2017/625[^c-f82a1dc0fdbd97435a40d3ccb8987116]
 
 (1) Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products is amended as follows.
 
@@ -103,7 +103,7 @@ The appointed date for the purposes of regulation 33(2) of the Official Controls
 
   .
 
-## 5. Amendments to the Trade in Animals and Related Products Regulations 2011[^key-6e0135fec56226f12a879144a82bc0ec]
+## 5. Amendments to the Trade in Animals and Related Products Regulations 2011[^c-6e0135fec56226f12a879144a82bc0ec]
 
 *Extent: E+W*
 
@@ -124,7 +124,7 @@ The appointed date for the purposes of regulation 33(2) of the Official Controls
   - (i) for “31st July” substitute “ 1st October ”;
   - (ii) after “products of animal origin” insert “ or animal by-products ”.
 
-## 6. Amendments to the Trade in Animals and Related Products (Scotland) Regulations 2012[^key-f7d45046692f852d0f32495156d80420]
+## 6. Amendments to the Trade in Animals and Related Products (Scotland) Regulations 2012[^c-f7d45046692f852d0f32495156d80420]
 
 *Extent: S*
 
@@ -137,13 +137,13 @@ The appointed date for the purposes of regulation 33(2) of the Official Controls
   - (i) for “31st July” substitute “ 1st October ”;
   - (ii) after “products of animal origin” insert “ or animal by-products ”.
 
-## 7. Amendments to the Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020[^key-66174b67cd53a637386db4ef3a1610a9]
+## 7. Amendments to the Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020[^c-66174b67cd53a637386db4ef3a1610a9]
 
 (1) The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 are amended as follows.
 
 (2) In regulations 69 and 70, for “31st July” substitute “ 30th September ”.
 
-## 8. Amendments to the Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020[^key-4d27d55aab133da7e1e5a7479b85d40b]
+## 8. Amendments to the Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020[^c-4d27d55aab133da7e1e5a7479b85d40b]
 
 (1) The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 are amended as follows.
 
@@ -181,30 +181,30 @@ An impact assessment has not been produced for this instrument as no impact, or 
 
 [^c24553951]: Marginal citation: [Article 3(2B)](https://www.legislation.gov.uk/uksi/2021/809/article/3/2B) is inserted by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481).
 
-[^key-c7968c5add83b0c84d9bdf84af2bc8ce]: Commencement: Reg. 1 in force at 30.7.2021, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b)
+[^c-c7968c5add83b0c84d9bdf84af2bc8ce]: Commencement: Reg. 1 in force at 30.7.2021, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b)
 
 [^M_E_3c1fa7e5-b1e8-4f15-add2-08b52c67710e]: Extent: This version of this provision applies to England and Scotland only; a separate version has been created for Wales only
 
-[^key-0571c9b19846b474292a766d3784d9f8]: Textual amendment: Reg. 2 substituted (29.6.2022) by [The Official Controls (Extension of Transitional Periods) (Amendment) Regulations 2022 (S.I. 2022/621)](https://www.legislation.gov.uk/uksi/2022/621), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/621/regulation/1/1/b), [4(2)](https://www.legislation.gov.uk/uksi/2022/621/regulation/4/2)
+[^c-0571c9b19846b474292a766d3784d9f8]: Textual amendment: Reg. 2 substituted (29.6.2022) by [The Official Controls (Extension of Transitional Periods) (Amendment) Regulations 2022 (S.I. 2022/621)](https://www.legislation.gov.uk/uksi/2022/621), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/621/regulation/1/1/b), [4(2)](https://www.legislation.gov.uk/uksi/2022/621/regulation/4/2)
 
-[^key-0359a59d5aa9537c300678704e877148]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/809/regulation/2) substituted (20.5.2025) by [The Official Controls (Extension of Transitional Periods) (Amendment) Regulations 2025 (S.I. 2025/526)](https://www.legislation.gov.uk/uksi/2025/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/526/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2025/526/regulation/3/2)
+[^c-0359a59d5aa9537c300678704e877148]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/809/regulation/2) substituted (20.5.2025) by [The Official Controls (Extension of Transitional Periods) (Amendment) Regulations 2025 (S.I. 2025/526)](https://www.legislation.gov.uk/uksi/2025/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/526/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2025/526/regulation/3/2)
 
 [^M_E_66ae96cd-1458-439a-e37e-ecf7812cd108]: Extent: This version of this provision applies to Wales only; a separate version has been created for England and Scotland only
 
-[^key-0c596100f17bbb9ff0a65b583d20c8b7]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/809/regulation/2) substituted (W.) (30.12.2022) by [The Official Controls (Extension of Transitional Periods) (Amendment) (Wales) Regulations 2022 (S.I. 2022/1317)](https://www.legislation.gov.uk/uksi/2022/1317), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/1317/regulation/1/2/c), [2(2)](https://www.legislation.gov.uk/uksi/2022/1317/regulation/2/2)
+[^c-0c596100f17bbb9ff0a65b583d20c8b7]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/809/regulation/2) substituted (W.) (30.12.2022) by [The Official Controls (Extension of Transitional Periods) (Amendment) (Wales) Regulations 2022 (S.I. 2022/1317)](https://www.legislation.gov.uk/uksi/2022/1317), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/1317/regulation/1/2/c), [2(2)](https://www.legislation.gov.uk/uksi/2022/1317/regulation/2/2)
 
-[^key-91731e24081f9cfa4b718394011e40a0]: Commencement: Reg. 3 in force at 30.7.2021, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b)
+[^c-91731e24081f9cfa4b718394011e40a0]: Commencement: Reg. 3 in force at 30.7.2021, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b)
 
-[^key-f82a1dc0fdbd97435a40d3ccb8987116]: Commencement: Reg. 4 in force at 30.7.2021, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b)
+[^c-f82a1dc0fdbd97435a40d3ccb8987116]: Commencement: Reg. 4 in force at 30.7.2021, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b)
 
-[^key-6e0135fec56226f12a879144a82bc0ec]: Commencement: Reg. 5 in force at 30.7.2021, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b)
+[^c-6e0135fec56226f12a879144a82bc0ec]: Commencement: Reg. 5 in force at 30.7.2021, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b)
 
 [^c24553981]: Marginal citation: [S.I. 2011/1197](https://www.legislation.gov.uk/uksi/2011/1197), which is amended by [S.I. 2020/1462](https://www.legislation.gov.uk/uksi/2020/1462) and [S.I. 2021/429](https://www.legislation.gov.uk/uksi/2021/429). There are other amendments, but none is relevant.
 
-[^key-f7d45046692f852d0f32495156d80420]: Commencement: Reg. 6 in force at 30.7.2021, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b)
+[^c-f7d45046692f852d0f32495156d80420]: Commencement: Reg. 6 in force at 30.7.2021, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b)
 
 [^c24553991]: Marginal citation: [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177), which is amended by [S.S.I. 2020/458](https://www.legislation.gov.uk/ssi/2020/458) and [S.I. 2021/429](https://www.legislation.gov.uk/uksi/2021/429). There are other amendments, but none is relevant.
 
-[^key-66174b67cd53a637386db4ef3a1610a9]: Commencement: Reg. 7 in force at 30.7.2021, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b)
+[^c-66174b67cd53a637386db4ef3a1610a9]: Commencement: Reg. 7 in force at 30.7.2021, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b)
 
-[^key-4d27d55aab133da7e1e5a7479b85d40b]: Commencement: Reg. 8 in force at 30.7.2021, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b)
+[^c-4d27d55aab133da7e1e5a7479b85d40b]: Commencement: Reg. 8 in force at 30.7.2021, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b)

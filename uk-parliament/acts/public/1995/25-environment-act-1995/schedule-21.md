@@ -58,7 +58,7 @@ Section 116.
 
 (3) In section 142 (orders providing for the imposition and collection of fisheries contributions), in subsection (2) (which applies, in relation to orders under that section, the provisions of subsections (2) to (9) of section 115 of that Act) for the words “(2) to (9)” there shall be substituted the words “ (2) to (6) ”.
 
-(4)[^key-52c251d972de0c3c8d4e1be3c17bd82c] For section 222 (Crown application) there shall be substituted—
+(4)[^c-52c251d972de0c3c8d4e1be3c17bd82c] For section 222 (Crown application) there shall be substituted—
 
 > **222. Crown application.**
 >
@@ -203,7 +203,7 @@ Section 116.
 
 [^c14548221]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-52c251d972de0c3c8d4e1be3c17bd82c]: Commencement: [Sch. 21 para. 2(4)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/21/paragraph/2/4) in force at 1.1.2018 in so far as not already in force by [S.I. 2017/1045](https://www.legislation.gov.uk/uksi/2017/1045), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/1045/article/2/b)
+[^c-52c251d972de0c3c8d4e1be3c17bd82c]: Commencement: [Sch. 21 para. 2(4)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/21/paragraph/2/4) in force at 1.1.2018 in so far as not already in force by [S.I. 2017/1045](https://www.legislation.gov.uk/uksi/2017/1045), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/1045/article/2/b)
 
 [^c14548231]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).
 

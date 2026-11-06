@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Objection to division of land: blight notices[^key-7492455f4e3ba6df36d048695370f38e]
+## 200. Objection to division of land: blight notices[^c-7492455f4e3ba6df36d048695370f38e]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7492455f4e3ba6df36d048695370f38e]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2016/22/section/200) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/h)
+[^c-7492455f4e3ba6df36d048695370f38e]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2016/22/section/200) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/h)

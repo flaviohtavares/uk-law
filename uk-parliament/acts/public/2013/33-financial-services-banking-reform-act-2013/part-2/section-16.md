@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Scheme manager: appointment of accounting officer[^key-826db876e59b5106fefb28903f741dea]
+## 16. Scheme manager: appointment of accounting officer[^c-826db876e59b5106fefb28903f741dea]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-826db876e59b5106fefb28903f741dea]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/33/section/16) in force at 1.4.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/2/a)
+[^c-826db876e59b5106fefb28903f741dea]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/33/section/16) in force at 1.4.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Defence to proceedings in respect of statutory nuisance[^key-eaa1c9ab962c841fdad28353b08f82e7]
+## 12. Defence to proceedings in respect of statutory nuisance[^c-eaa1c9ab962c841fdad28353b08f82e7]
 
 *Extent: E+W+S*
 
@@ -27,14 +27,14 @@ summary: ''
   - (ii) is a consequence of the construction or maintenance of the authorised project and that it cannot reasonably be avoided; or
 - (b) the defendant shows that the nuisance is a consequence of the use of the authorised project and that it cannot reasonably be avoided.
 
-(2) Section 61(9)[^key-f3f678895e73b02ede14c15d434fdb9f] (consent for work on construction site to include statement that it does not of itself constitute a defence to proceedings under section 82 of the Environmental Protection Act 1990) and section 65(8) (corresponding provision in relation to consent for registered noise level to be exceeded) of the Control of Pollution Act 1974 shall not apply where the consent relates to the use of premises by the undertaker for the purposes of or in connection with the construction or maintenance of the authorised project.
+(2) Section 61(9)[^c-f3f678895e73b02ede14c15d434fdb9f] (consent for work on construction site to include statement that it does not of itself constitute a defence to proceedings under section 82 of the Environmental Protection Act 1990) and section 65(8) (corresponding provision in relation to consent for registered noise level to be exceeded) of the Control of Pollution Act 1974 shall not apply where the consent relates to the use of premises by the undertaker for the purposes of or in connection with the construction or maintenance of the authorised project.
 
 ## Annotations
 
-[^key-eaa1c9ab962c841fdad28353b08f82e7]: Commencement: Art. 12 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-eaa1c9ab962c841fdad28353b08f82e7]: Commencement: Art. 12 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
 [^f00013]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to this Act which are not relevant to this Order.
 
 [^f00014]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40). Sections 61(9) and 65(8) were amended by section 162 of, and paragraph 15 of Schedule 3 to, the Environmental Protection Act 1990 (c. 25). There are other amendments to the 1974 Act which are not relevant to this Order.
 
-[^key-f3f678895e73b02ede14c15d434fdb9f]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2013/648/article/12/2) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 1
+[^c-f3f678895e73b02ede14c15d434fdb9f]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2013/648/article/12/2) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 1

@@ -30,7 +30,7 @@ summary: ''
 - (a) in the case of a compulsory purchase order, are required by Part II of the [^c4118251]Acquisition of Land Act 1981 or Schedule 1 to the [^c4118261]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 to be taken for the purpose of confirming that order;
 - (b) in the case of an application under paragraph 1 of Schedule 5 to this Act, are required by paragraphs 7 to 12 of that Schedule to be taken in relation to that application,
 
-may be taken concurrently (so far as practicable) with the proceedings required by Schedule 8 to this Act to be taken in relation to the application for consent under section 36 above and with any related proceedings under Schedule 16 to the Energy Act 2004[^key-2a3224ace6ebb85dd03fc1f23466de4d].
+may be taken concurrently (so far as practicable) with the proceedings required by Schedule 8 to this Act to be taken in relation to the application for consent under section 36 above and with any related proceedings under Schedule 16 to the Energy Act 2004[^c-2a3224ace6ebb85dd03fc1f23466de4d].
 
 (3) Subsection (4) below applies where a licence holder makes an application to the Secretary of State for his consent under section 37 above for the installation of an electric line above ground and, for a purpose connected with the proposed installation of that line, makes one or more of the following, namely—
 
@@ -61,4 +61,4 @@ the proceedings required by the said paragraph 9 to be taken in relation to the 
 
 [^c4118261]: Marginal citation: [1947 c. 42](https://www.legislation.gov.uk/ukpga/1947/42).
 
-[^key-2a3224ace6ebb85dd03fc1f23466de4d]: Textual amendment: Words in s. 61(2) inserted (1.10.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 102(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/102/2), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
+[^c-2a3224ace6ebb85dd03fc1f23466de4d]: Textual amendment: Words in s. 61(2) inserted (1.10.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 102(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/102/2), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)

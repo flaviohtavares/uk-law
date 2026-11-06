@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Appeals to the Department against determinations of Boards (regulations 9, 10 and 11 of the Disciplinary Procedures Regulations)[^key-33abefab485bd033558cec5046cb5be9]
+## 79. Appeals to the Department against determinations of Boards (regulations 9, 10 and 11 of the Disciplinary Procedures Regulations)[^c-33abefab485bd033558cec5046cb5be9]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ it shall, in addition to the persons specified in regulation 10(14), notify the 
 
 ## Annotations
 
-[^key-33abefab485bd033558cec5046cb5be9]: Commencement: Art. 79 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-33abefab485bd033558cec5046cb5be9]: Commencement: Art. 79 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

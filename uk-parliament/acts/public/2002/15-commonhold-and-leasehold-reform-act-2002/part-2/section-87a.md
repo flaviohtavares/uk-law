@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87A. Costs: general[^key-25cb13bc896974b6de9f22d33de9e60b]
+## 87A. Costs: general[^c-25cb13bc896974b6de9f22d33de9e60b]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25cb13bc896974b6de9f22d33de9e60b]: Textual amendment: [Ss. 87A](https://www.legislation.gov.uk/ukpga/2002/15/section/87A), [87B](https://www.legislation.gov.uk/ukpga/2002/15/section/87B) inserted (3.3.2025) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 50(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/50/3), [124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3); [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/b)
+[^c-25cb13bc896974b6de9f22d33de9e60b]: Textual amendment: [Ss. 87A](https://www.legislation.gov.uk/ukpga/2002/15/section/87A), [87B](https://www.legislation.gov.uk/ukpga/2002/15/section/87B) inserted (3.3.2025) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 50(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/50/3), [124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3); [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/b)

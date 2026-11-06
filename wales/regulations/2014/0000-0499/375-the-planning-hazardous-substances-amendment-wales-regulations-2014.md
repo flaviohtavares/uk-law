@@ -31,7 +31,7 @@ summary: ''
 
 Town And Country Planning, Wales
 
-The Planning (Hazardous Substances) (Amendment) (Wales) Regulations 2014 (revoked)[^key-43c230f494ffaec6964dc35e6d082acb]
+The Planning (Hazardous Substances) (Amendment) (Wales) Regulations 2014 (revoked)[^c-43c230f494ffaec6964dc35e6d082acb]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 14 March 2014
 
-[^key-43c230f494ffaec6964dc35e6d082acb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43c230f494ffaec6964dc35e6d082acb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-43c230f494ffaec6964dc35e6d082acb]
+## 1. Title, commencement, application and interpretation[^c-43c230f494ffaec6964dc35e6d082acb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 1992 Regulations[^key-43c230f494ffaec6964dc35e6d082acb]
+## 2. Amendment of the 1992 Regulations[^c-43c230f494ffaec6964dc35e6d082acb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-43c230f494ffaec6964dc35e6d082acb]
+## 3. Transitional provision[^c-43c230f494ffaec6964dc35e6d082acb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43c230f494ffaec6964dc35e6d082acb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43c230f494ffaec6964dc35e6d082acb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-43c230f494ffaec6964dc35e6d082acb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43c230f494ffaec6964dc35e6d082acb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-43c230f494ffaec6964dc35e6d082acb]: Textual amendment: Regulations revoked (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [30(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/30/1) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
+[^c-43c230f494ffaec6964dc35e6d082acb]: Textual amendment: Regulations revoked (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [30(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/30/1) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241. Requirement for member-nominated trustees[^key-426a901734163da4163817b095ef3bee][^key-547ba793e7eaf0b66c31cb20da20dfca]
+## 241. Requirement for member-nominated trustees[^c-426a901734163da4163817b095ef3bee][^c-547ba793e7eaf0b66c31cb20da20dfca]
 
 *Extent: E+W+S*
 
@@ -65,6 +65,6 @@ section 10 of the Pensions Act 1995 (c. 26) (civil penalties) applies to any tru
 
 ## Annotations
 
-[^key-426a901734163da4163817b095ef3bee]: Commencement: S. 241 in force at at 1.11.2005 for specified purposes and 6.4.2006 in so far as not already in force by [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(5)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/2)
+[^c-426a901734163da4163817b095ef3bee]: Commencement: S. 241 in force at at 1.11.2005 for specified purposes and 6.4.2006 in so far as not already in force by [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(5)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/2)
 
-[^key-547ba793e7eaf0b66c31cb20da20dfca]: Modification: Ss. 241, 242 modified (6.4.2006) by [The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006 (S.I. 2006/714)](https://www.legislation.gov.uk/uksi/2006/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2006/714/regulation/5)
+[^c-547ba793e7eaf0b66c31cb20da20dfca]: Modification: Ss. 241, 242 modified (6.4.2006) by [The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006 (S.I. 2006/714)](https://www.legislation.gov.uk/uksi/2006/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2006/714/regulation/5)

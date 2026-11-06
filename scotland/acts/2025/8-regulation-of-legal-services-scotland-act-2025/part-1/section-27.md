@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Consideration of applications[^key-42a5ceb5dd1155915ea8d3b3fe1f6229][^key-a990d4505c7c7ac1b8721edc137596bb]
+## 27. Consideration of applications[^c-42a5ceb5dd1155915ea8d3b3fe1f6229][^c-a990d4505c7c7ac1b8721edc137596bb]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42a5ceb5dd1155915ea8d3b3fe1f6229]: Commencement: S. 27 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-42a5ceb5dd1155915ea8d3b3fe1f6229]: Commencement: S. 27 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-a990d4505c7c7ac1b8721edc137596bb]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2025/8/section/27) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-a990d4505c7c7ac1b8721edc137596bb]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2025/8/section/27) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

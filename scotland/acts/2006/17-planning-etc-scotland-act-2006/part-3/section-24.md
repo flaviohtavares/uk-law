@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Good neighbour agreements[^key-6a88f3bc7e06740c56288e63b61239ba][^key-c31c1323392a0689e91cfdf285d25e75]
+## 24. Good neighbour agreements[^c-6a88f3bc7e06740c56288e63b61239ba][^c-c31c1323392a0689e91cfdf285d25e75]
 
 *Extent: S*
 
@@ -180,6 +180,6 @@ After section 75C of the principal Act (inserted into that Act by section 23(1) 
 
 ## Annotations
 
-[^key-6a88f3bc7e06740c56288e63b61239ba]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2006/17/section/24) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
+[^c-6a88f3bc7e06740c56288e63b61239ba]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2006/17/section/24) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
 
-[^key-c31c1323392a0689e91cfdf285d25e75]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2006/17/section/24) in force at 1.2.2011 in so far as not already in force by [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)
+[^c-c31c1323392a0689e91cfdf285d25e75]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2006/17/section/24) in force at 1.2.2011 in so far as not already in force by [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)

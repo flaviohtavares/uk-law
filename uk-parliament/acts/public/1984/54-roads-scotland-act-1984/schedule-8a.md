@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 8A — FIXED PENALTY OFFENCES[^key-7a410b445d4ea693f8bf9774d3ad3268]
+## SCHEDULE 8A — FIXED PENALTY OFFENCES[^c-7a410b445d4ea693f8bf9774d3ad3268]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a410b445d4ea693f8bf9774d3ad3268]: Textual amendment: Sch. 8A inserted (1.10.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 6](https://www.legislation.gov.uk/asp/2005/12/schedule/6); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
+[^c-7a410b445d4ea693f8bf9774d3ad3268]: Textual amendment: Sch. 8A inserted (1.10.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 6](https://www.legislation.gov.uk/asp/2005/12/schedule/6); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)

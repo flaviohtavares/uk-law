@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Eligible postgraduate students[^key-3ea66b2a7ce63ddcb9ef215ba9ca94f7]
+## 149. Eligible postgraduate students[^c-3ea66b2a7ce63ddcb9ef215ba9ca94f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,6 +97,6 @@ A’s status as an eligible postgraduate student terminates immediately before t
 
 ## Annotations
 
-[^key-3ea66b2a7ce63ddcb9ef215ba9ca94f7]: Commencement: Reg. 149 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-3ea66b2a7ce63ddcb9ef215ba9ca94f7]: Commencement: Reg. 149 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00072]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).

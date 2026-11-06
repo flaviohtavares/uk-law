@@ -43,11 +43,11 @@ The Department for Employment and Learning[^f00001], in exercise of the powers c
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-5d81ffc80953cd9f753f6a4b70353e33]
+### 1. Citation and commencement[^c-5d81ffc80953cd9f753f6a4b70353e33]
 
 These Regulations may be cited as the Paternity and Adoption Leave (Adoption from Overseas) Regulations (Northern Ireland) 2003 and shall come into operation on 9th April 2003.
 
-### 2. Interpretation[^key-b07d053cf5e54c439f6cd7922e58ebf4]
+### 2. Interpretation[^c-b07d053cf5e54c439f6cd7922e58ebf4]
 
 In these Regulations –
 
@@ -55,11 +55,11 @@ In these Regulations –
 - “the Leave Regulations” means the Paternity and Adoption Leave Regulations (Northern Ireland) 2002[^f00007];
 - “the Order” means the Employment Rights (Northern Ireland) Order 1996.
 
-### 3. Application of the Leave Regulations to adoptions from overseas[^key-372217250eabf83aae6ad2131f40f04a]
+### 3. Application of the Leave Regulations to adoptions from overseas[^c-372217250eabf83aae6ad2131f40f04a]
 
 The provisions of the Leave Regulations shall apply to adoptions from overseas with the modifications set out in these Regulations.
 
-### 4. Interpretation[^key-06079a5e24700057c6820683ad63abcf]
+### 4. Interpretation[^c-06079a5e24700057c6820683ad63abcf]
 
 (1) Regulation 2 of the Leave Regulations shall be modified in accordance with the following paragraphs.
 
@@ -90,7 +90,7 @@ The provisions of the Leave Regulations shall apply to adoptions from overseas w
 
 > (4) For the purposes of these Regulations, in a case where a child is to be adopted by two people jointly, a person elects to be a child’s adopter, if he and the other person agree, at the time when the official notification is received, that he and not the other person will be the adopter.
 
-### 5. Application[^key-32d2a6495a11ea511b64818b539f7d5f]
+### 5. Application[^c-32d2a6495a11ea511b64818b539f7d5f]
 
 (1) Regulation 3 of the Leave Regulations shall be modified in accordance with the following paragraphs.
 
@@ -106,11 +106,11 @@ The provisions of the Leave Regulations shall apply to adoptions from overseas w
 
 (4) In paragraph (6), for “8th December 2002” substitute “9th April 2003”.
 
-### 6. Entitlement to paternity leave: birth[^key-60d2a894cb871916131168aed3f7c5cf]
+### 6. Entitlement to paternity leave: birth[^c-60d2a894cb871916131168aed3f7c5cf]
 
 Regulations 4 to 7 of the Leave Regulations shall be omitted.
 
-### 7. Entitlement to paternity leave: adoption from overseas[^key-72bf6f320ded8a54f9caa765ade8949d]
+### 7. Entitlement to paternity leave: adoption from overseas[^c-72bf6f320ded8a54f9caa765ade8949d]
 
 For regulations 8 to 10 of the Leave Regulations substitute –
 
@@ -174,11 +174,11 @@ For regulations 8 to 10 of the Leave Regulations substitute –
 >
 > (6) Where it becomes known to the employee that the child will not enter Northern Ireland, he shall notify the employer of the fact as soon as is reasonably practicable.
 
-### 8. Commencement of leave under regulation 8[^key-df8b1d0bfff8c6f4e3849bfd0ebdfe07]
+### 8. Commencement of leave under regulation 8[^c-df8b1d0bfff8c6f4e3849bfd0ebdfe07]
 
 In regulation 11(2)(a) of the Leave Regulations, for “is placed with the adopter” substitute “enters Northern Ireland”.
 
-### 9. Entitlement to ordinary adoption leave: adoption from overseas[^key-70e545061c0f8635e298574e752b996e]
+### 9. Entitlement to ordinary adoption leave: adoption from overseas[^c-70e545061c0f8635e298574e752b996e]
 
 For regulations 15 to 17 of the Leave Regulations substitute –
 
@@ -246,7 +246,7 @@ For regulations 15 to 17 of the Leave Regulations substitute –
 >
 > (9) Where it becomes known to the employee that the child will not enter Northern Ireland, he shall notify the employer of the fact as soon as is reasonably practicable.
 
-### 10. Duration and commencement of ordinary adoption leave[^key-16d55cd91cdebd42b8ee86149b9ef02c]
+### 10. Duration and commencement of ordinary adoption leave[^c-16d55cd91cdebd42b8ee86149b9ef02c]
 
 (1) Regulation 18 of the Leave Regulations shall be modified in accordance with the following paragraphs.
 
@@ -254,11 +254,11 @@ For regulations 15 to 17 of the Leave Regulations substitute –
 
 (3) In regulation 18(3)(a), for “is placed with him” substitute “enters Northern Ireland”.
 
-### 11. Additional adoption leave: entitlement, duration and commencement[^key-4f223f18614a138ad58140e9d2998437]
+### 11. Additional adoption leave: entitlement, duration and commencement[^c-4f223f18614a138ad58140e9d2998437]
 
 In regulation 20(1)(a) of the Leave Regulations for “was placed with him for adoption” substitute “has entered Northern Ireland”.
 
-### 12. Disruption in the course of adoption leave[^key-2734c26b64424d1c58d2932cda33c0f4]
+### 12. Disruption in the course of adoption leave[^c-2734c26b64424d1c58d2932cda33c0f4]
 
 (1) Regulation 22 of the Leave Regulations shall be modified in accordance with the following paragraphs.
 
@@ -308,30 +308,30 @@ Regulation 9 substitutes new regulations 15-17 of the Leave Regulations, concern
 
 [^f00006]: Footnote: *See* [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999
 
-[^key-5d81ffc80953cd9f753f6a4b70353e33]: Commencement: Reg. 1 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
+[^c-5d81ffc80953cd9f753f6a4b70353e33]: Commencement: Reg. 1 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
 
-[^key-b07d053cf5e54c439f6cd7922e58ebf4]: Commencement: Reg. 2 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
+[^c-b07d053cf5e54c439f6cd7922e58ebf4]: Commencement: Reg. 2 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
 
 [^f00007]: Footnote: [S.R. 2002 No. 377](https://www.legislation.gov.uk/nisr/2002/377)
 
-[^key-372217250eabf83aae6ad2131f40f04a]: Commencement: Reg. 3 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
+[^c-372217250eabf83aae6ad2131f40f04a]: Commencement: Reg. 3 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
 
-[^key-06079a5e24700057c6820683ad63abcf]: Commencement: Reg. 4 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
+[^c-06079a5e24700057c6820683ad63abcf]: Commencement: Reg. 4 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
 
 [^f00008]: Footnote: [S.R. 2003 No. 16](https://www.legislation.gov.uk/nisr/2003/16)
 
-[^key-32d2a6495a11ea511b64818b539f7d5f]: Commencement: Reg. 5 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
+[^c-32d2a6495a11ea511b64818b539f7d5f]: Commencement: Reg. 5 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
 
-[^key-60d2a894cb871916131168aed3f7c5cf]: Commencement: Reg. 6 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
+[^c-60d2a894cb871916131168aed3f7c5cf]: Commencement: Reg. 6 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
 
-[^key-72bf6f320ded8a54f9caa765ade8949d]: Commencement: Reg. 7 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
+[^c-72bf6f320ded8a54f9caa765ade8949d]: Commencement: Reg. 7 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
 
-[^key-df8b1d0bfff8c6f4e3849bfd0ebdfe07]: Commencement: Reg. 8 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
+[^c-df8b1d0bfff8c6f4e3849bfd0ebdfe07]: Commencement: Reg. 8 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
 
-[^key-70e545061c0f8635e298574e752b996e]: Commencement: Reg. 9 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
+[^c-70e545061c0f8635e298574e752b996e]: Commencement: Reg. 9 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
 
-[^key-16d55cd91cdebd42b8ee86149b9ef02c]: Commencement: Reg. 10 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
+[^c-16d55cd91cdebd42b8ee86149b9ef02c]: Commencement: Reg. 10 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
 
-[^key-4f223f18614a138ad58140e9d2998437]: Commencement: Reg. 11 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
+[^c-4f223f18614a138ad58140e9d2998437]: Commencement: Reg. 11 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
 
-[^key-2734c26b64424d1c58d2932cda33c0f4]: Commencement: Reg. 12 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)
+[^c-2734c26b64424d1c58d2932cda33c0f4]: Commencement: Reg. 12 in operation at 9.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/222/regulation/1)

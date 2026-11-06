@@ -36,78 +36,78 @@ on Community statistics on migration and international protection and repealing 
 
 (Text with EEA relevance) (revoked)
 
-[^key-a504c07f0d364e2925de3b9b6dd24a2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a504c07f0d364e2925de3b9b6dd24a2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-a504c07f0d364e2925de3b9b6dd24a2a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 1. Subject matter[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Statistics on international migration, usually resident population and acquisition of citizenship[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 2. Definitions[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Statistics on international protection[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 3. Statistics on international migration, usually resident population and acquisition of citizenship[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Statistics on the prevention of illegal entry and stay[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 4. Statistics on international protection[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Statistics on residence permits and residence of third-country nationals[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 5. Statistics on the prevention of illegal entry and stay[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Statistics on returns[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 6. Statistics on residence permits and residence of third-country nationals[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Additional disaggregations[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 7. Statistics on returns[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Data sources and quality standards[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 8. Additional disaggregations[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9a. Pilot studies[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 9. Data sources and quality standards[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9b. Financing[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 9a. Pilot studies[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Implementing acts for specifying disaggregations[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 9b. Financing[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Committee procedure[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 10. Implementing acts for specifying disaggregations[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11a. Derogations[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 11. Committee procedure[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Report[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 11a. Derogations[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Repeal[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 12. Report[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Entry into force[^key-a504c07f0d364e2925de3b9b6dd24a2a]
+## Article 13. Repeal[^c-a504c07f0d364e2925de3b9b6dd24a2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a504c07f0d364e2925de3b9b6dd24a2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 14. Entry into force[^c-a504c07f0d364e2925de3b9b6dd24a2a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a504c07f0d364e2925de3b9b6dd24a2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a504c07f0d364e2925de3b9b6dd24a2a]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 107](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/107); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a504c07f0d364e2925de3b9b6dd24a2a]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 107](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/107); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

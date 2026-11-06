@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Effect of amendments to provisions applied for purposes of service law[^key-85b6a11daaca7b1ab95277beac8fc4d6]
+## 180. Effect of amendments to provisions applied for purposes of service law[^c-85b6a11daaca7b1ab95277beac8fc4d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85b6a11daaca7b1ab95277beac8fc4d6]: Commencement: [S. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/20)
+[^c-85b6a11daaca7b1ab95277beac8fc4d6]: Commencement: [S. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/20)

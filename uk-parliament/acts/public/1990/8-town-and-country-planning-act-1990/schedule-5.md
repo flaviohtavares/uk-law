@@ -108,7 +108,7 @@ the land is brought to the required standard when its physical characteristics a
 **4.** (1) Before imposing an aftercare condition, the mineral planning authority shall consult—
 
 - (a) the Minister, where they propose that the use specified in the condition shall be a use for agriculture; and
-- (b) the appropriate body[^key-56db6326e16a746e7627891014a8b33f], where they propose that the use so specified shall be a use for forestry,
+- (b) the appropriate body[^c-56db6326e16a746e7627891014a8b33f], where they propose that the use so specified shall be a use for forestry,
 
 as to whether it is appropriate to specify that use.
 
@@ -124,7 +124,7 @@ with regard to whether the steps to be taken should be specified in the aftercar
 - (a) as to the steps to be specified in an aftercare condition which specifies a use for agriculture or for forestry; and
 - (b) before approving an aftercare scheme submitted in accordance with an aftercare condition which specifies such a use.
 
-(4) The mineral planning authority shall also, from time to time as they consider expedient, consult the Minister or the appropriate body[^key-c5810c3f37bf20adbca60776dbbf8143], as the case may be, as to whether the steps specified in an aftercare condition or an aftercare scheme are being taken.
+(4) The mineral planning authority shall also, from time to time as they consider expedient, consult the Minister or the appropriate body[^c-c5810c3f37bf20adbca60776dbbf8143], as the case may be, as to whether the steps specified in an aftercare condition or an aftercare scheme are being taken.
 
 (4A)[^c14041001] Without prejudice to the application of this paragraph in relation to consultation with the appropriate body, where the Minister is consulted pursuant to any provision of this paragraph—
 
@@ -133,7 +133,7 @@ with regard to whether the steps to be taken should be specified in the aftercar
 
 (5) In this paragraph “**forestry**” and “**the Minister**” have the same meanings as in paragraph 3.
 
-(6)[^key-0e404f4e932cbd59e2f1513db04ca177] In this paragraph “appropriate body” means—
+(6)[^c-0e404f4e932cbd59e2f1513db04ca177] In this paragraph “appropriate body” means—
 
 - (a) in relation to England, the Forestry Commission; and
 - (b) in relation to Wales, the Natural Resources Body for Wales.
@@ -171,13 +171,13 @@ with regard to whether the steps to be taken should be specified in the aftercar
 
 [^c14040991]: Textual amendment: Words in Sch. 5 para. 2(1)(b) substituted (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 21](https://www.legislation.gov.uk/ukpga/1991/34/section/21), [Sch. 1 para. 14(4)(b)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/1/paragraph/14/4/b) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3) (subject to [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4))
 
-[^key-56db6326e16a746e7627891014a8b33f]: Textual amendment: Words in Sch. 5 para. 4 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 204(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/204/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-56db6326e16a746e7627891014a8b33f]: Textual amendment: Words in Sch. 5 para. 4 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 204(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/204/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-c5810c3f37bf20adbca60776dbbf8143]: Textual amendment: Words in Sch. 5 para. 4(4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 204(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/204/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c5810c3f37bf20adbca60776dbbf8143]: Textual amendment: Words in Sch. 5 para. 4(4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 204(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/204/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c14041001]: Textual amendment: Sch. 5 para. 4(4A) inserted (1.2.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 43](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/43) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 2](https://www.legislation.gov.uk/uksi/1996/186/article/2)
 
-[^key-0e404f4e932cbd59e2f1513db04ca177]: Textual amendment: Sch. 5 para. 4(6) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 204(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/204/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0e404f4e932cbd59e2f1513db04ca177]: Textual amendment: Sch. 5 para. 4(6) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 204(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/204/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c14041011]: Textual amendment: Words in Sch. 5 para. 6 substituted (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 21](https://www.legislation.gov.uk/ukpga/1991/34/section/21), [Sch. 1 para. 14(5)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/1/paragraph/14/5)(with s. 84(5)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art.3](https://www.legislation.gov.uk/uksi/1991/2067/article/3) (subject to [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4))
 

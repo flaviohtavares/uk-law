@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — Claimed public right of way to be extinguished for which a replacement will be provided[^key-818dbbbf21a8895259242426a23a06a6]
+### PART 1 — Claimed public right of way to be extinguished for which a replacement will be provided[^c-818dbbbf21a8895259242426a23a06a6]
 
 <table>
 <thead>
@@ -34,7 +34,7 @@ Article 12
 </tbody>
 </table>
 
-### PART 2 — Rights of way for which a replacement will be provided during temporary closure[^key-4da9a8129d699ac707712c56ebfe755b]
+### PART 2 — Rights of way for which a replacement will be provided during temporary closure[^c-4da9a8129d699ac707712c56ebfe755b]
 
 <table>
 <thead>
@@ -51,7 +51,7 @@ Article 12
 </tbody>
 </table>
 
-### PART 3 — Rights of way for which no replacement will be provided during temporary closure[^key-d16777da1b4dad4d8ccd4ddf7fd57502]
+### PART 3 — Rights of way for which no replacement will be provided during temporary closure[^c-d16777da1b4dad4d8ccd4ddf7fd57502]
 
 <table>
 <thead>
@@ -66,8 +66,8 @@ Article 12
 
 ## Annotations
 
-[^key-818dbbbf21a8895259242426a23a06a6]: Commencement: Sch. 4 Pt. 1 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-818dbbbf21a8895259242426a23a06a6]: Commencement: Sch. 4 Pt. 1 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-4da9a8129d699ac707712c56ebfe755b]: Commencement: Sch. 4 Pt. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-4da9a8129d699ac707712c56ebfe755b]: Commencement: Sch. 4 Pt. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-d16777da1b4dad4d8ccd4ddf7fd57502]: Commencement: Sch. 4 Pt. 3 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-d16777da1b4dad4d8ccd4ddf7fd57502]: Commencement: Sch. 4 Pt. 3 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)

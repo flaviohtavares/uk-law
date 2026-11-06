@@ -118,7 +118,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S+N.I.*
 
-#### ...[^key-1e74736a2691c7c161953152ff9bea50]
+#### ...[^c-1e74736a2691c7c161953152ff9bea50]
 
 - [Section 41 — Power to confer rights on individuals: amendment](part-4/section-41.md)
 - [Section 42 — ....](part-4/section-42.md)
@@ -154,4 +154,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-1e74736a2691c7c161953152ff9bea50]: Textual amendment: [S. 42 crossheading](https://www.legislation.gov.uk/ukpga/2002/22/part/4/crossheading/miscellaneous) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
+[^c-1e74736a2691c7c161953152ff9bea50]: Textual amendment: [S. 42 crossheading](https://www.legislation.gov.uk/ukpga/2002/22/part/4/crossheading/miscellaneous) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)

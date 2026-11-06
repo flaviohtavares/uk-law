@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Code awareness and reviewing compliance: criminal justice bodies[^key-9f223e4a949f5818b790d0f53e97af08]
+## 6. Code awareness and reviewing compliance: criminal justice bodies[^c-9f223e4a949f5818b790d0f53e97af08]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f223e4a949f5818b790d0f53e97af08]: Commencement: S. 6 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-9f223e4a949f5818b790d0f53e97af08]: Commencement: S. 6 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

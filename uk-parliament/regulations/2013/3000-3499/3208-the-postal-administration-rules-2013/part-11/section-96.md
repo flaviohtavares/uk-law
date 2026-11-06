@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Form and contents of application[^key-7bddeb12188290ec20de0207ef14497e]
+## 96. Form and contents of application[^c-7bddeb12188290ec20de0207ef14497e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bddeb12188290ec20de0207ef14497e]: Commencement: [Rule 96](https://www.legislation.gov.uk/uksi/2013/3208/rule/96) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-7bddeb12188290ec20de0207ef14497e]: Commencement: [Rule 96](https://www.legislation.gov.uk/uksi/2013/3208/rule/96) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

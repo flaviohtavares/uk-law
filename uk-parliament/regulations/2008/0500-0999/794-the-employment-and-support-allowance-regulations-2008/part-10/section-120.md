@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 120. Treatment of ... liable relative payments[^key-f4e3df78d7f7770860d80239da75aab1]
+## 120. Treatment of ... liable relative payments[^c-f4e3df78d7f7770860d80239da75aab1]
 
 *Extent: E+W+S*
 
-Subject to regulation 121(disregard of payments treated as not relevant income) [^key-8754dced2ea76f7bfaea15dd9fe66f72]... a payment—
+Subject to regulation 121(disregard of payments treated as not relevant income) [^c-8754dced2ea76f7bfaea15dd9fe66f72]... a payment—
 
 - (a) to the extent that it is not a payment of income, is to be treated as income;
 - (b) is to be taken into account in accordance with the following provisions of this Chapter.
 
 ## Annotations
 
-[^key-f4e3df78d7f7770860d80239da75aab1]: Textual amendment: Words in reg. 120 heading omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(c)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/c), [11(4)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/4)
+[^c-f4e3df78d7f7770860d80239da75aab1]: Textual amendment: Words in reg. 120 heading omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(c)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/c), [11(4)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/4)
 
-[^key-8754dced2ea76f7bfaea15dd9fe66f72]: Textual amendment: Words in reg. 120 omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(c)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/c), [11(12)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/12)
+[^c-8754dced2ea76f7bfaea15dd9fe66f72]: Textual amendment: Words in reg. 120 omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(c)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/c), [11(12)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/12)

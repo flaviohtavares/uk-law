@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Meaning of “premises”[^key-90382b31bd356a7d171e4fcb048242c2]
+## 3. Meaning of “premises”[^c-90382b31bd356a7d171e4fcb048242c2]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90382b31bd356a7d171e4fcb048242c2]: Commencement: S. 3 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-90382b31bd356a7d171e4fcb048242c2]: Commencement: S. 3 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

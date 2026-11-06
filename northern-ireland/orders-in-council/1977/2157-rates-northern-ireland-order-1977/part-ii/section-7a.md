@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7A. Additional regional rate in respect of large retail hereditaments for the years ending on 31st March 2013, 31st March 2014 and 31st March 2015[^key-fb6ab27828251be6d2fc95b34adedaf0]
+## 7A. Additional regional rate in respect of large retail hereditaments for the years ending on 31st March 2013, 31st March 2014 and 31st March 2015[^c-fb6ab27828251be6d2fc95b34adedaf0]
 
 *Extent: N.I.*
 
@@ -67,4 +67,4 @@ but shall, if the part of year during which the person is so chargeable ends bef
 
 ## Annotations
 
-[^key-fb6ab27828251be6d2fc95b34adedaf0]: Textual amendment: Art. 7A inserted (29.2.2012) by [Rates (Amendment) Act (Northern Ireland) 2012 (c. 1)](https://www.legislation.gov.uk/nia/2012/1), [ss. 1](https://www.legislation.gov.uk/nia/2012/1/section/1), [7(1)](https://www.legislation.gov.uk/nia/2012/1/section/7/1)
+[^c-fb6ab27828251be6d2fc95b34adedaf0]: Textual amendment: Art. 7A inserted (29.2.2012) by [Rates (Amendment) Act (Northern Ireland) 2012 (c. 1)](https://www.legislation.gov.uk/nia/2012/1), [ss. 1](https://www.legislation.gov.uk/nia/2012/1/section/1), [7(1)](https://www.legislation.gov.uk/nia/2012/1/section/7/1)

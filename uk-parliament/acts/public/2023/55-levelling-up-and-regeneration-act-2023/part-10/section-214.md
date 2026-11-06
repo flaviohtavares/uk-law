@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Further provision about letting notices[^key-ed662d9e39102c0efd49da3757be07f7][^key-927487b1363d273cb1dced0dbf45c187][^key-90394c674da860cf5ce3065503199d36]
+## 214. Further provision about letting notices[^c-ed662d9e39102c0efd49da3757be07f7][^c-927487b1363d273cb1dced0dbf45c187][^c-90394c674da860cf5ce3065503199d36]
 
 *Extent: E+W*
 
@@ -54,8 +54,8 @@ in such detail as is adequate in order for the recipient of the notice to be abl
 
 ## Annotations
 
-[^key-ed662d9e39102c0efd49da3757be07f7]: Commencement: S. 214 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-ed662d9e39102c0efd49da3757be07f7]: Commencement: S. 214 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-927487b1363d273cb1dced0dbf45c187]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2023/55/section/214) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/p)
+[^c-927487b1363d273cb1dced0dbf45c187]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2023/55/section/214) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/p)
 
-[^key-90394c674da860cf5ce3065503199d36]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2023/55/section/214) in force at 2.12.2024 in so far as not already in force by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/f)
+[^c-90394c674da860cf5ce3065503199d36]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2023/55/section/214) in force at 2.12.2024 in so far as not already in force by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Payment of awards otherwise than to beneficiary and application of payments[^key-6d075a333cef37d53dde5c61ac9627c5]
+## 79. Payment of awards otherwise than to beneficiary and application of payments[^c-6d075a333cef37d53dde5c61ac9627c5]
 
 *Extent: N.I.*
 
@@ -50,6 +50,6 @@ and, in the event of any dispute as to the amount of that loss, the power confer
 
 ## Annotations
 
-[^key-6d075a333cef37d53dde5c61ac9627c5]: Commencement: Reg. 79 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-6d075a333cef37d53dde5c61ac9627c5]: Commencement: Reg. 79 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
 [^f00032]: Footnote: [1965 c.32](https://www.legislation.gov.uk/ukpga/1965/32)

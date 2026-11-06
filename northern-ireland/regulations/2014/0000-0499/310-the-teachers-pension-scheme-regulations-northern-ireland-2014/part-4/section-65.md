@@ -24,7 +24,7 @@ summary: ''
 
 - (a) a deferred member (P) re-enters pensionable service under this scheme after a gap in service of more than 5 years;
 - (b) the gap in service included a period of service under another public service scheme; and
-- (c) the period in which P was not in any service was 5 years or less[^key-79e969421e376ea3108a6ae7873198f3].
+- (c) the period in which P was not in any service was 5 years or less[^c-79e969421e376ea3108a6ae7873198f3].
 
 (2) When P re-enters pensionable service under this scheme—
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79e969421e376ea3108a6ae7873198f3]: Textual amendment: Words in [reg. 65(1)(c)](https://www.legislation.gov.uk/nisr/2014/310/regulation/65/1/c) substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/126/regulation/11)
+[^c-79e969421e376ea3108a6ae7873198f3]: Textual amendment: Words in [reg. 65(1)(c)](https://www.legislation.gov.uk/nisr/2014/310/regulation/65/1/c) substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/126/regulation/11)

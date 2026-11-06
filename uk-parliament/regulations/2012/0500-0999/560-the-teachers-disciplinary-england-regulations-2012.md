@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 141A(2), 141D(3), 141E(3) and 210(7) of, and Schedule 11A to, the Education Act 2002[^f00001].
 
-## 1. Citation and commencement[^key-6105415b413fc426c10871a263fb48a4]
+## 1. Citation and commencement[^c-6105415b413fc426c10871a263fb48a4]
 
 These Regulations may be cited as the Teachers’ Disciplinary (England) Regulations 2012 and come into force on 1st April 2012.
 
-## 2. Interpretation[^key-ed927a83c4cfa08f131af02869f73b6a]
+## 2. Interpretation[^c-ed927a83c4cfa08f131af02869f73b6a]
 
 In these Regulations—
 
@@ -63,7 +63,7 @@ In these Regulations—
   - (e) when section 53 of the Education Act 2011[^f00005] is fully in force, a 16 to 19 Academy[^f00006]; and
 - “the prohibited list” means the list maintained by the Secretary of State under section 141C (1) of the Education Act 2002[^f00007].
 
-## 3. Teaching work[^key-bd6ec441708d100f0ba8015d0bdedd28]
+## 3. Teaching work[^c-bd6ec441708d100f0ba8015d0bdedd28]
 
 (1) Subject to paragraph (3), each of the following activities is teaching work for the purposes of these Regulations—
 
@@ -76,11 +76,11 @@ In these Regulations—
 
 (3) The activities specified in paragraph (1) are not teaching work for the purposes of these Regulations if the person carrying out the activity does so (other than for the purposes of induction) subject to the direction and supervision of a qualified teacher[^f00009] or other person nominated by the head teacher to provide such direction and supervision.
 
-## 4. Teachers’ standards[^key-da479d4bbf7a3e7a1eb2fc930cbefbe9]
+## 4. Teachers’ standards[^c-da479d4bbf7a3e7a1eb2fc930cbefbe9]
 
 Any decision made under these Regulations may take into account any failure by a teacher to comply with the personal and professional conduct standards set out in part two of “Teachers’ Standards” published by the Secretary of State in July 2011[^f00010].
 
-## 5. Consideration of cases[^key-7b0800beefcb94acb411b45d4d0ddff2]
+## 5. Consideration of cases[^c-7b0800beefcb94acb411b45d4d0ddff2]
 
 (1) This paragraph applies where the Secretary of State considers that a teacher—
 
@@ -105,7 +105,7 @@ and must inform the teacher of such decision.
 
 (5) Where the Secretary of State decides that the case should be discontinued, the Secretary of State must at the request of the teacher publish a statement to that effect.
 
-## 6. Appointment and membership of a professional conduct panel[^key-02cff5148b8e2c485e2f3976790b89c3]
+## 6. Appointment and membership of a professional conduct panel[^c-02cff5148b8e2c485e2f3976790b89c3]
 
 (1) Where the Secretary of State decides under regulation 5(4) that a case should be considered by a professional conduct panel, the Secretary of State must appoint such a panel in accordance with paragraph (2) to consider the case.
 
@@ -114,9 +114,9 @@ and must inform the teacher of such decision.
 - (a) one or more teachers or persons who have been teachers in the past five years; and
 - (b) one or more other persons.
 
-(3)[^key-cbd1c712641be832e4787571cbbfe962] In this regulation, “persons who have been teachers in the past five years” means persons who were teachers in the five years immediately before the date they were appointed by the Secretary of State as suitable to be a member of a professional conduct panel.
+(3)[^c-cbd1c712641be832e4787571cbbfe962] In this regulation, “persons who have been teachers in the past five years” means persons who were teachers in the five years immediately before the date they were appointed by the Secretary of State as suitable to be a member of a professional conduct panel.
 
-## 7. Proceedings of a professional conduct panel[^key-4f86624aa352e71240225582cab7e1e9]
+## 7. Proceedings of a professional conduct panel[^c-4f86624aa352e71240225582cab7e1e9]
 
 (1) A professional conduct panel must consider cases referred to it by the Secretary of State in accordance with paragraphs (2) to (5) and regulations 9 to 11.
 
@@ -133,7 +133,7 @@ and must inform the teacher of such decision.
 
 the panel must make a recommendation to the Secretary of State as to whether a prohibition order should be made.
 
-## 8. Decision of the Secretary of State[^key-09b04e375ccaebc45f498488b91fc75f]
+## 8. Decision of the Secretary of State[^c-09b04e375ccaebc45f498488b91fc75f]
 
 (1) The Secretary of State must consider any recommendation made by a professional conduct panel before deciding whether to make a prohibition order.
 
@@ -148,15 +148,15 @@ the panel must make a recommendation to the Secretary of State as to whether a p
 
 (5) The decision of the Secretary of State following the determination of a professional conduct panel must be published.
 
-## 9. Entitlement to appear and be represented at hearings[^key-a653c6709ca092c2b3fd551072dc4149]
+## 9. Entitlement to appear and be represented at hearings[^c-a653c6709ca092c2b3fd551072dc4149]
 
 A teacher who is the subject of a case may appear and make oral representations, and be represented by any person, at any hearing at which the case is considered.
 
-## 10. Attendance of witnesses[^key-065a44592d725b682d04e7b5c4b00f3e]
+## 10. Attendance of witnesses[^c-065a44592d725b682d04e7b5c4b00f3e]
 
 The Secretary of State may require, or authorise the professional conduct panel to require, any person to attend and give evidence or to produce documents or other material evidence at any hearing.
 
-## 11. Requirement for hearings to be held in public[^key-32ef259f25e03322f32e9fd5d47bf198]
+## 11. Requirement for hearings to be held in public[^c-32ef259f25e03322f32e9fd5d47bf198]
 
 (1) Subject to paragraphs (2) and (3), a hearing of a professional conduct panel must take place in public.
 
@@ -167,15 +167,15 @@ The Secretary of State may require, or authorise the professional conduct panel 
 - (a) where it appears to the panel to be in the interests of justice or the public interest to do so; or
 - (b) where the teacher who is the subject of the case requests that the hearing or part of the hearing should be in private and the panel does not consider it to be contrary to the public interest to do so.
 
-## 12. Administration of oaths and affirmations[^key-61ba56989779a549e6cfb3110bbbb2c4]
+## 12. Administration of oaths and affirmations[^c-61ba56989779a549e6cfb3110bbbb2c4]
 
 A professional conduct panel may require any witness at a hearing to give evidence on oath or affirmation.
 
-## 12A. Limits of evidence requirements[^key-7e0edea35ef3fa9c133dea7ca343d56d]
+## 12A. Limits of evidence requirements[^c-7e0edea35ef3fa9c133dea7ca343d56d]
 
 Nothing in these Regulations shall be taken to require any person to give evidence or produce any document or other material evidence which the person could not be compelled to give or produce in civil proceedings in any court in England and Wales.
 
-## 13. Prohibition orders[^key-1d97bbb9bcfe2d1c0cc9d122031cfc80]
+## 13. Prohibition orders[^c-1d97bbb9bcfe2d1c0cc9d122031cfc80]
 
 (1) A prohibition order must record the decision of the Secretary of State, the date on which the order is made, and the date on which the order takes effect.
 
@@ -189,7 +189,7 @@ Nothing in these Regulations shall be taken to require any person to give eviden
 (4) The Secretary of State must—
 
 - (a) serve notice of the prohibition order on the teacher to whom the order relates;
-- (b) serve notice of the order on the teacher’s employer (or, as the case may be, the person by whom the teacher was engaged to carry out teaching work)[^key-8d4604e43d024b3f1d38d3240b05aaf0] and, where arrangements have been made by a person for the teacher to carry out work at the request of or with the consent of a relevant employer, that person.
+- (b) serve notice of the order on the teacher’s employer (or, as the case may be, the person by whom the teacher was engaged to carry out teaching work)[^c-8d4604e43d024b3f1d38d3240b05aaf0] and, where arrangements have been made by a person for the teacher to carry out work at the request of or with the consent of a relevant employer, that person.
 
 (5) The notice referred to in paragraph (4)(a) must contain the following information:
 
@@ -198,7 +198,7 @@ Nothing in these Regulations shall be taken to require any person to give eviden
 - (c) the reasons for making the order; and
 - (d) notification of the right to appeal to the High Court against the order within 28 days of service of notice of the order.
 
-## 14. Interim prohibition orders[^key-47de1b95ab50583d8a0d90d2473a738c]
+## 14. Interim prohibition orders[^c-47de1b95ab50583d8a0d90d2473a738c]
 
 (1) Subject to paragraph (2), the Secretary of State may make an interim prohibition order at any time pending a decision as to whether to make a prohibition order, if the Secretary of State considers that it is necessary in the public interest to do so.
 
@@ -217,7 +217,7 @@ if the teacher to whom the order relates makes an application to the Secretary o
 
 (6) No application for a review under regulation 16 or an appeal under regulation 17 may be made in relation to an interim prohibition order.
 
-## 15. Publication of prohibition orders[^key-a8520b5a89d93113ed871196dafdc37b]
+## 15. Publication of prohibition orders[^c-a8520b5a89d93113ed871196dafdc37b]
 
 (1) The Secretary of State must publish the information set out in paragraph (2) in relation to a teacher to whom a prohibition order relates—
 
@@ -231,7 +231,7 @@ if the teacher to whom the order relates makes an application to the Secretary o
 - (c) the dates on which the prohibition order was made and takes effect; and
 - (d) the reasons for making the order.
 
-## 16. Review of prohibition orders[^key-eb2ee8ac20065ce53b1256b8eea82eab]
+## 16. Review of prohibition orders[^c-eb2ee8ac20065ce53b1256b8eea82eab]
 
 (1) Subject to regulation 8(2), a teacher in relation to whom a prohibition order has been made may apply to the Secretary of State for the order to be set aside.
 
@@ -255,15 +255,15 @@ if the teacher to whom the order relates makes an application to the Secretary o
 
 (8) Paragraphs (2) and (3) of regulation 7, and regulations 9 to 12, apply to any reference made by the Secretary of State under paragraph (7) as they apply in relation to a reference to a professional conduct panel under regulation 5(4).
 
-## 17. Appeals[^key-3aa2cdf40574a5889b5dc78d7b2c8ba5]
+## 17. Appeals[^c-3aa2cdf40574a5889b5dc78d7b2c8ba5]
 
 A person in relation to whom a prohibition order is made may appeal to the High Court within 28 days of the date on which notice of the order is served on that person.
 
-## 18. Persons prohibited from teaching in Wales, Scotland or Northern Ireland[^key-cb6c852f3017769f8d03bd0e38b7879d]
+## 18. Persons prohibited from teaching in Wales, Scotland or Northern Ireland[^c-cb6c852f3017769f8d03bd0e38b7879d]
 
 Regulations 16 and 17 do not apply in relation to persons who are included on the prohibited list under section 141C(2) of the Education Act 2002[^f00013].
 
-## 19. Service of notices and orders[^key-030216028c174cbc3354880fbff692dc]
+## 19. Service of notices and orders[^c-030216028c174cbc3354880fbff692dc]
 
 (1) Anything required to be served on a teacher for the purposes of these Regulations may be—
 
@@ -277,7 +277,7 @@ Regulations 16 and 17 do not apply in relation to persons who are included on th
 - (b) where it was sent to the teacher by post or left at the teacher’s last known address, on the fourth day after the day on which it was sent or left;
 - (c) where the teacher requests in writing that documents be served by such a method, where it was sent by facsimile or electronic mail or similar means which are capable of producing a document containing the text of the communication, on the second day after the day on which it was transmitted.
 
-## 20. Provision of information by employer[^key-a607ee58ec39d6607e529af06ac7fb19]
+## 20. Provision of information by employer[^c-a607ee58ec39d6607e529af06ac7fb19]
 
 (1) The information prescribed for the purposes of sections 141D(3) and 141E(3)[^f00014] of the Education Act 2002 is the information set out in paragraph (2).
 
@@ -318,9 +318,9 @@ An impact assessment has not been prepared for this instrument as no impact on b
 
 [^f00001]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32). Sections 141A, 141D and 141E and Schedule 11A were inserted in the Education Act 2002 (“the Act”) by section 8 of the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21). See section 212(1) of the Act for the definitions of “prescribed” and “regulations”.
 
-[^key-6105415b413fc426c10871a263fb48a4]: Commencement: Reg. 1 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-6105415b413fc426c10871a263fb48a4]: Commencement: Reg. 1 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
-[^key-ed927a83c4cfa08f131af02869f73b6a]: Commencement: Reg. 2 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-ed927a83c4cfa08f131af02869f73b6a]: Commencement: Reg. 2 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
 [^f00002]: Footnote: See section 91(3A) of the Further and Higher Education Act [1992 (c.13)](https://www.legislation.gov.uk/ukpga/1992/13) for the definition of “sixth form college”. Section 91(3A) was inserted by the Apprenticeships, Skills, Children and Learning Act 2009 (“the 2009 Act”) (c. 22), section 125 and Schedule 8, paragraphs 1 and 13 (1) and (3).
 
@@ -334,58 +334,58 @@ An impact assessment has not been prepared for this instrument as no impact on b
 
 [^f00007]: Footnote: Section 141(C) was inserted in the Act by section 8 of the Education Act 2011. It imposes a duty on the Secretary of State to keep a list containing the names of persons in relation to whom a prohibition order has effect.
 
-[^key-bd6ec441708d100f0ba8015d0bdedd28]: Commencement: Reg. 3 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-bd6ec441708d100f0ba8015d0bdedd28]: Commencement: Reg. 3 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
 [^f00008]: Footnote: See section 3 of the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56) for the definition of “pupil”.
 
 [^f00009]: Footnote: See section 132 of the Education Act 2002 for the definition of “qualified teacher”.
 
-[^key-da479d4bbf7a3e7a1eb2fc930cbefbe9]: Commencement: Reg. 4 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-da479d4bbf7a3e7a1eb2fc930cbefbe9]: Commencement: Reg. 4 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
 [^f00010]: Footnote: The Teachers’ Standards can be found at http://www.education.gov.uk/.
 
-[^key-7b0800beefcb94acb411b45d4d0ddff2]: Commencement: Reg. 5 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-7b0800beefcb94acb411b45d4d0ddff2]: Commencement: Reg. 5 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
 [^f00011]: Footnote: See section 141B(4) Education Act 2002 for the definition of “relevant offence”
 
-[^key-02cff5148b8e2c485e2f3976790b89c3]: Commencement: Reg. 6 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-02cff5148b8e2c485e2f3976790b89c3]: Commencement: Reg. 6 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
-[^key-cbd1c712641be832e4787571cbbfe962]: Textual amendment: Reg. 6(3) inserted (1.9.2014) by [The Teachers’ Disciplinary (Amendment) (England) Regulations 2014 (S.I. 2014/1685)](https://www.legislation.gov.uk/uksi/2014/1685), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1685/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1685/regulation/2/2)
+[^c-cbd1c712641be832e4787571cbbfe962]: Textual amendment: Reg. 6(3) inserted (1.9.2014) by [The Teachers’ Disciplinary (Amendment) (England) Regulations 2014 (S.I. 2014/1685)](https://www.legislation.gov.uk/uksi/2014/1685), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1685/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1685/regulation/2/2)
 
-[^key-4f86624aa352e71240225582cab7e1e9]: Commencement: Reg. 7 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-4f86624aa352e71240225582cab7e1e9]: Commencement: Reg. 7 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
-[^key-09b04e375ccaebc45f498488b91fc75f]: Commencement: Reg. 8 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-09b04e375ccaebc45f498488b91fc75f]: Commencement: Reg. 8 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
-[^key-a653c6709ca092c2b3fd551072dc4149]: Commencement: Reg. 9 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-a653c6709ca092c2b3fd551072dc4149]: Commencement: Reg. 9 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
-[^key-065a44592d725b682d04e7b5c4b00f3e]: Commencement: Reg. 10 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-065a44592d725b682d04e7b5c4b00f3e]: Commencement: Reg. 10 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
-[^key-32ef259f25e03322f32e9fd5d47bf198]: Commencement: Reg. 11 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-32ef259f25e03322f32e9fd5d47bf198]: Commencement: Reg. 11 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
-[^key-61ba56989779a549e6cfb3110bbbb2c4]: Commencement: Reg. 12 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-61ba56989779a549e6cfb3110bbbb2c4]: Commencement: Reg. 12 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
-[^key-7e0edea35ef3fa9c133dea7ca343d56d]: Textual amendment: Reg. 12A inserted (1.9.2014) by [The Teachers’ Disciplinary (Amendment) (England) Regulations 2014 (S.I. 2014/1685)](https://www.legislation.gov.uk/uksi/2014/1685), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1685/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/1685/regulation/2/3)
+[^c-7e0edea35ef3fa9c133dea7ca343d56d]: Textual amendment: Reg. 12A inserted (1.9.2014) by [The Teachers’ Disciplinary (Amendment) (England) Regulations 2014 (S.I. 2014/1685)](https://www.legislation.gov.uk/uksi/2014/1685), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1685/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/1685/regulation/2/3)
 
-[^key-1d97bbb9bcfe2d1c0cc9d122031cfc80]: Commencement: Reg. 13 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-1d97bbb9bcfe2d1c0cc9d122031cfc80]: Commencement: Reg. 13 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
-[^key-8d4604e43d024b3f1d38d3240b05aaf0]: Textual amendment: Words in reg. 13(4)(b) inserted (1.9.2014) by [The Teachers’ Disciplinary (Amendment) (England) Regulations 2014 (S.I. 2014/1685)](https://www.legislation.gov.uk/uksi/2014/1685), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1685/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/1685/regulation/2/4)
+[^c-8d4604e43d024b3f1d38d3240b05aaf0]: Textual amendment: Words in reg. 13(4)(b) inserted (1.9.2014) by [The Teachers’ Disciplinary (Amendment) (England) Regulations 2014 (S.I. 2014/1685)](https://www.legislation.gov.uk/uksi/2014/1685), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1685/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/1685/regulation/2/4)
 
-[^key-47de1b95ab50583d8a0d90d2473a738c]: Commencement: Reg. 14 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-47de1b95ab50583d8a0d90d2473a738c]: Commencement: Reg. 14 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
-[^key-a8520b5a89d93113ed871196dafdc37b]: Commencement: Reg. 15 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-a8520b5a89d93113ed871196dafdc37b]: Commencement: Reg. 15 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
 [^f00012]: Footnote: The Teacher Reference Number is a unique identifying number issued to each teacher by the Department for Education when they enter initial teacher training.
 
-[^key-eb2ee8ac20065ce53b1256b8eea82eab]: Commencement: Reg. 16 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-eb2ee8ac20065ce53b1256b8eea82eab]: Commencement: Reg. 16 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
-[^key-3aa2cdf40574a5889b5dc78d7b2c8ba5]: Commencement: Reg. 17 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-3aa2cdf40574a5889b5dc78d7b2c8ba5]: Commencement: Reg. 17 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
-[^key-cb6c852f3017769f8d03bd0e38b7879d]: Commencement: Reg. 18 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-cb6c852f3017769f8d03bd0e38b7879d]: Commencement: Reg. 18 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
 [^f00013]: Footnote: Section 141C(2) allows the Secretary of State to include on the list of names of persons in relation to whom a prohibition order has effect, the name of any person who has been prohibited from teaching in Wales, Scotland or Northern Ireland.
 
-[^key-030216028c174cbc3354880fbff692dc]: Commencement: Reg. 19 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-030216028c174cbc3354880fbff692dc]: Commencement: Reg. 19 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
-[^key-a607ee58ec39d6607e529af06ac7fb19]: Commencement: Reg. 20 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
+[^c-a607ee58ec39d6607e529af06ac7fb19]: Commencement: Reg. 20 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/560/regulation/1)
 
 [^f00014]: Footnote: Sections 141D and 141E impose a duty on a relevant employer or an agent to consider whether it would be appropriate to provide prescribed information about the teacher to the Secretary of State when they have ceased to use the services of a teacher because the teacher has been guilty of serious misconduct, or might have done so had the teacher not ceased to provide those services or to be available for work.

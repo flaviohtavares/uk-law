@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. No entitlement to additional recovery period etc[^key-8d5d8babc173ef1b104ae112f50335a0][^key-d3832d0ce868f444769a738e9f06f050]
+## 62. No entitlement to additional recovery period etc[^c-8d5d8babc173ef1b104ae112f50335a0][^c-d3832d0ce868f444769a738e9f06f050]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ This is subject to section 63(2).
 
 ## Annotations
 
-[^key-8d5d8babc173ef1b104ae112f50335a0]: Commencement: S. 62 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-8d5d8babc173ef1b104ae112f50335a0]: Commencement: S. 62 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-d3832d0ce868f444769a738e9f06f050]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2022/36/section/62) in force at 30.1.2023 by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/c)
+[^c-d3832d0ce868f444769a738e9f06f050]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2022/36/section/62) in force at 30.1.2023 by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/c)

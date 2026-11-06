@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Health[^f00001], in exercise of the powers conferred by Articles 57D and 106(b) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002], makes the following Regulations.
 
-## 1. Citation, commencement and interpretation[^key-f6935874d0fa418273e3d979b8fad058]
+## 1. Citation, commencement and interpretation[^c-f6935874d0fa418273e3d979b8fad058]
 
 These Regulations may be cited as the Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 1st May 2026.
 
-## 2. Amendment of the Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) Regulations (Northern Ireland) 2004[^key-e29677a1671185349c2e73114d962916]
+## 2. Amendment of the Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) Regulations (Northern Ireland) 2004[^c-e29677a1671185349c2e73114d962916]
 
 (1) Schedule 2 (drugs, medicines and other substances to be ordered only in certain circumstances) to the Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) Regulations 2004[^f00003] is amended as follows.
 
@@ -72,8 +72,8 @@ Regulation 2 makes amendments to the table in Schedule 2 to the 2004 Regulations
 
 [^f00002]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); Article 57D was inserted by Article 4 of [S.I. 2004/311 (N.I. 2)](https://www.legislation.gov.uk/nisi/2004/311)
 
-[^key-f6935874d0fa418273e3d979b8fad058]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/72/regulation/1) in operation at 1.5.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/72/regulation/1)
+[^c-f6935874d0fa418273e3d979b8fad058]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/72/regulation/1) in operation at 1.5.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/72/regulation/1)
 
-[^key-e29677a1671185349c2e73114d962916]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/72/regulation/2) in operation at 1.5.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/72/regulation/1)
+[^c-e29677a1671185349c2e73114d962916]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/72/regulation/2) in operation at 1.5.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/72/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2004 No. 142](https://www.legislation.gov.uk/nisr/2004/142); amended by [S.R. 2009 No. 394](https://www.legislation.gov.uk/nisr/2009/394), [S.R. 2010 No. 375](https://www.legislation.gov.uk/nisr/2010/375), [S.R. 2011 No. 327](https://www.legislation.gov.uk/nisr/2011/327) and [S.R. 2014 No. 215](https://www.legislation.gov.uk/nisr/2014/215)

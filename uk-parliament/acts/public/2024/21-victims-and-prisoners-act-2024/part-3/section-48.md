@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Infected Blood Compensation Authority[^key-2c5340386336a59c23e8e0c9878312d6]
+## 48. Infected Blood Compensation Authority[^c-2c5340386336a59c23e8e0c9878312d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c5340386336a59c23e8e0c9878312d6]: Commencement: S. 48 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-2c5340386336a59c23e8e0c9878312d6]: Commencement: S. 48 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)

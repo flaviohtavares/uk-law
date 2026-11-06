@@ -32,7 +32,7 @@ summary: ''
 
 Sanctions
 
-The Iran (Sanctions) (Human Rights) (EU Exit) Regulations 2019 (revoked)[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+The Iran (Sanctions) (Human Rights) (EU Exit) Regulations 2019 (revoked)[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 Made
 
@@ -44,11 +44,11 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-e9d3c8353828b09e8e1206ed67f49b7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9d3c8353828b09e8e1206ed67f49b7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+### PART 1 — General[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 3 — Application of prohibitions and requirements outside the United Kingdom](part-1/section-3.md)
 - [Section 4 — Purposes](part-1/section-4.md)
 
-### PART 2 — Designation of persons[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+### PART 2 — Designation of persons[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,7 +71,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 8 — Notification and publicity where designation power used](part-2/section-8.md)
 - [Section 9 — Confidential information in certain cases where designation power used](part-2/section-9.md)
 
-### PART 3 — Finance[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+### PART 3 — Finance[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 15 — Making economic resources available for benefit of designated person](part-3/section-15.md)
 - [Section 16 — Circumventing etc prohibitions](part-3/section-16.md)
 
-### PART 4 — Immigration[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+### PART 4 — Immigration[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,13 +93,13 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 17 — Immigration](part-4/section-17.md)
 
-### PART 5 — Trade[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+### PART 5 — Trade[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Interpretation[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+#### CHAPTER 1 — Interpretation[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -111,7 +111,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 21 — Definition of “interception and monitoring services”](part-5/section-21.md)
 - [Section 22 — Interpretation of other expressions used in this Part](part-5/section-22.md)
 
-#### CHAPTER 2 — Restricted goods and restricted technology[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+#### CHAPTER 2 — Restricted goods and restricted technology[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -125,7 +125,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 28 — Financial services and funds relating to restricted goods and restricted technology](part-5/section-28.md)
 - [Section 29 — Brokering services: non-UK activity relating to restricted goods and restricted technology](part-5/section-29.md)
 
-#### CHAPTER 3 — Interception and monitoring services[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+#### CHAPTER 3 — Interception and monitoring services[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -133,7 +133,7 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 30 — Provision of interception and monitoring services](part-5/section-30.md)
 
-#### CHAPTER 4 — Further provision[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+#### CHAPTER 4 — Further provision[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -142,7 +142,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 31 — Circumventing etc prohibitions](part-5/section-31.md)
 - [Section 32 — Defences](part-5/section-32.md)
 
-### PART 6 — Exceptions and licences[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+### PART 6 — Exceptions and licences[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -158,7 +158,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 39 — Trade: licensing offences](part-6/section-39.md)
 - [Section 40 — Section 8B(1) to (3) of Immigration Act 1971: directions](part-6/section-40.md)
 
-### PART 7 — Information and records[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+### PART 7 — Information and records[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -176,7 +176,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 49A — Finance: disclosure to the Treasury](part-7/section-49a.md)
 - [Section 50 — Part 7: supplementary](part-7/section-50.md)
 
-### PART 8 — Enforcement[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+### PART 8 — Enforcement[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -192,7 +192,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 58 — Application of Chapter 1 of Part 2 of Serious Organised Crime and Police Act 2005](part-8/section-58.md)
 - [Section 59 — Monetary penalties](part-8/section-59.md)
 
-### PART 9 — Maritime enforcement[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+### PART 9 — Maritime enforcement[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -205,7 +205,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 64 — Restrictions on exercise of maritime enforcement powers](part-9/section-64.md)
 - [Section 65 — Interpretation of Part 9](part-9/section-65.md)
 
-### PART 10 — Supplementary and final provision[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+### PART 10 — Supplementary and final provision[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -224,7 +224,7 @@ Coming into force in accordance with regulation 1(2)
 
 **No longer in force.**
 
-[^key-e9d3c8353828b09e8e1206ed67f49b7e]SCHEDULES
+[^c-e9d3c8353828b09e8e1206ed67f49b7e]SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -235,12 +235,12 @@ Coming into force in accordance with regulation 1(2)
 
 **No longer in force.**
 
-[^key-e9d3c8353828b09e8e1206ed67f49b7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9d3c8353828b09e8e1206ed67f49b7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
-[^key-e9d3c8353828b09e8e1206ed67f49b7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9d3c8353828b09e8e1206ed67f49b7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e9d3c8353828b09e8e1206ed67f49b7e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/134) revoked (14.12.2023) by [The Iran (Sanctions) Regulations 2023 (S.I. 2023/1314)](https://www.legislation.gov.uk/uksi/2023/1314), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2), [96](https://www.legislation.gov.uk/uksi/2023/1314/regulation/96) (with [regs. 98-100](https://www.legislation.gov.uk/uksi/2023/1314/regulation/98))
+[^c-e9d3c8353828b09e8e1206ed67f49b7e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/134) revoked (14.12.2023) by [The Iran (Sanctions) Regulations 2023 (S.I. 2023/1314)](https://www.legislation.gov.uk/uksi/2023/1314), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2), [96](https://www.legislation.gov.uk/uksi/2023/1314/regulation/96) (with [regs. 98-100](https://www.legislation.gov.uk/uksi/2023/1314/regulation/98))

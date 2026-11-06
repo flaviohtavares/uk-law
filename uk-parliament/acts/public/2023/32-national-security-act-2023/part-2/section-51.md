@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Other provision relating to the quashing of Part 2 notice[^key-cb688d3fe7d447c19367f28414820f96][^key-9527dfd258e26a03a46c5230f9a8a683]
+## 51. Other provision relating to the quashing of Part 2 notice[^c-cb688d3fe7d447c19367f28414820f96][^c-9527dfd258e26a03a46c5230f9a8a683]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb688d3fe7d447c19367f28414820f96]: Commencement: S. 51 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-cb688d3fe7d447c19367f28414820f96]: Commencement: S. 51 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-9527dfd258e26a03a46c5230f9a8a683]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/32/section/51) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-9527dfd258e26a03a46c5230f9a8a683]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/32/section/51) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

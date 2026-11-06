@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Interim orders[^key-8520876dfa828558130273eeecff4e9e]
+## 22. Interim orders[^c-8520876dfa828558130273eeecff4e9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8520876dfa828558130273eeecff4e9e]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/6/section/22) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-8520876dfa828558130273eeecff4e9e]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/6/section/22) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

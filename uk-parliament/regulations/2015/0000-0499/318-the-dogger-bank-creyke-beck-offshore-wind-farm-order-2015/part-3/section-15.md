@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Access to works[^key-c07cbbd403729d7ee190ee9be48af9eb]
+## 15. Access to works[^c-c07cbbd403729d7ee190ee9be48af9eb]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The undertaker may, for the purposes of the authorised project,—
 
 ## Annotations
 
-[^key-c07cbbd403729d7ee190ee9be48af9eb]: Commencement: Art. 15 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-c07cbbd403729d7ee190ee9be48af9eb]: Commencement: Art. 15 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)

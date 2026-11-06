@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Procedural requirements as to applications.[^c11434971][^key-e84bf7959d73c13989b984963b1fe8fb]
+## 165. Procedural requirements as to applications.[^c11434971][^c-e84bf7959d73c13989b984963b1fe8fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ In the 1971 Act, after section 31, insert—
 
 [^c11434971]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/1999/33/section/165) partly in force; [s. 165](https://www.legislation.gov.uk/ukpga/1999/33/section/165) not in force at Royal Assent see [s. 170(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/170/4); [s. 165](https://www.legislation.gov.uk/ukpga/1999/33/section/165) in force for certain purposes at 22.5.2000 by [S.I. 2000/1282](https://www.legislation.gov.uk/uksi/2000/1282), [art. 2](https://www.legislation.gov.uk/uksi/2000/1282/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1282/schedule)
 
-[^key-e84bf7959d73c13989b984963b1fe8fb]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/1999/33/section/165) in force at 1.8.2003 in so far as not already in force by [S.I. 2003/1862](https://www.legislation.gov.uk/uksi/2003/1862), [art. 2](https://www.legislation.gov.uk/uksi/2003/1862/article/2)
+[^c-e84bf7959d73c13989b984963b1fe8fb]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/1999/33/section/165) in force at 1.8.2003 in so far as not already in force by [S.I. 2003/1862](https://www.legislation.gov.uk/uksi/2003/1862), [art. 2](https://www.legislation.gov.uk/uksi/2003/1862/article/2)

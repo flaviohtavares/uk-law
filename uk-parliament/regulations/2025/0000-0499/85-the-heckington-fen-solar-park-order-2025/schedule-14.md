@@ -22,7 +22,7 @@ summary: ''
 
 Article 41
 
-### 1. Interpretation[^key-86bebfe5b27962669a2342a99f0de3ee]
+### 1. Interpretation[^c-86bebfe5b27962669a2342a99f0de3ee]
 
 In this Schedule—
 
@@ -31,7 +31,7 @@ In this Schedule—
 - “**relevant authority**” means any authority or body named in any of the provisions of this Order and whose consent, agreement or approval is sought; and
 - “**requirement consultee**” means any body or authority named in a requirement as a body to be consulted by the relevant planning authority in discharging that requirement.
 
-### 2. Applications made under provisions of this Order[^key-8f955908fa0395a228636fcb00fc2952]
+### 2. Applications made under provisions of this Order[^c-8f955908fa0395a228636fcb00fc2952]
 
 (1) Where an application has been made to the relevant planning authority for any consent, agreement or approval required by a requirement the relevant planning authority must give notice to the undertaker of its decision on the application within a period of ten weeks beginning with the later of—
 
@@ -55,7 +55,7 @@ then the application is to be taken to have been refused by the relevant plannin
 
 (5) Where an application has been made to the relevant planning authority for any discharge, the undertaker will also submit a copy of that application to any requirement consultee.
 
-### 3. Further information and consultation[^key-c9f0a0bce214bb5ee45fa165aa23e1b2]
+### 3. Further information and consultation[^c-c9f0a0bce214bb5ee45fa165aa23e1b2]
 
 (1) In relation to any application to which this Schedule applies, the relevant planning authority may request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -67,7 +67,7 @@ then the application is to be taken to have been refused by the relevant plannin
 
 (5) Where further information is requested under this paragraph in relation to part only of an application, that part is to be treated as separate from the remainder of the application for the purposes of calculating time periods in paragraph 2 and paragraph 3.
 
-### 4. Appeals[^key-f390cdb9adef0fcb67657b2f2be1c75d]
+### 4. Appeals[^c-f390cdb9adef0fcb67657b2f2be1c75d]
 
 (1) The undertaker may appeal in the event that—
 
@@ -109,17 +109,17 @@ and may deal with the application as if it had been made to them in the first in
 
 (11) On application by the relevant planning authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to advice on planning appeals and award costs published in Planning Practice Guidance: Appeals (March 2014) or any circular or guidance which may from time to time replace it.
 
-### 5. Fees[^key-212a03ea0731ec1351869a7ac5f4beaf]
+### 5. Fees[^c-212a03ea0731ec1351869a7ac5f4beaf]
 
 (1) Where an application is made to the relevant planning authority for a discharge, a fee is to apply and must be paid to the relevant planning authority for each application.
 
 (2) The fee payable for each application under sub-paragraph (1) is as follows—
 
 - (a) a fee of £2,535 for the first application for the discharge of each of the requirements 6, 7, 8, 11, 12, 13, 14, 15, 16, 18, 19, and 20;
-- (b) a fee of £578 for each subsequent application for the discharge of each of the requirements listed in sub-paragraph (a)[^key-b5d2dcf73e4b55a3f6fb6e49f4803b9c] and any application under requirement 5 in respect of the requirements listed in sub-paragraph (a); and
+- (b) a fee of £578 for each subsequent application for the discharge of each of the requirements listed in sub-paragraph (a)[^c-b5d2dcf73e4b55a3f6fb6e49f4803b9c] and any application under requirement 5 in respect of the requirements listed in sub-paragraph (a); and
 - (c) a fee of £145 for any application for the discharge of—
-  - (i) any other requirements not listed in sub-paragraph (a)[^key-13cec19280e714a86d64902e535db92d];
-  - (ii) any application under requirement 5 in respect of requirements not listed in sub-paragraph (a)[^key-786ca0b4523177be36b8fbbb73df602f]; and
+  - (i) any other requirements not listed in sub-paragraph (a)[^c-13cec19280e714a86d64902e535db92d];
+  - (ii) any application under requirement 5 in respect of requirements not listed in sub-paragraph (a)[^c-786ca0b4523177be36b8fbbb73df602f]; and
   - (iii) any approval required by a document referred to by any requirement or a document approved pursuant to any requirement.
 
 (3) Any fee paid under this Schedule must be refunded to the undertaker within four weeks of—
@@ -131,20 +131,20 @@ and may deal with the application as if it had been made to them in the first in
 
 ## Annotations
 
-[^key-86bebfe5b27962669a2342a99f0de3ee]: Commencement: Sch. 14 para. 1 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-86bebfe5b27962669a2342a99f0de3ee]: Commencement: Sch. 14 para. 1 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
 [^f00063]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-8f955908fa0395a228636fcb00fc2952]: Commencement: Sch. 14 para. 2 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-8f955908fa0395a228636fcb00fc2952]: Commencement: Sch. 14 para. 2 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-c9f0a0bce214bb5ee45fa165aa23e1b2]: Commencement: Sch. 14 para. 3 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-c9f0a0bce214bb5ee45fa165aa23e1b2]: Commencement: Sch. 14 para. 3 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-f390cdb9adef0fcb67657b2f2be1c75d]: Commencement: Sch. 14 para. 4 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-f390cdb9adef0fcb67657b2f2be1c75d]: Commencement: Sch. 14 para. 4 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-212a03ea0731ec1351869a7ac5f4beaf]: Commencement: Sch. 14 para. 5 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-212a03ea0731ec1351869a7ac5f4beaf]: Commencement: Sch. 14 para. 5 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-b5d2dcf73e4b55a3f6fb6e49f4803b9c]: Textual amendment: Words in [Sch. 14 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2025/85/schedule/14/paragraph/5/2/b) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)
+[^c-b5d2dcf73e4b55a3f6fb6e49f4803b9c]: Textual amendment: Words in [Sch. 14 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2025/85/schedule/14/paragraph/5/2/b) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)
 
-[^key-13cec19280e714a86d64902e535db92d]: Textual amendment: Words in [Sch. 14 para. 5(2)(c)(i)](https://www.legislation.gov.uk/uksi/2025/85/schedule/14/paragraph/5/2/c/i) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)
+[^c-13cec19280e714a86d64902e535db92d]: Textual amendment: Words in [Sch. 14 para. 5(2)(c)(i)](https://www.legislation.gov.uk/uksi/2025/85/schedule/14/paragraph/5/2/c/i) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)
 
-[^key-786ca0b4523177be36b8fbbb73df602f]: Textual amendment: Words in [Sch. 14 para. 5(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/85/schedule/14/paragraph/5/2/c/ii) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)
+[^c-786ca0b4523177be36b8fbbb73df602f]: Textual amendment: Words in [Sch. 14 para. 5(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/85/schedule/14/paragraph/5/2/c/ii) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)

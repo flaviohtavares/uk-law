@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.50.1. Interpretation[^key-956bba774ffbcb573619676ea72f5722][^key-602f27fb984c6fb935f1ec3ddf9e667c]
+## 3.50.1. Interpretation[^c-956bba774ffbcb573619676ea72f5722][^c-602f27fb984c6fb935f1ec3ddf9e667c]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ In this Part—
 
 ## Annotations
 
-[^key-956bba774ffbcb573619676ea72f5722]: Textual amendment: [Rule 3.50.1](https://www.legislation.gov.uk/uksi/1999/929/rule/3.50.1) substituted (2.10.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023 (S.S.I. 2023/223)](https://www.legislation.gov.uk/ssi/2023/223), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/1/2), [2(3)(b)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/2/3/b)
+[^c-956bba774ffbcb573619676ea72f5722]: Textual amendment: [Rule 3.50.1](https://www.legislation.gov.uk/uksi/1999/929/rule/3.50.1) substituted (2.10.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023 (S.S.I. 2023/223)](https://www.legislation.gov.uk/ssi/2023/223), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/1/2), [2(3)(b)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/2/3/b)
 
-[^key-602f27fb984c6fb935f1ec3ddf9e667c]: Textual amendment: [Ch. 3 Pt. 50](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/50) inserted (19.1.2018) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Transfer from Lands Tribunal for Scotland) 2017 (S.S.I. 2017/459)](https://www.legislation.gov.uk/ssi/2017/459), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/459/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2017/459/paragraph/2/2)
+[^c-602f27fb984c6fb935f1ec3ddf9e667c]: Textual amendment: [Ch. 3 Pt. 50](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/50) inserted (19.1.2018) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Transfer from Lands Tribunal for Scotland) 2017 (S.S.I. 2017/459)](https://www.legislation.gov.uk/ssi/2017/459), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/459/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2017/459/paragraph/2/2)

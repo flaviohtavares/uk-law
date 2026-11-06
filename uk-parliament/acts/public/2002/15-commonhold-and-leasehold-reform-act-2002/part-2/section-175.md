@@ -37,9 +37,9 @@ summary: ''
 
 (7) [^c21535841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-9324c6405fbb2bcf6f8003cb897644b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-9324c6405fbb2bcf6f8003cb897644b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-9324c6405fbb2bcf6f8003cb897644b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-9324c6405fbb2bcf6f8003cb897644b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) [^c21534601]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^c21535841]: Textual amendment: S. 175(6)(7) omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2010/22/article/5/1), [Sch. 2 para. 73](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/73) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
 
-[^key-9324c6405fbb2bcf6f8003cb897644b3]: Textual amendment: S. 175(8)(9) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 143](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/143) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-9324c6405fbb2bcf6f8003cb897644b3]: Textual amendment: S. 175(8)(9) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 143](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/143) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

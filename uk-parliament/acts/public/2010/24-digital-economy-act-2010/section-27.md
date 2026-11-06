@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Report by OFCOM on public teletext service[^key-0851aa9ddae77f8a644213fe1a443ae2]
+## 27. Report by OFCOM on public teletext service[^c-0851aa9ddae77f8a644213fe1a443ae2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0851aa9ddae77f8a644213fe1a443ae2]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/2010/24/section/27) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 66](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/66); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-0851aa9ddae77f8a644213fe1a443ae2]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/2010/24/section/27) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 66](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/66); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Annual reports[^key-1d35b4ddf6d48ca56117f255d2f28a50]
+## 32. Annual reports[^c-1d35b4ddf6d48ca56117f255d2f28a50]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d35b4ddf6d48ca56117f255d2f28a50]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2015/6/section/32) in force at 1.4.2017 by [S.S.I. 2017/40](https://www.legislation.gov.uk/ssi/2017/40), [art. 2](https://www.legislation.gov.uk/ssi/2017/40/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/40/schedule)
+[^c-1d35b4ddf6d48ca56117f255d2f28a50]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2015/6/section/32) in force at 1.4.2017 by [S.S.I. 2017/40](https://www.legislation.gov.uk/ssi/2017/40), [art. 2](https://www.legislation.gov.uk/ssi/2017/40/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/40/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Medical examinations[^key-998963d06d9ff4b64f2e435b63f6e989]
+## 9. Medical examinations[^c-998963d06d9ff4b64f2e435b63f6e989]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ that health professional may conduct a private medical examination of the person
 
 ## Annotations
 
-[^key-998963d06d9ff4b64f2e435b63f6e989]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2007/10/section/9) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-998963d06d9ff4b64f2e435b63f6e989]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2007/10/section/9) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

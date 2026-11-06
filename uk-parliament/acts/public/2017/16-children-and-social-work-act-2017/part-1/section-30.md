@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Abolition of Local Safeguarding Children Boards[^key-38b4eafe79d10abe88ead38175036fb5][^key-36f53a4dba91cff9dbed5ef7f834ce9a]
+## 30. Abolition of Local Safeguarding Children Boards[^c-38b4eafe79d10abe88ead38175036fb5][^c-36f53a4dba91cff9dbed5ef7f834ce9a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Omit sections 13 to 16 of the Children Act 2004 (Local Safeguarding Children Boa
 
 ## Annotations
 
-[^key-38b4eafe79d10abe88ead38175036fb5]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/16/section/30) in force at 29.6.2018 for specified purposes by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/497/regulation/8/2) (with [regs. 8(3)](https://www.legislation.gov.uk/uksi/2018/497/regulation/8/3), [9](https://www.legislation.gov.uk/uksi/2018/497/regulation/9), [10](https://www.legislation.gov.uk/uksi/2018/497/regulation/10))
+[^c-38b4eafe79d10abe88ead38175036fb5]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/16/section/30) in force at 29.6.2018 for specified purposes by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/497/regulation/8/2) (with [regs. 8(3)](https://www.legislation.gov.uk/uksi/2018/497/regulation/8/3), [9](https://www.legislation.gov.uk/uksi/2018/497/regulation/9), [10](https://www.legislation.gov.uk/uksi/2018/497/regulation/10))
 
-[^key-36f53a4dba91cff9dbed5ef7f834ce9a]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/16/section/30) in force at 29.9.2020 in so far as not already in force by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 8(4)](https://www.legislation.gov.uk/uksi/2018/497/regulation/8/4)
+[^c-36f53a4dba91cff9dbed5ef7f834ce9a]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/16/section/30) in force at 29.9.2020 in so far as not already in force by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 8(4)](https://www.legislation.gov.uk/uksi/2018/497/regulation/8/4)

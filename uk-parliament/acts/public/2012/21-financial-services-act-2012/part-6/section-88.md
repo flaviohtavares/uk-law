@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Exemption from liability in damages[^key-35916f635c5ec165ec238351053b5775]
+## 88. Exemption from liability in damages[^c-35916f635c5ec165ec238351053b5775]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35916f635c5ec165ec238351053b5775]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2012/21/section/88) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-35916f635c5ec165ec238351053b5775]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2012/21/section/88) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

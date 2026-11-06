@@ -24,10 +24,10 @@ summary: ''
 
 (2) But the legal owner may not treat a declaration as valid if condition A or B is met.
 
-(3) Condition A is that the legal owner receives a notification in compliance with an undertaking under regulation 31 that a person in question has become resident [^key-363e111429ff86109ce1881fc69ad6a8]... in the United Kingdom.
+(3) Condition A is that the legal owner receives a notification in compliance with an undertaking under regulation 31 that a person in question has become resident [^c-363e111429ff86109ce1881fc69ad6a8]... in the United Kingdom.
 
-(4) Condition B is that the legal owner comes into possession of information by some other means which indicates that such a person is or may be resident [^key-363e111429ff86109ce1881fc69ad6a8]... in the United Kingdom**.**
+(4) Condition B is that the legal owner comes into possession of information by some other means which indicates that such a person is or may be resident [^c-363e111429ff86109ce1881fc69ad6a8]... in the United Kingdom**.**
 
 ## Annotations
 
-[^key-363e111429ff86109ce1881fc69ad6a8]: Textual amendment: Words in reg. 33(3)(4) omitted (with effect in accordance with reg. 1(2)(d) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2994)](https://www.legislation.gov.uk/uksi/2013/2994), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2994/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2013/2994/regulation/11)
+[^c-363e111429ff86109ce1881fc69ad6a8]: Textual amendment: Words in reg. 33(3)(4) omitted (with effect in accordance with reg. 1(2)(d) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2994)](https://www.legislation.gov.uk/uksi/2013/2994), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2994/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2013/2994/regulation/11)

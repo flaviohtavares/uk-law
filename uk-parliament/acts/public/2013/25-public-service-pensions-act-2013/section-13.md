@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Employer contributions in funded schemes[^key-baa7c1616638e69a55508a51ebd78acc]
+## 13. Employer contributions in funded schemes[^c-baa7c1616638e69a55508a51ebd78acc]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baa7c1616638e69a55508a51ebd78acc]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2013/25/section/13) in force at 2.4.2014 by [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 6](https://www.legislation.gov.uk/uksi/2014/839/article/6)
+[^c-baa7c1616638e69a55508a51ebd78acc]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2013/25/section/13) in force at 2.4.2014 by [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 6](https://www.legislation.gov.uk/uksi/2014/839/article/6)

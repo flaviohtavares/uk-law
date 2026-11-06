@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Persons to whom the notification requirements apply[^key-49d6f990086b25142cea49318b08b3dd]
+## 44. Persons to whom the notification requirements apply[^c-49d6f990086b25142cea49318b08b3dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The notification requirements apply to a person who—
 
 ## Annotations
 
-[^key-49d6f990086b25142cea49318b08b3dd]: Commencement: S. 44 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
+[^c-49d6f990086b25142cea49318b08b3dd]: Commencement: S. 44 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)

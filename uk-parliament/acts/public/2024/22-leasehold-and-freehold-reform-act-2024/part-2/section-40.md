@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Replacement of sections 20 and 21 of the LRA 1967[^key-3d93874b16f9b0fa7b4a3335b577edbe]
+## 40. Replacement of sections 20 and 21 of the LRA 1967[^c-3d93874b16f9b0fa7b4a3335b577edbe]
 
 *Extent: E+W*
 
@@ -155,4 +155,4 @@ For sections 20 and 21 of the LRA 1967 (jurisdiction of county court and tribuna
 
 ## Annotations
 
-[^key-3d93874b16f9b0fa7b4a3335b577edbe]: Commencement: S. 40 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-3d93874b16f9b0fa7b4a3335b577edbe]: Commencement: S. 40 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

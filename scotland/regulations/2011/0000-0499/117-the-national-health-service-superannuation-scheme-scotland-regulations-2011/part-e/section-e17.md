@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## E17. General option to exchange part of pension for lump sum[^key-09537fbcae6e30d930b827f6058244d8]
+## E17. General option to exchange part of pension for lump sum[^c-09537fbcae6e30d930b827f6058244d8]
 
 *Extent: S*
 
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-09537fbcae6e30d930b827f6058244d8]: Modification: Reg. E17 applied (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [25(5)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/5)
+[^c-09537fbcae6e30d930b827f6058244d8]: Modification: Reg. E17 applied (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [25(5)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/5)
 
 [^c21042011]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 

@@ -50,15 +50,15 @@ The Secretary of State, being a Minister designated[^f00001] for the purposes of
 
 ## PART 1 — Introductory Provisions
 
-### 1. Citation and commencement[^key-231c5b4a2f84a3a5f9b3dc555cee9cd5]
+### 1. Citation and commencement[^c-231c5b4a2f84a3a5f9b3dc555cee9cd5]
 
 These Regulations may be cited as the Copyright and Duration of Rights in Performances Regulations 2013 and come into force on 1st November 2013.
 
-### 2. Interpretation[^key-2dd3cb1b7cf58375c6bbdff58e8fa7e6]
+### 2. Interpretation[^c-2dd3cb1b7cf58375c6bbdff58e8fa7e6]
 
 In these Regulations “the Act” means the Copyright, Designs and Patents Act 1988[^f00004].
 
-### 3. Scheme of the Regulations[^key-50c2ed1731e832b29d1644ebc8b6cc8a]
+### 3. Scheme of the Regulations[^c-50c2ed1731e832b29d1644ebc8b6cc8a]
 
 The Act is amended in accordance with the provisions of Part 2 of these Regulations, subject to the savings and transitional provisions in Part 3 of these Regulations.
 
@@ -66,7 +66,7 @@ The Act is amended in accordance with the provisions of Part 2 of these Regulati
 
 ### Copyright
 
-#### 4. Works of Co-authorship[^key-e3bde6eef072e5f43add00d5c2493938]
+#### 4. Works of Co-authorship[^c-e3bde6eef072e5f43add00d5c2493938]
 
 After section 10 (Works of joint authorship) insert—
 
@@ -78,11 +78,11 @@ After section 10 (Works of joint authorship) insert—
 
 .
 
-#### 5. Duration of copyright in literary, dramatic, musical or artistic works[^key-b7902ae747cf5bb55e044b739fde249b]
+#### 5. Duration of copyright in literary, dramatic, musical or artistic works[^c-b7902ae747cf5bb55e044b739fde249b]
 
 In section 12(8) (Duration of copyright in literary, dramatic, musical or artistic works) after “joint authorship” insert “or a work of co-authorship”.
 
-#### 6. Duration of copyright in sound recordings[^key-36b1253630eaf8f6bcd600ba64895ad2]
+#### 6. Duration of copyright in sound recordings[^c-36b1253630eaf8f6bcd600ba64895ad2]
 
 In section 13A (Duration of copyright in sound recordings), in subsection (2)—
 
@@ -91,11 +91,11 @@ In section 13A (Duration of copyright in sound recordings), in subsection (2)—
 
 ### Rights in Performances
 
-#### 7. Right to equitable remuneration for exploitation of sound recording[^key-443b604f47280306b3f0fc962b904595]
+#### 7. Right to equitable remuneration for exploitation of sound recording[^c-443b604f47280306b3f0fc962b904595]
 
 In section 182D(1) (Right to equitable remuneration for exploitation of sound recording) at the end insert “or, where copyright in the sound recording has expired pursuant to section 191HA(4), from a person who plays the sound recording in public or communicates the sound recording to the public”.
 
-#### 8. Duration of rights in sound recordings[^key-a0355a9632d9218518d85fc6b062a5ea]
+#### 8. Duration of rights in sound recordings[^c-a0355a9632d9218518d85fc6b062a5ea]
 
 In section 191(2) (Duration of rights)—
 
@@ -108,7 +108,7 @@ In section 191(2) (Duration of rights)—
 
   .
 
-#### 9. Rights in relation to an assignment of performers’ property rights in a sound recording[^key-2d436887c38cf507bcc13ff113fdb4d4]
+#### 9. Rights in relation to an assignment of performers’ property rights in a sound recording[^c-2d436887c38cf507bcc13ff113fdb4d4]
 
 After section 191H insert—
 
@@ -186,7 +186,7 @@ After section 191H insert—
 
 .
 
-#### 10. Performers’ non-property rights[^key-01b7638c5c9b79fcd450879cdd27cba3]
+#### 10. Performers’ non-property rights[^c-01b7638c5c9b79fcd450879cdd27cba3]
 
 In section 192A(1) (Performer’s non-property rights) after the entry for section 183 delete “and” and after the entry for section 184 insert—
 
@@ -199,7 +199,7 @@ In section 192A(1) (Performer’s non-property rights) after the entry for secti
 
 ### Introductory
 
-#### 11. Introductory[^key-68537c01b79a981295653adf846342d1]
+#### 11. Introductory[^c-68537c01b79a981295653adf846342d1]
 
 (1) References in this Part to “commencement”, without more, are to the date on which these Regulations come into force.
 
@@ -212,7 +212,7 @@ In section 192A(1) (Performer’s non-property rights) after the entry for secti
 
 ### Copyright
 
-#### 12. Copyright: interpretation[^key-5eb6f33ab89a19f5acf74bbe704f2306]
+#### 12. Copyright: interpretation[^c-5eb6f33ab89a19f5acf74bbe704f2306]
 
 (1) In the provisions of this Part relating to copyright—
 
@@ -223,11 +223,11 @@ In section 192A(1) (Performer’s non-property rights) after the entry for secti
 
 (3) References in those provisions to “moral rights” are to the rights conferred by Chapter IV of Part I of the Act.
 
-#### 13. Duration of copyright: general saving[^key-c3d76dbb488d1a116d17f2a1bc3f225d]
+#### 13. Duration of copyright: general saving[^c-c3d76dbb488d1a116d17f2a1bc3f225d]
 
 Copyright in an existing copyright work shall continue to subsist until the date on which it would have expired under the 1988 provisions if that date is later than the date on which copyright would expire under the new provisions.
 
-#### 14. Duration of copyright: application of new provisions[^key-ab4c5255c658f64dec807afff8e215df]
+#### 14. Duration of copyright: application of new provisions[^c-ab4c5255c658f64dec807afff8e215df]
 
 The new provisions relating to duration of copyright in sound recordings and works comprised in works of co-authorship apply—
 
@@ -237,20 +237,20 @@ The new provisions relating to duration of copyright in sound recordings and wor
 - (d) to works of co-authorship of which either or both the musical work and the literary work were existing copyright works; and
 - (e) to works of co-authorship of which the musical work or the literary work were on commencement protected as copyright works in another EEA state under legislation relating to copyright or related rights.
 
-#### 15. Extended and revived copyright[^key-a799ea6833983ffaa6e3dd5cf6229e44]
+#### 15. Extended and revived copyright[^c-a799ea6833983ffaa6e3dd5cf6229e44]
 
 In the following provisions of this Part—
 
 - (a) “extended copyright” means any copyright which subsists by virtue of the new provisions after the date on which it would have expired under the 1988 provisions; and
 - (b) “revived copyright” means any copyright in a musical or literary work comprised in a work of co-authorship which subsists by virtue of the new provisions after having expired under the 1988 provisions or any earlier enactment relating to copyright.
 
-#### 16. Ownership of extended copyright[^key-cb4575234e33a1b147cc48bbc1b38ab0]
+#### 16. Ownership of extended copyright[^c-cb4575234e33a1b147cc48bbc1b38ab0]
 
 (1) The person who is the owner of the copyright in a sound recording or in a work comprised in a work of co-authorship immediately before commencement is as from commencement the owner of any extended copyright in the sound recording or work, subject as follows.
 
 (2) If he or she is entitled to copyright for a period less than the whole of the copyright period under the 1988 provisions, any extended copyright is part of the reversionary interest expectant on the termination of that period.
 
-#### 17. Ownership of revived copyright in works of co-authorship[^key-da6738f822311bc69708653abc5a2ce7]
+#### 17. Ownership of revived copyright in works of co-authorship[^c-da6738f822311bc69708653abc5a2ce7]
 
 (1) The person who was the owner of the copyright in a musical or literary work comprised in the work of co-authorship immediately before it expired (the “former copyright owner”) is as from commencement the owner of any revived copyright in the work, subject as follows.
 
@@ -258,7 +258,7 @@ In the following provisions of this Part—
 
 (3) Where revived copyright vests in personal representatives by virtue of paragraph (2), it shall be held by them for the benefit of the person who would have been entitled to it had it been vested in the author immediately before his or her death and had devolved as part of his or her estate.
 
-#### 18. Prospective ownership of extended or revived copyright[^key-3240dd973a8eaa97450a25cc249906f3]
+#### 18. Prospective ownership of extended or revived copyright[^c-3240dd973a8eaa97450a25cc249906f3]
 
 (1) Where by an agreement made before commencement in relation to extended or revived copyright, and signed by or on behalf of the prospective owner of the copyright, the prospective owner purports to assign the extended or revived copyright (wholly or partially) to another person, then if, on commencement the assignee or another person claiming under the assignee would be entitled as against all other persons to require the copyright to be vested in him or her, the copyright shall vest in the assignee or his or her successor in title by virtue of this paragraph.
 
@@ -266,7 +266,7 @@ In the following provisions of this Part—
 
 (3) In paragraph (2) “prospective owner” includes a person who is prospectively entitled to extended or revived copyright by virtue of such an agreement as is mentioned in paragraph (1).
 
-#### 19. Extended copyright: existing licences, agreements, &c.[^key-7bac321e1c381aeb40e7e47552c07a2f]
+#### 19. Extended copyright: existing licences, agreements, &c.[^c-7bac321e1c381aeb40e7e47552c07a2f]
 
 (1) Subject to sections 191HA(5) and 191HB(7) and (9), any copyright licence, any term or condition of an agreement relating to the exploitation of a copyright work, or any waiver or assertion of moral rights, which—
 
@@ -282,7 +282,7 @@ shall continue to have effect during the period of any extended copyright, subje
 
 shall continue to have effect during the period of any extended copyright, subject to any further order of the Tribunal.
 
-#### 20. Revived copyright: exercise of moral rights[^key-6ac3c9cfb746a795cb33b5870dd9d899]
+#### 20. Revived copyright: exercise of moral rights[^c-6ac3c9cfb746a795cb33b5870dd9d899]
 
 (1) The following provisions have effect with respect to the exercise of moral rights in relation to a work comprised in a work of co-authorship in which there is revived copyright.
 
@@ -303,7 +303,7 @@ shall continue to have effect during the period of any extended copyright, subje
 
 (6) Nothing in these Regulations shall be construed as causing a moral right to be exercisable if, or to the extent that, the right was excluded by virtue of paragraph 23 of Schedule 1 on the commencement of the Act or would have been so excluded if copyright had not previously expired.
 
-#### 21. Revived copyright: saving for acts of exploitation when work in public domain, &c.[^key-c2f5297153f12d5eacbe9ad1b177ecce]
+#### 21. Revived copyright: saving for acts of exploitation when work in public domain, &c.[^c-c2f5297153f12d5eacbe9ad1b177ecce]
 
 (1) No act done before commencement shall be regarded as infringing revived copyright in a work.
 
@@ -325,7 +325,7 @@ shall continue to have effect during the period of any extended copyright, subje
 
 ### Rights in performances
 
-#### 22. Rights in performances: interpretation[^key-c27c6e61efa370aae0f44ee9776eed44]
+#### 22. Rights in performances: interpretation[^c-c27c6e61efa370aae0f44ee9776eed44]
 
 (1) In the provisions of this Part relating to rights in performances—
 
@@ -333,7 +333,7 @@ shall continue to have effect during the period of any extended copyright, subje
 - “a new right” means a right arising by virtue of regulation 9 in relation to an assignment of a performer’s property rights in a sound recording.
 - References in this Part to performers’ rights are to the rights given by section 180(1)(a) of the Act.
 
-#### 23. Rights in performances: application of new provisions[^key-a8c626e545fce548f78bbba39d87eab1]
+#### 23. Rights in performances: application of new provisions[^c-a8c626e545fce548f78bbba39d87eab1]
 
 The new provisions relating to the duration of performers’ rights in sound recordings and rights in relation to an assignment of performers’ rights in a sound recording apply—
 
@@ -341,17 +341,17 @@ The new provisions relating to the duration of performers’ rights in sound rec
 - (b) to existing performances which first qualify for protection under Part II of the 1988 Act after commencement; and
 - (c) to existing protected performances.
 
-#### 24. Extended performance rights[^key-5e5d60435a7efa9ddb2fdabbee8bb1c3]
+#### 24. Extended performance rights[^c-5e5d60435a7efa9ddb2fdabbee8bb1c3]
 
 In the following provisions of this Part “extended performance rights” means rights under Part II of the Act which subsist by virtue of the new provisions after the date on which they would have expired under the 1988 provisions.
 
-#### 25. Entitlement to extended performance rights and new rights[^key-4db39bdb578835c4e723e53343164851]
+#### 25. Entitlement to extended performance rights and new rights[^c-4db39bdb578835c4e723e53343164851]
 
 (1) Any extended performance rights and any new rights are exercisable as from commencement by the performer or (if he or she has died) the person entitled to exercise those rights by virtue of section 191B(1) or 192A of the Act.
 
 (2) Any remuneration or damages received by a person’s personal representatives by virtue of a right conferred on them by paragraph (1) shall devolve as part of that person’s estate as if the right had subsisted and been vested in him or her immediately before his or her death.
 
-#### 26. Extended performance rights: existing consents, agreements, &c.[^key-cb63feadf7b93702924ccd721d8b1134]
+#### 26. Extended performance rights: existing consents, agreements, &c.[^c-cb63feadf7b93702924ccd721d8b1134]
 
 Subject to the provisions of sections 191HA(5) and 191HB(7) and (9), any consent, or any term or condition of an agreement, relating to the exploitation of an existing protected performance which—
 
@@ -360,7 +360,7 @@ Subject to the provisions of sections 191HA(5) and 191HB(7) and (9), any consent
 
 shall continue to subsist during the period of any extended performance rights, subject to any agreement to the contrary.
 
-#### 27. Review[^key-34bf299b99252fff3e1a3fef67ced2fd]
+#### 27. Review[^c-34bf299b99252fff3e1a3fef67ced2fd]
 
 (1) Before the end of each review period, the Secretary of State must—
 
@@ -448,61 +448,61 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00003]: Footnote: [2013 c.24](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-231c5b4a2f84a3a5f9b3dc555cee9cd5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-231c5b4a2f84a3a5f9b3dc555cee9cd5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-2dd3cb1b7cf58375c6bbdff58e8fa7e6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1782/regulation/2) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-2dd3cb1b7cf58375c6bbdff58e8fa7e6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1782/regulation/2) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
 [^f00004]: Footnote: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-50c2ed1731e832b29d1644ebc8b6cc8a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1782/regulation/3) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-50c2ed1731e832b29d1644ebc8b6cc8a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1782/regulation/3) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-e3bde6eef072e5f43add00d5c2493938]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1782/regulation/4) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-e3bde6eef072e5f43add00d5c2493938]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1782/regulation/4) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-b7902ae747cf5bb55e044b739fde249b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/1782/regulation/5) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-b7902ae747cf5bb55e044b739fde249b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/1782/regulation/5) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-36b1253630eaf8f6bcd600ba64895ad2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/1782/regulation/6) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-36b1253630eaf8f6bcd600ba64895ad2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/1782/regulation/6) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-443b604f47280306b3f0fc962b904595]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/1782/regulation/7) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-443b604f47280306b3f0fc962b904595]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/1782/regulation/7) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-a0355a9632d9218518d85fc6b062a5ea]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/1782/regulation/8) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-a0355a9632d9218518d85fc6b062a5ea]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/1782/regulation/8) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-2d436887c38cf507bcc13ff113fdb4d4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/1782/regulation/9) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-2d436887c38cf507bcc13ff113fdb4d4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/1782/regulation/9) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-01b7638c5c9b79fcd450879cdd27cba3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/1782/regulation/10) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-01b7638c5c9b79fcd450879cdd27cba3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/1782/regulation/10) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-68537c01b79a981295653adf846342d1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/1782/regulation/11) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-68537c01b79a981295653adf846342d1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/1782/regulation/11) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-5eb6f33ab89a19f5acf74bbe704f2306]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/1782/regulation/12) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-5eb6f33ab89a19f5acf74bbe704f2306]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/1782/regulation/12) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-c3d76dbb488d1a116d17f2a1bc3f225d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/1782/regulation/13) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-c3d76dbb488d1a116d17f2a1bc3f225d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/1782/regulation/13) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-ab4c5255c658f64dec807afff8e215df]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/1782/regulation/14) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-ab4c5255c658f64dec807afff8e215df]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/1782/regulation/14) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-a799ea6833983ffaa6e3dd5cf6229e44]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/1782/regulation/15) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-a799ea6833983ffaa6e3dd5cf6229e44]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/1782/regulation/15) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-cb4575234e33a1b147cc48bbc1b38ab0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/1782/regulation/16) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-cb4575234e33a1b147cc48bbc1b38ab0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/1782/regulation/16) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-da6738f822311bc69708653abc5a2ce7]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/1782/regulation/17) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-da6738f822311bc69708653abc5a2ce7]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/1782/regulation/17) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-3240dd973a8eaa97450a25cc249906f3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/1782/regulation/18) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-3240dd973a8eaa97450a25cc249906f3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/1782/regulation/18) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-7bac321e1c381aeb40e7e47552c07a2f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/1782/regulation/19) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-7bac321e1c381aeb40e7e47552c07a2f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/1782/regulation/19) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-6ac3c9cfb746a795cb33b5870dd9d899]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/1782/regulation/20) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-6ac3c9cfb746a795cb33b5870dd9d899]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/1782/regulation/20) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-c2f5297153f12d5eacbe9ad1b177ecce]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2013/1782/regulation/21) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-c2f5297153f12d5eacbe9ad1b177ecce]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2013/1782/regulation/21) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-c27c6e61efa370aae0f44ee9776eed44]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/1782/regulation/22) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-c27c6e61efa370aae0f44ee9776eed44]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/1782/regulation/22) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-a8c626e545fce548f78bbba39d87eab1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2013/1782/regulation/23) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-a8c626e545fce548f78bbba39d87eab1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2013/1782/regulation/23) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-5e5d60435a7efa9ddb2fdabbee8bb1c3]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2013/1782/regulation/24) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-5e5d60435a7efa9ddb2fdabbee8bb1c3]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2013/1782/regulation/24) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-4db39bdb578835c4e723e53343164851]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2013/1782/regulation/25) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-4db39bdb578835c4e723e53343164851]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2013/1782/regulation/25) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-cb63feadf7b93702924ccd721d8b1134]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2013/1782/regulation/26) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-cb63feadf7b93702924ccd721d8b1134]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2013/1782/regulation/26) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
-[^key-34bf299b99252fff3e1a3fef67ced2fd]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2013/1782/regulation/27) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
+[^c-34bf299b99252fff3e1a3fef67ced2fd]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2013/1782/regulation/27) in force at 1.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1)
 
 [^f00005]: Footnote: OJ No L 372, 27.12.2006, p12.
 

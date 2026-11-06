@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Temporary exclusion orders: appeals against convictions[^key-1699c0a94e59dec6352a7aa0d6b8203e]
+## SCHEDULE 4 — Temporary exclusion orders: appeals against convictions[^c-1699c0a94e59dec6352a7aa0d6b8203e]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,9 +39,9 @@ Section 12
 **2.** An appeal under this Schedule is to be made—
 
 - (a) in the case of a conviction on indictment in England and Wales or Northern Ireland, to the Court of Appeal;
-- (b) in the case of a conviction on indictment [^key-f1d3d843d304444c8457070b1c6597f5]... in Scotland, to the High Court of Justiciary;
-- (c) in the case of a summary conviction in England and Wales, to the Crown Court; [^key-e87050cb04dbec6a0ea575ca4dca96ea]...
-- (ca)[^key-af559eab21df90f3e6c3a086bff238a9] in the case of a summary conviction in Scotland, to the Sheriff Appeal Court; or
+- (b) in the case of a conviction on indictment [^c-f1d3d843d304444c8457070b1c6597f5]... in Scotland, to the High Court of Justiciary;
+- (c) in the case of a summary conviction in England and Wales, to the Crown Court; [^c-e87050cb04dbec6a0ea575ca4dca96ea]...
+- (ca)[^c-af559eab21df90f3e6c3a086bff238a9] in the case of a summary conviction in Scotland, to the Sheriff Appeal Court; or
 - (d) in the case of a summary conviction in Northern Ireland, to the county court.
 
 ### When the right of appeal arises
@@ -69,7 +69,7 @@ Section 12
 - (b) may not be brought after the end of the period of 28 days beginning with the day on which the right of appeal arises by virtue of paragraph 3; and
 - (c) is to be treated as an appeal under section 106 of the Criminal Procedure (Scotland) Act 1995 for which leave has been granted.
 
-(4) An appeal under this Schedule to the Sheriff Appeal Court[^key-3ec919a5e9ad8775bcf7736b3b9454a6] against a summary conviction—
+(4) An appeal under this Schedule to the Sheriff Appeal Court[^c-3ec919a5e9ad8775bcf7736b3b9454a6] against a summary conviction—
 
 - (a) may be brought irrespective of whether the appellant pleaded guilty;
 - (b) may be brought irrespective of whether the appellant has previously appealed against the conviction;
@@ -87,12 +87,12 @@ Section 12
 
 ## Annotations
 
-[^key-1699c0a94e59dec6352a7aa0d6b8203e]: Modification: [Sch. 4](https://www.legislation.gov.uk/ukpga/2015/6/schedule/4) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Counter-Terrorism and Security (Jersey) Order 2017 (S.I. 2017/982)](https://www.legislation.gov.uk/uksi/2017/982), [art. 2(f)](https://www.legislation.gov.uk/uksi/2017/982/article/2/f), [Sch. 6](https://www.legislation.gov.uk/uksi/2017/982/schedule/6)
+[^c-1699c0a94e59dec6352a7aa0d6b8203e]: Modification: [Sch. 4](https://www.legislation.gov.uk/ukpga/2015/6/schedule/4) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Counter-Terrorism and Security (Jersey) Order 2017 (S.I. 2017/982)](https://www.legislation.gov.uk/uksi/2017/982), [art. 2(f)](https://www.legislation.gov.uk/uksi/2017/982/article/2/f), [Sch. 6](https://www.legislation.gov.uk/uksi/2017/982/schedule/6)
 
-[^key-f1d3d843d304444c8457070b1c6597f5]: Textual amendment: Words in Sch. 4 para. 2(b) repealed (S.) (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 15(2)(a)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/15/2/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-f1d3d843d304444c8457070b1c6597f5]: Textual amendment: Words in Sch. 4 para. 2(b) repealed (S.) (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 15(2)(a)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/15/2/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-e87050cb04dbec6a0ea575ca4dca96ea]: Textual amendment: Word in Sch. 4 para. 2(c) repealed (S.) (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 15(2)(b)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/15/2/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-e87050cb04dbec6a0ea575ca4dca96ea]: Textual amendment: Word in Sch. 4 para. 2(c) repealed (S.) (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 15(2)(b)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/15/2/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-af559eab21df90f3e6c3a086bff238a9]: Textual amendment: Sch. 4 para. 2(ca) inserted (S.) (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 15(2)(c)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/15/2/c) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-af559eab21df90f3e6c3a086bff238a9]: Textual amendment: Sch. 4 para. 2(ca) inserted (S.) (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 15(2)(c)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/15/2/c) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-3ec919a5e9ad8775bcf7736b3b9454a6]: Textual amendment: Words in [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/4/paragraph/4/4) substituted (S.) (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 15(3)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/15/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-3ec919a5e9ad8775bcf7736b3b9454a6]: Textual amendment: Words in [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/4/paragraph/4/4) substituted (S.) (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 15(3)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/15/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))

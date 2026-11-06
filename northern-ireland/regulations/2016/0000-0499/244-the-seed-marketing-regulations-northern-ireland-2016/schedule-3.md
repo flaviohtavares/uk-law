@@ -59,7 +59,7 @@ If seed has been subjected to any chemical treatment, this fact and the nature o
 
 (4) It must be adhesive, or secured by a sealing device approved by the Department.
 
-(5)[^key-d8e1789857e7eca2589610df1d04d46c] It must—
+(5)[^c-d8e1789857e7eca2589610df1d04d46c] It must—
 
 - (a) in the case of cereal seed, vegetable seed, beet seed or oil and fibre plant seed, be in one of the official languages of the European Union; or
 - (b) in the case of fodder seed, English.
@@ -76,8 +76,8 @@ If seed has been subjected to any chemical treatment, this fact and the nature o
 
 (1) The following must appear on an official label on pre-basic seed—
 
-- (a) the name and country or country initials[^key-a82a0e68cc4df076986021cfc3d876ad] of the certification authority;
-- (b)[^key-f29234a6df7aee8584b53e8409cfe024] in the case of—
+- (a) the name and country or country initials[^c-a82a0e68cc4df076986021cfc3d876ad] of the certification authority;
+- (b)[^c-f29234a6df7aee8584b53e8409cfe024] in the case of—
   - (i) cereal seed, vegetable seed, beet seed or oil and fibre plant seed, the name or initials of the European Single Market State;
   - (ii) seed certified in Northern Ireland “UK(NI)”;
 - (c) the reference number of the seed lot;
@@ -96,11 +96,11 @@ If seed has been subjected to any chemical treatment, this fact and the nature o
 
 (1) The following must appear on an official label on certified seed—
 
-- (a)[^key-132e62d767cc61762a1293a711f50fcb] in the case of—
+- (a)[^c-132e62d767cc61762a1293a711f50fcb] in the case of—
   - (i) cereal seed, vegetable seed, beet seed and oil and fibre plant seed, the words “EU rules and standards”;
   - (ii) fodder seed, the words “UK rules and standards”;
-- (b) the name and country or country initials[^key-b00592115718523db656ef81cecdc01f] of the certification authority;
-- (c)[^key-6f9c3d603b49dd32e6fb1a775008ea60] in the case of—
+- (b) the name and country or country initials[^c-b00592115718523db656ef81cecdc01f] of the certification authority;
+- (c)[^c-6f9c3d603b49dd32e6fb1a775008ea60] in the case of—
   - (i) cereal seed, vegetable seed, beet seed or oil and fibre plant seed, the name or initials of the European Single Market State;
   - (ii) seed certified in Northern Ireland “UK(NI)”;
 - (d) the reference number of the seed lot;
@@ -125,11 +125,11 @@ If seed has been subjected to any chemical treatment, this fact and the nature o
 
 (1) The following must appear on an official label on commercial seed not certified as to variety—
 
-- (a)[^key-10bda84d8ea77054b523f6d94b06c06d] in the case of—
+- (a)[^c-10bda84d8ea77054b523f6d94b06c06d] in the case of—
   - (i) cereal seed, vegetable seed, beet seed and oil and fibre plant seed, the words “EU rules and standards”;
   - (ii) fodder seed, the words “UK rules and standards”;
-- (b) the name and country or country initials[^key-4265bf7f8e457c7230acd42522d3e83c] of the certification authority;
-- (c)[^key-b8212d862d7fdd7e4a083f1e9adb9bc5] in the case of—
+- (b) the name and country or country initials[^c-4265bf7f8e457c7230acd42522d3e83c] of the certification authority;
+- (c)[^c-b8212d862d7fdd7e4a083f1e9adb9bc5] in the case of—
   - (i) cereal seed, vegetable seed, beet seed or oil and fibre plant seed, the name or initials of the European Single Market State;
   - (ii) seed certified in Northern Ireland “UK(NI)”;
 - (d) the reference number of the seed lot;
@@ -149,8 +149,8 @@ If seed has been subjected to any chemical treatment, this fact and the nature o
 
 (1) The following must appear on an official label on a mixture of seed—
 
-- (a) the name and country or country initials of[^key-98efb0b4144dd09d8e46d637237105f4] the authority responsible for sealing the package;
-- (b)[^key-3c15922b14f810572a5f316cdde84f43] in the case of—
+- (a) the name and country or country initials of[^c-98efb0b4144dd09d8e46d637237105f4] the authority responsible for sealing the package;
+- (b)[^c-3c15922b14f810572a5f316cdde84f43] in the case of—
   - (i) cereal seed, vegetable seed, beet seed or oil and fibre plant seed, the name or initials of the European Single Market State;
   - (ii) fodder seed “UK(NI)”;
 - (c) the reference number of the seed lot;
@@ -184,7 +184,7 @@ An official label for beet seed must specify—
 
 (2) An official label for basic cereal seed of varieties that are hybrids or inbred lines must include—
 
-- (a) for basic seed where the hybrid or inbred line to which the seed belongs has been accepted on to the NI Variety List[^key-2630078255be061ffcd468601c61b34e] or , has been accepted on to the Common Catalogue and the seed is marketed before the end of the period of two years beginning with the day after the day on which exit day falls[^key-c649214f97e2531797ec2d7c4712e211], the name under which it has been officially accepted, with or without reference to the final variety, and if the seed is intended solely as a component for final varieties the word “component”;
+- (a) for basic seed where the hybrid or inbred line to which the seed belongs has been accepted on to the NI Variety List[^c-2630078255be061ffcd468601c61b34e] or , has been accepted on to the Common Catalogue and the seed is marketed before the end of the period of two years beginning with the day after the day on which exit day falls[^c-c649214f97e2531797ec2d7c4712e211], the name under which it has been officially accepted, with or without reference to the final variety, and if the seed is intended solely as a component for final varieties the word “component”;
 - (b) for basic seed in other cases the name of the component to which the basic seed belongs, which may be given in code form, accompanied by a reference to the final variety, with or without reference to its function (male or female) by the word “component”.
 
 (3) An official label for certified cereal seed (CS, C1 or C2) of varieties that are hybrids or inbred lines must include the word “hybrid” after the variety.
@@ -203,7 +203,7 @@ An official label for fodder seed must include—
 
 (1) An official label for basic oil and fibre seed of varieties that are hybrids or inbred lines must include—
 
-- (a) for basic seed where the hybrid or inbred line to which the seed belongs has been officially accepted on to the NI Variety List[^key-282aca2460ca9f22f49ece382fdcc039] or , has been accepted on to the Common Catalogue and the seed is marketed before the end of the period of two years beginning with the day after the day on which exit day falls[^key-ffeb2faf72ea4b3236c9b95d01f17ed2], the name under which it has been officially accepted, with or without reference to the final variety, and if the seed is intended solely as a component for final varieties the word “component”;
+- (a) for basic seed where the hybrid or inbred line to which the seed belongs has been officially accepted on to the NI Variety List[^c-282aca2460ca9f22f49ece382fdcc039] or , has been accepted on to the Common Catalogue and the seed is marketed before the end of the period of two years beginning with the day after the day on which exit day falls[^c-ffeb2faf72ea4b3236c9b95d01f17ed2], the name under which it has been officially accepted, with or without reference to the final variety, and if the seed is intended solely as a component for final varieties the word “component”;
 - (b) for basic seed in other cases the name of the component to which the basic seed belongs, which may be given in code form, accompanied by a reference to the final variety, with or without reference to its function (male or female) by the word “component”.
 
 (2) An official label for certified oil and fibre seed (CS, C1 or C2) of varieties that are hybrids or inbred lines must include the word “hybrid” after the variety.
@@ -241,7 +241,7 @@ In this Part references to the weight excludes any granulated pesticides, pellet
 
 (1) A supplier's label may be used on a small package of beet seed.
 
-(2) A small package of beet seed (known as a “small [^key-0d86e3f3758160d5bb23fa757cd5f8d7]... package”) is a package that—
+(2) A small package of beet seed (known as a “small [^c-0d86e3f3758160d5bb23fa757cd5f8d7]... package”) is a package that—
 
 - (a) in the case of basic and certified beet seed of precision or monogerm varieties, either weighs not more than 2.5 kilograms or consists of not more than 100,000 clusters;
 - (b) for all other beet seed, weighs not more than 10 kilograms.
@@ -250,10 +250,10 @@ In this Part references to the weight excludes any granulated pesticides, pellet
 
 (4) The following must appear on the label—
 
-- (a) the words “small [^key-c4f0ae7ccef659f32ebf25efe1c3fa79]... package”;
+- (a) the words “small [^c-c4f0ae7ccef659f32ebf25efe1c3fa79]... package”;
 - (b) the name and address or identification number of the person affixing the label;
 - (c) the officially assigned serial number;
-- (d) the service that assigned the serial number and name or initials of the country of production[^key-7061dec33b4b2bcf4c2f81129c5a8af5];
+- (d) the service that assigned the serial number and name or initials of the country of production[^c-7061dec33b4b2bcf4c2f81129c5a8af5];
 - (e) the reference number if the official serial number does not enable the lot to be identified;
 - (f) the species;
 - (g) either sugar beet or fodder beet as appropriate;
@@ -273,7 +273,7 @@ In this Part references to the weight excludes any granulated pesticides, pellet
 
 (4) The following must appear on the label—
 
-- (a) the words “UK[^key-3c77e0896aa6402ccf57a112ade23d0e] rules and standards”;
+- (a) the words “UK[^c-3c77e0896aa6402ccf57a112ade23d0e] rules and standards”;
 - (b) the name and address or identification number of the supplier responsible for affixing the label;
 - (c) the reference number of the seed lot;
 - (d) the species;
@@ -287,7 +287,7 @@ In this Part references to the weight excludes any granulated pesticides, pellet
 
 (1) A supplier's label may be used on a small package of fodder seed, either agricultural or amenity (including a mixture of fodder seed).
 
-(2) A small package of fodder seed is either a small UK[^key-bc3e489929b6015e5c46004d5a3c865e] “A” package or a small UK “B” package.
+(2) A small package of fodder seed is either a small UK[^c-bc3e489929b6015e5c46004d5a3c865e] “A” package or a small UK “B” package.
 
 (3) A small UK “A” package is a package containing a mixture of seed not intended for the production of fodder plants, with a net weight not exceeding 2 kilograms.
 
@@ -306,10 +306,10 @@ with a net weight not exceeding 10 kilograms.
 
 (2) The following must appear on the label—
 
-- (a) the words “small UK[^key-4d205c177a57085621eea7b76a73d5d5] “B” package”;
+- (a) the words “small UK[^c-4d205c177a57085621eea7b76a73d5d5] “B” package”;
 - (b) the name and address or identification number of the person affixing the label;
 - (c) the officially assigned serial number;
-- (d) the service which assigned the serial number and name of the country[^key-51fbdb46def432adcd9c66391ec7c993] or their initials;
+- (d) the service which assigned the serial number and name of the country[^c-51fbdb46def432adcd9c66391ec7c993] or their initials;
 - (e) the reference number if the serial number does not enable the seed lot to be identified;
 - (f) the species;
 - (g) the net or gross weight of pure seed or the number of pure seeds;
@@ -326,14 +326,14 @@ with a net weight not exceeding 10 kilograms.
 
 (2) The following must appear on the label—
 
-- (a) the words small “UK[^key-ba230977c0080126396a52f3b0ec63f1] “A” package or “small UK “B” package” as appropriate;
+- (a) the words small “UK[^c-ba230977c0080126396a52f3b0ec63f1] “A” package or “small UK “B” package” as appropriate;
 - (b) the name and address or identification number of the person affixing the label;
 - (c) for a small UK “A” package—
   - (i) the reference number enabling the seed lots used in the mixture to be identified; and
-  - (ii) the name or initials of the country[^key-d132101ff5fa9fd8e21455a0793690b9];
+  - (ii) the name or initials of the country[^c-d132101ff5fa9fd8e21455a0793690b9];
 - (d) for a small UK “B” package—
   - (i) the officially assigned serial number;
-  - (ii) the service that assigned the serial number and name of country[^key-6b38208135ef9fb47fe8a539e1ff1818] or their initials;
+  - (ii) the service that assigned the serial number and name of country[^c-6b38208135ef9fb47fe8a539e1ff1818] or their initials;
   - (iii) the reference number if the official serial number does not enable the used seed lots to be identified;
 - (e) the words “seed mixture for ...\[intended use\]”;
 - (f) the net or gross weight or number of pure seeds;
@@ -355,7 +355,7 @@ with a net weight not exceeding 10 kilograms.
 
 (4) The following must appear on the label—
 
-- (a) the words “UK[^key-cf7e490548f9d1784983703790014a35] rules and standards”;
+- (a) the words “UK[^c-cf7e490548f9d1784983703790014a35] rules and standards”;
 - (b) the name and address or identification number of the supplier responsible for affixing the label;
 - (c) the reference number of the seed lot;
 - (d) the species (this must be the botanical name, either in full or in abridged form);
@@ -382,7 +382,7 @@ with a net weight not exceeding 10 kilograms.
 
 (4) The following must appear on the label on a package of standard seed (other than a mixture of different varieties of standard seed of the same species) and certified seed—
 
-- (a) the words “UK[^key-9924fa570b66a373d535e8e9c9c7d12c] rules and standards”;
+- (a) the words “UK[^c-9924fa570b66a373d535e8e9c9c7d12c] rules and standards”;
 - (b) the name and address or identification number of the person affixing the label;
 - (c) the marketing year of the sealing or of the last examination of germination (the end of the marketing year may be indicated);
 - (d) the species;
@@ -428,56 +428,56 @@ with a net weight not exceeding 10 kilograms.
 
 ## Annotations
 
-[^key-d8e1789857e7eca2589610df1d04d46c]: Textual amendment: [Sch. 3 para. 5(5)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/5/5) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(i)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/i)
+[^c-d8e1789857e7eca2589610df1d04d46c]: Textual amendment: [Sch. 3 para. 5(5)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/5/5) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(i)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/i)
 
-[^key-a82a0e68cc4df076986021cfc3d876ad]: Textual amendment: Words in [Sch. 3 para. 6(1)(a)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/6/1/a) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(b)(i)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a82a0e68cc4df076986021cfc3d876ad]: Textual amendment: Words in [Sch. 3 para. 6(1)(a)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/6/1/a) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(b)(i)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f29234a6df7aee8584b53e8409cfe024]: Textual amendment: [Sch. 3 para. 6(1)(b)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/6/1/b) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(ii)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/ii)
+[^c-f29234a6df7aee8584b53e8409cfe024]: Textual amendment: [Sch. 3 para. 6(1)(b)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/6/1/b) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(ii)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/ii)
 
-[^key-132e62d767cc61762a1293a711f50fcb]: Textual amendment: [Sch. 3 para. 7(1)(a)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/7/1/a) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(iii)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/iii)
+[^c-132e62d767cc61762a1293a711f50fcb]: Textual amendment: [Sch. 3 para. 7(1)(a)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/7/1/a) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(iii)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/iii)
 
-[^key-b00592115718523db656ef81cecdc01f]: Textual amendment: Words in [Sch. 3 para. 7(1)(b)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/7/1) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(c)(ii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b00592115718523db656ef81cecdc01f]: Textual amendment: Words in [Sch. 3 para. 7(1)(b)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/7/1) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(c)(ii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6f9c3d603b49dd32e6fb1a775008ea60]: Textual amendment: [Sch. 3 para. 7(1)(c)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/7/1/c) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(iv)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/iv)
+[^c-6f9c3d603b49dd32e6fb1a775008ea60]: Textual amendment: [Sch. 3 para. 7(1)(c)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/7/1/c) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(iv)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/iv)
 
-[^key-10bda84d8ea77054b523f6d94b06c06d]: Textual amendment: [Sch. 3 para. 8(1)(a)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/8/1/a) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(iii)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/iii)
+[^c-10bda84d8ea77054b523f6d94b06c06d]: Textual amendment: [Sch. 3 para. 8(1)(a)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/8/1/a) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(iii)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/iii)
 
-[^key-4265bf7f8e457c7230acd42522d3e83c]: Textual amendment: Words in [Sch. 3 para. 8(1)(b)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/8/1) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(c)(ii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4265bf7f8e457c7230acd42522d3e83c]: Textual amendment: Words in [Sch. 3 para. 8(1)(b)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/8/1) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(c)(ii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b8212d862d7fdd7e4a083f1e9adb9bc5]: Textual amendment: [Sch. 3 para. 8(1)(c)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/8/1/c) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(iv)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/iv)
+[^c-b8212d862d7fdd7e4a083f1e9adb9bc5]: Textual amendment: [Sch. 3 para. 8(1)(c)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/8/1/c) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(iv)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/iv)
 
-[^key-98efb0b4144dd09d8e46d637237105f4]: Textual amendment: Words in [Sch. 3 para. 9(1)(a)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/9/1/a) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(d)(i)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-98efb0b4144dd09d8e46d637237105f4]: Textual amendment: Words in [Sch. 3 para. 9(1)(a)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/9/1/a) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(d)(i)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3c15922b14f810572a5f316cdde84f43]: Textual amendment: [Sch. 3 para. 9(1)(b)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/9/1/b) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(v)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/v)
+[^c-3c15922b14f810572a5f316cdde84f43]: Textual amendment: [Sch. 3 para. 9(1)(b)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/9/1/b) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(v)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/v)
 
-[^key-2630078255be061ffcd468601c61b34e]: Textual amendment: Words in [Sch. 3 para. 11](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/11) substituted (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [26(1)(d)](https://www.legislation.gov.uk/nisr/2020/302/regulation/26/1/d)
+[^c-2630078255be061ffcd468601c61b34e]: Textual amendment: Words in [Sch. 3 para. 11](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/11) substituted (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [26(1)(d)](https://www.legislation.gov.uk/nisr/2020/302/regulation/26/1/d)
 
-[^key-c649214f97e2531797ec2d7c4712e211]: Textual amendment: Words in [Sch. 3 para. 11(2)(a)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/11/2/a) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(e)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c649214f97e2531797ec2d7c4712e211]: Textual amendment: Words in [Sch. 3 para. 11(2)(a)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/11/2/a) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(e)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-282aca2460ca9f22f49ece382fdcc039]: Textual amendment: Words in [Sch. 3 para. 13](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/13) substituted (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [26(1)(d)](https://www.legislation.gov.uk/nisr/2020/302/regulation/26/1/d)
+[^c-282aca2460ca9f22f49ece382fdcc039]: Textual amendment: Words in [Sch. 3 para. 13](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/13) substituted (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [26(1)(d)](https://www.legislation.gov.uk/nisr/2020/302/regulation/26/1/d)
 
-[^key-ffeb2faf72ea4b3236c9b95d01f17ed2]: Textual amendment: Words in [Sch. 3 para. 13(1)(a)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/13/1/a) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(e)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ffeb2faf72ea4b3236c9b95d01f17ed2]: Textual amendment: Words in [Sch. 3 para. 13(1)(a)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/13/1/a) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(e)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d86e3f3758160d5bb23fa757cd5f8d7]: Textual amendment: Word in [Sch. 3 para. 18(2)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/18/2) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(f)(i)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/f/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d86e3f3758160d5bb23fa757cd5f8d7]: Textual amendment: Word in [Sch. 3 para. 18(2)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/18/2) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(f)(i)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/f/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c4f0ae7ccef659f32ebf25efe1c3fa79]: Textual amendment: Word in Sch. 3 para. 18(4)(a) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(f)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/f/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4f0ae7ccef659f32ebf25efe1c3fa79]: Textual amendment: Word in Sch. 3 para. 18(4)(a) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(f)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/f/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7061dec33b4b2bcf4c2f81129c5a8af5]: Textual amendment: Words in Sch. 3 para. 18(4)(d) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(f)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/f/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7061dec33b4b2bcf4c2f81129c5a8af5]: Textual amendment: Words in Sch. 3 para. 18(4)(d) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(f)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/f/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3c77e0896aa6402ccf57a112ade23d0e]: Textual amendment: Word in [Sch. 3 para. 19(4)(a)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/19/4/a) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(g)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c77e0896aa6402ccf57a112ade23d0e]: Textual amendment: Word in [Sch. 3 para. 19(4)(a)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/19/4/a) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(g)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bc3e489929b6015e5c46004d5a3c865e]: Textual amendment: Word in [Sch. 3 para. 20](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/20) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(vi)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/vi)
+[^c-bc3e489929b6015e5c46004d5a3c865e]: Textual amendment: Word in [Sch. 3 para. 20](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/20) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(vi)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/vi)
 
-[^key-4d205c177a57085621eea7b76a73d5d5]: Textual amendment: Word in [Sch. 3 para. 21](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/21) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(vi)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/vi)
+[^c-4d205c177a57085621eea7b76a73d5d5]: Textual amendment: Word in [Sch. 3 para. 21](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/21) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(vi)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/vi)
 
-[^key-51fbdb46def432adcd9c66391ec7c993]: Textual amendment: Word in [Sch. 3 para. 21(2)(d)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/21/2/d) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(vii)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/vii)
+[^c-51fbdb46def432adcd9c66391ec7c993]: Textual amendment: Word in [Sch. 3 para. 21(2)(d)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/21/2/d) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(vii)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/vii)
 
-[^key-ba230977c0080126396a52f3b0ec63f1]: Textual amendment: Word in [Sch. 3 para. 22](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/22) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(vi)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/vi)
+[^c-ba230977c0080126396a52f3b0ec63f1]: Textual amendment: Word in [Sch. 3 para. 22](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/22) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(vi)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/vi)
 
-[^key-d132101ff5fa9fd8e21455a0793690b9]: Textual amendment: Word in [Sch. 3 para. 22(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/22/2/c/ii) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(vii)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/vii)
+[^c-d132101ff5fa9fd8e21455a0793690b9]: Textual amendment: Word in [Sch. 3 para. 22(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/22/2/c/ii) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(vii)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/vii)
 
-[^key-6b38208135ef9fb47fe8a539e1ff1818]: Textual amendment: Word in [Sch. 3 para. 22(d)(ii)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/22/d/ii) substituted (31.12.2020) by virtue of [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(vii)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/vii)
+[^c-6b38208135ef9fb47fe8a539e1ff1818]: Textual amendment: Word in [Sch. 3 para. 22(d)(ii)](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/22/d/ii) substituted (31.12.2020) by virtue of [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(g)(vii)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/g/vii)
 
-[^key-cf7e490548f9d1784983703790014a35]: Textual amendment: Word in [Sch. 3 para. 23](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/23) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(j)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf7e490548f9d1784983703790014a35]: Textual amendment: Word in [Sch. 3 para. 23](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/23) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(j)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9924fa570b66a373d535e8e9c9c7d12c]: Textual amendment: Word in [Sch. 3 para. 24](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/24) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(j)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9924fa570b66a373d535e8e9c9c7d12c]: Textual amendment: Word in [Sch. 3 para. 24](https://www.legislation.gov.uk/nisr/2016/244/schedule/3/paragraph/24) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [51(j)](https://www.legislation.gov.uk/uksi/2019/211/regulation/51/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

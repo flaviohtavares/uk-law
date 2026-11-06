@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70YF. The “term” of a lease[^key-5703efb87a689d0aca5dc79e67f642d9]
+## 70YF. The “term” of a lease[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,11 +40,11 @@ summary: ''
 (5) If, at the commencement of the term of the lease,—
 
 - (a) the market value of the asset exceeds £1 million, and
-- (b) the estimated market value of the asset 7[^key-168a1ae2bd450336b5746274c3bc7ebd] years after the commencement of the term of the lease is more than half of the market value of the asset at the commencement of the term of the lease,
+- (b) the estimated market value of the asset 7[^c-168a1ae2bd450336b5746274c3bc7ebd] years after the commencement of the term of the lease is more than half of the market value of the asset at the commencement of the term of the lease,
 
 subsection (6) applies.
 
-(6) If, in any such case, the term of the lease (apart from this subsection) would be 7[^key-72c8686783fbb0311c5cc59a45f4d669] years or less, but—
+(6) If, in any such case, the term of the lease (apart from this subsection) would be 7[^c-72c8686783fbb0311c5cc59a45f4d669] years or less, but—
 
 - (a) the lessee has one or more options to continue to lease the asset,
 - (b) on the assumption that it is reasonably certain, at the inception of the lease, that the lessee will exercise those options, the term of the lease would exceed 7 years, and
@@ -52,16 +52,16 @@ subsection (6) applies.
 
 it is to be assumed for the purposes of this section that any option to continue to lease the asset will be exercised, unless it is reasonably certain, at the inception of the lease, that the option will not be exercised.
 
-(7)[^key-58fca5a97df3447ca8f994537bb9f9fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-58fca5a97df3447ca8f994537bb9f9fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) See also section 70YC(5) (extension, for certain purposes, of term of lease that is not a long funding lease).
 
 ## Annotations
 
-[^key-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)
+[^c-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)
 
-[^key-168a1ae2bd450336b5746274c3bc7ebd]: Textual amendment: Word in [s. 70YF(5)(b)](https://www.legislation.gov.uk/ukpga/2001/2/section/70YF/5/b) substituted (with effect in accordance with Sch. 14 para. 10 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/8/2/a)
+[^c-168a1ae2bd450336b5746274c3bc7ebd]: Textual amendment: Word in [s. 70YF(5)(b)](https://www.legislation.gov.uk/ukpga/2001/2/section/70YF/5/b) substituted (with effect in accordance with Sch. 14 para. 10 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/8/2/a)
 
-[^key-72c8686783fbb0311c5cc59a45f4d669]: Textual amendment: Word in [s. 70YF(6)](https://www.legislation.gov.uk/ukpga/2001/2/section/70YF/6) substituted (with effect in accordance with Sch. 14 para. 10 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/8/2/b)
+[^c-72c8686783fbb0311c5cc59a45f4d669]: Textual amendment: Word in [s. 70YF(6)](https://www.legislation.gov.uk/ukpga/2001/2/section/70YF/6) substituted (with effect in accordance with Sch. 14 para. 10 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/8/2/b)
 
-[^key-58fca5a97df3447ca8f994537bb9f9fb]: Textual amendment: [S. 70YF(7)](https://www.legislation.gov.uk/ukpga/2001/2/section/70YF/7) omitted (with effect in accordance with Sch. 14 para. 10 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 8(2)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/8/2/c)
+[^c-58fca5a97df3447ca8f994537bb9f9fb]: Textual amendment: [S. 70YF(7)](https://www.legislation.gov.uk/ukpga/2001/2/section/70YF/7) omitted (with effect in accordance with Sch. 14 para. 10 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 8(2)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/8/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Charges[^c2201949][^key-280286ab108aee8aa8dcd778ce4b7caa]
+## 22. Charges[^c2201949][^c-280286ab108aee8aa8dcd778ce4b7caa]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c2201949]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/4/section/22) partly in force; [s. 22(2)(3)](https://www.legislation.gov.uk/ukpga/2014/4/section/22/2/3) in force for certain purposes at Royal Assent, see [s. 45(3)(a)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/a)
 
-[^key-280286ab108aee8aa8dcd778ce4b7caa]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/4/section/22) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)
+[^c-280286ab108aee8aa8dcd778ce4b7caa]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/4/section/22) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)

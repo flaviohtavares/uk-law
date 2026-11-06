@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Exemption from liability in relation to defacement removal notices[^key-4988f2ecde7b1d9641e8eb60fa5131a3]
+## 35. Exemption from liability in relation to defacement removal notices[^c-4988f2ecde7b1d9641e8eb60fa5131a3]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4988f2ecde7b1d9641e8eb60fa5131a3]: Commencement: S. 35 in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-4988f2ecde7b1d9641e8eb60fa5131a3]: Commencement: S. 35 in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Meaning of operator[^key-959f4ada57b5ff08f0a7142debe5c4fa]
+## 5. Meaning of operator[^c-959f4ada57b5ff08f0a7142debe5c4fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-959f4ada57b5ff08f0a7142debe5c4fa]: Commencement: Art. 5 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-959f4ada57b5ff08f0a7142debe5c4fa]: Commencement: Art. 5 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

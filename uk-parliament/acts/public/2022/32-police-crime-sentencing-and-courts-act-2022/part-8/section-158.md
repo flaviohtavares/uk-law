@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Discretion as to length of term[^key-e219e5196012b7bb89c56355f1166c5c]
+## 158. Discretion as to length of term[^c-e219e5196012b7bb89c56355f1166c5c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 236(1) of the Sentencing Code (term of detention and training order),
 
 ## Annotations
 
-[^key-e219e5196012b7bb89c56355f1166c5c]: Commencement: S. 158 in force at 28.6.2022, see [s. 208(5)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/t)
+[^c-e219e5196012b7bb89c56355f1166c5c]: Commencement: S. 158 in force at 28.6.2022, see [s. 208(5)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/t)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Power to subscribe for shares, etc.[^key-6c21687bac35f4dc599a86ca96c60da5]
+## 52. Power to subscribe for shares, etc.[^c-6c21687bac35f4dc599a86ca96c60da5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Commissioners may in connection with or for the purposes of the undertaking 
 
 ## Annotations
 
-[^key-6c21687bac35f4dc599a86ca96c60da5]: Commencement: Art. 52 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-6c21687bac35f4dc599a86ca96c60da5]: Commencement: Art. 52 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

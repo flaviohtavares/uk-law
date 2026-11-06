@@ -50,15 +50,15 @@ the award either may provide for income support to be paid as from the commencin
     - (ii) any other sums specified in regulations under Part VII of the Contributions and Benefits Act,
 
     their alteration by or under any enactment whether or not contained in that Part; and
-  - (b) in relation to a person's benefit income, the alteration of any of the sums referred to in section 150, 150A or 151A[^key-83d2b971a94d5c30a4d8f9abbd90d5f5] above—
+  - (b) in relation to a person's benefit income, the alteration of any of the sums referred to in section 150, 150A or 151A[^c-83d2b971a94d5c30a4d8f9abbd90d5f5] above—
     - (i) by any enactment; or
-    - (ii) by an order under section 150 , 150A[^key-8da363047a938dbdb62f142673c236c8] , 151A[^key-1225298ace2eb2576b2663fafacde6dd] or 152 above,
+    - (ii) by an order under section 150 , 150A[^c-8da363047a938dbdb62f142673c236c8] , 151A[^c-1225298ace2eb2576b2663fafacde6dd] or 152 above,
 
     to the extent that any such alteration affects the amount of his benefit income;
 - “**benefit income**”, in relation to any person, means so much of his income as consists of—
   - (a) benefit under the Contributions and Benefits Act, other than income support;
-  - (za) state pension under Part 1 of the Pensions Act 2014;[^key-4405a43f28ef1a0663bea383ffee48f7]
-  - (aa) personal independence payment;[^key-696f1ee58eb55cf2c9bc3eab84a2a985] or
+  - (za) state pension under Part 1 of the Pensions Act 2014;[^c-4405a43f28ef1a0663bea383ffee48f7]
+  - (aa) personal independence payment;[^c-696f1ee58eb55cf2c9bc3eab84a2a985] or
   - (b) a war disablement pension or war widow's pension;
 - “**the commencing date**” in relation to an alteration, means the date on which the alteration comes into force in the case of the person in question;
 - “**component rate**”, in relation to income support, means the amount of—
@@ -70,12 +70,12 @@ the award either may provide for income support to be paid as from the commencin
 
 [^c24153321]: Textual amendment: Words in s. 159(2) substituted (29.11.1999 for specified purposes) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 7 para. 95](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/95); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1)
 
-[^key-83d2b971a94d5c30a4d8f9abbd90d5f5]: Textual amendment: Words in [s. 159(5)](https://www.legislation.gov.uk/ukpga/1992/5/section/159/5) substituted (16.9.2016) by [The Pensions Act 2014 (Consequential Amendments) Order 2016 (S.I. 2016/931)](https://www.legislation.gov.uk/uksi/2016/931), [arts. 1](https://www.legislation.gov.uk/uksi/2016/931/article/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/931/article/2/2/a/i)
+[^c-83d2b971a94d5c30a4d8f9abbd90d5f5]: Textual amendment: Words in [s. 159(5)](https://www.legislation.gov.uk/ukpga/1992/5/section/159/5) substituted (16.9.2016) by [The Pensions Act 2014 (Consequential Amendments) Order 2016 (S.I. 2016/931)](https://www.legislation.gov.uk/uksi/2016/931), [arts. 1](https://www.legislation.gov.uk/uksi/2016/931/article/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/931/article/2/2/a/i)
 
-[^key-8da363047a938dbdb62f142673c236c8]: Textual amendment: Word in s. 159(5) inserted (with effect in accordance with [s. 5(3)-(7)](https://www.legislation.gov.uk/ukpga/2007/22/section/5/3) of the amending Act) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 30(1)(a)(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/1/a/3), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/1/paragraph/25/b)
+[^c-8da363047a938dbdb62f142673c236c8]: Textual amendment: Word in s. 159(5) inserted (with effect in accordance with [s. 5(3)-(7)](https://www.legislation.gov.uk/ukpga/2007/22/section/5/3) of the amending Act) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 30(1)(a)(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/1/a/3), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/1/paragraph/25/b)
 
-[^key-1225298ace2eb2576b2663fafacde6dd]: Textual amendment: Words in [s. 159(5)](https://www.legislation.gov.uk/ukpga/1992/5/section/159/5) inserted (16.9.2016) by [The Pensions Act 2014 (Consequential Amendments) Order 2016 (S.I. 2016/931)](https://www.legislation.gov.uk/uksi/2016/931), [arts. 1](https://www.legislation.gov.uk/uksi/2016/931/article/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/931/article/2/2/a/ii)
+[^c-1225298ace2eb2576b2663fafacde6dd]: Textual amendment: Words in [s. 159(5)](https://www.legislation.gov.uk/ukpga/1992/5/section/159/5) inserted (16.9.2016) by [The Pensions Act 2014 (Consequential Amendments) Order 2016 (S.I. 2016/931)](https://www.legislation.gov.uk/uksi/2016/931), [arts. 1](https://www.legislation.gov.uk/uksi/2016/931/article/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/931/article/2/2/a/ii)
 
-[^key-4405a43f28ef1a0663bea383ffee48f7]: Textual amendment: Words in [s. 159(5)](https://www.legislation.gov.uk/ukpga/1992/5/section/159/5) inserted (16.9.2016) by [The Pensions Act 2014 (Consequential Amendments) Order 2016 (S.I. 2016/931)](https://www.legislation.gov.uk/uksi/2016/931), [arts. 1](https://www.legislation.gov.uk/uksi/2016/931/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/931/article/2/2/b)
+[^c-4405a43f28ef1a0663bea383ffee48f7]: Textual amendment: Words in [s. 159(5)](https://www.legislation.gov.uk/ukpga/1992/5/section/159/5) inserted (16.9.2016) by [The Pensions Act 2014 (Consequential Amendments) Order 2016 (S.I. 2016/931)](https://www.legislation.gov.uk/uksi/2016/931), [arts. 1](https://www.legislation.gov.uk/uksi/2016/931/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/931/article/2/2/b)
 
-[^key-696f1ee58eb55cf2c9bc3eab84a2a985]: Textual amendment: Words in s. 159(5) inserted (8.4.2013 for specified purposes, 10.6.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2012/5/schedule/9/paragraph/18); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)(2)(k)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1/2/k), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3); [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 2](https://www.legislation.gov.uk/uksi/2013/1250/article/2)
+[^c-696f1ee58eb55cf2c9bc3eab84a2a985]: Textual amendment: Words in s. 159(5) inserted (8.4.2013 for specified purposes, 10.6.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2012/5/schedule/9/paragraph/18); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)(2)(k)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1/2/k), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3); [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 2](https://www.legislation.gov.uk/uksi/2013/1250/article/2)

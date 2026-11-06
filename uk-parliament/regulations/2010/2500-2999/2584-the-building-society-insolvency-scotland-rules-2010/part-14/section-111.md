@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Giving of notices, etc[^key-33bd51e2c2cb10e544398f13745fc06b]
+## 111. Giving of notices, etc[^c-33bd51e2c2cb10e544398f13745fc06b]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33bd51e2c2cb10e544398f13745fc06b]: Commencement: Rule 111 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-33bd51e2c2cb10e544398f13745fc06b]: Commencement: Rule 111 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00052]: Footnote: Rule 7.21 was amended by paragraph 47 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).

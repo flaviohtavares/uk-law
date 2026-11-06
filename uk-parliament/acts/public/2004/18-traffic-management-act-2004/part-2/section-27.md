@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Criteria for making intervention orders[^key-ee5a5f36bd5de16e434a1ecec9d75b1e][^key-b3d2c65a352246dfb7a4354fe4ed6eac]
+## 27. Criteria for making intervention orders[^c-ee5a5f36bd5de16e434a1ecec9d75b1e][^c-b3d2c65a352246dfb7a4354fe4ed6eac]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ee5a5f36bd5de16e434a1ecec9d75b1e]: Commencement: S. 27 in force at 4.1.2005 for E. by [S.I. 2004/3110](https://www.legislation.gov.uk/uksi/2004/3110), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3110/article/2/a)
+[^c-ee5a5f36bd5de16e434a1ecec9d75b1e]: Commencement: S. 27 in force at 4.1.2005 for E. by [S.I. 2004/3110](https://www.legislation.gov.uk/uksi/2004/3110), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3110/article/2/a)
 
-[^key-b3d2c65a352246dfb7a4354fe4ed6eac]: Commencement: S. 27 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/b)
+[^c-b3d2c65a352246dfb7a4354fe4ed6eac]: Commencement: S. 27 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/b)

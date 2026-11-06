@@ -113,9 +113,9 @@ These Regulations are made before the end of the period of six months beginning 
     - (iii) any appeal against his determination or directions,
 
     has been finally disposed of and the notice has not been revoked, varied or substituted;
-- “the relevant period” is the period of three years beginning immediately after the relevant time of the Board’s determination under section 143(2)(a) or actuarial valuation of the scheme under section 143(2)(b)[^key-8f2d88a73f92a698c2757902a47d0c9b] (Board's obligation to obtain valuation of assets and protected liabilities);
+- “the relevant period” is the period of three years beginning immediately after the relevant time of the Board’s determination under section 143(2)(a) or actuarial valuation of the scheme under section 143(2)(b)[^c-8f2d88a73f92a698c2757902a47d0c9b] (Board's obligation to obtain valuation of assets and protected liabilities);
 - “**the relevant time**” shall be construed in accordance with section 143(11)(c); and
-- [^key-5da13f777a6867429bf2d313df0ededb]...
+- [^c-5da13f777a6867429bf2d313df0ededb]...
 
 (2) The effective date of the first section 156 valuation shall—
 
@@ -137,7 +137,7 @@ shall be determined, calculated and verified in accordance with the provisions o
 
 ## 5. Prescribed qualifications for the purposes of section 156
 
-For the purposes of the definition of “the actuary” contained in section 156(6), a person with prescribed qualifications is a Fellow of the Institute and Faculty of Actuaries.[^key-b865d79a65a4e3a12c35b2ebac0aad05]
+For the purposes of the definition of “the actuary” contained in section 156(6), a person with prescribed qualifications is a Fellow of the Institute and Faculty of Actuaries.[^c-b865d79a65a4e3a12c35b2ebac0aad05]
 
 ## 6. Applications and notifications where closed schemes have insufficient assets
 
@@ -221,7 +221,7 @@ Regulation 4
   - (c) the trustees or managers are, or should reasonably be aware of;
 - “**relevant accounts**” for the purposes of identifying and valuing the assets of a scheme, means audited accounts for the scheme which—
   - (a) contain the information specified in Part 2 of this Schedule;
-  - (b) show a true and fair view[^key-469174da39e2195bb115e23cf89bb723] of—
+  - (b) show a true and fair view[^c-469174da39e2195bb115e23cf89bb723] of—
     - (i) the financial transactions of the scheme during the period to which the accounts relate (“the accounting period”);
     - (ii) the amount and disposition of the assets at the end of the accounting period; and
     - (iii) the liabilities of the scheme, other than the liabilities to pay pensions and benefits, after the end of the accounting period;
@@ -326,7 +326,7 @@ a note that paragraphs (a) and (b) apply must be included in the statement, but 
 
 **7.** The total amount of the purchases and the total amount of the sales of investments during the accounting period.
 
-**8.** A statement whether the accounts have been prepared in accordance with the Statement of Recommended Practice, the guidelines (“Financial Reports of Pension Schemes”) published by the Pensions Research Accountants Group [^c18377161] or another organisation approved for this purpose by the Financial Reporting Council Limited[^key-c98397e91cc27083d707171f967db4bf], current at the end of the accounting period and, if not, an indication of where there are any material departures from those guidelines.
+**8.** A statement whether the accounts have been prepared in accordance with the Statement of Recommended Practice, the guidelines (“Financial Reports of Pension Schemes”) published by the Pensions Research Accountants Group [^c18377161] or another organisation approved for this purpose by the Financial Reporting Council Limited[^c-c98397e91cc27083d707171f967db4bf], current at the end of the accounting period and, if not, an indication of where there are any material departures from those guidelines.
 
 *(This note is not part of the Regulations)*
 
@@ -358,15 +358,15 @@ A Regulatory Impact Assessment has not been prepared for this instrument as it h
 
 [^c18377061]: Marginal citation: [Part 2](https://www.legislation.gov.uk/uksi/2007/865/part/2) of the Act is modified in its application to multi-employer schemes by the [Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations 2005 (S.I. 2005/441)](https://www.legislation.gov.uk/uksi/2005/441) and amended by [S.I. 2005/993](https://www.legislation.gov.uk/uksi/2005/993) and 2113 and 2006/566.
 
-[^key-8f2d88a73f92a698c2757902a47d0c9b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2007/865/regulation/3/1) substituted (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/b), [8(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/8/a), [9(1)(h)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/1/h)[(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
+[^c-8f2d88a73f92a698c2757902a47d0c9b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2007/865/regulation/3/1) substituted (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/b), [8(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/8/a), [9(1)(h)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/1/h)[(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
 
-[^key-5da13f777a6867429bf2d313df0ededb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2007/865/regulation/3/1) omitted (24.1.2013) by virtue of [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/b), [8(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/8/b), [9(1)(h)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/1/h)[(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
+[^c-5da13f777a6867429bf2d313df0ededb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2007/865/regulation/3/1) omitted (24.1.2013) by virtue of [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/b), [8(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/8/b), [9(1)(h)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/1/h)[(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
 
-[^key-b865d79a65a4e3a12c35b2ebac0aad05]: Textual amendment: Words in reg. 5 substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2012/692/regulation/17)
+[^c-b865d79a65a4e3a12c35b2ebac0aad05]: Textual amendment: Words in reg. 5 substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2012/692/regulation/17)
 
 [^c18377091]: Marginal citation: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26). The definitions of “pension credit”, “pension credit member” and “pension credit rights” were inserted by section 84(1) of, and paragraphs 43 and 61(1) and (3) of Schedule 12 to, the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-469174da39e2195bb115e23cf89bb723]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2007/865/schedule/paragraph/1) substituted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/451)](https://www.legislation.gov.uk/uksi/2009/451), [regs. 1](https://www.legislation.gov.uk/uksi/2009/451/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2009/451/regulation/6/2)
+[^c-469174da39e2195bb115e23cf89bb723]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2007/865/schedule/paragraph/1) substituted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/451)](https://www.legislation.gov.uk/uksi/2009/451), [regs. 1](https://www.legislation.gov.uk/uksi/2009/451/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2009/451/regulation/6/2)
 
 [^c18377101]: Marginal citation: Section 75 is amended by section 271 of the Act, and is modified in its application to multi-employer schemes by the [Occupational Pension Schemes (Employer Debt) Regulations 2005 (S.I. 2005/678)](https://www.legislation.gov.uk/uksi/2005/678), amended by [S.I. 2005/2224](https://www.legislation.gov.uk/uksi/2005/2224).
 
@@ -382,4 +382,4 @@ A Regulatory Impact Assessment has not been prepared for this instrument as it h
 
 [^c18377161]: Marginal citation: Copies of this guidance can be obtained from Croner CCH Group Limited, 145 London Road, Kingston-upon-Thames, Surrey, KT2 6SR.
 
-[^key-c98397e91cc27083d707171f967db4bf]: Textual amendment: Words in Sch. para. 8 substituted (2.7.2012) by [The Statutory Auditors (Amendment of Companies Act 2006 and Delegation of Functions etc) Order 2012 (S.I. 2012/1741)](https://www.legislation.gov.uk/uksi/2012/1741), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1741/article/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2012/1741/schedule/paragraph/7)
+[^c-c98397e91cc27083d707171f967db4bf]: Textual amendment: Words in Sch. para. 8 substituted (2.7.2012) by [The Statutory Auditors (Amendment of Companies Act 2006 and Delegation of Functions etc) Order 2012 (S.I. 2012/1741)](https://www.legislation.gov.uk/uksi/2012/1741), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1741/article/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2012/1741/schedule/paragraph/7)

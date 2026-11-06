@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 151. Discharge of Accountant in Bankruptcy[^key-291c62637aa65d2a6f67dc45386f5a36]
+## 151. Discharge of Accountant in Bankruptcy[^c-291c62637aa65d2a6f67dc45386f5a36]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ in respect of any act or omission of AiB in exercising the functions of trustee 
 
 ## Annotations
 
-[^key-291c62637aa65d2a6f67dc45386f5a36]: Commencement: [S. 151](https://www.legislation.gov.uk/asp/2016/21/section/151) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-291c62637aa65d2a6f67dc45386f5a36]: Commencement: [S. 151](https://www.legislation.gov.uk/asp/2016/21/section/151) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

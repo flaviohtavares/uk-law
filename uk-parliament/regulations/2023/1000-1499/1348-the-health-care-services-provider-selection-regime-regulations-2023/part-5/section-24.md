@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Information requirements[^key-fef72fe6a3cdaf6bc404921ed9c64b12]
+## 24. Information requirements[^c-fef72fe6a3cdaf6bc404921ed9c64b12]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ A relevant authority must keep a record of—
 
 ## Annotations
 
-[^key-fef72fe6a3cdaf6bc404921ed9c64b12]: Commencement: Reg. 24 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-fef72fe6a3cdaf6bc404921ed9c64b12]: Commencement: Reg. 24 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)

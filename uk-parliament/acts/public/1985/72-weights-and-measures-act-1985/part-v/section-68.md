@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Interpretation of Part V.[^key-4936a5226e9c15bba9964148b6278a5d]
+## 68. Interpretation of Part V.[^c-4936a5226e9c15bba9964148b6278a5d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4936a5226e9c15bba9964148b6278a5d]: Textual amendment: Ss. 47-68 repealed (6.4.2006) by [The Weights and Measures (Packaged Goods) Regulations 2006 (S.I. 2006/659)](https://www.legislation.gov.uk/uksi/2006/659), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/659/regulation/1/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2006/659/schedule/1/part/1) (with [reg. 21](https://www.legislation.gov.uk/uksi/2006/659/regulation/21))
+[^c-4936a5226e9c15bba9964148b6278a5d]: Textual amendment: Ss. 47-68 repealed (6.4.2006) by [The Weights and Measures (Packaged Goods) Regulations 2006 (S.I. 2006/659)](https://www.legislation.gov.uk/uksi/2006/659), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/659/regulation/1/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2006/659/schedule/1/part/1) (with [reg. 21](https://www.legislation.gov.uk/uksi/2006/659/regulation/21))

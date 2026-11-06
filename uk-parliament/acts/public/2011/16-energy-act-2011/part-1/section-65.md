@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Crown application: Chapter 3[^key-2b59a5fb50ec67e150d6032bcd9d96ad]
+## 65. Crown application: Chapter 3[^c-2b59a5fb50ec67e150d6032bcd9d96ad]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Chapter binds the Crown.
 
 ## Annotations
 
-[^key-2b59a5fb50ec67e150d6032bcd9d96ad]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2011/16/section/65) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)
+[^c-2b59a5fb50ec67e150d6032bcd9d96ad]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2011/16/section/65) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)

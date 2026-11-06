@@ -33,15 +33,15 @@ An Act to make new provision with respect to the provision and regulation of ind
 
 \[1st November 1990\] [^c16544491]
 
-[^c18307471][^c16544501][^c16544511][^c16544521][^c16544531]BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-daf30640f2fec5f3acce92dfbdc9ee78][^key-1c9219c6ef7f8e808d9b85c97daf83b9][^key-1fa1f48a5946b65c70f724468c32c0a4][^key-fff99711c890697e2abd6884e77598c9][^key-c650120d16cfa8c98844c88289ac23b7][^key-8beaffd26494c7549f6ce27cd91c4858]
+[^c18307471][^c16544501][^c16544511][^c16544521][^c16544531]BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-daf30640f2fec5f3acce92dfbdc9ee78][^c-1c9219c6ef7f8e808d9b85c97daf83b9][^c-1fa1f48a5946b65c70f724468c32c0a4][^c-fff99711c890697e2abd6884e77598c9][^c-c650120d16cfa8c98844c88289ac23b7][^c-8beaffd26494c7549f6ce27cd91c4858]
 
 ## Contents
 
-### Part I — Independent Television Services[^c16544551][^key-44913a70087f36fcd98212dcf0eea017]
+### Part I — Independent Television Services[^c16544551][^c-44913a70087f36fcd98212dcf0eea017]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Regulation by Commission of Television Services Generally[^key-44913a70087f36fcd98212dcf0eea017]
+#### Chapter 1 — Regulation by Commission of Television Services Generally[^c-44913a70087f36fcd98212dcf0eea017]
 
 ##### Establishment of Independent Television Commission
 
@@ -73,7 +73,7 @@ An Act to make new provision with respect to the provision and regulation of ind
 
 - [Section 13 — Prohibition on providing television services without a licence.](part-i/section-13.md)
 
-#### Chapter II — Television Broadcasting on Channels 3, 4 and 5[^key-44913a70087f36fcd98212dcf0eea017]
+#### Chapter II — Television Broadcasting on Channels 3, 4 and 5[^c-44913a70087f36fcd98212dcf0eea017]
 
 *Extent: E+W+S+N.I.*
 
@@ -146,7 +146,7 @@ An Act to make new provision with respect to the provision and regulation of ind
 - [Section 42A — Restricted services.](part-i/section-42a.md)
 - [Section 42B — Licensing etc. of restricted services.](part-i/section-42b.md)
 
-#### Chapter III — Satellite Television Services[^key-2ce62c2bd8b08860a614a78ec8845242]
+#### Chapter III — Satellite Television Services[^c-2ce62c2bd8b08860a614a78ec8845242]
 
 *Extent: E+W+S+N.I.*
 
@@ -155,14 +155,14 @@ An Act to make new provision with respect to the provision and regulation of ind
 - [Section 45 — Licensing etc. of satellite television services.](part-i/section-45.md)
 - [Section 45A — Special power of revocation and suspension on certain grounds in case of licence to provide satellite television service.](part-i/section-45a.md)
 
-#### Chapter IV. — Licensable Programme Services[^key-c57249749ae38f4dae2d1a1b473e3a33]
+#### Chapter IV. — Licensable Programme Services[^c-c57249749ae38f4dae2d1a1b473e3a33]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 46 — Licensable programme services.](part-i/section-46.md)
 - [Section 47 — Licensing etc. of licensable programme services.](part-i/section-47.md)
 
-#### Chapter V — Additional Services Provided on Television Broadcasting Frequencies[^key-44913a70087f36fcd98212dcf0eea017]
+#### Chapter V — Additional Services Provided on Television Broadcasting Frequencies[^c-44913a70087f36fcd98212dcf0eea017]
 
 - [Section 48 — Additional services.](part-i/section-48.md)
 - [Section 49 — Licensing of additional services.](part-i/section-49.md)
@@ -173,7 +173,7 @@ An Act to make new provision with respect to the provision and regulation of ind
 - [Section 54 — Additional services not to interfere with other transmissions.](part-i/section-54.md)
 - [Section 55 — Enforcement of additional services licences.](part-i/section-55.md)
 
-#### Chapter VI — Television Broadcasting by Welsh Authority[^key-44913a70087f36fcd98212dcf0eea017]
+#### Chapter VI — Television Broadcasting by Welsh Authority[^c-44913a70087f36fcd98212dcf0eea017]
 
 *Extent: E+W+S+N.I.*
 
@@ -189,7 +189,7 @@ An Act to make new provision with respect to the provision and regulation of ind
 - [Section 63 — Government control over S4C.](part-i/section-63.md)
 - [Section 64 — Audience research by S4C.](part-i/section-64.md)
 
-#### Chapter VII — Supplemental[^key-44913a70087f36fcd98212dcf0eea017]
+#### Chapter VII — Supplemental[^c-44913a70087f36fcd98212dcf0eea017]
 
 *Extent: E+W+S+N.I.*
 
@@ -202,17 +202,17 @@ An Act to make new provision with respect to the provision and regulation of ind
 - [Section 70 — Representation by Commission of Government and other interests in connection with broadcasting matters.](part-i/section-70.md)
 - [Section 71 — Interpretation of Part I.](part-i/section-71.md)
 
-### Part II — Local Delivery Services[^key-4455347439eef59d7091b6f5b1282677]
+### Part II — Local Delivery Services[^c-4455347439eef59d7091b6f5b1282677]
 
 *Extent: E+W+S+N.I.*
 
-#### Preliminary[^key-4455347439eef59d7091b6f5b1282677]
+#### Preliminary[^c-4455347439eef59d7091b6f5b1282677]
 
 **No longer in force.**
 
 - [Section 72 — Local delivery services.](part-ii/section-72.md)
 
-#### Licensing of local delivery services[^key-4455347439eef59d7091b6f5b1282677]
+#### Licensing of local delivery services[^c-4455347439eef59d7091b6f5b1282677]
 
 *Extent: E+W+S+N.I.*
 
@@ -227,30 +227,30 @@ An Act to make new provision with respect to the provision and regulation of ind
 - [Section 78 — Duration and renewal of local delivery licences.](part-ii/section-78.md)
 - [Section 78A — Inclusion of certain services in local delivery service provided by digital means.](part-ii/section-78a.md)
 
-#### Regulation of delivery of certain programmes[^key-4455347439eef59d7091b6f5b1282677]
+#### Regulation of delivery of certain programmes[^c-4455347439eef59d7091b6f5b1282677]
 
 **No longer in force.**
 
 - [Section 79 — Regulation of delivery of programmes provided by licence holder and foreign satellite programmes.](part-ii/section-79.md)
 - [Section 80 — Directions requiring licence holder to cease relaying foreign television programmes.](part-ii/section-80.md)
 
-#### Enforcement of licences[^key-4455347439eef59d7091b6f5b1282677]
+#### Enforcement of licences[^c-4455347439eef59d7091b6f5b1282677]
 
 **No longer in force.**
 
 - [Section 81 — Enforcement of local delivery licences.](part-ii/section-81.md)
 
-#### Prohibition on providing unlicensed local delivery services[^key-4455347439eef59d7091b6f5b1282677]
+#### Prohibition on providing unlicensed local delivery services[^c-4455347439eef59d7091b6f5b1282677]
 
 **No longer in force.**
 
 - [Section 82 — Prohibition on providing local delivery services without a licence.](part-ii/section-82.md)
 
-### Part III — Independent Radio Services[^key-5c9662bd913d357a74bd1f30c9d99ddc][^key-64da9c60ca51e3a95f779fb19f115cfb]
+### Part III — Independent Radio Services[^c-5c9662bd913d357a74bd1f30c9d99ddc][^c-64da9c60ca51e3a95f779fb19f115cfb]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter I — Regulation by Authority of Independent Radio Services Generally[^key-5c9662bd913d357a74bd1f30c9d99ddc]
+#### Chapter I — Regulation by Authority of Independent Radio Services Generally[^c-5c9662bd913d357a74bd1f30c9d99ddc]
 
 ##### Establishment of Radio Authority
 
@@ -286,12 +286,12 @@ An Act to make new provision with respect to the provision and regulation of ind
 
 - [Section 97 — Prohibition on providing independent radio services without a licence.](part-iii/section-97.md)
 
-##### Digital switchover[^key-12ed69525573e81d306630813f0319f7]
+##### Digital switchover[^c-12ed69525573e81d306630813f0319f7]
 
 - [Section 97A — Date for digital switchover](part-iii/section-97a.md)
 - [Section 97B — Variation of licence period after date for digital switchover nominated](part-iii/section-97b.md)
 
-#### Chapter II — Sound Broadcasting Services[^key-5c9662bd913d357a74bd1f30c9d99ddc]
+#### Chapter II — Sound Broadcasting Services[^c-5c9662bd913d357a74bd1f30c9d99ddc]
 
 *Extent: E+W+S+N.I.*
 
@@ -347,7 +347,7 @@ An Act to make new provision with respect to the provision and regulation of ind
 - [Section 112 — Licensable sound programme services.](part-iii/section-112.md)
 - [Section 113 — Licensing etc. of licensable sound programme services.](part-iii/section-113.md)
 
-#### Chapter IV — Additional Services Provided on Sound Broadcasting Frequencies[^key-5c9662bd913d357a74bd1f30c9d99ddc]
+#### Chapter IV — Additional Services Provided on Sound Broadcasting Frequencies[^c-5c9662bd913d357a74bd1f30c9d99ddc]
 
 - [Section 114 — Additional services.](part-iii/section-114.md)
 - [Section 115 — Licensing of additional services.](part-iii/section-115.md)
@@ -357,7 +357,7 @@ An Act to make new provision with respect to the provision and regulation of ind
 - [Section 119 — Additional services not to interfere with other transmissions.](part-iii/section-119.md)
 - [Section 120 — Enforcement of additional services licences.](part-iii/section-120.md)
 
-#### Chapter V — Supplemental[^key-5c9662bd913d357a74bd1f30c9d99ddc]
+#### Chapter V — Supplemental[^c-5c9662bd913d357a74bd1f30c9d99ddc]
 
 *Extent: E+W+S+N.I.*
 
@@ -581,35 +581,35 @@ SCHEDULES
 
 [^c16544531]: Modification: Act to be construed with specified provisions of [1996 c. 55 (1.10.1996 for certain purposes and otherwise 1.4.1997)](https://www.legislation.gov.uk/ukpga/1996/55) by virtue of s. 147(2) of that 1996 Act; [S.I. 1996/2120](https://www.legislation.gov.uk/uksi/1996/2120), [art. 4](https://www.legislation.gov.uk/uksi/1996/2120/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/2120/schedule/1); [S.I. 1997/1005](https://www.legislation.gov.uk/uksi/1997/1005), [art. 4](https://www.legislation.gov.uk/uksi/1997/1005/article/4)
 
-[^key-daf30640f2fec5f3acce92dfbdc9ee78]: Modification: Act: power to modify conferred (18.9.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 407](https://www.legislation.gov.uk/ukpga/2003/21/section/407), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
+[^c-daf30640f2fec5f3acce92dfbdc9ee78]: Modification: Act: power to modify conferred (18.9.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 407](https://www.legislation.gov.uk/ukpga/2003/21/section/407), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
 
-[^key-1c9219c6ef7f8e808d9b85c97daf83b9]: Modification: Act applied (with modifications) (20.7.2004) by [The Community Radio Order 2004 (S.I. 2004/1944)](https://www.legislation.gov.uk/uksi/2004/1944), [art. 4](https://www.legislation.gov.uk/uksi/2004/1944/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2004/1944/schedule) (as amended (22.1.2010) by S.I. 2010/118, arts. 3-4 and (27.3.2015) by S.I. 2015/1000, arts. 3-8)
+[^c-1c9219c6ef7f8e808d9b85c97daf83b9]: Modification: Act applied (with modifications) (20.7.2004) by [The Community Radio Order 2004 (S.I. 2004/1944)](https://www.legislation.gov.uk/uksi/2004/1944), [art. 4](https://www.legislation.gov.uk/uksi/2004/1944/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2004/1944/schedule) (as amended (22.1.2010) by S.I. 2010/118, arts. 3-4 and (27.3.2015) by S.I. 2015/1000, arts. 3-8)
 
-[^key-1fa1f48a5946b65c70f724468c32c0a4]: Modification: Act applied (with modifications) (5.12.2012) by [The Community Radio (Guernsey) Order 2012 (S.I. 2012/2690)](https://www.legislation.gov.uk/uksi/2012/2690), [arts. 4](https://www.legislation.gov.uk/uksi/2012/2690/article/4), [5](https://www.legislation.gov.uk/uksi/2012/2690/article/5), Sch.
+[^c-1fa1f48a5946b65c70f724468c32c0a4]: Modification: Act applied (with modifications) (5.12.2012) by [The Community Radio (Guernsey) Order 2012 (S.I. 2012/2690)](https://www.legislation.gov.uk/uksi/2012/2690), [arts. 4](https://www.legislation.gov.uk/uksi/2012/2690/article/4), [5](https://www.legislation.gov.uk/uksi/2012/2690/article/5), Sch.
 
-[^key-fff99711c890697e2abd6884e77598c9]: Modification: Act modified (Guernsey) (19.3.2013) by [The Community Radio (Guernsey) Order 2013 (S.I. 2013/243)](https://www.legislation.gov.uk/uksi/2013/243), [arts. 5](https://www.legislation.gov.uk/uksi/2013/243/article/5), [6](https://www.legislation.gov.uk/uksi/2013/243/article/6), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/243/schedule/part/1)
+[^c-fff99711c890697e2abd6884e77598c9]: Modification: Act modified (Guernsey) (19.3.2013) by [The Community Radio (Guernsey) Order 2013 (S.I. 2013/243)](https://www.legislation.gov.uk/uksi/2013/243), [arts. 5](https://www.legislation.gov.uk/uksi/2013/243/article/5), [6](https://www.legislation.gov.uk/uksi/2013/243/article/6), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/243/schedule/part/1)
 
-[^key-c650120d16cfa8c98844c88289ac23b7]: Modification: Act: power to extend conferred (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1), [119(7)(8)(b)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/8/b)
+[^c-c650120d16cfa8c98844c88289ac23b7]: Modification: Act: power to extend conferred (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1), [119(7)(8)(b)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/8/b)
 
-[^key-8beaffd26494c7549f6ce27cd91c4858]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/42): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-8beaffd26494c7549f6ce27cd91c4858]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/42): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
 [^c16544551]: Textual amendment: Pt I (ss.1-71) applied (1.10.1996) by [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48), [s.72](https://www.legislation.gov.uk/ukpga/1988/48/section/72), as replaced [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55), [s. 138](https://www.legislation.gov.uk/ukpga/1996/55/section/138), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/1996/55/schedule/9/paragraph/1); [S.I. 1996/2120](https://www.legislation.gov.uk/uksi/1996/2120), [art. 4](https://www.legislation.gov.uk/uksi/1996/2120/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/2120/schedule/1)
 
-[^key-44913a70087f36fcd98212dcf0eea017]: Modification: Pt. 1: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/3/a) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-44913a70087f36fcd98212dcf0eea017]: Modification: Pt. 1: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/3/a) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c16546681]: Textual amendment: Chapter heading and Ss. 42A, 42B inserted (1.4.1997) by [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55), [s. 85](https://www.legislation.gov.uk/ukpga/1996/55/section/85) (with [s. 43(1)(6)](https://www.legislation.gov.uk/ukpga/1996/55/section/43/1/6)); [S.I. 1997/1005](https://www.legislation.gov.uk/uksi/1997/1005), [art. 4](https://www.legislation.gov.uk/uksi/1997/1005/article/4)
 
-[^key-2ce62c2bd8b08860a614a78ec8845242]: Textual amendment: Pt. I Ch. III repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-2ce62c2bd8b08860a614a78ec8845242]: Textual amendment: Pt. I Ch. III repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-c57249749ae38f4dae2d1a1b473e3a33]: Textual amendment: Pt. I Ch. IV repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-c57249749ae38f4dae2d1a1b473e3a33]: Textual amendment: Pt. I Ch. IV repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-4455347439eef59d7091b6f5b1282677]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ukpga/1990/42/part/2) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with Sch. 18); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4455347439eef59d7091b6f5b1282677]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ukpga/1990/42/part/2) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with Sch. 18); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-5c9662bd913d357a74bd1f30c9d99ddc]: Modification: Pt. 3: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/5) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5c9662bd913d357a74bd1f30c9d99ddc]: Modification: Pt. 3: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/5) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-64da9c60ca51e3a95f779fb19f115cfb]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1990/42/part/3) modified (1.4.2025) by [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [4](https://www.legislation.gov.uk/uksi/2025/160/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2025/160/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2025/160/article/8))
+[^c-64da9c60ca51e3a95f779fb19f115cfb]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1990/42/part/3) modified (1.4.2025) by [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [4](https://www.legislation.gov.uk/uksi/2025/160/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2025/160/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2025/160/article/8))
 
-[^key-12ed69525573e81d306630813f0319f7]: Textual amendment: Ss. 97A 97B and cross-heading inserted (8.4.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/30/2), [47(2)(b)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/b)
+[^c-12ed69525573e81d306630813f0319f7]: Textual amendment: Ss. 97A 97B and cross-heading inserted (8.4.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/30/2), [47(2)(b)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/b)
 
 [^c16548371]: Modification: [Pt. V](https://www.legislation.gov.uk/ukpga/1990/42/part/V) (ss. 142–150) modified by [S.I. 1990/2579](https://www.legislation.gov.uk/uksi/1990/2579), [art. 2(2)](https://www.legislation.gov.uk/uksi/1990/2579/article/2/2)
 

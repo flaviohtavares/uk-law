@@ -48,11 +48,11 @@ This instrument contains only regulations made by virtue of, or consequential up
 
 In accordance with section 236(3)[^f00006] of the Employment Rights Act 1996 and section 176(1)(a)[^f00007] of the Social Security Contributions and Benefits Act 1992, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-6cfdf420be65b745cb92fbe4d5b6e29d]
+## 1. Citation and commencement[^c-6cfdf420be65b745cb92fbe4d5b6e29d]
 
 These Regulations may be cited as the Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 and come into force on 6th April 2020.
 
-## 2. Social Security (Credits) Regulations 1975[^key-d308df9eb4dd089e0f425cb3235c602d]
+## 2. Social Security (Credits) Regulations 1975[^c-d308df9eb4dd089e0f425cb3235c602d]
 
 Regulation 9C (credits for adoption pay period, shared parental pay period, additional paternity pay period and maternity pay period) of the Social Security (Credits) Regulations 1975[^f00008] is amended as follows—
 
@@ -73,7 +73,7 @@ Regulation 9C (credits for adoption pay period, shared parental pay period, addi
 
   .
 
-## 3. Statutory Sick Pay (General) Regulations 1982[^key-3ad1b90d41da6241412e792cfb7d6c79]
+## 3. Statutory Sick Pay (General) Regulations 1982[^c-3ad1b90d41da6241412e792cfb7d6c79]
 
 In the Statutory Sick Pay (General) Regulations 1982[^f00010], in regulation 17 (meaning of “earnings”), in paragraph (3) at the end insert—
 
@@ -83,7 +83,7 @@ In the Statutory Sick Pay (General) Regulations 1982[^f00010], in regulation 17 
 
 .
 
-## 4. Statutory Maternity Pay (General) Regulations 1986[^key-203f479d7bc7877fbee7261a9a4b15f4]
+## 4. Statutory Maternity Pay (General) Regulations 1986[^c-203f479d7bc7877fbee7261a9a4b15f4]
 
 (1) The Statutory Maternity Pay (General) Regulations 1986[^f00011] are amended as follows.
 
@@ -97,7 +97,7 @@ In the Statutory Sick Pay (General) Regulations 1982[^f00010], in regulation 17 
 
 .
 
-## 5. Income Support (General) Regulations 1987[^key-08447e052f3e4a70de9852df6e9b1c5a]
+## 5. Income Support (General) Regulations 1987[^c-08447e052f3e4a70de9852df6e9b1c5a]
 
 (1) The Income Support (General) Regulations 1987[^f00012] are amended as follows.
 
@@ -129,7 +129,7 @@ In the Statutory Sick Pay (General) Regulations 1982[^f00010], in regulation 17 
 - (a) after “12ZB” insert “or under Part 12ZD”;
 - (b) for “or shared parental leave” substitute “, shared parental leave or parental bereavement leave”.
 
-## 6. Firefighters’ Pension Scheme Order 1992[^key-178b79ccdddd5785137bb2c0adf70454]
+## 6. Firefighters’ Pension Scheme Order 1992[^c-178b79ccdddd5785137bb2c0adf70454]
 
 (1) The Firefighters’ Pension Scheme Order 1992[^f00014] is amended as follows.
 
@@ -154,7 +154,7 @@ In the Statutory Sick Pay (General) Regulations 1982[^f00010], in regulation 17 
 
   .
 
-## 7. National Health Service Pension Scheme Regulations 1995[^key-f760abe7dca205a0542ad9bb67acd1c9]
+## 7. National Health Service Pension Scheme Regulations 1995[^c-f760abe7dca205a0542ad9bb67acd1c9]
 
 (1) The National Health Service Pension Scheme Regulations 1995[^f00015] are amended as follows.
 
@@ -173,7 +173,7 @@ In the Statutory Sick Pay (General) Regulations 1982[^f00010], in regulation 17 
   - (ii) in sub-paragraph (2C)(b) after “shared parental leave” insert “, parental bereavement leave”.
 - (b) in paragraph 23(5)(c) (accounts and actuarial reports) after “shared parental leave payments” insert “, parental bereavement leave payments”.
 
-## 8. Jobseeker’s Allowance Regulations 1996[^key-a066834c63552f7c9bf8a68fe301f267]
+## 8. Jobseeker’s Allowance Regulations 1996[^c-a066834c63552f7c9bf8a68fe301f267]
 
 (1) The Jobseeker’s Allowance Regulations 1996[^f00016] are amended as follows.
 
@@ -198,7 +198,7 @@ In the Statutory Sick Pay (General) Regulations 1982[^f00010], in regulation 17 
 - (a) after “statutory shared parental pay by virtue of Part 12ZC of the Benefits Act,” insert “statutory parental bereavement pay by virtue of Part 12ZD of the Benefits Act,”;
 - (b) for “or shared parental leave” substitute “, shared parental leave or parental bereavement leave”.
 
-## 9. Social Security (Maternity Allowance) (Earnings) Regulations 2000[^key-f98d9359b1ad5e2e51003b3663b08590]
+## 9. Social Security (Maternity Allowance) (Earnings) Regulations 2000[^c-f98d9359b1ad5e2e51003b3663b08590]
 
 In the Social Security (Maternity Allowance) (Earnings) Regulations 2000[^f00017], in regulation 2 (specified payments for employed earners), in paragraph (1) at the end insert—
 
@@ -208,7 +208,7 @@ In the Social Security (Maternity Allowance) (Earnings) Regulations 2000[^f00017
 
 .
 
-## 10. State Pension Credit Regulations 2002[^key-c3a16ec6579dfa46494e507b4398837c]
+## 10. State Pension Credit Regulations 2002[^c-c3a16ec6579dfa46494e507b4398837c]
 
 (1) The State Pension Credit Regulations 2002[^f00018] are amended as follows.
 
@@ -232,7 +232,7 @@ In the Social Security (Maternity Allowance) (Earnings) Regulations 2000[^f00017
 
 (5) In Schedule 2 (housing costs), in paragraph 2 (remunerative work), in sub-paragraph (7) after “shared parental leave” insert “, parental bereavement leave”.
 
-## 11. Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^key-000173a3400b70686a4b49b2d83f4d14]
+## 11. Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^c-000173a3400b70686a4b49b2d83f4d14]
 
 In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f00019], in regulation 5 (time off in connection with childbirth and adoption)—
 
@@ -254,7 +254,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
   .
 
-## 12. Tax Credits (Definition and Calculation of Income) Regulations 2002[^key-ebb764f8bfb59afa68e94884763adbae]
+## 12. Tax Credits (Definition and Calculation of Income) Regulations 2002[^c-ebb764f8bfb59afa68e94884763adbae]
 
 (1) The Tax Credits (Definition and Calculation of Income) Regulations 2002[^f00020] are amended as follows.
 
@@ -266,7 +266,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 .
 
-## 13. Teachers’ Superannuation (Scotland) Regulations 2005[^key-311c702823f1d1241249859594f987e4]
+## 13. Teachers’ Superannuation (Scotland) Regulations 2005[^c-311c702823f1d1241249859594f987e4]
 
 (1) The Teachers’ Superannuation (Scotland) Regulations 2005[^f00021] are amended as follows.
 
@@ -298,7 +298,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 .
 
-## 14. Housing Benefit Regulations 2006[^key-4a55696be5757af9304a7075499ab954]
+## 14. Housing Benefit Regulations 2006[^c-4a55696be5757af9304a7075499ab954]
 
 (1) The Housing Benefit Regulations 2006[^f00022] are amended as follows.
 
@@ -327,7 +327,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (7) In regulation 75E (exception to the benefit cap: current or recent work), in paragraph (4) in the words after sub-paragraph (b) for “or shared parental leave” substitute “, shared parental leave or parental bereavement leave”.
 
-## 15. Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-cbe8c6b54e8e33a0da891823fb30142c]
+## 15. Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-cbe8c6b54e8e33a0da891823fb30142c]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) 2006[^f00023] is amended as follows.
 
@@ -362,7 +362,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (7) In regulation 36 (calculation of net earnings of employed earners), in paragraph (2)(d) for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
 
-## 16. The Firefighters’ Pension Scheme (England) Order 2006[^key-4da56a5262c4cf6832b9ba83d5d8645c]
+## 16. The Firefighters’ Pension Scheme (England) Order 2006[^c-4da56a5262c4cf6832b9ba83d5d8645c]
 
 (1) The Firefighters’ Pension Scheme (England) Order 2006[^f00024] is amended as follows.
 
@@ -384,7 +384,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
   - (i) in paragraph 2(5)(c) (final pensionable pay) after “ordinary adoption leave” insert “, parental bereavement leave,”
   - (ii) in paragraph 3(3) (pension contributions), after “paternity” in both places it occurs, insert “, parental bereavement”.
 
-## 17. The Firefighters’ Pensions Scheme (Scotland) Order 2007[^key-1e33647f886529ca86124deee290c9b1]
+## 17. The Firefighters’ Pensions Scheme (Scotland) Order 2007[^c-1e33647f886529ca86124deee290c9b1]
 
 (1) The Firefighters’ Pensions Scheme (Scotland) Order 2007[^f00025] is amended as follows.
 
@@ -401,7 +401,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
   - (i) in paragraph 2(5)(c) (final pensionable pay) after “ordinary adoption leave” insert “parental bereavement leave,”;
   - (ii) in paragraph 3(3) (pension contributions) after “paternity” in both places it occurs insert “, parental bereavement”.
 
-## 18. The National Health Service Pension Scheme Regulations 2008[^key-f22ef015555ea04f61d48deb3375a9b0]
+## 18. The National Health Service Pension Scheme Regulations 2008[^c-f22ef015555ea04f61d48deb3375a9b0]
 
 (1) The National Health Service Pension Scheme Regulations 2008[^f00026] are amended as follows.
 
@@ -478,7 +478,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (13) In regulation 3.J.14 (employing authority and certain member record keeping and contribution estimates) in paragraphs (4)(c) and (5)(e) after “shared parental leave payments” in both paragraphs insert “, parental bereavement leave payments”.
 
-## 19. Employment and Support Allowance Regulations 2008[^key-677c11667b890c92418a503972f499f6]
+## 19. Employment and Support Allowance Regulations 2008[^c-677c11667b890c92418a503972f499f6]
 
 (1) The Employment and Support Allowance Regulations 2008[^f00027] are amended as follows.
 
@@ -501,7 +501,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
   - (ii) after “shared parental leave” insert “, parental bereavement leave”;
 - (b) in paragraph 5 after “shared parental leave” insert “, parental bereavement leave”.
 
-## 20. Teachers’ Pensions Regulations 2010[^key-2e0d3f3a17fb24ece4513128f1b5ecfd]
+## 20. Teachers’ Pensions Regulations 2010[^c-2e0d3f3a17fb24ece4513128f1b5ecfd]
 
 (1) The Teachers’ Pensions Regulations 2010[^f00028] are amended as follows.
 
@@ -544,13 +544,13 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
   .
 
-## 21. Agency Workers Regulations 2010[^key-72d6f242633367aaf34b138eb825ad24]
+## 21. Agency Workers Regulations 2010[^c-72d6f242633367aaf34b138eb825ad24]
 
 (1) The Agency Workers Regulations 2010[^f00029] are amended as follows.
 
 (2) In regulation 6 (relevant terms and conditions), in paragraph (3)(c) after “paternity” insert “, parental bereavement”.
 
-## 22. The National Health Service Superannuation Scheme (Scotland) Regulations 2011[^key-0c00a51f2f03f7691cc986016ad2db15]
+## 22. The National Health Service Superannuation Scheme (Scotland) Regulations 2011[^c-0c00a51f2f03f7691cc986016ad2db15]
 
 (1) The National Health Service Superannuation Scheme (Scotland) Regulations 2011[^f00030] are amended as follows.
 
@@ -558,13 +558,13 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (3) In regulation P1 (maternity, paternity and adoption absence) in each of paragraphs (1), (2) and (4) after “shared parental” insert “, parental bereavement”.
 
-## 23. The Investment Bank Special Administration Regulations 2011[^key-4807e26d985b5ebb7cea6c7d7ef23488]
+## 23. The Investment Bank Special Administration Regulations 2011[^c-4807e26d985b5ebb7cea6c7d7ef23488]
 
 (1) The Investment Bank Special Administration Regulations 2011[^f00031] are amended as follows.
 
 (2) In Schedule 6 (modifications and consequential amendments) in Part 1, in the list of secondary legislation after “Additional Statutory Paternity Pay (General) Regulations 2010” insert “Statutory Parental Bereavement Pay (General) Regulations 2020”.
 
-## 24. Council Tax Reduction (Scotland) Regulations 2012[^key-ac82169da72a801c60e0c5b946f683f4]
+## 24. Council Tax Reduction (Scotland) Regulations 2012[^c-ac82169da72a801c60e0c5b946f683f4]
 
 (1) The Council Tax Reduction (Scotland) Regulations 2012[^f00032] are amended as follows.
 
@@ -592,7 +592,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (6) In regulation 35 (calculation of net earnings of employed earners), in paragraph (3)(d) after “statutory shared parental pay” insert “, statutory parental bereavement pay”.
 
-## 25. Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^key-201f609a046046732ac7ff183a438d9c]
+## 25. Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^c-201f609a046046732ac7ff183a438d9c]
 
 (1) The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00033] are amended as follows.
 
@@ -627,7 +627,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (7) In regulation 33 (calculation of net earnings of employed earners), in paragraph (2)(d) after “statutory shared parental pay” substitute “, statutory parental bereavement pay”.
 
-## 26. Education (Specified Work) (England) Regulations 2012[^key-e0b20b371990cc2ffb4bfa78f3bf6d9b]
+## 26. Education (Specified Work) (England) Regulations 2012[^c-e0b20b371990cc2ffb4bfa78f3bf6d9b]
 
 (1) The Education (Specified Work) (England) Regulations 2012[^f00034], are amended as follows.
 
@@ -637,7 +637,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 .
 
-## 27. Education (Induction Arrangements for School Teachers) (England) Regulations 2012[^key-07ae3070cf95929cd967b60fc4ba849b]
+## 27. Education (Induction Arrangements for School Teachers) (England) Regulations 2012[^c-07ae3070cf95929cd967b60fc4ba849b]
 
 (1) The Education (Induction Arrangements for School Teachers) (England) Regulations 2012[^f00035], are amended as follows.
 
@@ -652,7 +652,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 .
 
-## 28. Universal Credit Regulations 2013[^key-fd6b3a3dba0ae3b24eecb224a5295f9d]
+## 28. Universal Credit Regulations 2013[^c-fd6b3a3dba0ae3b24eecb224a5295f9d]
 
 (1) The Universal Credit Regulations 2013[^f00037] are amended as follows.
 
@@ -672,7 +672,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 .
 
-## 29. Jobseeker’s Allowance Regulations 2013[^key-220eb10af74ad1d7b40a3d97f478ea80]
+## 29. Jobseeker’s Allowance Regulations 2013[^c-220eb10af74ad1d7b40a3d97f478ea80]
 
 (1) The Jobseeker’s Allowance Regulations 2013[^f00038] are amended as follows.
 
@@ -686,13 +686,13 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (4) In regulation 58 (earnings of employed earners), in paragraph (2)(c), after “shared parental leave” insert “, parental bereavement leave”.
 
-## 30. Employment and Support Allowance Regulations 2013[^key-13793813b8b56348033762ee3f856f0a]
+## 30. Employment and Support Allowance Regulations 2013[^c-13793813b8b56348033762ee3f856f0a]
 
 (1) The Employment and Support Allowance Regulations 2013[^f00039] are amended as follows.
 
 (2) In regulation 80 (earnings of employed earners) in paragraph (2)(b) after “75E or 75G of that Act” insert “, parental bereavement leave under section 80EA of that Act”.
 
-## 31. Local Government Pension Scheme Regulations 2013[^key-e57ce57b6eefad769ec8247c1dcb491e]
+## 31. Local Government Pension Scheme Regulations 2013[^c-e57ce57b6eefad769ec8247c1dcb491e]
 
 (1) The Local Government Pension Scheme Regulations 2013[^f00040] are amended as follows.
 
@@ -716,7 +716,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
   ;
 - (c) in the definition of “statutory pay” after “shared parental” insert “, parental bereavement”.
 
-## 32. The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013[^key-67d262dfde60b16c897430f2fbf541b7]
+## 32. The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013[^c-67d262dfde60b16c897430f2fbf541b7]
 
 (1) The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013[^f00041] are amended as follows.
 
@@ -792,7 +792,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 .
 
-## 33. Teachers’ Pension Scheme Regulations 2014[^key-4c28c80c2d1c2c08f3433612d9578d8f]
+## 33. Teachers’ Pension Scheme Regulations 2014[^c-4c28c80c2d1c2c08f3433612d9578d8f]
 
 (1) The Teachers’ Pension Scheme Regulations 2014[^f00042] are amended as follows.
 
@@ -830,7 +830,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (11) In regulation 219 (employment records), in paragraph (2)(f) after “shared parental leave” insert “, parental bereavement leave”.
 
-## 34. Teachers’ Pension Scheme (Scotland) (No 2) Regulations 2014[^key-96ff6cfd1bffcc704fb37568b1b51f17]
+## 34. Teachers’ Pension Scheme (Scotland) (No 2) Regulations 2014[^c-96ff6cfd1bffcc704fb37568b1b51f17]
 
 (1) The Teachers’ Pension Scheme (Scotland) (No 2) Regulations 2014[^f00043] are amended as follows.
 
@@ -862,7 +862,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (11) In regulation 209 (employment records), in paragraph (2)(f) after “shared parental leave” insert “, parental bereavement leave”.
 
-## 35. Firefighters’ Pension Scheme (England) Regulations 2014[^key-ce3e7cf5afbd707ea932d59a2452ff31]
+## 35. Firefighters’ Pension Scheme (England) Regulations 2014[^c-ce3e7cf5afbd707ea932d59a2452ff31]
 
 (1) The Firefighters’ Pension Scheme (England) Regulations 2014[^f00044] are amended as follows.
 
@@ -895,7 +895,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (4) In regulation 113 (contributions during child-related leave), in paragraph (3) after “shared parental leave” insert “, parental bereavement leave”.
 
-## 36. Childcare Payments (Eligibility) Regulations 2015[^key-a6189369ec0184232d3373e748b8b5ab]
+## 36. Childcare Payments (Eligibility) Regulations 2015[^c-a6189369ec0184232d3373e748b8b5ab]
 
 (1) The Childcare Payments (Eligibility) Regulations 2015[^f00045] are amended as follows.
 
@@ -908,7 +908,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 .
 
-## 37. National Health Service Pension Scheme Regulations 2015[^key-597fa34648707e88b685f2dc3528557b]
+## 37. National Health Service Pension Scheme Regulations 2015[^c-597fa34648707e88b685f2dc3528557b]
 
 (1) The National Health Service Pension Scheme Regulations 2015[^f00046] are amended as follows.
 
@@ -927,7 +927,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (7) In Schedule 15 (definitions) at the appropriate place in Column 1 insert “parental bereavement leave, and for the corresponding entry in Column 2 insert “the meaning given in regulation 3 of the Parental Bereavement Leave Regulations 2020”.
 
-## 38. The National Health Service Pension Scheme (Scotland) Regulations 2015[^key-460dfd3fb38bdfb06edb2c75aa2e6be6]
+## 38. The National Health Service Pension Scheme (Scotland) Regulations 2015[^c-460dfd3fb38bdfb06edb2c75aa2e6be6]
 
 (1) The National Health Service Pension Scheme (Scotland) Regulations 2015[^f00047] are amended as follows.
 
@@ -943,7 +943,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 > | --- | --- |
 > | “parental bereavement leave” | regulation 3 of the Parental Bereavement Leave Regulations 2020 |
 
-## 39. Firefighters’ Pension Scheme (Scotland) Regulations 2015[^key-fe342bcd104b5ba3861f0578c8c06bd9]
+## 39. Firefighters’ Pension Scheme (Scotland) Regulations 2015[^c-fe342bcd104b5ba3861f0578c8c06bd9]
 
 (1) The Firefighters’ Pension Scheme (Scotland) Regulations 2015[^f00048] are amended as follows.
 
@@ -976,11 +976,11 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (4) In regulation 113 (contributions during child-related leave), in paragraph (3) after “shared parental leave” insert “, parental bereavement leave”.
 
-## 40. Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^key-c99788bdf2aa4c7318349221349c4d55]
+## 40. Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^c-c99788bdf2aa4c7318349221349c4d55]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 41. Local Government Pension Scheme (Scotland) Regulations 2018[^key-f5ce6de046703afd1055f10cbc347247]
+## 41. Local Government Pension Scheme (Scotland) Regulations 2018[^c-f5ce6de046703afd1055f10cbc347247]
 
 (1) The Local Government Pension Scheme (Scotland) Regulations 2018[^f00050] are amended as follows.
 
@@ -1038,168 +1038,168 @@ These Regulations are part of a package of legislative measures and the relevant
 
 [^f00007]: Footnote: Section 176(1)(a) was amended by paragraph 6 of the Schedule to the Parental Bereavement (Leave and Pay) Act 2018.
 
-[^key-6cfdf420be65b745cb92fbe4d5b6e29d]: Commencement: Reg. 1 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-6cfdf420be65b745cb92fbe4d5b6e29d]: Commencement: Reg. 1 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
-[^key-d308df9eb4dd089e0f425cb3235c602d]: Commencement: Reg. 2 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-d308df9eb4dd089e0f425cb3235c602d]: Commencement: Reg. 2 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00008]: Footnote: [S.I. 1975/556](https://www.legislation.gov.uk/uksi/1975/556). Regulation 9C was inserted by [S.I. 1988/516](https://www.legislation.gov.uk/uksi/1988/516) and substituted by [S.I. 2003/521](https://www.legislation.gov.uk/uksi/2003/521). It was amended by [S.I. 2012/766](https://www.legislation.gov.uk/uksi/2012/766) and [2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
 [^f00009]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 12ZD was inserted by the Schedule to the Parental Bereavement Leave and Pay Act [2019 c. 24](https://www.legislation.gov.uk/ukpga/2019/24).
 
-[^key-3ad1b90d41da6241412e792cfb7d6c79]: Commencement: Reg. 3 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-3ad1b90d41da6241412e792cfb7d6c79]: Commencement: Reg. 3 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00010]: Footnote: [S.I. 1982/894](https://www.legislation.gov.uk/uksi/1982/894); relevant amending instruments are [S.I. 2002/2690](https://www.legislation.gov.uk/uksi/2002/2690) and [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-203f479d7bc7877fbee7261a9a4b15f4]: Commencement: Reg. 4 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-203f479d7bc7877fbee7261a9a4b15f4]: Commencement: Reg. 4 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00011]: Footnote: [S.I. 1986/1960](https://www.legislation.gov.uk/uksi/1986/1960); relevant amending instruments are [S.I. 2002/2690](https://www.legislation.gov.uk/uksi/2002/2690) and [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-08447e052f3e4a70de9852df6e9b1c5a]: Commencement: Reg. 5 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-08447e052f3e4a70de9852df6e9b1c5a]: Commencement: Reg. 5 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00012]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are [S.I. 1993/2119](https://www.legislation.gov.uk/uksi/1993/2119), [S.I. 2002/2689](https://www.legislation.gov.uk/uksi/2002/2689), [S.I. 2012/757](https://www.legislation.gov.uk/uksi/2012/757) and [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
 [^f00013]: Footnote: [S.I. 2002/2007](https://www.legislation.gov.uk/uksi/2002/2007); amended by [S.I. 2011/1035](https://www.legislation.gov.uk/uksi/2011/1035); there are other amending instruments but none is relevant.
 
-[^key-178b79ccdddd5785137bb2c0adf70454]: Commencement: Reg. 6 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-178b79ccdddd5785137bb2c0adf70454]: Commencement: Reg. 6 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00014]: Footnote: [S.I. 1992/129](https://www.legislation.gov.uk/uksi/1992/129); relevant amending instruments are [S.I. 2004/1912](https://www.legislation.gov.uk/uksi/2004/1912), [S.S.I. 2004/385](https://www.legislation.gov.uk/ssi/2004/385), [S.S.I. 2006/342](https://www.legislation.gov.uk/ssi/2006/342), [S.I. 2006/3432](https://www.legislation.gov.uk/uksi/2006/3432), [S.I. 2006/1810](https://www.legislation.gov.uk/uksi/2006/1810), [S.S.I. 2007/199](https://www.legislation.gov.uk/ssi/2007/199), [S.I. 2007/1072](https://www.legislation.gov.uk/uksi/2007/1072), and [S.I. 2007/1074](https://www.legislation.gov.uk/uksi/2007/1074). The Scheme was made under section 26 of the Fire Services Act [1947 (c.41)](https://www.legislation.gov.uk/ukpga/1947/41). That Act was repealed by section 52 of, and Schedule 2 to, the Fire and Rescue Services Act [2004 (c.21)](https://www.legislation.gov.uk/ukpga/2004/21). Subsections (1) to (5) of section 26 were continued in force, for the purposes of the scheme established under that section as the Firemen’s Pension Scheme, by [S.I. 2004/2306](https://www.legislation.gov.uk/uksi/2004/2306). The name of the scheme was changed, in relation to England and Scotland, by article 4(1) of [S.I. 2004/2306](https://www.legislation.gov.uk/uksi/2004/2306).
 
-[^key-f760abe7dca205a0542ad9bb67acd1c9]: Commencement: Reg. 7 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-f760abe7dca205a0542ad9bb67acd1c9]: Commencement: Reg. 7 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00015]: Footnote: [S.I. 1995/300](https://www.legislation.gov.uk/uksi/1995/300): relevant amending instruments are [S.I. 2007/3280](https://www.legislation.gov.uk/uksi/2007/3280) and [S.I. 2016/245](https://www.legislation.gov.uk/uksi/2016/245).
 
-[^key-a066834c63552f7c9bf8a68fe301f267]: Commencement: Reg. 8 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-a066834c63552f7c9bf8a68fe301f267]: Commencement: Reg. 8 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00016]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207): relevant amending instruments are [S.I. 2002/2689](https://www.legislation.gov.uk/uksi/2002/2689), [S.I. 2008/698](https://www.legislation.gov.uk/uksi/2008/698), [S.I. 2012/757](https://www.legislation.gov.uk/uksi/2012/757) and [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-f98d9359b1ad5e2e51003b3663b08590]: Commencement: Reg. 9 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-f98d9359b1ad5e2e51003b3663b08590]: Commencement: Reg. 9 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00017]: Footnote: [S.I. 2000/688](https://www.legislation.gov.uk/uksi/2000/688): relevant amending instruments are [S.I. 2002/2690](https://www.legislation.gov.uk/uksi/2002/2690) and [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-c3a16ec6579dfa46494e507b4398837c]: Commencement: Reg. 10 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-c3a16ec6579dfa46494e507b4398837c]: Commencement: Reg. 10 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00018]: Footnote: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792): relevant amending instruments are [S.I. 2003/2274](https://www.legislation.gov.uk/uksi/2003/2274) and [2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-000173a3400b70686a4b49b2d83f4d14]: Commencement: Reg. 11 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-000173a3400b70686a4b49b2d83f4d14]: Commencement: Reg. 11 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00019]: Footnote: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005): relevant amending instruments are [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019), [S.I. 2012/757](https://www.legislation.gov.uk/uksi/2012/757) and [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-ebb764f8bfb59afa68e94884763adbae]: Commencement: Reg. 12 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-ebb764f8bfb59afa68e94884763adbae]: Commencement: Reg. 12 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00020]: Footnote: [S.I. 2002/2006](https://www.legislation.gov.uk/uksi/2002/2006): relevant amending instruments are [S.I. 2010/2494](https://www.legislation.gov.uk/uksi/2010/2494) and [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-311c702823f1d1241249859594f987e4]: Commencement: Reg. 13 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-311c702823f1d1241249859594f987e4]: Commencement: Reg. 13 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00021]: Footnote: [S.S.I. 2005/393](https://www.legislation.gov.uk/ssi/2005/393): amended by [S.S.I. 2008/227](https://www.legislation.gov.uk/ssi/2008/227); there are other amending instruments but none is relevant.
 
-[^key-4a55696be5757af9304a7075499ab954]: Commencement: Reg. 14 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-4a55696be5757af9304a7075499ab954]: Commencement: Reg. 14 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00022]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213): relevant amending instruments are [S.I. 2012/757](https://www.legislation.gov.uk/uksi/2012/757), [S.I. 2012/2994](https://www.legislation.gov.uk/uksi/2012/2994) and [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-cbe8c6b54e8e33a0da891823fb30142c]: Commencement: Reg. 15 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-cbe8c6b54e8e33a0da891823fb30142c]: Commencement: Reg. 15 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00023]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214): relevant amending instruments are [S.I. 2012/757](https://www.legislation.gov.uk/uksi/2012/757) and [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-4da56a5262c4cf6832b9ba83d5d8645c]: Commencement: Reg. 16 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-4da56a5262c4cf6832b9ba83d5d8645c]: Commencement: Reg. 16 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00024]: Footnote: [S.I. 2006/3432](https://www.legislation.gov.uk/uksi/2006/3432), to which there are amendments not relevant to these Regulations.
 
-[^key-1e33647f886529ca86124deee290c9b1]: Commencement: Reg. 17 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-1e33647f886529ca86124deee290c9b1]: Commencement: Reg. 17 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00025]: Footnote: [S.S.I. 2007/199](https://www.legislation.gov.uk/ssi/2007/199): relevant amending instruments are [S.I. 2012/757](https://www.legislation.gov.uk/uksi/2012/757), [S.I. 2012/2994](https://www.legislation.gov.uk/uksi/2012/2994) and [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-f22ef015555ea04f61d48deb3375a9b0]: Commencement: Reg. 18 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-f22ef015555ea04f61d48deb3375a9b0]: Commencement: Reg. 18 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00026]: Footnote: [S.I. 2008/653](https://www.legislation.gov.uk/uksi/2008/653): amended by [S.I. 2016/245](https://www.legislation.gov.uk/uksi/2016/245); there are other amending instruments but none is relevant.
 
-[^key-677c11667b890c92418a503972f499f6]: Commencement: Reg. 19 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-677c11667b890c92418a503972f499f6]: Commencement: Reg. 19 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00027]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794): relevant amending instruments are [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630) and [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-2e0d3f3a17fb24ece4513128f1b5ecfd]: Commencement: Reg. 20 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-2e0d3f3a17fb24ece4513128f1b5ecfd]: Commencement: Reg. 20 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00028]: Footnote: [S.I. 2010/990](https://www.legislation.gov.uk/uksi/2010/990): relevant amending instruments are [S.I. 2011/614](https://www.legislation.gov.uk/uksi/2011/614) and [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-72d6f242633367aaf34b138eb825ad24]: Commencement: Reg. 21 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-72d6f242633367aaf34b138eb825ad24]: Commencement: Reg. 21 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00029]: Footnote: [S.I. 2010/93](https://www.legislation.gov.uk/uksi/2010/93), to which there are amendments not relevant to these Regulations.
 
-[^key-0c00a51f2f03f7691cc986016ad2db15]: Commencement: Reg. 22 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-0c00a51f2f03f7691cc986016ad2db15]: Commencement: Reg. 22 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00030]: Footnote: [S.S.I. 2011/117](https://www.legislation.gov.uk/ssi/2011/117): amended by [S.S.I. 2017/27](https://www.legislation.gov.uk/ssi/2017/27); there are other amending instruments but none is relevant.
 
-[^key-4807e26d985b5ebb7cea6c7d7ef23488]: Commencement: Reg. 23 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-4807e26d985b5ebb7cea6c7d7ef23488]: Commencement: Reg. 23 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00031]: Footnote: [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245), to which there are amendments not relevant to these Regulations.
 
-[^key-ac82169da72a801c60e0c5b946f683f4]: Commencement: Reg. 24 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-ac82169da72a801c60e0c5b946f683f4]: Commencement: Reg. 24 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00032]: Footnote: [S.S.I. 2012/303](https://www.legislation.gov.uk/ssi/2012/303); amended by [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255); there are other amending instruments but none is relevant.
 
-[^key-201f609a046046732ac7ff183a438d9c]: Commencement: Reg. 25 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-201f609a046046732ac7ff183a438d9c]: Commencement: Reg. 25 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00033]: Footnote: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319); amended by [S.S.I. 2014/3255](https://www.legislation.gov.uk/ssi/2014/3255); there are other amending instruments but none is relevant.
 
-[^key-e0b20b371990cc2ffb4bfa78f3bf6d9b]: Commencement: Reg. 26 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-e0b20b371990cc2ffb4bfa78f3bf6d9b]: Commencement: Reg. 26 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00034]: Footnote: [S.I. 2012/762](https://www.legislation.gov.uk/uksi/2012/762) amended by [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-07ae3070cf95929cd967b60fc4ba849b]: Commencement: Reg. 27 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-07ae3070cf95929cd967b60fc4ba849b]: Commencement: Reg. 27 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00035]: Footnote: [S.I. 2012/1115](https://www.legislation.gov.uk/uksi/2012/1115).
 
 [^f00036]: Footnote: [S.I. 1999/3312](https://www.legislation.gov.uk/uksi/1999/3312); regulation 7 has been amended by [S.I. 2002/2789](https://www.legislation.gov.uk/uksi/2002/2789) and [2006/2014](https://www.legislation.gov.uk/uksi/2006/2014).
 
-[^key-fd6b3a3dba0ae3b24eecb224a5295f9d]: Commencement: Reg. 28 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-fd6b3a3dba0ae3b24eecb224a5295f9d]: Commencement: Reg. 28 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00037]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376), amended by [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255); there are other amending instruments but none is relevant.
 
-[^key-220eb10af74ad1d7b40a3d97f478ea80]: Commencement: Reg. 29 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-220eb10af74ad1d7b40a3d97f478ea80]: Commencement: Reg. 29 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00038]: Footnote: [S.I. 2013/378](https://www.legislation.gov.uk/uksi/2013/378), amended by [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255); there are other amending instruments but none is relevant.
 
-[^key-13793813b8b56348033762ee3f856f0a]: Commencement: Reg. 30 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-13793813b8b56348033762ee3f856f0a]: Commencement: Reg. 30 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00039]: Footnote: [S.I. 2013/379](https://www.legislation.gov.uk/uksi/2013/379), amended by [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255); there are other amending instruments but none is relevant.
 
-[^key-e57ce57b6eefad769ec8247c1dcb491e]: Commencement: Reg. 31 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-e57ce57b6eefad769ec8247c1dcb491e]: Commencement: Reg. 31 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00040]: Footnote: [S.I. 2013/2356](https://www.legislation.gov.uk/uksi/2013/2356), amended by [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255); there are other amending instruments but none is relevant.
 
-[^key-67d262dfde60b16c897430f2fbf541b7]: Commencement: Reg. 32 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-67d262dfde60b16c897430f2fbf541b7]: Commencement: Reg. 32 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00041]: Footnote: [S.S.I. 2013/174](https://www.legislation.gov.uk/ssi/2013/174), amended by [S.S.I. 2017/27](https://www.legislation.gov.uk/ssi/2017/27); there are other amending instruments but none is relevant.
 
-[^key-4c28c80c2d1c2c08f3433612d9578d8f]: Commencement: Reg. 33 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-4c28c80c2d1c2c08f3433612d9578d8f]: Commencement: Reg. 33 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00042]: Footnote: [S.I. 2014/512](https://www.legislation.gov.uk/uksi/2014/512) amended by [S.I. 2014/2652](https://www.legislation.gov.uk/uksi/2014/2652) and [2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-96ff6cfd1bffcc704fb37568b1b51f17]: Commencement: Reg. 34 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-96ff6cfd1bffcc704fb37568b1b51f17]: Commencement: Reg. 34 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00043]: Footnote: [S.S.I. 2014/292](https://www.legislation.gov.uk/ssi/2014/292), amended by [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255), there are other amending instruments but none is relevant.
 
-[^key-ce3e7cf5afbd707ea932d59a2452ff31]: Commencement: Reg. 35 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-ce3e7cf5afbd707ea932d59a2452ff31]: Commencement: Reg. 35 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00044]: Footnote: [S.I. 2014/2848](https://www.legislation.gov.uk/uksi/2014/2848), amended by [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255), there are other amending instruments but none is relevant.
 
-[^key-a6189369ec0184232d3373e748b8b5ab]: Commencement: Reg. 36 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-a6189369ec0184232d3373e748b8b5ab]: Commencement: Reg. 36 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00045]: Footnote: [S.I. 2015/448](https://www.legislation.gov.uk/uksi/2015/448), to which there are amendments not relevant to these Regulations.
 
-[^key-597fa34648707e88b685f2dc3528557b]: Commencement: Reg. 37 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-597fa34648707e88b685f2dc3528557b]: Commencement: Reg. 37 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00046]: Footnote: [S.I. 2015/94](https://www.legislation.gov.uk/uksi/2015/94), amended by [S.I. 2016/245](https://www.legislation.gov.uk/uksi/2016/245), there are other amending instruments but none is relevant.
 
-[^key-460dfd3fb38bdfb06edb2c75aa2e6be6]: Commencement: Reg. 38 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-460dfd3fb38bdfb06edb2c75aa2e6be6]: Commencement: Reg. 38 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00047]: Footnote: [S.S.I. 2015/94](https://www.legislation.gov.uk/ssi/2015/94).
 
-[^key-fe342bcd104b5ba3861f0578c8c06bd9]: Commencement: Reg. 39 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-fe342bcd104b5ba3861f0578c8c06bd9]: Commencement: Reg. 39 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00048]: Footnote: [S.S.I. 2015/19](https://www.legislation.gov.uk/ssi/2015/19), amended by [S.I. 2016/245](https://www.legislation.gov.uk/uksi/2016/245), there are other amending instruments but none is relevant.
 
-[^key-c99788bdf2aa4c7318349221349c4d55]: Textual amendment: [Reg. 40](https://www.legislation.gov.uk/uksi/2020/354/regulation/40) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 6(2)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/6/2)
+[^c-c99788bdf2aa4c7318349221349c4d55]: Textual amendment: [Reg. 40](https://www.legislation.gov.uk/uksi/2020/354/regulation/40) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 6(2)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/6/2)
 
-[^key-f5ce6de046703afd1055f10cbc347247]: Commencement: Reg. 41 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
+[^c-f5ce6de046703afd1055f10cbc347247]: Commencement: Reg. 41 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1)
 
 [^f00050]: Footnote: [S.S.I. 2018/141](https://www.legislation.gov.uk/ssi/2018/141), to which there are amendments not relevant to these Regulations.

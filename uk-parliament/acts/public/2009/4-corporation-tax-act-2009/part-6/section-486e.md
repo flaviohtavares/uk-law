@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 486E. Excluded shares[^key-bdd9e92399c0e53fb3e19d45bbff1128][^key-d2c098ff5a88d27bc5ce87b60d28df9c][^key-95c1fbd74622548679c7f1d3760fe55c]
+## 486E. Excluded shares[^c-bdd9e92399c0e53fb3e19d45bbff1128][^c-d2c098ff5a88d27bc5ce87b60d28df9c][^c-95c1fbd74622548679c7f1d3760fe55c]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,11 +53,11 @@ summary: ''
 
 - (a) it and the holding company are connected companies,
 - (b) it is a relevant joint venture company, or
-- (c) it is a CFC within the meaning of Part 9A of TIOPA 2010[^key-94fbb23f2924f69ac0327235a650bb1e].
+- (c) it is a CFC within the meaning of Part 9A of TIOPA 2010[^c-94fbb23f2924f69ac0327235a650bb1e].
 
 (8) Section 466 (companies connected for an accounting period) applies for the purposes of subsection (7)(a).
 
-(9)[^key-a351f766e8d8dcdddbcad08b5a9a1ed7] For the purposes of subsection (7)(b) a company (“C”) is a relevant joint venture company if—
+(9)[^c-a351f766e8d8dcdddbcad08b5a9a1ed7] For the purposes of subsection (7)(b) a company (“C”) is a relevant joint venture company if—
 
 - (a) the holding company is one of two persons who, taken together, control C,
 - (b) the holding company has interests, rights and powers representing at least 40% of the holdings, rights and powers in respect of which the holding company and the second person fall to be taken as controlling C, and
@@ -72,20 +72,20 @@ summary: ''
 - (a) section 371RB of TIOPA 2010 (read with section 371RD of that Act) applies for the purpose of determining if two persons, taken together, control a company, and
 - (b) section 371RD of that Act applies for the purpose of determining if the requirements of paragraphs (b) and (c) are met in any case.
 
-(11)[^key-9fd7d94cb68b81e8f98143fd4cd21214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-9fd7d94cb68b81e8f98143fd4cd21214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) Section 550(3) (repos: ignoring effect on borrower of sale of securities) does not apply for the purposes of this section.
 
 ## Annotations
 
-[^key-bdd9e92399c0e53fb3e19d45bbff1128]: Modification: Ss. 486C-486E excluded (19.7.2011) by 1988 c. 1, Sch. 25 para. 12F(6) (as inserted (with effect in accordance with Sch. 12 para. 14(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/3))
+[^c-bdd9e92399c0e53fb3e19d45bbff1128]: Modification: Ss. 486C-486E excluded (19.7.2011) by 1988 c. 1, Sch. 25 para. 12F(6) (as inserted (with effect in accordance with Sch. 12 para. 14(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/3))
 
-[^key-d2c098ff5a88d27bc5ce87b60d28df9c]: Textual amendment: Pt. 6 Ch. 2A inserted (with effect in accordance with Sch. 24 paras. 11, 13-16 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/3)
+[^c-d2c098ff5a88d27bc5ce87b60d28df9c]: Textual amendment: Pt. 6 Ch. 2A inserted (with effect in accordance with Sch. 24 paras. 11, 13-16 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/3)
 
-[^key-95c1fbd74622548679c7f1d3760fe55c]: Modification: Pt. 6 Ch. 2A applied by 2010 c. 8, s. 371SP(2) (as inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1))
+[^c-95c1fbd74622548679c7f1d3760fe55c]: Modification: Pt. 6 Ch. 2A applied by 2010 c. 8, s. 371SP(2) (as inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1))
 
-[^key-94fbb23f2924f69ac0327235a650bb1e]: Textual amendment: Words in s. 486E(7)(c) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 27(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/27/2) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))
+[^c-94fbb23f2924f69ac0327235a650bb1e]: Textual amendment: Words in s. 486E(7)(c) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 27(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/27/2) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))
 
-[^key-a351f766e8d8dcdddbcad08b5a9a1ed7]: Textual amendment: S. 486E(9)(10) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 27(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/27/3) (with [Sch. 20 para. 51](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/51))
+[^c-a351f766e8d8dcdddbcad08b5a9a1ed7]: Textual amendment: S. 486E(9)(10) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 27(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/27/3) (with [Sch. 20 para. 51](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/51))
 
-[^key-9fd7d94cb68b81e8f98143fd4cd21214]: Textual amendment: S. 486E(11) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 27(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/27/4) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))
+[^c-9fd7d94cb68b81e8f98143fd4cd21214]: Textual amendment: S. 486E(11) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 27(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/27/4) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))

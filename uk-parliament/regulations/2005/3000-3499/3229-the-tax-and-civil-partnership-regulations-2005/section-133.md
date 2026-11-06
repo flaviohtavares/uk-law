@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133.[^key-2adcbf31912b85f0962213a5b6390992]
+## 133.[^c-2adcbf31912b85f0962213a5b6390992]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 22 (tonnage tax), in paragraph 144(2), for “husband or wife” sub
 
 ## Annotations
 
-[^key-2adcbf31912b85f0962213a5b6390992]: Commencement: Reg. 133 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-2adcbf31912b85f0962213a5b6390992]: Commencement: Reg. 133 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Review and power to amend sections 34 to 37[^key-d47b2ea279b3af06c9a44193fb320cba]
+## 38. Review and power to amend sections 34 to 37[^c-d47b2ea279b3af06c9a44193fb320cba]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d47b2ea279b3af06c9a44193fb320cba]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2012/11/section/38) in force at 22.4.2013 by [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/6/article/2/e)
+[^c-d47b2ea279b3af06c9a44193fb320cba]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2012/11/section/38) in force at 22.4.2013 by [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/6/article/2/e)

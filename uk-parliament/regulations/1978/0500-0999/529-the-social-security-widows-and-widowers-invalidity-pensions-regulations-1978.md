@@ -46,7 +46,7 @@ The Secretary of State for Social Services, in exercise of the powers conferred 
 
 (1) These regulations may be cited as the Social Security (Widow's and Widower's Invalidity Pensions) Regulations 1978 and shall come into operation on 6th April 1979.
 
-(2)[^key-5752a737db7243a08517d41abd612f79] In these Regulations, unless the context otherwise requires, “the Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992 and other expressions shall have the same meaning as in that Act.
+(2)[^c-5752a737db7243a08517d41abd612f79] In these Regulations, unless the context otherwise requires, “the Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992 and other expressions shall have the same meaning as in that Act.
 
 (3) Any reference in these regulations to any provision made by or contained in any enactment or instrument shall, except in so far as the context otherwise requires, be construed as a reference to that provision as amended or extended by any enactment or instrument and as including a reference to any provision which it re-enacts or replaces with or without modification.
 
@@ -54,11 +54,11 @@ The Secretary of State for Social Services, in exercise of the powers conferred 
 
 ## 2. Rate of invalidity pension for certain widows
 
-(1)[^key-d3007d5232ef1718eb3b23f280642c31] For the purpose of calculating the rate of an invalidity pension under section 15 of the Pensions Act for a woman under pensionable age to whom that section applies by virtue of sub-section (1)(c)(ii) of that section, sub-section (3) of that section shall have effect with the modification prescribed in paragraph (2) below. *(affected by repeal, see note)*[^key-d3007d5232ef1718eb3b23f280642c31]
+(1)[^c-d3007d5232ef1718eb3b23f280642c31] For the purpose of calculating the rate of an invalidity pension under section 15 of the Pensions Act for a woman under pensionable age to whom that section applies by virtue of sub-section (1)(c)(ii) of that section, sub-section (3) of that section shall have effect with the modification prescribed in paragraph (2) below. *(affected by repeal, see note)*[^c-d3007d5232ef1718eb3b23f280642c31]
 
-(2) In the said sub-section (3) for the words *(affected by repeal, see note)*[^key-d3007d5232ef1718eb3b23f280642c31] “whichever is the higher” *(affected by repeal, see note)*[^key-d3007d5232ef1718eb3b23f280642c31] there shall be substituted the words *(affected by repeal, see note)*[^key-d3007d5232ef1718eb3b23f280642c31] “whichever is the more favourable to her having regard to the effect of regulation 2A of the Social Security (Overlapping Benefits) Regulations 1975 as amended *(affected by repeal, see note)*[^key-d3007d5232ef1718eb3b23f280642c31].”.
+(2) In the said sub-section (3) for the words *(affected by repeal, see note)*[^c-d3007d5232ef1718eb3b23f280642c31] “whichever is the higher” *(affected by repeal, see note)*[^c-d3007d5232ef1718eb3b23f280642c31] there shall be substituted the words *(affected by repeal, see note)*[^c-d3007d5232ef1718eb3b23f280642c31] “whichever is the more favourable to her having regard to the effect of regulation 2A of the Social Security (Overlapping Benefits) Regulations 1975 as amended *(affected by repeal, see note)*[^c-d3007d5232ef1718eb3b23f280642c31].”.
 
-## 3. Rates of Category A retirement pensions for certain widows and widowers[^key-00e88f4bf8def33706efe33044a52129]
+## 3. Rates of Category A retirement pensions for certain widows and widowers[^c-00e88f4bf8def33706efe33044a52129]
 
 Where the rate of a person’s Category A retirement pension falls to be determined under sections 40(6)(b) or 41(5)(b) of the Contributions and Benefits Act it shall be equal to the higher of—
 
@@ -67,7 +67,7 @@ Where the rate of a person’s Category A retirement pension falls to be determi
 
 whichever is more favourable to him taking into account the effect of section 52 of the Contributions and Benefits Act.
 
-## 4. Prescribed Periods for the Purposes of Section 41 of the Contributions and Benefits Act.[^key-af02bc9020cbd742f5b7f153868a1c45]
+## 4. Prescribed Periods for the Purposes of Section 41 of the Contributions and Benefits Act.[^c-af02bc9020cbd742f5b7f153868a1c45]
 
 The prescribed period for the purposes of section 41(1)(b), (2)(a) and (3)(a) of the Contributions and Benefits Act shall be 13 weeks (“week” for this purpose meaning any period of 7 days) beginning with the day following the day on which the wife died.
 
@@ -83,10 +83,10 @@ Regulations 2, being made under the Social Security (Miscellaneous Provisions) A
 
 ## Annotations
 
-[^key-5752a737db7243a08517d41abd612f79]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1978/529/regulation/1/2) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/1995/829/regulation/9/2) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+[^c-5752a737db7243a08517d41abd612f79]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1978/529/regulation/1/2) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/1995/829/regulation/9/2) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
 
-[^key-d3007d5232ef1718eb3b23f280642c31]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/1978/529/regulation/2) revoked (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/1995/829/regulation/9/3) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+[^c-d3007d5232ef1718eb3b23f280642c31]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/1978/529/regulation/2) revoked (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/1995/829/regulation/9/3) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
 
-[^key-00e88f4bf8def33706efe33044a52129]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1978/529/regulation/3) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/1995/829/regulation/9/4) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+[^c-00e88f4bf8def33706efe33044a52129]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1978/529/regulation/3) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/1995/829/regulation/9/4) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
 
-[^key-af02bc9020cbd742f5b7f153868a1c45]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1978/529/regulation/4) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [9(5)](https://www.legislation.gov.uk/uksi/1995/829/regulation/9/5) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+[^c-af02bc9020cbd742f5b7f153868a1c45]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1978/529/regulation/4) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [9(5)](https://www.legislation.gov.uk/uksi/1995/829/regulation/9/5) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — FINANCIAL ASSESSMENT — PART-TIME GRANTS FOR DEPENDANTS[^key-6ad839f5ae7d11b3b7a344b19c372438]
+## SCHEDULE 6 — FINANCIAL ASSESSMENT — PART-TIME GRANTS FOR DEPENDANTS[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Regulation 102
 
-### 1. Definitions[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 1. Definitions[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Household income[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 2. Household income[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Calculation of eligible part-time student’s residual income[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 3. Calculation of eligible part-time student’s residual income[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Calculation of eligible part-time student’s partner’s residual income[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 4. Calculation of eligible part-time student’s partner’s residual income[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Calculation of contribution[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 5. Calculation of contribution[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Split contributions[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 6. Split contributions[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6ad839f5ae7d11b3b7a344b19c372438]: Textual amendment: Regulations revoked (with savings) (1.9.2013) by [The Education (Student Support) (Wales) Regulations 2012 (S.I. 2012/3097)](https://www.legislation.gov.uk/uksi/2012/3097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3097/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3))
+[^c-6ad839f5ae7d11b3b7a344b19c372438]: Textual amendment: Regulations revoked (with savings) (1.9.2013) by [The Education (Student Support) (Wales) Regulations 2012 (S.I. 2012/3097)](https://www.legislation.gov.uk/uksi/2012/3097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3097/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3))

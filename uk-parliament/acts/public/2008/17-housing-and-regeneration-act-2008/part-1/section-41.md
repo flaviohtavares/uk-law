@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Control of subsidiaries[^key-7949811b50984e44f401da4af139fac9]
+## 41. Control of subsidiaries[^c-7949811b50984e44f401da4af139fac9]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ without the consent of the Secretary of State.
 
 ## Annotations
 
-[^key-7949811b50984e44f401da4af139fac9]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2008/17/section/41) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(q)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/q) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-7949811b50984e44f401da4af139fac9]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2008/17/section/41) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(q)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/q) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

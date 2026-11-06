@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.5. Service by document exchange[^key-db15a17cd968d7e0c860572ff972a9fc]
+## 4.5. Service by document exchange[^c-db15a17cd968d7e0c860572ff972a9fc]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db15a17cd968d7e0c860572ff972a9fc]: Commencement: [Rule 4.5](https://www.legislation.gov.uk/uksi/2025/909/rule/4.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-db15a17cd968d7e0c860572ff972a9fc]: Commencement: [Rule 4.5](https://www.legislation.gov.uk/uksi/2025/909/rule/4.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

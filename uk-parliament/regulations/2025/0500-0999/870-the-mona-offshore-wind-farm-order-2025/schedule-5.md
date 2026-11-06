@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — Public rights of way to be temporarily closed or restricted[^key-9624d0acdab9d62ab827097fc68e937e]
+## SCHEDULE 5 — Public rights of way to be temporarily closed or restricted[^c-9624d0acdab9d62ab827097fc68e937e]
 
 *Extent: E+W*
 
 Article 13
 
-[^key-9624d0acdab9d62ab827097fc68e937e]
+[^c-9624d0acdab9d62ab827097fc68e937e]
 
 In the County of Conwy:
 
@@ -37,7 +37,7 @@ In the County of Conwy:
 | Llanfair TH 16 Bridleway | Between points 7a and 7b as shown on sheet 7 of the temporary closure of public rights of way plan |
 | Llanfair TH 19 Bridleway | Between points 8a and 8b as shown on sheet 7 of the temporary closure of public rights of way plan |
 
-[^key-9624d0acdab9d62ab827097fc68e937e]
+[^c-9624d0acdab9d62ab827097fc68e937e]
 
 In the County of Denbighshire:
 
@@ -50,4 +50,4 @@ In the County of Denbighshire:
 
 ## Annotations
 
-[^key-9624d0acdab9d62ab827097fc68e937e]: Commencement: Sch. 5 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-9624d0acdab9d62ab827097fc68e937e]: Commencement: Sch. 5 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)

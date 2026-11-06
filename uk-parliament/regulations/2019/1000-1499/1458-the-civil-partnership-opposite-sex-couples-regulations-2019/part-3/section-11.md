@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Religious employment of persons in same-sex or opposite-sex civil partnerships[^key-10af118f8433862729f3b2eb5a445006]
+## 11. Religious employment of persons in same-sex or opposite-sex civil partnerships[^c-10af118f8433862729f3b2eb5a445006]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ In Schedule 9 to the Equality Act 2010, in paragraph 2(4)—
 
 ## Annotations
 
-[^key-10af118f8433862729f3b2eb5a445006]: Commencement: Reg. 11 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-10af118f8433862729f3b2eb5a445006]: Commencement: Reg. 11 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00018]: Footnote: Paragraph (ca) was added by the Marriage (Same Sex Couples) Act 2013, Schedule 7, paragraph 45.

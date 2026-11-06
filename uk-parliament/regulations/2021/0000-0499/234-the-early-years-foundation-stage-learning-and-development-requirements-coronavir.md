@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons, England
 
-The Early Years Foundation Stage (Learning and Development Requirements) (Coronavirus) (Amendment) Order 2021 (revoked)[^key-3029c484edcbdb7c75419953b064f908]
+The Early Years Foundation Stage (Learning and Development Requirements) (Coronavirus) (Amendment) Order 2021 (revoked)[^c-3029c484edcbdb7c75419953b064f908]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 26th March 2021
 
-[^key-3029c484edcbdb7c75419953b064f908]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3029c484edcbdb7c75419953b064f908]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3029c484edcbdb7c75419953b064f908]
+## 1. Citation and commencement[^c-3029c484edcbdb7c75419953b064f908]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Early Years Foundation Stage (Learning and Development Requirements) Order 2007[^key-3029c484edcbdb7c75419953b064f908]
+## 2. Amendment of the Early Years Foundation Stage (Learning and Development Requirements) Order 2007[^c-3029c484edcbdb7c75419953b064f908]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3029c484edcbdb7c75419953b064f908]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3029c484edcbdb7c75419953b064f908]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3029c484edcbdb7c75419953b064f908]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3029c484edcbdb7c75419953b064f908]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3029c484edcbdb7c75419953b064f908]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/234) revoked (4.1.2024) by [The Early Years Foundation Stage (Learning and Development, Early Years Register and Welfare Requirements) (Amendment) Regulations 2023 (S.I. 2023/1338)](https://www.legislation.gov.uk/uksi/2023/1338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/5/c)
+[^c-3029c484edcbdb7c75419953b064f908]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/234) revoked (4.1.2024) by [The Early Years Foundation Stage (Learning and Development, Early Years Register and Welfare Requirements) (Amendment) Regulations 2023 (S.I. 2023/1338)](https://www.legislation.gov.uk/uksi/2023/1338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/5/c)

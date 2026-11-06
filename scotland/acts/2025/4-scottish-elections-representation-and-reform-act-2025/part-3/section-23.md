@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Restriction on which third parties may incur controlled expenditure[^key-7963150b33115bb974bb34ad920c8670][^key-19549c2b8b8e7aed7497b9a1cf6eb862]
+## 23. Restriction on which third parties may incur controlled expenditure[^c-7963150b33115bb974bb34ad920c8670][^c-19549c2b8b8e7aed7497b9a1cf6eb862]
 
 *Extent: S*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7963150b33115bb974bb34ad920c8670]: Commencement: S. 23 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-7963150b33115bb974bb34ad920c8670]: Commencement: S. 23 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-19549c2b8b8e7aed7497b9a1cf6eb862]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2025/4/section/23) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-19549c2b8b8e7aed7497b9a1cf6eb862]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2025/4/section/23) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

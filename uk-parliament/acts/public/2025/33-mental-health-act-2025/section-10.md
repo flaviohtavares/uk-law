@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Nomination of the responsible clinician[^key-8fbf2e359b7a105ce0c115bfd46dd4d4]
+## 10. Nomination of the responsible clinician[^c-8fbf2e359b7a105ce0c115bfd46dd4d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fbf2e359b7a105ce0c115bfd46dd4d4]: Commencement: S. 10 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-8fbf2e359b7a105ce0c115bfd46dd4d4]: Commencement: S. 10 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

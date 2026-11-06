@@ -51,7 +51,7 @@ The Interpretation Act (Northern Ireland) 1954[^c5488901] shall apply to Article
 
 ### 3. Increase in certain issues out of Consolidated Fund
 
-(1)[^key-af9415503b35ef5b725035334552f95c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-af9415503b35ef5b725035334552f95c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Para.(2) rep. by 1984 NI 7*
 
@@ -236,7 +236,7 @@ The following provisions shall be deemed to be included in the agreement for any
 
 [^c5488901]: Textual amendment: [1954 c. 33](https://www.legislation.gov.uk/ukpga/1954/33). (N.I.).
 
-[^key-af9415503b35ef5b725035334552f95c]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/nisi/1983/147/article/3/1) repealed (29.4.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), [s. 13(1)](https://www.legislation.gov.uk/nia/2014/6/section/13/1), [Sch.](https://www.legislation.gov.uk/nia/2014/6/schedule)
+[^c-af9415503b35ef5b725035334552f95c]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/nisi/1983/147/article/3/1) repealed (29.4.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), [s. 13(1)](https://www.legislation.gov.uk/nia/2014/6/section/13/1), [Sch.](https://www.legislation.gov.uk/nia/2014/6/schedule)
 
 [^c5488921]: Textual amendment: [1950 c. 3](https://www.legislation.gov.uk/ukpga/1950/3).
 

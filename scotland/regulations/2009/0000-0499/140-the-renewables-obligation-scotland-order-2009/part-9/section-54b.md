@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 54B. Solid and gaseous biomass sustainability audit report[^key-9a4b9a663318b2d7e93a6999ab73e89b]
+## 54B. Solid and gaseous biomass sustainability audit report[^c-9a4b9a663318b2d7e93a6999ab73e89b]
 
 (1) This article applies to a generating station which—
 
@@ -23,8 +23,8 @@ summary: ''
 
 (2) In relation to each consignment of biomass used in a generating station to which this article applies, and in respect of which the operator of the station has—
 
-- (a) in the case of biomass which is waste [^key-5cb8b60811e1bcee5d5afe85a2ef5f6b]..., provided the information specified in article 54(3)(c); and
-- (b) in the case of biomass which is not waste [^key-5cb8b60811e1bcee5d5afe85a2ef5f6b]..., provided the information specified in article 54(5)[^key-d9f2ac21194a331bde27a7adf432b4be],
+- (a) in the case of biomass which is waste [^c-5cb8b60811e1bcee5d5afe85a2ef5f6b]..., provided the information specified in article 54(3)(c); and
+- (b) in the case of biomass which is not waste [^c-5cb8b60811e1bcee5d5afe85a2ef5f6b]..., provided the information specified in article 54(5)[^c-d9f2ac21194a331bde27a7adf432b4be],
 
 the operator of the station must, by the 30th June immediately following the obligation period during which the biomass was used (“the relevant date”), provide the Authority with a sustainability audit report meeting the requirements specified in paragraph (3).
 
@@ -46,19 +46,19 @@ the operator of the station must, by the 30th June immediately following the obl
 
 (6) In this article, “relevant information” means—
 
-- (a) in relation to a consignment of biomass which is waste [^key-086083c70d5a0e5cff81f52d1ae4ba64]..., the information specified in article 54(3)(c) that is provided to the Authority by the operator of the generating station in respect of the consignment; and
-- (b) in relation to a consignment of biomass which is not waste [^key-086083c70d5a0e5cff81f52d1ae4ba64]..., the information specified in article 54(5)[^key-2d00d4d947e6095411d051419b6659a9] that is provided to the Authority by the operator of the generating station in respect of the consignment.
+- (a) in relation to a consignment of biomass which is waste [^c-086083c70d5a0e5cff81f52d1ae4ba64]..., the information specified in article 54(3)(c) that is provided to the Authority by the operator of the generating station in respect of the consignment; and
+- (b) in relation to a consignment of biomass which is not waste [^c-086083c70d5a0e5cff81f52d1ae4ba64]..., the information specified in article 54(5)[^c-2d00d4d947e6095411d051419b6659a9] that is provided to the Authority by the operator of the generating station in respect of the consignment.
 
 (7) References in this article to biomass do not include bioliquid, landfill gas, sewage gas, municipal waste or excreta produced by animals.
 
 ## Annotations
 
-[^key-9a4b9a663318b2d7e93a6999ab73e89b]: Textual amendment: Art. 54B inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [18](https://www.legislation.gov.uk/ssi/2014/94/article/18) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-9a4b9a663318b2d7e93a6999ab73e89b]: Textual amendment: Art. 54B inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [18](https://www.legislation.gov.uk/ssi/2014/94/article/18) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
 
-[^key-5cb8b60811e1bcee5d5afe85a2ef5f6b]: Textual amendment: Words in art. 54B(2)(a)(b) omitted (1.12.2015) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [12(a)(i)](https://www.legislation.gov.uk/ssi/2015/384/article/12/a/i) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))
+[^c-5cb8b60811e1bcee5d5afe85a2ef5f6b]: Textual amendment: Words in art. 54B(2)(a)(b) omitted (1.12.2015) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [12(a)(i)](https://www.legislation.gov.uk/ssi/2015/384/article/12/a/i) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))
 
-[^key-d9f2ac21194a331bde27a7adf432b4be]: Textual amendment: Word in art. 54B(2)(b) substituted (1.12.2015) by [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [12(a)(ii)](https://www.legislation.gov.uk/ssi/2015/384/article/12/a/ii) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))
+[^c-d9f2ac21194a331bde27a7adf432b4be]: Textual amendment: Word in art. 54B(2)(b) substituted (1.12.2015) by [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [12(a)(ii)](https://www.legislation.gov.uk/ssi/2015/384/article/12/a/ii) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))
 
-[^key-086083c70d5a0e5cff81f52d1ae4ba64]: Textual amendment: Words in art. 54B(6)(a)(b) omitted (1.12.2015) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [12(b)(i)](https://www.legislation.gov.uk/ssi/2015/384/article/12/b/i) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))
+[^c-086083c70d5a0e5cff81f52d1ae4ba64]: Textual amendment: Words in art. 54B(6)(a)(b) omitted (1.12.2015) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [12(b)(i)](https://www.legislation.gov.uk/ssi/2015/384/article/12/b/i) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))
 
-[^key-2d00d4d947e6095411d051419b6659a9]: Textual amendment: Word in art. 54B(6)(b) substituted (1.12.2015) by [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [12(b)(ii)](https://www.legislation.gov.uk/ssi/2015/384/article/12/b/ii) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))
+[^c-2d00d4d947e6095411d051419b6659a9]: Textual amendment: Word in art. 54B(6)(b) substituted (1.12.2015) by [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [12(b)(ii)](https://www.legislation.gov.uk/ssi/2015/384/article/12/b/ii) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))

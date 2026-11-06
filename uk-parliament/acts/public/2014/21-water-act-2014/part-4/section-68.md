@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Replacement of the scheme or administrator[^key-33cd92a19df8a0a5ccaa53152b96265e]
+## 68. Replacement of the scheme or administrator[^c-33cd92a19df8a0a5ccaa53152b96265e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33cd92a19df8a0a5ccaa53152b96265e]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2014/21/section/68) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 4(e)](https://www.legislation.gov.uk/uksi/2014/3320/article/4/e)
+[^c-33cd92a19df8a0a5ccaa53152b96265e]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2014/21/section/68) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 4(e)](https://www.legislation.gov.uk/uksi/2014/3320/article/4/e)

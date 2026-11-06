@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**226.**[^key-d544b4f89c50b0054226ca35d934032c] The Mental Capacity Act 2005 is amended as follows.
+**226.**[^c-d544b4f89c50b0054226ca35d934032c] The Mental Capacity Act 2005 is amended as follows.
 
 ## Annotations
 
-[^key-d544b4f89c50b0054226ca35d934032c]: Commencement: Reg. 226 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-d544b4f89c50b0054226ca35d934032c]: Commencement: Reg. 226 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 326. Transfer schemes: taxation[^key-e2383abdaba74d29001b4180161a8c37]
+## 326. Transfer schemes: taxation[^c-e2383abdaba74d29001b4180161a8c37]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2383abdaba74d29001b4180161a8c37]: Commencement: S. 326 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-e2383abdaba74d29001b4180161a8c37]: Commencement: S. 326 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

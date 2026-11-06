@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Seizure power[^key-ea16b6968b31cec0e759e3d6a5ccabea]
+## 61. Seizure power[^c-ea16b6968b31cec0e759e3d6a5ccabea]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea16b6968b31cec0e759e3d6a5ccabea]: Commencement: Reg. 61 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-ea16b6968b31cec0e759e3d6a5ccabea]: Commencement: Reg. 61 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)

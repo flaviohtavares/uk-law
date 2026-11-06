@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Amendment of Schedule 6 (registering to vote in a business referendum)[^key-a78e2c76ec1436f558e719b623a81ad9]
+## 67. Amendment of Schedule 6 (registering to vote in a business referendum)[^c-a78e2c76ec1436f558e719b623a81ad9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 6 (registering to vote in a business referendum), omit paragraph 38(
 
 ## Annotations
 
-[^key-a78e2c76ec1436f558e719b623a81ad9]: Commencement: Reg. 67 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-a78e2c76ec1436f558e719b623a81ad9]: Commencement: Reg. 67 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

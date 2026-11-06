@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Applications for authorisation made to the Regulator: authorisation by the FCA[^key-fb9ec95ce2168b10d5b321fd3b882dd1][^key-8b24e51d8ba804a40ec6edfe3942a7e8]
+## 41. Applications for authorisation made to the Regulator: authorisation by the FCA[^c-fb9ec95ce2168b10d5b321fd3b882dd1][^c-8b24e51d8ba804a40ec6edfe3942a7e8]
 
 *Extent: E+W+S*
 
@@ -64,9 +64,9 @@ A’s application to the Regulator is to be treated as an application to the FCA
 
 ## Annotations
 
-[^key-fb9ec95ce2168b10d5b321fd3b882dd1]: Commencement: Art. 41 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-fb9ec95ce2168b10d5b321fd3b882dd1]: Commencement: Art. 41 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-8b24e51d8ba804a40ec6edfe3942a7e8]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2018/1253/article/41) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-8b24e51d8ba804a40ec6edfe3942a7e8]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2018/1253/article/41) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00071]: Footnote: Section 55H was inserted by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 11(2).
 

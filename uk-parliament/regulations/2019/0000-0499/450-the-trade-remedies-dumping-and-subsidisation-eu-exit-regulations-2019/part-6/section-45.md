@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Confidential information[^key-74c4c93b1859e8804146a25b280a40b8]
+## 45. Confidential information[^c-74c4c93b1859e8804146a25b280a40b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (2) For the purpose of paragraph (1)(b)(i), information that is by its nature confidential includes information which, if disclosed, would—
 
-- (a) be of significant competitive advantage to a competitor of the person supplying the information; or[^key-7acacc855950505638c2d5196b14b4c2]
+- (a) be of significant competitive advantage to a competitor of the person supplying the information; or[^c-7acacc855950505638c2d5196b14b4c2]
 - (b) have a significant adverse effect on—
   - (i) the person supplying the information; or
   - (ii) any person from whom the person supplying the information had acquired it.
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74c4c93b1859e8804146a25b280a40b8]: Commencement: Reg. 45 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-74c4c93b1859e8804146a25b280a40b8]: Commencement: Reg. 45 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-7acacc855950505638c2d5196b14b4c2]: Textual amendment: Word in reg. 45(2)(a) inserted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/7/1)
+[^c-7acacc855950505638c2d5196b14b4c2]: Textual amendment: Word in reg. 45(2)(a) inserted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/7/1)

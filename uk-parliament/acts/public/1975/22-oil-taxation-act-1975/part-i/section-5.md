@@ -52,7 +52,7 @@ Section 4(13) of this Act applies to the preceding provisions of this subsection
 (7) For the purposes of this section—
 
 - (a) “**company**” means any body corporate;
-- (b) section 1122 of CTA 2010[^key-632f7da630822133c6ed7876279cc7af] (connected persons) shall apply; and
+- (b) section 1122 of CTA 2010[^c-632f7da630822133c6ed7876279cc7af] (connected persons) shall apply; and
 - (c) a company which is a participator in an oil field is associated with another company in respect of expenditure incurred by the other company if—
   - (i) throughout that part of the relevant period in which both were in existence one was a 51 per cent. subsidiary of the other and the other was not a 51 per cent. subsidiary of any company; or
   - (ii) each of them was, throughout that part of the relevant period in which it was in existence, a 51 per cent. subsidiary of a third company which was not itself a 51 per cent. subsidiary of any company.
@@ -64,7 +64,7 @@ Section 4(13) of this Act applies to the preceding provisions of this subsection
   - (ii) the chargeable period (for that field) in which the expenditure was incurred,
 
   (or, if they are the same period, with the end of that period); and
-- (b) Chapter 3 of Part 24 of CTA 2010[^key-d3e59c68f0e40aa320aa0a1fa4313790] (subsidiaries) shall apply.
+- (b) Chapter 3 of Part 24 of CTA 2010[^c-d3e59c68f0e40aa320aa0a1fa4313790] (subsidiaries) shall apply.
 
 ## Annotations
 
@@ -82,6 +82,6 @@ Section 4(13) of this Act applies to the preceding provisions of this subsection
 
 [^c10742351]: Modification: [See Finance Act 1983 (c. 49)](https://www.legislation.gov.uk/ukpga/1983/49), [s. 37(3)](https://www.legislation.gov.uk/ukpga/1983/49/section/37/3) and Sch. 8 Part III with respect to sums received after 15 March 1983
 
-[^key-632f7da630822133c6ed7876279cc7af]: Textual amendment: Words in s. 5(7)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 162(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/162/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-632f7da630822133c6ed7876279cc7af]: Textual amendment: Words in s. 5(7)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 162(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/162/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-d3e59c68f0e40aa320aa0a1fa4313790]: Textual amendment: Words in s. 5(8)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 162(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/162/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d3e59c68f0e40aa320aa0a1fa4313790]: Textual amendment: Words in s. 5(8)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 162(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/162/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

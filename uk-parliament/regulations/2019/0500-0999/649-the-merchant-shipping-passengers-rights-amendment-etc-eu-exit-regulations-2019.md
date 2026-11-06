@@ -48,7 +48,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ### Introduction
 
-#### 1. Citation and commencement[^key-1245f5a48902023bb058e75f526cc99f]
+#### 1. Citation and commencement[^c-1245f5a48902023bb058e75f526cc99f]
 
 These Regulations may be cited as the Merchant Shipping (Passengers' Rights) (Amendment etc.) (EU Exit) Regulations 2019 and come into force on exit day.
 
@@ -56,7 +56,7 @@ These Regulations may be cited as the Merchant Shipping (Passengers' Rights) (Am
 
 ### Amendment of subordinate legislation
 
-#### 2. Amendment of the Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) Regulations 1999[^key-9cf9d5dd4d2f7a5e751ab15508b89da7]
+#### 2. Amendment of the Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) Regulations 1999[^c-9cf9d5dd4d2f7a5e751ab15508b89da7]
 
 (1) The Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) Regulations 1999 [^c23677911] are amended as follows.
 
@@ -73,7 +73,7 @@ These Regulations may be cited as the Merchant Shipping (Passengers' Rights) (Am
 
 (4) In regulation 9 (exemptions), in paragraph (2)(b)(i), after “European Union” add “ or the United Kingdom ”.
 
-#### 3. Amendment of the Merchant Shipping (Carriage of Passengers by Sea) Regulations 2012[^key-1a503cf2eb435255682b1189dbdcafdc]
+#### 3. Amendment of the Merchant Shipping (Carriage of Passengers by Sea) Regulations 2012[^c-1a503cf2eb435255682b1189dbdcafdc]
 
 (1) The Merchant Shipping (Carriage of Passengers by Sea) Regulations 2012 [^c23677921] are amended as follows.
 
@@ -81,7 +81,7 @@ These Regulations may be cited as the Merchant Shipping (Passengers' Rights) (Am
 
 (3) In regulation 15 (review), omit paragraph (2).
 
-#### 4. Amendment of the Merchant Shipping (Passengers' Rights) Regulations 2013[^key-e7bbafe0427665ecba74bb529553bb00]
+#### 4. Amendment of the Merchant Shipping (Passengers' Rights) Regulations 2013[^c-e7bbafe0427665ecba74bb529553bb00]
 
 (1) The Merchant Shipping (Passengers' Rights) Regulations 2013 [^c23677931] are amended as follows.
 
@@ -91,11 +91,11 @@ These Regulations may be cited as the Merchant Shipping (Passengers' Rights) (Am
 
 ### Amendment and revocation of retained direct EU legislation
 
-#### 5. Revocation of Council Decision [2002/762/EC](https://www.legislation.gov.uk/eud/2002/762)[^key-98b3705657fb72a0fe7cda845abbeacf]
+#### 5. Revocation of Council Decision [2002/762/EC](https://www.legislation.gov.uk/eud/2002/762)[^c-98b3705657fb72a0fe7cda845abbeacf]
 
 Council Decision [2002/762/EC](https://www.legislation.gov.uk/eud/2002/762) of 19 September 2002 authorising the Member States, in the interest of the Community, to sign, ratify or accede to the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001 [^c23677941] is revoked.
 
-#### 6. Amendment of Regulation [(EC) No 392/2009](https://www.legislation.gov.uk/eur/2009/392)[^key-c245f736ff5a5e7c760cb7702f1061e1]
+#### 6. Amendment of Regulation [(EC) No 392/2009](https://www.legislation.gov.uk/eur/2009/392)[^c-c245f736ff5a5e7c760cb7702f1061e1]
 
 (1) Regulation [(EC) No 392/2009](https://www.legislation.gov.uk/eur/2009/392) of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents [^c23677951] is amended as follows.
 
@@ -148,7 +148,7 @@ Council Decision [2002/762/EC](https://www.legislation.gov.uk/eud/2002/762) of 1
 
 (11) Omit Annex I.
 
-#### 7. Amendment of Regulation (EU) No 1177/2010[^key-787c62a4e43a5709890137c9fba017c5]
+#### 7. Amendment of Regulation (EU) No 1177/2010[^c-787c62a4e43a5709890137c9fba017c5]
 
 (1) Regulation (EU) No 1177/2010 of the European Parliament and of the Council of 24 November 2010 concerning the rights of passengers when travelling by sea and inland waterway and amending Regulation [(EC) No 2006/2004](https://www.legislation.gov.uk/eur/2004/2006) [^c23677971] is amended as follows.
 
@@ -231,7 +231,7 @@ Council Decision [2002/762/EC](https://www.legislation.gov.uk/eud/2002/762) of 1
 
 (19) In Annex III (assistance on board ships as referred to in Articles 10 and 13), in paragraph 1, for “national regulations”, substitute “ any enactment or rule of law ”.
 
-#### 8. Revocation of Council Decisions 2012/22/EU and 2012/23/EU[^key-f31c785f3d22ac12c46c21552a106683]
+#### 8. Revocation of Council Decisions 2012/22/EU and 2012/23/EU[^c-f31c785f3d22ac12c46c21552a106683]
 
 The following are revoked—
 
@@ -240,9 +240,9 @@ The following are revoked—
 
 ## PART 4 — Transitional Provision
 
-### 9. Insurance certificates issued by EU Member States[^key-3e674b195447e60a981add4a66cbcfc0]
+### 9. Insurance certificates issued by EU Member States[^c-3e674b195447e60a981add4a66cbcfc0]
 
-(1) An insurance certificate that is issued, before IP completion day[^key-bfe2193d0d0d1c72a4b28c6e442d933a], by or under the authority of a Member State that is not a State Party will be accepted as evidence of the insurance required by regulation 5 of the Merchant Shipping (Carriage of Passengers by Sea) Regulations 2012 (“**the 2012 Regulations**”).
+(1) An insurance certificate that is issued, before IP completion day[^c-bfe2193d0d0d1c72a4b28c6e442d933a], by or under the authority of a Member State that is not a State Party will be accepted as evidence of the insurance required by regulation 5 of the Merchant Shipping (Carriage of Passengers by Sea) Regulations 2012 (“**the 2012 Regulations**”).
 
 (2) In this regulation—
 
@@ -275,31 +275,31 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23677901]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-1245f5a48902023bb058e75f526cc99f]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1245f5a48902023bb058e75f526cc99f]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9cf9d5dd4d2f7a5e751ab15508b89da7]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9cf9d5dd4d2f7a5e751ab15508b89da7]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23677911]: Marginal citation: [S.I. 1999/1869](https://www.legislation.gov.uk/uksi/1999/1869), amended by [S.I. 2010/1075](https://www.legislation.gov.uk/uksi/2010/1075), [S.I](https://www.legislation.gov.uk/uksi/2010/1075/section/I). 2010/680, and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-1a503cf2eb435255682b1189dbdcafdc]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1a503cf2eb435255682b1189dbdcafdc]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23677921]: Marginal citation: [S.I. 2012/3152](https://www.legislation.gov.uk/uksi/2012/3152).
 
-[^key-e7bbafe0427665ecba74bb529553bb00]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e7bbafe0427665ecba74bb529553bb00]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23677931]: Marginal citation: [S.I. 2013/425](https://www.legislation.gov.uk/uksi/2013/425).
 
-[^key-98b3705657fb72a0fe7cda845abbeacf]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-98b3705657fb72a0fe7cda845abbeacf]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23677941]: Marginal citation: OJ No. L 256, 25.9.2002, p. 7.
 
-[^key-c245f736ff5a5e7c760cb7702f1061e1]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c245f736ff5a5e7c760cb7702f1061e1]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23677951]: Marginal citation: OJ No. L 131, 28.5.2009, p. 24.
 
 [^c23677961]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Part 1 of Schedule 6 was substituted by [S.I. 2014/1361](https://www.legislation.gov.uk/uksi/2014/1361).
 
-[^key-787c62a4e43a5709890137c9fba017c5]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-787c62a4e43a5709890137c9fba017c5]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23677971]: Marginal citation: OJ No. L 334, 17.12.2010, p. 1.
 
@@ -307,12 +307,12 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23677991]: Marginal citation: [S.I. 2018/634](https://www.legislation.gov.uk/uksi/2018/634).
 
-[^key-f31c785f3d22ac12c46c21552a106683]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f31c785f3d22ac12c46c21552a106683]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23678001]: Marginal citation: OJ No. L 8, 12.1.2012, p. 1.
 
 [^c23678011]: Marginal citation: OJ No. L 8, 12.1.2012, p. 13.
 
-[^key-3e674b195447e60a981add4a66cbcfc0]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3e674b195447e60a981add4a66cbcfc0]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-bfe2193d0d0d1c72a4b28c6e442d933a]: Textual amendment: Words in reg. 9(1) substituted (31.12.2020 immediately before IP completion day) by [The Merchant Shipping (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1000)](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1000/regulation/9)
+[^c-bfe2193d0d0d1c72a4b28c6e442d933a]: Textual amendment: Words in reg. 9(1) substituted (31.12.2020 immediately before IP completion day) by [The Merchant Shipping (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1000)](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1000/regulation/9)

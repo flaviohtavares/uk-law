@@ -39,7 +39,7 @@ summary: ''
 
 (8) Subsections (6) and (7) above shall not apply to a right of forfeiture or other right exercisable on breach of a covenant contained in a lease of land or other property, and shall not apply to any right or restriction under a mortgage or other charge.
 
-(9)[^key-4bc101e9015e188bf63618c1cb94aec0] If deductible clogged losses have accrued to a company, the company may make a claim in respect of an accounting period for—
+(9)[^c-4bc101e9015e188bf63618c1cb94aec0] If deductible clogged losses have accrued to a company, the company may make a claim in respect of an accounting period for—
 
 - (a) an amount of the deductible clogged losses to be treated, for the purposes of section 2A(1)(a), as allowable losses accruing in the accounting period, and
 - (b) the same amount of allowable losses accruing to the company in the period to be treated, for the purposes of section 2A(1)(b), as allowable losses previously accruing to the company while it was within the charge to corporation tax.
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bc101e9015e188bf63618c1cb94aec0]: Textual amendment: S. 18(9)-(12) inserted (with effect in relation to accounting periods beginning on or after 1.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 paras. 17](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/17), [42](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/42) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))
+[^c-4bc101e9015e188bf63618c1cb94aec0]: Textual amendment: S. 18(9)-(12) inserted (with effect in relation to accounting periods beginning on or after 1.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 paras. 17](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/17), [42](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/42) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))

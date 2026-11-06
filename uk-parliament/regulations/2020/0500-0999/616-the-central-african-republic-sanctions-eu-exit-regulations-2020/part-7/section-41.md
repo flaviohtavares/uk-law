@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Finance: powers to request information[^key-6d1b164676c265d7a00f9a983b69dce9]
+## 41. Finance: powers to request information[^c-6d1b164676c265d7a00f9a983b69dce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d1b164676c265d7a00f9a983b69dce9]: Commencement: Reg. 41 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-6d1b164676c265d7a00f9a983b69dce9]: Commencement: Reg. 41 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)

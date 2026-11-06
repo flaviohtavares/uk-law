@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Information in Commission’s annual report[^key-93d15c2ff42edefa4810a3297f4e32e0][^key-b84cc91eb5ce4458db2de663c691e482]
+## 55. Information in Commission’s annual report[^c-93d15c2ff42edefa4810a3297f4e32e0][^c-b84cc91eb5ce4458db2de663c691e482]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93d15c2ff42edefa4810a3297f4e32e0]: Commencement: S. 55 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-93d15c2ff42edefa4810a3297f4e32e0]: Commencement: S. 55 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-b84cc91eb5ce4458db2de663c691e482]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2022/37/section/55) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-b84cc91eb5ce4458db2de663c691e482]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2022/37/section/55) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

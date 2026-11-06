@@ -25,7 +25,7 @@ summary: ''
 - (a) the market value of the shares when they are acquired, less
 - (b) the total amount or value of any consideration given by any person in relation to the obtaining of the option or to the acquisition of the shares.
 
-This is subject to section 1020 [^key-7ab6d070a47447ea87957a0646ce3a78]... .
+This is subject to section 1020 [^c-7ab6d070a47447ea87957a0646ce3a78]... .
 
 (2) The consideration mentioned in subsection (1)(b) does not include—
 
@@ -38,4 +38,4 @@ This is subject to section 1020 [^key-7ab6d070a47447ea87957a0646ce3a78]... .
 
 ## Annotations
 
-[^key-7ab6d070a47447ea87957a0646ce3a78]: Textual amendment: Words in s. 1018(1) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(e)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/e)
+[^c-7ab6d070a47447ea87957a0646ce3a78]: Textual amendment: Words in s. 1018(1) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(e)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/e)

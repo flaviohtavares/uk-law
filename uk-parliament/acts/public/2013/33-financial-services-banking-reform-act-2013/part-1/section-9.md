@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. PRA review of proprietary trading[^key-90cfb152e449346f803df2f680fd8c16]
+## 9. PRA review of proprietary trading[^c-90cfb152e449346f803df2f680fd8c16]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90cfb152e449346f803df2f680fd8c16]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/33/section/9) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(h)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/h)
+[^c-90cfb152e449346f803df2f680fd8c16]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/33/section/9) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(h)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/h)

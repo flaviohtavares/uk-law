@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Establishment of pension accounts: general[^key-64d90aca408ad268d6b6777e588172cd]
+## 37. Establishment of pension accounts: general[^c-64d90aca408ad268d6b6777e588172cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64d90aca408ad268d6b6777e588172cd]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2014/1964/regulation/37) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-64d90aca408ad268d6b6777e588172cd]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2014/1964/regulation/37) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

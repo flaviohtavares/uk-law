@@ -115,7 +115,7 @@ The Secretary of State, in exercise of the powers conferred by sections 15A(1), 
 
 - (a) publish notice of the application on the authority’s website;
 - (b) serve notice of the application by email on any person who has previously asked to be informed of all applications and who has given the authority an email address for that purpose; and
-- (c) in respect of an application to which regulation 2(1)(c) applies,[^key-1d1337920c7924d53a56cc4099f80a60] so as to bring it to the attention of users of the land, post notice of the application for not less than 60 days at or near at least one obvious place of entry to (or, if there are no such places, at or near at least one conspicuous place on the boundary of) the land to which the application relates.
+- (c) in respect of an application to which regulation 2(1)(c) applies,[^c-1d1337920c7924d53a56cc4099f80a60] so as to bring it to the attention of users of the land, post notice of the application for not less than 60 days at or near at least one obvious place of entry to (or, if there are no such places, at or near at least one conspicuous place on the boundary of) the land to which the application relates.
 
 (3) The notices required under paragraph (2)(a), (b) and (c) must be in the form set out in Schedule 2, or in a form substantially to the same effect, with such insertions or omissions as are necessary in any particular case.
 
@@ -235,7 +235,7 @@ No separate impact assessment has been prepared for this instrument but the impa
 
 [^f00004]: Footnote: A person without access to the internet can contact the commons registration authority by telephone to determine what the relevant office is.
 
-[^key-1d1337920c7924d53a56cc4099f80a60]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/4/2/c) inserted (1.12.2016) by [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) (Amendment) Regulations 2016 (S.I. 2016/1081)](https://www.legislation.gov.uk/uksi/2016/1081), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1081/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2016/1081/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1081/regulation/1/2))
+[^c-1d1337920c7924d53a56cc4099f80a60]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/4/2/c) inserted (1.12.2016) by [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) (Amendment) Regulations 2016 (S.I. 2016/1081)](https://www.legislation.gov.uk/uksi/2016/1081), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1081/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2016/1081/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1081/regulation/1/2))
 
 [^f00005]: Footnote: [SI 2007/2334](https://www.legislation.gov.uk/uksi/2007/2334).
 

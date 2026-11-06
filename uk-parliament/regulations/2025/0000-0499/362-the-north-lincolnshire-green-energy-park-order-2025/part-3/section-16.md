@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Public rights of way – creation and temporary stopping up[^key-0b13fe8b81385f043837bbf3877f50a4]
+## 16. Public rights of way – creation and temporary stopping up[^c-0b13fe8b81385f043837bbf3877f50a4]
 
 *Extent: E+W+S*
 
@@ -28,12 +28,12 @@ summary: ''
 
 (2) Any temporary substitute right of way must be maintained by the undertaker with appropriate signage, and must remain in place until the relevant temporarily suspended public right of way for which it is a substitute is again open for use by the public.
 
-(3) The undertaker must not exercise the powers in paragraph (1) unless it has given not less than 28 days’ notice in writing of its intention to do so to the relevant highway authority.[^key-48aa5f7cd0f549db93184240f9476866]
+(3) The undertaker must not exercise the powers in paragraph (1) unless it has given not less than 28 days’ notice in writing of its intention to do so to the relevant highway authority.[^c-48aa5f7cd0f549db93184240f9476866]
 
 (4) The undertaker may in connection with carrying out of the authorised development provide the new public rights of way specified in column (2) of Part 2 of Schedule 5 (new public rights of way to be created) and open them for use on such day as approved by the relevant highway authority.
 
 ## Annotations
 
-[^key-0b13fe8b81385f043837bbf3877f50a4]: Commencement: Art. 16 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-0b13fe8b81385f043837bbf3877f50a4]: Commencement: Art. 16 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
-[^key-48aa5f7cd0f549db93184240f9476866]: Textual amendment: Words in [art. 16(3)](https://www.legislation.gov.uk/uksi/2025/362/article/16/3) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-48aa5f7cd0f549db93184240f9476866]: Textual amendment: Words in [art. 16(3)](https://www.legislation.gov.uk/uksi/2025/362/article/16/3) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)

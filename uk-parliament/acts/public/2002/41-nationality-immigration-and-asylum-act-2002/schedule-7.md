@@ -53,15 +53,15 @@ Section 114
 
 **10.** In Part III of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (disqualifying offices) for “Adjudicator appointed for the purposes of the Immigration and Asylum Act 1999.” substitute “ Adjudicator appointed for the purposes of Part 5 of the Nationality, Immigration and Asylum Act 2002. ”.
 
-### ...[^key-3ecdaa76409dd331cd05ef7f52dbe05e]
+### ...[^c-3ecdaa76409dd331cd05ef7f52dbe05e]
 
-**11.**[^key-15498d133aab0ab70a1b350e1bda73d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-15498d133aab0ab70a1b350e1bda73d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-8e1a8bafc4748206baac0aca8a5931af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-8e1a8bafc4748206baac0aca8a5931af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **13.** [^c19262351]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-0929cd3c61fe684f24e3230e5aff0de0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-0929cd3c61fe684f24e3230e5aff0de0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.** [^c19262401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -143,7 +143,7 @@ Section 114
 
 ### Immigration and Asylum Act 1999 (c. 33)
 
-**27.**[^key-938cd439ccc574029bac751f2585c284] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-938cd439ccc574029bac751f2585c284] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **28.** In section 53(4) of that Act (bail) for “this Act” there shall be substituted “ the Nationality, Immigration and Asylum Act 2002 ”.
 
@@ -179,18 +179,18 @@ Section 114
 
 ## Annotations
 
-[^key-3ecdaa76409dd331cd05ef7f52dbe05e]: Textual amendment: Sch. 7 para. 14 cross-heading repealed (E.W.S.) by 2010 c. 15, Sch. 27 Pt. 1 Table (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
+[^c-3ecdaa76409dd331cd05ef7f52dbe05e]: Textual amendment: Sch. 7 para. 14 cross-heading repealed (E.W.S.) by 2010 c. 15, Sch. 27 Pt. 1 Table (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
 
-[^key-15498d133aab0ab70a1b350e1bda73d5]: Textual amendment: Sch. 7 para. 11 repealed (E.W.S.) by 2010 c. 15, Sch. 27 Pt. 1 Table (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
+[^c-15498d133aab0ab70a1b350e1bda73d5]: Textual amendment: Sch. 7 para. 11 repealed (E.W.S.) by 2010 c. 15, Sch. 27 Pt. 1 Table (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
 
-[^key-8e1a8bafc4748206baac0aca8a5931af]: Textual amendment: Sch. 7 para. 12 repealed (E.W.S.) by 2010 c. 15, Sch. 27 Pt. 1 Table (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
+[^c-8e1a8bafc4748206baac0aca8a5931af]: Textual amendment: Sch. 7 para. 12 repealed (E.W.S.) by 2010 c. 15, Sch. 27 Pt. 1 Table (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
 
 [^c19262351]: Textual amendment: Sch. 7 para. 13 repealed (1.10.2007) by [Equality Act 2006 (c. 3)](https://www.legislation.gov.uk/ukpga/2006/3), [ss. 91](https://www.legislation.gov.uk/ukpga/2006/3/section/91), [93](https://www.legislation.gov.uk/ukpga/2006/3/section/93), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/3/schedule/4) (with [s. 92](https://www.legislation.gov.uk/ukpga/2006/3/section/92)); [S.I. 2007/2603](https://www.legislation.gov.uk/uksi/2007/2603), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/2603/article/2/d) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2007/2603/article/3))
 
-[^key-0929cd3c61fe684f24e3230e5aff0de0]: Textual amendment: Sch. 7 para. 14 repealed (E.W.S.) by 2010 c. 15, Sch. 27 Pt. 1 Table (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
+[^c-0929cd3c61fe684f24e3230e5aff0de0]: Textual amendment: Sch. 7 para. 14 repealed (E.W.S.) by 2010 c. 15, Sch. 27 Pt. 1 Table (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
 
 [^c19262401]: Textual amendment: Sch. 7 para. 15 repealed (1.10.2007) by [Equality Act 2006 (c. 3)](https://www.legislation.gov.uk/ukpga/2006/3), [ss. 91](https://www.legislation.gov.uk/ukpga/2006/3/section/91), [93](https://www.legislation.gov.uk/ukpga/2006/3/section/93), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/3/schedule/4) (with [s. 92](https://www.legislation.gov.uk/ukpga/2006/3/section/92)); [S.I. 2007/2603](https://www.legislation.gov.uk/uksi/2007/2603), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/2603/article/2/d) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2007/2603/article/3))
 
-[^key-938cd439ccc574029bac751f2585c284]: Textual amendment: Sch. 7 para. 27 repealed (20.10.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 60](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/60) table; [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
+[^c-938cd439ccc574029bac751f2585c284]: Textual amendment: Sch. 7 para. 27 repealed (20.10.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 60](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/60) table; [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
 
 [^c19245901]: Textual amendment: Sch. 7 para. 30 repealed (14.3.2005) by [Prevention of Terrorism Act 2005 (c. 2)](https://www.legislation.gov.uk/ukpga/2005/2), [s. 16(2)(3)(4)](https://www.legislation.gov.uk/ukpga/2005/2/section/16/2/3/4)

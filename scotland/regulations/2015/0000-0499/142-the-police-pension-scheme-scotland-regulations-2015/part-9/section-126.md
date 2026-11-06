@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. Meaning of “surviving adult’s pension”[^key-24878748257aa2cff7b50235d98c7b04]
+## 126. Meaning of “surviving adult’s pension”[^c-24878748257aa2cff7b50235d98c7b04]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In these Regulations, “surviving adult’s pension” means any of the followi
 
 ## Annotations
 
-[^key-24878748257aa2cff7b50235d98c7b04]: Commencement: Reg. 126 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-24878748257aa2cff7b50235d98c7b04]: Commencement: Reg. 126 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

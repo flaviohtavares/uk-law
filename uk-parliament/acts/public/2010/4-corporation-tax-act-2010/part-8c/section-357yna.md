@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357YNA. Transfer of rights: restitution interest arising after a winding up or dissolution[^key-f2385be95b9307bc2f3f6473cc72c3d6]
+## 357YNA. Transfer of rights: restitution interest arising after a winding up or dissolution[^c-f2385be95b9307bc2f3f6473cc72c3d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2385be95b9307bc2f3f6473cc72c3d6]: Textual amendment: Ss. 357YNA, 357YNB inserted (with effect in accordance with reg. 2 of the amending S.I.) by [The Corporation Tax Act 2010 (Part 8C) (Amendment) Regulations 2017 (S.I. 2017/364)](https://www.legislation.gov.uk/uksi/2017/364), [regs. 1](https://www.legislation.gov.uk/uksi/2017/364/regulation/1), [11](https://www.legislation.gov.uk/uksi/2017/364/regulation/11)
+[^c-f2385be95b9307bc2f3f6473cc72c3d6]: Textual amendment: Ss. 357YNA, 357YNB inserted (with effect in accordance with reg. 2 of the amending S.I.) by [The Corporation Tax Act 2010 (Part 8C) (Amendment) Regulations 2017 (S.I. 2017/364)](https://www.legislation.gov.uk/uksi/2017/364), [regs. 1](https://www.legislation.gov.uk/uksi/2017/364/regulation/1), [11](https://www.legislation.gov.uk/uksi/2017/364/regulation/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Promoting progression from level 2 to level 3 apprenticeships[^key-0055ac041dc64135c1b3ca98274eb1cb][^key-22ec9ace32430797b4a9714dd8aaa160]
+## 105. Promoting progression from level 2 to level 3 apprenticeships[^c-0055ac041dc64135c1b3ca98274eb1cb][^c-22ec9ace32430797b4a9714dd8aaa160]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0055ac041dc64135c1b3ca98274eb1cb]: Textual amendment: S. 105 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/21); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-0055ac041dc64135c1b3ca98274eb1cb]: Textual amendment: S. 105 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/21); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-22ec9ace32430797b4a9714dd8aaa160]: Commencement: S. 105 in force at 6.4.2011 by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 3](https://www.legislation.gov.uk/uksi/2011/200/article/3)
+[^c-22ec9ace32430797b4a9714dd8aaa160]: Commencement: S. 105 in force at 6.4.2011 by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 3](https://www.legislation.gov.uk/uksi/2011/200/article/3)

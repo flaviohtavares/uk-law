@@ -46,22 +46,22 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by sections 113B (9), (11) (c) and section 118(2) and (3) of the Police Act 1997 [^f00001], makes the following Regulations;
 
-## 1. Citation, Commencement and Extent[^key-5c6da873d67e21f93c9365b946166340]
+## 1. Citation, Commencement and Extent[^c-5c6da873d67e21f93c9365b946166340]
 
 (1) These Regulations may be cited as the Police Act 1997 (Criminal Records) (Disclosure) (Amendment) Regulations (Northern Ireland) 2009 and shall come into force on 31 July 2009.
 
 (2) These Regulations extend to Northern Ireland only.
 
-## 2. Enhanced criminal record certificates: police forces[^key-252acb8a80c621e95541466c2d50b1da]
+## 2. Enhanced criminal record certificates: police forces[^c-252acb8a80c621e95541466c2d50b1da]
 
 For the purposes of section 113B of the Police Act 1997 (enhanced criminal records) —
 
 - (a) Access Northern Ireland must be treated as if it were a police force;
 - (b) any reference to the chief officer of police, in relation to Access Northern Ireland is to be taken to be the General Manager of Access Northern Ireland.
-- (c)[^key-b31f77ce4d07a1d726880ab5e11f44e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-b31f77ce4d07a1d726880ab5e11f44e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b31f77ce4d07a1d726880ab5e11f44e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-b31f77ce4d07a1d726880ab5e11f44e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Police Act 1997 (Criminal Records) (Disclosure) Regulation (Northern Ireland) 2008[^key-32ddf06b41c0432d9002bc0df1396e78]
+## 3. Amendment of the Police Act 1997 (Criminal Records) (Disclosure) Regulation (Northern Ireland) 2008[^c-32ddf06b41c0432d9002bc0df1396e78]
 
 (1) The Police Act 1997 (Criminal Records) (Disclosure) Regulations (Northern Ireland) 2000 [^f00002] are amended as follows:
 
@@ -129,12 +129,12 @@ Regulation 4 adds new Regulation 11 to the Police Act 1997 (Criminal Records) (D
 
 [^f00001]: Footnote: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50); section 113B was inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15)
 
-[^key-5c6da873d67e21f93c9365b946166340]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1798/regulation/1) in force at 31.7.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1798/regulation/1/1)
+[^c-5c6da873d67e21f93c9365b946166340]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1798/regulation/1) in force at 31.7.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1798/regulation/1/1)
 
-[^key-252acb8a80c621e95541466c2d50b1da]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1798/regulation/2) in force at 31.7.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1798/regulation/1/1)
+[^c-252acb8a80c621e95541466c2d50b1da]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1798/regulation/2) in force at 31.7.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1798/regulation/1/1)
 
-[^key-b31f77ce4d07a1d726880ab5e11f44e2]: Textual amendment: [Reg. 2(c)(d)](https://www.legislation.gov.uk/uksi/2009/1798/regulation/2/c/d) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 94](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/94)
+[^c-b31f77ce4d07a1d726880ab5e11f44e2]: Textual amendment: [Reg. 2(c)(d)](https://www.legislation.gov.uk/uksi/2009/1798/regulation/2/c/d) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 94](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/94)
 
-[^key-32ddf06b41c0432d9002bc0df1396e78]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1798/regulation/3) in force at 31.7.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1798/regulation/1/1)
+[^c-32ddf06b41c0432d9002bc0df1396e78]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1798/regulation/3) in force at 31.7.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1798/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2008/542](https://www.legislation.gov.uk/uksi/2008/542)

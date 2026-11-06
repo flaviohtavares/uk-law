@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Insertion of new Schedules[^key-8a5edd248721b6ec6c9e41925fc9eb49]
+## 8. Insertion of new Schedules[^c-8a5edd248721b6ec6c9e41925fc9eb49]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Naval Pensions Order, the Army Pensions Warrant and the Air Force Pensions O
 
 ## Annotations
 
-[^key-8a5edd248721b6ec6c9e41925fc9eb49]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-8a5edd248721b6ec6c9e41925fc9eb49]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

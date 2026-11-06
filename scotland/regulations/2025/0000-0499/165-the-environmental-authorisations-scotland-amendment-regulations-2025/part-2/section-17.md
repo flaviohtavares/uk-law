@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Amendment of regulation 31 (revocation of permits and registrations)[^key-25522bece98c60f62fcf98c5180af7db]
+## 17. Amendment of regulation 31 (revocation of permits and registrations)[^c-25522bece98c60f62fcf98c5180af7db]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ For regulation 31(revocation of permits and registrations), substitute—
 
 ## Annotations
 
-[^key-25522bece98c60f62fcf98c5180af7db]: Commencement: Reg. 17 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-25522bece98c60f62fcf98c5180af7db]: Commencement: Reg. 17 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

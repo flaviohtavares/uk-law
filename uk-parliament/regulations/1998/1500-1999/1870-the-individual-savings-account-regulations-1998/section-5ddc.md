@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5DDC. Additional permitted subscription of cash to an account other than a junior ISA on closure of Help to Buy ISA[^key-c5821414078127f29c790063cf7fd10e][^key-8ef43955e91d7850ecd84c6f42a9af50]
+## 5DDC. Additional permitted subscription of cash to an account other than a junior ISA on closure of Help to Buy ISA[^c-c5821414078127f29c790063cf7fd10e][^c-8ef43955e91d7850ecd84c6f42a9af50]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c5821414078127f29c790063cf7fd10e]: Textual amendment: Regs. 5DDB, 5DDC inserted (with effect in accordance with reg. 1 of the amending S.I.) by [The Individual Savings Account (Amendment) Regulations 2016 (S.I. 2016/16)](https://www.legislation.gov.uk/uksi/2016/16), [regs. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1), [10](https://www.legislation.gov.uk/uksi/2016/16/regulation/10)
+[^c-c5821414078127f29c790063cf7fd10e]: Textual amendment: Regs. 5DDB, 5DDC inserted (with effect in accordance with reg. 1 of the amending S.I.) by [The Individual Savings Account (Amendment) Regulations 2016 (S.I. 2016/16)](https://www.legislation.gov.uk/uksi/2016/16), [regs. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1), [10](https://www.legislation.gov.uk/uksi/2016/16/regulation/10)
 
-[^key-8ef43955e91d7850ecd84c6f42a9af50]: Textual amendment: Regs. 5D-5DM inserted (8.8.2012) by [The Individual Savings Account (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1871)](https://www.legislation.gov.uk/uksi/2012/1871), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1871/regulation/1), [11](https://www.legislation.gov.uk/uksi/2012/1871/regulation/11)
+[^c-8ef43955e91d7850ecd84c6f42a9af50]: Textual amendment: Regs. 5D-5DM inserted (8.8.2012) by [The Individual Savings Account (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1871)](https://www.legislation.gov.uk/uksi/2012/1871), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1871/regulation/1), [11](https://www.legislation.gov.uk/uksi/2012/1871/regulation/11)

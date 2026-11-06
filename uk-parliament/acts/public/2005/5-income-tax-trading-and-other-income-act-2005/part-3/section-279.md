@@ -30,7 +30,7 @@ summary: ''
 - (a) entering into a transaction mentioned in section 264 (if the land to which the lease relates is in the United Kingdom) or section 265 (if that land is outside the United Kingdom), and
 - (b) receiving the amount calculated under subsections (4) and (5) as a result of that transaction.
 
-(3) That amount is brought into account as a receipt in calculating the profits of the property business which consists of or[^key-e95d074bc31e0fed7127921bd8756f03] includes that transaction for the tax year in which the sum becomes payable.
+(3) That amount is brought into account as a receipt in calculating the profits of the property business which consists of or[^c-e95d074bc31e0fed7127921bd8756f03] includes that transaction for the tax year in which the sum becomes payable.
 
 (4) The amount of the receipt is given by the formula—
 
@@ -50,4 +50,4 @@ Y is the number of complete periods of 12 months (other than the first) comprise
 
 [^c19132991]: Modification: Ss. 277-281 excluded (with effect as mentioned in [Sch. 6 para. 6(2)-(7)](https://www.legislation.gov.uk/ukpga/1981/1/schedule/6/paragraph/6/2) of the amending Act) by [1981 c. 1](https://www.legislation.gov.uk/ukpga/1981/1), [s. 774G(7)](https://www.legislation.gov.uk/ukpga/1981/1/section/774G/7) as inserted by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 76](https://www.legislation.gov.uk/ukpga/2006/25/section/76), [Sch. 6 para. 6(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/6/paragraph/6/1)
 
-[^key-e95d074bc31e0fed7127921bd8756f03]: Textual amendment: Words in s. 279(3) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 615](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/615) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-e95d074bc31e0fed7127921bd8756f03]: Textual amendment: Words in s. 279(3) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 615](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/615) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

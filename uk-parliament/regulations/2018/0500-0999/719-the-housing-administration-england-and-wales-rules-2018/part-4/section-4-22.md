@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.22. Evidence provided by the housing administrator[^key-dd665c24308b8a95ebe1834bfedf454e]
+## 4.22. Evidence provided by the housing administrator[^c-dd665c24308b8a95ebe1834bfedf454e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd665c24308b8a95ebe1834bfedf454e]: Commencement: Rule 4.22 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-dd665c24308b8a95ebe1834bfedf454e]: Commencement: Rule 4.22 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

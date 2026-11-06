@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Revocation of temporary exemption notice[^key-f2ce0cb52e899df2621cdf97157dd11d]
+## 18. Revocation of temporary exemption notice[^c-f2ce0cb52e899df2621cdf97157dd11d]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2ce0cb52e899df2621cdf97157dd11d]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2016/22/section/18) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-f2ce0cb52e899df2621cdf97157dd11d]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2016/22/section/18) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

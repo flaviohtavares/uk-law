@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Competent authority – avoidance of conflict of interest[^key-20f01e688f5918fdd4cfcb33fd0aafc7]
+## 26. Competent authority – avoidance of conflict of interest[^c-20f01e688f5918fdd4cfcb33fd0aafc7]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ they are to implement within their organisation of administrative competences an
 
 ## Annotations
 
-[^key-20f01e688f5918fdd4cfcb33fd0aafc7]: Textual amendment: Rule 26 inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [15](https://www.legislation.gov.uk/ssi/2017/74/rule/15) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
+[^c-20f01e688f5918fdd4cfcb33fd0aafc7]: Textual amendment: Rule 26 inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [15](https://www.legislation.gov.uk/ssi/2017/74/rule/15) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))

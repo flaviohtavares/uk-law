@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. General provision and saving for ongoing pre-commencement action[^key-8e2a2739474e4027f15f2494c06cb2a7]
+## 42. General provision and saving for ongoing pre-commencement action[^c-8e2a2739474e4027f15f2494c06cb2a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e2a2739474e4027f15f2494c06cb2a7]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/41/section/42) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
+[^c-8e2a2739474e4027f15f2494c06cb2a7]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/41/section/42) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)

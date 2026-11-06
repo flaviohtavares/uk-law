@@ -24,11 +24,11 @@ summary: ''
 
 (2) Amounts are “ordinary BLAGAB management expenses” of the company if—
 
-- (a) they are, in accordance with generally accepted accounting practice, debited in accounts drawn up by the company for a period of account [^key-a872184e5a0972f6c2746a67b07d548e]...,
+- (a) they are, in accordance with generally accepted accounting practice, debited in accounts drawn up by the company for a period of account [^c-a872184e5a0972f6c2746a67b07d548e]...,
 - (b) they are expenses of management of the company's long-term business that are referable, in accordance with Chapter 4, to its basic life assurance and general annuity business, and
 - (c) they are not excluded amounts (see subsections (4) to (7)).
 
-(3)[^key-4d332a32e6db5ce9ce2cef574f8074af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4d332a32e6db5ce9ce2cef574f8074af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The following are “excluded amounts”—
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a872184e5a0972f6c2746a67b07d548e]: Textual amendment: Words in [s. 77(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/section/77/2/a) omitted (with effect in relation to accounting periods of companies beginning on or after 1.1.2023 of the commencing S.I.) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 5 paras. 3(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/3/2/b/i), [4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4); [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))
+[^c-a872184e5a0972f6c2746a67b07d548e]: Textual amendment: Words in [s. 77(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/section/77/2/a) omitted (with effect in relation to accounting periods of companies beginning on or after 1.1.2023 of the commencing S.I.) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 5 paras. 3(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/3/2/b/i), [4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4); [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))
 
-[^key-4d332a32e6db5ce9ce2cef574f8074af]: Textual amendment: [S. 77(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/77/3) omitted (with effect in relation to accounting periods of companies beginning on or after 1.1.2023 of the commencing S.I.) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 5 paras. 3(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/3/2/b/ii), [4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4); [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))
+[^c-4d332a32e6db5ce9ce2cef574f8074af]: Textual amendment: [S. 77(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/77/3) omitted (with effect in relation to accounting periods of companies beginning on or after 1.1.2023 of the commencing S.I.) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 5 paras. 3(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/3/2/b/ii), [4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4); [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))

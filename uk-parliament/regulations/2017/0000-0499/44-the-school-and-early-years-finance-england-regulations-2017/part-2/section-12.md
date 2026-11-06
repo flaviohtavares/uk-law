@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Applications to the schools forum and the Secretary of State[^key-e72f64e4024e6f848e3c35c76020b293]
+## 12. Applications to the schools forum and the Secretary of State[^c-e72f64e4024e6f848e3c35c76020b293]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e72f64e4024e6f848e3c35c76020b293]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/44) revoked (1.4.2019) by [The School and Early Years Finance (England) (No. 2) Regulations 2018 (S.I. 2018/1185)](https://www.legislation.gov.uk/uksi/2018/1185), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1185/regulation/2)
+[^c-e72f64e4024e6f848e3c35c76020b293]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/44) revoked (1.4.2019) by [The School and Early Years Finance (England) (No. 2) Regulations 2018 (S.I. 2018/1185)](https://www.legislation.gov.uk/uksi/2018/1185), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1185/regulation/2)

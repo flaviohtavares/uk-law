@@ -24,7 +24,7 @@ Section 13
 
 ### Appeals against determinations
 
-**1.**[^key-d78a648bcee1c26932b14462cbadd598] (1) The following may appeal to the Competition Appeal Tribunal against a market power determination in respect of an airport area—
+**1.**[^c-d78a648bcee1c26932b14462cbadd598] (1) The following may appeal to the Competition Appeal Tribunal against a market power determination in respect of an airport area—
 
 - (a) a person who is the operator of the area at the time the determination is made, and
 - (b) any other person whose interests are materially affected by the determination.
@@ -35,7 +35,7 @@ Section 13
 
 ### Notice of appeal
 
-**2.**[^key-6877df042f724753b1cd90620fb6f23f] (1) An appeal under paragraph 1 against a determination must be made by sending a notice of appeal to the Registrar of the Competition Appeal Tribunal.
+**2.**[^c-6877df042f724753b1cd90620fb6f23f] (1) An appeal under paragraph 1 against a determination must be made by sending a notice of appeal to the Registrar of the Competition Appeal Tribunal.
 
 (2) The notice must be received by the Registrar before the end of the period of 60 days beginning with the relevant day.
 
@@ -51,7 +51,7 @@ Section 13
 
 ### Decisions on appeal
 
-**3.**[^key-53588b0e452a0427a0a1a5bc5442fe8f] (1) The Competition Appeal Tribunal may allow an appeal under paragraph 1 only to the extent that it is satisfied that the market power determination or operator determination appealed against was wrong on one or more of the following grounds—
+**3.**[^c-53588b0e452a0427a0a1a5bc5442fe8f] (1) The Competition Appeal Tribunal may allow an appeal under paragraph 1 only to the extent that it is satisfied that the market power determination or operator determination appealed against was wrong on one or more of the following grounds—
 
 - (a) that the determination was based on an error of fact;
 - (b) that the determination was wrong in law;
@@ -83,7 +83,7 @@ Section 13
 
 ### Effect of suspending or setting aside market power determination
 
-**4.**[^key-4cff267b05a62e67cfaabda56dad40b4] (1) This paragraph applies where—
+**4.**[^c-4cff267b05a62e67cfaabda56dad40b4] (1) This paragraph applies where—
 
 - (a) the CAA publishes a notice of a market power determination (“determination A”) in respect of an airport area (“area Z”),
 - (b) the CAA subsequently publishes a notice of another market power determination (“determination B”) in respect of all or part of area Z or in respect of an area that includes all or part of area Z,
@@ -104,13 +104,13 @@ Section 13
 
 ### Appeals to Competition Appeal Tribunal: supplementary
 
-**5.**[^key-417eb4b355d9f6d699f7e7091dfd4009] (1) When deciding an appeal under paragraph 1 (including giving directions), making an order under paragraph 1 or 4 or making a market power determination or operator determination, the Competition Appeal Tribunal must have regard to the matters in respect of which duties are imposed on the CAA by section 1.
+**5.**[^c-417eb4b355d9f6d699f7e7091dfd4009] (1) When deciding an appeal under paragraph 1 (including giving directions), making an order under paragraph 1 or 4 or making a market power determination or operator determination, the Competition Appeal Tribunal must have regard to the matters in respect of which duties are imposed on the CAA by section 1.
 
 (2) When deciding an appeal under paragraph 1 relating to a market power determination (including giving directions) or making such a determination, the Competition Appeal Tribunal must have regard to the notices, guidance, advice and information described in section 6(10).
 
 ### Further appeals
 
-**6.**[^key-6bfc7aff8a89d1f2b457b3996fbb1d35] (1) An appeal lies to the appropriate court on a point of law arising from a decision of the Competition Appeal Tribunal under paragraph 3 or 4(3) or (4), including a direction.
+**6.**[^c-6bfc7aff8a89d1f2b457b3996fbb1d35] (1) An appeal lies to the appropriate court on a point of law arising from a decision of the Competition Appeal Tribunal under paragraph 3 or 4(3) or (4), including a direction.
 
 (2) An appeal under this paragraph against a decision relating to a market power determination may be brought by—
 
@@ -131,14 +131,14 @@ Section 13
 
 ## Annotations
 
-[^key-d78a648bcee1c26932b14462cbadd598]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2012/19/schedule/1/paragraph/1) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-d78a648bcee1c26932b14462cbadd598]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2012/19/schedule/1/paragraph/1) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-6877df042f724753b1cd90620fb6f23f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2012/19/schedule/1/paragraph/2) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-6877df042f724753b1cd90620fb6f23f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2012/19/schedule/1/paragraph/2) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-53588b0e452a0427a0a1a5bc5442fe8f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2012/19/schedule/1/paragraph/3) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-53588b0e452a0427a0a1a5bc5442fe8f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2012/19/schedule/1/paragraph/3) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-4cff267b05a62e67cfaabda56dad40b4]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2012/19/schedule/1/paragraph/4) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-4cff267b05a62e67cfaabda56dad40b4]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2012/19/schedule/1/paragraph/4) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-417eb4b355d9f6d699f7e7091dfd4009]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2012/19/schedule/1/paragraph/5) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-417eb4b355d9f6d699f7e7091dfd4009]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2012/19/schedule/1/paragraph/5) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-6bfc7aff8a89d1f2b457b3996fbb1d35]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2012/19/schedule/1/paragraph/6) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-6bfc7aff8a89d1f2b457b3996fbb1d35]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2012/19/schedule/1/paragraph/6) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

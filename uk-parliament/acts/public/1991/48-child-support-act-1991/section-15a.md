@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Inspectors: warrants authorising entry[^key-24e4f8da6638989f55565237937558d9]
+## 15A. Inspectors: warrants authorising entry[^c-24e4f8da6638989f55565237937558d9]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24e4f8da6638989f55565237937558d9]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/ukpga/1991/48/section/15A) inserted (4.7.2019) by [The Child Support (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1084)](https://www.legislation.gov.uk/uksi/2019/1084), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1084/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1084/regulation/12)
+[^c-24e4f8da6638989f55565237937558d9]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/ukpga/1991/48/section/15A) inserted (4.7.2019) by [The Child Support (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1084)](https://www.legislation.gov.uk/uksi/2019/1084), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1084/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1084/regulation/12)

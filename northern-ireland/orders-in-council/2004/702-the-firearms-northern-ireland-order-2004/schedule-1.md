@@ -115,7 +115,7 @@ to or from a place and for a purpose specified in the permit.
 (3) A person who is under the age of 18 may not by virtue of sub-paragraph (1)—
 
 - (a) have an air gun in his possession without a firearm certificate unless he has attained the age of 14 or is under the supervision of a person who has attained the age of 21;
-- (b) purchase an air gun without a firearm certificate [^key-6991f6908680275fbac1261743d332fc]....
+- (b) purchase an air gun without a firearm certificate [^c-6991f6908680275fbac1261743d332fc]....
 
 (4) A person may, without holding a firearm certificate, have in his possession or purchase or acquire ammunition for an air gun.
 
@@ -139,9 +139,9 @@ to or from a place and for a purpose specified in the permit.
 
 (2) A person may, without holding a firearm certificate, use a shotgun at a time and place approved by the Chief Constable for shooting at artificial targets.
 
-(3) Sub-paragraphs (1) and (2) do not apply in relation to a person who is under the age of 18 unless the person has attained the age of 16 and is under the supervision of a person who has attained the age of 21 and has held a firearm certificate for a shotgun for at least three years[^key-37719bdbe6ee2a33f280a18539045b56] .
+(3) Sub-paragraphs (1) and (2) do not apply in relation to a person who is under the age of 18 unless the person has attained the age of 16 and is under the supervision of a person who has attained the age of 21 and has held a firearm certificate for a shotgun for at least three years[^c-37719bdbe6ee2a33f280a18539045b56] .
 
-(4)[^key-b06c7c1ada42b0b5861871d8bbd46515] A person who is under the age of 16 but has attained the age of 12 may, without holding a firearm certificate, use a shotgun in accordance with an authorisation under Article 50A.
+(4)[^c-b06c7c1ada42b0b5861871d8bbd46515] A person who is under the age of 16 but has attained the age of 12 may, without holding a firearm certificate, use a shotgun in accordance with an authorisation under Article 50A.
 
 ### Theatre and cinema
 
@@ -169,8 +169,8 @@ to or from a place and for a purpose specified in the permit.
 
 [^c21955641]: Textual amendment: Words in Sch. 1 para. 6 inserted (28.7.2010) by [Firearms (Amendment) Regulations 2010 (S.I. 2010/1759)](https://www.legislation.gov.uk/uksi/2010/1759), [reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2010/1759/regulation/5/3/b)
 
-[^key-6991f6908680275fbac1261743d332fc]: Textual amendment: Words in Sch. 1 para. 9(3)(b) repealed (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/2/2/a)
+[^c-6991f6908680275fbac1261743d332fc]: Textual amendment: Words in Sch. 1 para. 9(3)(b) repealed (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/2/2/a)
 
-[^key-37719bdbe6ee2a33f280a18539045b56]: Textual amendment: Words in Sch. 1 para. 11(3) added (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 2(2)(b)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/2/2/b)
+[^c-37719bdbe6ee2a33f280a18539045b56]: Textual amendment: Words in Sch. 1 para. 11(3) added (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 2(2)(b)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/2/2/b)
 
-[^key-b06c7c1ada42b0b5861871d8bbd46515]: Textual amendment: Sch. 1 para. 11(4) added (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(7)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/7)
+[^c-b06c7c1ada42b0b5861871d8bbd46515]: Textual amendment: Sch. 1 para. 11(4) added (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(7)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/7)

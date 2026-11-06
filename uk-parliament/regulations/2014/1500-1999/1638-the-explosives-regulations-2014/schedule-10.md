@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — CONFORMITY MARKING[^key-3f1221df040b83ac8aed0e2efb1d03c9]
+## SCHEDULE 10 — CONFORMITY MARKING[^c-3f1221df040b83ac8aed0e2efb1d03c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Regulation 42(3)
 
-[^key-3f1221df040b83ac8aed0e2efb1d03c9]
+[^c-3f1221df040b83ac8aed0e2efb1d03c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f1221df040b83ac8aed0e2efb1d03c9]
+[^c-3f1221df040b83ac8aed0e2efb1d03c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3f1221df040b83ac8aed0e2efb1d03c9]: Textual amendment: Sch. 10 omitted (20.4.2016) by virtue of [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [11](https://www.legislation.gov.uk/uksi/2016/315/regulation/11) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
+[^c-3f1221df040b83ac8aed0e2efb1d03c9]: Textual amendment: Sch. 10 omitted (20.4.2016) by virtue of [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [11](https://www.legislation.gov.uk/uksi/2016/315/regulation/11) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))

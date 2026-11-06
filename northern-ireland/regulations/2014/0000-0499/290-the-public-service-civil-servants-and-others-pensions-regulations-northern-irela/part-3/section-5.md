@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Delegation[^key-33fecf38ca3262659ed46863275066e3]
+## 5. Delegation[^c-33fecf38ca3262659ed46863275066e3]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33fecf38ca3262659ed46863275066e3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2014/290/regulation/5) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-33fecf38ca3262659ed46863275066e3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2014/290/regulation/5) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

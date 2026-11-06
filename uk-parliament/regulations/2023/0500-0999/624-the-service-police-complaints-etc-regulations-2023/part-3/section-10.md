@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Complaints and conduct matters relating to the conduct of former members of a service police force[^key-193d038395d8da1b23649bdc7881cfd9]
+## 10. Complaints and conduct matters relating to the conduct of former members of a service police force[^c-193d038395d8da1b23649bdc7881cfd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-193d038395d8da1b23649bdc7881cfd9]: Commencement: Reg. 10 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-193d038395d8da1b23649bdc7881cfd9]: Commencement: Reg. 10 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

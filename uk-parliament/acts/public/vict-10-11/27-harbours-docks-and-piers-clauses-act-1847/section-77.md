@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Power to erect lighthouses and lay down buoys, with consent of Trinity House.[^key-ec94fd8cad8ab86323c51452a10b198c]
+## 77. Power to erect lighthouses and lay down buoys, with consent of Trinity House.[^c-ec94fd8cad8ab86323c51452a10b198c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The undertakers shall lay down buoys for the guidance of vessels in such situati
 
 ## Annotations
 
-[^key-ec94fd8cad8ab86323c51452a10b198c]: Modification: S. 77 incorporated (with modifications) (E.W.S.) (16.8.2012) by [The Hinkley Point Harbour Empowerment Order 2012 (S.I. 2012/1914)](https://www.legislation.gov.uk/uksi/2012/1914), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/1914/article/3) (with [arts. 34](https://www.legislation.gov.uk/uksi/2012/1914/article/34), [35](https://www.legislation.gov.uk/uksi/2012/1914/article/35), [37](https://www.legislation.gov.uk/uksi/2012/1914/article/37), [40](https://www.legislation.gov.uk/uksi/2012/1914/article/40))
+[^c-ec94fd8cad8ab86323c51452a10b198c]: Modification: S. 77 incorporated (with modifications) (E.W.S.) (16.8.2012) by [The Hinkley Point Harbour Empowerment Order 2012 (S.I. 2012/1914)](https://www.legislation.gov.uk/uksi/2012/1914), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/1914/article/3) (with [arts. 34](https://www.legislation.gov.uk/uksi/2012/1914/article/34), [35](https://www.legislation.gov.uk/uksi/2012/1914/article/35), [37](https://www.legislation.gov.uk/uksi/2012/1914/article/37), [40](https://www.legislation.gov.uk/uksi/2012/1914/article/40))

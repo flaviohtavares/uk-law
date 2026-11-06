@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, commencement and effect[^key-c01c927e5c94a536d12f8994b8c9888b]
+## 1. Citation, commencement and effect[^c-c01c927e5c94a536d12f8994b8c9888b]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c01c927e5c94a536d12f8994b8c9888b]: Commencement: Reg. 1 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-c01c927e5c94a536d12f8994b8c9888b]: Commencement: Reg. 1 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

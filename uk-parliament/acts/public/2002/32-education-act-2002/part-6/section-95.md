@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Appeals against directions under section 93 etc.[^key-6f9ecb4ae1e3d4187475a94ac87921c8]
+## 95. Appeals against directions under section 93 etc.[^c-6f9ecb4ae1e3d4187475a94ac87921c8]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ the parent of the pupil concerned may appeal to the governing body.
 
 ## Annotations
 
-[^key-6f9ecb4ae1e3d4187475a94ac87921c8]: Modification: S. 95 modified (31.3.2004) by [The Blackburn with Darwen (Maintained Nursery School Governance) Order 2004 (S.I. 2004/657)](https://www.legislation.gov.uk/uksi/2004/657), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/657/article/1/1), [3(j)](https://www.legislation.gov.uk/uksi/2004/657/article/3/j)
+[^c-6f9ecb4ae1e3d4187475a94ac87921c8]: Modification: S. 95 modified (31.3.2004) by [The Blackburn with Darwen (Maintained Nursery School Governance) Order 2004 (S.I. 2004/657)](https://www.legislation.gov.uk/uksi/2004/657), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/657/article/1/1), [3(j)](https://www.legislation.gov.uk/uksi/2004/657/article/3/j)

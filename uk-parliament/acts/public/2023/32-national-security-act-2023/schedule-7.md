@@ -24,7 +24,7 @@ Section 39
 
 ### Part 1 — Measures
 
-#### 1. Residence measure[^key-e85e9c7137ec5410e903d4049fe5c1ea][^key-64a7e95a31426a2d740f1bbedf31ca53]
+#### 1. Residence measure[^c-e85e9c7137ec5410e903d4049fe5c1ea][^c-64a7e95a31426a2d740f1bbedf31ca53]
 
 (1) The Secretary of State may impose restrictions on the individual in relation to the residence in which the individual resides.
 
@@ -63,7 +63,7 @@ Section 39
 
 (12) In sub-paragraph (8) “**applicable period**” means a period for which the individual is required to remain at the specified residence by virtue of a requirement of the kind mentioned in sub-paragraph (2)(c).
 
-#### 2. Travel measure[^key-02a21d6804777f7b61d3c5f2f8b41568][^key-4a722909ffd7d73562cc48ec816977b8]
+#### 2. Travel measure[^c-02a21d6804777f7b61d3c5f2f8b41568][^c-4a722909ffd7d73562cc48ec816977b8]
 
 (1) The Secretary of State may impose restrictions on the individual leaving a specified area or travelling outside that area.
 
@@ -92,7 +92,7 @@ Section 39
 - (b) a passport issued by or on behalf of the authorities of a country or territory outside the United Kingdom, or by or on behalf of an international organisation;
 - (c) a document that can be used (in some or all circumstances) instead of a passport.
 
-#### 3. Exclusion measure[^key-60501c91f9eab9d80dc6cabab7f5b4e9][^key-36fd9f27554e1e70186273f846eb8bb9]
+#### 3. Exclusion measure[^c-60501c91f9eab9d80dc6cabab7f5b4e9][^c-36fd9f27554e1e70186273f846eb8bb9]
 
 (1) The Secretary of State may impose restrictions on the individual entering—
 
@@ -107,7 +107,7 @@ But the Secretary of State may not impose restrictions on the individual enterin
 - (b) a requirement to give notice to the Secretary of State before entering;
 - (c) a requirement not to enter unless other specified conditions are met.
 
-#### 4. Movement directions measure[^key-dda93409163b61428bde1498af49c2e8][^key-4c2fa9cb9a35a5aa5a552a419050b0f2]
+#### 4. Movement directions measure[^c-dda93409163b61428bde1498af49c2e8][^c-4c2fa9cb9a35a5aa5a552a419050b0f2]
 
 (1) The Secretary of State may impose a requirement for the individual to comply with directions given by a constable in respect of the individual’s movements (which may, in particular, include a restriction on movements).
 
@@ -118,7 +118,7 @@ But the Secretary of State may not impose restrictions on the individual enterin
 
 (3) Directions may not remain in effect for a period that is any longer than the constable giving the directions considers necessary for the purpose mentioned in sub-paragraph (2); but that period may not in any event be a period of more than 24 hours.
 
-#### 5. Financial services measure[^key-205102eb0547b4106279616cc1ed65e5][^key-6ecb8af2178d1cc5e0806d20a9e413ef]
+#### 5. Financial services measure[^c-205102eb0547b4106279616cc1ed65e5][^c-6ecb8af2178d1cc5e0806d20a9e413ef]
 
 (1) The Secretary of State may impose restrictions on the individual’s use of, or access to, such descriptions of financial services as are specified.
 
@@ -158,7 +158,7 @@ But the Secretary of State may not impose restrictions on the individual enterin
 - (b) lending (including consumer credit and mortgage credit);
 - (c) payment and money transmission services (including credit, charge and debit cards).
 
-#### 6. Property measure[^key-1c81eca08649435533c9565a1759a79e][^key-11c27c141c9bcdd24f4da953feb239ce]
+#### 6. Property measure[^c-1c81eca08649435533c9565a1759a79e][^c-11c27c141c9bcdd24f4da953feb239ce]
 
 (1) The Secretary of State may impose either or both of the following—
 
@@ -181,16 +181,16 @@ But the Secretary of State may not impose restrictions on the individual enterin
 
 (5) In this paragraph “**property**” includes rights over, or in relation to, property (including rights of use and rights to grant access); and a reference to the transfer of property includes a reference to the acquisition or disposal of such rights.
 
-#### 7. Weapons and explosives measure[^key-7693961e9b8c267741c6cfd8a80d1016][^key-0d6f26e895ac42d97ebc90f64c04b2d5]
+#### 7. Weapons and explosives measure[^c-7693961e9b8c267741c6cfd8a80d1016][^c-0d6f26e895ac42d97ebc90f64c04b2d5]
 
 (1) The Secretary of State may impose on the individual—
 
-- (za)[^key-0f379c6502690a39f08afefe056923da] a prohibition on possessing things of a specified description;
+- (za)[^c-0f379c6502690a39f08afefe056923da] a prohibition on possessing things of a specified description;
 - (zb) a prohibition on possessing things of a specified description without the permission of the Secretary of State;
-- (a) a prohibition on possessing [^key-cefeab59c379e6dc6f93892eb3fc1f45]... imitation firearms or explosives;
+- (a) a prohibition on possessing [^c-cefeab59c379e6dc6f93892eb3fc1f45]... imitation firearms or explosives;
 - (b) a prohibition on making an application for a firearm certificate or a shot gun certificate.
 
-(1A)[^key-bbe3a7b1bf30966b59d8ad846e858e7b] The descriptions of things which may be specified under sub-paragraph (1)(za) or (zb) are—
+(1A)[^c-bbe3a7b1bf30966b59d8ad846e858e7b] The descriptions of things which may be specified under sub-paragraph (1)(za) or (zb) are—
 
 - (a) any description of corrosive substances (as defined by section 6 of the Offensive Weapons Act 2019);
 - (b) any description of motor vehicles;
@@ -199,7 +199,7 @@ But the Secretary of State may not impose restrictions on the individual enterin
 
 (2) In sub-paragraph (1)(a)—
 
-- [^key-af519b930331666f05837a83f61d5286]...
+- [^c-af519b930331666f05837a83f61d5286]...
 - “**imitation firearm**” has the same meaning as in the Firearms Act 1968 or (in relation to Northern Ireland) the Firearms (Northern Ireland) Order 2004 ([S.I. 2004/702 (N.I. 3)](https://www.legislation.gov.uk/nisi/2004/702));
 - “**explosive**” means anything that is—
   - (a) an explosive within the meaning of the Explosives Act 1875, or
@@ -210,7 +210,7 @@ But the Secretary of State may not impose restrictions on the individual enterin
 - (a) an application for a firearm certificate is an application under section 26A of the Firearms Act 1968 or Article 4 of the Firearms (Northern Ireland) Order 2004 ([S.I. 2004/702 (N.I. 3)](https://www.legislation.gov.uk/nisi/2004/702));
 - (b) an application for a shot gun certificate is an application under section 26B of the Firearms Act 1968.
 
-#### 8. Electronic communication device measure[^key-7801b8870d5650dcb09e11837afa6aac][^key-ee8519ef56e4e7d0782084add72845cc]
+#### 8. Electronic communication device measure[^c-7801b8870d5650dcb09e11837afa6aac][^c-ee8519ef56e4e7d0782084add72845cc]
 
 (1) The Secretary of State may impose either or both of the following—
 
@@ -250,7 +250,7 @@ But the Secretary of State may not impose restrictions on the individual enterin
 - (c) equipment (not within paragraph (a) or (b)) designed or adapted, or capable of being adapted, for the purpose of connecting to the internet, and
 - (d) equipment designed or adapted, or capable of being adapted, for the purposes of sending or receiving facsimile transmissions.
 
-#### 9. Association measure[^key-904c427b3f3837ef5da5696710800917][^key-0c8c8ad969dc383a4c46c599618ba11e]
+#### 9. Association measure[^c-904c427b3f3837ef5da5696710800917][^c-0c8c8ad969dc383a4c46c599618ba11e]
 
 (1) The Secretary of State may impose restrictions on the individual’s association or communication with other persons.
 
@@ -262,7 +262,7 @@ But the Secretary of State may not impose restrictions on the individual enterin
 
 (3) An individual associates or communicates with another person if the individual associates or communicates with that person by any means (and for this purpose it is immaterial whether the association or communication is carried out by the individual in person or by or through another individual or means).
 
-#### 10. Work or studies measure[^key-4875db4c9e5634c58f8030a97837d77b][^key-797bc7dae47a72954c2121ba66abfca9]
+#### 10. Work or studies measure[^c-4875db4c9e5634c58f8030a97837d77b][^c-797bc7dae47a72954c2121ba66abfca9]
 
 (1) The Secretary of State may impose restrictions on the individual in relation to the individual’s work or studies.
 
@@ -279,7 +279,7 @@ But the Secretary of State may not impose restrictions on the individual enterin
 - “**studies**” includes any course of education or training;
 - “**work**” includes any business or occupation (whether paid or unpaid).
 
-#### 11. Reporting measure[^key-55a2bdd238f731ede3d0a2d43c5fbf65][^key-752ecd3a5b42139562bc219625f06aba]
+#### 11. Reporting measure[^c-55a2bdd238f731ede3d0a2d43c5fbf65][^c-752ecd3a5b42139562bc219625f06aba]
 
 (1) The Secretary of State may impose a requirement for the individual—
 
@@ -288,7 +288,7 @@ But the Secretary of State may not impose restrictions on the individual enterin
 
 (2) Such a notice may, in particular, provide that a requirement to report to a police station is not to apply if conditions specified in the notice are met.
 
-#### 12. Polygraph measure[^key-22deb93c9287a14b937d963572c2c1f0][^key-193b8151b1b67af44c71f7fbb548240b]
+#### 12. Polygraph measure[^c-22deb93c9287a14b937d963572c2c1f0][^c-193b8151b1b67af44c71f7fbb548240b]
 
 (1) The Secretary of State may impose a requirement for the individual—
 
@@ -322,7 +322,7 @@ But the Secretary of State may not impose restrictions on the individual enterin
   - (a) conducts one or more polygraph examinations of the individual, and
   - (b) interviews the individual in preparation for, or otherwise in connection with, any such examination.
 
-#### 13. Appointments measure[^key-d80e769cbba60d88ce96cc3d96a6f7bc][^key-4efe95e19b169efcee76c5f0ca4ba0d5]
+#### 13. Appointments measure[^c-d80e769cbba60d88ce96cc3d96a6f7bc][^c-4efe95e19b169efcee76c5f0ca4ba0d5]
 
 (1) The Secretary of State may impose a requirement for the individual—
 
@@ -334,11 +334,11 @@ But the Secretary of State may not impose restrictions on the individual enterin
 - (a) at specified times and places, or
 - (b) at times and places notified to the individual by persons referred to in that sub-paragraph.
 
-#### 14. Photography measure[^key-1d36dba2fef430c54a453a67b48d1675][^key-56e750b8da9c32f44e0a3ebc6f0c939d]
+#### 14. Photography measure[^c-1d36dba2fef430c54a453a67b48d1675][^c-56e750b8da9c32f44e0a3ebc6f0c939d]
 
 The Secretary of State may impose a requirement for the individual to allow photographs to be taken of the individual at such locations and at such times as the Secretary of State may by notice require.
 
-#### 15. Monitoring measure[^key-cfc6b5d956ffa582dee5c18d3ce51f83][^key-7f7e13ef3dc1738225487629e9d1bb30]
+#### 15. Monitoring measure[^c-cfc6b5d956ffa582dee5c18d3ce51f83][^c-7f7e13ef3dc1738225487629e9d1bb30]
 
 (1) The Secretary of State may impose requirements for the individual to co-operate with specified arrangements for enabling the individual’s movements, communications or other activities to be monitored by electronic or other means.
 
@@ -351,7 +351,7 @@ The Secretary of State may impose a requirement for the individual to allow phot
 
 (3) Directions under sub-paragraph (2)(d) may include directions requiring the individual to grant access to the individual’s residence for the purpose of the inspection or modification of any apparatus used or maintained under the arrangements.
 
-#### 16. Provision of residence information measure[^key-3253617194e9f97f4f9045a62515ea57][^key-ad8d6864e20d9f01a30d62e5db28d81f]
+#### 16. Provision of residence information measure[^c-3253617194e9f97f4f9045a62515ea57][^c-ad8d6864e20d9f01a30d62e5db28d81f]
 
 (1) The Secretary of State may impose a requirement for the individual to disclose to the Secretary of State—
 
@@ -365,7 +365,7 @@ The Secretary of State may impose a requirement for the individual to allow phot
 
 ### Part 2 — Permission and notices
 
-#### 17. Permission[^key-0ea8e14b54eb6d4b9b5fe02642d640f0][^key-a8abe8fb4207c59dfd9b2eb600f2ed5b]
+#### 17. Permission[^c-0ea8e14b54eb6d4b9b5fe02642d640f0][^c-a8abe8fb4207c59dfd9b2eb600f2ed5b]
 
 (1) Any application by an individual for permission must be made in writing.
 
@@ -386,7 +386,7 @@ The Secretary of State may impose a requirement for the individual to allow phot
 
 (8) In this paragraph “**permission**” means permission in connection with a requirement or restriction imposed under Part 1 of this Schedule.
 
-#### 18. Notices[^key-79eacf9d3670593ae7405a0671c3e8da][^key-79d3d80b275e0d45b62f506bd5c85a3d]
+#### 18. Notices[^c-79eacf9d3670593ae7405a0671c3e8da][^c-79d3d80b275e0d45b62f506bd5c85a3d]
 
 (1) This paragraph applies for the purposes of any notice given by the individual to the Secretary of State in connection with measures imposed under Part 1 of this Schedule (“a Schedule 7 notice”).
 
@@ -404,92 +404,92 @@ The Secretary of State may impose a requirement for the individual to allow phot
 - (a) that the Schedule 7 notice has been received, and
 - (b) that no (or no further) information is required under sub-paragraph (4) in relation to the Schedule 7 notice.
 
-#### 19. Power of Secretary of State to vary or revoke notices[^key-e22b77b439be487d7b5e3c8096cf4f7a][^key-69767ad4d7405aff996137f3ed3de4fb]
+#### 19. Power of Secretary of State to vary or revoke notices[^c-e22b77b439be487d7b5e3c8096cf4f7a][^c-69767ad4d7405aff996137f3ed3de4fb]
 
 The Secretary of State may vary or revoke a notice given by the Secretary of State under this Schedule.
 
 ## Annotations
 
-[^key-e85e9c7137ec5410e903d4049fe5c1ea]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see 100(1)
+[^c-e85e9c7137ec5410e903d4049fe5c1ea]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see 100(1)
 
-[^key-64a7e95a31426a2d740f1bbedf31ca53]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-64a7e95a31426a2d740f1bbedf31ca53]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-02a21d6804777f7b61d3c5f2f8b41568]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see 100(1)
+[^c-02a21d6804777f7b61d3c5f2f8b41568]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see 100(1)
 
-[^key-4a722909ffd7d73562cc48ec816977b8]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-4a722909ffd7d73562cc48ec816977b8]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-60501c91f9eab9d80dc6cabab7f5b4e9]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see 100(1)
+[^c-60501c91f9eab9d80dc6cabab7f5b4e9]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see 100(1)
 
-[^key-36fd9f27554e1e70186273f846eb8bb9]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-36fd9f27554e1e70186273f846eb8bb9]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-dda93409163b61428bde1498af49c2e8]: Commencement: Sch. 7 para. 4 not in force at Royal Assent, see 100(1)
+[^c-dda93409163b61428bde1498af49c2e8]: Commencement: Sch. 7 para. 4 not in force at Royal Assent, see 100(1)
 
-[^key-4c2fa9cb9a35a5aa5a552a419050b0f2]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/4) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-4c2fa9cb9a35a5aa5a552a419050b0f2]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/4) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-205102eb0547b4106279616cc1ed65e5]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see 100(1)
+[^c-205102eb0547b4106279616cc1ed65e5]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see 100(1)
 
-[^key-6ecb8af2178d1cc5e0806d20a9e413ef]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/5) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-6ecb8af2178d1cc5e0806d20a9e413ef]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/5) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-1c81eca08649435533c9565a1759a79e]: Commencement: Sch. 7 para. 6 not in force at Royal Assent, see 100(1)
+[^c-1c81eca08649435533c9565a1759a79e]: Commencement: Sch. 7 para. 6 not in force at Royal Assent, see 100(1)
 
-[^key-11c27c141c9bcdd24f4da953feb239ce]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/6) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-11c27c141c9bcdd24f4da953feb239ce]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/6) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-7693961e9b8c267741c6cfd8a80d1016]: Commencement: Sch. 7 para. 7 not in force at Royal Assent, see 100(1)
+[^c-7693961e9b8c267741c6cfd8a80d1016]: Commencement: Sch. 7 para. 7 not in force at Royal Assent, see 100(1)
 
-[^key-0d6f26e895ac42d97ebc90f64c04b2d5]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/7) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-0d6f26e895ac42d97ebc90f64c04b2d5]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/7) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-0f379c6502690a39f08afefe056923da]: Textual amendment: [Sch. 7 para. 7(1)(za)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/7/1/za)[(zb)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/7/1/zb) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/2/a/i), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
+[^c-0f379c6502690a39f08afefe056923da]: Textual amendment: [Sch. 7 para. 7(1)(za)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/7/1/za)[(zb)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/7/1/zb) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/2/a/i), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
 
-[^key-cefeab59c379e6dc6f93892eb3fc1f45]: Textual amendment: Words in [Sch. 7 para. 7(1)(a)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/7/1/a) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/2/a/ii), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
+[^c-cefeab59c379e6dc6f93892eb3fc1f45]: Textual amendment: Words in [Sch. 7 para. 7(1)(a)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/7/1/a) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/2/a/ii), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
 
-[^key-bbe3a7b1bf30966b59d8ad846e858e7b]: Textual amendment: [Sch. 7 para. 7(1A)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/7/1A) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(2)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/2/b), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
+[^c-bbe3a7b1bf30966b59d8ad846e858e7b]: Textual amendment: [Sch. 7 para. 7(1A)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/7/1A) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(2)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/2/b), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
 
-[^key-af519b930331666f05837a83f61d5286]: Textual amendment: Words in [Sch. 7 para. 7(2)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/7/2) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(2)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/2/c), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
+[^c-af519b930331666f05837a83f61d5286]: Textual amendment: Words in [Sch. 7 para. 7(2)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/7/2) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(2)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/2/c), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
 
-[^key-7801b8870d5650dcb09e11837afa6aac]: Commencement: Sch. 7 para. 8 not in force at Royal Assent, see 100(1)
+[^c-7801b8870d5650dcb09e11837afa6aac]: Commencement: Sch. 7 para. 8 not in force at Royal Assent, see 100(1)
 
-[^key-ee8519ef56e4e7d0782084add72845cc]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/8) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-ee8519ef56e4e7d0782084add72845cc]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/8) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-904c427b3f3837ef5da5696710800917]: Commencement: Sch. 7 para. 9 not in force at Royal Assent, see 100(1)
+[^c-904c427b3f3837ef5da5696710800917]: Commencement: Sch. 7 para. 9 not in force at Royal Assent, see 100(1)
 
-[^key-0c8c8ad969dc383a4c46c599618ba11e]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/9) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-0c8c8ad969dc383a4c46c599618ba11e]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/9) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-4875db4c9e5634c58f8030a97837d77b]: Commencement: Sch. 7 para. 10 not in force at Royal Assent, see 100(1)
+[^c-4875db4c9e5634c58f8030a97837d77b]: Commencement: Sch. 7 para. 10 not in force at Royal Assent, see 100(1)
 
-[^key-797bc7dae47a72954c2121ba66abfca9]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/10) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-797bc7dae47a72954c2121ba66abfca9]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/10) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-55a2bdd238f731ede3d0a2d43c5fbf65]: Commencement: Sch. 7 para. 11 not in force at Royal Assent, see 100(1)
+[^c-55a2bdd238f731ede3d0a2d43c5fbf65]: Commencement: Sch. 7 para. 11 not in force at Royal Assent, see 100(1)
 
-[^key-752ecd3a5b42139562bc219625f06aba]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/11) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-752ecd3a5b42139562bc219625f06aba]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/11) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-22deb93c9287a14b937d963572c2c1f0]: Commencement: Sch. 7 para. 12 not in force at Royal Assent, see 100(1)
+[^c-22deb93c9287a14b937d963572c2c1f0]: Commencement: Sch. 7 para. 12 not in force at Royal Assent, see 100(1)
 
-[^key-193b8151b1b67af44c71f7fbb548240b]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/12) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-193b8151b1b67af44c71f7fbb548240b]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/12) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-d80e769cbba60d88ce96cc3d96a6f7bc]: Commencement: Sch. 7 para. 13 not in force at Royal Assent, see 100(1)
+[^c-d80e769cbba60d88ce96cc3d96a6f7bc]: Commencement: Sch. 7 para. 13 not in force at Royal Assent, see 100(1)
 
-[^key-4efe95e19b169efcee76c5f0ca4ba0d5]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/13) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-4efe95e19b169efcee76c5f0ca4ba0d5]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/13) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-1d36dba2fef430c54a453a67b48d1675]: Commencement: Sch. 7 para. 14 not in force at Royal Assent, see 100(1)
+[^c-1d36dba2fef430c54a453a67b48d1675]: Commencement: Sch. 7 para. 14 not in force at Royal Assent, see 100(1)
 
-[^key-56e750b8da9c32f44e0a3ebc6f0c939d]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/14) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-56e750b8da9c32f44e0a3ebc6f0c939d]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/14) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-cfc6b5d956ffa582dee5c18d3ce51f83]: Commencement: Sch. 7 para. 15 not in force at Royal Assent, see 100(1)
+[^c-cfc6b5d956ffa582dee5c18d3ce51f83]: Commencement: Sch. 7 para. 15 not in force at Royal Assent, see 100(1)
 
-[^key-7f7e13ef3dc1738225487629e9d1bb30]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/15) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-7f7e13ef3dc1738225487629e9d1bb30]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/15) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-3253617194e9f97f4f9045a62515ea57]: Commencement: Sch. 7 para. 16 not in force at Royal Assent, see 100(1)
+[^c-3253617194e9f97f4f9045a62515ea57]: Commencement: Sch. 7 para. 16 not in force at Royal Assent, see 100(1)
 
-[^key-ad8d6864e20d9f01a30d62e5db28d81f]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/16) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-ad8d6864e20d9f01a30d62e5db28d81f]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/16) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-0ea8e14b54eb6d4b9b5fe02642d640f0]: Commencement: Sch. 7 para. 17 not in force at Royal Assent, see 100(1)
+[^c-0ea8e14b54eb6d4b9b5fe02642d640f0]: Commencement: Sch. 7 para. 17 not in force at Royal Assent, see 100(1)
 
-[^key-a8abe8fb4207c59dfd9b2eb600f2ed5b]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/17) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-a8abe8fb4207c59dfd9b2eb600f2ed5b]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/17) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-79eacf9d3670593ae7405a0671c3e8da]: Commencement: Sch. 7 para. 18 not in force at Royal Assent, see 100(1)
+[^c-79eacf9d3670593ae7405a0671c3e8da]: Commencement: Sch. 7 para. 18 not in force at Royal Assent, see 100(1)
 
-[^key-79d3d80b275e0d45b62f506bd5c85a3d]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/18) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-79d3d80b275e0d45b62f506bd5c85a3d]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/18) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-e22b77b439be487d7b5e3c8096cf4f7a]: Commencement: Sch. 7 para. 19 not in force at Royal Assent, see 100(1)
+[^c-e22b77b439be487d7b5e3c8096cf4f7a]: Commencement: Sch. 7 para. 19 not in force at Royal Assent, see 100(1)
 
-[^key-69767ad4d7405aff996137f3ed3de4fb]: Commencement: [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/19) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-69767ad4d7405aff996137f3ed3de4fb]: Commencement: [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2023/32/schedule/7/paragraph/19) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

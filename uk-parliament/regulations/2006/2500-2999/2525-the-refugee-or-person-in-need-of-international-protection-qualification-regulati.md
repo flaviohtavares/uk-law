@@ -32,7 +32,7 @@ summary: ''
 
 immigration
 
-The Refugee or Person in Need of International Protection (Qualification) Regulations 2006 (revoked)[^key-e517d99f3354c37a8a2c4b18dc2660fb]
+The Refugee or Person in Need of International Protection (Qualification) Regulations 2006 (revoked)[^c-e517d99f3354c37a8a2c4b18dc2660fb]
 
 Made
 
@@ -46,42 +46,42 @@ Coming into force
 
 9th October 2006
 
-[^key-e517d99f3354c37a8a2c4b18dc2660fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e517d99f3354c37a8a2c4b18dc2660fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e517d99f3354c37a8a2c4b18dc2660fb]
+## 1. Citation and commencement[^c-e517d99f3354c37a8a2c4b18dc2660fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e517d99f3354c37a8a2c4b18dc2660fb]
+## 2. Interpretation[^c-e517d99f3354c37a8a2c4b18dc2660fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Actors of persecution or serious harm[^key-e517d99f3354c37a8a2c4b18dc2660fb]
+## 3. Actors of persecution or serious harm[^c-e517d99f3354c37a8a2c4b18dc2660fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Actors of protection[^key-e517d99f3354c37a8a2c4b18dc2660fb]
+## 4. Actors of protection[^c-e517d99f3354c37a8a2c4b18dc2660fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Act of persecution[^key-e517d99f3354c37a8a2c4b18dc2660fb]
+## 5. Act of persecution[^c-e517d99f3354c37a8a2c4b18dc2660fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Reasons for persecution[^key-e517d99f3354c37a8a2c4b18dc2660fb]
+## 6. Reasons for persecution[^c-e517d99f3354c37a8a2c4b18dc2660fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Exclusion[^key-e517d99f3354c37a8a2c4b18dc2660fb]
+## 7. Exclusion[^c-e517d99f3354c37a8a2c4b18dc2660fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e517d99f3354c37a8a2c4b18dc2660fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e517d99f3354c37a8a2c4b18dc2660fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e517d99f3354c37a8a2c4b18dc2660fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e517d99f3354c37a8a2c4b18dc2660fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e517d99f3354c37a8a2c4b18dc2660fb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/2525) revoked (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 30(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/30/4), [87(5)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/c) (with transitional provision in [The Nationality and Borders Act 2022 (Commencement No. 1, Transitional and Saving Provisions) Regulations 2022 (S.I. 2022/590)](https://www.legislation.gov.uk/uksi/2022/590), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/5))
+[^c-e517d99f3354c37a8a2c4b18dc2660fb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/2525) revoked (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 30(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/30/4), [87(5)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/c) (with transitional provision in [The Nationality and Borders Act 2022 (Commencement No. 1, Transitional and Saving Provisions) Regulations 2022 (S.I. 2022/590)](https://www.legislation.gov.uk/uksi/2022/590), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/5))

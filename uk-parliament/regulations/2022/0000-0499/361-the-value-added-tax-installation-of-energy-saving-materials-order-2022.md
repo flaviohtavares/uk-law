@@ -44,19 +44,19 @@ Coming into force in accordance with articles 2 and 3
 
 The Treasury make this Order in exercise of the powers conferred by sections 29A(3), 30(4) and 96(9) of the Value Added Tax Act 1994[^f00001].
 
-## 1. Citation and Commencement[^key-a1d1d5807a26e75100f2b3829fee68ae]
+## 1. Citation and Commencement[^c-a1d1d5807a26e75100f2b3829fee68ae]
 
 This Order may be cited as the Value Added Tax (Installation of Energy-Saving Materials) Order 2022.
 
-**2.**[^key-390c6cea2906e6a047b256337ff5d03c] Articles 1 to 7 come into force on 1st April 2022.
+**2.**[^c-390c6cea2906e6a047b256337ff5d03c] Articles 1 to 7 come into force on 1st April 2022.
 
 **3.**[^M_F_e5c66d37-4806-41de-e4e1-cbebe73fc7a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Value Added Tax Act 1994[^key-9528c39efc641dead457ac14eb629eb6]
+## 4. Amendments to the Value Added Tax Act 1994[^c-9528c39efc641dead457ac14eb629eb6]
 
 The Value Added Tax Act 1994 is amended as follows.
 
-## 5. Installation of energy-saving materials: Northern Ireland[^key-3e7a396cafd02ccbd053cda59ad8122b]
+## 5. Installation of energy-saving materials: Northern Ireland[^c-3e7a396cafd02ccbd053cda59ad8122b]
 
 (1) Schedule 7A (charge at a reduced rate)[^f00002] is amended as follows.
 
@@ -69,11 +69,11 @@ The Value Added Tax Act 1994 is amended as follows.
 - (c) in item 2, in the words before paragraph (a), after “accommodation” insert “in Northern Ireland”; and
 - (d) in item 3, after “accommodation” insert “in Northern Ireland”.
 
-## 6. Installation of energy-saving materials: England and Wales and Scotland from 1 April 2022 to 31 March 2027[^key-ade936810bc000a7e02b21b3838de71b]
+## 6. Installation of energy-saving materials: England and Wales and Scotland from 1 April 2022 to 31 March 2027[^c-ade936810bc000a7e02b21b3838de71b]
 
 In Schedule 7A, in Part 2, in Group 3 (grant-funded installation of heating equipment or security goods or connections of gas supply), in items 8A and 8B, after “Supplies” insert “, so far as not falling within Group 23 in Schedule 8,”.
 
-**7.**[^key-4a27ef7155208cf213ddb940aec641c8] (1) Schedule 8 (zero-rating) is amended as follows.
+**7.**[^c-4a27ef7155208cf213ddb940aec641c8] (1) Schedule 8 (zero-rating) is amended as follows.
 
 (2) In the table in Part 1 (index), at the appropriate place insert—
 
@@ -128,7 +128,7 @@ In Schedule 7A, in Part 2, in Group 3 (grant-funded installation of heating equi
 
 .
 
-## 8. Installation of energy-saving materials: England and Wales and Scotland from 1 April 2027[^key-00a3ae84da704aec3bca5302cd670b06]
+## 8. Installation of energy-saving materials: England and Wales and Scotland from 1 April 2027[^c-00a3ae84da704aec3bca5302cd670b06]
 
 **Not yet in force.**
 
@@ -162,20 +162,20 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23). Section 29A was inserted by section 99(4) of the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9); section 96(9) was amended by paragraph 5 of Schedule 31 to the Finance Act 2001.
 
-[^key-a1d1d5807a26e75100f2b3829fee68ae]: Commencement: Art. 1 in force at 1.4.2022, see [art. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2)
+[^c-a1d1d5807a26e75100f2b3829fee68ae]: Commencement: Art. 1 in force at 1.4.2022, see [art. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2)
 
-[^key-390c6cea2906e6a047b256337ff5d03c]: Commencement: Art. 2 in force at 1.4.2022, see [art. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2)
+[^c-390c6cea2906e6a047b256337ff5d03c]: Commencement: Art. 2 in force at 1.4.2022, see [art. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2)
 
 [^M_F_e5c66d37-4806-41de-e4e1-cbebe73fc7a9]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2022/361/article/8) omitted (1.5.2023) by virtue of [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [5](https://www.legislation.gov.uk/uksi/2023/376/article/5)
 
-[^key-9528c39efc641dead457ac14eb629eb6]: Commencement: Art. 4 in force at 1.4.2022, see [art. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2)
+[^c-9528c39efc641dead457ac14eb629eb6]: Commencement: Art. 4 in force at 1.4.2022, see [art. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2)
 
-[^key-3e7a396cafd02ccbd053cda59ad8122b]: Commencement: Art. 5 in force at 1.4.2022, see [art. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2)
+[^c-3e7a396cafd02ccbd053cda59ad8122b]: Commencement: Art. 5 in force at 1.4.2022, see [art. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2)
 
 [^f00002]: Footnote: Schedule 7A was inserted by section 99(5) of, and paragraph 1 of Schedule 31 to, the Finance Act 2001. Relevant amending instruments are [S.I. 2002/1100](https://www.legislation.gov.uk/uksi/2002/1100) and [2019/958](https://www.legislation.gov.uk/uksi/2019/958).
 
-[^key-ade936810bc000a7e02b21b3838de71b]: Commencement: Art. 6 in force at 1.4.2022, see [art. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2)
+[^c-ade936810bc000a7e02b21b3838de71b]: Commencement: Art. 6 in force at 1.4.2022, see [art. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2)
 
-[^key-4a27ef7155208cf213ddb940aec641c8]: Commencement: Art. 7 in force at 1.4.2022, see [art. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2)
+[^c-4a27ef7155208cf213ddb940aec641c8]: Commencement: Art. 7 in force at 1.4.2022, see [art. 2](https://www.legislation.gov.uk/uksi/2022/361/article/2)
 
-[^key-00a3ae84da704aec3bca5302cd670b06]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2022/361/article/8) omitted (1.5.2023) by virtue of [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [5](https://www.legislation.gov.uk/uksi/2023/376/article/5)
+[^c-00a3ae84da704aec3bca5302cd670b06]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2022/361/article/8) omitted (1.5.2023) by virtue of [The Value Added Tax (Installation of Energy-Saving Materials) Order 2023 (S.I. 2023/376)](https://www.legislation.gov.uk/uksi/2023/376), [arts. 1](https://www.legislation.gov.uk/uksi/2023/376/article/1), [5](https://www.legislation.gov.uk/uksi/2023/376/article/5)

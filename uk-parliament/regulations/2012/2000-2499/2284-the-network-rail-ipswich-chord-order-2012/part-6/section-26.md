@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Operation and use of railway[^key-d62732f631bb7205e8157d4feb6ad78d]
+## 26. Operation and use of railway[^c-d62732f631bb7205e8157d4feb6ad78d]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d62732f631bb7205e8157d4feb6ad78d]: Commencement: Art. 26 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-d62732f631bb7205e8157d4feb6ad78d]: Commencement: Art. 26 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
 [^f00021]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43). This Act has been amended by the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), the Railways and Transport Safety Act [2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20) and the Railways Act [2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14). There are other amendments to this Act which are not relevant to this Order.

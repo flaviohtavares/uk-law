@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230. Offence of failing to comply with information notice[^key-9a9d45f2dc029a7276f4964b5bef9b74]
+## 230. Offence of failing to comply with information notice[^c-9a9d45f2dc029a7276f4964b5bef9b74]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person who contravenes regulation 229 commits an offence, but it is a defence 
 
 ## Annotations
 
-[^key-9a9d45f2dc029a7276f4964b5bef9b74]: Commencement: Reg. 230 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-9a9d45f2dc029a7276f4964b5bef9b74]: Commencement: Reg. 230 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

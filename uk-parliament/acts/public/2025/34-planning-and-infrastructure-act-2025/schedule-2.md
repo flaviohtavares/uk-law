@@ -22,7 +22,7 @@ summary: ''
 
 Section 58(3)
 
-### 1. Town and Country Planning Act 1990[^key-a59f5790f9fffcac5ff563bdcc9374f4][^key-354b077e6e8732d73514d501c2d18bc7]
+### 1. Town and Country Planning Act 1990[^c-a59f5790f9fffcac5ff563bdcc9374f4][^c-354b077e6e8732d73514d501c2d18bc7]
 
 (1) Section 303A of the Town and Country Planning Act 1990 (responsibility of local planning authorities for costs of holding certain inquiries) is amended as follows.
 
@@ -57,13 +57,13 @@ Section 58(3)
 
 > (13) In this section “**strategic planning authority**” has the meaning given by section 12A of the Planning and Compulsory Purchase Act 2004.
 
-### 2. Planning and Compulsory Purchase Act 2004[^key-5e8b745ab3ce1edac8a3743154dc49d7]
+### 2. Planning and Compulsory Purchase Act 2004[^c-5e8b745ab3ce1edac8a3743154dc49d7]
 
 **Not yet in force.**
 
 PCPA 2004 is amended as set out in paragraphs 3 to 5.
 
-**3.**[^key-46c39d352bdba2968152501b64f4bdcc] In section 15LH (interpretation) (as inserted by Schedule 7 to LURA 2023), in subsection (3), in the definition of “spatial development strategy”—
+**3.**[^c-46c39d352bdba2968152501b64f4bdcc] In section 15LH (interpretation) (as inserted by Schedule 7 to LURA 2023), in subsection (3), in the definition of “spatial development strategy”—
 
 - (a) in paragraph (b), after “adopted” insert “before Part 1A comes into force”;
 - (b) after paragraph (b) insert—
@@ -73,13 +73,13 @@ PCPA 2004 is amended as set out in paragraphs 3 to 5.
 
   .
 
-**4.**[^key-3bed1b021e0a68ee5dddf3e16588dd01] In section 39A (assistance with plan making) (as inserted by section 100 of LURA 2023), in subsection (5), after paragraph (b) insert—
+**4.**[^c-3bed1b021e0a68ee5dddf3e16588dd01] In section 39A (assistance with plan making) (as inserted by section 100 of LURA 2023), in subsection (5), after paragraph (b) insert—
 
 > - (ba) a spatial development strategy within the meaning of Part 1A (see section 12W(1));
 
 .
 
-**5.**[^key-f56470d954773d5abed6dc3761617693] In section 113 (validity of strategies, plans and documents)—
+**5.**[^c-f56470d954773d5abed6dc3761617693] In section 113 (validity of strategies, plans and documents)—
 
 - (a) in subsection (9)(f) (as inserted by paragraph 23(3)(c) of Schedule 8 to LURA 2023), after “adopted” insert “before Part 1A comes into force”;
 - (b) after subsection (9)(f) insert—
@@ -87,23 +87,23 @@ PCPA 2004 is amended as set out in paragraphs 3 to 5.
   > - (fa) in the case of a spatial development strategy adopted before Part 1A comes into force by a combined county authority established under section 9 of the Levelling-up and Regeneration Act 2023, or any alteration or replacement of it, whichever provisions of (or applied by) an order under that Act give the combined county authority powers in relation to such a strategy;
   > - (fb) Part 1A of this Act in the case of a spatial development strategy within the meaning of that Part (see section 12W(1)), or any alteration or replacement of it.
 
-### 6. Levelling-up and Regeneration Act 2023[^key-2a265626542641b1e3a2920f0f4f79fc]
+### 6. Levelling-up and Regeneration Act 2023[^c-2a265626542641b1e3a2920f0f4f79fc]
 
 **Not yet in force.**
 
 LURA 2023 is amended as set out in paragraphs 7 to 11.
 
-**7.**[^key-d8867daa30c24aa3507947050a9ff46c] In section 91 (interpretation of Chapter 1 of Part 3), in the definition of “relevant planning authority”, after paragraph (e) insert—
+**7.**[^c-d8867daa30c24aa3507947050a9ff46c] In section 91 (interpretation of Chapter 1 of Part 3), in the definition of “relevant planning authority”, after paragraph (e) insert—
 
 > - (ea) a strategic planning authority (within the meaning given in section 12A of PCPA 2004),
 
 .
 
-**8.**[^key-f04d9af18379fed98afff498001edf47] In section 97 (plan making), omit “joint spatial development strategies,”.
+**8.**[^c-f04d9af18379fed98afff498001edf47] In section 97 (plan making), omit “joint spatial development strategies,”.
 
-**9.**[^key-d71f21523175344483078265cfea4196] In section 100 (assistance with plan making), in section 39A of PCPA 2004 inserted by that section, in subsection (5)(b), omit “or Part 2 of this Act”.
+**9.**[^c-d71f21523175344483078265cfea4196] In section 100 (assistance with plan making), in section 39A of PCPA 2004 inserted by that section, in subsection (5)(b), omit “or Part 2 of this Act”.
 
-**10.**[^key-edf1af7de8af58b59cbd598f88fd6c15] In Schedule 7 (plan making), omit the following provisions substituted for sections 15 to 37 of PCPA 2004—
+**10.**[^c-edf1af7de8af58b59cbd598f88fd6c15] In Schedule 7 (plan making), omit the following provisions substituted for sections 15 to 37 of PCPA 2004—
 
 - (a) sections 15A to 15AI;
 - (b) the italic heading before section 15A;
@@ -112,7 +112,7 @@ LURA 2023 is amended as set out in paragraphs 7 to 11.
   - (i) the definition of “joint spatial development strategy”;
   - (ii) paragraph (c) of the definition of “spatial development strategy”.
 
-**11.**[^key-a44d657127c8e48df3c7112b8bd1e1c0] (1) Schedule 8 (minor and consequential amendments in connection with Chapter 2 of Part 3) is amended as follows.
+**11.**[^c-a44d657127c8e48df3c7112b8bd1e1c0] (1) Schedule 8 (minor and consequential amendments in connection with Chapter 2 of Part 3) is amended as follows.
 
 (2) In paragraph 7, omit sub-paragraph (2)(a).
 
@@ -135,7 +135,7 @@ LURA 2023 is amended as set out in paragraphs 7 to 11.
 - (a) in sub-paragraph (2)(a), in the words substituted for words in paragraph (b) of the definition of “land use plan” in regulation 111(1) of the Habitats Regulations, omit “joint spatial development strategy,”;
 - (b) in sub-paragraph (3)(a), omit sub-paragraph (aa) substituted for regulation 111(2)(a) and (b) of the Habitats Regulations.
 
-### 12. Habitats Regulations[^key-aadc548141c29e0fe70c09a3f4832d22]
+### 12. Habitats Regulations[^c-aadc548141c29e0fe70c09a3f4832d22]
 
 **Not yet in force.**
 
@@ -179,7 +179,7 @@ LURA 2023 is amended as set out in paragraphs 7 to 11.
 
   .
 
-### 13. Interpretation[^key-f43d3f886dca19a52ca0ff82074cde60]
+### 13. Interpretation[^c-f43d3f886dca19a52ca0ff82074cde60]
 
 **Not yet in force.**
 
@@ -191,30 +191,30 @@ In this Schedule—
 
 ## Annotations
 
-[^key-a59f5790f9fffcac5ff563bdcc9374f4]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
+[^c-a59f5790f9fffcac5ff563bdcc9374f4]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
 
-[^key-354b077e6e8732d73514d501c2d18bc7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2025/34/schedule/2/paragraph/1) in force at 4.11.2026 by [S.I. 2026/1157](https://www.legislation.gov.uk/uksi/2026/1157), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1157/regulation/2/b)
+[^c-354b077e6e8732d73514d501c2d18bc7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2025/34/schedule/2/paragraph/1) in force at 4.11.2026 by [S.I. 2026/1157](https://www.legislation.gov.uk/uksi/2026/1157), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1157/regulation/2/b)
 
-[^key-5e8b745ab3ce1edac8a3743154dc49d7]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
+[^c-5e8b745ab3ce1edac8a3743154dc49d7]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
 
-[^key-46c39d352bdba2968152501b64f4bdcc]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
+[^c-46c39d352bdba2968152501b64f4bdcc]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
 
-[^key-3bed1b021e0a68ee5dddf3e16588dd01]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
+[^c-3bed1b021e0a68ee5dddf3e16588dd01]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
 
-[^key-f56470d954773d5abed6dc3761617693]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
+[^c-f56470d954773d5abed6dc3761617693]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
 
-[^key-2a265626542641b1e3a2920f0f4f79fc]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
+[^c-2a265626542641b1e3a2920f0f4f79fc]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
 
-[^key-d8867daa30c24aa3507947050a9ff46c]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
+[^c-d8867daa30c24aa3507947050a9ff46c]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
 
-[^key-f04d9af18379fed98afff498001edf47]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
+[^c-f04d9af18379fed98afff498001edf47]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
 
-[^key-d71f21523175344483078265cfea4196]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
+[^c-d71f21523175344483078265cfea4196]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
 
-[^key-edf1af7de8af58b59cbd598f88fd6c15]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
+[^c-edf1af7de8af58b59cbd598f88fd6c15]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
 
-[^key-a44d657127c8e48df3c7112b8bd1e1c0]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
+[^c-a44d657127c8e48df3c7112b8bd1e1c0]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
 
-[^key-aadc548141c29e0fe70c09a3f4832d22]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
+[^c-aadc548141c29e0fe70c09a3f4832d22]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
 
-[^key-f43d3f886dca19a52ca0ff82074cde60]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)
+[^c-f43d3f886dca19a52ca0ff82074cde60]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g)

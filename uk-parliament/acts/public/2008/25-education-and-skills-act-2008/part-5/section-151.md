@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-9d4e58e1da57def2d4e132c44ec6005c][^key-f09a9aa17f82655e3c847456163e41c4] The School Standards and Framework Act 1998 (c. 31) is amended as follows.
+(1)[^c-9d4e58e1da57def2d4e132c44ec6005c][^c-f09a9aa17f82655e3c847456163e41c4] The School Standards and Framework Act 1998 (c. 31) is amended as follows.
 
-(2)[^key-e98a0194975dc465efd65e76048ed374] After section 88 insert— “ Admission arrangements: England ”
+(2)[^c-e98a0194975dc465efd65e76048ed374] After section 88 insert— “ Admission arrangements: England ”
 
-(3)[^key-e98a0194975dc465efd65e76048ed374] In section 88A (prohibition on interviews), in subsections (1) and (3), after “maintained school” insert “ in England ”.
+(3)[^c-e98a0194975dc465efd65e76048ed374] In section 88A (prohibition on interviews), in subsections (1) and (3), after “maintained school” insert “ in England ”.
 
-(4)[^key-9d4e58e1da57def2d4e132c44ec6005c][^key-f09a9aa17f82655e3c847456163e41c4] After section 88A insert—
+(4)[^c-9d4e58e1da57def2d4e132c44ec6005c][^c-f09a9aa17f82655e3c847456163e41c4] After section 88A insert—
 
 > **88B. Admission arrangements relating to children looked after by local authority**
 >
@@ -84,7 +84,7 @@ summary: ''
 >
 > (3) Subsection (2)(a) does not apply in a case where the authority's proposed variations fall within any description of variations prescribed for the purposes of this subsection.
 >
-> (4) Where the local authority[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6] are the admission authority for a community or voluntary controlled school, they must consult the governing body before making any reference under subsection (2)(a).
+> (4) Where the local authority[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6] are the admission authority for a community or voluntary controlled school, they must consult the governing body before making any reference under subsection (2)(a).
 >
 > (5) On a reference under subsection (2)(a), the adjudicator must consider whether the admission arrangements should have effect with the proposed variations until the end of the school year in question.
 >
@@ -428,10 +428,10 @@ summary: ''
 
 [^c1952740]: Commencement: S. 151 partly in force; s. 151(1)(4) in force for certain purposes at 26.1.2009 see s. 173(2)(b)
 
-[^key-9d4e58e1da57def2d4e132c44ec6005c]: Commencement: S. 151(1)(4) in force at 2.12.2008 for specified purposes by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/2/a)
+[^c-9d4e58e1da57def2d4e132c44ec6005c]: Commencement: S. 151(1)(4) in force at 2.12.2008 for specified purposes by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/2/a)
 
-[^key-f09a9aa17f82655e3c847456163e41c4]: Commencement: S. 151(1)(4) in force at 26.1.2009 in so far as not already in force by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(d)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/d)
+[^c-f09a9aa17f82655e3c847456163e41c4]: Commencement: S. 151(1)(4) in force at 26.1.2009 in so far as not already in force by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(d)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/d)
 
-[^key-e98a0194975dc465efd65e76048ed374]: Commencement: S. 151(2)(3) in force at 26.1.2009 by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(d)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/d)
+[^c-e98a0194975dc465efd65e76048ed374]: Commencement: S. 151(2)(3) in force at 26.1.2009 by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(d)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/d)
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

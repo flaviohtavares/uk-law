@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 61. Compatibility of support schemes for the purposes of checks in the wine sector[^key-c999af8337da499568b017e35b140885]
+## Article 61. Compatibility of support schemes for the purposes of checks in the wine sector[^c-c999af8337da499568b017e35b140885]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c999af8337da499568b017e35b140885]: Textual amendment: [Art. 61](https://www.legislation.gov.uk/eur/2013/1306/article/61) omitted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2019/763/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c999af8337da499568b017e35b140885]: Textual amendment: [Art. 61](https://www.legislation.gov.uk/eur/2013/1306/article/61) omitted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2019/763/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

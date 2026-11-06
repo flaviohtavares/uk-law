@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Corrupt withdrawal from candidature[^key-2b1a6ed9242f0bd8004f2e1bf5b9841b]
+## 72. Corrupt withdrawal from candidature[^c-2b1a6ed9242f0bd8004f2e1bf5b9841b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any person who corruptly induces or procures any other person to withdraw from b
 
 ## Annotations
 
-[^key-2b1a6ed9242f0bd8004f2e1bf5b9841b]: Commencement: Art. 72 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-2b1a6ed9242f0bd8004f2e1bf5b9841b]: Commencement: Art. 72 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Power to make charges[^key-3f25ff98b2893fc0e0642b84e7648f2b]
+## 35. Power to make charges[^c-3f25ff98b2893fc0e0642b84e7648f2b]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f25ff98b2893fc0e0642b84e7648f2b]: Commencement: Art. 35 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-3f25ff98b2893fc0e0642b84e7648f2b]: Commencement: Art. 35 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

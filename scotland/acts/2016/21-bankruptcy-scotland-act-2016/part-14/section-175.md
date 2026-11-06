@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 175. Agreement in respect of debtor's heritable property[^key-1c661b47ccd115e529197017581572a4]
+## 175. Agreement in respect of debtor's heritable property[^c-1c661b47ccd115e529197017581572a4]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c661b47ccd115e529197017581572a4]: Commencement: S. 175 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-1c661b47ccd115e529197017581572a4]: Commencement: S. 175 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

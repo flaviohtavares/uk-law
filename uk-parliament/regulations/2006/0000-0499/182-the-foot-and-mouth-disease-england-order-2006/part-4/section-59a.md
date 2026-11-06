@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59A. Biosecurity standards for laboratories handling live foot-and-mouth disease virus[^key-f2c06f0a4d9b0396efd9bef30cc3216b]
+## 59A. Biosecurity standards for laboratories handling live foot-and-mouth disease virus[^c-f2c06f0a4d9b0396efd9bef30cc3216b]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2c06f0a4d9b0396efd9bef30cc3216b]: Textual amendment: [Art. 59A](https://www.legislation.gov.uk/uksi/2006/182/article/59A) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/1472/article/2/5)
+[^c-f2c06f0a4d9b0396efd9bef30cc3216b]: Textual amendment: [Art. 59A](https://www.legislation.gov.uk/uksi/2006/182/article/59A) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/1472/article/2/5)

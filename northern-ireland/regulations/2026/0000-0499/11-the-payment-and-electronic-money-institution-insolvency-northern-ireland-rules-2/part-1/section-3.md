@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Interpretation[^key-3cae71f5e3c29d83ab9e614dc3de31e3]
+## 3. Interpretation[^c-3cae71f5e3c29d83ab9e614dc3de31e3]
 
 *Extent: N.I.*
 
@@ -82,7 +82,7 @@ where the institution had not chosen to voluntarily safeguard the funds when it 
 
 ## Annotations
 
-[^key-3cae71f5e3c29d83ab9e614dc3de31e3]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/2026/11/rule/3) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-3cae71f5e3c29d83ab9e614dc3de31e3]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/2026/11/rule/3) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
 
 [^f00003]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 

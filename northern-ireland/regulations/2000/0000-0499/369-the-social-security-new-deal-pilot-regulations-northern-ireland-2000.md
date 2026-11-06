@@ -45,7 +45,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 ## Part I — General
 
-### 1. Citation, commencement and duration[^key-1f6a447539fa4e699fb49f03fc59319d]
+### 1. Citation, commencement and duration[^c-1f6a447539fa4e699fb49f03fc59319d]
 
 (1) These Regulations may be cited as the Social Security (New Deal Pilot) Regulations (Northern Ireland) 2000 and shall come into operation—
 
@@ -54,7 +54,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (2) These Regulations shall cease to have effect on 27th November 2001, unless revoked with effect from an earlier date.
 
-### 2. Interpretation[^key-4d50f40e5ff3b7506c6d7cdbac3c9fcd]
+### 2. Interpretation[^c-4d50f40e5ff3b7506c6d7cdbac3c9fcd]
 
 (1) In these Regulations—
 
@@ -64,7 +64,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 - “employment-related course” has the same meaning as in regulation 1(2) of the Jobseeker’s Allowance Regulations;
 - “full-time student” has the same meaning as in regulation 1(2) of the Jobseeker’s Allowance Regulations;
 - “gateway interview” means an interview with an employment officer to identify and discuss matters that could help a person find work and matters that are preventing him from finding work;
-- [^key-6c234129dc214216ce8f80d05a73878c]...
+- [^c-6c234129dc214216ce8f80d05a73878c]...
 - “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00009];
 - “the intensive activity period of the New Deal pilot for 25 plus” means a programme provided in pursuance of arrangements made under section 1 of the Employment and Training Act (Northern Ireland) 1950[^f00010] for which only persons who are aged 25 years or over may be eligible, known as the intensive activity period of the New Deal for 25 plus, and which includes for any individual, job search activity and one or more of the following, namely training, study, assistance in pursuing self-employed earner’s employment and work experience;
 - “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00011];
@@ -84,14 +84,14 @@ and any period of interruption which did not exceed 28 days shall be taken into 
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00012] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-### 3. Application: persons aged 25 and over in receipt of benefit for 18 months[^key-9fa3740b3523724aa47d65a1bc49a87c]
+### 3. Application: persons aged 25 and over in receipt of benefit for 18 months[^c-9fa3740b3523724aa47d65a1bc49a87c]
 
 This regulation shall apply to any person who—
 
 - (a) is sent a letter dated on or before 31st March 2001 inviting him to attend a New Deal pilot gateway interview at an office of the Department of Higher and Further Education, Training and Employment, and
 - (b) as at the date of letter referred to in regulation 3(*a*) is aged 25 or over but under pensionable age and has been receiving benefit for a period of not less than 18 months.
 
-### 4. Application: volunteers[^key-ab218c8980d91a460e4b28034cbbe95c]
+### 4. Application: volunteers[^c-ab218c8980d91a460e4b28034cbbe95c]
 
 This regulation shall apply to any person who—
 
@@ -101,31 +101,31 @@ This regulation shall apply to any person who—
 
 ## Part II — The intensive Activity Period of the New Deal Pilots for 25 Plus
 
-### 5. Sanction[^key-958883482c9c4c1e72b50f28841715c7][^key-36aac09c05d9d9111dcc81fbfe030200]
+### 5. Sanction[^c-958883482c9c4c1e72b50f28841715c7][^c-36aac09c05d9d9111dcc81fbfe030200]
 
-(1)[^key-958883482c9c4c1e72b50f28841715c7] In relation to a person to whom paragraph (2) or (4) applies, “employment programme” in Article 21 of the Order means, in addition to the programmes listed in regulation 75(1) of the Jobseeker’s Allowance Regulations[^f00015] (interpretation), the intensive activity period of the New Deal pilot for 25 plus.
+(1)[^c-958883482c9c4c1e72b50f28841715c7] In relation to a person to whom paragraph (2) or (4) applies, “employment programme” in Article 21 of the Order means, in addition to the programmes listed in regulation 75(1) of the Jobseeker’s Allowance Regulations[^f00015] (interpretation), the intensive activity period of the New Deal pilot for 25 plus.
 
-(2)[^key-958883482c9c4c1e72b50f28841715c7] This paragraph applies to any person (other than a person specified in paragraph (4)) to whom regulation 3 or 4 applies and who has been given or sent a notice in writing by an employment officer advising him that if he fails to participate in the intensive activity period of the New Deal pilot for 25 plus his jobseeker’s allowance could cease to be payable or could be payable at a lower rate.
+(2)[^c-958883482c9c4c1e72b50f28841715c7] This paragraph applies to any person (other than a person specified in paragraph (4)) to whom regulation 3 or 4 applies and who has been given or sent a notice in writing by an employment officer advising him that if he fails to participate in the intensive activity period of the New Deal pilot for 25 plus his jobseeker’s allowance could cease to be payable or could be payable at a lower rate.
 
-(3)[^key-958883482c9c4c1e72b50f28841715c7] In relation to a person to whom paragraph (2) applies, the prescribed period for the purposes of Article 21(2) of the Order shall begin on, and include, the first day of the week following the date on which a jobseeker’s allowance is determined not to be payable to the person and shall be—
+(3)[^c-958883482c9c4c1e72b50f28841715c7] In relation to a person to whom paragraph (2) applies, the prescribed period for the purposes of Article 21(2) of the Order shall begin on, and include, the first day of the week following the date on which a jobseeker’s allowance is determined not to be payable to the person and shall be—
 
 - (a) 2 weeks in any case which does not fall within sub-paragraph (*b*);
 - (b) 4 weeks in any case in which on a previous occasion a jobseeker’s allowance was determined not to be payable to him in circumstances falling within Article 21(5) of the Order that relate to the intensive activity period of the New Deal pilot for 25 plus and the first date on which a jobseeker’s allowance was not payable to him as a result of that determination falls within the period of 12 months preceding the date of the determination mentioned in paragraph (3).
 
-(4)[^key-36aac09c05d9d9111dcc81fbfe030200] This paragraph applies to a member of a joint-claim couple to whom regulation 3 or 4 applies and who has been given or sent a notice in writing by an employment officer advising him that if he fails to participate in the intensive activity period of the New Deal Pilot for 25 plus the jobseeker’s allowance payable to the joint-claim couple of which he is a member could cease to be payable or could be payable at a lower rate.
+(4)[^c-36aac09c05d9d9111dcc81fbfe030200] This paragraph applies to a member of a joint-claim couple to whom regulation 3 or 4 applies and who has been given or sent a notice in writing by an employment officer advising him that if he fails to participate in the intensive activity period of the New Deal Pilot for 25 plus the jobseeker’s allowance payable to the joint-claim couple of which he is a member could cease to be payable or could be payable at a lower rate.
 
-(5)[^key-36aac09c05d9d9111dcc81fbfe030200] In relation to a person to whom paragraph (4) applies, the prescribed period for the purposes of Article 22A(3)[^f00016] of the Order (denial or reduction of joint-claim jobseeker’s allowance) shall begin on the first day of the week following the date on which that person is determined to be subject to sanctions for the purposes of Article 22A of the Order and shall be—
+(5)[^c-36aac09c05d9d9111dcc81fbfe030200] In relation to a person to whom paragraph (4) applies, the prescribed period for the purposes of Article 22A(3)[^f00016] of the Order (denial or reduction of joint-claim jobseeker’s allowance) shall begin on the first day of the week following the date on which that person is determined to be subject to sanctions for the purposes of Article 22A of the Order and shall be—
 
 - (a) 2 weeks in any case which does not fall within sub-paragraph (*b*);
 - (b) 4 weeks in any case in which on a previous occasion a jobseeker’s allowance was determined not to be payable to him in circumstances falling within Article 21(5) of the Order or in a case in which he was determined to be subject to sanctions in the circumstances falling within Article 22A(2)(*a*) to (*c*) of the Order that relate to the intensive activity period of the New Deal pilot for 25 plus and the first date on which a jobseeker’s allowance was not payable to him or in respect of which he was subject to sanctions as a result of that determination falls within the period of 12 months preceding the date of the determination mentioned in paragraph (3).
 
-(6)[^key-958883482c9c4c1e72b50f28841715c7] In this regulation, “week” has the same meaning as “benefit week” in regulation 1(2) of the Jobseeker’s Allowance Regulations.
+(6)[^c-958883482c9c4c1e72b50f28841715c7] In this regulation, “week” has the same meaning as “benefit week” in regulation 1(2) of the Jobseeker’s Allowance Regulations.
 
-### 6. Interpretation of Articles 21 and 22A of the Order and Part V of the Jobseeker’s Allowance Regulations[^key-0f481405bca28e5bb54af423beb8163f]
+### 6. Interpretation of Articles 21 and 22A of the Order and Part V of the Jobseeker’s Allowance Regulations[^c-0f481405bca28e5bb54af423beb8163f]
 
 In relation to a person to whom regulation 3 or 4 applies, “employment” in Articles 21 and 22A of the Order, except Article 21(9), and in Part V of the Jobseeker’s Allowance Regulations, means employed earner’s employment other than employed earner’s employment in which a person is employed whilst participating in the intensive activity period of the New Deal pilot for 25 plus and “employed earner” shall be construed accordingly.
 
-### 7. Availability for employment[^key-4c0ef95d91007474f9443cf13e977e40]
+### 7. Availability for employment[^c-4c0ef95d91007474f9443cf13e977e40]
 
 (1) In relation to a person to whom regulation 3 or 4 applies—
 
@@ -138,20 +138,20 @@ In relation to a person to whom regulation 3 or 4 applies, “employment” in A
 
 (2) In this regulation, “week” has the same meaning as “benefit week” in regulation 1(2) of the Jobseeker’s Allowance Regulations.
 
-### 8. Good Cause[^key-2741828195235af19df190cfc83f7a9e]
+### 8. Good Cause[^c-2741828195235af19df190cfc83f7a9e]
 
 Without prejudice to any other circumstances in which a person may be regarded as having good cause for any act or omission for the purposes of Article 21(5)(*b*) or 22A(2)(*b*) of the Order, and in addition to the circumstances listed in regulation 73 of the Jobseeker’s Allowance Regulations[^f00017] (good cause for the purposes of Article 21(5)(*b*) or 22A(2)(*b*) of the Order), a person to whom regulation 3 or 4 applies is to be regarded as having good cause for an act or omission in relation to the intensive activity period of the New Deal pilot for 25 plus for the purposes of Article 21(5)(*b*) or 22A(2)(*b*) of the Order where he has already participated in that same intensive activity period of the New Deal pilot for 25 plus for one continuous period of 13 weeks or 2 or more periods amounting in total to 13 weeks.
 
-### 9. Payability of allowance[^key-6244c48ea2cfb9744cbfe52dd5d34264][^key-225ee41d1137e6b5d6eb85246942031e]
+### 9. Payability of allowance[^c-6244c48ea2cfb9744cbfe52dd5d34264][^c-225ee41d1137e6b5d6eb85246942031e]
 
-(1)[^key-6244c48ea2cfb9744cbfe52dd5d34264] An income-based jobseeker’s allowance (other than a joint-claim jobseeker’s allowance) shall be payable to a person to whom regulation 3 or 4 applies even though Article 21 of the Order prevents payment of a jobseeker’s allowance to him if—
+(1)[^c-6244c48ea2cfb9744cbfe52dd5d34264] An income-based jobseeker’s allowance (other than a joint-claim jobseeker’s allowance) shall be payable to a person to whom regulation 3 or 4 applies even though Article 21 of the Order prevents payment of a jobseeker’s allowance to him if—
 
 - (a) an allowance would not otherwise be payable because the circumstances in Article 21(5)(*c*) of the Order apply in relation to the intensive activity period of the New Deal pilot for 25 plus, and
 - (b) he has already participated in that same intensive activity period of the New Deal pilot for 25 plus for one continuous period of 13 weeks or 2 or more periods amounting in total to 13 weeks,
 
 and the applicable amount in respect of a person to whom this regulation applies shall be the amount determined in accordance with regulation 83, 84, 85, 86, 145 or 148 of the Jobseeker’s Allowance Regulations (applicable amounts), as appropriate.
 
-(2)[^key-225ee41d1137e6b5d6eb85246942031e] A joint-claim jobseeker’s allowance shall be payable to a joint-claim couple where regulation 3 or 4 applies to either or both members of that couple even though either or both members are subject to sanctions for the purposes of Article 22A of the Order if—
+(2)[^c-225ee41d1137e6b5d6eb85246942031e] A joint-claim jobseeker’s allowance shall be payable to a joint-claim couple where regulation 3 or 4 applies to either or both members of that couple even though either or both members are subject to sanctions for the purposes of Article 22A of the Order if—
 
 - (a) an allowance would not otherwise be payable because the circumstances in Article 22A(2)(*c*) of the Order apply to that member in relation to the intensive activity period of the New Deal pilot for 25 plus, and
 - (b) that member has already participated in that same intensive activity period of the New Deal pilot for 25 plus for one continuous period of 13 weeks or 2 or more periods amounting in total to 13 weeks,
@@ -160,13 +160,13 @@ and the applicable amount in respect of the couple to whom this regulation appli
 
 ## Part III — Consequential Provisions
 
-### 10. Scope of Part III[^key-315978d81a4fe0f8e7978145829ad4d3]
+### 10. Scope of Part III[^c-315978d81a4fe0f8e7978145829ad4d3]
 
 (1) Regulations 11 and 13 to 17 shall only apply in relation to a person to whom regulation 3 or 4 applies in so far as those regulations relate to that person’s participation in the intensive activity period of the New Deal pilot for 25 plus.
 
 (2) Regulation 12 shall only apply in any week in which a person to whom regulation 3 or 4 applies is participating in the intensive activity period of the New Deal pilot for 25 plus.
 
-### 11. Definition of “training allowance”[^key-3670bfcf5b907d0da34b92ba66e0665d]
+### 11. Definition of “training allowance”[^c-3670bfcf5b907d0da34b92ba66e0665d]
 
 (1) The definition of “training allowance” in each of the regulations specified in paragraph (2) (which are interpretation provisions) shall be modified in its application to persons to whom this Part applies as if at the end there were added—
 
@@ -178,11 +178,11 @@ and the applicable amount in respect of the couple to whom this regulation appli
 
 (2) The regulations to which paragraph (1) refers are—
 
-- (a)[^key-39c7caabe3095a5dd586541b26f85e6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-39c7caabe3095a5dd586541b26f85e6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) regulation 2(1) of the Income Support Regulations[^f00023];
 - (c) regulation 1(2) of the Jobseeker’s Allowance Regulations.
 
-### 12. Remunerative work[^key-9866646eeb644b2e4914c418e3c15609]
+### 12. Remunerative work[^c-9866646eeb644b2e4914c418e3c15609]
 
 (1) Regulation 53 of the Jobseeker’s Allowance Regulations (persons treated as not engaged in remunerative work) shall be modified in its application to persons to whom this Part applies as if after paragraph (*h*) there was added the following paragraph—
 
@@ -196,9 +196,9 @@ and the applicable amount in respect of the couple to whom this regulation appli
 
 .
 
-(3)[^key-63574b1d3832a67a6d5ef2f47cf1ef7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-63574b1d3832a67a6d5ef2f47cf1ef7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Notional income[^key-8d213b75908cba7daa9d494a3d4ccbf7]
+### 13. Notional income[^c-8d213b75908cba7daa9d494a3d4ccbf7]
 
 (1) Regulation 105 of the Jobseeker’s Allowance Regulations (notional income) shall be modified in its application to persons to whom this Part applies as if—
 
@@ -228,9 +228,9 @@ and the applicable amount in respect of the couple to whom this regulation appli
 
   .
 
-(3)[^key-375c10970e5ebd8c92d6c3ec90cc6d0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-375c10970e5ebd8c92d6c3ec90cc6d0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Notional capital[^key-b38b10d9fecb93e316a1d1dc168b0517]
+### 14. Notional capital[^c-b38b10d9fecb93e316a1d1dc168b0517]
 
 (1) Both regulation 51 of the Income Support Regulations and regulation 113 of the Jobseeker’s Allowance Regulations (notional capital) shall be modified in their application to persons to whom this Part applies as if in paragraph (3A)(*b*)[^f00032], after head (iii), there was added the following head—
 
@@ -238,9 +238,9 @@ and the applicable amount in respect of the couple to whom this regulation appli
 
 .
 
-(2)[^key-8f055d4de24903edd314fe9043f275f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8f055d4de24903edd314fe9043f275f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Income to be disregarded[^key-1ecda927f65735aeb6a7f3b07ff04c20]
+### 15. Income to be disregarded[^c-1ecda927f65735aeb6a7f3b07ff04c20]
 
 (1) Each of the Schedules specified in paragraph (2) (which relate to sums to be disregarded in the calculation of income other than earnings) shall be modified in their application to persons to whom this Part applies as if the following paragraphs were inserted bearing the respective specified paragraph numbers—
 
@@ -253,11 +253,11 @@ and the applicable amount in respect of the couple to whom this regulation appli
 
 (2) The respective paragraph numbers and Schedules for the purposes of paragraph (1) are—
 
-- (a)[^key-58bd43c456440f226dee9d1822b31679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-58bd43c456440f226dee9d1822b31679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) paragraphs 65 and 66 of Schedule 9 to the Income Support Regulations[^f00035];
 - (c) paragraphs 63 and 64 of Schedule 6 to the Jobseeker’s Allowance Regulations[^f00036].
 
-### 16. Capital to be disregarded[^key-ee756f7d6fd2e42ed385d54cec89ab6f]
+### 16. Capital to be disregarded[^c-ee756f7d6fd2e42ed385d54cec89ab6f]
 
 (1) Each of the Schedules specified in paragraph (2) (which relate to capital to be disregarded) shall be modified in their application to persons to whom this Part applies as if at the end of each of those Schedules there were added the following paragraphs bearing the respective specified paragraph numbers—
 
@@ -272,11 +272,11 @@ and the applicable amount in respect of the couple to whom this regulation appli
 
 (2) The respective paragraph numbers and Schedules specified for the purposes of paragraph (1) are—
 
-- (a)[^key-c708063da683e03623fb9a9536609ac6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c708063da683e03623fb9a9536609ac6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) paragraphs 52 and 53 of Schedule 10 to the Income Support Regulations[^f00038];
 - (c) paragraphs 47 and 48 of Schedule 7 to the Jobseeker’s Allowance Regulations[^f00039].
 
-### 17. Self-employment route of the intensive activity period of the New Deal pilot for 25 plus[^key-44dfb32e93a116fc3d0f21cfb928431a]
+### 17. Self-employment route of the intensive activity period of the New Deal pilot for 25 plus[^c-44dfb32e93a116fc3d0f21cfb928431a]
 
 (1) Both regulation 102A[^f00040] of the Jobseeker’s Allowance Regulations and regulation 39A[^f00041] of the Income Support Regulations (which relate to participants in the self-employment route of the Employment Option of the New Deal) shall be modified in their application to persons to whom this Part applies as if—
 
@@ -302,17 +302,17 @@ and the applicable amount in respect of the couple to whom this regulation appli
 
 (3) The provisions to which paragraph (2)[^f00043] refers are—
 
-- (a)[^key-5823f7381297e922a9faed780b8fb01c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5823f7381297e922a9faed780b8fb01c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the Income Support Regulations, paragraph 63 of Schedule 9 and paragraphs 6 and 50 of Schedule 10;
 - (c) in the Jobseeker’s Allowance Regulations, paragraph 61 of Schedule 6 and paragraphs 11 and 45 of Schedule 7.
 
 ## Part IV — The New Deal Education and Training Opportunities Pilot for 25 Plus
 
-### 18. Scope of Part IV[^key-007fcadcd154d0c233aaf71e92f727d5]
+### 18. Scope of Part IV[^c-007fcadcd154d0c233aaf71e92f727d5]
 
 Regulations 5 to 17 shall not apply to a person during any period where he is participating in the New Deal Education and Training Opportunities pilot for 25 plus.
 
-### 19. Modification of regulation 17A of the Jobseeker’s Allowance Regulations[^key-1e8d1050d2d58d8167b895a121cb1127]
+### 19. Modification of regulation 17A of the Jobseeker’s Allowance Regulations[^c-1e8d1050d2d58d8167b895a121cb1127]
 
 In relation to a person to whom regulation 3 or 4 applies and who is participating in the New Deal Education and Training Opportunities pilot for 25 plus, regulation 17A of the Jobseeker’s Allowance Regulations[^f00044] (further circumstances in which a person is to be treated as available: full-time students participating in a qualifying course) shall apply with the modifications set out in paragraphs (*a*) and (*b*)—
 
@@ -323,7 +323,7 @@ In relation to a person to whom regulation 3 or 4 applies and who is participati
 
 ## Part V — Transitional Provision
 
-### 20. Transitional provision[^key-7ca4262907a4d3883b82af7701b668ad]
+### 20. Transitional provision[^c-7ca4262907a4d3883b82af7701b668ad]
 
 References in these Regulations to a person to whom regulation 3 or 4 applies shall include a person to whom regulation 3 or 4 of the Social Security (New Deal Pilot) Regulations (Northern Ireland) 1999 applied immediately before those regulations expired.
 
@@ -391,15 +391,15 @@ In so far as these Regulations are required, for the purposes of regulations 11(
 
 [^f00005]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); consent function transferred from the Department of the Environment to the Department of Finance and Personnel; *see* Article 6(*b*) of, and Part II of Schedule 4 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999
 
-[^key-1f6a447539fa4e699fb49f03fc59319d]: Commencement: Reg. 1 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-1f6a447539fa4e699fb49f03fc59319d]: Commencement: Reg. 1 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
 [^f00006]: Footnote: [S.R. 1999 No. 474](https://www.legislation.gov.uk/nisr/1999/474); amended by [S.R. 2000 No. 109](https://www.legislation.gov.uk/nisr/2000/109)
 
-[^key-4d50f40e5ff3b7506c6d7cdbac3c9fcd]: Commencement: Reg. 2 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-4d50f40e5ff3b7506c6d7cdbac3c9fcd]: Commencement: Reg. 2 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
 [^f00007]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); regulation 8A was inserted by regulation 2(6) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
 
-[^key-6c234129dc214216ce8f80d05a73878c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2000/369/regulation/2/1) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-6c234129dc214216ce8f80d05a73878c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2000/369/regulation/2/1) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00009]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1989 No. 326](https://www.legislation.gov.uk/nisr/1989/326), [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387), [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403), [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86), [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541) and [S.R. 1998 Nos. 182](https://www.legislation.gov.uk/nisr/1998/182) and [326](https://www.legislation.gov.uk/nisr/1998/326)
 
@@ -409,33 +409,33 @@ In so far as these Regulations are required, for the purposes of regulations 11(
 
 [^f00012]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-9fa3740b3523724aa47d65a1bc49a87c]: Commencement: Reg. 3 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-9fa3740b3523724aa47d65a1bc49a87c]: Commencement: Reg. 3 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
-[^key-ab218c8980d91a460e4b28034cbbe95c]: Commencement: Reg. 4 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-ab218c8980d91a460e4b28034cbbe95c]: Commencement: Reg. 4 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
 [^f00013]: Footnote: Regulation 23 was substituted by regulation 2(2) of [S.R. 2000 No. 255](https://www.legislation.gov.uk/nisr/2000/255)
 
 [^f00014]: Footnote: Regulation 23A was inserted by regulation 2(5) of [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
 
-[^key-958883482c9c4c1e72b50f28841715c7]: Commencement: Reg. 5(1)-(3)(6) in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-958883482c9c4c1e72b50f28841715c7]: Commencement: Reg. 5(1)-(3)(6) in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
-[^key-36aac09c05d9d9111dcc81fbfe030200]: Commencement: [Reg. 5(4)](https://www.legislation.gov.uk/nisr/2000/369/regulation/5/4)[(5)](https://www.legislation.gov.uk/nisr/2000/369/regulation/5/5) in operation at 19.3.2001, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/a)
+[^c-36aac09c05d9d9111dcc81fbfe030200]: Commencement: [Reg. 5(4)](https://www.legislation.gov.uk/nisr/2000/369/regulation/5/4)[(5)](https://www.legislation.gov.uk/nisr/2000/369/regulation/5/5) in operation at 19.3.2001, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/a)
 
 [^f00015]: Footnote: Regulation 75 was substituted by regulation 8 of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541) and amended by [S.R. 2000 No. 197](https://www.legislation.gov.uk/nisr/2000/197)
 
 [^f00016]: Footnote: Article 22A was inserted by paragraph 14 of Schedule 7 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
-[^key-0f481405bca28e5bb54af423beb8163f]: Commencement: Reg. 6 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-0f481405bca28e5bb54af423beb8163f]: Commencement: Reg. 6 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
-[^key-4c0ef95d91007474f9443cf13e977e40]: Commencement: Reg. 7 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-4c0ef95d91007474f9443cf13e977e40]: Commencement: Reg. 7 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
-[^key-2741828195235af19df190cfc83f7a9e]: Commencement: Reg. 8 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-2741828195235af19df190cfc83f7a9e]: Commencement: Reg. 8 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
 [^f00017]: Footnote: Regulation 73 was amended by [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356), [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541) and [S.R. 1998 No. 198](https://www.legislation.gov.uk/nisr/1998/198)
 
-[^key-6244c48ea2cfb9744cbfe52dd5d34264]: Commencement: Reg. 9(1) in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-6244c48ea2cfb9744cbfe52dd5d34264]: Commencement: Reg. 9(1) in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
-[^key-225ee41d1137e6b5d6eb85246942031e]: Commencement: [Reg. 9(2)](https://www.legislation.gov.uk/nisr/2000/369/regulation/9/2) in operation at 19.3.2001, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/a)
+[^c-225ee41d1137e6b5d6eb85246942031e]: Commencement: [Reg. 9(2)](https://www.legislation.gov.uk/nisr/2000/369/regulation/9/2) in operation at 19.3.2001, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/a)
 
 [^f00018]: Footnote: Regulation 86A to 86D were inserted by regulation 2(5) of [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
 
@@ -443,23 +443,23 @@ In so far as these Regulations are required, for the purposes of regulations 11(
 
 [^f00020]: Footnote: Regulation 148A was inserted by regulation 2(5) of [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
 
-[^key-315978d81a4fe0f8e7978145829ad4d3]: Commencement: Reg. 10 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-315978d81a4fe0f8e7978145829ad4d3]: Commencement: Reg. 10 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
-[^key-3670bfcf5b907d0da34b92ba66e0665d]: Commencement: Reg. 11 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-3670bfcf5b907d0da34b92ba66e0665d]: Commencement: Reg. 11 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
 [^f00021]: Footnote: [S.R. 2000 No. 369](https://www.legislation.gov.uk/nisr/2000/369)
 
-[^key-39c7caabe3095a5dd586541b26f85e6b]: Textual amendment: [Reg. 11(2)(a)](https://www.legislation.gov.uk/nisr/2000/369/regulation/11/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-39c7caabe3095a5dd586541b26f85e6b]: Textual amendment: [Reg. 11(2)(a)](https://www.legislation.gov.uk/nisr/2000/369/regulation/11/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00023]: Footnote: Definition amended by [S.R. 1989 No. 326](https://www.legislation.gov.uk/nisr/1989/326) and [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387)
 
-[^key-9866646eeb644b2e4914c418e3c15609]: Commencement: Reg. 12 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-9866646eeb644b2e4914c418e3c15609]: Commencement: Reg. 12 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
 [^f00024]: Footnote: Paragraph (*j*) was added by regulation 4(3)(*c*) of [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403). Regulation 6 was renumbered by regulation 2(3) of [S.R. 1999 No. 381](https://www.legislation.gov.uk/nisr/1999/381)
 
-[^key-63574b1d3832a67a6d5ef2f47cf1ef7e]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/nisr/2000/369/regulation/12/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-63574b1d3832a67a6d5ef2f47cf1ef7e]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/nisr/2000/369/regulation/12/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-8d213b75908cba7daa9d494a3d4ccbf7]: Commencement: Reg. 13 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-8d213b75908cba7daa9d494a3d4ccbf7]: Commencement: Reg. 13 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
 [^f00026]: Footnote: Paragraph (10A) was inserted by regulation 2(1)(*b*) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326)
 
@@ -469,31 +469,31 @@ In so far as these Regulations are required, for the purposes of regulations 11(
 
 [^f00029]: Footnote: Paragraph (6C) was inserted by regulation 2(2)(*b*) of [S.R. 1999 No. 390](https://www.legislation.gov.uk/nisr/1999/390)
 
-[^key-375c10970e5ebd8c92d6c3ec90cc6d0b]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/nisr/2000/369/regulation/13/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-375c10970e5ebd8c92d6c3ec90cc6d0b]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/nisr/2000/369/regulation/13/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-b38b10d9fecb93e316a1d1dc168b0517]: Commencement: Reg. 14 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-b38b10d9fecb93e316a1d1dc168b0517]: Commencement: Reg. 14 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
 [^f00032]: Footnote: Paragraph (3A) was inserted, in both cases, by [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326)
 
-[^key-8f055d4de24903edd314fe9043f275f3]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/nisr/2000/369/regulation/14/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-8f055d4de24903edd314fe9043f275f3]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/nisr/2000/369/regulation/14/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-1ecda927f65735aeb6a7f3b07ff04c20]: Commencement: Reg. 15 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-1ecda927f65735aeb6a7f3b07ff04c20]: Commencement: Reg. 15 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
-[^key-58bd43c456440f226dee9d1822b31679]: Textual amendment: [Reg. 15(2)(a)](https://www.legislation.gov.uk/nisr/2000/369/regulation/15/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-58bd43c456440f226dee9d1822b31679]: Textual amendment: [Reg. 15(2)(a)](https://www.legislation.gov.uk/nisr/2000/369/regulation/15/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00035]: Footnote: Paragraph 64 was added by regulation 4(4) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326)
 
 [^f00036]: Footnote: Paragraph 62 was added by regulation 4(1) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326)
 
-[^key-ee756f7d6fd2e42ed385d54cec89ab6f]: Commencement: Reg. 16 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-ee756f7d6fd2e42ed385d54cec89ab6f]: Commencement: Reg. 16 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
-[^key-c708063da683e03623fb9a9536609ac6]: Textual amendment: [Reg. 16(2)(a)](https://www.legislation.gov.uk/nisr/2000/369/regulation/16/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-c708063da683e03623fb9a9536609ac6]: Textual amendment: [Reg. 16(2)(a)](https://www.legislation.gov.uk/nisr/2000/369/regulation/16/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00038]: Footnote: Paragraph 51 was added by regulation 5(2) and (3)(*c*) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326)
 
 [^f00039]: Footnote: Paragraph 46 was added by regulation 5(1) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326)
 
-[^key-44dfb32e93a116fc3d0f21cfb928431a]: Commencement: Reg. 17 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-44dfb32e93a116fc3d0f21cfb928431a]: Commencement: Reg. 17 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
 [^f00040]: Footnote: Regulation 102A was inserted by regulation 4(4) of [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182)
 
@@ -503,12 +503,12 @@ In so far as these Regulations are required, for the purposes of regulations 11(
 
 [^f00043]: Footnote: The provisions referred to in paragraph (3) were amended or, as the case may be, inserted by [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182)
 
-[^key-5823f7381297e922a9faed780b8fb01c]: Textual amendment: [Reg. 17(3)(a)](https://www.legislation.gov.uk/nisr/2000/369/regulation/17/3/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-5823f7381297e922a9faed780b8fb01c]: Textual amendment: [Reg. 17(3)(a)](https://www.legislation.gov.uk/nisr/2000/369/regulation/17/3/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-007fcadcd154d0c233aaf71e92f727d5]: Commencement: Reg. 18 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-007fcadcd154d0c233aaf71e92f727d5]: Commencement: Reg. 18 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
-[^key-1e8d1050d2d58d8167b895a121cb1127]: Commencement: Reg. 19 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-1e8d1050d2d58d8167b895a121cb1127]: Commencement: Reg. 19 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
 
 [^f00044]: Footnote: Regulation 17A was inserted by regulation 4 of [S.R. 1998 No. 198](https://www.legislation.gov.uk/nisr/1998/198)
 
-[^key-7ca4262907a4d3883b82af7701b668ad]: Commencement: Reg. 20 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)
+[^c-7ca4262907a4d3883b82af7701b668ad]: Commencement: Reg. 20 in operation at 28.11.2000, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2000/369/regulation/1/1/b)

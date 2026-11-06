@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 260. Listed investments shown on balance sheet[^key-40fa3eb1db333561b8818232793e2654]
+## 260. Listed investments shown on balance sheet[^c-40fa3eb1db333561b8818232793e2654]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In paragraph 28 of the Schedule to the Registered Housing Associations (Accounti
 
 ## Annotations
 
-[^key-40fa3eb1db333561b8818232793e2654]: Commencement: Art. 260 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-40fa3eb1db333561b8818232793e2654]: Commencement: Art. 260 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Sub-committees of area committees.[^key-01d968c0a1cb2488a6a03214d9dd9499]
+## 31. Sub-committees of area committees.[^c-01d968c0a1cb2488a6a03214d9dd9499]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01d968c0a1cb2488a6a03214d9dd9499]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/1994/19/part/3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 40(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/40/2)
+[^c-01d968c0a1cb2488a6a03214d9dd9499]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/1994/19/part/3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 40(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/40/2)

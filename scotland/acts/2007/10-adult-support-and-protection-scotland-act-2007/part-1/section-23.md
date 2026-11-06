@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Banning orders: occupancy rights of adult at risk[^key-cd1e4f440dd3cc05ba42b10ce497cb2f]
+## 23. Banning orders: occupancy rights of adult at risk[^c-cd1e4f440dd3cc05ba42b10ce497cb2f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The granting of a banning order or a temporary banning order does not affect any
 
 ## Annotations
 
-[^key-cd1e4f440dd3cc05ba42b10ce497cb2f]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2007/10/section/23) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-cd1e4f440dd3cc05ba42b10ce497cb2f]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2007/10/section/23) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

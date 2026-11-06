@@ -174,7 +174,7 @@ An Act, as respects Scotland, to make new provision for the regulation of charit
 - [Section 43 — Functions of Director in relation to certain rules made under the 1980 Act.](part-ii/section-43.md)
 - [Section 44 — Interpretation of Part II.](part-ii/section-44.md)
 
-### Part III — The Licensing (Scotland) Act 1976[^key-0c8992c34f776be3b716710be0482dca]
+### Part III — The Licensing (Scotland) Act 1976[^c-0c8992c34f776be3b716710be0482dca]
 
 *Extent: S*
 
@@ -300,4 +300,4 @@ SCHEDULES
 
 [^c13712291]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1990/40/part/I) (ss. 1-15): functions of the Lord Advocate transferred to the Secretary of State, and all property, rights and liabilities to which the Lord Advocate is entitled or subject in connection with any such function transferred to the Secretary of State for Scotland (19.5.1999) by [S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678), [arts. 2](https://www.legislation.gov.uk/uksi/1999/678/article/2), [3](https://www.legislation.gov.uk/uksi/1999/678/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1999/678/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/678/article/7))
 
-[^key-0c8992c34f776be3b716710be0482dca]: Textual amendment: Pt. 3 repealed (1.2.2008 for the repeal of ss. 46(3), 51(1) and 1.9.2009 at 5.00 a.m. in so far as not already in force) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [arts. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), 3, [Sch.](https://www.legislation.gov.uk/ssi/2007/472/schedule)
+[^c-0c8992c34f776be3b716710be0482dca]: Textual amendment: Pt. 3 repealed (1.2.2008 for the repeal of ss. 46(3), 51(1) and 1.9.2009 at 5.00 a.m. in so far as not already in force) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [arts. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), 3, [Sch.](https://www.legislation.gov.uk/ssi/2007/472/schedule)

@@ -48,8 +48,8 @@ It shall be the duty of the Board in the exercise and performance of any powers 
 - (a) all the powers and duties of the Local Government Board for Scotland;
 - (b) all the powers and duties of the Scottish Insurance Commissioners;
 - (c)[^c581021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-a7f5afd54ad0518bbcad57d54593411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-3cb58f6bd93979384a4e96799b603851] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-a7f5afd54ad0518bbcad57d54593411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-3cb58f6bd93979384a4e96799b603851] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f)[^c581024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g)[^c581025] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h)[^c581026] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -135,9 +135,9 @@ Section 4.
 
 [^c581021]: Textual amendment: S. 4(1)(c) repealed by [Midwives (Scotland) Act 1951 (c. 54)](https://www.legislation.gov.uk/ukpga/1951/54), [Sch. 2](https://www.legislation.gov.uk/ukpga/1951/54/schedule/2)
 
-[^key-a7f5afd54ad0518bbcad57d54593411d]: Textual amendment: S. 4(1)(d) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 17](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/17); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-a7f5afd54ad0518bbcad57d54593411d]: Textual amendment: S. 4(1)(d) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 17](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/17); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-3cb58f6bd93979384a4e96799b603851]: Textual amendment: S. 4(1)(e) repealed (28.12.2016) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule)
+[^c-3cb58f6bd93979384a4e96799b603851]: Textual amendment: S. 4(1)(e) repealed (28.12.2016) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule)
 
 [^c581024]: Textual amendment: S. 4(1)(f) repealed by [Statute Law Revision Act 1964 (c. 79)](https://www.legislation.gov.uk/ukpga/1964/79)
 

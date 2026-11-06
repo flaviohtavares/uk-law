@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Supplementary[^key-91156a57ac259d5e920db570c3d75dc7]
+## 11. Supplementary[^c-91156a57ac259d5e920db570c3d75dc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91156a57ac259d5e920db570c3d75dc7]: Commencement: Art. 11 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-91156a57ac259d5e920db570c3d75dc7]: Commencement: Art. 11 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69.[^key-fcc31e03b5e6daf625647067eb994b4f]
+## 69.[^c-fcc31e03b5e6daf625647067eb994b4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 128 (export of freight containers), for “the United Kingdom” s
 
 ## Annotations
 
-[^key-fcc31e03b5e6daf625647067eb994b4f]: Commencement: Reg. 69 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-fcc31e03b5e6daf625647067eb994b4f]: Commencement: Reg. 69 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

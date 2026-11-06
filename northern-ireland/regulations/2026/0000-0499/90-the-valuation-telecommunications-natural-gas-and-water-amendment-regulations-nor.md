@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Finance makes the following Regulations in exercise of the powers conferred by Article 37 (4), of the Rates (Northern Ireland) Order 1977[^f00001].
 
-## 1. Citation and commencement[^key-3eb91383e60f272f21caa6d5526a0c66]
+## 1. Citation and commencement[^c-3eb91383e60f272f21caa6d5526a0c66]
 
 These Regulations may be cited as the Valuation (Telecommunications, Natural Gas and Water) (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 8th June 2026.
 
-## 2. Amendment of the Valuation (Telecommunications, Natural Gas and Water) Regulations (Northern Ireland) 2010[^key-694fdd826f881a1fea6dd41a3e19dfdc]
+## 2. Amendment of the Valuation (Telecommunications, Natural Gas and Water) Regulations (Northern Ireland) 2010[^c-694fdd826f881a1fea6dd41a3e19dfdc]
 
 For Part 2 of the Schedule to the Valuation (Telecommunications, Natural Gas and Water) Regulations (Northern Ireland) 2010[^f00002] there shall be substituted the Part 2 set out in the Schedule.
 
@@ -60,7 +60,7 @@ A senior officer of the Department of Finance
 
 Regulation 2
 
-### PART 2 — Gas Transportation hereditaments[^key-eccdc14eca40fc4ba9ce32991a7e51f9]
+### PART 2 — Gas Transportation hereditaments[^c-eccdc14eca40fc4ba9ce32991a7e51f9]
 
 Regulation 4
 
@@ -88,10 +88,10 @@ These Regulations substitute the list in Part 2 of the Schedule to the 2010 Regu
 
 [^f00001]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); paragraph (4) of Article 37 was substituted by Article 6(1) of the Rates (Amendment) (Northern Ireland) Order 1996 ([S.I. 1996/3162 (N.I. 25)](https://www.legislation.gov.uk/nisi/1996/3162)).
 
-[^key-3eb91383e60f272f21caa6d5526a0c66]: Commencement: Reg. 1 in operation at 8.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/90/regulation/1)
+[^c-3eb91383e60f272f21caa6d5526a0c66]: Commencement: Reg. 1 in operation at 8.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/90/regulation/1)
 
-[^key-694fdd826f881a1fea6dd41a3e19dfdc]: Commencement: Reg. 2 in operation at 8.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/90/regulation/1)
+[^c-694fdd826f881a1fea6dd41a3e19dfdc]: Commencement: Reg. 2 in operation at 8.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/90/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2010 No.431](https://www.legislation.gov.uk/nisr/2010/431) as amended by [S.R. 2014 No.67](https://www.legislation.gov.uk/nisr/2014/67), [S.R. 2015 No. 147](https://www.legislation.gov.uk/nisr/2015/147), [S.R. 2018 No.67](https://www.legislation.gov.uk/nisr/2018/67), [S.R. 2019 No 198](https://www.legislation.gov.uk/nisr/2019/198), [S.R 2020 No 161](https://www.legislation.gov.uk/nisr/2020/161) and [S.R. 2025 No 44](https://www.legislation.gov.uk/nisr/2025/44).
 
-[^key-eccdc14eca40fc4ba9ce32991a7e51f9]: Commencement: Sch. Pt. 2 in operation at 8.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/90/regulation/1)
+[^c-eccdc14eca40fc4ba9ce32991a7e51f9]: Commencement: Sch. Pt. 2 in operation at 8.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/90/regulation/1)

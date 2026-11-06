@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 139. Power to require production of documents, etc.[^key-65c47d59cb9ef7ef45cd45d152a5e077]
+## 139. Power to require production of documents, etc.[^c-65c47d59cb9ef7ef45cd45d152a5e077]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65c47d59cb9ef7ef45cd45d152a5e077]: Commencement: [S. 139](https://www.legislation.gov.uk/asp/2010/5/section/139) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)
+[^c-65c47d59cb9ef7ef45cd45d152a5e077]: Commencement: [S. 139](https://www.legislation.gov.uk/asp/2010/5/section/139) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)

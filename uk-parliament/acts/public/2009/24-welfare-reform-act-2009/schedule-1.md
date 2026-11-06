@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 1 — Amendments connected to section 4[^key-b409aea1e9c69d6a2b77c140d500dc8b]
+## Schedule 1 — Amendments connected to section 4[^c-b409aea1e9c69d6a2b77c140d500dc8b]
 
 *Extent: E+W+S*
 
@@ -24,76 +24,76 @@ summary: ''
 
 Section 4
 
-### Part 1 — Amendments of Jobseekers Act 1995[^key-b409aea1e9c69d6a2b77c140d500dc8b]
+### Part 1 — Amendments of Jobseekers Act 1995[^c-b409aea1e9c69d6a2b77c140d500dc8b]
 
-#### Introduction[^key-b409aea1e9c69d6a2b77c140d500dc8b]
+#### Introduction[^c-b409aea1e9c69d6a2b77c140d500dc8b]
 
-**1.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Work-focused interviews etc.[^key-b409aea1e9c69d6a2b77c140d500dc8b]
+#### Work-focused interviews etc.[^c-b409aea1e9c69d6a2b77c140d500dc8b]
 
-**2.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Directions given by officers of the Secretary of State etc.[^key-b409aea1e9c69d6a2b77c140d500dc8b]
+#### Directions given by officers of the Secretary of State etc.[^c-b409aea1e9c69d6a2b77c140d500dc8b]
 
-**4.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Other amendments[^key-b409aea1e9c69d6a2b77c140d500dc8b]
+#### Other amendments[^c-b409aea1e9c69d6a2b77c140d500dc8b]
 
-**8.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 2 — Amendments of other Acts[^key-b409aea1e9c69d6a2b77c140d500dc8b]
+### Part 2 — Amendments of other Acts[^c-b409aea1e9c69d6a2b77c140d500dc8b]
 
-#### Social Security Administration Act 1992 (c. 5)[^key-b409aea1e9c69d6a2b77c140d500dc8b]
+#### Social Security Administration Act 1992 (c. 5)[^c-b409aea1e9c69d6a2b77c140d500dc8b]
 
-**24.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Social Security Act 1998 (c. 14)[^key-b409aea1e9c69d6a2b77c140d500dc8b]
+#### Social Security Act 1998 (c. 14)[^c-b409aea1e9c69d6a2b77c140d500dc8b]
 
-**25.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Welfare Reform Act 2007 (c. 5)[^key-b409aea1e9c69d6a2b77c140d500dc8b]
+#### Welfare Reform Act 2007 (c. 5)[^c-b409aea1e9c69d6a2b77c140d500dc8b]
 
-**26.**[^key-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-b409aea1e9c69d6a2b77c140d500dc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b409aea1e9c69d6a2b77c140d500dc8b]: Textual amendment: Sch. 1 repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/2)
+[^c-b409aea1e9c69d6a2b77c140d500dc8b]: Textual amendment: Sch. 1 repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/2)

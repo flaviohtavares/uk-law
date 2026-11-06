@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Amendment to regulation 95[^key-0a9fde4ad78673fc5cee73be5e497520]
+## 67. Amendment to regulation 95[^c-0a9fde4ad78673fc5cee73be5e497520]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 95 (offences in connection with application)[^f00078]—
 
 ## Annotations
 
-[^key-0a9fde4ad78673fc5cee73be5e497520]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2024/832/regulation/67) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-0a9fde4ad78673fc5cee73be5e497520]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2024/832/regulation/67) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00078]: Footnote: Paragraphs (c) and (d) were amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

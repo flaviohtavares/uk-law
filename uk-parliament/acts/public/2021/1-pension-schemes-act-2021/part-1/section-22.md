@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Benefits adjustments[^c24458971][^key-0fadc926ff07d23566207e8319810bbd]
+## 22. Benefits adjustments[^c24458971][^c-0fadc926ff07d23566207e8319810bbd]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c24458971]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2021/1/section/22) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-0fadc926ff07d23566207e8319810bbd]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2021/1/section/22) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-0fadc926ff07d23566207e8319810bbd]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2021/1/section/22) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

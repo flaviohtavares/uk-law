@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Power of accountable person to give warning notice: repair of fire resistance of residential units[^key-c8e02dbabee21999da5b0cd506cac5fc]
+## 60. Power of accountable person to give warning notice: repair of fire resistance of residential units[^c-c8e02dbabee21999da5b0cd506cac5fc]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8e02dbabee21999da5b0cd506cac5fc]: Commencement: S. 60 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-c8e02dbabee21999da5b0cd506cac5fc]: Commencement: S. 60 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

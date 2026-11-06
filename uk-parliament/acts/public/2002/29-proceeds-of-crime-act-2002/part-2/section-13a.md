@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Orders for securing compliance with confiscation order[^key-961c0a39e216ff2c1874a76e810cd7fb]
+## 13A. Orders for securing compliance with confiscation order[^c-961c0a39e216ff2c1874a76e810cd7fb]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-961c0a39e216ff2c1874a76e810cd7fb]: Textual amendment: Ss. 13A, 13B inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 7](https://www.legislation.gov.uk/ukpga/2015/9/section/7), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/1)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/d)
+[^c-961c0a39e216ff2c1874a76e810cd7fb]: Textual amendment: Ss. 13A, 13B inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 7](https://www.legislation.gov.uk/ukpga/2015/9/section/7), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/1)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/d)

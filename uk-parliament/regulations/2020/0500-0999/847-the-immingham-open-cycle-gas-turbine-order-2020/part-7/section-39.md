@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Certification of plans etc.[^key-eb27884e0efef7f7f0fe11e064829130]
+## 39. Certification of plans etc.[^c-eb27884e0efef7f7f0fe11e064829130]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb27884e0efef7f7f0fe11e064829130]: Commencement: Art. 39 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-eb27884e0efef7f7f0fe11e064829130]: Commencement: Art. 39 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)

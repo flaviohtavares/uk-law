@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. Offences of failing to comply with information notices[^key-4a66e99b40bb62b80c676405d2313e00][^key-aa17cea07fbd534567c1afd47284b37d]
+## 112. Offences of failing to comply with information notices[^c-4a66e99b40bb62b80c676405d2313e00][^c-aa17cea07fbd534567c1afd47284b37d]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a66e99b40bb62b80c676405d2313e00]: Commencement: S. 112 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-4a66e99b40bb62b80c676405d2313e00]: Commencement: S. 112 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-aa17cea07fbd534567c1afd47284b37d]: Commencement: [S. 112](https://www.legislation.gov.uk/asc/2024/3/section/112) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-aa17cea07fbd534567c1afd47284b37d]: Commencement: [S. 112](https://www.legislation.gov.uk/asc/2024/3/section/112) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

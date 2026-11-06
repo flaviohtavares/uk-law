@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Amendments to Energy Act (Northern Ireland) 2011 relating to disputes[^key-ca8e6412df419f002db9036b98a11642]
+## 9. Amendments to Energy Act (Northern Ireland) 2011 relating to disputes[^c-ca8e6412df419f002db9036b98a11642]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca8e6412df419f002db9036b98a11642]: Commencement: Reg. 9 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-ca8e6412df419f002db9036b98a11642]: Commencement: Reg. 9 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

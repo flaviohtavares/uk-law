@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 146. Transfer of securities on alteration of area, etc.[^c19911901][^c19911891][^c15110571][^key-c665b93e501e039937cf8db7490df272][^key-b5c65ab0281c71889a9997a0e737f5d2][^key-098d9d7c467efd39177d87a7e07f25df][^key-18d272a4f5051726478584738a5499d0][^key-02d13cff8cee19ae859484cc3cde7222][^key-b139cab9af134c8f85ecc81be2e45abf][^key-bb9659b1d6d367a8f7fc2f218692d206][^key-096225c9b3c591df35f45e12afe690f1][^key-bf78be2f6c029235fbd5e02f92b9a18c]
+## 146. Transfer of securities on alteration of area, etc.[^c19911901][^c19911891][^c15110571][^c-c665b93e501e039937cf8db7490df272][^c-b5c65ab0281c71889a9997a0e737f5d2][^c-098d9d7c467efd39177d87a7e07f25df][^c-18d272a4f5051726478584738a5499d0][^c-02d13cff8cee19ae859484cc3cde7222][^c-b139cab9af134c8f85ecc81be2e45abf][^c-bb9659b1d6d367a8f7fc2f218692d206][^c-096225c9b3c591df35f45e12afe690f1][^c-bf78be2f6c029235fbd5e02f92b9a18c]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 - “**local authority**” means a local authority within the meaning of the 1933 Act, the [^c15110611]London Government Act 1939 or this Act or a joint board on which, or a joint committee on which, a local authority or parish meeting are represented, a burial board, a joint burial board or the parish trustees of a parish;
 - “[^c15110621]**securities**” has the meaning given in section 98(1) above
 
-(3) The jurisdiction of the court under this section may be exercised by the High Court or, in cases in which the county court[^key-cf4888849ebab44ec2f4ced6c5ca59d7] would have jurisdiction if the application were an application made under the [^c15110631]Trustee Act 1925, by that court.
+(3) The jurisdiction of the court under this section may be exercised by the High Court or, in cases in which the county court[^c-cf4888849ebab44ec2f4ced6c5ca59d7] would have jurisdiction if the application were an application made under the [^c15110631]Trustee Act 1925, by that court.
 
 ## Annotations
 
@@ -52,23 +52,23 @@ summary: ''
 
     S. 146 extended (19.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 65(7)](https://www.legislation.gov.uk/ukpga/1995/25/section/65/7), [125(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/2), [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/4) (with [ss.7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7))
 
-[^key-c665b93e501e039937cf8db7490df272]: Modification: S. 146 applied (25.5.2018) by [The East Suffolk (Local Government Changes) Order 2018 (S.I. 2018/640)](https://www.legislation.gov.uk/uksi/2018/640), [arts. 1](https://www.legislation.gov.uk/uksi/2018/640/article/1), [17(1) Table](https://www.legislation.gov.uk/uksi/2018/640/article/17/1)
+[^c-c665b93e501e039937cf8db7490df272]: Modification: S. 146 applied (25.5.2018) by [The East Suffolk (Local Government Changes) Order 2018 (S.I. 2018/640)](https://www.legislation.gov.uk/uksi/2018/640), [arts. 1](https://www.legislation.gov.uk/uksi/2018/640/article/1), [17(1) Table](https://www.legislation.gov.uk/uksi/2018/640/article/17/1)
 
-[^key-b5c65ab0281c71889a9997a0e737f5d2]: Modification: S. 146 applied (25.5.2018) by [The West Suffolk (Local Government Changes) Order 2018 (S.I. 2018/639)](https://www.legislation.gov.uk/uksi/2018/639), [arts. 1](https://www.legislation.gov.uk/uksi/2018/639/article/1), [17(1) Table](https://www.legislation.gov.uk/uksi/2018/639/article/17/1)
+[^c-b5c65ab0281c71889a9997a0e737f5d2]: Modification: S. 146 applied (25.5.2018) by [The West Suffolk (Local Government Changes) Order 2018 (S.I. 2018/639)](https://www.legislation.gov.uk/uksi/2018/639), [arts. 1](https://www.legislation.gov.uk/uksi/2018/639/article/1), [17(1) Table](https://www.legislation.gov.uk/uksi/2018/639/article/17/1)
 
-[^key-098d9d7c467efd39177d87a7e07f25df]: Modification: S. 146 applied (26.5.2018) by [The Somerset West and Taunton (Local Government Changes) Order 2018 (S.I. 2018/649)](https://www.legislation.gov.uk/uksi/2018/649), [arts. 1](https://www.legislation.gov.uk/uksi/2018/649/article/1), [17(1) Table](https://www.legislation.gov.uk/uksi/2018/649/article/17/1)
+[^c-098d9d7c467efd39177d87a7e07f25df]: Modification: S. 146 applied (26.5.2018) by [The Somerset West and Taunton (Local Government Changes) Order 2018 (S.I. 2018/649)](https://www.legislation.gov.uk/uksi/2018/649), [arts. 1](https://www.legislation.gov.uk/uksi/2018/649/article/1), [17(1) Table](https://www.legislation.gov.uk/uksi/2018/649/article/17/1)
 
-[^key-18d272a4f5051726478584738a5499d0]: Modification: S. 146 applied (26.5.2018) by [The Bournemouth, Dorset and Poole (Structural Changes) Order 2018 (S.I. 2018/648)](https://www.legislation.gov.uk/uksi/2018/648), [arts. 1](https://www.legislation.gov.uk/uksi/2018/648/article/1), [36(1)](https://www.legislation.gov.uk/uksi/2018/648/article/36/1)
+[^c-18d272a4f5051726478584738a5499d0]: Modification: S. 146 applied (26.5.2018) by [The Bournemouth, Dorset and Poole (Structural Changes) Order 2018 (S.I. 2018/648)](https://www.legislation.gov.uk/uksi/2018/648), [arts. 1](https://www.legislation.gov.uk/uksi/2018/648/article/1), [36(1)](https://www.legislation.gov.uk/uksi/2018/648/article/36/1)
 
-[^key-02d13cff8cee19ae859484cc3cde7222]: Modification: S. 146 applied (26.5.2018) by [The Bournemouth, Dorset and Poole (Structural Changes) Order 2018 (S.I. 2018/648)](https://www.legislation.gov.uk/uksi/2018/648), [arts. 1](https://www.legislation.gov.uk/uksi/2018/648/article/1), [21(1)](https://www.legislation.gov.uk/uksi/2018/648/article/21/1)
+[^c-02d13cff8cee19ae859484cc3cde7222]: Modification: S. 146 applied (26.5.2018) by [The Bournemouth, Dorset and Poole (Structural Changes) Order 2018 (S.I. 2018/648)](https://www.legislation.gov.uk/uksi/2018/648), [arts. 1](https://www.legislation.gov.uk/uksi/2018/648/article/1), [21(1)](https://www.legislation.gov.uk/uksi/2018/648/article/21/1)
 
-[^key-b139cab9af134c8f85ecc81be2e45abf]: Modification: S. 146 applied (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [15(1)](https://www.legislation.gov.uk/uksi/2019/957/article/15/1)
+[^c-b139cab9af134c8f85ecc81be2e45abf]: Modification: S. 146 applied (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [15(1)](https://www.legislation.gov.uk/uksi/2019/957/article/15/1)
 
-[^key-bb9659b1d6d367a8f7fc2f218692d206]: Modification: S. 146 applied (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [17(1)](https://www.legislation.gov.uk/uksi/2020/156/article/17/1)
+[^c-bb9659b1d6d367a8f7fc2f218692d206]: Modification: S. 146 applied (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [17(1)](https://www.legislation.gov.uk/uksi/2020/156/article/17/1)
 
-[^key-096225c9b3c591df35f45e12afe690f1]: Modification: [S. 146](https://www.legislation.gov.uk/ukpga/1972/70/section/146) applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2022/331/article/18/1)
+[^c-096225c9b3c591df35f45e12afe690f1]: Modification: [S. 146](https://www.legislation.gov.uk/ukpga/1972/70/section/146) applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2022/331/article/18/1)
 
-[^key-bf78be2f6c029235fbd5e02f92b9a18c]: Modification: S. 146 applied (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [28(1)(b)(vi)](https://www.legislation.gov.uk/uksi/2026/264/article/28/1/b/vi), [40(1)(b)(vi)](https://www.legislation.gov.uk/uksi/2026/264/article/40/1/b/vi)
+[^c-bf78be2f6c029235fbd5e02f92b9a18c]: Modification: S. 146 applied (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [28(1)(b)(vi)](https://www.legislation.gov.uk/uksi/2026/264/article/28/1/b/vi), [40(1)(b)(vi)](https://www.legislation.gov.uk/uksi/2026/264/article/40/1/b/vi)
 
 [^c15110581]: Modification: S. 146(1)(b) extended (19.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 65(7)](https://www.legislation.gov.uk/ukpga/1995/25/section/65/7), [125(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/2), [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/4) (with [ss.7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7))
 
@@ -80,6 +80,6 @@ summary: ''
 
 [^c15110621]: Textual amendment: Definition substituted by [Financial Services Act 1986 (c. 60, SIF 69)](https://www.legislation.gov.uk/ukpga/1986/60), [s. 212(2)](https://www.legislation.gov.uk/ukpga/1986/60/section/212/2), [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/1986/60/schedule/16/paragraph/8)(*b*)
 
-[^key-cf4888849ebab44ec2f4ced6c5ca59d7]: Textual amendment: Words in s. 146(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-cf4888849ebab44ec2f4ced6c5ca59d7]: Textual amendment: Words in s. 146(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c15110631]: Marginal citation: [1925 c. 19](https://www.legislation.gov.uk/ukpga/1925/19).

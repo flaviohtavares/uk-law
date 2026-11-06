@@ -37,16 +37,16 @@ authorising the United Kingdom to apply an extension of certain periods specifie
 
 (Only the English text is authentic) (revoked)
 
-[^key-edcbc0a2acb2815a725bc84080ec9598]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-edcbc0a2acb2815a725bc84080ec9598]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-edcbc0a2acb2815a725bc84080ec9598] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-edcbc0a2acb2815a725bc84080ec9598] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-edcbc0a2acb2815a725bc84080ec9598] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-edcbc0a2acb2815a725bc84080ec9598] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-edcbc0a2acb2815a725bc84080ec9598]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-edcbc0a2acb2815a725bc84080ec9598]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-edcbc0a2acb2815a725bc84080ec9598]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)
+[^c-edcbc0a2acb2815a725bc84080ec9598]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)

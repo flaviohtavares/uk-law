@@ -466,7 +466,7 @@ In article 34 of the Cairngorms National Park Elections (Scotland) Order 2003 [^
 
 ### 55. Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003
 
-In paragraph 7(1)(a) of Schedule 3 to the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003 *(affected by repeal, see note)*[^key-126dfcf290a7ffc31fadbbd1e658c115] [^c21006121] (Exclusion of Section 4(2)(a) and (b) of the Act) for “the Post Office Corporation” substitute *(affected by repeal, see note)*[^key-126dfcf290a7ffc31fadbbd1e658c115] “a universal service provider within the meaning of Part 3 of the Postal Services Act 2011” *(affected by repeal, see note)*[^key-126dfcf290a7ffc31fadbbd1e658c115].
+In paragraph 7(1)(a) of Schedule 3 to the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003 *(affected by repeal, see note)*[^c-126dfcf290a7ffc31fadbbd1e658c115] [^c21006121] (Exclusion of Section 4(2)(a) and (b) of the Act) for “the Post Office Corporation” substitute *(affected by repeal, see note)*[^c-126dfcf290a7ffc31fadbbd1e658c115] “a universal service provider within the meaning of Part 3 of the Postal Services Act 2011” *(affected by repeal, see note)*[^c-126dfcf290a7ffc31fadbbd1e658c115].
 
 ### 56. Greater London Authority Elections (Election Addresses) Order 2003
 
@@ -684,7 +684,7 @@ In the Schedule to the Regulation of Investigatory Powers (Directed Surveillance
 
 ### 86. Scottish Parliament (Elections etc.) Order 2010
 
-In article 2(1) of the Scottish Parliament (Elections *(Extent: S)* *(affected by repeal, see note)*[^key-ca9fcd739b04fb919ae6f83466e826eb] etc. *(Extent: S)* *(affected by repeal, see note)*[^key-ca9fcd739b04fb919ae6f83466e826eb]) Order 2010 *(Extent: S)* *(affected by repeal, see note)*[^key-ca9fcd739b04fb919ae6f83466e826eb] [^c21006431] (interpretation), in the definition of “universal postal service provider”, for “section 4(3) of the Postal Services Act 2000 (provision of universal postal service: meaning)” substitute *(Extent: S)* *(affected by repeal, see note)*[^key-ca9fcd739b04fb919ae6f83466e826eb] “Part 3 of the Postal Services Act 2011.” *(Extent: S)* *(affected by repeal, see note)*[^key-ca9fcd739b04fb919ae6f83466e826eb]. *(Extent: S)* *(affected by repeal, see note)*[^key-ca9fcd739b04fb919ae6f83466e826eb]
+In article 2(1) of the Scottish Parliament (Elections *(Extent: S)* *(affected by repeal, see note)*[^c-ca9fcd739b04fb919ae6f83466e826eb] etc. *(Extent: S)* *(affected by repeal, see note)*[^c-ca9fcd739b04fb919ae6f83466e826eb]) Order 2010 *(Extent: S)* *(affected by repeal, see note)*[^c-ca9fcd739b04fb919ae6f83466e826eb] [^c21006431] (interpretation), in the definition of “universal postal service provider”, for “section 4(3) of the Postal Services Act 2000 (provision of universal postal service: meaning)” substitute *(Extent: S)* *(affected by repeal, see note)*[^c-ca9fcd739b04fb919ae6f83466e826eb] “Part 3 of the Postal Services Act 2011.” *(Extent: S)* *(affected by repeal, see note)*[^c-ca9fcd739b04fb919ae6f83466e826eb]. *(Extent: S)* *(affected by repeal, see note)*[^c-ca9fcd739b04fb919ae6f83466e826eb]
 
 ## SCHEDULE 2 — REPEALS AND REVOCATIONS
 
@@ -858,7 +858,7 @@ Schedule 2 makes repeals and revocations in consequence of the 2011 Act.
 
 [^c21006111]: Marginal citation: [S.S.I. 2003/2](https://www.legislation.gov.uk/ssi/2003/2).
 
-[^key-126dfcf290a7ffc31fadbbd1e658c115]: Textual amendment: Sch. 1 para. 55 revoked (S.) (14.2.2013) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 (S.S.I. 2013/50)](https://www.legislation.gov.uk/ssi/2013/50), [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/50/schedule/5)
+[^c-126dfcf290a7ffc31fadbbd1e658c115]: Textual amendment: Sch. 1 para. 55 revoked (S.) (14.2.2013) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 (S.S.I. 2013/50)](https://www.legislation.gov.uk/ssi/2013/50), [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/50/schedule/5)
 
 [^c21006121]: Marginal citation: [S.S.I. 2003/231](https://www.legislation.gov.uk/ssi/2003/231).
 
@@ -922,6 +922,6 @@ Schedule 2 makes repeals and revocations in consequence of the 2011 Act.
 
 [^c21006421]: Marginal citation: [S.I. 2010/521](https://www.legislation.gov.uk/uksi/2010/521).
 
-[^key-ca9fcd739b04fb919ae6f83466e826eb]: Textual amendment: Sch. 1 para. 86 revoked (S.) (16.12.2015) by [The Scottish Parliament (Elections etc.) Order 2015 (S.S.I. 2015/425)](https://www.legislation.gov.uk/ssi/2015/425), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/425/article/1/1), [sch. 9 para. 4](https://www.legislation.gov.uk/ssi/2015/425/schedule/9/paragraph/4) (with [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/425/article/1/2), [93(2)](https://www.legislation.gov.uk/ssi/2015/425/article/93/2))
+[^c-ca9fcd739b04fb919ae6f83466e826eb]: Textual amendment: Sch. 1 para. 86 revoked (S.) (16.12.2015) by [The Scottish Parliament (Elections etc.) Order 2015 (S.S.I. 2015/425)](https://www.legislation.gov.uk/ssi/2015/425), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/425/article/1/1), [sch. 9 para. 4](https://www.legislation.gov.uk/ssi/2015/425/schedule/9/paragraph/4) (with [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/425/article/1/2), [93(2)](https://www.legislation.gov.uk/ssi/2015/425/article/93/2))
 
 [^c21006431]: Marginal citation: [S.I. 2010/2999](https://www.legislation.gov.uk/uksi/2010/2999).

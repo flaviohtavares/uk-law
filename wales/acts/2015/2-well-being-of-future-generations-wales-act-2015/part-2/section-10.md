@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. National indicators and annual well-being report[^key-a0683972168f8961b50b97b946f1a65d]
+## 10. National indicators and annual well-being report[^c-a0683972168f8961b50b97b946f1a65d]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0683972168f8961b50b97b946f1a65d]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2015/2/section/10) in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/c)
+[^c-a0683972168f8961b50b97b946f1a65d]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2015/2/section/10) in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/c)

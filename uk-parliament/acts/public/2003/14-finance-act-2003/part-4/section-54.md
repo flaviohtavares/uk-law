@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-567f3af7e8eff16a066d0a1e74d10f10][^key-63b5832859374a1bcee7249b0247f252]
+[^c-567f3af7e8eff16a066d0a1e74d10f10][^c-63b5832859374a1bcee7249b0247f252]
 
 (1) Section 53 (chargeable consideration: transaction with connected company) does not apply in the following cases.
 
@@ -31,7 +31,7 @@ In the following provisions “**the company**” means the company that is the 
 (3) Case 2 is where—
 
 - (a) immediately after the transaction the company holds the property as trustee, and
-- (b) the vendor is connected with the company only because of section 1122(6) of the Corporation Tax Act 2010[^key-bca6b360e73e654655cbdcb659db834e].
+- (b) the vendor is connected with the company only because of section 1122(6) of the Corporation Tax Act 2010[^c-bca6b360e73e654655cbdcb659db834e].
 
 (4) Case 3 is where—
 
@@ -46,8 +46,8 @@ In the following provisions “**the company**” means the company that is the 
 
 [^c5521741]: Commencement: Pt. 4 wholly in force at Royal Assent subject to Sch. 19, see s. 124, Sch. 19 para. 1(1)
 
-[^key-567f3af7e8eff16a066d0a1e74d10f10]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/part/4) applied (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [29(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/29/2)[(5)](https://www.legislation.gov.uk/uksi/2025/200/regulation/29/5) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-567f3af7e8eff16a066d0a1e74d10f10]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/part/4) applied (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [29(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/29/2)[(5)](https://www.legislation.gov.uk/uksi/2025/200/regulation/29/5) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-63b5832859374a1bcee7249b0247f252]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/part/4) modified (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2025/200/regulation/28), [30](https://www.legislation.gov.uk/uksi/2025/200/regulation/30) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-63b5832859374a1bcee7249b0247f252]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/part/4) modified (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2025/200/regulation/28), [30](https://www.legislation.gov.uk/uksi/2025/200/regulation/30) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-bca6b360e73e654655cbdcb659db834e]: Textual amendment: Words in s. 54(3)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [Sch. 1 para. 405](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/405) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-bca6b360e73e654655cbdcb659db834e]: Textual amendment: Words in s. 54(3)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [Sch. 1 para. 405](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/405) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

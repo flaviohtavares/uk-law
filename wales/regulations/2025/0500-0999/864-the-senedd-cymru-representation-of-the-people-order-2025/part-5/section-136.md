@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 136. Advertisements[^key-beb729aa53d1382e3c79f21fe2171816]
+## 136. Advertisements[^c-beb729aa53d1382e3c79f21fe2171816]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Town and Country Planning (Control of Advertisements) Regulations 1992[^f000
 
 ## Annotations
 
-[^key-beb729aa53d1382e3c79f21fe2171816]: Commencement: Art. 136 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-beb729aa53d1382e3c79f21fe2171816]: Commencement: Art. 136 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00069]: Footnote: [S.I. 1992/666](https://www.legislation.gov.uk/uksi/1992/666), to which there are amendments not relevant to this Order.

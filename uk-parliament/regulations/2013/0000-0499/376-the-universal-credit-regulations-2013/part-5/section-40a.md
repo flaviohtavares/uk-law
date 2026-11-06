@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40A. Severe conditions criteria claimant[^key-3ecf21fcc0ea4bdb7c4846887fc26c4f]
+## 40A. Severe conditions criteria claimant[^c-3ecf21fcc0ea4bdb7c4846887fc26c4f]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ecf21fcc0ea4bdb7c4846887fc26c4f]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/2013/376/regulation/40A) inserted (6.4.2026 with effect in relation to assessment periods commencing on or after that date) by [Universal Credit Act 2025 (c. 22)](https://www.legislation.gov.uk/ukpga/2025/22), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/6)
+[^c-3ecf21fcc0ea4bdb7c4846887fc26c4f]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/2013/376/regulation/40A) inserted (6.4.2026 with effect in relation to assessment periods commencing on or after that date) by [Universal Credit Act 2025 (c. 22)](https://www.legislation.gov.uk/ukpga/2025/22), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/6)

@@ -22,64 +22,64 @@ summary: ''
 
 Section 10
 
-### PART 1 (affected by repeal, see note) — Introductory provision etc (affected by repeal, see note)[^key-db43ed29c3026fafabd774fce82e48f1][^key-db43ed29c3026fafabd774fce82e48f1]
+### PART 1 (affected by repeal, see note) — Introductory provision etc (affected by repeal, see note)[^c-db43ed29c3026fafabd774fce82e48f1][^c-db43ed29c3026fafabd774fce82e48f1]
 
-#### Interpretation (affected by repeal, see note)[^key-db43ed29c3026fafabd774fce82e48f1]
+#### Interpretation (affected by repeal, see note)[^c-db43ed29c3026fafabd774fce82e48f1]
 
-**1.**[^key-e678414b1b058db2a9919783ea989fd7] (1) References in this Schedule to sections are to sections of the Mental Health Act 1983 (“ *(affected by repeal, see note)*[^key-db43ed29c3026fafabd774fce82e48f1]**the 1983 Act *(affected by repeal, see note)*[^key-db43ed29c3026fafabd774fce82e48f1]**”).
+**1.**[^c-e678414b1b058db2a9919783ea989fd7] (1) References in this Schedule to sections are to sections of the Mental Health Act 1983 (“ *(affected by repeal, see note)*[^c-db43ed29c3026fafabd774fce82e48f1]**the 1983 Act *(affected by repeal, see note)*[^c-db43ed29c3026fafabd774fce82e48f1]**”).
 
-(2) Expressions used in this Schedule and in the 1983 Act have the same meaning as in that Act. *(affected by repeal, see note)*[^key-db43ed29c3026fafabd774fce82e48f1]
+(2) Expressions used in this Schedule and in the 1983 Act have the same meaning as in that Act. *(affected by repeal, see note)*[^c-db43ed29c3026fafabd774fce82e48f1]
 
-#### Forms (affected by repeal, see note)[^key-db43ed29c3026fafabd774fce82e48f1]
+#### Forms (affected by repeal, see note)[^c-db43ed29c3026fafabd774fce82e48f1]
 
-**2.**[^key-534a2f5af623dd5a4074c6e3dd931cad] Where any form prescribed for use in connection with a provision of the 1983 Act is inconsistent with a modification made by Part 2 of this Schedule, the form— *(affected by repeal, see note)*[^key-db43ed29c3026fafabd774fce82e48f1]
+**2.**[^c-534a2f5af623dd5a4074c6e3dd931cad] Where any form prescribed for use in connection with a provision of the 1983 Act is inconsistent with a modification made by Part 2 of this Schedule, the form— *(affected by repeal, see note)*[^c-db43ed29c3026fafabd774fce82e48f1]
 
-- (a) may, in connection with the provision as so modified, be used with appropriate amendments; *(affected by repeal, see note)*[^key-db43ed29c3026fafabd774fce82e48f1]
-- (b) is otherwise, for use in that connection, to be read with such amendments as are necessary to reflect the modification. *(affected by repeal, see note)*[^key-db43ed29c3026fafabd774fce82e48f1]
+- (a) may, in connection with the provision as so modified, be used with appropriate amendments; *(affected by repeal, see note)*[^c-db43ed29c3026fafabd774fce82e48f1]
+- (b) is otherwise, for use in that connection, to be read with such amendments as are necessary to reflect the modification. *(affected by repeal, see note)*[^c-db43ed29c3026fafabd774fce82e48f1]
 
-### PART 2 — Modifications of the Mental Health Act 1983 and related provision[^key-227709cf67d19c086745ecdbd44c098f]
+### PART 2 — Modifications of the Mental Health Act 1983 and related provision[^c-227709cf67d19c086745ecdbd44c098f]
 
 **No longer in force.**
 
-#### Applications for compulsory admission to hospital for assessment or treatment[^key-227709cf67d19c086745ecdbd44c098f]
+#### Applications for compulsory admission to hospital for assessment or treatment[^c-227709cf67d19c086745ecdbd44c098f]
 
-**3.**[^key-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Applications for compulsory admission of patients already in hospital[^key-227709cf67d19c086745ecdbd44c098f]
+#### Applications for compulsory admission of patients already in hospital[^c-227709cf67d19c086745ecdbd44c098f]
 
-**4.**[^key-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Period of remand to hospital[^key-227709cf67d19c086745ecdbd44c098f]
+#### Period of remand to hospital[^c-227709cf67d19c086745ecdbd44c098f]
 
-**5.**[^key-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Court orders for the detention of accused or convicted persons in hospital[^key-227709cf67d19c086745ecdbd44c098f]
+#### Court orders for the detention of accused or convicted persons in hospital[^c-227709cf67d19c086745ecdbd44c098f]
 
-**6.**[^key-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Directions for the transfer of prisoners to hospital[^key-227709cf67d19c086745ecdbd44c098f]
+#### Directions for the transfer of prisoners to hospital[^c-227709cf67d19c086745ecdbd44c098f]
 
-**7.**[^key-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Conveyance of accused or convicted persons to hospital[^key-227709cf67d19c086745ecdbd44c098f]
+#### Conveyance of accused or convicted persons to hospital[^c-227709cf67d19c086745ecdbd44c098f]
 
-**8.**[^key-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Administration of medicine to persons liable to detention in hospital[^key-227709cf67d19c086745ecdbd44c098f]
+#### Administration of medicine to persons liable to detention in hospital[^c-227709cf67d19c086745ecdbd44c098f]
 
-**9.**[^key-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Detention in place of safety[^key-227709cf67d19c086745ecdbd44c098f]
+#### Detention in place of safety[^c-227709cf67d19c086745ecdbd44c098f]
 
-**10.**[^key-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Constitution and proceedings of the Mental Health Review Tribunal for Wales[^key-227709cf67d19c086745ecdbd44c098f]
+#### Constitution and proceedings of the Mental Health Review Tribunal for Wales[^c-227709cf67d19c086745ecdbd44c098f]
 
-**11.**[^key-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-227709cf67d19c086745ecdbd44c098f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 3 — Transitional provision
 
@@ -101,12 +101,12 @@ Section 10
 
 ## Annotations
 
-[^key-db43ed29c3026fafabd774fce82e48f1]: Textual amendment: Sch. 8 Pt. 1 expires (E.) (10.12.2020) by [The Coronavirus Act 2020 (Expiry of Mental Health Provisions) (England and Wales) Regulations 2020 (S.I. 2020/1467)](https://www.legislation.gov.uk/uksi/2020/1467), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2020/1467/regulation/2/1/a) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1467/regulation/2/2))
+[^c-db43ed29c3026fafabd774fce82e48f1]: Textual amendment: Sch. 8 Pt. 1 expires (E.) (10.12.2020) by [The Coronavirus Act 2020 (Expiry of Mental Health Provisions) (England and Wales) Regulations 2020 (S.I. 2020/1467)](https://www.legislation.gov.uk/uksi/2020/1467), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2020/1467/regulation/2/1/a) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1467/regulation/2/2))
 
     Sch. 8 Pt. 1 expires in part (W.) (10.12.2020) by [The Coronavirus Act 2020 (Expiry of Mental Health Provisions) (England and Wales) Regulations 2020 (S.I. 2020/1467)](https://www.legislation.gov.uk/uksi/2020/1467), [reg. 2(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1467/regulation/2/1/b/ii)
 
-[^key-e678414b1b058db2a9919783ea989fd7]: Commencement: Sch. 8 para. 1 in force at 27.3.2020 at 9.00 a.m. for W. by [S.I. 2020/366](https://www.legislation.gov.uk/wsi/2020/366), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/366/regulation/2/b)
+[^c-e678414b1b058db2a9919783ea989fd7]: Commencement: Sch. 8 para. 1 in force at 27.3.2020 at 9.00 a.m. for W. by [S.I. 2020/366](https://www.legislation.gov.uk/wsi/2020/366), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/366/regulation/2/b)
 
-[^key-534a2f5af623dd5a4074c6e3dd931cad]: Commencement: Sch. 8 para. 2 in force at 27.3.2020 at 9.00 a.m. for W. by [S.I. 2020/366](https://www.legislation.gov.uk/wsi/2020/366), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/366/regulation/2/b)
+[^c-534a2f5af623dd5a4074c6e3dd931cad]: Commencement: Sch. 8 para. 2 in force at 27.3.2020 at 9.00 a.m. for W. by [S.I. 2020/366](https://www.legislation.gov.uk/wsi/2020/366), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/366/regulation/2/b)
 
-[^key-227709cf67d19c086745ecdbd44c098f]: Textual amendment: Sch. 8 Pt. 2 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-227709cf67d19c086745ecdbd44c098f]: Textual amendment: Sch. 8 Pt. 2 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Level 2 disclosure: application for review[^key-0056c55b96a594ca3ce559ef629fd89d][^key-b4d25e6a3a0f0d6cdd47055f20903637]
+## 20. Level 2 disclosure: application for review[^c-0056c55b96a594ca3ce559ef629fd89d][^c-b4d25e6a3a0f0d6cdd47055f20903637]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 - (a) information included under section 13 about a spent childhood conviction or children's hearing outcome of the applicant,
 - (b) information relating to the applicant provided by the chief constable in accordance with section 14,
-- (ba)[^key-226c6b5ec59221c79ca5e963c868c3fb] information relating to the applicant provided by a chief officer in response to a request under section 14A,
+- (ba)[^c-226c6b5ec59221c79ca5e963c868c3fb] information relating to the applicant provided by a chief officer in response to a request under section 14A,
 - (c) details of a removable conviction of the applicant.
 
 (3) An application may be made under subsection (1) only if the applicant notified the Scottish Ministers under section 18(1)(b) of an intention to make the application.
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0056c55b96a594ca3ce559ef629fd89d]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/13/section/20) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-0056c55b96a594ca3ce559ef629fd89d]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/13/section/20) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
-[^key-b4d25e6a3a0f0d6cdd47055f20903637]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/13/section/20) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-b4d25e6a3a0f0d6cdd47055f20903637]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/13/section/20) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-226c6b5ec59221c79ca5e963c868c3fb]: Textual amendment: [S. 20(2)(ba)](https://www.legislation.gov.uk/asp/2020/13/section/20/2/ba) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/1/4)
+[^c-226c6b5ec59221c79ca5e963c868c3fb]: Textual amendment: [S. 20(2)(ba)](https://www.legislation.gov.uk/asp/2020/13/section/20/2/ba) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/1/4)

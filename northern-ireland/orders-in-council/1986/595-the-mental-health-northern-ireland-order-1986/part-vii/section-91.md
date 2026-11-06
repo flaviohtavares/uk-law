@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91. Application for, and grant of, certificate of registration[^key-e1060c1f7c3b4b629584fad10589d644][^key-aa6e52c48cdd22b8faecf762a93f673d]
+## 91. Application for, and grant of, certificate of registration[^c-e1060c1f7c3b4b629584fad10589d644][^c-aa6e52c48cdd22b8faecf762a93f673d]
 
 *Extent: N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e1060c1f7c3b4b629584fad10589d644]: Commencement: [Art. 91](https://www.legislation.gov.uk/nisi/1986/595/article/91) in operation at 1.11.2012 for specified purposes by [S.R. 2012/349](https://www.legislation.gov.uk/nisr/2012/349), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/349/article/2/1/a)
+[^c-e1060c1f7c3b4b629584fad10589d644]: Commencement: [Art. 91](https://www.legislation.gov.uk/nisi/1986/595/article/91) in operation at 1.11.2012 for specified purposes by [S.R. 2012/349](https://www.legislation.gov.uk/nisr/2012/349), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/349/article/2/1/a)
 
-[^key-aa6e52c48cdd22b8faecf762a93f673d]: Commencement: [Art. 91](https://www.legislation.gov.uk/nisi/1986/595/article/91) in operation at 31.3.2013 in so far as not already in operation by [S.R. 2012/349](https://www.legislation.gov.uk/nisr/2012/349), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/349/article/2/2/b)
+[^c-aa6e52c48cdd22b8faecf762a93f673d]: Commencement: [Art. 91](https://www.legislation.gov.uk/nisi/1986/595/article/91) in operation at 31.3.2013 in so far as not already in operation by [S.R. 2012/349](https://www.legislation.gov.uk/nisr/2012/349), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/349/article/2/2/b)

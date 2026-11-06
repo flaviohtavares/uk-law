@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Power of Welsh Ministers to issue enforcement notice[^key-b00024dc3f02d22d6bfc045c8d568270][^key-4a377b5b9921af87e25c6b8c3101d8b9]
+## 35. Power of Welsh Ministers to issue enforcement notice[^c-b00024dc3f02d22d6bfc045c8d568270][^c-4a377b5b9921af87e25c6b8c3101d8b9]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b00024dc3f02d22d6bfc045c8d568270]: Commencement: S. 35 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-b00024dc3f02d22d6bfc045c8d568270]: Commencement: S. 35 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-4a377b5b9921af87e25c6b8c3101d8b9]: Commencement: [S. 35](https://www.legislation.gov.uk/asc/2023/3/section/35) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-4a377b5b9921af87e25c6b8c3101d8b9]: Commencement: [S. 35](https://www.legislation.gov.uk/asc/2023/3/section/35) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

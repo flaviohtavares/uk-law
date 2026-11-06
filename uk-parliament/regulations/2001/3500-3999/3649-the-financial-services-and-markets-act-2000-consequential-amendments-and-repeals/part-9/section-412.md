@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 412. Meaning of “the reference banks”[^key-4053df997178e275dab724172c7994b7]
+## 412. Meaning of “the reference banks”[^c-4053df997178e275dab724172c7994b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4053df997178e275dab724172c7994b7]: Commencement: Art. 412 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-4053df997178e275dab724172c7994b7]: Commencement: Art. 412 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00296]: Footnote: Paragraphs (2) and (3) were substituted for paragraph (2) as originally enacted by [S.I. 1991/2111](https://www.legislation.gov.uk/uksi/1991/2111), regulation 4(b), and paragraph (2)(b)(i) was amended by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129), article 3, Schedule 2.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Entitlement to partial retirement pension or full retirement pension[^key-09451268d511f5bbfa6c258c45a2c635]
+## 67. Entitlement to partial retirement pension or full retirement pension[^c-09451268d511f5bbfa6c258c45a2c635]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ An active member of this scheme (P) who exercises the partial retirement option 
 
 ## Annotations
 
-[^key-09451268d511f5bbfa6c258c45a2c635]: Commencement: [Reg. 67](https://www.legislation.gov.uk/nisr/2014/290/regulation/67) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-09451268d511f5bbfa6c258c45a2c635]: Commencement: [Reg. 67](https://www.legislation.gov.uk/nisr/2014/290/regulation/67) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

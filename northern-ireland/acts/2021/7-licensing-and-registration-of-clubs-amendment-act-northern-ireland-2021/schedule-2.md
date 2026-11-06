@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — Repeals[^key-d803b7e1dc552cc16c4942bf49530c90][^key-6427860c77023b532c0b43370f02b9a6][^key-1f8b2d9f6a6c852fd1b6032a53fe99c3]
+## SCHEDULE 2 — Repeals[^c-d803b7e1dc552cc16c4942bf49530c90][^c-6427860c77023b532c0b43370f02b9a6][^c-1f8b2d9f6a6c852fd1b6032a53fe99c3]
 
 *Extent: N.I.*
 
@@ -70,8 +70,8 @@ Section 46
 
 ## Annotations
 
-[^key-d803b7e1dc552cc16c4942bf49530c90]: Commencement: Sch. 2 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-d803b7e1dc552cc16c4942bf49530c90]: Commencement: Sch. 2 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-6427860c77023b532c0b43370f02b9a6]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2021/7/schedule/2) in operation at 1.10.2021 for specified purposes by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-6427860c77023b532c0b43370f02b9a6]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2021/7/schedule/2) in operation at 1.10.2021 for specified purposes by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
 
-[^key-1f8b2d9f6a6c852fd1b6032a53fe99c3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2021/7/schedule/2) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-1f8b2d9f6a6c852fd1b6032a53fe99c3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2021/7/schedule/2) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

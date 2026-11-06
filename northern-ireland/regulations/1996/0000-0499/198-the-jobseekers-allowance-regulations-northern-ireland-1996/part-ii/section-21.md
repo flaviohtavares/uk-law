@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Further circumstances in which a person is to be treated as actively seeking employment: laid off and short-time workers[^key-37961907f94f70fc73e4b38eed2491e3]
+## 21. Further circumstances in which a person is to be treated as actively seeking employment: laid off and short-time workers[^c-37961907f94f70fc73e4b38eed2491e3]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ A person who has restricted his availability for employment in accordance with r
 
 ## Annotations
 
-[^key-37961907f94f70fc73e4b38eed2491e3]: Commencement: Reg. 21 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-37961907f94f70fc73e4b38eed2491e3]: Commencement: Reg. 21 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Technical documentation and conformity assessment[^key-c1857adbbe17d88e24e4fb067f23ff88]
+## 9. Technical documentation and conformity assessment[^c-c1857adbbe17d88e24e4fb067f23ff88]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Before placing a product on the market a manufacturer must—
 
 ## Annotations
 
-[^key-c1857adbbe17d88e24e4fb067f23ff88]: Commencement: Reg. 9 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-c1857adbbe17d88e24e4fb067f23ff88]: Commencement: Reg. 9 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

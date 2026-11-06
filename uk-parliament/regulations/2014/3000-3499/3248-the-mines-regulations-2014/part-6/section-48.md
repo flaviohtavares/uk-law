@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Exits from the mine[^key-962ee9ba0567e9e2a7ace5c8238c6d25]
+## 48. Exits from the mine[^c-962ee9ba0567e9e2a7ace5c8238c6d25]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-962ee9ba0567e9e2a7ace5c8238c6d25]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2014/3248/regulation/48) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-962ee9ba0567e9e2a7ace5c8238c6d25]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2014/3248/regulation/48) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

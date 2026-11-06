@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Availability of amounts representing budget share[^key-f6300bfdb205824e4dcdf587a44bd566]
+## 32. Availability of amounts representing budget share[^c-f6300bfdb205824e4dcdf587a44bd566]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to any provision made by or under a scheme made under section 48(1) of S
 
 ## Annotations
 
-[^key-f6300bfdb205824e4dcdf587a44bd566]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2012/1035/regulation/32) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-f6300bfdb205824e4dcdf587a44bd566]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2012/1035/regulation/32) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

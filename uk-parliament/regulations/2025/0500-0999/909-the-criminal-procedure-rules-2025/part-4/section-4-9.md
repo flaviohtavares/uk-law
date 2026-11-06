@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.9. Service by another method[^key-a10776f183f700b7f72448401185f36f]
+## 4.9. Service by another method[^c-a10776f183f700b7f72448401185f36f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a10776f183f700b7f72448401185f36f]: Commencement: [Rule 4.9](https://www.legislation.gov.uk/uksi/2025/909/rule/4.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a10776f183f700b7f72448401185f36f]: Commencement: [Rule 4.9](https://www.legislation.gov.uk/uksi/2025/909/rule/4.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

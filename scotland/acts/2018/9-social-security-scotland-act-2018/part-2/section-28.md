@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Carer's assistance[^key-8843de3d366a8239146943bd754d1e67]
+## 28. Carer's assistance[^c-8843de3d366a8239146943bd754d1e67]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8843de3d366a8239146943bd754d1e67]: Commencement: S. 28 in force at 14.10.2019 by [S.S.I. 2019/269](https://www.legislation.gov.uk/ssi/2019/269), [reg. 3](https://www.legislation.gov.uk/ssi/2019/269/regulation/3)
+[^c-8843de3d366a8239146943bd754d1e67]: Commencement: S. 28 in force at 14.10.2019 by [S.S.I. 2019/269](https://www.legislation.gov.uk/ssi/2019/269), [reg. 3](https://www.legislation.gov.uk/ssi/2019/269/regulation/3)

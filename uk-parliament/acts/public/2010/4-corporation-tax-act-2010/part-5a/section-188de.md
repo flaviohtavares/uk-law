@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188DE. Previously claimed group relief for carried-forward losses[^key-6d828abb36a8900141e4aabfad343f1c][^key-5f4b4ffe3f8c46c0f1df33d946de3a27]
+## 188DE. Previously claimed group relief for carried-forward losses[^c-6d828abb36a8900141e4aabfad343f1c][^c-5f4b4ffe3f8c46c0f1df33d946de3a27]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ The amount of previously claimed group relief for carried-forward losses for the
 
 (2) A claim is a prior claim for the purposes of this section if—
 
-- (a)[^key-270625c505c9994179804020307a774a] it is a claim under section 188CB or 188CC by the claimant company for group relief for carried-forward losses which would be given by way of a deduction from the company's total profits of the claim period,
+- (a)[^c-270625c505c9994179804020307a774a] it is a claim under section 188CB or 188CC by the claimant company for group relief for carried-forward losses which would be given by way of a deduction from the company's total profits of the claim period,
 - (b) it is made before the current claim, and
 - (c) it has not been withdrawn.
 
@@ -48,8 +48,8 @@ The previously claimed amount of group relief for carried-forward losses in rela
 
 ## Annotations
 
-[^key-6d828abb36a8900141e4aabfad343f1c]: Modification: [Ss. 188DB-188DG](https://www.legislation.gov.uk/ukpga/2010/4/section/188DB) applied (1.4.2022 in relation to accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2022/3/section/51/1), [Sch. 7 para. 18(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/7/paragraph/18/1)
+[^c-6d828abb36a8900141e4aabfad343f1c]: Modification: [Ss. 188DB-188DG](https://www.legislation.gov.uk/ukpga/2010/4/section/188DB) applied (1.4.2022 in relation to accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2022/3/section/51/1), [Sch. 7 para. 18(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/7/paragraph/18/1)
 
-[^key-5f4b4ffe3f8c46c0f1df33d946de3a27]: Textual amendment: Pt. 5A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/23)
+[^c-5f4b4ffe3f8c46c0f1df33d946de3a27]: Textual amendment: Pt. 5A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/23)
 
-[^key-270625c505c9994179804020307a774a]: Modification: [S. 188DE(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/188DE/2/a) modified (1.4.2022 in relation to accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2022/3/section/51/1), [Sch. 7 para. 18(2)(c)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/7/paragraph/18/2/c)
+[^c-270625c505c9994179804020307a774a]: Modification: [S. 188DE(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/188DE/2/a) modified (1.4.2022 in relation to accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2022/3/section/51/1), [Sch. 7 para. 18(2)(c)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/7/paragraph/18/2/c)

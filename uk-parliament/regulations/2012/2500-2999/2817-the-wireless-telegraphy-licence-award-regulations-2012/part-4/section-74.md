@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Assignment of numbered 800 MHz paired frequency lots to winner of the 800 MHz coverage obligation lot[^key-1912fa13fb86236156c240d388acacfd]
+## 74. Assignment of numbered 800 MHz paired frequency lots to winner of the 800 MHz coverage obligation lot[^c-1912fa13fb86236156c240d388acacfd]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1912fa13fb86236156c240d388acacfd]: Commencement: Reg. 74 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-1912fa13fb86236156c240d388acacfd]: Commencement: Reg. 74 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

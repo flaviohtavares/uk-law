@@ -35,55 +35,55 @@ concerning a coordinated multiannual control programme of the Union for 2020, 20
 
 (Text with EEA relevance) (revoked)
 
-[^key-1027255ee20c6fd74cd13883f996ea60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1027255ee20c6fd74cd13883f996ea60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-1027255ee20c6fd74cd13883f996ea60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1027255ee20c6fd74cd13883f996ea60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1027255ee20c6fd74cd13883f996ea60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1027255ee20c6fd74cd13883f996ea60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-1027255ee20c6fd74cd13883f996ea60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-1027255ee20c6fd74cd13883f996ea60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-1027255ee20c6fd74cd13883f996ea60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-1027255ee20c6fd74cd13883f996ea60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-1027255ee20c6fd74cd13883f996ea60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-1027255ee20c6fd74cd13883f996ea60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1027255ee20c6fd74cd13883f996ea60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1027255ee20c6fd74cd13883f996ea60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-1027255ee20c6fd74cd13883f996ea60]
+## ANNEX I[^c-1027255ee20c6fd74cd13883f996ea60]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Number of samples referred to in Article 1[^key-1027255ee20c6fd74cd13883f996ea60]
+## ANNEX II — Number of samples referred to in Article 1[^c-1027255ee20c6fd74cd13883f996ea60]
 
-[^key-1027255ee20c6fd74cd13883f996ea60](1)
+[^c-1027255ee20c6fd74cd13883f996ea60](1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1027255ee20c6fd74cd13883f996ea60](2)
+[^c-1027255ee20c6fd74cd13883f996ea60](2)
 
 In addition to the samples required in accordance with point (1), in 2020 the competent authorities must collectively take and analyse five samples of infant formulae and five samples of follow-on formulae.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1027255ee20c6fd74cd13883f996ea60](3)
+[^c-1027255ee20c6fd74cd13883f996ea60](3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1027255ee20c6fd74cd13883f996ea60](4)
+[^c-1027255ee20c6fd74cd13883f996ea60](4)
 
 Competent authorities using multi-residue methods may use qualitative screening methods on up to 15 % of the samples to be taken and analysed in accordance with point (1). Where a competent authority uses qualitative screening methods, it shall analyse the remaining number of samples by quantitative multi-residue methods.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1027255ee20c6fd74cd13883f996ea60](4A)
+[^c-1027255ee20c6fd74cd13883f996ea60](4A)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1027255ee20c6fd74cd13883f996ea60](5)
+[^c-1027255ee20c6fd74cd13883f996ea60](5)
 
 ...
 
@@ -91,4 +91,4 @@ Competent authorities using multi-residue methods may use qualitative screening 
 
 ## Annotations
 
-[^key-1027255ee20c6fd74cd13883f996ea60]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-1027255ee20c6fd74cd13883f996ea60]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

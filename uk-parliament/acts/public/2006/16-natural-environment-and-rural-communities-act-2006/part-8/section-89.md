@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Permissible functions of boards[^key-0ec62ffba0a2fe80d2d15457cdcde589]
+## 89. Permissible functions of boards[^c-0ec62ffba0a2fe80d2d15457cdcde589]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ec62ffba0a2fe80d2d15457cdcde589]: Commencement: S. 89 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-0ec62ffba0a2fe80d2d15457cdcde589]: Commencement: S. 89 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

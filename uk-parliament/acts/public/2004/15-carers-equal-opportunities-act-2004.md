@@ -36,7 +36,7 @@ An Act to place duties on local authorities and health bodies in respect of care
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Duty to inform carers of right to assessment[^key-9cf554f75d0a30585ea7b6e278875d8e][^key-101abc9b188859630fa48133cde03d9a]
+## 1. Duty to inform carers of right to assessment[^c-9cf554f75d0a30585ea7b6e278875d8e][^c-101abc9b188859630fa48133cde03d9a]
 
 (1) In section 1 of the Carers (Recognition and Services) Act 1995 (c. 12) (assessment of ability of carers to provide care), after subsection (2A) there is inserted—
 
@@ -47,9 +47,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 >
 > the local authority must inform the individual that he may be so entitled before they make their decision as to the needs of the relevant person or the disabled child.
 
-(2)[^key-0ea44c5a4f2bd97ce092879a8aa127fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0ea44c5a4f2bd97ce092879a8aa127fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Assessment of carers[^key-8cb33a64fa9712f0c861ffacc80d903f][^key-d8a915216b949be64da0186863371b26]
+## 2. Assessment of carers[^c-8cb33a64fa9712f0c861ffacc80d903f][^c-d8a915216b949be64da0186863371b26]
 
 (1) In section 1 of the Carers (Recognition and Services) Act 1995 (c. 12) (assessment of ability of carers to provide care), after subsection (2B) (inserted by section 1) there is inserted—
 
@@ -58,19 +58,19 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 > - (a) works or wishes to work,
 > - (b) is undertaking, or wishes to undertake, education, training or any leisure activity.
 
-(2)[^key-a4f96349c4f8ed9bf0de9d827d4e53a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a4f96349c4f8ed9bf0de9d827d4e53a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a4f96349c4f8ed9bf0de9d827d4e53a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a4f96349c4f8ed9bf0de9d827d4e53a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Co-operation between authorities[^key-c078c19315d867b795bbb6a09f8c94af]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Minor amendment[^key-649a38ca98e05bc771afcc1adc32be30]
+## 3. Co-operation between authorities[^c-c078c19315d867b795bbb6a09f8c94af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Financial provision[^key-8f4c7c2831e027964f04b192f17d1e15][^key-acbca8be7f8b330ec355e4eeccb66571]
+## 4. Minor amendment[^c-649a38ca98e05bc771afcc1adc32be30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Financial provision[^c-8f4c7c2831e027964f04b192f17d1e15][^c-acbca8be7f8b330ec355e4eeccb66571]
 
 There shall be paid out of money provided by Parliament any increase attributable to this Act in the sums payable out of money so provided by virtue of any other Act.
 
@@ -87,32 +87,32 @@ There shall be paid out of money provided by Parliament any increase attributabl
 
 (4) Different days may be appointed for different provisions or for different purposes.
 
-(5) The Secretary of State may by order made by statutory instrument provide that section 3 of this Act shall have effect in its application to the Isles of Scilly with such modifications as are specified in the order. *(affected by repeal, see note)*[^key-c59249eb18d16ea047cccfc48d883e1e]
+(5) The Secretary of State may by order made by statutory instrument provide that section 3 of this Act shall have effect in its application to the Isles of Scilly with such modifications as are specified in the order. *(affected by repeal, see note)*[^c-c59249eb18d16ea047cccfc48d883e1e]
 
-(6) A statutory instrument containing an order under subsection (5) shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(affected by repeal, see note)*[^key-c59249eb18d16ea047cccfc48d883e1e]
+(6) A statutory instrument containing an order under subsection (5) shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(affected by repeal, see note)*[^c-c59249eb18d16ea047cccfc48d883e1e]
 
 (7) This Act extends to England and Wales only.
 
 ## Annotations
 
-[^key-9cf554f75d0a30585ea7b6e278875d8e]: Commencement: S. 1 in force for E. at 1.4.2005 by [S.I. 2005/876](https://www.legislation.gov.uk/uksi/2005/876), [art. 2](https://www.legislation.gov.uk/uksi/2005/876/article/2)
+[^c-9cf554f75d0a30585ea7b6e278875d8e]: Commencement: S. 1 in force for E. at 1.4.2005 by [S.I. 2005/876](https://www.legislation.gov.uk/uksi/2005/876), [art. 2](https://www.legislation.gov.uk/uksi/2005/876/article/2)
 
-[^key-101abc9b188859630fa48133cde03d9a]: Commencement: S. 1 in force for W. at 18.4.2005 by [S.I. 2005/1153](https://www.legislation.gov.uk/uksi/2005/1153), [art. 2](https://www.legislation.gov.uk/uksi/2005/1153/article/2)
+[^c-101abc9b188859630fa48133cde03d9a]: Commencement: S. 1 in force for W. at 18.4.2005 by [S.I. 2005/1153](https://www.legislation.gov.uk/uksi/2005/1153), [art. 2](https://www.legislation.gov.uk/uksi/2005/1153/article/2)
 
-[^key-0ea44c5a4f2bd97ce092879a8aa127fb]: Textual amendment: S. 1(2) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [213(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/213/a)
+[^c-0ea44c5a4f2bd97ce092879a8aa127fb]: Textual amendment: S. 1(2) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [213(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/213/a)
 
-[^key-8cb33a64fa9712f0c861ffacc80d903f]: Commencement: S. 2 in force for E. at 1.4.2005 by [S.I. 2005/876](https://www.legislation.gov.uk/uksi/2005/876), [art. 2](https://www.legislation.gov.uk/uksi/2005/876/article/2)
+[^c-8cb33a64fa9712f0c861ffacc80d903f]: Commencement: S. 2 in force for E. at 1.4.2005 by [S.I. 2005/876](https://www.legislation.gov.uk/uksi/2005/876), [art. 2](https://www.legislation.gov.uk/uksi/2005/876/article/2)
 
-[^key-d8a915216b949be64da0186863371b26]: Commencement: S. 2 in force for W. at 18.4.2005 by [S.I. 2005/1153](https://www.legislation.gov.uk/uksi/2005/1153), [art. 2](https://www.legislation.gov.uk/uksi/2005/1153/article/2)
+[^c-d8a915216b949be64da0186863371b26]: Commencement: S. 2 in force for W. at 18.4.2005 by [S.I. 2005/1153](https://www.legislation.gov.uk/uksi/2005/1153), [art. 2](https://www.legislation.gov.uk/uksi/2005/1153/article/2)
 
-[^key-a4f96349c4f8ed9bf0de9d827d4e53a8]: Textual amendment: S. 2(2)(3) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [213(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/213/b)
+[^c-a4f96349c4f8ed9bf0de9d827d4e53a8]: Textual amendment: S. 2(2)(3) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [213(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/213/b)
 
-[^key-c078c19315d867b795bbb6a09f8c94af]: Textual amendment: S. 3 omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [213(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/213/c)
+[^c-c078c19315d867b795bbb6a09f8c94af]: Textual amendment: S. 3 omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [213(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/213/c)
 
-[^key-649a38ca98e05bc771afcc1adc32be30]: Textual amendment: S. 4 omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [213(d)](https://www.legislation.gov.uk/wsi/2016/413/regulation/213/d)
+[^c-649a38ca98e05bc771afcc1adc32be30]: Textual amendment: S. 4 omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [213(d)](https://www.legislation.gov.uk/wsi/2016/413/regulation/213/d)
 
-[^key-8f4c7c2831e027964f04b192f17d1e15]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2004/15/section/5) in force for E. at 1.4.2005 by [S.I. 2005/876](https://www.legislation.gov.uk/uksi/2005/876), [art. 2](https://www.legislation.gov.uk/uksi/2005/876/article/2)
+[^c-8f4c7c2831e027964f04b192f17d1e15]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2004/15/section/5) in force for E. at 1.4.2005 by [S.I. 2005/876](https://www.legislation.gov.uk/uksi/2005/876), [art. 2](https://www.legislation.gov.uk/uksi/2005/876/article/2)
 
-[^key-acbca8be7f8b330ec355e4eeccb66571]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2004/15/section/5) in force for W. at 18.4.2005 by [S.I. 2005/1153](https://www.legislation.gov.uk/wsi/2005/1153), [art. 2](https://www.legislation.gov.uk/wsi/2005/1153/article/2)
+[^c-acbca8be7f8b330ec355e4eeccb66571]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2004/15/section/5) in force for W. at 18.4.2005 by [S.I. 2005/1153](https://www.legislation.gov.uk/wsi/2005/1153), [art. 2](https://www.legislation.gov.uk/wsi/2005/1153/article/2)
 
-[^key-c59249eb18d16ea047cccfc48d883e1e]: Textual amendment: [S. 6(5)](https://www.legislation.gov.uk/ukpga/2004/15/section/6/5)[(6)](https://www.legislation.gov.uk/ukpga/2004/15/section/6/6) ceases to have effect (1.4.2015) by virtue of [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 77](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/77) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
+[^c-c59249eb18d16ea047cccfc48d883e1e]: Textual amendment: [S. 6(5)](https://www.legislation.gov.uk/ukpga/2004/15/section/6/5)[(6)](https://www.legislation.gov.uk/ukpga/2004/15/section/6/6) ceases to have effect (1.4.2015) by virtue of [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 77](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/77) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))

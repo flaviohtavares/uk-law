@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Operation of electricity generating stations[^key-b028b805e0c231670fb5b89111c56a07]
+## 5. Operation of electricity generating stations[^c-b028b805e0c231670fb5b89111c56a07]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b028b805e0c231670fb5b89111c56a07]: Commencement: Art. 5 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-b028b805e0c231670fb5b89111c56a07]: Commencement: Art. 5 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Broadcasting from outside United Kingdom[^key-421beef68bec927c6260a67ee9e039f2]
+## 63. Broadcasting from outside United Kingdom[^c-421beef68bec927c6260a67ee9e039f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ for the reception and re-transmission of that matter by that body or the holder 
 
 ## Annotations
 
-[^key-421beef68bec927c6260a67ee9e039f2]: Commencement: Art. 63 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-421beef68bec927c6260a67ee9e039f2]: Commencement: Art. 63 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00046]: Footnote: [1990 c.42](https://www.legislation.gov.uk/ukpga/1990/42). Section 201 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), section 360 and Schedule 19, paragraph 1.
 

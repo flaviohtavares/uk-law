@@ -50,13 +50,13 @@ In accordance with section 48(4A)[^f00002] of that Act, they have had regard to 
 
 There has been consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003].
 
-## 1. Citation, commencement and extent[^key-b8daf3dcac346077c6ccf7f1f86ee0b9]
+## 1. Citation, commencement and extent[^c-b8daf3dcac346077c6ccf7f1f86ee0b9]
 
 (1) These Regulations may be cited as the Purity Criteria for Colours, Sweeteners and Miscellaneous Food Additives (Scotland) Regulations 2009 and come into force on 25th May 2009.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Amendment of the Colours in Food Regulations 1995[^key-6abb76b72b4869a081e4a434561ef03d]
+## 2. Amendment of the Colours in Food Regulations 1995[^c-6abb76b72b4869a081e4a434561ef03d]
 
 (1) The Colours in Food Regulations 1995[^f00004] are amended in accordance with paragraph (2).
 
@@ -69,7 +69,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No. 178
   ;
 - (b) in the definition of “permitted colour”, for the expression “the annex to Directive [95/45/EC](https://www.legislation.gov.uk/european/directive/1995/0045)” substitute the expression “Annex I to Directive [2008/128/EC](https://www.legislation.gov.uk/european/directive/2008/0128)”.
 
-## 3. Amendment of the Sweeteners in Food Regulations 1995[^key-a2ed87b90a3a7fcee715a04a4c0754c3]
+## 3. Amendment of the Sweeteners in Food Regulations 1995[^c-a2ed87b90a3a7fcee715a04a4c0754c3]
 
 (1) The Sweeteners in Food Regulations 1995[^f00006] are amended in accordance with paragraph (2).
 
@@ -82,7 +82,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No. 178
   ;
 - (b) in the definition of “permitted sweetener”, for the expression “the annex to Directive [95/31/EC](https://www.legislation.gov.uk/european/directive/1995/0031)” substitute the expression “Annex I to Directive [2008/60/EC](https://www.legislation.gov.uk/european/directive/2008/0060)”.
 
-## 4. Amendment of the Miscellaneous Food Additives Regulations 1995[^key-6040efcddddb0aa642d9ee945e23bb8a]
+## 4. Amendment of the Miscellaneous Food Additives Regulations 1995[^c-6040efcddddb0aa642d9ee945e23bb8a]
 
 (1) The Miscellaneous Food Additives Regulations 1995[^f00007] are amended in accordance with paragraph (2).
 
@@ -129,19 +129,19 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^f00003]: Footnote: O.J. No. L 131, 1.2.02, p.1. The Regulation was amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council (O.J. No. L 245, 29.9.03, p.4), Commission Regulation [(EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) (O.J. No. L 100, 8.4.06, p.3) and by Commission Regulation [(EC) No. 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) (O.J. No. L 60, 5.3.08, p.17).
 
-[^key-b8daf3dcac346077c6ccf7f1f86ee0b9]: Commencement: Reg. 1 in force at 25.5.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/167/regulation/1/1)
+[^c-b8daf3dcac346077c6ccf7f1f86ee0b9]: Commencement: Reg. 1 in force at 25.5.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/167/regulation/1/1)
 
-[^key-6abb76b72b4869a081e4a434561ef03d]: Commencement: Reg. 2 in force at 25.5.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/167/regulation/1/1)
+[^c-6abb76b72b4869a081e4a434561ef03d]: Commencement: Reg. 2 in force at 25.5.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/167/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1995/3124](https://www.legislation.gov.uk/uksi/1995/3124), relevantly amended by [S.S.I. 2000/131](https://www.legislation.gov.uk/ssi/2000/131), [S.S.I. 2001/422](https://www.legislation.gov.uk/ssi/2001/422), [S.S.I. 2005/94](https://www.legislation.gov.uk/ssi/2005/94) and [S.S.I. 2007/143](https://www.legislation.gov.uk/ssi/2007/143).
 
 [^f00005]: Footnote: O.J. No. L 6, 10.1.09, p.20.
 
-[^key-a2ed87b90a3a7fcee715a04a4c0754c3]: Commencement: Reg. 3 in force at 25.5.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/167/regulation/1/1)
+[^c-a2ed87b90a3a7fcee715a04a4c0754c3]: Commencement: Reg. 3 in force at 25.5.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/167/regulation/1/1)
 
 [^f00006]: Footnote: S.I. [1995/3123](https://www.legislation.gov.uk/uksi/1995/3123), relevantly amended by S.I. [1999/982](https://www.legislation.gov.uk/uksi/1999/982), [S.S.I. 2001/212](https://www.legislation.gov.uk/ssi/2001/212), [S.S.I. 2002/61](https://www.legislation.gov.uk/ssi/2002/61), [S.S.I. 2003/274](https://www.legislation.gov.uk/ssi/2003/274), [S.S.I. 2004/548](https://www.legislation.gov.uk/ssi/2004/548) and [S.S.I. 2007/412](https://www.legislation.gov.uk/ssi/2007/412).
 
-[^key-6040efcddddb0aa642d9ee945e23bb8a]: Commencement: Reg. 4 in force at 25.5.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/167/regulation/1/1)
+[^c-6040efcddddb0aa642d9ee945e23bb8a]: Commencement: Reg. 4 in force at 25.5.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/167/regulation/1/1)
 
 [^f00007]: Footnote: S.I. [1995/3187](https://www.legislation.gov.uk/uksi/1995/3187), relevantly amended by S.I. [1997/1413](https://www.legislation.gov.uk/uksi/1997/1413), S.I. [1999/1136](https://www.legislation.gov.uk/uksi/1999/1136), [S.S.I. 2001/103](https://www.legislation.gov.uk/ssi/2001/103) and [450](https://www.legislation.gov.uk/ssi/2001/450), [S.S.I. 2003/132](https://www.legislation.gov.uk/ssi/2003/132), [S.S.I. 2004/413](https://www.legislation.gov.uk/ssi/2004/413) and [S.S.I. 2007/412](https://www.legislation.gov.uk/ssi/2007/412).
 

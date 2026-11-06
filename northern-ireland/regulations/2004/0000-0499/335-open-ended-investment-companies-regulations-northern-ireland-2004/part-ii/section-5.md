@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Safekeeping of scheme property by depositary[^key-b853e652c965305599ed6ece2c9806d9]
+## 5. Safekeeping of scheme property by depositary[^c-b853e652c965305599ed6ece2c9806d9]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Nothing in paragraph (1) –
 
-- (a) applies to any scheme property designated for the purposes of this regulation by FCA rules[^key-17a9141fb993bcb8fc32d9b21cf6070f];
+- (a) applies to any scheme property designated for the purposes of this regulation by FCA rules[^c-17a9141fb993bcb8fc32d9b21cf6070f];
 - (b) prevents a depositary from –
   - (i) entrusting to a third party all or some of the assets in its safekeeping; or
   - (ii) in a case falling within sub-paragraph (i), authorising the third party to entrust all or some of those assets to other specified persons.
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b853e652c965305599ed6ece2c9806d9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/335/regulation/5) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-b853e652c965305599ed6ece2c9806d9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/335/regulation/5) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)
+[^c-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)

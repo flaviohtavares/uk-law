@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Exchange of information by authorities[^key-9a73eb5afab3f2f733bb0ee6a800ce98]
+## 64. Exchange of information by authorities[^c-9a73eb5afab3f2f733bb0ee6a800ce98]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ that authority must give that employer that information.
 
 ## Annotations
 
-[^key-9a73eb5afab3f2f733bb0ee6a800ce98]: Commencement: Reg. 64 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-9a73eb5afab3f2f733bb0ee6a800ce98]: Commencement: Reg. 64 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

@@ -47,9 +47,9 @@ Now, therefore, the Secretary of State for Social Security, in exercise of the p
 
 (1) These Regulations may be cited as the Social Security (Industrial Injuries) (Regular Employment) Regulations 1990 and shall come into force on 1st April 1990.
 
-(2)[^key-b5848dc94b979ab68693814b5cf336ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b5848dc94b979ab68693814b5cf336ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Meaning of “regular employment”[^key-3feac61c05dda69fd67d190c4ea259cf]
+## 2. Meaning of “regular employment”[^c-3feac61c05dda69fd67d190c4ea259cf]
 
 For the purposes of paragraph 13 of Schedule 7 to the Social Security Contributions and Benefits Act 1992, “regular employment” means gainful employment—
 
@@ -87,6 +87,6 @@ The Regulations make provision with respect to the meaning of “**regular emplo
 
 [^c2181127]: Marginal citation: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14); section 59B was inserted by the [Social Security Act 1988 (c. 7)](https://www.legislation.gov.uk/ukpga/1988/7), [section 2(1)](https://www.legislation.gov.uk/ukpga/1988/7/section/2/1), and subsections (7) and (8) were added by the [Social Security Act 1989 (c. 24)](https://www.legislation.gov.uk/ukpga/1989/24), [section 7](https://www.legislation.gov.uk/ukpga/1989/24/section/7), [Schedule 1](https://www.legislation.gov.uk/ukpga/1989/24/schedule/1), [paragraph 8(6)](https://www.legislation.gov.uk/ukpga/1989/24/paragraph/8/6); Schedule 20 is cited because of the meaning ascribed to the words “Prescribe” and “Regulations”.
 
-[^key-b5848dc94b979ab68693814b5cf336ba]: Textual amendment: Reg. 1(2) revoked (24.3.1996) by [S.I. 1996/425](https://www.legislation.gov.uk/uksi/1996/426), [regs. 1](https://www.legislation.gov.uk/uksi/1996/426/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/1996/426/regulation/6/2)
+[^c-b5848dc94b979ab68693814b5cf336ba]: Textual amendment: Reg. 1(2) revoked (24.3.1996) by [S.I. 1996/425](https://www.legislation.gov.uk/uksi/1996/426), [regs. 1](https://www.legislation.gov.uk/uksi/1996/426/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/1996/426/regulation/6/2)
 
-[^key-3feac61c05dda69fd67d190c4ea259cf]: Textual amendment: [Regs. 2](https://www.legislation.gov.uk/uksi/1990/256/regulation/2) [3](https://www.legislation.gov.uk/uksi/1990/256/regulation/3) substituted for [reg. 2](https://www.legislation.gov.uk/uksi/1990/256/regulation/2) (24.3.1996) by [The Social Security (Industrial Injuries and Diseases) (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/425)](https://www.legislation.gov.uk/uksi/1996/425), [regs. 1](https://www.legislation.gov.uk/uksi/1996/425/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/1996/425/regulation/6/3)
+[^c-3feac61c05dda69fd67d190c4ea259cf]: Textual amendment: [Regs. 2](https://www.legislation.gov.uk/uksi/1990/256/regulation/2) [3](https://www.legislation.gov.uk/uksi/1990/256/regulation/3) substituted for [reg. 2](https://www.legislation.gov.uk/uksi/1990/256/regulation/2) (24.3.1996) by [The Social Security (Industrial Injuries and Diseases) (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/425)](https://www.legislation.gov.uk/uksi/1996/425), [regs. 1](https://www.legislation.gov.uk/uksi/1996/425/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/1996/425/regulation/6/3)

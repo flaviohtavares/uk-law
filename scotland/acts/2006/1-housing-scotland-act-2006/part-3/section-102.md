@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Acting as agent[^key-e31a2bb3a6c35cf1b7c3eb0115058a1d]
+## 102. Acting as agent[^c-e31a2bb3a6c35cf1b7c3eb0115058a1d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e31a2bb3a6c35cf1b7c3eb0115058a1d]: Commencement: S. 102 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))
+[^c-e31a2bb3a6c35cf1b7c3eb0115058a1d]: Commencement: S. 102 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))

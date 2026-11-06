@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Support for category 5 young people and former category 5 young people[^M_C_d0171498-e1de-4f88-9391-b361aff7154a][^key-5ebd7f63fdfdfdd972dd016aae94ba8d]
+## 114. Support for category 5 young people and former category 5 young people[^M_C_d0171498-e1de-4f88-9391-b361aff7154a][^c-5ebd7f63fdfdfdd972dd016aae94ba8d]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^M_C_d0171498-e1de-4f88-9391-b361aff7154a]: Modification: Ss. 105-116 excluded by 2002 c. 41, Sch. 3 para. 1(1)(o) (as inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [199(4)](https://www.legislation.gov.uk/wsi/2016/413/regulation/199/4))
 
-[^key-5ebd7f63fdfdfdd972dd016aae94ba8d]: Commencement: S. 114 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-5ebd7f63fdfdfdd972dd016aae94ba8d]: Commencement: S. 114 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

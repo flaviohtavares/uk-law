@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — STREETS SUBJECT TO STREET WORKS[^key-44a81e405d522a0bdd9b7fd227eb9417]
+## SCHEDULE 3 — STREETS SUBJECT TO STREET WORKS[^c-44a81e405d522a0bdd9b7fd227eb9417]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ Article 12
 
 ## Annotations
 
-[^key-44a81e405d522a0bdd9b7fd227eb9417]: Commencement: Sch. 3 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-44a81e405d522a0bdd9b7fd227eb9417]: Commencement: Sch. 3 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)

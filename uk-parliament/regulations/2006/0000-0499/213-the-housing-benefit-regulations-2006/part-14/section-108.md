@@ -22,16 +22,16 @@ summary: ''
 
 In this Section—
 
-- “[^key-9e5fcc24369e17c046d150b3805268ff]**county council**” means a county council in England, but only if the council has made an arrangement in accordance with regulation 83(4)(g) or 109(3);
+- “[^c-9e5fcc24369e17c046d150b3805268ff]**county council**” means a county council in England, but only if the council has made an arrangement in accordance with regulation 83(4)(g) or 109(3);
 - “**local authority**” means an authority administering housing benefit;
 - “**relevant authority**” means—
   - (a) the Secretary of State; or
-  - (b) a person providing services to the Secretary of State; or[^key-097ce65badb9ef974b3f7a114f31be33]
+  - (b) a person providing services to the Secretary of State; or[^c-097ce65badb9ef974b3f7a114f31be33]
   - (c) a county council;
 - “**relevant information**” means information or evidence relating to the administration of claims to or awards of housing benefit.
 
 ## Annotations
 
-[^key-9e5fcc24369e17c046d150b3805268ff]: Textual amendment: Words in reg. 108 inserted (31.10.2007) by [The Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/7/3/a)
+[^c-9e5fcc24369e17c046d150b3805268ff]: Textual amendment: Words in reg. 108 inserted (31.10.2007) by [The Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/7/3/a)
 
-[^key-097ce65badb9ef974b3f7a114f31be33]: Textual amendment: Words in reg. 108 added (31.10.2007) by [The Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/7/3/b)
+[^c-097ce65badb9ef974b3f7a114f31be33]: Textual amendment: Words in reg. 108 added (31.10.2007) by [The Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/7/3/b)

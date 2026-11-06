@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Time of making of, determination of amount of, and notification of, district rate[^key-e8c3d3b23b2aaadfb7fb3035090d1b7b]
+## 8. Time of making of, determination of amount of, and notification of, district rate[^c-e8c3d3b23b2aaadfb7fb3035090d1b7b]
 
 *Extent: N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8c3d3b23b2aaadfb7fb3035090d1b7b]: Modification: Art. 8 modified (with effect in accordance with art. 4(1) of the amending Rule) by [The Local Government (Boundaries) (2008 Act) (Commencement, Transitional Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/238)](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(3)](https://www.legislation.gov.uk/nisr/2013/238/article/4/3)
+[^c-e8c3d3b23b2aaadfb7fb3035090d1b7b]: Modification: Art. 8 modified (with effect in accordance with art. 4(1) of the amending Rule) by [The Local Government (Boundaries) (2008 Act) (Commencement, Transitional Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/238)](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(3)](https://www.legislation.gov.uk/nisr/2013/238/article/4/3)
 
 [^c16882981]: Textual amendment: [1998 NI 22](https://www.legislation.gov.uk/nisi/1998)

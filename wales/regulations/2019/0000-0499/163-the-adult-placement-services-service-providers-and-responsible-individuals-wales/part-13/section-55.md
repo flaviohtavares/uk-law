@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Engagement with individuals and others[^key-c1d0f748419133c8e9b9a06ad8e323ea]
+## 55. Engagement with individuals and others[^c-c1d0f748419133c8e9b9a06ad8e323ea]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ on the quality of care and support provided and how this can be improved.
 
 ## Annotations
 
-[^key-c1d0f748419133c8e9b9a06ad8e323ea]: Commencement: [Reg. 55](https://www.legislation.gov.uk/wsi/2019/163/regulation/55) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-c1d0f748419133c8e9b9a06ad8e323ea]: Commencement: [Reg. 55](https://www.legislation.gov.uk/wsi/2019/163/regulation/55) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

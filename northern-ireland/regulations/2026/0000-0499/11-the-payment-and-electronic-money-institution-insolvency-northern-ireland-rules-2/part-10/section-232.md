@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 232. Warrants (general provisions)[^key-f21414e7bf000cf708dcd4ef98c2fd88]
+## 232. Warrants (general provisions)[^c-f21414e7bf000cf708dcd4ef98c2fd88]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f21414e7bf000cf708dcd4ef98c2fd88]: Commencement: [Rule 232](https://www.legislation.gov.uk/nisr/2026/11/rule/232) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-f21414e7bf000cf708dcd4ef98c2fd88]: Commencement: [Rule 232](https://www.legislation.gov.uk/nisr/2026/11/rule/232) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193A. Net pay arrangements: disparity with relief at source[^M_F_64f1c7fa-bf51-4ff3-e0c5-1147bdfd5d1f][^key-5257add3a2f763bd5b706cb9eb8cc4f9]
+## 193A. Net pay arrangements: disparity with relief at source[^M_F_64f1c7fa-bf51-4ff3-e0c5-1147bdfd5d1f][^c-5257add3a2f763bd5b706cb9eb8cc4f9]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-1e7bf991451ce0d67e4a668a654b21c3] Where—
+(1)[^c-1e7bf991451ce0d67e4a668a654b21c3] Where—
 
 - (a) relief is given to an individual in accordance with section 193 (net pay arrangements) in respect of the payment of a contribution under a pension scheme in a given tax year (“the relevant tax year”), and
 - (b) there is a difference between the section 193 amount and the hypothetical section 192 amount,
@@ -53,13 +53,13 @@ the Commissioners for His Majesty’s Revenue and Customs must make arrangements
 
 (5) The arrangements must include a procedure for the purposes of allowing an individual to whom an amount would otherwise have to be paid under subsection (2) to decline to receive that amount.
 
-(5A)[^key-4f424ae51a1fdc7b2c7f828712162764] If an amount is paid to a person under subsection (1) that ought not to have been paid to the person, the amount may be assessed and recovered as though it were an amount of income tax due from the person for the relevant tax year.
+(5A)[^c-4f424ae51a1fdc7b2c7f828712162764] If an amount is paid to a person under subsection (1) that ought not to have been paid to the person, the amount may be assessed and recovered as though it were an amount of income tax due from the person for the relevant tax year.
 
-(6)[^key-7a7534c1e7a9f6dd11189199185601c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-7a7534c1e7a9f6dd11189199185601c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-7a7534c1e7a9f6dd11189199185601c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-7a7534c1e7a9f6dd11189199185601c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-7a7534c1e7a9f6dd11189199185601c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-7a7534c1e7a9f6dd11189199185601c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) The Treasury may by regulations amend or otherwise modify this section.
 
@@ -69,10 +69,10 @@ the Commissioners for His Majesty’s Revenue and Customs must make arrangements
 
 [^M_F_64f1c7fa-bf51-4ff3-e0c5-1147bdfd5d1f]: Textual amendment: S. 193A inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 25](https://www.legislation.gov.uk/ukpga/2023/30/section/25)
 
-[^key-5257add3a2f763bd5b706cb9eb8cc4f9]: Textual amendment: Words in s. 193A heading substituted (14.7.2026) by [The Registered Pension Schemes (Net Pay Arrangements) Regulations 2026 (S.I. 2026/671)](https://www.legislation.gov.uk/uksi/2026/671), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/671/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/671/regulation/2/2)
+[^c-5257add3a2f763bd5b706cb9eb8cc4f9]: Textual amendment: Words in s. 193A heading substituted (14.7.2026) by [The Registered Pension Schemes (Net Pay Arrangements) Regulations 2026 (S.I. 2026/671)](https://www.legislation.gov.uk/uksi/2026/671), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/671/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/671/regulation/2/2)
 
-[^key-1e7bf991451ce0d67e4a668a654b21c3]: Textual amendment: S. 193A(1)-(3) substituted (14.7.2026) by [The Registered Pension Schemes (Net Pay Arrangements) Regulations 2026 (S.I. 2026/671)](https://www.legislation.gov.uk/uksi/2026/671), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/671/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/671/regulation/2/3)
+[^c-1e7bf991451ce0d67e4a668a654b21c3]: Textual amendment: S. 193A(1)-(3) substituted (14.7.2026) by [The Registered Pension Schemes (Net Pay Arrangements) Regulations 2026 (S.I. 2026/671)](https://www.legislation.gov.uk/uksi/2026/671), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/671/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/671/regulation/2/3)
 
-[^key-4f424ae51a1fdc7b2c7f828712162764]: Textual amendment: S. 193A(5A) inserted (14.7.2026) by [The Registered Pension Schemes (Net Pay Arrangements) Regulations 2026 (S.I. 2026/671)](https://www.legislation.gov.uk/uksi/2026/671), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/671/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2026/671/regulation/2/4)
+[^c-4f424ae51a1fdc7b2c7f828712162764]: Textual amendment: S. 193A(5A) inserted (14.7.2026) by [The Registered Pension Schemes (Net Pay Arrangements) Regulations 2026 (S.I. 2026/671)](https://www.legislation.gov.uk/uksi/2026/671), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/671/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2026/671/regulation/2/4)
 
-[^key-7a7534c1e7a9f6dd11189199185601c1]: Textual amendment: S. 193A(6)-(8) omitted (14.7.2026) by virtue of [The Registered Pension Schemes (Net Pay Arrangements) Regulations 2026 (S.I. 2026/671)](https://www.legislation.gov.uk/uksi/2026/671), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/671/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2026/671/regulation/2/5)
+[^c-7a7534c1e7a9f6dd11189199185601c1]: Textual amendment: S. 193A(6)-(8) omitted (14.7.2026) by virtue of [The Registered Pension Schemes (Net Pay Arrangements) Regulations 2026 (S.I. 2026/671)](https://www.legislation.gov.uk/uksi/2026/671), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/671/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2026/671/regulation/2/5)

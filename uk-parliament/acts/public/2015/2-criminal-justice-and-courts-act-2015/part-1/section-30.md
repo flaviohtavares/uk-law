@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Extension of disqualification from driving where custodial sentence also imposed[^key-0dfb51c0f044958fc2ea74599aec8a94]
+## 30. Extension of disqualification from driving where custodial sentence also imposed[^c-0dfb51c0f044958fc2ea74599aec8a94]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dfb51c0f044958fc2ea74599aec8a94]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2015/2/section/30) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/25)
+[^c-0dfb51c0f044958fc2ea74599aec8a94]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2015/2/section/30) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/25)

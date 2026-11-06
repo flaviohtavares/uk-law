@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Revocations[^key-8b058c5524579e246e06e0304d442d17]
+## 62. Revocations[^c-8b058c5524579e246e06e0304d442d17]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Statutory Rules listed in Schedule 9 are hereby revoked to the extent specif
 
 ## Annotations
 
-[^key-8b058c5524579e246e06e0304d442d17]: Commencement: Reg. 62 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-8b058c5524579e246e06e0304d442d17]: Commencement: Reg. 62 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

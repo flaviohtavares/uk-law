@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2B — Matters that the Bank is to consider when assessing resolvability[^key-b5badfad6786e91a8d79d54587edf93f]
+## SCHEDULE 2B — Matters that the Bank is to consider when assessing resolvability[^c-b5badfad6786e91a8d79d54587edf93f]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ Articles 60(2)(a) and 62(3)(a)
 
 ## Annotations
 
-[^key-b5badfad6786e91a8d79d54587edf93f]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/uksi/2014/3348/schedule/2B) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 119](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/119); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b5badfad6786e91a8d79d54587edf93f]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/uksi/2014/3348/schedule/2B) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 119](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/119); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

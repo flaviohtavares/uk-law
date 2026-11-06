@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 365AA. Armed Forces Commissioner[^key-8897afd84dc54827861088469c9348b6]
+## 365AA. Armed Forces Commissioner[^c-8897afd84dc54827861088469c9348b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8897afd84dc54827861088469c9348b6]: Textual amendment: S. 365AA and cross-heading inserted (2.3.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2025/23/section/1/1), [7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/14/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-8897afd84dc54827861088469c9348b6]: Textual amendment: S. 365AA and cross-heading inserted (2.3.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2025/23/section/1/1), [7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/14/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))

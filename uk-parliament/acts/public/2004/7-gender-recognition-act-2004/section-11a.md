@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Change in gender of party to marriage[^key-733956d4ded84d70ea96d35350143621]
+## 11A. Change in gender of party to marriage[^c-733956d4ded84d70ea96d35350143621]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-733956d4ded84d70ea96d35350143621]: Textual amendment: S. 11A inserted (10.12.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/10); [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-733956d4ded84d70ea96d35350143621]: Textual amendment: S. 11A inserted (10.12.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/10); [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)

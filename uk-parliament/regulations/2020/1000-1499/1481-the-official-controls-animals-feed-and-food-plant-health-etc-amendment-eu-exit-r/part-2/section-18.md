@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Amendments to Title 3[^key-ae5937b9d74207199ab1ad7e00fc5cde]
+## 18. Amendments to Title 3[^c-ae5937b9d74207199ab1ad7e00fc5cde]
 
 *Extent: E+W+S+N.I.*
 
@@ -147,4 +147,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae5937b9d74207199ab1ad7e00fc5cde]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-ae5937b9d74207199ab1ad7e00fc5cde]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)

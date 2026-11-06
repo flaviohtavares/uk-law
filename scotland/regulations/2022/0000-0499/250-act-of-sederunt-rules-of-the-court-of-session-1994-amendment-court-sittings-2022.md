@@ -43,7 +43,7 @@ Coming into force in accordance with paragraph 1(2) and (3)
 
 The Court of Session makes this Act of Sederunt under the powers conferred by section 103(1) of the Courts Reform (Scotland) Act 2014[^f00001] and all other powers enabling it to do so.
 
-## 1. Citation and commencement, etc.[^key-abf58e118831190eae0ebc47570a70d2]
+## 1. Citation and commencement, etc.[^c-abf58e118831190eae0ebc47570a70d2]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Court Sittings) 2022.
 
@@ -53,14 +53,14 @@ The Court of Session makes this Act of Sederunt under the powers conferred by se
 
 (4) A certified copy is to be inserted in the Books of Sederunt.
 
-## 2. Amendment of the Rules of the Court of Session 1994[^key-13991c77ce30ca4d42abdaa5f7bb99fd][^key-08a97b60c85134be4d0faad2c3697ecc]
+## 2. Amendment of the Rules of the Court of Session 1994[^c-13991c77ce30ca4d42abdaa5f7bb99fd][^c-08a97b60c85134be4d0faad2c3697ecc]
 
 (1) Chapter 10 (court sittings) of the Rules of the Court of Session 1994[^f00002] is amended in accordance with this paragraph.
 
 (2) In rule 10.3 (holiday dates, periods and vacation sitting days)[^f00003]—
 
 - (a) in the definition of “public holiday”, for the Table substitute the Table in schedule 1;
-- (b)[^key-08a97b60c85134be4d0faad2c3697ecc] in the definition of “vacation”, for the Table substitute the Table in schedule 2;
+- (b)[^c-08a97b60c85134be4d0faad2c3697ecc] in the definition of “vacation”, for the Table substitute the Table in schedule 2;
 - (c) in the definition of “vacation sitting day”, for the Table substitute the Table in schedule 3.
 
 CJM SUTHERLAND
@@ -71,7 +71,7 @@ I.P.D.
 
 Edinburgh
 
-## SCHEDULE 1[^key-dd8d40443a1ba458641651941293c065]
+## SCHEDULE 1[^c-dd8d40443a1ba458641651941293c065]
 
 Paragraph 2(2)(a)
 
@@ -92,7 +92,7 @@ Table
 | Wednesday 25th December 2024 | Thursday 25th December 2025 | Friday 25th December 2026 |
 | Thursday 26th December 2024 | Friday 26th December 2025 | Monday 28th December 2026; |
 
-## SCHEDULE 2[^key-766690f43b8177e8a7a38eac39345ed9]
+## SCHEDULE 2[^c-766690f43b8177e8a7a38eac39345ed9]
 
 Paragraph 2(2)(b)
 
@@ -107,7 +107,7 @@ Table
 | Saturday 28th March 2026 | Friday 10th April 2026 |
 | Saturday 19th December 2026 | Tuesday 5th January 2027; |
 
-## SCHEDULE 3[^key-11c4ee8a07e37bd6dfca8b06165bc4ed]
+## SCHEDULE 3[^c-11c4ee8a07e37bd6dfca8b06165bc4ed]
 
 Paragraph 2(2)(c)
 
@@ -118,8 +118,8 @@ Table
 | Wednesday 3rd January 2024 | Wednesday 16th April 2025 | Wednesday 1st April 2026 |
 | Wednesday 27th March 2024 | Wednesday 23rd April 2025 | Wednesday 8th April 2026 |
 | Wednesday 3rd April 2024 | Tuesday 23rd December 2025 | Wednesday 23rd December 2026 |
-| Monday 23rd December 2024[^key-ca66ca592f0b431ef4415577b29227ea] | Tuesday 30th December 2025 | Wednesday 30th December 2026 |
-| Monday 30th December 2024[^key-36646b9c514c30abb3303eb053fb760e] |  |  |
+| Monday 23rd December 2024[^c-ca66ca592f0b431ef4415577b29227ea] | Tuesday 30th December 2025 | Wednesday 30th December 2026 |
+| Monday 30th December 2024[^c-36646b9c514c30abb3303eb053fb760e] |  |  |
 
 EXPLANATORY NOTE
 
@@ -131,22 +131,22 @@ This Act of Sederunt amends the Rules of the Court of Session 1994 to set out th
 
 [^f00001]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-abf58e118831190eae0ebc47570a70d2]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2022/250/paragraph/1) in force at 1.1.2024, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/1/2)
+[^c-abf58e118831190eae0ebc47570a70d2]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2022/250/paragraph/1) in force at 1.1.2024, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/1/2)
 
-[^key-13991c77ce30ca4d42abdaa5f7bb99fd]: Commencement: [Para. 2(1)(2)(a)(c)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/2/1/2/a/c) in force at 1.1.2024, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/1/2)
+[^c-13991c77ce30ca4d42abdaa5f7bb99fd]: Commencement: [Para. 2(1)(2)(a)(c)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/2/1/2/a/c) in force at 1.1.2024, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/1/2)
 
-[^key-08a97b60c85134be4d0faad2c3697ecc]: Commencement: [Para. 2(2)(b)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/2/2/b) in force at 6.1.2024, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/1/3)
+[^c-08a97b60c85134be4d0faad2c3697ecc]: Commencement: [Para. 2(2)(b)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/2/2/b) in force at 6.1.2024, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/1/3)
 
 [^f00002]: Footnote: The Rules of the Court of Session 1994 are in schedule 2 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 ([S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443)), last amended by [S.S.I. 2022/135](https://www.legislation.gov.uk/ssi/2022/135). Chapter 10 was substituted by [S.S.I. 2017/414](https://www.legislation.gov.uk/ssi/2017/414) and last amended by [S.S.I. 2021/153](https://www.legislation.gov.uk/ssi/2021/153).
 
 [^f00003]: Footnote: Rule 10.3 was last amended by [S.S.I. 2021/153](https://www.legislation.gov.uk/ssi/2021/153). The Tables were substituted by [S.S.I. 2019/227](https://www.legislation.gov.uk/ssi/2019/227).
 
-[^key-dd8d40443a1ba458641651941293c065]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2022/250/schedule/1) in force at 1.1.2024, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/1/2)
+[^c-dd8d40443a1ba458641651941293c065]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2022/250/schedule/1) in force at 1.1.2024, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/1/2)
 
-[^key-766690f43b8177e8a7a38eac39345ed9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2022/250/schedule/2) in force at 6.1.2024, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/1/3)
+[^c-766690f43b8177e8a7a38eac39345ed9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2022/250/schedule/2) in force at 6.1.2024, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/1/3)
 
-[^key-11c4ee8a07e37bd6dfca8b06165bc4ed]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2022/250/schedule/3) in force at 1.1.2024, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/1/2)
+[^c-11c4ee8a07e37bd6dfca8b06165bc4ed]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2022/250/schedule/3) in force at 1.1.2024, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/250/paragraph/1/2)
 
-[^key-ca66ca592f0b431ef4415577b29227ea]: Textual amendment: Words in [sch. 3](https://www.legislation.gov.uk/ssi/2022/250/schedule/3) Table substituted (31.3.2023) by [Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Court Sittings) 2023 (S.S.I. 2023/57)](https://www.legislation.gov.uk/ssi/2023/57), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/57/paragraph/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2023/57/paragraph/3/2/a)
+[^c-ca66ca592f0b431ef4415577b29227ea]: Textual amendment: Words in [sch. 3](https://www.legislation.gov.uk/ssi/2022/250/schedule/3) Table substituted (31.3.2023) by [Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Court Sittings) 2023 (S.S.I. 2023/57)](https://www.legislation.gov.uk/ssi/2023/57), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/57/paragraph/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2023/57/paragraph/3/2/a)
 
-[^key-36646b9c514c30abb3303eb053fb760e]: Textual amendment: Words in [sch. 3](https://www.legislation.gov.uk/ssi/2022/250/schedule/3) Table substituted (31.3.2023) by [Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Court Sittings) 2023 (S.S.I. 2023/57)](https://www.legislation.gov.uk/ssi/2023/57), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/57/paragraph/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2023/57/paragraph/3/2/b)
+[^c-36646b9c514c30abb3303eb053fb760e]: Textual amendment: Words in [sch. 3](https://www.legislation.gov.uk/ssi/2022/250/schedule/3) Table substituted (31.3.2023) by [Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Court Sittings) 2023 (S.S.I. 2023/57)](https://www.legislation.gov.uk/ssi/2023/57), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/57/paragraph/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2023/57/paragraph/3/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Exercise of highway functions by concessionaire.[^key-c0a0ecc2ddac32842e8989febb117604]
+## 2. Exercise of highway functions by concessionaire.[^c-c0a0ecc2ddac32842e8989febb117604]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ Those costs shall be taken to include the relevant administrative expenses of th
 
 ## Annotations
 
-[^key-c0a0ecc2ddac32842e8989febb117604]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1991/22/section/2) applied (1.2.2011) by [The River Mersey (Mersey Gateway Bridge) Order 2011 (S.I. 2011/41)](https://www.legislation.gov.uk/uksi/2011/41), [arts. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1), [45](https://www.legislation.gov.uk/uksi/2011/41/article/45) (with [art. 51](https://www.legislation.gov.uk/uksi/2011/41/article/51), [Sch. 10 paras. 68](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/68), [85](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/85))
+[^c-c0a0ecc2ddac32842e8989febb117604]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1991/22/section/2) applied (1.2.2011) by [The River Mersey (Mersey Gateway Bridge) Order 2011 (S.I. 2011/41)](https://www.legislation.gov.uk/uksi/2011/41), [arts. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1), [45](https://www.legislation.gov.uk/uksi/2011/41/article/45) (with [art. 51](https://www.legislation.gov.uk/uksi/2011/41/article/51), [Sch. 10 paras. 68](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/68), [85](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/85))
 
 [^c14148241]: Marginal citation: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).

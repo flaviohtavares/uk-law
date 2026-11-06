@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Amendment of regulation 4[^key-8b571710abffaa2bc722f0ab207c7ff3]
+## 111. Amendment of regulation 4[^c-8b571710abffaa2bc722f0ab207c7ff3]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In regulation 4 (payment and amount of additional contributions)—
 
 ## Annotations
 
-[^key-8b571710abffaa2bc722f0ab207c7ff3]: Commencement: [Reg. 111](https://www.legislation.gov.uk/ssi/2011/364/regulation/111) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-8b571710abffaa2bc722f0ab207c7ff3]: Commencement: [Reg. 111](https://www.legislation.gov.uk/ssi/2011/364/regulation/111) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

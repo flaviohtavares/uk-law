@@ -34,7 +34,7 @@ Environmental Protection
 
 Marine Management
 
-The South Arran Marine Conservation (Amendment) Order 2014 (revoked)[^key-0c1e840d849f9ffb266d51d54d977f07]
+The South Arran Marine Conservation (Amendment) Order 2014 (revoked)[^c-0c1e840d849f9ffb266d51d54d977f07]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 6th December 2014
 
-[^key-0c1e840d849f9ffb266d51d54d977f07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c1e840d849f9ffb266d51d54d977f07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0c1e840d849f9ffb266d51d54d977f07]
+## 1. Citation and commencement[^c-0c1e840d849f9ffb266d51d54d977f07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the South Arran Marine Conservation Order 2014[^key-0c1e840d849f9ffb266d51d54d977f07]
+## 2. Amendment of the South Arran Marine Conservation Order 2014[^c-0c1e840d849f9ffb266d51d54d977f07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c1e840d849f9ffb266d51d54d977f07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c1e840d849f9ffb266d51d54d977f07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0c1e840d849f9ffb266d51d54d977f07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c1e840d849f9ffb266d51d54d977f07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c1e840d849f9ffb266d51d54d977f07]: Textual amendment: Order revoked (8.2.2016) by [The South Arran Marine Conservation Order 2015 (S.S.I. 2015/437)](https://www.legislation.gov.uk/ssi/2015/437), [arts. 1](https://www.legislation.gov.uk/ssi/2015/437/article/1), [7](https://www.legislation.gov.uk/ssi/2015/437/article/7), [sch. 4](https://www.legislation.gov.uk/ssi/2015/437/schedule/4)
+[^c-0c1e840d849f9ffb266d51d54d977f07]: Textual amendment: Order revoked (8.2.2016) by [The South Arran Marine Conservation Order 2015 (S.S.I. 2015/437)](https://www.legislation.gov.uk/ssi/2015/437), [arts. 1](https://www.legislation.gov.uk/ssi/2015/437/article/1), [7](https://www.legislation.gov.uk/ssi/2015/437/article/7), [sch. 4](https://www.legislation.gov.uk/ssi/2015/437/schedule/4)

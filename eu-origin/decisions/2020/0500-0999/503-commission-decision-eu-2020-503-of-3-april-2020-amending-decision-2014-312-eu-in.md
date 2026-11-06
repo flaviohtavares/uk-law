@@ -37,12 +37,12 @@ amending Decision 2014/312/EU in order to extend the derogation for zinc oxide t
 
 (Text with EEA relevance) (revoked)
 
-[^key-583c9abb804180e4369d1cbff8d47840]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-583c9abb804180e4369d1cbff8d47840]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Sole Article.**[^key-583c9abb804180e4369d1cbff8d47840] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Sole Article.**[^c-583c9abb804180e4369d1cbff8d47840] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-583c9abb804180e4369d1cbff8d47840]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-583c9abb804180e4369d1cbff8d47840]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-583c9abb804180e4369d1cbff8d47840]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/13)
+[^c-583c9abb804180e4369d1cbff8d47840]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/13)

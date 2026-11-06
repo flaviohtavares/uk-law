@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Custody officers’ functions[^key-b5319e2e7e7f0bcd1d240546f06956aa]
+## 40. Custody officers’ functions[^c-b5319e2e7e7f0bcd1d240546f06956aa]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5319e2e7e7f0bcd1d240546f06956aa]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2022/8/section/40) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-b5319e2e7e7f0bcd1d240546f06956aa]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2022/8/section/40) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

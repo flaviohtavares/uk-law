@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Prohibition of cross-examination in person in family proceedings[^key-e114d604eaf57b88ec54463dc3791e55]
+## 65. Prohibition of cross-examination in person in family proceedings[^c-e114d604eaf57b88ec54463dc3791e55]
 
 *Extent: E+W*
 
@@ -242,4 +242,4 @@ In the Matrimonial and Family Proceedings Act 1984, after Part 4A insert—
 
 ## Annotations
 
-[^key-e114d604eaf57b88ec54463dc3791e55]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2021/17/section/65) in force at 21.7.2022 by [S.I. 2022/840](https://www.legislation.gov.uk/uksi/2022/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/840/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2022/840/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/840/regulation/3))
+[^c-e114d604eaf57b88ec54463dc3791e55]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2021/17/section/65) in force at 21.7.2022 by [S.I. 2022/840](https://www.legislation.gov.uk/uksi/2022/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/840/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2022/840/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/840/regulation/3))

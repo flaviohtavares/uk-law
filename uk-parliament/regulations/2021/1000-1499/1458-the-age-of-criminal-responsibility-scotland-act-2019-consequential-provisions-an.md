@@ -52,13 +52,13 @@ In accordance with paragraphs 1, 2 and 3 of Schedule 7 to that Act a draft of th
 
 ### Introduction
 
-#### 1. Citation, commencement and extent[^key-ec12ff7d38e6051083b49d1515a0f982]
+#### 1. Citation, commencement and extent[^c-ec12ff7d38e6051083b49d1515a0f982]
 
 (1) This Order may be cited as the Age of Criminal Responsibility (Scotland) Act 2019 (Consequential Provisions and Modifications) Order 2021 and comes into force on 17th December 2021.
 
 (2) Each amendment made by this Order has the same extent as the provision being amended.
 
-#### 2. Interpretation[^key-7df565e9db3d46f29075a5ac46a6ab06]
+#### 2. Interpretation[^c-7df565e9db3d46f29075a5ac46a6ab06]
 
 In this Order “**the 2019 Act**” means the Age of Criminal Responsibility (Scotland) Act 2019[^f00002].
 
@@ -66,13 +66,13 @@ In this Order “**the 2019 Act**” means the Age of Criminal Responsibility (S
 
 ### Disclosure of convictions and other information relating to time when person under 12
 
-#### 3. Interpretation of Part 2[^key-376c017a62c23f23c44a0604cf786fc2]
+#### 3. Interpretation of Part 2[^c-376c017a62c23f23c44a0604cf786fc2]
 
 In this Part—
 
-- [^key-93c8896bb140a7b95f94e5a74dd27426]...
+- [^c-93c8896bb140a7b95f94e5a74dd27426]...
 - “**the 2007 Act**” means the Protection of Vulnerable Groups (Scotland) Act 2007[^f00004],
-- [^key-1b999b24a9814a331311b2e67cc7867b]...
+- [^c-1b999b24a9814a331311b2e67cc7867b]...
 - “**chief officer**” means—
   - (a) the chief constable of—
     - (i) a police force in England and Wales,
@@ -85,17 +85,17 @@ In this Part—
     - (ii) the Royal Military Police,
     - (iii) the Royal Air Force Police,
   - (c) the Director General of the National Crime Agency,
-  - (d) the Provost Marshal for serious crime.[^key-8b7b291499910a32fcfe23145b89442b]
-- [^key-1e7977cf7af0e772a4ffa9ef41bfb45a]...
+  - (d) the Provost Marshal for serious crime.[^c-8b7b291499910a32fcfe23145b89442b]
+- [^c-1e7977cf7af0e772a4ffa9ef41bfb45a]...
 - “**independent reviewer**” means the independent reviewer appointed under section 12 of the 2019 Act,
-- “**regulated role[^key-d40a75373f225ca9a79f9e92dbdf706e]**” has the meaning given by section 91 of the 2007 Act,
-- “**scheme member**” has the meaning given by section 45(1)[^key-43345302a1fee4396da72b1e2731e2de] of the 2007 Act,
+- “**regulated role[^c-d40a75373f225ca9a79f9e92dbdf706e]**” has the meaning given by section 91 of the 2007 Act,
+- “**scheme member**” has the meaning given by section 45(1)[^c-43345302a1fee4396da72b1e2731e2de] of the 2007 Act,
 - “**scheme record**” has the meaning given by section 48 of the 2007 Act,
 - “**the scheme**” has the meaning given by section 44 of the 2007 Act.
 
-#### 4. Limitation on disclosure of information relating to time when person under 12[^key-26df83ffde7b986ecd6e86206487ba2a]
+#### 4. Limitation on disclosure of information relating to time when person under 12[^c-26df83ffde7b986ecd6e86206487ba2a]
 
-(1)[^key-73dee74abc269cb3a8cd438051e33d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-73dee74abc269cb3a8cd438051e33d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In article 3 (provision of police information to the Scottish Ministers) of the Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010[^f00006] —
 
@@ -130,34 +130,34 @@ In this Part—
 
   .
 
-#### 5. Referral of information to independent reviewer[^key-441d1957a404ee85d577be60838437f0]
+#### 5. Referral of information to independent reviewer[^c-441d1957a404ee85d577be60838437f0]
 
 (1) This article applies where—
 
-- (a) a chief officer, having been requested to do so by the Scottish Ministers under section 14A of the Disclosure Act[^key-e47fcbae9a7eb9aa7dcd196f029405e5], has identified information which relates to a time when the applicant was under 12 years of age and which, in the chief officer’s opinion, ought to be included in a Level 2 disclosure[^key-63bb6caa402595c35feae27f26f847c3], [^key-1bb5c38a4ac4496b0a08d77c8620544b]...
-- (b)[^key-1bb5c38a4ac4496b0a08d77c8620544b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a chief officer, having been requested to do so by the Scottish Ministers under section 14A of the Disclosure Act[^c-e47fcbae9a7eb9aa7dcd196f029405e5], has identified information which relates to a time when the applicant was under 12 years of age and which, in the chief officer’s opinion, ought to be included in a Level 2 disclosure[^c-63bb6caa402595c35feae27f26f847c3], [^c-1bb5c38a4ac4496b0a08d77c8620544b]...
+- (b)[^c-1bb5c38a4ac4496b0a08d77c8620544b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The chief officer must, before providing that information to the Scottish Ministers, refer that information to the independent reviewer together with the following—
 
-- (a) in the case of information falling within paragraph (1)(a), information about the purpose of the disclosure[^key-60ab7627ee108652b72cf792780029de],
-- (b)[^key-9c311910e36827916d55186a518b5165] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) an explanation of why the chief officer considers the information ought to be included in the Level 2 disclosure[^key-8b04e32bff6053f27a54dc3a3dc55ff8] [^key-ce44806e787e5d45241d8f178d7823ec]..., and
+- (a) in the case of information falling within paragraph (1)(a), information about the purpose of the disclosure[^c-60ab7627ee108652b72cf792780029de],
+- (b)[^c-9c311910e36827916d55186a518b5165] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) an explanation of why the chief officer considers the information ought to be included in the Level 2 disclosure[^c-8b04e32bff6053f27a54dc3a3dc55ff8] [^c-ce44806e787e5d45241d8f178d7823ec]..., and
 - (d) any other information the chief officer considers relevant to the exercise of the independent reviewer’s functions.
 
-(3) If provision of the type mentioned in section 23(2)(a) of the 2019 Act is in force, the chief officer must refer the information that the chief officer has identified and considers ought to be included in a Level 2 disclosure[^key-3498c0ef6f05f8d6ebbe6e0b9dc91701] [^key-98b93b1cd76dc4832b8b46f4895b8e91]... to the independent reviewer within the time period specified by virtue of that section.
+(3) If provision of the type mentioned in section 23(2)(a) of the 2019 Act is in force, the chief officer must refer the information that the chief officer has identified and considers ought to be included in a Level 2 disclosure[^c-3498c0ef6f05f8d6ebbe6e0b9dc91701] [^c-98b93b1cd76dc4832b8b46f4895b8e91]... to the independent reviewer within the time period specified by virtue of that section.
 
-(4)[^key-ee56dd409fa74530f37a8b3c3eae6e03] In this article—
+(4)[^c-ee56dd409fa74530f37a8b3c3eae6e03] In this article—
 
 - “**the applicant**” means the person whose application for a disclosure led to the request by the Scottish Ministers mentioned in paragraph (1)(a);
 - “**the Disclosure Act**” means the Disclosure (Scotland) Act 2020;
 - “**Level 2 disclosure**” has the meaning given in section 8 of the Disclosure Act;
 - “**purpose of the disclosure**” has the meaning given in section 69 of the Disclosure Act.
 
-#### 6. Notification of referral[^key-bc7fae08b97ceff6c351029e57ceb738]
+#### 6. Notification of referral[^c-bc7fae08b97ceff6c351029e57ceb738]
 
 Where a chief officer refers information to the independent reviewer under article 5, the chief officer must, at the same time as doing so, notify the Scottish Ministers of that fact.
 
-#### 7. Provision of information to the independent reviewer[^key-46eb50f02c854eb9f55baad44639883b]
+#### 7. Provision of information to the independent reviewer[^c-46eb50f02c854eb9f55baad44639883b]
 
 (1) The independent reviewer may by notice require any person mentioned in paragraph (3) to provide the reviewer with information which the reviewer believes the person holds and which the reviewer considers is necessary to carry out a review under section 18 of the 2019 Act.
 
@@ -176,7 +176,7 @@ Where a chief officer refers information to the independent reviewer under artic
 
 (5) In paragraph (3), “**local authority**” means a local authority in England and Wales as defined (in relation to England and Wales) in section 1 of the Local Authorities (Goods and Services) Act 1970[^f00008].
 
-#### 8. Amendment of the Data Protection Act 2018[^key-4d269c157c421679efb3b36d54c86b8d]
+#### 8. Amendment of the Data Protection Act 2018[^c-4d269c157c421679efb3b36d54c86b8d]
 
 In paragraph 4 of Schedule 18 to the Data Protection Act 2018[^f00009] (relevant records relating to statutory functions)—
 
@@ -195,7 +195,7 @@ In paragraph 4 of Schedule 18 to the Data Protection Act 2018[^f00009] (relevant
 
 ### Cross-border enforcement by constables of territorial police forces
 
-#### 9. Interpretation of Part 3[^key-0b0e0e6c52e54bd9ba1a78a470fbba50]
+#### 9. Interpretation of Part 3[^c-0b0e0e6c52e54bd9ba1a78a470fbba50]
 
 (1) In this Part—
 
@@ -223,7 +223,7 @@ In paragraph 4 of Schedule 18 to the Data Protection Act 2018[^f00009] (relevant
   - (b) “**registered medical practitioner**” means a fully registered person within the meaning of the Medical Act 1983[^f00011] who holds a licence to practice under that Act,
   - (c) “**registered nurse**” means a person registered in the register maintained under article 5 of the Nursing and Midwifery Order 2001[^f00012] by virtue of qualifications in nursing.
 
-#### 10. Search[^key-bc3d56fa213c011dc674f810f39f5e5d]
+#### 10. Search[^c-bc3d56fa213c011dc674f810f39f5e5d]
 
 (1) Paragraph (2) applies where an order is made under section 36 of the 2019 Act in respect of a child and—
 
@@ -243,7 +243,7 @@ In paragraph 4 of Schedule 18 to the Data Protection Act 2018[^f00009] (relevant
 
 (4) A constable who enters any unoccupied premises by virtue of paragraph (2) must leave the premises as effectively secured against unauthorised entry as the constable found them.
 
-#### 11. Interviews[^key-fa4cc71a2dbd0822d909afe759d668a4]
+#### 11. Interviews[^c-fa4cc71a2dbd0822d909afe759d668a4]
 
 (1) Paragraph (2) applies where a child in respect of whom an application for a child interview order is being made is in England, Wales or Northern Ireland.
 
@@ -261,7 +261,7 @@ In paragraph 4 of Schedule 18 to the Data Protection Act 2018[^f00009] (relevant
 
 (4) A constable may, for the purposes of ensuring the child’s attendance at an investigative interview authorised by the order and planned by virtue of section 47 of the 2019 Act, take any action which a Scottish constable would be entitled to take for that purpose if the child was in Scotland.
 
-#### 12. Taking of prints and samples from child[^key-adfe7d12f48347905e74dd82d9aadea4]
+#### 12. Taking of prints and samples from child[^c-adfe7d12f48347905e74dd82d9aadea4]
 
 (1) Paragraph (2) applies where a child in respect of whom an application for an order under section 63 of the 2019 Act is being made is in England, Wales or Northern Ireland.
 
@@ -298,7 +298,7 @@ In paragraph 4 of Schedule 18 to the Data Protection Act 2018[^f00009] (relevant
   - (ii) in so far as practicable, a parent of the child, and
 - (b) at the same time, explain the order to the child in a way that is appropriate to the child’s age and maturity.
 
-#### 13. Taking of prints and samples from child: urgent cases[^key-9daba7ac42a58e7c16a96b782ed3f60c]
+#### 13. Taking of prints and samples from child: urgent cases[^c-9daba7ac42a58e7c16a96b782ed3f60c]
 
 (1) A constable may, subject to paragraph (2), take relevant physical data or a relevant sample from a child who is in England, Wales or Northern Ireland if authorised to do so by a relevant senior officer under section 69(2) of the 2019 Act.
 
@@ -335,7 +335,7 @@ In paragraph 4 of Schedule 18 to the Data Protection Act 2018[^f00009] (relevant
   - (b) to whom the data or sample was transferred under paragraph (4)(a), or, as the case may be,
   - (c) who specified the person to whom the data or sample was transferred under paragraph (4)(b).
 
-#### 14. Destruction of prints and samples[^key-43bf1d98a489a915529e735d7041264b]
+#### 14. Destruction of prints and samples[^c-43bf1d98a489a915529e735d7041264b]
 
 (1) This article applies where an order made under section 63 of the 2019 Act authorises the taking of any relevant physical data or a relevant sample from a child, including where—
 
@@ -357,11 +357,11 @@ In paragraph 4 of Schedule 18 to the Data Protection Act 2018[^f00009] (relevant
 
 (7) In this article, “**maximum retention period**” means the period of 6 months beginning with the day on which the data or sample was taken.
 
-#### 15. Wellbeing of child[^key-b758921f0c7d6788bafd64c5c4dacecd]
+#### 15. Wellbeing of child[^c-b758921f0c7d6788bafd64c5c4dacecd]
 
 A person acting under this Part must, in doing so, treat the need to safeguard and promote the wellbeing of the child as a primary consideration.
 
-#### 16. Offences[^key-84ab2f67fbef1f8360b475298448037c]
+#### 16. Offences[^c-84ab2f67fbef1f8360b475298448037c]
 
 (1) A person commits an offence if the person, without reasonable excuse, intentionally—
 
@@ -381,7 +381,7 @@ A person acting under this Part must, in doing so, treat the need to safeguard a
 
 ### Exercise of functions by constables and members of non-territorial police organisations
 
-#### 17. Application of 2019 Act to non-territorial forces[^key-4a76618e0539fcd40f6e834a4fca73d9]
+#### 17. Application of 2019 Act to non-territorial forces[^c-4a76618e0539fcd40f6e834a4fca73d9]
 
 After section 2D of the Ministry of Defence Police Act 1987[^f00014] insert—
 
@@ -408,7 +408,7 @@ After section 2D of the Ministry of Defence Police Act 1987[^f00014] insert—
 
 .
 
-**18.**[^key-380351e517cb600fb8569698edd77546] After section 31A of the Railways and Transport Safety Act 2003[^f00015] insert—
+**18.**[^c-380351e517cb600fb8569698edd77546] After section 31A of the Railways and Transport Safety Act 2003[^f00015] insert—
 
 > **31B. Exercise of functions in relation to children under the Scottish age of criminal responsibility**
 >
@@ -433,7 +433,7 @@ After section 2D of the Ministry of Defence Police Act 1987[^f00014] insert—
 
 .
 
-**19.**[^key-47dc7e3925eff2d2bed385eb8db3f03f] After section 56A of the Energy Act 2004[^f00016] insert—
+**19.**[^c-47dc7e3925eff2d2bed385eb8db3f03f] After section 56A of the Energy Act 2004[^f00016] insert—
 
 > **56B. Exercise of functions in relation to children under the Scottish age of criminal responsibility**
 >
@@ -514,67 +514,67 @@ An impact assessment has not been produced for this instrument as no additional 
 
 [^f00001]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46); section 113(9A) to (10) was substituted for section 113(10) by section 39(2) of the Scotland Act [2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11). There are other amendments to sections 104, 112 and 113 which are not relevant to this Order.
 
-[^key-ec12ff7d38e6051083b49d1515a0f982]: Commencement: Art. 1 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-ec12ff7d38e6051083b49d1515a0f982]: Commencement: Art. 1 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
-[^key-7df565e9db3d46f29075a5ac46a6ab06]: Commencement: Art. 2 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-7df565e9db3d46f29075a5ac46a6ab06]: Commencement: Art. 2 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
 [^f00002]: Footnote: [2019 asp 7](https://www.legislation.gov.uk/asp/2019/7).
 
-[^key-376c017a62c23f23c44a0604cf786fc2]: Commencement: Art. 3 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-376c017a62c23f23c44a0604cf786fc2]: Commencement: Art. 3 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
-[^key-93c8896bb140a7b95f94e5a74dd27426]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/2/a)
+[^c-93c8896bb140a7b95f94e5a74dd27426]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/2/a)
 
 [^f00004]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
 
-[^key-1b999b24a9814a331311b2e67cc7867b]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/2/b)
+[^c-1b999b24a9814a331311b2e67cc7867b]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/2/b)
 
-[^key-8b7b291499910a32fcfe23145b89442b]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/21/2)
+[^c-8b7b291499910a32fcfe23145b89442b]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/21/2)
 
-[^key-1e7977cf7af0e772a4ffa9ef41bfb45a]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/2/c)
+[^c-1e7977cf7af0e772a4ffa9ef41bfb45a]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/2/c)
 
-[^key-d40a75373f225ca9a79f9e92dbdf706e]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/2/a)
+[^c-d40a75373f225ca9a79f9e92dbdf706e]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/2/a)
 
-[^key-43345302a1fee4396da72b1e2731e2de]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/2/b)
+[^c-43345302a1fee4396da72b1e2731e2de]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/2/b)
 
-[^key-26df83ffde7b986ecd6e86206487ba2a]: Commencement: Art. 4 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-26df83ffde7b986ecd6e86206487ba2a]: Commencement: Art. 4 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
-[^key-73dee74abc269cb3a8cd438051e33d68]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/4/1) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/3)
+[^c-73dee74abc269cb3a8cd438051e33d68]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/4/1) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/3)
 
 [^f00006]: Footnote: [S.I. 2010/2660](https://www.legislation.gov.uk/uksi/2010/2660).
 
-[^key-441d1957a404ee85d577be60838437f0]: Commencement: Art. 5 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-441d1957a404ee85d577be60838437f0]: Commencement: Art. 5 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
-[^key-e47fcbae9a7eb9aa7dcd196f029405e5]: Textual amendment: Words in [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/1/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/a/i)
+[^c-e47fcbae9a7eb9aa7dcd196f029405e5]: Textual amendment: Words in [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/1/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/a/i)
 
-[^key-63bb6caa402595c35feae27f26f847c3]: Textual amendment: Words in [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/1/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/a/ii)
+[^c-63bb6caa402595c35feae27f26f847c3]: Textual amendment: Words in [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/1/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/a/ii)
 
-[^key-1bb5c38a4ac4496b0a08d77c8620544b]: Textual amendment: [Art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/1/b) and word omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/3/a)
+[^c-1bb5c38a4ac4496b0a08d77c8620544b]: Textual amendment: [Art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/1/b) and word omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/3/a)
 
-[^key-60ab7627ee108652b72cf792780029de]: Textual amendment: Words in [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/2/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/b/i)
+[^c-60ab7627ee108652b72cf792780029de]: Textual amendment: Words in [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/2/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/b/i)
 
-[^key-9c311910e36827916d55186a518b5165]: Textual amendment: [Art. 5(2)(b)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/2/b) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/3/b/i)
+[^c-9c311910e36827916d55186a518b5165]: Textual amendment: [Art. 5(2)(b)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/2/b) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/3/b/i)
 
-[^key-8b04e32bff6053f27a54dc3a3dc55ff8]: Textual amendment: Words in [art. 5(2)(c)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/2/c) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/b/ii)
+[^c-8b04e32bff6053f27a54dc3a3dc55ff8]: Textual amendment: Words in [art. 5(2)(c)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/2/c) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/b/ii)
 
-[^key-ce44806e787e5d45241d8f178d7823ec]: Textual amendment: Words in [art. 5(2)(c)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/2/c) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/3/b/ii)
+[^c-ce44806e787e5d45241d8f178d7823ec]: Textual amendment: Words in [art. 5(2)(c)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/2/c) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/3/b/ii)
 
-[^key-3498c0ef6f05f8d6ebbe6e0b9dc91701]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/3) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(c)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/c)
+[^c-3498c0ef6f05f8d6ebbe6e0b9dc91701]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/3) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(c)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/c)
 
-[^key-98b93b1cd76dc4832b8b46f4895b8e91]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/3) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(3)(c)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/3/c)
+[^c-98b93b1cd76dc4832b8b46f4895b8e91]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/3) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(3)(c)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/3/c)
 
-[^key-ee56dd409fa74530f37a8b3c3eae6e03]: Textual amendment: [Art. 5(4)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/4) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(d)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/d)
+[^c-ee56dd409fa74530f37a8b3c3eae6e03]: Textual amendment: [Art. 5(4)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/4) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(d)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/d)
 
-[^key-bc7fae08b97ceff6c351029e57ceb738]: Commencement: Art. 6 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-bc7fae08b97ceff6c351029e57ceb738]: Commencement: Art. 6 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
-[^key-46eb50f02c854eb9f55baad44639883b]: Commencement: Art. 7 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-46eb50f02c854eb9f55baad44639883b]: Commencement: Art. 7 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
 [^f00008]: Footnote: [1970 c. 39](https://www.legislation.gov.uk/ukpga/1970/39).
 
-[^key-4d269c157c421679efb3b36d54c86b8d]: Commencement: Art. 8 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-4d269c157c421679efb3b36d54c86b8d]: Commencement: Art. 8 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
 [^f00009]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
 
-[^key-0b0e0e6c52e54bd9ba1a78a470fbba50]: Commencement: Art. 9 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-0b0e0e6c52e54bd9ba1a78a470fbba50]: Commencement: Art. 9 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
 [^f00010]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24).
 
@@ -582,30 +582,30 @@ An impact assessment has not been produced for this instrument as no additional 
 
 [^f00012]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253); article 5 was amended by [S.I. 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182), Schedule 4, paragraph 38(a) and [S.I. 2018/838](https://www.legislation.gov.uk/uksi/2018/838), Schedule 1, paragraph 4.
 
-[^key-bc3d56fa213c011dc674f810f39f5e5d]: Commencement: Art. 10 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-bc3d56fa213c011dc674f810f39f5e5d]: Commencement: Art. 10 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
-[^key-fa4cc71a2dbd0822d909afe759d668a4]: Commencement: Art. 11 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-fa4cc71a2dbd0822d909afe759d668a4]: Commencement: Art. 11 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
-[^key-adfe7d12f48347905e74dd82d9aadea4]: Commencement: Art. 12 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-adfe7d12f48347905e74dd82d9aadea4]: Commencement: Art. 12 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
-[^key-9daba7ac42a58e7c16a96b782ed3f60c]: Commencement: Art. 13 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-9daba7ac42a58e7c16a96b782ed3f60c]: Commencement: Art. 13 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
-[^key-43bf1d98a489a915529e735d7041264b]: Commencement: Art. 14 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-43bf1d98a489a915529e735d7041264b]: Commencement: Art. 14 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
 [^f00013]: Footnote: [2011 asp 1](https://www.legislation.gov.uk/asp/2011/1); section 61 was amended by the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), schedule 7, paragraph 44.
 
-[^key-b758921f0c7d6788bafd64c5c4dacecd]: Commencement: Art. 15 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-b758921f0c7d6788bafd64c5c4dacecd]: Commencement: Art. 15 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
-[^key-84ab2f67fbef1f8360b475298448037c]: Commencement: Art. 16 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-84ab2f67fbef1f8360b475298448037c]: Commencement: Art. 16 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
-[^key-4a76618e0539fcd40f6e834a4fca73d9]: Commencement: Art. 17 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-4a76618e0539fcd40f6e834a4fca73d9]: Commencement: Art. 17 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
 [^f00014]: Footnote: [1987 c. 4](https://www.legislation.gov.uk/ukpga/1987/4); section 2D was added [S.I. 2018/46](https://www.legislation.gov.uk/uksi/2018/46), Schedule 2, paragraph 1.
 
-[^key-380351e517cb600fb8569698edd77546]: Commencement: Art. 18 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-380351e517cb600fb8569698edd77546]: Commencement: Art. 18 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
 [^f00015]: Footnote: [2003 c. 20](https://www.legislation.gov.uk/ukpga/2003/20); section 31A was added by [S.I. 2018/46](https://www.legislation.gov.uk/uksi/2018/46), Schedule 2, paragraph 2.
 
-[^key-47dc7e3925eff2d2bed385eb8db3f03f]: Commencement: Art. 19 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+[^c-47dc7e3925eff2d2bed385eb8db3f03f]: Commencement: Art. 19 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
 
 [^f00016]: Footnote: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20); section 56A was added by [S.I. 2018/46](https://www.legislation.gov.uk/uksi/2018/46), Schedule 2, paragraph 3.

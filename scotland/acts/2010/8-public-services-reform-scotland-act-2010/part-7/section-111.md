@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. The Mental Welfare Commission for Scotland[^key-bdf5774a95b7702a72d7906f614e460f][^key-7fc6500ab65bcf9ba92d4e52e9dfa911][^key-c30b7ffc5076309699bf83da7f654a79]
+## 111. The Mental Welfare Commission for Scotland[^c-bdf5774a95b7702a72d7906f614e460f][^c-7fc6500ab65bcf9ba92d4e52e9dfa911][^c-c30b7ffc5076309699bf83da7f654a79]
 
 *Extent: S*
 
@@ -172,8 +172,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bdf5774a95b7702a72d7906f614e460f]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2010/8/section/111) in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-bdf5774a95b7702a72d7906f614e460f]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2010/8/section/111) in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-7fc6500ab65bcf9ba92d4e52e9dfa911]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2010/8/section/111) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-7fc6500ab65bcf9ba92d4e52e9dfa911]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2010/8/section/111) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-c30b7ffc5076309699bf83da7f654a79]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2010/8/section/111) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-c30b7ffc5076309699bf83da7f654a79]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2010/8/section/111) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

@@ -16,55 +16,55 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Restrictions on employment of children. (affected by repeal, see note)[^key-3b2b87411af7bf5d127168467e6bd4fa][^key-3b2b87411af7bf5d127168467e6bd4fa]
+## 18. Restrictions on employment of children. (affected by repeal, see note)[^c-3b2b87411af7bf5d127168467e6bd4fa][^c-3b2b87411af7bf5d127168467e6bd4fa]
 
 *Extent: E+W*
 
-(1) Subject to the provisions of this section and of any byelaws made thereunder no child shall be employed— *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
+(1) Subject to the provisions of this section and of any byelaws made thereunder no child shall be employed— *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
 
-- (a)[^c6080581] so long as he is under the age of *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa] fourteen years[^c6080591] *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]; or *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-- (aa (affected by repeal, see note))[^c6080601][^key-3b2b87411af7bf5d127168467e6bd4fa] to do any work other than light work or; *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-- (b) before the close of school hours on any day on which he is required to attend school; or *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-- (c)[^c6080611] before seven o’clock in the morning or after seven o’clock in the evening or any day; or *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-- (d) for more than two hours on any day on which he is required to attend school; or *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-- (da (affected by repeal, see note))[^c6080621][^key-3b2b87411af7bf5d127168467e6bd4fa] for more than twelve hours in any week in which he is required to attend school; or *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-- (e) for more than two hours on any Sunday; or *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
+- (a)[^c6080581] so long as he is under the age of *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa] fourteen years[^c6080591] *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]; or *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+- (aa (affected by repeal, see note))[^c6080601][^c-3b2b87411af7bf5d127168467e6bd4fa] to do any work other than light work or; *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+- (b) before the close of school hours on any day on which he is required to attend school; or *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+- (c)[^c6080611] before seven o’clock in the morning or after seven o’clock in the evening or any day; or *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+- (d) for more than two hours on any day on which he is required to attend school; or *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+- (da (affected by repeal, see note))[^c6080621][^c-3b2b87411af7bf5d127168467e6bd4fa] for more than twelve hours in any week in which he is required to attend school; or *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+- (e) for more than two hours on any Sunday; or *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
 - (f)[^c6080631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^c6080641] for more than eight hours or, if he is under the age of fifteen years, for more than five hours in any day— *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-  - (i) on which he is not required to attend school, and *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-  - (ii (affected by repeal, see note))[^key-3b2b87411af7bf5d127168467e6bd4fa] which is not a Sunday; or *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-- (h) for more than thirty-five hours or, if he is under the age of fifteen years, for more than twenty-five hours in any week in which he is not required to attend school; or *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-- (i) for more than four hours in any day without a rest break of one hour; or *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-- (j) at any time in a year unless at that time he has had, or could still have, during a period in the year in which he is not required to attend school, at least two consecutive weeks without employment. *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
+- (g)[^c6080641] for more than eight hours or, if he is under the age of fifteen years, for more than five hours in any day— *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+  - (i) on which he is not required to attend school, and *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+  - (ii (affected by repeal, see note))[^c-3b2b87411af7bf5d127168467e6bd4fa] which is not a Sunday; or *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+- (h) for more than thirty-five hours or, if he is under the age of fifteen years, for more than twenty-five hours in any week in which he is not required to attend school; or *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+- (i) for more than four hours in any day without a rest break of one hour; or *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+- (j) at any time in a year unless at that time he has had, or could still have, during a period in the year in which he is not required to attend school, at least two consecutive weeks without employment. *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
 
-(2) A local authority may make byelaws with respect to the employment of children, and any such byelaws may distinguish between children of different ages and sexes and between different localities, trades, occupations and circumstances, and may contain provisions— *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
+(2) A local authority may make byelaws with respect to the employment of children, and any such byelaws may distinguish between children of different ages and sexes and between different localities, trades, occupations and circumstances, and may contain provisions— *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
 
-- (a) authorising— *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-  - (i)[^c6080651] the employment *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa] on an occasional basis[^c6080661] *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa] of children *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa] aged thirteen years[^c6080671] *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa](notwithstanding anything in paragragh (a) of the last foregoing subsection) by their parents or guardians in light agricultural or horticultural work. *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-- (ia (affected by repeal, see note))[^c6080681][^key-3b2b87411af7bf5d127168467e6bd4fa] the employment of children aged thirteen years (notwithstanding anything in paragraph (a) of the last foregoing subsection) in categories of light work specified in the byelaw. *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-  - (ii (affected by repeal, see note))[^key-3b2b87411af7bf5d127168467e6bd4fa] the employment of children (notwithstanding anything in paragraph (b) of the last foregoing subsection) for not more than one hour before the commencement of school hours on any day on which they are required to attend school; *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-- (b) prohibiting absolutely the employment of children in any specified occupation; *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-- (c) prescribing— *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-  - (i) the age below which children are not to be employed; *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-  - (ii (affected by repeal, see note))[^key-3b2b87411af7bf5d127168467e6bd4fa] the number of hours in each day, or in each week, for which, and the times of day at which, they may be employed; *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-  - (iii (affected by repeal, see note))[^key-3b2b87411af7bf5d127168467e6bd4fa] the intervals to be allowed to them for meals and rest; *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-  - (iv (affected by repeal, see note))[^key-3b2b87411af7bf5d127168467e6bd4fa] the holidays or half-holidays to be allowed to them; *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-  - (v) any other conditions to be observed in relation to their employment; *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
+- (a) authorising— *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+  - (i)[^c6080651] the employment *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa] on an occasional basis[^c6080661] *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa] of children *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa] aged thirteen years[^c6080671] *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa](notwithstanding anything in paragragh (a) of the last foregoing subsection) by their parents or guardians in light agricultural or horticultural work. *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+- (ia (affected by repeal, see note))[^c6080681][^c-3b2b87411af7bf5d127168467e6bd4fa] the employment of children aged thirteen years (notwithstanding anything in paragraph (a) of the last foregoing subsection) in categories of light work specified in the byelaw. *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+  - (ii (affected by repeal, see note))[^c-3b2b87411af7bf5d127168467e6bd4fa] the employment of children (notwithstanding anything in paragraph (b) of the last foregoing subsection) for not more than one hour before the commencement of school hours on any day on which they are required to attend school; *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+- (b) prohibiting absolutely the employment of children in any specified occupation; *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+- (c) prescribing— *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+  - (i) the age below which children are not to be employed; *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+  - (ii (affected by repeal, see note))[^c-3b2b87411af7bf5d127168467e6bd4fa] the number of hours in each day, or in each week, for which, and the times of day at which, they may be employed; *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+  - (iii (affected by repeal, see note))[^c-3b2b87411af7bf5d127168467e6bd4fa] the intervals to be allowed to them for meals and rest; *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+  - (iv (affected by repeal, see note))[^c-3b2b87411af7bf5d127168467e6bd4fa] the holidays or half-holidays to be allowed to them; *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+  - (v) any other conditions to be observed in relation to their employment; *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
 
-so, however, that no such byelaws shall modify the restrictions contained in the last foregoing subsection save in so far as is expressly permitted by paragraph (a) of this subsection, and any restriction contained in any such byelaws shall have effect in addition to the said restrictions. *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
+so, however, that no such byelaws shall modify the restrictions contained in the last foregoing subsection save in so far as is expressly permitted by paragraph (a) of this subsection, and any restriction contained in any such byelaws shall have effect in addition to the said restrictions. *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
 
-(2A)[^c6080691] In this section— *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
+(2A)[^c6080691] In this section— *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
 
-- “light work” means work which, on account of the inherent nature of the tasks which it involves and the particular conditions under which they are performed— *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-  - (a) is not likely to be harmful to the safety, health or development of children; and *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-  - (b) is not such as to be harmful to their attendance at school or to their participation in work experience in accordance with section 560 of the Education Act 1996 *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa] [^c6080701], or their capacity to benefit from the instruction received or, as the case may be, the experience gained; *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-- “week” means any period of seven consecutive days; and *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-- “year”, except in expressions of age, means a period of twelve months beginning with 1st January. *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
+- “light work” means work which, on account of the inherent nature of the tasks which it involves and the particular conditions under which they are performed— *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+  - (a) is not likely to be harmful to the safety, health or development of children; and *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+  - (b) is not such as to be harmful to their attendance at school or to their participation in work experience in accordance with section 560 of the Education Act 1996 *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa] [^c6080701], or their capacity to benefit from the instruction received or, as the case may be, the experience gained; *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+- “week” means any period of seven consecutive days; and *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+- “year”, except in expressions of age, means a period of twelve months beginning with 1st January. *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
 
-(3)[^c6080711] Nothing in this section, or in any byelaw made under this section, shall prevent a child from *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa] doing anything[^c6080721] *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]—
+(3)[^c6080711] Nothing in this section, or in any byelaw made under this section, shall prevent a child from *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa] doing anything[^c6080721] *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]—
 
-- (a) under the authority of a licence granted under this Part of this Act; or *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa]
-- (b) in a case where by virtue of section 37(3) of the *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa] [^c6080731]Children and Young Persons Act 1963 no licence under that section is required for him to *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa] do it *(affected by repeal, see note)*[^key-3b2b87411af7bf5d127168467e6bd4fa].
+- (a) under the authority of a licence granted under this Part of this Act; or *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa]
+- (b) in a case where by virtue of section 37(3) of the *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa] [^c6080731]Children and Young Persons Act 1963 no licence under that section is required for him to *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa] do it *(affected by repeal, see note)*[^c-3b2b87411af7bf5d127168467e6bd4fa].
 
 (1) A child may not be employed to work—
 
@@ -132,7 +132,7 @@ so, however, that no such byelaws shall modify the restrictions contained in the
 
 ## Annotations
 
-[^key-3b2b87411af7bf5d127168467e6bd4fa]: Textual amendment: Ss. 18, 18A substituted for s. 18 (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/28/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-3b2b87411af7bf5d127168467e6bd4fa]: Textual amendment: Ss. 18, 18A substituted for s. 18 (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/28/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
 [^c6080581]: Textual amendment: S. 18(1)(a) substituted by [Children Act 1972 (c. 44)](https://www.legislation.gov.uk/ukpga/1972/44), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1972/44/section/1/2)
 

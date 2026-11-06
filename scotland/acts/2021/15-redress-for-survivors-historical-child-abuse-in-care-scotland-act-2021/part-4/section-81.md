@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Redress Scotland's power in relation to information and evidence[^key-b3e48eb4c88074a99ed683c077fd79cb]
+## 81. Redress Scotland's power in relation to information and evidence[^c-b3e48eb4c88074a99ed683c077fd79cb]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3e48eb4c88074a99ed683c077fd79cb]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2021/15/section/81) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-b3e48eb4c88074a99ed683c077fd79cb]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2021/15/section/81) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Provision of mortuaries by local authorities[^key-856c8abd0ca5d4b5b92920793bd502d0]
+## 87. Provision of mortuaries by local authorities[^c-856c8abd0ca5d4b5b92920793bd502d0]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ as it considers appropriate.
 
 ## Annotations
 
-[^key-856c8abd0ca5d4b5b92920793bd502d0]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2008/5/section/87) in force at 1.4.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
+[^c-856c8abd0ca5d4b5b92920793bd502d0]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2008/5/section/87) in force at 1.4.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)

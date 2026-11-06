@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72A. Application of section 73[^key-797b1b1885fb84add3c5761f49781c00]
+## 72A. Application of section 73[^c-797b1b1885fb84add3c5761f49781c00]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ section 73 applies to the tenancy from the date on which the application notice 
 
 ## Annotations
 
-[^key-797b1b1885fb84add3c5761f49781c00]: Textual amendment: S. 72A inserted (3.4.2014) by [The Agricultural Holdings (Scotland) Act 2003 Remedial Order 2014 (S.S.I. 2014/98)](https://www.legislation.gov.uk/ssi/2014/98), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/98/article/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2014/98/article/2/3)
+[^c-797b1b1885fb84add3c5761f49781c00]: Textual amendment: S. 72A inserted (3.4.2014) by [The Agricultural Holdings (Scotland) Act 2003 Remedial Order 2014 (S.S.I. 2014/98)](https://www.legislation.gov.uk/ssi/2014/98), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/98/article/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2014/98/article/2/3)

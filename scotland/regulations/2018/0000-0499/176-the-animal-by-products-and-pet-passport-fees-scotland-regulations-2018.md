@@ -32,7 +32,7 @@ summary: ''
 
 Animals
 
-The Animal By-Products and Pet Passport Fees (Scotland) Regulations 2018 (revoked)[^key-bbc3768c1aacd4f29db6a0b1f6c0234c]
+The Animal By-Products and Pet Passport Fees (Scotland) Regulations 2018 (revoked)[^c-bbc3768c1aacd4f29db6a0b1f6c0234c]
 
 Made
 
@@ -46,42 +46,42 @@ Coming into force
 
 30th June 2018
 
-[^key-bbc3768c1aacd4f29db6a0b1f6c0234c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbc3768c1aacd4f29db6a0b1f6c0234c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-bbc3768c1aacd4f29db6a0b1f6c0234c]
+## 1. Citation, commencement and extent[^c-bbc3768c1aacd4f29db6a0b1f6c0234c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-bbc3768c1aacd4f29db6a0b1f6c0234c]
+## 2. Interpretation[^c-bbc3768c1aacd4f29db6a0b1f6c0234c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Refund of fees[^key-bbc3768c1aacd4f29db6a0b1f6c0234c]
+## 3. Refund of fees[^c-bbc3768c1aacd4f29db6a0b1f6c0234c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Animal by-products and derived products: fees[^key-bbc3768c1aacd4f29db6a0b1f6c0234c]
+## 4. Animal by-products and derived products: fees[^c-bbc3768c1aacd4f29db6a0b1f6c0234c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Pet Passports: fees[^key-bbc3768c1aacd4f29db6a0b1f6c0234c]
+## 5. Pet Passports: fees[^c-bbc3768c1aacd4f29db6a0b1f6c0234c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bbc3768c1aacd4f29db6a0b1f6c0234c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbc3768c1aacd4f29db6a0b1f6c0234c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — ANIMAL BY-PRODUCTS AND DERIVED PRODUCTS: FEES[^key-bbc3768c1aacd4f29db6a0b1f6c0234c]
+## SCHEDULE — ANIMAL BY-PRODUCTS AND DERIVED PRODUCTS: FEES[^c-bbc3768c1aacd4f29db6a0b1f6c0234c]
 
 Regulation 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bbc3768c1aacd4f29db6a0b1f6c0234c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbc3768c1aacd4f29db6a0b1f6c0234c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bbc3768c1aacd4f29db6a0b1f6c0234c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2018/176) revoked (1.7.2023) by [The Animal By-Products and Animal Health (Miscellaneous Fees) (Scotland) Regulations 2023 (S.S.I. 2023/198)](https://www.legislation.gov.uk/ssi/2023/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/198/regulation/1/1), [11(a)](https://www.legislation.gov.uk/ssi/2023/198/regulation/11/a)
+[^c-bbc3768c1aacd4f29db6a0b1f6c0234c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2018/176) revoked (1.7.2023) by [The Animal By-Products and Animal Health (Miscellaneous Fees) (Scotland) Regulations 2023 (S.S.I. 2023/198)](https://www.legislation.gov.uk/ssi/2023/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/198/regulation/1/1), [11(a)](https://www.legislation.gov.uk/ssi/2023/198/regulation/11/a)

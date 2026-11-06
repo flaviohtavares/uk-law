@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Office of election agent[^key-048e74dc6173606e22a06d682c648e5d]
+## 34. Office of election agent[^c-048e74dc6173606e22a06d682c648e5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-048e74dc6173606e22a06d682c648e5d]: Commencement: Art. 34 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-048e74dc6173606e22a06d682c648e5d]: Commencement: Art. 34 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Functions of applicant authorities[^key-d0703963c5ea34123e29e3fdf7faadb0][^key-932d5e2d494dd75a05732acd4b102483]
+## 37. Functions of applicant authorities[^c-d0703963c5ea34123e29e3fdf7faadb0][^c-932d5e2d494dd75a05732acd4b102483]
 
 *Extent: E+W+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 2 (functions of applicant authorities under this Part) has effect.
 
 ## Annotations
 
-[^key-d0703963c5ea34123e29e3fdf7faadb0]: Commencement: S. 37 in force at 1.3.2008 for specified purposes by [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/219/article/3/b)
+[^c-d0703963c5ea34123e29e3fdf7faadb0]: Commencement: S. 37 in force at 1.3.2008 for specified purposes by [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/219/article/3/b)
 
-[^key-932d5e2d494dd75a05732acd4b102483]: Commencement: S. 37 in force at 6.4.2008 in so far as not already in force by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(g)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/g)
+[^c-932d5e2d494dd75a05732acd4b102483]: Commencement: S. 37 in force at 6.4.2008 in so far as not already in force by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(g)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/g)

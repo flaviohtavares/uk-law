@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Part 2 (registration and provisions for special cases)[^key-fc53a2e20b7d7e4d5f8854e798ece0f6]
+## 33. Part 2 (registration and provisions for special cases)[^c-fc53a2e20b7d7e4d5f8854e798ece0f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ In regulation 5 [^c24395061] (registration and notification)—-
 
 ## Annotations
 
-[^key-fc53a2e20b7d7e4d5f8854e798ece0f6]: Commencement: Reg. 33 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-fc53a2e20b7d7e4d5f8854e798ece0f6]: Commencement: Reg. 33 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395061]: Marginal citation: Relevantly amended by [S.I. 2000/794](https://www.legislation.gov.uk/uksi/2000/794), 2004/1675, 2012/1899 and 2019/59. The amendments made by the last-named instrument are not yet in force and are omitted by this instrument.
 

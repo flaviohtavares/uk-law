@@ -73,21 +73,21 @@ This Decision shall apply to all fishery products originating from the Republic 
 
 ## Article 2. Prohibition
 
-Competent authorities[^key-5fceccdea941274db7acee936ac66015] shall prohibit the import on their territory of the products referred to in Article 1.
+Competent authorities[^c-5fceccdea941274db7acee936ac66015] shall prohibit the import on their territory of the products referred to in Article 1.
 
-[^key-aebe6ff7976ca7c48937cd8f98bc38b3]...
+[^c-aebe6ff7976ca7c48937cd8f98bc38b3]...
 
-In this Decision, “competent authority” has the meaning given in Article 3(3) of Regulation (EU) 2017/625.[^key-c72457ecfd118fbf359fc77196ec9dde]
+In this Decision, “competent authority” has the meaning given in Article 3(3) of Regulation (EU) 2017/625.[^c-c72457ecfd118fbf359fc77196ec9dde]
 
 ## Article 3. Charging of expenditure
 
 All expenditure incurred in the application of this Decision shall be charged to the consignee or his agent.
 
-## Article 4. Compliance[^key-553b741a59eacf01b9b752ff2add8afc]
+## Article 4. Compliance[^c-553b741a59eacf01b9b752ff2add8afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Addressees[^key-f6e3c65920e86a44af9d4f9cfa71f17d]
+## Article 5. Addressees[^c-f6e3c65920e86a44af9d4f9cfa71f17d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -105,12 +105,12 @@ Markos Kyprianou
 
 [^f00002]: Footnote: [OJ L 139, 30.4.2004, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.139.01.0055.01.ENG), corrected by [OJ L 226, 25.6.2004, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.226.01.0022.01.ENG). Regulation as last amended by Council Regulation (EC) No 1791/2006 ([OJ L 363, 20.12.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.363.01.0001.01.ENG)).
 
-[^key-5fceccdea941274db7acee936ac66015]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2007/82/article/2) substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/10/2/a)
+[^c-5fceccdea941274db7acee936ac66015]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2007/82/article/2) substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/10/2/a)
 
-[^key-aebe6ff7976ca7c48937cd8f98bc38b3]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2007/82/article/2) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/10/2/b)
+[^c-aebe6ff7976ca7c48937cd8f98bc38b3]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2007/82/article/2) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/10/2/b)
 
-[^key-c72457ecfd118fbf359fc77196ec9dde]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2007/82/article/2) inserted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/10/2/c)
+[^c-c72457ecfd118fbf359fc77196ec9dde]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2007/82/article/2) inserted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/10/2/c)
 
-[^key-553b741a59eacf01b9b752ff2add8afc]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eudn/2007/82/article/4) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/10/3)
+[^c-553b741a59eacf01b9b752ff2add8afc]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eudn/2007/82/article/4) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/10/3)
 
-[^key-f6e3c65920e86a44af9d4f9cfa71f17d]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2007/82/article/5) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/10/3)
+[^c-f6e3c65920e86a44af9d4f9cfa71f17d]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2007/82/article/5) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/10/3)

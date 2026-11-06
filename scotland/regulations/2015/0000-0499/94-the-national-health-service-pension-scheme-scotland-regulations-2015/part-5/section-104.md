@@ -45,7 +45,7 @@ summary: ''
 
 (7) In this regulation and regulation 105—
 
-- “**re-valued pensionable earnings**” means in relation to each scheme year in the earnings reference period, the pensionable earnings for that year increased up to the beginning date for the old service pension by the rate of change in prices specified by the Treasury by order (in respect of the NHS Pension Scheme (Scotland) 2015)[^key-7f5551a2f27e4088a3b700f859d925a3] under section 9 of the 2013 Act;
+- “**re-valued pensionable earnings**” means in relation to each scheme year in the earnings reference period, the pensionable earnings for that year increased up to the beginning date for the old service pension by the rate of change in prices specified by the Treasury by order (in respect of the NHS Pension Scheme (Scotland) 2015)[^c-7f5551a2f27e4088a3b700f859d925a3] under section 9 of the 2013 Act;
 - “the earnings reference period” is the period ending on the last day of the scheme year immediately preceding the scheme year in which the employed pensioner left the old employment and starting on the later of—
   - (a) the first day of the scheme year in which the employed pensioner first joined this scheme; and
   - (b) the first day of the tenth scheme year preceding the scheme year in which the employed pensioner left the old employment.
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f5551a2f27e4088a3b700f859d925a3]: Textual amendment: Words in [reg. 104(7)](https://www.legislation.gov.uk/ssi/2015/94/regulation/104/7) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [53](https://www.legislation.gov.uk/ssi/2024/272/regulation/53)
+[^c-7f5551a2f27e4088a3b700f859d925a3]: Textual amendment: Words in [reg. 104(7)](https://www.legislation.gov.uk/ssi/2015/94/regulation/104/7) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [53](https://www.legislation.gov.uk/ssi/2024/272/regulation/53)

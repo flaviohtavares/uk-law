@@ -30,7 +30,7 @@ summary: ''
 
 (5) A person may give notice to the comptroller of his opposition to an application under this section by the proprietor of a patent, and if he does so the comptroller shall notify the proprietor and consider the opposition in deciding whether to grant the application.
 
-(6)[^key-0068517643efb4ac173f5cff483e186c] In considering whether or not to allow an application under this section, the comptroller shall have regard to any relevant principles applicable under the European Patent Convention.
+(6)[^c-0068517643efb4ac173f5cff483e186c] In considering whether or not to allow an application under this section, the comptroller shall have regard to any relevant principles applicable under the European Patent Convention.
 
 ## Annotations
 
@@ -38,4 +38,4 @@ summary: ''
 
     S. 27(4) amended (31.10.1994) by [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26), [s. 106(1)](https://www.legislation.gov.uk/ukpga/1994/26/section/106/1), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/1994/26/schedule/4/paragraph/1/2); [S.I. 1994/2550](https://www.legislation.gov.uk/uksi/1994/2550) art. 2
 
-[^key-0068517643efb4ac173f5cff483e186c]: Textual amendment: S. 27(6) inserted (13.12.2007) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/2/1), [17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1); [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/b)
+[^c-0068517643efb4ac173f5cff483e186c]: Textual amendment: S. 27(6) inserted (13.12.2007) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/2/1), [17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1); [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Power of Welsh Ministers to modify enactments obstructing best value etc[^key-0b29414e55761f4725c6a0580496c569]
+## 142. Power of Welsh Ministers to modify enactments obstructing best value etc[^c-0b29414e55761f4725c6a0580496c569]
 
 *Extent: E+W*
 
@@ -100,4 +100,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b29414e55761f4725c6a0580496c569]: Commencement: S. 142 in force at 30.12.2007, see s. 245(2)
+[^c-0b29414e55761f4725c6a0580496c569]: Commencement: S. 142 in force at 30.12.2007, see s. 245(2)

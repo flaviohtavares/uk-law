@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Enforcement direction[^key-a19e3072277276d8b4ad75e59231b01b][^key-45fb69b7ac7031aa2e5ccfaff834394b]
+## 57. Enforcement direction[^c-a19e3072277276d8b4ad75e59231b01b][^c-45fb69b7ac7031aa2e5ccfaff834394b]
 
 *Extent: S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a19e3072277276d8b4ad75e59231b01b]: Commencement: S. 57 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-a19e3072277276d8b4ad75e59231b01b]: Commencement: S. 57 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-45fb69b7ac7031aa2e5ccfaff834394b]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2025/11/section/57) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-45fb69b7ac7031aa2e5ccfaff834394b]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2025/11/section/57) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

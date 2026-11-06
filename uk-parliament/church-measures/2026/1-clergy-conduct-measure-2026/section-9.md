@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 9. Clergy Conduct Commission: functions[^key-39bac2ee9f06a09865770937dd797ad9]
+## 9. Clergy Conduct Commission: functions[^c-39bac2ee9f06a09865770937dd797ad9]
 
 *Extent: E*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39bac2ee9f06a09865770937dd797ad9]: Commencement: S. 9 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-39bac2ee9f06a09865770937dd797ad9]: Commencement: S. 9 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

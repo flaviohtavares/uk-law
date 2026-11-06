@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Enforcement by the FCA[^key-726bff26c36f54a1578c09ca3a6700c1]
+## 33. Enforcement by the FCA[^c-726bff26c36f54a1578c09ca3a6700c1]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ with or without modification.
 
 ## Annotations
 
-[^key-726bff26c36f54a1578c09ca3a6700c1]: Commencement: S. 33 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-726bff26c36f54a1578c09ca3a6700c1]: Commencement: S. 33 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

@@ -27,11 +27,11 @@ summary: ''
 - (a) any monument included in the list last published before the commencement of this Act under section 12 of the [^c250782]Ancient Monuments Consolidation and Amendment Act 1913; and
 - (b) any monument in respect of which the Secretary of State has before the commencement of this Act served notice on any person in accordance with section 6(1) of the [^c250783]Ancient Monuments Act 1931 of his intention to include it in a list to be published under section 12.
 
-(3) Subject to subsections (3A) and[^key-758d2340e5006c3799ce1faa3db6c820] (4) below, the Secretary of State may on first compiling the Schedule or at any time thereafter include therein any monument which appears to him to be of national importance.
+(3) Subject to subsections (3A) and[^c-758d2340e5006c3799ce1faa3db6c820] (4) below, the Secretary of State may on first compiling the Schedule or at any time thereafter include therein any monument which appears to him to be of national importance.
 
 The Secretary of State shall consult the Historic Buildings and Monuments Commission for England (in this Act referred to as “[^c250784]**the Commission**”) before he includes in the Schedule a monument situated in England.
 
-(3A)[^key-534ac5a43c372712e1390e19079d8e48] The power of the Secretary of State under subsection (3) above to include any monument in the Schedule does not apply to a monument situated in Wales (and in this subsection “Wales has the meaning given by section 158(1) of the Government of Wales Act 2006).
+(3A)[^c-534ac5a43c372712e1390e19079d8e48] The power of the Secretary of State under subsection (3) above to include any monument in the Schedule does not apply to a monument situated in Wales (and in this subsection “Wales has the meaning given by section 158(1) of the Government of Wales Act 2006).
 
 (4) The power of the Secretary of State under subsection (3) above to include any monument in the Schedule does not apply to any structure which is occupied as a dwelling house by any person other than a person employed as the caretaker thereof or his family.
 
@@ -42,7 +42,7 @@ The Secretary of State shall consult the Historic Buildings and Monuments Commis
 
 In the case of a monument situated in England, the Secretary of State shall consult with the Commission before he makes an exclusion or amendment.[^c250785]
 
-(5A)[^key-b9f2d42bf568f1cd8955a53c7c55d6e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5A)[^c-b9f2d42bf568f1cd8955a53c7c55d6e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) As soon as may be after—
 
@@ -52,7 +52,7 @@ In the case of a monument situated in England, the Secretary of State shall cons
 
 the Secretary of State shall (subject to subsection (6A) below)[^c250786] inform the owner and (if the owner is not the occupier) the occupier of the monument, and any local authority in whose area the monument is situated, of the action taken and, in a case falling within paragraph (a) or (b) above, shall also send to him or them a copy of the entry or (as the case may be) of the amended entry in the Schedule relating to that monument.
 
-(6A)[^key-677d131169edf7a4812110d7d8638612] As soon as may be after—
+(6A)[^c-677d131169edf7a4812110d7d8638612] As soon as may be after—
 
 - (a) including any monument in England in the Schedule under subsection (3) above;
 - (b) amending the entry in the Schedule relating to any such monument; or
@@ -60,9 +60,9 @@ the Secretary of State shall (subject to subsection (6A) below)[^c250786] inform
 
 the Secretary of State shall inform the Commission of the action taken and, in a case falling within paragraph (a) or (b), shall also send to the Commission a copy of the entry or (as the case may be) of the amended entry in the Schedule relating to that monument.
 
-(6B)[^key-6ce7b0eff9904840664284af989cb83b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6B)[^c-6ce7b0eff9904840664284af989cb83b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6C)[^key-7cff9995bef8282cb632f275afb262ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6C)[^c-7cff9995bef8282cb632f275afb262ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Subject to subsection (7A) below[^c250788] The Secretary of State shall from time to time publish a list of all the monuments which are for the time being included in the Schedule, whether as a single list or in sections containing the monuments situated in particular areas; but in the case of a list published in sections, all sections of the list need not be published simultaneously.
 
@@ -75,7 +75,7 @@ the Secretary of State shall inform the Commission of the action taken and, in a
 
 (8A)[^c250790] The Secretary of State shall from time to time supply the Commission with amendments of any list supplied under subsection (7A) above.
 
-(9) An entry in the Schedule recording the inclusion therein of a monument situated in England [^key-13c78fa93e51bcee6d0d302b5e74d1ce]... shall be a local land charge.
+(9) An entry in the Schedule recording the inclusion therein of a monument situated in England [^c-13c78fa93e51bcee6d0d302b5e74d1ce]... shall be a local land charge.
 
 (10) It shall be competent to record in the Register of Sasines—
 
@@ -135,23 +135,23 @@ it must notify such persons as may be prescribed in such form and manner, and wi
 
 [^c250783]: Marginal citation: [1931 c. 16](https://www.legislation.gov.uk/ukpga/1931/16).
 
-[^key-758d2340e5006c3799ce1faa3db6c820]: Textual amendment: Words in [s. 1(3)](https://www.legislation.gov.uk/ukpga/1979/46/section/1/3) substituted (E.W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 20(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/20/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-758d2340e5006c3799ce1faa3db6c820]: Textual amendment: Words in [s. 1(3)](https://www.legislation.gov.uk/ukpga/1979/46/section/1/3) substituted (E.W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 20(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/20/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c250784]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 25(2)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/25/2)
 
-[^key-534ac5a43c372712e1390e19079d8e48]: Textual amendment: [S. 1(3A)](https://www.legislation.gov.uk/ukpga/1979/46/section/1/3A) inserted (E.W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 20(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/20/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-534ac5a43c372712e1390e19079d8e48]: Textual amendment: [S. 1(3A)](https://www.legislation.gov.uk/ukpga/1979/46/section/1/3A) inserted (E.W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 20(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/20/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c250785]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 25(3)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/25/3)
 
-[^key-b9f2d42bf568f1cd8955a53c7c55d6e2]: Textual amendment: [S. 1(5A)](https://www.legislation.gov.uk/ukpga/1979/46/section/1/5A) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 20(c)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/20/c) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-b9f2d42bf568f1cd8955a53c7c55d6e2]: Textual amendment: [S. 1(5A)](https://www.legislation.gov.uk/ukpga/1979/46/section/1/5A) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 20(c)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/20/c) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c250786]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 25(4)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/25/4)
 
-[^key-677d131169edf7a4812110d7d8638612]: Textual amendment: [S. 1(6A)](https://www.legislation.gov.uk/ukpga/1979/46/section/1/6A) substituted (E.W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 20(d)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/20/d) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-677d131169edf7a4812110d7d8638612]: Textual amendment: [S. 1(6A)](https://www.legislation.gov.uk/ukpga/1979/46/section/1/6A) substituted (E.W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 20(d)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/20/d) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-6ce7b0eff9904840664284af989cb83b]: Textual amendment: [S. 1(6B)](https://www.legislation.gov.uk/ukpga/1979/46/section/1/6B) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 20(e)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/20/e) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-6ce7b0eff9904840664284af989cb83b]: Textual amendment: [S. 1(6B)](https://www.legislation.gov.uk/ukpga/1979/46/section/1/6B) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 20(e)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/20/e) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-7cff9995bef8282cb632f275afb262ca]: Textual amendment: [S. 1(6C)](https://www.legislation.gov.uk/ukpga/1979/46/section/1/6C) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 20(e)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/20/e) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-7cff9995bef8282cb632f275afb262ca]: Textual amendment: [S. 1(6C)](https://www.legislation.gov.uk/ukpga/1979/46/section/1/6C) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 20(e)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/20/e) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c250788]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 25(6)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/25/6)
 
@@ -159,7 +159,7 @@ it must notify such persons as may be prescribed in such form and manner, and wi
 
 [^c250790]: Textual amendment: S. 1(8A) inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 25(8)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/25/8)
 
-[^key-13c78fa93e51bcee6d0d302b5e74d1ce]: Textual amendment: Words in [s. 1(9)](https://www.legislation.gov.uk/ukpga/1979/46/section/1/9) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 20(f)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/20/f) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-13c78fa93e51bcee6d0d302b5e74d1ce]: Textual amendment: Words in [s. 1(9)](https://www.legislation.gov.uk/ukpga/1979/46/section/1/9) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 20(f)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/20/f) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^M_E_6e632042-ed5d-417e-fb23-5f0669ed6113]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 

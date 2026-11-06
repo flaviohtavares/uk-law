@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Amount of contribution to costs grant[^key-35a403a34b3bd51b277c1835d8dea9c5]
+## 27. Amount of contribution to costs grant[^c-35a403a34b3bd51b277c1835d8dea9c5]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ the amount of contribution to costs grant is £5,885.
 
 ## Annotations
 
-[^key-35a403a34b3bd51b277c1835d8dea9c5]: Commencement: Reg. 27 in force at 27.5.2019, see reg. 1(2)
+[^c-35a403a34b3bd51b277c1835d8dea9c5]: Commencement: Reg. 27 in force at 27.5.2019, see reg. 1(2)

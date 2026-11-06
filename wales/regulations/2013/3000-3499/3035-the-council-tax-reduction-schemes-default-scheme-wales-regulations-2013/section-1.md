@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title, commencement, application and revocation[^key-08868fddeb946d5a0b86d204842c1462]
+## 1. Title, commencement, application and revocation[^c-08868fddeb946d5a0b86d204842c1462]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-08868fddeb946d5a0b86d204842c1462]: Commencement: Reg. 1 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3035/regulation/1/2)
+[^c-08868fddeb946d5a0b86d204842c1462]: Commencement: Reg. 1 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3035/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2012/3145 (W.317)](https://www.legislation.gov.uk/wsi/2012/3145).

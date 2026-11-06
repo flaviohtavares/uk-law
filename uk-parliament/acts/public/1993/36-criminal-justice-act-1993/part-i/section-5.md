@@ -49,7 +49,7 @@ summary: ''
 
 and the conspiracy would be triable in England and Wales but for the fraud which the parties to it had in view not being intended to take place in England and Wales.
 
-(4)[^key-340804ed425163cd140a2fbfdf3fe139] A person may be guilty of incitement to commit a Group A offence if the incitement—
+(4)[^c-340804ed425163cd140a2fbfdf3fe139] A person may be guilty of incitement to commit a Group A offence if the incitement—
 
 - (a) takes place in England and Wales; and
 - (b) would be triable in England and Wales but for what the person charged had in view not being an offence triable in England and Wales.
@@ -64,4 +64,4 @@ and the conspiracy would be triable in England and Wales but for the fraud which
 
 [^c10496211]: Marginal citation: [1981 c. 47](https://www.legislation.gov.uk/ukpga/1981/47).
 
-[^key-340804ed425163cd140a2fbfdf3fe139]: Modification: [S. 5(4)](https://www.legislation.gov.uk/ukpga/1993/36/section/5/4) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 21(b)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/21/b) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-340804ed425163cd140a2fbfdf3fe139]: Modification: [S. 5(4)](https://www.legislation.gov.uk/ukpga/1993/36/section/5/4) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 21(b)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/21/b) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)

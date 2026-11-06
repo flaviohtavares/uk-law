@@ -37,7 +37,7 @@ Made
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by section 183(1), (9) and (13) of the Policing and Crime Act 2017 [^c24461571].
 
-## 1. Citation, interpretation and extent[^key-e30a120d6af74cd5d014d1bf60b89ce5]
+## 1. Citation, interpretation and extent[^c-e30a120d6af74cd5d014d1bf60b89ce5]
 
 (1) These Regulations may be cited as the Policing and Crime Act 2017 (Commencement No. 11 and Transitional Provisions) Regulations 2021.
 
@@ -46,17 +46,17 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “**the 1968 Act**” means the Firearms Act 1968 [^c24461581];
 - “**the 1988 Act**” means the Firearms (Amendment) Act 1988 [^c24461591];
 - “**the commencement date**” means 22nd March 2021;
-- “the transitional period” means—[^key-432ff545db3bb4428e351a44361751c8]
+- “the transitional period” means—[^c-432ff545db3bb4428e351a44361751c8]
   - (a) in relation to vintage rifles, punt guns or shot guns with a bore greater than 10, the period of ten months beginning with the commencement date;
   - (b) in all other cases, the period of six months beginning with the commencement date.
 
 (3) These Regulations extend to England and Wales and Scotland.
 
-## 2. Commencement of section 126 of the Policing and Crime Act 2017[^key-cab23e3d1620ba1830f01e0f89b4e5b6]
+## 2. Commencement of section 126 of the Policing and Crime Act 2017[^c-cab23e3d1620ba1830f01e0f89b4e5b6]
 
 Section 126 of the Policing and Crime Act 2017 (Firearms Act 1968: meaning of “antique firearm”) comes into force, insofar as it is not already in force, on the commencement date.
 
-## 3. Transitional provision in respect of possession of former antique firearms[^key-87f6fdc1b16a30d2fc2461c0ba06838b]
+## 3. Transitional provision in respect of possession of former antique firearms[^c-87f6fdc1b16a30d2fc2461c0ba06838b]
 
 (1) Paragraphs (2) to (4) apply where—
 
@@ -92,7 +92,7 @@ Section 126 of the Policing and Crime Act 2017 (Firearms Act 1968: meaning of �
 - (a) carries on a business as a firearms dealer [^c24461671] and possesses the firearm for the purposes of the business, and
 - (b) has applied for authorisation of the Secretary of State or the Scottish Ministers in accordance with section 5 of the 1968 Act before the end of the transitional period and that application is still being processed.
 
-## 4. Transitional provision in respect of transfer of former antique firearms[^key-24caaa00ab6f8f694c352ef1eeb70683]
+## 4. Transitional provision in respect of transfer of former antique firearms[^c-24caaa00ab6f8f694c352ef1eeb70683]
 
 (1) Paragraphs (3) to (8) apply where—
 
@@ -248,17 +248,17 @@ The following provisions of the Policing and Crime Act 2017 have been brought in
 
 [^c24461571]: Marginal citation: [2017 c. 3](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-e30a120d6af74cd5d014d1bf60b89ce5]: Commencement: Reg. 1 in force at 22.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/282/regulation/1/2)
+[^c-e30a120d6af74cd5d014d1bf60b89ce5]: Commencement: Reg. 1 in force at 22.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/282/regulation/1/2)
 
 [^c24461581]: Marginal citation: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27).
 
 [^c24461591]: Marginal citation: [1988 c. 45](https://www.legislation.gov.uk/ukpga/1988/45).
 
-[^key-432ff545db3bb4428e351a44361751c8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/282/regulation/1/2) substituted (20.9.2021) by [The Policing and Crime Act 2017 (Commencement No. 11 and Transitional Provisions) (Amendment) Regulations 2021 (S.I. 2021/945)](https://www.legislation.gov.uk/uksi/2021/945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/945/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/945/regulation/2)
+[^c-432ff545db3bb4428e351a44361751c8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/282/regulation/1/2) substituted (20.9.2021) by [The Policing and Crime Act 2017 (Commencement No. 11 and Transitional Provisions) (Amendment) Regulations 2021 (S.I. 2021/945)](https://www.legislation.gov.uk/uksi/2021/945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/945/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/945/regulation/2)
 
-[^key-cab23e3d1620ba1830f01e0f89b4e5b6]: Commencement: Reg. 2 in force at 22.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/282/regulation/1/2)
+[^c-cab23e3d1620ba1830f01e0f89b4e5b6]: Commencement: Reg. 2 in force at 22.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/282/regulation/1/2)
 
-[^key-87f6fdc1b16a30d2fc2461c0ba06838b]: Commencement: Reg. 3 in force at 22.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/282/regulation/1/2)
+[^c-87f6fdc1b16a30d2fc2461c0ba06838b]: Commencement: Reg. 3 in force at 22.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/282/regulation/1/2)
 
 [^c24461601]: Marginal citation: [Section 58(2)](https://www.legislation.gov.uk/uksi/2021/282/section/58/2) was amended by section 110(2) of the Anti-social [Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12) (“**the 2014 Act**”).
 
@@ -276,4 +276,4 @@ The following provisions of the Policing and Crime Act 2017 have been brought in
 
 [^c24461671]: Marginal citation: “firearms dealer” is defined in section 57(4) of the [Firearms Act 1968 (c. 27)](https://www.legislation.gov.uk/ukpga/1968/27).
 
-[^key-24caaa00ab6f8f694c352ef1eeb70683]: Commencement: Reg. 4 in force at 22.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/282/regulation/1/2)
+[^c-24caaa00ab6f8f694c352ef1eeb70683]: Commencement: Reg. 4 in force at 22.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/282/regulation/1/2)

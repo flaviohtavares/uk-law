@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This section has effect for conferring functions in relation to main rivers on the appropriate agency[^key-688557e08b49651a6a72ccb3a9100539] which are functions of drainage boards in relation to other watercourses.
+(1) This section has effect for conferring functions in relation to main rivers on the appropriate agency[^c-688557e08b49651a6a72ccb3a9100539] which are functions of drainage boards in relation to other watercourses.
 
 (2) Notwithstanding subsection (3) of section 21 of the Land Drainage Act 1991 (power to secure compliance with drainage obligations), the powers of the appropriate agency in relation to a main river shall, by virtue of this section, include the powers which under that section are exercisable otherwise than in relation to a main river by the drainage board concerned; and the provisions of that section shall have effect accordingly.
 
@@ -42,6 +42,6 @@ as they have effect in relation to an obligation to do work otherwise than in co
 
 ## Annotations
 
-[^key-688557e08b49651a6a72ccb3a9100539]: Textual amendment: Words in ss. 105-107 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 274(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/274/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-688557e08b49651a6a72ccb3a9100539]: Textual amendment: Words in ss. 105-107 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 274(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/274/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18734201]: Marginal citation: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).

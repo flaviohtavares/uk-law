@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Pension schemes: supplementary[^key-4d5d8f7481baf8e72fa7cd442ed85653]
+## 186. Pension schemes: supplementary[^c-4d5d8f7481baf8e72fa7cd442ed85653]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4d5d8f7481baf8e72fa7cd442ed85653]: Commencement: [Art. 186](https://www.legislation.gov.uk/uksi/2005/3181/article/186) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-4d5d8f7481baf8e72fa7cd442ed85653]: Commencement: [Art. 186](https://www.legislation.gov.uk/uksi/2005/3181/article/186) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00098]: Footnote: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
 

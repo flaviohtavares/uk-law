@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63G. Retention of section 63D material by virtue of section 63F(5): consent of Commissioner[^key-7bdfe5cb61f5ae49080ab440ce4b98bc][^key-79a4270398d6aec30343ee2fb7c91cff]
+## 63G. Retention of section 63D material by virtue of section 63F(5): consent of Commissioner[^c-7bdfe5cb61f5ae49080ab440ce4b98bc][^c-79a4270398d6aec30343ee2fb7c91cff]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ and the reference in subsection (2)(c) to a person being associated with another
 
 ## Annotations
 
-[^key-7bdfe5cb61f5ae49080ab440ce4b98bc]: Modification: S. 63G applied (with modifications) (4.11.2015) by [The Police and Criminal Evidence Act 1984 (Application to Revenue and Customs) Order 2015 (S.I. 2015/1783)](https://www.legislation.gov.uk/uksi/2015/1783), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1783/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1783/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/2), [(3)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/3), [4-19](https://www.legislation.gov.uk/uksi/2015/1783/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1783/schedule/2))
+[^c-7bdfe5cb61f5ae49080ab440ce4b98bc]: Modification: S. 63G applied (with modifications) (4.11.2015) by [The Police and Criminal Evidence Act 1984 (Application to Revenue and Customs) Order 2015 (S.I. 2015/1783)](https://www.legislation.gov.uk/uksi/2015/1783), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1783/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1783/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/2), [(3)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/3), [4-19](https://www.legislation.gov.uk/uksi/2015/1783/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1783/schedule/2))
 
-[^key-79a4270398d6aec30343ee2fb7c91cff]: Textual amendment: S. 63G inserted (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 3](https://www.legislation.gov.uk/ukpga/2012/9/section/3), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/a)
+[^c-79a4270398d6aec30343ee2fb7c91cff]: Textual amendment: S. 63G inserted (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 3](https://www.legislation.gov.uk/ukpga/2012/9/section/3), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/a)

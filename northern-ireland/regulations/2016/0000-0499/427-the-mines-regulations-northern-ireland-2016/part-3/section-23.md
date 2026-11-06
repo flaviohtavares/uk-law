@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Ignition risks[^key-8fce2adb392c0e37db403a5c9808c28a]
+## 23. Ignition risks[^c-8fce2adb392c0e37db403a5c9808c28a]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fce2adb392c0e37db403a5c9808c28a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2016/427/regulation/23) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-8fce2adb392c0e37db403a5c9808c28a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2016/427/regulation/23) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

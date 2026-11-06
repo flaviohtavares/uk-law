@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Welsh ... Government[^c16526811][^key-546c29ecf72928d40cb76993691cfad4]
+## 45. Welsh ... Government[^c16526811][^c-546c29ecf72928d40cb76993691cfad4]
 
 *Extent: E+W+S+N.I.*
 
-(1) There is to be a Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government, or Llywodraeth [^key-4e1a416a34e3bb5d8d013a773b7cd13c]... Cymru, whose members are—
+(1) There is to be a Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government, or Llywodraeth [^c-4e1a416a34e3bb5d8d013a773b7cd13c]... Cymru, whose members are—
 
 - (a) the First Minister or Prif Weinidog (see sections 46 and 47),
 - (b) the Welsh Ministers, or Gweinidogion Cymru, appointed under section 48,
-- (c) the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government or Cwnsler Cyffredinol i Lywodraeth [^key-4e1a416a34e3bb5d8d013a773b7cd13c]... Cymru (see section 49) (referred to in this Act as “**the Counsel General**”), and
+- (c) the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government or Cwnsler Cyffredinol i Lywodraeth [^c-4e1a416a34e3bb5d8d013a773b7cd13c]... Cymru (see section 49) (referred to in this Act as “**the Counsel General**”), and
 - (d) the Deputy Welsh Ministers or Dirprwy Weinidogion Cymru (see section 50).
 
 (2) In this Act and in any other enactment or instrument the First Minister and the Welsh Ministers appointed under section 48 are referred to collectively as the Welsh Ministers.
@@ -33,6 +33,6 @@ summary: ''
 
 [^c16526811]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
+[^c-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
 
-[^key-4e1a416a34e3bb5d8d013a773b7cd13c]: Textual amendment: Words in s. 45(1) omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/b), [29(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
+[^c-4e1a416a34e3bb5d8d013a773b7cd13c]: Textual amendment: Words in s. 45(1) omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/b), [29(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))

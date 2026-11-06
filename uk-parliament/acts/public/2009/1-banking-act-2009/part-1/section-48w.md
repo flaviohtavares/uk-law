@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48W. Reverse transfer[^key-e08285c6098396b69338da688e9dbcc0]
+## 48W. Reverse transfer[^c-e08285c6098396b69338da688e9dbcc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,12 +38,12 @@ summary: ''
 
 (6) This subsection applies where the transferee is—
 
-- (a) a resolution administrator[^key-5904e26fe4f30338df408929eecd9110], or
+- (a) a resolution administrator[^c-5904e26fe4f30338df408929eecd9110], or
 - (b) a person who is not to be authorised to exercise any rights attaching to the securities except on the Bank of England's instructions.
 
 (7) The Bank of England may make a reverse transfer resolution instrument under subsection (3) only with the written consent of the onward transferee.
 
-(8) Section 7 does[^key-e517d37a5790e2fe46a08b3faef3bd0c] not apply to a reverse transfer resolution instrument (but it is to be treated in the same way as any other resolution instrument for all other purposes including for the purposes of an application of a power under this Part).
+(8) Section 7 does[^c-e517d37a5790e2fe46a08b3faef3bd0c] not apply to a reverse transfer resolution instrument (but it is to be treated in the same way as any other resolution instrument for all other purposes including for the purposes of an application of a power under this Part).
 
 (9) Before making a reverse transfer resolution instrument the Bank of England must consult—
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e08285c6098396b69338da688e9dbcc0]: Textual amendment: Ss. 48B-48W and cross-heading inserted (1.3.2014 for the insertion of s. 48P for specified purposes, 31.12.2014 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/4); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-e08285c6098396b69338da688e9dbcc0]: Textual amendment: Ss. 48B-48W and cross-heading inserted (1.3.2014 for the insertion of s. 48P for specified purposes, 31.12.2014 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/4); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-5904e26fe4f30338df408929eecd9110]: Textual amendment: Words in s. 48W(6)(a) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [60(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/60/2)
+[^c-5904e26fe4f30338df408929eecd9110]: Textual amendment: Words in s. 48W(6)(a) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [60(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/60/2)
 
-[^key-e517d37a5790e2fe46a08b3faef3bd0c]: Textual amendment: Words in s. 48W(8) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [60(3)](https://www.legislation.gov.uk/uksi/2014/3329/article/60/3)
+[^c-e517d37a5790e2fe46a08b3faef3bd0c]: Textual amendment: Words in s. 48W(8) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [60(3)](https://www.legislation.gov.uk/uksi/2014/3329/article/60/3)

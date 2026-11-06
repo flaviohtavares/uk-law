@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94A. Stamp duty land tax[^key-ce2f2183b3d10b18c664dc395a0d70bf]
+## 94A. Stamp duty land tax[^c-ce2f2183b3d10b18c664dc395a0d70bf]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce2f2183b3d10b18c664dc395a0d70bf]: Textual amendment: [S. 94A](https://www.legislation.gov.uk/ukpga/2000/21/section/94A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/31)
+[^c-ce2f2183b3d10b18c664dc395a0d70bf]: Textual amendment: [S. 94A](https://www.legislation.gov.uk/ukpga/2000/21/section/94A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/31)

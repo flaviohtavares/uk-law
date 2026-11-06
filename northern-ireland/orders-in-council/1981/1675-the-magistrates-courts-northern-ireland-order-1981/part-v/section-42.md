@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The deposition of a witness whose attendance is stated to be unnecessary under Article 39 (2) [^key-c025c6722ce2f849a2d075071ee6a374]... may, subject to this Article, be read at the court of trial provided—
+(1) The deposition of a witness whose attendance is stated to be unnecessary under Article 39 (2) [^c-c025c6722ce2f849a2d075071ee6a374]... may, subject to this Article, be read at the court of trial provided—
 
 - (a) it is proved, either by the oath of a credible witness or by a certificate purporting to be signed by the resident magistrate or lay magistrate[^c16969341] before whom the deposition purports to have been taken or by the clerk of petty sessions, that the deposition was taken in the presence of the accused and that the accused or his counsel or solicitor (or in the case of a witness called by the accused, the prosecution) had an opportunity of cross-examining the witness;
 - (b) the deposition purports to be signed by the resident magistrate or lay magistrate before whom it purports to be taken; and
@@ -28,7 +28,7 @@ summary: ''
 
 (2) Paragraph (1) shall not have effect if it is proved that the deposition, or, where the proof required by paragraph (1) (a) is given by means of a certificate, that the certificate, was not in fact signed by the magistrate or clerk of petty sessions by whom it purports to have been signed.
 
-(3) The statement of a witness admitted in evidence at a preliminary inquiry [^key-0f4b37c865f971888813bdf9e94e73ff]... which complies with the provisions of Article 33[^c16969381] may, with the leave of the court, be read as evidence at the trial—
+(3) The statement of a witness admitted in evidence at a preliminary inquiry [^c-0f4b37c865f971888813bdf9e94e73ff]... which complies with the provisions of Article 33[^c16969381] may, with the leave of the court, be read as evidence at the trial—
 
 - (a) by agreement between the prosecution and the defence, or
 - (b) if the court is satisfied that the witness is dead or unfit to give evidence or to attend for that purpose, or that all reasonable efforts to find him or to secure his attendance have been made without success.
@@ -42,10 +42,10 @@ summary: ''
 
 ## Annotations
 
-[^key-c025c6722ce2f849a2d075071ee6a374]: Textual amendment: Words in [art. 42(1)](https://www.legislation.gov.uk/nisi/1981/1675/article/42/1) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 8(3)(h)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8/3/h); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-c025c6722ce2f849a2d075071ee6a374]: Textual amendment: Words in [art. 42(1)](https://www.legislation.gov.uk/nisi/1981/1675/article/42/1) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 8(3)(h)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8/3/h); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^c16969341]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
-[^key-0f4b37c865f971888813bdf9e94e73ff]: Textual amendment: Words in [art. 42(3)](https://www.legislation.gov.uk/nisi/1981/1675/article/42/3) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 8(3)(i)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8/3/i); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-0f4b37c865f971888813bdf9e94e73ff]: Textual amendment: Words in [art. 42(3)](https://www.legislation.gov.uk/nisi/1981/1675/article/42/3) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 8(3)(i)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8/3/i); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^c16969381]: Textual amendment: [1986 NI 15](https://www.legislation.gov.uk/1986/ni15)

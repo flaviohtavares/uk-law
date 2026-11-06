@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Calculation of covenant income where a contribution is assessed[^key-465bb8927d110fbf3be2d58a77dd4041]
+## 39. Calculation of covenant income where a contribution is assessed[^c-465bb8927d110fbf3be2d58a77dd4041]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-465bb8927d110fbf3be2d58a77dd4041]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1988/1890/regulation/39) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-465bb8927d110fbf3be2d58a77dd4041]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1988/1890/regulation/39) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

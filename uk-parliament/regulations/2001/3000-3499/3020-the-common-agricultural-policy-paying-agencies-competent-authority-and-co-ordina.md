@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Common Agricultural Policy (Paying Agencies: Competent Authority and Co-ordinating Body) Regulations 2001 (revoked)[^key-1cc72cb72ea96ab008eecbf8b67b872e]
+The Common Agricultural Policy (Paying Agencies: Competent Authority and Co-ordinating Body) Regulations 2001 (revoked)[^c-1cc72cb72ea96ab008eecbf8b67b872e]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 1st October 2001
 
-[^key-1cc72cb72ea96ab008eecbf8b67b872e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cc72cb72ea96ab008eecbf8b67b872e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-1cc72cb72ea96ab008eecbf8b67b872e]
+## 1. Title and commencement[^c-1cc72cb72ea96ab008eecbf8b67b872e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1cc72cb72ea96ab008eecbf8b67b872e]
+## 2. Interpretation[^c-1cc72cb72ea96ab008eecbf8b67b872e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Competent authority[^key-1cc72cb72ea96ab008eecbf8b67b872e]
+## 3. Competent authority[^c-1cc72cb72ea96ab008eecbf8b67b872e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Co-ordinating body[^key-1cc72cb72ea96ab008eecbf8b67b872e]
+## 4. Co-ordinating body[^c-1cc72cb72ea96ab008eecbf8b67b872e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1cc72cb72ea96ab008eecbf8b67b872e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cc72cb72ea96ab008eecbf8b67b872e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1cc72cb72ea96ab008eecbf8b67b872e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cc72cb72ea96ab008eecbf8b67b872e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1cc72cb72ea96ab008eecbf8b67b872e]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Competent Authority and Coordinating Body) Regulations 2014 (S.I. 2014/3260)](https://www.legislation.gov.uk/uksi/2014/3260), regs. 1(1), [5](https://www.legislation.gov.uk/uksi/2014/3260/regulation/5)
+[^c-1cc72cb72ea96ab008eecbf8b67b872e]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Competent Authority and Coordinating Body) Regulations 2014 (S.I. 2014/3260)](https://www.legislation.gov.uk/uksi/2014/3260), regs. 1(1), [5](https://www.legislation.gov.uk/uksi/2014/3260/regulation/5)

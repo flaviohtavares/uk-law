@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 10 — INDEX OF WORDS AND EXPRESSIONS USED IN THESE REGULATIONS[^key-aa20bb69d991055c234c3912d0b1b787]
+## SCHEDULE 10 — INDEX OF WORDS AND EXPRESSIONS USED IN THESE REGULATIONS[^c-aa20bb69d991055c234c3912d0b1b787]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Regulation 32
 
 ## Annotations
 
-[^key-aa20bb69d991055c234c3912d0b1b787]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/385) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(c)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/c)
+[^c-aa20bb69d991055c234c3912d0b1b787]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/385) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(c)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Prohibition on new use where administrator to cease providing critical benchmark[^key-4719b7e6d3d7613e2e6fe0d1c7cd4058]
+## 10. Prohibition on new use where administrator to cease providing critical benchmark[^c-4719b7e6d3d7613e2e6fe0d1c7cd4058]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,4 +91,4 @@ In the Benchmarks Regulation, after Article 21 insert—
 
 ## Annotations
 
-[^key-4719b7e6d3d7613e2e6fe0d1c7cd4058]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/22/section/10) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/c)
+[^c-4719b7e6d3d7613e2e6fe0d1c7cd4058]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/22/section/10) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/c)

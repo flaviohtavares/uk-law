@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Duty to keep the complainant informed[^key-e93a1c2216defa389ad0a6e7b45f2c46]
+## 77. Duty to keep the complainant informed[^c-e93a1c2216defa389ad0a6e7b45f2c46]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ the appropriate authority must provide the complainant with all such information
 
 ## Annotations
 
-[^key-e93a1c2216defa389ad0a6e7b45f2c46]: Commencement: Reg. 77 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-e93a1c2216defa389ad0a6e7b45f2c46]: Commencement: Reg. 77 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

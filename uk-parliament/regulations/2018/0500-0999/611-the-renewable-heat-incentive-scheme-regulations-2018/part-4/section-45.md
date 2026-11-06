@@ -42,9 +42,9 @@ and must retain evidence of this, including service and maintenance invoices, re
 
 and must provide upon request an explanation of how their metering arrangements have enabled the cooling in sub-paragraph (b) to be discounted.
 
-(4) Subject to paragraph (4A),[^key-152a6b3107bd1efc42a07d3d27989145] the data referred to in paragraph (2)(a) and (b) may be estimated in exceptional circumstances if the Authority has agreed in writing to an estimate being provided and to the way in which those estimates are to be calculated.
+(4) Subject to paragraph (4A),[^c-152a6b3107bd1efc42a07d3d27989145] the data referred to in paragraph (2)(a) and (b) may be estimated in exceptional circumstances if the Authority has agreed in writing to an estimate being provided and to the way in which those estimates are to be calculated.
 
-(4A)[^key-4e3029f6001c6d72fc1fbd6a54eb2761] On or after 1st October 2018, estimated data may only be used in accordance with paragraph (4)—
+(4A)[^c-4e3029f6001c6d72fc1fbd6a54eb2761] On or after 1st October 2018, estimated data may only be used in accordance with paragraph (4)—
 
 - (a) in a maximum of eight quarterly periods in relation to each installation; and
 - (b) where it would not lead to periodic support payments already made being revised.
@@ -53,6 +53,6 @@ and must provide upon request an explanation of how their metering arrangements 
 
 ## Annotations
 
-[^key-152a6b3107bd1efc42a07d3d27989145]: Textual amendment: Words in reg. 45(4) inserted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [17(a)](https://www.legislation.gov.uk/uksi/2018/635/regulation/17/a)
+[^c-152a6b3107bd1efc42a07d3d27989145]: Textual amendment: Words in reg. 45(4) inserted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [17(a)](https://www.legislation.gov.uk/uksi/2018/635/regulation/17/a)
 
-[^key-4e3029f6001c6d72fc1fbd6a54eb2761]: Textual amendment: Reg. 45(4A) inserted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [17(b)](https://www.legislation.gov.uk/uksi/2018/635/regulation/17/b)
+[^c-4e3029f6001c6d72fc1fbd6a54eb2761]: Textual amendment: Reg. 45(4A) inserted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [17(b)](https://www.legislation.gov.uk/uksi/2018/635/regulation/17/b)

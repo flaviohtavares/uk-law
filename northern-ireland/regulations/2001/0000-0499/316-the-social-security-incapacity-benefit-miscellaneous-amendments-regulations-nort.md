@@ -41,15 +41,15 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 30E, 167D and 171(1) to (4) of, and paragraphs 2(8) of Schedule 3 and 2(3) of Schedule 7 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-32a7eeeccdad3146a3a4426412a38850]
+## 1. Citation and commencement[^c-32a7eeeccdad3146a3a4426412a38850]
 
 These Regulations may be cited as the Social Security (Incapacity Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2001 and shall come into operation on 1st October 2001.
 
-## 2. Amendment of the Social Security (General Benefit) Regulations[^key-db5f33b13e02586246cbc9cc8688e0a1]
+## 2. Amendment of the Social Security (General Benefit) Regulations[^c-db5f33b13e02586246cbc9cc8688e0a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security (Incapacity Benefit) Regulations[^key-f087edd9f3b9700c3d29c2bac89bd4b7]
+## 3. Amendment of the Social Security (Incapacity Benefit) Regulations[^c-f087edd9f3b9700c3d29c2bac89bd4b7]
 
 (1) The Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994[^f00004] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -58,13 +58,13 @@ These Regulations may be cited as the Social Security (Incapacity Benefit) (Misc
 - (a) for “before” there shall be substituted “immediately preceding the relevant benefit year in which”; and
 - (b) after “for work” there shall be inserted “occurred”.
 
-(3)[^key-560eabe9a7d8d3578f3d3153446574d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-560eabe9a7d8d3578f3d3153446574d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-fbabc1c5ba67ddc87e6caa5ef81cad37]
+## 4. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-fbabc1c5ba67ddc87e6caa5ef81cad37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-fbabc1c5ba67ddc87e6caa5ef81cad37]
+## 5. Revocations[^c-fbabc1c5ba67ddc87e6caa5ef81cad37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -100,16 +100,16 @@ These Regulations do not impose a charge on business.
 
 [^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-32a7eeeccdad3146a3a4426412a38850]: Commencement: Reg. 1 in operation at 1.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/316/regulation/1)
+[^c-32a7eeeccdad3146a3a4426412a38850]: Commencement: Reg. 1 in operation at 1.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/316/regulation/1)
 
-[^key-db5f33b13e02586246cbc9cc8688e0a1]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/316/regulation/2) revoked (1.10.2002) by [The Social Security (Incapacity) (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2002 (S.R. 2002/276)](https://www.legislation.gov.uk/nisr/2002/276), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2002/276/regulation/1/a), [5](https://www.legislation.gov.uk/nisr/2002/276/regulation/5)
+[^c-db5f33b13e02586246cbc9cc8688e0a1]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/316/regulation/2) revoked (1.10.2002) by [The Social Security (Incapacity) (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2002 (S.R. 2002/276)](https://www.legislation.gov.uk/nisr/2002/276), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2002/276/regulation/1/a), [5](https://www.legislation.gov.uk/nisr/2002/276/regulation/5)
 
-[^key-f087edd9f3b9700c3d29c2bac89bd4b7]: Commencement: Reg. 3 in operation at 1.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/316/regulation/1)
+[^c-f087edd9f3b9700c3d29c2bac89bd4b7]: Commencement: Reg. 3 in operation at 1.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/316/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1994 No. 461](https://www.legislation.gov.uk/nisr/1994/461); relevant amending regulations are [S.R. 2000 No. 404](https://www.legislation.gov.uk/nisr/2000/404) and [S.R. 2001 Nos. 106](https://www.legislation.gov.uk/nisr/2001/106) and [156](https://www.legislation.gov.uk/nisr/2001/156)
 
 [^f00005]: Footnote: Regulation 1B was inserted by regulation 2(2) of [S.R. 2000 No. 404](https://www.legislation.gov.uk/nisr/2000/404) and amended by regulation 2(2) of [S.R. 2001 No. 156](https://www.legislation.gov.uk/nisr/2001/156)
 
-[^key-560eabe9a7d8d3578f3d3153446574d3]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2001/316/regulation/3/3) revoked (1.10.2002) by [The Social Security (Incapacity) (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2002 (S.R. 2002/276)](https://www.legislation.gov.uk/nisr/2002/276), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2002/276/regulation/1/a), [5](https://www.legislation.gov.uk/nisr/2002/276/regulation/5)
+[^c-560eabe9a7d8d3578f3d3153446574d3]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2001/316/regulation/3/3) revoked (1.10.2002) by [The Social Security (Incapacity) (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2002 (S.R. 2002/276)](https://www.legislation.gov.uk/nisr/2002/276), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2002/276/regulation/1/a), [5](https://www.legislation.gov.uk/nisr/2002/276/regulation/5)
 
-[^key-fbabc1c5ba67ddc87e6caa5ef81cad37]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/316/regulation/5) revoked (1.10.2002) by [The Social Security (Incapacity) (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2002 (S.R. 2002/276)](https://www.legislation.gov.uk/nisr/2002/276), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2002/276/regulation/1/a), [5](https://www.legislation.gov.uk/nisr/2002/276/regulation/5)
+[^c-fbabc1c5ba67ddc87e6caa5ef81cad37]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/316/regulation/5) revoked (1.10.2002) by [The Social Security (Incapacity) (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2002 (S.R. 2002/276)](https://www.legislation.gov.uk/nisr/2002/276), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2002/276/regulation/1/a), [5](https://www.legislation.gov.uk/nisr/2002/276/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.4A. Supply of documents to Attorney-General from court records[^key-327f0268eb96d751f4799050448052ec]
+## 5.4A. Supply of documents to Attorney-General from court records[^c-327f0268eb96d751f4799050448052ec]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-327f0268eb96d751f4799050448052ec]: Textual amendment: [Rule 5.4A](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.4A) inserted (1.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rules 1(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/a), [3](https://www.legislation.gov.uk/uksi/2004/1306/rule/3)
+[^c-327f0268eb96d751f4799050448052ec]: Textual amendment: [Rule 5.4A](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.4A) inserted (1.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rules 1(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/a), [3](https://www.legislation.gov.uk/uksi/2004/1306/rule/3)

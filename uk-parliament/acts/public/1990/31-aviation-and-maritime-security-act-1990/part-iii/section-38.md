@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. False statements in connection with identity documents.[^c10458151][^key-e3c8918e5172a077a428b5078248b9a0]
+## 38. False statements in connection with identity documents.[^c10458151][^c-e3c8918e5172a077a428b5078248b9a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ he makes to any of the persons specified in subsection (3) below, to any employe
 
 [^c10458151]: Modification: [S. 38](https://www.legislation.gov.uk/ukpga/1990/31/section/38) extended (with modifications) (Jersey) (1.1.1997) by [S.I. 1996/2881](https://www.legislation.gov.uk/uksi/1996/2881), [art. 2](https://www.legislation.gov.uk/uksi/1996/2881/article/2), [Sch. Pts. I](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/I), [II](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/II)
 
-[^key-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
+[^c-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
 
 [^c10458161]: Textual amendment: [S. 38(3)(aa)](https://www.legislation.gov.uk/ukpga/1990/31/section/38/3/aa) inserted (17.7.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 25](https://www.legislation.gov.uk/ukpga/1997/28/section/25), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/1997/28/schedule/4/paragraph/9); [S.I. 1997/1539](https://www.legislation.gov.uk/uksi/1997/1539), [art. 2](https://www.legislation.gov.uk/uksi/1997/1539/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1539/schedule)

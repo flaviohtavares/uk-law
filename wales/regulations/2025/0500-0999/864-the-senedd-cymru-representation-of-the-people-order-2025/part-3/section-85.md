@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Savings as to Senedd election[^key-57ee788c422d6a126aa54247fac83fed]
+## 85. Savings as to Senedd election[^c-57ee788c422d6a126aa54247fac83fed]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57ee788c422d6a126aa54247fac83fed]: Commencement: Art. 85 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-57ee788c422d6a126aa54247fac83fed]: Commencement: Art. 85 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 243. Urgent medical treatment[^key-dda1c180ffa0c1359cee2d722db7d3e0]
+## 243. Urgent medical treatment[^c-dda1c180ffa0c1359cee2d722db7d3e0]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ to the treatment.
 
 ## Annotations
 
-[^key-dda1c180ffa0c1359cee2d722db7d3e0]: Commencement: [S. 243](https://www.legislation.gov.uk/asp/2003/13/section/243) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-dda1c180ffa0c1359cee2d722db7d3e0]: Commencement: [S. 243](https://www.legislation.gov.uk/asp/2003/13/section/243) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

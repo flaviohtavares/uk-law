@@ -35,14 +35,14 @@ on the extension of the transitional periods related to own funds requirements f
 
 (Text with EEA relevance) (revoked)
 
-[^key-b141ea7c7e3699ba5b6a9956789b6d78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b141ea7c7e3699ba5b6a9956789b6d78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-b141ea7c7e3699ba5b6a9956789b6d78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b141ea7c7e3699ba5b6a9956789b6d78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b141ea7c7e3699ba5b6a9956789b6d78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b141ea7c7e3699ba5b6a9956789b6d78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b141ea7c7e3699ba5b6a9956789b6d78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b141ea7c7e3699ba5b6a9956789b6d78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b141ea7c7e3699ba5b6a9956789b6d78]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [34(f)](https://www.legislation.gov.uk/uksi/2019/710/regulation/34/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b141ea7c7e3699ba5b6a9956789b6d78]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [34(f)](https://www.legislation.gov.uk/uksi/2019/710/regulation/34/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

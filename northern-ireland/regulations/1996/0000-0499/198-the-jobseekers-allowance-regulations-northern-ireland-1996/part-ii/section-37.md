@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Variation of Jobseeker’s Agreement[^key-cb2f0657dd8236101b2d21082a4080d5]
+## 37. Variation of Jobseeker’s Agreement[^c-cb2f0657dd8236101b2d21082a4080d5]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The prescribed manner for varying a jobseeker’s agreement shall be in writing 
 
 ## Annotations
 
-[^key-cb2f0657dd8236101b2d21082a4080d5]: Commencement: Reg. 37 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-cb2f0657dd8236101b2d21082a4080d5]: Commencement: Reg. 37 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

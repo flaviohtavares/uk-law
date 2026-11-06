@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — SAMPLING AND TESTING METHODS[^key-3006468e4111128bbb461cef1ebeff4c]
+## SCHEDULE 3 — SAMPLING AND TESTING METHODS[^c-3006468e4111128bbb461cef1ebeff4c]
 
 *Extent: E+W+S*
 
@@ -24,178 +24,178 @@ summary: ''
 
 Articles 3, 9 and 16
 
-### PART I — MANNER OF SAMPLING[^key-3006468e4111128bbb461cef1ebeff4c]
+### PART I — MANNER OF SAMPLING[^c-3006468e4111128bbb461cef1ebeff4c]
 
-#### 1. METHOD 1[^key-3006468e4111128bbb461cef1ebeff4c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 1. METHOD 2[^key-3006468e4111128bbb461cef1ebeff4c]
+#### 1. METHOD 1[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — METHOD FOR THE ISOLATION OF CLOSTRIDIUM PERFRINGENS[^key-3006468e4111128bbb461cef1ebeff4c]
-
-#### 1. Time of testing[^key-3006468e4111128bbb461cef1ebeff4c]
+#### 1. METHOD 2[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Samples[^key-3006468e4111128bbb461cef1ebeff4c]
+**2.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART II — METHOD FOR THE ISOLATION OF CLOSTRIDIUM PERFRINGENS[^c-3006468e4111128bbb461cef1ebeff4c]
+
+#### 1. Time of testing[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Inoculations[^key-3006468e4111128bbb461cef1ebeff4c]
+#### 2. Samples[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 5. Samples with colonies of Clostridium perfringens[^key-3006468e4111128bbb461cef1ebeff4c]
+#### 3. Inoculations[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 9. Subcultured colonies[^key-3006468e4111128bbb461cef1ebeff4c]
+#### 5. Samples with colonies of Clostridium perfringens[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Examination of subcultures[^key-3006468e4111128bbb461cef1ebeff4c]
+**6.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9. Subcultured colonies[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Motility[^key-3006468e4111128bbb461cef1ebeff4c]
+#### Examination of subcultures[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Reduction of nitrate to nitrite[^key-3006468e4111128bbb461cef1ebeff4c]
+#### 10. Motility[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Production of gas and acid from lactose and liquefaction of gelatin[^key-3006468e4111128bbb461cef1ebeff4c]
+#### 11. Reduction of nitrate to nitrite[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**14.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**15.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 16. Control Tests[^key-3006468e4111128bbb461cef1ebeff4c]
+#### 12. Production of gas and acid from lactose and liquefaction of gelatin[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — METHODS FOR THE ISOLATION OF SALMONELLA[^key-3006468e4111128bbb461cef1ebeff4c]
-
-#### A. BACTERIOLOGICAL METHOD[^key-3006468e4111128bbb461cef1ebeff4c]
-
-**1.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-##### 2. Day 1[^key-3006468e4111128bbb461cef1ebeff4c]
+#### 16. Control Tests[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 3. Day 2[^key-3006468e4111128bbb461cef1ebeff4c]
+**17.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART III — METHODS FOR THE ISOLATION OF SALMONELLA[^c-3006468e4111128bbb461cef1ebeff4c]
+
+#### A. BACTERIOLOGICAL METHOD[^c-3006468e4111128bbb461cef1ebeff4c]
+
+**1.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 2. Day 1[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 4. Day 3[^key-3006468e4111128bbb461cef1ebeff4c]
+##### 3. Day 2[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-##### 6. Day 4[^key-3006468e4111128bbb461cef1ebeff4c]
+##### 4. Day 3[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 8. Day 5[^key-3006468e4111128bbb461cef1ebeff4c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### B. ELECTRICAL CONDUCTANCE METHOD[^key-3006468e4111128bbb461cef1ebeff4c]
-
-**1.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-##### 2. Day 1[^key-3006468e4111128bbb461cef1ebeff4c]
+##### 6. Day 4[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 3. Day 2[^key-3006468e4111128bbb461cef1ebeff4c]
+**7.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 8. Day 5[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 4. Day 3[^key-3006468e4111128bbb461cef1ebeff4c]
+**9.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### B. ELECTRICAL CONDUCTANCE METHOD[^c-3006468e4111128bbb461cef1ebeff4c]
+
+**1.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 2. Day 1[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 5. Day 4[^key-3006468e4111128bbb461cef1ebeff4c]
+##### 3. Day 2[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 6. Day 5[^key-3006468e4111128bbb461cef1ebeff4c]
+##### 4. Day 3[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — METHOD FOR THE ISOLATION OF ENTEROBACTERIACEAE[^key-3006468e4111128bbb461cef1ebeff4c]
-
-**1.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Samples[^key-3006468e4111128bbb461cef1ebeff4c]
+##### 5. Day 4[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Inoculations[^key-3006468e4111128bbb461cef1ebeff4c]
+##### 6. Day 5[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART IV — METHOD FOR THE ISOLATION OF ENTEROBACTERIACEAE[^c-3006468e4111128bbb461cef1ebeff4c]
 
-#### 5. Samples with colonies of Enterobacteriaceae[^key-3006468e4111128bbb461cef1ebeff4c]
+**1.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 7. Examination of subcultures[^key-3006468e4111128bbb461cef1ebeff4c]
+#### 2. Samples[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 9. Controls[^key-3006468e4111128bbb461cef1ebeff4c]
+#### 3. Inoculations[^c-3006468e4111128bbb461cef1ebeff4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### 5. Samples with colonies of Enterobacteriaceae[^c-3006468e4111128bbb461cef1ebeff4c]
 
-**12.**[^key-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7. Examination of subcultures[^c-3006468e4111128bbb461cef1ebeff4c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9. Controls[^c-3006468e4111128bbb461cef1ebeff4c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-3006468e4111128bbb461cef1ebeff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3006468e4111128bbb461cef1ebeff4c]: Textual amendment: Order revoked: (E.) (1.7.2003) by [The Animal By-Products Regulations 2003 (S.I. 2003/1482)](https://www.legislation.gov.uk/uksi/2003/1482), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1482/regulation/1), [51(2)](https://www.legislation.gov.uk/uksi/2003/1482/regulation/51/2); (S.) (1.10.2003) by [The Animal By-Products (Scotland) Regulations 2003 (S.S.I. 2003/411)](https://www.legislation.gov.uk/ssi/2003/411), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/411/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2003/411/schedule/6) (with [reg. 50](https://www.legislation.gov.uk/ssi/2003/411/regulation/50), [sch. 4](https://www.legislation.gov.uk/ssi/2003/411/schedule/4)); and (W.) (31.10.2003) by [The Animal By-Products (Wales) Regulations 2003 (S.I. 2003/2756)](https://www.legislation.gov.uk/uksi/2003/2756), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2756/regulation/1), [51(2)](https://www.legislation.gov.uk/uksi/2003/2756/regulation/51/2)
+[^c-3006468e4111128bbb461cef1ebeff4c]: Textual amendment: Order revoked: (E.) (1.7.2003) by [The Animal By-Products Regulations 2003 (S.I. 2003/1482)](https://www.legislation.gov.uk/uksi/2003/1482), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1482/regulation/1), [51(2)](https://www.legislation.gov.uk/uksi/2003/1482/regulation/51/2); (S.) (1.10.2003) by [The Animal By-Products (Scotland) Regulations 2003 (S.S.I. 2003/411)](https://www.legislation.gov.uk/ssi/2003/411), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/411/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2003/411/schedule/6) (with [reg. 50](https://www.legislation.gov.uk/ssi/2003/411/regulation/50), [sch. 4](https://www.legislation.gov.uk/ssi/2003/411/schedule/4)); and (W.) (31.10.2003) by [The Animal By-Products (Wales) Regulations 2003 (S.I. 2003/2756)](https://www.legislation.gov.uk/uksi/2003/2756), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2756/regulation/1), [51(2)](https://www.legislation.gov.uk/uksi/2003/2756/regulation/51/2)

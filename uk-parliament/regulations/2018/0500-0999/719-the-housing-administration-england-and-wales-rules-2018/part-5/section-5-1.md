@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.1. Interpretation[^key-a80dcd89c7f002f648fd432e6c1dae88]
+## 5.1. Interpretation[^c-a80dcd89c7f002f648fd432e6c1dae88]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a80dcd89c7f002f648fd432e6c1dae88]: Commencement: Rule 5.1 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-a80dcd89c7f002f648fd432e6c1dae88]: Commencement: Rule 5.1 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
 [^f00031]: Footnote: Paragraph 13A was inserted into Schedule 8 by section 131 of the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Rectification: circumstances where liability excluded[^key-909a935dafd66604d0aa2f720fff1e9b]
+## 85. Rectification: circumstances where liability excluded[^c-909a935dafd66604d0aa2f720fff1e9b]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ The Keeper has no liability to pay compensation under section 84—
 
 ## Annotations
 
-[^key-909a935dafd66604d0aa2f720fff1e9b]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2012/5/section/85) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-909a935dafd66604d0aa2f720fff1e9b]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2012/5/section/85) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46.20. Scope and interpretation[^key-57688d13f6d0b74388e4b3bb59b49783][^key-b941119c8cdc9da1893b8454ae2b36e6]
+## 46.20. Scope and interpretation[^c-57688d13f6d0b74388e4b3bb59b49783][^c-b941119c8cdc9da1893b8454ae2b36e6]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57688d13f6d0b74388e4b3bb59b49783]: Textual amendment: [Pt. 46](https://www.legislation.gov.uk/uksi/1998/3132/part/46) Section 7 inserted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [18(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/18/2)
+[^c-57688d13f6d0b74388e4b3bb59b49783]: Textual amendment: [Pt. 46](https://www.legislation.gov.uk/uksi/1998/3132/part/46) Section 7 inserted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [18(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/18/2)
 
-[^key-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))

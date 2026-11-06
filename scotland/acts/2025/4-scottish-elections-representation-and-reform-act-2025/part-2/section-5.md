@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Scottish Parliament: disqualification of councillors[^key-fe254c427d9769a7911e8da0486f8de7][^key-11067d29420c2ae9aa151fe849f868db]
+## 5. Scottish Parliament: disqualification of councillors[^c-fe254c427d9769a7911e8da0486f8de7][^c-11067d29420c2ae9aa151fe849f868db]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe254c427d9769a7911e8da0486f8de7]: Commencement: S. 5 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-fe254c427d9769a7911e8da0486f8de7]: Commencement: S. 5 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-11067d29420c2ae9aa151fe849f868db]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2025/4/section/5) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-11067d29420c2ae9aa151fe849f868db]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2025/4/section/5) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

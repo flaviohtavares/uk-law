@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Exemptions from the definition of “investment firm”[^key-c5ab081e713efea9d6ee420724fd8d7a]
+## SCHEDULE 3 — Exemptions from the definition of “investment firm”[^c-c5ab081e713efea9d6ee420724fd8d7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ Article 3(1)
   - (iii) managing the underwriting capacity of a Lloyd's syndicate under article 57,
 
   when carrying on those activities (and any other activities permitted by rules made by the FCA or the PRA under the Act);
-- (ba)[^key-6c12c4d52d8e58e3afbb5a42bc409261] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ba)[^c-6c12c4d52d8e58e3afbb5a42bc409261] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a person (“P”) providing investment services exclusively for P's parent undertakings, for P's subsidiaries or for other subsidiaries of P's parent undertakings;
 - (d) a person providing an investment service where that service is provided in an incidental manner in the course of a professional activity and that activity is regulated by legal or regulatory provisions or a code of ethics governing the profession which do not exclude the provision of that service;
 - (e) a person dealing on own account in financial instruments other than commodity derivatives or emission allowances or derivatives thereof and not providing any other investment services or performing any other investment activities in financial instruments other than commodity derivatives or emission allowances or derivatives thereof unless such persons—
@@ -64,14 +64,14 @@ Article 3(1)
   - (ii) banking activities requiring permission under Part 4A of the Act (or banking activities which would require such permission if they were carried on in the United Kingdom); or
   - (iii) acting as a market-maker in relation to commodity derivatives;
 - (b) P does not apply a high-frequency algorithmic trading technique; and
-- (c) P reports to the FCA under regulation 47 of the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017[^key-ace0fbbf480b62e605af39b508f4c7b9], upon request, the basis on which P considers that P's activity under points (i) and (ii) is ancillary to P's main business.
+- (c) P reports to the FCA under regulation 47 of the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017[^c-ace0fbbf480b62e605af39b508f4c7b9], upon request, the basis on which P considers that P's activity under points (i) and (ii) is ancillary to P's main business.
 
-**2A.**[^key-97e097ba15867ad3e3ee536df8d4332f] ​The FCA may make rules specifying the following for the purposes of determining whether P is excluded from the definition of “investment firm” under paragraph 1(k)—
+**2A.**[^c-97e097ba15867ad3e3ee536df8d4332f] ​The FCA may make rules specifying the following for the purposes of determining whether P is excluded from the definition of “investment firm” under paragraph 1(k)—
 
 - (a) the criteria for establishing when an activity is ancillary to P’s main business on a group basis under paragraph 1A(a), and
 - (b) the annual threshold referred to in paragraph 1A(b) and the criteria for establishing when an activity is below that threshold.
 
-**3.** The exemption in paragraph 1(o)[^key-72910c1d32585e3112f4ca0a50a35e1e]—
+**3.** The exemption in paragraph 1(o)[^c-72910c1d32585e3112f4ca0a50a35e1e]—
 
 - (a) only applies to the persons engaged in the activities set out in that sub-paragraph where they perform investment activities or provide investment services relating to commodity derivatives in order to carry out those activities;
 - (b) does not apply with regard to the operation of a secondary market, including a platform for secondary trading in financial transmission rights.
@@ -88,7 +88,7 @@ Article 3(1)
 - (b) the provision of investment services to the clients of the main professional activity does not aim to provide a systematic source of income to the person providing the professional activity; and
 - (c) the persons providing the professional activity do not market or otherwise promote their ability to provide investment services, except where these are disclosed to clients as being accessory to the main professional activity.
 
-### Part 3 — Direct electronic access and high-frequency algorithmic trading technique[^key-6607dc8dec25034d58b374718ab4b268]
+### Part 3 — Direct electronic access and high-frequency algorithmic trading technique[^c-6607dc8dec25034d58b374718ab4b268]
 
 #### 7. “Direct electronic access”
 
@@ -156,18 +156,18 @@ Any expression used in this Part of this Schedule which is used in the markets i
 
 ## Annotations
 
-[^key-c5ab081e713efea9d6ee420724fd8d7a]: Textual amendment: Sch. 3 substituted (31.12.2020) by The Markets in [Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [4(8)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/4/8) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1233](https://www.legislation.gov.uk/uksi/2019/1233), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1233/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2019/1233/regulation/3) and [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [16(2)(c)](https://www.legislation.gov.uk/uksi/2019/710/regulation/16/2/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c5ab081e713efea9d6ee420724fd8d7a]: Textual amendment: Sch. 3 substituted (31.12.2020) by The Markets in [Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [4(8)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/4/8) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1233](https://www.legislation.gov.uk/uksi/2019/1233), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1233/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2019/1233/regulation/3) and [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [16(2)(c)](https://www.legislation.gov.uk/uksi/2019/710/regulation/16/2/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23494041]: Marginal citation: [1871 c.xxi](https://www.legislation.gov.uk/ukla/1871/21)
 
-[^key-6c12c4d52d8e58e3afbb5a42bc409261]: Textual amendment: Sch. 3 para. 1(ba) omitted (31.12.2024) by virtue of [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2/b), [13](https://www.legislation.gov.uk/uksi/2024/1083/regulation/13)
+[^c-6c12c4d52d8e58e3afbb5a42bc409261]: Textual amendment: Sch. 3 para. 1(ba) omitted (31.12.2024) by virtue of [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2/b), [13](https://www.legislation.gov.uk/uksi/2024/1083/regulation/13)
 
 [^c23494051]: Marginal citation: [S.I. 2012/3038](https://www.legislation.gov.uk/uksi/2012/3038).
 
-[^key-ace0fbbf480b62e605af39b508f4c7b9]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 2(c)](https://www.legislation.gov.uk/uksi/2001/544/schedule/3/part/1/paragraph/2/c) substituted (1.1.2025) by [The Financial Services and Markets Act 2000 (Commodity Derivatives and Emission Allowances) Order 2023 (S.I. 2023/548)](https://www.legislation.gov.uk/uksi/2023/548), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2023/548/article/2/5)
+[^c-ace0fbbf480b62e605af39b508f4c7b9]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 2(c)](https://www.legislation.gov.uk/uksi/2001/544/schedule/3/part/1/paragraph/2/c) substituted (1.1.2025) by [The Financial Services and Markets Act 2000 (Commodity Derivatives and Emission Allowances) Order 2023 (S.I. 2023/548)](https://www.legislation.gov.uk/uksi/2023/548), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2023/548/article/2/5)
 
-[^key-97e097ba15867ad3e3ee536df8d4332f]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/uksi/2001/544/schedule/3/paragraph/2A) inserted (10.12.2025) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2025 (S.I. 2025/1205)](https://www.legislation.gov.uk/uksi/2025/1205), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1205/article/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2025/1205/article/2/d)
+[^c-97e097ba15867ad3e3ee536df8d4332f]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/uksi/2001/544/schedule/3/paragraph/2A) inserted (10.12.2025) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2025 (S.I. 2025/1205)](https://www.legislation.gov.uk/uksi/2025/1205), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1205/article/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2025/1205/article/2/d)
 
-[^key-72910c1d32585e3112f4ca0a50a35e1e]: Textual amendment: Words in Sch. 3 para. 3 substituted (23.10.2025) by [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/8/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
+[^c-72910c1d32585e3112f4ca0a50a35e1e]: Textual amendment: Words in Sch. 3 para. 3 substituted (23.10.2025) by [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/8/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
 
-[^key-6607dc8dec25034d58b374718ab4b268]: Textual amendment: Sch. 3 Pt. 3 inserted (23.10.2025) by [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/8/3) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
+[^c-6607dc8dec25034d58b374718ab4b268]: Textual amendment: Sch. 3 Pt. 3 inserted (23.10.2025) by [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/8/3) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))

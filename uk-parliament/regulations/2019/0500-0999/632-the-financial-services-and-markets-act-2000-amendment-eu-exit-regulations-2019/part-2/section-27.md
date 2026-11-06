@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Section 66A (misconduct: action by the FCA)[^key-caded1371c4d11040a21cd1e2a2345c3]
+## 27. Section 66A (misconduct: action by the FCA)[^c-caded1371c4d11040a21cd1e2a2345c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 66A (misconduct: action by the FCA) in subsection (4)(b) [^c23657511]
 
 ## Annotations
 
-[^key-caded1371c4d11040a21cd1e2a2345c3]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-caded1371c4d11040a21cd1e2a2345c3]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657511]: Marginal citation: Section 66A was inserted by section 32(2) of the Financial Services (Banking Reform) Act 2013.

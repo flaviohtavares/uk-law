@@ -42,7 +42,7 @@ An Act of Senedd Cymru to promote the use of British Sign Language in Wales.
 
 ## Introduction
 
-### 1. British Sign Language[^key-5e1da469c608d74dfcb783280f407d36]
+### 1. British Sign Language[^c-5e1da469c608d74dfcb783280f407d36]
 
 (1) References in this Act to “BSL” are to—
 
@@ -53,11 +53,11 @@ An Act of Senedd Cymru to promote the use of British Sign Language in Wales.
 
 ## Promoting BSL
 
-### 2. Welsh Ministers’ duty to promote BSL[^key-9841f8648fcffbb50c67f750bb2e732d]
+### 2. Welsh Ministers’ duty to promote BSL[^c-9841f8648fcffbb50c67f750bb2e732d]
 
 The Welsh Ministers must promote and facilitate the use of BSL.
 
-### 3. National BSL strategy[^key-972d758b524f023bdf047e6b2eca45f4]
+### 3. National BSL strategy[^c-972d758b524f023bdf047e6b2eca45f4]
 
 (1) In order to fulfil the duty under section 2, the Welsh Ministers must prepare and publish a national strategy (a “BSL strategy”).
 
@@ -95,7 +95,7 @@ The Welsh Ministers must promote and facilitate the use of BSL.
   - (i) providing sufficient information to enable them to properly consider what is proposed, and
   - (ii) providing sufficient time to enable them to adequately consider what is proposed and respond.
 
-### 4. BSL guidance[^key-2a1a83c0f287caa3debda28f86f60f47]
+### 4. BSL guidance[^c-2a1a83c0f287caa3debda28f86f60f47]
 
 (1) The Welsh Ministers must issue guidance to listed public bodies about how they may promote and facilitate the use of BSL in the exercise of their functions.
 
@@ -117,7 +117,7 @@ The Welsh Ministers must promote and facilitate the use of BSL.
 
 ## Listed public body BSL plans
 
-### 5. BSL plans[^key-6298e1399eb20ec0c2f9c254099acb65]
+### 5. BSL plans[^c-6298e1399eb20ec0c2f9c254099acb65]
 
 (1) A listed public body must prepare and publish a BSL plan that—
 
@@ -153,7 +153,7 @@ The Welsh Ministers must promote and facilitate the use of BSL.
 
 ## Adviser to the Welsh Ministers
 
-### 6. BSL adviser[^key-4f63504bc675c69ea535f4fc822422f3]
+### 6. BSL adviser[^c-4f63504bc675c69ea535f4fc822422f3]
 
 (1) The Welsh Ministers must appoint a person as their BSL adviser, and persons to be members of a panel to assist the BSL adviser.
 
@@ -175,7 +175,7 @@ The Welsh Ministers must promote and facilitate the use of BSL.
 
 ## Reporting
 
-### 7. Reports by listed public bodies[^key-65dfe846a96e6546e2b15e09e4033470]
+### 7. Reports by listed public bodies[^c-65dfe846a96e6546e2b15e09e4033470]
 
 (1) Within 12 months beginning with the day after it publishes its BSL plan under section 5 or any revised version of it, a listed public body must prepare and publish a report that—
 
@@ -184,7 +184,7 @@ The Welsh Ministers must promote and facilitate the use of BSL.
 
 (2) The listed public body must send any report published under this section to the Welsh Ministers and ensure that it is available in BSL.
 
-### 8. Reports by the Welsh Ministers[^key-f3e2a2e91ba13ce25b82748bb862fa42]
+### 8. Reports by the Welsh Ministers[^c-f3e2a2e91ba13ce25b82748bb862fa42]
 
 (1) The Welsh Ministers must prepare and publish a report that assesses the progress made in promoting and facilitating the use of BSL in accordance with this Act.
 
@@ -208,7 +208,7 @@ The Welsh Ministers must promote and facilitate the use of BSL.
 
 ## General
 
-### 9. Meaning of “listed public body”[^key-1de2ef7426df44e18d163dfddee71704]
+### 9. Meaning of “listed public body”[^c-1de2ef7426df44e18d163dfddee71704]
 
 (1) For the purposes of this Act, each of the following persons is a “listed public body”—
 
@@ -236,7 +236,7 @@ The Welsh Ministers must promote and facilitate the use of BSL.
 
 (4) In subsection (2)(a), “**devolved Welsh authority**” has the meaning given in section 157A of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-### 10. Regulations[^key-346b466b43f9e2198c8079443af7363b]
+### 10. Regulations[^c-346b466b43f9e2198c8079443af7363b]
 
 (1) A power to make regulations under this Act—
 
@@ -248,11 +248,11 @@ The Welsh Ministers must promote and facilitate the use of BSL.
 
 (3) Regulations under section 5(1)(c) are subject to the Senedd annulment procedure.
 
-### 11. Coming into force[^key-1cafee9bd5147d298e2aebb3615cebd7]
+### 11. Coming into force[^c-1cafee9bd5147d298e2aebb3615cebd7]
 
 This Act comes into force on the day after the day this Act receives Royal Assent.
 
-### 12. Short Title[^key-758e1e716ae52efea1dec7170426cc0f]
+### 12. Short Title[^c-758e1e716ae52efea1dec7170426cc0f]
 
 This Act may be referred to as—
 
@@ -263,74 +263,74 @@ This Act may be referred to as—
 
 (as introduced by section 6)
 
-### 1. BSL adviser[^key-cf4d1077d0c81a6fea9161488845f76a]
+### 1. BSL adviser[^c-cf4d1077d0c81a6fea9161488845f76a]
 
 The Welsh Ministers must be satisfied that the person appointed as BSL adviser—
 
 - (a) is able to communicate effectively in BSL, and
 - (b) has appropriate personal understanding of the experiences of BSL signers.
 
-**2.**[^key-47315f4f84774f728e69bfc36a60e16e] In order to be satisfied as to the matters referred to in paragraph 1, the Welsh Ministers must seek the advice of a BSL signer.
+**2.**[^c-47315f4f84774f728e69bfc36a60e16e] In order to be satisfied as to the matters referred to in paragraph 1, the Welsh Ministers must seek the advice of a BSL signer.
 
-**3.**[^key-ea8d901f8c167659c363d7e4d18897a9] The person appointed as BSL adviser holds office in accordance with the terms of the appointment.
+**3.**[^c-ea8d901f8c167659c363d7e4d18897a9] The person appointed as BSL adviser holds office in accordance with the terms of the appointment.
 
-**4.**[^key-2b56409a8c1bf685d1930a4e9ec43c7b] The Welsh Ministers may pay remuneration, expenses and allowances to the BSL adviser.
+**4.**[^c-2b56409a8c1bf685d1930a4e9ec43c7b] The Welsh Ministers may pay remuneration, expenses and allowances to the BSL adviser.
 
-**5.**[^key-54bcf7d7160c80a3a2e274f24fdc3acd] The Welsh Ministers may pay—
+**5.**[^c-54bcf7d7160c80a3a2e274f24fdc3acd] The Welsh Ministers may pay—
 
 - (a) pensions to, or in respect of, the BSL adviser;
 - (b) amounts for or towards provision of pensions to, or in respect of, persons who have been the BSL adviser.
 
-**6.**[^key-23b7af7a6da126c09cec5a34953b55ff] The Welsh Ministers may provide the BSL adviser with such staff, accommodation, equipment and other facilities as the Welsh Ministers consider necessary for the exercise of the BSL adviser’s functions.
+**6.**[^c-23b7af7a6da126c09cec5a34953b55ff] The Welsh Ministers may provide the BSL adviser with such staff, accommodation, equipment and other facilities as the Welsh Ministers consider necessary for the exercise of the BSL adviser’s functions.
 
-### 7. Panel[^key-d62ef3d2959ba49bcda473c50aa58b04]
+### 7. Panel[^c-d62ef3d2959ba49bcda473c50aa58b04]
 
 Before appointing a person as a member of the panel, the Welsh Ministers must consult the BSL adviser.
 
-**8.**[^key-ac4950a8848b175d07e7f821692576d9] A person appointed as a member of the panel holds office in accordance with the terms of the appointment.
+**8.**[^c-ac4950a8848b175d07e7f821692576d9] A person appointed as a member of the panel holds office in accordance with the terms of the appointment.
 
-**9.**[^key-f3867be9f45f41e66fc6a7c4f0853db9] The Welsh Ministers may pay remuneration, expenses and allowances to a person appointed as a member of the panel.
+**9.**[^c-f3867be9f45f41e66fc6a7c4f0853db9] The Welsh Ministers may pay remuneration, expenses and allowances to a person appointed as a member of the panel.
 
 ## Annotations
 
-[^key-5e1da469c608d74dfcb783280f407d36]: Commencement: S. 1 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-5e1da469c608d74dfcb783280f407d36]: Commencement: S. 1 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-9841f8648fcffbb50c67f750bb2e732d]: Commencement: S. 2 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-9841f8648fcffbb50c67f750bb2e732d]: Commencement: S. 2 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-972d758b524f023bdf047e6b2eca45f4]: Commencement: S. 3 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-972d758b524f023bdf047e6b2eca45f4]: Commencement: S. 3 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-2a1a83c0f287caa3debda28f86f60f47]: Commencement: S. 4 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-2a1a83c0f287caa3debda28f86f60f47]: Commencement: S. 4 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-6298e1399eb20ec0c2f9c254099acb65]: Commencement: S. 5 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-6298e1399eb20ec0c2f9c254099acb65]: Commencement: S. 5 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-4f63504bc675c69ea535f4fc822422f3]: Commencement: S. 6 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-4f63504bc675c69ea535f4fc822422f3]: Commencement: S. 6 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-65dfe846a96e6546e2b15e09e4033470]: Commencement: S. 7 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-65dfe846a96e6546e2b15e09e4033470]: Commencement: S. 7 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-f3e2a2e91ba13ce25b82748bb862fa42]: Commencement: S. 8 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-f3e2a2e91ba13ce25b82748bb862fa42]: Commencement: S. 8 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-1de2ef7426df44e18d163dfddee71704]: Commencement: S. 9 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-1de2ef7426df44e18d163dfddee71704]: Commencement: S. 9 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-346b466b43f9e2198c8079443af7363b]: Commencement: S. 10 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-346b466b43f9e2198c8079443af7363b]: Commencement: S. 10 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-1cafee9bd5147d298e2aebb3615cebd7]: Commencement: S. 11 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-1cafee9bd5147d298e2aebb3615cebd7]: Commencement: S. 11 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-758e1e716ae52efea1dec7170426cc0f]: Commencement: S. 12 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-758e1e716ae52efea1dec7170426cc0f]: Commencement: S. 12 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-cf4d1077d0c81a6fea9161488845f76a]: Commencement: Sch. para. 1 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-cf4d1077d0c81a6fea9161488845f76a]: Commencement: Sch. para. 1 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-47315f4f84774f728e69bfc36a60e16e]: Commencement: Sch. para. 2 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-47315f4f84774f728e69bfc36a60e16e]: Commencement: Sch. para. 2 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-ea8d901f8c167659c363d7e4d18897a9]: Commencement: Sch. para. 3 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-ea8d901f8c167659c363d7e4d18897a9]: Commencement: Sch. para. 3 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-2b56409a8c1bf685d1930a4e9ec43c7b]: Commencement: Sch. para. 4 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-2b56409a8c1bf685d1930a4e9ec43c7b]: Commencement: Sch. para. 4 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-54bcf7d7160c80a3a2e274f24fdc3acd]: Commencement: Sch. para. 5 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-54bcf7d7160c80a3a2e274f24fdc3acd]: Commencement: Sch. para. 5 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-23b7af7a6da126c09cec5a34953b55ff]: Commencement: Sch. para. 6 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-23b7af7a6da126c09cec5a34953b55ff]: Commencement: Sch. para. 6 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-d62ef3d2959ba49bcda473c50aa58b04]: Commencement: Sch. para. 7 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-d62ef3d2959ba49bcda473c50aa58b04]: Commencement: Sch. para. 7 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-ac4950a8848b175d07e7f821692576d9]: Commencement: Sch. para. 8 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-ac4950a8848b175d07e7f821692576d9]: Commencement: Sch. para. 8 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
 
-[^key-f3867be9f45f41e66fc6a7c4f0853db9]: Commencement: Sch. para. 9 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)
+[^c-f3867be9f45f41e66fc6a7c4f0853db9]: Commencement: Sch. para. 9 in force at 28.4.2026, see [s. 11](https://www.legislation.gov.uk/asc/2026/8/section/11)

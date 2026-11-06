@@ -31,7 +31,7 @@ summary: ''
 
   are to those provisions as applied to LLPs by these Regulations or by the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 [^c19765241];
 - (c) references in provisions applied to LLPs to provisions of the Insolvency Act 1986 [^c19765251] or the Insolvency (Northern Ireland) Order 1989 [^c19765261] are to those provisions as applied to LLPs by the Limited Liability Partnerships Regulations 2001 [^c19765271] or the Limited Liability Partnerships Regulations (Northern Ireland) 2004 [^c19765281];
-- (d)[^key-9bd34a92a37bdd4252bd7ff130345ff5] references in provisions applied to LLPs to provisions of the Register of People with Significant Control Regulations 2016 are to those provisions as applied to LLPs by the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016.
+- (d)[^c-9bd34a92a37bdd4252bd7ff130345ff5] references in provisions applied to LLPs to provisions of the Register of People with Significant Control Regulations 2016 are to those provisions as applied to LLPs by the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016.
 
 ## Annotations
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c19765281]: Marginal citation: S.R. (NI) 2004 No 307.
 
-[^key-9bd34a92a37bdd4252bd7ff130345ff5]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/3/2/d) inserted (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/2)
+[^c-9bd34a92a37bdd4252bd7ff130345ff5]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/3/2/d) inserted (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/2)

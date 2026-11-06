@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Bizco 1 and Bizco 4 may enter certain land for purpose of construction[^key-008e6ef3745cdfad28bf1eb734a11ce9]
+## 9. Bizco 1 and Bizco 4 may enter certain land for purpose of construction[^c-008e6ef3745cdfad28bf1eb734a11ce9]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-008e6ef3745cdfad28bf1eb734a11ce9]: Commencement: Art. 9 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-008e6ef3745cdfad28bf1eb734a11ce9]: Commencement: Art. 9 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28A. Further provision about removal of material from the register[^key-72a95a131b3e692366bddf48d1941100]
+## 28A. Further provision about removal of material from the register[^c-72a95a131b3e692366bddf48d1941100]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72a95a131b3e692366bddf48d1941100]: Textual amendment: [Ss. 28](https://www.legislation.gov.uk/ukpga/2022/10/section/28), [28A](https://www.legislation.gov.uk/ukpga/2022/10/section/28A) substituted for [s. 28](https://www.legislation.gov.uk/ukpga/2022/10/section/28) (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 170(1)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/170/1/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z54)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z54)
+[^c-72a95a131b3e692366bddf48d1941100]: Textual amendment: [Ss. 28](https://www.legislation.gov.uk/ukpga/2022/10/section/28), [28A](https://www.legislation.gov.uk/ukpga/2022/10/section/28A) substituted for [s. 28](https://www.legislation.gov.uk/ukpga/2022/10/section/28) (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 170(1)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/170/1/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z54)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z54)

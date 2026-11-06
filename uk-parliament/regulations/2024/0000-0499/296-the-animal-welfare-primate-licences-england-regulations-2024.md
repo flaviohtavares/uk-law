@@ -48,7 +48,7 @@ In accordance with section 61(2) of that Act, a draft of this instrument has bee
 
 ## PART 1 — General
 
-### 1. Citation, commencement, extent and application[^key-8dfaf7f03e1a7be105a89329dc1ed699]
+### 1. Citation, commencement, extent and application[^c-8dfaf7f03e1a7be105a89329dc1ed699]
 
 (1) These Regulations may be cited as the Animal Welfare (Primate Licences) (England) Regulations 2024.
 
@@ -65,7 +65,7 @@ In accordance with section 61(2) of that Act, a draft of this instrument has bee
 
 (5) These Regulations apply to the keeping of a primate in England.
 
-### 2. General Interpretation[^key-10282a3a017e7def0bf5819c189c72e2]
+### 2. General Interpretation[^c-10282a3a017e7def0bf5819c189c72e2]
 
 In these Regulations—
 
@@ -80,7 +80,7 @@ In these Regulations—
   - (b) any other person who, in the view of the local authority, is suitably qualified and competent to carry out the inspection;
 - “**veterinarian**” means a person registered in the register of veterinary surgeons or the supplementary veterinary register kept under the Veterinary Surgeons Act 1966[^f00002].
 
-### 3. Meaning of “keep”[^key-3a3db2d247e2f33f429550a4fda2a683]
+### 3. Meaning of “keep”[^c-3a3db2d247e2f33f429550a4fda2a683]
 
 (1) For the purposes of these Regulations, a person “keeps” a primate if the person has it in their possession, except where the person has it in their possession for the purposes of—
 
@@ -91,14 +91,14 @@ In these Regulations—
 
 (2) Where a primate ceases to be in the possession of a person who kept it in England and the primate remains in England, that person is to be regarded as continuing to keep it for the purposes of these Regulations until another person does so.
 
-### 4. Keeping primates: licensable activity[^key-e513951ef23896b0936c8c0a8ba737ac]
+### 4. Keeping primates: licensable activity[^c-e513951ef23896b0936c8c0a8ba737ac]
 
 Section 13(1) of the Act applies to the keeping of a primate other than where the primate is kept in—
 
 - (a) a zoo within the meaning of the Zoo Licensing Act 1981[^f00003] and a licence in respect of that zoo is in force under that Act; or
 - (b) a place specified in a licence under section 2C of the Animals (Scientific Procedures) Act 1986[^f00004].
 
-### 5. Licensing authority[^key-675b1898f982cc6712d5cc98f6077fc4]
+### 5. Licensing authority[^c-675b1898f982cc6712d5cc98f6077fc4]
 
 (1) The licensing authority for the purposes of these Regulations is the local authority in whose area the premises at which a primate is kept or is to be kept are situated.
 
@@ -106,7 +106,7 @@ Section 13(1) of the Act applies to the keeping of a primate other than where th
 
 ## PART 2 — Primate licences: operation
 
-### 6. Applications[^key-6d4fb8b81d1fd477e1953e676e1dd627]
+### 6. Applications[^c-6d4fb8b81d1fd477e1953e676e1dd627]
 
 (1) An individual who keeps or is proposing to keep a primate at any premises in England may apply for a primate licence to the local authority in whose area the premises are situated.
 
@@ -139,7 +139,7 @@ Section 13(1) of the Act applies to the keeping of a primate other than where th
 - (c) section 40(1) of the Animal Health and Welfare (Scotland) Act 2006[^f00006]; or
 - (d) section 33(1) of the Welfare of Animals Act (Northern Ireland) 2011[^f00007].
 
-### 7. Determination of applications[^key-98909adec407106b4cc4935e81b31b46]
+### 7. Determination of applications[^c-98909adec407106b4cc4935e81b31b46]
 
 (1) Before determining whether to grant an application for a primate licence, the local authority to which the application has been made must arrange for a suitable person to inspect the premises specified in the application to determine whether the licence conditions are likely to be met if the application were to be granted.
 
@@ -153,7 +153,7 @@ Section 13(1) of the Act applies to the keeping of a primate other than where th
 - (a) any previous failure by the applicant to meet the licence conditions; and
 - (b) any other conduct of the applicant that is relevant.
 
-### 8. Primate licences and conditions[^key-0ff0477cd6c6ade47800c2bfe575c77c]
+### 8. Primate licences and conditions[^c-0ff0477cd6c6ade47800c2bfe575c77c]
 
 (1) When granting a primate licence under regulation 7(2)(a), the local authority must—
 
@@ -169,7 +169,7 @@ Section 13(1) of the Act applies to the keeping of a primate other than where th
 - (a) three years; or
 - (b) where the applicant has requested a licence for a period of less than three years, such shorter period expiring on the date that the applicant has requested.
 
-### 9. Variation and surrender[^key-14cd9052691d79d477f2527f2e67ba52]
+### 9. Variation and surrender[^c-14cd9052691d79d477f2527f2e67ba52]
 
 (1) The holder of a primate licence may apply to the local authority that granted it to vary the licence so as to—
 
@@ -189,7 +189,7 @@ Section 13(1) of the Act applies to the keeping of a primate other than where th
 
 (5) On an application under paragraph (4), the local authority must grant the application if satisfied that the holder no longer requires the licence and, when doing so, must specify in writing the date on which the licence is surrendered.
 
-### 10. Renewal[^key-8b9130d6366e2908af7241500c642018]
+### 10. Renewal[^c-8b9130d6366e2908af7241500c642018]
 
 (1) The holder of a primate licence may apply for renewal of the licence to the local authority that granted the licence.
 
@@ -223,7 +223,7 @@ Section 13(1) of the Act applies to the keeping of a primate other than where th
 
 (10) In paragraph (2), “**renewal period**”, in relation to a primate licence, means the period specified in the licence under regulation 8(1)(a)(iv) or paragraph (7)(b).
 
-### 11. Death of the holder of a primate licence[^key-47376482408acee525f38611912ba003]
+### 11. Death of the holder of a primate licence[^c-47376482408acee525f38611912ba003]
 
 (1) This regulation applies where the holder of a primate licence (“former licence holder”) dies during the licence period.
 
@@ -237,7 +237,7 @@ Section 13(1) of the Act applies to the keeping of a primate other than where th
 - (b) the local authority may on application by the personal representatives extend the licence period for a further period of up to three months if satisfied that it is appropriate to do so in all the circumstances; and
 - (c) if before the time when the licence would otherwise expire by virtue of sub-paragraph (a) or (b) any of the personal representatives applies for a new licence under regulation 6, the licence continues to have effect until the application is determined.
 
-### 12. Inspections of licensed premises[^key-4aeaf049137318bc00e9096ba2361e12]
+### 12. Inspections of licensed premises[^c-4aeaf049137318bc00e9096ba2361e12]
 
 (1) A local authority that has granted a primate licence—
 
@@ -246,7 +246,7 @@ Section 13(1) of the Act applies to the keeping of a primate other than where th
 
 (2) An inspection under paragraph (1) must be carried out at a reasonable hour.
 
-### 13. Fees[^key-e39e2a8d309e40d8f0ac595e268fb80a]
+### 13. Fees[^c-e39e2a8d309e40d8f0ac595e268fb80a]
 
 A local authority may—
 
@@ -255,7 +255,7 @@ A local authority may—
 
 ## PART 3 — Enforcement
 
-### 14. Offences[^key-e75bdb0a2a6ccc3056e942c37ac48be9]
+### 14. Offences[^c-e75bdb0a2a6ccc3056e942c37ac48be9]
 
 (1) The holder of a primate licence who fails to comply with a licence condition commits an offence.
 
@@ -263,7 +263,7 @@ A local authority may—
 
 (3) A person who commits an offence under this paragraph is liable on summary conviction to a fine.
 
-### 15. Rectification notices[^key-544f249a134fc7d11be8e32d3db7cfaf]
+### 15. Rectification notices[^c-544f249a134fc7d11be8e32d3db7cfaf]
 
 (1) If a local authority that has granted a primate licence considers that the holder of the licence is failing to meet any of the licence conditions, the local authority may serve a notice under this regulation (a “rectification notice”) on the holder of the licence.
 
@@ -281,7 +281,7 @@ A local authority may—
 
 (4) The local authority may extend the rectification period, and may do so more than once, so long as the rectification period as extended does not exceed two years.
 
-### 16. Revocation or variation of a primate licence[^key-82b25d19f63cae3d994037b52d4caaee]
+### 16. Revocation or variation of a primate licence[^c-82b25d19f63cae3d994037b52d4caaee]
 
 (1) A local authority that has granted a primate licence must revoke it if the holder of the licence is convicted of an offence under the Act.
 
@@ -299,17 +299,17 @@ A local authority may—
 
 ## PART 4 — Decisions relating to primate licences: representation and appeals
 
-### 17. Application of Schedule 2[^key-81a161f7f3f48981aa19898941aaff33]
+### 17. Application of Schedule 2[^c-81a161f7f3f48981aa19898941aaff33]
 
 Schedule 2 (decisions relating to primate licences: representations and appeals) has effect.
 
 ## PART 5 — Supplementary
 
-### 18. Powers of entry[^key-beaf943117b6595198924fcde445db5a]
+### 18. Powers of entry[^c-beaf943117b6595198924fcde445db5a]
 
 Breach of a licence condition is to be treated as a relevant offence for the purposes of section 23 of the Act (entry and search under warrant in connection with offences).
 
-### 19. Post-conviction powers[^key-8afa06bf055136f2762effc81b17d5ec]
+### 19. Post-conviction powers[^c-8afa06bf055136f2762effc81b17d5ec]
 
 The following sections of the Act apply in relation to a conviction for an offence under regulation 14 (and are to be read as if they included a reference to a person who had been convicted of an offence under that regulation)—
 
@@ -318,11 +318,11 @@ The following sections of the Act apply in relation to a conviction for an offen
 - (c) section 37 (destruction in the interests of the animal); and
 - (d) section 42 (orders with respect to licences).
 
-### 20. Guidance[^key-ca7518676d7444212cff3702abc20b4c]
+### 20. Guidance[^c-ca7518676d7444212cff3702abc20b4c]
 
 A local authority must, in the exercise of its functions under these Regulations, have regard to any guidance given by the Secretary of State.
 
-### 21. Information[^key-e2e03f6dc813efea82f57399944b0031]
+### 21. Information[^c-e2e03f6dc813efea82f57399944b0031]
 
 (1) The Secretary of State may require a local authority to provide any of the following information to the Secretary of State—
 
@@ -345,7 +345,7 @@ Department for Environment, Food and Rural Affairs
 
 Regulation 2
 
-### 1. Introductory[^key-08182134515fd35a79e80f54598eec73]
+### 1. Introductory[^c-08182134515fd35a79e80f54598eec73]
 
 In these licence conditions—
 
@@ -360,7 +360,7 @@ In these licence conditions—
   a reference to “**the primates**” is a reference to all or any of the primates for the time being kept by the licence holder at the licensed premises;
 - “**veterinarian**” means a person registered in the register of veterinary surgeons or the supplementary veterinary register kept under the Veterinary Surgeons Act 1966.
 
-### 2. General[^key-425cf2f82a7a8d641eb73142fd4c71f6]
+### 2. General[^c-425cf2f82a7a8d641eb73142fd4c71f6]
 
 The licence holder must have in place arrangements to ensure that—
 
@@ -368,21 +368,21 @@ The licence holder must have in place arrangements to ensure that—
 - (b) at least one individual is at all times in overall charge of the care and management of the primates and has the necessary authority to ensure that the licence conditions are complied with; and
 - (c) any person who is given responsibility for the care or management of the primates under sub-paragraph (a) and (b) is competent to carry out the tasks assigned to him or her.
 
-**3.**[^key-c2d7d02c8c4cae0f058953110632aeab] Each primate must be implanted with a microchip that—
+**3.**[^c-c2d7d02c8c4cae0f058953110632aeab] Each primate must be implanted with a microchip that—
 
 - (a) has a unique number which includes the manufacturer’s code;
 - (b) is compliant with ISO standard 11784:1996 of the International Standards Organisation’s standards for microchips[^f00009];
 - (c) is compliant with ISO standard 11785:1996 of the International Standards Organisation’s standards for microchips apart from Annex A[^f00010]; and
 - (d) responds to a transponder which operates at 134.2 kilohertz and conforms with the FDXB protocol set out in ISO standards 11784:1996 and 11785:1996.
 
-**4.**[^key-f355e8ef329899deeebd189f52d74983] Subject to paragraph 5, the licence holder must ensure that each primate is implanted with a microchip that complies with paragraph 3 before the end of the period of two years beginning with—
+**4.**[^c-f355e8ef329899deeebd189f52d74983] Subject to paragraph 5, the licence holder must ensure that each primate is implanted with a microchip that complies with paragraph 3 before the end of the period of two years beginning with—
 
 - (a) where the primate was born on the licensed premises or other premises of the licence holder, the day on which the primate was born;
 - (b) in any other case, the day on which the licence holder first took possession of the primate.
 
-**5.**[^key-27412a8fcf825837db0158cda9b68f51] In the case of a primate kept by the licence holder before 6th April 2025, the licence holder must ensure that the primate is implanted with a microchip that complies with paragraph 3 on or before 5th April 2027.
+**5.**[^c-27412a8fcf825837db0158cda9b68f51] In the case of a primate kept by the licence holder before 6th April 2025, the licence holder must ensure that the primate is implanted with a microchip that complies with paragraph 3 on or before 5th April 2027.
 
-### 6. Records[^key-5580da7c438574f607e750f96bf9660b]
+### 6. Records[^c-5580da7c438574f607e750f96bf9660b]
 
 (1) The licence holder must keep—
 
@@ -406,19 +406,19 @@ The licence holder must have in place arrangements to ensure that—
 
 (3) The licence holder must keep any such record for at least six years beginning with the date on which the record was first created.
 
-### 7. Emergencies[^key-56b9938f81fce7fad7bc25f7d02d664e]
+### 7. Emergencies[^c-56b9938f81fce7fad7bc25f7d02d664e]
 
 A written emergency plan must be in place and readily accessible and, where necessary, followed to ensure that all appropriate steps are taken to protect the primates and any person on the licensed premises in the event of a fire or other emergency.
 
-**8.**[^key-be091408f57b55fbb870a4e05188b666] The plan must include details of—
+**8.**[^c-be091408f57b55fbb870a4e05188b666] The plan must include details of—
 
 - (a) the measures to be taken for the removal of the primates should the licensed premises become unsafe or uninhabitable;
 - (b) the arrangements for the care of the primates during and following an emergency; and
 - (c) an up-to-date list of emergency contact details that includes the fire service and police.
 
-**9.**[^key-53d498a1cbc6107cd9ccd8053d0b26e1] The local authority that granted the licence and the police must be notified immediately if a primate escapes from the licensed premises.
+**9.**[^c-53d498a1cbc6107cd9ccd8053d0b26e1] The local authority that granted the licence and the police must be notified immediately if a primate escapes from the licensed premises.
 
-### 10. Written procedures for special circumstances[^key-95283bd138122244b638e1cf59f7cc6f]
+### 10. Written procedures for special circumstances[^c-95283bd138122244b638e1cf59f7cc6f]
 
 Appropriate written procedures must be in place and implemented covering—
 
@@ -426,35 +426,35 @@ Appropriate written procedures must be in place and implemented covering—
 - (b) the death or escape of a primate; and
 - (c) the care of the primates following the revocation of the licence or the death of the licence holder.
 
-**11.**[^key-770561dcd94b4c724f61ae272c2ff73b] The procedures required by paragraph 10(a) must include appropriate arrangements for ensuring that the welfare needs of any primate that is being temporarily isolated are met during the period of its isolation.
+**11.**[^c-770561dcd94b4c724f61ae272c2ff73b] The procedures required by paragraph 10(a) must include appropriate arrangements for ensuring that the welfare needs of any primate that is being temporarily isolated are met during the period of its isolation.
 
-### 12. Nutrition and feeding[^key-df92d268304b2c01cb3ca2d3f2e4f9d8]
+### 12. Nutrition and feeding[^c-df92d268304b2c01cb3ca2d3f2e4f9d8]
 
 Each primate must be provided with a suitable diet in terms of nutritive value, quality, quantity and frequency.
 
-**13.**[^key-d104e1ea6791c328baa6869dfae613c4] Food must be presented in an appropriate manner and at appropriate intervals for the primates in the enclosure and must be placed in suitable positions in each enclosure so as to—
+**13.**[^c-d104e1ea6791c328baa6869dfae613c4] Food must be presented in an appropriate manner and at appropriate intervals for the primates in the enclosure and must be placed in suitable positions in each enclosure so as to—
 
 - (a) minimise negative interactions between the primates in the enclosure and resource guarding by individual primates; and
 - (b) allow the primates to exhibit and develop their natural feeding and foraging behaviours.
 
-**14.**[^key-e05322e29aabc49976a886300a446722] Access to fresh, clean drinking water must be provided in suitable receptacles in each enclosure which is adequate to meet the needs of the primates in that enclosure and is made available in a manner that minimises negative interactions between primates.
+**14.**[^c-e05322e29aabc49976a886300a446722] Access to fresh, clean drinking water must be provided in suitable receptacles in each enclosure which is adequate to meet the needs of the primates in that enclosure and is made available in a manner that minimises negative interactions between primates.
 
-**15.**[^key-e11fe5e89a29c2ab3986ce618b4e4932] The receptacles used for feeding and providing water to the primates must be cleaned daily and more regularly where this is necessary to maintain hygienic standards.
+**15.**[^c-e11fe5e89a29c2ab3986ce618b4e4932] The receptacles used for feeding and providing water to the primates must be cleaned daily and more regularly where this is necessary to maintain hygienic standards.
 
-**16.**[^key-7e77bea3bd1d570e868cc79e0e161665] The facilities for the preparation of food for the primates and the equipment used for food preparation must be hygienically maintained.
+**16.**[^c-7e77bea3bd1d570e868cc79e0e161665] The facilities for the preparation of food for the primates and the equipment used for food preparation must be hygienically maintained.
 
-**17.**[^key-3a35f5eb4e2b634a26bb2a7f11ce7d1e] Food supplies for the primates must be stored in appropriate conditions.
+**17.**[^c-3a35f5eb4e2b634a26bb2a7f11ce7d1e] Food supplies for the primates must be stored in appropriate conditions.
 
-**18.**[^key-a1b8fd52cfdc2fd9347e9a069fe1c750] An individually tailored diet plan must be maintained for each primate which details the food that the primate is to receive daily and is adequate to ensure that the primate receives an appropriate balance of daily fresh produce, commercially prepared food and fresh edible plant material in a suitable natural form.
+**18.**[^c-a1b8fd52cfdc2fd9347e9a069fe1c750] An individually tailored diet plan must be maintained for each primate which details the food that the primate is to receive daily and is adequate to ensure that the primate receives an appropriate balance of daily fresh produce, commercially prepared food and fresh edible plant material in a suitable natural form.
 
-**19.**[^key-eaee1fc70fc0bb5ebc8a18141b8714f5] The diet plan of each primate must be—
+**19.**[^c-eaee1fc70fc0bb5ebc8a18141b8714f5] The diet plan of each primate must be—
 
 - (a) based on advice or guidance given by an appropriate expert; and
 - (b) reviewed every 12 months or, where necessary, at more frequent intervals.
 
-**20.**[^key-a6cfa230c9a6a34db7674c830c7cd15b] The licence holder must maintain a record of the advice or guidance used to prepare each diet plan and the dates on which each such plan has been reviewed or updated.
+**20.**[^c-a6cfa230c9a6a34db7674c830c7cd15b] The licence holder must maintain a record of the advice or guidance used to prepare each diet plan and the dates on which each such plan has been reviewed or updated.
 
-### 21. Physical health[^key-34d2e2b7339aef4b7ce068e05261f007]
+### 21. Physical health[^c-34d2e2b7339aef4b7ce068e05261f007]
 
 The licence holder must register the primates with a veterinarian who has agreed to provide the following—
 
@@ -464,7 +464,7 @@ The licence holder must register the primates with a veterinarian who has agreed
 - (d) monitor the health and welfare of each primate; and
 - (e) advice and assistance in an emergency.
 
-**22.**[^key-d2a620cc1dc571eb51f8b79793ef49f5] The licence holder must ensure that—
+**22.**[^c-d2a620cc1dc571eb51f8b79793ef49f5] The licence holder must ensure that—
 
 - (a) the primates are monitored daily for signs of pain, suffering, injury, disease or abnormal behaviour and that any vulnerable animals are checked more frequently;
 - (b) the primates are weighed monthly;
@@ -477,9 +477,9 @@ The licence holder must register the primates with a veterinarian who has agreed
   - (iv) where a primate must be quarantined or isolated to protect its own health or welfare, the reasons for the quarantine or isolation and the length of the quarantine or isolation; and
 - (f) written procedures are in place for the purpose of implementing the requirements in sub-paragraphs (a) to (d).
 
-**23.**[^key-9a1fc65214f1c287f6e89771f72b1d85] No primate may be euthanised except by a veterinarian.
+**23.**[^c-9a1fc65214f1c287f6e89771f72b1d85] No primate may be euthanised except by a veterinarian.
 
-### 24. Environment[^key-cf6b3586fa2e6f673400b641d3358dd1]
+### 24. Environment[^c-cf6b3586fa2e6f673400b641d3358dd1]
 
 Each primate must be kept in an enclosure on the licensed premises which meets the requirements specified in paragraphs 25 to 29 unless—
 
@@ -491,7 +491,7 @@ Each primate must be kept in an enclosure on the licensed premises which meets t
   - (ii) to the licensed premises from other premises of the licence holder or from the premises of its previous keeper; or
 - (e) a veterinarian has advised that the primate be removed from the enclosure and the removal is carried out in accordance with the veterinarian’s instructions or under the supervision of the veterinarian.
 
-**25.**[^key-38093efef053fc40132dd6e9d534e88d] Each enclosure on the licensed premises must—
+**25.**[^c-38093efef053fc40132dd6e9d534e88d] Each enclosure on the licensed premises must—
 
 - (a) include an indoor and outdoor area; and
 - (b) be suitable for the primates being kept in it, whether on an individual basis or as part of a social group, with respect to—
@@ -501,7 +501,7 @@ Each primate must be kept in an enclosure on the licensed premises which meets t
   - (iv) its structural elements; and
   - (v) the materials used in the construction of the enclosure.
 
-**26.**[^key-2b38d6a4db79c5a7a8161a9f0bfde9f9] Each enclosure must be designed and maintained so as to—
+**26.**[^c-2b38d6a4db79c5a7a8161a9f0bfde9f9] Each enclosure must be designed and maintained so as to—
 
 - (a) provide its occupants with a clean and comfortable environment;
 - (b) present minimal risks of injury or harm to any of its occupants;
@@ -513,16 +513,16 @@ Each primate must be kept in an enclosure on the licensed premises which meets t
 - (h) ensure that its occupants can be safely separated in a part of the enclosure on a temporary basis whilst the remaining parts of the enclosure are being cleaned, maintained or repaired; and
 - (i) ensure that any occupant can be separated temporarily from the other occupants for the purpose of ensuring its own safety, for medical reasons or for managing the interactions between its occupants.
 
-**27.**[^key-a45d55fbf7c80d579f67c184c6df62c9] Each enclosure must be equipped and maintained with—
+**27.**[^c-a45d55fbf7c80d579f67c184c6df62c9] Each enclosure must be equipped and maintained with—
 
 - (a) safe climbing and hanging structures which are suitable for its occupants in terms of variety and complexity and allow its occupants, individually or in groups, to exhibit their natural behaviours whilst minimising negative interactions between its occupants;
 - (b) safe resting sites and platforms, bedding material, nesting opportunities and organic material for foraging which are suitable for its occupants and allow its occupants, individually or in groups to exhibit their natural behaviours whilst minimising negative interactions between its occupants;
 - (c) safe sheltered cover in the outdoor area that provides enough shelter and shade for all of its occupants at any one time; and
 - (d) suitable natural planting in the outdoor area for the purpose of providing natural foraging opportunities, privacy and shade.
 
-**28.**[^key-a5f51c63cae9d00209e6939c234980af] Each enclosure must be designed and equipped to allow the environmental quality in the enclosure to be artificially maintained at appropriate levels for its occupants when occupied.
+**28.**[^c-a5f51c63cae9d00209e6939c234980af] Each enclosure must be designed and equipped to allow the environmental quality in the enclosure to be artificially maintained at appropriate levels for its occupants when occupied.
 
-**29.**[^key-4413785aae3ade339804772c4a5348c1] The environmental quality of each enclosure must be maintained at appropriate levels for its occupants, including with respect to—
+**29.**[^c-4413785aae3ade339804772c4a5348c1] The environmental quality of each enclosure must be maintained at appropriate levels for its occupants, including with respect to—
 
 - (a) temperature;
 - (b) ventilation;
@@ -531,38 +531,38 @@ Each primate must be kept in an enclosure on the licensed premises which meets t
 - (e) noise; and
 - (f) cleanliness.
 
-**30.**[^key-101d00c58015d4e2920c310e441b1603] The cleaning and disinfecting of each enclosure must be undertaken—
+**30.**[^c-101d00c58015d4e2920c310e441b1603] The cleaning and disinfecting of each enclosure must be undertaken—
 
 - (a) at a frequency, and in a way, that does not cause distress, suffering or avoidable discomfort for the primates in the enclosure; and
 - (b) takes into consideration their natural behaviours.
 
-**31.**[^key-a50471815505b58cc50fb85a60d3c473] A written hygiene protocol must be kept for the purpose of ensuring that—
+**31.**[^c-a50471815505b58cc50fb85a60d3c473] A written hygiene protocol must be kept for the purpose of ensuring that—
 
 - (a) each enclosure is maintained in an appropriate state of cleanliness and the risk of disease transmission is reduced; and
 - (b) the cleaning and disinfecting of the enclosure is carried out in the manner specified in paragraph 30.
 
-**32.**[^key-a276e6ebe18da28e7b1523744419d034] Each primate must be given permanent access to the indoor area of the enclosure and sufficient daily access to the outdoor area of the enclosure.
+**32.**[^c-a276e6ebe18da28e7b1523744419d034] Each primate must be given permanent access to the indoor area of the enclosure and sufficient daily access to the outdoor area of the enclosure.
 
-### 33. Behaviour[^key-f0ba8daa20404b038bc5991907792d97]
+### 33. Behaviour[^c-f0ba8daa20404b038bc5991907792d97]
 
 The primates must be housed and kept in appropriate social groups, except where it is necessary to keep a primate temporarily on its own to avoid negative interactions with other primates in the enclosure or a veterinarian has advised that a primate be kept temporarily on its own.
 
-**34.**[^key-b60322fe01f5e07d0be824093b347aaa] The primates must be allowed to express appropriate natural behaviours and inappropriate or abnormal natural behaviours must be effectively addressed without delay.
+**34.**[^c-b60322fe01f5e07d0be824093b347aaa] The primates must be allowed to express appropriate natural behaviours and inappropriate or abnormal natural behaviours must be effectively addressed without delay.
 
-**35.**[^key-1d71c6c4f7219d6c64c77cdcaba3d118] The primates must be provided with suitable enrichment material for the purpose of drawing out appropriate natural behaviours and providing them with suitable social, physical, sensory and cognitive stimuli.
+**35.**[^c-1d71c6c4f7219d6c64c77cdcaba3d118] The primates must be provided with suitable enrichment material for the purpose of drawing out appropriate natural behaviours and providing them with suitable social, physical, sensory and cognitive stimuli.
 
-**36.**[^key-45329fff85b9bd6728920dc726145050] Mixed species may only be kept together in the same enclosure where advice from an appropriate expert has first been obtained and the animals are kept in accordance with this advice.
+**36.**[^c-45329fff85b9bd6728920dc726145050] Mixed species may only be kept together in the same enclosure where advice from an appropriate expert has first been obtained and the animals are kept in accordance with this advice.
 
-**37.**[^key-a29b38bb38339b43e4ec55e268de6a45] The licence holder must ensure that—
+**37.**[^c-a29b38bb38339b43e4ec55e268de6a45] The licence holder must ensure that—
 
 - (a) the primates’ behaviour is monitored appropriately;
 - (b) a record is kept in relation to each primate of any inappropriate or abnormal behaviour exhibited by that primate;
 - (c) an up-to-date plan for addressing inappropriate or abnormal behaviour by any primate is kept; and
 - (d) where abnormal behaviour is observed, advice from an appropriate expert is sought promptly.
 
-**38.**[^key-0667e878f0bf4f8dd4a91e89bb220745] No primate must be left unattended in a situation, or for any period, that is likely to cause it distress.
+**38.**[^c-0667e878f0bf4f8dd4a91e89bb220745] No primate must be left unattended in a situation, or for any period, that is likely to cause it distress.
 
-### 39. Handling and restraint[^key-2dc237b64867bdbafb9b8387900da695]
+### 39. Handling and restraint[^c-2dc237b64867bdbafb9b8387900da695]
 
 No primate may be handled or restrained except by a person who is competent to handle and restrain it safely and appropriately, and except insofar as—
 
@@ -574,14 +574,14 @@ No primate may be handled or restrained except by a person who is competent to h
   - (ii) to the licensed premises from other premises of the licence holder or from the premises of its previous keeper; or
 - (e) a veterinarian has advised that the primate be removed from the enclosure and the removal is carried out in accordance with the veterinarian’s instructions or under the supervision of the veterinarian.
 
-**40.**[^key-24b343f52806be7fe7adf5c519689a32] Where a primate is handled or restrained, the licence holder must ensure that—
+**40.**[^c-24b343f52806be7fe7adf5c519689a32] Where a primate is handled or restrained, the licence holder must ensure that—
 
 - (a) the primate is handled and restrained with appropriate care and in a manner that avoids unnecessary discomfort, stress or physical harm; and
 - (b) the period in which the primate is handled or restrained is minimised.
 
-**41.**[^key-9551f4275c16c4e22ae1fa54eb65f371] Sedation must not be used for the purpose of capturing a primate unless it is performed under veterinary supervision.
+**41.**[^c-9551f4275c16c4e22ae1fa54eb65f371] Sedation must not be used for the purpose of capturing a primate unless it is performed under veterinary supervision.
 
-### 42. Transport[^key-8c12942300ccb4b9def0de6c443102c6]
+### 42. Transport[^c-8c12942300ccb4b9def0de6c443102c6]
 
 No primate may be transported unless—
 
@@ -591,7 +591,7 @@ No primate may be transported unless—
   - (i) from the licensed premises to other premises of the licence holder or to the premises of its new keeper; or
   - (ii) to the licensed premises from other premises of the licence holder or from the premises its previous keeper.
 
-**43.**[^key-315b98be8d764e1597f4642f412bcafc] Where a primate is to be transported or is being transported, the licence holder must ensure that—
+**43.**[^c-315b98be8d764e1597f4642f412bcafc] Where a primate is to be transported or is being transported, the licence holder must ensure that—
 
 - (a) the means of transport and the crates or container in which the primate is to be transported are appropriate;
 - (b) the facilities for loading and unloading the crate or container containing the primate onto or from the means of transport are appropriate;
@@ -601,23 +601,23 @@ No primate may be transported unless—
 - (f) the primate is not left unattended at any point during the journey; and
 - (g) the enclosure at the place of destination is suitable for the primate.
 
-**44.**[^key-20fe37e6f20bb279ecd24e39e2b8eaf3] The licence holder must have in place a written procedure for the purpose of ensuring that the requirements in paragraph 43 will be met in relation to the transportation of any primate.
+**44.**[^c-20fe37e6f20bb279ecd24e39e2b8eaf3] The licence holder must have in place a written procedure for the purpose of ensuring that the requirements in paragraph 43 will be met in relation to the transportation of any primate.
 
-### 45. Breeding[^key-319348720d5df4791d002dfd778c8433]
+### 45. Breeding[^c-319348720d5df4791d002dfd778c8433]
 
 No breeding may be carried out except under the supervision of the named veterinarian and in accordance with a breeding health and management plan provided by the veterinarian.
 
-**46.**[^key-c0adc8f8e8cab47d89d432a9bc6890d8] No breeding may be carried out if the number of additional primates born would result in the maximum number of primates that are authorised to be kept under the licence being exceeded.
+**46.**[^c-c0adc8f8e8cab47d89d432a9bc6890d8] No breeding may be carried out if the number of additional primates born would result in the maximum number of primates that are authorised to be kept under the licence being exceeded.
 
-**47.**[^key-87ec1cc64f4d697b091a89a885043a4e] All non-breeding primates must be given contraception under supervision of the named veterinarian.
+**47.**[^c-87ec1cc64f4d697b091a89a885043a4e] All non-breeding primates must be given contraception under supervision of the named veterinarian.
 
-**48.**[^key-60b3b7f55ba66913f205645f882bb33d] A mother and her infant may only be separated if advised to do so by the named veterinarian and this is done in accordance with the veterinarian’s advice.
+**48.**[^c-60b3b7f55ba66913f205645f882bb33d] A mother and her infant may only be separated if advised to do so by the named veterinarian and this is done in accordance with the veterinarian’s advice.
 
 ## SCHEDULE 2 — Decisions relating to primate licences: representations and appeals
 
 Regulation 17
 
-### 1. Application of this Schedule[^key-3a0a250e97f36590992cda70ee8b22b7]
+### 1. Application of this Schedule[^c-3a0a250e97f36590992cda70ee8b22b7]
 
 This Schedule applies in relation to a decision by a local authority to—
 
@@ -625,27 +625,27 @@ This Schedule applies in relation to a decision by a local authority to—
 - (b) give a rectification notice to a person under regulation 15; or
 - (c) revoke or vary a person’s primate licence under regulation 16.
 
-### 2. Representations[^key-2efa25baf23282a5dd7a14e668b3d346]
+### 2. Representations[^c-2efa25baf23282a5dd7a14e668b3d346]
 
 The local authority must inform the person of their right to make representations under this Schedule.
 
-**3.**[^key-a02d5529586f7038822e3fe650edf129] The person may make written representations to the local authority within the period of 28 days beginning with the date on which the person is first notified of the decision.
+**3.**[^c-a02d5529586f7038822e3fe650edf129] The person may make written representations to the local authority within the period of 28 days beginning with the date on which the person is first notified of the decision.
 
-### 4. Reconsideration[^key-59abbc7f25b8c83aa14d2f08b1072912]
+### 4. Reconsideration[^c-59abbc7f25b8c83aa14d2f08b1072912]
 
 If the person makes written representations within the period referred to in paragraph 3, the local authority must reconsider the decision.
 
-**5.**[^key-4d5a7c27f809badf5fdd7005e28dd81c] The local authority must notify the person of the outcome.
+**5.**[^c-4d5a7c27f809badf5fdd7005e28dd81c] The local authority must notify the person of the outcome.
 
-**6.**[^key-65db1e7f87c9426d838ea0c33ea10bd5] If the outcome of the reconsideration is to grant the application, vary or withdraw the notice or rescind the revocation or variation, the local authority must do that.
+**6.**[^c-65db1e7f87c9426d838ea0c33ea10bd5] If the outcome of the reconsideration is to grant the application, vary or withdraw the notice or rescind the revocation or variation, the local authority must do that.
 
-**7.**[^key-8f5863cce24633f9e68f8d68a8428388] If the outcome is to continue to refuse the application, to proceed with the notice (with or without variation) or to proceed with the revocation or variation, the local authority must also notify the person of their right to appeal.
+**7.**[^c-8f5863cce24633f9e68f8d68a8428388] If the outcome is to continue to refuse the application, to proceed with the notice (with or without variation) or to proceed with the revocation or variation, the local authority must also notify the person of their right to appeal.
 
-### 8. Appeals[^key-233147af7d721633aae52d6d58de6ad7]
+### 8. Appeals[^c-233147af7d721633aae52d6d58de6ad7]
 
 In a case referred to in paragraph 7, the person may appeal to the First-tier Tribunal within the period of 28 days beginning with the date on which they are notified under that paragraph.
 
-**9.**[^key-2b76afd9c5ebe066aefd6f7825b43522] On appeal, the First-tier Tribunal may—
+**9.**[^c-2b76afd9c5ebe066aefd6f7825b43522] On appeal, the First-tier Tribunal may—
 
 - (a) uphold the decision of the local authority; or
 - (b) require the local authority (as the case may be) to—
@@ -653,7 +653,7 @@ In a case referred to in paragraph 7, the person may appeal to the First-tier Tr
   - (ii) withdraw or vary the notice; or
   - (iii) rescind the revocation or variation.
 
-### 10. Suspension of local authority decision[^key-abf49ebd892820762e776e05d07bcf14]
+### 10. Suspension of local authority decision[^c-abf49ebd892820762e776e05d07bcf14]
 
 Until the time specified in paragraph 11—
 
@@ -661,7 +661,7 @@ Until the time specified in paragraph 11—
 - (b) a rectification notice does not have effect;
 - (c) the revocation or variation of a licence under regulation 16 does not have effect.
 
-**11.**[^key-1288bb823239f7f408391f6312b51250] For the purposes of paragraph 10, the time is whichever is the later of—
+**11.**[^c-1288bb823239f7f408391f6312b51250] For the purposes of paragraph 10, the time is whichever is the later of—
 
 - (a) the end of the period for making representations under paragraph 3;
 - (b) if representations are made during that period, the end of the period for making an appeal under paragraph 8;
@@ -689,23 +689,23 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2006 c. 45](https://www.legislation.gov.uk/ukpga/2006/45). The powers are conferred on the “appropriate national authority” which is defined in section 62(1) of that Act.
 
-[^key-8dfaf7f03e1a7be105a89329dc1ed699]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/296/regulation/1) in force at 6.4.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/a)
+[^c-8dfaf7f03e1a7be105a89329dc1ed699]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/296/regulation/1) in force at 6.4.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/a)
 
-[^key-10282a3a017e7def0bf5819c189c72e2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/296/regulation/2) in force at 6.4.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/a)
+[^c-10282a3a017e7def0bf5819c189c72e2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/296/regulation/2) in force at 6.4.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/a)
 
 [^f00002]: Footnote: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36); section 2(2) was amended by paragraph 1 of the Schedule to [S.I. 2003/2919](https://www.legislation.gov.uk/uksi/2003/2919), paragraph 2 of the Schedule to [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824) and regulation 2(3) of [S.I. 2019/454](https://www.legislation.gov.uk/uksi/2019/454).
 
-[^key-3a3db2d247e2f33f429550a4fda2a683]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/296/regulation/3) in force at 6.4.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/a)
+[^c-3a3db2d247e2f33f429550a4fda2a683]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/296/regulation/3) in force at 6.4.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/a)
 
-[^key-e513951ef23896b0936c8c0a8ba737ac]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/296/regulation/4) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2)
+[^c-e513951ef23896b0936c8c0a8ba737ac]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/296/regulation/4) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2)
 
 [^f00003]: Footnote: [1981 c. 37](https://www.legislation.gov.uk/ukpga/1981/37); “**zoo**” has the meaning given by section 1(2). Section 1(2) was amended by section 8(2) of the Wild Animals and Circuses (Wales) [Act 2020 (asc 2)](https://www.legislation.gov.uk/asc/1981/37) and regulation 4(a) of [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080).
 
 [^f00004]: Footnote: [1986 c. 14](https://www.legislation.gov.uk/ukpga/1986/14); section 2C was inserted by regulation 6 of [S.I. 2012/3039](https://www.legislation.gov.uk/uksi/2012/3039) and amended by regulation 2(2) of [S.I. 2019/72](https://www.legislation.gov.uk/uksi/2019/72).
 
-[^key-675b1898f982cc6712d5cc98f6077fc4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/296/regulation/5) in force at 6.4.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/a)
+[^c-675b1898f982cc6712d5cc98f6077fc4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/296/regulation/5) in force at 6.4.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/a)
 
-[^key-6d4fb8b81d1fd477e1953e676e1dd627]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/296/regulation/6) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-6d4fb8b81d1fd477e1953e676e1dd627]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/296/regulation/6) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
 [^f00005]: Footnote: [1954 c. 40](https://www.legislation.gov.uk/ukpga/1954/40) (2 & 3 Eliz 2); section 1 was repealed by Schedule 4 to the Animal Welfare Act 2006.
 
@@ -713,156 +713,156 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00007]: Footnote: [2011 c. 16](https://www.legislation.gov.uk/ukpga/2011/16).
 
-[^key-98909adec407106b4cc4935e81b31b46]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/296/regulation/7) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-98909adec407106b4cc4935e81b31b46]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/296/regulation/7) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-0ff0477cd6c6ade47800c2bfe575c77c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/296/regulation/8) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-0ff0477cd6c6ade47800c2bfe575c77c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/296/regulation/8) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-14cd9052691d79d477f2527f2e67ba52]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/296/regulation/9) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-14cd9052691d79d477f2527f2e67ba52]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/296/regulation/9) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-8b9130d6366e2908af7241500c642018]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/296/regulation/10) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-8b9130d6366e2908af7241500c642018]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/296/regulation/10) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-47376482408acee525f38611912ba003]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/296/regulation/11) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-47376482408acee525f38611912ba003]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/296/regulation/11) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-4aeaf049137318bc00e9096ba2361e12]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/296/regulation/12) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-4aeaf049137318bc00e9096ba2361e12]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/296/regulation/12) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-e39e2a8d309e40d8f0ac595e268fb80a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/296/regulation/13) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-e39e2a8d309e40d8f0ac595e268fb80a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/296/regulation/13) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-e75bdb0a2a6ccc3056e942c37ac48be9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/296/regulation/14) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2)
+[^c-e75bdb0a2a6ccc3056e942c37ac48be9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/296/regulation/14) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2)
 
-[^key-544f249a134fc7d11be8e32d3db7cfaf]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/296/regulation/15) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2)
+[^c-544f249a134fc7d11be8e32d3db7cfaf]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/296/regulation/15) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2)
 
-[^key-82b25d19f63cae3d994037b52d4caaee]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/296/regulation/16) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2)
+[^c-82b25d19f63cae3d994037b52d4caaee]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/296/regulation/16) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2)
 
-[^key-81a161f7f3f48981aa19898941aaff33]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/296/regulation/17) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
+[^c-81a161f7f3f48981aa19898941aaff33]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/296/regulation/17) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
 
-[^key-beaf943117b6595198924fcde445db5a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/296/regulation/18) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2)
+[^c-beaf943117b6595198924fcde445db5a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/296/regulation/18) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2)
 
-[^key-8afa06bf055136f2762effc81b17d5ec]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/296/regulation/19) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2)
+[^c-8afa06bf055136f2762effc81b17d5ec]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/296/regulation/19) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2)
 
-[^key-ca7518676d7444212cff3702abc20b4c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/296/regulation/20) in force at 6.4.2025, see [reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/d)
+[^c-ca7518676d7444212cff3702abc20b4c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/296/regulation/20) in force at 6.4.2025, see [reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/d)
 
-[^key-e2e03f6dc813efea82f57399944b0031]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2024/296/regulation/21) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2)
+[^c-e2e03f6dc813efea82f57399944b0031]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2024/296/regulation/21) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2)
 
-[^key-08182134515fd35a79e80f54598eec73]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/1) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-08182134515fd35a79e80f54598eec73]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/1) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
 [^f00008]: Footnote: [S.I. 2018/486](https://www.legislation.gov.uk/uksi/2018/486), to which there are amendments not relevant to these Regulations.
 
-[^key-425cf2f82a7a8d641eb73142fd4c71f6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/2) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-425cf2f82a7a8d641eb73142fd4c71f6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/2) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-c2d7d02c8c4cae0f058953110632aeab]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/3) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-c2d7d02c8c4cae0f058953110632aeab]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/3) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
 [^f00009]: Footnote: Available from the ISO Central Secretariat, International Organization for Standardization (ISO), Chemin de Blandonnet 8, CP 401, 1214 Vernier, Geneva, Switzerland and at https://www.iso.org/standards.html.
 
 [^f00010]: Footnote: Available from the ISO Central Secretariat, International Organization for Standardization (ISO), Chemin de Blandonnet 8, CP 401, 1214 Vernier, Geneva, Switzerland and at https://www.iso.org/standards.html.
 
-[^key-f355e8ef329899deeebd189f52d74983]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/4) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-f355e8ef329899deeebd189f52d74983]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/4) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-27412a8fcf825837db0158cda9b68f51]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/5) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-27412a8fcf825837db0158cda9b68f51]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/5) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-5580da7c438574f607e750f96bf9660b]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/6) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-5580da7c438574f607e750f96bf9660b]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/6) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-56b9938f81fce7fad7bc25f7d02d664e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/7) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-56b9938f81fce7fad7bc25f7d02d664e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/7) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-be091408f57b55fbb870a4e05188b666]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/8) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-be091408f57b55fbb870a4e05188b666]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/8) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-53d498a1cbc6107cd9ccd8053d0b26e1]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/9) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-53d498a1cbc6107cd9ccd8053d0b26e1]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/9) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-95283bd138122244b638e1cf59f7cc6f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/10) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-95283bd138122244b638e1cf59f7cc6f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/10) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-770561dcd94b4c724f61ae272c2ff73b]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/11) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-770561dcd94b4c724f61ae272c2ff73b]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/11) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-df92d268304b2c01cb3ca2d3f2e4f9d8]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/12) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-df92d268304b2c01cb3ca2d3f2e4f9d8]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/12) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-d104e1ea6791c328baa6869dfae613c4]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/13) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-d104e1ea6791c328baa6869dfae613c4]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/13) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-e05322e29aabc49976a886300a446722]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/14) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-e05322e29aabc49976a886300a446722]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/14) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-e11fe5e89a29c2ab3986ce618b4e4932]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/15) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-e11fe5e89a29c2ab3986ce618b4e4932]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/15) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-7e77bea3bd1d570e868cc79e0e161665]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/16) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-7e77bea3bd1d570e868cc79e0e161665]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/16) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-3a35f5eb4e2b634a26bb2a7f11ce7d1e]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/17) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-3a35f5eb4e2b634a26bb2a7f11ce7d1e]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/17) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-a1b8fd52cfdc2fd9347e9a069fe1c750]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/18) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-a1b8fd52cfdc2fd9347e9a069fe1c750]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/18) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-eaee1fc70fc0bb5ebc8a18141b8714f5]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/19) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-eaee1fc70fc0bb5ebc8a18141b8714f5]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/19) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-a6cfa230c9a6a34db7674c830c7cd15b]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/20) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-a6cfa230c9a6a34db7674c830c7cd15b]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/20) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-34d2e2b7339aef4b7ce068e05261f007]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/21) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-34d2e2b7339aef4b7ce068e05261f007]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/21) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-d2a620cc1dc571eb51f8b79793ef49f5]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/22) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-d2a620cc1dc571eb51f8b79793ef49f5]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/22) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-9a1fc65214f1c287f6e89771f72b1d85]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/23) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-9a1fc65214f1c287f6e89771f72b1d85]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/23) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-cf6b3586fa2e6f673400b641d3358dd1]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/24) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-cf6b3586fa2e6f673400b641d3358dd1]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/24) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-38093efef053fc40132dd6e9d534e88d]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/25) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-38093efef053fc40132dd6e9d534e88d]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/25) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-2b38d6a4db79c5a7a8161a9f0bfde9f9]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/26) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-2b38d6a4db79c5a7a8161a9f0bfde9f9]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/26) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-a45d55fbf7c80d579f67c184c6df62c9]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/27) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-a45d55fbf7c80d579f67c184c6df62c9]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/27) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-a5f51c63cae9d00209e6939c234980af]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/28) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-a5f51c63cae9d00209e6939c234980af]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/28) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-4413785aae3ade339804772c4a5348c1]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/29) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-4413785aae3ade339804772c4a5348c1]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/29) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-101d00c58015d4e2920c310e441b1603]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/30) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-101d00c58015d4e2920c310e441b1603]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/30) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-a50471815505b58cc50fb85a60d3c473]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/31) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-a50471815505b58cc50fb85a60d3c473]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/31) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-a276e6ebe18da28e7b1523744419d034]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/32) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-a276e6ebe18da28e7b1523744419d034]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/32) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-f0ba8daa20404b038bc5991907792d97]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/33) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-f0ba8daa20404b038bc5991907792d97]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/33) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-b60322fe01f5e07d0be824093b347aaa]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/34) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-b60322fe01f5e07d0be824093b347aaa]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/34) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-1d71c6c4f7219d6c64c77cdcaba3d118]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/35) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-1d71c6c4f7219d6c64c77cdcaba3d118]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/35) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-45329fff85b9bd6728920dc726145050]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/36) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-45329fff85b9bd6728920dc726145050]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/36) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-a29b38bb38339b43e4ec55e268de6a45]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/37) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-a29b38bb38339b43e4ec55e268de6a45]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/37) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-0667e878f0bf4f8dd4a91e89bb220745]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/38) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-0667e878f0bf4f8dd4a91e89bb220745]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/38) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-2dc237b64867bdbafb9b8387900da695]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/39) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-2dc237b64867bdbafb9b8387900da695]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/39) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-24b343f52806be7fe7adf5c519689a32]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/40) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-24b343f52806be7fe7adf5c519689a32]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/40) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-9551f4275c16c4e22ae1fa54eb65f371]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/41) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-9551f4275c16c4e22ae1fa54eb65f371]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/41) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-8c12942300ccb4b9def0de6c443102c6]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/42) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-8c12942300ccb4b9def0de6c443102c6]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/42) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-315b98be8d764e1597f4642f412bcafc]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/43) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-315b98be8d764e1597f4642f412bcafc]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/43) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-20fe37e6f20bb279ecd24e39e2b8eaf3]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/44) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-20fe37e6f20bb279ecd24e39e2b8eaf3]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/44) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-319348720d5df4791d002dfd778c8433]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/45) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-319348720d5df4791d002dfd778c8433]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/45) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-c0adc8f8e8cab47d89d432a9bc6890d8]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/46) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-c0adc8f8e8cab47d89d432a9bc6890d8]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/46) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-87ec1cc64f4d697b091a89a885043a4e]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/47) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-87ec1cc64f4d697b091a89a885043a4e]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/47) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-60b3b7f55ba66913f205645f882bb33d]: Commencement: [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/48) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
+[^c-60b3b7f55ba66913f205645f882bb33d]: Commencement: [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2024/296/schedule/1/paragraph/48) in force at 6.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/b)
 
-[^key-3a0a250e97f36590992cda70ee8b22b7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/1) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
+[^c-3a0a250e97f36590992cda70ee8b22b7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/1) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
 
-[^key-2efa25baf23282a5dd7a14e668b3d346]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/2) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
+[^c-2efa25baf23282a5dd7a14e668b3d346]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/2) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
 
-[^key-a02d5529586f7038822e3fe650edf129]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/3) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
+[^c-a02d5529586f7038822e3fe650edf129]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/3) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
 
-[^key-59abbc7f25b8c83aa14d2f08b1072912]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/4) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
+[^c-59abbc7f25b8c83aa14d2f08b1072912]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/4) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
 
-[^key-4d5a7c27f809badf5fdd7005e28dd81c]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/5) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
+[^c-4d5a7c27f809badf5fdd7005e28dd81c]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/5) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
 
-[^key-65db1e7f87c9426d838ea0c33ea10bd5]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/6) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
+[^c-65db1e7f87c9426d838ea0c33ea10bd5]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/6) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
 
-[^key-8f5863cce24633f9e68f8d68a8428388]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/7) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
+[^c-8f5863cce24633f9e68f8d68a8428388]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/7) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
 
-[^key-233147af7d721633aae52d6d58de6ad7]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/8) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
+[^c-233147af7d721633aae52d6d58de6ad7]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/8) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
 
-[^key-2b76afd9c5ebe066aefd6f7825b43522]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/9) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
+[^c-2b76afd9c5ebe066aefd6f7825b43522]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/9) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
 
-[^key-abf49ebd892820762e776e05d07bcf14]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/10) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
+[^c-abf49ebd892820762e776e05d07bcf14]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/10) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
 
-[^key-1288bb823239f7f408391f6312b51250]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/11) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)
+[^c-1288bb823239f7f408391f6312b51250]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2024/296/schedule/2/paragraph/11) in force at 6.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/3/c)

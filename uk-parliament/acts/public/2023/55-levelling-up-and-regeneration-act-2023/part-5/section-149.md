@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. CLA regulations: further provision and guidance[^key-41443638cd4914357db6fae4a7bdf099]
+## 149. CLA regulations: further provision and guidance[^c-41443638cd4914357db6fae4a7bdf099]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41443638cd4914357db6fae4a7bdf099]: Commencement: S. 149 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-41443638cd4914357db6fae4a7bdf099]: Commencement: S. 149 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)

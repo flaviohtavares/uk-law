@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Approval of code for premium rate services[^M_C_45f1767c-02b1-4b38-f41f-12242bb2ee09][^key-34f9d11eb52054b8c7b17c7fc378bc0d]
+## 121. Approval of code for premium rate services[^M_C_45f1767c-02b1-4b38-f41f-12242bb2ee09][^c-34f9d11eb52054b8c7b17c7fc378bc0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ they may approve that code for those purposes.
 (5) The provision for the enforcement of a code that may be approved under this section includes—
 
 - (a) provision for the payment, to a person specified in the code, of a penalty not exceeding the maximum penalty for the time being specified in section 123(2);
-- (aa)[^key-75274f71c6082e1451455809899af6ac] provision that applies where there is or has been more than one contravention of the code or directions given in accordance with it by a person and which enables—
+- (aa)[^c-75274f71c6082e1451455809899af6ac] provision that applies where there is or has been more than one contravention of the code or directions given in accordance with it by a person and which enables—
   - (i) a single penalty (which does not exceed that maximum penalty) to be imposed on the person in respect of all of those contraventions, or
   - (ii) separate penalties (each of which does not exceed that maximum penalty) to be imposed on the person in respect of each of those contraventions,
 
@@ -70,6 +70,6 @@ they may approve that code for those purposes.
 
 [^M_C_45f1767c-02b1-4b38-f41f-12242bb2ee09]: Modification: Ss. 120-124 modified (31.12.2020) by [The Communications Act (e-Commerce) (EU Exit) Regulations 2020 (S.I. 2020/1420)](https://www.legislation.gov.uk/uksi/2020/1420), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1420/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1420/regulation/2)
 
-[^key-34f9d11eb52054b8c7b17c7fc378bc0d]: Commencement: S. 121 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-34f9d11eb52054b8c7b17c7fc378bc0d]: Commencement: S. 121 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-75274f71c6082e1451455809899af6ac]: Textual amendment: S. 121(5)(aa) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2015/15/section/80/2), [100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1630/article/7))
+[^c-75274f71c6082e1451455809899af6ac]: Textual amendment: S. 121(5)(aa) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2015/15/section/80/2), [100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1630/article/7))

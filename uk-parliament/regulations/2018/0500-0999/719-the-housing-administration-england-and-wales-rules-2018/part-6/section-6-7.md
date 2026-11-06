@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.7. Application to replace[^key-6850a39ac8b3018ed64f95414f57dd69]
+## 6.7. Application to replace[^c-6850a39ac8b3018ed64f95414f57dd69]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6850a39ac8b3018ed64f95414f57dd69]: Commencement: Rule 6.7 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-6850a39ac8b3018ed64f95414f57dd69]: Commencement: Rule 6.7 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

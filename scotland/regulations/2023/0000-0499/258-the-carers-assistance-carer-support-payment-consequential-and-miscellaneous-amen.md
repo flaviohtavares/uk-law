@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 95 of the Social Security (Scotland) Act 2018[^f00001], section 70 of the Social Security Contributions and Benefits Act 1992[^f00002] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-64489140c19847e68666f068fa4d6204]
+## 1. Citation and commencement[^c-64489140c19847e68666f068fa4d6204]
 
 These Regulations may be cited as the Carer’s Assistance (Carer Support Payment) (Consequential and Miscellaneous Amendments and Transitional Provision) (Scotland) Regulations 2023 and come into force on 19 November 2023.
 
-## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations 1976[^key-7b2db55d8d75a77106576007468eaca6]
+## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations 1976[^c-7b2db55d8d75a77106576007468eaca6]
 
 (1) The Social Security (Invalid Care Allowance) Regulations 1976[^f00003] are amended in accordance with paragraph (2).
 
@@ -74,7 +74,7 @@ These Regulations may be cited as the Carer’s Assistance (Carer Support Paymen
 
   .
 
-## 3. Amendment of the National Assistance (Assessment of Resources) Regulations 1992[^key-7ff71fb439e9d73e542e01b1fc0cf801]
+## 3. Amendment of the National Assistance (Assessment of Resources) Regulations 1992[^c-7ff71fb439e9d73e542e01b1fc0cf801]
 
 (1) The National Assistance (Assessment of Resources) Regulations 1992[^f00008] are amended in accordance with paragraphs (2) and (3).
 
@@ -86,7 +86,7 @@ These Regulations may be cited as the Carer’s Assistance (Carer Support Paymen
 
 (3) In paragraph 3(2)(a) of schedule 2 (sums to be disregarded in the calculation of earnings), after “carer’s allowance”, insert “or Carer Support Payment”.
 
-## 4. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^key-49e0f47f230edc14f803e033bb7e8cbd]
+## 4. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^c-49e0f47f230edc14f803e033bb7e8cbd]
 
 (1) The Advice and Assistance (Scotland) Regulations 1996[^f00010] are amended in accordance with paragraphs (2) to (4).
 
@@ -108,7 +108,7 @@ These Regulations may be cited as the Carer’s Assistance (Carer Support Paymen
 
 .
 
-## 5. Amendment of the Individual Learning Account (Scotland) Regulations 2011[^key-80c816aff05f13134fed506a900327e0]
+## 5. Amendment of the Individual Learning Account (Scotland) Regulations 2011[^c-80c816aff05f13134fed506a900327e0]
 
 (1) The Individual Learning Account (Scotland) Regulations 2011[^f00014] are amended in accordance with paragraph (2).
 
@@ -118,7 +118,7 @@ These Regulations may be cited as the Carer’s Assistance (Carer Support Paymen
 
 .
 
-## 6. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^key-ebc4a336e18ab6d7264e3e1a6460992f]
+## 6. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^c-ebc4a336e18ab6d7264e3e1a6460992f]
 
 (1) The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00016] are amended in accordance with paragraphs (2) to (4).
 
@@ -160,13 +160,13 @@ These Regulations may be cited as the Carer’s Assistance (Carer Support Paymen
   - (i) in sub-paragraph (1)(b)(i) after “carer’s allowance,” insert “carer support payment”,
   - (ii) in sub-paragraph (1)(b)(ii) after “carer’s allowance” insert “, carer support payment”.
 
-## 7. Amendment of the Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019[^key-85ea7c84ffec9bbf8786b73bbcbcca47]
+## 7. Amendment of the Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019[^c-85ea7c84ffec9bbf8786b73bbcbcca47]
 
 (1) The Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019[^f00018] are amended in accordance with paragraph (2).
 
 (2) In regulation 6(3)(a) (conditions relating to the person or persons being care for) for “carer’s assistance, payable under section 28 of the Social Security (Scotland) Act 2018”, substitute, “Carer Support Payment payable under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023[^f00019]”.
 
-## 8. Amendment of the Council Tax Reduction (Scotland) Regulations 2021[^key-ba84e072e84cedaae9bd3f7dcea7e433]
+## 8. Amendment of the Council Tax Reduction (Scotland) Regulations 2021[^c-ba84e072e84cedaae9bd3f7dcea7e433]
 
 (1) The Council Tax Reduction (Scotland) Regulations 2021[^f00020] are amended in accordance with paragraphs (2) to (5).
 
@@ -213,11 +213,11 @@ These Regulations may be cited as the Carer’s Assistance (Carer Support Paymen
 
 (5) In schedule 3 (sums to be disregarded in the calculation of earnings) in paragraph 6(1)(a) after “carer’s allowance” in both places where it appears, insert “, or carer support payment”.
 
-## 9. Transitional provision – extinguishment of right to apply for Carer’s Allowance[^key-3b4bc19260e286d4d68e44104628409f]
+## 9. Transitional provision – extinguishment of right to apply for Carer’s Allowance[^c-3b4bc19260e286d4d68e44104628409f]
 
 (1) No person may claim carer’s allowance under section 70 of the Social Security Contributions and Benefits Act 1992[^f00025] who—
 
-- (a)[^key-561d64dcd7db4d74906085a4404d4cc6] during the initial period for applications for carer support payment—
+- (a)[^c-561d64dcd7db4d74906085a4404d4cc6] during the initial period for applications for carer support payment—
   - (i) in phase 1 is resident in the local authority area of Perthshire and Kinross, City of Dundee or Western Isles,
   - (ii) in phase 2 is resident in the local authority area of Perthshire and Kinross, City of Dundee, Western Isles, Angus, North Lanarkshire or South Lanarkshire,
   - (iii) in phase 3 is resident in the local authority area of Perthshire and Kinross, City of Dundee, Western Isles, Angus, North Lanarkshire, South Lanarkshire, Fife, City of Aberdeen, Aberdeenshire, Moray, North Ayrshire, East Ayrshire or South Ayrshire, or
@@ -229,7 +229,7 @@ These Regulations may be cited as the Carer’s Assistance (Carer Support Paymen
 
 - “**carer support payment**” means carer’s assistance payable under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023[^f00026],
 - “**carer’s allowance**” means assistance payable under the Social Security Contributions and Benefits Act 1992, and
-- “**initial period for applications**” means the period referred to in regulation 46 (transitory provision – initial period for applications) of the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023, beginning with 19 November 2023 and ending with 3 November 2024, and references to phases of that period are to be construed in accordance with regulation 46(3) of those Regulations[^key-91ae05368a35fd72156493f3ea0bd28f].
+- “**initial period for applications**” means the period referred to in regulation 46 (transitory provision – initial period for applications) of the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023, beginning with 19 November 2023 and ending with 3 November 2024, and references to phases of that period are to be construed in accordance with regulation 46(3) of those Regulations[^c-91ae05368a35fd72156493f3ea0bd28f].
 
 SHIRLEY-ANNE SOMERVILLE
 
@@ -261,9 +261,9 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00002]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 70 was amended by [S.I. 1994/2556](https://www.legislation.gov.uk/uksi/1994/2556), [S.I. 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457), [S.I. 2011/2426](https://www.legislation.gov.uk/uksi/2011/2426), [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), [S.I. 2013/796](https://www.legislation.gov.uk/uksi/2013/796), [S.I. 2015/1754](https://www.legislation.gov.uk/uksi/2015/1754), [S.I. 2021/1301](https://www.legislation.gov.uk/uksi/2021/1301), [S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54), [S.S.I .2021/174](https://www.legislation.gov.uk/ssi/2021/174) and [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332).
 
-[^key-64489140c19847e68666f068fa4d6204]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
+[^c-64489140c19847e68666f068fa4d6204]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
 
-[^key-7b2db55d8d75a77106576007468eaca6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/258/regulation/2) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
+[^c-7b2db55d8d75a77106576007468eaca6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/258/regulation/2) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1976/409](https://www.legislation.gov.uk/uksi/1976/409), which was mostly recently relevantly amended by [S.I. 2015/1754](https://www.legislation.gov.uk/uksi/2015/1754).
 
@@ -275,13 +275,13 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00007]: Footnote: [S.S.I. 2023/302](https://www.legislation.gov.uk/ssi/2023/302).
 
-[^key-7ff71fb439e9d73e542e01b1fc0cf801]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/258/regulation/3) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
+[^c-7ff71fb439e9d73e542e01b1fc0cf801]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/258/regulation/3) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
 
 [^f00008]: Footnote: [S.I. 1992/2977](https://www.legislation.gov.uk/uksi/1992/2977) as relevantly amended by [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663), [S.I. 1989/534](https://www.legislation.gov.uk/uksi/1989/534), [S.I. 1993/964](https://www.legislation.gov.uk/uksi/1993/964), [S.I. 1993/2230](https://www.legislation.gov.uk/uksi/1993/2230), [S.I. 1995/858](https://www.legislation.gov.uk/uksi/1995/858), [S.I. 2003/897](https://www.legislation.gov.uk/uksi/2003/897) and [S.S.I. 2021/73](https://www.legislation.gov.uk/ssi/2021/73).
 
 [^f00009]: Footnote: [S.S.I. 2023/302](https://www.legislation.gov.uk/ssi/2023/302).
 
-[^key-49e0f47f230edc14f803e033bb7e8cbd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/258/regulation/4) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
+[^c-49e0f47f230edc14f803e033bb7e8cbd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/258/regulation/4) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
 
 [^f00010]: Footnote: [S.I. 1996/2447](https://www.legislation.gov.uk/uksi/1996/2447) as relevantly amended by [S.I. 1997/726](https://www.legislation.gov.uk/uksi/1997/726), [S.I. 1998/724](https://www.legislation.gov.uk/uksi/1998/724), [S.I. 2008/1879](https://www.legislation.gov.uk/uksi/2008/1879), [S.S.I. 2000/399](https://www.legislation.gov.uk/ssi/2000/399), [S.S.I. 2002/495](https://www.legislation.gov.uk/ssi/2002/495), [S.S.I. 2003/163](https://www.legislation.gov.uk/ssi/2003/163), [S.S.I. 2003/421](https://www.legislation.gov.uk/ssi/2003/421), [S.S.I. 2010/166](https://www.legislation.gov.uk/ssi/2010/166), [S.S.I. 2011/134](https://www.legislation.gov.uk/ssi/2011/134), [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65), [S.S.I. 2013/137](https://www.legislation.gov.uk/ssi/2013/137), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2013/200](https://www.legislation.gov.uk/ssi/2013/200), [S.S.I. 2013/250](https://www.legislation.gov.uk/ssi/2013/250), [S.S.I. 2014/90](https://www.legislation.gov.uk/ssi/2014/90), [S.S.I. 2020/424](https://www.legislation.gov.uk/ssi/2020/424), [S.S.I. 2021/73](https://www.legislation.gov.uk/ssi/2021/73), [S.S.I. 2021/333](https://www.legislation.gov.uk/ssi/2021/333), [S.S.I. 2021/368](https://www.legislation.gov.uk/ssi/2021/368), [S.S.I. 2022/31](https://www.legislation.gov.uk/ssi/2022/31) and [S.S.I. 2023/11](https://www.legislation.gov.uk/ssi/2023/11).
 
@@ -291,25 +291,25 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00013]: Footnote: [S.S.I. 2023/302](https://www.legislation.gov.uk/ssi/2023/302).
 
-[^key-80c816aff05f13134fed506a900327e0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2023/258/regulation/5) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
+[^c-80c816aff05f13134fed506a900327e0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2023/258/regulation/5) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
 
 [^f00014]: Footnote: [S.S.I. 2011/107](https://www.legislation.gov.uk/ssi/2011/107) as relevantly amended by [S.S.I. 2012/172](https://www.legislation.gov.uk/ssi/2012/172), [S.S.I. 2013/75](https://www.legislation.gov.uk/ssi/2013/75), [S.S.I. 2013/137](https://www.legislation.gov.uk/ssi/2013/137) and [S.S.I. 2017/288](https://www.legislation.gov.uk/ssi/2017/288).
 
 [^f00015]: Footnote: [S.S.I. 2023/302](https://www.legislation.gov.uk/ssi/2023/302).
 
-[^key-ebc4a336e18ab6d7264e3e1a6460992f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2023/258/regulation/6) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
+[^c-ebc4a336e18ab6d7264e3e1a6460992f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2023/258/regulation/6) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
 
 [^f00016]: Footnote: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319) as relevantly amended by [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255), [S.I. 2020/354](https://www.legislation.gov.uk/uksi/2020/354), [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2013/218](https://www.legislation.gov.uk/ssi/2013/218), [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81), [S.S.I. 2017/326](https://www.legislation.gov.uk/ssi/2017/326), [S.S.I. 2018/211](https://www.legislation.gov.uk/ssi/2018/211), [S.S.I. 2018/295](https://www.legislation.gov.uk/ssi/2018/295), [S.S.I. 2019/29](https://www.legislation.gov.uk/ssi/2019/29), [S.S.I. 2019/133](https://www.legislation.gov.uk/ssi/2019/133), [S.S.I. 2019/325](https://www.legislation.gov.uk/ssi/2019/325), [S.S.I. 2020/25](https://www.legislation.gov.uk/ssi/2020/25), [S.S.I. 2020/108](https://www.legislation.gov.uk/ssi/2020/108), [S.S.I. 2020/413](https://www.legislation.gov.uk/ssi/2020/413), [S.S.I. 2021/51](https://www.legislation.gov.uk/ssi/2021/51), [S.S.I. 2021/73](https://www.legislation.gov.uk/ssi/2021/73), [S.S.I. 2022/31](https://www.legislation.gov.uk/ssi/2022/31), [S.S.I. 2022/52](https://www.legislation.gov.uk/ssi/2022/52) and [S.S.I. 2023/38](https://www.legislation.gov.uk/ssi/2023/38).
 
 [^f00017]: Footnote: [S.S.I. 2023/302](https://www.legislation.gov.uk/ssi/2023/302).
 
-[^key-85ea7c84ffec9bbf8786b73bbcbcca47]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2023/258/regulation/7) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
+[^c-85ea7c84ffec9bbf8786b73bbcbcca47]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2023/258/regulation/7) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
 
 [^f00018]: Footnote: [S.S.I. 2019/324](https://www.legislation.gov.uk/ssi/2019/324).
 
 [^f00019]: Footnote: [S.S.I. 2023/302](https://www.legislation.gov.uk/ssi/2023/302).
 
-[^key-ba84e072e84cedaae9bd3f7dcea7e433]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2023/258/regulation/8) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
+[^c-ba84e072e84cedaae9bd3f7dcea7e433]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2023/258/regulation/8) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
 
 [^f00020]: Footnote: [S.S.I. 2021/249](https://www.legislation.gov.uk/ssi/2021/249) as relevantly amended by [S.S.I. 2022/52](https://www.legislation.gov.uk/ssi/2022/52), [S.S.I. 2022/161](https://www.legislation.gov.uk/ssi/2022/161), [S.S.I. 2023/38](https://www.legislation.gov.uk/ssi/2023/38) and [S.S.I. 2023/46](https://www.legislation.gov.uk/ssi/2023/46).
 
@@ -321,12 +321,12 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00024]: Footnote: [S.S.I. 2023/302](https://www.legislation.gov.uk/ssi/2023/302).
 
-[^key-3b4bc19260e286d4d68e44104628409f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2023/258/regulation/9) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
+[^c-3b4bc19260e286d4d68e44104628409f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2023/258/regulation/9) in force at 19.11.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1)
 
 [^f00025]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 70 was amended by [S.I. 1994/2556](https://www.legislation.gov.uk/uksi/1994/2556), [S.I. 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457), [S.I. 2011/2426](https://www.legislation.gov.uk/uksi/2011/2426), [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), [S.I. 2013/796](https://www.legislation.gov.uk/uksi/2013/796), [S.I. 2015/1754](https://www.legislation.gov.uk/uksi/2015/1754), [S.I. 2021/1301](https://www.legislation.gov.uk/uksi/2021/1301), [S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54), [S.S.I .2021/174](https://www.legislation.gov.uk/ssi/2021/174) and [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332).
 
-[^key-561d64dcd7db4d74906085a4404d4cc6]: Textual amendment: [Reg. 9(1)(a)](https://www.legislation.gov.uk/ssi/2023/258/regulation/9/1/a) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/3/2)
+[^c-561d64dcd7db4d74906085a4404d4cc6]: Textual amendment: [Reg. 9(1)(a)](https://www.legislation.gov.uk/ssi/2023/258/regulation/9/1/a) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/3/2)
 
 [^f00026]: Footnote: [S.S.I. 2023/302](https://www.legislation.gov.uk/ssi/2023/302).
 
-[^key-91ae05368a35fd72156493f3ea0bd28f]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2023/258/regulation/9/2) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2024/173/regulation/3/3)
+[^c-91ae05368a35fd72156493f3ea0bd28f]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2023/258/regulation/9/2) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2024/173/regulation/3/3)

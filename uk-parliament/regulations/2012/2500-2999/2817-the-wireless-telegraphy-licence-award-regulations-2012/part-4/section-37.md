@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Round price for the 800 MHz coverage obligation lot[^key-039d57fc74fcf0d898a11c8dc0e4e78c]
+## 37. Round price for the 800 MHz coverage obligation lot[^c-039d57fc74fcf0d898a11c8dc0e4e78c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-039d57fc74fcf0d898a11c8dc0e4e78c]: Commencement: Reg. 37 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-039d57fc74fcf0d898a11c8dc0e4e78c]: Commencement: Reg. 37 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

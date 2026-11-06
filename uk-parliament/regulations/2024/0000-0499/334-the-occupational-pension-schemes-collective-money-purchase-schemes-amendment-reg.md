@@ -52,7 +52,7 @@ A draft of these Regulations has been laid before and approved by a resolution o
 
 The Secretary of State has exercised his discretion under section 51(6) of the Pension Schemes Act 2021 to make regulations subject to affirmative resolution procedure which would otherwise be subject to negative resolution procedure.
 
-## 1. Citation, extent and commencement[^key-58c607dad5738b6f4955d489269a663f]
+## 1. Citation, extent and commencement[^c-58c607dad5738b6f4955d489269a663f]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations 2024.
 
@@ -62,14 +62,14 @@ The Secretary of State has exercised his discretion under section 51(6) of the P
 
 (4) Regulations 2(b) and 5 (amendments to Schedule 6 to the Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022)[^f00002] come into force on 1st October 2024.
 
-## 2. Amendments to the Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022[^key-1388ea2e6b3a07756d9d5d45245211d9][^key-951d5f29cc4fecfdf84088fdc6bb82f0]
+## 2. Amendments to the Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022[^c-1388ea2e6b3a07756d9d5d45245211d9][^c-951d5f29cc4fecfdf84088fdc6bb82f0]
 
 The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 are amended in accordance with—
 
-- (a)[^key-1388ea2e6b3a07756d9d5d45245211d9] regulations 3 and 4;
-- (b)[^key-951d5f29cc4fecfdf84088fdc6bb82f0] regulation 5.
+- (a)[^c-1388ea2e6b3a07756d9d5d45245211d9] regulations 3 and 4;
+- (b)[^c-951d5f29cc4fecfdf84088fdc6bb82f0] regulation 5.
 
-## 3. Amendment of regulation 17[^key-5e0e5da80c3b88d1d0573ad37df8b0d0]
+## 3. Amendment of regulation 17[^c-5e0e5da80c3b88d1d0573ad37df8b0d0]
 
 (1) Regulation 17 (calculation of benefits) is amended as follows.
 
@@ -93,7 +93,7 @@ The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations
 
 .
 
-## 4. Amendment of regulation 19[^key-224a9ad4e921a8c56ff890432a133361]
+## 4. Amendment of regulation 19[^c-224a9ad4e921a8c56ff890432a133361]
 
 (1) Regulation 19 (actuarial valuations) is amended as follows.
 
@@ -111,7 +111,7 @@ The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations
 
 .
 
-## 5. Amendment of Schedule 6[^key-a77174cb97733902db0c075996aa9f34]
+## 5. Amendment of Schedule 6[^c-a77174cb97733902db0c075996aa9f34]
 
 (1) Schedule 6 (continuity option 1: transfer out and winding up) is amended as follows.
 
@@ -185,19 +185,19 @@ A full impact assessment of the effect that the CMP Regulations will have on the
 
 [^f00001]: Footnote: [2021 c. 1](https://www.legislation.gov.uk/ukpga/2021/1).
 
-[^key-58c607dad5738b6f4955d489269a663f]: Commencement: Reg. 1 in force at 8.3.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3)
+[^c-58c607dad5738b6f4955d489269a663f]: Commencement: Reg. 1 in force at 8.3.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3)
 
 [^f00002]: Footnote: [S.I. 2022/255](https://www.legislation.gov.uk/uksi/2022/255).
 
-[^key-1388ea2e6b3a07756d9d5d45245211d9]: Commencement: Reg. 2(a) in force at 8.3.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3)
+[^c-1388ea2e6b3a07756d9d5d45245211d9]: Commencement: Reg. 2(a) in force at 8.3.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3)
 
-[^key-951d5f29cc4fecfdf84088fdc6bb82f0]: Commencement: [Reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/334/regulation/2/b) in force at 1.10.2024, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/4)
+[^c-951d5f29cc4fecfdf84088fdc6bb82f0]: Commencement: [Reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/334/regulation/2/b) in force at 1.10.2024, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/4)
 
-[^key-5e0e5da80c3b88d1d0573ad37df8b0d0]: Commencement: Reg. 3 in force at 8.3.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3)
+[^c-5e0e5da80c3b88d1d0573ad37df8b0d0]: Commencement: Reg. 3 in force at 8.3.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3)
 
-[^key-224a9ad4e921a8c56ff890432a133361]: Commencement: Reg. 4 in force at 8.3.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3)
+[^c-224a9ad4e921a8c56ff890432a133361]: Commencement: Reg. 4 in force at 8.3.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3)
 
-[^key-a77174cb97733902db0c075996aa9f34]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/334/regulation/5) in force at 1.10.2024, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/4)
+[^c-a77174cb97733902db0c075996aa9f34]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/334/regulation/5) in force at 1.10.2024, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/4)
 
 [^f00003]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Paragraph 15 was amended by the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), section 101, Schedule 10, paragraph 26, and the Finance Act [2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), section 22, Schedule 5, paragraph 6(2), and [S.I. 2005/3229](https://www.legislation.gov.uk/uksi/2005/3229).
 

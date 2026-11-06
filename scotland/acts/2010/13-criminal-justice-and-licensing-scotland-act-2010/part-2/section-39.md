@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Offence of stalking[^key-e526be314faf009c021a4ff6bffbeefe]
+## 39. Offence of stalking[^c-e526be314faf009c021a4ff6bffbeefe]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e526be314faf009c021a4ff6bffbeefe]: Commencement: S. 39 in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-e526be314faf009c021a4ff6bffbeefe]: Commencement: S. 39 in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

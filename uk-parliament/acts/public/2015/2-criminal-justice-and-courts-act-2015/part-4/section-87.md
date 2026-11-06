@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Interveners and costs[^key-6d9739bedd7d2200f2f14a5bc6958ec6]
+## 87. Interveners and costs[^c-6d9739bedd7d2200f2f14a5bc6958ec6]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ and the proceedings described in paragraphs (a) to (d) are “stages” of judic
 
 ## Annotations
 
-[^key-6d9739bedd7d2200f2f14a5bc6958ec6]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2015/2/section/87) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 70](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/70) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/6))
+[^c-6d9739bedd7d2200f2f14a5bc6958ec6]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2015/2/section/87) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 70](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/70) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/6))

@@ -32,7 +32,7 @@ summary: ''
 
 Civil Aviation
 
-The Air Navigation (Amendment) Order 2011 (revoked)[^key-45a186c9a99121bd87f2adadaa235859]
+The Air Navigation (Amendment) Order 2011 (revoked)[^c-45a186c9a99121bd87f2adadaa235859]
 
 Made
 
@@ -52,32 +52,32 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-45a186c9a99121bd87f2adadaa235859]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45a186c9a99121bd87f2adadaa235859]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-45a186c9a99121bd87f2adadaa235859]
+## 1. Citation and commencement[^c-45a186c9a99121bd87f2adadaa235859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Air Navigation Order 2009[^key-45a186c9a99121bd87f2adadaa235859]
+## 2. Amendment of the Air Navigation Order 2009[^c-45a186c9a99121bd87f2adadaa235859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Aerial photography, aerial survey and aerial work in the United Kingdom[^key-45a186c9a99121bd87f2adadaa235859]
+## 3. Aerial photography, aerial survey and aerial work in the United Kingdom[^c-45a186c9a99121bd87f2adadaa235859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Other Changes[^key-45a186c9a99121bd87f2adadaa235859]
+## 4. Other Changes[^c-45a186c9a99121bd87f2adadaa235859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45a186c9a99121bd87f2adadaa235859]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45a186c9a99121bd87f2adadaa235859]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-45a186c9a99121bd87f2adadaa235859]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45a186c9a99121bd87f2adadaa235859]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45a186c9a99121bd87f2adadaa235859]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2432) revoked (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/part/1) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-45a186c9a99121bd87f2adadaa235859]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2432) revoked (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/part/1) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))

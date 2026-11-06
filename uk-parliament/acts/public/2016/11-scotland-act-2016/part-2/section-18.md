@@ -38,7 +38,7 @@ summary: ''
 
 (2) Tax may not be charged in accordance with that provision on commercial exploitation of aggregate which takes place before the date appointed under subsection (4).
 
-(3)[^key-eb21039d24434bb59fbf8d96fe7e79e7] In section 16(2) of the Finance Act 2001 (aggregates levy) for “the United Kingdom” substitute “ England, Wales or Northern Ireland ”.
+(3)[^c-eb21039d24434bb59fbf8d96fe7e79e7] In section 16(2) of the Finance Act 2001 (aggregates levy) for “the United Kingdom” substitute “ England, Wales or Northern Ireland ”.
 
 (4) Subsection (3) and Schedule 1 (further amendments relating to the disapplication of UK aggregates levy to Scotland) have effect in relation to commercial exploitation of aggregate which takes place on or after such date as the Treasury appoint in regulations made by statutory instrument.
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c22565471]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2016/11/section/18) in force at 23.5.2016, see [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)
 
-[^key-eb21039d24434bb59fbf8d96fe7e79e7]: Commencement: [S. 18(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/18/3): 1.4.2026 appointed for the purposes of s. 18(4) by [The Scotland Act 2016, Section 18 (Disapplication of UK Aggregates Levy) (Appointed Day) Regulations 2026 (S.I. 2026/355)](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
+[^c-eb21039d24434bb59fbf8d96fe7e79e7]: Commencement: [S. 18(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/18/3): 1.4.2026 appointed for the purposes of s. 18(4) by [The Scotland Act 2016, Section 18 (Disapplication of UK Aggregates Levy) (Appointed Day) Regulations 2026 (S.I. 2026/355)](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)

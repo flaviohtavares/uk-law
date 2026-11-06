@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Interpretation of Chapter 2[^key-627e9f48017f87b0662a0cddd44e0447]
+## 51. Interpretation of Chapter 2[^c-627e9f48017f87b0662a0cddd44e0447]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-627e9f48017f87b0662a0cddd44e0447]: Commencement: S. 51 in force at 1.10.2007 by [S.I. 2007/2717](https://www.legislation.gov.uk/uksi/2007/2717), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2717/article/2/a)
+[^c-627e9f48017f87b0662a0cddd44e0447]: Commencement: S. 51 in force at 1.10.2007 by [S.I. 2007/2717](https://www.legislation.gov.uk/uksi/2007/2717), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2717/article/2/a)

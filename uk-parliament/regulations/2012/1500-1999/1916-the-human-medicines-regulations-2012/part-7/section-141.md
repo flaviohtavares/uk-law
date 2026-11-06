@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies if the use, sale, supply or offer for sale or supply of a traditional herbal medicinal product is suspended in accordance with regulation 138 [^key-04ed2b0460fce4cd6f5772146ed9f972]....
+(1) This regulation applies if the use, sale, supply or offer for sale or supply of a traditional herbal medicinal product is suspended in accordance with regulation 138 [^c-04ed2b0460fce4cd6f5772146ed9f972]....
 
 (2) A person must not—
 
@@ -31,4 +31,4 @@ knowing, or having reasonable cause to believe, that such use, sale, supply or o
 
 ## Annotations
 
-[^key-04ed2b0460fce4cd6f5772146ed9f972]: Textual amendment: Words in [reg. 141(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/141/1) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [124](https://www.legislation.gov.uk/uksi/2019/775/regulation/124); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-04ed2b0460fce4cd6f5772146ed9f972]: Textual amendment: Words in [reg. 141(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/141/1) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [124](https://www.legislation.gov.uk/uksi/2019/775/regulation/124); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

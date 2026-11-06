@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94D. Certain small unmanned aircraft: requirement for registration as SUA operator[^key-cc03df8603052b496f0548b24f360870]
+## 94D. Certain small unmanned aircraft: requirement for registration as SUA operator[^c-cc03df8603052b496f0548b24f360870]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc03df8603052b496f0548b24f360870]: Textual amendment: [Art. 94D](https://www.legislation.gov.uk/uksi/2016/765/article/94D) omitted (31.12.2020) by virtue of [The Air Navigation (Amendment) Order 2020 (S.I. 2020/1555)](https://www.legislation.gov.uk/uksi/2020/1555), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1555/article/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1555/article/8) (with [art. 13](https://www.legislation.gov.uk/uksi/2020/1555/article/13))
+[^c-cc03df8603052b496f0548b24f360870]: Textual amendment: [Art. 94D](https://www.legislation.gov.uk/uksi/2016/765/article/94D) omitted (31.12.2020) by virtue of [The Air Navigation (Amendment) Order 2020 (S.I. 2020/1555)](https://www.legislation.gov.uk/uksi/2020/1555), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1555/article/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1555/article/8) (with [art. 13](https://www.legislation.gov.uk/uksi/2020/1555/article/13))

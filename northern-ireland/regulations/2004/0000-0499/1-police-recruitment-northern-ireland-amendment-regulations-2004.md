@@ -43,19 +43,19 @@ Coming into operation
 
 The Secretary of State, in exercise of the powers conferred upon him by sections 25 and 26 of the Police (Northern Ireland) Act 1998[^f00001] and section 44 of the Police (Northern Ireland) Act 2000[^f00002], and after consulting the Northern Ireland Policing Board, the Chief Constable, the Equality Commission for Northern Ireland and the Police Association for Northern Ireland, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-eb4485874f6660b9b05838e2ed52e758]
+## 1. Citation and commencement[^c-eb4485874f6660b9b05838e2ed52e758]
 
 (1) These regulations may be cited as the Police (Recruitment) (Northern Ireland) (Amendment) Regulations 2004.
 
 (2) These regulations shall come into operation on 8th February 2004.
 
-## 2. Appointment as police reserve trainee: prohibited business interests[^key-d5395f2a0248888389919a9a156b8551]
+## 2. Appointment as police reserve trainee: prohibited business interests[^c-d5395f2a0248888389919a9a156b8551]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Functions of vetting panel[^key-53becd5738f461f263296bf3d46f6990]
+## 3. Functions of vetting panel[^c-53becd5738f461f263296bf3d46f6990]
 
-(1)[^key-8bca8ff5f9b5e8cae25aad79bcb7ccf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-8bca8ff5f9b5e8cae25aad79bcb7ccf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In regulation 12 of those regulations (vetting panel) –
 
@@ -99,10 +99,10 @@ These regulations also amend the functions of the vetting panel established unde
 
 [^f00002]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32)
 
-[^key-eb4485874f6660b9b05838e2ed52e758]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/1/regulation/1) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/1/regulation/1/2)
+[^c-eb4485874f6660b9b05838e2ed52e758]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/1/regulation/1) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/1/regulation/1/2)
 
-[^key-d5395f2a0248888389919a9a156b8551]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/1/regulation/2) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/nisr/2009/391/regulation/7/2/a)
+[^c-d5395f2a0248888389919a9a156b8551]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/1/regulation/2) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/nisr/2009/391/regulation/7/2/a)
 
-[^key-53becd5738f461f263296bf3d46f6990]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/1/regulation/3) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/1/regulation/1/2)
+[^c-53becd5738f461f263296bf3d46f6990]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/1/regulation/3) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/1/regulation/1/2)
 
-[^key-8bca8ff5f9b5e8cae25aad79bcb7ccf8]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2004/1/regulation/3/1) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/nisr/2009/391/regulation/7/2/b)
+[^c-8bca8ff5f9b5e8cae25aad79bcb7ccf8]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2004/1/regulation/3/1) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/nisr/2009/391/regulation/7/2/b)

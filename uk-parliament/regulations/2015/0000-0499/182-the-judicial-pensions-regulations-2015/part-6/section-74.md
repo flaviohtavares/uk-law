@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Option to buy out early payment reduction[^key-f8f09d2ae10d6b232c1628b519380faf]
+## 74. Option to buy out early payment reduction[^c-f8f09d2ae10d6b232c1628b519380faf]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8f09d2ae10d6b232c1628b519380faf]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2015/182/regulation/74) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-f8f09d2ae10d6b232c1628b519380faf]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2015/182/regulation/74) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

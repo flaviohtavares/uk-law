@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 130. Liquidator’s reports[^key-4cafa4f6881165314d78f18ed91064d5]
+## 130. Liquidator’s reports[^c-4cafa4f6881165314d78f18ed91064d5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.168 of the 1986 Rules.
 
 ## Annotations
 
-[^key-4cafa4f6881165314d78f18ed91064d5]: Commencement: Rule 130 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-4cafa4f6881165314d78f18ed91064d5]: Commencement: Rule 130 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

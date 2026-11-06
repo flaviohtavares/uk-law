@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101ZA. Shop workers who refuse to work additional hours on Sunday[^key-bfff5e3bea1941bfa809c53db66440ab]
+## 101ZA. Shop workers who refuse to work additional hours on Sunday[^c-bfff5e3bea1941bfa809c53db66440ab]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfff5e3bea1941bfa809c53db66440ab]: Textual amendment: S. 101ZA inserted (4.5.2016 for specified purposes) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(1)(d)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/d), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2016/12/schedule/5/paragraph/9)
+[^c-bfff5e3bea1941bfa809c53db66440ab]: Textual amendment: S. 101ZA inserted (4.5.2016 for specified purposes) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(1)(d)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/d), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2016/12/schedule/5/paragraph/9)

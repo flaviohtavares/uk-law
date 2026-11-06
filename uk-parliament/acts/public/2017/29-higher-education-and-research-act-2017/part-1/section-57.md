@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Unauthorised use of “university” in title of institution etc[^key-37e7ce0c012805456d4a6159380c1800]
+## 57. Unauthorised use of “university” in title of institution etc[^c-37e7ce0c012805456d4a6159380c1800]
 
 *Extent: E+W*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37e7ce0c012805456d4a6159380c1800]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2017/29/section/57) in force at 1.4.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/3/b) (with transitional and saving provisions in [S.I. 2018/1225](https://www.legislation.gov.uk/uksi/2018/1225), reg. 3)
+[^c-37e7ce0c012805456d4a6159380c1800]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2017/29/section/57) in force at 1.4.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/3/b) (with transitional and saving provisions in [S.I. 2018/1225](https://www.legislation.gov.uk/uksi/2018/1225), reg. 3)

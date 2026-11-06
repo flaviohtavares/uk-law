@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Definitions for purposes of Chapter 2[^key-af0321df630e2489c863877956328933]
+## 30. Definitions for purposes of Chapter 2[^c-af0321df630e2489c863877956328933]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af0321df630e2489c863877956328933]: Commencement: S. 30 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)
+[^c-af0321df630e2489c863877956328933]: Commencement: S. 30 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)

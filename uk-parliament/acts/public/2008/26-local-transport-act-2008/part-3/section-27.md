@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Appeals against the making of schemes for areas in England[^key-013e4fdfb9188b8026000e802503b0bf]
+## 27. Appeals against the making of schemes for areas in England[^c-013e4fdfb9188b8026000e802503b0bf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-013e4fdfb9188b8026000e802503b0bf]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/2008/26/section/27) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/26)
+[^c-013e4fdfb9188b8026000e802503b0bf]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/2008/26/section/27) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/26)

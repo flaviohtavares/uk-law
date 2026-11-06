@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Meetings generally[^key-bd59e110af9f68b9aa8efaf1e8956102]
+## 33. Meetings generally[^c-bd59e110af9f68b9aa8efaf1e8956102]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Except where different provision is made in the Regulations or these Rules, this
 
 ## Annotations
 
-[^key-bd59e110af9f68b9aa8efaf1e8956102]: Commencement: Rule 33 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-bd59e110af9f68b9aa8efaf1e8956102]: Commencement: Rule 33 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

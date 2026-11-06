@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.221. Deferment of issue of order pending appeal[^key-11bf7e45d50d48ba2008905bd39d268e]
+## 6.221. Deferment of issue of order pending appeal[^c-11bf7e45d50d48ba2008905bd39d268e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An order made by the court on an application by the bankrupt for discharge under
 
 ## Annotations
 
-[^key-11bf7e45d50d48ba2008905bd39d268e]: Commencement: [Rule 6.221](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.221) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-11bf7e45d50d48ba2008905bd39d268e]: Commencement: [Rule 6.221](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.221) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

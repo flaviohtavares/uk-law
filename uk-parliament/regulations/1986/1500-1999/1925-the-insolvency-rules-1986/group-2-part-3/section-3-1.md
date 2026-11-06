@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.1. Acceptance and confirmation of acceptance of appointment[^key-292c6e08f99f4cae4b0fa325b6e4cf27]
+## 3.1. Acceptance and confirmation of acceptance of appointment[^c-292c6e08f99f4cae4b0fa325b6e4cf27]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-292c6e08f99f4cae4b0fa325b6e4cf27]: Textual amendment: [Rule 3.1](https://www.legislation.gov.uk/uksi/1986/1925/article/3.1) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 23](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/23)
+[^c-292c6e08f99f4cae4b0fa325b6e4cf27]: Textual amendment: [Rule 3.1](https://www.legislation.gov.uk/uksi/1986/1925/article/3.1) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 23](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/23)

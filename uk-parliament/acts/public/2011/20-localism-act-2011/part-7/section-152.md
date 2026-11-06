@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Standards about tenancies etc[^key-debf8d17fee254a550ddd39997d1426d]
+## 152. Standards about tenancies etc[^c-debf8d17fee254a550ddd39997d1426d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 197 of the Housing and Regeneration Act 2008 (power of Secretary of S
 
 ## Annotations
 
-[^key-debf8d17fee254a550ddd39997d1426d]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2011/20/section/152) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(n)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/n) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-debf8d17fee254a550ddd39997d1426d]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2011/20/section/152) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(n)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/n) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

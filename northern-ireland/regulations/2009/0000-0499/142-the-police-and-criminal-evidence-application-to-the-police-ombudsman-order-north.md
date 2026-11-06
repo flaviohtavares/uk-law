@@ -43,11 +43,11 @@ Coming into operation
 
 The Secretary of State in exercise of the powers conferred on him by section 56(2) of the Police (Northern Ireland) Act 1998[^f00001] hereby makes the following Order.
 
-## 1. Citation and commencement[^key-b1570a08d966d8a95aadb8664742ce49]
+## 1. Citation and commencement[^c-b1570a08d966d8a95aadb8664742ce49]
 
 This Order may be cited as the Police and Criminal Evidence (Application to the Police Ombudsman) Order (Northern Ireland) 2009 and shall come into operation on 18th May 2009.
 
-## 2. Interpretation[^key-d51b321a523e798affb617d3a53b0afb]
+## 2. Interpretation[^c-d51b321a523e798affb617d3a53b0afb]
 
 In this Order, unless the context otherwise requires—
 
@@ -55,11 +55,11 @@ In this Order, unless the context otherwise requires—
 - “Officer” means an officer of the Ombudsman;
 - “Ombudsman” means the Police Ombudsman for Northern Ireland established under section 51 of the Police (Northern Ireland) Act 1998.
 
-## 3. Application[^key-ba345a4c99d27bd65b24620b3d13e06d]
+## 3. Application[^c-ba345a4c99d27bd65b24620b3d13e06d]
 
-(1) Subject to the modifications in paragraphs (2) and (3) and Schedule 2, the provisions of the 1989 Order contained in Schedule 1 which relate to the investigations of offences conducted by police officers or to persons detained [^key-5c00c471445ffbc5d1e940a50c8256be]... shall apply to investigations conducted by officers which relate to matters of the Ombudsman under Part VII of the Police (Northern Ireland) Act 1998.
+(1) Subject to the modifications in paragraphs (2) and (3) and Schedule 2, the provisions of the 1989 Order contained in Schedule 1 which relate to the investigations of offences conducted by police officers or to persons detained [^c-5c00c471445ffbc5d1e940a50c8256be]... shall apply to investigations conducted by officers which relate to matters of the Ombudsman under Part VII of the Police (Northern Ireland) Act 1998.
 
-(2) Where in the 1989 Order any act or thing is to be done by a constable or police officers of a rank specified in column 1 [^key-b2da7661e3e91fae1a3598043d94b90e]... of Schedule 2, that act or thing shall be done by an officer of at least the grade specified in column 2 of Schedule 2 and the 1989 Order shall be applied as if that grade were specified in that Order.
+(2) Where in the 1989 Order any act or thing is to be done by a constable or police officers of a rank specified in column 1 [^c-b2da7661e3e91fae1a3598043d94b90e]... of Schedule 2, that act or thing shall be done by an officer of at least the grade specified in column 2 of Schedule 2 and the 1989 Order shall be applied as if that grade were specified in that Order.
 
 (3) Where any provision of the 1989 Order as applied to an officer—
 
@@ -68,7 +68,7 @@ In this Order, unless the context otherwise requires—
 
 the officer may use reasonable force, if necessary, in the exercise of the power.
 
-## 4. Revocation[^key-22bef5406e8d1166d86cf4c6984e1336]
+## 4. Revocation[^c-22bef5406e8d1166d86cf4c6984e1336]
 
 The Police and Criminal Evidence (Application to the Police Ombudsman) Order (Northern Ireland) 2000[^f00003] is hereby revoked.
 
@@ -80,11 +80,11 @@ Northern Ireland Office
 
 19th March 2009
 
-## SCHEDULE 1 — Provisions of the 1989 Order applied to an Officer of the Ombudsman[^key-8f643cd92a9b017a5358af10e9972ac0]
+## SCHEDULE 1 — Provisions of the 1989 Order applied to an Officer of the Ombudsman[^c-8f643cd92a9b017a5358af10e9972ac0]
 
 Article 3(1)
 
-[^key-8f643cd92a9b017a5358af10e9972ac0]
+[^c-8f643cd92a9b017a5358af10e9972ac0]
 
 - Article 3 (powers to stop and search)[^f00004]
 - Article 4 (powers relating to search under Article 3 and other powers)[^f00005]
@@ -139,13 +139,13 @@ Article 3(1)
 - Article 66(1) to (8) and (9) to (11 A) (codes of practice—supplementary)[^f00036]
 - Article 88 (power of constable to use reasonable force)
 
-## SCHEDULE 2 — Equivalent Grades of Officers[^key-5551611d7f1ac2a0e9366d672e3d219b]
+## SCHEDULE 2 — Equivalent Grades of Officers[^c-5551611d7f1ac2a0e9366d672e3d219b]
 
 Article3(2)
 
-[^key-5551611d7f1ac2a0e9366d672e3d219b]
+[^c-5551611d7f1ac2a0e9366d672e3d219b]
 
-[^key-c4839effcef58fb85f6fcfe7930b0abb]...
+[^c-c4839effcef58fb85f6fcfe7930b0abb]...
 
 <table>
 <thead>
@@ -171,23 +171,23 @@ Article 4 provides for the revocation of the earlier instrument.
 
 [^f00001]: Footnote: S.I. [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32)
 
-[^key-b1570a08d966d8a95aadb8664742ce49]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
+[^c-b1570a08d966d8a95aadb8664742ce49]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
 
-[^key-d51b321a523e798affb617d3a53b0afb]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2009/142/article/2) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
+[^c-d51b321a523e798affb617d3a53b0afb]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2009/142/article/2) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
 
 [^f00002]: Footnote: S.I. [1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341)
 
-[^key-ba345a4c99d27bd65b24620b3d13e06d]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2009/142/article/3) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
+[^c-ba345a4c99d27bd65b24620b3d13e06d]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2009/142/article/3) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
 
-[^key-5c00c471445ffbc5d1e940a50c8256be]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisr/2009/142/article/3/1) omitted (24.3.2010) by virtue of [The Police and Criminal Evidence (Application to the Police Ombudsman)(Amendment) Order (Northern Ireland) 2010 (S.R. 2010/46)](https://www.legislation.gov.uk/nisr/2010/46), [arts. 1](https://www.legislation.gov.uk/nisr/2010/46/article/1), [2(a)](https://www.legislation.gov.uk/nisr/2010/46/article/2/a)
+[^c-5c00c471445ffbc5d1e940a50c8256be]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisr/2009/142/article/3/1) omitted (24.3.2010) by virtue of [The Police and Criminal Evidence (Application to the Police Ombudsman)(Amendment) Order (Northern Ireland) 2010 (S.R. 2010/46)](https://www.legislation.gov.uk/nisr/2010/46), [arts. 1](https://www.legislation.gov.uk/nisr/2010/46/article/1), [2(a)](https://www.legislation.gov.uk/nisr/2010/46/article/2/a)
 
-[^key-b2da7661e3e91fae1a3598043d94b90e]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisr/2009/142/article/3/2) omitted (24.3.2010) by virtue of [The Police and Criminal Evidence (Application to the Police Ombudsman)(Amendment) Order (Northern Ireland) 2010 (S.R. 2010/46)](https://www.legislation.gov.uk/nisr/2010/46), [arts. 1](https://www.legislation.gov.uk/nisr/2010/46/article/1), [2(b)](https://www.legislation.gov.uk/nisr/2010/46/article/2/b)
+[^c-b2da7661e3e91fae1a3598043d94b90e]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisr/2009/142/article/3/2) omitted (24.3.2010) by virtue of [The Police and Criminal Evidence (Application to the Police Ombudsman)(Amendment) Order (Northern Ireland) 2010 (S.R. 2010/46)](https://www.legislation.gov.uk/nisr/2010/46), [arts. 1](https://www.legislation.gov.uk/nisr/2010/46/article/1), [2(b)](https://www.legislation.gov.uk/nisr/2010/46/article/2/b)
 
-[^key-22bef5406e8d1166d86cf4c6984e1336]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2009/142/article/4) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
+[^c-22bef5406e8d1166d86cf4c6984e1336]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2009/142/article/4) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
 
 [^f00003]: Footnote: [S.R. 2000/314](https://www.legislation.gov.uk/nisr/2000/314)
 
-[^key-8f643cd92a9b017a5358af10e9972ac0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2009/142/schedule/1) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
+[^c-8f643cd92a9b017a5358af10e9972ac0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2009/142/schedule/1) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
 
 [^f00004]: Footnote: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341) Article 3 was amended by Article 3 of the Police and Criminal Evidence (Amendment)(Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
 
@@ -255,6 +255,6 @@ Article 4 provides for the revocation of the earlier instrument.
 
 [^f00036]: Footnote: Article 66(7) of the 1989 Order was repealed by Article 32 of, and Schedule 2 to, the Police (Amendment) (Northern Ireland) Order 1995 (S.I. [1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993)). Article 66(12) was revoked by section 125 of, and Schedule 16 to, the Terrorism Act [2000 (c. 11)](https://www.legislation.gov.uk/ukpga/2000/11). Article 66 has also been amended by section 35 of, and paragraph 110 of Schedule 1 to, the Armed Forces Act [1996 (c. 46)](https://www.legislation.gov.uk/ukpga/1996/46); section 72(3) of the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32); section 38 of, and Part 1 of Schedule 7 to, the Armed Forces Act [2001 (c. 19)](https://www.legislation.gov.uk/ukpga/2001/19); section 32 of, and paragraph 7 of Schedule 3 to, the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6) and Article 7(9) of the Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. [2007/912 (N.I. 6)](https://www.legislation.gov.uk/nisi/2007/912)).
 
-[^key-5551611d7f1ac2a0e9366d672e3d219b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2009/142/schedule/2) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
+[^c-5551611d7f1ac2a0e9366d672e3d219b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2009/142/schedule/2) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
 
-[^key-c4839effcef58fb85f6fcfe7930b0abb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2009/142/schedule/2) omitted (24.3.2010) by virtue of [The Police and Criminal Evidence (Application to the Police Ombudsman)(Amendment) Order (Northern Ireland) 2010 (S.R. 2010/46)](https://www.legislation.gov.uk/nisr/2010/46), [arts. 1](https://www.legislation.gov.uk/nisr/2010/46/article/1), [2(c)](https://www.legislation.gov.uk/nisr/2010/46/article/2/c)
+[^c-c4839effcef58fb85f6fcfe7930b0abb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2009/142/schedule/2) omitted (24.3.2010) by virtue of [The Police and Criminal Evidence (Application to the Police Ombudsman)(Amendment) Order (Northern Ireland) 2010 (S.R. 2010/46)](https://www.legislation.gov.uk/nisr/2010/46), [arts. 1](https://www.legislation.gov.uk/nisr/2010/46/article/1), [2(c)](https://www.legislation.gov.uk/nisr/2010/46/article/2/c)

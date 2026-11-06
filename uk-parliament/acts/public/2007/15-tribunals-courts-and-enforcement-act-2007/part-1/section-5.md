@@ -25,7 +25,7 @@ summary: ''
 - (a) is the Senior President of Tribunals,
 - (b) is a judge of the Upper Tribunal by virtue of appointment under paragraph 1(1) of Schedule 3,
 - (c) is a transferred-in judge of the Upper Tribunal (see section 31(2)),
-- (ca)[^key-27d5767a71c90c2239394f126579d8b0] is a judge of the First-tier Tribunal,
+- (ca)[^c-27d5767a71c90c2239394f126579d8b0] is a judge of the First-tier Tribunal,
 - (d) [^c21472761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) is the Chief Social Security Commissioner, or any other Social Security Commissioner, appointed under section 50(1) of the Social Security Administration (Northern Ireland) Act 1992 (c. 8),
 - (f) is a Social Security Commissioner appointed under section 50(2) of that Act (deputy Commissioners),
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-27d5767a71c90c2239394f126579d8b0]: Textual amendment: [S. 5(1)(ca)](https://www.legislation.gov.uk/ukpga/2007/15/section/5/1/ca) inserted (20.7.2023) by [Illegal Migration Act 2023 (c. 37)](https://www.legislation.gov.uk/ukpga/2023/37), [ss. 52](https://www.legislation.gov.uk/ukpga/2023/37/section/52), [68(3)(b)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/b) (with [s. 55(9)](https://www.legislation.gov.uk/ukpga/2023/37/section/55/9))
+[^c-27d5767a71c90c2239394f126579d8b0]: Textual amendment: [S. 5(1)(ca)](https://www.legislation.gov.uk/ukpga/2007/15/section/5/1/ca) inserted (20.7.2023) by [Illegal Migration Act 2023 (c. 37)](https://www.legislation.gov.uk/ukpga/2023/37), [ss. 52](https://www.legislation.gov.uk/ukpga/2023/37/section/52), [68(3)(b)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/b) (with [s. 55(9)](https://www.legislation.gov.uk/ukpga/2023/37/section/55/9))
 
 [^c21472761]: Textual amendment: S. 5(1)(d) omitted (15.2.2010) by virtue of [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [Sch. 1 para. 39(a)](https://www.legislation.gov.uk/uksi/2010/21/schedule/1/paragraph/39/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2010/21/schedule/4))
 

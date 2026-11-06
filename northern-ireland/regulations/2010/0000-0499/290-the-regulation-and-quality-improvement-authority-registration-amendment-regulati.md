@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety makes the following Regulations in exercise of the powers conferred on it by Articles 17 (1) (a) and (b) and 48 (2) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00001].
 
-## 1. Citation and commencement[^key-bfc9836937e39eb2df620db431cf925c]
+## 1. Citation and commencement[^c-bfc9836937e39eb2df620db431cf925c]
 
 These Regulations may be cited as the Regulation and Quality Improvement Authority (Registration) (Amendment) Regulations (Northern Ireland) 2010 and shall come into operation on 29<sup>th</sup> October 2010.
 
-## 2. Amendment of the Regulation and Improvement Authority (Registration) Regulations (Northern Ireland) 2005[^key-b7ff1ac6003e591a38f3d49e271d1e50]
+## 2. Amendment of the Regulation and Improvement Authority (Registration) Regulations (Northern Ireland) 2005[^c-b7ff1ac6003e591a38f3d49e271d1e50]
 
 (1) The Regulation and Improvement Authority (Registration) Regulations (Northern Ireland) 2005 [^f00002] shall be amended in accordance with the following paragraphs.
 
@@ -127,9 +127,9 @@ The amendments at Regulation 2(3) and 2(4) update provisions relating to crimina
 
 [^f00001]: Footnote: [S.I. 2003/431 (N.I.9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-bfc9836937e39eb2df620db431cf925c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/290/regulation/1) in operation at 29.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/290/regulation/1)
+[^c-bfc9836937e39eb2df620db431cf925c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/290/regulation/1) in operation at 29.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/290/regulation/1)
 
-[^key-b7ff1ac6003e591a38f3d49e271d1e50]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/290/regulation/2) in operation at 29.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/290/regulation/1)
+[^c-b7ff1ac6003e591a38f3d49e271d1e50]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/290/regulation/2) in operation at 29.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/290/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2005 No.99](https://www.legislation.gov.uk/nisr/2005/99) as amended by [S.R. 2007 No.222](https://www.legislation.gov.uk/nisr/2007/222)
 

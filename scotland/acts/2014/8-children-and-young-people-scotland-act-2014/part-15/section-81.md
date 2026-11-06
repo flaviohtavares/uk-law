@@ -22,12 +22,12 @@ summary: ''
 
 (1) In section 15 of the 2010 Act (call-in of closure proposals)—
 
-- (a)[^key-ec2b96a17ba73983f431475bb27abb40] in subsection (2), after paragraph (b)(ii) insert—
+- (a)[^c-ec2b96a17ba73983f431475bb27abb40] in subsection (2), after paragraph (b)(ii) insert—
 
   > - (iii) where the decision relates to a rural school, the notice published under section 11A(3).
 
   ,
-- (b)[^key-ec2b96a17ba73983f431475bb27abb40] after that subsection insert—
+- (b)[^c-ec2b96a17ba73983f431475bb27abb40] after that subsection insert—
 
   > (2A) At the same time as it notifies the Scottish Ministers of the decision under subsection (2)(a), the education authority must publish on its website notice of—
   >
@@ -35,23 +35,23 @@ summary: ''
   > - (b) the opportunity for making representations to the Scottish Ministers in connection with subsection (4), including the date on which the 3 week period referred to in that subsection ends.
 
   ,
-- (c)[^key-ec2b96a17ba73983f431475bb27abb40] in each of subsections (3), (4) and (6) for “6” substitute “ 8 ”,
-- (d)[^key-694000de7c8178e16a97cb938de5cac7] subsection (5) is repealed.
+- (c)[^c-ec2b96a17ba73983f431475bb27abb40] in each of subsections (3), (4) and (6) for “6” substitute “ 8 ”,
+- (d)[^c-694000de7c8178e16a97cb938de5cac7] subsection (5) is repealed.
 
-(2)[^key-694000de7c8178e16a97cb938de5cac7] Section 16 of the 2010 Act is repealed.
+(2)[^c-694000de7c8178e16a97cb938de5cac7] Section 16 of the 2010 Act is repealed.
 
 (3) In section 17 of the 2010 Act (grounds for call-in etc.)—
 
-- (a)[^key-694000de7c8178e16a97cb938de5cac7] in subsection (3)—
+- (a)[^c-694000de7c8178e16a97cb938de5cac7] in subsection (3)—
   - (i) the word “or” immediately following paragraph (a) is repealed,
   - (ii) paragraph (b) is repealed,
-- (b)[^key-ec2b96a17ba73983f431475bb27abb40] after that subsection insert—
+- (b)[^c-ec2b96a17ba73983f431475bb27abb40] after that subsection insert—
 
   > (3A) HMIE must provide the Scottish Ministers with such advice as to the educational aspects of a closure proposal as the Scottish Ministers may reasonably require of HMIE for the purpose of the Scottish Ministers' consideration of whether to issue a call-in notice.
 
   .
 
-(4)[^key-c43046b5ba9902bf3ac66ba83c36d632][^key-05dce2837164f5888ecc6fafefabe1a3][^key-effd6eef56742b80db9e2dec90fa3c19][^key-476f7bc109c544124552dcdebd3d9840][^key-b09a756946eec7faa8e51967bef5e746] After section 17 of the 2010 Act insert—
+(4)[^c-c43046b5ba9902bf3ac66ba83c36d632][^c-05dce2837164f5888ecc6fafefabe1a3][^c-effd6eef56742b80db9e2dec90fa3c19][^c-476f7bc109c544124552dcdebd3d9840][^c-b09a756946eec7faa8e51967bef5e746] After section 17 of the 2010 Act insert—
 
 > **17A. Referral to the Convener of the School Closure Review Panels**
 >
@@ -146,7 +146,7 @@ summary: ''
 
 .
 
-(5)[^key-c43046b5ba9902bf3ac66ba83c36d632][^key-476f7bc109c544124552dcdebd3d9840] After schedule 2 to the 2010 Act, insert—
+(5)[^c-c43046b5ba9902bf3ac66ba83c36d632][^c-476f7bc109c544124552dcdebd3d9840] After schedule 2 to the 2010 Act, insert—
 
 > **SCHEDULE 2A — School Closure Review Panels**
 >
@@ -245,9 +245,9 @@ summary: ''
 
 .
 
-(6)[^key-694000de7c8178e16a97cb938de5cac7] In section 4 of the 2010 Act (proposal paper), in subsection (2) for “17” substitute “ 17D ”.
+(6)[^c-694000de7c8178e16a97cb938de5cac7] In section 4 of the 2010 Act (proposal paper), in subsection (2) for “17” substitute “ 17D ”.
 
-(7)[^key-7c19e602b3c3bffb1652a372afbd9a15] In section 19 of the 2010 Act (guidance)—
+(7)[^c-7c19e602b3c3bffb1652a372afbd9a15] In section 19 of the 2010 Act (guidance)—
 
 - (a) the existing text becomes subsection (1),
 - (b) after that subsection insert—
@@ -258,8 +258,8 @@ summary: ''
 
 (8) In section 20 of the 2010 Act (regulations)—
 
-- (a)[^key-694000de7c8178e16a97cb938de5cac7] in subsection (3) for “17” substitute “ 17D ”,
-- (b)[^key-c43046b5ba9902bf3ac66ba83c36d632][^key-b09a756946eec7faa8e51967bef5e746] after subsection (6) insert—
+- (a)[^c-694000de7c8178e16a97cb938de5cac7] in subsection (3) for “17” substitute “ 17D ”,
+- (b)[^c-c43046b5ba9902bf3ac66ba83c36d632][^c-b09a756946eec7faa8e51967bef5e746] after subsection (6) insert—
 
   > (7) Regulations under section 17B(5) and paragraphs 1(9) and 2(5) of schedule 2A—
   >
@@ -269,7 +269,7 @@ summary: ''
 
   .
 
-(9)[^key-05dce2837164f5888ecc6fafefabe1a3][^key-aa589c55cd9875d1f5d0fec86f3de88f] In section 21(2) of the 2010 Act (definitions)—
+(9)[^c-05dce2837164f5888ecc6fafefabe1a3][^c-aa589c55cd9875d1f5d0fec86f3de88f] In section 21(2) of the 2010 Act (definitions)—
 
 - (a) after the definition of “consultation period” insert—
 
@@ -282,7 +282,7 @@ summary: ''
 
   .
 
-(10)[^key-7c19e602b3c3bffb1652a372afbd9a15] In the Scottish Public Services Ombudsman Act 2002, in schedule 2 (listed authorities), before paragraph 21C insert—
+(10)[^c-7c19e602b3c3bffb1652a372afbd9a15] In the Scottish Public Services Ombudsman Act 2002, in schedule 2 (listed authorities), before paragraph 21C insert—
 
 > **21ZC.**
 >
@@ -292,14 +292,14 @@ summary: ''
 
 (11) In the Freedom of Information (Scotland) Act 2002, in schedule 1 (Scottish public authorities)—
 
-- (a)[^key-7c19e602b3c3bffb1652a372afbd9a15] before paragraph 62C insert—
+- (a)[^c-7c19e602b3c3bffb1652a372afbd9a15] before paragraph 62C insert—
 
   > **62ZC.**
   >
   > The Convener of the School Closure Review Panels.
 
   ,
-- (b)[^key-694000de7c8178e16a97cb938de5cac7] after paragraph 76 insert—
+- (b)[^c-694000de7c8178e16a97cb938de5cac7] after paragraph 76 insert—
 
   > **76A.**
   >
@@ -307,24 +307,24 @@ summary: ''
 
   .
 
-(12)[^key-7c19e602b3c3bffb1652a372afbd9a15] In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2 (the specified authorities), before the cross-heading “Executive bodies” insert— “ the Convener of the School Closure Review Panels ”.
+(12)[^c-7c19e602b3c3bffb1652a372afbd9a15] In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2 (the specified authorities), before the cross-heading “Executive bodies” insert— “ the Convener of the School Closure Review Panels ”.
 
 ## Annotations
 
-[^key-ec2b96a17ba73983f431475bb27abb40]: Commencement: [S. 81(1)(a)-(c)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/a) [(3)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/3/b) in force at 1.8.2014 by [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-ec2b96a17ba73983f431475bb27abb40]: Commencement: [S. 81(1)(a)-(c)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/a) [(3)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/3/b) in force at 1.8.2014 by [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-694000de7c8178e16a97cb938de5cac7]: Commencement: [S. 81(1)(d)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/d)[(2)](https://www.legislation.gov.uk/asp/2014/8/section/81/2)[(3)(a)](https://www.legislation.gov.uk/asp/2014/8/section/81/3/a)[(6)](https://www.legislation.gov.uk/asp/2014/8/section/81/6)[(8)(a)](https://www.legislation.gov.uk/asp/2014/8/section/81/8/a)[(11)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/11/b) in force at 30.3.2015 by [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/104/article/3))
+[^c-694000de7c8178e16a97cb938de5cac7]: Commencement: [S. 81(1)(d)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/d)[(2)](https://www.legislation.gov.uk/asp/2014/8/section/81/2)[(3)(a)](https://www.legislation.gov.uk/asp/2014/8/section/81/3/a)[(6)](https://www.legislation.gov.uk/asp/2014/8/section/81/6)[(8)(a)](https://www.legislation.gov.uk/asp/2014/8/section/81/8/a)[(11)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/11/b) in force at 30.3.2015 by [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/104/article/3))
 
-[^key-c43046b5ba9902bf3ac66ba83c36d632]: Commencement: [S. 81(4)](https://www.legislation.gov.uk/asp/2014/8/section/81/4)[(5)](https://www.legislation.gov.uk/asp/2014/8/section/81/5)[(8)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/8/b) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2014/165/article/6))
+[^c-c43046b5ba9902bf3ac66ba83c36d632]: Commencement: [S. 81(4)](https://www.legislation.gov.uk/asp/2014/8/section/81/4)[(5)](https://www.legislation.gov.uk/asp/2014/8/section/81/5)[(8)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/8/b) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2014/165/article/6))
 
-[^key-05dce2837164f5888ecc6fafefabe1a3]: Commencement: [S. 81(4)](https://www.legislation.gov.uk/asp/2014/8/section/81/4)[(9)](https://www.legislation.gov.uk/asp/2014/8/section/81/9) in force at 6.10.2014 for specified purposes by [S.S.I. 2014/251](https://www.legislation.gov.uk/ssi/2014/251), [art. 2(a)](https://www.legislation.gov.uk/ssi/2014/251/article/2/a)
+[^c-05dce2837164f5888ecc6fafefabe1a3]: Commencement: [S. 81(4)](https://www.legislation.gov.uk/asp/2014/8/section/81/4)[(9)](https://www.legislation.gov.uk/asp/2014/8/section/81/9) in force at 6.10.2014 for specified purposes by [S.S.I. 2014/251](https://www.legislation.gov.uk/ssi/2014/251), [art. 2(a)](https://www.legislation.gov.uk/ssi/2014/251/article/2/a)
 
-[^key-effd6eef56742b80db9e2dec90fa3c19]: Commencement: [S. 81(4)](https://www.legislation.gov.uk/asp/2014/8/section/81/4) in force at 9.1.2015 for specified purposes by [S.S.I. 2014/365](https://www.legislation.gov.uk/ssi/2014/365), [art. 2(a)](https://www.legislation.gov.uk/ssi/2014/365/article/2/a)
+[^c-effd6eef56742b80db9e2dec90fa3c19]: Commencement: [S. 81(4)](https://www.legislation.gov.uk/asp/2014/8/section/81/4) in force at 9.1.2015 for specified purposes by [S.S.I. 2014/365](https://www.legislation.gov.uk/ssi/2014/365), [art. 2(a)](https://www.legislation.gov.uk/ssi/2014/365/article/2/a)
 
-[^key-476f7bc109c544124552dcdebd3d9840]: Commencement: [S. 81(4)](https://www.legislation.gov.uk/asp/2014/8/section/81/4)[(5)](https://www.legislation.gov.uk/asp/2014/8/section/81/5) in force at 9.1.2015 for specified purposes by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2014/353/article/2/1/a)
+[^c-476f7bc109c544124552dcdebd3d9840]: Commencement: [S. 81(4)](https://www.legislation.gov.uk/asp/2014/8/section/81/4)[(5)](https://www.legislation.gov.uk/asp/2014/8/section/81/5) in force at 9.1.2015 for specified purposes by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2014/353/article/2/1/a)
 
-[^key-b09a756946eec7faa8e51967bef5e746]: Commencement: [S. 81(4)](https://www.legislation.gov.uk/asp/2014/8/section/81/4)[(8)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/8/b) in force at 30.3.2015 in so far as not already in force by [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/104/article/3))
+[^c-b09a756946eec7faa8e51967bef5e746]: Commencement: [S. 81(4)](https://www.legislation.gov.uk/asp/2014/8/section/81/4)[(8)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/8/b) in force at 30.3.2015 in so far as not already in force by [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/104/article/3))
 
-[^key-7c19e602b3c3bffb1652a372afbd9a15]: Commencement: [S. 81(7)](https://www.legislation.gov.uk/asp/2014/8/section/81/7)[(10)](https://www.legislation.gov.uk/asp/2014/8/section/81/10)[(11)(a)](https://www.legislation.gov.uk/asp/2014/8/section/81/11/a)[(12)](https://www.legislation.gov.uk/asp/2014/8/section/81/12) in force at 9.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2014/353/article/2/1/b)
+[^c-7c19e602b3c3bffb1652a372afbd9a15]: Commencement: [S. 81(7)](https://www.legislation.gov.uk/asp/2014/8/section/81/7)[(10)](https://www.legislation.gov.uk/asp/2014/8/section/81/10)[(11)(a)](https://www.legislation.gov.uk/asp/2014/8/section/81/11/a)[(12)](https://www.legislation.gov.uk/asp/2014/8/section/81/12) in force at 9.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2014/353/article/2/1/b)
 
-[^key-aa589c55cd9875d1f5d0fec86f3de88f]: Commencement: [S. 81(9)](https://www.legislation.gov.uk/asp/2014/8/section/81/9) in force at 9.1.2015 in so far as not already in force by [S.S.I. 2014/365](https://www.legislation.gov.uk/ssi/2014/365), [art. 2(b)](https://www.legislation.gov.uk/ssi/2014/365/article/2/b)
+[^c-aa589c55cd9875d1f5d0fec86f3de88f]: Commencement: [S. 81(9)](https://www.legislation.gov.uk/asp/2014/8/section/81/9) in force at 9.1.2015 in so far as not already in force by [S.S.I. 2014/365](https://www.legislation.gov.uk/ssi/2014/365), [art. 2(b)](https://www.legislation.gov.uk/ssi/2014/365/article/2/b)

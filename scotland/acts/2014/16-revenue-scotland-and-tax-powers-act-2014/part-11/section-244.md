@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 244. Disposal of appeal[^key-2780e393c4579c658582c76b3421154f]
+## 244. Disposal of appeal[^c-2780e393c4579c658582c76b3421154f]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2780e393c4579c658582c76b3421154f]: Commencement: [S. 244](https://www.legislation.gov.uk/asp/2014/16/section/244) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-2780e393c4579c658582c76b3421154f]: Commencement: [S. 244](https://www.legislation.gov.uk/asp/2014/16/section/244) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

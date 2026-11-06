@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Amendment of section 85 (English text)[^key-4bef75946f70a186ab5d0c9b15a1ebd3]
+## 130. Amendment of section 85 (English text)[^c-4bef75946f70a186ab5d0c9b15a1ebd3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bef75946f70a186ab5d0c9b15a1ebd3]: Commencement: Reg. 130 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-4bef75946f70a186ab5d0c9b15a1ebd3]: Commencement: Reg. 130 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

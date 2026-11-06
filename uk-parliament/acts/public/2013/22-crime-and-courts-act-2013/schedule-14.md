@@ -26,7 +26,7 @@ Section 21
 
 #### Requests for assistance under section 9(1) of the Senior Courts Act 1981
 
-**1.**[^key-216b3ed4be87486a4956d535579c72b3] (1) Section 9 of the Senior Courts Act 1981 (which includes provision for certain judges to act as judges of other courts) is amended as follows.
+**1.**[^c-216b3ed4be87486a4956d535579c72b3] (1) Section 9 of the Senior Courts Act 1981 (which includes provision for certain judges to act as judges of other courts) is amended as follows.
 
 (2) In the table in subsection (1) (judges deployable to certain courts) in column 2 of each of entries 2 and 4 (person who has been a judge of the Court of Appeal, or has been a puisne judge of the High Court, may be asked to act as a judge of the Court of Appeal, High Court or Crown Court) before “and the Crown Court” insert “ , the family court, the county court ”.
 
@@ -69,7 +69,7 @@ Section 21
 
 #### Deputy judges of the High Court
 
-**2.**[^key-11c569453d281e1bb9746e168a1c98a2] (1) Section 9 of the Senior Courts Act 1981 (which includes provision about the appointment of deputy judges of the High Court) is amended as follows.
+**2.**[^c-11c569453d281e1bb9746e168a1c98a2] (1) Section 9 of the Senior Courts Act 1981 (which includes provision about the appointment of deputy judges of the High Court) is amended as follows.
 
 (2) In subsection (4) (power of Lord Chief Justice to appoint deputy judges to facilitate disposal of business in the High Court or Crown Court) after “Crown Court” insert “ or any other court or tribunal to which persons appointed under this subsection may be deployed ”.
 
@@ -91,7 +91,7 @@ Section 21
 
 (5) In the title omit the words after “business”.
 
-**3.**[^key-cb399113ba2257d7893cc995b62e322f] (1) In Table 2 of Part 2 of Schedule 14 to the Constitutional Reform Act 2005 (Judicial Appointments Commission: offices to which appointment made by Lord Chief Justice) before the first entry insert—
+**3.**[^c-cb399113ba2257d7893cc995b62e322f] (1) In Table 2 of Part 2 of Schedule 14 to the Constitutional Reform Act 2005 (Judicial Appointments Commission: offices to which appointment made by Lord Chief Justice) before the first entry insert—
 
 > |  |  |
 > | --- | --- |
@@ -127,7 +127,7 @@ Section 21
 
 ### Part 2 — Deployment of judges to the magistrates' courts
 
-**4.**[^key-f9c4da1e6cfc0584e729e6561d3d6a93] (1) Section 66 of the Courts Act 2003 (judges who have powers of justice of the peace who is a District Judge (Magistrates' Courts)) is amended as follows.
+**4.**[^c-f9c4da1e6cfc0584e729e6561d3d6a93] (1) Section 66 of the Courts Act 2003 (judges who have powers of justice of the peace who is a District Judge (Magistrates' Courts)) is amended as follows.
 
 (2) In subsection (2) after paragraph (a) insert—
 
@@ -158,7 +158,7 @@ Section 21
 
 ### Part 3 — Deployment of judges to the Court of Protection
 
-**5.**[^key-4be7ac6794e776e59cf6809af2c1cb80] (1) Section 46 of the Mental Capacity Act 2005 (judges of the Court of Protection) is amended as follows.
+**5.**[^c-4be7ac6794e776e59cf6809af2c1cb80] (1) Section 46 of the Mental Capacity Act 2005 (judges of the Court of Protection) is amended as follows.
 
 (2) In subsection (2) (persons who may be nominated as court's judges) omit the “or” at the end of paragraph (d) and, after paragraph (e), insert
 
@@ -191,15 +191,15 @@ Section 21
 
 ### Part 4 — Deployment of judges to the First-tier Tribunal and the Upper Tribunal
 
-**6.**[^key-f2dc42ba1a8cbfb40cdcf8946af32487] The Tribunals, Courts and Enforcement Act 2007 is amended as follows.
+**6.**[^c-f2dc42ba1a8cbfb40cdcf8946af32487] The Tribunals, Courts and Enforcement Act 2007 is amended as follows.
 
-**7.**[^key-a147abc05d2fb835cda6e57697cd11c3] In section 4(1) (judges of the First-tier Tribunal) after paragraph (c) insert—
+**7.**[^c-a147abc05d2fb835cda6e57697cd11c3] In section 4(1) (judges of the First-tier Tribunal) after paragraph (c) insert—
 
 > - (ca) is within section 6A,
 
 .
 
-**8.**[^key-27bf027af9dc0e6b57ba12f7ad21e995] (1) Section 6(1) (certain judges who are also judges of the First-tier Tribunal and the Upper Tribunal) is amended as follows.
+**8.**[^c-27bf027af9dc0e6b57ba12f7ad21e995] (1) Section 6(1) (certain judges who are also judges of the First-tier Tribunal and the Upper Tribunal) is amended as follows.
 
 (2) Before paragraph (a) insert—
 
@@ -218,7 +218,7 @@ Section 21
 
 .
 
-**9.**[^key-e812387ba981e930ee05bd23c69d2bc0] After section 6 insert—
+**9.**[^c-e812387ba981e930ee05bd23c69d2bc0] After section 6 insert—
 
 > **6A. Certain judges who are also judges of the First-tier Tribunal**
 >
@@ -233,7 +233,7 @@ Section 21
 > - (e) is a Deputy District Judge (Magistrates' Courts), or
 > - (f) is a person appointed under section 30(1)(a) or (b) of the Courts-Martial (Appeals) Act 1951 (assistants to the Judge Advocate General).
 
-**10.**[^key-9ab951d66623637ec5dfeb6d2c2f2840] (1) In paragraph 6(3)(a) of each of Schedules 2 and 3 (requests to certain judges to act as judges of First-tier Tribunal or Upper Tribunal may be made only with the concurrence of the Lord Chief Justice) omit the “or” at the end of sub-paragraph (iv) and, after sub-paragraph (v), insert
+**10.**[^c-9ab951d66623637ec5dfeb6d2c2f2840] (1) In paragraph 6(3)(a) of each of Schedules 2 and 3 (requests to certain judges to act as judges of First-tier Tribunal or Upper Tribunal may be made only with the concurrence of the Lord Chief Justice) omit the “or” at the end of sub-paragraph (iv) and, after sub-paragraph (v), insert
 
 > ,
 >
@@ -252,7 +252,7 @@ Section 21
 
 ### Part 5 — Deployment of judges to the Employment Appeal Tribunal
 
-**11.**[^key-d0435f204c08cd3daaf883fb2b419ad3] (1) Section 22 of the Employment Tribunals Act 1996 (membership of Employment Appeal Tribunal) is amended as follows.
+**11.**[^c-d0435f204c08cd3daaf883fb2b419ad3] (1) Section 22 of the Employment Tribunals Act 1996 (membership of Employment Appeal Tribunal) is amended as follows.
 
 (2) In subsection (1)(a) (judges drawn from the judges of the High Court, or Court of Appeal, in England and Wales) after “Court of Appeal” insert “ and the judges within subsection (2A) ”.
 
@@ -275,7 +275,7 @@ Section 21
 
 ### Part 6 — Deployment of judges to the employment tribunals
 
-**12.**[^key-58560dca6326f26375799e213f7692ba] (1) Section 5D of the Employment Tribunals Act 1996 (judicial assistance) is amended as follows.
+**12.**[^c-58560dca6326f26375799e213f7692ba] (1) Section 5D of the Employment Tribunals Act 1996 (judicial assistance) is amended as follows.
 
 (2) In subsection (2)(d)(ii) (appropriate consent required) after “(see subsection (3))” insert “ except where the relevant judge is the Lord Chief Justice of England and Wales ”.
 
@@ -323,7 +323,7 @@ Section 21
 
 ### Part 7 — Amendments following renaming of chairmen of employment tribunals
 
-**13.**[^key-d3d9246d91aa2f63c422a1e09a4fc178] (1) In the following provisions for “chairmen”, or for “chairmen of employment tribunals”, substitute “ Employment Judges ”
+**13.**[^c-d3d9246d91aa2f63c422a1e09a4fc178] (1) In the following provisions for “chairmen”, or for “chairmen of employment tribunals”, substitute “ Employment Judges ”
 
 - Constitutional Reform Act 2005: section 3(7B)(d) and (e),
 - Courts Act 1971: Part 1A of Schedule 2,
@@ -347,28 +347,28 @@ Section 21
 
 ## Annotations
 
-[^key-216b3ed4be87486a4956d535579c72b3]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/1) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g) (with savings in S.I. 2013/2192, reg. 49)
+[^c-216b3ed4be87486a4956d535579c72b3]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/1) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g) (with savings in S.I. 2013/2192, reg. 49)
 
-[^key-11c569453d281e1bb9746e168a1c98a2]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/2) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-11c569453d281e1bb9746e168a1c98a2]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/2) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
-[^key-cb399113ba2257d7893cc995b62e322f]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/3) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-cb399113ba2257d7893cc995b62e322f]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/3) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
-[^key-f9c4da1e6cfc0584e729e6561d3d6a93]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/4) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-f9c4da1e6cfc0584e729e6561d3d6a93]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/4) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
-[^key-4be7ac6794e776e59cf6809af2c1cb80]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/5) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-4be7ac6794e776e59cf6809af2c1cb80]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/5) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
-[^key-f2dc42ba1a8cbfb40cdcf8946af32487]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/6) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-f2dc42ba1a8cbfb40cdcf8946af32487]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/6) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
-[^key-a147abc05d2fb835cda6e57697cd11c3]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/7) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-a147abc05d2fb835cda6e57697cd11c3]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/7) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
-[^key-27bf027af9dc0e6b57ba12f7ad21e995]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/8) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-27bf027af9dc0e6b57ba12f7ad21e995]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/8) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
-[^key-e812387ba981e930ee05bd23c69d2bc0]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/9) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-e812387ba981e930ee05bd23c69d2bc0]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/9) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
-[^key-9ab951d66623637ec5dfeb6d2c2f2840]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/10) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-9ab951d66623637ec5dfeb6d2c2f2840]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/10) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
-[^key-d0435f204c08cd3daaf883fb2b419ad3]: Commencement: [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/11) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-d0435f204c08cd3daaf883fb2b419ad3]: Commencement: [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/11) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
-[^key-58560dca6326f26375799e213f7692ba]: Commencement: [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/12) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-58560dca6326f26375799e213f7692ba]: Commencement: [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/12) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
-[^key-d3d9246d91aa2f63c422a1e09a4fc178]: Commencement: [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/13) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-d3d9246d91aa2f63c422a1e09a4fc178]: Commencement: [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/13) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)

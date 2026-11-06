@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Revocation of referral order where offender making good progress etc[^key-01396299db21d35f9801a183de4d7c42]
+## 102. Revocation of referral order where offender making good progress etc[^c-01396299db21d35f9801a183de4d7c42]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ the panel may not refer the offender back to court again under this section duri
 
 ## Annotations
 
-[^key-01396299db21d35f9801a183de4d7c42]: Commencement: S. 102 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-01396299db21d35f9801a183de4d7c42]: Commencement: S. 102 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

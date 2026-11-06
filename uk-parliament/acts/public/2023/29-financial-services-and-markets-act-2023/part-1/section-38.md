@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Engagement with Parliamentary Committees[^key-ba26c0f0f9d5ff76c44e926cf7b28b43][^key-403e3ff157a7f72fff492cfa482fea27]
+## 38. Engagement with Parliamentary Committees[^c-ba26c0f0f9d5ff76c44e926cf7b28b43][^c-403e3ff157a7f72fff492cfa482fea27]
 
 *Extent: E+W+S+N.I.*
 
@@ -133,6 +133,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba26c0f0f9d5ff76c44e926cf7b28b43]: Commencement: S. 38 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ba26c0f0f9d5ff76c44e926cf7b28b43]: Commencement: S. 38 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-403e3ff157a7f72fff492cfa482fea27]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2023/29/section/38) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bb)
+[^c-403e3ff157a7f72fff492cfa482fea27]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2023/29/section/38) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bb)

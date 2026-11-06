@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Wales[^key-6d9168f34ec179a748126bfd019aa86d]
+## 46. Wales[^c-6d9168f34ec179a748126bfd019aa86d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d9168f34ec179a748126bfd019aa86d]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/2020/21/section/46) repealed (17.10.2023) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/2); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)
+[^c-6d9168f34ec179a748126bfd019aa86d]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/2020/21/section/46) repealed (17.10.2023) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/2); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)

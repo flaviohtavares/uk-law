@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Council Regulation [(EC) No 1954/2003](https://www.legislation.gov.uk/european/regulation/2003/1954) on the management of the fishing effort relating to certain Community fishing areas and resources[^key-b2b37abc7fa28887ac29c568c496a8cb]
+## 15. Council Regulation [(EC) No 1954/2003](https://www.legislation.gov.uk/european/regulation/2003/1954) on the management of the fishing effort relating to certain Community fishing areas and resources[^c-b2b37abc7fa28887ac29c568c496a8cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -213,4 +213,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2b37abc7fa28887ac29c568c496a8cb]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-b2b37abc7fa28887ac29c568c496a8cb]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)

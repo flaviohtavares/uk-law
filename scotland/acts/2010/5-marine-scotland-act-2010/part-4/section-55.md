@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Notice to stop activity causing serious harm etc.[^key-4a6c2d4f8a4e2ae44b0114f0f20eded2]
+## 55. Notice to stop activity causing serious harm etc.[^c-4a6c2d4f8a4e2ae44b0114f0f20eded2]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a6c2d4f8a4e2ae44b0114f0f20eded2]: Commencement: S. 55 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-4a6c2d4f8a4e2ae44b0114f0f20eded2]: Commencement: S. 55 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

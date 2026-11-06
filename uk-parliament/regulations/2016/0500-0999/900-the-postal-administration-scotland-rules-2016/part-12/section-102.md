@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Fees, expenses, etc.[^key-94d39dc11f885fa09d4d1f33f066ca1c]
+## 102. Fees, expenses, etc.[^c-94d39dc11f885fa09d4d1f33f066ca1c]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94d39dc11f885fa09d4d1f33f066ca1c]: Commencement: Rule 102 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-94d39dc11f885fa09d4d1f33f066ca1c]: Commencement: Rule 102 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

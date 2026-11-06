@@ -31,8 +31,8 @@ summary: ''
 (5) That report is final, subject to—
 
 - (a) an appeal against the decision under Schedule 1; or
-- (b) the referral of the decision for reconsideration under Schedule 1[^key-f705a730773a9345774c093815da48ba] .
+- (b) the referral of the decision for reconsideration under Schedule 1[^c-f705a730773a9345774c093815da48ba] .
 
 ## Annotations
 
-[^key-f705a730773a9345774c093815da48ba]: Textual amendment: Word in [reg. 104(5)(b)](https://www.legislation.gov.uk/nisr/2015/113/regulation/104/5/b) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [25](https://www.legislation.gov.uk/nisr/2024/38/regulation/25)
+[^c-f705a730773a9345774c093815da48ba]: Textual amendment: Word in [reg. 104(5)(b)](https://www.legislation.gov.uk/nisr/2015/113/regulation/104/5/b) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [25](https://www.legislation.gov.uk/nisr/2024/38/regulation/25)

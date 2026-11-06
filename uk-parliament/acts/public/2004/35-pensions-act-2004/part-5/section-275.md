@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 275. Jurisdiction[^key-09f97ec6e29ef21ea8300c4e77ac2d2c]
+## 275. Jurisdiction[^c-09f97ec6e29ef21ea8300c4e77ac2d2c]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09f97ec6e29ef21ea8300c4e77ac2d2c]: Commencement: S. 275 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-09f97ec6e29ef21ea8300c4e77ac2d2c]: Commencement: S. 275 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

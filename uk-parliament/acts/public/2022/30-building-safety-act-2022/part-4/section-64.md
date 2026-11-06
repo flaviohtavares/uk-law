@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Advice about regulations under section 62[^key-89cb8e4fc2eb68a8028f7bb7243a3f4f]
+## 64. Advice about regulations under section 62[^c-89cb8e4fc2eb68a8028f7bb7243a3f4f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the Secretary of State asks the regulator to provide advice about a propos
 
 ## Annotations
 
-[^key-89cb8e4fc2eb68a8028f7bb7243a3f4f]: Commencement: S. 64 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)
+[^c-89cb8e4fc2eb68a8028f7bb7243a3f4f]: Commencement: S. 64 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)

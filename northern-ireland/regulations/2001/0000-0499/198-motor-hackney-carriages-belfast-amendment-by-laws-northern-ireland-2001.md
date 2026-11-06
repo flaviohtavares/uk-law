@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2001 (revoked)[^key-403d0450bf0460f17390bc61f4e92b9d]
+Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2001 (revoked)[^c-403d0450bf0460f17390bc61f4e92b9d]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 18th June 2001
 
-[^key-403d0450bf0460f17390bc61f4e92b9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-403d0450bf0460f17390bc61f4e92b9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-403d0450bf0460f17390bc61f4e92b9d]
+## 1. Citation and commencement[^c-403d0450bf0460f17390bc61f4e92b9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. By-Laws amended[^key-403d0450bf0460f17390bc61f4e92b9d]
+## 2. By-Laws amended[^c-403d0450bf0460f17390bc61f4e92b9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-403d0450bf0460f17390bc61f4e92b9d]
+## 3. Revocation[^c-403d0450bf0460f17390bc61f4e92b9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-403d0450bf0460f17390bc61f4e92b9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-403d0450bf0460f17390bc61f4e92b9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-403d0450bf0460f17390bc61f4e92b9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-403d0450bf0460f17390bc61f4e92b9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-403d0450bf0460f17390bc61f4e92b9d]: Textual amendment: By-laws revoked (1.12.2004) by [Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2004 (S.R. 2004/441)](https://www.legislation.gov.uk/nisr/2004/441), by-law 3
+[^c-403d0450bf0460f17390bc61f4e92b9d]: Textual amendment: By-laws revoked (1.12.2004) by [Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2004 (S.R. 2004/441)](https://www.legislation.gov.uk/nisr/2004/441), by-law 3

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75A. National authority may require regulator, etc. to provide information[^key-a1c59afd26d8ef25fd484d72c3bd9d20]
+## 75A. National authority may require regulator, etc. to provide information[^c-a1c59afd26d8ef25fd484d72c3bd9d20]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1c59afd26d8ef25fd484d72c3bd9d20]: Textual amendment: Arts. 75A-75C inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [32](https://www.legislation.gov.uk/uksi/2020/1557/article/32)
+[^c-a1c59afd26d8ef25fd484d72c3bd9d20]: Textual amendment: Arts. 75A-75C inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [32](https://www.legislation.gov.uk/uksi/2020/1557/article/32)

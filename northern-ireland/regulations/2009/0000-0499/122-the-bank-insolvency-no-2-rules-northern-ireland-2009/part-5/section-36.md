@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Report where statement of affairs lodged[^key-80952f0b688dca07755c93105700abe6]
+## 36. Report where statement of affairs lodged[^c-80952f0b688dca07755c93105700abe6]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80952f0b688dca07755c93105700abe6]: Commencement: Rule 36 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-80952f0b688dca07755c93105700abe6]: Commencement: Rule 36 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.36. Intimation of registration of, or refusal to register, an order made in a Hague Convention Country[^key-289e91403016a3edcaffdb664c07e9be]
+## 5.36. Intimation of registration of, or refusal to register, an order made in a Hague Convention Country[^c-289e91403016a3edcaffdb664c07e9be]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-289e91403016a3edcaffdb664c07e9be]: Commencement: Rule 5.36 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-289e91403016a3edcaffdb664c07e9be]: Commencement: Rule 5.36 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

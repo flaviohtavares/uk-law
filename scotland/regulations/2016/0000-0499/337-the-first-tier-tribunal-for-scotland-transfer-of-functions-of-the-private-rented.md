@@ -46,30 +46,30 @@ In accordance with section 11(1)(a) and (b) of that Act, the Scottish Ministers 
 
 In accordance with section 79(2)(a) and (b) and section 80(2)(a) of that Act, a draft of this instrument has been laid before, and approved by resolution of, the Scottish Parliament.
 
-## 1. Citation and commencement[^key-e79a1b00c639d227623ffdfb1d6ceb42]
+## 1. Citation and commencement[^c-e79a1b00c639d227623ffdfb1d6ceb42]
 
 (1) These Regulations may be cited as the First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016.
 
 (2) These Regulations come into force on 1st December 2016.
 
-## 2. Interpretation[^key-38d07c27ddfbfc45cbb0d36746a1d916]
+## 2. Interpretation[^c-38d07c27ddfbfc45cbb0d36746a1d916]
 
 In these Regulations**—**
 
 - “the prhcs” means the rent assessment committees constituted in accordance with schedule 4 of the Rent (Scotland) Act 1984[^f00002], to be known as the private rented housing committees in terms of section 21(2) of the Housing (Scotland) Act 2006[^f00003]; and
 - “the prhcs functions” means the functions exercised by prhcs by virtue of section 21(3) of the Housing (Scotland) Act 2006.
 
-## 3. Transfer of prhcs functions to the First-tier Tribunal and abolition of prhcs[^key-7b2638922c08cff8e450ab26a52c5d63]
+## 3. Transfer of prhcs functions to the First-tier Tribunal and abolition of prhcs[^c-7b2638922c08cff8e450ab26a52c5d63]
 
 (1) Subject to regulations 4 and 5, the prhcs functions are transferred to the First-tier Tribunal with allocation to the First-tier Tribunal Housing and Property Chamber.
 
 (2) The prhcs are abolished.
 
-## 4. Transitional and savings provisions[^key-233ab5b6f341b294604470bab0646a5a]
+## 4. Transitional and savings provisions[^c-233ab5b6f341b294604470bab0646a5a]
 
 Schedule 1 of these Regulations contains transitional and savings provisions.
 
-## 5. Consequential amendments and repeals[^key-20ec6797bf369124081ec2bb0e05aac9]
+## 5. Consequential amendments and repeals[^c-20ec6797bf369124081ec2bb0e05aac9]
 
 (1) The consequential amendments and repeals of primary legislation set out in Part 1 of schedule 2 of these Regulations have effect.
 
@@ -89,23 +89,23 @@ Edinburgh
 
 Regulation 4
 
-### 1. Applications and proceedings in progress before the prhcs on 1st December 2016 to transfer to the First-tier Tribunal[^key-3c2babfe61a4ae0d5eb58340908a9d62]
+### 1. Applications and proceedings in progress before the prhcs on 1st December 2016 to transfer to the First-tier Tribunal[^c-3c2babfe61a4ae0d5eb58340908a9d62]
 
 Any applications referred to the prhcs before 1st December 2016 but not yet determined or any proceedings already in progress before that date involving prhcs shall be transferred to and be completed by the First-tier Tribunal but with so far as possible the same persons hearing and determining the case before the First-tier Tribunal as members of that tribunal as were prior to 1st December 2016 hearing the case as members of the prhcs.
 
-### 2. Decisions, directions and orders of the prhcs to continue in force[^key-d9fa7e098614e15c65ca9b83b4eaddb1]
+### 2. Decisions, directions and orders of the prhcs to continue in force[^c-d9fa7e098614e15c65ca9b83b4eaddb1]
 
 Any decision (whether or not called a decision), direction or order given or made in applications to and proceedings before the prhcs which is in force immediately before 1st December 2016 remains in force on and after that date as if it were a decision, direction or order of the First-tier Tribunal.
 
-### 3. Time limits in respect of applications to and proceedings before the prhcs to carry over to the First-tier Tribunal[^key-2e542846f98cbb6fc7c277baa0232157]
+### 3. Time limits in respect of applications to and proceedings before the prhcs to carry over to the First-tier Tribunal[^c-2e542846f98cbb6fc7c277baa0232157]
 
 Any time limit which has started to run before 1st December 2016 in respect of applications to and proceedings before the prhcs (and which has not expired) shall continue to apply where applications and proceedings are transferred to the First-tier Tribunal.
 
-### 4. Unexercised right of appeal to sheriff, if exercised, to be appeal to the Upper Tribunal[^key-adb6840107804b19293b33bfcadc6ec1]
+### 4. Unexercised right of appeal to sheriff, if exercised, to be appeal to the Upper Tribunal[^c-adb6840107804b19293b33bfcadc6ec1]
 
 Where in respect of a decision of the prhcs before 1st December 2016, there lies a right of appeal to the sheriff, which has not been exercised before that date but is still exercisable, any appeal on or after 1st December 2016 shall be to the Upper Tribunal for Scotland as if the decision had been made by the First-tier Tribunal and the appeal shall be an appeal from the First-tier Tribunal for the purposes of section 46(1) of the Tribunals (Scotland) Act 2014.
 
-### 5. Savings provision[^key-d8d0f7423359f08bff8aecc8dba7735a]
+### 5. Savings provision[^c-d8d0f7423359f08bff8aecc8dba7735a]
 
 Where in respect of a decision of the prhcs before 1st December 2016, there lies a right of appeal to the sheriff, which has been exercised before that date, the appeal to the sheriff is not affected by these Regulations or the First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Panel) Regulations 2016[^f00004].
 
@@ -115,7 +115,7 @@ Regulation 5
 
 ### PART 1 — Consequential amendments and repeals of primary legislation
 
-#### 1. Rent (Scotland) Act 1984[^key-87f5db4ce6f8ea414498652422bc58ea]
+#### 1. Rent (Scotland) Act 1984[^c-87f5db4ce6f8ea414498652422bc58ea]
 
 (1) The Rent (Scotland) Act 1984[^f00005] is amended as follows.
 
@@ -299,7 +299,7 @@ Regulation 5
 - (e) in paragraph 8, for “committee” in both places that it occurs substitute “First-tier Tribunal”; and
 - (f) in paragraph 9, for “a private rented housing committee” substitute “the First-tier Tribunal”.
 
-#### 2. Housing (Scotland) Act 1988[^key-ff3d6cb33129e51905ed7954f54a8591]
+#### 2. Housing (Scotland) Act 1988[^c-ff3d6cb33129e51905ed7954f54a8591]
 
 (1) The Housing (Scotland) Act 1988[^f00006] is amended as follows.
 
@@ -399,7 +399,7 @@ Regulation 5
 
 (19) The title of section 68 becomes “**Abolition of local authority’s power to refer Part VII contracts to the First-tier Tribunal**”.
 
-#### 3. Tribunals and Inquiries Act 1992[^key-58a57c0aedb6fdd717d3d2d3791e8315]
+#### 3. Tribunals and Inquiries Act 1992[^c-58a57c0aedb6fdd717d3d2d3791e8315]
 
 (1) The Tribunals and Inquiries Act 1992[^f00007] is amended as follows.
 
@@ -409,13 +409,13 @@ Regulation 5
 
 (4) In Part II of Schedule 1 (tribunals under supervision of Scottish committee), the entry relating to rents (that is to say, paragraph 59) is omitted.
 
-#### 4. Scottish Public Services Ombudsman Act 2002[^key-d1bad77245a2f14fff6b035f1babc08f]
+#### 4. Scottish Public Services Ombudsman Act 2002[^c-d1bad77245a2f14fff6b035f1babc08f]
 
 (1) The Scottish Public Services Ombudsman Act 2002[^f00008] is amended as follows.
 
 (2) In schedule 3 (specified tribunals for the purposes of sections 6 and 7), paragraph 5 is omitted.
 
-#### 5. Antisocial Behaviour etc. (Scotland) Act 2004[^key-b39bee9bdbe8d948a04b623b8858c004]
+#### 5. Antisocial Behaviour etc. (Scotland) Act 2004[^c-b39bee9bdbe8d948a04b623b8858c004]
 
 (1) The Antisocial Behaviour etc. (Scotland) Act 2004[^f00009] is amended as follows.
 
@@ -428,7 +428,7 @@ Regulation 5
 
 (3) The title of section 87A becomes “**Duty of local authority to note decisions of the First-tier Tribunal for Scotland Housing and Property Chamber**”.
 
-#### 6. Housing (Scotland) Act 2006[^key-a92d6b57e275f12ba0332d78de37bb0f]
+#### 6. Housing (Scotland) Act 2006[^c-a92d6b57e275f12ba0332d78de37bb0f]
 
 (1) The Housing (Scotland) Act 2006[^f00010] is amended as follows.
 
@@ -613,7 +613,7 @@ Regulation 5
     - (cc) in paragraph (b)(ii), for “they do” substitute “it does”; and
 - (i) in paragraph 8(2), for “a private rented housing committee” substitute “the First-tier Tribunal”.
 
-#### 7. Public Services Reform (Scotland) Act 2010[^key-deb3a4a1bdc66678ac1a4001cea8b30d]
+#### 7. Public Services Reform (Scotland) Act 2010[^c-deb3a4a1bdc66678ac1a4001cea8b30d]
 
 (1) The Public Services Reform (Scotland) Act 2010[^f00011] is amended as follows.
 
@@ -623,13 +623,13 @@ Regulation 5
 
 ### PART 2 — Consequential amendments and revocations of subordinate legislation
 
-#### 8. Assured Tenancies (Rent Information) (Scotland) Order 1989[^key-3577562d0614caf4d07f015f3f55e157]
+#### 8. Assured Tenancies (Rent Information) (Scotland) Order 1989[^c-3577562d0614caf4d07f015f3f55e157]
 
 (1) The Assured Tenancies (Rent Information) (Scotland) Order 1989[^f00012] is amended as follows.
 
 (2) In paragraph 10 of the schedule, for “private rented housing committee” substitute “First-tier Tribunal for Scotland Housing and Property Chamber”.
 
-#### 9. Rent Regulation (Forms and Information etc.) (Scotland) Regulations 1991[^key-1152d3e9de50d956486e7c539c5b7683]
+#### 9. Rent Regulation (Forms and Information etc.) (Scotland) Regulations 1991[^c-1152d3e9de50d956486e7c539c5b7683]
 
 (1) The Rent Regulation (Forms and Information etc.) (Scotland) Regulations 1991[^f00013] are amended as follows.
 
@@ -640,7 +640,7 @@ Regulation 5
 - (a) in Form 1 corresponding to the entry for Form 1 in the list (notice of increase of rent under a regulated tenancy etc.) for “Rent Assessment Committee” substitute “First-tier Tribunal for Scotland Housing and Property Chamber”; and
 - (b) the entry for Form 6 (notice requiring further information to be given to a private rented housing committee) and the corresponding Form 6 are omitted.
 
-#### 10. Public Contracts (Scotland) Regulations 2015[^key-eddcb84a7ec4c75d2d0e2c4971f5c6e6]
+#### 10. Public Contracts (Scotland) Regulations 2015[^c-eddcb84a7ec4c75d2d0e2c4971f5c6e6]
 
 (1) The Public Contracts (Scotland) Regulations 2015[^f00014] are amended as follows.
 
@@ -658,68 +658,68 @@ These Regulations also make consequential amendments to legislation, largely sub
 
 [^f00001]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-e79a1b00c639d227623ffdfb1d6ceb42]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/337/regulation/1) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-e79a1b00c639d227623ffdfb1d6ceb42]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/337/regulation/1) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
-[^key-38d07c27ddfbfc45cbb0d36746a1d916]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/337/regulation/2) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-38d07c27ddfbfc45cbb0d36746a1d916]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/337/regulation/2) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
 [^f00002]: Footnote: [1984 c.58](https://www.legislation.gov.uk/ukpga/1984/58).
 
 [^f00003]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
 
-[^key-7b2638922c08cff8e450ab26a52c5d63]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/337/regulation/3) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-7b2638922c08cff8e450ab26a52c5d63]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/337/regulation/3) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
-[^key-233ab5b6f341b294604470bab0646a5a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/337/regulation/4) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-233ab5b6f341b294604470bab0646a5a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/337/regulation/4) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
-[^key-20ec6797bf369124081ec2bb0e05aac9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/337/regulation/5) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-20ec6797bf369124081ec2bb0e05aac9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/337/regulation/5) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
-[^key-3c2babfe61a4ae0d5eb58340908a9d62]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1/paragraph/1) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-3c2babfe61a4ae0d5eb58340908a9d62]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1/paragraph/1) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
-[^key-d9fa7e098614e15c65ca9b83b4eaddb1]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2016/337/schedule/1/paragraph/2) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-d9fa7e098614e15c65ca9b83b4eaddb1]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2016/337/schedule/1/paragraph/2) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
-[^key-2e542846f98cbb6fc7c277baa0232157]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2016/337/schedule/1/paragraph/3) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-2e542846f98cbb6fc7c277baa0232157]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2016/337/schedule/1/paragraph/3) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
-[^key-adb6840107804b19293b33bfcadc6ec1]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2016/337/schedule/1/paragraph/4) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-adb6840107804b19293b33bfcadc6ec1]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2016/337/schedule/1/paragraph/4) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
-[^key-d8d0f7423359f08bff8aecc8dba7735a]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/337/schedule/1/paragraph/5) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-d8d0f7423359f08bff8aecc8dba7735a]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/337/schedule/1/paragraph/5) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
 [^f00004]: Footnote: [S.S.I. 2016/338](https://www.legislation.gov.uk/ssi/2016/338).
 
-[^key-87f5db4ce6f8ea414498652422bc58ea]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-87f5db4ce6f8ea414498652422bc58ea]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
 [^f00005]: Footnote: [1984 c.58](https://www.legislation.gov.uk/ukpga/1984/58).
 
-[^key-ff3d6cb33129e51905ed7954f54a8591]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/2) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-ff3d6cb33129e51905ed7954f54a8591]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/2) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
 [^f00006]: Footnote: [1988 c.43](https://www.legislation.gov.uk/ukpga/1988/43).
 
-[^key-58a57c0aedb6fdd717d3d2d3791e8315]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/3) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-58a57c0aedb6fdd717d3d2d3791e8315]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/3) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
 [^f00007]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-d1bad77245a2f14fff6b035f1babc08f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/4) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-d1bad77245a2f14fff6b035f1babc08f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/4) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
 [^f00008]: Footnote: [2002 asp 11](https://www.legislation.gov.uk/asp/2002/11).
 
-[^key-b39bee9bdbe8d948a04b623b8858c004]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/5) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-b39bee9bdbe8d948a04b623b8858c004]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/5) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
 [^f00009]: Footnote: [2004 asp 8](https://www.legislation.gov.uk/asp/2004/8).
 
-[^key-a92d6b57e275f12ba0332d78de37bb0f]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/6) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-a92d6b57e275f12ba0332d78de37bb0f]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/6) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
 [^f00010]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
 
-[^key-deb3a4a1bdc66678ac1a4001cea8b30d]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/7) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-deb3a4a1bdc66678ac1a4001cea8b30d]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/7) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
 [^f00011]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-3577562d0614caf4d07f015f3f55e157]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/8) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-3577562d0614caf4d07f015f3f55e157]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/8) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 1989/685](https://www.legislation.gov.uk/uksi/1989/685).
 
-[^key-1152d3e9de50d956486e7c539c5b7683]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/9) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-1152d3e9de50d956486e7c539c5b7683]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/9) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 1991/1521](https://www.legislation.gov.uk/uksi/1991/1521).
 
-[^key-eddcb84a7ec4c75d2d0e2c4971f5c6e6]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/10) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
+[^c-eddcb84a7ec4c75d2d0e2c4971f5c6e6]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/10) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2)
 
 [^f00014]: Footnote: [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446).

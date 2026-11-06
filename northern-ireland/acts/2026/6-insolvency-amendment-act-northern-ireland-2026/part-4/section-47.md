@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Removal of liquidator: voluntary winding up[^key-fd6f8e37cd74e1ddcb663ec88c9ec2a3]
+## 47. Removal of liquidator: voluntary winding up[^c-fd6f8e37cd74e1ddcb663ec88c9ec2a3]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd6f8e37cd74e1ddcb663ec88c9ec2a3]: Commencement: S. 47 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-fd6f8e37cd74e1ddcb663ec88c9ec2a3]: Commencement: S. 47 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

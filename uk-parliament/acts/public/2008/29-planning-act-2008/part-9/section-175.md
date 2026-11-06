@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Blighted land: England and Wales[^key-8bed74123d1b0a27706fd3a529cd4a0f]
+## 175. Blighted land: England and Wales[^c-8bed74123d1b0a27706fd3a529cd4a0f]
 
 *Extent: E+W+S*
 
-(1)[^key-6bf28e43e7fd4fd3981301d9e35c2735] TCPA 1990 is amended as follows.
+(1)[^c-6bf28e43e7fd4fd3981301d9e35c2735] TCPA 1990 is amended as follows.
 
-(2)[^key-6bf28e43e7fd4fd3981301d9e35c2735] In Schedule 13 (blighted land) after paragraph 23 insert—
+(2)[^c-6bf28e43e7fd4fd3981301d9e35c2735] In Schedule 13 (blighted land) after paragraph 23 insert—
 
 > **24.**
 >
@@ -49,17 +49,17 @@ summary: ''
 - (b) after “notes)” insert “ or paragraph 24 ”, and
 - (c) after “Schedule 13 and” insert “ (except in the case of land falling within paragraph 24(c) of that Schedule) ”.
 
-(4)[^key-6bf28e43e7fd4fd3981301d9e35c2735] In section 151 (counter-notices objecting to blight notices) after subsection (7) insert—
+(4)[^c-6bf28e43e7fd4fd3981301d9e35c2735] In section 151 (counter-notices objecting to blight notices) after subsection (7) insert—
 
 > (7A) The grounds on which objection may be made in a counter-notice to a blight notice served by virtue of paragraph 25 of Schedule 13 do not include those mentioned in subsection (4)(b).
 
-(5)[^key-6bf28e43e7fd4fd3981301d9e35c2735] After section 165 (power of Secretary of State to acquire land affected by orders relating to new towns etc. where blight notice served) insert—
+(5)[^c-6bf28e43e7fd4fd3981301d9e35c2735] After section 165 (power of Secretary of State to acquire land affected by orders relating to new towns etc. where blight notice served) insert—
 
 > **165A. Power of Secretary of State to acquire land identified in national policy statements where blight notice served**
 >
 > Where a blight notice has been served in respect of land falling within paragraph 25 of Schedule 13, the Secretary of State has power to acquire compulsorily any interest in the land in pursuance of the blight notice served by virtue of that paragraph.
 
-(6)[^key-6bf28e43e7fd4fd3981301d9e35c2735] In section 169 (meaning of “the appropriate authority” for purposes of Chapter 2 of Part 6) after subsection (5) insert—
+(6)[^c-6bf28e43e7fd4fd3981301d9e35c2735] In section 169 (meaning of “the appropriate authority” for purposes of Chapter 2 of Part 6) after subsection (5) insert—
 
 > (6) In relation to land falling within paragraph 25 of Schedule 13, “the appropriate authority” is—
 >
@@ -75,7 +75,7 @@ summary: ''
 >
 > (8) In subsections (6) and (7) “**statutory undertaker**” means a person who is, or is deemed to be, a statutory undertaker for the purposes of any provision of Part 11.
 
-(7)[^key-6bf28e43e7fd4fd3981301d9e35c2735] In section 170 (“appropriate enactment” for purposes of Chapter 2) after subsection (8) insert—
+(7)[^c-6bf28e43e7fd4fd3981301d9e35c2735] In section 170 (“appropriate enactment” for purposes of Chapter 2) after subsection (8) insert—
 
 > (8A) In relation to land falling within paragraph 24(a) or (b) of that Schedule, “the appropriate enactment” is the order granting development consent.
 >
@@ -83,7 +83,7 @@ summary: ''
 >
 > (8C) In relation to land falling within paragraph 25 of that Schedule, “the appropriate enactment” is section 165A.
 
-(8)[^key-6bf28e43e7fd4fd3981301d9e35c2735] In section 171(1) (general interpretation of Chapter 2 of Part 6) at the appropriate place insert—
+(8)[^c-6bf28e43e7fd4fd3981301d9e35c2735] In section 171(1) (general interpretation of Chapter 2 of Part 6) at the appropriate place insert—
 
 > “**national policy statement**” has the meaning given by section 5(2) of the Planning Act 2008;
 
@@ -91,6 +91,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8bed74123d1b0a27706fd3a529cd4a0f]: Commencement: S. 175 in force at 1.3.2010 for E.W. in so far as not already in force by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(f)](https://www.legislation.gov.uk/uksi/2010/101/article/4/f) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-8bed74123d1b0a27706fd3a529cd4a0f]: Commencement: S. 175 in force at 1.3.2010 for E.W. in so far as not already in force by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(f)](https://www.legislation.gov.uk/uksi/2010/101/article/4/f) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-6bf28e43e7fd4fd3981301d9e35c2735]: Commencement: S. 175(1) (2) (4)-(8) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/400/article/3/b)
+[^c-6bf28e43e7fd4fd3981301d9e35c2735]: Commencement: S. 175(1) (2) (4)-(8) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/400/article/3/b)

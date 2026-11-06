@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36C. Non-lottery funds[^key-48f6b853886e48d3ccba40d9df792484]
+## 36C. Non-lottery funds[^c-48f6b853886e48d3ccba40d9df792484]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48f6b853886e48d3ccba40d9df792484]: Textual amendment: Ss. 36B-36E inserted (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2006/23/section/15/2), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/c)
+[^c-48f6b853886e48d3ccba40d9df792484]: Textual amendment: Ss. 36B-36E inserted (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2006/23/section/15/2), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/c)

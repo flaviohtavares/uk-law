@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Power of direction: investigation functions[^key-26fdb7a151b60fdeb7f584c7633701d9][^key-01c39cfa6c8882b538e850745a40b825]
+## 44. Power of direction: investigation functions[^c-26fdb7a151b60fdeb7f584c7633701d9][^c-01c39cfa6c8882b538e850745a40b825]
 
 *Extent: E+W*
 
@@ -132,6 +132,6 @@ summary: ''
 
 ## Annotations
 
-[^key-26fdb7a151b60fdeb7f584c7633701d9]: Commencement: S. 44 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-26fdb7a151b60fdeb7f584c7633701d9]: Commencement: S. 44 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-01c39cfa6c8882b538e850745a40b825]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2022/31/section/44) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-01c39cfa6c8882b538e850745a40b825]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2022/31/section/44) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

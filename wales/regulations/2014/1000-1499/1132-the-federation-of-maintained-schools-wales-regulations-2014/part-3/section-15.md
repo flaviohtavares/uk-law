@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Teacher governors[^key-05a7805112492d92ad8fb373a9bb27e9]
+## 15. Teacher governors[^c-05a7805112492d92ad8fb373a9bb27e9]
 
 *Extent: E+W*
 
@@ -34,13 +34,13 @@ summary: ''
 
 (4) Paragraph (3)(b) does not apply to—
 
-- (a)[^key-dc3da6ee577596f78ae948870e5ace13] any person employed to work at two or more federated schools in the federation ; or[^key-dcd34d795a43ae2557881069ae787300]
+- (a)[^c-dc3da6ee577596f78ae948870e5ace13] any person employed to work at two or more federated schools in the federation ; or[^c-dcd34d795a43ae2557881069ae787300]
 - (b) a federation that consists of only two schools.
 
 ## Annotations
 
-[^key-05a7805112492d92ad8fb373a9bb27e9]: Commencement: Reg. 15 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-05a7805112492d92ad8fb373a9bb27e9]: Commencement: Reg. 15 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
-[^key-dc3da6ee577596f78ae948870e5ace13]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/15/4/a) renumbered as reg. 15(4)(a) (4.2.2022) by [The Federation of Maintained Schools (Wales) (Amendment) Regulations 2021 (S.I. 2021/1431)](https://www.legislation.gov.uk/wsi/2021/1431), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1431/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2021/1431/regulation/2/2/a)
+[^c-dc3da6ee577596f78ae948870e5ace13]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/15/4/a) renumbered as reg. 15(4)(a) (4.2.2022) by [The Federation of Maintained Schools (Wales) (Amendment) Regulations 2021 (S.I. 2021/1431)](https://www.legislation.gov.uk/wsi/2021/1431), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1431/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2021/1431/regulation/2/2/a)
 
-[^key-dcd34d795a43ae2557881069ae787300]: Textual amendment: [Reg. 15(4)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/15/4/b) and word inserted (4.2.2022) by [The Federation of Maintained Schools (Wales) (Amendment) Regulations 2021 (S.I. 2021/1431)](https://www.legislation.gov.uk/wsi/2021/1431), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1431/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2021/1431/regulation/2/2/b)
+[^c-dcd34d795a43ae2557881069ae787300]: Textual amendment: [Reg. 15(4)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/15/4/b) and word inserted (4.2.2022) by [The Federation of Maintained Schools (Wales) (Amendment) Regulations 2021 (S.I. 2021/1431)](https://www.legislation.gov.uk/wsi/2021/1431), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1431/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2021/1431/regulation/2/2/b)

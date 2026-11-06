@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Regulations[^key-6b3e8fed8d8f92be2e9e11be2510f07a]
+## 52. Regulations[^c-6b3e8fed8d8f92be2e9e11be2510f07a]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Any power of the Scottish Ministers to make regulations under this Act, other th
 
 ## Annotations
 
-[^key-6b3e8fed8d8f92be2e9e11be2510f07a]: Commencement: S. 52 in force at 11.8.2022, see [s. 56(1)](https://www.legislation.gov.uk/asp/2022/9/section/56/1)
+[^c-6b3e8fed8d8f92be2e9e11be2510f07a]: Commencement: S. 52 in force at 11.8.2022, see [s. 56(1)](https://www.legislation.gov.uk/asp/2022/9/section/56/1)

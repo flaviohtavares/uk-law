@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Reviews of sentencing: time limits[^key-7c72ac07fae5a01b077c61ea2af0029d]
+## 13. Reviews of sentencing: time limits[^c-7c72ac07fae5a01b077c61ea2af0029d]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-7c72ac07fae5a01b077c61ea2af0029d] [Schedule 3](https://www.legislation.gov.uk/ukpga/1988/33/schedule/3) to the [Criminal Justice Act 1988](https://www.legislation.gov.uk/ukpga/1988/33/contents) (reviews of sentencing — supplementary) is amended as follows.
+(1)[^c-7c72ac07fae5a01b077c61ea2af0029d] [Schedule 3](https://www.legislation.gov.uk/ukpga/1988/33/schedule/3) to the [Criminal Justice Act 1988](https://www.legislation.gov.uk/ukpga/1988/33/contents) (reviews of sentencing — supplementary) is amended as follows.
 
 (2) In [paragraph 1](https://www.legislation.gov.uk/ukpga/1988/33/schedule/3/paragraph/1) (time limit for notice of application for leave to refer a case)—
 
-- (a)[^key-7c72ac07fae5a01b077c61ea2af0029d] the existing provision becomes sub-paragraph (1);
-- (b)[^key-7c72ac07fae5a01b077c61ea2af0029d] at the end of [that sub-paragraph](https://www.legislation.gov.uk/ukpga/1988/33/schedule/3/paragraph/1) insert “; but in England and Wales this is subject to sub-paragraphs (2) and (5).”;
-- (c)[^key-7c72ac07fae5a01b077c61ea2af0029d] after [that sub-paragraph](https://www.legislation.gov.uk/ukpga/1988/33/schedule/3/paragraph/1) insert—
+- (a)[^c-7c72ac07fae5a01b077c61ea2af0029d] the existing provision becomes sub-paragraph (1);
+- (b)[^c-7c72ac07fae5a01b077c61ea2af0029d] at the end of [that sub-paragraph](https://www.legislation.gov.uk/ukpga/1988/33/schedule/3/paragraph/1) insert “; but in England and Wales this is subject to sub-paragraphs (2) and (5).”;
+- (c)[^c-7c72ac07fae5a01b077c61ea2af0029d] after [that sub-paragraph](https://www.legislation.gov.uk/ukpga/1988/33/schedule/3/paragraph/1) insert—
 
   > (2) Where—
   >
@@ -50,7 +50,7 @@ summary: ''
   >   - (ii) where the request is received by the Attorney General within the last 14 days of the six-month period mentioned in sub-paragraph (i), within 14 days from the day on which the request is received, and
   > - (c) it is in the interests of justice to allow notice to be given after the expiry of the period in sub-paragraph (1) (and any extension of that period under sub-paragraph (2)).
 
-(3)[^key-7c72ac07fae5a01b077c61ea2af0029d] In [paragraph 12](https://www.legislation.gov.uk/ukpga/1988/33/schedule/3/paragraph/12) (application of Schedule to Northern Ireland), after [paragraph (d)](https://www.legislation.gov.uk/ukpga/1988/33/schedule/3/paragraph/12) insert—
+(3)[^c-7c72ac07fae5a01b077c61ea2af0029d] In [paragraph 12](https://www.legislation.gov.uk/ukpga/1988/33/schedule/3/paragraph/12) (application of Schedule to Northern Ireland), after [paragraph (d)](https://www.legislation.gov.uk/ukpga/1988/33/schedule/3/paragraph/12) insert—
 
 > - (da) paragraph 1 has effect as if sub-paragraphs (2) to (5) were omitted;
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c72ac07fae5a01b077c61ea2af0029d]: Commencement: [S. 13(1)(2)(a)-(c)](https://www.legislation.gov.uk/ukpga/2026/19/section/13/1/2/a)(3) in force at 29.6.2026, see [s. 18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+[^c-7c72ac07fae5a01b077c61ea2af0029d]: Commencement: [S. 13(1)(2)(a)-(c)](https://www.legislation.gov.uk/ukpga/2026/19/section/13/1/2/a)(3) in force at 29.6.2026, see [s. 18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)

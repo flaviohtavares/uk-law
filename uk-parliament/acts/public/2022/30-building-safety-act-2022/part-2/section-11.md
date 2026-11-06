@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Residents’ panel[^key-2dc58bb2430ba32fd284338c7650ecf5][^key-34ae4f61840c9791d12a029aed6ce794]
+## 11. Residents’ panel[^c-2dc58bb2430ba32fd284338c7650ecf5][^c-34ae4f61840c9791d12a029aed6ce794]
 
 *Extent: E+W*
 
-(1) The regulator must [^key-0e2ab980784e1714f6bc0599085f3ca7]... establish and maintain a committee with the functions mentioned in this section (and any other function that the regulator considers appropriate).
+(1) The regulator must [^c-0e2ab980784e1714f6bc0599085f3ca7]... establish and maintain a committee with the functions mentioned in this section (and any other function that the regulator considers appropriate).
 
 (2) The committee is to consist of—
 
@@ -63,8 +63,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2dc58bb2430ba32fd284338c7650ecf5]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-2dc58bb2430ba32fd284338c7650ecf5]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-34ae4f61840c9791d12a029aed6ce794]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/30/section/11) in force at 1.12.2022 in so far as not already in force by [S.I. 2022/1210](https://www.legislation.gov.uk/uksi/2022/1210), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1210/regulation/2/c)
+[^c-34ae4f61840c9791d12a029aed6ce794]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/30/section/11) in force at 1.12.2022 in so far as not already in force by [S.I. 2022/1210](https://www.legislation.gov.uk/uksi/2022/1210), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1210/regulation/2/c)
 
-[^key-0e2ab980784e1714f6bc0599085f3ca7]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/11/1) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/15) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-0e2ab980784e1714f6bc0599085f3ca7]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/11/1) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/15) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))

@@ -22,11 +22,11 @@ summary: ''
 
 (1) Part 2 of Schedule 6 to the Finance Act 2001 (c. 9) (aggregates levy: civil penalties) is amended as follows.
 
-(2)[^key-a4759f294573fd25dd2015d22ccf0405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a4759f294573fd25dd2015d22ccf0405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a4759f294573fd25dd2015d22ccf0405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a4759f294573fd25dd2015d22ccf0405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-a4759f294573fd25dd2015d22ccf0405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a4759f294573fd25dd2015d22ccf0405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) After paragraph 9 insert—
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4759f294573fd25dd2015d22ccf0405]: Textual amendment: S. 133(2)-(4) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(j)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/j) (with savings in S.I. 2009/511, art. 4(f)); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/571/article/6))
+[^c-a4759f294573fd25dd2015d22ccf0405]: Textual amendment: S. 133(2)-(4) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(j)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/j) (with savings in S.I. 2009/511, art. 4(f)); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/571/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. The unpaid rent condition[^key-2abe47d5b4f6a6822e08bf40a4ddddb2]
+## 58. The unpaid rent condition[^c-2abe47d5b4f6a6822e08bf40a4ddddb2]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2abe47d5b4f6a6822e08bf40a4ddddb2]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2016/22/part/3) omitted (27.12.2025) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 59](https://www.legislation.gov.uk/ukpga/2025/26/section/59), [145(5)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/b) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
+[^c-2abe47d5b4f6a6822e08bf40a4ddddb2]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2016/22/part/3) omitted (27.12.2025) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 59](https://www.legislation.gov.uk/ukpga/2025/26/section/59), [145(5)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/b) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))

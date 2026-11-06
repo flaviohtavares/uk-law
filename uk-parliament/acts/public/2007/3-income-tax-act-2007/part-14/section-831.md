@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 831. Foreign income of individuals in the United Kingdom for temporary purpose[^key-6850ae6ca54e28986cc916120152e80c]
+## 831. Foreign income of individuals in the United Kingdom for temporary purpose[^c-6850ae6ca54e28986cc916120152e80c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6850ae6ca54e28986cc916120152e80c]: Textual amendment: Ss. 829-832 omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 152(6)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/152/6)
+[^c-6850ae6ca54e28986cc916120152e80c]: Textual amendment: Ss. 829-832 omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 152(6)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/152/6)

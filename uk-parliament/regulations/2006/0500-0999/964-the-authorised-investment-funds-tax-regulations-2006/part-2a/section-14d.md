@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14D. Clearance in relation to the genuine diversity of ownership condition[^key-478e049d6ba17290404d0411f8118b73]
+## 14D. Clearance in relation to the genuine diversity of ownership condition[^c-478e049d6ba17290404d0411f8118b73]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-478e049d6ba17290404d0411f8118b73]: Textual amendment: [Reg. 14D](https://www.legislation.gov.uk/uksi/2006/964/regulation/14D) omitted (1.9.2009) by virtue of [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/2036/regulation/9)
+[^c-478e049d6ba17290404d0411f8118b73]: Textual amendment: [Reg. 14D](https://www.legislation.gov.uk/uksi/2006/964/regulation/14D) omitted (1.9.2009) by virtue of [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/2036/regulation/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12A. Date of delivery or appropriation: shipped oil not sold at arm's length[^key-04ed24e5e57ed11b6edbd7713940d99b]
+## 12A. Date of delivery or appropriation: shipped oil not sold at arm's length[^c-04ed24e5e57ed11b6edbd7713940d99b]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ if the condition in subsection (3)(a) or (b) below is met.
 
 ## Annotations
 
-[^key-04ed24e5e57ed11b6edbd7713940d99b]: Textual amendment: S. 12A inserted (with effect in accordance with Sch. 18 para. 5(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/5/1)
+[^c-04ed24e5e57ed11b6edbd7713940d99b]: Textual amendment: S. 12A inserted (with effect in accordance with Sch. 18 para. 5(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/5/1)

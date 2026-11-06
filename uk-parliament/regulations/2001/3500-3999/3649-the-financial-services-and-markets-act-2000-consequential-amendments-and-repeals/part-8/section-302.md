@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 302. Agreements to indemnify certain lenders in Scotland: consultation requirements[^key-e0168d1e12a144033cdd47129adaa6c8]
+## 302. Agreements to indemnify certain lenders in Scotland: consultation requirements[^c-e0168d1e12a144033cdd47129adaa6c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 86(4)[^f00230] of the Housing Associations Act 1985 (requirement to c
 
 ## Annotations
 
-[^key-e0168d1e12a144033cdd47129adaa6c8]: Commencement: Art. 302 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e0168d1e12a144033cdd47129adaa6c8]: Commencement: Art. 302 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00230]: Footnote: The reference to the Building Societies Commission in section 86(4) was substituted by the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53), Schedule 18, paragraph 19(3).

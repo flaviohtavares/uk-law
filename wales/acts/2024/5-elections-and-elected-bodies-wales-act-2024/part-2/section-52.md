@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Notice of resolutions on status of communities as towns[^key-d1d77007144c711b688efcf3cc8adfc4]
+## 52. Notice of resolutions on status of communities as towns[^c-d1d77007144c711b688efcf3cc8adfc4]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1d77007144c711b688efcf3cc8adfc4]: Commencement: [S. 52](https://www.legislation.gov.uk/asc/2024/5/section/52) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)
+[^c-d1d77007144c711b688efcf3cc8adfc4]: Commencement: [S. 52](https://www.legislation.gov.uk/asc/2024/5/section/52) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)

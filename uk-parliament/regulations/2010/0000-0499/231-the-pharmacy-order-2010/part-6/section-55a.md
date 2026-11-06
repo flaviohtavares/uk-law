@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55A. Knowledge of English assessments[^key-11fa9584c90144910bb0913d52de747b]
+## 55A. Knowledge of English assessments[^c-11fa9584c90144910bb0913d52de747b]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ requiring a registrant to undertake an examination or other assessment of that r
 
 ## Annotations
 
-[^key-11fa9584c90144910bb0913d52de747b]: Textual amendment: [Art. 55A](https://www.legislation.gov.uk/uksi/2010/231/article/55A) inserted (4.1.2016) by [The Health Care and Associated Professions (Knowledge of English) Order 2015 (S.I. 2015/806)](https://www.legislation.gov.uk/uksi/2015/806), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/806/article/1/3), [55](https://www.legislation.gov.uk/uksi/2015/806/article/55); [S.I. 2015/1451](https://www.legislation.gov.uk/uksi/2015/1451), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/1451/article/3/b)
+[^c-11fa9584c90144910bb0913d52de747b]: Textual amendment: [Art. 55A](https://www.legislation.gov.uk/uksi/2010/231/article/55A) inserted (4.1.2016) by [The Health Care and Associated Professions (Knowledge of English) Order 2015 (S.I. 2015/806)](https://www.legislation.gov.uk/uksi/2015/806), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/806/article/1/3), [55](https://www.legislation.gov.uk/uksi/2015/806/article/55); [S.I. 2015/1451](https://www.legislation.gov.uk/uksi/2015/1451), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/1451/article/3/b)

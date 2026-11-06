@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendment of the Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020[^key-8e02a41138d175c4a561f47265c673dd]
+## 3. Amendment of the Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020[^c-8e02a41138d175c4a561f47265c673dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) 
 
 ## Annotations
 
-[^key-8e02a41138d175c4a561f47265c673dd]: Commencement: Reg. 3 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-8e02a41138d175c4a561f47265c673dd]: Commencement: Reg. 3 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2020/1559](https://www.legislation.gov.uk/uksi/2020/1559), relevantly amended by [S.I. 2021/1282](https://www.legislation.gov.uk/uksi/2021/1282).
 

@@ -34,18 +34,18 @@ of 5 December 2019
 
 amending Regulation (EU) No 1163/2014 on supervisory fees (ECB/2019/37) (revoked)
 
-[^key-95593463e9a29a85b31db292a3a4d3a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95593463e9a29a85b31db292a3a4d3a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments[^key-95593463e9a29a85b31db292a3a4d3a7]
+## Article 1. Amendments[^c-95593463e9a29a85b31db292a3a4d3a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force[^key-95593463e9a29a85b31db292a3a4d3a7]
+## Article 2. Entry into force[^c-95593463e9a29a85b31db292a3a4d3a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-95593463e9a29a85b31db292a3a4d3a7]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/b), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/1)
+[^c-95593463e9a29a85b31db292a3a4d3a7]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/b), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/1)

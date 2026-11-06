@@ -48,11 +48,11 @@ In accordance with Article 47(1) of the 2003 Order, the Department has had regar
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-1e6ce60f24b1fc35a71a595d968e61de]
+### 1. Citation and commencement[^c-1e6ce60f24b1fc35a71a595d968e61de]
 
 This Order may be cited as the Criminal Defence Services (Remuneration) Order (Northern Ireland) 2016 and shall come into operation on 15th April 2016.
 
-### 2. Interpretation[^key-ac474f4ca48b9573e6097f77167111f4]
+### 2. Interpretation[^c-ac474f4ca48b9573e6097f77167111f4]
 
 In this Order, unless the context otherwise requires –
 
@@ -72,13 +72,13 @@ In this Order, unless the context otherwise requires –
 - “right to representation” means a right to representation granted under Article 26(1) or (5) of the 2003 Order;
 - “the Taxing Master” means the Master (Taxing Office).
 
-### 3. Application[^key-154b638bb4581d00d1c8bf98b25a4d96]
+### 3. Application[^c-154b638bb4581d00d1c8bf98b25a4d96]
 
 (1) This Order shall apply for the determination of the remuneration payable to representatives in respect of providing criminal defence services where the work is done under a right to representation granted on or after 15th April 2016.
 
 (2) Where a right to representation is granted before 15th April 2016 for proceedings in the Court of Appeal, the provisions of section 28 of the 1980 Act apply.
 
-### 4. Scope[^key-7f6352268e39acc276b9c5c7d6f18010]
+### 4. Scope[^c-7f6352268e39acc276b9c5c7d6f18010]
 
 (1) Article 5 and Part 2 of this Order apply to proceedings in the Court of Appeal only.
 
@@ -86,17 +86,17 @@ In this Order, unless the context otherwise requires –
 
 (3) Article 7 applies to retrials in the Crown Court only.
 
-### 5. Proceedings in the Court of Appeal[^key-0fb8ea79721893cb3f1b3de7bf4325cd]
+### 5. Proceedings in the Court of Appeal[^c-0fb8ea79721893cb3f1b3de7bf4325cd]
 
 In proceedings in the Court of Appeal, the remuneration payable to a representative shall be determined by the Taxing Master in accordance with Part 2 of this Order and such Practice Directions as may be issued by the Master.
 
-### 6. Proceedings in the Supreme Court[^key-3fee9809cfcd8a65835591eee2cc225a]
+### 6. Proceedings in the Supreme Court[^c-3fee9809cfcd8a65835591eee2cc225a]
 
 (1) In proceedings in the Supreme Court, the remuneration payable to a representative shall be determined by such officer as may be prescribed by order of the Supreme Court.
 
 (2) Subject to paragraph (1), this Order does not apply to proceedings in the Supreme Court.
 
-### 7. Retrials in the Crown Court[^key-b8e70aa69ac9ded4660eaf194ed3f3b4]
+### 7. Retrials in the Crown Court[^c-b8e70aa69ac9ded4660eaf194ed3f3b4]
 
 (1) Paragraph (2) applies in relation to the remuneration payable to a representative in respect of the case of an appellant who is to be retried before the Crown Court by virtue of an order of the Court of Appeal under section 6 of the 1980 Act.
 
@@ -106,7 +106,7 @@ In proceedings in the Court of Appeal, the remuneration payable to a representat
 
 ## PART 2 — APPEAL TO COURT OF APPEAL FROM CROWN COURT
 
-### 8. Service of notices and documents[^key-437e5383795238fe4b90f2daa399f679]
+### 8. Service of notices and documents[^c-437e5383795238fe4b90f2daa399f679]
 
 (1) Any document that is required to be sent to the Taxing Master under this Part may be sent –
 
@@ -118,7 +118,7 @@ In proceedings in the Court of Appeal, the remuneration payable to a representat
 - (a) by post to the postal address given by the representative as their address for service; or
 - (b) by electronic mail.
 
-### 9. Claims for remuneration by representatives[^key-4a17d53deceb8d052e57a28c8ba76770]
+### 9. Claims for remuneration by representatives[^c-4a17d53deceb8d052e57a28c8ba76770]
 
 (1) Claims for remuneration by representatives shall be made and determined in accordance with the provisions of this Article and Article 10.
 
@@ -139,7 +139,7 @@ In proceedings in the Court of Appeal, the remuneration payable to a representat
 
 (7) The representative shall supply such further particulars, information and documents as the Taxing Master may require.
 
-### 10. Determination of representatives’ fees[^key-f3122ff4ec1e2a60c97156baf1003d31]
+### 10. Determination of representatives’ fees[^c-f3122ff4ec1e2a60c97156baf1003d31]
 
 (1) The Taxing Master shall consider the claim, any further particulars, information or documents submitted by the representative under Article 9 and any other relevant information and shall allow such work as appears to the Master to have been reasonably undertaken and properly done.
 
@@ -151,11 +151,11 @@ In proceedings in the Court of Appeal, the remuneration payable to a representat
 
 (5) When the allowance has been confirmed or finalised by the Taxing Master after considering any objections, the Taxing Office shall issue a certificate certifying the amount of the allowance.
 
-### 11. Determination of solicitors’ disbursements[^key-3b61a682ea08845bfd2d6ffda2f828cf]
+### 11. Determination of solicitors’ disbursements[^c-3b61a682ea08845bfd2d6ffda2f828cf]
 
 The Taxing Master shall allow such disbursements claimed by a solicitor under Article 9 as appear to the Master to have been actually and reasonably incurred.
 
-### 12. Payment of remuneration[^key-f9c6e784351b08d8109be0df454a97ae]
+### 12. Payment of remuneration[^c-f9c6e784351b08d8109be0df454a97ae]
 
 (1) Having determined the remuneration payable to a representative in accordance with this Order, the Taxing Master shall notify the representative and the Department of the amount payable, and the Department shall authorise payment accordingly.
 
@@ -165,7 +165,7 @@ The Taxing Master shall allow such disbursements claimed by a solicitor under Ar
 - (b) where the remuneration is decreased, the representative shall repay the amount of such decrease; and
 - (c) where the payment of any costs to the representative is ordered under Article 13(6)(b) or 14(5), the Department shall authorise such payment.
 
-### 13. Review by the Taxing Master[^key-efc53526ade32065caa024d9f5414d30]
+### 13. Review by the Taxing Master[^c-efc53526ade32065caa024d9f5414d30]
 
 (1) Where a representative is dissatisfied with the amount of the remuneration allowed by the Taxing Master under Article 10, the representative may apply to the Master to review that decision.
 
@@ -189,7 +189,7 @@ The Taxing Master shall allow such disbursements claimed by a solicitor under Ar
 
 (8) The Taxing Master shall also communicate the decision on the review and the reasons for it to the Department and shall send to the Department copies of such documents as the Department may require.
 
-### 14. Appeals to the High Court[^key-0c1e48fcd96c6eef457c3f5235ab6fd5]
+### 14. Appeals to the High Court[^c-0c1e48fcd96c6eef457c3f5235ab6fd5]
 
 (1) Where a representative is dissatisfied with the decision of the Taxing Master on a review under Article 13, the representative may appeal against that decision to the High Court and the Department shall be a respondent to such an appeal.
 
@@ -201,7 +201,7 @@ The Taxing Master shall allow such disbursements claimed by a solicitor under Ar
 
 (5) An appeal to the High Court under this Article shall be made in accordance with the provisions of Order 55 Part 2 of the Rules of the Court of Judicature (Northern Ireland) 1980[^f00008].
 
-### 15. Time limits[^key-0e35a93ee1dca23c28ea52041bde7a50]
+### 15. Time limits[^c-0e35a93ee1dca23c28ea52041bde7a50]
 
 (1) Subject to paragraph (2), the time limit within which any act is required or authorised to be done under this Order may, for good reason, be extended –
 
@@ -240,9 +240,9 @@ This Order comes into operation on 15th April 2016.
 
 [^f00002]: Footnote: [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)
 
-[^key-1e6ce60f24b1fc35a71a595d968e61de]: Commencement: Art. 1 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
+[^c-1e6ce60f24b1fc35a71a595d968e61de]: Commencement: Art. 1 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
 
-[^key-ac474f4ca48b9573e6097f77167111f4]: Commencement: Art. 2 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
+[^c-ac474f4ca48b9573e6097f77167111f4]: Commencement: Art. 2 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
 
 [^f00003]: Footnote: [1980 c. 47](https://www.legislation.gov.uk/ukpga/1980/47). Sections 19 and 37 of, together with paragraph 1 of Schedule 1 to, the 1980 Act were repealed by the Access to Justice (2003 Order) (Commencement No. 8) Order (Northern Ireland) 2015 – [S.R. 2015 No. 237 (C. 17)](https://www.legislation.gov.uk/nisr/2015/237)
 
@@ -250,34 +250,34 @@ This Order comes into operation on 15th April 2016.
 
 [^f00005]: Footnote: [S.R. 2016 No. 197](https://www.legislation.gov.uk/nisr/2016/197)
 
-[^key-154b638bb4581d00d1c8bf98b25a4d96]: Commencement: Art. 3 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
+[^c-154b638bb4581d00d1c8bf98b25a4d96]: Commencement: Art. 3 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
 
-[^key-7f6352268e39acc276b9c5c7d6f18010]: Commencement: Art. 4 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
+[^c-7f6352268e39acc276b9c5c7d6f18010]: Commencement: Art. 4 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
 
-[^key-0fb8ea79721893cb3f1b3de7bf4325cd]: Commencement: Art. 5 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
+[^c-0fb8ea79721893cb3f1b3de7bf4325cd]: Commencement: Art. 5 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
 
-[^key-3fee9809cfcd8a65835591eee2cc225a]: Commencement: Art. 6 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
+[^c-3fee9809cfcd8a65835591eee2cc225a]: Commencement: Art. 6 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
 
-[^key-b8e70aa69ac9ded4660eaf194ed3f3b4]: Commencement: Art. 7 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
+[^c-b8e70aa69ac9ded4660eaf194ed3f3b4]: Commencement: Art. 7 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
 
 [^f00006]: Footnote: [S.R. 2005 No. 112](https://www.legislation.gov.uk/nisr/2005/112), which was amended by [S.R. 2009 No. 267](https://www.legislation.gov.uk/nisr/2009/267), [S.R. 2011 No. 152](https://www.legislation.gov.uk/nisr/2011/152), [S.R. 2013 No. 293](https://www.legislation.gov.uk/nisr/2013/293), [S.R. 2015 No. 215](https://www.legislation.gov.uk/nisr/2015/215), [S.R. 2016 No. 200](https://www.legislation.gov.uk/nisr/2016/200) and [S.R. 2016 No. 201](https://www.legislation.gov.uk/nisr/2016/201)
 
 [^f00007]: Footnote: [S.I. 1981/228 (N.I. 8)](https://www.legislation.gov.uk/nisi/1981/228)
 
-[^key-437e5383795238fe4b90f2daa399f679]: Commencement: Art. 8 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
+[^c-437e5383795238fe4b90f2daa399f679]: Commencement: Art. 8 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
 
-[^key-4a17d53deceb8d052e57a28c8ba76770]: Commencement: Art. 9 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
+[^c-4a17d53deceb8d052e57a28c8ba76770]: Commencement: Art. 9 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
 
-[^key-f3122ff4ec1e2a60c97156baf1003d31]: Commencement: Art. 10 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
+[^c-f3122ff4ec1e2a60c97156baf1003d31]: Commencement: Art. 10 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
 
-[^key-3b61a682ea08845bfd2d6ffda2f828cf]: Commencement: Art. 11 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
+[^c-3b61a682ea08845bfd2d6ffda2f828cf]: Commencement: Art. 11 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
 
-[^key-f9c6e784351b08d8109be0df454a97ae]: Commencement: Art. 12 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
+[^c-f9c6e784351b08d8109be0df454a97ae]: Commencement: Art. 12 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
 
-[^key-efc53526ade32065caa024d9f5414d30]: Commencement: Art. 13 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
+[^c-efc53526ade32065caa024d9f5414d30]: Commencement: Art. 13 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
 
-[^key-0c1e48fcd96c6eef457c3f5235ab6fd5]: Commencement: Art. 14 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
+[^c-0c1e48fcd96c6eef457c3f5235ab6fd5]: Commencement: Art. 14 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
 
 [^f00008]: Footnote: [S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346), to which there have been various amendments none of which are relevant to this Order. The Rules of the Supreme Court (Northern Ireland) 1980 were renamed in accordance with paragraph 3 of Schedule 11 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4)
 
-[^key-0e35a93ee1dca23c28ea52041bde7a50]: Commencement: Art. 15 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)
+[^c-0e35a93ee1dca23c28ea52041bde7a50]: Commencement: Art. 15 in operation at 15.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1)

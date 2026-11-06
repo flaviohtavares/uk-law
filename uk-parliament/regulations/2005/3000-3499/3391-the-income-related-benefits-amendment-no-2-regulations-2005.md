@@ -74,11 +74,11 @@ These Regulations may be cited as the Income-related Benefits (Amendment) (No. 2
   - (ii) in sub-paragraph (7) for the words “and the Skipton Fund” substitute “ , the Skipton Fund and the London Bombings Relief Charitable Fund ”;
 - (b) omit paragraph 22A [^c1352394].
 
-## 3. Amendments of the Housing Benefit (General) Regulations 1987[^key-839798c664ef7f425e44362a3c241f4f]
+## 3. Amendments of the Housing Benefit (General) Regulations 1987[^c-839798c664ef7f425e44362a3c241f4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments of the Council Tax Benefit (General) Regulations 1992[^key-839798c664ef7f425e44362a3c241f4f]
+## 4. Amendments of the Council Tax Benefit (General) Regulations 1992[^c-839798c664ef7f425e44362a3c241f4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -203,7 +203,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1352394]: Marginal citation: [Paragraph 22A](https://www.legislation.gov.uk/uksi/2005/3391/paragraph/22A) was inserted by [S.I. 2005/2183](https://www.legislation.gov.uk/uksi/2005/2183).
 
-[^key-839798c664ef7f425e44362a3c241f4f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/3391/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-839798c664ef7f425e44362a3c241f4f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/3391/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1352416]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 

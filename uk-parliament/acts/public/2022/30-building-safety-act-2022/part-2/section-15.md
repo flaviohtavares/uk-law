@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Provision of assistance etc: supplementary[^key-82208dc3bf2cdd9ddb7a97be15429be1][^key-bd3b062c90b1186e78f0cb42b40e6d34]
+## 15. Provision of assistance etc: supplementary[^c-82208dc3bf2cdd9ddb7a97be15429be1][^c-bd3b062c90b1186e78f0cb42b40e6d34]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-82208dc3bf2cdd9ddb7a97be15429be1]: Commencement: S. 15 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-82208dc3bf2cdd9ddb7a97be15429be1]: Commencement: S. 15 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-bd3b062c90b1186e78f0cb42b40e6d34]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/30/section/15) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(d)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/d)
+[^c-bd3b062c90b1186e78f0cb42b40e6d34]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/30/section/15) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(d)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/d)

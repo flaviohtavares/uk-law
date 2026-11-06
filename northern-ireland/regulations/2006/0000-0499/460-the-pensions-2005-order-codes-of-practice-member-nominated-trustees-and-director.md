@@ -31,28 +31,28 @@ summary: ''
 
 PENSIONS
 
-The Pensions (2005 Order) (Codes of Practice) (Member-nominated Trustees and Directors and Internal Controls) (Appointed Day) Order (Northern Ireland) 2006 (revoked)[^key-c20ce8143d2a259dd4f67b27fd5b7899]
+The Pensions (2005 Order) (Codes of Practice) (Member-nominated Trustees and Directors and Internal Controls) (Appointed Day) Order (Northern Ireland) 2006 (revoked)[^c-c20ce8143d2a259dd4f67b27fd5b7899]
 
 Made
 
 20th November 2006
 
-[^key-c20ce8143d2a259dd4f67b27fd5b7899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c20ce8143d2a259dd4f67b27fd5b7899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-c20ce8143d2a259dd4f67b27fd5b7899]
+## 1. Citation[^c-c20ce8143d2a259dd4f67b27fd5b7899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed day[^key-c20ce8143d2a259dd4f67b27fd5b7899]
+## 2. Appointed day[^c-c20ce8143d2a259dd4f67b27fd5b7899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c20ce8143d2a259dd4f67b27fd5b7899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c20ce8143d2a259dd4f67b27fd5b7899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c20ce8143d2a259dd4f67b27fd5b7899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c20ce8143d2a259dd4f67b27fd5b7899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c20ce8143d2a259dd4f67b27fd5b7899]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/460) revoked (5.7.2024) by [The Pensions (2005 Order) (Code of Practice) (General) (Appointed Day, Amendment and Revocations) Order (Northern Ireland) 2024 (S.R. 2024/132)](https://www.legislation.gov.uk/nisr/2024/132), [art. 4(b)](https://www.legislation.gov.uk/nisr/2024/132/article/4/b)
+[^c-c20ce8143d2a259dd4f67b27fd5b7899]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/460) revoked (5.7.2024) by [The Pensions (2005 Order) (Code of Practice) (General) (Appointed Day, Amendment and Revocations) Order (Northern Ireland) 2024 (S.R. 2024/132)](https://www.legislation.gov.uk/nisr/2024/132), [art. 4(b)](https://www.legislation.gov.uk/nisr/2024/132/article/4/b)

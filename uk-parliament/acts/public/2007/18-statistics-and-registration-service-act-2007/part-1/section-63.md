@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Investigation by Parliamentary Commissioner[^key-aa16ce490a9f75d581d1138ae06a43e9]
+## 63. Investigation by Parliamentary Commissioner[^c-aa16ce490a9f75d581d1138ae06a43e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa16ce490a9f75d581d1138ae06a43e9]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2007/18/section/63) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-aa16ce490a9f75d581d1138ae06a43e9]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2007/18/section/63) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

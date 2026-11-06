@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Removal of requirements related to licensing to deal in venison[^key-b17384aaa0f2865578c148f72cdc7d1f]
+## 39. Removal of requirements related to licensing to deal in venison[^c-b17384aaa0f2865578c148f72cdc7d1f]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b17384aaa0f2865578c148f72cdc7d1f]: Commencement: S. 39 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-b17384aaa0f2865578c148f72cdc7d1f]: Commencement: S. 39 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

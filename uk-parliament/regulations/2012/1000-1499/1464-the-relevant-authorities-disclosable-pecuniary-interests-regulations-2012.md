@@ -44,9 +44,9 @@ Coming into force
 
 1st July 2012
 
-The Secretary of State, in exercise of the powers conferred by sections 30(3) and 235(2) of the Localism Act 2011[^f00001], makes the following Regulations.[^key-6d18f2b4b4c70c941646995b76c7ecfb][^key-1750e2b92d8be6f60b06507409894a6e][^key-d8dd7c5b2efff80262ff3a33098acb27]
+The Secretary of State, in exercise of the powers conferred by sections 30(3) and 235(2) of the Localism Act 2011[^f00001], makes the following Regulations.[^c-6d18f2b4b4c70c941646995b76c7ecfb][^c-1750e2b92d8be6f60b06507409894a6e][^c-d8dd7c5b2efff80262ff3a33098acb27]
 
-## 1. Citation, commencement and interpretation[^key-3dd01a23891ba6c9e85a729666f95224]
+## 1. Citation, commencement and interpretation[^c-3dd01a23891ba6c9e85a729666f95224]
 
 (1) These Regulations may be cited as the Relevant Authorities (Disclosable Pecuniary Interests) Regulations 2012 and shall come into force on 1st July 2012.
 
@@ -54,7 +54,7 @@ The Secretary of State, in exercise of the powers conferred by sections 30(3) an
 
 - “the Act” means the Localism Act 2011;
 - “body in which the relevant person has a beneficial interest” means a firm in which the relevant person is a partner or a body corporate of which the relevant person is a director, or in the securities of which the relevant person has a beneficial interest;
-- “director” includes a member of the committee of management of a registered society within the meaning given by section 1(1) of the Co-operative and Community Benefit Societies Act 2014, other than a society registered as a credit union[^key-9448ce0f090e0f0b9f2f6e67d27cf29f];
+- “director” includes a member of the committee of management of a registered society within the meaning given by section 1(1) of the Co-operative and Community Benefit Societies Act 2014, other than a society registered as a credit union[^c-9448ce0f090e0f0b9f2f6e67d27cf29f];
 - “land” excludes an easement, servitude, interest or right in or over land which does not carry with it a right for the relevant person (alone or jointly with another) to occupy the land or to receive income;
 - “M” means a member of a relevant authority;
 - “member” includes a co-opted member;
@@ -63,7 +63,7 @@ The Secretary of State, in exercise of the powers conferred by sections 30(3) an
 - “relevant person” means M or any other person referred to in section 30(3)(b) of the Act;
 - “securities” means shares, debentures, debenture stock, loan stock, bonds, units of a collective investment scheme within the meaning of the Financial Services and Markets Act 2000[^f00002] and other securities of any description, other than money deposited with a building society.
 
-## 2. Specified pecuniary interests[^key-a7affbecd96d435e84382650f2b4a575]
+## 2. Specified pecuniary interests[^c-a7affbecd96d435e84382650f2b4a575]
 
 The pecuniary interests which are specified for the purposes of Chapter 7 of Part 1 of the Act are the interests specified in the second column of the Schedule to these Regulations.
 
@@ -77,7 +77,7 @@ Department for Communities and Local Government
 
 6th June 2012
 
-## SCHEDULE[^key-5701b48e56e10cdc7c9321c9e6db2192]
+## SCHEDULE[^c-5701b48e56e10cdc7c9321c9e6db2192]
 
 Regulation 2
 
@@ -103,20 +103,20 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00001]: Footnote: [2011 c.20](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-6d18f2b4b4c70c941646995b76c7ecfb]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/1464) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/2)
+[^c-6d18f2b4b4c70c941646995b76c7ecfb]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/1464) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/2)
 
-[^key-1750e2b92d8be6f60b06507409894a6e]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/1464) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/1)
+[^c-1750e2b92d8be6f60b06507409894a6e]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/1464) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/1)
 
-[^key-d8dd7c5b2efff80262ff3a33098acb27]: Modification: Regulations applied (15.1.2014) by [1959 c. xlvi](https://www.legislation.gov.uk/ukla/1959/46), [s. 11(3)(f)](https://www.legislation.gov.uk/ukla/1959/46/section/11/3/f) (as substituted by [Humber Bridge Act 2013 (c. vi)](https://www.legislation.gov.uk/ukla/2013/6), [s. 1(1)](https://www.legislation.gov.uk/ukla/2013/6/section/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukla/2013/6/schedule/1/paragraph/1))
+[^c-d8dd7c5b2efff80262ff3a33098acb27]: Modification: Regulations applied (15.1.2014) by [1959 c. xlvi](https://www.legislation.gov.uk/ukla/1959/46), [s. 11(3)(f)](https://www.legislation.gov.uk/ukla/1959/46/section/11/3/f) (as substituted by [Humber Bridge Act 2013 (c. vi)](https://www.legislation.gov.uk/ukla/2013/6), [s. 1(1)](https://www.legislation.gov.uk/ukla/2013/6/section/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukla/2013/6/schedule/1/paragraph/1))
 
-[^key-3dd01a23891ba6c9e85a729666f95224]: Commencement: Reg. 1 in force at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1464/regulation/1/1)
+[^c-3dd01a23891ba6c9e85a729666f95224]: Commencement: Reg. 1 in force at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1464/regulation/1/1)
 
-[^key-9448ce0f090e0f0b9f2f6e67d27cf29f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1464/regulation/1/2) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/30)
+[^c-9448ce0f090e0f0b9f2f6e67d27cf29f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1464/regulation/1/2) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/30)
 
 [^f00002]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-a7affbecd96d435e84382650f2b4a575]: Commencement: Reg. 2 in force at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1464/regulation/1/1)
+[^c-a7affbecd96d435e84382650f2b4a575]: Commencement: Reg. 2 in force at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1464/regulation/1/1)
 
-[^key-5701b48e56e10cdc7c9321c9e6db2192]: Commencement: Sch. in force at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1464/regulation/1/1)
+[^c-5701b48e56e10cdc7c9321c9e6db2192]: Commencement: Sch. in force at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1464/regulation/1/1)
 
 [^f00003]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).

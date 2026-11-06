@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 114. Eligible child’s pension[^key-31d093d40f0876c7906cb2b278304d98]
+## 114. Eligible child’s pension[^c-31d093d40f0876c7906cb2b278304d98]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31d093d40f0876c7906cb2b278304d98]: Commencement: [Reg. 114](https://www.legislation.gov.uk/nisr/2014/290/regulation/114) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-31d093d40f0876c7906cb2b278304d98]: Commencement: [Reg. 114](https://www.legislation.gov.uk/nisr/2014/290/regulation/114) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Interpretation of Part 2[^key-5ec57e0024bf1b891cfe98c97b1bb892]
+## 39. Interpretation of Part 2[^c-5ec57e0024bf1b891cfe98c97b1bb892]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In this Part—
 
 ## Annotations
 
-[^key-5ec57e0024bf1b891cfe98c97b1bb892]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/36/section/39) in force at 28.6.2022, see [s. 87(5)(e)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/e)
+[^c-5ec57e0024bf1b891cfe98c97b1bb892]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/36/section/39) in force at 28.6.2022, see [s. 87(5)(e)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/e)

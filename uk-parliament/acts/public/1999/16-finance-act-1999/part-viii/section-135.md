@@ -27,7 +27,7 @@ summary: ''
 
 that sum may be lent to the National Loans Fund on that day.
 
-(2) Subsection (1) above does not apply to any sum to the extent that it is required to be paid, on the day in question, in accordance with section 44 of the Commissioners for Revenue and Customs Act 2005[^key-384a86582e9f76d45f2d954aadec89f3] .
+(2) Subsection (1) above does not apply to any sum to the extent that it is required to be paid, on the day in question, in accordance with section 44 of the Commissioners for Revenue and Customs Act 2005[^c-384a86582e9f76d45f2d954aadec89f3] .
 
 (3) A loan made by virtue of subsection (1) above shall be repaid before the close of business on the day after the loan is made or, where that day is not a business day, before the close of business on the next business day.
 
@@ -43,6 +43,6 @@ that sum may be lent to the National Loans Fund on that day.
 
 ## Annotations
 
-[^key-384a86582e9f76d45f2d954aadec89f3]: Textual amendment: Words in [s. 135(2)](https://www.legislation.gov.uk/ukpga/1999/16/section/135/2) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 76](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/76); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-384a86582e9f76d45f2d954aadec89f3]: Textual amendment: Words in [s. 135(2)](https://www.legislation.gov.uk/ukpga/1999/16/section/135/2) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 76](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/76); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
 [^c1126400]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).

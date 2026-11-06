@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Application of rules[^key-aaa89acfaf9ddcba7d9d7291418d0793]
+## 5. Application of rules[^c-aaa89acfaf9ddcba7d9d7291418d0793]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaa89acfaf9ddcba7d9d7291418d0793]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2011/1301/rule/5) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-aaa89acfaf9ddcba7d9d7291418d0793]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2011/1301/rule/5) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

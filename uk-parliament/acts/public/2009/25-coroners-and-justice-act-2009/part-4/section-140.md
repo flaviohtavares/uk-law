@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Appeals against certain confiscation orders (England and Wales)[^key-8883aaf447f489192c893f5e1317d30d]
+## 140. Appeals against certain confiscation orders (England and Wales)[^c-8883aaf447f489192c893f5e1317d30d]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8883aaf447f489192c893f5e1317d30d]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2009/25/section/140) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/10)
+[^c-8883aaf447f489192c893f5e1317d30d]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2009/25/section/140) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/10)

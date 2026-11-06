@@ -31,28 +31,28 @@ summary: ''
 
 Pensions
 
-The Pensions (2005 Order) (Code of Practice) (Governance and Administration of Occupational Defined Contribution Trust-based Pension Schemes) (Appointed Day) Order (Northern Ireland) 2013 (revoked)[^key-0584b21bb18e33e447de970910f50d7a]
+The Pensions (2005 Order) (Code of Practice) (Governance and Administration of Occupational Defined Contribution Trust-based Pension Schemes) (Appointed Day) Order (Northern Ireland) 2013 (revoked)[^c-0584b21bb18e33e447de970910f50d7a]
 
 Made
 
 18th November 2013
 
-[^key-0584b21bb18e33e447de970910f50d7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0584b21bb18e33e447de970910f50d7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-0584b21bb18e33e447de970910f50d7a]
+## 1. Citation[^c-0584b21bb18e33e447de970910f50d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed day[^key-0584b21bb18e33e447de970910f50d7a]
+## 2. Appointed day[^c-0584b21bb18e33e447de970910f50d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0584b21bb18e33e447de970910f50d7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0584b21bb18e33e447de970910f50d7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0584b21bb18e33e447de970910f50d7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0584b21bb18e33e447de970910f50d7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0584b21bb18e33e447de970910f50d7a]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2013/263) revoked (5.7.2024) by [The Pensions (2005 Order) (Code of Practice) (General) (Appointed Day, Amendment and Revocations) Order (Northern Ireland) 2024 (S.R. 2024/132)](https://www.legislation.gov.uk/nisr/2024/132), [art. 4(f)](https://www.legislation.gov.uk/nisr/2024/132/article/4/f)
+[^c-0584b21bb18e33e447de970910f50d7a]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2013/263) revoked (5.7.2024) by [The Pensions (2005 Order) (Code of Practice) (General) (Appointed Day, Amendment and Revocations) Order (Northern Ireland) 2024 (S.R. 2024/132)](https://www.legislation.gov.uk/nisr/2024/132), [art. 4(f)](https://www.legislation.gov.uk/nisr/2024/132/article/4/f)

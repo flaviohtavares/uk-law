@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Increase in maximum on-the-spot penalty for disorderly behaviour[^key-c3187e3f5003aaf7f3d614593837ffee]
+## 15. Increase in maximum on-the-spot penalty for disorderly behaviour[^c-c3187e3f5003aaf7f3d614593837ffee]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3187e3f5003aaf7f3d614593837ffee]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2004/28/section/15) in force at 1.10.2012 by [S.I. 2012/1697](https://www.legislation.gov.uk/uksi/2012/1697), [art. 2](https://www.legislation.gov.uk/uksi/2012/1697/article/2)
+[^c-c3187e3f5003aaf7f3d614593837ffee]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2004/28/section/15) in force at 1.10.2012 by [S.I. 2012/1697](https://www.legislation.gov.uk/uksi/2012/1697), [art. 2](https://www.legislation.gov.uk/uksi/2012/1697/article/2)

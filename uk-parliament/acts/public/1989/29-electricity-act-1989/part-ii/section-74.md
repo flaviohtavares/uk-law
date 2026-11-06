@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Target investment limit for Government shareholding.[^key-3d5b80e6645d6c258ea8f4ee731897a8]
+## 74. Target investment limit for Government shareholding.[^c-3d5b80e6645d6c258ea8f4ee731897a8]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d5b80e6645d6c258ea8f4ee731897a8]: Textual amendment: S. 74 repealed (8.5.2003) by [Electricity (Miscellaneous Provisions) Act 2003 (c. 9)](https://www.legislation.gov.uk/ukpga/2003/9), [s. 2(1)](https://www.legislation.gov.uk/ukpga/2003/9/section/2/1)
+[^c-3d5b80e6645d6c258ea8f4ee731897a8]: Textual amendment: S. 74 repealed (8.5.2003) by [Electricity (Miscellaneous Provisions) Act 2003 (c. 9)](https://www.legislation.gov.uk/ukpga/2003/9), [s. 2(1)](https://www.legislation.gov.uk/ukpga/2003/9/section/2/1)

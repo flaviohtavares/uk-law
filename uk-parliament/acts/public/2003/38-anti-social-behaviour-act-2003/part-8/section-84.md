@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 84. Crown application[^key-e1ae18e639dacad6cdb6a02428e3373f][^key-df0a4ae2095dea9606f11f66a2f081b4]
+## 84. Crown application[^c-e1ae18e639dacad6cdb6a02428e3373f][^c-df0a4ae2095dea9606f11f66a2f081b4]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e1ae18e639dacad6cdb6a02428e3373f]: Commencement: S. 84 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-e1ae18e639dacad6cdb6a02428e3373f]: Commencement: S. 84 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-df0a4ae2095dea9606f11f66a2f081b4]: Commencement: S. 84 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-df0a4ae2095dea9606f11f66a2f081b4]: Commencement: S. 84 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

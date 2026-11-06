@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40A. Annual notices[^key-58bd454ae0339794a269100ad237f33c]
+## 40A. Annual notices[^c-58bd454ae0339794a269100ad237f33c]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58bd454ae0339794a269100ad237f33c]: Textual amendment: [S. 40A](https://www.legislation.gov.uk/ukpga/1993/44/section/40A) inserted (1.4.2012) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 36](https://www.legislation.gov.uk/asp/2010/14/section/36), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-58bd454ae0339794a269100ad237f33c]: Textual amendment: [S. 40A](https://www.legislation.gov.uk/ukpga/1993/44/section/40A) inserted (1.4.2012) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 36](https://www.legislation.gov.uk/asp/2010/14/section/36), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, commencement, extent and interpretation[^key-efed2a16c9f559805f11da63ff2877ac]
+## 1. Citation, commencement, extent and interpretation[^c-efed2a16c9f559805f11da63ff2877ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-efed2a16c9f559805f11da63ff2877ac]: Commencement: Reg. 1 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-efed2a16c9f559805f11da63ff2877ac]: Commencement: Reg. 1 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
 [^f00002]: Footnote: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
 

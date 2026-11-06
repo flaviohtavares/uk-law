@@ -24,7 +24,7 @@ summary: ''
 
 *Step 1*
 
-Find the price of the car in accordance with sections 122 to 124A[^key-e51428c9a6ddf6bce6e9e7e047f226eb].
+Find the price of the car in accordance with sections 122 to 124A[^c-e51428c9a6ddf6bce6e9e7e047f226eb].
 
 *Step 2*
 
@@ -32,7 +32,7 @@ Add the price of any accessories which fall to be taken into account in accordan
 
 *Step 3*
 
-Make any deduction under section 132 for capital contributions made by the employee to the cost of the car or accessories. The resulting amount is the interim sum.[^key-f99f782b862652b0052c63b252a981dc]
+Make any deduction under section 132 for capital contributions made by the employee to the cost of the car or accessories. The resulting amount is the interim sum.[^c-f99f782b862652b0052c63b252a981dc]
 
 *Step 4*
 
@@ -63,12 +63,12 @@ The result is the cash equivalent of the benefit of the car for the year.
 - section 146 (cars that run on road fuel gas), and
 - section 147 (classic cars: 15 years of age or more).
 
-(3)[^key-22d262d6b0309ece14edaf7ffbd6665b] Where the car is shared the cash equivalent is calculated under this section in accordance with section 148.
+(3)[^c-22d262d6b0309ece14edaf7ffbd6665b] Where the car is shared the cash equivalent is calculated under this section in accordance with section 148.
 
 ## Annotations
 
-[^key-e51428c9a6ddf6bce6e9e7e047f226eb]: Textual amendment: Word in s. 121(1) substituted (with effect in accordance with s. 54(6) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 54(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/54/3)
+[^c-e51428c9a6ddf6bce6e9e7e047f226eb]: Textual amendment: Word in s. 121(1) substituted (with effect in accordance with s. 54(6) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 54(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/54/3)
 
-[^key-f99f782b862652b0052c63b252a981dc]: Textual amendment: Words in s. 121(1) inserted (with effect in accordance with Sch. 28 para. 10(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 28 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/2/2)
+[^c-f99f782b862652b0052c63b252a981dc]: Textual amendment: Words in s. 121(1) inserted (with effect in accordance with Sch. 28 para. 10(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 28 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/2/2)
 
-[^key-22d262d6b0309ece14edaf7ffbd6665b]: Textual amendment: S. 121(3) substituted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/266/article/3/2)
+[^c-22d262d6b0309ece14edaf7ffbd6665b]: Textual amendment: S. 121(3) substituted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/266/article/3/2)

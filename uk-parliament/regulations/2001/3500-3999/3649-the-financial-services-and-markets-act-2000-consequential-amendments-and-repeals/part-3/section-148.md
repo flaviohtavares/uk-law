@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Disclosure of information concerning public service pension schemes[^key-a99b4946a21852df20a339d5cc471a9a]
+## 148. Disclosure of information concerning public service pension schemes[^c-a99b4946a21852df20a339d5cc471a9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 172 of the Pensions Act 1995 (information in connection with public s
 
 ## Annotations
 
-[^key-a99b4946a21852df20a339d5cc471a9a]: Commencement: Art. 148 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a99b4946a21852df20a339d5cc471a9a]: Commencement: Art. 148 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

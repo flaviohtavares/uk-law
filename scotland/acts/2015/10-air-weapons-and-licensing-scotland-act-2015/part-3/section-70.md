@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-1581c4b92efd6e5fccc05105a90812ae][^key-58833bebd35960427b2fa37d4c3affaf] The 1982 Act is amended as follows.
+(1)[^c-1581c4b92efd6e5fccc05105a90812ae][^c-58833bebd35960427b2fa37d4c3affaf] The 1982 Act is amended as follows.
 
-(2)[^key-f41b1eb43f27d951e0db042b82c254ac] Sections 30 (keeping of records) and 33 (receipts and invoices: itinerant metal dealers) are repealed.
+(2)[^c-f41b1eb43f27d951e0db042b82c254ac] Sections 30 (keeping of records) and 33 (receipts and invoices: itinerant metal dealers) are repealed.
 
-(3)[^key-1581c4b92efd6e5fccc05105a90812ae][^key-58833bebd35960427b2fa37d4c3affaf] After section 33B (as inserted by section 69 of this Act), insert—
+(3)[^c-1581c4b92efd6e5fccc05105a90812ae][^c-58833bebd35960427b2fa37d4c3affaf] After section 33B (as inserted by section 69 of this Act), insert—
 
 > **33C. Requirement to keep records**
 >
@@ -119,7 +119,7 @@ summary: ''
 
 .
 
-(4)[^key-f41b1eb43f27d951e0db042b82c254ac] In section 34 (offences relating to metal dealing)—
+(4)[^c-f41b1eb43f27d951e0db042b82c254ac] In section 34 (offences relating to metal dealing)—
 
 - (a) after subsection (2) insert—
 
@@ -130,8 +130,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1581c4b92efd6e5fccc05105a90812ae]: Commencement: S. 70(1)(3) in force at 1.12.2015 for specified purposes by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
+[^c-1581c4b92efd6e5fccc05105a90812ae]: Commencement: S. 70(1)(3) in force at 1.12.2015 for specified purposes by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
 
-[^key-58833bebd35960427b2fa37d4c3affaf]: Commencement: S. 70(1)(3) in force at 1.9.2016 in so far as not already in force by [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule)
+[^c-58833bebd35960427b2fa37d4c3affaf]: Commencement: S. 70(1)(3) in force at 1.9.2016 in so far as not already in force by [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule)
 
-[^key-f41b1eb43f27d951e0db042b82c254ac]: Commencement: S. 70(2)(4) in force at 1.9.2016 by [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule)
+[^c-f41b1eb43f27d951e0db042b82c254ac]: Commencement: S. 70(2)(4) in force at 1.9.2016 by [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule)

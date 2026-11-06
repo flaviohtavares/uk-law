@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Union (Definition of Treaties) (Partnership and Cooperation Agreement) (Republic of Indonesia) Order 2011 (revoked)[^key-2bf48c53d5a9451d1754706dd0cbb5ea]
+The European Union (Definition of Treaties) (Partnership and Cooperation Agreement) (Republic of Indonesia) Order 2011 (revoked)[^c-2bf48c53d5a9451d1754706dd0cbb5ea]
 
 Made
 
@@ -46,28 +46,28 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-2bf48c53d5a9451d1754706dd0cbb5ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2bf48c53d5a9451d1754706dd0cbb5ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-2bf48c53d5a9451d1754706dd0cbb5ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2bf48c53d5a9451d1754706dd0cbb5ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2bf48c53d5a9451d1754706dd0cbb5ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2bf48c53d5a9451d1754706dd0cbb5ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2bf48c53d5a9451d1754706dd0cbb5ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2bf48c53d5a9451d1754706dd0cbb5ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2bf48c53d5a9451d1754706dd0cbb5ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2bf48c53d5a9451d1754706dd0cbb5ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-2bf48c53d5a9451d1754706dd0cbb5ea]
+## SCHEDULE[^c-2bf48c53d5a9451d1754706dd0cbb5ea]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2bf48c53d5a9451d1754706dd0cbb5ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2bf48c53d5a9451d1754706dd0cbb5ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2bf48c53d5a9451d1754706dd0cbb5ea]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/743) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2bf48c53d5a9451d1754706dd0cbb5ea]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/743) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Fitness of adult placement carers[^key-a1a1f3ecc9e8986db26a5069a6a54d33]
+## 36. Fitness of adult placement carers[^c-a1a1f3ecc9e8986db26a5069a6a54d33]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1a1f3ecc9e8986db26a5069a6a54d33]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2019/163/regulation/36) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-a1a1f3ecc9e8986db26a5069a6a54d33]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2019/163/regulation/36) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

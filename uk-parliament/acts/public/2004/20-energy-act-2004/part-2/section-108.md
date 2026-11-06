@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Reviews and revisions of decommissioning programmes[^key-b7d20ed1807e95b115e8bc4a0d129564][^key-f19cc4e0389fcabf4ac9836d52494934]
+## 108. Reviews and revisions of decommissioning programmes[^c-b7d20ed1807e95b115e8bc4a0d129564][^c-f19cc4e0389fcabf4ac9836d52494934]
 
 *Extent: E+W+S+N.I.*
 
-(1) The appropriate Minister[^key-f446ceb88a2c8efd41e9e5af847191b4] must, from time to time, conduct such reviews of a decommissioning programme approved by him as he considers appropriate.
+(1) The appropriate Minister[^c-f446ceb88a2c8efd41e9e5af847191b4] must, from time to time, conduct such reviews of a decommissioning programme approved by him as he considers appropriate.
 
 (2) A proposal—
 
@@ -36,7 +36,7 @@ may be made by the appropriate Minister, or by the person who submitted the prog
 
 may be made by the appropriate Minister or by the person for the time being subject to that duty or (if there is more than one person subject to that duty) by any one or more of them.
 
-(3A)[^key-82787c2737497d7104697458d379fbe8] A proposal under subsection (3)(b) may, in particular, be made in relation to a body corporate associated with a person who has a duty under section 109(1) (and for this purpose “**associated**” is to be construed in accordance with section 105A(3) to (8)).
+(3A)[^c-82787c2737497d7104697458d379fbe8] A proposal under subsection (3)(b) may, in particular, be made in relation to a body corporate associated with a person who has a duty under section 109(1) (and for this purpose “**associated**” is to be construed in accordance with section 105A(3) to (8)).
 
 (4) A proposal under subsection (2) or (3) may be made only by way of notice given—
 
@@ -47,7 +47,7 @@ may be made by the appropriate Minister or by the person for the time being subj
 
 (6) It is to be for the appropriate Minister, after considering any representations made to him, to determine whether or not effect should be given to a proposal of his, or of any other person, under this section.
 
-(7) Before making a determination under subsection (6) with respect to a proposal in relation to a decommissioning programme relating to a relevant object which is to be or is, [^key-6039a069a6e8dbf7f1be433bfb8fabb5]... partly—
+(7) Before making a determination under subsection (6) with respect to a proposal in relation to a decommissioning programme relating to a relevant object which is to be or is, [^c-6039a069a6e8dbf7f1be433bfb8fabb5]... partly—
 
 - (a) in an area of Scottish waters, or
 - (b) in an area of waters in a Scottish part of a Renewable Energy Zone,
@@ -73,12 +73,12 @@ and a requirement under this subsection has effect as if it were a condition of 
 
 ## Annotations
 
-[^key-b7d20ed1807e95b115e8bc4a0d129564]: Commencement: S. 108 in force at 1.10.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
+[^c-b7d20ed1807e95b115e8bc4a0d129564]: Commencement: S. 108 in force at 1.10.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
 
-[^key-f19cc4e0389fcabf4ac9836d52494934]: Modification: S. 108 applied (with modifications) (E.W.S.) (30.6.2015) by [The Swansea Bay Tidal Generating Station Order 2015 (S.I. 2015/1386)](https://www.legislation.gov.uk/uksi/2015/1386), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1), [42(4)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/4)[(5)(b)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/5/b) (with [arts. 51](https://www.legislation.gov.uk/uksi/2015/1386/article/51), [53](https://www.legislation.gov.uk/uksi/2015/1386/article/53))
+[^c-f19cc4e0389fcabf4ac9836d52494934]: Modification: S. 108 applied (with modifications) (E.W.S.) (30.6.2015) by [The Swansea Bay Tidal Generating Station Order 2015 (S.I. 2015/1386)](https://www.legislation.gov.uk/uksi/2015/1386), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1), [42(4)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/4)[(5)(b)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/5/b) (with [arts. 51](https://www.legislation.gov.uk/uksi/2015/1386/article/51), [53](https://www.legislation.gov.uk/uksi/2015/1386/article/53))
 
-[^key-f446ceb88a2c8efd41e9e5af847191b4]: Textual amendment: Words in Pt. 2 Ch. 3 substituted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/10)[(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-f446ceb88a2c8efd41e9e5af847191b4]: Textual amendment: Words in Pt. 2 Ch. 3 substituted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/10)[(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
 
-[^key-82787c2737497d7104697458d379fbe8]: Textual amendment: S. 108(3A) inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 69(5)](https://www.legislation.gov.uk/ukpga/2008/32/section/69/5), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)
+[^c-82787c2737497d7104697458d379fbe8]: Textual amendment: S. 108(3A) inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 69(5)](https://www.legislation.gov.uk/ukpga/2008/32/section/69/5), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)
 
-[^key-6039a069a6e8dbf7f1be433bfb8fabb5]: Textual amendment: Words in s. 108(7) omitted (1.4.2017) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11)[(12)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/12), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-6039a069a6e8dbf7f1be433bfb8fabb5]: Textual amendment: Words in s. 108(7) omitted (1.4.2017) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11)[(12)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/12), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))

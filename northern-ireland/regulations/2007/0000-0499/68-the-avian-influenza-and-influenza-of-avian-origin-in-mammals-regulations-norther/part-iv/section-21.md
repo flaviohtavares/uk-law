@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Movement of birds off premises for killing[^key-550ad5eda5380f99490f9432e2436a1f]
+## 21. Movement of birds off premises for killing[^c-550ad5eda5380f99490f9432e2436a1f]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ If the Department considers that killing birds other than on infected premises w
 
 ## Annotations
 
-[^key-550ad5eda5380f99490f9432e2436a1f]: Commencement: Reg. 21 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-550ad5eda5380f99490f9432e2436a1f]: Commencement: Reg. 21 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

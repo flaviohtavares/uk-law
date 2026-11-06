@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Domestic Proceedings (Northern Ireland) Order 1980[^key-f6f914341ba46484143ee502ad4c0a6f]
+## 138. Domestic Proceedings (Northern Ireland) Order 1980[^c-f6f914341ba46484143ee502ad4c0a6f]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ In Article 2(2) of the Domestic Proceedings (Northern Ireland) Order 1980[^f0022
 
 ## Annotations
 
-[^key-f6f914341ba46484143ee502ad4c0a6f]: Commencement: Reg. 138 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-f6f914341ba46484143ee502ad4c0a6f]: Commencement: Reg. 138 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00224]: Footnote: [S.I. 1980/563 (N.I. 5)](https://www.legislation.gov.uk/nisi/1980/563). Article 2(2) was amended by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755); there are other amendments not relevant to this instrument.
 

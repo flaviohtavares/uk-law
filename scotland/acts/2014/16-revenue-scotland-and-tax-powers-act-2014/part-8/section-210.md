@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 210. Amount of penalty for failure to register for tax etc.[^key-3fb35e2b736fef31895f2369513b0871]
+## 210. Amount of penalty for failure to register for tax etc.[^c-3fb35e2b736fef31895f2369513b0871]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) For a careless failure, the penalty is 30% of the potential lost revenue.
 
-(4) In the case of a relevant requirement relating to Scottish landfill tax or Scottish aggregates tax[^key-fe99ec281fbe32c852eb8e264b8d4d4f], the potential lost revenue is the amount of the tax (if any) for which P is liable for the period—
+(4) In the case of a relevant requirement relating to Scottish landfill tax or Scottish aggregates tax[^c-fe99ec281fbe32c852eb8e264b8d4d4f], the potential lost revenue is the amount of the tax (if any) for which P is liable for the period—
 
 - (a) beginning on the date with effect from which P is required in accordance with that requirement to be registered, and
 - (b) ending on the date on which Revenue Scotland received notification of, or otherwise became fully aware of, P's liability to be registered.
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3fb35e2b736fef31895f2369513b0871]: Commencement: [S. 210](https://www.legislation.gov.uk/asp/2014/16/section/210) in force at 16.2.2015 by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
+[^c-3fb35e2b736fef31895f2369513b0871]: Commencement: [S. 210](https://www.legislation.gov.uk/asp/2014/16/section/210) in force at 16.2.2015 by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
 
-[^key-fe99ec281fbe32c852eb8e264b8d4d4f]: Textual amendment: Words in [s. 210(4)](https://www.legislation.gov.uk/asp/2014/16/section/210/4) inserted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 42(3)](https://www.legislation.gov.uk/asp/2024/14/section/42/3), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)
+[^c-fe99ec281fbe32c852eb8e264b8d4d4f]: Textual amendment: Words in [s. 210(4)](https://www.legislation.gov.uk/asp/2014/16/section/210/4) inserted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 42(3)](https://www.legislation.gov.uk/asp/2024/14/section/42/3), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)

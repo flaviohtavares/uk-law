@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Power of arrest and seizure[^c22719261][^key-666b188a0e231c2bdec6e82abbc2281d]
+## 90. Power of arrest and seizure[^c22719261][^c-666b188a0e231c2bdec6e82abbc2281d]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c22719261]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2017/3/section/90) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-666b188a0e231c2bdec6e82abbc2281d]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2017/3/section/90) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)
+[^c-666b188a0e231c2bdec6e82abbc2281d]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2017/3/section/90) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)

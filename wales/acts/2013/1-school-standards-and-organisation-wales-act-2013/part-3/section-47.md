@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Effect of change of category[^key-82d198bd8c93655d2806fee68ec0cdb7]
+## 47. Effect of change of category[^c-82d198bd8c93655d2806fee68ec0cdb7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82d198bd8c93655d2806fee68ec0cdb7]: Commencement: [S. 47](https://www.legislation.gov.uk/anaw/2013/1/section/47) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-82d198bd8c93655d2806fee68ec0cdb7]: Commencement: [S. 47](https://www.legislation.gov.uk/anaw/2013/1/section/47) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

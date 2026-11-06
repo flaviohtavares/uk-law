@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Hazardous waste facilities[^key-955567b821b675647a12d09d7a85c18c]
+## 30. Hazardous waste facilities[^c-955567b821b675647a12d09d7a85c18c]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-955567b821b675647a12d09d7a85c18c]: Commencement: S. 30 in force at 1.10.2011 by [S.I. 2011/2054](https://www.legislation.gov.uk/uksi/2011/2054), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/2054/article/2/a)
+[^c-955567b821b675647a12d09d7a85c18c]: Commencement: S. 30 in force at 1.10.2011 by [S.I. 2011/2054](https://www.legislation.gov.uk/uksi/2011/2054), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/2054/article/2/a)

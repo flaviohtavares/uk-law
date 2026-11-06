@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Recovery of costs of new connections[^key-760fc49139f3443dbcb72e134d3006cd]
+## 25. Recovery of costs of new connections[^c-760fc49139f3443dbcb72e134d3006cd]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ is entitled to recover from Network Rail compensation in respect of expenditure 
 
 ## Annotations
 
-[^key-760fc49139f3443dbcb72e134d3006cd]: Commencement: Art. 25 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-760fc49139f3443dbcb72e134d3006cd]: Commencement: Art. 25 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
 [^f00020]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). There are amendments to this Act which are not relevant to this Order.

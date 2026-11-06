@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25B. Title of civic chair[^key-f0aabea95bf5dd6612811047c3ddc0f6]
+## 25B. Title of civic chair[^c-f0aabea95bf5dd6612811047c3ddc0f6]
 
 *Extent: W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0aabea95bf5dd6612811047c3ddc0f6]: Textual amendment: S. 25B inserted (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [ss. 51(3)](https://www.legislation.gov.uk/anaw/2013/4/section/51/3), [75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d)
+[^c-f0aabea95bf5dd6612811047c3ddc0f6]: Textual amendment: S. 25B inserted (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [ss. 51(3)](https://www.legislation.gov.uk/anaw/2013/4/section/51/3), [75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d)

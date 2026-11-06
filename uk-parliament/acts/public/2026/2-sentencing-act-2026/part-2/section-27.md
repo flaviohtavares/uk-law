@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Licence conditions[^key-8360a91642e1f13f11bed68ace3d0f5a][^key-a11b96be65cff59ee5d273fa9b868c9b]
+## 27. Licence conditions[^c-8360a91642e1f13f11bed68ace3d0f5a][^c-a11b96be65cff59ee5d273fa9b868c9b]
 
 *Extent: E+W*
 
@@ -129,6 +129,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8360a91642e1f13f11bed68ace3d0f5a]: Commencement: S. 27 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-8360a91642e1f13f11bed68ace3d0f5a]: Commencement: S. 27 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-a11b96be65cff59ee5d273fa9b868c9b]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2026/2/section/27) in force at 1.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/i) (as amended by S.I. 2026/948, [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-a11b96be65cff59ee5d273fa9b868c9b]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2026/2/section/27) in force at 1.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/i) (as amended by S.I. 2026/948, [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))

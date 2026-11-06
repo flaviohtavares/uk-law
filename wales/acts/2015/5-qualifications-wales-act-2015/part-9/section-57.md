@@ -55,7 +55,7 @@ summary: ''
 
 (5) A person has a learning difficulty, for the purposes of this Act, if the person—
 
-- (a) has special educational needs or additional learning needs[^key-36388310b08b0321d5974fea91e70e4c], or
+- (a) has special educational needs or additional learning needs[^c-36388310b08b0321d5974fea91e70e4c], or
 - (b) has a significantly greater difficulty in learning than the majority of persons of the person's age, or
 - (c) has a disability that either prevents or hinders the person from making use of educational facilities of a kind generally provided for persons of the same age.
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36388310b08b0321d5974fea91e70e4c]: Textual amendment: Words in s. 57(5)(a) inserted (1.9.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) Regulations 2021 (S.I. 2021/861)](https://www.legislation.gov.uk/wsi/2021/861), [regs. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1), [9(2)](https://www.legislation.gov.uk/wsi/2021/861/regulation/9/2)
+[^c-36388310b08b0321d5974fea91e70e4c]: Textual amendment: Words in s. 57(5)(a) inserted (1.9.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) Regulations 2021 (S.I. 2021/861)](https://www.legislation.gov.uk/wsi/2021/861), [regs. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1), [9(2)](https://www.legislation.gov.uk/wsi/2021/861/regulation/9/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Continued retention or return of seized substances[^key-9b620de1b52e6c5685c7f76993fad0cd]
+## 60. Continued retention or return of seized substances[^c-9b620de1b52e6c5685c7f76993fad0cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ Paragraph (a) applies, where an appeal is made, with references to an appeal bei
 
 ## Annotations
 
-[^key-9b620de1b52e6c5685c7f76993fad0cd]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2015/9/section/60) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)
+[^c-9b620de1b52e6c5685c7f76993fad0cd]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2015/9/section/60) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)

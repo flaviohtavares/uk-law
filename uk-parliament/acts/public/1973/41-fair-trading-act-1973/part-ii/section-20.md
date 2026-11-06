@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Time-limit and quorum for report on reference to which s. 17 applies.[^key-80c2780d7d332e226f2cedd3b8d6945c]
+## 20. Time-limit and quorum for report on reference to which s. 17 applies.[^c-80c2780d7d332e226f2cedd3b8d6945c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80c2780d7d332e226f2cedd3b8d6945c]: Textual amendment: Ss. 13-21 repealed (1.4.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2002/40/section/10/1/b), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/766/article/3)) (as amended (20.7.2007) by [S.I. 2007/1846](https://www.legislation.gov.uk/uksi/2007/1846), reg. 3(2), Sch.)
+[^c-80c2780d7d332e226f2cedd3b8d6945c]: Textual amendment: Ss. 13-21 repealed (1.4.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2002/40/section/10/1/b), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/766/article/3)) (as amended (20.7.2007) by [S.I. 2007/1846](https://www.legislation.gov.uk/uksi/2007/1846), reg. 3(2), Sch.)

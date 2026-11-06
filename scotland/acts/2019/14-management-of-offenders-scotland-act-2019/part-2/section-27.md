@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Disclosure period: juvenile offenders[^key-69f75142fb2d39a579234bd9a6d3fe52]
+## 27. Disclosure period: juvenile offenders[^c-69f75142fb2d39a579234bd9a6d3fe52]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69f75142fb2d39a579234bd9a6d3fe52]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2019/14/section/27) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-69f75142fb2d39a579234bd9a6d3fe52]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2019/14/section/27) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 217. Application for costs[^key-89276b3c9499006bb3c4a36f3909a4c3]
+## 217. Application for costs[^c-89276b3c9499006bb3c4a36f3909a4c3]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89276b3c9499006bb3c4a36f3909a4c3]: Commencement: Rule 217 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-89276b3c9499006bb3c4a36f3909a4c3]: Commencement: Rule 217 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

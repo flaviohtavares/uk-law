@@ -82,7 +82,7 @@ The Rule Committee, in exercise of the powers conferred by sections 14(7), 15(4)
 - [Section 3.7 — Jurisdiction of consistory court](part-3/section-3-7.md)
 - [Section 3. — Determination of questions](part-3/section-3.md)
 
-### Part 4 — Consultation and advice before starting faculty proceedings[^key-b73abe952f627b235fcb14caa18f9263]
+### Part 4 — Consultation and advice before starting faculty proceedings[^c-b73abe952f627b235fcb14caa18f9263]
 
 - [Section 4.1 — Process for consultation and obtaining advice - outline](part-4/section-4-1.md)
 - [Section 4.2 — Documents etc. to be submitted to Diocesan Advisory Committee](part-4/section-4-2.md)
@@ -417,4 +417,4 @@ Part 28 makes provision for the citation and commencement of the Rules, revokes 
 
 [^f00001]: Footnote: [1991 No. 1](https://www.legislation.gov.uk/ukcm/1991/1). Relevant amendments were made by section 13 of the Church of England (Miscellaneous Provisions) Measure 2014 ([2014 No. 1](https://www.legislation.gov.uk/ukcm/2014/1)) and sections 2(3), 3(2) and 5 of the Care of [Churches and Ecclesiastical Jurisdiction (Amendment) Measure 2015 (2015 No.1)](https://www.legislation.gov.uk/ukcm/2015/1).
 
-[^key-b73abe952f627b235fcb14caa18f9263]: Textual amendment: Pt. 4 substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1184/rule/6) (with [rule 23(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/2))
+[^c-b73abe952f627b235fcb14caa18f9263]: Textual amendment: Pt. 4 substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1184/rule/6) (with [rule 23(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/2))

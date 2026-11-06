@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Application to practise in partnership[^key-7a289ec1e544aebc841360652809b89b]
+## 10. Application to practise in partnership[^c-7a289ec1e544aebc841360652809b89b]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a289ec1e544aebc841360652809b89b]: Commencement: Reg. 10 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-7a289ec1e544aebc841360652809b89b]: Commencement: Reg. 10 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

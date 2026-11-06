@@ -25,7 +25,7 @@ summary: ''
 - (a) an instrument providing for the constitution of the corporation (to be known as the instrument of government), and
 - (b) an instrument in accordance with which the corporation, and the institution, are to be conducted (to be known as articles of government).
 
-(2)[^key-0f0f323d562b3762c5b8811c8de8b401] Instruments of government and articles of government of further education corporations—
+(2)[^c-0f0f323d562b3762c5b8811c8de8b401] Instruments of government and articles of government of further education corporations—
 
 - (a) must comply with the requirements of Schedule 4, and
 - (b) subject to that, may make such other provision as may be necessary or desirable.
@@ -38,4 +38,4 @@ summary: ''
 
 [^c11062831]: Commencement: S. 20 wholly in force at 30.9.1992 see s. 94(3) and [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/831/schedule/2)
 
-[^key-0f0f323d562b3762c5b8811c8de8b401]: Textual amendment: S. 20(2) substituted for s. 20(2)(2A) (1.9.2014) by [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 2(1)](https://www.legislation.gov.uk/anaw/2014/1/section/2/1), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(b)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/b)
+[^c-0f0f323d562b3762c5b8811c8de8b401]: Textual amendment: S. 20(2) substituted for s. 20(2)(2A) (1.9.2014) by [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 2(1)](https://www.legislation.gov.uk/anaw/2014/1/section/2/1), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(b)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/b)

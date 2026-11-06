@@ -22,7 +22,7 @@ summary: ''
 
 Article 21
 
-### 1. Interpretation[^key-5cfcb4b6bc44dd944e1463b2ce914450]
+### 1. Interpretation[^c-5cfcb4b6bc44dd944e1463b2ce914450]
 
 In this Schedule—
 
@@ -51,4 +51,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-5cfcb4b6bc44dd944e1463b2ce914450]: Commencement: Sch. 6 para. 1 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-5cfcb4b6bc44dd944e1463b2ce914450]: Commencement: Sch. 6 para. 1 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

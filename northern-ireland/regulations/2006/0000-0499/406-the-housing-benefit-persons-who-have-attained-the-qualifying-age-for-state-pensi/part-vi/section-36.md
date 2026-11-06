@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Earnings of self-employed earners[^key-5954b8a3f88403c44cafd2ce88cbc5e2]
+## 36. Earnings of self-employed earners[^c-5954b8a3f88403c44cafd2ce88cbc5e2]
 
 *Extent: N.I.*
 
-(1) Subject to paragraph (2), “earnings”, in the case of employment as a self-employed earner, means the gross receipts of the employment[^key-3be1e0896878b7b60069f0513dfa7169]...[^f00110][^f00111].
+(1) Subject to paragraph (2), “earnings”, in the case of employment as a self-employed earner, means the gross receipts of the employment[^c-3be1e0896878b7b60069f0513dfa7169]...[^f00110][^f00111].
 
 (2) “Earnings” in the case of employment as a self-employed earner does not include—
 
@@ -35,9 +35,9 @@ summary: ''
 
 ## Annotations
 
-[^key-5954b8a3f88403c44cafd2ce88cbc5e2]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2006/406/regulation/36) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-5954b8a3f88403c44cafd2ce88cbc5e2]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2006/406/regulation/36) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-3be1e0896878b7b60069f0513dfa7169]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/36/1) omitted (31.10.2011) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [20(4)](https://www.legislation.gov.uk/nisr/2011/357/regulation/20/4)
+[^c-3be1e0896878b7b60069f0513dfa7169]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/36/1) omitted (31.10.2011) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [20(4)](https://www.legislation.gov.uk/nisr/2011/357/regulation/20/4)
 
 [^f00110]: Footnote: [1945 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1945/6); sections 2 and 3 were amended by section 1 of the [Disabled Persons (Employment) Act (Northern Ireland) 1960 (c. 4 (N.I.))](https://www.legislation.gov.uk/apni/1960/4) and Schedule 18 to the Education and Libraries (Northern Ireland) Order 1986 ([S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594))
 

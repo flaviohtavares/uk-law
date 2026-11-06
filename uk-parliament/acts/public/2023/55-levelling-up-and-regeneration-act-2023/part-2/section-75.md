@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Disposal of land[^key-0326a099e8708c7e4712ddf20e5bfb6a]
+## 75. Disposal of land[^c-0326a099e8708c7e4712ddf20e5bfb6a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 123 of the Local Government Act 1972 (disposal of land by principal c
 
 ## Annotations
 
-[^key-0326a099e8708c7e4712ddf20e5bfb6a]: Commencement: S. 75 not in force at Royal Assent, see [s. 255(2)(m)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/m)
+[^c-0326a099e8708c7e4712ddf20e5bfb6a]: Commencement: S. 75 not in force at Royal Assent, see [s. 255(2)(m)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/m)

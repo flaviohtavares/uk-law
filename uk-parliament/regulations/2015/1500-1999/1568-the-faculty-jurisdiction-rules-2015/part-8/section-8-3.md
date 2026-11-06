@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 8.3. Steps to be taken on expiry of licence for temporary minor re-ordering[^key-03c3fdae4ba07f8b24695fa9f44a1174]
+## 8.3. Steps to be taken on expiry of licence for temporary minor re-ordering[^c-03c3fdae4ba07f8b24695fa9f44a1174]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03c3fdae4ba07f8b24695fa9f44a1174]: Commencement: [Rule 8.3](https://www.legislation.gov.uk/uksi/2015/1568/article/8.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-03c3fdae4ba07f8b24695fa9f44a1174]: Commencement: [Rule 8.3](https://www.legislation.gov.uk/uksi/2015/1568/article/8.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

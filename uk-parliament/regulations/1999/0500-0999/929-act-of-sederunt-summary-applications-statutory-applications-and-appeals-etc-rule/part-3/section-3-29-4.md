@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.29.4. Service of RSHOs[^key-bbddc89748358e5e58e86fa421b8061a]
+## 3.29.4. Service of RSHOs[^c-bbddc89748358e5e58e86fa421b8061a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbddc89748358e5e58e86fa421b8061a]: Textual amendment: [Ch. 3 Pt. 29](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/29) revoked (31.3.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Sexual Harm Prevention Orders and Sexual Risk Orders) 2023 (S.S.I. 2023/62)](https://www.legislation.gov.uk/ssi/2023/62), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/1/3), [3(1)(b)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/1/b) (with [para. 3(2)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/2))
+[^c-bbddc89748358e5e58e86fa421b8061a]: Textual amendment: [Ch. 3 Pt. 29](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/29) revoked (31.3.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Sexual Harm Prevention Orders and Sexual Risk Orders) 2023 (S.S.I. 2023/62)](https://www.legislation.gov.uk/ssi/2023/62), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/1/3), [3(1)(b)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/1/b) (with [para. 3(2)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/2))

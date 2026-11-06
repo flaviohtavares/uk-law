@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Section 34 regulations: complaints and conduct matters etc[^key-7a3be0dfd22101ff65bc6534c04e921a]
+## 38. Section 34 regulations: complaints and conduct matters etc[^c-7a3be0dfd22101ff65bc6534c04e921a]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a3be0dfd22101ff65bc6534c04e921a]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2023/55/section/38) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-7a3be0dfd22101ff65bc6534c04e921a]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2023/55/section/38) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

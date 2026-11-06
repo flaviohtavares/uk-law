@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Exemption orders: form and procedure[^key-1ab8a2328e0e87962f439b8059d7eb35]
+## 52. Exemption orders: form and procedure[^c-1ab8a2328e0e87962f439b8059d7eb35]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ab8a2328e0e87962f439b8059d7eb35]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2019/17/section/52) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/c)
+[^c-1ab8a2328e0e87962f439b8059d7eb35]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2019/17/section/52) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/c)

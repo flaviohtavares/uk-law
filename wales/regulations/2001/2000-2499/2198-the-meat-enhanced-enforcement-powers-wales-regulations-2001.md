@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Meat (Enhanced Enforcement Powers) (Wales) Regulations 2001 (revoked)[^key-36c0fa1c5bacfac56a44031dbec1bde6]
+The Meat (Enhanced Enforcement Powers) (Wales) Regulations 2001 (revoked)[^c-36c0fa1c5bacfac56a44031dbec1bde6]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into force
 
 17th June 2001
 
-[^key-36c0fa1c5bacfac56a44031dbec1bde6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36c0fa1c5bacfac56a44031dbec1bde6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-36c0fa1c5bacfac56a44031dbec1bde6]
+## 1. Title, application and commencement[^c-36c0fa1c5bacfac56a44031dbec1bde6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Fresh Meat (Hygiene and Inspection) Regulations 1995[^key-36c0fa1c5bacfac56a44031dbec1bde6]
+## 2. Amendments to the Fresh Meat (Hygiene and Inspection) Regulations 1995[^c-36c0fa1c5bacfac56a44031dbec1bde6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995[^key-36c0fa1c5bacfac56a44031dbec1bde6]
+## 3. Amendments to the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995[^c-36c0fa1c5bacfac56a44031dbec1bde6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Meat products (Hygiene) Regulations 1994[^key-36c0fa1c5bacfac56a44031dbec1bde6]
+## 4. Amendments to the Meat products (Hygiene) Regulations 1994[^c-36c0fa1c5bacfac56a44031dbec1bde6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Minced Meat and Meat Preparations (Hygiene) Regulations 1995[^key-36c0fa1c5bacfac56a44031dbec1bde6]
+## 5. Amendments to the Minced Meat and Meat Preparations (Hygiene) Regulations 1995[^c-36c0fa1c5bacfac56a44031dbec1bde6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to the Meat Hygiene Appeals Tribunal (Procedure) Regulations 1992[^key-36c0fa1c5bacfac56a44031dbec1bde6]
+## 6. Amendments to the Meat Hygiene Appeals Tribunal (Procedure) Regulations 1992[^c-36c0fa1c5bacfac56a44031dbec1bde6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to the Products of Animal Origin (Import and Export) Regulations 1996[^key-36c0fa1c5bacfac56a44031dbec1bde6]
+## 7. Amendments to the Products of Animal Origin (Import and Export) Regulations 1996[^c-36c0fa1c5bacfac56a44031dbec1bde6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-36c0fa1c5bacfac56a44031dbec1bde6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36c0fa1c5bacfac56a44031dbec1bde6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-36c0fa1c5bacfac56a44031dbec1bde6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36c0fa1c5bacfac56a44031dbec1bde6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-36c0fa1c5bacfac56a44031dbec1bde6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2001/2198) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-36c0fa1c5bacfac56a44031dbec1bde6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2001/2198) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

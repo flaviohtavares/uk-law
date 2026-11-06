@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Emergency prohibition or restriction[^key-704b0ee5b48c2ac981f357c71749d00a]
+## 22. Emergency prohibition or restriction[^c-704b0ee5b48c2ac981f357c71749d00a]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-704b0ee5b48c2ac981f357c71749d00a]: Commencement: Reg. 22 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-704b0ee5b48c2ac981f357c71749d00a]: Commencement: Reg. 22 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

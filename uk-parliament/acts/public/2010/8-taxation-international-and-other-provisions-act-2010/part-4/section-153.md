@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Arm's length provision where security issued and guarantee given[^key-e5149c4b2d889a118109dcd995ef4f8b]
+## 153. Arm's length provision where security issued and guarantee given[^c-e5149c4b2d889a118109dcd995ef4f8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5149c4b2d889a118109dcd995ef4f8b]: Textual amendment: [S. 153](https://www.legislation.gov.uk/ukpga/2010/8/section/153) omitted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 4(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/4/2), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)
+[^c-e5149c4b2d889a118109dcd995ef4f8b]: Textual amendment: [S. 153](https://www.legislation.gov.uk/ukpga/2010/8/section/153) omitted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 4(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/4/2), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)

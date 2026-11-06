@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Subsidy Advice Unit[^key-2ac611e2ca9b9d1918d97aefda9bca00][^key-c66cd97eef8bf4231823d7dd0f57e65c]
+## 68. Subsidy Advice Unit[^c-2ac611e2ca9b9d1918d97aefda9bca00][^c-c66cd97eef8bf4231823d7dd0f57e65c]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ac611e2ca9b9d1918d97aefda9bca00]: Commencement: S. 68 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
+[^c-2ac611e2ca9b9d1918d97aefda9bca00]: Commencement: S. 68 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
 
-[^key-c66cd97eef8bf4231823d7dd0f57e65c]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2022/23/section/68) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-c66cd97eef8bf4231823d7dd0f57e65c]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2022/23/section/68) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

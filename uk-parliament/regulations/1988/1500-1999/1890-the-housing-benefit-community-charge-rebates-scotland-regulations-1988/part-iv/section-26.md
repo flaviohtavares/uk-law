@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Modifications in respect of child and young person[^key-22adae2419b33532e9e75aca76f07485]
+## 26. Modifications in respect of child and young person[^c-22adae2419b33532e9e75aca76f07485]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22adae2419b33532e9e75aca76f07485]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1988/1890/regulation/26) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-22adae2419b33532e9e75aca76f07485]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1988/1890/regulation/26) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

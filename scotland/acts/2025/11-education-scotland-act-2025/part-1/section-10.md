@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Expert Group on Qualifications Standards[^key-99f3dd786e1d24e98fecb1c3ac0023d6][^key-bf1048bcc577c791ef64d209a51a70d7]
+## 10. Expert Group on Qualifications Standards[^c-99f3dd786e1d24e98fecb1c3ac0023d6][^c-bf1048bcc577c791ef64d209a51a70d7]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99f3dd786e1d24e98fecb1c3ac0023d6]: Commencement: S. 10 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-99f3dd786e1d24e98fecb1c3ac0023d6]: Commencement: S. 10 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-bf1048bcc577c791ef64d209a51a70d7]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2025/11/section/10) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-bf1048bcc577c791ef64d209a51a70d7]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2025/11/section/10) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

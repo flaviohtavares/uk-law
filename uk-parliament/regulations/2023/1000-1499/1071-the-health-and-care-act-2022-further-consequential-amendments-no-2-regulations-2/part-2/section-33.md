@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Amendment of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^key-f5d1cd3d4cd25090ed3184e04eddc546]
+## 33. Amendment of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^c-f5d1cd3d4cd25090ed3184e04eddc546]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f5d1cd3d4cd25090ed3184e04eddc546]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2023/1071/regulation/33) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-f5d1cd3d4cd25090ed3184e04eddc546]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2023/1071/regulation/33) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00027]: Footnote: [S.S.I. 2009/183](https://www.legislation.gov.uk/ssi/2009/183), amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235); there are other amending instruments but none is relevant.

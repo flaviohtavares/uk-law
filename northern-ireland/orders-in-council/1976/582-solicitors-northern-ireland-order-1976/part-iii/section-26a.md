@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26A. Incorporated practices[^key-7d337424c37d493cb18cd7c45b5094bd][^key-f5da84c79e0e70e109c51dc7c3b2c37d][^key-f65962fcfd81d7ad4d4c199feb57fd9d][^c17113061]
+## 26A. Incorporated practices[^c-7d337424c37d493cb18cd7c45b5094bd][^c-f5da84c79e0e70e109c51dc7c3b2c37d][^c-f65962fcfd81d7ad4d4c199feb57fd9d][^c17113061]
 
 *Extent: N.I.*
 
@@ -57,11 +57,11 @@ summary: ''
 
 ## Annotations
 
-[^key-7d337424c37d493cb18cd7c45b5094bd]: Modification: [Art. 26A](https://www.legislation.gov.uk/nisi/1976/582/article/26A) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/b)
+[^c-7d337424c37d493cb18cd7c45b5094bd]: Modification: [Art. 26A](https://www.legislation.gov.uk/nisi/1976/582/article/26A) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/b)
 
-[^key-f5da84c79e0e70e109c51dc7c3b2c37d]: Modification: [Art. 26A](https://www.legislation.gov.uk/nisi/1976/582/article/26A) modified (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [ss. 48(1)](https://www.legislation.gov.uk/nia/2016/14/section/48/1), [55](https://www.legislation.gov.uk/nia/2016/14/section/55); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-f5da84c79e0e70e109c51dc7c3b2c37d]: Modification: [Art. 26A](https://www.legislation.gov.uk/nisi/1976/582/article/26A) modified (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [ss. 48(1)](https://www.legislation.gov.uk/nia/2016/14/section/48/1), [55](https://www.legislation.gov.uk/nia/2016/14/section/55); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-f65962fcfd81d7ad4d4c199feb57fd9d]: Modification: [Art. 26A](https://www.legislation.gov.uk/nisi/1976/582/article/26A) modified (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [ss. 48(2)](https://www.legislation.gov.uk/nia/2016/14/section/48/2), [55](https://www.legislation.gov.uk/nia/2016/14/section/55); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-f65962fcfd81d7ad4d4c199feb57fd9d]: Modification: [Art. 26A](https://www.legislation.gov.uk/nisi/1976/582/article/26A) modified (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [ss. 48(2)](https://www.legislation.gov.uk/nia/2016/14/section/48/2), [55](https://www.legislation.gov.uk/nia/2016/14/section/55); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
 [^c17113061]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Credit ceiling not reduced by certain minimum revenue provision[^key-a3f7feba91459bacae23dd9629bfac8d]
+## 117. Credit ceiling not reduced by certain minimum revenue provision[^c-a3f7feba91459bacae23dd9629bfac8d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A local authority’s credit ceiling shall not be reduced by the setting aside u
 
 ## Annotations
 
-[^key-a3f7feba91459bacae23dd9629bfac8d]: Commencement: Reg. 117 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-a3f7feba91459bacae23dd9629bfac8d]: Commencement: Reg. 117 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Local authorities' financial schemes[^key-a7a11da915639a3bdf38378769b22ae9]
+## 46. Local authorities' financial schemes[^c-a7a11da915639a3bdf38378769b22ae9]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In Schedule 14 to SSFA 1998 (revision of local authority schemes), in paragraph 
 
 ## Annotations
 
-[^key-a7a11da915639a3bdf38378769b22ae9]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2011/21/section/46) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-a7a11da915639a3bdf38378769b22ae9]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2011/21/section/46) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

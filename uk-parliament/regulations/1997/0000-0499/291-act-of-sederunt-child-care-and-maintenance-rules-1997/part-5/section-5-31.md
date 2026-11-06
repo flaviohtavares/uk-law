@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.31. Application under sections 9 and 20 of the 1972 Act[^key-711a053651c253d6fc5ac0f788156e81]
+## 5.31. Application under sections 9 and 20 of the 1972 Act[^c-711a053651c253d6fc5ac0f788156e81]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-711a053651c253d6fc5ac0f788156e81]: Commencement: Rule 5.31 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-711a053651c253d6fc5ac0f788156e81]: Commencement: Rule 5.31 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
 [^f00047]: Footnote: Section 9 was amended by the Civil Jurisdiction and Judgments Act 1982, Schedule 11, paragraphs 4 and 12.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Amendment of section 29[^key-d4b03cb250b894355c4aca73fc3ad074]
+## 48. Amendment of section 29[^c-d4b03cb250b894355c4aca73fc3ad074]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4b03cb250b894355c4aca73fc3ad074]: Commencement: Reg. 48 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-d4b03cb250b894355c4aca73fc3ad074]: Commencement: Reg. 48 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00032]: Footnote: Section 29 was amended by sections 31 and 37 of, and Schedules 8 and 9 to, the National Health Service Reform and Health Care Professions Act [2002 (c.17)](https://www.legislation.gov.uk/ukpga/2002/17) and by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).

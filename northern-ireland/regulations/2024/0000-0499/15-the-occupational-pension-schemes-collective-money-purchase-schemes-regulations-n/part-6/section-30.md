@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Continuity option 2: resolving the triggering event[^key-d9973b0aea47396bf50104cc9325c73f]
+## 30. Continuity option 2: resolving the triggering event[^c-d9973b0aea47396bf50104cc9325c73f]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of section 88(3)(b) of the 2021 Act (continuity option 2: resol
 
 ## Annotations
 
-[^key-d9973b0aea47396bf50104cc9325c73f]: Commencement: Reg. 30 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-d9973b0aea47396bf50104cc9325c73f]: Commencement: Reg. 30 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Storage capacity[^key-4a0de45cd57610693a9f208e8fc1d10b]
+## 29. Storage capacity[^c-4a0de45cd57610693a9f208e8fc1d10b]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a0de45cd57610693a9f208e8fc1d10b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2021/77/regulation/29) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-4a0de45cd57610693a9f208e8fc1d10b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2021/77/regulation/29) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

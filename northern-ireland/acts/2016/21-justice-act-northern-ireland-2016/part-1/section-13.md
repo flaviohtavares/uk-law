@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Costs relating to referral of debtor's case[^key-7308b4ef720a04df5d562713574a9654]
+## 13. Costs relating to referral of debtor's case[^c-7308b4ef720a04df5d562713574a9654]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7308b4ef720a04df5d562713574a9654]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2016/21/section/13) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-7308b4ef720a04df5d562713574a9654]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2016/21/section/13) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

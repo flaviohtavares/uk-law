@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Information (affected by repeal, see note)[^key-34dde0e1665b402b2354652e4ff680a2][^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+## 11. Information (affected by repeal, see note)[^c-34dde0e1665b402b2354652e4ff680a2][^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
-Schedule 3 applies in respect of the provision of information by an applicant and an eligible student. *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a]
+Schedule 3 applies in respect of the provision of information by an applicant and an eligible student. *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a]
 
 ## Annotations
 
-[^key-34dde0e1665b402b2354652e4ff680a2]: Commencement: Reg. 11 in force at 10.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3177/regulation/1/2)
+[^c-34dde0e1665b402b2354652e4ff680a2]: Commencement: Reg. 11 in force at 10.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3177/regulation/1/2)
 
-[^key-fb65aa289c1f5f6c86282db81d96956a]: Textual amendment: Regulations revoked (19.2.2015) by [The Education (Student Support) (Wales) Regulations 2015 (S.I. 2015/54)](https://www.legislation.gov.uk/uksi/2015/54), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/54/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/1) (with savings in [reg. 3(13)(15)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/13/15))
+[^c-fb65aa289c1f5f6c86282db81d96956a]: Textual amendment: Regulations revoked (19.2.2015) by [The Education (Student Support) (Wales) Regulations 2015 (S.I. 2015/54)](https://www.legislation.gov.uk/uksi/2015/54), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/54/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/1) (with savings in [reg. 3(13)(15)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/13/15))

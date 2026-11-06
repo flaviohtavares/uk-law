@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**11.**[^key-b8b5dafcd818cf2d470d1e1b86974548] In section 3 (provision of sheltered employment by local authorities)—
+**11.**[^c-b8b5dafcd818cf2d470d1e1b86974548] In section 3 (provision of sheltered employment by local authorities)—
 
 - (a) in subsection (1), after the words “A local authority” insert “in England or Scotland”;
 - (b) in subsection (2)[^f00011], omit “section twenty-nine of the National Assistance Act 1948 or under paragraph 2 of Schedule 15 to the National Health Service (Wales) Act 2006, or”;
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b8b5dafcd818cf2d470d1e1b86974548]: Commencement: Reg. 11 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-b8b5dafcd818cf2d470d1e1b86974548]: Commencement: Reg. 11 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00011]: Footnote: Section 3(2) was amended by the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), section 2, Schedule 1, paragraphs 18 and 19 and [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraph 11.
 

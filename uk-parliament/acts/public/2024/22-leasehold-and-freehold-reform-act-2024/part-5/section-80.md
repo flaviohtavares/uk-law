@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Right to request information[^key-236180a1669dc75ae73497edba0c99cf]
+## 80. Right to request information[^c-236180a1669dc75ae73497edba0c99cf]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-236180a1669dc75ae73497edba0c99cf]: Commencement: S. 80 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-236180a1669dc75ae73497edba0c99cf]: Commencement: S. 80 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

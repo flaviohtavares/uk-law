@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Retailer obligations[^key-83fa229f1d6dfe2dca40fb1730af000e][^key-11eea74c9c62ee2857ba8fb43b9235a3]
+## 19. Retailer obligations[^c-83fa229f1d6dfe2dca40fb1730af000e][^c-11eea74c9c62ee2857ba8fb43b9235a3]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83fa229f1d6dfe2dca40fb1730af000e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2020/154/regulation/19) in force at 1.7.2025 for specified purposes, see [reg. 1(4A)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/4A)[(5)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/5) (as amended by S.S.I. 2025/188, [art. 3](https://www.legislation.gov.uk/ssi/2025/188/article/3))
+[^c-83fa229f1d6dfe2dca40fb1730af000e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2020/154/regulation/19) in force at 1.7.2025 for specified purposes, see [reg. 1(4A)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/4A)[(5)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/5) (as amended by S.S.I. 2025/188, [art. 3](https://www.legislation.gov.uk/ssi/2025/188/article/3))
 
-[^key-11eea74c9c62ee2857ba8fb43b9235a3]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/ssi/2020/154/regulation/19) substituted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [16](https://www.legislation.gov.uk/ssi/2025/188/regulation/16)
+[^c-11eea74c9c62ee2857ba8fb43b9235a3]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/ssi/2020/154/regulation/19) substituted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [16](https://www.legislation.gov.uk/ssi/2025/188/regulation/16)

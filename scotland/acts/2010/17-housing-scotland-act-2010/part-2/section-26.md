@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Guidance on registration criteria[^key-073833f418463e47ed87eaa166302b42][^key-c57b71a3601efef8fd7e2969f7e81e36]
+## 26. Guidance on registration criteria[^c-073833f418463e47ed87eaa166302b42][^c-c57b71a3601efef8fd7e2969f7e81e36]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-073833f418463e47ed87eaa166302b42]: Commencement: S. 26 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-073833f418463e47ed87eaa166302b42]: Commencement: S. 26 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-c57b71a3601efef8fd7e2969f7e81e36]: Commencement: S. 26 in force at 1.4.2012 in so far as not already in force by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-c57b71a3601efef8fd7e2969f7e81e36]: Commencement: S. 26 in force at 1.4.2012 in so far as not already in force by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

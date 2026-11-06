@@ -22,9 +22,9 @@ summary: ''
 
 Companies Act group accounts delivered to the registrar of companies under section 444 of the 2006 Act need not give the information required by—
 
-- (a)[^key-a55217c622e1116b03f3ee5056df08e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a55217c622e1116b03f3ee5056df08e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) paragraph 25 of Schedule 6 to these Regulations (shares of company held by subsidiary undertakings).
 
 ## Annotations
 
-[^key-a55217c622e1116b03f3ee5056df08e4]: Textual amendment: Reg. 11(a) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [15(4)](https://www.legislation.gov.uk/uksi/2015/980/regulation/15/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-a55217c622e1116b03f3ee5056df08e4]: Textual amendment: Reg. 11(a) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [15(4)](https://www.legislation.gov.uk/uksi/2015/980/regulation/15/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))

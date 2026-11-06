@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 96. Causing or allowing child or vulnerable adult to suffer serious physical harm[^key-6e7fa02ef26a8fbda88bc7973005538f]
+## 96. Causing or allowing child or vulnerable adult to suffer serious physical harm[^c-6e7fa02ef26a8fbda88bc7973005538f]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e7fa02ef26a8fbda88bc7973005538f]: Commencement: [S. 96](https://www.legislation.gov.uk/nia/2015/9/section/96) in operation at 29.1.2016 by [S.R. 2015/418](https://www.legislation.gov.uk/nisr/2015/418), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/418/article/2/b)
+[^c-6e7fa02ef26a8fbda88bc7973005538f]: Commencement: [S. 96](https://www.legislation.gov.uk/nia/2015/9/section/96) in operation at 29.1.2016 by [S.R. 2015/418](https://www.legislation.gov.uk/nisr/2015/418), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/418/article/2/b)

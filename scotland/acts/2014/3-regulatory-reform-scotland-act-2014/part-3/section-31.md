@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Guidance as to use of enforcement measures[^key-eb7343491a1c735c4f4bdf2877dadf8b]
+## 31. Guidance as to use of enforcement measures[^c-eb7343491a1c735c4f4bdf2877dadf8b]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb7343491a1c735c4f4bdf2877dadf8b]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2014/3/section/31) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-eb7343491a1c735c4f4bdf2877dadf8b]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2014/3/section/31) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

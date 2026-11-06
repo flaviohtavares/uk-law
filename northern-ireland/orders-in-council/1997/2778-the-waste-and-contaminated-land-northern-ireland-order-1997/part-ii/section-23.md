@@ -33,7 +33,7 @@ summary: ''
 
 (2) In considering any arrangements or modification for the purposes of paragraph (1)(b) or (d) a district council shall—
 
-- (a) take account of the plan[^key-a4a07c3c09206e78bbfe2258499285df] prepared by the Department under Article 19;
+- (a) take account of the plan[^c-a4a07c3c09206e78bbfe2258499285df] prepared by the Department under Article 19;
 - (b) in relation to recovering waste, have regard to the effect which the arrangements or modification would be likely to have on the amenities of any locality and the likely cost or saving to the council attributable to the arrangements or modification;
 - (c) in relation to treatment or disposal of waste, have regard both to the likely cost of the arrangements or modification and to their likely beneficial effects on the environment.
 
@@ -94,4 +94,4 @@ summary: ''
 
 [^c17077441]: Textual amendment: prosp. rep. by [1997 NI 19](https://www.legislation.gov.uk/nisi/1997)
 
-[^key-a4a07c3c09206e78bbfe2258499285df]: Textual amendment: Word in [art. 23(2)(a)](https://www.legislation.gov.uk/nisi/1997/2778/article/23/2/a) substituted (16.1.2020) by [The Waste Regulations (Northern Ireland) 2019 (S.R. 2019/240)](https://www.legislation.gov.uk/nisr/2019/240), [regs. 1](https://www.legislation.gov.uk/nisr/2019/240/regulation/1), [9](https://www.legislation.gov.uk/nisr/2019/240/regulation/9)
+[^c-a4a07c3c09206e78bbfe2258499285df]: Textual amendment: Word in [art. 23(2)(a)](https://www.legislation.gov.uk/nisi/1997/2778/article/23/2/a) substituted (16.1.2020) by [The Waste Regulations (Northern Ireland) 2019 (S.R. 2019/240)](https://www.legislation.gov.uk/nisr/2019/240), [regs. 1](https://www.legislation.gov.uk/nisr/2019/240/regulation/1), [9](https://www.legislation.gov.uk/nisr/2019/240/regulation/9)

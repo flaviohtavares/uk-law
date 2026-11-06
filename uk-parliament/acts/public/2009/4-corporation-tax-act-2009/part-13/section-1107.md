@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1107. Amount of tax credit[^key-179f5d731af171ee3899fcafaaef8fbf]
+## 1107. Amount of tax credit[^c-179f5d731af171ee3899fcafaaef8fbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-179f5d731af171ee3899fcafaaef8fbf]: Textual amendment: Ss. 1103-1111 omitted (with effect in accordance with Sch. 3 para. 38 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/28)
+[^c-179f5d731af171ee3899fcafaaef8fbf]: Textual amendment: Ss. 1103-1111 omitted (with effect in accordance with Sch. 3 para. 38 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/28)

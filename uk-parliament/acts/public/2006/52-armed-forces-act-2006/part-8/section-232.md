@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Service restraining orders: variation and revocation[^key-fac059e9402785c9b08aa1f50bfd8e22][^key-bc24ecfa77d74fb480831142b919991e]
+## 232. Service restraining orders: variation and revocation[^c-fac059e9402785c9b08aa1f50bfd8e22][^c-bc24ecfa77d74fb480831142b919991e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fac059e9402785c9b08aa1f50bfd8e22]: Commencement: S. 232 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-fac059e9402785c9b08aa1f50bfd8e22]: Commencement: S. 232 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-bc24ecfa77d74fb480831142b919991e]: Commencement: S. 232 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-bc24ecfa77d74fb480831142b919991e]: Commencement: S. 232 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

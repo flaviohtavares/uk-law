@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Consultation before applying for planning permission[^key-26c434faf5fbbe99df554e0f7cc4931e][^key-71bbbb96df70fdc8094121efa725664e]
+## 122. Consultation before applying for planning permission[^c-26c434faf5fbbe99df554e0f7cc4931e][^c-71bbbb96df70fdc8094121efa725664e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 122 of the Localism Act 2011 (consultation before applying for planni
 
 ## Annotations
 
-[^key-26c434faf5fbbe99df554e0f7cc4931e]: Commencement: S. 122 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-26c434faf5fbbe99df554e0f7cc4931e]: Commencement: S. 122 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-71bbbb96df70fdc8094121efa725664e]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2023/55/section/122) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/h)
+[^c-71bbbb96df70fdc8094121efa725664e]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2023/55/section/122) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/h)

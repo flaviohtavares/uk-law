@@ -24,7 +24,7 @@ Section 83(5)
 
 ### Particular safeguards in connection with operation of section 69
 
-**1.**[^key-b83b90eb16f10046d07ccb1c6070b38d] (1) The following provisions apply where the functions of the Secretary of State under section 67 are exercisable by a public authority by virtue of regulations under section 83(1).
+**1.**[^c-b83b90eb16f10046d07ccb1c6070b38d] (1) The following provisions apply where the functions of the Secretary of State under section 67 are exercisable by a public authority by virtue of regulations under section 83(1).
 
 (2) The measures adopted or arrangements made by the public authority for the purpose of complying with the requirements of section 69 must be such as are approved by the Secretary of State.
 
@@ -32,7 +32,7 @@ Section 83(5)
 
 ### Requirement for public authority to provide reports to Secretary of State
 
-**2.**[^key-ec46b89cdb3bb40a0f72ffa7f73807ec] (1) A public authority, when exercising functions by virtue of regulations under section 83(1), must at least once in each calendar year make a report to the Secretary of State on—
+**2.**[^c-ec46b89cdb3bb40a0f72ffa7f73807ec] (1) A public authority, when exercising functions by virtue of regulations under section 83(1), must at least once in each calendar year make a report to the Secretary of State on—
 
 - (a) the discharge of the functions, and
 - (b) such other matters as the Secretary of State may by regulations require.
@@ -43,7 +43,7 @@ Section 83(5)
 
 ### Transfer schemes in connection with transfer of functions
 
-**3.**[^key-50dcb9a0cab8f7143407b5dcb0568771] (1) The Secretary of State may, in connection with regulations under section 83(1), make a scheme for the transfer of property, rights or liabilities.
+**3.**[^c-50dcb9a0cab8f7143407b5dcb0568771] (1) The Secretary of State may, in connection with regulations under section 83(1), make a scheme for the transfer of property, rights or liabilities.
 
 (2) The things that may be transferred under a transfer scheme include—
 
@@ -92,7 +92,7 @@ and references to the transfer of property include the grant of a lease.
 
 ### Tax in connection with transfer schemes
 
-**4.**[^key-94961e81fe2c5de4cb68b65b6f623eee] (1) The Treasury may by regulations make provision varying the way in which a relevant tax has effect in relation to—
+**4.**[^c-94961e81fe2c5de4cb68b65b6f623eee] (1) The Treasury may by regulations make provision varying the way in which a relevant tax has effect in relation to—
 
 - (a) anything transferred under a transfer scheme, or
 - (b) anything done for the purposes of, or in relation to, a transfer under a transfer scheme.
@@ -121,12 +121,12 @@ and references to the transfer of property include the grant of a lease.
 
 ### Supplementary and other general provision
 
-**5.**[^key-024d120af422dba4ae4052536ea8bc5a] The power to make regulations under section 83(1) includes, in particular, power to—
+**5.**[^c-024d120af422dba4ae4052536ea8bc5a] The power to make regulations under section 83(1) includes, in particular, power to—
 
 - (a) modify any enactment about a public authority for the purpose of enabling or otherwise facilitating any function under sections 67 to 69 to be exercisable by the public authority,
 - (b) impose requirements or confer other functions on a public authority in connection with functions transferred by the regulations.
 
-**6.**[^key-1ebfd8fee407ee0911b303cf1c296bfd] The power to make regulations under—
+**6.**[^c-1ebfd8fee407ee0911b303cf1c296bfd] The power to make regulations under—
 
 - (a) section 83, or
 - (b) paragraph 4 above,
@@ -135,14 +135,14 @@ including that power as extended (whether by section 267(1) or otherwise) may, i
 
 ## Annotations
 
-[^key-b83b90eb16f10046d07ccb1c6070b38d]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2016/25/schedule/5/paragraph/1) in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/n)
+[^c-b83b90eb16f10046d07ccb1c6070b38d]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2016/25/schedule/5/paragraph/1) in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/n)
 
-[^key-ec46b89cdb3bb40a0f72ffa7f73807ec]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2016/25/schedule/5/paragraph/2) in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/n)
+[^c-ec46b89cdb3bb40a0f72ffa7f73807ec]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2016/25/schedule/5/paragraph/2) in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/n)
 
-[^key-50dcb9a0cab8f7143407b5dcb0568771]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2016/25/schedule/5/paragraph/3) in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/n)
+[^c-50dcb9a0cab8f7143407b5dcb0568771]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2016/25/schedule/5/paragraph/3) in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/n)
 
-[^key-94961e81fe2c5de4cb68b65b6f623eee]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2016/25/schedule/5/paragraph/4) in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/n)
+[^c-94961e81fe2c5de4cb68b65b6f623eee]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2016/25/schedule/5/paragraph/4) in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/n)
 
-[^key-024d120af422dba4ae4052536ea8bc5a]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2016/25/schedule/5/paragraph/5) in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/n)
+[^c-024d120af422dba4ae4052536ea8bc5a]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2016/25/schedule/5/paragraph/5) in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/n)
 
-[^key-1ebfd8fee407ee0911b303cf1c296bfd]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2016/25/schedule/5/paragraph/6) in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/n)
+[^c-1ebfd8fee407ee0911b303cf1c296bfd]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2016/25/schedule/5/paragraph/6) in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/n)

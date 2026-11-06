@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 284. “The court”; “the registrar”[^key-77ab53ab26f10c8ea72959ca38783baa]
+## 284. “The court”; “the registrar”[^c-77ab53ab26f10c8ea72959ca38783baa]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77ab53ab26f10c8ea72959ca38783baa]: Commencement: Rule 284 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-77ab53ab26f10c8ea72959ca38783baa]: Commencement: Rule 284 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

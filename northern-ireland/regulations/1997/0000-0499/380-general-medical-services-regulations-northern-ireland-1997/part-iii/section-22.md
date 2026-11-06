@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Removal from doctor’s list[^key-4c6d75834779885d24df20166177ad4a]
+## 22. Removal from doctor’s list[^c-4c6d75834779885d24df20166177ad4a]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c6d75834779885d24df20166177ad4a]: Commencement: Reg. 22 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-4c6d75834779885d24df20166177ad4a]: Commencement: Reg. 22 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

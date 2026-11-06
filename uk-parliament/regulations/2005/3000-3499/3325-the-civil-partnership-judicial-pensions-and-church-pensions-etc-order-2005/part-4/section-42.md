@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**42.**[^key-3824c6122fef146f40a788de92759ce5] For section 15 (effect of certain nullity decrees) substitute—
+**42.**[^c-3824c6122fef146f40a788de92759ce5] For section 15 (effect of certain nullity decrees) substitute—
 
 > **15. Effect of certain nullity decrees**
 >
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3824c6122fef146f40a788de92759ce5]: Commencement: Art. 42 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-3824c6122fef146f40a788de92759ce5]: Commencement: Art. 42 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

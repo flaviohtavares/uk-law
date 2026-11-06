@@ -29,11 +29,11 @@ summary: ''
 
 subject to and in accordance with warehousing regulations; and any place of security so approved is referred to in this Act as an “excise warehouse”.
 
-(2)[^key-50f1e8f375a933129eada084d6ae5b00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-50f1e8f375a933129eada084d6ae5b00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-50f1e8f375a933129eada084d6ae5b00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-50f1e8f375a933129eada084d6ae5b00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-50f1e8f375a933129eada084d6ae5b00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-50f1e8f375a933129eada084d6ae5b00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The Commissioners may from time to time give directions—
 
@@ -50,7 +50,7 @@ subject to and in accordance with warehousing regulations; and any place of secu
 
 [^c14775671]: Textual amendment: Words inserted by [Isle of Man Act 1979 (c. 58)](https://www.legislation.gov.uk/ukpga/1979/58), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/1979/58/schedule/1/paragraph/21)
 
-[^key-50f1e8f375a933129eada084d6ae5b00]: Textual amendment: [S. 92(2)-(4)](https://www.legislation.gov.uk/ukpga/1979/2/section/92/2) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 84](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/84) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-50f1e8f375a933129eada084d6ae5b00]: Textual amendment: [S. 92(2)-(4)](https://www.legislation.gov.uk/ukpga/1979/2/section/92/2) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 84](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/84) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c14775721]: Textual amendment: Words in s. 92(6) substituted (1.1.1995) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 9(9)](https://www.legislation.gov.uk/ukpga/1994/9/section/9/9), [Sch. 4 Pt. I para. 2(1)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/4/part/I/paragraph/2/1) (with [s. 19(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/19/3))
 

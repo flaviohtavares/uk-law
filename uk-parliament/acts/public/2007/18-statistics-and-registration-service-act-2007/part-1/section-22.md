@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Statistical services[^key-e57f34c26d75179f3e41332a1f3eb88e]
+## 22. Statistical services[^c-e57f34c26d75179f3e41332a1f3eb88e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e57f34c26d75179f3e41332a1f3eb88e]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2007/18/section/22) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-e57f34c26d75179f3e41332a1f3eb88e]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2007/18/section/22) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Procedure for requests that a place for a meeting should be specified[^key-d93d03f581f77af5e74c7cf76ac6b3a4]
+## 116. Procedure for requests that a place for a meeting should be specified[^c-d93d03f581f77af5e74c7cf76ac6b3a4]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ and the notices required by sub-paragraphs (a) and (c) may be given at the same 
 
 ## Annotations
 
-[^key-d93d03f581f77af5e74c7cf76ac6b3a4]: Commencement: [Rule 116](https://www.legislation.gov.uk/uksi/2011/1301/rule/116) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-d93d03f581f77af5e74c7cf76ac6b3a4]: Commencement: [Rule 116](https://www.legislation.gov.uk/uksi/2011/1301/rule/116) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

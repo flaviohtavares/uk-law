@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Confiscation orders under other Acts[^key-8fb86114be302c374397daba724a855a]
+## 161. Confiscation orders under other Acts[^c-8fb86114be302c374397daba724a855a]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ For provision about confiscation orders, see—
 
 ## Annotations
 
-[^key-8fb86114be302c374397daba724a855a]: Commencement: S. 161 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8fb86114be302c374397daba724a855a]: Commencement: S. 161 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. School consultations: meetings and documents[^key-bc3aa67b8593d47cc49fb5e80e07e693]
+## 18. School consultations: meetings and documents[^c-bc3aa67b8593d47cc49fb5e80e07e693]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc3aa67b8593d47cc49fb5e80e07e693]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2022/8/section/18) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-bc3aa67b8593d47cc49fb5e80e07e693]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2022/8/section/18) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

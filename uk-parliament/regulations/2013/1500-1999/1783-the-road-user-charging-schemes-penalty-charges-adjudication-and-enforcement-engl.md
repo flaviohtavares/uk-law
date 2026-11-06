@@ -44,11 +44,11 @@ Coming into force
 
 2nd September 2013
 
-The Secretary of State for Transport in exercise of the powers conferred by sections 163(2), 173(1) to (3), 174(1), (2) and (5), 175(1) and 197(1) of the Transport Act 2000[^f00001] and the Lord Chancellor in exercise of the powers conferred by sections 173(4), 195(1)(b) to (d) and (2) and 197(1) of that Act, make the following Regulations.[^key-24f1c9a7ab2fe4143aa7abbf9cf7c7d2]
+The Secretary of State for Transport in exercise of the powers conferred by sections 163(2), 173(1) to (3), 174(1), (2) and (5), 175(1) and 197(1) of the Transport Act 2000[^f00001] and the Lord Chancellor in exercise of the powers conferred by sections 173(4), 195(1)(b) to (d) and (2) and 197(1) of that Act, make the following Regulations.[^c-24f1c9a7ab2fe4143aa7abbf9cf7c7d2]
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation, commencement and application[^key-e0b6fc921bbc719285ef7671e7107d60]
+### 1. Citation, commencement and application[^c-e0b6fc921bbc719285ef7671e7107d60]
 
 (1) These Regulations may be cited as the Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) Regulations 2013 and come into force on 2nd September 2013.
 
@@ -56,7 +56,7 @@ The Secretary of State for Transport in exercise of the powers conferred by sect
 
 (3) These Regulations do not apply to road user charges imposed under the County Council of Durham (Market Place leading to Saddler Street, Durham City) (Road User Charging Scheme) Order 2002.
 
-### 2. Interpretation[^key-844c374f72b9bbc233a00d05f5c01878]
+### 2. Interpretation[^c-844c374f72b9bbc233a00d05f5c01878]
 
 (1) In these Regulations—
 
@@ -72,7 +72,7 @@ The Secretary of State for Transport in exercise of the powers conferred by sect
   - (i) by means of an electronic communications network; or
   - (ii) by other means but while in electronic form;
 - “fax” means the making of a facsimile copy of a document by the transmission of electronic signals;
-- “joint committee” means the joint committee set up in accordance with regulation 19 of the Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022[^key-9daa01900a66f2778f53cb550d70c7a2];
+- “joint committee” means the joint committee set up in accordance with regulation 19 of the Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022[^c-9daa01900a66f2778f53cb550d70c7a2];
 - “keeper” (other than in the phrase “registered keeper”) means the person by whom a motor vehicle was kept at the time it was immobilised, removed or disposed of under the powers in Part 6;
 - “notice of appeal” means a notice initiating an appeal delivered by an appellant to the proper officer under regulation 11(3), 34(2) or 37(2) in each case in accordance with paragraph 2 of the Schedule;
 - “notice of rejection” means a notice served by a charging authority under regulation 10(1), 33(4) or 36(4) rejecting, or not accepting, representations made to it;
@@ -85,12 +85,12 @@ The Secretary of State for Transport in exercise of the powers conferred by sect
 
 (2) In determining for the purposes of any provision of these Regulations whether a road user charge or penalty charge has been paid within a particular period, it is to be taken to be paid when it is received by the charging authority.
 
-### 3. Service of documents[^key-038c5115e41c98ddc4c2000819d287c6]
+### 3. Service of documents[^c-038c5115e41c98ddc4c2000819d287c6]
 
 (1) Subject to paragraph (9) a notice or other document to be served by a charging authority on any person (“the recipient”) in accordance with these Regulations—
 
-- (a) may be served by [^key-02df8acb14880caa3bce14affd935004]... post; and
-- (b) where the recipient is a body corporate, is duly served if it is sent by [^key-02df8acb14880caa3bce14affd935004]... post to the secretary or clerk of that body.
+- (a) may be served by [^c-02df8acb14880caa3bce14affd935004]... post; and
+- (b) where the recipient is a body corporate, is duly served if it is sent by [^c-02df8acb14880caa3bce14affd935004]... post to the secretary or clerk of that body.
 
 (2) Where the address of the registered keeper of a motor vehicle upon which a penalty charge arising under regulation 4(1) has been imposed is contained in the register of mechanically propelled vehicles maintained by the Secretary of State under section 21 of the Vehicle Excise and Registration Act 1994[^f00004] the penalty charge notice relating to that penalty charge is to be served on the registered keeper at that address.
 
@@ -104,8 +104,8 @@ the penalty charge notice may (where sub-paragraph (a) applies) be served on the
 (4) Unless the contrary is proved—
 
 - (a) service of a notice or other document by first class post to an address in the United Kingdom is to be taken to have been effected on the second working day after the day on which it was posted;
-- (aa)[^key-a91dea43a745de96e56c98bab09c6bfb] service of a notice or other document sent by post other than first class post to an address in the United Kingdom is to be taken to have been effected on the fourth working day after the day on which it was posted;
-- (b) service of a notice or other document by [^key-aaf16b37189cf774ecc2a677fdd417dd]... post to an address outside the United Kingdom is to be taken to have been effected on the tenth[^key-c8663f4b8c2672773eaffaeac0d48d78] working day after the day on which it was posted;
+- (aa)[^c-a91dea43a745de96e56c98bab09c6bfb] service of a notice or other document sent by post other than first class post to an address in the United Kingdom is to be taken to have been effected on the fourth working day after the day on which it was posted;
+- (b) service of a notice or other document by [^c-aaf16b37189cf774ecc2a677fdd417dd]... post to an address outside the United Kingdom is to be taken to have been effected on the tenth[^c-c8663f4b8c2672773eaffaeac0d48d78] working day after the day on which it was posted;
 - (c) service of a notice or other document by electronic transmission is to be taken to have been effected on the second working day after the day on which it was transmitted.
 
 (5) For the purpose of receiving notices or other documents in accordance with these Regulations, the recipient may at any time, by notice in writing delivered to the charging authority—
@@ -139,7 +139,7 @@ the penalty charge notice may (where sub-paragraph (a) applies) be served on the
 
 ## PART 2 — PENALTY CHARGES
 
-### 4. Imposition of penalty charge[^key-3b7431aa85be7489c47866b1279d4a09]
+### 4. Imposition of penalty charge[^c-3b7431aa85be7489c47866b1279d4a09]
 
 (1) A charging scheme may provide that a penalty charge is to be imposed in respect of a motor vehicle where—
 
@@ -158,7 +158,7 @@ the penalty charge notice may (where sub-paragraph (a) applies) be served on the
 
 (4) A charging scheme is to specify whether a penalty charge referred to in paragraph (1) or (2) is payable in addition to the road user charge or instead of such charge.
 
-### 5. Setting the rates and maximum amounts of penalty charge[^key-6679373333cc05bccd28a784efbdfd1f]
+### 5. Setting the rates and maximum amounts of penalty charge[^c-6679373333cc05bccd28a784efbdfd1f]
 
 (1) The rates of penalty charges imposed by a charging scheme are to be—
 
@@ -181,7 +181,7 @@ the penalty charge notice may (where sub-paragraph (a) applies) be served on the
 
 (9) The maximum amount of the penalty charge that a charging scheme may impose of the type described in regulation 4(2)(d) is £70.
 
-### 6. Person by whom penalty charge is to be paid[^key-d7f31d701131cd11f53c60ec7ede23e9]
+### 6. Person by whom penalty charge is to be paid[^c-d7f31d701131cd11f53c60ec7ede23e9]
 
 (1) Unless any of the circumstances in paragraphs (2) to (5) apply, road user charges and penalty charges imposed upon a relevant vehicle by a charging scheme are to be paid by the registered keeper of that vehicle.
 
@@ -191,7 +191,7 @@ the penalty charge notice may (where sub-paragraph (a) applies) be served on the
 
 (4) Where at the relevant time the relevant vehicle was used or kept by a person who was a vehicle trader and that vehicle trader was not the registered keeper road user charges and penalty charges are payable by that person.
 
-(5)[^key-72ba928f821fbe095d3ebcc0a5d5c6e1] Where—
+(5)[^c-72ba928f821fbe095d3ebcc0a5d5c6e1] Where—
 
 - (a) at the relevant time—
   - (i) the registered keeper of the relevant vehicle was a vehicle-hire firm; and
@@ -215,12 +215,12 @@ road user charges and penalty charges are to be paid by the person who hired the
 
 - (a) “relevant vehicle” means a motor vehicle in respect of which road user charges or penalty charges are imposed by a charging scheme due to it having been used or kept on a designated road;
 - (b) “relevant time” means the time at which a relevant vehicle was used or kept on a designated road so as to incur road user charges under a charging scheme;
-- (c)[^key-49ffdf971a9c159211792b19f864c748] “hire agreement” and “vehicle-hire firm” have the same meanings as in sub-paragraph 13(6) of Schedule 4 to the Protection of Freedoms Act 2012.
+- (c)[^c-49ffdf971a9c159211792b19f864c748] “hire agreement” and “vehicle-hire firm” have the same meanings as in sub-paragraph 13(6) of Schedule 4 to the Protection of Freedoms Act 2012.
 - (d) “vehicle trader” has the same meaning as in regulation 20(6) of the 2002 Regulations.
 
 ## PART 3 — NOTIFICATION OF, AND REPRESENTATIONS ABOUT, PENALTY CHARGES
 
-### 7. Penalty charge notice[^key-25a4303f2539da73a380f7f55d17b65b]
+### 7. Penalty charge notice[^c-25a4303f2539da73a380f7f55d17b65b]
 
 (1) Where a road user charge with respect to a motor vehicle under a charging scheme has not been paid by the time by which it is required by the charging scheme to be paid and, in those circumstances, the charging scheme provides for the payment of a penalty charge, the charging authority may serve a notice (a “penalty charge notice”).
 
@@ -243,7 +243,7 @@ road user charges and penalty charges are to be paid by the person who hired the
 - (j) that the charging authority may disregard any such representations received by it more than 28 days after the penalty charge notice was served; and
 - (k) in general terms, the form and manner in which an appeal to an adjudicator may be made.
 
-### 8. Representations against penalty charge notice[^key-0f100923a347577590c3730e14658218]
+### 8. Representations against penalty charge notice[^c-0f100923a347577590c3730e14658218]
 
 (1) Where it appears to the person on whom the penalty charge notice is served (“the recipient”) that—
 
@@ -299,17 +299,17 @@ the recipient may make representations in writing to that effect to the charging
 - (a) it is deemed to have accepted the representations made under paragraph (1) and to have served notice to that effect under regulation 9(1); and
 - (b) it must as soon as reasonably practicable refund any sum paid in respect of the penalty charge notice and (if applicable) the road user charge.
 
-### 9. Cancellation of penalty charge notice[^key-db35054afee843aafb1ce34bad41bd01]
+### 9. Cancellation of penalty charge notice[^c-db35054afee843aafb1ce34bad41bd01]
 
 (1) Where a charging authority accepts that a ground in regulation 8(3) has been established, or that there are compelling reasons why, in the particular circumstances of the case, the penalty charge notice should be cancelled, it must—
 
 - (a) cancel the penalty charge notice;
 - (b) state in the notice served under regulation 8(9)(b) that the penalty charge notice has been cancelled; and
-- (c)[^key-094850769fbf8be7f97403063017a4b5] as soon as reasonably practicable refund any sum paid in respect of the penalty charge notice and (if applicable) the road user charge.
+- (c)[^c-094850769fbf8be7f97403063017a4b5] as soon as reasonably practicable refund any sum paid in respect of the penalty charge notice and (if applicable) the road user charge.
 
 (2) The cancellation of a penalty charge notice under paragraph (1) is not to be taken to prevent the charging authority from serving a fresh penalty charge notice on the same or another person.
 
-### 10. Rejection of representations against penalty charge notice[^key-ea3b2ddc64a38b4dc414d582ce273919]
+### 10. Rejection of representations against penalty charge notice[^c-ea3b2ddc64a38b4dc414d582ce273919]
 
 (1) Where a charging authority does not accept that a ground in regulation 8(3) has been established, nor that there are compelling reasons why the penalty charge notice should be cancelled, the notice served in accordance with regulation 8(9)(b) (a “notice of rejection”) must—
 
@@ -321,7 +321,7 @@ the recipient may make representations in writing to that effect to the charging
 
 (2) A notice of rejection may contain such other information as the charging authority considers appropriate.
 
-### 11. Appeals to an adjudicator in relation to decisions under regulation 10[^key-1b4e2281a8c7963894b3ef1520f880ec]
+### 11. Appeals to an adjudicator in relation to decisions under regulation 10[^c-1b4e2281a8c7963894b3ef1520f880ec]
 
 (1) Where a charging authority serves a notice of rejection under regulation 10(1) in relation to representations made under regulation 8, the person making those representations may appeal to an adjudicator against the charging authority’s decision—
 
@@ -361,7 +361,7 @@ the recipient may make representations in writing to that effect to the charging
 
 ## PART 4 — ROAD USER CHARGING SCHEME ADJUDICATORS
 
-### 12. Appointment of, and provision of facilities for, adjudicators[^key-e7e1dd1e968ea93ba609d76bae56be75]
+### 12. Appointment of, and provision of facilities for, adjudicators[^c-e7e1dd1e968ea93ba609d76bae56be75]
 
 (1) Adjudicators who—
 
@@ -370,25 +370,25 @@ the recipient may make representations in writing to that effect to the charging
 
 are to be treated as having been appointed under this regulation on the same terms as those on which they held office at that time.
 
-(2) The appointment of an adjudicator by the joint committee under regulation 17 of the 2007 Regulations , or under regulation 16 of the Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022,[^key-fff5d8fba82acba345a5eb6be95c4e0b] after the coming into force of these Regulations will be effective to appoint that adjudicator as an adjudicator for the purpose of these Regulations (on the same terms as that adjudicator was appointed under regulation 17).
+(2) The appointment of an adjudicator by the joint committee under regulation 17 of the 2007 Regulations , or under regulation 16 of the Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022,[^c-fff5d8fba82acba345a5eb6be95c4e0b] after the coming into force of these Regulations will be effective to appoint that adjudicator as an adjudicator for the purpose of these Regulations (on the same terms as that adjudicator was appointed under regulation 17).
 
 (3) Each adjudicator is to make an annual report to the joint committee on the discharge of their functions under these Regulations.
 
 (4) The joint committee is to make and publish an annual report in writing to the Secretary of State on the discharge by road user charging scheme adjudicators of their functions.
 
-### 13. Administrative support and defrayal of expenses[^key-262e3581e4d38c4e54c22da333acc97c]
+### 13. Administrative support and defrayal of expenses[^c-262e3581e4d38c4e54c22da333acc97c]
 
 (1) Charging authorities are to arrange with the joint committee for the provision of accommodation, administrative staff and facilities for adjudicators, including the appointment of a member of the administrative staff to fulfil the function of the proper officer for the purpose of these Regulations.
 
 (2) Charging authorities are to meet the expenses of the joint committee incurred under paragraph (1) and in remunerating adjudicators in such proportions as they agree or, in default of agreement, as may be determined by an arbitrator nominated by the Chartered Institute of Arbitrators on the application of any charging authority.
 
-### 14. Procedure to be followed by adjudicators[^key-4e82e7cd71e8e78b5afdbb8bb69f58e9]
+### 14. Procedure to be followed by adjudicators[^c-4e82e7cd71e8e78b5afdbb8bb69f58e9]
 
 (1) The Schedule to these Regulations is to have effect as to the procedure to be followed in adjudication proceedings.
 
 (2) Subject to the provisions of that Schedule, adjudicators may regulate their own procedure.
 
-### 15. Evidence produced by a prescribed device[^key-5483a6fb3446f2ff95b716b7f51fd8f9]
+### 15. Evidence produced by a prescribed device[^c-5483a6fb3446f2ff95b716b7f51fd8f9]
 
 (1) Evidence of a fact relevant to proceedings conducted in accordance with the Schedule may be given by the production of—
 
@@ -404,13 +404,13 @@ and includes any equipment used in conjunction with the camera or other device f
 
 (3) A document purporting to be a record or a certificate of the kind described in paragraph (1) is to be deemed to be such a record unless the contrary is proved.
 
-### 16. Recovery of amounts payable under an adjudication[^key-b12b534dd0165b927f70ad553ad5638c]
+### 16. Recovery of amounts payable under an adjudication[^c-b12b534dd0165b927f70ad553ad5638c]
 
 Any amount which is payable under an adjudication of an adjudicator is, if a county court so orders, to be recoverable by the person to whom the amount is payable as if it were payable under a county court order.
 
 ## PART 5 — ENFORCEMENT OF PENALTY CHARGES
 
-### 17. Charge certificates[^key-d7f37fc55d1f3b9c9c183452a6557e7c]
+### 17. Charge certificates[^c-d7f37fc55d1f3b9c9c183452a6557e7c]
 
 (1) Where a penalty charge notice is served on a person and the penalty charge to which it relates is not paid before the end of the relevant period, the charging authority serving the penalty charge notice may serve on that person a statement (a “charge certificate”) to the effect that the penalty charge in question is increased to the sum specified in the charging scheme under which it was incurred.
 
@@ -429,11 +429,11 @@ Any amount which is payable under an adjudication of an adjudicator is, if a cou
 
 (4) Where an appeal against a notice of rejection is made but is withdrawn before the adjudicator gives notice of the adjudicator’s decision, the “relevant period” in paragraph (1) in relation to a penalty charge notice is the period of 14 days beginning with the date on which the appeal is withdrawn.
 
-### 18. Enforcement of charge certificates[^key-a5c4bf45cce304cfcceb2278bb3ba7bb]
+### 18. Enforcement of charge certificates[^c-a5c4bf45cce304cfcceb2278bb3ba7bb]
 
 Where a charge certificate has been served on any person and the increased penalty charge provided for in the charge certificate (and, if applicable, the road user charge payable under the charging scheme) is not paid within the period of 14 days beginning with the date on which the charge certificate is served, the charging authority concerned may, if a county court so orders, recover the increased penalty charge (and, if applicable, the road user charge payable under the charging scheme) as if it (or they) were payable under a county court order.
 
-### 19. Invalid notices[^key-cbe11d063c914d85926fc658db01972b]
+### 19. Invalid notices[^c-cbe11d063c914d85926fc658db01972b]
 
 (1) This regulation applies where—
 
@@ -464,7 +464,7 @@ Where a charge certificate has been served on any person and the increased penal
 
 (6) Where a witness statement contains such a statement as is mentioned in paragraph (2)(b) or (c)(i) or (ii), the charging authority may refer the case to an adjudicator, who may give such directions as the adjudicator considers appropriate, and the provisions of Part 4 of the Schedule are to apply.
 
-### 20. Enforcement by execution[^key-ad2799f87e688038fe75512db103dc32]
+### 20. Enforcement by execution[^c-ad2799f87e688038fe75512db103dc32]
 
 (1) Subject to paragraph (2)—
 
@@ -482,7 +482,7 @@ is to be treated for purposes of enforcement by execution as if it were a specif
 
 ## PART 6 — POWERS IN RESPECT OF MOTOR VEHICLES
 
-### 21. Authorised persons[^key-dd8b6c558345b764f3a108dfb446015a]
+### 21. Authorised persons[^c-dd8b6c558345b764f3a108dfb446015a]
 
 (1) In these Regulations a reference to an authorised person is to a person authorised by a charging authority for the purpose of Part 6.
 
@@ -490,7 +490,7 @@ is to be treated for purposes of enforcement by execution as if it were a specif
 
 (3) An authorised person who is about to exercise, is in the course of exercising or has exercised, any power conferred under these Regulations must, if so requested, produce that person’s authority.
 
-### 22. Power to examine motor vehicles[^key-dd7f916401ca66131f6ff1eb1d0a5b86]
+### 22. Power to examine motor vehicles[^c-dd7f916401ca66131f6ff1eb1d0a5b86]
 
 (1) A charging scheme may confer powers on an authorised person to examine a motor vehicle whilst on a road for the purpose of ascertaining—
 
@@ -501,7 +501,7 @@ is to be treated for purposes of enforcement by execution as if it were a specif
   - (iii) has been interfered with, or its functioning has been interfered with, with intent to avoid payment of, or to avoid any person being identified as having failed to pay, a road user charge imposed by the charging scheme; or
 - (c) whether any conditions relating to the use of any such equipment are satisfied.
 
-### 23. Power to enter motor vehicles[^key-a80a7f599e5136d58712c12abbd25f3f]
+### 23. Power to enter motor vehicles[^c-a80a7f599e5136d58712c12abbd25f3f]
 
 (1) A charging scheme may confer powers on an authorised person to enter a motor vehicle whilst on a road where the authorised person has reasonable grounds for suspecting that—
 
@@ -510,13 +510,13 @@ is to be treated for purposes of enforcement by execution as if it were a specif
 
 (2) The power conferred by paragraph (1) must not be exercised by an authorised person who is not a constable except in the presence of a constable.
 
-### 24. Power of seizure[^key-7bf9af1b4c4d9b16fc002aa2f53b605d]
+### 24. Power of seizure[^c-7bf9af1b4c4d9b16fc002aa2f53b605d]
 
 (1) A charging scheme may confer powers on an authorised person to seize anything (if necessary by detaching it from a motor vehicle) and detain it as evidence of the commission of an offence under section 173(5) or (6) of the Transport Act 2000[^f00013] (acts done with intent to avoid a road user charge).
 
 (2) The power conferred by paragraph (1) must not be exercised by an authorised person who is not a constable except in the presence of a constable.
 
-### 25. Power to immobilise motor vehicles[^key-c03ad3ea0450b9761557e734a18d6afc]
+### 25. Power to immobilise motor vehicles[^c-c03ad3ea0450b9761557e734a18d6afc]
 
 (1) Provided—
 
@@ -569,7 +569,7 @@ a charging scheme may provide for an authorised person to immobilise a motor veh
 - (b) “recognised badge” has the same meaning as in section 21A(1) of the Chronically Sick and Disabled Persons Act 1970[^f00017]; and
 - (c) “third unpaid penalty charge” means the third unpaid penalty charge in sequence beginning with the earliest in time.
 
-### 26. Release of immobilised motor vehicles[^key-0665f88fed1c991a027976a9b63b3739]
+### 26. Release of immobilised motor vehicles[^c-0665f88fed1c991a027976a9b63b3739]
 
 (1) A motor vehicle to which an immobilisation device has been fitted in accordance with regulation 25 may only be released from that device by or under the direction of an authorised person.
 
@@ -577,7 +577,7 @@ a charging scheme may provide for an authorised person to immobilise a motor veh
 
 (3) The person who takes control of a motor vehicle following its release pursuant to paragraph (2) must be given a notice by the authorised person releasing it in accordance with regulation 32(2).
 
-### 27. Power to remove motor vehicles[^key-eccd4ed55016fecb2ba21180c0fd8584]
+### 27. Power to remove motor vehicles[^c-eccd4ed55016fecb2ba21180c0fd8584]
 
 (1) A charging scheme may provide for an authorised person, where—
 
@@ -596,7 +596,7 @@ to remove a motor vehicle and deliver it to a custodian for storage.
 - (b) there is good reason for storing them at a different place from the motor vehicle; or
 - (c) their condition requires them to be disposed of without delay.
 
-### 28. Disposal of removed motor vehicles and contents[^key-9a6ee81f8f9a62e6e17613d93a41c878]
+### 28. Disposal of removed motor vehicles and contents[^c-9a6ee81f8f9a62e6e17613d93a41c878]
 
 (1) Subject to the provisions of this regulation, the custodian to whom a motor vehicle is delivered in accordance with regulation 27(1) may store it and dispose of it or its contents by selling them or dealing with them as scrap, as the custodian thinks fit.
 
@@ -629,13 +629,13 @@ to remove a motor vehicle and deliver it to a custodian for storage.
 
 (6) Where there is more than one claim to the motor vehicle or its contents, the custodian must determine which person is entitled to the motor vehicle or its contents on the basis of the evidence provided.
 
-### 29. Recovery of penalty charges and road user charges in relation to removed motor vehicles[^key-15f237815b6e090ae6838362e54153e3]
+### 29. Recovery of penalty charges and road user charges in relation to removed motor vehicles[^c-15f237815b6e090ae6838362e54153e3]
 
 (1) Where a motor vehicle has been removed and delivered into the custody of a custodian under regulation 27(1) the charging authority or the custodian may (whether or not any claim is made under regulation 30 or 31) recover from the person who was the keeper of the motor vehicle when it was removed all the penalty charges and road user charges mentioned in regulation 28(4)(a)(iv) that remain unpaid in respect of the motor vehicle.
 
 (2) Where, by virtue of paragraph (1), any sum is recoverable in respect of a motor vehicle by a charging authority or a custodian, the charging authority or the custodian is entitled to retain custody of it until that sum is paid or the vehicle is disposed of in accordance with these Regulations.
 
-### 30. Taking possession of a removed motor vehicle[^key-043d4c26e9f134bf81de2334068ce47c]
+### 30. Taking possession of a removed motor vehicle[^c-043d4c26e9f134bf81de2334068ce47c]
 
 (1) A person may take possession of a motor vehicle (with its contents) which has been removed and delivered to a custodian and has not been disposed of under regulation 28, if the conditions specified in paragraph (2) are satisfied.
 
@@ -646,7 +646,7 @@ to remove a motor vehicle and deliver it to a custodian for storage.
 
 (3) The person taking possession of a motor vehicle pursuant to paragraph (2) must be given a notice by the custodian in accordance with regulation 35(2).
 
-### 31. Claim by the keeper of a motor vehicle after its disposal[^key-5450a8a2998ab68533a33892a42dc260]
+### 31. Claim by the keeper of a motor vehicle after its disposal[^c-5450a8a2998ab68533a33892a42dc260]
 
 (1) If, after a motor vehicle has been disposed of by a custodian pursuant to regulation 28, a person claims to have been the keeper of the motor vehicle at the time when it was disposed of and the conditions specified in paragraph (2) are fulfilled, there is payable to that person by the custodian a sum calculated in accordance with paragraph (3).
 
@@ -659,7 +659,7 @@ to remove a motor vehicle and deliver it to a custodian for storage.
 
 ## PART 7 — REPRESENTATIONS AND APPEALS IN RELATION TO POWERS EXERCISED IN RESPECT OF MOTOR VEHICLES
 
-### 32. Right to make representations in respect of the immobilisation of a motor vehicle[^key-bb2c353cb11d0fc6bd4bdf1b6ce66086]
+### 32. Right to make representations in respect of the immobilisation of a motor vehicle[^c-bb2c353cb11d0fc6bd4bdf1b6ce66086]
 
 (1) This regulation applies to the keeper or person in charge of a motor vehicle where—
 
@@ -688,7 +688,7 @@ and any such representations must be in such form as may be specified by the cha
 - (c) the penalty charge paid to secure the release of the motor vehicle exceeded the amount applicable in the circumstances of the case;
 - (d) there has been a procedural impropriety on the part of the charging authority.
 
-### 33. Duty of charging authority to which representations in respect of immobilisation are made[^key-738a9eec43b48643db0ea979d9d46d9c]
+### 33. Duty of charging authority to which representations in respect of immobilisation are made[^c-738a9eec43b48643db0ea979d9d46d9c]
 
 (1) A charging authority may disregard any representation received by it after the end of the period of 28 days beginning with the date on which the person making them is notified under regulation 32(2) of the right to make representations.
 
@@ -714,7 +714,7 @@ and any such representations must be in such form as may be specified by the cha
 - (a) it is deemed to have accepted the representations made under regulation 32(3) and to have served notice to that effect under paragraph (2)(b); and
 - (b) it must as soon as reasonably practicable after the end of that period refund all such sums as are mentioned in paragraph (3).
 
-### 34. Appeals to an adjudicator in relation to decisions under regulation 33[^key-63a4ae329ecd4f92a08592778f0f0ef4]
+### 34. Appeals to an adjudicator in relation to decisions under regulation 33[^c-63a4ae329ecd4f92a08592778f0f0ef4]
 
 (1) Where a charging authority serves a notice of rejection under regulation 33(4) in relation to representations made under regulation 32(3) the person making those representations may, within—
 
@@ -750,7 +750,7 @@ the adjudicator must direct the charging authority to refund that sum.
 
 (12) If the charging authority fails to comply with the requirements of paragraph (8) within the 35 day period, the charging authority is to be taken to have accepted the adjudicator’s recommendation and must make the recommended refund as soon as reasonably practicable after the end of that period.
 
-### 35. Right to make representations in respect of the removal and disposal of a motor vehicle[^key-bd2412fbf26385dc57f211a6f8ffa025]
+### 35. Right to make representations in respect of the removal and disposal of a motor vehicle[^c-bd2412fbf26385dc57f211a6f8ffa025]
 
 (1) This regulation applies to a person where, as respects a motor vehicle that has been removed under regulation 27(1)—
 
@@ -783,7 +783,7 @@ and any such representations must be in such form as may be specified by the cha
 - (c) that the penalty charge paid to take possession of the motor vehicle exceeded the amount applicable in the circumstances of the case;
 - (d) that there has been a procedural impropriety on the part of the charging authority.
 
-### 36. Duty of charging authority to which representations in respect of removal etc are made[^key-88f06dc6267c060ad8dd0ff1068658a7]
+### 36. Duty of charging authority to which representations in respect of removal etc are made[^c-88f06dc6267c060ad8dd0ff1068658a7]
 
 (1) A charging authority may disregard any representation received by it after the end of the period of 28 days beginning with the date on which the person making them is notified under regulation 35(2) of the right to make representations.
 
@@ -814,7 +814,7 @@ except to the extent (if any) to which those sums were properly paid or deducted
 - (a) it is deemed to have accepted the representations made under regulation 35(3) and to have served notice to that effect under paragraph (2)(b); and
 - (b) it must as soon as reasonably practicable after the end of that period refund all such sums as are mentioned in paragraph (3).
 
-### 37. Appeals to adjudicator in relation to decisions under regulation 36[^key-91c47f27bba5e59096addde32dfbf5ed]
+### 37. Appeals to adjudicator in relation to decisions under regulation 36[^c-91c47f27bba5e59096addde32dfbf5ed]
 
 (1) Where a charging authority serves a notice of rejection under regulation 36(4) in relation to representations made under regulation 35(3) the person making those representations may, within—
 
@@ -870,13 +870,13 @@ Ministry of Justice
 
 16th July 2013
 
-## SCHEDULE — PROCEDURE IN ADJUDICATION PROCEEDINGS[^key-99f967ae32052f6fda603fd236f60342]
+## SCHEDULE — PROCEDURE IN ADJUDICATION PROCEEDINGS[^c-99f967ae32052f6fda603fd236f60342]
 
 Regulation 14(1)
 
 ### PART 1 — INTERPRETATION
 
-#### 1. Interpretation of Schedule[^key-49174432f3bdb243712e278f90ff2cc1]
+#### 1. Interpretation of Schedule[^c-49174432f3bdb243712e278f90ff2cc1]
 
 (1) In this Schedule—
 
@@ -892,7 +892,7 @@ Regulation 14(1)
 
 ### PART 2 — PROCEDURE RELATING TO APPEALS
 
-#### 2. Initiating an appeal[^key-72063095b042c76091b984893167b028]
+#### 2. Initiating an appeal[^c-72063095b042c76091b984893167b028]
 
 (1) An appeal is to be made by serving a notice of appeal to the proper officer.
 
@@ -908,7 +908,7 @@ Regulation 14(1)
 
 (4) If the notice of appeal is served on the proper officer after the expiry of the appeal period, the appellant must include in the notice a statement of the reasons on which the appellant relies for justifying the delay, and the adjudicator must treat any such statement of reasons for delay as a request to extend the appeal period.
 
-#### 3. Action upon receipt of notice of appeal and copy of such notice[^key-91a8d591f2b1ab22166d59b3a10b4830]
+#### 3. Action upon receipt of notice of appeal and copy of such notice[^c-91a8d591f2b1ab22166d59b3a10b4830]
 
 (1) On receiving a notice of appeal the proper officer must—
 
@@ -936,7 +936,7 @@ Regulation 14(1)
 
 the proper officer must inform the appellant that the adjudicator has declined the request for an extension or, as the case may be, of the reasons why the adjudicator considers that the notice does not accord with paragraph 2 and must record the action taken in the register.
 
-#### 4. Further representations[^key-a8d5c608d0b7bd09200f72373068d0a7]
+#### 4. Further representations[^c-a8d5c608d0b7bd09200f72373068d0a7]
 
 (1) Any party may serve representations in relation to the matters referred to in regulations 8(3), 32(4) or 35(4) (as the case may be) on the proper officer at any time before the appeal is determined.
 
@@ -952,7 +952,7 @@ the proper officer must inform the appellant that the adjudicator has declined t
 
 (7) This paragraph is without prejudice to the powers of an adjudicator under paragraph 10.
 
-#### 5. Adjudicator’s power to require attendance of witnesses and production of documents[^key-7fbce527f4261ea04f7d561d540eb4a1]
+#### 5. Adjudicator’s power to require attendance of witnesses and production of documents[^c-7fbce527f4261ea04f7d561d540eb4a1]
 
 (1) The adjudicator may, by notice in writing served on any person (including a party to the proceedings), require that person—
 
@@ -969,7 +969,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 
 (5) No person is required to give any evidence or produce any documents under sub-paragraph (1) which that person could not be required to give or produce in the trial of an action in a court of law.
 
-#### 6. Disposing of an appeal without a hearing[^key-b9d11949bcca8a450ec6c1d16b7a0766]
+#### 6. Disposing of an appeal without a hearing[^c-b9d11949bcca8a450ec6c1d16b7a0766]
 
 (1) Subject to the following provisions of this paragraph, the adjudicator may dispose of an appeal without a hearing.
 
@@ -986,7 +986,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 - (a) there has elapsed a period of 28 days beginning with the date on which an acknowledgement is served in accordance with paragraph 3(1)(a) during which neither party has requested a hearing; or
 - (b) both parties have consented to its disposal without a hearing.
 
-#### 7. Notice of time and place of hearing[^key-022fe3579ce1d49d11e62b566e1c86a5]
+#### 7. Notice of time and place of hearing[^c-022fe3579ce1d49d11e62b566e1c86a5]
 
 (1) This paragraph has effect where a hearing is to be held for the purpose of disposing of an appeal.
 
@@ -1004,7 +1004,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 
 (4) This paragraph applies to an adjourned hearing but, if, before the adjournment, the time and place of the adjourned hearing are notified to all persons expected to attend, no further notice is required.
 
-#### 8. Admission to a hearing[^key-2c378866d6cde68b29fa012857558a43]
+#### 8. Admission to a hearing[^c-2c378866d6cde68b29fa012857558a43]
 
 (1) Subject to the provisions of this paragraph, a hearing is to be held in public.
 
@@ -1020,7 +1020,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 
 (5) Without prejudice to any other powers an adjudicator may have, the adjudicator may exclude from the hearing of an appeal, or part of it, any person whose conduct has disrupted or is likely, in the opinion of the adjudicator, to disrupt the hearing.
 
-#### 9. Appearances at a hearing[^key-39304db8d9c073d32626e2af83844ad1]
+#### 9. Appearances at a hearing[^c-39304db8d9c073d32626e2af83844ad1]
 
 (1) The appellant and the charging authority are entitled to appear at the hearing of an appeal.
 
@@ -1030,7 +1030,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 
 (4) If in any particular case the adjudicator is satisfied that there are sufficient reasons for doing so, the adjudicator may prohibit a particular person from assisting or representing either party at the hearing.
 
-#### 10. Procedure at a hearing[^key-d580fd746a86afc38fd628fae56007ea]
+#### 10. Procedure at a hearing[^c-d580fd746a86afc38fd628fae56007ea]
 
 (1) At the beginning of the hearing of an appeal the adjudicator must explain the order of proceedings.
 
@@ -1043,7 +1043,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 
 (4) Without prejudice to paragraph 6(3)(c), where a party who has been served with notice of the hearing of an appeal, or has otherwise been notified of the hearing in accordance with paragraph 7 fails to attend the hearing, the adjudicator may dispose of the appeal in that person’s absence.
 
-#### 11. Decisions on appeals[^key-c81325d28d730be005db31e68c72e420]
+#### 11. Decisions on appeals[^c-c81325d28d730be005db31e68c72e420]
 
 (1) The adjudicator must give the reasons for a decision on an appeal.
 
@@ -1054,7 +1054,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 - (a) as soon as practicable record the decision in the register, together with the adjudicator’s reasons and any directions given; and
 - (b) serve a copy of the register entry to each party.
 
-#### 12. Review of adjudicator’s decision[^key-cd66b1f24e985b3352a0a1a90d3c8ecf]
+#### 12. Review of adjudicator’s decision[^c-cd66b1f24e985b3352a0a1a90d3c8ecf]
 
 (1) The adjudicator may, on the application of a party, review—
 
@@ -1080,7 +1080,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 
 (6) Paragraph 11 applies to the confirmation, revocation or variation of a decision under this paragraph as it applies to a decision made on the disposal of an appeal.
 
-#### 13. Costs[^key-0ceea17e95bfae6ece61faeb8413fec1]
+#### 13. Costs[^c-0ceea17e95bfae6ece61faeb8413fec1]
 
 (1) The adjudicator is not normally to make an order awarding costs and expenses, but may, subject to sub-paragraph (2) make such an order—
 
@@ -1091,7 +1091,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 
 (3) An order under sub-paragraph (1) must require the party against whom it is made to pay to the other party a specified sum in respect of the costs and expenses incurred by that other party in connection with the proceedings.
 
-#### 14. Consolidation of proceedings[^key-9fe95132657a4a2ce6dd755695707847]
+#### 14. Consolidation of proceedings[^c-9fe95132657a4a2ce6dd755695707847]
 
 (1) Where there are pending two or more appeals and at any time it appears to an adjudicator that—
 
@@ -1102,7 +1102,7 @@ the adjudicator may order that both or all of the appeals, or those specified in
 
 (2) An order must not be made under this paragraph unless all parties concerned have been given an opportunity of making representations against the making of the order.
 
-#### 15. Miscellaneous powers of adjudicators[^key-76a2040f2571f59ceb0123d8d8ef70a8]
+#### 15. Miscellaneous powers of adjudicators[^c-76a2040f2571f59ceb0123d8d8ef70a8]
 
 (1) An adjudicator may—
 
@@ -1114,13 +1114,13 @@ the adjudicator may order that both or all of the appeals, or those specified in
 
 (2) An adjudicator may exercise the powers conferred by this Schedule (other than paragraph 12) on the application of a party or on the adjudicator’s own motion.
 
-#### 16. Clerical errors[^key-da55484c3ac5748a73cfadfa438e6601]
+#### 16. Clerical errors[^c-da55484c3ac5748a73cfadfa438e6601]
 
 Clerical errors in any document recording a direction or decision of the adjudicator, or errors in such a document arising from an accidental slip or omission, may be corrected by the proper officer on the direction of the adjudicator.
 
 ### PART 3 — SERVICE OF DOCUMENTS AND NOTICES IN ADJUDICATION PROCEEDINGS
 
-#### 17. Service of documents on the parties[^key-941dc3e05cc5f962d414c67592852432]
+#### 17. Service of documents on the parties[^c-941dc3e05cc5f962d414c67592852432]
 
 (1) This paragraph has effect in relation to any notice or other document required or authorised by these Regulations to be served on a party to an appeal.
 
@@ -1166,7 +1166,7 @@ and any such document so left is to be taken, unless the contrary is proven, to 
 - (b) sent by first class post is taken to have been served at the time at which the notice or document would be delivered in the ordinary course of post;
 - (c) sent by fax or other means of electronic transmission is to be taken to have been served on the first working day after the day on which it was transmitted.
 
-#### 18. Service of notices or documents to the proper officer[^key-9864a620af0ea03e87e1b16df60f7ce6]
+#### 18. Service of notices or documents to the proper officer[^c-9864a620af0ea03e87e1b16df60f7ce6]
 
 (1) This paragraph has effect in relation to any notice or other document required or authorised by or under this Schedule to be served on the proper officer.
 
@@ -1188,14 +1188,14 @@ and any such document so left is to be taken, unless the contrary is proved, to 
 
 ### PART 4 — DIRECTIONS AS TO INVALID NOTICES
 
-#### 19. Scope of Part 4[^key-066d0988e67961c616777efaed0d28bd]
+#### 19. Scope of Part 4[^c-066d0988e67961c616777efaed0d28bd]
 
 Paragraph 20 applies where—
 
 - (a) the order of a county court which has been made against a person (“a relevant person”) in accordance with regulation 18 is deemed under regulation 19(4) to have been revoked following the making of a witness statement; and
 - (b) the charging authority has referred the case to the adjudicator for directions.
 
-#### 20. Procedure[^key-2c0f43921abdda0d97747d5577be1c5e]
+#### 20. Procedure[^c-2c0f43921abdda0d97747d5577be1c5e]
 
 (1) In a case to which this paragraph applies—
 
@@ -1209,7 +1209,7 @@ Paragraph 20 applies where—
 
 ### PART 5 — THE REGISTER
 
-#### 21. The register[^key-3da6410dbcb88475401163842c6bff9a]
+#### 21. The register[^c-3da6410dbcb88475401163842c6bff9a]
 
 (1) The proper officer must establish and maintain, in accordance with the following provisions of this paragraph, a register for the purpose of recording proceedings conducted under these Regulations.
 
@@ -1255,95 +1255,95 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^f00001]: Footnote: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38). Section 198(1) of the Act contains definitions of “charging authority”, “charging scheme”, “charging scheme penalty charges”, “motor vehicle”, “registered keeper” and “road”. The powers conferred by section 163(2)(b), 173(1) and (3)(b) and 175(1) are conferred on “the appropriate national authority”. By virtue of section 198(1) the Secretary of State is the appropriate national authority in relation to charging schemes relating only to England. Section 174(1)(bb) was substituted by the Local Transport Act [2008 (c.26)](https://www.legislation.gov.uk/ukpga/2008/26) section 115(2)(a); section 174(2)(a) was amended by sections 115(2)(b) and (c) of that Act and section 174(2)(b) was also amended by section 115(2)(c) of that Act.
 
-[^key-24f1c9a7ab2fe4143aa7abbf9cf7c7d2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/1783) applied (15.4.2025) by [The A122 (Lower Thames Crossing) Development Consent Order 2025 (S.I. 2025/462)](https://www.legislation.gov.uk/uksi/2025/462), [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1), [Sch. 12 para. 2](https://www.legislation.gov.uk/uksi/2025/462/schedule/12/paragraph/2) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/462/article/5), [43](https://www.legislation.gov.uk/uksi/2025/462/article/43), [53(7)](https://www.legislation.gov.uk/uksi/2025/462/article/53/7), [54(2)](https://www.legislation.gov.uk/uksi/2025/462/article/54/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/462/schedule/14))
+[^c-24f1c9a7ab2fe4143aa7abbf9cf7c7d2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/1783) applied (15.4.2025) by [The A122 (Lower Thames Crossing) Development Consent Order 2025 (S.I. 2025/462)](https://www.legislation.gov.uk/uksi/2025/462), [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1), [Sch. 12 para. 2](https://www.legislation.gov.uk/uksi/2025/462/schedule/12/paragraph/2) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/462/article/5), [43](https://www.legislation.gov.uk/uksi/2025/462/article/43), [53(7)](https://www.legislation.gov.uk/uksi/2025/462/article/53/7), [54(2)](https://www.legislation.gov.uk/uksi/2025/462/article/54/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/462/schedule/14))
 
-[^key-e0b6fc921bbc719285ef7671e7107d60]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-e0b6fc921bbc719285ef7671e7107d60]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-844c374f72b9bbc233a00d05f5c01878]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1783/regulation/2) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-844c374f72b9bbc233a00d05f5c01878]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1783/regulation/2) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-9daa01900a66f2778f53cb550d70c7a2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/2/1) substituted (E.) (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/uksi/2022/71/schedule/4/paragraph/5/2)
+[^c-9daa01900a66f2778f53cb550d70c7a2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/2/1) substituted (E.) (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/uksi/2022/71/schedule/4/paragraph/5/2)
 
 [^f00003]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132). Relevant amending instruments for Rule 22.1 are [S.I. 2001/1769](https://www.legislation.gov.uk/uksi/2001/1769), [2001/4015](https://www.legislation.gov.uk/uksi/2001/4015) and [2004/3419](https://www.legislation.gov.uk/uksi/2004/3419).
 
-[^key-038c5115e41c98ddc4c2000819d287c6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1783/regulation/3) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-038c5115e41c98ddc4c2000819d287c6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1783/regulation/3) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-02df8acb14880caa3bce14affd935004]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/3/1) omitted (7.9.2026) by virtue of [The Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) (Amendment) Regulations 2026 (S.I. 2026/752)](https://www.legislation.gov.uk/uksi/2026/752), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/752/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/752/regulation/2/2/a)
+[^c-02df8acb14880caa3bce14affd935004]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/3/1) omitted (7.9.2026) by virtue of [The Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) (Amendment) Regulations 2026 (S.I. 2026/752)](https://www.legislation.gov.uk/uksi/2026/752), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/752/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/752/regulation/2/2/a)
 
 [^f00004]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22).
 
-[^key-a91dea43a745de96e56c98bab09c6bfb]: Textual amendment: [Reg. 3(4)(aa)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/3/4/aa) inserted (7.9.2026) by [The Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) (Amendment) Regulations 2026 (S.I. 2026/752)](https://www.legislation.gov.uk/uksi/2026/752), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/752/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/752/regulation/2/2/b)
+[^c-a91dea43a745de96e56c98bab09c6bfb]: Textual amendment: [Reg. 3(4)(aa)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/3/4/aa) inserted (7.9.2026) by [The Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) (Amendment) Regulations 2026 (S.I. 2026/752)](https://www.legislation.gov.uk/uksi/2026/752), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/752/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/752/regulation/2/2/b)
 
-[^key-aaf16b37189cf774ecc2a677fdd417dd]: Textual amendment: Words in [reg. 3(4)(b)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/3/4/b) omitted (7.9.2026) by virtue of [The Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) (Amendment) Regulations 2026 (S.I. 2026/752)](https://www.legislation.gov.uk/uksi/2026/752), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/752/regulation/1/2), [2(2)(c)(i)](https://www.legislation.gov.uk/uksi/2026/752/regulation/2/2/c/i)
+[^c-aaf16b37189cf774ecc2a677fdd417dd]: Textual amendment: Words in [reg. 3(4)(b)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/3/4/b) omitted (7.9.2026) by virtue of [The Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) (Amendment) Regulations 2026 (S.I. 2026/752)](https://www.legislation.gov.uk/uksi/2026/752), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/752/regulation/1/2), [2(2)(c)(i)](https://www.legislation.gov.uk/uksi/2026/752/regulation/2/2/c/i)
 
-[^key-c8663f4b8c2672773eaffaeac0d48d78]: Textual amendment: Word in [reg. 3(4)(b)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/3/4/b) substituted (7.9.2026) by [The Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) (Amendment) Regulations 2026 (S.I. 2026/752)](https://www.legislation.gov.uk/uksi/2026/752), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/752/regulation/1/2), [2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/752/regulation/2/2/c/ii)
+[^c-c8663f4b8c2672773eaffaeac0d48d78]: Textual amendment: Word in [reg. 3(4)(b)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/3/4/b) substituted (7.9.2026) by [The Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) (Amendment) Regulations 2026 (S.I. 2026/752)](https://www.legislation.gov.uk/uksi/2026/752), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/752/regulation/1/2), [2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/752/regulation/2/2/c/ii)
 
 [^f00005]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-3b7431aa85be7489c47866b1279d4a09]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1783/regulation/4) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-3b7431aa85be7489c47866b1279d4a09]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1783/regulation/4) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-6679373333cc05bccd28a784efbdfd1f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/1783/regulation/5) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-6679373333cc05bccd28a784efbdfd1f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/1783/regulation/5) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-d7f31d701131cd11f53c60ec7ede23e9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/1783/regulation/6) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-d7f31d701131cd11f53c60ec7ede23e9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/1783/regulation/6) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2002/2742](https://www.legislation.gov.uk/uksi/2002/2742). Relevant amending instruments for regulation 22 are [S.I. 2003/3073](https://www.legislation.gov.uk/uksi/2003/3073), [2003/2154](https://www.legislation.gov.uk/uksi/2003/2154), [2004/238](https://www.legislation.gov.uk/uksi/2004/238), [2004/1773](https://www.legislation.gov.uk/uksi/2004/1773) and [2007/1018](https://www.legislation.gov.uk/uksi/2007/1018). Relevant amendments were made to regulation 23 by [S.I. 2003/3073](https://www.legislation.gov.uk/uksi/2003/3073). Relevant amending instruments for regulation 24 are [S.I. 2003/3073](https://www.legislation.gov.uk/uksi/2003/3073), [2004/238](https://www.legislation.gov.uk/uksi/2004/238), [2004/1773](https://www.legislation.gov.uk/uksi/2004/1773), [2007/1018](https://www.legislation.gov.uk/uksi/2007/1018), [2003/2154](https://www.legislation.gov.uk/uksi/2003/2154), [2004/238](https://www.legislation.gov.uk/uksi/2004/238), [2004/1773](https://www.legislation.gov.uk/uksi/2004/1773) and [2007/1018](https://www.legislation.gov.uk/uksi/2007/1018).
 
-[^key-72ba928f821fbe095d3ebcc0a5d5c6e1]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/6/5) substituted (14.2.2014) by [The Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) (Amendment) Regulations 2014 (S.I. 2014/81)](https://www.legislation.gov.uk/uksi/2014/81), [regs. 1](https://www.legislation.gov.uk/uksi/2014/81/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2014/81/regulation/3/1/a)
+[^c-72ba928f821fbe095d3ebcc0a5d5c6e1]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/6/5) substituted (14.2.2014) by [The Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) (Amendment) Regulations 2014 (S.I. 2014/81)](https://www.legislation.gov.uk/uksi/2014/81), [regs. 1](https://www.legislation.gov.uk/uksi/2014/81/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2014/81/regulation/3/1/a)
 
 [^f00007]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-49ffdf971a9c159211792b19f864c748]: Textual amendment: [Reg. 6(7)(c)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/6/7/c) substituted (14.2.2014) by [The Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) (Amendment) Regulations 2014 (S.I. 2014/81)](https://www.legislation.gov.uk/uksi/2014/81), [regs. 1](https://www.legislation.gov.uk/uksi/2014/81/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2014/81/regulation/3/1/b)
+[^c-49ffdf971a9c159211792b19f864c748]: Textual amendment: [Reg. 6(7)(c)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/6/7/c) substituted (14.2.2014) by [The Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) (Amendment) Regulations 2014 (S.I. 2014/81)](https://www.legislation.gov.uk/uksi/2014/81), [regs. 1](https://www.legislation.gov.uk/uksi/2014/81/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2014/81/regulation/3/1/b)
 
-[^key-25a4303f2539da73a380f7f55d17b65b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/1783/regulation/7) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-25a4303f2539da73a380f7f55d17b65b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/1783/regulation/7) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-0f100923a347577590c3730e14658218]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/1783/regulation/8) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-0f100923a347577590c3730e14658218]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/1783/regulation/8) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
 [^f00009]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22).
 
 [^f00010]: Footnote: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-db35054afee843aafb1ce34bad41bd01]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/1783/regulation/9) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-db35054afee843aafb1ce34bad41bd01]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/1783/regulation/9) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-094850769fbf8be7f97403063017a4b5]: Textual amendment: [Reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/9/1/c) substituted (14.2.2014) by [The Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) (Amendment) Regulations 2014 (S.I. 2014/81)](https://www.legislation.gov.uk/uksi/2014/81), [regs. 1](https://www.legislation.gov.uk/uksi/2014/81/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/81/regulation/4)
+[^c-094850769fbf8be7f97403063017a4b5]: Textual amendment: [Reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/9/1/c) substituted (14.2.2014) by [The Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) (Amendment) Regulations 2014 (S.I. 2014/81)](https://www.legislation.gov.uk/uksi/2014/81), [regs. 1](https://www.legislation.gov.uk/uksi/2014/81/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/81/regulation/4)
 
-[^key-ea3b2ddc64a38b4dc414d582ce273919]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/1783/regulation/10) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-ea3b2ddc64a38b4dc414d582ce273919]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/1783/regulation/10) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-1b4e2281a8c7963894b3ef1520f880ec]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/1783/regulation/11) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-1b4e2281a8c7963894b3ef1520f880ec]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/1783/regulation/11) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-e7e1dd1e968ea93ba609d76bae56be75]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/1783/regulation/12) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-e7e1dd1e968ea93ba609d76bae56be75]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/1783/regulation/12) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
 [^f00011]: Footnote: [S.I. 2007/3483](https://www.legislation.gov.uk/uksi/2007/3483)
 
-[^key-fff5d8fba82acba345a5eb6be95c4e0b]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/12/2) inserted (E.) (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/uksi/2022/71/schedule/4/paragraph/5/3)
+[^c-fff5d8fba82acba345a5eb6be95c4e0b]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/12/2) inserted (E.) (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/uksi/2022/71/schedule/4/paragraph/5/3)
 
-[^key-262e3581e4d38c4e54c22da333acc97c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/1783/regulation/13) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-262e3581e4d38c4e54c22da333acc97c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/1783/regulation/13) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-4e82e7cd71e8e78b5afdbb8bb69f58e9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/1783/regulation/14) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-4e82e7cd71e8e78b5afdbb8bb69f58e9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/1783/regulation/14) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-5483a6fb3446f2ff95b716b7f51fd8f9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/1783/regulation/15) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-5483a6fb3446f2ff95b716b7f51fd8f9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/1783/regulation/15) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-b12b534dd0165b927f70ad553ad5638c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/1783/regulation/16) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-b12b534dd0165b927f70ad553ad5638c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/1783/regulation/16) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-d7f37fc55d1f3b9c9c183452a6557e7c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/1783/regulation/17) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-d7f37fc55d1f3b9c9c183452a6557e7c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/1783/regulation/17) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-a5c4bf45cce304cfcceb2278bb3ba7bb]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/1783/regulation/18) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-a5c4bf45cce304cfcceb2278bb3ba7bb]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/1783/regulation/18) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-cbe11d063c914d85926fc658db01972b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/1783/regulation/19) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-cbe11d063c914d85926fc658db01972b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/1783/regulation/19) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-ad2799f87e688038fe75512db103dc32]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/1783/regulation/20) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-ad2799f87e688038fe75512db103dc32]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/1783/regulation/20) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
 [^f00012]: Footnote: [S.I. 1993/2073](https://www.legislation.gov.uk/uksi/1993/2073), amended by [SI 2001/1386](https://www.legislation.gov.uk/uksi/2001/1386).
 
-[^key-dd8b6c558345b764f3a108dfb446015a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2013/1783/regulation/21) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-dd8b6c558345b764f3a108dfb446015a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2013/1783/regulation/21) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-dd7f916401ca66131f6ff1eb1d0a5b86]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/1783/regulation/22) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-dd7f916401ca66131f6ff1eb1d0a5b86]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/1783/regulation/22) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-a80a7f599e5136d58712c12abbd25f3f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2013/1783/regulation/23) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-a80a7f599e5136d58712c12abbd25f3f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2013/1783/regulation/23) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-7bf9af1b4c4d9b16fc002aa2f53b605d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2013/1783/regulation/24) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-7bf9af1b4c4d9b16fc002aa2f53b605d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2013/1783/regulation/24) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
 [^f00013]: Footnote: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38). Section 173(5)(a) was amended by the Local Transport Act [2008 (c.26)](https://www.legislation.gov.uk/ukpga/2008/26) section 115(1).
 
-[^key-c03ad3ea0450b9761557e734a18d6afc]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2013/1783/regulation/25) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-c03ad3ea0450b9761557e734a18d6afc]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2013/1783/regulation/25) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
 [^f00014]: Footnote: [2000 c.26](https://www.legislation.gov.uk/ukpga/2000/26).
 
@@ -1353,72 +1353,72 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^f00017]: Footnote: Section 21A inserted by the Disability Discrimination Act [2005 (c.13)](https://www.legislation.gov.uk/ukpga/2005/13) section 9.
 
-[^key-0665f88fed1c991a027976a9b63b3739]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2013/1783/regulation/26) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-0665f88fed1c991a027976a9b63b3739]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2013/1783/regulation/26) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-eccd4ed55016fecb2ba21180c0fd8584]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2013/1783/regulation/27) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-eccd4ed55016fecb2ba21180c0fd8584]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2013/1783/regulation/27) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-9a6ee81f8f9a62e6e17613d93a41c878]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2013/1783/regulation/28) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-9a6ee81f8f9a62e6e17613d93a41c878]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2013/1783/regulation/28) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-15f237815b6e090ae6838362e54153e3]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2013/1783/regulation/29) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-15f237815b6e090ae6838362e54153e3]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2013/1783/regulation/29) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-043d4c26e9f134bf81de2334068ce47c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2013/1783/regulation/30) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-043d4c26e9f134bf81de2334068ce47c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2013/1783/regulation/30) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-5450a8a2998ab68533a33892a42dc260]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2013/1783/regulation/31) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-5450a8a2998ab68533a33892a42dc260]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2013/1783/regulation/31) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-bb2c353cb11d0fc6bd4bdf1b6ce66086]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2013/1783/regulation/32) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-bb2c353cb11d0fc6bd4bdf1b6ce66086]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2013/1783/regulation/32) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-738a9eec43b48643db0ea979d9d46d9c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2013/1783/regulation/33) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-738a9eec43b48643db0ea979d9d46d9c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2013/1783/regulation/33) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-63a4ae329ecd4f92a08592778f0f0ef4]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2013/1783/regulation/34) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-63a4ae329ecd4f92a08592778f0f0ef4]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2013/1783/regulation/34) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-bd2412fbf26385dc57f211a6f8ffa025]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2013/1783/regulation/35) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-bd2412fbf26385dc57f211a6f8ffa025]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2013/1783/regulation/35) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-88f06dc6267c060ad8dd0ff1068658a7]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2013/1783/regulation/36) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-88f06dc6267c060ad8dd0ff1068658a7]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2013/1783/regulation/36) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-91c47f27bba5e59096addde32dfbf5ed]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2013/1783/regulation/37) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-91c47f27bba5e59096addde32dfbf5ed]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2013/1783/regulation/37) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-99f967ae32052f6fda603fd236f60342]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2013/1783/schedule) applied (with modifications) (1.4.2018) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) Regulations 2018 (S.I. 2018/171)](https://www.legislation.gov.uk/uksi/2018/171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2), [19(1)](https://www.legislation.gov.uk/uksi/2018/171/regulation/19/1)
+[^c-99f967ae32052f6fda603fd236f60342]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2013/1783/schedule) applied (with modifications) (1.4.2018) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) Regulations 2018 (S.I. 2018/171)](https://www.legislation.gov.uk/uksi/2018/171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2), [19(1)](https://www.legislation.gov.uk/uksi/2018/171/regulation/19/1)
 
-[^key-49174432f3bdb243712e278f90ff2cc1]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/1) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-49174432f3bdb243712e278f90ff2cc1]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/1) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-72063095b042c76091b984893167b028]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/2) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-72063095b042c76091b984893167b028]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/2) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-91a8d591f2b1ab22166d59b3a10b4830]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/3) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-91a8d591f2b1ab22166d59b3a10b4830]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/3) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-a8d5c608d0b7bd09200f72373068d0a7]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/4) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-a8d5c608d0b7bd09200f72373068d0a7]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/4) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-7fbce527f4261ea04f7d561d540eb4a1]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/5) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-7fbce527f4261ea04f7d561d540eb4a1]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/5) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-b9d11949bcca8a450ec6c1d16b7a0766]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/6) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-b9d11949bcca8a450ec6c1d16b7a0766]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/6) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-022fe3579ce1d49d11e62b566e1c86a5]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/7) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-022fe3579ce1d49d11e62b566e1c86a5]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/7) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-2c378866d6cde68b29fa012857558a43]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/8) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-2c378866d6cde68b29fa012857558a43]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/8) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-39304db8d9c073d32626e2af83844ad1]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/9) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-39304db8d9c073d32626e2af83844ad1]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/9) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-d580fd746a86afc38fd628fae56007ea]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/10) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-d580fd746a86afc38fd628fae56007ea]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/10) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-c81325d28d730be005db31e68c72e420]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/11) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-c81325d28d730be005db31e68c72e420]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/11) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-cd66b1f24e985b3352a0a1a90d3c8ecf]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/12) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-cd66b1f24e985b3352a0a1a90d3c8ecf]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/12) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-0ceea17e95bfae6ece61faeb8413fec1]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/13) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-0ceea17e95bfae6ece61faeb8413fec1]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/13) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-9fe95132657a4a2ce6dd755695707847]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/14) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-9fe95132657a4a2ce6dd755695707847]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/14) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-76a2040f2571f59ceb0123d8d8ef70a8]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/15) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-76a2040f2571f59ceb0123d8d8ef70a8]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/15) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-da55484c3ac5748a73cfadfa438e6601]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/16) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-da55484c3ac5748a73cfadfa438e6601]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/16) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-941dc3e05cc5f962d414c67592852432]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/17) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-941dc3e05cc5f962d414c67592852432]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/17) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
 [^f00018]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-9864a620af0ea03e87e1b16df60f7ce6]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/18) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-9864a620af0ea03e87e1b16df60f7ce6]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/18) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-066d0988e67961c616777efaed0d28bd]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/19) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-066d0988e67961c616777efaed0d28bd]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/19) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-2c0f43921abdda0d97747d5577be1c5e]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/20) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-2c0f43921abdda0d97747d5577be1c5e]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/20) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
 
-[^key-3da6410dbcb88475401163842c6bff9a]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/21) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)
+[^c-3da6410dbcb88475401163842c6bff9a]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2013/1783/schedule/paragraph/21) in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1783/regulation/1/1)

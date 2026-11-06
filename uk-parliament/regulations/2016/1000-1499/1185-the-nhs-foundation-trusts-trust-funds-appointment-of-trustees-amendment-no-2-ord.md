@@ -31,7 +31,7 @@ summary: ''
 
 National Health Service, England
 
-The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Amendment (No. 2) Order 2016 (revoked)[^key-39174f7ecfb0718b0c3a9a55e3d29a30]
+The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Amendment (No. 2) Order 2016 (revoked)[^c-39174f7ecfb0718b0c3a9a55e3d29a30]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 1st January 2017
 
-[^key-39174f7ecfb0718b0c3a9a55e3d29a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39174f7ecfb0718b0c3a9a55e3d29a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-39174f7ecfb0718b0c3a9a55e3d29a30]
+## 1. Citation and commencement[^c-39174f7ecfb0718b0c3a9a55e3d29a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Order 2007[^key-39174f7ecfb0718b0c3a9a55e3d29a30]
+## 2. Amendment of the NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Order 2007[^c-39174f7ecfb0718b0c3a9a55e3d29a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-39174f7ecfb0718b0c3a9a55e3d29a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39174f7ecfb0718b0c3a9a55e3d29a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-39174f7ecfb0718b0c3a9a55e3d29a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39174f7ecfb0718b0c3a9a55e3d29a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-39174f7ecfb0718b0c3a9a55e3d29a30]: Textual amendment: Order revoked (1.10.2018) by [The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Revocation Order 2018 (S.I. 2018/1002)](https://www.legislation.gov.uk/uksi/2018/1002), [art. 1](https://www.legislation.gov.uk/uksi/2018/1002/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1002/schedule)
+[^c-39174f7ecfb0718b0c3a9a55e3d29a30]: Textual amendment: Order revoked (1.10.2018) by [The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Revocation Order 2018 (S.I. 2018/1002)](https://www.legislation.gov.uk/uksi/2018/1002), [art. 1](https://www.legislation.gov.uk/uksi/2018/1002/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1002/schedule)

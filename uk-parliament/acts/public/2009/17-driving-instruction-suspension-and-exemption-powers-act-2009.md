@@ -150,7 +150,7 @@ After section 124(2) of the Road Traffic Act 1988 (c. 52) (as substituted by Sch
 
 ### 4. Transitory amendments to existing regime
 
-(1)[^key-46b6d20535c3c5beb375a78c8c5d2a36][^key-e6a5f5c21a8584a9d790786ffb3768dc] Schedule 1 (which contains amendments to Part 5 of the Road Traffic Act 1988 as it has effect without the amendments and repeals made by the Road Safety Act 2006) has effect.
+(1)[^c-46b6d20535c3c5beb375a78c8c5d2a36][^c-e6a5f5c21a8584a9d790786ffb3768dc] Schedule 1 (which contains amendments to Part 5 of the Road Traffic Act 1988 as it has effect without the amendments and repeals made by the Road Safety Act 2006) has effect.
 
 (2) The enactments listed in Schedule 2 are repealed to the extent specified.
 
@@ -196,7 +196,7 @@ Section 4(1)
 
 ### Suspension of registration
 
-**1.**[^key-ad2143881966a8e173ddebd2299ee218] After subsection (7) of section 128 of the Road Traffic Act 1988 (c. 52) (as it has effect without the substitution of that section by Schedule 6 to the Road Safety Act 2006 (c. 49)) (removal of names from register) insert—
+**1.**[^c-ad2143881966a8e173ddebd2299ee218] After subsection (7) of section 128 of the Road Traffic Act 1988 (c. 52) (as it has effect without the substitution of that section by Schedule 6 to the Road Safety Act 2006 (c. 49)) (removal of names from register) insert—
 
 > (7A) The Registrar may suspend a person's registration if the Registrar—
 >
@@ -222,20 +222,20 @@ Section 4(1)
 >
 > (7G) For the purposes of this Part of this Act the fact that a person's registration is suspended does not prevent the person's name from being in the register.
 
-**2.**[^key-5e98458f1099a8b6e95d8910cc075f83] (1) Section 123 of the Road Traffic Act 1988 (c. 52) (as it has effect without the substitution of that section by Schedule 6 to the Act of 2006) (driving instruction for payment to be given only by registered or licensed persons) is amended as follows.
+**2.**[^c-5e98458f1099a8b6e95d8910cc075f83] (1) Section 123 of the Road Traffic Act 1988 (c. 52) (as it has effect without the substitution of that section by Schedule 6 to the Act of 2006) (driving instruction for payment to be given only by registered or licensed persons) is amended as follows.
 
 (2) In subsection (1)(a) (prohibition on giving paid instruction in the driving of a motor car when unregistered or unlicensed) after “register”)” insert “ and the registration is not suspended ”.
 
 (3) In subsection (5) (defence to offence of contravening the prohibition) after “time” insert “ , or (as the case may be) that the registration was at that time suspended ”.
 
-**3.**[^key-1bba6c767c61fdc42c88800f7aaca6d7] After subsection (8) of section 127 of the Road Traffic Act 1988 (extension of duration of registration) insert—
+**3.**[^c-1bba6c767c61fdc42c88800f7aaca6d7] After subsection (8) of section 127 of the Road Traffic Act 1988 (extension of duration of registration) insert—
 
 > (9) Sections 128(7A) to (7G) and 131A apply in relation to suspending a person's registration in connection with an application under subsection (1) above as if the references in sections 128(7A) to (7G) and 131A to—
 >
 > - (a) a notice under section 128(4) were references to a notice under subsection (5) above, and
 > - (b) the removal of the person's name from the register were (or, in the case of section 128(7E)(d), included) references to the refusal of the person's application for the retention of the person's name in the register.
 
-**4.**[^key-821b421fa66b8835698c424ee926b051] In subsection (1) of section 18 of the Road Traffic Offenders Act 1988 (c. 53) (as it has effect without the substitution of paragraphs (a) to (d) of that subsection by Schedule 6 to the Act of 2006) (evidence by certificate as to registration of driving instructors and licences to give instruction), after paragraph (b), insert—
+**4.**[^c-821b421fa66b8835698c424ee926b051] In subsection (1) of section 18 of the Road Traffic Offenders Act 1988 (c. 53) (as it has effect without the substitution of paragraphs (a) to (d) of that subsection by Schedule 6 to the Act of 2006) (evidence by certificate as to registration of driving instructors and licences to give instruction), after paragraph (b), insert—
 
 > - (ba) a person's registration was, or was not, suspended,
 
@@ -243,7 +243,7 @@ Section 4(1)
 
 ### Suspension of licences
 
-**5.**[^key-acf5dfc2f37e4c031dd2ca9de6d8e004] After subsection (6) of section 130 of the Road Traffic Act 1988 (as it has effect without the omission of that section by Schedule 6 to the Act of 2006) (revocation of licences) insert—
+**5.**[^c-acf5dfc2f37e4c031dd2ca9de6d8e004] After subsection (6) of section 130 of the Road Traffic Act 1988 (as it has effect without the omission of that section by Schedule 6 to the Act of 2006) (revocation of licences) insert—
 
 > (7) The Registrar may suspend a person's licence if the Registrar—
 >
@@ -269,7 +269,7 @@ Section 4(1)
 >
 > (13) For the purposes of this Part of this Act the fact that a person's licence is suspended does not prevent the person from being a licence-holder.
 
-**6.**[^key-dfa7f6eb41a8a31e2e049dbb276e47f5] After subsection (8) of section 129 of the Road Traffic Act 1988 (c. 52) (as it has effect without the omission of that section by Schedule 6 to the Act of 2006) (licences for giving instruction so as to obtain practical experience) insert—
+**6.**[^c-dfa7f6eb41a8a31e2e049dbb276e47f5] After subsection (8) of section 129 of the Road Traffic Act 1988 (c. 52) (as it has effect without the omission of that section by Schedule 6 to the Act of 2006) (licences for giving instruction so as to obtain practical experience) insert—
 
 > (9) Sections 130(7) to (13) and 131A apply in relation to suspending a person's licence in connection with an application for a new licence in substitution for a licence current at the date of the application as if—
 >
@@ -281,7 +281,7 @@ Section 4(1)
 
 ### Compensation in respect of suspension
 
-**7.**[^key-4bf56dc8e70b35561226020573a19e38][^key-200c8090acc2a0e5921a4126665c3a68] After section 131 of the Road Traffic Act 1988 (c. 52) (appeals) insert—
+**7.**[^c-4bf56dc8e70b35561226020573a19e38][^c-200c8090acc2a0e5921a4126665c3a68] After section 131 of the Road Traffic Act 1988 (c. 52) (appeals) insert—
 
 > **Compensation**
 >
@@ -348,22 +348,22 @@ Section 4(2)
 
 ## Annotations
 
-[^key-46b6d20535c3c5beb375a78c8c5d2a36]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2009/17/section/4/1) in force at 8.6.2012 for specified purposes by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/1356/article/3/a)
+[^c-46b6d20535c3c5beb375a78c8c5d2a36]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2009/17/section/4/1) in force at 8.6.2012 for specified purposes by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/1356/article/3/a)
 
-[^key-e6a5f5c21a8584a9d790786ffb3768dc]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2009/17/section/4/1) in force at 6.7.2012 in so far as not already in force by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/a)
+[^c-e6a5f5c21a8584a9d790786ffb3768dc]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2009/17/section/4/1) in force at 6.7.2012 in so far as not already in force by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/a)
 
-[^key-ad2143881966a8e173ddebd2299ee218]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/1) in force at 6.7.2012 by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
+[^c-ad2143881966a8e173ddebd2299ee218]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/1) in force at 6.7.2012 by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
 
-[^key-5e98458f1099a8b6e95d8910cc075f83]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/2) in force at 6.7.2012 by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
+[^c-5e98458f1099a8b6e95d8910cc075f83]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/2) in force at 6.7.2012 by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
 
-[^key-1bba6c767c61fdc42c88800f7aaca6d7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/3) in force at 6.7.2012 by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
+[^c-1bba6c767c61fdc42c88800f7aaca6d7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/3) in force at 6.7.2012 by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
 
-[^key-821b421fa66b8835698c424ee926b051]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/4) in force at 6.7.2012 by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
+[^c-821b421fa66b8835698c424ee926b051]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/4) in force at 6.7.2012 by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
 
-[^key-acf5dfc2f37e4c031dd2ca9de6d8e004]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/5) in force at 6.7.2012 by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
+[^c-acf5dfc2f37e4c031dd2ca9de6d8e004]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/5) in force at 6.7.2012 by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
 
-[^key-dfa7f6eb41a8a31e2e049dbb276e47f5]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/6) in force at 6.7.2012 by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
+[^c-dfa7f6eb41a8a31e2e049dbb276e47f5]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/6) in force at 6.7.2012 by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
 
-[^key-4bf56dc8e70b35561226020573a19e38]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/7) in force at 8.6.2012 for specified purposes by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/3/b)
+[^c-4bf56dc8e70b35561226020573a19e38]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/7) in force at 8.6.2012 for specified purposes by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/3/b)
 
-[^key-200c8090acc2a0e5921a4126665c3a68]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/7) in force at 6.7.2012 in so far as not already in force by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/a)
+[^c-200c8090acc2a0e5921a4126665c3a68]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/7) in force at 6.7.2012 in so far as not already in force by [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/a)

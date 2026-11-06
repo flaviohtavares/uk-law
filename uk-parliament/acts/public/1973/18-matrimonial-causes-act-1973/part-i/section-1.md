@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Divorce on breakdown of marriage.[^key-db999d56a33d8c06893db2ab16b91ad6]
+## 1. Divorce on breakdown of marriage.[^c-db999d56a33d8c06893db2ab16b91ad6]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ and a party may not give confirmation for the purposes of this subsection before
 
 ## Annotations
 
-[^key-db999d56a33d8c06893db2ab16b91ad6]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1973/18/section/1) substituted (25.6.2020 for specified purposes, 6.4.2022 in so far as not already in force) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/11/section/1), [8(3)(a)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/3/a) (with [s. 8(4)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/4)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-db999d56a33d8c06893db2ab16b91ad6]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1973/18/section/1) substituted (25.6.2020 for specified purposes, 6.4.2022 in so far as not already in force) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/11/section/1), [8(3)(a)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/3/a) (with [s. 8(4)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/4)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

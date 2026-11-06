@@ -22,7 +22,7 @@ summary: ''
 
 (1) For the purposes of enforcing these Regulations, Schedule 10 (enforcement and investigatory powers) applies.
 
-(2) Where the enforcing authority has reasonable grounds to suspect that the UK[^key-3e1fbeffc369c99d80416699bd03efbf] marking has been affixed to radio equipment which does not satisfy the essential requirements, it may serve a compliance notice on—
+(2) Where the enforcing authority has reasonable grounds to suspect that the UK[^c-3e1fbeffc369c99d80416699bd03efbf] marking has been affixed to radio equipment which does not satisfy the essential requirements, it may serve a compliance notice on—
 
 - (a) the manufacturer, if the manufacturer is established in the United Kingdom,
 - (b) the manufacturer's authorised representative in the United Kingdom, or
@@ -84,6 +84,6 @@ summary: ''
 
 [^M_E_d106fb82-f7e3-4bfa-a8ae-6aced0845892]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-3e1fbeffc369c99d80416699bd03efbf]: Textual amendment: Word in [reg. 57](https://www.legislation.gov.uk/uksi/2017/1206/regulation/57) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/37) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e1fbeffc369c99d80416699bd03efbf]: Textual amendment: Word in [reg. 57](https://www.legislation.gov.uk/uksi/2017/1206/regulation/57) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/37) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_eb0ae100-8241-473a-e901-489611220e20]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

@@ -33,18 +33,18 @@ Agricultural Training Board Act 1987 (repealed)
 
 \[15th May 1987\]
 
-[^key-d6581a067313a60ee72d0f526e4ce981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6581a067313a60ee72d0f526e4ce981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Training in connection with activities outside the agricultural industry.[^key-d6581a067313a60ee72d0f526e4ce981][^key-d6581a067313a60ee72d0f526e4ce981]
+## 1. Training in connection with activities outside the agricultural industry.[^c-d6581a067313a60ee72d0f526e4ce981][^c-d6581a067313a60ee72d0f526e4ce981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title, commencement and extent.[^key-d6581a067313a60ee72d0f526e4ce981][^key-d6581a067313a60ee72d0f526e4ce981]
+## 2. Short title, commencement and extent.[^c-d6581a067313a60ee72d0f526e4ce981][^c-d6581a067313a60ee72d0f526e4ce981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6581a067313a60ee72d0f526e4ce981]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1987/29) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
+[^c-d6581a067313a60ee72d0f526e4ce981]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1987/29) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2

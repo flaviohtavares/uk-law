@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Information to be provided by employers[^key-dce1ffa043255ea3f658d38b23ce44c1]
+## 180. Information to be provided by employers[^c-dce1ffa043255ea3f658d38b23ce44c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dce1ffa043255ea3f658d38b23ce44c1]: Commencement: [Reg. 180](https://www.legislation.gov.uk/uksi/2014/1964/regulation/180) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-dce1ffa043255ea3f658d38b23ce44c1]: Commencement: [Reg. 180](https://www.legislation.gov.uk/uksi/2014/1964/regulation/180) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

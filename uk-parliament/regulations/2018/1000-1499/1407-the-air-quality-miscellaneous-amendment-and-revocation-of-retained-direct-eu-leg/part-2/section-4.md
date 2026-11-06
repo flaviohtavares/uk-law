@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Decision 2011/850/EU laying down rules for Directives [2004/107/EC](https://www.legislation.gov.uk/eudr/2004/107) and [2008/50/EC](https://www.legislation.gov.uk/eudr/2008/50) of the European Parliament and of the Council as regards the reciprocal exchange of information and reporting on ambient air quality[^key-2900c8ffabf92e3aa05ee51f95db02c8]
+## 4. Decision 2011/850/EU laying down rules for Directives [2004/107/EC](https://www.legislation.gov.uk/eudr/2004/107) and [2008/50/EC](https://www.legislation.gov.uk/eudr/2008/50) of the European Parliament and of the Council as regards the reciprocal exchange of information and reporting on ambient air quality[^c-2900c8ffabf92e3aa05ee51f95db02c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -167,4 +167,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2900c8ffabf92e3aa05ee51f95db02c8]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2900c8ffabf92e3aa05ee51f95db02c8]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

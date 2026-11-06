@@ -32,7 +32,7 @@ summary: ''
 
 Taxes
 
-The International Tax Compliance (United States of America) Regulations 2013 (revoked)[^key-f795cca160bf071f962d871751646698]
+The International Tax Compliance (United States of America) Regulations 2013 (revoked)[^c-f795cca160bf071f962d871751646698]
 
 Made
 
@@ -46,118 +46,118 @@ Coming into force
 
 1st September 2013
 
-[^key-f795cca160bf071f962d871751646698]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f795cca160bf071f962d871751646698]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Introductory[^key-f795cca160bf071f962d871751646698]
+## Introductory[^c-f795cca160bf071f962d871751646698]
 
-### 1. Citation and commencement[^key-f795cca160bf071f962d871751646698]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Implementation of the treaty etc[^key-f795cca160bf071f962d871751646698]
+### 1. Citation and commencement[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Scope[^key-f795cca160bf071f962d871751646698]
-
-### 3. Scope: definition of “reporting financial institution”[^key-f795cca160bf071f962d871751646698]
+### 2. Implementation of the treaty etc[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Scope: definition of “reportable account”[^key-f795cca160bf071f962d871751646698]
+## Scope[^c-f795cca160bf071f962d871751646698]
+
+### 3. Scope: definition of “reporting financial institution”[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Scope: non-resident reporting financial institution’s UK representative[^key-f795cca160bf071f962d871751646698]
+### 4. Scope: definition of “reportable account”[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Obligations in relation to financial accounts[^key-f795cca160bf071f962d871751646698]
-
-### 6. Identification obligation[^key-f795cca160bf071f962d871751646698]
+### 5. Scope: non-resident reporting financial institution’s UK representative[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Modification of due diligence requirements[^key-f795cca160bf071f962d871751646698]
+## Obligations in relation to financial accounts[^c-f795cca160bf071f962d871751646698]
+
+### 6. Identification obligation[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Reporting obligation[^key-f795cca160bf071f962d871751646698]
+### 7. Modification of due diligence requirements[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Modifications for calendar years 2014 to 2016[^key-f795cca160bf071f962d871751646698]
+### 8. Reporting obligation[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Obligations in relation to payments to a non-participating financial institution[^key-f795cca160bf071f962d871751646698]
-
-### 10. Identification and disclosure obligations[^key-f795cca160bf071f962d871751646698]
+### 9. Modifications for calendar years 2014 to 2016[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Reporting obligation[^key-f795cca160bf071f962d871751646698]
+## Obligations in relation to payments to a non-participating financial institution[^c-f795cca160bf071f962d871751646698]
+
+### 10. Identification and disclosure obligations[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Penalties for breach of obligations[^key-f795cca160bf071f962d871751646698]
-
-### 12. Penalties for failure to comply otherwise than with regulation 11[^key-f795cca160bf071f962d871751646698]
+### 11. Reporting obligation[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Penalties for inaccurate information: reportable accounts[^key-f795cca160bf071f962d871751646698]
+## Penalties for breach of obligations[^c-f795cca160bf071f962d871751646698]
+
+### 12. Penalties for failure to comply otherwise than with regulation 11[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Penalties for failure to report or accurately report payments to non-participating financial institutions[^key-f795cca160bf071f962d871751646698]
+### 13. Penalties for inaccurate information: reportable accounts[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Matters to be disregarded in relation to liability to penalties[^key-f795cca160bf071f962d871751646698]
+### 14. Penalties for failure to report or accurately report payments to non-participating financial institutions[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Assessment of penalties[^key-f795cca160bf071f962d871751646698]
+### 15. Matters to be disregarded in relation to liability to penalties[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Right to appeal against penalty[^key-f795cca160bf071f962d871751646698]
+### 16. Assessment of penalties[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Procedure on appeal against penalty[^key-f795cca160bf071f962d871751646698]
+### 17. Right to appeal against penalty[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Enforcement of penalties[^key-f795cca160bf071f962d871751646698]
+### 18. Procedure on appeal against penalty[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Miscellaneous[^key-f795cca160bf071f962d871751646698]
-
-### 20. Accounts with a negative value[^key-f795cca160bf071f962d871751646698]
+### 19. Enforcement of penalties[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Anti-avoidance[^key-f795cca160bf071f962d871751646698]
+## Miscellaneous[^c-f795cca160bf071f962d871751646698]
+
+### 20. Accounts with a negative value[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Supplementary[^key-f795cca160bf071f962d871751646698]
-
-### 22. Definitions[^key-f795cca160bf071f962d871751646698]
+### 21. Anti-avoidance[^c-f795cca160bf071f962d871751646698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f795cca160bf071f962d871751646698]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Supplementary[^c-f795cca160bf071f962d871751646698]
+
+### 22. Definitions[^c-f795cca160bf071f962d871751646698]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f795cca160bf071f962d871751646698]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f795cca160bf071f962d871751646698]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f795cca160bf071f962d871751646698]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f795cca160bf071f962d871751646698]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1962) revoked (30.6.2014) by [The International Tax Compliance (United States of America) Regulations 2014 (S.I. 2014/1506)](https://www.legislation.gov.uk/uksi/2014/1506), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1506/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2014/1506/regulation/29)
+[^c-f795cca160bf071f962d871751646698]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1962) revoked (30.6.2014) by [The International Tax Compliance (United States of America) Regulations 2014 (S.I. 2014/1506)](https://www.legislation.gov.uk/uksi/2014/1506), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1506/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2014/1506/regulation/29)

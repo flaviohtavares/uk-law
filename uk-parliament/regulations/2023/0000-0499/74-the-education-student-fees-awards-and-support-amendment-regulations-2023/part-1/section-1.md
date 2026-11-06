@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-3689246bf8458575ae7507d8dee6eb5b]
+## 1. Citation and commencement[^c-3689246bf8458575ae7507d8dee6eb5b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Education (Student Fees, Awards and Suppor
 
 ## Annotations
 
-[^key-3689246bf8458575ae7507d8dee6eb5b]: Commencement: Reg. 1 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-3689246bf8458575ae7507d8dee6eb5b]: Commencement: Reg. 1 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

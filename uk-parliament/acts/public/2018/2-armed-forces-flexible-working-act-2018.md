@@ -36,7 +36,7 @@ An Act to make provision for members of the regular forces to serve part-time or
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Regular forces: part-time service and geographic restrictions[^key-f0af526aac8eb7b0cd139ce5ed6d2357]
+## 1. Regular forces: part-time service and geographic restrictions[^c-f0af526aac8eb7b0cd139ce5ed6d2357]
 
 (1) The Armed Forces Act 2006 is amended as follows.
 
@@ -65,7 +65,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 .
 
-## 2. Consequential amendments[^key-4197f0c48cf11e5403194070d832af93]
+## 2. Consequential amendments[^c-4197f0c48cf11e5403194070d832af93]
 
 *Extent: E+W+S*
 
@@ -111,6 +111,6 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-f0af526aac8eb7b0cd139ce5ed6d2357]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/2/section/1) in force at 30.6.2018 by [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
+[^c-f0af526aac8eb7b0cd139ce5ed6d2357]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/2/section/1) in force at 30.6.2018 by [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
 
-[^key-4197f0c48cf11e5403194070d832af93]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2018/2/section/2) in force at 30.6.2018 by [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
+[^c-4197f0c48cf11e5403194070d832af93]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2018/2/section/2) in force at 30.6.2018 by [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)

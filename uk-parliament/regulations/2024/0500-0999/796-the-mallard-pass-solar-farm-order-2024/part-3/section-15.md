@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Traffic regulation measures[^key-d91e287e4ff93fb47660290edd856893]
+## 15. Traffic regulation measures[^c-d91e287e4ff93fb47660290edd856893]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d91e287e4ff93fb47660290edd856893]: Commencement: Art. 15 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-d91e287e4ff93fb47660290edd856893]: Commencement: Art. 15 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
 [^f00040]: Footnote: [S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362).
 

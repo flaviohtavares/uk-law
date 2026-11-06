@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 133. Notice of intention to resign[^key-5a56c3c680e55db9bcd6e82d692c7c74]
+## 133. Notice of intention to resign[^c-5a56c3c680e55db9bcd6e82d692c7c74]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a56c3c680e55db9bcd6e82d692c7c74]: Commencement: Rule 133 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-5a56c3c680e55db9bcd6e82d692c7c74]: Commencement: Rule 133 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

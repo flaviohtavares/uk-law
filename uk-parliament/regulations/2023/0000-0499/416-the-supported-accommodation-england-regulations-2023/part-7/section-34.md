@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Notice of changes[^key-ed56c47f7b8dc7d5a00cf284b3517115]
+## 34. Notice of changes[^c-ed56c47f7b8dc7d5a00cf284b3517115]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed56c47f7b8dc7d5a00cf284b3517115]: Commencement: Reg. 34 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-ed56c47f7b8dc7d5a00cf284b3517115]: Commencement: Reg. 34 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

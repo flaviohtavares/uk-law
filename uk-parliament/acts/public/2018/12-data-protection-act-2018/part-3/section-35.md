@@ -43,11 +43,11 @@ summary: ''
 (6) The Secretary of State may by regulations amend Schedule 8—
 
 - (a) by adding conditions;
-- (b) by varying or[^key-cbafc2b11db1365fec90797f8b94de74] omitting conditions added by regulations under paragraph (a).
+- (b) by varying or[^c-cbafc2b11db1365fec90797f8b94de74] omitting conditions added by regulations under paragraph (a).
 
 (7) Regulations under subsection (6) are subject to the affirmative resolution procedure.
 
-(8) In this Part[^key-c23720bc5fe8d01d4cdc6ce3eb96a7a0], “**sensitive processing**” means—
+(8) In this Part[^c-c23720bc5fe8d01d4cdc6ce3eb96a7a0], “**sensitive processing**” means—
 
 - (a) the processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership;
 - (b) the processing of genetic data, or of biometric data, for the purpose of uniquely identifying an individual;
@@ -60,6 +60,6 @@ summary: ''
 
 [^M_I_d765c579-e863-4d87-e87a-47552f8f0930]: Commencement: S. 35 in force in so far as not already in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-cbafc2b11db1365fec90797f8b94de74]: Textual amendment: Words in [s. 35(6)(b)](https://www.legislation.gov.uk/ukpga/2018/12/section/35/6/b) inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 74(4)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/74/4/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/c)
+[^c-cbafc2b11db1365fec90797f8b94de74]: Textual amendment: Words in [s. 35(6)(b)](https://www.legislation.gov.uk/ukpga/2018/12/section/35/6/b) inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 74(4)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/74/4/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/c)
 
-[^key-c23720bc5fe8d01d4cdc6ce3eb96a7a0]: Textual amendment: Word in [s. 35(8)](https://www.legislation.gov.uk/ukpga/2018/12/section/35/8) substituted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 74(4)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/74/4/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/c)
+[^c-c23720bc5fe8d01d4cdc6ce3eb96a7a0]: Textual amendment: Word in [s. 35(8)](https://www.legislation.gov.uk/ukpga/2018/12/section/35/8) substituted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 74(4)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/74/4/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130I. Welsh qualifying compulsory patients[^key-0b4697db303b04349bb025e2520aff56]
+## 130I. Welsh qualifying compulsory patients[^c-0b4697db303b04349bb025e2520aff56]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b4697db303b04349bb025e2520aff56]: Textual amendment: S. 130I inserted (3.1.2012) by [Mental Health (Wales) Measure 2010 (nawm 7)](https://www.legislation.gov.uk/mwa/2010/7), [ss. 35](https://www.legislation.gov.uk/mwa/2010/7/section/35), [55(3)](https://www.legislation.gov.uk/mwa/2010/7/section/55/3); [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(d)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/d) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-0b4697db303b04349bb025e2520aff56]: Textual amendment: S. 130I inserted (3.1.2012) by [Mental Health (Wales) Measure 2010 (nawm 7)](https://www.legislation.gov.uk/mwa/2010/7), [ss. 35](https://www.legislation.gov.uk/mwa/2010/7/section/35), [55(3)](https://www.legislation.gov.uk/mwa/2010/7/section/55/3); [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(d)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/d) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))

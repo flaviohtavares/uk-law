@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Community planning partners[^key-f13ae573712c77b5ae32595c3188268f]
+## 67. Community planning partners[^c-f13ae573712c77b5ae32595c3188268f]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f13ae573712c77b5ae32595c3188268f]: Commencement: [S. 67](https://www.legislation.gov.uk/nia/2014/8/section/67) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-f13ae573712c77b5ae32595c3188268f]: Commencement: [S. 67](https://www.legislation.gov.uk/nia/2014/8/section/67) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

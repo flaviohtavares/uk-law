@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 193. Emergency closure orders[^key-e2b293d70a376a8c992adeef1683add6]
+## 193. Emergency closure orders[^c-e2b293d70a376a8c992adeef1683add6]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2b293d70a376a8c992adeef1683add6]: Commencement: [S. 193](https://www.legislation.gov.uk/asp/2010/13/section/193) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-e2b293d70a376a8c992adeef1683add6]: Commencement: [S. 193](https://www.legislation.gov.uk/asp/2010/13/section/193) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

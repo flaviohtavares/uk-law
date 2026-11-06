@@ -32,7 +32,7 @@ summary: ''
 
 Food, England
 
-The Contaminants in Food (England) Regulations 2010 (revoked)[^key-fb87ed81b51bb6eeed348d55f55d3f8f]
+The Contaminants in Food (England) Regulations 2010 (revoked)[^c-fb87ed81b51bb6eeed348d55f55d3f8f]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 20th October 2010
 
-[^key-fb87ed81b51bb6eeed348d55f55d3f8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb87ed81b51bb6eeed348d55f55d3f8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-fb87ed81b51bb6eeed348d55f55d3f8f]
+## 1. Title, application and commencement[^c-fb87ed81b51bb6eeed348d55f55d3f8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-fb87ed81b51bb6eeed348d55f55d3f8f]
+## 2. Interpretation[^c-fb87ed81b51bb6eeed348d55f55d3f8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences and penalties[^key-fb87ed81b51bb6eeed348d55f55d3f8f]
+## 3. Offences and penalties[^c-fb87ed81b51bb6eeed348d55f55d3f8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement and competent authorities[^key-fb87ed81b51bb6eeed348d55f55d3f8f]
+## 4. Enforcement and competent authorities[^c-fb87ed81b51bb6eeed348d55f55d3f8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various sections of the Food Safety Act 1990[^key-fb87ed81b51bb6eeed348d55f55d3f8f]
+## 5. Application of various sections of the Food Safety Act 1990[^c-fb87ed81b51bb6eeed348d55f55d3f8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Consequential amendment[^key-fb87ed81b51bb6eeed348d55f55d3f8f]
+## 6. Consequential amendment[^c-fb87ed81b51bb6eeed348d55f55d3f8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-fb87ed81b51bb6eeed348d55f55d3f8f]
+## 7. Revocations[^c-fb87ed81b51bb6eeed348d55f55d3f8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fb87ed81b51bb6eeed348d55f55d3f8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb87ed81b51bb6eeed348d55f55d3f8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fb87ed81b51bb6eeed348d55f55d3f8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb87ed81b51bb6eeed348d55f55d3f8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb87ed81b51bb6eeed348d55f55d3f8f]: Textual amendment: Regulations revoked (31.10.2013) by The Contaminants in [Food (England) Regulations 2013 (S.I. 2013/2196)](https://www.legislation.gov.uk/uksi/2013/2196), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2196/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/2013/2196/regulation/10/d)
+[^c-fb87ed81b51bb6eeed348d55f55d3f8f]: Textual amendment: Regulations revoked (31.10.2013) by The Contaminants in [Food (England) Regulations 2013 (S.I. 2013/2196)](https://www.legislation.gov.uk/uksi/2013/2196), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2196/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/2013/2196/regulation/10/d)

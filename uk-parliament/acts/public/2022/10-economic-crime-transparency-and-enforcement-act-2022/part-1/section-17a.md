@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. Exceptions to duty to provide change of beneficiary information[^key-a57966a3356b73312ab400ca95834a17]
+## 17A. Exceptions to duty to provide change of beneficiary information[^c-a57966a3356b73312ab400ca95834a17]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a57966a3356b73312ab400ca95834a17]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/ukpga/2022/10/section/17A) inserted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2023/56/schedule/6/paragraph/6)
+[^c-a57966a3356b73312ab400ca95834a17]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/ukpga/2022/10/section/17A) inserted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2023/56/schedule/6/paragraph/6)

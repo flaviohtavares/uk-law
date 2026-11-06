@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Modification of Northern Ireland insolvency law[^key-31fe19035ed9ff38d1e2c7b317879208]
+## 4. Modification of Northern Ireland insolvency law[^c-31fe19035ed9ff38d1e2c7b317879208]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31fe19035ed9ff38d1e2c7b317879208]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/115/regulation/4) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-31fe19035ed9ff38d1e2c7b317879208]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/115/regulation/4) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1989/2405 (N.I.19)](https://www.legislation.gov.uk/nisi/1989/2405)

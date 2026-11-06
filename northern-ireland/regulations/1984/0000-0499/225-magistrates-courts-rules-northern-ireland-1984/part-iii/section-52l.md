@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52L. Record of proceedings by telephone link before a nominated court[^key-e93677dc69c50dc6aed2fdd7b540a2c2]
+## 52L. Record of proceedings by telephone link before a nominated court[^c-e93677dc69c50dc6aed2fdd7b540a2c2]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e93677dc69c50dc6aed2fdd7b540a2c2]: Textual amendment: [Rule 52L](https://www.legislation.gov.uk/nisr/1984/225/rule/52L) inserted (29.3.2021) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/51)](https://www.legislation.gov.uk/nisr/2021/51), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/51/article/1/2), [2(2)](https://www.legislation.gov.uk/nisr/2021/51/article/2/2)
+[^c-e93677dc69c50dc6aed2fdd7b540a2c2]: Textual amendment: [Rule 52L](https://www.legislation.gov.uk/nisr/1984/225/rule/52L) inserted (29.3.2021) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/51)](https://www.legislation.gov.uk/nisr/2021/51), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/51/article/1/2), [2(2)](https://www.legislation.gov.uk/nisr/2021/51/article/2/2)

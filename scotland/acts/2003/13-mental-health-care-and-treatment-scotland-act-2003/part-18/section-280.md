@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 280. Restriction of Scottish Ministers' power to delegate management of state hospitals[^key-c3d2fb0d676a5f8ac0e1a748d4d71c2b]
+## 280. Restriction of Scottish Ministers' power to delegate management of state hospitals[^c-c3d2fb0d676a5f8ac0e1a748d4d71c2b]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ shall cease to have effect.
 
 ## Annotations
 
-[^key-c3d2fb0d676a5f8ac0e1a748d4d71c2b]: Commencement: S. 280 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-c3d2fb0d676a5f8ac0e1a748d4d71c2b]: Commencement: S. 280 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

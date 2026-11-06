@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6A. Reimbursement of cost of services provided in another EEA state[^key-347b58dd5b1695a16770c7e17995fbaf]
+## 6A. Reimbursement of cost of services provided in another EEA state[^c-347b58dd5b1695a16770c7e17995fbaf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-347b58dd5b1695a16770c7e17995fbaf]: Textual amendment: S. 6A omitted (31.12.2020) by virtue of [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777)](https://www.legislation.gov.uk/uksi/2019/777), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/777/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/777/regulation/4/3/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2019/777/regulation/15), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/777/schedule/1)) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 10-12](https://www.legislation.gov.uk/uksi/2020/1348/regulation/10));. [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-347b58dd5b1695a16770c7e17995fbaf]: Textual amendment: S. 6A omitted (31.12.2020) by virtue of [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777)](https://www.legislation.gov.uk/uksi/2019/777), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/777/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/777/regulation/4/3/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2019/777/regulation/15), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/777/schedule/1)) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 10-12](https://www.legislation.gov.uk/uksi/2020/1348/regulation/10));. [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

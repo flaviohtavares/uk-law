@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Issue and form of certificates of registration[^key-752358d1aa220565e9aafe83babf6004]
+## 13. Issue and form of certificates of registration[^c-752358d1aa220565e9aafe83babf6004]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Council may make provision as to the issuing of certificates of registration
 
 ## Annotations
 
-[^key-752358d1aa220565e9aafe83babf6004]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2015/140/regulation/13) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-752358d1aa220565e9aafe83babf6004]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2015/140/regulation/13) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

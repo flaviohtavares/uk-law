@@ -33,7 +33,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 2) Regulations 2001 (revoked)[^key-958a930168c18ee9dd6cbcf7e05e848c]
+The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 2) Regulations 2001 (revoked)[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 Made
 
@@ -47,140 +47,140 @@ Coming into force
 
 18th May 2001
 
-[^key-958a930168c18ee9dd6cbcf7e05e848c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-958a930168c18ee9dd6cbcf7e05e848c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and cessation[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 1. Citation, commencement, extent and cessation[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 2. Interpretation[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2A. Approvals[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 2A. Approvals[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Import and export of live animals[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 3. Import and export of live animals[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Export of fresh meat[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 4. Export of fresh meat[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Export of meat products[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 5. Export of meat products[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Export of milk[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 6. Export of milk[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Export of milk products[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 7. Export of milk products[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Export of semen, etc.[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 8. Export of semen, etc.[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Export of hides and skins[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 9. Export of hides and skins[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Export of animal products[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 10. Export of animal products[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Exemptions[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 11. Exemptions[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Endorsement of commercial documents[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 12. Endorsement of commercial documents[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Third country certificates[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 13. Third country certificates[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Export of Horses[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 14. Export of Horses[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14A. Offers to dispatch or export goods[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 14A. Offers to dispatch or export goods[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Powers of inspectors[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 15. Powers of inspectors[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Power of detention[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 16. Power of detention[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Illegal consignments[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 17. Illegal consignments[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Obstruction[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 18. Obstruction[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Penalties[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 19. Penalties[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Offences by bodies corporate[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 20. Offences by bodies corporate[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Effect of certificates, etc. issued in England and Wales[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 21. Effect of certificates, etc. issued in England and Wales[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Enforcement[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 22. Enforcement[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Revocations[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## 23. Revocations[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-958a930168c18ee9dd6cbcf7e05e848c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-958a930168c18ee9dd6cbcf7e05e848c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REVOCATIONS[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## SCHEDULE — REVOCATIONS[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 Regulation 23
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — PERMITTED AREAS[^key-958a930168c18ee9dd6cbcf7e05e848c]
+## SCHEDULE 2 — PERMITTED AREAS[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 Regulation 4(2)
 
-### Areas in Scotland[^key-958a930168c18ee9dd6cbcf7e05e848c]
+### Areas in Scotland[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Areas in England[^key-958a930168c18ee9dd6cbcf7e05e848c]
+### Areas in England[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Areas in Wales[^key-958a930168c18ee9dd6cbcf7e05e848c]
+### Areas in Wales[^c-958a930168c18ee9dd6cbcf7e05e848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-958a930168c18ee9dd6cbcf7e05e848c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-958a930168c18ee9dd6cbcf7e05e848c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-958a930168c18ee9dd6cbcf7e05e848c]: Textual amendment: Regulations revoked (20.11.2001 at 1.30 p.m.) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Regulations 2001 (S.S.I. 2001/429)](https://www.legislation.gov.uk/ssi/2001/429), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2001/429/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2001/429/schedule/3)
+[^c-958a930168c18ee9dd6cbcf7e05e848c]: Textual amendment: Regulations revoked (20.11.2001 at 1.30 p.m.) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Regulations 2001 (S.S.I. 2001/429)](https://www.legislation.gov.uk/ssi/2001/429), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2001/429/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2001/429/schedule/3)

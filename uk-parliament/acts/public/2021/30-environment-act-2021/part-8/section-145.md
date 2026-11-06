@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Financial provisions[^key-bc0eaf496fe4e8745d8668f7cbbf38df]
+## 145. Financial provisions[^c-bc0eaf496fe4e8745d8668f7cbbf38df]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ There is to be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-bc0eaf496fe4e8745d8668f7cbbf38df]: Commencement: S. 145 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
+[^c-bc0eaf496fe4e8745d8668f7cbbf38df]: Commencement: S. 145 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)

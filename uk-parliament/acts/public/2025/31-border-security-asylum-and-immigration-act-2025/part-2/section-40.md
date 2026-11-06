@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Repeal of the Safety of Rwanda (Asylum and Immigration) Act 2024[^key-5f58a3b318cdcd51ec933b3a3657bfa0]
+## 40. Repeal of the Safety of Rwanda (Asylum and Immigration) Act 2024[^c-5f58a3b318cdcd51ec933b3a3657bfa0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Safety of Rwanda (Asylum and Immigration) Act 2024 is repealed.
 
 ## Annotations
 
-[^key-5f58a3b318cdcd51ec933b3a3657bfa0]: Commencement: S. 40 in force at Royal Assent, see [s. 65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)
+[^c-5f58a3b318cdcd51ec933b3a3657bfa0]: Commencement: S. 40 in force at Royal Assent, see [s. 65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)

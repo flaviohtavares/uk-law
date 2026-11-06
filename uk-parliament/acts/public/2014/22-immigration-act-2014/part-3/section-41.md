@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Regulation by Financial Conduct Authority[^key-b9805ef38f57be22f669721ff51b8905]
+## 41. Regulation by Financial Conduct Authority[^c-b9805ef38f57be22f669721ff51b8905]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Treasury may make regulations to enable the Financial Conduct Authority to make arrangements for monitoring and enforcing compliance with the prohibition imposed on banks and building societies by section 40 and the requirements imposed on them by sections 40A, 40B and 40G[^key-2626f032fa85646240f6dfc5b34afe79] .
+(1) The Treasury may make regulations to enable the Financial Conduct Authority to make arrangements for monitoring and enforcing compliance with the prohibition imposed on banks and building societies by section 40 and the requirements imposed on them by sections 40A, 40B and 40G[^c-2626f032fa85646240f6dfc5b34afe79] .
 
 (2) The regulations may (in particular)—
 
-- (a) provide for the Financial Conduct Authority to be given free access to the information to which banks and building societies are given access when carrying out status checks under section 40 or immigration checks under section 40A[^key-ef9e992a2cc6dc51fb97386182ad0bd8] ;
+- (a) provide for the Financial Conduct Authority to be given free access to the information to which banks and building societies are given access when carrying out status checks under section 40 or immigration checks under section 40A[^c-ef9e992a2cc6dc51fb97386182ad0bd8] ;
 - (b) apply, or make provision corresponding to, any of the provisions of the Financial Services and Markets Act 2000, including in particular those mentioned in subsection (3), with or without modification.
 
 (3) The provisions are—
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b9805ef38f57be22f669721ff51b8905]: Commencement: S. 41 in force at 14.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/a)
+[^c-b9805ef38f57be22f669721ff51b8905]: Commencement: S. 41 in force at 14.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/a)
 
-[^key-2626f032fa85646240f6dfc5b34afe79]: Textual amendment: Words in [s. 41(1)](https://www.legislation.gov.uk/ukpga/2014/22/section/41/1) inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/3/2); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d); [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
+[^c-2626f032fa85646240f6dfc5b34afe79]: Textual amendment: Words in [s. 41(1)](https://www.legislation.gov.uk/ukpga/2014/22/section/41/1) inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/3/2); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d); [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
 
-[^key-ef9e992a2cc6dc51fb97386182ad0bd8]: Textual amendment: Words in [s. 41(2)(a)](https://www.legislation.gov.uk/ukpga/2014/22/section/41/2/a) inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 7 para. 3(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/3/3); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d); [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
+[^c-ef9e992a2cc6dc51fb97386182ad0bd8]: Textual amendment: Words in [s. 41(2)(a)](https://www.legislation.gov.uk/ukpga/2014/22/section/41/2/a) inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 7 para. 3(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/3/3); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d); [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)

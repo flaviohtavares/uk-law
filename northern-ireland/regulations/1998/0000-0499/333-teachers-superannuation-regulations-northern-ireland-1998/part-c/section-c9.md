@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## C9. Right to repayment of balance of contributions[^key-5414191dafe9c3ec1a3f9ecdcc407e49]
+## C9. Right to repayment of balance of contributions[^c-5414191dafe9c3ec1a3f9ecdcc407e49]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5414191dafe9c3ec1a3f9ecdcc407e49]: Commencement: Reg. C9 in operation at 2.11.1998, see reg. A1
+[^c-5414191dafe9c3ec1a3f9ecdcc407e49]: Commencement: Reg. C9 in operation at 2.11.1998, see reg. A1

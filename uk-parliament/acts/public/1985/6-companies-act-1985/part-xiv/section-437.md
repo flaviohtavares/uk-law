@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 437. Inspectors’ reports.[^c17409071][^c17409081][^key-5f9c023be3a66777f21e9b2e00653233]
+## 437. Inspectors’ reports.[^c17409071][^c17409081][^c-5f9c023be3a66777f21e9b2e00653233]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 [^c17409081]: Modification: S. 437 applied (with modifications) (6.4.2001) by [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), [reg. 4](https://www.legislation.gov.uk/uksi/2001/1090/regulation/4), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/1090/schedule/2/part/I)
 
-[^key-5f9c023be3a66777f21e9b2e00653233]: Modification: S. 437 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
+[^c-5f9c023be3a66777f21e9b2e00653233]: Modification: S. 437 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
 
 [^c19468861]: Textual amendment: Words in s. 437(1) repealed (1.10.2007) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1035(4)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1035/4/a), [1295](https://www.legislation.gov.uk/ukpga/2006/46/section/1295), [1300](https://www.legislation.gov.uk/ukpga/2006/46/section/1300), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [arts. 2(1)(k)](https://www.legislation.gov.uk/uksi/2007/2194/article/2/1/k), [8](https://www.legislation.gov.uk/uksi/2007/2194/article/8), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12), [Sch. 3 para. 48](https://www.legislation.gov.uk/uksi/2007/2194/schedule/3/paragraph/48))
 

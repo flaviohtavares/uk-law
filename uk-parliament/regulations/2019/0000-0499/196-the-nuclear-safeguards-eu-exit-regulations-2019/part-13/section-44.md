@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. The Secretary of State may issue written advice[^key-5acedc9fcbc112a0a6cda026ddb98602]
+## 44. The Secretary of State may issue written advice[^c-5acedc9fcbc112a0a6cda026ddb98602]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ If a specified international agreement applies, or may apply in future, to an it
 
 ## Annotations
 
-[^key-5acedc9fcbc112a0a6cda026ddb98602]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-5acedc9fcbc112a0a6cda026ddb98602]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

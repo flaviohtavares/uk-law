@@ -46,7 +46,7 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by section 251 of the Finance Act 2004[^f00001] and now exercisable by them[^f00002], and section 282(A1) of that Act[^f00003].
 
-## 1. Citation, commencement and effect[^key-3f8e2a524ef283f871dcc47e1d73566f]
+## 1. Citation, commencement and effect[^c-3f8e2a524ef283f871dcc47e1d73566f]
 
 (1) These Regulations may be cited as the Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2013 and come into force on 12th August 2013.
 
@@ -56,21 +56,21 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 (4) The amendment in regulation 4(4) has effect in relation to pension savings statements for pension input periods ending in tax year 2013-14 and subsequent years[^f00004].
 
-## 2. Amendment of the Registered Pension Schemes (Provision of Information) Regulations 2006[^key-098dca08ad0645e27375fa00776cccab]
+## 2. Amendment of the Registered Pension Schemes (Provision of Information) Regulations 2006[^c-098dca08ad0645e27375fa00776cccab]
 
 The Registered Pension Schemes (Provision of Information) Regulations 2006[^f00005] are amended as follows.
 
-**3.**[^key-b6c9bdc0772499ef8f175a836f1a59bc] In regulation 2(1) (interpretation) after the definition of “fixed protection”[^f00006] insert—
+**3.**[^c-b6c9bdc0772499ef8f175a836f1a59bc] In regulation 2(1) (interpretation) after the definition of “fixed protection”[^f00006] insert—
 
 > - “fixed protection 2014” means transitional protection provided for under Part 1 of Schedule 22 to the Finance Act 2013[^f00007].
 
 .
 
-**4.**[^key-c6fc9da3353ce7fb1822f1a83c534286] (1) The table appended to regulation 3(1) (provision of information by scheme administrator to the Commissioners) is amended as follows.
+**4.**[^c-c6fc9da3353ce7fb1822f1a83c534286] (1) The table appended to regulation 3(1) (provision of information by scheme administrator to the Commissioners) is amended as follows.
 
 (2) In entry 6 (benefit crystallisation events and enhanced lifetime allowance, enhanced protection or fixed protection)[^f00008]—
 
-- (a)[^key-09c9a0f0a98e85ed49231ba96f2da82f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-09c9a0f0a98e85ed49231ba96f2da82f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the first column omit “or” at the end of paragraph (b)(ii) and insert at the end of paragraph (b)(iii)—
 
   > , or
@@ -100,7 +100,7 @@ The Registered Pension Schemes (Provision of Information) Regulations 2006[^f000
 
 .
 
-**5.**[^key-f8bab749a6a3168d82c83e2e27295faa] Regulation 11 (information provided by member to scheme administrator: enhanced lifetime allowance, enhanced protection or fixed protection)[^f00012] is amended as follows—
+**5.**[^c-f8bab749a6a3168d82c83e2e27295faa] Regulation 11 (information provided by member to scheme administrator: enhanced lifetime allowance, enhanced protection or fixed protection)[^f00012] is amended as follows—
 
 - (a) in the heading, for “or fixed protection” substitute “, fixed protection or fixed protection 2014”,
 - (b) omit “or” at the end of paragraph (a) and insert at the end of paragraph (b)—
@@ -112,7 +112,7 @@ The Registered Pension Schemes (Provision of Information) Regulations 2006[^f000
   , and
 - (c) after “Regulations 2011” insert “or the Registered Pension Schemes and Relieved Non-UK Pension Schemes (Lifetime Allowance Transitional Protection) (Notification) Regulations 2013”.
 
-**6.**[^key-d079b30cb22a2a4e3f856be0e12407f5] In regulation 11BA (information provided by members to scheme administrators: recognised transfers)[^f00013] after paragraph 2(a)(iii) insert—
+**6.**[^c-d079b30cb22a2a4e3f856be0e12407f5] In regulation 11BA (information provided by members to scheme administrators: recognised transfers)[^f00013] after paragraph 2(a)(iii) insert—
 
 > - (iiia) if the member is no longer resident in the United Kingdom, the date that the residence ceased;
 
@@ -168,25 +168,25 @@ A Tax Information and Impact Note covering regulations 4(3) and 6 was published 
 
 [^f00003]: Footnote: Section 282(A1) was inserted by section 75(1) of the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10).
 
-[^key-3f8e2a524ef283f871dcc47e1d73566f]: Commencement: Reg. 1 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1)
+[^c-3f8e2a524ef283f871dcc47e1d73566f]: Commencement: Reg. 1 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1)
 
 [^f00004]: Footnote: Pension input period is defined in section 238 of the Finance Act 2004. Section 238 was amended by paragraph 16 of Schedule 17 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
-[^key-098dca08ad0645e27375fa00776cccab]: Commencement: Reg. 2 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1)
+[^c-098dca08ad0645e27375fa00776cccab]: Commencement: Reg. 2 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567), amended by [S.I. 2011/301](https://www.legislation.gov.uk/uksi/2011/301), [2011/1797](https://www.legislation.gov.uk/uksi/2011/1797), [2012/884](https://www.legislation.gov.uk/uksi/2012/884); there are other amending instruments but none is relevant.
 
-[^key-b6c9bdc0772499ef8f175a836f1a59bc]: Commencement: Reg. 3 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1)
+[^c-b6c9bdc0772499ef8f175a836f1a59bc]: Commencement: Reg. 3 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1)
 
 [^f00006]: Footnote: The definition of “fixed protection” was inserted by [S.I. 2011/1797](https://www.legislation.gov.uk/uksi/2011/1797).
 
 [^f00007]: Footnote: [2013 c. 29](https://www.legislation.gov.uk/ukpga/2013/29).
 
-[^key-c6fc9da3353ce7fb1822f1a83c534286]: Commencement: Reg. 4 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1)
+[^c-c6fc9da3353ce7fb1822f1a83c534286]: Commencement: Reg. 4 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1)
 
 [^f00008]: Footnote: Entry 6 has been amended by [S.I. 2011/301](https://www.legislation.gov.uk/uksi/2011/301), [2011/1797](https://www.legislation.gov.uk/uksi/2011/1797).
 
-[^key-09c9a0f0a98e85ed49231ba96f2da82f]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/4/2/a) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/27)
+[^c-09c9a0f0a98e85ed49231ba96f2da82f]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/4/2/a) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/27)
 
 [^f00009]: Footnote: [S.I. 2013/1741](https://www.legislation.gov.uk/uksi/2013/1741).
 
@@ -194,10 +194,10 @@ A Tax Information and Impact Note covering regulations 4(3) and 6 was published 
 
 [^f00011]: Footnote: Entry 21 was inserted by [S.I. 2011/1797](https://www.legislation.gov.uk/uksi/2011/1797).
 
-[^key-f8bab749a6a3168d82c83e2e27295faa]: Commencement: Reg. 5 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1)
+[^c-f8bab749a6a3168d82c83e2e27295faa]: Commencement: Reg. 5 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1)
 
 [^f00012]: Footnote: Regulation 11 was substituted by [S.I. 2011/1797](https://www.legislation.gov.uk/uksi/2011/1797).
 
-[^key-d079b30cb22a2a4e3f856be0e12407f5]: Commencement: Reg. 6 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1)
+[^c-d079b30cb22a2a4e3f856be0e12407f5]: Commencement: Reg. 6 in force at 12.8.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1)
 
 [^f00013]: Footnote: Regulation 11BA was inserted by [S.I. 2012/884](https://www.legislation.gov.uk/uksi/2012/884).

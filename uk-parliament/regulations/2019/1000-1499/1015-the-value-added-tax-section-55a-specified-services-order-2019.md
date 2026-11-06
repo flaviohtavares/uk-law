@@ -46,13 +46,13 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by section 55A(9) and (14) of the Value Added Tax Act 1994 [^c23778411].
 
-## 1. Citation, commencement and effect[^key-5372ab431f93f43684209a413776b264]
+## 1. Citation, commencement and effect[^c-5372ab431f93f43684209a413776b264]
 
 (1) This Order may be cited as the Value Added Tax (Section 55A) (Specified Services) Order 2019.
 
 (2) This Order comes into force on 14th June 2019 and has effect in relation to supplies of specified services made on or after that date.
 
-## 2. Interpretation[^key-898c80dcba53969498fff0ceae44d233]
+## 2. Interpretation[^c-898c80dcba53969498fff0ceae44d233]
 
 In this Order—
 
@@ -60,11 +60,11 @@ In this Order—
 - “a gas or an electricity certificate” is an electronic document which contains information on the source of the energy and its method of production;
 - “**specified services**” means the services specified in article 4.
 
-## 3. Application of section 55A of the Act[^key-ec1f2c9e7a9d28352a5e6b38e96be221]
+## 3. Application of section 55A of the Act[^c-ec1f2c9e7a9d28352a5e6b38e96be221]
 
-Section 55A of the Value Added Tax Act 1994 (customers to account for tax on supplies of goods or services of a kind used in missing trader [^key-b2e0c20fa3aa4edf125042bb56d9d76f]... fraud) applies to services of a description specified in article 4.
+Section 55A of the Value Added Tax Act 1994 (customers to account for tax on supplies of goods or services of a kind used in missing trader [^c-b2e0c20fa3aa4edf125042bb56d9d76f]... fraud) applies to services of a description specified in article 4.
 
-## 4. Specified services[^key-9dcd0180662e59bae1cbf6d7af6e5ed3]
+## 4. Specified services[^c-9dcd0180662e59bae1cbf6d7af6e5ed3]
 
 The services referred to in article 3 are gas and electricity certificates.
 
@@ -92,12 +92,12 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c23778411]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23); [section 55A](https://www.legislation.gov.uk/uksi/2019/1015/section/55A) was inserted by section 19(1) of the [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and was amended by section 50(1) of the [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [section 203](https://www.legislation.gov.uk/ukpga/2010/13/section/203) of, and paragraphs 2 and 6 of Schedule 28 to, the [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14) and section 51 of the [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1).
 
-[^key-5372ab431f93f43684209a413776b264]: Commencement: Art. 1 in force at 14.6.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/1015/article/1/2)
+[^c-5372ab431f93f43684209a413776b264]: Commencement: Art. 1 in force at 14.6.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/1015/article/1/2)
 
-[^key-898c80dcba53969498fff0ceae44d233]: Commencement: Art. 2 in force at 14.6.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/1015/article/1/2)
+[^c-898c80dcba53969498fff0ceae44d233]: Commencement: Art. 2 in force at 14.6.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/1015/article/1/2)
 
-[^key-ec1f2c9e7a9d28352a5e6b38e96be221]: Commencement: Art. 3 in force at 14.6.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/1015/article/1/2)
+[^c-ec1f2c9e7a9d28352a5e6b38e96be221]: Commencement: Art. 3 in force at 14.6.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/1015/article/1/2)
 
-[^key-b2e0c20fa3aa4edf125042bb56d9d76f]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2019/1015/article/3) omitted (31.12.2020) by virtue of [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1346)](https://www.legislation.gov.uk/uksi/2019/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/11/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b2e0c20fa3aa4edf125042bb56d9d76f]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2019/1015/article/3) omitted (31.12.2020) by virtue of [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1346)](https://www.legislation.gov.uk/uksi/2019/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/11/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-9dcd0180662e59bae1cbf6d7af6e5ed3]: Commencement: Art. 4 in force at 14.6.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/1015/article/1/2)
+[^c-9dcd0180662e59bae1cbf6d7af6e5ed3]: Commencement: Art. 4 in force at 14.6.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/1015/article/1/2)

@@ -46,7 +46,7 @@ In accordance with paragraph 2(2) of Schedule 2 to that Act [^c19257211], a draf
 
 ## Contents
 
-### PART 1 — GENERAL[^key-5bd671bee5a2362a1f43e02fa5790a27]
+### PART 1 — GENERAL[^c-5bd671bee5a2362a1f43e02fa5790a27]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,7 +55,7 @@ In accordance with paragraph 2(2) of Schedule 2 to that Act [^c19257211], a draf
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — PROHIBITIONS[^key-5bd671bee5a2362a1f43e02fa5790a27]
+### PART 2 — PROHIBITIONS[^c-5bd671bee5a2362a1f43e02fa5790a27]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,7 +67,7 @@ In accordance with paragraph 2(2) of Schedule 2 to that Act [^c19257211], a draf
 - [Section 6 — Misleading omissions](part-2/section-6.md)
 - [Section 7 — Aggressive commercial practices](part-2/section-7.md)
 
-### PART 3 — OFFENCES[^key-5bd671bee5a2362a1f43e02fa5790a27]
+### PART 3 — OFFENCES[^c-5bd671bee5a2362a1f43e02fa5790a27]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,7 +81,7 @@ In accordance with paragraph 2(2) of Schedule 2 to that Act [^c19257211], a draf
 - [Section 17 — Due diligence defence](part-3/section-17.md)
 - [Section 18 — Innocent publication of advertisement defence](part-3/section-18.md)
 
-### PART 4 — ENFORCEMENT[^key-5bd671bee5a2362a1f43e02fa5790a27]
+### PART 4 — ENFORCEMENT[^c-5bd671bee5a2362a1f43e02fa5790a27]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,7 +97,7 @@ In accordance with paragraph 2(2) of Schedule 2 to that Act [^c19257211], a draf
 - [Section 26 — Application of Part 8 of Enterprise Act 2002](part-4/section-26.md)
 - [Section 27 — Evidence as to factual claims](part-4/section-27.md)
 
-### PART 4A (affected by repeal, see note) — CONSUMERS’ RIGHTS TO REDRESS (affected by repeal, see note)[^key-f2d06ad7be50f0b3d5f25e84870e6044][^key-5bd671bee5a2362a1f43e02fa5790a27][^key-5bd671bee5a2362a1f43e02fa5790a27]
+### PART 4A (affected by repeal, see note) — CONSUMERS’ RIGHTS TO REDRESS (affected by repeal, see note)[^c-f2d06ad7be50f0b3d5f25e84870e6044][^c-5bd671bee5a2362a1f43e02fa5790a27][^c-5bd671bee5a2362a1f43e02fa5790a27]
 
 *Extent: E+W+S+N.I.*
 
@@ -114,7 +114,7 @@ In accordance with paragraph 2(2) of Schedule 2 to that Act [^c19257211], a draf
 - [Section 27K — How can a consumer enforce the rights to redress?](part-4a/section-27k.md)
 - [Section 27L — How does this Part relate to the existing law?](part-4a/section-27l.md)
 
-### PART 5 — SUPPLEMENTARY[^key-5bd671bee5a2362a1f43e02fa5790a27]
+### PART 5 — SUPPLEMENTARY[^c-5bd671bee5a2362a1f43e02fa5790a27]
 
 *Extent: E+W+S+N.I.*
 
@@ -166,6 +166,6 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^c19257211]: Marginal citation: [Paragraph 2(2)](https://www.legislation.gov.uk/uksi/2008/1277/paragraph/2/2) of Schedule 2 was amended by section 27(2)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-5bd671bee5a2362a1f43e02fa5790a27]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1277) revoked (6.4.2025 with transitional provisions and savings in relation to Pt. 4A, which is continued until regulations are made under s. 233 of the revoking Act) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 251(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/251/1), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-5bd671bee5a2362a1f43e02fa5790a27]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1277) revoked (6.4.2025 with transitional provisions and savings in relation to Pt. 4A, which is continued until regulations are made under s. 233 of the revoking Act) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 251(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/251/1), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
 
-[^key-f2d06ad7be50f0b3d5f25e84870e6044]: Textual amendment: Pt. 4A inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2014/870/regulation/3)
+[^c-f2d06ad7be50f0b3d5f25e84870e6044]: Textual amendment: Pt. 4A inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2014/870/regulation/3)

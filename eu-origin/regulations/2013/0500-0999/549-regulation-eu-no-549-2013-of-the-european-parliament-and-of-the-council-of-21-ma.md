@@ -36,71 +36,71 @@ on the European system of national and regional accounts in the European Union
 
 (Text with EEA relevance) (revoked)
 
-[^key-8ce1d9169d68230f41baeb7a176c5726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ce1d9169d68230f41baeb7a176c5726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-8ce1d9169d68230f41baeb7a176c5726]
+## Article 1. Subject matter[^c-8ce1d9169d68230f41baeb7a176c5726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Methodology[^key-8ce1d9169d68230f41baeb7a176c5726]
+## Article 2. Methodology[^c-8ce1d9169d68230f41baeb7a176c5726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transmission of data to the Commission[^key-8ce1d9169d68230f41baeb7a176c5726]
+## Article 3. Transmission of data to the Commission[^c-8ce1d9169d68230f41baeb7a176c5726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Quality assessment[^key-8ce1d9169d68230f41baeb7a176c5726]
+## Article 4. Quality assessment[^c-8ce1d9169d68230f41baeb7a176c5726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Date of application and of first transmission of data[^key-8ce1d9169d68230f41baeb7a176c5726]
+## Article 5. Date of application and of first transmission of data[^c-8ce1d9169d68230f41baeb7a176c5726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Derogations[^key-8ce1d9169d68230f41baeb7a176c5726]
+## Article 6. Derogations[^c-8ce1d9169d68230f41baeb7a176c5726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Exercise of the delegation[^key-8ce1d9169d68230f41baeb7a176c5726]
+## Article 7. Exercise of the delegation[^c-8ce1d9169d68230f41baeb7a176c5726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Committee[^key-8ce1d9169d68230f41baeb7a176c5726]
+## Article 8. Committee[^c-8ce1d9169d68230f41baeb7a176c5726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Cooperation with other committees[^key-8ce1d9169d68230f41baeb7a176c5726]
+## Article 9. Cooperation with other committees[^c-8ce1d9169d68230f41baeb7a176c5726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Transitional provisions[^key-8ce1d9169d68230f41baeb7a176c5726]
+## Article 10. Transitional provisions[^c-8ce1d9169d68230f41baeb7a176c5726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Reporting on implicit liabilities[^key-8ce1d9169d68230f41baeb7a176c5726]
+## Article 11. Reporting on implicit liabilities[^c-8ce1d9169d68230f41baeb7a176c5726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Review[^key-8ce1d9169d68230f41baeb7a176c5726]
+## Article 12. Review[^c-8ce1d9169d68230f41baeb7a176c5726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Entry into force[^key-8ce1d9169d68230f41baeb7a176c5726]
+## Article 13. Entry into force[^c-8ce1d9169d68230f41baeb7a176c5726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8ce1d9169d68230f41baeb7a176c5726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ce1d9169d68230f41baeb7a176c5726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX A[^key-8ce1d9169d68230f41baeb7a176c5726]
+## ANNEX A[^c-8ce1d9169d68230f41baeb7a176c5726]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX B[^key-8ce1d9169d68230f41baeb7a176c5726]
+## ANNEX B[^c-8ce1d9169d68230f41baeb7a176c5726]
 
 **No longer in force.**
 
@@ -108,4 +108,4 @@ on the European system of national and regional accounts in the European Union
 
 ## Annotations
 
-[^key-8ce1d9169d68230f41baeb7a176c5726]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/67)
+[^c-8ce1d9169d68230f41baeb7a176c5726]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/67)

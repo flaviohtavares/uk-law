@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Requirement to investigate[^key-9f2d4d21d134f890586b9388b25a8ece]
+## 10. Requirement to investigate[^c-9f2d4d21d134f890586b9388b25a8ece]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f2d4d21d134f890586b9388b25a8ece]: Commencement: S. 10 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(x)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/x)
+[^c-9f2d4d21d134f890586b9388b25a8ece]: Commencement: S. 10 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(x)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/x)

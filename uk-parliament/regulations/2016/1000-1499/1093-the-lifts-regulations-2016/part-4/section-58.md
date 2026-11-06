@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Register of approved bodies[^key-b72950f7ebd95efdd809afd4296fe321][^M_E_e0797397-f78e-4137-eeec-5689c28891c9]
+## 58. Register of approved bodies[^c-b72950f7ebd95efdd809afd4296fe321][^M_E_e0797397-f78e-4137-eeec-5689c28891c9]
 
 *Extent: E+W+S*
 
@@ -39,7 +39,7 @@ When a notified body carries out a relevant conformity assessment procedure, Sch
 
 ## Annotations
 
-[^key-b72950f7ebd95efdd809afd4296fe321]: Textual amendment: Pt. 4 substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 22 para. 31](https://www.legislation.gov.uk/uksi/2019/696/schedule/22/paragraph/31) (with [Sch. 22 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/22/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(k)(iv)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/k/iv/v)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b72950f7ebd95efdd809afd4296fe321]: Textual amendment: Pt. 4 substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 22 para. 31](https://www.legislation.gov.uk/uksi/2019/696/schedule/22/paragraph/31) (with [Sch. 22 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/22/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(k)(iv)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/k/iv/v)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_e0797397-f78e-4137-eeec-5689c28891c9]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 

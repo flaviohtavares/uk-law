@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Duty to monitor registered tips[^key-6b95f6ec821a52e3c45f4e5862775e9a]
+## 10. Duty to monitor registered tips[^c-6b95f6ec821a52e3c45f4e5862775e9a]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b95f6ec821a52e3c45f4e5862775e9a]: Commencement: S. 10 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-6b95f6ec821a52e3c45f4e5862775e9a]: Commencement: S. 10 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

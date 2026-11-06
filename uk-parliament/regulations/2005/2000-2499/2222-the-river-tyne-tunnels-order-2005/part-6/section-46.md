@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Protection of certain persons[^key-7b657fa4ddf358c4e494fd4cced99903]
+## 46. Protection of certain persons[^c-7b657fa4ddf358c4e494fd4cced99903]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ For the protection of the persons specified in the several Parts of that Schedul
 
 ## Annotations
 
-[^key-7b657fa4ddf358c4e494fd4cced99903]: Commencement: Art. 46 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-7b657fa4ddf358c4e494fd4cced99903]: Commencement: Art. 46 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

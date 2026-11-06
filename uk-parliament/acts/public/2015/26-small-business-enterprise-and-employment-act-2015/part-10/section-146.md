@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Regulations under section 144: timing and supplementary[^key-08d66a737b9b5019bd1ec981a225e47f]
+## 146. Regulations under section 144: timing and supplementary[^c-08d66a737b9b5019bd1ec981a225e47f]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08d66a737b9b5019bd1ec981a225e47f]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2015/26/section/146) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-08d66a737b9b5019bd1ec981a225e47f]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2015/26/section/146) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)

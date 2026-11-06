@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Compulsory acquisition of rights etc.[^key-cb389d7d3e497032c0cdb02962e290b1]
+## 22. Compulsory acquisition of rights etc.[^c-cb389d7d3e497032c0cdb02962e290b1]
 
 *Extent: E+W+S*
 
-(1) Subject to paragraph (2), the undertaker may acquire such rights over the Order land or impose restrictive covenants affecting the land as may be required for any purpose for which that land may be acquired under article 18[^key-815d13ffe79906b48e267419f83952f0] (compulsory acquisition of land), by creating them as well as acquiring rights already in existence.
+(1) Subject to paragraph (2), the undertaker may acquire such rights over the Order land or impose restrictive covenants affecting the land as may be required for any purpose for which that land may be acquired under article 18[^c-815d13ffe79906b48e267419f83952f0] (compulsory acquisition of land), by creating them as well as acquiring rights already in existence.
 
 (2) In respect of such parts of the Order land that are edged in red and shaded blue on the land plans the undertaker may acquire compulsorily the existing rights over land and create and acquire compulsorily the new rights and impose the restrictions described in the book of reference and shown on the land plans.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb389d7d3e497032c0cdb02962e290b1]: Commencement: Art. 22 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-cb389d7d3e497032c0cdb02962e290b1]: Commencement: Art. 22 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
 
-[^key-815d13ffe79906b48e267419f83952f0]: Textual amendment: Words in [art. 22](https://www.legislation.gov.uk/uksi/2019/1268/article/22) substituted (10.1.2020) by [The Abergelli Gas Fired Generating Station (Correction) Order 2020 (S.I. 2020/22)](https://www.legislation.gov.uk/uksi/2020/22), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/22/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/22/schedule)
+[^c-815d13ffe79906b48e267419f83952f0]: Textual amendment: Words in [art. 22](https://www.legislation.gov.uk/uksi/2019/1268/article/22) substituted (10.1.2020) by [The Abergelli Gas Fired Generating Station (Correction) Order 2020 (S.I. 2020/22)](https://www.legislation.gov.uk/uksi/2020/22), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/22/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/22/schedule)

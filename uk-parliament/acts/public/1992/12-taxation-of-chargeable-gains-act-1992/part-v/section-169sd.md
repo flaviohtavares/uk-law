@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169SD. Supplementary election to defer gains until subsequent disposal[^key-54aca3dbf6a607f6e276424c1fec282b]
+## 169SD. Supplementary election to defer gains until subsequent disposal[^c-54aca3dbf6a607f6e276424c1fec282b]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54aca3dbf6a607f6e276424c1fec282b]: Textual amendment: Pt. 5 Ch. 3A inserted (with effect in accordance with Sch. 16 para. 4(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/3)
+[^c-54aca3dbf6a607f6e276424c1fec282b]: Textual amendment: Pt. 5 Ch. 3A inserted (with effect in accordance with Sch. 16 para. 4(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/3)

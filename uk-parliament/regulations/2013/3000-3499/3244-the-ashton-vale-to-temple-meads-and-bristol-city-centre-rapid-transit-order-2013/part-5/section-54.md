@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Supplementary provisions[^key-1b94473885c6ea8c491e8b8c40d31f39]
+## 54. Supplementary provisions[^c-1b94473885c6ea8c491e8b8c40d31f39]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b94473885c6ea8c491e8b8c40d31f39]: Commencement: Art. 54 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-1b94473885c6ea8c491e8b8c40d31f39]: Commencement: Art. 54 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

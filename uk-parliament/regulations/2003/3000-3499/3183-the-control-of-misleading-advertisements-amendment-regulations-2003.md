@@ -31,7 +31,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-The Control of Misleading Advertisements (Amendment) Regulations 2003 (revoked)[^key-87f3dcff170c32ffc35a83163138d095]
+The Control of Misleading Advertisements (Amendment) Regulations 2003 (revoked)[^c-87f3dcff170c32ffc35a83163138d095]
 
 Made
 
@@ -45,42 +45,42 @@ Coming into force
 
 29th December 2003
 
-[^key-87f3dcff170c32ffc35a83163138d095]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-87f3dcff170c32ffc35a83163138d095]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-87f3dcff170c32ffc35a83163138d095]
+## 1. Citation and commencement[^c-87f3dcff170c32ffc35a83163138d095]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Control of Misleading Advertisements Regulations 1988[^key-87f3dcff170c32ffc35a83163138d095]
+## 2. Amendment of the Control of Misleading Advertisements Regulations 1988[^c-87f3dcff170c32ffc35a83163138d095]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-87f3dcff170c32ffc35a83163138d095]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-87f3dcff170c32ffc35a83163138d095]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Amendments to the Control of Misleading Advertisements Regulations 1988[^key-87f3dcff170c32ffc35a83163138d095]
+## SCHEDULE — Amendments to the Control of Misleading Advertisements Regulations 1988[^c-87f3dcff170c32ffc35a83163138d095]
 
 Article 2
 
-**1.**[^key-87f3dcff170c32ffc35a83163138d095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-87f3dcff170c32ffc35a83163138d095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-87f3dcff170c32ffc35a83163138d095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-87f3dcff170c32ffc35a83163138d095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-87f3dcff170c32ffc35a83163138d095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-87f3dcff170c32ffc35a83163138d095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-87f3dcff170c32ffc35a83163138d095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-87f3dcff170c32ffc35a83163138d095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-87f3dcff170c32ffc35a83163138d095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-87f3dcff170c32ffc35a83163138d095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-87f3dcff170c32ffc35a83163138d095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-87f3dcff170c32ffc35a83163138d095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-87f3dcff170c32ffc35a83163138d095]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-87f3dcff170c32ffc35a83163138d095]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-87f3dcff170c32ffc35a83163138d095]: Textual amendment: Regulations revoked (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 105](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/105), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-87f3dcff170c32ffc35a83163138d095]: Textual amendment: Regulations revoked (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 105](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/105), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))

@@ -27,7 +27,7 @@ summary: ''
 
 (2) At any time when the rate is not the rate mentioned in paragraph (1), the rate of the surviving adult dependant’s pension in the case of the death of a pensioner member is equal to 37.5% of the pension to which the member was entitled on the date of death (disregarding any additional pension).
 
-(3)[^key-44395dc5baf4c3f3c023d20862874182] For the purposes of paragraph (1) any reduction in the rate of the member’s pension under—
+(3)[^c-44395dc5baf4c3f3c023d20862874182] For the purposes of paragraph (1) any reduction in the rate of the member’s pension under—
 
 - (a) Chapter 2.H,
 - (b) regulation 2.D.14, or
@@ -63,10 +63,10 @@ the member’s pension referred to in paragraph (1) means that member’s origin
 
 (7) This regulation is subject to regulation 2.E.7 (re-employed pensioners: adult survivor pensions in initial period).
 
-(8)[^key-563b17ff65209327bd3a1de5866423d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-563b17ff65209327bd3a1de5866423d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-44395dc5baf4c3f3c023d20862874182]: Textual amendment: [Reg. 2.E.4(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.4/3)[(3A)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.4/3A) substituted for [reg. 2.E.4(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.4/3) (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [37(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/37/2)
+[^c-44395dc5baf4c3f3c023d20862874182]: Textual amendment: [Reg. 2.E.4(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.4/3)[(3A)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.4/3A) substituted for [reg. 2.E.4(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.4/3) (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [37(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/37/2)
 
-[^key-563b17ff65209327bd3a1de5866423d0]: Textual amendment: [Reg. 2.E.4(8)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.4/8) omitted (1.10.2009) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [37(3)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/37/3)
+[^c-563b17ff65209327bd3a1de5866423d0]: Textual amendment: [Reg. 2.E.4(8)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.4/8) omitted (1.10.2009) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [37(3)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/37/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Limitation of estate management charges: time limits[^key-bef10f6a91275b93589d4e4a1e9bf337]
+## 76. Limitation of estate management charges: time limits[^c-bef10f6a91275b93589d4e4a1e9bf337]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bef10f6a91275b93589d4e4a1e9bf337]: Commencement: S. 76 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-bef10f6a91275b93589d4e4a1e9bf337]: Commencement: S. 76 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

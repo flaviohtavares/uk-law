@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Discharge of water[^key-1496bd4577ea84727a60383366dcc57b]
+## 17. Discharge of water[^c-1496bd4577ea84727a60383366dcc57b]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) The undertaker must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain pursuant to this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) This article does not authorise a groundwater activity or a water discharge activity within the meaning of the Environmental Permitting (England and Wales) Regulations 2016[^key-0bf8034db1f7c267eea151b583387116].
+(7) This article does not authorise a groundwater activity or a water discharge activity within the meaning of the Environmental Permitting (England and Wales) Regulations 2016[^c-0bf8034db1f7c267eea151b583387116].
 
 (8) In this article—
 
@@ -46,10 +46,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1496bd4577ea84727a60383366dcc57b]: Commencement: Art. 17 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-1496bd4577ea84727a60383366dcc57b]: Commencement: Art. 17 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
 [^f00031]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by section 35(8)(a) of the Competition and Service (Utilities) Act [1992 (c.43)](https://www.legislation.gov.uk/ukpga/1992/43) and sections 36(2) and 99 of the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37). There are other amendments to this section that are not relevant to this Order.
 
-[^key-0bf8034db1f7c267eea151b583387116]: Textual amendment: Words in [art. 17(7)](https://www.legislation.gov.uk/uksi/2015/318/article/17/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 82](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/82) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-0bf8034db1f7c267eea151b583387116]: Textual amendment: Words in [art. 17(7)](https://www.legislation.gov.uk/uksi/2015/318/article/17/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 82](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/82) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00033]: Footnote: “Sewerage undertaker” is defined in Schedule 1 to the Interpretation Act [1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30).

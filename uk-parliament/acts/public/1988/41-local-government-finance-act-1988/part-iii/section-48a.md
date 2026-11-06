@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48A. Discretionary relief: functions of Mayoral development corporations[^key-7c4f349ca3dbb7eece8fa8ba71e1e468]
+## 48A. Discretionary relief: functions of Mayoral development corporations[^c-7c4f349ca3dbb7eece8fa8ba71e1e468]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c4f349ca3dbb7eece8fa8ba71e1e468]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/ukpga/1988/41/section/48A) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 24](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/24)
+[^c-7c4f349ca3dbb7eece8fa8ba71e1e468]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/ukpga/1988/41/section/48A) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 24](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/24)

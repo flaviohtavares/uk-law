@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Notification to adult at risk etc.[^key-692f659a8e6ca897e7fb4589e7b2cbb3]
+## 26. Notification to adult at risk etc.[^c-692f659a8e6ca897e7fb4589e7b2cbb3]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ on the application of a person other than the adult whose well-being or property
 
 ## Annotations
 
-[^key-692f659a8e6ca897e7fb4589e7b2cbb3]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2007/10/section/26) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-692f659a8e6ca897e7fb4589e7b2cbb3]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2007/10/section/26) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Pending legal proceedings[^key-08db272a24a729ecf8a0b3f615166cf8]
+## 11. Pending legal proceedings[^c-08db272a24a729ecf8a0b3f615166cf8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08db272a24a729ecf8a0b3f615166cf8]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2011/1681/article/11) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)
+[^c-08db272a24a729ecf8a0b3f615166cf8]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2011/1681/article/11) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Sexual communication with a child[^key-a5daeee8d2c863bcce1f43ab236fdf26]
+## 15A. Sexual communication with a child[^c-a5daeee8d2c863bcce1f43ab236fdf26]
 
 *Extent: E+W*
 
@@ -35,11 +35,11 @@ and in paragraph (a) “**sexual activity**” means an activity that a reasonab
 
 (3) A person guilty of an offence under this section is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-d5eacf7dd7bea48fcc4b3928ff33bc07] or a fine or both;
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-d5eacf7dd7bea48fcc4b3928ff33bc07] or a fine or both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years.
 
 ## Annotations
 
-[^key-a5daeee8d2c863bcce1f43ab236fdf26]: Textual amendment: S. 15A inserted (E.W.) (3.4.2017) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 67](https://www.legislation.gov.uk/ukpga/2015/9/section/67), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(14)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/14)[(15)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/15)); [S.I. 2017/451](https://www.legislation.gov.uk/uksi/2017/451), [reg. 2](https://www.legislation.gov.uk/uksi/2017/451/regulation/2)
+[^c-a5daeee8d2c863bcce1f43ab236fdf26]: Textual amendment: S. 15A inserted (E.W.) (3.4.2017) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 67](https://www.legislation.gov.uk/ukpga/2015/9/section/67), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(14)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/14)[(15)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/15)); [S.I. 2017/451](https://www.legislation.gov.uk/uksi/2017/451), [reg. 2](https://www.legislation.gov.uk/uksi/2017/451/regulation/2)
 
-[^key-d5eacf7dd7bea48fcc4b3928ff33bc07]: Textual amendment: Words in [s. 15A(3)(a)](https://www.legislation.gov.uk/ukpga/2003/42/section/15A/3/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-d5eacf7dd7bea48fcc4b3928ff33bc07]: Textual amendment: Words in [s. 15A(3)(a)](https://www.legislation.gov.uk/ukpga/2003/42/section/15A/3/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)

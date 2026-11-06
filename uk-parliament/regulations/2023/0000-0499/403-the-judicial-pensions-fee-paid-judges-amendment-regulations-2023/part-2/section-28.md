@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Amendment of regulation 35[^key-25a97d1b307ee8aac2bad9ae6cdb97a0]
+## 28. Amendment of regulation 35[^c-25a97d1b307ee8aac2bad9ae6cdb97a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25a97d1b307ee8aac2bad9ae6cdb97a0]: Commencement: Reg. 28 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-25a97d1b307ee8aac2bad9ae6cdb97a0]: Commencement: Reg. 28 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

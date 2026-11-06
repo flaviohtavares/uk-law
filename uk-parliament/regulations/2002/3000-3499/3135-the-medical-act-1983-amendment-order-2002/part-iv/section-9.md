@@ -46,7 +46,7 @@ summary: ''
     > - (b) in a case to which Directive [93/16/EEC](https://www.legislation.gov.uk/eudr/1993/16) applies, such longer period as is permitted by article 15 of that Directive.
 
     ; and
-- (c)[^key-f2881e8ec1c1c630de6c6e65ea86933d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-f2881e8ec1c1c630de6c6e65ea86933d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) after sub-paragraph (4) insert—
 
   > (4A) A certificate of registration required to be issued under sub-paragraph (2) or (3) above shall be issued before the end of the requisite period.
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2881e8ec1c1c630de6c6e65ea86933d]: Textual amendment: Art. 9(5)(c) revoked (19.7.2006 for specified purposes, 19.10.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [80(b)(ii)](https://www.legislation.gov.uk/uksi/2006/1914/article/80/b/ii)
+[^c-f2881e8ec1c1c630de6c6e65ea86933d]: Textual amendment: Art. 9(5)(c) revoked (19.7.2006 for specified purposes, 19.10.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [80(b)(ii)](https://www.legislation.gov.uk/uksi/2006/1914/article/80/b/ii)

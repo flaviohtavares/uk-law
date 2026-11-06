@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. The Invasive Alien Species (Enforcement and Permitting) Order 2019[^key-b3db6e0f274003f14255b2b7da4841a5]
+## 41. The Invasive Alien Species (Enforcement and Permitting) Order 2019[^c-b3db6e0f274003f14255b2b7da4841a5]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b3db6e0f274003f14255b2b7da4841a5]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2020/1388/regulation/41) in force at 4.5.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/b)
+[^c-b3db6e0f274003f14255b2b7da4841a5]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2020/1388/regulation/41) in force at 4.5.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/b)
 
 [^f00083]: Footnote: [S.I. 2019/527](https://www.legislation.gov.uk/uksi/2019/527).

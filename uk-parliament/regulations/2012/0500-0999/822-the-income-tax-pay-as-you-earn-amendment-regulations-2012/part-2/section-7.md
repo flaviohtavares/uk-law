@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Death of employee[^key-0d85281a0564133a4eb0b6f653cd5b16]
+## 7. Death of employee[^c-0d85281a0564133a4eb0b6f653cd5b16]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In regulation 38(1) (death of employee), before paragraph (1) insert—
 
 ## Annotations
 
-[^key-0d85281a0564133a4eb0b6f653cd5b16]: Commencement: Reg. 7 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-0d85281a0564133a4eb0b6f653cd5b16]: Commencement: Reg. 7 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Access to information by the Statistics Board[^key-8a718a687c2d733561903b0d9b4cf751][^key-932579aacc968f421afdf5d69bf90a16]
+## 80. Access to information by the Statistics Board[^c-8a718a687c2d733561903b0d9b4cf751][^c-932579aacc968f421afdf5d69bf90a16]
 
 *Extent: E+W+S+N.I.*
 
@@ -320,6 +320,6 @@ After section 45A of the Statistics and Registration Service Act 2007 (inserte
 
 ## Annotations
 
-[^key-8a718a687c2d733561903b0d9b4cf751]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2017/30/section/80) in force at 1.10.2017 for specified purposes for E.W.S. by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/n)
+[^c-8a718a687c2d733561903b0d9b4cf751]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2017/30/section/80) in force at 1.10.2017 for specified purposes for E.W.S. by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/n)
 
-[^key-932579aacc968f421afdf5d69bf90a16]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2017/30/section/80) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(ll)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/ll)
+[^c-932579aacc968f421afdf5d69bf90a16]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2017/30/section/80) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(ll)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/ll)

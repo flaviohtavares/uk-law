@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70. Record of exercise of functions[^key-0c5c790a204f5ee88c430e4f4ce1282a][^key-a78127ca960ac5689a8e42fcd64027aa]
+## 70. Record of exercise of functions[^c-0c5c790a204f5ee88c430e4f4ce1282a][^c-a78127ca960ac5689a8e42fcd64027aa]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c5c790a204f5ee88c430e4f4ce1282a]: Commencement: S. 70 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-0c5c790a204f5ee88c430e4f4ce1282a]: Commencement: S. 70 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-a78127ca960ac5689a8e42fcd64027aa]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/28/section/70) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-a78127ca960ac5689a8e42fcd64027aa]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/28/section/70) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

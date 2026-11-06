@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218. Interpretation of Part 10[^key-9545ff78f8ccf8d00d8ac6ca9e97ff0f][^key-59af53e8db5dc302eb2af509c6c78077]
+## 218. Interpretation of Part 10[^c-9545ff78f8ccf8d00d8ac6ca9e97ff0f][^c-59af53e8db5dc302eb2af509c6c78077]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ the tenancy, licence or agreement referred to in section 198(1)(c)(ii) is to be 
 
 ## Annotations
 
-[^key-9545ff78f8ccf8d00d8ac6ca9e97ff0f]: Commencement: S. 218 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-9545ff78f8ccf8d00d8ac6ca9e97ff0f]: Commencement: S. 218 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-59af53e8db5dc302eb2af509c6c78077]: Commencement: [S. 218](https://www.legislation.gov.uk/ukpga/2023/55/section/218) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/g)
+[^c-59af53e8db5dc302eb2af509c6c78077]: Commencement: [S. 218](https://www.legislation.gov.uk/ukpga/2023/55/section/218) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/g)

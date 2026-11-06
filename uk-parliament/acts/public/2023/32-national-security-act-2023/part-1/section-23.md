@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Powers of search etc[^key-effaf4768030bd5175726787b91d73b9][^key-d3f4c3e785a647a44278ac201f84fa45]
+## 23. Powers of search etc[^c-effaf4768030bd5175726787b91d73b9][^c-d3f4c3e785a647a44278ac201f84fa45]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ Schedule 2 confers powers of entry, search and seizure in relation to—
 
 ## Annotations
 
-[^key-effaf4768030bd5175726787b91d73b9]: Commencement: S. 23 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-effaf4768030bd5175726787b91d73b9]: Commencement: S. 23 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-d3f4c3e785a647a44278ac201f84fa45]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2023/32/section/23) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-d3f4c3e785a647a44278ac201f84fa45]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2023/32/section/23) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

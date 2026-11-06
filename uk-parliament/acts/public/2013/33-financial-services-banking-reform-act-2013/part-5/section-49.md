@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Regulator's general duties in relation to payment systems[^key-43294fffc5293d05ff3fde9330284d9b]
+## 49. Regulator's general duties in relation to payment systems[^c-43294fffc5293d05ff3fde9330284d9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43294fffc5293d05ff3fde9330284d9b]: Commencement: S. 49 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-43294fffc5293d05ff3fde9330284d9b]: Commencement: S. 49 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

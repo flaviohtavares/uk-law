@@ -50,59 +50,59 @@ In accordance with section 100(7) of that Act, the Secretary of State has obtain
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-4d6d9502e26ebb6baf9b3d5f27d4dfed]
+### 1. Citation and commencement[^c-4d6d9502e26ebb6baf9b3d5f27d4dfed]
 
 These Regulations may be cited as the Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) (No. 2) Regulations 2017 and come into force on 20th September 2017.
 
 ## PART 2 — Amendments to the Renewable Heat Incentive Scheme Regulations 2011
 
-### 2. Amendments to the Renewable Heat Incentive Scheme Regulations 2011[^key-d985144783a272842cb7c2b541bd201b]
+### 2. Amendments to the Renewable Heat Incentive Scheme Regulations 2011[^c-d985144783a272842cb7c2b541bd201b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment to regulation 2 (interpretation)[^key-d985144783a272842cb7c2b541bd201b]
+### 3. Amendment to regulation 2 (interpretation)[^c-d985144783a272842cb7c2b541bd201b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendments to regulation 37 (payment of periodic support payments to participants)[^key-d985144783a272842cb7c2b541bd201b]
+### 4. Amendments to regulation 37 (payment of periodic support payments to participants)[^c-d985144783a272842cb7c2b541bd201b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendments to regulation 37A (calculation of initial tariffs on or after the relevant date)[^key-d985144783a272842cb7c2b541bd201b]
+### 5. Amendments to regulation 37A (calculation of initial tariffs on or after the relevant date)[^c-d985144783a272842cb7c2b541bd201b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. New regulation 37AA (calculation of initial tariffs for certain installations and biomethane producers with tariff start dates before 1st January 2018)[^key-d985144783a272842cb7c2b541bd201b]
+### 6. New regulation 37AA (calculation of initial tariffs for certain installations and biomethane producers with tariff start dates before 1st January 2018)[^c-d985144783a272842cb7c2b541bd201b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment to regulation 37B (calculation of A)[^key-d985144783a272842cb7c2b541bd201b]
+### 7. Amendment to regulation 37B (calculation of A)[^c-d985144783a272842cb7c2b541bd201b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. New regulation 37BA (calculation of A for tariff start dates on or after 1st January 2018)[^key-d985144783a272842cb7c2b541bd201b]
+### 8. New regulation 37BA (calculation of A for tariff start dates on or after 1st January 2018)[^c-d985144783a272842cb7c2b541bd201b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. New Schedule 3D (new tariffs)[^key-d985144783a272842cb7c2b541bd201b]
+### 9. New Schedule 3D (new tariffs)[^c-d985144783a272842cb7c2b541bd201b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of Schedule 4 (total expenditure)[^key-d985144783a272842cb7c2b541bd201b]
+### 10. Amendment of Schedule 4 (total expenditure)[^c-d985144783a272842cb7c2b541bd201b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendment of Schedule 5 (expenditure in relation to individual technologies)[^key-d985144783a272842cb7c2b541bd201b]
+### 11. Amendment of Schedule 5 (expenditure in relation to individual technologies)[^c-d985144783a272842cb7c2b541bd201b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Amendments to the Domestic Renewable Heat Incentive Scheme Regulations 2014
 
-### 12. Amendments to the Domestic Renewable Heat Incentive Scheme Regulations 2014[^key-b26471c5219574576f74e88d9a9e905f]
+### 12. Amendments to the Domestic Renewable Heat Incentive Scheme Regulations 2014[^c-b26471c5219574576f74e88d9a9e905f]
 
 The Domestic Renewable Heat Incentive Scheme Regulations 2014[^f00003] are amended in accordance with this Part.
 
-### 13. Amendments to regulation 2 (interpretation)[^key-9655fa3c64cd31f2256931cb6431eb07]
+### 13. Amendments to regulation 2 (interpretation)[^c-9655fa3c64cd31f2256931cb6431eb07]
 
 In regulation 2—
 
@@ -114,7 +114,7 @@ In regulation 2—
   ; and
 - (c) in the definition of “subsequent tariff” after “plant for” insert “all or part of”.
 
-### 14. Amendment to regulation 26 (duty to make RHI payments)[^key-907b8a73837441ac713cbba7291d6516]
+### 14. Amendment to regulation 26 (duty to make RHI payments)[^c-907b8a73837441ac713cbba7291d6516]
 
 After regulation 26(4) insert—
 
@@ -125,7 +125,7 @@ After regulation 26(4) insert—
 
 .
 
-### 15. Amendment to regulation 29 (calculation of deemed annual heat generation)[^key-77d6e0abaca76f686f4536e035d53207]
+### 15. Amendment to regulation 29 (calculation of deemed annual heat generation)[^c-77d6e0abaca76f686f4536e035d53207]
 
 In regulation 29, for paragraphs (2) to (5) substitute—
 
@@ -187,7 +187,7 @@ In regulation 29, for paragraphs (2) to (5) substitute—
 
 .
 
-### 16. Amendments to regulation 34 (calculation of initial tariffs)[^key-f0717af4ebc85c378ed6dcd7d3f9904b]
+### 16. Amendments to regulation 34 (calculation of initial tariffs)[^c-f0717af4ebc85c378ed6dcd7d3f9904b]
 
 (1) In regulation 34, after paragraph (2) insert—
 
@@ -203,7 +203,7 @@ In regulation 29, for paragraphs (2) to (5) substitute—
 - (a) for “In any other case” substitute “In any case not falling within paragraph (2) or (2A)”; and
 - (b) after “tariff” insert “for the initial tariff period”.
 
-### 17. Amendment to regulation 35 (calculation of initial tariffs: calculation of A)[^key-d777a588970b87c9e3164663939f40f1]
+### 17. Amendment to regulation 35 (calculation of initial tariffs: calculation of A)[^c-d777a588970b87c9e3164663939f40f1]
 
 For regulation 35(2)(b) and (c) substitute—
 
@@ -216,7 +216,7 @@ For regulation 35(2)(b) and (c) substitute—
 
 .
 
-### 18. Substitution of regulation 37 (calculation of subsequent tariffs)[^key-fee7bec09f9690f27b9a465f047679c3]
+### 18. Substitution of regulation 37 (calculation of subsequent tariffs)[^c-fee7bec09f9690f27b9a465f047679c3]
 
 For regulation 37 substitute—
 
@@ -240,7 +240,7 @@ For regulation 37 substitute—
 
 .
 
-### 19. New Schedule 5A (new tariffs)[^key-8e5d3eccf0be2d6bbc14d212a532eeab]
+### 19. New Schedule 5A (new tariffs)[^c-8e5d3eccf0be2d6bbc14d212a532eeab]
 
 After Schedule 5 insert—
 
@@ -257,7 +257,7 @@ After Schedule 5 insert—
 > | Ground source heat pumps | 19.86 |
 > | Solar thermal plants | 20.06 |
 
-### 20. Amendment of Schedule 6 (expenditure for individual technologies)[^key-081703438b843592c4594245512a3214]
+### 20. Amendment of Schedule 6 (expenditure for individual technologies)[^c-081703438b843592c4594245512a3214]
 
 (1) Schedule 6 is amended as follows.
 
@@ -365,26 +365,26 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32). Section 100 is amended by s.51 of the Infrastructure Act [2015 (c.7)](https://www.legislation.gov.uk/ukpga/2015/7) and [S.I. 2011/2195](https://www.legislation.gov.uk/uksi/2011/2195). Section 51 also amended section 105 of the Energy Act 2008 (Parliamentary control of subordinate legislation) and inserted subsections (3A) to (3I) concerning provisions which require the affirmative resolution procedure. By virtue of subsections (3A) to (3I), these Regulations do not require the affirmative procedure.
 
-[^key-4d6d9502e26ebb6baf9b3d5f27d4dfed]: Commencement: Reg. 1 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
+[^c-4d6d9502e26ebb6baf9b3d5f27d4dfed]: Commencement: Reg. 1 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
 
-[^key-d985144783a272842cb7c2b541bd201b]: Textual amendment: [Regs. 2-11](https://www.legislation.gov.uk/uksi/2017/857/regulation/2) revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(m)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/m) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
+[^c-d985144783a272842cb7c2b541bd201b]: Textual amendment: [Regs. 2-11](https://www.legislation.gov.uk/uksi/2017/857/regulation/2) revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(m)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/m) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
 
-[^key-b26471c5219574576f74e88d9a9e905f]: Commencement: Reg. 12 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
+[^c-b26471c5219574576f74e88d9a9e905f]: Commencement: Reg. 12 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2014/928](https://www.legislation.gov.uk/uksi/2014/928) amended by [S.I. 2015/143](https://www.legislation.gov.uk/uksi/2015/143), [2015/145](https://www.legislation.gov.uk/uksi/2015/145), [2015/1459](https://www.legislation.gov.uk/uksi/2015/1459), [2016/257](https://www.legislation.gov.uk/uksi/2016/257) and [2017/727](https://www.legislation.gov.uk/uksi/2017/727).
 
-[^key-9655fa3c64cd31f2256931cb6431eb07]: Commencement: Reg. 13 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
+[^c-9655fa3c64cd31f2256931cb6431eb07]: Commencement: Reg. 13 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
 
-[^key-907b8a73837441ac713cbba7291d6516]: Commencement: Reg. 14 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
+[^c-907b8a73837441ac713cbba7291d6516]: Commencement: Reg. 14 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
 
-[^key-77d6e0abaca76f686f4536e035d53207]: Commencement: Reg. 15 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
+[^c-77d6e0abaca76f686f4536e035d53207]: Commencement: Reg. 15 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
 
-[^key-f0717af4ebc85c378ed6dcd7d3f9904b]: Commencement: Reg. 16 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
+[^c-f0717af4ebc85c378ed6dcd7d3f9904b]: Commencement: Reg. 16 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
 
-[^key-d777a588970b87c9e3164663939f40f1]: Commencement: Reg. 17 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
+[^c-d777a588970b87c9e3164663939f40f1]: Commencement: Reg. 17 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
 
-[^key-fee7bec09f9690f27b9a465f047679c3]: Commencement: Reg. 18 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
+[^c-fee7bec09f9690f27b9a465f047679c3]: Commencement: Reg. 18 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
 
-[^key-8e5d3eccf0be2d6bbc14d212a532eeab]: Commencement: Reg. 19 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
+[^c-8e5d3eccf0be2d6bbc14d212a532eeab]: Commencement: Reg. 19 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
 
-[^key-081703438b843592c4594245512a3214]: Commencement: Reg. 20 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)
+[^c-081703438b843592c4594245512a3214]: Commencement: Reg. 20 in force at 20.9.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1)

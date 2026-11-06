@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Payment of expenses of registration officer[^key-56fa65198fa5f54bc33f9e0d54c7ecbe]
+## 29. Payment of expenses of registration officer[^c-56fa65198fa5f54bc33f9e0d54c7ecbe]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56fa65198fa5f54bc33f9e0d54c7ecbe]: Commencement: Art. 29 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-56fa65198fa5f54bc33f9e0d54c7ecbe]: Commencement: Art. 29 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

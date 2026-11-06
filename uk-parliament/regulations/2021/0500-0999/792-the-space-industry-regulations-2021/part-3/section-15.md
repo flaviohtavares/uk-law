@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Operator licences: exemptions[^key-29f111cfded6012726f60a0774de3b7e]
+## 15. Operator licences: exemptions[^c-29f111cfded6012726f60a0774de3b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29f111cfded6012726f60a0774de3b7e]: Commencement: Reg. 15 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-29f111cfded6012726f60a0774de3b7e]: Commencement: Reg. 15 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00027]: Footnote: Treaty Series No. 8 (1953); Cmd 8742. The Chicago Convention is published at https://www.icao.int/safety/airnavigation/NationalityMarks/annexes\_booklet\_en.pdf. A hard copy can be obtained from the Department for Transport, Great Minster House, 33 Horseferry Road, London, SW1P 4DR.

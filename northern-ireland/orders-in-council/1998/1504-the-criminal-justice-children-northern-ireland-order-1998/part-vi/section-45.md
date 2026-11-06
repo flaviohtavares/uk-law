@@ -27,9 +27,9 @@ summary: ''
 - (a) a child is convicted on indictment of any offence punishable in the case of an adult with imprisonment for fourteen years or more, not being an offence the sentence for which is fixed by law; and
 - (b) the court is of the opinion that none of the other methods in which the case may be dealt with is suitable,
 
-the court may sentence the child to be detained for such period as may be specified in the sentence; and where such a sentence has been passed the child shall, during that period, subject to Articles 46 to 46B[^key-cbae773af43bb42a8ca4f54169a4e77d], be liable to be detained in such place and under such conditions as the Minister of Justice may direct.
+the court may sentence the child to be detained for such period as may be specified in the sentence; and where such a sentence has been passed the child shall, during that period, subject to Articles 46 to 46B[^c-cbae773af43bb42a8ca4f54169a4e77d], be liable to be detained in such place and under such conditions as the Minister of Justice may direct.
 
-(2A)[^key-96bb233739bef032cafe87966c23b888] Where a court passes a sentence under paragraph (2), the court shall specify such part of the sentence as the court considers appropriate as the relevant part of the sentence for the purposes of Article 46 (release on licence).
+(2A)[^c-96bb233739bef032cafe87966c23b888] Where a court passes a sentence under paragraph (2), the court shall specify such part of the sentence as the court considers appropriate as the relevant part of the sentence for the purposes of Article 46 (release on licence).
 
 (3) A person detained pursuant to the directions of the Minister of Justice under this Article shall, while so detained, be deemed to be in legal custody.
 
@@ -54,8 +54,8 @@ the court may sentence the child to be detained for such period as may be specif
 
 [^c18860831]: Modification: mod. (temp.) [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11)
 
-[^key-cbae773af43bb42a8ca4f54169a4e77d]: Textual amendment: Words in [art. 45(2)](https://www.legislation.gov.uk/nisi/1998/1504/article/45/2) substituted (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 10(1)](https://www.legislation.gov.uk/nia/2013/7/section/10/1), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1) (with [s. 10(5)-(9)](https://www.legislation.gov.uk/nia/2013/7/section/10/5))
+[^c-cbae773af43bb42a8ca4f54169a4e77d]: Textual amendment: Words in [art. 45(2)](https://www.legislation.gov.uk/nisi/1998/1504/article/45/2) substituted (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 10(1)](https://www.legislation.gov.uk/nia/2013/7/section/10/1), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1) (with [s. 10(5)-(9)](https://www.legislation.gov.uk/nia/2013/7/section/10/5))
 
-[^key-96bb233739bef032cafe87966c23b888]: Textual amendment: [Art. 45(2A)](https://www.legislation.gov.uk/nisi/1998/1504/article/45/2A) inserted (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 10(2)](https://www.legislation.gov.uk/nia/2013/7/section/10/2), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1) (with [s. 10(5)-(9)](https://www.legislation.gov.uk/nia/2013/7/section/10/5))
+[^c-96bb233739bef032cafe87966c23b888]: Textual amendment: [Art. 45(2A)](https://www.legislation.gov.uk/nisi/1998/1504/article/45/2A) inserted (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 10(2)](https://www.legislation.gov.uk/nia/2013/7/section/10/2), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1) (with [s. 10(5)-(9)](https://www.legislation.gov.uk/nia/2013/7/section/10/5))
 
 [^c22023251]: Textual amendment: Art. 45(8) inserted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/976/article/12), [Sch. 14 para. 40(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/40/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)

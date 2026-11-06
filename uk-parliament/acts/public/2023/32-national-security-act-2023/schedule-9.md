@@ -22,12 +22,12 @@ summary: ''
 
 Section 51
 
-**1.**[^key-6b60ad7b149c60799c7a759ddd680fa8][^key-c2f9202cb1f5b7ced64d1ca9d7b0e2b5] An individual who has been convicted of an offence under section 56(1) may appeal against the conviction if—
+**1.**[^c-6b60ad7b149c60799c7a759ddd680fa8][^c-c2f9202cb1f5b7ced64d1ca9d7b0e2b5] An individual who has been convicted of an offence under section 56(1) may appeal against the conviction if—
 
 - (a) a Part 2 notice, the extension of a Part 2 notice, or the revival of a Part 2 notice is quashed, or measures specified in a Part 2 notice are quashed, and
 - (b) the individual could not have been convicted had the quashing occurred before the proceedings for the offence were brought.
 
-**2.**[^key-9035b189817071e42152245d6ac48091][^key-26ab60432a4aedf651f59a93c98f0a31] An appeal under this Schedule is to be made—
+**2.**[^c-9035b189817071e42152245d6ac48091][^c-26ab60432a4aedf651f59a93c98f0a31] An appeal under this Schedule is to be made—
 
 - (a) in the case of a conviction on indictment in England and Wales or Northern Ireland, to the Court of Appeal,
 - (b) in the case of a conviction on indictment in Scotland, to the High Court of Justiciary,
@@ -35,14 +35,14 @@ Section 51
 - (d) in the case of a summary conviction in Scotland, to the Sheriff Appeal Court, or
 - (e) in the case of a summary conviction in Northern Ireland, to the county court.
 
-**3.**[^key-140a33863e722412db1ada3f01b00314][^key-9fc459086e171b0154e00702df6333de] (1) The right of appeal under this Schedule does not arise until there is no further possibility of an appeal against—
+**3.**[^c-140a33863e722412db1ada3f01b00314][^c-9fc459086e171b0154e00702df6333de] (1) The right of appeal under this Schedule does not arise until there is no further possibility of an appeal against—
 
 - (a) the decision to quash the notice, extension, revival or measures, or
 - (b) any decision on an appeal made against that decision.
 
 (2) In determining whether there is no further possibility of an appeal against a decision of the kind mentioned in sub-paragraph (1), any power to extend the time for giving notice of application for leave to appeal, or for applying for leave to appeal, must be ignored.
 
-**4.**[^key-5381a903073d49be0ede00383e09bbab][^key-bfaa8261095e16c5553e22cf2bb8df0b] (1) On an appeal under this Schedule to any court, that court must allow the appeal and quash the conviction.
+**4.**[^c-5381a903073d49be0ede00383e09bbab][^c-bfaa8261095e16c5553e22cf2bb8df0b] (1) On an appeal under this Schedule to any court, that court must allow the appeal and quash the conviction.
 
 (2) An appeal under this Schedule to the Court of Appeal against a conviction on indictment in England and Wales or Northern Ireland—
 
@@ -81,18 +81,18 @@ Section 51
 
 ## Annotations
 
-[^key-6b60ad7b149c60799c7a759ddd680fa8]: Commencement: Sch. 9 para. 1 not in force at Royal Assent, see 100(1)
+[^c-6b60ad7b149c60799c7a759ddd680fa8]: Commencement: Sch. 9 para. 1 not in force at Royal Assent, see 100(1)
 
-[^key-c2f9202cb1f5b7ced64d1ca9d7b0e2b5]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-c2f9202cb1f5b7ced64d1ca9d7b0e2b5]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-9035b189817071e42152245d6ac48091]: Commencement: Sch. 9 para. 2 not in force at Royal Assent, see 100(1)
+[^c-9035b189817071e42152245d6ac48091]: Commencement: Sch. 9 para. 2 not in force at Royal Assent, see 100(1)
 
-[^key-26ab60432a4aedf651f59a93c98f0a31]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-26ab60432a4aedf651f59a93c98f0a31]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-140a33863e722412db1ada3f01b00314]: Commencement: Sch. 9 para. 3 not in force at Royal Assent, see 100(1)
+[^c-140a33863e722412db1ada3f01b00314]: Commencement: Sch. 9 para. 3 not in force at Royal Assent, see 100(1)
 
-[^key-9fc459086e171b0154e00702df6333de]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-9fc459086e171b0154e00702df6333de]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-5381a903073d49be0ede00383e09bbab]: Commencement: Sch. 9 para. 4 not in force at Royal Assent, see 100(1)
+[^c-5381a903073d49be0ede00383e09bbab]: Commencement: Sch. 9 para. 4 not in force at Royal Assent, see 100(1)
 
-[^key-bfaa8261095e16c5553e22cf2bb8df0b]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/4) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-bfaa8261095e16c5553e22cf2bb8df0b]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/4) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

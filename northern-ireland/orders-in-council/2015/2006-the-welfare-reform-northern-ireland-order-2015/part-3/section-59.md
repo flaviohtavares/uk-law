@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Condition relating to youth[^key-08f32e2589681b90d07b7c88de9d3b14]
+## 59. Condition relating to youth[^c-08f32e2589681b90d07b7c88de9d3b14]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In section 1 of the Welfare Reform Act (Northern Ireland) 2007 (employment and s
 
 ## Annotations
 
-[^key-08f32e2589681b90d07b7c88de9d3b14]: Commencement: [Art. 59](https://www.legislation.gov.uk/nisi/2015/2006/article/59) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/46/article/3/2/b/ii)
+[^c-08f32e2589681b90d07b7c88de9d3b14]: Commencement: [Art. 59](https://www.legislation.gov.uk/nisi/2015/2006/article/59) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/46/article/3/2/b/ii)

@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 15(1)(a), (e) and (f), 25(1) and (3), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00002], and of all other powers enabling it in that behalf, having had regard in accordance with Article 47(3A) of the said Order to relevant advice given by the Food Standards Agency, and after consultation both as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] and in accordance with Article 47(3) and (3B) of the said Order, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-fd172c1036f0cf0af1c185f133ee2c4c]
+## 1. Citation and commencement[^c-fd172c1036f0cf0af1c185f133ee2c4c]
 
 These Regulations may be cited as the Kava-kava in Food Regulations (Northern Ireland) 2005 and shall come into operation on 11th July 2005.
 
-## 2. Interpretation[^key-9fcf328b2446618a159f0890409643c9]
+## 2. Interpretation[^c-9fcf328b2446618a159f0890409643c9]
 
 In these Regulations –
 
@@ -55,7 +55,7 @@ In these Regulations –
 - “Kava-kava” means a plant, or any part of or an extract from a plant, belonging to the species *Piper methysticum*;
 - “the Order” means the Food Safety (Northern Ireland) Order 1991.
 
-## 3. Prohibition on sale etc. of food consisting of or containing Kava-kava[^key-62cd1925579951a03d60c353e054a995]
+## 3. Prohibition on sale etc. of food consisting of or containing Kava-kava[^c-62cd1925579951a03d60c353e054a995]
 
 (1) Subject to paragraph (2), no person shall –
 
@@ -72,13 +72,13 @@ any food consisting of or containing Kava-kava.
 
 and is being, or is to be, exported to an EEA State other than the United Kingdom.
 
-## 4. Penalty and enforcement[^key-dad2cfcc8ba2e6cb0c7b46d5acb5a7b6]
+## 4. Penalty and enforcement[^c-dad2cfcc8ba2e6cb0c7b46d5acb5a7b6]
 
 (1) Any person who contravenes regulation 3 shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 (2) Each district council shall enforce and execute these Regulations within its district.
 
-## 5. Application of various provisions of the Order[^key-71ffbf35c3dc5e06d15c8b4bd46add56]
+## 5. Application of various provisions of the Order[^c-71ffbf35c3dc5e06d15c8b4bd46add56]
 
 (1) The following provisions of the Order shall apply for the purposes of these Regulations and any reference in them to the Order shall be construed as a reference to these Regulations –
 
@@ -95,7 +95,7 @@ and is being, or is to be, exported to an EEA State other than the United Kingdo
 
 (3) Article 8 of the Order (inspection and seizure of suspected food) shall apply for the purposes of these Regulations as if food which it was an offence to sell under them was food which failed to comply with food safety requirements.
 
-## 6. Revocation[^key-fbb1ff8924515be7a4078b25e790d5d6]
+## 6. Revocation[^c-fbb1ff8924515be7a4078b25e790d5d6]
 
 The Kava-kava in Food Regulations (Northern Ireland) 2003[^f00006] are hereby revoked.
 
@@ -125,20 +125,20 @@ The European Commission was notified of these Regulations in accordance with Art
 
 [^f00003]: Footnote: O.J. No. L31, 1.2.2002, p. 1
 
-[^key-fd172c1036f0cf0af1c185f133ee2c4c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/288/regulation/1) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/288/regulation/1)
+[^c-fd172c1036f0cf0af1c185f133ee2c4c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/288/regulation/1) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/288/regulation/1)
 
-[^key-9fcf328b2446618a159f0890409643c9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/288/regulation/2) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/288/regulation/1)
+[^c-9fcf328b2446618a159f0890409643c9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/288/regulation/2) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/288/regulation/1)
 
 [^f00004]: Footnote: O.J. No. L1, 3.1.1994, p. 3
 
 [^f00005]: Footnote: O.J. No. L1, 3.1.1994, p. 572
 
-[^key-62cd1925579951a03d60c353e054a995]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/288/regulation/3) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/288/regulation/1)
+[^c-62cd1925579951a03d60c353e054a995]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/288/regulation/3) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/288/regulation/1)
 
-[^key-dad2cfcc8ba2e6cb0c7b46d5acb5a7b6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/288/regulation/4) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/288/regulation/1)
+[^c-dad2cfcc8ba2e6cb0c7b46d5acb5a7b6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/288/regulation/4) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/288/regulation/1)
 
-[^key-71ffbf35c3dc5e06d15c8b4bd46add56]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/288/regulation/5) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/288/regulation/1)
+[^c-71ffbf35c3dc5e06d15c8b4bd46add56]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/288/regulation/5) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/288/regulation/1)
 
-[^key-fbb1ff8924515be7a4078b25e790d5d6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/288/regulation/6) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/288/regulation/1)
+[^c-fbb1ff8924515be7a4078b25e790d5d6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/288/regulation/6) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/288/regulation/1)
 
 [^f00006]: Footnote: [S.R. 2003 No. 10](https://www.legislation.gov.uk/nisr/2003/10)

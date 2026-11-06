@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20C. Reappointment of temporary judges[^key-a7fc6b38e23c58ddd722f07adaa2866a]
+## 20C. Reappointment of temporary judges[^c-a7fc6b38e23c58ddd722f07adaa2866a]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7fc6b38e23c58ddd722f07adaa2866a]: Textual amendment: Ss. 20A-20G and preceding cross-heading substituted for ss. 21-23 (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 123](https://www.legislation.gov.uk/asp/2014/18/section/123), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-a7fc6b38e23c58ddd722f07adaa2866a]: Textual amendment: Ss. 20A-20G and preceding cross-heading substituted for ss. 21-23 (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 123](https://www.legislation.gov.uk/asp/2014/18/section/123), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

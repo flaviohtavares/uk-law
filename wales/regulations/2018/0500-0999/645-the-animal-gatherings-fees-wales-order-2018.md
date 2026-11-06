@@ -47,11 +47,11 @@ Coming into force
 
 The Welsh Ministers make this Order in exercise of the powers conferred by section 84 of the Animal Health Act 1981[^f00001].
 
-## 1. Title, application and commencement[^key-2679566ade47fd58d0cf9ed50c95e3eb]
+## 1. Title, application and commencement[^c-2679566ade47fd58d0cf9ed50c95e3eb]
 
 The title of this Order is the Animal Gatherings (Fees) (Wales) Order 2018. It applies in relation to Wales and comes into force on 30 June 2018.
 
-## 2. Interpretation[^key-c573ad63c559ebec83e6992c7b16a37f]
+## 2. Interpretation[^c-c573ad63c559ebec83e6992c7b16a37f]
 
 In this Order—
 
@@ -61,10 +61,10 @@ In this Order—
   - (a) a sale, show or exhibition;
   - (b) collection for onward consignment within Great Britain;
   - (c) inspection to confirm the animals possess specific breed characteristics;
-- “collection centre” (*canolfan gasglu*) means premises[^key-05ae3472ce223fb934f33d14854467c4] where animals are collected for onward consignment within Great Britain;
+- “collection centre” (*canolfan gasglu*) means premises[^c-05ae3472ce223fb934f33d14854467c4] where animals are collected for onward consignment within Great Britain;
 - “licensed premises” (“*mangre drwyddedig*”) means premises licensed under article 5(1) of the 2010 Order.
 
-## 3. Fees payable[^key-160c443c224645a7aa03e98f261e18d6]
+## 3. Fees payable[^c-160c443c224645a7aa03e98f261e18d6]
 
 (1) The fees payable to the Welsh Ministers for the issue, amendment or renewal of a licence under the 2010 Order are to be determined in accordance with Table 1 of the Schedule.
 
@@ -83,11 +83,11 @@ Lesley Griffiths
 
 Cabinet Secretary for Energy, Planning and Rural Affairs, one of the Welsh Ministers
 
-## SCHEDULE[^key-0074a9f074716c337291c83570af77cb]
+## SCHEDULE[^c-0074a9f074716c337291c83570af77cb]
 
 Article 3
 
-Table 1[^key-facbfad8469b77ea106e67040daaf731]
+Table 1[^c-facbfad8469b77ea106e67040daaf731]
 
 Fees payable for the licensing of premises for animal sales or collection centres that are not exempt under article 3(4) or (5) of this Order
 
@@ -145,16 +145,16 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). Functions conferred on “the Ministers” under section 84 of the Animal Health Act 1981, insofar as they are exercisable in relation to Wales, were transferred to the National Assembly for Wales by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672). Those functions are now exercisable by the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-2679566ade47fd58d0cf9ed50c95e3eb]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2018/645/article/1) in force at 30.6.2018, see [art. 1](https://www.legislation.gov.uk/wsi/2018/645/article/1)
+[^c-2679566ade47fd58d0cf9ed50c95e3eb]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2018/645/article/1) in force at 30.6.2018, see [art. 1](https://www.legislation.gov.uk/wsi/2018/645/article/1)
 
-[^key-c573ad63c559ebec83e6992c7b16a37f]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2018/645/article/2) in force at 30.6.2018, see [art. 1](https://www.legislation.gov.uk/wsi/2018/645/article/1)
+[^c-c573ad63c559ebec83e6992c7b16a37f]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2018/645/article/2) in force at 30.6.2018, see [art. 1](https://www.legislation.gov.uk/wsi/2018/645/article/1)
 
 [^f00002]: Footnote: [S.I. 2010/900 (W. 93)](https://www.legislation.gov.uk/wsi/2010/900), to which there are amendments not relevant to this Order.
 
-[^key-05ae3472ce223fb934f33d14854467c4]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/wsi/2018/645/article/2) substituted (1.12.2022) by [The Animal Health (Poultry Compartments and Animal Gatherings) (Fees) (Wales) (Amendment) Order 2022 (S.I. 2022/1156)](https://www.legislation.gov.uk/wsi/2022/1156), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/1156/article/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2022/1156/article/3/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2022/1156/article/4))
+[^c-05ae3472ce223fb934f33d14854467c4]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/wsi/2018/645/article/2) substituted (1.12.2022) by [The Animal Health (Poultry Compartments and Animal Gatherings) (Fees) (Wales) (Amendment) Order 2022 (S.I. 2022/1156)](https://www.legislation.gov.uk/wsi/2022/1156), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/1156/article/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2022/1156/article/3/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2022/1156/article/4))
 
-[^key-160c443c224645a7aa03e98f261e18d6]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2018/645/article/3) in force at 30.6.2018, see [art. 1](https://www.legislation.gov.uk/wsi/2018/645/article/1)
+[^c-160c443c224645a7aa03e98f261e18d6]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2018/645/article/3) in force at 30.6.2018, see [art. 1](https://www.legislation.gov.uk/wsi/2018/645/article/1)
 
-[^key-0074a9f074716c337291c83570af77cb]: Textual amendment: Sch. substituted (1.12.2024) by [The Animal Health (Miscellaneous Fees) (Amendment and Revocation) (Wales) Order 2024 (S.I. 2024/1109)](https://www.legislation.gov.uk/wsi/2024/1109), [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/1109/article/1/2), [Sch.](https://www.legislation.gov.uk/wsi/2024/1109/schedule)
+[^c-0074a9f074716c337291c83570af77cb]: Textual amendment: Sch. substituted (1.12.2024) by [The Animal Health (Miscellaneous Fees) (Amendment and Revocation) (Wales) Order 2024 (S.I. 2024/1109)](https://www.legislation.gov.uk/wsi/2024/1109), [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/1109/article/1/2), [Sch.](https://www.legislation.gov.uk/wsi/2024/1109/schedule)
 
-[^key-facbfad8469b77ea106e67040daaf731]: Textual amendment: Sch. Table 1 substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [2](https://www.legislation.gov.uk/wsi/2025/815/article/2)
+[^c-facbfad8469b77ea106e67040daaf731]: Textual amendment: Sch. Table 1 substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [2](https://www.legislation.gov.uk/wsi/2025/815/article/2)

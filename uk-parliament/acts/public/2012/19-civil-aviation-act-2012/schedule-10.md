@@ -36,7 +36,7 @@ Section 76
 
 #### Market power determinations: designated airports
 
-**2.**[^key-5c0de0214f2cd5ccaaa331b35cf70497] (1) This paragraph applies where, immediately before the commencement day, an airport is a designated airport.
+**2.**[^c-5c0de0214f2cd5ccaaa331b35cf70497] (1) This paragraph applies where, immediately before the commencement day, an airport is a designated airport.
 
 (2) The market power test is to be treated as met on the commencement day in relation to the airport area consisting of the whole of the airport.
 
@@ -53,7 +53,7 @@ Section 76
 
 #### Exemption from prohibition for designated airports during interim period
 
-**3.**[^key-79c7cfefb0bcb55ae22d338995dbbd62] (1) This paragraph applies where, immediately before the commencement day, an airport is a designated airport.
+**3.**[^c-79c7cfefb0bcb55ae22d338995dbbd62] (1) This paragraph applies where, immediately before the commencement day, an airport is a designated airport.
 
 (2) Nothing in Chapters 1 and 3 of this Part prevents a person from requiring payment of, or recovering, charges in respect of services provided at the airport during the shorter of the following periods—
 
@@ -62,7 +62,7 @@ Section 76
 
 #### Designation and de-designation before commencement day
 
-**4.**[^key-3d4c1825f489001c7346307e1bc4978b] (1) In section 7(5) (disapplication of CAA's duty to make market power determination), the reference to a market power determination previously made by the CAA in relation to an airport area (or an area that includes all of a particular airport area) includes any of the following that are made on or after 10 November 2011—
+**4.**[^c-3d4c1825f489001c7346307e1bc4978b] (1) In section 7(5) (disapplication of CAA's duty to make market power determination), the reference to a market power determination previously made by the CAA in relation to an airport area (or an area that includes all of a particular airport area) includes any of the following that are made on or after 10 November 2011—
 
 - (a) an order designating the airport at which the area is located for the purposes of section 40 of the 1986 Act or Article 31 of the 1994 Order;
 - (b) an order revoking the designation of that airport for those purposes;
@@ -79,7 +79,7 @@ the request is to be treated on and after that day as a request to the CAA for a
 
 #### Designation and de-designation during interim period
 
-**5.**[^key-d4efc7409686e6df906ec6f53317f58e] (1) During the interim period, an order may not be made designating an airport for the purposes of section 40 of the 1986 Act or Article 31 of the 1994 Order.
+**5.**[^c-d4efc7409686e6df906ec6f53317f58e] (1) During the interim period, an order may not be made designating an airport for the purposes of section 40 of the 1986 Act or Article 31 of the 1994 Order.
 
 (2) Section 40A(1) of the 1986 Act and Article 31A(1) of the 1994 Order (duty to designate airports in specified circumstances) do not require an order designating an airport for those purposes to be made during the interim period.
 
@@ -105,7 +105,7 @@ the request is to be treated after the end of the interim period as a request to
 
 #### Modification of preceding paragraphs
 
-**6.**[^key-529cf8d1314a573032b8308b4715ee03] (1) This paragraph applies where an airport as defined in section 66 of this Act (a “2012 Act airport”) consists of an airport as defined in the 1986 Act or the 1994 Order (a “predecessor airport”) and other land, buildings and structures.
+**6.**[^c-529cf8d1314a573032b8308b4715ee03] (1) This paragraph applies where an airport as defined in section 66 of this Act (a “2012 Act airport”) consists of an airport as defined in the 1986 Act or the 1994 Order (a “predecessor airport”) and other land, buildings and structures.
 
 (2) In this paragraph “**the main operator's airport area**” means the whole of the area at the 2012 Act airport in respect of which the operator (as defined in this Act) on the commencement day is the person who was the operator (as defined in the 1986 Act or the 1994 Order) of the predecessor airport immediately before the commencement day.
 
@@ -139,72 +139,72 @@ the request is to be treated after the end of the interim period as a request to
 
 #### Great Britain
 
-**8.**[^key-811ed3101df020e963aa6a9561ac3c0d] In paragraphs 9 to 12 “**the commencement day**” means the day on which Part 1 of Schedule 8 comes into force.
+**8.**[^c-811ed3101df020e963aa6a9561ac3c0d] In paragraphs 9 to 12 “**the commencement day**” means the day on which Part 1 of Schedule 8 comes into force.
 
-**9.**[^key-241a06560148a4f007c582b3bb1b7be9] (1) This paragraph applies where, in relation to an airport, a permission to levy airport charges is in force under Part 4 of the Airports Act 1986 (economic regulation of airports) immediately before the commencement day (but see paragraph 11).
+**9.**[^c-241a06560148a4f007c582b3bb1b7be9] (1) This paragraph applies where, in relation to an airport, a permission to levy airport charges is in force under Part 4 of the Airports Act 1986 (economic regulation of airports) immediately before the commencement day (but see paragraph 11).
 
 (2) The permission has effect on and after the commencement day as if it were a certificate granted by the CAA under section 57A of that Act (statutory undertakers) (inserted by Part 1 of Schedule 8).
 
-**10.**[^key-fb29030cc70be0566d6aa7e046ac4c92] (1) This paragraph applies where, immediately before the commencement day, there subsists a pending application made by the operator of an airport in accordance with section 38 of the Airports Act 1986 for a permission to levy airport charges (but see paragraph 11).
+**10.**[^c-fb29030cc70be0566d6aa7e046ac4c92] (1) This paragraph applies where, immediately before the commencement day, there subsists a pending application made by the operator of an airport in accordance with section 38 of the Airports Act 1986 for a permission to levy airport charges (but see paragraph 11).
 
 (2) The application has effect on and after the commencement day as if it were an application for a certificate under section 57A of that Act (statutory undertakers) (inserted by Part 1 of Schedule 8).
 
 (3) Part 5 of the Airports Act 1986 (statutory undertakers) applies to the airport while the application is pending.
 
-**11.**[^key-31e35cb2b3d4b56623dcaa2eaadb2670] Paragraphs 9 and 10 do not apply where the airport is an airport mentioned in section 57A(5) of the Airports Act 1986 (airports owned by councils or transport authorities etc) (inserted by Part 1 of Schedule 8).
+**11.**[^c-31e35cb2b3d4b56623dcaa2eaadb2670] Paragraphs 9 and 10 do not apply where the airport is an airport mentioned in section 57A(5) of the Airports Act 1986 (airports owned by councils or transport authorities etc) (inserted by Part 1 of Schedule 8).
 
-**12.**[^key-d35ce6f675b04e73f824e830402fac11] Nothing in this Act affects any rights or liabilities accruing under or by virtue of Part 5 of the Airports Act 1986 (statutory undertakers) before the commencement day.
+**12.**[^c-d35ce6f675b04e73f824e830402fac11] Nothing in this Act affects any rights or liabilities accruing under or by virtue of Part 5 of the Airports Act 1986 (statutory undertakers) before the commencement day.
 
-**13.**[^key-44855852d30bab4198781e75f3839134] In paragraphs 9 to 11, “**airport**” has the same meaning as in the Airports Act 1986.
+**13.**[^c-44855852d30bab4198781e75f3839134] In paragraphs 9 to 11, “**airport**” has the same meaning as in the Airports Act 1986.
 
 #### Northern Ireland
 
-**14.**[^key-af478d0bc3d6e33bbaff875ffdd052f5] In paragraphs 15 to 17 “**the commencement day**” means the day on which Part 2 of Schedule 8 comes into force.
+**14.**[^c-af478d0bc3d6e33bbaff875ffdd052f5] In paragraphs 15 to 17 “**the commencement day**” means the day on which Part 2 of Schedule 8 comes into force.
 
-**15.**[^key-139118a05f34d3e3390428b231039f7b] (1) This paragraph applies where, in relation to an airport, a permission to levy airport charges is in force under Part 4 of the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)) (economic regulation of airports) immediately before the commencement day.
+**15.**[^c-139118a05f34d3e3390428b231039f7b] (1) This paragraph applies where, in relation to an airport, a permission to levy airport charges is in force under Part 4 of the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)) (economic regulation of airports) immediately before the commencement day.
 
 (2) The permission has effect on and after the commencement day as if it were a certificate granted by the CAA under Article 2A of that Order (statutory undertakers) (inserted by Part 2 of Schedule 8).
 
-**16.**[^key-0ba2f95ba8d85336a4ddd88b93d539d5] (1) This paragraph applies where, immediately before the commencement day, there subsists a pending application made by the operator of an airport in accordance with Article 29 of the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)) for a permission to levy airport charges.
+**16.**[^c-0ba2f95ba8d85336a4ddd88b93d539d5] (1) This paragraph applies where, immediately before the commencement day, there subsists a pending application made by the operator of an airport in accordance with Article 29 of the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)) for a permission to levy airport charges.
 
 (2) The application has effect on and after the commencement day as if it were an application for a certificate under Article 2A of that Order (regulated airports) (inserted by Part 2 of Schedule 8).
 
 (3) The airport is to be treated as a regulated airport for the purposes of the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)) while the application is pending.
 
-**17.**[^key-650f36f9e5661837b81aef5b26966632] Nothing in this Act affects any rights or liabilities accruing under or by virtue of Part 2 of the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)) (powers in relation to land exercisable in connection with airports) or Article 25 or 26 of that Order before the commencement day.
+**17.**[^c-650f36f9e5661837b81aef5b26966632] Nothing in this Act affects any rights or liabilities accruing under or by virtue of Part 2 of the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)) (powers in relation to land exercisable in connection with airports) or Article 25 or 26 of that Order before the commencement day.
 
-**18.**[^key-de98249d81a29d071c817627eccf37fb] In paragraphs 15 to 17, “**airport**” has the same meaning as in the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)).
+**18.**[^c-de98249d81a29d071c817627eccf37fb] In paragraphs 15 to 17, “**airport**” has the same meaning as in the Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1)).
 
 ## Annotations
 
-[^key-5c0de0214f2cd5ccaaa331b35cf70497]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/2) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-5c0de0214f2cd5ccaaa331b35cf70497]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/2) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-79c7cfefb0bcb55ae22d338995dbbd62]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/3) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-79c7cfefb0bcb55ae22d338995dbbd62]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/3) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-3d4c1825f489001c7346307e1bc4978b]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/4) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-3d4c1825f489001c7346307e1bc4978b]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/4) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-d4efc7409686e6df906ec6f53317f58e]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/5) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-d4efc7409686e6df906ec6f53317f58e]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/5) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-529cf8d1314a573032b8308b4715ee03]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/6) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-529cf8d1314a573032b8308b4715ee03]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/6) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-811ed3101df020e963aa6a9561ac3c0d]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/8) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-811ed3101df020e963aa6a9561ac3c0d]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/8) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-241a06560148a4f007c582b3bb1b7be9]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/9) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-241a06560148a4f007c582b3bb1b7be9]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/9) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-fb29030cc70be0566d6aa7e046ac4c92]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/10) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-fb29030cc70be0566d6aa7e046ac4c92]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/10) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-31e35cb2b3d4b56623dcaa2eaadb2670]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/11) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-31e35cb2b3d4b56623dcaa2eaadb2670]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/11) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-d35ce6f675b04e73f824e830402fac11]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-d35ce6f675b04e73f824e830402fac11]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-44855852d30bab4198781e75f3839134]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/13) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-44855852d30bab4198781e75f3839134]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/13) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-af478d0bc3d6e33bbaff875ffdd052f5]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/14) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-af478d0bc3d6e33bbaff875ffdd052f5]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/14) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-139118a05f34d3e3390428b231039f7b]: Commencement: [Sch. 10 para. 15](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/15) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-139118a05f34d3e3390428b231039f7b]: Commencement: [Sch. 10 para. 15](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/15) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-0ba2f95ba8d85336a4ddd88b93d539d5]: Commencement: [Sch. 10 para. 16](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/16) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-0ba2f95ba8d85336a4ddd88b93d539d5]: Commencement: [Sch. 10 para. 16](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/16) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-650f36f9e5661837b81aef5b26966632]: Commencement: [Sch. 10 para. 17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-650f36f9e5661837b81aef5b26966632]: Commencement: [Sch. 10 para. 17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-de98249d81a29d071c817627eccf37fb]: Commencement: [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/18) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-de98249d81a29d071c817627eccf37fb]: Commencement: [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/18) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

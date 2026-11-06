@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Disclosure of information[^key-5da6d9506f7b5802d564dc93e94777d8][^key-b353a152fd7b3d9d2863acc75bd7d190]
+## 16. Disclosure of information[^c-5da6d9506f7b5802d564dc93e94777d8][^c-b353a152fd7b3d9d2863acc75bd7d190]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5da6d9506f7b5802d564dc93e94777d8]: Commencement: S. 16 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-5da6d9506f7b5802d564dc93e94777d8]: Commencement: S. 16 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-b353a152fd7b3d9d2863acc75bd7d190]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/32/section/16) in force at 31.1.2023 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/h)
+[^c-b353a152fd7b3d9d2863acc75bd7d190]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/32/section/16) in force at 31.1.2023 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/h)

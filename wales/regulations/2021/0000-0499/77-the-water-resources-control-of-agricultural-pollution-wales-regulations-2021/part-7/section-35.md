@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Annual records relating to storage[^key-dd36c5f0fe8fa037fd390fa1defe1d2c]
+## 35. Annual records relating to storage[^c-dd36c5f0fe8fa037fd390fa1defe1d2c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd36c5f0fe8fa037fd390fa1defe1d2c]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2021/77/regulation/35) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-dd36c5f0fe8fa037fd390fa1defe1d2c]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2021/77/regulation/35) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

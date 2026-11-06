@@ -61,7 +61,7 @@ These Regulations may be cited as the Pension Schemes (Categories) Regulations 2
 - (a) established—
   - (i) for the purpose of providing benefits to, or in respect of, people with service in the employment of a participating employer, or
   - (ii) for that purpose and also for the purpose of providing benefits to, or in respect of, other people;
-- (b)[^key-3bb20d95b175de21adfba600b12362c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ; and
+- (b)[^c-3bb20d95b175de21adfba600b12362c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ; and
 - (c) the terms of which provide that each participating employer is a contributor to the scheme.
 
 (3) For the purposes of paragraph (2), “**participating employer**” means, in relation to a pension scheme, an employer who enters into arrangements (whether before or after the coming into force of these Regulations) with a view to the provision of benefits under the scheme to people with service in the employment of that employer.
@@ -80,7 +80,7 @@ and which—
 - (c) is established with the concurrence of the Treasury, by or with the approval of any Minister of the Crown or established by or with the approval of the Scottish Ministers; or
 - (d) is prescribed by regulations made by the Secretary of State and the Treasury jointly under section 1(1) of the 1993 Act as being a scheme which ought in their opinion to be treated as a public service pension scheme for the purposes of the 1993 Act.
 
-(6)[^key-d9e206e11afe6d5312788eadf389a0dc] This regulation applies to the Pilots’ National Pension Fund which is a pilots’ benefit fund established under byelaws made by the Trinity House of Deptford Strond under section 15(1)(i) of the Pilotage Act 1983.
+(6)[^c-d9e206e11afe6d5312788eadf389a0dc] This regulation applies to the Pilots’ National Pension Fund which is a pilots’ benefit fund established under byelaws made by the Trinity House of Deptford Strond under section 15(1)(i) of the Pilotage Act 1983.
 
 ## 3. Prescription of certain stakeholder pension schemes as personal pension schemes
 
@@ -131,8 +131,8 @@ A Regulatory Impact Assessment has not been prepared for this instrument as it h
 
 [^c1229970]: Marginal citation: *See* [section 185(1)](https://www.legislation.gov.uk/uksi/2005/2401/section/185/1) of the Pension Schemes Act 1993 which provides that the Secretary of State must consult such persons as he considers appropriate before making regulations for the purposes of Part 1 (among others) of that Act. By virtue of section 185(2)(e) this duty does not apply to regulations which state that they are consequential upon a specified enactment and are made before the end of the period of six months beginning with the coming into force of that enactment. Section 185(1) is amended by sections 122, 151 and 177 of, and paragraph 46 of Schedule 3, paragraph 80(a) of Schedule 5 and Part 1 of Schedule 7 to, the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26). Paragraph (e) of section 185(2) was inserted by section 151 of, and paragraph 80(b) of Schedule 5 to, the Pensions Act 1995.
 
-[^key-3bb20d95b175de21adfba600b12362c6]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/2401/regulation/2/2/b) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [26(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/26/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3bb20d95b175de21adfba600b12362c6]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/2401/regulation/2/2/b) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [26(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/26/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c1229971]: Marginal citation: [S.I. 1999/859](https://www.legislation.gov.uk/uksi/1999/859) .
 
-[^key-d9e206e11afe6d5312788eadf389a0dc]: Textual amendment: Reg. 2(6) added (E.W.S.) (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814) , [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1) , [14(2)](https://www.legislation.gov.uk/uksi/2007/814/regulation/14/2)
+[^c-d9e206e11afe6d5312788eadf389a0dc]: Textual amendment: Reg. 2(6) added (E.W.S.) (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814) , [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1) , [14(2)](https://www.legislation.gov.uk/uksi/2007/814/regulation/14/2)

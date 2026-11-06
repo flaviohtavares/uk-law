@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-d1b989e2177ca80e6ea585bc20d4dfb1]
+Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-d1b989e2177ca80e6ea585bc20d4dfb1]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into operation
 
 15th May 2001
 
-[^key-d1b989e2177ca80e6ea585bc20d4dfb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b989e2177ca80e6ea585bc20d4dfb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d1b989e2177ca80e6ea585bc20d4dfb1]
+## 1. Citation and commencement[^c-d1b989e2177ca80e6ea585bc20d4dfb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d1b989e2177ca80e6ea585bc20d4dfb1]
+## 2. Interpretation[^c-d1b989e2177ca80e6ea585bc20d4dfb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-d1b989e2177ca80e6ea585bc20d4dfb1]
+## 3. Amendment of the principal Regulations[^c-d1b989e2177ca80e6ea585bc20d4dfb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-d1b989e2177ca80e6ea585bc20d4dfb1]
+## 4. Transitional provisions[^c-d1b989e2177ca80e6ea585bc20d4dfb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1b989e2177ca80e6ea585bc20d4dfb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b989e2177ca80e6ea585bc20d4dfb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Part to be substituted for Part IIIA of Schedule 6 to the principal Regulations[^key-d1b989e2177ca80e6ea585bc20d4dfb1]
+## SCHEDULE — Part to be substituted for Part IIIA of Schedule 6 to the principal Regulations[^c-d1b989e2177ca80e6ea585bc20d4dfb1]
 
 Regulation 3(5)(*a*)
 
-> **Part III — Substances Requiring Additional Labelling Phrase[^key-d1b989e2177ca80e6ea585bc20d4dfb1]**
+> **Part III — Substances Requiring Additional Labelling Phrase[^c-d1b989e2177ca80e6ea585bc20d4dfb1]**
 >
-> **A — Category 1 and 2 Carcinogenic, Mutagenic and Toxic for Reproduction substances requiring additional labelling phrase.[^key-d1b989e2177ca80e6ea585bc20d4dfb1]**
+> **A — Category 1 and 2 Carcinogenic, Mutagenic and Toxic for Reproduction substances requiring additional labelling phrase.[^c-d1b989e2177ca80e6ea585bc20d4dfb1]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d1b989e2177ca80e6ea585bc20d4dfb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b989e2177ca80e6ea585bc20d4dfb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1b989e2177ca80e6ea585bc20d4dfb1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/168) revoked (14.11.2002) by [Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2002 (S.R. 2002/301)](https://www.legislation.gov.uk/nisr/2002/301), [regs. 1](https://www.legislation.gov.uk/nisr/2002/301/regulation/1), [18(1)](https://www.legislation.gov.uk/nisr/2002/301/regulation/18/1), [Sch. 8](https://www.legislation.gov.uk/nisr/2002/301/schedule/8)
+[^c-d1b989e2177ca80e6ea585bc20d4dfb1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/168) revoked (14.11.2002) by [Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2002 (S.R. 2002/301)](https://www.legislation.gov.uk/nisr/2002/301), [regs. 1](https://www.legislation.gov.uk/nisr/2002/301/regulation/1), [18(1)](https://www.legislation.gov.uk/nisr/2002/301/regulation/18/1), [Sch. 8](https://www.legislation.gov.uk/nisr/2002/301/schedule/8)

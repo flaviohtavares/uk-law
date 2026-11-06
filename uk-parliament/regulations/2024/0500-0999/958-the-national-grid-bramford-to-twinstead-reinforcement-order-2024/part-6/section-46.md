@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Traffic regulation[^key-015906539c731b85c09d4954746d166d]
+## 46. Traffic regulation[^c-015906539c731b85c09d4954746d166d]
 
 *Extent: E+W*
 
@@ -72,6 +72,6 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-015906539c731b85c09d4954746d166d]: Commencement: Art. 46 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-015906539c731b85c09d4954746d166d]: Commencement: Art. 46 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
 [^f00043]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16I. Funding[^key-97a72a669265812347e4b72a882ed026]
+## 16I. Funding[^c-97a72a669265812347e4b72a882ed026]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97a72a669265812347e4b72a882ed026]: Textual amendment: S. 16I inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 20](https://www.legislation.gov.uk/ukpga/2017/16/section/20), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/i)
+[^c-97a72a669265812347e4b72a882ed026]: Textual amendment: S. 16I inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 20](https://www.legislation.gov.uk/ukpga/2017/16/section/20), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/i)

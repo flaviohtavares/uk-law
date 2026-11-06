@@ -51,18 +51,18 @@ In exercise of the powers conferred on the Secretary of State by sections 94(5),
 
 (1) In these Regulations —
 
-- [^key-c9d395f5a0cf2d252364f73e3c5603a6]...
+- [^c-c9d395f5a0cf2d252364f73e3c5603a6]...
 - “**the 1998 Act**” (“***Deddf 1998***”) means the School Standards and Framework Act 1998.
-- [^key-4566f219633b938dbfd6bf6239d3e1d5]...
-- “[^key-1e3ed88c8af1f6c5a53c080e835f06b5]**the 2013 Act**” (“***Deddf 2013***”) means the Democracy and Boundary Commission Cymru etc. Act 2013;
-- “[^key-5868a036165ee0ce88a2e9435baa9489]**the admission authority**” has the same meaning as in section 88(1)(a) and (b) of the 1998 Act;
+- [^c-4566f219633b938dbfd6bf6239d3e1d5]...
+- “[^c-1e3ed88c8af1f6c5a53c080e835f06b5]**the 2013 Act**” (“***Deddf 2013***”) means the Democracy and Boundary Commission Cymru etc. Act 2013;
+- “[^c-5868a036165ee0ce88a2e9435baa9489]**the admission authority**” has the same meaning as in section 88(1)(a) and (b) of the 1998 Act;
 - “**appeal hearing**” (“***gwrandawiad apêl***”) means a hearing of an appeal for the purposes of Chapter 1 of Part 3 of the 1998 Act;
 - “**appropriate authority**”(“***awdurdod priodol***”) means the body or the bodies responsible for making the arrangements described in regulation 3;
 - “**the Commission**” (“***y Comisiwn***”) means the Democracy and Boundary Commission Cymru;
 - “**lay member**” (“***aelod lleyg***”) has the meaning given to it by paragraphs 1(4) and 2(4) of Schedule 1;
 - “**presenting officer**” (“***swyddog cyflwyno***”) means a person nominated by the appropriate authority, to make oral representations to the appeal panel in relation to the appeal;
 - “**remote access**” (“***mynediad o bell***”) means access to an appeal hearing to enable those who are not all present together at the same place to attend or participate simultaneously in the hearing by electronic means, including by live audio link and live video link;
-- “School Admissions Code” (“[^key-02693f94e3bf0b2716bc95466ae7864e]*Cod Derbyniadau Ysgol*”) means any code for school admissions issued under section 84;
+- “School Admissions Code” (“[^c-02693f94e3bf0b2716bc95466ae7864e]*Cod Derbyniadau Ysgol*”) means any code for school admissions issued under section 84;
 - [^c10789621]“**school day**” (“***diwrnod ysgol***”) has the same meaning given to it by section 579(1) of the Education Act 1996.
 
 (2) Any reference in these Regulations to—
@@ -70,7 +70,7 @@ In exercise of the powers conferred on the Secretary of State by sections 94(5),
 - (a) a numbered section is a reference to that section of the 1998 Act, unless stated otherwise;
 - (b) a teacher includes a headteacher.
 
-(3)[^key-b2b17aee3eda94c5b86e1af6ad71471e] A “**live audio link**”, in relation to a person (P) taking part in the appeal hearing, is a live telephone link or other arrangement which—
+(3)[^c-b2b17aee3eda94c5b86e1af6ad71471e] A “**live audio link**”, in relation to a person (P) taking part in the appeal hearing, is a live telephone link or other arrangement which—
 
 - (a) enables P to hear all other persons taking part in the appeal hearing who are not in the same location as P, and
 - (b) enables all other persons taking part in the appeal hearing who are not in the same location as P to hear P.
@@ -90,7 +90,7 @@ Where arrangements or joint arrangements are made by —
 - (d) a local education authority and the governing body or bodies of one or more foundation or voluntary aided schools maintained by the authority, in accordance with section 94(4) [^c10789661];
 - (e) a local education authority under section 95(2),
 
-an appeal is to be made to an appeal panel constituted in accordance with the relevant paragraph of [^key-20ed368c9f6535860e7c3497f58df621]... Schedule 1.
+an appeal is to be made to an appeal panel constituted in accordance with the relevant paragraph of [^c-20ed368c9f6535860e7c3497f58df621]... Schedule 1.
 
 ## 4. Duty to advertise for lay members
 
@@ -108,9 +108,9 @@ an appeal is to be made to an appeal panel constituted in accordance with the re
 
 ## 5. Procedure for appeals
 
-An appeal under arrangements specified in regulation 3 must be made in accordance with [^key-8b764b7d2b59e1ab36651e83f7771914]... Schedule 2.
+An appeal under arrangements specified in regulation 3 must be made in accordance with [^c-8b764b7d2b59e1ab36651e83f7771914]... Schedule 2.
 
-## 6. Relevant considerations in appeals brought under sections 94 and 95 of the 1998 Act[^key-50dfbf1e7826748c54220a8ae80b3c82]
+## 6. Relevant considerations in appeals brought under sections 94 and 95 of the 1998 Act[^c-50dfbf1e7826748c54220a8ae80b3c82]
 
 (1) In relation to an appeal made under the arrangements referred to in regulation 3(a) to (d), the matters to be taken into account by an appeal panel, in considering an appeal, must include—
 
@@ -141,7 +141,7 @@ An appeal under arrangements specified in regulation 3 must be made in accordanc
 
 (7) In this regulation, “preference” (“*hoff ddewis*”) means a preference expressed in accordance with arrangements made under section 86(1) or section 86A(1), in relation to the school year 2013-2014, and subsequent schools years.
 
-## 7. Payment of allowances[^key-30261d4c0416ba866958f0e2b2231204]
+## 7. Payment of allowances[^c-30261d4c0416ba866958f0e2b2231204]
 
 (1) This regulation applies to any member of an appeal panel constituted in accordance with any of the paragraphs of Schedule 1.
 
@@ -151,7 +151,7 @@ An appeal under arrangements specified in regulation 3 must be made in accordanc
 - (b) travel; and
 - (c) subsistence.
 
-(3) The allowances referred to in paragraph (2) are to be at the most recent rates set out for payments to members of a community and town council in a report (“the report”) by the Commission issued under Part 5A of the 2013 Act (functions relating to payments and pensions)[^key-027f066ec463d41365d26d33e5ed839d].
+(3) The allowances referred to in paragraph (2) are to be at the most recent rates set out for payments to members of a community and town council in a report (“the report”) by the Commission issued under Part 5A of the 2013 Act (functions relating to payments and pensions)[^c-027f066ec463d41365d26d33e5ed839d].
 
 (4) Any reference in the report to an approved duty is to be read as including a reference to attendance at a meeting of an appeal panel.
 
@@ -287,11 +287,11 @@ Where the arrangements are those specified in regulation 3(d), paragraph 1 of th
 
 (2) A person is not to be a member of an appeal panel for the consideration of an appeal under section 95(2) if he or she has to any extent been involved in any previous consideration of the question whether the child in question should or should not be reinstated at any school from which he or she has at any time been permanently excluded, or in any previous appeal relating to the child under section 95(2).
 
-## SCHEDULE 2 — PROCEDURE ON APPEAL[^key-a09f7b9b8e85646a68a2e06619434552]
+## SCHEDULE 2 — PROCEDURE ON APPEAL[^c-a09f7b9b8e85646a68a2e06619434552]
 
 Regulation 5
 
-### A1. Appeal hearings[^key-57c844db72093d1567f142af5c136b64]
+### A1. Appeal hearings[^c-57c844db72093d1567f142af5c136b64]
 
 (1) An admission authority may decide an appeal hearing must be held—
 
@@ -341,11 +341,11 @@ Regulation 5
 
 (5) An appeal must be by notice in writing setting out the grounds on which it is made.
 
-(6) An appeal must give the appellant an opportunity of [^key-b8f38594c7bd2101736f509babe8ff7f]... making oral representations, and allow him or her to be accompanied by a friend or to be represented.
+(6) An appeal must give the appellant an opportunity of [^c-b8f38594c7bd2101736f509babe8ff7f]... making oral representations, and allow him or her to be accompanied by a friend or to be represented.
 
 (7) An appeal must be heard in private except where the body or bodies by whom the arrangements under section 94 are made direct otherwise; but—
 
-- (a) if the panel so directs, one member of the local education authority[^key-70386d303c11fd21cd6d02f83373f420] may attend, as an observer, any hearing of an appeal by an appeal panel constituted in accordance with paragraph 1 of Schedule 1;
+- (a) if the panel so directs, one member of the local education authority[^c-70386d303c11fd21cd6d02f83373f420] may attend, as an observer, any hearing of an appeal by an appeal panel constituted in accordance with paragraph 1 of Schedule 1;
 - (b) if the panel so directs, one member of the governing body of the school in question may attend, as an observer, any hearing of an appeal by an appeal panel constituted in accordance with paragraph 1 or 2 of Schedule 1 (or in accordance with paragraph 2 as it applies by virtue of paragraph 3 of that Schedule); and
 - (c) if the panel so directs, any person may attend a hearing of an appeal for the following purposes—
   - (i) training; or
@@ -386,7 +386,7 @@ Regulation 5
 (6) On an appeal the panel must allow—
 
 - (a) the local education authority and the governing body to make written representations;
-- (b) an officer of the authority nominated by the authority, and a governor nominated by the governing body, to [^key-31037e4d753d0be94b521c6e73738bed]... make oral representations; and
+- (b) an officer of the authority nominated by the authority, and a governor nominated by the governing body, to [^c-31037e4d753d0be94b521c6e73738bed]... make oral representations; and
 - (c) the governing body to be represented.
 
 (7) Appeals must be heard in private except when the local education authority direct otherwise; but—
@@ -459,19 +459,19 @@ Regulation 8 imposes a duty on the local education authority or governing body r
 
 [^c10789601]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53), amended by paragraph 22 of Schedule 21 to the Education Act 2002.
 
-[^key-c9d395f5a0cf2d252364f73e3c5603a6]: Textual amendment: Words in reg. 2(1) revoked (1.1.2014) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2013 (S.I. 2013/2535)](https://www.legislation.gov.uk/wsi/2013/2535), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/2/2/a)
+[^c-c9d395f5a0cf2d252364f73e3c5603a6]: Textual amendment: Words in reg. 2(1) revoked (1.1.2014) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2013 (S.I. 2013/2535)](https://www.legislation.gov.uk/wsi/2013/2535), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/2/2/a)
 
-[^key-4566f219633b938dbfd6bf6239d3e1d5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/2/1) omitted (1.4.2026) by virtue of [The Elections and Elected Bodies (Wales) Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/286)](https://www.legislation.gov.uk/wsi/2025/286), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/286/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/wsi/2025/286/regulation/5/2/a)
+[^c-4566f219633b938dbfd6bf6239d3e1d5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/2/1) omitted (1.4.2026) by virtue of [The Elections and Elected Bodies (Wales) Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/286)](https://www.legislation.gov.uk/wsi/2025/286), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/286/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/wsi/2025/286/regulation/5/2/a)
 
-[^key-1e3ed88c8af1f6c5a53c080e835f06b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/2/1) inserted (1.4.2026) by [The Elections and Elected Bodies (Wales) Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/286)](https://www.legislation.gov.uk/wsi/2025/286), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/286/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/wsi/2025/286/regulation/5/2/b)
+[^c-1e3ed88c8af1f6c5a53c080e835f06b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/2/1) inserted (1.4.2026) by [The Elections and Elected Bodies (Wales) Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/286)](https://www.legislation.gov.uk/wsi/2025/286), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/286/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/wsi/2025/286/regulation/5/2/b)
 
-[^key-5868a036165ee0ce88a2e9435baa9489]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/2/1) inserted (3.5.2023) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2023/420/regulation/3/2/a)
+[^c-5868a036165ee0ce88a2e9435baa9489]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/2/1) inserted (3.5.2023) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2023/420/regulation/3/2/a)
 
-[^key-02693f94e3bf0b2716bc95466ae7864e]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2013 (S.I. 2013/2535)](https://www.legislation.gov.uk/wsi/2013/2535), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/2/2/b)
+[^c-02693f94e3bf0b2716bc95466ae7864e]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2013 (S.I. 2013/2535)](https://www.legislation.gov.uk/wsi/2013/2535), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/2/2/b)
 
 [^c10789621]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-b2b17aee3eda94c5b86e1af6ad71471e]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/2/3)[(4)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/2/4) inserted (3.5.2023) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2023/420/regulation/3/2/b)
+[^c-b2b17aee3eda94c5b86e1af6ad71471e]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/2/3)[(4)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/2/4) inserted (3.5.2023) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2023/420/regulation/3/2/b)
 
 [^c10789631]: Marginal citation: Section 94(1A) was inserted by section 51 of, and paragraph 8(1) and (2) of Schedule 4 to, the Education Act 2002.
 
@@ -481,15 +481,15 @@ Regulation 8 imposes a duty on the local education authority or governing body r
 
 [^c10789661]: Marginal citation: Section 94(4) was amended by section 51 of, and paragraph 8(1) and (5) of Schedule 4 to, the Education Act 2002.
 
-[^key-20ed368c9f6535860e7c3497f58df621]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2005/1398/regulation/3) omitted (28.6.2024) by virtue of [The Education (Co-ordination of School Admission Arrangements and Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/698)](https://www.legislation.gov.uk/wsi/2024/698), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2), [8(a)](https://www.legislation.gov.uk/wsi/2024/698/regulation/8/a)
+[^c-20ed368c9f6535860e7c3497f58df621]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2005/1398/regulation/3) omitted (28.6.2024) by virtue of [The Education (Co-ordination of School Admission Arrangements and Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/698)](https://www.legislation.gov.uk/wsi/2024/698), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2), [8(a)](https://www.legislation.gov.uk/wsi/2024/698/regulation/8/a)
 
-[^key-8b764b7d2b59e1ab36651e83f7771914]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/wsi/2005/1398/regulation/5) omitted (28.6.2024) by virtue of [The Education (Co-ordination of School Admission Arrangements and Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/698)](https://www.legislation.gov.uk/wsi/2024/698), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2), [8(b)](https://www.legislation.gov.uk/wsi/2024/698/regulation/8/b)
+[^c-8b764b7d2b59e1ab36651e83f7771914]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/wsi/2005/1398/regulation/5) omitted (28.6.2024) by virtue of [The Education (Co-ordination of School Admission Arrangements and Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/698)](https://www.legislation.gov.uk/wsi/2024/698), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2), [8(b)](https://www.legislation.gov.uk/wsi/2024/698/regulation/8/b)
 
-[^key-50dfbf1e7826748c54220a8ae80b3c82]: Textual amendment: Reg. 6 substituted (1.1.2014) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2013 (S.I. 2013/2535)](https://www.legislation.gov.uk/wsi/2013/2535), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/2/3)
+[^c-50dfbf1e7826748c54220a8ae80b3c82]: Textual amendment: Reg. 6 substituted (1.1.2014) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2013 (S.I. 2013/2535)](https://www.legislation.gov.uk/wsi/2013/2535), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/2/3)
 
-[^key-30261d4c0416ba866958f0e2b2231204]: Textual amendment: Reg. 7 substituted (1.1.2014) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2013 (S.I. 2013/2535)](https://www.legislation.gov.uk/wsi/2013/2535), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/1/1), [2(4)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/2/4)
+[^c-30261d4c0416ba866958f0e2b2231204]: Textual amendment: Reg. 7 substituted (1.1.2014) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2013 (S.I. 2013/2535)](https://www.legislation.gov.uk/wsi/2013/2535), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/1/1), [2(4)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/2/4)
 
-[^key-027f066ec463d41365d26d33e5ed839d]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/7/3) substituted (1.4.2026) by [The Elections and Elected Bodies (Wales) Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/286)](https://www.legislation.gov.uk/wsi/2025/286), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/286/regulation/1/3), [5(3)](https://www.legislation.gov.uk/wsi/2025/286/regulation/5/3)
+[^c-027f066ec463d41365d26d33e5ed839d]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/7/3) substituted (1.4.2026) by [The Elections and Elected Bodies (Wales) Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/286)](https://www.legislation.gov.uk/wsi/2025/286), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/286/regulation/1/3), [5(3)](https://www.legislation.gov.uk/wsi/2025/286/regulation/5/3)
 
 [^M_F_761011e1-49d1-4d09-a0cd-131e2cb4aea5]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2005/1398/regulation/9) expiry of earlier inserting provision [S.I. 2020/479](https://www.legislation.gov.uk/uksi/2020/479), [reg. 9](https://www.legislation.gov.uk/uksi/2020/479/regulation/9) (30.9.2022) by [The Education (Admission Appeals Arrangements) (Wales) (Coronavirus) (Amendment) Regulations 2020 (revoked) 2020 (S.I. 2020/479)](https://www.legislation.gov.uk/uksi/2020/479), [reg. 2](https://www.legislation.gov.uk/uksi/2020/479/regulation/2) (as amended by [S.I. 2021/996](https://www.legislation.gov.uk/uksi/2021/996), [regs. 1](https://www.legislation.gov.uk/uksi/2021/996/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/996/regulation/2/3))
 
@@ -497,14 +497,14 @@ Regulation 8 imposes a duty on the local education authority or governing body r
 
 [^M_F_3d3f7d1e-8f07-49c5-b1d9-2b81bff3bf55]: Textual amendment: [Sch. 1 para. A1](https://www.legislation.gov.uk/wsi/2005/1398/schedule/1/paragraph/A1) expiry of earlier inserting provision [S.I. 2020/479](https://www.legislation.gov.uk/uksi/2020/479), [reg. 10](https://www.legislation.gov.uk/uksi/2020/479/regulation/10) (30.9.2022) by [The Education (Admission Appeals Arrangements) (Wales) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/479)](https://www.legislation.gov.uk/uksi/2020/479), [reg. 2](https://www.legislation.gov.uk/uksi/2020/479/regulation/2) (as amended by [S.I. 2021/996](https://www.legislation.gov.uk/uksi/2021/996), [regs. 1](https://www.legislation.gov.uk/uksi/2021/996/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/996/regulation/2/3))
 
-[^key-a09f7b9b8e85646a68a2e06619434552]: Textual amendment: Sch. 2 substituted (22.4.2009) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2009 (S.I. 2009/823)](https://www.legislation.gov.uk/uksi/2009/823), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/823/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/823/regulation/2/3)
+[^c-a09f7b9b8e85646a68a2e06619434552]: Textual amendment: Sch. 2 substituted (22.4.2009) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2009 (S.I. 2009/823)](https://www.legislation.gov.uk/uksi/2009/823), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/823/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/823/regulation/2/3)
 
-[^key-57c844db72093d1567f142af5c136b64]: Textual amendment: [Sch. 2 para. A1](https://www.legislation.gov.uk/wsi/2005/1398/schedule/2/paragraph/A1) inserted (3.5.2023) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/wsi/2023/420/regulation/3/5/a)
+[^c-57c844db72093d1567f142af5c136b64]: Textual amendment: [Sch. 2 para. A1](https://www.legislation.gov.uk/wsi/2005/1398/schedule/2/paragraph/A1) inserted (3.5.2023) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/wsi/2023/420/regulation/3/5/a)
 
-[^key-b8f38594c7bd2101736f509babe8ff7f]: Textual amendment: Words in [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/wsi/2005/1398/schedule/2/paragraph/1/6) omitted (3.5.2023) by virtue of [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/wsi/2023/420/regulation/3/5/b)
+[^c-b8f38594c7bd2101736f509babe8ff7f]: Textual amendment: Words in [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/wsi/2005/1398/schedule/2/paragraph/1/6) omitted (3.5.2023) by virtue of [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/wsi/2023/420/regulation/3/5/b)
 
-[^key-70386d303c11fd21cd6d02f83373f420]: Textual amendment: Words in Sch. 2 substituted (15.7.2009) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment No. 2) Regulations 2009 (S.I. 2009/1500)](https://www.legislation.gov.uk/uksi/2009/1500), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1500/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1500/regulation/2/2)
+[^c-70386d303c11fd21cd6d02f83373f420]: Textual amendment: Words in Sch. 2 substituted (15.7.2009) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment No. 2) Regulations 2009 (S.I. 2009/1500)](https://www.legislation.gov.uk/uksi/2009/1500), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1500/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1500/regulation/2/2)
 
-[^key-31037e4d753d0be94b521c6e73738bed]: Textual amendment: Words in [Sch. 2 para. 2(6)(b)](https://www.legislation.gov.uk/wsi/2005/1398/schedule/2/paragraph/2/6/b) omitted (3.5.2023) by virtue of [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/wsi/2023/420/regulation/3/5/c)
+[^c-31037e4d753d0be94b521c6e73738bed]: Textual amendment: Words in [Sch. 2 para. 2(6)(b)](https://www.legislation.gov.uk/wsi/2005/1398/schedule/2/paragraph/2/6/b) omitted (3.5.2023) by virtue of [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/wsi/2023/420/regulation/3/5/c)
 
 [^M_F_7c2d78a2-973e-4891-aa7d-c7ba3510c838]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2005/1398/schedule/3) expiry of earlier inserting provision [S.I. 2020/479](https://www.legislation.gov.uk/uksi/2020/479), [reg. 12](https://www.legislation.gov.uk/uksi/2020/479/regulation/12) (30.9.2022) by [The Education (Admission Appeals Arrangements) (Wales) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/479)](https://www.legislation.gov.uk/uksi/2020/479), [reg. 2](https://www.legislation.gov.uk/uksi/2020/479/regulation/2) (as amended by [S.I. 2021/996](https://www.legislation.gov.uk/uksi/2021/996), [regs. 1](https://www.legislation.gov.uk/uksi/2021/996/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/996/regulation/2/3))

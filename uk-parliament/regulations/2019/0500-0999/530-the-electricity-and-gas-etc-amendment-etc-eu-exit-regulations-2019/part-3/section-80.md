@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. The Gas (Applications for Licences and Extensions and Restrictions of Licences) Regulations 2010[^key-59fddd1ef2b9361c0453878936e547f1]
+## 80. The Gas (Applications for Licences and Extensions and Restrictions of Licences) Regulations 2010[^c-59fddd1ef2b9361c0453878936e547f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Gas (Applications for Licences and Extensions and Restrictions of Licence
 
 ## Annotations
 
-[^key-59fddd1ef2b9361c0453878936e547f1]: Commencement: Reg. 80 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-59fddd1ef2b9361c0453878936e547f1]: Commencement: Reg. 80 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23650481]: Marginal citation: [S.I. 2010/2155](https://www.legislation.gov.uk/uksi/2010/2155).

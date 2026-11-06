@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Insertion of Schedule 2A[^key-b9f2b5e02ff4fe2dc627d90519e727b6]
+## SCHEDULE 1 — Insertion of Schedule 2A[^c-b9f2b5e02ff4fe2dc627d90519e727b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -153,4 +153,4 @@ After Schedule 2 insert—
 
 ## Annotations
 
-[^key-b9f2b5e02ff4fe2dc627d90519e727b6]: Commencement: Sch. 1 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-b9f2b5e02ff4fe2dc627d90519e727b6]: Commencement: Sch. 1 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

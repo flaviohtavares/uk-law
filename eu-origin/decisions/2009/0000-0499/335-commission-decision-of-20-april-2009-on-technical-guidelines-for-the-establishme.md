@@ -35,7 +35,7 @@ on technical guidelines for the establishment of the financial guarantee in acco
 
 (2009/335/EC)
 
-[^key-28a9ce0bc9685bab649d08cc3fbecc57]
+[^c-28a9ce0bc9685bab649d08cc3fbecc57]
 
 THE COMMISSION OF THE EUROPEAN COMMUNITIES,
 
@@ -55,7 +55,7 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** 1. [^key-2d71dfed272d7e2964f0923005490348]... Competent authorities shall base the calculation of the financial guarantee [^key-27d6dbad3b6da012f29387cfd522d18b]... on the following:
+**Article 1.** 1. [^c-2d71dfed272d7e2964f0923005490348]... Competent authorities shall base the calculation of the financial guarantee [^c-27d6dbad3b6da012f29387cfd522d18b]... on the following:
 
 - (a) the likely impacts on the environment and on human health of the waste facility;
 - (b) the definition of the rehabilitation including the after use of the waste facility;
@@ -67,7 +67,7 @@ HAS ADOPTED THIS DECISION:
 
 2. The assessment referred to in point (g) shall be performed by independent and suitably qualified third parties and shall take into account the possibility of unplanned or premature closure.
 
-(3.)[^key-5d5968aab3bcedd0eafb907b812ecdca] In paragraph 1—
+(3.)[^c-5d5968aab3bcedd0eafb907b812ecdca] In paragraph 1—
 
 - (a) in so far as it extends to England and Wales—
   - (i) “financial guarantee” means the financial guarantee referred to in Article 14 of [Directive 2006/21/EC](https://www.legislation.gov.uk/eudr/2006/0021), as it applies by virtue of paragraph 7(j) of Schedule 20 to the Environmental Permitting (England and Wales) Regulations 2016 (“the 2016 Regulations”);
@@ -77,7 +77,7 @@ HAS ADOPTED THIS DECISION:
 - (b) in so far as it extends to Scotland, “financial guarantee”, “**rehabilitation**”, “**treatment**” and “**waste facility**” have the meanings given in regulation 2(1) of the Management of Extractive Waste (Scotland) Regulations 2010;
 - (c) in so far as it extends to Northern Ireland, “financial guarantee”, “**rehabilitation**”, “**treatment**” and “**waste facility**” have the meanings given in regulation 2(2) of the Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2015.
 
-**Article 2.**[^key-10b4572efbfa15fecb187dee5cb0adab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-10b4572efbfa15fecb187dee5cb0adab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 20 April 2009.
 
@@ -89,14 +89,14 @@ Stavros Dimas
 
 ## Annotations
 
-[^key-28a9ce0bc9685bab649d08cc3fbecc57]: Modification: Decision: power to modify conferred (26.2.2022) by [The Waste and Agriculture (Legislative Functions) Regulations 2022 (S.I. 2022/190)](https://www.legislation.gov.uk/uksi/2022/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1), [10(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/10/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2022/190/regulation/10/2/a)
+[^c-28a9ce0bc9685bab649d08cc3fbecc57]: Modification: Decision: power to modify conferred (26.2.2022) by [The Waste and Agriculture (Legislative Functions) Regulations 2022 (S.I. 2022/190)](https://www.legislation.gov.uk/uksi/2022/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1), [10(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/10/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2022/190/regulation/10/2/a)
 
 [^f00001]: Footnote: [OJ L 102, 11.4.2006, p. 15](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.102.01.0015.01.ENG).
 
-[^key-2d71dfed272d7e2964f0923005490348]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2009/335/article/1/1) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [17(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/620/regulation/17/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d71dfed272d7e2964f0923005490348]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2009/335/article/1/1) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [17(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/620/regulation/17/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-27d6dbad3b6da012f29387cfd522d18b]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2009/335/article/1/1) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [17(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/620/regulation/17/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-27d6dbad3b6da012f29387cfd522d18b]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2009/335/article/1/1) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [17(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/620/regulation/17/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d5968aab3bcedd0eafb907b812ecdca]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/eudn/2009/335/article/1/3) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [17(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/17/2/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 13(14)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/13/14/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d5968aab3bcedd0eafb907b812ecdca]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/eudn/2009/335/article/1/3) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [17(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/17/2/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 13(14)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/13/14/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-10b4572efbfa15fecb187dee5cb0adab]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2009/335/article/2) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [17(4)](https://www.legislation.gov.uk/uksi/2019/620/regulation/17/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-10b4572efbfa15fecb187dee5cb0adab]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2009/335/article/2) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [17(4)](https://www.legislation.gov.uk/uksi/2019/620/regulation/17/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

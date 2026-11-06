@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Regulations under section 18: further provision[^key-3b2b87411af7bf5d127168467e6bd4fa]
+## 18A. Regulations under section 18: further provision[^c-3b2b87411af7bf5d127168467e6bd4fa]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b2b87411af7bf5d127168467e6bd4fa]: Textual amendment: Ss. 18, 18A substituted for s. 18 (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/28/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-3b2b87411af7bf5d127168467e6bd4fa]: Textual amendment: Ss. 18, 18A substituted for s. 18 (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/28/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

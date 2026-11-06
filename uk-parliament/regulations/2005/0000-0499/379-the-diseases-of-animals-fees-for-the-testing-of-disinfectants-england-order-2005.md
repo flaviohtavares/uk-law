@@ -50,15 +50,15 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred upon her by section 84(1) of the Animal Health Act 1981[^f00001], and with the approval of the Treasury, makes the following Order:
 
-## 1. Title, commencement and application[^key-0275b6318f23eeeb1f12758a56b23654]
+## 1. Title, commencement and application[^c-0275b6318f23eeeb1f12758a56b23654]
 
 This Order may be cited as the Diseases of Animals (Fees for the Testing of Disinfectants) (England) Order 2005, comes into force on 1st April 2005 and applies to England only.
 
-## 2. Fees for the testing of disinfectants[^key-3f880fa51c3071aa5fe7d5c275841832]
+## 2. Fees for the testing of disinfectants[^c-3f880fa51c3071aa5fe7d5c275841832]
 
 A person who submits a disinfectant for testing under article 7 of the Diseases of Animals (Approved Disinfectants) Order 1978[^f00002] shall, when he submits the disinfectant for testing, pay to the Secretary of State the fees set out in the Schedule to this Order.
 
-## 3. Revocation[^key-985f44dcadef48d0f12e5bd1929f6cf8]
+## 3. Revocation[^c-985f44dcadef48d0f12e5bd1929f6cf8]
 
 The Diseases of Animals (Fees for the Testing of Disinfectants) Order 1991[^f00003] is revoked insofar as it applies to England.
 
@@ -80,7 +80,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 22nd February 2005
 
-## SCHEDULE — FEES PAYABLE IN RESPECT OF DISINFECTANTS SUBMITTED FOR TESTING[^key-bf381650e974027036d49c774453615d]
+## SCHEDULE — FEES PAYABLE IN RESPECT OF DISINFECTANTS SUBMITTED FOR TESTING[^c-bf381650e974027036d49c774453615d]
 
 Article 2
 
@@ -111,17 +111,17 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22); see section 86(1) for definitions of “the Minister” and “the Ministers”. Functions of “the Ministers”, so far as exercisable in relation to England, were transferred to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 ([S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)) and to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
-[^key-0275b6318f23eeeb1f12758a56b23654]: Commencement: Art. 1 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/379/article/1)
+[^c-0275b6318f23eeeb1f12758a56b23654]: Commencement: Art. 1 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/379/article/1)
 
-[^key-3f880fa51c3071aa5fe7d5c275841832]: Commencement: Art. 2 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/379/article/1)
+[^c-3f880fa51c3071aa5fe7d5c275841832]: Commencement: Art. 2 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/379/article/1)
 
 [^f00002]: Footnote: [S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32), as amended by [S.I. 1994/3141](https://www.legislation.gov.uk/uksi/1994/3141).
 
-[^key-985f44dcadef48d0f12e5bd1929f6cf8]: Commencement: Art. 3 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/379/article/1)
+[^c-985f44dcadef48d0f12e5bd1929f6cf8]: Commencement: Art. 3 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/379/article/1)
 
 [^f00003]: Footnote: [S.I. 1991/1168](https://www.legislation.gov.uk/uksi/1991/1168), as amended by [S.I. 1994/3141](https://www.legislation.gov.uk/uksi/1994/3141).
 
-[^key-bf381650e974027036d49c774453615d]: Commencement: Sch. in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/379/article/1)
+[^c-bf381650e974027036d49c774453615d]: Commencement: Sch. in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/379/article/1)
 
 [^f00004]: Footnote: [S.I. 1928/133](https://www.legislation.gov.uk/uksi/1928/133) and [S.I. 1938/1434](https://www.legislation.gov.uk/uksi/1938/1434), referred to in article 2(1) of [S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32), were revoked and replaced by the Foot-and-Mouth Disease Order 1983 ([S.I. 1983/1950](https://www.legislation.gov.uk/uksi/1983/1950)).
 

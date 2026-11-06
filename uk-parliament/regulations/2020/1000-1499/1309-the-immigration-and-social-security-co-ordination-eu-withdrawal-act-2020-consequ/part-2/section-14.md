@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Amendment of the Marriage (Northern Ireland) Order 2003[^key-7224256d249d95781d019b4ee018c2ab]
+## 14. Amendment of the Marriage (Northern Ireland) Order 2003[^c-7224256d249d95781d019b4ee018c2ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7224256d249d95781d019b4ee018c2ab]: Commencement: Reg. 14 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
+[^c-7224256d249d95781d019b4ee018c2ab]: Commencement: Reg. 14 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
 
 [^c24398561]: Marginal citation: [S.I. 2003/413 (N.I. 3)](https://www.legislation.gov.uk/nisi/2003/413). The definition of “relevant national” was inserted by [S.I. 2015/395](https://www.legislation.gov.uk/uksi/2015/395) and amended by [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745).

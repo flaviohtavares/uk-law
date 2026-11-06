@@ -47,31 +47,31 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers conferred on the Secretary of State by section 122(1) of, and paragraph 6B(1)(a) of Schedule 26 to, the School Standards and Framework Act 1998[^f00001], and in exercise of the powers conferred on the National Assembly for Wales by section 77(2) of the Learning and Skills Act 2000[^f00002], and by sections 28(1)[^f00003], 50(4)[^f00004], 55(4)[^f00005] and 56(3)[^f00006] of the Education Act 2005[^f00007], and now exercisable by them make the following Regulations:
 
-## 1. Title and commencement[^key-398b0a516ab91dd75fb7ad1368a5c7e0]
+## 1. Title and commencement[^c-398b0a516ab91dd75fb7ad1368a5c7e0]
 
 (1) The title of these Regulations is the Education (Amendments Relating to the Intervals for Inspection of Education and Training) (Wales) Regulations 2020.
 
 (2) These Regulations come into force on 1 September 2020.
 
-## 2. Amendments to the Inspection of Education and Training (Wales) Regulations 2001[^key-400995dbb81fa51e8d1aa4fa0be5ca32]
+## 2. Amendments to the Inspection of Education and Training (Wales) Regulations 2001[^c-400995dbb81fa51e8d1aa4fa0be5ca32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Education (School Inspection) (Wales) Regulations 2006[^key-94179fe341aece56ed24ed2c19694cf5]
+## 3. Amendments to the Education (School Inspection) (Wales) Regulations 2006[^c-94179fe341aece56ed24ed2c19694cf5]
 
 In regulations 6(1)(b) and 14(b) of the Education (School Inspection) (Wales) Regulations 2006[^f00009]—
 
 - (a) for “a seven year” substitute “the”, and
 - (b) for “2023” substitute “2024”.
 
-## 4. Amendments to the Inspection of the Careers and Related Services (Wales) Regulations 2006[^key-5a571147af1569ec8382089713e28ef6]
+## 4. Amendments to the Inspection of the Careers and Related Services (Wales) Regulations 2006[^c-5a571147af1569ec8382089713e28ef6]
 
 In regulation 4(1) of the Inspection of the Careers and Related Services (Wales) Regulations 2006[^f00010]—
 
 - (a) for “a seven year” substitute “the”, and
 - (b) for “2023” substitute “2024”.
 
-## 5. Amendments to the Education (Inspection of Nursery Education) (Wales) Regulations 2015[^key-ac6f437e5e271e17a29731aaa8e742c0]
+## 5. Amendments to the Education (Inspection of Nursery Education) (Wales) Regulations 2015[^c-ac6f437e5e271e17a29731aaa8e742c0]
 
 In regulation 4(1)(b) of the Education (Inspection of Nursery Education) (Wales) Regulations 2015[^f00011]—
 
@@ -117,18 +117,18 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00007]: Footnote: The functions of the National Assembly for Wales under sections 28, 50, 55 and 56, so far as exercisable in relation to Wales, were transferred to the Welsh Ministers by virtue of section 162, and paragraph 30 of Schedule 11 to, the Government of Wales Act 2006.
 
-[^key-398b0a516ab91dd75fb7ad1368a5c7e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2020/37/regulation/1) in force at 1.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2)
+[^c-398b0a516ab91dd75fb7ad1368a5c7e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2020/37/regulation/1) in force at 1.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2)
 
-[^key-400995dbb81fa51e8d1aa4fa0be5ca32]: Textual amendment: Reg. 2 revoked (1.4.2026) by [The Inspection of Education and Training (Wales) Regulations 2026 (W.S.I. 2026/67)](https://www.legislation.gov.uk/wsi/2026/67), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/67/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/67/regulation/4)
+[^c-400995dbb81fa51e8d1aa4fa0be5ca32]: Textual amendment: Reg. 2 revoked (1.4.2026) by [The Inspection of Education and Training (Wales) Regulations 2026 (W.S.I. 2026/67)](https://www.legislation.gov.uk/wsi/2026/67), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/67/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/67/regulation/4)
 
-[^key-94179fe341aece56ed24ed2c19694cf5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2020/37/regulation/3) in force at 1.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2)
+[^c-94179fe341aece56ed24ed2c19694cf5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2020/37/regulation/3) in force at 1.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2006/1714 (W. 176)](https://www.legislation.gov.uk/wsi/2006/1714), amended by [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142), [S.I. 2010/1436 (W. 127)](https://www.legislation.gov.uk/wsi/2010/1436), [S.I. 2014/1212 (W. 128)](https://www.legislation.gov.uk/wsi/2014/1212), [S.I. 2016/135 (W. 65)](https://www.legislation.gov.uk/wsi/2016/135), [S.I. 2016/211 (W. 84)](https://www.legislation.gov.uk/wsi/2016/211) and [S.I. 2017/710 (W. 167)](https://www.legislation.gov.uk/wsi/2017/710).
 
-[^key-5a571147af1569ec8382089713e28ef6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2020/37/regulation/4) in force at 1.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2)
+[^c-5a571147af1569ec8382089713e28ef6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2020/37/regulation/4) in force at 1.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2006/3103 (W. 286)](https://www.legislation.gov.uk/wsi/2006/3103), amended by [S.I. 2010/1436 (W. 127)](https://www.legislation.gov.uk/wsi/2010/1436), [S.I. 2014/1212 (W. 128)](https://www.legislation.gov.uk/wsi/2014/1212) and [S.I. 2016/135 (W. 65)](https://www.legislation.gov.uk/wsi/2016/135).
 
-[^key-ac6f437e5e271e17a29731aaa8e742c0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2020/37/regulation/5) in force at 1.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2)
+[^c-ac6f437e5e271e17a29731aaa8e742c0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2020/37/regulation/5) in force at 1.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2015/1599 (W. 198)](https://www.legislation.gov.uk/wsi/2015/1599), amended by [S.I. 2016/135 (W. 65)](https://www.legislation.gov.uk/wsi/2016/135) and [S.I. 2016/211 (W. 84)](https://www.legislation.gov.uk/wsi/2016/211).

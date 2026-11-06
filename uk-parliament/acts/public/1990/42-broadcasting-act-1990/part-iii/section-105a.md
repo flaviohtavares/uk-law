@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105A. Variation of licence period following renewal[^key-f7e7a4a2079bfc51fc6af8418a5a0cf2]
+## 105A. Variation of licence period following renewal[^c-f7e7a4a2079bfc51fc6af8418a5a0cf2]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7e7a4a2079bfc51fc6af8418a5a0cf2]: Textual amendment: [S. 105A](https://www.legislation.gov.uk/ukpga/1990/42/section/105A) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/33/2), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1) (with [s. 33(4)](https://www.legislation.gov.uk/ukpga/2010/24/section/33/4))
+[^c-f7e7a4a2079bfc51fc6af8418a5a0cf2]: Textual amendment: [S. 105A](https://www.legislation.gov.uk/ukpga/1990/42/section/105A) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/33/2), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1) (with [s. 33(4)](https://www.legislation.gov.uk/ukpga/2010/24/section/33/4))

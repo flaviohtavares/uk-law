@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Carry forward of post-1 April 2017 trade loss against total profits[^key-3dae2ad9d792a6cd0460297a35321a6e]
+## 45A. Carry forward of post-1 April 2017 trade loss against total profits[^c-3dae2ad9d792a6cd0460297a35321a6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 - (a) the trade did not become small or negligible in the loss-making period,
 - (b) relief under section 37 was not unavailable for the loss by reason of —
   - (i) section 37(5), 44, 48 or 52, or
-  - (ii) section 1179BF,[^key-41f705bc7c5ffdb32ab10b7947b53fa9] 1209, 1216DA, 1217DA, 1217MA, 1217SA or 1218ZDA of CTA 2009,
+  - (ii) section 1179BF,[^c-41f705bc7c5ffdb32ab10b7947b53fa9] 1209, 1216DA, 1217DA, 1217MA, 1217SA or 1218ZDA of CTA 2009,
 - (c) relief under section 37 would not be unavailable by reason of section 44 for a loss (assuming there was one) made in the trade in the later period,
 - (d) if the company is a Solvency 2 insurance company the loss is not a shock loss (see subsections (9) and (10)), and
 - (e) the later period is not an excluded accounting period of a general insurance company.
@@ -69,8 +69,8 @@ were separate losses.
 
 ## Annotations
 
-[^key-3dae2ad9d792a6cd0460297a35321a6e]: Textual amendment: Ss. 45A-45H inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/11)
+[^c-3dae2ad9d792a6cd0460297a35321a6e]: Textual amendment: Ss. 45A-45H inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/11)
 
-[^key-41f705bc7c5ffdb32ab10b7947b53fa9]: Textual amendment: Word in [s. 45A(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2010/4/section/45A/3/b/ii) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/6/2) (with [Sch. 2 paras. 16(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/16/1), [17-25](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/17))
+[^c-41f705bc7c5ffdb32ab10b7947b53fa9]: Textual amendment: Word in [s. 45A(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2010/4/section/45A/3/b/ii) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/6/2) (with [Sch. 2 paras. 16(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/16/1), [17-25](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/17))
 
 [^M_C_fafb2abe-38db-48d7-c636-20e3541dc499]: Modification: [S. 45A(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/45A/4) applied by [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1048(4B)-(4D)](https://www.legislation.gov.uk/ukpga/2009/4/section/1048/4B) (as inserted with effect in accordance with [Sch. 4 para. 190](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/190) of the amending Act) by Finance (No. 2) Act ([2017 c. 32](https://www.legislation.gov.uk/ukpga/2017/32)), Sch. 4 para. 133(4))

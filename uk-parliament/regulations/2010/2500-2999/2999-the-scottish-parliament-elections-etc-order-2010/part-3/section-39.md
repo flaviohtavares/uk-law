@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Expenses which may be paid otherwise than by election agent[^key-088eaaec8916f732624d3b2e7c531f3c]
+## 39. Expenses which may be paid otherwise than by election agent[^c-088eaaec8916f732624d3b2e7c531f3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ and any further personal expenses incurred by the candidate shall be paid by the
 
 ## Annotations
 
-[^key-088eaaec8916f732624d3b2e7c531f3c]: Commencement: Art. 39 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-088eaaec8916f732624d3b2e7c531f3c]: Commencement: Art. 39 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

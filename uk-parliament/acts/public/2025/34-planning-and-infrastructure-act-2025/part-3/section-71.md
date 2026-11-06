@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Challenging an EDP[^key-c60f4b413e91f8a7a327d1bd92982c42][^key-dbef10cbb313e92a9360a99e77aaf268]
+## 71. Challenging an EDP[^c-c60f4b413e91f8a7a327d1bd92982c42][^c-dbef10cbb313e92a9360a99e77aaf268]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c60f4b413e91f8a7a327d1bd92982c42]: Commencement: S. 71 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-c60f4b413e91f8a7a327d1bd92982c42]: Commencement: S. 71 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-dbef10cbb313e92a9360a99e77aaf268]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2025/34/section/71) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-dbef10cbb313e92a9360a99e77aaf268]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2025/34/section/71) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

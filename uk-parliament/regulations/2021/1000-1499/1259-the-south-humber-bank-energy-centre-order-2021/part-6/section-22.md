@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Application of landlord and tenant law[^key-3ddb688283ffa3ddee477873e1dc72d8]
+## 22. Application of landlord and tenant law[^c-3ddb688283ffa3ddee477873e1dc72d8]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ so far as any such agreement relates to the terms on which any land which is the
 
 ## Annotations
 
-[^key-3ddb688283ffa3ddee477873e1dc72d8]: Commencement: Art. 22 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-3ddb688283ffa3ddee477873e1dc72d8]: Commencement: Art. 22 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)

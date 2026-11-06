@@ -48,13 +48,13 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 ## PART 1 — General
 
-### 1. Citation, commencement and application[^key-c4d6cbd1ab96f0ecbc758f55fa9c22e4]
+### 1. Citation, commencement and application[^c-c4d6cbd1ab96f0ecbc758f55fa9c22e4]
 
 (1) These Regulations may be cited as the Care Leavers (England) Regulations 2010 and come into force on 1st April 2011.
 
 (2) These Regulations apply in relation to England only.
 
-### 2. Interpretation[^key-bd60cf243650c49fc428dcb4c0dc1f38]
+### 2. Interpretation[^c-bd60cf243650c49fc428dcb4c0dc1f38]
 
 (1) In these Regulations—
 
@@ -69,7 +69,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 (2) In these Regulations, save as otherwise appears, any reference to a numbered section is a reference to that section in the 1989 Act.
 
-### 3. Relevant children[^key-1ad1de504a578c4673b5ded7c8595a2b]
+### 3. Relevant children[^c-1ad1de504a578c4673b5ded7c8595a2b]
 
 (1) For the purposes of section 23A(3), children falling within paragraph (2) are an additional category of relevant children.
 
@@ -83,17 +83,17 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 (4) For the purposes of this regulation—
 
-- (a) “detained” means detained in a remand centre, a young offender institution or a secure training centre[^f00007], or any other institution pursuant to an order of a court , but excludes remand to youth detention accommodation[^key-4dee6c074835173298a94109084816fb], and
+- (a) “detained” means detained in a remand centre, a young offender institution or a secure training centre[^f00007], or any other institution pursuant to an order of a court , but excludes remand to youth detention accommodation[^c-4dee6c074835173298a94109084816fb], and
 - (b) “hospital” has the meaning given in section 275(1) of the National Health Service Act 2006[^f00008],
-- (c)[^key-d8ec7b6637fb4d114603aa60d2cc3025] “remand to youth detention accommodation” has the meaning given in section 102(1) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
+- (c)[^c-d8ec7b6637fb4d114603aa60d2cc3025] “remand to youth detention accommodation” has the meaning given in section 102(1) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
 
 (5) Subject to paragraph (6), a child who has lived for a continuous period of six months or more (whether that period commenced before or after they ceased to be looked after) with—
 
 - (a) their parent,
 - (b) someone who is not their parent but who has parental responsibility for them, or
-- (c) where they were in care and there was a child arrangements[^key-be4b6498e9f989c7e3a8fa09a7bea23d] order in force immediately before the care order was made, a person named in the child arrangements order as a person with whom they were to live[^key-e2f13119d80f3e36a6753cf33555b242],
+- (c) where they were in care and there was a child arrangements[^c-be4b6498e9f989c7e3a8fa09a7bea23d] order in force immediately before the care order was made, a person named in the child arrangements order as a person with whom they were to live[^c-e2f13119d80f3e36a6753cf33555b242],
 
-(5A)[^key-e094400dad858e049720c46542ae0c54] For the purposes of paragraph (5), a child arrangements order is one that consists of, or includes, arrangements relating to either or both of the following—
+(5A)[^c-e094400dad858e049720c46542ae0c54] For the purposes of paragraph (5), a child arrangements order is one that consists of, or includes, arrangements relating to either or both of the following—
 
 - (i) with whom the child is to live, and
 - (ii) when the child is to live with any person.
@@ -104,7 +104,7 @@ is not a relevant child despite falling within section 23A(2).
 
 ## PART 2 — Assessments of need and pathway plans
 
-### 4. Involvement of relevant child or former relevant child[^key-65c5cf9e3f2a96f491668104d4f553b9]
+### 4. Involvement of relevant child or former relevant child[^c-65c5cf9e3f2a96f491668104d4f553b9]
 
 (1) In carrying out an assessment of needs under regulation 5, and in preparing or reviewing a pathway plan under regulation 6 or 7, the responsible authority must, unless it is not reasonably practicable—
 
@@ -121,7 +121,7 @@ and must ensure that the contents of each document are explained to the relevant
 
 (3) The responsible authority must ensure that a written record is kept of the views obtained under paragraph (1)(a).
 
-### 5. Assessment of needs[^key-8c71d8950a798b276f06b2792d614a31]
+### 5. Assessment of needs[^c-8c71d8950a798b276f06b2792d614a31]
 
 (1) The responsible authority must assess the needs of each relevant child who does not already have a pathway plan, and each former relevant child falling within section 23CA *(further assistance to pursue education or training)*, in accordance with this regulation[^f00009].
 
@@ -145,19 +145,19 @@ and must ensure that the contents of each document are explained to the relevant
   - (iii) the support available to the child from members of the child’s family and other persons,
   - (iv) the child’s financial needs,
   - (v) the extent to which the child possesses the practical and other skills necessary for independent living, and
-  - (vi) the child’s needs for care, support and accommodation, [^key-10a5e6b11fe6dfc771d8b25b7920ca10]...
+  - (vi) the child’s needs for care, support and accommodation, [^c-10a5e6b11fe6dfc771d8b25b7920ca10]...
 - (b) unless it is not reasonably practicable or appropriate to do so, seek and take into account the views of—
   - (i) the child’s parents,
   - (ii) any person who is not the child’s parent but has parental responsibility for the child,
   - (iii) any person who on a day to day basis cares for, or provides accommodation for the child,
-  - (iv) any school , 16 to 19 Academy[^key-6815303884233d1c13f5e5d2904e2a9c] or institution within the further education sector attended by the child,
+  - (iv) any school , 16 to 19 Academy[^c-6815303884233d1c13f5e5d2904e2a9c] or institution within the further education sector attended by the child,
   - (v) the local authority for the area in which the child lives where that is different from the responsible authority,
   - (vi) the designated teacher at the school where the child is a registered pupil[^f00010],
   - (vii) any person providing health care or treatment to the child,
   - (viii) any person by whom assistance by way of representation is provided to the child by virtue of arrangements made by the responsible authority under section 26A[^f00011] *(advocacy services)*,
   - (ix) the personal adviser, and
-  - (x) any other person whose views the responsible authority, or the child, consider may be relevant, and[^key-a54ec839735384d708a27fda4e40b891]
-- (c)[^key-42786d6931b272f9212a4decb2b9fbad] where the relevant child is—
+  - (x) any other person whose views the responsible authority, or the child, consider may be relevant, and[^c-a54ec839735384d708a27fda4e40b891]
+- (c)[^c-42786d6931b272f9212a4decb2b9fbad] where the relevant child is—
   - (i) a victim, or there is reason to believe they may be a victim, of trafficking in human beings within the meaning of the Council of Europe Convention on Action against Trafficking in Human Beings,
   - (ii) an unaccompanied asylum seeking child within the meaning of the Immigration Rules and has applied, or has indicated to the responsible authority an intention to apply, for asylum and has not been granted indefinite leave to remain
 
@@ -174,12 +174,12 @@ and must ensure that the contents of each document are explained to the relevant
 
 (6) In this regulation—
 
-- (aa)[^key-cc8349cb9dc975d272d8cb1ec54f77bd] “Immigration Rules” means the rules for the time being laid down by the Secretary of State as mentioned in section 3(2) of the Immigration Act 1971.
+- (aa)[^c-cc8349cb9dc975d272d8cb1ec54f77bd] “Immigration Rules” means the rules for the time being laid down by the Secretary of State as mentioned in section 3(2) of the Immigration Act 1971.
 - (a) “institution within the further education sector” has the meaning given in section 91(3) of the Further and Higher Education Act 1992[^f00012],
 - (b) “registered pupil” has the meaning given in section 434(5) of the Education Act 1996[^f00013], and
 - (c) “school” has the meaning given in section 4 of the Education Act 1996[^f00014].
 
-### 6. Pathway plans[^key-8cdf492bc70fa5709785ffd371130a56]
+### 6. Pathway plans[^c-8cdf492bc70fa5709785ffd371130a56]
 
 (1) A pathway plan prepared under section 23B(3) *(relevant children)* or 23CA(3) must be prepared as soon as possible after the assessment of needs referred to in regulation 5 is completed.
 
@@ -195,7 +195,7 @@ and must ensure that the contents of each document are explained to the relevant
 
 (4) The pathway plan must be recorded in writing.
 
-### 7. Review of pathway plans[^key-ca89dd64710793423941f5507ebfa60d]
+### 7. Review of pathway plans[^c-ca89dd64710793423941f5507ebfa60d]
 
 (1) The responsible authority must review the pathway plan of each relevant and former relevant child in accordance with this regulation[^f00015].
 
@@ -219,7 +219,7 @@ and must ensure that the contents of each document are explained to the relevant
 
 ## PART 3 — Personal advisers
 
-### 8. Functions of personal advisers[^key-d117296d8ddbdadc405ac659254e94e1]
+### 8. Functions of personal advisers[^c-d117296d8ddbdadc405ac659254e94e1]
 
 (1) A personal adviser has the following functions in relation to the relevant child or former relevant child for whom they are appointed—
 
@@ -239,11 +239,11 @@ and must ensure that the contents of each document are explained to the relevant
 
 ## PART 4 — Miscellaneous
 
-### 9. Support and accommodation[^key-9d5b942e8ed3b8b2bac5050c6027bb55]
+### 9. Support and accommodation[^c-9d5b942e8ed3b8b2bac5050c6027bb55]
 
 (1) For the purposes of section 23B(8)(c) *(other support for relevant children)*, the responsible authority must provide assistance in order to meet the relevant child’s needs in relation to education, training or employment as provided for in the pathway plan.
 
-(2) For the purposes of section 23B(10), “suitable accommodation” means accommodation which is—[^key-73ebbb3b173243d02168f9e564915bdc]
+(2) For the purposes of section 23B(10), “suitable accommodation” means accommodation which is—[^c-73ebbb3b173243d02168f9e564915bdc]
 
 - (a) in relation to accommodation in England—
   - (i) supported accommodation, as defined in regulation 2 of the Care Standards Act 2000 (Extension of the Application of Part 2 to Supported Accommodation) (England) Regulations 2022, that is provided by a supported accommodation undertaking in respect of which a person is registered under Part 2 of the Care Standards Act 2000, or where regulation 44 of the Supported Accommodation (England) Regulations 2023 applies to the person carrying on the undertaking,
@@ -272,7 +272,7 @@ and must ensure that the contents of each document are explained to the relevant
   - (i) so far as reasonably practicable, is suitable for the relevant child in the light of their needs, including any health needs and any needs arising from any disability, and
   - (ii) in respect of which the responsible authority has, so far as reasonably practicable, taken into account the relevant child’s wishes and feelings, and their education, training or employment needs.
 
-(3)[^key-cecbeada0bfc9b8db880f6b7fdca79ee] In determining whether accommodation is suitable for a relevant child, the responsible authority must have regard to—
+(3)[^c-cecbeada0bfc9b8db880f6b7fdca79ee] In determining whether accommodation is suitable for a relevant child, the responsible authority must have regard to—
 
 - (a) for the purposes of determining the suitability under paragraph (2)(d)(i), the matters set out in Schedule 2, and
 - (b) for the purposes of determining the suitability under paragraph (2)(e)(i), the matters set out in paragraph 2(a) of Schedule 2.
@@ -282,7 +282,7 @@ and must ensure that the contents of each document are explained to the relevant
 - (a) “higher education” means education provided by means of a course of a description referred to in regulations made under section 22 of the Teaching and Higher Education Act 1998[^f00016], and
 - (b) “further education” has the same meaning as in section 2(3) and (5) of the Education Act 1996[^f00017] save that for the purposes of this regulation it only includes further education which is provided on a full-time residential basis.
 
-### 10. Records[^key-2a942af6dbf399e63045e9f1a64a47d8]
+### 10. Records[^c-2a942af6dbf399e63045e9f1a64a47d8]
 
 (1) The responsible authority must establish and maintain a written case record for each relevant child and former relevant child (“the case record”).
 
@@ -301,7 +301,7 @@ and must ensure that the contents of each document are explained to the relevant
 - (a) any provision of, or made under or by virtue of, a statute under which access to such records is authorised, or
 - (b) any court order authorising access to such records.
 
-### 11. Revocation of Regulations[^key-405de5058b03989f8a8b5d702642e4b3]
+### 11. Revocation of Regulations[^c-405de5058b03989f8a8b5d702642e4b3]
 
 The Children (Leaving Care) (England) Regulations 2001 are revoked[^f00018].
 
@@ -317,33 +317,33 @@ Department for Education
 
 Regulation 6
 
-**1.**[^key-788d6734199571636e297f8223a03cd0] The nature and level of contact and personal support to be provided, and by whom, to the child or young person.
+**1.**[^c-788d6734199571636e297f8223a03cd0] The nature and level of contact and personal support to be provided, and by whom, to the child or young person.
 
-**2.**[^key-4812dbff00581f8ff158bf69d48ba2b2] A detailed plan for the education or training of the child or young person.
+**2.**[^c-4812dbff00581f8ff158bf69d48ba2b2] A detailed plan for the education or training of the child or young person.
 
-**3.**[^key-ffe6e46f8bd9afa63c34436be275a694] How the responsible authority will assist the child or young person in relation to employment or other purposeful activity or occupation.
+**3.**[^c-ffe6e46f8bd9afa63c34436be275a694] How the responsible authority will assist the child or young person in relation to employment or other purposeful activity or occupation.
 
-**4.**[^key-6f80e16b78e973c426a51732d4ca4c23] Contingency plans for action to be taken by the responsible authority should the pathway plan for any reason cease to be effective.
+**4.**[^c-6f80e16b78e973c426a51732d4ca4c23] Contingency plans for action to be taken by the responsible authority should the pathway plan for any reason cease to be effective.
 
-**5.**[^key-b437a01b8321e087e5c8aacb5ec45c2d] Details of the accommodation the child or young person is to occupy (including an assessment of its suitability in the light of the child’s or young person’s needs, and details of the considerations taken into account in assessing that suitability).
+**5.**[^c-b437a01b8321e087e5c8aacb5ec45c2d] Details of the accommodation the child or young person is to occupy (including an assessment of its suitability in the light of the child’s or young person’s needs, and details of the considerations taken into account in assessing that suitability).
 
-**6.**[^key-b3efe422ddcfb5fa0ae6508dfbc43676] The support to be provided to enable the child or young person to develop and sustain appropriate family and social relationships.
+**6.**[^c-b3efe422ddcfb5fa0ae6508dfbc43676] The support to be provided to enable the child or young person to develop and sustain appropriate family and social relationships.
 
-**7.**[^key-ebf85f5a1b0745e6ce857b112ec39079] A programme to develop the practical and other skills necessary for the child or young person to live independently.
+**7.**[^c-ebf85f5a1b0745e6ce857b112ec39079] A programme to develop the practical and other skills necessary for the child or young person to live independently.
 
-**8.**[^key-ca62b9adaa218cc482b5e85a835da36a] The financial support to be provided to the child or young person, in particular where it is to be provided to meet accommodation and maintenance needs.
+**8.**[^c-ca62b9adaa218cc482b5e85a835da36a] The financial support to be provided to the child or young person, in particular where it is to be provided to meet accommodation and maintenance needs.
 
-**9.**[^key-237f362b583061fc509b34d9e3c45caf] The health needs, including any mental health needs, of the child or young person, and how they are to be met.
+**9.**[^c-237f362b583061fc509b34d9e3c45caf] The health needs, including any mental health needs, of the child or young person, and how they are to be met.
 
-**10.**[^key-323317c25de18e49b4118c00ed0f161d] Details of the arrangements made by the authority to meet the child’s needs in relation to identity with particular regard to their religious persuasion, racial origin and cultural and linguistic background.
+**10.**[^c-323317c25de18e49b4118c00ed0f161d] Details of the arrangements made by the authority to meet the child’s needs in relation to identity with particular regard to their religious persuasion, racial origin and cultural and linguistic background.
 
-**11.**[^key-8702f0d53fb858cd04b291e1ce97e37a] Where the child falls within regulation 5(4)(c)[^key-80e7b374d194d5ab6e1dd91d2b411961], whether the child’s needs as a result of that status are being met.
+**11.**[^c-8702f0d53fb858cd04b291e1ce97e37a] Where the child falls within regulation 5(4)(c)[^c-80e7b374d194d5ab6e1dd91d2b411961], whether the child’s needs as a result of that status are being met.
 
 ## SCHEDULE 2 — Matters to be considered in determining the suitability of accommodation
 
 Regulation 9
 
-**1.**[^key-a7e2bacdd28527a21dc1ec2687599992] In respect of the accommodation, the—
+**1.**[^c-a7e2bacdd28527a21dc1ec2687599992] In respect of the accommodation, the—
 
 - (a) facilities and services provided,
 - (b) state of repair,
@@ -353,7 +353,7 @@ Regulation 9
 - (f) tenancy status, and
 - (g) the financial commitments involved for the relevant child and their affordability.
 
-**2.**[^key-b653f26dd8d7a21cab34de74378b8f00] In respect of the relevant child, their—
+**2.**[^c-b653f26dd8d7a21cab34de74378b8f00] In respect of the relevant child, their—
 
 - (a) views about the accommodation,
 - (b) understanding of their rights and responsibilities in relation to the accommodation, and
@@ -377,9 +377,9 @@ They prescribe the functions of personal advisers appointed for relevant and for
 
 [^f00001]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41). For the definition of “prescribed” see section 105(1). For the definition of “appropriate national authority” see section 30A, which was inserted by section 39 of, and paragraphs 1 and 22 of Schedule 3 to, the Children and Young Persons Act 2008 (c.23) (“the 2008 Act”). Sections 23A and 23B were inserted by section 2(1) and (4) of the Children (Leaving Care) Act [2000 (c.35)](https://www.legislation.gov.uk/ukpga/2000/35) (“the 2000 Act”); section 23A was amended by paragraph 8 of Schedule 3 to “the 2008 Act”; and section 23B(10) was amended by paragraph 9 of Schedule 3 to the 2008 Act. Sections 23D and 23E were inserted by section 3 of the 2000 Act; section 23D(2) was amended by paragraph 10 of Schedule 3 to the 2008 Act and section 23E was amended by section 22(3) to (5) of, and paragraph 11 of Schedule 3 to, the 2008 Act. Section 24B was inserted by section 4(1) of the 2000 Act and subsection (6) was amended by paragraph 13 of Schedule 3 to the 2008 Act. Section 104(4) was amended by paragraph 25(1) and (5) of Schedule 3, and Schedule 4, to the 2008 Act. Paragraph 19B of Schedule 2 was inserted by section 1 of the 2000 Act and amended by section 39 of, and paragraphs 1 and 27(1) and (3) of Schedule 3 to, the 2008 Act.
 
-[^key-c4d6cbd1ab96f0ecbc758f55fa9c22e4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-c4d6cbd1ab96f0ecbc758f55fa9c22e4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-bd60cf243650c49fc428dcb4c0dc1f38]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/2571/regulation/2) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-bd60cf243650c49fc428dcb4c0dc1f38]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/2571/regulation/2) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
 [^f00002]: Footnote: Paragraph 19C of Schedule 2 was inserted by section 1 of the 2000 Act. For the definition of “eligible child” see paragraph 19B(2) of Schedule 2 to the 1989 Act and regulation 40 of the Care Planning, Placement and Case Review (England) Regulations 2010 ([S.I. 2010/959](https://www.legislation.gov.uk/uksi/2010/959)).
 
@@ -389,43 +389,43 @@ They prescribe the functions of personal advisers appointed for relevant and for
 
 [^f00005]: Footnote: “Local authority” is defined in section 105(1) of the 1989 Act as, in relation to England, “the council of a county, a metropolitan district, a London Borough or the Common Council of the City of London”. Further, by virtue of the Isles of Scilly (Children Act 1989) Order 2010 ([S.I. 2010/1116](https://www.legislation.gov.uk/uksi/2010/1116)) any reference to a “local authority” in the 1989 Act is to be construed, in relation to the Isles of Scilly, as a reference to the Council of the Isles of Scilly.
 
-[^key-1ad1de504a578c4673b5ded7c8595a2b]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-1ad1de504a578c4673b5ded7c8595a2b]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
 [^f00006]: Footnote: For the meaning of “looked after” see section 22(1) of the 1989 Act, as amended by section 107 of, and paragraph 19 of Schedule 5 to, the Local Government Act [2000 (c.22)](https://www.legislation.gov.uk/ukpga/2000/22), section 2 of the 2000 Act and by section 116(2) of the Adoption and Children Act [2002 (c.38)](https://www.legislation.gov.uk/ukpga/2002/38).
 
 [^f00007]: Footnote: For the meanings of “remand centre”, “young offender institution” and “secure training centre” see section 43(1)(a), (aa) and (d) of the Prison Act [1952 (c. 52)](https://www.legislation.gov.uk/ukpga/1952/52). Subsection (1) was substituted by section 11 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48). Subsection (1)(aa) was inserted by paragraph 11 of Schedule 15 to the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33) and amended by section 18(3) of the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33) and by paragraph 3 of Part 2 of Schedule 26 to the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4). Subsection (1)(d) was substituted by paragraph 6 of Schedule 8 to the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37) and amended by paragraph 5(1) and (2) of Schedule 9 to the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6).
 
-[^key-4dee6c074835173298a94109084816fb]: Textual amendment: Words in reg. 3(4)(a) inserted (19.4.2013) by virtue of [The Care Planning, Placement and Case Review (England) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/706)](https://www.legislation.gov.uk/uksi/2013/706), [regs. 1](https://www.legislation.gov.uk/uksi/2013/706/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2013/706/regulation/12/2/a) (with [reg. 14](https://www.legislation.gov.uk/uksi/2013/706/regulation/14))
+[^c-4dee6c074835173298a94109084816fb]: Textual amendment: Words in reg. 3(4)(a) inserted (19.4.2013) by virtue of [The Care Planning, Placement and Case Review (England) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/706)](https://www.legislation.gov.uk/uksi/2013/706), [regs. 1](https://www.legislation.gov.uk/uksi/2013/706/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2013/706/regulation/12/2/a) (with [reg. 14](https://www.legislation.gov.uk/uksi/2013/706/regulation/14))
 
 [^f00008]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). There are amendments to section 275(1) which are not relevant to these Regulations. A “hospital” is defined as (a) any institution for the reception and treatment of persons suffering from illness, (b) any maternity home and (c) any institution for the reception and treatment of persons during convalescence or persons requiring medical rehabilitation, and includes clinics, dispensaries and out-patient departments maintained in connection with any such home or institution; “illness” is defined in that section as including any disorder or disability of the mind and any injury or disability requiring medical or dental treatment or nursing.
 
-[^key-d8ec7b6637fb4d114603aa60d2cc3025]: Textual amendment: Reg. 3(4)(c) inserted (19.4.2013) by [The Care Planning, Placement and Case Review (England) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/706)](https://www.legislation.gov.uk/uksi/2013/706), [regs. 1](https://www.legislation.gov.uk/uksi/2013/706/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2013/706/regulation/12/2/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2013/706/regulation/14))
+[^c-d8ec7b6637fb4d114603aa60d2cc3025]: Textual amendment: Reg. 3(4)(c) inserted (19.4.2013) by [The Care Planning, Placement and Case Review (England) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/706)](https://www.legislation.gov.uk/uksi/2013/706), [regs. 1](https://www.legislation.gov.uk/uksi/2013/706/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2013/706/regulation/12/2/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2013/706/regulation/14))
 
-[^key-be4b6498e9f989c7e3a8fa09a7bea23d]: Textual amendment: Words in reg. 3(5)(c) substituted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [19(1)(i)](https://www.legislation.gov.uk/uksi/2014/852/article/19/1/i)
+[^c-be4b6498e9f989c7e3a8fa09a7bea23d]: Textual amendment: Words in reg. 3(5)(c) substituted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [19(1)(i)](https://www.legislation.gov.uk/uksi/2014/852/article/19/1/i)
 
-[^key-e2f13119d80f3e36a6753cf33555b242]: Textual amendment: Words in reg. 3(5)(c) substituted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [19(1)(ii)](https://www.legislation.gov.uk/uksi/2014/852/article/19/1/ii)
+[^c-e2f13119d80f3e36a6753cf33555b242]: Textual amendment: Words in reg. 3(5)(c) substituted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [19(1)(ii)](https://www.legislation.gov.uk/uksi/2014/852/article/19/1/ii)
 
-[^key-e094400dad858e049720c46542ae0c54]: Textual amendment: Reg. 3(5A) inserted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [19(2)](https://www.legislation.gov.uk/uksi/2014/852/article/19/2)
+[^c-e094400dad858e049720c46542ae0c54]: Textual amendment: Reg. 3(5A) inserted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [19(2)](https://www.legislation.gov.uk/uksi/2014/852/article/19/2)
 
-[^key-65c5cf9e3f2a96f491668104d4f553b9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/2571/regulation/4) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-65c5cf9e3f2a96f491668104d4f553b9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/2571/regulation/4) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-8c71d8950a798b276f06b2792d614a31]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-8c71d8950a798b276f06b2792d614a31]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
 [^f00009]: Footnote: Responsible authorities are required to carry out an assessment of needs for a relevant child by section 23B(3)(a) of the 1989 Act and, for a former relevant child who falls within section 23CA of that Act, by section 23CA(3)(a).
 
-[^key-10a5e6b11fe6dfc771d8b25b7920ca10]: Textual amendment: Word in reg. 5(4)(a) omitted (1.4.2015) by virtue of [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2015/495/regulation/14/a)
+[^c-10a5e6b11fe6dfc771d8b25b7920ca10]: Textual amendment: Word in reg. 5(4)(a) omitted (1.4.2015) by virtue of [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2015/495/regulation/14/a)
 
-[^key-6815303884233d1c13f5e5d2904e2a9c]: Textual amendment: Words in reg. 5(4)(b)(iv) inserted (1.5.2012) by [The Alternative Provision Academies and 16 to 19 Academies (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/979)](https://www.legislation.gov.uk/uksi/2012/979), [art. 1(b)](https://www.legislation.gov.uk/uksi/2012/979/article/1/b), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2012/979/schedule/paragraph/30)
+[^c-6815303884233d1c13f5e5d2904e2a9c]: Textual amendment: Words in reg. 5(4)(b)(iv) inserted (1.5.2012) by [The Alternative Provision Academies and 16 to 19 Academies (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/979)](https://www.legislation.gov.uk/uksi/2012/979), [art. 1(b)](https://www.legislation.gov.uk/uksi/2012/979/article/1/b), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2012/979/schedule/paragraph/30)
 
 [^f00010]: Footnote: The “designated teacher” in the case of a maintained school means the member of staff designated by the governing body in accordance with section 20(1) of the 2008 Act. Academies, City Technology Colleges and City Colleges for the Technology of the Arts are required by their Funding Agreements to have a designated teacher. The Designated Teacher (Looked After Pupils etc.)(England) Regulations 2009 ([S.I. 2009/1538](https://www.legislation.gov.uk/uksi/2009/1538)) made under section 20(3) of the 2008 Act prescribe the qualifications and experience of the designated teacher.
 
 [^f00011]: Footnote: Section 26A was inserted by section 119 of the Adoption and Children Act 2002.
 
-[^key-a54ec839735384d708a27fda4e40b891]: Textual amendment: Word in reg. 5(4)(b) inserted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/495/regulation/14/b)
+[^c-a54ec839735384d708a27fda4e40b891]: Textual amendment: Word in reg. 5(4)(b) inserted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/495/regulation/14/b)
 
-[^key-42786d6931b272f9212a4decb2b9fbad]: Textual amendment: Reg. 5(4)(c) inserted (18.8.2014) by [The Care Planning and Care Leavers (Amendment) Regulations 2014 (S.I. 2014/1917)](https://www.legislation.gov.uk/uksi/2014/1917), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1917/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2014/1917/regulation/7/a)
+[^c-42786d6931b272f9212a4decb2b9fbad]: Textual amendment: Reg. 5(4)(c) inserted (18.8.2014) by [The Care Planning and Care Leavers (Amendment) Regulations 2014 (S.I. 2014/1917)](https://www.legislation.gov.uk/uksi/2014/1917), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1917/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2014/1917/regulation/7/a)
 
-[^key-cc8349cb9dc975d272d8cb1ec54f77bd]: Textual amendment: Reg. 5(6)(aa) inserted (18.8.2014) by [The Care Planning and Care Leavers (Amendment) Regulations 2014 (S.I. 2014/1917)](https://www.legislation.gov.uk/uksi/2014/1917), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1917/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2014/1917/regulation/7/b)
+[^c-cc8349cb9dc975d272d8cb1ec54f77bd]: Textual amendment: Reg. 5(6)(aa) inserted (18.8.2014) by [The Care Planning and Care Leavers (Amendment) Regulations 2014 (S.I. 2014/1917)](https://www.legislation.gov.uk/uksi/2014/1917), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1917/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2014/1917/regulation/7/b)
 
 [^f00012]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13). Section 91(3)(c) was inserted by paragraphs 1 and 13 of Schedule 8 to the [Apprenticeships, Skills, Children and Learning Act 2009 (c.22 )](https://www.legislation.gov.uk/ukpga/2009/22).
 
@@ -433,54 +433,54 @@ They prescribe the functions of personal advisers appointed for relevant and for
 
 [^f00014]: Footnote: That is, an educational institution, outside the further and higher education sectors, for providing primary and/or secondary education.
 
-[^key-8cdf492bc70fa5709785ffd371130a56]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/2571/regulation/6) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-8cdf492bc70fa5709785ffd371130a56]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/2571/regulation/6) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-ca89dd64710793423941f5507ebfa60d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/2571/regulation/7) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-ca89dd64710793423941f5507ebfa60d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/2571/regulation/7) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
 [^f00015]: Footnote: Relevant authorities are required by section 23E(1D) of the 1989 Act to keep pathway plans prepared for relevant children and former relevant children falling within section 23CA under regular review. They are required by section 23C(3)(b) to continue to keep pathway plans of former relevant children under regular review.
 
-[^key-d117296d8ddbdadc405ac659254e94e1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/2571/regulation/8) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-d117296d8ddbdadc405ac659254e94e1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/2571/regulation/8) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-9d5b942e8ed3b8b2bac5050c6027bb55]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/2571/regulation/9) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-9d5b942e8ed3b8b2bac5050c6027bb55]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/2571/regulation/9) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-73ebbb3b173243d02168f9e564915bdc]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/9/2) substituted (28.10.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/3), [37(2)(a)](https://www.legislation.gov.uk/uksi/2023/416/regulation/37/2/a) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-73ebbb3b173243d02168f9e564915bdc]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/9/2) substituted (28.10.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/3), [37(2)(a)](https://www.legislation.gov.uk/uksi/2023/416/regulation/37/2/a) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
 
-[^key-cecbeada0bfc9b8db880f6b7fdca79ee]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/9/3) substituted (28.10.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/3), [37(2)(b)](https://www.legislation.gov.uk/uksi/2023/416/regulation/37/2/b) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-cecbeada0bfc9b8db880f6b7fdca79ee]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/9/3) substituted (28.10.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/3), [37(2)(b)](https://www.legislation.gov.uk/uksi/2023/416/regulation/37/2/b) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
 
 [^f00016]: Footnote: [1998 c.30](https://www.legislation.gov.uk/ukpga/1998/30). Section 22(1) was amended by section 146(1) and (2) of the Learning and Skills Act [2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21); there are other amendments to section 22 which are not relevant to these Regulations.
 
 [^f00017]: Footnote: Section 2(3) was amended by Part 3 of Schedule 22 to the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-2a942af6dbf399e63045e9f1a64a47d8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/2571/regulation/10) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-2a942af6dbf399e63045e9f1a64a47d8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/2571/regulation/10) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-405de5058b03989f8a8b5d702642e4b3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/2571/regulation/11) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-405de5058b03989f8a8b5d702642e4b3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/2571/regulation/11) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2001/2874](https://www.legislation.gov.uk/uksi/2001/2874).
 
-[^key-788d6734199571636e297f8223a03cd0]: Commencement: Sch. 1 para. 1 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-788d6734199571636e297f8223a03cd0]: Commencement: Sch. 1 para. 1 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-4812dbff00581f8ff158bf69d48ba2b2]: Commencement: Sch. 1 para. 2 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-4812dbff00581f8ff158bf69d48ba2b2]: Commencement: Sch. 1 para. 2 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-ffe6e46f8bd9afa63c34436be275a694]: Commencement: Sch. 1 para. 3 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-ffe6e46f8bd9afa63c34436be275a694]: Commencement: Sch. 1 para. 3 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-6f80e16b78e973c426a51732d4ca4c23]: Commencement: Sch. 1 para. 4 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-6f80e16b78e973c426a51732d4ca4c23]: Commencement: Sch. 1 para. 4 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-b437a01b8321e087e5c8aacb5ec45c2d]: Commencement: Sch. 1 para. 5 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-b437a01b8321e087e5c8aacb5ec45c2d]: Commencement: Sch. 1 para. 5 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-b3efe422ddcfb5fa0ae6508dfbc43676]: Commencement: Sch. 1 para. 6 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-b3efe422ddcfb5fa0ae6508dfbc43676]: Commencement: Sch. 1 para. 6 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-ebf85f5a1b0745e6ce857b112ec39079]: Commencement: Sch. 1 para. 7 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-ebf85f5a1b0745e6ce857b112ec39079]: Commencement: Sch. 1 para. 7 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-ca62b9adaa218cc482b5e85a835da36a]: Commencement: Sch. 1 para. 8 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-ca62b9adaa218cc482b5e85a835da36a]: Commencement: Sch. 1 para. 8 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-237f362b583061fc509b34d9e3c45caf]: Commencement: Sch. 1 para. 9 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-237f362b583061fc509b34d9e3c45caf]: Commencement: Sch. 1 para. 9 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-323317c25de18e49b4118c00ed0f161d]: Commencement: Sch. 1 para. 10 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-323317c25de18e49b4118c00ed0f161d]: Commencement: Sch. 1 para. 10 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-8702f0d53fb858cd04b291e1ce97e37a]: Textual amendment: Sch. 1 para. 11 inserted (18.8.2014) by [The Care Planning and Care Leavers (Amendment) Regulations 2014 (S.I. 2014/1917)](https://www.legislation.gov.uk/uksi/2014/1917), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1917/regulation/1), [8](https://www.legislation.gov.uk/uksi/2014/1917/regulation/8)
+[^c-8702f0d53fb858cd04b291e1ce97e37a]: Textual amendment: Sch. 1 para. 11 inserted (18.8.2014) by [The Care Planning and Care Leavers (Amendment) Regulations 2014 (S.I. 2014/1917)](https://www.legislation.gov.uk/uksi/2014/1917), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1917/regulation/1), [8](https://www.legislation.gov.uk/uksi/2014/1917/regulation/8)
 
-[^key-80e7b374d194d5ab6e1dd91d2b411961]: Textual amendment: Words in Sch. 1 para. 11 substituted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [15](https://www.legislation.gov.uk/uksi/2015/495/regulation/15)
+[^c-80e7b374d194d5ab6e1dd91d2b411961]: Textual amendment: Words in Sch. 1 para. 11 substituted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [15](https://www.legislation.gov.uk/uksi/2015/495/regulation/15)
 
-[^key-a7e2bacdd28527a21dc1ec2687599992]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2010/2571/schedule/2/paragraph/1) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-a7e2bacdd28527a21dc1ec2687599992]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2010/2571/schedule/2/paragraph/1) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
 
-[^key-b653f26dd8d7a21cab34de74378b8f00]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2010/2571/schedule/2/paragraph/2) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)
+[^c-b653f26dd8d7a21cab34de74378b8f00]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2010/2571/schedule/2/paragraph/2) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2571/regulation/1/1)

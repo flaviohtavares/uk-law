@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 232. Further information and disclosure[^key-2462560fbf6da8ec935ef5870b8e3d9b]
+## 232. Further information and disclosure[^c-2462560fbf6da8ec935ef5870b8e3d9b]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2462560fbf6da8ec935ef5870b8e3d9b]: Commencement: Rule 232 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-2462560fbf6da8ec935ef5870b8e3d9b]: Commencement: Rule 232 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00076]: Footnote: Rule 7.60 was substituted by [S.I. 1999/1022](https://www.legislation.gov.uk/uksi/1999/1022).

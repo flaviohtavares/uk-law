@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 171. Contributions towards expenditure by local authorities[^key-a5719c8a3be2502c411990fedc380024][^key-945278e5139fe6bb0f35cb17e42730f8]
+## 171. Contributions towards expenditure by local authorities[^c-a5719c8a3be2502c411990fedc380024][^c-945278e5139fe6bb0f35cb17e42730f8]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a5719c8a3be2502c411990fedc380024]: Commencement: S. 171 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-a5719c8a3be2502c411990fedc380024]: Commencement: S. 171 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-945278e5139fe6bb0f35cb17e42730f8]: Commencement: [S. 171](https://www.legislation.gov.uk/asc/2023/3/section/171) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-945278e5139fe6bb0f35cb17e42730f8]: Commencement: [S. 171](https://www.legislation.gov.uk/asc/2023/3/section/171) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

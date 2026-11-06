@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation and commencement[^key-f7b228e03e4363fb7d3ad0a2d8f21a88]
+## 1. Citation and commencement[^c-f7b228e03e4363fb7d3ad0a2d8f21a88]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Welfare of Farmed Animals (Scotland) Regul
 
 ## Annotations
 
-[^key-f7b228e03e4363fb7d3ad0a2d8f21a88]: Commencement: Reg. 1 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)
+[^c-f7b228e03e4363fb7d3ad0a2d8f21a88]: Commencement: Reg. 1 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)

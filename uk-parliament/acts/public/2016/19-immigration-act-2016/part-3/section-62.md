@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Power to cancel leave extended under section 3C of the Immigration Act 1971[^key-740977a8b3365192524dc8caac43e035]
+## 62. Power to cancel leave extended under section 3C of the Immigration Act 1971[^c-740977a8b3365192524dc8caac43e035]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-740977a8b3365192524dc8caac43e035]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2016/19/section/62) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(g)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/g)
+[^c-740977a8b3365192524dc8caac43e035]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2016/19/section/62) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(g)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/g)

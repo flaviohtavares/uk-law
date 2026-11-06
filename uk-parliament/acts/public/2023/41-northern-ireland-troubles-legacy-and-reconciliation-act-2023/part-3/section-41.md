@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Other Troubles-related offences: prohibition of criminal enforcement action[^key-65fb2ab9ddb4005857334f869b7f0418]
+## 41. Other Troubles-related offences: prohibition of criminal enforcement action[^c-65fb2ab9ddb4005857334f869b7f0418]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65fb2ab9ddb4005857334f869b7f0418]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2023/41/section/41) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
+[^c-65fb2ab9ddb4005857334f869b7f0418]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2023/41/section/41) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Supplementary power in connection with implementation period[^key-f9a41f5e330ace01be8b1dbbe8adee3f]
+## 8A. Supplementary power in connection with implementation period[^c-f9a41f5e330ace01be8b1dbbe8adee3f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9a41f5e330ace01be8b1dbbe8adee3f]: Textual amendment: S. 8A inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 3](https://www.legislation.gov.uk/ukpga/2020/1/section/3), [42(6)(a)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/a) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))
+[^c-f9a41f5e330ace01be8b1dbbe8adee3f]: Textual amendment: S. 8A inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 3](https://www.legislation.gov.uk/ukpga/2020/1/section/3), [42(6)(a)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/a) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))

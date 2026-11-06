@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114A. The Information Commission[^key-72ba0767b30e3e4aaa628d751ad94496]
+## 114A. The Information Commission[^c-72ba0767b30e3e4aaa628d751ad94496]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72ba0767b30e3e4aaa628d751ad94496]: Textual amendment: S. 114A and cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 117(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/117/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/r)
+[^c-72ba0767b30e3e4aaa628d751ad94496]: Textual amendment: S. 114A and cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 117(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/117/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/r)

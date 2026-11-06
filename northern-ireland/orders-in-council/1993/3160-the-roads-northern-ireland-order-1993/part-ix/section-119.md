@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 119. Power to enter on land[^key-45d72de1e668e873da8718febe79ae8d]
+## 119. Power to enter on land[^c-45d72de1e668e873da8718febe79ae8d]
 
 *Extent: N.I.*
 
@@ -73,6 +73,6 @@ have effect in relation to the works as if they were street works within the mea
 
 ## Annotations
 
-[^key-45d72de1e668e873da8718febe79ae8d]: Modification: [Art. 119](https://www.legislation.gov.uk/nisi/1993/3160/article/119) applied (with modifications) (22.4.2013) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 40(2)](https://www.legislation.gov.uk/nia/2011/11/section/40/2), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2013/104](https://www.legislation.gov.uk/nisr/2013/104), [art. 2(j)](https://www.legislation.gov.uk/nisr/2013/104/article/2/j)
+[^c-45d72de1e668e873da8718febe79ae8d]: Modification: [Art. 119](https://www.legislation.gov.uk/nisi/1993/3160/article/119) applied (with modifications) (22.4.2013) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 40(2)](https://www.legislation.gov.uk/nia/2011/11/section/40/2), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2013/104](https://www.legislation.gov.uk/nisr/2013/104), [art. 2(j)](https://www.legislation.gov.uk/nisr/2013/104/article/2/j)
 
 [^c16867981]: Textual amendment: [1995 NI 19](https://www.legislation.gov.uk/nisi/1995)

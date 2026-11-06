@@ -16,25 +16,25 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Breach of detention and training order[^key-2d64496e4a120679899d978b7108592f]
+## 80. Breach of detention and training order[^c-2d64496e4a120679899d978b7108592f]
 
 *Extent: E+W*
 
-(1)[^key-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-98579598259ede70c24bca89c2116dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In section 213 of the Armed Forces Act 2006 (application of provisions relating to civilian detention and training orders to orders under section 211 of that Act)—
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d64496e4a120679899d978b7108592f]: Modification: S. 80 modified in part (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-2d64496e4a120679899d978b7108592f]: Modification: S. 80 modified in part (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-98579598259ede70c24bca89c2116dac]: Textual amendment: S. 80(1)-(8) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-98579598259ede70c24bca89c2116dac]: Textual amendment: S. 80(1)-(8) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

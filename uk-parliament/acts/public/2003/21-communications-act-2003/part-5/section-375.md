@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 375. Media public interest considerations[^key-5c38640b3cc546a11cff6d3cac3df16f]
+## 375. Media public interest considerations[^c-5c38640b3cc546a11cff6d3cac3df16f]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c38640b3cc546a11cff6d3cac3df16f]: Commencement: S. 375 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5c38640b3cc546a11cff6d3cac3df16f]: Commencement: S. 375 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

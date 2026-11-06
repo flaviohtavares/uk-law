@@ -51,7 +51,7 @@ summary: ''
 
 (2) A person holding office as a member of the Tribunal may resign that office by giving notice in writing to the Commission[^c21347241].
 
-(3)[^key-bea1817bec9c83428d3f2692e3fe6d32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-bea1817bec9c83428d3f2692e3fe6d32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Subject to sub-paragraph (3), a member of the Tribunal who ceases to hold office is eligible for re-appointment.
 
@@ -138,7 +138,7 @@ summary: ''
 
 [^c21347241]: Textual amendment: Word in [Sch. 9B para. 3(2)](https://www.legislation.gov.uk/nisi/1977/2157/schedule/9B/paragraph/3/2) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2009/3/section/2/3), [5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 9(5)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/9/5); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-bea1817bec9c83428d3f2692e3fe6d32]: Textual amendment: [Sch. 9B para. 3(3)](https://www.legislation.gov.uk/nisi/1977/2157/schedule/9B/paragraph/3/3) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 46](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/46)
+[^c-bea1817bec9c83428d3f2692e3fe6d32]: Textual amendment: [Sch. 9B para. 3(3)](https://www.legislation.gov.uk/nisi/1977/2157/schedule/9B/paragraph/3/3) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 46](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/46)
 
 [^c21347281]: Textual amendment: [Sch. 9B para. 4](https://www.legislation.gov.uk/nisi/1977/2157/schedule/9B/paragraph/4) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2009/3/section/2/3), [5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 9(7)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/9/7); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 

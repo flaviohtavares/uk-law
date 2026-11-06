@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Procedure for issue, revision or withdrawal of codes of practice[^key-117d9d5d346179b50493a22ea032caa4]
+## 80. Procedure for issue, revision or withdrawal of codes of practice[^c-117d9d5d346179b50493a22ea032caa4]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,4 +79,4 @@ it may withdraw the code.
 
 ## Annotations
 
-[^key-117d9d5d346179b50493a22ea032caa4]: Commencement: S. 80 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-117d9d5d346179b50493a22ea032caa4]: Commencement: S. 80 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

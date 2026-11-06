@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Provision of advice etc about residential licences[^key-4dbb80a5b25ec52ece77ebd42027a98a]
+## 48. Provision of advice etc about residential licences[^c-4dbb80a5b25ec52ece77ebd42027a98a]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ In the Housing Act 1996, after section 220 insert—
 
 ## Annotations
 
-[^key-4dbb80a5b25ec52ece77ebd42027a98a]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2015/20/section/48) in force at 1.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/994/article/2/a)
+[^c-4dbb80a5b25ec52ece77ebd42027a98a]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2015/20/section/48) in force at 1.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/994/article/2/a)

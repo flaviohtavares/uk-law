@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Provisions protecting directors from liability[^c19880211][^c19880661][^c19880681][^c19644331][^c19926001][^key-0b14f8d81e21011f790a199ed954bf23]
+## 232. Provisions protecting directors from liability[^c19880211][^c19880661][^c19880681][^c19644331][^c19926001][^c-0b14f8d81e21011f790a199ed954bf23]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c19926001]: Modification: S. 232 excluded (12.15 p.m. on 8.10.2008) by The Kaupthing Singer & [Friedlander Limited Transfer of Certain Rights and Liabilities Order 2008 (S.I. 2008/2674)](https://www.legislation.gov.uk/uksi/2008/2674), [art. 32(3)](https://www.legislation.gov.uk/uksi/2008/2674/article/32/3)
 
-[^key-0b14f8d81e21011f790a199ed954bf23]: Modification: [S. 232](https://www.legislation.gov.uk/ukpga/2006/46/section/232) excluded (1.3.2016) by [The NRAM plc (formerly Northern Rock plc) Consequential and Supplementary Provisions Order 2016 (S.I. 2016/114)](https://www.legislation.gov.uk/uksi/2016/114), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/114/article/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2016/114/article/6/3)
+[^c-0b14f8d81e21011f790a199ed954bf23]: Modification: [S. 232](https://www.legislation.gov.uk/ukpga/2006/46/section/232) excluded (1.3.2016) by [The NRAM plc (formerly Northern Rock plc) Consequential and Supplementary Provisions Order 2016 (S.I. 2016/114)](https://www.legislation.gov.uk/uksi/2016/114), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/114/article/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2016/114/article/6/3)

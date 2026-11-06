@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 153. Power of Secretary of State to regulate certain matters[^key-a1e18ad6e174d7f9ba2ae71ddfe13000]
+## 153. Power of Secretary of State to regulate certain matters[^c-a1e18ad6e174d7f9ba2ae71ddfe13000]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1e18ad6e174d7f9ba2ae71ddfe13000]: Commencement: Rule 153 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-a1e18ad6e174d7f9ba2ae71ddfe13000]: Commencement: Rule 153 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

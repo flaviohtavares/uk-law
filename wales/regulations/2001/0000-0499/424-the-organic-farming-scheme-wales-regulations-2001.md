@@ -43,7 +43,7 @@ The National Assembly for Wales, being designated[^c15989211] for the purposes o
 
 ## 1. Name, commencement and application
 
-These Regulations are called the Organic Farming Scheme (Wales) Regulations 2001, shall apply in relation to Wales and in relation to holdings in respect of which the National Assembly is the relevant competent authority[^key-1150ef59a74bb0cd327129402929a73f] and shall come into force on 19th February 2001.
+These Regulations are called the Organic Farming Scheme (Wales) Regulations 2001, shall apply in relation to Wales and in relation to holdings in respect of which the National Assembly is the relevant competent authority[^c-1150ef59a74bb0cd327129402929a73f] and shall come into force on 19th February 2001.
 
 ## 2. Interpretation
 
@@ -61,13 +61,13 @@ These Regulations are called the Organic Farming Scheme (Wales) Regulations 2001
   - (a) regulated by statutory instrument providing for the payment of aid to persons who give an undertaking or enter into an agreement in relation to the use or management of land; and
   - (b) approved by the Commission of the European Communities under Article 44 of Council Regulation 1257/1999 as part of a rural development plan drawn up pursuant to Article 41 of that Regulation;
 - “aid” (“*cymorth*”) means the payments under the Community aid scheme referred to in Article 2 of Council Regulation 1257/1999 in so far as it relates to farmers who undertake to introduce organic farming methods;
-- “application” (“*cais*”) means an application for aid pursuant to regulation 3 or regulation 5A as the case may be[^key-5182cf18bc7a0e1e7605330a63b87d51] made in accordance with regulation 9 in respect of one or more organic parcels, and “applicant” (“*ceisydd*”) and “apply” (“*gwneud cais*”) shall be construed accordingly;
+- “application” (“*cais*”) means an application for aid pursuant to regulation 3 or regulation 5A as the case may be[^c-5182cf18bc7a0e1e7605330a63b87d51] made in accordance with regulation 9 in respect of one or more organic parcels, and “applicant” (“*ceisydd*”) and “apply” (“*gwneud cais*”) shall be construed accordingly;
 - “approved” (“*a gymeradwywyd*”) means approved by an inspection authority;
 - “authorised person” (“*person awdurdodedig*”) means a person (whether or not an officer of the National Assembly) who is authorised by the National Assembly, either generally or specifically, to act in relation to matters arising under these Regulations;
 - “beneficiary” (“*buddiolwr*”) means—
   - (a) a person whose application in respect of land comprising one or more organic parcels, has been accepted by the National Assembly; or
   - (b) a person who occupies the whole or any part of an organic unit following a change of occupation of the holding, who has given an undertaking to comply with all the obligations assumed by its previous occupier under these Regulations, in so far as they relate to land comprised in that organic unit, or the part of that organic unit occupied by the new occupant, and whose undertaking in such terms has been accepted by the National Assembly;
-- “certificate of registration” (“*tystysgrif gofrestru*”) means a certificate issued by an inspection authority in respect of an organic parcel, specifying, where applicable,[^key-0b629d38b2ae33b29ad615f01ac43341] the conversion period which applies in relation to that organic parcel, or the date on which that conversion period begins; and for this purpose a certificate so issued is issued “in respect of” an organic parcel if it relates to that organic parcel, whether or not it also relates to any other organic parcel;
+- “certificate of registration” (“*tystysgrif gofrestru*”) means a certificate issued by an inspection authority in respect of an organic parcel, specifying, where applicable,[^c-0b629d38b2ae33b29ad615f01ac43341] the conversion period which applies in relation to that organic parcel, or the date on which that conversion period begins; and for this purpose a certificate so issued is issued “in respect of” an organic parcel if it relates to that organic parcel, whether or not it also relates to any other organic parcel;
 - “the Commission Regulation” (“*Rheoliad y Comisiwn*”) means Commission Regulation [(EC) No. 1750/1999](https://www.legislation.gov.uk/eur/1999/1750) [^c15989261] laying down detailed rules for the application of Council Regulation [(EEC) No. 1257/1999](https://www.legislation.gov.uk/eur/1999/1257);
 - “conversion” (“*trosi*”), in relation to an organic parcel, means the conversion of that organic parcel to being fully organic;
 - “conversion period” (“*cyfnod trosi*”), in relation to an organic parcel, means the period determined by the inspection authority as the period in which the conversion of that organic parcel is expected to be completed, being a period starting—
@@ -75,7 +75,7 @@ These Regulations are called the Organic Farming Scheme (Wales) Regulations 2001
   - (b) in relation to any other organic parcel, not later than the fifth anniversary of the date of acceptance;
 - “Council Regulation 2092/91” (“*Rheoliad y Cyngor 2092/91*”) means Council Regulation [(EEC) No. 2092/91](https://www.legislation.gov.uk/eur/1991/2092) [^c15989271] on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs;
 - “Council Regulation 1257/1999” (“*Rheoliad y Cyngor 1257/1999*”) means Council Regulation [(EC) No. 1257/1999](https://www.legislation.gov.uk/eur/1999/1257) on support for rural development;
-- “date of acceptance” (“*dyddiad derbyn*”) means the date on which the National Assembly accepts an application in accordance with regulation 3 or regulation 5A as the case may be[^key-5fddd1a61905c29c1e90a632d3330d09];
+- “date of acceptance” (“*dyddiad derbyn*”) means the date on which the National Assembly accepts an application in accordance with regulation 3 or regulation 5A as the case may be[^c-5fddd1a61905c29c1e90a632d3330d09];
 - “date of receipt” (“*dyddiad dod i law*”), in relation to an organic parcel, means the date on which the National Assembly received an application in accordance with regulation 9 in respect of that organic parcel;
 - “financial year” (“*blwyddyn ariannol*”) means the twelve months ending with 31st March;
 - “first organic parcel” (“*parsel organig cyntaf*”) means, of all the organic parcels comprised in an application, the organic parcel the conversion period for which begins first;
@@ -91,7 +91,7 @@ These Regulations are called the Organic Farming Scheme (Wales) Regulations 2001
   - (b) notification having been given under Article 8 of Council Regulation 2092/91, details of such organic parcel or organic unit have appeared in the list referred to in that Article;
 - “holding” (“*daliad*”) means all the production units situated within the same member State’s territory managed by a producer;
 - “inspection authority” (“*awdurdod archwilio*”), in relation to an organic unit or organic parcel, means—
-  - (a) the authority designated by the Organic Products (Wales) Regulations 2002[^key-b98fec013f08ddcebb3f7518c30f4213] for the purposes of Article 9 of Council Regulation 2092/91, or
+  - (a) the authority designated by the Organic Products (Wales) Regulations 2002[^c-b98fec013f08ddcebb3f7518c30f4213] for the purposes of Article 9 of Council Regulation 2092/91, or
   - (b) a private inspection body approved by that authority in accordance with Article 9 of that Regulation (which concerns the inspection system to which organic farming is subject),
 
   being the authority or private inspection body to whom the applicant has applied to carry out inspection functions in relation to that organic unit or organic parcel;
@@ -112,8 +112,8 @@ These Regulations are called the Organic Farming Scheme (Wales) Regulations 2001
   - (b) those parcels which it is intended to register in the future;
   - (c) the dates on which such organic parcels have been or (as the case may be) are to be registered; and
   - (d) where the plan relates to land on which livestock is kept, the livestock that is undergoing conversion or that is already organic livestock;
-- “relevant competent authority” (“[^key-08a4e7bd06ce0e725f302e5881c23487]*awdurdod cymwys perthnasol*”) means the authority which is the relevant competent authority within the meaning of the Integrated Administration and Control Regulations 1993;
-- “specified period” (“[^key-c08f0be5b31c96ca2a2b2de67f608bc4]*cyfnod penodedig*”) means:
+- “relevant competent authority” (“[^c-08a4e7bd06ce0e725f302e5881c23487]*awdurdod cymwys perthnasol*”) means the authority which is the relevant competent authority within the meaning of the Integrated Administration and Control Regulations 1993;
+- “specified period” (“[^c-c08f0be5b31c96ca2a2b2de67f608bc4]*cyfnod penodedig*”) means:
   - (i) in relation to an application under regulation 3, the period beginning with the date of acceptance and ending on the expiry of the period of five years from the date upon which the first payment becomes payable in respect of the last organic parcel which is subject of that application; or
   - (ii) in relation to an application under regulation 5A, the period beginning with the date of acceptance of an application for payment and ending on the expiry of the period of five years from the date upon which such payments became payable in respect of the organic parcel or parcels which are the subject of that application;
 - “tenant” (“*tenant*”) means a person whose right to occupation of a holding derives from—
@@ -179,7 +179,7 @@ provided that, in relation to any payment in respect of any given year, the bene
   - (v) to farm any part of the holding that is not the subject of paragraph (ii) above in accordance with the standards set out in Schedule 2; and
 - (c) to complete the conversion of each organic parcel no later than the fifth anniversary of the date on which the conversion period in respect of the organic parcel in question begins.
 
-## 5A. Organic Stewardship Aid[^key-e0150b5791f8a15d4c299d6af797d333]
+## 5A. Organic Stewardship Aid[^c-e0150b5791f8a15d4c299d6af797d333]
 
 (1) Subject to the provisions of regulations 5B and 5C, the National Assembly may make annual payments of aid, known as Organic Stewardship aid, in respect of an organic parcel, to any person who is a beneficiary in respect of that organic parcel, provided that, in relation to any payment in respect of any given year, the beneficiary has made a claim for payment in respect of that year in accordance with regulation 9 and has supplied such further information and evidence in relation to that claim as the National Assembly may direct to be supplied.
 
@@ -225,7 +225,7 @@ provided that, in relation to any payment in respect of any given year, the bene
 
 ## 6. Restrictions on acceptance of applications
 
-(1) The National Assembly shall not accept an application under regulation 3[^key-9576edf7839f768a30559285c9a0f1a2] unless—
+(1) The National Assembly shall not accept an application under regulation 3[^c-9576edf7839f768a30559285c9a0f1a2] unless—
 
 - (a) the inspection authority has given a certificate of registration in respect of the first organic parcel or has confirmed to the National Assembly that a certificate will be issued; and
 - (b) the applicant makes a declaration that the inspection authority has approved a plan relating to the whole of the organic unit comprising the organic parcel to which the application relates.
@@ -240,7 +240,7 @@ provided that, in relation to any payment in respect of any given year, the bene
 
 (3) No payment of aid shall be made in respect of an organic parcel until the National Assembly has received a certificate of registration in respect of that organic parcel or confirmation from the inspection authority that a certificate will be issued.
 
-(4) Aid under regulation 3[^key-7fe037f3a45c28670dd8bf1a7df2a609] shall not be payable in respect of any organic parcel, or any organic unit comprising land to which an application relates, which—
+(4) Aid under regulation 3[^c-7fe037f3a45c28670dd8bf1a7df2a609] shall not be payable in respect of any organic parcel, or any organic unit comprising land to which an application relates, which—
 
 - (a) is fully organic on the date of receipt; or
 - (b) has been fully organic at any time during the period beginning on 1st January 1997 and ending on the date of receipt.
@@ -271,7 +271,7 @@ shall be made in writing and in such form, and shall be accompanied by such info
 
 ## 10. Power to vary undertakings
 
-(1) Subject to paragraph (2), the National Assembly may in writing, at the request of the beneficiary, vary the terms of any undertaking given by the beneficiary under regulations 5(1)(d), 5B(1)(vi),[^key-f5ae4675c39c2bc33573c4eac470b250] 12(1)(b) or 12(6)(d), and any such variation may be subject to such conditions as the National Assembly reasonably may determine and may be expressed to apply only for a specified period.
+(1) Subject to paragraph (2), the National Assembly may in writing, at the request of the beneficiary, vary the terms of any undertaking given by the beneficiary under regulations 5(1)(d), 5B(1)(vi),[^c-f5ae4675c39c2bc33573c4eac470b250] 12(1)(b) or 12(6)(d), and any such variation may be subject to such conditions as the National Assembly reasonably may determine and may be expressed to apply only for a specified period.
 
 (2) The National Assembly shall not vary the terms of an undertaking unless it is satisfied that, having regard to any conditions proposed to be attached to the variation, the purposes for which the undertaking was given will not be adversely affected by the variation.
 
@@ -291,9 +291,9 @@ No amendment to a plan approved by an inspection authority shall have effect unl
 (3) Subject to paragraph (4), where the change of occupation referred to in paragraph (1) is not consequent on the beneficiary’s death, the powers that are conferred on the National Assembly by regulation 16(2) in respect of the beneficiary’s obligations of reimbursement under Article 29 of the Commission Regulation (which governs transfers of holdings), or in respect of any failure by the beneficiary to comply with any undertaking, and which are in either case exercisable as a consequence of the beneficiary ceasing to be in occupation of the organic unit or part of the organic unit (as the case may be), shall not apply, provided that—
 
 - (a) within three months of the date on which the beneficiary ceased to be in occupation of the land in question, a new occupier gives an undertaking under paragraph (1)(b) in relation to that land; and
-- (b) where the new occupier occupies part only of the beneficiary’s organic unit, the beneficiary satisfies the conditions of eligibility in regulation 5(1)(a), (b) and (c) and in regulation 5B(1)[^key-424e6c8cb543890af8b13e4298e13213], as they would apply in relation to that part of the organic unit of which the beneficiary remains in occupation, if an application had been made by him or her in relation to that part.
+- (b) where the new occupier occupies part only of the beneficiary’s organic unit, the beneficiary satisfies the conditions of eligibility in regulation 5(1)(a), (b) and (c) and in regulation 5B(1)[^c-424e6c8cb543890af8b13e4298e13213], as they would apply in relation to that part of the organic unit of which the beneficiary remains in occupation, if an application had been made by him or her in relation to that part.
 
-(4) Insofar as they relate to aid payable under regulation 3[^key-1389886fb77327618eb2fb5d2224a12d] Provisos (a) and (b) to paragraph (3) shall not apply in relation to any land transferred if, in respect of the whole of the land transferred, the conversion period has been completed and all payments due under these Regulations have been made.
+(4) Insofar as they relate to aid payable under regulation 3[^c-1389886fb77327618eb2fb5d2224a12d] Provisos (a) and (b) to paragraph (3) shall not apply in relation to any land transferred if, in respect of the whole of the land transferred, the conversion period has been completed and all payments due under these Regulations have been made.
 
 (5) Where there is a change of occupation of part of an organic unit, the National Assembly shall determine the extent to which the obligations assumed by the beneficiary relate to that part, having regard to—
 
@@ -306,7 +306,7 @@ and an undertaking given under paragraph (1)(b) in respect of part of the organi
 
 - (a) the land to which the undertaking relates (“the relevant land”) forms the whole or part of an organic unit comprising the whole or part of the holding of the new occupier or a holding vested in that new occupier as personal representative;
 - (b) the new occupier is in lawful occupation of the relevant land as owner or tenant or is in lawful possession of that land as the personal representative of the beneficiary;
-- (c) the conditions of eligibility specified in regulation 5(1)(a), (b)(ii) and (d) and in regulation 5B(1)(ii), (iv) and (vi)[^key-67af1d691705767700e00775371b475b] would be satisfied if the undertaking were an application in respect of the relevant land to which the undertaking relates; and
+- (c) the conditions of eligibility specified in regulation 5(1)(a), (b)(ii) and (d) and in regulation 5B(1)(ii), (iv) and (vi)[^c-67af1d691705767700e00775371b475b] would be satisfied if the undertaking were an application in respect of the relevant land to which the undertaking relates; and
 - (d) the new occupier has given the undertaking mentioned in paragraph (7) in any case where, before entering into occupation of the organic unit in question, the new occupier has introduced organic farming on any part of his holding.
 
 (7) The undertaking referred to in paragraph (6)(d) is that the new occupier shall continue to farm the part of the holding referred to in that paragraph in accordance with organic farming methods for the remainder of the specified period which is applicable in relation to the land to which the undertakings of the previous occupier of the organic unit in question related.
@@ -352,7 +352,7 @@ An applicant shall keep for the duration of the specified period any corresponde
 
 ## 16. Withholding and recovery of aid, termination and exclusion
 
-(1) Where any person, with a view to obtaining the payment of aid to himself or herself or to any other person, makes any statement or furnishes any information which is false or misleading in a material respect, the National Assembly may withhold the whole or any part of any aid payable to that person or to that other person under these Regulations[^key-12a06ff5eadad1a7f8cc1733d6d11043] and may recover the whole or any part of any such aid already paid to that person or to that other person.
+(1) Where any person, with a view to obtaining the payment of aid to himself or herself or to any other person, makes any statement or furnishes any information which is false or misleading in a material respect, the National Assembly may withhold the whole or any part of any aid payable to that person or to that other person under these Regulations[^c-12a06ff5eadad1a7f8cc1733d6d11043] and may recover the whole or any part of any such aid already paid to that person or to that other person.
 
 (2) Where a beneficiary—
 
@@ -360,7 +360,7 @@ An applicant shall keep for the duration of the specified period any corresponde
 - (b) fails without reasonable excuse to permit entry and inspection by an authorised person or to render all reasonable assistance to the authorised person as required by regulation 15(2), or
 - (c) fails to comply with any other requirement of these Regulations,
 
-the National Assembly may withhold the whole or any part of any aid payable to that beneficiary under these Regulations[^key-c7f40f8772c3dc104d6ac1e75ea88316] and may recover the whole or any part of any aid already paid and may also require the payment to the National Assembly of a sum not exceeding 10% of the aid paid or payable to the beneficiary.
+the National Assembly may withhold the whole or any part of any aid payable to that beneficiary under these Regulations[^c-c7f40f8772c3dc104d6ac1e75ea88316] and may recover the whole or any part of any aid already paid and may also require the payment to the National Assembly of a sum not exceeding 10% of the aid paid or payable to the beneficiary.
 
 (3) Where the National Assembly takes any step specified in paragraph (1) or (2), it may also treat as terminated any entitlement of the beneficiary to the payment of aid under these Regulations.
 
@@ -415,22 +415,22 @@ regulations 4(2) and 13
 | (i)in the first year | £225 per hectare |
 | (ii)in the second year | £135 per hectare |
 | (iii)in the third year | £50 per hectare |
-| (iv)in the fourth year | £35[^key-b1af4abba6b15197c7f2bc8cf722288a] per hectare |
-| (v)in the fifth year | £35[^key-1d1728f7e462fadda60d2ea1934277d7] per hectare |
+| (iv)in the fourth year | £35[^c-b1af4abba6b15197c7f2bc8cf722288a] per hectare |
+| (v)in the fifth year | £35[^c-1d1728f7e462fadda60d2ea1934277d7] per hectare |
 | 2.Enclosed land: |  |
 | (i)in the first year | £175 per hectare |
 | (ii)in the second year | £105 per hectare |
 | (iii)in the third year | £40 per hectare |
-| (iv)in the fourth year | £35[^key-86bfb275a684943ac5ac2c9d80065c3f] per hectare |
-| (v)in the fifth year | £35[^key-3c66df626e4aa53dcaa0a48183b3cf2e] per hectare |
+| (iv)in the fourth year | £35[^c-86bfb275a684943ac5ac2c9d80065c3f] per hectare |
+| (v)in the fifth year | £35[^c-3c66df626e4aa53dcaa0a48183b3cf2e] per hectare |
 | 3.Unenclosed land and grazed woodland: |  |
 | (i)in the first year | £25 per hectare |
 | (ii)in the second year | £10 per hectare |
-| (iii)in the third year | £10[^key-fb5ee4ffda59e5f5f4c87835a8549026] per hectare |
-| (iv)in the fourth year | £10[^key-c7462ef8d8dba15c3a2a002580a2f522] per hectare |
-| (v)in the fifth year | £10[^key-954106f2cf59ba878aebb2c008437ad0] per hectare |
+| (iii)in the third year | £10[^c-fb5ee4ffda59e5f5f4c87835a8549026] per hectare |
+| (iv)in the fourth year | £10[^c-c7462ef8d8dba15c3a2a002580a2f522] per hectare |
+| (v)in the fifth year | £10[^c-954106f2cf59ba878aebb2c008437ad0] per hectare |
 
-### PART 1A — Annual Organic Stewardship Aid in respect of Organic Parcels[^key-16e1a6031ee8d8d90a0c4d7165b4a6e8]
+### PART 1A — Annual Organic Stewardship Aid in respect of Organic Parcels[^c-16e1a6031ee8d8d90a0c4d7165b4a6e8]
 
 |  |  |
 | --- | --- |
@@ -438,7 +438,7 @@ regulations 4(2) and 13
 | 2\. Enclosed land | — £35 per hectare |
 | 3\. Unenclosed land and grazed woodland | — £10 per hectare |
 
-In Part I and Part 1A[^key-92aa3df7de7f204c5d48903bfe994d58] of this Schedule—
+In Part I and Part 1A[^c-92aa3df7de7f204c5d48903bfe994d58] of this Schedule—
 
 -
 - “AAPS eligible land” means land which is “eligible land” within the meaning of the Arable Area Payments Regulations 1996[^c15989321];
@@ -461,7 +461,7 @@ In Part I and Part 1A[^key-92aa3df7de7f204c5d48903bfe994d58] of this Schedule—
 
 ## SCHEDULE 2 — STANDARDS TO BE OBSERVED
 
-regulation 5(2)(b)(ii), (iv) and (v) and regulation 5B(3)(iii) and (v)[^key-b5cf6e7c1d136dac7bc8a26eb68c6522]
+regulation 5(2)(b)(ii), (iv) and (v) and regulation 5B(3)(iii) and (v)[^c-b5cf6e7c1d136dac7bc8a26eb68c6522]
 
 **1.** The beneficiary shall not plough, reseed or improve, by use of drainage, manures or liming agents, any heathland, grassland of conservation value, including species-rich grassland, or rough grazing. The beneficiary shall not graze any such semi-natural habitats so as to cause over-grazing or under-grazing affecting the conservation value of those habitats.
 
@@ -485,7 +485,7 @@ regulation 5(2)(b)(ii), (iv) and (v) and regulation 5B(3)(iii) and (v)[^key-b5cf
 
 **9.** The beneficiary shall ensure that in farming the land he or she does not damage, destroy or remove any feature of historical or archaeological interest, including areas of ridge and furrow.
 
-**10.**[^key-6964898dbe7ed00ac7a063d64edada9d] The beneficiary shall abide by the terms of the following Codes of Good Agricultural Practice:
+**10.**[^c-6964898dbe7ed00ac7a063d64edada9d] The beneficiary shall abide by the terms of the following Codes of Good Agricultural Practice:
 
 - (i) The Code of Good Agricultural Practice for the Protection of Air (1992, (revised 1998)), published by the Ministry of Agriculture, Fisheries and Food and the Welsh Office Agriculture Department;
 - (ii) The Code of Good Agricultural Practice for the Protection of Water (1991 (revised 1998)), published by the Ministry of Agriculture, Fisheries and Food and the Welsh Office Agriculture Department;
@@ -546,72 +546,72 @@ Copies of the Codes of Good Agricultural Practice for the protection of Soil, Ai
 
 [^c15989231]: Marginal citation: OJ No. L160, 26.06.1999, p.80.
 
-[^key-1150ef59a74bb0cd327129402929a73f]: Textual amendment: Words in reg. 1 inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [3](https://www.legislation.gov.uk/wsi/2004/105/regulation/3)
+[^c-1150ef59a74bb0cd327129402929a73f]: Textual amendment: Words in reg. 1 inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [3](https://www.legislation.gov.uk/wsi/2004/105/regulation/3)
 
 [^c15989241]: Marginal citation: [S.I. 1994/1721](https://www.legislation.gov.uk/uksi/1994/1721); amended by [S.I. 1996/3109](https://www.legislation.gov.uk/uksi/1996/3109) and [S.I. 1998/1606](https://www.legislation.gov.uk/uksi/1998/1606).
 
 [^c15989251]: Marginal citation: [S.I. 1999/2611](https://www.legislation.gov.uk/uksi/1999/2611); amended by [S.I. 1999/3337](https://www.legislation.gov.uk/uksi/1999/3337) (W. 45).
 
-[^key-5182cf18bc7a0e1e7605330a63b87d51]: Textual amendment: Words in reg. 2(1) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2004/105/regulation/4/a)
+[^c-5182cf18bc7a0e1e7605330a63b87d51]: Textual amendment: Words in reg. 2(1) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2004/105/regulation/4/a)
 
-[^key-0b629d38b2ae33b29ad615f01ac43341]: Textual amendment: Words in reg. 2(1) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2004/105/regulation/4/b)
+[^c-0b629d38b2ae33b29ad615f01ac43341]: Textual amendment: Words in reg. 2(1) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2004/105/regulation/4/b)
 
 [^c15989261]: Marginal citation: OJ No. L214, 13.8.1999, p.31.
 
 [^c15989271]: Marginal citation: OJ No. L198, 22.7.1991, p.1.
 
-[^key-5fddd1a61905c29c1e90a632d3330d09]: Textual amendment: Words in reg. 2(1) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2004/105/regulation/4/c)
+[^c-5fddd1a61905c29c1e90a632d3330d09]: Textual amendment: Words in reg. 2(1) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2004/105/regulation/4/c)
 
-[^key-b98fec013f08ddcebb3f7518c30f4213]: Textual amendment: Words in reg. 2(1) substituted (31.12.2002) by [The Organic Products (Wales) Regulations 2002 (S.I. 2002/3159)](https://www.legislation.gov.uk/uksi/2002/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3159/regulation/1), [15(4)](https://www.legislation.gov.uk/uksi/2002/3159/regulation/15/4)
+[^c-b98fec013f08ddcebb3f7518c30f4213]: Textual amendment: Words in reg. 2(1) substituted (31.12.2002) by [The Organic Products (Wales) Regulations 2002 (S.I. 2002/3159)](https://www.legislation.gov.uk/uksi/2002/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3159/regulation/1), [15(4)](https://www.legislation.gov.uk/uksi/2002/3159/regulation/15/4)
 
-[^key-08a4e7bd06ce0e725f302e5881c23487]: Textual amendment: Words in reg. 2(1) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2004/105/regulation/4/d)
+[^c-08a4e7bd06ce0e725f302e5881c23487]: Textual amendment: Words in reg. 2(1) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2004/105/regulation/4/d)
 
-[^key-c08f0be5b31c96ca2a2b2de67f608bc4]: Textual amendment: Words in reg. 2(1) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2004/105/regulation/4/e)
+[^c-c08f0be5b31c96ca2a2b2de67f608bc4]: Textual amendment: Words in reg. 2(1) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2004/105/regulation/4/e)
 
 [^c15989291]: Marginal citation: [1986 c.5](https://www.legislation.gov.uk/ukpga/1986/5)
 
 [^c15989301]: Marginal citation: [1995 c.8](https://www.legislation.gov.uk/ukpga/1995/8).
 
-[^key-e0150b5791f8a15d4c299d6af797d333]: Textual amendment: Regs. 5A-5C inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [5](https://www.legislation.gov.uk/wsi/2004/105/regulation/5)
+[^c-e0150b5791f8a15d4c299d6af797d333]: Textual amendment: Regs. 5A-5C inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [5](https://www.legislation.gov.uk/wsi/2004/105/regulation/5)
 
-[^key-9576edf7839f768a30559285c9a0f1a2]: Textual amendment: Words in reg. 6(1) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [6](https://www.legislation.gov.uk/wsi/2004/105/regulation/6)
+[^c-9576edf7839f768a30559285c9a0f1a2]: Textual amendment: Words in reg. 6(1) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [6](https://www.legislation.gov.uk/wsi/2004/105/regulation/6)
 
-[^key-7fe037f3a45c28670dd8bf1a7df2a609]: Textual amendment: Words in reg. 7(4) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [7](https://www.legislation.gov.uk/wsi/2004/105/regulation/7)
+[^c-7fe037f3a45c28670dd8bf1a7df2a609]: Textual amendment: Words in reg. 7(4) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [7](https://www.legislation.gov.uk/wsi/2004/105/regulation/7)
 
-[^key-f5ae4675c39c2bc33573c4eac470b250]: Textual amendment: Word in reg. 10(1) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [8](https://www.legislation.gov.uk/wsi/2004/105/regulation/8)
+[^c-f5ae4675c39c2bc33573c4eac470b250]: Textual amendment: Word in reg. 10(1) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [8](https://www.legislation.gov.uk/wsi/2004/105/regulation/8)
 
-[^key-424e6c8cb543890af8b13e4298e13213]: Textual amendment: Words in reg. 12(3)(b) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [9(a)](https://www.legislation.gov.uk/wsi/2004/105/regulation/9/a)
+[^c-424e6c8cb543890af8b13e4298e13213]: Textual amendment: Words in reg. 12(3)(b) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [9(a)](https://www.legislation.gov.uk/wsi/2004/105/regulation/9/a)
 
-[^key-1389886fb77327618eb2fb5d2224a12d]: Textual amendment: Words in reg. 12(4) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [9(b)](https://www.legislation.gov.uk/wsi/2004/105/regulation/9/b)
+[^c-1389886fb77327618eb2fb5d2224a12d]: Textual amendment: Words in reg. 12(4) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [9(b)](https://www.legislation.gov.uk/wsi/2004/105/regulation/9/b)
 
-[^key-67af1d691705767700e00775371b475b]: Textual amendment: Words in reg. 12(6)(c) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [9(c)](https://www.legislation.gov.uk/wsi/2004/105/regulation/9/c)
+[^c-67af1d691705767700e00775371b475b]: Textual amendment: Words in reg. 12(6)(c) inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [9(c)](https://www.legislation.gov.uk/wsi/2004/105/regulation/9/c)
 
-[^key-12a06ff5eadad1a7f8cc1733d6d11043]: Textual amendment: Words in reg. 16(1) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [10(a)](https://www.legislation.gov.uk/wsi/2004/105/regulation/10/a)
+[^c-12a06ff5eadad1a7f8cc1733d6d11043]: Textual amendment: Words in reg. 16(1) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [10(a)](https://www.legislation.gov.uk/wsi/2004/105/regulation/10/a)
 
-[^key-c7f40f8772c3dc104d6ac1e75ea88316]: Textual amendment: Words in reg. 16(2) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [10(b)](https://www.legislation.gov.uk/wsi/2004/105/regulation/10/b)
+[^c-c7f40f8772c3dc104d6ac1e75ea88316]: Textual amendment: Words in reg. 16(2) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [10(b)](https://www.legislation.gov.uk/wsi/2004/105/regulation/10/b)
 
 [^c15989311]: Marginal citation: [1998 c.38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-b1af4abba6b15197c7f2bc8cf722288a]: Textual amendment: Sum in Sch. 1 Pt. I para. 1(iv) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/a)
+[^c-b1af4abba6b15197c7f2bc8cf722288a]: Textual amendment: Sum in Sch. 1 Pt. I para. 1(iv) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/a)
 
-[^key-1d1728f7e462fadda60d2ea1934277d7]: Textual amendment: Sum in Sch. 1 Pt. I para. 1(v) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/a)
+[^c-1d1728f7e462fadda60d2ea1934277d7]: Textual amendment: Sum in Sch. 1 Pt. I para. 1(v) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/a)
 
-[^key-86bfb275a684943ac5ac2c9d80065c3f]: Textual amendment: Sum in Sch. 1 Pt. I para. 2(iv) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/b)
+[^c-86bfb275a684943ac5ac2c9d80065c3f]: Textual amendment: Sum in Sch. 1 Pt. I para. 2(iv) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/b)
 
-[^key-3c66df626e4aa53dcaa0a48183b3cf2e]: Textual amendment: Sum in Sch. 1 Pt. I para. 2(v) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/b)
+[^c-3c66df626e4aa53dcaa0a48183b3cf2e]: Textual amendment: Sum in Sch. 1 Pt. I para. 2(v) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/b)
 
-[^key-fb5ee4ffda59e5f5f4c87835a8549026]: Textual amendment: Sum in Sch. 1 Pt. I para. 3(iii) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/c)
+[^c-fb5ee4ffda59e5f5f4c87835a8549026]: Textual amendment: Sum in Sch. 1 Pt. I para. 3(iii) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/c)
 
-[^key-c7462ef8d8dba15c3a2a002580a2f522]: Textual amendment: Sum in Sch. 1 Pt. I para. 3(iv) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/c)
+[^c-c7462ef8d8dba15c3a2a002580a2f522]: Textual amendment: Sum in Sch. 1 Pt. I para. 3(iv) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/c)
 
-[^key-954106f2cf59ba878aebb2c008437ad0]: Textual amendment: Sum in Sch. 1 Pt. I para. 3(v) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/c)
+[^c-954106f2cf59ba878aebb2c008437ad0]: Textual amendment: Sum in Sch. 1 Pt. I para. 3(v) substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/c)
 
-[^key-16e1a6031ee8d8d90a0c4d7165b4a6e8]: Textual amendment: Sch. 1 Pt. 1A inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/d)
+[^c-16e1a6031ee8d8d90a0c4d7165b4a6e8]: Textual amendment: Sch. 1 Pt. 1A inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/d)
 
-[^key-92aa3df7de7f204c5d48903bfe994d58]: Textual amendment: Words in Sch. 1 inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(e)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/e)
+[^c-92aa3df7de7f204c5d48903bfe994d58]: Textual amendment: Words in Sch. 1 inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/uksi/2004/105), [regs. 1](https://www.legislation.gov.uk/uksi/2004/105/regulation/1), [11(e)](https://www.legislation.gov.uk/uksi/2004/105/regulation/11/e)
 
 [^c15989321]: Marginal citation: [S.I. 1996/3142](https://www.legislation.gov.uk/uksi/1996/3142), amended by [S.I. 1997/2969](https://www.legislation.gov.uk/uksi/1997/2969)
 
-[^key-b5cf6e7c1d136dac7bc8a26eb68c6522]: Textual amendment: Words in Sch. 2 inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [12(a)](https://www.legislation.gov.uk/wsi/2004/105/regulation/12/a)
+[^c-b5cf6e7c1d136dac7bc8a26eb68c6522]: Textual amendment: Words in Sch. 2 inserted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [12(a)](https://www.legislation.gov.uk/wsi/2004/105/regulation/12/a)
 
-[^key-6964898dbe7ed00ac7a063d64edada9d]: Textual amendment: Sch. 2 para. 10 substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [12(b)](https://www.legislation.gov.uk/wsi/2004/105/regulation/12/b)
+[^c-6964898dbe7ed00ac7a063d64edada9d]: Textual amendment: Sch. 2 para. 10 substituted (26.1.2004) by [The Organic Farming Scheme (Wales) (Amendment) Regulations 2004 (S.I. 2004/105)](https://www.legislation.gov.uk/wsi/2004/105), [regs. 1](https://www.legislation.gov.uk/wsi/2004/105/regulation/1), [12(b)](https://www.legislation.gov.uk/wsi/2004/105/regulation/12/b)

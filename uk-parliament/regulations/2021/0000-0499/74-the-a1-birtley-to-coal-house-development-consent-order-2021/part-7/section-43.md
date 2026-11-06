@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Protection of interests[^key-7776642e37b3030d00eda808d1d351d1]
+## 43. Protection of interests[^c-7776642e37b3030d00eda808d1d351d1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 11 (protective provisions) to the Order has effect.
 
 ## Annotations
 
-[^key-7776642e37b3030d00eda808d1d351d1]: Commencement: Art. 43 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-7776642e37b3030d00eda808d1d351d1]: Commencement: Art. 43 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)

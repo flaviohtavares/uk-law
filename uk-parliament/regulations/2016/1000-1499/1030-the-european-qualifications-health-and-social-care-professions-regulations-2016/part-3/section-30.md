@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Amendment of article 3[^key-61bce5ea7907a227f3c2511e30f2ca23]
+## 30. Amendment of article 3[^c-61bce5ea7907a227f3c2511e30f2ca23]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-61bce5ea7907a227f3c2511e30f2ca23]: Commencement: Reg. 30 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-61bce5ea7907a227f3c2511e30f2ca23]: Commencement: Reg. 30 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00026]: Footnote: Regulation 3 was amended by [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806). There are other amendments which are not relevant to these Regulations.

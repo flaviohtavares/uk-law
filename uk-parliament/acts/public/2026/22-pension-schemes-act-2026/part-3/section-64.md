@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Timing of decisions about authorisation[^key-16897a1c86d4d783f1b3bd5b01e2287a]
+## 64. Timing of decisions about authorisation[^c-16897a1c86d4d783f1b3bd5b01e2287a]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16897a1c86d4d783f1b3bd5b01e2287a]: Commencement: S. 64 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-16897a1c86d4d783f1b3bd5b01e2287a]: Commencement: S. 64 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

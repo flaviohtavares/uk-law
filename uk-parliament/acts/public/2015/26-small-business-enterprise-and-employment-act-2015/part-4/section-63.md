@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Levy funding[^key-f07fed322a300477ca79c0750ab25662]
+## 63. Levy funding[^c-f07fed322a300477ca79c0750ab25662]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f07fed322a300477ca79c0750ab25662]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2015/26/section/63) in force at 2.5.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/532/regulation/2/b)
+[^c-f07fed322a300477ca79c0750ab25662]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2015/26/section/63) in force at 2.5.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/532/regulation/2/b)

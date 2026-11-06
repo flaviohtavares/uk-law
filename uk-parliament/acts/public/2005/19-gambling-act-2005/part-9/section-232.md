@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Delegation of licensing authority functions: England and Wales[^key-75291d8c0dcddc3158274b2f714dc2e4]
+## 232. Delegation of licensing authority functions: England and Wales[^c-75291d8c0dcddc3158274b2f714dc2e4]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75291d8c0dcddc3158274b2f714dc2e4]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2005/19/section/232) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-75291d8c0dcddc3158274b2f714dc2e4]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2005/19/section/232) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

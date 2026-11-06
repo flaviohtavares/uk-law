@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Saving for Royal pardons etc.[^key-6e313db37981f44482f46d76992eab0d]
+## 97. Saving for Royal pardons etc.[^c-6e313db37981f44482f46d76992eab0d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in section 96 affects any right of Her Majesty, by virtue of Her Royal p
 
 ## Annotations
 
-[^key-6e313db37981f44482f46d76992eab0d]: Commencement: S. 97 in force at 1.10.2012 by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(h)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/h)
+[^c-6e313db37981f44482f46d76992eab0d]: Commencement: S. 97 in force at 1.10.2012 by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(h)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/h)

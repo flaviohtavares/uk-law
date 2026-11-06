@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 132. Investigatory powers: interpretation[^key-10eed447c36d3444ddf2291a106ac228]
+## 132. Investigatory powers: interpretation[^c-10eed447c36d3444ddf2291a106ac228]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10eed447c36d3444ddf2291a106ac228]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2025/26/section/132) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-10eed447c36d3444ddf2291a106ac228]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2025/26/section/132) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

@@ -36,7 +36,7 @@ National Health Service, Scotland
 
 Health And Personal Social Services, Northern Ireland
 
-The Health Service Branded Medicines (Control of Prices and Supply of Information) Amendment Regulations 2009 (revoked)[^key-e574c30641313539a89a8abaf42e03b1]
+The Health Service Branded Medicines (Control of Prices and Supply of Information) Amendment Regulations 2009 (revoked)[^c-e574c30641313539a89a8abaf42e03b1]
 
 Made
 
@@ -50,24 +50,24 @@ Coming into force
 
 1st January 2010
 
-[^key-e574c30641313539a89a8abaf42e03b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e574c30641313539a89a8abaf42e03b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e574c30641313539a89a8abaf42e03b1]
+## 1. Citation and commencement[^c-e574c30641313539a89a8abaf42e03b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Service Branded Medicines (Control of Prices and Supply of Information) (No. 2) Regulations 2008[^key-e574c30641313539a89a8abaf42e03b1]
+## 2. Amendment of the Health Service Branded Medicines (Control of Prices and Supply of Information) (No. 2) Regulations 2008[^c-e574c30641313539a89a8abaf42e03b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e574c30641313539a89a8abaf42e03b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e574c30641313539a89a8abaf42e03b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e574c30641313539a89a8abaf42e03b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e574c30641313539a89a8abaf42e03b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e574c30641313539a89a8abaf42e03b1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3030) revoked (1.1.2011) by [The Health Service Branded Medicines (Control of Prices and Supply of Information) Amendment Regulations 2010 (S.I. 2010/2798)](https://www.legislation.gov.uk/uksi/2010/2798), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2798/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2010/2798/regulation/3)
+[^c-e574c30641313539a89a8abaf42e03b1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3030) revoked (1.1.2011) by [The Health Service Branded Medicines (Control of Prices and Supply of Information) Amendment Regulations 2010 (S.I. 2010/2798)](https://www.legislation.gov.uk/uksi/2010/2798), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2798/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2010/2798/regulation/3)

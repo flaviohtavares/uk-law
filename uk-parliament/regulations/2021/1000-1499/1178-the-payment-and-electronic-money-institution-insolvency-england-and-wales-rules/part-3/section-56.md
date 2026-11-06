@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Entitlement to vote (customers)[^key-25dee1276a3bb8287f3a42d19a4f15cd]
+## 56. Entitlement to vote (customers)[^c-25dee1276a3bb8287f3a42d19a4f15cd]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25dee1276a3bb8287f3a42d19a4f15cd]: Commencement: Rule 56 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-25dee1276a3bb8287f3a42d19a4f15cd]: Commencement: Rule 56 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

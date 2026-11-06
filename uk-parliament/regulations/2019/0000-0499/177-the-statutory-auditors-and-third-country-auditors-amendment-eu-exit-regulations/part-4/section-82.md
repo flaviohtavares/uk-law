@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82.[^key-252eded87ba5224418effa9725a7d37d]
+## 82.[^c-252eded87ba5224418effa9725a7d37d]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ In Article 7 (irregularities)—
 
 ## Annotations
 
-[^key-252eded87ba5224418effa9725a7d37d]: Commencement: Reg. 82 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-252eded87ba5224418effa9725a7d37d]: Commencement: Reg. 82 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23587281]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Limits of general power: statutory undertakings[^key-675f0ad07bb31aee4cba621ce4f38137]
+## 58. Limits of general power: statutory undertakings[^c-675f0ad07bb31aee4cba621ce4f38137]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ unless the undertaker consents.
 
 ## Annotations
 
-[^key-675f0ad07bb31aee4cba621ce4f38137]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2009/6/section/58) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(a)](https://www.legislation.gov.uk/ssi/2010/401/article/3/a)
+[^c-675f0ad07bb31aee4cba621ce4f38137]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2009/6/section/58) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(a)](https://www.legislation.gov.uk/ssi/2010/401/article/3/a)

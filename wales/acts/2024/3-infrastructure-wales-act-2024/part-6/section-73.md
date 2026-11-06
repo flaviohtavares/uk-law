@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Public rights of way[^key-5babd01f5933e5f51a100761a4342670][^key-52b82762759ed4c57cfed226a8f51f21]
+## 73. Public rights of way[^c-5babd01f5933e5f51a100761a4342670][^c-52b82762759ed4c57cfed226a8f51f21]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5babd01f5933e5f51a100761a4342670]: Commencement: S. 73 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-5babd01f5933e5f51a100761a4342670]: Commencement: S. 73 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-52b82762759ed4c57cfed226a8f51f21]: Commencement: [S. 73](https://www.legislation.gov.uk/asc/2024/3/section/73) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-52b82762759ed4c57cfed226a8f51f21]: Commencement: [S. 73](https://www.legislation.gov.uk/asc/2024/3/section/73) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

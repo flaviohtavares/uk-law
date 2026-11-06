@@ -442,7 +442,7 @@ must be brought within 14 days after the day on which the applicant became aware
 
 ### 23. Consequential amendments
 
-(1)[^key-cd7b5fdc970a3353e3d216e79e065d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-cd7b5fdc970a3353e3d216e79e065d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In Article 13(3) of the Commissioner for Children and Young People (Northern Ireland) Order 2003 (actions which may be investigated: restrictions and exclusions), after “2005” there shall be inserted “ or the Inquiry into Historical Institutional Abuse Act (Northern Ireland) 2013 ”.
 
@@ -483,4 +483,4 @@ This Act may be cited as the Inquiry into Historical Institutional Abuse Act (No
 
 ## Annotations
 
-[^key-cd7b5fdc970a3353e3d216e79e065d34]: Textual amendment: [S. 23(1)](https://www.legislation.gov.uk/nia/2013/2/section/23/1) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-cd7b5fdc970a3353e3d216e79e065d34]: Textual amendment: [S. 23(1)](https://www.legislation.gov.uk/nia/2013/2/section/23/1) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))

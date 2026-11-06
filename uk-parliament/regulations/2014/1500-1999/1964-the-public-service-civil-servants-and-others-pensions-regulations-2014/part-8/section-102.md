@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Meaning of “surviving adult’s pension”[^key-1bf87bd5523c0a170e3359f6d13143dd]
+## 102. Meaning of “surviving adult’s pension”[^c-1bf87bd5523c0a170e3359f6d13143dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In these Regulations, “surviving adult’s pension” means any of the followi
 
 ## Annotations
 
-[^key-1bf87bd5523c0a170e3359f6d13143dd]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/2014/1964/regulation/102) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-1bf87bd5523c0a170e3359f6d13143dd]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/2014/1964/regulation/102) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Power to vary, suspend or withdraw[^key-572533f8ad80cbe5a7fac7d4c2c3b4c0]
+## 8. Power to vary, suspend or withdraw[^c-572533f8ad80cbe5a7fac7d4c2c3b4c0]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-572533f8ad80cbe5a7fac7d4c2c3b4c0]: Commencement: S. 8 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-572533f8ad80cbe5a7fac7d4c2c3b4c0]: Commencement: S. 8 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

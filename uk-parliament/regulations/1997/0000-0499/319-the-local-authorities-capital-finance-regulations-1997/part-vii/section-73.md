@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Crematoria[^key-a27e46170d568cf4f9047c3a56f8f47f]
+## 73. Crematoria[^c-a27e46170d568cf4f9047c3a56f8f47f]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ The reserved part shall be 10 per cent. in the case of a capital receipt, other 
 
 ## Annotations
 
-[^key-a27e46170d568cf4f9047c3a56f8f47f]: Commencement: Reg. 73 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-a27e46170d568cf4f9047c3a56f8f47f]: Commencement: Reg. 73 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00071]: Footnote: [1902 c. 8](https://www.legislation.gov.uk/ukpga/1902/8).

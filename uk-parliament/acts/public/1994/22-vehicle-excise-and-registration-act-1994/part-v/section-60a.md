@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Meaning of “revenue weight”.[^key-4428db0f58a693932f1b5564e1bdf0c3][^c12510991]
+## 60A. Meaning of “revenue weight”.[^c-4428db0f58a693932f1b5564e1bdf0c3][^c12510991]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,7 +64,7 @@ it shall be conclusively presumed, as against the person using the vehicle, that
 (9) A vehicle has a confirmed maximum weight at any time if at that time—
 
 - (a) it has a plated gross weight or a plated train weight; and
-- (b) that weight is the maximum laden weight which must not be equalled or exceeded in order for[^key-3060a31df0e3add7e9731f25f7c6a17e] that vehicle or, as the case may be, an articulated vehicle consisting of that vehicle and a semi-trailer to lawfully[^key-01a78653305815616773021d5ab751dd] be used in Great Britain;
+- (b) that weight is the maximum laden weight which must not be equalled or exceeded in order for[^c-3060a31df0e3add7e9731f25f7c6a17e] that vehicle or, as the case may be, an articulated vehicle consisting of that vehicle and a semi-trailer to lawfully[^c-01a78653305815616773021d5ab751dd] be used in Great Britain;
 
 and the confirmed maximum weight of a vehicle with such a weight shall be taken to be the weight referred to in paragraph (a).
 
@@ -74,12 +74,12 @@ and the confirmed maximum weight of a vehicle with such a weight shall be taken 
 
 ## Annotations
 
-[^key-4428db0f58a693932f1b5564e1bdf0c3]: Modification: S. 60A modified (N.I.) (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [regs. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1), [32(3)](https://www.legislation.gov.uk/nisr/2012/261/regulation/32/3)
+[^c-4428db0f58a693932f1b5564e1bdf0c3]: Modification: S. 60A modified (N.I.) (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [regs. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1), [32(3)](https://www.legislation.gov.uk/nisr/2012/261/regulation/32/3)
 
 [^c12510991]: Textual amendment: S. 60A inserted (1.5.1995 with effect as mentioned in [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/1995/4/schedule/4/paragraph/29) of the amending Act) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 19](https://www.legislation.gov.uk/ukpga/1995/4/section/19), [Pt. IV paras. 26](https://www.legislation.gov.uk/ukpga/1995/4/part/IV/paragraph/26), [29](https://www.legislation.gov.uk/ukpga/1995/4/part/IV/paragraph/29)
 
-[^key-3060a31df0e3add7e9731f25f7c6a17e]: Textual amendment: Words in [s. 60A(9)(b)](https://www.legislation.gov.uk/ukpga/1994/22/section/60A/9/b) substituted (with effect in accordance with s. 90(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 90(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/90/2/a)
+[^c-3060a31df0e3add7e9731f25f7c6a17e]: Textual amendment: Words in [s. 60A(9)(b)](https://www.legislation.gov.uk/ukpga/1994/22/section/60A/9/b) substituted (with effect in accordance with s. 90(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 90(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/90/2/a)
 
-[^key-01a78653305815616773021d5ab751dd]: Textual amendment: Words in [s. 60A(9)(b)](https://www.legislation.gov.uk/ukpga/1994/22/section/60A/9/b) substituted (with effect in accordance with s. 90(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 90(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/90/2/b)
+[^c-01a78653305815616773021d5ab751dd]: Textual amendment: Words in [s. 60A(9)(b)](https://www.legislation.gov.uk/ukpga/1994/22/section/60A/9/b) substituted (with effect in accordance with s. 90(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 90(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/90/2/b)
 
 [^c12511001]: Marginal citation: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154).

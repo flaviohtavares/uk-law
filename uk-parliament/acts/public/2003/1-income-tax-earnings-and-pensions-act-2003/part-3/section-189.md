@@ -34,11 +34,11 @@ summary: ''
 
 (3) If—
 
-- (a) an amount is treated as the employee’s income under section 633 of[^key-f36cf32043482e31ce1d3fa0c1dda260] ITTOIA 2005 (capital sums paid to settlor by trustees of settlement) in respect of a capital sum paid in relation to the release or writing-off of the loan, and
+- (a) an amount is treated as the employee’s income under section 633 of[^c-f36cf32043482e31ce1d3fa0c1dda260] ITTOIA 2005 (capital sums paid to settlor by trustees of settlement) in respect of a capital sum paid in relation to the release or writing-off of the loan, and
 - (b) the amount released or written off exceeds the amount so treated as income,
 
 section 188 does apply but only the amount of the excess is to be treated as earnings from the employment for the tax year in question under that section.
 
 ## Annotations
 
-[^key-f36cf32043482e31ce1d3fa0c1dda260]: Textual amendment: Words in s. 189(3)(a) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 589](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/589) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-f36cf32043482e31ce1d3fa0c1dda260]: Textual amendment: Words in s. 189(3)(a) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 589](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/589) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

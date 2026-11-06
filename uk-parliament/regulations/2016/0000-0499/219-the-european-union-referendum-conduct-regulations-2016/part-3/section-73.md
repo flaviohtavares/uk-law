@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Application to vote by post or by proxy in the referendum[^key-8d19d87156fb59d98d4903dfd4a66d23]
+## 73. Application to vote by post or by proxy in the referendum[^c-8d19d87156fb59d98d4903dfd4a66d23]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,7 +56,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8d19d87156fb59d98d4903dfd4a66d23]: Commencement: Reg. 73 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-8d19d87156fb59d98d4903dfd4a66d23]: Commencement: Reg. 73 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00047]: Footnote: Section 10 was substituted, and sections 10A and 13A were inserted, by paragraphs 1, 4 and 6 of Schedule 1 to the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2). Subsection (4A) of section 10, subsection (1A) of section 10A and subsection (2A) of section 13A were inserted by section 1 of the Electoral Fraud (Northern Ireland) Act [2002 (c.13)](https://www.legislation.gov.uk/ukpga/2002/13). Section 10(4A) was amended by paragraph 9(1) and (6) of Schedule 4 to the Electoral Registration and Administration Act [2013 (c.6)](https://www.legislation.gov.uk/ukpga/2013/6).
 

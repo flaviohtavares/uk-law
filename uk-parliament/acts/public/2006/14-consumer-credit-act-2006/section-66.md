@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Financial provision[^key-1dbfbe855412187ad479196a3028431f]
+## 66. Financial provision[^c-1dbfbe855412187ad479196a3028431f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ There shall be payable out of money provided by Parliament—
 
 ## Annotations
 
-[^key-1dbfbe855412187ad479196a3028431f]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2006/14/section/66) in force at 16.6.2006 by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
+[^c-1dbfbe855412187ad479196a3028431f]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2006/14/section/66) in force at 16.6.2006 by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)

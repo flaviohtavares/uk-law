@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 88. Curfew orders and supervision orders[^key-5e116c9ade540d21ef163a2ea8fb5222]
+## 88. Curfew orders and supervision orders[^c-5e116c9ade540d21ef163a2ea8fb5222]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e116c9ade540d21ef163a2ea8fb5222]: Textual amendment: S. 88 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxx)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxx)
+[^c-5e116c9ade540d21ef163a2ea8fb5222]: Textual amendment: S. 88 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxx)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxx)

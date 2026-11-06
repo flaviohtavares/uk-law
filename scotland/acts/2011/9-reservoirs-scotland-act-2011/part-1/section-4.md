@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Multiple reservoir managers: supplementary[^key-062b8b512f40c5366c7e1fdf332f13b6]
+## 4. Multiple reservoir managers: supplementary[^c-062b8b512f40c5366c7e1fdf332f13b6]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-062b8b512f40c5366c7e1fdf332f13b6]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2011/9/section/4) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)
+[^c-062b8b512f40c5366c7e1fdf332f13b6]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2011/9/section/4) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Approving bodies[^key-92645ede09c769c80e6a04642de6b69b]
+## 102. Approving bodies[^c-92645ede09c769c80e6a04642de6b69b]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92645ede09c769c80e6a04642de6b69b]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2010/16/section/102) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-92645ede09c769c80e6a04642de6b69b]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2010/16/section/102) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

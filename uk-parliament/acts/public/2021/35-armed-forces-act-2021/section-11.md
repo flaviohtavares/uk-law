@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Service police: complaints, misconduct etc[^key-185cfe5267fe65942e15e3ef8c169e88][^key-7fa43188bdbbeb417f0ade2171e96c5b][^key-328682fa256fd7cf40d5c7afc5167ed3][^key-05cbd1c43a9c355c2ea645c89852e5ba]
+## 11. Service police: complaints, misconduct etc[^c-185cfe5267fe65942e15e3ef8c169e88][^c-7fa43188bdbbeb417f0ade2171e96c5b][^c-328682fa256fd7cf40d5c7afc5167ed3][^c-05cbd1c43a9c355c2ea645c89852e5ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,10 +95,10 @@ summary: ''
 
 ## Annotations
 
-[^key-185cfe5267fe65942e15e3ef8c169e88]: Commencement: S. 11 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-185cfe5267fe65942e15e3ef8c169e88]: Commencement: S. 11 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-7fa43188bdbbeb417f0ade2171e96c5b]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2021/35/section/11) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
+[^c-7fa43188bdbbeb417f0ade2171e96c5b]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2021/35/section/11) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
 
-[^key-328682fa256fd7cf40d5c7afc5167ed3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2021/35/section/11) in force at 20.2.2023 for specified purposes by [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 4](https://www.legislation.gov.uk/uksi/2023/158/regulation/4)
+[^c-328682fa256fd7cf40d5c7afc5167ed3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2021/35/section/11) in force at 20.2.2023 for specified purposes by [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 4](https://www.legislation.gov.uk/uksi/2023/158/regulation/4)
 
-[^key-05cbd1c43a9c355c2ea645c89852e5ba]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2021/35/section/11) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
+[^c-05cbd1c43a9c355c2ea645c89852e5ba]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2021/35/section/11) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)

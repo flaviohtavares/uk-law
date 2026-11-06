@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Forfeiture in connection with dealing offence[^key-3136c15e25fa7b1a716ac17822becdf4]
+## 18. Forfeiture in connection with dealing offence[^c-3136c15e25fa7b1a716ac17822becdf4]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3136c15e25fa7b1a716ac17822becdf4]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/6/section/18) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-3136c15e25fa7b1a716ac17822becdf4]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/6/section/18) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

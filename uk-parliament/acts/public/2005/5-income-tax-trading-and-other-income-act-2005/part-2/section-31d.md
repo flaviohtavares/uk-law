@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31D. Effect of election under section 25A[^key-50c7a77894174b2bed776802d7074ed3]
+## 31D. Effect of election under section 25A[^c-50c7a77894174b2bed776802d7074ed3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50c7a77894174b2bed776802d7074ed3]: Textual amendment: [S. 31D and cross-heading](https://www.legislation.gov.uk/ukpga/2005/5/part/2/chapter/3A/crossheading/elections-under-section-25a) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 6(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/6/c), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-50c7a77894174b2bed776802d7074ed3]: Textual amendment: [S. 31D and cross-heading](https://www.legislation.gov.uk/ukpga/2005/5/part/2/chapter/3A/crossheading/elections-under-section-25a) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 6(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/6/c), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))

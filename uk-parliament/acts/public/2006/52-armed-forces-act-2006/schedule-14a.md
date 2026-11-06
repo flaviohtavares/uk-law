@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 14A — The Service Police Complaints Commissioner[^key-3656ce831f9ae87228d7a72e46609d2a]
+## Schedule 14A — The Service Police Complaints Commissioner[^c-3656ce831f9ae87228d7a72e46609d2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ The Commissioner may authorise a member of staff working for the Commissioner to
 
 ## Annotations
 
-[^key-3656ce831f9ae87228d7a72e46609d2a]: Textual amendment: [Sch. 14A](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14A) inserted (1.11.2022 for specified purposes, 19.6.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/1); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3); [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
+[^c-3656ce831f9ae87228d7a72e46609d2a]: Textual amendment: [Sch. 14A](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14A) inserted (1.11.2022 for specified purposes, 19.6.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/1); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3); [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)

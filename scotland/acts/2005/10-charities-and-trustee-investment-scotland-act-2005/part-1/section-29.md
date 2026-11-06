@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Power of OSCR to obtain information for inquiries[^key-666412a2158a8d1ab37407f27e68727b]
+## 29. Power of OSCR to obtain information for inquiries[^c-666412a2158a8d1ab37407f27e68727b]
 
 *Extent: S*
 
-(1) OSCR may [^key-65bcbcd0c5e70933087844867a509c4e]... require any person to provide to it—
+(1) OSCR may [^c-65bcbcd0c5e70933087844867a509c4e]... require any person to provide to it—
 
 - (a) any document, or a copy of or extract from any document,
 - (b) documents of any type, or copies of or extracts from such documents,
@@ -28,13 +28,13 @@ summary: ''
 
 which OSCR considers necessary for the purposes of inquiries under section 28.
 
-(2) Where OSCR makes such a requirement, it must give a notice to the person specifying—[^key-b4067806291ab91200cf2df06ceb612a]
+(2) Where OSCR makes such a requirement, it must give a notice to the person specifying—[^c-b4067806291ab91200cf2df06ceb612a]
 
 - (a) the documents, type of documents, copies, extracts, information or explanation which the person is to provide to OSCR,
 - (b) the date (which must be at least 14 days after the date on which the notice is given) by which the person must do so, and
 - (c) the effect of subsection (6).
 
-(2A)[^key-23333b5a275e780659efaf15466c01cc] But OSCR must not give notice under subsection (2) unless and until the decision to make the requirement under subsection (1) has effect (see section 73(3)).
+(2A)[^c-23333b5a275e780659efaf15466c01cc] But OSCR must not give notice under subsection (2) unless and until the decision to make the requirement under subsection (1) has effect (see section 73(3)).
 
 (3) Subsection (1) does not authorise OSCR to require the disclosure of anything which a person would be entitled to refuse to disclose on grounds of confidentiality in proceedings in the Court of Session.
 
@@ -46,10 +46,10 @@ which OSCR considers necessary for the purposes of inquiries under section 28.
 
 ## Annotations
 
-[^key-666412a2158a8d1ab37407f27e68727b]: Commencement: S. 29 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-666412a2158a8d1ab37407f27e68727b]: Commencement: S. 29 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
 
-[^key-65bcbcd0c5e70933087844867a509c4e]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/asp/2005/10/section/29/1) repealed (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 16(2)(a)](https://www.legislation.gov.uk/asp/2023/5/section/16/2/a), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 7](https://www.legislation.gov.uk/ssi/2024/63/regulation/7))
+[^c-65bcbcd0c5e70933087844867a509c4e]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/asp/2005/10/section/29/1) repealed (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 16(2)(a)](https://www.legislation.gov.uk/asp/2023/5/section/16/2/a), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 7](https://www.legislation.gov.uk/ssi/2024/63/regulation/7))
 
-[^key-b4067806291ab91200cf2df06ceb612a]: Textual amendment: Words in [s. 29(2)](https://www.legislation.gov.uk/asp/2005/10/section/29/2) substituted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 16(2)(b)](https://www.legislation.gov.uk/asp/2023/5/section/16/2/b), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 7](https://www.legislation.gov.uk/ssi/2024/63/regulation/7))
+[^c-b4067806291ab91200cf2df06ceb612a]: Textual amendment: Words in [s. 29(2)](https://www.legislation.gov.uk/asp/2005/10/section/29/2) substituted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 16(2)(b)](https://www.legislation.gov.uk/asp/2023/5/section/16/2/b), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 7](https://www.legislation.gov.uk/ssi/2024/63/regulation/7))
 
-[^key-23333b5a275e780659efaf15466c01cc]: Textual amendment: [S. 29(2A)](https://www.legislation.gov.uk/asp/2005/10/section/29/2A) inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 16(2)(c)](https://www.legislation.gov.uk/asp/2023/5/section/16/2/c), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 7](https://www.legislation.gov.uk/ssi/2024/63/regulation/7))
+[^c-23333b5a275e780659efaf15466c01cc]: Textual amendment: [S. 29(2A)](https://www.legislation.gov.uk/asp/2005/10/section/29/2A) inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 16(2)(c)](https://www.legislation.gov.uk/asp/2023/5/section/16/2/c), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 7](https://www.legislation.gov.uk/ssi/2024/63/regulation/7))

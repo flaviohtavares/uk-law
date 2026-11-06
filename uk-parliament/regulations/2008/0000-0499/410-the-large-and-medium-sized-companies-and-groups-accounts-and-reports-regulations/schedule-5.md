@@ -213,7 +213,7 @@ In this Schedule—
 - (a) “**shares**” means shares (whether allotted or not) in the company, or any undertaking which is a group undertaking in relation to the company, and includes a share warrant as defined by section 779(1) of the 2006 Act; and
 - (b) “**share option**” means a right to acquire shares.
 
-#### 13. Meaning of “pension scheme” and related expressions[^key-dcfc3a7311f79ad129d85c98fc714c15]
+#### 13. Meaning of “pension scheme” and related expressions[^c-dcfc3a7311f79ad129d85c98fc714c15]
 
 (1) In this Schedule—
 
@@ -273,4 +273,4 @@ the company may assume for the purposes of this paragraph that those benefits wi
 
 ## Annotations
 
-[^key-dcfc3a7311f79ad129d85c98fc714c15]: Textual amendment: [Sch. 5 para. 13(1)](https://www.legislation.gov.uk/uksi/2008/410/schedule/5/paragraph/13/1) substituted (7.8.2018) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2018/860/regulation/10/2)
+[^c-dcfc3a7311f79ad129d85c98fc714c15]: Textual amendment: [Sch. 5 para. 13(1)](https://www.legislation.gov.uk/uksi/2008/410/schedule/5/paragraph/13/1) substituted (7.8.2018) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2018/860/regulation/10/2)

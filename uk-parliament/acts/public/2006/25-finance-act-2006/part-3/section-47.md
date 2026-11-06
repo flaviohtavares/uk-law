@@ -44,10 +44,10 @@ summary: ''
 - (b) references to the original master version of a film include the original master version of the film soundtrack (if any);
 - (c) references to the original master version include any rights in the original master version that are held or acquired with it.
 
-(6)[^key-8c148fcbc447227ec615f0d1d96e7191] The provisions of sections 1181 to 1187 of CTA 2009 apply for the purposes of this section as if this section were contained in Part 15 of that Act.
+(6)[^c-8c148fcbc447227ec615f0d1d96e7191] The provisions of sections 1181 to 1187 of CTA 2009 apply for the purposes of this section as if this section were contained in Part 15 of that Act.
 
 ## Annotations
 
 [^c19091871]: Textual amendment: Words in s. 47(1)(a)(b)(i)(3)(a)(b)(i) substituted (29.12.2006) by The Finance Act 2006, Section 53(2) (Films and Sound Recordings: Power to alter Dates) Order 2006 ([S.I. 2006/3265](https://www.legislation.gov.uk/uksi/2006/3265)), {art. 2}
 
-[^key-8c148fcbc447227ec615f0d1d96e7191]: Textual amendment: S. 47(6) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 679](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/679) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-8c148fcbc447227ec615f0d1d96e7191]: Textual amendment: S. 47(6) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 679](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/679) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

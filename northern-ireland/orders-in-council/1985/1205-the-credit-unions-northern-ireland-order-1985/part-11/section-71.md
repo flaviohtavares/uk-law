@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where a credit union is to be dissolved under Article 68 the credit union shall not be dissolved until there has been lodged with the FCA[^key-fd96cec0efea2b965ede2c6fc33c3f83] a certificate that all property vested in the credit union has been duly conveyed or transferred to the persons entitled and such certificate shall be signed—
+(1) Where a credit union is to be dissolved under Article 68 the credit union shall not be dissolved until there has been lodged with the FCA[^c-fd96cec0efea2b965ede2c6fc33c3f83] a certificate that all property vested in the credit union has been duly conveyed or transferred to the persons entitled and such certificate shall be signed—
 
 - (a) where the credit union is to be dissolved under Article 68(a), by the liquidator; or
 - (b) where the credit union is to be dissolved under Article 68(b), by the secretary or other officer of the credit union approved by the FCA .
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd96cec0efea2b965ede2c6fc33c3f83]: Textual amendment: Word in art. 71 substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(u)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/u) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-fd96cec0efea2b965ede2c6fc33c3f83]: Textual amendment: Word in art. 71 substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(u)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/u) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))

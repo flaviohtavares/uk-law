@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Continuity strategy: contents[^key-2e2e9e2cf6a49a2abf6c312e363e176b]
+## 38. Continuity strategy: contents[^c-2e2e9e2cf6a49a2abf6c312e363e176b]
 
 *Extent: N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e2e9e2cf6a49a2abf6c312e363e176b]: Commencement: Reg. 38 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-2e2e9e2cf6a49a2abf6c312e363e176b]: Commencement: Reg. 38 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00039]: Footnote: The term “triggering event period” is explained in section 83 of the Pension Schemes Act 2021

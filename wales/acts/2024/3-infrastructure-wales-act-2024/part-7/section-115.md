@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Power to enter land and take steps required by notice of unauthorised development[^key-c08b730bd18f7513fff2369241ce65f0][^key-0e2c24fcf586f0915d378568db65e788]
+## 115. Power to enter land and take steps required by notice of unauthorised development[^c-c08b730bd18f7513fff2369241ce65f0][^c-0e2c24fcf586f0915d378568db65e788]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c08b730bd18f7513fff2369241ce65f0]: Commencement: S. 115 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-c08b730bd18f7513fff2369241ce65f0]: Commencement: S. 115 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-0e2c24fcf586f0915d378568db65e788]: Commencement: [S. 115](https://www.legislation.gov.uk/asc/2024/3/section/115) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-0e2c24fcf586f0915d378568db65e788]: Commencement: [S. 115](https://www.legislation.gov.uk/asc/2024/3/section/115) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

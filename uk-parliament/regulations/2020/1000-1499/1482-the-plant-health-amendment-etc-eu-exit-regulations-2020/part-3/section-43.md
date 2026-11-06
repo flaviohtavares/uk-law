@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Commission Decision [2002/757/EC](https://www.legislation.gov.uk/eud/2002/757) on provisional emergency phytosanitary measures to prevent the introduction into and the spread within the Community of Phytophthora ramorum Werres, De Cock & Man in ‘t Veld sp. nov[^key-03e95b7a29bd587421a6826fd58ce42d]
+## 43. Commission Decision [2002/757/EC](https://www.legislation.gov.uk/eud/2002/757) on provisional emergency phytosanitary measures to prevent the introduction into and the spread within the Community of Phytophthora ramorum Werres, De Cock & Man in ‘t Veld sp. nov[^c-03e95b7a29bd587421a6826fd58ce42d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-03e95b7a29bd587421a6826fd58ce42d]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-03e95b7a29bd587421a6826fd58ce42d]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
 
 [^c24375171]: Marginal citation: EUDN 2002/757.

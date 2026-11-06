@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Information.[^key-94968c4d3800403babba2479f6d73ee4][^c14454201][^c14454211]
+## 105. Information.[^c-94968c4d3800403babba2479f6d73ee4][^c14454201][^c14454211]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 ## Annotations
 
-[^key-94968c4d3800403babba2479f6d73ee4]: Textual amendment: [Ss. 103-107](https://www.legislation.gov.uk/ukpga/1994/9/section/103) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-94968c4d3800403babba2479f6d73ee4]: Textual amendment: [Ss. 103-107](https://www.legislation.gov.uk/ukpga/1994/9/section/103) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
 [^c14454201]: Subordinate legislation: S. 105(5) power exercised: 1.1.1996 appointed by [S.I. 1995/3125](https://www.legislation.gov.uk/uksi/1995/3125), [art. 2](https://www.legislation.gov.uk/uksi/1995/3125/article/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Right to adapt rented houses[^key-2f6e1120f0d7626dbd351b4a51f08522]
+## 18. Right to adapt rented houses[^c-2f6e1120f0d7626dbd351b4a51f08522]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f6e1120f0d7626dbd351b4a51f08522]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2014/14/section/18) in force at 1.12.2017 by [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-2f6e1120f0d7626dbd351b4a51f08522]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2014/14/section/18) in force at 1.12.2017 by [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)

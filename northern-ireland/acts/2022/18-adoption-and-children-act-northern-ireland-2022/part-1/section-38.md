@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Recovery orders[^key-d3cf782a3a0a61157a887b1d2eb99bf3]
+## 38. Recovery orders[^c-d3cf782a3a0a61157a887b1d2eb99bf3]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ by or on behalf of the prosecution, unless evidence relating to it is adduced, o
 
 ## Annotations
 
-[^key-d3cf782a3a0a61157a887b1d2eb99bf3]: Commencement: S. 38 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-d3cf782a3a0a61157a887b1d2eb99bf3]: Commencement: S. 38 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

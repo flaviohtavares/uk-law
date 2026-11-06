@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Regulations under sections 33 and 35: procedure etc.[^key-00fcd4b6fda284bf82c92ae45d5cad8d]
+## 36. Regulations under sections 33 and 35: procedure etc.[^c-00fcd4b6fda284bf82c92ae45d5cad8d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00fcd4b6fda284bf82c92ae45d5cad8d]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2019/14/section/36) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-00fcd4b6fda284bf82c92ae45d5cad8d]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2019/14/section/36) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

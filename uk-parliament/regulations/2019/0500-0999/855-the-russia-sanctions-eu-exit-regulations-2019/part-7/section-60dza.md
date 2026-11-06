@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60DZA. Trade: exceptions relating to sectoral software and technology[^key-bd4aa04e054c699d44010390019e4119]
+## 60DZA. Trade: exceptions relating to sectoral software and technology[^c-bd4aa04e054c699d44010390019e4119]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd4aa04e054c699d44010390019e4119]: Textual amendment: [Reg. 60DZA](https://www.legislation.gov.uk/uksi/2019/855/regulation/60DZA) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/504/regulation/12) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-bd4aa04e054c699d44010390019e4119]: Textual amendment: [Reg. 60DZA](https://www.legislation.gov.uk/uksi/2019/855/regulation/60DZA) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/504/regulation/12) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))

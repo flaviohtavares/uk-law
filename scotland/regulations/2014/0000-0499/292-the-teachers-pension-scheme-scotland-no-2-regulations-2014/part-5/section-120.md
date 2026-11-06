@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Meaning of “entitlement day” (short-service annuity)[^key-ee65777e70435c955980206c714bed13]
+## 120. Meaning of “entitlement day” (short-service annuity)[^c-ee65777e70435c955980206c714bed13]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The entitlement day for a short-service annuity is the date specified in an appl
 
 ## Annotations
 
-[^key-ee65777e70435c955980206c714bed13]: Commencement: [Reg. 120](https://www.legislation.gov.uk/ssi/2014/292/regulation/120) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-ee65777e70435c955980206c714bed13]: Commencement: [Reg. 120](https://www.legislation.gov.uk/ssi/2014/292/regulation/120) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

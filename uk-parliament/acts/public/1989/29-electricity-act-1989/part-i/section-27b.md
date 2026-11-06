@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27B. Statement of policy with respect to penalties.[^key-e1bce7f0e8d798e8ae3816cb161b62bb][^key-540afd65dd3edb45e923d55035bb73cc][^key-9a72de45f432c034cb1c767380f08562][^key-31495bd4070a0cbdaa07485ef1b81c6f][^c4112591]
+## 27B. Statement of policy with respect to penalties.[^c-e1bce7f0e8d798e8ae3816cb161b62bb][^c-540afd65dd3edb45e923d55035bb73cc][^c-9a72de45f432c034cb1c767380f08562][^c-31495bd4070a0cbdaa07485ef1b81c6f][^c4112591]
 
 *Extent: E+W+S*
 
@@ -32,12 +32,12 @@ summary: ''
 
 ## Annotations
 
-[^key-e1bce7f0e8d798e8ae3816cb161b62bb]: Modification: Ss. 25-28 applied (1.4.2005) by [The Renewables Obligation (Scotland) Order 2005 (S.S.I. 2005/185)](https://www.legislation.gov.uk/ssi/2005/185), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2005/185/article/1/1), [18(22)](https://www.legislation.gov.uk/ssi/2005/185/article/18/22)
+[^c-e1bce7f0e8d798e8ae3816cb161b62bb]: Modification: Ss. 25-28 applied (1.4.2005) by [The Renewables Obligation (Scotland) Order 2005 (S.S.I. 2005/185)](https://www.legislation.gov.uk/ssi/2005/185), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2005/185/article/1/1), [18(22)](https://www.legislation.gov.uk/ssi/2005/185/article/18/22)
 
-[^key-540afd65dd3edb45e923d55035bb73cc]: Modification: Ss. 25-28 applied (1.4.2006) by [The Renewables Obligation (Scotland) Order 2006 (S.S.I. 2006/173)](https://www.legislation.gov.uk/ssi/2006/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/173/article/1/1), [24(8)](https://www.legislation.gov.uk/ssi/2006/173/article/24/8)
+[^c-540afd65dd3edb45e923d55035bb73cc]: Modification: Ss. 25-28 applied (1.4.2006) by [The Renewables Obligation (Scotland) Order 2006 (S.S.I. 2006/173)](https://www.legislation.gov.uk/ssi/2006/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/173/article/1/1), [24(8)](https://www.legislation.gov.uk/ssi/2006/173/article/24/8)
 
-[^key-9a72de45f432c034cb1c767380f08562]: Modification: Ss. 25-28 applied (with modifications) (S.) (1.4.2007) by [The Renewables Obligation (Scotland) Order 2007 (S.S.I. 2007/267)](https://www.legislation.gov.uk/ssi/2007/267), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/267/article/1/1), [31](https://www.legislation.gov.uk/ssi/2007/267/article/31)
+[^c-9a72de45f432c034cb1c767380f08562]: Modification: Ss. 25-28 applied (with modifications) (S.) (1.4.2007) by [The Renewables Obligation (Scotland) Order 2007 (S.S.I. 2007/267)](https://www.legislation.gov.uk/ssi/2007/267), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/267/article/1/1), [31](https://www.legislation.gov.uk/ssi/2007/267/article/31)
 
-[^key-31495bd4070a0cbdaa07485ef1b81c6f]: Modification: Ss. 25-28 applied (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [74(6)](https://www.legislation.gov.uk/uksi/2015/1947/article/74/6)
+[^c-31495bd4070a0cbdaa07485ef1b81c6f]: Modification: Ss. 25-28 applied (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [74(6)](https://www.legislation.gov.uk/uksi/2015/1947/article/74/6)
 
 [^c4112591]: Textual amendment: Ss. 27A-27F inserted (20.12.2000 for specified purposes and otherwise 1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 59(1)](https://www.legislation.gov.uk/ukpga/2000/27/section/59/1); [S.I. 2000/3343](https://www.legislation.gov.uk/uksi/2000/3343), [art. 2](https://www.legislation.gov.uk/uksi/2000/3343/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3343/schedule) (subject to transitional provisions in [arts. 3-15](https://www.legislation.gov.uk/uksi/2000/3343/article/3)) (as amended by [S.I. 2001/1780](https://www.legislation.gov.uk/uksi/2001/1780), [art. 2](https://www.legislation.gov.uk/uksi/2001/1780/article/2)); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))

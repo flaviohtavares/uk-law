@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Federation comprising voluntary controlled schools only[^key-8304cde33bb4421a21412a47d28bb243]
+## 28. Federation comprising voluntary controlled schools only[^c-8304cde33bb4421a21412a47d28bb243]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8304cde33bb4421a21412a47d28bb243]: Commencement: Reg. 28 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-8304cde33bb4421a21412a47d28bb243]: Commencement: Reg. 28 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00020]: Footnote: Within the meaning of section 20 of, and Schedule 2 to, the 1998 Act.

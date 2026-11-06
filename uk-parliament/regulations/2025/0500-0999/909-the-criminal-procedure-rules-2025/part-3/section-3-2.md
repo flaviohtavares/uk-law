@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.2. The duty of the court[^key-f59e121150e627a11cadb95cfc247c20]
+## 3.2. The duty of the court[^c-f59e121150e627a11cadb95cfc247c20]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f59e121150e627a11cadb95cfc247c20]: Commencement: [Rule 3.2](https://www.legislation.gov.uk/uksi/2025/909/rule/3.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f59e121150e627a11cadb95cfc247c20]: Commencement: [Rule 3.2](https://www.legislation.gov.uk/uksi/2025/909/rule/3.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00092]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); section 51 was substituted by section 200 of the Police, Crime, Sentencing and Courts Act [2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32).
 

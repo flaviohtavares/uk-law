@@ -66,24 +66,24 @@ summary: ''
 </tbody>
 </table>
 
-[^key-a398568b2d01675ca5805700c0ca9a30][^key-c8af4325584a61a7be77543dd8c66376][^key-c8af4325584a61a7be77543dd8c66376][^M_I_c1a5d8e3-a2d2-48b1-b3b8-5efd99b58913][^M_I_e5a36a86-3905-4519-8a12-d9a206d3e46f][^M_I_74799fa7-19c4-483d-da1b-b97c41af1e1d][^M_I_f0991f1c-77fd-4223-bdd4-87d15c1e17ab][^M_I_996ff983-2375-4713-e7a5-e774ed70129d][^M_I_1cc5a57e-7f9d-4044-8fd3-11e6a4e7f2bd][^M_I_ad73409c-e786-4e8a-8ff3-96796f35e3a7][^M_I_42969240-c1ed-4a20-a3c2-6b87a2c691be][^M_I_8f76dea7-4c3e-4b38-8d4d-4bf041464de5][^M_I_cda250ec-5274-4469-b32f-44774cae2c57][^M_I_98c0d609-602d-4f42-b034-045336659ff0]
+[^c-a398568b2d01675ca5805700c0ca9a30][^c-c8af4325584a61a7be77543dd8c66376][^c-c8af4325584a61a7be77543dd8c66376][^M_I_c1a5d8e3-a2d2-48b1-b3b8-5efd99b58913][^M_I_e5a36a86-3905-4519-8a12-d9a206d3e46f][^M_I_74799fa7-19c4-483d-da1b-b97c41af1e1d][^M_I_f0991f1c-77fd-4223-bdd4-87d15c1e17ab][^M_I_996ff983-2375-4713-e7a5-e774ed70129d][^M_I_1cc5a57e-7f9d-4044-8fd3-11e6a4e7f2bd][^M_I_ad73409c-e786-4e8a-8ff3-96796f35e3a7][^M_I_42969240-c1ed-4a20-a3c2-6b87a2c691be][^M_I_8f76dea7-4c3e-4b38-8d4d-4bf041464de5][^M_I_cda250ec-5274-4469-b32f-44774cae2c57][^M_I_98c0d609-602d-4f42-b034-045336659ff0]
 
 ### PART II — Requirements relating to optional dipped-beam headlamps
 
-**1.**[^key-2653a30e285469c68a75e6560af436fc] In the case of a vehicle with three or more wheels having a maximum speed exceeding 25 mph first used on or after 1st April 1991, two and not more than two may be fitted and the only requirements prescribed by these Regulations in respect of any which are fitted are–
+**1.**[^c-2653a30e285469c68a75e6560af436fc] In the case of a vehicle with three or more wheels having a maximum speed exceeding 25 mph first used on or after 1st April 1991, two and not more than two may be fitted and the only requirements prescribed by these Regulations in respect of any which are fitted are–
 
 - (a) those specified in paragraphs 2(c), 4, 7, 10 and 12(a) of Part I,
 - (b) that they are designed for a vehicle which is intended to be driven on the right-hand side of the road,
 - (c) that they form a matched pair, and
 - (d) that their electrical connections are such that not more than one pair of dipped-beam headlamps is capable of being illuminated at a time.
 
-**2.**[^key-a2298eef6a0b87a7c8be79edabe0f0df] In the case of any other vehicle, any number may be fitted and the only requirements prescribed by these Regulations in respect of any which are fitted are those specified in paragraphs 2(c), 4, 7 and 12(a) of Part I.
+**2.**[^c-a2298eef6a0b87a7c8be79edabe0f0df] In the case of any other vehicle, any number may be fitted and the only requirements prescribed by these Regulations in respect of any which are fitted are those specified in paragraphs 2(c), 4, 7 and 12(a) of Part I.
 
 ## Annotations
 
-[^key-a398568b2d01675ca5805700c0ca9a30]: Commencement: [Sch. 4 Pt. I para. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/4/paragraph/1) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-a398568b2d01675ca5805700c0ca9a30]: Commencement: [Sch. 4 Pt. I para. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/4/paragraph/1) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-c8af4325584a61a7be77543dd8c66376]: Commencement: [Sch. 4 Pt. I para. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/4/paragraph/2) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-c8af4325584a61a7be77543dd8c66376]: Commencement: [Sch. 4 Pt. I para. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/4/paragraph/2) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
 [^M_I_c1a5d8e3-a2d2-48b1-b3b8-5efd99b58913]: Commencement: [Sch. 4 Pt. I para. 3](https://www.legislation.gov.uk/uksi/1989/1796/schedule/4/paragraph/1) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
@@ -107,6 +107,6 @@ summary: ''
 
 [^M_I_98c0d609-602d-4f42-b034-045336659ff0]: Commencement: [Sch. 4 Pt. I para. 13](https://www.legislation.gov.uk/uksi/1989/1796/schedule/4/paragraph/1) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-2653a30e285469c68a75e6560af436fc]: Commencement: Sch. 4 Pt. II para. 1 in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-2653a30e285469c68a75e6560af436fc]: Commencement: Sch. 4 Pt. II para. 1 in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-a2298eef6a0b87a7c8be79edabe0f0df]: Commencement: Sch. 4 Pt. II para. 2 in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-a2298eef6a0b87a7c8be79edabe0f0df]: Commencement: Sch. 4 Pt. II para. 2 in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

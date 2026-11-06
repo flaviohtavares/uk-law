@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Removal of requirement to prepare strategic development plans[^key-d8ec2a27d1e33082d8e10663f2a420ae]
+## 6. Removal of requirement to prepare strategic development plans[^c-d8ec2a27d1e33082d8e10663f2a420ae]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Sections 4 to 14 of the Town and Country Planning (Scotland) Act 1997 are repeal
 
 ## Annotations
 
-[^key-d8ec2a27d1e33082d8e10663f2a420ae]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/13/section/6) in force at 12.2.2023 by [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(a)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/a)
+[^c-d8ec2a27d1e33082d8e10663f2a420ae]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/13/section/6) in force at 12.2.2023 by [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(a)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/a)

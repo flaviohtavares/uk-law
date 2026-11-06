@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 146. Issue, approval and revocation of codes[^key-8e8f5c5dcdf0d77e08cf399ec81bc708]
+## 146. Issue, approval and revocation of codes[^c-8e8f5c5dcdf0d77e08cf399ec81bc708]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e8f5c5dcdf0d77e08cf399ec81bc708]: Commencement: S. 146 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-8e8f5c5dcdf0d77e08cf399ec81bc708]: Commencement: S. 146 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

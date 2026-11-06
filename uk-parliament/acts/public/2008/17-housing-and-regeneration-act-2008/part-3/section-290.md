@@ -33,7 +33,7 @@ summary: ''
 - (b) the form and content of written statements of the kind mentioned in section 279(1)(b),
 - (c) ways in which sustainability standards may be met,
 - (d) the issue of guidance for the purposes of this Chapter,
-- (e) the relationship between any provision made by virtue of this Chapter and any provision [^key-b567c568b319db35ba35f2a3f16958cc]... in relation to energy performance certificates.
+- (e) the relationship between any provision made by virtue of this Chapter and any provision [^c-b567c568b319db35ba35f2a3f16958cc]... in relation to energy performance certificates.
 
 (3) Regulations made by virtue of subsection (2)(a) or (b) may, in particular, provide for the form or content of the documents concerned to be such as may be approved by the appropriate national authority.
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b567c568b319db35ba35f2a3f16958cc]: Textual amendment: Words in s. 290(2)(e) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(k)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/k), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2011/20/schedule/18/paragraph/3), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)
+[^c-b567c568b319db35ba35f2a3f16958cc]: Textual amendment: Words in s. 290(2)(e) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(k)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/k), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2011/20/schedule/18/paragraph/3), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)

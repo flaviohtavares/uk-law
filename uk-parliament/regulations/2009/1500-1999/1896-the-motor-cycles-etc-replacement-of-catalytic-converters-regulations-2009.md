@@ -121,9 +121,9 @@ intended to be used as a replacement part unless it complies with paragraph (2) 
 
 (4) Proceedings for an offence under these Regulations shall not be brought except by the enforcement authority.
 
-(4A)[^key-a64217834c6a8e3b17b187b7bc010fd3] Paragraph (4) does not apply to proceedings in Scotland.
+(4A)[^c-a64217834c6a8e3b17b187b7bc010fd3] Paragraph (4) does not apply to proceedings in Scotland.
 
-(5) Nothing[^key-b765f71a7b8e107d985c008ad13ffed0] in these Regulations shall authorise the enforcement authority to bring proceedings in Scotland for an offence.
+(5) Nothing[^c-b765f71a7b8e107d985c008ad13ffed0] in these Regulations shall authorise the enforcement authority to bring proceedings in Scotland for an offence.
 
 Signed by authority of the Secretary of State
 
@@ -338,9 +338,9 @@ A Transposition Note may be obtained from the Cleaner Fuels and Vehicles Divisio
 
 [^c19785281]: Marginal citation: OJ No L226, 18.8.97, p.1; the Directive has been amended including by Commission Directive 2005/30/EC (OJ No L106, 27.4.05, p.17) and it was last amended by Commission Directive 2006/120/EC (OJ No L330, 28.11.06, p.16).
 
-[^key-a64217834c6a8e3b17b187b7bc010fd3]: Textual amendment: [Reg. 6(4A)](https://www.legislation.gov.uk/uksi/2009/1896/regulation/6/4A) inserted (5.9.2011) by [The Motor Cycles Etc. (Replacement of Catalytic Converters) and Motor Vehicles (Replacement of Catalytic Converters and Pollution Control Devices) (Amendment) Regulations 2011 (S.I. 2011/1854)](https://www.legislation.gov.uk/uksi/2011/1854), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1854/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1854/regulation/2/2)
+[^c-a64217834c6a8e3b17b187b7bc010fd3]: Textual amendment: [Reg. 6(4A)](https://www.legislation.gov.uk/uksi/2009/1896/regulation/6/4A) inserted (5.9.2011) by [The Motor Cycles Etc. (Replacement of Catalytic Converters) and Motor Vehicles (Replacement of Catalytic Converters and Pollution Control Devices) (Amendment) Regulations 2011 (S.I. 2011/1854)](https://www.legislation.gov.uk/uksi/2011/1854), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1854/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1854/regulation/2/2)
 
-[^key-b765f71a7b8e107d985c008ad13ffed0]: Textual amendment: Word in [reg. 6(5)](https://www.legislation.gov.uk/uksi/2009/1896/regulation/6/5) substituted (5.9.2011) by [The Motor Cycles Etc. (Replacement of Catalytic Converters) and Motor Vehicles (Replacement of Catalytic Converters and Pollution Control Devices) (Amendment) Regulations 2011 (S.I. 2011/1854)](https://www.legislation.gov.uk/uksi/2011/1854), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1854/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2011/1854/regulation/2/3)
+[^c-b765f71a7b8e107d985c008ad13ffed0]: Textual amendment: Word in [reg. 6(5)](https://www.legislation.gov.uk/uksi/2009/1896/regulation/6/5) substituted (5.9.2011) by [The Motor Cycles Etc. (Replacement of Catalytic Converters) and Motor Vehicles (Replacement of Catalytic Converters and Pollution Control Devices) (Amendment) Regulations 2011 (S.I. 2011/1854)](https://www.legislation.gov.uk/uksi/2011/1854), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1854/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2011/1854/regulation/2/3)
 
 [^c19785291]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 

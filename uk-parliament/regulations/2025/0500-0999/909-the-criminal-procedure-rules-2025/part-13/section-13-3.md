@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.3. Terms of a warrant for detention or imprisonment[^key-7cd2be9af59ecf75df9a86ed5502e51b]
+## 13.3. Terms of a warrant for detention or imprisonment[^c-7cd2be9af59ecf75df9a86ed5502e51b]
 
 *Extent: E+W*
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7cd2be9af59ecf75df9a86ed5502e51b]: Commencement: [Rule 13.3](https://www.legislation.gov.uk/uksi/2025/909/rule/13.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-7cd2be9af59ecf75df9a86ed5502e51b]: Commencement: [Rule 13.3](https://www.legislation.gov.uk/uksi/2025/909/rule/13.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00323]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 128(7) was amended by section 48 of the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60). It is modified by section 91(5) of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
 

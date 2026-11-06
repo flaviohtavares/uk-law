@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Interpretation[^key-1d8170b2677752db5ad5beb0134b4dbe]
+## 30. Interpretation[^c-1d8170b2677752db5ad5beb0134b4dbe]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d8170b2677752db5ad5beb0134b4dbe]: Textual amendment: [S. 30](https://www.legislation.gov.uk/asp/2010/11/section/30) omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/33)
+[^c-1d8170b2677752db5ad5beb0134b4dbe]: Textual amendment: [S. 30](https://www.legislation.gov.uk/asp/2010/11/section/30) omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/33)

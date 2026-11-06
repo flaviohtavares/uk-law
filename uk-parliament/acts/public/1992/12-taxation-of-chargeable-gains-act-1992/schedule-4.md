@@ -22,7 +22,7 @@ summary: ''
 
 Section 36.
 
-### Application of Schedule[^key-2c072a35dee9c741c40efc63528dfc67]
+### Application of Schedule[^c-2c072a35dee9c741c40efc63528dfc67]
 
 **A1.** This Schedule applies only for the purposes of corporation tax.
 
@@ -55,7 +55,7 @@ shall be one half of what it would be apart from this Schedule.
 
 this Schedule does not apply by virtue of this paragraph.
 
-(5) The enactments referred to in sub-paragraph (1) above are sections 23(4) and (5), 152 [^key-0e3259889adef1eee62d58b583929347]... and 247 [^key-dd71f7c08f42698927cb994c96ac0de2]... .
+(5) The enactments referred to in sub-paragraph (1) above are sections 23(4) and (5), 152 [^c-0e3259889adef1eee62d58b583929347]... and 247 [^c-dd71f7c08f42698927cb994c96ac0de2]... .
 
 **3.** (1) This paragraph applies where this Schedule would have applied on a disposal but for paragraph 2(4) above.
 
@@ -71,9 +71,9 @@ this Schedule does not apply by virtue of this paragraph.
 - (a) a gain is treated as accruing by virtue of any of the enactments specified in sub-paragraph (2) below, and
 - (b) that gain is attributable (whether directly or indirectly and whether in whole or in part) to the disposal before 6th April 1988 of an asset acquired before 31st March 1982 by the person making that disposal.
 
-(2) The enactments referred to in sub-paragraph (1) above are sections 116(10) and (11), 134, 140, 154(2), [^key-4eaaa5a714a6ca1b39bb67018923b5ef]... [^key-beb725a5b16355887a1c6c1daa73058c]... and 248(3).
+(2) The enactments referred to in sub-paragraph (1) above are sections 116(10) and (11), 134, 140, 154(2), [^c-4eaaa5a714a6ca1b39bb67018923b5ef]... [^c-beb725a5b16355887a1c6c1daa73058c]... and 248(3).
 
-(3)[^key-529d8ad913c573bf2492f0cc520ca465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-529d8ad913c573bf2492f0cc520ca465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where a gain is treated as accruing in consequence of an event, this Schedule does not apply if—
 
@@ -101,7 +101,7 @@ he shall be treated for the purposes of paragraphs 2(1)(c) and 4(1)(b) above as 
 
 (2) Where this sub-paragraph applies the deduction shall be treated for the purposes of paragraph 2 above as falling to be made on the disposal mentioned in sub-paragraph (1)(a) above and not on the no gain/no loss disposal.
 
-**7.** For the purposes of this Schedule a no gain/no loss disposal is one on which by virtue of any of the no gain/no loss provisions[^key-c672bf148a89a5e390cc339a7ebffd21] neither a gain nor a loss accrues to the person making the disposal.
+**7.** For the purposes of this Schedule a no gain/no loss disposal is one on which by virtue of any of the no gain/no loss provisions[^c-c672bf148a89a5e390cc339a7ebffd21] neither a gain nor a loss accrues to the person making the disposal.
 
 ### Assets derived from other assets
 
@@ -111,36 +111,36 @@ he shall be treated for the purposes of paragraphs 2(1)(c) and 4(1)(b) above as 
 
 **9.** (1) No relief shall be given under this Schedule unless a claim is made—
 
-- (a)[^key-578e9b039dd8755adf10546d7697c834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) [^key-7bb9c99750824fa00e7d76637e7c55ec]... within the period of 2 years beginning at the end of the [^key-0953e051c943f700039c702a72379126]... accounting period in which the disposal in question is made, or the gain in question is treated as accruing,
-- (c)[^key-14ea4c4410be490f80b2cd63872b566a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-578e9b039dd8755adf10546d7697c834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) [^c-7bb9c99750824fa00e7d76637e7c55ec]... within the period of 2 years beginning at the end of the [^c-0953e051c943f700039c702a72379126]... accounting period in which the disposal in question is made, or the gain in question is treated as accruing,
+- (c)[^c-14ea4c4410be490f80b2cd63872b566a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-or within such longer period [^key-9ec9217d6e84b8916c00b83d27a1c257]... as the Board may by notice allow.
+or within such longer period [^c-9ec9217d6e84b8916c00b83d27a1c257]... as the Board may by notice allow.
 
 (2) A claim under sub-paragraph (1) above shall be supported by such particulars as the inspector may require for the purpose of establishing entitlement to relief under this Schedule and the amount of relief due.
 
 ## Annotations
 
-[^key-2c072a35dee9c741c40efc63528dfc67]: Textual amendment: Sch. 4 para. A1 and cross-heading inserted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 74(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/74/2)
+[^c-2c072a35dee9c741c40efc63528dfc67]: Textual amendment: Sch. 4 para. A1 and cross-heading inserted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 74(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/74/2)
 
-[^key-0e3259889adef1eee62d58b583929347]: Textual amendment: Words in Sch. 4 para. 2(5) omitted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 74(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/74/3/a)
+[^c-0e3259889adef1eee62d58b583929347]: Textual amendment: Words in Sch. 4 para. 2(5) omitted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 74(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/74/3/a)
 
-[^key-dd71f7c08f42698927cb994c96ac0de2]: Textual amendment: Words in Sch. 4 para. 2(5) omitted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 74(3)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/74/3/b)
+[^c-dd71f7c08f42698927cb994c96ac0de2]: Textual amendment: Words in Sch. 4 para. 2(5) omitted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 74(3)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/74/3/b)
 
-[^key-4eaaa5a714a6ca1b39bb67018923b5ef]: Textual amendment: Words in Sch. 4 para. 4(2) omitted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 74(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/74/4)
+[^c-4eaaa5a714a6ca1b39bb67018923b5ef]: Textual amendment: Words in Sch. 4 para. 4(2) omitted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 74(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/74/4)
 
-[^key-beb725a5b16355887a1c6c1daa73058c]: Textual amendment: Words in Sch. 4 para. 4(2) repealed (28.7.2000) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 40 Pt. II(12)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/12)
+[^c-beb725a5b16355887a1c6c1daa73058c]: Textual amendment: Words in Sch. 4 para. 4(2) repealed (28.7.2000) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 40 Pt. II(12)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/12)
 
-[^key-529d8ad913c573bf2492f0cc520ca465]: Textual amendment: Sch. 4 para. 4(3) repealed (28.7.2000) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 40 Pt. II(12)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/12)
+[^c-529d8ad913c573bf2492f0cc520ca465]: Textual amendment: Sch. 4 para. 4(3) repealed (28.7.2000) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 40 Pt. II(12)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/12)
 
-[^key-c672bf148a89a5e390cc339a7ebffd21]: Textual amendment: Words in Sch. 4 para. 7 substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 66](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/66)
+[^c-c672bf148a89a5e390cc339a7ebffd21]: Textual amendment: Words in Sch. 4 para. 7 substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 66](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/66)
 
-[^key-578e9b039dd8755adf10546d7697c834]: Textual amendment: Sch. 4 para. 9(1)(a) repealed (28.7.2000) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 40 Pt. II(12)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/12)
+[^c-578e9b039dd8755adf10546d7697c834]: Textual amendment: Sch. 4 para. 9(1)(a) repealed (28.7.2000) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 40 Pt. II(12)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/12)
 
-[^key-7bb9c99750824fa00e7d76637e7c55ec]: Textual amendment: Words in Sch. 4 para. 9(1)(b) omitted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 74(5)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/74/5/a)
+[^c-7bb9c99750824fa00e7d76637e7c55ec]: Textual amendment: Words in Sch. 4 para. 9(1)(b) omitted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 74(5)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/74/5/a)
 
-[^key-0953e051c943f700039c702a72379126]: Textual amendment: Words in Sch. 4 para. 9(1)(b) repealed (with effect in accordance with s. 135(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 21 para. 43(a)(ii)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/43/a/ii), [Sch. 41 Pt. V(11)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/11)
+[^c-0953e051c943f700039c702a72379126]: Textual amendment: Words in Sch. 4 para. 9(1)(b) repealed (with effect in accordance with s. 135(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 21 para. 43(a)(ii)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/43/a/ii), [Sch. 41 Pt. V(11)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/11)
 
-[^key-14ea4c4410be490f80b2cd63872b566a]: Textual amendment: Sch. 4 para. 9(1)(c) omitted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 74(5)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/74/5/b)
+[^c-14ea4c4410be490f80b2cd63872b566a]: Textual amendment: Sch. 4 para. 9(1)(c) omitted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 74(5)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/74/5/b)
 
-[^key-9ec9217d6e84b8916c00b83d27a1c257]: Textual amendment: Words in Sch. 4 para. 9(1) omitted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 74(5)(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/74/5/c)
+[^c-9ec9217d6e84b8916c00b83d27a1c257]: Textual amendment: Words in Sch. 4 para. 9(1) omitted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 74(5)(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/74/5/c)

@@ -43,15 +43,15 @@ Coming into operation
 
 The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to compulsory insurance in respect of, and other means of providing for, civil liability in relation to motor vehicles and trailers, in exercise of the powers conferred by that section, and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-72fd840a258edebcfd4bbd5230c5e458]
+## 1. Citation and commencement[^c-72fd840a258edebcfd4bbd5230c5e458]
 
 These Regulations may be cited as the Motor Vehicles (Compulsory Insurance) Regulations (Northern Ireland) 2000 and shall come into operation on 14th December 2000.
 
-## 2. Interpretation[^key-12a828f877f9b703380aa19e7e3b974d]
+## 2. Interpretation[^c-12a828f877f9b703380aa19e7e3b974d]
 
 The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Amendment to the Road Traffic (Northern Ireland) Order 1981 in respect of motor insurance requirements[^key-77409f4187f006f6f8cd57bd62154520]
+## 3. Amendment to the Road Traffic (Northern Ireland) Order 1981 in respect of motor insurance requirements[^c-77409f4187f006f6f8cd57bd62154520]
 
 (1) The Road Traffic (Northern Ireland) Order 1981[^f00004] shall be amended in accordance with paragraphs (2) to (6).
 
@@ -63,7 +63,7 @@ The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Reg
 
 (5) In Article 99(1)(*a*)[^f00007] (liability of insurers, etc., for expenses of hospital treatment), after “road” there shall be inserted “or other public place”.
 
-(6)[^key-8d93de1315fd37deeb3dae8845c7eaf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8d93de1315fd37deeb3dae8845c7eaf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department of the Environment on 31st October 2000.
 
@@ -85,13 +85,13 @@ For the purpose of complying with the directives these Regulations amend the 198
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); by virtue of section 1 of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51), section 1(2) of that Act is amended to enable regulations to be made under section 2(2) to implement obligations of the United Kingdom arising under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and a Protocol adjusting the Agreement signed at Brussels on 17th May 1994 (Cm 2183)
 
-[^key-72fd840a258edebcfd4bbd5230c5e458]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/331/regulation/1) in operation at 14.12.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/331/regulation/1)
+[^c-72fd840a258edebcfd4bbd5230c5e458]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/331/regulation/1) in operation at 14.12.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/331/regulation/1)
 
-[^key-12a828f877f9b703380aa19e7e3b974d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/331/regulation/2) in operation at 14.12.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/331/regulation/1)
+[^c-12a828f877f9b703380aa19e7e3b974d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/331/regulation/2) in operation at 14.12.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/331/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-77409f4187f006f6f8cd57bd62154520]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/331/regulation/3) in operation at 14.12.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/331/regulation/1)
+[^c-77409f4187f006f6f8cd57bd62154520]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/331/regulation/3) in operation at 14.12.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/331/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1981 No. 154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154)
 
@@ -101,4 +101,4 @@ For the purpose of complying with the directives these Regulations amend the 198
 
 [^f00007]: Footnote: Article 99(1) was amended by [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194), Schedule 5, Part II and varied by [S.R. 1995 No. 139](https://www.legislation.gov.uk/nisr/1995/139)
 
-[^key-8d93de1315fd37deeb3dae8845c7eaf0]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/2000/331/regulation/3/6) omitted (20.5.2008) by virtue of [The Road Traffic (2007 Order) (Commencement No. 3 and Amendment) Order (Northern Ireland) 2008 (S.R. 2008/223)](https://www.legislation.gov.uk/nisr/2008/223), [art. 3](https://www.legislation.gov.uk/nisr/2008/223/article/3)
+[^c-8d93de1315fd37deeb3dae8845c7eaf0]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/2000/331/regulation/3/6) omitted (20.5.2008) by virtue of [The Road Traffic (2007 Order) (Commencement No. 3 and Amendment) Order (Northern Ireland) 2008 (S.R. 2008/223)](https://www.legislation.gov.uk/nisr/2008/223), [art. 3](https://www.legislation.gov.uk/nisr/2008/223/article/3)

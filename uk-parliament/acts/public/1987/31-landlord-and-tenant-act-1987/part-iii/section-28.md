@@ -38,14 +38,14 @@ summary: ''
 - (a) for requiring notice of an application for an acquisition order in respect of any premises to be served on such descriptions of persons as may be specified in the rules; and
 - (b) for enabling persons served with any such notice to be joined as parties to the proceedings.
 
-(5) The [^c10162381]Land Charges Act 1972 and the Land Registration Act 2002[^key-32bc3fab4ac8de28660b5398654050da] shall apply in relation to an application for an acquisition order as they apply in relation to other pending land actions.
+(5) The [^c10162381]Land Charges Act 1972 and the Land Registration Act 2002[^c-32bc3fab4ac8de28660b5398654050da] shall apply in relation to an application for an acquisition order as they apply in relation to other pending land actions.
 
-(6)[^key-74b9603eebdd9b1017e6e84767bff041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-74b9603eebdd9b1017e6e84767bff041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c10162381]: Marginal citation: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61).
 
-[^key-32bc3fab4ac8de28660b5398654050da]: Textual amendment: Words in [s. 28(5)](https://www.legislation.gov.uk/ukpga/1987/31/section/28/5) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 20](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/20) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-32bc3fab4ac8de28660b5398654050da]: Textual amendment: Words in [s. 28(5)](https://www.legislation.gov.uk/ukpga/1987/31/section/28/5) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 20](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/20) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
-[^key-74b9603eebdd9b1017e6e84767bff041]: Textual amendment: [S. 28(6)](https://www.legislation.gov.uk/ukpga/1987/31/section/28/6) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-74b9603eebdd9b1017e6e84767bff041]: Textual amendment: [S. 28(6)](https://www.legislation.gov.uk/ukpga/1987/31/section/28/6) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)

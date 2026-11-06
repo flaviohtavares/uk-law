@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Recovery orders[^key-d57439873e349d941048b138800c5703]
+## 177. Recovery orders[^c-d57439873e349d941048b138800c5703]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ summary: ''
 (10) A recovery order made by a court in England and Wales or Northern Ireland may provide for payment under article 191 of reasonable legal expenses that a person has reasonably incurred, or may reasonably incur, in respect of—
 
 - (a) the proceedings under this Part in which the order is made, or
-- (b) any related proceedings under this Part or Part 4A[^key-a0ce44334fb9e09839a38a578db6f76b].
+- (b) any related proceedings under this Part or Part 4A[^c-a0ce44334fb9e09839a38a578db6f76b].
 
 (11) If regulations under article 199 apply to an item of expenditure, a sum in respect of the item is not payable under article 199 in pursuance of provision under paragraph (10) unless—
 
@@ -71,8 +71,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d57439873e349d941048b138800c5703]: Commencement: [Art. 177](https://www.legislation.gov.uk/uksi/2005/3181/article/177) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-d57439873e349d941048b138800c5703]: Commencement: [Art. 177](https://www.legislation.gov.uk/uksi/2005/3181/article/177) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00093]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
-[^key-a0ce44334fb9e09839a38a578db6f76b]: Textual amendment: Words in [art. 177(10)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/177/10/b) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [39](https://www.legislation.gov.uk/uksi/2016/662/article/39)
+[^c-a0ce44334fb9e09839a38a578db6f76b]: Textual amendment: Words in [art. 177(10)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/177/10/b) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [39](https://www.legislation.gov.uk/uksi/2016/662/article/39)

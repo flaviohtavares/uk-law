@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Temporary use of land for maintaining the authorised development[^key-2bea49d2e5b2f46bcc543a3386c31a96]
+## 35. Temporary use of land for maintaining the authorised development[^c-2bea49d2e5b2f46bcc543a3386c31a96]
 
 *Extent: E+W*
 
@@ -47,10 +47,10 @@ summary: ''
 
 (10) Section 13 (refusal to give possession to acquiring authority) of the 1965 Act applies to the temporary use of land under this article to the same extent as it applies to the compulsory acquisition of land under this Order by virtue of section 125 (application of compulsory acquisition provisions) of the 2008 Act.
 
-(11) In this article “**the maintenance period**”, in relation to any part of the authorised development, means the period of 10[^key-bb3349d0a487bd1ebc6f5d7812bb596b] years beginning with the date on which that part of the authorised development is first opened for use.
+(11) In this article “**the maintenance period**”, in relation to any part of the authorised development, means the period of 10[^c-bb3349d0a487bd1ebc6f5d7812bb596b] years beginning with the date on which that part of the authorised development is first opened for use.
 
 ## Annotations
 
-[^key-2bea49d2e5b2f46bcc543a3386c31a96]: Commencement: Art. 35 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-2bea49d2e5b2f46bcc543a3386c31a96]: Commencement: Art. 35 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-bb3349d0a487bd1ebc6f5d7812bb596b]: Textual amendment: Word in [art. 35(11)](https://www.legislation.gov.uk/uksi/2024/752/article/35/11) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-bb3349d0a487bd1ebc6f5d7812bb596b]: Textual amendment: Word in [art. 35(11)](https://www.legislation.gov.uk/uksi/2024/752/article/35/11) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)

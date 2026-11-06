@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. Certification of documents, public register, etc.[^key-8b1c2039860aa2ec6b7f03cc0a7d3112]
+## 63. Certification of documents, public register, etc.[^c-8b1c2039860aa2ec6b7f03cc0a7d3112]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b1c2039860aa2ec6b7f03cc0a7d3112]: Commencement: Art. 63 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-8b1c2039860aa2ec6b7f03cc0a7d3112]: Commencement: Art. 63 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

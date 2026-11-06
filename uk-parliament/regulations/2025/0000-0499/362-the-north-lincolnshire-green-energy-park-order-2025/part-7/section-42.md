@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Protective provisions[^key-43b8b8f8ee1db4425340fbba269937e6]
+## 42. Protective provisions[^c-43b8b8f8ee1db4425340fbba269937e6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 14 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-43b8b8f8ee1db4425340fbba269937e6]: Commencement: Art. 42 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-43b8b8f8ee1db4425340fbba269937e6]: Commencement: Art. 42 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

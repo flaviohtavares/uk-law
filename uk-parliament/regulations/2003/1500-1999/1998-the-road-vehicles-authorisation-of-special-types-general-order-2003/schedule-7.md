@@ -22,7 +22,7 @@ summary: ''
 
 Article 15(5), 23(4) and 34(5)
 
-**1.**[^key-098403879cc6c03f6693d281e3e0361b] (1) An application for the consent of the Secretary of State must be made in writing.
+**1.**[^c-098403879cc6c03f6693d281e3e0361b] (1) An application for the consent of the Secretary of State must be made in writing.
 
 (2) The application[^f00033] must contain—
 
@@ -59,7 +59,7 @@ Article 15(5), 23(4) and 34(5)
 - (a) “single rigid unit”, in relation to a Part 2 vehicle-combination, has the meaning given in article 12(4); and
 - (b) a vehicle is to be treated as carrying a load of exceptional width only where it falls within the recognised category of special vehicles mentioned in article 28(1) and the overall width of the vehicle, together with the width of any lateral projection or projections of the load, exceeds 5 metres.
 
-**2.**[^key-c7cb85939b0140e1323acab7c7662c9c] (1) If, following an application under paragraph 1, the Secretary of State gives consent in respect of any road movement of a vehicle or vehicle-combination, any written document from the Secretary of State which evidences the consent must be carried in the vehicle (or in one of the vehicles included in the vehicle-combination) at all times when the vehicle or vehicle-combination is being used for the purpose of the journey to which the consent relates.
+**2.**[^c-c7cb85939b0140e1323acab7c7662c9c] (1) If, following an application under paragraph 1, the Secretary of State gives consent in respect of any road movement of a vehicle or vehicle-combination, any written document from the Secretary of State which evidences the consent must be carried in the vehicle (or in one of the vehicles included in the vehicle-combination) at all times when the vehicle or vehicle-combination is being used for the purpose of the journey to which the consent relates.
 
 (2) The vehicle or vehicle-combination must be used in accordance with the details in the written document.
 
@@ -71,8 +71,8 @@ Article 15(5), 23(4) and 34(5)
 
 ## Annotations
 
-[^key-098403879cc6c03f6693d281e3e0361b]: Commencement: Sch. 7 para. 1 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-098403879cc6c03f6693d281e3e0361b]: Commencement: Sch. 7 para. 1 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
 [^f00033]: Footnote: A standard application form is available on the website of the Department for Transport (www.dft.gov.uk) or the Highways Agency (www.highways.gov.uk) or can be obtained by contacting the Department for Transport (VSE section 7 on 020 7944 2102) or the Highways Agency Traffic Operations Directorate (Abnormal Loads team on 0121 678 8411).
 
-[^key-c7cb85939b0140e1323acab7c7662c9c]: Commencement: Sch. 7 para. 2 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-c7cb85939b0140e1323acab7c7662c9c]: Commencement: Sch. 7 para. 2 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

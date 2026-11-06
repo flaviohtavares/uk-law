@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Arrangements under Employment and Training Act 1973.[^c2553091][^key-a785940574c8d6e68817443ec04bcdb9]
+## 45. Arrangements under Employment and Training Act 1973.[^c2553091][^c-a785940574c8d6e68817443ec04bcdb9]
 
 *Extent: E+W*
 
@@ -30,14 +30,14 @@ summary: ''
 - (b) a board constituted in pursuance of section 2 of the Town and Country Planning Act 1990[^c2553141] [^M_F_86f3bb09-51e3-4cb9-a590-689f19b3e329]. . .; [^c2553161]...
 - (bb)[^c2553171] the Broads Authority; [^c2553161]...
 - (c) the Common Council of the City of London.
-- (ca)[^key-ab0e7d7394ac6725456567de00af765f] a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004; and
-- (d)[^key-88c43c0a06edac53ac27c24d68c0db21] the London Fire Commissioner.
+- (ca)[^c-ab0e7d7394ac6725456567de00af765f] a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004; and
+- (d)[^c-88c43c0a06edac53ac27c24d68c0db21] the London Fire Commissioner.
 
 ## Annotations
 
 [^c2553091]: Modification: S. 45 extended (19.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 65(7)](https://www.legislation.gov.uk/ukpga/1995/25/section/65/7), [125(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/2), [Sch. 8 para. 3(4)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/3/4) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7))
 
-[^key-a785940574c8d6e68817443ec04bcdb9]: Modification: S. 45 modified (22.7.2004) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [29(4)](https://www.legislation.gov.uk/uksi/2004/1777/article/29/4)
+[^c-a785940574c8d6e68817443ec04bcdb9]: Modification: S. 45 modified (22.7.2004) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [29(4)](https://www.legislation.gov.uk/uksi/2004/1777/article/29/4)
 
 [^c2553101]: Textual amendment: Words repealed by virtue of [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
 
@@ -55,6 +55,6 @@ summary: ''
 
 [^c2553171]: Textual amendment: S. 45(2)(bb) inserted by [Norfolk and Suffolk Broads Act 1988 (c. 4, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1988/4), [ss. 21](https://www.legislation.gov.uk/ukpga/1988/4/section/21), [23(2)](https://www.legislation.gov.uk/ukpga/1988/4/section/23/2), [27(2)](https://www.legislation.gov.uk/ukpga/1988/4/section/27/2), [Sch. 6 para. 23(2)](https://www.legislation.gov.uk/ukpga/1988/4/schedule/6/paragraph/23/2)
 
-[^key-ab0e7d7394ac6725456567de00af765f]: Textual amendment: S. 45(2)(ca) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 47](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/47); S.I. 2017/399, reg. 2, Sch. para. 38
+[^c-ab0e7d7394ac6725456567de00af765f]: Textual amendment: S. 45(2)(ca) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 47](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/47); S.I. 2017/399, reg. 2, Sch. para. 38
 
-[^key-88c43c0a06edac53ac27c24d68c0db21]: Textual amendment: S. 45(2)(d) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/68); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-88c43c0a06edac53ac27c24d68c0db21]: Textual amendment: S. 45(2)(d) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/68); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)

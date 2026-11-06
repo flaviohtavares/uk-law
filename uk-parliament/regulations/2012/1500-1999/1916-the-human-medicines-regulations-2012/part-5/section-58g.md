@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58G. Consideration of applications in relation to medicinal products containing or consisting of genetically modified organisms[^key-905b906e5f5151d0432212f6a8e49089]
+## 58G. Consideration of applications in relation to medicinal products containing or consisting of genetically modified organisms[^c-905b906e5f5151d0432212f6a8e49089]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-905b906e5f5151d0432212f6a8e49089]: Textual amendment: Regs. 58A-58G inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [64](https://www.legislation.gov.uk/uksi/2019/775/regulation/64) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-905b906e5f5151d0432212f6a8e49089]: Textual amendment: Regs. 58A-58G inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [64](https://www.legislation.gov.uk/uksi/2019/775/regulation/64) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Service in two or more scheme employments[^key-a29a63b1d264b5741bc3c6101ec77c55]
+## 8. Service in two or more scheme employments[^c-a29a63b1d264b5741bc3c6101ec77c55]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If a person is in service in two or more scheme employments, regulation 7 (eligi
 
 ## Annotations
 
-[^key-a29a63b1d264b5741bc3c6101ec77c55]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/2848/regulation/8) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-a29a63b1d264b5741bc3c6101ec77c55]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/2848/regulation/8) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

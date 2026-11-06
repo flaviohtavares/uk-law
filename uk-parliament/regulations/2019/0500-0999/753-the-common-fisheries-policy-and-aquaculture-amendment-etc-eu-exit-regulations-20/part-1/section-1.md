@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-e748da66b85fe5578f9d878f035e7207]
+## 1. Citation and commencement[^c-e748da66b85fe5578f9d878f035e7207]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Common Fisheries Policy and Aquaculture (A
 
 ## Annotations
 
-[^key-e748da66b85fe5578f9d878f035e7207]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-e748da66b85fe5578f9d878f035e7207]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

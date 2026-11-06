@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Procedure and appeals etc[^key-58bd89b13ae02efae2e96791cea5e2f4][^key-3f028597b4350993ae693125c427236a]
+## 89. Procedure and appeals etc[^c-58bd89b13ae02efae2e96791cea5e2f4][^c-3f028597b4350993ae693125c427236a]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-58bd89b13ae02efae2e96791cea5e2f4]: Commencement: S. 89 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-58bd89b13ae02efae2e96791cea5e2f4]: Commencement: S. 89 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-3f028597b4350993ae693125c427236a]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2024/13/section/89) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-3f028597b4350993ae693125c427236a]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2024/13/section/89) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

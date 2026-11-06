@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Meaning of “qualifying event” etc[^key-fd03822ad60e8d80d4a42a1e0d6b0ea8]
+## 98. Meaning of “qualifying event” etc[^c-fd03822ad60e8d80d4a42a1e0d6b0ea8]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ but, if the person has previously made a claim specifying a tax year in respect 
 
 ## Annotations
 
-[^key-fd03822ad60e8d80d4a42a1e0d6b0ea8]: Modification: S. 98 applied (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 9(8)](https://www.legislation.gov.uk/ukpga/2012/14/section/9/8)
+[^c-fd03822ad60e8d80d4a42a1e0d6b0ea8]: Modification: S. 98 applied (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 9(8)](https://www.legislation.gov.uk/ukpga/2012/14/section/9/8)

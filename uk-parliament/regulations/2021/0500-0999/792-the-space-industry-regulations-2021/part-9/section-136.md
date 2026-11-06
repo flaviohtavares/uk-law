@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Risk of exposure of crew members to cosmic radiation[^key-9e10f55d168fec66e02fd1937de8ed3c]
+## 136. Risk of exposure of crew members to cosmic radiation[^c-9e10f55d168fec66e02fd1937de8ed3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e10f55d168fec66e02fd1937de8ed3c]: Commencement: Reg. 136 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-9e10f55d168fec66e02fd1937de8ed3c]: Commencement: Reg. 136 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

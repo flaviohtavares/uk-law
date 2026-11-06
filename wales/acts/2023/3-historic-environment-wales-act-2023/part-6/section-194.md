@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 194. Duty to maintain historic environment records[^key-e0b20cbfe4ada3ff37d30f5edff7ed8f][^key-34ccf88b855c338fad7794201e7a85a7]
+## 194. Duty to maintain historic environment records[^c-e0b20cbfe4ada3ff37d30f5edff7ed8f][^c-34ccf88b855c338fad7794201e7a85a7]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0b20cbfe4ada3ff37d30f5edff7ed8f]: Commencement: S. 194 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-e0b20cbfe4ada3ff37d30f5edff7ed8f]: Commencement: S. 194 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-34ccf88b855c338fad7794201e7a85a7]: Commencement: [S. 194](https://www.legislation.gov.uk/asc/2023/3/section/194) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-34ccf88b855c338fad7794201e7a85a7]: Commencement: [S. 194](https://www.legislation.gov.uk/asc/2023/3/section/194) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

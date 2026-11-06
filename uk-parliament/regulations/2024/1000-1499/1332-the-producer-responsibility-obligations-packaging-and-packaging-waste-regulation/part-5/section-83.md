@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Recalculation notices: relevant authorities[^key-02529ab20d83a32b3b3adf4d175e3acb]
+## 83. Recalculation notices: relevant authorities[^c-02529ab20d83a32b3b3adf4d175e3acb]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02529ab20d83a32b3b3adf4d175e3acb]: Commencement: Reg. 83 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-02529ab20d83a32b3b3adf4d175e3acb]: Commencement: Reg. 83 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

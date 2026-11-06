@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22B. Registration of vehicles: certificates of conformity etc.[^key-dfaefcaad472987bd94416712be3d45b]
+## 22B. Registration of vehicles: certificates of conformity etc.[^c-dfaefcaad472987bd94416712be3d45b]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ may not be registered under section 21 in Great Britain unless one of the condit
 
 ## Annotations
 
-[^key-dfaefcaad472987bd94416712be3d45b]: Textual amendment: S. 22B inserted (temp.) (31.12.2020 for a period of two years at the end of which this amending provision will expire) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/648)](https://www.legislation.gov.uk/uksi/2019/648), [regs. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2019/648/regulation/1/b/ii), [3(3)](https://www.legislation.gov.uk/uksi/2019/648/regulation/3/3) (with [reg. 11](https://www.legislation.gov.uk/uksi/2019/648/regulation/11)) (as amended by [S.I. 2020/1393](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3) and S.I. 2020/818, Sch. 6 para. 39(3)(b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dfaefcaad472987bd94416712be3d45b]: Textual amendment: S. 22B inserted (temp.) (31.12.2020 for a period of two years at the end of which this amending provision will expire) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/648)](https://www.legislation.gov.uk/uksi/2019/648), [regs. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2019/648/regulation/1/b/ii), [3(3)](https://www.legislation.gov.uk/uksi/2019/648/regulation/3/3) (with [reg. 11](https://www.legislation.gov.uk/uksi/2019/648/regulation/11)) (as amended by [S.I. 2020/1393](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3) and S.I. 2020/818, Sch. 6 para. 39(3)(b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

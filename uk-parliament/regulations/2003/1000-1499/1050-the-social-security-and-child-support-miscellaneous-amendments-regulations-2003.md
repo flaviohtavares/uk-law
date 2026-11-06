@@ -86,12 +86,12 @@ For the heading and paragraph (1) of regulation 32 of the Claims and Payments Re
 
 ## 3. Amendment of the Decisions and Appeals Regulations[^c22000511]
 
-(1) In regulation 1(3) of the Decisions and Appeals Regulations (citation, commencement and interpretation) for the definition of “out of jurisdiction appeal” there shall be substituted— *(affected by repeal, see note)*[^key-90f9fc85d735de82a29c92f8a6d4b97a]
+(1) In regulation 1(3) of the Decisions and Appeals Regulations (citation, commencement and interpretation) for the definition of “out of jurisdiction appeal” there shall be substituted— *(affected by repeal, see note)*[^c-90f9fc85d735de82a29c92f8a6d4b97a]
 
-> “**out of jurisdiction appeal *(affected by repeal, see note)*[^key-90f9fc85d735de82a29c92f8a6d4b97a]**” means an appeal brought against a decision which is specified in— *(affected by repeal, see note)*[^key-90f9fc85d735de82a29c92f8a6d4b97a]
+> “**out of jurisdiction appeal *(affected by repeal, see note)*[^c-90f9fc85d735de82a29c92f8a6d4b97a]**” means an appeal brought against a decision which is specified in— *(affected by repeal, see note)*[^c-90f9fc85d735de82a29c92f8a6d4b97a]
 >
-> - (a) Schedule 2 to the Act or a decision prescribed in regulation 27 (decision against which no appeal lies); or *(affected by repeal, see note)*[^key-90f9fc85d735de82a29c92f8a6d4b97a]
-> - (b) paragraph 6(2) of Schedule 7 to the Child Support, Pensions and Social Security Act 2000 (appeal to appeal tribunal) or a decision prescribed in regulation 16 of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001 (decision against which no appeal lies); *(affected by repeal, see note)*[^key-90f9fc85d735de82a29c92f8a6d4b97a]
+> - (a) Schedule 2 to the Act or a decision prescribed in regulation 27 (decision against which no appeal lies); or *(affected by repeal, see note)*[^c-90f9fc85d735de82a29c92f8a6d4b97a]
+> - (b) paragraph 6(2) of Schedule 7 to the Child Support, Pensions and Social Security Act 2000 (appeal to appeal tribunal) or a decision prescribed in regulation 16 of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001 (decision against which no appeal lies); *(affected by repeal, see note)*[^c-90f9fc85d735de82a29c92f8a6d4b97a]
 
 .
 
@@ -265,7 +265,7 @@ These Regulations do not impose a charge on business.
 
 [^c22000511]: Commencement: Reg. 3(1)-(3)(5) in force at 5.5.2003 and reg. 3(4)(6) in force in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1050/regulation/1/1)
 
-[^key-90f9fc85d735de82a29c92f8a6d4b97a]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2003/1050/regulation/3/1) revoked (E.W.) (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(e)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/e), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
+[^c-90f9fc85d735de82a29c92f8a6d4b97a]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2003/1050/regulation/3/1) revoked (E.W.) (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(e)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/e), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
 
 [^c5028201]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991). Regulation 3(9) was substituted by [S.I. 1999/2677](https://www.legislation.gov.uk/uksi/1999/2677).
 

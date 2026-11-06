@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 232. Definition of “proxy”[^key-42b368e05223ae028f74792dec603a4b]
+## 232. Definition of “proxy”[^c-42b368e05223ae028f74792dec603a4b]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42b368e05223ae028f74792dec603a4b]: Commencement: Rule 232 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-42b368e05223ae028f74792dec603a4b]: Commencement: Rule 232 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

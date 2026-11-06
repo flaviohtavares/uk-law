@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 125. Jurisdiction of the ombudsman scheme[^key-4872f61c2361d25dac0c973979d7f9e9][^key-8ae4a918e738e2f8e848172c4f73c013]
+## 125. Jurisdiction of the ombudsman scheme[^c-4872f61c2361d25dac0c973979d7f9e9][^c-8ae4a918e738e2f8e848172c4f73c013]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4872f61c2361d25dac0c973979d7f9e9]: Commencement: S. 125 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-4872f61c2361d25dac0c973979d7f9e9]: Commencement: S. 125 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
 
-[^key-8ae4a918e738e2f8e848172c4f73c013]: Modification: [S. 125](https://www.legislation.gov.uk/ukpga/2007/29/section/125) modified (20.1.2015) by [The Legal Services Act 2007 (Commencement No. 12, Supplementary and Transitory Provision) Order 2014 (S.I. 2014/3307)](https://www.legislation.gov.uk/uksi/2014/3307), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3307/article/1/1), [3](https://www.legislation.gov.uk/uksi/2014/3307/article/3)
+[^c-8ae4a918e738e2f8e848172c4f73c013]: Modification: [S. 125](https://www.legislation.gov.uk/ukpga/2007/29/section/125) modified (20.1.2015) by [The Legal Services Act 2007 (Commencement No. 12, Supplementary and Transitory Provision) Order 2014 (S.I. 2014/3307)](https://www.legislation.gov.uk/uksi/2014/3307), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3307/article/1/1), [3](https://www.legislation.gov.uk/uksi/2014/3307/article/3)

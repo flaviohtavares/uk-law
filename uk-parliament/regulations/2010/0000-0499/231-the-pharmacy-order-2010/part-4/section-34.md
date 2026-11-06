@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Temporary entry with regard to emergencies involving loss of human life or human illness etc.[^key-e61e39b5671d0146f56fe46f3da44b3b][^key-84e3f1d32c263306028f2013d7d3c188]
+## 34. Temporary entry with regard to emergencies involving loss of human life or human illness etc.[^c-e61e39b5671d0146f56fe46f3da44b3b][^c-84e3f1d32c263306028f2013d7d3c188]
 
 *Extent: E+W+S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e61e39b5671d0146f56fe46f3da44b3b]: Commencement: Art. 34 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-e61e39b5671d0146f56fe46f3da44b3b]: Commencement: Art. 34 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-84e3f1d32c263306028f2013d7d3c188]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2010/231/article/34) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-84e3f1d32c263306028f2013d7d3c188]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2010/231/article/34) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

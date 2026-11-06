@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**26.**[^key-ebd965b713d34b5e75e4ca58aee0166f] Where the Board revokes a fishing licence or refuses to issue or renew a fishing licence, it shall serve on the person whose fishing licence has been revoked or (as the case may be) the applicant notice of the revocation or refusal to issue or renew the fishing licence, and shall inform such person of his right of appeal under this Part and of the time within which the appeal may be brought.
+**26.**[^c-ebd965b713d34b5e75e4ca58aee0166f] Where the Board revokes a fishing licence or refuses to issue or renew a fishing licence, it shall serve on the person whose fishing licence has been revoked or (as the case may be) the applicant notice of the revocation or refusal to issue or renew the fishing licence, and shall inform such person of his right of appeal under this Part and of the time within which the appeal may be brought.
 
 ## Annotations
 
-[^key-ebd965b713d34b5e75e4ca58aee0166f]: Commencement: S. 26 in operation at 1.11.1997, see byelaw 1
+[^c-ebd965b713d34b5e75e4ca58aee0166f]: Commencement: S. 26 in operation at 1.11.1997, see byelaw 1

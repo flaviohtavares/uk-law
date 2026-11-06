@@ -77,7 +77,7 @@ In this Part of this Act, unless the context otherwise requires, the following e
 
 ### 46. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c606294]
 
-### 47. Inquiries by Minister.[^key-0570e5888d2d9c2ba98d762251edc82b]
+### 47. Inquiries by Minister.[^c-0570e5888d2d9c2ba98d762251edc82b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -151,7 +151,7 @@ In this Part of this Act, unless the context otherwise requires, the following e
 
 [^c606294]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/Geo5/23-24/53/section/46) repealed by [Transport Act 1947 (c. 49)](https://www.legislation.gov.uk/ukpga/1947/49), [Sch. 15 Pt. I](https://www.legislation.gov.uk/ukpga/1947/49/schedule/15/part/I)
 
-[^key-0570e5888d2d9c2ba98d762251edc82b]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/Geo5/23-24/53/section/47) repealed (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
+[^c-0570e5888d2d9c2ba98d762251edc82b]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/Geo5/23-24/53/section/47) repealed (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
 
 [^c606300]: Textual amendment: [Ss. 47(3)](https://www.legislation.gov.uk/ukpga/Geo5/23-24/53/section/47/3), [48](https://www.legislation.gov.uk/ukpga/Geo5/23-24/53/section/48), [49(2)](https://www.legislation.gov.uk/ukpga/Geo5/23-24/53/section/49/2) repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6)
 

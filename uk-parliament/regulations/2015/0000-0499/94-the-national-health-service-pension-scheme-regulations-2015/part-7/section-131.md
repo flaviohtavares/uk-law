@@ -22,8 +22,8 @@ summary: ''
 
 (1) This Part—
 
-- (a) supplements the rights conferred by or under Chapter 1 of Part 4ZA of the 1993 Act (transfer rights: general)[^key-6aead134249a0c654f9363fc0d6da846]; and
-- (b) is without prejudice to that Chapter or Chapter 2[^key-0c8f9c530cf9e9736c40ba0c9fbd90e9] of that Part (early leavers: cash transfer sums and contribution refunds).
+- (a) supplements the rights conferred by or under Chapter 1 of Part 4ZA of the 1993 Act (transfer rights: general)[^c-6aead134249a0c654f9363fc0d6da846]; and
+- (b) is without prejudice to that Chapter or Chapter 2[^c-0c8f9c530cf9e9736c40ba0c9fbd90e9] of that Part (early leavers: cash transfer sums and contribution refunds).
 
 (2) This Part applies in the case of a transfer to which the club transfer arrangements apply as it applies in other cases, except to the extent that—
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6aead134249a0c654f9363fc0d6da846]: Textual amendment: Words in [reg. 131(1)(a)](https://www.legislation.gov.uk/uksi/2015/94/regulation/131/1/a) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [74(a)](https://www.legislation.gov.uk/uksi/2016/245/regulation/74/a) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-6aead134249a0c654f9363fc0d6da846]: Textual amendment: Words in [reg. 131(1)(a)](https://www.legislation.gov.uk/uksi/2015/94/regulation/131/1/a) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [74(a)](https://www.legislation.gov.uk/uksi/2016/245/regulation/74/a) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
 
-[^key-0c8f9c530cf9e9736c40ba0c9fbd90e9]: Textual amendment: Words in [reg. 131(1)(b)](https://www.legislation.gov.uk/uksi/2015/94/regulation/131/1/b) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [74(b)](https://www.legislation.gov.uk/uksi/2016/245/regulation/74/b) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-0c8f9c530cf9e9736c40ba0c9fbd90e9]: Textual amendment: Words in [reg. 131(1)(b)](https://www.legislation.gov.uk/uksi/2015/94/regulation/131/1/b) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [74(b)](https://www.legislation.gov.uk/uksi/2016/245/regulation/74/b) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1179DX. Costs and income of separate trade[^key-2f0eac37ba158de991604259402344ab]
+## 1179DX. Costs and income of separate trade[^c-2f0eac37ba158de991604259402344ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) production activities in connection with the film or programme, or
 - (b) activities with a view to exploiting the film or programme.
 
-(3)[^key-38cbdb5077235befb5e759eff2cd4e50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-38cbdb5077235befb5e759eff2cd4e50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Receipts count towards the income from the film or programme if they are receipts in connection with the making or exploitation of the film or programme, including—
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f0eac37ba158de991604259402344ab]: Textual amendment: Pt. 14A inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/1) (with [Sch. 2 paras. 16(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/16/1), [17-25](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/17))
+[^c-2f0eac37ba158de991604259402344ab]: Textual amendment: Pt. 14A inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/1) (with [Sch. 2 paras. 16(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/16/1), [17-25](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/17))
 
-[^key-38cbdb5077235befb5e759eff2cd4e50]: Textual amendment: [S. 1179DX(3)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179DX/3) omitted (20.3.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 28(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/28/3) (with [s. 28(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/28/6))
+[^c-38cbdb5077235befb5e759eff2cd4e50]: Textual amendment: [S. 1179DX(3)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179DX/3) omitted (20.3.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 28(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/28/3) (with [s. 28(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/28/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83ZA. Transfer of sheriff court solemn proceedings within sheriffdom: power of sheriff principal[^key-fd793a5a6fb26c472b4911b3acdc6c24]
+## 83ZA. Transfer of sheriff court solemn proceedings within sheriffdom: power of sheriff principal[^c-fd793a5a6fb26c472b4911b3acdc6c24]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Where, because of exceptional circumstances which could not reasonably have been
 
 ## Annotations
 
-[^key-fd793a5a6fb26c472b4911b3acdc6c24]: Textual amendment: S. 83ZA inserted (25.3.2020) by [Act of Adjournal (Criminal Procedure (Scotland) Act 1995 Amendment) (Miscellaneous) 2020 (S.S.I. 2020/93)](https://www.legislation.gov.uk/ssi/2020/93), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/93/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2020/93/paragraph/2/3)
+[^c-fd793a5a6fb26c472b4911b3acdc6c24]: Textual amendment: S. 83ZA inserted (25.3.2020) by [Act of Adjournal (Criminal Procedure (Scotland) Act 1995 Amendment) (Miscellaneous) 2020 (S.S.I. 2020/93)](https://www.legislation.gov.uk/ssi/2020/93), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/93/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2020/93/paragraph/2/3)

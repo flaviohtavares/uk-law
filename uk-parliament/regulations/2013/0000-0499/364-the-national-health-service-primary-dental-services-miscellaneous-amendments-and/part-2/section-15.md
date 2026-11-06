@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Amendment of regulation 24[^key-917410d94505fb2e3c3be845992b5887]
+## 15. Amendment of regulation 24[^c-917410d94505fb2e3c3be845992b5887]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 24 (other contractual terms), for “Subject to regulation 24A” 
 
 ## Annotations
 
-[^key-917410d94505fb2e3c3be845992b5887]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/364/regulation/15) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-917410d94505fb2e3c3be845992b5887]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/364/regulation/15) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

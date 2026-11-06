@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Appraisal of tips[^key-10f2d9c56f748cddcf4325eb4fe7d9b2]
+## 61. Appraisal of tips[^c-10f2d9c56f748cddcf4325eb4fe7d9b2]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10f2d9c56f748cddcf4325eb4fe7d9b2]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2014/3248/regulation/61) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-10f2d9c56f748cddcf4325eb4fe7d9b2]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2014/3248/regulation/61) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

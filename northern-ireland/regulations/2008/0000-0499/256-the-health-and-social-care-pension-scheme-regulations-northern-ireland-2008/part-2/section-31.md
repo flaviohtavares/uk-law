@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Contributions by employing authorities: general[^key-5e68c25229fcafac1ed8018b8f2e3205]
+## 31. Contributions by employing authorities: general[^c-5e68c25229fcafac1ed8018b8f2e3205]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) If for any period a person holds more than one employment (whether under a contract of service or for services) with an employing authority in respect of which the person is an active member of the Scheme, this regulation and regulation 32 apply in respect of each of those employments as if it were the only employment held.
 
-(4) The employer’s standard rate is 22.5%[^key-0eb5c9acb475881454393afa69443c66] .
+(4) The employer’s standard rate is 22.5%[^c-0eb5c9acb475881454393afa69443c66] .
 
 (5) In any particular case the Department may direct that, for the purposes of this Chapter, “employing authority” includes one or more of—
 
@@ -59,6 +59,6 @@ This is subject to paragraph (7).
 
 ## Annotations
 
-[^key-5e68c25229fcafac1ed8018b8f2e3205]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/nisr/2008/256/regulation/31) substituted (20.1.2011) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/420)](https://www.legislation.gov.uk/nisr/2010/420), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/420/regulation/1/2), [15](https://www.legislation.gov.uk/nisr/2010/420/regulation/15)
+[^c-5e68c25229fcafac1ed8018b8f2e3205]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/nisr/2008/256/regulation/31) substituted (20.1.2011) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/420)](https://www.legislation.gov.uk/nisr/2010/420), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/420/regulation/1/2), [15](https://www.legislation.gov.uk/nisr/2010/420/regulation/15)
 
-[^key-0eb5c9acb475881454393afa69443c66]: Textual amendment: Word in [reg. 31(4)](https://www.legislation.gov.uk/nisr/2008/256/regulation/31/4) substituted (1.4.2019) by [The Health and Personal Social Services (Superannuation) and Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/62)](https://www.legislation.gov.uk/nisr/2019/62), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/62/regulation/1/2), [10](https://www.legislation.gov.uk/nisr/2019/62/regulation/10)
+[^c-0eb5c9acb475881454393afa69443c66]: Textual amendment: Word in [reg. 31(4)](https://www.legislation.gov.uk/nisr/2008/256/regulation/31/4) substituted (1.4.2019) by [The Health and Personal Social Services (Superannuation) and Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/62)](https://www.legislation.gov.uk/nisr/2019/62), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/62/regulation/1/2), [10](https://www.legislation.gov.uk/nisr/2019/62/regulation/10)

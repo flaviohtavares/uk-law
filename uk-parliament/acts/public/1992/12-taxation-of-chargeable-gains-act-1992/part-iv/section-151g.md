@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151G. Regulations where non-qualifying shares conditions altered[^key-0da1748e4ce2bfcbb653f35fdedea46a]
+## 151G. Regulations where non-qualifying shares conditions altered[^c-0da1748e4ce2bfcbb653f35fdedea46a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0da1748e4ce2bfcbb653f35fdedea46a]: Textual amendment: Ss. 151E-151G inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 370](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/370) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-0da1748e4ce2bfcbb653f35fdedea46a]: Textual amendment: Ss. 151E-151G inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 370](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/370) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

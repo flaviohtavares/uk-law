@@ -47,7 +47,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraph 11 of Schedule 1 to the Care Act 2014, the Secretary of State has obtained the consent of the Welsh Ministers, the Scottish Ministers and the Northern Ireland Department[^f00002] to the making of these Regulations.
 
-## 1. Citation, commencement and interpretation[^key-c098dfa12358ec96c1871eca05cd8ca8]
+## 1. Citation, commencement and interpretation[^c-c098dfa12358ec96c1871eca05cd8ca8]
 
 (1) These Regulations may be cited as the Care and Support (Cross-border Placements) (Business Failure Duties of Scottish Local Authorities) Regulations 2014.
 
@@ -65,7 +65,7 @@ In accordance with paragraph 11 of Schedule 1 to the Care Act 2014, the Secretar
 - “the 1985 Act” means the Bankruptcy (Scotland) Act 1985[^f00008];
 - “the 1986 Act” means the Insolvency Act 1986[^f00009];
 - “the 2010 Act” means the Public Services Reform (Scotland) Act 2010[^f00010];
-- “care provider” means a person providing a care service registered under section 59 of the 2010 Act;[^key-725a3315e0edc467a612fffeda6d5cfc]
+- “care provider” means a person providing a care service registered under section 59 of the 2010 Act;[^c-725a3315e0edc467a612fffeda6d5cfc]
 - “care service” has the meaning given in section 47 of the 2010 Act (care services);
 - “company” means an entity, other than a partnership, in respect of which a winding up order may be made in accordance with the procedures for winding up set out in the 1986 Act (with or without modification);
 - “local authority” means a local authority for the purposes of the 1968 Act[^f00011];
@@ -74,11 +74,11 @@ In accordance with paragraph 11 of Schedule 1 to the Care Act 2014, the Secretar
 - “relevant care provider” means the care provider with whom relevant arrangements have been made;
 - “the Schedule” means Schedule 1 to the Care Act 2014.
 
-## 2. Regulations 3 to 5 – application[^key-f5f83e61f34edbf62cf34b92809b22f4]
+## 2. Regulations 3 to 5 – application[^c-f5f83e61f34edbf62cf34b92809b22f4]
 
 Regulations 3 to 5 apply to a case within paragraph 1(3), 2(3) or (4) or 4(3) of the Schedule.
 
-## 3. Temporary duty on local authority in Scotland[^key-eacac0d7764ef26284371299a821edbc]
+## 3. Temporary duty on local authority in Scotland[^c-eacac0d7764ef26284371299a821edbc]
 
 (1) In the circumstances specified in paragraph (2)—
 
@@ -90,7 +90,7 @@ Regulations 3 to 5 apply to a case within paragraph 1(3), 2(3) or (4) or 4(3) of
 - (a) the relevant care provider is unable to continue to provide the care service in respect of which relevant arrangements have been made; and
 - (b) such inability arises following any of the events specified in regulation 4.
 
-## 4. Circumstances in which a local authority is required to discharge specified duties[^key-c5e78c8eb38ce4a630ee2c365eb18d95]
+## 4. Circumstances in which a local authority is required to discharge specified duties[^c-c5e78c8eb38ce4a630ee2c365eb18d95]
 
 (1) In relation to a care provider which is a company, the events specified for the purposes of regulation 3(2)(b) are—
 
@@ -103,14 +103,14 @@ Regulations 3 to 5 apply to a case within paragraph 1(3), 2(3) or (4) or 4(3) of
 - (g) an order for the winding up of the company is made by the court under Part 4 or 5 of the 1986 Act;
 - (h) an administration order is made by the court in respect of the company by virtue of any enactment which applies Part 2 (administration orders) of the 1986 Act (with or without modification);
 - (i) a notice from an administrator under paragraph 83(3) of Schedule B1 (moving from administration to creditors’ voluntary liquidation) to the 1986 Act in relation to the company is registered by the registrar of companies in accordance with paragraph 83(4) of that Schedule;
-- (j) the company moves from administration to winding up pursuant to an order of the court under rule 21.3 (conversion into winding up proceedings or bankruptcy: court order) of the Insolvency (England and Wales) Rules 2016[^key-e2d9ec0a439da1f85f9ce864d33440ee];
+- (j) the company moves from administration to winding up pursuant to an order of the court under rule 21.3 (conversion into winding up proceedings or bankruptcy: court order) of the Insolvency (England and Wales) Rules 2016[^c-e2d9ec0a439da1f85f9ce864d33440ee];
 - (k) an administrator or liquidator of the company, being the nominee in relation to a proposal for a voluntary arrangement under Part 1 of the 1986 Act (company voluntary arrangements), summons meetings of the company and of its creditors, to consider the proposal, in accordance with section 3(2) (summoning of meetings) of the 1986 Act.
 
 (2) In relation to a care provider who is an individual, the events specified for the purposes of regulation 3(2)(b) are—
 
-- (a) the individual is made[^key-46b70037f06b51ec20ebdc006373ca6d] bankrupt or sequestration of the individual’s estate has been awarded under section 12 of the 1985 Act[^f00019];
+- (a) the individual is made[^c-46b70037f06b51ec20ebdc006373ca6d] bankrupt or sequestration of the individual’s estate has been awarded under section 12 of the 1985 Act[^f00019];
 - (b) the nominee in relation to a proposal for a voluntary arrangement under Part 8 of the 1986 Act submits a report under section 256(1) or 256A(3) of that Act[^f00020] which states that in the nominee’s opinion a meeting of the creditors of the debtor (being the individual) should be summoned to consider the debtor’s proposal;
-- (c)[^key-50e8e864a3e29ed842593f5b096ec98b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-50e8e864a3e29ed842593f5b096ec98b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the individual executes a trust deed for the individual’s creditors or enters into a composition contract.
 
 (3) In relation to a care provider which is a partnership, the events specified for the purposes of regulation 3(2)(b) are—
@@ -123,7 +123,7 @@ Regulations 3 to 5 apply to a case within paragraph 1(3), 2(3) or (4) or 4(3) of
 
 (4) In relation to any other care provider, the event specified for the purpose of regulation 3(2)(b) is an award of sequestration of the provider’s estate made under section 12 of the 1985 Act or the Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Regulations 2011[^f00023].
 
-## 5. Specified duties[^key-78bfce43e56794c837c2b4099319d9ae]
+## 5. Specified duties[^c-78bfce43e56794c837c2b4099319d9ae]
 
 (1) The duties specified for the purposes of regulation 3(1)(a) are the duties under sections 12 and 13A of the 1968 Act (social welfare services and residential accommodation with nursing)[^f00024] in so far as the discharge of the duties would involve meeting the relevant adult’s needs by taking the following steps—
 
@@ -162,7 +162,7 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00002]: Footnote: *See* paragraph 12(9) of Schedule 1 to the Act as to the meaning of “the Northern Ireland Department”.
 
-[^key-c098dfa12358ec96c1871eca05cd8ca8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2839/regulation/1) in force at 20.10.2014 coming into force in accordance with [reg. 1(2)](https://editorial.legislation.gov.uk/uksi/2014/2839/regulation/1)
+[^c-c098dfa12358ec96c1871eca05cd8ca8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2839/regulation/1) in force at 20.10.2014 coming into force in accordance with [reg. 1(2)](https://editorial.legislation.gov.uk/uksi/2014/2839/regulation/1)
 
 [^f00003]: Footnote: Paragraph 1(6) was commenced for the purposes of making regulations by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473).
 
@@ -180,17 +180,17 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00010]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-725a3315e0edc467a612fffeda6d5cfc]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2839/regulation/1/3) substituted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Care and Support (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/644)](https://www.legislation.gov.uk/uksi/2015/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2015/644/regulation/5)
+[^c-725a3315e0edc467a612fffeda6d5cfc]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2839/regulation/1/3) substituted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Care and Support (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/644)](https://www.legislation.gov.uk/uksi/2015/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2015/644/regulation/5)
 
 [^f00011]: Footnote: *See* section 1(2) of the Social Work (Scotland) Act 1968 as to the local authorities for the purposes of that Act.
 
 [^f00012]: Footnote: [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12).
 
-[^key-f5f83e61f34edbf62cf34b92809b22f4]: Commencement: Reg. 2 in force at 20.10.2014 coming into force in accordance with [reg. 1(2)](https://editorial.legislation.gov.uk/uksi/2014/2839/regulation/1)
+[^c-f5f83e61f34edbf62cf34b92809b22f4]: Commencement: Reg. 2 in force at 20.10.2014 coming into force in accordance with [reg. 1(2)](https://editorial.legislation.gov.uk/uksi/2014/2839/regulation/1)
 
-[^key-eacac0d7764ef26284371299a821edbc]: Commencement: Reg. 3 in force at 20.10.2014 coming into force in accordance with [reg. 1(2)](https://editorial.legislation.gov.uk/uksi/2014/2839/regulation/1)
+[^c-eacac0d7764ef26284371299a821edbc]: Commencement: Reg. 3 in force at 20.10.2014 coming into force in accordance with [reg. 1(2)](https://editorial.legislation.gov.uk/uksi/2014/2839/regulation/1)
 
-[^key-c5e78c8eb38ce4a630ee2c365eb18d95]: Commencement: Reg. 4 in force at 20.10.2014 coming into force in accordance with [reg. 1(2)](https://editorial.legislation.gov.uk/uksi/2014/2839/regulation/1)
+[^c-c5e78c8eb38ce4a630ee2c365eb18d95]: Commencement: Reg. 4 in force at 20.10.2014 coming into force in accordance with [reg. 1(2)](https://editorial.legislation.gov.uk/uksi/2014/2839/regulation/1)
 
 [^f00013]: Footnote: Section 2 was amended by paragraphs 1 and 3 of Schedules 1 and 2 to the Insolvency Act [2000 (c.39)](https://www.legislation.gov.uk/ukpga/2000/39) (“the 2000 Act”).
 
@@ -202,20 +202,20 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00017]: Footnote: Section 95 was amended by [S.I. 2009/864](https://www.legislation.gov.uk/uksi/2009/864) and [2010/18](https://www.legislation.gov.uk/uksi/2010/18).
 
-[^key-e2d9ec0a439da1f85f9ce864d33440ee]: Textual amendment: Words in [reg. 4(1)(j)](https://www.legislation.gov.uk/uksi/2014/2839/regulation/4/1/j) substituted (6.4.2017) by virtue of [The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017 (S.I. 2017/369)](https://www.legislation.gov.uk/uksi/2017/369), [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2017/369/schedule/2/paragraph/11)
+[^c-e2d9ec0a439da1f85f9ce864d33440ee]: Textual amendment: Words in [reg. 4(1)(j)](https://www.legislation.gov.uk/uksi/2014/2839/regulation/4/1/j) substituted (6.4.2017) by virtue of [The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017 (S.I. 2017/369)](https://www.legislation.gov.uk/uksi/2017/369), [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2017/369/schedule/2/paragraph/11)
 
-[^key-46b70037f06b51ec20ebdc006373ca6d]: Textual amendment: Word in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2014/2839/regulation/4/2/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-46b70037f06b51ec20ebdc006373ca6d]: Textual amendment: Word in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2014/2839/regulation/4/2/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
 [^f00019]: Footnote: Section 12 was amended by section 4(2) to (5) of the Bankruptcy (Scotland) Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36), sections 14(8), 27(2) and (3) of, and paragraph 10 of Schedule 1 and paragraph 1 of Schedule 6 to, the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3) (“the 2007 Act”) and section 9(3) of the Home Owner and Debtor Protection (Scotland) Act [2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6) and is prospectively amended (from a date to be appointed) by section 11(4)(a) and 47 of, and paragraph 9 of Schedule 3 and paragraph 1 of Schedule 4 to, the Bankruptcy and Debt Advice (Scotland) Act [2014 (asp 11)](https://www.legislation.gov.uk/asp/2014/11).
 
 [^f00020]: Footnote: Section 256 was amended by paragraphs 1 and 6 of Schedule 3 to the 2000 Act. There are other amendments to section 256 but none is relevant. Section 256A was inserted by paragraphs 1 and 7 of Schedule 3 to the 2000 Act. Subsection (3) was amended by paragraphs 1 and 4 of Schedule 19 to the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24) and by [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18).
 
-[^key-50e8e864a3e29ed842593f5b096ec98b]: Textual amendment: [Reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2014/2839/regulation/4/2/c) omitted (1.10.2015) by virtue of [The Deregulation Act 2015 (Insolvency) (Consequential Amendments and Transitional and Savings Provisions) Order 2015 (S.I. 2015/1641)](https://www.legislation.gov.uk/uksi/2015/1641), [art. 3](https://www.legislation.gov.uk/uksi/2015/1641/article/3), [Sch. 3 para. 3(12)](https://www.legislation.gov.uk/uksi/2015/1641/schedule/3/paragraph/3/12) (with [art. 10](https://www.legislation.gov.uk/uksi/2015/1641/article/10))
+[^c-50e8e864a3e29ed842593f5b096ec98b]: Textual amendment: [Reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2014/2839/regulation/4/2/c) omitted (1.10.2015) by virtue of [The Deregulation Act 2015 (Insolvency) (Consequential Amendments and Transitional and Savings Provisions) Order 2015 (S.I. 2015/1641)](https://www.legislation.gov.uk/uksi/2015/1641), [art. 3](https://www.legislation.gov.uk/uksi/2015/1641/article/3), [Sch. 3 para. 3(12)](https://www.legislation.gov.uk/uksi/2015/1641/schedule/3/paragraph/3/12) (with [art. 10](https://www.legislation.gov.uk/uksi/2015/1641/article/10))
 
 [^f00022]: Footnote: Section 420 was amended by paragraphs 185 and 191 of Schedule 4 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4) and by [S.I. 2002/1037](https://www.legislation.gov.uk/uksi/2002/1037). As to orders under section 420, *see* [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421) as amended by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [1996/1308](https://www.legislation.gov.uk/uksi/1996/1308), [2001/767](https://www.legislation.gov.uk/uksi/2001/767), [2002/1308](https://www.legislation.gov.uk/uksi/2002/1308), [2005/1516](https://www.legislation.gov.uk/uksi/2005/1516) and [2006/622](https://www.legislation.gov.uk/uksi/2006/622).
 
 [^f00023]: Footnote: [S.S.I. 2011/237](https://www.legislation.gov.uk/ssi/2011/237) as amended by [S.S.I. 2013/362](https://www.legislation.gov.uk/ssi/2013/362).
 
-[^key-78bfce43e56794c837c2b4099319d9ae]: Commencement: Reg. 5 in force at 20.10.2014 coming into force in accordance with [reg. 1(2)](https://editorial.legislation.gov.uk/uksi/2014/2839/regulation/1)
+[^c-78bfce43e56794c837c2b4099319d9ae]: Commencement: Reg. 5 in force at 20.10.2014 coming into force in accordance with [reg. 1(2)](https://editorial.legislation.gov.uk/uksi/2014/2839/regulation/1)
 
 [^f00024]: Footnote: [1968 c.49](https://www.legislation.gov.uk/ukpga/1968/49). Section 12 was amended by paragraph 10(5) of Schedule 9 to the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”), paragraph 15(11) of Schedule 4 to the Children (Scotland) Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36), section 120(1) of the Immigration and Asylum Act [1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33) (“the 1999 Act”) and section 3 of the Community Care and Health (Scotland) Act [2002 (asp 5)](https://www.legislation.gov.uk/asp/2002/5) (“the CCHSA 2002”), and is prospectively amended (from a date to be appointed) by section 46(1) of the Nationality, Immigration and Asylum Act [2002 (c.41)](https://www.legislation.gov.uk/ukpga/2002/41) (“the 2002 Act”). Section 13A was inserted by section 56 of the 1990 Act and amended by section 120(2) of the 1999 Act, section 72 of, and paragraph 4(3) of Schedule 3 to, the Regulation of Care (Scotland) Act [2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8), paragraph 1(4) of Schedule 2 to the CCHSA 2002 and by [S.S.I. 2011/211](https://www.legislation.gov.uk/ssi/2011/211), and is prospectively amended (from a date to be appointed) by section 46(2) of the 2002 Act.

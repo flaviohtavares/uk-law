@@ -32,7 +32,7 @@ summary: ''
 
 FOOD
 
-The Notification of Marketing of Food for Particular Nutritional Uses (Scotland) Regulations 2007 (revoked)[^key-f9884fcc7299c3ac50b6daba056e2f67]
+The Notification of Marketing of Food for Particular Nutritional Uses (Scotland) Regulations 2007 (revoked)[^c-f9884fcc7299c3ac50b6daba056e2f67]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 1st March 2007
 
-[^key-f9884fcc7299c3ac50b6daba056e2f67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9884fcc7299c3ac50b6daba056e2f67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-f9884fcc7299c3ac50b6daba056e2f67]
+## 1. Citation, commencement and extent[^c-f9884fcc7299c3ac50b6daba056e2f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f9884fcc7299c3ac50b6daba056e2f67]
+## 2. Interpretation[^c-f9884fcc7299c3ac50b6daba056e2f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restriction on sale[^key-f9884fcc7299c3ac50b6daba056e2f67]
+## 3. Restriction on sale[^c-f9884fcc7299c3ac50b6daba056e2f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Declaration[^key-f9884fcc7299c3ac50b6daba056e2f67]
+## 4. Declaration[^c-f9884fcc7299c3ac50b6daba056e2f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Enforcement[^key-f9884fcc7299c3ac50b6daba056e2f67]
+## 5. Enforcement[^c-f9884fcc7299c3ac50b6daba056e2f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences and penalties[^key-f9884fcc7299c3ac50b6daba056e2f67]
+## 6. Offences and penalties[^c-f9884fcc7299c3ac50b6daba056e2f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application of various provisions of the Food Safety Act 1990[^key-f9884fcc7299c3ac50b6daba056e2f67]
+## 7. Application of various provisions of the Food Safety Act 1990[^c-f9884fcc7299c3ac50b6daba056e2f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation[^key-f9884fcc7299c3ac50b6daba056e2f67]
+## 8. Revocation[^c-f9884fcc7299c3ac50b6daba056e2f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9884fcc7299c3ac50b6daba056e2f67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9884fcc7299c3ac50b6daba056e2f67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f9884fcc7299c3ac50b6daba056e2f67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9884fcc7299c3ac50b6daba056e2f67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f9884fcc7299c3ac50b6daba056e2f67]: Textual amendment: Regulations revoked (20.7.2016) by [The Foods for Specific Groups (Scotland) Regulations 2016 (S.S.I. 2016/190)](https://www.legislation.gov.uk/ssi/2016/190), [regs. 1](https://www.legislation.gov.uk/ssi/2016/190/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2016/190/regulation/7/2)
+[^c-f9884fcc7299c3ac50b6daba056e2f67]: Textual amendment: Regulations revoked (20.7.2016) by [The Foods for Specific Groups (Scotland) Regulations 2016 (S.S.I. 2016/190)](https://www.legislation.gov.uk/ssi/2016/190), [regs. 1](https://www.legislation.gov.uk/ssi/2016/190/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2016/190/regulation/7/2)

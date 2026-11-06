@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Performance of assessment functions by a designated body[^key-a4e8070eb0586d0dffb0fcd52829b622]
+## 27. Performance of assessment functions by a designated body[^c-a4e8070eb0586d0dffb0fcd52829b622]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4e8070eb0586d0dffb0fcd52829b622]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/29/section/27) in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/e)
+[^c-a4e8070eb0586d0dffb0fcd52829b622]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/29/section/27) in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/e)

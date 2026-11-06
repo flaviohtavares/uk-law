@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Disclosure of information[^key-d88a350f40e0caff4b30c01c2885c2bb]
+## 49. Disclosure of information[^c-d88a350f40e0caff4b30c01c2885c2bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) any information obtained under or by virtue of Part 6 (Exceptions and licences), this Part or Part 9 (Maritime enforcement), or
 - (b) any information held in connection with—
-  - (i) anything done under or by virtue of Part 2 (Designation of persons), Part 3 (Finance), Part 3A (Director disqualification sanctions),[^key-96aff86b05efa667db3efbf1a3017b22] Part 5 (Trade), or
+  - (i) anything done under or by virtue of Part 2 (Designation of persons), Part 3 (Finance), Part 3A (Director disqualification sanctions),[^c-96aff86b05efa667db3efbf1a3017b22] Part 5 (Trade), or
   - (ii) any exception or licence under Part 6 or anything done in accordance with such an exception or under the authority of such a licence.
 
 (2) Information referred to in paragraph (1) may be disclosed for, or in connection with, any of the following purposes—
@@ -73,9 +73,9 @@ summary: ''
 
 ## Annotations
 
-[^key-d88a350f40e0caff4b30c01c2885c2bb]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d88a350f40e0caff4b30c01c2885c2bb]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-96aff86b05efa667db3efbf1a3017b22]: Textual amendment: Words in [reg. 49(1)(b)(i)](https://www.legislation.gov.uk/uksi/2019/135/regulation/49/1/b/i) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/643/regulation/2/8)
+[^c-96aff86b05efa667db3efbf1a3017b22]: Textual amendment: Words in [reg. 49(1)(b)(i)](https://www.legislation.gov.uk/uksi/2019/135/regulation/49/1/b/i) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/643/regulation/2/8)
 
 [^c23543031]: Marginal citation: [2017 c.3](https://www.legislation.gov.uk/ukpga/2017/3).
 

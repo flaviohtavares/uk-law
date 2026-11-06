@@ -33,7 +33,7 @@ summary: ''
 
 Public Service Pensions, England And Wales
 
-The Police Pensions (Employer Contributions) (Amendment) Regulations 2019 (revoked)[^key-871c23aeeec56b743645f8debb0a21fe]
+The Police Pensions (Employer Contributions) (Amendment) Regulations 2019 (revoked)[^c-871c23aeeec56b743645f8debb0a21fe]
 
 Made
 
@@ -47,28 +47,28 @@ Coming into force
 
 1st August 2019
 
-[^key-871c23aeeec56b743645f8debb0a21fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-871c23aeeec56b743645f8debb0a21fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-871c23aeeec56b743645f8debb0a21fe]
+## 1. Citation, commencement and effect[^c-871c23aeeec56b743645f8debb0a21fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Police Pension Fund Regulations 2007[^key-871c23aeeec56b743645f8debb0a21fe]
+## 2. Amendment to the Police Pension Fund Regulations 2007[^c-871c23aeeec56b743645f8debb0a21fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Police Pensions Regulations 2015[^key-871c23aeeec56b743645f8debb0a21fe]
+## 3. Amendment to the Police Pensions Regulations 2015[^c-871c23aeeec56b743645f8debb0a21fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-871c23aeeec56b743645f8debb0a21fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-871c23aeeec56b743645f8debb0a21fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-871c23aeeec56b743645f8debb0a21fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-871c23aeeec56b743645f8debb0a21fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-871c23aeeec56b743645f8debb0a21fe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/1049) revoked (1.10.2024 with effect from 1.4.2024) by [The Police Pensions (Employer Contributions) (Amendment) Regulations 2024 (S.I. 2024/920)](https://www.legislation.gov.uk/uksi/2024/920), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/920/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/920/regulation/4)
+[^c-871c23aeeec56b743645f8debb0a21fe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/1049) revoked (1.10.2024 with effect from 1.4.2024) by [The Police Pensions (Employer Contributions) (Amendment) Regulations 2024 (S.I. 2024/920)](https://www.legislation.gov.uk/uksi/2024/920), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/920/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/920/regulation/4)

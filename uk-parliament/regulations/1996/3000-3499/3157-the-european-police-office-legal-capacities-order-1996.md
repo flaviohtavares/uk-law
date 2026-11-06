@@ -30,7 +30,7 @@ summary: ''
 
 INTERNATIONAL IMMUNITIES AND PRIVILEGES
 
-The European Police Office (Legal Capacities) Order 1996 (revoked)[^key-83056f9c16be310cd2027b1336a04d86]
+The European Police Office (Legal Capacities) Order 1996 (revoked)[^c-83056f9c16be310cd2027b1336a04d86]
 
 Made
 
@@ -46,22 +46,22 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-83056f9c16be310cd2027b1336a04d86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83056f9c16be310cd2027b1336a04d86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-83056f9c16be310cd2027b1336a04d86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-83056f9c16be310cd2027b1336a04d86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-83056f9c16be310cd2027b1336a04d86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-83056f9c16be310cd2027b1336a04d86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-83056f9c16be310cd2027b1336a04d86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-83056f9c16be310cd2027b1336a04d86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-83056f9c16be310cd2027b1336a04d86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83056f9c16be310cd2027b1336a04d86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-83056f9c16be310cd2027b1336a04d86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83056f9c16be310cd2027b1336a04d86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-83056f9c16be310cd2027b1336a04d86]: Textual amendment: Order revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [41(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/41/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-83056f9c16be310cd2027b1336a04d86]: Textual amendment: Order revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [41(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/41/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-8a965f6ad4d3019bddd8ab7a9027d4de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-8a965f6ad4d3019bddd8ab7a9027d4de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The pre-hearing panel, despite a referral not having been made under section 79(2) (referral of certain matters for pre-hearing determination) of the Act, must consider whether to deem an individual, who is present at the pre-hearing panel, to be a relevant person on the request of—
 
@@ -28,24 +28,24 @@ summary: ''
 - (b) any relevant person;
 - (c) the individual in question.
 
-(3) Where the pre-hearing panel is to consider whether to deem an individual to be a relevant person under paragraph (2) the provisions of the Act (other than section 80 (determination of matter referred under section 79)[^key-85d56650ca21643192af4dae220c0d10]) and these Rules apply as if the matter had been referred under section 79 of the Act.
+(3) Where the pre-hearing panel is to consider whether to deem an individual to be a relevant person under paragraph (2) the provisions of the Act (other than section 80 (determination of matter referred under section 79)[^c-85d56650ca21643192af4dae220c0d10]) and these Rules apply as if the matter had been referred under section 79 of the Act.
 
-(4)[^key-8551866e56d0446fe0aec5ef87dd3934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8551866e56d0446fe0aec5ef87dd3934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-8551866e56d0446fe0aec5ef87dd3934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8551866e56d0446fe0aec5ef87dd3934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-8551866e56d0446fe0aec5ef87dd3934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8551866e56d0446fe0aec5ef87dd3934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-8551866e56d0446fe0aec5ef87dd3934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-8551866e56d0446fe0aec5ef87dd3934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-8551866e56d0446fe0aec5ef87dd3934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-8551866e56d0446fe0aec5ef87dd3934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-8551866e56d0446fe0aec5ef87dd3934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-8551866e56d0446fe0aec5ef87dd3934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8a965f6ad4d3019bddd8ab7a9027d4de]: Textual amendment: Rule 48(1) omitted (26.7.2021) by virtue of [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(17)(a)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/17/a)
+[^c-8a965f6ad4d3019bddd8ab7a9027d4de]: Textual amendment: Rule 48(1) omitted (26.7.2021) by virtue of [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(17)(a)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/17/a)
 
-[^key-85d56650ca21643192af4dae220c0d10]: Textual amendment: Words in rule 48(3) substituted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(17)(b)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/17/b)
+[^c-85d56650ca21643192af4dae220c0d10]: Textual amendment: Words in rule 48(3) substituted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(17)(b)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/17/b)
 
-[^key-8551866e56d0446fe0aec5ef87dd3934]: Textual amendment: Rule 48(4)-(9) omitted (26.7.2021) by virtue of [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(17)(c)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/17/c)
+[^c-8551866e56d0446fe0aec5ef87dd3934]: Textual amendment: Rule 48(4)-(9) omitted (26.7.2021) by virtue of [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(17)(c)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/17/c)

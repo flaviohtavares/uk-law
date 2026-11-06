@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Carry over of approvals, applications, notices etc.[^key-95c5b0ad8df4728722bb97477884abc3]
+## 42. Carry over of approvals, applications, notices etc.[^c-95c5b0ad8df4728722bb97477884abc3]
 
 *Extent: N.I.*
 
@@ -59,4 +59,4 @@ contained in the default contract.
 
 ## Annotations
 
-[^key-95c5b0ad8df4728722bb97477884abc3]: Commencement: Art. 42 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-95c5b0ad8df4728722bb97477884abc3]: Commencement: Art. 42 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

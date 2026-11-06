@@ -35,176 +35,176 @@ implementing Regulation (EC) No 808/2004 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-0a7628603497616b61f5955780b65676]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a7628603497616b61f5955780b65676]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-0a7628603497616b61f5955780b65676] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0a7628603497616b61f5955780b65676] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0a7628603497616b61f5955780b65676] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0a7628603497616b61f5955780b65676] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a7628603497616b61f5955780b65676]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — Module 1: Enterprises and the information society[^key-0a7628603497616b61f5955780b65676]
+## ANNEX I — Module 1: Enterprises and the information society[^c-0a7628603497616b61f5955780b65676]
 
-[^key-0a7628603497616b61f5955780b65676]A.
+[^c-0a7628603497616b61f5955780b65676]A.
 
 **Subjects and their characteristics**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](1)
+[^c-0a7628603497616b61f5955780b65676](1)
 
 The subjects to be covered for the reference year 2016, drawn from the list in Annex I to Regulation (EC) No 808/2004, shall be the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](2)
+[^c-0a7628603497616b61f5955780b65676](2)
 
 The following enterprise characteristics shall be collected:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](3)
+[^c-0a7628603497616b61f5955780b65676](3)
 
 The following enterprise background characteristics for all enterprises shall be collected or obtained from alternative sources:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676]B.
+[^c-0a7628603497616b61f5955780b65676]B.
 
 **Coverage**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676]C.
+[^c-0a7628603497616b61f5955780b65676]C.
 
 **Reference periods**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676]D.
+[^c-0a7628603497616b61f5955780b65676]D.
 
 **Breakdown of data**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676]E.
+[^c-0a7628603497616b61f5955780b65676]E.
 
 **Periodicity**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676]F.
+[^c-0a7628603497616b61f5955780b65676]F.
 
 **Deadlines for transmission of results**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](1)
+[^c-0a7628603497616b61f5955780b65676](1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](2)
+[^c-0a7628603497616b61f5955780b65676](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](3)
+[^c-0a7628603497616b61f5955780b65676](3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](4)
+[^c-0a7628603497616b61f5955780b65676](4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Module 2: Individuals, households and the information society[^key-0a7628603497616b61f5955780b65676]
+## ANNEX II — Module 2: Individuals, households and the information society[^c-0a7628603497616b61f5955780b65676]
 
-[^key-0a7628603497616b61f5955780b65676]A.
+[^c-0a7628603497616b61f5955780b65676]A.
 
 **Subjects and their characteristics**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](1)
+[^c-0a7628603497616b61f5955780b65676](1)
 
 The subjects to be covered for the reference year 2016, drawn from the list in Annex II to Regulation (EC) No 808/2004, shall be the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](2)
+[^c-0a7628603497616b61f5955780b65676](2)
 
 The following characteristics shall be collected:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676]B.
+[^c-0a7628603497616b61f5955780b65676]B.
 
 **Coverage**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](1)
+[^c-0a7628603497616b61f5955780b65676](1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](2)
+[^c-0a7628603497616b61f5955780b65676](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](3)
+[^c-0a7628603497616b61f5955780b65676](3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676]C.
+[^c-0a7628603497616b61f5955780b65676]C.
 
 **Reference period**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676]D.
+[^c-0a7628603497616b61f5955780b65676]D.
 
 **Socioeconomic background characteristics**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](1)
+[^c-0a7628603497616b61f5955780b65676](1)
 
 For the subjects and their characteristics, listed in heading A(2) of this Annex, which concern households, the following background characteristics are to be collected:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](2)
+[^c-0a7628603497616b61f5955780b65676](2)
 
 for the subjects and their characteristics, listed in heading A(2) of this Annex, which relate to individuals, the following background characteristics are to be collected:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676]E.
+[^c-0a7628603497616b61f5955780b65676]E.
 
 **Periodicity**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676]F.
+[^c-0a7628603497616b61f5955780b65676]F.
 
 **Deadlines for transmission of results**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](1)
+[^c-0a7628603497616b61f5955780b65676](1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](2)
+[^c-0a7628603497616b61f5955780b65676](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](3)
+[^c-0a7628603497616b61f5955780b65676](3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a7628603497616b61f5955780b65676](4)
+[^c-0a7628603497616b61f5955780b65676](4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0a7628603497616b61f5955780b65676]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 257](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/257); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0a7628603497616b61f5955780b65676]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 257](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/257); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

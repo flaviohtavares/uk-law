@@ -46,11 +46,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART I — INTRODUCTION
 
-### 1. Citation and commencement[^key-4e10ee7b0fb623c82ceb33af3d3a7066]
+### 1. Citation and commencement[^c-4e10ee7b0fb623c82ceb33af3d3a7066]
 
 These Regulations may be cited as the Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 and shall come into operation on 1st December 2006.
 
-### 2. Interpretation[^key-bef8838492500e5e3313420e231a35cf]
+### 2. Interpretation[^c-bef8838492500e5e3313420e231a35cf]
 
 (1) In these Regulations—
 
@@ -118,7 +118,7 @@ These Regulations may be cited as the Manufacture and Storage of Explosives Regu
 - “pyrotechnic” means an explosive article or substance of a kind designed to produce an effect by heat, light, sound, gas or smoke, or a combination of any of these, as a result of non-detonative, self-sustaining, exothermic chemical reactions;
 - “quarry” has the meaning assigned to it by regulation 3 of the Quarries Regulations (Northern Ireland) 2006[^f00006];
 - “registered” in relation to a person, means a person registered in respect of the storage of explosives under regulation 13 and includes a person to whom a registration is transferred and a person treated under regulation 20 as being registered;
-- “registration” means registration under regulation 13 and “certificate of registration” means a certificate issued under regulation 13(3) and includes a varied registration[^key-0dfa4f1d10cb1c2d9a279222704915a6] ;
+- “registration” means registration under regulation 13 and “certificate of registration” means a certificate issued under regulation 13(3) and includes a varied registration[^c-0dfa4f1d10cb1c2d9a279222704915a6] ;
 - “renewal of a licence” or “renewal of a registration” means respectively the grant of a licence or issue of a certificate of registration to follow a previous licence or certificate of registration without any amendment or gap in time;
 - “separation distance” means the distance between the building in which explosives are, or are to be, manufactured or the store and a building, or other place, in or at which people are, or are likely to be, present either all the time or from time to time;
 - “ship” includes every description of vessel used in navigation;
@@ -156,12 +156,12 @@ These Regulations may be cited as the Manufacture and Storage of Explosives Regu
 
 (8) Any reference in the definitions in this regulation of “desensitised explosive”, “explosive substance”, “pyrotechnic” or “substance” to liquid, gas, gaseous form or vapour means, respectively, liquid, gas, gaseous form or vapour at normal atmospheric temperature and pressure.
 
-### 3. Application[^key-024b71f735b269f15c7e50491710a4a2]
+### 3. Application[^c-024b71f735b269f15c7e50491710a4a2]
 
 (1) Regulations 4 to 24 shall not apply to—
 
 - (a) any activity to which regulations 3(2) and (3), 6 to 8, and 19 to 24 of the Explosives in Harbour Areas Regulations (Northern Ireland) 1995 apply;
-- (b) any activity to which the Carriage of Explosives Regulations (Northern Ireland) 2010[^key-a712918f558cf3691b44fafa4b54b0b8] apply, apart from any activity which is to be treated as storage by virtue of regulation 2(6);
+- (b) any activity to which the Carriage of Explosives Regulations (Northern Ireland) 2010[^c-a712918f558cf3691b44fafa4b54b0b8] apply, apart from any activity which is to be treated as storage by virtue of regulation 2(6);
 - (c) the master or crew of a ship or to the employer of such persons in respect of the normal shipboard activities of a ship’s crew which are carried out solely by the crew under the direction of the master and in this sub-paragraph the reference to the normal shipboard activities of a ship’s crew shall include—
   - (i) the construction, reconstruction or conversion of a ship outside, but not inside, Northern Ireland; and
   - (ii) the repair of a ship except repair when carried out in dry dock;
@@ -171,7 +171,7 @@ These Regulations may be cited as the Manufacture and Storage of Explosives Regu
 (2) Regulation 8 shall not apply to—
 
 - (a) a constable in the execution of his duties;
-- (b) an inspector appointed under [^key-364c2e8797d45fe71ce5d9caa32fde29]...or Article 21 of the 1978 Order in the performance of his functions; and
+- (b) an inspector appointed under [^c-364c2e8797d45fe71ce5d9caa32fde29]...or Article 21 of the 1978 Order in the performance of his functions; and
 - (c) an officer of Revenue and Customs in the performance of his functions.
 
 (3) Regulation 10 shall not apply to—
@@ -202,7 +202,7 @@ These Regulations may be cited as the Manufacture and Storage of Explosives Regu
 
 ## PART II — SAFETY REQUIREMENTS
 
-### 4. Fire and explosion measures[^key-eb93b08722bcb72177ad3c2f9abbb941]
+### 4. Fire and explosion measures[^c-eb93b08722bcb72177ad3c2f9abbb941]
 
 (1) Any person who manufactures or stores explosives shall take appropriate measures—
 
@@ -214,27 +214,27 @@ These Regulations may be cited as the Manufacture and Storage of Explosives Regu
 
 (3) In this regulation, “fire or explosion” means unplanned fire or explosion at the site of manufacture or storage.
 
-### 5. Separation distances[^key-20d70fc6ca9484962e0286df829930db]
+### 5. Separation distances[^c-20d70fc6ca9484962e0286df829930db]
 
 (1) Subject to paragraphs (2) and (3), every person who stores explosives at a site shall ensure that the relevant separation distance prescribed by Schedule 1 is maintained between a store and a building or other place not within that site to which that Schedule applies.
 
-(2)[^key-35a41ec6a7c3f6a20c3b59d502143da7] Paragraph (1) shall not apply to—
+(2)[^c-35a41ec6a7c3f6a20c3b59d502143da7] Paragraph (1) shall not apply to—
 
 - (a) desensitised explosives; or
 - (b) explosives which are stored under a licence granted by the Secretary of State in cases where—
   - (i) the public hearing procedure was required pursuant to regulation 11(4); or
   - (ii) that procedure was not required by virtue of regulation 11(5)(d) or (e).
 
-(3) Subject to paragraph (4), paragraph (1) shall not apply to the storage of explosives where the total quantity of explosives stored at a site, excluding in the case of sub-paragraphs (b) and (d)[^key-bffcbce43d59dbbca03c84fcad6e5447] any quantity of small arms ammunition, does not exceed—
+(3) Subject to paragraph (4), paragraph (1) shall not apply to the storage of explosives where the total quantity of explosives stored at a site, excluding in the case of sub-paragraphs (b) and (d)[^c-bffcbce43d59dbbca03c84fcad6e5447] any quantity of small arms ammunition, does not exceed—
 
 - (a) 100 grams;
-- (aa)[^key-3fd8fe31808429c5f672c748139adfb0] a combined total of 5 kilograms of shooters' powder and model rocket motors;
+- (aa)[^c-3fd8fe31808429c5f672c748139adfb0] a combined total of 5 kilograms of shooters' powder and model rocket motors;
 - (b) 30 kilograms of shooters' powder and 300 grams of percussion caps;
 - (c) 200 detonators and—
   - (i) 5 kilograms of water-based explosive and detonating cord; or
   - (ii) 5 kilograms of water-based explosive or detonating cord; or
 - (d) 4 kilograms of explosive kept by a police force or the Northern Ireland Prison Service for the purpose of training dogs used for the detection of explosives,
-- (e)[^key-072d2a6c1e8d9373e170133f6ad89c4a] 4 kilograms of explosive kept by a police force for operational purposes other than those referred to in sub-paragraph (d),
+- (e)[^c-072d2a6c1e8d9373e170133f6ad89c4a] 4 kilograms of explosive kept by a police force for operational purposes other than those referred to in sub-paragraph (d),
 
 and the explosives are stored in a safe and suitable place with all due precautions for public safety.
 
@@ -246,26 +246,26 @@ and the explosives are stored in a safe and suitable place with all due precauti
 
 (7) Every person, in a case to which regulation 11(4) applies, who is granted a licence to manufacture or store explosives, or whose licence is varied in a way which affects the separation distances required to be maintained, shall ensure that within 28 days of the grant or variation the Department of the Environment is given a plan of the site and its immediate surrounding area showing the separation distances required to be maintained pursuant to the licence.
 
-(8)[^key-4e353195a602a2172728b20fbfbac1eb] In this regulation, “model rocket motors” means explosive articles which—
+(8)[^c-4e353195a602a2172728b20fbfbac1eb] In this regulation, “model rocket motors” means explosive articles which—
 
 - (a) are allocated the U.N. nos. 0186, 0272, 0349, 0351 or 0471;
 - (b) are intended to be used for the propulsion of model rockets or similar articles; and
 - (c) in respect of each individual explosive article, contain no more than 1 kilogram of explosive.
 
-### 6. Disposal of explosives and decontamination of explosive-contaminated items[^key-61371cd3bd747c847076c5b32c6cc1d8]
+### 6. Disposal of explosives and decontamination of explosive-contaminated items[^c-61371cd3bd747c847076c5b32c6cc1d8]
 
 (1) Any person who disposes of explosives shall ensure, so far as is reasonably practicable, that they are disposed of safely.
 
 (2) Any person who decontaminates explosive-contaminated items shall ensure, so far as is reasonably practicable, that they are decontaminated safely.
 
-### 7. Employment of young persons[^key-ce910a0d49f9303a686834c417810fd2]
+### 7. Employment of young persons[^c-ce910a0d49f9303a686834c417810fd2]
 
 A person who manufactures or stores explosives shall not permit a person—
 
 - (a) under the age of 16 years to work in that manufacture or storage; or
 - (b) under the age of 18 years to work in that manufacture or storage except under supervision.
 
-### 8. Unauthorised access[^key-c5fc90a94813a7b125f6fcdea19bac03]
+### 8. Unauthorised access[^c-c5fc90a94813a7b125f6fcdea19bac03]
 
 (1) A person shall not—
 
@@ -281,7 +281,7 @@ A person who manufactures or stores explosives shall not permit a person—
 
 ## PART III — LICENSING AND REGISTRATION REQUIREMENTS
 
-### 9. Explosives not to be manufactured without a licence[^key-981f467049bcf8f9d27305950b55f15b]
+### 9. Explosives not to be manufactured without a licence[^c-981f467049bcf8f9d27305950b55f15b]
 
 (1) Subject to paragraph (2), a person shall not manufacture explosives unless he holds a licence for that manufacture and complies with the conditions of that licence.
 
@@ -307,7 +307,7 @@ A person who manufactures or stores explosives shall not permit a person—
 - (a) in paragraph (2)(c), “shot firing charges” means charges used in shot firing operations; and
 - (b) in paragraph (2)(h), “cap-sensitive” means an explosive which gives a positive result when tested in accordance with the Series 5(a) test of the Manual of Tests and Criteria, fourth edition[^f00015] supporting the United Nations Recommendations.
 
-### 10. Explosives not to be stored without a licence or certificate of registration[^key-fb63c656a3ac92335a2af6762ff84544]
+### 10. Explosives not to be stored without a licence or certificate of registration[^c-fb63c656a3ac92335a2af6762ff84544]
 
 (1) Subject to paragraph (2), a person shall not store explosives unless he holds a licence or certificate of registration for their storage and complies with the conditions of that licence or certificate of registration.
 
@@ -331,12 +331,12 @@ A person who manufactures or stores explosives shall not permit a person—
   - (ii) shooters' powder; or
   - (iii) a combination of shooters' powder and Hazard Type 3 and 4 explosives consisting of fireworks,
 
-  provided that the explosives are stored for no longer than 3 consecutive[^key-d29deade105ddfd0682de2384863a685] days in their place of intended use;
+  provided that the explosives are stored for no longer than 3 consecutive[^c-d29deade105ddfd0682de2384863a685] days in their place of intended use;
 - (e) the storage of—
   - (i) no more than 250 kilograms of Hazard Type 4 explosives provided that the explosives are stored for no longer than 3 consecutive days consecutive in their place of intended use; or
   - (ii) no more than 50 kilograms of Hazard Type 4 explosives consisting solely of fireworks, provided that the fireworks are stored for no longer than 21 consecutive days and are not for sale or for use at work;
 - (f) the storage of desensitised explosives which have been allocated in accordance with the United Nations Recommendations the U.N. nos. 1336, 1337, 2059, 2555, 2556 or 2557; or
-- (g)[^key-887e6ac2315452bd6a782680438fe3b2] the storage of explosives by a company which is a wholly-owned subsidiary of another company at a site in relation to which that other company holds—
+- (g)[^c-887e6ac2315452bd6a782680438fe3b2] the storage of explosives by a company which is a wholly-owned subsidiary of another company at a site in relation to which that other company holds—
   - (i) a registration; or
   - (ii) a licence to store explosives
 
@@ -345,14 +345,14 @@ A person who manufactures or stores explosives shall not permit a person—
 (3) For the purpose of paragraph (2)—
 
 - (a) no more than one of the exceptions listed in sub-paragraphs (a) to (e) of paragraph (2) may be relied on in relation to explosives stored at the same site at the same time, irrespective of the person who is storing them; and
-- (b) the quantities referred to in that paragraph are the maximum quantities of the explosives [^key-41480595d51a1f2ef40d7e0b05402cb6]...which may be present at a site at any one time and[^key-7e94b0263cc0547bc61195659f1d98af]
-- (c)[^key-4268f2779ea08ba2fd7a2184a4947352] in sub-paragraphs (d) and (e), Christmas Day, Good Friday and, to the extent that they are not the same as those, any days which under the Banking and Financial Dealings Act 1971 are bank holidays shall not be included for the purposes of determining the period of days referred to in those sub-paragraphs.
+- (b) the quantities referred to in that paragraph are the maximum quantities of the explosives [^c-41480595d51a1f2ef40d7e0b05402cb6]...which may be present at a site at any one time and[^c-7e94b0263cc0547bc61195659f1d98af]
+- (c)[^c-4268f2779ea08ba2fd7a2184a4947352] in sub-paragraphs (d) and (e), Christmas Day, Good Friday and, to the extent that they are not the same as those, any days which under the Banking and Financial Dealings Act 1971 are bank holidays shall not be included for the purposes of determining the period of days referred to in those sub-paragraphs.
 
-### 11. Grant of licences[^key-7de3bcd7f2b61bbd1ef96b0d62364f30]
+### 11. Grant of licences[^c-7de3bcd7f2b61bbd1ef96b0d62364f30]
 
 (1) An application for a licence shall be made to the Secretary of State on a form approved for the purpose of this regulation by him.
 
-(2)[^key-cfc6801dcb6b9d9031a99ceafbedd094] A licence, not being the renewal of a licence, may be granted—
+(2)[^c-cfc6801dcb6b9d9031a99ceafbedd094] A licence, not being the renewal of a licence, may be granted—
 
 - (a) for such period not exceeding 5 years; or
 - (b) for any period or without a time limit in a case—
@@ -369,13 +369,13 @@ A person who manufactures or stores explosives shall not permit a person—
 (5) Paragraph (4) shall not apply to an application for a licence—
 
 - (a) to store no more than 2000 kilograms of explosives to which paragraph (a)(i) or (b) of the definition of “explosive” in regulation 2(1) applies;
-- (b)[^key-b2a6b520de3a3555289287ab56c051e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b2a6b520de3a3555289287ab56c051e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) relating to the manufacture of explosives by means of on-site mixing;
-- (d) relating to the manufacture of ammonium nitrate blasting intermediate; [^key-435df61215eae7f5077d0a46aabb5c4a]...
+- (d) relating to the manufacture of ammonium nitrate blasting intermediate; [^c-435df61215eae7f5077d0a46aabb5c4a]...
 - (e) relating to the manufacture or storage of explosives by a person who wishes to carry on such manufacture or storage within a part of a site where another person already holds a licence for the manufacture or storage of explosives, and either—
   - (i) the application relates to manufacturing or storage activities which would be permitted at that part of the site under the existing licence; or
   - (ii) in the opinion of the Secretary of State, no significant new health and safety issues are raised by the application.
-- (f)[^key-12eae21eaaaf70210675e1b9d1dc31fb] which is to follow, without a gap in time, a previous licence granted to follow, without a gap in time, a deemed licence for the purposes of regulation 26(3); or
+- (f)[^c-12eae21eaaaf70210675e1b9d1dc31fb] which is to follow, without a gap in time, a previous licence granted to follow, without a gap in time, a deemed licence for the purposes of regulation 26(3); or
 - (g) relating to the manufacture of explosives by the Police Service of Northern Ireland for operational purposes or the training of its members in relation to those purposes.
 
 (6) The conditions of every licence shall specify—
@@ -384,7 +384,7 @@ A person who manufactures or stores explosives shall not permit a person—
 - (b) except in the case of desensitised explosives, the hazard type; and
 - (c) the maximum quantity of explosives which may be manufactured, stored or otherwise present, as the case may be, at any one time at or in any place so specified.
 
-(7) In addition to the matters specified in paragraph (6), a licence which is granted by the Secretary of State in cases where the public hearing procedure was required pursuant to paragraph (4) or in cases where that procedure was not required by virtue of paragraph (5)(d) or (e)[^key-d1ad5760ab2c9dfec2e2419bfa12de2c] —
+(7) In addition to the matters specified in paragraph (6), a licence which is granted by the Secretary of State in cases where the public hearing procedure was required pursuant to paragraph (4) or in cases where that procedure was not required by virtue of paragraph (5)(d) or (e)[^c-d1ad5760ab2c9dfec2e2419bfa12de2c] —
 
 - (a) shall be granted subject to such conditions as the Secretary of State considers appropriate which relate to separation distances;
 - (b) may be granted subject to such conditions as the Secretary of State considers appropriate which relate to—
@@ -407,7 +407,7 @@ A person who manufactures or stores explosives shall not permit a person—
 
 (10) In this regulation, “on-site mixing” means the mixing at any place of non-explosive substances or preparations to form an explosive for immediate use at that place.
 
-### 12. Public hearing[^key-29353e94d46e7e6a6bf288e2d1d20ce9]
+### 12. Public hearing[^c-29353e94d46e7e6a6bf288e2d1d20ce9]
 
 (1) Subject to regulation 14, where this regulation applies by virtue of regulation 11(4), the Secretary of State shall issue to the applicant a draft licence containing the conditions which the Secretary of State proposes to attach to the licence.
 
@@ -440,7 +440,7 @@ within 7 days from its publication.
 
 (10) In this regulation, “applicant” means the applicant for a licence or variation of a licence and “application” means his application.
 
-### 13. Registration in relation to storage[^key-7f0c76661d6033a4e53cf124c1c33d60]
+### 13. Registration in relation to storage[^c-7f0c76661d6033a4e53cf124c1c33d60]
 
 (1) Subject to paragraph (5), a person who wishes to store within one site at any one time no more than—
 
@@ -456,17 +456,17 @@ may apply to the Secretary of State on a form approved for the purpose of this r
 
 (3) Where the Secretary of State registers an applicant, he shall issue to the applicant a certificate of registration, in a form approved for the purpose of this regulation by him.
 
-(4) A registration, including the renewal of a registration, may be issued for such period not exceeding 5 years[^key-4fe19ba49e238fc16aa574427afd7b0b] as the Secretary of State determines.
+(4) A registration, including the renewal of a registration, may be issued for such period not exceeding 5 years[^c-4fe19ba49e238fc16aa574427afd7b0b] as the Secretary of State determines.
 
-(5) For the purpose of paragraph (1), no more than one of the [^key-4c0679964242fb0160c90d7113fb94c2]...sub-paragraphs (a) to (e) of paragraph (1) shall apply to explosives stored at the same site at the same time, irrespective of the person who is storing them.
+(5) For the purpose of paragraph (1), no more than one of the [^c-4c0679964242fb0160c90d7113fb94c2]...sub-paragraphs (a) to (e) of paragraph (1) shall apply to explosives stored at the same site at the same time, irrespective of the person who is storing them.
 
 (6) Where the registration relates to the storage of Hazard Type 4 pyrotechnic articles which are to be offered for sale at the site, the quantity of those pyrotechnic articles which may be kept for any period of time in a sales area at that site shall be restricted to the quantity determined in accordance with Schedule 3 and for these purposes and those of Schedule 3, “sales area” means an area where Hazard Type 4 pyrotechnic articles are sold and to which any person who is not an employee of the person who is registered in respect of the storage of those pyrotechnic articles has access.
 
-(7) An application for registration may not be made in respect of the storage of explosives at a site at which the manufacture of explosives , other than manufacture not requiring a licence by virtue of regulation 9(2),[^key-67b626113661bf9608cace71970a6c35] also takes place or is to take place except if a licence to manufacture explosives is not required by virtue of regulation 9(2).
+(7) An application for registration may not be made in respect of the storage of explosives at a site at which the manufacture of explosives , other than manufacture not requiring a licence by virtue of regulation 9(2),[^c-67b626113661bf9608cace71970a6c35] also takes place or is to take place except if a licence to manufacture explosives is not required by virtue of regulation 9(2).
 
-(8) The quantities referred to in paragraph (1) are the maximum quantities of explosives [^key-15a4b541b72e4713b35d01f6d04b2e9b]...to which they respectively relate which may be present at a site at any one time.
+(8) The quantities referred to in paragraph (1) are the maximum quantities of explosives [^c-15a4b541b72e4713b35d01f6d04b2e9b]...to which they respectively relate which may be present at a site at any one time.
 
-### 14. Refusal of licences, registration and draft licences[^key-de75e922691f2d167942f9ca48414055]
+### 14. Refusal of licences, registration and draft licences[^c-de75e922691f2d167942f9ca48414055]
 
 (1) Subject to regulation 17, the Secretary of State shall—
 
@@ -484,17 +484,17 @@ where paragraph (2) applies.
 
 (3) A refusal by the Secretary of State, pursuant to paragraph (1), to issue the draft licence referred to in regulation 12(1) shall be treated for the purposes of these Regulations as a refusal of an application for a licence and the provisions of regulation 17 shall apply to a refusal to issue a draft licence as if the references in that regulation to “refuse an application for a licence” included refusing to issue a draft licence.
 
-### 15. Variation of licences and registration[^key-af3126bb68548ba6cf5257cccfeac5b5][^key-d5c25f6e6acd8b8eed8510a54d840fc3]
+### 15. Variation of licences and registration[^c-af3126bb68548ba6cf5257cccfeac5b5][^c-d5c25f6e6acd8b8eed8510a54d840fc3]
 
 (1) The Secretary of State may vary a licence—
 
 - (a) where there is a change in circumstances such that the separation distances can no longer be maintained and a consequent reduction in the maximum quantity of explosives that may be stored is required;
-- (b) (in cases where the public hearing procedure was required pursuant to regulation 11(4) , or in cases where that procedure was not required by virtue of regulation 11(5)(e),[^key-5b10fa437c215b22ac864244b3d3dfa9] before the grant of the licence) where there is a material change in circumstances so that a variation is necessary to ensure safety; or
+- (b) (in cases where the public hearing procedure was required pursuant to regulation 11(4) , or in cases where that procedure was not required by virtue of regulation 11(5)(e),[^c-5b10fa437c215b22ac864244b3d3dfa9] before the grant of the licence) where there is a material change in circumstances so that a variation is necessary to ensure safety; or
 - (c) in relation to any of the matters to which it relates, by agreement with the licensee.
 
 (2) Subject to regulation 17, a licence may be varied on the grounds referred to in paragraph (1)(a) or (b) without the agreement of the licensee.
 
-(2A)[^key-af691cdca8f8b640917444af881bbe69] The Secretary of State may vary a registration—
+(2A)[^c-af691cdca8f8b640917444af881bbe69] The Secretary of State may vary a registration—
 
 - (a) where there has been a change of circumstances such that the separation distances can no longer be maintained and a consequent reduction in the quantity of explosives that may be stored is required so as to reduce that quantity to one specified by the Secretary of State which is below the maximum quantity referred to in regulation 13(1) for the kind of explosives concerned;
 - (b) so as to change the period for which the registration is in operation; and
@@ -516,7 +516,7 @@ and the Secretary of State shall refuse to vary a licence unless the procedure r
 
 (5) In this regulation any reference to varying a licence includes varying its conditions.
 
-### 16. Revocation of licences and registration[^key-ce78899f506e0f72c7ef8eaab7c2c1c6]
+### 16. Revocation of licences and registration[^c-ce78899f506e0f72c7ef8eaab7c2c1c6]
 
 (1) Subject to regulation 17, the Secretary of State may revoke a licence or registration—
 
@@ -533,15 +533,15 @@ and the Secretary of State shall refuse to vary a licence unless the procedure r
 - (b) those explosives are deposited at a site which is the subject of a licence or registration which permits any storage resulting from that depositing or that suitable arrangements are made for the disposal of those explosives; and
 - (c) the licence or certificate of registration is returned to the Secretary of State within 28 days of the date from which the revocation takes effect pursuant to regulation 17(4).
 
-### 17. Further provisions concerning refusals, variations and revocations[^key-6e289103eab92e3448b653ec5042a85c]
+### 17. Further provisions concerning refusals, variations and revocations[^c-6e289103eab92e3448b653ec5042a85c]
 
 (1) Where the Secretary of State proposes to—
 
-- (a)[^key-5773a9558bbd08972b44a93a126e2b85] refuse an application for—
+- (a)[^c-5773a9558bbd08972b44a93a126e2b85] refuse an application for—
   - (i) a licence or registration;
   - (ii) a renewal of a licence or registration; or
   - (iii) a transfer of a licence or registration;
-- (b) vary a licence or registration[^key-ce2db6c7c23d48410c4c2780b6ed0d9b] without the agreement of the licensee or registered person[^key-ac8795fde29e3de8950e03e3923da865] ; or
+- (b) vary a licence or registration[^c-ce2db6c7c23d48410c4c2780b6ed0d9b] without the agreement of the licensee or registered person[^c-ac8795fde29e3de8950e03e3923da865] ; or
 - (c) revoke a licence or registration,
 
 he shall, before taking any such action, notify the applicant, licensee or registered person, as the case may be, of his proposed course of action and afford that person the opportunity of making representations to him about it, within a period of 28 days from the date of the notification.
@@ -550,18 +550,18 @@ he shall, before taking any such action, notify the applicant, licensee or regis
 
 (3) Where the Secretary of State decides to—
 
-- (a)[^key-86c225d07d7784bc0af4ece0689c2ce1] refuse an application for—
+- (a)[^c-86c225d07d7784bc0af4ece0689c2ce1] refuse an application for—
   - (i) a licence or registration;
   - (ii) a renewal of a licence or registration; or
   - (iii) a transfer of a licence or registration;
-- (b) vary a licence or registration[^key-72c8bf6b552b7800ca4a93aea5c87d88] without the agreement of the licensee or registered person[^key-84bd5e481298b50cdce5aee7069624c1] ; or
+- (b) vary a licence or registration[^c-72c8bf6b552b7800ca4a93aea5c87d88] without the agreement of the licensee or registered person[^c-84bd5e481298b50cdce5aee7069624c1] ; or
 - (c) revoke a licence or registration,
 
 he shall provide in writing to the applicant, licensee or registered person, as the case may be, the reasons for his decision.
 
-(4) Where the Secretary of State varies a licence or registration[^key-ac6ba9989fb9168c37308f454578c96b] without the agreement of the licensee or registered person[^key-8bf81a4585e9c747959cb8869b41779d] or revokes a licence or registration, that variation or revocation shall take effect from a date to be determined by the Secretary of State which shall be a date after the 28 day period referred to in paragraph (1).
+(4) Where the Secretary of State varies a licence or registration[^c-ac6ba9989fb9168c37308f454578c96b] without the agreement of the licensee or registered person[^c-8bf81a4585e9c747959cb8869b41779d] or revokes a licence or registration, that variation or revocation shall take effect from a date to be determined by the Secretary of State which shall be a date after the 28 day period referred to in paragraph (1).
 
-### 18. Transfer of licences and registration[^key-814bf1a86e42c022ce84aebf6680b364]
+### 18. Transfer of licences and registration[^c-814bf1a86e42c022ce84aebf6680b364]
 
 (1) A licence or registration may be transferred in writing by the Secretary of State to any other person who wishes to manufacture or store explosives in place of the licensee or registered person and who applies to the Secretary of State for the transfer.
 
@@ -572,7 +572,7 @@ he shall provide in writing to the applicant, licensee or registered person, as 
 
 (3) Where the Secretary of State is of an opinion referred to in paragraph (2)(a) or (b), he shall, subject to regulation 17, refuse the application to transfer the licence or registration, as the case may be.
 
-### 19. Fees[^key-379d3d22afb5db00c648d705c86a59a3]
+### 19. Fees[^c-379d3d22afb5db00c648d705c86a59a3]
 
 (1) Where any application in relation to a provision specified in column 1 of Schedule 4 is made to the Secretary of State for a purpose specified in column 2 of that Schedule, the fee specified in the corresponding entry in column 3 of that Schedule shall be payable by the applicant to the Secretary of State, except that in the case of an application referred to in column 2 of that Schedule for a licence to manufacture ammonium nitrate blasting intermediate, or to vary any such licence, the fee referred to in column 3 of that Schedule as an amount per hour worked—
 
@@ -587,19 +587,19 @@ he shall provide in writing to the applicant, licensee or registered person, as 
 
 (5) Nothing in this regulation shall be construed as making a fee payable by a person in any of the capacities referred to in Article 40(4) of the 1978 Order.
 
-### 20. Death, incapacity or bankruptcy[^key-5b47d1ec4f993083711feade50f40f4f]
+### 20. Death, incapacity or bankruptcy[^c-5b47d1ec4f993083711feade50f40f4f]
 
-(1) If a licensee or registered person dies or becomes incapacitated, a person manufacturing or storing explosives in accordance with the conditions[^key-65eaffef9ff293ed1b97795f20513578] of the first-named person’s licence or certificate of registration shall be treated as being licensed or registered in accordance with the first-named person’s licence or certificate of registration until either—
+(1) If a licensee or registered person dies or becomes incapacitated, a person manufacturing or storing explosives in accordance with the conditions[^c-65eaffef9ff293ed1b97795f20513578] of the first-named person’s licence or certificate of registration shall be treated as being licensed or registered in accordance with the first-named person’s licence or certificate of registration until either—
 
-- (a) the expiry of a period of 60 days starting with the date of[^key-8d5ef811b578f8e2a066e0136aa10e34] such death or incapacity; [^key-31c678701c5dcc683ab00b97ac4766b4]...
-- (b) the grant or refusal of a new licence or registration, or[^key-0f8f7f5f88beb197ac15a667d27cd434]
-- (c)[^key-e561af0cfa44c477af359c4bba0cf182] the transfer of, or refusal to transfer, a licence or registration.
+- (a) the expiry of a period of 60 days starting with the date of[^c-8d5ef811b578f8e2a066e0136aa10e34] such death or incapacity; [^c-31c678701c5dcc683ab00b97ac4766b4]...
+- (b) the grant or refusal of a new licence or registration, or[^c-0f8f7f5f88beb197ac15a667d27cd434]
+- (c)[^c-e561af0cfa44c477af359c4bba0cf182] the transfer of, or refusal to transfer, a licence or registration.
 
 whichever is the earlier.
 
 (2) If a licensee or registered person becomes bankrupt or, in the case of a company, goes into liquidation or receivership or has a receiving order made against it, any receiver, trustee in bankruptcy or liquidator shall be treated as being the licensee or registered person and shall notify the Secretary of State of his appointment within 28 days from such appointment.
 
-### 21. Register and retention of documents[^key-71be7b0f693088b2a466dab1cc6aeed3]
+### 21. Register and retention of documents[^c-71be7b0f693088b2a466dab1cc6aeed3]
 
 (1) The Secretary of State shall—
 
@@ -612,7 +612,7 @@ whichever is the earlier.
 - (b) a licence granted shall be construed as a reference to the scheme referred to in regulation 3(4); and
 - (c) separation distances shall be construed as a reference to the separation distances prescribed in the scheme approved by the Secretary of State for Defence.
 
-### 22. Defences[^key-e74cbaaefb86bc7b0fc0a9877fe9d5b2]
+### 22. Defences[^c-e74cbaaefb86bc7b0fc0a9877fe9d5b2]
 
 (1) In proceedings against a person for a contravention of regulation 9(1), which involves using a building or part of a building licensed for the manufacture of explosives for another manufacturing process not specified in the licence, it shall be a defence for that person to prove that—
 
@@ -627,7 +627,7 @@ whichever is the earlier.
 
 ## PART IV — PROHIBITIONS CONCERNING CERTAIN EXPLOSIVES AND MISCELLANEOUS PROVISIONS
 
-### 23. Prohibition concerning the manufacture and storage of certain explosives[^key-e9b924ad85fc7fdde7cfad3609769c7f]
+### 23. Prohibition concerning the manufacture and storage of certain explosives[^c-e9b924ad85fc7fdde7cfad3609769c7f]
 
 (1) Subject to paragraph (2), a pyrotechnic which consists of—
 
@@ -638,7 +638,7 @@ mixed with chlorate of potassium or other chlorates or which contains any such m
 
 (2) This regulation does not apply to any pyrotechnic named in a list, approved by the Health and Safety Executive established under section 10 of the Health and Safety at Work etc Act 1974[^f00016], of pyrotechnics falling within the description referred to in paragraph (1).
 
-### 24. Prohibition concerning the acquisition and supply of fireworks[^key-5caaa59f268d61e934031b5f8bfa36b4]
+### 24. Prohibition concerning the acquisition and supply of fireworks[^c-5caaa59f268d61e934031b5f8bfa36b4]
 
 (1) A person shall not—
 
@@ -647,11 +647,11 @@ mixed with chlorate of potassium or other chlorates or which contains any such m
 
 (2) This regulation does not apply to a person who is transporting fireworks on behalf of another person.
 
-### 24A. Information as to net mass of pyrotechnic articles[^key-cb08bf750668182d3521a7d764afcb9a]
+### 24A. Information as to net mass of pyrotechnic articles[^c-cb08bf750668182d3521a7d764afcb9a]
 
 Where the manufacturer, importer or supplier of a pyrotechnic article specifies its net mass of explosive on the pyrotechnic article, its packaging or in a document accompanying it, he shall ensure, so far as is reasonably practicable, that the net mass of the explosive in that pyrotechnic article does not exceed the quantity he so specifies on the pyrotechnic article, the packaging or that document as the case may be
 
-### 25. Power to grant exemptions[^key-5b3ff0cd6cefdcd9b652a9918174610a]
+### 25. Power to grant exemptions[^c-5b3ff0cd6cefdcd9b652a9918174610a]
 
 (1) Subject to paragraph (2), the Secretary of State may, by a certificate in writing, exempt any person or class of persons or any explosive or class of explosives from any requirement or prohibition imposed by these Regulations, and any such exemption may be granted subject to such conditions and to a time limit and may be revoked by him in writing at any time.
 
@@ -664,7 +664,7 @@ he is satisfied that the health and safety of persons who are likely to be affec
 
 (3) The Secretary of State for Defence may, in the interests of national security, by a certificate in writing, exempt any of Her Majesty’s Forces, any visiting force, any headquarters or any civilian employee or class of civilian employees of the Ministry of Defence from all or any of the requirements or prohibitions imposed by these Regulations and any such exemption may be granted subject to conditions and to a time limit and may be revoked by him in writing at any time.
 
-### 26. Savings and transitional provisions[^key-0c5832ff5cc0c57520456017bad51669]
+### 26. Savings and transitional provisions[^c-0c5832ff5cc0c57520456017bad51669]
 
 (1) A licence, amending licence or store licence granted under section 8, 12 or 15 of the 1875 Act or a licence granted under regulation 5 of the Explosives Regulations (Northern Ireland) 1970[^f00017] which was valid immediately before the relevant date shall be deemed to be a licence granted under regulation 11 and shall continue in operation, notwithstanding the repeal by these Regulations of those provisions, on its existing terms and conditions, subject to—
 
@@ -734,7 +734,7 @@ may apply at any time to the Secretary of State for a licence in respect of that
 - (a) paragraphs (4) and (8) of that section shall continue to apply; and
 - (b) paragraph (9) of that section (as it had effect before the commencement of Schedule 4 to the Placing on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 1993[^f00021]) shall continue to apply to acetylene as it applied before the commencement of these Regulations.
 
-(19)[^key-c8edc0cee5e68995b6e3b8ad23cc9ace] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(19)[^c-c8edc0cee5e68995b6e3b8ad23cc9ace] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (20) For the purpose of this regulation—
 
@@ -749,7 +749,7 @@ may apply at any time to the Secretary of State for a licence in respect of that
   granted under section 8 or 12 of the 1875 Act and “licensed under that Act” and “existing licence” shall be construed accordingly; and
 - (d) “relevant date” means the date when these Regulations come into operation.
 
-### 27. Repeals, revocations and amendments[^key-dbc799bcbb1f9cdf0f2654a8fa3d441b]
+### 27. Repeals, revocations and amendments[^c-dbc799bcbb1f9cdf0f2654a8fa3d441b]
 
 (1) The primary legislation specified in Part 1 of Schedule 6 and the secondary legislation specified in Part 2 of that Schedule shall be amended in accordance with the provisions of that Schedule.
 
@@ -769,7 +769,7 @@ Northern Ireland Office
 
 Regulation 5(1)
 
-**1.**[^key-27648b1aff203ef7cbbc56cc132a6c94] (1) In this Schedule—
+**1.**[^c-27648b1aff203ef7cbbc56cc132a6c94] (1) In this Schedule—
 
 - “brick-built” means having an outer structure which is wholly or mainly of brick, concrete, stone or other similar material;
 - “distance”, except in the definition of “reference zone”, means the minimum distance;
@@ -800,7 +800,7 @@ Regulation 5(1)
 
 (7) For the purpose of this Schedule, any reference to “footpath”, “footway” or “waterway” does not include, respectively, footpath or footway used, or waterway navigated, by no more than, ordinarily, 20 persons every 24 hours.
 
-**2.**[^key-fb68f7f1f633e78486f08a0f423e2a34] Where the storage is of—
+**2.**[^c-fb68f7f1f633e78486f08a0f423e2a34] Where the storage is of—
 
 - (a) Hazard Type 1 explosive in a brick-built mounded store, Table 1;
 - (b) Hazard Type 1 explosive in a brick-built unmounded store, Table 2;
@@ -814,18 +814,18 @@ Regulation 5(1)
 
 shall apply and any reference in this Schedule to a relevant Table is a reference to the Table which applies by virtue of this paragraph.
 
-**3.**[^key-74a764573bfe727f5fec69489265a56f] Subject to paragraphs 4 and 5, the distance between a store and any building, place of public resort or major road shall be the distance specified in the entry in column 2 of the relevant Table corresponding to the quantity of explosives shown in column 1 of the Table.
+**3.**[^c-74a764573bfe727f5fec69489265a56f] Subject to paragraphs 4 and 5, the distance between a store and any building, place of public resort or major road shall be the distance specified in the entry in column 2 of the relevant Table corresponding to the quantity of explosives shown in column 1 of the Table.
 
-**4.**[^key-1bd9b3a2c3ab7ea24cfc1992af509480] Subject to paragraph 5, where—
+**4.**[^c-1bd9b3a2c3ab7ea24cfc1992af509480] Subject to paragraph 5, where—
 
 - (a) Table 1, 3, 4 or 5 applies; and
 - (b) the number of dwellings in the reference zone is greater than the number specified in the entry in column 6 of the Table corresponding to the quantity of explosives shown in column 1 of the Table,
 
 the distance between the store and any dwelling shall be the distance (if any) specified in the corresponding entry in column 3 of the Table.
 
-**5.**[^key-07787226bb9883c66319945c036755bd] The distance between a store and any vulnerable building shall be the distance (if any) specified in the column headed “Vulnerable building distance” corresponding to the quantity of explosives shown in column 1 of the relevant Table.
+**5.**[^c-07787226bb9883c66319945c036755bd] The distance between a store and any vulnerable building shall be the distance (if any) specified in the column headed “Vulnerable building distance” corresponding to the quantity of explosives shown in column 1 of the relevant Table.
 
-**6.**[^key-70e3b9107bdd447a7b7f81146252a8ad] The distance between a store and—
+**6.**[^c-70e3b9107bdd447a7b7f81146252a8ad] The distance between a store and—
 
 - (a) any minor road or railway line shall be half; and
 - (b) any footpath, footway, lightly-used road or waterway shall be one-third,
@@ -1194,11 +1194,11 @@ TABLE 9
 </tbody>
 </table>
 
-## SCHEDULE 2 — EXCEPTIONS[^key-c3435daac8e3b49f2bab734a1332fe79]
+## SCHEDULE 2 — EXCEPTIONS[^c-c3435daac8e3b49f2bab734a1332fe79]
 
 Regulation 10(2)(a)(ii)
 
-### PART 1[^key-f5cf261037779efdb046ff8b925f76d9]
+### PART 1[^c-f5cf261037779efdb046ff8b925f76d9]
 
 | Explosives | U.N. no. |
 | --- | --- |
@@ -1297,18 +1297,18 @@ Regulation 10(2)(a)(ii)
 | ZIRCONIUM PICRAMATE, dry or wetted with less than 20% water, by mass | 0236 |
 | ZIRCONIUM PICRAMATE, WETTED with not less than 20% water, by mass | 1517 |
 
-### PART 2[^key-0b0af0e157f148fb6a8d058c53b140ef]
+### PART 2[^c-0b0af0e157f148fb6a8d058c53b140ef]
 
 - Explosive articles which—
   - (a) are allocated the U.N. nos. 0186, 0272, 0349, 0351 or 0471;
   - (b) are intended to be used for the propulsion of model rockets or similar articles; and
   - (c) in respect of each individual explosive article, contain no more than 1 kilogram of explosive.
 
-## SCHEDULE 3 — QUANTITY OF HAZARD TYPE 4 PYROTECHNIC ARTICLES IN SALES AREAS[^key-b605a89ed9aca35de95981ac833356c0]
+## SCHEDULE 3 — QUANTITY OF HAZARD TYPE 4 PYROTECHNIC ARTICLES IN SALES AREAS[^c-b605a89ed9aca35de95981ac833356c0]
 
 Regulation 13(6)
 
-[^key-b605a89ed9aca35de95981ac833356c0]
+[^c-b605a89ed9aca35de95981ac833356c0]
 
 The maximum quantity of Hazard Type 4 pyrotechnic articles which may be kept for any period of time in a sales area at a site in relation to which a person is registered for the storage of explosives shall be the quantity specified in column 2 of the Table below corresponding to the floor area of the sales area shown in column 1 of the Table.
 
@@ -1336,7 +1336,7 @@ The maximum quantity of Hazard Type 4 pyrotechnic articles which may be kept for
 </tbody>
 </table>
 
-## SCHEDULE 4 — FEES[^key-6a88b4bbb19dceafad0924b9169a6eb5]
+## SCHEDULE 4 — FEES[^c-6a88b4bbb19dceafad0924b9169a6eb5]
 
 Regulation 19
 
@@ -1371,9 +1371,9 @@ Regulation 19
 
 Regulation 21
 
-**1.**[^key-c3a3787f86364934d881929db95fa548] The Secretary of State shall maintain a register (“the register”) containing the information listed in paragraph 2 which relates to licences granted and certificates of registration issued by him.
+**1.**[^c-c3a3787f86364934d881929db95fa548] The Secretary of State shall maintain a register (“the register”) containing the information listed in paragraph 2 which relates to licences granted and certificates of registration issued by him.
 
-**2.**[^key-6f12584ab819193adbf411417b3756c6] The following information shall be included in the register—
+**2.**[^c-6f12584ab819193adbf411417b3756c6] The following information shall be included in the register—
 
 - (a) the name of the licensee or registered person;
 - (b) his permanent address, unless his home address is his only permanent address;
@@ -1381,28 +1381,28 @@ Regulation 21
 - (d) the hazard type and maximum quantity of explosives which may be manufactured or stored at any one time;
 - (e) the nature of the business of the licensee or registered person and the intended use of the explosives;
 - (f) the name and description of the explosives manufactured or stored;
-- (g)[^key-385aca747c0a87272280236eeb93e270] where separation distances are required by regulation 5 or a condition of the licence to be maintained around the building where explosives are manufactured or the store, a plan in a suitable scale sufficient to show those separation distances;
+- (g)[^c-385aca747c0a87272280236eeb93e270] where separation distances are required by regulation 5 or a condition of the licence to be maintained around the building where explosives are manufactured or the store, a plan in a suitable scale sufficient to show those separation distances;
 - (h) where the address of the site does not have a street number and postcode, a map in a suitable scale which shows the exact location of the building where explosives are manufactured or the store; and
 - (i) in relation to licences to store more than 2000 kilograms of explosives, the kind of store concerned, including the material of which it is constructed.
 
-**3.**[^key-ee24f931ee21790d9d6bea82301dc591] The register may be kept in any form, including electronically.
+**3.**[^c-ee24f931ee21790d9d6bea82301dc591] The register may be kept in any form, including electronically.
 
-**4.**[^key-d7148492710a5bf6323b1f9d0e0fe71c] Subject to paragraphs 6 and 6A[^key-4a4498c0f1cd0fd62d6a0d3bbbfc89b5] , the Secretary of State shall—
+**4.**[^c-d7148492710a5bf6323b1f9d0e0fe71c] Subject to paragraphs 6 and 6A[^c-4a4498c0f1cd0fd62d6a0d3bbbfc89b5] , the Secretary of State shall—
 
 - (a) ensure that the information referred to in paragraph 2(a) to (d) in respect of a licence or registration is available for inspection, at all reasonable times and free of charge, by a person who resides, or by an undertaking situated, within the public consultation zone concerned in relation to the licence or registration; and
-- (b) provide a copy of the entry in the register relating to the information referred to in sub-paragraph 2(a) to (d) in respect of that licence or registration [^key-77391c549eea0a5cbca2e995dd7667da]...to such a person or undertaking as referred to in sub-paragraph (a) who requests a copy and pays a charge which shall not exceed the reasonable cost of providing the copy.
+- (b) provide a copy of the entry in the register relating to the information referred to in sub-paragraph 2(a) to (d) in respect of that licence or registration [^c-77391c549eea0a5cbca2e995dd7667da]...to such a person or undertaking as referred to in sub-paragraph (a) who requests a copy and pays a charge which shall not exceed the reasonable cost of providing the copy.
 
-**5.**[^key-1416b50b6a5eeaadc8a1da7f6cdb02af] The licensee or registered person in relation to any site in which explosives are manufactured or stored shall, when requested in writing to do so by the owner or, if not the same person, the occupier, of any premises falling within any separation distance applying in relation to that site, provide to the requesting person within 28 days of the request a scale plan of the area of land falling within that separation distance.
+**5.**[^c-1416b50b6a5eeaadc8a1da7f6cdb02af] The licensee or registered person in relation to any site in which explosives are manufactured or stored shall, when requested in writing to do so by the owner or, if not the same person, the occupier, of any premises falling within any separation distance applying in relation to that site, provide to the requesting person within 28 days of the request a scale plan of the area of land falling within that separation distance.
 
-**6.**[^key-e71b88cd01545b24bb25e9b7d64f72ec] The requirements of paragraph 4 shall not apply where the information referred to in paragraph 2 is in respect of any site to which a licence or registration relates which is used only for the storage of—
+**6.**[^c-e71b88cd01545b24bb25e9b7d64f72ec] The requirements of paragraph 4 shall not apply where the information referred to in paragraph 2 is in respect of any site to which a licence or registration relates which is used only for the storage of—
 
 - (a) less than 500 kilograms of Hazard Type 1 explosive or Hazard Type 2 explosive;
 - (b) less than 2000 kilograms of Hazard Type 3 explosive or Hazard Type 4 explosive; or
 - (c) any explosives for a period of less than 4 weeks.
 
-**6A.**[^key-3e93e0195187244a12c1aa3021dcf2e3] The requirements of paragraph 4 shall not apply where the information referred to in paragraph 2 is in respect of a licensed site in relation to which regulation 11(4) did not apply to the licence application for that site by virtue of regulation 11(5)(g).
+**6A.**[^c-3e93e0195187244a12c1aa3021dcf2e3] The requirements of paragraph 4 shall not apply where the information referred to in paragraph 2 is in respect of a licensed site in relation to which regulation 11(4) did not apply to the licence application for that site by virtue of regulation 11(5)(g).
 
-**7.**[^key-20cab525e0019ab966850b0f71db5402] Nothing in this Schedule shall prevent the Secretary of State from disclosing any of the information in the register to the Department of the Environment for the purpose of the exercise of its functions.
+**7.**[^c-20cab525e0019ab966850b0f71db5402] Nothing in this Schedule shall prevent the Secretary of State from disclosing any of the information in the register to the Department of the Environment for the purpose of the exercise of its functions.
 
 ## SCHEDULE 6 — AMENDMENTS
 
@@ -1410,7 +1410,7 @@ Regulation 27(1)
 
 ### PART 1 — AMENDMENTS TO PRIMARY LEGISLATION
 
-#### 1. Explosives Act 1875[^key-7dbc67610deabafb62f2bb393d7b7148]
+#### 1. Explosives Act 1875[^c-7dbc67610deabafb62f2bb393d7b7148]
 
 (1) The 1875 Act is amended as follows.
 
@@ -1462,31 +1462,31 @@ Regulation 27(1)
 
 (15) Omit Schedules 1 and 2.
 
-#### 2. Merchant Shipping Act 1894[^key-fa8966788baca0e7ae9ea60cec2fdc66]
+#### 2. Merchant Shipping Act 1894[^c-fa8966788baca0e7ae9ea60cec2fdc66]
 
 In section 446(3) of the Merchant Shipping Act 1894[^f00024] (dangerous goods), for “Explosives Act, 1875” substitute “Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006”.
 
-#### 3. Uniformity of Laws Act (Northern Ireland) 1922[^key-814c21574a184df343d5add1fe4cbd77]
+#### 3. Uniformity of Laws Act (Northern Ireland) 1922[^c-814c21574a184df343d5add1fe4cbd77]
 
 In section 9 of the Uniformity of Laws Act (Northern Ireland) 1922[^f00025] (definitions), for “Explosives Act, 1875” substitute “Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006”.
 
-#### 4. Celluloid and Cinematograph Film Act 1922[^key-21430afd39b3bff5a2dff16f7cbc4723]
+#### 4. Celluloid and Cinematograph Film Act 1922[^c-21430afd39b3bff5a2dff16f7cbc4723]
 
 In section 9 of the Celluloid and Cinematograph Film Act 1922[^f00026] (definitions), in the definition of “celluloid”, for “Explosives Act 1875” substitute “Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006”.
 
-#### 5. Petroleum (Consolidation) Act (Northern Ireland) 1929[^key-a88fc1c81cd953595171801f9658f370]
+#### 5. Petroleum (Consolidation) Act (Northern Ireland) 1929[^c-a88fc1c81cd953595171801f9658f370]
 
 In section 23 of the Petroleum (Consolidation) Act (Northern Ireland) 1929[^f00027] (interpretation), for “Explosives Act, 1875” substitute “Health and Safety at Work (Northern Ireland) Order 1978”.
 
-#### 6. Acquisition of Land (Authorisation Procedure) Act 1946[^key-55427ca2c435356d6a7123a953efc293]
+#### 6. Acquisition of Land (Authorisation Procedure) Act 1946[^c-55427ca2c435356d6a7123a953efc293]
 
 In Schedule 4 to the Acquisition of Land (Authorisation Procedure) Act 1946[^f00028] (minor and consequential amendments), omit the entry relating to the Explosives Act 1875.
 
-#### 7. Financial Provisions Act (Northern Ireland) 1968[^key-eefa88c0cecf45bd54d1197a1fbabee0]
+#### 7. Financial Provisions Act (Northern Ireland) 1968[^c-eefa88c0cecf45bd54d1197a1fbabee0]
 
 In Schedule 1 to the Financial Provisions Act (Northern Ireland) 1968[^f00029] (variation of fees etc.), omit the entry relating to the Explosives Act 1875.
 
-#### 8. Explosives Act (Northern Ireland) 1970[^key-83ab26d8e397794b8f34779caaf165a8]
+#### 8. Explosives Act (Northern Ireland) 1970[^c-83ab26d8e397794b8f34779caaf165a8]
 
 (1) The Explosives Act (Northern Ireland) 1970[^f00030] is amended as follows.
 
@@ -1511,7 +1511,7 @@ In Schedule 1 to the Financial Provisions Act (Northern Ireland) 1968[^f00029] (
 
 (5) In section 8(3) (interpretation), for the words “Explosives Act 1875” substitute “Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006”.
 
-#### 9. Northern Ireland (Modification of Enactments — No. 1) Order 1973[^key-b2c89dfd43a6a93f661ba37be2c49330]
+#### 9. Northern Ireland (Modification of Enactments — No. 1) Order 1973[^c-b2c89dfd43a6a93f661ba37be2c49330]
 
 (1) The Northern Ireland (Modification of Enactments — No. 1) Order 1973[^f00031] is amended as follows.
 
@@ -1519,19 +1519,19 @@ In Schedule 1 to the Financial Provisions Act (Northern Ireland) 1968[^f00029] (
 
 (3) In Schedule 3 (Acts relating to functions transferred to the Treasury), omit the reference to section 72 of the Explosives Act [1875 (c. 17)](https://www.legislation.gov.uk/ukpga/1875/17).
 
-#### 10. Sex Discrimination (Northern Ireland) Order 1976[^key-c939d1f84a7b58c2a45527420ee6e18e]
+#### 10. Sex Discrimination (Northern Ireland) Order 1976[^c-c939d1f84a7b58c2a45527420ee6e18e]
 
 In Schedule 4 to the Sex Discrimination (Northern Ireland) Order 1976[^f00032] (statutory provisions relevant for purposes of Article 56), omit the entries relating to the Explosives Act 1875 and the Explosives Act (Northern Ireland) 1924.
 
-#### 11. Judicature (Northern Ireland) Act 1978[^key-5b1bd5e34bdc1beb1be04747295a2094]
+#### 11. Judicature (Northern Ireland) Act 1978[^c-5b1bd5e34bdc1beb1be04747295a2094]
 
 In Schedule 5 to the Judicature (Northern Ireland) Act 1978[^f00033] (minor and consequential amendments), omit the entry relating to the Explosives Act 1875.
 
-#### 12. Pollution Control and Local Government (Northern Ireland) Order 1978[^key-9452b46048c97f7ef24d2200f2fac7bc]
+#### 12. Pollution Control and Local Government (Northern Ireland) Order 1978[^c-9452b46048c97f7ef24d2200f2fac7bc]
 
 Until the coming into force of its repeal by the Environmental Protection Act 1990[^f00034] the definition of “waste” in Article 36 of the Pollution Control and Local Government (Northern Ireland) Order 1978[^f00035] has effect as if the reference to the Explosives Acts 1875 to 1970 were a reference to these Regulations.
 
-#### 13. Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^key-e06895caafefd3c6c70d7e72b7f5adbf]
+#### 13. Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^c-e06895caafefd3c6c70d7e72b7f5adbf]
 
 (1) The Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^f00036] is amended as follows.
 
@@ -1548,7 +1548,7 @@ Until the coming into force of its repeal by the Environmental Protection Act 19
 
 (4) In paragraph 14 of Schedule 3 (excepted proceedings), omit the words “on an application to the police or a court of summary jurisdiction for a certificate under any Order in Council made under section 43 of the Explosives Act 1875 as to the fitness of the applicant to keep explosives and”.
 
-#### 14. Environmental Protection Act 1990[^key-8d2eb8ef149ab3c07ee6381ccefa6d19]
+#### 14. Environmental Protection Act 1990[^c-8d2eb8ef149ab3c07ee6381ccefa6d19]
 
 (1) The Environmental Protection Act 1990[^f00037] is amended as follows.
 
@@ -1556,21 +1556,21 @@ Until the coming into force of its repeal by the Environmental Protection Act 19
 
 (3) In section 142(7) (powers to obtain information), for “Explosive Substances Act 1875” substitute “Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006”.
 
-#### 15. Merchant Shipping Act 1995[^key-a5470ca88eb8221e32571ae264559e8e]
+#### 15. Merchant Shipping Act 1995[^c-a5470ca88eb8221e32571ae264559e8e]
 
 In Schedule 13 to the Merchant Shipping Act 1995[^f00038] (consequential amendments), omit paragraph 5.
 
-#### 16. Waste and Contaminated Land (Northern Ireland) Order 1997[^key-78076a61f1cb8953ce5070027d446835]
+#### 16. Waste and Contaminated Land (Northern Ireland) Order 1997[^c-78076a61f1cb8953ce5070027d446835]
 
 In Article 33(6) of the Waste and Contaminated Land (Northern Ireland) Order 1997[^f00039] (power to obtain information about potentially hazardous substances), for the words “Explosives Act 1875” substitute “Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006”.
 
 ### PART 2 — AMENDMENTS TO SECONDARY LEGISLATION
 
-#### 17. The Factory and Workshop Act 1901, use of locomotives and wagons on lines and sidings, Regulations 1906[^key-7d87f678c518d36c86a741c19e6b20cb]
+#### 17. The Factory and Workshop Act 1901, use of locomotives and wagons on lines and sidings, Regulations 1906[^c-7d87f678c518d36c86a741c19e6b20cb]
 
 In the Factory and Workshop Act 1901, use of locomotives and wagons on lines and sidings, Regulations 1906[^f00040], in the provisions on Application which begin with the words “Nothing in these Regulations shall apply to”, for sub-paragraph (i) substitute “(i) Any site for the manufacture of explosives which is specified in a licence granted under the Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006”.
 
-#### 18. Order in Council No. 30 dated 2nd February 1937[^key-3dc44714f23999afe1c6fe453179f0dc]
+#### 18. Order in Council No. 30 dated 2nd February 1937[^c-3dc44714f23999afe1c6fe453179f0dc]
 
 After the proviso in Order in Council No. 30 dated 2nd February 1937[^f00041], insert—
 
@@ -1578,7 +1578,7 @@ After the proviso in Order in Council No. 30 dated 2nd February 1937[^f00041], i
 
 .
 
-#### 19. The Miscellaneous Mines (Explosives) Regulations (Northern Ireland) 1970[^key-0382f2ef6d9673b0b4adabcc7f6eb7b9]
+#### 19. The Miscellaneous Mines (Explosives) Regulations (Northern Ireland) 1970[^c-0382f2ef6d9673b0b4adabcc7f6eb7b9]
 
 (1) The Miscellaneous Mines (Explosives) Regulations (Northern Ireland) 1970[^f00042] are amended as follows.
 
@@ -1590,7 +1590,7 @@ After the proviso in Order in Council No. 30 dated 2nd February 1937[^f00041], i
 
 (3) In regulation 32(a) (shot firing — additional provisions for shafts, winzes and raises), for the words from “workshop used” to the end substitute “suitable place for that purpose appointed by the manager of the mine.”.
 
-#### 20. The Explosives Regulations (Northern Ireland) 1970[^key-b0dbb4e8e4ef1d3f80701586c68e2f58]
+#### 20. The Explosives Regulations (Northern Ireland) 1970[^c-b0dbb4e8e4ef1d3f80701586c68e2f58]
 
 (1) The Explosives Regulations (Northern Ireland) 1970[^f00043] are amended as follows.
 
@@ -1605,15 +1605,15 @@ After the proviso in Order in Council No. 30 dated 2nd February 1937[^f00041], i
 
 (5) In the Schedule, omit Forms 3 and 4.
 
-#### 21. The Clean Air (Emission of Dark Smoke) Regulations (Northern Ireland) 1981[^key-ac2cfa667a4f192dde7d686004b40701]
+#### 21. The Clean Air (Emission of Dark Smoke) Regulations (Northern Ireland) 1981[^c-ac2cfa667a4f192dde7d686004b40701]
 
 In paragraph 2 of Schedule 1 to the Clean Air (Emission of Dark Smoke) Regulations (Northern Ireland) 1981[^f00044] (exempted matter), for “Explosives Act 1875” substitute “Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006”.
 
-#### 22. The Dangerous Substances in Harbour Areas Regulations (Northern Ireland) 1991[^key-4e2354771b12c853feb152c7d3f01152]
+#### 22. The Dangerous Substances in Harbour Areas Regulations (Northern Ireland) 1991[^c-4e2354771b12c853feb152c7d3f01152]
 
 In regulation 5(2)(h) of the Dangerous Substances in Harbour Areas Regulations (Northern Ireland) 1991[^f00045] (application of these Regulations), for the words “or the Explosives (Northern Ireland) Order 1972” substitute “, the Explosives (Northern Ireland) Order 1972 or the Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006”.
 
-#### 23. The Classification and Labelling of Explosives Regulations (Northern Ireland) 1991[^key-4b7ec1bbcc9d53a6a2c2fab38c77618c]
+#### 23. The Classification and Labelling of Explosives Regulations (Northern Ireland) 1991[^c-4b7ec1bbcc9d53a6a2c2fab38c77618c]
 
 (1) The Classification and Labelling of Explosives Regulations (Northern Ireland) 1991[^f00046] are amended as follows.
 
@@ -1621,14 +1621,14 @@ In regulation 5(2)(h) of the Dangerous Substances in Harbour Areas Regulations (
 
 (3) Regulation 11 (classification and labelling under these regulations shall satisfy classification and labelling provisions of the Explosives Act 1875) is revoked.
 
-#### 24. The Planning (Hazardous Substances) Regulations (Northern Ireland) 1993[^key-cae51d8696bc5c926d0003686a944fbc]
+#### 24. The Planning (Hazardous Substances) Regulations (Northern Ireland) 1993[^c-cae51d8696bc5c926d0003686a944fbc]
 
 Schedule 3 to the Planning (Hazardous Substances) Regulations (Northern Ireland) 1993[^f00047] is amended as follows—
 
 - (a) in substance 50 in Part A (named substances), for the words “to which the Explosives Act 1875 applies” substitute “for which a licence, granted under the Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006, is required”; and
 - (b) in categories 4 and 5 of Part B (categories of substances and preparations not specifically named in Part A), for the words “or magazine subject to assent procedures under section 7 of the Explosives Act 1875” substitute “subject to the public hearing procedure under regulation 12 of the Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006”.
 
-#### 25. The Placing on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 1993[^key-a578f6c3d03880643f7a53c966eadc3e]
+#### 25. The Placing on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 1993[^c-a578f6c3d03880643f7a53c966eadc3e]
 
 (1) The Placing on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 1993[^f00048] are amended as follows.
 
@@ -1639,11 +1639,11 @@ Schedule 3 to the Planning (Hazardous Substances) Regulations (Northern Ireland)
 
 (3) Regulation 11 and Schedule 4 (modifications) are revoked.
 
-#### 26. The Toys (Safety) Regulations 1995[^key-b7db6eb87146058509540c7b31f271c9]
+#### 26. The Toys (Safety) Regulations 1995[^c-b7db6eb87146058509540c7b31f271c9]
 
 In Schedule 3 to the Toys (Safety) Regulations 1995[^f00049], in the note at the end marked with an asterisk, after the words “Manufacture and Storage of Explosives Regulations 2005” insert “and the Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006”.
 
-#### 27. The Explosives in Harbour Areas Regulations (Northern Ireland) 1995[^key-1f7e7e6a5bbe209c26b406fcadc9cf0c]
+#### 27. The Explosives in Harbour Areas Regulations (Northern Ireland) 1995[^c-1f7e7e6a5bbe209c26b406fcadc9cf0c]
 
 For regulation 3(3)(e) of the Explosives in Harbour Areas Regulations (Northern Ireland) 1995[^f00050] (application), substitute—
 
@@ -1653,7 +1653,7 @@ For regulation 3(3)(e) of the Explosives in Harbour Areas Regulations (Northern 
 
 .
 
-#### 28. The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^key-d9f86aef1dc3416966e491528412b4f3]
+#### 28. The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^c-d9f86aef1dc3416966e491528412b4f3]
 
 (1) The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^f00051] are amended as follows.
 
@@ -1682,7 +1682,7 @@ For regulation 3(3)(e) of the Explosives in Harbour Areas Regulations (Northern 
 
 (3) In Schedule 7 (statutory provisions requiring the notification of events which are not required to be notified or reported under the Regulations), omit the entry relating to the Explosives Act 1875.
 
-#### 29. The Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1999[^key-4e0f2f7df81cf1913b8e623734fe0e3d]
+#### 29. The Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1999[^c-4e0f2f7df81cf1913b8e623734fe0e3d]
 
 For regulation 3 of the Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1999[^f00052] (application), substitute—
 
@@ -1690,11 +1690,11 @@ For regulation 3 of the Health and Safety (Enforcing Authority) Regulations (Nor
 
 .
 
-#### 30. The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations (Northern Ireland) 1999[^key-c16feb69a3569a5a1b2311926e9e9589]
+#### 30. The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations (Northern Ireland) 1999[^c-c16feb69a3569a5a1b2311926e9e9589]
 
 In regulation 3(18)(a) of the Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations (Northern Ireland) 1999[^f00053] (amendment of the principal Regulations), for “Explosives Act 1875” substitute “Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006”.
 
-#### 31. The Building Regulations (Northern Ireland) 2000[^key-baf21d9f819fcd68a4827a0c783224a1]
+#### 31. The Building Regulations (Northern Ireland) 2000[^c-baf21d9f819fcd68a4827a0c783224a1]
 
 For paragraph 1(a) of Class 1 of Schedule 1 to the Building Regulations (Northern Ireland) 2000[^f00054] (classes of exempted buildings), substitute—
 
@@ -1702,11 +1702,11 @@ For paragraph 1(a) of Class 1 of Schedule 1 to the Building Regulations (Norther
 
 .
 
-#### 32. The Explosive Substances (Hazard Information) Regulations (Northern Ireland) 2000[^key-089df091ef11ea271e8172b2cca06a0e]
+#### 32. The Explosive Substances (Hazard Information) Regulations (Northern Ireland) 2000[^c-089df091ef11ea271e8172b2cca06a0e]
 
 In regulation 3 of the Explosive Substances (Hazard Information) Regulations (Northern Ireland) 2000[^f00055] (application), after the words “Explosives Acts (Northern Ireland) 1875 to 1970” insert “and the Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006”.
 
-#### 33. The Explosives (Fireworks) Regulations (Northern Ireland) 2002[^key-562f18da231ea2127d3b7f64fbcbac47]
+#### 33. The Explosives (Fireworks) Regulations (Northern Ireland) 2002[^c-562f18da231ea2127d3b7f64fbcbac47]
 
 (1) The Explosives (Fireworks) Regulations (Northern Ireland) 2002[^f00056] are amended as follows.
 
@@ -1731,15 +1731,15 @@ In regulation 3 of the Explosive Substances (Hazard Information) Regulations (No
 
 (8) In Schedule 3 (scale of licence fees), for the words “Where the attendance of any persons at a fireworks display will not exceed 1000;” substitute “Where the attendance of any persons at a fireworks display will exceed 100 but will not exceed 1000;”.
 
-#### 34. The Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2002[^key-fc1bcd6ae976729012d1db97999055c4]
+#### 34. The Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2002[^c-fc1bcd6ae976729012d1db97999055c4]
 
 In regulation 3(7) (application) of the Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2002[^f00057], for the words “Explosives Acts (Northern Ireland) 1875 to 1970 or the Explosives (Northern Ireland) Order 1972” substitute “Explosives Acts (Northern Ireland) 1875 to 1970, the Explosives (Northern Ireland) Order 1972 or the Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006”.
 
-#### 35. The Weighing Equipment (Automatic Gravimetric Filling Instruments) Regulations (Northern Ireland) 2005[^key-aae7e6d80b61ea270743254f0c43ba12]
+#### 35. The Weighing Equipment (Automatic Gravimetric Filling Instruments) Regulations (Northern Ireland) 2005[^c-aae7e6d80b61ea270743254f0c43ba12]
 
 In paragraph 2 of Schedule 3 to the Weighing Equipment (Automatic Gravimetric Filling Instruments) Regulations (Northern Ireland) 2005[^f00058] (accuracy classes for filling instruments), for the words “Explosives Act 1875” substitute “Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006”.
 
-#### 36. The Carriage of Explosives Regulations (Northern Ireland) 2006[^key-68db158a71ef542df9534d1dc37ee388]
+#### 36. The Carriage of Explosives Regulations (Northern Ireland) 2006[^c-68db158a71ef542df9534d1dc37ee388]
 
 (1) The Carriage of Explosives Regulations (Northern Ireland) 2006[^f00059] are amended as follows.
 
@@ -1760,7 +1760,7 @@ In paragraph 2 of Schedule 3 to the Weighing Equipment (Automatic Gravimetric Fi
 
 .
 
-#### 37. The Quarries (Explosives) Regulations (Northern Ireland) 2006[^key-b3c6af24aba243862960f6dc57fdda91]
+#### 37. The Quarries (Explosives) Regulations (Northern Ireland) 2006[^c-b3c6af24aba243862960f6dc57fdda91]
 
 For the definition of “explosives store” in regulation 2 of the Quarries (Explosives) Regulations (Northern Ireland) 2006[^f00060] (interpretation), substitute—
 
@@ -1772,7 +1772,7 @@ For the definition of “explosives store” in regulation 2 of the Quarries (Ex
 
 Regulation 27(2) and (3)
 
-### PART 1 — REPEALS[^key-cbe86a55d8857856c0d52f6e20698374]
+### PART 1 — REPEALS[^c-cbe86a55d8857856c0d52f6e20698374]
 
 <table>
 <thead>
@@ -1793,9 +1793,9 @@ Regulation 27(2) and (3)
 </tbody>
 </table>
 
-[^key-d6e7e8a8dd006057a1541fcb8db8a217]
+[^c-d6e7e8a8dd006057a1541fcb8db8a217]
 
-### PART 2 — REVOCATIONS[^key-ae16c7e8e748c985e21de1cb67eb5002]
+### PART 2 — REVOCATIONS[^c-ae16c7e8e748c985e21de1cb67eb5002]
 
 <table>
 <thead>
@@ -1877,9 +1877,9 @@ Regulation 27(2) and (3)
 
 [^f00001]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039); Article 47A was inserted by Article 3, and Article 2 was amended by Articles 4 and 8, of [S.I. 1997/1774 (N.I. 16)](https://www.legislation.gov.uk/nisi/1997/1774).
 
-[^key-4e10ee7b0fb623c82ceb33af3d3a7066]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-4e10ee7b0fb623c82ceb33af3d3a7066]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-bef8838492500e5e3313420e231a35cf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/425/regulation/2) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-bef8838492500e5e3313420e231a35cf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/425/regulation/2) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00002]: Footnote: [1875 c. 17](https://www.legislation.gov.uk/ukpga/1875/17) (38 & 39 Vict.).
 
@@ -1891,7 +1891,7 @@ Regulation 27(2) and (3)
 
 [^f00006]: Footnote: [S.R. 2006 No. 205](https://www.legislation.gov.uk/nisr/2006/205).
 
-[^key-0dfa4f1d10cb1c2d9a279222704915a6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/425/regulation/2/1) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/1)
+[^c-0dfa4f1d10cb1c2d9a279222704915a6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/425/regulation/2/1) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/1)
 
 [^f00007]: Footnote: Current edition (2005): ISBN 92-1-139106 -7.
 
@@ -1903,139 +1903,139 @@ Regulation 27(2) and (3)
 
 [^f00011]: Footnote: [S.R. 1995 No. 87](https://www.legislation.gov.uk/nisr/1995/87).
 
-[^key-024b71f735b269f15c7e50491710a4a2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/425/regulation/3) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-024b71f735b269f15c7e50491710a4a2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/425/regulation/3) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-a712918f558cf3691b44fafa4b54b0b8]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/3/1/b) substituted (9.4.2010) by [The Carriage of Explosives Regulations (Northern Ireland) 2010 (S.R. 2010/59)](https://www.legislation.gov.uk/nisr/2010/59), [reg. 1](https://www.legislation.gov.uk/nisr/2010/59/regulation/1), [Sch. 2 reg. 24](https://www.legislation.gov.uk/nisr/2010/59/schedule/2/regulation/24)
+[^c-a712918f558cf3691b44fafa4b54b0b8]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/3/1/b) substituted (9.4.2010) by [The Carriage of Explosives Regulations (Northern Ireland) 2010 (S.R. 2010/59)](https://www.legislation.gov.uk/nisr/2010/59), [reg. 1](https://www.legislation.gov.uk/nisr/2010/59/regulation/1), [Sch. 2 reg. 24](https://www.legislation.gov.uk/nisr/2010/59/schedule/2/regulation/24)
 
 [^f00012]: Footnote: [S.R. 1995 No. 340](https://www.legislation.gov.uk/nisr/1995/340).
 
-[^key-364c2e8797d45fe71ce5d9caa32fde29]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/3/2/b) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/2)
+[^c-364c2e8797d45fe71ce5d9caa32fde29]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/3/2/b) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/2)
 
 [^f00013]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32).
 
 [^f00014]: Footnote: [1970 c. 10](https://www.legislation.gov.uk/apni/1970/10).
 
-[^key-eb93b08722bcb72177ad3c2f9abbb941]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/425/regulation/4) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-eb93b08722bcb72177ad3c2f9abbb941]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/425/regulation/4) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-20d70fc6ca9484962e0286df829930db]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/425/regulation/5) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-20d70fc6ca9484962e0286df829930db]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/425/regulation/5) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-35a41ec6a7c3f6a20c3b59d502143da7]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/nisr/2006/425/regulation/5/2) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/3/a)
+[^c-35a41ec6a7c3f6a20c3b59d502143da7]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/nisr/2006/425/regulation/5/2) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/3/a)
 
-[^key-bffcbce43d59dbbca03c84fcad6e5447]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/5/3/b) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 3(b)(i)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/3/b/i)
+[^c-bffcbce43d59dbbca03c84fcad6e5447]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/5/3/b) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 3(b)(i)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/3/b/i)
 
-[^key-3fd8fe31808429c5f672c748139adfb0]: Textual amendment: [Reg. 5(3)(aa)](https://www.legislation.gov.uk/nisr/2006/425/regulation/5/3/aa) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 3(b)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/3/b/ii)
+[^c-3fd8fe31808429c5f672c748139adfb0]: Textual amendment: [Reg. 5(3)(aa)](https://www.legislation.gov.uk/nisr/2006/425/regulation/5/3/aa) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 3(b)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/3/b/ii)
 
-[^key-072d2a6c1e8d9373e170133f6ad89c4a]: Textual amendment: [Reg. 5(3)(e)](https://www.legislation.gov.uk/nisr/2006/425/regulation/5/3/e) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 3(b)(iii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/3/b/iii)
+[^c-072d2a6c1e8d9373e170133f6ad89c4a]: Textual amendment: [Reg. 5(3)(e)](https://www.legislation.gov.uk/nisr/2006/425/regulation/5/3/e) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 3(b)(iii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/3/b/iii)
 
-[^key-4e353195a602a2172728b20fbfbac1eb]: Textual amendment: [Reg. 5(8)](https://www.legislation.gov.uk/nisr/2006/425/regulation/5/8) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 3(c)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/3/c)
+[^c-4e353195a602a2172728b20fbfbac1eb]: Textual amendment: [Reg. 5(8)](https://www.legislation.gov.uk/nisr/2006/425/regulation/5/8) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 3(c)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/3/c)
 
-[^key-61371cd3bd747c847076c5b32c6cc1d8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/425/regulation/6) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-61371cd3bd747c847076c5b32c6cc1d8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/425/regulation/6) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-ce910a0d49f9303a686834c417810fd2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/425/regulation/7) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-ce910a0d49f9303a686834c417810fd2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/425/regulation/7) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-c5fc90a94813a7b125f6fcdea19bac03]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/425/regulation/8) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-c5fc90a94813a7b125f6fcdea19bac03]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/425/regulation/8) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-981f467049bcf8f9d27305950b55f15b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/425/regulation/9) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-981f467049bcf8f9d27305950b55f15b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/425/regulation/9) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00015]: Footnote: ISBN 92-1-139087-7.
 
-[^key-fb63c656a3ac92335a2af6762ff84544]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/425/regulation/10) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-fb63c656a3ac92335a2af6762ff84544]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/425/regulation/10) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-d29deade105ddfd0682de2384863a685]: Textual amendment: Words in [reg. 10(2)(d)](https://www.legislation.gov.uk/nisr/2006/425/regulation/10/2/d)[(e)](https://www.legislation.gov.uk/nisr/2006/425/regulation/10/2/e) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 4(a)(i)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/4/a/i)
+[^c-d29deade105ddfd0682de2384863a685]: Textual amendment: Words in [reg. 10(2)(d)](https://www.legislation.gov.uk/nisr/2006/425/regulation/10/2/d)[(e)](https://www.legislation.gov.uk/nisr/2006/425/regulation/10/2/e) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 4(a)(i)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/4/a/i)
 
-[^key-887e6ac2315452bd6a782680438fe3b2]: Textual amendment: [Reg. 10(2)(g)](https://www.legislation.gov.uk/nisr/2006/425/regulation/10/2/g) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 4(a)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/4/a/ii)
+[^c-887e6ac2315452bd6a782680438fe3b2]: Textual amendment: [Reg. 10(2)(g)](https://www.legislation.gov.uk/nisr/2006/425/regulation/10/2/g) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 4(a)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/4/a/ii)
 
-[^key-41480595d51a1f2ef40d7e0b05402cb6]: Textual amendment: Words in [reg. 10(3)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/10/3/b) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 4(b)(i)(aa)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/4/b/i/aa)
+[^c-41480595d51a1f2ef40d7e0b05402cb6]: Textual amendment: Words in [reg. 10(3)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/10/3/b) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 4(b)(i)(aa)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/4/b/i/aa)
 
-[^key-7e94b0263cc0547bc61195659f1d98af]: Textual amendment: Word in [reg. 10(3)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/10/3/b) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 4(b)(i)(bb)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/4/b/i/bb)
+[^c-7e94b0263cc0547bc61195659f1d98af]: Textual amendment: Word in [reg. 10(3)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/10/3/b) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 4(b)(i)(bb)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/4/b/i/bb)
 
-[^key-4268f2779ea08ba2fd7a2184a4947352]: Textual amendment: [Reg. 10(3)(c)](https://www.legislation.gov.uk/nisr/2006/425/regulation/10/3/c) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 4(b)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/4/b/ii)
+[^c-4268f2779ea08ba2fd7a2184a4947352]: Textual amendment: [Reg. 10(3)(c)](https://www.legislation.gov.uk/nisr/2006/425/regulation/10/3/c) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 4(b)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/4/b/ii)
 
-[^key-7de3bcd7f2b61bbd1ef96b0d62364f30]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/425/regulation/11) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-7de3bcd7f2b61bbd1ef96b0d62364f30]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/425/regulation/11) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-cfc6801dcb6b9d9031a99ceafbedd094]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/nisr/2006/425/regulation/11/2) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 5(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/5/a)
+[^c-cfc6801dcb6b9d9031a99ceafbedd094]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/nisr/2006/425/regulation/11/2) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 5(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/5/a)
 
-[^key-b2a6b520de3a3555289287ab56c051e6]: Textual amendment: [Reg. 11(5)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/11/5/b) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 5(b)(i)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/5/b/i)
+[^c-b2a6b520de3a3555289287ab56c051e6]: Textual amendment: [Reg. 11(5)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/11/5/b) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 5(b)(i)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/5/b/i)
 
-[^key-435df61215eae7f5077d0a46aabb5c4a]: Textual amendment: Word in [reg. 11(5)(d)](https://www.legislation.gov.uk/nisr/2006/425/regulation/11/5/d) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 5(b)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/5/b/ii)
+[^c-435df61215eae7f5077d0a46aabb5c4a]: Textual amendment: Word in [reg. 11(5)(d)](https://www.legislation.gov.uk/nisr/2006/425/regulation/11/5/d) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 5(b)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/5/b/ii)
 
-[^key-12eae21eaaaf70210675e1b9d1dc31fb]: Textual amendment: [Reg. 11(5)(f)](https://www.legislation.gov.uk/nisr/2006/425/regulation/11/5/f)[(g)](https://www.legislation.gov.uk/nisr/2006/425/regulation/11/5/g) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 5(b)(iii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/5/b/iii)
+[^c-12eae21eaaaf70210675e1b9d1dc31fb]: Textual amendment: [Reg. 11(5)(f)](https://www.legislation.gov.uk/nisr/2006/425/regulation/11/5/f)[(g)](https://www.legislation.gov.uk/nisr/2006/425/regulation/11/5/g) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 5(b)(iii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/5/b/iii)
 
-[^key-d1ad5760ab2c9dfec2e2419bfa12de2c]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/nisr/2006/425/regulation/11/7) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 5(c)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/5/c)
+[^c-d1ad5760ab2c9dfec2e2419bfa12de2c]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/nisr/2006/425/regulation/11/7) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 5(c)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/5/c)
 
-[^key-29353e94d46e7e6a6bf288e2d1d20ce9]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/425/regulation/12) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-29353e94d46e7e6a6bf288e2d1d20ce9]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/425/regulation/12) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-7f0c76661d6033a4e53cf124c1c33d60]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/425/regulation/13) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-7f0c76661d6033a4e53cf124c1c33d60]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/425/regulation/13) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-4fe19ba49e238fc16aa574427afd7b0b]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/nisr/2006/425/regulation/13/4) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/6/a)
+[^c-4fe19ba49e238fc16aa574427afd7b0b]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/nisr/2006/425/regulation/13/4) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/6/a)
 
-[^key-4c0679964242fb0160c90d7113fb94c2]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/nisr/2006/425/regulation/13/5) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/6/b)
+[^c-4c0679964242fb0160c90d7113fb94c2]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/nisr/2006/425/regulation/13/5) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/6/b)
 
-[^key-67b626113661bf9608cace71970a6c35]: Textual amendment: Words in [reg. 13(7)](https://www.legislation.gov.uk/nisr/2006/425/regulation/13/7) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 6(c)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/6/c)
+[^c-67b626113661bf9608cace71970a6c35]: Textual amendment: Words in [reg. 13(7)](https://www.legislation.gov.uk/nisr/2006/425/regulation/13/7) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 6(c)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/6/c)
 
-[^key-15a4b541b72e4713b35d01f6d04b2e9b]: Textual amendment: Words in [reg. 13(8)](https://www.legislation.gov.uk/nisr/2006/425/regulation/13/8) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 6(d)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/6/d)
+[^c-15a4b541b72e4713b35d01f6d04b2e9b]: Textual amendment: Words in [reg. 13(8)](https://www.legislation.gov.uk/nisr/2006/425/regulation/13/8) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 6(d)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/6/d)
 
-[^key-de75e922691f2d167942f9ca48414055]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/425/regulation/14) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-de75e922691f2d167942f9ca48414055]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/425/regulation/14) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-af3126bb68548ba6cf5257cccfeac5b5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/425/regulation/15) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-af3126bb68548ba6cf5257cccfeac5b5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/425/regulation/15) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-d5c25f6e6acd8b8eed8510a54d840fc3]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/nisr/2006/425/regulation/15) heading added (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 7(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/7/a)
+[^c-d5c25f6e6acd8b8eed8510a54d840fc3]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/nisr/2006/425/regulation/15) heading added (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 7(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/7/a)
 
-[^key-5b10fa437c215b22ac864244b3d3dfa9]: Textual amendment: Words in [reg. 15(1)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/15/1/b) added (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 7(b)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/7/b)
+[^c-5b10fa437c215b22ac864244b3d3dfa9]: Textual amendment: Words in [reg. 15(1)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/15/1/b) added (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 7(b)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/7/b)
 
-[^key-af691cdca8f8b640917444af881bbe69]: Textual amendment: [Reg. 15(2A)](https://www.legislation.gov.uk/nisr/2006/425/regulation/15/2A) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 7(c)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/7/c)
+[^c-af691cdca8f8b640917444af881bbe69]: Textual amendment: [Reg. 15(2A)](https://www.legislation.gov.uk/nisr/2006/425/regulation/15/2A) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 7(c)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/7/c)
 
-[^key-ce78899f506e0f72c7ef8eaab7c2c1c6]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/425/regulation/16) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-ce78899f506e0f72c7ef8eaab7c2c1c6]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/425/regulation/16) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-6e289103eab92e3448b653ec5042a85c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/425/regulation/17) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-6e289103eab92e3448b653ec5042a85c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/425/regulation/17) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-5773a9558bbd08972b44a93a126e2b85]: Textual amendment: [Reg. 17(1)(a)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/1/a) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/a)
+[^c-5773a9558bbd08972b44a93a126e2b85]: Textual amendment: [Reg. 17(1)(a)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/1/a) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/a)
 
-[^key-ce2db6c7c23d48410c4c2780b6ed0d9b]: Textual amendment: Words in [reg. 17(1)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/1/b) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(b)(i)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/b/i)
+[^c-ce2db6c7c23d48410c4c2780b6ed0d9b]: Textual amendment: Words in [reg. 17(1)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/1/b) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(b)(i)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/b/i)
 
-[^key-ac8795fde29e3de8950e03e3923da865]: Textual amendment: Words in [reg. 17(1)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/1/b) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(b)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/b/ii)
+[^c-ac8795fde29e3de8950e03e3923da865]: Textual amendment: Words in [reg. 17(1)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/1/b) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(b)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/b/ii)
 
-[^key-86c225d07d7784bc0af4ece0689c2ce1]: Textual amendment: [Reg. 17(3)(a)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/3/a) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(c)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/c)
+[^c-86c225d07d7784bc0af4ece0689c2ce1]: Textual amendment: [Reg. 17(3)(a)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/3/a) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(c)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/c)
 
-[^key-72c8bf6b552b7800ca4a93aea5c87d88]: Textual amendment: Words in [reg. 17(3)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/3/b) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(d)(i)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/d/i)
+[^c-72c8bf6b552b7800ca4a93aea5c87d88]: Textual amendment: Words in [reg. 17(3)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/3/b) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(d)(i)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/d/i)
 
-[^key-84bd5e481298b50cdce5aee7069624c1]: Textual amendment: Words in [reg. 17(3)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/3/b) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(d)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/d/ii)
+[^c-84bd5e481298b50cdce5aee7069624c1]: Textual amendment: Words in [reg. 17(3)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/3/b) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(d)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/d/ii)
 
-[^key-ac6ba9989fb9168c37308f454578c96b]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/4) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(e)(i)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/e/i)
+[^c-ac6ba9989fb9168c37308f454578c96b]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/4) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(e)(i)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/e/i)
 
-[^key-8bf81a4585e9c747959cb8869b41779d]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/4) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(e)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/e/ii)
+[^c-8bf81a4585e9c747959cb8869b41779d]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/nisr/2006/425/regulation/17/4) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 8(e)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/8/e/ii)
 
-[^key-814bf1a86e42c022ce84aebf6680b364]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/425/regulation/18) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 9](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/9)
+[^c-814bf1a86e42c022ce84aebf6680b364]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/425/regulation/18) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 9](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/9)
 
-[^key-379d3d22afb5db00c648d705c86a59a3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/425/regulation/19) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-379d3d22afb5db00c648d705c86a59a3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/425/regulation/19) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-5b47d1ec4f993083711feade50f40f4f]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/425/regulation/20) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-5b47d1ec4f993083711feade50f40f4f]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/425/regulation/20) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-65eaffef9ff293ed1b97795f20513578]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/nisr/2006/425/regulation/20/1) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 10(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/10/a)
+[^c-65eaffef9ff293ed1b97795f20513578]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/nisr/2006/425/regulation/20/1) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 10(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/10/a)
 
-[^key-8d5ef811b578f8e2a066e0136aa10e34]: Textual amendment: Word in [reg. 20(1)(a)](https://www.legislation.gov.uk/nisr/2006/425/regulation/20/1/a) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 10(b)(i)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/10/b/i)
+[^c-8d5ef811b578f8e2a066e0136aa10e34]: Textual amendment: Word in [reg. 20(1)(a)](https://www.legislation.gov.uk/nisr/2006/425/regulation/20/1/a) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 10(b)(i)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/10/b/i)
 
-[^key-31c678701c5dcc683ab00b97ac4766b4]: Textual amendment: Word in [reg. 20(1)(a)](https://www.legislation.gov.uk/nisr/2006/425/regulation/20/1/a) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 10(b)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/10/b/ii)
+[^c-31c678701c5dcc683ab00b97ac4766b4]: Textual amendment: Word in [reg. 20(1)(a)](https://www.legislation.gov.uk/nisr/2006/425/regulation/20/1/a) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 10(b)(ii)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/10/b/ii)
 
-[^key-0f8f7f5f88beb197ac15a667d27cd434]: Textual amendment: Word in [reg. 20(1)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/20/1/b) added (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 10(c)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/10/c)
+[^c-0f8f7f5f88beb197ac15a667d27cd434]: Textual amendment: Word in [reg. 20(1)(b)](https://www.legislation.gov.uk/nisr/2006/425/regulation/20/1/b) added (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 10(c)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/10/c)
 
-[^key-e561af0cfa44c477af359c4bba0cf182]: Textual amendment: [Reg. 20(1)(c)](https://www.legislation.gov.uk/nisr/2006/425/regulation/20/1/c) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 10(d)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/10/d)
+[^c-e561af0cfa44c477af359c4bba0cf182]: Textual amendment: [Reg. 20(1)(c)](https://www.legislation.gov.uk/nisr/2006/425/regulation/20/1/c) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 10(d)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/10/d)
 
-[^key-71be7b0f693088b2a466dab1cc6aeed3]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/425/regulation/21) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-71be7b0f693088b2a466dab1cc6aeed3]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/425/regulation/21) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-e74cbaaefb86bc7b0fc0a9877fe9d5b2]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/425/regulation/22) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-e74cbaaefb86bc7b0fc0a9877fe9d5b2]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/425/regulation/22) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-e9b924ad85fc7fdde7cfad3609769c7f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/425/regulation/23) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-e9b924ad85fc7fdde7cfad3609769c7f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/425/regulation/23) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00016]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
 
-[^key-5caaa59f268d61e934031b5f8bfa36b4]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/425/regulation/24) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-5caaa59f268d61e934031b5f8bfa36b4]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/425/regulation/24) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-cb08bf750668182d3521a7d764afcb9a]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/nisr/2006/425/regulation/24A) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 11](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/11)
+[^c-cb08bf750668182d3521a7d764afcb9a]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/nisr/2006/425/regulation/24A) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 11](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/11)
 
-[^key-5b3ff0cd6cefdcd9b652a9918174610a]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/425/regulation/25) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-5b3ff0cd6cefdcd9b652a9918174610a]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/425/regulation/25) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-0c5832ff5cc0c57520456017bad51669]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-0c5832ff5cc0c57520456017bad51669]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00017]: Footnote: [S.R. & O. (N.I.) 1970 No. 110](https://www.legislation.gov.uk/nisro/1970/110).
 
@@ -2047,206 +2047,206 @@ Regulation 27(2) and (3)
 
 [^f00021]: Footnote: [S.R. 1993 No. 488](https://www.legislation.gov.uk/nisr/1993/488).
 
-[^key-c8edc0cee5e68995b6e3b8ad23cc9ace]: Textual amendment: [Reg. 26(19)](https://www.legislation.gov.uk/nisr/2006/425/regulation/26/19) revoked (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 12](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/12)
+[^c-c8edc0cee5e68995b6e3b8ad23cc9ace]: Textual amendment: [Reg. 26(19)](https://www.legislation.gov.uk/nisr/2006/425/regulation/26/19) revoked (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 12](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/12)
 
-[^key-dbc799bcbb1f9cdf0f2654a8fa3d441b]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/425/regulation/27) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-dbc799bcbb1f9cdf0f2654a8fa3d441b]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/425/regulation/27) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-27648b1aff203ef7cbbc56cc132a6c94]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/1/paragraph/1) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-27648b1aff203ef7cbbc56cc132a6c94]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/1/paragraph/1) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00023]: Footnote: [S.I. 1993/3160 (N.I. 15)](https://www.legislation.gov.uk/nisi/1993/3160), to which there are amendments not relevant to these Regulations.
 
-[^key-fb68f7f1f633e78486f08a0f423e2a34]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2006/425/schedule/1/paragraph/2) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-fb68f7f1f633e78486f08a0f423e2a34]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2006/425/schedule/1/paragraph/2) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-74a764573bfe727f5fec69489265a56f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2006/425/schedule/1/paragraph/3) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-74a764573bfe727f5fec69489265a56f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2006/425/schedule/1/paragraph/3) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-1bd9b3a2c3ab7ea24cfc1992af509480]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2006/425/schedule/1/paragraph/4) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-1bd9b3a2c3ab7ea24cfc1992af509480]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2006/425/schedule/1/paragraph/4) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-07787226bb9883c66319945c036755bd]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2006/425/schedule/1/paragraph/5) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-07787226bb9883c66319945c036755bd]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2006/425/schedule/1/paragraph/5) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-70e3b9107bdd447a7b7f81146252a8ad]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2006/425/schedule/1/paragraph/6) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-70e3b9107bdd447a7b7f81146252a8ad]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2006/425/schedule/1/paragraph/6) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-c3435daac8e3b49f2bab734a1332fe79]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2006/425/schedule/2) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-c3435daac8e3b49f2bab734a1332fe79]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2006/425/schedule/2) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-f5cf261037779efdb046ff8b925f76d9]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2006/425/schedule/2) added (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 13(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/13/a)
+[^c-f5cf261037779efdb046ff8b925f76d9]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2006/425/schedule/2) added (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 13(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/13/a)
 
-[^key-0b0af0e157f148fb6a8d058c53b140ef]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2006/425/schedule/2/part/2) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 13(b)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/13/b)
+[^c-0b0af0e157f148fb6a8d058c53b140ef]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2006/425/schedule/2/part/2) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 13(b)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/13/b)
 
-[^key-b605a89ed9aca35de95981ac833356c0]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2006/425/schedule/3) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-b605a89ed9aca35de95981ac833356c0]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2006/425/schedule/3) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-6a88b4bbb19dceafad0924b9169a6eb5]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2006/425/schedule/4) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 14](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/14)
+[^c-6a88b4bbb19dceafad0924b9169a6eb5]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2006/425/schedule/4) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 14](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/14)
 
-[^key-c3a3787f86364934d881929db95fa548]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/1) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-c3a3787f86364934d881929db95fa548]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/1) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-6f12584ab819193adbf411417b3756c6]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/2) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-6f12584ab819193adbf411417b3756c6]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/2) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-385aca747c0a87272280236eeb93e270]: Textual amendment: [Sch. 5 para. 2(g)](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/2/g) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 15(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/15/a)
+[^c-385aca747c0a87272280236eeb93e270]: Textual amendment: [Sch. 5 para. 2(g)](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/2/g) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 15(a)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/15/a)
 
-[^key-ee24f931ee21790d9d6bea82301dc591]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/3) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-ee24f931ee21790d9d6bea82301dc591]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/3) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-d7148492710a5bf6323b1f9d0e0fe71c]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/4) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-d7148492710a5bf6323b1f9d0e0fe71c]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/4) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-4a4498c0f1cd0fd62d6a0d3bbbfc89b5]: Textual amendment: Words in [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/4) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 15(b)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/15/b)
+[^c-4a4498c0f1cd0fd62d6a0d3bbbfc89b5]: Textual amendment: Words in [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/4) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 15(b)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/15/b)
 
-[^key-77391c549eea0a5cbca2e995dd7667da]: Textual amendment: Word in [Sch. 5 para. 4(b)](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/4/b) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 15(d)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/15/d)
+[^c-77391c549eea0a5cbca2e995dd7667da]: Textual amendment: Word in [Sch. 5 para. 4(b)](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/4/b) omitted (7.8.2009) by virtue of [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 15(d)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/15/d)
 
-[^key-1416b50b6a5eeaadc8a1da7f6cdb02af]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/5) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-1416b50b6a5eeaadc8a1da7f6cdb02af]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/5) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-e71b88cd01545b24bb25e9b7d64f72ec]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/6) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-e71b88cd01545b24bb25e9b7d64f72ec]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/6) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-3e93e0195187244a12c1aa3021dcf2e3]: Textual amendment: [Sch. 5 para. 6A](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/6A) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 15(c)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/15/c)
+[^c-3e93e0195187244a12c1aa3021dcf2e3]: Textual amendment: [Sch. 5 para. 6A](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/6A) inserted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 15(c)](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/15/c)
 
-[^key-20cab525e0019ab966850b0f71db5402]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/7) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-20cab525e0019ab966850b0f71db5402]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/nisr/2006/425/schedule/5/paragraph/7) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-7dbc67610deabafb62f2bb393d7b7148]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/1) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-7dbc67610deabafb62f2bb393d7b7148]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/1) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-fa8966788baca0e7ae9ea60cec2fdc66]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/2) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-fa8966788baca0e7ae9ea60cec2fdc66]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/2) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00024]: Footnote: [1894 c. 60](https://www.legislation.gov.uk/ukpga/1894/60).
 
-[^key-814c21574a184df343d5add1fe4cbd77]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/3) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-814c21574a184df343d5add1fe4cbd77]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/3) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00025]: Footnote: [1922 c. 20](https://www.legislation.gov.uk/apni/1922/20).
 
-[^key-21430afd39b3bff5a2dff16f7cbc4723]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/4) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-21430afd39b3bff5a2dff16f7cbc4723]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/4) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00026]: Footnote: [1922 c. 35](https://www.legislation.gov.uk/ukpga/1922/35).
 
-[^key-a88fc1c81cd953595171801f9658f370]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/5) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-a88fc1c81cd953595171801f9658f370]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/5) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00027]: Footnote: [1929 c. 13](https://www.legislation.gov.uk/apni/1929/13), to which there are amendments not relevant to these Regulations.
 
-[^key-55427ca2c435356d6a7123a953efc293]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/6) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-55427ca2c435356d6a7123a953efc293]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/6) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00028]: Footnote: [1946 c. 49](https://www.legislation.gov.uk/ukpga/1946/49) (9 & 10 Geo. 6.).
 
-[^key-eefa88c0cecf45bd54d1197a1fbabee0]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/7) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-eefa88c0cecf45bd54d1197a1fbabee0]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/7) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00029]: Footnote: [1968 c. 25](https://www.legislation.gov.uk/apni/1968/25), to which there are amendments not relevant to these Regulations.
 
-[^key-83ab26d8e397794b8f34779caaf165a8]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/8) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-83ab26d8e397794b8f34779caaf165a8]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/8) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00030]: Footnote: [1970 c. 10](https://www.legislation.gov.uk/apni/1970/10), to which there are amendments not relevant to these Regulations.
 
-[^key-b2c89dfd43a6a93f661ba37be2c49330]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/9) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-b2c89dfd43a6a93f661ba37be2c49330]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/9) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00031]: Footnote: [S.I. 1973/2163](https://www.legislation.gov.uk/uksi/1973/2163), to which there are amendments not relevant to these Regulations.
 
-[^key-c939d1f84a7b58c2a45527420ee6e18e]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/10) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-c939d1f84a7b58c2a45527420ee6e18e]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/10) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00032]: Footnote: [S.I. 1976/1042 (N.I. 15)](https://www.legislation.gov.uk/nisi/1976/1042).
 
-[^key-5b1bd5e34bdc1beb1be04747295a2094]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/11) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-5b1bd5e34bdc1beb1be04747295a2094]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/11) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00033]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23).
 
-[^key-9452b46048c97f7ef24d2200f2fac7bc]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/12) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-9452b46048c97f7ef24d2200f2fac7bc]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/12) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00034]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 30 of the Control of Pollution Act 1974 is prospectively repealed by Schedule 16 of the Environmental Protection Act 1990.
 
 [^f00035]: Footnote: [S.I. 1978/1049 (N.I. 19)](https://www.legislation.gov.uk/nisi/1978/1049).
 
-[^key-e06895caafefd3c6c70d7e72b7f5adbf]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/13) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-e06895caafefd3c6c70d7e72b7f5adbf]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/13) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00036]: Footnote: [S.R. 1979/195](https://www.legislation.gov.uk/nisr/1979/195), to which there are amendments not relevant to these Regulations.
 
-[^key-8d2eb8ef149ab3c07ee6381ccefa6d19]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/14) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-8d2eb8ef149ab3c07ee6381ccefa6d19]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/14) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00037]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-a5470ca88eb8221e32571ae264559e8e]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/15) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-a5470ca88eb8221e32571ae264559e8e]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/15) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00038]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-78076a61f1cb8953ce5070027d446835]: Commencement: [Sch. 6 para. 16](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/16) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-78076a61f1cb8953ce5070027d446835]: Commencement: [Sch. 6 para. 16](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/16) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00039]: Footnote: [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778), to which there are amendments not relevant to these Regulations.
 
-[^key-7d87f678c518d36c86a741c19e6b20cb]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/17) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-7d87f678c518d36c86a741c19e6b20cb]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/17) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00040]: Footnote: S.R. & O. [1906/679](https://www.legislation.gov.uk/uksro/1906/679).
 
-[^key-3dc44714f23999afe1c6fe453179f0dc]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/18) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-3dc44714f23999afe1c6fe453179f0dc]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/18) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00041]: Footnote: S.R. & O. [1937/54](https://www.legislation.gov.uk/nisro/1937/54), amended by [S.R & O. (N.I.) 1947 No. 128](https://www.legislation.gov.uk/nisro/1947/128) and [S.R. 1979 No. 290](https://www.legislation.gov.uk/nisr/1979/290).
 
-[^key-0382f2ef6d9673b0b4adabcc7f6eb7b9]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/19) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-0382f2ef6d9673b0b4adabcc7f6eb7b9]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/19) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00042]: Footnote: [S. R. & O. (N.I.) 1970 No. 106](https://www.legislation.gov.uk/nisr/1970/106).
 
-[^key-b0dbb4e8e4ef1d3f80701586c68e2f58]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/20) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-b0dbb4e8e4ef1d3f80701586c68e2f58]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/20) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00043]: Footnote: [S.R. & O. (N.I.) 1970 No. 110](https://www.legislation.gov.uk/nisro/1970/110), to which there are amendments not relevant to these Regulations.
 
-[^key-ac2cfa667a4f192dde7d686004b40701]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/21) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-ac2cfa667a4f192dde7d686004b40701]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/21) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00044]: Footnote: [S.R. 1981 No. 340](https://www.legislation.gov.uk/nisr/1981/340).
 
-[^key-4e2354771b12c853feb152c7d3f01152]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/22) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-4e2354771b12c853feb152c7d3f01152]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/22) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00045]: Footnote: [S.R. 1991 No. 509](https://www.legislation.gov.uk/nisr/1991/509).
 
-[^key-4b7ec1bbcc9d53a6a2c2fab38c77618c]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/23) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-4b7ec1bbcc9d53a6a2c2fab38c77618c]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/23) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00046]: Footnote: [S.R. 1991 No. 516](https://www.legislation.gov.uk/nisr/1991/516), to which there are amendments not relevant to these Regulations.
 
-[^key-cae51d8696bc5c926d0003686a944fbc]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/24) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-cae51d8696bc5c926d0003686a944fbc]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/24) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00047]: Footnote: [S.R. 1993 No. 275](https://www.legislation.gov.uk/nisr/1993/275).
 
-[^key-a578f6c3d03880643f7a53c966eadc3e]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/25) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-a578f6c3d03880643f7a53c966eadc3e]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/25) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00048]: Footnote: [S.R. 1993 No. 488](https://www.legislation.gov.uk/nisr/1993/488).
 
-[^key-b7db6eb87146058509540c7b31f271c9]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/26) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-b7db6eb87146058509540c7b31f271c9]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/26) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00049]: Footnote: [S.I. 1995/204](https://www.legislation.gov.uk/uksi/1995/204), to which there are amendments not relevant to these Regulations.
 
-[^key-1f7e7e6a5bbe209c26b406fcadc9cf0c]: Commencement: [Sch. 6 para. 27](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/27) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-1f7e7e6a5bbe209c26b406fcadc9cf0c]: Commencement: [Sch. 6 para. 27](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/27) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00050]: Footnote: [S.R. 1995 No. 87](https://www.legislation.gov.uk/nisr/1995/87).
 
-[^key-d9f86aef1dc3416966e491528412b4f3]: Commencement: [Sch. 6 para. 28](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/28) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-d9f86aef1dc3416966e491528412b4f3]: Commencement: [Sch. 6 para. 28](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/28) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00051]: Footnote: [S.R. 1997 No. 455](https://www.legislation.gov.uk/nisr/1997/455).
 
-[^key-4e0f2f7df81cf1913b8e623734fe0e3d]: Commencement: [Sch. 6 para. 29](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/29) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-4e0f2f7df81cf1913b8e623734fe0e3d]: Commencement: [Sch. 6 para. 29](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/29) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00052]: Footnote: [S.R. 1999 No. 90](https://www.legislation.gov.uk/nisr/1999/90).
 
-[^key-c16feb69a3569a5a1b2311926e9e9589]: Commencement: [Sch. 6 para. 30](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/30) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-c16feb69a3569a5a1b2311926e9e9589]: Commencement: [Sch. 6 para. 30](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/30) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00053]: Footnote: [S.R. 1999 No. 496](https://www.legislation.gov.uk/nisr/1999/496) to which there are amendments not relevant to these Regulations.
 
-[^key-baf21d9f819fcd68a4827a0c783224a1]: Commencement: [Sch. 6 para. 31](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/31) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-baf21d9f819fcd68a4827a0c783224a1]: Commencement: [Sch. 6 para. 31](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/31) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00054]: Footnote: [S.R. 2000 No. 389](https://www.legislation.gov.uk/nisr/2000/389).
 
-[^key-089df091ef11ea271e8172b2cca06a0e]: Commencement: [Sch. 6 para. 32](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/32) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-089df091ef11ea271e8172b2cca06a0e]: Commencement: [Sch. 6 para. 32](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/32) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00055]: Footnote: [S.R. 2000 No. 1646](https://www.legislation.gov.uk/nisr/2000/1646), to which there are amendments not relevant to these Regulations.
 
-[^key-562f18da231ea2127d3b7f64fbcbac47]: Commencement: [Sch. 6 para. 33](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/33) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-562f18da231ea2127d3b7f64fbcbac47]: Commencement: [Sch. 6 para. 33](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/33) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00056]: Footnote: [S.R. 2002 No. 147](https://www.legislation.gov.uk/nisr/2002/147).
 
-[^key-fc1bcd6ae976729012d1db97999055c4]: Commencement: [Sch. 6 para. 34](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/34) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-fc1bcd6ae976729012d1db97999055c4]: Commencement: [Sch. 6 para. 34](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/34) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00057]: Footnote: [S.R. 2002 No. 301](https://www.legislation.gov.uk/nisr/2002/301).
 
-[^key-aae7e6d80b61ea270743254f0c43ba12]: Commencement: [Sch. 6 para. 35](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/35) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-aae7e6d80b61ea270743254f0c43ba12]: Commencement: [Sch. 6 para. 35](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/35) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00058]: Footnote: [S.R. 2005 No. 27](https://www.legislation.gov.uk/nisr/2005/27).
 
-[^key-68db158a71ef542df9534d1dc37ee388]: Commencement: [Sch. 6 para. 36](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/36) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-68db158a71ef542df9534d1dc37ee388]: Commencement: [Sch. 6 para. 36](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/36) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00059]: Footnote: [S.R. 2006 No. 182](https://www.legislation.gov.uk/nisr/2006/182).
 
-[^key-b3c6af24aba243862960f6dc57fdda91]: Commencement: [Sch. 6 para. 37](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/37) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-b3c6af24aba243862960f6dc57fdda91]: Commencement: [Sch. 6 para. 37](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/37) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
 [^f00060]: Footnote: [S.R. 2006 No. 204](https://www.legislation.gov.uk/nisr/2006/204).
 
-[^key-cbe86a55d8857856c0d52f6e20698374]: Commencement: [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-cbe86a55d8857856c0d52f6e20698374]: Commencement: [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
 
-[^key-d6e7e8a8dd006057a1541fcb8db8a217]: Textual amendment: Words in [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 16](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/16)
+[^c-d6e7e8a8dd006057a1541fcb8db8a217]: Textual amendment: Words in [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) substituted (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [reg. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [Sch. para. 16](https://www.legislation.gov.uk/nisr/2009/248/schedule/paragraph/16)
 
-[^key-ae16c7e8e748c985e21de1cb67eb5002]: Commencement: [Sch. 7 Pt. 2](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/2) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)
+[^c-ae16c7e8e748c985e21de1cb67eb5002]: Commencement: [Sch. 7 Pt. 2](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/2) in operation at 1.12.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1)

@@ -181,7 +181,7 @@ the certificate, plate or mark is invalid.
 
 (3) The suspension of an approval does not affect the validity of any certificate of conformity issued under it before that suspension.
 
-## 11A. Products approved in member States or in Northern Ireland[^key-23e3cbb5a1f23d1ef4fb2894a597e477]
+## 11A. Products approved in member States or in Northern Ireland[^c-23e3cbb5a1f23d1ef4fb2894a597e477]
 
 (1) Paragraphs (2) to (6) apply notwithstanding anything in these Regulations or the AFV Regulation.
 
@@ -244,7 +244,7 @@ The approval authority may provide and maintain stations where examinations of r
 
 (2) But, in any proceedings brought against a manufacturer in pursuance of this regulation, it is a defence for the manufacturer to show that the manufacturer took all reasonable steps and exercised all due diligence to avoid the breach.
 
-## 14A. Defeat devices[^key-4fa0db86d28616bfbceed72adda03c6f]
+## 14A. Defeat devices[^c-4fa0db86d28616bfbceed72adda03c6f]
 
 (1) For the purposes of article 72 of the AFV Regulation, “use of a defeat device” is where a vehicle manufactured by a person—
 
@@ -326,7 +326,7 @@ the partner (as well as the partnership) is guilty of the offence and is liable 
 
 (1) A person guilty of an offence under these Regulations is punishable on summary conviction—
 
-- (a) in England and Wales by a fine or (in the case of an individual) by imprisonment for a term not exceeding three[^key-dfd8ed21031e6c47a41e713d7320d5ba] months, or to both; or
+- (a) in England and Wales by a fine or (in the case of an individual) by imprisonment for a term not exceeding three[^c-dfd8ed21031e6c47a41e713d7320d5ba] months, or to both; or
 - (b) in Scotland or Northern Ireland by a fine not exceeding level 5 on the standard scale or (in the case of an individual) by imprisonment for a term not exceeding three months, or to both.
 
 (2) But an offence is not punishable under this paragraph if—
@@ -392,7 +392,7 @@ the partner (as well as the partnership) is guilty of the offence and is liable 
 - (e) include an explanation of the recipient's rights of appeal; and
 - (f) include an explanation of the steps the enforcement authority may take to recover any unpaid penalty.
 
-(7)[^key-b02177b516666626dbd8c98ce94d408c] A notification under sub-paragraph (4) notifying the recipient that the enforcement authority has decided to cancel the penalty must state the enforcement authority’s reasons for the decision under sub-paragraph (3).
+(7)[^c-b02177b516666626dbd8c98ce94d408c] A notification under sub-paragraph (4) notifying the recipient that the enforcement authority has decided to cancel the penalty must state the enforcement authority’s reasons for the decision under sub-paragraph (3).
 
 #### 7. Civil penalties: appeals
 
@@ -404,7 +404,7 @@ the partner (as well as the partnership) is guilty of the offence and is liable 
 - (b) increased the penalty under paragraph 6(3)(c); or
 - (c) determined not to alter the penalty under paragraph 6(3)(d).
 
-(3) An appeal must be brought within the period of 28 days beginning with the date on which the person is notified of the enforcement authority's decision on the notice of objection under paragraph 6(4)[^key-13bbbfbe2dd8c250826a273b70b216df].
+(3) An appeal must be brought within the period of 28 days beginning with the date on which the person is notified of the enforcement authority's decision on the notice of objection under paragraph 6(4)[^c-13bbbfbe2dd8c250826a273b70b216df].
 
 (4) On appeal, the court may—
 
@@ -620,7 +620,7 @@ Regulation 16
 
 (4) In section 86 (index to Part 2), for “Tractor type approval Directive”[^c22913371], substitute “Tractor type approval Regulation”.
 
-#### 1A. Amendment of the Motor Fuel (Composition and Content) Regulations 1999[^key-eb32ebb716b7420c31047eb28dca23ae]
+#### 1A. Amendment of the Motor Fuel (Composition and Content) Regulations 1999[^c-eb32ebb716b7420c31047eb28dca23ae]
 
 In regulation 5B(7)(c) of the Motor Fuel (Composition and Content) Regulations 1999, for “have the meanings given by Article 1 of Council [Directive 2000/25/EC](https://www.legislation.gov.uk/european/directive/2000/0025)”, substitute “mean an agricultural or forestry vehicle (as appropriate) which is a tractor, within the meanings given by Articles 3 and 4 of Regulation (EU) No 167/2013 of the European Parliament and of the Council on the approval and market surveillance of agricultural and forestry vehicles, as it may be amended from time to time”.
 
@@ -679,17 +679,17 @@ The net costs imposed on business, the voluntary sector and the public sector by
 
 [^c22913231]: Marginal citation: OJ No L 218, 13.8.2008, p.30.
 
-[^key-23e3cbb5a1f23d1ef4fb2894a597e477]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2018/236/regulation/11A) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/1273/regulation/9)
+[^c-23e3cbb5a1f23d1ef4fb2894a597e477]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2018/236/regulation/11A) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/1273/regulation/9)
 
 [^c22913241]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-4fa0db86d28616bfbceed72adda03c6f]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2018/236/regulation/14A) inserted (1.7.2018) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2018 (S.I. 2018/673)](https://www.legislation.gov.uk/uksi/2018/673), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/c), [21](https://www.legislation.gov.uk/uksi/2018/673/regulation/21)
+[^c-4fa0db86d28616bfbceed72adda03c6f]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2018/236/regulation/14A) inserted (1.7.2018) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2018 (S.I. 2018/673)](https://www.legislation.gov.uk/uksi/2018/673), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/c), [21](https://www.legislation.gov.uk/uksi/2018/673/regulation/21)
 
-[^key-dfd8ed21031e6c47a41e713d7320d5ba]: Textual amendment: Word in [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/3/1) substituted (1.7.2018) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2018 (S.I. 2018/673)](https://www.legislation.gov.uk/uksi/2018/673), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/c), [22(a)](https://www.legislation.gov.uk/uksi/2018/673/regulation/22/a)
+[^c-dfd8ed21031e6c47a41e713d7320d5ba]: Textual amendment: Word in [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/3/1) substituted (1.7.2018) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2018 (S.I. 2018/673)](https://www.legislation.gov.uk/uksi/2018/673), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/c), [22(a)](https://www.legislation.gov.uk/uksi/2018/673/regulation/22/a)
 
-[^key-b02177b516666626dbd8c98ce94d408c]: Textual amendment: [Sch. 1 para. 6(7)](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/6/7) inserted (1.7.2018) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2018 (S.I. 2018/673)](https://www.legislation.gov.uk/uksi/2018/673), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/c), [22(b)](https://www.legislation.gov.uk/uksi/2018/673/regulation/22/b)
+[^c-b02177b516666626dbd8c98ce94d408c]: Textual amendment: [Sch. 1 para. 6(7)](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/6/7) inserted (1.7.2018) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2018 (S.I. 2018/673)](https://www.legislation.gov.uk/uksi/2018/673), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/c), [22(b)](https://www.legislation.gov.uk/uksi/2018/673/regulation/22/b)
 
-[^key-13bbbfbe2dd8c250826a273b70b216df]: Textual amendment: Word in Sch. 1 para. 7(3) substituted (1.7.2018) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2018 (S.I. 2018/673)](https://www.legislation.gov.uk/uksi/2018/673), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/c), [22(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/22/c)
+[^c-13bbbfbe2dd8c250826a273b70b216df]: Textual amendment: Word in Sch. 1 para. 7(3) substituted (1.7.2018) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2018 (S.I. 2018/673)](https://www.legislation.gov.uk/uksi/2018/673), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/c), [22(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/22/c)
 
 [^c22913251]: Marginal citation: [2003 c.39](https://www.legislation.gov.uk/ukpga/2003/39); [section 98](https://www.legislation.gov.uk/uksi/2018/236/section/98) has been amended by sections 48(1) and 106(2) of, and paragraph 55(1), (2), (3)(a) and (b) of Schedule 8 and paragraph 15 of Schedule 16 to, the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15) and section 17(5) of, and paragraph 40(a) and (c) of Part 2 of Schedule 9 to, the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22). Further amendments made by the Tribunals, Courts and Enforcement Act 2007 have yet to be brought into force.
 
@@ -717,7 +717,7 @@ The net costs imposed on business, the voluntary sector and the public sector by
 
 [^c22913371]: Marginal citation: The entry for “tractor type approval Directive” was inserted by [S.I. 2009/818](https://www.legislation.gov.uk/uksi/2009/818).
 
-[^key-eb32ebb716b7420c31047eb28dca23ae]: Textual amendment: [Sch. 2 para. 1A](https://www.legislation.gov.uk/uksi/2018/236/schedule/2/paragraph/1A) inserted (1.7.2018) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2018 (S.I. 2018/673)](https://www.legislation.gov.uk/uksi/2018/673), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/c), [23](https://www.legislation.gov.uk/uksi/2018/673/regulation/23)
+[^c-eb32ebb716b7420c31047eb28dca23ae]: Textual amendment: [Sch. 2 para. 1A](https://www.legislation.gov.uk/uksi/2018/236/schedule/2/paragraph/1A) inserted (1.7.2018) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2018 (S.I. 2018/673)](https://www.legislation.gov.uk/uksi/2018/673), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/c), [23](https://www.legislation.gov.uk/uksi/2018/673/regulation/23)
 
 [^c22913381]: Marginal citation: [S.I. 2008/1597](https://www.legislation.gov.uk/uksi/2008/1597).
 

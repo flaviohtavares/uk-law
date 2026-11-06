@@ -27,7 +27,7 @@ summary: ''
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act (including this Act), but
 - (b) otherwise are subject to the negative procedure.
 
-(3) Regulations under sections [^key-78a94b48f89121faa80932f303b60c45]... 54 and 57 are subject to the affirmative procedure.
+(3) Regulations under sections [^c-78a94b48f89121faa80932f303b60c45]... 54 and 57 are subject to the affirmative procedure.
 
 (4) Before making regulations under section 54, the Scottish Ministers must consult—
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78a94b48f89121faa80932f303b60c45]: Textual amendment: S. 61(3) punctuation marks omitted (18.12.2019) by virtue of [The Planning (Scotland) Act 2019 (Ancillary Provision) Regulations 2019 (S.S.I. 2019/424)](https://www.legislation.gov.uk/ssi/2019/424), [regs. 1](https://www.legislation.gov.uk/ssi/2019/424/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2019/424/regulation/2/4)
+[^c-78a94b48f89121faa80932f303b60c45]: Textual amendment: S. 61(3) punctuation marks omitted (18.12.2019) by virtue of [The Planning (Scotland) Act 2019 (Ancillary Provision) Regulations 2019 (S.S.I. 2019/424)](https://www.legislation.gov.uk/ssi/2019/424), [regs. 1](https://www.legislation.gov.uk/ssi/2019/424/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2019/424/regulation/2/4)

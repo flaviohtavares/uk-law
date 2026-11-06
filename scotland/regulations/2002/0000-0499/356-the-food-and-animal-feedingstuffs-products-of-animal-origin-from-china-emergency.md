@@ -33,7 +33,7 @@ FOOD
 
 AGRICULTURE
 
-The Food and Animal Feedingstuffs (Products of Animal Origin from China) (Emergency Control) (Scotland) Amendment Regulations 2002 (revoked)[^key-6bdc7dc8ef491a4156b736e80c693f4e]
+The Food and Animal Feedingstuffs (Products of Animal Origin from China) (Emergency Control) (Scotland) Amendment Regulations 2002 (revoked)[^c-6bdc7dc8ef491a4156b736e80c693f4e]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 31st July 2002
 
-[^key-6bdc7dc8ef491a4156b736e80c693f4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6bdc7dc8ef491a4156b736e80c693f4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-6bdc7dc8ef491a4156b736e80c693f4e]
+## 1. Citation, commencement and extent[^c-6bdc7dc8ef491a4156b736e80c693f4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food and Animal Feedingstuffs (Products of Animal Origin from China) (Emergency Control) (Scotland) Regulations 2002[^key-6bdc7dc8ef491a4156b736e80c693f4e]
+## 2. Amendment of the Food and Animal Feedingstuffs (Products of Animal Origin from China) (Emergency Control) (Scotland) Regulations 2002[^c-6bdc7dc8ef491a4156b736e80c693f4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6bdc7dc8ef491a4156b736e80c693f4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6bdc7dc8ef491a4156b736e80c693f4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6bdc7dc8ef491a4156b736e80c693f4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6bdc7dc8ef491a4156b736e80c693f4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6bdc7dc8ef491a4156b736e80c693f4e]: Textual amendment: Regulations revoked (1.4.2003) by [The Products of Animal Origin (Third Country Imports) (Scotland) Amendment Regulations 2003 (S.S.I. 2003/165)](https://www.legislation.gov.uk/ssi/2003/165), [regs. 1](https://www.legislation.gov.uk/ssi/2003/165/regulation/3), [3](https://www.legislation.gov.uk/ssi/2003/165/regulation/3)
+[^c-6bdc7dc8ef491a4156b736e80c693f4e]: Textual amendment: Regulations revoked (1.4.2003) by [The Products of Animal Origin (Third Country Imports) (Scotland) Amendment Regulations 2003 (S.S.I. 2003/165)](https://www.legislation.gov.uk/ssi/2003/165), [regs. 1](https://www.legislation.gov.uk/ssi/2003/165/regulation/3), [3](https://www.legislation.gov.uk/ssi/2003/165/regulation/3)

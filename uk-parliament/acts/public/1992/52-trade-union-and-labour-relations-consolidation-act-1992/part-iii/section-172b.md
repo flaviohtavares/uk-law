@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172B. Reserve powers in relation to facility time[^key-8ed424e397063ceaf8da4e07f1ef1eab]
+## 172B. Reserve powers in relation to facility time[^c-8ed424e397063ceaf8da4e07f1ef1eab]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ed424e397063ceaf8da4e07f1ef1eab]: Textual amendment: S. 172B omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 66(1)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/66/1/b), [159(2)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/d)
+[^c-8ed424e397063ceaf8da4e07f1ef1eab]: Textual amendment: S. 172B omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 66(1)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/66/1/b), [159(2)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/d)

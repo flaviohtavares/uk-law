@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Bus substitution services and bus service conditions.[^c10882921][^key-0fd17a31c25ef77031a244c7d695944f]
+## 119. Bus substitution services and bus service conditions.[^c10882921][^c-0fd17a31c25ef77031a244c7d695944f]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ except in accordance with the procedure provided by sections 120 to 122 of this 
 
     Ss. 119-124: certain functions transferred (1.4.1994) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [ss. 47(1)(b)](https://www.legislation.gov.uk/ukpga/1993/43/section/47/1/b), [152(2)](https://www.legislation.gov.uk/ukpga/1993/43/section/152/2) (with [Sch. 13 para. 3(2)](https://www.legislation.gov.uk/ukpga/1993/43/schedule/13/paragraph/3/2)); [S.I. 1994/571](https://www.legislation.gov.uk/uksi/1994/571), [art. 5](https://www.legislation.gov.uk/uksi/1994/571/article/5)
 
-[^key-0fd17a31c25ef77031a244c7d695944f]: Modification: [S. 119](https://www.legislation.gov.uk/ukpga/1985/67/section/119) modified (temp.) (26.3.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/6); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
+[^c-0fd17a31c25ef77031a244c7d695944f]: Modification: [S. 119](https://www.legislation.gov.uk/ukpga/1985/67/section/119) modified (temp.) (26.3.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/6); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)

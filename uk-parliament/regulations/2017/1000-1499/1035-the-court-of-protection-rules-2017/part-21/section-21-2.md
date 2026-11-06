@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21.2. Interpretation[^key-d301ac6fb80ebdbaa10b54f971c927c8]
+## 21.2. Interpretation[^c-d301ac6fb80ebdbaa10b54f971c927c8]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In this Part—
 
 ## Annotations
 
-[^key-d301ac6fb80ebdbaa10b54f971c927c8]: Textual amendment: Pt. 21 substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rule 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1192/schedule)
+[^c-d301ac6fb80ebdbaa10b54f971c927c8]: Textual amendment: Pt. 21 substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rule 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1192/schedule)

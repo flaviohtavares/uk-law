@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Monitoring of performance of authorised legal businesses[^key-e1d5330fcc668de23ed897c175d25036][^key-750f41face43161512b29f87b1b4b262][^key-bb9b53d7f3f5f5b177f2c24076f56e9a]
+## 47. Monitoring of performance of authorised legal businesses[^c-e1d5330fcc668de23ed897c175d25036][^c-750f41face43161512b29f87b1b4b262][^c-bb9b53d7f3f5f5b177f2c24076f56e9a]
 
 *Extent: S*
 
@@ -59,8 +59,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e1d5330fcc668de23ed897c175d25036]: Commencement: S. 47 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e1d5330fcc668de23ed897c175d25036]: Commencement: S. 47 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-750f41face43161512b29f87b1b4b262]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2025/8/section/47) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-750f41face43161512b29f87b1b4b262]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2025/8/section/47) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-bb9b53d7f3f5f5b177f2c24076f56e9a]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2025/8/section/47) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-bb9b53d7f3f5f5b177f2c24076f56e9a]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2025/8/section/47) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)

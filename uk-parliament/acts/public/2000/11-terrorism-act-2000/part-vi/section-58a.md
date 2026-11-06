@@ -34,12 +34,12 @@ summary: ''
 
 (3) A person guilty of an offence under this section is liable—
 
-- (a) on conviction on indictment, to imprisonment for a term not exceeding 15 years[^key-af5fb87ad26db7349d426bdc5833f495] or to a fine, or to both;
+- (a) on conviction on indictment, to imprisonment for a term not exceeding 15 years[^c-af5fb87ad26db7349d426bdc5833f495] or to a fine, or to both;
 - (b) on summary conviction—
   - (i) in England and Wales or Scotland, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum, or to both;
   - (ii) in Northern Ireland, to imprisonment for a term not exceeding 6 months or to a fine not exceeding the statutory maximum, or to both.
 
-(3A)[^key-e34b2e643e94d7641db7ac633545d56c] In subsection (3)(b)(i), in its application to England and Wales, the reference to 12 months is to be read as a reference to the general limit in a magistrates’ court.
+(3A)[^c-e34b2e643e94d7641db7ac633545d56c] In subsection (3)(b)(i), in its application to England and Wales, the reference to 12 months is to be read as a reference to the general limit in a magistrates’ court.
 
 (4) In this section “ **the intelligence services** ” means the Security Service, the Secret Intelligence Service and GCHQ (within the meaning of section 3 of the Intelligence Services Act 1994 (c. 13)).
 
@@ -49,6 +49,6 @@ summary: ''
 
 [^c20336571]: Textual amendment: S. 58A inserted (16.2.2009) by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 76(1)(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/76/1/2), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/58/article/2/d)
 
-[^key-af5fb87ad26db7349d426bdc5833f495]: Textual amendment: Words in [s. 58A(3)(a)](https://www.legislation.gov.uk/ukpga/2000/11/section/58A/3/a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/7/4), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/2))
+[^c-af5fb87ad26db7349d426bdc5833f495]: Textual amendment: Words in [s. 58A(3)(a)](https://www.legislation.gov.uk/ukpga/2000/11/section/58A/3/a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/7/4), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/2))
 
-[^key-e34b2e643e94d7641db7ac633545d56c]: Textual amendment: [S. 58A(3A)](https://www.legislation.gov.uk/ukpga/2000/11/section/58A/3A) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/9/2)
+[^c-e34b2e643e94d7641db7ac633545d56c]: Textual amendment: [S. 58A(3A)](https://www.legislation.gov.uk/ukpga/2000/11/section/58A/3A) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/9/2)

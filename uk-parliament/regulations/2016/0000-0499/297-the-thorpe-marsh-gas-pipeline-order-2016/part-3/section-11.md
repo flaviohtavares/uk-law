@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Procedure in relation to certain approvals etc.[^key-782fe5414d0c6072cb02ffacea44b9d9]
+## 11. Procedure in relation to certain approvals etc.[^c-782fe5414d0c6072cb02ffacea44b9d9]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-782fe5414d0c6072cb02ffacea44b9d9]: Commencement: Art. 11 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-782fe5414d0c6072cb02ffacea44b9d9]: Commencement: Art. 11 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)

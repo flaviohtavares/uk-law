@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Power of local authorities to arrange provision of education at non-maintained schools[^key-062d27e760c356996de33ee6a2c9d7a4]
+## 58. Power of local authorities to arrange provision of education at non-maintained schools[^c-062d27e760c356996de33ee6a2c9d7a4]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-062d27e760c356996de33ee6a2c9d7a4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/3)
+[^c-062d27e760c356996de33ee6a2c9d7a4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/3)

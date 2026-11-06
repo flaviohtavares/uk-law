@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Expenses of IFC authorities[^key-cd845a6274c8c351a8d36ce304c9d5f8]
+## 180. Expenses of IFC authorities[^c-cd845a6274c8c351a8d36ce304c9d5f8]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ The order may provide for the portion of the expenses payable by a relevant coun
 
 ## Annotations
 
-[^key-cd845a6274c8c351a8d36ce304c9d5f8]: Commencement: [S. 180](https://www.legislation.gov.uk/ukpga/2009/23/section/180) in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(h)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2195/article/4))
+[^c-cd845a6274c8c351a8d36ce304c9d5f8]: Commencement: [S. 180](https://www.legislation.gov.uk/ukpga/2009/23/section/180) in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(h)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2195/article/4))

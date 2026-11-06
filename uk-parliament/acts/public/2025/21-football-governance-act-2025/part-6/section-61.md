@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Proposal stage[^key-8369ee6b6c46fb65d094fa63fa2ef858][^key-c51cad21d83a7c4b8457e384095b183a]
+## 61. Proposal stage[^c-8369ee6b6c46fb65d094fa63fa2ef858][^c-c51cad21d83a7c4b8457e384095b183a]
 
 *Extent: E+W*
 
@@ -72,6 +72,6 @@ the IFR must give a notice under subsection (9) to the two specified competition
 
 ## Annotations
 
-[^key-8369ee6b6c46fb65d094fa63fa2ef858]: Commencement: S. 61 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-8369ee6b6c46fb65d094fa63fa2ef858]: Commencement: S. 61 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-c51cad21d83a7c4b8457e384095b183a]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2025/21/section/61) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(vi)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/vi)
+[^c-c51cad21d83a7c4b8457e384095b183a]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2025/21/section/61) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(vi)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/vi)

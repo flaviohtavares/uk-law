@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Feedingstuffs (Zootechnical Products) (Amendment) Regulations 2003 (revoked)[^key-8f9e7095b3047c5225e4b989b59d2bd2]
+The Feedingstuffs (Zootechnical Products) (Amendment) Regulations 2003 (revoked)[^c-8f9e7095b3047c5225e4b989b59d2bd2]
 
 Made
 
@@ -51,56 +51,56 @@ otherwise
 
 1st May 2003
 
-[^key-8f9e7095b3047c5225e4b989b59d2bd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f9e7095b3047c5225e4b989b59d2bd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-8f9e7095b3047c5225e4b989b59d2bd2]
+## 1. Title, commencement and extent[^c-8f9e7095b3047c5225e4b989b59d2bd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feedingstuffs (Zootechnical Products) Regulations 1999[^key-8f9e7095b3047c5225e4b989b59d2bd2]
+## 2. Amendment of the Feedingstuffs (Zootechnical Products) Regulations 1999[^c-8f9e7095b3047c5225e4b989b59d2bd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Feedingstuffs (Zootechnical Products) Regulations 1999 in Scotland, England and Wales[^key-8f9e7095b3047c5225e4b989b59d2bd2]
+## 3. Amendment of the Feedingstuffs (Zootechnical Products) Regulations 1999 in Scotland, England and Wales[^c-8f9e7095b3047c5225e4b989b59d2bd2]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f9e7095b3047c5225e4b989b59d2bd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f9e7095b3047c5225e4b989b59d2bd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SUBSTITUTION OF PARTS OF EXISTING SCHEDULE[^key-8f9e7095b3047c5225e4b989b59d2bd2]
+## SCHEDULE — SUBSTITUTION OF PARTS OF EXISTING SCHEDULE[^c-8f9e7095b3047c5225e4b989b59d2bd2]
 
 Regulation 3
 
-> **[^key-8f9e7095b3047c5225e4b989b59d2bd2]**
+> **[^c-8f9e7095b3047c5225e4b989b59d2bd2]**
 >
 > regulations 15, 75
 >
-> **Part II — Fees payable in relation to the approval and official checks in respect of establishments[^key-8f9e7095b3047c5225e4b989b59d2bd2]**
+> **Part II — Fees payable in relation to the approval and official checks in respect of establishments[^c-8f9e7095b3047c5225e4b989b59d2bd2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **1. Notes[^key-8f9e7095b3047c5225e4b989b59d2bd2]**
+> **1. Notes[^c-8f9e7095b3047c5225e4b989b59d2bd2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-8f9e7095b3047c5225e4b989b59d2bd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-8f9e7095b3047c5225e4b989b59d2bd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > Where more than one of the activities described in this Part of this Schedule are carried out at one premises, only one fee is payable, which shall be the highest fee payable for any one of those activities.
 >
-> **Part III — Fees payable in relation to the approval and official checks in respect of intermediaries[^key-8f9e7095b3047c5225e4b989b59d2bd2]**
+> **Part III — Fees payable in relation to the approval and official checks in respect of intermediaries[^c-8f9e7095b3047c5225e4b989b59d2bd2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8f9e7095b3047c5225e4b989b59d2bd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f9e7095b3047c5225e4b989b59d2bd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8f9e7095b3047c5225e4b989b59d2bd2]: Textual amendment: Regulations revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))
+[^c-8f9e7095b3047c5225e4b989b59d2bd2]: Textual amendment: Regulations revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))

@@ -33,70 +33,70 @@ of 14 September 2017
 
 on the final system of contributions to the administrative expenditures of the Single Resolution Board (revoked)
 
-[^key-3c9b347b97b3ea8ab911b0335e13c204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c9b347b97b3ea8ab911b0335e13c204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-3c9b347b97b3ea8ab911b0335e13c204]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-3c9b347b97b3ea8ab911b0335e13c204]
+## Article 1. Subject matter[^c-3c9b347b97b3ea8ab911b0335e13c204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Determination of total amount of annual contributions to be raised[^key-3c9b347b97b3ea8ab911b0335e13c204]
+## Article 2. Definitions[^c-3c9b347b97b3ea8ab911b0335e13c204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Allocation of total amount of annual contributions[^key-3c9b347b97b3ea8ab911b0335e13c204]
+## Article 3. Determination of total amount of annual contributions to be raised[^c-3c9b347b97b3ea8ab911b0335e13c204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Calculation of the individual annual contributions[^key-3c9b347b97b3ea8ab911b0335e13c204]
+## Article 4. Allocation of total amount of annual contributions[^c-3c9b347b97b3ea8ab911b0335e13c204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Data necessary for the calculation of individual annual contributions[^key-3c9b347b97b3ea8ab911b0335e13c204]
+## Article 5. Calculation of the individual annual contributions[^c-3c9b347b97b3ea8ab911b0335e13c204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Change in scope, status or other data[^key-3c9b347b97b3ea8ab911b0335e13c204]
+## Article 6. Data necessary for the calculation of individual annual contributions[^c-3c9b347b97b3ea8ab911b0335e13c204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Contribution notice, communications, payments and interest for late payment[^key-3c9b347b97b3ea8ab911b0335e13c204]
+## Article 7. Change in scope, status or other data[^c-3c9b347b97b3ea8ab911b0335e13c204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Enforcement[^key-3c9b347b97b3ea8ab911b0335e13c204]
+## Article 8. Contribution notice, communications, payments and interest for late payment[^c-3c9b347b97b3ea8ab911b0335e13c204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Recalculation and settlement of contributions due for the provisional period[^key-3c9b347b97b3ea8ab911b0335e13c204]
+## Article 9. Enforcement[^c-3c9b347b97b3ea8ab911b0335e13c204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Data necessary for the purposes of recalculating the contributions for financial years belonging to the provisional period[^key-3c9b347b97b3ea8ab911b0335e13c204]
+## Article 10. Recalculation and settlement of contributions due for the provisional period[^c-3c9b347b97b3ea8ab911b0335e13c204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Outsourcing[^key-3c9b347b97b3ea8ab911b0335e13c204]
+## Article 11. Data necessary for the purposes of recalculating the contributions for financial years belonging to the provisional period[^c-3c9b347b97b3ea8ab911b0335e13c204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Assistance by national resolution authorities[^key-3c9b347b97b3ea8ab911b0335e13c204]
+## Article 12. Outsourcing[^c-3c9b347b97b3ea8ab911b0335e13c204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Repeal[^key-3c9b347b97b3ea8ab911b0335e13c204]
+## Article 13. Assistance by national resolution authorities[^c-3c9b347b97b3ea8ab911b0335e13c204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Entry into force[^key-3c9b347b97b3ea8ab911b0335e13c204]
+## Article 14. Repeal[^c-3c9b347b97b3ea8ab911b0335e13c204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c9b347b97b3ea8ab911b0335e13c204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 15. Entry into force[^c-3c9b347b97b3ea8ab911b0335e13c204]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3c9b347b97b3ea8ab911b0335e13c204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3c9b347b97b3ea8ab911b0335e13c204]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [34(d)](https://www.legislation.gov.uk/uksi/2019/710/regulation/34/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c9b347b97b3ea8ab911b0335e13c204]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [34(d)](https://www.legislation.gov.uk/uksi/2019/710/regulation/34/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

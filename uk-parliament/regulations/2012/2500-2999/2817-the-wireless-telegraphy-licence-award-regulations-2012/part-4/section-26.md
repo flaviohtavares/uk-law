@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Valid primary bids[^key-c413c0a760e52806b35a60f6b9ffe70c]
+## 26. Valid primary bids[^c-c413c0a760e52806b35a60f6b9ffe70c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A primary bid is a valid primary bid if the bidder complies with the provisions 
 
 ## Annotations
 
-[^key-c413c0a760e52806b35a60f6b9ffe70c]: Commencement: Reg. 26 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-c413c0a760e52806b35a60f6b9ffe70c]: Commencement: Reg. 26 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

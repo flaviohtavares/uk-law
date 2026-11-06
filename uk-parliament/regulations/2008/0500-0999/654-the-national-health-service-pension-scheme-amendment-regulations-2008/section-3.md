@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Amendment of regulation B2[^key-db53f3506a44a7a22af17836c68a202e]
+## 3. Amendment of regulation B2[^c-db53f3506a44a7a22af17836c68a202e]
 
 *Extent: E+W*
 
@@ -69,6 +69,6 @@ For regulation B2 (restrictions on membership) substitute—
 
 ## Annotations
 
-[^key-db53f3506a44a7a22af17836c68a202e]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-db53f3506a44a7a22af17836c68a202e]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2008/653](https://www.legislation.gov.uk/uksi/2008/653).

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-a15229ecf4b5d55127d2f872a17046bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a15229ecf4b5d55127d2f872a17046bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Subs. (2), with Schedule 6, effects repeals*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a15229ecf4b5d55127d2f872a17046bb]: Textual amendment: S. 103(1) omitted (23.4.2016) by virtue of [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1), [Sch. 1 para. 57](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/57)
+[^c-a15229ecf4b5d55127d2f872a17046bb]: Textual amendment: S. 103(1) omitted (23.4.2016) by virtue of [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1), [Sch. 1 para. 57](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/57)
 
 [^m00010]: Marginal citation: 1954 c.33

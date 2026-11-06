@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271E. Power to impose requirements on schemes[^key-25992651a59835f6044c574ac05fd8cf]
+## 271E. Power to impose requirements on schemes[^c-25992651a59835f6044c574ac05fd8cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 
 - “**comparable authorised schemes**” has the same meaning as in section 271B;
 - “**enactment**” includes—
-  - (a) assimilated direct[^key-6e110c0c85e335cba2f8e5020fa61ed4] legislation,
+  - (a) assimilated direct[^c-6e110c0c85e335cba2f8e5020fa61ed4] legislation,
   - (b) an enactment comprised in subordinate legislation,
   - (c) an enactment comprised in, or in an instrument made under, a Measure or Act of Senedd Cymru,
   - (d) an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament, and
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-25992651a59835f6044c574ac05fd8cf]: Textual amendment: [Ss. 271A-271S](https://www.legislation.gov.uk/ukpga/2000/8/section/271A) and cross-heading inserted (23.2.2022) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/1); [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-25992651a59835f6044c574ac05fd8cf]: Textual amendment: [Ss. 271A-271S](https://www.legislation.gov.uk/ukpga/2000/8/section/271A) and cross-heading inserted (23.2.2022) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/1); [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-6e110c0c85e335cba2f8e5020fa61ed4]: Textual amendment: Words in s. 271E(10) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 44(4)(k)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/44/4/k)
+[^c-6e110c0c85e335cba2f8e5020fa61ed4]: Textual amendment: Words in s. 271E(10) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 44(4)(k)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/44/4/k)

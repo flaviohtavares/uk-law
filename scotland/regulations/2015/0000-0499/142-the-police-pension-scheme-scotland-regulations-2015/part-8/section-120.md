@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Pension credit member’s rights[^key-1c26433b527ddd1736f0eff804ff03b0]
+## 120. Pension credit member’s rights[^c-1c26433b527ddd1736f0eff804ff03b0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c26433b527ddd1736f0eff804ff03b0]: Commencement: Reg. 120 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-1c26433b527ddd1736f0eff804ff03b0]: Commencement: Reg. 120 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

@@ -60,11 +60,11 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 
 (2) Regulation 2 of the Greenhouse Gas Emissions Trading Scheme (Miscellaneous Provisions) Regulations 2007 [^c20898161] is revoked.
 
-## 3. Amendments of the Greenhouse Gas Emissions Trading Scheme Regulations 2005[^key-76151e195fc80f0b0a943246da390f14]
+## 3. Amendments of the Greenhouse Gas Emissions Trading Scheme Regulations 2005[^c-76151e195fc80f0b0a943246da390f14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-76151e195fc80f0b0a943246da390f14]
+## 4. Transitional provisions[^c-76151e195fc80f0b0a943246da390f14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -120,7 +120,7 @@ A full impact assessment of the costs and benefits of this instrument is availab
 
 [^c20898161]: Marginal citation: SI 2007/1096.
 
-[^key-76151e195fc80f0b0a943246da390f14]: Textual amendment: Regs. 3, 4 revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3038/regulation/1), [85(b)(viii)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/b/viii) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))
+[^c-76151e195fc80f0b0a943246da390f14]: Textual amendment: Regs. 3, 4 revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3038/regulation/1), [85(b)(viii)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/b/viii) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))
 
 [^c20898221]: Marginal citation: This is the date on which the Greenhouse Gas Emissions Trading Scheme (Miscellaneous Provisions) Regulations 2007 came into force (see [regulation 2(2)](https://www.legislation.gov.uk/uksi/2011/1506/regulation/2/2) of these Regulations).
 

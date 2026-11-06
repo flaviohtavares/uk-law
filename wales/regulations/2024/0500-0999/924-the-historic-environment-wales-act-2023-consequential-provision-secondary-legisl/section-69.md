@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. The Planning (Hazardous Substances) (Wales) Regulations 2015[^key-f6d969333b8ced38d65dd03f386d60be]
+## 69. The Planning (Hazardous Substances) (Wales) Regulations 2015[^c-f6d969333b8ced38d65dd03f386d60be]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ For regulation 28(6)(h)(ii) of the Planning (Hazardous Substances) (Wales) Regul
 
 ## Annotations
 
-[^key-f6d969333b8ced38d65dd03f386d60be]: Commencement: [Reg. 69](https://www.legislation.gov.uk/wsi/2024/924/regulation/69) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-f6d969333b8ced38d65dd03f386d60be]: Commencement: [Reg. 69](https://www.legislation.gov.uk/wsi/2024/924/regulation/69) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00042]: Footnote: [S.I. 2015/1597 (W. 196)](https://www.legislation.gov.uk/wsi/2015/1597), to which there are amendments not relevant to these Regulations.

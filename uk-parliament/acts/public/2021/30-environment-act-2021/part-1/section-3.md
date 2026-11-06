@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Environmental targets: species abundance[^key-bc294f50ec1a8f46487fab1f9e6c1733][^key-1461a1ff3fb9bf35d0c1653cef7eedcf]
+## 3. Environmental targets: species abundance[^c-bc294f50ec1a8f46487fab1f9e6c1733][^c-1461a1ff3fb9bf35d0c1653cef7eedcf]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc294f50ec1a8f46487fab1f9e6c1733]: Commencement: S. 3 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-bc294f50ec1a8f46487fab1f9e6c1733]: Commencement: S. 3 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-1461a1ff3fb9bf35d0c1653cef7eedcf]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/30/section/3) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/a)
+[^c-1461a1ff3fb9bf35d0c1653cef7eedcf]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/30/section/3) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/a)

@@ -32,7 +32,7 @@ summary: ''
 
 Wildlife
 
-The Snares (Training) (Scotland) Order 2012 (revoked)[^key-eb0ab0c806db908404e3562263c71ebb]
+The Snares (Training) (Scotland) Order 2012 (revoked)[^c-eb0ab0c806db908404e3562263c71ebb]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 4th June 2012
 
-[^key-eb0ab0c806db908404e3562263c71ebb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb0ab0c806db908404e3562263c71ebb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-eb0ab0c806db908404e3562263c71ebb]
+## 1. Citation, commencement and extent[^c-eb0ab0c806db908404e3562263c71ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-eb0ab0c806db908404e3562263c71ebb]
+## 2. Interpretation[^c-eb0ab0c806db908404e3562263c71ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Training certificates[^key-eb0ab0c806db908404e3562263c71ebb]
+## 3. Training certificates[^c-eb0ab0c806db908404e3562263c71ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eb0ab0c806db908404e3562263c71ebb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb0ab0c806db908404e3562263c71ebb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Approved bodies[^key-eb0ab0c806db908404e3562263c71ebb]
+## SCHEDULE — Approved bodies[^c-eb0ab0c806db908404e3562263c71ebb]
 
 Article 2(b)
 
@@ -74,8 +74,8 @@ Article 2(b)
 
 **May not be in force at this date. Check the source.**
 
-[^key-eb0ab0c806db908404e3562263c71ebb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb0ab0c806db908404e3562263c71ebb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eb0ab0c806db908404e3562263c71ebb]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2012/124) revoked (21.6.2012) by [The Snares (Training) (Scotland) (No. 2) Order 2012 (S.S.I. 2012/161)](https://www.legislation.gov.uk/ssi/2012/161), [art. 4](https://www.legislation.gov.uk/ssi/2012/161/article/4)
+[^c-eb0ab0c806db908404e3562263c71ebb]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2012/124) revoked (21.6.2012) by [The Snares (Training) (Scotland) (No. 2) Order 2012 (S.S.I. 2012/161)](https://www.legislation.gov.uk/ssi/2012/161), [art. 4](https://www.legislation.gov.uk/ssi/2012/161/article/4)

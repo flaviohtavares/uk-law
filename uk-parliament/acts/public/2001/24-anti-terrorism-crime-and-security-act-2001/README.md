@@ -33,7 +33,7 @@ An Act to amend the Terrorism Act 2000; to make further provision about terroris
 
 \[14th December 2001\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b347397f0ac70c8a2e1e2ef82528eb9e]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b347397f0ac70c8a2e1e2ef82528eb9e]
 
 ## Contents
 
@@ -219,7 +219,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 100 — Jurisdiction of transport police](part-10/section-100.md)
 - [Section 101 — Further provisions about transport police and MoD police](part-10/section-101.md)
 
-### Part 11 — Retention of Communications Data[^key-d85194493cc41ddced36bc4ae38f65d1]
+### Part 11 — Retention of Communications Data[^c-d85194493cc41ddced36bc4ae38f65d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -293,6 +293,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-b347397f0ac70c8a2e1e2ef82528eb9e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2001/24) modified (temp.) (E.W.) (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 7(2)](https://www.legislation.gov.uk/uksi/2014/469/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2014/469/article/7/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-b347397f0ac70c8a2e1e2ef82528eb9e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2001/24) modified (temp.) (E.W.) (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 7(2)](https://www.legislation.gov.uk/uksi/2014/469/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2014/469/article/7/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-d85194493cc41ddced36bc4ae38f65d1]: Textual amendment: [Pt. 11](https://www.legislation.gov.uk/ukpga/2001/24/part/11) omitted (1.11.2018) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 62](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/62) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/873/regulation/4/e)
+[^c-d85194493cc41ddced36bc4ae38f65d1]: Textual amendment: [Pt. 11](https://www.legislation.gov.uk/ukpga/2001/24/part/11) omitted (1.11.2018) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 62](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/62) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/873/regulation/4/e)

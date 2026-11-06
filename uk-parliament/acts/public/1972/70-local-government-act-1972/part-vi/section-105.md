@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 105. Disability for voting on account of interest in contracts, etc.[^key-a2ad2b7e2ccf54c36380a407fd91f4e3]
+## 105. Disability for voting on account of interest in contracts, etc.[^c-a2ad2b7e2ccf54c36380a407fd91f4e3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2ad2b7e2ccf54c36380a407fd91f4e3]: Textual amendment: S. 105 repealed (22.5.2012) by [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), [s. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/b)[(c)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/c), [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/13), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/22/schedule/6); [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2](https://www.legislation.gov.uk/uksi/2012/1358/article/2)
+[^c-a2ad2b7e2ccf54c36380a407fd91f4e3]: Textual amendment: S. 105 repealed (22.5.2012) by [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), [s. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/b)[(c)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/c), [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/13), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/22/schedule/6); [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2](https://www.legislation.gov.uk/uksi/2012/1358/article/2)

@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Offence and what it covers
 
-### 1. Wild animals in travelling circuses: offence[^key-de8343d5a71a22047aa41a47cf598151]
+### 1. Wild animals in travelling circuses: offence[^c-de8343d5a71a22047aa41a47cf598151]
 
 (1) A person who is a circus operator commits an offence if the person uses, or causes or permits another person to use, a wild animal in a travelling circus.
 
@@ -52,7 +52,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) A person who commits an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 2. Meaning of wild animal[^key-f36b3f317eee6088bddf3e759d293d6e]
+### 2. Meaning of wild animal[^c-f36b3f317eee6088bddf3e759d293d6e]
 
 (1) In this Act, “**wild animal**” means an animal other than one of a kind that is commonly domesticated in the British Islands.
 
@@ -63,7 +63,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - “**animal**” has the same meaning as in Part 2 of the Animal Health and Welfare (Scotland) Act 2006 (see section 16 of that Act),
 - “**British Islands**” has the meaning given in schedule 1 of the Interpretation Act 1978.
 
-### 3. Meaning of other key terms[^key-f08e1a7057f81610aac03f1917805f7b]
+### 3. Meaning of other key terms[^c-f08e1a7057f81610aac03f1917805f7b]
 
 In this Act—
 
@@ -79,7 +79,7 @@ In this Act—
 
     (but not, for example, a circus which travels in order to relocate to a new fixed base for use only or mainly as a place to give performances).
 
-### 4. Power to specify animals as wild or not[^key-bc8321ff6b8d254aa44c928a9a07bd99]
+### 4. Power to specify animals as wild or not[^c-bc8321ff6b8d254aa44c928a9a07bd99]
 
 (1) The Scottish Ministers may by regulations specify—
 
@@ -98,7 +98,7 @@ for the purposes of this Act.
 - (a) may make different provision for different purposes,
 - (b) are subject to the affirmative procedure.
 
-### 5. Power to describe what is or is not a travelling circus[^key-c2e4ca668e19165795e02c0b6841a343]
+### 5. Power to describe what is or is not a travelling circus[^c-c2e4ca668e19165795e02c0b6841a343]
 
 (1) The Scottish Ministers may by regulations describe a particular type of undertaking, act, entertainment or similar thing that—
 
@@ -119,7 +119,7 @@ for the purposes of this Act.
 
 ## Individual liability for organisational offending
 
-### 6. Individual culpability where organisation commits offence[^key-3600768c11d074e2467993efb9ed4085]
+### 6. Individual culpability where organisation commits offence[^c-3600768c11d074e2467993efb9ed4085]
 
 (1) This section applies where—
 
@@ -152,7 +152,7 @@ for the purposes of this Act.
 
 ## Enforcement
 
-### 7. Powers of enforcement[^key-30f412c3099365072956771047546259]
+### 7. Powers of enforcement[^c-30f412c3099365072956771047546259]
 
 (1) Schedule 1 makes provision about the powers of inspectors and constables for the purposes of and in connection with this Act.
 
@@ -160,7 +160,7 @@ for the purposes of this Act.
 
 ## General
 
-### 8. Crown application[^key-99764e10077ce1a32807f951a0bd7f28]
+### 8. Crown application[^c-99764e10077ce1a32807f951a0bd7f28]
 
 (1) Nothing in this Act makes the Crown criminally liable.
 
@@ -186,7 +186,7 @@ The short title of this Act is the Wild Animals in Travelling Circuses (Scotland
 
 ### Interpretation
 
-**1.**[^key-8a0d288692056452eb97617cce2ab871] In this schedule—
+**1.**[^c-8a0d288692056452eb97617cce2ab871] In this schedule—
 
 - “**constable**” has the meaning given by section 99(1) of the Police and Fire Reform (Scotland) Act 2012,
 - “domestic premises”—
@@ -209,12 +209,12 @@ The short title of this Act is the Wild Animals in Travelling Circuses (Scotland
 
 ### Entry and associated powers
 
-**2.**[^key-e4bdf9e1a062d7dcf70cd2bd9cd92fbc] An inspector may enter any premises (other than domestic premises)—
+**2.**[^c-e4bdf9e1a062d7dcf70cd2bd9cd92fbc] An inspector may enter any premises (other than domestic premises)—
 
 - (a) if there are reasonable grounds for believing that a section 1 offence has been or is being committed at the premises, and
 - (b) for the purpose of ascertaining whether or not a section 1 offence has been or is being committed at the premises.
 
-**3.**[^key-842be8a0a64092b8c2824e79e8a2cee4] (1) A sheriff or justice of the peace may grant a warrant under this sub-paragraph if satisfied—
+**3.**[^c-842be8a0a64092b8c2824e79e8a2cee4] (1) A sheriff or justice of the peace may grant a warrant under this sub-paragraph if satisfied—
 
 - (a) that there are reasonable grounds for believing—
   - (i) that a section 1 offence has been or is being committed at any premises, or
@@ -235,13 +235,13 @@ The short title of this Act is the Wild Animals in Travelling Circuses (Scotland
 - (a) that the premises are unoccupied, or
 - (b) that the occupier is temporarily absent.
 
-**4.**[^key-214d6f0548270d981c8b99f05b6319e0] A warrant under paragraph 3(1) authorises an inspector or a constable—
+**4.**[^c-214d6f0548270d981c8b99f05b6319e0] A warrant under paragraph 3(1) authorises an inspector or a constable—
 
 - (a) to enter the premises,
 - (b) to search for and examine any animal, and
 - (c) to search for, examine and seize any equipment, document or other thing tending to provide evidence of the commission of, or participation in, a section 1 offence.
 
-**5.**[^key-75ffbfc8547b211eb291bc89658c8ce5] (1) An inspector or a constable may exercise the powers in sub-paragraph (2) without a warrant under paragraph 3(1)—
+**5.**[^c-75ffbfc8547b211eb291bc89658c8ce5] (1) An inspector or a constable may exercise the powers in sub-paragraph (2) without a warrant under paragraph 3(1)—
 
 - (a) if it appears to the inspector or, as the case may be, constable that any delay would frustrate the purpose for which the powers are to be exercised, and
 - (b) in relation only to premises other than domestic premises.
@@ -254,7 +254,7 @@ The short title of this Act is the Wild Animals in Travelling Circuses (Scotland
 
 ### Stopping and detaining vehicles
 
-**6.**[^key-e5bfb6e893c6bca8049b553375b63038] (1) A constable in uniform may stop and detain a vehicle or vessel for the purpose of the exercise of a relevant power.
+**6.**[^c-e5bfb6e893c6bca8049b553375b63038] (1) A constable in uniform may stop and detain a vehicle or vessel for the purpose of the exercise of a relevant power.
 
 (2) An inspector, if accompanied by a constable in uniform, may stop and detain a vehicle or vessel for the purpose of the exercise of a relevant power.
 
@@ -266,17 +266,17 @@ The short title of this Act is the Wild Animals in Travelling Circuses (Scotland
 
 ### Entry and associated powers: supplementary
 
-**7.**[^key-787cf56a9f9aff964baffcbd93de10e6] A warrant granted under paragraph 3(1) remains in force for a period of 28 days beginning with the day on which it was granted.
+**7.**[^c-787cf56a9f9aff964baffcbd93de10e6] A warrant granted under paragraph 3(1) remains in force for a period of 28 days beginning with the day on which it was granted.
 
-**8.**[^key-ccd4b64146be4514f7d446f0a49f8053] A person exercising a relevant power must do so at a reasonable time unless it appears to the person that the purpose of exercising the power would be frustrated by exercising it at such a time.
+**8.**[^c-ccd4b64146be4514f7d446f0a49f8053] A person exercising a relevant power must do so at a reasonable time unless it appears to the person that the purpose of exercising the power would be frustrated by exercising it at such a time.
 
-**9.**[^key-325dfb8f7d33ae961da80c7037ede972] (1) A person may, if necessary, use reasonable force when exercising a relevant power.
+**9.**[^c-325dfb8f7d33ae961da80c7037ede972] (1) A person may, if necessary, use reasonable force when exercising a relevant power.
 
 (2) Sub-paragraph (1) does not apply to the power conferred by paragraph 2.
 
-**10.**[^key-90ccb7aead5a228149502e6fec01c540] A person exercising a relevant power must, if required, produce evidence of the person's authority.
+**10.**[^c-90ccb7aead5a228149502e6fec01c540] A person exercising a relevant power must, if required, produce evidence of the person's authority.
 
-**11.**[^key-56c3f539a73a11eef5c6e2b4e5f9fc24] (1) A relevant power includes power to take onto premises—
+**11.**[^c-56c3f539a73a11eef5c6e2b4e5f9fc24] (1) A relevant power includes power to take onto premises—
 
 - (a) such persons for assistance as are required for the purpose of exercising the power, and
 - (b) such equipment as is required for that purpose.
@@ -288,7 +288,7 @@ The short title of this Act is the Wild Animals in Travelling Circuses (Scotland
   - (ii) any equipment, substance or other thing,
 - (b) the identifying of an animal by use of a mark, microchip or any other method of identification.
 
-**12.**[^key-3a6eb7c1d1a3ffe929e14c67350de2d8] (1) A person mentioned in sub-paragraph (2) must—
+**12.**[^c-3a6eb7c1d1a3ffe929e14c67350de2d8] (1) A person mentioned in sub-paragraph (2) must—
 
 - (a) comply with any reasonable direction made by an inspector, or a constable, exercising a relevant power, and
 - (b) in particular, give the inspector or constable such information and assistance as the inspector or constable may reasonably require.
@@ -299,11 +299,11 @@ The short title of this Act is the Wild Animals in Travelling Circuses (Scotland
 - (b) as respects the premises of a circus in relation to which a relevant power is being exercised, the circus operator,
 - (c) a person who appears to be under the direction or control of a person mentioned in paragraph (a) or (b).
 
-**13.**[^key-124e05e75af75fdaa692b23030f55c34] A person exercising a relevant power in relation to unoccupied premises must leave the premises as effectively secured against entry as the person found them.
+**13.**[^c-124e05e75af75fdaa692b23030f55c34] A person exercising a relevant power in relation to unoccupied premises must leave the premises as effectively secured against entry as the person found them.
 
 ### Offences
 
-**14.**[^key-85efa261a280e913eee7cd719e052aa9] (1) A person who, without reasonable excuse, contravenes paragraph 12(1) commits an offence.
+**14.**[^c-85efa261a280e913eee7cd719e052aa9] (1) A person who, without reasonable excuse, contravenes paragraph 12(1) commits an offence.
 
 (2) A person who intentionally obstructs an inspector or constable in the exercise of a relevant power commits an offence.
 
@@ -311,21 +311,21 @@ The short title of this Act is the Wild Animals in Travelling Circuses (Scotland
 
 ### Liability of inspectors
 
-**15.**[^key-8a2f765a3fb7e7458891aa586673626e] (1) An inspector is not liable in any civil or criminal proceedings for anything done in the purported performance of the inspector's functions under this schedule where the inspector acts on reasonable grounds and in good faith.
+**15.**[^c-8a2f765a3fb7e7458891aa586673626e] (1) An inspector is not liable in any civil or criminal proceedings for anything done in the purported performance of the inspector's functions under this schedule where the inspector acts on reasonable grounds and in good faith.
 
 (2) Sub-paragraph (1) applies to any person taken onto premises by an inspector under paragraph 11(1)(a) as it applies to an inspector if the person is in the company, and under the supervision, of an inspector exercising functions under this schedule.
 
 ### Powers of constables under this schedule
 
-**16.**[^key-d28753cabdfb1a168ea584920732d295] The powers conferred on constables by this schedule are without prejudice to any powers conferred on constables apart from this schedule.
+**16.**[^c-d28753cabdfb1a168ea584920732d295] The powers conferred on constables by this schedule are without prejudice to any powers conferred on constables apart from this schedule.
 
 ## SCHEDULE 2 — CROWN LAND
 
 (introduced by section 7(2))
 
-**1.**[^key-73ab798bc46cbe11a393e00ebd525866] A power of entry conferred by a provision of schedule 1, or a warrant granted under such a provision, is exercisable in relation to Crown land only with the consent of the appropriate authority.
+**1.**[^c-73ab798bc46cbe11a393e00ebd525866] A power of entry conferred by a provision of schedule 1, or a warrant granted under such a provision, is exercisable in relation to Crown land only with the consent of the appropriate authority.
 
-**2.**[^key-c3fa8f7337523a8dbe231d2eec5213b9] (1) In paragraph 1, “**Crown land**” means land an interest in which—
+**2.**[^c-c3fa8f7337523a8dbe231d2eec5213b9] (1) In paragraph 1, “**Crown land**” means land an interest in which—
 
 - (a) belongs to Her Majesty—
   - (i) in right of the Crown, or
@@ -349,7 +349,7 @@ The short title of this Act is the Wild Animals in Travelling Circuses (Scotland
 
   means the relevant office-holder or (as the case may be) Government Department.
 
-**3.**[^key-e83c85c7f1d60fd84c61d825147d5350] (1) In paragraph 2—
+**3.**[^c-e83c85c7f1d60fd84c61d825147d5350] (1) In paragraph 2—
 
 - (a) “**Government Department**” means a department of the Government of the United Kingdom,
 - (b) the references to Her Majesty's private estates are to be construed in accordance with section 1 of the Crown Private Estates Act 1862.
@@ -358,56 +358,56 @@ The short title of this Act is the Wild Animals in Travelling Circuses (Scotland
 
 ## Annotations
 
-[^key-de8343d5a71a22047aa41a47cf598151]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2018/3/section/1) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-de8343d5a71a22047aa41a47cf598151]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2018/3/section/1) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-f36b3f317eee6088bddf3e759d293d6e]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2018/3/section/2) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-f36b3f317eee6088bddf3e759d293d6e]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2018/3/section/2) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-f08e1a7057f81610aac03f1917805f7b]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2018/3/section/3) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-f08e1a7057f81610aac03f1917805f7b]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2018/3/section/3) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-bc8321ff6b8d254aa44c928a9a07bd99]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2018/3/section/4) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-bc8321ff6b8d254aa44c928a9a07bd99]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2018/3/section/4) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-c2e4ca668e19165795e02c0b6841a343]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2018/3/section/5) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-c2e4ca668e19165795e02c0b6841a343]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2018/3/section/5) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-3600768c11d074e2467993efb9ed4085]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2018/3/section/6) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-3600768c11d074e2467993efb9ed4085]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2018/3/section/6) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-30f412c3099365072956771047546259]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2018/3/section/7) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-30f412c3099365072956771047546259]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2018/3/section/7) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-99764e10077ce1a32807f951a0bd7f28]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/3/section/8) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-99764e10077ce1a32807f951a0bd7f28]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/3/section/8) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-8a0d288692056452eb97617cce2ab871]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/1) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-8a0d288692056452eb97617cce2ab871]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/1) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-e4bdf9e1a062d7dcf70cd2bd9cd92fbc]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/2) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-e4bdf9e1a062d7dcf70cd2bd9cd92fbc]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/2) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-842be8a0a64092b8c2824e79e8a2cee4]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/3) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-842be8a0a64092b8c2824e79e8a2cee4]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/3) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-214d6f0548270d981c8b99f05b6319e0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/4) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-214d6f0548270d981c8b99f05b6319e0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/4) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-75ffbfc8547b211eb291bc89658c8ce5]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/5) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-75ffbfc8547b211eb291bc89658c8ce5]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/5) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-e5bfb6e893c6bca8049b553375b63038]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/6) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-e5bfb6e893c6bca8049b553375b63038]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/6) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-787cf56a9f9aff964baffcbd93de10e6]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/7) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-787cf56a9f9aff964baffcbd93de10e6]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/7) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-ccd4b64146be4514f7d446f0a49f8053]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/8) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-ccd4b64146be4514f7d446f0a49f8053]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/8) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-325dfb8f7d33ae961da80c7037ede972]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/9) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-325dfb8f7d33ae961da80c7037ede972]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/9) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-90ccb7aead5a228149502e6fec01c540]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/10) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-90ccb7aead5a228149502e6fec01c540]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/10) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-56c3f539a73a11eef5c6e2b4e5f9fc24]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/11) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-56c3f539a73a11eef5c6e2b4e5f9fc24]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/11) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-3a6eb7c1d1a3ffe929e14c67350de2d8]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/12) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-3a6eb7c1d1a3ffe929e14c67350de2d8]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/12) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-124e05e75af75fdaa692b23030f55c34]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/13) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-124e05e75af75fdaa692b23030f55c34]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/13) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-85efa261a280e913eee7cd719e052aa9]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/14) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-85efa261a280e913eee7cd719e052aa9]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/14) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-8a2f765a3fb7e7458891aa586673626e]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/15) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-8a2f765a3fb7e7458891aa586673626e]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/15) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-d28753cabdfb1a168ea584920732d295]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/16) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-d28753cabdfb1a168ea584920732d295]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asp/2018/3/schedule/1/paragraph/16) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-73ab798bc46cbe11a393e00ebd525866]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2018/3/schedule/2/paragraph/1) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-73ab798bc46cbe11a393e00ebd525866]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2018/3/schedule/2/paragraph/1) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-c3fa8f7337523a8dbe231d2eec5213b9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2018/3/schedule/2/paragraph/2) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-c3fa8f7337523a8dbe231d2eec5213b9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2018/3/schedule/2/paragraph/2) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
 
-[^key-e83c85c7f1d60fd84c61d825147d5350]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2018/3/schedule/2/paragraph/3) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)
+[^c-e83c85c7f1d60fd84c61d825147d5350]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2018/3/schedule/2/paragraph/3) in force at 28.5.2018 by [S.S.I. 2018/149](https://www.legislation.gov.uk/ssi/2018/149), [reg. 2](https://www.legislation.gov.uk/ssi/2018/149/regulation/2)

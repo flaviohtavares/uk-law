@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-5f23c1e7988e9f3de61149aecf968dd5] After section 275 of the principal Act insert—
+(1)[^c-5f23c1e7988e9f3de61149aecf968dd5] After section 275 of the principal Act insert—
 
 > **275A. Further provision as regards regulations: inquiries etc.**
 >
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f23c1e7988e9f3de61149aecf968dd5]: Commencement: [S. 52(1)](https://www.legislation.gov.uk/asp/2006/17/section/52/1) in force at 12.12.2008 by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/411/article/2/1)
+[^c-5f23c1e7988e9f3de61149aecf968dd5]: Commencement: [S. 52(1)](https://www.legislation.gov.uk/asp/2006/17/section/52/1) in force at 12.12.2008 by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/411/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Determination[^key-aef1026c37090bddad033c9e8709f9c5]
+## 53. Determination[^c-aef1026c37090bddad033c9e8709f9c5]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aef1026c37090bddad033c9e8709f9c5]: Commencement: [S. 53](https://www.legislation.gov.uk/anaw/2013/1/section/53) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-aef1026c37090bddad033c9e8709f9c5]: Commencement: [S. 53](https://www.legislation.gov.uk/anaw/2013/1/section/53) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

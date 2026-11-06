@@ -42,7 +42,7 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by sections 60, 61(1)(a), 105(9), 114(1), 182(2) and 189(1) of the Consumer Credit Act 1974[^c20239721].[^key-f6ca9c409a23281042c2f773b9b6799a][^key-ecea379459f0ec952c112d75d9919c88]
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 60, 61(1)(a), 105(9), 114(1), 182(2) and 189(1) of the Consumer Credit Act 1974[^c20239721].[^c-f6ca9c409a23281042c2f773b9b6799a][^c-ecea379459f0ec952c112d75d9919c88]
 
 ## 1. Citation, commencement and interpretation
 
@@ -71,7 +71,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
   - (b) any other amount included in the total charge for that credit,
 
   to the extent that these remain unpaid at the date of the loss or damage, a sum up to but not exceeding that shortfall will be paid;
-- “**credit intermediary**” has the same meaning as in section 61A[^key-6934fefbf2d8ef99350942f3bab312f2] of the Act;
+- “**credit intermediary**” has the same meaning as in section 61A[^c-6934fefbf2d8ef99350942f3bab312f2] of the Act;
 - “**distance contract**” means any regulated agreement made under an organised distance sales or service provision scheme run by or on behalf of the creditor who, in any such case, for the purpose of the agreement makes exclusive use of one or more means of distance communication up to and including the time at which the agreement is made. For this purpose, “**means of distance communication**” means any means which, without the simultaneous physical presence of the creditor or a person acting on behalf of the creditor, and of the debtor, may be used for the making of a regulated agreement between the parties to that agreement;
 - “**earlier agreement**” means an earlier consumer credit agreement for the provision of credit;
 - “**exempted agreement**” means an agreement of the description specified in the Schedule to the Consumer Credit (Notices of Cancellation Rights) (Exemptions) Regulations 1983 [^c20239741] in relation to which there are no charges forming part of the total charge for credit;
@@ -84,8 +84,8 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - “**pre-contract credit information**” means the information required to be disclosed by regulation 3(4) of the Information Regulations 2010;
 - “**total amount of credit**” means the credit limit or the total sums made available under a consumer credit agreement;
 - “**total amount payable**” means the sum of the total charge for credit and the total amount of credit payable under the consumer credit agreement as well as any advance payment;
-- “**total charge for credit**” means the total charge for credit determined in accordance with Schedule 4 and the total charge for credit rules[^key-37784692754c08b737cd64c76c047259];
-- “the total charge for credit rules” means rules made by the Financial Conduct Authority under article 60M of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 for the purposes of Chapter 14A of Part 2 of that Order;[^key-b41fdccf2794d0095609e12bbd297952]
+- “**total charge for credit**” means the total charge for credit determined in accordance with Schedule 4 and the total charge for credit rules[^c-37784692754c08b737cd64c76c047259];
+- “the total charge for credit rules” means rules made by the Financial Conduct Authority under article 60M of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 for the purposes of Chapter 14A of Part 2 of that Order;[^c-b41fdccf2794d0095609e12bbd297952]
 
 (4) References in these Regulations to a contract of insurance shall be read with—
 
@@ -117,14 +117,14 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 (3) The agreements referred to in paragraph (2) are—
 
 - (a) an agreement secured on land other than an agreement to which section 58 applies[^M_F_d6ebddbd-5dae-423a-f2fc-0414825eaa01];
-- (b) an agreement under which the creditor provides the debtor with credit which exceeds £60,260 other than a residential renovation agreement[^key-cf974a5469b20c87c11eff01230a0b7a];
+- (b) an agreement under which the creditor provides the debtor with credit which exceeds £60,260 other than a residential renovation agreement[^c-cf974a5469b20c87c11eff01230a0b7a];
 - (c) an agreement entered into by the debtor wholly or predominantly for the purposes of a business carried on, or intended to be carried on, by him.
 
 (4) Paragraph (2) and regulations 3 to 4 and 6 to 7 do not apply to an authorised non-business overdraft agreement or an authorised business overdraft agreement.
 
 (5) Regulation 5 does not apply to a regulated consumer credit agreement which is also a distance contract unless the agreement is entered into by the debtor wholly or predominantly for the purposes of a business carried on, or intended to be carried on, by him.
 
-(6)[^key-1ff60ea00b2455aae89f574444f572a8] Article 60C(5) and (6) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 applies for the purposes of paragraphs (3)(c) and (5).
+(6)[^c-1ff60ea00b2455aae89f574444f572a8] Article 60C(5) and (6) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 applies for the purposes of paragraphs (3)(c) and (5).
 
 ## 3. Form and content of regulated consumer credit agreements
 
@@ -431,9 +431,9 @@ A transposition note and an impact assessment of the effect this instrument will
 
 [^c20239721]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-f6ca9c409a23281042c2f773b9b6799a]: Modification: Regulations modified (temp.) (14.2.2014 to 14.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 17](https://www.legislation.gov.uk/uksi/2014/366/article/17)
+[^c-f6ca9c409a23281042c2f773b9b6799a]: Modification: Regulations modified (temp.) (14.2.2014 to 14.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 17](https://www.legislation.gov.uk/uksi/2014/366/article/17)
 
-[^key-ecea379459f0ec952c112d75d9919c88]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/section/3/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-ecea379459f0ec952c112d75d9919c88]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/section/3/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^M_F_21af82b2-7f26-46da-f9f4-684b8d7c07fe]: Textual amendment: Words in reg. 1(2) inserted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [42(a)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/42/a)
 
@@ -443,15 +443,15 @@ A transposition note and an impact assessment of the effect this instrument will
 
 [^M_F_c39641fc-3b92-47c9-d6a6-08442b792688]: Textual amendment: Words in Regulations substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 27(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/2)
 
-[^key-6934fefbf2d8ef99350942f3bab312f2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/1014/regulation/1/3) substituted (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2/6), [27(3)(a)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/3/a)
+[^c-6934fefbf2d8ef99350942f3bab312f2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/1014/regulation/1/3) substituted (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2/6), [27(3)(a)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/3/a)
 
 [^c20239741]: Marginal citation: [S.I. 1983/1557](https://www.legislation.gov.uk/uksi/1983/1557) as amended by [S.I. 2004/3236](https://www.legislation.gov.uk/uksi/2004/3236).
 
 [^c20239751]: Marginal citation: [S.I. 2010/1013](https://www.legislation.gov.uk/uksi/2010/1013).
 
-[^key-37784692754c08b737cd64c76c047259]: Textual amendment: Words in Regulations substituted (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 27(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/2)
+[^c-37784692754c08b737cd64c76c047259]: Textual amendment: Words in Regulations substituted (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 27(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/2)
 
-[^key-b41fdccf2794d0095609e12bbd297952]: Textual amendment: Words in reg. 1(3) substituted (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [27(3)(b)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/3/b)
+[^c-b41fdccf2794d0095609e12bbd297952]: Textual amendment: Words in reg. 1(3) substituted (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [27(3)(b)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/3/b)
 
 [^c20239771]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
@@ -463,9 +463,9 @@ A transposition note and an impact assessment of the effect this instrument will
 
 [^M_F_d6ebddbd-5dae-423a-f2fc-0414825eaa01]: Textual amendment: Words in reg. 2(3)(a) inserted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [43(c)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/43/c)
 
-[^key-cf974a5469b20c87c11eff01230a0b7a]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2010/1014/regulation/2/3/b) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 14(2)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/14/2) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-cf974a5469b20c87c11eff01230a0b7a]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2010/1014/regulation/2/3/b) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 14(2)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/14/2) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-1ff60ea00b2455aae89f574444f572a8]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2010/1014/regulation/2/6) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/4)
+[^c-1ff60ea00b2455aae89f574444f572a8]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2010/1014/regulation/2/6) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/4)
 
 [^M_F_6e8ebe2b-9843-46e7-f9b0-4c730b9b5798]: Textual amendment: Words in reg. 5(3) inserted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [44(a)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/44/a)
 

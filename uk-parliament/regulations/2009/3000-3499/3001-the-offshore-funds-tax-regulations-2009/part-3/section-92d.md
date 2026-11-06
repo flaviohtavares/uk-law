@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92D. Contents of reports to participants: transparent reporting funds[^key-37fc771b4cf720144e9b8c389a68b3a0]
+## 92D. Contents of reports to participants: transparent reporting funds[^c-37fc771b4cf720144e9b8c389a68b3a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In the case of transparent reporting funds, the report to participants for a rep
 
 ## Annotations
 
-[^key-37fc771b4cf720144e9b8c389a68b3a0]: Textual amendment: Reg. 92D inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2011/1211/regulation/26)
+[^c-37fc771b4cf720144e9b8c389a68b3a0]: Textual amendment: Reg. 92D inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2011/1211/regulation/26)

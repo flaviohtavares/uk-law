@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19B. Extended meaning of “benefit” etc in Part 1[^key-494d4ca53b5e1948b574155d6193adf5]
+## 19B. Extended meaning of “benefit” etc in Part 1[^c-494d4ca53b5e1948b574155d6193adf5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In this Part references to “benefit” or “contributory benefit” include b
 
 ## Annotations
 
-[^key-494d4ca53b5e1948b574155d6193adf5]: Textual amendment: [S. 19B](https://www.legislation.gov.uk/ukpga/1992/4/section/19B) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/5)
+[^c-494d4ca53b5e1948b574155d6193adf5]: Textual amendment: [S. 19B](https://www.legislation.gov.uk/ukpga/1992/4/section/19B) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/5)

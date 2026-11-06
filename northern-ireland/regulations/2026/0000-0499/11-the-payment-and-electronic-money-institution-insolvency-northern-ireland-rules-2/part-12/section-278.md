@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 278. Notifications made to other persons at the same time[^key-b66dfcfea8a2edb824c67c36b619696c]
+## 278. Notifications made to other persons at the same time[^c-b66dfcfea8a2edb824c67c36b619696c]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b66dfcfea8a2edb824c67c36b619696c]: Commencement: [Rule 278](https://www.legislation.gov.uk/nisr/2026/11/rule/278) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-b66dfcfea8a2edb824c67c36b619696c]: Commencement: [Rule 278](https://www.legislation.gov.uk/nisr/2026/11/rule/278) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

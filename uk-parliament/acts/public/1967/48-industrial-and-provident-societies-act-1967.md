@@ -29,61 +29,61 @@ Industrial and Provident Societies Act 1967 (repealed)
 
 1967 c.48
 
-[^key-e903029997b588fb8eafe7ed889867df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e903029997b588fb8eafe7ed889867df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part I — Borrowing by Societies Registered in England and Wales[^key-e903029997b588fb8eafe7ed889867df]
+## Part I — Borrowing by Societies Registered in England and Wales[^c-e903029997b588fb8eafe7ed889867df]
 
 *Extent: E+W*
 
-### 1. Charges on assets of English and Welsh societies.[^key-e903029997b588fb8eafe7ed889867df][^key-e903029997b588fb8eafe7ed889867df]
+### 1. Charges on assets of English and Welsh societies.[^c-e903029997b588fb8eafe7ed889867df][^c-e903029997b588fb8eafe7ed889867df]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Application of Part I.[^key-e903029997b588fb8eafe7ed889867df][^key-e903029997b588fb8eafe7ed889867df]
+### 2. Application of Part I.[^c-e903029997b588fb8eafe7ed889867df][^c-e903029997b588fb8eafe7ed889867df]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part II — Borrowing by Societies Registered in Scotland[^key-e903029997b588fb8eafe7ed889867df]
+## Part II — Borrowing by Societies Registered in Scotland[^c-e903029997b588fb8eafe7ed889867df]
 
 *Extent: S*
 
-### 3. Application to registered societies of provisions relating to floating charges.[^key-e903029997b588fb8eafe7ed889867df][^key-e903029997b588fb8eafe7ed889867df]
+### 3. Application to registered societies of provisions relating to floating charges.[^c-e903029997b588fb8eafe7ed889867df][^c-e903029997b588fb8eafe7ed889867df]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Filing of information relating to charges.[^key-e903029997b588fb8eafe7ed889867df][^key-e903029997b588fb8eafe7ed889867df]
+### 4. Filing of information relating to charges.[^c-e903029997b588fb8eafe7ed889867df][^c-e903029997b588fb8eafe7ed889867df]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Supplemental provisions.[^key-e903029997b588fb8eafe7ed889867df][^key-e903029997b588fb8eafe7ed889867df]
+### 5. Supplemental provisions.[^c-e903029997b588fb8eafe7ed889867df][^c-e903029997b588fb8eafe7ed889867df]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Interpretation and application of Part II.[^key-e903029997b588fb8eafe7ed889867df][^key-e903029997b588fb8eafe7ed889867df]
+### 6. Interpretation and application of Part II.[^c-e903029997b588fb8eafe7ed889867df][^c-e903029997b588fb8eafe7ed889867df]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part III — General[^key-e903029997b588fb8eafe7ed889867df]
+## Part III — General[^c-e903029997b588fb8eafe7ed889867df]
 
-### 7. Interpretation, et ceteralaetc.—general.[^key-e903029997b588fb8eafe7ed889867df][^key-e903029997b588fb8eafe7ed889867df]
+### 7. Interpretation, et ceteralaetc.—general.[^c-e903029997b588fb8eafe7ed889867df][^c-e903029997b588fb8eafe7ed889867df]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Citation, commencement and extent.[^key-e903029997b588fb8eafe7ed889867df][^key-e903029997b588fb8eafe7ed889867df]
+### 8. Citation, commencement and extent.[^c-e903029997b588fb8eafe7ed889867df][^c-e903029997b588fb8eafe7ed889867df]
 
 **No longer in force.**
 
@@ -91,46 +91,46 @@ Industrial and Provident Societies Act 1967 (repealed)
 
 *Extent: S*
 
-## SCHEDULE — Modifications to Companies (Floating Charges) (Scotland) Act 1961 in its application to Registered Societies by virtue of Part II of this Act[^key-e903029997b588fb8eafe7ed889867df]
+## SCHEDULE — Modifications to Companies (Floating Charges) (Scotland) Act 1961 in its application to Registered Societies by virtue of Part II of this Act[^c-e903029997b588fb8eafe7ed889867df]
 
 Section 3.
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**6.**[^key-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**6A.**[^key-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6A.**[^c-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**7.**[^key-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**8.**[^key-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e903029997b588fb8eafe7ed889867df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e903029997b588fb8eafe7ed889867df]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1967/48) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-e903029997b588fb8eafe7ed889867df]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1967/48) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Referral to referee: directions in safety report or inspection report[^key-d1d79c1b731591406e953abf48eeae32]
+## 59. Referral to referee: directions in safety report or inspection report[^c-d1d79c1b731591406e953abf48eeae32]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1d79c1b731591406e953abf48eeae32]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2011/9/section/59) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-d1d79c1b731591406e953abf48eeae32]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2011/9/section/59) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

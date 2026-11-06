@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Parole Board rules: decisions where prisoner has information about victim’s remains[^key-c253cd7744fd3730647646966121964b][^key-69f73f0ef78b49b24723d2cf80e9e2f1]
+## 55. Parole Board rules: decisions where prisoner has information about victim’s remains[^c-c253cd7744fd3730647646966121964b][^c-69f73f0ef78b49b24723d2cf80e9e2f1]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c253cd7744fd3730647646966121964b]: Commencement: S. 55 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-c253cd7744fd3730647646966121964b]: Commencement: S. 55 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-69f73f0ef78b49b24723d2cf80e9e2f1]: Commencement: S. 55 in force at 11.2.2026 by [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/2/a) (as amended by [S.S.I. 2026/66](https://www.legislation.gov.uk/ssi/2026/66), [regs. 1](https://www.legislation.gov.uk/ssi/2026/66/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/66/regulation/2/2))
+[^c-69f73f0ef78b49b24723d2cf80e9e2f1]: Commencement: S. 55 in force at 11.2.2026 by [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/2/a) (as amended by [S.S.I. 2026/66](https://www.legislation.gov.uk/ssi/2026/66), [regs. 1](https://www.legislation.gov.uk/ssi/2026/66/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/66/regulation/2/2))

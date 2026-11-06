@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Record-keeping[^key-123fae8291f5fe68879efede40c9f368]
+## 38. Record-keeping[^c-123fae8291f5fe68879efede40c9f368]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-123fae8291f5fe68879efede40c9f368]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/12/section/38) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/b)
+[^c-123fae8291f5fe68879efede40c9f368]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/12/section/38) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/b)

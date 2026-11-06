@@ -31,22 +31,22 @@ Entail Act 1838 (repealed)
 
 1838 c.70
 
-[^key-e971b49066ba0bef77b52405d3f61bec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e971b49066ba0bef77b52405d3f61bec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Powers and provisions of recited Acts, as to tacks and excambions, further extended.[^key-e971b49066ba0bef77b52405d3f61bec]
+## 1. Powers and provisions of recited Acts, as to tacks and excambions, further extended.[^c-e971b49066ba0bef77b52405d3f61bec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Contracts of excambion to be recorded in sheriff court books.[^key-e971b49066ba0bef77b52405d3f61bec]
+## 2. Contracts of excambion to be recorded in sheriff court books.[^c-e971b49066ba0bef77b52405d3f61bec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Where deed of entail is recorded after making an excambion, any contract entered into shall be registered at the same time.[^key-e971b49066ba0bef77b52405d3f61bec]
+## 3. Where deed of entail is recorded after making an excambion, any contract entered into shall be registered at the same time.[^c-e971b49066ba0bef77b52405d3f61bec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e971b49066ba0bef77b52405d3f61bec]: Textual amendment: Act repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-e971b49066ba0bef77b52405d3f61bec]: Textual amendment: Act repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)

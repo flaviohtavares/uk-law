@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Amendment of regulation 13[^key-1c639f92d5b07191e9776d404c8ff574]
+## 11. Amendment of regulation 13[^c-1c639f92d5b07191e9776d404c8ff574]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 13 (duration), in paragraph (2) for “the Primary Care Trust” s
 
 ## Annotations
 
-[^key-1c639f92d5b07191e9776d404c8ff574]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/364/regulation/11) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-1c639f92d5b07191e9776d404c8ff574]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/364/regulation/11) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

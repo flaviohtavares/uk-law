@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50A. Ongoing vetting[^key-fb77bae49f2c858180bc306a93e09a00]
+## 50A. Ongoing vetting[^c-fb77bae49f2c858180bc306a93e09a00]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb77bae49f2c858180bc306a93e09a00]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/asp/2012/8/section/50A) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 5(2)](https://www.legislation.gov.uk/asp/2025/5/section/5/2), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/e)
+[^c-fb77bae49f2c858180bc306a93e09a00]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/asp/2012/8/section/50A) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 5(2)](https://www.legislation.gov.uk/asp/2025/5/section/5/2), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/e)

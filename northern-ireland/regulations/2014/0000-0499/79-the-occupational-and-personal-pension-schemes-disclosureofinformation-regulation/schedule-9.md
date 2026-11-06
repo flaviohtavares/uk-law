@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 31
 
-**1.**[^key-91921c4d8c0ab432f9fa40ae3ce227ea] In the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^f00063]—
+**1.**[^c-91921c4d8c0ab432f9fa40ae3ce227ea] In the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^f00063]—
 
 - (a) in regulation 1 (interpretation) after paragraph (3)[^f00064] add—
 
@@ -31,7 +31,7 @@ Regulation 31
   ;
 - (b) in regulation 9(6)(c)[^f00065] (bought out benefits) for the words from “and the notice” to “his last known address” substitute “(the notice being sent to the member in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents)”.
 
-**2.**[^key-8a014f587b15f9038bc4f115c64f04a4] In regulation 3(3) of the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996[^f00066] (notices by employers of intended election)—
+**2.**[^c-8a014f587b15f9038bc4f115c64f04a4] In regulation 3(3) of the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996[^f00066] (notices by employers of intended election)—
 
 - (a) in sub-paragraph (a) for head (i) substitute—
 
@@ -47,13 +47,13 @@ Regulation 31
 
   .
 
-**3.**[^key-b86e23be525b20b249b5feb134d9986e] In regulation 11 of the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^f00067] (disclosure) after paragraph (6) add—
+**3.**[^c-b86e23be525b20b249b5feb134d9986e] In regulation 11 of the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^f00067] (disclosure) after paragraph (6) add—
 
 > (7) The trustees may provide any information or notification under this regulation in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
 
 .
 
-**4.**[^key-00c619e4d8272aa617857363a08381f7] In the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00068]—
+**4.**[^c-00c619e4d8272aa617857363a08381f7] In the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00068]—
 
 - (a) in regulation 7 (requirements applicable to notices of discharge under regulation 6) after paragraph (10) add—
 
@@ -62,18 +62,18 @@ Regulation 31
   ;
 - (b) in regulation 11(2) (records and information) after “in writing” insert “in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents)”.
 
-**5.**[^key-94ce47d8312f359ac2abdb80277f4e1c] In the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997[^f00069]—
+**5.**[^c-94ce47d8312f359ac2abdb80277f4e1c] In the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997[^f00069]—
 
 - (a) in regulation 2 (requirement of trustees or managers to obtain documents) after paragraph (2)[^f00070] insert—
 
   > (2AA) Information may be made available under paragraph (2) in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
 
   ;
-- (b)[^key-c71d90420cd75a025e02f71bc1628441] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c71d90420cd75a025e02f71bc1628441] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7812db27b4a9750fa78aa9e2cca8bb43] In regulation 6(5)(b)(ii) of the Occupational Pension Schemes (Discharge of Liability) Regulations (Northern Ireland) 1997[^f00073] (further conditions on which liability may be discharged) for the words from “the notice,” to “last known address” substitute “the notice to the widow, widower or surviving civil partner in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents)”.
+**6.**[^c-7812db27b4a9750fa78aa9e2cca8bb43] In regulation 6(5)(b)(ii) of the Occupational Pension Schemes (Discharge of Liability) Regulations (Northern Ireland) 1997[^f00073] (further conditions on which liability may be discharged) for the words from “the notice,” to “last known address” substitute “the notice to the widow, widower or surviving civil partner in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents)”.
 
-**7.**[^key-26f890c331ace1443ef73d3fa27c1dd8] After regulation 10 of the Pensions on Divorce etc. (Provision of Information) Regulations (Northern Ireland) 2000[^f00074] (provision of information after receipt of an earmarking order) add—
+**7.**[^c-26f890c331ace1443ef73d3fa27c1dd8] After regulation 10 of the Pensions on Divorce etc. (Provision of Information) Regulations (Northern Ireland) 2000[^f00074] (provision of information after receipt of an earmarking order) add—
 
 > **11. Provision of information – general**
 >
@@ -85,14 +85,14 @@ Regulation 31
 
 .
 
-**8.**[^key-7c6edae46174ef9b6c8a5923d6654123] In the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^f00076]—
+**8.**[^c-7c6edae46174ef9b6c8a5923d6654123] In the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^f00076]—
 
 - (a) in regulation 1(5) for “Without” substitute “Subject to the following provisions of these Regulations, without”;
 - (b) in regulation 8(6)(a) (bought out benefits) for “sent to that person at his last known address” substitute “given in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents)”;
 - (c) in regulation 10(5)(a) (transfer of a person’s pension credit rights without consent) for “sent to that person at his last known address” substitute “given in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents)”;
 - (d) in regulation 15(5)(b) (further conditions on which liability may be discharged) for “sent to that person at his last known address” substitute “given in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2014 (giving information and documents)”.
 
-**9.**[^key-d6ff6dd75f8d07b8a28bf6525ee54093] In the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^f00077]—
+**9.**[^c-d6ff6dd75f8d07b8a28bf6525ee54093] In the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^f00077]—
 
 - (a) in regulation 1(3) (interpretation)—
   - (i) in the definition of “non-contributing member”[^f00078]—
@@ -209,13 +209,13 @@ Regulation 31
 
     .
 
-**10.**[^key-352f339c59b3bd9f01d2e79c05b5d962] In regulation 5A of the Personal Pension Schemes (Payments by Employers) Regulations (Northern Ireland) 2000[^f00085] (the issue of payment statements to an employee) after paragraph (5) add—
+**10.**[^c-352f339c59b3bd9f01d2e79c05b5d962] In regulation 5A of the Personal Pension Schemes (Payments by Employers) Regulations (Northern Ireland) 2000[^f00085] (the issue of payment statements to an employee) after paragraph (5) add—
 
 > (6) A statement referred to in paragraph (1) may be issued in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
 
 .
 
-**11.**[^key-800a2a0f1432530247998f732c205283] In regulation 7 of the Occupational Pension Schemes (Winding Up Notices and Reports, etc.) Regulations (Northern Ireland) 2002[^f00086] (applications to the Authority to modify schemes to secure winding up)—
+**11.**[^c-800a2a0f1432530247998f732c205283] In regulation 7 of the Occupational Pension Schemes (Winding Up Notices and Reports, etc.) Regulations (Northern Ireland) 2002[^f00086] (applications to the Authority to modify schemes to secure winding up)—
 
 - (a) in paragraph (3) for sub-paragraph (a) substitute—
 
@@ -233,24 +233,24 @@ Regulation 31
 
   .
 
-**12.**[^key-ff6186519b9f4eb77b9352d487a155f8] In regulation 13 of the Occupational Pension Schemes (Independent Trustee) Regulations (Northern Ireland) 2005[^f00087] (disclosure requirements and penalty) after paragraph (8) add—
+**12.**[^c-ff6186519b9f4eb77b9352d487a155f8] In regulation 13 of the Occupational Pension Schemes (Independent Trustee) Regulations (Northern Ireland) 2005[^f00087] (disclosure requirements and penalty) after paragraph (8) add—
 
 > (9) The appointed trustee may give any information under this regulation in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
 
 .
 
-**13.**[^key-5cb6796d1753897e76727c544486665d] In the Occupational Pension Schemes (Winding up, etc.) Regulations (Northern Ireland) 2005[^f00088]—
+**13.**[^c-5cb6796d1753897e76727c544486665d] In the Occupational Pension Schemes (Winding up, etc.) Regulations (Northern Ireland) 2005[^f00088]—
 
 - (a) in regulation 6(6) (adjustments to discretionary awards) for “given by post” substitute “given in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents)”;
 - (b) in regulation 7(6) (adjustments to survivors’ benefits) for “given by post” substitute “given in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).”.
 
-**14.**[^key-f1626cd98a3d5c0e7f2787ccd4d91fc7] In regulation 11 of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006[^f00089] (requirement to provide information) after paragraph (2) add—
+**14.**[^c-f1626cd98a3d5c0e7f2787ccd4d91fc7] In regulation 11 of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006[^f00089] (requirement to provide information) after paragraph (2) add—
 
 > (3) Information provided under this regulation may be provided in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
 
 .
 
-**15.**[^key-0d517e4b2e4037300d1465071040edb5] In the Occupational Pension Schemes (Payments to Employer) Regulations (Northern Ireland) 2006[^f00090]—
+**15.**[^c-0d517e4b2e4037300d1465071040edb5] In the Occupational Pension Schemes (Payments to Employer) Regulations (Northern Ireland) 2006[^f00090]—
 
 - (a) in regulation 10 (notification to members) after paragraph (3) add—
 
@@ -263,7 +263,7 @@ Regulation 31
 
   .
 
-**16.**[^key-fa716acdf6bc28e26affbed63bfdec2a] In regulation 20 of the Pensions (2008 Act) (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Provisions) Regulations (Northern Ireland) 2012[^f00091] for paragraph (4) (amendment of the Stakeholder Pension Schemes Regulations) substitute—
+**16.**[^c-fa716acdf6bc28e26affbed63bfdec2a] In regulation 20 of the Pensions (2008 Act) (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Provisions) Regulations (Northern Ireland) 2012[^f00091] for paragraph (4) (amendment of the Stakeholder Pension Schemes Regulations) substitute—
 
 > (4) In Schedule 3 (information for members)—
 >
@@ -274,7 +274,7 @@ Regulation 31
 
 ## Annotations
 
-[^key-91921c4d8c0ab432f9fa40ae3ce227ea]: Commencement: Sch. 9 para. 1 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-91921c4d8c0ab432f9fa40ae3ce227ea]: Commencement: Sch. 9 para. 1 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00063]: Footnote: [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37); relevant amending provisions are [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300) and [S.R. 2012 No. 124](https://www.legislation.gov.uk/nisr/2012/124)
 
@@ -282,41 +282,41 @@ Regulation 31
 
 [^f00065]: Footnote: Regulation 9(6) was amended by paragraph 26(12) of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300) and Article 11 of [S.R. 2012 No. 124](https://www.legislation.gov.uk/nisr/2012/124)
 
-[^key-8a014f587b15f9038bc4f115c64f04a4]: Commencement: Sch. 9 para. 2 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-8a014f587b15f9038bc4f115c64f04a4]: Commencement: Sch. 9 para. 2 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00066]: Footnote: [S.R. 1996 No. 493](https://www.legislation.gov.uk/nisr/1996/493) to which there are amendments not relevant to these Regulations
 
-[^key-b86e23be525b20b249b5feb134d9986e]: Commencement: Sch. 9 para. 3 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-b86e23be525b20b249b5feb134d9986e]: Commencement: Sch. 9 para. 3 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00067]: Footnote: [S.R. 1996 No. 619](https://www.legislation.gov.uk/nisr/1996/619); regulation 11(6) was amended by regulation 6 of [S.R. 2009 No. 115](https://www.legislation.gov.uk/nisr/2009/115)
 
-[^key-00c619e4d8272aa617857363a08381f7]: Commencement: Sch. 9 para. 4 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-00c619e4d8272aa617857363a08381f7]: Commencement: Sch. 9 para. 4 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00068]: Footnote: [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621) to which there are amendments not relevant to these Regulations
 
-[^key-94ce47d8312f359ac2abdb80277f4e1c]: Commencement: Sch. 9 para. 5 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-94ce47d8312f359ac2abdb80277f4e1c]: Commencement: Sch. 9 para. 5 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00069]: Footnote: [S.R. 1997 No. 40](https://www.legislation.gov.uk/nisr/1997/40); relevant amending Regulations are [S.R. 1997 No. 544](https://www.legislation.gov.uk/nisr/1997/544), [S.R. 2005 No. 421](https://www.legislation.gov.uk/nisr/2005/421) and [S.R. 2006 No. 141](https://www.legislation.gov.uk/nisr/2006/141)
 
 [^f00070]: Footnote: Paragraph (2) was substituted by regulation 2(3)(b) of [S.R. 2005 No. 421](https://www.legislation.gov.uk/nisr/2005/421)
 
-[^key-c71d90420cd75a025e02f71bc1628441]: Textual amendment: [Sch. 9 para. 5(b)](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/5/b) revoked (1.4.2016) by [The Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/141)](https://www.legislation.gov.uk/nisr/2016/141), [regs. 1](https://www.legislation.gov.uk/nisr/2016/141/regulation/1), [3(f)](https://www.legislation.gov.uk/nisr/2016/141/regulation/3/f)
+[^c-c71d90420cd75a025e02f71bc1628441]: Textual amendment: [Sch. 9 para. 5(b)](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/5/b) revoked (1.4.2016) by [The Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/141)](https://www.legislation.gov.uk/nisr/2016/141), [regs. 1](https://www.legislation.gov.uk/nisr/2016/141/regulation/1), [3(f)](https://www.legislation.gov.uk/nisr/2016/141/regulation/3/f)
 
-[^key-7812db27b4a9750fa78aa9e2cca8bb43]: Commencement: Sch. 9 para. 6 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-7812db27b4a9750fa78aa9e2cca8bb43]: Commencement: Sch. 9 para. 6 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00073]: Footnote: [S.R. 1997 No. 159](https://www.legislation.gov.uk/nisr/1997/159); regulation 6 was amended by paragraph 42 of Schedule 2 to [S.R. 2005 No. 433](https://www.legislation.gov.uk/nisr/2005/433)
 
-[^key-26f890c331ace1443ef73d3fa27c1dd8]: Commencement: Sch. 9 para. 7 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-26f890c331ace1443ef73d3fa27c1dd8]: Commencement: Sch. 9 para. 7 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00074]: Footnote: [S.R. 2000 No. 142](https://www.legislation.gov.uk/nisr/2000/142) to which there are amendments not relevant to these Regulations
 
 [^f00075]: Footnote: [2001 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9); the definition of “electronic communication” in section 4(1) was amended by paragraph 170 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-7c6edae46174ef9b6c8a5923d6654123]: Commencement: Sch. 9 para. 8 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-7c6edae46174ef9b6c8a5923d6654123]: Commencement: Sch. 9 para. 8 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00076]: Footnote: [S.R. 2000 No. 146](https://www.legislation.gov.uk/nisr/2000/146) to which there are amendments not relevant to these Regulations
 
-[^key-d6ff6dd75f8d07b8a28bf6525ee54093]: Commencement: Sch. 9 para. 9 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-d6ff6dd75f8d07b8a28bf6525ee54093]: Commencement: Sch. 9 para. 9 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00077]: Footnote: [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262); relevant amending provisions are [S.R. 2002 No. 410](https://www.legislation.gov.uk/nisr/2002/410), [S.R. 2008 No. 365](https://www.legislation.gov.uk/nisr/2008/365), [S.R. 2010 No. 373](https://www.legislation.gov.uk/nisr/2010/373) and S.R. 2012 Nos. [120](https://www.legislation.gov.uk/nisr/2012/120) and [294](https://www.legislation.gov.uk/nisr/2012/294)
 
@@ -334,30 +334,30 @@ Regulation 31
 
 [^f00084]: Footnote: Schedule 3 was added by Schedule 1 to [S.R. 2010 No. 373](https://www.legislation.gov.uk/nisr/2010/373) and paragraph 6 was amended by regulation 13(4) of [S.R. 2012 No. 120](https://www.legislation.gov.uk/nisr/2012/120)
 
-[^key-352f339c59b3bd9f01d2e79c05b5d962]: Commencement: Sch. 9 para. 10 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-352f339c59b3bd9f01d2e79c05b5d962]: Commencement: Sch. 9 para. 10 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00085]: Footnote: [S.R. 2000 No. 349](https://www.legislation.gov.uk/nisr/2000/349); regulation 5A was inserted by regulation 6 of [S.R. 2006 No. 141](https://www.legislation.gov.uk/nisr/2006/141)
 
-[^key-800a2a0f1432530247998f732c205283]: Commencement: Sch. 9 para. 11 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-800a2a0f1432530247998f732c205283]: Commencement: Sch. 9 para. 11 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00086]: Footnote: [S.R. 2002 No. 74](https://www.legislation.gov.uk/nisr/2002/74) to which there are amendments not relevant to these Regulations
 
-[^key-ff6186519b9f4eb77b9352d487a155f8]: Commencement: Sch. 9 para. 12 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-ff6186519b9f4eb77b9352d487a155f8]: Commencement: Sch. 9 para. 12 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00087]: Footnote: [S.R. 2005 No. 169](https://www.legislation.gov.uk/nisr/2005/169); regulation 13 was amended by regulation 15 of [S.R. 2009 No. 115](https://www.legislation.gov.uk/nisr/2009/115)
 
-[^key-5cb6796d1753897e76727c544486665d]: Commencement: Sch. 9 para. 13 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-5cb6796d1753897e76727c544486665d]: Commencement: Sch. 9 para. 13 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00088]: Footnote: [S.R. 2005 No. 171](https://www.legislation.gov.uk/nisr/2005/171) to which there are amendments not relevant to these Regulations
 
-[^key-f1626cd98a3d5c0e7f2787ccd4d91fc7]: Commencement: Sch. 9 para. 14 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-f1626cd98a3d5c0e7f2787ccd4d91fc7]: Commencement: Sch. 9 para. 14 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00089]: Footnote: [S.R. 2006 No. 48](https://www.legislation.gov.uk/nisr/2006/48) to which there are amendments not relevant to these Regulations
 
-[^key-0d517e4b2e4037300d1465071040edb5]: Commencement: Sch. 9 para. 15 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-0d517e4b2e4037300d1465071040edb5]: Commencement: Sch. 9 para. 15 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00090]: Footnote: [S.R. 2006 No. 161](https://www.legislation.gov.uk/nisr/2006/161) to which there are amendments not relevant to these Regulations
 
-[^key-fa716acdf6bc28e26affbed63bfdec2a]: Commencement: Sch. 9 para. 16 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-fa716acdf6bc28e26affbed63bfdec2a]: Commencement: Sch. 9 para. 16 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00091]: Footnote: [S.R. 2012 No. 120](https://www.legislation.gov.uk/nisr/2012/120)

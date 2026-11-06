@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Duration of orders[^key-f35c33faa1462f2910a37dd9e7f34ca4]
+## 16. Duration of orders[^c-f35c33faa1462f2910a37dd9e7f34ca4]
 
 *Extent: E+W+N.I.*
 
@@ -35,10 +35,10 @@ summary: ''
 
 (6) A new order may be made in anticipation of an earlier order or provision ceasing to be in force.
 
-(7)[^key-5f5dc79de4b0c1782fb5c2e5d61ad2a6] Subsections (2) and (4)(b) have effect subject to section 22E.
+(7)[^c-5f5dc79de4b0c1782fb5c2e5d61ad2a6] Subsections (2) and (4)(b) have effect subject to section 22E.
 
 ## Annotations
 
-[^key-f35c33faa1462f2910a37dd9e7f34ca4]: Commencement: S. 16 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)
+[^c-f35c33faa1462f2910a37dd9e7f34ca4]: Commencement: S. 16 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)
 
-[^key-5f5dc79de4b0c1782fb5c2e5d61ad2a6]: Textual amendment: S. 16(7) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 77](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/77); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(xv)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/xv)
+[^c-5f5dc79de4b0c1782fb5c2e5d61ad2a6]: Textual amendment: S. 16(7) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 77](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/77); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(xv)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/xv)

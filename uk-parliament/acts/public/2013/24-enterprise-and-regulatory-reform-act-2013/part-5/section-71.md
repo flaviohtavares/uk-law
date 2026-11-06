@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-8e9e405d8da719abf978fd7d25aa9730] In Part 14 of the Insolvency Act 1986 (public administration (England and Wales)), before section 399 and the cross-heading which precedes it insert—
+(1)[^c-8e9e405d8da719abf978fd7d25aa9730] In Part 14 of the Insolvency Act 1986 (public administration (England and Wales)), before section 399 and the cross-heading which precedes it insert—
 
 > **Adjudicators**
 >
@@ -38,14 +38,14 @@ summary: ''
 >
 > (4) The Secretary of State may appoint officers of the Secretary of State's department to assist adjudicators in the carrying out of their functions.
 
-(2)[^key-8e9e405d8da719abf978fd7d25aa9730] In Part 9 of that Act (bankruptcy), before Chapter 1 insert the Chapter set out in Schedule 18 (adjudicators: bankruptcy applications by debtors and bankruptcy orders).
+(2)[^c-8e9e405d8da719abf978fd7d25aa9730] In Part 9 of that Act (bankruptcy), before Chapter 1 insert the Chapter set out in Schedule 18 (adjudicators: bankruptcy applications by debtors and bankruptcy orders).
 
-(3)[^key-f1e10d00833422201c0e375265904924] Schedule 19 (adjudicators: minor and consequential amendments) has effect.
+(3)[^c-f1e10d00833422201c0e375265904924] Schedule 19 (adjudicators: minor and consequential amendments) has effect.
 
 ## Annotations
 
 [^c2181337]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2013/24/section/71) partly in force; [s. 71](https://www.legislation.gov.uk/ukpga/2013/24/section/71) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-8e9e405d8da719abf978fd7d25aa9730]: Commencement: [S. 71(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/71/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/71/2) in force at 6.4.2016 in so far as not already in force by [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2)
+[^c-8e9e405d8da719abf978fd7d25aa9730]: Commencement: [S. 71(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/71/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/71/2) in force at 6.4.2016 in so far as not already in force by [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2)
 
-[^key-f1e10d00833422201c0e375265904924]: Commencement: [S. 71(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/71/3) in force at 6.4.2016 by [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2)
+[^c-f1e10d00833422201c0e375265904924]: Commencement: [S. 71(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/71/3) in force at 6.4.2016 by [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2)

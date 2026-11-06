@@ -24,7 +24,7 @@ summary: ''
 
 Section 170
 
-### 1. Applications for IP address suspension orders[^key-e3fb586a349f092172877634db528250]
+### 1. Applications for IP address suspension orders[^c-e3fb586a349f092172877634db528250]
 
 (1) An appropriate officer may make an application to a judge for an IP address suspension order.
 
@@ -34,7 +34,7 @@ Section 170
 
 (4) “**Specified**” means specified in the order.
 
-### 2. Conditions for making an IP address suspension order[^key-0b6f65d993fbdd043e9b1c3ab778cbb9]
+### 2. Conditions for making an IP address suspension order[^c-0b6f65d993fbdd043e9b1c3ab778cbb9]
 
 (1) A judge may grant an application for an IP address suspension order if satisfied that there are reasonable grounds to believe that conditions 1 to 4 are met in relation to the IP address to which the application relates.
 
@@ -54,7 +54,7 @@ Section 170
 - (a) access to the IP address will not be prevented unless an IP address suspension order is made, or
 - (b) if access to the IP address is prevented otherwise than in accordance with an IP address suspension order, there will be serious prejudice to the prevention, restriction or disruption of the serious crime for the purposes of which the IP address is being used.
 
-### 3. Applications for domain name suspension orders[^key-c47b615af2b92f25db3f9c29844be82d]
+### 3. Applications for domain name suspension orders[^c-c47b615af2b92f25db3f9c29844be82d]
 
 (1) An appropriate officer may make an application to a judge for a domain name suspension order.
 
@@ -69,7 +69,7 @@ to prevent access to a specified internet domain name for a specified period.
 
 (4) “**Specified**” means specified in the order.
 
-### 4. Conditions for making a domain name suspension order[^key-b369d7beeda07c202a9862680cb65a96]
+### 4. Conditions for making a domain name suspension order[^c-b369d7beeda07c202a9862680cb65a96]
 
 (1) A judge may grant an application for a domain name suspension order if satisfied that there are reasonable grounds to believe that conditions 1 to 4 are met in relation to the internet domain name to which the application relates.
 
@@ -91,7 +91,7 @@ to prevent access to a specified internet domain name for a specified period.
 - (a) access to the internet domain name will not be prevented unless a domain name suspension order is made, or
 - (b) if access to the internet domain name is prevented otherwise than in accordance with a domain name suspension order, there will be serious prejudice to the prevention, restriction or disruption of the serious crime for the purposes of which the internet domain name is being, or will be, used.
 
-### 5. Applications for suspension orders: non-disclosure duty[^key-b82498ef66965b8722e22ebdc7fe8900]
+### 5. Applications for suspension orders: non-disclosure duty[^c-b82498ef66965b8722e22ebdc7fe8900]
 
 (1) This paragraph applies where notice of an application for a suspension order is given to the person against whom the order is sought.
 
@@ -111,7 +111,7 @@ to prevent access to a specified internet domain name for a specified period.
 - (a) if the suspension order does not impose a non-disclosure requirement under paragraph 6, when the suspension order is made, or
 - (b) if the suspension order imposes a non-disclosure requirement under paragraph 6, when that requirement expires.
 
-### 6. Inclusion of non-disclosure requirements in suspension orders[^key-105a00fea3b570254777d028f064785d]
+### 6. Inclusion of non-disclosure requirements in suspension orders[^c-105a00fea3b570254777d028f064785d]
 
 (1) A suspension order may impose a non-disclosure requirement on the person against whom the order is made.
 
@@ -122,7 +122,7 @@ to prevent access to a specified internet domain name for a specified period.
 
 (3) A suspension order that imposes a non-disclosure requirement must specify or describe when the requirement is to expire.
 
-### 7. Discharge and variation of suspension orders[^key-6dcdd1cd73f3baaf5bd1693f1cbe4fd8]
+### 7. Discharge and variation of suspension orders[^c-6dcdd1cd73f3baaf5bd1693f1cbe4fd8]
 
 (1) A judge may discharge or vary a suspension order on an application by—
 
@@ -135,7 +135,7 @@ to prevent access to a specified internet domain name for a specified period.
 
 (4) Sub-paragraph (1) is subject to paragraph 8.
 
-### 8. Extension of suspension orders[^key-fa718c83ec62dee9137d5d8844eccaa4]
+### 8. Extension of suspension orders[^c-fa718c83ec62dee9137d5d8844eccaa4]
 
 (1) An appropriate officer may make an application to a judge for the extension of the specified period.
 
@@ -151,7 +151,7 @@ to prevent access to a specified internet domain name for a specified period.
 
 (7) The specified period may be extended more than once.
 
-### 9. Discharge and variation of non-disclosure orders[^key-1cdd602bd54259db58e390e7b3c2a766]
+### 9. Discharge and variation of non-disclosure orders[^c-1cdd602bd54259db58e390e7b3c2a766]
 
 (1) A judge may discharge or vary a non-disclosure order on an application by—
 
@@ -163,7 +163,7 @@ to prevent access to a specified internet domain name for a specified period.
 - (a) paragraph 5(4) (non-disclosure order on dismissal of application), or
 - (b) paragraph 7(2) (non-disclosure order on discharge of suspension order).
 
-### 10. Applications: further provision[^key-60aad226e5706674c7f6238ad04728ae]
+### 10. Applications: further provision[^c-60aad226e5706674c7f6238ad04728ae]
 
 (1) An application under this Schedule made by an appropriate officer may be made without notice to a judge in chambers.
 
@@ -174,7 +174,7 @@ to prevent access to a specified internet domain name for a specified period.
 
 (3) In England and Wales and Northern Ireland, an application under this Schedule made by an appropriate officer (other than an application for a suspension order) must be made by an appropriate officer who is within the same sub-paragraph of paragraph 14(1)(a) or (b) as the appropriate officer who made the application for the suspension order.
 
-### 11. Service of notices and orders[^key-fbf1cf2b074d1af5ff2105030baed73e]
+### 11. Service of notices and orders[^c-fbf1cf2b074d1af5ff2105030baed73e]
 
 (1) This paragraph applies to—
 
@@ -196,7 +196,7 @@ to prevent access to a specified internet domain name for a specified period.
 
 (5) The steps mentioned in sub-paragraph (4)(b) must be taken as soon as reasonably practicable after the notice or order is made available for inspection.
 
-### 12. Rules of court[^key-c40ed6136ff1a12d5c7143055730a83b]
+### 12. Rules of court[^c-c40ed6136ff1a12d5c7143055730a83b]
 
 Provision as to the practice and procedure to be followed in connection with proceedings relating to orders under this Schedule may be made—
 
@@ -204,11 +204,11 @@ Provision as to the practice and procedure to be followed in connection with pro
 - (b) in Northern Ireland, by Crown Court Rules;
 - (c) in Scotland (without prejudice to section 305 of the Criminal Procedure (Scotland) Act 1995), by rules of court made by Act of Adjournal.
 
-### 13. Effect of orders[^key-8ba3e36ae8d4323b2b815e1cdb507a4e]
+### 13. Effect of orders[^c-8ba3e36ae8d4323b2b815e1cdb507a4e]
 
 In England and Wales and Northern Ireland, an order under this Schedule has effect as if it were an order of the court.
 
-### 14. “Appropriate officer” and “senior officer”[^key-45bcf5d3624aeccd8860dd6c4f4a9de1]
+### 14. “Appropriate officer” and “senior officer”[^c-45bcf5d3624aeccd8860dd6c4f4a9de1]
 
 (1) In this Schedule “appropriate officer”—
 
@@ -233,7 +233,7 @@ In England and Wales and Northern Ireland, an order under this Schedule has effe
 - (d) a member of staff of the Financial Conduct Authority of at least the grade of head of department;
 - (e) a member of staff of the Gambling Commission of at least the grade of director.
 
-### 15. “Judge”[^key-17593099857704a5a5807865cd9fded1]
+### 15. “Judge”[^c-17593099857704a5a5807865cd9fded1]
 
 In this Schedule “**judge**” means—
 
@@ -241,11 +241,11 @@ In this Schedule “**judge**” means—
 - (b) in Northern Ireland, a judge of the Crown Court;
 - (c) in Scotland, a sheriff or summary sheriff.
 
-### 16. “IP address provider”[^key-bb6da3c7afb81386615fa444d1c8fc18]
+### 16. “IP address provider”[^c-bb6da3c7afb81386615fa444d1c8fc18]
 
 In this Schedule an “**IP address provider**” means a person (“**P**”) that allocates IP addresses, where those IP addresses have been allocated to P by another person for the purpose of onward allocation.
 
-### 17. “Internet domain registry” and “registrar”[^key-018c61e635609c191155c0d3874699f5]
+### 17. “Internet domain registry” and “registrar”[^c-018c61e635609c191155c0d3874699f5]
 
 (1) In this Schedule an “**internet domain registry**” means a person that—
 
@@ -263,11 +263,11 @@ In this Schedule an “**IP address provider**” means a person (“**P**”) t
 
 (5) “**Top level internet domain**” means an internet domain indicated by the last element of an internet domain name.
 
-**18.**[^key-5564f29a27b3868215de262c1b947133] (1) In this Schedule a “registrar” for an internet domain registry is a person authorised by the registry to act on behalf of end-users in connection with the registration of internet domain names.
+**18.**[^c-5564f29a27b3868215de262c1b947133] (1) In this Schedule a “registrar” for an internet domain registry is a person authorised by the registry to act on behalf of end-users in connection with the registration of internet domain names.
 
 (2) “**End-user**” means a person who has been, or wants to be, allocated an internet domain name that is or would be included in the register maintained by the registry.
 
-### 19. “Crime”, “serious crime” etc[^key-76416e87456e9f90ba718c6cad035836]
+### 19. “Crime”, “serious crime” etc[^c-76416e87456e9f90ba718c6cad035836]
 
 (1) In this Schedule “**crime**” means conduct which—
 
@@ -281,7 +281,7 @@ In this Schedule an “**IP address provider**” means a person (“**P**”) t
 
 (3) In this Schedule serious crime is connected with unlicensed gambling if the offence, or one of the offences, which is or would be constituted by the conduct concerned is an offence under section 33 of the Gambling Act 2005.
 
-### 20. “UK person”[^key-5de99dc14711776c8e98fadcdd3a4560]
+### 20. “UK person”[^c-5de99dc14711776c8e98fadcdd3a4560]
 
 In this Schedule “**UK person**” means—
 
@@ -292,7 +292,7 @@ In this Schedule “**UK person**” means—
 - (e) a body incorporated under the law of a part of the United Kingdom, or
 - (f) an unincorporated association formed under the law of a part of the United Kingdom.
 
-### 21. Further interpretation[^key-5067515647eb654b9a05446da9e6475c]
+### 21. Further interpretation[^c-5067515647eb654b9a05446da9e6475c]
 
 (1) This paragraph applies for the interpretation of this Schedule.
 
@@ -315,44 +315,44 @@ In this Schedule “**UK person**” means—
 
 ## Annotations
 
-[^key-e3fb586a349f092172877634db528250]: Commencement: Sch. 18 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-e3fb586a349f092172877634db528250]: Commencement: Sch. 18 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-0b6f65d993fbdd043e9b1c3ab778cbb9]: Commencement: Sch. 18 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-0b6f65d993fbdd043e9b1c3ab778cbb9]: Commencement: Sch. 18 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-c47b615af2b92f25db3f9c29844be82d]: Commencement: Sch. 18 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c47b615af2b92f25db3f9c29844be82d]: Commencement: Sch. 18 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-b369d7beeda07c202a9862680cb65a96]: Commencement: Sch. 18 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-b369d7beeda07c202a9862680cb65a96]: Commencement: Sch. 18 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-b82498ef66965b8722e22ebdc7fe8900]: Commencement: Sch. 18 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-b82498ef66965b8722e22ebdc7fe8900]: Commencement: Sch. 18 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-105a00fea3b570254777d028f064785d]: Commencement: Sch. 18 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-105a00fea3b570254777d028f064785d]: Commencement: Sch. 18 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-6dcdd1cd73f3baaf5bd1693f1cbe4fd8]: Commencement: Sch. 18 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-6dcdd1cd73f3baaf5bd1693f1cbe4fd8]: Commencement: Sch. 18 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-fa718c83ec62dee9137d5d8844eccaa4]: Commencement: Sch. 18 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-fa718c83ec62dee9137d5d8844eccaa4]: Commencement: Sch. 18 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-1cdd602bd54259db58e390e7b3c2a766]: Commencement: Sch. 18 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-1cdd602bd54259db58e390e7b3c2a766]: Commencement: Sch. 18 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-60aad226e5706674c7f6238ad04728ae]: Commencement: Sch. 18 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-60aad226e5706674c7f6238ad04728ae]: Commencement: Sch. 18 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-fbf1cf2b074d1af5ff2105030baed73e]: Commencement: Sch. 18 para. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-fbf1cf2b074d1af5ff2105030baed73e]: Commencement: Sch. 18 para. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-c40ed6136ff1a12d5c7143055730a83b]: Commencement: Sch. 18 para. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c40ed6136ff1a12d5c7143055730a83b]: Commencement: Sch. 18 para. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-8ba3e36ae8d4323b2b815e1cdb507a4e]: Commencement: Sch. 18 para. 13 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8ba3e36ae8d4323b2b815e1cdb507a4e]: Commencement: Sch. 18 para. 13 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-45bcf5d3624aeccd8860dd6c4f4a9de1]: Commencement: Sch. 18 para. 14 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-45bcf5d3624aeccd8860dd6c4f4a9de1]: Commencement: Sch. 18 para. 14 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-17593099857704a5a5807865cd9fded1]: Commencement: Sch. 18 para. 15 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-17593099857704a5a5807865cd9fded1]: Commencement: Sch. 18 para. 15 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-bb6da3c7afb81386615fa444d1c8fc18]: Commencement: Sch. 18 para. 16 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-bb6da3c7afb81386615fa444d1c8fc18]: Commencement: Sch. 18 para. 16 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-018c61e635609c191155c0d3874699f5]: Commencement: Sch. 18 para. 17 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-018c61e635609c191155c0d3874699f5]: Commencement: Sch. 18 para. 17 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-5564f29a27b3868215de262c1b947133]: Commencement: Sch. 18 para. 18 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5564f29a27b3868215de262c1b947133]: Commencement: Sch. 18 para. 18 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-76416e87456e9f90ba718c6cad035836]: Commencement: Sch. 18 para. 19 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-76416e87456e9f90ba718c6cad035836]: Commencement: Sch. 18 para. 19 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-5de99dc14711776c8e98fadcdd3a4560]: Commencement: Sch. 18 para. 20 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5de99dc14711776c8e98fadcdd3a4560]: Commencement: Sch. 18 para. 20 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-5067515647eb654b9a05446da9e6475c]: Commencement: Sch. 18 para. 21 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5067515647eb654b9a05446da9e6475c]: Commencement: Sch. 18 para. 21 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85A. Remote observation and recording of proceedings by direction of a court or tribunal[^key-f0d1e4558dc139b8916e64a5870e6ac8]
+## 85A. Remote observation and recording of proceedings by direction of a court or tribunal[^c-f0d1e4558dc139b8916e64a5870e6ac8]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0d1e4558dc139b8916e64a5870e6ac8]: Textual amendment: [Pt. 7ZA](https://www.legislation.gov.uk/ukpga/2003/39/part/7ZA) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 198(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/198/1), [208(4)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/aa)
+[^c-f0d1e4558dc139b8916e64a5870e6ac8]: Textual amendment: [Pt. 7ZA](https://www.legislation.gov.uk/ukpga/2003/39/part/7ZA) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 198(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/198/1), [208(4)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/aa)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. Notifying potential claimants after bar date has passed[^key-208692d52662d21df701085fc595617f]
+## 111. Notifying potential claimants after bar date has passed[^c-208692d52662d21df701085fc595617f]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ that there is a customer who is eligible to make a relevant funds claim but that
 
 ## Annotations
 
-[^key-208692d52662d21df701085fc595617f]: Commencement: Rule 111 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-208692d52662d21df701085fc595617f]: Commencement: Rule 111 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

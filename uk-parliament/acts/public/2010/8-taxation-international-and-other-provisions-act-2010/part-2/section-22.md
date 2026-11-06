@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Credit for foreign tax on overlap profit if credit for that tax already allowed[^key-f270dce9ca0dd36bb8eec573c60e29e3]
+## 22. Credit for foreign tax on overlap profit if credit for that tax already allowed[^c-f270dce9ca0dd36bb8eec573c60e29e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f270dce9ca0dd36bb8eec573c60e29e3]: Textual amendment: [Ss. 22-24](https://www.legislation.gov.uk/ukpga/2010/8/section/22) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 60](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/60), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-f270dce9ca0dd36bb8eec573c60e29e3]: Textual amendment: [Ss. 22-24](https://www.legislation.gov.uk/ukpga/2010/8/section/22) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 60](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/60), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

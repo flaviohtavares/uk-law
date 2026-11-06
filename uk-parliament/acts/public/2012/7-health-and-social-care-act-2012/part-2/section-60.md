@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Co-operation with bodies exercising functions in relation to public health[^key-c3fab133a78a406717f9d273a8b602f6]
+## 60. Co-operation with bodies exercising functions in relation to public health[^c-c3fab133a78a406717f9d273a8b602f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3fab133a78a406717f9d273a8b602f6]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2012/7/section/60) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-c3fab133a78a406717f9d273a8b602f6]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2012/7/section/60) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

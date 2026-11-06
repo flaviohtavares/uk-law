@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 99a. Appeals[^key-fb433c72d8054d5b1c598e7b9f5482c6]
+## Article 99a. Appeals[^c-fb433c72d8054d5b1c598e7b9f5482c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,4 +94,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb433c72d8054d5b1c598e7b9f5482c6]: Textual amendment: [Art. 99a](https://www.legislation.gov.uk/eur/2013/1308/article/99) inserted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/828/regulation/6) (as amended by [S.I. 2020/1446](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/7/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb433c72d8054d5b1c598e7b9f5482c6]: Textual amendment: [Art. 99a](https://www.legislation.gov.uk/eur/2013/1308/article/99) inserted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/828/regulation/6) (as amended by [S.I. 2020/1446](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/7/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

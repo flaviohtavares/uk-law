@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Restrictions on the use of lamps other than those to which regulation 27 refers[^key-18108412ca0d9453237df154461e2574]
+## 30. Restrictions on the use of lamps other than those to which regulation 27 refers[^c-18108412ca0d9453237df154461e2574]
 
 *Extent: N.I.*
 
@@ -48,20 +48,20 @@ TABLE
 </tbody>
 </table>
 
-[^key-668de269befe3bceded0435bf646c830][^key-ea6eba76c644f1c7004f08102a40cd31][^key-25052229d4b0a74689562620b7ed001b][^key-479ae0b56998cbd5b49e059b92b19fd9][^key-5cd3c85da89e2638a7e12a59a378e1c7][^key-99b2f9a5aeb4134c1098fbe24a7fc700]
+[^c-668de269befe3bceded0435bf646c830][^c-ea6eba76c644f1c7004f08102a40cd31][^c-25052229d4b0a74689562620b7ed001b][^c-479ae0b56998cbd5b49e059b92b19fd9][^c-5cd3c85da89e2638a7e12a59a378e1c7][^c-99b2f9a5aeb4134c1098fbe24a7fc700]
 
 ## Annotations
 
-[^key-18108412ca0d9453237df154461e2574]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2000/169/regulation/30) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-18108412ca0d9453237df154461e2574]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2000/169/regulation/30) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-668de269befe3bceded0435bf646c830]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/nisr/2000/169/regulation/30) Table: full stop substituted for word (24.3.2011) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/49)](https://www.legislation.gov.uk/nisr/2011/49), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/49/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2011/49/regulation/6/2)
+[^c-668de269befe3bceded0435bf646c830]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/nisr/2000/169/regulation/30) Table: full stop substituted for word (24.3.2011) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/49)](https://www.legislation.gov.uk/nisr/2011/49), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/49/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2011/49/regulation/6/2)
 
-[^key-ea6eba76c644f1c7004f08102a40cd31]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/nisr/2000/169/regulation/30) Table deleted (24.3.2011) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/49)](https://www.legislation.gov.uk/nisr/2011/49), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/49/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2011/49/regulation/6/3)
+[^c-ea6eba76c644f1c7004f08102a40cd31]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/nisr/2000/169/regulation/30) Table deleted (24.3.2011) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/49)](https://www.legislation.gov.uk/nisr/2011/49), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/49/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2011/49/regulation/6/3)
 
-[^key-25052229d4b0a74689562620b7ed001b]: Textual amendment: Word in [reg. 30](https://www.legislation.gov.uk/nisr/2000/169/regulation/30) Table omitted (5.7.2007) by virtue of [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/239)](https://www.legislation.gov.uk/nisr/2007/239), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/239/regulation/1/1), [7(a)](https://www.legislation.gov.uk/nisr/2007/239/regulation/7/a)
+[^c-25052229d4b0a74689562620b7ed001b]: Textual amendment: Word in [reg. 30](https://www.legislation.gov.uk/nisr/2000/169/regulation/30) Table omitted (5.7.2007) by virtue of [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/239)](https://www.legislation.gov.uk/nisr/2007/239), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/239/regulation/1/1), [7(a)](https://www.legislation.gov.uk/nisr/2007/239/regulation/7/a)
 
-[^key-479ae0b56998cbd5b49e059b92b19fd9]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/nisr/2000/169/regulation/30) Table inserted (5.7.2007) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/239)](https://www.legislation.gov.uk/nisr/2007/239), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/239/regulation/1/1), [7(b)](https://www.legislation.gov.uk/nisr/2007/239/regulation/7/b)
+[^c-479ae0b56998cbd5b49e059b92b19fd9]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/nisr/2000/169/regulation/30) Table inserted (5.7.2007) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/239)](https://www.legislation.gov.uk/nisr/2007/239), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/239/regulation/1/1), [7(b)](https://www.legislation.gov.uk/nisr/2007/239/regulation/7/b)
 
-[^key-5cd3c85da89e2638a7e12a59a378e1c7]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/nisr/2000/169/regulation/30) Table inserted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2011/329/regulation/10)
+[^c-5cd3c85da89e2638a7e12a59a378e1c7]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/nisr/2000/169/regulation/30) Table inserted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2011/329/regulation/10)
 
-[^key-99b2f9a5aeb4134c1098fbe24a7fc700]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/nisr/2000/169/regulation/30) Table inserted (24.3.2011) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/49)](https://www.legislation.gov.uk/nisr/2011/49), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/49/regulation/1/1), [6(4)](https://www.legislation.gov.uk/nisr/2011/49/regulation/6/4)
+[^c-99b2f9a5aeb4134c1098fbe24a7fc700]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/nisr/2000/169/regulation/30) Table inserted (24.3.2011) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/49)](https://www.legislation.gov.uk/nisr/2011/49), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/49/regulation/1/1), [6(4)](https://www.legislation.gov.uk/nisr/2011/49/regulation/6/4)

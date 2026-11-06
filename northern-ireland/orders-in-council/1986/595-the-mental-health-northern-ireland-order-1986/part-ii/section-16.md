@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Correspondence of detained patients[^key-b44947ec41d8893e8ba6121d3038d241][^key-c45064d02ead72a35fca36c03e785d56][^key-42056f7475fc7e2edadb439c11c20616]
+## 16. Correspondence of detained patients[^c-b44947ec41d8893e8ba6121d3038d241][^c-c45064d02ead72a35fca36c03e785d56][^c-42056f7475fc7e2edadb439c11c20616]
 
 *Extent: N.I.*
 
@@ -38,8 +38,8 @@ and any request for the purposes of sub-paragraph (a) shall be made by a notice 
 - (c) the Master (Care and Protection), any of the Lord Chief Justice's Visitors or any officer of the Office of Care and Protection;
 - (d) RQIA[^c21356801][^c21352681]. . . or any person appointed by RQIA under Article 87(1)(b) or (c);
 - (e) the Review Tribunal;
-- (f) any [^key-f696942f3b167ac2b5df28136fb3cb4b]... HSC[^c21355281] trust ;
-- (g) the Parliamentary Commissioner for Administration or the Northern Ireland Public Services Ombudsman[^key-b3c579b90d8a54f4682ab99e05280a9f] ;
+- (f) any [^c-f696942f3b167ac2b5df28136fb3cb4b]... HSC[^c21355281] trust ;
+- (g) the Parliamentary Commissioner for Administration or the Northern Ireland Public Services Ombudsman[^c-b3c579b90d8a54f4682ab99e05280a9f] ;
 - (h) any legally qualified person instructed by the patient to act as his legal adviser; or
 - (i) the European Commission on Human Rights or the European Court of Human Rights.
 
@@ -55,11 +55,11 @@ and any request for the purposes of sub-paragraph (a) shall be made by a notice 
 
 ## Annotations
 
-[^key-b44947ec41d8893e8ba6121d3038d241]: Modification: Art. 16 applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(m)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/m), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-b44947ec41d8893e8ba6121d3038d241]: Modification: Art. 16 applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(m)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/m), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
-[^key-c45064d02ead72a35fca36c03e785d56]: Modification: Art. 16 applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(m)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/m), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-c45064d02ead72a35fca36c03e785d56]: Modification: Art. 16 applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(m)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/m), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
 [^c17122751]: Textual amendment: SI 2001/1149
 
@@ -71,10 +71,10 @@ and any request for the purposes of sub-paragraph (a) shall be made by a notice 
 
 [^c21352681]: Textual amendment: Words in art. 16(3)(d) repealed (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [33](https://www.legislation.gov.uk/nia/2009/1/section/33), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/8/3), [Sch. 7](https://www.legislation.gov.uk/nia/2009/1/schedule/7); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-f696942f3b167ac2b5df28136fb3cb4b]: Textual amendment: Words in [art. 16(3)(f)](https://www.legislation.gov.uk/nisi/1986/595/article/16/3/f) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 70](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/70); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f696942f3b167ac2b5df28136fb3cb4b]: Textual amendment: Words in [art. 16(3)(f)](https://www.legislation.gov.uk/nisi/1986/595/article/16/3/f) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 70](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/70); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c21355281]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(d)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/d) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-b3c579b90d8a54f4682ab99e05280a9f]: Textual amendment: Words in art. 16(3)(g) substituted (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64(1)](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 2](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/2) (with ss. 23, 50(3))
+[^c-b3c579b90d8a54f4682ab99e05280a9f]: Textual amendment: Words in art. 16(3)(g) substituted (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64(1)](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 2](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/2) (with ss. 23, 50(3))
 
 [^c22527031]: Textual amendment: Words in art. 16(8) substituted (1.10.2011) by [Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2085/article/5/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/19)

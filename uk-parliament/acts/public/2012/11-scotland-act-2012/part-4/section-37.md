@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Time limits for appeals on devolution issues in criminal proceedings[^key-92e340196368b077db5b982b9f2e15d9]
+## 37. Time limits for appeals on devolution issues in criminal proceedings[^c-92e340196368b077db5b982b9f2e15d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ In Schedule 6 to the 1998 Act (devolution issues) after paragraph 13 insert—
 
 ## Annotations
 
-[^key-92e340196368b077db5b982b9f2e15d9]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2012/11/section/37) in force at 22.4.2013 by [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/6/article/2/d)
+[^c-92e340196368b077db5b982b9f2e15d9]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2012/11/section/37) in force at 22.4.2013 by [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/6/article/2/d)

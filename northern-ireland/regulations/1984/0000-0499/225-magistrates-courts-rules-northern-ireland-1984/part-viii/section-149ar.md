@@ -27,23 +27,23 @@ summary: ''
 - (a) within 14 days from the date on which the prosecutor has complied or purported to comply with section 3 of the Criminal Procedure and Investigations Act 1996 (disclosure by the prosecutor); or
 - (b) as soon as is reasonably practicable, where the application concerns a non-defendant who is to be invited to give, or has given, evidence for a defendant.
 
-[(2A) [^f00197] In respect of a [^key-69c240a90a9d546921116e10179f1296]... preliminary inquiry, notice under paragraph (1) shall be served on the clerk of petty sessions and on every other party to the proceedings not less than 14 days before the date fixed for the hearing.\]
+[(2A) [^f00197] In respect of a [^c-69c240a90a9d546921116e10179f1296]... preliminary inquiry, notice under paragraph (1) shall be served on the clerk of petty sessions and on every other party to the proceedings not less than 14 days before the date fixed for the hearing.\]
 
 (3) \[[^f00198] Subject to paragraph (3A),\] any party who wishes to oppose the application under paragraph (1) shall, within 14 days of the date on which the notice of the application was served on him, notify the clerk of petty sessions and every other party to the proceedings, in Form 88B, of his opposition.
 
-[(3A) [^f00199] In respect of a [^key-69c240a90a9d546921116e10179f1296]... preliminary inquiry, any party who wishes to oppose the application under paragraph (1) shall, within 7 days of the date on which the notice of the application was served on him, notify the clerk of petty sessions and every other party to the proceedings, in Form 88B, of his opposition.\]
+[(3A) [^f00199] In respect of a [^c-69c240a90a9d546921116e10179f1296]... preliminary inquiry, any party who wishes to oppose the application under paragraph (1) shall, within 7 days of the date on which the notice of the application was served on him, notify the clerk of petty sessions and every other party to the proceedings, in Form 88B, of his opposition.\]
 
 (4) A prosecutor who wants to adduce evidence of a defendant’s bad character or to cross examine a witness with a view to eliciting such evidence, under Article 6 of the 2004 Order, shall give notice in Form 88C.
 
 (5) \[[^f00200] Subject to paragraph (5A),\] notice under paragraph (4) shall be served on the clerk of petty sessions and on every other party to the proceedings at the same time as the prosecutor complies or purports to comply with section 3 of the Criminal Procedure and Investigations Act 1996.
 
-[(5A) [^f00201] In respect of a [^key-69c240a90a9d546921116e10179f1296]... preliminary inquiry, notice under paragraph (4) shall be served on the clerk of petty sessions and on every other party to the proceedings not less than 14 days before the date fixed for the hearing.\]
+[(5A) [^f00201] In respect of a [^c-69c240a90a9d546921116e10179f1296]... preliminary inquiry, notice under paragraph (4) shall be served on the clerk of petty sessions and on every other party to the proceedings not less than 14 days before the date fixed for the hearing.\]
 
 (6) A co-defendant who wants to adduce evidence of a defendant’s bad character or to cross examine a witness with a view to eliciting such evidence, under Article 6 of the 2004 Order, shall give notice in Form 88C.
 
 (7) \[[^f00202] Subject to paragraph (7A),\] notice under paragraph (6) shall be served on the clerk of petty sessions and on every other party to the proceedings within 14 days from the date on which the prosecutor has complied or purported to comply with section 3 of the Criminal Procedure and Investigations Act 1996.
 
-[(7A) [^f00203]In respect of a [^key-69c240a90a9d546921116e10179f1296]... preliminary inquiry, notice under paragraph (6) shall be served on the clerk of petty sessions and on every other party to the proceedings not less than 14 days before the date fixed for the hearing.\]
+[(7A) [^f00203]In respect of a [^c-69c240a90a9d546921116e10179f1296]... preliminary inquiry, notice under paragraph (6) shall be served on the clerk of petty sessions and on every other party to the proceedings not less than 14 days before the date fixed for the hearing.\]
 
 (8) An application by a defendant to exclude bad character evidence shall be in Form 88D and shall be served on the clerk of petty sessions and on every other party to the proceedings within 7 days from the date on which the notice under paragraph (4) or paragraph (6) was served on him.
 
@@ -62,7 +62,7 @@ summary: ''
 
 [^f00197]: Footnote: Rule 149AR (2A) inserted by [S.R. 2008 No. 361](https://www.legislation.gov.uk/nisr/2008/361) with effect from 1.10.08
 
-[^key-69c240a90a9d546921116e10179f1296]: Textual amendment: Words in [rule 149AR](https://www.legislation.gov.uk/nisr/1984/225/rule/149AR) omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(13)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/13) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
+[^c-69c240a90a9d546921116e10179f1296]: Textual amendment: Words in [rule 149AR](https://www.legislation.gov.uk/nisr/1984/225/rule/149AR) omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(13)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/13) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
 
 [^f00198]: Footnote: Words inserted by [S.R. 2008 No. 361](https://www.legislation.gov.uk/nisr/2008/361) with effect from 1.10.08
 

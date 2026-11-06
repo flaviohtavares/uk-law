@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Transfer of staff.[^key-8f0916f6d45f5f36a740d95bef885340]
+## 35. Transfer of staff.[^c-8f0916f6d45f5f36a740d95bef885340]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f0916f6d45f5f36a740d95bef885340]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/1997/44/section/35) repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2011/21/schedule/8/paragraph/8); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-8f0916f6d45f5f36a740d95bef885340]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/1997/44/section/35) repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2011/21/schedule/8/paragraph/8); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

@@ -61,13 +61,13 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
 - “**specified benefit**” means one or more of the following benefits—
   - (a) attendance allowance;
-  - (b) bereavement support payment under section 30 of the Pensions Act 2014;[^key-308e9d8cc9778835b2e79580b32a3aad]
+  - (b) bereavement support payment under section 30 of the Pensions Act 2014;[^c-308e9d8cc9778835b2e79580b32a3aad]
 
-    bereavement allowance; *(affected by repeal, see note)*[^key-308e9d8cc9778835b2e79580b32a3aad]
-  - (c) bereavement payment; *(affected by repeal, see note)*[^key-308e9d8cc9778835b2e79580b32a3aad]
+    bereavement allowance; *(affected by repeal, see note)*[^c-308e9d8cc9778835b2e79580b32a3aad]
+  - (c) bereavement payment; *(affected by repeal, see note)*[^c-308e9d8cc9778835b2e79580b32a3aad]
   - (d) carer's allowance;
   - (e) disability living allowance;
-  - (ee) employment and support allowance;[^key-67d74bfd0bb6f19df281c80fde51564c]
+  - (ee) employment and support allowance;[^c-67d74bfd0bb6f19df281c80fde51564c]
   - (f) incapacity benefit;
   - (g) income support;
   - (h) jobseeker's allowance;
@@ -559,9 +559,9 @@ A full regulatory impact assessment has not been produced for this Instrument as
 
 [^c1892486]: Marginal citation: *See* sections 172(1) and 173(1)(b) of the Social Security Administration Act 1992.
 
-[^key-308e9d8cc9778835b2e79580b32a3aad]: Textual amendment: Words in reg. 1(3) substituted (6.4.2017 coming into force in accordance with art. 1-3) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [30](https://www.legislation.gov.uk/uksi/2017/422/article/30) (with arts. 2, 3)
+[^c-308e9d8cc9778835b2e79580b32a3aad]: Textual amendment: Words in reg. 1(3) substituted (6.4.2017 coming into force in accordance with art. 1-3) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [30](https://www.legislation.gov.uk/uksi/2017/422/article/30) (with arts. 2, 3)
 
-[^key-67d74bfd0bb6f19df281c80fde51564c]: Textual amendment: Reg. 1(3)(ee) inserted (28.6.2010) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [8](https://www.legislation.gov.uk/uksi/2010/840/regulation/8)
+[^c-67d74bfd0bb6f19df281c80fde51564c]: Textual amendment: Reg. 1(3)(ee) inserted (28.6.2010) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [8](https://www.legislation.gov.uk/uksi/2010/840/regulation/8)
 
 [^c1892487]: Marginal citation: *See* sections 7B(6) and 7A(6) of the Social Security Administration Act 1992 for the definition of “local authority”.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Duration of HMO licence[^key-8e48326f91bb8eded24adb08fe7c465d]
+## 19. Duration of HMO licence[^c-8e48326f91bb8eded24adb08fe7c465d]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e48326f91bb8eded24adb08fe7c465d]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2016/22/section/19) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-8e48326f91bb8eded24adb08fe7c465d]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2016/22/section/19) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

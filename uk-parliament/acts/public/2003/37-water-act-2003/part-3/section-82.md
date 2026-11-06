@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Water conservation: requirements on relevant undertakers[^key-a16236d7db3f7a025eea8f49804e3b82]
+## 82. Water conservation: requirements on relevant undertakers[^c-a16236d7db3f7a025eea8f49804e3b82]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 3(2)(a) of the WIA (environmental duties in relation to proposals rel
 
 ## Annotations
 
-[^key-a16236d7db3f7a025eea8f49804e3b82]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2003/37/section/82) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(u)](https://www.legislation.gov.uk/uksi/2004/641/article/3/u) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-a16236d7db3f7a025eea8f49804e3b82]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2003/37/section/82) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(u)](https://www.legislation.gov.uk/uksi/2004/641/article/3/u) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

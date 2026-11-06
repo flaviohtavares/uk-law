@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 131. Restructuring regulations[^key-d11246de8b5c1247e7fb3808045a77f9]
+## 131. Restructuring regulations[^c-d11246de8b5c1247e7fb3808045a77f9]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Restructuring regulations are regulations which provide for the abolition of the
 
 ## Annotations
 
-[^key-d11246de8b5c1247e7fb3808045a77f9]: Commencement: S. 131 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)
+[^c-d11246de8b5c1247e7fb3808045a77f9]: Commencement: S. 131 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)

@@ -44,31 +44,31 @@ Coming into force
 
 7th February 2005
 
-The Secretary of State, in exercise of the powers conferred upon her by sections 13(4)(i), 17(3)(b), 17(4)(h), 17(5)(a)(i), 17(5)(a)(ii), 17(5)(b), 17(5)(c), 24(1), 29(6), 30(2), 34(5), 37(3)(a), 47(2)(a), 51(3), 54, 69(4), 71(4)(b), 71(5), 71(6), 78(1), 84(4), 87(3), 91, 167(4), 178(1)(b) and 197 of the Licensing Act 2003[^f00001], hereby makes the following Regulations:[^key-26f76395d53dab3fa287e3cefb709f6e]
+The Secretary of State, in exercise of the powers conferred upon her by sections 13(4)(i), 17(3)(b), 17(4)(h), 17(5)(a)(i), 17(5)(a)(ii), 17(5)(b), 17(5)(c), 24(1), 29(6), 30(2), 34(5), 37(3)(a), 47(2)(a), 51(3), 54, 69(4), 71(4)(b), 71(5), 71(6), 78(1), 84(4), 87(3), 91, 167(4), 178(1)(b) and 197 of the Licensing Act 2003[^f00001], hereby makes the following Regulations:[^c-26f76395d53dab3fa287e3cefb709f6e]
 
-## 1. Citation and commencement[^key-a0dbed986168f707da6240a63d800b90]
+## 1. Citation and commencement[^c-a0dbed986168f707da6240a63d800b90]
 
 These Regulations may be cited as the Licensing Act 2003 (Premises licences and club premises certificates) Regulations 2005 and shall come into force on 7th February 2005.
 
-## 2. Interpretation[^key-0895adf2806ffd1da19f1af704567a8a]
+## 2. Interpretation[^c-0895adf2806ffd1da19f1af704567a8a]
 
 (1) In these Regulations, unless the context requires otherwise—
 
 - “the Act” means the Licensing Act 2003;
-- “alternative licence condition” in relation to a premises licence means the condition that every supply of alcohol under the licence must be made or authorised by the management committee;[^key-245be834f938813e0876a58e16e02898]
+- “alternative licence condition” in relation to a premises licence means the condition that every supply of alcohol under the licence must be made or authorised by the management committee;[^c-245be834f938813e0876a58e16e02898]
 - “alternative scale plan” means a plan in a scale other than the standard scale;
 - “application” means an application made to a relevant licensing authority under Part 3 or Part 4 of the Act as the case may require and a reference to applications shall be construed accordingly;
 - “club” means a qualifying club within the meaning of section 61 of the Act;
 - “fire and other safety equipment” includes fire extinguishers, fire doors, fire alarms, marine safety equipment, marine evacuation equipment and other similar equipment;
 - “legible in all material respects” means that the information contained in the application, notice or representations is available to the recipient to no lesser extent than it would be if given by means of a document in written form;
-- “notice” (except in regulation 39B)[^key-d7d699ba95b8a8a0389db7a745769409] means a notice given to a relevant licensing authority under Part 3 or Part 4 of the Act as the case may require and a reference to notices shall be construed accordingly;
+- “notice” (except in regulation 39B)[^c-d7d699ba95b8a8a0389db7a745769409] means a notice given to a relevant licensing authority under Part 3 or Part 4 of the Act as the case may require and a reference to notices shall be construed accordingly;
 - “prescribed fee” in relation to an application or notice, shall be the fee for such application or notice calculated in accordance with regulations made by the Secretary of State under Part 3 and Part 4 of the Act or in accordance with an order made by the Secretary of State under Schedule 8 to the Act;
-- “relevant electronic facility” means the electronic assistance facility referred to in regulation 38 of the Provision of Services Regulations 2009 or any facility established and maintained by a licensing authority for the purpose of receiving applications, notices or representations electronically;[^key-f7593d41a14e1d7ae684787029d599e8]
+- “relevant electronic facility” means the electronic assistance facility referred to in regulation 38 of the Provision of Services Regulations 2009 or any facility established and maintained by a licensing authority for the purpose of receiving applications, notices or representations electronically;[^c-f7593d41a14e1d7ae684787029d599e8]
 - “relevant licensing authority” shall be construed in accordance with section 12, 68 or 171 of, or paragraph 1 or 13 of Schedule 8 to, the Act, as the case requires;
-- “representations” means representations made to a relevant licensing authority under Part 3, Part 4 or Part 8 of the Act as the case may require made by a responsible authority or any other person[^key-42d29d9aef03c81a9488dc190e69a5e7] in relation to an application or a review;
+- “representations” means representations made to a relevant licensing authority under Part 3, Part 4 or Part 8 of the Act as the case may require made by a responsible authority or any other person[^c-42d29d9aef03c81a9488dc190e69a5e7] in relation to an application or a review;
 - “review” means a review under Part 3, 4 or 8 of the Act as the case may require and a reference to reviews shall be construed accordingly;
-- “second appointed day” in relation to a premises licence, means the day as specified as such for the purposes of Part 1 of Schedule 8 to the Act and, in relation to a club premises certificate means the day as specified as such for the purposes of Part 2 of Schedule 8 to the Act .[^key-907d6eb479899c8be90f9a2368d09a36]
-- [^key-7aa6fec45cc3990f3fb5d9e8cf477671]...
+- “second appointed day” in relation to a premises licence, means the day as specified as such for the purposes of Part 1 of Schedule 8 to the Act and, in relation to a club premises certificate means the day as specified as such for the purposes of Part 2 of Schedule 8 to the Act .[^c-907d6eb479899c8be90f9a2368d09a36]
+- [^c-7aa6fec45cc3990f3fb5d9e8cf477671]...
 
 (2) For the purposes of these Regulations a reference to—
 
@@ -77,51 +77,51 @@ These Regulations may be cited as the Licensing Act 2003 (Premises licences and 
 
 ## PART 1 — INTRODUCTORY
 
-### 3. Scope of Regulations[^key-ae5f03f589393d0bec859265ee6d77d2]
+### 3. Scope of Regulations[^c-ae5f03f589393d0bec859265ee6d77d2]
 
 These Regulations apply to applications, notices, representations and reviews.
 
-**4.**[^key-1f7dd0e88e59f7bc45908de0fd82c676] A person applying for a premises licence, a provisional statement, a variation of a premises licence, a review of a premises licence or a transfer of a premises licence or giving an interim authority notice shall comply with the appropriate provisions of Parts 2 and 4.
+**4.**[^c-1f7dd0e88e59f7bc45908de0fd82c676] A person applying for a premises licence, a provisional statement, a variation of a premises licence, a review of a premises licence or a transfer of a premises licence or giving an interim authority notice shall comply with the appropriate provisions of Parts 2 and 4.
 
-**5.**[^key-27c9e99e2d443eb4be35fa921f578669] A club applying for a club premises certificate or a variation of a club premises certificate or a person applying for a review of a club premises certificate shall comply with the appropriate provisions of Parts 3 and 4.
+**5.**[^c-27c9e99e2d443eb4be35fa921f578669] A club applying for a club premises certificate or a variation of a club premises certificate or a person applying for a review of a club premises certificate shall comply with the appropriate provisions of Parts 3 and 4.
 
-**6.**[^key-73d982c0412fcd5813ab52122c7d4919] The relevant licensing authority in relation to an application, notice, representations or a review shall comply with the appropriate provisions of Parts 4 and 5.
+**6.**[^c-73d982c0412fcd5813ab52122c7d4919] The relevant licensing authority in relation to an application, notice, representations or a review shall comply with the appropriate provisions of Parts 4 and 5.
 
-### 7. Responsible authorities[^key-2f428efe933dd7d3d15b3d1b59f867a1]
+### 7. Responsible authorities[^c-2f428efe933dd7d3d15b3d1b59f867a1]
 
 For the purposes of sections 13(4) and 69(4), the local weights and measures authority (within the meaning of section 69 of the Weights and Measures Act 1985[^f00002]) for any area in which the premises is situated is a responsible authority.
 
-### 8. Person giving interim authority notice[^key-9627dc35b8f294972a612f13aacf4324]
+### 8. Person giving interim authority notice[^c-9627dc35b8f294972a612f13aacf4324]
 
 For the purposes of section 47(2)(a), a person has a prescribed interest in the premises concerned if he has a legal interest in the premises as freeholder or leaseholder.
 
-### 9. Rights of freeholder etc. to be notified of licensing matters[^key-a2620a5211595d1fbe5d127da4e9ea17]
+### 9. Rights of freeholder etc. to be notified of licensing matters[^c-a2620a5211595d1fbe5d127da4e9ea17]
 
 In a case of a person giving a notice of his property interest in any premises under section 178, that notice shall be in the form and shall contain the information set out in Schedule 1 and shall be accompanied by the prescribed fee.
 
 ## PART 2 — PREMISES LICENCES
 
-### 10. Premises licences[^key-f706b07ff97d75bce365c27c7c25ddab]
+### 10. Premises licences[^c-f706b07ff97d75bce365c27c7c25ddab]
 
 (1) An application for a premises licence under section 17 shall be in the form and shall contain the information set out in Schedule 2 and shall be accompanied by the prescribed fee.
 
 (2) Where the application includes an application for the alternative licence condition to be included in the licence the application shall be accompanied by the information set out in Schedule 4A in the form there set out.
 
-### 11. Provisional statements[^key-ca84a81bcac731f4b96d1c795f7bfd29]
+### 11. Provisional statements[^c-ca84a81bcac731f4b96d1c795f7bfd29]
 
 An application for a provisional statement under section 29 shall be in the form and shall contain the information set out in Schedule 3 and shall be accompanied by the prescribed fee.
 
-### 12. Variation of premises licence[^key-2556d6f47dc7a5b28b3cf3b661a21699]
+### 12. Variation of premises licence[^c-2556d6f47dc7a5b28b3cf3b661a21699]
 
 (1) Subject to paragraph (2) and regulation 13A, an application to vary a premises licence under section 34 shall be in the form and shall contain the information set out in Schedule 4 and shall be accompanied by the prescribed fee.
 
 (2) Where the application includes an application for the alternative licence condition to be included in the licence the application shall be accompanied by the information set out in Schedule 4A in the form there set out.
 
-### 13. Variation of premises licences to specify premises supervisor[^key-eb3f4ddcb928b1565e7e19d3a5b7dd05]
+### 13. Variation of premises licences to specify premises supervisor[^c-eb3f4ddcb928b1565e7e19d3a5b7dd05]
 
-An application to vary a premises licence so as to specify the individual named in the application as the premises supervisor under section 37 shall be in the form and shall contain the information set out in Schedule 5 and shall be accompanied by the prescribed fee [^key-07e31d319fbfc0e8a596b7b580ed817a]....
+An application to vary a premises licence so as to specify the individual named in the application as the premises supervisor under section 37 shall be in the form and shall contain the information set out in Schedule 5 and shall be accompanied by the prescribed fee [^c-07e31d319fbfc0e8a596b7b580ed817a]....
 
-### 13A. Variation of premises licence solely to include the alternative licence condition[^key-5984afc448be4faad3bf9e5102172833]
+### 13A. Variation of premises licence solely to include the alternative licence condition[^c-5984afc448be4faad3bf9e5102172833]
 
 An application to vary a premises licence under section 34 in which the only variation sought is the inclusion of the alternative licence condition shall be in the form and shall contain the information set out in Schedule 4A and shall be accompanied by the prescribed fee.
 
@@ -129,49 +129,49 @@ An application to vary a premises licence under section 34 in which the only var
 
 An application for minor variation of a premises licence under section 41A shall be in the form and shall contain the information set out in Schedule 4B and shall be accompanied by the prescribed fee.
 
-### 14. Transfer of premises licences[^key-b1466f0c83ececcf291065ed6f93f16a]
+### 14. Transfer of premises licences[^c-b1466f0c83ececcf291065ed6f93f16a]
 
 An application to transfer a premises licence under section 42 shall be in the form and shall contain the information set out in Schedule 6 and shall be accompanied by the prescribed fee.
 
-### 15. Interim authority notices[^key-a2ea6f8746c1d61df98636fc5f8ec3d8]
+### 15. Interim authority notices[^c-a2ea6f8746c1d61df98636fc5f8ec3d8]
 
 An interim authority notice given under section 47 shall be in the form and shall contain the information set out in Schedule 7 and shall be accompanied by the prescribed fee.
 
-### 16. Review of premises licences[^key-280df986e5f7a20968dcf1c36fc78e08]
+### 16. Review of premises licences[^c-280df986e5f7a20968dcf1c36fc78e08]
 
 An application for a review of a premises licence under section 51 shall be in the form and shall contain the information set out in Schedule 8.
 
-**16A.**[^key-a6622960707bb06a2ade78e637998633] An application for a review of a premises licence under section 53A shall be in the form and shall contain the information set out in Schedule 8A.
+**16A.**[^c-a6622960707bb06a2ade78e637998633] An application for a review of a premises licence under section 53A shall be in the form and shall contain the information set out in Schedule 8A.
 
 ## PART 3 — CLUB PREMISES CERTIFICATES
 
-### 17. Qualifying club[^key-fee5cad82a68b9c0458032f45d9c42c0]
+### 17. Qualifying club[^c-fee5cad82a68b9c0458032f45d9c42c0]
 
 A club applying for a club premises certificate under section 71 on or before making such an application shall make a declaration to the relevant licensing authority in the form and containing the information set out in Part A of Schedule 9.
 
-### 18. Club premises certificates[^key-3f79f8357ad70649fd79322aaebf385b]
+### 18. Club premises certificates[^c-3f79f8357ad70649fd79322aaebf385b]
 
 An application for a club premises certificate under section 71 shall be in the form and shall contain the information set out in Part B of Schedule 9 and shall be accompanied by the prescribed fee.
 
-### 19. Variation of club premises certificates[^key-16ae580c1faadee2af224733a3062f4d]
+### 19. Variation of club premises certificates[^c-16ae580c1faadee2af224733a3062f4d]
 
-An application to vary a club premises certificate under section 84 shall be in the form and shall contain the information set out in Schedule 10 and shall be accompanied by the prescribed fee [^key-02f5df7d26b130e8ee3c28904a936298]....
+An application to vary a club premises certificate under section 84 shall be in the form and shall contain the information set out in Schedule 10 and shall be accompanied by the prescribed fee [^c-02f5df7d26b130e8ee3c28904a936298]....
 
-### 19A. Minor variation of club premises certificates[^key-8dd89ed57f36112dea6c46c9e4d7ddc0]
+### 19A. Minor variation of club premises certificates[^c-8dd89ed57f36112dea6c46c9e4d7ddc0]
 
 An application for minor variation of a club premises certificate under section 86A shall be in the form and shall contain the information set out in Schedule 4B and shall be accompanied by the prescribed fee.
 
-### 20. Review of club premises certificates[^key-1af02379311acdb03964587d83ed4b39]
+### 20. Review of club premises certificates[^c-1af02379311acdb03964587d83ed4b39]
 
 An application to review a club premises certificate under section 87 shall be in the form and shall contain the information set out in Schedule 8.
 
 ## PART 4 — GENERAL
 
-### 21. Applications, notices and representations[^key-033fe9de0231b5f9c40ce71446542dd0][^key-6c18f8ff2df28ebed336b14ce7d626b1]
+### 21. Applications, notices and representations[^c-033fe9de0231b5f9c40ce71446542dd0][^c-6c18f8ff2df28ebed336b14ce7d626b1]
 
 Subject to regulations 21A and 21B an application, notice or representations (other than representations of the kind referred to in section 41B(2)(b)(i) or 86B(2)(b)(i)) must be given in writing.
 
-### 21A. Applications and notices given by means of relevant electronic facility[^key-14abbafbaa6c8b13eae9412c59edda28]
+### 21A. Applications and notices given by means of relevant electronic facility[^c-14abbafbaa6c8b13eae9412c59edda28]
 
 (1) The requirement in regulation 21 is satisfied in relation to an application or notice if the information comprising the application or notice is transmitted to the recipient by means of a relevant electronic facility.
 
@@ -208,18 +208,18 @@ Subject to regulations 21A and 21B an application, notice or representations (ot
 
 (5) But an application or notice that is required to be accompanied by a fee is not to be taken as given until the fee has been received by the recipient.
 
-### 22. Representations[^key-b40ae28e146e66f50ad52909809ff0cc]
+### 22. Representations[^c-b40ae28e146e66f50ad52909809ff0cc]
 
-(1) A responsible authority or any other person[^key-d5a23a75f450f217b2941c4ea92bdb50] making representations (other than representations of the kind referred to in section 41B(2)(b) or 86B(2)(b))[^key-47516eb4affede746ec6eefa6e5f9437] to a relevant licensing authority, may make those representations—
+(1) A responsible authority or any other person[^c-d5a23a75f450f217b2941c4ea92bdb50] making representations (other than representations of the kind referred to in section 41B(2)(b) or 86B(2)(b))[^c-47516eb4affede746ec6eefa6e5f9437] to a relevant licensing authority, may make those representations—
 
 - (a) in the case of a review of a premises licence following a closure order, at any time up to and including seven days starting on the day after the day on which the authority received the notice under section 165(4) in relation to the closure order and any extension to it;
 - (b) in any other case, at any time during a period of 28 consecutive days starting on the day after the day on which the application to which it relates was given to the authority by the applicant.
 
-### 23. Plans[^key-7df41edbfc73906b9a08e2d279eb7eef]
+### 23. Plans[^c-7df41edbfc73906b9a08e2d279eb7eef]
 
 (1) An application for a premises licence under section 17, or a club premises certificate under section 71, shall be accompanied by a plan of the premises to which the application relates and which shall comply with the following paragraphs of this regulation.
 
-(2)[^key-f6e255273757b56b03ae66aa474e0a01] The information contained in the plan must be clear and legible in all material respects.
+(2)[^c-f6e255273757b56b03ae66aa474e0a01] The information contained in the plan must be clear and legible in all material respects.
 
 (3) The plan shall show—
 
@@ -236,15 +236,15 @@ Subject to regulations 21A and 21B an application, notice or representations (ot
 
 (4) The plan may include a legend through which the matters mentioned or referred to in paragraph (3) are sufficiently illustrated by the use of symbols on the plan.
 
-### 24. Consents[^key-d0f86b13730e878c3b9bb495fd658e70]
+### 24. Consents[^c-d0f86b13730e878c3b9bb495fd658e70]
 
 (1) In the case of an application under section 17 which relates to the supply of alcohol or section 37, the consent of the individual who the applicant wishes to have specified in the licence as the premises supervisor under section 17(3)(c) or 37(3)(a) in the premises licence shall be in the form set out in Part A of Schedule 11.
 
 (2) In the case of an application to transfer a premises licence under section 42 or 43, the consent of the holder of the premises licence under section 43(3) or 44(4) shall be in the form set out in Part B of Schedule 11.
 
-### 25. Advertisement of applications by applicant[^key-79ba1b10dad379699bde2226bbb63dfe][^key-4e51f7a5d44157fa39c8d2eca199c8b1]
+### 25. Advertisement of applications by applicant[^c-79ba1b10dad379699bde2226bbb63dfe][^c-4e51f7a5d44157fa39c8d2eca199c8b1]
 
-In the case of an application for a premises licence under section 17, for a provisional statement under section 29, to vary a premises licence under section 34 (except where the only variation sought is the inclusion of the alternative licence condition)[^key-aabbbde2840ab0b8a7f95bfd963e3bb5], for a club premises certificate under section 71 or to vary a club premises certificate under section 84, the person making the application shall advertise the application, in both cases containing the appropriate information set out in regulation 26—
+In the case of an application for a premises licence under section 17, for a provisional statement under section 29, to vary a premises licence under section 34 (except where the only variation sought is the inclusion of the alternative licence condition)[^c-aabbbde2840ab0b8a7f95bfd963e3bb5], for a club premises certificate under section 71 or to vary a club premises certificate under section 84, the person making the application shall advertise the application, in both cases containing the appropriate information set out in regulation 26—
 
 - (a) for a period of no less than 28 consecutive days starting on the day after the day on which the application was given to the relevant licensing authority, by displaying a notice,
   - (i) which is—
@@ -256,7 +256,7 @@ In the case of an application for a premises licence under section 17, for a pro
   - (i) in a local newspaper or, if there is none, in a local newsletter, circular or similar document, circulating in the vicinity of the premises;
   - (ii) on at least one occasion during the period of 10 working days starting on the day after the day on which the application was given to the relevant licensing authority.
 
-**26.**[^key-1bfe3088ef06264f7f963704582c4ed0] (1) In the case of an application for a premises licence or a club premises certificate, the notices referred to in regulation 25 shall contain a statement of the relevant licensable activities or relevant qualifying club activities as the case may require which it is proposed will be carried on on or from the premises.
+**26.**[^c-1bfe3088ef06264f7f963704582c4ed0] (1) In the case of an application for a premises licence or a club premises certificate, the notices referred to in regulation 25 shall contain a statement of the relevant licensable activities or relevant qualifying club activities as the case may require which it is proposed will be carried on on or from the premises.
 
 (2) In the case of an application for a provisional statement, the notices referred to in regulation 25—
 
@@ -274,7 +274,7 @@ In the case of an application for a premises licence under section 17, for a pro
 - (e) that representations shall be made in writing; and
 - (f) that it is an offence knowingly or recklessly to make a false statement in connection with an application and the maximum fine for which a person is liable on summary conviction for the offence.
 
-### 26A. Advertisement of applications: minor variations[^key-70f13a11e624f67e590a511cdcddfcb1]
+### 26A. Advertisement of applications: minor variations[^c-70f13a11e624f67e590a511cdcddfcb1]
 
 (1) In the case of an application for minor variation of a premises licence or club premises certificate (under section 41A or 86A respectively) the person making the application shall advertise the application for the required period—
 
@@ -294,14 +294,14 @@ In the case of an application for a premises licence under section 17, for a pro
   - (iv) the name of the applicant or club,
   - (v) the postal address of the premises or club premises, if any, or if there is no postal address for the premises a description of those premises sufficient to enable the location and extent of the premises or club premises to be identified,
   - (vi) the postal address and, where applicable, the worldwide web address where the register of the relevant licensing authority is kept and where and when the record of the application may be inspected,
-  - (vii)[^key-b00fdb43ddb73a4a7246bbc402dddde2] the date by which a person[^M_F_2d7c56da-64bf-448e-daed-d56a3f6c179b] may make representations to the relevant licensing authority,
-  - (viii)[^key-6ad9e3719bdc3a3d7df535d432eb8c08] that it is an offence knowingly or recklessly to make a false statement in connection with an application and the maximum fine for which a person is liable on summary conviction for the offence;
+  - (vii)[^c-b00fdb43ddb73a4a7246bbc402dddde2] the date by which a person[^M_F_2d7c56da-64bf-448e-daed-d56a3f6c179b] may make representations to the relevant licensing authority,
+  - (viii)[^c-6ad9e3719bdc3a3d7df535d432eb8c08] that it is an offence knowingly or recklessly to make a false statement in connection with an application and the maximum fine for which a person is liable on summary conviction for the offence;
 - (c) the information referred to in subparagraph (b)(i) or (ii) above is printed or typed in a font of a size equal to or larger than 32;
 - (d) the remainder of the notice is printed or typed in a font of a size equal to or larger than 16.
 
-(3) In this regulation “the required period” is the continuous period beginning on the first working day after [^key-36e861d294de24016bd503bf68329604]... the application was given to the relevant licensing authority and ending at the expiry of the ninth consecutive working day after that day.
+(3) In this regulation “the required period” is the continuous period beginning on the first working day after [^c-36e861d294de24016bd503bf68329604]... the application was given to the relevant licensing authority and ending at the expiry of the ninth consecutive working day after that day.
 
-### 26B. Advertisement of applications by licensing authority[^key-b34706990c34bdf28821433e0d0327b1]
+### 26B. Advertisement of applications by licensing authority[^c-b34706990c34bdf28821433e0d0327b1]
 
 In the case of an application for a premises licence under section 17, for a provisional statement under section 29, to vary a premises licence under section 34 (except where the only variation sought is the inclusion of the alternative licence condition), for a club premises certificate under section 71 or to vary a club premises certificate under section 84, the relevant licensing authority shall advertise the application—
 
@@ -326,7 +326,7 @@ In the case of an application for a premises licence under section 17, for a pro
 - (e) that representations must be made in writing; and
 - (f) that it is an offence knowingly or recklessly to make a false statement in connection with an application and the maximum fine for which a person is liable on summary conviction for the offence.
 
-### 27. Notice to responsible authority: applications made by means of relevant facility[^key-e6befeca7911b60eb1b9cb042b8a4a72][^key-34fdaac1f69b89fea5d880b0b6512f8c]
+### 27. Notice to responsible authority: applications made by means of relevant facility[^c-e6befeca7911b60eb1b9cb042b8a4a72][^c-34fdaac1f69b89fea5d880b0b6512f8c]
 
 (1) Where—
 
@@ -345,7 +345,7 @@ the relevant licensing authority must, no later than the first working day after
 - (f) variation of a club premises certificate under section 84;
 - (g) minor variation of a club premises certificate under section 86A.
 
-### 27A. Notice to responsible authority: other cases[^key-f2d3c4ed4662cd8ff7a31b9c61ad9bbc]
+### 27A. Notice to responsible authority: other cases[^c-f2d3c4ed4662cd8ff7a31b9c61ad9bbc]
 
 In the case of—
 
@@ -354,11 +354,11 @@ In the case of—
 
 the person making the application must give notice of the application to each responsible authority by giving each authority a copy of the application together with its accompanying plan, document or other information on the same day as the day on which the application is given to the relevant licensing authority.
 
-### 28. Notice to chief officer of police etc.[^key-3f5236d5ad102edede810487cfab0106]
+### 28. Notice to chief officer of police etc.[^c-3f5236d5ad102edede810487cfab0106]
 
-(1) Subject to paragraph (1A), in[^key-09eb05a23d333829303b59fb9804400b] a case to which this paragraph applies a person making an application or giving a notice shall give a copy of the application or notice, together with its accompanying documents (if any) to the chief officer of police on the same day as the day on which the application is given to the relevant licensing authority.
+(1) Subject to paragraph (1A), in[^c-09eb05a23d333829303b59fb9804400b] a case to which this paragraph applies a person making an application or giving a notice shall give a copy of the application or notice, together with its accompanying documents (if any) to the chief officer of police on the same day as the day on which the application is given to the relevant licensing authority.
 
-(1A)[^key-00c1d9e2065870534007a5da18a2dbc7] But where an application or notice is given by means of a relevant electronic facility the relevant licensing authority must (and the person making the application need not) give a copy of the application or notice, together with its accompanying documents (if any) to the chief officer of police on the first working day after the application was given to the authority.
+(1A)[^c-00c1d9e2065870534007a5da18a2dbc7] But where an application or notice is given by means of a relevant electronic facility the relevant licensing authority must (and the person making the application need not) give a copy of the application or notice, together with its accompanying documents (if any) to the chief officer of police on the first working day after the application was given to the authority.
 
 (2) Paragraph (1) applies to—
 
@@ -367,27 +367,27 @@ the person making the application must give notice of the application to each re
 - (c) an application for the transfer of a premises licence under section 42;
 - (d) the giving of an interim authority notice under section 47.
 
-(3) A person who makes an application of the kind referred to in paragraph (2)(b) must give the designated premises supervisor (if any) a copy of the application together with its accompanying documents (if any) on the same day as the application is given to relevant licensing authority.[^key-6ea2406eb76ee9ec8901ab64ac475e2a]
+(3) A person who makes an application of the kind referred to in paragraph (2)(b) must give the designated premises supervisor (if any) a copy of the application together with its accompanying documents (if any) on the same day as the application is given to relevant licensing authority.[^c-6ea2406eb76ee9ec8901ab64ac475e2a]
 
-### 29. Notification of review[^key-c4f0d4b69f661a570f2fe0b51dffd305]
+### 29. Notification of review[^c-c4f0d4b69f661a570f2fe0b51dffd305]
 
 In the case of an application for a review of a premises licence under section 51 or a review of a club premises certificate under section 87, the person making the application shall give notice of his application to each responsible authority and to the holder of the premises licence or the club in whose name the club premises certificate is held and to which the application relates by giving to the authority, the holder or the club a copy of the application for review together with its accompanying documents, if any, on the same day as the day on which the application for review is given to the licensing authority.
 
 ## PART 5 — LICENSING AUTHORITIES—MISCELLANEOUS
 
-### 30. Validity of premises licences and club premises certificates[^key-7f416810f440a8a51b7600833a6e3e7b]
+### 30. Validity of premises licences and club premises certificates[^c-7f416810f440a8a51b7600833a6e3e7b]
 
 A relevant licensing authority may not grant a premises licence or club premises certificate to have effect before the second appointed day.
 
-### 31. Frivolous, vexatious or repetitious representations[^key-994c0a351e1306edb6c593ee585d948f]
+### 31. Frivolous, vexatious or repetitious representations[^c-994c0a351e1306edb6c593ee585d948f]
 
 Where the relevant licensing authority notifies the person who made the representations that the representations are frivolous, vexatious or a repetition as the case requires, that notification shall be given in writing to the person who made the representations and as soon as is reasonably practicable and in any event before the determination of the application to which the representations relate.
 
-### 32. Notification that any ground for review is frivolous, vexatious or a repetition[^key-0741d5a632d929ce5c7e73ddc3e4bff3]
+### 32. Notification that any ground for review is frivolous, vexatious or a repetition[^c-0741d5a632d929ce5c7e73ddc3e4bff3]
 
 Where the relevant licensing authority rejects a ground for a review under section 51(4)(b) or section 87(4)(b) it shall give notification in writing as soon as is reasonably practicable to the person making the application for a review.
 
-### 33. Form of premises licence and summary[^key-5c51980dd6f1fd2cff4698ea9b403314]
+### 33. Form of premises licence and summary[^c-5c51980dd6f1fd2cff4698ea9b403314]
 
 A premises licence shall—
 
@@ -395,13 +395,13 @@ A premises licence shall—
 - (b) include a number that is unique to the licence; and
 - (c) be in the form and shall contain the information set out in Part A of Schedule 12.
 
-**34.**[^key-05ec816cb835d95c1a5175a769810232] A summary of a premises licence shall—
+**34.**[^c-05ec816cb835d95c1a5175a769810232] A summary of a premises licence shall—
 
 - (a) include the identifier for the relevant licensing authority;
 - (b) include the licence number referred to in regulation 33; and
 - (c) be in the form and shall contain the information set out in Part B of Schedule 12, printed on paper of a size equal to or larger than A4.
 
-### 35. Form of club premises certificate and summary[^key-6800878854667b643006d0cad632fecb]
+### 35. Form of club premises certificate and summary[^c-6800878854667b643006d0cad632fecb]
 
 A club premises certificate shall—
 
@@ -409,13 +409,13 @@ A club premises certificate shall—
 - (b) include a number that is unique to the certificate; and
 - (c) be in the form and shall contain the information set out in Part A of Schedule 13.
 
-**36.**[^key-36c4bb287deead29aa154f2254e27247] A summary of a club premises certificate shall—
+**36.**[^c-36c4bb287deead29aa154f2254e27247] A summary of a club premises certificate shall—
 
 - (a) include the identifier for the relevant licensing authority;
 - (b) include the certificate number referred to in regulation 35; and
 - (c) be in the form and shall contain the information set out in Part B of Schedule 13, printed on paper of a size equal to or larger than A4.
 
-### 36A. Summary review of premises licences: serious crime and disorder[^key-8eac2437faa237d69ebdf66c6c5e968a]
+### 36A. Summary review of premises licences: serious crime and disorder[^c-8eac2437faa237d69ebdf66c6c5e968a]
 
 (1) In the case of an application for review of a premises licence under section 53A the relevant licensing authority must, within 48 hours of the time of the receipt of the application, give notice of the review to—
 
@@ -429,18 +429,18 @@ A club premises certificate shall—
 
 (3) In computing the period of 48 hours mentioned in paragraph (1) time that is not on a working day is to be disregarded.
 
-### 37. Review of premises licence following closure order[^key-82b9af7b5e9a3cea5d83627ea95736ef]
+### 37. Review of premises licence following closure order[^c-82b9af7b5e9a3cea5d83627ea95736ef]
 
 In the case of a review of a premises licence under section 167 (review of premises licence following a closure order), within the period of one working day starting on the day after the day on which the relevant licensing authority received the notice under section 165(4) from the magistrates' court, the relevant licensing authority shall give to the holder of the premises licence and each responsible authority notice in writing of—
 
 - (a) the review;
-- (b) the dates between which responsible authorities and any other persons[^key-32c8beda15241a823dd5a6a73a381880] may make representations relating to the review to the relevant licensing authority;
+- (b) the dates between which responsible authorities and any other persons[^c-32c8beda15241a823dd5a6a73a381880] may make representations relating to the review to the relevant licensing authority;
 - (c) the closure order and any extension of it; and
 - (d) any order made in relation to it under section 165(2).
 
-### 38. Advertisement of review by licensing authority[^key-0ddabd75425911480866fe79076cd7a6]
+### 38. Advertisement of review by licensing authority[^c-0ddabd75425911480866fe79076cd7a6]
 
-(1) Subject to the provisions of this regulation and regulation 39, the relevant licensing authority shall advertise an application for the review of a premises licence under section 51(3) or 53A[^key-5b58e7cdf7c7374ce123d15b520ec308], of a club premises certificate under section 87(3) or of a premises licence following a closure order under section 167—
+(1) Subject to the provisions of this regulation and regulation 39, the relevant licensing authority shall advertise an application for the review of a premises licence under section 51(3) or 53A[^c-5b58e7cdf7c7374ce123d15b520ec308], of a club premises certificate under section 87(3) or of a premises licence following a closure order under section 167—
 
 - (a) by displaying prominently a notice—
   - (i) which is—
@@ -451,7 +451,7 @@ In the case of a review of a premises licence under section 167 (review of premi
   - (iii) at the offices, or the main offices, of the licensing authority in a central and conspicuous place; and
 - (b) in a case where the relevant licensing authority maintains a website for the purpose of advertisement of applications given to it, by publication of a notice on that website;
 
-(2)[^key-c4679a9e29cc990cb52ab70873de91d4] the requirements set out in paragraph (1) shall be fulfilled—
+(2)[^c-c4679a9e29cc990cb52ab70873de91d4] the requirements set out in paragraph (1) shall be fulfilled—
 
 - (a) in the case of a review of a premises licence following a closure order under section 167, or of a review of such a licence under section 53A, for a period of no less than seven consecutive days starting on the day after the day on which the relevant licensing authority received—
   - (i) the notice under section 165(4); or
@@ -460,7 +460,7 @@ In the case of a review of a premises licence under section 167 (review of premi
   (as the case may be); and
 - (b) in all other cases, for a period of no less than 28 consecutive days starting on the day after the day on which the application was given to the relevant licensing authority.
 
-**39.**[^key-02e1cf5ad387b7a905b71d3c979edd8d] Subject to regulation 39A, all[^M_F_1469505a-bace-4b5f-c102-4a678bc4c865] notices referred to in regulation 38 shall state—
+**39.**[^c-02e1cf5ad387b7a905b71d3c979edd8d] Subject to regulation 39A, all[^M_F_1469505a-bace-4b5f-c102-4a678bc4c865] notices referred to in regulation 38 shall state—
 
 - (a) the address of the premises about which an application for a review has been made,
 - (b) the dates between which responsible authorities and any other persons[^M_F_91959aed-bf87-4dfd-8f68-62f25ca41729] may make representations to the relevant licensing authority,
@@ -468,14 +468,14 @@ In the case of a review of a premises licence under section 167 (review of premi
 - (d) the postal address and, where relevant, the worldwide web address where the register of the relevant licensing authority is kept and where and when the grounds for the review may be inspected; and
 - (e) that it is an offence knowingly or recklessly to make a false statement in connection with an application and the maximum fine for which a person is liable on summary conviction for the offence.
 
-**39A.**[^key-9b92cb83242b87c165c474fbbe809df5] (1) In the case of a review of a premises licence under section 53A—
+**39A.**[^c-9b92cb83242b87c165c474fbbe809df5] (1) In the case of a review of a premises licence under section 53A—
 
 - (a) the dates referred to in regulation 39(b) shall be the date of the first working day after the day on which the notice was published, and the date of the ninth subsequent working day;
 - (b) the grounds referred to in regulation 39(c) shall be that in the opinion of a senior police officer the premises are associated with serious crime or serious disorder or both.
 
 (2) The period prescribed for the purposes of section 53A(3)(e) of the Act is the period beginning on the first working day after the publication of the notice referred to in regulation 38 and ending on the ninth subsequent working day.
 
-### 39B. Notices given by licensing authority: applications given by means of relevant electronic facility[^key-5b151f49092e0f5a39df43bd4dbe2dcb]
+### 39B. Notices given by licensing authority: applications given by means of relevant electronic facility[^c-5b151f49092e0f5a39df43bd4dbe2dcb]
 
 (1) Where a notice or statement to which this regulation applies is given by a relevant licensing authority in connection with an application made in accordance with regulation 21A, the notice must be given by means of the relevant electronic facility through which the application was transmitted to the authority.
 
@@ -485,18 +485,18 @@ In the case of a review of a premises licence under section 167 (review of premi
 - (b) a statement issued to an applicant under section 31(2) or (3)(c);
 - (c) a notice given to a club under section 63(3).
 
-### 40. Provision of forms, notices and applications[^key-335ebc344d4af75446181207205b7117]
+### 40. Provision of forms, notices and applications[^c-335ebc344d4af75446181207205b7117]
 
 The relevant licensing authority—
 
 - (a) must provide on request the forms listed in the Schedules printed on paper; or
 - (b) in a case where the relevant licensing authority maintains a website, it may provide electronic copies of the forms listed in the Schedules on such a website.
 
-### 41. Validity of forms, notices and application[^key-b2ab3fcb13dd81513a6f285f886facc8]
+### 41. Validity of forms, notices and application[^c-b2ab3fcb13dd81513a6f285f886facc8]
 
 A relevant licensing authority shall not reject any application or notice by reason only of the fact that it is given on a form provided otherwise than from the relevant licensing authority but which complies with the requirements of these Regulations.
 
-### 42. Acknowledgement of notification of an interest[^key-4f4c28ec60090074e9a850ed825f032c]
+### 42. Acknowledgement of notification of an interest[^c-4f4c28ec60090074e9a850ed825f032c]
 
 The relevant licensing authority shall as soon as reasonably practicable on receipt of a notification to it under section 178 acknowledge its receipt by returning a copy of the notification to the notifier duly endorsed.
 
@@ -508,67 +508,67 @@ Department for Culture, Media and Sport
 
 12th January 2005
 
-## Schedule 1[^key-0101a7c55741467ec1dca5333a7c3771][^key-b27d7f8ede7a23a43a7e2ebc3e79860d]
+## Schedule 1[^c-0101a7c55741467ec1dca5333a7c3771][^c-b27d7f8ede7a23a43a7e2ebc3e79860d]
 
 regulation 9
 
 [image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_412.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_413.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_414.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_415.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_416.gif)
 
-## Schedule 2[^key-7fcd669ed362203ce749b28276b2e2c0][^key-45d3430394484bd9a81247a9f977493a]
+## Schedule 2[^c-7fcd669ed362203ce749b28276b2e2c0][^c-45d3430394484bd9a81247a9f977493a]
 
 regulation 10
 
 [image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_690.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_691.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_692.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_693.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_694.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_695.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_696.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_697.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_698.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_699.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_700.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_701.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_702.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_703.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_704.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_705.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_706.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_707.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_708.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_709.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_710.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_711.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_712.gif)
 
-## Schedule 3[^key-9f67a138cee6ce7b0481132ae6f435b2][^key-a4f9ac57dd837d03deab7533640b2d19]
+## Schedule 3[^c-9f67a138cee6ce7b0481132ae6f435b2][^c-a4f9ac57dd837d03deab7533640b2d19]
 
 regulation 11
 
 [image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_443.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_444.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_445.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_446.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_447.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_448.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_449.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_450.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_451.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_452.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_453.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_454.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_455.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_456.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_457.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_458.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_459.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_460.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_461.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_462.gif)
 
-## Schedule 4[^key-36529a53e6d71ff907c33857ff2be2a9][^key-4efeaeb52eb9fcb6af98a6402facab64]
+## Schedule 4[^c-36529a53e6d71ff907c33857ff2be2a9][^c-4efeaeb52eb9fcb6af98a6402facab64]
 
 regulation 12
 
 [image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_463.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_464.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_465.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_466.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_467.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_468.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_469.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_470.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_471.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_472.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_473.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_474.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_475.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_476.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_477.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_478.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_479.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_480.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_481.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_482.gif)
 
-## SCHEDULE 4A[^key-b8151f668ffd8e34f84ca5b6dbcf04f1][^key-9049eb0d9c56c625d71abf7e49436240]
+## SCHEDULE 4A[^c-b8151f668ffd8e34f84ca5b6dbcf04f1][^c-9049eb0d9c56c625d71abf7e49436240]
 
 Regulations 10(2), 12(2) and 13A
 
 [image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_483.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_484.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_485.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_486.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_487.gif)
 
-## SCHEDULE 4B[^key-2b53f9d747359227a13b32aeadd1cb4a]
+## SCHEDULE 4B[^c-2b53f9d747359227a13b32aeadd1cb4a]
 
 Regulations 13B and 19A
 
 [image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_497.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_498.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_499.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_500.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_501.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_502.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_503.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_504.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_505.gif)
 
-## Schedule 5[^key-3cea8bdeb97d9235406b7625b20350bd][^key-5ad7f592e9f630a5b87bd417437d0827]
+## Schedule 5[^c-3cea8bdeb97d9235406b7625b20350bd][^c-5ad7f592e9f630a5b87bd417437d0827]
 
 regulation 13
 
 [image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_597.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_606.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_607.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_608.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_609.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_610.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_603.gif)
 
-## Schedule 6[^key-6666ef41a50cdffe023034b552ba5ec1][^key-53d69fa3f57da50237bebe4958146ac8]
+## Schedule 6[^c-6666ef41a50cdffe023034b552ba5ec1][^c-53d69fa3f57da50237bebe4958146ac8]
 
 regulation 14
 
 [image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_713.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_714.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_715.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_716.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_717.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_718.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_719.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_720.gif)
 
-## Schedule 7[^key-4e495b98be70555c01a799ebd981bbb4][^key-541ae2c41de64531308381c4bfc36236]
+## Schedule 7[^c-4e495b98be70555c01a799ebd981bbb4][^c-541ae2c41de64531308381c4bfc36236]
 
 regulation 15
 
 [image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_721.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_722.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_723.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_724.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_725.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_726.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_727.gif)
 
-## Schedule 8[^key-b97c70c2871db67c70e1384c373f5810][^key-29d1379577b21a7ff5f4080ce096d575]
+## Schedule 8[^c-b97c70c2871db67c70e1384c373f5810][^c-29d1379577b21a7ff5f4080ce096d575]
 
 regulation 16
 
 [image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_527.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_528.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_529.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_530.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_531.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_532.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_533.gif)
 
-## SCHEDULE 8A[^key-2ccf2e2880eebfe8d880db978cb1339a]
+## SCHEDULE 8A[^c-2ccf2e2880eebfe8d880db978cb1339a]
 
 Regulation 16A
 
@@ -576,7 +576,7 @@ Regulation 16A
 
 #### Application for the review of a premises licence under section 53A of the Licensing Act 2003 (premises associated with serious crime, serious disorder or both)
 
-## Schedule 9[^key-7a40d6f90eecbf8b9b69ea0abe7d95a5][^key-31e5f8b60e12daae9651058f09c3ddee]
+## Schedule 9[^c-7a40d6f90eecbf8b9b69ea0abe7d95a5][^c-31e5f8b60e12daae9651058f09c3ddee]
 
 regulations 17, 18
 
@@ -584,25 +584,25 @@ regulations 17, 18
 
 [image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_539.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_540.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_562.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_563.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_564.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_565.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_566.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_567.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_568.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_569.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_570.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_571.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_572.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_573.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_574.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_575.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_576.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_556.gif)
 
-## Schedule 10[^key-e99fe1036a286d9cdaf0aff96f6b8cfc][^key-e7e6fdd1b0f27db94f425323cdabfba0]
+## Schedule 10[^c-e99fe1036a286d9cdaf0aff96f6b8cfc][^c-e7e6fdd1b0f27db94f425323cdabfba0]
 
 regulation 19
 
 [image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_577.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_578.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_579.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_580.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_581.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_582.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_583.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_584.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_585.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_586.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_587.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_588.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_589.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_590.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_591.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_592.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_593.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_594.gif)
 
-## Schedule 11[^key-7755319dc55035542db72ecefaa661c2][^key-c1767fcf9c3b3556634f6a3c5de388a6]
+## Schedule 11[^c-7755319dc55035542db72ecefaa661c2][^c-c1767fcf9c3b3556634f6a3c5de388a6]
 
 regulation 24
 
 [image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_595.gif)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_epp_596.gif)
 
-## Schedule 12[^key-56b4063586dec956e35ff67ccd38d833]
+## Schedule 12[^c-56b4063586dec956e35ff67ccd38d833]
 
 Regulation 33, 34
 
 [image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_108)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_109)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_110)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_111)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_112)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_113)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_114)[image: see source](https://www.legislation.gov.uk/uksi/2005/42/images/uksi_20050042_en_115)
 
-## Schedule 13[^key-3ae565b5d1df2bc65167427e60b0419d]
+## Schedule 13[^c-3ae565b5d1df2bc65167427e60b0419d]
 
 regulation 35, 36
 
@@ -642,222 +642,222 @@ A Regulatory Impact Assessment in relation to these Regulations has been placed 
 
 [^f00001]: Footnote: [2003 c. 17](https://www.legislation.gov.uk/ukpga/2003/17).
 
-[^key-26f76395d53dab3fa287e3cefb709f6e]: Modification: Regulations applied (with modifications) (temp. until 31.3.2025) (22.7.2020) by [2003 c. 17](https://www.legislation.gov.uk/ukpga/2003/17), [s. 172K(1)-(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/172K/1) (as inserted (temp.) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/2), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [s. 11(13)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/13) (as amended ([28](https://www.legislation.gov.uk/ukpga/2020/16/section/28).[9](https://www.legislation.gov.uk/ukpga/2020/16/section/9).[2023](https://www.legislation.gov.uk/ukpga/2020/16/section/2023)) by [S.I. 2023/990](https://www.legislation.gov.uk/uksi/2023/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/990/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/990/regulation/2/1))
+[^c-26f76395d53dab3fa287e3cefb709f6e]: Modification: Regulations applied (with modifications) (temp. until 31.3.2025) (22.7.2020) by [2003 c. 17](https://www.legislation.gov.uk/ukpga/2003/17), [s. 172K(1)-(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/172K/1) (as inserted (temp.) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/2), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [s. 11(13)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/13) (as amended ([28](https://www.legislation.gov.uk/ukpga/2020/16/section/28).[9](https://www.legislation.gov.uk/ukpga/2020/16/section/9).[2023](https://www.legislation.gov.uk/ukpga/2020/16/section/2023)) by [S.I. 2023/990](https://www.legislation.gov.uk/uksi/2023/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/990/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/990/regulation/2/1))
 
-[^key-a0dbed986168f707da6240a63d800b90]: Commencement: Reg. 1 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-a0dbed986168f707da6240a63d800b90]: Commencement: Reg. 1 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-0895adf2806ffd1da19f1af704567a8a]: Commencement: Reg. 2 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-0895adf2806ffd1da19f1af704567a8a]: Commencement: Reg. 2 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-245be834f938813e0876a58e16e02898]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/2/1) inserted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/2)
+[^c-245be834f938813e0876a58e16e02898]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/2/1) inserted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/2)
 
-[^key-d7d699ba95b8a8a0389db7a745769409]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/2/1) inserted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/3/a)
+[^c-d7d699ba95b8a8a0389db7a745769409]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/2/1) inserted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/3/a)
 
-[^key-f7593d41a14e1d7ae684787029d599e8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/2/1) inserted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/3/b)
+[^c-f7593d41a14e1d7ae684787029d599e8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/2/1) inserted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/3/b)
 
-[^key-42d29d9aef03c81a9488dc190e69a5e7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/2/1) substituted (25.4.2012) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) Regulations 2012 (S.I. 2012/955)](https://www.legislation.gov.uk/uksi/2012/955), [regs. 1](https://www.legislation.gov.uk/uksi/2012/955/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/955/regulation/3)
+[^c-42d29d9aef03c81a9488dc190e69a5e7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/2/1) substituted (25.4.2012) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) Regulations 2012 (S.I. 2012/955)](https://www.legislation.gov.uk/uksi/2012/955), [regs. 1](https://www.legislation.gov.uk/uksi/2012/955/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/955/regulation/3)
 
-[^key-907d6eb479899c8be90f9a2368d09a36]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/2/1): full stop substituted for word (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/3/c)
+[^c-907d6eb479899c8be90f9a2368d09a36]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/2/1): full stop substituted for word (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/3/c)
 
-[^key-7aa6fec45cc3990f3fb5d9e8cf477671]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/2/1) omitted (28.12.2009) by virtue of [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/3/d)
+[^c-7aa6fec45cc3990f3fb5d9e8cf477671]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/2/1) omitted (28.12.2009) by virtue of [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/3/d)
 
-[^key-ae5f03f589393d0bec859265ee6d77d2]: Commencement: Reg. 3 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-ae5f03f589393d0bec859265ee6d77d2]: Commencement: Reg. 3 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-1f7dd0e88e59f7bc45908de0fd82c676]: Commencement: Reg. 4 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-1f7dd0e88e59f7bc45908de0fd82c676]: Commencement: Reg. 4 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-27c9e99e2d443eb4be35fa921f578669]: Commencement: Reg. 5 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-27c9e99e2d443eb4be35fa921f578669]: Commencement: Reg. 5 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-73d982c0412fcd5813ab52122c7d4919]: Commencement: Reg. 6 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-73d982c0412fcd5813ab52122c7d4919]: Commencement: Reg. 6 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-2f428efe933dd7d3d15b3d1b59f867a1]: Commencement: Reg. 7 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-2f428efe933dd7d3d15b3d1b59f867a1]: Commencement: Reg. 7 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
 [^f00002]: Footnote: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72).
 
-[^key-9627dc35b8f294972a612f13aacf4324]: Commencement: Reg. 8 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-9627dc35b8f294972a612f13aacf4324]: Commencement: Reg. 8 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-a2620a5211595d1fbe5d127da4e9ea17]: Commencement: Reg. 9 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-a2620a5211595d1fbe5d127da4e9ea17]: Commencement: Reg. 9 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-f706b07ff97d75bce365c27c7c25ddab]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/42/regulation/10) substituted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/3)
+[^c-f706b07ff97d75bce365c27c7c25ddab]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/42/regulation/10) substituted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/3)
 
-[^key-ca84a81bcac731f4b96d1c795f7bfd29]: Commencement: Reg. 11 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-ca84a81bcac731f4b96d1c795f7bfd29]: Commencement: Reg. 11 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-2556d6f47dc7a5b28b3cf3b661a21699]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/42/regulation/12) substituted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/4)
+[^c-2556d6f47dc7a5b28b3cf3b661a21699]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/42/regulation/12) substituted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/4)
 
-[^key-eb3f4ddcb928b1565e7e19d3a5b7dd05]: Commencement: Reg. 13 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-eb3f4ddcb928b1565e7e19d3a5b7dd05]: Commencement: Reg. 13 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-07e31d319fbfc0e8a596b7b580ed817a]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2005/42/regulation/13) omitted (29.7.2009) by virtue of [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/5)
+[^c-07e31d319fbfc0e8a596b7b580ed817a]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2005/42/regulation/13) omitted (29.7.2009) by virtue of [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/5)
 
-[^key-5984afc448be4faad3bf9e5102172833]: Textual amendment: [Regs. 13A](https://www.legislation.gov.uk/uksi/2005/42/regulation/13A), [13B](https://www.legislation.gov.uk/uksi/2005/42/regulation/13B) inserted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/6)
+[^c-5984afc448be4faad3bf9e5102172833]: Textual amendment: [Regs. 13A](https://www.legislation.gov.uk/uksi/2005/42/regulation/13A), [13B](https://www.legislation.gov.uk/uksi/2005/42/regulation/13B) inserted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/6)
 
-[^key-b1466f0c83ececcf291065ed6f93f16a]: Commencement: Reg. 14 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-b1466f0c83ececcf291065ed6f93f16a]: Commencement: Reg. 14 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-a2ea6f8746c1d61df98636fc5f8ec3d8]: Commencement: Reg. 15 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-a2ea6f8746c1d61df98636fc5f8ec3d8]: Commencement: Reg. 15 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-280df986e5f7a20968dcf1c36fc78e08]: Commencement: Reg. 16 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-280df986e5f7a20968dcf1c36fc78e08]: Commencement: Reg. 16 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-a6622960707bb06a2ade78e637998633]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2005/42/regulation/16A) inserted (1.10.2007) by [The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (S.I. 2007/2502)](https://www.legislation.gov.uk/uksi/2007/2502), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2502/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2502/regulation/2/2)
+[^c-a6622960707bb06a2ade78e637998633]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2005/42/regulation/16A) inserted (1.10.2007) by [The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (S.I. 2007/2502)](https://www.legislation.gov.uk/uksi/2007/2502), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2502/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2502/regulation/2/2)
 
-[^key-fee5cad82a68b9c0458032f45d9c42c0]: Commencement: Reg. 17 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-fee5cad82a68b9c0458032f45d9c42c0]: Commencement: Reg. 17 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-3f79f8357ad70649fd79322aaebf385b]: Commencement: Reg. 18 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-3f79f8357ad70649fd79322aaebf385b]: Commencement: Reg. 18 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-16ae580c1faadee2af224733a3062f4d]: Commencement: Reg. 19 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-16ae580c1faadee2af224733a3062f4d]: Commencement: Reg. 19 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-02f5df7d26b130e8ee3c28904a936298]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2005/42/regulation/19) omitted (29.7.2009) by virtue of [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/7)
+[^c-02f5df7d26b130e8ee3c28904a936298]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2005/42/regulation/19) omitted (29.7.2009) by virtue of [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/7)
 
-[^key-8dd89ed57f36112dea6c46c9e4d7ddc0]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2005/42/regulation/19A) inserted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/8)
+[^c-8dd89ed57f36112dea6c46c9e4d7ddc0]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2005/42/regulation/19A) inserted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/8)
 
-[^key-1af02379311acdb03964587d83ed4b39]: Commencement: Reg. 20 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-1af02379311acdb03964587d83ed4b39]: Commencement: Reg. 20 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-033fe9de0231b5f9c40ce71446542dd0]: Commencement: Reg. 21 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-033fe9de0231b5f9c40ce71446542dd0]: Commencement: Reg. 21 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-6c18f8ff2df28ebed336b14ce7d626b1]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2005/42/regulation/21) substituted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/3159/regulation/4)
+[^c-6c18f8ff2df28ebed336b14ce7d626b1]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2005/42/regulation/21) substituted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/3159/regulation/4)
 
-[^key-14abbafbaa6c8b13eae9412c59edda28]: Textual amendment: [Regs. 21A](https://www.legislation.gov.uk/uksi/2005/42/regulation/21A), [21B](https://www.legislation.gov.uk/uksi/2005/42/regulation/21B) inserted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [5](https://www.legislation.gov.uk/uksi/2009/3159/regulation/5)
+[^c-14abbafbaa6c8b13eae9412c59edda28]: Textual amendment: [Regs. 21A](https://www.legislation.gov.uk/uksi/2005/42/regulation/21A), [21B](https://www.legislation.gov.uk/uksi/2005/42/regulation/21B) inserted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [5](https://www.legislation.gov.uk/uksi/2009/3159/regulation/5)
 
-[^key-b40ae28e146e66f50ad52909809ff0cc]: Commencement: Reg. 22 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-b40ae28e146e66f50ad52909809ff0cc]: Commencement: Reg. 22 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-d5a23a75f450f217b2941c4ea92bdb50]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/22/1) substituted (25.4.2012) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) Regulations 2012 (S.I. 2012/955)](https://www.legislation.gov.uk/uksi/2012/955), [regs. 1](https://www.legislation.gov.uk/uksi/2012/955/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/955/regulation/4)
+[^c-d5a23a75f450f217b2941c4ea92bdb50]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/22/1) substituted (25.4.2012) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) Regulations 2012 (S.I. 2012/955)](https://www.legislation.gov.uk/uksi/2012/955), [regs. 1](https://www.legislation.gov.uk/uksi/2012/955/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/955/regulation/4)
 
-[^key-47516eb4affede746ec6eefa6e5f9437]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2005/42/regulation/22) inserted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/10)
+[^c-47516eb4affede746ec6eefa6e5f9437]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2005/42/regulation/22) inserted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/10)
 
-[^key-7df41edbfc73906b9a08e2d279eb7eef]: Commencement: Reg. 23 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-7df41edbfc73906b9a08e2d279eb7eef]: Commencement: Reg. 23 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-f6e255273757b56b03ae66aa474e0a01]: Textual amendment: [Reg. 23(2)](https://www.legislation.gov.uk/uksi/2005/42/regulation/23/2) substituted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/3159/regulation/6)
+[^c-f6e255273757b56b03ae66aa474e0a01]: Textual amendment: [Reg. 23(2)](https://www.legislation.gov.uk/uksi/2005/42/regulation/23/2) substituted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/3159/regulation/6)
 
-[^key-d0f86b13730e878c3b9bb495fd658e70]: Commencement: Reg. 24 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-d0f86b13730e878c3b9bb495fd658e70]: Commencement: Reg. 24 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-79ba1b10dad379699bde2226bbb63dfe]: Commencement: Reg. 25 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-79ba1b10dad379699bde2226bbb63dfe]: Commencement: Reg. 25 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-4e51f7a5d44157fa39c8d2eca199c8b1]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2005/42/regulation/25) heading substituted (25.4.2012) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) Regulations 2012 (S.I. 2012/955)](https://www.legislation.gov.uk/uksi/2012/955), [regs. 1](https://www.legislation.gov.uk/uksi/2012/955/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/955/regulation/5)
+[^c-4e51f7a5d44157fa39c8d2eca199c8b1]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2005/42/regulation/25) heading substituted (25.4.2012) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) Regulations 2012 (S.I. 2012/955)](https://www.legislation.gov.uk/uksi/2012/955), [regs. 1](https://www.legislation.gov.uk/uksi/2012/955/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/955/regulation/5)
 
-[^key-aabbbde2840ab0b8a7f95bfd963e3bb5]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2005/42/regulation/25) inserted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(11)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/11)
+[^c-aabbbde2840ab0b8a7f95bfd963e3bb5]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2005/42/regulation/25) inserted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(11)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/11)
 
-[^key-1bfe3088ef06264f7f963704582c4ed0]: Commencement: Reg. 26 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-1bfe3088ef06264f7f963704582c4ed0]: Commencement: Reg. 26 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
 [^M_F_21f811b6-bcb3-42a7-a3b5-494b1ed0d444]: Textual amendment: Words in reg. 26(4)(d) substituted (25.4.2012) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) Regulations 2012 (S.I. 2012/955)](https://www.legislation.gov.uk/uksi/2012/955), [regs. 1](https://www.legislation.gov.uk/uksi/2012/955/regulation/1), [6](https://www.legislation.gov.uk/uksi/2012/955/regulation/5)
 
-[^key-70f13a11e624f67e590a511cdcddfcb1]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2005/42/regulation/26A) inserted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(12)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/12)
+[^c-70f13a11e624f67e590a511cdcddfcb1]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2005/42/regulation/26A) inserted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(12)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/12)
 
-[^key-b00fdb43ddb73a4a7246bbc402dddde2]: Textual amendment: Reg. 26A(2)(b)(v) renumbered as reg. 26A(2)(b)(vii) (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/7/a)
+[^c-b00fdb43ddb73a4a7246bbc402dddde2]: Textual amendment: Reg. 26A(2)(b)(v) renumbered as reg. 26A(2)(b)(vii) (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/7/a)
 
 [^M_F_2d7c56da-64bf-448e-daed-d56a3f6c179b]: Textual amendment: Words in reg. 26A(2)(b)(vii) substituted (25.4.2012) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) Regulations 2012 (S.I. 2012/955)](https://www.legislation.gov.uk/uksi/2012/955), [regs. 1](https://www.legislation.gov.uk/uksi/2012/955/regulation/1), [7](https://www.legislation.gov.uk/uksi/2012/955/regulation/5)
 
-[^key-6ad9e3719bdc3a3d7df535d432eb8c08]: Textual amendment: Reg. 26A(2)(b)(vi) renumbered as reg. 26A(2)(b)(viii) (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/7/b)
+[^c-6ad9e3719bdc3a3d7df535d432eb8c08]: Textual amendment: Reg. 26A(2)(b)(vi) renumbered as reg. 26A(2)(b)(viii) (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/7/b)
 
-[^key-36e861d294de24016bd503bf68329604]: Textual amendment: Words in [reg. 26A(3)](https://www.legislation.gov.uk/uksi/2005/42/regulation/26A/3) omitted (28.12.2009) by virtue of [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/7/c)
+[^c-36e861d294de24016bd503bf68329604]: Textual amendment: Words in [reg. 26A(3)](https://www.legislation.gov.uk/uksi/2005/42/regulation/26A/3) omitted (28.12.2009) by virtue of [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/7/c)
 
-[^key-b34706990c34bdf28821433e0d0327b1]: Textual amendment: [Regs. 26B](https://www.legislation.gov.uk/uksi/2005/42/regulation/26B), [26C](https://www.legislation.gov.uk/uksi/2005/42/regulation/26C) inserted (25.4.2012) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) Regulations 2012 (S.I. 2012/955)](https://www.legislation.gov.uk/uksi/2012/955), [regs. 1](https://www.legislation.gov.uk/uksi/2012/955/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/955/regulation/8)
+[^c-b34706990c34bdf28821433e0d0327b1]: Textual amendment: [Regs. 26B](https://www.legislation.gov.uk/uksi/2005/42/regulation/26B), [26C](https://www.legislation.gov.uk/uksi/2005/42/regulation/26C) inserted (25.4.2012) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) Regulations 2012 (S.I. 2012/955)](https://www.legislation.gov.uk/uksi/2012/955), [regs. 1](https://www.legislation.gov.uk/uksi/2012/955/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/955/regulation/8)
 
-[^key-e6befeca7911b60eb1b9cb042b8a4a72]: Commencement: Reg. 27 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-e6befeca7911b60eb1b9cb042b8a4a72]: Commencement: Reg. 27 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-34fdaac1f69b89fea5d880b0b6512f8c]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2005/42/regulation/27) substituted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/8/1)
+[^c-34fdaac1f69b89fea5d880b0b6512f8c]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2005/42/regulation/27) substituted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/8/1)
 
-[^key-f2d3c4ed4662cd8ff7a31b9c61ad9bbc]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/uksi/2005/42/regulation/27A) inserted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/8/2)
+[^c-f2d3c4ed4662cd8ff7a31b9c61ad9bbc]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/uksi/2005/42/regulation/27A) inserted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/8/2)
 
-[^key-3f5236d5ad102edede810487cfab0106]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2005/42/regulation/28) substituted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(14)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/14)
+[^c-3f5236d5ad102edede810487cfab0106]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2005/42/regulation/28) substituted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [2(14)](https://www.legislation.gov.uk/uksi/2009/1809/regulation/2/14)
 
-[^key-09eb05a23d333829303b59fb9804400b]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/28/1) substituted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/9/a)
+[^c-09eb05a23d333829303b59fb9804400b]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/28/1) substituted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/9/a)
 
-[^key-00c1d9e2065870534007a5da18a2dbc7]: Textual amendment: [Reg. 28(1A)](https://www.legislation.gov.uk/uksi/2005/42/regulation/28/1A) inserted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/9/b)
+[^c-00c1d9e2065870534007a5da18a2dbc7]: Textual amendment: [Reg. 28(1A)](https://www.legislation.gov.uk/uksi/2005/42/regulation/28/1A) inserted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/9/b)
 
-[^key-6ea2406eb76ee9ec8901ab64ac475e2a]: Textual amendment: [Reg. 28(3)](https://www.legislation.gov.uk/uksi/2005/42/regulation/28/3) substituted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/9/c)
+[^c-6ea2406eb76ee9ec8901ab64ac475e2a]: Textual amendment: [Reg. 28(3)](https://www.legislation.gov.uk/uksi/2005/42/regulation/28/3) substituted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2009/3159/regulation/9/c)
 
-[^key-c4f0d4b69f661a570f2fe0b51dffd305]: Commencement: Reg. 29 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-c4f0d4b69f661a570f2fe0b51dffd305]: Commencement: Reg. 29 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-7f416810f440a8a51b7600833a6e3e7b]: Commencement: Reg. 30 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-7f416810f440a8a51b7600833a6e3e7b]: Commencement: Reg. 30 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-994c0a351e1306edb6c593ee585d948f]: Commencement: Reg. 31 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-994c0a351e1306edb6c593ee585d948f]: Commencement: Reg. 31 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-0741d5a632d929ce5c7e73ddc3e4bff3]: Commencement: Reg. 32 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-0741d5a632d929ce5c7e73ddc3e4bff3]: Commencement: Reg. 32 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-5c51980dd6f1fd2cff4698ea9b403314]: Commencement: Reg. 33 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-5c51980dd6f1fd2cff4698ea9b403314]: Commencement: Reg. 33 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-05ec816cb835d95c1a5175a769810232]: Commencement: Reg. 34 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-05ec816cb835d95c1a5175a769810232]: Commencement: Reg. 34 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-6800878854667b643006d0cad632fecb]: Commencement: Reg. 35 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-6800878854667b643006d0cad632fecb]: Commencement: Reg. 35 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-36c4bb287deead29aa154f2254e27247]: Commencement: Reg. 36 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-36c4bb287deead29aa154f2254e27247]: Commencement: Reg. 36 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-8eac2437faa237d69ebdf66c6c5e968a]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2005/42/regulation/36A) inserted (1.10.2007) by [The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (S.I. 2007/2502)](https://www.legislation.gov.uk/uksi/2007/2502), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2502/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/2502/regulation/2/3)
+[^c-8eac2437faa237d69ebdf66c6c5e968a]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2005/42/regulation/36A) inserted (1.10.2007) by [The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (S.I. 2007/2502)](https://www.legislation.gov.uk/uksi/2007/2502), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2502/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/2502/regulation/2/3)
 
-[^key-82b9af7b5e9a3cea5d83627ea95736ef]: Commencement: Reg. 37 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-82b9af7b5e9a3cea5d83627ea95736ef]: Commencement: Reg. 37 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-32c8beda15241a823dd5a6a73a381880]: Textual amendment: Words in [reg. 37(b)](https://www.legislation.gov.uk/uksi/2005/42/regulation/37/b) substituted (25.4.2012) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) Regulations 2012 (S.I. 2012/955)](https://www.legislation.gov.uk/uksi/2012/955), [regs. 1](https://www.legislation.gov.uk/uksi/2012/955/regulation/1), [9](https://www.legislation.gov.uk/uksi/2012/955/regulation/9)
+[^c-32c8beda15241a823dd5a6a73a381880]: Textual amendment: Words in [reg. 37(b)](https://www.legislation.gov.uk/uksi/2005/42/regulation/37/b) substituted (25.4.2012) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) Regulations 2012 (S.I. 2012/955)](https://www.legislation.gov.uk/uksi/2012/955), [regs. 1](https://www.legislation.gov.uk/uksi/2012/955/regulation/1), [9](https://www.legislation.gov.uk/uksi/2012/955/regulation/9)
 
-[^key-0ddabd75425911480866fe79076cd7a6]: Commencement: Reg. 38 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-0ddabd75425911480866fe79076cd7a6]: Commencement: Reg. 38 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-5b58e7cdf7c7374ce123d15b520ec308]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/38/1) inserted (1.10.2007) by [The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (S.I. 2007/2502)](https://www.legislation.gov.uk/uksi/2007/2502), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2502/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2007/2502/regulation/2/4/a)
+[^c-5b58e7cdf7c7374ce123d15b520ec308]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/uksi/2005/42/regulation/38/1) inserted (1.10.2007) by [The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (S.I. 2007/2502)](https://www.legislation.gov.uk/uksi/2007/2502), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2502/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2007/2502/regulation/2/4/a)
 
-[^key-c4679a9e29cc990cb52ab70873de91d4]: Textual amendment: [Reg. 38(2)](https://www.legislation.gov.uk/uksi/2005/42/regulation/38/2) substituted (1.10.2007) by [The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (S.I. 2007/2502)](https://www.legislation.gov.uk/uksi/2007/2502), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2502/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2007/2502/regulation/2/4/b)
+[^c-c4679a9e29cc990cb52ab70873de91d4]: Textual amendment: [Reg. 38(2)](https://www.legislation.gov.uk/uksi/2005/42/regulation/38/2) substituted (1.10.2007) by [The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (S.I. 2007/2502)](https://www.legislation.gov.uk/uksi/2007/2502), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2502/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2007/2502/regulation/2/4/b)
 
-[^key-02e1cf5ad387b7a905b71d3c979edd8d]: Commencement: Reg. 39 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-02e1cf5ad387b7a905b71d3c979edd8d]: Commencement: Reg. 39 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
 [^M_F_1469505a-bace-4b5f-c102-4a678bc4c865]: Textual amendment: Words in reg. 39 substituted (1.10.2007) by [The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (S.I. 2007/2502)](https://www.legislation.gov.uk/uksi/2007/2502), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2502/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2007/2502/regulation/2/5)
 
 [^M_F_91959aed-bf87-4dfd-8f68-62f25ca41729]: Textual amendment: Words in [reg. 39(b)](https://www.legislation.gov.uk/uksi/2005/42/regulation/37/b) substituted (25.4.2012) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) Regulations 2012 (S.I. 2012/955)](https://www.legislation.gov.uk/uksi/2012/955), [regs. 1](https://www.legislation.gov.uk/uksi/2012/955/regulation/1), [9](https://www.legislation.gov.uk/uksi/2012/955/regulation/9)
 
-[^key-9b92cb83242b87c165c474fbbe809df5]: Textual amendment: [Reg. 39A](https://www.legislation.gov.uk/uksi/2005/42/regulation/39A) inserted (1.10.2007) by [The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (S.I. 2007/2502)](https://www.legislation.gov.uk/uksi/2007/2502), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2502/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2007/2502/regulation/2/6)
+[^c-9b92cb83242b87c165c474fbbe809df5]: Textual amendment: [Reg. 39A](https://www.legislation.gov.uk/uksi/2005/42/regulation/39A) inserted (1.10.2007) by [The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (S.I. 2007/2502)](https://www.legislation.gov.uk/uksi/2007/2502), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2502/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2007/2502/regulation/2/6)
 
-[^key-5b151f49092e0f5a39df43bd4dbe2dcb]: Textual amendment: [Reg. 39B](https://www.legislation.gov.uk/uksi/2005/42/regulation/39B) inserted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [10](https://www.legislation.gov.uk/uksi/2009/3159/regulation/10)
+[^c-5b151f49092e0f5a39df43bd4dbe2dcb]: Textual amendment: [Reg. 39B](https://www.legislation.gov.uk/uksi/2005/42/regulation/39B) inserted (28.12.2009) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) (Electronic Applications etc) Regulations 2009 (S.I. 2009/3159)](https://www.legislation.gov.uk/uksi/2009/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3159/regulation/1), [10](https://www.legislation.gov.uk/uksi/2009/3159/regulation/10)
 
-[^key-335ebc344d4af75446181207205b7117]: Commencement: Reg. 40 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-335ebc344d4af75446181207205b7117]: Commencement: Reg. 40 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-b2ab3fcb13dd81513a6f285f886facc8]: Commencement: Reg. 41 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-b2ab3fcb13dd81513a6f285f886facc8]: Commencement: Reg. 41 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-4f4c28ec60090074e9a850ed825f032c]: Commencement: Reg. 42 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-4f4c28ec60090074e9a850ed825f032c]: Commencement: Reg. 42 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-0101a7c55741467ec1dca5333a7c3771]: Commencement: Sch. 1 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-0101a7c55741467ec1dca5333a7c3771]: Commencement: Sch. 1 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-b27d7f8ede7a23a43a7e2ebc3e79860d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/42/schedule/1) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/411/schedule/3)
+[^c-b27d7f8ede7a23a43a7e2ebc3e79860d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/42/schedule/1) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/411/schedule/3)
 
-[^key-7fcd669ed362203ce749b28276b2e2c0]: Commencement: Sch. 2 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-7fcd669ed362203ce749b28276b2e2c0]: Commencement: Sch. 2 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-45d3430394484bd9a81247a9f977493a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/42/schedule/2) Form substituted (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/242/schedule/2)
+[^c-45d3430394484bd9a81247a9f977493a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/42/schedule/2) Form substituted (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/242/schedule/2)
 
-[^key-9f67a138cee6ce7b0481132ae6f435b2]: Commencement: Sch. 3 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-9f67a138cee6ce7b0481132ae6f435b2]: Commencement: Sch. 3 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-a4f9ac57dd837d03deab7533640b2d19]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2005/42/schedule/3) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2017/411/schedule/5)
+[^c-a4f9ac57dd837d03deab7533640b2d19]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2005/42/schedule/3) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2017/411/schedule/5)
 
-[^key-36529a53e6d71ff907c33857ff2be2a9]: Commencement: Sch. 4 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-36529a53e6d71ff907c33857ff2be2a9]: Commencement: Sch. 4 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-4efeaeb52eb9fcb6af98a6402facab64]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2005/42/schedule/4) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2017/411/schedule/6)
+[^c-4efeaeb52eb9fcb6af98a6402facab64]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2005/42/schedule/4) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2017/411/schedule/6)
 
-[^key-b8151f668ffd8e34f84ca5b6dbcf04f1]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/uksi/2005/42/schedule/4A) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/411/schedule/7)
+[^c-b8151f668ffd8e34f84ca5b6dbcf04f1]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/uksi/2005/42/schedule/4A) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/411/schedule/7)
 
-[^key-9049eb0d9c56c625d71abf7e49436240]: Textual amendment: Schs. 4A, 4B inserted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2009/1809/schedule)
+[^c-9049eb0d9c56c625d71abf7e49436240]: Textual amendment: Schs. 4A, 4B inserted (29.7.2009) by [The Licensing Act 2003 (Premises Licences and Club Premises Certificates) (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1809)](https://www.legislation.gov.uk/uksi/2009/1809), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1809/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2009/1809/schedule)
 
-[^key-2b53f9d747359227a13b32aeadd1cb4a]: Textual amendment: [Sch. 4B](https://www.legislation.gov.uk/uksi/2005/42/schedule/4B) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/411/schedule/8)
+[^c-2b53f9d747359227a13b32aeadd1cb4a]: Textual amendment: [Sch. 4B](https://www.legislation.gov.uk/uksi/2005/42/schedule/4B) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/411/schedule/8)
 
-[^key-3cea8bdeb97d9235406b7625b20350bd]: Commencement: Sch. 5 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-3cea8bdeb97d9235406b7625b20350bd]: Commencement: Sch. 5 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-5ad7f592e9f630a5b87bd417437d0827]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2005/42/schedule/5) Form substituted (23.3.2018) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) Regulations 2018 (S.I. 2018/232)](https://www.legislation.gov.uk/uksi/2018/232), [reg. 1](https://www.legislation.gov.uk/uksi/2018/232/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/232/schedule)
+[^c-5ad7f592e9f630a5b87bd417437d0827]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2005/42/schedule/5) Form substituted (23.3.2018) by [The Licensing Act 2003 (Premises licences and club premises certificates) (Amendment) Regulations 2018 (S.I. 2018/232)](https://www.legislation.gov.uk/uksi/2018/232), [reg. 1](https://www.legislation.gov.uk/uksi/2018/232/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/232/schedule)
 
-[^key-6666ef41a50cdffe023034b552ba5ec1]: Commencement: Sch. 6 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-6666ef41a50cdffe023034b552ba5ec1]: Commencement: Sch. 6 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-53d69fa3f57da50237bebe4958146ac8]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2005/42/schedule/6) Form substituted (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [Sch. 3](https://www.legislation.gov.uk/uksi/2022/242/schedule/3)
+[^c-53d69fa3f57da50237bebe4958146ac8]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2005/42/schedule/6) Form substituted (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [Sch. 3](https://www.legislation.gov.uk/uksi/2022/242/schedule/3)
 
-[^key-4e495b98be70555c01a799ebd981bbb4]: Commencement: Sch. 7 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-4e495b98be70555c01a799ebd981bbb4]: Commencement: Sch. 7 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-541ae2c41de64531308381c4bfc36236]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/uksi/2005/42/schedule/7) Form substituted (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [Sch. 4](https://www.legislation.gov.uk/uksi/2022/242/schedule/4)
+[^c-541ae2c41de64531308381c4bfc36236]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/uksi/2005/42/schedule/7) Form substituted (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [Sch. 4](https://www.legislation.gov.uk/uksi/2022/242/schedule/4)
 
-[^key-b97c70c2871db67c70e1384c373f5810]: Commencement: Sch. 8 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-b97c70c2871db67c70e1384c373f5810]: Commencement: Sch. 8 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-29d1379577b21a7ff5f4080ce096d575]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/uksi/2005/42/schedule/8) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 12](https://www.legislation.gov.uk/uksi/2017/411/schedule/12)
+[^c-29d1379577b21a7ff5f4080ce096d575]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/uksi/2005/42/schedule/8) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 12](https://www.legislation.gov.uk/uksi/2017/411/schedule/12)
 
-[^key-2ccf2e2880eebfe8d880db978cb1339a]: Textual amendment: [Sch. 8A](https://www.legislation.gov.uk/uksi/2005/42/schedule/8A) inserted (1.10.2007) by [The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (S.I. 2007/2502)](https://www.legislation.gov.uk/uksi/2007/2502), [reg. 1](https://www.legislation.gov.uk/uksi/2007/2502/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2007/2502/schedule)
+[^c-2ccf2e2880eebfe8d880db978cb1339a]: Textual amendment: [Sch. 8A](https://www.legislation.gov.uk/uksi/2005/42/schedule/8A) inserted (1.10.2007) by [The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (S.I. 2007/2502)](https://www.legislation.gov.uk/uksi/2007/2502), [reg. 1](https://www.legislation.gov.uk/uksi/2007/2502/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2007/2502/schedule)
 
-[^key-7a40d6f90eecbf8b9b69ea0abe7d95a5]: Commencement: Sch. 9 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-7a40d6f90eecbf8b9b69ea0abe7d95a5]: Commencement: Sch. 9 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-31e5f8b60e12daae9651058f09c3ddee]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/uksi/2005/42/schedule/9) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 13](https://www.legislation.gov.uk/uksi/2017/411/schedule/13)
+[^c-31e5f8b60e12daae9651058f09c3ddee]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/uksi/2005/42/schedule/9) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 13](https://www.legislation.gov.uk/uksi/2017/411/schedule/13)
 
-[^key-e99fe1036a286d9cdaf0aff96f6b8cfc]: Commencement: Sch. 10 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-e99fe1036a286d9cdaf0aff96f6b8cfc]: Commencement: Sch. 10 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-e7e6fdd1b0f27db94f425323cdabfba0]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/uksi/2005/42/schedule/10) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 14](https://www.legislation.gov.uk/uksi/2017/411/schedule/14)
+[^c-e7e6fdd1b0f27db94f425323cdabfba0]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/uksi/2005/42/schedule/10) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 14](https://www.legislation.gov.uk/uksi/2017/411/schedule/14)
 
-[^key-7755319dc55035542db72ecefaa661c2]: Commencement: Sch. 11 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-7755319dc55035542db72ecefaa661c2]: Commencement: Sch. 11 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-c1767fcf9c3b3556634f6a3c5de388a6]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/uksi/2005/42/schedule/11) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 15](https://www.legislation.gov.uk/uksi/2017/411/schedule/15)
+[^c-c1767fcf9c3b3556634f6a3c5de388a6]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/uksi/2005/42/schedule/11) Form substituted (6.4.2017) by [The Licensing Act 2003 (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/411)](https://www.legislation.gov.uk/uksi/2017/411), [reg. 1](https://www.legislation.gov.uk/uksi/2017/411/regulation/1), [Sch. 15](https://www.legislation.gov.uk/uksi/2017/411/schedule/15)
 
-[^key-56b4063586dec956e35ff67ccd38d833]: Commencement: Sch. 12 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-56b4063586dec956e35ff67ccd38d833]: Commencement: Sch. 12 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
 
-[^key-3ae565b5d1df2bc65167427e60b0419d]: Commencement: Sch. 13 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)
+[^c-3ae565b5d1df2bc65167427e60b0419d]: Commencement: Sch. 13 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/42/regulation/1)

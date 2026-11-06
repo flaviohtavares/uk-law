@@ -210,7 +210,7 @@ In relation to any application, appeal, enforcement action or other matter dealt
 
 (4) Section 65(3) shall apply to the notice as it applies to a notice served by the council under section 64.
 
-### 10. Transitional provisions: revocation or modification of planning permission[^key-e22468a211a24ab3985b9cb7d8b24eae]
+### 10. Transitional provisions: revocation or modification of planning permission[^c-e22468a211a24ab3985b9cb7d8b24eae]
 
 (1) Subject to sub-paragraph (5) this paragraph applies where before the transfer date the Department served a notice under Article 38 (Revocation or modification of planning permission) (or any order or regulation made under the 1991 Order).
 
@@ -276,4 +276,4 @@ The following provisions of the Planning Act (Northern Ireland) 2011 have been b
 
 [^c22355401]: Marginal citation: [1965 c.23 (N.I.)](https://www.legislation.gov.uk/apni/1965/23) as amended by [S.I. 1991/1220](https://www.legislation.gov.uk/uksi/1991/1220) (N.I.), [2001 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2001/2) and [2011 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2011/25)
 
-[^key-e22468a211a24ab3985b9cb7d8b24eae]: Textual amendment: [Sch. 2 paras. 10](https://www.legislation.gov.uk/nisr/2015/49/schedule/2/paragraph/10) [11](https://www.legislation.gov.uk/nisr/2015/49/schedule/2/paragraph/11) substituted (16.3.2016) by [The Planning (2011 Act) (Commencement No.3) and (Transitional Provisions) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/159)](https://www.legislation.gov.uk/nisr/2016/159), [arts. 1](https://www.legislation.gov.uk/nisr/2016/159/article/1), [2](https://www.legislation.gov.uk/nisr/2016/159/article/2)
+[^c-e22468a211a24ab3985b9cb7d8b24eae]: Textual amendment: [Sch. 2 paras. 10](https://www.legislation.gov.uk/nisr/2015/49/schedule/2/paragraph/10) [11](https://www.legislation.gov.uk/nisr/2015/49/schedule/2/paragraph/11) substituted (16.3.2016) by [The Planning (2011 Act) (Commencement No.3) and (Transitional Provisions) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/159)](https://www.legislation.gov.uk/nisr/2016/159), [arts. 1](https://www.legislation.gov.uk/nisr/2016/159/article/1), [2](https://www.legislation.gov.uk/nisr/2016/159/article/2)

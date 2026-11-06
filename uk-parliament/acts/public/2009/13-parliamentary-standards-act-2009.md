@@ -48,9 +48,9 @@ Nothing in this Act shall be construed by any court in the United Kingdom as aff
 
 (2) But that is subject to—
 
-- (a)[^key-dd4b21d2e5e7f782ae9cdc21a52c3d59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-dd4b21d2e5e7f782ae9cdc21a52c3d59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) paragraphs 5(3) and (4), 16(2), 22(1), 24(2)(b) and 25(1) of Schedule 1, and
-- (c) paragraph 8(2)[^key-da09d363d3d087a0807f1ad7c2f0e598] of Schedule 2.
+- (c) paragraph 8(2)[^c-da09d363d3d087a0807f1ad7c2f0e598] of Schedule 2.
 
 ## Independent Parliamentary Standards Authority etc
 
@@ -60,7 +60,7 @@ Nothing in this Act shall be construed by any court in the United Kingdom as aff
 
 (2) Schedule 1 (which makes provision about the IPSA, and in particular provides for its administration functions to be carried out by its chief executive in accordance with paragraph 17 of that Schedule) has effect.
 
-(3)[^key-43e3503e7e792e3dd895284fd6acfd00] There is to be an officer known as the Compliance Officer for the Independent Parliamentary Standards Authority (“the Compliance Officer”).
+(3)[^c-43e3503e7e792e3dd895284fd6acfd00] There is to be an officer known as the Compliance Officer for the Independent Parliamentary Standards Authority (“the Compliance Officer”).
 
 (4) Schedule 2 (which makes provision about the Compliance Officer) has effect.
 
@@ -68,7 +68,7 @@ Nothing in this Act shall be construed by any court in the United Kingdom as aff
 
 (6) Schedule 3 (which makes provision about the Committee) has effect.
 
-### 3A. General duties of the IPSA[^key-523c774017216de0d332760eca59f9de]
+### 3A. General duties of the IPSA[^c-523c774017216de0d332760eca59f9de]
 
 (1) In carrying out its functions the IPSA must have regard to the principle that it should act in a way which is efficient, cost-effective and transparent.
 
@@ -76,7 +76,7 @@ Nothing in this Act shall be construed by any court in the United Kingdom as aff
 
 ## Salaries and allowances for MPs
 
-### 4. MPs' salaries[^key-a43bca00c41253876f9c9a30bde2e6c2][^key-85c938fb55a276b9c7efd8ad34f919ad]
+### 4. MPs' salaries[^c-a43bca00c41253876f9c9a30bde2e6c2][^c-85c938fb55a276b9c7efd8ad34f919ad]
 
 (1) Members of the House of Commons are to receive a salary for the relevant period.
 
@@ -129,7 +129,7 @@ Nothing in this Act shall be construed by any court in the United Kingdom as aff
 
 (10) The IPSA may delegate to the Review Body on Senior Salaries its function of reviewing a determination (but not its function of deciding whether or not to make a new determination).
 
-### 5. MPs' allowances scheme[^key-67533be43acd1cfbf1eeaaca12d818b4]
+### 5. MPs' allowances scheme[^c-67533be43acd1cfbf1eeaaca12d818b4]
 
 (1) The IPSA is to pay allowances to members of the House of Commons in accordance with the MPs' allowances scheme.
 
@@ -154,7 +154,7 @@ Nothing in this Act shall be construed by any court in the United Kingdom as aff
 
 (5) The Speaker must lay the scheme (or revision) before the House of Commons.
 
-(5A)[^key-7ac5d748ba875aa321b240b838848c4e] When the scheme (or revision) is laid, the IPSA must publish in a way it considers appropriate—
+(5A)[^c-7ac5d748ba875aa321b240b838848c4e] When the scheme (or revision) is laid, the IPSA must publish in a way it considers appropriate—
 
 - (a) the scheme (or revision), and
 - (b) a statement of its reasons for adopting that scheme (or making that revision).
@@ -167,15 +167,15 @@ Nothing in this Act shall be construed by any court in the United Kingdom as aff
 - (b) provide for allowances to be payable only on specified conditions (such as a condition that claims for allowances must be supported by documentary evidence);
 - (c) impose limits on the amounts that may be paid.
 
-(8) The scheme may provide for allowances to be payable in connection with a person's ceasing to be a member of the House of Commons; and in relation to any such allowances, references in this Act to a member of the House of Commons include a former member of that House.[^key-7f9e31c5c10b0bd95ffda7195198d8ce]
+(8) The scheme may provide for allowances to be payable in connection with a person's ceasing to be a member of the House of Commons; and in relation to any such allowances, references in this Act to a member of the House of Commons include a former member of that House.[^c-7f9e31c5c10b0bd95ffda7195198d8ce]
 
-(8A)[^key-5880f4638661237e42cff25e4977d46e] Any duty of the IPSA to pay an allowance to a member is subject to anything done in relation to the member in the exercise of the disciplinary powers of the House of Commons.
+(8A)[^c-5880f4638661237e42cff25e4977d46e] Any duty of the IPSA to pay an allowance to a member is subject to anything done in relation to the member in the exercise of the disciplinary powers of the House of Commons.
 
-(9) This section does not affect the provision of pensions for or in respect of persons with service as a member of the House of Commons (see Schedule 6 to the Constitutional Reform and Governance Act 2010[^key-20eb568f0b2086ce9c3eb5173a12215e] ).
+(9) This section does not affect the provision of pensions for or in respect of persons with service as a member of the House of Commons (see Schedule 6 to the Constitutional Reform and Governance Act 2010[^c-20eb568f0b2086ce9c3eb5173a12215e] ).
 
 (10) In section 3A(1) of the European Parliament (Pay and Pensions) Act 1979 (c. 50) (power to make order aligning MEPs' resettlement grants with MPs' resettlement grants), after “resolutions of the House of Commons” insert “ , or a scheme under section 5 of the Parliamentary Standards Act 2009, ”.
 
-### 6. Dealing with claims under the scheme[^key-81ef73999c0a175533406017e1f3b6ea]
+### 6. Dealing with claims under the scheme[^c-81ef73999c0a175533406017e1f3b6ea]
 
 (1) No allowance is to be paid to a member of the House of Commons under the MPs' allowances scheme unless a claim for the allowance has been made to the IPSA.
 
@@ -186,21 +186,21 @@ Nothing in this Act shall be construed by any court in the United Kingdom as aff
 - (a) determine whether to allow or refuse the claim, and
 - (b) if it is allowed, determine how much of the amount claimed is to be allowed and pay it accordingly.
 
-(4)[^key-6f493b1e84d4d8eafc6c4753a12b5ca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6f493b1e84d4d8eafc6c4753a12b5ca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-6f493b1e84d4d8eafc6c4753a12b5ca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-6f493b1e84d4d8eafc6c4753a12b5ca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The MPs' allowances scheme may include—
 
 - (a) further provision about how claims are to be dealt with;
-- (b)[^key-63494c1939831528c944b78a83562e4c] provision for deducting amounts within subsection (6A) from allowances payable under the scheme or salaries payable under section 4;
+- (b)[^c-63494c1939831528c944b78a83562e4c] provision for deducting amounts within subsection (6A) from allowances payable under the scheme or salaries payable under section 4;
 - (c) provision about how such deductions, and deductions under paragraph 5 or 12 of Schedule 4, are to be made.
 
-(6A)[^key-d9a7b5da9b207369230edf20221ca570] This subsection applies to amounts which a member (under section 9(8) or otherwise) has agreed to repay, in respect of amounts paid to the member under the MPs' allowances scheme that should not have been allowed.
+(6A)[^c-d9a7b5da9b207369230edf20221ca570] This subsection applies to amounts which a member (under section 9(8) or otherwise) has agreed to repay, in respect of amounts paid to the member under the MPs' allowances scheme that should not have been allowed.
 
 (7) The scheme may provide for an allowance to which a member is entitled under the scheme to be paid to another person at the member's direction; and references in this Act to the payment of an allowance to a member are to be read accordingly.
 
-(8)[^key-82262cd5a588580e271c33576533d602] The IPSA must publish such information as it considers appropriate in respect of—
+(8)[^c-82262cd5a588580e271c33576533d602] The IPSA must publish such information as it considers appropriate in respect of—
 
 - (a) each claim made under or by virtue of this section, and
 - (b) each payment of an allowance by the IPSA under or by virtue of this section.
@@ -215,7 +215,7 @@ Nothing in this Act shall be construed by any court in the United Kingdom as aff
 - (d) the Compliance Officer, and
 - (e) any other person the IPSA considers appropriate.
 
-### 6A. Review of IPSA's determination[^key-701f32265c8db64abeec43d9370f3fce]
+### 6A. Review of IPSA's determination[^c-701f32265c8db64abeec43d9370f3fce]
 
 (1) This section applies if—
 
@@ -261,9 +261,9 @@ Nothing in this Act shall be construed by any court in the United Kingdom as aff
 
 (12) The Compliance Officer must notify the IPSA of the Tribunal's decision (and the result of any further appeal).
 
-### 7. Information and guidance ...[^key-1ca08af7f63d9a333a52ecd8b88002d3][^key-4114ac9402ad80843ac700955c9c2476]
+### 7. Information and guidance ...[^c-1ca08af7f63d9a333a52ecd8b88002d3][^c-4114ac9402ad80843ac700955c9c2476]
 
-(A1)[^key-0d8e5004e560479f9a71bb81491b7ac7] The IPSA must—
+(A1)[^c-0d8e5004e560479f9a71bb81491b7ac7] The IPSA must—
 
 - (a) prepare guidance for members of the House of Commons about making claims under the MPs' allowances scheme;
 - (b) review the guidance regularly and revise it as appropriate;
@@ -282,17 +282,17 @@ Nothing in this Act shall be construed by any court in the United Kingdom as aff
 
 (3) “**HMRC**” means Her Majesty's Revenue and Customs.
 
-## ...[^key-6565f5a91bd12907a8309eb974c86735]
+## ...[^c-6565f5a91bd12907a8309eb974c86735]
 
 **Not yet in force.**
 
-### 8. MPs' code of conduct relating to financial interests[^key-f015063976cae12c123eb19039b5aba0][^c1982054]
+### 8. MPs' code of conduct relating to financial interests[^c-f015063976cae12c123eb19039b5aba0][^c1982054]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Investigation and enforcement
 
-### 9. Investigations[^c1982084][^key-5da5bf9a2532d9be618e7cdb6967b1c6]
+### 9. Investigations[^c1982084][^c-5da5bf9a2532d9be618e7cdb6967b1c6]
 
 (1) The Compliance Officer may conduct an investigation if the Compliance Officer has reason to believe that a member of the House of Commons may have been paid an amount under the MPs' allowances scheme that should not have been allowed.
 
@@ -364,13 +364,13 @@ Nothing in this Act shall be construed by any court in the United Kingdom as aff
 - (d) the Compliance Officer, and
 - (e) any other person the IPSA considers appropriate.
 
-### 9B. Enforcement[^key-01ad0b02960f7a3ee9d312728de29431]
+### 9B. Enforcement[^c-01ad0b02960f7a3ee9d312728de29431]
 
 (1) Schedule 4 (which makes provision about the enforcement powers of the Compliance Officer) has effect.
 
 (2) The Compliance Officer may provide to the Parliamentary Commissioner for Standards any information connected with an investigation under section 9 or action taken under Schedule 4 which the Compliance Officer considers may be relevant to the work of the Parliamentary Commissioner for Standards.
 
-### 10. Offence of providing false or misleading information for allowances claims[^c1982113][^key-09d05fec2d5b21e89bd9eff3584a8423]
+### 10. Offence of providing false or misleading information for allowances claims[^c1982113][^c-09d05fec2d5b21e89bd9eff3584a8423]
 
 (1) A member of the House of Commons commits an offence if the member—
 
@@ -382,16 +382,16 @@ Nothing in this Act shall be construed by any court in the United Kingdom as aff
 - (a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum or to both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 12 months or to a fine or to both.
 
-(2A)[^key-4e78c2a2e016968a5575da742899cba2] In the application of this section in England and Wales, the reference in subsection (2)(a) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
+(2A)[^c-4e78c2a2e016968a5575da742899cba2] In the application of this section in England and Wales, the reference in subsection (2)(a) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
 
 (3) In the application of this section—
 
-- (a)[^key-5d00dc52c027b07dc03d3f33577fe7e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5d00dc52c027b07dc03d3f33577fe7e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in Northern Ireland,
 
 the reference in subsection (2)(a) to 12 months is to be read as a reference to 6 months.
 
-### 10A. Relationships with other bodies etc[^key-efc2b34188420c94d27fa482d932649e]
+### 10A. Relationships with other bodies etc[^c-efc2b34188420c94d27fa482d932649e]
 
 (1) The IPSA and the Compliance Officer must prepare a joint statement setting out how the IPSA and the Compliance Officer will work with the following—
 
@@ -413,7 +413,7 @@ the reference in subsection (2)(a) to 12 months is to be read as a reference to 
 
 ## Final provisions
 
-### 11. Further functions of the IPSA and Commissioner[^key-d8954be8297a83304249ac9bfe105bf9][^c1982132]
+### 11. Further functions of the IPSA and Commissioner[^c-d8954be8297a83304249ac9bfe105bf9][^c1982132]
 
 **Not yet in force.**
 
@@ -423,17 +423,17 @@ the reference in subsection (2)(a) to 12 months is to be read as a reference to 
 
 (1) In this Act—
 
-- “ **the Compliance Officer[^key-f2f5d3960901b9ebe5c29e520b03e92b]** ” has the meaning given by section 3(3);
+- “ **the Compliance Officer[^c-f2f5d3960901b9ebe5c29e520b03e92b]** ” has the meaning given by section 3(3);
 - “**IPSA**” has the meaning given by section 3(1);
 - “**the Leader of the House of Commons**” means the Minister of the Crown who is for the time being designated as Leader of the House of Commons by the Prime Minister;
 - “**Minister of the Crown**” has the same meaning as in the Ministers of the Crown Act 1975 (c. 26);
 - “**the MPs' allowances scheme**” has the meaning given by section 5(2);
-- [^key-dca8acda4355ef8c47b63b5e20661dfc]...
+- [^c-dca8acda4355ef8c47b63b5e20661dfc]...
 - “**specified**” includes of a specified description.
 
-(2) In this Act any reference to a particular committee or officer[^key-474391e12d30d5d0f962a320536ff230] of the House of Commons—
+(2) In this Act any reference to a particular committee or officer[^c-474391e12d30d5d0f962a320536ff230] of the House of Commons—
 
-- (a) if the name of the committee or officer is changed, is to be treated as a reference to the committee or officer by the[^key-5b4809f4f47aae6eff70abf4d7a3860d] new name, and
+- (a) if the name of the committee or officer is changed, is to be treated as a reference to the committee or officer by the[^c-5b4809f4f47aae6eff70abf4d7a3860d] new name, and
 - (b) if the functions of the committee or officer (or substantially corresponding functions) become functions of a different committee or officer of that House, is to be treated as a reference to the committee or officer by which those functions are exercisable.
 
 (3) In this Act any reference to the Committee on Standards in Public Life or to the Review Body on Senior Salaries—
@@ -450,12 +450,12 @@ the reference in subsection (2)(a) to 12 months is to be read as a reference to 
 (2) An order under this section may provide—
 
 - (a) that the House of Commons' rules about members' allowances have effect for specified purposes as if contained in a scheme under section 5,
-- (b)[^key-7b4f4c4feae5dea20809681afaaf8fa0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7b4f4c4feae5dea20809681afaaf8fa0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7b4f4c4feae5dea20809681afaaf8fa0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7b4f4c4feae5dea20809681afaaf8fa0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The purposes which may be specified do not include the purposes of section 10 (offence of providing false or misleading information for allowances claims).
 
-(4) The order may provide for references in the rules to an officer or committee of the House of Commons to have effect as references to the Compliance Officer[^key-18869751594709cb59d51537c4e803d9] or the IPSA.
+(4) The order may provide for references in the rules to an officer or committee of the House of Commons to have effect as references to the Compliance Officer[^c-18869751594709cb59d51537c4e803d9] or the IPSA.
 
 (5) An order under this section may provide that payments of allowances made to a member of the House of Commons, to which the member was not entitled under the rules mentioned in subsection (2)(a), may be set off against other claims for allowances to be paid to that member.
 
@@ -463,9 +463,9 @@ the reference in subsection (2)(a) to 12 months is to be read as a reference to 
 
 - (a) for the employment of persons of a specified description who are employed in connection with matters dealt with by the rules to be transferred to the IPSA by a scheme,
 - (b) for specified property, rights and liabilities which subsist wholly or mainly for the purposes of the House of Commons to be transferred to the IPSA by a scheme, and
-- (c) for specified documents and information held by or on behalf of the House of Commons (or an officer or committee of that House) to be transferred to the Compliance Officer[^key-35c1c663f5b4c79ca90e470e7f95adbf] or the IPSA.
+- (c) for specified documents and information held by or on behalf of the House of Commons (or an officer or committee of that House) to be transferred to the Compliance Officer[^c-35c1c663f5b4c79ca90e470e7f95adbf] or the IPSA.
 
-(7)[^key-42ab6136841ff33a86dc3de68d3c2833] A scheme made by virtue of subsection (6) is to be made by a Minister of the Crown with the consent of the person who chairs the House of Commons Commission.
+(7)[^c-42ab6136841ff33a86dc3de68d3c2833] A scheme made by virtue of subsection (6) is to be made by a Minister of the Crown with the consent of the person who chairs the House of Commons Commission.
 
 (8) An order under this section is to be made by statutory instrument.
 
@@ -485,11 +485,11 @@ the reference in subsection (2)(a) to 12 months is to be read as a reference to 
 - (a) section 12;
 - (b) section 13;
 - (c) this section;
-- (d)[^key-b5bb80601fb77adb42f61b5bb5fbeae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-b5bb80601fb77adb42f61b5bb5fbeae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c2021569][^c2021571] The other provisions come into force on the day appointed by a Minister of the Crown by order made by statutory instrument; and different days may be appointed for different purposes.
 
-### 15. Expiry of provisions of the Act[^key-54ecdcbe9b312a7460f94f7b354a8212]
+### 15. Expiry of provisions of the Act[^c-54ecdcbe9b312a7460f94f7b354a8212]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -510,7 +510,7 @@ Section 3
 
 (2) At least one of the members of the IPSA must be a person who has held (but no longer holds) high judicial office (within the meaning of Part 3 of the Constitutional Reform Act 2005 (c. 4)).
 
-(3)[^key-3f84c59b938540269316d1b418b1dc47] At least one of the members of the IPSA must be a person who is eligible for appointment as a statutory auditor by virtue of Chapter 2 of Part 42 of the Companies Act 2006.
+(3)[^c-3f84c59b938540269316d1b418b1dc47] At least one of the members of the IPSA must be a person who is eligible for appointment as a statutory auditor by virtue of Chapter 2 of Part 42 of the Companies Act 2006.
 
 (4) One of the members of the IPSA (“the Parliamentary member”) must be a person who has been (but is no longer) a member of the House of Commons.
 
@@ -591,9 +591,9 @@ Section 3
 
 (2) The IPSA's property is not to be regarded as property of, or property held on behalf of, the Crown.
 
-#### ...[^key-293ea767a5ae933120f2e867510ac2a9]
+#### ...[^c-293ea767a5ae933120f2e867510ac2a9]
 
-**10.**[^key-293ea767a5ae933120f2e867510ac2a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-293ea767a5ae933120f2e867510ac2a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Powers
 
@@ -645,7 +645,7 @@ Section 3
 
 #### Separation of administration functions and regulation functions
 
-**17.**[^key-4877a244dc0f71422406d5c700beb48b] (1) The IPSA's administration functions are to be carried out by the chief executive on behalf of the IPSA and in accordance with its general directions.
+**17.**[^c-4877a244dc0f71422406d5c700beb48b] (1) The IPSA's administration functions are to be carried out by the chief executive on behalf of the IPSA and in accordance with its general directions.
 
 (2) So far as possible the IPSA's administration functions and its regulation functions must be carried out separately, so that one set of functions does not adversely affect the carrying out of the other.
 
@@ -653,26 +653,26 @@ Section 3
 
 #### Meaning of “administration functions” and “regulation functions”
 
-**18.** (1)[^key-2688e5b8c6793fa293be41bbd8add02e] The IPSA's administration functions are its functions under—
+**18.** (1)[^c-2688e5b8c6793fa293be41bbd8add02e] The IPSA's administration functions are its functions under—
 
-- (a)[^key-d60abc51739c6178d3add05f708d4157] section 4 (MPs' salaries), so far as relating to the payment (but not the determination) of salaries,
+- (a)[^c-d60abc51739c6178d3add05f708d4157] section 4 (MPs' salaries), so far as relating to the payment (but not the determination) of salaries,
 - (b) section 5(1) (payment of MPs' allowances),
-- (c) section 6 (dealing with allowances claims) (except as mentioned in sub-paragraph (2) below)[^key-128062cdb320cef4fc54952f1930e28e] ,
+- (c) section 6 (dealing with allowances claims) (except as mentioned in sub-paragraph (2) below)[^c-128062cdb320cef4fc54952f1930e28e] ,
 
-[^key-2761b77654400cd67610b7e6d4429043]...
+[^c-2761b77654400cd67610b7e6d4429043]...
 
 (2) The IPSA's regulation functions are its functions under—
 
-- (za)[^key-e97c5b3f7863a0910eaeb63842b4afe4] sections 4 and 4A (MPs' salaries) (except as mentioned in sub-paragraph (1) above),
-- (a)[^key-28fdb05ecda5cb8f03f7e02d5d9957dd] section 5(3) and (4) (preparing and revising MPs' allowances scheme),
-- (aa)[^key-7e61cfe471f968fa7e43674480d713b3] section 6(10) (determining procedures for publication of allowances claims),
-- (b)[^key-eed39f73aadc0dc49b515ba76edea13e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-394a822aada81fb71e5bf45cca9ede37] section 9(8)(b) and (9) (determining conditions),
+- (za)[^c-e97c5b3f7863a0910eaeb63842b4afe4] sections 4 and 4A (MPs' salaries) (except as mentioned in sub-paragraph (1) above),
+- (a)[^c-28fdb05ecda5cb8f03f7e02d5d9957dd] section 5(3) and (4) (preparing and revising MPs' allowances scheme),
+- (aa)[^c-7e61cfe471f968fa7e43674480d713b3] section 6(10) (determining procedures for publication of allowances claims),
+- (b)[^c-eed39f73aadc0dc49b515ba76edea13e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-394a822aada81fb71e5bf45cca9ede37] section 9(8)(b) and (9) (determining conditions),
 - (d) section 9A (determining procedures for investigations etc),
 - (e) paragraphs 1, 2(2), 4(2) and 9(2) of Schedule 2 (appointment and removal of Compliance Officer etc), and
 - (f) paragraphs 2, 8 and 9 of Schedule 4 (scheme, guidance etc for Compliance Officer).
 
-(3)[^key-c02844f93c60d224edb990580303e955] The IPSA's functions under the following provisions are also regulation functions—
+(3)[^c-c02844f93c60d224edb990580303e955] The IPSA's functions under the following provisions are also regulation functions—
 
 - (a) sections 3, 4 and 6 of the European Parliament (Pay and Pensions) Act 1979 (but not any function relating to the administration of a scheme under section 3 or 4);
 - (b) paragraphs 2 to 5, 8, 9, 11, 12 and 15 of Schedule 6 to the Constitutional Reform and Governance Act 2010 (but not any function relating to the administration of a scheme under paragraph 8 or 12).
@@ -760,7 +760,7 @@ Section 3
 
 (7) If the Committee does not follow any advice given by the Treasury, or makes any modifications to the estimate, it must prepare a statement of its reasons and the Speaker must lay the statement before the House of Commons.
 
-(8) Any payments received by the IPSA as a result of a repayment direction under Schedule 4, and any repayments otherwise[^key-f79bdd282c30bde724ab2c7e08d20646] received by the IPSA may be retained by the IPSA and applied by it for the purposes of its functions.
+(8) Any payments received by the IPSA as a result of a repayment direction under Schedule 4, and any repayments otherwise[^c-f79bdd282c30bde724ab2c7e08d20646] received by the IPSA may be retained by the IPSA and applied by it for the purposes of its functions.
 
 #### Accounts
 
@@ -828,10 +828,10 @@ Section 3
 (2) In this Schedule—
 
 - “**administration functions**” has the meaning given by paragraph 18(1),
-- “**regulation functions**” has the meaning given by paragraph 18(2) and (3)[^key-657282da0d3a6223837c7f2b65bae372] , and
+- “**regulation functions**” has the meaning given by paragraph 18(2) and (3)[^c-657282da0d3a6223837c7f2b65bae372] , and
 - “**the Speaker**” means the Speaker of the House of Commons.
 
-## Schedule 2 — Compliance Officer[^key-71ca44346e7b1ddf8e381855934caf58]
+## Schedule 2 — Compliance Officer[^c-71ca44346e7b1ddf8e381855934caf58]
 
 Section 3
 
@@ -945,11 +945,11 @@ Section 3
 
 - (a) the Speaker of the House of Commons,
 - (b) the Leader of the House of Commons,
-- (c) the person who chairs the House of Commons Committee on Standards and Privileges, [^key-63c6614c19350e2bc21c758fbf145cac]...
-- (d) five members of the House of Commons who are not Ministers of the Crown, appointed by the House of Commons, and[^key-64686279aea5ca1d7f488a95594a4bcf]
+- (c) the person who chairs the House of Commons Committee on Standards and Privileges, [^c-63c6614c19350e2bc21c758fbf145cac]...
+- (d) five members of the House of Commons who are not Ministers of the Crown, appointed by the House of Commons, and[^c-64686279aea5ca1d7f488a95594a4bcf]
 - (e) three lay persons appointed by resolution of the House of Commons.
 
-### Appointed members[^key-771ba20a32a6cde6674fccbba77dfbce]
+### Appointed members[^c-771ba20a32a6cde6674fccbba77dfbce]
 
 **2.** (1) A person appointed under paragraph 1(d) (“an appointed member”) ceases to be a member of the Committee if—
 
@@ -962,7 +962,7 @@ Section 3
 
 (4) An appointed member may be re-appointed (more than once) to membership of the Committee.
 
-### Lay members[^key-8da8acb7b7d55d864f4806a9458c225e]
+### Lay members[^c-8da8acb7b7d55d864f4806a9458c225e]
 
 **2A.** (1) In paragraph 1(e) “**lay person**” means a person who is not, and has never been, a member of either House of Parliament.
 
@@ -991,7 +991,7 @@ Section 3
 - (a) a vacancy among the members, or
 - (b) a defect in the appointment of a member.
 
-## Schedule 4 — Enforcement[^key-04674dfc5ab7344ba45e3ede34663159]
+## Schedule 4 — Enforcement[^c-04674dfc5ab7344ba45e3ede34663159]
 
 Section 9B
 
@@ -1116,7 +1116,7 @@ Section 9B
 - (a) any salary payable to the member under section 4;
 - (b) any allowances payable to the member under the MPs' allowances scheme.
 
-(4) In England and Wales and Northern Ireland the amount is recoverable, if the county court in England and Wales or a county court in Northern Ireland[^key-dad8ddcfb07ba9474541171f06a3e7ee] so orders on the application of the Compliance Officer, as if it were payable under an order of that court.
+(4) In England and Wales and Northern Ireland the amount is recoverable, if the county court in England and Wales or a county court in Northern Ireland[^c-dad8ddcfb07ba9474541171f06a3e7ee] so orders on the application of the Compliance Officer, as if it were payable under an order of that court.
 
 (5) In Scotland the amount is recoverable as if the repayment direction were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
 
@@ -1217,7 +1217,7 @@ Section 9B
 - (a) any salary payable to the member under section 4;
 - (b) any allowances payable to the member under the MPs' allowances scheme.
 
-(4) In England and Wales and Northern Ireland the amount is recoverable, if the county court in England and Wales or a county court in Northern Ireland[^key-fc40f369dd8c01195d437ff9b7d5a4a4] so orders on the application of the Compliance Officer, as if it were payable under an order of that court.
+(4) In England and Wales and Northern Ireland the amount is recoverable, if the county court in England and Wales or a county court in Northern Ireland[^c-fc40f369dd8c01195d437ff9b7d5a4a4] so orders on the application of the Compliance Officer, as if it were payable under an order of that court.
 
 (5) In Scotland the amount is recoverable as if the penalty notice were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
 
@@ -1230,140 +1230,140 @@ Section 9B
 
 ## Annotations
 
-[^key-dd4b21d2e5e7f782ae9cdc21a52c3d59]: Textual amendment: [S. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2009/13/section/2/2/a) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 2(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/2/a); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(i)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/i)
+[^c-dd4b21d2e5e7f782ae9cdc21a52c3d59]: Textual amendment: [S. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2009/13/section/2/2/a) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 2(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/2/a); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(i)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/i)
 
-[^key-da09d363d3d087a0807f1ad7c2f0e598]: Textual amendment: Words in s. 2(2)(c) substituted (19.4.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 2(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/2/b); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/d/ii)
+[^c-da09d363d3d087a0807f1ad7c2f0e598]: Textual amendment: Words in s. 2(2)(c) substituted (19.4.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 2(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/2/b); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/d/ii)
 
 [^c2021596]: Commencement: S. 3 not in force at Royal Assent see s. 14(3); s. 3(1)(2) in force at 12.10.2009 by [S.I. 2009/2500](https://www.legislation.gov.uk/uksi/2009/2500), [art. 2](https://www.legislation.gov.uk/uksi/2009/2500/article/2); s. 3(5)(6) in force at 26.10.2009 by [S.I. 2009/2612](https://www.legislation.gov.uk/uksi/2009/2612), [art. 2](https://www.legislation.gov.uk/uksi/2009/2612/article/2)
 
-[^key-43e3503e7e792e3dd895284fd6acfd00]: Textual amendment: [S. 3(3)](https://www.legislation.gov.uk/ukpga/2009/13/section/3/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/13/section/3/4) substituted (19.4.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2010/25/section/26/1), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/a)
+[^c-43e3503e7e792e3dd895284fd6acfd00]: Textual amendment: [S. 3(3)](https://www.legislation.gov.uk/ukpga/2009/13/section/3/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/13/section/3/4) substituted (19.4.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2010/25/section/26/1), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/a)
 
-[^key-523c774017216de0d332760eca59f9de]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/2009/13/section/3A) inserted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2010/25/section/28/2), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/b)
+[^c-523c774017216de0d332760eca59f9de]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/2009/13/section/3A) inserted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2010/25/section/28/2), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/b)
 
-[^key-a43bca00c41253876f9c9a30bde2e6c2]: Commencement: S. 4 in force at 7.5.2010 by [S.I. 2010/1033](https://www.legislation.gov.uk/uksi/2010/1033), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1033/article/3/a)
+[^c-a43bca00c41253876f9c9a30bde2e6c2]: Commencement: S. 4 in force at 7.5.2010 by [S.I. 2010/1033](https://www.legislation.gov.uk/uksi/2010/1033), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1033/article/3/a)
 
-[^key-85c938fb55a276b9c7efd8ad34f919ad]: Textual amendment: S. 4, 4A substituted for s. 4 (24.5.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 29](https://www.legislation.gov.uk/ukpga/2010/25/section/29), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/a)
+[^c-85c938fb55a276b9c7efd8ad34f919ad]: Textual amendment: S. 4, 4A substituted for s. 4 (24.5.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 29](https://www.legislation.gov.uk/ukpga/2010/25/section/29), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/a)
 
-[^key-67533be43acd1cfbf1eeaaca12d818b4]: Commencement: S. 5 in force at 29.3.2010 by [S.I. 2010/1033](https://www.legislation.gov.uk/uksi/2010/1033), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1033/article/2/a)
+[^c-67533be43acd1cfbf1eeaaca12d818b4]: Commencement: S. 5 in force at 29.3.2010 by [S.I. 2010/1033](https://www.legislation.gov.uk/uksi/2010/1033), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1033/article/2/a)
 
-[^key-7ac5d748ba875aa321b240b838848c4e]: Textual amendment: S. 5(5A) inserted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2010/25/section/28/3), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/b)
+[^c-7ac5d748ba875aa321b240b838848c4e]: Textual amendment: S. 5(5A) inserted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2010/25/section/28/3), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/b)
 
-[^key-7f9e31c5c10b0bd95ffda7195198d8ce]: Textual amendment: Words in s. 5(8) substituted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/3); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(ii)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/ii)
+[^c-7f9e31c5c10b0bd95ffda7195198d8ce]: Textual amendment: Words in s. 5(8) substituted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/3); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(ii)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/ii)
 
-[^key-5880f4638661237e42cff25e4977d46e]: Textual amendment: S. 5(8A) inserted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 30](https://www.legislation.gov.uk/ukpga/2010/25/section/30), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/c)
+[^c-5880f4638661237e42cff25e4977d46e]: Textual amendment: S. 5(8A) inserted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 30](https://www.legislation.gov.uk/ukpga/2010/25/section/30), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/c)
 
-[^key-20eb568f0b2086ce9c3eb5173a12215e]: Textual amendment: Words in [s. 5(9)](https://www.legislation.gov.uk/ukpga/2009/13/section/5/9) substituted (24.10.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 47(1)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/47/1); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/iii)
+[^c-20eb568f0b2086ce9c3eb5173a12215e]: Textual amendment: Words in [s. 5(9)](https://www.legislation.gov.uk/ukpga/2009/13/section/5/9) substituted (24.10.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 47(1)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/47/1); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/iii)
 
-[^key-81ef73999c0a175533406017e1f3b6ea]: Commencement: S. 6 in force at 29.3.2010 by [S.I. 2010/1033](https://www.legislation.gov.uk/uksi/2010/1033), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/1033/article/2/b)
+[^c-81ef73999c0a175533406017e1f3b6ea]: Commencement: S. 6 in force at 29.3.2010 by [S.I. 2010/1033](https://www.legislation.gov.uk/uksi/2010/1033), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/1033/article/2/b)
 
-[^key-6f493b1e84d4d8eafc6c4753a12b5ca3]: Textual amendment: S. 6(4)(5) omitted (27.7.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/2), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/b)
+[^c-6f493b1e84d4d8eafc6c4753a12b5ca3]: Textual amendment: S. 6(4)(5) omitted (27.7.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/2), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/b)
 
-[^key-63494c1939831528c944b78a83562e4c]: Textual amendment: S. 6(6)(b)(c) substituted for s. 6(6)(b) (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 31(3)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/3), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/b)
+[^c-63494c1939831528c944b78a83562e4c]: Textual amendment: S. 6(6)(b)(c) substituted for s. 6(6)(b) (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 31(3)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/3), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/b)
 
-[^key-d9a7b5da9b207369230edf20221ca570]: Textual amendment: S. 6(6A) inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 31(4)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/4), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/b)
+[^c-d9a7b5da9b207369230edf20221ca570]: Textual amendment: S. 6(6A) inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 31(4)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/4), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/b)
 
-[^key-82262cd5a588580e271c33576533d602]: Textual amendment: S. 6(8)-(10) inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 28(4)](https://www.legislation.gov.uk/ukpga/2010/25/section/28/4), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/a) (with [arts. 4](https://www.legislation.gov.uk/uksi/2010/1931/article/4), [5](https://www.legislation.gov.uk/uksi/2010/1931/article/5))
+[^c-82262cd5a588580e271c33576533d602]: Textual amendment: S. 6(8)-(10) inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 28(4)](https://www.legislation.gov.uk/ukpga/2010/25/section/28/4), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/a) (with [arts. 4](https://www.legislation.gov.uk/uksi/2010/1931/article/4), [5](https://www.legislation.gov.uk/uksi/2010/1931/article/5))
 
-[^key-701f32265c8db64abeec43d9370f3fce]: Textual amendment: S. 6A inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 31(5)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/5), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/b)
+[^c-701f32265c8db64abeec43d9370f3fce]: Textual amendment: S. 6A inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 31(5)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/5), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/b)
 
-[^key-1ca08af7f63d9a333a52ecd8b88002d3]: Commencement: S. 7 in force at 7.5.2010 by [S.I. 2010/1278](https://www.legislation.gov.uk/uksi/2010/1278), [art. 2](https://www.legislation.gov.uk/uksi/2010/1278/article/2)
+[^c-1ca08af7f63d9a333a52ecd8b88002d3]: Commencement: S. 7 in force at 7.5.2010 by [S.I. 2010/1278](https://www.legislation.gov.uk/uksi/2010/1278), [art. 2](https://www.legislation.gov.uk/uksi/2010/1278/article/2)
 
-[^key-4114ac9402ad80843ac700955c9c2476]: Textual amendment: Words in heading omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 31(6)(b)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/6/b), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/d)
+[^c-4114ac9402ad80843ac700955c9c2476]: Textual amendment: Words in heading omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 31(6)(b)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/6/b), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/d)
 
-[^key-0d8e5004e560479f9a71bb81491b7ac7]: Textual amendment: S. 7(A1) inserted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 31(6)(a)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/6/a), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/d)
+[^c-0d8e5004e560479f9a71bb81491b7ac7]: Textual amendment: S. 7(A1) inserted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 31(6)(a)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/6/a), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/d)
 
-[^key-6565f5a91bd12907a8309eb974c86735]: Textual amendment: S. 8 cross-heading omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 32](https://www.legislation.gov.uk/ukpga/2010/25/section/32), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/e)
+[^c-6565f5a91bd12907a8309eb974c86735]: Textual amendment: S. 8 cross-heading omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 32](https://www.legislation.gov.uk/ukpga/2010/25/section/32), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/e)
 
-[^key-f015063976cae12c123eb19039b5aba0]: Textual amendment: S. 8 omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 32](https://www.legislation.gov.uk/ukpga/2010/25/section/32), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/e)
+[^c-f015063976cae12c123eb19039b5aba0]: Textual amendment: S. 8 omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 32](https://www.legislation.gov.uk/ukpga/2010/25/section/32), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/e)
 
 [^c1982054]: Modification: For expiry of s. 8 see s. 15
 
 [^c1982084]: Modification: For expiry of s. 9 see s. 15
 
-[^key-5da5bf9a2532d9be618e7cdb6967b1c6]: Textual amendment: Ss. 9, 9A substituted for s. 9 (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 33](https://www.legislation.gov.uk/ukpga/2010/25/section/33), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/c) (with [arts. 4](https://www.legislation.gov.uk/uksi/2010/1931/article/4), [5](https://www.legislation.gov.uk/uksi/2010/1931/article/5))
+[^c-5da5bf9a2532d9be618e7cdb6967b1c6]: Textual amendment: Ss. 9, 9A substituted for s. 9 (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 33](https://www.legislation.gov.uk/ukpga/2010/25/section/33), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/c) (with [arts. 4](https://www.legislation.gov.uk/uksi/2010/1931/article/4), [5](https://www.legislation.gov.uk/uksi/2010/1931/article/5))
 
-[^key-01ad0b02960f7a3ee9d312728de29431]: Textual amendment: S. 9B inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 34(1)](https://www.legislation.gov.uk/ukpga/2010/25/section/34/1), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2010/1931/article/4), [5](https://www.legislation.gov.uk/uksi/2010/1931/article/5))
+[^c-01ad0b02960f7a3ee9d312728de29431]: Textual amendment: S. 9B inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 34(1)](https://www.legislation.gov.uk/ukpga/2010/25/section/34/1), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2010/1931/article/4), [5](https://www.legislation.gov.uk/uksi/2010/1931/article/5))
 
 [^c1982113]: Modification: For expiry of s. 10 see s. 15
 
-[^key-09d05fec2d5b21e89bd9eff3584a8423]: Commencement: S. 10 in force at 7.5.2010 by [S.I. 2010/1033](https://www.legislation.gov.uk/uksi/2010/1033), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1033/article/3/b)
+[^c-09d05fec2d5b21e89bd9eff3584a8423]: Commencement: S. 10 in force at 7.5.2010 by [S.I. 2010/1033](https://www.legislation.gov.uk/uksi/2010/1033), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1033/article/3/b)
 
-[^key-4e78c2a2e016968a5575da742899cba2]: Textual amendment: [S. 10(2A)](https://www.legislation.gov.uk/ukpga/2009/13/section/10/2A) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/21/2)
+[^c-4e78c2a2e016968a5575da742899cba2]: Textual amendment: [S. 10(2A)](https://www.legislation.gov.uk/ukpga/2009/13/section/10/2A) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/21/2)
 
-[^key-5d00dc52c027b07dc03d3f33577fe7e9]: Textual amendment: [S. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2009/13/section/10/3/a) omitted (7.2.2023 at 12.00 p.m.) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/21/3)
+[^c-5d00dc52c027b07dc03d3f33577fe7e9]: Textual amendment: [S. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2009/13/section/10/3/a) omitted (7.2.2023 at 12.00 p.m.) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/21/3)
 
-[^key-efc2b34188420c94d27fa482d932649e]: Textual amendment: S. 10A inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 35](https://www.legislation.gov.uk/ukpga/2010/25/section/35), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/e)
+[^c-efc2b34188420c94d27fa482d932649e]: Textual amendment: S. 10A inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 35](https://www.legislation.gov.uk/ukpga/2010/25/section/35), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/e)
 
-[^key-d8954be8297a83304249ac9bfe105bf9]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/2009/13/section/11) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 36](https://www.legislation.gov.uk/ukpga/2010/25/section/36), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(f)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/f)
+[^c-d8954be8297a83304249ac9bfe105bf9]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/2009/13/section/11) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 36](https://www.legislation.gov.uk/ukpga/2010/25/section/36), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(f)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/f)
 
 [^c1982132]: Modification: For expiry of s. 11 see s. 15
 
-[^key-f2f5d3960901b9ebe5c29e520b03e92b]: Textual amendment: Words in s. 12(1) substituted (19.4.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/4/2/a); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/d/iii)
+[^c-f2f5d3960901b9ebe5c29e520b03e92b]: Textual amendment: Words in s. 12(1) substituted (19.4.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/4/2/a); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/d/iii)
 
-[^key-dca8acda4355ef8c47b63b5e20661dfc]: Textual amendment: Words in s. 12(1) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/4/2/b); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(iii)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/iii)
+[^c-dca8acda4355ef8c47b63b5e20661dfc]: Textual amendment: Words in s. 12(1) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/4/2/b); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(iii)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/iii)
 
-[^key-474391e12d30d5d0f962a320536ff230]: Textual amendment: Words in [s. 12(2)](https://www.legislation.gov.uk/ukpga/2009/13/section/12/2) inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/4/3/a); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(h)(i)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/h/i)
+[^c-474391e12d30d5d0f962a320536ff230]: Textual amendment: Words in [s. 12(2)](https://www.legislation.gov.uk/ukpga/2009/13/section/12/2) inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/4/3/a); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(h)(i)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/h/i)
 
-[^key-5b4809f4f47aae6eff70abf4d7a3860d]: Textual amendment: Word in [s. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2009/13/section/12/2/a) substituted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/4/3/b); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(h)(i)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/h/i)
+[^c-5b4809f4f47aae6eff70abf4d7a3860d]: Textual amendment: Word in [s. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2009/13/section/12/2/a) substituted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/4/3/b); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(h)(i)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/h/i)
 
-[^key-7b4f4c4feae5dea20809681afaaf8fa0]: Textual amendment: [S. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2009/13/section/13/2/b)[(c)](https://www.legislation.gov.uk/ukpga/2009/13/section/13/2/c) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 5(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/5/2); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(iv)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/iv)
+[^c-7b4f4c4feae5dea20809681afaaf8fa0]: Textual amendment: [S. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2009/13/section/13/2/b)[(c)](https://www.legislation.gov.uk/ukpga/2009/13/section/13/2/c) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 5(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/5/2); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(iv)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/iv)
 
-[^key-18869751594709cb59d51537c4e803d9]: Textual amendment: Words in s. 13(4) substituted (19.4.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/5/3); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/d/iv)
+[^c-18869751594709cb59d51537c4e803d9]: Textual amendment: Words in s. 13(4) substituted (19.4.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/5/3); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/d/iv)
 
-[^key-35c1c663f5b4c79ca90e470e7f95adbf]: Textual amendment: Words in s. 13(6)(c) substituted (19.4.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/5/3); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/d/iv)
+[^c-35c1c663f5b4c79ca90e470e7f95adbf]: Textual amendment: Words in s. 13(6)(c) substituted (19.4.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/5/3); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/d/iv)
 
-[^key-42ab6136841ff33a86dc3de68d3c2833]: Modification: [S. 13(7)](https://www.legislation.gov.uk/ukpga/2009/13/section/13/7) applied (24.10.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 48(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/48/3); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(vi)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/vi)
+[^c-42ab6136841ff33a86dc3de68d3c2833]: Modification: [S. 13(7)](https://www.legislation.gov.uk/ukpga/2009/13/section/13/7) applied (24.10.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 48(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/48/3); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(vi)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/vi)
 
-[^key-b5bb80601fb77adb42f61b5bb5fbeae6]: Textual amendment: S. 14(2)(d) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/6); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(v)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/v)
+[^c-b5bb80601fb77adb42f61b5bb5fbeae6]: Textual amendment: S. 14(2)(d) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/6); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(v)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/v)
 
 [^c2021569]: Subordinate legislation: S. 14(3) power partly exercised: 12.10.2009 appointed for specified provisions by [S.I. 2009/2500](https://www.legislation.gov.uk/uksi/2009/2500), art. 2
 
 [^c2021571]: Subordinate legislation: S. 14(3) power partly exercised: 26.10.2009 appointed for specified provisions by [S.I. 2009/2612](https://www.legislation.gov.uk/uksi/2009/2612), art. 2
 
-[^key-54ecdcbe9b312a7460f94f7b354a8212]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/2009/13/section/15) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 37](https://www.legislation.gov.uk/ukpga/2010/25/section/37), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(g)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/g)
+[^c-54ecdcbe9b312a7460f94f7b354a8212]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/2009/13/section/15) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 37](https://www.legislation.gov.uk/ukpga/2010/25/section/37), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(g)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/g)
 
-[^key-3f84c59b938540269316d1b418b1dc47]: Textual amendment: [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/ukpga/2009/13/schedule/1/paragraph/1/3) substituted (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/33); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-3f84c59b938540269316d1b418b1dc47]: Textual amendment: [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/ukpga/2009/13/schedule/1/paragraph/1/3) substituted (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/33); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-293ea767a5ae933120f2e867510ac2a9]: Textual amendment: Sch. 1 para. 10 and heading omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/2); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/vi)
+[^c-293ea767a5ae933120f2e867510ac2a9]: Textual amendment: Sch. 1 para. 10 and heading omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/2); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/vi)
 
-[^key-4877a244dc0f71422406d5c700beb48b]: Commencement: Sch. 1 para. 17 in force at 7.5.2010 by [S.I. 2010/1033](https://www.legislation.gov.uk/uksi/2010/1033), [art. 3(c)(i)](https://www.legislation.gov.uk/uksi/2010/1033/article/3/c/i)
+[^c-4877a244dc0f71422406d5c700beb48b]: Commencement: Sch. 1 para. 17 in force at 7.5.2010 by [S.I. 2010/1033](https://www.legislation.gov.uk/uksi/2010/1033), [art. 3(c)(i)](https://www.legislation.gov.uk/uksi/2010/1033/article/3/c/i)
 
-[^key-2688e5b8c6793fa293be41bbd8add02e]: Commencement: Sch. 1 para. 18(1) in force at 7.5.2010 for specified purposes by [S.I. 2010/1033](https://www.legislation.gov.uk/uksi/2010/1033), [art. 3(c)(ii)](https://www.legislation.gov.uk/uksi/2010/1033/article/3/c/ii)
+[^c-2688e5b8c6793fa293be41bbd8add02e]: Commencement: Sch. 1 para. 18(1) in force at 7.5.2010 for specified purposes by [S.I. 2010/1033](https://www.legislation.gov.uk/uksi/2010/1033), [art. 3(c)(ii)](https://www.legislation.gov.uk/uksi/2010/1033/article/3/c/ii)
 
-[^key-d60abc51739c6178d3add05f708d4157]: Textual amendment: Sch. 1 para. 18(1)(a) substituted (24.5.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/3/a); [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/b)
+[^c-d60abc51739c6178d3add05f708d4157]: Textual amendment: Sch. 1 para. 18(1)(a) substituted (24.5.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/3/a); [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/b)
 
-[^key-128062cdb320cef4fc54952f1930e28e]: Textual amendment: Words in Sch. 1 para. 18(1)(c) inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/3/b); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(h)(ii)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/h/ii)
+[^c-128062cdb320cef4fc54952f1930e28e]: Textual amendment: Words in Sch. 1 para. 18(1)(c) inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/3/b); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(h)(ii)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/h/ii)
 
-[^key-2761b77654400cd67610b7e6d4429043]: Textual amendment: Words in Sch. 1 para. 18(1) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(3)(c)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/3/c); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/vi)
+[^c-2761b77654400cd67610b7e6d4429043]: Textual amendment: Words in Sch. 1 para. 18(1) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(3)(c)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/3/c); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/vi)
 
-[^key-e97c5b3f7863a0910eaeb63842b4afe4]: Textual amendment: Sch. 1 para. 18(2)(za) inserted (24.5.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(4)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/4/a); [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/b)
+[^c-e97c5b3f7863a0910eaeb63842b4afe4]: Textual amendment: Sch. 1 para. 18(2)(za) inserted (24.5.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(4)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/4/a); [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/b)
 
-[^key-28fdb05ecda5cb8f03f7e02d5d9957dd]: Commencement: Sch. 1 para. 18(2)(a) in force at 7.5.2010 by [S.I. 2010/1033](https://www.legislation.gov.uk/uksi/2010/1033), [art. 3(c)(iii)](https://www.legislation.gov.uk/uksi/2010/1033/article/3/c/iii)
+[^c-28fdb05ecda5cb8f03f7e02d5d9957dd]: Commencement: Sch. 1 para. 18(2)(a) in force at 7.5.2010 by [S.I. 2010/1033](https://www.legislation.gov.uk/uksi/2010/1033), [art. 3(c)(iii)](https://www.legislation.gov.uk/uksi/2010/1033/article/3/c/iii)
 
-[^key-7e61cfe471f968fa7e43674480d713b3]: Textual amendment: Sch. 1 para. 18(2)(aa) inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(4)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/4/b); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(h)(ii)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/h/ii)
+[^c-7e61cfe471f968fa7e43674480d713b3]: Textual amendment: Sch. 1 para. 18(2)(aa) inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(4)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/4/b); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(h)(ii)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/h/ii)
 
-[^key-eed39f73aadc0dc49b515ba76edea13e]: Textual amendment: Sch. 1 para. 18(2)(b) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(4)(c)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/4/c); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/vi)
+[^c-eed39f73aadc0dc49b515ba76edea13e]: Textual amendment: Sch. 1 para. 18(2)(b) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(4)(c)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/4/c); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/i/vi)
 
-[^key-394a822aada81fb71e5bf45cca9ede37]: Textual amendment: [Sch. 1 para. 18(2)(c)-(f)](https://www.legislation.gov.uk/ukpga/2009/13/schedule/1/paragraph/18/2/c) substituted for [Sch. 1](https://www.legislation.gov.uk/ukpga/2009/13/schedule/1) [para. 18(2)(c)](https://www.legislation.gov.uk/ukpga/2009/13/schedule/1/paragraph/18/2/c) (19.4.2010 for specified purposes, 27.7.2010 in so far as not already in force) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(4)(d)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/4/d); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(d)(v)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/d/v); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(h)(ii)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/h/ii)
+[^c-394a822aada81fb71e5bf45cca9ede37]: Textual amendment: [Sch. 1 para. 18(2)(c)-(f)](https://www.legislation.gov.uk/ukpga/2009/13/schedule/1/paragraph/18/2/c) substituted for [Sch. 1](https://www.legislation.gov.uk/ukpga/2009/13/schedule/1) [para. 18(2)(c)](https://www.legislation.gov.uk/ukpga/2009/13/schedule/1/paragraph/18/2/c) (19.4.2010 for specified purposes, 27.7.2010 in so far as not already in force) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(4)(d)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/4/d); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(d)(v)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/d/v); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(h)(ii)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/h/ii)
 
-[^key-c02844f93c60d224edb990580303e955]: Textual amendment: [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/ukpga/2009/13/schedule/1/paragraph/18/3) inserted (24.10.2011 for specified purposes, 1.11.2013 in so far as not already in force) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 47(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/47/2); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/iv); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/iii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+[^c-c02844f93c60d224edb990580303e955]: Textual amendment: [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/ukpga/2009/13/schedule/1/paragraph/18/3) inserted (24.10.2011 for specified purposes, 1.11.2013 in so far as not already in force) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 47(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/47/2); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/iv); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/iii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
 
-[^key-f79bdd282c30bde724ab2c7e08d20646]: Textual amendment: Words in Sch. 1 para. 22(8) substituted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(5)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/5); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(h)(ii)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/h/ii)
+[^c-f79bdd282c30bde724ab2c7e08d20646]: Textual amendment: Words in Sch. 1 para. 22(8) substituted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 7(5)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/7/5); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(h)(ii)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/h/ii)
 
-[^key-657282da0d3a6223837c7f2b65bae372]: Textual amendment: Words in [Sch. 1 para. 29(2)](https://www.legislation.gov.uk/ukpga/2009/13/schedule/1/paragraph/29/2) inserted (24.10.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 47(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/47/3); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(v)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/v)
+[^c-657282da0d3a6223837c7f2b65bae372]: Textual amendment: Words in [Sch. 1 para. 29(2)](https://www.legislation.gov.uk/ukpga/2009/13/schedule/1/paragraph/29/2) inserted (24.10.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 47(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/47/3); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(v)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/v)
 
-[^key-71ca44346e7b1ddf8e381855934caf58]: Textual amendment: Sch. 2 substituted (19.4.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 3](https://www.legislation.gov.uk/ukpga/2010/25/schedule/3); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(a)(c)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/a/c)
+[^c-71ca44346e7b1ddf8e381855934caf58]: Textual amendment: Sch. 2 substituted (19.4.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 3](https://www.legislation.gov.uk/ukpga/2010/25/schedule/3); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(a)(c)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/a/c)
 
-[^key-63c6614c19350e2bc21c758fbf145cac]: Textual amendment: Word in Sch. 3 para. 1(c) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2010/25/section/27/2/a), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/a)
+[^c-63c6614c19350e2bc21c758fbf145cac]: Textual amendment: Word in Sch. 3 para. 1(c) omitted (7.5.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2010/25/section/27/2/a), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/a)
 
-[^key-64686279aea5ca1d7f488a95594a4bcf]: Textual amendment: Sch. 3 para. 1(e) and word inserted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2010/25/section/27/2/b), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/a)
+[^c-64686279aea5ca1d7f488a95594a4bcf]: Textual amendment: Sch. 3 para. 1(e) and word inserted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2010/25/section/27/2/b), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/a)
 
-[^key-771ba20a32a6cde6674fccbba77dfbce]: Textual amendment: Sch. 3 para. 2 cross-heading substituted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2010/25/section/27/3), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/a)
+[^c-771ba20a32a6cde6674fccbba77dfbce]: Textual amendment: Sch. 3 para. 2 cross-heading substituted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2010/25/section/27/3), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/a)
 
-[^key-8da8acb7b7d55d864f4806a9458c225e]: Textual amendment: Sch. 3 para. 2A and cross-heading inserted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 27(4)](https://www.legislation.gov.uk/ukpga/2010/25/section/27/4), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/a)
+[^c-8da8acb7b7d55d864f4806a9458c225e]: Textual amendment: Sch. 3 para. 2A and cross-heading inserted (7.5.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 27(4)](https://www.legislation.gov.uk/ukpga/2010/25/section/27/4), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/a)
 
-[^key-04674dfc5ab7344ba45e3ede34663159]: Textual amendment: Sch. 4 inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2010/25/section/34/2), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 4](https://www.legislation.gov.uk/ukpga/2010/25/schedule/4); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(d)(g)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/d/g) (with [arts. 4](https://www.legislation.gov.uk/uksi/2010/1931/article/4), [5](https://www.legislation.gov.uk/uksi/2010/1931/article/5))
+[^c-04674dfc5ab7344ba45e3ede34663159]: Textual amendment: Sch. 4 inserted (27.7.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2010/25/section/34/2), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 4](https://www.legislation.gov.uk/ukpga/2010/25/schedule/4); [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(d)(g)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/d/g) (with [arts. 4](https://www.legislation.gov.uk/uksi/2010/1931/article/4), [5](https://www.legislation.gov.uk/uksi/2010/1931/article/5))
 
-[^key-dad8ddcfb07ba9474541171f06a3e7ee]: Textual amendment: Words in Sch. 4 para. 5(4) substituted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 117](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/117); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-dad8ddcfb07ba9474541171f06a3e7ee]: Textual amendment: Words in Sch. 4 para. 5(4) substituted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 117](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/117); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-fc40f369dd8c01195d437ff9b7d5a4a4]: Textual amendment: Words in [Sch. 4 para. 12(4)](https://www.legislation.gov.uk/ukpga/2009/13/schedule/4/paragraph/12/4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 117](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/117); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-fc40f369dd8c01195d437ff9b7d5a4a4]: Textual amendment: Words in [Sch. 4 para. 12(4)](https://www.legislation.gov.uk/ukpga/2009/13/schedule/4/paragraph/12/4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 117](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/117); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

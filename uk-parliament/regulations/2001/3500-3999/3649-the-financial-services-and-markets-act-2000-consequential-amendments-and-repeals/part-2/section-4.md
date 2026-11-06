@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Membership of holding company[^key-b6d6e9bfd744bad0b3476ac9f4be824d]
+## 4. Membership of holding company[^c-b6d6e9bfd744bad0b3476ac9f4be824d]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b6d6e9bfd744bad0b3476ac9f4be824d]: Commencement: Art. 4 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b6d6e9bfd744bad0b3476ac9f4be824d]: Commencement: Art. 4 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00011]: Footnote: Section 23 was substituted by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 129 and amended by [S.I. 1990/1392](https://www.legislation.gov.uk/uksi/1990/1392), article 8; [S.I. 1990/1707](https://www.legislation.gov.uk/uksi/1990/1707), article 8; [S.I. 1997/2306](https://www.legislation.gov.uk/uksi/1997/2306), regulations 2 and 3.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Closure of active member’s account[^key-171c291d61ae727c629ebfec4235cb4f]
+## 32. Closure of active member’s account[^c-171c291d61ae727c629ebfec4235cb4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-171c291d61ae727c629ebfec4235cb4f]: Commencement: Reg. 32 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-171c291d61ae727c629ebfec4235cb4f]: Commencement: Reg. 32 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

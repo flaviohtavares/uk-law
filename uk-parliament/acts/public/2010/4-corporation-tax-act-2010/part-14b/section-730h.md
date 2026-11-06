@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 730H. Interpretation of section 730G[^key-1d8f6c1a7c6c2d45e6c8d518163a958e]
+## 730H. Interpretation of section 730G[^c-1d8f6c1a7c6c2d45e6c8d518163a958e]
 
 *Extent: E+W+S+N.I.*
 
 (1) In section 730G—
 
 - “**arrangements**” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable);
-- “[^key-c271f86e3026e92cae669e238c6d039a]**CFC charge advantage**” means the avoidance or reduction of a charge or assessment to a charge under Part 9A of TIOPA 2010 (controlled foreign companies);
+- “[^c-c271f86e3026e92cae669e238c6d039a]**CFC charge advantage**” means the avoidance or reduction of a charge or assessment to a charge under Part 9A of TIOPA 2010 (controlled foreign companies);
 - “**corporation tax advantage**” means—
   - (a) a relief from corporation tax or increased relief from corporation tax,
   - (b) a repayment of corporation tax or increased repayment of corporation tax,
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1d8f6c1a7c6c2d45e6c8d518163a958e]: Textual amendment: Pt. 14B inserted (with effect and application in accordance with Sch. 3 Pt. 2 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/3/paragraph/1)
+[^c-1d8f6c1a7c6c2d45e6c8d518163a958e]: Textual amendment: Pt. 14B inserted (with effect and application in accordance with Sch. 3 Pt. 2 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/3/paragraph/1)
 
-[^key-c271f86e3026e92cae669e238c6d039a]: Textual amendment: Words in [s. 730H(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/730H/1) inserted (18.11.2015) (with effect in accordance with s. 37(7)(8) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 37(6)](https://www.legislation.gov.uk/ukpga/2015/33/section/37/6)
+[^c-c271f86e3026e92cae669e238c6d039a]: Textual amendment: Words in [s. 730H(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/730H/1) inserted (18.11.2015) (with effect in accordance with s. 37(7)(8) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 37(6)](https://www.legislation.gov.uk/ukpga/2015/33/section/37/6)

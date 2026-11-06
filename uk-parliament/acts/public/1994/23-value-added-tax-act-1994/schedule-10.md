@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — BUILDINGS AND LAND[^key-4886c4d756193ace48afaa5d7fb55299]
+## SCHEDULE 10 — BUILDINGS AND LAND[^c-4886c4d756193ace48afaa5d7fb55299]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,65 +76,65 @@ the grant does not fall within Group 1 of Schedule 9 (exemptions for land).
 
 ##### 3. Meaning of “relevant associate”
 
-(1) This paragraph explains for the purposes of this Part of this Schedule what is meant by a “relevant associate” in a case where a person[^key-3d5c1e89a6986c1c18b26ab016b9b821] (“the opter”) exercises an option to tax in relation to any building or land.
+(1) This paragraph explains for the purposes of this Part of this Schedule what is meant by a “relevant associate” in a case where a person[^c-3d5c1e89a6986c1c18b26ab016b9b821] (“the opter”) exercises an option to tax in relation to any building or land.
 
-(2) A person[^key-5b12bbdcd960614a879cf340ae75971f] is a relevant associate of the opter if under sections 43A to 43D (groups of companies) the person—
+(2) A person[^c-5b12bbdcd960614a879cf340ae75971f] is a relevant associate of the opter if under sections 43A to 43D (groups of companies) the person—
 
 - (a) was treated as a member of the same group as the opter at the time when the option first had effect,
 - (b) has been so treated at any later time when the opter had a relevant interest in the building or land, or
-- (c) has been treated as a member of the same group as a person[^key-468dbfe085ed408148974d321c18d04a] within paragraph (a) or (b) of this sub-paragraph at a time when that person[^key-0e0c666a8c71e984053e3abbf7743d48] had a relevant interest in the building or land.
+- (c) has been treated as a member of the same group as a person[^c-468dbfe085ed408148974d321c18d04a] within paragraph (a) or (b) of this sub-paragraph at a time when that person[^c-0e0c666a8c71e984053e3abbf7743d48] had a relevant interest in the building or land.
 
-(3) But a person (“P”)[^key-4749be939abaf0033cca68c162a39dcb] ceases to be a relevant associate of the opter in relation to the building or land in the following circumstances.
+(3) But a person (“P”)[^c-4749be939abaf0033cca68c162a39dcb] ceases to be a relevant associate of the opter in relation to the building or land in the following circumstances.
 
-(4) P[^key-a950178431b4fcdb3efc875d0b09db3d] ceases to be a relevant associate of the opter in relation to the building or land at the time when all of the following conditions are first met—
+(4) P[^c-a950178431b4fcdb3efc875d0b09db3d] ceases to be a relevant associate of the opter in relation to the building or land at the time when all of the following conditions are first met—
 
-- (a) P[^key-c3399114d988e86f22a8c4761424c69e] has no relevant interest in the building or land ,[^key-e49f26363edfab60d77ab95302152250]
-- (aa) where P[^key-e793dcacd2bec89d7a95151ba9d798cd] has disposed of such an interest, it is not the case that a supply for the purposes of the charge to VAT in respect of the disposal—
+- (a) P[^c-c3399114d988e86f22a8c4761424c69e] has no relevant interest in the building or land ,[^c-e49f26363edfab60d77ab95302152250]
+- (aa) where P[^c-e793dcacd2bec89d7a95151ba9d798cd] has disposed of such an interest, it is not the case that a supply for the purposes of the charge to VAT in respect of the disposal—
   - (i) is yet to take place, or
   - (ii) would be yet to take place if one or more conditions (such as the happening of an event or the doing of an act) were to be met,
-- (b) P[^key-01c7aa56adb875b84d2e683dd791dc3a] or the opter is not treated under sections 43A to 43D as a member of the group mentioned above, and
-- (c) P[^key-5325690cebaa08bc3b48fed8dfeb60ef] is not connected with any person who has a relevant interest in the building or land where that person is the opter or another relevant associate of the opter.
+- (b) P[^c-01c7aa56adb875b84d2e683dd791dc3a] or the opter is not treated under sections 43A to 43D as a member of the group mentioned above, and
+- (c) P[^c-5325690cebaa08bc3b48fed8dfeb60ef] is not connected with any person who has a relevant interest in the building or land where that person is the opter or another relevant associate of the opter.
 
-(5) P[^key-b304c96e0665432c3a27ee3dcd6623ff] also ceases to be a relevant associate of the opter in relation to the building or land if P—
+(5) P[^c-b304c96e0665432c3a27ee3dcd6623ff] also ceases to be a relevant associate of the opter in relation to the building or land if P—
 
 - (a) meets conditions specified in a public notice (see paragraph 4), or
 - (b) gets the prior permission of the Commissioners (also, see that paragraph).
 
-The time when P[^key-117674cbfb9af8ca84bb677cc2132a41] ceases to be a relevant associate of the opter is determined in accordance with that paragraph.
+The time when P[^c-117674cbfb9af8ca84bb677cc2132a41] ceases to be a relevant associate of the opter is determined in accordance with that paragraph.
 
 (6) In this paragraph “relevant interest in the building or land” means an interest in, right over or licence to occupy the building or land (or any part of it).
 
 ##### 4. Permission for a body corporate to cease to be a relevant associate of the opter
 
-(1) This paragraph applies for the purposes of paragraph 3(5) in relation to a person (“P”) who[^key-cbc90e5d7f0123e3637e56aa4d9ec56f] has been a relevant associate of the opter.
+(1) This paragraph applies for the purposes of paragraph 3(5) in relation to a person (“P”) who[^c-cbc90e5d7f0123e3637e56aa4d9ec56f] has been a relevant associate of the opter.
 
-(2) If the conditions specified in the public notice under paragraph 3(5)(a) are met in relation to P, P[^key-66887bdbaa869a6a7b3740d3c5b00309] ceases to be a relevant associate of the opter only if notification of those conditions being met is given to the Commissioners.
+(2) If the conditions specified in the public notice under paragraph 3(5)(a) are met in relation to P, P[^c-66887bdbaa869a6a7b3740d3c5b00309] ceases to be a relevant associate of the opter only if notification of those conditions being met is given to the Commissioners.
 
 (3) The notification must—
 
 - (a) be made in a form specified in a public notice,
-- (b) state the day from which P[^key-ec9c0a465c04a92aae28259071f8e15f] is to cease to be a relevant associate of the opter (which may not be before the day on which the notification is given),
-- (c) contain a statement by P[^key-f8b4895390929dd5497955ed0bfb0695] certifying that, on that day, the conditions specified in the public notice under paragraph 3(5)(a) are met in relation to P[^key-bd4d576b5f982df099a0a468ce705845], and
+- (b) state the day from which P[^c-ec9c0a465c04a92aae28259071f8e15f] is to cease to be a relevant associate of the opter (which may not be before the day on which the notification is given),
+- (c) contain a statement by P[^c-f8b4895390929dd5497955ed0bfb0695] certifying that, on that day, the conditions specified in the public notice under paragraph 3(5)(a) are met in relation to P[^c-bd4d576b5f982df099a0a468ce705845], and
 - (d) contain other information specified in a public notice.
 
 (4) An application for the prior permission of the Commissioners must—
 
 - (a) be made in a form specified in a public notice,
-- (b) contain a statement by P[^key-03e21adbfff5c860e16182b8685caf1e] certifying which (if any) of the conditions specified in the public notice under paragraph 3(5)(a) are met in relation to P[^key-b50eead617866de48c1e4af6d5d2f64f], and
+- (b) contain a statement by P[^c-03e21adbfff5c860e16182b8685caf1e] certifying which (if any) of the conditions specified in the public notice under paragraph 3(5)(a) are met in relation to P[^c-b50eead617866de48c1e4af6d5d2f64f], and
 - (c) contain other information specified in a public notice.
 
-(5) If P[^key-27b9c4e7ea5985b0ed8d6c63d46bb1f5] gets the prior permission of the Commissioners, P[^key-975295e7ed55262afd92f7a324140c22] ceases to be a relevant associate of the opter from—
+(5) If P[^c-27b9c4e7ea5985b0ed8d6c63d46bb1f5] gets the prior permission of the Commissioners, P[^c-975295e7ed55262afd92f7a324140c22] ceases to be a relevant associate of the opter from—
 
 - (a) the day on which the Commissioners give their permission, or
 - (b) such earlier or later day as they specify in their permission.
 
 (6) The Commissioners may specify an earlier day only if—
 
-- (a) P[^key-830f4557f3ee485bae254abe7b27d918] has purported to give a notification of P's[^key-7f925e88016ed02a5c54eddecdd871fd] ceasing to be a relevant associate of the opter,
-- (b) the conditions specified in the public notice are not, in the event, met in relation to P[^key-c2bcc51a45c65991fad7caac4718a353], and
+- (a) P[^c-830f4557f3ee485bae254abe7b27d918] has purported to give a notification of P's[^c-7f925e88016ed02a5c54eddecdd871fd] ceasing to be a relevant associate of the opter,
+- (b) the conditions specified in the public notice are not, in the event, met in relation to P[^c-c2bcc51a45c65991fad7caac4718a353], and
 - (c) the Commissioners consider that the grounds on which those conditions are not so met are insignificant.
 
-(7) The day specified may be the day from which P[^key-16d4b4a412340c60b0faefc93ec7cca2] would have ceased to be a relevant associate of the opter if those conditions had been so met.
+(7) The day specified may be the day from which P[^c-16d4b4a412340c60b0faefc93ec7cca2] would have ceased to be a relevant associate of the opter if those conditions had been so met.
 
 (8) The Commissioners may specify conditions subject to which their permission is given and, if any of those conditions are broken, they may treat the application as if it had not been made.
 
@@ -237,11 +237,11 @@ and so on (in the case of further disposals of the relevant interest).
 - (a) within the period specified in a public notice, or
 - (b) if the seller agrees, at any later time before the seller makes a supply to which the grant gives rise.
 
-(3)[^key-bc08ad3ff3795bf3936088ea7b9ba802] In this paragraph “relevant housing association” means—
+(3)[^c-bc08ad3ff3795bf3936088ea7b9ba802] In this paragraph “relevant housing association” means—
 
-- (za)[^key-d4cfb5245055c5b1b92e82cde7100c0f] a private registered provider of social housing,
-- (a) a registered social landlord within the meaning of Part 1 of the Housing Act 1996 ([^key-1e85ce98ec9acb948a23c74b1d929b5e]... Welsh registered social landlords),
-- (b)[^key-e02a2aa5c03561a2552a0fbdbe7d8fd3] a registered social landlord within the meaning of the [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17) which is either—
+- (za)[^c-d4cfb5245055c5b1b92e82cde7100c0f] a private registered provider of social housing,
+- (a) a registered social landlord within the meaning of Part 1 of the Housing Act 1996 ([^c-1e85ce98ec9acb948a23c74b1d929b5e]... Welsh registered social landlords),
+- (b)[^c-e02a2aa5c03561a2552a0fbdbe7d8fd3] a registered social landlord within the meaning of the [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17) which is either—
   - (i) a society registered under the Co-operative and Community Benefit Societies and Credit Unions Act [1965 (c.12)](https://www.legislation.gov.uk/ukpga/1965/12), or
   - (ii) a company within the meaning of the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46), or
 - (c) a registered housing association within the meaning of Part 2 of the Housing (Northern Ireland) Order 1992 (Northern Irish registered housing associations).
@@ -390,7 +390,7 @@ with the intention or in the expectation that the land will become exempt land o
 - (c) a development financier, and
 - (d) a person connected with a development financier.
 
-(3A)[^key-00f6fed08498c4e449edfc32bd986514] Where a person (“P”) is in occupation of the land at any time before the end of the relevant adjustment period as respects that land, P is treated for the purposes of sub-paragraph (2) as not in occupation of the land at that time if—
+(3A)[^c-00f6fed08498c4e449edfc32bd986514] Where a person (“P”) is in occupation of the land at any time before the end of the relevant adjustment period as respects that land, P is treated for the purposes of sub-paragraph (2) as not in occupation of the land at that time if—
 
 - (a) the building occupation conditions are met at that time, or
 - (b) P’s occupation of the land arises solely by reference to any automatic teller machine of P.
@@ -399,16 +399,16 @@ with the intention or in the expectation that the land will become exempt land o
 
 (5) For the purposes of this paragraph any question whether a person’s occupation of any land is “wholly, or substantially wholly,” for eligible purposes is to be decided by reference to criteria specified in a public notice.
 
-##### 15A. Meaning of “exempt land”: the building occupation conditions[^key-b45d82cb8fad482580d95fe788d8592d]
+##### 15A. Meaning of “exempt land”: the building occupation conditions[^c-b45d82cb8fad482580d95fe788d8592d]
 
 (1) For the purposes of paragraph 15(3A), the building occupation conditions are met at any time (“the time in question”) if—
 
 - (a) the grant consists of or includes the grant of a relevant interest in a building, and
 - (b) P does not, at the time in question, occupy—
   - (i) any part of the land that is not a building, or
-  - (ii) more than the maximum allowable percentage[^key-d7f149dee32521be549621f3c2121cf4] of any relevant building.
+  - (ii) more than the maximum allowable percentage[^c-d7f149dee32521be549621f3c2121cf4] of any relevant building.
 
-(2) For the purposes of sub-paragraph (1)(b)(i) and (ii) occupation by a person connected with P is treated as occupation by P if that occupation is not wholly, or substantially wholly, for eligible purposes.[^key-bfd83c6193ba2f8760d3d42565204962]
+(2) For the purposes of sub-paragraph (1)(b)(i) and (ii) occupation by a person connected with P is treated as occupation by P if that occupation is not wholly, or substantially wholly, for eligible purposes.[^c-bfd83c6193ba2f8760d3d42565204962]
 
 (3) For the purposes of sub-paragraph (1)(b)(i) occupation by a person of—
 
@@ -417,7 +417,7 @@ with the intention or in the expectation that the land will become exempt land o
 
 is disregarded if the occupation is ancillary to the occupation by that person of a building.
 
-(4)[^key-8d9523eab29db5ab4e2155c99d1ca037] In sub-paragraph (1)(b)(ii)—
+(4)[^c-8d9523eab29db5ab4e2155c99d1ca037] In sub-paragraph (1)(b)(ii)—
 
 - “the maximum allowable percentage” means—
   - (a) 2% where P is the grantor or a person connected with the grantor, and
@@ -430,7 +430,7 @@ is disregarded if the occupation is ancillary to the occupation by that person o
 
 (6) In this paragraph “relevant interest”, in relation to a building or part of a building, means any interest in, right over or licence to occupy the building or part.
 
-(6A)[^key-47f9272024715a45b84d20a9d28196ac] Sub-paragraph (5) of paragraph 15 (determination of whether occupation “wholly, or substantially wholly” for eligible purposes to be by reference to criteria in public notice) applies for the purposes of this paragraph.
+(6A)[^c-47f9272024715a45b84d20a9d28196ac] Sub-paragraph (5) of paragraph 15 (determination of whether occupation “wholly, or substantially wholly” for eligible purposes to be by reference to criteria in public notice) applies for the purposes of this paragraph.
 
 (7) Sub-paragraphs (4) to (7) of paragraph 18 (meaning of “building”) apply for the purposes of this paragraph.
 
@@ -451,7 +451,7 @@ is disregarded if the occupation is ancillary to the occupation by that person o
 
 (6) Any occupation of land by a Government department (within the meaning of section 41) is occupation of the land for eligible purposes.
 
-(7)[^key-bf63a2937b13442f96c09792b90995eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-bf63a2937b13442f96c09792b90995eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) If a person occupying land—
 
@@ -570,7 +570,7 @@ are treated as a single building.
 (1) A person (E) may make an election (a “real estate election”) for this paragraph to have effect in relation to—
 
 - (a) relevant interests in any building or land which E acquires after the election is made, and
-- (b) relevant interests in any building or land which a person[^key-3f9519026dcbf6ec94af700231a27775] acquires after the election is made at a time when the person[^key-d9241ddc1d00b1eba6c8d85742da32d3] is a relevant group member.
+- (b) relevant interests in any building or land which a person[^c-3f9519026dcbf6ec94af700231a27775] acquires after the election is made at a time when the person[^c-d9241ddc1d00b1eba6c8d85742da32d3] is a relevant group member.
 
 (2) If E makes a real estate election—
 
@@ -582,7 +582,7 @@ but this sub-paragraph is subject to sub-paragraphs (3) to (5).
 
 (3) A person (P) is not to be treated as a result of this paragraph as exercising an option to tax in relation to any building or land where at any time—
 
-- (a) P, or any person who[^key-801efe2ae99ea3c361e2c8d943fd0d0d] was a relevant group member at that time, exercises an option to tax in relation to the building (or part of the building) or land apart from this paragraph, and
+- (a) P, or any person who[^c-801efe2ae99ea3c361e2c8d943fd0d0d] was a relevant group member at that time, exercises an option to tax in relation to the building (or part of the building) or land apart from this paragraph, and
 - (b) that option has effect from a time earlier than the time from which an option to tax exercised by P in relation to the building or land would otherwise have been treated as having effect as a result of this paragraph.
 
 (4) A person (P) is not to be treated as a result of this paragraph as exercising an option to tax in relation to any building or land in which a relevant interest is acquired (“the later interest”) if—
@@ -614,7 +614,7 @@ but this sub-paragraph is subject to sub-paragraphs (3) to (5).
 (9) If a person (P) does not comply with that requirement—
 
 - (a) the Commissioners may revoke the election, and
-- (b) that revocation has effect in relation to relevant interests in any building or land acquired after the notified time by P or a person who[^key-b5f814396c25954dfbbb5a3f6725438c] is a relevant group member at the time of acquisition.
+- (b) that revocation has effect in relation to relevant interests in any building or land acquired after the notified time by P or a person who[^c-b5f814396c25954dfbbb5a3f6725438c] is a relevant group member at the time of acquisition.
 
 - “The notified time” means the time specified in a notification given by the Commissioners to P (which may not be before the notification is given).
 
@@ -623,16 +623,16 @@ but this sub-paragraph is subject to sub-paragraphs (3) to (5).
 (11) If a real estate election made by a person (P) is revoked in accordance with that sub-paragraph, another real estate election may be made at any subsequent time by—
 
 - (a) P, or
-- (b) any person who[^key-0387f8d0c21f2a902503cea06bbf57a2] is a relevant group member at that subsequent time,
+- (b) any person who[^c-0387f8d0c21f2a902503cea06bbf57a2] is a relevant group member at that subsequent time,
 
 but only with the prior permission of the Commissioners.
 
 (12) In this paragraph—
 
-- “relevant group member”, in relation to any person (“P”)[^key-39aaacf4d499ac58ea602c150208522b] making a real estate election and any time, means a person who[^key-0119a0f0ceb1a06459040c9025821134] is treated under sections 43A to 43D as a member of the same group as P[^key-5d6dbc291fa6ae4f7ada61a89faf5c58] at that time, and
+- “relevant group member”, in relation to any person (“P”)[^c-39aaacf4d499ac58ea602c150208522b] making a real estate election and any time, means a person who[^c-0119a0f0ceb1a06459040c9025821134] is treated under sections 43A to 43D as a member of the same group as P[^c-5d6dbc291fa6ae4f7ada61a89faf5c58] at that time, and
 - “relevant interest”, in relation to any building or land, means any interest in, right over or licence to occupy the building or land (or any part of it).
 
-(13)[^key-1b82095343a3171b83c725127fceb8cf] For the purposes of this paragraph, the time at which a relevant interest in any building or land is acquired is—
+(13)[^c-1b82095343a3171b83c725127fceb8cf] For the purposes of this paragraph, the time at which a relevant interest in any building or land is acquired is—
 
 - (a) the time at which a supply is treated as taking place for the purposes of the charge to VAT in respect of the acquisition, or
 - (b) if there is more than one such time, the earliest of them.
@@ -704,7 +704,7 @@ may, in circumstances specified in a public notice, be converted by E into separ
 (1) An option to tax any land exercised by any person (“the taxpayer”) may be revoked with effect from the day on which it was exercised if—
 
 - (a) the time that has lapsed since the day on which the option had effect is less than 6 months,
-- (b)[^key-0d5e964d07083313c3f8541f7039d221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-0d5e964d07083313c3f8541f7039d221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) no tax has become chargeable as a result of the option,
 - (d) there is no relevant transfer of a business as a going concern (see sub-paragraph (2)), and
 - (e) notification of the revocation is given to the Commissioners (see sub-paragraph (3)).
@@ -774,19 +774,19 @@ the Commissioners may nonetheless treat the option as if it had been validly rev
 (6) If the taxpayer gets the prior permission of the Commissioners for the revocation of an option, the option is revoked from—
 
 - (a) the day on which the Commissioners give their permission, or
-- (b) such earlier or later day or time as they may[^key-87e6ca52da37c7dacefa980f86859918] specify in their permission.
+- (b) such earlier or later day or time as they may[^c-87e6ca52da37c7dacefa980f86859918] specify in their permission.
 
-(7) The Commissioners may specify an earlier day or time[^key-37b53fb4e8aeec652bddb07eaba8aa09] only if—
+(7) The Commissioners may specify an earlier day or time[^c-37b53fb4e8aeec652bddb07eaba8aa09] only if—
 
 - (a) the taxpayer has purported to give a notification of the revocation of the option,
 - (b) the conditions specified in the public notice are not, in the event, met in relation to the option, and
 - (c) the Commissioners consider that the grounds on which those conditions are not so met are insignificant.
 
-(8)[^key-904119e0274f7742d038ceca55f80b6c] The Commissioners may specify a day or time under sub-paragraph (6)(b) by reference to the happening of an event or the meeting of a condition.
+(8)[^c-904119e0274f7742d038ceca55f80b6c] The Commissioners may specify a day or time under sub-paragraph (6)(b) by reference to the happening of an event or the meeting of a condition.
 
 (9) The Commissioners may specify conditions subject to which their permission is given and, if any of those conditions are broken, they may treat the revocation as if it had not been made.
 
-##### 26. Revocation of option under paragraph 22(2) or (3) or 24: anti-avoidance[^key-9866c6afcacbe0a9efbd1addfa778876]
+##### 26. Revocation of option under paragraph 22(2) or (3) or 24: anti-avoidance[^c-9866c6afcacbe0a9efbd1addfa778876]
 
 (1) Sub-paragraphs (2) and (3) of paragraph 22 (revocation of option to tax where a real estate election is made) do not apply if condition A or B is met.
 
@@ -846,9 +846,9 @@ from the effect of the option if notification of that exclusion is given to the 
 
 (4) The notification of the exclusion must—
 
-- (za)[^key-d453753d4b0226d1a0cd1f669c6f58fa] be given before the end of the period of 30 days beginning with the day on which it is to have effect or such longer period as the Commissioners may in any case allow,
+- (za)[^c-d453753d4b0226d1a0cd1f669c6f58fa] be given before the end of the period of 30 days beginning with the day on which it is to have effect or such longer period as the Commissioners may in any case allow,
 - (a) be made in a form specified in a public notice,
-- (b)[^key-9477490f853957909978a2b57cf97212] state the time from which it is to have effect, and
+- (b)[^c-9477490f853957909978a2b57cf97212] state the time from which it is to have effect, and
 - (c) contain other information so specified.
 
 (5) Sub-paragraphs (4) to (6) of paragraph 18 (meaning of “building”) apply for the purposes of this paragraph as they apply for the purposes of that paragraph.
@@ -951,9 +951,9 @@ In this Part of this Schedule, references to the expressions listed in the first
 - “notification” means written notification, and
 - “permission” means written permission.
 
-(2) For the purposes of this Part of this Schedule any question whether a person is connected with another person is to be decided in accordance with section 1122 of the Corporation Tax Act 2010[^key-0b3c6804c6be22088ff8e04c1c15d2b3] ; but this is subject to sub-paragraph (2A)[^key-1cb8b78fa37a5ad86496a9e729662aee].
+(2) For the purposes of this Part of this Schedule any question whether a person is connected with another person is to be decided in accordance with section 1122 of the Corporation Tax Act 2010[^c-0b3c6804c6be22088ff8e04c1c15d2b3] ; but this is subject to sub-paragraph (2A)[^c-1cb8b78fa37a5ad86496a9e729662aee].
 
-(2A)[^key-8fe055070737c765f8f3b48ef28ca309] For the purposes of this Part of this Schedule, a company is not connected with another company only because both are under the control of—
+(2A)[^c-8fe055070737c765f8f3b48ef28ca309] For the purposes of this Part of this Schedule, a company is not connected with another company only because both are under the control of—
 
 - (a) the Crown,
 - (b) a Minister of the Crown,
@@ -966,7 +966,7 @@ In this Part of this Schedule, references to the expressions listed in the first
 
 ### PART 2 — RESIDENTIAL AND CHARITABLE BUILDINGS: CHANGE OF USE ETC
 
-#### 35. Introductory[^key-549941b9600d06b50888e313372526b2]
+#### 35. Introductory[^c-549941b9600d06b50888e313372526b2]
 
 (1) This Part of this Schedule applies where one or more relevant zero-rated supplies relating to a building (or part of a building) have been made to a person (“P”).
 
@@ -980,7 +980,7 @@ In this Part of this Schedule, references to the expressions listed in the first
 - “relevant premises” means the building (or part of a building) in relation to which a relevant zero-rated supply has been made to P;
 - “relevant period”, in relation to relevant premises, means 10 years beginning with the day on which the relevant premises are completed.
 
-(3) Where P is a person[^key-9086a446d1e0df23354be8bc9c8f75e0] treated as a member of a group under sections 43A to 43D, any reference in this Part of this Schedule to P includes a reference to any member of that group.
+(3) Where P is a person[^c-9086a446d1e0df23354be8bc9c8f75e0] treated as a member of a group under sections 43A to 43D, any reference in this Part of this Schedule to P includes a reference to any member of that group.
 
 #### 36. Disposal of interest or change of use following relevant zero-rated supply
 
@@ -1066,120 +1066,120 @@ In this Part of this Schedule, references to the expressions listed in the first
 
 ## Annotations
 
-[^key-4886c4d756193ace48afaa5d7fb55299]: Textual amendment: Sch. 10 substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1146/article/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+[^c-4886c4d756193ace48afaa5d7fb55299]: Textual amendment: Sch. 10 substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1146/article/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
 
-[^key-3d5c1e89a6986c1c18b26ab016b9b821]: Textual amendment: Word in Sch. 10 para. 3(1) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/a); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-3d5c1e89a6986c1c18b26ab016b9b821]: Textual amendment: Word in Sch. 10 para. 3(1) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/a); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-5b12bbdcd960614a879cf340ae75971f]: Textual amendment: Word in Sch. 10 para. 3(2) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/b/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-5b12bbdcd960614a879cf340ae75971f]: Textual amendment: Word in Sch. 10 para. 3(2) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/b/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-468dbfe085ed408148974d321c18d04a]: Textual amendment: Word in Sch. 10 para. 3(2)(c) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/b/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-468dbfe085ed408148974d321c18d04a]: Textual amendment: Word in Sch. 10 para. 3(2)(c) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/b/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-0e0c666a8c71e984053e3abbf7743d48]: Textual amendment: Words in Sch. 10 para. 3(2)(c) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/b/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-0e0c666a8c71e984053e3abbf7743d48]: Textual amendment: Words in Sch. 10 para. 3(2)(c) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/b/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-4749be939abaf0033cca68c162a39dcb]: Textual amendment: Words in Sch. 10 para. 3(3) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/c); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-4749be939abaf0033cca68c162a39dcb]: Textual amendment: Words in Sch. 10 para. 3(3) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/c); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-a950178431b4fcdb3efc875d0b09db3d]: Textual amendment: Word in Sch. 10 para. 3(4) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/d/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-a950178431b4fcdb3efc875d0b09db3d]: Textual amendment: Word in Sch. 10 para. 3(4) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/d/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-c3399114d988e86f22a8c4761424c69e]: Textual amendment: Word in Sch. 10 para. 3(4)(a) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/d/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-c3399114d988e86f22a8c4761424c69e]: Textual amendment: Word in Sch. 10 para. 3(4)(a) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/d/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-e49f26363edfab60d77ab95302152250]: Textual amendment: Words in Sch. 10 para. 3(4) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [3](https://www.legislation.gov.uk/uksi/2009/1966/article/3)
+[^c-e49f26363edfab60d77ab95302152250]: Textual amendment: Words in Sch. 10 para. 3(4) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [3](https://www.legislation.gov.uk/uksi/2009/1966/article/3)
 
-[^key-e793dcacd2bec89d7a95151ba9d798cd]: Textual amendment: Word in Sch. 10 para. 3(4)(aa) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/d/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-e793dcacd2bec89d7a95151ba9d798cd]: Textual amendment: Word in Sch. 10 para. 3(4)(aa) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/d/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-01c7aa56adb875b84d2e683dd791dc3a]: Textual amendment: Word in Sch. 10 para. 3(4)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/d/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-01c7aa56adb875b84d2e683dd791dc3a]: Textual amendment: Word in Sch. 10 para. 3(4)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/d/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-5325690cebaa08bc3b48fed8dfeb60ef]: Textual amendment: Word in Sch. 10 para. 3(4)(c) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/d/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-5325690cebaa08bc3b48fed8dfeb60ef]: Textual amendment: Word in Sch. 10 para. 3(4)(c) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/d/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-b304c96e0665432c3a27ee3dcd6623ff]: Textual amendment: Word in Sch. 10 para. 3(5) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(e)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/e/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-b304c96e0665432c3a27ee3dcd6623ff]: Textual amendment: Word in Sch. 10 para. 3(5) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(e)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/e/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-117674cbfb9af8ca84bb677cc2132a41]: Textual amendment: Word in Sch. 10 para. 3(5) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(e)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/e/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-117674cbfb9af8ca84bb677cc2132a41]: Textual amendment: Word in Sch. 10 para. 3(5) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(2)(e)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/2/e/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-cbc90e5d7f0123e3637e56aa4d9ec56f]: Textual amendment: Words in Sch. 10 para. 4(1) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/a); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-cbc90e5d7f0123e3637e56aa4d9ec56f]: Textual amendment: Words in Sch. 10 para. 4(1) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/a); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-66887bdbaa869a6a7b3740d3c5b00309]: Textual amendment: Words in Sch. 10 para. 4(2) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/b); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-66887bdbaa869a6a7b3740d3c5b00309]: Textual amendment: Words in Sch. 10 para. 4(2) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/b); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-ec9c0a465c04a92aae28259071f8e15f]: Textual amendment: Word in Sch. 10 para. 4(3)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/c); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-ec9c0a465c04a92aae28259071f8e15f]: Textual amendment: Word in Sch. 10 para. 4(3)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/c); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-f8b4895390929dd5497955ed0bfb0695]: Textual amendment: Word in Sch. 10 para. 4(3)(c) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/d/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-f8b4895390929dd5497955ed0bfb0695]: Textual amendment: Word in Sch. 10 para. 4(3)(c) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/d/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-bd4d576b5f982df099a0a468ce705845]: Textual amendment: Word in Sch. 10 para. 4(3)(c) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/d/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-bd4d576b5f982df099a0a468ce705845]: Textual amendment: Word in Sch. 10 para. 4(3)(c) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/d/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-03e21adbfff5c860e16182b8685caf1e]: Textual amendment: Word in Sch. 10 para. 4(4)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(e)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/e/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-03e21adbfff5c860e16182b8685caf1e]: Textual amendment: Word in Sch. 10 para. 4(4)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(e)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/e/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-b50eead617866de48c1e4af6d5d2f64f]: Textual amendment: Word in Sch. 10 para. 4(4)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(e)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/e/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-b50eead617866de48c1e4af6d5d2f64f]: Textual amendment: Word in Sch. 10 para. 4(4)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(e)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/e/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-27b9c4e7ea5985b0ed8d6c63d46bb1f5]: Textual amendment: Word in Sch. 10 para. 4(5) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(f)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/f/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-27b9c4e7ea5985b0ed8d6c63d46bb1f5]: Textual amendment: Word in Sch. 10 para. 4(5) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(f)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/f/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-975295e7ed55262afd92f7a324140c22]: Textual amendment: Word in Sch. 10 para. 4(5) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(f)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/f/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-975295e7ed55262afd92f7a324140c22]: Textual amendment: Word in Sch. 10 para. 4(5) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(f)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/f/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-830f4557f3ee485bae254abe7b27d918]: Textual amendment: Word in Sch. 10 para. 4(6)(a) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(g)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/g/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-830f4557f3ee485bae254abe7b27d918]: Textual amendment: Word in Sch. 10 para. 4(6)(a) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(g)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/g/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-7f925e88016ed02a5c54eddecdd871fd]: Textual amendment: Word in Sch. 10 para. 4(6)(a) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/g/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-7f925e88016ed02a5c54eddecdd871fd]: Textual amendment: Word in Sch. 10 para. 4(6)(a) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/g/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-c2bcc51a45c65991fad7caac4718a353]: Textual amendment: Word in Sch. 10 para. 4(6)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(h)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/h); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-c2bcc51a45c65991fad7caac4718a353]: Textual amendment: Word in Sch. 10 para. 4(6)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(h)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/h); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-16d4b4a412340c60b0faefc93ec7cca2]: Textual amendment: Word in Sch. 10 para. 4(7) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-16d4b4a412340c60b0faefc93ec7cca2]: Textual amendment: Word in Sch. 10 para. 4(7) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(3)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/3/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-bc08ad3ff3795bf3936088ea7b9ba802]: Modification: Sch. 10 para. 10(3) modified (temp.) (1.4.2010) by [The Value Added Tax (Buildings and Land) Order 2010 (S.I. 2010/485)](https://www.legislation.gov.uk/uksi/2010/485), [arts. 1](https://www.legislation.gov.uk/uksi/2010/485/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/485/article/4/2)
+[^c-bc08ad3ff3795bf3936088ea7b9ba802]: Modification: Sch. 10 para. 10(3) modified (temp.) (1.4.2010) by [The Value Added Tax (Buildings and Land) Order 2010 (S.I. 2010/485)](https://www.legislation.gov.uk/uksi/2010/485), [arts. 1](https://www.legislation.gov.uk/uksi/2010/485/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/485/article/4/2)
 
-[^key-d4cfb5245055c5b1b92e82cde7100c0f]: Textual amendment: Sch. 10 para. 10(3)(za) inserted (1.4.2010) by [The Value Added Tax (Buildings and Land) Order 2010 (S.I. 2010/485)](https://www.legislation.gov.uk/uksi/2010/485), [arts. 1](https://www.legislation.gov.uk/uksi/2010/485/article/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2010/485/article/4/1/a)
+[^c-d4cfb5245055c5b1b92e82cde7100c0f]: Textual amendment: Sch. 10 para. 10(3)(za) inserted (1.4.2010) by [The Value Added Tax (Buildings and Land) Order 2010 (S.I. 2010/485)](https://www.legislation.gov.uk/uksi/2010/485), [arts. 1](https://www.legislation.gov.uk/uksi/2010/485/article/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2010/485/article/4/1/a)
 
-[^key-1e85ce98ec9acb948a23c74b1d929b5e]: Textual amendment: Words in Sch. 10 para. 10(3)(a) omitted (1.4.2010) by virtue of [The Value Added Tax (Buildings and Land) Order 2010 (S.I. 2010/485)](https://www.legislation.gov.uk/uksi/2010/485), [arts. 1](https://www.legislation.gov.uk/uksi/2010/485/article/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2010/485/article/4/1/b)
+[^c-1e85ce98ec9acb948a23c74b1d929b5e]: Textual amendment: Words in Sch. 10 para. 10(3)(a) omitted (1.4.2010) by virtue of [The Value Added Tax (Buildings and Land) Order 2010 (S.I. 2010/485)](https://www.legislation.gov.uk/uksi/2010/485), [arts. 1](https://www.legislation.gov.uk/uksi/2010/485/article/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2010/485/article/4/1/b)
 
-[^key-e02a2aa5c03561a2552a0fbdbe7d8fd3]: Textual amendment: Sch. 10 para. 10(3)(b) substituted (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 5(3)](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/5/3)
+[^c-e02a2aa5c03561a2552a0fbdbe7d8fd3]: Textual amendment: Sch. 10 para. 10(3)(b) substituted (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 5(3)](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/5/3)
 
-[^key-00f6fed08498c4e449edfc32bd986514]: Textual amendment: Sch. 10 para. 15(3A) substituted (with effect in accordance with art. 2 of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2011 (S.I. 2011/86)](https://www.legislation.gov.uk/uksi/2011/86), [arts. 1](https://www.legislation.gov.uk/uksi/2011/86/article/1), [5](https://www.legislation.gov.uk/uksi/2011/86/article/5)
+[^c-00f6fed08498c4e449edfc32bd986514]: Textual amendment: Sch. 10 para. 15(3A) substituted (with effect in accordance with art. 2 of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2011 (S.I. 2011/86)](https://www.legislation.gov.uk/uksi/2011/86), [arts. 1](https://www.legislation.gov.uk/uksi/2011/86/article/1), [5](https://www.legislation.gov.uk/uksi/2011/86/article/5)
 
-[^key-b45d82cb8fad482580d95fe788d8592d]: Textual amendment: Sch. 10 para. 15A inserted (with effect in accordance with art. 2 of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2010 (S.I. 2010/485)](https://www.legislation.gov.uk/uksi/2010/485), [arts. 1](https://www.legislation.gov.uk/uksi/2010/485/article/1), [6](https://www.legislation.gov.uk/uksi/2010/485/article/6)
+[^c-b45d82cb8fad482580d95fe788d8592d]: Textual amendment: Sch. 10 para. 15A inserted (with effect in accordance with art. 2 of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2010 (S.I. 2010/485)](https://www.legislation.gov.uk/uksi/2010/485), [arts. 1](https://www.legislation.gov.uk/uksi/2010/485/article/1), [6](https://www.legislation.gov.uk/uksi/2010/485/article/6)
 
-[^key-d7f149dee32521be549621f3c2121cf4]: Textual amendment: Words in Sch. 10 para. 15A(1)(b)(ii) substituted (with effect in accordance with art. 2 of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2011 (S.I. 2011/86)](https://www.legislation.gov.uk/uksi/2011/86), [arts. 1](https://www.legislation.gov.uk/uksi/2011/86/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2011/86/article/6/a)
+[^c-d7f149dee32521be549621f3c2121cf4]: Textual amendment: Words in Sch. 10 para. 15A(1)(b)(ii) substituted (with effect in accordance with art. 2 of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2011 (S.I. 2011/86)](https://www.legislation.gov.uk/uksi/2011/86), [arts. 1](https://www.legislation.gov.uk/uksi/2011/86/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2011/86/article/6/a)
 
-[^key-bfd83c6193ba2f8760d3d42565204962]: Textual amendment: Words in Sch. 10 para. 15A(2) inserted (with effect in accordance with art. 2 of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2011 (S.I. 2011/86)](https://www.legislation.gov.uk/uksi/2011/86), [arts. 1](https://www.legislation.gov.uk/uksi/2011/86/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2011/86/article/6/b)
+[^c-bfd83c6193ba2f8760d3d42565204962]: Textual amendment: Words in Sch. 10 para. 15A(2) inserted (with effect in accordance with art. 2 of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2011 (S.I. 2011/86)](https://www.legislation.gov.uk/uksi/2011/86), [arts. 1](https://www.legislation.gov.uk/uksi/2011/86/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2011/86/article/6/b)
 
-[^key-8d9523eab29db5ab4e2155c99d1ca037]: Textual amendment: Sch. 10 para. 15A(4) substituted (with effect in accordance with art. 2 of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2011 (S.I. 2011/86)](https://www.legislation.gov.uk/uksi/2011/86), [arts. 1](https://www.legislation.gov.uk/uksi/2011/86/article/1), [6(c)](https://www.legislation.gov.uk/uksi/2011/86/article/6/c)
+[^c-8d9523eab29db5ab4e2155c99d1ca037]: Textual amendment: Sch. 10 para. 15A(4) substituted (with effect in accordance with art. 2 of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2011 (S.I. 2011/86)](https://www.legislation.gov.uk/uksi/2011/86), [arts. 1](https://www.legislation.gov.uk/uksi/2011/86/article/1), [6(c)](https://www.legislation.gov.uk/uksi/2011/86/article/6/c)
 
-[^key-47f9272024715a45b84d20a9d28196ac]: Textual amendment: Sch. 10 para. 15A(6A) inserted (with effect in accordance with art. 2 of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2011 (S.I. 2011/86)](https://www.legislation.gov.uk/uksi/2011/86), [arts. 1](https://www.legislation.gov.uk/uksi/2011/86/article/1), [6(d)](https://www.legislation.gov.uk/uksi/2011/86/article/6/d)
+[^c-47f9272024715a45b84d20a9d28196ac]: Textual amendment: Sch. 10 para. 15A(6A) inserted (with effect in accordance with art. 2 of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2011 (S.I. 2011/86)](https://www.legislation.gov.uk/uksi/2011/86), [arts. 1](https://www.legislation.gov.uk/uksi/2011/86/article/1), [6(d)](https://www.legislation.gov.uk/uksi/2011/86/article/6/d)
 
-[^key-bf63a2937b13442f96c09792b90995eb]: Textual amendment: Sch. 10 para. 16(7) omitted (with effect in accordance with art. 2 of the amending S.I.) by virtue of [The Value Added Tax (Buildings and Land) Order 2011 (S.I. 2011/86)](https://www.legislation.gov.uk/uksi/2011/86), [arts. 1](https://www.legislation.gov.uk/uksi/2011/86/article/1), [7](https://www.legislation.gov.uk/uksi/2011/86/article/7)
+[^c-bf63a2937b13442f96c09792b90995eb]: Textual amendment: Sch. 10 para. 16(7) omitted (with effect in accordance with art. 2 of the amending S.I.) by virtue of [The Value Added Tax (Buildings and Land) Order 2011 (S.I. 2011/86)](https://www.legislation.gov.uk/uksi/2011/86), [arts. 1](https://www.legislation.gov.uk/uksi/2011/86/article/1), [7](https://www.legislation.gov.uk/uksi/2011/86/article/7)
 
-[^key-3f9519026dcbf6ec94af700231a27775]: Textual amendment: Word in Sch. 10 para. 21(1)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/a/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-3f9519026dcbf6ec94af700231a27775]: Textual amendment: Word in Sch. 10 para. 21(1)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/a/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-d9241ddc1d00b1eba6c8d85742da32d3]: Textual amendment: Words in Sch. 10 para. 21(1)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/a/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-d9241ddc1d00b1eba6c8d85742da32d3]: Textual amendment: Words in Sch. 10 para. 21(1)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/a/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-801efe2ae99ea3c361e2c8d943fd0d0d]: Textual amendment: Words in Sch. 10 para. 21(3)(a) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/b); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-801efe2ae99ea3c361e2c8d943fd0d0d]: Textual amendment: Words in Sch. 10 para. 21(3)(a) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/b); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-b5f814396c25954dfbbb5a3f6725438c]: Textual amendment: Words in Sch. 10 para. 21(9)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/c); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-b5f814396c25954dfbbb5a3f6725438c]: Textual amendment: Words in Sch. 10 para. 21(9)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/c); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-0387f8d0c21f2a902503cea06bbf57a2]: Textual amendment: Words in Sch. 10 para. 21(11)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(d)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/d); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-0387f8d0c21f2a902503cea06bbf57a2]: Textual amendment: Words in Sch. 10 para. 21(11)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(d)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/d); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-39aaacf4d499ac58ea602c150208522b]: Textual amendment: Word in Sch. 10 para. 21(12) inserted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(e)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/e/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-39aaacf4d499ac58ea602c150208522b]: Textual amendment: Word in Sch. 10 para. 21(12) inserted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(e)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/e/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-0119a0f0ceb1a06459040c9025821134]: Textual amendment: Words in Sch. 10 para. 21(12) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(e)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/e/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-0119a0f0ceb1a06459040c9025821134]: Textual amendment: Words in Sch. 10 para. 21(12) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(e)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/e/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-5d6dbc291fa6ae4f7ada61a89faf5c58]: Textual amendment: Word in Sch. 10 para. 21(12) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(e)(iii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/e/iii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-5d6dbc291fa6ae4f7ada61a89faf5c58]: Textual amendment: Word in Sch. 10 para. 21(12) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(4)(e)(iii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/4/e/iii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-1b82095343a3171b83c725127fceb8cf]: Textual amendment: Sch. 10 para. 21(13)(14) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [4](https://www.legislation.gov.uk/uksi/2009/1966/article/4)
+[^c-1b82095343a3171b83c725127fceb8cf]: Textual amendment: Sch. 10 para. 21(13)(14) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [4](https://www.legislation.gov.uk/uksi/2009/1966/article/4)
 
-[^key-0d5e964d07083313c3f8541f7039d221]: Textual amendment: Sch. 10 para. 23(1)(b) omitted (1.4.2010) by virtue of [The Value Added Tax (Buildings and Land) Order 2010 (S.I. 2010/485)](https://www.legislation.gov.uk/uksi/2010/485), [arts. 1](https://www.legislation.gov.uk/uksi/2010/485/article/1), [7](https://www.legislation.gov.uk/uksi/2010/485/article/7)
+[^c-0d5e964d07083313c3f8541f7039d221]: Textual amendment: Sch. 10 para. 23(1)(b) omitted (1.4.2010) by virtue of [The Value Added Tax (Buildings and Land) Order 2010 (S.I. 2010/485)](https://www.legislation.gov.uk/uksi/2010/485), [arts. 1](https://www.legislation.gov.uk/uksi/2010/485/article/1), [7](https://www.legislation.gov.uk/uksi/2010/485/article/7)
 
-[^key-87e6ca52da37c7dacefa980f86859918]: Textual amendment: Words in Sch. 10 para. 25(6)(b) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2009/1966/article/5/2)
+[^c-87e6ca52da37c7dacefa980f86859918]: Textual amendment: Words in Sch. 10 para. 25(6)(b) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2009/1966/article/5/2)
 
-[^key-37b53fb4e8aeec652bddb07eaba8aa09]: Textual amendment: Words in Sch. 10 para. 25(7) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2009/1966/article/5/3)
+[^c-37b53fb4e8aeec652bddb07eaba8aa09]: Textual amendment: Words in Sch. 10 para. 25(7) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2009/1966/article/5/3)
 
-[^key-904119e0274f7742d038ceca55f80b6c]: Textual amendment: Sch. 10 para. 25(8) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2009/1966/article/5/4)
+[^c-904119e0274f7742d038ceca55f80b6c]: Textual amendment: Sch. 10 para. 25(8) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2009/1966/article/5/4)
 
-[^key-9866c6afcacbe0a9efbd1addfa778876]: Textual amendment: Sch. 10 para. 26 substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [6](https://www.legislation.gov.uk/uksi/2009/1966/article/6)
+[^c-9866c6afcacbe0a9efbd1addfa778876]: Textual amendment: Sch. 10 para. 26 substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [6](https://www.legislation.gov.uk/uksi/2009/1966/article/6)
 
-[^key-d453753d4b0226d1a0cd1f669c6f58fa]: Textual amendment: Sch. 10 para. 27(4)(za) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2009/1966/article/7/2)
+[^c-d453753d4b0226d1a0cd1f669c6f58fa]: Textual amendment: Sch. 10 para. 27(4)(za) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2009/1966/article/7/2)
 
-[^key-9477490f853957909978a2b57cf97212]: Textual amendment: Sch. 10 para. 27(4)(b) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2009/1966/article/7/3)
+[^c-9477490f853957909978a2b57cf97212]: Textual amendment: Sch. 10 para. 27(4)(b) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2009/1966/article/7/3)
 
-[^key-0b3c6804c6be22088ff8e04c1c15d2b3]: Textual amendment: Words in Sch. 10 para. 34(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 285(f)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/285/f) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-0b3c6804c6be22088ff8e04c1c15d2b3]: Textual amendment: Words in Sch. 10 para. 34(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 285(f)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/285/f) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-1cb8b78fa37a5ad86496a9e729662aee]: Textual amendment: Words in Sch. 10 para. 34(2) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2009/1966/article/8/2)
+[^c-1cb8b78fa37a5ad86496a9e729662aee]: Textual amendment: Words in Sch. 10 para. 34(2) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2009/1966/article/8/2)
 
-[^key-8fe055070737c765f8f3b48ef28ca309]: Textual amendment: Sch. 10 para. 34(2A)(2B) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2009/1966/article/8/3)
+[^c-8fe055070737c765f8f3b48ef28ca309]: Textual amendment: Sch. 10 para. 34(2A)(2B) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2009 (S.I. 2009/1966)](https://www.legislation.gov.uk/uksi/2009/1966), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1966/article/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2009/1966/article/8/3)
 
-[^key-549941b9600d06b50888e313372526b2]: Textual amendment: Sch. 10 paras. 35-37 substituted (with effect in accordance with art. 3 of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2011 (S.I. 2011/86)](https://www.legislation.gov.uk/uksi/2011/86), [arts. 1](https://www.legislation.gov.uk/uksi/2011/86/article/1), [8](https://www.legislation.gov.uk/uksi/2011/86/article/8)
+[^c-549941b9600d06b50888e313372526b2]: Textual amendment: Sch. 10 paras. 35-37 substituted (with effect in accordance with art. 3 of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2011 (S.I. 2011/86)](https://www.legislation.gov.uk/uksi/2011/86), [arts. 1](https://www.legislation.gov.uk/uksi/2011/86/article/1), [8](https://www.legislation.gov.uk/uksi/2011/86/article/8)
 
-[^key-9086a446d1e0df23354be8bc9c8f75e0]: Textual amendment: Word in Sch. 10 para. 35(3) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(5)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/5); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-9086a446d1e0df23354be8bc9c8f75e0]: Textual amendment: Word in Sch. 10 para. 35(3) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 15(5)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/15/5); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)

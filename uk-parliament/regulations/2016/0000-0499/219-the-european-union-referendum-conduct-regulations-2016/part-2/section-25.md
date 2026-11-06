@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Return of postal ballot papers[^key-e9a29b161ab918feb5b578aae1bc46a7]
+## 25. Return of postal ballot papers[^c-e9a29b161ab918feb5b578aae1bc46a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ the counting officer must mark the list in the manner prescribed by the relevant
 
 ## Annotations
 
-[^key-e9a29b161ab918feb5b578aae1bc46a7]: Commencement: Reg. 25 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-e9a29b161ab918feb5b578aae1bc46a7]: Commencement: Reg. 25 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

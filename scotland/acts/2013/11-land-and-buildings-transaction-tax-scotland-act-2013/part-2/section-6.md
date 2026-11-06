@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Acquisition and disposal of chargeable interest[^key-e3cd13f1b5b05ee17f4ba25ca7d92a94]
+## 6. Acquisition and disposal of chargeable interest[^c-e3cd13f1b5b05ee17f4ba25ca7d92a94]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3cd13f1b5b05ee17f4ba25ca7d92a94]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2013/11/section/6) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-e3cd13f1b5b05ee17f4ba25ca7d92a94]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2013/11/section/6) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

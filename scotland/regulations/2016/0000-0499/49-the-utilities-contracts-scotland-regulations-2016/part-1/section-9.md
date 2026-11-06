@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Electricity[^key-968be9098d1fc07c40bdfd9e6ed83a35]
+## 9. Electricity[^c-968be9098d1fc07c40bdfd9e6ed83a35]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-968be9098d1fc07c40bdfd9e6ed83a35]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/49/regulation/9) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-968be9098d1fc07c40bdfd9e6ed83a35]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/49/regulation/9) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

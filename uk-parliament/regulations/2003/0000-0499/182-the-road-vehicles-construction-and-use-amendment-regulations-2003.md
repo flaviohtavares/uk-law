@@ -45,15 +45,15 @@ Coming into force
 
 The Secretary of State for Transport, in exercise of the powers conferred by section 41(1), (2) and (5) of the Road Traffic Act 1988[^f00001] and of all other powers enabling him in that behalf, and after consultation with representative organisations in accordance with section 195(2) of that Act, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-b074925a6ab159e94c3e477edc4d9a24]
+## 1. Citation and commencement[^c-b074925a6ab159e94c3e477edc4d9a24]
 
 These Regulations may be cited as the Road Vehicles (Construction and Use) (Amendment) Regulations 2003 and shall come into force on 1st April 2003.
 
-## 2. Amendment to regulation 3[^key-9583e9e2f30c89499cd8a290f5f69287]
+## 2. Amendment to regulation 3[^c-9583e9e2f30c89499cd8a290f5f69287]
 
 In regulation 3 (interpretation) of the Road Vehicles (Construction and Use) Regulations 1986[^f00002], in the Table, sub-paragraph (j) of paragraph (i) of the meaning of the expression “overall length” shall be deleted.
 
-## 3. Amendment to regulation 7[^key-5a2568aec1f918b50fd523d2b6b713ad]
+## 3. Amendment to regulation 7[^c-5a2568aec1f918b50fd523d2b6b713ad]
 
 In regulation 7 of those Regulations (length of vehicles), in the Table,
 
@@ -72,7 +72,7 @@ In regulation 7 of those Regulations (length of vehicles), in the Table,
   | 4A | A bus with two axles | 13.5 |
   | 4B | A bus with more than two axles | 15 |
 
-## 4. Amendment to regulation 13[^key-bd49326b1efe53575000fd01ba4fa2d1]
+## 4. Amendment to regulation 13[^c-bd49326b1efe53575000fd01ba4fa2d1]
 
 (1) In paragraph (3), sub-paragraph (a) of regulation 13 of those Regulations (turning circle - buses), shall be inserted the words “of 12m or less in overall length”, after the word “vehicle”;
 
@@ -104,12 +104,12 @@ Copies of the relevant EC Directives can be obtained from the Stationery Office.
 
 [^f00001]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52); section 41 was amended by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 4, paragraph 50 and Schedule 8.
 
-[^key-b074925a6ab159e94c3e477edc4d9a24]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/182/regulation/1) in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/182/regulation/1)
+[^c-b074925a6ab159e94c3e477edc4d9a24]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/182/regulation/1) in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/182/regulation/1)
 
-[^key-9583e9e2f30c89499cd8a290f5f69287]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/182/regulation/2) in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/182/regulation/1)
+[^c-9583e9e2f30c89499cd8a290f5f69287]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/182/regulation/2) in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/182/regulation/1)
 
 [^f00002]: Footnote: S.I. [1986/1078](https://www.legislation.gov.uk/uksi/1986/1078); relevant amending instruments are S.I. [1990/1163](https://www.legislation.gov.uk/uksi/1990/1163), S.I. [1991/2125](https://www.legislation.gov.uk/uksi/1991/2125), S.I. [1998/1188](https://www.legislation.gov.uk/uksi/1998/1188) and S.I. [1998/3112](https://www.legislation.gov.uk/uksi/1998/3112).
 
-[^key-5a2568aec1f918b50fd523d2b6b713ad]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/182/regulation/3) in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/182/regulation/1)
+[^c-5a2568aec1f918b50fd523d2b6b713ad]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/182/regulation/3) in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/182/regulation/1)
 
-[^key-bd49326b1efe53575000fd01ba4fa2d1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/182/regulation/4) in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/182/regulation/1)
+[^c-bd49326b1efe53575000fd01ba4fa2d1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/182/regulation/4) in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/182/regulation/1)

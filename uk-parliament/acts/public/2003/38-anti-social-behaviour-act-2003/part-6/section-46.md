@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Powers of police civilians[^key-22e37d8141081bd5f0d00d51f3c96561]
+## 46. Powers of police civilians[^c-22e37d8141081bd5f0d00d51f3c96561]
 
 *Extent: E+W*
 
-(1)[^key-421d4540a3722a9822348678d03737ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-421d4540a3722a9822348678d03737ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In paragraph 1 of Schedule 5 to that Act (powers of accredited persons to issue fixed penalty notices)—
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-22e37d8141081bd5f0d00d51f3c96561]: Commencement: S. 46 in force at 31.3.2004 by [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2004/690/article/2/a/i)
+[^c-22e37d8141081bd5f0d00d51f3c96561]: Commencement: S. 46 in force at 31.3.2004 by [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2004/690/article/2/a/i)
 
-[^key-421d4540a3722a9822348678d03737ad]: Textual amendment: S. 46(1) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 15(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/15/b); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+[^c-421d4540a3722a9822348678d03737ad]: Textual amendment: S. 46(1) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 15(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/15/b); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)

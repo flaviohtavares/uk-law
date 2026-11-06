@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Application of Trustee Investments Act 1961 in relation to investment in the successor company.[^key-6873c3bf9b79ba5b170ad7df6811ae1e]
+## 11. Application of Trustee Investments Act 1961 in relation to investment in the successor company.[^c-6873c3bf9b79ba5b170ad7df6811ae1e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6873c3bf9b79ba5b170ad7df6811ae1e]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1986/31/section/11) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-6873c3bf9b79ba5b170ad7df6811ae1e]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1986/31/section/11) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)

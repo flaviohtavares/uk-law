@@ -26,29 +26,29 @@ summary: ''
 
 #### Overview
 
-**1.**[^key-d51909ce1004f3b3cd06824ac3b83d25] (1) This Schedule makes provision about reliefs available for certain transactions relating to social housing.
+**1.**[^c-d51909ce1004f3b3cd06824ac3b83d25] (1) This Schedule makes provision about reliefs available for certain transactions relating to social housing.
 
 (2) This Schedule is arranged as follows—
 
-- (a) Part 2 makes provision about relief available for transactions subject to a public sector discount[^key-19c7b7af927e3e52814ca4f23f8a9ce7],
+- (a) Part 2 makes provision about relief available for transactions subject to a public sector discount[^c-19c7b7af927e3e52814ca4f23f8a9ce7],
 - (b) Part 3 makes provision about the tax chargeable and relief available where a shared ownership lease or a rent to shared ownership lease transaction is entered into,
 - (c) Part 4 makes provision about the tax chargeable and relief available where a shared ownership trust is declared and where a rent to shared ownership trust scheme is entered into,
-- (d)[^key-85e16782cb6d406c11eb08b95c398847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-85e16782cb6d406c11eb08b95c398847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) Part 6 provides relief for certain acquisitions by registered social landlords.
 
-### PART 2 — Public Sector Discount Relief[^key-76b52465ae178206ad1061013e4a6158]
+### PART 2 — Public Sector Discount Relief[^c-76b52465ae178206ad1061013e4a6158]
 
-#### Relief for public sector discount transactions[^key-695372424e7137739711be424bdcce7f]
+#### Relief for public sector discount transactions[^c-695372424e7137739711be424bdcce7f]
 
-**2.**[^key-17b152c9c523a047b4edb84bcf6c7285] (1) In the case of a transaction subject to a public sector discount[^key-945cb554952042fcfef2e892348dc0a6]—
+**2.**[^c-17b152c9c523a047b4edb84bcf6c7285] (1) In the case of a transaction subject to a public sector discount[^c-945cb554952042fcfef2e892348dc0a6]—
 
 - (a) section 19(1) (contingent consideration to be included in chargeable consideration on assumption that contingency will occur) does not apply, and
 - (b) any consideration that would be payable only if a contingency were to occur, or that is payable only because a contingency has occurred, does not count as chargeable consideration.
 
-(2) A “**“transaction subject to a public sector discount[^key-571e04ee0018961da62baf9545631d9d]”**” means—
+(2) A “**“transaction subject to a public sector discount[^c-571e04ee0018961da62baf9545631d9d]”**” means—
 
-- (a) the sale of a dwelling at a discount, or the grant of a lease of a dwelling at a discount, by a relevant public sector body[^key-cdfb53a9efc12b608a13801889470c56]...
-- [^key-cdfb53a9efc12b608a13801889470c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the sale of a dwelling at a discount, or the grant of a lease of a dwelling at a discount, by a relevant public sector body[^c-cdfb53a9efc12b608a13801889470c56]...
+- [^c-cdfb53a9efc12b608a13801889470c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The following are relevant public sector bodies for the purposes of this paragraph—
 
@@ -56,28 +56,28 @@ summary: ''
 - (b) the Welsh Ministers;
 - (c) a local housing authority within the meaning given by section 1 of the Housing Act 1985 (c. 68);
 - (d) a registered social landlord;
-- (e)[^key-22902df36239e555823ac1fd071a2173] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-22902df36239e555823ac1fd071a2173] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) a local policing body within the meaning of section 101(1) of the Police Act 1996 (c. 16);
 - (g) a person specified for the purposes of this paragraph by the Welsh Ministers by regulations.
 
-(4)[^key-33d4ceb585610ae12f6a2f9f5b1aaa3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-33d4ceb585610ae12f6a2f9f5b1aaa3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-09e1a6a1609bf3748b826d59a3d1c141] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-09e1a6a1609bf3748b826d59a3d1c141] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In this paragraph—
 
-- [^key-61fbac3b6be120fe31c858e6e3f738ac]...
+- [^c-61fbac3b6be120fe31c858e6e3f738ac]...
 - “**"registered social landlord”**” (“**"*landlord cymdeithasol cofrestredig***”") means a body registered as a social landlord in a register maintained under section 1(1) of the Housing Act 1996 (c. 52).
 
 ### PART 3 — SHARED OWNERSHIP LEASES
 
 #### Shared ownership lease: election for market value treatment
 
-**3.**[^key-8b3816b8d5872e6ac4de53136685c9e1] (1) This paragraph applies where—
+**3.**[^c-8b3816b8d5872e6ac4de53136685c9e1] (1) This paragraph applies where—
 
 - (a) a lease is granted—
-  - (i) by a qualifying body[^key-0492b358f90cfedd1bae801be080601e]...
-  - (ii)[^key-0492b358f90cfedd1bae801be080601e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) by a qualifying body[^c-0492b358f90cfedd1bae801be080601e]...
+  - (ii)[^c-0492b358f90cfedd1bae801be080601e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the conditions in sub-paragraph (2) are met, and
 - (c) the buyer elects for tax to be charged in accordance with this paragraph.
 
@@ -108,18 +108,18 @@ summary: ''
 
 #### Shared ownership lease: transfer of reversion where election made for market value treatment
 
-**4.**[^key-5a10c296e3a3c932e489d0d604923f5c] The transfer of the reversion to the tenant under the terms of a lease to which paragraph 3 applies (shared ownership lease: election for market value treatment) is relieved from tax if—
+**4.**[^c-5a10c296e3a3c932e489d0d604923f5c] The transfer of the reversion to the tenant under the terms of a lease to which paragraph 3 applies (shared ownership lease: election for market value treatment) is relieved from tax if—
 
 - (a) an election was made under paragraph 3, and
 - (b) any tax chargeable in respect of the grant of the lease has been paid.
 
 #### Shared ownership lease: election for market value treatment of premium where staircasing allowed
 
-**5.**[^key-f5c5d5ac028aaf650559d930dc2e589f] (1) This paragraph applies where—
+**5.**[^c-f5c5d5ac028aaf650559d930dc2e589f] (1) This paragraph applies where—
 
 - (a) a lease is granted—
-  - (i) by a qualifying body[^key-735bea7a4ad1e5a1c423323da4996292]...
-  - (ii)[^key-735bea7a4ad1e5a1c423323da4996292] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) by a qualifying body[^c-735bea7a4ad1e5a1c423323da4996292]...
+  - (ii)[^c-735bea7a4ad1e5a1c423323da4996292] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the conditions in sub-paragraph (2) are met, and
 - (c) the buyer elects for tax to be charged in accordance with this paragraph.
 
@@ -148,7 +148,7 @@ summary: ''
 
 #### Shared ownership lease: staircasing transactions
 
-**6.**[^key-867f2d6050a78c2e30ce2281dd8d39de] (1) This paragraph applies where under a shared ownership lease—
+**6.**[^c-867f2d6050a78c2e30ce2281dd8d39de] (1) This paragraph applies where under a shared ownership lease—
 
 - (a) the tenant has the right, on the payment of a sum, to require the terms of the lease to be varied so that the rent payable under it is reduced, and
 - (b) by exercising that right the tenant acquires an interest, additional to one already held, calculated by reference to the market value of the dwelling and expressed as a percentage of that dwelling or its value (a ““share of the dwelling””).
@@ -162,14 +162,14 @@ summary: ''
 
 #### Shared ownership lease: grant not linked with staircasing transactions etc.
 
-**7.**[^key-3c4680cbdff7cf5d8f99941635c90a01] For the purpose of determining the amount of tax chargeable on the grant of a shared ownership lease of a dwelling, the grant is to be treated as if it is not linked to—
+**7.**[^c-3c4680cbdff7cf5d8f99941635c90a01] For the purpose of determining the amount of tax chargeable on the grant of a shared ownership lease of a dwelling, the grant is to be treated as if it is not linked to—
 
 - (a) any acquisition of an interest in the dwelling to which paragraph 6 applies, or
 - (b) a transfer of the reversion to the tenant under the terms of the lease.
 
 #### Rent to shared ownership lease: charge to tax
 
-**8.**[^key-7bb095e026b974f06611b3daed5364b5] (1) The chargeable consideration for transactions forming part of a rent to shared ownership lease scheme is determined in accordance with this paragraph.
+**8.**[^c-7bb095e026b974f06611b3daed5364b5] (1) The chargeable consideration for transactions forming part of a rent to shared ownership lease scheme is determined in accordance with this paragraph.
 
 (2) A “**"rent to shared ownership lease scheme”**” means a scheme or arrangement under which a qualifying body—
 
@@ -188,10 +188,10 @@ summary: ''
 
 #### Shared ownership leases: interpretation
 
-**9.**[^key-cff6616cf5aafbebd9c6b7570319431e] (1) For the purposes of paragraphs 6, 7 and 8, a “**"shared ownership lease”**” means a lease granted—
+**9.**[^c-cff6616cf5aafbebd9c6b7570319431e] (1) For the purposes of paragraphs 6, 7 and 8, a “**"shared ownership lease”**” means a lease granted—
 
-- (a) by a qualifying body[^key-1be0166030eaa3558075b53f519fa191]...
-- (b)[^key-1be0166030eaa3558075b53f519fa191] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) by a qualifying body[^c-1be0166030eaa3558075b53f519fa191]...
+- (b)[^c-1be0166030eaa3558075b53f519fa191] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 in relation to which the conditions in paragraph 3(2) or 5(2) are met.
 
@@ -201,17 +201,17 @@ in relation to which the conditions in paragraph 3(2) or 5(2) are met.
 
 - (a) a local housing authority within the meaning given by section 1 of the Housing Act 1985 (c. 68);
 - (b) a housing association within the meaning given by the Housing Associations Act 1985 (c. 69);
-- (c)[^key-ae0b00e1010ebbb846651e830bf1e0af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ae0b00e1010ebbb846651e830bf1e0af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-7bfd83fa94f2374bbba75fd708b8e0ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7bfd83fa94f2374bbba75fd708b8e0ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-f02766bdc8aa3a2d77b3356cd6abd955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f02766bdc8aa3a2d77b3356cd6abd955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 4 — SHARED OWNERSHIP TRUSTS
 
 #### Shared ownership trusts: meaning of shared ownership trust and other key terms
 
-**10.**[^key-0c0e8846585f7dae649eb507196ca53e] (1) This paragraph applies to paragraphs 11 to 17.
+**10.**[^c-0c0e8846585f7dae649eb507196ca53e] (1) This paragraph applies to paragraphs 11 to 17.
 
 (2) A “**"shared ownership trust”**” means a trust of land within the meaning of section 1 of the Trusts of Land and Appointment of Trustees Act 1996 (c. 47) which satisfies the following conditions.
 
@@ -240,15 +240,15 @@ in relation to which the conditions in paragraph 3(2) or 5(2) are met.
 
 - (a) a local housing authority within the meaning given by section 1 of the Housing Act 1985 (c. 68);
 - (b) a housing association within the meaning given by the Housing Associations Act 1985 (c. 69);
-- (c)[^key-eb48f36f59a807661942d5f1f24823b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-eb48f36f59a807661942d5f1f24823b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Shared ownership trust: the buyer
 
-**11.**[^key-38a0f94de9158647654eb333d09f775a] For the purposes of this Act, the person or persons identified as the buyer in accordance with paragraph 10, and not the social landlord or any other beneficiary is (or are) to be treated as the buyers of the trust property.
+**11.**[^c-38a0f94de9158647654eb333d09f775a] For the purposes of this Act, the person or persons identified as the buyer in accordance with paragraph 10, and not the social landlord or any other beneficiary is (or are) to be treated as the buyers of the trust property.
 
 #### Shared ownership trust: election for market value treatment
 
-**12.**[^key-b02808423e30e91cb2f12b7daa742785] (1) This paragraph applies where—
+**12.**[^c-b02808423e30e91cb2f12b7daa742785] (1) This paragraph applies where—
 
 - (a) a shared ownership trust is declared, and
 - (b) the buyer makes an election under this paragraph.
@@ -265,14 +265,14 @@ in relation to which the conditions in paragraph 3(2) or 5(2) are met.
 
 #### Shared ownership trust transfer upon termination
 
-**13.**[^key-34f3da65d2f13098bdb744e9f3441a8b] The transfer to the buyer of an interest in the trust property upon the termination of the trust is relieved from tax if—
+**13.**[^c-34f3da65d2f13098bdb744e9f3441a8b] The transfer to the buyer of an interest in the trust property upon the termination of the trust is relieved from tax if—
 
 - (a) an election has been made under paragraph 12, and
 - (b) any tax chargeable in respect of the declaration of the shared ownership trust has been paid.
 
 #### Shared ownership trust: staircasing transactions
 
-**14.**[^key-e7ae22cf88a39e7e2812aa3320e27288] (1) An equity-acquisition payment under a shared ownership trust, and the consequent increase in the buyer's beneficial interest is to be relieved from tax if—
+**14.**[^c-e7ae22cf88a39e7e2812aa3320e27288] (1) An equity-acquisition payment under a shared ownership trust, and the consequent increase in the buyer's beneficial interest is to be relieved from tax if—
 
 - (a) an election has been made for relief under paragraph 12, and
 - (b) any tax chargeable in respect of the declaration of the trust has been paid.
@@ -281,21 +281,21 @@ in relation to which the conditions in paragraph 3(2) or 5(2) are met.
 
 #### Shared ownership trust: treatment of additional payments where no election made
 
-**15.**[^key-ee38bcfd4abbcfc5ec5ca0d9ed3e255e] Where no election has been made under paragraph 12 in respect of a shared ownership trust—
+**15.**[^c-ee38bcfd4abbcfc5ec5ca0d9ed3e255e] Where no election has been made under paragraph 12 in respect of a shared ownership trust—
 
 - (a) the initial capital is to be treated as chargeable consideration other than rent, and
 - (b) any rent-equivalent payment by the buyer is to be treated as a payment of rent.
 
 #### Shared ownership trust: declaration not linked with staircasing etc.
 
-**16.**[^key-e6b6f8a8f9d7d0d0d47f882accb2ed2e] For the purposes of determining the amount of tax chargeable on the declaration of a shared ownership trust, the declaration is to be treated as if it were not linked to—
+**16.**[^c-e6b6f8a8f9d7d0d0d47f882accb2ed2e] For the purposes of determining the amount of tax chargeable on the declaration of a shared ownership trust, the declaration is to be treated as if it were not linked to—
 
 - (a) any equity-acquisition payment under the trust or any consequent increase in the buyer's beneficial interest in the trust property, or
 - (b) a transfer to the buyer of an interest in the trust property on the termination of the trust.
 
 #### Rent to shared ownership trust: charge to tax
 
-**17.**[^key-ec0fcc637ed0427f635299f729385a6f] (1) The chargeable consideration for transactions forming part of a rent to shared ownership trust scheme is determined in accordance with this paragraph.
+**17.**[^c-ec0fcc637ed0427f635299f729385a6f] (1) The chargeable consideration for transactions forming part of a rent to shared ownership trust scheme is determined in accordance with this paragraph.
 
 (2) A “**"rent to shared ownership trust scheme”**” means a scheme or arrangement under which —
 
@@ -314,13 +314,13 @@ in relation to which the conditions in paragraph 3(2) or 5(2) are met.
 
 #### Rent to mortgage: chargeable consideration
 
-**18.**[^key-8d9ab9ada0c08b8cb7a7b6812e6aaf5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-8d9ab9ada0c08b8cb7a7b6812e6aaf5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 6 — RELIEF FOR CERTAIN ACQUISITIONS BY REGISTERED SOCIAL LANDLORDS
 
 #### Relief for certain acquisitions by registered social landlords
 
-**19.**[^key-7576f67a3b977fc5bd424f974e06e25d] (1) A land transaction under which the buyer is a registered social landlord is relieved from tax if—
+**19.**[^c-7576f67a3b977fc5bd424f974e06e25d] (1) A land transaction under which the buyer is a registered social landlord is relieved from tax if—
 
 - (a) the registered social landlord is controlled by its tenants,
 - (b) the seller is a qualifying body, or
@@ -341,85 +341,85 @@ in relation to which the conditions in paragraph 3(2) or 5(2) are met.
   - (c) under section 126 of the Housing Grants, Construction and Regeneration Act 1996 (c. 53) (financial assistance for regeneration and development);
 - “**"qualifying body”**” (“**"*corff cymwys***”") means any of the following—
   - (a) a registered social landlord;
-  - (b) [^key-3457f6b873e8393c413f8acff53225da]...
+  - (b) [^c-3457f6b873e8393c413f8acff53225da]...
   - (c) a county or county borough council constituted under section 21 of the Local Government Act 1972 (c. 70);
   - (d) a county or district council constituted under section 2 of that Act;
   - (e) the Welsh Ministers.
 
 ## Annotations
 
-[^key-d51909ce1004f3b3cd06824ac3b83d25]: Commencement: Sch. 15 para. 1 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-d51909ce1004f3b3cd06824ac3b83d25]: Commencement: Sch. 15 para. 1 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-19c7b7af927e3e52814ca4f23f8a9ce7]: Textual amendment: Words in Sch. 15 para. 1(2)(a) substituted (26.1.2019) by [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(i)(aa)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/i)
+[^c-19c7b7af927e3e52814ca4f23f8a9ce7]: Textual amendment: Words in Sch. 15 para. 1(2)(a) substituted (26.1.2019) by [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(i)(aa)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/i)
 
-[^key-85e16782cb6d406c11eb08b95c398847]: Textual amendment: Sch. 15 para. 1(2)(d) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(i)(bb)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/i)
+[^c-85e16782cb6d406c11eb08b95c398847]: Textual amendment: Sch. 15 para. 1(2)(d) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(i)(bb)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/i)
 
-[^key-76b52465ae178206ad1061013e4a6158]: Textual amendment: Sch. 15 Pt. 2 title substituted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(iii)(aa)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/iii)
+[^c-76b52465ae178206ad1061013e4a6158]: Textual amendment: Sch. 15 Pt. 2 title substituted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(iii)(aa)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/iii)
 
-[^key-695372424e7137739711be424bdcce7f]: Textual amendment: Sch. 15 para. 2 heading substituted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(iii)(bb)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/iii)
+[^c-695372424e7137739711be424bdcce7f]: Textual amendment: Sch. 15 para. 2 heading substituted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(iii)(bb)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/iii)
 
-[^key-17b152c9c523a047b4edb84bcf6c7285]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-17b152c9c523a047b4edb84bcf6c7285]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-945cb554952042fcfef2e892348dc0a6]: Textual amendment: Words in Sch. 15 para. 2(1) substituted (26.1.2019) by [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(ii)(aa)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/ii)
+[^c-945cb554952042fcfef2e892348dc0a6]: Textual amendment: Words in Sch. 15 para. 2(1) substituted (26.1.2019) by [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(ii)(aa)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/ii)
 
-[^key-571e04ee0018961da62baf9545631d9d]: Textual amendment: Words in Sch. 15 para. 2(2) substituted (26.1.2019) by [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(ii)(bb)(i)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/ii)
+[^c-571e04ee0018961da62baf9545631d9d]: Textual amendment: Words in Sch. 15 para. 2(2) substituted (26.1.2019) by [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(ii)(bb)(i)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/ii)
 
-[^key-cdfb53a9efc12b608a13801889470c56]: Textual amendment: Sch. 15 para. 2(2)(b) and word omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(ii)(bb)(ii)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/ii)
+[^c-cdfb53a9efc12b608a13801889470c56]: Textual amendment: Sch. 15 para. 2(2)(b) and word omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(ii)(bb)(ii)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/ii)
 
-[^key-22902df36239e555823ac1fd071a2173]: Textual amendment: [Sch. 15 para. 2(3)(e)](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/2/3/e) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/17/a)
+[^c-22902df36239e555823ac1fd071a2173]: Textual amendment: [Sch. 15 para. 2(3)(e)](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/2/3/e) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/17/a)
 
-[^key-33d4ceb585610ae12f6a2f9f5b1aaa3a]: Textual amendment: Sch. 15 para. 2(4) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(ii)(cc)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/ii)
+[^c-33d4ceb585610ae12f6a2f9f5b1aaa3a]: Textual amendment: Sch. 15 para. 2(4) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(ii)(cc)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/ii)
 
-[^key-09e1a6a1609bf3748b826d59a3d1c141]: Textual amendment: Sch. 15 para. 2(5) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(ii)(dd)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/ii)
+[^c-09e1a6a1609bf3748b826d59a3d1c141]: Textual amendment: Sch. 15 para. 2(5) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(ii)(dd)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/ii)
 
-[^key-61fbac3b6be120fe31c858e6e3f738ac]: Textual amendment: Words in Sch. 15 para. 2(6) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(ii)(ee)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/ii)
+[^c-61fbac3b6be120fe31c858e6e3f738ac]: Textual amendment: Words in Sch. 15 para. 2(6) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(b)(ii)(ee)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/b/ii)
 
-[^key-8b3816b8d5872e6ac4de53136685c9e1]: Commencement: Sch. 15 para. 3 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-8b3816b8d5872e6ac4de53136685c9e1]: Commencement: Sch. 15 para. 3 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-0492b358f90cfedd1bae801be080601e]: Textual amendment: Sch. 15 para. 3(1)(a)(ii) and word omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(c)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/c)
+[^c-0492b358f90cfedd1bae801be080601e]: Textual amendment: Sch. 15 para. 3(1)(a)(ii) and word omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(c)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/c)
 
-[^key-5a10c296e3a3c932e489d0d604923f5c]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-5a10c296e3a3c932e489d0d604923f5c]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-f5c5d5ac028aaf650559d930dc2e589f]: Commencement: Sch. 15 para. 5 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-f5c5d5ac028aaf650559d930dc2e589f]: Commencement: Sch. 15 para. 5 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-735bea7a4ad1e5a1c423323da4996292]: Textual amendment: Sch. 15 para. 5(1)(a)(ii) and word omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(d)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/d)
+[^c-735bea7a4ad1e5a1c423323da4996292]: Textual amendment: Sch. 15 para. 5(1)(a)(ii) and word omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(d)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/d)
 
-[^key-867f2d6050a78c2e30ce2281dd8d39de]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-867f2d6050a78c2e30ce2281dd8d39de]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-3c4680cbdff7cf5d8f99941635c90a01]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-3c4680cbdff7cf5d8f99941635c90a01]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-7bb095e026b974f06611b3daed5364b5]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-7bb095e026b974f06611b3daed5364b5]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-cff6616cf5aafbebd9c6b7570319431e]: Commencement: Sch. 15 para. 9 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-cff6616cf5aafbebd9c6b7570319431e]: Commencement: Sch. 15 para. 9 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-1be0166030eaa3558075b53f519fa191]: Textual amendment: Sch. 15 para. 9(1)(b) and word omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(e)(i)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/e/i)
+[^c-1be0166030eaa3558075b53f519fa191]: Textual amendment: Sch. 15 para. 9(1)(b) and word omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(e)(i)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/e/i)
 
-[^key-ae0b00e1010ebbb846651e830bf1e0af]: Textual amendment: [Sch. 15 para. 9(3)(c)](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/9/3/c) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/17/b)
+[^c-ae0b00e1010ebbb846651e830bf1e0af]: Textual amendment: [Sch. 15 para. 9(3)(c)](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/9/3/c) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/17/b)
 
-[^key-7bfd83fa94f2374bbba75fd708b8e0ca]: Textual amendment: Sch. 15 para. 9(4) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(e)(ii)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/e/ii)
+[^c-7bfd83fa94f2374bbba75fd708b8e0ca]: Textual amendment: Sch. 15 para. 9(4) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(e)(ii)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/e/ii)
 
-[^key-f02766bdc8aa3a2d77b3356cd6abd955]: Textual amendment: Sch. 15 para. 9(5) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(e)(iii)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/e/iii)
+[^c-f02766bdc8aa3a2d77b3356cd6abd955]: Textual amendment: Sch. 15 para. 9(5) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(e)(iii)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/e/iii)
 
-[^key-0c0e8846585f7dae649eb507196ca53e]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-0c0e8846585f7dae649eb507196ca53e]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-eb48f36f59a807661942d5f1f24823b7]: Textual amendment: [Sch. 15 para. 10(8)(c)](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/10/8/c) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 17(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/17/c)
+[^c-eb48f36f59a807661942d5f1f24823b7]: Textual amendment: [Sch. 15 para. 10(8)(c)](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/10/8/c) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 17(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/17/c)
 
-[^key-38a0f94de9158647654eb333d09f775a]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/11) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-38a0f94de9158647654eb333d09f775a]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/11) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-b02808423e30e91cb2f12b7daa742785]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-b02808423e30e91cb2f12b7daa742785]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-34f3da65d2f13098bdb744e9f3441a8b]: Commencement: [Sch. 15 para. 13](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-34f3da65d2f13098bdb744e9f3441a8b]: Commencement: [Sch. 15 para. 13](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-e7ae22cf88a39e7e2812aa3320e27288]: Commencement: [Sch. 15 para. 14](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/14) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e7ae22cf88a39e7e2812aa3320e27288]: Commencement: [Sch. 15 para. 14](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/14) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-ee38bcfd4abbcfc5ec5ca0d9ed3e255e]: Commencement: [Sch. 15 para. 15](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/15) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-ee38bcfd4abbcfc5ec5ca0d9ed3e255e]: Commencement: [Sch. 15 para. 15](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/15) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-e6b6f8a8f9d7d0d0d47f882accb2ed2e]: Commencement: [Sch. 15 para. 16](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/16) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e6b6f8a8f9d7d0d0d47f882accb2ed2e]: Commencement: [Sch. 15 para. 16](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/16) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-ec0fcc637ed0427f635299f729385a6f]: Commencement: [Sch. 15 para. 17](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/17) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-ec0fcc637ed0427f635299f729385a6f]: Commencement: [Sch. 15 para. 17](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/17) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-8d9ab9ada0c08b8cb7a7b6812e6aaf5b]: Textual amendment: Sch. 15 para. 18 omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(f)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/f)
+[^c-8d9ab9ada0c08b8cb7a7b6812e6aaf5b]: Textual amendment: Sch. 15 para. 18 omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [4(f)](https://www.legislation.gov.uk/wsi/2019/110/regulation/4/f)
 
-[^key-7576f67a3b977fc5bd424f974e06e25d]: Commencement: [Sch. 15 para. 19](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/19) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-7576f67a3b977fc5bd424f974e06e25d]: Commencement: [Sch. 15 para. 19](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/19) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-3457f6b873e8393c413f8acff53225da]: Textual amendment: Words in [Sch. 15 para. 19(3)](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/19/3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 17(d)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/17/d)
+[^c-3457f6b873e8393c413f8acff53225da]: Textual amendment: Words in [Sch. 15 para. 19(3)](https://www.legislation.gov.uk/anaw/2017/1/schedule/15/paragraph/19/3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 17(d)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/17/d)

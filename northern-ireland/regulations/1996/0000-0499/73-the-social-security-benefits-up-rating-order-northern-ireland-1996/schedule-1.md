@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — Schedule 4 to the Contributions and Benefits Act as amended by this Order[^key-305a9ef4df49cceb2381699f716b5172]
+## SCHEDULE 1 — Schedule 4 to the Contributions and Benefits Act as amended by this Order[^c-305a9ef4df49cceb2381699f716b5172]
 
 *Extent: N.I.*
 
@@ -106,4 +106,4 @@ Article 3(1)
 
 ## Annotations
 
-[^key-305a9ef4df49cceb2381699f716b5172]: Commencement: Sch. 1 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
+[^c-305a9ef4df49cceb2381699f716b5172]: Commencement: Sch. 1 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)

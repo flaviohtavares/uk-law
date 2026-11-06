@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.16. Information about pre-administration costs[^key-971f2706fb834bd41b90d8226f63a912]
+## 3.16. Information about pre-administration costs[^c-971f2706fb834bd41b90d8226f63a912]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-971f2706fb834bd41b90d8226f63a912]: Commencement: Rule 3.16 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-971f2706fb834bd41b90d8226f63a912]: Commencement: Rule 3.16 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

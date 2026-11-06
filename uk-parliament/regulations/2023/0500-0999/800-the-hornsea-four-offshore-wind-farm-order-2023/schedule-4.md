@@ -22,7 +22,7 @@ summary: ''
 
 Article 11
 
-### PART 1 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED[^key-2c2db2495ca97c9dcc5e474bb051fa3b]
+### PART 1 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED[^c-2c2db2495ca97c9dcc5e474bb051fa3b]
 
 | *(1)*<br>*Public right of way to be temporarily stopped up* | *(2)*<br>*Extent of temporary stopping up* |
 | --- | --- |
@@ -58,20 +58,20 @@ Article 11
 | Skidby Footpath No. 17 | Between points 26a and 26b as shown dashed on sheet 28 of the public rights of way plan |
 | Rowley Bridleway No. 13 | Between points 27a and 27b as shown dashed on sheet 27 of the public rights of way plan |
 
-### PART 2 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY DIVERTED[^key-135f189cc300a920ab0bb3bbf01e2950]
+### PART 2 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY DIVERTED[^c-135f189cc300a920ab0bb3bbf01e2950]
 
 | *(1)*<br>*Public right of way to be diverted* | *(2)*<br>*Extent of diversion* | *(2)*<br>*Extent of substitute right of way* |
 | --- | --- | --- |
 | Skidby Footpath No. 16 | Within area 1 shaded orange on sheet 28 of the public rights of way plan | 602 m |
 | Rowley Bridleway No. 13 | Between points 27a and 27b dashed blue on sheet 27 of the public rights of way plan | 358 m |
 
-### PART 3 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY DIVERTED[^key-b03fe4abf48da8d6aee28a717ccf6021]
+### PART 3 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY DIVERTED[^c-b03fe4abf48da8d6aee28a717ccf6021]
 
 | *(1)*<br>*Public right of way to be diverted* | *(2)*<br>*Extent of temporary diversion* | *(3)*<br>*Extent of substitute right of way* |
 | --- | --- | --- |
 | Barmston Footpath No. 4 | Between points 1a and 1b as shown dashed on sheet 1 of the public rights of way plan | 244 m |
 
-### PART 4 — ACCESS LAND WHERE PUBLIC RIGHTS OF WAY MAY BE TEMPORARILY SUSPENDED[^key-4901c4dc9be0d3ead19e6d0db45f99e5]
+### PART 4 — ACCESS LAND WHERE PUBLIC RIGHTS OF WAY MAY BE TEMPORARILY SUSPENDED[^c-4901c4dc9be0d3ead19e6d0db45f99e5]
 
 | *(1)*<br>*Access Land subject to temporary prohibition or restriction of use* | *(2)*<br>*Extent of temporary prohibition or restriction of use of access land* |
 | --- | --- |
@@ -79,10 +79,10 @@ Article 11
 
 ## Annotations
 
-[^key-2c2db2495ca97c9dcc5e474bb051fa3b]: Commencement: Sch. 4 Pt. 1 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-2c2db2495ca97c9dcc5e474bb051fa3b]: Commencement: Sch. 4 Pt. 1 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-135f189cc300a920ab0bb3bbf01e2950]: Commencement: Sch. 4 Pt. 2 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-135f189cc300a920ab0bb3bbf01e2950]: Commencement: Sch. 4 Pt. 2 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-b03fe4abf48da8d6aee28a717ccf6021]: Commencement: Sch. 4 Pt. 3 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-b03fe4abf48da8d6aee28a717ccf6021]: Commencement: Sch. 4 Pt. 3 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-4901c4dc9be0d3ead19e6d0db45f99e5]: Commencement: Sch. 4 Pt. 4 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-4901c4dc9be0d3ead19e6d0db45f99e5]: Commencement: Sch. 4 Pt. 4 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)

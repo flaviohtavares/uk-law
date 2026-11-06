@@ -37,7 +37,7 @@ summary: ''
 
 (3) Regulations made under subsection (2) may apply to—
 
-- (a) committees appointed by local authorities[^key-df82d42709314c7296748c08b3554faa] under paragraph 4 of Schedule 31,
+- (a) committees appointed by local authorities[^c-df82d42709314c7296748c08b3554faa] under paragraph 4 of Schedule 31,
 - (b) sub-committees appointed by conferences under that Schedule, and
 - (c) representative groups on councils appointed under section 390(4),
 
@@ -45,4 +45,4 @@ as they apply to conferences and councils.
 
 ## Annotations
 
-[^key-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))

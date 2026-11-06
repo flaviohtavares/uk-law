@@ -373,7 +373,7 @@ For regulation 20, substitute—
 
 (3) Omit paragraph (5).
 
-## 13. Enforcement[^key-f097b80164840c81ace97e08514d9cb3]
+## 13. Enforcement[^c-f097b80164840c81ace97e08514d9cb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -427,9 +427,9 @@ The Classification and Labelling of Explosives Regulations 1983 [^c21049231] are
 
 - (a) regulation 5(1) of the Dangerous Substances in Harbour Areas Regulations 1987 [^c21049241];
 - (b) regulation 3 of the Docks Regulations 1988 [^c21049251];
-- (c)[^key-d78cee915fe6f8199c5f605b56af98c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-09e331125eda9f9688277f35e9de88fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-d0e3bb596dccb18edcd2d0215122cb1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-d78cee915fe6f8199c5f605b56af98c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-09e331125eda9f9688277f35e9de88fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-d0e3bb596dccb18edcd2d0215122cb1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) regulation 12 of the Dangerous Substances and Explosive Atmospheres Regulations 2002 [^c21049291].
 
 Signed by authority of the Secretary of State
@@ -452,15 +452,15 @@ In regulation 2(1) of the Dangerous Substances in Harbour Areas Regulations 1987
 
 In regulation 21(3)(d) of the Docks Regulations 1988, for “regulation 2(1) of the Classification and Labelling of Explosives Regulations 1983”, substitute “ regulation 25(11)(a) of the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 [^c21049311] ”.
 
-### 3. The Control of Explosives Regulations 1991[^key-52bb0b5a035d181afcc9b99729463e51]
+### 3. The Control of Explosives Regulations 1991[^c-52bb0b5a035d181afcc9b99729463e51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. The Placing on the Market and Supervision of Transfers of Explosives Regulations 1993[^key-1473be7a747216e8aa65a011989002cd]
+### 4. The Placing on the Market and Supervision of Transfers of Explosives Regulations 1993[^c-1473be7a747216e8aa65a011989002cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. The Marking of Plastic Explosives for Detection Regulations 1996[^key-72d4ad893a2c3467effca7558d9b2251]
+### 5. The Marking of Plastic Explosives for Detection Regulations 1996[^c-72d4ad893a2c3467effca7558d9b2251]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -571,7 +571,7 @@ A copy of Directive 2010/35/EU may be downloaded without charge from EURLEX, the
 
 [^c21049221]: Marginal citation: Current Edition: 2004, ISBN 0580446832.
 
-[^key-f097b80164840c81ace97e08514d9cb3]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2011/1885/regulation/13) revoked (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-f097b80164840c81ace97e08514d9cb3]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2011/1885/regulation/13) revoked (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c21049231]: Marginal citation: [S.I. 1983/1140](https://www.legislation.gov.uk/uksi/1983/1140) as amended by the following S.I.s: 1996/2093, 1999/303, 2004/568, 2005/1082, 2007/1573 and 2010/1554.
 
@@ -579,11 +579,11 @@ A copy of Directive 2010/35/EU may be downloaded without charge from EURLEX, the
 
 [^c21049251]: Marginal citation: [S.I. 1988/1655](https://www.legislation.gov.uk/uksi/1988/1655), to which there are amendments not relevant to these Regulations.
 
-[^key-d78cee915fe6f8199c5f605b56af98c0]: Textual amendment: [Reg. 17(2)(c)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/17/2/c) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 25(a)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/25/a), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+[^c-d78cee915fe6f8199c5f605b56af98c0]: Textual amendment: [Reg. 17(2)(c)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/17/2/c) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 25(a)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/25/a), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
 
-[^key-09e331125eda9f9688277f35e9de88fd]: Textual amendment: [Reg. 17(2)(d)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/17/2/d) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 25(a)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/25/a), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+[^c-09e331125eda9f9688277f35e9de88fd]: Textual amendment: [Reg. 17(2)(d)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/17/2/d) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 25(a)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/25/a), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
 
-[^key-d0e3bb596dccb18edcd2d0215122cb1c]: Textual amendment: [Reg. 17(2)(e)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/17/2/e) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 25(a)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/25/a), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+[^c-d0e3bb596dccb18edcd2d0215122cb1c]: Textual amendment: [Reg. 17(2)(e)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/17/2/e) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 25(a)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/25/a), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
 
 [^c21049291]: Marginal citation: [S.I. 2002/2776](https://www.legislation.gov.uk/uksi/2002/2776), amended by [S.I. 2004/568](https://www.legislation.gov.uk/uksi/2004/568), 2007/1573 and 2009/716.
 
@@ -591,11 +591,11 @@ A copy of Directive 2010/35/EU may be downloaded without charge from EURLEX, the
 
 [^c21049311]: Marginal citation: [S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348), as amended by [S.I. 2011/1885](https://www.legislation.gov.uk/uksi/2011/1885).
 
-[^key-52bb0b5a035d181afcc9b99729463e51]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2011/1885/schedule/paragraph/3) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 25(b)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/25/b), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+[^c-52bb0b5a035d181afcc9b99729463e51]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2011/1885/schedule/paragraph/3) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 25(b)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/25/b), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
 
-[^key-1473be7a747216e8aa65a011989002cd]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2011/1885/schedule/paragraph/4) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 25(b)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/25/b), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+[^c-1473be7a747216e8aa65a011989002cd]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2011/1885/schedule/paragraph/4) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 25(b)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/25/b), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
 
-[^key-72d4ad893a2c3467effca7558d9b2251]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2011/1885/schedule/paragraph/5) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 25(b)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/25/b), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+[^c-72d4ad893a2c3467effca7558d9b2251]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2011/1885/schedule/paragraph/5) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 25(b)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/25/b), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
 
 [^c21049341]: Marginal citation: [S.I. 2003/1082](https://www.legislation.gov.uk/uksi/2003/1082).
 

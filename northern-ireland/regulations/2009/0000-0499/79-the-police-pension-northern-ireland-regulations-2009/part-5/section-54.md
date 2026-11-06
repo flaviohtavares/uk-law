@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Acceptance and effect of elections[^key-b569870ae00bb49539b7d174c42666ca]
+## 54. Acceptance and effect of elections[^c-b569870ae00bb49539b7d174c42666ca]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b569870ae00bb49539b7d174c42666ca]: Commencement: Reg. 54 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-b569870ae00bb49539b7d174c42666ca]: Commencement: Reg. 54 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

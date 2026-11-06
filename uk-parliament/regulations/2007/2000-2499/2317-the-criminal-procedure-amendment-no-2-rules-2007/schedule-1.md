@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1[^key-20ebce966c9948f3cd3c96ef6b8dc48e]
+## SCHEDULE 1[^c-20ebce966c9948f3cd3c96ef6b8dc48e]
 
 *Extent: E+W*
 
@@ -314,7 +314,7 @@ Rule 27
 
 ## Annotations
 
-[^key-20ebce966c9948f3cd3c96ef6b8dc48e]: Commencement: Sch. 1 in force at 1.10.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/2317/rule/1)
+[^c-20ebce966c9948f3cd3c96ef6b8dc48e]: Commencement: Sch. 1 in force at 1.10.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/2317/rule/1)
 
 [^f00010]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 

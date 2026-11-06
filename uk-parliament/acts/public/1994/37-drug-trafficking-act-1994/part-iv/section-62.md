@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Meaning of “property” and related expressions.[^key-d205befa632ca70abd102cda6340a2ca]
+## 62. Meaning of “property” and related expressions.[^c-d205befa632ca70abd102cda6340a2ca]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d205befa632ca70abd102cda6340a2ca]: Textual amendment: S. 62 repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 25(2)(h)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/25/2/h), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
+[^c-d205befa632ca70abd102cda6340a2ca]: Textual amendment: S. 62 repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 25(2)(h)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/25/2/h), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))

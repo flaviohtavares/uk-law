@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Application of civil aviation regulations to renewable energy installations[^key-cff3460f57ace8c906ac246c662161a5]
+## 101. Application of civil aviation regulations to renewable energy installations[^c-cff3460f57ace8c906ac246c662161a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cff3460f57ace8c906ac246c662161a5]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2004/20/section/101) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-cff3460f57ace8c906ac246c662161a5]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2004/20/section/101) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

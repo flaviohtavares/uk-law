@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. The Electronic Communications Code (Conditions and Restrictions) Regulations 2003[^key-86c9d539dd1fa9494b38c597e05cd0a7]
+## 25. The Electronic Communications Code (Conditions and Restrictions) Regulations 2003[^c-86c9d539dd1fa9494b38c597e05cd0a7]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ In regulation 2(2) of the Electronic Communications Code (Conditions and Restric
 
 ## Annotations
 
-[^key-86c9d539dd1fa9494b38c597e05cd0a7]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2024/924/regulation/25) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-86c9d539dd1fa9494b38c597e05cd0a7]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2024/924/regulation/25) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00020]: Footnote: [S.I. 2003/2553](https://www.legislation.gov.uk/uksi/2003/2553), to which there are amendments not relevant to these Regulations.

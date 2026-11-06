@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Temporary use of land for carrying out the authorised development[^key-0820730188de26a9a48941987a09a596]
+## 37. Temporary use of land for carrying out the authorised development[^c-0820730188de26a9a48941987a09a596]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0820730188de26a9a48941987a09a596]: Commencement: Art. 37 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-0820730188de26a9a48941987a09a596]: Commencement: Art. 37 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
 [^f00083]: Footnote: Section 11 was amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1) and sections 186, 187 and 188 of, and Schedules 14 and 16 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

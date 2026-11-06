@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Jurisdiction in relation to decisions under this Part[^key-57065447fd00055c3abf159ea96918f6][^key-ecdacab4c1a133ed4cb0139a92af3ebd]
+## 53. Jurisdiction in relation to decisions under this Part[^c-57065447fd00055c3abf159ea96918f6][^c-ecdacab4c1a133ed4cb0139a92af3ebd]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57065447fd00055c3abf159ea96918f6]: Commencement: S. 53 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-57065447fd00055c3abf159ea96918f6]: Commencement: S. 53 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-ecdacab4c1a133ed4cb0139a92af3ebd]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2023/32/section/53) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-ecdacab4c1a133ed4cb0139a92af3ebd]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2023/32/section/53) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

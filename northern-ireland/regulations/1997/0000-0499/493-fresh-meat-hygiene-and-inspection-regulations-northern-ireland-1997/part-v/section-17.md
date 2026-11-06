@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Conditions on the admission of dead or slaughtered animals[^key-a1bdd2ea0fccdab562cc6ff2d5439170]
+## 17. Conditions on the admission of dead or slaughtered animals[^c-a1bdd2ea0fccdab562cc6ff2d5439170]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1bdd2ea0fccdab562cc6ff2d5439170]: Commencement: Reg. 17 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-a1bdd2ea0fccdab562cc6ff2d5439170]: Commencement: Reg. 17 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

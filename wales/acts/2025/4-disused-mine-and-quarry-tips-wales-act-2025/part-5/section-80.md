@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. General provision about giving notices etc.[^key-933e0d0c8bf4f9066adc4ecea856bd21]
+## 80. General provision about giving notices etc.[^c-933e0d0c8bf4f9066adc4ecea856bd21]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-933e0d0c8bf4f9066adc4ecea856bd21]: Commencement: S. 80 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-933e0d0c8bf4f9066adc4ecea856bd21]: Commencement: S. 80 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49B. Discretionary social housing relief: notification requirements[^key-922a38decade09d0458896395e643b37]
+## 49B. Discretionary social housing relief: notification requirements[^c-922a38decade09d0458896395e643b37]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-922a38decade09d0458896395e643b37]: Textual amendment: [Regs. 49A-49C](https://www.legislation.gov.uk/uksi/2010/948/regulation/49A) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/5)
+[^c-922a38decade09d0458896395e643b37]: Textual amendment: [Regs. 49A-49C](https://www.legislation.gov.uk/uksi/2010/948/regulation/49A) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/5)

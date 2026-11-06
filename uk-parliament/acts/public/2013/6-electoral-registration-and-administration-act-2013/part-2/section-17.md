@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Review of polling districts and places in Great Britain[^key-1dc53373ccb478ea68493e53c5eff4bd]
+## 17. Review of polling districts and places in Great Britain[^c-1dc53373ccb478ea68493e53c5eff4bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In section 18C of the Representation of the People Act 1983 (review of polling d
 
 ## Annotations
 
-[^key-1dc53373ccb478ea68493e53c5eff4bd]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2013/6/section/17) in force at 2.4.2013 by [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/702/article/3/c)
+[^c-1dc53373ccb478ea68493e53c5eff4bd]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2013/6/section/17) in force at 2.4.2013 by [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/702/article/3/c)

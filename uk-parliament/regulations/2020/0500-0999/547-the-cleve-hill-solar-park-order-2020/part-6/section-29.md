@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Deemed marine licence under the 2009 Act[^key-ac08a3112369e84595047b04f8047dbf]
+## 29. Deemed marine licence under the 2009 Act[^c-ac08a3112369e84595047b04f8047dbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The deemed marine licence set out in Schedule 8 (deemed marine licence under the
 
 ## Annotations
 
-[^key-ac08a3112369e84595047b04f8047dbf]: Commencement: Art. 29 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-ac08a3112369e84595047b04f8047dbf]: Commencement: Art. 29 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

@@ -32,7 +32,7 @@ summary: ''
 - (f) any such sum as is referred to in section 18(2) of the Social Security (Miscellaneous Provisions) Act 1977 [^c2180974] (certain sums to be earnings for social security purposes);
 - (g)[^M_F_c4f90b2b-3225-4c4d-eaf9-c72ccac91280] any statutory sick pay under Part I of the Social Security and Housing Benefits Act 1982 [^c2180975] ;
 - (h) any statutory sick pay under Part II of the Social Security (Northern Ireland) Order 1982.
-- (i)[^key-462e994a86c2fd186e156754b93bb138] the amount of any payment by way of a non-cash voucher which has been taken into account in the computation of a person’s earnings in accordance with regulation 18(22) to (25) of the Social Security (Contributions) Regulations 1979.
+- (i)[^c-462e994a86c2fd186e156754b93bb138] the amount of any payment by way of a non-cash voucher which has been taken into account in the computation of a person’s earnings in accordance with regulation 18(22) to (25) of the Social Security (Contributions) Regulations 1979.
 
 (2) Earnings shall not include—
 
@@ -40,18 +40,18 @@ summary: ''
 - (b) any payment in respect of expenses wholly, exclusively and necessarily incurred in the performance of the duties of the employment;
 - (c) any occupational pension.
 - (d)[^M_F_0be301dd-f37e-4173-afec-94a33de325f7] any statutory maternity pay or a corresponding benefit under any enactment having effect in Northern Ireland.
-- (e)[^key-8d9e8d7beeabbe12d45dcaffaa7a54df] any statutory paternity pay or a corresponding benefit under any enactment having effect in Northern Ireland.
+- (e)[^c-8d9e8d7beeabbe12d45dcaffaa7a54df] any statutory paternity pay or a corresponding benefit under any enactment having effect in Northern Ireland.
 
 (3) Where living accommodation is provided for a claimant by reason of his employment, the claimant shall be treated as being in receipt of weekly earnings of an amount equal to—
 
 - (a) where no charge is made in respect of the provision of that accommodation, £12;
 - (b) where a charge is made and that weekly charge is less than £12, the amount of the difference,
 
-except that where the claimant satisfies the appropriate officer[^key-6a0cde2f57d27ea4e5090447402ee6ff] that the weekly value to him of the provision of that accommodation is an amount less than the amount in sub-paragraph (a) or (b), as the case may be, he shall be treated as being in receipt of that lesser value.
+except that where the claimant satisfies the appropriate officer[^c-6a0cde2f57d27ea4e5090447402ee6ff] that the weekly value to him of the provision of that accommodation is an amount less than the amount in sub-paragraph (a) or (b), as the case may be, he shall be treated as being in receipt of that lesser value.
 
 (4)[^M_F_8fd4d141-dc52-4cbf-ab8c-05a76a91aa2d] Paragraph (2)(a) shall not apply in respect of any non-cash voucher referred to in paragraph (1)(i).
 
-(5)[^key-1f8153786f41a9a4be82e68c33393194] An employed earner shall not be treated as being in receipt of earnings in any assessment period as long as she is entitled to maternity allowance at the date of the claim.
+(5)[^c-1f8153786f41a9a4be82e68c33393194] An employed earner shall not be treated as being in receipt of earnings in any assessment period as long as she is entitled to maternity allowance at the date of the claim.
 
 (6) An employed earner shall not be treated as being in receipt of earnings in any assessment period as long as she is entitled to statutory maternity pay at the date of the claim and is neither receiving nor expecting to receive at that date extra statutory maternity pay from her employer.
 
@@ -65,16 +65,16 @@ except that where the claimant satisfies the appropriate officer[^key-6a0cde2f57
 
 [^c2180975]: Marginal citation: [1982 c. 24](https://www.legislation.gov.uk/ukpga/1982/24).
 
-[^key-462e994a86c2fd186e156754b93bb138]: Textual amendment: Reg. 19(1)(i) added (1.7.1999) by [The Social Security Amendment (Non-Cash Vouchers) Regulations 1999 (S.I. 1999/1509)](https://www.legislation.gov.uk/uksi/1999/1509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/1509/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/1999/1509/regulation/2/3/a)
+[^c-462e994a86c2fd186e156754b93bb138]: Textual amendment: Reg. 19(1)(i) added (1.7.1999) by [The Social Security Amendment (Non-Cash Vouchers) Regulations 1999 (S.I. 1999/1509)](https://www.legislation.gov.uk/uksi/1999/1509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/1509/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/1999/1509/regulation/2/3/a)
 
 [^M_F_5e35184e-fdbb-4647-aac8-1ac14590f672]: Textual amendment: Words in reg. 19(2)(a) substituted (1.7.1999) by [The Social Security Amendment (Non-Cash Vouchers) Regulations 1999 (S.I. 1999/1509)](https://www.legislation.gov.uk/uksi/1999/1509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/1509/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/1999/1509/regulation/2/3/b)
 
 [^M_F_0be301dd-f37e-4173-afec-94a33de325f7]: Textual amendment: Reg. 19(2)(d) added (13.4.1993) by The Income-related [Benefits Schemes (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/315)](https://www.legislation.gov.uk/uksi/1993/315), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/1993/315/regulation/1/1/d), [12](https://www.legislation.gov.uk/uksi/1993/315/regulation/12)
 
-[^key-8d9e8d7beeabbe12d45dcaffaa7a54df]: Textual amendment: [Reg. 19(2)(e)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/19/2/e) added (with effect in accordance with reg. 1(2) of the amending S.I.) by [Tax Credits (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/44)](https://www.legislation.gov.uk/uksi/2003/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/44/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2003/44/regulation/10/2)
+[^c-8d9e8d7beeabbe12d45dcaffaa7a54df]: Textual amendment: [Reg. 19(2)(e)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/19/2/e) added (with effect in accordance with reg. 1(2) of the amending S.I.) by [Tax Credits (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/44)](https://www.legislation.gov.uk/uksi/2003/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/44/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2003/44/regulation/10/2)
 
-[^key-6a0cde2f57d27ea4e5090447402ee6ff]: Textual amendment: Words in reg. 19(3) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(5)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/5), [(6)(a)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/6/a)
+[^c-6a0cde2f57d27ea4e5090447402ee6ff]: Textual amendment: Words in reg. 19(3) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(5)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/5), [(6)(a)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/6/a)
 
 [^M_F_8fd4d141-dc52-4cbf-ab8c-05a76a91aa2d]: Textual amendment: Reg. 19(4) added (1.7.1999) by [The Social Security Amendment (Non-Cash Vouchers) Regulations 1999 (S.I. 1999/1509)](https://www.legislation.gov.uk/uksi/1999/1509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/1509/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/1999/1509/regulation/2/3/c)
 
-[^key-1f8153786f41a9a4be82e68c33393194]: Textual amendment: Reg. 19(5)(6) added (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/14/2)
+[^c-1f8153786f41a9a4be82e68c33393194]: Textual amendment: Reg. 19(5)(6) added (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/14/2)

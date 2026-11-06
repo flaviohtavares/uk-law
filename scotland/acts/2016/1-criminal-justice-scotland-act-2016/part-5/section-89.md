@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Extending certain time limits: summary[^key-5815a79194c00b9408b30977ec62986f]
+## 89. Extending certain time limits: summary[^c-5815a79194c00b9408b30977ec62986f]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5815a79194c00b9408b30977ec62986f]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2016/1/section/89) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-5815a79194c00b9408b30977ec62986f]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2016/1/section/89) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

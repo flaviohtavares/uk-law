@@ -28,11 +28,11 @@ Section 30.
 
 ### Bankruptcy (Scotland) Act 1985 (c.66)
 
-**2.**[^key-22682fd9e1562bc53042792ff8cc100d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-22682fd9e1562bc53042792ff8cc100d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Insolvency Act 1986 (c.45)
 
-**3.**[^key-22682fd9e1562bc53042792ff8cc100d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-22682fd9e1562bc53042792ff8cc100d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Income and Corporation Taxes Act 1988 (c.1)
 
@@ -49,7 +49,7 @@ Section 30.
 
 ### Insolvency (Northern Ireland) Order 1989 (N.I. 19)
 
-**5.**[^key-f97e143c5db3777edee4ebea48b1db5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f97e143c5db3777edee4ebea48b1db5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Finance Act 1996 (c.8)
 
@@ -73,6 +73,6 @@ Section 30.
 
 ## Annotations
 
-[^key-22682fd9e1562bc53042792ff8cc100d]: Textual amendment: Sch. 7 paras. 2, 3 repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
+[^c-22682fd9e1562bc53042792ff8cc100d]: Textual amendment: Sch. 7 paras. 2, 3 repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
 
-[^key-f97e143c5db3777edee4ebea48b1db5c]: Textual amendment: Sch. 7 para. 5 repealed (N.I.) (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), arts. 2-7)
+[^c-f97e143c5db3777edee4ebea48b1db5c]: Textual amendment: Sch. 7 para. 5 repealed (N.I.) (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), arts. 2-7)

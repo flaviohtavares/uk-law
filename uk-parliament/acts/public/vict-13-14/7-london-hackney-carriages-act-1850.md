@@ -37,7 +37,7 @@ London Hackney Carriages Act 1850
 
 ## 2. Duties of abolished office transferred to Commissioners of Police.
 
-[^key-19fb6a017e59ae96f39c5a1ca5701f43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19fb6a017e59ae96f39c5a1ca5701f43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c560778]
 
@@ -73,7 +73,7 @@ This Act shall be construed as one Act with the London Hackney Carriages Act, 18
 
 [^c560776]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/Vict/13-14/7/section/1), [9](https://www.legislation.gov.uk/ukpga/Vict/13-14/7/section/9), [10](https://www.legislation.gov.uk/ukpga/Vict/13-14/7/section/10) repealed by [Statute Law Revision Act 1875 (c. 66)](https://www.legislation.gov.uk/ukpga/1875/66)
 
-[^key-19fb6a017e59ae96f39c5a1ca5701f43]: Textual amendment: S. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-19fb6a017e59ae96f39c5a1ca5701f43]: Textual amendment: S. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c560778]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/Vict/13-14/7/section/3) repealed by [Statute Law Revision Act 1891 (c. 67)](https://www.legislation.gov.uk/ukpga/1891/67)
 

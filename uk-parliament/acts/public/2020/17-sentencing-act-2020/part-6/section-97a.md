@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Duty of offender to notify details to panel[^key-44d97d0005b29a8e1cc86604ff39977a]
+## 97A. Duty of offender to notify details to panel[^c-44d97d0005b29a8e1cc86604ff39977a]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44d97d0005b29a8e1cc86604ff39977a]: Textual amendment: S. 97A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 192(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/192/2), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
+[^c-44d97d0005b29a8e1cc86604ff39977a]: Textual amendment: S. 97A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 192(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/192/2), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)

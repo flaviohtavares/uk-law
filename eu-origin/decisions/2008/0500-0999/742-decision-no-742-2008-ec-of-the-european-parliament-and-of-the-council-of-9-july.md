@@ -35,82 +35,82 @@ on the Community’s participation in a research and development programme under
 
 (Text with EEA relevance) (revoked)
 
-[^key-5044d65fecd57755ab0a5d602de2a926]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5044d65fecd57755ab0a5d602de2a926]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.**[^key-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.**[^key-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.**[^c-5044d65fecd57755ab0a5d602de2a926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5044d65fecd57755ab0a5d602de2a926]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5044d65fecd57755ab0a5d602de2a926]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — DESCRIPTION OF THE OBJECTIVES, THE ACTIVITIES AND THE IMPLEMENTATION OF THE AAL JOINT PROGRAMME[^key-5044d65fecd57755ab0a5d602de2a926]
+## ANNEX I — DESCRIPTION OF THE OBJECTIVES, THE ACTIVITIES AND THE IMPLEMENTATION OF THE AAL JOINT PROGRAMME[^c-5044d65fecd57755ab0a5d602de2a926]
 
-[^key-5044d65fecd57755ab0a5d602de2a926]I.
+[^c-5044d65fecd57755ab0a5d602de2a926]I.
 
 Specific aims
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5044d65fecd57755ab0a5d602de2a926]II.
+[^c-5044d65fecd57755ab0a5d602de2a926]II.
 
 Activities
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5044d65fecd57755ab0a5d602de2a926]III.
+[^c-5044d65fecd57755ab0a5d602de2a926]III.
 
 Programme implementation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5044d65fecd57755ab0a5d602de2a926]Annual work programme and calls for proposals
+[^c-5044d65fecd57755ab0a5d602de2a926]Annual work programme and calls for proposals
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5044d65fecd57755ab0a5d602de2a926]Ensuring scientific, management and financial integration
+[^c-5044d65fecd57755ab0a5d602de2a926]Ensuring scientific, management and financial integration
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5044d65fecd57755ab0a5d602de2a926]IV.
+[^c-5044d65fecd57755ab0a5d602de2a926]IV.
 
 Funding principles
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5044d65fecd57755ab0a5d602de2a926]V.
+[^c-5044d65fecd57755ab0a5d602de2a926]V.
 
 Deliverables expected from the implementation of the AAL Joint Programme
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — GUIDELINES FOR THE GOVERNANCE OF THE AAL JOINT PROGRAMME[^key-5044d65fecd57755ab0a5d602de2a926]
+## ANNEX II — GUIDELINES FOR THE GOVERNANCE OF THE AAL JOINT PROGRAMME[^c-5044d65fecd57755ab0a5d602de2a926]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5044d65fecd57755ab0a5d602de2a926]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/2) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5044d65fecd57755ab0a5d602de2a926]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/2) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

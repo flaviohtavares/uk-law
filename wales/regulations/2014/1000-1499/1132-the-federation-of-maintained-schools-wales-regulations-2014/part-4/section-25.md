@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. General principles[^key-8fcabf0d9ad4218541df31217175227d]
+## 25. General principles[^c-8fcabf0d9ad4218541df31217175227d]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fcabf0d9ad4218541df31217175227d]: Commencement: Reg. 25 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-8fcabf0d9ad4218541df31217175227d]: Commencement: Reg. 25 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

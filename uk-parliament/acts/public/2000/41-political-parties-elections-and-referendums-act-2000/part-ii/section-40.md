@@ -36,7 +36,7 @@ summary: ''
 - (a) by one or more candidates standing for election in the party’s name at the election, or
 - (b) by the party itself standing nominated at the election.
 
-(3)[^key-af78aefca2fdde8ed792cecbfb035fe4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-af78aefca2fdde8ed792cecbfb035fe4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c10573711]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-af78aefca2fdde8ed792cecbfb035fe4]: Textual amendment: S. 40(3) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-af78aefca2fdde8ed792cecbfb035fe4]: Textual amendment: S. 40(3) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

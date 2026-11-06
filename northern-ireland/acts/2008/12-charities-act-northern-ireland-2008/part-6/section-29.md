@@ -50,8 +50,8 @@ The “**relevant charity**” means the charity by or on behalf of which the pr
 
 as the scheme may provide.
 
-(7)[^key-38f55ac5af89c87abdc6c917f1720286] In this section references to the original purposes of a gift are to be read, where the application of the property given has been altered or regulated by a scheme or otherwise, as referring to the purposes for which the property is for the time being applicable.
+(7)[^c-38f55ac5af89c87abdc6c917f1720286] In this section references to the original purposes of a gift are to be read, where the application of the property given has been altered or regulated by a scheme or otherwise, as referring to the purposes for which the property is for the time being applicable.
 
 ## Annotations
 
-[^key-38f55ac5af89c87abdc6c917f1720286]: Textual amendment: [S. 29(7)](https://www.legislation.gov.uk/nia/2008/12/section/29/7) added (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/8)
+[^c-38f55ac5af89c87abdc6c917f1720286]: Textual amendment: [S. 29(7)](https://www.legislation.gov.uk/nia/2008/12/section/29/7) added (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/8)

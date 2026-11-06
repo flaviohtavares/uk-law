@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 128. Payment of survivor benefits for post-benefit service[^key-4466a45bfb7b939067b767de04ff0d06]
+## 128. Payment of survivor benefits for post-benefit service[^c-4466a45bfb7b939067b767de04ff0d06]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ For the purpose of calculating survivor benefits in respect of a member’s peri
 
 ## Annotations
 
-[^key-4466a45bfb7b939067b767de04ff0d06]: Commencement: [Reg. 128](https://www.legislation.gov.uk/ssi/2014/292/regulation/128) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-4466a45bfb7b939067b767de04ff0d06]: Commencement: [Reg. 128](https://www.legislation.gov.uk/ssi/2014/292/regulation/128) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

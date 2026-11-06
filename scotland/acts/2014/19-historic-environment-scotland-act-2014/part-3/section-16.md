@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Historic Environment Scotland's functions in relation to listed buildings[^key-2a862779d11976b674078e9b8be32a66][^key-933a37128bc5c32e1f0cfc4631a4abfa][^key-a1ca853c35862d690bb327d22821a7eb]
+## 16. Historic Environment Scotland's functions in relation to listed buildings[^c-2a862779d11976b674078e9b8be32a66][^c-933a37128bc5c32e1f0cfc4631a4abfa][^c-a1ca853c35862d690bb327d22821a7eb]
 
 *Extent: S*
 
@@ -30,8 +30,8 @@ Schedule 3 makes provision for Historic Environment Scotland's functions in rela
 
 ## Annotations
 
-[^key-2a862779d11976b674078e9b8be32a66]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/19/section/16) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-2a862779d11976b674078e9b8be32a66]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/19/section/16) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-933a37128bc5c32e1f0cfc4631a4abfa]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/19/section/16) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-933a37128bc5c32e1f0cfc4631a4abfa]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/19/section/16) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-a1ca853c35862d690bb327d22821a7eb]: Modification: [S. 16](https://www.legislation.gov.uk/asp/2014/19/section/16) savings for effects of commencing S.S.I. 2015/196 (1.10.2015) by [The Historic Environment Scotland Act 2014 (Saving, Transitional and Consequential Provisions) Order 2015 (S.S.I. 2015/239)](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [13(1)](https://www.legislation.gov.uk/ssi/2015/239/article/13/1)
+[^c-a1ca853c35862d690bb327d22821a7eb]: Modification: [S. 16](https://www.legislation.gov.uk/asp/2014/19/section/16) savings for effects of commencing S.S.I. 2015/196 (1.10.2015) by [The Historic Environment Scotland Act 2014 (Saving, Transitional and Consequential Provisions) Order 2015 (S.S.I. 2015/239)](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [13(1)](https://www.legislation.gov.uk/ssi/2015/239/article/13/1)

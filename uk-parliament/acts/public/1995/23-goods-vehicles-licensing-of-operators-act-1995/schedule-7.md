@@ -30,13 +30,13 @@ Section 60(1).
 
 .
 
-**2.**[^key-9ef05cce202cb3bec8271e3a73f8908a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9ef05cce202cb3bec8271e3a73f8908a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Transport Act 1968 (c. 73)
 
 **3.** In section 51 of the Transport Act 1968 (subsidiaries and joint subsidiaries), in subsection (5), for the words “Parts V and VI” there shall be substituted the words “ Part VI ”.
 
-**4.**[^key-5c22224a14b71ed84b05aa136d5304a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5c22224a14b71ed84b05aa136d5304a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Road Traffic (Foreign Vehicles) Act 1972 (c. 27)
 
@@ -91,16 +91,16 @@ Section 60(1).
 
 (3) In subsection (4) of that section, for the words from “and section 72” to “Transport Act 1968” there shall be substituted the words “ ”operator’s licence” has the same meaning as in the Goods Vehicles (Licensing of Operators) Act 1995 ”.
 
-**13.**[^key-cf01a2367aa71f9efd6e4ed830fac411] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-cf01a2367aa71f9efd6e4ed830fac411] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-3ca5d560e75e58a8433cfb6358d1d9c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-3ca5d560e75e58a8433cfb6358d1d9c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9ef05cce202cb3bec8271e3a73f8908a]: Textual amendment: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/1995/23/schedule/7/paragraph/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-9ef05cce202cb3bec8271e3a73f8908a]: Textual amendment: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/1995/23/schedule/7/paragraph/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
-[^key-5c22224a14b71ed84b05aa136d5304a0]: Textual amendment: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/1995/23/schedule/7/paragraph/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-5c22224a14b71ed84b05aa136d5304a0]: Textual amendment: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/1995/23/schedule/7/paragraph/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
-[^key-cf01a2367aa71f9efd6e4ed830fac411]: Textual amendment: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/1995/23/schedule/7/paragraph/13) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-cf01a2367aa71f9efd6e4ed830fac411]: Textual amendment: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/1995/23/schedule/7/paragraph/13) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
-[^key-3ca5d560e75e58a8433cfb6358d1d9c4]: Textual amendment: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/1995/23/schedule/7/paragraph/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-3ca5d560e75e58a8433cfb6358d1d9c4]: Textual amendment: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/1995/23/schedule/7/paragraph/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

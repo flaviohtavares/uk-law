@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Power to create additional quotas for qualifying audiovisual content[^key-29a4c69fcc189e03d7187a91d8be66a0][^key-569365e357f562397f9b312b9431adc7]
+## 10. Power to create additional quotas for qualifying audiovisual content[^c-29a4c69fcc189e03d7187a91d8be66a0][^c-569365e357f562397f9b312b9431adc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ After section 278 of the Communications Act 2003 insert—
 
 ## Annotations
 
-[^key-29a4c69fcc189e03d7187a91d8be66a0]: Commencement: S. 10 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-29a4c69fcc189e03d7187a91d8be66a0]: Commencement: S. 10 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-569365e357f562397f9b312b9431adc7]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2024/15/section/10) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/j)
+[^c-569365e357f562397f9b312b9431adc7]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2024/15/section/10) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/j)

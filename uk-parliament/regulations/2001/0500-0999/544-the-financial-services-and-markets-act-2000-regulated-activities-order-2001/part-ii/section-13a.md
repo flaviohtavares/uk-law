@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Transformer vehicles: insurance risk transformation[^key-0341586b29450aae219fd9385edc73e3]
+## 13A. Transformer vehicles: insurance risk transformation[^c-0341586b29450aae219fd9385edc73e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ It is a specified kind of activity for a transformer vehicle to assume a risk fr
 
 ## Annotations
 
-[^key-0341586b29450aae219fd9385edc73e3]: Textual amendment: [Pt. II Ch. 3A](https://www.legislation.gov.uk/uksi/2001/544/part/II/chapter/3A) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/5/3)
+[^c-0341586b29450aae219fd9385edc73e3]: Textual amendment: [Pt. II Ch. 3A](https://www.legislation.gov.uk/uksi/2001/544/part/II/chapter/3A) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/5/3)

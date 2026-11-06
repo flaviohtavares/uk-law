@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Duty under section 4: supplementary[^c24415751][^key-af86c32f79198b2837f7e73493a524b0]
+## 5. Duty under section 4: supplementary[^c24415751][^c-af86c32f79198b2837f7e73493a524b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c24415751]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2020/26/section/5) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-af86c32f79198b2837f7e73493a524b0]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2020/26/section/5) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-af86c32f79198b2837f7e73493a524b0]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2020/26/section/5) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

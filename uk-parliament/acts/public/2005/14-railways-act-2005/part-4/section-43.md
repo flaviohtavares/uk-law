@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Procedure relating to publication and modification of closures guidance[^key-866b891ffb44cabdca5c100b5d7c91c4]
+## 43. Procedure relating to publication and modification of closures guidance[^c-866b891ffb44cabdca5c100b5d7c91c4]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The Scottish Ministers must lay before the Scottish Parliament a copy of any guidance or revised guidance, or modifications of guidance, which they publish or make (whether or not jointly with any other person) under that section.
 
-(2A)[^key-2b9352b296c6b55b0296b1dad0c2af54] The Welsh Ministers must lay before the National Assembly for Wales a copy of any guidance or revised guidance, or modifications of guidance, which they publish or make under section 42(1A).
+(2A)[^c-2b9352b296c6b55b0296b1dad0c2af54] The Welsh Ministers must lay before the National Assembly for Wales a copy of any guidance or revised guidance, or modifications of guidance, which they publish or make under section 42(1A).
 
 (3) Any guidance or revised guidance published under section 42 is to have effect, and any modifications of guidance made under that section are to have effect, in accordance with an order made—
 
@@ -32,11 +32,11 @@ summary: ''
 - (b) if subsection (2) applies in relation to the guidance or modifications, by the Scottish Ministers; and
 - (c) if both subsections (1) and (2) apply in relation to the guidance or modifications, jointly by the Secretary of State and the Scottish Ministers.
 
-(3A)[^key-7370d7c358bc19165a830bd78c153555] Guidance published by the Welsh Ministers under section 42(1A) (and any modifications of that guidance or any revised version of that guidance published by the Welsh Ministers under section 42(6)) are to have effect in accordance with an order made by the Welsh Ministers.
+(3A)[^c-7370d7c358bc19165a830bd78c153555] Guidance published by the Welsh Ministers under section 42(1A) (and any modifications of that guidance or any revised version of that guidance published by the Welsh Ministers under section 42(6)) are to have effect in accordance with an order made by the Welsh Ministers.
 
-(4) An order under subsection (3) which relates to guidance or revised guidance published, or modifications of guidance made, by the Welsh Ministers[^key-adee335b0b56571b5e7f756e3854eff3] jointly with the Secretary of State or the Scottish Ministers, or both of them, may be made only with the consent of the Welsh Ministers .
+(4) An order under subsection (3) which relates to guidance or revised guidance published, or modifications of guidance made, by the Welsh Ministers[^c-adee335b0b56571b5e7f756e3854eff3] jointly with the Secretary of State or the Scottish Ministers, or both of them, may be made only with the consent of the Welsh Ministers .
 
-(5) An order under subsection (3) or (3A)[^key-3e31a874893b356df91587c8dabe41d1] is subject to the negative resolution procedure.
+(5) An order under subsection (3) or (3A)[^c-3e31a874893b356df91587c8dabe41d1] is subject to the negative resolution procedure.
 
 (6) If a statutory instrument containing an order under subsection (3) or (3A) is annulled—
 
@@ -50,12 +50,12 @@ summary: ''
 
 ## Annotations
 
-[^key-866b891ffb44cabdca5c100b5d7c91c4]: Commencement: S. 43 in force at 1.8.2006 by [S.I. 2006/1951](https://www.legislation.gov.uk/uksi/2006/1951), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1951/article/2/2/b)
+[^c-866b891ffb44cabdca5c100b5d7c91c4]: Commencement: S. 43 in force at 1.8.2006 by [S.I. 2006/1951](https://www.legislation.gov.uk/uksi/2006/1951), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1951/article/2/2/b)
 
-[^key-2b9352b296c6b55b0296b1dad0c2af54]: Textual amendment: S. 43(2A) inserted (13.6.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(2)(b)(xiv)](https://www.legislation.gov.uk/uksi/2018/631/article/1/2/b/xiv), [Sch. para. 56(2)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/56/2)
+[^c-2b9352b296c6b55b0296b1dad0c2af54]: Textual amendment: S. 43(2A) inserted (13.6.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(2)(b)(xiv)](https://www.legislation.gov.uk/uksi/2018/631/article/1/2/b/xiv), [Sch. para. 56(2)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/56/2)
 
-[^key-7370d7c358bc19165a830bd78c153555]: Textual amendment: S. 43(3A) inserted (13.6.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(2)(b)(xiv)](https://www.legislation.gov.uk/uksi/2018/631/article/1/2/b/xiv), [Sch. para. 56(3)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/56/3)
+[^c-7370d7c358bc19165a830bd78c153555]: Textual amendment: S. 43(3A) inserted (13.6.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(2)(b)(xiv)](https://www.legislation.gov.uk/uksi/2018/631/article/1/2/b/xiv), [Sch. para. 56(3)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/56/3)
 
-[^key-adee335b0b56571b5e7f756e3854eff3]: Textual amendment: Words in s. 43(4) substituted (13.6.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(2)(b)(xiv)](https://www.legislation.gov.uk/uksi/2018/631/article/1/2/b/xiv), [Sch. para. 56(4)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/56/4)
+[^c-adee335b0b56571b5e7f756e3854eff3]: Textual amendment: Words in s. 43(4) substituted (13.6.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(2)(b)(xiv)](https://www.legislation.gov.uk/uksi/2018/631/article/1/2/b/xiv), [Sch. para. 56(4)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/56/4)
 
-[^key-3e31a874893b356df91587c8dabe41d1]: Textual amendment: Words in s. 43(5)(6) inserted (13.6.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(2)(b)(xiv)](https://www.legislation.gov.uk/uksi/2018/631/article/1/2/b/xiv), [Sch. para. 56(5)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/56/5)
+[^c-3e31a874893b356df91587c8dabe41d1]: Textual amendment: Words in s. 43(5)(6) inserted (13.6.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(2)(b)(xiv)](https://www.legislation.gov.uk/uksi/2018/631/article/1/2/b/xiv), [Sch. para. 56(5)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/56/5)

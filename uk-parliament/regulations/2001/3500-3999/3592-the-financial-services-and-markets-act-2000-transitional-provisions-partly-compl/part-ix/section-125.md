@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Interpretation[^key-07c0666ebacba3d6e5b59037e0e28ffe]
+## 125. Interpretation[^c-07c0666ebacba3d6e5b59037e0e28ffe]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-07c0666ebacba3d6e5b59037e0e28ffe]: Commencement: Art. 125 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-07c0666ebacba3d6e5b59037e0e28ffe]: Commencement: Art. 125 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

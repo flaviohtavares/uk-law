@@ -39,15 +39,15 @@ The Secretary of State for Children, Schools and Families makes the following Or
 
 In making this Order the Secretary of State has followed the procedure specified in the Religious Character of Schools (Designation Procedure) (Independent Schools) (England) Regulations 2003[^f00003].
 
-## 1. Citation[^key-ae5939e0595b7c1971e6914798acb539]
+## 1. Citation[^c-ae5939e0595b7c1971e6914798acb539]
 
 This Order may be cited as the Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2010.
 
-## 2. Interpretation[^key-e8c99824cc51815bb7a2ea3d9879a559]
+## 2. Interpretation[^c-e8c99824cc51815bb7a2ea3d9879a559]
 
 In this Order “the relevant religion or religious denomination” means the religion or religious denomination in accordance with whose tenets education is provided at the school or the school is conducted.
 
-## 3. Designation of schools[^key-c91e2b6074e8da317bcecca337abd24f]
+## 3. Designation of schools[^c-c91e2b6074e8da317bcecca337abd24f]
 
 (1) The schools listed in column (1) of the Schedule are designated as schools having a religious character.
 
@@ -61,7 +61,7 @@ Department for Children, Schools and Families
 
 31st March 2010
 
-## SCHEDULE — Schools having a religious character[^key-f06ac4e2802213738d17fe0f9397fdbc]
+## SCHEDULE — Schools having a religious character[^c-f06ac4e2802213738d17fe0f9397fdbc]
 
 Article 3
 
@@ -69,15 +69,15 @@ Article 3
 | --- | --- |
 | **Calderdale** |  |
 | Trinity Academy, HX2 9TD | Church of England |
-| [^key-b264ff3754c110e1fc39fd41adfc10b2]. . . | [^key-b264ff3754c110e1fc39fd41adfc10b2]. . . |
-| [^key-474fdca73a8598872458c945ac79d543]. . . | [^key-474fdca73a8598872458c945ac79d543]. . . |
-| [^key-33b17327e73028a79ad7997cce896b4e]. . . | [^key-33b17327e73028a79ad7997cce896b4e]. . . |
+| [^c-b264ff3754c110e1fc39fd41adfc10b2]. . . | [^c-b264ff3754c110e1fc39fd41adfc10b2]. . . |
+| [^c-474fdca73a8598872458c945ac79d543]. . . | [^c-474fdca73a8598872458c945ac79d543]. . . |
+| [^c-33b17327e73028a79ad7997cce896b4e]. . . | [^c-33b17327e73028a79ad7997cce896b4e]. . . |
 | **Peterborough** |  |
 | Iqra Academy, PC3 8YQ | Islam |
-| [^key-eebf1b818bd27923a74397025f691a35]. . . | [^key-eebf1b818bd27923a74397025f691a35]. . . |
+| [^c-eebf1b818bd27923a74397025f691a35]. . . | [^c-eebf1b818bd27923a74397025f691a35]. . . |
 | **Somerset** |  |
 | The Taunton Academy, TA2 7QP | Church of England |
-| [^key-33b17327e73028a79ad7997cce896b4e]. . . | [^key-33b17327e73028a79ad7997cce896b4e]. . . |
+| [^c-33b17327e73028a79ad7997cce896b4e]. . . | [^c-33b17327e73028a79ad7997cce896b4e]. . . |
 |  |  |
 
 EXPLANATORY NOTE
@@ -98,18 +98,18 @@ Designation by this Order is not of itself a means of acquiring a religious char
 
 [^f00003]: Footnote: [S.I. 2003/2314](https://www.legislation.gov.uk/uksi/2003/2314), as amended by [S.I. 2004/2262](https://www.legislation.gov.uk/uksi/2004/2262).
 
-[^key-ae5939e0595b7c1971e6914798acb539]: Commencement: Art. 1 in force at made date
+[^c-ae5939e0595b7c1971e6914798acb539]: Commencement: Art. 1 in force at made date
 
-[^key-e8c99824cc51815bb7a2ea3d9879a559]: Commencement: Art. 2 in force at made date
+[^c-e8c99824cc51815bb7a2ea3d9879a559]: Commencement: Art. 2 in force at made date
 
-[^key-c91e2b6074e8da317bcecca337abd24f]: Commencement: Art. 3 in force at made date
+[^c-c91e2b6074e8da317bcecca337abd24f]: Commencement: Art. 3 in force at made date
 
-[^key-f06ac4e2802213738d17fe0f9397fdbc]: Commencement: Sch. in force at made date
+[^c-f06ac4e2802213738d17fe0f9397fdbc]: Commencement: Sch. in force at made date
 
-[^key-b264ff3754c110e1fc39fd41adfc10b2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/1174/schedule) revoked (31.8.2019) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2019 (S.I. 2019/1201)](https://www.legislation.gov.uk/uksi/2019/1201), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1201/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2019/1201/article/3/b)
+[^c-b264ff3754c110e1fc39fd41adfc10b2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/1174/schedule) revoked (31.8.2019) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2019 (S.I. 2019/1201)](https://www.legislation.gov.uk/uksi/2019/1201), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1201/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2019/1201/article/3/b)
 
-[^key-474fdca73a8598872458c945ac79d543]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/1174/schedule) revoked (23.4.2015) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (Revocation) Order 2015 (S.I. 2015/1267)](https://www.legislation.gov.uk/uksi/2015/1267), [art. 2](https://www.legislation.gov.uk/uksi/2015/1267/article/2)
+[^c-474fdca73a8598872458c945ac79d543]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/1174/schedule) revoked (23.4.2015) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (Revocation) Order 2015 (S.I. 2015/1267)](https://www.legislation.gov.uk/uksi/2015/1267), [art. 2](https://www.legislation.gov.uk/uksi/2015/1267/article/2)
 
-[^key-33b17327e73028a79ad7997cce896b4e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/1174/schedule) revoked (29.8.2020) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2020 (S.I. 2020/919)](https://www.legislation.gov.uk/uksi/2020/919), [arts. 1](https://www.legislation.gov.uk/uksi/2020/919/article/1), [3(f)](https://www.legislation.gov.uk/uksi/2020/919/article/3/f)
+[^c-33b17327e73028a79ad7997cce896b4e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/1174/schedule) revoked (29.8.2020) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2020 (S.I. 2020/919)](https://www.legislation.gov.uk/uksi/2020/919), [arts. 1](https://www.legislation.gov.uk/uksi/2020/919/article/1), [3(f)](https://www.legislation.gov.uk/uksi/2020/919/article/3/f)
 
-[^key-eebf1b818bd27923a74397025f691a35]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/1174/schedule) revoked (1.6.2015) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (Revocation) (No. 2) Order 2015 (S.I. 2015/1344)](https://www.legislation.gov.uk/uksi/2015/1344), [art. 2](https://www.legislation.gov.uk/uksi/2015/1344/article/2)
+[^c-eebf1b818bd27923a74397025f691a35]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/1174/schedule) revoked (1.6.2015) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (Revocation) (No. 2) Order 2015 (S.I. 2015/1344)](https://www.legislation.gov.uk/uksi/2015/1344), [art. 2](https://www.legislation.gov.uk/uksi/2015/1344/article/2)

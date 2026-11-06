@@ -31,10 +31,10 @@ summary: ''
 
 of 26 June 1998 concerning the extension of the duration of the Agreement among the European Atomic Energy Community, the Government of Japan, the Government of the Russian Federation, and the Government of the United States of America on cooperation in the Engineering Design Activities (EDA) for the International Thermonuclear Experimental Reactor (ITER), by the Commission for and on behalf of the Community (notified under document number C(1998) 1381) (revoked)
 
-[^key-78223186b9be28f08f9215daacc98987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78223186b9be28f08f9215daacc98987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-78223186b9be28f08f9215daacc98987] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-78223186b9be28f08f9215daacc98987] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-78223186b9be28f08f9215daacc98987]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-78223186b9be28f08f9215daacc98987]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

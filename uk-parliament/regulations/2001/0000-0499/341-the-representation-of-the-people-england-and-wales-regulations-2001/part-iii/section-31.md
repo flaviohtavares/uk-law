@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Hearing of applications and objections[^key-10ca4c0b105c547269f76bb4d8f30702]
+## 31. Hearing of applications and objections[^c-10ca4c0b105c547269f76bb4d8f30702]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10ca4c0b105c547269f76bb4d8f30702]: Commencement: Reg. 31 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-10ca4c0b105c547269f76bb4d8f30702]: Commencement: Reg. 31 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)

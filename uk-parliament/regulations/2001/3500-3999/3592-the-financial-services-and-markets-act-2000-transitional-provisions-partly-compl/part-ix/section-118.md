@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Interpretation[^key-f8e68f9c879296a928df51fc6b7e7a21]
+## 118. Interpretation[^c-f8e68f9c879296a928df51fc6b7e7a21]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-f8e68f9c879296a928df51fc6b7e7a21]: Commencement: Art. 118 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-f8e68f9c879296a928df51fc6b7e7a21]: Commencement: Art. 118 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

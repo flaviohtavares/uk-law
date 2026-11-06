@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Amendment of marine plans[^key-9f4102fd4e3ebce5b3c5409e6cad82db]
+## 8. Amendment of marine plans[^c-9f4102fd4e3ebce5b3c5409e6cad82db]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f4102fd4e3ebce5b3c5409e6cad82db]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2010/5/section/8) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-9f4102fd4e3ebce5b3c5409e6cad82db]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2010/5/section/8) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)

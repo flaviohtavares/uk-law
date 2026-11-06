@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Prescribed amount of earnings[^key-441c16d22d27fa20afe42cc7fe7a1a1d]
+## 56. Prescribed amount of earnings[^c-441c16d22d27fa20afe42cc7fe7a1a1d]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ where—
 
 ## Annotations
 
-[^key-441c16d22d27fa20afe42cc7fe7a1a1d]: Commencement: Reg. 56 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-441c16d22d27fa20afe42cc7fe7a1a1d]: Commencement: Reg. 56 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

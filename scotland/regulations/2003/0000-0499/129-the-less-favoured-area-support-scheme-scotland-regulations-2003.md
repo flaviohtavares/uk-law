@@ -29,507 +29,507 @@ summary: ''
 
 AGRICULTURE
 
-The Less Favoured Area Support Scheme (Scotland) Regulations 2003 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-
-Made *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-
-3rd March 2003 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-
-Laid before the Scottish Parliament *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-
-4th March 2003 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-
-Coming into force *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-
-25th March 2003 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-
-The Scottish Ministers in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116811] and of all powers enabling them in that behalf, hereby make the following Regulations: *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-
-## 1. Citation, commencement and application (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
-
-(1) These Regulations may be cited as the Less Favoured Area Support Scheme (Scotland) Regulations 2003 and shall come into force on 25th March 2003. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-
-(2) These Regulations apply to holdings in respect of which the Scottish Ministers are the competent authority, in accordance with the Integrated Administration and Control System Regulations 1993 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116821].
-
-## 2. Interpretation (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
-
-(1) In these Regulations, unless the context otherwise requires– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-
-- “**agricultural *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” includes the use of land– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (a) for the purposes of horticulture, fruit growing, seed growing, dairy farming and livestock breeding and keeping; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (b) as grazing land, meadow land, osier land, market gardens and nursery grounds; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (c) for woodlands, where that use is ancillary to the use of land for other agricultural purposes; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**agri-environment scheme *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means an arrangement which is– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (a) regulated by statutory instrument providing for the payment of aid to persons who give an undertaking or enter into an agreement in relation to the use or management of land; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (b) approved by the Commission of the European Communities under either– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-    - (i) Article 44 of Council Regulation 1257/1999 as part of a rural development plan drawn up pursuant to Article 41 of that Regulation and containing measures pursuant to articles 22 to 24 of that Regulation; or *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-    - (ii) Article 7 of Council Regulation *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [(EEC) No. 2078/1992 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/1992/2078)[^key-a7af7b5988726385871b9a222fc1b23a] on agricultural production methods compatible with the requirements of the protection of the environment and the maintenance of the countryside *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116831];
-- “**alpaca *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means any alpaca of any breed which are kept by way of business for the primary purpose of fibre production; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**applicant *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means a person who has made an application for less favoured area support under these Regulations in accordance with regulation 3; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**area aid application *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” has the same meaning as in Article 6 of Council Regulation 3508/1992; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**authorised person *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means a person who is authorised by the Scottish Ministers, either generally or specifically, to act in relation to matters arising under these Regulations; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**cattle *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” for the purposes of Regulation 11 (enterprise mix), means– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (a) suckler cows and heifers; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (b) for those applicants maintaining a dairy herd in the islands of Shetland, the islands of Orkney, the islands of Islay, Jura, Arran, Bute, Great Cumbrae, Little Cumbrae and the Kintyre Peninsula south of Tarbert, or any other islands in the Outer Hebrides and the Inner Hebrides, a livestock unit for each 5730 litres of milk quota held, *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-
-  which the Scottish Ministers determine are to be taken into account from time to time; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**Commission Regulation 2419/2001 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means Commission Regulation *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [(EC) No. 2419/2001 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2001/2419)[^key-a7af7b5988726385871b9a222fc1b23a] laying down detailed rules for applying the integrated administration and control system for certain Community aid schemes *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116841];
-- “**Commission Regulation 445/2002 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means Commission Regulation *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [(EC) No. 445/2002 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2002/0445)[^key-a7af7b5988726385871b9a222fc1b23a] laying down detailed rules for the application of Council Regulation *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [(EC) No. 1257/1999 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/1999/1257)[^key-a7af7b5988726385871b9a222fc1b23a] on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116851];
-- “**common grazing *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” has the same meaning as it has for the purpose of Article 11 of Commission Regulation 445/2002; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**competent authority *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” has the same meaning as in regulation 2A of the Integrated Administration and Control System Regulations 1993 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116861];
-- “**Council Regulation 3508/1992 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means Council Regulation *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [(EEC) No. 3508/1992 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/1992/3508)[^key-a7af7b5988726385871b9a222fc1b23a] establishing an Integrated Administration and Control System for certain Community aid schemes *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116871];
-- “**Council Regulation 1254/1999 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means Council Regulation *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [(EC) No. 1254/1999 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/1999/1254)[^key-a7af7b5988726385871b9a222fc1b23a] on the common organisation of the market in beef and veal *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116881];
-- “**Council Regulation 1257/1999 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means Council Regulation *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [(EC) No. 1257/1999 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/1999/1257)[^key-a7af7b5988726385871b9a222fc1b23a] on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) and amending and repealing certain Regulations *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116891];
-- “**Council Regulation 2529/2001 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means Council Regulation *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [(EC) 2529/2001 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2001/2529)[^key-a7af7b5988726385871b9a222fc1b23a] on the common organisation of the market in sheep meat and goat meat *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116901];
-- “**cross-border holding *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means a holding in the United Kingdom which is situated partly in Scotland; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**designated maps *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means the four maps numbered 1 to 4, each such map being marked “Map of less-favoured farming areas in Scotland”, dated 5th May 1991, signed by the Secretary of State for Scotland and deposited at the offices of the Scottish Executive Environment and Rural Affairs Department, Pentland House, 47 Robb’s Loan, Edinburgh EH14 1TY; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**eligible agricultural activity *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means one or more of the following activities which, in the opinion of the Scottish Ministers are undertaken on a continuous basis:– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (a) maintaining a herd of suckler cows; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (b) maintaining a flock of sheep comprising eligible ewes as defined by Council Regulation 2529/2001; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (c) maintaining a dairy herd in– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-    - (i) the islands of Shetland; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-    - (ii) the islands of Orkney; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-    - (iii) the islands of Islay, Jura, Arran, Bute, Great Cumbrae, Little Cumbrae and the Kintyre Peninsula south of Tarbert; or *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-    - (iv) any other islands in the Outer Hebrides and the Inner Hebrides; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (d) maintaining a breeding herd of farmed deer for meat production; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (e) maintaining a breeding herd of goats for fibre production; or *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (f) maintaining a breeding herd of alpaca for fibre production; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**eligible land *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” has the same meaning as in regulation 6; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**eligible livestock unit *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means a livestock unit determined in accordance with regulation 9(9) and Part I of Schedule 1; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**farmed deer *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means any deer (of any species) which are managed on a holding enclosed by a deer-proof barrier and are kept on the holding by way of business for the primary purpose of the production of meat; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**forage area *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” has the same meaning as in Article 12(2)(b) of Council Regulation 1254/1999; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**goat *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means any goat (of any species) which is kept by way of business for the primary purpose of fibre production; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**holding *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” has the same meaning as in regulation 2 of the Integrated Administration and Control System Regulations 1993; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**less favoured area *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means the land shown coloured in blue or in pink on the designated maps– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (a) which is situated in an area included in the list of less favoured farming areas adopted by Council Directive *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [84/169/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1984/0169)[^key-a7af7b5988726385871b9a222fc1b23a] concerning the Community list of less-favoured farming areas within the meaning of Directive *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [75/268/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1975/0268)[^key-a7af7b5988726385871b9a222fc1b23a] (United Kingdom) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116911]; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (b) which is, in the opinion of the Scottish Ministers, inherently suitable for extensive livestock production but not for the production of crops in quantity materially greater than that necessary to feed such livestock as are capable of being maintained on such land, and whose agricultural production is, in the opinion of the Scottish Ministers, restricted in its range by, or any combination of, soil, relief, aspect or climate; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**livestock *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means suckler cow, dairy cow, beef heifer, dairy heifer, sheep, goat, farmed deer and alpaca; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**livestock unit *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means a unit of measurement of livestock numbers, and each of the following constitute one livestock unit:– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (a) one suckler cow; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (b) 1.66 heifers 8 months and over; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (c) 6.66 breeding ewes; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (d) 6.66 breeding female goats; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (e) 3.33 breeding female farmed deer 27 months and over; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (f) 5 breeding farmed deer over 6 months but less than 27 months; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (g) 3.33 breeding female alpaca; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (h) 5730 litres of milk quota; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**maximum stocking density *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means 2.00 livestock units per hectare; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**minimum stocking density *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means 0.12 livestock units per hectare; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**Payable Area *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means the adjusted area of land on which less favoured area support is to be paid, calculated in accordance with regulations 9 to 11; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**retirement pension *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” mean a category A or category B pension within the meaning of section 20(1)(f) of the Social Security Contributions and Benefits Act 1992 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116921], a category C or category D pension within the meaning of section 63(f) of that Act, or graduated retirement benefit as referred to in section 62 of that Act; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**Scheme Year *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means a calendar year commencing on 1st January; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**Scheme 2003 payment *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means the sum to which the applicant is entitled in respect of the period from 1st January 2002 to 31st December 2002; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**shared grazing *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means land used for grazing within a field used by two or more producers; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**suckler cow *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means an adult female bovine animal kept in a regular breeding herd which is not maintained primarily for the production of milk; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**the 1996 Regulations *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means the Hill Livestock (Compensatory Allowances) Regulations 1996 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116931];
-- “**the 1999 Regulation payment *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means the payment which an applicant under these Regulations was eligible for and paid under and in accordance with the 1999 Regulations or, as the case may be, the sum fixed in accordance with regulation 13(3) to (6); *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- “**the 1999 Regulations *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means the Hill Livestock (Compensatory Allowances) (Scotland) Regulations 1999 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116941];
-- “**the 2001 Regulations *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means the Less Favoured Area Support Scheme (Scotland) Regulations 2001 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116951];
-- “**the 2002 Regulations *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means the Less Favoured Area Support Scheme (Scotland) Regulations 2002 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116961];
-- “**usual good farming practices *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” means those practices undertaken on a holding in compliance with– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (a) the provisions of environmental legislation set out in Part I of Schedule 2; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (b) the verifiable standards set out in Part II of Schedule 2. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+The Less Favoured Area Support Scheme (Scotland) Regulations 2003 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+
+Made *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+
+3rd March 2003 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+
+Laid before the Scottish Parliament *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+
+4th March 2003 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+
+Coming into force *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+
+25th March 2003 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+
+The Scottish Ministers in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116811] and of all powers enabling them in that behalf, hereby make the following Regulations: *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+
+## 1. Citation, commencement and application (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
+
+(1) These Regulations may be cited as the Less Favoured Area Support Scheme (Scotland) Regulations 2003 and shall come into force on 25th March 2003. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+
+(2) These Regulations apply to holdings in respect of which the Scottish Ministers are the competent authority, in accordance with the Integrated Administration and Control System Regulations 1993 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116821].
+
+## 2. Interpretation (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
+
+(1) In these Regulations, unless the context otherwise requires– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+
+- “**agricultural *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” includes the use of land– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (a) for the purposes of horticulture, fruit growing, seed growing, dairy farming and livestock breeding and keeping; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (b) as grazing land, meadow land, osier land, market gardens and nursery grounds; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (c) for woodlands, where that use is ancillary to the use of land for other agricultural purposes; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**agri-environment scheme *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means an arrangement which is– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (a) regulated by statutory instrument providing for the payment of aid to persons who give an undertaking or enter into an agreement in relation to the use or management of land; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (b) approved by the Commission of the European Communities under either– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+    - (i) Article 44 of Council Regulation 1257/1999 as part of a rural development plan drawn up pursuant to Article 41 of that Regulation and containing measures pursuant to articles 22 to 24 of that Regulation; or *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+    - (ii) Article 7 of Council Regulation *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [(EEC) No. 2078/1992 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/1992/2078)[^c-a7af7b5988726385871b9a222fc1b23a] on agricultural production methods compatible with the requirements of the protection of the environment and the maintenance of the countryside *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116831];
+- “**alpaca *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means any alpaca of any breed which are kept by way of business for the primary purpose of fibre production; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**applicant *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means a person who has made an application for less favoured area support under these Regulations in accordance with regulation 3; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**area aid application *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” has the same meaning as in Article 6 of Council Regulation 3508/1992; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**authorised person *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means a person who is authorised by the Scottish Ministers, either generally or specifically, to act in relation to matters arising under these Regulations; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**cattle *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” for the purposes of Regulation 11 (enterprise mix), means– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (a) suckler cows and heifers; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (b) for those applicants maintaining a dairy herd in the islands of Shetland, the islands of Orkney, the islands of Islay, Jura, Arran, Bute, Great Cumbrae, Little Cumbrae and the Kintyre Peninsula south of Tarbert, or any other islands in the Outer Hebrides and the Inner Hebrides, a livestock unit for each 5730 litres of milk quota held, *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+
+  which the Scottish Ministers determine are to be taken into account from time to time; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**Commission Regulation 2419/2001 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means Commission Regulation *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [(EC) No. 2419/2001 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2001/2419)[^c-a7af7b5988726385871b9a222fc1b23a] laying down detailed rules for applying the integrated administration and control system for certain Community aid schemes *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116841];
+- “**Commission Regulation 445/2002 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means Commission Regulation *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [(EC) No. 445/2002 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2002/0445)[^c-a7af7b5988726385871b9a222fc1b23a] laying down detailed rules for the application of Council Regulation *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [(EC) No. 1257/1999 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/1999/1257)[^c-a7af7b5988726385871b9a222fc1b23a] on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116851];
+- “**common grazing *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” has the same meaning as it has for the purpose of Article 11 of Commission Regulation 445/2002; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**competent authority *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” has the same meaning as in regulation 2A of the Integrated Administration and Control System Regulations 1993 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116861];
+- “**Council Regulation 3508/1992 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means Council Regulation *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [(EEC) No. 3508/1992 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/1992/3508)[^c-a7af7b5988726385871b9a222fc1b23a] establishing an Integrated Administration and Control System for certain Community aid schemes *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116871];
+- “**Council Regulation 1254/1999 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means Council Regulation *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [(EC) No. 1254/1999 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/1999/1254)[^c-a7af7b5988726385871b9a222fc1b23a] on the common organisation of the market in beef and veal *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116881];
+- “**Council Regulation 1257/1999 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means Council Regulation *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [(EC) No. 1257/1999 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/1999/1257)[^c-a7af7b5988726385871b9a222fc1b23a] on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) and amending and repealing certain Regulations *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116891];
+- “**Council Regulation 2529/2001 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means Council Regulation *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [(EC) 2529/2001 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2001/2529)[^c-a7af7b5988726385871b9a222fc1b23a] on the common organisation of the market in sheep meat and goat meat *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116901];
+- “**cross-border holding *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means a holding in the United Kingdom which is situated partly in Scotland; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**designated maps *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means the four maps numbered 1 to 4, each such map being marked “Map of less-favoured farming areas in Scotland”, dated 5th May 1991, signed by the Secretary of State for Scotland and deposited at the offices of the Scottish Executive Environment and Rural Affairs Department, Pentland House, 47 Robb’s Loan, Edinburgh EH14 1TY; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**eligible agricultural activity *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means one or more of the following activities which, in the opinion of the Scottish Ministers are undertaken on a continuous basis:– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (a) maintaining a herd of suckler cows; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (b) maintaining a flock of sheep comprising eligible ewes as defined by Council Regulation 2529/2001; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (c) maintaining a dairy herd in– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+    - (i) the islands of Shetland; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+    - (ii) the islands of Orkney; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+    - (iii) the islands of Islay, Jura, Arran, Bute, Great Cumbrae, Little Cumbrae and the Kintyre Peninsula south of Tarbert; or *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+    - (iv) any other islands in the Outer Hebrides and the Inner Hebrides; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (d) maintaining a breeding herd of farmed deer for meat production; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (e) maintaining a breeding herd of goats for fibre production; or *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (f) maintaining a breeding herd of alpaca for fibre production; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**eligible land *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” has the same meaning as in regulation 6; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**eligible livestock unit *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means a livestock unit determined in accordance with regulation 9(9) and Part I of Schedule 1; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**farmed deer *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means any deer (of any species) which are managed on a holding enclosed by a deer-proof barrier and are kept on the holding by way of business for the primary purpose of the production of meat; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**forage area *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” has the same meaning as in Article 12(2)(b) of Council Regulation 1254/1999; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**goat *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means any goat (of any species) which is kept by way of business for the primary purpose of fibre production; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**holding *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” has the same meaning as in regulation 2 of the Integrated Administration and Control System Regulations 1993; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**less favoured area *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means the land shown coloured in blue or in pink on the designated maps– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (a) which is situated in an area included in the list of less favoured farming areas adopted by Council Directive *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [84/169/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1984/0169)[^c-a7af7b5988726385871b9a222fc1b23a] concerning the Community list of less-favoured farming areas within the meaning of Directive *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [75/268/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1975/0268)[^c-a7af7b5988726385871b9a222fc1b23a] (United Kingdom) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116911]; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (b) which is, in the opinion of the Scottish Ministers, inherently suitable for extensive livestock production but not for the production of crops in quantity materially greater than that necessary to feed such livestock as are capable of being maintained on such land, and whose agricultural production is, in the opinion of the Scottish Ministers, restricted in its range by, or any combination of, soil, relief, aspect or climate; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**livestock *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means suckler cow, dairy cow, beef heifer, dairy heifer, sheep, goat, farmed deer and alpaca; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**livestock unit *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means a unit of measurement of livestock numbers, and each of the following constitute one livestock unit:– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (a) one suckler cow; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (b) 1.66 heifers 8 months and over; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (c) 6.66 breeding ewes; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (d) 6.66 breeding female goats; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (e) 3.33 breeding female farmed deer 27 months and over; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (f) 5 breeding farmed deer over 6 months but less than 27 months; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (g) 3.33 breeding female alpaca; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (h) 5730 litres of milk quota; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**maximum stocking density *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means 2.00 livestock units per hectare; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**minimum stocking density *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means 0.12 livestock units per hectare; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**Payable Area *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means the adjusted area of land on which less favoured area support is to be paid, calculated in accordance with regulations 9 to 11; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**retirement pension *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” mean a category A or category B pension within the meaning of section 20(1)(f) of the Social Security Contributions and Benefits Act 1992 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116921], a category C or category D pension within the meaning of section 63(f) of that Act, or graduated retirement benefit as referred to in section 62 of that Act; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**Scheme Year *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means a calendar year commencing on 1st January; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**Scheme 2003 payment *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means the sum to which the applicant is entitled in respect of the period from 1st January 2002 to 31st December 2002; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**shared grazing *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means land used for grazing within a field used by two or more producers; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**suckler cow *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means an adult female bovine animal kept in a regular breeding herd which is not maintained primarily for the production of milk; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**the 1996 Regulations *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means the Hill Livestock (Compensatory Allowances) Regulations 1996 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116931];
+- “**the 1999 Regulation payment *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means the payment which an applicant under these Regulations was eligible for and paid under and in accordance with the 1999 Regulations or, as the case may be, the sum fixed in accordance with regulation 13(3) to (6); *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- “**the 1999 Regulations *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means the Hill Livestock (Compensatory Allowances) (Scotland) Regulations 1999 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116941];
+- “**the 2001 Regulations *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means the Less Favoured Area Support Scheme (Scotland) Regulations 2001 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116951];
+- “**the 2002 Regulations *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means the Less Favoured Area Support Scheme (Scotland) Regulations 2002 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116961];
+- “**usual good farming practices *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” means those practices undertaken on a holding in compliance with– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (a) the provisions of environmental legislation set out in Part I of Schedule 2; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (b) the verifiable standards set out in Part II of Schedule 2. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) Any reference in these Regulations to a Community instrument is a reference to that instrument as amended on the date on which these Regulations are made. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) Any reference in these Regulations to a Community instrument is a reference to that instrument as amended on the date on which these Regulations are made. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(3) For the purposes of the saving provision at article 53.1 of Commission Regulation 2419/2001, references to articles of that Regulation shall so far as necessary be treated as references to the equivalent provision in Commission Regulation 3887/1992 laying down detailed rules for applying the integrated administration and control system for certain Community aid schemes *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116971].
+(3) For the purposes of the saving provision at article 53.1 of Commission Regulation 2419/2001, references to articles of that Regulation shall so far as necessary be treated as references to the equivalent provision in Commission Regulation 3887/1992 laying down detailed rules for applying the integrated administration and control system for certain Community aid schemes *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116971].
 
-(4) Unless the context otherwise requires, any reference in these Regulations to a numbered regulation or paragraph or to a Schedule is a reference to the regulation or paragraph of the regulation or the Schedule so numbered in these Regulations. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(4) Unless the context otherwise requires, any reference in these Regulations to a numbered regulation or paragraph or to a Schedule is a reference to the regulation or paragraph of the regulation or the Schedule so numbered in these Regulations. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(5) Any reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication, as defined in the Electronic Communications Act 2000 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116981], which has been recorded and is consequently capable of being reproduced. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(5) Any reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication, as defined in the Electronic Communications Act 2000 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116981], which has been recorded and is consequently capable of being reproduced. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 3. Applications for payment of less favoured area support (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 3. Applications for payment of less favoured area support (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) An application for less favoured area support shall be in such form and shall contain such particulars relating to that application as the Scottish Ministers may reasonably require. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) An application for less favoured area support shall be in such form and shall contain such particulars relating to that application as the Scottish Ministers may reasonably require. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) An applicant shall submit the application for less favoured area support in respect of the Scheme Year in question to the Scottish Ministers on or before a date each year which the Scottish Ministers will determine from time to time. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) An applicant shall submit the application for less favoured area support in respect of the Scheme Year in question to the Scottish Ministers on or before a date each year which the Scottish Ministers will determine from time to time. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(3) Subject to paragraph (4), if an applicant submits an application for less favoured area support in respect of the relevant Scheme Year later than the date determined by the Scottish Ministers, the Scottish Ministers must reduce, or as the case may be exclude the applicant from, payment of less favoured area support in accordance with Article 13 of Commission Regulation 2419/2001. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(3) Subject to paragraph (4), if an applicant submits an application for less favoured area support in respect of the relevant Scheme Year later than the date determined by the Scottish Ministers, the Scottish Ministers must reduce, or as the case may be exclude the applicant from, payment of less favoured area support in accordance with Article 13 of Commission Regulation 2419/2001. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(4) Paragraph (3) shall not apply to an applicant who has not previously claimed any subsidy dependent upon an area aid application, who submits a claim form in accordance with regulation 6(1)(b). *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(4) Paragraph (3) shall not apply to an applicant who has not previously claimed any subsidy dependent upon an area aid application, who submits a claim form in accordance with regulation 6(1)(b). *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 4. Eligibility for payment of less favoured area support (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 4. Eligibility for payment of less favoured area support (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) Payment of less favoured area support may be made to an applicant in respect of a Scheme Year only if– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) Payment of less favoured area support may be made to an applicant in respect of a Scheme Year only if– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-- (a) subject to paragraphs (2) and (3), that applicant has given an undertaking, in such form as the Scottish Ministers may reasonably require, to continue to use eligible land for eligible agricultural activities for a period of not less than five years from the first payment made under– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (i) these Regulations; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (ii (affected by repeal, see note))[^key-a7af7b5988726385871b9a222fc1b23a] the 2002 Regulations; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (iii (affected by repeal, see note))[^key-a7af7b5988726385871b9a222fc1b23a] the 2001 Regulations; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (iv (affected by repeal, see note))[^key-a7af7b5988726385871b9a222fc1b23a] the 1999 Regulations; or *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (v) the 1996 Regulations; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (b) that applicant applies usual good farming practices on the eligible land of the applicant; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (c) that applicant does not use substances referred to in Article 14.2 of Council Regulation 1257/1999. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+- (a) subject to paragraphs (2) and (3), that applicant has given an undertaking, in such form as the Scottish Ministers may reasonably require, to continue to use eligible land for eligible agricultural activities for a period of not less than five years from the first payment made under– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (i) these Regulations; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (ii (affected by repeal, see note))[^c-a7af7b5988726385871b9a222fc1b23a] the 2002 Regulations; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (iii (affected by repeal, see note))[^c-a7af7b5988726385871b9a222fc1b23a] the 2001 Regulations; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (iv (affected by repeal, see note))[^c-a7af7b5988726385871b9a222fc1b23a] the 1999 Regulations; or *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (v) the 1996 Regulations; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (b) that applicant applies usual good farming practices on the eligible land of the applicant; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (c) that applicant does not use substances referred to in Article 14.2 of Council Regulation 1257/1999. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) Paragraph (1)(a) does not apply to an applicant who is in receipt of a retirement pension at the time when that undertaking requires (or was required) to be given. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) Paragraph (1)(a) does not apply to an applicant who is in receipt of a retirement pension at the time when that undertaking requires (or was required) to be given. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(3) An applicant is released from the undertaking referred to in paragraph (1)(a)– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(3) An applicant is released from the undertaking referred to in paragraph (1)(a)– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-- (a) at the moment that such an applicant receives a retirement pension; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (b) if that applicant is prevented from continuing to discharge that undertaking by reason of any material circumstances beyond the control of that person; or *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (c) if the applicant ceases farming and at least three hectares of the eligible land of the applicant continues to be used for carrying out an eligible agricultural activity. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+- (a) at the moment that such an applicant receives a retirement pension; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (b) if that applicant is prevented from continuing to discharge that undertaking by reason of any material circumstances beyond the control of that person; or *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (c) if the applicant ceases farming and at least three hectares of the eligible land of the applicant continues to be used for carrying out an eligible agricultural activity. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 5. Payment of less favoured area support (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 5. Payment of less favoured area support (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-The Scottish Ministers may pay, on such occasions as they consider fit, in respect of the Scheme Year in question to an applicant less favoured area support for carrying out eligible agricultural activity on eligible land which is not less than 3 hectares. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+The Scottish Ministers may pay, on such occasions as they consider fit, in respect of the Scheme Year in question to an applicant less favoured area support for carrying out eligible agricultural activity on eligible land which is not less than 3 hectares. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 6. Eligible land (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 6. Eligible land (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) Eligible land comprises the number of hectares of forage area in a less favoured area– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) Eligible land comprises the number of hectares of forage area in a less favoured area– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-- (a) as declared in an area aid application submitted to the Scottish Ministers, on or before 15th May in the Scheme Year for which payment is to be made, by the applicant in accordance with Article 6 of Council Regulation 3508/1992; or *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (b) where the applicant has not previously claimed any subsidy dependent upon an area aid application, as declared by the applicant in a form which the Scottish Ministers shall from time to time specify. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+- (a) as declared in an area aid application submitted to the Scottish Ministers, on or before 15th May in the Scheme Year for which payment is to be made, by the applicant in accordance with Article 6 of Council Regulation 3508/1992; or *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (b) where the applicant has not previously claimed any subsidy dependent upon an area aid application, as declared by the applicant in a form which the Scottish Ministers shall from time to time specify. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) Eligible land includes land in respect of which the applicant has a right of use pursuant to arrangements such as short term lets, seasonal grazing and common grazing. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) Eligible land includes land in respect of which the applicant has a right of use pursuant to arrangements such as short term lets, seasonal grazing and common grazing. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(3) If an application made in accordance with regulation 3 relates in part to land upon which an activity is carried out which is not an eligible agricultural activity for the purposes of these Regulations, the Scottish Ministers shall determine the area of land which is to be attributed to the eligible agricultural activity. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(3) If an application made in accordance with regulation 3 relates in part to land upon which an activity is carried out which is not an eligible agricultural activity for the purposes of these Regulations, the Scottish Ministers shall determine the area of land which is to be attributed to the eligible agricultural activity. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 7. Transfer of a holding (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 7. Transfer of a holding (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) In determining eligible land under regulation 6(1), the decision of the Scottish Ministers shall be in accordance with Article 50 of Commission Regulation 2419/2001 as appropriate. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) In determining eligible land under regulation 6(1), the decision of the Scottish Ministers shall be in accordance with Article 50 of Commission Regulation 2419/2001 as appropriate. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) For the purpose of paragraph 6 of Article 50 of Commission Regulation 2419/2001, the Scottish Ministers shall grant less favoured area support to the transferor of a holding, if the transferor– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) For the purpose of paragraph 6 of Article 50 of Commission Regulation 2419/2001, the Scottish Ministers shall grant less favoured area support to the transferor of a holding, if the transferor– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-- (a) fulfils the conditions laid down by paragraphs 2 to 5 of Article 50 of Commission Regulation 2419/2001; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (b) has been in continuous occupation of the holding for a period of not less than 183 calendar days in the Scheme Year concerned. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+- (a) fulfils the conditions laid down by paragraphs 2 to 5 of Article 50 of Commission Regulation 2419/2001; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (b) has been in continuous occupation of the holding for a period of not less than 183 calendar days in the Scheme Year concerned. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 8. Amount of less favoured area support (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 8. Amount of less favoured area support (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Subject to regulations 13 (transitional payments) and 14 (minimum payments), the amount of less favoured area support shall be calculated in accordance with the following formula:– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Subject to regulations 13 (transitional payments) and 14 (minimum payments), the amount of less favoured area support shall be calculated in accordance with the following formula:– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Where *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Where *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-LFAS is the amount of less favoured area support payable; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+LFAS is the amount of less favoured area support payable; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-P is the payable area calculated in accordance with regulations 9 or 10 and, where appropriate, adjusted in accordance with regulation 11; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+P is the payable area calculated in accordance with regulations 9 or 10 and, where appropriate, adjusted in accordance with regulation 11; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-R is the rate of payment determined in accordance with regulation 12. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+R is the rate of payment determined in accordance with regulation 12. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 9. Determination of Payable Area (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 9. Determination of Payable Area (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) Subject to regulation 10, the payable area shall be the total of the areas of eligible land of the applicant, adjusted in accordance with the following formula:– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) Subject to regulation 10, the payable area shall be the total of the areas of eligible land of the applicant, adjusted in accordance with the following formula:– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Where *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Where *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-P is the Payable Area; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+P is the Payable Area; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-E is the area of eligible land in each field or shared grazing in calendar year 2002; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+E is the area of eligible land in each field or shared grazing in calendar year 2002; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-V is the hectare value for each field or shared grazing determined in accordance with paragraph (2). *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+V is the hectare value for each field or shared grazing determined in accordance with paragraph (2). *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) For the purpose of paragraph (1) the hectare value shall be the entry in the third column of Schedule 3 corresponding to the grazing category in the second column of that Schedule. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) For the purpose of paragraph (1) the hectare value shall be the entry in the third column of Schedule 3 corresponding to the grazing category in the second column of that Schedule. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(3) For the purposes of paragraph (2) the grazing category of the land of the applicant shall be the entry in the second column of Schedule 3 corresponding to the stocking density in the first column of that Schedule, and the stocking density for that land shall be calculated in accordance with paragraphs (4) to (12). *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(3) For the purposes of paragraph (2) the grazing category of the land of the applicant shall be the entry in the second column of Schedule 3 corresponding to the stocking density in the first column of that Schedule, and the stocking density for that land shall be calculated in accordance with paragraphs (4) to (12). *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(4) Subject to paragraph (12), the stocking density for each field which is not a shared grazing shall be calculated according to the following formula:– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(4) Subject to paragraph (12), the stocking density for each field which is not a shared grazing shall be calculated according to the following formula:– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Where *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Where *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-S is the stocking density expressed in livestock units per hectare (LU/Ha); *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+S is the stocking density expressed in livestock units per hectare (LU/Ha); *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-L is the total number of eligible livestock units based on eligible agricultural activity undertaken in calendar year 2001; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+L is the total number of eligible livestock units based on eligible agricultural activity undertaken in calendar year 2001; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-H is the total number of eligible hectares at 15th May 2001 determined in accordance with regulation 6 of the 2002 Regulations. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+H is the total number of eligible hectares at 15th May 2001 determined in accordance with regulation 6 of the 2002 Regulations. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(5) Subject to paragraph (12), the stocking density for a shared grazing shall be calculated according to the provisions of paragraphs (6) to (8). *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(5) Subject to paragraph (12), the stocking density for a shared grazing shall be calculated according to the provisions of paragraphs (6) to (8). *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(6) The stocking density for a shared grazing shall be calculated according to the following formula:– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(6) The stocking density for a shared grazing shall be calculated according to the following formula:– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Where *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Where *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-S is the stocking density for the shared grazing expressed in livestock units per hectare (LU/Ha); *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+S is the stocking density for the shared grazing expressed in livestock units per hectare (LU/Ha); *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-N is the total number of livestock units calculated in accordance with paragraph (7); and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+N is the total number of livestock units calculated in accordance with paragraph (7); and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-H is the total area of the shared grazing, which shall be the sum of the areas of land attributable to each producer using the grazing. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+H is the total area of the shared grazing, which shall be the sum of the areas of land attributable to each producer using the grazing. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(7) For the purposes of paragraph (6), the total number of livestock units is the aggregate of the numbers of livestock units for each producer using the grazing, calculated in accordance with the following formula:– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(7) For the purposes of paragraph (6), the total number of livestock units is the aggregate of the numbers of livestock units for each producer using the grazing, calculated in accordance with the following formula:– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Where *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Where *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-U is the number of livestock units for that producer on the shared grazing; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+U is the number of livestock units for that producer on the shared grazing; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-A is the area of the shared grazing attributable to that producer on the basis of the proportion of the number of animals (which may include animals other than those which are livestock for the purposes of these Regulations) on the shared grazing, which belongs to that producer; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+A is the area of the shared grazing attributable to that producer on the basis of the proportion of the number of animals (which may include animals other than those which are livestock for the purposes of these Regulations) on the shared grazing, which belongs to that producer; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-D is the overall stocking density for that producer calculated according to paragraph (8). *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+D is the overall stocking density for that producer calculated according to paragraph (8). *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(8) For the purposes of paragraph (7), the overall stocking density for each producer shall be calculated according to the following formula:– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(8) For the purposes of paragraph (7), the overall stocking density for each producer shall be calculated according to the following formula:– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Where *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Where *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-D is the overall stocking density for that producer; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+D is the overall stocking density for that producer; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Y is that producer’s total number of eligible livestock units based on eligible agricultural activity undertaken in calendar year 2002; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Y is that producer’s total number of eligible livestock units based on eligible agricultural activity undertaken in calendar year 2002; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-A is the area of the shared grazing attributable to that producer on the basis of the proportion of the number of animals (which may include animals other than those which are livestock for the purposes of these Regulations) on the shared grazing, which belongs to that producer; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+A is the area of the shared grazing attributable to that producer on the basis of the proportion of the number of animals (which may include animals other than those which are livestock for the purposes of these Regulations) on the shared grazing, which belongs to that producer; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-B is the area of eligible land ascertained for that producer in accordance with regulation 6, other than land forming a shared grazing. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+B is the area of eligible land ascertained for that producer in accordance with regulation 6, other than land forming a shared grazing. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(9) Subject to paragraphs (10) and (11), the number of eligible livestock units shall be calculated using– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(9) Subject to paragraphs (10) and (11), the number of eligible livestock units shall be calculated using– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-- (a) where eligibility rests solely on livestock claimed under the Sheep Annual Premium Scheme, the greater of– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (i) the number of ewes and gimmers declared as the flock composition as part of a claim for Sheep Annual Premium; or *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (ii (affected by repeal, see note))[^key-a7af7b5988726385871b9a222fc1b23a] the lesser of the number of livestock claimed and the number of livestock quota units held; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (b) where eligibility rests solely on livestock claimed under the Suckler Cow Premium Scheme, the greater of– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (i) the number of cows declared as the herd composition as part of a claim for Suckler Cow Premium; or *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (ii (affected by repeal, see note))[^key-a7af7b5988726385871b9a222fc1b23a] the lesser of the number of livestock claimed and the number of livestock quota units held; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (c) where neither sub-paragraph (a) nor (b) applies, the number of livestock units determined by a decision of the Scottish Ministers using any, or a combination of any, of the following:– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (i) livestock described in sub-paragraph (a) above; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (ii (affected by repeal, see note))[^key-a7af7b5988726385871b9a222fc1b23a] livestock described in sub-paragraph (b) above; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (iii (affected by repeal, see note))[^key-a7af7b5988726385871b9a222fc1b23a] livestock units calculated from numbers of deer, goats or alpacas held throughout the relevant calendar year; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (iv (affected by repeal, see note))[^key-a7af7b5988726385871b9a222fc1b23a] where the applicant has not claimed any subsidy under the Sheep Annual Premium Scheme, ewes, gimmers and hoggs declared separately as being held throughout the Scheme Year; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-  - (v) where the applicant has not claimed any subsidy under the Suckler Cow Premium Scheme, suckler cows declared separately as being held throughout the Scheme Year. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+- (a) where eligibility rests solely on livestock claimed under the Sheep Annual Premium Scheme, the greater of– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (i) the number of ewes and gimmers declared as the flock composition as part of a claim for Sheep Annual Premium; or *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (ii (affected by repeal, see note))[^c-a7af7b5988726385871b9a222fc1b23a] the lesser of the number of livestock claimed and the number of livestock quota units held; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (b) where eligibility rests solely on livestock claimed under the Suckler Cow Premium Scheme, the greater of– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (i) the number of cows declared as the herd composition as part of a claim for Suckler Cow Premium; or *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (ii (affected by repeal, see note))[^c-a7af7b5988726385871b9a222fc1b23a] the lesser of the number of livestock claimed and the number of livestock quota units held; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (c) where neither sub-paragraph (a) nor (b) applies, the number of livestock units determined by a decision of the Scottish Ministers using any, or a combination of any, of the following:– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (i) livestock described in sub-paragraph (a) above; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (ii (affected by repeal, see note))[^c-a7af7b5988726385871b9a222fc1b23a] livestock described in sub-paragraph (b) above; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (iii (affected by repeal, see note))[^c-a7af7b5988726385871b9a222fc1b23a] livestock units calculated from numbers of deer, goats or alpacas held throughout the relevant calendar year; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (iv (affected by repeal, see note))[^c-a7af7b5988726385871b9a222fc1b23a] where the applicant has not claimed any subsidy under the Sheep Annual Premium Scheme, ewes, gimmers and hoggs declared separately as being held throughout the Scheme Year; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+  - (v) where the applicant has not claimed any subsidy under the Suckler Cow Premium Scheme, suckler cows declared separately as being held throughout the Scheme Year. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(10) Where the applicant believes that the stocking density calculated for that applicant in accordance with paragraphs (4) or (5) to (8) based on eligible agricultural activity in calendar year 2001 was unrepresentatively low due to any sufficient reason established to the satisfaction of the Scottish Ministers, which may include the following:– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(10) Where the applicant believes that the stocking density calculated for that applicant in accordance with paragraphs (4) or (5) to (8) based on eligible agricultural activity in calendar year 2001 was unrepresentatively low due to any sufficient reason established to the satisfaction of the Scottish Ministers, which may include the following:– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-- (i) the acquisition by the applicant of a holding carrying a low level of stock in calendar year 2001 where the applicant demonstrates to the satisfaction of the Scottish Ministers both a genuine commitment to increase the number of stock on the holding, and an increase in the number of stock on the holding since the date of acquisition of the holding; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (ii (affected by repeal, see note))[^key-a7af7b5988726385871b9a222fc1b23a] participation by the applicant in an agri-environment scheme or an arrangement with the Scottish Ministers requiring reduction of the stocking levels of the applicant, other than an agri-environment scheme or an arrangement with the purpose of allowing suppressed grazing to recover, or otherwise compensating for the effects of past over-grazing, where that agri-environment scheme or arrangement has now ended, and the subsequent increase in stock of the applicant has not had a detrimental effect on the improvements achieved by the scheme or arrangement; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (iii (affected by repeal, see note))[^key-a7af7b5988726385871b9a222fc1b23a] the culling of the stock of the applicant in the context of the control of an outbreak of an epizootic disease; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+- (i) the acquisition by the applicant of a holding carrying a low level of stock in calendar year 2001 where the applicant demonstrates to the satisfaction of the Scottish Ministers both a genuine commitment to increase the number of stock on the holding, and an increase in the number of stock on the holding since the date of acquisition of the holding; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (ii (affected by repeal, see note))[^c-a7af7b5988726385871b9a222fc1b23a] participation by the applicant in an agri-environment scheme or an arrangement with the Scottish Ministers requiring reduction of the stocking levels of the applicant, other than an agri-environment scheme or an arrangement with the purpose of allowing suppressed grazing to recover, or otherwise compensating for the effects of past over-grazing, where that agri-environment scheme or arrangement has now ended, and the subsequent increase in stock of the applicant has not had a detrimental effect on the improvements achieved by the scheme or arrangement; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (iii (affected by repeal, see note))[^c-a7af7b5988726385871b9a222fc1b23a] the culling of the stock of the applicant in the context of the control of an outbreak of an epizootic disease; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-the applicant may request that the Scottish Ministers make a decision determining the number of livestock units to be used for the purposes of determining the stocking density in accordance with paragraphs (4) or (5) to (8). *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+the applicant may request that the Scottish Ministers make a decision determining the number of livestock units to be used for the purposes of determining the stocking density in accordance with paragraphs (4) or (5) to (8). *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(11) Where the Scottish Ministers have been requested to determine a number of livestock units under paragraph (10), they shall fix the number of livestock units to be used in the formulae in paragraphs (4) or (6) to (8). *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(11) Where the Scottish Ministers have been requested to determine a number of livestock units under paragraph (10), they shall fix the number of livestock units to be used in the formulae in paragraphs (4) or (6) to (8). *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(12) Where the Scottish Ministers are unable to calculate the stocking density for any part of the eligible land of the applicant using the formulae in paragraphs (4) or (6) to (8) because they have not been provided with sufficient information by the applicant to enable them to use the formulae in paragraphs (4) or (6) to (8), the Scottish Ministers shall, by a decision, fix a stocking density figure for that part of the land of the applicant. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(12) Where the Scottish Ministers are unable to calculate the stocking density for any part of the eligible land of the applicant using the formulae in paragraphs (4) or (6) to (8) because they have not been provided with sufficient information by the applicant to enable them to use the formulae in paragraphs (4) or (6) to (8), the Scottish Ministers shall, by a decision, fix a stocking density figure for that part of the land of the applicant. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 10. Stocking density outwith maximum and minimum parameters (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 10. Stocking density outwith maximum and minimum parameters (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) The following provisions of this regulation shall apply for the purposes of the Scheme 2003 payment where the stocking density calculated in accordance with regulation 9(9) and Parts I and II of Schedule 1 based on eligible agricultural activity undertaken in calendar year 2002 is either less than the minimum stocking density or greater than the maximum stocking density:– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) The following provisions of this regulation shall apply for the purposes of the Scheme 2003 payment where the stocking density calculated in accordance with regulation 9(9) and Parts I and II of Schedule 1 based on eligible agricultural activity undertaken in calendar year 2002 is either less than the minimum stocking density or greater than the maximum stocking density:– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-- (a) at the start of the retention period where eligibility rests on livestock claimed under the Sheep Annual Premium Scheme; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (b) at the start of the retention period where eligibility rests on livestock claimed under the Suckler Cow Premium Scheme; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (c) during calendar year 2002 where eligibility rests on livestock declared separately in an application for less favoured area support; or *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (d) in the opinion of the Scottish Ministers where eligibility must be determined from a combination of livestock described in sub-paragraphs (i) to (iii) above. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+- (a) at the start of the retention period where eligibility rests on livestock claimed under the Sheep Annual Premium Scheme; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (b) at the start of the retention period where eligibility rests on livestock claimed under the Suckler Cow Premium Scheme; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (c) during calendar year 2002 where eligibility rests on livestock declared separately in an application for less favoured area support; or *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (d) in the opinion of the Scottish Ministers where eligibility must be determined from a combination of livestock described in sub-paragraphs (i) to (iii) above. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) Where the stocking density calculated in accordance with regulation 9(9) and Parts I and II of Schedule 1 based on eligible agricultural activity undertaken in calendar year 2002 is less than the minimum stocking density, the Payable Area shall be the number of hectares calculated in accordance with the following formula:– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) Where the stocking density calculated in accordance with regulation 9(9) and Parts I and II of Schedule 1 based on eligible agricultural activity undertaken in calendar year 2002 is less than the minimum stocking density, the Payable Area shall be the number of hectares calculated in accordance with the following formula:– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Where *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Where *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-P<sub>1</sub> is the Payable Area; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+P<sub>1</sub> is the Payable Area; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-K is, subject to paragraph (4), the number of eligible livestock units based on eligible agricultural activity undertaken in calendar year 2002; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+K is, subject to paragraph (4), the number of eligible livestock units based on eligible agricultural activity undertaken in calendar year 2002; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-M is the minimum stocking density. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+M is the minimum stocking density. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(3) Where the stocking density calculated in accordance with regulation 9(9) and Parts I and II of Schedule 1 based on eligible agricultural activity undertaken in calendar year 2002 is greater than the maximum stocking density, the Payable Area shall be the number of hectares calculated in accordance with the following formula:– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(3) Where the stocking density calculated in accordance with regulation 9(9) and Parts I and II of Schedule 1 based on eligible agricultural activity undertaken in calendar year 2002 is greater than the maximum stocking density, the Payable Area shall be the number of hectares calculated in accordance with the following formula:– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Where *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Where *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-P<sub>2</sub> is the Payable Area; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+P<sub>2</sub> is the Payable Area; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-F is the area of eligible land determined in accordance with regulation 6; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+F is the area of eligible land determined in accordance with regulation 6; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Q is the maximum stocking density; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Q is the maximum stocking density; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-J is the number of eligible livestock units based on eligible agricultural activity undertaken in calendar year 2002. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+J is the number of eligible livestock units based on eligible agricultural activity undertaken in calendar year 2002. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(4) Where an applicant fails to achieve the minimum stocking density as a result of not being able to re-stock following slaughter of livestock under the Animal Health Act 1981 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5116991] or in consequence of the service of a notice or an order being in place under the Foot-and-Mouth Disease Order 1983 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117001], the Scottish Ministers may, by a decision, determine the total number of livestock units to be used for the purpose of the calculation at paragraph (2). *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(4) Where an applicant fails to achieve the minimum stocking density as a result of not being able to re-stock following slaughter of livestock under the Animal Health Act 1981 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5116991] or in consequence of the service of a notice or an order being in place under the Foot-and-Mouth Disease Order 1983 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117001], the Scottish Ministers may, by a decision, determine the total number of livestock units to be used for the purpose of the calculation at paragraph (2). *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 11. Enterprise mix (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 11. Enterprise mix (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) Where the applicant maintains at least 10% of the total eligible livestock units of the applicant based on eligible agricultural activity undertaken in 2002 as cattle, the Payable Area calculated in accordance with regulation 9 or 10 shall be adjusted in accordance with this regulation according to the following formula:– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) Where the applicant maintains at least 10% of the total eligible livestock units of the applicant based on eligible agricultural activity undertaken in 2002 as cattle, the Payable Area calculated in accordance with regulation 9 or 10 shall be adjusted in accordance with this regulation according to the following formula:– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+[formula: see source](https://www.legislation.gov.uk/ssi/2003/129) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Where *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Where *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-P<sub>3</sub> is the Payable Area adjusted in accordance with this regulation; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+P<sub>3</sub> is the Payable Area adjusted in accordance with this regulation; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-P<sub>4</sub> is the Payable Area calculated in accordance with regulation 9 or 10; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+P<sub>4</sub> is the Payable Area calculated in accordance with regulation 9 or 10; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Z is the multiplier contained in the second column of Schedule 4 corresponding to the appropriate proportion of eligible livestock units maintained as cattle set out in the first column of that Schedule. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Z is the multiplier contained in the second column of Schedule 4 corresponding to the appropriate proportion of eligible livestock units maintained as cattle set out in the first column of that Schedule. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) Where an applicant fails to achieve the necessary cattle livestock units for the purposes of this regulation as a result of not being able to re-stock following slaughter of livestock under the Animal Health Act 1981 in consequence of the service of a notice or an order being in place under the Foot-and-Mouth Disease Order 1983, the Scottish Ministers may, by a decision, determine the total number of cattle livestock units to be used for the purposes of this regulation. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) Where an applicant fails to achieve the necessary cattle livestock units for the purposes of this regulation as a result of not being able to re-stock following slaughter of livestock under the Animal Health Act 1981 in consequence of the service of a notice or an order being in place under the Foot-and-Mouth Disease Order 1983, the Scottish Ministers may, by a decision, determine the total number of cattle livestock units to be used for the purposes of this regulation. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 12. Rate of Payment of Less Favoured Area Support (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 12. Rate of Payment of Less Favoured Area Support (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) For the purposes of regulation 8, the rate of payment of less favoured area support shall be determined in accordance with this Regulation. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) For the purposes of regulation 8, the rate of payment of less favoured area support shall be determined in accordance with this Regulation. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) The rate of payment shall be the rate per hectare of the Payable Area set out in the entry in the second column of Schedule 5 corresponding to the category in the first column of that Schedule applicable to the applicant in terms of paragraph (3). *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) The rate of payment shall be the rate per hectare of the Payable Area set out in the entry in the second column of Schedule 5 corresponding to the category in the first column of that Schedule applicable to the applicant in terms of paragraph (3). *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(3) For the purposes of paragraph (2), the category applicable to the applicant shall be determined according to the category of the parish in which the main farm of the applicant lies. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(3) For the purposes of paragraph (2), the category applicable to the applicant shall be determined according to the category of the parish in which the main farm of the applicant lies. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(4) For the purposes of paragraphs (2) and (3), the category of each parish shall be that set out in Schedule 6 to this Order. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(4) For the purposes of paragraphs (2) and (3), the category of each parish shall be that set out in Schedule 6 to this Order. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(5) The main farm of the applicant shall be the farm identified as the main farm in the application for less favoured area support submitted by the applicant in accordance with Regulation 3. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(5) The main farm of the applicant shall be the farm identified as the main farm in the application for less favoured area support submitted by the applicant in accordance with Regulation 3. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 13. Transitional payments (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 13. Transitional payments (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) Subject to paragraph (6) this regulation applies to an applicant under these Regulations who was eligible for and was granted a payment under the 1999 Regulations. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) Subject to paragraph (6) this regulation applies to an applicant under these Regulations who was eligible for and was granted a payment under the 1999 Regulations. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) In respect of the Scheme 2003 payment, the amount of less favoured area support paid by the Scottish Ministers under these Regulations shall be not less than a sum equal to 50% of the 1999 Regulation payment. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) In respect of the Scheme 2003 payment, the amount of less favoured area support paid by the Scottish Ministers under these Regulations shall be not less than a sum equal to 50% of the 1999 Regulation payment. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(3) Where the forage area of the holding is reduced, in any of calendar years 2000, 2001 or 2002, by more than 25%, when compared with the forage area declared by the applicant in 1999 for the purpose of the 1999 Regulation payment, the Scottish Ministers shall, in respect of the Scheme 2003 payment, by a decision, fix the 1999 Regulation payment used for the purposes of calculating the minimum payment under paragraph (2), by reducing the 1999 Regulation payment received by the applicant by 1/75th for each percentage point above 25% that the forage area has been reduced. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(3) Where the forage area of the holding is reduced, in any of calendar years 2000, 2001 or 2002, by more than 25%, when compared with the forage area declared by the applicant in 1999 for the purpose of the 1999 Regulation payment, the Scottish Ministers shall, in respect of the Scheme 2003 payment, by a decision, fix the 1999 Regulation payment used for the purposes of calculating the minimum payment under paragraph (2), by reducing the 1999 Regulation payment received by the applicant by 1/75th for each percentage point above 25% that the forage area has been reduced. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(4) In respect of the Scheme 2003 payment, where an applicant has, as at 31st December 2002, permanently increased the amount of eligible land since the date on which the 1999 Regulation payment was made and paragraph (3) does not apply to the applicant, the Scottish Ministers shall, if requested by the applicant, by a decision, fix the 1999 Regulation payment which shall be used for the purposes calculating the payment under paragraph (2): *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(4) In respect of the Scheme 2003 payment, where an applicant has, as at 31st December 2002, permanently increased the amount of eligible land since the date on which the 1999 Regulation payment was made and paragraph (3) does not apply to the applicant, the Scottish Ministers shall, if requested by the applicant, by a decision, fix the 1999 Regulation payment which shall be used for the purposes calculating the payment under paragraph (2): *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Provided that– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Provided that– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-- (a) the applicant is the owner or tenant of the eligible land in question; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (b) the land was available and accessible for use in maintaining eligible livestock, *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+- (a) the applicant is the owner or tenant of the eligible land in question; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (b) the land was available and accessible for use in maintaining eligible livestock, *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-and in doing so shall have regard to the sum which would have been payable under the 1999 Regulations had that person– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+and in doing so shall have regard to the sum which would have been payable under the 1999 Regulations had that person– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-- (i) had the amount of eligible land held at 31st December 2002; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (ii (affected by repeal, see note))[^key-a7af7b5988726385871b9a222fc1b23a] met the conditions specified at sub-paragraph (a) and (b) above in relation to that land, *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+- (i) had the amount of eligible land held at 31st December 2002; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (ii (affected by repeal, see note))[^c-a7af7b5988726385871b9a222fc1b23a] met the conditions specified at sub-paragraph (a) and (b) above in relation to that land, *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-as at the date on which entitlement under those Regulations was ascertained. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+as at the date on which entitlement under those Regulations was ascertained. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(5) In respect of the Scheme 2003 payment, where the applicant applies to the Scottish Ministers, and demonstrates that the number of livestock claimed by the applicant under the 1999 Regulations was unrepresentatively low due to any sufficient reason, which reason must be established to the satisfaction of the Scottish Ministers, the Scottish Ministers may, by a decision, fix the 1999 Regulation payment which shall be used for the purposes of calculating the payment under paragraph (2). *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(5) In respect of the Scheme 2003 payment, where the applicant applies to the Scottish Ministers, and demonstrates that the number of livestock claimed by the applicant under the 1999 Regulations was unrepresentatively low due to any sufficient reason, which reason must be established to the satisfaction of the Scottish Ministers, the Scottish Ministers may, by a decision, fix the 1999 Regulation payment which shall be used for the purposes of calculating the payment under paragraph (2). *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(6) In respect of the Scheme 2003 payment, where an applicant– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(6) In respect of the Scheme 2003 payment, where an applicant– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-- (a) did not receive a transitional payment under the 2001 Regulations by virtue of being a person to whom regulation 10 of those Regulations did not apply; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (b) establishes to the satisfaction of the Scottish Ministers any sufficient reason, other than one caused by the fault or negligence of the applicant, why regulation 10 of the 2001 Regulations did not apply to the applicant, *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+- (a) did not receive a transitional payment under the 2001 Regulations by virtue of being a person to whom regulation 10 of those Regulations did not apply; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (b) establishes to the satisfaction of the Scottish Ministers any sufficient reason, other than one caused by the fault or negligence of the applicant, why regulation 10 of the 2001 Regulations did not apply to the applicant, *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-the Scottish Ministers may, on the application of the applicant, by a decision, fix the 1999 Regulation payment which shall be used for the purposes of calculating the payment under paragraph (2). *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+the Scottish Ministers may, on the application of the applicant, by a decision, fix the 1999 Regulation payment which shall be used for the purposes of calculating the payment under paragraph (2). *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(7) This regulation is subject to regulation 14. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(7) This regulation is subject to regulation 14. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 14. Minimum Payments (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 14. Minimum Payments (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-In respect of the Scheme 2003 payment, the amount of less favoured area support paid by the Scottish Ministers under these Regulations shall be not less than £350. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+In respect of the Scheme 2003 payment, the amount of less favoured area support paid by the Scottish Ministers under these Regulations shall be not less than £350. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 15. Powers of authorised persons (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 15. Powers of authorised persons (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) An authorised person may, at all reasonable hours and on producing if so required a duly authenticated document showing the authority of that person, exercise the powers specified in this regulation for the purposes of– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) An authorised person may, at all reasonable hours and on producing if so required a duly authenticated document showing the authority of that person, exercise the powers specified in this regulation for the purposes of– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-- (a) verification of accuracy of an application by carrying out administrative and periodic checks which a Member State is required to carry out under Articles 59 to 61 of Commission Regulation 445/2002; or *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (b) ascertaining whether an offence under these Regulations has been or is being committed, *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+- (a) verification of accuracy of an application by carrying out administrative and periodic checks which a Member State is required to carry out under Articles 59 to 61 of Commission Regulation 445/2002; or *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (b) ascertaining whether an offence under these Regulations has been or is being committed, *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-and in doing so may be accompanied by a person assigned to assist the authorised person, for those purposes. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+and in doing so may be accompanied by a person assigned to assist the authorised person, for those purposes. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) An authorised person may enter any land or premises (other than dwelling houses not being used in connection with these Regulations). *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) An authorised person may enter any land or premises (other than dwelling houses not being used in connection with these Regulations). *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(3) An authorised person who has entered any land or premises by virtue of this regulation may– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(3) An authorised person who has entered any land or premises by virtue of this regulation may– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-- (a) inspect and verify the total area of such land; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (b) inspect and count livestock on such land and require the applicant to arrange for the collection of animals, penning and securing; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (c) require production of and examine any records in whatever form, and take copies of those records; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (d) remove and retain any document or other record referred to in sub-paragraph (c) above which may be required for use as evidence in proceedings under these Regulations; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (e) inspect and verify that the applicant has complied with usual good farming practices. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+- (a) inspect and verify the total area of such land; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (b) inspect and count livestock on such land and require the applicant to arrange for the collection of animals, penning and securing; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (c) require production of and examine any records in whatever form, and take copies of those records; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (d) remove and retain any document or other record referred to in sub-paragraph (c) above which may be required for use as evidence in proceedings under these Regulations; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (e) inspect and verify that the applicant has complied with usual good farming practices. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(4) An authorised person may require, where any computer and any associated apparatus or material which is or has been used in connection with any such records mentioned in paragraph (3)(c), wherever situated, records which are kept by means of such computer or associated apparatus or material to be produced in a visible and legible form in which they may be taken away. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(4) An authorised person may require, where any computer and any associated apparatus or material which is or has been used in connection with any such records mentioned in paragraph (3)(c), wherever situated, records which are kept by means of such computer or associated apparatus or material to be produced in a visible and legible form in which they may be taken away. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 16. Assistance to authorised persons (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 16. Assistance to authorised persons (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-An applicant, any employee or agent of an applicant or any person having charge of animals on the land shall give to an authorised person such assistance as the authorised person may reasonably request so as to enable that person to exercise any power conferred by regulation 15. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+An applicant, any employee or agent of an applicant or any person having charge of animals on the land shall give to an authorised person such assistance as the authorised person may reasonably request so as to enable that person to exercise any power conferred by regulation 15. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 17. Withholding or recovery of less favoured area support (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 17. Withholding or recovery of less favoured area support (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-The Scottish Ministers may withhold or recover the whole or any part of any payment of less favoured area support payable or paid to an applicant in any of the following circumstances:– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+The Scottish Ministers may withhold or recover the whole or any part of any payment of less favoured area support payable or paid to an applicant in any of the following circumstances:– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-- (a) where the applicant fails to comply with the terms of an undertaking given by that applicant pursuant to regulation 4(1)(a) from which the applicant has not been released under regulation 4(3); *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (b) where the applicant, or an employee or agent of the applicant intentionally obstructs an authorised person in exercise of the powers under regulation 15, or fails without reasonable excuse to comply with a requirement made by an authorised person under regulation 15 or 16; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (c) where, in the opinion of the Scottish Ministers, the applicant has failed to act in accordance with usual good farming practices on or in relation to eligible land. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+- (a) where the applicant fails to comply with the terms of an undertaking given by that applicant pursuant to regulation 4(1)(a) from which the applicant has not been released under regulation 4(3); *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (b) where the applicant, or an employee or agent of the applicant intentionally obstructs an authorised person in exercise of the powers under regulation 15, or fails without reasonable excuse to comply with a requirement made by an authorised person under regulation 15 or 16; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (c) where, in the opinion of the Scottish Ministers, the applicant has failed to act in accordance with usual good farming practices on or in relation to eligible land. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 18. Rate of interest (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 18. Rate of interest (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Where the Scottish Ministers intend to recover on demand the whole or any part of a payment of less favoured area support pursuant to regulation 17, unless the sum recovered is paid as a result of their own error, interest shall be charged thereon at the rate of one percentage point above the sterling three month London Interbank Offered Rate on a day-to-day basis for the period from payment to recovery. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Where the Scottish Ministers intend to recover on demand the whole or any part of a payment of less favoured area support pursuant to regulation 17, unless the sum recovered is paid as a result of their own error, interest shall be charged thereon at the rate of one percentage point above the sterling three month London Interbank Offered Rate on a day-to-day basis for the period from payment to recovery. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 19. Cross-border holdings (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 19. Cross-border holdings (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Schedule 7 applies to cross-border holdings. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Schedule 7 applies to cross-border holdings. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 20. Offences (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 20. Offences (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) Any person who, for the purposes of obtaining for the benefit of that or any other person part of, or the whole of, a payment of less favoured area support under these Regulations, knowingly or recklessly makes a statement which is false in any material particular, shall be guilty of an offence. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) Any person who, for the purposes of obtaining for the benefit of that or any other person part of, or the whole of, a payment of less favoured area support under these Regulations, knowingly or recklessly makes a statement which is false in any material particular, shall be guilty of an offence. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) Any person who intentionally obstructs an authorised person (or a person assisting that authorised person in accordance with regulation 15) in the exercise of the powers conferred by regulation 15 shall be guilty of an offence. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) Any person who intentionally obstructs an authorised person (or a person assisting that authorised person in accordance with regulation 15) in the exercise of the powers conferred by regulation 15 shall be guilty of an offence. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(3) Any person who without reasonable excuse fails to comply with a requirement made under regulation 15 shall be guilty of an offence. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(3) Any person who without reasonable excuse fails to comply with a requirement made under regulation 15 shall be guilty of an offence. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 21. Penalties (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 21. Penalties (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) A person guilty of an offence under regulation 20(1) or (2) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) A person guilty of an offence under regulation 20(1) or (2) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) A person guilty of an offence under regulation 20(3) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) A person guilty of an offence under regulation 20(3) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 22. Time limit for prosecutions (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 22. Time limit for prosecutions (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) Summary proceedings for an offence under regulation 20 may be commenced within the period of 12 months from the date on which the offence was committed. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) Summary proceedings for an offence under regulation 20 may be commenced within the period of 12 months from the date on which the offence was committed. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) Subsection (3) of section 136 of the Criminal Procedure (Scotland) Act 1995 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117011] (date of commencement of proceedings) applies for the purposes of this regulation as it does for the purposes of that section. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) Subsection (3) of section 136 of the Criminal Procedure (Scotland) Act 1995 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117011] (date of commencement of proceedings) applies for the purposes of this regulation as it does for the purposes of that section. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 23. Offences by bodies corporate (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 23. Offences by bodies corporate (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) Where an offence under these Regulations committed by a body corporate or a partnership is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or a person who was purporting to act in any such capacity (or, in the case of a partnership, partner or a person who was purporting to act as such), that person as well as the body corporate or the partnership, as the case may be, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) Where an offence under these Regulations committed by a body corporate or a partnership is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or a person who was purporting to act in any such capacity (or, in the case of a partnership, partner or a person who was purporting to act as such), that person as well as the body corporate or the partnership, as the case may be, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) Where the affairs of a body corporate are managed by its members, paragraph (1) shall apply in relation to the acts or defaults of a member in connection with the functions of management of that member as if that member were a director of the body corporate. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) Where the affairs of a body corporate are managed by its members, paragraph (1) shall apply in relation to the acts or defaults of a member in connection with the functions of management of that member as if that member were a director of the body corporate. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 24. Appeal against decision to withhold or recover payment of less favoured area support (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 24. Appeal against decision to withhold or recover payment of less favoured area support (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) Where the Scottish Ministers withhold or recover the whole or any part of any grant under regulation 17, the applicant may apply for a review of the decision by the Scottish Ministers. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) Where the Scottish Ministers withhold or recover the whole or any part of any grant under regulation 17, the applicant may apply for a review of the decision by the Scottish Ministers. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) The review referred to in paragraph (1) must be applied for in accordance with the provisions of the *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] Rural Payments (Appeals) (Scotland) Regulations 2009[^key-5010bbedde29e457e9ac350de18d97db] *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a].
+(2) The review referred to in paragraph (1) must be applied for in accordance with the provisions of the *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] Rural Payments (Appeals) (Scotland) Regulations 2009[^c-5010bbedde29e457e9ac350de18d97db] *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a].
 
-## 25. Appeal against decision as to eligibility of holding (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 25. Appeal against decision as to eligibility of holding (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) An applicant may apply to the Hill Farming Advisory Committee (“ *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**the Committee *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**”) for a review of the decision of the Scottish Ministers of the eligibility of the holding under regulation 6(1). *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) An applicant may apply to the Hill Farming Advisory Committee (“ *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**the Committee *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**”) for a review of the decision of the Scottish Ministers of the eligibility of the holding under regulation 6(1). *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) The applicant must apply to the Committee for review within 60 days of the date of the decision of the Scottish Ministers. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) The applicant must apply to the Committee for review within 60 days of the date of the decision of the Scottish Ministers. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(3) The application for review must be in writing and accompanied by such information as the Committee considers necessary. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(3) The application for review must be in writing and accompanied by such information as the Committee considers necessary. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(4) The Committee shall determine the review of the decision and notify its determination to the Scottish Ministers and the applicant within 10 days of reaching that determination. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(4) The Committee shall determine the review of the decision and notify its determination to the Scottish Ministers and the applicant within 10 days of reaching that determination. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(5) Subject to regulation 26, the determination of the Committee shall be binding on the Scottish Ministers. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(5) Subject to regulation 26, the determination of the Committee shall be binding on the Scottish Ministers. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 26. Review (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 26. Review (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(1) An applicant may apply to the Scottish Ministers in writing for review of the determination referred to in regulation 25(4). *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(1) An applicant may apply to the Scottish Ministers in writing for review of the determination referred to in regulation 25(4). *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(2) The applicant must apply to the Scottish Ministers for review within 60 days of the date of the determination referred to in regulation 25(4). *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(2) The applicant must apply to the Scottish Ministers for review within 60 days of the date of the determination referred to in regulation 25(4). *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(3) The review referred to in paragraph (1) shall be undertaken by a person appointed by the Chairman of the Scottish Branch of the Royal Institution of Chartered Surveyors. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(3) The review referred to in paragraph (1) shall be undertaken by a person appointed by the Chairman of the Scottish Branch of the Royal Institution of Chartered Surveyors. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(4) The person appointed for the purpose of this regulation shall review the said determination and may– *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(4) The person appointed for the purpose of this regulation shall review the said determination and may– *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-- (a) consider any document or other evidence produced by the applicant or the Scottish Ministers; *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (b) invite the applicant and the Scottish Ministers to provide such further information relevant to the review as the person appointed considers appropriate; and *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
-- (c) give the applicant and the Scottish Ministers an opportunity to give evidence or to make representations in person or through a representative. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+- (a) consider any document or other evidence produced by the applicant or the Scottish Ministers; *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (b) invite the applicant and the Scottish Ministers to provide such further information relevant to the review as the person appointed considers appropriate; and *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
+- (c) give the applicant and the Scottish Ministers an opportunity to give evidence or to make representations in person or through a representative. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(5) The person appointed shall review the said determination and shall make a decision confirming or refusing that determination. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(5) The person appointed shall review the said determination and shall make a decision confirming or refusing that determination. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-(6) The person appointed shall be entitled to require the reasonable costs of the review to be paid by the unsuccessful party and the person appointed shall determine the amount of such costs. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+(6) The person appointed shall be entitled to require the reasonable costs of the review to be paid by the unsuccessful party and the person appointed shall determine the amount of such costs. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## 27. Amendment of the Agricultural Subsidies (Appeals) (Scotland) Regulations 2000[^key-6a58728679758a7b411015412874b44b]
+## 27. Amendment of the Agricultural Subsidies (Appeals) (Scotland) Regulations 2000[^c-6a58728679758a7b411015412874b44b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 28. Revocation and savings provisions (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+## 28. Revocation and savings provisions (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Other than for the purposes of regulations 13 to 24 of the Less Favoured Area Support Scheme (Scotland) Regulations 2002 in relation to payments made thereunder, those Regulations (except regulations 25 and 26) are hereby revoked. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Other than for the purposes of regulations 13 to 24 of the Less Favoured Area Support Scheme (Scotland) Regulations 2002 in relation to payments made thereunder, those Regulations (except regulations 25 and 26) are hereby revoked. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-ROSS FINNIE *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+ROSS FINNIE *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-A member of the Scottish Executive *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+A member of the Scottish Executive *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Pentland House, Edinburgh *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Pentland House, Edinburgh *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-3rd March 2003 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+3rd March 2003 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## SCHEDULE 1 (affected by repeal, see note) — LIVESTOCK UNITS AND STOCKING DENSITY (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a]
+## SCHEDULE 1 (affected by repeal, see note) — LIVESTOCK UNITS AND STOCKING DENSITY (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a]
 
-Regulation 2(1) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Regulation 2(1) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-### PART I (affected by repeal, see note) — CALCULATION OF LIVESTOCK UNITS (“LU”) (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a]
+### PART I (affected by repeal, see note) — CALCULATION OF LIVESTOCK UNITS (“LU”) (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a]
 
 <table>
 <tbody>
@@ -547,112 +547,112 @@ Regulation 2(1) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222f
 </tbody>
 </table>
 
-[^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a]
+[^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a]
 
-### PART II (affected by repeal, see note) — CALCULATION OF STOCKING DENSITY (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a]
+### PART II (affected by repeal, see note) — CALCULATION OF STOCKING DENSITY (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a]
 
-| *Total LFASS Livestock Units (A + B + C + D + E + F + G + H) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]* | \= | *\_I\_LU *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]* |
+| *Total LFASS Livestock Units (A + B + C + D + E + F + G + H) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]* | \= | *\_I\_LU *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]* |
 | --- | --- | --- |
-| Total Forage Area *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] | \= | \_J\_Ha *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] |
-| Stocking Density (to two decimal places) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] | \= | I divided by J *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] |
+| Total Forage Area *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] | \= | \_J\_Ha *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] |
+| Stocking Density (to two decimal places) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] | \= | I divided by J *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] |
 
-## SCHEDULE 2 (affected by repeal, see note) — USUAL GOOD FARMING PRACTICES (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a]
+## SCHEDULE 2 (affected by repeal, see note) — USUAL GOOD FARMING PRACTICES (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a]
 
-Regulation 2(1) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Regulation 2(1) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-### PART I (affected by repeal, see note) — ENVIRONMENTAL LEGISLATION (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a]
+### PART I (affected by repeal, see note) — ENVIRONMENTAL LEGISLATION (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a]
 
-#### 1. Water pollution (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+#### 1. Water pollution (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-The Control of Pollution Act 1974 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117041].
+The Control of Pollution Act 1974 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117041].
 
-**2.** The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil (Scotland) Regulations 2001 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117051].
+**2.** The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil (Scotland) Regulations 2001 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117051].
 
-**3.** The Groundwater Regulations 1998 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117061].
+**3.** The Groundwater Regulations 1998 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117061].
 
-#### 4. Air pollution (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+#### 4. Air pollution (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-The Clean Air Act 1993 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117071].
+The Clean Air Act 1993 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117071].
 
-**5.** The Hill Farming Act 1946 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117081].
+**5.** The Hill Farming Act 1946 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117081].
 
-#### 6. Fertilisers and Pesticides (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+#### 6. Fertilisers and Pesticides (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-The Action Programme for Nitrate Vulnerable Zones (Scotland) Regulations 2003 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117091].
+The Action Programme for Nitrate Vulnerable Zones (Scotland) Regulations 2003 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117091].
 
-**7.** Part III of the Food and Environment Protection Act 1985 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117101] and the Control of Pesticides Regulations 1986 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117111].
+**7.** Part III of the Food and Environment Protection Act 1985 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117101] and the Control of Pesticides Regulations 1986 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117111].
 
-**8.** The Plant Protection Products Regulations 1995 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117121].
+**8.** The Plant Protection Products Regulations 1995 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117121].
 
-#### 9. Designated sites (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+#### 9. Designated sites (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-The Ancient Monuments and Archaeological Areas Act 1979 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117131].
+The Ancient Monuments and Archaeological Areas Act 1979 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117131].
 
-**10.** The Wildlife and Countryside Act 1981 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117141].
+**10.** The Wildlife and Countryside Act 1981 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117141].
 
-**11.** The Conservation (Natural Habitats etc.) Regulations 1994 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117151].
+**11.** The Conservation (Natural Habitats etc.) Regulations 1994 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117151].
 
-**12.** The Ancient Monuments (Class Consents) (Scotland) Order 1996 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117161].
+**12.** The Ancient Monuments (Class Consents) (Scotland) Order 1996 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117161].
 
-#### 13. Forestry Management (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+#### 13. Forestry Management (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-The Forestry Act 1967 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] [^c5117171] (c.10).
+The Forestry Act 1967 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] [^c5117171] (c.10).
 
-### PART II (affected by repeal, see note) — VERIFIABLE STANDARDS (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a]
+### PART II (affected by repeal, see note) — VERIFIABLE STANDARDS (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a]
 
-**1.** Any farmer who constructs a new silage or storage facility must give notification to the Scottish Environmental Protection Agency prior to starting to use it. The farmer must keep records showing that this notification has been given. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+**1.** Any farmer who constructs a new silage or storage facility must give notification to the Scottish Environmental Protection Agency prior to starting to use it. The farmer must keep records showing that this notification has been given. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-**2.** Where it is proposed to dispose of sheep dip on a holding, prior authorisation to do this must be obtained from the Scottish Environmental Protection Agency. The farmer must keep documents and records showing that this authorisation has been obtained. The farmer must keep records detailing the manner of disposal of the sheep dip. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+**2.** Where it is proposed to dispose of sheep dip on a holding, prior authorisation to do this must be obtained from the Scottish Environmental Protection Agency. The farmer must keep documents and records showing that this authorisation has been obtained. The farmer must keep records detailing the manner of disposal of the sheep dip. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-**3.** Trimming of hedgerows must not be carried out between 1st March and 31st July. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+**3.** Trimming of hedgerows must not be carried out between 1st March and 31st July. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-**4.** Removal or destruction of any hedges, stone walls or other boundary features shall not be allowed except with the prior written agreement of the Scottish Ministers. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+**4.** Removal or destruction of any hedges, stone walls or other boundary features shall not be allowed except with the prior written agreement of the Scottish Ministers. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-**5.** Any farmer who intends to undertake any operation which is likely to damage a Site of Special Scientific Interest designated pursuant to section 28 of the Wildlife and Countryside Act 1981 must obtain the prior approval of Scottish Natural Heritage to the carrying out of that operation. The farmer shall maintain records showing that this authorisation has been obtained. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+**5.** Any farmer who intends to undertake any operation which is likely to damage a Site of Special Scientific Interest designated pursuant to section 28 of the Wildlife and Countryside Act 1981 must obtain the prior approval of Scottish Natural Heritage to the carrying out of that operation. The farmer shall maintain records showing that this authorisation has been obtained. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-**6.** Livestock shall be managed in such a way as to avoid overgrazing. Where the Scottish Ministers form the opinion that land was being overgrazed, a management regime including a maximum (and, where appropriate, a minimum) stocking rate to be observed on that site will be prescribed. Overgrazing is defined as grazing land with livestock in such numbers as to adversely affect the growth, quality or species composition of vegetation (other than vegetation normally grazed to destruction) on that land to a significant degree. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+**6.** Livestock shall be managed in such a way as to avoid overgrazing. Where the Scottish Ministers form the opinion that land was being overgrazed, a management regime including a maximum (and, where appropriate, a minimum) stocking rate to be observed on that site will be prescribed. Overgrazing is defined as grazing land with livestock in such numbers as to adversely affect the growth, quality or species composition of vegetation (other than vegetation normally grazed to destruction) on that land to a significant degree. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-**7.** Unsuitable supplementary feeding methods shall be avoided. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+**7.** Unsuitable supplementary feeding methods shall be avoided. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-**8.** Undergrazing shall be avoided. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+**8.** Undergrazing shall be avoided. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-**9.** In paragraph 8, “ *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**Undergrazing *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]**” has the meaning of not using land fully or scrub or coarse becoming evident, where it is detrimental to the environmental interest of the site. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+**9.** In paragraph 8, “ *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**Undergrazing *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]**” has the meaning of not using land fully or scrub or coarse becoming evident, where it is detrimental to the environmental interest of the site. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-## SCHEDULE 3 (affected by repeal, see note) — GRAZING CATEGORY: HECTARE VALUES (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a]
+## SCHEDULE 3 (affected by repeal, see note) — GRAZING CATEGORY: HECTARE VALUES (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a]
 
-Regulation 9(2) and (3) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Regulation 9(2) and (3) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-| *STOCKING DENSITY *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]* | *GRAZING CATEGORY *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]* | *HECTARE VALUE *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]* |
+| *STOCKING DENSITY *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]* | *GRAZING CATEGORY *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]* | *HECTARE VALUE *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]* |
 | --- | --- | --- |
-| Up to 0.19 LU/ha *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] | A | 0.167 |
-| 0.2 to 0.39 LU/ha *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] | B | 0.333 |
-| 0.4 to 0.59 LU/ha *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] | C | 0.667 |
-| 0.6 or more LU/ha *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] | D | 0.8 |
+| Up to 0.19 LU/ha *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] | A | 0.167 |
+| 0.2 to 0.39 LU/ha *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] | B | 0.333 |
+| 0.4 to 0.59 LU/ha *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] | C | 0.667 |
+| 0.6 or more LU/ha *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] | D | 0.8 |
 
-## SCHEDULE 4 (affected by repeal, see note) — ENTERPRISE MIX (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a]
+## SCHEDULE 4 (affected by repeal, see note) — ENTERPRISE MIX (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a]
 
-Regulation 11 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Regulation 11 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-| *ENTERPRISE MIX *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]* | *HECTARE MULTIPLIER *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]* |
+| *ENTERPRISE MIX *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]* | *HECTARE MULTIPLIER *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]* |
 | --- | --- |
-| If 50% or more of livestock units are made up of cattle LU. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] | 1.70 |
-| If 10% or more, but less than 50% of livestock units are made up of cattle LU. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] | 1.35 |
+| If 50% or more of livestock units are made up of cattle LU. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] | 1.70 |
+| If 10% or more, but less than 50% of livestock units are made up of cattle LU. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] | 1.35 |
 
-## SCHEDULE 5 (affected by repeal, see note) — RATES OF PAYMENT FOR LESS FAVOURED AREA SUPPORT (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a]
+## SCHEDULE 5 (affected by repeal, see note) — RATES OF PAYMENT FOR LESS FAVOURED AREA SUPPORT (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a]
 
-Regulation 12 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Regulation 12 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-| *CATEGORY *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]* | *RATE *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]* |
+| *CATEGORY *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]* | *RATE *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]* |
 | --- | --- |
-| Very Fragile (Islands) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] | £44.50 |
-| Fragile (Mainland) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] | £42.50 |
-| Standard *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a] | £36.50 |
+| Very Fragile (Islands) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] | £44.50 |
+| Fragile (Mainland) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] | £42.50 |
+| Standard *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a] | £36.50 |
 
-## SCHEDULE 6 (affected by repeal, see note) — FRAGILITY CATEGORIES (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a]
+## SCHEDULE 6 (affected by repeal, see note) — FRAGILITY CATEGORIES (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a]
 
-Regulation 12(4) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Regulation 12(4) *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-### FRAGILITY MARKERS FOR PARISH CODE NUMBERS (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+### FRAGILITY MARKERS FOR PARISH CODE NUMBERS (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
 <table>
 <tbody>
@@ -706,35 +706,35 @@ Regulation 12(4) *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222
 </tbody>
 </table>
 
-[^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a]
+[^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a]
 
-## SCHEDULE 7 (affected by repeal, see note) — AGENCY AND CROSS BORDER HOLDINGS (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a][^key-a7af7b5988726385871b9a222fc1b23a]
+## SCHEDULE 7 (affected by repeal, see note) — AGENCY AND CROSS BORDER HOLDINGS (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a][^c-a7af7b5988726385871b9a222fc1b23a]
 
-Regulation 19 *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Regulation 19 *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-### 1. Agency arrangements (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+### 1. Agency arrangements (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-The Scottish Ministers may, with the agreement of any competent authority (as defined for the purposes of the Integrated Administration and Control System Regulations 1993), arrange for any of their functions under these Regulations in relation to any claim to be exercised on their behalf by that competent authority. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+The Scottish Ministers may, with the agreement of any competent authority (as defined for the purposes of the Integrated Administration and Control System Regulations 1993), arrange for any of their functions under these Regulations in relation to any claim to be exercised on their behalf by that competent authority. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-**2.** The Scottish Ministers may also agree to exercise functions on behalf of another competent authority corresponding to those which are exercisable by the Scottish Ministers under these Regulations. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+**2.** The Scottish Ministers may also agree to exercise functions on behalf of another competent authority corresponding to those which are exercisable by the Scottish Ministers under these Regulations. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-**3.** Any such arrangement shall be in writing and be signed by or on behalf of the Scottish Ministers and the competent authority and any such arrangement may be subject to such conditions (including conditions as to the costs and charge for costs) as may be agreed from time to time. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+**3.** Any such arrangement shall be in writing and be signed by or on behalf of the Scottish Ministers and the competent authority and any such arrangement may be subject to such conditions (including conditions as to the costs and charge for costs) as may be agreed from time to time. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-### 4. Set off (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+### 4. Set off (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Without prejudice to the amount of any sum payable by the Scottish Ministers to any other competent authority, the amount of any sum payable by the Scottish Ministers, whether as principal or agent, by way of a specified payment may be set off against the amount of any sum recoverable by the Scottish Ministers, whether as principal or agent. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Without prejudice to the amount of any sum payable by the Scottish Ministers to any other competent authority, the amount of any sum payable by the Scottish Ministers, whether as principal or agent, by way of a specified payment may be set off against the amount of any sum recoverable by the Scottish Ministers, whether as principal or agent. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-### 5. Calculation of payments in respect of cross border holdings (affected by repeal, see note)[^key-a7af7b5988726385871b9a222fc1b23a]
+### 5. Calculation of payments in respect of cross border holdings (affected by repeal, see note)[^c-a7af7b5988726385871b9a222fc1b23a]
 
-Where any holding in respect of which a claim has been made is a cross border holding, the Scottish Ministers may pay, on such occasions as they consider fit, in respect of the Scheme Year in question to an applicant less favoured area support for carrying out eligible agricultural activity on eligible land, providing the applicant has declared the eligible land in an area aid application which has been treated as a valid application by the competent authority concerned. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+Where any holding in respect of which a claim has been made is a cross border holding, the Scottish Ministers may pay, on such occasions as they consider fit, in respect of the Scheme Year in question to an applicant less favoured area support for carrying out eligible agricultural activity on eligible land, providing the applicant has declared the eligible land in an area aid application which has been treated as a valid application by the competent authority concerned. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-**6.** Whether the eligible agricultural activity undertaken on the eligible land is an integral part of the management of the whole holding or independently managed, Scottish Ministers shall only pay less favoured area support in respect of the eligible agricultural activity actually undertaken on eligible land defined as a less favoured area for the purposes of this instrument. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+**6.** Whether the eligible agricultural activity undertaken on the eligible land is an integral part of the management of the whole holding or independently managed, Scottish Ministers shall only pay less favoured area support in respect of the eligible agricultural activity actually undertaken on eligible land defined as a less favoured area for the purposes of this instrument. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-**7.** For cross-border holdings where the applicant has submitted a declaration of eligible land to another competent authority, the Scottish Ministers shall apply the standard rate of payment. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+**7.** For cross-border holdings where the applicant has submitted a declaration of eligible land to another competent authority, the Scottish Ministers shall apply the standard rate of payment. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-**8.** Applicants in respect of cross border holdings are required to supply such information as authorised persons may reasonably require to assess the eligible agricultural activity actually undertaken on eligible land defined as a less favoured area for the purposes of this instrument. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+**8.** Applicants in respect of cross border holdings are required to supply such information as authorised persons may reasonably require to assess the eligible agricultural activity actually undertaken on eligible land defined as a less favoured area for the purposes of this instrument. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
-**9.** All conditions applying to applicants in respect of holdings lying wholly within the less favoured areas shall apply equally to applicants in respect of cross border holdings. *(affected by repeal, see note)*[^key-a7af7b5988726385871b9a222fc1b23a]
+**9.** All conditions applying to applicants in respect of holdings lying wholly within the less favoured areas shall apply equally to applicants in respect of cross border holdings. *(affected by repeal, see note)*[^c-a7af7b5988726385871b9a222fc1b23a]
 
 *(This note is not part of the Regulations)*
 
@@ -758,7 +758,7 @@ Regulations 24 to 26 deal with an applicant’s right of appeal against decision
 
 ## Annotations
 
-[^key-a7af7b5988726385871b9a222fc1b23a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2003/129) revoked in part (18.3.2004) by [The Less Favoured Area Support Scheme (Scotland) Regulations 2004 (S.S.I. 2004/70)](https://www.legislation.gov.uk/ssi/2004/70), [reg. 27](https://www.legislation.gov.uk/ssi/2004/70/regulation/27) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2004/70/regulation/1/2))
+[^c-a7af7b5988726385871b9a222fc1b23a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2003/129) revoked in part (18.3.2004) by [The Less Favoured Area Support Scheme (Scotland) Regulations 2004 (S.S.I. 2004/70)](https://www.legislation.gov.uk/ssi/2004/70), [reg. 27](https://www.legislation.gov.uk/ssi/2004/70/regulation/27) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2004/70/regulation/1/2))
 
 [^c5116811]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/15/3). The function conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
@@ -802,9 +802,9 @@ Regulations 24 to 26 deal with an applicant’s right of appeal against decision
 
 [^c5117011]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-5010bbedde29e457e9ac350de18d97db]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/ssi/2003/129/regulation/24/2) substituted (20.11.2009) by virtue of [The Rural Payments (Appeals) (Scotland) Regulations 2009 (S.S.I. 2009/376)](https://www.legislation.gov.uk/ssi/2009/376), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/376/regulation/1/1), [11(2)(d)](https://www.legislation.gov.uk/ssi/2009/376/regulation/11/2/d) (with [reg. 11(1)](https://www.legislation.gov.uk/ssi/2009/376/regulation/11/1))
+[^c-5010bbedde29e457e9ac350de18d97db]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/ssi/2003/129/regulation/24/2) substituted (20.11.2009) by virtue of [The Rural Payments (Appeals) (Scotland) Regulations 2009 (S.S.I. 2009/376)](https://www.legislation.gov.uk/ssi/2009/376), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/376/regulation/1/1), [11(2)(d)](https://www.legislation.gov.uk/ssi/2009/376/regulation/11/2/d) (with [reg. 11(1)](https://www.legislation.gov.uk/ssi/2009/376/regulation/11/1))
 
-[^key-6a58728679758a7b411015412874b44b]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/ssi/2003/129/regulation/27) revoked (1.10.2004) by [The Agricultural Subsidies (Appeals) (Scotland) Regulations 2004 (S.S.I. 2004/381)](https://www.legislation.gov.uk/ssi/2004/381), [regs. 1](https://www.legislation.gov.uk/ssi/2004/381/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2004/381/regulation/14/2), [sch.](https://www.legislation.gov.uk/ssi/2004/381/schedule)
+[^c-6a58728679758a7b411015412874b44b]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/ssi/2003/129/regulation/27) revoked (1.10.2004) by [The Agricultural Subsidies (Appeals) (Scotland) Regulations 2004 (S.S.I. 2004/381)](https://www.legislation.gov.uk/ssi/2004/381), [regs. 1](https://www.legislation.gov.uk/ssi/2004/381/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2004/381/regulation/14/2), [sch.](https://www.legislation.gov.uk/ssi/2004/381/schedule)
 
 [^c5117041]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 

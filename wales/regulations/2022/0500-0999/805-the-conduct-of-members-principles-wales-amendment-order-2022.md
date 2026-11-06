@@ -47,13 +47,13 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 49(
 
 In accordance with section 49(5)[^f00002] of that Act, the Welsh Ministers have consulted such representatives of relevant authorities as they consider appropriate, the Auditor General for Wales, the Public Services Ombudsman for Wales, and such other persons as they considered appropriate.
 
-## 1. Title and coming into force[^key-523fae9d0738cc028f93f66da336d40a]
+## 1. Title and coming into force[^c-523fae9d0738cc028f93f66da336d40a]
 
 (1) The title of this Order is the Conduct of Members (Principles) (Wales) (Amendment) Order 2022.
 
 (2) This Order comes into force on 5 August 2022.
 
-## 2. Amendment of article 2 of the Conduct of Members (Principles) (Wales) Order 2001[^key-1b34501bbea046f6683ac6682a4ebfc0]
+## 2. Amendment of article 2 of the Conduct of Members (Principles) (Wales) Order 2001[^c-1b34501bbea046f6683ac6682a4ebfc0]
 
 In the definition of “relevant authority” in article 2 (*Interpretation*) of the Conduct of Members (Principles) (Wales) Order 2001[^f00003] after “a community council,” insert—
 
@@ -83,9 +83,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: Section 49(5) was amended by paragraph 8(5) of Schedule 4 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), paragraph 53(3) of Schedule 2 to the Public Audit (Wales) Act [2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23) and paragraph 2(b) of Schedule 4 to the Public Service Ombudsman (Wales) Act [2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10).
 
-[^key-523fae9d0738cc028f93f66da336d40a]: Commencement: Art. 1 in force at 5.8.2022, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2022/805/article/1/2)
+[^c-523fae9d0738cc028f93f66da336d40a]: Commencement: Art. 1 in force at 5.8.2022, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2022/805/article/1/2)
 
-[^key-1b34501bbea046f6683ac6682a4ebfc0]: Commencement: Art. 2 in force at 5.8.2022, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2022/805/article/1/2)
+[^c-1b34501bbea046f6683ac6682a4ebfc0]: Commencement: Art. 2 in force at 5.8.2022, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2022/805/article/1/2)
 
 [^f00003]: Footnote: [S.I. 2001/2276 (W. 166)](https://www.legislation.gov.uk/wsi/2001/2276), to which there are amendments not relevant to this order.
 

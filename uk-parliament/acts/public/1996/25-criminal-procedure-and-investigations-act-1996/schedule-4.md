@@ -45,14 +45,14 @@ Section 79.
 > - (b) a person is charged with an indictable offence and proceedings for the trial of the person on the charge concerned are transferred to the Crown Court by virtue of a notice of transfer given under Article 3 of the Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988 (serious or complex fraud),
 > - (c) a person is charged with an indictable offence and proceedings for the trial of the person on the charge concerned are transferred to the Crown Court by virtue of a notice of transfer given under Article 4 of the Children’s Evidence (Northern Ireland) Order 1995 (certain cases involving children),
 > - (d) a count charging a person with a summary offence is included in an indictment under the authority of Article 193A of the Road Traffic (Northern Ireland) Order 1981 (offences relating to drink or drugs), or
-> - (e) an indictment charging a person with an indictable offence is presented under the authority of section 2(2)(c), (d), (e) [^key-408a5351354c4d5ac501a97035ad70a6]... of the Grand Jury (Abolition) Act (Northern Ireland) 1969.
+> - (e) an indictment charging a person with an indictable offence is presented under the authority of section 2(2)(c), (d), (e) [^c-408a5351354c4d5ac501a97035ad70a6]... of the Grand Jury (Abolition) Act (Northern Ireland) 1969.
 >
 > (2A) In subsection (2)—
 >
 > - “**indictable offence**” means an offence which is triable on indictment, whether it is exclusively so triable or not;
 > - “**summary offence**” has the same meaning as in Article 193A of the Road Traffic (Northern Ireland) Order 1981.
 
-**4A.**[^key-c4700b4feb743d12c1bbf70c2395b118] After section 2(5) insert—
+**4A.**[^c-c4700b4feb743d12c1bbf70c2395b118] After section 2(5) insert—
 
 > (5A) References to the appropriate authority—
 >
@@ -65,7 +65,7 @@ Section 79.
 
 (2) In section 5(3) for “paragraph 4 of Schedule 6 to the Criminal Justice Act 1991” substitute “ paragraph 3 of Schedule 1 to the Children’s Evidence (Northern Ireland) Order 1995 ”.
 
-**5A.**[^key-e82316ef4d9e2ce80759ad1b349efd20] In section 6A(4) for “Secretary of State” substitute “appropriate authority”.
+**5A.**[^c-e82316ef4d9e2ce80759ad1b349efd20] In section 6A(4) for “Secretary of State” substitute “appropriate authority”.
 
 **5B.** In section 12(2) and (4) for “Secretary of State” substitute “appropriate authority”.
 
@@ -136,7 +136,7 @@ Section 79.
 
 .
 
-**14A.**[^key-eed2839cd5a9fd2fc748c8b886e1a36a] In section 21A—
+**14A.**[^c-eed2839cd5a9fd2fc748c8b886e1a36a] In section 21A—
 
 - (a) in subsections (1) and (4) to (6) for “Secretary of State” substitute “appropriate authority”;
 - (b) in subsection (4)(c) for “he” substitute “the appropriate authority”;
@@ -156,7 +156,7 @@ Section 79.
 
   .
 
-### Part 2 of this Act[^key-10938abab004ec71a0d2a3549a094c25]
+### Part 2 of this Act[^c-10938abab004ec71a0d2a3549a094c25]
 
 **14B.** In section 23—
 
@@ -198,7 +198,7 @@ Section 79.
 
 > (2) For the purposes of this Part a hearing is also a pre-trial hearing if—
 >
-> - (a) it relates to a trial on indictment to be held in pursuance of an indictment presented under the authority of section 2(2)(c), (d), (e) [^key-1b8f1c0b3180db554a847ccf48c67e80]... of the Grand Jury (Abolition) Act (Northern Ireland) 1969, and
+> - (a) it relates to a trial on indictment to be held in pursuance of an indictment presented under the authority of section 2(2)(c), (d), (e) [^c-1b8f1c0b3180db554a847ccf48c67e80]... of the Grand Jury (Abolition) Act (Northern Ireland) 1969, and
 > - (b) it takes place after the indictment has been presented and before the start of the trial.
 >
 > (2A)[^c19068551] But, for the purposes of this Part, a hearing of the kind mentioned in section 45(2)(b) of the Criminal Justice Act 2003 is not a pre-trial hearing.
@@ -262,9 +262,9 @@ Section 79.
 
 **22.** In section 57 omit subsection (1).
 
-**23.**[^key-f1de4bf121fe351f30408b25c6a63dcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-f1de4bf121fe351f30408b25c6a63dcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-89678c034c8ec1f24fe7d440be83f2db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-89678c034c8ec1f24fe7d440be83f2db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **25.** In section 62 for subsections (1) and (2) substitute—
 
@@ -511,9 +511,9 @@ Section 79.
 
 **32.** In section 75(1) for “sections 52(3) and 54(7)” substitute “ section 54(7) ”.
 
-**33.**[^key-018be99834ced4ef3ca69c46a2b12b67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-018be99834ced4ef3ca69c46a2b12b67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33A.**[^key-47b388e7c909d7346dc6721d37a83b6c] After section 77 insert—
+**33A.**[^c-47b388e7c909d7346dc6721d37a83b6c] After section 77 insert—
 
 > **77A. Orders and regulations (Department of Justice)**
 >
@@ -724,7 +724,7 @@ Section 79.
 > **8.** (1) This Schedule applies in relation to an offence if—
 >
 > - (a) the accused is committed for trial on the charge concerned, or proceedings for the trial on the charge concerned are transferred to the Crown Court, on or after the appointed day, or
-> - (b) an indictment relating to the offence is presented on or after the appointed day under the authority of section 2(2)(c), (e) [^key-f40f589e94773081f5d3fdfd91098fc5]... of the Grand Jury (Abolition) Act (Northern Ireland) 1969.
+> - (b) an indictment relating to the offence is presented on or after the appointed day under the authority of section 2(2)(c), (e) [^c-f40f589e94773081f5d3fdfd91098fc5]... of the Grand Jury (Abolition) Act (Northern Ireland) 1969.
 >
 > (2) References in this paragraph to the appointed day are to such day as is appointed for the purposes of this Schedule by the Secretary of State by order.
 
@@ -782,11 +782,11 @@ Section 79.
 
 [^c11041051]: Extent: Sch. 4 extends to Northern Ireland but the operation of Sch. 4 is limited by application as mentioned in s. 79(4)
 
-[^key-408a5351354c4d5ac501a97035ad70a6]: Textual amendment: Sch. 4 para. 4: "Section 1 as it applies to Northern Ireland, in subsection (2)(e), the words "or (f)"" repealed (12.4.2010) by virtue of [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), ss. 86, 87, Sch. 13; [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), art. 2, Sch. para. 21(q)
+[^c-408a5351354c4d5ac501a97035ad70a6]: Textual amendment: Sch. 4 para. 4: "Section 1 as it applies to Northern Ireland, in subsection (2)(e), the words "or (f)"" repealed (12.4.2010) by virtue of [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), ss. 86, 87, Sch. 13; [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), art. 2, Sch. para. 21(q)
 
-[^key-c4700b4feb743d12c1bbf70c2395b118]: Textual amendment: [Sch. 4 para. 4A](https://www.legislation.gov.uk/ukpga/1996/25/schedule/4/paragraph/4A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 34(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/34/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-c4700b4feb743d12c1bbf70c2395b118]: Textual amendment: [Sch. 4 para. 4A](https://www.legislation.gov.uk/ukpga/1996/25/schedule/4/paragraph/4A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 34(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/34/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-e82316ef4d9e2ce80759ad1b349efd20]: Textual amendment: [Sch. 4 paras. 5A](https://www.legislation.gov.uk/ukpga/1996/25/schedule/4/paragraph/5A), [5B](https://www.legislation.gov.uk/ukpga/1996/25/schedule/4/paragraph/5B) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 34(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/34/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-e82316ef4d9e2ce80759ad1b349efd20]: Textual amendment: [Sch. 4 paras. 5A](https://www.legislation.gov.uk/ukpga/1996/25/schedule/4/paragraph/5A), [5B](https://www.legislation.gov.uk/ukpga/1996/25/schedule/4/paragraph/5B) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 34(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/34/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c19585421]: Textual amendment: Words in Sch. 4 para. 7 substituted (N.I.) (1.8.2007 and shall expire (1.8.2009) in accordance with [s. 9(1)](https://www.legislation.gov.uk/ukpga/2007/6/section/9/1) of the amending Act) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 8](https://www.legislation.gov.uk/ukpga/2007/6/section/8), [53(4)](https://www.legislation.gov.uk/ukpga/2007/6/section/53/4), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/ukpga/2007/6/schedule/1/paragraph/1/3); [S.I. 2007/2045](https://www.legislation.gov.uk/uksi/2007/2045), [art. 2(q)](https://www.legislation.gov.uk/uksi/2007/2045/article/2/q) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2045/article/3) and with [S.I. 2007/2259](https://www.legislation.gov.uk/uksi/2007/2259), [art. 2](https://www.legislation.gov.uk/uksi/2007/2259/article/2))
 
@@ -796,11 +796,11 @@ Section 79.
 
 [^c19068421]: Textual amendment: Words in Sch. 4 para. 13(2) substituted (1.9.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 381](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/381); [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2](https://www.legislation.gov.uk/uksi/2004/2066/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
-[^key-eed2839cd5a9fd2fc748c8b886e1a36a]: Textual amendment: [Sch. 4 para. 14A](https://www.legislation.gov.uk/ukpga/1996/25/schedule/4/paragraph/14A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 34(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/34/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-eed2839cd5a9fd2fc748c8b886e1a36a]: Textual amendment: [Sch. 4 para. 14A](https://www.legislation.gov.uk/ukpga/1996/25/schedule/4/paragraph/14A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 34(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/34/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-10938abab004ec71a0d2a3549a094c25]: Textual amendment: Sch. 4 paras. 14B, 14C and cross-heading inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 34(5)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/34/5) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-10938abab004ec71a0d2a3549a094c25]: Textual amendment: Sch. 4 paras. 14B, 14C and cross-heading inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 34(5)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/34/5) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-1b8f1c0b3180db554a847ccf48c67e80]: Textual amendment: Sch. 4 para. 15: "section 39 as it applies to Northern Ireland, in subsection (2)(a), the words "or (f)"" repealed (12.4.2010) by virtue of [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), ss. 86, 87, Sch. 13; [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), art. 2, Sch. para. 21(q)
+[^c-1b8f1c0b3180db554a847ccf48c67e80]: Textual amendment: Sch. 4 para. 15: "section 39 as it applies to Northern Ireland, in subsection (2)(a), the words "or (f)"" repealed (12.4.2010) by virtue of [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), ss. 86, 87, Sch. 13; [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), art. 2, Sch. para. 21(q)
 
 [^c19068551]: Textual amendment: Words in Sch. 4 para. 15 inserted (24.7.2006 for E.W. and otherwise 8.1.2007) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 331](https://www.legislation.gov.uk/ukpga/2003/44/section/331), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 36 Pt. 4 para. 72(2)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/36/part/4/paragraph/72/2); [S.I. 2006/1835](https://www.legislation.gov.uk/uksi/2006/1835), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/1835/article/2/h) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2006/1835/article/3)); [S.I. 2006/3422](https://www.legislation.gov.uk/uksi/2006/3422), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3422/article/2/c)
 
@@ -816,16 +816,16 @@ Section 79.
 
 [^c11041081]: Textual amendment: Words in Sch. 4 para. 20 substituted (25.7.1997) by [S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160), [art. 58(1)](https://www.legislation.gov.uk/nisi/1996/3160/article/58/1), [Sch. 5 para.18](https://www.legislation.gov.uk/nisi/1996/3160/schedule/5/paragraph/18); [S.R. 1997/267](https://www.legislation.gov.uk/nisr/1997/267), [art. 2(h)](https://www.legislation.gov.uk/nisr/1997/267/article/2/h).
 
-[^key-f1de4bf121fe351f30408b25c6a63dcd]: Textual amendment: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/1996/25/schedule/4/paragraph/23) omitted (1.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 140](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/140) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f1de4bf121fe351f30408b25c6a63dcd]: Textual amendment: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/1996/25/schedule/4/paragraph/23) omitted (1.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 140](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/140) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-89678c034c8ec1f24fe7d440be83f2db]: Textual amendment: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/1996/25/schedule/4/paragraph/24) omitted (1.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 140](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/140) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-89678c034c8ec1f24fe7d440be83f2db]: Textual amendment: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/1996/25/schedule/4/paragraph/24) omitted (1.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 140](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/140) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19585391]: Textual amendment: Sch. 4 para. 27 repealed (N.I.) (1.3.2007) by [The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [41](https://www.legislation.gov.uk/nisi/2007/288/article/41), [Sch. 2](https://www.legislation.gov.uk/nisi/2007/288/schedule/2)
 
-[^key-018be99834ced4ef3ca69c46a2b12b67]: Textual amendment: Sch. 4 para. 33 repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 107](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/107), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-018be99834ced4ef3ca69c46a2b12b67]: Textual amendment: Sch. 4 para. 33 repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 107](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/107), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-47b388e7c909d7346dc6721d37a83b6c]: Textual amendment: Sch. 4 para. 33A inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 34(6)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/34/6) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-47b388e7c909d7346dc6721d37a83b6c]: Textual amendment: Sch. 4 para. 33A inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 34(6)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/34/6) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c11041101]: Marginal citation: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42).
 
-[^key-f40f589e94773081f5d3fdfd91098fc5]: Textual amendment: Sch. 4 para. 35: "Sch. 3 as it applies to Northern Ireland, in para. 8(1)(b), the words "or (f)"" repealed (12.4.2010) by virtue of [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), ss. 86, 87, Sch. 13; [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), art. 2, Sch. para. 21(q)
+[^c-f40f589e94773081f5d3fdfd91098fc5]: Textual amendment: Sch. 4 para. 35: "Sch. 3 as it applies to Northern Ireland, in para. 8(1)(b), the words "or (f)"" repealed (12.4.2010) by virtue of [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), ss. 86, 87, Sch. 13; [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), art. 2, Sch. para. 21(q)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122A. Further penalties for continuing failure to pay devolved tax[^key-aebe51ac2fedeb93ec8cd2782a6fa433]
+## 122A. Further penalties for continuing failure to pay devolved tax[^c-aebe51ac2fedeb93ec8cd2782a6fa433]
 
 *Extent: E+W*
 
-(1) This section applies where a person is liable to a penalty under section 122 or 122ZA[^key-bc5a00d9715f806ebf857fc09dffec9c] in respect of a failure to pay an amount of devolved tax on or before the penalty date for that amount.
+(1) This section applies where a person is liable to a penalty under section 122 or 122ZA[^c-bc5a00d9715f806ebf857fc09dffec9c] in respect of a failure to pay an amount of devolved tax on or before the penalty date for that amount.
 
 (2) If any of the amount remains unpaid after the end of the period of 6 months beginning with the day falling 30 days before the penalty date, the person is liable to a further penalty.
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aebe51ac2fedeb93ec8cd2782a6fa433]: Textual amendment: Ss. 122, 122A substituted for s. 122 (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 42](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/42); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-aebe51ac2fedeb93ec8cd2782a6fa433]: Textual amendment: Ss. 122, 122A substituted for s. 122 (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 42](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/42); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-bc5a00d9715f806ebf857fc09dffec9c]: Textual amendment: Words in s. 122A(1) inserted (1.4.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [s. 97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/anaw/2017/3/schedule/4/paragraph/12); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-bc5a00d9715f806ebf857fc09dffec9c]: Textual amendment: Words in s. 122A(1) inserted (1.4.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [s. 97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/anaw/2017/3/schedule/4/paragraph/12); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

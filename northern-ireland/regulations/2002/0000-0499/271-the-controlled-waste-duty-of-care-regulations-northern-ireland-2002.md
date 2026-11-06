@@ -43,7 +43,7 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Articles 2(3) and 5(7) of the Waste and Contaminated Land (Northern Ireland) Order 1997[^f00001] and of all other powers enabling it in that behalf, hereby makes the following regulations: –
 
-## 1. Citation, commencement and interpretation[^key-ae0af192eee3534c7006c756fed0d161]
+## 1. Citation, commencement and interpretation[^c-ae0af192eee3534c7006c756fed0d161]
 
 (1) These Regulations may be cited as the Controlled Waste (Duty of Care) Regulations (Northern Ireland) 2002 and shall come into operation on 1st October 2002.
 
@@ -54,7 +54,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 - “scrap metal” means any old metal, and any broken, worn out, defaced or partly manufactured articles made wholly or partly of metal and any metallic wastes, and also includes old, broken, worn out or defaced tooltips or dies made of any of the materials commonly known as hard metal or of cemented or sintered metallic carbides;
 - “transferor” and “transferee” mean respectively, in relation to a transfer of controlled waste by a person who is subject to the duty imposed by Article 5(1) of the 1997 Order, the person who in compliance with that Article transfers a written description of the waste and the person who receives that description.
 
-## 2. Transfer Notes[^key-77fd12efed877764ab8ffe5af8e3996c]
+## 2. Transfer Notes[^c-77fd12efed877764ab8ffe5af8e3996c]
 
 (1) Subject to paragraph (3), the transferor and the transferee shall, at the same time as the written description of the waste is transferred, ensure that such a document as is described in paragraph (2) (“a transfer note”) is completed and signed on their behalf.
 
@@ -81,15 +81,15 @@ TABLE
 | A person registered as a carrier of controlled waste under Article 39 of the 1997 Order. | His registration number. |
 | A person who is not required to be so registered by virtue of regulations under Article 38(3) of the 1997 Order. |  |
 
-## 3. Duty to keep copies of written descriptions of waste and transfer notes[^key-cd419fdd499f904b45f6997963e0a4cb]
+## 3. Duty to keep copies of written descriptions of waste and transfer notes[^c-cd419fdd499f904b45f6997963e0a4cb]
 
 The transferor and the transferee shall each keep the written description of the waste and the transfer note or copies thereof for a period of two years from the transfer of the controlled waste.
 
-## 4. Duty to furnish documents[^key-60c6a9f8e99e8bdcaefdbe7d8a993dfe]
+## 4. Duty to furnish documents[^c-60c6a9f8e99e8bdcaefdbe7d8a993dfe]
 
 A person who has been served by the Department with a notice in writing specifying or describing any document and requiring its production shall, if the document is one which at that time he is under a duty to keep under regulation 3, furnish the Department with a copy of it within the period (not being less than 7 days) specified in the notice.
 
-## 5. Amendment of the Controlled Waste Regulations (Northern Ireland) 2002[^key-097738991812b5b0f142b7dbba64019c]
+## 5. Amendment of the Controlled Waste Regulations (Northern Ireland) 2002[^c-097738991812b5b0f142b7dbba64019c]
 
 The Controlled Waste Regulations (Northern Ireland) 2002[^f00007] shall be amended as follows: –
 
@@ -144,7 +144,7 @@ Copies of the Commission Decisions referred to in these Regulations can be obtai
 
 [^f00001]: Footnote: S.I. [1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778)
 
-[^key-ae0af192eee3534c7006c756fed0d161]: Commencement: Reg. 1 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/271/regulation/1/1)
+[^c-ae0af192eee3534c7006c756fed0d161]: Commencement: Reg. 1 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/271/regulation/1/1)
 
 [^f00002]: Footnote: O.J. No. L226, 6.9.2000, p. 3
 
@@ -152,16 +152,16 @@ Copies of the Commission Decisions referred to in these Regulations can be obtai
 
 [^f00004]: Footnote: O.J. No. L047, 16.2.2001, p. 32
 
-[^key-77fd12efed877764ab8ffe5af8e3996c]: Commencement: Reg. 2 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/271/regulation/1/1)
+[^c-77fd12efed877764ab8ffe5af8e3996c]: Commencement: Reg. 2 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/271/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1998 No. 289](https://www.legislation.gov.uk/nisr/1998/289)
 
 [^f00006]: Footnote: S.I. [1978/1049 (N.I. 19)](https://www.legislation.gov.uk/nisi/1978/1049)
 
-[^key-cd419fdd499f904b45f6997963e0a4cb]: Commencement: Reg. 3 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/271/regulation/1/1)
+[^c-cd419fdd499f904b45f6997963e0a4cb]: Commencement: Reg. 3 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/271/regulation/1/1)
 
-[^key-60c6a9f8e99e8bdcaefdbe7d8a993dfe]: Commencement: Reg. 4 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/271/regulation/1/1)
+[^c-60c6a9f8e99e8bdcaefdbe7d8a993dfe]: Commencement: Reg. 4 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/271/regulation/1/1)
 
-[^key-097738991812b5b0f142b7dbba64019c]: Commencement: Reg. 5 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/271/regulation/1/1)
+[^c-097738991812b5b0f142b7dbba64019c]: Commencement: Reg. 5 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/271/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 2002 No. 248](https://www.legislation.gov.uk/nisr/2002/248)

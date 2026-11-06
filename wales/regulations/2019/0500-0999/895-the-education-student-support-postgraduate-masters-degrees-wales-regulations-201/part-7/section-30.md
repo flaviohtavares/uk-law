@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Contribution to costs loan[^key-07d793e65d03178185cc9800bb044316]
+## 30. Contribution to costs loan[^c-07d793e65d03178185cc9800bb044316]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A contribution to costs loan is a loan made available by the Welsh Ministers to 
 
 ## Annotations
 
-[^key-07d793e65d03178185cc9800bb044316]: Commencement: Reg. 30 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-07d793e65d03178185cc9800bb044316]: Commencement: Reg. 30 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Economic impact assessment[^key-46c0e2564faf92d9beee84a56fd23202][^key-76db00fdcee52f16a182e85f28ddce01]
+## 135. Economic impact assessment[^c-46c0e2564faf92d9beee84a56fd23202][^c-76db00fdcee52f16a182e85f28ddce01]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ including the impact on copyright owners, developers and users who are individua
 
 ## Annotations
 
-[^key-46c0e2564faf92d9beee84a56fd23202]: Commencement: S. 135 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-46c0e2564faf92d9beee84a56fd23202]: Commencement: S. 135 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-76db00fdcee52f16a182e85f28ddce01]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2025/18/section/135) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/v)
+[^c-76db00fdcee52f16a182e85f28ddce01]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2025/18/section/135) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/v)

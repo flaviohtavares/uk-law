@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 372. Interpretation of the 1978 Order: “insurer”[^key-a9d56410302ff5820ce010acb035fb2e]
+## 372. Interpretation of the 1978 Order: “insurer”[^c-a9d56410302ff5820ce010acb035fb2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9d56410302ff5820ce010acb035fb2e]: Commencement: Art. 372 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a9d56410302ff5820ce010acb035fb2e]: Commencement: Art. 372 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 202. Making claims for compensation[^key-eb421d4a4e17f00b958ae58135ed05dd][^key-9941f20ba1fd043fccf1dc1651d87997]
+## 202. Making claims for compensation[^c-eb421d4a4e17f00b958ae58135ed05dd][^c-9941f20ba1fd043fccf1dc1651d87997]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb421d4a4e17f00b958ae58135ed05dd]: Commencement: S. 202 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
+[^c-eb421d4a4e17f00b958ae58135ed05dd]: Commencement: S. 202 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
 
-[^key-9941f20ba1fd043fccf1dc1651d87997]: Commencement: [S. 202](https://www.legislation.gov.uk/asc/2023/3/section/202) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-9941f20ba1fd043fccf1dc1651d87997]: Commencement: [S. 202](https://www.legislation.gov.uk/asc/2023/3/section/202) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.204. Report of official receiver[^key-34817ed195ca8ae8b88b90983be282a9]
+## 6.204. Report of official receiver[^c-34817ed195ca8ae8b88b90983be282a9]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ If he gives notice under this paragraph, he shall send copies of it, not less th
 
 ## Annotations
 
-[^key-34817ed195ca8ae8b88b90983be282a9]: Commencement: [Rule 6.204](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.204) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-34817ed195ca8ae8b88b90983be282a9]: Commencement: [Rule 6.204](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.204) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

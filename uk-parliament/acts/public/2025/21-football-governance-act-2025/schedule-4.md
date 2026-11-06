@@ -22,7 +22,7 @@ summary: ''
 
 Section 18
 
-### 1. Threshold requirements[^key-6f8aab1bb1cf7530fb1bc400fb5fa9d6][^key-177addf0a0ff5f0fc890beba2de18418]
+### 1. Threshold requirements[^c-6f8aab1bb1cf7530fb1bc400fb5fa9d6][^c-177addf0a0ff5f0fc890beba2de18418]
 
 The threshold requirements are—
 
@@ -30,7 +30,7 @@ The threshold requirements are—
 - (b) the non-financial resources threshold requirement (see paragraph 3), and
 - (c) the fan engagement threshold requirement (see paragraph 4).
 
-### 2. Financial resources[^key-9a9e31166aa3fea3644cc9bfee3ef45a][^key-b017c8c471d7df7aed83a243db878b5b]
+### 2. Financial resources[^c-9a9e31166aa3fea3644cc9bfee3ef45a][^c-b017c8c471d7df7aed83a243db878b5b]
 
 (1) The financial resources threshold requirement is met, in relation to a club, if the financial resources of the club are appropriate in relation to the activities the club carries on or seeks to carry on.
 
@@ -45,7 +45,7 @@ The threshold requirements are—
 - (e) any other competitions in relation to which a team is operated by the club;
 - (f) the club’s non-financial resources.
 
-### 3. Non-financial resources[^key-fbbaff7c8dd1f595cb1a66070e12464e][^key-3bc910ede765a17310a67c9077e3bd20]
+### 3. Non-financial resources[^c-fbbaff7c8dd1f595cb1a66070e12464e][^c-3bc910ede765a17310a67c9077e3bd20]
 
 (1) The non-financial resources threshold requirement is met, in relation to a club, if the non-financial resources of the club are appropriate in relation to the activities the club carries on or seeks to carry on.
 
@@ -58,14 +58,14 @@ The threshold requirements are—
 - (e) any other competitions in relation to which a team is operated by the club;
 - (f) the club’s financial resources.
 
-### 4. Fan engagement[^key-4e107b2dc45b52e223485f86940474e3][^key-bae5623f05a6c72808d5c7bfb9d184a2]
+### 4. Fan engagement[^c-4e107b2dc45b52e223485f86940474e3][^c-bae5623f05a6c72808d5c7bfb9d184a2]
 
 (1) The fan engagement threshold requirement is met, in relation to a club, if the club has adequate and effective means by which—
 
 - (a) the club consults its fans about the relevant matters, and
 - (b) the club takes the views of its fans into account in making decisions about the relevant matters.
 
-(2)[^key-30aa305258383b8a981cf49c43a95797] The relevant matters are matters relating to—
+(2)[^c-30aa305258383b8a981cf49c43a95797] The relevant matters are matters relating to—
 
 - (a) the club’s strategic direction and objectives;
 - (b) the club’s business priorities;
@@ -82,7 +82,7 @@ The threshold requirements are—
 
 (4) If the club is in relevant insolvency proceedings (within the meaning given by paragraph 13(3) of Schedule 1) sub-paragraph (1)(b) applies to the extent that the power to make decisions about the relevant matters remains exercisable by the club.
 
-### 5. Interpretation[^key-b2dd122ea20f0ddce8de44597b2a5422][^key-78f324d36518d339623eed57e2e93061]
+### 5. Interpretation[^c-b2dd122ea20f0ddce8de44597b2a5422][^c-78f324d36518d339623eed57e2e93061]
 
 For the purposes of this Schedule—
 
@@ -94,24 +94,24 @@ For the purposes of this Schedule—
 
 ## Annotations
 
-[^key-6f8aab1bb1cf7530fb1bc400fb5fa9d6]: Commencement: Sch. 4 para. 1 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-6f8aab1bb1cf7530fb1bc400fb5fa9d6]: Commencement: Sch. 4 para. 1 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-177addf0a0ff5f0fc890beba2de18418]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2025/21/schedule/4/paragraph/1) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(xii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/xii)
+[^c-177addf0a0ff5f0fc890beba2de18418]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2025/21/schedule/4/paragraph/1) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(xii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/xii)
 
-[^key-9a9e31166aa3fea3644cc9bfee3ef45a]: Commencement: Sch. 4 para. 2 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-9a9e31166aa3fea3644cc9bfee3ef45a]: Commencement: Sch. 4 para. 2 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-b017c8c471d7df7aed83a243db878b5b]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2025/21/schedule/4/paragraph/2) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(xii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/xii)
+[^c-b017c8c471d7df7aed83a243db878b5b]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2025/21/schedule/4/paragraph/2) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(xii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/xii)
 
-[^key-fbbaff7c8dd1f595cb1a66070e12464e]: Commencement: Sch. 4 para. 3 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-fbbaff7c8dd1f595cb1a66070e12464e]: Commencement: Sch. 4 para. 3 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-3bc910ede765a17310a67c9077e3bd20]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2025/21/schedule/4/paragraph/3) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(xii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/xii)
+[^c-3bc910ede765a17310a67c9077e3bd20]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2025/21/schedule/4/paragraph/3) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(xii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/xii)
 
-[^key-4e107b2dc45b52e223485f86940474e3]: Commencement: Sch. 4 para. 4 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-4e107b2dc45b52e223485f86940474e3]: Commencement: Sch. 4 para. 4 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-bae5623f05a6c72808d5c7bfb9d184a2]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2025/21/schedule/4/paragraph/4) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(xii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/xii)
+[^c-bae5623f05a6c72808d5c7bfb9d184a2]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2025/21/schedule/4/paragraph/4) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(xii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/xii)
 
-[^key-30aa305258383b8a981cf49c43a95797]: Commencement: Sch. 4 para. 4(2) in force at 1.7.2026 for specified purposes by [S.I. 2026/705](https://www.legislation.gov.uk/uksi/2026/705), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/705/regulation/2/1/c)
+[^c-30aa305258383b8a981cf49c43a95797]: Commencement: Sch. 4 para. 4(2) in force at 1.7.2026 for specified purposes by [S.I. 2026/705](https://www.legislation.gov.uk/uksi/2026/705), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/705/regulation/2/1/c)
 
-[^key-b2dd122ea20f0ddce8de44597b2a5422]: Commencement: Sch. 4 para. 5 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-b2dd122ea20f0ddce8de44597b2a5422]: Commencement: Sch. 4 para. 5 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-78f324d36518d339623eed57e2e93061]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2025/21/schedule/4/paragraph/5) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(xii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/xii)
+[^c-78f324d36518d339623eed57e2e93061]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2025/21/schedule/4/paragraph/5) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(xii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/xii)

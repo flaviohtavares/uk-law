@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 200. Title of proceedings[^key-e67dc0cef88922b6e8de8e6c37c0a7d6]
+## 200. Title of proceedings[^c-e67dc0cef88922b6e8de8e6c37c0a7d6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Every proceeding under Part 2 of the Banking Act shall, with any necessary addit
 
 ## Annotations
 
-[^key-e67dc0cef88922b6e8de8e6c37c0a7d6]: Commencement: Rule 200 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-e67dc0cef88922b6e8de8e6c37c0a7d6]: Commencement: Rule 200 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

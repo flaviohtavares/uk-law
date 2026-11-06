@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Recognition[^key-164556dce24480d3da33d2f59d839214]
+## 132. Recognition[^c-164556dce24480d3da33d2f59d839214]
 
 *Extent: E+W+N.I.*
 
@@ -52,10 +52,10 @@ summary: ''
 
 *Extent: E+W*
 
-(10)[^key-8facc4b72e6b3aa381aee83b70f7e57a] See section 35 of the Qualifications Wales Act 2015 for provision about the effect of conditions imposed by or under this section, in respect of or for the purposes of the award in Wales by an awarding body of a form of a qualification awarded as an approved qualification (for which see section 22(4) of that Act).
+(10)[^c-8facc4b72e6b3aa381aee83b70f7e57a] See section 35 of the Qualifications Wales Act 2015 for provision about the effect of conditions imposed by or under this section, in respect of or for the purposes of the award in Wales by an awarding body of a form of a qualification awarded as an approved qualification (for which see section 22(4) of that Act).
 
 ## Annotations
 
-[^key-164556dce24480d3da33d2f59d839214]: Commencement: S. 132 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-164556dce24480d3da33d2f59d839214]: Commencement: S. 132 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
-[^key-8facc4b72e6b3aa381aee83b70f7e57a]: Textual amendment: S. 132(10) inserted (E.W.) (21.9.2015) by [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [ss. 35(2)](https://www.legislation.gov.uk/anaw/2015/5/section/35/2), [60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-8facc4b72e6b3aa381aee83b70f7e57a]: Textual amendment: S. 132(10) inserted (E.W.) (21.9.2015) by [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [ss. 35(2)](https://www.legislation.gov.uk/anaw/2015/5/section/35/2), [60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

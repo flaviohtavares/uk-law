@@ -45,15 +45,15 @@ Coming into force
 
 The Commissioners of Inland Revenue, in exercise of the powers conferred upon them by sections 58 and 65(1), (2), (7) and (9) of the Tax Credits Act 2002[^f00001], hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-fa966e6a9006eb0e6d20854703945ce3]
+## 1. Citation and commencement[^c-fa966e6a9006eb0e6d20854703945ce3]
 
 These Regulations may be cited as the Child Benefit and Guardian’s Allowance (Administrative Arrangements) Regulations 2003 and shall come into force on 7th April 2003 immediately after the Child Benefit and Guardian’s Allowance (Administration) Regulations 2003[^f00002].
 
-## 2. Interpretation[^key-15e1b5b1c7919146c8929abe8227b9ec]
+## 2. Interpretation[^c-15e1b5b1c7919146c8929abe8227b9ec]
 
 In these Regulations—
 
-- “the Board” means the Commissioners for Her Majesty’s Revenue and Customs[^key-69c1c5e8bcd8d12fd4db993d54b65793];
+- “the Board” means the Commissioners for Her Majesty’s Revenue and Customs[^c-69c1c5e8bcd8d12fd4db993d54b65793];
 - “defective application” has the meaning given by regulation 10(3) of the principal Regulations;
 - “the principal Regulations” means the Child Benefit and Guardian’s Allowance (Administration) Regulations 2003;
 - “relevant authority” means—
@@ -61,7 +61,7 @@ In these Regulations—
   - (b) the Department for Social Development in Northern Ireland; or
   - (c) a person providing services to the Secretary of State or that Department.
 
-## 3. Provision of information or evidence to relevant authorities[^key-da6064d07792f6d5163592958c1fd3af]
+## 3. Provision of information or evidence to relevant authorities[^c-da6064d07792f6d5163592958c1fd3af]
 
 (1) Information or evidence relating to child benefit or guardian’s allowance which is held—
 
@@ -72,11 +72,11 @@ may be provided to a relevant authority for the purposes of, or for any purposes
 
 (2) Information or evidence relating to child benefit and guardian’s allowance may be provided to a relevant authority by persons other than the Board (whether or not persons by whom claims or notifications relating to child benefit or guardian’s allowance are or have been made or given).
 
-## 4. Giving of information or advice by relevant authorities[^key-291d804c67cefdd1705c4f35661c4019]
+## 4. Giving of information or advice by relevant authorities[^c-291d804c67cefdd1705c4f35661c4019]
 
 A relevant authority to which a claim or notification is or has been made or given by a person in accordance with the principal Regulations may give information or advice relating to child benefit and guardian’s allowance to that person.
 
-## 5. Recording, verification and holding, and forwarding, of claims etc. received by relevant authorities[^key-42b49448e50a646e705df70039512969]
+## 5. Recording, verification and holding, and forwarding, of claims etc. received by relevant authorities[^c-42b49448e50a646e705df70039512969]
 
 (1) A relevant authority may record and hold—
 
@@ -88,7 +88,7 @@ A relevant authority to which a claim or notification is or has been made or giv
 (3) Before forwarding a claim or notification in accordance with paragraph (2), a relevant authority must verify whether the details of the claim or notification are consistent with any details held by it which have been provided in connection with a relevant claim for benefit that relates to—
 
 - (a) the person by whom the claim for child benefit or guardian’s allowance is or has been made; or
-- (b) the child or qualifying young person in respect of whom[^key-929e60de939180f556db85316cd981d7] the child benefit or guardian’s allowance is payable.
+- (b) the child or qualifying young person in respect of whom[^c-929e60de939180f556db85316cd981d7] the child benefit or guardian’s allowance is payable.
 
 (4) Before forwarding a claim in accordance with paragraph (2), a relevant authority must verify that—
 
@@ -110,11 +110,11 @@ A relevant authority to which a claim or notification is or has been made or giv
 
 - (a) a benefit in relation to which—
   - (i) the Secretary of State has functions under the Social Security Contributions and Benefits Act 1992[^f00005]; or
-  - (ii) the Department for Social Development in Northern Ireland has functions under the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00006]; [^key-ef2d7bcfe51169676b3b1512a99368bb]...
+  - (ii) the Department for Social Development in Northern Ireland has functions under the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00006]; [^c-ef2d7bcfe51169676b3b1512a99368bb]...
 - (b) a jobseeker’s allowance under—
   - (i) the Jobseekers Act 1995[^f00007]; or
-  - (ii) the Jobseekers (Northern Ireland) Order 1995[^f00008] ; or[^key-479be967cbe79a398d126d078d89adcc]
-- (c) universal credit under Part 1 of the Welfare Reform Act 2012 or Part 2 of the Welfare Reform (Northern Ireland) Order 2015 *(Extent: N.I.)*[^key-1a911a58f6b94465856dc80a2b7199f3].
+  - (ii) the Jobseekers (Northern Ireland) Order 1995[^f00008] ; or[^c-479be967cbe79a398d126d078d89adcc]
+- (c) universal credit under Part 1 of the Welfare Reform Act 2012 or Part 2 of the Welfare Reform (Northern Ireland) Order 2015 *(Extent: N.I.)*[^c-1a911a58f6b94465856dc80a2b7199f3].
 
 Tim Flesher
 
@@ -144,21 +144,21 @@ Regulation 5 provides for the recording, verification, holding and forwarding of
 
 [^f00001]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-fa966e6a9006eb0e6d20854703945ce3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1)
+[^c-fa966e6a9006eb0e6d20854703945ce3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2003/ 492](https://www.legislation.gov.uk/uksi/2003/492).
 
-[^key-15e1b5b1c7919146c8929abe8227b9ec]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/494/regulation/2) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1)
+[^c-15e1b5b1c7919146c8929abe8227b9ec]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/494/regulation/2) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1)
 
-[^key-69c1c5e8bcd8d12fd4db993d54b65793]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/494/regulation/2) substituted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/203/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2006/203/regulation/3/2)
+[^c-69c1c5e8bcd8d12fd4db993d54b65793]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/494/regulation/2) substituted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/203/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2006/203/regulation/3/2)
 
-[^key-da6064d07792f6d5163592958c1fd3af]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/494/regulation/3) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1)
+[^c-da6064d07792f6d5163592958c1fd3af]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/494/regulation/3) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1)
 
-[^key-291d804c67cefdd1705c4f35661c4019]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/494/regulation/4) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1)
+[^c-291d804c67cefdd1705c4f35661c4019]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/494/regulation/4) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1)
 
-[^key-42b49448e50a646e705df70039512969]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/494/regulation/5) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1)
+[^c-42b49448e50a646e705df70039512969]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/494/regulation/5) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1)
 
-[^key-929e60de939180f556db85316cd981d7]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2003/494/regulation/5/3/b) substituted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/203/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2006/203/regulation/3/3)
+[^c-929e60de939180f556db85316cd981d7]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2003/494/regulation/5/3/b) substituted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/203/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2006/203/regulation/3/3)
 
 [^f00003]: Footnote: S.I. [2001/769](https://www.legislation.gov.uk/uksi/2001/769).
 
@@ -168,12 +168,12 @@ Regulation 5 provides for the recording, verification, holding and forwarding of
 
 [^f00006]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7). The functions of the Department of Health and Social Services for Northern Ireland under this Act were transferred to the Department for Social Development in Northern Ireland by Article 8(b) of, and Part 2 of Schedule 6 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)).
 
-[^key-ef2d7bcfe51169676b3b1512a99368bb]: Textual amendment: Word in [reg. 5(8)](https://www.legislation.gov.uk/uksi/2003/494/regulation/5/8) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [82](https://www.legislation.gov.uk/uksi/2013/630/regulation/82)
+[^c-ef2d7bcfe51169676b3b1512a99368bb]: Textual amendment: Word in [reg. 5(8)](https://www.legislation.gov.uk/uksi/2003/494/regulation/5/8) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [82](https://www.legislation.gov.uk/uksi/2013/630/regulation/82)
 
 [^f00007]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
 
 [^f00008]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
 
-[^key-479be967cbe79a398d126d078d89adcc]: Textual amendment: [Reg. 5(8)(c)](https://www.legislation.gov.uk/uksi/2003/494/regulation/5/8/c) and word inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [82](https://www.legislation.gov.uk/uksi/2013/630/regulation/82)
+[^c-479be967cbe79a398d126d078d89adcc]: Textual amendment: [Reg. 5(8)(c)](https://www.legislation.gov.uk/uksi/2003/494/regulation/5/8/c) and word inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [82](https://www.legislation.gov.uk/uksi/2013/630/regulation/82)
 
-[^key-1a911a58f6b94465856dc80a2b7199f3]: Textual amendment: Words in [reg. 5(8)(c)](https://www.legislation.gov.uk/uksi/2003/494/regulation/5/8/c) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [58](https://www.legislation.gov.uk/nisr/2016/236/regulation/58)
+[^c-1a911a58f6b94465856dc80a2b7199f3]: Textual amendment: Words in [reg. 5(8)(c)](https://www.legislation.gov.uk/uksi/2003/494/regulation/5/8/c) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [58](https://www.legislation.gov.uk/nisr/2016/236/regulation/58)

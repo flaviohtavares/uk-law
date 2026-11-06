@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Secretary of State may from time to time by order designate as an area of archaeological importance any area which appears to him to merit treatment as such for the purposes of this Act ; but, where the area in question is situated in England, he shall consult with the Commission before doing so.[^c251002]
 
-(1A)[^key-4bb43fd4f2fc0a858ac2e66973b5c7cb] An order under subsection (1) may not designate an area in Wales.
+(1A)[^c-4bb43fd4f2fc0a858ac2e66973b5c7cb] An order under subsection (1) may not designate an area in Wales.
 
 (2) A local authority may from time to time by order designate as an area of archaeological importance any area within the area of that local authority which appears to them to merit treatment as such for the purposes of this Act ; but, where the area in question is situated in England, the authority shall first notify the Commission of their intention to do so.[^c251003]
 
@@ -34,7 +34,7 @@ summary: ''
 
 The Secretary of State shall consult with the Commission before varying or revoking an order relating to an area situated in England.[^c251006]
 
-(5) A designation order relating to an area in England [^key-82c2e14935487dd0fa46af7b0bd3171f]... shall be a local land charge.
+(5) A designation order relating to an area in England [^c-82c2e14935487dd0fa46af7b0bd3171f]... shall be a local land charge.
 
 (6) Schedule 2 to this Act shall have effect with respect to the making, and with respect to the variation and revocation, of designation orders.
 
@@ -42,7 +42,7 @@ The Secretary of State shall consult with the Commission before varying or revok
 
 [^c251002]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 54(2)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/54/2)
 
-[^key-4bb43fd4f2fc0a858ac2e66973b5c7cb]: Textual amendment: [S. 33(1A)](https://www.legislation.gov.uk/ukpga/1979/46/section/33/1A) inserted (E.W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 35(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/35/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
+[^c-4bb43fd4f2fc0a858ac2e66973b5c7cb]: Textual amendment: [S. 33(1A)](https://www.legislation.gov.uk/ukpga/1979/46/section/33/1A) inserted (E.W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 35(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/35/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
 
 [^c251003]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 54(3)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/54/3)
 
@@ -52,4 +52,4 @@ The Secretary of State shall consult with the Commission before varying or revok
 
 [^c251006]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 54(4)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/54/4)
 
-[^key-82c2e14935487dd0fa46af7b0bd3171f]: Textual amendment: Words in [s. 33(5)](https://www.legislation.gov.uk/ukpga/1979/46/section/33/5) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 35(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/35/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
+[^c-82c2e14935487dd0fa46af7b0bd3171f]: Textual amendment: Words in [s. 33(5)](https://www.legislation.gov.uk/ukpga/1979/46/section/33/5) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 35(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/35/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)

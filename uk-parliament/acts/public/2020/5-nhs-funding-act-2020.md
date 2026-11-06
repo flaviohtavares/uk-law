@@ -49,7 +49,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 | Ending with 31 March 2023 | £139,990,000,000 |
 | Ending with 31 March 2024 | £148,467,000,000 |
 
-(2) For the purpose of ensuring that the amounts specified in the table are used only as revenue resource, the Secretary of State must specify under section[^key-8fca922d4306647da0183ec5176d9f66] 223D(1)(a) and (b) of the National Health Service Act 2006 such amounts as the Secretary of State considers necessary.
+(2) For the purpose of ensuring that the amounts specified in the table are used only as revenue resource, the Secretary of State must specify under section[^c-8fca922d4306647da0183ec5176d9f66] 223D(1)(a) and (b) of the National Health Service Act 2006 such amounts as the Secretary of State considers necessary.
 
 (3) In respect of each financial year specified in the table, in laying an estimate for the Department of Health and Social Care for approval by the House of Commons, the Treasury must ensure that the estimate is consistent with the amount specified in the table for that financial year.
 
@@ -67,4 +67,4 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-8fca922d4306647da0183ec5176d9f66]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/2020/5/section/1) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 238](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/238); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-8fca922d4306647da0183ec5176d9f66]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/2020/5/section/1) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 238](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/238); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

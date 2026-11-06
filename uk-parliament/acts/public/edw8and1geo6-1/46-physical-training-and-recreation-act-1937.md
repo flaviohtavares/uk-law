@@ -61,7 +61,7 @@ The powers of the Secretary of State under paragraph (a) of this subsection shal
 
 ## 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c610853]
 
-## 7. National College of Physical Training for England and Wales.[^c610854][^key-bb4411d170797ed24f789b34df7be34b]
+## 7. National College of Physical Training for England and Wales.[^c610854][^c-bb4411d170797ed24f789b34df7be34b]
 
 *Extent: E+W*
 
@@ -142,7 +142,7 @@ In this Act, unless the context otherwise requires—
 
 [^c610854]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/46/section/7) repealed (S.) by [Local Government and Planning (Scotland) Act 1982 (c. 43, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1982/43), [s. 66(2)](https://www.legislation.gov.uk/ukpga/1982/43/section/66/2), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1982/43/schedule/4/part/I)
 
-[^key-bb4411d170797ed24f789b34df7be34b]: Textual amendment: S. 7 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-bb4411d170797ed24f789b34df7be34b]: Textual amendment: S. 7 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c610856]: Textual amendment: Words substituted by virtue of [Education Act 1944 (c. 31)](https://www.legislation.gov.uk/ukpga/1944/31), [s. 2(1)](https://www.legislation.gov.uk/ukpga/1944/31/section/2/1); [S.I. 1964/490](https://www.legislation.gov.uk/uksi/1964/490), [arts. 2(1)](https://www.legislation.gov.uk/uksi/1964/490/article/2/1), [3(2)](https://www.legislation.gov.uk/uksi/1964/490/article/3/2); [S.I. 1969/1497](https://www.legislation.gov.uk/uksi/1969/1497), [art. 2](https://www.legislation.gov.uk/uksi/1969/1497/article/2); [S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681), [arts. 2(1)](https://www.legislation.gov.uk/uksi/1970/1681/article/2/1), [6(3)](https://www.legislation.gov.uk/uksi/1970/1681/article/6/3)
 

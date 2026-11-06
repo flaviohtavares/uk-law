@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23A. Alternative quality requirements for UK defined benefits schemes[^key-9c5a87c3df5782dcd51097dee91b051b]
+## 23A. Alternative quality requirements for UK defined benefits schemes[^c-9c5a87c3df5782dcd51097dee91b051b]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c5a87c3df5782dcd51097dee91b051b]: Textual amendment: [S. 23A](https://www.legislation.gov.uk/ukpga/2008/30/section/23A) inserted (12.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2014/19/section/39/2), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/b)
+[^c-9c5a87c3df5782dcd51097dee91b051b]: Textual amendment: [S. 23A](https://www.legislation.gov.uk/ukpga/2008/30/section/23A) inserted (12.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2014/19/section/39/2), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Making of violent offender orders[^key-8fce40775b2884e42e98154f7caf96f1]
+## 101. Making of violent offender orders[^c-8fce40775b2884e42e98154f7caf96f1]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ the court may make a violent offender order in respect of P if it is satisfied t
 
 ## Annotations
 
-[^key-8fce40775b2884e42e98154f7caf96f1]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2008/4/section/101) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/d)
+[^c-8fce40775b2884e42e98154f7caf96f1]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2008/4/section/101) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/d)

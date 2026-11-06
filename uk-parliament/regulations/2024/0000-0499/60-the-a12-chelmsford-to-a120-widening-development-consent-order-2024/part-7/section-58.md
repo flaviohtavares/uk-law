@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Protective provisions[^key-b309601942602919692fd29e77764895]
+## 58. Protective provisions[^c-b309601942602919692fd29e77764895]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 11 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-b309601942602919692fd29e77764895]: Commencement: Art. 58 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-b309601942602919692fd29e77764895]: Commencement: Art. 58 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)

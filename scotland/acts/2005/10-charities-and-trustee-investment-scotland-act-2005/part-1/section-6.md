@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Applications: further procedure[^key-81838c002ddf71423cd1b0d6f028134b][^key-57c4c4de5a329cfeb426663b1f349c7a]
+## 6. Applications: further procedure[^c-81838c002ddf71423cd1b0d6f028134b][^c-57c4c4de5a329cfeb426663b1f349c7a]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-81838c002ddf71423cd1b0d6f028134b]: Commencement: S. 6 in force at 1.1.2006 for specified purposes by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-81838c002ddf71423cd1b0d6f028134b]: Commencement: S. 6 in force at 1.1.2006 for specified purposes by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
 
-[^key-57c4c4de5a329cfeb426663b1f349c7a]: Commencement: S. 6 in force at 24.4.2006 in so far as not already in force by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
+[^c-57c4c4de5a329cfeb426663b1f349c7a]: Commencement: S. 6 in force at 24.4.2006 in so far as not already in force by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)

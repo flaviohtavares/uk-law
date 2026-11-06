@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Incorporation of governing bodies of federations and dissolution of former governing bodies[^key-aa6d12c3415422149b278db7c8d7f4df]
+## 13. Incorporation of governing bodies of federations and dissolution of former governing bodies[^c-aa6d12c3415422149b278db7c8d7f4df]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aa6d12c3415422149b278db7c8d7f4df]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/1035/regulation/13) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-aa6d12c3415422149b278db7c8d7f4df]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/1035/regulation/13) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
 
 [^f00014]: Footnote: As amended by SSFA 1998 and the Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13).

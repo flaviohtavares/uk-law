@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Use of forestry estate for renewable electricity[^key-64ca9eaf02d9c468a50dbec5dc452733][^key-fcfcf481055b2f32408f68a869571bfa]
+## 29. Use of forestry estate for renewable electricity[^c-64ca9eaf02d9c468a50dbec5dc452733][^c-fcfcf481055b2f32408f68a869571bfa]
 
 *Extent: E+W*
 
@@ -131,6 +131,6 @@ In the Forestry Act 1967, after section 3 insert—
 
 ## Annotations
 
-[^key-64ca9eaf02d9c468a50dbec5dc452733]: Commencement: S. 29 in force at Royal Assent for specified purposes, see [s. 118(1)(p)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/p)
+[^c-64ca9eaf02d9c468a50dbec5dc452733]: Commencement: S. 29 in force at Royal Assent for specified purposes, see [s. 118(1)(p)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/p)
 
-[^key-fcfcf481055b2f32408f68a869571bfa]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2025/34/section/29) in force at 18.2.2026 in so far as not already in force, see [s. 118(1)(p)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/p)
+[^c-fcfcf481055b2f32408f68a869571bfa]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2025/34/section/29) in force at 18.2.2026 in so far as not already in force, see [s. 118(1)(p)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/p)

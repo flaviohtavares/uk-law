@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Procedure for allocation election[^key-b98a319f12bc7b157472e0e3ba467d82]
+## 62. Procedure for allocation election[^c-b98a319f12bc7b157472e0e3ba467d82]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b98a319f12bc7b157472e0e3ba467d82]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2014/2336/regulation/62) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-b98a319f12bc7b157472e0e3ba467d82]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2014/2336/regulation/62) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

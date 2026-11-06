@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]The Rural Development Contracts (Land Managers Options) (Scotland) Regulations 2008 (revoked)
+[^c-ea80670500a9060bc93e453bff8f4a6b]The Rural Development Contracts (Land Managers Options) (Scotland) Regulations 2008 (revoked)
 
 Made
 
@@ -44,222 +44,222 @@ Coming into force
 
 15th May 2008
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea80670500a9060bc93e453bff8f4a6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 1. Citation, commencement and extent[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 2. Interpretation[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Applications for aid[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 3. Applications for aid[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Payment of aid[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 4. Payment of aid[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Maximum amount of aid payable[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 5. Maximum amount of aid payable[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Crofters common grazings[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 6. Crofters common grazings[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Restrictions on acceptance of applications and payment of aid[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 7. Restrictions on acceptance of applications and payment of aid[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Eligible land[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 8. Eligible land[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Rates of payment for activities undertaken[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 9. Rates of payment for activities undertaken[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Undertakings[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 10. Undertakings[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Claims and payment[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 11. Claims and payment[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Change of occupation of land[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 12. Change of occupation of land[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Powers of authorised persons[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 13. Powers of authorised persons[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Breaches of undertakings etc.[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 14. Breaches of undertakings etc.[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Other cases in which recovery etc. powers apply[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 15. Other cases in which recovery etc. powers apply[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Powers of recovery etc. of the Scottish Ministers[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 16. Powers of recovery etc. of the Scottish Ministers[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Information and records[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 17. Information and records[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Recovery of interest[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 18. Recovery of interest[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Sums payable to the Scottish Ministers to be recoverable as a debt[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 19. Sums payable to the Scottish Ministers to be recoverable as a debt[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Guidance[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 20. Guidance[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Offences[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 21. Offences[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Right of appeal[^key-ea80670500a9060bc93e453bff8f4a6b]
+## 22. Right of appeal[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea80670500a9060bc93e453bff8f4a6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — INTERPRETATION OF SCHEDULES[^key-ea80670500a9060bc93e453bff8f4a6b]
+## SCHEDULE 1 — INTERPRETATION OF SCHEDULES[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 Regulation 2(5)
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — LAND MANAGERS OPTIONS[^key-ea80670500a9060bc93e453bff8f4a6b]
+## SCHEDULE 2 — LAND MANAGERS OPTIONS[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 Regulation 9, 10(1) and 11
 
-### OPTION, ACTIVITIES AND ELIGIBILITY CONDITIONS AND RATES OF PAYMENT[^key-ea80670500a9060bc93e453bff8f4a6b]
+### OPTION, ACTIVITIES AND ELIGIBILITY CONDITIONS AND RATES OF PAYMENT[^c-ea80670500a9060bc93e453bff8f4a6b]
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-ea80670500a9060bc93e453bff8f4a6b]
+## SCHEDULE 3[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 Regulation 10(5)
 
-### PART 1 — Historic Environment Condition[^key-ea80670500a9060bc93e453bff8f4a6b]
+### PART 1 — Historic Environment Condition[^c-ea80670500a9060bc93e453bff8f4a6b]
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 2 — Primary Legislation[^key-ea80670500a9060bc93e453bff8f4a6b]
-
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+### PART 2 — Primary Legislation[^c-ea80670500a9060bc93e453bff8f4a6b]
+
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Secondary Legislation[^key-ea80670500a9060bc93e453bff8f4a6b]
-
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+### Secondary Legislation[^c-ea80670500a9060bc93e453bff8f4a6b]
+
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]
+[^c-ea80670500a9060bc93e453bff8f4a6b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ea80670500a9060bc93e453bff8f4a6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea80670500a9060bc93e453bff8f4a6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ea80670500a9060bc93e453bff8f4a6b]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), [sch. 1](https://www.legislation.gov.uk/ssi/2015/192/schedule/1) (subject to savings in [reg. 22(2)(3)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2) and modifications in [sch. 2](https://www.legislation.gov.uk/ssi/2015/192/schedule/2) from 26.9.2019 and further modifications in [sch. 3](https://www.legislation.gov.uk/ssi/2015/192/schedule/3) from 31.12.2020) (as amended by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 2](https://www.legislation.gov.uk/ssi/2019/209/regulation/2), [4](https://www.legislation.gov.uk/ssi/2019/209/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-ea80670500a9060bc93e453bff8f4a6b]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), [sch. 1](https://www.legislation.gov.uk/ssi/2015/192/schedule/1) (subject to savings in [reg. 22(2)(3)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2) and modifications in [sch. 2](https://www.legislation.gov.uk/ssi/2015/192/schedule/2) from 26.9.2019 and further modifications in [sch. 3](https://www.legislation.gov.uk/ssi/2015/192/schedule/3) from 31.12.2020) (as amended by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 2](https://www.legislation.gov.uk/ssi/2019/209/regulation/2), [4](https://www.legislation.gov.uk/ssi/2019/209/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

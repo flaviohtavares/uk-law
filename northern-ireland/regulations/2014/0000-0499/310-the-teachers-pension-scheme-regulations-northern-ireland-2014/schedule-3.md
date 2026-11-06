@@ -31,7 +31,7 @@ In this Schedule—
 - “**the Superannuation Regulations**” means the Teachers' Superannuation (Northern Ireland) Regulations 1998 [^c22298991];
 - “**exception**” means an exception to section 18(1) of the Act;
 - “**existing scheme rules**” means the provisions of the existing scheme, an existing club scheme or an existing public service scheme;
-- “[^key-6633c52aecd83d3b9bf8acd0a25aba47]**final salary benefits**” means the benefits accrued in a final salary scheme in respect of which the pension entitlement payable to or in respect of a person’s pensionable service is or may be determined by reference to the person’s final salary;
+- “[^c-6633c52aecd83d3b9bf8acd0a25aba47]**final salary benefits**” means the benefits accrued in a final salary scheme in respect of which the pension entitlement payable to or in respect of a person’s pensionable service is or may be determined by reference to the person’s final salary;
 - “**full protection member**”, in relation to the existing scheme, has the meaning given in Part 2;
 - “**protected member**”, in relation to the existing scheme, means a full protection member or tapered protection member of that scheme;
 - “protection period”—
@@ -43,9 +43,9 @@ In this Schedule—
 - “**tapered protection closing date**” has the meaning given in paragraph 4;
 - “**transition date**” means—
   - (a) for a tapered protection member of the existing scheme, the day after the tapered protection closing date; or
-  - (aa) for a full protection member of the existing scheme to whom a retirement pension has become payable under the existing scheme, means the day in which that member becomes an active member of this scheme;[^key-4225c5282f3cefe3cfd82b73273a8a35]
+  - (aa) for a full protection member of the existing scheme to whom a retirement pension has become payable under the existing scheme, means the day in which that member becomes an active member of this scheme;[^c-4225c5282f3cefe3cfd82b73273a8a35]
   - (ab) for a full protection member of the existing scheme other than a full protection member described in sub-paragraph (aa), means 1st April 2022;
-  - (b) for a transition member [^key-a7ee6762e0f6e55f6e5920edb6c354e7]... who is not a protected member of the existing scheme, the day after the scheme closing date.
+  - (b) for a transition member [^c-a7ee6762e0f6e55f6e5920edb6c354e7]... who is not a protected member of the existing scheme, the day after the scheme closing date.
 
 #### 2. Active membership of the existing scheme
 
@@ -81,7 +81,7 @@ In this Schedule—
 
 (3) In this paragraph, “**closing date**” means—
 
-- (za)[^key-e90e993953325e56aed84c76686cb23c] if P is a full protection member of the existing scheme, 31st March 2022;
+- (za)[^c-e90e993953325e56aed84c76686cb23c] if P is a full protection member of the existing scheme, 31st March 2022;
 - (a) if P is a tapered protection member of the existing scheme, P's tapered protection closing date; or
 - (b) otherwise, the scheme closing date.
 
@@ -91,7 +91,7 @@ In this Schedule—
 
 (1) A person (P) to whom paragraph 7 or 8 applies is a full protection member of the existing scheme.
 
-(2)[^key-e112c336da265413e4624dfa5ed84d3b] P ceases to be a full protection member of the existing scheme on whichever of the following days occurs first—
+(2)[^c-e112c336da265413e4624dfa5ed84d3b] P ceases to be a full protection member of the existing scheme on whichever of the following days occurs first—
 
 - (a) the day on which P ceases to be in pensionable service under the existing scheme; or
 - (b) 31st March 2022.
@@ -230,7 +230,7 @@ A transition member (P) who does not have continuity of service becomes an activ
 
 (2) On receipt of the application, the Department must accept payment of the club transfer value if it is offered.
 
-(3)[^key-316334a2512d417f2793400316b4f576] Payment of the club transfer value must be accepted into—
+(3)[^c-316334a2512d417f2793400316b4f576] Payment of the club transfer value must be accepted into—
 
 - (a) the existing scheme so far as the payment relates to—
   - (i) benefits accrued in respect of pensionable service before the transition date, or
@@ -256,7 +256,7 @@ This Part applies in relation to all persons who—
 
 (4) In this Part, “**bulk transfer payment**” means a single transfer payment in respect of all persons to whom this Part applies.
 
-(5)[^key-0a7a2c8b30c167ed21a35540e1977666] The bulk transfer payment must be accepted into—
+(5)[^c-0a7a2c8b30c167ed21a35540e1977666] The bulk transfer payment must be accepted into—
 
 - (a) the existing scheme so far as the payment relates to—
   - (i) benefits accrued in respect of pensionable service before 1st April 2022, or
@@ -280,13 +280,13 @@ This Part applies in relation to all persons who—
 
 ##### 26. Application of existing scheme rules
 
-(1) The existing scheme rules apply in relation to the calculation and payment[^key-23f1db5fc8562c72ea6e123c1debfe2d] of benefits payable in respect of pensionable service under the existing scheme, save that an application for payment of benefits must be made under regulation 162 of these Regulations and not under the Superannuation Regulations.
+(1) The existing scheme rules apply in relation to the calculation and payment[^c-23f1db5fc8562c72ea6e123c1debfe2d] of benefits payable in respect of pensionable service under the existing scheme, save that an application for payment of benefits must be made under regulation 162 of these Regulations and not under the Superannuation Regulations.
 
 (2) The existing scheme rules apply in relation to the payment of additional pension with a retirement pension under the existing scheme, save that an application for payment of benefits must be made under regulation 162 of these Regulations and not under the Superannuation Regulations.
 
-(3) The existing scheme rules apply in relation to an election made by a person (P) for contributions to be paid monthly under paragraph 3(a) (election to pay contributions for additional pension) of Schedule 2A to the Superannuation Regulations if the election is made before the transition date[^key-ccf8e53e2a9277e7eb3ed7981eb01806] .
+(3) The existing scheme rules apply in relation to an election made by a person (P) for contributions to be paid monthly under paragraph 3(a) (election to pay contributions for additional pension) of Schedule 2A to the Superannuation Regulations if the election is made before the transition date[^c-ccf8e53e2a9277e7eb3ed7981eb01806] .
 
-(4)[^key-8fda68870d82c7c43fbcc4f9213da8e8] For the purpose of determining P’s entitlement to retirement benefits, P’s pensionable employment under the existing scheme terminates when P’s pensionable service under this scheme terminates.
+(4)[^c-8fda68870d82c7c43fbcc4f9213da8e8] For the purpose of determining P’s entitlement to retirement benefits, P’s pensionable employment under the existing scheme terminates when P’s pensionable service under this scheme terminates.
 
 ##### 27. Determination of final salary
 
@@ -294,7 +294,7 @@ For the purpose of calculating benefits payable under the existing scheme to or 
 
 ##### 28. Annual rate of pension
 
-Save where provided otherwise in paragraph 33 (application for payment of ill-health pensions) and[^key-a98cffbf3f09e97f0adc4e190f0f30a4] paragraph 47 (application for supplementary death grant), the annual rate of pension payable to a transition member is found by adding—
+Save where provided otherwise in paragraph 33 (application for payment of ill-health pensions) and[^c-a98cffbf3f09e97f0adc4e190f0f30a4] paragraph 47 (application for supplementary death grant), the annual rate of pension payable to a transition member is found by adding—
 
 - (a) the annual rate of pension payable under the existing scheme; and
 - (b) the annual rate of pension payable under this scheme.
@@ -305,7 +305,7 @@ Save where provided otherwise in paragraph 33 (application for payment of ill-he
 
 (1) An application by a transition member (P) for payment of an age retirement pension under this scheme is also an application for payment of an age retirement pension in respect of P's pensionable service under the existing scheme.
 
-(2) A transition member (P) who has not reached normal pension age under this scheme and who has ceased being in pensionable service in this scheme[^key-9e174dcbd20ecd7716609bb885ced582] may apply under regulation 162 for payment of age retirement benefits in respect of P's pensionable service under the existing scheme without applying for payment of P's retirement benefits in respect of pensionable service under this scheme.
+(2) A transition member (P) who has not reached normal pension age under this scheme and who has ceased being in pensionable service in this scheme[^c-9e174dcbd20ecd7716609bb885ced582] may apply under regulation 162 for payment of age retirement benefits in respect of P's pensionable service under the existing scheme without applying for payment of P's retirement benefits in respect of pensionable service under this scheme.
 
 ##### 30. Application for payment of phased retirement pension
 
@@ -319,27 +319,27 @@ Save where provided otherwise in paragraph 33 (application for payment of ill-he
 
 ##### 31. Application for payment of premature retirement pension
 
-A transition member (P) who applies for payment of a premature retirement pension under this scheme will receive any benefits due to P in respect of P's pensionable service in the existing scheme in addition to[^key-8c74a5b49310656fc7c55739542fb325] P's premature retirement pension payable under this scheme.
+A transition member (P) who applies for payment of a premature retirement pension under this scheme will receive any benefits due to P in respect of P's pensionable service in the existing scheme in addition to[^c-8c74a5b49310656fc7c55739542fb325] P's premature retirement pension payable under this scheme.
 
 ##### 32. Application for payment of early retirement pension
 
-A transition member (P) who applies for payment of an early retirement pension under this scheme will receive any benefits due to P in respect of P's pensionable service in the existing scheme in addition to[^key-efdb0c4328d49eba4570253baa7ca0c8] P's early retirement pension payable under this scheme.
+A transition member (P) who applies for payment of an early retirement pension under this scheme will receive any benefits due to P in respect of P's pensionable service in the existing scheme in addition to[^c-efdb0c4328d49eba4570253baa7ca0c8] P's early retirement pension payable under this scheme.
 
 ##### 33. Application for payment of ill-health pension
 
 (1) A transition member (P) will receive any benefits payable under this scheme as part of P's ill-health pension payable under the existing scheme if—
 
 - (a) P applies before P's transition date for payment of an ill-health pension, and
-- (b) P's application is successfully determined [^key-dcce93c7bd6ead6461f4169e414ad758]....
+- (b) P's application is successfully determined [^c-dcce93c7bd6ead6461f4169e414ad758]....
 
-(2)[^key-a87cb0b9d4525ce12cb140716fafe66e] If P makes an application for payment of an ill-health pension on or after P’s transition date, which is successfully determined before P’s normal pension age in the existing scheme—
+(2)[^c-a87cb0b9d4525ce12cb140716fafe66e] If P makes an application for payment of an ill-health pension on or after P’s transition date, which is successfully determined before P’s normal pension age in the existing scheme—
 
 - (a) before P’s normal pension age in the existing scheme, P will receive under this scheme an amount equivalent to any benefits due to P in respect of P’s pensionable service in this scheme and in the existing scheme, in accordance with paragraph 33A;
 - (b) from P’s normal pension age in the existing scheme, P will receive, in accordance with paragraph 33B—
   - (i) under the existing scheme, any benefits due to P in respect of P’s pensionable service in the existing scheme; and
   - (ii) under this scheme, any benefits due to P in respect of P’s pensionable service in this scheme.
 
-##### 33A. Transition member who has not reached normal pension age under the existing scheme[^key-1eff9d14abe9e1426f69095fbd7123b0]
+##### 33A. Transition member who has not reached normal pension age under the existing scheme[^c-1eff9d14abe9e1426f69095fbd7123b0]
 
 (1) This paragraph applies in relation to a transition member (P) who—
 
@@ -498,9 +498,9 @@ The long-term rate of a child pension of an eligible child (C) of a transition m
 
 ##### 48. Application for payment of benefits for pension credit members
 
-(1) A pension credit member[^key-6a34786dbb4bfac9937ba197024e8273] (P) with pension credit rights in this scheme and the existing scheme[^key-dd36b4894e08e3bc5c60bf273a6c010c] who has not reached normal pension age under the existing scheme when P applies for payment of a pension credit retirement pension under this scheme will receive under the existing scheme[^key-a9793bc927e02d0b40a5d29d84367f2c] payment of any benefits payable to (P) in respect of pensionable service under the existing scheme.
+(1) A pension credit member[^c-6a34786dbb4bfac9937ba197024e8273] (P) with pension credit rights in this scheme and the existing scheme[^c-dd36b4894e08e3bc5c60bf273a6c010c] who has not reached normal pension age under the existing scheme when P applies for payment of a pension credit retirement pension under this scheme will receive under the existing scheme[^c-a9793bc927e02d0b40a5d29d84367f2c] payment of any benefits payable to (P) in respect of pensionable service under the existing scheme.
 
-(2) If P applies for payment of a pension credit retirement pension after having reached normal pension age under the existing scheme, P may apply under this scheme[^key-6b9f4dc7f57e2666cd2b9ae5ce81bcb4] for payment [^key-0500d495910460888dfa05a28010c907]... of a pension credit retirement pension in respect of pensionable service under—
+(2) If P applies for payment of a pension credit retirement pension after having reached normal pension age under the existing scheme, P may apply under this scheme[^c-6b9f4dc7f57e2666cd2b9ae5ce81bcb4] for payment [^c-0500d495910460888dfa05a28010c907]... of a pension credit retirement pension in respect of pensionable service under—
 
 - (a) the existing scheme;
 - (b) this scheme; or
@@ -529,7 +529,7 @@ Where the money value of a transition member's (P)'s residential benefits in kin
 
 #### 53. Transfer payments
 
-A transfer payment made in respect of a transition member by the Department must be in relation to any benefits accrued in this scheme and any service accrued in the existing scheme in respect of which pension benefits have not been taken[^key-04f603dbcec0a1573fa0ec7b4516bd2c].
+A transfer payment made in respect of a transition member by the Department must be in relation to any benefits accrued in this scheme and any service accrued in the existing scheme in respect of which pension benefits have not been taken[^c-04f603dbcec0a1573fa0ec7b4516bd2c].
 
 #### 54. Nomination continues to have effect
 
@@ -549,50 +549,50 @@ An application by a transition member under regulation 162 (application for paym
 
 [^c22298991]: Marginal citation: S.R. [1998 No. 333](https://www.legislation.gov.uk/ukcm/1998/333), as amended by S.R. [2001 No. 149](https://www.legislation.gov.uk/ukcm/2001/149), S.R. [2003 No. 147](https://www.legislation.gov.uk/ukcm/2003/147), S.R. [2005 No. 181](https://www.legislation.gov.uk/ukcm/2005/181), S.R. [2005 No. 495](https://www.legislation.gov.uk/ukcm/2005/495), S.R. [2006 No. 163](https://www.legislation.gov.uk/ukcm/2006/163), S.R. [2006 No. 366](https://www.legislation.gov.uk/ukcm/2006/366), S.R. [2007 No. 137](https://www.legislation.gov.uk/ukcm/2007/137), S.R. [2008 No. 50](https://www.legislation.gov.uk/ukcm/2008/50), S.R. [2010 No. 137](https://www.legislation.gov.uk/ukcm/2010/137), S.R. [2012 No. 126](https://www.legislation.gov.uk/ukcm/2012/126), S.R. [2013 No. 54](https://www.legislation.gov.uk/ukcm/2013/54), S.R. [2014 No. 37](https://www.legislation.gov.uk/ukcm/2014/37) and S.R. [2014 No. 70](https://www.legislation.gov.uk/ukcm/2014/70).
 
-[^key-6633c52aecd83d3b9bf8acd0a25aba47]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2014/310/schedule/3/paragraph/1) inserted (1.4.2022) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/134)](https://www.legislation.gov.uk/nisr/2022/134), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/134/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/nisr/2022/134/regulation/2/2/a)
+[^c-6633c52aecd83d3b9bf8acd0a25aba47]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2014/310/schedule/3/paragraph/1) inserted (1.4.2022) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/134)](https://www.legislation.gov.uk/nisr/2022/134), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/134/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/nisr/2022/134/regulation/2/2/a)
 
-[^key-4225c5282f3cefe3cfd82b73273a8a35]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2014/310/schedule/3/paragraph/1) inserted (1.4.2022) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/134)](https://www.legislation.gov.uk/nisr/2022/134), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/134/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/nisr/2022/134/regulation/2/2/b)
+[^c-4225c5282f3cefe3cfd82b73273a8a35]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2014/310/schedule/3/paragraph/1) inserted (1.4.2022) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/134)](https://www.legislation.gov.uk/nisr/2022/134), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/134/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/nisr/2022/134/regulation/2/2/b)
 
-[^key-a7ee6762e0f6e55f6e5920edb6c354e7]: Textual amendment: Words in Sch. 3 para. 1 omitted (1.4.2015) by virtue of [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [16](https://www.legislation.gov.uk/nisr/2015/126/regulation/16)
+[^c-a7ee6762e0f6e55f6e5920edb6c354e7]: Textual amendment: Words in Sch. 3 para. 1 omitted (1.4.2015) by virtue of [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [16](https://www.legislation.gov.uk/nisr/2015/126/regulation/16)
 
 [^c22299001]: Marginal citation: See section 18(4) and (7) of the Act for the meaning of “closing date”.
 
-[^key-e90e993953325e56aed84c76686cb23c]: Textual amendment: [Sch. 3 para. 5(3)(za)](https://www.legislation.gov.uk/nisr/2014/310/schedule/3/paragraph/5/3/za) inserted (1.4.2022) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/134)](https://www.legislation.gov.uk/nisr/2022/134), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/134/regulation/1/2), [2(3)](https://www.legislation.gov.uk/nisr/2022/134/regulation/2/3)
+[^c-e90e993953325e56aed84c76686cb23c]: Textual amendment: [Sch. 3 para. 5(3)(za)](https://www.legislation.gov.uk/nisr/2014/310/schedule/3/paragraph/5/3/za) inserted (1.4.2022) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/134)](https://www.legislation.gov.uk/nisr/2022/134), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/134/regulation/1/2), [2(3)](https://www.legislation.gov.uk/nisr/2022/134/regulation/2/3)
 
-[^key-e112c336da265413e4624dfa5ed84d3b]: Textual amendment: [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/nisr/2014/310/schedule/3/paragraph/6/2) substituted (1.4.2022) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/134)](https://www.legislation.gov.uk/nisr/2022/134), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/134/regulation/1/2), [2(4)](https://www.legislation.gov.uk/nisr/2022/134/regulation/2/4)
+[^c-e112c336da265413e4624dfa5ed84d3b]: Textual amendment: [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/nisr/2014/310/schedule/3/paragraph/6/2) substituted (1.4.2022) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/134)](https://www.legislation.gov.uk/nisr/2022/134), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/134/regulation/1/2), [2(4)](https://www.legislation.gov.uk/nisr/2022/134/regulation/2/4)
 
-[^key-316334a2512d417f2793400316b4f576]: Textual amendment: [Sch. 3 para. 22(3)](https://www.legislation.gov.uk/nisr/2014/310/schedule/3/paragraph/22/3) substituted (1.4.2022) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/134)](https://www.legislation.gov.uk/nisr/2022/134), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/134/regulation/1/2), [2(5)](https://www.legislation.gov.uk/nisr/2022/134/regulation/2/5)
+[^c-316334a2512d417f2793400316b4f576]: Textual amendment: [Sch. 3 para. 22(3)](https://www.legislation.gov.uk/nisr/2014/310/schedule/3/paragraph/22/3) substituted (1.4.2022) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/134)](https://www.legislation.gov.uk/nisr/2022/134), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/134/regulation/1/2), [2(5)](https://www.legislation.gov.uk/nisr/2022/134/regulation/2/5)
 
-[^key-0a7a2c8b30c167ed21a35540e1977666]: Textual amendment: [Sch. 3 para. 24(5)](https://www.legislation.gov.uk/nisr/2014/310/schedule/3/paragraph/24/5) substituted (1.4.2022) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/134)](https://www.legislation.gov.uk/nisr/2022/134), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/134/regulation/1/2), [2(6)](https://www.legislation.gov.uk/nisr/2022/134/regulation/2/6)
+[^c-0a7a2c8b30c167ed21a35540e1977666]: Textual amendment: [Sch. 3 para. 24(5)](https://www.legislation.gov.uk/nisr/2014/310/schedule/3/paragraph/24/5) substituted (1.4.2022) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/134)](https://www.legislation.gov.uk/nisr/2022/134), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/134/regulation/1/2), [2(6)](https://www.legislation.gov.uk/nisr/2022/134/regulation/2/6)
 
-[^key-23f1db5fc8562c72ea6e123c1debfe2d]: Textual amendment: Words in Sch. 3 para. 26(1) inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [17(a)](https://www.legislation.gov.uk/nisr/2015/126/regulation/17/a)
+[^c-23f1db5fc8562c72ea6e123c1debfe2d]: Textual amendment: Words in Sch. 3 para. 26(1) inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [17(a)](https://www.legislation.gov.uk/nisr/2015/126/regulation/17/a)
 
-[^key-ccf8e53e2a9277e7eb3ed7981eb01806]: Textual amendment: Words in [Sch. 3 para. 26(3)](https://www.legislation.gov.uk/nisr/2014/310/schedule/3/paragraph/26/3) substituted (1.4.2022) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/134)](https://www.legislation.gov.uk/nisr/2022/134), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/134/regulation/1/2), [2(7)](https://www.legislation.gov.uk/nisr/2022/134/regulation/2/7)
+[^c-ccf8e53e2a9277e7eb3ed7981eb01806]: Textual amendment: Words in [Sch. 3 para. 26(3)](https://www.legislation.gov.uk/nisr/2014/310/schedule/3/paragraph/26/3) substituted (1.4.2022) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/134)](https://www.legislation.gov.uk/nisr/2022/134), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/134/regulation/1/2), [2(7)](https://www.legislation.gov.uk/nisr/2022/134/regulation/2/7)
 
-[^key-8fda68870d82c7c43fbcc4f9213da8e8]: Textual amendment: Sch. 3 para. 26(4) inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [17(b)](https://www.legislation.gov.uk/nisr/2015/126/regulation/17/b)
+[^c-8fda68870d82c7c43fbcc4f9213da8e8]: Textual amendment: Sch. 3 para. 26(4) inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [17(b)](https://www.legislation.gov.uk/nisr/2015/126/regulation/17/b)
 
-[^key-a98cffbf3f09e97f0adc4e190f0f30a4]: Textual amendment: Words in Sch. 3 para. 28 inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [18](https://www.legislation.gov.uk/nisr/2015/126/regulation/18)
+[^c-a98cffbf3f09e97f0adc4e190f0f30a4]: Textual amendment: Words in Sch. 3 para. 28 inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [18](https://www.legislation.gov.uk/nisr/2015/126/regulation/18)
 
-[^key-9e174dcbd20ecd7716609bb885ced582]: Textual amendment: Words in Sch. 3 para. 29(2) inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [19](https://www.legislation.gov.uk/nisr/2015/126/regulation/19)
+[^c-9e174dcbd20ecd7716609bb885ced582]: Textual amendment: Words in Sch. 3 para. 29(2) inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [19](https://www.legislation.gov.uk/nisr/2015/126/regulation/19)
 
-[^key-8c74a5b49310656fc7c55739542fb325]: Textual amendment: Words in Sch. 3 para. 31 substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [20](https://www.legislation.gov.uk/nisr/2015/126/regulation/20)
+[^c-8c74a5b49310656fc7c55739542fb325]: Textual amendment: Words in Sch. 3 para. 31 substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [20](https://www.legislation.gov.uk/nisr/2015/126/regulation/20)
 
-[^key-efdb0c4328d49eba4570253baa7ca0c8]: Textual amendment: Words in Sch. 3 para. 32 substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [20](https://www.legislation.gov.uk/nisr/2015/126/regulation/20)
+[^c-efdb0c4328d49eba4570253baa7ca0c8]: Textual amendment: Words in Sch. 3 para. 32 substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [20](https://www.legislation.gov.uk/nisr/2015/126/regulation/20)
 
-[^key-dcce93c7bd6ead6461f4169e414ad758]: Textual amendment: Words in Sch. 3 para. 33(1)(b) omitted (1.4.2015) by virtue of [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [21(a)](https://www.legislation.gov.uk/nisr/2015/126/regulation/21/a)
+[^c-dcce93c7bd6ead6461f4169e414ad758]: Textual amendment: Words in Sch. 3 para. 33(1)(b) omitted (1.4.2015) by virtue of [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [21(a)](https://www.legislation.gov.uk/nisr/2015/126/regulation/21/a)
 
-[^key-a87cb0b9d4525ce12cb140716fafe66e]: Textual amendment: Sch. 3 para. 33(2) substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [21(b)](https://www.legislation.gov.uk/nisr/2015/126/regulation/21/b)
+[^c-a87cb0b9d4525ce12cb140716fafe66e]: Textual amendment: Sch. 3 para. 33(2) substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [21(b)](https://www.legislation.gov.uk/nisr/2015/126/regulation/21/b)
 
-[^key-1eff9d14abe9e1426f69095fbd7123b0]: Textual amendment: Sch. 3 paras. 33A, 33B inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [22](https://www.legislation.gov.uk/nisr/2015/126/regulation/22)
+[^c-1eff9d14abe9e1426f69095fbd7123b0]: Textual amendment: Sch. 3 paras. 33A, 33B inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [22](https://www.legislation.gov.uk/nisr/2015/126/regulation/22)
 
-[^key-6a34786dbb4bfac9937ba197024e8273]: Textual amendment: Words in Sch. 3 para. 48(1) substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [23(a)(i)](https://www.legislation.gov.uk/nisr/2015/126/regulation/23/a/i)
+[^c-6a34786dbb4bfac9937ba197024e8273]: Textual amendment: Words in Sch. 3 para. 48(1) substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [23(a)(i)](https://www.legislation.gov.uk/nisr/2015/126/regulation/23/a/i)
 
-[^key-dd36b4894e08e3bc5c60bf273a6c010c]: Textual amendment: Words in Sch. 3 para. 48(1) inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [23(a)(ii)](https://www.legislation.gov.uk/nisr/2015/126/regulation/23/a/ii)
+[^c-dd36b4894e08e3bc5c60bf273a6c010c]: Textual amendment: Words in Sch. 3 para. 48(1) inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [23(a)(ii)](https://www.legislation.gov.uk/nisr/2015/126/regulation/23/a/ii)
 
-[^key-a9793bc927e02d0b40a5d29d84367f2c]: Textual amendment: Words in Sch. 3 para. 48(1) inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [23(a)(iii)](https://www.legislation.gov.uk/nisr/2015/126/regulation/23/a/iii)
+[^c-a9793bc927e02d0b40a5d29d84367f2c]: Textual amendment: Words in Sch. 3 para. 48(1) inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [23(a)(iii)](https://www.legislation.gov.uk/nisr/2015/126/regulation/23/a/iii)
 
-[^key-6b9f4dc7f57e2666cd2b9ae5ce81bcb4]: Textual amendment: Words in Sch. 3 para. 48(2) inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [23(b)(i)](https://www.legislation.gov.uk/nisr/2015/126/regulation/23/b/i)
+[^c-6b9f4dc7f57e2666cd2b9ae5ce81bcb4]: Textual amendment: Words in Sch. 3 para. 48(2) inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [23(b)(i)](https://www.legislation.gov.uk/nisr/2015/126/regulation/23/b/i)
 
-[^key-0500d495910460888dfa05a28010c907]: Textual amendment: Words in Sch. 3 para. 48(2) omitted (1.4.2015) by virtue of [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [23(b)(ii)](https://www.legislation.gov.uk/nisr/2015/126/regulation/23/b/ii)
+[^c-0500d495910460888dfa05a28010c907]: Textual amendment: Words in Sch. 3 para. 48(2) omitted (1.4.2015) by virtue of [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [23(b)(ii)](https://www.legislation.gov.uk/nisr/2015/126/regulation/23/b/ii)
 
-[^key-04f603dbcec0a1573fa0ec7b4516bd2c]: Textual amendment: Words in Sch. 3 para. 53 inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [24](https://www.legislation.gov.uk/nisr/2015/126/regulation/24)
+[^c-04f603dbcec0a1573fa0ec7b4516bd2c]: Textual amendment: Words in Sch. 3 para. 53 inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [24](https://www.legislation.gov.uk/nisr/2015/126/regulation/24)

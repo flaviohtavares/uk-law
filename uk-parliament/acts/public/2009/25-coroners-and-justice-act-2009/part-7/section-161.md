@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Applications[^key-6886d7533948ee1ede047cc8f6664162]
+## 161. Applications[^c-6886d7533948ee1ede047cc8f6664162]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,12 +38,12 @@ summary: ''
 
 (5) In subsection (4) “**modification**” includes an amendment, addition, revocation or repeal.
 
-(6)[^key-4c0e550f773a64689a24dd0adf8ddfae] In the application of this section to Northern Ireland, in subsections (2)(a)(ii) and (4) references to the Secretary of State are to be read as references to the Department of Justice in Northern Ireland.
+(6)[^c-4c0e550f773a64689a24dd0adf8ddfae] In the application of this section to Northern Ireland, in subsections (2)(a)(ii) and (4) references to the Secretary of State are to be read as references to the Department of Justice in Northern Ireland.
 
 ## Annotations
 
-[^key-6886d7533948ee1ede047cc8f6664162]: Commencement: S. 161 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
+[^c-6886d7533948ee1ede047cc8f6664162]: Commencement: S. 161 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
 
 [^M_F_36665089-d951-48e1-ba79-fb468c9476bc]: Textual amendment: Words in s. 161(2)(a)(i) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 15](https://www.legislation.gov.uk/ukpga/2013/22/section/15), [61](https://www.legislation.gov.uk/ukpga/2013/22/section/61), [Sch. 8 para. 186](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/186); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-4c0e550f773a64689a24dd0adf8ddfae]: Textual amendment: S. 161(6) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 99](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/99) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-4c0e550f773a64689a24dd0adf8ddfae]: Textual amendment: S. 161(6) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 99](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/99) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**172.**[^key-d3622c268dc3f26a6ed4e84c71ddc28b] In section 31 (inspections by persons authorised by registration authority) for subsection (3)(b) substitute—
+**172.**[^c-d3622c268dc3f26a6ed4e84c71ddc28b] In section 31 (inspections by persons authorised by registration authority) for subsection (3)(b) substitute—
 
 > - (b) inspect and take copies of any documents or records (including medical and other personal records) required to be kept in accordance with regulations under this Part, section 9 of the Adoption and Children Act 2002, section 22C or 59(2) of the 1989 Act, section 1(3) of the Adoption (Intercountry Aspects) Act 1999 or section 81 of the Social Services and Well-being (Wales) Act 2014;
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3622c268dc3f26a6ed4e84c71ddc28b]: Commencement: Reg. 172 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-d3622c268dc3f26a6ed4e84c71ddc28b]: Commencement: Reg. 172 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

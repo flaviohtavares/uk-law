@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Enforcement of maintenance plans[^key-42269a315792c6aa5ce737fef892227e]
+## 49. Enforcement of maintenance plans[^c-42269a315792c6aa5ce737fef892227e]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ the local authority may itself do anything which it considers necessary or exped
 
 ## Annotations
 
-[^key-42269a315792c6aa5ce737fef892227e]: Commencement: S. 49 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-42269a315792c6aa5ce737fef892227e]: Commencement: S. 49 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

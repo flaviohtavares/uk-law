@@ -40,7 +40,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### The Board
 
-#### 1. Establishment of the Board[^key-b986a6ecc574c3c53905721f3c7f99ba]
+#### 1. Establishment of the Board[^c-b986a6ecc574c3c53905721f3c7f99ba]
 
 (1) The Historical Institutional Abuse Redress Board is established (and referred to in this Act as “**the Board**”).
 
@@ -48,7 +48,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Entitlement to compensation
 
-#### 2. Entitlement to claim compensation[^key-8fc3013fc47ad0befeb23d77e12b7493]
+#### 2. Entitlement to claim compensation[^c-8fc3013fc47ad0befeb23d77e12b7493]
 
 (1) An application for compensation under this Part may be made by or in respect of a person who suffered abuse while a child and while resident in an institution at some time between 1922 and 1995 (both inclusive); but this is subject to sections 3 and 4.
 
@@ -77,7 +77,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (7) The reference in subsection (1) to a person who suffered abuse while resident in an institution is, in a case within subsection (2)(d), to be read as a reference to a person who was resident in an institution immediately before being sent to Australia as mentioned in that provision.
 
-#### 3. Restrictions on entitlement to claim compensation[^key-bf4c28c93c8307d290b751324119f364]
+#### 3. Restrictions on entitlement to claim compensation[^c-bf4c28c93c8307d290b751324119f364]
 
 (1) An application for compensation under this Part may not be made in respect of a person who died before 28 April 1953.
 
@@ -91,7 +91,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) In this section, “**the IICSA scheme**” means a scheme for compensation established by Her Majesty's Government in the United Kingdom in response to the inquiry established under section 1 of the Inquiries Act 2005 and known as the Independent Inquiry into Child Sexual Abuse.
 
-#### 4. Exclusions from entitlement to claim compensation[^key-8d8733131061fc2e31c37108d5925d8b]
+#### 4. Exclusions from entitlement to claim compensation[^c-8d8733131061fc2e31c37108d5925d8b]
 
 (1) An application for compensation may (subject to subsections (3) to (5)) not be made under this Part by or in respect of a person who suffered abuse if—
 
@@ -108,7 +108,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) The reference in subsection (5) to managing an institution is a reference to providing residential accommodation in that institution.
 
-#### 5. Application for compensation[^key-f6a4ef4cc14a09a8eb6bbb5a2b82a61a]
+#### 5. Application for compensation[^c-f6a4ef4cc14a09a8eb6bbb5a2b82a61a]
 
 (1) An application for compensation under this Part must be made to the Board.
 
@@ -123,7 +123,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (5) Rules must include provision for the material which may be provided in support of an application for compensation under this Part to include material in the form of audio or video recordings.
 
-#### 6. Entitlement to claim compensation in respect of deceased person[^key-8b652a00e794e7d7f9d01648be6734a0]
+#### 6. Entitlement to claim compensation in respect of deceased person[^c-8b652a00e794e7d7f9d01648be6734a0]
 
 (1) In the case of a person who died on or after 28 April 1953, an application for compensation under this Part may (subject to subsection (2)) be made only by—
 
@@ -151,7 +151,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Determination of application
 
-#### 7. Priority of applications[^key-014998533de57e06bd148204526475b0]
+#### 7. Priority of applications[^c-014998533de57e06bd148204526475b0]
 
 (1) It is for the President of the Board to decide the order of priority in which applications for compensation under this Part are to be determined.
 
@@ -160,7 +160,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) the age of each applicant, and
 - (b) in so far as it is disclosed on the application, the health of each applicant.
 
-#### 8. Appointment of panel[^key-84d769971f0d174821fd078c6b578d8b]
+#### 8. Appointment of panel[^c-84d769971f0d174821fd078c6b578d8b]
 
 (1) An application for compensation under this Part is to be determined on behalf of the Board by a panel appointed by the President of the Board.
 
@@ -176,7 +176,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) A panel appointed under section 6(2) may determine any application which it agreed to receive under that provision (as well as any other application for compensation under this Part); and, where it does so, the panel is to be treated for the purposes of this Act as if it had been appointed under this section.
 
-#### 9. Procedure[^key-f58dd698a3038573db7d358680e1fbfd]
+#### 9. Procedure[^c-f58dd698a3038573db7d358680e1fbfd]
 
 (1) An application for compensation under this Part is to be determined by the panel appointed under section 8 on the basis of—
 
@@ -210,7 +210,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (9) In this section, “**the Inquiry**” means the inquiry held under the Inquiry into Historical Institutional Abuse Act (Northern Ireland) 2013; but the references in this section to the Inquiry do not include a reference to that part of the Inquiry described in its terms of reference as the Acknowledgement Forum.
 
-#### 10. Power to compel giving of evidence[^key-0e733496b2d990d914610540cab30299]
+#### 10. Power to compel giving of evidence[^c-0e733496b2d990d914610540cab30299]
 
 (1) For the purpose of determining an application for compensation under this Part, the panel appointed under section 8 may by notice in writing require a person—
 
@@ -241,7 +241,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (10) In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
-#### 11. Advisors[^key-b0e3f14276e6b735aeb6609f3a891b27]
+#### 11. Advisors[^c-b0e3f14276e6b735aeb6609f3a891b27]
 
 (1) The Board may appoint one or more persons to act as advisors to the Board.
 
@@ -251,7 +251,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Award of compensation
 
-#### 12. Assessment of compensation[^key-c493458e28e590f146a66f77da8f0cbe]
+#### 12. Assessment of compensation[^c-c493458e28e590f146a66f77da8f0cbe]
 
 (1) The amount of an award of compensation under this Part is to be assessed by the panel appointed under section 8 in accordance with this section and section 13.
 
@@ -283,7 +283,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (10) The power to make an order under subsection (8) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979; and an order may not be made under that subsection unless a draft of the order has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
 
-#### 13. Actuarial adjustment of award[^key-9681e0aaa9edac0c70238d4d0463a916]
+#### 13. Actuarial adjustment of award[^c-9681e0aaa9edac0c70238d4d0463a916]
 
 (1) This section applies in a case where—
 
@@ -309,7 +309,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) In this section, “**statutory provision**” has the meaning given in section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
-#### 14. Initial payment of award[^key-6710ddaa0dd3e316dd58149589515bcb]
+#### 14. Initial payment of award[^c-6710ddaa0dd3e316dd58149589515bcb]
 
 (1) This section applies in the case of an application for compensation for having suffered the abuse referred to in section 2(2)(a), (b) or (c) (abuse in an institution in Northern Ireland).
 
@@ -319,7 +319,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) If the amount of the award of compensation is adjusted under section 13, the reference in subsection (3) of this section to the total compensation awarded is a reference to the total of the award after the adjustment is made.
 
-#### 15. Status etc of award[^key-d32fce81b3ad3d516ab4a1e02d4c641d]
+#### 15. Status etc of award[^c-d32fce81b3ad3d516ab4a1e02d4c641d]
 
 (1) An award of compensation under this Part is to be paid—
 
@@ -341,7 +341,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Appeal
 
-#### 16. Right to appeal[^key-9def00681e4ceb260ab1c6fcdeaa1158]
+#### 16. Right to appeal[^c-9def00681e4ceb260ab1c6fcdeaa1158]
 
 (1) A person who applied for compensation under this Part may appeal against a determination under section 8—
 
@@ -374,7 +374,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Miscellaneous
 
-#### 17. Restrictions on public access[^key-88e938e2c1b8ab0e47a7905d4d7aa221]
+#### 17. Restrictions on public access[^c-88e938e2c1b8ab0e47a7905d4d7aa221]
 
 (1) The President of the Board may by order (a “restriction order”) impose specified restrictions on—
 
@@ -407,7 +407,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) under the terms of the relevant order, the restrictions expire at a specified time, or
 - (b) the relevant order is varied or revoked under subsection (5).
 
-#### 18. Information about legal advice and assistance[^key-ff84e992db9b93b078c7ae516487eeda]
+#### 18. Information about legal advice and assistance[^c-ff84e992db9b93b078c7ae516487eeda]
 
 (1) The secretary to the Board must, on a request from the Department of Justice in Northern Ireland, provide that Department with—
 
@@ -416,7 +416,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (2) This section does not authorise the provision of information in contravention of any law which restricts or prevents provision of the information (including section 17).
 
-#### 19. Rules[^key-153be0e1c895d8c9e1d2277247e53856]
+#### 19. Rules[^c-153be0e1c895d8c9e1d2277247e53856]
 
 (1) Rules may make procedural provision for the purposes of this Part.
 
@@ -438,7 +438,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) Rules under this Part may contain incidental, supplementary, transitional or saving provision.
 
-#### 20. Rules: procedure[^key-d76232660aaffa5aa9c387ae3f78959b]
+#### 20. Rules: procedure[^c-d76232660aaffa5aa9c387ae3f78959b]
 
 (1) The power to make rules under this Part is exercisable by the Executive Office; but the Executive Office may not make rules without having obtained the approval of the Lord Chief Justice of Northern Ireland.
 
@@ -448,7 +448,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### The Commissioner
 
-#### 21. Establishment of the Commissioner[^key-28887fef3f71953fc31897e18780a426]
+#### 21. Establishment of the Commissioner[^c-28887fef3f71953fc31897e18780a426]
 
 (1) An officer known as the Commissioner for Survivors of Institutional Childhood Abuse is established (and referred to in this Act as “**the Commissioner**”).
 
@@ -456,7 +456,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) Schedule 2 makes further provision about the Commissioner.
 
-#### 22. Principal aim of the Commissioner[^key-4554396523ee06e7210df818247e708b]
+#### 22. Principal aim of the Commissioner[^c-4554396523ee06e7210df818247e708b]
 
 (1) The principal aim of the Commissioner in exercising functions under this Act is to promote the interests of any person who suffered abuse while a child and while resident in an institution at some time between 1922 and 1995 (both inclusive).
 
@@ -464,7 +464,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### The Advisory Panel
 
-#### 23. The Advisory Panel[^key-b6d58b2fea9ff776b420f42df8f802af]
+#### 23. The Advisory Panel[^c-b6d58b2fea9ff776b420f42df8f802af]
 
 (1) The Commissioner must appoint a panel of persons, all of whom are victims and survivors.
 
@@ -476,7 +476,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Functions
 
-#### 24. General duties of the Commissioner[^key-43709e83969745744424650dea956402]
+#### 24. General duties of the Commissioner[^c-43709e83969745744424650dea956402]
 
 (1) The Commissioner must provide advice on matters concerning the interests of victims and survivors to the Executive Office or a person providing services to victims and survivors—
 
@@ -489,7 +489,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (b) the location of the Commissioner, and
 - (c) the ways in which they may communicate with the Commissioner.
 
-#### 25. Powers of the Commissioner[^key-0871578192e8c331363b0ac10d16a4a6]
+#### 25. Powers of the Commissioner[^c-0871578192e8c331363b0ac10d16a4a6]
 
 (1) The Commissioner may undertake or commission research into matters concerning the interests of victims and survivors.
 
@@ -503,7 +503,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) The Commissioner may make representations or recommendations to any person about matters concerning the interests of victims and survivors.
 
-#### 26. Co-ordination of service provision etc[^key-64f54626fe0b0cf51476b10b73be14a1]
+#### 26. Co-ordination of service provision etc[^c-64f54626fe0b0cf51476b10b73be14a1]
 
 (1) The Commissioner must encourage the provision, and the coordination of the provision, of relevant services in Northern Ireland to victims and survivors.
 
@@ -525,7 +525,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (5) The Commissioner must, on becoming aware in the course of exercising the Commissioner's functions of a matter which comes within the area of responsibility of the Commissioner for Children and Young People in Northern Ireland, consult that Commissioner.
 
-#### 27. Monitoring specialist facilities[^key-3a33b6378cd5f5b682fd5abc71f97c17]
+#### 27. Monitoring specialist facilities[^c-3a33b6378cd5f5b682fd5abc71f97c17]
 
 The Commissioner must monitor the operation of whatever facilities there are currently available in Northern Ireland which are solely for providing victims and survivors with—
 
@@ -533,7 +533,7 @@ The Commissioner must monitor the operation of whatever facilities there are cur
 - (b) help to improve literacy or numeracy, or
 - (c) advice on opportunities for education or work or on entitlements to housing or social security benefits.
 
-#### 28. Functions relating to the Board, etc[^key-abbe02e042462311b9afef8b94ae50f2]
+#### 28. Functions relating to the Board, etc[^c-abbe02e042462311b9afef8b94ae50f2]
 
 (1) The Commissioner must make arrangements for publicising the role of the Board.
 
@@ -548,7 +548,7 @@ The Commissioner must monitor the operation of whatever facilities there are cur
 
 ### Miscellaneous
 
-#### 29. Independent review[^key-7ab94cd6889f41c6c4e03fae6f6399f2]
+#### 29. Independent review[^c-7ab94cd6889f41c6c4e03fae6f6399f2]
 
 (1) The First Minister and deputy First Minister acting jointly must, every five years, commission an independent person—
 
@@ -559,7 +559,7 @@ The Commissioner must monitor the operation of whatever facilities there are cur
 
 (3) The report must include an assessment of whether there continues to be a need for the Commissioner; and the First Minister and deputy First Minister acting jointly must, in light of that assessment, determine whether the office of the Commissioner should continue.
 
-#### 30. Defamation: privilege[^key-170d6b6b7b50eb07afeedac3c6f0dc19]
+#### 30. Defamation: privilege[^c-170d6b6b7b50eb07afeedac3c6f0dc19]
 
 For the purposes of the law of defamation, publication of anything under this Part by the Commissioner is absolutely privileged.
 
@@ -606,7 +606,7 @@ Section 1
 
 ### Status
 
-**1.**[^key-91e998e06c6c839fcd0a6402150f02ed] (1) The Board is a body corporate.
+**1.**[^c-91e998e06c6c839fcd0a6402150f02ed] (1) The Board is a body corporate.
 
 (2) The Board is not to be regarded—
 
@@ -617,17 +617,17 @@ Section 1
 
 ### Advertisement in the Belfast Gazette
 
-**2.**[^key-a23fe4944073c6af21049b38ad5d3be5] The Executive Office must secure that the establishment of the Board is advertised in the Belfast Gazette.
+**2.**[^c-a23fe4944073c6af21049b38ad5d3be5] The Executive Office must secure that the establishment of the Board is advertised in the Belfast Gazette.
 
 ### Administrative functions exercisable by Northern Ireland Department
 
-**3.**[^key-da3d0051a536c9f9c4e129cedc0758e7] (1) The Executive Office must in writing designate a Northern Ireland Department to exercise the administrative functions of the Board on the Board's behalf.
+**3.**[^c-da3d0051a536c9f9c4e129cedc0758e7] (1) The Executive Office must in writing designate a Northern Ireland Department to exercise the administrative functions of the Board on the Board's behalf.
 
 (2) The designated Department (whether in its own capacity or in the capacity of an agency of that Department) is, accordingly, to exercise the administrative functions of the Board on the Board's behalf; and references in this Schedule to “the Department” are references to the designated Department.
 
 ### Functions
 
-**4.**[^key-aafb6f27e71a72d307c9d2e9d31b88e4] (1) In the exercise of the Board's functions, the Board or any member of the Board acting on its behalf, must have regard to the Report of the Historical Institutional Abuse Inquiry (ISBN 978-1-908820-91-4), being the report of the Inquiry held under the Inquiry into Historical Institutional Abuse Act (Northern Ireland) 2013; but this duty does not apply in so far as any of the Board's functions depart from the recommendations made in the Report.
+**4.**[^c-aafb6f27e71a72d307c9d2e9d31b88e4] (1) In the exercise of the Board's functions, the Board or any member of the Board acting on its behalf, must have regard to the Report of the Historical Institutional Abuse Inquiry (ISBN 978-1-908820-91-4), being the report of the Inquiry held under the Inquiry into Historical Institutional Abuse Act (Northern Ireland) 2013; but this duty does not apply in so far as any of the Board's functions depart from the recommendations made in the Report.
 
 (2) The Board, or any member of the Board acting on its behalf, may do anything which the Board or member considers to be appropriate for facilitating, or to be incidental or conducive to, the exercise of its functions.
 
@@ -635,7 +635,7 @@ Section 1
 
 ### President and other members
 
-**5.**[^key-4824e2842b2bd681cc8a9db86f131481] (1) The Lord Chief Justice of Northern Ireland is to appoint a person as the President of the Board.
+**5.**[^c-4824e2842b2bd681cc8a9db86f131481] (1) The Lord Chief Justice of Northern Ireland is to appoint a person as the President of the Board.
 
 (2) The Lord Chief Justice of Northern Ireland is to appoint such persons to serve as the other judicial members of the Board as the President considers necessary, but with the number subject to the approval of the Executive Office.
 
@@ -656,7 +656,7 @@ Section 1
 
 ### Staff, accommodation etc.
 
-**6.**[^key-bf305bd95e648258b236fb67389c44fa] (1) The staff required for the Board are, with the approval of the Executive Office as to numbers, to be provided by the Department.
+**6.**[^c-bf305bd95e648258b236fb67389c44fa] (1) The staff required for the Board are, with the approval of the Executive Office as to numbers, to be provided by the Department.
 
 (2) The staff provided under sub-paragraph (1) must, in particular, include a person to act as the secretary to the Board.
 
@@ -666,7 +666,7 @@ Section 1
 
 ### Delegation and committees
 
-**7.**[^key-92572206281566f33dc4dcbeae71b8d1] (1) Any function of the President may be exercised by another judicial member of the Board who has been authorised (whether generally or specifically) by the President for that purpose.
+**7.**[^c-92572206281566f33dc4dcbeae71b8d1] (1) Any function of the President may be exercised by another judicial member of the Board who has been authorised (whether generally or specifically) by the President for that purpose.
 
 (2) The Board may establish one or more committees to advise the Board or the President.
 
@@ -674,20 +674,20 @@ Section 1
 
 ### Seal
 
-**8.**[^key-24702d35a93d9a2950f64475a91a860a] The application of the seal of the Board must be authenticated—
+**8.**[^c-24702d35a93d9a2950f64475a91a860a] The application of the seal of the Board must be authenticated—
 
 - (a) by the signature of the President, or
 - (b) by the signature of a person who is authorised under paragraph 7(1) for that purpose.
 
 ### Evidence
 
-**9.**[^key-bca7104c6ebf181481faab81b8fef009] (1) A document purporting to be an instrument issued by the Board and to be duly executed under the Board's seal or signed by or on behalf of the Board is to be received in evidence and, unless the contrary is proved, taken to be such an instrument.
+**9.**[^c-bca7104c6ebf181481faab81b8fef009] (1) A document purporting to be an instrument issued by the Board and to be duly executed under the Board's seal or signed by or on behalf of the Board is to be received in evidence and, unless the contrary is proved, taken to be such an instrument.
 
 (2) The Board may administer oaths for the purposes of this Act.
 
 ### Funding
 
-**10.**[^key-66bc731ee4651881b0897271576826be] (1) The Executive Office may make to the Department grants of such amounts as the Executive Office determines for the purpose of funding—
+**10.**[^c-66bc731ee4651881b0897271576826be] (1) The Executive Office may make to the Department grants of such amounts as the Executive Office determines for the purpose of funding—
 
 - (a) the costs of exercising the administrative functions of the Board,
 - (b) the awards of compensation made under this Part, and
@@ -701,7 +701,7 @@ Section 1
 
 ### Annual report
 
-**11.**[^key-138d0eff01ee6609e114f04f5c9d31f2] (1) The Board must, as soon as practicable after the end of each financial year, send to the Executive Office a report on the exercise of the Board's functions during that year.
+**11.**[^c-138d0eff01ee6609e114f04f5c9d31f2] (1) The Board must, as soon as practicable after the end of each financial year, send to the Executive Office a report on the exercise of the Board's functions during that year.
 
 (2) The Executive Office must, in the case of each report sent to it under this paragraph, lay a copy of the report before the Northern Ireland Assembly.
 
@@ -712,15 +712,15 @@ Section 1
 
 ### Disqualification from the Assembly
 
-**12.**[^key-e2e6da25138c7aed09852e6efeb131b8] In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (disqualifying offices: bodies of which all members are disqualified), at the appropriate place, insert— “ The Historical Institutional Abuse Redress Board ”.
+**12.**[^c-e2e6da25138c7aed09852e6efeb131b8] In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (disqualifying offices: bodies of which all members are disqualified), at the appropriate place, insert— “ The Historical Institutional Abuse Redress Board ”.
 
 ### Freedom of information
 
-**13.**[^key-fd16c86177de0abadaf49f33c14495a4] In Part 7 of Schedule 1 to the Freedom of Information Act 2000 (offices and bodies in Northern Ireland which are public authorities for the purposes of the Act), at the appropriate place, insert— “ The Historical Institutional Abuse Redress Board, in relation to its administrative functions. ”
+**13.**[^c-fd16c86177de0abadaf49f33c14495a4] In Part 7 of Schedule 1 to the Freedom of Information Act 2000 (offices and bodies in Northern Ireland which are public authorities for the purposes of the Act), at the appropriate place, insert— “ The Historical Institutional Abuse Redress Board, in relation to its administrative functions. ”
 
 ### Public Services Ombudsman
 
-**14.**[^key-37ea614ef337cebdcaa10295e8a4a7e5] In Schedule 3 to the Public Services Ombudsman Act (Northern Ireland) 2016 (listed authorities), under the heading “Miscellaneous”, at the appropriate place, insert— “ The Historical Institutional Abuse Redress Board established under section 1 of the Historical Institutional Abuse (Northern Ireland) Act 2019 ”.
+**14.**[^c-37ea614ef337cebdcaa10295e8a4a7e5] In Schedule 3 to the Public Services Ombudsman Act (Northern Ireland) 2016 (listed authorities), under the heading “Miscellaneous”, at the appropriate place, insert— “ The Historical Institutional Abuse Redress Board established under section 1 of the Historical Institutional Abuse (Northern Ireland) Act 2019 ”.
 
 ## SCHEDULE 2 — The Commissioner for Survivors of Institutional Child Abuse
 
@@ -728,7 +728,7 @@ Section 21
 
 ### Status
 
-**1.**[^key-3cb530a3f98ba819b1a23e74cd75ea83] (1) The person for the time being holding the office of Commissioner for Survivors of Institutional Childhood Abuse is, by that name, a corporation sole.
+**1.**[^c-3cb530a3f98ba819b1a23e74cd75ea83] (1) The person for the time being holding the office of Commissioner for Survivors of Institutional Childhood Abuse is, by that name, a corporation sole.
 
 (2) The Commissioner is not to be regarded—
 
@@ -739,7 +739,7 @@ Section 21
 
 ### General powers
 
-**2.**[^key-e73139b03d9ef3cdf1275b225a6caf83] (1) The Commissioner may do anything which the Commissioner considers to be appropriate for facilitating, or to be incidental or conducive to, the exercise of the Commissioner's functions.
+**2.**[^c-e73139b03d9ef3cdf1275b225a6caf83] (1) The Commissioner may do anything which the Commissioner considers to be appropriate for facilitating, or to be incidental or conducive to, the exercise of the Commissioner's functions.
 
 (2) The power under sub-paragraph (1) includes a power to co-operate with other bodies which exercise functions (whether in the United Kingdom or elsewhere) relating to persons who suffered abuse while children and while resident in accommodation provided for them by a body, society or organisation with responsibility for the care, health and welfare of children.
 
@@ -752,7 +752,7 @@ Section 21
 
 ### Tenure of office
 
-**3.**[^key-15c7242f3cb133801629110b94977b62] (1) A person holds and vacates office as the Commissioner in accordance with the terms of that person's appointment; but that is subject to the following provisions of this paragraph.
+**3.**[^c-15c7242f3cb133801629110b94977b62] (1) A person holds and vacates office as the Commissioner in accordance with the terms of that person's appointment; but that is subject to the following provisions of this paragraph.
 
 (2) An appointment as the Commissioner is for a term of five years.
 
@@ -773,7 +773,7 @@ Section 21
 
 ### Salary, etc
 
-**4.**[^key-d9f15143d06b00da7e1847082aceb7d1] (1) The Executive Office may pay to or in respect of the Commissioner such remuneration, such allowances, and such sums for the provision of a pension as the Executive Office determines.
+**4.**[^c-d9f15143d06b00da7e1847082aceb7d1] (1) The Executive Office may pay to or in respect of the Commissioner such remuneration, such allowances, and such sums for the provision of a pension as the Executive Office determines.
 
 (2) Where a person ceases to hold office as the Commissioner otherwise than on the expiry of the person's term of office and the Executive Office determines that there are special circumstances that make it right for the person to receive compensation, the Executive Office may make to the person a payment of such amount as it determines.
 
@@ -781,7 +781,7 @@ Section 21
 
 ### Staff
 
-**5.**[^key-97dbfb5ffaf65a8bd938e84819d25070] (1) The Commissioner may, with the approval of the Executive Office as to numbers, appoint such staff as the Commissioner considers necessary.
+**5.**[^c-97dbfb5ffaf65a8bd938e84819d25070] (1) The Commissioner may, with the approval of the Executive Office as to numbers, appoint such staff as the Commissioner considers necessary.
 
 (2) The remuneration and other conditions of service of the persons appointed as members of the Commissioner's staff are to be determined by the Commissioner.
 
@@ -795,28 +795,28 @@ Section 21
 
 ### Delegation of functions of Commissioner
 
-**6.**[^key-c8e7cbb5c9e7fc12bc45dc5fed76f4a1] Any function of the Commissioner may be exercised by a member of the Commissioner's staff who has been authorised (whether generally or specifically) by the Commissioner for that purpose.
+**6.**[^c-c8e7cbb5c9e7fc12bc45dc5fed76f4a1] Any function of the Commissioner may be exercised by a member of the Commissioner's staff who has been authorised (whether generally or specifically) by the Commissioner for that purpose.
 
 ### Seal
 
-**7.**[^key-6ef1da970f7e9ea985266145a8f67572] The application of the seal of the Commissioner must be authenticated—
+**7.**[^c-6ef1da970f7e9ea985266145a8f67572] The application of the seal of the Commissioner must be authenticated—
 
 - (a) by the Commissioner's signature, or
 - (b) by the signature of a person who is authorised under paragraph 6 for that purpose.
 
 ### Evidence
 
-**8.**[^key-e9139d0057b864473d6491718f81cbaf] A document purporting to be an instrument issued by the Commissioner and to be duly executed under the Commissioner's seal or signed by or on behalf of the Commissioner is to be received in evidence and, unless the contrary is proved, taken to be such an instrument.
+**8.**[^c-e9139d0057b864473d6491718f81cbaf] A document purporting to be an instrument issued by the Commissioner and to be duly executed under the Commissioner's seal or signed by or on behalf of the Commissioner is to be received in evidence and, unless the contrary is proved, taken to be such an instrument.
 
 ### Property
 
-**9.**[^key-1010876d7d77dc367dc782d6a6e4873b] (1) Any real or personal property vested in the Commissioner must (unless and until disclaimed or disposed of) vest in the Commissioner's successor in office.
+**9.**[^c-1010876d7d77dc367dc782d6a6e4873b] (1) Any real or personal property vested in the Commissioner must (unless and until disclaimed or disposed of) vest in the Commissioner's successor in office.
 
 (2) Where there is a vacancy in the office of Commissioner at the time when real or personal property would otherwise have vested, the property must vest in the successor on that person's appointment.
 
 ### Funding
 
-**10.**[^key-271650e7385b9385739968ed2f2bf970] (1) The Executive Office may make grants to the Commissioner of such amounts as it determines.
+**10.**[^c-271650e7385b9385739968ed2f2bf970] (1) The Executive Office may make grants to the Commissioner of such amounts as it determines.
 
 (2) The Commissioner must pay to the Executive Office all sums received by the Commissioner in the course of, or in connection with, the exercise of the Commissioner's functions.
 
@@ -826,7 +826,7 @@ Section 21
 
 ### Accounts
 
-**11.**[^key-bb3df65ab66a3d3cfcd3775204b0c9b7] (1) The Commissioner must—
+**11.**[^c-bb3df65ab66a3d3cfcd3775204b0c9b7] (1) The Commissioner must—
 
 - (a) keep proper accounts and proper records in relation to the accounts, and
 - (b) prepare a statement of accounts in respect of each financial year.
@@ -855,7 +855,7 @@ Section 21
 
 ### Annual report
 
-**12.**[^key-0994197cf6f349f5da9769a224d1e551] (1) The Commissioner must, as soon as practicable after the end of each financial year, send to the Executive Office a report on the exercise of the Commissioner's functions during that year.
+**12.**[^c-0994197cf6f349f5da9769a224d1e551] (1) The Commissioner must, as soon as practicable after the end of each financial year, send to the Executive Office a report on the exercise of the Commissioner's functions during that year.
 
 (2) A report under this paragraph must give details of the steps taken by the Commissioner in the financial year to which the report relates for the purpose of complying with the Commissioner's duties.
 
@@ -865,132 +865,132 @@ Section 21
 
 ### Disqualification from the Assembly
 
-**13.**[^key-b14c481828421b641eb2228de003a7c2] In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (disqualifying offices), at the appropriate place, insert— “ Commissioner for Survivors of Institutional Childhood Abuse ”.
+**13.**[^c-b14c481828421b641eb2228de003a7c2] In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (disqualifying offices), at the appropriate place, insert— “ Commissioner for Survivors of Institutional Childhood Abuse ”.
 
 ### Freedom of information
 
-**14.**[^key-e978b47e607c5bc847d527ef670c4319] In Part 7 of Schedule 1 to the Freedom of Information Act 2000 (offices and bodies in Northern Ireland which are public authorities for the purposes of the Act), at the appropriate place, insert— “ Commissioner for Survivors of Institutional Childhood Abuse ”.
+**14.**[^c-e978b47e607c5bc847d527ef670c4319] In Part 7 of Schedule 1 to the Freedom of Information Act 2000 (offices and bodies in Northern Ireland which are public authorities for the purposes of the Act), at the appropriate place, insert— “ Commissioner for Survivors of Institutional Childhood Abuse ”.
 
 ### Public Services Ombudsman
 
-**15.**[^key-79cddd540f13b10b67dc00c1991627d1] In Schedule 3 to the Public Services Ombudsman Act (Northern Ireland) 2016 (listed authorities), under the heading “Miscellaneous”, at the appropriate place, insert— “ The Office of the Commissioner for Survivors of Institutional Childhood Abuse ”.
+**15.**[^c-79cddd540f13b10b67dc00c1991627d1] In Schedule 3 to the Public Services Ombudsman Act (Northern Ireland) 2016 (listed authorities), under the heading “Miscellaneous”, at the appropriate place, insert— “ The Office of the Commissioner for Survivors of Institutional Childhood Abuse ”.
 
 ## Annotations
 
-[^key-b986a6ecc574c3c53905721f3c7f99ba]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2019/31/section/1) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-b986a6ecc574c3c53905721f3c7f99ba]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2019/31/section/1) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-8fc3013fc47ad0befeb23d77e12b7493]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2019/31/section/2) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-8fc3013fc47ad0befeb23d77e12b7493]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2019/31/section/2) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-bf4c28c93c8307d290b751324119f364]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2019/31/section/3) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-bf4c28c93c8307d290b751324119f364]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2019/31/section/3) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-8d8733131061fc2e31c37108d5925d8b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2019/31/section/4) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-8d8733131061fc2e31c37108d5925d8b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2019/31/section/4) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-f6a4ef4cc14a09a8eb6bbb5a2b82a61a]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/31/section/5) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-f6a4ef4cc14a09a8eb6bbb5a2b82a61a]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/31/section/5) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-8b652a00e794e7d7f9d01648be6734a0]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/31/section/6) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-8b652a00e794e7d7f9d01648be6734a0]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/31/section/6) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-014998533de57e06bd148204526475b0]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/31/section/7) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-014998533de57e06bd148204526475b0]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/31/section/7) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-84d769971f0d174821fd078c6b578d8b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2019/31/section/8) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-84d769971f0d174821fd078c6b578d8b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2019/31/section/8) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-f58dd698a3038573db7d358680e1fbfd]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2019/31/section/9) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-f58dd698a3038573db7d358680e1fbfd]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2019/31/section/9) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-0e733496b2d990d914610540cab30299]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2019/31/section/10) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-0e733496b2d990d914610540cab30299]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2019/31/section/10) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-b0e3f14276e6b735aeb6609f3a891b27]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2019/31/section/11) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-b0e3f14276e6b735aeb6609f3a891b27]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2019/31/section/11) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-c493458e28e590f146a66f77da8f0cbe]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2019/31/section/12) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-c493458e28e590f146a66f77da8f0cbe]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2019/31/section/12) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-9681e0aaa9edac0c70238d4d0463a916]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2019/31/section/13) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-9681e0aaa9edac0c70238d4d0463a916]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2019/31/section/13) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-6710ddaa0dd3e316dd58149589515bcb]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2019/31/section/14) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-6710ddaa0dd3e316dd58149589515bcb]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2019/31/section/14) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-d32fce81b3ad3d516ab4a1e02d4c641d]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2019/31/section/15) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-d32fce81b3ad3d516ab4a1e02d4c641d]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2019/31/section/15) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-9def00681e4ceb260ab1c6fcdeaa1158]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2019/31/section/16) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-9def00681e4ceb260ab1c6fcdeaa1158]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2019/31/section/16) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-88e938e2c1b8ab0e47a7905d4d7aa221]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2019/31/section/17) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-88e938e2c1b8ab0e47a7905d4d7aa221]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2019/31/section/17) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-ff84e992db9b93b078c7ae516487eeda]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2019/31/section/18) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-ff84e992db9b93b078c7ae516487eeda]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2019/31/section/18) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-153be0e1c895d8c9e1d2277247e53856]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2019/31/section/19) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-153be0e1c895d8c9e1d2277247e53856]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2019/31/section/19) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-d76232660aaffa5aa9c387ae3f78959b]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2019/31/section/20) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
+[^c-d76232660aaffa5aa9c387ae3f78959b]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2019/31/section/20) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/48/article/2/a)
 
-[^key-28887fef3f71953fc31897e18780a426]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2019/31/section/21) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
+[^c-28887fef3f71953fc31897e18780a426]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2019/31/section/21) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
 
-[^key-4554396523ee06e7210df818247e708b]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2019/31/section/22) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
+[^c-4554396523ee06e7210df818247e708b]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2019/31/section/22) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
 
-[^key-b6d58b2fea9ff776b420f42df8f802af]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2019/31/section/23) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
+[^c-b6d58b2fea9ff776b420f42df8f802af]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2019/31/section/23) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
 
-[^key-43709e83969745744424650dea956402]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2019/31/section/24) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
+[^c-43709e83969745744424650dea956402]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2019/31/section/24) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
 
-[^key-0871578192e8c331363b0ac10d16a4a6]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2019/31/section/25) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
+[^c-0871578192e8c331363b0ac10d16a4a6]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2019/31/section/25) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
 
-[^key-64f54626fe0b0cf51476b10b73be14a1]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2019/31/section/26) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
+[^c-64f54626fe0b0cf51476b10b73be14a1]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2019/31/section/26) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
 
-[^key-3a33b6378cd5f5b682fd5abc71f97c17]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2019/31/section/27) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
+[^c-3a33b6378cd5f5b682fd5abc71f97c17]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2019/31/section/27) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
 
-[^key-abbe02e042462311b9afef8b94ae50f2]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2019/31/section/28) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
+[^c-abbe02e042462311b9afef8b94ae50f2]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2019/31/section/28) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
 
-[^key-7ab94cd6889f41c6c4e03fae6f6399f2]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2019/31/section/29) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
+[^c-7ab94cd6889f41c6c4e03fae6f6399f2]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2019/31/section/29) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
 
-[^key-170d6b6b7b50eb07afeedac3c6f0dc19]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2019/31/section/30) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
+[^c-170d6b6b7b50eb07afeedac3c6f0dc19]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2019/31/section/30) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/229/article/2/a)
 
-[^key-91e998e06c6c839fcd0a6402150f02ed]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/1) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+[^c-91e998e06c6c839fcd0a6402150f02ed]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/1) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
 
-[^key-a23fe4944073c6af21049b38ad5d3be5]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/2) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+[^c-a23fe4944073c6af21049b38ad5d3be5]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/2) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
 
-[^key-da3d0051a536c9f9c4e129cedc0758e7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/3) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+[^c-da3d0051a536c9f9c4e129cedc0758e7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/3) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
 
-[^key-aafb6f27e71a72d307c9d2e9d31b88e4]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/4) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+[^c-aafb6f27e71a72d307c9d2e9d31b88e4]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/4) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
 
-[^key-4824e2842b2bd681cc8a9db86f131481]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/5) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+[^c-4824e2842b2bd681cc8a9db86f131481]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/5) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
 
-[^key-bf305bd95e648258b236fb67389c44fa]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/6) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+[^c-bf305bd95e648258b236fb67389c44fa]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/6) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
 
-[^key-92572206281566f33dc4dcbeae71b8d1]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/7) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+[^c-92572206281566f33dc4dcbeae71b8d1]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/7) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
 
-[^key-24702d35a93d9a2950f64475a91a860a]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/8) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+[^c-24702d35a93d9a2950f64475a91a860a]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/8) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
 
-[^key-bca7104c6ebf181481faab81b8fef009]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/9) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+[^c-bca7104c6ebf181481faab81b8fef009]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/9) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
 
-[^key-66bc731ee4651881b0897271576826be]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/10) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+[^c-66bc731ee4651881b0897271576826be]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/10) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
 
-[^key-138d0eff01ee6609e114f04f5c9d31f2]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/11) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+[^c-138d0eff01ee6609e114f04f5c9d31f2]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/11) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
 
-[^key-e2e6da25138c7aed09852e6efeb131b8]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/12) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+[^c-e2e6da25138c7aed09852e6efeb131b8]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/12) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
 
-[^key-fd16c86177de0abadaf49f33c14495a4]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/13) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+[^c-fd16c86177de0abadaf49f33c14495a4]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/13) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
 
-[^key-37ea614ef337cebdcaa10295e8a4a7e5]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/14) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+[^c-37ea614ef337cebdcaa10295e8a4a7e5]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/14) in force at 27.3.2020 by [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
 
-[^key-3cb530a3f98ba819b1a23e74cd75ea83]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/1) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-3cb530a3f98ba819b1a23e74cd75ea83]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/1) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
 
-[^key-e73139b03d9ef3cdf1275b225a6caf83]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/2) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-e73139b03d9ef3cdf1275b225a6caf83]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/2) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
 
-[^key-15c7242f3cb133801629110b94977b62]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/3) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-15c7242f3cb133801629110b94977b62]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/3) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
 
-[^key-d9f15143d06b00da7e1847082aceb7d1]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/4) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-d9f15143d06b00da7e1847082aceb7d1]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/4) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
 
-[^key-97dbfb5ffaf65a8bd938e84819d25070]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/5) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-97dbfb5ffaf65a8bd938e84819d25070]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/5) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
 
-[^key-c8e7cbb5c9e7fc12bc45dc5fed76f4a1]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/6) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-c8e7cbb5c9e7fc12bc45dc5fed76f4a1]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/6) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
 
-[^key-6ef1da970f7e9ea985266145a8f67572]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/7) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-6ef1da970f7e9ea985266145a8f67572]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/7) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
 
-[^key-e9139d0057b864473d6491718f81cbaf]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/8) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-e9139d0057b864473d6491718f81cbaf]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/8) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
 
-[^key-1010876d7d77dc367dc782d6a6e4873b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/9) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-1010876d7d77dc367dc782d6a6e4873b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/9) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
 
-[^key-271650e7385b9385739968ed2f2bf970]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/10) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-271650e7385b9385739968ed2f2bf970]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/10) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
 
-[^key-bb3df65ab66a3d3cfcd3775204b0c9b7]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/11) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-bb3df65ab66a3d3cfcd3775204b0c9b7]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/11) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
 
-[^key-0994197cf6f349f5da9769a224d1e551]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/12) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-0994197cf6f349f5da9769a224d1e551]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/12) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
 
-[^key-b14c481828421b641eb2228de003a7c2]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/13) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-b14c481828421b641eb2228de003a7c2]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/13) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
 
-[^key-e978b47e607c5bc847d527ef670c4319]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/14) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-e978b47e607c5bc847d527ef670c4319]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/14) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
 
-[^key-79cddd540f13b10b67dc00c1991627d1]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/15) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-79cddd540f13b10b67dc00c1991627d1]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/15) in force at 2.11.2020 by [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)

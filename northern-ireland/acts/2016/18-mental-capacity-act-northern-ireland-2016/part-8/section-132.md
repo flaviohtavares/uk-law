@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 132. Research[^key-6ef352a7339773cfdd995adcfea6a36b]
+## 132. Research[^c-6ef352a7339773cfdd995adcfea6a36b]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ef352a7339773cfdd995adcfea6a36b]: Commencement: [S. 132](https://www.legislation.gov.uk/nia/2016/18/section/132) in operation at 1.10.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-6ef352a7339773cfdd995adcfea6a36b]: Commencement: [S. 132](https://www.legislation.gov.uk/nia/2016/18/section/132) in operation at 1.10.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

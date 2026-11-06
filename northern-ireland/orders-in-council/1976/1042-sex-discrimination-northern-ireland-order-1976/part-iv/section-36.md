@@ -27,7 +27,7 @@ summary: ''
 - (a) a hospital, or
 - (b) any other establishment for persons requiring special supervision, attention or care.
 
-(1B)[^key-eaf620aee640486133a80ab62a921a90] The condition is that –
+(1B)[^c-eaf620aee640486133a80ab62a921a90] The condition is that –
 
 - (a) the place is (permanently or for the time being) occupied or used for the purposes of an organised religion;
 - (b) the facilities or services are not normally provided on a commercial basis; and
@@ -67,7 +67,7 @@ summary: ''
 
 [^c20772951]: Textual amendment: Art. 36(1A)-(1C) inserted (6.4.2008) by [Sex Discrimination (Amendment of Legislation) Regulations 2008 (S.I. 2008/963)](https://www.legislation.gov.uk/uksi/2008/963), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/963/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/963/regulation/2/2), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2008/963/schedule/2/paragraph/8/b)
 
-[^key-eaf620aee640486133a80ab62a921a90]: Textual amendment: Art. 36(1B) substituted (6.4.2015) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/145)](https://www.legislation.gov.uk/nisr/2015/145), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/145/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/145/regulation/2)
+[^c-eaf620aee640486133a80ab62a921a90]: Textual amendment: Art. 36(1B) substituted (6.4.2015) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/145)](https://www.legislation.gov.uk/nisr/2015/145), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/145/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/145/regulation/2)
 
 [^c20773021]: Textual amendment: Art. 36(2A) inserted (6.4.2008) by [Sex Discrimination (Amendment of Legislation) Regulations 2008 (S.I. 2008/963)](https://www.legislation.gov.uk/uksi/2008/963), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/963/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/963/regulation/2/2), [Sch. 2 para. 8(c)](https://www.legislation.gov.uk/uksi/2008/963/schedule/2/paragraph/8/c)
 

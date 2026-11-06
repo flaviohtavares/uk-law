@@ -45,24 +45,24 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred upon her by sections 55(1), 182(2) and 189(1) of the Consumer Credit Act 1974[^f00001], makes the following Regulations:—
 
-## 1. Citation, commencement and interpretation[^key-1bb3e1c023982322ec73b83a2394a1cc]
+## 1. Citation, commencement and interpretation[^c-1bb3e1c023982322ec73b83a2394a1cc]
 
 (1) These Regulations may be cited as the Consumer Credit (Disclosure of Information) Regulations 2004 and shall come into force on 31st May 2005.
 
 (2) In these Regulations—
 
-- “the Act” means the Consumer Credit Act 1974;[^key-3ec6d30c4a701d5c423904810cbc1f5c]
+- “the Act” means the Consumer Credit Act 1974;[^c-3ec6d30c4a701d5c423904810cbc1f5c]
 - “the Agreements Regulations” mean the Consumer Credit (Agreements) Regulations 1983[^f00002];
 - “distance contract” means any regulated agreement made under an organised distance sales or service-provision scheme run by the creditor or owner or by an intermediary of the creditor or owner who, in any such case, for the purpose of that agreement makes exclusive use of one or more means of distance communication up to and including the time at which the agreement is made and for this purpose any means of communication is a means of distance communication if, without the simultaneous physical presence of the creditor or owner or any intermediary of the creditor or owner and of the debtor or hirer, it may be used for the distance marketing of a regulated agreement between the parties to that agreement;
 - “durable medium” means any instrument which enables the debtor or hirer to store information addressed personally to him in a way accessible for future reference for a period of time adequate for the purposes of the information and which allows the unchanged reproduction of the information stored.
 
-## 2. Agreements to which these Regulations apply[^key-98945d7277e5f80a75087d14b04776bc]
+## 2. Agreements to which these Regulations apply[^c-98945d7277e5f80a75087d14b04776bc]
 
 (1) Subject to paragraph (3) these Regulations apply in respect of the following regulated agreements—
 
 - (a) consumer credit agreements secured on land except those to which section 58 of the Act (opportunity for withdrawal from prospective land mortgage) applies,
 - (b) consumer hire agreements,
-- (c) consumer credit agreements under which the creditor provides the debtor with credit which exceeds £60,260 other than residential renovation agreements[^key-ae00f18d32bd961e84243c107535be65],
+- (c) consumer credit agreements under which the creditor provides the debtor with credit which exceeds £60,260 other than residential renovation agreements[^c-ae00f18d32bd961e84243c107535be65],
 - (d) consumer credit agreements entered into by the debtor wholly or predominantly for the purposes of a business carried on, or intended to be carried on, by him, and
 - (e) small debtor-creditor-supplier agreements for restricted-use credit,
 
@@ -72,7 +72,7 @@ except to the extent the Consumer Credit (Disclosure of Information) Regulations
 
 (3) These Regulations do not apply to distance contracts.
 
-## 3. Information to be disclosed to a debtor or hirer before a regulated agreement is made[^key-6c18a54f6341e34fdcfb2bb9712cdc98]
+## 3. Information to be disclosed to a debtor or hirer before a regulated agreement is made[^c-6c18a54f6341e34fdcfb2bb9712cdc98]
 
 (1) Before a regulated agreement (“the relevant agreement”) is made, the creditor or owner must disclose to the debtor or hirer in the manner set out in regulation 4 the information and statements of protection and remedies that are required to be given—
 
@@ -81,11 +81,11 @@ except to the extent the Consumer Credit (Disclosure of Information) Regulations
 - (c) in the case of a modifying agreement which is, or is treated as, a regulated consumer credit agreement, under regulations 2(3) and 7(2) of the Agreements Regulations;
 - (d) in the case of a modifying agreement which is or is treated as a regulated consumer hirer agreement, under regulations 3(3) and 7(9) of the Agreements Regulations.
 
-(1A)[^key-e94bcc08faefe3ea36906afe41f3b18c] In the case of an agreement falling within regulation 2(1)(c), (d) or (e), the creditor shall provide, in addition to the information specified in paragraph (1), a statement that if he decided not to proceed with a prospective regulated consumer credit agreement on the basis of information from a credit reference agency, he will, when informing the debtor of that decision, inform the debtor that the decision has been reached on the basis of information from a credit reference agency and of the particulars of that agency (in compliance with section 157(A1) of the Act.
+(1A)[^c-e94bcc08faefe3ea36906afe41f3b18c] In the case of an agreement falling within regulation 2(1)(c), (d) or (e), the creditor shall provide, in addition to the information specified in paragraph (1), a statement that if he decided not to proceed with a prospective regulated consumer credit agreement on the basis of information from a credit reference agency, he will, when informing the debtor of that decision, inform the debtor that the decision has been reached on the basis of information from a credit reference agency and of the particulars of that agency (in compliance with section 157(A1) of the Act.
 
 (2) The information and statements of protection required to be disclosed under paragraph (1) shall be the information and statements that will be included in the document embodying the relevant agreement save that, where any of the information is not known at the time of disclosure, the creditor or owner shall disclose estimated information based on such assumptions as he may reasonably make in all the circumstances of the case.
 
-## 4. Manner of disclosure[^key-2b3cc675282c16dc22e9ccd89387835b]
+## 4. Manner of disclosure[^c-2b3cc675282c16dc22e9ccd89387835b]
 
 The information and statements of protection and remedies required to be disclosed under regulation 3 must be—
 
@@ -117,18 +117,18 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39); section 189(1) is cited for the definitions of “prescribed” “and “regulated.”
 
-[^key-1bb3e1c023982322ec73b83a2394a1cc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2004/1481/regulation/1) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1481/regulation/1/1)
+[^c-1bb3e1c023982322ec73b83a2394a1cc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2004/1481/regulation/1) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1481/regulation/1/1)
 
-[^key-3ec6d30c4a701d5c423904810cbc1f5c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1481/regulation/1/2) inserted (1.2.2011) by [The Consumer Credit ( EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 74](https://www.legislation.gov.uk/uksi/2010/1010/regulation/74), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+[^c-3ec6d30c4a701d5c423904810cbc1f5c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1481/regulation/1/2) inserted (1.2.2011) by [The Consumer Credit ( EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 74](https://www.legislation.gov.uk/uksi/2010/1010/regulation/74), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
 
 [^f00002]: Footnote: [SI 1983/1553](https://www.legislation.gov.uk/uksi/1983/1553), amended by [SI 1984/1600](https://www.legislation.gov.uk/uksi/1984/1600), [1985/666](https://www.legislation.gov.uk/uksi/1985/666), [1988/2047](https://www.legislation.gov.uk/uksi/1988/2047), [1999/3177](https://www.legislation.gov.uk/uksi/1999/3177), [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [2004/1482](https://www.legislation.gov.uk/uksi/2004/1482).
 
-[^key-98945d7277e5f80a75087d14b04776bc]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2004/1481/regulation/2) substituted (1.2.2011) by [The Consumer Credit ( EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 75](https://www.legislation.gov.uk/uksi/2010/1010/regulation/75), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101)) (as amended by [S.I. 2010/1969](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [24](https://www.legislation.gov.uk/uksi/2010/1969/regulation/24))
+[^c-98945d7277e5f80a75087d14b04776bc]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2004/1481/regulation/2) substituted (1.2.2011) by [The Consumer Credit ( EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 75](https://www.legislation.gov.uk/uksi/2010/1010/regulation/75), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101)) (as amended by [S.I. 2010/1969](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [24](https://www.legislation.gov.uk/uksi/2010/1969/regulation/24))
 
-[^key-ae00f18d32bd961e84243c107535be65]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/1481/regulation/2/1/c) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/11) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-ae00f18d32bd961e84243c107535be65]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/1481/regulation/2/1/c) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/11) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-6c18a54f6341e34fdcfb2bb9712cdc98]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2004/1481/regulation/3) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1481/regulation/1/1)
+[^c-6c18a54f6341e34fdcfb2bb9712cdc98]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2004/1481/regulation/3) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1481/regulation/1/1)
 
-[^key-e94bcc08faefe3ea36906afe41f3b18c]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/2004/1481/regulation/3/1A) inserted (1.2.2011) by [The Consumer Credit ( EU Directive) Regulations 2010 (revoked) 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 76](https://www.legislation.gov.uk/uksi/2010/1010/regulation/76), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101)) (as amended by [S.I. 2010/1969](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [25](https://www.legislation.gov.uk/uksi/2010/1969/regulation/25))
+[^c-e94bcc08faefe3ea36906afe41f3b18c]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/2004/1481/regulation/3/1A) inserted (1.2.2011) by [The Consumer Credit ( EU Directive) Regulations 2010 (revoked) 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 76](https://www.legislation.gov.uk/uksi/2010/1010/regulation/76), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101)) (as amended by [S.I. 2010/1969](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [25](https://www.legislation.gov.uk/uksi/2010/1969/regulation/25))
 
-[^key-2b3cc675282c16dc22e9ccd89387835b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2004/1481/regulation/4) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1481/regulation/1/1)
+[^c-2b3cc675282c16dc22e9ccd89387835b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2004/1481/regulation/4) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1481/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Record of anonymous entries and certificates of anonymous entry[^key-96c5c7ea2b7a558ffc86dea09797f2e0]
+## 18. Record of anonymous entries and certificates of anonymous entry[^c-96c5c7ea2b7a558ffc86dea09797f2e0]
 
 *Extent: E+W*
 
@@ -187,7 +187,7 @@ After regulation 45, insert—
 
 ## Annotations
 
-[^key-96c5c7ea2b7a558ffc86dea09797f2e0]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2006/2910/regulation/18) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-96c5c7ea2b7a558ffc86dea09797f2e0]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2006/2910/regulation/18) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00034]: Footnote: Amended by [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752).
 

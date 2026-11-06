@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**134.**[^key-e64b899f6b4e62d8cee0e03e76b2adb2] In section 171ZJ(1)[^f00151] (Part 12ZA: supplementary) in the definition of “local authority foster parent”, for “section 22C(12)” substitute “section 105(1)”.
+**134.**[^c-e64b899f6b4e62d8cee0e03e76b2adb2] In section 171ZJ(1)[^f00151] (Part 12ZA: supplementary) in the definition of “local authority foster parent”, for “section 22C(12)” substitute “section 105(1)”.
 
 ## Annotations
 
-[^key-e64b899f6b4e62d8cee0e03e76b2adb2]: Commencement: Reg. 134 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-e64b899f6b4e62d8cee0e03e76b2adb2]: Commencement: Reg. 134 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00151]: Footnote: Section 171ZJ was inserted by the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22), section 2. This section was moved under heading “Ordinary and additional statutory paternity pay: supplementary provisions” by the Work and Families Act [2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18), Schedule 1, paragraph 17. The section was then moved again to Part XIIZA upon the repeal of the cross-heading, “Ordinary and additional statutory paternity pay: supplementary provisions” by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), Schedule 7, paragraph 18. The definition of “local authority foster parent” in subsection (1) was inserted by the Children and Families Act 2014, section 121(7)(a).

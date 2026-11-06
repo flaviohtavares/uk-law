@@ -76,8 +76,8 @@ The Secretary of State, being a Minister designated [^c12262641] for the purpose
 - “**constable**” means any person who is—
   - (a) a member or special constable of any police force who has been attested as a constable under section 29 of the Police Act 1996 [^c12262681] or declared a constable under section 16 of the Police (Scotland) Act 1967 [^c12262691]; or
   - (b) a member of the Police Service of Northern Ireland or the Police Service of Northern Ireland Reserve;
-- “**dangerous goods**” has the meaning given by regulation 2(1) of the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007[^key-a97f77be8675fad460106784f0283d9a];
-- [^key-a649a5ba9590b63259d534ec7b2e8afd]...
+- “**dangerous goods**” has the meaning given by regulation 2(1) of the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007[^c-a97f77be8675fad460106784f0283d9a];
+- [^c-a649a5ba9590b63259d534ec7b2e8afd]...
 - “**evidence**” means anything involved in or relating to an accident or incident, whether at the site of the accident or incident or remote from it, including—
   - (a) written, electronic, photographic or other records;
   - (b) electronic or recording equipment;
@@ -102,16 +102,16 @@ The Secretary of State, being a Minister designated [^c12262641] for the purpose
 - “**railway accident**”and “**railway incident**”have the meanings given in section 2(1) of the 2003 Act;
 - “**railway industry body**” means a person who is an infrastructure manager, a railway undertaking, a maintainer or an operator of rolling stock or railway assets;
 - “**railway property**” has the meaning given in section 1(1) of the 2003 Act;
-- “railway undertaking” means any public or private undertaking, the principal business of which is to provide services for the transport of goods and passengers, or goods or passengers, by rail with a requirement that the undertaking ensure traction; this includes undertakings which provide traction only;[^key-a30a600e99facbf7bc628ec6c16e7bf0]
+- “railway undertaking” means any public or private undertaking, the principal business of which is to provide services for the transport of goods and passengers, or goods or passengers, by rail with a requirement that the undertaking ensure traction; this includes undertakings which provide traction only;[^c-a30a600e99facbf7bc628ec6c16e7bf0]
 - “**running line**” means a railway line which is not a siding and is ordinarily used for the passage of trains or tramcars;
 - “**safety authority**”—
-  - (a) in relation to Great Britain, excluding the Channel Tunnel system, means the Office of Rail and Road[^key-4e55d3e1cc3838a6acb7e91f97ac977a];
+  - (a) in relation to Great Britain, excluding the Channel Tunnel system, means the Office of Rail and Road[^c-4e55d3e1cc3838a6acb7e91f97ac977a];
   - (b) in relation to Northern Ireland, means the Department for Regional Development; and
   - (c) in relation to the Channel Tunnel system, means the Intergovernmental Commission; and
-- [^key-b229664faf7ab3b454e3e1236df63171]...
-- “safety management system” means the organisation and arrangements established by an infrastructure manager or a railway undertaking to ensure the safe management of its operations;[^key-ba9e15a0165bb1bec8475f347d3155ab]
+- [^c-b229664faf7ab3b454e3e1236df63171]...
+- “safety management system” means the organisation and arrangements established by an infrastructure manager or a railway undertaking to ensure the safe management of its operations;[^c-ba9e15a0165bb1bec8475f347d3155ab]
 - “vehicle” has the meaning given in the Railways and Other Guided Transport Systems (Safety) Regulations 2006;
-- “[^key-ca66bdf3d6fd7d2318e3eec54e73010e]**working days**” shall be taken to exclude Saturdays, Sundays, Christmas Day, Good Friday and, in relation to an accident or incident that occurs in England and Wales, any day which, under the Banking and Financial Dealings Act 1971, is a bank holiday in England and Wales, in relation to an accident or incident that occurs in Scotland, any other day which, under that Act, is a bank holiday in Scotland and, in relation to an accident or incident that occurs in Northern Ireland, any day which, under that Act, is a bank holiday in Northern Ireland.
+- “[^c-ca66bdf3d6fd7d2318e3eec54e73010e]**working days**” shall be taken to exclude Saturdays, Sundays, Christmas Day, Good Friday and, in relation to an accident or incident that occurs in England and Wales, any day which, under the Banking and Financial Dealings Act 1971, is a bank holiday in England and Wales, in relation to an accident or incident that occurs in Scotland, any other day which, under that Act, is a bank holiday in Scotland and, in relation to an accident or incident that occurs in Northern Ireland, any day which, under that Act, is a bank holiday in Northern Ireland.
 
 (2) The following words have the meaning given to them in section 83 of the Railways Act 1993 [^c12262751] or the meaning which would be given to them by an equivalent definition in relation to a tramway—
 
@@ -142,7 +142,7 @@ The Secretary of State, being a Minister designated [^c12262641] for the purpose
 - (i) an injury directly leading to loss of consciousness; or
 - (j) an injury resulting from the absorption of a substance by inhalation, ingestion or through the skin that causes acute illness requiring medical treatment.
 
-(5)[^key-d5d17ba896dfda8fbaac0ae1162ebf30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d5d17ba896dfda8fbaac0ae1162ebf30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Accidents and incidents excluded from the application of Part 1 of the Railways and Transport Safety Act 2003
 
@@ -226,9 +226,9 @@ The Secretary of State, being a Minister designated [^c12262641] for the purpose
 
 - (a) an infrastructure manager;
 - (b) a railway undertaking;
-- (c)[^key-fa64c418db847f1b057e971bed88e353] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-fa64c418db847f1b057e971bed88e353] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-fa64c418db847f1b057e971bed88e353] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-fa64c418db847f1b057e971bed88e353] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-fa64c418db847f1b057e971bed88e353] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-fa64c418db847f1b057e971bed88e353] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) any other party whose interests might conflict with the tasks of the Branch.
 
 (2) The Branch shall not investigate occurrences other than accidents or incidents if such investigation could undermine its independence from any of the parties referred to in paragraph (1).
@@ -245,7 +245,7 @@ within seven days of being notified of the accident or incident.
 - (a) the seriousness of the accident or incident;
 - (b) whether it forms part of a series of accidents or incidents;
 - (c) its impact on railway safety;
-- (d) requests from railway industry bodies, the safety authority, or other [^key-201ec505674132b9f116ffb679e1cf4f]... States;
+- (d) requests from railway industry bodies, the safety authority, or other [^c-201ec505674132b9f116ffb679e1cf4f]... States;
 - (e) the extent to which an investigation will improve the safety of railways and prevent accidents and incidents; and
 - (f) any other matter that the Chief Inspector considers to be reasonable in the circumstances.
 
@@ -254,16 +254,16 @@ within seven days of being notified of the accident or incident.
 - (a) whether it is a serious accident; or
 - (b) where it is not a serious accident, whether an investigation is to be conducted.
 
-(6)[^key-f844e3d6b10afeaeb7a6c394ba2e7c3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f844e3d6b10afeaeb7a6c394ba2e7c3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) Where an accident or incident of a type described in paragraph (3) occurs on or close to a border installation between the United Kingdom and another [^key-5401e3b038cedfc82d1ef9080701ab9b]... State, the Branch—
+(7) Where an accident or incident of a type described in paragraph (3) occurs on or close to a border installation between the United Kingdom and another [^c-5401e3b038cedfc82d1ef9080701ab9b]... State, the Branch—
 
-- (a) shall use its best endeavours to agree with the investigating body of the other [^key-5401e3b038cedfc82d1ef9080701ab9b]... State which accident investigating body will conduct the investigation;
-- (b) shall permit the investigating body of the other [^key-5401e3b038cedfc82d1ef9080701ab9b]... State to participate in an investigation of such accident or incident conducted by the Branch;
-- (c) shall share the results of the investigation of such accident or incident by the Branch with the investigating body of the other [^key-5401e3b038cedfc82d1ef9080701ab9b]... State; and
-- (d) may agree to carry out the investigation of the accident or incident in co-operation with the investigating body of the other [^key-5401e3b038cedfc82d1ef9080701ab9b]... State.
+- (a) shall use its best endeavours to agree with the investigating body of the other [^c-5401e3b038cedfc82d1ef9080701ab9b]... State which accident investigating body will conduct the investigation;
+- (b) shall permit the investigating body of the other [^c-5401e3b038cedfc82d1ef9080701ab9b]... State to participate in an investigation of such accident or incident conducted by the Branch;
+- (c) shall share the results of the investigation of such accident or incident by the Branch with the investigating body of the other [^c-5401e3b038cedfc82d1ef9080701ab9b]... State; and
+- (d) may agree to carry out the investigation of the accident or incident in co-operation with the investigating body of the other [^c-5401e3b038cedfc82d1ef9080701ab9b]... State.
 
-(8) Where an accident or incident of a type described in paragraph (3) involves a railway undertaking established and licensed in another [^key-f1f834bbb41021ab6e00614445000e2c]... State, the Branch shall invite the investigating body in the other [^key-f1f834bbb41021ab6e00614445000e2c]... State to participate in an investigation of that accident or incident.
+(8) Where an accident or incident of a type described in paragraph (3) involves a railway undertaking established and licensed in another [^c-f1f834bbb41021ab6e00614445000e2c]... State, the Branch shall invite the investigating body in the other [^c-f1f834bbb41021ab6e00614445000e2c]... State to participate in an investigation of that accident or incident.
 
 (9) Where the accident or incident occurs within the part of the Channel Tunnel system which forms part of the United Kingdom and is either a serious accident or one which the Branch has determined it will investigate, the Branch shall invite and permit the rail accident investigating body in France to participate in the investigation of such accident or incident.
 
@@ -272,7 +272,7 @@ within seven days of being notified of the accident or incident.
 - (a) keep the persons referred to in regulation 13(2)(b) informed of its progress; and
 - (b) so far as is reasonably practicable, take account of opinions relating to the investigation expressed by such persons.
 
-(11) The Chief Inspector shall determine the extent of, and the procedure to be followed in carrying out, an investigation conducted by the Branch or by a person appointed pursuant to regulation 6(1) [^key-d6472340ebe50e10158da9c5d1ea6cb5]....
+(11) The Chief Inspector shall determine the extent of, and the procedure to be followed in carrying out, an investigation conducted by the Branch or by a person appointed pursuant to regulation 6(1) [^c-d6472340ebe50e10158da9c5d1ea6cb5]....
 
 (12) The Branch shall conclude its examination at the site of an accident or incident in the shortest possible time in order to enable the infrastructure that is closed as a result of the accident or incident to be restored and opened to railway services as soon as possible.
 
@@ -288,7 +288,7 @@ within seven days of being notified of the accident or incident.
 
 (3) In relation to an investigation of an accident or incident that the Branch is conducting, the Chief Inspector may—
 
-- (a) request assistance from a constable, the safety authority, any public body or any other person acting under a power conferred on him by an enactment, or a constable, a procurator fiscal or the Lord Advocate acting under a power conferred on him at common law in Scotland, or from an accident investigating body of another [^key-4808a5214e11a3ccccd4b381f1a0033b]... State [^key-e3f1de3881af0b99ce44fa374fde4fad]...; or
+- (a) request assistance from a constable, the safety authority, any public body or any other person acting under a power conferred on him by an enactment, or a constable, a procurator fiscal or the Lord Advocate acting under a power conferred on him at common law in Scotland, or from an accident investigating body of another [^c-4808a5214e11a3ccccd4b381f1a0033b]... State [^c-e3f1de3881af0b99ce44fa374fde4fad]...; or
 - (b) request assistance (including assistance with the retrieval, delivery, storage, disposal or destruction of evidence) from a person other than a person mentioned in sub-paragraph (a),
 
 at such times and in such manner as the Chief Inspector may reasonably determine.
@@ -459,7 +459,7 @@ shall be guilty of an offence unless that movement or use of such evidence is fo
 - (a) publishing the opinion of a person in a report of the accident or incident in so far as it is relevant to the conclusions in the report;
 - (b) publishing in a report of the accident or incident information based on matters contained in a statement, declaration, recording or other note referred to in paragraph (2)(a) or in a medical record referred to in paragraph (2)(c);
 - (c) providing a person who makes a statement or declaration with a copy of such statement or declaration;
-- (d) sharing the results of the investigation of an accident or incident with an investigating body in another [^key-28fa0391cfd815cc4497a79bc2908e42]... State;
+- (d) sharing the results of the investigation of an accident or incident with an investigating body in another [^c-28fa0391cfd815cc4497a79bc2908e42]... State;
 - (e) disclosing or discussing information based on a matter contained in a statement, declaration, recording, or other note it has obtained during the course of an investigation with a person providing assistance, evidence or information to the Branch; or
 - (f) disclosing the name or address of a person to a person providing assistance, evidence or information to the Branch but only in so far as is necessary for the purpose of obtaining evidence or information in furtherance of the Branch's investigation.
 
@@ -490,14 +490,14 @@ shall be guilty of an offence unless that movement or use of such evidence is fo
 
 (4) A report published under this regulation may relate to more than one accident or incident.
 
-(5) In relation to a report referred to in paragraph (2), the Branch shall provide a copy of the report to [^key-bac7245aa6144ac3721e2dd3235d2bcf]... every person referred to in regulation 13(2).
+(5) In relation to a report referred to in paragraph (2), the Branch shall provide a copy of the report to [^c-bac7245aa6144ac3721e2dd3235d2bcf]... every person referred to in regulation 13(2).
 
 ## 12. Recommendations of the Rail Accident Investigation Branch
 
 (1) The Branch shall address a recommendation contained in a report prepared under regulation 11(2) or (3)—
 
 - (a) to the safety authority; and
-- (b) to such other [^key-1afe0e47d3496f9a46d463faa2b1b784]... State, public body or authority as it considers it appropriate to do so by reason of the character of the recommendation.
+- (b) to such other [^c-1afe0e47d3496f9a46d463faa2b1b784]... State, public body or authority as it considers it appropriate to do so by reason of the character of the recommendation.
 
 (2) A public body or authority to whom a recommendation is addressed under paragraph (1) shall, in relation to that recommendation—
 
@@ -510,7 +510,7 @@ shall be guilty of an offence unless that movement or use of such evidence is fo
 
 (3) The requirement to report under paragraph (2)(b) or to give notice under paragraph (2)(c) shall only apply to the extent that it is reasonably practicable for the authority that is required to report to have the specified information or for it to become aware that the information has been rendered inaccurate.
 
-(4) Having regard to the nature of a recommendation addressed to it, the safety authority may require any person, within such period as the safety authority may reasonably[^key-80c737e37bad9579d45a37ce80ede70b] determine, to—
+(4) Having regard to the nature of a recommendation addressed to it, the safety authority may require any person, within such period as the safety authority may reasonably[^c-80c737e37bad9579d45a37ce80ede70b] determine, to—
 
 - (a) take that recommendation into consideration and where appropriate act upon it;
 - (b) send to the safety authority—
@@ -536,7 +536,7 @@ shall be guilty of an offence unless that movement or use of such evidence is fo
   - (v) owners of damaged property;
   - (vi) the emergency services involved;
   - (vii) representatives of staff and users of the railways; and
-  - (viii) a person falling within the descriptions in sub-paragraphs (b)(i) to (vii) in other [^key-556900189a919492b55a5f03a99a7b2d]... States.
+  - (viii) a person falling within the descriptions in sub-paragraphs (b)(i) to (vii) in other [^c-556900189a919492b55a5f03a99a7b2d]... States.
 
 (3) A person upon whom notice is served under paragraph (1) may make representations in response to the report within fourteen days from service of the notice or within such longer period as may be determined by the Chief Inspector.
 
@@ -561,7 +561,7 @@ shall be guilty of an offence unless that movement or use of such evidence is fo
 
 (3) A report may contain such other information relating to the activities and aims of the Branch specified in section 4 of the 2003 Act as the Chief Inspector may determine.
 
-(4)[^key-c12bdc05ad6df0219510ef24635be15e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c12bdc05ad6df0219510ef24635be15e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 15. Miscellaneous functions
 
@@ -573,7 +573,7 @@ shall be guilty of an offence unless that movement or use of such evidence is fo
 
 (2) In order to assist the Branch in carrying out the activities described in paragraph (1), the Chief Inspector may request assistance or information from—
 
-- (a) a constable, the safety authority, any public body or any other person exercising a power conferred on him by an enactment, or a constable, a procurator fiscal or the Lord Advocate exercising a power conferred on him at common law in Scotland, an accident investigating body of another [^key-e981f308d7b6666ddb170b282e711ce6]... State [^key-dec057ef9d2e8109c4d2ecb79e62cd25]...; or
+- (a) a constable, the safety authority, any public body or any other person exercising a power conferred on him by an enactment, or a constable, a procurator fiscal or the Lord Advocate exercising a power conferred on him at common law in Scotland, an accident investigating body of another [^c-e981f308d7b6666ddb170b282e711ce6]... State [^c-dec057ef9d2e8109c4d2ecb79e62cd25]...; or
 - (b) any other person,
 
 at times and in a manner the Chief Inspector may reasonably determine.
@@ -582,7 +582,7 @@ at times and in a manner the Chief Inspector may reasonably determine.
 
 (4) The Chief Inspector may arrange for the publication, in such form and in such manner as he considers appropriate, of such information and advice as is relevant to the general aims of the Branch referred to in section 4 of the 2003 Act.
 
-(5)[^key-343a42d573eed7fdc48d88dda60e10ec] The Branch must use its best endeavours to exchange information and views with similar investigation bodies established in other States for the purpose of—
+(5)[^c-343a42d573eed7fdc48d88dda60e10ec] The Branch must use its best endeavours to exchange information and views with similar investigation bodies established in other States for the purpose of—
 
 - (a) improving railway and train safety;
 - (b) developing and improving investigation methods;
@@ -592,13 +592,13 @@ at times and in a manner the Chief Inspector may reasonably determine.
 
 (1) A person guilty of an offence under regulation 4(12), 7(6), 8(7) and 9(13) to 9(16) shall be liable—
 
-- (a) on summary conviction to imprisonment for a term not exceeding six months, or to a fine not exceeding £20,000 *(Extent: E+W)* *(affected by repeal, see note)*[^key-b52c7da996da1308ddee53d1b8815a3c] a fine *(Extent: E+W)*, or both; and
+- (a) on summary conviction to imprisonment for a term not exceeding six months, or to a fine not exceeding £20,000 *(Extent: E+W)* *(affected by repeal, see note)*[^c-b52c7da996da1308ddee53d1b8815a3c] a fine *(Extent: E+W)*, or both; and
 - (b) on conviction on indictment, to imprisonment for a term not exceeding six months, or a fine, or both.
 
-(2) A person guilty of an offence under regulation 6(7) shall be liable — *(Extent: E+W)* *(affected by repeal, see note)*[^key-1c1a91d2d906cc8dd4ce9a80a74414aa]
+(2) A person guilty of an offence under regulation 6(7) shall be liable — *(Extent: E+W)* *(affected by repeal, see note)*[^c-1c1a91d2d906cc8dd4ce9a80a74414aa]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-1c1a91d2d906cc8dd4ce9a80a74414aa] on summary conviction to a fine not exceeding £20,000; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-1c1a91d2d906cc8dd4ce9a80a74414aa]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-1c1a91d2d906cc8dd4ce9a80a74414aa] on conviction on indictment to a fine *(Extent: E+W)* *(affected by repeal, see note)*[^key-1c1a91d2d906cc8dd4ce9a80a74414aa]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-1c1a91d2d906cc8dd4ce9a80a74414aa] on summary conviction to a fine not exceeding £20,000; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-1c1a91d2d906cc8dd4ce9a80a74414aa]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-1c1a91d2d906cc8dd4ce9a80a74414aa] on conviction on indictment to a fine *(Extent: E+W)* *(affected by repeal, see note)*[^c-1c1a91d2d906cc8dd4ce9a80a74414aa]
 
 on summary conviction, or on conviction on indictment, to a fine *(Extent: E+W)*.
 
@@ -738,7 +738,7 @@ Regulation 4(5)
 
 **11.** Spillage of fuel from a road vehicle being carried on a shuttle train.
 
-**12.** A breach of the requirements for the transport of dangerous goods contained or referred to in the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007[^key-0e68171909955efd6a1794356421fda5].
+**12.** A breach of the requirements for the transport of dangerous goods contained or referred to in the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007[^c-0e68171909955efd6a1794356421fda5].
 
 **13.** Any incident during which installations, equipment or rolling stock come into unintended contact with live overhead power lines with a voltage in excess of 200 volts.
 
@@ -794,7 +794,7 @@ weather conditions and geographical references.
 
 (3) Rules and regulations—
 
-- relevant international[^key-879b5a2d877e39e1e900b37264b1f342] and national rules and regulations;
+- relevant international[^c-879b5a2d877e39e1e900b37264b1f342] and national rules and regulations;
 - other rules such as operating rules, local instructions, staff requirements, maintenance prescriptions and applicable standards.
 
 (4) Functioning of rolling stock and technical installations—
@@ -883,27 +883,27 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c12262691]: Marginal citation: [1967 c. 77](https://www.legislation.gov.uk/ukpga/1967/77). By section 24(4) of the 2003 Act, section 16 of the Police (Scotland) Act 1967 applies to a constable of the British Transport Police Act appointed in Scotland.
 
-[^key-a97f77be8675fad460106784f0283d9a]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/1) substituted (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
+[^c-a97f77be8675fad460106784f0283d9a]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/1) substituted (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
 
-[^key-a649a5ba9590b63259d534ec7b2e8afd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/16/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a649a5ba9590b63259d534ec7b2e8afd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/16/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c12262721]: Marginal citation: [1998 c. 52](https://www.legislation.gov.uk/ukpga/1998/52).
 
 [^c12262731]: Marginal citation: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42).
 
-[^key-a30a600e99facbf7bc628ec6c16e7bf0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/1) inserted (31.12.2020) by [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [16(2)(b)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/16/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a30a600e99facbf7bc628ec6c16e7bf0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/1) inserted (31.12.2020) by [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [16(2)(b)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/16/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4e55d3e1cc3838a6acb7e91f97ac977a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(k)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/k)
+[^c-4e55d3e1cc3838a6acb7e91f97ac977a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(k)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/k)
 
-[^key-b229664faf7ab3b454e3e1236df63171]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [16(2)(c)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/16/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b229664faf7ab3b454e3e1236df63171]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [16(2)(c)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/16/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ba9e15a0165bb1bec8475f347d3155ab]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/1) inserted (31.12.2020) by [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [16(2)(d)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/16/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba9e15a0165bb1bec8475f347d3155ab]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/1) inserted (31.12.2020) by [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [16(2)(d)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/16/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ca66bdf3d6fd7d2318e3eec54e73010e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/1) inserted (11.1.2006) by [The Railways (Accident Investigation and Reporting) (Amendment) Regulations 2005 (S.I. 2005/3261)](https://www.legislation.gov.uk/uksi/2005/3261), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3261/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/3261/regulation/2/2)
+[^c-ca66bdf3d6fd7d2318e3eec54e73010e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/1) inserted (11.1.2006) by [The Railways (Accident Investigation and Reporting) (Amendment) Regulations 2005 (S.I. 2005/3261)](https://www.legislation.gov.uk/uksi/2005/3261), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3261/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/3261/regulation/2/2)
 
 [^c12262751]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-d5d17ba896dfda8fbaac0ae1162ebf30]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/5) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/16/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5d17ba896dfda8fbaac0ae1162ebf30]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/2/5) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/16/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c12262761]: Marginal citation: [1961 c. 34](https://www.legislation.gov.uk/ukpga/1961/34). Section 175(2)(n) was amended by regulation 3(1) of and Schedule 1 to the [Factories Act 1961 etc. (Metrication) Regulations 1983 (S.I. 1983/978)](https://www.legislation.gov.uk/uksi/1983/978).
 
@@ -911,46 +911,46 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c12262781]: Marginal citation: [S.I. 1999/2024](https://www.legislation.gov.uk/uksi/1999/2024).
 
-[^key-fa64c418db847f1b057e971bed88e353]: Textual amendment: [Reg. 5(1)(c)-(e)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/5/1/c) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fa64c418db847f1b057e971bed88e353]: Textual amendment: [Reg. 5(1)(c)-(e)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/5/1/c) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-201ec505674132b9f116ffb679e1cf4f]: Textual amendment: Word in [reg. 5(4)(d)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/5/4/d) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/17/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-201ec505674132b9f116ffb679e1cf4f]: Textual amendment: Word in [reg. 5(4)(d)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/5/4/d) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/17/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f844e3d6b10afeaeb7a6c394ba2e7c3e]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/5/6) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [17(4)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/17/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f844e3d6b10afeaeb7a6c394ba2e7c3e]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/5/6) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [17(4)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/17/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5401e3b038cedfc82d1ef9080701ab9b]: Textual amendment: Word in [reg. 5(7)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/5/7) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [17(5)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/17/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5401e3b038cedfc82d1ef9080701ab9b]: Textual amendment: Word in [reg. 5(7)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/5/7) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [17(5)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/17/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f1f834bbb41021ab6e00614445000e2c]: Textual amendment: Word in [reg. 5(8)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/5/8) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [17(6)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/17/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1f834bbb41021ab6e00614445000e2c]: Textual amendment: Word in [reg. 5(8)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/5/8) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [17(6)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/17/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d6472340ebe50e10158da9c5d1ea6cb5]: Textual amendment: Words in [reg. 5(11)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/5/11) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [17(7)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/17/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d6472340ebe50e10158da9c5d1ea6cb5]: Textual amendment: Words in [reg. 5(11)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/5/11) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [17(7)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/17/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4808a5214e11a3ccccd4b381f1a0033b]: Textual amendment: Word in [reg. 6(3)(a)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/6/3/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4808a5214e11a3ccccd4b381f1a0033b]: Textual amendment: Word in [reg. 6(3)(a)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/6/3/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e3f1de3881af0b99ce44fa374fde4fad]: Textual amendment: Words in [reg. 6(3)(a)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/6/3/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e3f1de3881af0b99ce44fa374fde4fad]: Textual amendment: Words in [reg. 6(3)(a)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/6/3/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-28fa0391cfd815cc4497a79bc2908e42]: Textual amendment: Word in [reg. 10(7)(d)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/10/7/d) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [19](https://www.legislation.gov.uk/uksi/2018/1400/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-28fa0391cfd815cc4497a79bc2908e42]: Textual amendment: Word in [reg. 10(7)(d)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/10/7/d) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [19](https://www.legislation.gov.uk/uksi/2018/1400/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bac7245aa6144ac3721e2dd3235d2bcf]: Textual amendment: Words in [reg. 11(5)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/11/5) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [20](https://www.legislation.gov.uk/uksi/2018/1400/regulation/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bac7245aa6144ac3721e2dd3235d2bcf]: Textual amendment: Words in [reg. 11(5)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/11/5) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [20](https://www.legislation.gov.uk/uksi/2018/1400/regulation/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1afe0e47d3496f9a46d463faa2b1b784]: Textual amendment: Word in [reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/12/1/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [21](https://www.legislation.gov.uk/uksi/2018/1400/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1afe0e47d3496f9a46d463faa2b1b784]: Textual amendment: Word in [reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/12/1/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [21](https://www.legislation.gov.uk/uksi/2018/1400/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-80c737e37bad9579d45a37ce80ede70b]: Textual amendment: Word in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/12/4) inserted (11.1.2006) by [The Railways (Accident Investigation and Reporting) (Amendment) Regulations 2005 (S.I. 2005/3261)](https://www.legislation.gov.uk/uksi/2005/3261), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3261/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/3261/regulation/2/3)
+[^c-80c737e37bad9579d45a37ce80ede70b]: Textual amendment: Word in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/12/4) inserted (11.1.2006) by [The Railways (Accident Investigation and Reporting) (Amendment) Regulations 2005 (S.I. 2005/3261)](https://www.legislation.gov.uk/uksi/2005/3261), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3261/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/3261/regulation/2/3)
 
-[^key-556900189a919492b55a5f03a99a7b2d]: Textual amendment: Word in [reg. 13(2)(b)(viii)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/13/2/b/viii) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [22](https://www.legislation.gov.uk/uksi/2018/1400/regulation/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-556900189a919492b55a5f03a99a7b2d]: Textual amendment: Word in [reg. 13(2)(b)(viii)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/13/2/b/viii) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [22](https://www.legislation.gov.uk/uksi/2018/1400/regulation/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c12bdc05ad6df0219510ef24635be15e]: Textual amendment: [Reg. 14(4)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/14/4) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [23](https://www.legislation.gov.uk/uksi/2018/1400/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c12bdc05ad6df0219510ef24635be15e]: Textual amendment: [Reg. 14(4)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/14/4) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [23](https://www.legislation.gov.uk/uksi/2018/1400/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e981f308d7b6666ddb170b282e711ce6]: Textual amendment: Word in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/15/2/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [24(2)(a)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/24/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e981f308d7b6666ddb170b282e711ce6]: Textual amendment: Word in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/15/2/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [24(2)(a)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/24/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dec057ef9d2e8109c4d2ecb79e62cd25]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/15/2/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [24(2)(b)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/24/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dec057ef9d2e8109c4d2ecb79e62cd25]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/15/2/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [24(2)(b)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/24/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-343a42d573eed7fdc48d88dda60e10ec]: Textual amendment: [Reg. 15(5)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/15/5) substituted (31.12.2020) by [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [24(3)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/24/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-343a42d573eed7fdc48d88dda60e10ec]: Textual amendment: [Reg. 15(5)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/15/5) substituted (31.12.2020) by [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [24(3)](https://www.legislation.gov.uk/uksi/2018/1400/regulation/24/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b52c7da996da1308ddee53d1b8815a3c]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/16/1) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 69(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/69/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-b52c7da996da1308ddee53d1b8815a3c]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/16/1) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 69(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/69/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-1c1a91d2d906cc8dd4ce9a80a74414aa]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/16/2) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 69(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/69/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-1c1a91d2d906cc8dd4ce9a80a74414aa]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/16/2) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 69(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/69/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c12262791]: Marginal citation: [1967 c. 77](https://www.legislation.gov.uk/ukpga/1967/77)
 
-[^key-0e68171909955efd6a1794356421fda5]: Textual amendment: Word in [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2005/1992/schedule/5/paragraph/12) substituted (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
+[^c-0e68171909955efd6a1794356421fda5]: Textual amendment: Word in [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2005/1992/schedule/5/paragraph/12) substituted (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
 
-[^key-879b5a2d877e39e1e900b37264b1f342]: Textual amendment: Word in [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/uksi/2005/1992/schedule/6/paragraph/3/3) substituted (31.12.2020) by [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [25](https://www.legislation.gov.uk/uksi/2018/1400/regulation/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-879b5a2d877e39e1e900b37264b1f342]: Textual amendment: Word in [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/uksi/2005/1992/schedule/6/paragraph/3/3) substituted (31.12.2020) by [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [25](https://www.legislation.gov.uk/uksi/2018/1400/regulation/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

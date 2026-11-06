@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27.1. Interpretation[^key-6bdad38f977b679a9784f930779d4ec2]
+## 27.1. Interpretation[^c-6bdad38f977b679a9784f930779d4ec2]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-6bdad38f977b679a9784f930779d4ec2]: Commencement: Para. 27.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-6bdad38f977b679a9784f930779d4ec2]: Commencement: Para. 27.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

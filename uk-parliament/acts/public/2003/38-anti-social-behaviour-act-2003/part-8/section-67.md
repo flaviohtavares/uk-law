@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 67. Domestic property[^key-85cb4c060c82afe3565343853ecb3cb8][^key-a672dbbedeb637a39dd66982278c0925]
+## 67. Domestic property[^c-85cb4c060c82afe3565343853ecb3cb8][^c-a672dbbedeb637a39dd66982278c0925]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-85cb4c060c82afe3565343853ecb3cb8]: Commencement: S. 67 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-85cb4c060c82afe3565343853ecb3cb8]: Commencement: S. 67 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-a672dbbedeb637a39dd66982278c0925]: Commencement: S. 67 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-a672dbbedeb637a39dd66982278c0925]: Commencement: S. 67 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

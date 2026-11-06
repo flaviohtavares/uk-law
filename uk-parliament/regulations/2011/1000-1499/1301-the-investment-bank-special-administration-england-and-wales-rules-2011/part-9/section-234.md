@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 234. Application of Chapter[^key-d44f43a65f2766dfd5a4845848b2e82b]
+## 234. Application of Chapter[^c-d44f43a65f2766dfd5a4845848b2e82b]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ which are required to be served by any provision of the Regulations or the Rules
 
 ## Annotations
 
-[^key-d44f43a65f2766dfd5a4845848b2e82b]: Commencement: [Rule 234](https://www.legislation.gov.uk/uksi/2011/1301/rule/234) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-d44f43a65f2766dfd5a4845848b2e82b]: Commencement: [Rule 234](https://www.legislation.gov.uk/uksi/2011/1301/rule/234) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

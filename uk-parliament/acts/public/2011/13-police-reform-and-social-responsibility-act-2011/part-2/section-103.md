@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Licensing authorities as responsible authorities[^key-b976328a462deb89362dd8e0f36ed69d]
+## 103. Licensing authorities as responsible authorities[^c-b976328a462deb89362dd8e0f36ed69d]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b976328a462deb89362dd8e0f36ed69d]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2011/13/section/103) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-b976328a462deb89362dd8e0f36ed69d]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2011/13/section/103) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

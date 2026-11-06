@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (Agreement on Trade, Development and Co-operation between the European Community and its Member States and the Republic of South Africa) Order 2002 (revoked)[^key-4f619b90637d6dd0febdf38202987e71]
+The European Communities (Definition of Treaties) (Agreement on Trade, Development and Co-operation between the European Community and its Member States and the Republic of South Africa) Order 2002 (revoked)[^c-4f619b90637d6dd0febdf38202987e71]
 
 Made
 
@@ -45,30 +45,30 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-4f619b90637d6dd0febdf38202987e71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f619b90637d6dd0febdf38202987e71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-4f619b90637d6dd0febdf38202987e71]
+## 1.[^c-4f619b90637d6dd0febdf38202987e71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-4f619b90637d6dd0febdf38202987e71]
+## 2.[^c-4f619b90637d6dd0febdf38202987e71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4f619b90637d6dd0febdf38202987e71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f619b90637d6dd0febdf38202987e71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-4f619b90637d6dd0febdf38202987e71]
+## SCHEDULE[^c-4f619b90637d6dd0febdf38202987e71]
 
-[^key-4f619b90637d6dd0febdf38202987e71]
+[^c-4f619b90637d6dd0febdf38202987e71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4f619b90637d6dd0febdf38202987e71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f619b90637d6dd0febdf38202987e71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4f619b90637d6dd0febdf38202987e71]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2002/3139) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4f619b90637d6dd0febdf38202987e71]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2002/3139) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

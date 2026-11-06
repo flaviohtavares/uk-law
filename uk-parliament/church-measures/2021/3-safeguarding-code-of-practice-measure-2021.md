@@ -33,7 +33,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 \[20th October 2021\]
 
-## 1. Code of Practice[^key-d1929b97af1e95bffca7497c7df75303]
+## 1. Code of Practice[^c-d1929b97af1e95bffca7497c7df75303]
 
 (1) After section 5 of the Safeguarding and Clergy Discipline Measure 2016 insert—
 
@@ -115,7 +115,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 (3) In that section, in each of subsections (5), (8) and (9), after “(1)(b)”, in each place it appears, insert “or (c)”.
 
-## 2. Amendments and repeals[^key-ed9c887b438cf7540d2d0b7043870899]
+## 2. Amendments and repeals[^c-ed9c887b438cf7540d2d0b7043870899]
 
 (1) Section 5(1) to (2A) of the Safeguarding and Clergy Discipline Measure 2016 (duty to have due regard to House of Bishops’ guidance) is repealed.
 
@@ -133,7 +133,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 (6) Section 13 of the Diocesan Boards of Education Measure 2021 (duty to have due regard to House of Bishops’ safeguarding guidance) is repealed.
 
-## 3. Short title, commencement and extent[^key-7c597fd9a5cca37c0e89ae9a5b4a043a]
+## 3. Short title, commencement and extent[^c-7c597fd9a5cca37c0e89ae9a5b4a043a]
 
 (1) This Measure may be cited as the Safeguarding (Code of Practice) Measure 2021.
 
@@ -158,8 +158,8 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 ## Annotations
 
-[^key-d1929b97af1e95bffca7497c7df75303]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2021/3/section/1) in force at 1.3.2022 by [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2)
+[^c-d1929b97af1e95bffca7497c7df75303]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2021/3/section/1) in force at 1.3.2022 by [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2)
 
-[^key-ed9c887b438cf7540d2d0b7043870899]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2021/3/section/2) in force at 1.3.2022 by [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/118/article/3))
+[^c-ed9c887b438cf7540d2d0b7043870899]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2021/3/section/2) in force at 1.3.2022 by [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/118/article/3))
 
-[^key-7c597fd9a5cca37c0e89ae9a5b4a043a]: Commencement: S. 3 in force at 20.10.2021, see [s. 3(2)](https://www.legislation.gov.uk/ukcm/2021/3/section/3/2)
+[^c-7c597fd9a5cca37c0e89ae9a5b4a043a]: Commencement: S. 3 in force at 20.10.2021, see [s. 3(2)](https://www.legislation.gov.uk/ukcm/2021/3/section/3/2)

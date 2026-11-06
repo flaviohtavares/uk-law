@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Lay representation in other proceedings[^key-a0141aa8dd905e721c62101b1adcdb44]
+## 97. Lay representation in other proceedings[^c-a0141aa8dd905e721c62101b1adcdb44]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0141aa8dd905e721c62101b1adcdb44]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2014/18/section/97) in force at 28.11.2016 by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)
+[^c-a0141aa8dd905e721c62101b1adcdb44]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2014/18/section/97) in force at 28.11.2016 by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)

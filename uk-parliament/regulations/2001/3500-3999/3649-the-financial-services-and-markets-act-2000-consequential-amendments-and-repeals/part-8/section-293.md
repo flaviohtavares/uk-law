@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 293. Bank accounts in the name of the Duchy[^key-763af117164b924f9900a64c54aacae5]
+## 293. Bank accounts in the name of the Duchy[^c-763af117164b924f9900a64c54aacae5]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-763af117164b924f9900a64c54aacae5]: Commencement: Art. 293 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-763af117164b924f9900a64c54aacae5]: Commencement: Art. 293 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00217]: Footnote: Paragraphs (b) and (c) of subsection (3) were amended by the Banking Act [1987 (c. 22)](https://www.legislation.gov.uk/ukpga/1987/22), s.108(1), Schedule 6, paragraph 14.

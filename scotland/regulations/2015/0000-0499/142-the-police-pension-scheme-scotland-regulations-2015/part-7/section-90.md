@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Full retirement pension ceasing to be payable[^key-59ca6d8b4e890d3f74da5111b81ce77c]
+## 90. Full retirement pension ceasing to be payable[^c-59ca6d8b4e890d3f74da5111b81ce77c]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59ca6d8b4e890d3f74da5111b81ce77c]: Commencement: Reg. 90 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-59ca6d8b4e890d3f74da5111b81ce77c]: Commencement: Reg. 90 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

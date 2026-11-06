@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Purposes[^key-ca7fd6c6c566d7cc70b45c4c3cf4587d]
+## 4. Purposes[^c-ca7fd6c6c566d7cc70b45c4c3cf4587d]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ otherwise than by compliance with the relevant UN obligations.
 
 ## Annotations
 
-[^key-ca7fd6c6c566d7cc70b45c4c3cf4587d]: Commencement: Reg. 4 in force at 30.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/2/c)
+[^c-ca7fd6c6c566d7cc70b45c4c3cf4587d]: Commencement: Reg. 4 in force at 30.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/2/c)
 
 [^c24411691]: Marginal citation: “Person” is defined by section 9(5) of the Sanctions and Anti-Money Laundering Act 2018 to include (in addition to an individual and a body of persons corporate or unincorporate) any organisation and any association or combination of persons.
 

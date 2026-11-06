@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Release of liquidator: voluntary winding up[^key-bb03c4948179b0ef23b6885eca222594]
+## 49. Release of liquidator: voluntary winding up[^c-bb03c4948179b0ef23b6885eca222594]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb03c4948179b0ef23b6885eca222594]: Commencement: S. 49 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-bb03c4948179b0ef23b6885eca222594]: Commencement: S. 49 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

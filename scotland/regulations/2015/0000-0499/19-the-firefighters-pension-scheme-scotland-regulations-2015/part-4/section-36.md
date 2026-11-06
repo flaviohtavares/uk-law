@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Ill-health award ceases to be payable[^key-e24f3cdcb2c63b9492b08329fc25094d]
+## 36. Ill-health award ceases to be payable[^c-e24f3cdcb2c63b9492b08329fc25094d]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ This regulation applies when an ill-health award ceases to be payable to a perso
 
 ## Annotations
 
-[^key-e24f3cdcb2c63b9492b08329fc25094d]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2015/19/regulation/36) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-e24f3cdcb2c63b9492b08329fc25094d]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2015/19/regulation/36) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

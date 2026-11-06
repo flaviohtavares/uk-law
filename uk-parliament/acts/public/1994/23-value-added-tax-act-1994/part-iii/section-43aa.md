@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43AA. Power to alter eligibility for grouping[^key-4a907c06b0ca166b7ee23cd1ded60c7a][^key-f74f978678e3bc0aa7b93e58126d3c81]
+## 43AA. Power to alter eligibility for grouping[^c-4a907c06b0ca166b7ee23cd1ded60c7a][^c-f74f978678e3bc0aa7b93e58126d3c81]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Treasury may by order provide for sections 43A and 43AZA[^key-c176449ac8145ed84eaba8244d18ba61] to have effect with specified modifications in relation to a specified class of person.
+(1) The Treasury may by order provide for sections 43A and 43AZA[^c-c176449ac8145ed84eaba8244d18ba61] to have effect with specified modifications in relation to a specified class of person.
 
 (2) An order under subsection (1) may, in particular—
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4a907c06b0ca166b7ee23cd1ded60c7a]: Modification: Ss. 43A-43D applied (with effect in accordance with Sch. 18 para. 63 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 18 para. 45(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/18/paragraph/45/3)
+[^c-4a907c06b0ca166b7ee23cd1ded60c7a]: Modification: Ss. 43A-43D applied (with effect in accordance with Sch. 18 para. 63 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 18 para. 45(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/18/paragraph/45/3)
 
-[^key-f74f978678e3bc0aa7b93e58126d3c81]: Textual amendment: S. 43AA inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/20/1)
+[^c-f74f978678e3bc0aa7b93e58126d3c81]: Textual amendment: S. 43AA inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/20/1)
 
-[^key-c176449ac8145ed84eaba8244d18ba61]: Textual amendment: Words in s. 43AA(1) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/6); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-c176449ac8145ed84eaba8244d18ba61]: Textual amendment: Words in s. 43AA(1) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/6); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)

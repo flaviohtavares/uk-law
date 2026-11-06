@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Charging scheme: registry administrator[^key-eb042e683b6a17a7cf57e9686b381606]
+## 36A. Charging scheme: registry administrator[^c-eb042e683b6a17a7cf57e9686b381606]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb042e683b6a17a7cf57e9686b381606]: Textual amendment: Arts. 36, 36A substituted for art. 36 (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [20](https://www.legislation.gov.uk/uksi/2020/1557/article/20)
+[^c-eb042e683b6a17a7cf57e9686b381606]: Textual amendment: Arts. 36, 36A substituted for art. 36 (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [20](https://www.legislation.gov.uk/uksi/2020/1557/article/20)

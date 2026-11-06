@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29A. Inadequate performance of returning officer: reduction of charges[^key-4afa2c34bf34e57c0090ff4124952262][^c14479931]
+## 29A. Inadequate performance of returning officer: reduction of charges[^c-4afa2c34bf34e57c0090ff4124952262][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4afa2c34bf34e57c0090ff4124952262]: Textual amendment: S. 29A inserted (6.4.2014) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/18/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/414/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/414/article/4))
+[^c-4afa2c34bf34e57c0090ff4124952262]: Textual amendment: S. 29A inserted (6.4.2014) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/18/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/414/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/414/article/4))
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))

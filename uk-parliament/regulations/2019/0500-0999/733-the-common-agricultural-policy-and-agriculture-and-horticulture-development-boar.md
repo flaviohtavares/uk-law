@@ -44,26 +44,26 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-e18f3254ed95fec7e6733d8d1d0fac6d]
+## 1. Citation and commencement[^c-e18f3254ed95fec7e6733d8d1d0fac6d]
 
 These Regulations may be cited as the Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019 and come into force on exit day.
 
-## 2. Amendment to the Environmental Stewardship (England) Regulations 2005[^key-2cdfff9f3dd39b764cb5edc60a12afe4]
+## 2. Amendment to the Environmental Stewardship (England) Regulations 2005[^c-2cdfff9f3dd39b764cb5edc60a12afe4]
 
 In regulation 3(3) of the Environmental Stewardship (England) Regulations 2005 [^c23687621], for “the EU Treaties” substitute “ retained EU law ”.
 
-## 3. Amendments to the Agriculture and Horticulture Development Board Order 2008[^key-4ade6ef85cf315a2f65b5e4079423443]
+## 3. Amendments to the Agriculture and Horticulture Development Board Order 2008[^c-4ade6ef85cf315a2f65b5e4079423443]
 
 In Schedule 3 to the Agriculture and Horticulture Development Board Order 2008 [^c23687631]—
 
 - (a) in paragraph 4(1), for “from another member State” substitute “ into the United Kingdom ”;
 - (b) in paragraph 16(2), for “another” substitute “ a ”.
 
-## 4. Amendments to the Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014[^key-8fc75cf39162ac53b045131351414525]
+## 4. Amendments to the Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014[^c-8fc75cf39162ac53b045131351414525]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^key-7d8e77da229f9e2b8341888d512e0597]
+## 5. Amendments to the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^c-7d8e77da229f9e2b8341888d512e0597]
 
 (1) The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 [^c23687661] are amended as follows.
 
@@ -80,7 +80,7 @@ In Schedule 3 to the Agriculture and Horticulture Development Board Order 2008 [
   > - (e) any regulations made under, or delegated or implementing acts adopted on the basis of, Regulation 1144/2014;
 
   ;
-- (b)[^key-8dcba91626cdb0148879ffd412efd348] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8dcba91626cdb0148879ffd412efd348] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) omit the definitions of “EAFRD” and “EAGF”.
 
 (3) In regulation 10, for paragraph (7) substitute—
@@ -124,19 +124,19 @@ In Schedule 3 to the Agriculture and Horticulture Development Board Order 2008 [
 (9) In regulation 30—
 
 - (a) in the definition of “Pillar 1 decision”—
-  - (i) for “the EAGF” substitute “ [^key-da7f134d9534a95712a39c82a3506404]... CMO support ”;
+  - (i) for “the EAGF” substitute “ [^c-da7f134d9534a95712a39c82a3506404]... CMO support ”;
   - (ii) omit “European”;
 - (b) in the definition of “Pillar 2 decision”—
   - (i) for “the EAFRD” substitute “ rural development support granted under Title III of the Rural Development Regulation or Title III, Chapter 2 of the Common Provisions Regulation ”;
   - (ii) in paragraph (a), omit “European”.
 
-(10)[^key-1873c51b46f4d0d7762660d9741bd230] Omit regulation 36(2).
+(10)[^c-1873c51b46f4d0d7762660d9741bd230] Omit regulation 36(2).
 
-## 6. Revocation[^key-96e42e17790ac3d82360fa4e2810bdd2]
+## 6. Revocation[^c-96e42e17790ac3d82360fa4e2810bdd2]
 
 The Common Agricultural Policy (Competent Authority and Coordinating Body) Regulations 2014 [^c23687671] are revoked.
 
-## 7. Saving provisions[^M_I_a579bb3a-4f90-45f3-a0b6-64f3fed946cc][^key-74667d7e42412df39a258ce3806e1767]
+## 7. Saving provisions[^M_I_a579bb3a-4f90-45f3-a0b6-64f3fed946cc][^c-74667d7e42412df39a258ce3806e1767]
 
 The Environmental Stewardship Regulations 2005 apply in respect of any programme or activity to which Article 138 of the withdrawal agreement applies as if the amendments made by regulation 2 had not been made.
 
@@ -166,35 +166,35 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23687611]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-e18f3254ed95fec7e6733d8d1d0fac6d]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e18f3254ed95fec7e6733d8d1d0fac6d]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2cdfff9f3dd39b764cb5edc60a12afe4]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2cdfff9f3dd39b764cb5edc60a12afe4]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23687621]: Marginal citation: [S.I. 2005/621](https://www.legislation.gov.uk/uksi/2005/621), amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); there are other amending instruments but none is relevant.
 
-[^key-4ade6ef85cf315a2f65b5e4079423443]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4ade6ef85cf315a2f65b5e4079423443]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23687631]: Marginal citation: [S.I. 2008/576](https://www.legislation.gov.uk/uksi/2008/576), to which there are amendments not relevant to these Regulations.
 
-[^key-8fc75cf39162ac53b045131351414525]: Textual amendment: Reg. 4 omitted (31.12.2020) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/2)
+[^c-8fc75cf39162ac53b045131351414525]: Textual amendment: Reg. 4 omitted (31.12.2020) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/2)
 
-[^key-7d8e77da229f9e2b8341888d512e0597]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7d8e77da229f9e2b8341888d512e0597]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23687661]: Marginal citation: [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263), to which there are amendments not relevant to these Regulations.
 
-[^key-8dcba91626cdb0148879ffd412efd348]: Textual amendment: Reg. 5(2)(b) omitted (31.12.2020) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(3)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/3/a)
+[^c-8dcba91626cdb0148879ffd412efd348]: Textual amendment: Reg. 5(2)(b) omitted (31.12.2020) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(3)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/3/a)
 
-[^key-da7f134d9534a95712a39c82a3506404]: Textual amendment: Words in reg. 5(9) omitted (31.12.2020) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(3)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/3/b)
+[^c-da7f134d9534a95712a39c82a3506404]: Textual amendment: Words in reg. 5(9) omitted (31.12.2020) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(3)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/3/b)
 
-[^key-1873c51b46f4d0d7762660d9741bd230]: Textual amendment: Reg. 5(10) inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(3)(c)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/3/c)
+[^c-1873c51b46f4d0d7762660d9741bd230]: Textual amendment: Reg. 5(10) inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(3)(c)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/3/c)
 
-[^key-96e42e17790ac3d82360fa4e2810bdd2]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-96e42e17790ac3d82360fa4e2810bdd2]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23687671]: Marginal citation: [S.I. 2014/3260](https://www.legislation.gov.uk/uksi/2014/3260).
 
 [^M_I_a579bb3a-4f90-45f3-a0b6-64f3fed946cc]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-74667d7e42412df39a258ce3806e1767]: Textual amendment: Regs. 7-9 inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(4)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/4)
+[^c-74667d7e42412df39a258ce3806e1767]: Textual amendment: Regs. 7-9 inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(4)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/4)
 
 [^M_I_03bff831-d116-4134-87d5-4d97a5b7cc95]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Meaning of “terrorism offence”[^key-6fba1839458c7c836f6da5e723d20c31]
+## 27. Meaning of “terrorism offence”[^c-6fba1839458c7c836f6da5e723d20c31]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
   - sections 38B and 39 (disclosure of and failure to disclose information about terrorism),
   - section 54 (weapons training),
   - sections 56 to 58A (directing terrorism, possessing things and collecting information for the purposes of terrorism),
-  - section 58B (entering or remaining in a designated area),[^key-2531ce2d581c860e0fb7d41ec3e75ddb]
+  - section 58B (entering or remaining in a designated area),[^c-2531ce2d581c860e0fb7d41ec3e75ddb]
   - sections 59 to 61 (inciting terrorism outside the United Kingdom),
   - paragraph 14 of Schedule 5 (order for explanation of material: false or misleading statements),
   - paragraph 1 of Schedule 6 (failure to provide customer information in connection with a terrorist investigation),
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6fba1839458c7c836f6da5e723d20c31]: Commencement: S. 27 in force at 26.7.2012 for E.W.S. by [S.I. 2012/1966](https://www.legislation.gov.uk/uksi/2012/1966), [art. 2](https://www.legislation.gov.uk/uksi/2012/1966/article/2)
+[^c-6fba1839458c7c836f6da5e723d20c31]: Commencement: S. 27 in force at 26.7.2012 for E.W.S. by [S.I. 2012/1966](https://www.legislation.gov.uk/uksi/2012/1966), [art. 2](https://www.legislation.gov.uk/uksi/2012/1966/article/2)
 
-[^key-2531ce2d581c860e0fb7d41ec3e75ddb]: Textual amendment: Words in s. 27(1)(a) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 42](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/42)
+[^c-2531ce2d581c860e0fb7d41ec3e75ddb]: Textual amendment: Words in s. 27(1)(a) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 42](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/42)

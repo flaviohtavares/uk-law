@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-653480f1705f74d1101001ad88c6fb8a]
+[^c-653480f1705f74d1101001ad88c6fb8a]
 
-(1)[^key-b530dedd607bd752a96adc7b9809c4b5] The Treasury may make an order under section 165A(2)(d) only if either or both of the following conditions is met in relation to the provision made by the order.
+(1)[^c-b530dedd607bd752a96adc7b9809c4b5] The Treasury may make an order under section 165A(2)(d) only if either or both of the following conditions is met in relation to the provision made by the order.
 
 (1A) Condition A is that the Treasury consider that—
 
@@ -57,6 +57,6 @@ pose, or would be likely to pose, a serious threat to the stability of the UK fi
 
 [^c2080668]: Textual amendment: S. 165A-165C inserted (8.6.2010) by Financial Services Act (c. 28), {ss. 18(2)}, 26(2)
 
-[^key-653480f1705f74d1101001ad88c6fb8a]: Modification: Pt. 11 modified (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [82(13)](https://www.legislation.gov.uk/uksi/2018/1253/article/82/13)
+[^c-653480f1705f74d1101001ad88c6fb8a]: Modification: Pt. 11 modified (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [82(13)](https://www.legislation.gov.uk/uksi/2018/1253/article/82/13)
 
-[^key-b530dedd607bd752a96adc7b9809c4b5]: Textual amendment: S. 165C(1)-(1B) substituted for s. 165C(1) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2012/21/schedule/12/paragraph/4) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-b530dedd607bd752a96adc7b9809c4b5]: Textual amendment: S. 165C(1)-(1B) substituted for s. 165C(1) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2012/21/schedule/12/paragraph/4) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

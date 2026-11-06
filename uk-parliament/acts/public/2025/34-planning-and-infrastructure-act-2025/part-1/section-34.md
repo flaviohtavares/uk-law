@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Procedure for certain orders and schemes[^key-b72805086b32242bd89d07f7be291e28]
+## 34. Procedure for certain orders and schemes[^c-b72805086b32242bd89d07f7be291e28]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b72805086b32242bd89d07f7be291e28]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2025/34/section/34) in force at 18.2.2026, see [s. 118(1)(t)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/t)
+[^c-b72805086b32242bd89d07f7be291e28]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2025/34/section/34) in force at 18.2.2026, see [s. 118(1)(t)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/t)

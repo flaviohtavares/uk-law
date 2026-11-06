@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. No requirement to discharge or repay tax unless all tax paid[^key-0f55f2acf0277d99fb5a13f00b44e812]
+## 45. No requirement to discharge or repay tax unless all tax paid[^c-0f55f2acf0277d99fb5a13f00b44e812]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In section 67 of TCMA (cases in which WRA need not give effect to a claim), afte
 
 ## Annotations
 
-[^key-0f55f2acf0277d99fb5a13f00b44e812]: Commencement: [S. 45](https://www.legislation.gov.uk/anaw/2017/3/section/45) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-0f55f2acf0277d99fb5a13f00b44e812]: Commencement: [S. 45](https://www.legislation.gov.uk/anaw/2017/3/section/45) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

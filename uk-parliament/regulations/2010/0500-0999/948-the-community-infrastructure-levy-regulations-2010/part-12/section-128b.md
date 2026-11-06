@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 128B. Transitional provision: article 18(1) of DMPO applications[^key-4bd264fbdb6330d37ef9b4557581f527]
+## 128B. Transitional provision: article 18(1) of DMPO applications[^c-4bd264fbdb6330d37ef9b4557581f527]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bd264fbdb6330d37ef9b4557581f527]: Textual amendment: [Reg. 128B](https://www.legislation.gov.uk/uksi/2010/948/regulation/128B) inserted (29.11.2012) by [The Community Infrastructure Levy (Amendment) Regulations 2012 (S.I. 2012/2975)](https://www.legislation.gov.uk/uksi/2012/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/9/2) (with [reg. 10(6)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/10/6))
+[^c-4bd264fbdb6330d37ef9b4557581f527]: Textual amendment: [Reg. 128B](https://www.legislation.gov.uk/uksi/2010/948/regulation/128B) inserted (29.11.2012) by [The Community Infrastructure Levy (Amendment) Regulations 2012 (S.I. 2012/2975)](https://www.legislation.gov.uk/uksi/2012/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/9/2) (with [reg. 10(6)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/10/6))

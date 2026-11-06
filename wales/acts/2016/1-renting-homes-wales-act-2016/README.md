@@ -38,7 +38,7 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 
 \[18 January 2016\]
 
-**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**[^key-58b2e21ae6c2a411c0401973586e070c]
+**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**[^c-58b2e21ae6c2a411c0401973586e070c]
 
 ## Contents
 
@@ -173,7 +173,7 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 
 - [Section 54 — Right to occupy without interference from landlord](part-3/section-54.md)
 
-#### Chapter 6A — Prohibition of discrimination against people with children and benefits claimants[^key-5cbe4923c91b2263a4ca0eea725cea66]
+#### Chapter 6A — Prohibition of discrimination against people with children and benefits claimants[^c-5cbe4923c91b2263a4ca0eea725cea66]
 
 - [Section 54A — Right for children to live at or visit dwelling](part-3/section-54a.md)
 - [Section 54B — Right to claim benefits](part-3/section-54b.md)
@@ -320,7 +320,7 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 
 - [Section 121 — Exclusion of contract-holder from dwelling for specified periods](part-6/section-121.md)
 
-#### CHAPTER 3 — VARIATION OF CONTRACTS[^key-06f6ef96d4937f727075ee44ddd28a2c]
+#### CHAPTER 3 — VARIATION OF CONTRACTS[^c-06f6ef96d4937f727075ee44ddd28a2c]
 
 - [Section 122 — Variation](part-6/section-122.md)
 - [Section 123 — Variation of rent](part-6/section-123.md)
@@ -346,7 +346,7 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 
 - [Section 133 — Exclusion of contract-holder from dwelling for specified periods](part-7/section-133.md)
 
-#### CHAPTER 3 — VARIATION OF CONTRACTS[^key-b84cf39923a5841e2fd9bf92fab18f3a]
+#### CHAPTER 3 — VARIATION OF CONTRACTS[^c-b84cf39923a5841e2fd9bf92fab18f3a]
 
 - [Section 134 — Variation](part-7/section-134.md)
 - [Section 135 — Limitation on variation](part-7/section-135.md)
@@ -376,9 +376,9 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 - [Section 145 — Temporary exclusion](part-8/section-145.md)
 - [Section 146 — Temporary exclusion: guidance](part-8/section-146.md)
 
-### PART 9 — TERMINATION ETC. OF OCCUPATION CONTRACTS[^key-b6d383a30ce08064689ce895046fd098]
+### PART 9 — TERMINATION ETC. OF OCCUPATION CONTRACTS[^c-b6d383a30ce08064689ce895046fd098]
 
-#### CHAPTER 1 — OVERVIEW AND INTRODUCTORY PROVISIONS[^key-b6d383a30ce08064689ce895046fd098]
+#### CHAPTER 1 — OVERVIEW AND INTRODUCTORY PROVISIONS[^c-b6d383a30ce08064689ce895046fd098]
 
 ##### Overview
 
@@ -394,7 +394,7 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 
 - [Section 151 — Introductory standard contracts and prohibited conduct standard contracts: notices under sections 173 and 181](part-9/section-151.md)
 
-#### CHAPTER 2 — TERMINATION ETC. WITHOUT A POSSESSION CLAIM — (THIS CHAPTER APPLIES TO ALL OCCUPATION CONTRACTS)[^key-b6d383a30ce08064689ce895046fd098]
+#### CHAPTER 2 — TERMINATION ETC. WITHOUT A POSSESSION CLAIM — (THIS CHAPTER APPLIES TO ALL OCCUPATION CONTRACTS)[^c-b6d383a30ce08064689ce895046fd098]
 
 - [Section 152 — Early termination by contract-holder](part-9/section-152.md)
 - [Section 153 — Termination by agreement](part-9/section-153.md)
@@ -402,7 +402,7 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 - [Section 155 — Death of sole contract-holder](part-9/section-155.md)
 - [Section 156 — Death of landlord where occupation contract is a licence](part-9/section-156.md)
 
-#### CHAPTER 3 — TERMINATION OF ALL OCCUPATION CONTRACTS (POSSESSION CLAIMS BY LANDLORDS)[^key-b6d383a30ce08064689ce895046fd098]
+#### CHAPTER 3 — TERMINATION OF ALL OCCUPATION CONTRACTS (POSSESSION CLAIMS BY LANDLORDS)[^c-b6d383a30ce08064689ce895046fd098]
 
 ##### Breach of contract
 
@@ -416,7 +416,7 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 - [Section 161 — Restrictions on section 160](part-9/section-161.md)
 - [Section 162 — Estate management grounds: redevelopment schemes](part-9/section-162.md)
 
-#### CHAPTER 4 — TERMINATION OF SECURE CONTRACTS (CONTRACT-HOLDER'S NOTICE)[^key-b6d383a30ce08064689ce895046fd098]
+#### CHAPTER 4 — TERMINATION OF SECURE CONTRACTS (CONTRACT-HOLDER'S NOTICE)[^c-b6d383a30ce08064689ce895046fd098]
 
 - [Section 163 — Contract-holder's notice](part-9/section-163.md)
 - [Section 164 — Minimum notice period](part-9/section-164.md)
@@ -424,7 +424,7 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 - [Section 166 — Restrictions on section 165](part-9/section-166.md)
 - [Section 167 — Termination of contract on contract-holder's notice](part-9/section-167.md)
 
-#### CHAPTER 5 — TERMINATION OF PERIODIC STANDARD CONTRACTS[^key-b6d383a30ce08064689ce895046fd098]
+#### CHAPTER 5 — TERMINATION OF PERIODIC STANDARD CONTRACTS[^c-b6d383a30ce08064689ce895046fd098]
 
 ##### Termination by contract-holder: contract-holder's notice
 
@@ -456,12 +456,12 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 
 - [Section 183 — Relevance of events under fixed term standard contract](part-9/section-183.md)
 
-#### CHAPTER 6 — FIXED TERM STANDARD CONTRACTS: END OF THE FIXED TERM[^key-b6d383a30ce08064689ce895046fd098]
+#### CHAPTER 6 — FIXED TERM STANDARD CONTRACTS: END OF THE FIXED TERM[^c-b6d383a30ce08064689ce895046fd098]
 
 - [Section 184 — End of fixed term](part-9/section-184.md)
 - [Section 185 — Written statement may address periodic standard contract arising under section 184(2)](part-9/section-185.md)
 
-#### CHAPTER 7 — TERMINATION OF FIXED TERM STANDARD CONTRACTS[^key-b6d383a30ce08064689ce895046fd098]
+#### CHAPTER 7 — TERMINATION OF FIXED TERM STANDARD CONTRACTS[^c-b6d383a30ce08064689ce895046fd098]
 
 ##### End of fixed term: landlord's notice
 
@@ -493,12 +493,12 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 - [Section 200 — Restriction on section 199](part-9/section-200.md)
 - [Section 201 — Termination of contract under landlord's break clause](part-9/section-201.md)
 
-#### CHAPTER 8 — REVIEW BY LANDLORD OF DECISION TO GIVE NOTICE REQUIRING POSSESSION — (THIS CHAPTER APPLIES ONLY TO INTRODUCTORY STANDARD CONTRACTS AND PROHIBITED CONDUCT STANDARD CONTRACTS)[^key-b6d383a30ce08064689ce895046fd098]
+#### CHAPTER 8 — REVIEW BY LANDLORD OF DECISION TO GIVE NOTICE REQUIRING POSSESSION — (THIS CHAPTER APPLIES ONLY TO INTRODUCTORY STANDARD CONTRACTS AND PROHIBITED CONDUCT STANDARD CONTRACTS)[^c-b6d383a30ce08064689ce895046fd098]
 
 - [Section 202 — Review of decision to terminate introductory standard contract or prohibited conduct standard contract](part-9/section-202.md)
 - [Section 203 — Landlord's review of decision to give a notice](part-9/section-203.md)
 
-#### CHAPTER 9 — POSSESSION CLAIMS: POWERS OF COURT — (THIS CHAPTER APPLIES TO ALL OCCUPATION CONTRACTS)[^key-b6d383a30ce08064689ce895046fd098]
+#### CHAPTER 9 — POSSESSION CLAIMS: POWERS OF COURT — (THIS CHAPTER APPLIES TO ALL OCCUPATION CONTRACTS)[^c-b6d383a30ce08064689ce895046fd098]
 
 - [Section 204 — Possession claims](part-9/section-204.md)
 - [Section 205 — Orders for possession](part-9/section-205.md)
@@ -506,19 +506,19 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 - [Section 207 — Participation in proceedings](part-9/section-207.md)
 - [Section 208 — Misrepresentation or concealment of facts used to obtain order for possession](part-9/section-208.md)
 
-#### CHAPTER 10 — POSSESSION CLAIMS: POWERS OF COURT IN RELATION TO DISCRETIONARY GROUNDS — (THIS CHAPTER APPLIES TO ALL OCCUPATION CONTRACTS)[^key-b6d383a30ce08064689ce895046fd098]
+#### CHAPTER 10 — POSSESSION CLAIMS: POWERS OF COURT IN RELATION TO DISCRETIONARY GROUNDS — (THIS CHAPTER APPLIES TO ALL OCCUPATION CONTRACTS)[^c-b6d383a30ce08064689ce895046fd098]
 
 - [Section 209 — Breach of contract ground](part-9/section-209.md)
 - [Section 210 — Estate management grounds](part-9/section-210.md)
 - [Section 211 — Powers to adjourn proceedings and postpone giving up of possession](part-9/section-211.md)
 
-#### CHAPTER 11 — POSSESSION CLAIMS: POWERS OF COURT IN RELATION TO ABSOLUTE GROUNDS — (THIS CHAPTER APPLIES ONLY TO SECURE CONTRACTS)[^key-b6d383a30ce08064689ce895046fd098]
+#### CHAPTER 11 — POSSESSION CLAIMS: POWERS OF COURT IN RELATION TO ABSOLUTE GROUNDS — (THIS CHAPTER APPLIES ONLY TO SECURE CONTRACTS)[^c-b6d383a30ce08064689ce895046fd098]
 
 - [Section 212 — Contract-holder's notice ground](part-9/section-212.md)
 - [Section 213 — Review of claim made on absolute ground](part-9/section-213.md)
 - [Section 214 — Powers to postpone giving up of possession](part-9/section-214.md)
 
-#### CHAPTER 12 — POSSESSION CLAIMS: POWERS OF COURT IN RELATION TO ABSOLUTE GROUNDS — (THIS CHAPTER APPLIES ONLY TO STANDARD CONTRACTS)[^key-b6d383a30ce08064689ce895046fd098]
+#### CHAPTER 12 — POSSESSION CLAIMS: POWERS OF COURT IN RELATION TO ABSOLUTE GROUNDS — (THIS CHAPTER APPLIES ONLY TO STANDARD CONTRACTS)[^c-b6d383a30ce08064689ce895046fd098]
 
 ##### Absolute grounds for possession relating to standard contracts
 
@@ -534,7 +534,7 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 - [Section 218 — Review of claim made on absolute ground](part-9/section-218.md)
 - [Section 219 — Powers to postpone giving up of possession](part-9/section-219.md)
 
-#### CHAPTER 13 — ABANDONMENT — (THIS CHAPTER APPLIES TO ALL OCCUPATION CONTRACTS)[^key-b6d383a30ce08064689ce895046fd098]
+#### CHAPTER 13 — ABANDONMENT — (THIS CHAPTER APPLIES TO ALL OCCUPATION CONTRACTS)[^c-b6d383a30ce08064689ce895046fd098]
 
 - [Section 220 — Possession of abandoned dwellings](part-9/section-220.md)
 - [Section 221 — Disposal of property](part-9/section-221.md)
@@ -542,7 +542,7 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 - [Section 223 — Power to vary periods of time relating to abandonment](part-9/section-223.md)
 - [Section 224 — Rights of entry](part-9/section-224.md)
 
-#### CHAPTER 14 — JOINT CONTRACT-HOLDERS: EXCLUSION AND TERMINATION — (THIS CHAPTER APPLIES TO ALL OCCUPATION CONTRACTS)[^key-b6d383a30ce08064689ce895046fd098]
+#### CHAPTER 14 — JOINT CONTRACT-HOLDERS: EXCLUSION AND TERMINATION — (THIS CHAPTER APPLIES TO ALL OCCUPATION CONTRACTS)[^c-b6d383a30ce08064689ce895046fd098]
 
 ##### Exclusion of joint contract-holders
 
@@ -557,7 +557,7 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 
 - [Section 231 — Termination of occupation contract with joint contract-holders](part-9/section-231.md)
 
-#### CHAPTER 15 — FORFEITURE AND NOTICES TO QUIT NOT AVAILABLE[^key-b6d383a30ce08064689ce895046fd098]
+#### CHAPTER 15 — FORFEITURE AND NOTICES TO QUIT NOT AVAILABLE[^c-b6d383a30ce08064689ce895046fd098]
 
 - [Section 232 — Forfeiture and notices to quit](part-9/section-232.md)
 
@@ -643,12 +643,12 @@ An Act of the National Assembly for Wales to make provision about tenancies and 
 
 ## Annotations
 
-[^key-58b2e21ae6c2a411c0401973586e070c]: Modification: [Act](https://www.legislation.gov.uk/anaw/2016/1) applied (1.12.2022) by 1988 c. 50, s. 85(3) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [16(14)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/16/14))
+[^c-58b2e21ae6c2a411c0401973586e070c]: Modification: [Act](https://www.legislation.gov.uk/anaw/2016/1) applied (1.12.2022) by 1988 c. 50, s. 85(3) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [16(14)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/16/14))
 
-[^key-5cbe4923c91b2263a4ca0eea725cea66]: Textual amendment: [Pt. 3 Ch. 6A](https://www.legislation.gov.uk/anaw/2016/1/part/3/chapter/6A) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 46(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/46/7), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)) (with power to amend or repeal Pt. 3 Ch. 6A conferred (27.10.2025) by [ss. 47](https://www.legislation.gov.uk/ukpga/2025/26/section/47), [145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2) of the amending Act); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/6/article/2/d)
+[^c-5cbe4923c91b2263a4ca0eea725cea66]: Textual amendment: [Pt. 3 Ch. 6A](https://www.legislation.gov.uk/anaw/2016/1/part/3/chapter/6A) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 46(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/46/7), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)) (with power to amend or repeal Pt. 3 Ch. 6A conferred (27.10.2025) by [ss. 47](https://www.legislation.gov.uk/ukpga/2025/26/section/47), [145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2) of the amending Act); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/6/article/2/d)
 
-[^key-06f6ef96d4937f727075ee44ddd28a2c]: Modification: [Pt. 6 Ch. 3](https://www.legislation.gov.uk/anaw/2016/1/part/6/chapter/3): power to amend conferred (1.9.2019) by [Renting Homes (Fees etc.) (Wales) Act 2019 (anaw 2)](https://www.legislation.gov.uk/anaw/2019/2), [s. 30(2)](https://www.legislation.gov.uk/anaw/2019/2/section/30/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/anaw/2019/2/schedule/1/paragraph/11) (with [s. 29](https://www.legislation.gov.uk/anaw/2019/2/section/29)); [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
+[^c-06f6ef96d4937f727075ee44ddd28a2c]: Modification: [Pt. 6 Ch. 3](https://www.legislation.gov.uk/anaw/2016/1/part/6/chapter/3): power to amend conferred (1.9.2019) by [Renting Homes (Fees etc.) (Wales) Act 2019 (anaw 2)](https://www.legislation.gov.uk/anaw/2019/2), [s. 30(2)](https://www.legislation.gov.uk/anaw/2019/2/section/30/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/anaw/2019/2/schedule/1/paragraph/11) (with [s. 29](https://www.legislation.gov.uk/anaw/2019/2/section/29)); [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
 
-[^key-b84cf39923a5841e2fd9bf92fab18f3a]: Modification: [Pt. 7 Ch. 3](https://www.legislation.gov.uk/anaw/2016/1/part/7/chapter/3): power to amend conferred (1.9.2019) by [Renting Homes (Fees etc.) (Wales) Act 2019 (anaw 2)](https://www.legislation.gov.uk/anaw/2019/2), [s. 30(2)](https://www.legislation.gov.uk/anaw/2019/2/section/30/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/anaw/2019/2/schedule/1/paragraph/11) (with [s. 29](https://www.legislation.gov.uk/anaw/2019/2/section/29)); [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
+[^c-b84cf39923a5841e2fd9bf92fab18f3a]: Modification: [Pt. 7 Ch. 3](https://www.legislation.gov.uk/anaw/2016/1/part/7/chapter/3): power to amend conferred (1.9.2019) by [Renting Homes (Fees etc.) (Wales) Act 2019 (anaw 2)](https://www.legislation.gov.uk/anaw/2019/2), [s. 30(2)](https://www.legislation.gov.uk/anaw/2019/2/section/30/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/anaw/2019/2/schedule/1/paragraph/11) (with [s. 29](https://www.legislation.gov.uk/anaw/2019/2/section/29)); [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
 
-[^key-b6d383a30ce08064689ce895046fd098]: Modification: [Pt. 9](https://www.legislation.gov.uk/anaw/2016/1/part/9) excluded (1.12.2022) by 2004 c. 34, s. 33(c) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(2)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/2/c))
+[^c-b6d383a30ce08064689ce895046fd098]: Modification: [Pt. 9](https://www.legislation.gov.uk/anaw/2016/1/part/9) excluded (1.12.2022) by 2004 c. 34, s. 33(c) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(2)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/2/c))

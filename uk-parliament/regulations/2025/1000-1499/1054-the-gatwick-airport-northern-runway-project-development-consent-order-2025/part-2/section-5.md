@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Maintenance of drainage works[^key-ea96c853b530b26434b54a262a64526f]
+## 5. Maintenance of drainage works[^c-ea96c853b530b26434b54a262a64526f]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea96c853b530b26434b54a262a64526f]: Commencement: Art. 5 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-ea96c853b530b26434b54a262a64526f]: Commencement: Art. 5 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
 [^f00033]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). The definition of “drainage” was substituted by section 100(2) of the Environment Act 1995 (c. 25).

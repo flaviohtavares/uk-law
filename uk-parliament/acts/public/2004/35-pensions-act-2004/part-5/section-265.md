@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 265. Paternity leave and adoption leave[^key-08f5306edab10d5011faffe25788abc2]
+## 265. Paternity leave and adoption leave[^c-08f5306edab10d5011faffe25788abc2]
 
 *Extent: E+W+S*
 
@@ -103,4 +103,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08f5306edab10d5011faffe25788abc2]: Commencement: S. 265 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7) (with [art. 2(12)](https://www.legislation.gov.uk/uksi/2005/275/article/2/12))
+[^c-08f5306edab10d5011faffe25788abc2]: Commencement: S. 265 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7) (with [art. 2(12)](https://www.legislation.gov.uk/uksi/2005/275/article/2/12))

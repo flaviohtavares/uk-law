@@ -34,7 +34,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Products of Animal Origin (Third Country Imports) (Scotland) Amendment (No. 2) Regulations 2006 (revoked)[^key-ba425db66264cd19fefd828cfb59433c]
+The Products of Animal Origin (Third Country Imports) (Scotland) Amendment (No. 2) Regulations 2006 (revoked)[^c-ba425db66264cd19fefd828cfb59433c]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 11th August 2006
 
-[^key-ba425db66264cd19fefd828cfb59433c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba425db66264cd19fefd828cfb59433c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ba425db66264cd19fefd828cfb59433c]
+## 1. Citation and commencement[^c-ba425db66264cd19fefd828cfb59433c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2002[^key-ba425db66264cd19fefd828cfb59433c]
+## 2. Amendment to the Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2002[^c-ba425db66264cd19fefd828cfb59433c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ba425db66264cd19fefd828cfb59433c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba425db66264cd19fefd828cfb59433c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ba425db66264cd19fefd828cfb59433c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba425db66264cd19fefd828cfb59433c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ba425db66264cd19fefd828cfb59433c]: Textual amendment: Regulations revoked (26.6.2009) by [The Products of Animal Origin (Third Country Imports) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/228)](https://www.legislation.gov.uk/ssi/2009/228), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/228/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2009/228/regulation/3)
+[^c-ba425db66264cd19fefd828cfb59433c]: Textual amendment: Regulations revoked (26.6.2009) by [The Products of Animal Origin (Third Country Imports) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/228)](https://www.legislation.gov.uk/ssi/2009/228), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/228/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2009/228/regulation/3)

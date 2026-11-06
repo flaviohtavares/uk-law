@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Procurement regulations[^key-ef76a8c512f482475c44e879a1c4b244][^key-5c10e0bc665c1a5eeb4f448609995ed3]
+## 79. Procurement regulations[^c-ef76a8c512f482475c44e879a1c4b244][^c-5c10e0bc665c1a5eeb4f448609995ed3]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ After section 12ZA of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-ef76a8c512f482475c44e879a1c4b244]: Commencement: S. 79 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-ef76a8c512f482475c44e879a1c4b244]: Commencement: S. 79 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-5c10e0bc665c1a5eeb4f448609995ed3]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2022/31/section/79) in force at 1.1.2024 by [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/b)
+[^c-5c10e0bc665c1a5eeb4f448609995ed3]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2022/31/section/79) in force at 1.1.2024 by [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/b)

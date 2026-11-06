@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. UK furnished holiday lettings business treated as trade[^key-ff24eb4dac6fe3fe592903aee4c7d4db]
+## 65. UK furnished holiday lettings business treated as trade[^c-ff24eb4dac6fe3fe592903aee4c7d4db]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff24eb4dac6fe3fe592903aee4c7d4db]: Textual amendment: [S. 65](https://www.legislation.gov.uk/ukpga/2010/4/section/65) omitted (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 6(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/6/2), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [17](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/17), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-ff24eb4dac6fe3fe592903aee4c7d4db]: Textual amendment: [S. 65](https://www.legislation.gov.uk/ukpga/2010/4/section/65) omitted (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 6(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/6/2), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [17](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/17), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 127. Rights as to service not matched by credited period[^key-b2f2f3a25a658ba36473cf87bbb3a432]
+## 127. Rights as to service not matched by credited period[^c-b2f2f3a25a658ba36473cf87bbb3a432]
 
 *Extent: N.I.*
 
@@ -25,8 +25,8 @@ summary: ''
 (2) Those provisions are –
 
 - (a) regulation 18(1) (general qualification for benefits);
-- (b)[^key-eef0c0d2c63e6083183718c6a4f07114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) regulation 43(4) and (5) (amount of active member’s surviving spouse’s or civil partner's[^key-45b5cabbee6b73c01aaf7e0bc70cd6b2] long-term pension);
+- (b)[^c-eef0c0d2c63e6083183718c6a4f07114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) regulation 43(4) and (5) (amount of active member’s surviving spouse’s or civil partner's[^c-45b5cabbee6b73c01aaf7e0bc70cd6b2] long-term pension);
 - (d) regulation 88(1) (return of contributions).
 
 (3) A period which may be counted under paragraph (1) counts as its actual length.
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b2f2f3a25a658ba36473cf87bbb3a432]: Commencement: [Reg. 127](https://www.legislation.gov.uk/nisr/2002/352/regulation/127) in operation at 1.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/352/regulation/1)
+[^c-b2f2f3a25a658ba36473cf87bbb3a432]: Commencement: [Reg. 127](https://www.legislation.gov.uk/nisr/2002/352/regulation/127) in operation at 1.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/352/regulation/1)
 
-[^key-eef0c0d2c63e6083183718c6a4f07114]: Textual amendment: [Reg. 127(2)(b)](https://www.legislation.gov.uk/nisr/2002/352/regulation/127/2/b) deleted (1.10.2006) by [Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/152)](https://www.legislation.gov.uk/nisr/2007/152), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2007/152/regulation/1), [56](https://www.legislation.gov.uk/nisr/2007/152/regulation/56)
+[^c-eef0c0d2c63e6083183718c6a4f07114]: Textual amendment: [Reg. 127(2)(b)](https://www.legislation.gov.uk/nisr/2002/352/regulation/127/2/b) deleted (1.10.2006) by [Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/152)](https://www.legislation.gov.uk/nisr/2007/152), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2007/152/regulation/1), [56](https://www.legislation.gov.uk/nisr/2007/152/regulation/56)
 
-[^key-45b5cabbee6b73c01aaf7e0bc70cd6b2]: Textual amendment: Words in [reg. 127(2)(c)](https://www.legislation.gov.uk/nisr/2002/352/regulation/127/2/c) inserted (with effect in accordance with reg. 1(3) of the amending Rule) by [Local Government Pension Scheme (Civil Partnership) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/6)](https://www.legislation.gov.uk/nisr/2006/6), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2006/6/regulation/1), [3(18)](https://www.legislation.gov.uk/nisr/2006/6/regulation/3)
+[^c-45b5cabbee6b73c01aaf7e0bc70cd6b2]: Textual amendment: Words in [reg. 127(2)(c)](https://www.legislation.gov.uk/nisr/2002/352/regulation/127/2/c) inserted (with effect in accordance with reg. 1(3) of the amending Rule) by [Local Government Pension Scheme (Civil Partnership) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/6)](https://www.legislation.gov.uk/nisr/2006/6), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2006/6/regulation/1), [3(18)](https://www.legislation.gov.uk/nisr/2006/6/regulation/3)

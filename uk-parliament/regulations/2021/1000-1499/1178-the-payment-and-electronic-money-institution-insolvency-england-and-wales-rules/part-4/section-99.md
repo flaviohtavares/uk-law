@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Expenses to be paid out of the relevant funds[^key-27c5dbdc05bc4a3f328f1753e51fa4d3]
+## 99. Expenses to be paid out of the relevant funds[^c-27c5dbdc05bc4a3f328f1753e51fa4d3]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27c5dbdc05bc4a3f328f1753e51fa4d3]: Commencement: Rule 99 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-27c5dbdc05bc4a3f328f1753e51fa4d3]: Commencement: Rule 99 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

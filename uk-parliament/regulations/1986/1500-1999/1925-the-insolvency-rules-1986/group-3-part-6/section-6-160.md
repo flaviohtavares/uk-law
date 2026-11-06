@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.160. Vacancies[^key-c1e02e0f7b1d1f5007c84727bb45dad7]
+## 6.160. Vacancies[^c-c1e02e0f7b1d1f5007c84727bb45dad7]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1e02e0f7b1d1f5007c84727bb45dad7]: Commencement: [Rule 6.160](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.160) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c1e02e0f7b1d1f5007c84727bb45dad7]: Commencement: [Rule 6.160](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.160) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

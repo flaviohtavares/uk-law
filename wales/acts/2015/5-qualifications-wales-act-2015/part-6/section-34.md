@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Restriction on funding and provision of certain courses[^key-ae5faab2258f127a4c9419db1ac93b9e]
+## 34. Restriction on funding and provision of certain courses[^c-ae5faab2258f127a4c9419db1ac93b9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,13 +65,13 @@ summary: ''
 - “**authorised body**” (“***corff awdurdodedig***”) means—
   - (a) the Welsh Ministers;
   - (b) a local authority in Wales;
-  - (c) the Commission for Tertiary Education and Research;[^key-01a358f591c6bf9b9bce9554c84e9d8c]
+  - (c) the Commission for Tertiary Education and Research;[^c-01a358f591c6bf9b9bce9554c84e9d8c]
 - “**maintained school**” (“***ysgol a gynhelir***”) means—
   - (a) a community, foundation or voluntary school;
   - (b) a community special school.
 
 ## Annotations
 
-[^key-ae5faab2258f127a4c9419db1ac93b9e]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2015/5/section/34) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-ae5faab2258f127a4c9419db1ac93b9e]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2015/5/section/34) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-01a358f591c6bf9b9bce9554c84e9d8c]: Textual amendment: Words in [s. 34(12)](https://www.legislation.gov.uk/anaw/2015/5/section/34/12) inserted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 34(2)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/34/2) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xviii)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xviii) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-01a358f591c6bf9b9bce9554c84e9d8c]: Textual amendment: Words in [s. 34(12)](https://www.legislation.gov.uk/anaw/2015/5/section/34/12) inserted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 34(2)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/34/2) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xviii)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xviii) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))

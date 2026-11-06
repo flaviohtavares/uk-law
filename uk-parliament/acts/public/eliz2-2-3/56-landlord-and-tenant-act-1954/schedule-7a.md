@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule 7A — Rent reviews[^key-5b4f7389c020822320ba69bb5ceba21c]
+## Schedule 7A — Rent reviews[^c-5b4f7389c020822320ba69bb5ceba21c]
 
 *Extent: E+W*
 
@@ -270,4 +270,4 @@ An agreement (whether contained in the instrument creating the tenancy or not) i
 
 ## Annotations
 
-[^key-5b4f7389c020822320ba69bb5ceba21c]: Textual amendment: Sch. 7A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 37 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/37/paragraph/2)
+[^c-5b4f7389c020822320ba69bb5ceba21c]: Textual amendment: Sch. 7A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 37 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/37/paragraph/2)

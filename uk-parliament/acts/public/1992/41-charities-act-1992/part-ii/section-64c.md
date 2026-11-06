@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64C. Reserve power to confer additional powers on Charity Commission[^key-b877ee727316faa9caa6d5dff9308fdd]
+## 64C. Reserve power to confer additional powers on Charity Commission[^c-b877ee727316faa9caa6d5dff9308fdd]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ regulations under section 64A may, in particular, make provision conferring func
 
 ## Annotations
 
-[^key-b877ee727316faa9caa6d5dff9308fdd]: Textual amendment: [S. 64C](https://www.legislation.gov.uk/ukpga/1992/41/section/64C) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 14(3)](https://www.legislation.gov.uk/ukpga/2016/4/section/14/3), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/j)
+[^c-b877ee727316faa9caa6d5dff9308fdd]: Textual amendment: [S. 64C](https://www.legislation.gov.uk/ukpga/1992/41/section/64C) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 14(3)](https://www.legislation.gov.uk/ukpga/2016/4/section/14/3), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/j)

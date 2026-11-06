@@ -22,7 +22,7 @@ summary: ''
 
 (1) The general rule in regulation 2.G.2 does not apply if—
 
-- (a) at the time that the member first becomes entitled to a pension under this Section of[^key-ffd7377204e3925320ab875ddf30ada7] the Scheme in respect of the earlier service or the later service, or
+- (a) at the time that the member first becomes entitled to a pension under this Section of[^c-ffd7377204e3925320ab875ddf30ada7] the Scheme in respect of the earlier service or the later service, or
 - (b) if it is earlier, at the time of the member’s death,
 
 in the opinion of the Secretary of State the benefits payable to or in respect of the member would be more valuable if that general rule were disregarded.
@@ -38,4 +38,4 @@ in the opinion of the Secretary of State the benefits payable to or in respect o
 
 ## Annotations
 
-[^key-ffd7377204e3925320ab875ddf30ada7]: Textual amendment: Words in [reg. 2.G.3(1)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.G.3/1/a) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-ffd7377204e3925320ab875ddf30ada7]: Textual amendment: Words in [reg. 2.G.3(1)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.G.3/1/a) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)

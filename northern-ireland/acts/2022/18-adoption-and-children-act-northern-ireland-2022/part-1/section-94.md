@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 94. Overseas determinations and orders[^key-dc2ab33589621ab83c7b0b4f4eb9f8ae]
+## 94. Overseas determinations and orders[^c-dc2ab33589621ab83c7b0b4f4eb9f8ae]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc2ab33589621ab83c7b0b4f4eb9f8ae]: Commencement: S. 94 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-dc2ab33589621ab83c7b0b4f4eb9f8ae]: Commencement: S. 94 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

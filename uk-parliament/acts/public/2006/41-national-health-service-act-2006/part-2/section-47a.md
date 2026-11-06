@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47A. Joint exercise of functions[^key-e97546e8d7aa295cf9b7d689264863ab]
+## 47A. Joint exercise of functions[^c-e97546e8d7aa295cf9b7d689264863ab]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An NHS foundation trust may enter into arrangements for the carrying out, on suc
 
 ## Annotations
 
-[^key-e97546e8d7aa295cf9b7d689264863ab]: Textual amendment: [S. 47A](https://www.legislation.gov.uk/ukpga/2006/41/section/47A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 64](https://www.legislation.gov.uk/ukpga/2022/31/section/64), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-e97546e8d7aa295cf9b7d689264863ab]: Textual amendment: [S. 47A](https://www.legislation.gov.uk/ukpga/2006/41/section/47A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 64](https://www.legislation.gov.uk/ukpga/2022/31/section/64), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

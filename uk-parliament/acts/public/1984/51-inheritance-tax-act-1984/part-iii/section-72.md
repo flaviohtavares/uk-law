@@ -33,7 +33,7 @@ summary: ''
 
 (1B) Section 59(3) and (4) above apply for the purposes of subsection (1A)(c) above as for those of section 59(2)(b) above, but as if the references to the condition set out in section 59(2)(a) above were to the condition set out in subsection (1A)(b) above.
 
-(2) Subject to subsections (3A),[^key-39b5b70709fa129deb83a854881845e0] (4) , (4A)[^c13608991] and (5) below, there shall be a charge to tax under this section—
+(2) Subject to subsections (3A),[^c-39b5b70709fa129deb83a854881845e0] (4) , (4A)[^c13608991] and (5) below, there shall be a charge to tax under this section—
 
 - (a) where settled property ceases to be property to which this section applies, otherwise than by virtue of a payment out of the settled property, and
 - (b) where a payment is made out of settled property to which this section applies for the benefit of a person within subsection (3) below, or a person connected with such a person, and
@@ -47,7 +47,7 @@ summary: ''
   - (ii) would, on a winding-up of the company, be entitled to not less than 5 per cent. of its assets; or
 - (c) he has acquired an interest in the settled property for a consideration in money or money’s worth.
 
-(3A)[^key-27916e7afcb9e44864e6521b68a1319e] Where settled property ceases to be property to which this section applies because paragraph (d) of section 86(3) no longer applies, tax is not chargeable under this section by virtue of subsection (2)(a) if the only reason that paragraph no longer applies is that one or both of the trading requirement and the controlling interest requirement mentioned in that paragraph are no longer met with respect to the company so mentioned.
+(3A)[^c-27916e7afcb9e44864e6521b68a1319e] Where settled property ceases to be property to which this section applies because paragraph (d) of section 86(3) no longer applies, tax is not chargeable under this section by virtue of subsection (2)(a) if the only reason that paragraph no longer applies is that one or both of the trading requirement and the controlling interest requirement mentioned in that paragraph are no longer met with respect to the company so mentioned.
 
 (4) If the trusts are those of a profit sharing scheme approved in accordance with Schedule 9 to the Taxes Act 1988[^c13609001], tax shall not be chargeable under this section by virtue of subsection (3)(b) above on an appropriation of shares in pursuance of the scheme.
 
@@ -68,11 +68,11 @@ and a person shall be treated for the purposes of this section as acquiring an i
 
 [^c19473591]: Textual amendment: S. 71(1A)(1B) inserted (22.3.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 156](https://www.legislation.gov.uk/ukpga/2006/25/section/156), [Sch. 20 paras. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/7), [21(3)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/21/3)
 
-[^key-39b5b70709fa129deb83a854881845e0]: Textual amendment: Word in s. 72(2) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 13(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/13/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/13/4)
+[^c-39b5b70709fa129deb83a854881845e0]: Textual amendment: Word in s. 72(2) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 13(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/13/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/13/4)
 
 [^c13608991]: Textual amendment: Word in s. 72(2) inserted (28.7.2000) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 138(3)(a)](https://www.legislation.gov.uk/ukpga/2000/17/section/138/3/a)
 
-[^key-27916e7afcb9e44864e6521b68a1319e]: Textual amendment: S. 72(3A) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 13(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/13/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/13/4)
+[^c-27916e7afcb9e44864e6521b68a1319e]: Textual amendment: S. 72(3A) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 13(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/13/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/13/4)
 
 [^c13609001]: Textual amendment: *Substituted by* [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [Sch. 29](https://www.legislation.gov.uk/ukpga/1988/1/schedule/29), [para. 32](https://www.legislation.gov.uk/ukpga/1988/1/paragraph/32). *Originally* “Finance Act 1978”.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24B. Restocking orders after conviction under section 24 in England[^key-a642cf9e5ac1539b1ee19847c2a8869d]
+## 24B. Restocking orders after conviction under section 24 in England[^c-a642cf9e5ac1539b1ee19847c2a8869d]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a642cf9e5ac1539b1ee19847c2a8869d]: Textual amendment: [S. 24B](https://www.legislation.gov.uk/ukpga/1967/10/section/24B) inserted (1.1.2023) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/16/paragraph/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/1266](https://www.legislation.gov.uk/uksi/2022/1266), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/2/d) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/3/4))
+[^c-a642cf9e5ac1539b1ee19847c2a8869d]: Textual amendment: [S. 24B](https://www.legislation.gov.uk/ukpga/1967/10/section/24B) inserted (1.1.2023) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/16/paragraph/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/1266](https://www.legislation.gov.uk/uksi/2022/1266), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/2/d) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/3/4))

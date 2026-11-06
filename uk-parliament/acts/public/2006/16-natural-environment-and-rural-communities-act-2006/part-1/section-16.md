@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Directions[^key-b14971ea7a1f6e733ba181eca17dfcf6]
+## 16. Directions[^c-b14971ea7a1f6e733ba181eca17dfcf6]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b14971ea7a1f6e733ba181eca17dfcf6]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2006/16/section/16) in force at 2.5.2006 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 4](https://www.legislation.gov.uk/uksi/2006/1176/article/4)
+[^c-b14971ea7a1f6e733ba181eca17dfcf6]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2006/16/section/16) in force at 2.5.2006 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 4](https://www.legislation.gov.uk/uksi/2006/1176/article/4)

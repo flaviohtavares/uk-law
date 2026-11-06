@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 117(3)(c), 121(12), 124(6) and 132(1) of, and paragraphs 3(4)(b) and (6)(c), 6(6) and (7), 10(4), 14(1) and (2) and 16 of Schedule 8 to, the Building Safety Act 2022[^f00001].
 
-## 1. Citation, commencement, extent and application, and interpretation[^key-aa5bc1bd696b25a62d257002df0ac9e8]
+## 1. Citation, commencement, extent and application, and interpretation[^c-aa5bc1bd696b25a62d257002df0ac9e8]
 
 (1) These Regulations may be cited as the Building Safety (Leaseholder Protections) (England) Regulations 2022 and come into force on 20th July 2022.
 
@@ -57,30 +57,30 @@ The Secretary of State makes the following Regulations in exercise of the powers
 (3) In these Regulations—
 
 - “**the Act**” means the Building Safety Act 2022;
-- “[^key-0d08d8b339352980491c4e5c33699410]**current landlord**” means a person who is the landlord under a lease of premises in a relevant building;
-- “[^key-bc10bc902c26b916dbff10617f72b3d3]**landlord group**” has the meaning given in paragraph 3(4) of Schedule 8 to the Act;
+- “[^c-0d08d8b339352980491c4e5c33699410]**current landlord**” means a person who is the landlord under a lease of premises in a relevant building;
+- “[^c-bc10bc902c26b916dbff10617f72b3d3]**landlord group**” has the meaning given in paragraph 3(4) of Schedule 8 to the Act;
 - “**leaseholder**” means a tenant under a lease of a dwelling in a building;
-- “[^key-c6d7aa5ad695d86a0f13400422f997f8]**named manager**” means, in relation to a building, a person who is named in a lease as being the party with managing and repairing obligations in relation to the building or part of the building and who is a separate legal person from the freeholder of the building and the landlord of the building or part of the building;
+- “[^c-c6d7aa5ad695d86a0f13400422f997f8]**named manager**” means, in relation to a building, a person who is named in a lease as being the party with managing and repairing obligations in relation to the building or part of the building and who is a separate legal person from the freeholder of the building and the landlord of the building or part of the building;
 - “**remediation service charge**” means a service charge[^f00003] which includes a charge in respect of a relevant measure[^f00004] relating to any relevant defect[^f00005];
-- “[^key-77a4a134cb9f07a560be82b8244afa7a]**RMC**” means a body corporate which is party to a lease of a building where—
+- “[^c-77a4a134cb9f07a560be82b8244afa7a]**RMC**” means a body corporate which is party to a lease of a building where—
   - (a) the body corporate is limited by guarantee and the members of that body are tenants under leases of dwellings in the building (“leaseholders”), or
   - (b) the majority of the shares of the body corporate are held by leaseholders; and
 - “**RTM company**” has the same meaning as in the Commonhold and Leasehold Reform Act 2002[^f00006].
 
-## 2. Buildings which are not relevant buildings: leaseholder owned buildings[^key-0eea07afa6728e1336aa1e6d9800835f]
+## 2. Buildings which are not relevant buildings: leaseholder owned buildings[^c-0eea07afa6728e1336aa1e6d9800835f]
 
 For the purposes of section 117(3)(c) of the Act the freehold estate in the building or part of the building is leaseholder owned where—
 
 - (a) the freehold estate is solely owned by tenants in the building, whether through a corporate structure or otherwise; and
 - (b) paragraphs (a), (b) and (d) of section 117(3) of the Act do not apply in relation to the building.
 
-## 3. Modification of section 121(2) to (5) of the Act for certain associated persons[^key-78b7586278e2053779a0b59d8e3e0ba0]
+## 3. Modification of section 121(2) to (5) of the Act for certain associated persons[^c-78b7586278e2053779a0b59d8e3e0ba0]
 
 (1) In the definition of “the landlord group” in paragraph 3(4)(a) of Schedule 8 to the Act, the reference to a person associated with the relevant landlord is modified in accordance with paragraph (2).
 
-(2) For the purposes of paragraph 3 of Schedule 8 to the Act, a person is not to be considered associated with the relevant landlord where they would only be associated by virtue of section 121(4) or (5)(a)[^key-9163c092386a353de0484a02445319e7] of the Act.
+(2) For the purposes of paragraph 3 of Schedule 8 to the Act, a person is not to be considered associated with the relevant landlord where they would only be associated by virtue of section 121(4) or (5)(a)[^c-9163c092386a353de0484a02445319e7] of the Act.
 
-## 4. Application of section 124 of the Act (remediation contribution orders) to other buildings[^key-b7b841e3345b562e6e583841340ea2f2]
+## 4. Application of section 124 of the Act (remediation contribution orders) to other buildings[^c-b7b841e3345b562e6e583841340ea2f2]
 
 (1) Section 124 of the Act applies in relation to a building that would, but for section 117(3) of the Act, be a relevant building[^f00007], with the modifications set out in paragraphs (2) and (3).
 
@@ -96,7 +96,7 @@ For the purposes of section 117(3)(c) of the Act the freehold estate in the buil
 
 .
 
-## 5. Determination of net worth of landlord group[^key-4ec4eab49c7f7455e6af27c1d5ca3f82]
+## 5. Determination of net worth of landlord group[^c-4ec4eab49c7f7455e6af27c1d5ca3f82]
 
 (1) For the purposes of paragraph 3 of Schedule 8 to the Act, the net worth of the landlord group at the qualifying time is determined in accordance with this regulation.
 
@@ -123,7 +123,7 @@ Net worth = Assets - Liabilities
 
 (6) In determining the net worth of a landlord group in accordance with paragraph (5), the “assets” and “liabilities” of a landlord includes those of the landlord’s spouse or civil partner at the qualifying time[^f00012].
 
-## 6. Landlord’s certificate[^key-4bc2c27d060f7c09d05e5e2e83fae438]
+## 6. Landlord’s certificate[^c-4bc2c27d060f7c09d05e5e2e83fae438]
 
 (1) A current landlord must provide a certificate (a “landlord’s certificate”) to a leaseholder in each of the following circumstances—
 
@@ -131,7 +131,7 @@ Net worth = Assets - Liabilities
 - (b) within four weeks of receipt of notification from the leaseholder that the leasehold interest is to be sold;
 - (c) within four weeks of becoming aware (either themselves or by notification from another person) of a relevant defect not covered by a previous landlord’s certificate; or
 - (d) within four weeks of being requested to do so by the leaseholder.
-- (e)[^key-dfafa3a66954416c7e5d27022697b225] within four weeks of becoming aware of a new leaseholder deed of certificate (as defined in regulation 6 of the Building Safety (Leaseholder Protections) (Information etc.) (England) Regulations 2022) which is in relation to a lease of a dwelling in the building of which the current landlord is the landlord and which contained information that was not included in a previous landlord’s certificate.
+- (e)[^c-dfafa3a66954416c7e5d27022697b225] within four weeks of becoming aware of a new leaseholder deed of certificate (as defined in regulation 6 of the Building Safety (Leaseholder Protections) (Information etc.) (England) Regulations 2022) which is in relation to a lease of a dwelling in the building of which the current landlord is the landlord and which contained information that was not included in a previous landlord’s certificate.
 
 (2) The landlord’s certificate under paragraph (1) must—
 
@@ -142,7 +142,7 @@ Net worth = Assets - Liabilities
 - (e) be accompanied by the evidence set out in paragraph (4),
 - (f) be signed by the person who is the current landlord on the date the certificate is completed.
 
-(2A)[^key-1c3920493ac3f91fa6a89adc788102b4] But the requirement in paragraph (2) that the landlord’s certificate contain the information referred to in paragraph (3) and be accompanied by the evidence set out in paragraph (4) is modified as set out in paragraphs (2B) to (2G).
+(2A)[^c-1c3920493ac3f91fa6a89adc788102b4] But the requirement in paragraph (2) that the landlord’s certificate contain the information referred to in paragraph (3) and be accompanied by the evidence set out in paragraph (4) is modified as set out in paragraphs (2B) to (2G).
 
 (2B) Where the landlord’s certificate confirms that—
 
@@ -193,7 +193,7 @@ it does not have to contain the information referred to in paragraph (3) nor be 
 
 it does not have to be accompanied by the evidence set out in paragraphs (4)(e) and (f).
 
-(3)[^key-874ea66bb1c55db5aa09f19c6ac20c14] The information is—
+(3)[^c-874ea66bb1c55db5aa09f19c6ac20c14] The information is—
 
 - (a) the percentage of the storeys in the relevant building for which each relevant landlord was the landlord at the qualifying time;
 - (b) in relation to the condition in paragraph 2 of Schedule 8 to the Act, where a relevant landlord was part of a landlord group at the qualifying time, details of the corporate structure of the relevant landlord and any person associated with the relevant landlord and including—
@@ -224,8 +224,8 @@ it does not have to be accompanied by the evidence set out in paragraphs (4)(e) 
 - (d) evidence (where applicable) that—
   - (i) the person who undertook works relating to the relevant defect or commissioned those works was not the relevant landlord and was not associated with the relevant landlord (as defined in paragraph 2(4) of Schedule 8 to the Act) together with confirmation of the identity of the person who did undertake such works, and
   - (ii) where those works were commissioned or undertaken by a joint venture, proof the relevant landlord was not party to that joint venture, together with details of the persons who were parties to the joint venture;
-- (e) details of any relevant defects and any relevant measures (as defined in paragraph 1 of Schedule 8 to the Act) taken in relation to those relevant defects since 28th June 2017[^key-c7e5a2dc4e370cfeed8f4d879d65a989]; and
-- (f) details of any costs paid or due to be paid in relation to any relevant measures taken in relation to[^key-6de7d20dd63d693b5240f6ffb22c01f1] any relevant defects in the relevant building since 28 June 2017, including—
+- (e) details of any relevant defects and any relevant measures (as defined in paragraph 1 of Schedule 8 to the Act) taken in relation to those relevant defects since 28th June 2017[^c-c7e5a2dc4e370cfeed8f4d879d65a989]; and
+- (f) details of any costs paid or due to be paid in relation to any relevant measures taken in relation to[^c-6de7d20dd63d693b5240f6ffb22c01f1] any relevant defects in the relevant building since 28 June 2017, including—
   - (i) the total sum of any such costs;
   - (ii) details of the number of flats between which the costs should be divided; and
   - (iii) the leaseholder’s maximum remaining liability.
@@ -234,18 +234,18 @@ it does not have to be accompanied by the evidence set out in paragraphs (4)(e) 
 
 (6) Where the current landlord is unable to provide any of the information required for the landlord’s certificate in paragraphs (3) and (4) the current landlord must apply to other persons who are relevant landlords requesting the information in accordance with regulation 7 which those persons must provide within 3 weeks of having been asked.
 
-(7) If a current landlord[^key-521f30850cca7ac6f0824d9239134f04] does not provide a certificate which complies with this regulation in the form outlined in Schedule 1[^key-771328039dc773918ed933e58bb671f4] to the leaseholder, the condition in paragraph 2(2) of Schedule 8 to the Act is to be treated as met in accordance with paragraph 14(2) of Schedule 8 to the Act.
+(7) If a current landlord[^c-521f30850cca7ac6f0824d9239134f04] does not provide a certificate which complies with this regulation in the form outlined in Schedule 1[^c-771328039dc773918ed933e58bb671f4] to the leaseholder, the condition in paragraph 2(2) of Schedule 8 to the Act is to be treated as met in accordance with paragraph 14(2) of Schedule 8 to the Act.
 
 (8) In this regulation, “relevant landlord”—
 
-- (a) in paragraphs (2)(b) , (2B)(a), (2C)(b), (2D)(b), (2E)(b), (2F)(b), (2G)(b), (3)(c)[^key-6f3d3f3c955462276c1c3831082f7fbd] and (4)(a) and (b), has the meaning given in paragraph 3(1) of Schedule 8 to the Act;
+- (a) in paragraphs (2)(b) , (2B)(a), (2C)(b), (2D)(b), (2E)(b), (2F)(b), (2G)(b), (3)(c)[^c-6f3d3f3c955462276c1c3831082f7fbd] and (4)(a) and (b), has the meaning given in paragraph 3(1) of Schedule 8 to the Act;
 - (b) otherwise, has the meaning given in paragraph 2(4) of Schedule 8 to the Act.
 
-(9)[^key-9574230bf70338cce442843ecc71a440] Where a current landlord has provided a landlord’s certificate to a leaseholder they must provide a copy of that certificate to any other landlords of premises in the building, the RMC, RTM company or named manager within one week of providing the certificate to the leaseholder.
+(9)[^c-9574230bf70338cce442843ecc71a440] Where a current landlord has provided a landlord’s certificate to a leaseholder they must provide a copy of that certificate to any other landlords of premises in the building, the RMC, RTM company or named manager within one week of providing the certificate to the leaseholder.
 
 (10) Where a current landlord fails to comply with the requirement in paragraph (9) the costs of a relevant measure relating to a relevant defect in the building to which the certificate relates are prescribed costs under paragraph 16(4) of Schedule 8 to the Act and so are not to be regarded as relevant costs to be taken into account in determining the amount of a service charge payable under a relevant lease of premises in that building and must not be met from a relevant reserve fund as defined in paragraph 10 of Schedule 8 to the Act.
 
-## 7. Landlord’s certificate to other landlords in the building[^key-c4bfd9c1b507f500cc486b84372a53ef]
+## 7. Landlord’s certificate to other landlords in the building[^c-c4bfd9c1b507f500cc486b84372a53ef]
 
 A relevant landlord within the meaning of paragraph 2(4) of Schedule 8 to the Act must, within 3 weeks of a request from the current landlord, provide the current landlord with the following information—
 
@@ -256,7 +256,7 @@ A relevant landlord within the meaning of paragraph 2(4) of Schedule 8 to the Ac
   - (iii) details of the type of trust if any, the law to which it is subject and where it is tax resident; and
   - (iv) in relation to trusts with an interest in the shares of any company comprised in the group, details of the economic settlor, the named beneficiaries or class of beneficiaries and protector and any other person who has the right to exercise or does exercise significant influence or control directly or indirectly over the trust.
 
-## 8. Disapplication of paragraph 3 of Schedule 8 to the Act[^key-ad0ef73150bc56170cd68b9d26697e37]
+## 8. Disapplication of paragraph 3 of Schedule 8 to the Act[^c-ad0ef73150bc56170cd68b9d26697e37]
 
 The following persons are prescribed for the purposes of paragraph 3(6)(c) of Schedule 8 to the Act—
 
@@ -264,7 +264,7 @@ The following persons are prescribed for the purposes of paragraph 3(6)(c) of Sc
 - (b) the Crown;
 - (c) NHS Foundation trusts.
 
-## 9. Determination of the value of a qualifying lease[^key-192f3b4ece3f2a3233f8e579e894ce68]
+## 9. Determination of the value of a qualifying lease[^c-192f3b4ece3f2a3233f8e579e894ce68]
 
 (1) Subject to paragraph (2), for the purposes of paragraph 4 and/or paragraph 6(6) of Schedule 8 to the Act the value of a qualifying lease is—
 
@@ -285,16 +285,16 @@ The following persons are prescribed for the purposes of paragraph 3(6)(c) of Sc
 - (a) “**substitute qualifying lease**” means a qualifying lease of the most recently disposed of dwelling in the same building, ignoring any dwellings which had an internal floorspace which is more than 15% larger or 15% smaller than D; and
 - (b) any reference to a disposal means a disposal on the open market.
 
-## 10. Application of service charge restrictions to non-residential leases[^key-8bcb2cf5edb93488c342ea6c5e0261cb]
+## 10. Application of service charge restrictions to non-residential leases[^c-8bcb2cf5edb93488c342ea6c5e0261cb]
 
-(1) The reference in paragraph 2 of Schedule 8 to the Act which states that no service charge is payable under a [^key-761999d490e2b1f511de73b617d6ac4f]... lease in a relevant building in respect of a relevant measure relating to a relevant defect is modified in accordance with paragraph (2)[^key-6f852174d8931d21dc610a99ed3f14e3].
+(1) The reference in paragraph 2 of Schedule 8 to the Act which states that no service charge is payable under a [^c-761999d490e2b1f511de73b617d6ac4f]... lease in a relevant building in respect of a relevant measure relating to a relevant defect is modified in accordance with paragraph (2)[^c-6f852174d8931d21dc610a99ed3f14e3].
 
 (2) For the purposes of paragraph 2 of Schedule 8 to the Act—
 
 - (a) no service charge is payable under a non-residential lease in a relevant building where the conditions set out in paragraph 2(2) of the Act are met; and
 - (b) the reference in paragraph 10(2) of Schedule 8 to the Act applies to non-residential leases.
 
-## 11. Application to First-tier Tribunal[^key-26901226d7e75393f958f9f40223f579]
+## 11. Application to First-tier Tribunal[^c-26901226d7e75393f958f9f40223f579]
 
 (1) This regulation applies where a leaseholder or relevant landlord (the “applicant”) wishes to apply to the First-tier Tribunal for an order under paragraph 16(5) of Schedule 8 to the Act.
 
@@ -307,11 +307,11 @@ The following persons are prescribed for the purposes of paragraph 3(6)(c) of Sc
 
 (3) In this regulation, “**relevant landlord**” has the meaning given in paragraph 16(8) of Schedule 8 to the Act.
 
-## 12. Persons entitled to apply to the High Court for an information order in connection with a building liability order[^key-bd92b399f557d86be9a57d4d46158000]
+## 12. Persons entitled to apply to the High Court for an information order in connection with a building liability order[^c-bd92b399f557d86be9a57d4d46158000]
 
 For the purposes of section 132 of the Act, any person making, or intending to make, an application for a building liability order under section 130 of the Act may apply to the High Court for an information order.
 
-## 13. Review[^key-8fcbe68ff71235fef01599b5e444e14f]
+## 13. Review[^c-8fcbe68ff71235fef01599b5e444e14f]
 
 (1) The Secretary of State must from time to time—
 
@@ -339,13 +339,13 @@ Department for Levelling Up, Housing and Communities
 
 28th June 2022
 
-## SCHEDULE 1[^key-bac5d75b11eebd22ba24c4b88152bf97]
+## SCHEDULE 1[^c-bac5d75b11eebd22ba24c4b88152bf97]
 
 Regulation 6
 
 [image: see source](https://www.legislation.gov.uk/uksi/2022/711/images/uksi_20220711_en_epp_001.gif)[image: see source](https://www.legislation.gov.uk/uksi/2022/711/images/uksi_20220711_en_epp_002.gif)[image: see source](https://www.legislation.gov.uk/uksi/2022/711/images/uksi_20220711_en_epp_003.gif)[image: see source](https://www.legislation.gov.uk/uksi/2022/711/images/uksi_20220711_en_epp_004.gif)[image: see source](https://www.legislation.gov.uk/uksi/2022/711/images/uksi_20220711_en_epp_005.gif)[image: see source](https://www.legislation.gov.uk/uksi/2022/711/images/uksi_20220711_en_epp_006.gif)
 
-## SCHEDULE 2 — Uprating values[^key-edd5566ab11b1bfb90fa0277aa94935f]
+## SCHEDULE 2 — Uprating values[^c-edd5566ab11b1bfb90fa0277aa94935f]
 
 Regulation 9
 
@@ -441,13 +441,13 @@ An impact assessment is available with the explanatory memorandum for these Regu
 
 [^f00001]: Footnote: [2022 c. 30](https://www.legislation.gov.uk/ukpga/2022/30). See paragraph 1(1) for the definition of “prescribed”.
 
-[^key-aa5bc1bd696b25a62d257002df0ac9e8]: Commencement: Reg. 1 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
+[^c-aa5bc1bd696b25a62d257002df0ac9e8]: Commencement: Reg. 1 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
 
-[^key-0d08d8b339352980491c4e5c33699410]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/3) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2023/895/regulation/10/a)
+[^c-0d08d8b339352980491c4e5c33699410]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/3) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2023/895/regulation/10/a)
 
-[^key-bc10bc902c26b916dbff10617f72b3d3]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/3) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2023/895/regulation/10/b)
+[^c-bc10bc902c26b916dbff10617f72b3d3]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/3) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2023/895/regulation/10/b)
 
-[^key-c6d7aa5ad695d86a0f13400422f997f8]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/3) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2023/895/regulation/10/c)
+[^c-c6d7aa5ad695d86a0f13400422f997f8]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/3) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2023/895/regulation/10/c)
 
 [^f00003]: Footnote: See (by virtue of paragraph 1 of Schedule 8 to the Act) the meaning of “service charge” given by section 18 of the Landlord and Tenant Act [1985 (c. 70)](https://www.legislation.gov.uk/ukpga/1985/70).
 
@@ -455,21 +455,21 @@ An impact assessment is available with the explanatory memorandum for these Regu
 
 [^f00005]: Footnote: See section 120 of the Act for the definition of “relevant defect”.
 
-[^key-77a4a134cb9f07a560be82b8244afa7a]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/3) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2023/895/regulation/10/d)
+[^c-77a4a134cb9f07a560be82b8244afa7a]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/3) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2023/895/regulation/10/d)
 
 [^f00006]: Footnote: [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15). See sections 71 to 74.
 
-[^key-0eea07afa6728e1336aa1e6d9800835f]: Commencement: Reg. 2 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
+[^c-0eea07afa6728e1336aa1e6d9800835f]: Commencement: Reg. 2 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
 
-[^key-78b7586278e2053779a0b59d8e3e0ba0]: Commencement: Reg. 3 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
+[^c-78b7586278e2053779a0b59d8e3e0ba0]: Commencement: Reg. 3 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
 
-[^key-9163c092386a353de0484a02445319e7]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/711/regulation/3/2) substituted (9.2.2023) by [The Building Safety (Leaseholder Protections) (England) (Amendment) Regulations 2023 (S.I. 2023/126)](https://www.legislation.gov.uk/uksi/2023/126), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/126/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/126/regulation/2/2)
+[^c-9163c092386a353de0484a02445319e7]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/711/regulation/3/2) substituted (9.2.2023) by [The Building Safety (Leaseholder Protections) (England) (Amendment) Regulations 2023 (S.I. 2023/126)](https://www.legislation.gov.uk/uksi/2023/126), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/126/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/126/regulation/2/2)
 
-[^key-b7b841e3345b562e6e583841340ea2f2]: Commencement: Reg. 4 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
+[^c-b7b841e3345b562e6e583841340ea2f2]: Commencement: Reg. 4 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
 
 [^f00007]: Footnote: See section 117(2) of the Act for the definition of “relevant building”.
 
-[^key-4ec4eab49c7f7455e6af27c1d5ca3f82]: Commencement: Reg. 5 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
+[^c-4ec4eab49c7f7455e6af27c1d5ca3f82]: Commencement: Reg. 5 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
 
 [^f00008]: Footnote: See paragraph 3 of Schedule 8 to the Act for the definition of “**relevant landlord**” in relation to meeting the contribution condition
 
@@ -481,49 +481,49 @@ An impact assessment is available with the explanatory memorandum for these Regu
 
 [^f00012]: Footnote: See section 119(2)(d) for the definition of “the qualifying time”.
 
-[^key-4bc2c27d060f7c09d05e5e2e83fae438]: Commencement: Reg. 6 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
+[^c-4bc2c27d060f7c09d05e5e2e83fae438]: Commencement: Reg. 6 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
 
-[^key-dfafa3a66954416c7e5d27022697b225]: Textual amendment: [Reg. 6(1)(e)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/1/e) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/2)
+[^c-dfafa3a66954416c7e5d27022697b225]: Textual amendment: [Reg. 6(1)(e)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/1/e) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/2)
 
 [^f00013]: Footnote: See paragraph 2(3) of Schedule 8 to the Act for the definition of “responsible for”.
 
-[^key-1c3920493ac3f91fa6a89adc788102b4]: Textual amendment: [Reg. 6(2A)-(2G)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/2A) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/3)
+[^c-1c3920493ac3f91fa6a89adc788102b4]: Textual amendment: [Reg. 6(2A)-(2G)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/2A) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/3)
 
-[^key-874ea66bb1c55db5aa09f19c6ac20c14]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/3) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/4)
+[^c-874ea66bb1c55db5aa09f19c6ac20c14]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/3) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/4)
 
 [^f00015]: Footnote: See section 120(3) of the Act for the definition of “relevant period”.
 
 [^f00016]: Footnote: See section 120(3) of the Act for the definition of “relevant works”.
 
-[^key-c7e5a2dc4e370cfeed8f4d879d65a989]: Textual amendment: Words in [reg. 6(4)(e)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/4/e) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(5)(a)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/5/a)
+[^c-c7e5a2dc4e370cfeed8f4d879d65a989]: Textual amendment: Words in [reg. 6(4)(e)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/4/e) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(5)(a)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/5/a)
 
-[^key-6de7d20dd63d693b5240f6ffb22c01f1]: Textual amendment: Words in [reg. 6(4)(f)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/4/f) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(5)(b)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/5/b)
+[^c-6de7d20dd63d693b5240f6ffb22c01f1]: Textual amendment: Words in [reg. 6(4)(f)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/4/f) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(5)(b)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/5/b)
 
 [^f00017]: Footnote: See paragraph 1 of Schedule 8 to the Act for the definition of “relevant measure”.
 
-[^key-521f30850cca7ac6f0824d9239134f04]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/7) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(6)(a)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/6/a)
+[^c-521f30850cca7ac6f0824d9239134f04]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/7) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(6)(a)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/6/a)
 
-[^key-771328039dc773918ed933e58bb671f4]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/7) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(6)(b)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/6/b)
+[^c-771328039dc773918ed933e58bb671f4]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/7) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(6)(b)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/6/b)
 
-[^key-6f3d3f3c955462276c1c3831082f7fbd]: Textual amendment: Words in [reg. 6(8)(a)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/8/a) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(7)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/7)
+[^c-6f3d3f3c955462276c1c3831082f7fbd]: Textual amendment: Words in [reg. 6(8)(a)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/8/a) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(7)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/7)
 
-[^key-9574230bf70338cce442843ecc71a440]: Textual amendment: [Reg. 6(9)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/9)[(10)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/10) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(8)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/8)
+[^c-9574230bf70338cce442843ecc71a440]: Textual amendment: [Reg. 6(9)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/9)[(10)](https://www.legislation.gov.uk/uksi/2022/711/regulation/6/10) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [11(8)](https://www.legislation.gov.uk/uksi/2023/895/regulation/11/8)
 
-[^key-c4bfd9c1b507f500cc486b84372a53ef]: Commencement: Reg. 7 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
+[^c-c4bfd9c1b507f500cc486b84372a53ef]: Commencement: Reg. 7 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
 
 [^f00018]: Footnote: See paragraph 3(4) for the definition of “the landlord group”.
 
-[^key-ad0ef73150bc56170cd68b9d26697e37]: Commencement: Reg. 8 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
+[^c-ad0ef73150bc56170cd68b9d26697e37]: Commencement: Reg. 8 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
 
-[^key-192f3b4ece3f2a3233f8e579e894ce68]: Commencement: Reg. 9 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
+[^c-192f3b4ece3f2a3233f8e579e894ce68]: Commencement: Reg. 9 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
 
-[^key-8bcb2cf5edb93488c342ea6c5e0261cb]: Commencement: Reg. 10 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
+[^c-8bcb2cf5edb93488c342ea6c5e0261cb]: Commencement: Reg. 10 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
 
-[^key-761999d490e2b1f511de73b617d6ac4f]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/10/1) omitted (5.8.2023) by virtue of [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2023/895/regulation/12/a)
+[^c-761999d490e2b1f511de73b617d6ac4f]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/10/1) omitted (5.8.2023) by virtue of [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2023/895/regulation/12/a)
 
-[^key-6f852174d8931d21dc610a99ed3f14e3]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/10/1) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2023/895/regulation/12/b)
+[^c-6f852174d8931d21dc610a99ed3f14e3]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/10/1) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2023/895/regulation/12/b)
 
-[^key-26901226d7e75393f958f9f40223f579]: Commencement: Reg. 11 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
+[^c-26901226d7e75393f958f9f40223f579]: Commencement: Reg. 11 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
 
 [^f00019]: Footnote: See paragraph 2(4) of Schedule 8 to the Act for the definition of “developer”.
 
@@ -531,12 +531,12 @@ An impact assessment is available with the explanatory memorandum for these Regu
 
 [^f00021]: Footnote: See section 119 of the Act for the definition of “qualifying lease”.
 
-[^key-bd92b399f557d86be9a57d4d46158000]: Commencement: Reg. 12 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
+[^c-bd92b399f557d86be9a57d4d46158000]: Commencement: Reg. 12 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
 
-[^key-8fcbe68ff71235fef01599b5e444e14f]: Commencement: Reg. 13 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
+[^c-8fcbe68ff71235fef01599b5e444e14f]: Commencement: Reg. 13 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
 
 [^f00022]: Footnote: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), and paragraph 36 of Schedule 8 to the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-bac5d75b11eebd22ba24c4b88152bf97]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2022/711/schedule/1) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/895/schedule)
+[^c-bac5d75b11eebd22ba24c4b88152bf97]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2022/711/schedule/1) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/895/schedule)
 
-[^key-edd5566ab11b1bfb90fa0277aa94935f]: Commencement: Sch. 2 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)
+[^c-edd5566ab11b1bfb90fa0277aa94935f]: Commencement: Sch. 2 in force at 20.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1)

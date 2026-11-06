@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Russia, Crimea and Sevastopol Sanctions) (Amendment) Order 2014 (revoked)[^key-0b7a1ff010844aa005fbcb976aca15ab]
+The Export Control (Russia, Crimea and Sevastopol Sanctions) (Amendment) Order 2014 (revoked)[^c-0b7a1ff010844aa005fbcb976aca15ab]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 29th November 2014
 
-[^key-0b7a1ff010844aa005fbcb976aca15ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b7a1ff010844aa005fbcb976aca15ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — Introductory[^key-0b7a1ff010844aa005fbcb976aca15ab]
+## PART I — Introductory[^c-0b7a1ff010844aa005fbcb976aca15ab]
 
-### 1. Citation, Commencement and Application[^key-0b7a1ff010844aa005fbcb976aca15ab]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-0b7a1ff010844aa005fbcb976aca15ab]
+### 1. Citation, Commencement and Application[^c-0b7a1ff010844aa005fbcb976aca15ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — AMENDMENTS TO THE RUSSIA SANCTIONS ORDER[^key-0b7a1ff010844aa005fbcb976aca15ab]
+### 2. Interpretation[^c-0b7a1ff010844aa005fbcb976aca15ab]
 
-**3.**[^key-0b7a1ff010844aa005fbcb976aca15ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0b7a1ff010844aa005fbcb976aca15ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART II — AMENDMENTS TO THE RUSSIA SANCTIONS ORDER[^c-0b7a1ff010844aa005fbcb976aca15ab]
 
-[^key-0b7a1ff010844aa005fbcb976aca15ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0b7a1ff010844aa005fbcb976aca15ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-0b7a1ff010844aa005fbcb976aca15ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-0b7a1ff010844aa005fbcb976aca15ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0b7a1ff010844aa005fbcb976aca15ab]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/2932) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [13(e)](https://www.legislation.gov.uk/uksi/2020/590/regulation/13/e); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
+[^c-0b7a1ff010844aa005fbcb976aca15ab]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/2932) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [13(e)](https://www.legislation.gov.uk/uksi/2020/590/regulation/13/e); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)

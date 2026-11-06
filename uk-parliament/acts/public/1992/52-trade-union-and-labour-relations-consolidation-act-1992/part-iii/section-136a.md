@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136A. Right to statement of trade union rights[^key-9d905576e4bc899953131d96bbddd416]
+## 136A. Right to statement of trade union rights[^c-9d905576e4bc899953131d96bbddd416]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d905576e4bc899953131d96bbddd416]: Textual amendment: [S. 136A](https://www.legislation.gov.uk/ukpga/1992/52/section/136A) and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/58/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(18)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/18/b)
+[^c-9d905576e4bc899953131d96bbddd416]: Textual amendment: [S. 136A](https://www.legislation.gov.uk/ukpga/1992/52/section/136A) and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/58/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(18)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/18/b)

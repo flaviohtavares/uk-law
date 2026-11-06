@@ -24,11 +24,11 @@ summary: ''
 
 (2) The Counsel General may be removed from office by Her Majesty on the recommendation of the First Minister.
 
-(3) No recommendation for the appointment or removal of a person as the Counsel General may be made by the First Minister without the agreement of the Senedd[^key-60edd79c70d763519861630d1afb7962].
+(3) No recommendation for the appointment or removal of a person as the Counsel General may be made by the First Minister without the agreement of the Senedd[^c-60edd79c70d763519861630d1afb7962].
 
 (4) The Counsel General may at any time tender resignation to Her Majesty and ceases to hold office as Counsel General when it is accepted.
 
-(5) The Counsel General ceases to hold office if a Member of the Senedd[^key-9348d22b2d042136af6e1508e7843105] is nominated under section 47(1) for appointment as First Minister.
+(5) The Counsel General ceases to hold office if a Member of the Senedd[^c-9348d22b2d042136af6e1508e7843105] is nominated under section 47(1) for appointment as First Minister.
 
 (6) The functions of the Counsel General are exercisable by a person designated by the First Minister if—
 
@@ -45,6 +45,6 @@ summary: ''
 
 [^c16526851]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
-[^key-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
+[^c-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))

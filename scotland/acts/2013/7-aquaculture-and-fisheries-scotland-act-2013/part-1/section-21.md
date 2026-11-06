@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Offences in relation to control agreements, control schemes, etc.[^key-71052cad08c68d8c8a99e87175d41ee3]
+## 21. Offences in relation to control agreements, control schemes, etc.[^c-71052cad08c68d8c8a99e87175d41ee3]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71052cad08c68d8c8a99e87175d41ee3]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/7/section/21) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-71052cad08c68d8c8a99e87175d41ee3]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/7/section/21) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Power for liquidator or administrator to assign causes of action[^key-c1b45e2640767dc5ea523aff4126f320]
+## 3. Power for liquidator or administrator to assign causes of action[^c-c1b45e2640767dc5ea523aff4126f320]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ After Article 208ZC (inserted by section 2) insert—
 
 ## Annotations
 
-[^key-c1b45e2640767dc5ea523aff4126f320]: Commencement: S. 3 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-c1b45e2640767dc5ea523aff4126f320]: Commencement: S. 3 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

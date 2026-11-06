@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Provision of information to the OGA after meetings[^key-5ba9e00e2fb2075ae19ff6c5018e8581]
+## 40. Provision of information to the OGA after meetings[^c-5ba9e00e2fb2075ae19ff6c5018e8581]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ba9e00e2fb2075ae19ff6c5018e8581]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2016/20/section/40) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-5ba9e00e2fb2075ae19ff6c5018e8581]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2016/20/section/40) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Notices to quit by tenants under assured tenancies: other[^key-aa89b8b4bed23e0360a753de83b93f91][^key-5b5e36af7632f6c81cc38dcfdabb0193]
+## 21. Notices to quit by tenants under assured tenancies: other[^c-aa89b8b4bed23e0360a753de83b93f91][^c-5b5e36af7632f6c81cc38dcfdabb0193]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ After section 5 of the [Protection from Eviction Act 1977](https://www.legislati
 
 ## Annotations
 
-[^key-aa89b8b4bed23e0360a753de83b93f91]: Commencement: S. 21 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-aa89b8b4bed23e0360a753de83b93f91]: Commencement: S. 21 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-5b5e36af7632f6c81cc38dcfdabb0193]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2025/26/section/21) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-5b5e36af7632f6c81cc38dcfdabb0193]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2025/26/section/21) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

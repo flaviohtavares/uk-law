@@ -618,7 +618,7 @@ have (in aggregate) capital resources requirements of at least that amount.
 - (g) a company which does not carry on any relevant regulated activities otherwise than for the purpose of trading in commodities or commodity derivatives,
 - (h) a company which does not carry on any relevant regulated activities otherwise than for the purpose of dealing in contracts for differences as principal with persons all or all but an insignificant proportion of whom are retail clients or of dealing in contracts for differences with another person to enable the company or other person to deal in contracts for differences as principal with such persons,
 - (i) a society incorporated under the Friendly Societies Act 1992,
-- (j) a society registered as a credit union under the Co-operative and Community Benefit Societies Act 2014[^key-5b1148b97a35630336898e190caff4be] or the Credit Unions (Northern Ireland) Order 1985 (S.I. 1985/1205 (NI 12)), or
+- (j) a society registered as a credit union under the Co-operative and Community Benefit Societies Act 2014[^c-5b1148b97a35630336898e190caff4be] or the Credit Unions (Northern Ireland) Order 1985 (S.I. 1985/1205 (NI 12)), or
 - (k) a building society.
 
 (10) “**Asset management activities**” means activities which consist (or, if they were carried on in the United Kingdom, would consist) of any or all of the following—
@@ -635,7 +635,7 @@ have (in aggregate) capital resources requirements of at least that amount.
   - (i) which is a member of the same group as C, and
   - (ii) whose share of the profits or losses of a trade carried on by the partnership for an accounting period of the partnership any part of which falls within the chargeable period is at least a 40% share (see Part 17 of CTA 2009 for provisions about shares of partnership profits and losses).
 
-(12) The following have the meanings given in the PRA Handbook made by the Prudential Regulation Authority[^key-63d92d7c3429b57f55c6951079ab3092] (as that Handbook has effect from time to time)—
+(12) The following have the meanings given in the PRA Handbook made by the Prudential Regulation Authority[^c-63d92d7c3429b57f55c6951079ab3092] (as that Handbook has effect from time to time)—
 
 - “authorised corporate director”,
 - “BIPRU 730k firm”,
@@ -747,9 +747,9 @@ and, for this purpose, “**tax**” includes bank payroll tax and any other tax
 
 (14) In sub-paragraph (11) “**relevant regulatory body**” means—
 
-- (a)[^key-5a774582ac70712a134266db2ac9f549] the Financial Conduct Authority,
+- (a)[^c-5a774582ac70712a134266db2ac9f549] the Financial Conduct Authority,
 - (aa) the Prudential Regulation Authority, or
-- (b) a body discharging functions under the law of a country or territory outside the United Kingdom corresponding to functions discharged by the Financial Conduct Authority or the Prudential Regulation Authority[^key-5274a9ac6b65ddbc5a35efd73132bebc].
+- (b) a body discharging functions under the law of a country or territory outside the United Kingdom corresponding to functions discharged by the Financial Conduct Authority or the Prudential Regulation Authority[^c-5274a9ac6b65ddbc5a35efd73132bebc].
 
 (15) In this paragraph “**dealing on own account**” has the same meaning as in [Directive 2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065)[^M_F_72919bd0-5b84-4091-bb6e-7cbcd858a894] of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments (see Article 4(1)(6)).
 
@@ -839,12 +839,12 @@ without taking account of any deductions (whether for expenses or otherwise).
 
 ## Annotations
 
-[^key-5b1148b97a35630336898e190caff4be]: Textual amendment: Words in [Sch. 1 para. 44(9)(j)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/1/paragraph/44/9/j) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 172](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/172) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-5b1148b97a35630336898e190caff4be]: Textual amendment: Words in [Sch. 1 para. 44(9)(j)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/1/paragraph/44/9/j) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 172](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/172) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-63d92d7c3429b57f55c6951079ab3092]: Textual amendment: Words in Sch. 1 para. 44(12) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 14(3)(a)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/14/3/a)
+[^c-63d92d7c3429b57f55c6951079ab3092]: Textual amendment: Words in Sch. 1 para. 44(12) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 14(3)(a)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/14/3/a)
 
-[^key-5a774582ac70712a134266db2ac9f549]: Textual amendment: Sch. 1 para. 45(14)(a) (aa) substituted for Sch. 1 para. 45(14)(a) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 130(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/130/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-5a774582ac70712a134266db2ac9f549]: Textual amendment: Sch. 1 para. 45(14)(a) (aa) substituted for Sch. 1 para. 45(14)(a) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 130(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/130/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-5274a9ac6b65ddbc5a35efd73132bebc]: Textual amendment: Words in Sch. 1 para. 45(14)(b) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 130(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/130/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-5274a9ac6b65ddbc5a35efd73132bebc]: Textual amendment: Words in Sch. 1 para. 45(14)(b) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 130(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/130/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^M_F_72919bd0-5b84-4091-bb6e-7cbcd858a894]: Textual amendment: Words in Sch. 1 para. 45(15) substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2017/701/schedule/4/paragraph/13) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))

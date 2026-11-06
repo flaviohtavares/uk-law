@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Contents
 
-### Part 1 — Protection of the water environment[^key-8995f915a48b398b0c173a24d67c5017][^key-eb9a7777e47a77dcfe2b4ffaaee8b4f6]
+### Part 1 — Protection of the water environment[^c-8995f915a48b398b0c173a24d67c5017][^c-eb9a7777e47a77dcfe2b4ffaaee8b4f6]
 
 *Extent: S*
 
@@ -129,6 +129,6 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-8995f915a48b398b0c173a24d67c5017]: Modification: Pt. 1 applied (with modifications) (2.1.2004) by [Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003 (S.I. 2003/3245)](https://www.legislation.gov.uk/uksi/2003/3245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2003/3245/regulation/6) (as amended (10.4.2017) by [S.I. 2017/407](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(4)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/4) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-8995f915a48b398b0c173a24d67c5017]: Modification: Pt. 1 applied (with modifications) (2.1.2004) by [Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003 (S.I. 2003/3245)](https://www.legislation.gov.uk/uksi/2003/3245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2003/3245/regulation/6) (as amended (10.4.2017) by [S.I. 2017/407](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(4)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/4) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-eb9a7777e47a77dcfe2b4ffaaee8b4f6]: Modification: Pt. 1 applied (with modifications) (10.2.2004) by [Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004 (S.I. 2004/99)](https://www.legislation.gov.uk/uksi/2004/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/99/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2004/99/regulation/5/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2004/99/schedule/4) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2004/99/regulation/5/2))
+[^c-eb9a7777e47a77dcfe2b4ffaaee8b4f6]: Modification: Pt. 1 applied (with modifications) (10.2.2004) by [Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004 (S.I. 2004/99)](https://www.legislation.gov.uk/uksi/2004/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/99/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2004/99/regulation/5/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2004/99/schedule/4) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2004/99/regulation/5/2))

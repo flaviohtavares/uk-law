@@ -60,7 +60,7 @@ They have been designated for the purposes of that section in relation to measur
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation and commencement[^key-78a34530a0850c0cfce3604a59683e0e]
+### 1. Citation and commencement[^c-78a34530a0850c0cfce3604a59683e0e]
 
 (1) These Regulations may be cited as the Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019.
 
@@ -72,9 +72,9 @@ They have been designated for the purposes of that section in relation to measur
 
 ## PART 2 — THE INTRASTAT SYSTEM: TRADE WITH MEMBER STATES
 
-### 2. Modification of Regulation [(EC) No 638/2004](https://www.legislation.gov.uk/eur/2004/638) on Community statistics relating to the trading of goods between Member States[^key-e72d395ea18730087f7f8a8e36dd5eef]
+### 2. Modification of Regulation [(EC) No 638/2004](https://www.legislation.gov.uk/eur/2004/638) on Community statistics relating to the trading of goods between Member States[^c-e72d395ea18730087f7f8a8e36dd5eef]
 
-(1) Regulation [(EC) No 638/2004](https://www.legislation.gov.uk/eur/2004/638) of the European Parliament and of the Council of 31<sup></sup>March 2004 on Community statistics relating to the trading of goods between Member States and repealing Council Regulation [(EEC) No 3330/91](https://www.legislation.gov.uk/eur/1991/3330) (“the establishing Regulation”)[^key-686e7f8ee5d7d694fcf3e9db4f3a664c] is amended as follows.
+(1) Regulation [(EC) No 638/2004](https://www.legislation.gov.uk/eur/2004/638) of the European Parliament and of the Council of 31<sup></sup>March 2004 on Community statistics relating to the trading of goods between Member States and repealing Council Regulation [(EEC) No 3330/91](https://www.legislation.gov.uk/eur/1991/3330) (“the establishing Regulation”)[^c-686e7f8ee5d7d694fcf3e9db4f3a664c] is amended as follows.
 
 (2) Revoke Articles 2(g); 3(4); 4; 5(2) and (2a); 5(4), final sentence; 6(b) and (c); 7(3); 8(2) and (3); 9(1), second sub-paragraph, final sentence (the one starting with “The Commission shall”); 9(1), third sub-paragraph (the one starting with “Those implementing acts”); 9(2) final sentence; 9a; 10(3), second sub-paragraph (the one ending with “standards in force”) to 10(6); 12; 13; 13a; 14; and 16, final sentence.
 
@@ -82,7 +82,7 @@ They have been designated for the purposes of that section in relation to measur
 
 (4) In Article 9(2), for “Member States” substitute “ The Commissioners for Her Majesty's Revenue and Customs ”.
 
-### 3.[^key-74dbad647ef977e0024965fe8138d995]
+### 3.[^c-74dbad647ef977e0024965fe8138d995]
 
 (1) In Article—
 
@@ -132,9 +132,9 @@ They have been designated for the purposes of that section in relation to measur
 - (c) in paragraph 2(b), for “annual Commission regulation updating the Combined Nomenclature”, substitute “ customs tariff ”,
 - (d) in paragraph 3(a), for “taxation purposes in accordance with Directive [2006/112/EC](https://www.legislation.gov.uk/eudr/2006/112)”, substitute “ value added tax purposes ”,
 - (e) in paragraph 3(b), omit “of the Member States”.
-- (f)[^key-086c9590a9cb238074ce1546f0ccee57] in paragraph 8, omit each “the statistical territory of”
+- (f)[^c-086c9590a9cb238074ce1546f0ccee57] in paragraph 8, omit each “the statistical territory of”
 
-### 4. Modification of Regulation [(EC) No 1982/2004](https://www.legislation.gov.uk/eur/2004/1982) implementing Regulation [(EC) No 638/2004](https://www.legislation.gov.uk/eur/2004/638) on Community statistics relating to the trading of goods between Member States[^key-96bf3807c0be82d2eca230e454894e35]
+### 4. Modification of Regulation [(EC) No 1982/2004](https://www.legislation.gov.uk/eur/2004/1982) implementing Regulation [(EC) No 638/2004](https://www.legislation.gov.uk/eur/2004/638) on Community statistics relating to the trading of goods between Member States[^c-96bf3807c0be82d2eca230e454894e35]
 
 (1) Commission Regulation [(EC) No 1982/2004](https://www.legislation.gov.uk/eur/2004/1982) of 18 November 2004 implementing Regulation [(EC) No 638/2004](https://www.legislation.gov.uk/eur/2004/638) of the European Parliament and of the Council on Community statistics relating to the trading of goods between Member States and repealing Commission Regulations [(EC) No 1901/2000](https://www.legislation.gov.uk/eur/2000/1901) and [(EEC) No 3590/92](https://www.legislation.gov.uk/eur/1992/3590) is amended as follows.
 
@@ -156,7 +156,7 @@ They have been designated for the purposes of that section in relation to measur
 
 (7) In Articles 21(4) and 22(4) omit “acts of Union”.
 
-### 5.[^key-375851d26978e8a0eab71fa063f5d2ca]
+### 5.[^c-375851d26978e8a0eab71fa063f5d2ca]
 
 (1) In Article—
 
@@ -182,7 +182,7 @@ They have been designated for the purposes of that section in relation to measur
 - (k) 17(1)(c) after “taxable person” insert “ (for value added tax purposes, or for corresponding purposes under the law of a member State) ”;
 - (l) 17(2)(a) and (b), for “another” substitute “ a ” and for “reporting Member State” substitute “ United Kingdom ”;
 - (m) 17(2)(b) for “in the Member State” substitute “ if the United Kingdom is the country ”;
-- (n) 17(4) for “Member States[^key-df4697597012d8b2cb6460b726d07191] of arrival and dispatch” substitute “ the United Kingdom ”;
+- (n) 17(4) for “Member States[^c-df4697597012d8b2cb6460b726d07191] of arrival and dispatch” substitute “ the United Kingdom ”;
 - (o) 18 omit “, provided that they keep the Commission (Eurostat) informed on their particular practice before application”;
 - (p) 19(1)(b) for “Member State” substitute “ country ”;
 - (q) 19(2) for “reporting Member State” substitute “ United Kingdom ” and for “another” substitute “ a ”;
@@ -218,7 +218,7 @@ They have been designated for the purposes of that section in relation to measur
   - (ii) for “another” substitute “ a ”,
   - (iii) for “outside the Community” substitute “ elsewhere ”.
 
-### 6. Amendment of the Statistics of Trade (Customs and Excise) Regulations 1992[^key-fc23f48577c6660576d784d5d4acd982]
+### 6. Amendment of the Statistics of Trade (Customs and Excise) Regulations 1992[^c-fc23f48577c6660576d784d5d4acd982]
 
 (1) The Statistics of Trade (Customs and Excise) Regulations 1992 [^c23503551] are amended as follows.
 
@@ -244,14 +244,14 @@ They have been designated for the purposes of that section in relation to measur
 
 (10) In regulation 6(3)(a) and (b), omit “other”.
 
-(11)[^key-c0007c0d1871f6f0dd1d4038a2f662fe] In relation to a dispatch from, or an arrival to, a place in Northern Ireland—
+(11)[^c-c0007c0d1871f6f0dd1d4038a2f662fe] In relation to a dispatch from, or an arrival to, a place in Northern Ireland—
 
 - (a) the amendments made by paragraphs (2), (3), (4), (5)(a) and (b) and (8) do not apply; and
 - (b) in regulation 2(2)(c), omit “other”.
 
 ## PART 3 — THE EXTRASTAT SYSTEM: TRADE WITH NON-MEMBER STATES
 
-### 7. Modification of Regulation [(EC) No 471/2009](https://www.legislation.gov.uk/eur/2009/471) on Community statistics relating to external trade with non-member countries[^key-20b3b4f5ef32829896f81e1805d09a3c]
+### 7. Modification of Regulation [(EC) No 471/2009](https://www.legislation.gov.uk/eur/2009/471) on Community statistics relating to external trade with non-member countries[^c-20b3b4f5ef32829896f81e1805d09a3c]
 
 (1) Regulation [(EC) No 471/2009](https://www.legislation.gov.uk/eur/2009/471) of the European Parliament and of the Council of 6 May 2009 on Community statistics relating to external trade with non-member countries and repealing Council Regulation [(EC) No 1172/95](https://www.legislation.gov.uk/eur/1995/1172) is amended as follows.
 
@@ -263,7 +263,7 @@ They have been designated for the purposes of that section in relation to measur
 
 (5) In Article 5(1)(c), for “Member States” substitute “ United Kingdom ”.
 
-### 8.[^key-f08c8c105088bed808ab673667464048]
+### 8.[^c-f08c8c105088bed808ab673667464048]
 
 (1) In Article—
 
@@ -298,13 +298,13 @@ They have been designated for the purposes of that section in relation to measur
 - (j) 6(2) omit everything starting with “To this end” and ending with “Article 11(2).”;
 - (k) 6(3) and in 6(4), for “Member States” substitute “ the Commissioners for Her Majesty's Revenue and Customs ”.
 
-### 9. Modification of Regulation (EU) No 92/2010 implementing Regulation [(EC) No 471/2009](https://www.legislation.gov.uk/eur/2009/471) on Community statistics relating to external trade with non-member countries, etc.[^key-257b8e16534fb35334fa8875e8e33746]
+### 9. Modification of Regulation (EU) No 92/2010 implementing Regulation [(EC) No 471/2009](https://www.legislation.gov.uk/eur/2009/471) on Community statistics relating to external trade with non-member countries, etc.[^c-257b8e16534fb35334fa8875e8e33746]
 
 (1) Commission Regulation (EU) No 92/2010 of 2 February 2010 implementing Regulation [(EC) No 471/2009](https://www.legislation.gov.uk/eur/2009/471) of the European Parliament and of the Council on Community statistics relating to external trade with non-member countries, as regards data exchange between customs authorities and national statistical authorities, compilation of statistics and quality assessment is amended as follows.
 
 (2) Revoke Articles 1; 2(1), but only sub-paragraph (c); 2(2), but only sub-paragraphs (a) and (h) to (j); 2(5); 3(1) to (3); 3(5); and 4, final sentence.
 
-### 10.[^key-3a32bb9ce58066b22ca33720613b84da]
+### 10.[^c-3a32bb9ce58066b22ca33720613b84da]
 
 (1) In Article—
 
@@ -321,7 +321,7 @@ They have been designated for the purposes of that section in relation to measur
   - (i) for “The Commission (Eurostat)” substitute “ The Commissioners for Her Majesty's Revenue and Customs ”,
   - (ii) omit everything starting with “transmitted” and ending with “State”.
 
-### 11. Modification of Regulation (EU) No 113/2010 implementing Regulation [(EC) No 471/2009](https://www.legislation.gov.uk/eur/2009/471) on Community statistics relating to external trade with non-member countries, etc.[^key-b730190808182f1c7e7adc921e8d3169]
+### 11. Modification of Regulation (EU) No 113/2010 implementing Regulation [(EC) No 471/2009](https://www.legislation.gov.uk/eur/2009/471) on Community statistics relating to external trade with non-member countries, etc.[^c-b730190808182f1c7e7adc921e8d3169]
 
 (1) Commission Regulation (EU) No 113/2010 of 9 February 2010 implementing Regulation [(EC) No 471/2009](https://www.legislation.gov.uk/eur/2009/471) of the European Parliament and of the Council on Community statistics relating to external trade with non-member countries, as regards trade coverage, definition of the data, compilation of statistics on trade by business characteristics and by invoicing currency, and specific goods or movements is amended as follows.
 
@@ -333,7 +333,7 @@ They have been designated for the purposes of that section in relation to measur
 
 (5) In Articles 4(2), 7(2), 9(2) and 11(1) for “Customs Code” substitute “ Taxation (Cross-border Trade) Act 2018 ”.
 
-### 12.[^key-811684f648ef6b2836ac2dc6e66b0c07]
+### 12.[^c-811684f648ef6b2836ac2dc6e66b0c07]
 
 (1) In Article—
 
@@ -372,11 +372,11 @@ They have been designated for the purposes of that section in relation to measur
   - (i) for “a Member State” substitute “ the United Kingdom ”,
   - (ii) for “in the Member State where” substitute “ if the United Kingdom is where ”,
   - (iii) for “in the Member State of” substitute “ if the United Kingdom was the country of ”;
-- (r)[^key-d02424294f3594ed4a06de68742f2338] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (r)[^c-d02424294f3594ed4a06de68742f2338] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In Annex I, paragraph (j) for “1 000 EUR” substitute “ £873 ”.
 
-### 13. Modification of Regulation (EU) No 1106/2012 implementing Regulation [(EC) No 471/2009](https://www.legislation.gov.uk/eur/2009/471) on Community statistics, as regards the nomenclature of countries and territories[^key-95aae8dc5e854a9b32691f2840da48d4]
+### 13. Modification of Regulation (EU) No 1106/2012 implementing Regulation [(EC) No 471/2009](https://www.legislation.gov.uk/eur/2009/471) on Community statistics, as regards the nomenclature of countries and territories[^c-95aae8dc5e854a9b32691f2840da48d4]
 
 (1) Commission Regulation (EU) No 1106/2012 of 27 November 2012 implementing Regulation [(EC) No 471/2009](https://www.legislation.gov.uk/eur/2009/471) of the European Parliament and of the Council on Community statistics relating to external trade with non-member countries, as regards the update of the nomenclature of countries and territories, is amended as follows.
 
@@ -395,7 +395,7 @@ They have been designated for the purposes of that section in relation to measur
 
 ## PART 4 — MISCELLANEOUS PROVISION
 
-### 14. Miscellaneous modifications to amending Regulations[^key-8daebddaac90bd8184a0013ff2de214d]
+### 14. Miscellaneous modifications to amending Regulations[^c-8daebddaac90bd8184a0013ff2de214d]
 
 Omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.” in the following Regulations which amend the one covered by regulation 2, 3, 4, 5, 7, 8, 9, 10, 11 or 12 —
 
@@ -433,48 +433,48 @@ https://www.gov.uk/government/collections/customs-vat-and-excise-regulations-lea
 
 [^c23503511]: Marginal citation: [S.I. 1992/707](https://www.legislation.gov.uk/uksi/1992/707); amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); there are other amending instruments but none is relevant. The functions of the Commissioners of Customs and Excise were transferred to the Commissioners for Her Majesty's Revenue and Customs by section 5 of the [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that a reference to the Commissioners of Customs and Excise shall be taken as a reference to the Commissioners for Her Majesty's Revenue and Customs.
 
-[^key-78a34530a0850c0cfce3604a59683e0e]: Commencement: Reg. 1 in force at 22.3.2019, see reg. 1(2)
+[^c-78a34530a0850c0cfce3604a59683e0e]: Commencement: Reg. 1 in force at 22.3.2019, see reg. 1(2)
 
 [^c23503521]: Marginal citation: The meaning of “exit day” is assigned by the [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30), [Schedule 1](https://www.legislation.gov.uk/ukpga/1978/30/schedule/1) as amended by the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [Schedule 8](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8), [paragraphs 18](https://www.legislation.gov.uk/ukpga/2018/16/paragraph/18) and 22(e) and [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), and assigned by section 20(1) to (5) of the latter Act.
 
-[^key-e72d395ea18730087f7f8a8e36dd5eef]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+[^c-e72d395ea18730087f7f8a8e36dd5eef]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
 
-[^key-686e7f8ee5d7d694fcf3e9db4f3a664c]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/8/2)
+[^c-686e7f8ee5d7d694fcf3e9db4f3a664c]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/8/2)
 
-[^key-74dbad647ef977e0024965fe8138d995]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+[^c-74dbad647ef977e0024965fe8138d995]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
 
 [^c23503531]: Marginal citation: The “**domestic goods**” for the purposes of Part 1 are defined in section 33 of the Act.
 
 [^c23503541]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22); for which provision is made by section 8 of the Act.
 
-[^key-086c9590a9cb238074ce1546f0ccee57]: Textual amendment: Reg. 3(2)(f) inserted (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/8/3)
+[^c-086c9590a9cb238074ce1546f0ccee57]: Textual amendment: Reg. 3(2)(f) inserted (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/8/3)
 
-[^key-96bf3807c0be82d2eca230e454894e35]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+[^c-96bf3807c0be82d2eca230e454894e35]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
 
-[^key-375851d26978e8a0eab71fa063f5d2ca]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+[^c-375851d26978e8a0eab71fa063f5d2ca]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
 
-[^key-df4697597012d8b2cb6460b726d07191]: Textual amendment: Words in reg. 5(1)(n) inserted (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/8/4)
+[^c-df4697597012d8b2cb6460b726d07191]: Textual amendment: Words in reg. 5(1)(n) inserted (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/8/4)
 
-[^key-fc23f48577c6660576d784d5d4acd982]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-fc23f48577c6660576d784d5d4acd982]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23503551]: Marginal citation: [S.I. 1992/2790](https://www.legislation.gov.uk/uksi/1992/2790); relevant amending instruments are [S.I. 1993/541](https://www.legislation.gov.uk/uksi/1993/541), 1997/2864, 2004/3284, 2006/3216, 2009/2974, 2011/1043, 2012/532, 2013/3043, 2014/3135.
 
-[^key-c0007c0d1871f6f0dd1d4038a2f662fe]: Textual amendment: Reg. 6(11) inserted (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/3), [8(5)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/8/5)
+[^c-c0007c0d1871f6f0dd1d4038a2f662fe]: Textual amendment: Reg. 6(11) inserted (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/3), [8(5)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/8/5)
 
-[^key-20b3b4f5ef32829896f81e1805d09a3c]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+[^c-20b3b4f5ef32829896f81e1805d09a3c]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
 
-[^key-f08c8c105088bed808ab673667464048]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+[^c-f08c8c105088bed808ab673667464048]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
 
-[^key-257b8e16534fb35334fa8875e8e33746]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+[^c-257b8e16534fb35334fa8875e8e33746]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
 
-[^key-3a32bb9ce58066b22ca33720613b84da]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+[^c-3a32bb9ce58066b22ca33720613b84da]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
 
-[^key-b730190808182f1c7e7adc921e8d3169]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+[^c-b730190808182f1c7e7adc921e8d3169]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
 
-[^key-811684f648ef6b2836ac2dc6e66b0c07]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+[^c-811684f648ef6b2836ac2dc6e66b0c07]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
 
-[^key-d02424294f3594ed4a06de68742f2338]: Textual amendment: Reg. 12(1)(r) omitted (31.12.2020) by virtue of [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/3), [8(6)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/8/6)
+[^c-d02424294f3594ed4a06de68742f2338]: Textual amendment: Reg. 12(1)(r) omitted (31.12.2020) by virtue of [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/3), [8(6)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/8/6)
 
-[^key-95aae8dc5e854a9b32691f2840da48d4]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+[^c-95aae8dc5e854a9b32691f2840da48d4]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
 
-[^key-8daebddaac90bd8184a0013ff2de214d]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+[^c-8daebddaac90bd8184a0013ff2de214d]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)

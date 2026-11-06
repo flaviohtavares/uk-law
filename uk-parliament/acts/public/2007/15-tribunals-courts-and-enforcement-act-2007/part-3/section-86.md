@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Amendments[^key-38da77b25269e8410ea019133451db1a]
+## 86. Amendments[^c-38da77b25269e8410ea019133451db1a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 14 makes minor and consequential amendments (including repeals of power
 
 ## Annotations
 
-[^key-38da77b25269e8410ea019133451db1a]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2007/15/section/86) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-38da77b25269e8410ea019133451db1a]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2007/15/section/86) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

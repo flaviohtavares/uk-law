@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 131. Discounts[^key-e8fe9e49d6475db4878b796c16f1b951]
+## 131. Discounts[^c-e8fe9e49d6475db4878b796c16f1b951]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ All trade and other discounts, except any discount for immediate, early or cash 
 
 ## Annotations
 
-[^key-e8fe9e49d6475db4878b796c16f1b951]: Commencement: Rule 131 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-e8fe9e49d6475db4878b796c16f1b951]: Commencement: Rule 131 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -44,7 +44,7 @@ The Secretary of State, in exercise of the powers conferred by section 31(1) of 
 
 In accordance with paragraph 6(1) of Schedule 5 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement, extent and interpretation[^key-8699563453668dc4a29e5e8fc68cd1fa]
+## 1. Citation, commencement, extent and interpretation[^c-8699563453668dc4a29e5e8fc68cd1fa]
 
 (1) These Regulations may be cited as the Electricity Trading (Development of Technical Procedures) (Day-Ahead Market Timeframe) Regulations 2021 and come into force on the day after the day on which they are made.
 
@@ -57,7 +57,7 @@ In accordance with paragraph 6(1) of Schedule 5 to that Act, a draft of this ins
 - “electricity interconnector” has the meaning given by Article 300 of the Trade and Cooperation Agreement (definitions);
 - “GB transmission system operator” means—
   - (a) a person who holds an interconnector licence under section 6(1)(e) of the Electricity Act 1989[^f00004] and participates in the operation of an electricity interconnector,
-  - (b) a person who holds an electricity system operator licence under section 6(1)(da) of the Electricity Act 1989,[^key-52dd35e8844fd2b2947f6160c1311230]
+  - (b) a person who holds an electricity system operator licence under section 6(1)(da) of the Electricity Act 1989,[^c-52dd35e8844fd2b2947f6160c1311230]
 
   and a reference to “GB transmission system operators” in paragraphs (1) to (3) and (7) of regulation 4 is a reference to those operators acting collectively;
 - “non-UK transmission system operator” means a person in a member State of the European Union who carries out the function of transmission or is responsible for operating, ensuring the maintenance of, and, if necessary, developing the electricity transmission system in a given area and, where applicable, its interconnections with other systems, and for ensuring the long-term ability of the system to meet reasonable demands for the transport of electricity;
@@ -67,11 +67,11 @@ In accordance with paragraph 6(1) of Schedule 5 to that Act, a draft of this ins
 - “Specialised Committee on Energy” means the committee established under paragraph 1(l) of Article 8 of the Trade and Cooperation Agreement (committees);
 - “transmission” means the transport of electricity on the extra high-voltage and high-voltage system with a view to its delivery to customers or to distributors, but does not include supply.
 
-## 2. Designation of regulatory authority[^key-1f474dbd301e32e4f3bffc6f6d5cc71c]
+## 2. Designation of regulatory authority[^c-1f474dbd301e32e4f3bffc6f6d5cc71c]
 
 The Authority is designated as the regulatory authority for Great Britain for the purposes of Article 310 of the Trade and Cooperation Agreement.
 
-## 3. Secretary of State power of direction[^key-eac62d2ac47c6c9960a9a72db76c7ce2]
+## 3. Secretary of State power of direction[^c-eac62d2ac47c6c9960a9a72db76c7ce2]
 
 (1) The Secretary of State must give directions, in writing, to—
 
@@ -80,7 +80,7 @@ The Authority is designated as the regulatory authority for Great Britain for th
 
 (2) Directions given under this regulation may be varied or revoked by further directions given under this regulation.
 
-## 4. Technical procedures for electricity trading at the day-ahead market timeframe[^key-7aed6d5c1b97b120a5b696f6540bf3d6]
+## 4. Technical procedures for electricity trading at the day-ahead market timeframe[^c-7aed6d5c1b97b120a5b696f6540bf3d6]
 
 (1) For the purposes of Article 311(1)(f), Article 312(1) and Article 317(1) of the Trade and Cooperation Agreement, GB transmission system operators must develop proposals setting out technical procedures for the allocation of electricity interconnector capacity at the day-ahead market timeframe in accordance with Annex 29 (“the technical procedures”).
 
@@ -116,7 +116,7 @@ before such day as the Secretary of State specifies by direction in accordance w
 
 (9) Relevant electricity market operators must co-operate with each other and with GB transmission system operators for the purposes of facilitating the development of the technical procedures.
 
-## 5. Costs[^key-9ec8aaaa734b4f73312155db4eba03b7]
+## 5. Costs[^c-9ec8aaaa734b4f73312155db4eba03b7]
 
 (1) The Authority is responsible for the allocation and recovery of costs relating to the development and implementation of the technical procedures to be apportioned in accordance with paragraph 6 of Annex 29 in so far as those costs apply to GB transmission system operators and relevant electricity market operators.
 
@@ -124,11 +124,11 @@ before such day as the Secretary of State specifies by direction in accordance w
 
 (3) Where the Authority makes a request in accordance with paragraph (2), a GB transmission system operator or relevant electricity market operator must, within three months of the notification of the request, provide to the Authority the information requested.
 
-## 6. Secretary of State guidance[^key-8aff81fbbcffa87085861552136983d1]
+## 6. Secretary of State guidance[^c-8aff81fbbcffa87085861552136983d1]
 
 In complying with the duties imposed under these Regulations, GB transmission system operators, relevant electricity market operators and the Authority must have regard to any guidance issued by the Secretary of State.
 
-## 7. Enforcement[^key-a3728daa2ca5f55c7530082d7384a601]
+## 7. Enforcement[^c-a3728daa2ca5f55c7530082d7384a601]
 
 (1) The following requirements are enforceable by the Authority as if they were relevant requirements on a regulated person for the purpose of section 25 of the Electricity Act 1989[^f00011]—
 
@@ -169,7 +169,7 @@ An Impact Assessment has not been prepared for this instrument because the impac
 
 [^f00001]: Footnote: [2020 c. 29](https://www.legislation.gov.uk/ukpga/2020/29).
 
-[^key-8699563453668dc4a29e5e8fc68cd1fa]: Commencement: Reg. 1 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
+[^c-8699563453668dc4a29e5e8fc68cd1fa]: Commencement: Reg. 1 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
 
 [^f00002]: Footnote: The Trade and Cooperation Agreement is defined in section 37(1) of the European Union (Future Relationship) Act [2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29). By virtue of sections 37(4) and (5) of the European Union (Future Relationship) Act 2020, references in these Regulations to the Trade and Cooperation Agreement are to be read as modified accordingly.
 
@@ -177,7 +177,7 @@ An Impact Assessment has not been prepared for this instrument because the impac
 
 [^f00004]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6(1)(e) was added by section 136(1) of the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20).
 
-[^key-52dd35e8844fd2b2947f6160c1311230]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/3) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2024/706/regulation/36); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-52dd35e8844fd2b2947f6160c1311230]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/3) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2024/706/regulation/36); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
 [^f00007]: Footnote: The Northern Ireland Authority for Energy Regulation was established under article 3 of the Energy (Northern Ireland) Order 2003 ([S.I. 2003/419](https://www.legislation.gov.uk/uksi/2003/419)) (N.I. 6) and by virtue of article 3 of [S.I. 2006/3336 (N.I. 21)](https://www.legislation.gov.uk/nisi/2006/3336) was thereafter to be known as the Northern Ireland Authority for Utility Regulation.
 
@@ -185,18 +185,18 @@ An Impact Assessment has not been prepared for this instrument because the impac
 
 [^f00009]: Footnote: O.J. No. L197, 25.07.2015, p. 24.
 
-[^key-1f474dbd301e32e4f3bffc6f6d5cc71c]: Commencement: Reg. 2 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
+[^c-1f474dbd301e32e4f3bffc6f6d5cc71c]: Commencement: Reg. 2 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
 
-[^key-eac62d2ac47c6c9960a9a72db76c7ce2]: Commencement: Reg. 3 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
+[^c-eac62d2ac47c6c9960a9a72db76c7ce2]: Commencement: Reg. 3 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
 
-[^key-7aed6d5c1b97b120a5b696f6540bf3d6]: Commencement: Reg. 4 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
+[^c-7aed6d5c1b97b120a5b696f6540bf3d6]: Commencement: Reg. 4 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
 
 [^f00010]: Footnote: O.J. No. L 158, 14.6.2019, p 54. The European Network of Transmission Operators for Electricity was established under Regulation [(EC) No 714/2009](https://www.legislation.gov.uk/european/regulation/2009/0714) on conditions for access to the network for cross border exchanges in electricity. Regulation [(EC) No 714/2009](https://www.legislation.gov.uk/european/regulation/2009/0714) was repealed by Regulation (EU) 2019/943 and the governance provisions for the European Network of Transmission System Operators for electricity were recast in Regulation (EU) 2019/943.
 
-[^key-9ec8aaaa734b4f73312155db4eba03b7]: Commencement: Reg. 5 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
+[^c-9ec8aaaa734b4f73312155db4eba03b7]: Commencement: Reg. 5 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
 
-[^key-8aff81fbbcffa87085861552136983d1]: Commencement: Reg. 6 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
+[^c-8aff81fbbcffa87085861552136983d1]: Commencement: Reg. 6 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
 
-[^key-a3728daa2ca5f55c7530082d7384a601]: Commencement: Reg. 7 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
+[^c-a3728daa2ca5f55c7530082d7384a601]: Commencement: Reg. 7 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
 
 [^f00011]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Relevant amendments have been made to section 25 by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704), [S.I. 2017/493](https://www.legislation.gov.uk/uksi/2017/493) and [S.I. 2019/530](https://www.legislation.gov.uk/uksi/2019/530).

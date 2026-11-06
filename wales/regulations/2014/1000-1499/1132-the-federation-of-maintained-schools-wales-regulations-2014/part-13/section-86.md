@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Dissolution by governing body of local authority federations[^key-b0b13c561631408e09f343473dd65ea5]
+## 86. Dissolution by governing body of local authority federations[^c-b0b13c561631408e09f343473dd65ea5]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ the governing body must seek the consent of any maintaining local authority that
 
 ## Annotations
 
-[^key-b0b13c561631408e09f343473dd65ea5]: Commencement: Reg. 86 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-b0b13c561631408e09f343473dd65ea5]: Commencement: Reg. 86 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

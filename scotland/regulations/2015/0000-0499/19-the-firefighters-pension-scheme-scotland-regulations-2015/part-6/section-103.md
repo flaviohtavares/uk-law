@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Adjustment of eligible child’s awards consequent on re-instatement of pension benefits[^key-83b9609c955fa8a12d3135ca254e7151]
+## 103. Adjustment of eligible child’s awards consequent on re-instatement of pension benefits[^c-83b9609c955fa8a12d3135ca254e7151]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83b9609c955fa8a12d3135ca254e7151]: Commencement: [Reg. 103](https://www.legislation.gov.uk/ssi/2015/19/regulation/103) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-83b9609c955fa8a12d3135ca254e7151]: Commencement: [Reg. 103](https://www.legislation.gov.uk/ssi/2015/19/regulation/103) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

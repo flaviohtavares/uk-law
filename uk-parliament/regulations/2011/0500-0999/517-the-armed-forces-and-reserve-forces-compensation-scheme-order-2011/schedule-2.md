@@ -59,7 +59,7 @@ Where death is caused wholly or partly by service in the reserve forces, for art
 >
 > (2) Subject to paragraph (3), where the person was not a member of a reserve forces pension scheme the amount of the bereavement grant is £37,500.
 >
-> (3) Where the person was an active member of the RFPS 2005 or the AFPS 2015[^key-d40b28e1a00a4ace96f71d195cbf4db6] the amount of the bereavement grant is the difference between the salary of the member of the reserve forces on the date of death and the amount specified in paragraph (1)[^c2153195].
+> (3) Where the person was an active member of the RFPS 2005 or the AFPS 2015[^c-d40b28e1a00a4ace96f71d195cbf4db6] the amount of the bereavement grant is the difference between the salary of the member of the reserve forces on the date of death and the amount specified in paragraph (1)[^c2153195].
 >
 > (4) Where a former member of the reserve forces dies, the bereavement grant is £37,500.
 >
@@ -73,7 +73,7 @@ Where death is caused wholly or partly by service in the reserve forces, for art
 > (6) In this article—
 >
 > - (a) “**active member**” in relation to a reserve forces pension scheme has the meaning given in section 124(1) of the Pensions Act 1995 [^c2072359];
-> - (b) “**reserve forces pension scheme**” means the FTRS 1997[^key-7f01f81abbde3e72851b3d82c075b770], the NRPS 2011[^key-1e6cb884a1b1592dd058366800ce5f65] or the RFPS 2005.
+> - (b) “**reserve forces pension scheme**” means the FTRS 1997[^c-7f01f81abbde3e72851b3d82c075b770], the NRPS 2011[^c-1e6cb884a1b1592dd058366800ce5f65] or the RFPS 2005.
 
 .
 
@@ -83,9 +83,9 @@ For article 39 substitute the following article—
 
 > **39.** (1) This article applies where a person is entitled to guaranteed income payment, survivor's guaranteed income payment or child's payment for any period during which the person is also entitled to—
 >
-> - (a) a pension under the AFPS 1975, the AFPS 2005 ,[^key-c9bc5165b354adf08d6eeb8b5dbe77bc] AFPS 2015 or the Gurkha Pension Scheme (“a pension”);
-> - (b) a payment under the Armed Forces Early Departure Payments Scheme Order 2005 or the Armed Forces Early Departure Payments Scheme Regulations 2014[^key-460bddaffc00654380b75276b06e400b] (“a payment”) [^c2072360];
-> - (c) a pension under the FTRS 1997[^key-4c9edefab7ad7be339141b0125e05fd9], the NRPS 2011[^key-5bcbc68737a610d7765307856157e92d] or the RFPS 2005 (“a reserve forces pension”); or
+> - (a) a pension under the AFPS 1975, the AFPS 2005 ,[^c-c9bc5165b354adf08d6eeb8b5dbe77bc] AFPS 2015 or the Gurkha Pension Scheme (“a pension”);
+> - (b) a payment under the Armed Forces Early Departure Payments Scheme Order 2005 or the Armed Forces Early Departure Payments Scheme Regulations 2014[^c-460bddaffc00654380b75276b06e400b] (“a payment”) [^c2072360];
+> - (c) a pension under the FTRS 1997[^c-4c9edefab7ad7be339141b0125e05fd9], the NRPS 2011[^c-5bcbc68737a610d7765307856157e92d] or the RFPS 2005 (“a reserve forces pension”); or
 > - (d) benefit under an occupational pension scheme or a personal pension scheme in respect of the same injury or death for which guaranteed income payment, survivor's guaranteed income payment or child's payment is paid (“a civilian pension”).
 >
 > (2) Guaranteed income payment, survivor's guaranteed income payment or child's payment, as the case may be, is adjusted in accordance with paragraphs (3) or (5).
@@ -101,7 +101,7 @@ For article 39 substitute the following article—
 >   - (i) a pension or a reserve forces pension which is not an ill-health pension paid for the same injury for which guaranteed income payment is paid;
 >   - (ii) a payment; or
 >   - (iii) a civilian pension;
-> - (b) in paragraph (3)(b), are a pension or a reserve forces pension which is an ill-health pension or a payment[^key-2795d112155e87f1080776c27458ede7] paid for the same injury for which the guaranteed income payment is paid.
+> - (b) in paragraph (3)(b), are a pension or a reserve forces pension which is an ill-health pension or a payment[^c-2795d112155e87f1080776c27458ede7] paid for the same injury for which the guaranteed income payment is paid.
 >
 > (5) Where a person is entitled to a survivor's guaranteed income payment or a child's payment for any period during which the person is also entitled to a pension, specified in paragraph (1)(a), (c) or (d), then the amount of the survivor's guaranteed income payment or child's payment is reduced by 75 % of the amount of that pension.
 >
@@ -115,7 +115,7 @@ For article 39 substitute the following article—
 
 .
 
-**6.**[^key-8c3fc70af3427ba06aee6680007a8c08] (1) This paragraph applies where—
+**6.**[^c-8c3fc70af3427ba06aee6680007a8c08] (1) This paragraph applies where—
 
 - (a) as a result of an immediate choice decision or a deferred choice decision, the amount of the pension or payment payable in respect of a remedy member’s (“**M**”) remediable service changes, and
 - (b) the substituted article 39(6), contained in paragraph 5, applies in relation to an award of guaranteed income payment, survivor’s guaranteed income payment or child’s payment.
@@ -150,7 +150,7 @@ For article 39 substitute the following article—
 
 [^c2072358]: Marginal citation: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14). [S.I. 2005/859](https://www.legislation.gov.uk/uksi/2005/859); 2010/2643.
 
-[^key-d40b28e1a00a4ace96f71d195cbf4db6]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2011/517/schedule/2/paragraph/4) inserted (12.4.2021) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2021 (S.I. 2021/285)](https://www.legislation.gov.uk/uksi/2021/285), [arts. 1](https://www.legislation.gov.uk/uksi/2021/285/article/1), [5](https://www.legislation.gov.uk/uksi/2021/285/article/5) (with [art. 7](https://www.legislation.gov.uk/uksi/2021/285/article/7))
+[^c-d40b28e1a00a4ace96f71d195cbf4db6]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2011/517/schedule/2/paragraph/4) inserted (12.4.2021) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2021 (S.I. 2021/285)](https://www.legislation.gov.uk/uksi/2021/285), [arts. 1](https://www.legislation.gov.uk/uksi/2021/285/article/1), [5](https://www.legislation.gov.uk/uksi/2021/285/article/5) (with [art. 7](https://www.legislation.gov.uk/uksi/2021/285/article/7))
 
 [^c2153195]: Textual amendment: Word in Sch. 2 para. 4 substituted (17.11.2011) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2011 (S.I. 2011/2552)](https://www.legislation.gov.uk/uksi/2011/2552), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/2552/article/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2011/2552/article/8/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2011/2552/article/10))
 
@@ -162,24 +162,24 @@ For article 39 substitute the following article—
 
 [^c2072359]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-7f01f81abbde3e72851b3d82c075b770]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2011/517/schedule/2/paragraph/4) substituted (6.4.2026) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2026 (S.I. 2026/272)](https://www.legislation.gov.uk/uksi/2026/272), [arts. 1](https://www.legislation.gov.uk/uksi/2026/272/article/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2026/272/article/9/2/a)
+[^c-7f01f81abbde3e72851b3d82c075b770]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2011/517/schedule/2/paragraph/4) substituted (6.4.2026) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2026 (S.I. 2026/272)](https://www.legislation.gov.uk/uksi/2026/272), [arts. 1](https://www.legislation.gov.uk/uksi/2026/272/article/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2026/272/article/9/2/a)
 
-[^key-1e6cb884a1b1592dd058366800ce5f65]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2011/517/schedule/2/paragraph/4) substituted (6.4.2026) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2026 (S.I. 2026/272)](https://www.legislation.gov.uk/uksi/2026/272), [arts. 1](https://www.legislation.gov.uk/uksi/2026/272/article/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2026/272/article/9/2/b)
+[^c-1e6cb884a1b1592dd058366800ce5f65]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2011/517/schedule/2/paragraph/4) substituted (6.4.2026) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2026 (S.I. 2026/272)](https://www.legislation.gov.uk/uksi/2026/272), [arts. 1](https://www.legislation.gov.uk/uksi/2026/272/article/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2026/272/article/9/2/b)
 
-[^key-c9bc5165b354adf08d6eeb8b5dbe77bc]: Textual amendment: Words in Sch. 2 para. 5 inserted (6.4.2015) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2015 (S.I. 2015/413)](https://www.legislation.gov.uk/uksi/2015/413), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/413/article/1/1), [8](https://www.legislation.gov.uk/uksi/2015/413/article/8)
+[^c-c9bc5165b354adf08d6eeb8b5dbe77bc]: Textual amendment: Words in Sch. 2 para. 5 inserted (6.4.2015) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2015 (S.I. 2015/413)](https://www.legislation.gov.uk/uksi/2015/413), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/413/article/1/1), [8](https://www.legislation.gov.uk/uksi/2015/413/article/8)
 
-[^key-460bddaffc00654380b75276b06e400b]: Textual amendment: Words in Sch. 2 para. 5 inserted (9.4.2018) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2018 (S.I. 2018/293)](https://www.legislation.gov.uk/uksi/2018/293), [arts. 1](https://www.legislation.gov.uk/uksi/2018/293/article/1), [9(a)](https://www.legislation.gov.uk/uksi/2018/293/article/9/a)
+[^c-460bddaffc00654380b75276b06e400b]: Textual amendment: Words in Sch. 2 para. 5 inserted (9.4.2018) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2018 (S.I. 2018/293)](https://www.legislation.gov.uk/uksi/2018/293), [arts. 1](https://www.legislation.gov.uk/uksi/2018/293/article/1), [9(a)](https://www.legislation.gov.uk/uksi/2018/293/article/9/a)
 
 [^c2072360]: Marginal citation: [S.I. 2005/437](https://www.legislation.gov.uk/uksi/2005/437), as amended by [S.I. 2006/717](https://www.legislation.gov.uk/uksi/2006/717), 2007/2608, 2008/229 and 2009/544.
 
-[^key-4c9edefab7ad7be339141b0125e05fd9]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/517/schedule/2/paragraph/5) substituted (6.4.2026) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2026 (S.I. 2026/272)](https://www.legislation.gov.uk/uksi/2026/272), [arts. 1](https://www.legislation.gov.uk/uksi/2026/272/article/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2026/272/article/9/3/a)
+[^c-4c9edefab7ad7be339141b0125e05fd9]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/517/schedule/2/paragraph/5) substituted (6.4.2026) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2026 (S.I. 2026/272)](https://www.legislation.gov.uk/uksi/2026/272), [arts. 1](https://www.legislation.gov.uk/uksi/2026/272/article/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2026/272/article/9/3/a)
 
-[^key-5bcbc68737a610d7765307856157e92d]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/517/schedule/2/paragraph/5) substituted (6.4.2026) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2026 (S.I. 2026/272)](https://www.legislation.gov.uk/uksi/2026/272), [arts. 1](https://www.legislation.gov.uk/uksi/2026/272/article/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2026/272/article/9/3/b)
+[^c-5bcbc68737a610d7765307856157e92d]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/517/schedule/2/paragraph/5) substituted (6.4.2026) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2026 (S.I. 2026/272)](https://www.legislation.gov.uk/uksi/2026/272), [arts. 1](https://www.legislation.gov.uk/uksi/2026/272/article/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2026/272/article/9/3/b)
 
-[^key-2795d112155e87f1080776c27458ede7]: Textual amendment: Words in Sch. 2 para. 5 inserted (9.4.2018) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2018 (S.I. 2018/293)](https://www.legislation.gov.uk/uksi/2018/293), [arts. 1](https://www.legislation.gov.uk/uksi/2018/293/article/1), [9(b)](https://www.legislation.gov.uk/uksi/2018/293/article/9/b)
+[^c-2795d112155e87f1080776c27458ede7]: Textual amendment: Words in Sch. 2 para. 5 inserted (9.4.2018) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2018 (S.I. 2018/293)](https://www.legislation.gov.uk/uksi/2018/293), [arts. 1](https://www.legislation.gov.uk/uksi/2018/293/article/1), [9(b)](https://www.legislation.gov.uk/uksi/2018/293/article/9/b)
 
 [^c2072361]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48) as amended by the [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [section 239(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/239/1) and (3).
 
 [^c2072362]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12), [section 154(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/154/1) as amended by the [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [section 70](https://www.legislation.gov.uk/ukpga/2007/11/section/70) and Schedule 20, paragraph 1, 2(1) and (2).
 
-[^key-8c3fc70af3427ba06aee6680007a8c08]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/517/schedule/2/paragraph/6) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [44(2)](https://www.legislation.gov.uk/uksi/2023/998/regulation/44/2)
+[^c-8c3fc70af3427ba06aee6680007a8c08]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/517/schedule/2/paragraph/6) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [44(2)](https://www.legislation.gov.uk/uksi/2023/998/regulation/44/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 181. Contributions payable during a period of permanent service in the armed forces[^key-529876668792f9b4e2a68d26a6cbd455]
+## 181. Contributions payable during a period of permanent service in the armed forces[^c-529876668792f9b4e2a68d26a6cbd455]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-529876668792f9b4e2a68d26a6cbd455]: Commencement: [Reg. 181](https://www.legislation.gov.uk/ssi/2014/292/regulation/181) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-529876668792f9b4e2a68d26a6cbd455]: Commencement: [Reg. 181](https://www.legislation.gov.uk/ssi/2014/292/regulation/181) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
 [^f00034]: Footnote: [1951 c.65](https://www.legislation.gov.uk/ukpga/1951/65).

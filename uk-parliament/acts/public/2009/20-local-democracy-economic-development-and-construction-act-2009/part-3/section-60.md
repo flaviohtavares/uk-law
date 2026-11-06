@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Transfer of functions relating to boundary change[^key-70a37e12cc5e87c0bba0aa4a9e7cf513]
+## 60. Transfer of functions relating to boundary change[^c-70a37e12cc5e87c0bba0aa4a9e7cf513]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70a37e12cc5e87c0bba0aa4a9e7cf513]: Commencement: S. 60 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(i)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/i)
+[^c-70a37e12cc5e87c0bba0aa4a9e7cf513]: Commencement: S. 60 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(i)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/i)

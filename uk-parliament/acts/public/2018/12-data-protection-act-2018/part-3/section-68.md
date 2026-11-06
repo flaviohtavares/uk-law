@@ -39,7 +39,7 @@ summary: ''
 
 (5) In a case falling within subsection (3)(c) (but not within subsection (3)(a) or (b)), the information mentioned in subsection (2) must be made available to the data subject in another equally effective way, for example, by means of a public communication.
 
-(6) Where the controller has not informed the data subject of the breach the Commission[^key-d9acd28cf4202a0274a1933456e6d952], on being notified under section 67 and after considering the likelihood of the breach resulting in a high risk, may—
+(6) Where the controller has not informed the data subject of the breach the Commission[^c-d9acd28cf4202a0274a1933456e6d952], on being notified under section 67 and after considering the likelihood of the breach resulting in a high risk, may—
 
 - (a) require the controller to notify the data subject of the breach, or
 - (b) decide that the controller is not required to do so because any of paragraphs (a) to (c) of subsection (3) applies.
@@ -49,7 +49,7 @@ summary: ''
 - (a) avoid obstructing an official or legal inquiry, investigation or procedure;
 - (b) avoid prejudicing the prevention, detection, investigation or prosecution of criminal offences or the execution of criminal penalties;
 - (c) protect public security;
-- (d)[^key-cd796f7f465a287a7ad8f6cceb0ffdd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-cd796f7f465a287a7ad8f6cceb0ffdd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) protect the rights and freedoms of others.
 
 (8) Subsection (6) does not apply where the controller's decision not to inform the data subject of the breach was made in reliance on subsection (7).
@@ -60,6 +60,6 @@ summary: ''
 
 [^M_I_cd6fe374-e332-4c0e-875f-aa4dc41075f6]: Commencement: S. 68 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-d9acd28cf4202a0274a1933456e6d952]: Textual amendment: Word in s. 68(6) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-d9acd28cf4202a0274a1933456e6d952]: Textual amendment: Word in s. 68(6) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-cd796f7f465a287a7ad8f6cceb0ffdd1]: Textual amendment: S. 68(7)(d) omitted (5.9.2025) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 88(6)](https://www.legislation.gov.uk/ukpga/2025/18/section/88/6), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/996/regulation/4))
+[^c-cd796f7f465a287a7ad8f6cceb0ffdd1]: Textual amendment: S. 68(7)(d) omitted (5.9.2025) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 88(6)](https://www.legislation.gov.uk/ukpga/2025/18/section/88/6), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/996/regulation/4))

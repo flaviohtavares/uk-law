@@ -93,7 +93,7 @@ HAS ADOPTED THIS DECISION:
 
 3. The code of the eco-innovation to be entered into type approval documentation for the innovative technology approved by this Decision shall be ‘16’.
 
-**Article 2.**[^key-16527c249d7f2ed382f161d65834a7b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-16527c249d7f2ed382f161d65834a7b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 25 February 2016.
 
@@ -418,7 +418,7 @@ The type approval authority is to certify the CO<sub>2</sub> savings based on me
 
 [^f00004]: Footnote: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) ([OJ L 263, 9.10.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.263.01.0001.01.ENG)).
 
-[^key-16527c249d7f2ed382f161d65834a7b1]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2016/265/article/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [20(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/20/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-16527c249d7f2ed382f161d65834a7b1]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2016/265/article/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [20(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/20/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: ISO 8854:2012 Road vehicles — Alternators with regulators — Test methods and general requirements
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Reports by Commissioner[^key-fea88ed8ca77837385e9d60445eb3126]
+## 35. Reports by Commissioner[^c-fea88ed8ca77837385e9d60445eb3126]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fea88ed8ca77837385e9d60445eb3126]: Commencement: S. 35 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/g)
+[^c-fea88ed8ca77837385e9d60445eb3126]: Commencement: S. 35 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/g)

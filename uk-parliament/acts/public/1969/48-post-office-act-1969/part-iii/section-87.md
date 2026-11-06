@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Power of Her Majesty in Council to make necessary provision if the Post Office surrenders privileges as regards the Isle of Man or the Channel Islands.[^key-39eee0325e7dc7e6d24c90196da0d3ba]
+## 87. Power of Her Majesty in Council to make necessary provision if the Post Office surrenders privileges as regards the Isle of Man or the Channel Islands.[^c-39eee0325e7dc7e6d24c90196da0d3ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39eee0325e7dc7e6d24c90196da0d3ba]: Textual amendment: S. 87 repealed (1.5.2007) by [Postal Services Act 2000 (c. 26)](https://www.legislation.gov.uk/ukpga/2000/26), [s. 130(1)](https://www.legislation.gov.uk/ukpga/2000/26/section/130/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2000/26/schedule/9); [S.I. 2007/1181](https://www.legislation.gov.uk/uksi/2007/1181), [art. 2](https://www.legislation.gov.uk/uksi/2007/1181/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1181/schedule)
+[^c-39eee0325e7dc7e6d24c90196da0d3ba]: Textual amendment: S. 87 repealed (1.5.2007) by [Postal Services Act 2000 (c. 26)](https://www.legislation.gov.uk/ukpga/2000/26), [s. 130(1)](https://www.legislation.gov.uk/ukpga/2000/26/section/130/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2000/26/schedule/9); [S.I. 2007/1181](https://www.legislation.gov.uk/uksi/2007/1181), [art. 2](https://www.legislation.gov.uk/uksi/2007/1181/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1181/schedule)

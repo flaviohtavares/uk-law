@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371IA. The basic rule[^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371IA. The basic rule[^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) If company C makes a claim, in the case of company C only, the CFC's qualifying loan relationship profits pass through the CFC charge gateway so far as (and only so far as) they are not exempt under this Chapter.
 
-(4) The CFC's “qualifying loan relationship profits” are so much of the profits of all its qualifying loan relationships taken together as are non-trading finance profits which—[^key-bb35f163a29f897c2777df6aa539e48c]
+(4) The CFC's “qualifying loan relationship profits” are so much of the profits of all its qualifying loan relationships taken together as are non-trading finance profits which—[^c-bb35f163a29f897c2777df6aa539e48c]
 
 - (a) fall within section 371EC (capital investment from the UK), and
 - (b) do not fall within section 371EB (UK activities).
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
 
-[^key-bb35f163a29f897c2777df6aa539e48c]: Textual amendment: Words in [s. 371IA(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/371IA/4) substituted (with effect in accordance with s. 20(5)(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 20(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/20/2)
+[^c-bb35f163a29f897c2777df6aa539e48c]: Textual amendment: Words in [s. 371IA(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/371IA/4) substituted (with effect in accordance with s. 20(5)(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 20(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/20/2)

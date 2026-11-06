@@ -33,10 +33,10 @@ summary: ''
 
 (5) In this section references to the council of a London borough include references to the Common Council.
 
-(6)[^key-47a043b5c70394113fb7069a657b7df1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-47a043b5c70394113fb7069a657b7df1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c3165931]: Textual amendment: Words in s. 87(3) inserted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [ss. 78(8)](https://www.legislation.gov.uk/ukpga/1999/29/section/78/8), [425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2](https://www.legislation.gov.uk/uksi/2000/801/article/2), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/III)
 
-[^key-47a043b5c70394113fb7069a657b7df1]: Textual amendment: [S. 87(6)](https://www.legislation.gov.uk/ukpga/1985/51/section/87/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-47a043b5c70394113fb7069a657b7df1]: Textual amendment: [S. 87(6)](https://www.legislation.gov.uk/ukpga/1985/51/section/87/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

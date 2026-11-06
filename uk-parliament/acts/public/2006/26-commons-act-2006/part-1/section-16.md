@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Deregistration and exchange: applications[^c1968670][^key-eb6a182967a8adb7f0affe4aa3a8eff9]
+## 16. Deregistration and exchange: applications[^c1968670][^c-eb6a182967a8adb7f0affe4aa3a8eff9]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ have particular regard under subsection (6) to the extent to which the absence o
 
 [^c1968670]: Commencement: S. 16 partly in force; s. 16 not in force at Royal Assent see s. 56(1); s. 16 in force for E. at 1.10.2007 by [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2](https://www.legislation.gov.uk/uksi/2007/2584/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2584/article/3))
 
-[^key-eb6a182967a8adb7f0affe4aa3a8eff9]: Commencement: S. 16 in force at 1.4.2012 for W. by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/739/article/2/a) (with [art. 4(1)](https://www.legislation.gov.uk/wsi/2012/739/article/4/1))
+[^c-eb6a182967a8adb7f0affe4aa3a8eff9]: Commencement: S. 16 in force at 1.4.2012 for W. by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/739/article/2/a) (with [art. 4(1)](https://www.legislation.gov.uk/wsi/2012/739/article/4/1))

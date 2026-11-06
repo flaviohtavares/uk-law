@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 274. The Pensions Ombudsman and Deputy Pensions Ombudsmen[^key-10205a5ab1bed2beb251772418152543]
+## 274. The Pensions Ombudsman and Deputy Pensions Ombudsmen[^c-10205a5ab1bed2beb251772418152543]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10205a5ab1bed2beb251772418152543]: Commencement: S. 274 in force at 17.12.2004 by [S.I. 2004/3350](https://www.legislation.gov.uk/uksi/2004/3350), [art. 2](https://www.legislation.gov.uk/uksi/2004/3350/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3350/schedule)
+[^c-10205a5ab1bed2beb251772418152543]: Commencement: S. 274 in force at 17.12.2004 by [S.I. 2004/3350](https://www.legislation.gov.uk/uksi/2004/3350), [art. 2](https://www.legislation.gov.uk/uksi/2004/3350/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3350/schedule)

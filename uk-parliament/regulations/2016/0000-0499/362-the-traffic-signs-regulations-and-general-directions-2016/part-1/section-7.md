@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Dimensions and design of signs[^key-aa85041da9cdd7385f4a030cfac22f27]
+## 7. Dimensions and design of signs[^c-aa85041da9cdd7385f4a030cfac22f27]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa85041da9cdd7385f4a030cfac22f27]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-aa85041da9cdd7385f4a030cfac22f27]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Application of companies insolvency legislation to building societies[^key-47e69c946f3935b38150dd1e012f94b1]
+## 200. Application of companies insolvency legislation to building societies[^c-47e69c946f3935b38150dd1e012f94b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47e69c946f3935b38150dd1e012f94b1]: Commencement: Art. 200 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-47e69c946f3935b38150dd1e012f94b1]: Commencement: Art. 200 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00144]: Footnote: Schedule 15A was inserted by the Building Societies Act [1997 (c. 32)](https://www.legislation.gov.uk/ukpga/1997/32) section 39 and Schedule 6 and amended by the Insolvency Act [2000 (c. 39)](https://www.legislation.gov.uk/ukpga/2000/39) Schedule 2 Part II.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 219. General offences: supplementary and penalties[^key-3f119732d4acf2227b13edc1e58014a1]
+## 219. General offences: supplementary and penalties[^c-3f119732d4acf2227b13edc1e58014a1]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ references to intent to prejudice creditors include references to intent to prej
 
 ## Annotations
 
-[^key-3f119732d4acf2227b13edc1e58014a1]: Commencement: S. 219 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-3f119732d4acf2227b13edc1e58014a1]: Commencement: S. 219 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

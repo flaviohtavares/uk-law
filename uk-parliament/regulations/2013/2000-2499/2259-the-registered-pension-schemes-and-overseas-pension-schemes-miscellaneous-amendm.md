@@ -46,22 +46,22 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by sections 132 and 133 of the Finance Act 1999[^f00001] and sections 150(8) and 251 of the Finance Act 2004[^f00002] and now exercisable by them[^f00003], sections 169(4), (4A) and (4B)[^f00004] and 282(A1)[^f00005] of that Act, and paragraph 34B(8) of Schedule 36 to the Finance Act 2008[^f00006].
 
-## 1. Citation, commencement and effect[^key-498f19fcf42e1529ad1226199bffe747]
+## 1. Citation, commencement and effect[^c-498f19fcf42e1529ad1226199bffe747]
 
 These Regulations may be cited as the Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 and come into force on 14th October 2013.
 
-**2.**[^key-ecb3ecbc0264e1a496bc1675604d771b] In relation to qualifying recognised overseas pension schemes (QROPS) in existence immediately before 6th April 2012, regulations 7 and 8 have effect from that date.
+**2.**[^c-ecb3ecbc0264e1a496bc1675604d771b] In relation to qualifying recognised overseas pension schemes (QROPS) in existence immediately before 6th April 2012, regulations 7 and 8 have effect from that date.
 
-**3.**[^key-9165dfce4ab8e52cae9943ea2ceb3e8d] The obligations imposed by regulation 3(1A) of the Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) Regulations 2006[^f00007], substituted by regulation 11 of these Regulations, have effect in relation to five year periods ending on or after 6 April 2016[^key-cec7f8080f31180f7a2369e86c30f0e8].
+**3.**[^c-9165dfce4ab8e52cae9943ea2ceb3e8d] The obligations imposed by regulation 3(1A) of the Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) Regulations 2006[^f00007], substituted by regulation 11 of these Regulations, have effect in relation to five year periods ending on or after 6 April 2016[^c-cec7f8080f31180f7a2369e86c30f0e8].
 
-**4.**[^key-9b121ba816e28ac1660e7a2bbe650851] Regulation 12—
+**4.**[^c-9b121ba816e28ac1660e7a2bbe650851] Regulation 12—
 
 - (a) has effect in respect of information relating to payments that are made, or treated as made, on or after 14th October 2013; but
 - (b) in the case of a payment made by a former QROPS, does not have effect unless the former QROPS ceased to be a QROPS on or after 14th October 2013.
 
-**5.**[^key-c1f3918effe91ccb129edd11992e4dac] Regulations 16 and 20, so far as relating to former QROPS, have effect only in relation a scheme that ceased to be a QROPS on or after 14th October 2013.
+**5.**[^c-c1f3918effe91ccb129edd11992e4dac] Regulations 16 and 20, so far as relating to former QROPS, have effect only in relation a scheme that ceased to be a QROPS on or after 14th October 2013.
 
-## 6. Transitional Provisions[^key-3e9648564f70280dd4305c3facc92e3e]
+## 6. Transitional Provisions[^c-3e9648564f70280dd4305c3facc92e3e]
 
 (1) Notwithstanding regulation 3(7) of the Registered Pension Schemes (Provision of Information) Regulations 2006[^f00008] (“the Information Regulations”), the period within which the event report referred to in that regulation must be delivered ends on 12th December 2013 in any case where—
 
@@ -80,11 +80,11 @@ These Regulations may be cited as the Registered Pension Schemes and Overseas Pe
 
 (4) In this regulation “transfer request” has the meaning given in regulation 11BA(1) of the Information Regulations.
 
-## 7. Amendment of the Pension Schemes (Categories of Country and Requirements for Overseas Pension Schemes and Recognised Overseas Pension Schemes) Regulations 2006[^key-44992aa101ec033c963109e4f3e810ee]
+## 7. Amendment of the Pension Schemes (Categories of Country and Requirements for Overseas Pension Schemes and Recognised Overseas Pension Schemes) Regulations 2006[^c-44992aa101ec033c963109e4f3e810ee]
 
 The Pension Schemes (Categories of Country and Requirements for Overseas Pension Schemes and Recognised Overseas Pension Schemes) Regulations 2006[^f00011] are amended as follows.
 
-**8.**[^key-a23e5a9b8ae3e672d8181aa21fe504b0] In regulation 3 (recognised overseas pension schemes: prescribed countries or territories and prescribed requirements), for paragraph (1) substitute—
+**8.**[^c-a23e5a9b8ae3e672d8181aa21fe504b0] In regulation 3 (recognised overseas pension schemes: prescribed countries or territories and prescribed requirements), for paragraph (1) substitute—
 
 > (1) For the purposes of section 150(8) (recognised overseas pension schemes), in addition to satisfying the requirements set out in regulation 2 above, the pension scheme must—
 >
@@ -105,11 +105,11 @@ The Pension Schemes (Categories of Country and Requirements for Overseas Pension
 
 .
 
-## 9. Amendment of the Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) Regulations 2006[^key-be67be86eccc34e5c6eb8d6ab2344256]
+## 9. Amendment of the Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) Regulations 2006[^c-be67be86eccc34e5c6eb8d6ab2344256]
 
 The Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) Regulations 2006 are amended as follows.
 
-**10.**[^key-bd95c7e781a279d20dfde5647d9ace3f] In regulation 1(2) (interpretation), after the definition of “the Act” omit “and” and insert—
+**10.**[^c-bd95c7e781a279d20dfde5647d9ace3f] In regulation 1(2) (interpretation), after the definition of “the Act” omit “and” and insert—
 
 > - “HMRC” means the Commissioners for Her Majesty’s Revenue and Customs;
 > - “tax identification number” means—
@@ -118,7 +118,7 @@ The Pension Schemes (Information Requirements for Qualifying Overseas Pension Sc
 
 .
 
-**11.**[^key-d80fb80bfe33dc468552e1c55a112bb6] In regulation 3, for the heading and paragraph (1) substitute—
+**11.**[^c-d80fb80bfe33dc468552e1c55a112bb6] In regulation 3, for the heading and paragraph (1) substitute—
 
 > **3. Information — QROPS and former QROPS**
 >
@@ -152,7 +152,7 @@ The Pension Schemes (Information Requirements for Qualifying Overseas Pension Sc
 
 .
 
-**12.**[^key-b1230a0088ebe2a0808f6d8721905b99] For regulation 3(2) substitute—
+**12.**[^c-b1230a0088ebe2a0808f6d8721905b99] For regulation 3(2) substitute—
 
 > (2) When a QROPS or former QROPS makes, or is treated under the relevant provisions as making, a payment in respect of a relevant member, the scheme manager of the QROPS or former QROPS must provide to HMRC—
 >
@@ -169,31 +169,31 @@ The Pension Schemes (Information Requirements for Qualifying Overseas Pension Sc
 
 .
 
-**13.**[^key-86c74100e467d755c727fc073bbf8cbc] In regulation 3(6)[^f00017] after “this regulation” insert “and regulation 3C”.
+**13.**[^c-86c74100e467d755c727fc073bbf8cbc] In regulation 3(6)[^f00017] after “this regulation” insert “and regulation 3C”.
 
-**14.**[^key-be87b89b18254ed8bc598423b791ce4b] In regulation 3(7)[^f00018] for “and regulation 3B” substitute “, regulation 3B and regulation 3C”.
+**14.**[^c-be87b89b18254ed8bc598423b791ce4b] In regulation 3(7)[^f00018] for “and regulation 3B” substitute “, regulation 3B and regulation 3C”.
 
-**15.**[^key-8464a31615668d2a65df6f731042b25d] In the heading of regulation 3A[^f00019] (information— transfer of sums or assets) for “qualifying recognised overseas pension scheme” substitute—
+**15.**[^c-8464a31615668d2a65df6f731042b25d] In the heading of regulation 3A[^f00019] (information— transfer of sums or assets) for “qualifying recognised overseas pension scheme” substitute—
 
 > QROPS
 
 .
 
-**16.**[^key-4cf052afc8ffbe43ed98733e9302f815] For regulation 3A(1) substitute—
+**16.**[^c-4cf052afc8ffbe43ed98733e9302f815] For regulation 3A(1) substitute—
 
 > (1) For the purposes of section 169(4), where paragraph (2) applies the scheme manager of the QROPS (or former QROPS, if the scheme has ceased to be a QROPS) must provide to HMRC such of the information specified in paragraph (3) as may be required in writing by an officer of Revenue and Customs.
 
 .
 
-**17.**[^key-a94c4fd2cceaf9ca50652a6bb293a4d5] In regulation 3A(2) for “qualifying recognised overseas pension scheme”, in each place, substitute “QROPS”.
+**17.**[^c-a94c4fd2cceaf9ca50652a6bb293a4d5] In regulation 3A(2) for “qualifying recognised overseas pension scheme”, in each place, substitute “QROPS”.
 
-**18.**[^key-b1b2f0225996d2cadf81374454554ca9] In the heading of regulation 3B[^f00020] (information—cessation) for “qualifying recognised overseas pension scheme” substitute—
+**18.**[^c-b1b2f0225996d2cadf81374454554ca9] In the heading of regulation 3B[^f00020] (information—cessation) for “qualifying recognised overseas pension scheme” substitute—
 
 > QROPS
 
 .
 
-**19.**[^key-2c8a4406aa4e8e59330425689747538d] In regulation 3B—
+**19.**[^c-2c8a4406aa4e8e59330425689747538d] In regulation 3B—
 
 - (a) after “section 169(4),” insert “the scheme manager of”;
 - (b) for “qualifying recognised overseas pension scheme” substitute “QROPS”;
@@ -205,7 +205,7 @@ The Pension Schemes (Information Requirements for Qualifying Overseas Pension Sc
   ; and
 - (e) in sub-paragraph (b) omit “, if any,” and after “national insurance number” insert “or, if they do not have one, the tax identification number, if any,”.
 
-**20.**[^key-eecad9a536f3256945dcdb4ab92f590d] For regulation 3C[^f00021] (information—changes, completion or correction), excluding the heading substitute—
+**20.**[^c-eecad9a536f3256945dcdb4ab92f590d] For regulation 3C[^f00021] (information—changes, completion or correction), excluding the heading substitute—
 
 > **3C.** (1) For the purposes of section 169(4), if at any time after a QROPS or former QROPS has provided HMRC with information in accordance with regulation 3, 3A or 3B it becomes apparent to the QROPS or former QROPS that—
 >
@@ -228,7 +228,7 @@ The Pension Schemes (Information Requirements for Qualifying Overseas Pension Sc
 
 .
 
-**21.**[^key-8b717a68d13531dabd5d482399523de5] After regulation 4 insert—
+**21.**[^c-8b717a68d13531dabd5d482399523de5] After regulation 4 insert—
 
 > **5. Application and modification of the penalty provisions in Part 7 of Schedule 36 to the Finance Act 2008**
 >
@@ -251,17 +251,17 @@ The Pension Schemes (Information Requirements for Qualifying Overseas Pension Sc
 
 .
 
-## 22. Amendment of the Registered Pension Schemes and Overseas Pension Schemes (Electronic Communication of Returns and Information) Regulations 2006[^key-a918cd8d83ac7f9f715ed05d4d0cbaee]
+## 22. Amendment of the Registered Pension Schemes and Overseas Pension Schemes (Electronic Communication of Returns and Information) Regulations 2006[^c-a918cd8d83ac7f9f715ed05d4d0cbaee]
 
 The Registered Pension Schemes and Overseas Pension Schemes (Electronic Communication of Returns and Information) Regulations 2006[^f00031] are amended as follows.
 
-**23.**[^key-113adb4d06c35c39b0f8571573690628] In the penultimate paragraph of Schedule 2 (information which may be supplied electronically) for “and qualifying recognised overseas pension schemes under regulations 2 and 3” substitute “, QROPS and former QROPS under regulations 2 to 3C”.
+**23.**[^c-113adb4d06c35c39b0f8571573690628] In the penultimate paragraph of Schedule 2 (information which may be supplied electronically) for “and qualifying recognised overseas pension schemes under regulations 2 and 3” substitute “, QROPS and former QROPS under regulations 2 to 3C”.
 
-## 24. Amendment of the Registered Pension Schemes etc (Information) (Prescribed Descriptions of Persons) Regulations 2010[^key-37bf2607b2149c01980d8f406db69ce0]
+## 24. Amendment of the Registered Pension Schemes etc (Information) (Prescribed Descriptions of Persons) Regulations 2010[^c-37bf2607b2149c01980d8f406db69ce0]
 
 The Registered Pension Schemes etc (Information) (Prescribed Descriptions of Persons) Regulations 2010[^f00032] are amended as follows.
 
-**25.**[^key-2151a29aa762f05f4f49b0738285ba51] After regulation 2 insert—
+**25.**[^c-2151a29aa762f05f4f49b0738285ba51] After regulation 2 insert—
 
 > **2A. Prescribed descriptions of persons: QROPS and former QROPS**
 >
@@ -271,7 +271,7 @@ The Registered Pension Schemes etc (Information) (Prescribed Descriptions of Per
 
 .
 
-**26.**[^key-cd6b031a6c1b5b3528a822e571457674] In regulation 3(1) (prescribed description of persons: annuities purchased with pension scheme assets) for “or a pre-2006 pension scheme” substitute “, a pre-2006 pension scheme, a QROPS or a former QROPS”.
+**26.**[^c-cd6b031a6c1b5b3528a822e571457674] In regulation 3(1) (prescribed description of persons: annuities purchased with pension scheme assets) for “or a pre-2006 pension scheme” substitute “, a pre-2006 pension scheme, a QROPS or a former QROPS”.
 
 Jennie Granger
 
@@ -337,21 +337,21 @@ A Tax Information and Impact Note covering this instrument was published on 24th
 
 [^f00006]: Footnote: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9); definitions of “prescribed”, “QROPS”, “former QROPS” and “scheme manager” for the purposes of paragraph 34B(8) are set out in paragraph 34C. Paragraphs 34B and 34C were inserted by paragraph 11 of Schedule 48 to the Finance Act 2009 and relevant amendments were made by section 54 of the Finance Act 2013.
 
-[^key-498f19fcf42e1529ad1226199bffe747]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-498f19fcf42e1529ad1226199bffe747]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
-[^key-ecb3ecbc0264e1a496bc1675604d771b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/2259/regulation/2) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-ecb3ecbc0264e1a496bc1675604d771b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/2259/regulation/2) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
-[^key-9165dfce4ab8e52cae9943ea2ceb3e8d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/2259/regulation/3) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-9165dfce4ab8e52cae9943ea2ceb3e8d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/2259/regulation/3) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
 [^f00007]: Footnote: [S.I. 2006/208](https://www.legislation.gov.uk/uksi/2006/208), amended by [S.I. 2006/1961](https://www.legislation.gov.uk/uksi/2006/1961), [2012/884](https://www.legislation.gov.uk/uksi/2012/884).
 
-[^key-cec7f8080f31180f7a2369e86c30f0e8]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2013/2259/regulation/3) substituted (17.12.2014) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1. para. 97(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/97/2)
+[^c-cec7f8080f31180f7a2369e86c30f0e8]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2013/2259/regulation/3) substituted (17.12.2014) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1. para. 97(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/97/2)
 
-[^key-9b121ba816e28ac1660e7a2bbe650851]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/2259/regulation/4) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-9b121ba816e28ac1660e7a2bbe650851]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/2259/regulation/4) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
-[^key-c1f3918effe91ccb129edd11992e4dac]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/2259/regulation/5) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-c1f3918effe91ccb129edd11992e4dac]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/2259/regulation/5) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
-[^key-3e9648564f70280dd4305c3facc92e3e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/2259/regulation/6) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-3e9648564f70280dd4305c3facc92e3e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/2259/regulation/6) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
 [^f00008]: Footnote: [S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567); regulation 3(7) was inserted by [S.I. 2012/884](https://www.legislation.gov.uk/uksi/2012/884).
 
@@ -359,21 +359,21 @@ A Tax Information and Impact Note covering this instrument was published on 24th
 
 [^f00010]: Footnote: Regulation 11BA(2) was amended by [S.I. 2013/1742](https://www.legislation.gov.uk/uksi/2013/1742).
 
-[^key-44992aa101ec033c963109e4f3e810ee]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/2259/regulation/7) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-44992aa101ec033c963109e4f3e810ee]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/2259/regulation/7) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
 [^f00011]: Footnote: [S.I. 2006/206](https://www.legislation.gov.uk/uksi/2006/206); amended by [S.I. 2007/1600](https://www.legislation.gov.uk/uksi/2007/1600), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [2012/884](https://www.legislation.gov.uk/uksi/2012/884), [2012/1221](https://www.legislation.gov.uk/uksi/2012/1221).
 
-[^key-a23e5a9b8ae3e672d8181aa21fe504b0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/2259/regulation/8) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-a23e5a9b8ae3e672d8181aa21fe504b0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/2259/regulation/8) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
-[^key-be67be86eccc34e5c6eb8d6ab2344256]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/2259/regulation/9) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-be67be86eccc34e5c6eb8d6ab2344256]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/2259/regulation/9) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
-[^key-bd95c7e781a279d20dfde5647d9ace3f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/2259/regulation/10) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-bd95c7e781a279d20dfde5647d9ace3f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/2259/regulation/10) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
-[^key-d80fb80bfe33dc468552e1c55a112bb6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/2259/regulation/11) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-d80fb80bfe33dc468552e1c55a112bb6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/2259/regulation/11) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
 [^f00012]: Footnote: [1968 c. 48](https://www.legislation.gov.uk/ukpga/1968/48); section 1 was amended by section 1(1) of the International Organisations Act [1981 (c. 9)](https://www.legislation.gov.uk/ukpga/1981/9) and [S.I. 2005/3542](https://www.legislation.gov.uk/uksi/2005/3542).
 
-[^key-b1230a0088ebe2a0808f6d8721905b99]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/2259/regulation/12) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-b1230a0088ebe2a0808f6d8721905b99]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/2259/regulation/12) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
 [^f00013]: Footnote: Registered pension scheme is defined in section 150(2) of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
 
@@ -383,33 +383,33 @@ A Tax Information and Impact Note covering this instrument was published on 24th
 
 [^f00016]: Footnote: Paragraph 3A was inserted by section 159 of the Finance Act 2006, amended by paragraphs 23 and 27 of Schedule 16 to the Finance Act 2011 and modified by [S.I. 2006/572](https://www.legislation.gov.uk/uksi/2006/572).
 
-[^key-86c74100e467d755c727fc073bbf8cbc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/2259/regulation/13) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-86c74100e467d755c727fc073bbf8cbc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/2259/regulation/13) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
 [^f00017]: Footnote: Regulation 3(6) was amended by [S.I. 2012/884](https://www.legislation.gov.uk/uksi/2012/884).
 
-[^key-be87b89b18254ed8bc598423b791ce4b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/2259/regulation/14) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-be87b89b18254ed8bc598423b791ce4b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/2259/regulation/14) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
 [^f00018]: Footnote: Regulation 3(7) was inserted by [S.I. 2012/884](https://www.legislation.gov.uk/uksi/2012/884).
 
-[^key-8464a31615668d2a65df6f731042b25d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/2259/regulation/15) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-8464a31615668d2a65df6f731042b25d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/2259/regulation/15) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
 [^f00019]: Footnote: Regulation 3A was inserted by [S.I. 2012/884](https://www.legislation.gov.uk/uksi/2012/884).
 
-[^key-4cf052afc8ffbe43ed98733e9302f815]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/2259/regulation/16) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-4cf052afc8ffbe43ed98733e9302f815]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/2259/regulation/16) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
-[^key-a94c4fd2cceaf9ca50652a6bb293a4d5]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/2259/regulation/17) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-a94c4fd2cceaf9ca50652a6bb293a4d5]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/2259/regulation/17) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
-[^key-b1b2f0225996d2cadf81374454554ca9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/2259/regulation/18) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-b1b2f0225996d2cadf81374454554ca9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/2259/regulation/18) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
 [^f00020]: Footnote: Regulation 3B was inserted by [S.I. 2012/884](https://www.legislation.gov.uk/uksi/2012/884).
 
-[^key-2c8a4406aa4e8e59330425689747538d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/2259/regulation/19) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-2c8a4406aa4e8e59330425689747538d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/2259/regulation/19) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
-[^key-eecad9a536f3256945dcdb4ab92f590d]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/2259/regulation/20) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-eecad9a536f3256945dcdb4ab92f590d]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/2259/regulation/20) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
 [^f00021]: Footnote: Regulation 3C was inserted by [S.I. 2012/884](https://www.legislation.gov.uk/uksi/2012/884).
 
-[^key-8b717a68d13531dabd5d482399523de5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2013/2259/regulation/21) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-8b717a68d13531dabd5d482399523de5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2013/2259/regulation/21) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
 [^f00022]: Footnote: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9).
 
@@ -429,16 +429,16 @@ A Tax Information and Impact Note covering this instrument was published on 24th
 
 [^f00030]: Footnote: Paragraphs 49A to 49C were inserted by paragraphs 1 and 4 of Schedule 24 to the Finance Act 2011.
 
-[^key-a918cd8d83ac7f9f715ed05d4d0cbaee]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/2259/regulation/22) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-a918cd8d83ac7f9f715ed05d4d0cbaee]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/2259/regulation/22) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
 [^f00031]: Footnote: [S.I. 2006/570](https://www.legislation.gov.uk/uksi/2006/570), to which there are amendments not relevant to these Regulations.
 
-[^key-113adb4d06c35c39b0f8571573690628]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2013/2259/regulation/23) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-113adb4d06c35c39b0f8571573690628]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2013/2259/regulation/23) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
-[^key-37bf2607b2149c01980d8f406db69ce0]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2013/2259/regulation/24) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-37bf2607b2149c01980d8f406db69ce0]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2013/2259/regulation/24) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
 [^f00032]: Footnote: [S.I. 2010/650](https://www.legislation.gov.uk/uksi/2010/650).
 
-[^key-2151a29aa762f05f4f49b0738285ba51]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2013/2259/regulation/25) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-2151a29aa762f05f4f49b0738285ba51]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2013/2259/regulation/25) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
 
-[^key-cd6b031a6c1b5b3528a822e571457674]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2013/2259/regulation/26) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)
+[^c-cd6b031a6c1b5b3528a822e571457674]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2013/2259/regulation/26) in force at 14.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1)

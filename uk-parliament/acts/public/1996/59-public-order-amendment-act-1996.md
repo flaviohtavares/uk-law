@@ -33,18 +33,18 @@ Public Order (Amendment) Act 1996 (repealed)
 
 \[17th October 1996\]
 
-[^key-7f7927e7d77e987e22b2ee233c5af46b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f7927e7d77e987e22b2ee233c5af46b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Power of arrest.[^key-7f7927e7d77e987e22b2ee233c5af46b][^key-7f7927e7d77e987e22b2ee233c5af46b]
+## 1. Power of arrest.[^c-7f7927e7d77e987e22b2ee233c5af46b][^c-7f7927e7d77e987e22b2ee233c5af46b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Citation.[^key-7f7927e7d77e987e22b2ee233c5af46b][^key-7f7927e7d77e987e22b2ee233c5af46b]
+## 2. Citation.[^c-7f7927e7d77e987e22b2ee233c5af46b][^c-7f7927e7d77e987e22b2ee233c5af46b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7f7927e7d77e987e22b2ee233c5af46b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1996/59) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-7f7927e7d77e987e22b2ee233c5af46b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1996/59) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)

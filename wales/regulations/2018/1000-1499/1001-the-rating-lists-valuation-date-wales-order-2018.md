@@ -31,7 +31,7 @@ summary: ''
 
 Rating And Valuation, Wales
 
-The Rating Lists (Valuation Date) (Wales) Order 2018 (revoked)[^key-aec6314f8d2ed2898afd09798ff2a43c]
+The Rating Lists (Valuation Date) (Wales) Order 2018 (revoked)[^c-aec6314f8d2ed2898afd09798ff2a43c]
 
 Made
 
@@ -45,27 +45,27 @@ Coming into force
 
 10 October 2018
 
-[^key-aec6314f8d2ed2898afd09798ff2a43c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aec6314f8d2ed2898afd09798ff2a43c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-aec6314f8d2ed2898afd09798ff2a43c]
+## 1. Title, commencement and application[^c-aec6314f8d2ed2898afd09798ff2a43c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Valuation date[^key-aec6314f8d2ed2898afd09798ff2a43c]
+## 2. Valuation date[^c-aec6314f8d2ed2898afd09798ff2a43c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-aec6314f8d2ed2898afd09798ff2a43c]
+## 3. Revocation[^c-aec6314f8d2ed2898afd09798ff2a43c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aec6314f8d2ed2898afd09798ff2a43c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aec6314f8d2ed2898afd09798ff2a43c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-aec6314f8d2ed2898afd09798ff2a43c]EXPLANATORY NOTE
+[^c-aec6314f8d2ed2898afd09798ff2a43c]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -81,4 +81,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-aec6314f8d2ed2898afd09798ff2a43c]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2018/1001) revoked (23.12.2020) by [The Rating Lists (Valuation Date) (Wales) Order 2020 (S.I. 2020/1378)](https://www.legislation.gov.uk/wsi/2020/1378), [art. 3](https://www.legislation.gov.uk/wsi/2020/1378/article/3)
+[^c-aec6314f8d2ed2898afd09798ff2a43c]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2018/1001) revoked (23.12.2020) by [The Rating Lists (Valuation Date) (Wales) Order 2020 (S.I. 2020/1378)](https://www.legislation.gov.uk/wsi/2020/1378), [art. 3](https://www.legislation.gov.uk/wsi/2020/1378/article/3)

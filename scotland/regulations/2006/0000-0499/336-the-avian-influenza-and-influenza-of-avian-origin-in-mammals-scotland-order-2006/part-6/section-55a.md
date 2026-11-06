@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55A. Ending of low pathogenic avian influenza restricted zones[^key-08b0f50ee9878b323df05093ae71a3ba]
+## 55A. Ending of low pathogenic avian influenza restricted zones[^c-08b0f50ee9878b323df05093ae71a3ba]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08b0f50ee9878b323df05093ae71a3ba]: Textual amendment: [Art. 55A](https://www.legislation.gov.uk/ssi/2006/336/article/55A) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(14)](https://www.legislation.gov.uk/ssi/2023/361/article/2/14)
+[^c-08b0f50ee9878b323df05093ae71a3ba]: Textual amendment: [Art. 55A](https://www.legislation.gov.uk/ssi/2006/336/article/55A) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(14)](https://www.legislation.gov.uk/ssi/2023/361/article/2/14)

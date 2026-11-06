@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 450. Punishment for destroying, mutilating, etc. company documents.[^c17416131][^c17416141][^c19377571][^key-c0bba34efd7afc6b25ace91ea08fe3d0]
+## 450. Punishment for destroying, mutilating, etc. company documents.[^c17416131][^c17416141][^c19377571][^c-c0bba34efd7afc6b25ace91ea08fe3d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ is guilty of an offence, unless he proves that he had no intention to conceal th
 
 [^c19377571]: Modification: S. 450 restricted (20.1.2007, 6.4.2007, 1.10.2007, 6.4.2008 for specified purposes) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1126](https://www.legislation.gov.uk/ukpga/2006/46/section/1126), [1300](https://www.legislation.gov.uk/ukpga/2006/46/section/1300) (with [s. 1133](https://www.legislation.gov.uk/ukpga/2006/46/section/1133)); [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/2/b) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) and with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5) (as amended by [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 11](https://www.legislation.gov.uk/uksi/2007/3495/article/11), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/3495/schedule/5))); [S.I. 2007/1093](https://www.legislation.gov.uk/uksi/2007/1093), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2007/1093/article/2/2/c); [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [art. 2(1)(l)(3)(h)](https://www.legislation.gov.uk/uksi/2007/2194/article/2/1/l/3/h) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12)); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 3(1)(n)](https://www.legislation.gov.uk/uksi/2007/3495/article/3/1/n) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))
 
-[^key-c0bba34efd7afc6b25ace91ea08fe3d0]: Modification: S. 450 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
+[^c-c0bba34efd7afc6b25ace91ea08fe3d0]: Modification: S. 450 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
 
 [^c17416161]: Modification: S. 450(1) amended (1.7.1994) by [S.I. 1994/1696](https://www.legislation.gov.uk/uksi/1994/1696), [reg. 68](https://www.legislation.gov.uk/uksi/1994/1696/regulation/68), [Sch. 8 Pt. I para. 9(1)(c)](https://www.legislation.gov.uk/uksi/1994/1696/schedule/8/part/I/paragraph/9/1/c)
 

@@ -22,7 +22,7 @@ summary: ''
 
 Sections 82 and 83 apply to LLPs, modified so that they read as follows—
 
-> **82. Requirement to disclose LLP name etc[^key-fc16017efd3cd433d8201d32f96e898f]**
+> **82. Requirement to disclose LLP name etc[^c-fc16017efd3cd433d8201d32f96e898f]**
 >
 > (1) The provisions of the Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 relating to Trading Disclosures apply to LLPs.
 >
@@ -64,4 +64,4 @@ Sections 82 and 83 apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-fc16017efd3cd433d8201d32f96e898f]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2009/1804/regulation/14) substituted (31.1.2015) by [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2015/17/schedule/5/paragraph/5)
+[^c-fc16017efd3cd433d8201d32f96e898f]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2009/1804/regulation/14) substituted (31.1.2015) by [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2015/17/schedule/5/paragraph/5)

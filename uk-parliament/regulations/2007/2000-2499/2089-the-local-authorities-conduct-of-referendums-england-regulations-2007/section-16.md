@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Immediate consequences of referendum petitions[^key-5803d1a2b5ae64e3a2847444133f6246]
+## 16. Immediate consequences of referendum petitions[^c-5803d1a2b5ae64e3a2847444133f6246]
 
 *Extent: E+W*
 
@@ -84,4 +84,4 @@ the elected mayor is to continue in office.
 
 ## Annotations
 
-[^key-5803d1a2b5ae64e3a2847444133f6246]: Commencement: Reg. 16 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-5803d1a2b5ae64e3a2847444133f6246]: Commencement: Reg. 16 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)

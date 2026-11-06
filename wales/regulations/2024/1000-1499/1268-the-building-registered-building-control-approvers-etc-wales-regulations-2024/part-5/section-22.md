@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Grounds for rejection of a transfer certificate and transfer report[^key-c46c2708f0f658f7964497450e891f70]
+## 22. Grounds for rejection of a transfer certificate and transfer report[^c-c46c2708f0f658f7964497450e891f70]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The grounds on which a local authority may reject a transfer certificate and tra
 
 ## Annotations
 
-[^key-c46c2708f0f658f7964497450e891f70]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2024/1268/regulation/22) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-c46c2708f0f658f7964497450e891f70]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2024/1268/regulation/22) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

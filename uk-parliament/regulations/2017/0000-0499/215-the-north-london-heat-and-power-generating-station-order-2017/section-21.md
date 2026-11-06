@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Power to override easements and other rights[^key-9f403fb292a101e379e7f495f7bd237f]
+## 21. Power to override easements and other rights[^c-9f403fb292a101e379e7f495f7bd237f]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f403fb292a101e379e7f495f7bd237f]: Commencement: Art. 21 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-9f403fb292a101e379e7f495f7bd237f]: Commencement: Art. 21 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)

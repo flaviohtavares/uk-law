@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A32. Disposal of hire-purchase property[^key-2d593eae2f3cccb39a2961eef842bf2c][^key-006d1b96fbe199b11b6598fc3802bab9]
+## A32. Disposal of hire-purchase property[^c-2d593eae2f3cccb39a2961eef842bf2c][^c-006d1b96fbe199b11b6598fc3802bab9]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d593eae2f3cccb39a2961eef842bf2c]: Textual amendment: Pt. A1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/1/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-2d593eae2f3cccb39a2961eef842bf2c]: Textual amendment: Pt. A1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/1/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-006d1b96fbe199b11b6598fc3802bab9]: Modification: Ss. A29-A32 excluded by S.I. 2015/912, reg. 37(12A)(d) (as inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 55(4)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/55/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)))
+[^c-006d1b96fbe199b11b6598fc3802bab9]: Modification: Ss. A29-A32 excluded by S.I. 2015/912, reg. 37(12A)(d) (as inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 55(4)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/55/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)))

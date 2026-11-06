@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**279.**[^key-479680e6dee61f2b5740ec5d43d5ad8e] The Carers Strategies (Wales) Measure 2010 is repealed.
+**279.**[^c-479680e6dee61f2b5740ec5d43d5ad8e] The Carers Strategies (Wales) Measure 2010 is repealed.
 
 ## Annotations
 
-[^key-479680e6dee61f2b5740ec5d43d5ad8e]: Commencement: Reg. 279 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-479680e6dee61f2b5740ec5d43d5ad8e]: Commencement: Reg. 279 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

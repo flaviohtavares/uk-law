@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — Schedule to be inserted as Schedule 3C to the Police Reform Act 2002[^c22720251][^key-e2a776b921618f625f22af756b36ac71]
+## SCHEDULE 11 — Schedule to be inserted as Schedule 3C to the Police Reform Act 2002[^c22720251][^c-e2a776b921618f625f22af756b36ac71]
 
 *Extent: E+W*
 
@@ -309,4 +309,4 @@ Section 38
 
 [^c22720251]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ukpga/2017/3/schedule/11) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-e2a776b921618f625f22af756b36ac71]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ukpga/2017/3/schedule/11) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/d) (as amended by S.I 2017/1162, reg. 2)
+[^c-e2a776b921618f625f22af756b36ac71]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ukpga/2017/3/schedule/11) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/d) (as amended by S.I 2017/1162, reg. 2)

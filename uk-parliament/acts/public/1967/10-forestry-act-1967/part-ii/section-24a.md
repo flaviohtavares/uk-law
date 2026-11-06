@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24A. Further notice under section 24 for next estate or interest holders[^key-a48ee238b4f0811db658389180d89837]
+## 24A. Further notice under section 24 for next estate or interest holders[^c-a48ee238b4f0811db658389180d89837]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a48ee238b4f0811db658389180d89837]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/ukpga/1967/10/section/24A) inserted (1.1.2023) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 16 para. 5(2)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/16/paragraph/5/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/1266](https://www.legislation.gov.uk/uksi/2022/1266), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/2/d) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/3/3))
+[^c-a48ee238b4f0811db658389180d89837]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/ukpga/1967/10/section/24A) inserted (1.1.2023) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 16 para. 5(2)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/16/paragraph/5/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/1266](https://www.legislation.gov.uk/uksi/2022/1266), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/2/d) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/3/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Owner under regulation 36[^key-c755e50288d39265d1d2a0855582a4de]
+## 37. Owner under regulation 36[^c-c755e50288d39265d1d2a0855582a4de]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c755e50288d39265d1d2a0855582a4de]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2012/2079/regulation/37) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-c755e50288d39265d1d2a0855582a4de]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2012/2079/regulation/37) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

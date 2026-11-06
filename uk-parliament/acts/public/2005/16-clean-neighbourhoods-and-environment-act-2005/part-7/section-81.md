@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Interpretation[^key-da22281055bd3c28c01fc6b253ae3c70][^key-cc85c7ba0b8ee17af2692a1f963a1cbd]
+## 81. Interpretation[^c-da22281055bd3c28c01fc6b253ae3c70][^c-cc85c7ba0b8ee17af2692a1f963a1cbd]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da22281055bd3c28c01fc6b253ae3c70]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2005/16/section/81) in force at 14.3.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/795/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/795/schedule/1)
+[^c-da22281055bd3c28c01fc6b253ae3c70]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2005/16/section/81) in force at 14.3.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/795/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/795/schedule/1)
 
-[^key-cc85c7ba0b8ee17af2692a1f963a1cbd]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2005/16/section/81) in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(n)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/n)
+[^c-cc85c7ba0b8ee17af2692a1f963a1cbd]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2005/16/section/81) in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(n)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/n)

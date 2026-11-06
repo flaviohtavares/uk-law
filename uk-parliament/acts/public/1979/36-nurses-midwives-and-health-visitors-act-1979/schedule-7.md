@@ -101,13 +101,13 @@ Section 23(4)
 
 **18.**[^c12387351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-67644873ad30ceddfc07b8f9a5c3ecbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-67644873ad30ceddfc07b8f9a5c3ecbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-67644873ad30ceddfc07b8f9a5c3ecbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-67644873ad30ceddfc07b8f9a5c3ecbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-67644873ad30ceddfc07b8f9a5c3ecbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-67644873ad30ceddfc07b8f9a5c3ecbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-67644873ad30ceddfc07b8f9a5c3ecbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-67644873ad30ceddfc07b8f9a5c3ecbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **23.**[^c12387361] In section 4(e) of the Nursing Homes Act 1975 for “ certified” substitute “ registered ” and for “ pupil midwife” substitute “ student midwife ” ; and at the end of section 4 insert—
 
@@ -205,7 +205,7 @@ Section 23(4)
 
 [^c12387351]: Textual amendment: Sch. 7 paras. 16-18 repealed (1. 4. 1993) by [S.I. 1992/3204 (N.I. 20)](https://www.legislation.gov.uk/nisi/1992/3204), [art. 38](https://www.legislation.gov.uk/nisi/1992/3204/article/38), [Sch.2](https://www.legislation.gov.uk/nisi/1992/3204/schedule/2); [S.R. 1993/75](https://www.legislation.gov.uk/nisr/1993/75), [art.2](https://www.legislation.gov.uk/nisr/1993/75/article/2)
 
-[^key-67644873ad30ceddfc07b8f9a5c3ecbb]: Textual amendment: [Sch. 7 paras. 19-22](https://www.legislation.gov.uk/ukpga/1979/36/schedule/7/paragraph/19) repealed (N.I.) (1.4.2005) by [The Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 (S.I. 2003/431)](https://www.legislation.gov.uk/nisi/2003/431), [art. 1(3)](https://www.legislation.gov.uk/nisi/2003/431/article/1/3), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/431/schedule/5); [S.R. 2005/44](https://www.legislation.gov.uk/nisr/2005/44), [art. 3](https://www.legislation.gov.uk/nisr/2005/44/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/44/schedule/1) (with [arts. 4-13](https://www.legislation.gov.uk/nisr/2005/44/article/4))
+[^c-67644873ad30ceddfc07b8f9a5c3ecbb]: Textual amendment: [Sch. 7 paras. 19-22](https://www.legislation.gov.uk/ukpga/1979/36/schedule/7/paragraph/19) repealed (N.I.) (1.4.2005) by [The Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 (S.I. 2003/431)](https://www.legislation.gov.uk/nisi/2003/431), [art. 1(3)](https://www.legislation.gov.uk/nisi/2003/431/article/1/3), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/431/schedule/5); [S.R. 2005/44](https://www.legislation.gov.uk/nisr/2005/44), [art. 3](https://www.legislation.gov.uk/nisr/2005/44/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/44/schedule/1) (with [arts. 4-13](https://www.legislation.gov.uk/nisr/2005/44/article/4))
 
 [^c12387361]: Textual amendment: Sch. 7 para. 23 repealed (E.W.) by [Registered Homes Act 1984 (c.23, SIF 113:3)](https://www.legislation.gov.uk/ukpga/1984/23), [s. 57](https://www.legislation.gov.uk/ukpga/1984/23/section/57), [Sch. 3](https://www.legislation.gov.uk/ukpga/1984/23/schedule/3)
 

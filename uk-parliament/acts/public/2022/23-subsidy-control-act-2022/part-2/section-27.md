@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Subsidies for insurers that provide export credit insurance[^key-1435edd727bef0b5a29645162c12c883][^key-9c1dcda2a494b5e2a01b74bb1aae0735]
+## 27. Subsidies for insurers that provide export credit insurance[^c-1435edd727bef0b5a29645162c12c883][^c-9c1dcda2a494b5e2a01b74bb1aae0735]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1435edd727bef0b5a29645162c12c883]: Commencement: S. 27 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-1435edd727bef0b5a29645162c12c883]: Commencement: S. 27 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-9c1dcda2a494b5e2a01b74bb1aae0735]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/23/section/27) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-9c1dcda2a494b5e2a01b74bb1aae0735]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/23/section/27) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

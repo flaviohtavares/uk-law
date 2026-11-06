@@ -31,9 +31,9 @@ summary: ''
 (5) The specified restrictions are—
 
 - (a) a requirement that a distinguishing mark of such a nature as may be prescribed shall be displayed in such manner as may be prescribed on any motor vehicle while it is being driven on a road by a person who is subject to the specified restrictions when driving that vehicle;
-- (b) subject to paragraph (5A),[^key-94a13c4813b046bb1c958da87aeed4a0] a prohibition on driving on any road at a speed exceeding 45 miles per hour, or such other speed as may be prescribed, any motor vehicle on which the distinguishing mark referred to in sub-paragraph (a) is required to be displayed.
+- (b) subject to paragraph (5A),[^c-94a13c4813b046bb1c958da87aeed4a0] a prohibition on driving on any road at a speed exceeding 45 miles per hour, or such other speed as may be prescribed, any motor vehicle on which the distinguishing mark referred to in sub-paragraph (a) is required to be displayed.
 
-(5A)[^key-7019302d1954ccbc817be7c54204ce17] The restriction specified in paragraph (5)(b) does not apply to a person who after 18th January 2013 has passed a test of competence prescribed by virtue of Article 5(3) in the driving of a category A2 motorcycle or category A motorcycle.
+(5A)[^c-7019302d1954ccbc817be7c54204ce17] The restriction specified in paragraph (5)(b) does not apply to a person who after 18th January 2013 has passed a test of competence prescribed by virtue of Article 5(3) in the driving of a category A2 motorcycle or category A motorcycle.
 
 (5B) In paragraph (5A) “category A2 motorcycle” and “category A motorcycle” have the same meaning as in the Motor Vehicle (Driving Licences) Regulations (Northern Ireland) 1996.
 
@@ -62,6 +62,6 @@ summary: ''
 
 [^c17615001]: Textual amendment: [1998 NI 7](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-94a13c4813b046bb1c958da87aeed4a0]: Textual amendment: Words in [art. 19A(5)(b)](https://www.legislation.gov.uk/nisi/1981/154/article/19A/5/b) inserted (19.1.2013 immediately after the coming into operation of S.R. 2012/170) by [The Motor Vehicles (Driving Licences) (Amendment No. 3) Regulations (Northern Ireland) 2012 (S.R. 2012/451)](https://www.legislation.gov.uk/nisr/2012/451), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/451/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2012/451/regulation/2/3/a)
+[^c-94a13c4813b046bb1c958da87aeed4a0]: Textual amendment: Words in [art. 19A(5)(b)](https://www.legislation.gov.uk/nisi/1981/154/article/19A/5/b) inserted (19.1.2013 immediately after the coming into operation of S.R. 2012/170) by [The Motor Vehicles (Driving Licences) (Amendment No. 3) Regulations (Northern Ireland) 2012 (S.R. 2012/451)](https://www.legislation.gov.uk/nisr/2012/451), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/451/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2012/451/regulation/2/3/a)
 
-[^key-7019302d1954ccbc817be7c54204ce17]: Textual amendment: [Art. 19A(5A)](https://www.legislation.gov.uk/nisi/1981/154/article/19A/5A)[(5B)](https://www.legislation.gov.uk/nisi/1981/154/article/19A/5B) inserted (19.1.2013 immediately after the coming into operation of S.R. 2012/170) by [The Motor Vehicles (Driving Licences) (Amendment No. 3) Regulations (Northern Ireland) 2012 (S.R. 2012/451)](https://www.legislation.gov.uk/nisr/2012/451), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/451/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2012/451/regulation/2/3/b)
+[^c-7019302d1954ccbc817be7c54204ce17]: Textual amendment: [Art. 19A(5A)](https://www.legislation.gov.uk/nisi/1981/154/article/19A/5A)[(5B)](https://www.legislation.gov.uk/nisi/1981/154/article/19A/5B) inserted (19.1.2013 immediately after the coming into operation of S.R. 2012/170) by [The Motor Vehicles (Driving Licences) (Amendment No. 3) Regulations (Northern Ireland) 2012 (S.R. 2012/451)](https://www.legislation.gov.uk/nisr/2012/451), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/451/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2012/451/regulation/2/3/b)

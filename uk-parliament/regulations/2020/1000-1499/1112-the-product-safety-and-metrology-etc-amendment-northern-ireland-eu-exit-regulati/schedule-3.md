@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 4
 
-**1.**[^key-c1e3bec3de1f9529ed9c63ae1448b548] (1) The General Product Safety Regulations 2005 are amended as follows.
+**1.**[^c-c1e3bec3de1f9529ed9c63ae1448b548] (1) The General Product Safety Regulations 2005 are amended as follows.
 
 (2) In regulation 2—
 
@@ -93,6 +93,6 @@ Regulation 4
 
 ## Annotations
 
-[^key-c1e3bec3de1f9529ed9c63ae1448b548]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/3/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-c1e3bec3de1f9529ed9c63ae1448b548]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/3/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
 [^c24301671]: Marginal citation: OJ L 218, 13.08.2008 p. 20.

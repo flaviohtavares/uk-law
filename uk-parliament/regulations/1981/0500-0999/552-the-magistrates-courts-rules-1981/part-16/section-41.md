@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Revocation, variation, etc., of orders for periodical payments[^key-53682f2470e2c17a29242ff2eb8520bf]
+## 41. Revocation, variation, etc., of orders for periodical payments[^c-53682f2470e2c17a29242ff2eb8520bf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53682f2470e2c17a29242ff2eb8520bf]: Textual amendment: [Rule 41](https://www.legislation.gov.uk/uksi/1981/552/rule/41) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [17](https://www.legislation.gov.uk/uksi/2014/879/article/17)
+[^c-53682f2470e2c17a29242ff2eb8520bf]: Textual amendment: [Rule 41](https://www.legislation.gov.uk/uksi/1981/552/rule/41) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [17](https://www.legislation.gov.uk/uksi/2014/879/article/17)

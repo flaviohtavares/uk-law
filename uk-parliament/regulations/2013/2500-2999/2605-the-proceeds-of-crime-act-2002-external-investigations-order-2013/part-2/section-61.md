@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Further Provisions[^key-b64cb3db3146297169ffb42bfe1da2bc]
+## 61. Further Provisions[^c-b64cb3db3146297169ffb42bfe1da2bc]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A customer information order has effect in spite of any restriction on the discl
 
 ## Annotations
 
-[^key-b64cb3db3146297169ffb42bfe1da2bc]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2013/2605/article/61) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-b64cb3db3146297169ffb42bfe1da2bc]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2013/2605/article/61) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

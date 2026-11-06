@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Certificates[^key-339d56f6b8c62741d4154e2c903dde55]
+## 21. Certificates[^c-339d56f6b8c62741d4154e2c903dde55]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-339d56f6b8c62741d4154e2c903dde55]: Commencement: Reg. 21 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-339d56f6b8c62741d4154e2c903dde55]: Commencement: Reg. 21 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00052]: Footnote: S.I. [1976/615](https://www.legislation.gov.uk/uksi/1976/615). Regulation 2 was amended by S.I. [1982/699](https://www.legislation.gov.uk/uksi/1982/699), [1992/247](https://www.legislation.gov.uk/uksi/1992/247), [1994/2975](https://www.legislation.gov.uk/uksi/1994/2975), [1995/987](https://www.legislation.gov.uk/uksi/1995/987) and [2000/590](https://www.legislation.gov.uk/uksi/2000/590).

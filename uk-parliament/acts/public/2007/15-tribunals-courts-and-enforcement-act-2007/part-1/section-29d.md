@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29D. Costs or expenses in legal proceedings: authorised persons[^key-e5bc731bf168827140db1d25bbc8f5fc]
+## 29D. Costs or expenses in legal proceedings: authorised persons[^c-e5bc731bf168827140db1d25bbc8f5fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ which the Lord Chancellor considers necessary or expedient.
 
 ## Annotations
 
-[^key-e5bc731bf168827140db1d25bbc8f5fc]: Textual amendment: [Pt. 1 Ch. 2A](https://www.legislation.gov.uk/ukpga/2007/15/part/1/chapter/2A) inserted (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 41](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/41); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv), [3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-e5bc731bf168827140db1d25bbc8f5fc]: Textual amendment: [Pt. 1 Ch. 2A](https://www.legislation.gov.uk/ukpga/2007/15/part/1/chapter/2A) inserted (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 41](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/41); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv), [3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)

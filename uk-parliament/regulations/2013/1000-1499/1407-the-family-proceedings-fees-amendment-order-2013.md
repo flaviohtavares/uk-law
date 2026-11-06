@@ -52,27 +52,27 @@ The Lord Chancellor, with the consent of the Treasury, makes the following Order
 
 In accordance with section 92(5) and (6) of that Act the Lord Chancellor has consulted the Lord Chief Justice, the Master of the Rolls, the President of the Queen’s Bench Division, the President of the Family Division, the Chancellor of the High Court, the Head of Civil Justice, the Deputy Head of Civil Justice and the Civil Justice Council.
 
-## 1. Citation and commencement[^key-5c4a7319129a5c8a3a0f7aa10c63457f]
+## 1. Citation and commencement[^c-5c4a7319129a5c8a3a0f7aa10c63457f]
 
 This Order may be cited as the Family Proceedings Fees (Amendment) Order 2013 and shall come into force on 1st July 2013.
 
-## 2. Amendment of the Family Proceedings Fees Order 2008[^key-5c2f27804efd76a3a04566fb5be9b6ff]
+## 2. Amendment of the Family Proceedings Fees Order 2008[^c-5c2f27804efd76a3a04566fb5be9b6ff]
 
 The Family Proceedings Fees Order 2008[^f00002] is amended as follows.
 
-**3.**[^key-d30d8fc4e77f6a1768c5f7db67903226] For Schedule 1 (which specifies the fees to be taken in family proceedings), substitute the Schedule in the Schedule to this Order.
+**3.**[^c-d30d8fc4e77f6a1768c5f7db67903226] For Schedule 1 (which specifies the fees to be taken in family proceedings), substitute the Schedule in the Schedule to this Order.
 
 ## Transitional provisions
 
-### 4. Divorce or dissolution of civil partnership[^key-793b8cca540d29a1b64d9a0f3c2a3ef9]
+### 4. Divorce or dissolution of civil partnership[^c-793b8cca540d29a1b64d9a0f3c2a3ef9]
 
-(1) This article[^key-0cabbd30ea77ffc90455a214b1dad345] applies where on or before 30th June 2013 an application was presented for a matrimonial or civil partnership order, other than an application to which rule 7.7(1)(b) of the Family Procedure Rules 2010[^f00003] applies.
+(1) This article[^c-0cabbd30ea77ffc90455a214b1dad345] applies where on or before 30th June 2013 an application was presented for a matrimonial or civil partnership order, other than an application to which rule 7.7(1)(b) of the Family Procedure Rules 2010[^f00003] applies.
 
 (2) The fee on an application to make a decree nisi absolute or a conditional order final is £45.
 
-(3)[^key-fcc91bbf6db923abba4a7b45288fe90c] Where the application to make a decree nisi or absolute or a conditional order final is made on or after 6th April 2015, paragraph (2) does not apply and the fee for the application is £50.
+(3)[^c-fcc91bbf6db923abba4a7b45288fe90c] Where the application to make a decree nisi or absolute or a conditional order final is made on or after 6th April 2015, paragraph (2) does not apply and the fee for the application is £50.
 
-### 5. Proceedings under section 31 of the Children Act 1989[^key-578377f24747de54a801d9fe7c9a75b4]
+### 5. Proceedings under section 31 of the Children Act 1989[^c-578377f24747de54a801d9fe7c9a75b4]
 
 (1) Paragraph (2) applies where on or before 30th June 2013 an application was made in relation to proceedings under section 31 of the Children Act 1989[^f00004].
 
@@ -81,7 +81,7 @@ The Family Proceedings Fees Order 2008[^f00002] is amended as follows.
 - (a) the fee is £795, and
 - (b) the notes in respect of fee 2.2 in the Family Proceedings Fees Order 2008 applicable to an issues resolution hearing or a pre-hearing review and in respect of a refund where a final order is made at a case management conference prior to the coming into force of this Order continue to have effect.
 
-### 6. Request for detailed assessment[^key-86d3b90482073bc28411bf53708921a0]
+### 6. Request for detailed assessment[^c-86d3b90482073bc28411bf53708921a0]
 
 (1) Paragraph (2) applies where on or before 30th June 2013 a request is filed for detailed assessment where the party filing the request was legally aided, funded by the Legal Services Commission or a person for whom civil legal services have been made available under arrangements made by the Lord Chancellor under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00005] and no other party is ordered to pay the costs of the proceedings.
 
@@ -110,7 +110,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 6th June 2013
 
-## SCHEDULE[^key-972c205c983d4eb84979ed39eb21aa94]
+## SCHEDULE[^c-972c205c983d4eb84979ed39eb21aa94]
 
 Article 3
 
@@ -301,31 +301,31 @@ The original fees and the rate of inflation since the last fee increase are deta
 
 [^f00001]: Footnote: [2003 c.39](https://www.legislation.gov.uk/ukpga/2003/39). Section 92 was amended by section 15(1) of and paragraphs 308 and 345 of Schedule 4, Part 1 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) and by section 59(5) of and paragraph 4 of Schedule 11, Part 2 to that Act. Section 108 was amended by section 15(1) of and paragraphs 308 and 348 to Schedule 4, Part 1 to that Act.
 
-[^key-5c4a7319129a5c8a3a0f7aa10c63457f]: Commencement: Art. 1 in force at 1.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1407/article/1)
+[^c-5c4a7319129a5c8a3a0f7aa10c63457f]: Commencement: Art. 1 in force at 1.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1407/article/1)
 
-[^key-5c2f27804efd76a3a04566fb5be9b6ff]: Commencement: Art. 2 in force at 1.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1407/article/1)
+[^c-5c2f27804efd76a3a04566fb5be9b6ff]: Commencement: Art. 2 in force at 1.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1407/article/1)
 
 [^f00002]: Footnote: [SI 2008/1054](https://www.legislation.gov.uk/uksi/2008/1054) as amended by [S.I. 2011/587](https://www.legislation.gov.uk/uksi/2011/587), [S.I. 2011/1045](https://www.legislation.gov.uk/uksi/2011/1045) and [S.I 2013/534](https://www.legislation.gov.uk/uksi/2013/534).
 
-[^key-d30d8fc4e77f6a1768c5f7db67903226]: Commencement: Art. 3 in force at 1.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1407/article/1)
+[^c-d30d8fc4e77f6a1768c5f7db67903226]: Commencement: Art. 3 in force at 1.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1407/article/1)
 
-[^key-793b8cca540d29a1b64d9a0f3c2a3ef9]: Commencement: Art. 4 in force at 1.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1407/article/1)
+[^c-793b8cca540d29a1b64d9a0f3c2a3ef9]: Commencement: Art. 4 in force at 1.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1407/article/1)
 
-[^key-0cabbd30ea77ffc90455a214b1dad345]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2013/1407/article/4/1) substituted (6.4.2015) by [The Family Proceedings Fees (Amendment) Order 2015 (S.I. 2015/687)](https://www.legislation.gov.uk/uksi/2015/687), [arts. 1](https://www.legislation.gov.uk/uksi/2015/687/article/1), [8(a)](https://www.legislation.gov.uk/uksi/2015/687/article/8/a)
+[^c-0cabbd30ea77ffc90455a214b1dad345]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2013/1407/article/4/1) substituted (6.4.2015) by [The Family Proceedings Fees (Amendment) Order 2015 (S.I. 2015/687)](https://www.legislation.gov.uk/uksi/2015/687), [arts. 1](https://www.legislation.gov.uk/uksi/2015/687/article/1), [8(a)](https://www.legislation.gov.uk/uksi/2015/687/article/8/a)
 
 [^f00003]: Footnote: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955).
 
-[^key-fcc91bbf6db923abba4a7b45288fe90c]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/uksi/2013/1407/article/4/3) inserted (6.4.2015) by [The Family Proceedings Fees (Amendment) Order 2015 (S.I. 2015/687)](https://www.legislation.gov.uk/uksi/2015/687), [arts. 1](https://www.legislation.gov.uk/uksi/2015/687/article/1), [8(b)](https://www.legislation.gov.uk/uksi/2015/687/article/8/b)
+[^c-fcc91bbf6db923abba4a7b45288fe90c]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/uksi/2013/1407/article/4/3) inserted (6.4.2015) by [The Family Proceedings Fees (Amendment) Order 2015 (S.I. 2015/687)](https://www.legislation.gov.uk/uksi/2015/687), [arts. 1](https://www.legislation.gov.uk/uksi/2015/687/article/1), [8(b)](https://www.legislation.gov.uk/uksi/2015/687/article/8/b)
 
-[^key-578377f24747de54a801d9fe7c9a75b4]: Commencement: Art. 5 in force at 1.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1407/article/1)
+[^c-578377f24747de54a801d9fe7c9a75b4]: Commencement: Art. 5 in force at 1.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1407/article/1)
 
 [^f00004]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-86d3b90482073bc28411bf53708921a0]: Commencement: Art. 6 in force at 1.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1407/article/1)
+[^c-86d3b90482073bc28411bf53708921a0]: Commencement: Art. 6 in force at 1.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1407/article/1)
 
 [^f00005]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-972c205c983d4eb84979ed39eb21aa94]: Commencement: Sch. in force at 1.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1407/article/1)
+[^c-972c205c983d4eb84979ed39eb21aa94]: Commencement: Sch. in force at 1.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1407/article/1)
 
 [^f01000]: Footnote: (a)
 

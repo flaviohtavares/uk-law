@@ -35,114 +35,114 @@ laying down ecodesign requirements for electric motors and variable speed drives
 
 (Text with EEA relevance) (revoked)
 
-[^key-3e92cf8e69e091668ea2abc425f8f0d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e92cf8e69e091668ea2abc425f8f0d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## Article 1. Subject matter[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Scope[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## Article 2. Scope[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Definitions[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## Article 3. Definitions[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Ecodesign requirements[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## Article 4. Ecodesign requirements[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Conformity assessment[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## Article 5. Conformity assessment[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Verification procedure for market surveillance purposes[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## Article 6. Verification procedure for market surveillance purposes[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Circumvention and software updates[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## Article 7. Circumvention and software updates[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Benchmarks[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## Article 8. Benchmarks[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Review[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## Article 9. Review[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Repeal[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## Article 10. Repeal[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Amendment to Regulation (EC) No 641/2009[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## Article 11. Amendment to Regulation (EC) No 641/2009[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Entry into force and application[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## Article 12. Entry into force and application[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e92cf8e69e091668ea2abc425f8f0d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e92cf8e69e091668ea2abc425f8f0d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — ECODESIGN REQUIREMENTS FOR MOTORS AND VARIABLE SPEED DRIVES[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## ANNEX I — ECODESIGN REQUIREMENTS FOR MOTORS AND VARIABLE SPEED DRIVES[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
-[^key-3e92cf8e69e091668ea2abc425f8f0d4]1.
+[^c-3e92cf8e69e091668ea2abc425f8f0d4]1.
 
 ENERGY EFFICIENCY REQUIREMENTS FOR MOTORS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e92cf8e69e091668ea2abc425f8f0d4]2.
+[^c-3e92cf8e69e091668ea2abc425f8f0d4]2.
 
 PRODUCT INFORMATION REQUIREMENTS FOR MOTORS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e92cf8e69e091668ea2abc425f8f0d4]3.
+[^c-3e92cf8e69e091668ea2abc425f8f0d4]3.
 
 EFFICIENCY REQUIREMENTS FOR VARIABLE SPEED DRIVES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e92cf8e69e091668ea2abc425f8f0d4]4.
+[^c-3e92cf8e69e091668ea2abc425f8f0d4]4.
 
 PRODUCT INFORMATION REQUIREMENTS FOR VARIABLE SPEED DRIVES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — MEASUREMENT METHODS AND CALCULATIONS[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## ANNEX II — MEASUREMENT METHODS AND CALCULATIONS[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
-[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
 For the purposes of compliance and verification of compliance with the requirements of this Regulation, measurements and calculations shall be made using harmonised standards the reference numbers of which have been published for this purpose in the *Official Journal of the European Union,* or other reliable, accurate and reproducible methods, which take into account the generally recognised state-of-the-art, and in line with the following provisions:
 
-[^key-3e92cf8e69e091668ea2abc425f8f0d4]1.
+[^c-3e92cf8e69e091668ea2abc425f8f0d4]1.
 
 **FOR MOTORS**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e92cf8e69e091668ea2abc425f8f0d4]2.
+[^c-3e92cf8e69e091668ea2abc425f8f0d4]2.
 
 **FOR VARIABLE SPEED DRIVES**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — VERIFICATION PROCEDURE FOR MARKET SURVEILLANCE PURPOSES[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## ANNEX III — VERIFICATION PROCEDURE FOR MARKET SURVEILLANCE PURPOSES[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — BENCHMARKS[^key-3e92cf8e69e091668ea2abc425f8f0d4]
+## ANNEX IV — BENCHMARKS[^c-3e92cf8e69e091668ea2abc425f8f0d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e92cf8e69e091668ea2abc425f8f0d4]: Textual amendment: Regulation revoked (1.7.2021) by [The Ecodesign for Energy Related Products and Energy Information Regulations 2021 (S.I. 2021/745)](https://www.legislation.gov.uk/uksi/2021/745), [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2021/745/regulation/1/2/g), [Sch. 29 para. 6](https://www.legislation.gov.uk/uksi/2021/745/schedule/29/paragraph/6) (with [reg. 52](https://www.legislation.gov.uk/uksi/2021/745/regulation/52))
+[^c-3e92cf8e69e091668ea2abc425f8f0d4]: Textual amendment: Regulation revoked (1.7.2021) by [The Ecodesign for Energy Related Products and Energy Information Regulations 2021 (S.I. 2021/745)](https://www.legislation.gov.uk/uksi/2021/745), [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2021/745/regulation/1/2/g), [Sch. 29 para. 6](https://www.legislation.gov.uk/uksi/2021/745/schedule/29/paragraph/6) (with [reg. 52](https://www.legislation.gov.uk/uksi/2021/745/regulation/52))

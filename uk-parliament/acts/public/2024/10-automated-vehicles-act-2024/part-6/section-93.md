@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Provision of information about traffic regulation measures[^key-58ae99a9618957a83d538e99eb48463b][^key-9f8825cf7795f24eaf2048b4d135f38b]
+## 93. Provision of information about traffic regulation measures[^c-58ae99a9618957a83d538e99eb48463b][^c-9f8825cf7795f24eaf2048b4d135f38b]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-58ae99a9618957a83d538e99eb48463b]: Commencement: S. 93 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-58ae99a9618957a83d538e99eb48463b]: Commencement: S. 93 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-9f8825cf7795f24eaf2048b4d135f38b]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2024/10/section/93) in force at 15.5.2026 by [S.I. 2026/437](https://www.legislation.gov.uk/uksi/2026/437), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/437/regulation/2/b)
+[^c-9f8825cf7795f24eaf2048b4d135f38b]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2024/10/section/93) in force at 15.5.2026 by [S.I. 2026/437](https://www.legislation.gov.uk/uksi/2026/437), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/437/regulation/2/b)

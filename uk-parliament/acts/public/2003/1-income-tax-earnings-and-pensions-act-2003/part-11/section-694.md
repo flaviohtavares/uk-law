@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If a non-cash voucher to which this section applies is received by an employee, the employer is to be treated, for the purposes of PAYE regulations, as making a payment of PAYE income of the employee of an amount equal to the amount ascertained under section 87(2) or 87A(4)[^key-96342493cb000feec6e138680546aa9d] (benefit of non-cash voucher treated as earnings).
+(1) If a non-cash voucher to which this section applies is received by an employee, the employer is to be treated, for the purposes of PAYE regulations, as making a payment of PAYE income of the employee of an amount equal to the amount ascertained under section 87(2) or 87A(4)[^c-96342493cb000feec6e138680546aa9d] (benefit of non-cash voucher treated as earnings).
 
 (2) This section applies to a non-cash voucher to which Chapter 4 of Part 3 (taxable benefits: vouchers and credit-tokens) applies if—
 
@@ -51,4 +51,4 @@ is to be treated for the purposes of this section as having been received by the
 
 ## Annotations
 
-[^key-96342493cb000feec6e138680546aa9d]: Textual amendment: Words in [s. 694(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/694/1) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 58](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/58)
+[^c-96342493cb000feec6e138680546aa9d]: Textual amendment: Words in [s. 694(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/694/1) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 58](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/58)

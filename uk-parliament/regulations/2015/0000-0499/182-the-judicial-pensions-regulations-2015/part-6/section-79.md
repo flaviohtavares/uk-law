@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Restriction on total amount of pension that may be allocated[^key-c788ae5773c03326390f95b77c19cec4]
+## 79. Restriction on total amount of pension that may be allocated[^c-c788ae5773c03326390f95b77c19cec4]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c788ae5773c03326390f95b77c19cec4]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2015/182/regulation/79) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-c788ae5773c03326390f95b77c19cec4]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2015/182/regulation/79) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
 [^f00036]: Footnote: Paragraph 15(3) of Schedule 28 was amended by [S.I. 2005/3229](https://www.legislation.gov.uk/uksi/2005/3229).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 101. Meaning of “surviving partner”[^key-4259aa4335c42d44c2f58b3e255fa1e6]
+## 101. Meaning of “surviving partner”[^c-4259aa4335c42d44c2f58b3e255fa1e6]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4259aa4335c42d44c2f58b3e255fa1e6]: Textual amendment: [Reg. 101](https://www.legislation.gov.uk/nisr/2014/290/regulation/101) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [31](https://www.legislation.gov.uk/nisr/2022/67/regulation/31)
+[^c-4259aa4335c42d44c2f58b3e255fa1e6]: Textual amendment: [Reg. 101](https://www.legislation.gov.uk/nisr/2014/290/regulation/101) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [31](https://www.legislation.gov.uk/nisr/2022/67/regulation/31)

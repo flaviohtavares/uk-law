@@ -36,156 +36,156 @@ on the submission of statistical data on landings of fishery products in Member 
 
 (Text with EEA relevance) (revoked)
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Definitions[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Obligations of the Member States[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
+## Article 1. Definitions[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Compilation of statistical data[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
+## Article 2. Obligations of the Member States[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Statistical data[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
+## Article 3. Compilation of statistical data[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Submission of statistical data[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
+## Article 4. Statistical data[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Methodology[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
+## Article 5. Submission of statistical data[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Transitional periods[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
+## Article 6. Methodology[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Derogations[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
+## Article 7. Transitional periods[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Technical amendments to the Annexes[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
+## Article 8. Derogations[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Assessment[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
+## Article 9. Technical amendments to the Annexes[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10a. Exercise of the delegation[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
+## Article 10. Assessment[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Committee procedure[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
+## Article 10a. Exercise of the delegation[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Repeal[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
+## Article 11. Committee procedure[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Entry into force[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
+## Article 12. Repeal[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I — FORMAT OF STATISTICAL DATA SUBMITTED[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
-
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]Statistical data file format
+## Article 13. Entry into force[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — LIST OF COUNTRY CODES[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — FORMAT OF STATISTICAL DATA SUBMITTED[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
+
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]Statistical data file format
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — LIST OF PRESENTATION CODES[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
-
-### Part A[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
-
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]List
+## ANNEX II — LIST OF COUNTRY CODES[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part B[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
+## ANNEX III — LIST OF PRESENTATION CODES[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]Notes
+### Part A[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]1.
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]List
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]2.
+### Part B[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
+
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]Notes
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]3.
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]4.
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]5.
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]6.
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — LIST OF CODES FOR INTENDED USE OF FISHERY PRODUCTS[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
-
-### Part A[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
-
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]List
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part B[^key-3a5ee47ff30cefc402de4a8a005dd7bb]
-
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]Notes
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]1.
+## ANNEX IV — LIST OF CODES FOR INTENDED USE OF FISHERY PRODUCTS[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
+
+### Part A[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
+
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]List
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]2.
+### Part B[^c-3a5ee47ff30cefc402de4a8a005dd7bb]
+
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]Notes
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]3.
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]4.
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]5.
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]6.
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]7.
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]6.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3a5ee47ff30cefc402de4a8a005dd7bb]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 93](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/93); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a5ee47ff30cefc402de4a8a005dd7bb]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 93](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/93); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

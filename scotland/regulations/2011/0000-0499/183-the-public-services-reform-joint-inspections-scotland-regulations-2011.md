@@ -44,11 +44,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 133 of that Act a draft of this instrument has been laid before, and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-c47fcf1f7ea0641b476115fe92f3e7d5]
+## 1. Citation and commencement[^c-c47fcf1f7ea0641b476115fe92f3e7d5]
 
 These Regulations may be cited as the Public Services Reform (Joint Inspections) (Scotland) Regulations 2011 and come into force on 1st April 2011.
 
-## 2. Interpretation[^key-84851ffc65de9e239be26045d821b70b]
+## 2. Interpretation[^c-84851ffc65de9e239be26045d821b70b]
 
 (1) In these Regulations—
 
@@ -64,11 +64,11 @@ These Regulations may be cited as the Public Services Reform (Joint Inspections)
 - (a) to the provision of a service includes the management, organisation or co-ordination of a service; and
 - (b) to a section is a reference to that section of the Act except where otherwise indicated.
 
-## 3. Authorised persons[^key-f189caa86d3a642fb40e87d372b2e0dc]
+## 3. Authorised persons[^c-f189caa86d3a642fb40e87d372b2e0dc]
 
 Any person authorised by a person or body listed in section 115(6) to carry out a joint inspection is an authorised person.
 
-## 4. Exercise of the power of entry and inspection[^key-a8631f40fae110e121527f4dcdc6f687]
+## 4. Exercise of the power of entry and inspection[^c-a8631f40fae110e121527f4dcdc6f687]
 
 (1) An authorised person carrying out a joint inspection may at any time enter and inspect premises which are used, or which the authorised person has reasonable cause to believe may be used for the purpose of providing a service.
 
@@ -77,7 +77,7 @@ Any person authorised by a person or body listed in section 115(6) to carry out 
 - (a) require any person to afford such facilities and assistance with respect to matters within the person’s control as are necessary to enable the authorised person to exercise the powers under paragraph (1); and
 - (b) take such measurements, photographs and recordings as the authorised person considers necessary or expedient for the purposes of the inspection.
 
-## 5. Power to require information[^key-22e4df02c3dd881e53aea3b79c2c2fb8]
+## 5. Power to require information[^c-22e4df02c3dd881e53aea3b79c2c2fb8]
 
 (1) If an authorised person considers it necessary or expedient for the purposes of the joint inspection, the authorised person may—
 
@@ -91,7 +91,7 @@ Any person authorised by a person or body listed in section 115(6) to carry out 
 
 (3) When inspecting information an authorised person is entitled to have access to any computer and associated apparatus or material which is or has been used in connection with that information.
 
-## 6. Explanation of information[^key-cfd8a961c0500c7d92cf85c215f9b8f5]
+## 6. Explanation of information[^c-cfd8a961c0500c7d92cf85c215f9b8f5]
 
 (1) If an authorised person considers it necessary or expedient for the purposes of a joint inspection, the authorised person may require a person falling within the description in paragraph (2) to explain any information inspected, copied, removed or provided in the course of the inspection.
 
@@ -100,7 +100,7 @@ Any person authorised by a person or body listed in section 115(6) to carry out 
 - (a) responsible for compiling or holding the information;
 - (b) making use of the information.
 
-## 7. Interviews and examinations[^key-e9296699fd96b76d87e96cf2de80df0d]
+## 7. Interviews and examinations[^c-e9296699fd96b76d87e96cf2de80df0d]
 
 An authorised person may conduct any interview or examination with regard to the following matters if authorised person considers it necessary or expedient for the purposes of carrying out an inspection:—
 
@@ -136,14 +136,14 @@ An authorised person may conduct any interview or examination with regard to the
 - “continuing attorney” has the same meaning as in section 15 (creation of continuing power of attorney) of the Adults with Incapacity (Scotland) Act 2000[^f00002];
 - “guardian” means a guardian appointed under section 58 (disposal of application) of the Adults with Incapacity (Scotland) Act 2000;
 - “registered dentist” means a person registered in the register maintained under section 14 (the dentists register and the registrar) of the Dentists Act 1984[^f00003];
-- “registered nurse” means an individual registered in the register maintained under article 5 (establishment and maintenance of the register) of the Nursing and Midwifery[^key-0ca31e80f813d26dfe11ec9ce414f07d] Order 2001[^f00004] by virtue of qualifications in nursing;
+- “registered nurse” means an individual registered in the register maintained under article 5 (establishment and maintenance of the register) of the Nursing and Midwifery[^c-0ca31e80f813d26dfe11ec9ce414f07d] Order 2001[^f00004] by virtue of qualifications in nursing;
 - “welfare attorney” has the same meaning as in section 16 (creation and exercise of welfare power of attorney) of the Adults with Incapacity (Scotland) Act 2000.
 
-## 8. Authorised persons: duty to prove authorisation[^key-7ab3cfe30cfc427a88b393edf80633cc]
+## 8. Authorised persons: duty to prove authorisation[^c-7ab3cfe30cfc427a88b393edf80633cc]
 
 An authorised person must, on request, produce a document from the appropriate body or person listed in section 115(6) (joint inspections) confirming the person is authorised to carry out the inspection.
 
-## 9. Disposal of personal records[^key-1b55caa4073f2c8087da5d2ea5daf71c]
+## 9. Disposal of personal records[^c-1b55caa4073f2c8087da5d2ea5daf71c]
 
 (1) If an authorised person is in possession of personal records obtained for the purposes of a joint inspection which are no longer required for those purposes, the authorised person must, not later than the date specified in paragraph (2)—
 
@@ -158,7 +158,7 @@ An authorised person must, on request, produce a document from the appropriate b
 
 (3) For the purposes of paragraph (2)(c) “proceedings” means proceedings under the Act or any other enactment, before any court or tribunal, if those proceedings are connected to the service or subject to the joint inspection mentioned in paragraph (1).
 
-## 10. Information sharing[^key-ba65f43e39a5449d6f17362ca7c53617]
+## 10. Information sharing[^c-ba65f43e39a5449d6f17362ca7c53617]
 
 (1) An authorised person may share information obtained for the purpose of a joint inspection with any other authorised person (including a person authorised by another person or body) but only for the purposes of a joint inspection.
 
@@ -167,7 +167,7 @@ An authorised person must, on request, produce a document from the appropriate b
 - (a) any person or body listed in section 115(6) (joint inspections) but only to assist the carrying out of functions by that body or person; or
 - (b) any person or body directed by the Scottish Ministers to participate in the conduct of a joint inspection under section 116 (participation in joint inspections) but only to assist the carrying out of functions by that person or body.
 
-## 11. Offences[^key-99b32a4539347c2dac3997b3b4ebc6e7]
+## 11. Offences[^c-99b32a4539347c2dac3997b3b4ebc6e7]
 
 Any person who—
 
@@ -212,32 +212,32 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00001]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-c47fcf1f7ea0641b476115fe92f3e7d5]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
+[^c-c47fcf1f7ea0641b476115fe92f3e7d5]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
 
-[^key-84851ffc65de9e239be26045d821b70b]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
+[^c-84851ffc65de9e239be26045d821b70b]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
 
-[^key-f189caa86d3a642fb40e87d372b2e0dc]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
+[^c-f189caa86d3a642fb40e87d372b2e0dc]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
 
-[^key-a8631f40fae110e121527f4dcdc6f687]: Commencement: Reg. 4 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
+[^c-a8631f40fae110e121527f4dcdc6f687]: Commencement: Reg. 4 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
 
-[^key-22e4df02c3dd881e53aea3b79c2c2fb8]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
+[^c-22e4df02c3dd881e53aea3b79c2c2fb8]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
 
-[^key-cfd8a961c0500c7d92cf85c215f9b8f5]: Commencement: Reg. 6 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
+[^c-cfd8a961c0500c7d92cf85c215f9b8f5]: Commencement: Reg. 6 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
 
-[^key-e9296699fd96b76d87e96cf2de80df0d]: Commencement: Reg. 7 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
+[^c-e9296699fd96b76d87e96cf2de80df0d]: Commencement: Reg. 7 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
 
 [^f00002]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
 [^f00003]: Footnote: [1984 c.24](https://www.legislation.gov.uk/ukpga/1984/24).
 
-[^key-0ca31e80f813d26dfe11ec9ce414f07d]: Textual amendment: Words in [reg. 7(7)](https://www.legislation.gov.uk/ssi/2011/183/regulation/7/7) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2011/211/schedule/3/paragraph/2)
+[^c-0ca31e80f813d26dfe11ec9ce414f07d]: Textual amendment: Words in [reg. 7(7)](https://www.legislation.gov.uk/ssi/2011/183/regulation/7/7) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2011/211/schedule/3/paragraph/2)
 
 [^f00004]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253).
 
-[^key-7ab3cfe30cfc427a88b393edf80633cc]: Commencement: Reg. 8 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
+[^c-7ab3cfe30cfc427a88b393edf80633cc]: Commencement: Reg. 8 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
 
-[^key-1b55caa4073f2c8087da5d2ea5daf71c]: Commencement: Reg. 9 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
+[^c-1b55caa4073f2c8087da5d2ea5daf71c]: Commencement: Reg. 9 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
 
-[^key-ba65f43e39a5449d6f17362ca7c53617]: Commencement: Reg. 10 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
+[^c-ba65f43e39a5449d6f17362ca7c53617]: Commencement: Reg. 10 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
 
-[^key-99b32a4539347c2dac3997b3b4ebc6e7]: Commencement: Reg. 11 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)
+[^c-99b32a4539347c2dac3997b3b4ebc6e7]: Commencement: Reg. 11 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/183/regulation/1)

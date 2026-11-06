@@ -28,21 +28,21 @@ summary: ''
 
 PETROLEUM
 
-The Petroleum (Production) (Landward Areas) Regulations 1995 *(affected by repeal, see note)*[^key-cd3b46a11fde6ac5710a965753364bb2]
+The Petroleum (Production) (Landward Areas) Regulations 1995 *(affected by repeal, see note)*[^c-cd3b46a11fde6ac5710a965753364bb2]
 
-Made *(affected by repeal, see note)*[^key-cd3b46a11fde6ac5710a965753364bb2]
+Made *(affected by repeal, see note)*[^c-cd3b46a11fde6ac5710a965753364bb2]
 
-25th May 1995 *(affected by repeal, see note)*[^key-cd3b46a11fde6ac5710a965753364bb2]
+25th May 1995 *(affected by repeal, see note)*[^c-cd3b46a11fde6ac5710a965753364bb2]
 
-Laid before Parliament *(affected by repeal, see note)*[^key-cd3b46a11fde6ac5710a965753364bb2]
+Laid before Parliament *(affected by repeal, see note)*[^c-cd3b46a11fde6ac5710a965753364bb2]
 
-6th June 1995 *(affected by repeal, see note)*[^key-cd3b46a11fde6ac5710a965753364bb2]
+6th June 1995 *(affected by repeal, see note)*[^c-cd3b46a11fde6ac5710a965753364bb2]
 
-Coming into force *(affected by repeal, see note)*[^key-cd3b46a11fde6ac5710a965753364bb2]
+Coming into force *(affected by repeal, see note)*[^c-cd3b46a11fde6ac5710a965753364bb2]
 
-30th June 1995 *(affected by repeal, see note)*[^key-cd3b46a11fde6ac5710a965753364bb2]
+30th June 1995 *(affected by repeal, see note)*[^c-cd3b46a11fde6ac5710a965753364bb2]
 
-The Secretary of State, in exercise of the powers conferred by section 6(1) of the Petroleum (Production) Act 1934 *(affected by repeal, see note)*[^key-cd3b46a11fde6ac5710a965753364bb2][^f00001] and now vested in him *(affected by repeal, see note)*[^key-cd3b46a11fde6ac5710a965753364bb2][^f00002] hereby makes the following Regulations:— *(affected by repeal, see note)*[^key-cd3b46a11fde6ac5710a965753364bb2]
+The Secretary of State, in exercise of the powers conferred by section 6(1) of the Petroleum (Production) Act 1934 *(affected by repeal, see note)*[^c-cd3b46a11fde6ac5710a965753364bb2][^f00001] and now vested in him *(affected by repeal, see note)*[^c-cd3b46a11fde6ac5710a965753364bb2][^f00002] hereby makes the following Regulations:— *(affected by repeal, see note)*[^c-cd3b46a11fde6ac5710a965753364bb2]
 
 ## Contents
 
@@ -67,13 +67,13 @@ The Secretary of State, in exercise of the powers conferred by section 6(1) of t
 
 *Extent: E+W+S+N.I.*
 
-Tim Egger, *(affected by repeal, see note)*[^key-cd3b46a11fde6ac5710a965753364bb2]
+Tim Egger, *(affected by repeal, see note)*[^c-cd3b46a11fde6ac5710a965753364bb2]
 
-Minister for Industry and Energy, *(affected by repeal, see note)*[^key-cd3b46a11fde6ac5710a965753364bb2]
+Minister for Industry and Energy, *(affected by repeal, see note)*[^c-cd3b46a11fde6ac5710a965753364bb2]
 
-Department of Trade and Industry *(affected by repeal, see note)*[^key-cd3b46a11fde6ac5710a965753364bb2]
+Department of Trade and Industry *(affected by repeal, see note)*[^c-cd3b46a11fde6ac5710a965753364bb2]
 
-25th May 1995 *(affected by repeal, see note)*[^key-cd3b46a11fde6ac5710a965753364bb2]
+25th May 1995 *(affected by repeal, see note)*[^c-cd3b46a11fde6ac5710a965753364bb2]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,7 +93,7 @@ The model clauses for a supplementary seismic survey licence are now contained i
 
 ## Annotations
 
-[^key-cd3b46a11fde6ac5710a965753364bb2]: Textual amendment: Regulations (except reg. 9(2)(c), Sch. 5) cease to have effect (for specified purposes) (30.6.2015) by [The Petroleum Licensing (Applications) Regulations 2015 (S.I. 2015/766)](https://www.legislation.gov.uk/uksi/2015/766), [regs. 1](https://www.legislation.gov.uk/uksi/2015/766/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/766/regulation/3) (with [reg. 4(7)](https://www.legislation.gov.uk/uksi/2015/766/regulation/4/7))
+[^c-cd3b46a11fde6ac5710a965753364bb2]: Textual amendment: Regulations (except reg. 9(2)(c), Sch. 5) cease to have effect (for specified purposes) (30.6.2015) by [The Petroleum Licensing (Applications) Regulations 2015 (S.I. 2015/766)](https://www.legislation.gov.uk/uksi/2015/766), [regs. 1](https://www.legislation.gov.uk/uksi/2015/766/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/766/regulation/3) (with [reg. 4(7)](https://www.legislation.gov.uk/uksi/2015/766/regulation/4/7))
 
 [^f00001]: Footnote: [1934 c. 36](https://www.legislation.gov.uk/ukpga/1934/36); section 1(2) was amended by section 19(1) of the Petroleum Act [1987 (c. 12)](https://www.legislation.gov.uk/ukpga/1987/12); section 6 was extended by section 1(3) of the Continental Shelf Act [1964 (c. 29)](https://www.legislation.gov.uk/ukpga/1964/29).
 

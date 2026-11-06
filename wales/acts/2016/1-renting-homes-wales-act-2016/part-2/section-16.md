@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Introductory standard contracts[^key-56187bd7ea191aa11141ee9321a2efc3]
+## 16. Introductory standard contracts[^c-56187bd7ea191aa11141ee9321a2efc3]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56187bd7ea191aa11141ee9321a2efc3]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2016/1/section/16) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-56187bd7ea191aa11141ee9321a2efc3]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2016/1/section/16) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

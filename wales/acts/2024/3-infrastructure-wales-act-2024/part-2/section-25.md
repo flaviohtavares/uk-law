@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Directions under section 22 to 24: general provision[^key-3a17363a78d4b2ab70eb8e4c26e766ad][^key-1a340cb6a4ca0145d565a45d0a472baf]
+## 25. Directions under section 22 to 24: general provision[^c-3a17363a78d4b2ab70eb8e4c26e766ad][^c-1a340cb6a4ca0145d565a45d0a472baf]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a17363a78d4b2ab70eb8e4c26e766ad]: Commencement: S. 25 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-3a17363a78d4b2ab70eb8e4c26e766ad]: Commencement: S. 25 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-1a340cb6a4ca0145d565a45d0a472baf]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2024/3/section/25) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-1a340cb6a4ca0145d565a45d0a472baf]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2024/3/section/25) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

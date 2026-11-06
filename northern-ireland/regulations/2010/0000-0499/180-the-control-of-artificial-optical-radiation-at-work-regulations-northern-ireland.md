@@ -46,7 +46,7 @@ The Regulations give effect without modifications to proposals submitted to it b
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears to the Department of Enterprise, Trade and Investment that it is expedient for references in these Regulations to Annexes to Directive [2006/25/EC](https://www.legislation.gov.uk/european/directive/2006/0025)[^f00008] of the European Parliament and of the Council on the minimum health and safety requirements regarding the exposure of workers to risks arising from physical agents (artificial optical radiation) (19th individual Directive within the meaning of Article 16(1) of Directive [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391))[^f00009] to be construed as including references to those Annexes as amended from time to time.
 
-## 1. Citation, commencement and interpretation[^key-abca0df20619a55308e58d62f7272d0a]
+## 1. Citation, commencement and interpretation[^c-abca0df20619a55308e58d62f7272d0a]
 
 (1) These Regulations may be cited as the Control of Artificial Optical Radiation at Work Regulations (Northern Ireland) 2010 and shall come into operation on 14th June 2010.
 
@@ -74,7 +74,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00012] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 2. Application[^key-fd25e83f8fce3cca8bd9b2db118a9bc6]
+## 2. Application[^c-fd25e83f8fce3cca8bd9b2db118a9bc6]
 
 (1) Where a duty is placed by these Regulations on an employer in respect of its employees, the employer shall, so far as is reasonably practicable, be under a like duty in respect of any other person at work who may be affected by the work carried out by the employer except that the duties of the employer—
 
@@ -83,7 +83,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (2) These Regulations do not apply to the master of a crew of a ship or the employer of such persons in respect of the normal shipboard activities of a ship’s crew which are carried out solely by the crew under the direction of the master, and for the purposes of this paragraph “ship” includes every description of vessel used in navigation, other than a ship forming part of Her Majesty’s Navy.
 
-## 3. Assessment of the risk of adverse health effects to the eyes or skin created by exposure to artificial optical radiation at the workplace[^key-ba0a93b50b61801b1bad5e5986c69303]
+## 3. Assessment of the risk of adverse health effects to the eyes or skin created by exposure to artificial optical radiation at the workplace[^c-ba0a93b50b61801b1bad5e5986c69303]
 
 (1) Where—
 
@@ -112,7 +112,7 @@ the employer shall make a suitable and sufficient assessment of that risk for th
 - (g) appropriate information obtained from health surveillance, including where possible published information;
 - (h) multiple sources of exposure;
 - (i) any class 3B or 4 laser that is classified in accordance with the relevant IEC standard that is in use by the employer and any artificial optical radiation source that is capable of presenting the same level of hazard; and
-- (j) information provided by the manufacturers of artificial optical radiation sources and associated work equipment in accordance with the relevant European Union Directives (as they had effect immediately before IP completion day)[^key-3bbfe1d46c1b78db4ba58ec83fef7b0c] .
+- (j) information provided by the manufacturers of artificial optical radiation sources and associated work equipment in accordance with the relevant European Union Directives (as they had effect immediately before IP completion day)[^c-3bbfe1d46c1b78db4ba58ec83fef7b0c] .
 
 (6) The risk assessment shall be reviewed regularly if—
 
@@ -133,7 +133,7 @@ the employer shall make a suitable and sufficient assessment of that risk for th
 
 (9) In paragraph (5)(a) “level” means the combination of irradiance, radiant exposure and radiance to which an employee is exposed.
 
-## 4. Obligations to eliminate or reduce risks[^key-2bae5f8647bfd51540fe9c91d8ea8433]
+## 4. Obligations to eliminate or reduce risks[^c-2bae5f8647bfd51540fe9c91d8ea8433]
 
 (1) An employer shall ensure that any risk of adverse health effects to the eyes or skin of employees as a result of exposure to artificial optical radiation which is identified in the risk assessment is eliminated or, where this is not reasonably practicable, reduced to as low a level as is reasonably practicable.
 
@@ -150,7 +150,7 @@ the employer shall make a suitable and sufficient assessment of that risk for th
 - (e) the design and layout of workplaces and workstations;
 - (f) limitation of the duration and level of the exposure;
 - (g) the availability of personal protective equipment;
-- (h) the instructions of the manufacturer of the equipment where it is covered by relevant European Union Directives (as they had effect immediately before IP completion day)[^key-bc1db582c3b754445a4035869db1ab5d] ; and
+- (h) the instructions of the manufacturer of the equipment where it is covered by relevant European Union Directives (as they had effect immediately before IP completion day)[^c-bc1db582c3b754445a4035869db1ab5d] ; and
 - (i) the requirements of employees belonging to particularly sensitive risk groups.
 
 (5) If, despite the measures taken under paragraphs (1) and (3), employees are still exposed to levels of artificial optical radiation that exceed the exposure limit values, the employer shall take immediate action to—
@@ -166,7 +166,7 @@ the employer shall make a suitable and sufficient assessment of that risk for th
 - (a) demarcated and access by the employees to those areas is restricted so far as is reasonably practicable; and
 - (b) identified by means of the appropriate signs as specified in the Health and Safety (Safety Signs and Signals) Regulations (Northern Ireland) 1996[^f00013].
 
-## 5. Information and training[^key-545e0a1fefe213157201c069759690a9]
+## 5. Information and training[^c-545e0a1fefe213157201c069759690a9]
 
 (1) If the risk assessment indicates that employees could be exposed to artificial optical radiation which could cause adverse health effects to the eyes or skin of employees, the employer shall provide its employees and representatives with suitable and sufficient information and training relating to the outcome of the risk assessment, and this shall include the following—
 
@@ -180,7 +180,7 @@ the employer shall make a suitable and sufficient assessment of that risk for th
 
 (2) The employer shall ensure that any person, whether or not that person is an employee, who carries out work in connection with the employer’s duties under these Regulations has suitable and sufficient information and training.
 
-## 6. Health surveillance and medical examinations[^key-0411e8ef032de6bf21aeb5e8a87e80c1]
+## 6. Health surveillance and medical examinations[^c-0411e8ef032de6bf21aeb5e8a87e80c1]
 
 (1) If the risk assessment indicates that there is a risk of adverse health effects to the skin of employees as a result of exposure to artificial optical radiation, the employer shall ensure that such employees are placed under suitable health surveillance.
 
@@ -210,7 +210,7 @@ the employer shall make a suitable and sufficient assessment of that risk for th
 - (d) review any measures taken to comply with regulation 4, taking into account any advice given by a doctor or other suitably qualified person or the enforcing authority; and
 - (e) provide continued health surveillance if appropriate.
 
-## 7. Application within the territorial sea[^key-2aa67c87753655fef8bbdb92abe7ef98]
+## 7. Application within the territorial sea[^c-2aa67c87753655fef8bbdb92abe7ef98]
 
 Within the territorial sea these Regulations shall apply only to and in relation to any activity to which any of paragraphs 2 to 8 of the Schedule applies.
 
@@ -224,7 +224,7 @@ A senior officer of the Department of Enterprise, Trade and Investment
 
 Regulation 7
 
-### 1. Interpretation[^key-556274ff29ea1f6d4cdb24e8d5199777]
+### 1. Interpretation[^c-556274ff29ea1f6d4cdb24e8d5199777]
 
 (1) In this Schedule—
 
@@ -241,7 +241,7 @@ Regulation 7
 
 (3) Any reference in this Schedule to premises and activities includes a reference to any person, article or substance on those premises or engaged in, or, as the case may be, used or for use in connection with any such activity, but does not include a reference to an aircraft which is airborne.
 
-### 2. Offshore installations[^key-79dacf910576d18b4c858ccf639f2852]
+### 2. Offshore installations[^c-79dacf910576d18b4c858ccf639f2852]
 
 (1) This paragraph shall apply to and in relation to—
 
@@ -270,7 +270,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 - (d) a mobile structure which has been taken out of use and is not yet being moved with a view to its being used for any of the purposes specified in sub-paragraph (2); and
 - (e) any part of a pipeline.
 
-### 3. Wells[^key-4a293746a4040bf9fd30fda893979f24]
+### 3. Wells[^c-4a293746a4040bf9fd30fda893979f24]
 
 (1) Subject to sub-paragraph (2), this paragraph applies to and in relation to—
 
@@ -279,7 +279,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 (2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
 
-### 4. Pipelines[^key-bb9214729769417ac7cd293daf912f50]
+### 4. Pipelines[^c-bb9214729769417ac7cd293daf912f50]
 
 (1) This paragraph applies to and in relation to—
 
@@ -311,13 +311,13 @@ together with any supplementary unit which is ordinarily connected to it, and al
   - (e) any activities incidental to the activities described in heads (a) to (d);
   - (f) a diving project in connection with any of the works mentioned in heads (a) to (e) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
 
-### 5. Mines[^key-6705a7339e0589d53cb96808df871e15]
+### 5. Mines[^c-6705a7339e0589d53cb96808df871e15]
 
 (1) This paragraph applies to and in relation to a mine within the territorial sea or extending beyond it, and any activity in connection with it, while it is being worked.
 
 (2) In this paragraph “mine” has the same meaning as in the Mines Act (Northern Ireland) 1969[^f00016].
 
-### 6. Other activities[^key-49dac02b9ffedf8c466322a994aeb38e]
+### 6. Other activities[^c-49dac02b9ffedf8c466322a994aeb38e]
 
 (1) Subject to sub-paragraph (2), this paragraph applies to and in relation to—
 
@@ -335,11 +335,11 @@ together with any supplementary unit which is ordinarily connected to it, and al
 - (a) to a case where paragraph 2, 3, 4 or 5 applies; or
 - (b) to vessels which are registered outside the United Kingdom and are on passage through the territorial sea.
 
-### 7. Other activities within a designated area[^key-cda1ec218e1da4b312a8ed2583fc3d6b]
+### 7. Other activities within a designated area[^c-cda1ec218e1da4b312a8ed2583fc3d6b]
 
 This paragraph shall apply within a designated area to and in relation to the construction, reconstruction, alteration, repair, maintenance, cleaning, use, operation, demolition and dismantling of any structure which would be an offshore installation were it not a structure to which paragraph 2(3)(c) applies, or any preparation for any such activity.
 
-### 8. Activities within a renewable energy zone[^key-269770791a2dc7b93ff8871064d3fc8d]
+### 8. Activities within a renewable energy zone[^c-269770791a2dc7b93ff8871064d3fc8d]
 
 (1) Subject to sub-paragraph (2), this paragraph shall apply within a renewable energy zone to and in relation to—
 
@@ -405,7 +405,7 @@ EXPLANATORY NOTE
 
 [^f00009]: Footnote: O.J. No. L183, 29.6.1989, p 1-8
 
-[^key-abca0df20619a55308e58d62f7272d0a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/180/regulation/1) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
+[^c-abca0df20619a55308e58d62f7272d0a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/180/regulation/1) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388) amended by [S.R. 2001 No. 348](https://www.legislation.gov.uk/nisr/2001/348), [S.R. 2003 No. 454](https://www.legislation.gov.uk/nisr/2003/454), [S.R 2006 No. 255](https://www.legislation.gov.uk/nisr/2006/255) and revoked in part by [S.R. 2007 No. 291](https://www.legislation.gov.uk/nisr/2007/291)
 
@@ -413,44 +413,44 @@ EXPLANATORY NOTE
 
 [^f00012]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33), as amended by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663)
 
-[^key-fd25e83f8fce3cca8bd9b2db118a9bc6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/180/regulation/2) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
+[^c-fd25e83f8fce3cca8bd9b2db118a9bc6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/180/regulation/2) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
 
-[^key-ba0a93b50b61801b1bad5e5986c69303]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/180/regulation/3) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
+[^c-ba0a93b50b61801b1bad5e5986c69303]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/180/regulation/3) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
 
-[^key-3bbfe1d46c1b78db4ba58ec83fef7b0c]: Textual amendment: Words in [reg. 3(5)(j)](https://www.legislation.gov.uk/nisr/2010/180/regulation/3/5/j) inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [8(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/8/2)
+[^c-3bbfe1d46c1b78db4ba58ec83fef7b0c]: Textual amendment: Words in [reg. 3(5)(j)](https://www.legislation.gov.uk/nisr/2010/180/regulation/3/5/j) inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [8(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/8/2)
 
-[^key-2bae5f8647bfd51540fe9c91d8ea8433]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/180/regulation/4) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
+[^c-2bae5f8647bfd51540fe9c91d8ea8433]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/180/regulation/4) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
 
-[^key-bc1db582c3b754445a4035869db1ab5d]: Textual amendment: Words in [reg. 4(4)(h)](https://www.legislation.gov.uk/nisr/2010/180/regulation/4/4/h) inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [8(3)](https://www.legislation.gov.uk/nisr/2020/330/regulation/8/3)
+[^c-bc1db582c3b754445a4035869db1ab5d]: Textual amendment: Words in [reg. 4(4)(h)](https://www.legislation.gov.uk/nisr/2010/180/regulation/4/4/h) inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [8(3)](https://www.legislation.gov.uk/nisr/2020/330/regulation/8/3)
 
 [^f00013]: Footnote: [S.R. 1996 No. 119](https://www.legislation.gov.uk/nisr/1996/119) amended by [S.R. 1997 No. 247](https://www.legislation.gov.uk/nisr/1997/247), [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150), [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388), [S.R. 2006 No. 173](https://www.legislation.gov.uk/nisr/2006/173) and revoked in part by [S.R. 2006 No. 1](https://www.legislation.gov.uk/nisr/2006/1)
 
-[^key-545e0a1fefe213157201c069759690a9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/180/regulation/5) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
+[^c-545e0a1fefe213157201c069759690a9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/180/regulation/5) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
 
-[^key-0411e8ef032de6bf21aeb5e8a87e80c1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/180/regulation/6) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
+[^c-0411e8ef032de6bf21aeb5e8a87e80c1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/180/regulation/6) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
 
-[^key-2aa67c87753655fef8bbdb92abe7ef98]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/180/regulation/7) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
+[^c-2aa67c87753655fef8bbdb92abe7ef98]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/180/regulation/7) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
 
-[^key-556274ff29ea1f6d4cdb24e8d5199777]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/1) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
+[^c-556274ff29ea1f6d4cdb24e8d5199777]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/1) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
 
 [^f00014]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1 was amended by the Oil and Gas (Enterprise) Act 1982 ([1982 c. 23](https://www.legislation.gov.uk/ukpga/1982/23)), Schedule 3, paragraph 1
 
 [^f00015]: Footnote: [S.R. 2005 No. 45](https://www.legislation.gov.uk/nisr/2005/45), as amended by [S.R. 2007 No. 247](https://www.legislation.gov.uk/nisr/2007/247)
 
-[^key-79dacf910576d18b4c858ccf639f2852]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/2) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
+[^c-79dacf910576d18b4c858ccf639f2852]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/2) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
 
-[^key-4a293746a4040bf9fd30fda893979f24]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/3) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
+[^c-4a293746a4040bf9fd30fda893979f24]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/3) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
 
-[^key-bb9214729769417ac7cd293daf912f50]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/4) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
+[^c-bb9214729769417ac7cd293daf912f50]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/4) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
 
-[^key-6705a7339e0589d53cb96808df871e15]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/5) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
+[^c-6705a7339e0589d53cb96808df871e15]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/5) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
 
 [^f00016]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-49dac02b9ffedf8c466322a994aeb38e]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/6) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
+[^c-49dac02b9ffedf8c466322a994aeb38e]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/6) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
 
-[^key-cda1ec218e1da4b312a8ed2583fc3d6b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/7) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
+[^c-cda1ec218e1da4b312a8ed2583fc3d6b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/7) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
 
-[^key-269770791a2dc7b93ff8871064d3fc8d]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/8) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
+[^c-269770791a2dc7b93ff8871064d3fc8d]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2010/180/schedule/paragraph/8) in operation at 14.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/180/regulation/1/1)
 
 [^f00017]: Footnote: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20).

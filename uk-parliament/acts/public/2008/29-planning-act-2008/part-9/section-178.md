@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Grants for advice and assistance: Scotland[^key-a1cbe673d453b5f6b3b5571d56a357d6]
+## 178. Grants for advice and assistance: Scotland[^c-a1cbe673d453b5f6b3b5571d56a357d6]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1cbe673d453b5f6b3b5571d56a357d6]: Commencement: S. 178 in force at 6.4.2009 by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/400/article/4/b)
+[^c-a1cbe673d453b5f6b3b5571d56a357d6]: Commencement: S. 178 in force at 6.4.2009 by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/400/article/4/b)

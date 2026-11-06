@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49D. Disclosure of information to credit reference agencies[^M_C_f1dd6c05-9410-4c82-fd70-7101d5c8ba7f][^key-7692d11c086c6e393ef7f1341827de57]
+## 49D. Disclosure of information to credit reference agencies[^M_C_f1dd6c05-9410-4c82-fd70-7101d5c8ba7f][^c-7692d11c086c6e393ef7f1341827de57]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^M_C_f1dd6c05-9410-4c82-fd70-7101d5c8ba7f]: Modification: S. 49D modified (10.6.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 59(4)](https://www.legislation.gov.uk/ukpga/2008/6/section/59/4)[(6)](https://www.legislation.gov.uk/ukpga/2008/6/section/59/6); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 2(6)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/6)
 
-[^key-7692d11c086c6e393ef7f1341827de57]: Textual amendment: S. 49D inserted (10.2.2015 for specified purposes, 23.3.2015 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 40](https://www.legislation.gov.uk/ukpga/2008/6/section/40), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2015/176](https://www.legislation.gov.uk/uksi/2015/176), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/176/article/2/a)[(b)](https://www.legislation.gov.uk/uksi/2015/176/article/2/b)
+[^c-7692d11c086c6e393ef7f1341827de57]: Textual amendment: S. 49D inserted (10.2.2015 for specified purposes, 23.3.2015 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 40](https://www.legislation.gov.uk/ukpga/2008/6/section/40), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2015/176](https://www.legislation.gov.uk/uksi/2015/176), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/176/article/2/a)[(b)](https://www.legislation.gov.uk/uksi/2015/176/article/2/b)
 
 [^M_F_300a9fd2-dbc6-442f-e536-7c16089e0500]: Textual amendment: Words in s. 49D substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 3(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/3/2), [Sch. para. 88](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/88)

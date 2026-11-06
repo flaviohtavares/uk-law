@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Meaning of “preliminary assessment”[^key-2bd813a08ad8d9abe3b255d2de22fdb0]
+## 12. Meaning of “preliminary assessment”[^c-2bd813a08ad8d9abe3b255d2de22fdb0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In this Chapter, “**preliminary assessment**” means an assessment of whether
 
 ## Annotations
 
-[^key-2bd813a08ad8d9abe3b255d2de22fdb0]: Commencement: S. 12 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-2bd813a08ad8d9abe3b255d2de22fdb0]: Commencement: S. 12 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-In this Part “**company with investment business**” has the meaning given by section 1218B[^key-df60ef781a58dfa89b129e66f6a78c09] of CTA 2009.
+In this Part “**company with investment business**” has the meaning given by section 1218B[^c-df60ef781a58dfa89b129e66f6a78c09] of CTA 2009.
 
 ## Annotations
 
-[^key-df60ef781a58dfa89b129e66f6a78c09]: Textual amendment: Words in s. 729 substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 55(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/55/c)
+[^c-df60ef781a58dfa89b129e66f6a78c09]: Textual amendment: Words in s. 729 substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 55(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/55/c)

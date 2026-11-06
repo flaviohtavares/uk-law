@@ -22,9 +22,9 @@ summary: ''
 
 (1) In respect of any sum paid by the Fund as compensation for pollution damage the Fund shall acquire by subrogation any rights in respect of the damage which the recipient has (or but for the payment would have) against any other person.
 
-(1A)[^key-f42ff48a9652364f9b58efa0113a69a2] In respect of any sum paid by the Supplementary Fund as compensation for pollution damage the Supplementary Fund shall acquire by subrogation any rights in respect of the damage which the recipient has (or but for the payment would have) against any other person.
+(1A)[^c-f42ff48a9652364f9b58efa0113a69a2] In respect of any sum paid by the Supplementary Fund as compensation for pollution damage the Supplementary Fund shall acquire by subrogation any rights in respect of the damage which the recipient has (or but for the payment would have) against any other person.
 
-(2) In respect of any sum paid by a public authority in the United Kingdom as compensation for pollution damage, that authority shall acquire by subrogation any rights which the recipient has against the Fund or the Supplementary Fund[^key-5577106afb4152106467dbba2940350b] under this Chapter.
+(2) In respect of any sum paid by a public authority in the United Kingdom as compensation for pollution damage, that authority shall acquire by subrogation any rights which the recipient has against the Fund or the Supplementary Fund[^c-5577106afb4152106467dbba2940350b] under this Chapter.
 
 ## Annotations
 
@@ -58,6 +58,6 @@ summary: ''
 
     S. 179 extended (with modifications) to Saint Helena (20.5.1998) by [S.I. 1998/1263](https://www.legislation.gov.uk/uksi/1998/1263), [art. 2](https://www.legislation.gov.uk/uksi/1998/1263/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1263/schedule)
 
-[^key-f42ff48a9652364f9b58efa0113a69a2]: Textual amendment: [S. 179(1A)](https://www.legislation.gov.uk/ukpga/1995/21/section/179/1A) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2006/1265/article/9/a)
+[^c-f42ff48a9652364f9b58efa0113a69a2]: Textual amendment: [S. 179(1A)](https://www.legislation.gov.uk/ukpga/1995/21/section/179/1A) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2006/1265/article/9/a)
 
-[^key-5577106afb4152106467dbba2940350b]: Textual amendment: Words in [s. 179(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/179/2) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2006/1265/article/9/b)
+[^c-5577106afb4152106467dbba2940350b]: Textual amendment: Words in [s. 179(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/179/2) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2006/1265/article/9/b)

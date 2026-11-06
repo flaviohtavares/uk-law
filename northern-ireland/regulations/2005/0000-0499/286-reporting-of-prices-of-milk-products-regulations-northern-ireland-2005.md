@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-Reporting of Prices of Milk Products Regulations (Northern Ireland) 2005 (revoked)[^key-d1bcacbc05a29a33cb20a00040a4fe13]
+Reporting of Prices of Milk Products Regulations (Northern Ireland) 2005 (revoked)[^c-d1bcacbc05a29a33cb20a00040a4fe13]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 1st July 2005
 
-[^key-d1bcacbc05a29a33cb20a00040a4fe13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1bcacbc05a29a33cb20a00040a4fe13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d1bcacbc05a29a33cb20a00040a4fe13]
+## 1. Citation and commencement[^c-d1bcacbc05a29a33cb20a00040a4fe13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d1bcacbc05a29a33cb20a00040a4fe13]
+## 2. Interpretation[^c-d1bcacbc05a29a33cb20a00040a4fe13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Provision of information on prices of milk products[^key-d1bcacbc05a29a33cb20a00040a4fe13]
+## 3. Provision of information on prices of milk products[^c-d1bcacbc05a29a33cb20a00040a4fe13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Offence[^key-d1bcacbc05a29a33cb20a00040a4fe13]
+## 4. Offence[^c-d1bcacbc05a29a33cb20a00040a4fe13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1bcacbc05a29a33cb20a00040a4fe13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1bcacbc05a29a33cb20a00040a4fe13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d1bcacbc05a29a33cb20a00040a4fe13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1bcacbc05a29a33cb20a00040a4fe13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1bcacbc05a29a33cb20a00040a4fe13]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/286) revoked (1.7.2008) by [Reporting of Prices of Milk Products Regulations (Northern Ireland) 2008 (S.R. 2008/240)](https://www.legislation.gov.uk/nisr/2008/240), [regs. 1](https://www.legislation.gov.uk/nisr/2008/240/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/240/regulation/5)
+[^c-d1bcacbc05a29a33cb20a00040a4fe13]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/286) revoked (1.7.2008) by [Reporting of Prices of Milk Products Regulations (Northern Ireland) 2008 (S.R. 2008/240)](https://www.legislation.gov.uk/nisr/2008/240), [regs. 1](https://www.legislation.gov.uk/nisr/2008/240/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/240/regulation/5)

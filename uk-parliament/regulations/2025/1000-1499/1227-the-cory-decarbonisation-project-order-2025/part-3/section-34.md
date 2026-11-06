@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Application of the 1981 Act[^key-e61ba941003e3878be393c2eaeaf425d]
+## 34. Application of the 1981 Act[^c-e61ba941003e3878be393c2eaeaf425d]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e61ba941003e3878be393c2eaeaf425d]: Commencement: Art. 34 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-e61ba941003e3878be393c2eaeaf425d]: Commencement: Art. 34 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
 [^f00051]: Footnote: Inserted by section 182(2) of the Housing and Planning Act 2016.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 6A — THE SPECIAL HEALTH MARK[^key-c4dd7f6b443a25d441b256bf5da36096]
+## SCHEDULE 6A — THE SPECIAL HEALTH MARK[^c-c4dd7f6b443a25d441b256bf5da36096]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ Regulation 32A
 
 ## Annotations
 
-[^key-c4dd7f6b443a25d441b256bf5da36096]: Textual amendment: Sch. 6A revoked (1.6.2014) by [The Food Hygiene (Scotland) Amendment Regulations 2014 (S.S.I. 2014/118)](https://www.legislation.gov.uk/ssi/2014/118), [regs. 1](https://www.legislation.gov.uk/ssi/2014/118/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2014/118/regulation/2/4)
+[^c-c4dd7f6b443a25d441b256bf5da36096]: Textual amendment: Sch. 6A revoked (1.6.2014) by [The Food Hygiene (Scotland) Amendment Regulations 2014 (S.S.I. 2014/118)](https://www.legislation.gov.uk/ssi/2014/118), [regs. 1](https://www.legislation.gov.uk/ssi/2014/118/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2014/118/regulation/2/4)

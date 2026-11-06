@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Determinations and findings to be made[^key-52b84e066795963a8eb130f21a7ac23c]
+## 10. Determinations and findings to be made[^c-52b84e066795963a8eb130f21a7ac23c]
 
 *Extent: E+W*
 
-(1) After considering the evidence given to[^key-4f43602d5b1ea3e08388a8faa7d35564] an inquest into a death, the senior coroner (if there is no jury) or the jury (if there is one) must—
+(1) After considering the evidence given to[^c-4f43602d5b1ea3e08388a8faa7d35564] an inquest into a death, the senior coroner (if there is no jury) or the jury (if there is one) must—
 
 - (a) make a determination as to the questions mentioned in section 5(1)(a) and (b) (read with section 5(2) where applicable), and
 - (b) if particulars are required by the 1953 Act to be registered concerning the death, make a finding as to those particulars.
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52b84e066795963a8eb130f21a7ac23c]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2009/25/section/10) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)
+[^c-52b84e066795963a8eb130f21a7ac23c]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2009/25/section/10) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)
 
-[^key-4f43602d5b1ea3e08388a8faa7d35564]: Textual amendment: Words in s. 10(1) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/40/3), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+[^c-4f43602d5b1ea3e08388a8faa7d35564]: Textual amendment: Words in s. 10(1) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/40/3), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)

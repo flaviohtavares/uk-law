@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139BA. Interaction with Audit Commission[^key-483dd8cfe65cc310a4e5a752ff1e5b74]
+## 139BA. Interaction with Audit Commission[^c-483dd8cfe65cc310a4e5a752ff1e5b74]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-483dd8cfe65cc310a4e5a752ff1e5b74]: Textual amendment: [S. 139BA](https://www.legislation.gov.uk/ukpga/1992/5/section/139BA) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 29](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/29); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-483dd8cfe65cc310a4e5a752ff1e5b74]: Textual amendment: [S. 139BA](https://www.legislation.gov.uk/ukpga/1992/5/section/139BA) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 29](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/29); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)

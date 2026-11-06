@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 169. Electronic delivery — general[^key-69a81e68bd6cf53502da696c3cb3d17e]
+## 169. Electronic delivery — general[^c-69a81e68bd6cf53502da696c3cb3d17e]
 
 *Extent: S*
 
@@ -34,12 +34,12 @@ summary: ''
 - (a) contains the notice or other document, or to which the notice or other document was attached,
 - (b) shows the time and date the electronic communication was sent and the electronic address to which it was sent.
 
-(4) Unless the contrary is shown, a document sent electronically is deemed to have been delivered to the recipient at 09.00 hours[^key-c39ffd26301e67a1364892663bbedb40] on the next business day after it was sent.
+(4) Unless the contrary is shown, a document sent electronically is deemed to have been delivered to the recipient at 09.00 hours[^c-c39ffd26301e67a1364892663bbedb40] on the next business day after it was sent.
 
 (5) Paragraph (4) does not apply in respect of notices or other documents sent electronically under Part 2.
 
 ## Annotations
 
-[^key-69a81e68bd6cf53502da696c3cb3d17e]: Commencement: Rule 169 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-69a81e68bd6cf53502da696c3cb3d17e]: Commencement: Rule 169 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
 
-[^key-c39ffd26301e67a1364892663bbedb40]: Textual amendment: Words in [rule 169(4)](https://www.legislation.gov.uk/uksi/2022/1239/rule/169/4) substituted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(14)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/14)
+[^c-c39ffd26301e67a1364892663bbedb40]: Textual amendment: Words in [rule 169(4)](https://www.legislation.gov.uk/uksi/2022/1239/rule/169/4) substituted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(14)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/14)

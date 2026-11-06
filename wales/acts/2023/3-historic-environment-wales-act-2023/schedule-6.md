@@ -22,7 +22,7 @@ summary: ''
 
 (introduced by sections 10(5), 17(6), 20(3) and 27(4))
 
-### 1. Evidence at local inquiries[^key-57a1b48c4a6afdfcbb9036247cf19a81][^key-28278d2bb4953c613d4d981eeb7b90f0]
+### 1. Evidence at local inquiries[^c-57a1b48c4a6afdfcbb9036247cf19a81][^c-28278d2bb4953c613d4d981eeb7b90f0]
 
 (1) A person appointed to hold a local inquiry under Part 2 of this Act may by summons require any person—
 
@@ -35,7 +35,7 @@ summary: ''
 
 (4) A person may not be required under this paragraph to produce the title (or any instrument relating to the title) of any land which does not belong to a local authority.
 
-### 2. Offence relating to failure to comply with summons under paragraph 1[^key-004fbd02cb8c229726061be06a5f4c02][^key-8610be78b7911a1d8366805984e7a1fe]
+### 2. Offence relating to failure to comply with summons under paragraph 1[^c-004fbd02cb8c229726061be06a5f4c02][^c-8610be78b7911a1d8366805984e7a1fe]
 
 (1) It is an offence for a person to—
 
@@ -49,7 +49,7 @@ summary: ''
 - (a) in relation to an offence committed before section 281(5) of the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) comes into force, 6 months;
 - (b) in relation to an offence committed after it comes into force, 51 weeks.
 
-### 3. Costs of certain proceedings under this Part[^key-9f11a91f90bc9b279ea4cfdce62db12f][^key-a204242e6a68ac05a0d76e8b29005b49]
+### 3. Costs of certain proceedings under this Part[^c-9f11a91f90bc9b279ea4cfdce62db12f][^c-a204242e6a68ac05a0d76e8b29005b49]
 
 (1) This paragraph applies in relation to the following proceedings—
 
@@ -78,24 +78,24 @@ summary: ''
 - (a) the entire administrative cost incurred by them in connection with the proceedings, including in particular a reasonable amount that they determine in respect of general staff costs and overheads of the Welsh Government;
 - (b) costs incurred by them (or by persons appointed by them) in respect of proceedings that do not take place.
 
-### 4. Costs of reviews held under section 9 by appointed person[^key-c071e25bb8570f7df0f1939d55d139d6][^key-b72822c770f5fb1b8308e187081465e5]
+### 4. Costs of reviews held under section 9 by appointed person[^c-c071e25bb8570f7df0f1939d55d139d6][^c-b72822c770f5fb1b8308e187081465e5]
 
 Where a review under section 9 is carried out by a person appointed by the Welsh Ministers under subsection (3) of that section, the appointed person has the same powers in relation to the review as the Welsh Ministers have under paragraph 3.
 
 ## Annotations
 
-[^key-57a1b48c4a6afdfcbb9036247cf19a81]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-57a1b48c4a6afdfcbb9036247cf19a81]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-28278d2bb4953c613d4d981eeb7b90f0]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/asc/2023/3/schedule/6/paragraph/1) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-28278d2bb4953c613d4d981eeb7b90f0]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/asc/2023/3/schedule/6/paragraph/1) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-004fbd02cb8c229726061be06a5f4c02]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-004fbd02cb8c229726061be06a5f4c02]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-8610be78b7911a1d8366805984e7a1fe]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/asc/2023/3/schedule/6/paragraph/2) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-8610be78b7911a1d8366805984e7a1fe]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/asc/2023/3/schedule/6/paragraph/2) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-9f11a91f90bc9b279ea4cfdce62db12f]: Commencement: Sch. 6 para. 3 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-9f11a91f90bc9b279ea4cfdce62db12f]: Commencement: Sch. 6 para. 3 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-a204242e6a68ac05a0d76e8b29005b49]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/asc/2023/3/schedule/6/paragraph/3) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-a204242e6a68ac05a0d76e8b29005b49]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/asc/2023/3/schedule/6/paragraph/3) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-c071e25bb8570f7df0f1939d55d139d6]: Commencement: Sch. 6 para. 4 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-c071e25bb8570f7df0f1939d55d139d6]: Commencement: Sch. 6 para. 4 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-b72822c770f5fb1b8308e187081465e5]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/asc/2023/3/schedule/6/paragraph/4) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-b72822c770f5fb1b8308e187081465e5]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/asc/2023/3/schedule/6/paragraph/4) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

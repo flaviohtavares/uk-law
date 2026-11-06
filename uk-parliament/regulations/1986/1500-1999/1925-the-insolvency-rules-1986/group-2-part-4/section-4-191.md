@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.191. Application by interested party under s.178(5)[^key-0a0c3813c6a0987dc2d1ba3a12c877c4]
+## 4.191. Application by interested party under s.178(5)[^c-0a0c3813c6a0987dc2d1ba3a12c877c4]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Where, in the case of any property, application is made to the liquidator by an 
 
 ## Annotations
 
-[^key-0a0c3813c6a0987dc2d1ba3a12c877c4]: Commencement: [Rule 4.191](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.191) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0a0c3813c6a0987dc2d1ba3a12c877c4]: Commencement: [Rule 4.191](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.191) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00105]: Marginal citation: \[FORM 4.54\]

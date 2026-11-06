@@ -39,7 +39,7 @@ Coming into force
 
 16 February 2007
 
-The National Assembly for Wales makes the following Regulations in exercise of the powers given to it by sections 13 and 105 and 106 of the Local Government Act 2000[^f00001].[^key-457cb93fc2611960d49fae7f4a85a8d4]
+The National Assembly for Wales makes the following Regulations in exercise of the powers given to it by sections 13 and 105 and 106 of the Local Government Act 2000[^f00001].[^c-457cb93fc2611960d49fae7f4a85a8d4]
 
 ## Contents
 
@@ -82,6 +82,6 @@ A regulatory appraisal has been carried out in connection with these Regulations
 
 [^f00001]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-457cb93fc2611960d49fae7f4a85a8d4]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2007/399) applied (with modifications) (28.2.2022) by [The Corporate Joint Committees (Transport Functions) (Consequential Modifications and Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/188)](https://www.legislation.gov.uk/wsi/2022/188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/188/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/188/regulation/3), [Sch. para. 3](https://www.legislation.gov.uk/wsi/2022/188/schedule/paragraph/3)
+[^c-457cb93fc2611960d49fae7f4a85a8d4]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2007/399) applied (with modifications) (28.2.2022) by [The Corporate Joint Committees (Transport Functions) (Consequential Modifications and Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/188)](https://www.legislation.gov.uk/wsi/2022/188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/188/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/188/regulation/3), [Sch. para. 3](https://www.legislation.gov.uk/wsi/2022/188/schedule/paragraph/3)
 
 [^f00011]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

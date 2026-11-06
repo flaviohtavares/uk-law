@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Amendment of regulation 207 (offences)[^key-3e3304dca962228c0111d8fc579103a6]
+## 171. Amendment of regulation 207 (offences)[^c-3e3304dca962228c0111d8fc579103a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 207(1), after “other than” insert “ Schedule 12A (further re
 
 ## Annotations
 
-[^key-3e3304dca962228c0111d8fc579103a6]: Commencement: Reg. 171 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3e3304dca962228c0111d8fc579103a6]: Commencement: Reg. 171 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

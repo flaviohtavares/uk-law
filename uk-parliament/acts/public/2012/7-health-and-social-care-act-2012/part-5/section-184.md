@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Local arrangements: power to make further provision[^key-812ca788f58c9fb12250cf191d9cbdb8][^c2191335]
+## 184. Local arrangements: power to make further provision[^c-812ca788f58c9fb12250cf191d9cbdb8][^c2191335]
 
 *Extent: E+W*
 
@@ -80,6 +80,6 @@ summary: ''
 
 ## Annotations
 
-[^key-812ca788f58c9fb12250cf191d9cbdb8]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2012/7/section/184) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-812ca788f58c9fb12250cf191d9cbdb8]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2012/7/section/184) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191335]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2012/7/section/184) partly in force; [s. 184](https://www.legislation.gov.uk/ukpga/2012/7/section/184) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

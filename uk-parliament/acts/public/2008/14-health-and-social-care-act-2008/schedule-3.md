@@ -22,21 +22,21 @@ summary: ''
 
 Section 52
 
-**1.**[^key-ade4c17464280b61accd9640e2165fe8] In this Schedule “**the MHA**” means the Mental Health Act 1983 (c. 20).
+**1.**[^c-ade4c17464280b61accd9640e2165fe8] In this Schedule “**the MHA**” means the Mental Health Act 1983 (c. 20).
 
-**2.**[^key-2fb574f709690f32457bb43f3dd938c0] In section 57 of the MHA (treatment requiring consent and a second opinion), in subsection (2)(a), for “the Secretary of State” (in both places) substitute “ the regulatory authority ”.
+**2.**[^c-2fb574f709690f32457bb43f3dd938c0] In section 57 of the MHA (treatment requiring consent and a second opinion), in subsection (2)(a), for “the Secretary of State” (in both places) substitute “ the regulatory authority ”.
 
-**3.**[^key-82660ee3ebacdaf7f6fc70828919cd53] In section 58 of the MHA (treatment requiring consent or a second opinion), in subsection (3)(a), for “the Secretary of State” substitute “ the regulatory authority ”.
+**3.**[^c-82660ee3ebacdaf7f6fc70828919cd53] In section 58 of the MHA (treatment requiring consent or a second opinion), in subsection (3)(a), for “the Secretary of State” substitute “ the regulatory authority ”.
 
-**4.**[^key-0e862e48d650ed632ff933382075b63b] (1) Section 61 of the MHA (review of treatment) is amended as follows.
+**4.**[^c-0e862e48d650ed632ff933382075b63b] (1) Section 61 of the MHA (review of treatment) is amended as follows.
 
 (2) For “the Secretary of State” (wherever occurring) substitute “ the regulatory authority ”.
 
 (3) In subsection (3), after “to him” insert “ (whether in England or Wales) ”.
 
-**5.**[^key-384632d539d78403ed148d92a88ad590] In section 64H of the MHA (certificates: supplementary provision), in subsections (4) and (5), for “appropriate national authority” substitute “ regulatory authority ”.
+**5.**[^c-384632d539d78403ed148d92a88ad590] In section 64H of the MHA (certificates: supplementary provision), in subsections (4) and (5), for “appropriate national authority” substitute “ regulatory authority ”.
 
-**6.**[^key-f015fe673a2bed63d680ce60887c6baf] (1) Section 118 of the MHA (code of practice) is amended as follows.
+**6.**[^c-f015fe673a2bed63d680ce60887c6baf] (1) Section 118 of the MHA (code of practice) is amended as follows.
 
 (2) In subsection (2), for “appointed for the purposes of this section by the Secretary of State” substitute “ appointed for the purposes of this section by the regulatory authority ”.
 
@@ -44,7 +44,7 @@ Section 52
 
 > (7) The Care Quality Commission may at any time make proposals to the Secretary of State as to the content of the code of practice which the Secretary of State must prepare, and from time to time revise, under this section in relation to England.
 
-**7.**[^key-42a1c4d42d96e79a1bb3e69c67018118] (1) Section 119 of the MHA (practitioners approved for Part 4 and section 118) is amended as follows.
+**7.**[^c-42a1c4d42d96e79a1bb3e69c67018118] (1) Section 119 of the MHA (practitioners approved for Part 4 and section 118) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -54,7 +54,7 @@ Section 52
 
 (3) In subsection (2), omit “by the Secretary of State”.
 
-**8.**[^key-59bdf910e7ed3af75d42e48d90334b74] For section 120 of the MHA substitute—
+**8.**[^c-59bdf910e7ed3af75d42e48d90334b74] For section 120 of the MHA substitute—
 
 > **120. General protection of relevant patients**
 >
@@ -93,7 +93,7 @@ Section 52
 > - (a) an establishment in respect of which a person is registered under Part 2 of the Care Standards Act 2000, or
 > - (b) premises used for the carrying on of a regulated activity (within the meaning of Part 1 of the Health and Social Care Act 2008) in respect of which a person is registered under Chapter 2 of that Part.
 
-**9.**[^c1942138][^key-20820f957b9cca66b9ca65c62ee4206a] After section 120 of the MHA insert—
+**9.**[^c1942138][^c-20820f957b9cca66b9ca65c62ee4206a] After section 120 of the MHA insert—
 
 > **120A. Investigation reports**
 >
@@ -158,13 +158,13 @@ Section 52
 > - (a) the period beginning with the date on which section 52 of the Health and Social Care Act 2008 comes into force and ending with the next 31 March following that date, and
 > - (b) each successive period of 12 months ending with 31 March.
 
-**10.**[^key-a3dc0277195add761fb60a47974c6fe7] In section 129 of the MHA (obstruction), in subsection (1), after paragraph (c) insert—
+**10.**[^c-a3dc0277195add761fb60a47974c6fe7] In section 129 of the MHA (obstruction), in subsection (1), after paragraph (c) insert—
 
 > - (ca) fails to comply with a request made under section 120C; or
 
 .
 
-**11.**[^key-7a3bbd95d5304f0671f3fe73c5e25d56] (1) Section 134 of the MHA (correspondence of patients) is amended as follows.
+**11.**[^c-7a3bbd95d5304f0671f3fe73c5e25d56] (1) Section 134 of the MHA (correspondence of patients) is amended as follows.
 
 (2) In subsection (3), after paragraph (c) insert—
 
@@ -176,7 +176,7 @@ Section 52
 
 (4) In subsection (9), after “this section” insert “ and section 134A ”.
 
-**12.**[^c1942140][^key-4be6ca7da467884540643b242ec7008e] After section 134 of the MHA insert—
+**12.**[^c1942140][^c-4be6ca7da467884540643b242ec7008e] After section 134 of the MHA insert—
 
 > **134A. Review of decisions to withhold correspondence**
 >
@@ -195,7 +195,7 @@ Section 52
 >
 > (6) The Welsh Ministers may by regulations make provision in connection with the making to them of applications under subsection (1), including provision for the production to them of any postal packet which is the subject of such an application.
 
-**13.**[^key-733373a424ef2ca8e6e1d1fea3ad28aa] In section 145 of the MHA (general interpretation), in subsection (1), insert at the appropriate place—
+**13.**[^c-733373a424ef2ca8e6e1d1fea3ad28aa] In section 145 of the MHA (general interpretation), in subsection (1), insert at the appropriate place—
 
 > “**the regulatory authority**” means—
 >
@@ -206,32 +206,32 @@ Section 52
 
 ## Annotations
 
-[^key-ade4c17464280b61accd9640e2165fe8]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/1) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
+[^c-ade4c17464280b61accd9640e2165fe8]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/1) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
 
-[^key-2fb574f709690f32457bb43f3dd938c0]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/2) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
+[^c-2fb574f709690f32457bb43f3dd938c0]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/2) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
 
-[^key-82660ee3ebacdaf7f6fc70828919cd53]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/3) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
+[^c-82660ee3ebacdaf7f6fc70828919cd53]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/3) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
 
-[^key-0e862e48d650ed632ff933382075b63b]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/4) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
+[^c-0e862e48d650ed632ff933382075b63b]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/4) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
 
-[^key-384632d539d78403ed148d92a88ad590]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/5) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
+[^c-384632d539d78403ed148d92a88ad590]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/5) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
 
-[^key-f015fe673a2bed63d680ce60887c6baf]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/6) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
+[^c-f015fe673a2bed63d680ce60887c6baf]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/6) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
 
-[^key-42a1c4d42d96e79a1bb3e69c67018118]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/7) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
+[^c-42a1c4d42d96e79a1bb3e69c67018118]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/7) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
 
-[^key-59bdf910e7ed3af75d42e48d90334b74]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/8) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
+[^c-59bdf910e7ed3af75d42e48d90334b74]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/8) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
 
 [^c1942138]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/9) partly in force; [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/9) in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-20820f957b9cca66b9ca65c62ee4206a]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/9) in force at 1.4.2009 in so far as not already in force by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
+[^c-20820f957b9cca66b9ca65c62ee4206a]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/9) in force at 1.4.2009 in so far as not already in force by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
 
-[^key-a3dc0277195add761fb60a47974c6fe7]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/10) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
+[^c-a3dc0277195add761fb60a47974c6fe7]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/10) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
 
-[^key-7a3bbd95d5304f0671f3fe73c5e25d56]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/11) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
+[^c-7a3bbd95d5304f0671f3fe73c5e25d56]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/11) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
 
 [^c1942140]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/12) partly in force; [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/12) in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-4be6ca7da467884540643b242ec7008e]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/12) in force at 1.4.2009 in so far as not already in force by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
+[^c-4be6ca7da467884540643b242ec7008e]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/12) in force at 1.4.2009 in so far as not already in force by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
 
-[^key-733373a424ef2ca8e6e1d1fea3ad28aa]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/13) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
+[^c-733373a424ef2ca8e6e1d1fea3ad28aa]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2008/14/schedule/3/paragraph/13) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/33) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))

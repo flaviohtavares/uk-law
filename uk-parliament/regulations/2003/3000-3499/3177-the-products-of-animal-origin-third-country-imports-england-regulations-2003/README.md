@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Products of Animal Origin (Third Country Imports) (England) Regulations 2003 (revoked)[^key-a8299d6b303b77beb3bedea2bcceb2de]
+The Products of Animal Origin (Third Country Imports) (England) Regulations 2003 (revoked)[^c-a8299d6b303b77beb3bedea2bcceb2de]
 
 Made
 
@@ -45,11 +45,11 @@ Coming into force
 
 31st December 2003
 
-[^key-a8299d6b303b77beb3bedea2bcceb2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8299d6b303b77beb3bedea2bcceb2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — INTRODUCTION[^key-a8299d6b303b77beb3bedea2bcceb2de]
+### PART 1 — INTRODUCTION[^c-a8299d6b303b77beb3bedea2bcceb2de]
 
 **No longer in force.**
 
@@ -57,7 +57,7 @@ Coming into force
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Exemptions](part-1/section-3.md)
 
-### PART 2 — ENFORCEMENT[^key-a8299d6b303b77beb3bedea2bcceb2de]
+### PART 2 — ENFORCEMENT[^c-a8299d6b303b77beb3bedea2bcceb2de]
 
 **No longer in force.**
 
@@ -73,7 +73,7 @@ Coming into force
 - [Section 13 — Suspension of border inspection posts](part-2/section-13.md)
 - [Section 14 — Regulatory functions of official fish inspectors](part-2/section-14.md)
 
-### PART 3 — PROVISIONS APPLICABLE TO PRODUCTS IN GENERAL[^key-a8299d6b303b77beb3bedea2bcceb2de]
+### PART 3 — PROVISIONS APPLICABLE TO PRODUCTS IN GENERAL[^c-a8299d6b303b77beb3bedea2bcceb2de]
 
 **No longer in force.**
 
@@ -92,13 +92,13 @@ Coming into force
 - [Section 27 — Invalidation of veterinary documents](part-3/section-27.md)
 - [Section 28 — Costs in respect of products redispatched or disposed of](part-3/section-28.md)
 
-### PART 4 — ON-BOARD CATERING SUPPLIES[^key-a8299d6b303b77beb3bedea2bcceb2de]
+### PART 4 — ON-BOARD CATERING SUPPLIES[^c-a8299d6b303b77beb3bedea2bcceb2de]
 
 **No longer in force.**
 
 - [Section 29 — Disposal of unused catering supplies](part-4/section-29.md)
 
-### PART 5 — BURIAL OF UNUSED ON-BOARD CATERING SUPPLIES IN LANDFILLS[^key-a8299d6b303b77beb3bedea2bcceb2de]
+### PART 5 — BURIAL OF UNUSED ON-BOARD CATERING SUPPLIES IN LANDFILLS[^c-a8299d6b303b77beb3bedea2bcceb2de]
 
 **No longer in force.**
 
@@ -107,7 +107,7 @@ Coming into force
 - [Section 32 — Amendment, suspension and revocation of approvals](part-5/section-32.md)
 - [Section 33 — Appeals](part-5/section-33.md)
 
-### PART 6 — PRODUCTS INTENDED FOR IMPORT[^key-a8299d6b303b77beb3bedea2bcceb2de]
+### PART 6 — PRODUCTS INTENDED FOR IMPORT[^c-a8299d6b303b77beb3bedea2bcceb2de]
 
 **No longer in force.**
 
@@ -117,7 +117,7 @@ Coming into force
 - [Section 37 — Products transported under supervision](part-6/section-37.md)
 - [Section 38 — Transhipment of products intended for import](part-6/section-38.md)
 
-### PART 7 — TRANSIT PRODUCTS[^key-a8299d6b303b77beb3bedea2bcceb2de]
+### PART 7 — TRANSIT PRODUCTS[^c-a8299d6b303b77beb3bedea2bcceb2de]
 
 **No longer in force.**
 
@@ -127,7 +127,7 @@ Coming into force
 - [Section 42 — Movement of transit products](part-7/section-42.md)
 - [Section 43 — Disposal of returned transit products](part-7/section-43.md)
 
-### PART 8 — PRODUCTS INTENDED FOR WAREHOUSES OR SHIPS' STORES[^key-a8299d6b303b77beb3bedea2bcceb2de]
+### PART 8 — PRODUCTS INTENDED FOR WAREHOUSES OR SHIPS' STORES[^c-a8299d6b303b77beb3bedea2bcceb2de]
 
 **No longer in force.**
 
@@ -136,7 +136,7 @@ Coming into force
 - [Section 46 — Physical check of non-conforming products](part-8/section-46.md)
 - [Section 47 — Exclusion of non-conforming products from warehouses](part-8/section-47.md)
 
-### PART 9 — PRODUCTS RETURNED FROM THIRD COUNTRIES[^key-a8299d6b303b77beb3bedea2bcceb2de]
+### PART 9 — PRODUCTS RETURNED FROM THIRD COUNTRIES[^c-a8299d6b303b77beb3bedea2bcceb2de]
 
 **No longer in force.**
 
@@ -145,7 +145,7 @@ Coming into force
 - [Section 50 — Physical check of returned products](part-9/section-50.md)
 - [Section 51 — Movement of returned products](part-9/section-51.md)
 
-### PART 10 — CHARGES FOR VETERINARY CHECKS[^key-a8299d6b303b77beb3bedea2bcceb2de]
+### PART 10 — CHARGES FOR VETERINARY CHECKS[^c-a8299d6b303b77beb3bedea2bcceb2de]
 
 **No longer in force.**
 
@@ -157,13 +157,13 @@ Coming into force
 - [Section 57 — Appeals against charges paid to local authorities](part-10/section-57.md)
 - [Section 58 — Appeals against charges paid to the Secretary of State or the Agency](part-10/section-58.md)
 
-### PART 11 — EMERGENCY DECLARATIONS[^key-a8299d6b303b77beb3bedea2bcceb2de]
+### PART 11 — EMERGENCY DECLARATIONS[^c-a8299d6b303b77beb3bedea2bcceb2de]
 
 **No longer in force.**
 
 - [Section 59 — Disease outbreaks in third countries](part-11/section-59.md)
 
-### PART 12 — OFFENCES AND PENALTIES[^key-a8299d6b303b77beb3bedea2bcceb2de]
+### PART 12 — OFFENCES AND PENALTIES[^c-a8299d6b303b77beb3bedea2bcceb2de]
 
 **No longer in force.**
 
@@ -173,14 +173,14 @@ Coming into force
 - [Section 63 — Penalties](part-12/section-63.md)
 - [Section 64 — Offences by bodies corporate](part-12/section-64.md)
 
-### PART 13 — NOTICES AND DECISIONS[^key-a8299d6b303b77beb3bedea2bcceb2de]
+### PART 13 — NOTICES AND DECISIONS[^c-a8299d6b303b77beb3bedea2bcceb2de]
 
 **No longer in force.**
 
 - [Section 65 — Service of notices](part-13/section-65.md)
 - [Section 66 — Notification of decisions](part-13/section-66.md)
 
-### PART 14 — DISAPPLICATIONS AND REVOCATIONS[^key-a8299d6b303b77beb3bedea2bcceb2de]
+### PART 14 — DISAPPLICATIONS AND REVOCATIONS[^c-a8299d6b303b77beb3bedea2bcceb2de]
 
 **No longer in force.**
 
@@ -198,14 +198,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-a8299d6b303b77beb3bedea2bcceb2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8299d6b303b77beb3bedea2bcceb2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-a8299d6b303b77beb3bedea2bcceb2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8299d6b303b77beb3bedea2bcceb2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a8299d6b303b77beb3bedea2bcceb2de]: Textual amendment: Regulations revoked (1.5.2004) by [The Products of Animal Origin (Third Country Imports) (England) Regulations 2004 (S.I. 2004/1214)](https://www.legislation.gov.uk/uksi/2004/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1214/regulation/1), [68(a)](https://www.legislation.gov.uk/uksi/2004/1214/regulation/68) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/1214/regulation/3))
+[^c-a8299d6b303b77beb3bedea2bcceb2de]: Textual amendment: Regulations revoked (1.5.2004) by [The Products of Animal Origin (Third Country Imports) (England) Regulations 2004 (S.I. 2004/1214)](https://www.legislation.gov.uk/uksi/2004/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1214/regulation/1), [68(a)](https://www.legislation.gov.uk/uksi/2004/1214/regulation/68) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/1214/regulation/3))

@@ -40,7 +40,7 @@ Coming into operation
 
 10th February 2013
 
-[^key-a8d96f3be7fb5b8623cc43063e25d051]...
+[^c-a8d96f3be7fb5b8623cc43063e25d051]...
 
 ## 1.
 
@@ -76,4 +76,4 @@ Coming into operation
 
 ## Annotations
 
-[^key-a8d96f3be7fb5b8623cc43063e25d051]: Textual amendment: Order revoked (16.2.2014) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2014 (S.R. 2014/39)](https://www.legislation.gov.uk/nisr/2014/39), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2014/39/article/1/1), [2](https://www.legislation.gov.uk/nisr/2014/39/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2014/39/article/4))
+[^c-a8d96f3be7fb5b8623cc43063e25d051]: Textual amendment: Order revoked (16.2.2014) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2014 (S.R. 2014/39)](https://www.legislation.gov.uk/nisr/2014/39), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2014/39/article/1/1), [2](https://www.legislation.gov.uk/nisr/2014/39/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2014/39/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 151. Expenses of each party[^key-764e1a5d0a886a66a607277f09877f47]
+## 151. Expenses of each party[^c-764e1a5d0a886a66a607277f09877f47]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ the scheme manager must refund to P the amount specified in paragraph (5).
 
 ## Annotations
 
-[^key-764e1a5d0a886a66a607277f09877f47]: Commencement: [Reg. 151](https://www.legislation.gov.uk/ssi/2015/19/regulation/151) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-764e1a5d0a886a66a607277f09877f47]: Commencement: [Reg. 151](https://www.legislation.gov.uk/ssi/2015/19/regulation/151) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

@@ -20,11 +20,11 @@ summary: ''
 
 **Not yet in force.**
 
-**63.**[^key-1a5476bf728c40a6e5153a0cec7b8f4e] A person (other than the owner of a several fishery within the limits thereof) shall not use for the purpose of taking or with the intent to take salmon any net—
+**63.**[^c-1a5476bf728c40a6e5153a0cec7b8f4e] A person (other than the owner of a several fishery within the limits thereof) shall not use for the purpose of taking or with the intent to take salmon any net—
 
 - (a) within or upstream of the defined mouth of the Dundrum River or in Dundrum Inner Bay; or
 - (b) within the area of Strangford Lough north west of an imaginary line drawn from Ballyquintin Point to Killard Point.
 
 ## Annotations
 
-[^key-1a5476bf728c40a6e5153a0cec7b8f4e]: Commencement: S. 63 in operation at 1.11.1997, see byelaw 1
+[^c-1a5476bf728c40a6e5153a0cec7b8f4e]: Commencement: S. 63 in operation at 1.11.1997, see byelaw 1

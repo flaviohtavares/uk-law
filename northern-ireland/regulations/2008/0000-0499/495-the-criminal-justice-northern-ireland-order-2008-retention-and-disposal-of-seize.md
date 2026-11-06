@@ -45,11 +45,11 @@ Coming into operation-
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred on him by Article 66 of the Criminal Justice (Northern Ireland) Order 2008[^f00001].
 
-## 1. Citation and commencement[^key-4ff6b925a5f0b9b86819d5d1abcd1fa5]
+## 1. Citation and commencement[^c-4ff6b925a5f0b9b86819d5d1abcd1fa5]
 
 These Regulations may be cited as the Criminal Justice (Northern Ireland) Order 2008 (Retention and Disposal of Seized Motor Vehicles) Regulations (Northern Ireland) 2008 and shall come into operation on 6 January 2009.
 
-## 2. Interpretation[^key-ff4071dcd265f4d59868c97932d78b04]
+## 2. Interpretation[^c-ff4071dcd265f4d59868c97932d78b04]
 
 In these Regulations—
 
@@ -81,7 +81,7 @@ In these Regulations—
 - “unladen” means that the vehicle is not carrying a load;
 - “working days” shall be taken to exclude Saturdays, Sundays, Christmas Day and any day which, under the Banking and Financial Dealings Act 1971[^f00005] is a bank holiday in Northern Ireland.
 
-## 3. Retention and safe keeping of motor vehicles[^key-7e7d915ec7bc0e0188a2e67d18581096]
+## 3. Retention and safe keeping of motor vehicles[^c-7e7d915ec7bc0e0188a2e67d18581096]
 
 (1) A relevant motor vehicle shall be passed into and remain in the custody of a constable or other person authorised under this regulation by the Chief Constable (“the authorised person”) until—
 
@@ -90,7 +90,7 @@ In these Regulations—
 
 (2) While the vehicle is in the custody of the authorised person, the authorised person shall be under a duty to take such steps as are reasonably necessary for its safe keeping.
 
-## 4. Giving of seizure notice[^key-db76c56e67b4b2bb714ad228c131af5f]
+## 4. Giving of seizure notice[^c-db76c56e67b4b2bb714ad228c131af5f]
 
 (1) A constable, on seizing a vehicle under Article 65 of the 2008 Order, shall give a seizure notice in accordance with this regulation to the driver of the vehicle being seized unless the circumstances make it impracticable for him to do so.
 
@@ -113,7 +113,7 @@ In these Regulations—
 - (c) By sending it in by the registered post service, addressed to him at his usual or last known address; or
 - (d) If the person is a body corporate, by delivering it to the secretary or clerk of the body at its registered or principal office, or sending it by the registered post service, addressed to the secretary or clerk of the body at that office.
 
-## 5. Release of vehicles[^key-461f383e0b99610528db11b3c3ea3635]
+## 5. Release of vehicles[^c-461f383e0b99610528db11b3c3ea3635]
 
 (1) Subject to the provisions of these Regulations, if, before a relevant motor vehicle which is disposed of by an authorised person, a person—
 
@@ -127,7 +127,7 @@ In these Regulations—
 - (a) The use by reference to which the motor vehicle in question was seized under Article 65 of the 2008 Order was not a use by him; and
 - (b) He did not know the use of the vehicle in the manner which led to its seizure, had not consented to its use in that manner and could not, by the taking of reasonable steps, have prevented its use in that manner.
 
-## 6. Charges in relation to the seizure and retention of a motor vehicle[^key-eb1906162dce1f4095871f8cde329666]
+## 6. Charges in relation to the seizure and retention of a motor vehicle[^c-eb1906162dce1f4095871f8cde329666]
 
 (1) —(1) The charge payable under regulation 5(1) shall be—
 
@@ -136,7 +136,7 @@ In these Regulations—
 
 (2) The amount payable for the removal of the vehicle shall depend upon the condition of the vehicle, the type of vehicle and whether it is on road or off road as set out in column 1 of Table 1 and shall be the charge specified in relation to that vehicle in columns 2 to 5 of that Table, the particular charge to be determined by reference to the MAM of the vehicle as described in row 1 of that Table and, for vehicles exceeding 7.5 tonnes MAM and not falling within row 2, whether the vehicle is laden or unladen.
 
-Table 1 – Regulation 6(2)[^key-efae053fc413ee7e08796d7e763dcbeb]
+Table 1 – Regulation 6(2)[^c-efae053fc413ee7e08796d7e763dcbeb]
 
 <table>
 <thead>
@@ -155,7 +155,7 @@ Table 1 – Regulation 6(2)[^key-efae053fc413ee7e08796d7e763dcbeb]
 
 (3) The amount payable for the retention of the vehicle, for each period of 24 hours or a part thereof during which the vehicle is in the custody of the authority, with regards to vehicles set out in row 1 of Table 2, shall be the charge specified in relation to those vehicles in row 2 of that table.
 
-Table 2 – Regulation 6(3)[^key-ba0ed77a1605d526e46670090cd45d8d]
+Table 2 – Regulation 6(3)[^c-ba0ed77a1605d526e46670090cd45d8d]
 
 | Two wheeled vehicle | Vehicle, not including a two wheeled vehicle, equal to or less than 3.5 tonnes MAM | Vehicle exceeding 3.5 tonnes MAM but equal to or less than 7.5 tonnes MAM | Vehicle exceeding 7.5 tonnes MAM but equal to or less than 18 tonnes MAM | Vehicle exceeding 18 tonnes MAM |
 | --- | --- | --- | --- | --- |
@@ -167,7 +167,7 @@ Table 2 – Regulation 6(3)[^key-ba0ed77a1605d526e46670090cd45d8d]
 
 (6) For the purposes of paragraph (3), each period of 24 hours shall be reckoned from noon on the first day after removal during which the place at which the vehicle is stored is open for the claiming of vehicles before noon.
 
-## 7. Disposal of motor vehicles[^key-78d8fd1093270582bfb6f8ad89859740]
+## 7. Disposal of motor vehicles[^c-78d8fd1093270582bfb6f8ad89859740]
 
 (1) Subject to paragraph (2), the authorised person may, in such manner as he thinks fit, dispose of the vehicle at any time if—
 
@@ -180,7 +180,7 @@ Table 2 – Regulation 6(3)[^key-ba0ed77a1605d526e46670090cd45d8d]
 - (b) If the period in sub-paragraph (a) has expired, until after the date specified in the seizure notice in accordance with regulation 4(4)(c); or
 - (c) If not otherwise covered by sub-paragraph (a) or (b), during the period of 7 working days starting with the date on which the vehicle is claimed under regulation 5.
 
-## 8. Payment of proceeds of sale to owner of vehicle[^key-4715aba5c18b4e6ee52a848f23928582]
+## 8. Payment of proceeds of sale to owner of vehicle[^c-4715aba5c18b4e6ee52a848f23928582]
 
 (1) Where the authorised person disposes of a motor vehicle in pursuance of these Regulations by means of sale, he shall pay the net proceeds of sale to any person who, before the end of the period of one year beginning on the date on which the vehicle is sold, satisfies the authorised person that at the time of the sale he was the owner of the vehicle.
 
@@ -218,9 +218,9 @@ Regulation 8 provides that where a vehicle is sold, the net proceeds of sale are
 
 [^f00001]: Footnote: [S.I. 2008.1216 (N.I. 1)](https://www.legislation.gov.uk/nisi/2008/1216)
 
-[^key-4ff6b925a5f0b9b86819d5d1abcd1fa5]: Commencement: Reg. 1 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)
+[^c-4ff6b925a5f0b9b86819d5d1abcd1fa5]: Commencement: Reg. 1 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)
 
-[^key-ff4071dcd265f4d59868c97932d78b04]: Commencement: Reg. 2 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)
+[^c-ff4071dcd265f4d59868c97932d78b04]: Commencement: Reg. 2 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)
 
 [^f00002]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22)
 
@@ -230,18 +230,18 @@ Regulation 8 provides that where a vehicle is sold, the net proceeds of sale are
 
 [^f00005]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
 
-[^key-7e7d915ec7bc0e0188a2e67d18581096]: Commencement: Reg. 3 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)
+[^c-7e7d915ec7bc0e0188a2e67d18581096]: Commencement: Reg. 3 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)
 
-[^key-db76c56e67b4b2bb714ad228c131af5f]: Commencement: Reg. 4 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)
+[^c-db76c56e67b4b2bb714ad228c131af5f]: Commencement: Reg. 4 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)
 
-[^key-461f383e0b99610528db11b3c3ea3635]: Commencement: Reg. 5 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)
+[^c-461f383e0b99610528db11b3c3ea3635]: Commencement: Reg. 5 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)
 
-[^key-eb1906162dce1f4095871f8cde329666]: Commencement: Reg. 6 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)
+[^c-eb1906162dce1f4095871f8cde329666]: Commencement: Reg. 6 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)
 
-[^key-efae053fc413ee7e08796d7e763dcbeb]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2008/495/regulation/6/2) Table substituted (10.11.2025) by [The Criminal Justice (Northern Ireland) Order 2008 (Retention and Disposal of Seized Motor Vehicles) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/167)](https://www.legislation.gov.uk/nisr/2025/167), [regs. 1](https://www.legislation.gov.uk/nisr/2025/167/regulation/1), [3](https://www.legislation.gov.uk/nisr/2025/167/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/nisr/2025/167/regulation/5))
+[^c-efae053fc413ee7e08796d7e763dcbeb]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2008/495/regulation/6/2) Table substituted (10.11.2025) by [The Criminal Justice (Northern Ireland) Order 2008 (Retention and Disposal of Seized Motor Vehicles) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/167)](https://www.legislation.gov.uk/nisr/2025/167), [regs. 1](https://www.legislation.gov.uk/nisr/2025/167/regulation/1), [3](https://www.legislation.gov.uk/nisr/2025/167/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/nisr/2025/167/regulation/5))
 
-[^key-ba0ed77a1605d526e46670090cd45d8d]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/nisr/2008/495/regulation/6/3) Table substituted (10.11.2025) by [The Criminal Justice (Northern Ireland) Order 2008 (Retention and Disposal of Seized Motor Vehicles) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/167)](https://www.legislation.gov.uk/nisr/2025/167), [regs. 1](https://www.legislation.gov.uk/nisr/2025/167/regulation/1), [4](https://www.legislation.gov.uk/nisr/2025/167/regulation/4) (with [reg. 5](https://www.legislation.gov.uk/nisr/2025/167/regulation/5))
+[^c-ba0ed77a1605d526e46670090cd45d8d]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/nisr/2008/495/regulation/6/3) Table substituted (10.11.2025) by [The Criminal Justice (Northern Ireland) Order 2008 (Retention and Disposal of Seized Motor Vehicles) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/167)](https://www.legislation.gov.uk/nisr/2025/167), [regs. 1](https://www.legislation.gov.uk/nisr/2025/167/regulation/1), [4](https://www.legislation.gov.uk/nisr/2025/167/regulation/4) (with [reg. 5](https://www.legislation.gov.uk/nisr/2025/167/regulation/5))
 
-[^key-78d8fd1093270582bfb6f8ad89859740]: Commencement: Reg. 7 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)
+[^c-78d8fd1093270582bfb6f8ad89859740]: Commencement: Reg. 7 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)
 
-[^key-4715aba5c18b4e6ee52a848f23928582]: Commencement: Reg. 8 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)
+[^c-4715aba5c18b4e6ee52a848f23928582]: Commencement: Reg. 8 in operation at 6.1.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/495/regulation/1)

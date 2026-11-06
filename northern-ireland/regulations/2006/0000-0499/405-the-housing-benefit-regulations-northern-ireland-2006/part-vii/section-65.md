@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Further disregard of student’s income[^key-e4a0f37a7e6d819458071c78b4bea8c3]
+## 65. Further disregard of student’s income[^c-e4a0f37a7e6d819458071c78b4bea8c3]
 
 *Extent: N.I.*
 
-Where any part of a student’s income has already been taken into account for the purposes of assessing his entitlement to a grant , student loan or postgraduate loan[^key-8cdb5e968f7ea57c0ff7fb2a67195f2e], the amount taken into account shall be disregarded in assessing that student’s income.
+Where any part of a student’s income has already been taken into account for the purposes of assessing his entitlement to a grant , student loan or postgraduate loan[^c-8cdb5e968f7ea57c0ff7fb2a67195f2e], the amount taken into account shall be disregarded in assessing that student’s income.
 
 ## Annotations
 
-[^key-e4a0f37a7e6d819458071c78b4bea8c3]: Commencement: [Reg. 65](https://www.legislation.gov.uk/nisr/2006/405/regulation/65) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-e4a0f37a7e6d819458071c78b4bea8c3]: Commencement: [Reg. 65](https://www.legislation.gov.uk/nisr/2006/405/regulation/65) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-8cdb5e968f7ea57c0ff7fb2a67195f2e]: Textual amendment: Words in [reg. 65](https://www.legislation.gov.uk/nisr/2006/405/regulation/65) substituted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/108)](https://www.legislation.gov.uk/nisr/2020/108), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/108/regulation/1/1), [5(9)](https://www.legislation.gov.uk/nisr/2020/108/regulation/5/9)
+[^c-8cdb5e968f7ea57c0ff7fb2a67195f2e]: Textual amendment: Words in [reg. 65](https://www.legislation.gov.uk/nisr/2006/405/regulation/65) substituted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/108)](https://www.legislation.gov.uk/nisr/2020/108), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/108/regulation/1/1), [5(9)](https://www.legislation.gov.uk/nisr/2020/108/regulation/5/9)

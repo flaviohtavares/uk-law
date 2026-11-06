@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-8bd4c20f1097c1ef5ed1515ef2d02dc6] In section 305 (Acts of Adjournal) of the 1995 Act, after subsection (1) there is inserted—
+(1)[^c-8bd4c20f1097c1ef5ed1515ef2d02dc6] In section 305 (Acts of Adjournal) of the 1995 Act, after subsection (1) there is inserted—
 
 > (1A) Subsection (1) above extends to making provision by Act of Adjournal for something to be done in electronic form or by electronic means.
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bd4c20f1097c1ef5ed1515ef2d02dc6]: Commencement: [S. 111(1)](https://www.legislation.gov.uk/asp/2016/1/section/111/1) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-8bd4c20f1097c1ef5ed1515ef2d02dc6]: Commencement: [S. 111(1)](https://www.legislation.gov.uk/asp/2016/1/section/111/1) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

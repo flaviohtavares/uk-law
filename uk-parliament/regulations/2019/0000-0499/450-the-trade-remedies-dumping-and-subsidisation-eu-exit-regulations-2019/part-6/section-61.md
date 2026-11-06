@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Hearing[^key-0099788fd8a7e548944fb6669556181b]
+## 61. Hearing[^c-0099788fd8a7e548944fb6669556181b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0099788fd8a7e548944fb6669556181b]: Commencement: Reg. 61 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-0099788fd8a7e548944fb6669556181b]: Commencement: Reg. 61 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

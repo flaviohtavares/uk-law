@@ -59,7 +59,7 @@ The Secretary of State has had regard to the powers and duties of the Crown Esta
 
 The Secretary of State makes this Order, in exercise of the powers conferred by section 1 of, and paragraph 6(1) of Schedule 1 to, the Act.
 
-## 1. Citation, extent, commencement and interpretation[^key-42bab403c8e09ccec9662b208f098f33]
+## 1. Citation, extent, commencement and interpretation[^c-42bab403c8e09ccec9662b208f098f33]
 
 (1) This Order—
 
@@ -75,15 +75,15 @@ The Secretary of State makes this Order, in exercise of the powers conferred by 
 - “laying” means a part of the fishery area with respect to which a lease has been or is to be granted;
 - “lease” means a lease of the right of several fishery for shellfish conferred by article 2.
 
-## 2. Right of several fishery[^key-374510cc0c5e9be742290ea7b62861b5]
+## 2. Right of several fishery[^c-374510cc0c5e9be742290ea7b62861b5]
 
 There is conferred on the Authority for a period of 20 years commencing on 1st July 2015 the right of several fishery for shellfish in the fishery area.
 
-## 3. Management plan[^key-34025bf81049b03cde58d3f19b11ae80]
+## 3. Management plan[^c-34025bf81049b03cde58d3f19b11ae80]
 
 The Authority must manage the fishery area in accordance with the management plan.
 
-## 4. Review of management plan[^key-a55b0db3ed2d8ff889f0cb94a65e776e]
+## 4. Review of management plan[^c-a55b0db3ed2d8ff889f0cb94a65e776e]
 
 (1) In 2016 and in each year thereafter of the period referred to in article 2, the Authority must, before 1st July, review the management plan and publish an updated version of the plan on its website.
 
@@ -98,7 +98,7 @@ The Authority must manage the fishery area in accordance with the management pla
 - (c) any person likely to be affected by the management plan or changes to it; or
 - (d) any person whom the Authority considers may be the owner, lessee or occupier of the fishery area.
 
-## 5. Provisions relating to leases[^key-2424e414a00dc328b2bd4df4ac53d289]
+## 5. Provisions relating to leases[^c-2424e414a00dc328b2bd4df4ac53d289]
 
 (1) The following provisions of this article apply in relation to any lease granted or to be granted with respect to any part of the fishery area.
 
@@ -110,7 +110,7 @@ The Authority must manage the fishery area in accordance with the management pla
 
 (5) A lease must provide that it may be terminated by the Authority in the event that the lessee is in breach of any provisions of this article, or of any provision of the lease, and the Authority must take all reasonable steps to monitor compliance with such provisions.
 
-## 6. Account of income and expenditure and other information[^key-726725bd6565e261fabbc5e89146fdc3]
+## 6. Account of income and expenditure and other information[^c-726725bd6565e261fabbc5e89146fdc3]
 
 (1) The Authority must provide to the Secretary of State annual accounts of income and expenditure under this Order and such other information relating to this Order and to the fishery area in such form and at such times the Secretary of State may reasonably require.
 
@@ -118,16 +118,16 @@ The Authority must manage the fishery area in accordance with the management pla
 
 (3) The Authority must give any person authorised for the purposes of paragraph (2) such information in its possession relating to the Order and to the fishery area as that person may reasonably require.
 
-## 7. Statutory undertakers[^key-e9c1ef1319c964b9f89cdf6384ace744]
+## 7. Statutory undertakers[^c-e9c1ef1319c964b9f89cdf6384ace744]
 
 (1) Nothing in this Order prejudicially affects the lawful activities of a statutory undertaker in exercising that undertaker’s statutory functions or authority.
 
 (2) In paragraph 1 “statutory undertaker” has the meaning given in section 262(1) of the Town and Country Planning Act 1990[^f00007] and article 1(2) of the Town and Country Planning (General Permitted Development) Order 1995[^f00008] and includes—
 
-- (a)[^key-91d37c72cc303f7ed289a8b4c4abbd55] a person operating an electronic communications code network within the meaning given in paragraph 1(1) of Schedule 17 to the Communications Act 2003; and
+- (a)[^c-91d37c72cc303f7ed289a8b4c4abbd55] a person operating an electronic communications code network within the meaning given in paragraph 1(1) of Schedule 17 to the Communications Act 2003; and
 - (b) any person or body carrying out coast protection work within the meaning of the Coast Protection Act 1949[^f00010] in accordance with any consent or approval under that Act.
 
-## 8. Revocation[^key-5dea482a03bbcaf0583a15c378b5aeb0]
+## 8. Revocation[^c-5dea482a03bbcaf0583a15c378b5aeb0]
 
 The Poole Fishery Order 1985[^f00011] is revoked.
 
@@ -139,15 +139,15 @@ Department for Food, Environment and Rural Affairs
 
 28th May 2015
 
-## SCHEDULE — The fishery area[^key-53e970d6cd13a9b618e4279def88b369]
+## SCHEDULE — The fishery area[^c-53e970d6cd13a9b618e4279def88b369]
 
 Article 1(2)
 
-[^key-53e970d6cd13a9b618e4279def88b369]
+[^c-53e970d6cd13a9b618e4279def88b369]
 
 The fishery area is an area of approximately 837.8 hectares located in Poole Harbour, Dorset. It is defined by a boundary drawn by the series of straight lines connecting each point listed in Table 1 to the next point in sequence.
 
-[^key-53e970d6cd13a9b618e4279def88b369]
+[^c-53e970d6cd13a9b618e4279def88b369]
 
 The fishery area does not include the fishery exclusion zone defined by a boundary drawn by the series of straight lines connecting each point listed in Table 2 to the next point in sequence.
 
@@ -268,32 +268,32 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00005]: Footnote: [1961 c.55](https://www.legislation.gov.uk/ukpga/1961/55).
 
-[^key-42bab403c8e09ccec9662b208f098f33]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/1346/article/1) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
+[^c-42bab403c8e09ccec9662b208f098f33]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/1346/article/1) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
 
 [^f00006]: Footnote: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23). [S.I. 2010/2198](https://www.legislation.gov.uk/uksi/2010/2198) established the Southern Inshore Fisheries and Conservation District. The Southern Inshore Fisheries Conservation Authority is the inshore fisheries and conservation authority for the district by virtue of section 150 of the 2009 Act.
 
-[^key-374510cc0c5e9be742290ea7b62861b5]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/1346/article/2) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
+[^c-374510cc0c5e9be742290ea7b62861b5]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/1346/article/2) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
 
-[^key-34025bf81049b03cde58d3f19b11ae80]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/1346/article/3) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
+[^c-34025bf81049b03cde58d3f19b11ae80]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/1346/article/3) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
 
-[^key-a55b0db3ed2d8ff889f0cb94a65e776e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/1346/article/4) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
+[^c-a55b0db3ed2d8ff889f0cb94a65e776e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/1346/article/4) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
 
-[^key-2424e414a00dc328b2bd4df4ac53d289]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/1346/article/5) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
+[^c-2424e414a00dc328b2bd4df4ac53d289]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/1346/article/5) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
 
-[^key-726725bd6565e261fabbc5e89146fdc3]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/1346/article/6) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
+[^c-726725bd6565e261fabbc5e89146fdc3]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/1346/article/6) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
 
-[^key-e9c1ef1319c964b9f89cdf6384ace744]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/1346/article/7) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
+[^c-e9c1ef1319c964b9f89cdf6384ace744]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/1346/article/7) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
 
 [^f00007]: Footnote: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8).
 
 [^f00008]: Footnote: [S.I.1995/418](https://www.legislation.gov.uk/uksi/1995/418). The definition of “statutory undertaker” was amended by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149) and [2011/2085](https://www.legislation.gov.uk/uksi/2011/2085).
 
-[^key-91d37c72cc303f7ed289a8b4c4abbd55]: Textual amendment: [Art. 7(2)(a)](https://www.legislation.gov.uk/uksi/2015/1346/article/7/2/a) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 48(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/48/2)
+[^c-91d37c72cc303f7ed289a8b4c4abbd55]: Textual amendment: [Art. 7(2)(a)](https://www.legislation.gov.uk/uksi/2015/1346/article/7/2/a) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 48(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/48/2)
 
 [^f00010]: Footnote: [1949 c.74](https://www.legislation.gov.uk/ukpga/1949/74). For references to “coast protection work” see sections 5, 6, 15 to 17, 19 to 22, and 27 to 28.
 
-[^key-5dea482a03bbcaf0583a15c378b5aeb0]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2015/1346/article/8) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
+[^c-5dea482a03bbcaf0583a15c378b5aeb0]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2015/1346/article/8) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
 
 [^f00011]: Footnote: [S.I. 1985/847](https://www.legislation.gov.uk/uksi/1985/847).
 
-[^key-53e970d6cd13a9b618e4279def88b369]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2015/1346/schedule) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)
+[^c-53e970d6cd13a9b618e4279def88b369]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2015/1346/schedule) in force at 1.7.2015, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1346/article/1/1/c)

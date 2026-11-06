@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.53. Form of appeal[^key-89bc408ed6632145e06317cd74418341]
+## 3.53. Form of appeal[^c-89bc408ed6632145e06317cd74418341]
 
 *Extent: S*
 
-(1)[^key-0dd3f4a79335594932e377046ca2fdfe] This Part applies to appeals to the sheriff under sections 154(1), 160(1), 161(1) and 162(3) of the 2011 Act.
+(1)[^c-0dd3f4a79335594932e377046ca2fdfe] This Part applies to appeals to the sheriff under sections 154(1), 160(1), 161(1) and 162(3) of the 2011 Act.
 
 (1A) An appeal to the sheriff under the sections of the 2011 Act prescribed in paragraph (1B) must be—
 
@@ -37,9 +37,9 @@ summary: ''
 
 (2) Subject to paragraph (3), the appeal shall be signed by the appellant or his representative.
 
-(3) An appeal by a child may be signed on his behalf by any safeguarder [^key-5e05ef81953fd82e5a5909e80a951a56]....
+(3) An appeal by a child may be signed on his behalf by any safeguarder [^c-5e05ef81953fd82e5a5909e80a951a56]....
 
-(4)[^key-6effe28ac91ffc872c5ad1877f9c3518] Where leave to appeal is required by virtue of section 159(2) of the 2011 Act, such application for leave shall be—
+(4)[^c-6effe28ac91ffc872c5ad1877f9c3518] Where leave to appeal is required by virtue of section 159(2) of the 2011 Act, such application for leave shall be—
 
 - (a) made by letter addressed to the sheriff clerk setting out the grounds on which the application is made;
 - (b) accompanied by a copy of the decision referred to in section 159(2) of the 2011 Act;
@@ -51,10 +51,10 @@ summary: ''
 
 ## Annotations
 
-[^key-89bc408ed6632145e06317cd74418341]: Commencement: Rule 3.53 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-89bc408ed6632145e06317cd74418341]: Commencement: Rule 3.53 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
-[^key-0dd3f4a79335594932e377046ca2fdfe]: Textual amendment: Rule 3.53(1)-(1B) substituted for rule 3.53(1) (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(42)(a)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/42/a) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-0dd3f4a79335594932e377046ca2fdfe]: Textual amendment: Rule 3.53(1)-(1B) substituted for rule 3.53(1) (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(42)(a)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/42/a) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
-[^key-5e05ef81953fd82e5a5909e80a951a56]: Textual amendment: Words in rule 3.53(3) omitted (24.6.2013) by virtue of [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(42)(b)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/42/b) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-5e05ef81953fd82e5a5909e80a951a56]: Textual amendment: Words in rule 3.53(3) omitted (24.6.2013) by virtue of [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(42)(b)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/42/b) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
-[^key-6effe28ac91ffc872c5ad1877f9c3518]: Textual amendment: Rule 3.53(4)-(6) inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(42)(c)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/42/c) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-6effe28ac91ffc872c5ad1877f9c3518]: Textual amendment: Rule 3.53(4)-(6) inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(42)(c)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/42/c) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

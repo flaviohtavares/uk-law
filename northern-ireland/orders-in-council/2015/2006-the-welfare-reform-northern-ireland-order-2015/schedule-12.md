@@ -22,7 +22,7 @@ summary: ''
 
 Article 140
 
-### PART 1 — Abolition of benefits superseded by universal credit[^key-a0502c0461dbd0064bf35134f6f2b171][^key-66370c3265d76c692c7cb783072c7703][^key-9947d7ade1e22d7d0b9fae1d1e792e39][^key-4ef4d8301d19e2c8622aeac0b53a9b86][^key-16ea05a188f85778905003f86331f2b7][^key-9e6685135c47810904fcb8516597b586][^key-04f9a52d5ba97448691ac8e148355ddc][^key-1173eddb205a6dcd7bb3fbee2d862d6c][^M_I_a3be2bc2-2b15-4a0a-eee9-dafef1b9951c]
+### PART 1 — Abolition of benefits superseded by universal credit[^c-a0502c0461dbd0064bf35134f6f2b171][^c-66370c3265d76c692c7cb783072c7703][^c-9947d7ade1e22d7d0b9fae1d1e792e39][^c-4ef4d8301d19e2c8622aeac0b53a9b86][^c-16ea05a188f85778905003f86331f2b7][^c-9e6685135c47810904fcb8516597b586][^c-04f9a52d5ba97448691ac8e148355ddc][^c-1173eddb205a6dcd7bb3fbee2d862d6c][^M_I_a3be2bc2-2b15-4a0a-eee9-dafef1b9951c]
 
 <table>
 <tbody>
@@ -218,7 +218,7 @@ Article 140
 </tbody>
 </table>
 
-### PART 2 — Entitlement to jobseeker's allowance without seeking employment[^key-781eceb1c026b62657170418ab6f2b67]
+### PART 2 — Entitlement to jobseeker's allowance without seeking employment[^c-781eceb1c026b62657170418ab6f2b67]
 
 <table>
 <tbody>
@@ -232,7 +232,7 @@ Article 140
 </tbody>
 </table>
 
-### PART 3 — Jobseeker's allowance: responsibilities for interim period[^key-cd86ebd8b5a7768f450a6d54cdde4e49]
+### PART 3 — Jobseeker's allowance: responsibilities for interim period[^c-cd86ebd8b5a7768f450a6d54cdde4e49]
 
 <table>
 <tbody>
@@ -255,7 +255,7 @@ Article 140
 </tbody>
 </table>
 
-### PART 4 — Jobseeker's allowance: responsibilities after introduction of universal credit[^key-15c681baa393b7e6f4cc2b3e0076e12c][^key-55b7ed65ee1be25653442b96779d2505]
+### PART 4 — Jobseeker's allowance: responsibilities after introduction of universal credit[^c-15c681baa393b7e6f4cc2b3e0076e12c][^c-55b7ed65ee1be25653442b96779d2505]
 
 <table>
 <tbody>
@@ -283,7 +283,7 @@ Article 140
 </tbody>
 </table>
 
-### PART 5 — Employment and support allowance: responsibilities after introduction of universal credit[^key-0ba5d78f5ef3707e765273bfb7126020][^key-89ec1a2c8f8325c67e12871221e0c25d]
+### PART 5 — Employment and support allowance: responsibilities after introduction of universal credit[^c-0ba5d78f5ef3707e765273bfb7126020][^c-89ec1a2c8f8325c67e12871221e0c25d]
 
 <table>
 <tbody>
@@ -301,7 +301,7 @@ Article 140
 </tbody>
 </table>
 
-### PART 6 — Industrial injuries arising before 5th July 1948[^key-044670909c182ce36ebba4d72172db5d]
+### PART 6 — Industrial injuries arising before 5th July 1948[^c-044670909c182ce36ebba4d72172db5d]
 
 <table>
 <tbody>
@@ -324,7 +324,7 @@ Article 140
 </tbody>
 </table>
 
-### PART 7 — Social fund: ending of discretionary payments[^key-3fb6d4e6f33c2323acd8d7d80b2f54f6][^key-0595fb8be5ab432ff4051cb4cc7f24fd]
+### PART 7 — Social fund: ending of discretionary payments[^c-3fb6d4e6f33c2323acd8d7d80b2f54f6][^c-0595fb8be5ab432ff4051cb4cc7f24fd]
 
 <table>
 <tbody>
@@ -404,7 +404,7 @@ Article 140
 </tbody>
 </table>
 
-### PART 10 — Recovery of benefit payments[^key-366f1048e592d553a9d8923d61d6e359]
+### PART 10 — Recovery of benefit payments[^c-366f1048e592d553a9d8923d61d6e359]
 
 | *Short Title* | *Extent of repeal* |
 | --- | --- |
@@ -429,7 +429,7 @@ Article 140
 </tbody>
 </table>
 
-### PART 12 — Information-sharing[^key-29f1582da4c50457c82556e9a0e76fe6]
+### PART 12 — Information-sharing[^c-29f1582da4c50457c82556e9a0e76fe6]
 
 | *Short Title* | *Extent of repeal* |
 | --- | --- |
@@ -443,42 +443,42 @@ Article 140
 
 ## Annotations
 
-[^key-a0502c0461dbd0064bf35134f6f2b171]: Commencement: Sch. 12 Pt. 1 in operation at 27.9.2017 for specified purposes by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 6](https://www.legislation.gov.uk/nisr/2017/190/article/6), [Sch. 2](https://www.legislation.gov.uk/nisr/2017/190/schedule/2) (with [arts. 7](https://www.legislation.gov.uk/nisr/2017/190/article/7), [8](https://www.legislation.gov.uk/nisr/2017/190/article/8), [10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10), [Sch. 3](https://www.legislation.gov.uk/nisr/2017/190/schedule/3)) (as amended (30.3.2022) by [S.R. 2022/132](https://www.legislation.gov.uk/nisr/2022/132), [arts. 4](https://www.legislation.gov.uk/nisr/2022/132/article/4), [5](https://www.legislation.gov.uk/nisr/2022/132/article/5), [Sch. paras. 1(2)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/2)[(3)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/3))
+[^c-a0502c0461dbd0064bf35134f6f2b171]: Commencement: Sch. 12 Pt. 1 in operation at 27.9.2017 for specified purposes by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 6](https://www.legislation.gov.uk/nisr/2017/190/article/6), [Sch. 2](https://www.legislation.gov.uk/nisr/2017/190/schedule/2) (with [arts. 7](https://www.legislation.gov.uk/nisr/2017/190/article/7), [8](https://www.legislation.gov.uk/nisr/2017/190/article/8), [10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10), [Sch. 3](https://www.legislation.gov.uk/nisr/2017/190/schedule/3)) (as amended (30.3.2022) by [S.R. 2022/132](https://www.legislation.gov.uk/nisr/2022/132), [arts. 4](https://www.legislation.gov.uk/nisr/2022/132/article/4), [5](https://www.legislation.gov.uk/nisr/2022/132/article/5), [Sch. paras. 1(2)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/2)[(3)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/3))
 
-[^key-66370c3265d76c692c7cb783072c7703]: Commencement: Sch. 12 Pt. 1 in operation at 15.11.2017 and 13.12.2017 for specified purposes by [S.R. 2017/216](https://www.legislation.gov.uk/nisr/2017/216), [art. 4](https://www.legislation.gov.uk/nisr/2017/216/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2017/216/article/5)) (as amended (15.1.2018) by [S.R. 2018/1](https://www.legislation.gov.uk/nisr/2018/1), [art. 7](https://www.legislation.gov.uk/nisr/2018/1/article/7))
+[^c-66370c3265d76c692c7cb783072c7703]: Commencement: Sch. 12 Pt. 1 in operation at 15.11.2017 and 13.12.2017 for specified purposes by [S.R. 2017/216](https://www.legislation.gov.uk/nisr/2017/216), [art. 4](https://www.legislation.gov.uk/nisr/2017/216/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2017/216/article/5)) (as amended (15.1.2018) by [S.R. 2018/1](https://www.legislation.gov.uk/nisr/2018/1), [art. 7](https://www.legislation.gov.uk/nisr/2018/1/article/7))
 
-[^key-9947d7ade1e22d7d0b9fae1d1e792e39]: Commencement: Sch. 12 Pt. 1 in operation at 17.1.2018 and further specified dates for specified purposes by [S.R. 2018/1](https://www.legislation.gov.uk/nisr/2018/1), [art. 4](https://www.legislation.gov.uk/nisr/2018/1/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2018/1/article/5)) (as amended (19.7.2018) by [S.R. 2018/138](https://www.legislation.gov.uk/nisr/2018/138), [art. 8](https://www.legislation.gov.uk/nisr/2018/138/article/8))
+[^c-9947d7ade1e22d7d0b9fae1d1e792e39]: Commencement: Sch. 12 Pt. 1 in operation at 17.1.2018 and further specified dates for specified purposes by [S.R. 2018/1](https://www.legislation.gov.uk/nisr/2018/1), [art. 4](https://www.legislation.gov.uk/nisr/2018/1/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2018/1/article/5)) (as amended (19.7.2018) by [S.R. 2018/138](https://www.legislation.gov.uk/nisr/2018/138), [art. 8](https://www.legislation.gov.uk/nisr/2018/138/article/8))
 
-[^key-4ef4d8301d19e2c8622aeac0b53a9b86]: Commencement: Sch. 12 Pt. 1 in operation at 16.5.2018 and further specified dates for specified purposes by [S.R. 2018/97](https://www.legislation.gov.uk/nisr/2018/97), [art. 4](https://www.legislation.gov.uk/nisr/2018/97/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2018/97/article/5)) (as amended (19.7.2018) by [S.R. 2018/138](https://www.legislation.gov.uk/nisr/2018/138), [art. 9](https://www.legislation.gov.uk/nisr/2018/138/article/9))
+[^c-4ef4d8301d19e2c8622aeac0b53a9b86]: Commencement: Sch. 12 Pt. 1 in operation at 16.5.2018 and further specified dates for specified purposes by [S.R. 2018/97](https://www.legislation.gov.uk/nisr/2018/97), [art. 4](https://www.legislation.gov.uk/nisr/2018/97/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2018/97/article/5)) (as amended (19.7.2018) by [S.R. 2018/138](https://www.legislation.gov.uk/nisr/2018/138), [art. 9](https://www.legislation.gov.uk/nisr/2018/138/article/9))
 
-[^key-16ea05a188f85778905003f86331f2b7]: Commencement: Sch. 12 Pt. 1 in force at 5.9.2018 and further specified dates for specified purposes by [S.R. 2018/138](https://www.legislation.gov.uk/nisr/2018/138), [art. 4](https://www.legislation.gov.uk/nisr/2018/138/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2018/138/article/5))
+[^c-16ea05a188f85778905003f86331f2b7]: Commencement: Sch. 12 Pt. 1 in force at 5.9.2018 and further specified dates for specified purposes by [S.R. 2018/138](https://www.legislation.gov.uk/nisr/2018/138), [art. 4](https://www.legislation.gov.uk/nisr/2018/138/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2018/138/article/5))
 
-[^key-9e6685135c47810904fcb8516597b586]: Commencement: Sch. 12 Pt. 1 in force at 1.2.2019 for specified purposes by [S.R. 2019/7](https://www.legislation.gov.uk/nisr/2019/7), [art. 2(5)-(7)](https://www.legislation.gov.uk/nisr/2019/7/article/2/5) (with [art. 2(8)-(12)](https://www.legislation.gov.uk/nisr/2019/7/article/2/8)) (as amended (30.3.2022) by [S.R. 2022/132](https://www.legislation.gov.uk/nisr/2022/132), [arts. 4](https://www.legislation.gov.uk/nisr/2022/132/article/4), [5](https://www.legislation.gov.uk/nisr/2022/132/article/5), [Sch. paras. 1(2)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/2)[(3)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/3))
+[^c-9e6685135c47810904fcb8516597b586]: Commencement: Sch. 12 Pt. 1 in force at 1.2.2019 for specified purposes by [S.R. 2019/7](https://www.legislation.gov.uk/nisr/2019/7), [art. 2(5)-(7)](https://www.legislation.gov.uk/nisr/2019/7/article/2/5) (with [art. 2(8)-(12)](https://www.legislation.gov.uk/nisr/2019/7/article/2/8)) (as amended (30.3.2022) by [S.R. 2022/132](https://www.legislation.gov.uk/nisr/2022/132), [arts. 4](https://www.legislation.gov.uk/nisr/2022/132/article/4), [5](https://www.legislation.gov.uk/nisr/2022/132/article/5), [Sch. paras. 1(2)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/2)[(3)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/3))
 
-[^key-04f9a52d5ba97448691ac8e148355ddc]: Commencement: Sch. 12 Pt. 1 in operation at 1.4.2026 for specified purposes by [S.R. 2025/176](https://www.legislation.gov.uk/nisr/2025/176), [art. 4](https://www.legislation.gov.uk/nisr/2025/176/article/4)
+[^c-04f9a52d5ba97448691ac8e148355ddc]: Commencement: Sch. 12 Pt. 1 in operation at 1.4.2026 for specified purposes by [S.R. 2025/176](https://www.legislation.gov.uk/nisr/2025/176), [art. 4](https://www.legislation.gov.uk/nisr/2025/176/article/4)
 
-[^key-1173eddb205a6dcd7bb3fbee2d862d6c]: Commencement: Sch. 12 Pt. 1 in operation at 1.12.2025 for specified purposes by [S.R. 2025/176](https://www.legislation.gov.uk/nisr/2025/176), [art. 2](https://www.legislation.gov.uk/nisr/2025/176/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2025/176/article/3)) (as amended (17.6.2026) by [S.R. 2026/115](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(3)](https://www.legislation.gov.uk/nisr/2026/115/article/2/3))
+[^c-1173eddb205a6dcd7bb3fbee2d862d6c]: Commencement: Sch. 12 Pt. 1 in operation at 1.12.2025 for specified purposes by [S.R. 2025/176](https://www.legislation.gov.uk/nisr/2025/176), [art. 2](https://www.legislation.gov.uk/nisr/2025/176/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2025/176/article/3)) (as amended (17.6.2026) by [S.R. 2026/115](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(3)](https://www.legislation.gov.uk/nisr/2026/115/article/2/3))
 
 [^M_I_a3be2bc2-2b15-4a0a-eee9-dafef1b9951c]: Commencement: Sch. 12 Pt. 1 in operation at 1.10.2026 for specified purposes by [S.R. 2025/176](https://www.legislation.gov.uk/nisr/2025/176), [art. 3A](https://www.legislation.gov.uk/nisr/2025/176/article/3A) (as inserted by [S.R. 2026/115](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(4)](https://www.legislation.gov.uk/nisr/2026/115/article/2/4))
 
-[^key-781eceb1c026b62657170418ab6f2b67]: Commencement: [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
+[^c-781eceb1c026b62657170418ab6f2b67]: Commencement: [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
 
-[^key-cd86ebd8b5a7768f450a6d54cdde4e49]: Commencement: [Sch. 12 Pt. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/3) in operation at 27.9.2017 for specified purposes by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(j)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/j)
+[^c-cd86ebd8b5a7768f450a6d54cdde4e49]: Commencement: [Sch. 12 Pt. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/3) in operation at 27.9.2017 for specified purposes by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(j)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/j)
 
-[^key-15c681baa393b7e6f4cc2b3e0076e12c]: Commencement: [Sch. 12 Pt. 4](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/4) in operation at 27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
+[^c-15c681baa393b7e6f4cc2b3e0076e12c]: Commencement: [Sch. 12 Pt. 4](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/4) in operation at 27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
 
-[^key-55b7ed65ee1be25653442b96779d2505]: Modification: [Sch. 12 Pt. 4](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/4) amendment to earlier commencing S.R. 2017/190, art. 24 (30.3.2022) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022 (S.R. 2022/132)](https://www.legislation.gov.uk/nisr/2022/132), [art. 5](https://www.legislation.gov.uk/nisr/2022/132/article/5), [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/3)
+[^c-55b7ed65ee1be25653442b96779d2505]: Modification: [Sch. 12 Pt. 4](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/4) amendment to earlier commencing S.R. 2017/190, art. 24 (30.3.2022) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022 (S.R. 2022/132)](https://www.legislation.gov.uk/nisr/2022/132), [art. 5](https://www.legislation.gov.uk/nisr/2022/132/article/5), [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/3)
 
-[^key-0ba5d78f5ef3707e765273bfb7126020]: Commencement: [Sch. 12 Pt. 5](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/5) in operation at 27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
+[^c-0ba5d78f5ef3707e765273bfb7126020]: Commencement: [Sch. 12 Pt. 5](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/5) in operation at 27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
 
-[^key-89ec1a2c8f8325c67e12871221e0c25d]: Modification: [Sch. 12 Pt. 5](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/5) amendment to earlier commencing S.R. 2017/190, art. 24 (30.3.2022) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022 (S.R. 2022/132)](https://www.legislation.gov.uk/nisr/2022/132), [art. 5](https://www.legislation.gov.uk/nisr/2022/132/article/5), [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/3)
+[^c-89ec1a2c8f8325c67e12871221e0c25d]: Modification: [Sch. 12 Pt. 5](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/5) amendment to earlier commencing S.R. 2017/190, art. 24 (30.3.2022) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022 (S.R. 2022/132)](https://www.legislation.gov.uk/nisr/2022/132), [art. 5](https://www.legislation.gov.uk/nisr/2022/132/article/5), [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/3)
 
-[^key-044670909c182ce36ebba4d72172db5d]: Commencement: [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6) in operation at 31.10.2016 by [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)
+[^c-044670909c182ce36ebba4d72172db5d]: Commencement: [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6) in operation at 31.10.2016 by [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)
 
-[^key-3fb6d4e6f33c2323acd8d7d80b2f54f6]: Commencement: [Sch. 12 Pt. 7](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/7) in operation at 28.11.2016 for specified purposes by [S.R. 2016/411](https://www.legislation.gov.uk/nisr/2016/411), [art. 2(3)](https://www.legislation.gov.uk/nisr/2016/411/article/2/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2016/411/article/4))
+[^c-3fb6d4e6f33c2323acd8d7d80b2f54f6]: Commencement: [Sch. 12 Pt. 7](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/7) in operation at 28.11.2016 for specified purposes by [S.R. 2016/411](https://www.legislation.gov.uk/nisr/2016/411), [art. 2(3)](https://www.legislation.gov.uk/nisr/2016/411/article/2/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2016/411/article/4))
 
-[^key-0595fb8be5ab432ff4051cb4cc7f24fd]: Commencement: [Sch. 12 Pt. 7](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/7) in operation at 31.3.2017 for specified purposes by [S.R. 2016/411](https://www.legislation.gov.uk/nisr/2016/411), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/411/article/3/3)
+[^c-0595fb8be5ab432ff4051cb4cc7f24fd]: Commencement: [Sch. 12 Pt. 7](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/7) in operation at 31.3.2017 for specified purposes by [S.R. 2016/411](https://www.legislation.gov.uk/nisr/2016/411), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/411/article/3/3)
 
-[^key-366f1048e592d553a9d8923d61d6e359]: Commencement: [Sch. 12 Pt. 10](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/10) in operation at 27.9.2017 for specified purposes by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(k)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/k) (with [art. 3(3)](https://www.legislation.gov.uk/nisr/2017/190/article/3/3))
+[^c-366f1048e592d553a9d8923d61d6e359]: Commencement: [Sch. 12 Pt. 10](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/10) in operation at 27.9.2017 for specified purposes by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(k)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/k) (with [art. 3(3)](https://www.legislation.gov.uk/nisr/2017/190/article/3/3))
 
-[^key-29f1582da4c50457c82556e9a0e76fe6]: Commencement: [Sch. 12 Pt. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/12) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/c)
+[^c-29f1582da4c50457c82556e9a0e76fe6]: Commencement: [Sch. 12 Pt. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/12) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/c)

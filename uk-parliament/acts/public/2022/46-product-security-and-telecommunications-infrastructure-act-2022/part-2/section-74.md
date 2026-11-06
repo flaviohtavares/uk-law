@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Power to make consequential amendments[^key-d2e9447092d5fa6fddad4a5b1a4b18b3]
+## 74. Power to make consequential amendments[^c-d2e9447092d5fa6fddad4a5b1a4b18b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2e9447092d5fa6fddad4a5b1a4b18b3]: Commencement: S. 74 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-d2e9447092d5fa6fddad4a5b1a4b18b3]: Commencement: S. 74 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)

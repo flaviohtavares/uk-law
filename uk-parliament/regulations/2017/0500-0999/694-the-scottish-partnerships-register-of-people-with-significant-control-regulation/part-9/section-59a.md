@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**59A.**[^key-b239cd43c2dc8b4f42179e445cb82761] Section 1082 of the Companies Act 2006 (allocation of unique identifiers) applies in relation to Scottish qualifying partnerships modified so that it reads as follows—
+**59A.**[^c-b239cd43c2dc8b4f42179e445cb82761] Section 1082 of the Companies Act 2006 (allocation of unique identifiers) applies in relation to Scottish qualifying partnerships modified so that it reads as follows—
 
 > **1082. Allocation of unique identifiers**
 >
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b239cd43c2dc8b4f42179e445cb82761]: Textual amendment: [Reg. 59A](https://www.legislation.gov.uk/uksi/2017/694/regulation/59A) inserted (18.3.2025) by [The Unique Identifiers (Application of Company Law) Regulations 2025 (S.I. 2025/49)](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2025/49/regulation/7); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b)
+[^c-b239cd43c2dc8b4f42179e445cb82761]: Textual amendment: [Reg. 59A](https://www.legislation.gov.uk/uksi/2017/694/regulation/59A) inserted (18.3.2025) by [The Unique Identifiers (Application of Company Law) Regulations 2025 (S.I. 2025/49)](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2025/49/regulation/7); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b)

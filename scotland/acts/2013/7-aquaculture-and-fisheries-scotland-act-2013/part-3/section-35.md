@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Powers of British sea-fishery officers to enforce sea fisheries legislation[^key-8c9dfb3d23e1b2ea3e54e03a560e8387][^key-b7501866abb3e2fdba33f9146881bb76]
+## 35. Powers of British sea-fishery officers to enforce sea fisheries legislation[^c-8c9dfb3d23e1b2ea3e54e03a560e8387][^c-b7501866abb3e2fdba33f9146881bb76]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c9dfb3d23e1b2ea3e54e03a560e8387]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2013/7/section/35) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-8c9dfb3d23e1b2ea3e54e03a560e8387]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2013/7/section/35) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-b7501866abb3e2fdba33f9146881bb76]: Modification: [S. 35](https://www.legislation.gov.uk/asp/2013/7/section/35) applied (1.4.2022) by [The Aquaculture and Fisheries etc. (Scheme for Financial Assistance) (Scotland) Regulations 2022 (S.S.I. 2022/85)](https://www.legislation.gov.uk/ssi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/85/regulation/1/2), [11(2)](https://www.legislation.gov.uk/ssi/2022/85/regulation/11/2)
+[^c-b7501866abb3e2fdba33f9146881bb76]: Modification: [S. 35](https://www.legislation.gov.uk/asp/2013/7/section/35) applied (1.4.2022) by [The Aquaculture and Fisheries etc. (Scheme for Financial Assistance) (Scotland) Regulations 2022 (S.S.I. 2022/85)](https://www.legislation.gov.uk/ssi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/85/regulation/1/2), [11(2)](https://www.legislation.gov.uk/ssi/2022/85/regulation/11/2)

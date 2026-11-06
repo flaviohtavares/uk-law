@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1[^key-08bff967786e5e3a112237605916d4ed]
+## SCHEDULE 1[^c-08bff967786e5e3a112237605916d4ed]
 
 *Extent: E+W*
 
@@ -80,4 +80,4 @@ Regulation 2(1)
 
 ## Annotations
 
-[^key-08bff967786e5e3a112237605916d4ed]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2)
+[^c-08bff967786e5e3a112237605916d4ed]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2)

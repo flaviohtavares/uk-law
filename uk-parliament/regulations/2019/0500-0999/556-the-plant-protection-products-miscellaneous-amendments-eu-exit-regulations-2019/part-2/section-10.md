@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Chapter 8[^key-1c86b38102a79ecf52c6e3987d581127]
+## 10. Chapter 8[^c-1c86b38102a79ecf52c6e3987d581127]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
   - (ii) for the words from “in accordance” to the end substitute “ for the purposes of establishing and maintaining risk indicators in accordance with Annex 4 to Directive [2009/128/EC](https://www.legislation.gov.uk/eudr/2009/128) ”;
 - (d) omit paragraph 4.
 
-(3)[^key-99f9daf69c4bdcccb06f81faff731625] For Article 68 substitute—
+(3)[^c-99f9daf69c4bdcccb06f81faff731625] For Article 68 substitute—
 
 > **Article 68 — Monitoring and controls**
 >
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c86b38102a79ecf52c6e3987d581127]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1c86b38102a79ecf52c6e3987d581127]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-99f9daf69c4bdcccb06f81faff731625]: Textual amendment: Reg. 10(3) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(8)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/8)
+[^c-99f9daf69c4bdcccb06f81faff731625]: Textual amendment: Reg. 10(3) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(8)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/8)

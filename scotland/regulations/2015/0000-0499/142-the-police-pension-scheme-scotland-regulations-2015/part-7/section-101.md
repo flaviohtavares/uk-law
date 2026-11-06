@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Cancellation of lower tier ill-health pension if medical unfitness ceases[^key-d42974cff33bc34fd4d69cf679265421]
+## 101. Cancellation of lower tier ill-health pension if medical unfitness ceases[^c-d42974cff33bc34fd4d69cf679265421]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d42974cff33bc34fd4d69cf679265421]: Commencement: Reg. 101 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-d42974cff33bc34fd4d69cf679265421]: Commencement: Reg. 101 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

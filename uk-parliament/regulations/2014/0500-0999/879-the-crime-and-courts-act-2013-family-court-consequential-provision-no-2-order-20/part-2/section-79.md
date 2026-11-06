@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Amendment to the Magistrates’ Courts Warrants (Specification of Provisions) Order 2000[^key-d145b85166a76d836fc27cfc53244389]
+## 79. Amendment to the Magistrates’ Courts Warrants (Specification of Provisions) Order 2000[^c-d145b85166a76d836fc27cfc53244389]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Omit article 2(b)(vi) of the Magistrates’ Courts Warrants (Specification of Pr
 
 ## Annotations
 
-[^key-d145b85166a76d836fc27cfc53244389]: Commencement: Art. 79 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-d145b85166a76d836fc27cfc53244389]: Commencement: Art. 79 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00021]: Footnote: [S.I. 2000/3278](https://www.legislation.gov.uk/uksi/2000/3278). [S.I. 2004/1835](https://www.legislation.gov.uk/uksi/2004/1835) makes relevant amendments.

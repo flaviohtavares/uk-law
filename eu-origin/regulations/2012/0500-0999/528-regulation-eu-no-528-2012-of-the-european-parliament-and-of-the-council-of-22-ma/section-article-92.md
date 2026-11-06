@@ -22,7 +22,7 @@ summary: ''
 
 1. Biocidal products for which an authorisation or registration in accordance with Article 3, 4, 15 or 17 of Directive 98/8/EC was granted before 1 September 2013 can continue to be made available on the market and used subject, where applicable, to any conditions of authorisation or registration stipulated under that Directive until the expiry date of the authorisation or registration or its cancellation.
 
-(1A.)[^key-a74910d6a8a08aa9b4c4f385cfdabeeb] The competent authority may request further data relating to the original authorisation as necessary.
+(1A.)[^c-a74910d6a8a08aa9b4c4f385cfdabeeb] The competent authority may request further data relating to the original authorisation as necessary.
 
 (1B.) It is the duty of the authorisation holder to provide the necessary data within 60 days of such a request.
 
@@ -34,6 +34,6 @@ Biocidal products authorised in accordance with Article 3 or 4 of Directive 98/8
 
 ## Annotations
 
-[^key-a74910d6a8a08aa9b4c4f385cfdabeeb]: Textual amendment: [Art. 92(1A)-(1C)](https://www.legislation.gov.uk/eur/2012/528/article/92/1A) inserted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 133](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/133); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a74910d6a8a08aa9b4c4f385cfdabeeb]: Textual amendment: [Art. 92(1A)-(1C)](https://www.legislation.gov.uk/eur/2012/528/article/92/1A) inserted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 133](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/133); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000003]: Textual amendment: Inserted by [Regulation (EU) No 334/2014 of the European Parliament and of the Council of 11 March 2014 amending Regulation (EU) No 528/2012 concerning the making available on the market and use of biocidal products, with regard to certain conditions for access to the market (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2014/334).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Liability for past defaults relating to cladding products[^key-5ccc74c33bd99ae07c3dd65088c9f5e5]
+## 149. Liability for past defaults relating to cladding products[^c-5ccc74c33bd99ae07c3dd65088c9f5e5]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ccc74c33bd99ae07c3dd65088c9f5e5]: Commencement: [S. 149](https://www.legislation.gov.uk/ukpga/2022/30/section/149) in force at 28.6.2022, see [s. 170(3)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/e)
+[^c-5ccc74c33bd99ae07c3dd65088c9f5e5]: Commencement: [S. 149](https://www.legislation.gov.uk/ukpga/2022/30/section/149) in force at 28.6.2022, see [s. 170(3)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/e)

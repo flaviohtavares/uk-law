@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81F. Notice of proposed counteraction[^key-96bda5550910e9fad55651c5bf86620d]
+## 81F. Notice of proposed counteraction[^c-96bda5550910e9fad55651c5bf86620d]
 
 *Extent: E+W*
 
-(1) WRA may issue a notice (a ““proposed counteraction notice””) to a devolved[^key-0e1a71af3d442d005c2721077695f7f6] taxpayer if WRA considers—
+(1) WRA may issue a notice (a ““proposed counteraction notice””) to a devolved[^c-0e1a71af3d442d005c2721077695f7f6] taxpayer if WRA considers—
 
 - (a) that a tax advantage has arisen to a person from an artificial tax avoidance arrangement, and
 - (b) that the tax advantage should be counteracted by means of an adjustment under section 81E.
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96bda5550910e9fad55651c5bf86620d]: Textual amendment: Pt. 3A inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [ss. 66](https://www.legislation.gov.uk/anaw/2017/1/section/66), [81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-96bda5550910e9fad55651c5bf86620d]: Textual amendment: Pt. 3A inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [ss. 66](https://www.legislation.gov.uk/anaw/2017/1/section/66), [81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-0e1a71af3d442d005c2721077695f7f6]: Textual amendment: Word in [Pt. 3A](https://www.legislation.gov.uk/anaw/2016/6/part/3A) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 35(b)](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/35/b)
+[^c-0e1a71af3d442d005c2721077695f7f6]: Textual amendment: Word in [Pt. 3A](https://www.legislation.gov.uk/anaw/2016/6/part/3A) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 35(b)](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/35/b)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) An individual or trustees who are liable for tax on an amount under this Chapter are treated as having paid income tax at the savings basic rate[^key-9d258f58fe0f352f1fc09bd3d84003b7] on that amount.
+(1) An individual or trustees who are liable for tax on an amount under this Chapter are treated as having paid income tax at the savings basic rate[^c-9d258f58fe0f352f1fc09bd3d84003b7] on that amount.
 
 (2) The income tax treated as paid under subsection (1) is not repayable.
 
@@ -30,14 +30,14 @@ summary: ''
 
 (5) The reduction under subsection (3) is equal to the amount of those deductions.
 
-(6)[^key-5d569c2794e78fc6ad6777b02d88a256] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-5d569c2794e78fc6ad6777b02d88a256] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) This section is subject to section 531.
 
 ## Annotations
 
-[^key-9d258f58fe0f352f1fc09bd3d84003b7]: Textual amendment: Words in [s. 530(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/530/1) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/44)
+[^c-9d258f58fe0f352f1fc09bd3d84003b7]: Textual amendment: Words in [s. 530(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/530/1) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/44)
 
 [^c19743461]: Textual amendment: Words in s. 530(4) inserted (6.4.2007 with effect as stated in [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [ss. 1027](https://www.legislation.gov.uk/ukpga/2007/3/section/1027), [1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034), [Sch. 1 para. 535(3)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/535/3), (with transitional provisions and savings in Sch. 2)
 
-[^key-5d569c2794e78fc6ad6777b02d88a256]: Textual amendment: S. 530(6) omitted (with effect in accordance with Sch. 1 para. 65 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 54(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/54/3)
+[^c-5d569c2794e78fc6ad6777b02d88a256]: Textual amendment: S. 530(6) omitted (with effect in accordance with Sch. 1 para. 65 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 54(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/54/3)

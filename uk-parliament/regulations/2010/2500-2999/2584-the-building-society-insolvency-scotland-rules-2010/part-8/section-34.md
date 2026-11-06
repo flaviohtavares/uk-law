@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Hand-over of assets to building society liquidator[^key-a3704f64f3da1689dcd83c776b3f9e3b]
+## 34. Hand-over of assets to building society liquidator[^c-a3704f64f3da1689dcd83c776b3f9e3b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.21 of the 1986 Rules.
 
 ## Annotations
 
-[^key-a3704f64f3da1689dcd83c776b3f9e3b]: Commencement: Rule 34 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-a3704f64f3da1689dcd83c776b3f9e3b]: Commencement: Rule 34 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

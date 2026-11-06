@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Joint planning areas and National Parks[^key-0038a5d402b308416e3e427088f8c45d]
+## 9. Joint planning areas and National Parks[^c-0038a5d402b308416e3e427088f8c45d]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0038a5d402b308416e3e427088f8c45d]: Commencement: S. 9 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0038a5d402b308416e3e427088f8c45d]: Commencement: S. 9 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

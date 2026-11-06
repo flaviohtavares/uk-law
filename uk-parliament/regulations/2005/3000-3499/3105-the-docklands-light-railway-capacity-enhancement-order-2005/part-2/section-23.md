@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Obstruction of construction of authorised works[^key-0f07b345ce93c660444a575e59eb1f5c]
+## 23. Obstruction of construction of authorised works[^c-0f07b345ce93c660444a575e59eb1f5c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any person who, without reasonable excuse, obstructs another person from constru
 
 ## Annotations
 
-[^key-0f07b345ce93c660444a575e59eb1f5c]: Commencement: Art. 23 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-0f07b345ce93c660444a575e59eb1f5c]: Commencement: Art. 23 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

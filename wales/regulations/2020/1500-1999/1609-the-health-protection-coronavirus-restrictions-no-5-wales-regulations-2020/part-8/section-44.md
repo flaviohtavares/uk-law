@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Penalty[^key-308d79c7b86921d9bf9b183e32385776]
+## 44. Penalty[^c-308d79c7b86921d9bf9b183e32385776]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An offence under these Regulations is punishable on summary conviction by a fine
 
 ## Annotations
 
-[^key-308d79c7b86921d9bf9b183e32385776]: Commencement: Reg. 44 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-308d79c7b86921d9bf9b183e32385776]: Commencement: Reg. 44 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)

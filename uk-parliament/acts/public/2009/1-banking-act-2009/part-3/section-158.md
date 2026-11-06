@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Building societies[^M_I_ed84bec3-dc7e-4173-8e3a-8a24d3420ccb][^key-c7a2f2d768abf5d0393869e92c394975]
+## 158. Building societies[^M_I_ed84bec3-dc7e-4173-8e3a-8a24d3420ccb][^c-c7a2f2d768abf5d0393869e92c394975]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^M_I_ed84bec3-dc7e-4173-8e3a-8a24d3420ccb]: Commencement: S. 158 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 3
 
-[^key-c7a2f2d768abf5d0393869e92c394975]: Commencement: S. 158 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-c7a2f2d768abf5d0393869e92c394975]: Commencement: S. 158 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)

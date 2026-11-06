@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Pilot in command’s obligations to a spaceflight participant about stations[^key-72fc05ada9fe918298b39f4e377b50a9]
+## 117. Pilot in command’s obligations to a spaceflight participant about stations[^c-72fc05ada9fe918298b39f4e377b50a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ If a launch vehicle has a pilot in command, that pilot must ensure that each spa
 
 ## Annotations
 
-[^key-72fc05ada9fe918298b39f4e377b50a9]: Commencement: Reg. 117 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-72fc05ada9fe918298b39f4e377b50a9]: Commencement: Reg. 117 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

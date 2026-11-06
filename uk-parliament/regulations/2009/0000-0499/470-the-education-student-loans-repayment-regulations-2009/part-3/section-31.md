@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Returns to include self-assessment[^key-14ddf8051b2eea44a720eb68bb0253e3]
+## 31. Returns to include self-assessment[^c-14ddf8051b2eea44a720eb68bb0253e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14ddf8051b2eea44a720eb68bb0253e3]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2009/470/regulation/31) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-14ddf8051b2eea44a720eb68bb0253e3]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2009/470/regulation/31) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

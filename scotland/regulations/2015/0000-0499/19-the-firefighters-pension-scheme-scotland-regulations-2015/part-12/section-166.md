@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 166. Forfeiture and set-off: procedure[^key-3a13d4237753e60ee8a7a81c02e289e4]
+## 166. Forfeiture and set-off: procedure[^c-3a13d4237753e60ee8a7a81c02e289e4]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a13d4237753e60ee8a7a81c02e289e4]: Commencement: [Reg. 166](https://www.legislation.gov.uk/ssi/2015/19/regulation/166) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-3a13d4237753e60ee8a7a81c02e289e4]: Commencement: [Reg. 166](https://www.legislation.gov.uk/ssi/2015/19/regulation/166) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Removal from the list of patients at the request of the patient[^key-05a5cce1ab355079ebd7250095f1fd48]
+## 5. Removal from the list of patients at the request of the patient[^c-05a5cce1ab355079ebd7250095f1fd48]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Where, on or before 31st March 2004, a Local Health Board had received notice fr
 
 ## Annotations
 
-[^key-05a5cce1ab355079ebd7250095f1fd48]: Commencement: Art. 5 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-05a5cce1ab355079ebd7250095f1fd48]: Commencement: Art. 5 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00016]: Footnote: Regulation 23(1) was amended by [S.I. 2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896).

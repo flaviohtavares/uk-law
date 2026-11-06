@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-7802b932ea10ed396331eae5a976f851]
+## 2. Interpretation[^c-7802b932ea10ed396331eae5a976f851]
 
 *Extent: E+W+S*
 
@@ -55,7 +55,7 @@ summary: ''
 - “deemed export cables marine licence” means the licence set out in Schedule 14 (deemed licences under the Marine and Coastal Access Act 2009 – export cables) and deemed by article 11 (deemed marine licence under the Marine and Coastal Access Act 2009) to have been granted under Part 4 of the 2009 Act, by virtue of section 149A of the 2008 Act;
 - “deemed marine licences” means one or both of the deemed array marine licence and the deemed export cables marine licence;
 - “environmental statement” means the document certified as the environmental statement by the Secretary of State for the purposes of this Order and submitted with the application on 1 March 2013;
-- “European protected species” has the same meaning as in regulations 42 and 46 of the Conservation of Habitats and Species Regulations 2017[^key-ac134e6e12052e7f356c3f50514b5af5];
+- “European protected species” has the same meaning as in regulations 42 and 46 of the Conservation of Habitats and Species Regulations 2017[^c-ac134e6e12052e7f356c3f50514b5af5];
 - “export cables”, except where otherwise provided for, means Work No. 3A;
 - “footpath stopping up and diversion plan” means the plan certified as the footpath stopping up and diversion plan by the Secretary of State for the purposes of this Order;
 - “gravity base foundation” means a structure principally of concrete, steel or steel and concrete which rests on the seabed either due to its own weight with or without added ballast or skirts, including associated sea bed preparation, scour protection, J-tubes, corrosion protection systems, boat landings comprising an access ladder with vertical boat fenders fitted either side and work platforms and equipment;
@@ -97,9 +97,9 @@ summary: ''
 - “public rights of way strategy” means the document certified as the public rights of way strategy by the Secretary State for the purposes of this Order;
 - “public rights of way temporary closure plan” means the plan certified as the public rights of way temporary closure plan by the Secretary of State for the purposes of this Order;
 - “relevant highway authority” means West Sussex County Council;
-- “relevant planning authority” means the authority as specified in requirements 9 to 42[^key-a3bed211e84e7782eea6c600a659266d], being West Sussex County Council, the South Downs National Park Authority or Mid Sussex District Council;
+- “relevant planning authority” means the authority as specified in requirements 9 to 42[^c-a3bed211e84e7782eea6c600a659266d], being West Sussex County Council, the South Downs National Park Authority or Mid Sussex District Council;
 - “requirements” means those matters set out in Part 3 of Schedule 1 (requirements) to this Order;
-- “revised footpath stopping up and diversion plan” means the plan dated 14 October 2020 and certified as the revised footpath stopping up and diversion plan by the Secretary of State for the purposes of this Order;[^key-c1d4d648627584666149aa4bdb820aa6]
+- “revised footpath stopping up and diversion plan” means the plan dated 14 October 2020 and certified as the revised footpath stopping up and diversion plan by the Secretary of State for the purposes of this Order;[^c-c1d4d648627584666149aa4bdb820aa6]
 - “statutory undertaker” means any person falling within section 127(8) of the 2008 Act;
 - “street” means a street within the meaning of section 48 of the 1991 Act, together with land on the verge of a street or between two carriageways, and includes part of a street;
 - “street authority”, in relation to a street, has the same meaning as in Part 3 of the 1991 Act;
@@ -127,7 +127,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7802b932ea10ed396331eae5a976f851]: Commencement: Art. 2 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-7802b932ea10ed396331eae5a976f851]: Commencement: Art. 2 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
 [^f00004]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33). Sections 1 and 4 were amended by the Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 ([S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307)). Sections 2 and 3 were repealed by that Order. There are other amendments to the 1961 Act which are not relevant to this Order.
 
@@ -147,10 +147,10 @@ summary: ''
 
 [^f00012]: Footnote: [2000 c.37](https://www.legislation.gov.uk/ukpga/2000/37). Section 1 was amended by sections 301 and 321 of, and Part 7 of Schedule 22 to, the Marine and Coastal Access Act 2009, sections 52 and 53 of, and Schedules 5 and 6 to, the Commons Act [2000 (c.26)](https://www.legislation.gov.uk/ukpga/2000/26) and by [S.I. 2010/558](https://www.legislation.gov.uk/uksi/2010/558), There are other amendments to the Act not relevant to this Order.
 
-[^key-ac134e6e12052e7f356c3f50514b5af5]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/1873/article/2) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 36(2)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/36/2)
+[^c-ac134e6e12052e7f356c3f50514b5af5]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/1873/article/2) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 36(2)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/36/2)
 
 [^f00014]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). The definition of ‘owner’ in section 7 was amended by section 70 of, and paragraph 9 of Schedule 15 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the 1981 Act which are not relevant to this Order.
 
-[^key-a3bed211e84e7782eea6c600a659266d]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1873/article/2/1) substituted (14.5.2015) by [The Rampion Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1319)](https://www.legislation.gov.uk/uksi/2015/1319), [art. 1](https://www.legislation.gov.uk/uksi/2015/1319/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1319/schedule)
+[^c-a3bed211e84e7782eea6c600a659266d]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1873/article/2/1) substituted (14.5.2015) by [The Rampion Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1319)](https://www.legislation.gov.uk/uksi/2015/1319), [art. 1](https://www.legislation.gov.uk/uksi/2015/1319/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1319/schedule)
 
-[^key-c1d4d648627584666149aa4bdb820aa6]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/1873/article/2) inserted (30.4.2021) by [The Rampion Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/535)](https://www.legislation.gov.uk/uksi/2021/535), [arts. 1](https://www.legislation.gov.uk/uksi/2021/535/article/1), [3](https://www.legislation.gov.uk/uksi/2021/535/article/3)
+[^c-c1d4d648627584666149aa4bdb820aa6]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/1873/article/2) inserted (30.4.2021) by [The Rampion Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/535)](https://www.legislation.gov.uk/uksi/2021/535), [arts. 1](https://www.legislation.gov.uk/uksi/2021/535/article/1), [3](https://www.legislation.gov.uk/uksi/2021/535/article/3)

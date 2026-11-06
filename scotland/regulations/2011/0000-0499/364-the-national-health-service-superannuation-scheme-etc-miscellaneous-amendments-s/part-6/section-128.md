@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 128. Amendment of regulation 8[^key-c79b4d9c2abf07f449464f30a4632956]
+## 128. Amendment of regulation 8[^c-c79b4d9c2abf07f449464f30a4632956]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ In regulation 8 (compensation payable to widow, widower, surviving civil partner
 
 ## Annotations
 
-[^key-c79b4d9c2abf07f449464f30a4632956]: Commencement: [Reg. 128](https://www.legislation.gov.uk/ssi/2011/364/regulation/128) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-c79b4d9c2abf07f449464f30a4632956]: Commencement: [Reg. 128](https://www.legislation.gov.uk/ssi/2011/364/regulation/128) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

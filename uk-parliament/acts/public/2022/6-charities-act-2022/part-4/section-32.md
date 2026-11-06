@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Trustee of charitable trust: status as trust corporation[^key-db661d27702e816c6dbcadbd7f296f67][^key-e660576012ee57245264f0bbdb16927d]
+## 32. Trustee of charitable trust: status as trust corporation[^c-db661d27702e816c6dbcadbd7f296f67][^c-e660576012ee57245264f0bbdb16927d]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-db661d27702e816c6dbcadbd7f296f67]: Commencement: S. 32 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-db661d27702e816c6dbcadbd7f296f67]: Commencement: S. 32 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-e660576012ee57245264f0bbdb16927d]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/6/section/32) in force at 31.10.2022 by [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/7)
+[^c-e660576012ee57245264f0bbdb16927d]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/6/section/32) in force at 31.10.2022 by [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/7)

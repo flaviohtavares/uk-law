@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — Provision of information in relation to the use of biomass in certain circumstances[^key-a328146d1b52d980296b0d512af27431]
+## SCHEDULE 2 — Provision of information in relation to the use of biomass in certain circumstances[^c-a328146d1b52d980296b0d512af27431]
 
 *Extent: E+W+S*
 
@@ -24,18 +24,18 @@ summary: ''
 
 regulation 36C(7)
 
-### 1. Information to be provided to the Authority where biomass is used for combustion or production of biomethane[^key-a328146d1b52d980296b0d512af27431]
+### 1. Information to be provided to the Authority where biomass is used for combustion or production of biomethane[^c-a328146d1b52d980296b0d512af27431]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a328146d1b52d980296b0d512af27431]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), regs. 1(1), [92(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/1) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
+[^c-a328146d1b52d980296b0d512af27431]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), regs. 1(1), [92(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/1) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))

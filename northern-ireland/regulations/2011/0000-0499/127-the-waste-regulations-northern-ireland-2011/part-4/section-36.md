@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Amendment of regulation 1: Citation, commencement and interpretation[^key-78d12efe02fce4f8cd5409aacfb470cd]
+## 36. Amendment of regulation 1: Citation, commencement and interpretation[^c-78d12efe02fce4f8cd5409aacfb470cd]
 
 *Extent: N.I.*
 
@@ -99,7 +99,7 @@ In regulation 1(3) —
 
 ## Annotations
 
-[^key-78d12efe02fce4f8cd5409aacfb470cd]: Commencement: Reg. 36 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-78d12efe02fce4f8cd5409aacfb470cd]: Commencement: Reg. 36 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00024]: Footnote: OJ No L 312, 22.11.2008, p3
 

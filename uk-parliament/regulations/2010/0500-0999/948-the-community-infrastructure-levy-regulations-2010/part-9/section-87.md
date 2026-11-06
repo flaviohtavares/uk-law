@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Late payment interest[^key-2fa9f07b9a1d7a25ee3f0466c984f3e6]
+## 87. Late payment interest[^c-2fa9f07b9a1d7a25ee3f0466c984f3e6]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ P must pay interest (“late payment interest”) on the relevant amount.
 
 ## Annotations
 
-[^key-2fa9f07b9a1d7a25ee3f0466c984f3e6]: Commencement: Reg. 87 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-2fa9f07b9a1d7a25ee3f0466c984f3e6]: Commencement: Reg. 87 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
 [^f00042]: Footnote: [1882 c. 61](https://www.legislation.gov.uk/ukpga/1882/61); section 92 was amended by sections 3(1) and 4(4) of the [Banking and Financial Dealings Act 1971 (c. 80)](https://www.legislation.gov.uk/ukpga/1971/80).

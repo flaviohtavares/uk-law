@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Small businesses in relation to which the Commissioner has functions[^c22567761][^key-4729b65d5112a62e56c512b23f2fac6d]
+## 2. Small businesses in relation to which the Commissioner has functions[^c22567761][^c-4729b65d5112a62e56c512b23f2fac6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 [^c22567761]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/12/section/2) in force at Royal Assent for specified purposes, see [s. 44(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1)
 
-[^key-4729b65d5112a62e56c512b23f2fac6d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/12/section/2) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)
+[^c-4729b65d5112a62e56c512b23f2fac6d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/12/section/2) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)

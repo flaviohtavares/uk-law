@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 187. Persons in prison, youth detention accommodation or bail accommodation etc[^key-5ee6b6350078ab9e2a82b5413b812ca7]
+## 187. Persons in prison, youth detention accommodation or bail accommodation etc[^c-5ee6b6350078ab9e2a82b5413b812ca7]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) is detained in prison or youth detention accommodation, or
 - (b) having been convicted of an offence, is residing in approved premises.
 
-(2) Regulations under section 49A or Schedule A1[^key-36eb4272deb21553e9f5f2daf9a756ec] (direct payments) may not require or allow payments to be made towards the cost of meeting a person's needs for care and support if that person, having been convicted of an offence, is—
+(2) Regulations under section 49A or Schedule A1[^c-36eb4272deb21553e9f5f2daf9a756ec] (direct payments) may not require or allow payments to be made towards the cost of meeting a person's needs for care and support if that person, having been convicted of an offence, is—
 
 - (a) detained in prison or in youth detention accommodation, or
 - (b) residing in approved premises.
@@ -44,6 +44,6 @@ except for the purpose of making provision with respect to accommodation for the
 
 ## Annotations
 
-[^key-5ee6b6350078ab9e2a82b5413b812ca7]: Commencement: S. 187 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-5ee6b6350078ab9e2a82b5413b812ca7]: Commencement: S. 187 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-36eb4272deb21553e9f5f2daf9a756ec]: Textual amendment: Words in [s. 187(2)](https://www.legislation.gov.uk/anaw/2014/4/section/187/2) substituted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/5/5); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
+[^c-36eb4272deb21553e9f5f2daf9a756ec]: Textual amendment: Words in [s. 187(2)](https://www.legislation.gov.uk/anaw/2014/4/section/187/2) substituted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/5/5); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)

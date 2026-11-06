@@ -38,12 +38,12 @@ the charitable payment is not subject to a condition as to repayment.
 
 (6) If subsection (1) applies—
 
-- (a) the repayment is not non-charitable expenditure for the purposes of section 493 or 515 of this Act or section 543(1)(f) of ITA 2007, [^key-4811f42ffcf2eeb947fb78928bd75ba7]...
-- (aa)[^key-30b7fd123316f32bf08cb0c653db6f73] the repayment is not non-qualifying expenditure for the purposes of Chapter 9 of Part 13 (see section 661(5)), and
+- (a) the repayment is not non-charitable expenditure for the purposes of section 493 or 515 of this Act or section 543(1)(f) of ITA 2007, [^c-4811f42ffcf2eeb947fb78928bd75ba7]...
+- (aa)[^c-30b7fd123316f32bf08cb0c653db6f73] the repayment is not non-qualifying expenditure for the purposes of Chapter 9 of Part 13 (see section 661(5)), and
 - (b) paragraphs 56 and 62 (but not 64) of Schedule 18 to FA 1998 (supplementary claims or elections) apply to the repayment.
 
 ## Annotations
 
-[^key-4811f42ffcf2eeb947fb78928bd75ba7]: Textual amendment: Word in [s. 192(6)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/192/6/a) omitted (with effect in accordance with s. 35(13)(14) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/3)
+[^c-4811f42ffcf2eeb947fb78928bd75ba7]: Textual amendment: Word in [s. 192(6)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/192/6/a) omitted (with effect in accordance with s. 35(13)(14) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/3)
 
-[^key-30b7fd123316f32bf08cb0c653db6f73]: Textual amendment: [S. 192(6)(aa)](https://www.legislation.gov.uk/ukpga/2010/4/section/192/6/aa) inserted (with effect in accordance with s. 35(13)(14) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/3)
+[^c-30b7fd123316f32bf08cb0c653db6f73]: Textual amendment: [S. 192(6)(aa)](https://www.legislation.gov.uk/ukpga/2010/4/section/192/6/aa) inserted (with effect in accordance with s. 35(13)(14) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/3)

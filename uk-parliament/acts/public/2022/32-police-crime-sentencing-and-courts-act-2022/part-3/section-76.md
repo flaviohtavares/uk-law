@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Obstruction of vehicular access to Parliament[^key-89823287f9524f6ce710046afce8c6b4][^key-2ac1a7079a3cbe7799e7153b7f5ed312]
+## 76. Obstruction of vehicular access to Parliament[^c-89823287f9524f6ce710046afce8c6b4][^c-2ac1a7079a3cbe7799e7153b7f5ed312]
 
 *Extent: E+W*
 
@@ -81,6 +81,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89823287f9524f6ce710046afce8c6b4]: Commencement: S. 76 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-89823287f9524f6ce710046afce8c6b4]: Commencement: S. 76 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-2ac1a7079a3cbe7799e7153b7f5ed312]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2022/32/section/76) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-2ac1a7079a3cbe7799e7153b7f5ed312]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2022/32/section/76) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)

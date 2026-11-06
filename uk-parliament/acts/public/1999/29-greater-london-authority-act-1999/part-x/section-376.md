@@ -30,7 +30,7 @@ summary: ''
 
 *Extent: E+W*
 
-(4A)[^key-4f4b0ae28160679eb07539c5af1d77c6] Before submitting any proposed revisions under subsection (4) above, the Cultural Strategy Group for London must consult each of the designated consultative bodies (see subsection (10)).
+(4A)[^c-4f4b0ae28160679eb07539c5af1d77c6] Before submitting any proposed revisions under subsection (4) above, the Cultural Strategy Group for London must consult each of the designated consultative bodies (see subsection (10)).
 
 (5) The policies that may be contained in the culture strategy include policies with respect to each of the following matters—
 
@@ -49,22 +49,22 @@ summary: ''
 
 (8) Where the Mayor revises the culture strategy otherwise than in response to proposed revisions submitted by the Cultural Strategy Group for London under subsection (4) above, then, in the case of that revision—
 
-- (a) the bodies and persons required to be consulted under section 42(1)(b) *(Extent: E+W)*[^key-02afa193d637a77f18eecb91e412bbaa] above shall include the Cultural Strategy Group for London; and
-- (b) the references in subsections (2) and (3) of section 42A above[^key-ffbe052091aeacc2ddfe805821d9a337] to the functional bodies *(Extent: E+W)*[^key-aa0ed590a71f067a4b2c3af0980a3520] shall be taken to include a reference to the Cultural Strategy Group for London.
+- (a) the bodies and persons required to be consulted under section 42(1)(b) *(Extent: E+W)*[^c-02afa193d637a77f18eecb91e412bbaa] above shall include the Cultural Strategy Group for London; and
+- (b) the references in subsections (2) and (3) of section 42A above[^c-ffbe052091aeacc2ddfe805821d9a337] to the functional bodies *(Extent: E+W)*[^c-aa0ed590a71f067a4b2c3af0980a3520] shall be taken to include a reference to the Cultural Strategy Group for London.
 
 *Extent: E+W*
 
-(8A)[^key-aebf4aff75a6ce7e04a767da758532d8] Where, by virtue of subsection (8)(a) above, the Mayor consults the Cultural Strategy Group for London, the Cultural Strategy Group for London must consult the designated consultative bodies before submitting any comments in response to the Mayor.
+(8A)[^c-aebf4aff75a6ce7e04a767da758532d8] Where, by virtue of subsection (8)(a) above, the Mayor consults the Cultural Strategy Group for London, the Cultural Strategy Group for London must consult the designated consultative bodies before submitting any comments in response to the Mayor.
 
 (9) In this Act, references to the culture strategy include, except where the context otherwise requires, a reference to the culture strategy as revised.
 
 *Extent: E+W*
 
-(10)[^key-d7bf59a54d5e5dca935f2d45d5840bd6] For the purposes of this section, the “**designated consultative bodies**” are the following—
+(10)[^c-d7bf59a54d5e5dca935f2d45d5840bd6] For the purposes of this section, the “**designated consultative bodies**” are the following—
 
 - Archives, Libraries and Museums London
 - the Arts Council of England
-- [^key-ce48d782ca96916d08d6a672825a2490]...
+- [^c-ce48d782ca96916d08d6a672825a2490]...
 - the English Sports Council
 - the Historic Buildings and Monuments Commission for England
 - the Museums, Libraries and Archives Council
@@ -79,16 +79,16 @@ but not so as to include any body that does not have functions relating to sport
 
 ## Annotations
 
-[^key-4f4b0ae28160679eb07539c5af1d77c6]: Textual amendment: S. 376(4A) inserted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 50(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/50/2), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/113/article/2/j)
+[^c-4f4b0ae28160679eb07539c5af1d77c6]: Textual amendment: S. 376(4A) inserted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 50(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/50/2), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/113/article/2/j)
 
-[^key-02afa193d637a77f18eecb91e412bbaa]: Textual amendment: Words in s. 376(8)(a) substituted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 50(3)(a)](https://www.legislation.gov.uk/ukpga/2007/24/section/50/3/a), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/113/article/2/j)
+[^c-02afa193d637a77f18eecb91e412bbaa]: Textual amendment: Words in s. 376(8)(a) substituted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 50(3)(a)](https://www.legislation.gov.uk/ukpga/2007/24/section/50/3/a), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/113/article/2/j)
 
-[^key-ffbe052091aeacc2ddfe805821d9a337]: Textual amendment: Words in s. 376(8)(b) substituted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/2/3), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-ffbe052091aeacc2ddfe805821d9a337]: Textual amendment: Words in s. 376(8)(b) substituted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/2/3), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
 
-[^key-aa0ed590a71f067a4b2c3af0980a3520]: Textual amendment: Words in s. 376(8)(b) substituted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 50(3)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/50/3/b), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/113/article/2/j)
+[^c-aa0ed590a71f067a4b2c3af0980a3520]: Textual amendment: Words in s. 376(8)(b) substituted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 50(3)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/50/3/b), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/113/article/2/j)
 
-[^key-aebf4aff75a6ce7e04a767da758532d8]: Textual amendment: S. 376(8A) inserted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 50(4)](https://www.legislation.gov.uk/ukpga/2007/24/section/50/4), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/113/article/2/j)
+[^c-aebf4aff75a6ce7e04a767da758532d8]: Textual amendment: S. 376(8A) inserted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 50(4)](https://www.legislation.gov.uk/ukpga/2007/24/section/50/4), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/113/article/2/j)
 
-[^key-d7bf59a54d5e5dca935f2d45d5840bd6]: Textual amendment: S. 376(10)(11) inserted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 50(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/50/5), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/113/article/2/j)
+[^c-d7bf59a54d5e5dca935f2d45d5840bd6]: Textual amendment: S. 376(10)(11) inserted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 50(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/50/5), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/113/article/2/j)
 
-[^key-ce48d782ca96916d08d6a672825a2490]: Textual amendment: Words in s. 376(10) repealed (21.1.2012) by [The Commission for Architecture and the Built Environment (Dissolution) Order 2012 (S.I. 2012/147)](https://www.legislation.gov.uk/uksi/2012/147), [art. 1](https://www.legislation.gov.uk/uksi/2012/147/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/147/schedule)
+[^c-ce48d782ca96916d08d6a672825a2490]: Textual amendment: Words in s. 376(10) repealed (21.1.2012) by [The Commission for Architecture and the Built Environment (Dissolution) Order 2012 (S.I. 2012/147)](https://www.legislation.gov.uk/uksi/2012/147), [art. 1](https://www.legislation.gov.uk/uksi/2012/147/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/147/schedule)

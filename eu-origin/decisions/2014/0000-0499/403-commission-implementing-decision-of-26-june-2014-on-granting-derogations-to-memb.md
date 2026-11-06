@@ -42,110 +42,110 @@ on granting derogations to Member States with respect to the transmission of sta
 
 (2014/403/EU) (revoked)
 
-[^key-bf23d80614698f15b6172675d1fc96b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf23d80614698f15b6172675d1fc96b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-bf23d80614698f15b6172675d1fc96b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-bf23d80614698f15b6172675d1fc96b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-bf23d80614698f15b6172675d1fc96b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-bf23d80614698f15b6172675d1fc96b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — LIST OF SPECIFIC DEROGATIONS FROM REGULATION (EU) No 549/2013[^key-bf23d80614698f15b6172675d1fc96b0]
+## ANNEX — LIST OF SPECIFIC DEROGATIONS FROM REGULATION (EU) No 549/2013[^c-bf23d80614698f15b6172675d1fc96b0]
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Belgium**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Bulgaria**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Belgium**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Denmark**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Bulgaria**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Germany**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Denmark**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Estonia**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Germany**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Ireland**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Estonia**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Spain**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Ireland**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: France**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Spain**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Croatia**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: France**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Cyprus**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Croatia**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Latvia**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Cyprus**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Luxembourg**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Latvia**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Hungary**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Luxembourg**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Malta**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Hungary**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Austria**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Malta**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Poland**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Austria**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Portugal**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Poland**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Romania**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Portugal**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Slovenia**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Romania**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Slovakia**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Slovenia**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Finland**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Slovakia**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: Sweden**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Finland**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf23d80614698f15b6172675d1fc96b0] **Country: United Kingdom**
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: Sweden**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-bf23d80614698f15b6172675d1fc96b0] **Country: United Kingdom**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bf23d80614698f15b6172675d1fc96b0]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 75](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/75)
+[^c-bf23d80614698f15b6172675d1fc96b0]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 75](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/75)

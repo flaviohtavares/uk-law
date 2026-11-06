@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Submission of opt-in bid form to OFCOM[^key-b154f4c335d5a4765463c19057b44ca3]
+## 46. Submission of opt-in bid form to OFCOM[^c-b154f4c335d5a4765463c19057b44ca3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b154f4c335d5a4765463c19057b44ca3]: Commencement: Reg. 46 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-b154f4c335d5a4765463c19057b44ca3]: Commencement: Reg. 46 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

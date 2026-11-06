@@ -42,7 +42,7 @@ The Secretary of State makes this Order—
 - (a) in exercise of the powers conferred by section 22 of the Petroleum Act 1987[^f00001]; and
 - (b) for the purpose of giving effect to proposals submitted to him by the Health and Safety Executive under section 24(2A)[^f00002] of that Act.
 
-## 1. Citation and commencement[^key-add09a6d00690d9e80a933aaec5b636b]
+## 1. Citation and commencement[^c-add09a6d00690d9e80a933aaec5b636b]
 
 (1) This Order may be cited as the Offshore Installations (Safety Zones) Order 2013.
 
@@ -50,13 +50,13 @@ The Secretary of State makes this Order—
 
 ## 2. Establishment of safety zones
 
-(1)[^key-089ea150c4c0f3235ca9f566402e236f] A safety zone is established around each installation specified in column 1 of Part 1 of the Schedule (being an installation stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984[^f00003] specified in columns 2 and 3 of Part 1 of the Schedule.
+(1)[^c-089ea150c4c0f3235ca9f566402e236f] A safety zone is established around each installation specified in column 1 of Part 1 of the Schedule (being an installation stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984[^f00003] specified in columns 2 and 3 of Part 1 of the Schedule.
 
-(2)[^key-b1303889ae63d6aa859a7e667be25c93] A safety zone is established around each installation specified in column 1 of Part 2 of the Schedule (being an installation to be stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984 specified in columns 2 and 3 of Part 2 of the Schedule.
+(2)[^c-b1303889ae63d6aa859a7e667be25c93] A safety zone is established around each installation specified in column 1 of Part 2 of the Schedule (being an installation to be stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984 specified in columns 2 and 3 of Part 2 of the Schedule.
 
-(3)[^key-089ea150c4c0f3235ca9f566402e236f] Paragraph (2) comes into force, as respects each installation specified in column 1 of Part 2 of the Schedule, when the installation arrives at its station.
+(3)[^c-089ea150c4c0f3235ca9f566402e236f] Paragraph (2) comes into force, as respects each installation specified in column 1 of Part 2 of the Schedule, when the installation arrives at its station.
 
-## 3. Amendment of the Offshore Installations (Safety Zones) (No. 3) Order 2004[^key-1321bfed8fcc208e9c211e751b1c3787]
+## 3. Amendment of the Offshore Installations (Safety Zones) (No. 3) Order 2004[^c-1321bfed8fcc208e9c211e751b1c3787]
 
 In the Offshore Installations (Safety Zones) (No. 3) Order 2004[^f00004], in the Schedule, omit the entry for Arthur Production Well 1 and Subsea Manifold including its co-ordinates.
 
@@ -74,20 +74,20 @@ Department for Work and Pensions
 
 Article 2
 
-### PART 1 — Installations stationed at time the Order is made[^key-c2426d1ce9434c4a2bf9e258893fcb9b]
+### PART 1 — Installations stationed at time the Order is made[^c-c2426d1ce9434c4a2bf9e258893fcb9b]
 
 | *(1)*<br>*Name or other designation of the offshore installation* | *(2)*<br>*Latitude* | *(3)*<br>*Longitude* |
 | --- | --- | --- |
 | Arthur Production Well 1 and Subsea Manifold<br>Block 53/02, Thames and Welland Field | 52°54.726’ North | 02°14.847’ East |
 | Carrack East Drill Site<br>Block 49/15a, Carrack Field | 53°34.53’ North | 02°52.86’ East |
 | Carrack West Drill Site<br>Block 49/14b, Carrack Field | 53°35.84’ North | 02°41.85’ East |
-| [^key-6def8fdf5880377b76a8b573ed056ff6]. . . |  |  |
+| [^c-6def8fdf5880377b76a8b573ed056ff6]. . . |  |  |
 | Production Well P1<br>Block 211/23d, Causeway Field | 61°16.49’ North | 01°25.83’ East |
 | Production Well P2<br>Block 211/22a, Fionn Field | 61°14.44’ North | 01°22.06’ East |
 | Schiehallion<br>Block 204/20, Schiehallion/Loyal Field | 60°21.38’ North | 04°04.07’ West |
 | Water Injection Well WI<br>Block 211/23d, Causeway Field | 61°15.75’ North | 01°25.54’ East |
 
-### PART 2 — Installations not stationed at time the Order is made[^key-5f2ce7af5ce5879e3569c3581addde09]
+### PART 2 — Installations not stationed at time the Order is made[^c-5f2ce7af5ce5879e3569c3581addde09]
 
 | *(1)*<br>*Name or other designation of the offshore installation* | *(2)*<br>*Latitude* | *(3)*<br>*Longitude* |
 | --- | --- | --- |
@@ -123,20 +123,20 @@ It is estimated that the following installations, which are not on station at th
 
 [^f00002]: Footnote: Section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823) and amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
 
-[^key-add09a6d00690d9e80a933aaec5b636b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/1758/article/1) in force at 6.8.2013 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/1/2)
+[^c-add09a6d00690d9e80a933aaec5b636b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/1758/article/1) in force at 6.8.2013 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/1/2)
 
-[^key-089ea150c4c0f3235ca9f566402e236f]: Commencement: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1758/article/2/1)[(3)](https://www.legislation.gov.uk/uksi/2013/1758/article/2/3) in force at 6.8.2013 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/1/2)
+[^c-089ea150c4c0f3235ca9f566402e236f]: Commencement: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1758/article/2/1)[(3)](https://www.legislation.gov.uk/uksi/2013/1758/article/2/3) in force at 6.8.2013 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/1/2)
 
 [^f00003]: Footnote: The World Geodetic System 1984 (“WGS 84”) defines a reference frame for the earth, for use in geodesy and navigation. It was developed by the United States’ National Geospatial-Intelligence Agency and is maintained by it. WGS 84 is defined at paragraph 2.1 of the United States’ National Imagery and Mapping Agency Technical Report TR8350.2, third edition, amendment 1 of 3rd January 2000 entitled “Department of Defense World Geodetic System 1984” (http://earth-info.nga.mil/GandG/publications/tr8350.2/wgs84fin.pdf).
 
-[^key-b1303889ae63d6aa859a7e667be25c93]: Commencement: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/2/2) in force in accordance with [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/2/2)
+[^c-b1303889ae63d6aa859a7e667be25c93]: Commencement: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/2/2) in force in accordance with [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/2/2)
 
-[^key-1321bfed8fcc208e9c211e751b1c3787]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/1758/article/3) in force at 6.8.2013 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/1/2)
+[^c-1321bfed8fcc208e9c211e751b1c3787]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/1758/article/3) in force at 6.8.2013 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/1/2)
 
 [^f00004]: Footnote: [S.I. 2004/1746](https://www.legislation.gov.uk/uksi/2004/1746).
 
-[^key-c2426d1ce9434c4a2bf9e258893fcb9b]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/1758/schedule/part/1) in force at 6.8.2013 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/1/2)
+[^c-c2426d1ce9434c4a2bf9e258893fcb9b]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/1758/schedule/part/1) in force at 6.8.2013 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/1/2)
 
-[^key-6def8fdf5880377b76a8b573ed056ff6]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/1758/schedule/part/1) omitted (8.8.2023) by virtue of [The Offshore Installations (Safety Zones) Order 2023 (S.I. 2023/838)](https://www.legislation.gov.uk/uksi/2023/838), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/838/article/4/2)
+[^c-6def8fdf5880377b76a8b573ed056ff6]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/1758/schedule/part/1) omitted (8.8.2023) by virtue of [The Offshore Installations (Safety Zones) Order 2023 (S.I. 2023/838)](https://www.legislation.gov.uk/uksi/2023/838), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/838/article/4/2)
 
-[^key-5f2ce7af5ce5879e3569c3581addde09]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/1758/schedule/part/2) in force at 6.8.2013 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/1/2)
+[^c-5f2ce7af5ce5879e3569c3581addde09]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/1758/schedule/part/2) in force at 6.8.2013 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/1/2)

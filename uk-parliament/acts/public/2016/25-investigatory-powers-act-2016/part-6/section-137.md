@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Obtaining secondary data[^key-6bb43faaa0197defd7565c1d4ff59c18]
+## 137. Obtaining secondary data[^c-6bb43faaa0197defd7565c1d4ff59c18]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ and references to secondary data obtained under a bulk interception warrant are 
 
 ## Annotations
 
-[^key-6bb43faaa0197defd7565c1d4ff59c18]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2016/25/section/137) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/b)
+[^c-6bb43faaa0197defd7565c1d4ff59c18]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2016/25/section/137) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/b)

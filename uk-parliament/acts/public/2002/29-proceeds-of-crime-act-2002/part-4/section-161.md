@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Time for payment[^key-fd5c423174d94cd56b00e3914800a6da][^key-e3634034bab4be7cd4cb838ceea63874][^key-208b34e624542ff86d7428e16b1c030d][^key-e3634034bab4be7cd4cb838ceea63874]
+## 161. Time for payment[^c-fd5c423174d94cd56b00e3914800a6da][^c-e3634034bab4be7cd4cb838ceea63874][^c-208b34e624542ff86d7428e16b1c030d][^c-e3634034bab4be7cd4cb838ceea63874]
 
 *Extent: N.I.*
 
@@ -60,8 +60,8 @@ that amount is required to be paid no later than that day.
 
 ## Annotations
 
-[^key-fd5c423174d94cd56b00e3914800a6da]: Commencement: S. 161 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
+[^c-fd5c423174d94cd56b00e3914800a6da]: Commencement: S. 161 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
 
-[^key-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
+[^c-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
 
-[^key-208b34e624542ff86d7428e16b1c030d]: Textual amendment: S. 161 substituted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/28/1), [88(3)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/3/a); [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/b)
+[^c-208b34e624542ff86d7428e16b1c030d]: Textual amendment: S. 161 substituted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/28/1), [88(3)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/3/a); [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 284. Administrator’s security[^key-b730b6662602a31ffbb2587c0bae9c47]
+## 284. Administrator’s security[^c-b730b6662602a31ffbb2587c0bae9c47]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b730b6662602a31ffbb2587c0bae9c47]: Commencement: [Rule 284](https://www.legislation.gov.uk/nisr/2026/11/rule/284) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-b730b6662602a31ffbb2587c0bae9c47]: Commencement: [Rule 284](https://www.legislation.gov.uk/nisr/2026/11/rule/284) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. The professional liability risks to be covered pursuant to rule 11.2.1 of the Interim Prudential sourcebook for Investment Businesses[^key-d42a6df7b34e14e0c52cdd79306ce0fe] shall be risks of loss or damage caused by a relevant person through the negligent performance of activities for which the AIFM has legal responsibility.
+1. The professional liability risks to be covered pursuant to rule 11.2.1 of the Interim Prudential sourcebook for Investment Businesses[^c-d42a6df7b34e14e0c52cdd79306ce0fe] shall be risks of loss or damage caused by a relevant person through the negligent performance of activities for which the AIFM has legal responsibility.
 
 2. Professional liability risks as defined in paragraph 1 shall include, without being limited to, risks of:
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d42a6df7b34e14e0c52cdd79306ce0fe]: Textual amendment: Words in Art. 12(1) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [23(12)](https://www.legislation.gov.uk/uksi/2019/328/regulation/23) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d42a6df7b34e14e0c52cdd79306ce0fe]: Textual amendment: Words in Art. 12(1) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [23(12)](https://www.legislation.gov.uk/uksi/2019/328/regulation/23) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Labelling and packaging of products, other than components[^key-374baff361fd7503f4f6de67fbfd4826]
+## 12. Labelling and packaging of products, other than components[^c-374baff361fd7503f4f6de67fbfd4826]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Save for where a product is a component, before placing a product on the market 
 
 ## Annotations
 
-[^key-374baff361fd7503f4f6de67fbfd4826]: Commencement: Reg. 12 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-374baff361fd7503f4f6de67fbfd4826]: Commencement: Reg. 12 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

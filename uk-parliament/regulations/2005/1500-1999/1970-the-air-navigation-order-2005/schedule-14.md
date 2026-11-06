@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 14 — PENALTIES[^key-b7b402064b21eb4ca8461de952b1beb3]
+## SCHEDULE 14 — PENALTIES[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Article 148
 
-### PART A — Provisions referred to in article 148(5)[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART A — Provisions referred to in article 148(5)[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Provisions referred to in article 148(6)[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART B — Provisions referred to in article 148(6)[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART C — Provisions referred to in article 148(7)[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART C — Provisions referred to in article 148(7)[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7b402064b21eb4ca8461de952b1beb3]: Textual amendment: Order revoked (1.1.2010) by [The Air Navigation Order 2009 (S.I.2009/3015)](https://www.legislation.gov.uk/uksi/2009/3015), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3015/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3015/schedule/1)
+[^c-b7b402064b21eb4ca8461de952b1beb3]: Textual amendment: Order revoked (1.1.2010) by [The Air Navigation Order 2009 (S.I.2009/3015)](https://www.legislation.gov.uk/uksi/2009/3015), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3015/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3015/schedule/1)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

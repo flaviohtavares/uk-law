@@ -102,7 +102,7 @@ HAS ADOPTED THIS REGULATION:
 
 2. The competent authorities shall develop and arrange the training programme to ensure that the physical checks referred to in Article 1 are performed with the necessary level of technical competence and expertise. The training programme shall be both theoretical and practical.
 
-3. The competent authorities shall keep records of the training programme on paper or in electronic form for each individual, including the dates, duration, programme description, and, where appropriate, certificates attesting the successful completion of the training programme by staff. The competent authorities [^key-733b2b2ec341b9a510321e64252bea99]... shall ensure that each border control post within the territory for which they are responsible[^key-98c9580e9717b79ebd5e19d671c7a8ab] has access to training records kept on paper or in electronic format.
+3. The competent authorities shall keep records of the training programme on paper or in electronic form for each individual, including the dates, duration, programme description, and, where appropriate, certificates attesting the successful completion of the training programme by staff. The competent authorities [^c-733b2b2ec341b9a510321e64252bea99]... shall ensure that each border control post within the territory for which they are responsible[^c-98c9580e9717b79ebd5e19d671c7a8ab] has access to training records kept on paper or in electronic format.
 
 ## Article 3. Requirements concerning the subject matters of the training programme
 
@@ -110,10 +110,10 @@ HAS ADOPTED THIS REGULATION:
 
 2. The training programme shall cover the following subject matters:
 
-- (a) applicable law[^key-1fd2d0f848fa1f5f62c2cbc4f79edf66] concerning the entry into Great Britain[^key-a24c46dc96c8beee757bfb2ecfaeeb1d] of animals and goods, including procedures and activities to be carried out during and after physical checks;
+- (a) applicable law[^c-1fd2d0f848fa1f5f62c2cbc4f79edf66] concerning the entry into Great Britain[^c-a24c46dc96c8beee757bfb2ecfaeeb1d] of animals and goods, including procedures and activities to be carried out during and after physical checks;
 - (b) general principles of examination of animals;
 - (c) examination of the fitness to travel of animals;
-- (d) practical aspects of handling of animals in line with applicable law[^key-9114b7afcd012402b54c43d567eef1de], including arrangements to prevent or reduce delays at border control posts and, where necessary, to feed, water, unload and accommodate the animals;
+- (d) practical aspects of handling of animals in line with applicable law[^c-9114b7afcd012402b54c43d567eef1de], including arrangements to prevent or reduce delays at border control posts and, where necessary, to feed, water, unload and accommodate the animals;
 - (e) sensorial examination of goods;
 - (f) examination of the means of transport and the transport conditions, including the management of temperature-sensitive goods (cold chain) and the transport of animals;
 - (g) identification of animal species, including, when appropriate, identification of invasive alien species as defined in point (2) of Article 3 of Regulation (EU) No 1143/2014 of the European Parliament and of the Council[^f00004] introduced via animals and goods;
@@ -121,13 +121,13 @@ HAS ADOPTED THIS REGULATION:
   - ((i)) the use of equipment;
   - ((ii)) the implementation of monitoring plans;
   - ((iii)) sampling procedures and laboratory analysis with regard to animals and animal and public health aspects;
-- (i) methods for the interpretation of laboratory test results and related decisions in accordance with the requirements of applicable law[^key-3f6e3cef50301604c87255e490514b26];
+- (i) methods for the interpretation of laboratory test results and related decisions in accordance with the requirements of applicable law[^c-3f6e3cef50301604c87255e490514b26];
 - (j) risk assessment, including data gathering in relation to animal and public health in order to carry out appropriately targeted physical checks;
 - (k) prevention of cross-contamination and compliance with relevant biosecurity standards;
 - (l) labelling requirements for goods referred to in Article 47(1)(b) of Regulation (EU) 2017/625;
 - (m) investigations and control techniques aimed at detecting fraudulent or deceptive practices in trade.
 
-## Article 4. Training activities and programmes for the exchange of staff organised pursuant to Article 130 of Regulation (EU) 2017/625[^key-4105d40e402c0ff7ed91d9ba5a52ee3e]
+## Article 4. Training activities and programmes for the exchange of staff organised pursuant to Article 130 of Regulation (EU) 2017/625[^c-4105d40e402c0ff7ed91d9ba5a52ee3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -141,7 +141,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 14 December 2019.
 
-[^key-af90348affaf622cb9d485c5a2ea531f]...
+[^c-af90348affaf622cb9d485c5a2ea531f]...
 
 Done at Brussels, 8 March 2019.
 
@@ -159,20 +159,20 @@ Jean-Claude Juncker
 
 [^f00003]: Footnote: Commission Decision 93/352/EEC of 1 June 1993 laying down derogations from the conditions of approval for border inspection posts located in ports where fish is landed ([OJ L 144, 16.6.1993, p. 25](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1993.144.01.0025.01.ENG)).
 
-[^key-733b2b2ec341b9a510321e64252bea99]: Textual amendment: Words in [Art. 2(3)](https://www.legislation.gov.uk/eur/2019/1081/article/2/3) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/2/a) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-733b2b2ec341b9a510321e64252bea99]: Textual amendment: Words in [Art. 2(3)](https://www.legislation.gov.uk/eur/2019/1081/article/2/3) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/2/a) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-98c9580e9717b79ebd5e19d671c7a8ab]: Textual amendment: Words in [Art. 2(3)](https://www.legislation.gov.uk/eur/2019/1081/article/2/3) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/2/b) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-98c9580e9717b79ebd5e19d671c7a8ab]: Textual amendment: Words in [Art. 2(3)](https://www.legislation.gov.uk/eur/2019/1081/article/2/3) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/2/b) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-1fd2d0f848fa1f5f62c2cbc4f79edf66]: Textual amendment: Word in [Art. 3(2)(a)](https://www.legislation.gov.uk/eur/2019/1081/article/3/2/a) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/3/a/i) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-1fd2d0f848fa1f5f62c2cbc4f79edf66]: Textual amendment: Word in [Art. 3(2)(a)](https://www.legislation.gov.uk/eur/2019/1081/article/3/2/a) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/3/a/i) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-a24c46dc96c8beee757bfb2ecfaeeb1d]: Textual amendment: Words in [Art. 3(2)(a)](https://www.legislation.gov.uk/eur/2019/1081/article/3/2/a) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/3/a/ii) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-a24c46dc96c8beee757bfb2ecfaeeb1d]: Textual amendment: Words in [Art. 3(2)(a)](https://www.legislation.gov.uk/eur/2019/1081/article/3/2/a) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/3/a/ii) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-9114b7afcd012402b54c43d567eef1de]: Textual amendment: Words in [Art. 3(2)(d)](https://www.legislation.gov.uk/eur/2019/1081/article/3/2/d) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(3)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/3/b) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-9114b7afcd012402b54c43d567eef1de]: Textual amendment: Words in [Art. 3(2)(d)](https://www.legislation.gov.uk/eur/2019/1081/article/3/2/d) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(3)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/3/b) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
 [^f00004]: Footnote: Regulation (EU) No 1143/2014 of the European Parliament and of the Council of 22 October 2014 on the prevention and management of the introduction and spread of invasive alien species ([OJ L 317, 4.11.2014, p. 35](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.317.01.0035.01.ENG)).
 
-[^key-3f6e3cef50301604c87255e490514b26]: Textual amendment: Word in [Art. 3(2)(i)](https://www.legislation.gov.uk/eur/2019/1081/article/3/2/i) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(3)(c)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/3/c) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-3f6e3cef50301604c87255e490514b26]: Textual amendment: Word in [Art. 3(2)(i)](https://www.legislation.gov.uk/eur/2019/1081/article/3/2/i) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(3)(c)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/3/c) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-4105d40e402c0ff7ed91d9ba5a52ee3e]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2019/1081/article/4) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/4) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-4105d40e402c0ff7ed91d9ba5a52ee3e]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2019/1081/article/4) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/4) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-af90348affaf622cb9d485c5a2ea531f]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(5)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/5) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-af90348affaf622cb9d485c5a2ea531f]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [20(5)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/20/5) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))

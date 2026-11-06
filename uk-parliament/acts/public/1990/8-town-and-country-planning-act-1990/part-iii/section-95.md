@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Effect of completion notice in Wales.[^key-c535e126eefc3ab65ae2f264b1ce2f6d]
+## 95. Effect of completion notice in Wales.[^c-c535e126eefc3ab65ae2f264b1ce2f6d]
 
 *Extent: E+W*
 
-(1) A completion notice served in respect of land in Wales[^key-ba9c188b11c654ab268b9f11d583fdc7] shall not take effect unless and until it is confirmed by the Secretary of State.
+(1) A completion notice served in respect of land in Wales[^c-ba9c188b11c654ab268b9f11d583fdc7] shall not take effect unless and until it is confirmed by the Secretary of State.
 
 (2)[^c14020821] In confirming a completion notice the Secretary of State may substitute some longer period for that specified in the notice as the period at the expiration of which the planning permission is to cease to have effect.
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c535e126eefc3ab65ae2f264b1ce2f6d]: Textual amendment: Words in [s. 95 heading](https://www.legislation.gov.uk/ukpga/1990/8/part/III/crossheading/duration-of-planning-permission) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3), [Sch. 11 para. 5(a)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/11/paragraph/5/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-c535e126eefc3ab65ae2f264b1ce2f6d]: Textual amendment: Words in [s. 95 heading](https://www.legislation.gov.uk/ukpga/1990/8/part/III/crossheading/duration-of-planning-permission) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3), [Sch. 11 para. 5(a)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/11/paragraph/5/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-ba9c188b11c654ab268b9f11d583fdc7]: Textual amendment: Words in [s. 95(1)](https://www.legislation.gov.uk/ukpga/1990/8/section/95/1) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3), [Sch. 11 para. 5(b)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/11/paragraph/5/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-ba9c188b11c654ab268b9f11d583fdc7]: Textual amendment: Words in [s. 95(1)](https://www.legislation.gov.uk/ukpga/1990/8/section/95/1) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3), [Sch. 11 para. 5(b)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/11/paragraph/5/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c14020821]: Modification: S. 95(2) modified (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [s. 10(6)](https://www.legislation.gov.uk/ukpga/1996/61/section/10/6)

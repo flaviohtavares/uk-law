@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Producer responsibility obligations[^key-0651d4512a95386b8d2c451bc6b53af4][^key-dd82753d111664a2598412073f862569][^key-f53e408f42932d351d738f0bed6272b8][^key-4a1bb55930559a05b6f7e683f453e214][^key-c2c01cba02cdb3f742762a2527c5ebb9]
+## 50. Producer responsibility obligations[^c-0651d4512a95386b8d2c451bc6b53af4][^c-dd82753d111664a2598412073f862569][^c-f53e408f42932d351d738f0bed6272b8][^c-4a1bb55930559a05b6f7e683f453e214][^c-c2c01cba02cdb3f742762a2527c5ebb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,12 +45,12 @@ summary: ''
 
 ## Annotations
 
-[^key-0651d4512a95386b8d2c451bc6b53af4]: Commencement: S. 50 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)-(6)
+[^c-0651d4512a95386b8d2c451bc6b53af4]: Commencement: S. 50 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)-(6)
 
-[^key-dd82753d111664a2598412073f862569]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2021/30/section/50) in force at 24.1.2022 for E. by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2022/48/regulation/6))
+[^c-dd82753d111664a2598412073f862569]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2021/30/section/50) in force at 24.1.2022 for E. by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2022/48/regulation/6))
 
-[^key-f53e408f42932d351d738f0bed6272b8]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2021/30/section/50) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2022/54/article/3))
+[^c-f53e408f42932d351d738f0bed6272b8]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2021/30/section/50) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2022/54/article/3))
 
-[^key-4a1bb55930559a05b6f7e683f453e214]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2021/30/section/50) in force at 7.3.2022 for W. by [S.I. 2022/223](https://www.legislation.gov.uk/wsi/2022/223), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/223/regulation/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2022/223/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/223/regulation/3))
+[^c-4a1bb55930559a05b6f7e683f453e214]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2021/30/section/50) in force at 7.3.2022 for W. by [S.I. 2022/223](https://www.legislation.gov.uk/wsi/2022/223), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/223/regulation/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2022/223/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/223/regulation/3))
 
-[^key-c2c01cba02cdb3f742762a2527c5ebb9]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2021/30/section/50) in force at 9.11.2022 for S. by [S.S.I. 2022/305](https://www.legislation.gov.uk/ssi/2022/305), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2022/305/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/305/regulation/3))
+[^c-c2c01cba02cdb3f742762a2527c5ebb9]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2021/30/section/50) in force at 9.11.2022 for S. by [S.S.I. 2022/305](https://www.legislation.gov.uk/ssi/2022/305), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2022/305/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/305/regulation/3))

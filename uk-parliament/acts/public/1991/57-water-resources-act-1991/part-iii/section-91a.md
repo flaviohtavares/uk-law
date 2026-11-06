@@ -31,7 +31,7 @@ summary: ''
     - (B) any substantial change in the operations for the removal of water from the mine; but
 - (b) does not include—
   - (i) any disclaimer under section 178 or 315 of the [^c18733421]Insolvency Act 1986 (power of liquidator, or trustee of a bankrupt’s estate, to disclaim onerous property) by the official receiver acting in a compulsory capacity; or
-  - (ii) the abandonment of any rights, interests or liabilities by the Accountant in Bankruptcy acting as trustee[^key-8ba4fcca66bfa1cf86d95489e3b73771] or interim trustee in a sequestration (within the meaning of the [^c18733431]Bankruptcy (Scotland) Act 2016[^key-1786e2b8b3335c08769a85fb38e52a0e]);
+  - (ii) the abandonment of any rights, interests or liabilities by the Accountant in Bankruptcy acting as trustee[^c-8ba4fcca66bfa1cf86d95489e3b73771] or interim trustee in a sequestration (within the meaning of the [^c18733431]Bankruptcy (Scotland) Act 2016[^c-1786e2b8b3335c08769a85fb38e52a0e]);
 
 and cognate expressions shall be construed accordingly.
 
@@ -59,11 +59,11 @@ and cognate expressions shall be construed accordingly.
 
 [^c18733421]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-8ba4fcca66bfa1cf86d95489e3b73771]: Textual amendment: Word in [s. 91A(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/1991/57/section/91A/1/b/ii) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/8/2/a)
+[^c-8ba4fcca66bfa1cf86d95489e3b73771]: Textual amendment: Word in [s. 91A(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/1991/57/section/91A/1/b/ii) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/8/2/a)
 
 [^c18733431]: Marginal citation: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66).
 
-[^key-1786e2b8b3335c08769a85fb38e52a0e]: Textual amendment: Word in [s. 91A(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/1991/57/section/91A/1/b/ii) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/8/2/b)
+[^c-1786e2b8b3335c08769a85fb38e52a0e]: Textual amendment: Word in [s. 91A(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/1991/57/section/91A/1/b/ii) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/8/2/b)
 
 [^c18733441]: Marginal citation: [1954 c. 70](https://www.legislation.gov.uk/ukpga/1954/70).
 

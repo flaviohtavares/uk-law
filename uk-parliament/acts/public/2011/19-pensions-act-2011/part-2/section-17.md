@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. No indemnification for civil penalties[^c2114371][^key-f8599e759c71d3ada039275c4b4f2915]
+## 17. No indemnification for civil penalties[^c2114371][^c-f8599e759c71d3ada039275c4b4f2915]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In section 256 of the Pensions Act 2004 (no indemnification for fines or civil p
 
 [^c2114371]: Commencement: [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) partly in force; [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) in force at 3.11.2011 in so far as it confers power to make subordinate legislation see [s. 38(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1).
 
-[^key-f8599e759c71d3ada039275c4b4f2915]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2011/19/section/17) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/2/c)
+[^c-f8599e759c71d3ada039275c4b4f2915]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2011/19/section/17) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Terms and conditions of police staff[^key-757b90393e4c8858c32e5164f72b9f63]
+## 27. Terms and conditions of police staff[^c-757b90393e4c8858c32e5164f72b9f63]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-757b90393e4c8858c32e5164f72b9f63]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2012/8/section/27) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-757b90393e4c8858c32e5164f72b9f63]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2012/8/section/27) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

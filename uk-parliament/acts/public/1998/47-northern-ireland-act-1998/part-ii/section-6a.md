@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Restriction relating to retained EU law[^key-44ee3a28802e299628a6054d568b3ab4]
+## 6A. Restriction relating to retained EU law[^c-44ee3a28802e299628a6054d568b3ab4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44ee3a28802e299628a6054d568b3ab4]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/1998/47/section/6A) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/3/3)
+[^c-44ee3a28802e299628a6054d568b3ab4]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/1998/47/section/6A) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/3/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.4. Duty to make records[^key-6302c7f103bdf5c3f3e80100a9aa33bb]
+## 5.4. Duty to make records[^c-6302c7f103bdf5c3f3e80100a9aa33bb]
 
 *Extent: E+W*
 
@@ -53,9 +53,9 @@ summary: ''
   - (v) the parties’ legal representatives, if any, and
   - (vi) the judge, magistrate or magistrates, justices’ legal adviser or other person who made each recorded decision;
 - (m) where a defendant is entitled to attend a hearing, any agreement by the defendant to waive that right;
-- (n) where interpretation is required for a defendant, any agreement by that defendant to do without the written translation of a document; [^key-096bffe0c7e0f2dc352799c3d9835502]...
-- (o) any order made by the court on an application under rule 5.8(8) which prohibits a supply of information by the court officer without the court’s permission ; and[^key-a9305257089b685f19e6404ec9074e84]
-- (p)[^key-d8546565080eda9d04507b4fa930fe09] any view announced by the court on passing sentence that an offence involved domestic abuse within the meaning of the Domestic Abuse Act 2021.
+- (n) where interpretation is required for a defendant, any agreement by that defendant to do without the written translation of a document; [^c-096bffe0c7e0f2dc352799c3d9835502]...
+- (o) any order made by the court on an application under rule 5.8(8) which prohibits a supply of information by the court officer without the court’s permission ; and[^c-a9305257089b685f19e6404ec9074e84]
+- (p)[^c-d8546565080eda9d04507b4fa930fe09] any view announced by the court on passing sentence that an offence involved domestic abuse within the meaning of the Domestic Abuse Act 2021.
 
 (2) Such records must include—
 
@@ -89,7 +89,7 @@ summary: ''
 
 *In the circumstances for which it provides, section 20 of the Magistrates’ Courts Act 1980*[^f00189] *allows the court to give an indication of whether a custodial or non-custodial sentence is more likely in the event of a guilty plea at trial in that court: see also rule 9.11(3). Rules 3.16 and 9.13 provide for sentencing indications in other circumstances in magistrates’ courts.*
 
-*Requirements to register fixed penalty notices and to record any related endorsement of a driving record are contained in sections [^key-58102dc87a9a596f910eabc809c864da]... 57A and 71 of the Road Traffic Offenders Act 1988*[^f00190]*.*
+*Requirements to register fixed penalty notices and to record any related endorsement of a driving record are contained in sections [^c-58102dc87a9a596f910eabc809c864da]... 57A and 71 of the Road Traffic Offenders Act 1988*[^f00190]*.*
 
 *Under section 66 of the Courts Act 2003, every holder of a judicial office listed in that section has the powers of a justice of the peace who is a District Judge (Magistrates’ Courts) in relation to criminal causes and matters. The list includes Circuit judges and judges of the High Court and Court of Appeal.*
 
@@ -99,17 +99,17 @@ summary: ''
 
 ## Annotations
 
-[^key-6302c7f103bdf5c3f3e80100a9aa33bb]: Commencement: [Rule 5.4](https://www.legislation.gov.uk/uksi/2025/909/rule/5.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6302c7f103bdf5c3f3e80100a9aa33bb]: Commencement: [Rule 5.4](https://www.legislation.gov.uk/uksi/2025/909/rule/5.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00180]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 70 was amended by section 41 of, and paragraph 75 of Schedule 3 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), section 410 of, and paragraphs 181 and 195 of Schedule 24 to, the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17) and section 46 of, and paragraph 19 of Schedule 13 to, the Counter-Terrorism and Sentencing Act [2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11).
 
 [^f00181]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17); section 16A was inserted by section 46 of, and paragraph 26 of Schedule 13 to, the Counter-Terrorism and Sentencing Act [2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11).
 
-[^key-096bffe0c7e0f2dc352799c3d9835502]: Textual amendment: Word in [rule 5.4(1)(n)](https://www.legislation.gov.uk/uksi/2025/909/rule/5.4/1/n) omitted (5.10.2026) by virtue of [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2(b)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/2/b/i), [6(a)](https://www.legislation.gov.uk/uksi/2026/721/rule/6/a); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4](https://www.legislation.gov.uk/uksi/2026/772/regulation/4)
+[^c-096bffe0c7e0f2dc352799c3d9835502]: Textual amendment: Word in [rule 5.4(1)(n)](https://www.legislation.gov.uk/uksi/2025/909/rule/5.4/1/n) omitted (5.10.2026) by virtue of [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2(b)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/2/b/i), [6(a)](https://www.legislation.gov.uk/uksi/2026/721/rule/6/a); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4](https://www.legislation.gov.uk/uksi/2026/772/regulation/4)
 
-[^key-a9305257089b685f19e6404ec9074e84]: Textual amendment: Word in [rule 5.4(1)(o)](https://www.legislation.gov.uk/uksi/2025/909/rule/5.4/1/o) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2(b)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/2/b/i), [6(b)](https://www.legislation.gov.uk/uksi/2026/721/rule/6/b); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4](https://www.legislation.gov.uk/uksi/2026/772/regulation/4)
+[^c-a9305257089b685f19e6404ec9074e84]: Textual amendment: Word in [rule 5.4(1)(o)](https://www.legislation.gov.uk/uksi/2025/909/rule/5.4/1/o) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2(b)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/2/b/i), [6(b)](https://www.legislation.gov.uk/uksi/2026/721/rule/6/b); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4](https://www.legislation.gov.uk/uksi/2026/772/regulation/4)
 
-[^key-d8546565080eda9d04507b4fa930fe09]: Textual amendment: [Rule 5.4(1)(p)](https://www.legislation.gov.uk/uksi/2025/909/rule/5.4/1/p) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2(b)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/2/b/i), [6(c)](https://www.legislation.gov.uk/uksi/2026/721/rule/6/c); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4](https://www.legislation.gov.uk/uksi/2026/772/regulation/4)
+[^c-d8546565080eda9d04507b4fa930fe09]: Textual amendment: [Rule 5.4(1)(p)](https://www.legislation.gov.uk/uksi/2025/909/rule/5.4/1/p) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2(b)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/2/b/i), [6(c)](https://www.legislation.gov.uk/uksi/2026/721/rule/6/c); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4](https://www.legislation.gov.uk/uksi/2026/772/regulation/4)
 
 [^f00182]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39); section 66 was amended by section 32 of, and paragraph 6 of Schedule 2 to, the Armed Forces Act [2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18) and section 61 of, and paragraph 90 of Schedule 10 and paragraph 4 of Schedule 14 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 
@@ -127,6 +127,6 @@ summary: ''
 
 [^f00189]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 20 was amended by section 100 of, and paragraph 25 of Schedule 11 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), paragraph 63 of Schedule 9 to the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6) and paragraphs 1 and 6 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-58102dc87a9a596f910eabc809c864da]: Textual amendment: Word in rule 5.4 Note omitted (23.2.2026) by virtue of [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/3)
+[^c-58102dc87a9a596f910eabc809c864da]: Textual amendment: Word in rule 5.4 Note omitted (23.2.2026) by virtue of [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/3)
 
 [^f00190]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53); section 57(3) and (4) was amended by regulation 2(2) and (3) of, and paragraph 17 of Schedule 2 to, S.I. 1990/144 and section 5 of, and paragraphs 1 and 5 of Schedule 1 to, the Road Safety Act [2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49); section 57A was added by section 9 of the Road Safety Act [2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49) and amended by section 10 of that Act; and section 71 was amended by section 63 of, and paragraph 25(1) of Schedule 3 to, the Vehicle Excise and Registration Act [1994 (c. 22)](https://www.legislation.gov.uk/ukpga/1994/22), sections 90(1) and 106 of, and paragraphs 140 and 150(1) and (2) of Schedule 13, and table 7 of Schedule 15 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), section 109(1) of, and paragraph 317(1) and (2) of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and section 9(6) of, and paragraphs 2 and 22 of Schedule 2 to, the Road Safety Act [2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49).

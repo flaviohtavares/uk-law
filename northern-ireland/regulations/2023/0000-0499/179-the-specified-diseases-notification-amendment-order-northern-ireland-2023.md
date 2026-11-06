@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001] makes the following Order in exercise of the powers conferred by Articles 10(6), 12(1), 16(2) and 60(1) of the Diseases of Animals (Northern Ireland) Order 1981[^f00002].
 
-## 1. Citation and commencement[^key-ad1eac5db06100802672bfbb12941dc8]
+## 1. Citation and commencement[^c-ad1eac5db06100802672bfbb12941dc8]
 
 This Order may be cited as the Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 and comes into operation on 08th November 2023.
 
-## 2. Amendment of the Specified Diseases (Notification) Order (Northern Ireland) 2004[^key-c2929a849fd957fafb5446d9d6b59d5a]
+## 2. Amendment of the Specified Diseases (Notification) Order (Northern Ireland) 2004[^c-c2929a849fd957fafb5446d9d6b59d5a]
 
 (1) The Specified Diseases (Notification) Order (Northern Ireland) 2004[^f00003] is amended as follows.
 
@@ -64,11 +64,11 @@ This Order may be cited as the Specified Diseases (Notification) (Amendment) Ord
 | 25 | Venezuelan equine encephalomyelitis | Equidae |
 | 26 | Infection with *Batrachochytrium salamandrivorans* | Caudata |
 
-## 3. Amendment of the Diseases of Poultry Order (Northern Ireland) 1995[^key-561dd7971cd4ec80df7167ae86488966]
+## 3. Amendment of the Diseases of Poultry Order (Northern Ireland) 1995[^c-561dd7971cd4ec80df7167ae86488966]
 
 In article 2 of the Diseases of Poultry Order (Northern Ireland) 1995[^f00004], in the definition of “disease”, after “avian influenza,” insert “avian mycoplasmosis (infection with *Mycoplasma gallisepticum* and *M melegridis*), avian chlamydiosis,”.
 
-## 4. Amendment of the Diseases of Animals (Northern Ireland) Order 1981[^key-955a065c513568b9383200b94a310f15]
+## 4. Amendment of the Diseases of Animals (Northern Ireland) Order 1981[^c-955a065c513568b9383200b94a310f15]
 
 (1) The Diseases of Animals (Northern Ireland) Order 1981 is amended as follows.
 
@@ -116,14 +116,14 @@ An impact assessment has not been produced for this Order as no, or no significa
 
 [^f00002]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended.
 
-[^key-ad1eac5db06100802672bfbb12941dc8]: Commencement: Art. 1 in operation at 8.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1)
+[^c-ad1eac5db06100802672bfbb12941dc8]: Commencement: Art. 1 in operation at 8.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1)
 
-[^key-c2929a849fd957fafb5446d9d6b59d5a]: Commencement: Art. 2 in operation at 8.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1)
+[^c-c2929a849fd957fafb5446d9d6b59d5a]: Commencement: Art. 2 in operation at 8.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1)
 
 [^f00003]: Footnote: [S.R. 2004 No. 248](https://www.legislation.gov.uk/nisr/2004/248), as amended by [SR 2013 No 244](https://www.legislation.gov.uk/nisr/2013/244).
 
-[^key-561dd7971cd4ec80df7167ae86488966]: Commencement: Art. 3 in operation at 8.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1)
+[^c-561dd7971cd4ec80df7167ae86488966]: Commencement: Art. 3 in operation at 8.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1)
 
 [^f00004]: Footnote: [S.R. 1995 No. 465](https://www.legislation.gov.uk/nisr/1995/465), to which there have been amendments not relevant to this Order.
 
-[^key-955a065c513568b9383200b94a310f15]: Commencement: Art. 4 in operation at 8.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1)
+[^c-955a065c513568b9383200b94a310f15]: Commencement: Art. 4 in operation at 8.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1)

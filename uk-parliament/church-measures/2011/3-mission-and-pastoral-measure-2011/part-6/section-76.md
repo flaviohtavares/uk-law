@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 76. Disposal of font, communion table and plate, and other contents[^key-6cff65cca594ed5f379b56f6d1c23b40]
+## 76. Disposal of font, communion table and plate, and other contents[^c-6cff65cca594ed5f379b56f6d1c23b40]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cff65cca594ed5f379b56f6d1c23b40]: Commencement: S. 76 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-6cff65cca594ed5f379b56f6d1c23b40]: Commencement: S. 76 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

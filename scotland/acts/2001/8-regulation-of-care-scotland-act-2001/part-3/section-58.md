@@ -39,7 +39,7 @@ summary: ''
 
 (3) The Scottish Ministers may, if it appears to them that adequate provision is not being made for the education or training of persons who are, or wish to become, social service workers, provide, or secure the provision of, courses for that purpose.
 
-(4) Any function of the Scottish Ministers under this section (to such extent as they choose)[^key-113bb552d097733833c2e89700817c94] —
+(4) Any function of the Scottish Ministers under this section (to such extent as they choose)[^c-113bb552d097733833c2e89700817c94] —
 
 - (a) may be delegated by them to the Council; or
 - (b) may be exercised by any person, or by employees of any person, authorised to do so by the Scottish Ministers.
@@ -55,4 +55,4 @@ Part II of the Deregulation and Contracting Out Act 1994 (c.40) shall have effec
 
 ## Annotations
 
-[^key-113bb552d097733833c2e89700817c94]: Textual amendment: Words in [s. 58(4)](https://www.legislation.gov.uk/asp/2001/8/section/58/4) inserted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 21(2)](https://www.legislation.gov.uk/asp/2025/9/section/21/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)
+[^c-113bb552d097733833c2e89700817c94]: Textual amendment: Words in [s. 58(4)](https://www.legislation.gov.uk/asp/2001/8/section/58/4) inserted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 21(2)](https://www.legislation.gov.uk/asp/2025/9/section/21/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)

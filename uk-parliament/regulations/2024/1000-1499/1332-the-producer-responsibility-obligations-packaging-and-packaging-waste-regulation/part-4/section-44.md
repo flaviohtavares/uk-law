@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Producer responsibility obligations carried out by scheme operators[^key-1e496467cdcf60c22f5d1f0bf17618e0]
+## 44. Producer responsibility obligations carried out by scheme operators[^c-1e496467cdcf60c22f5d1f0bf17618e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e496467cdcf60c22f5d1f0bf17618e0]: Commencement: Reg. 44 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-1e496467cdcf60c22f5d1f0bf17618e0]: Commencement: Reg. 44 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

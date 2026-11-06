@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Assembly control[^key-8986ef8a01ed528555ed161b9be903f1]
+## 49. Assembly control[^c-8986ef8a01ed528555ed161b9be903f1]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8986ef8a01ed528555ed161b9be903f1]: Commencement: [Art. 49](https://www.legislation.gov.uk/nisi/2015/2006/article/49) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iii)
+[^c-8986ef8a01ed528555ed161b9be903f1]: Commencement: [Art. 49](https://www.legislation.gov.uk/nisi/2015/2006/article/49) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iii)

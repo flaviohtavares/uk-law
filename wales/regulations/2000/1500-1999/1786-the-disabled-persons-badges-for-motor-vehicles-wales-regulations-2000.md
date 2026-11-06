@@ -43,13 +43,13 @@ The National Assembly for Wales, in exercise of the powers conferred upon the Se
 
 ## PART I — PRELIMINARY
 
-### 1. Citation, commencement and extent[^key-3cccec74ddf33a66d4f0d51d24ec5032]
+### 1. Citation, commencement and extent[^c-3cccec74ddf33a66d4f0d51d24ec5032]
 
 (1) These Regulations may be cited as the Disabled Persons (Badges for Motor Vehicles) (Wales) Regulations 2000 and shall come into force on 1st July 2000.
 
 (2) These Regulations apply to Wales.
 
-### 2. Interpretation[^key-1bed97d2c5cd5c8494583e36a7726971]
+### 2. Interpretation[^c-1bed97d2c5cd5c8494583e36a7726971]
 
 (1) In these Regulations –
 
@@ -88,7 +88,7 @@ The National Assembly for Wales, in exercise of the powers conferred upon the Se
 
 (6) For the purposes of regulations 12 to 16 the definition of “disabled person’s badge” in paragraph (1) above shall include a badge issued under regulations having effect in England or Scotland under section 21 of the Chronically Sick and Disabled Persons Act 1970.
 
-### 3. Revocation of 1982 Regulations and transitional provisions[^key-442430f8745157c9441e60aa7853259d]
+### 3. Revocation of 1982 Regulations and transitional provisions[^c-442430f8745157c9441e60aa7853259d]
 
 (1) The Disabled Persons (Badges for Motor Vehicles) Regulations 1982 [^f00004] (in these Regulations called “the 1982 Regulations”),are revoked.
 
@@ -103,7 +103,7 @@ The National Assembly for Wales, in exercise of the powers conferred upon the Se
 
 ## PART II — ISSUE, DURATION AND REVOCATION OF BADGES
 
-### 4. Descriptions of disabled persons[^key-61f42da5cab29a1ead6b10ddf8fcde69]
+### 4. Descriptions of disabled persons[^c-61f42da5cab29a1ead6b10ddf8fcde69]
 
 (1) The prescribed descriptions of a disabled person to whom a local authority may issue a disabled person’s badge are a person who is more than two years old who fits one or more of the descriptions specified in paragraph (2).
 
@@ -116,23 +116,23 @@ The National Assembly for Wales, in exercise of the powers conferred upon the Se
 - (e) drives motor vehicles regularly, has a severe disability in both upper limbs and is unable to turn by hand the steering wheel of a motor vehicle even if that wheel is fitted with a turning knob; or
 - (f) has a permanent and substantial disability which causes inability to walk or very considerable difficulty in walking.
 
-### 5. Institutional badges[^key-e9f5aa189e00d0b63d50dc2418c2bc7e]
+### 5. Institutional badges[^c-e9f5aa189e00d0b63d50dc2418c2bc7e]
 
 An institutional badge may be issued by an authority to an institution for a motor vehicle when the vehicle is to be used to carry disabled persons as specified in regulation 4(2).
 
-### 6. Fee for issue and period of issue of a badge[^key-60417dfb5948e47da59aa91828f7534a]
+### 6. Fee for issue and period of issue of a badge[^c-60417dfb5948e47da59aa91828f7534a]
 
 (1) A local authority may not charge a fee of more than £2 for the issue of a disabled person’s badge.
 
 (2) Subject to regulations 7(2) and 9, a disabled person’s badge shall be issued for a period of three years beginning with the date of issue.
 
-### 7. Replacement of badges that have been lost etc[^key-1655147bf6462e5c9c91ebbbb9f95fc3]
+### 7. Replacement of badges that have been lost etc[^c-1655147bf6462e5c9c91ebbbb9f95fc3]
 
 (1) When a disabled person’s badge (“the original badge”) has been lost, stolen or destroyed, or become so damaged or faded as no longer to be adequately legible when displayed on a motor vehicle, a badge may be issued in its place with the word “duplicate” marked on the front.
 
 (2) A replacement badge shall be valid from the date of issue until such time as the original badge would have ceased to be valid.
 
-### 8. Grounds for refusal to issue a badge[^key-cde0629cb3de5c5e493a216bda019424]
+### 8. Grounds for refusal to issue a badge[^c-cde0629cb3de5c5e493a216bda019424]
 
 (1) A local authority may refuse to issue a badge on any of the grounds specified in paragraph (2).
 
@@ -149,7 +149,7 @@ An institutional badge may be issued by an authority to an institution for a mot
 
 (3) When a local authority receives an application for a disabled person’s badge and refuses to issue one, it shall give the applicant particulars of the grounds of refusal in its notice of determination.
 
-### 9. Return of badge to issuing authority[^key-dd5098872917c73c243d2bb4e7c451fc]
+### 9. Return of badge to issuing authority[^c-dd5098872917c73c243d2bb4e7c451fc]
 
 (1) A disabled person’s badge shall be returned to the issuing authority immediately on the occurrence of any of the following —
 
@@ -172,7 +172,7 @@ An institutional badge may be issued by an authority to an institution for a mot
 
 (4) The issuing authority may take such action as may be appropriate to recover a disabled person’s badge which the holder is liable to return in accordance with this regulation.
 
-### 10. Appeals[^key-7099e31447a1efebd765ba5d91b66728]
+### 10. Appeals[^c-7099e31447a1efebd765ba5d91b66728]
 
 (1) An applicant for a disabled person’s badge whose application has been refused on the ground specified in regulation 8(2)(a) or the holder of a badge who has been required to return it in accordance with regulation 9(2) may appeal to the National Assembly against the determination of the local authority in accordance with this regulation.
 
@@ -204,7 +204,7 @@ An institutional badge may be issued by an authority to an institution for a mot
 
 ## PART III — FORM AND DISPLAY OF BADGES
 
-### 11. Form of badge[^key-8dba08e685d97504ba19c895e8345750]
+### 11. Form of badge[^c-8dba08e685d97504ba19c895e8345750]
 
 A disabled person’s badge is in the prescribed form if —
 
@@ -213,14 +213,14 @@ A disabled person’s badge is in the prescribed form if —
   - (ii) in Part II of the Schedule in the case of an institutional badge; and
 - (b) the badge complies with the specifications in Part III of the Schedule.
 
-### 12. Manner in which a badge is to be displayed[^key-511d279cff4cf12c633f5fbde8ff424a]
+### 12. Manner in which a badge is to be displayed[^c-511d279cff4cf12c633f5fbde8ff424a]
 
 For the purposes of section 21(4A) of the 1970 Act a disabled person’s badge is displayed on a vehicle in the prescribed manner if —
 
 - (a) the badge is exhibited on the dashboard or fascia of the vehicle, or
 - (b) where the vehicle is not fitted with a dashboard or fascia, the badge is exhibited in a conspicuous position on the vehicle, so that the front of the badge is clearly legible from the outside of the vehicle.
 
-### 13. Display of an individual’s badge when a vehicle is being driven[^key-2d6531c927f5fba15809fc6513a1a138]
+### 13. Display of an individual’s badge when a vehicle is being driven[^c-2d6531c927f5fba15809fc6513a1a138]
 
 (1) This regulation prescribes for the purposes of section 21(4A) of the 1970 Act the circumstances in which an individual’s badge may be displayed while a vehicle is being driven.
 
@@ -238,7 +238,7 @@ For the purposes of section 21(4A) of the 1970 Act a disabled person’s badge i
 - (b) if a disabled person’s concession (other than a concession relating to parking) is available to a vehicle lawfully displaying a disabled person’s badge; and
 - (c) if it would not be practicable for the vehicle to be driven from that place if the concession did not apply to the vehicle.
 
-### 14. Display of an individual’s badge when a vehicle is parked[^key-91791c9c4f41d80ae027793dace72e33]
+### 14. Display of an individual’s badge when a vehicle is parked[^c-91791c9c4f41d80ae027793dace72e33]
 
 (1) This regulation prescribes for the purposes of section 21(4A) of the 1970 Act the circumstances in which an individual’s badge may be displayed while a vehicle is parked.
 
@@ -247,7 +247,7 @@ For the purposes of section 21(4A) of the 1970 Act a disabled person’s badge i
 - (a) has been driven by the holder, or has been used to carry the holder, to the place where it is parked; or
 - (b) is to be driven by the holder, or is to be used to carry the holder, from that place.
 
-### 15. Display of institutional badge when a vehicle is being driven[^key-bbdd301cef0da548e5e947a3762b4b3a]
+### 15. Display of institutional badge when a vehicle is being driven[^c-bbdd301cef0da548e5e947a3762b4b3a]
 
 (1) This regulation prescribes for the purposes of section 21(4A) of the 1970 Act the circumstances in which an institutional badge may be displayed while a vehicle is being driven.
 
@@ -265,7 +265,7 @@ For the purposes of section 21(4A) of the 1970 Act a disabled person’s badge i
 - (b) a disabled person’s concession (other than a concession relating to parking) is available to a vehicle lawfully displaying a disabled person’s badge; and
 - (c) it would not have been practicable for the vehicle to have left that place if the concession had not applied to the vehicle.
 
-### 16. Display of an institutional badge when a vehicle is parked[^key-1aeb3cf8771b751144482b4d054cf72c]
+### 16. Display of an institutional badge when a vehicle is parked[^c-1aeb3cf8771b751144482b4d054cf72c]
 
 (1) This regulation prescribes for the purposes of section 21(4A) of the 1970 Act the circumstances in which an institutional badge may be displayed while a vehicle is parked.
 
@@ -283,15 +283,15 @@ Presiding Officer National Assembly for Wales
 
 (regulation 11)
 
-### Part I — FORM OF INSTITUTIONAL BADGE[^key-d0402d41d2c7faf26a2e70f7031ff83e]
+### Part I — FORM OF INSTITUTIONAL BADGE[^c-d0402d41d2c7faf26a2e70f7031ff83e]
 
 [image: see source](https://www.legislation.gov.uk/wsi/2000/1786/images/wsi_20001786_mi_001)
 
-### Part II — FORM OF INSTITUTIONAL BADGE[^key-0e3acee0a0352f64f94a938216818625]
+### Part II — FORM OF INSTITUTIONAL BADGE[^c-0e3acee0a0352f64f94a938216818625]
 
 [image: see source](https://www.legislation.gov.uk/wsi/2000/1786/images/wsi_20001786_mi_002)
 
-### Part III — SPECIFICATIONS FOR BADGE[^key-b216a3ee5776152b86defd4b088cfaf7]
+### Part III — SPECIFICATIONS FOR BADGE[^c-b216a3ee5776152b86defd4b088cfaf7]
 
 The badge shall be:
 
@@ -330,19 +330,19 @@ It is intended that further regulations be made that will set out the procedure 
 
 [^f00002]: Footnote: See National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-3cccec74ddf33a66d4f0d51d24ec5032]: Commencement: Reg. 1 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-3cccec74ddf33a66d4f0d51d24ec5032]: Commencement: Reg. 1 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
-[^key-1bed97d2c5cd5c8494583e36a7726971]: Commencement: Reg. 2 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-1bed97d2c5cd5c8494583e36a7726971]: Commencement: Reg. 2 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
 [^f00003]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 
-[^key-442430f8745157c9441e60aa7853259d]: Commencement: Reg. 3 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-442430f8745157c9441e60aa7853259d]: Commencement: Reg. 3 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1982/1740](https://www.legislation.gov.uk/uksi/1982/1740), amended by S.I. [1991/2708](https://www.legislation.gov.uk/uksi/1991/2708) and [1992/200](https://www.legislation.gov.uk/uksi/1992/200).These Regulations no longer apply in England by virtue of the Disabled Persons (Badges for Motor Vehicles) (England) Regulations 2000 (S.I. [2000/682](https://www.legislation.gov.uk/uksi/2000/682)) or in Scotland by virtue of the Disabled Persons (Badges for Motor Vehicles) (Scotland) Regulations 2000 (S.S.I. [2000/59](https://www.legislation.gov.uk/ssi/2000/59)).
 
 [^f00005]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-61f42da5cab29a1ead6b10ddf8fcde69]: Commencement: Reg. 4 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-61f42da5cab29a1ead6b10ddf8fcde69]: Commencement: Reg. 4 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
 [^f00006]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -356,34 +356,34 @@ It is intended that further regulations be made that will set out the procedure 
 
 [^f00011]: Footnote: S.I. [1983/686](https://www.legislation.gov.uk/uksi/1983/686), amended by S.I. [1983/1164](https://www.legislation.gov.uk/uksi/1983/1164) and [1540](https://www.legislation.gov.uk/uksi/1983/1540), [1984/1289](https://www.legislation.gov.uk/uksi/1984/1289) and [1675](https://www.legislation.gov.uk/uksi/1984/1675), [1985/1313](https://www.legislation.gov.uk/uksi/1985/1313), [1986/628](https://www.legislation.gov.uk/uksi/1986/628), [1987/191](https://www.legislation.gov.uk/uksi/1987/191), [1988/367](https://www.legislation.gov.uk/uksi/1988/367) and [2260](https://www.legislation.gov.uk/uksi/1988/2260), [1989/415](https://www.legislation.gov.uk/uksi/1989/415), [1990/535](https://www.legislation.gov.uk/uksi/1990/535) and [1300](https://www.legislation.gov.uk/uksi/1990/1300), [1991/708](https://www.legislation.gov.uk/uksi/1991/708), [1992/702](https://www.legislation.gov.uk/uksi/1992/702) and [3226](https://www.legislation.gov.uk/uksi/1992/3226), [1993/480](https://www.legislation.gov.uk/uksi/1993/480), [1994/715](https://www.legislation.gov.uk/uksi/1994/715) and [2021](https://www.legislation.gov.uk/uksi/1994/2021), [1996/445](https://www.legislation.gov.uk/uksi/1996/445) and [502](https://www.legislation.gov.uk/uksi/1996/502), [1997/812](https://www.legislation.gov.uk/uksi/1997/812), and [1998/278](https://www.legislation.gov.uk/uksi/1998/278).
 
-[^key-e9f5aa189e00d0b63d50dc2418c2bc7e]: Commencement: Reg. 5 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-e9f5aa189e00d0b63d50dc2418c2bc7e]: Commencement: Reg. 5 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
-[^key-60417dfb5948e47da59aa91828f7534a]: Commencement: Reg. 6 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-60417dfb5948e47da59aa91828f7534a]: Commencement: Reg. 6 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
-[^key-1655147bf6462e5c9c91ebbbb9f95fc3]: Commencement: Reg. 7 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-1655147bf6462e5c9c91ebbbb9f95fc3]: Commencement: Reg. 7 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
-[^key-cde0629cb3de5c5e493a216bda019424]: Commencement: Reg. 8 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-cde0629cb3de5c5e493a216bda019424]: Commencement: Reg. 8 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
-[^key-dd5098872917c73c243d2bb4e7c451fc]: Commencement: Reg. 9 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-dd5098872917c73c243d2bb4e7c451fc]: Commencement: Reg. 9 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
-[^key-7099e31447a1efebd765ba5d91b66728]: Commencement: Reg. 10 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-7099e31447a1efebd765ba5d91b66728]: Commencement: Reg. 10 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
-[^key-8dba08e685d97504ba19c895e8345750]: Commencement: Reg. 11 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-8dba08e685d97504ba19c895e8345750]: Commencement: Reg. 11 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
-[^key-511d279cff4cf12c633f5fbde8ff424a]: Commencement: Reg. 12 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-511d279cff4cf12c633f5fbde8ff424a]: Commencement: Reg. 12 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
-[^key-2d6531c927f5fba15809fc6513a1a138]: Commencement: Reg. 13 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-2d6531c927f5fba15809fc6513a1a138]: Commencement: Reg. 13 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
-[^key-91791c9c4f41d80ae027793dace72e33]: Commencement: Reg. 14 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-91791c9c4f41d80ae027793dace72e33]: Commencement: Reg. 14 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
-[^key-bbdd301cef0da548e5e947a3762b4b3a]: Commencement: Reg. 15 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-bbdd301cef0da548e5e947a3762b4b3a]: Commencement: Reg. 15 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
-[^key-1aeb3cf8771b751144482b4d054cf72c]: Commencement: Reg. 16 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-1aeb3cf8771b751144482b4d054cf72c]: Commencement: Reg. 16 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
 [^f00012]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-d0402d41d2c7faf26a2e70f7031ff83e]: Commencement: Sch. Pt. 1 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-d0402d41d2c7faf26a2e70f7031ff83e]: Commencement: Sch. Pt. 1 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
-[^key-0e3acee0a0352f64f94a938216818625]: Commencement: Sch. Pt. 2 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-0e3acee0a0352f64f94a938216818625]: Commencement: Sch. Pt. 2 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
 
-[^key-b216a3ee5776152b86defd4b088cfaf7]: Commencement: Sch. Pt. 3 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)
+[^c-b216a3ee5776152b86defd4b088cfaf7]: Commencement: Sch. Pt. 3 in force at 1.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1786/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Analysis of performance[^key-232301fea4cf4f0001f4f47556fee6e8][^key-b051c3a4adadf16623fe68559ab21b14]
+## 95. Analysis of performance[^c-232301fea4cf4f0001f4f47556fee6e8][^c-b051c3a4adadf16623fe68559ab21b14]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ In the 2018 Act, after section 139 insert—
 
 ## Annotations
 
-[^key-232301fea4cf4f0001f4f47556fee6e8]: Commencement: S. 95 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-232301fea4cf4f0001f4f47556fee6e8]: Commencement: S. 95 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-b051c3a4adadf16623fe68559ab21b14]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2025/18/section/95) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/h)
+[^c-b051c3a4adadf16623fe68559ab21b14]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2025/18/section/95) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/h)

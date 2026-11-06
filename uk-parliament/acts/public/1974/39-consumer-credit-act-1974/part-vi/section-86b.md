@@ -59,14 +59,14 @@ summary: ''
 
 (11) In subsection (10) ‘relevant period’ means the period of 20 weeks ending with the day on which the debtor or hirer is required to have made the most recent payment under the agreement.
 
-(11A)[^key-24acb3d1bd615d63c8dc3763bf77c7d0] This section does not apply to a regulated deferred payment credit agreement.
+(11A)[^c-24acb3d1bd615d63c8dc3763bf77c7d0] This section does not apply to a regulated deferred payment credit agreement.
 
-(12) In this section ‘applicable agreement’ means an agreement which— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7841b7294c4f87f298516cdf36a63b9d]
+(12) In this section ‘applicable agreement’ means an agreement which— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-7841b7294c4f87f298516cdf36a63b9d]
 
-In this section “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7841b7294c4f87f298516cdf36a63b9d]**applicable agreement *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7841b7294c4f87f298516cdf36a63b9d]**” means an agreement which falls within subsection (12A) or (12B). *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7841b7294c4f87f298516cdf36a63b9d]
+In this section “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-7841b7294c4f87f298516cdf36a63b9d]**applicable agreement *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-7841b7294c4f87f298516cdf36a63b9d]**” means an agreement which falls within subsection (12A) or (12B). *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-7841b7294c4f87f298516cdf36a63b9d]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-7841b7294c4f87f298516cdf36a63b9d] is a regulated agreement for fixed-sum credit or a regulated consumer hire agreement; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7841b7294c4f87f298516cdf36a63b9d]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-7841b7294c4f87f298516cdf36a63b9d] is neither a non-commercial agreement nor a small agreement. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7841b7294c4f87f298516cdf36a63b9d]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-7841b7294c4f87f298516cdf36a63b9d] is a regulated agreement for fixed-sum credit or a regulated consumer hire agreement; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-7841b7294c4f87f298516cdf36a63b9d]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-7841b7294c4f87f298516cdf36a63b9d] is neither a non-commercial agreement nor a small agreement. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-7841b7294c4f87f298516cdf36a63b9d]
 
 (12) In this section “ *(Extent: E+W+S)***applicable agreement *(Extent: E+W+S)***” means an agreement which falls within subsection (12A) or (12B). *(Extent: E+W+S)*
 
@@ -76,7 +76,7 @@ In this section “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7841
 - (b (Extent: E+W+S)) it is not— *(Extent: E+W+S)*
   - (i (Extent: E+W+S)) a non-commercial agreement; *(Extent: E+W+S)*
   - (ii (Extent: E+W+S)) a small agreement; or *(Extent: E+W+S)*
-  - (iii (Extent: E+W+S)) a green deal plan *(Extent: E+W+S)* (within the meaning of section 1 of the Energy Act 2011) *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-daaa8d80c1744904782fa2ba01d17605] *(Extent: E+W+S)*. *(Extent: E+W+S)*
+  - (iii (Extent: E+W+S)) a green deal plan *(Extent: E+W+S)* (within the meaning of section 1 of the Energy Act 2011) *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-daaa8d80c1744904782fa2ba01d17605] *(Extent: E+W+S)*. *(Extent: E+W+S)*
 
 (12B (Extent: E+W+S)) An agreement falls within this subsection if— *(Extent: E+W+S)*
 
@@ -98,10 +98,10 @@ In this section “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7841
 
 [^c19903961]: Textual amendment: Word in s. 86B(5)(a) substituted (31.10.2008) by [The Legislative Reform (Consumer Credit) Order 2008 (S.I. 2008/2826)](https://www.legislation.gov.uk/uksi/2008/2826), [art. 8(a)](https://www.legislation.gov.uk/uksi/2008/2826/article/8/a)
 
-[^key-24acb3d1bd615d63c8dc3763bf77c7d0]: Textual amendment: S. 86B(11A) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(13)](https://www.legislation.gov.uk/uksi/2025/859/article/2/13)
+[^c-24acb3d1bd615d63c8dc3763bf77c7d0]: Textual amendment: S. 86B(11A) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(13)](https://www.legislation.gov.uk/uksi/2025/859/article/2/13)
 
-[^key-7841b7294c4f87f298516cdf36a63b9d]: Textual amendment: Ss. 86B(12)-(12B) substituted for s. 86B(12) (E.W.S.) (28.1.2013) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 28](https://www.legislation.gov.uk/ukpga/2011/16/section/28), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/125/article/3/b)
+[^c-7841b7294c4f87f298516cdf36a63b9d]: Textual amendment: Ss. 86B(12)-(12B) substituted for s. 86B(12) (E.W.S.) (28.1.2013) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 28](https://www.legislation.gov.uk/ukpga/2011/16/section/28), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/125/article/3/b)
 
-[^key-daaa8d80c1744904782fa2ba01d17605]: Textual amendment: Words in s. 86B(12A)(b)(iii) omitted (E.W.S.) (28.2.2014) by virtue of [The Consumer Credit Act 1974 (Green Deal) (Amendment) Order 2014 (S.I. 2014/436)](https://www.legislation.gov.uk/uksi/2014/436), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2014/436/article/8/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/436/article/1/3))
+[^c-daaa8d80c1744904782fa2ba01d17605]: Textual amendment: Words in s. 86B(12A)(b)(iii) omitted (E.W.S.) (28.2.2014) by virtue of [The Consumer Credit Act 1974 (Green Deal) (Amendment) Order 2014 (S.I. 2014/436)](https://www.legislation.gov.uk/uksi/2014/436), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2014/436/article/8/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/436/article/1/3))
 
 [^c19903981]: Textual amendment: S. 86B(13) inserted (31.10.2008) by [The Legislative Reform (Consumer Credit) Order 2008 (S.I. 2008/2826)](https://www.legislation.gov.uk/uksi/2008/2826), [art. 8(b)](https://www.legislation.gov.uk/uksi/2008/2826/article/8/b)

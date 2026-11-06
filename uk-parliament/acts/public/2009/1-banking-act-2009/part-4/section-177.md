@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Payments in error[^key-dda3502ac230227a5ac97952aff952da]
+## 177. Payments in error[^c-dda3502ac230227a5ac97952aff952da]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ After section 223B of the Financial Services and Markets Act 2000 (borrowing fro
 
 ## Annotations
 
-[^key-dda3502ac230227a5ac97952aff952da]: Commencement: S. 177 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/4)
+[^c-dda3502ac230227a5ac97952aff952da]: Commencement: S. 177 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Failure to return licence.[^key-a77af96b2240a45173cbebb5beb05b15]
+## 35. Failure to return licence.[^c-a77af96b2240a45173cbebb5beb05b15]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a77af96b2240a45173cbebb5beb05b15]: Textual amendment: S. 35 omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/15), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-a77af96b2240a45173cbebb5beb05b15]: Textual amendment: S. 35 omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/15), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)

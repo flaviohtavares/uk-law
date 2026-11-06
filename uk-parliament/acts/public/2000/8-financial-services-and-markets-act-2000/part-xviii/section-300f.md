@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 300F. Rules relating to central counterparties and central securities depositories[^key-445febb945fb0c587ab3a0117029731b]
+## 300F. Rules relating to central counterparties and central securities depositories[^c-445febb945fb0c587ab3a0117029731b]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ as appear to the Bank to be necessary or expedient for the purpose of advancing 
 
 ## Annotations
 
-[^key-445febb945fb0c587ab3a0117029731b]: Textual amendment: Ss. 300F, 300G and cross-heading inserted (1.1.2024 at 1.00 a.m.) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/9/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/a)
+[^c-445febb945fb0c587ab3a0117029731b]: Textual amendment: Ss. 300F, 300G and cross-heading inserted (1.1.2024 at 1.00 a.m.) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/9/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/a)

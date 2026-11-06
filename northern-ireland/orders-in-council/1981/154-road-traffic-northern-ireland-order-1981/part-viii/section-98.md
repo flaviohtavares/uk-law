@@ -49,7 +49,7 @@ In this paragraph the reference to a person being carried in or upon a vehicle i
 
 (6) This paragraph requires—
 
-- (a) where the total of any amounts paid, payable or likely to be payable under the policy or security in respect of damage to property caused by, or arising out of, the accident in question does not exceed £1,200,000[^key-4ebabe9b96562948b0c8cdf4d4551703], the payment of any sum payable under the judgment in respect of the liability, together with any sum which is payable in respect of interest on that sum;
+- (a) where the total of any amounts paid, payable or likely to be payable under the policy or security in respect of damage to property caused by, or arising out of, the accident in question does not exceed £1,200,000[^c-4ebabe9b96562948b0c8cdf4d4551703], the payment of any sum payable under the judgment in respect of the liability, together with any sum which is payable in respect of interest on that sum;
 - (b) where that total exceeds £1,200,000, the payment of either—
   - (i) such proportion of any sum payable under the judgment in respect of the liability as £1,200,000 bears to that total, together with the same proportion of any sum which is payable in respect of interest on that sum; or
   - (ii) the difference between the total of any amounts already paid under the policy or security in respect of such damage and £1,200,000 together with such proportion of any sum which is payable in respect of interest on any sum payable under the judgment in respect of the liability as the difference bears to that sum,
@@ -76,4 +76,4 @@ In this paragraph the reference to a person being carried in or upon a vehicle i
 
 [^c17617631]: Textual amendment: SR 1989/84
 
-[^key-4ebabe9b96562948b0c8cdf4d4551703]: Textual amendment: Sum in art. 98(6) substituted (20.2.2017) by [The Motor Vehicles (Compulsory Insurance) Regulations (Northern Ireland) 2017 (S.R. 2017/25)](https://www.legislation.gov.uk/nisr/2017/25), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/25/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2017/25/regulation/2/3)
+[^c-4ebabe9b96562948b0c8cdf4d4551703]: Textual amendment: Sum in art. 98(6) substituted (20.2.2017) by [The Motor Vehicles (Compulsory Insurance) Regulations (Northern Ireland) 2017 (S.R. 2017/25)](https://www.legislation.gov.uk/nisr/2017/25), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/25/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2017/25/regulation/2/3)

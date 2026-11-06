@@ -29,7 +29,7 @@ summary: ''
 - (a) a GLA road; or
 - (b) another road which has a junction with a GLA road.
 
-(4) A road or proposed road shall not be a GLA side road if it is a trunk road or other highway for which the Secretary of State or a strategic highways company[^key-34dfaf66de7b385b720716e23c1b9a65] is the highway authority.
+(4) A road or proposed road shall not be a GLA side road if it is a trunk road or other highway for which the Secretary of State or a strategic highways company[^c-34dfaf66de7b385b720716e23c1b9a65] is the highway authority.
 
 (5) A road may only be a GLA side road if and to the extent that the appropriate authority considers it appropriate for the road to be a GLA side road in the interests of the management of traffic and the control of the waiting and loading of vehicles on or in the immediate vicinity of GLA roads.
 
@@ -60,7 +60,7 @@ summary: ''
 
 [^c13564431]: Textual amendment: S. 124A inserted (12.1.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 272](https://www.legislation.gov.uk/ukpga/1999/29/section/272) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 1999/3434](https://www.legislation.gov.uk/uksi/1999/3434), [art. 2](https://www.legislation.gov.uk/uksi/1999/3434/article/2)
 
-[^key-34dfaf66de7b385b720716e23c1b9a65]: Textual amendment: Words in s. 124A(4) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 97](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/97); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-34dfaf66de7b385b720716e23c1b9a65]: Textual amendment: Words in s. 124A(4) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 97](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/97); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13564441]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 

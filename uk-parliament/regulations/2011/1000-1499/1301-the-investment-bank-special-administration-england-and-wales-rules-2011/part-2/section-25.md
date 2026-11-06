@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Witness statement in opposition[^key-0b39d3acfc9d3fc5ab30d99f7d712432]
+## 25. Witness statement in opposition[^c-0b39d3acfc9d3fc5ab30d99f7d712432]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b39d3acfc9d3fc5ab30d99f7d712432]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2011/1301/rule/25) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-0b39d3acfc9d3fc5ab30d99f7d712432]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2011/1301/rule/25) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

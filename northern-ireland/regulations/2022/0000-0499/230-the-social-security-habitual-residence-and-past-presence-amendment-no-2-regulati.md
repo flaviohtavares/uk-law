@@ -44,11 +44,11 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 Regulation 2 is made with the consent of the Department of Finance[^f00008], in so far as it relates to the provisions referred to in paragraph (2)(d) and (e) of that regulation.
 
-## 1. Citation and commencement[^key-c619b275928b9eb608c957635a322303]
+## 1. Citation and commencement[^c-c619b275928b9eb608c957635a322303]
 
 These Regulations may be cited as the Social Security (Habitual Residence and Past Presence) (Amendment No. 2) Regulations (Northern Ireland) 2022 and shall come into operation on 18th October 2022.
 
-## 2. Amendment of income-related benefit legislation[^key-3104159d4293e3ed32dde1357bd74f56]
+## 2. Amendment of income-related benefit legislation[^c-3104159d4293e3ed32dde1357bd74f56]
 
 (1) In the provisions specified in paragraph (2)—
 
@@ -70,7 +70,7 @@ These Regulations may be cited as the Social Security (Habitual Residence and Pa
 - (f) regulation 70(4)(zzc) of the Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00015] (special cases: supplemental – persons from abroad);
 - (g) regulation 9(4)(zc) of the Universal Credit Regulations (Northern Ireland) 2016[^f00016] (persons treated as not being in Northern Ireland).
 
-## 3. Amendment of disability and carers benefit legislation[^key-229cc81d2a4910133aff9f3367be023d]
+## 3. Amendment of disability and carers benefit legislation[^c-229cc81d2a4910133aff9f3367be023d]
 
 (1) In the provisions specified in paragraph (2)—
 
@@ -136,9 +136,9 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00008]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); *see also* Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(4) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5))
 
-[^key-c619b275928b9eb608c957635a322303]: Commencement: Reg. 1 in operation at 18.10.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/230/regulation/1)
+[^c-c619b275928b9eb608c957635a322303]: Commencement: Reg. 1 in operation at 18.10.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/230/regulation/1)
 
-[^key-3104159d4293e3ed32dde1357bd74f56]: Commencement: Reg. 2 in operation at 18.10.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/230/regulation/1)
+[^c-3104159d4293e3ed32dde1357bd74f56]: Commencement: Reg. 2 in operation at 18.10.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/230/regulation/1)
 
 [^f00009]: Footnote: Section 3ZA was inserted into the Immigration Act [1971 (c. 77)](https://www.legislation.gov.uk/ukpga/1971/77) by section 2(2) of the Immigration and Social Security Co-ordination (EU Withdrawal) Act [2020 (c. 20)](https://www.legislation.gov.uk/ukpga/2020/20)
 
@@ -156,7 +156,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00016]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216); paragraph (4)(zc) was inserted by regulation 3(3) of [S.R. 2022 No. 149](https://www.legislation.gov.uk/nisr/2022/149); relevant amending Regulations are [S.R. 2021 No. 269](https://www.legislation.gov.uk/nisr/2021/269)
 
-[^key-229cc81d2a4910133aff9f3367be023d]: Commencement: Reg. 3 in operation at 18.10.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/230/regulation/1)
+[^c-229cc81d2a4910133aff9f3367be023d]: Commencement: Reg. 3 in operation at 18.10.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/230/regulation/1)
 
 [^f00017]: Footnote: [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99); regulation 9C was inserted by regulation 2(3) of [S.R. 2017 No. 218](https://www.legislation.gov.uk/nisr/2017/218) and paragraph (1)(f) was added by regulation 4(2)(b) of [S.R. 2022 No. 149](https://www.legislation.gov.uk/nisr/2022/149); relevant amending Regulations are [S.R. 2021 No. 269](https://www.legislation.gov.uk/nisr/2021/269)
 

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**54.**[^key-456cb0bdb3b2cb93d27b560ee864da23] The community of Pennard as changed by this Order is abolished.
+**54.**[^c-456cb0bdb3b2cb93d27b560ee864da23] The community of Pennard as changed by this Order is abolished.
 
 ## Annotations
 
-[^key-456cb0bdb3b2cb93d27b560ee864da23]: Commencement: [Art. 54](https://www.legislation.gov.uk/wsi/2026/95/article/54) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-456cb0bdb3b2cb93d27b560ee864da23]: Commencement: [Art. 54](https://www.legislation.gov.uk/wsi/2026/95/article/54) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

@@ -43,11 +43,11 @@ Coming into Operation
 
 The Secretary of State in exercise of the powers conferred on him by section 1 of the Pneumoconiosis etc. (Workers' Compensation) Act 1979 (“the 1979 Act”), as amended by section 24 of the Social Security Act 1985, and of all other powers enabling him in that behalf hereby makes the following Order, of which a draft has been approved by resolution of each House of Parliament:—
 
-## 1. Citation and commencement[^key-c33095c7cd5874142dcb4aa4fd37f5df]
+## 1. Citation and commencement[^c-c33095c7cd5874142dcb4aa4fd37f5df]
 
 This Order may be cited as the Pneumoconiosis etc. (Workers' Compensation) (Specified Diseases) Order 1985 and shall come into operation on 1st January 1986.
 
-## 2. Specified Diseases[^key-6888b3c557b414a7e07df9501f6a94a5]
+## 2. Specified Diseases[^c-6888b3c557b414a7e07df9501f6a94a5]
 
 The following diseases are specified for the purposes of the 1979 Act—
 
@@ -78,6 +78,6 @@ The Pneumoconiosis etc. (Workers' Compensation) Act 1979 provides for lump sum c
 
 ## Annotations
 
-[^key-c33095c7cd5874142dcb4aa4fd37f5df]: Commencement: Art. 1 in force at 1.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/2034/article/1)
+[^c-c33095c7cd5874142dcb4aa4fd37f5df]: Commencement: Art. 1 in force at 1.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/2034/article/1)
 
-[^key-6888b3c557b414a7e07df9501f6a94a5]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/1985/2034/article/2) substituted (23.2.2024) by [The Pneumoconiosis etc. (Workers' Compensation) (Specified Diseases and Prescribed Occupations) (Amendment) Regulations 2024 (S.I. 2024/199)](https://www.legislation.gov.uk/uksi/2024/199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/199/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/199/regulation/2)
+[^c-6888b3c557b414a7e07df9501f6a94a5]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/1985/2034/article/2) substituted (23.2.2024) by [The Pneumoconiosis etc. (Workers' Compensation) (Specified Diseases and Prescribed Occupations) (Amendment) Regulations 2024 (S.I. 2024/199)](https://www.legislation.gov.uk/uksi/2024/199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/199/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/199/regulation/2)

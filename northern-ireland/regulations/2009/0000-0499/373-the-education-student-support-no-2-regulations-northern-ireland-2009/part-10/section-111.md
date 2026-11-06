@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 111. Interpretation of regulation 110[^key-e5d4544bfc02ff16d83223ff1e44014a]
+## 111. Interpretation of regulation 110[^c-e5d4544bfc02ff16d83223ff1e44014a]
 
 *Extent: N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5d4544bfc02ff16d83223ff1e44014a]: Commencement: Reg. 111 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-e5d4544bfc02ff16d83223ff1e44014a]: Commencement: Reg. 111 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
 [^f00063]: Footnote: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21); section 3 was amended by the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), Schedule 24

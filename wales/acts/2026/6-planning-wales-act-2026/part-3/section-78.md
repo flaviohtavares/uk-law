@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Option to make application to the Welsh Ministers[^key-1fba3a4431b7657b211437b1675f43fb]
+## 78. Option to make application to the Welsh Ministers[^c-1fba3a4431b7657b211437b1675f43fb]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ is development of a description specified in regulations.
 
 ## Annotations
 
-[^key-1fba3a4431b7657b211437b1675f43fb]: Commencement: S. 78 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-1fba3a4431b7657b211437b1675f43fb]: Commencement: S. 78 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

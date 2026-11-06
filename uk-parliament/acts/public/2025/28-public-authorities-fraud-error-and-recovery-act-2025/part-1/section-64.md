@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Penalties and criminal proceedings or convictions[^key-6abc52470e109774fbb4a0f24b03ce15][^key-bb603548e1bed6440a655704f5390e14]
+## 64. Penalties and criminal proceedings or convictions[^c-6abc52470e109774fbb4a0f24b03ce15][^c-bb603548e1bed6440a655704f5390e14]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6abc52470e109774fbb4a0f24b03ce15]: Commencement: S. 64 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-6abc52470e109774fbb4a0f24b03ce15]: Commencement: S. 64 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-bb603548e1bed6440a655704f5390e14]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2025/28/section/64) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-bb603548e1bed6440a655704f5390e14]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2025/28/section/64) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

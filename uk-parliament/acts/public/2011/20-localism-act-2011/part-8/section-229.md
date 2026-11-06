@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 229. London Assembly's power to reject draft strategies[^key-3bd5b861d767683453c257b2ba96c9cc]
+## 229. London Assembly's power to reject draft strategies[^c-3bd5b861d767683453c257b2ba96c9cc]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ Before section 43 of the Greater London Authority Act 1999 (publicity and availa
 
 ## Annotations
 
-[^key-3bd5b861d767683453c257b2ba96c9cc]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2011/20/section/229) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-3bd5b861d767683453c257b2ba96c9cc]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2011/20/section/229) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

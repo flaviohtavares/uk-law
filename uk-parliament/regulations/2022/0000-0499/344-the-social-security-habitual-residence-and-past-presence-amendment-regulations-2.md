@@ -53,7 +53,7 @@ For the same reason, it appears to the Secretary of State to be inexpedient to r
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation, commencement and extent[^key-0f30df1430d1e4442e9665dffca66234]
+### 1. Citation, commencement and extent[^c-0f30df1430d1e4442e9665dffca66234]
 
 (1) These Regulations may be cited as the Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2022 and come into force on 22nd March 2022.
 
@@ -63,11 +63,11 @@ For the same reason, it appears to the Secretary of State to be inexpedient to r
 
 ## PART 2 — AMENDMENTS TO BENEFIT LEGISLATION EXTENDING TO ENGLAND AND WALES AND SCOTLAND
 
-### 2. Amendment of income-related benefit legislation[^key-c350efeb92482cbf08145d2a05f84133]
+### 2. Amendment of income-related benefit legislation[^c-c350efeb92482cbf08145d2a05f84133]
 
 (1) The provisions specified in paragraph (5) are amended as follows.
 
-(2) In sub-paragraph (zzb)[^key-51c4207804cce4bd365df0ac41ffeae8], for “(h)(iv)” substitute “(h)”.
+(2) In sub-paragraph (zzb)[^c-51c4207804cce4bd365df0ac41ffeae8], for “(h)(iv)” substitute “(h)”.
 
 (3) After sub-paragraph (zzb) insert—
 
@@ -88,11 +88,11 @@ For the same reason, it appears to the Secretary of State to be inexpedient to r
 - (e) regulation 10(4A) of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00015]; and
 - (f) regulation 70(4) of the Employment and Support Allowance Regulations 2008[^f00016].
 
-### 3. Amendment of the Universal Credit Regulations 2013[^key-065786b711733c85785c88488f996a16]
+### 3. Amendment of the Universal Credit Regulations 2013[^c-065786b711733c85785c88488f996a16]
 
 (1) Regulation 9(4) of the Universal Credit Regulations 2013[^f00017] is amended as follows.
 
-(2) In sub-paragraph (zb)[^key-1b88bb6f9cb08bc9026486ae08b9cea9], for “(e)(iv)” substitute “(e)”.
+(2) In sub-paragraph (zb)[^c-1b88bb6f9cb08bc9026486ae08b9cea9], for “(e)(iv)” substitute “(e)”.
 
 (3) After sub-paragraph (zb) insert—
 
@@ -108,7 +108,7 @@ For the same reason, it appears to the Secretary of State to be inexpedient to r
 
 *Extent: E+W*
 
-### 4. Amendment of disability and carers benefit legislation[^key-e21e5d96a1236292dffe2c3e88c81336]
+### 4. Amendment of disability and carers benefit legislation[^c-e21e5d96a1236292dffe2c3e88c81336]
 
 (1) The provisions specified in paragraph (4) are amended as follows.
 
@@ -133,7 +133,7 @@ For the same reason, it appears to the Secretary of State to be inexpedient to r
 - (b) regulation 2C of the Social Security (Attendance Allowance) Regulations 1991[^f00019]; and
 - (c) regulation 2C of the Social Security (Disability Living Allowance) Regulations 1991[^f00020].
 
-### 5. Amendment of the Social Security (Personal Independence Payment) Regulations 2013[^key-7b8043bcddefadb13643bf345de8a127]
+### 5. Amendment of the Social Security (Personal Independence Payment) Regulations 2013[^c-7b8043bcddefadb13643bf345de8a127]
 
 (1) Regulation 23A of the Social Security (Personal Independence Payment) Regulations 2013[^f00021] is amended as follows.
 
@@ -194,13 +194,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00007]: Footnote: See section 173(1)(a) and (2) of the Social Security Administration Act 1992.
 
-[^key-0f30df1430d1e4442e9665dffca66234]: Commencement: Reg. 1 in force at 22.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1)
+[^c-0f30df1430d1e4442e9665dffca66234]: Commencement: Reg. 1 in force at 22.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1)
 
 [^f00008]: Footnote: The provisions being amended by Part 2 extend to England and Wales and Scotland. This instrument does not reflect the presumption that amendments will have the same extent and application as the provisions amended because the Secretary of State does not have executive competence to exercise functions, as regards Scotland, in relation to the benefits regulations amended by Part 3. The function of making regulations under sections 64(1), 70(4) and 71(6) of the Contributions and Benefits Act is exercisable by the Secretary of State by virtue of section 175(1) of that Act and the function of making regulations under section 77(3) of the 2012 Act is exercisable by the Secretary of State by virtue of section 94(1) of that Act. The functions of the Secretary of State under those provisions, as regards Scotland, transferred to the Scottish Ministers on 1st April 2020. Legislative competence for disability and carer’s benefits were transferred to the Scottish Parliament by section 22(2) of the Scotland Act [2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11). Section 22(2) inserted an exception into reservation F1 of Schedule 5 to the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) and was brought into force on 17th May 2017 by [S.I. 2017/455](https://www.legislation.gov.uk/uksi/2017/455), subject to transitional arrangements set out in [S.I. 2017/444](https://www.legislation.gov.uk/uksi/2017/444) which modified the operation of the Scotland Act 1998. Section 32 of the Scotland Act 2016 provides the meaning of “pre-commencement enactment” in this context. The transitional arrangements in respect of disability and carer’s benefits ended on 31st March 2020 (see regulation 4 of the Scotland Act 2016 (Transitional) Regulations 2017 ([S.I. 2017/444](https://www.legislation.gov.uk/uksi/2017/444))). Accordingly, insofar as the functions under those sections of the Contributions and Benefits Act and section 77(3) of the 2012 Act are exercisable within devolved competence, they are now exercisable by the Scottish Ministers. To ensure that the provisions introduced by these Regulations operate identically across England and Wales and Scotland, the Scottish Ministers are making parallel regulations, (the Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022), to these Regulations, the majority of which are to come into force on 22nd March 2022.
 
-[^key-c350efeb92482cbf08145d2a05f84133]: Commencement: Reg. 2 in force at 22.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1)
+[^c-c350efeb92482cbf08145d2a05f84133]: Commencement: Reg. 2 in force at 22.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1)
 
-[^key-51c4207804cce4bd365df0ac41ffeae8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/344/regulation/2/2) substituted (18.10.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/990)](https://www.legislation.gov.uk/uksi/2022/990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/990/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/990/regulation/4/a)
+[^c-51c4207804cce4bd365df0ac41ffeae8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/344/regulation/2/2) substituted (18.10.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/990)](https://www.legislation.gov.uk/uksi/2022/990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/990/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/990/regulation/4/a)
 
 [^f00009]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
@@ -218,13 +218,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00016]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794). Relevant amendments are made by [S.I. 2009/362](https://www.legislation.gov.uk/uksi/2009/362) and [2536](https://www.legislation.gov.uk/uksi/2009/2536), [2014/902](https://www.legislation.gov.uk/uksi/2014/902), [2019/872](https://www.legislation.gov.uk/uksi/2019/872), [2020/683](https://www.legislation.gov.uk/uksi/2020/683) and [1309](https://www.legislation.gov.uk/uksi/2020/1309) and [2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).
 
-[^key-065786b711733c85785c88488f996a16]: Commencement: Reg. 3 in force at 22.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1)
+[^c-065786b711733c85785c88488f996a16]: Commencement: Reg. 3 in force at 22.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376). Relevant amendments are made by [S.I. 2013/1508](https://www.legislation.gov.uk/uksi/2013/1508), [2020/683](https://www.legislation.gov.uk/uksi/2020/683) and [1309](https://www.legislation.gov.uk/uksi/2020/1309) and [2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).
 
-[^key-1b88bb6f9cb08bc9026486ae08b9cea9]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/344/regulation/3/2) substituted (18.10.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/990)](https://www.legislation.gov.uk/uksi/2022/990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/990/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/990/regulation/4/b)
+[^c-1b88bb6f9cb08bc9026486ae08b9cea9]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/344/regulation/3/2) substituted (18.10.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/990)](https://www.legislation.gov.uk/uksi/2022/990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/990/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/990/regulation/4/b)
 
-[^key-e21e5d96a1236292dffe2c3e88c81336]: Commencement: Reg. 4 in force at 22.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1)
+[^c-e21e5d96a1236292dffe2c3e88c81336]: Commencement: Reg. 4 in force at 22.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 1976/409](https://www.legislation.gov.uk/uksi/1976/409). Regulation 9C is inserted by [S.I. 2017/1015](https://www.legislation.gov.uk/uksi/2017/1015). Paragraph (1A) is inserted by [S.I. 2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).
 
@@ -232,6 +232,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00020]: Footnote: [S.I. 1991/2890](https://www.legislation.gov.uk/uksi/1991/2890). Regulation 2C is inserted by [S.I. 2017/1015](https://www.legislation.gov.uk/uksi/2017/1015). Paragraph (1A) is inserted by [S.I. 2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).
 
-[^key-7b8043bcddefadb13643bf345de8a127]: Commencement: Reg. 5 in force at 22.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1)
+[^c-7b8043bcddefadb13643bf345de8a127]: Commencement: Reg. 5 in force at 22.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1)
 
 [^f00021]: Footnote: [S.I. 2013/377](https://www.legislation.gov.uk/uksi/2013/377). Regulation 23A is inserted by [S.I. 2017/1015](https://www.legislation.gov.uk/uksi/2017/1015). Paragraph (1A) is inserted by [S.I. 2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).

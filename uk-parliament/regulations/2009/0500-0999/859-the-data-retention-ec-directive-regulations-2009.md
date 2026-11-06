@@ -42,7 +42,7 @@ Coming into force
 
 6th April 2009
 
-[^key-6f8c5ca135b7690934195b73eaa02549]...
+[^c-6f8c5ca135b7690934195b73eaa02549]...
 
 **No longer in force.**
 
@@ -174,4 +174,4 @@ Regulation 4
 
 ## Annotations
 
-[^key-6f8c5ca135b7690934195b73eaa02549]: Textual amendment: Regulations revoked (31.7.2014) by [The Data Retention Regulations 2014 (S.I. 2014/2042)](https://www.legislation.gov.uk/uksi/2014/2042), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/14/1) (with [reg. 14(3)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/14/3)[(4)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/14/4))
+[^c-6f8c5ca135b7690934195b73eaa02549]: Textual amendment: Regulations revoked (31.7.2014) by [The Data Retention Regulations 2014 (S.I. 2014/2042)](https://www.legislation.gov.uk/uksi/2014/2042), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/14/1) (with [reg. 14(3)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/14/3)[(4)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/14/4))

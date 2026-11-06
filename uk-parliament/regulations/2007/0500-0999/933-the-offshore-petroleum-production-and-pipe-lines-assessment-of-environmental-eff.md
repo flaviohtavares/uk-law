@@ -34,7 +34,7 @@ pETROLEUM
 
 PIPE-LINES
 
-The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (revoked)[^key-2d654e8a70531a2ffdea59eddb2b6278]
+The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (revoked)[^c-2d654e8a70531a2ffdea59eddb2b6278]
 
 Made
 
@@ -48,50 +48,50 @@ Coming into force
 
 16th April 2007
 
-[^key-2d654e8a70531a2ffdea59eddb2b6278]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d654e8a70531a2ffdea59eddb2b6278]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2d654e8a70531a2ffdea59eddb2b6278]
+## 1. Citation and commencement[^c-2d654e8a70531a2ffdea59eddb2b6278]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2d654e8a70531a2ffdea59eddb2b6278]
+## 2. Interpretation[^c-2d654e8a70531a2ffdea59eddb2b6278]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the 1999 Regulations[^key-2d654e8a70531a2ffdea59eddb2b6278]
+## 3. Amendment of the 1999 Regulations[^c-2d654e8a70531a2ffdea59eddb2b6278]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-2d654e8a70531a2ffdea59eddb2b6278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Transitional Provisions[^key-2d654e8a70531a2ffdea59eddb2b6278]
+## 14. Transitional Provisions[^c-2d654e8a70531a2ffdea59eddb2b6278]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d654e8a70531a2ffdea59eddb2b6278]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d654e8a70531a2ffdea59eddb2b6278]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d654e8a70531a2ffdea59eddb2b6278]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d654e8a70531a2ffdea59eddb2b6278]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2d654e8a70531a2ffdea59eddb2b6278]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/933) revoked (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/3/a) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
+[^c-2d654e8a70531a2ffdea59eddb2b6278]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/933) revoked (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/3/a) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))

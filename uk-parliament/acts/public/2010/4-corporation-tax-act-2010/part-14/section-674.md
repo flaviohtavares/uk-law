@@ -22,9 +22,9 @@ summary: ''
 
 (1) In calculating the company's taxable total profits of an accounting period beginning before the change in ownership, no relief may be given under section 37 or 42 (relief for trade losses) for a loss made by the company in an accounting period ending after the change in ownership.
 
-(2) No relief may be given under section 45, 45B, 303B or 303D[^key-bee8b921ea87283c8df539450d7bddca] for a loss made by the company in an accounting period beginning before the change in ownership by carrying forward the loss to reduce the profits of a trade of an accounting period ending after the change in ownership.
+(2) No relief may be given under section 45, 45B, 303B or 303D[^c-bee8b921ea87283c8df539450d7bddca] for a loss made by the company in an accounting period beginning before the change in ownership by carrying forward the loss to reduce the profits of a trade of an accounting period ending after the change in ownership.
 
-(2A)[^key-d0cd2e9d38e40af999996a4d0ea57f2d] No relief may be given under section 45A or 303C for a loss made by the company in an accounting period beginning before the change in ownership by carrying forward the loss and deducting it from a company's total profits of an accounting period ending after the change in ownership.
+(2A)[^c-d0cd2e9d38e40af999996a4d0ea57f2d] No relief may be given under section 45A or 303C for a loss made by the company in an accounting period beginning before the change in ownership by carrying forward the loss and deducting it from a company's total profits of an accounting period ending after the change in ownership.
 
 (3) For the purposes of this section and section 675—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bee8b921ea87283c8df539450d7bddca]: Textual amendment: Words in s. 674(2) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 73(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/73/2)
+[^c-bee8b921ea87283c8df539450d7bddca]: Textual amendment: Words in s. 674(2) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 73(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/73/2)
 
-[^key-d0cd2e9d38e40af999996a4d0ea57f2d]: Textual amendment: S. 674(2A) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 73(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/73/3)
+[^c-d0cd2e9d38e40af999996a4d0ea57f2d]: Textual amendment: S. 674(2A) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 73(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/73/3)

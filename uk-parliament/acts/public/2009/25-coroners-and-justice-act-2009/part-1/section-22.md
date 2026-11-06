@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Coroner areas[^key-5d83a7f06816a079ae41610b84e6be43]
+## 22. Coroner areas[^c-5d83a7f06816a079ae41610b84e6be43]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 2 makes provision about coroner areas.
 
 ## Annotations
 
-[^key-5d83a7f06816a079ae41610b84e6be43]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2009/25/section/22) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/b)
+[^c-5d83a7f06816a079ae41610b84e6be43]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2009/25/section/22) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/b)

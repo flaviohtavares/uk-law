@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 212. Reduction in penalty under section 209 for disclosure[^key-da5379f9854389dbb9a683850bc48163]
+## 212. Reduction in penalty under section 209 for disclosure[^c-da5379f9854389dbb9a683850bc48163]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da5379f9854389dbb9a683850bc48163]: Commencement: [S. 212](https://www.legislation.gov.uk/asp/2014/16/section/212) in force at 16.2.2015 by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
+[^c-da5379f9854389dbb9a683850bc48163]: Commencement: [S. 212](https://www.legislation.gov.uk/asp/2014/16/section/212) in force at 16.2.2015 by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)

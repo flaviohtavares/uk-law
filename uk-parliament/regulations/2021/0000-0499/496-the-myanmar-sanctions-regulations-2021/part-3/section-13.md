@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Making funds available for benefit of designated persons[^key-5150ea9a80446bb989a4daf043559816]
+## 13. Making funds available for benefit of designated persons[^c-5150ea9a80446bb989a4daf043559816]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) A person who contravenes the prohibition in paragraph (1) commits an offence.
 
-(3A)[^key-3cd3eb05ae95aeae8c69a3f14995f35b] The reference in paragraph (1) to making funds available to any person for the benefit of a designated person includes making funds available for the benefit of a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (and references to designated person in paragraph (4) are to be read accordingly).
+(3A)[^c-3cd3eb05ae95aeae8c69a3f14995f35b] The reference in paragraph (1) to making funds available to any person for the benefit of a designated person includes making funds available for the benefit of a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (and references to designated person in paragraph (4) are to be read accordingly).
 
 (4) For the purposes of this regulation—
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5150ea9a80446bb989a4daf043559816]: Commencement: Reg. 13 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-5150ea9a80446bb989a4daf043559816]: Commencement: Reg. 13 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
 
-[^key-3cd3eb05ae95aeae8c69a3f14995f35b]: Textual amendment: [Reg. 13(3A)](https://www.legislation.gov.uk/uksi/2021/496/regulation/13/3A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/33/2)
+[^c-3cd3eb05ae95aeae8c69a3f14995f35b]: Textual amendment: [Reg. 13(3A)](https://www.legislation.gov.uk/uksi/2021/496/regulation/13/3A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/33/2)

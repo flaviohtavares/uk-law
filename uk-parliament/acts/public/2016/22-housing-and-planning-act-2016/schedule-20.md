@@ -36,7 +36,7 @@ Section 210
 
 **6.** A combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009.
 
-**7.**[^key-34b86eb23b59f260a4af76e09754f02f] The London Fire Commissioner.
+**7.**[^c-34b86eb23b59f260a4af76e09754f02f] The London Fire Commissioner.
 
 **8.** Transport for London.
 
@@ -61,4 +61,4 @@ Section 210
 
 ## Annotations
 
-[^key-34b86eb23b59f260a4af76e09754f02f]: Textual amendment: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/20/paragraph/7) substituted (1.4.2018) by [The Policing and Crime Act 2017 (Consequential Amendments) Regulations 2018 (S.I. 2018/226)](https://www.legislation.gov.uk/uksi/2018/226), [regs. 1](https://www.legislation.gov.uk/uksi/2018/226/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2018/226/regulation/11/2)
+[^c-34b86eb23b59f260a4af76e09754f02f]: Textual amendment: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/20/paragraph/7) substituted (1.4.2018) by [The Policing and Crime Act 2017 (Consequential Amendments) Regulations 2018 (S.I. 2018/226)](https://www.legislation.gov.uk/uksi/2018/226), [regs. 1](https://www.legislation.gov.uk/uksi/2018/226/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2018/226/regulation/11/2)

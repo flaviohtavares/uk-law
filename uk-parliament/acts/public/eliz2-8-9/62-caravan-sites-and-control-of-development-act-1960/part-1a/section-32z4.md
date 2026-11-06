@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32Z4. Expenses of local authority in relation to Part 1A licences[^key-0b5794acbbb559ab9b113ed4f5658ee6]
+## 32Z4. Expenses of local authority in relation to Part 1A licences[^c-0b5794acbbb559ab9b113ed4f5658ee6]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The local authority which issued a Part 1A site licence may require the licence 
 
 ## Annotations
 
-[^key-0b5794acbbb559ab9b113ed4f5658ee6]: Textual amendment: Ss. 32Z2-32Z4 inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 80](https://www.legislation.gov.uk/asp/2014/14/section/80), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-0b5794acbbb559ab9b113ed4f5658ee6]: Textual amendment: Ss. 32Z2-32Z4 inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 80](https://www.legislation.gov.uk/asp/2014/14/section/80), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

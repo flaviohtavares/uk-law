@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75A (Extent: W). Other consequences of operating unlicensed HMOs: restriction on terminating tenancies (Wales) (Extent: W)[^key-142413ad9e3ac1e37ac4bb9f40643646]
+## 75A (Extent: W). Other consequences of operating unlicensed HMOs: restriction on terminating tenancies (Wales) (Extent: W)[^c-142413ad9e3ac1e37ac4bb9f40643646]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-142413ad9e3ac1e37ac4bb9f40643646]: Textual amendment: [S. 75A](https://www.legislation.gov.uk/ukpga/2004/34/section/75A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(4)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/4) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 9](https://www.legislation.gov.uk/uksi/2022/1172/regulation/9), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
+[^c-142413ad9e3ac1e37ac4bb9f40643646]: Textual amendment: [S. 75A](https://www.legislation.gov.uk/ukpga/2004/34/section/75A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(4)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/4) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 9](https://www.legislation.gov.uk/uksi/2022/1172/regulation/9), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))

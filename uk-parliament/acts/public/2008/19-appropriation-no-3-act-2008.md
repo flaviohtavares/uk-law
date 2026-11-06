@@ -33,40 +33,40 @@ Appropriation (No. 3) Act 2008 (repealed)
 
 \[16th October 2008\]
 
-[^key-104c786758a0caa2d536d9b704f156c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-104c786758a0caa2d536d9b704f156c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-104c786758a0caa2d536d9b704f156c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**No longer in force.**
-
-## 1. Use of resources for the year ending with 31st March 2009[^key-104c786758a0caa2d536d9b704f156c0][^key-104c786758a0caa2d536d9b704f156c0]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Issue out of the Consolidated Fund for the year ending with 31st March 2009[^key-104c786758a0caa2d536d9b704f156c0][^key-104c786758a0caa2d536d9b704f156c0]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 3. Appropriation of amount and sum voted for a supply service[^key-104c786758a0caa2d536d9b704f156c0][^key-104c786758a0caa2d536d9b704f156c0]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Short title[^key-104c786758a0caa2d536d9b704f156c0][^key-104c786758a0caa2d536d9b704f156c0]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-104c786758a0caa2d536d9b704f156c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Appropriation of amount and sum voted for a supply service[^key-104c786758a0caa2d536d9b704f156c0]
+## 1. Use of resources for the year ending with 31st March 2009[^c-104c786758a0caa2d536d9b704f156c0][^c-104c786758a0caa2d536d9b704f156c0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Issue out of the Consolidated Fund for the year ending with 31st March 2009[^c-104c786758a0caa2d536d9b704f156c0][^c-104c786758a0caa2d536d9b704f156c0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Appropriation of amount and sum voted for a supply service[^c-104c786758a0caa2d536d9b704f156c0][^c-104c786758a0caa2d536d9b704f156c0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Short title[^c-104c786758a0caa2d536d9b704f156c0][^c-104c786758a0caa2d536d9b704f156c0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## SCHEDULE — Appropriation of amount and sum voted for a supply service[^c-104c786758a0caa2d536d9b704f156c0]
 
 Section 3
 
-### HM TREASURY, 2008–09[^key-104c786758a0caa2d536d9b704f156c0]
+### HM TREASURY, 2008–09[^c-104c786758a0caa2d536d9b704f156c0]
 
-[^key-104c786758a0caa2d536d9b704f156c0]
+[^c-104c786758a0caa2d536d9b704f156c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-104c786758a0caa2d536d9b704f156c0]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2008/19) repealed (27.7.2010) by [Appropriation (No. 3) Act 2010 (c. 30)](https://www.legislation.gov.uk/ukpga/2010/30), [Sch. 3](https://www.legislation.gov.uk/ukpga/2010/30/schedule/3)
+[^c-104c786758a0caa2d536d9b704f156c0]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2008/19) repealed (27.7.2010) by [Appropriation (No. 3) Act 2010 (c. 30)](https://www.legislation.gov.uk/ukpga/2010/30), [Sch. 3](https://www.legislation.gov.uk/ukpga/2010/30/schedule/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Mergers of funds[^key-09e6cb8dbde806eca8f6bf873e591660]
+## 6. Mergers of funds[^c-09e6cb8dbde806eca8f6bf873e591660]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ In Schedule 3 to PSPA 2013 (scope of scheme regulations: supplementary matters),
 
 ## Annotations
 
-[^key-09e6cb8dbde806eca8f6bf873e591660]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2026/22/section/6) in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-09e6cb8dbde806eca8f6bf873e591660]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2026/22/section/6) in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

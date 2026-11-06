@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Rate of statutory maternity pay[^key-97672b0bc0222fbcd5bab2f40eeea146]
+## 19. Rate of statutory maternity pay[^c-97672b0bc0222fbcd5bab2f40eeea146]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ For section 166 of the Social Security Contributions and Benefits Act 1992 there
 
 ## Annotations
 
-[^key-97672b0bc0222fbcd5bab2f40eeea146]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2002/22/section/19) in force at 6.4.2003 by [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(3)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/3))
+[^c-97672b0bc0222fbcd5bab2f40eeea146]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2002/22/section/19) in force at 6.4.2003 by [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(3)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. LRA 1967: preservation of existing law for certain enfranchisements[^key-f18966218d530b488432e0fd656b0e59]
+## 46. LRA 1967: preservation of existing law for certain enfranchisements[^c-f18966218d530b488432e0fd656b0e59]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ After section 7 of the LRA 1967 insert—
 
 ## Annotations
 
-[^key-f18966218d530b488432e0fd656b0e59]: Commencement: S. 46 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-f18966218d530b488432e0fd656b0e59]: Commencement: S. 46 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

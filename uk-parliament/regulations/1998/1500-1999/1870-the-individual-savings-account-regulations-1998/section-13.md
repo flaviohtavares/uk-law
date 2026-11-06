@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Application by curator bonis[^key-25baff6518821ccc2037e5a7708f4d52]
+## 13. Application by curator bonis[^c-25baff6518821ccc2037e5a7708f4d52]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25baff6518821ccc2037e5a7708f4d52]: Textual amendment: Reg. 13 omitted (8.1.2003) by virtue of [The Individual Savings Account (Amendment No. 3) Regulations 2002 (S.I. 2002/3158)](https://www.legislation.gov.uk/uksi/2002/3158), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/3158/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2002/3158/regulation/6)
+[^c-25baff6518821ccc2037e5a7708f4d52]: Textual amendment: Reg. 13 omitted (8.1.2003) by virtue of [The Individual Savings Account (Amendment No. 3) Regulations 2002 (S.I. 2002/3158)](https://www.legislation.gov.uk/uksi/2002/3158), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/3158/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2002/3158/regulation/6)

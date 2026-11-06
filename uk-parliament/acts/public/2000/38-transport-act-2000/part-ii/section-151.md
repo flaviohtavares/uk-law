@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Concessions in Greater London.[^c14881631][^key-c05adb8597f2acc398b3fefbd54794ff]
+## 151. Concessions in Greater London.[^c14881631][^c-c05adb8597f2acc398b3fefbd54794ff]
 
 *Extent: E+W*
 
@@ -63,7 +63,7 @@ summary: ''
 
 (11) In subsection (7), for “the categories of such residents mentioned in paragraphs (a), (b) and (c)” substitute “ a category specified in any one of the paragraphs ”.
 
-(12)[^key-be1c5fe3af679941737d695b38ea3a06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-be1c5fe3af679941737d695b38ea3a06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13) In section 243 (requirements as to uniformity), after subsection (5) insert—
 
@@ -73,10 +73,10 @@ summary: ''
 
 [^c14881631]: Commencement: S. 151 partly in force; s. 151 not in force at Royal Assent see s. 275; s. 151 in force (1.4.2001) by [S.I. 2000/3229](https://www.legislation.gov.uk/uksi/2000/3229), [art. 2](https://www.legislation.gov.uk/uksi/2000/3229/article/2), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2000/3229/schedule/part/III)
 
-[^key-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+[^c-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
 
 [^c14881641]: Marginal citation: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
 
 [^c14881651]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-be1c5fe3af679941737d695b38ea3a06]: Textual amendment: S. 151(12) repealed (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/3); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-be1c5fe3af679941737d695b38ea3a06]: Textual amendment: S. 151(12) repealed (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/3); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))

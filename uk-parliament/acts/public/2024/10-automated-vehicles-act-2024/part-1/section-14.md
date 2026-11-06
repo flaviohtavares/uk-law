@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Collection and sharing of information[^key-348f7a41082f1d602f4099a6f3d099cf]
+## 14. Collection and sharing of information[^c-348f7a41082f1d602f4099a6f3d099cf]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-348f7a41082f1d602f4099a6f3d099cf]: Commencement: S. 14 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-348f7a41082f1d602f4099a6f3d099cf]: Commencement: S. 14 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

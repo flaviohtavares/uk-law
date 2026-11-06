@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Concessionary coal[^key-abd44e98e82a53e9e96ba260e48f0f2c]
+## 158. Concessionary coal[^c-abd44e98e82a53e9e96ba260e48f0f2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abd44e98e82a53e9e96ba260e48f0f2c]: Commencement: S. 158 in force at 26.5.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/h)
+[^c-abd44e98e82a53e9e96ba260e48f0f2c]: Commencement: S. 158 in force at 26.5.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 586. Restrictions on persons taking part in proceedings of the governing body or their committees[^key-e5a739a58abd280e7b1ad81c030e63ba]
+## 586. Restrictions on persons taking part in proceedings of the governing body or their committees[^c-e5a739a58abd280e7b1ad81c030e63ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In paragraph 2 of Schedule 7 to the Education (School Government) (Wales) Regula
 
 ## Annotations
 
-[^key-e5a739a58abd280e7b1ad81c030e63ba]: Commencement: Art. 586 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e5a739a58abd280e7b1ad81c030e63ba]: Commencement: Art. 586 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

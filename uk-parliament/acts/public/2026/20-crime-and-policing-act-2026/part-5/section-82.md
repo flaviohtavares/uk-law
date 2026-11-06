@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Sexual activity in presence of child etc[^key-14fef23e0c56b3d86f75734b5447ffa7]
+## 82. Sexual activity in presence of child etc[^c-14fef23e0c56b3d86f75734b5447ffa7]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14fef23e0c56b3d86f75734b5447ffa7]: Commencement: S. 82 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-14fef23e0c56b3d86f75734b5447ffa7]: Commencement: S. 82 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Prohibitions relating to the associated provision of financial services and funds[^key-22672783adf122f3567f614e48984a51]
+## 34. Prohibitions relating to the associated provision of financial services and funds[^c-22672783adf122f3567f614e48984a51]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,10 +51,10 @@ summary: ''
 - (a) it is a defence for a person charged with an offence of contravening paragraph (1) or (2) (“P”) to show that P did not know and had no reasonable cause to suspect that the person was connected with Syria;
 - (b) it is a defence for a person charged with an offence of contravening a prohibition in paragraph (3) to show that the person did not know and had no reasonable cause to suspect that the financial services or funds (as the case may be) were provided in pursuance of or in connection with an arrangement mentioned in that paragraph.
 
-(6)[^key-4ba8241e3bb0cb34673d0b6fed9bb163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-4ba8241e3bb0cb34673d0b6fed9bb163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-22672783adf122f3567f614e48984a51]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-22672783adf122f3567f614e48984a51]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-4ba8241e3bb0cb34673d0b6fed9bb163]: Textual amendment: [Reg. 34(6)](https://www.legislation.gov.uk/uksi/2019/792/regulation/34/6) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(i)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/i)
+[^c-4ba8241e3bb0cb34673d0b6fed9bb163]: Textual amendment: [Reg. 34(6)](https://www.legislation.gov.uk/uksi/2019/792/regulation/34/6) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(i)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/i)

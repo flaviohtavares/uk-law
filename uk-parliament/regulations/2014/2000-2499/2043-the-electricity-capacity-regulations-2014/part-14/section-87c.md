@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 87C. Transitory provisions: the T-3 auction[^key-bdba1b2dfcba1b3abd970630350124c2]
+## 87C. Transitory provisions: the T-3 auction[^c-bdba1b2dfcba1b3abd970630350124c2]
 
 *Extent: E+W+S*
 
-(1) This regulation applies if the Secretary of State determines [^key-050a543e3c63087a1a4211043246d35a]... that the T-3 auction is to be held.
+(1) This regulation applies if the Secretary of State determines [^c-050a543e3c63087a1a4211043246d35a]... that the T-3 auction is to be held.
 
 (2) Where this regulation applies—
 
-- (a) references to a T-4 auction in regulations [^key-1a6c4fcbcfd04ef8e5a219c1cb20f88c]... 31(2)(e), [^key-fc72b0e887018131fda6a26092fe6dfb]... 59(2)(a), 60(2)(a) and Schedule 1 are treated as including the T-3 auction;
-- (b)[^key-2b4f31aa660f4c103e5d232ce595c89c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) references to a T-4 auction in regulations [^c-1a6c4fcbcfd04ef8e5a219c1cb20f88c]... 31(2)(e), [^c-fc72b0e887018131fda6a26092fe6dfb]... 59(2)(a), 60(2)(a) and Schedule 1 are treated as including the T-3 auction;
+- (b)[^c-2b4f31aa660f4c103e5d232ce595c89c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) regulation 59 (requirement to provide applicant credit cover) applies—
-  - (i)[^key-971e99f37f13b0db90bad826cc5c8e10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-971e99f37f13b0db90bad826cc5c8e10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) in relation to credit cover provided in respect of the T-3 auction and the subsequent T-4 auction as if for paragraphs (2A) and (2B) there were substituted—
 
     > (2A) Paragraph (2B) applies where an applicant for the T-3 auction and the subsequent T-4 auction is required to provide applicant credit cover in respect of the same CMU (“CMU i”) for both auctions in accordance with this regulation.
@@ -80,14 +80,14 @@ summary: ''
 
 ## Annotations
 
-[^key-bdba1b2dfcba1b3abd970630350124c2]: Textual amendment: [Reg. 87C](https://www.legislation.gov.uk/uksi/2014/2043/regulation/87C) inserted (18.7.2019) by [The Electricity Capacity (No. 2) Regulations 2019 (S.I. 2019/1139)](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/2/9)
+[^c-bdba1b2dfcba1b3abd970630350124c2]: Textual amendment: [Reg. 87C](https://www.legislation.gov.uk/uksi/2014/2043/regulation/87C) inserted (18.7.2019) by [The Electricity Capacity (No. 2) Regulations 2019 (S.I. 2019/1139)](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/2/9)
 
-[^key-050a543e3c63087a1a4211043246d35a]: Textual amendment: Words in [reg. 87C(1)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/87C/1) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/17/a)
+[^c-050a543e3c63087a1a4211043246d35a]: Textual amendment: Words in [reg. 87C(1)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/87C/1) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/17/a)
 
-[^key-1a6c4fcbcfd04ef8e5a219c1cb20f88c]: Textual amendment: Words in [reg. 87C(2)(a)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/87C/2/a) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 17(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/17/b/i/aa)
+[^c-1a6c4fcbcfd04ef8e5a219c1cb20f88c]: Textual amendment: Words in [reg. 87C(2)(a)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/87C/2/a) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 17(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/17/b/i/aa)
 
-[^key-fc72b0e887018131fda6a26092fe6dfb]: Textual amendment: Word in [reg. 87C(2)(a)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/87C/2/a) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 17(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/17/b/i/bb)
+[^c-fc72b0e887018131fda6a26092fe6dfb]: Textual amendment: Word in [reg. 87C(2)(a)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/87C/2/a) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 17(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/17/b/i/bb)
 
-[^key-2b4f31aa660f4c103e5d232ce595c89c]: Textual amendment: [Reg. 87C(2)(b)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/87C/2/b) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 17(b)(ii)](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/17/b/ii)
+[^c-2b4f31aa660f4c103e5d232ce595c89c]: Textual amendment: [Reg. 87C(2)(b)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/87C/2/b) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 17(b)(ii)](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/17/b/ii)
 
-[^key-971e99f37f13b0db90bad826cc5c8e10]: Textual amendment: [Reg. 87C(2)(c)(i)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/87C/2/c/i) omitted (4.7.2020) by virtue of [The Electricity Capacity (Amendment etc.) (Coronavirus) Regulations 2020 (S.I. 2020/697)](https://www.legislation.gov.uk/uksi/2020/697), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2020/697/schedule/1/paragraph/9)
+[^c-971e99f37f13b0db90bad826cc5c8e10]: Textual amendment: [Reg. 87C(2)(c)(i)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/87C/2/c/i) omitted (4.7.2020) by virtue of [The Electricity Capacity (Amendment etc.) (Coronavirus) Regulations 2020 (S.I. 2020/697)](https://www.legislation.gov.uk/uksi/2020/697), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2020/697/schedule/1/paragraph/9)

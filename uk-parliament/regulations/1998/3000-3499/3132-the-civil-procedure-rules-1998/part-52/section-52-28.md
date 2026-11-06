@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52.28. Appeals under certain planning legislation[^key-80838474f749f7ae040b777947f28e75]
+## 52.28. Appeals under certain planning legislation[^c-80838474f749f7ae040b777947f28e75]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ may appeal to the High Court against the decision on a point of law.
 
 ## Annotations
 
-[^key-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
+[^c-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))

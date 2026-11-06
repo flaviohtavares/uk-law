@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Duration of warrants[^key-899e9a161a50842955181e539af01b19]
+## 162. Duration of warrants[^c-899e9a161a50842955181e539af01b19]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-899e9a161a50842955181e539af01b19]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2016/25/section/162) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)
+[^c-899e9a161a50842955181e539af01b19]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2016/25/section/162) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)

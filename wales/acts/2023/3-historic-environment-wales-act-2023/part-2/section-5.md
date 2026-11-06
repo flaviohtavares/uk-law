@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Consultation before adding or removing monument to or from the schedule[^key-073b50599cb6923a28c1349326246d77][^key-456c554f3aebcb1d46ff0390e8bd1dcc]
+## 5. Consultation before adding or removing monument to or from the schedule[^c-073b50599cb6923a28c1349326246d77][^c-456c554f3aebcb1d46ff0390e8bd1dcc]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-073b50599cb6923a28c1349326246d77]: Commencement: S. 5 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-073b50599cb6923a28c1349326246d77]: Commencement: S. 5 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-456c554f3aebcb1d46ff0390e8bd1dcc]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2023/3/section/5) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-456c554f3aebcb1d46ff0390e8bd1dcc]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2023/3/section/5) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

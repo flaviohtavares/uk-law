@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Savings of certain provisions of the Medical Act 1983[^key-ae7e21048f0267719fc6578ea94d921e]
+## 87. Savings of certain provisions of the Medical Act 1983[^c-ae7e21048f0267719fc6578ea94d921e]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ sections 11(4) and 12(2)(a) of the Medical Act 1983 shall have effect as if thos
 
 ## Annotations
 
-[^key-ae7e21048f0267719fc6578ea94d921e]: Commencement: Art. 87 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-ae7e21048f0267719fc6578ea94d921e]: Commencement: Art. 87 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00071]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54).
 

@@ -29,7 +29,7 @@ summary: ''
 
 but this subsection does not apply to a power under subsection (1) in so far as exercisable by a traffic officer by virtue of section 7 of the Traffic Management Act 2004 (c. 18).
 
-(1B)[^key-18ed3a18c974a63968e7bd90cfaa970c] In the application of subsection (1) in connection with terrorism or the prospect of terrorism—
+(1B)[^c-18ed3a18c974a63968e7bd90cfaa970c] In the application of subsection (1) in connection with terrorism or the prospect of terrorism—
 
 - (a) the reference to vehicular traffic is to be read as a reference to any kind of traffic (including pedestrians), and
 - (b) the other references to traffic are to be read accordingly.
@@ -52,6 +52,6 @@ but this subsection does not apply to a power under subsection (1) in so far as 
 
 [^c18794811]: Textual amendment: S. 67(1A) inserted (19.1.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [ss. 32](https://www.legislation.gov.uk/ukpga/2004/36/section/32), [34](https://www.legislation.gov.uk/ukpga/2004/36/section/34), [Sch. 2 Pt. 3 para. 16(3)](https://www.legislation.gov.uk/ukpga/2004/36/schedule/2/part/3/paragraph/16/3); [S.I. 2004/3281](https://www.legislation.gov.uk/uksi/2004/3281), [art. 2(3)(4)](https://www.legislation.gov.uk/uksi/2004/3281/article/2/3/4)
 
-[^key-18ed3a18c974a63968e7bd90cfaa970c]: Textual amendment: [S. 67(1B)](https://www.legislation.gov.uk/ukpga/1984/27/section/67/1B) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 15(10)](https://www.legislation.gov.uk/ukpga/2019/3/section/15/10), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)
+[^c-18ed3a18c974a63968e7bd90cfaa970c]: Textual amendment: [S. 67(1B)](https://www.legislation.gov.uk/ukpga/1984/27/section/67/1B) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 15(10)](https://www.legislation.gov.uk/ukpga/2019/3/section/15/10), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)
 
 [^c13557291]: Textual amendment: Words substituted by [Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/54), [s. 4](https://www.legislation.gov.uk/ukpga/1988/54/section/4), [Sch. 3 para. 25(5)](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/25/5)

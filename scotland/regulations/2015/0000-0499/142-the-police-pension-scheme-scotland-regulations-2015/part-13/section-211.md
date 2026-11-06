@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 211. Information about payment of annual allowance charge[^key-ee37e07dfd3742c99952b40d4d30a1ed]
+## 211. Information about payment of annual allowance charge[^c-ee37e07dfd3742c99952b40d4d30a1ed]
 
 *Extent: S*
 
 (1) If a member’s pension scheme input amount for this scheme for a tax year exceeds the amount of the annual allowance for that tax year, paragraph (2) applies in respect of the member for that tax year.
 
-(2) The scheme manager must, no later than 6 October[^key-867da2c24214359f157d74e4d1079f78] after the end of the tax year, provide the member with any information the scheme manager considers appropriate to assist the member to arrange payment of the annual allowance charge for that tax year.
+(2) The scheme manager must, no later than 6 October[^c-867da2c24214359f157d74e4d1079f78] after the end of the tax year, provide the member with any information the scheme manager considers appropriate to assist the member to arrange payment of the annual allowance charge for that tax year.
 
 (3) In this regulation—
 
@@ -33,9 +33,9 @@ summary: ''
 
 ## Annotations
 
-[^key-ee37e07dfd3742c99952b40d4d30a1ed]: Commencement: Reg. 211 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ee37e07dfd3742c99952b40d4d30a1ed]: Commencement: Reg. 211 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-867da2c24214359f157d74e4d1079f78]: Textual amendment: Words in [reg. 211(2)](https://www.legislation.gov.uk/ssi/2015/142/regulation/211/2) substituted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [62](https://www.legislation.gov.uk/ssi/2019/68/regulation/62)
+[^c-867da2c24214359f157d74e4d1079f78]: Textual amendment: Words in [reg. 211(2)](https://www.legislation.gov.uk/ssi/2015/142/regulation/211/2) substituted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [62](https://www.legislation.gov.uk/ssi/2019/68/regulation/62)
 
 [^f00084]: Footnote: Section 228 was substituted by the Finance Act 2011, Schedule 17, paragraph 4 and was amended by the Finance Act [2013 (c.29)](https://www.legislation.gov.uk/ukpga/2013/29), section 49.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Transfers[^key-a7f38447952ef5decce9f5d92479ff79]
+## 23. Transfers[^c-a7f38447952ef5decce9f5d92479ff79]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7f38447952ef5decce9f5d92479ff79]: Commencement: Reg. 23 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-a7f38447952ef5decce9f5d92479ff79]: Commencement: Reg. 23 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

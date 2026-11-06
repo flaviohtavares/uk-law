@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138.[^key-6c2033f0bef8e6e16a06a10b75afb566]
+## 138.[^c-6c2033f0bef8e6e16a06a10b75afb566]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 15 (exceptions from the general duties), in paragraph (4), for “Com
 
 ## Annotations
 
-[^key-6c2033f0bef8e6e16a06a10b75afb566]: Commencement: Reg. 138 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-6c2033f0bef8e6e16a06a10b75afb566]: Commencement: Reg. 138 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

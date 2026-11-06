@@ -29,7 +29,7 @@ summary: ''
 
 (3) Any reference in subsection (2) above to a variation affecting the amount of the rent which, under a contract, is payable for a dwelling does not include a reference to—
 
-- (a) a reduction or increase effected under section 78 of the Rent Act 1977 (power of appropriate[^key-93f9b1a00f616a0809551d9efb2576c0] tribunal); or
+- (a) a reduction or increase effected under section 78 of the Rent Act 1977 (power of appropriate[^c-93f9b1a00f616a0809551d9efb2576c0] tribunal); or
 - (b) a variation which is made by the parties and has the effect of making the rent expressed to be payable under the contract the same as the rent for the dwelling which is entered in the register under section 79 of the Rent Act 1977.
 
 (4) In subsection (1) of section 81A of the Rent Act 1977 (cancellation of registration of rent relating to a restricted contract) paragraph (a) (no cancellation until two years have elapsed since the date of the entry) shall cease to have effect.
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93f9b1a00f616a0809551d9efb2576c0]: Textual amendment: Word in [s. 36(3)(a)](https://www.legislation.gov.uk/ukpga/1988/50/section/36/3/a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 88](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/88) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-93f9b1a00f616a0809551d9efb2576c0]: Textual amendment: Word in [s. 36(3)(a)](https://www.legislation.gov.uk/ukpga/1988/50/section/36/3/a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 88](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/88) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

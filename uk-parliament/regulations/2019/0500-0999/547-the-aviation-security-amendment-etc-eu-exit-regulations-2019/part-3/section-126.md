@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Revocation of Commission Regulation (EU) No 72/2010[^key-c710d1be82fdc31569775d6b512e1ae6]
+## 126. Revocation of Commission Regulation (EU) No 72/2010[^c-c710d1be82fdc31569775d6b512e1ae6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Regulation (EU) No 72/2010 of 26 January 2010 laying down procedures 
 
 ## Annotations
 
-[^key-c710d1be82fdc31569775d6b512e1ae6]: Commencement: Reg. 126 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-c710d1be82fdc31569775d6b512e1ae6]: Commencement: Reg. 126 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

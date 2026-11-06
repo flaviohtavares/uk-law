@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Relevant permanent site application[^key-c185495e97e4e0d7149614dfef5a89c9][^key-00a14e4327d663e8def79a8507190579]
+## 64. Relevant permanent site application[^c-c185495e97e4e0d7149614dfef5a89c9][^c-00a14e4327d663e8def79a8507190579]
 
 *Extent: S*
 
@@ -59,6 +59,6 @@ After section 32A of the 1960 Act (inserted by section 63(2)), insert—
 
 ## Annotations
 
-[^key-c185495e97e4e0d7149614dfef5a89c9]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2014/14/section/64) in force at 20.11.2014 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-c185495e97e4e0d7149614dfef5a89c9]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2014/14/section/64) in force at 20.11.2014 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
 
-[^key-00a14e4327d663e8def79a8507190579]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2014/14/section/64) in force at 1.5.2017 in so far as not already in force by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-00a14e4327d663e8def79a8507190579]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2014/14/section/64) in force at 1.5.2017 in so far as not already in force by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

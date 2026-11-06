@@ -22,15 +22,15 @@ summary: ''
 
 Article 41
 
-**1.**[^key-2bfd60eb5da989c695104933355e44b5] The amount of the lump sum is such amount, not exceeding the permitted amount, as may be agreed between the Board and—
+**1.**[^c-2bfd60eb5da989c695104933355e44b5] The amount of the lump sum is such amount, not exceeding the permitted amount, as may be agreed between the Board and—
 
 - (a) a surviving parent or the child’s guardian; or
 - (b) if he has neither, the child himself.
 
-**2.**[^key-b5e0d5517fc51b204ede1d1ff46d8362] The permitted amount is the capitalised value of the amount commuted under article 41, calculated in accordance with tables prepared from time to time by the Government Actuary.
+**2.**[^c-b5e0d5517fc51b204ede1d1ff46d8362] The permitted amount is the capitalised value of the amount commuted under article 41, calculated in accordance with tables prepared from time to time by the Government Actuary.
 
 ## Annotations
 
-[^key-2bfd60eb5da989c695104933355e44b5]: Commencement: Sch. 5 para. 1 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-2bfd60eb5da989c695104933355e44b5]: Commencement: Sch. 5 para. 1 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-b5e0d5517fc51b204ede1d1ff46d8362]: Commencement: Sch. 5 para. 2 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-b5e0d5517fc51b204ede1d1ff46d8362]: Commencement: Sch. 5 para. 2 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)

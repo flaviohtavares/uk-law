@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Authorised persons[^key-fa75c24088a4b95dcae869f7339aa558][^key-f77bd4870757816e27c07ee189f77bfb]
+## 44. Authorised persons[^c-fa75c24088a4b95dcae869f7339aa558][^c-f77bd4870757816e27c07ee189f77bfb]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ and which is not a statutory instrument to which subsection (8) applies is subje
 
 ## Annotations
 
-[^key-fa75c24088a4b95dcae869f7339aa558]: Commencement: S. 44 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-fa75c24088a4b95dcae869f7339aa558]: Commencement: S. 44 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-f77bd4870757816e27c07ee189f77bfb]: Commencement: S. 44 in force at 8.11.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/5/h)
+[^c-f77bd4870757816e27c07ee189f77bfb]: Commencement: S. 44 in force at 8.11.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/5/h)

@@ -33,7 +33,7 @@ An Act to authorise lotteries to be promoted as part of a National Lottery; to m
 
 \[21st October 1993\]
 
-[^c1528509]BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-17b038c27e1e1b9f1532de6d001fc4f5]
+[^c1528509]BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-17b038c27e1e1b9f1532de6d001fc4f5]
 
 ## Contents
 
@@ -141,7 +141,7 @@ An Act to authorise lotteries to be promoted as part of a National Lottery; to m
 
 - [Section 36 — Amendment of the National Heritage Act 1980.](part-ii/section-36.md)
 
-#### The Big Lottery Fund[^key-f496eed2e7106fa4ce173f686a15fd98]
+#### The Big Lottery Fund[^c-f496eed2e7106fa4ce173f686a15fd98]
 
 - [Section 36A — The Fund](part-ii/section-36a.md)
 - [Section 36B — Power to distribute funds](part-ii/section-36b.md)
@@ -255,8 +255,8 @@ SCHEDULES
 
 [^c1528509]: Modification: Certain functions transferred (1.4.1999) by [1998 c. 22](https://www.legislation.gov.uk/ukpga/1998/22), [s. 1(4)](https://www.legislation.gov.uk/ukpga/1998/22/section/1/4); [S.I. 1999/650](https://www.legislation.gov.uk/uksi/1999/650), [art. 2](https://www.legislation.gov.uk/uksi/1999/650/article/2).
 
-[^key-17b038c27e1e1b9f1532de6d001fc4f5]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1993/39) functions cease to be exercisable concurrently (7.7.2010) by [The Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 7(a)](https://www.legislation.gov.uk/uksi/2010/1551/article/7/a)
+[^c-17b038c27e1e1b9f1532de6d001fc4f5]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1993/39) functions cease to be exercisable concurrently (7.7.2010) by [The Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 7(a)](https://www.legislation.gov.uk/uksi/2010/1551/article/7/a)
 
-[^key-f496eed2e7106fa4ce173f686a15fd98]: Textual amendment: S. 39A and cross-heading inserted (1.8.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/14/1), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/2177](https://www.legislation.gov.uk/uksi/2006/2177), [art. 2](https://www.legislation.gov.uk/uksi/2006/2177/article/2)
+[^c-f496eed2e7106fa4ce173f686a15fd98]: Textual amendment: S. 39A and cross-heading inserted (1.8.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/14/1), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/2177](https://www.legislation.gov.uk/uksi/2006/2177), [art. 2](https://www.legislation.gov.uk/uksi/2006/2177/article/2)
 
 [^c1528697]: Textual amendment: Crossheading and ss. 43A-43D inserted (2.7.1998) by [1998 c. 22](https://www.legislation.gov.uk/ukpga/1998/22), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/1998/22/section/7/2), [27(4)](https://www.legislation.gov.uk/ukpga/1998/22/section/27/4)

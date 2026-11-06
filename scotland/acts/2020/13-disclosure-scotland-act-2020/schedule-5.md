@@ -26,7 +26,7 @@ summary: ''
 
 #### Caravan Sites and Control of Development Act 1960
 
-**1.**[^key-8181daa5a442df98e6080b5d739e2d25] In section 32P of the Caravan Sites and Control of Development Act 1960 (fit and proper person: criminal conviction certificate)—
+**1.**[^c-8181daa5a442df98e6080b5d739e2d25] In section 32P of the Caravan Sites and Control of Development Act 1960 (fit and proper person: criminal conviction certificate)—
 
 - (a) in subsection (1), for the words from “criminal” to the end substitute “ Level 1 disclosure (within the meaning of section 1 of the Disclosure (Scotland) Act 2020). ”,
 - (b) in subsection (2), for “criminal conviction certificate” substitute “ Level 1 disclosure ”,
@@ -34,7 +34,7 @@ summary: ''
 
 #### Rehabilitation of Offenders Act 1974
 
-**2.**[^key-a486e13e8faecd960c2ec677787ccdf7] (1) The Rehabilitation of Offenders Act 1974 is amended as follows.
+**2.**[^c-a486e13e8faecd960c2ec677787ccdf7] (1) The Rehabilitation of Offenders Act 1974 is amended as follows.
 
 (2) In section 5 (disclosure periods for particular sentences), after subsection (2A) insert—
 
@@ -86,11 +86,11 @@ summary: ''
 
 #### Police Act 1997
 
-**3.**[^key-9e319bcb1ffef01a9bd4e7ac4155f903] In the Police Act 1997, Part 5 (certificates of criminal records etc.) is repealed.
+**3.**[^c-9e319bcb1ffef01a9bd4e7ac4155f903] In the Police Act 1997, Part 5 (certificates of criminal records etc.) is repealed.
 
 #### Antisocial Behaviour etc. (Scotland) Act 2004
 
-**4.**[^key-3f18b38663393ccf4a1de3de0f3f5b5a] In section 85A of the Antisocial Behaviour etc. (Scotland) Act 2004 (fit and proper person: criminal record certificate)—
+**4.**[^c-3f18b38663393ccf4a1de3de0f3f5b5a] In section 85A of the Antisocial Behaviour etc. (Scotland) Act 2004 (fit and proper person: criminal record certificate)—
 
 - (a) in subsection (1), for the words from “criminal” to the end substitute “ Level 2 disclosure (within the meaning of section 8(1) of the Disclosure (Scotland) Act 2020). ”,
 - (b) in each of subsections (2) and (3), for “criminal record certificate” substitute “ Level 2 disclosure ”,
@@ -99,7 +99,7 @@ summary: ''
 
 #### Protection of Vulnerable Groups (Scotland) Act 2007
 
-**5.**[^key-ec99296e557f6390b20cf52de8f2ed84][^key-3366e15a78374c034bb8e15287bc3ff8] (1) The PVG Act is amended as follows.
+**5.**[^c-ec99296e557f6390b20cf52de8f2ed84][^c-3366e15a78374c034bb8e15287bc3ff8] (1) The PVG Act is amended as follows.
 
 (2) In section 18 (police information etc.)—
 
@@ -199,11 +199,11 @@ summary: ''
 
 #### Housing (Scotland) Act 2014
 
-**6.**[^key-ff1f5fc5b51c0a875a8f6090f9eb2190] In section 35 of the Housing (Scotland) Act 2014 (fit and proper person: criminal record information), in subsection (2), for the words from “criminal” to “1997 (c. 50))” substitute “ Level 1 disclosure (within the meaning of section 1 of the Disclosure (Scotland) Act 2020) ”.
+**6.**[^c-ff1f5fc5b51c0a875a8f6090f9eb2190] In section 35 of the Housing (Scotland) Act 2014 (fit and proper person: criminal record information), in subsection (2), for the words from “criminal” to “1997 (c. 50))” substitute “ Level 1 disclosure (within the meaning of section 1 of the Disclosure (Scotland) Act 2020) ”.
 
 #### Age of Criminal Responsibility (Scotland) Act 2019
 
-**7.**[^key-519d3bda9347e781fd103596a49c1772] (1) The Age of Criminal Responsibility (Scotland) Act 2019 is amended as follows.
+**7.**[^c-519d3bda9347e781fd103596a49c1772] (1) The Age of Criminal Responsibility (Scotland) Act 2019 is amended as follows.
 
 (2) In section 8 (disapplication of sections 6 and 7)—
 
@@ -301,7 +301,7 @@ summary: ''
 
 #### Education (Scotland) Act 1980
 
-**8.**[^key-bf0864d9949b8b5ffedf8b91e46fd0cd] (1) The Education (Scotland) Act 1980 is amended as follows.
+**8.**[^c-bf0864d9949b8b5ffedf8b91e46fd0cd] (1) The Education (Scotland) Act 1980 is amended as follows.
 
 (2) In section 98A (application for registration of independent school)—
 
@@ -322,13 +322,13 @@ summary: ''
 
 #### Foster Children (Scotland) Act 1984
 
-**9.**[^key-ddbacd91b7a8084a440deacbc4ca6cbe] In section 7(4) (persons disqualified from keeping foster children) of the Foster Children (Scotland) Act 1984 for “work” substitute “ roles ”.
+**9.**[^c-ddbacd91b7a8084a440deacbc4ca6cbe] In section 7(4) (persons disqualified from keeping foster children) of the Foster Children (Scotland) Act 1984 for “work” substitute “ roles ”.
 
 #### Protection of Vulnerable Groups (Scotland) Act 2007
 
-**10.** (1)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] The PVG Act is amended as follows.
+**10.** (1)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] The PVG Act is amended as follows.
 
-(2)[^key-358c5001a648ef1e9bd1d6b84b46ee4f][^key-64fa5766c36cd6dbc86280ed5ea9aa8c] In section 2 (referral ground)—
+(2)[^c-358c5001a648ef1e9bd1d6b84b46ee4f][^c-64fa5766c36cd6dbc86280ed5ea9aa8c] In section 2 (referral ground)—
 
 - (a) in paragraph (a), for the opening words substitute—
 
@@ -341,7 +341,7 @@ summary: ''
 
   .
 
-(3)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 3 (reference following disciplinary action etc.)—
+(3)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 3 (reference following disciplinary action etc.)—
 
 - (a) in subsection (1)—
   - (i) in the opening words for “doing regulated work” substitute “ carrying out a regulated role ”,
@@ -356,40 +356,40 @@ summary: ''
   - (i) in paragraph (a) for the words from “regulated” to the end of that paragraph substitute “ a regulated role is not to be treated as having stopped carrying out that role, ”,
   - (ii) in paragraph (b) for “work” substitute “ role ”.
 
-(4)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 4 (reference by employment agency)—
+(4)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 4 (reference by employment agency)—
 
 - (a) in the opening words for “doing regulated work” substitute “ carrying out a regulated role ”,
 - (b) in paragraph (b)(i) for “further regulated work” substitute “ another regulated role ”,
 - (c) in paragraph (b)(ii) for “such work” substitute “ another regulated role ”.
 
-(5)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 5 (reference by employment business)—
+(5)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 5 (reference by employment business)—
 
 - (a) in the opening words for “regulated work” substitute “ a regulated role ”,
 - (b) in paragraph (b) for “doing regulated work” substitute “ carrying out the regulated role ”,
 - (c) in paragraph (c) for “further regulated work” substitute “ another regulated role ”.
 
-(6)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 6(1) (reference relating to matters occurring before provisions come into force) for “doing the regulated work” substitute “ carrying out the regulated role ”.
+(6)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 6(1) (reference relating to matters occurring before provisions come into force) for “doing the regulated work” substitute “ carrying out the regulated role ”.
 
-(7)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 8(1) (reference by certain other persons) for “doing regulated work” substitute “ carrying out a regulated role ”.
+(7)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 8(1) (reference by certain other persons) for “doing regulated work” substitute “ carrying out a regulated role ”.
 
-(8)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 10(4) (consideration whether to list: organisational referrals etc.) for the words from “work” to the end of that subsection substitute “ role (if any) which the individual is or has been carrying out. ”.
+(8)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 10(4) (consideration whether to list: organisational referrals etc.) for the words from “work” to the end of that subsection substitute “ role (if any) which the individual is or has been carrying out. ”.
 
-(9)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 12 (consideration whether to list: vetting information etc.) in each of subsections (1)(b) and (2)(b) for “do regulated work” substitute “ carry out a regulated role ”.
+(9)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 12 (consideration whether to list: vetting information etc.) in each of subsections (1)(b) and (2)(b) for “do regulated work” substitute “ carry out a regulated role ”.
 
-(10)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 13 (consideration whether to list: inquiries)—
+(10)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 13 (consideration whether to list: inquiries)—
 
 - (a) in each of paragraphs (a) and (b) of subsection (1) for “doing regulated work” substitute “ carrying out a regulated role. ”,
 - (b) in subsection (4) for the words from “work” to the end of that subsection substitute “ role which the individual was carrying out ”.
 
-(11)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 15 (inclusion in children's list after consideration) for “work” substitute “ carry out regulated roles ”.
+(11)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 15 (inclusion in children's list after consideration) for “work” substitute “ carry out regulated roles ”.
 
-(12)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 16 (inclusion in adults' list after consideration) for “work with protected” substitute “ carry out regulated roles with ”.
+(12)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 16 (inclusion in adults' list after consideration) for “work with protected” substitute “ carry out regulated roles with ”.
 
-(13)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 18 (police information etc.) in each of subsections (1) and (4)(a) for “work” substitute “ role ”.
+(13)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 18 (police information etc.) in each of subsections (1) and (4)(a) for “work” substitute “ role ”.
 
-(14)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 19(2)(a) (information held by public bodies etc.) for “work” substitute “ role ”.
+(14)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 19(2)(a) (information held by public bodies etc.) for “work” substitute “ role ”.
 
-(15)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 20 (information held by regulated work providers)—
+(15)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 20 (information held by regulated work providers)—
 
 - (a) in subsection (2)—
   - (i) in paragraph (a) for “doing, or has done, regulated work” substitute “ carrying out, or has carried out, a regulated role ”,
@@ -398,23 +398,23 @@ summary: ''
   - (iv) in paragraph (d) for “do regulated work” substitute “ carry out a regulated role ”,
 - (b) the title of the section becomes “ Information held by providers of regulated roles ”.
 
-(16)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 21 (appeals against inclusion in children's list), in subsection (3)(a) for “work” substitute “ carry out regulated roles ”.
+(16)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 21 (appeals against inclusion in children's list), in subsection (3)(a) for “work” substitute “ carry out regulated roles ”.
 
-(17)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 22 (appeals against inclusion in adults' list), in subsection (3)(a) for “work with protected” substitute “ carry out regulated roles with ”.
+(17)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 22 (appeals against inclusion in adults' list), in subsection (3)(a) for “work with protected” substitute “ carry out regulated roles with ”.
 
-(18)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 26 (determination of application for removal from list)—
+(18)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 26 (determination of application for removal from list)—
 
 - (a) in subsection (1)(a) for “work” substitute “ carry out regulated roles ”,
 - (b) in subsection (2)(a) for “work with protected” substitute “ carry out regulated roles with ”.
 
-(19)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 27 (appeals against refusal to remove individual from list)—
+(19)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 27 (appeals against refusal to remove individual from list)—
 
 - (a) in subsection (2)(a) for “work” substitute “ carry out regulated roles ”,
 - (b) in subsection (3)(a) for “work with protected” substitute “ carry out regulated roles with ”.
 
 (20) In section 30 (notice of listing etc.)—
 
-- (a)[^key-29d7470ed87014046e67f7af97d1e3c5] in subsection (1)(c), after “13” insert “ or section 45B(7) ”,
+- (a)[^c-29d7470ed87014046e67f7af97d1e3c5] in subsection (1)(c), after “13” insert “ or section 45B(7) ”,
 - (b) in each of subsections (1)(b) and (2)(a) for “doing regulated work” substitute “ regulated roles ”,
 - (c) in subsection (3)(b)—
   - (i) in sub-paragraph (i) for “work” substitute “ roles ”,
@@ -424,9 +424,9 @@ summary: ''
   - (ii) in the closing words for “doing regulated work” substitute “ carrying out a regulated role ”,
 - (e) in each of paragraphs (b) and (c) of subsection (4) for “doing regulated work” substitute “ carrying out a regulated role ”.
 
-(21)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] The italic heading before section 34 becomes “ Offences relating to regulated roles ”.
+(21)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] The italic heading before section 34 becomes “ Offences relating to regulated roles ”.
 
-(22)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 34 (barred individuals not to do regulated work)—
+(22)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 34 (barred individuals not to do regulated work)—
 
 - (a) in subsection (1), for “do, or to seek or agreed to do, any regulated work” substitute “ carry out, or to seek or agree to carry out, any regulated role ”,
 - (b) in subsection (2)—
@@ -434,7 +434,7 @@ summary: ''
   - (ii) in paragraph (b), for “work concerned was regulated work” substitute “ role concerned was a regulated role ”,
 - (c) the title of the section becomes “ Barred individuals not to carry out regulated roles ”.
 
-(23)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 35 (organisations not to use barred individuals for regulated work)—
+(23)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 35 (organisations not to use barred individuals for regulated work)—
 
 - (a) in subsection (1), for “regulated work to an individual barred from that work” substitute “ a regulated role to an individual barred from that role ”,
 - (b) in subsection (2)—
@@ -448,7 +448,7 @@ summary: ''
   - (ii) for “do that work” substitute “ carry out that role ”,
 - (g) the title of the section becomes “ Organisations not to use barred individuals for regulated roles ”.
 
-(24)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 36 (personnel suppliers not to supply barred individuals for regulated work)—
+(24)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 36 (personnel suppliers not to supply barred individuals for regulated work)—
 
 - (a) in subsection (1)—
   - (i) in paragraph (a) for “doing regulated work” substitute “ regulated roles ”,
@@ -456,47 +456,47 @@ summary: ''
 - (b) in subsection (2) for “doing the regulated work” substitute “ the regulated role ”,
 - (c) The title of the section becomes “ Personnel suppliers not to supply barred individuals for regulated roles ”.
 
-(25)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] The title of section 37 becomes “ Penalties for offences relating to regulated roles ”.
+(25)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] The title of section 37 becomes “ Penalties for offences relating to regulated roles ”.
 
-(26)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 39(1) (restrictions on listing in children's list) for “work” substitute “ roles ”.
+(26)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 39(1) (restrictions on listing in children's list) for “work” substitute “ roles ”.
 
-(27)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 40(1) (restrictions on listing in adults' list) for “work” substitute “ roles ”.
+(27)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 40(1) (restrictions on listing in adults' list) for “work” substitute “ roles ”.
 
-(28)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 44 (the Scheme) for “do, or wish to do, regulated work” substitute “ carry out, or wish to carry out, regulated roles ”.
+(28)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 44 (the Scheme) for “do, or wish to do, regulated work” substitute “ carry out, or wish to carry out, regulated roles ”.
 
-(29)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 48 (scheme record), for paragraph (a) substitute—
+(29)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 48 (scheme record), for paragraph (a) substitute—
 
 > - (a) the information to be contained in a confirmation of scheme membership under section 46(2), and
 
 .
 
-(30)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 49(1)(c)(i) (vetting information) for “work” substitute “ role ”.
+(30)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 49(1)(c)(i) (vetting information) for “work” substitute “ role ”.
 
-(31)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 58(1) (removal from scheme)—
+(31)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 58(1) (removal from scheme)—
 
 - (a) in the opening words for “work” substitute “ role ”,
 - (b) in paragraph (a) for “doing that work” substitute “ carrying out that type of role ”,
 - (c) in paragraph (b) for “doing that work” substitute “ that type of regulated role ”.
 
-(32)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 59 (withdrawal from scheme)—
+(32)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 59 (withdrawal from scheme)—
 
 - (a) in the opening words for “work” substitute “ role ”,
 - (b) in paragraph (b) for “doing that type of regulated work” substitute “ carrying out that type of regulated role ”.
 
 (33) In section 60 (notice of removal)—
 
-- (a)[^key-29d7470ed87014046e67f7af97d1e3c5] in subsection (1), after “section” insert “ 45B(3)(a) or (6), ”,
-- (b)[^key-7f66d7464aee6ee129c0b5ae79a25125] in subsection (2)(a), for “work” substitute “ role ”.
+- (a)[^c-29d7470ed87014046e67f7af97d1e3c5] in subsection (1), after “section” insert “ 45B(3)(a) or (6), ”,
+- (b)[^c-7f66d7464aee6ee129c0b5ae79a25125] in subsection (2)(a), for “work” substitute “ role ”.
 
-(34)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 62 (evidence of identity), in subsection (1), for paragraph (c) substitute—
+(34)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 62 (evidence of identity), in subsection (1), for paragraph (c) substitute—
 
 > - (c) a request for confirmation of scheme membership under section 54,
 
 .
 
-(35)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] The italic heading before section 65 becomes “ Offences relating to confirmation of scheme membership ”.
+(35)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] The italic heading before section 65 becomes “ Offences relating to confirmation of scheme membership ”.
 
-(36)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 65 (falsification of scheme records etc.)—
+(36)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 65 (falsification of scheme records etc.)—
 
 - (a) in subsection (1)—
   - (i) in paragraph (a), for “disclosure record” substitute “ confirmation of scheme membership made available under section 54 ”,
@@ -507,7 +507,7 @@ summary: ''
   - (ii) in paragraph (b), for “doing regulated work” substitute “ carrying out a regulated role ”,
 - (c) the title of the section becomes “ Falsification of confirmation of scheme membership ”.
 
-(37)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 66 (unlawful disclosure of scheme records etc.)—
+(37)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 66 (unlawful disclosure of scheme records etc.)—
 
 - (a) in subsection (1), for “disclosure information is disclosed under section 51, 52, 53 or 54” substitute “ a confirmation of scheme membership is made available under section 54 ”,
 - (b) in subsection (2)—
@@ -528,7 +528,7 @@ summary: ''
 - (j) in subsection (9), for “disclosure information” substitute “ a confirmation of scheme membership made available under section 54 ”,
 - (k) the title of the section becomes “ Unlawful disclosure of confirmation of scheme membership ”.
 
-(38)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 67 (unlawful requests for scheme records etc.)—
+(38)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 67 (unlawful requests for scheme records etc.)—
 
 - (a) in subsection (1), for “disclosure record” substitute “ confirmation of scheme membership under section 54 ”,
 - (b) in subsection (2), for “disclosure information” substitute “ a confirmation of scheme membership made available under section 54 ”,
@@ -543,7 +543,7 @@ summary: ''
 - (d) subsection (4) is repealed,
 - (e) the title of the section becomes “ Unlawful requests for and use of confirmation of scheme membership ”.
 
-(39)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 68 (unlawful disclosure etc.: supplementary)—
+(39)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 68 (unlawful disclosure etc.: supplementary)—
 
 - (a) in subsection (2), for “do, or to be offered or supplied for, the type of regulated work” substitute “ carry out, or to be offered or supplied for, the type of regulated role ”,
 - (b) in subsection (1)—
@@ -561,9 +561,9 @@ summary: ''
 
   .
 
-(40)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] The title of section 69 becomes “ Penalties for offences relating to confirmation of scheme membership ”.
+(40)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] The title of section 69 becomes “ Penalties for offences relating to confirmation of scheme membership ”.
 
-(41)[^key-6c8789e864c01d61cbae4262d510e5fe][^M_I_4af82b2e-36f3-4ad3-cce1-38e448eb928e][^key-525f4e923b24978edc6ced0ccbd6e912] In section 70 (fees)—
+(41)[^c-6c8789e864c01d61cbae4262d510e5fe][^M_I_4af82b2e-36f3-4ad3-cce1-38e448eb928e][^c-525f4e923b24978edc6ced0ccbd6e912] In section 70 (fees)—
 
 - (a) in subsection (1)—
   - (i) in paragraph (a), after “Scheme” insert “ or to renew membership of the Scheme ”,
@@ -575,13 +575,13 @@ summary: ''
   ,
 - (c) in subsection (4)—
   - (i) in paragraph (a), after “Scheme” insert “ or to renew membership of the Scheme, ”,
-  - (ii)[^key-525f4e923b24978edc6ced0ccbd6e912] in paragraph (b), for “disclosure request” substitute “ request for confirmation of scheme membership under section 54 ”,
-  - (iii)[^key-525f4e923b24978edc6ced0ccbd6e912] in the closing words, after “paid” insert “ in the manner provided for in the regulations. ”
+  - (ii)[^c-525f4e923b24978edc6ced0ccbd6e912] in paragraph (b), for “disclosure request” substitute “ request for confirmation of scheme membership under section 54 ”,
+  - (iii)[^c-525f4e923b24978edc6ced0ccbd6e912] in the closing words, after “paid” insert “ in the manner provided for in the regulations. ”
 
-(42)[^key-3ae90292f3d7d4f1fbc36e676a47312d] In section 71 (forms)—
+(42)[^c-3ae90292f3d7d4f1fbc36e676a47312d] In section 71 (forms)—
 
 - (a) in subsection (1)—
-  - (i)[^key-29d7470ed87014046e67f7af97d1e3c5] in paragraph (a), after “Scheme” insert “ or to renew membership of the Scheme ”,
+  - (i)[^c-29d7470ed87014046e67f7af97d1e3c5] in paragraph (a), after “Scheme” insert “ or to renew membership of the Scheme ”,
   - (ii) for paragraph (c) substitute—
 
     > - (c) requests for confirmation of scheme membership under section 54 (including a statement under subsection (3) of that section),
@@ -589,25 +589,25 @@ summary: ''
     ,
 - (b) in each of subsections (2) and (3), for “declaration” substitute “ statement ”.
 
-(43)[^key-6c8789e864c01d61cbae4262d510e5fe] In section 72 (procedure), in subsection (2)—
+(43)[^c-6c8789e864c01d61cbae4262d510e5fe] In section 72 (procedure), in subsection (2)—
 
-- (a)[^key-b9ce8914aae435fac5bd3796ab56891d] in paragraph (a), after “Scheme” insert “ or to renew membership of the Scheme ”,
-- (b)[^key-c7289ab51ca95ced2429f4924ac3cb78] paragraph (c) is repealed,
-- (c)[^key-c7289ab51ca95ced2429f4924ac3cb78] for paragraph (d) substitute—
+- (a)[^c-b9ce8914aae435fac5bd3796ab56891d] in paragraph (a), after “Scheme” insert “ or to renew membership of the Scheme ”,
+- (b)[^c-c7289ab51ca95ced2429f4924ac3cb78] paragraph (c) is repealed,
+- (c)[^c-c7289ab51ca95ced2429f4924ac3cb78] for paragraph (d) substitute—
 
   > - (d) prescribe further procedure for making requests for confirmations of scheme membership under section 54 and making such confirmations available in pursuance of such requests.
 
   .
 
-(44)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 73 (consideration of suitability)—
+(44)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 73 (consideration of suitability)—
 
 - (a) in the opening words, for “to do, or to be offered or supplied for, any type of regulated work” substitute “ to carry out, or to be offered or supplied for, any type of regulated role ”,
 - (b) in each of paragraphs (a) and (b), for “do that type of regulated work” substitute “ carry out that type of regulated role ”,
 - (c) paragraphs (c) to (f) are repealed.
 
-(45)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 76(1)(b) (police access to scheme information) for “regulated work” substitute “ regulated roles ”.
+(45)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 76(1)(b) (police access to scheme information) for “regulated work” substitute “ regulated roles ”.
 
-(46)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 77 (statements of scheme membership: disclosure of whether individual under consideration for listing)—
+(46)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 77 (statements of scheme membership: disclosure of whether individual under consideration for listing)—
 
 - (a) in subsection (1)—
   - (i) for “Despite section 46(2)(c), a statement of scheme membership” substitute “ A confirmation of scheme membership made available under section 54 or a Level 2 disclosure made available under section 18 of the Disclosure (Scotland) Act 2020 ”,
@@ -625,18 +625,18 @@ summary: ''
   ,
 - (c) in subsection (2)(b), for “or 13” substitute “ , 13 or 45B(7) ”.
 
-(47)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] The title of section 77 becomes “ Disclosure of whether an individual is under consideration for listing ”.
+(47)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] The title of section 77 becomes “ Disclosure of whether an individual is under consideration for listing ”.
 
-(48)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 92 (individuals barred from regulated work)—
+(48)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 92 (individuals barred from regulated work)—
 
 - (a) in the opening words of each of subsections (1) and (2), for “work” substitute “ roles ”,
 - (b) in each of subsections (3) and (4) for “work” substitute “ roles ”.
 
-(49)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] The title of section 92 becomes “ Individuals barred from regulated roles ”.
+(49)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] The title of section 92 becomes “ Individuals barred from regulated roles ”.
 
-(50)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] Section 95 (work) is repealed.
+(50)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] Section 95 (work) is repealed.
 
-(51)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 96 (fostering)—
+(51)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 96 (fostering)—
 
 - (a) in subsection (2), for “doing work” substitute “ carrying out a regulated role with children ”,
 - (b) in subsection (3)—
@@ -646,14 +646,14 @@ summary: ''
 - (c) subsection (4) is repealed,
 - (d) in subsection (5), for “doing regulated work” substitute “ carrying out a regulated role ”.
 
-(52)[^key-29d7470ed87014046e67f7af97d1e3c5] In section 97(3) (general interpretation), for “11, 12 or 13” substitute “ 12, 13 or 45B(7) ”.
+(52)[^c-29d7470ed87014046e67f7af97d1e3c5] In section 97(3) (general interpretation), for “11, 12 or 13” substitute “ 12, 13 or 45B(7) ”.
 
-(53)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In section 100 (orders and regulations), in subsection (4)—
+(53)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In section 100 (orders and regulations), in subsection (4)—
 
 - (a) for “Paragraph 28 of schedule 2 (except an order of the type mentioned in paragraph 15 of that schedule)” substitute “ Paragraph 33 of schedule 2 ”,
 - (b) for “Paragraph 13 of schedule 3” substitute “ Paragraph 25 of schedule 3 ”.
 
-(54)[^key-358c5001a648ef1e9bd1d6b84b46ee4f] In schedule 5 (index)—
+(54)[^c-358c5001a648ef1e9bd1d6b84b46ee4f] In schedule 5 (index)—
 
 - (a) in the entry relating to—
   - (i) “barred from regulated work”, in the left hand column substitute “ barred from regulated roles ”,
@@ -681,13 +681,13 @@ summary: ''
 
 #### Age of Criminal Responsibility (Scotland) Act 2019
 
-**11.**[^key-f1789a7c54a2e01e6f471ea02c774d17] In section 26 of the Age of Criminal Responsibility (Scotland) Act 2019 (interpretation of Part 2), in the definition of “regulated work”, for “work” substitute “ role ”.
+**11.**[^c-f1789a7c54a2e01e6f471ea02c774d17] In section 26 of the Age of Criminal Responsibility (Scotland) Act 2019 (interpretation of Part 2), in the definition of “regulated work”, for “work” substitute “ role ”.
 
 ### PART 3 — Other consequential and minor modifications
 
 #### Protection of Vulnerable Groups (Scotland) Act 2007
 
-**12.**[^key-94839722a88251cffcc00344b0efb425] (1) The PVG Act is amended as follows.
+**12.**[^c-94839722a88251cffcc00344b0efb425] (1) The PVG Act is amended as follows.
 
 (2) In section 10(1)(b) (consideration whether to list: organisational referrals etc.), for “Independent Safeguarding Authority” substitute “ Disclosure and Barring Service ”.
 
@@ -747,55 +747,55 @@ summary: ''
 
 #### Children's Hearings (Scotland) Act 2011
 
-**13.**[^key-7178e0f549263da7d22b57cae7340d62] In the Children's Hearings (Scotland) Act 2011, the following provisions are repealed—
+**13.**[^c-7178e0f549263da7d22b57cae7340d62] In the Children's Hearings (Scotland) Act 2011, the following provisions are repealed—
 
 - (a) section 187 (Rehabilitation of Offenders Act 1974: treatment of certain disposals by children's hearings),
 - (b) section 188 (criminal record certificates).
 
 ## Annotations
 
-[^key-8181daa5a442df98e6080b5d739e2d25]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/1) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-8181daa5a442df98e6080b5d739e2d25]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/1) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-a486e13e8faecd960c2ec677787ccdf7]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/2) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-a486e13e8faecd960c2ec677787ccdf7]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/2) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-9e319bcb1ffef01a9bd4e7ac4155f903]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/3) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2025/27/regulation/4), [5](https://www.legislation.gov.uk/ssi/2025/27/regulation/5), [7](https://www.legislation.gov.uk/ssi/2025/27/regulation/7), [8](https://www.legislation.gov.uk/ssi/2025/27/regulation/8), [9](https://www.legislation.gov.uk/ssi/2025/27/regulation/9), [10](https://www.legislation.gov.uk/ssi/2025/27/regulation/10))
+[^c-9e319bcb1ffef01a9bd4e7ac4155f903]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/3) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2025/27/regulation/4), [5](https://www.legislation.gov.uk/ssi/2025/27/regulation/5), [7](https://www.legislation.gov.uk/ssi/2025/27/regulation/7), [8](https://www.legislation.gov.uk/ssi/2025/27/regulation/8), [9](https://www.legislation.gov.uk/ssi/2025/27/regulation/9), [10](https://www.legislation.gov.uk/ssi/2025/27/regulation/10))
 
-[^key-3f18b38663393ccf4a1de3de0f3f5b5a]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/4) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-3f18b38663393ccf4a1de3de0f3f5b5a]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/4) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-ec99296e557f6390b20cf52de8f2ed84]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/5) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-ec99296e557f6390b20cf52de8f2ed84]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/5) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
-[^key-3366e15a78374c034bb8e15287bc3ff8]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/5) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2025/27/regulation/8))
+[^c-3366e15a78374c034bb8e15287bc3ff8]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/5) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2025/27/regulation/8))
 
-[^key-ff1f5fc5b51c0a875a8f6090f9eb2190]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/6) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-ff1f5fc5b51c0a875a8f6090f9eb2190]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/6) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-519d3bda9347e781fd103596a49c1772]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/7) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [regs. 8](https://www.legislation.gov.uk/ssi/2025/27/regulation/8), [9](https://www.legislation.gov.uk/ssi/2025/27/regulation/9))
+[^c-519d3bda9347e781fd103596a49c1772]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/7) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [regs. 8](https://www.legislation.gov.uk/ssi/2025/27/regulation/8), [9](https://www.legislation.gov.uk/ssi/2025/27/regulation/9))
 
-[^key-bf0864d9949b8b5ffedf8b91e46fd0cd]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/8) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-bf0864d9949b8b5ffedf8b91e46fd0cd]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/8) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-ddbacd91b7a8084a440deacbc4ca6cbe]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/9) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-ddbacd91b7a8084a440deacbc4ca6cbe]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/9) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-358c5001a648ef1e9bd1d6b84b46ee4f]: Commencement: Sch. 5 para. 10(1)-(19)(21)-(32)(34)-(40)(44)-(51)(53)(54) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [reg. 15](https://www.legislation.gov.uk/ssi/2025/27/regulation/15)) (as amended by [S.S.I. 2025/73](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/2) and [S.S.I. 2025/84](https://www.legislation.gov.uk/ssi/2025/84), [regs. 1](https://www.legislation.gov.uk/ssi/2025/84/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/84/regulation/2/2))
+[^c-358c5001a648ef1e9bd1d6b84b46ee4f]: Commencement: Sch. 5 para. 10(1)-(19)(21)-(32)(34)-(40)(44)-(51)(53)(54) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [reg. 15](https://www.legislation.gov.uk/ssi/2025/27/regulation/15)) (as amended by [S.S.I. 2025/73](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/2) and [S.S.I. 2025/84](https://www.legislation.gov.uk/ssi/2025/84), [regs. 1](https://www.legislation.gov.uk/ssi/2025/84/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/84/regulation/2/2))
 
-[^key-64fa5766c36cd6dbc86280ed5ea9aa8c]: Commencement: Sch. 5 para. 10(2)(b)-(e) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (as amended by [S.S.I. 2025/73](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/3/d))
+[^c-64fa5766c36cd6dbc86280ed5ea9aa8c]: Commencement: Sch. 5 para. 10(2)(b)-(e) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (as amended by [S.S.I. 2025/73](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/3/d))
 
-[^key-29d7470ed87014046e67f7af97d1e3c5]: Commencement: Sch. 5 para. 10(20)(a)(33)(a)(42)(a)(i)(52) in force at 1.4.2026 by [S.S.I. 2025/352](https://www.legislation.gov.uk/ssi/2025/352), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2025/352/schedule/1)
+[^c-29d7470ed87014046e67f7af97d1e3c5]: Commencement: Sch. 5 para. 10(20)(a)(33)(a)(42)(a)(i)(52) in force at 1.4.2026 by [S.S.I. 2025/352](https://www.legislation.gov.uk/ssi/2025/352), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2025/352/schedule/1)
 
-[^key-7f66d7464aee6ee129c0b5ae79a25125]: Commencement: Sch. 5 para. 10(33)(b) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (as amended by [S.S.I. 2025/73](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/3/d))
+[^c-7f66d7464aee6ee129c0b5ae79a25125]: Commencement: Sch. 5 para. 10(33)(b) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (as amended by [S.S.I. 2025/73](https://www.legislation.gov.uk/ssi/2025/73), [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/3/d))
 
-[^key-6c8789e864c01d61cbae4262d510e5fe]: Commencement: Sch. 5 para. 10(41)(43) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-6c8789e864c01d61cbae4262d510e5fe]: Commencement: Sch. 5 para. 10(41)(43) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
 [^M_I_4af82b2e-36f3-4ad3-cce1-38e448eb928e]: Commencement: Sch. 5 para. 10(41)(a)(i)(c)(i) in force at 1.4.2026 in so far as not already in force by [S.S.I. 2025/352](https://www.legislation.gov.uk/ssi/2025/352), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2025/352/schedule/1)
 
-[^key-525f4e923b24978edc6ced0ccbd6e912]: Commencement: Sch. 5 para. 10(41)(a)(ii)(b)(c)(ii)(iii) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-525f4e923b24978edc6ced0ccbd6e912]: Commencement: Sch. 5 para. 10(41)(a)(ii)(b)(c)(ii)(iii) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-3ae90292f3d7d4f1fbc36e676a47312d]: Commencement: Sch. 5 para. 10(42)(a)(ii)(b) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-3ae90292f3d7d4f1fbc36e676a47312d]: Commencement: Sch. 5 para. 10(42)(a)(ii)(b) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-b9ce8914aae435fac5bd3796ab56891d]: Commencement: Sch. 5 para. 10(43)(a) in force at 1.4.2026 in so far as not already in force by [S.S.I. 2025/352](https://www.legislation.gov.uk/ssi/2025/352), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2025/352/schedule/1)
+[^c-b9ce8914aae435fac5bd3796ab56891d]: Commencement: Sch. 5 para. 10(43)(a) in force at 1.4.2026 in so far as not already in force by [S.S.I. 2025/352](https://www.legislation.gov.uk/ssi/2025/352), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2025/352/schedule/1)
 
-[^key-c7289ab51ca95ced2429f4924ac3cb78]: Commencement: Sch. 5 para. 10(43)(b)(c) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-c7289ab51ca95ced2429f4924ac3cb78]: Commencement: Sch. 5 para. 10(43)(b)(c) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-f1789a7c54a2e01e6f471ea02c774d17]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/11) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-f1789a7c54a2e01e6f471ea02c774d17]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/11) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-94839722a88251cffcc00344b0efb425]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/12) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule)
+[^c-94839722a88251cffcc00344b0efb425]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/12) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule)
 
-[^key-7178e0f549263da7d22b57cae7340d62]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/13) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-7178e0f549263da7d22b57cae7340d62]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/13) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

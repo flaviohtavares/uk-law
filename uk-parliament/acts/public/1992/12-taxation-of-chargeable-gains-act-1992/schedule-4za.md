@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4ZA — Sub-fund settlements[^key-54f73961895d353bf6526c3d3794b41f]
+## SCHEDULE 4ZA — Sub-fund settlements[^c-54f73961895d353bf6526c3d3794b41f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 **7.** For the purpose of Condition 3—
 
-- (a) section 104(1)[^key-ab035ae92960ef5623933e1c32497d65] shall not have effect, and
+- (a) section 104(1)[^c-ab035ae92960ef5623933e1c32497d65] shall not have effect, and
 - (b) “**interest**”, in relation to any asset, means an interest as a co-owner of the asset (whether the asset is owned jointly or in common and whether or not the interests of the co-owners are equal).
 
 **8.** Condition 4 is that, if the sub-fund election had taken effect, no person would be a beneficiary under both the sub-fund settlement and the principal settlement.
@@ -99,11 +99,11 @@ summary: ''
 
 ### Power to make enquiries
 
-**14.**[^key-597d0b3c8e04ddb54a10207b211b8463] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-597d0b3c8e04ddb54a10207b211b8463] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-597d0b3c8e04ddb54a10207b211b8463] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-597d0b3c8e04ddb54a10207b211b8463] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-597d0b3c8e04ddb54a10207b211b8463] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-597d0b3c8e04ddb54a10207b211b8463] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Consequences of a sub-fund election
 
@@ -137,8 +137,8 @@ summary: ''
 
 ## Annotations
 
-[^key-54f73961895d353bf6526c3d3794b41f]: Textual amendment: Sch. 4ZA inserted (with effect in accordance with Sch. 12 para. 6(3) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 6(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/6/2)
+[^c-54f73961895d353bf6526c3d3794b41f]: Textual amendment: Sch. 4ZA inserted (with effect in accordance with Sch. 12 para. 6(3) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 6(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/6/2)
 
-[^key-ab035ae92960ef5623933e1c32497d65]: Textual amendment: Words in Sch. 4ZA para. 7 substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 67](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/67)
+[^c-ab035ae92960ef5623933e1c32497d65]: Textual amendment: Words in Sch. 4ZA para. 7 substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 67](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/67)
 
-[^key-597d0b3c8e04ddb54a10207b211b8463]: Textual amendment: Sch. 4ZA paras. 14-16 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 34](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/34)
+[^c-597d0b3c8e04ddb54a10207b211b8463]: Textual amendment: Sch. 4ZA paras. 14-16 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 34](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/34)

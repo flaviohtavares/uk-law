@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Deemed marine licences under the 2009 Act[^key-ccae28fe25e956cc725033ee3d351e9f]
+## 39. Deemed marine licences under the 2009 Act[^c-ccae28fe25e956cc725033ee3d351e9f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The marine licences set out in Schedules 11 (deemed marine licence under the 200
 
 ## Annotations
 
-[^key-ccae28fe25e956cc725033ee3d351e9f]: Commencement: Art. 39 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-ccae28fe25e956cc725033ee3d351e9f]: Commencement: Art. 39 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

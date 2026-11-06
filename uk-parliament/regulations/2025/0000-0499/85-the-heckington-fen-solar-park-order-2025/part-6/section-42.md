@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Guarantees in respect of payment of compensation[^key-e4dbece762c477fe615232703870e4d1]
+## 42. Guarantees in respect of payment of compensation[^c-e4dbece762c477fe615232703870e4d1]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4dbece762c477fe615232703870e4d1]: Commencement: Art. 42 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-e4dbece762c477fe615232703870e4d1]: Commencement: Art. 42 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)

@@ -35,20 +35,20 @@ concerning the renewal of the authorisation of lanthanum carbonate octahydrate a
 
 (Text with EEA relevance) (revoked)
 
-[^key-a1f118101fba541f4be0e2d9dfeb06bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1f118101fba541f4be0e2d9dfeb06bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a1f118101fba541f4be0e2d9dfeb06bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a1f118101fba541f4be0e2d9dfeb06bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a1f118101fba541f4be0e2d9dfeb06bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a1f118101fba541f4be0e2d9dfeb06bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a1f118101fba541f4be0e2d9dfeb06bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a1f118101fba541f4be0e2d9dfeb06bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1f118101fba541f4be0e2d9dfeb06bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1f118101fba541f4be0e2d9dfeb06bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-a1f118101fba541f4be0e2d9dfeb06bb]
+## ANNEX[^c-a1f118101fba541f4be0e2d9dfeb06bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a1f118101fba541f4be0e2d9dfeb06bb]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 323](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/323) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-a1f118101fba541f4be0e2d9dfeb06bb]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 323](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/323) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

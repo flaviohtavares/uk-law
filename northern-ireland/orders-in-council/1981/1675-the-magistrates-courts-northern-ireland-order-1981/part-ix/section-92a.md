@@ -28,7 +28,7 @@ summary: ''
 
 the clerk of petty sessions may make an application in relation to the company under Article 104 of, or paragraph 13 of Schedule B1 to, the Insolvency (Northern Ireland) Order 1989 (winding up or administration)[^c20292421].
 
-(1A)[^key-7d8073a34f14e4c31dc61be4447c1e68] In a case where there is a collection order, the power to make the application referred to in paragraph (1) is instead exercisable by the collection officer responsible for securing compliance with the order.
+(1A)[^c-7d8073a34f14e4c31dc61be4447c1e68] In a case where there is a collection order, the power to make the application referred to in paragraph (1) is instead exercisable by the collection officer responsible for securing compliance with the order.
 
 ## Annotations
 
@@ -38,4 +38,4 @@ the clerk of petty sessions may make an application in relation to the company u
 
 [^c20292421]: Textual amendment: Words in art. 92A(1) substituted (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [3(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/3/3), [Sch. 2 para. 11](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2/paragraph/11); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (with [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2](https://www.legislation.gov.uk/nisr/2006/22/article/2)-7)
 
-[^key-7d8073a34f14e4c31dc61be4447c1e68]: Textual amendment: [Art. 92A(1A)](https://www.legislation.gov.uk/nisi/1981/1675/article/92A/1A) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/3/4); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
+[^c-7d8073a34f14e4c31dc61be4447c1e68]: Textual amendment: [Art. 92A(1A)](https://www.legislation.gov.uk/nisi/1981/1675/article/92A/1A) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/3/4); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)

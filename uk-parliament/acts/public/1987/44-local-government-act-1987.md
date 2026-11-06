@@ -31,32 +31,32 @@ Local Government Act 1987 (repealed)
 
 1987 c. 44
 
-[^key-2410a8cf80d33fa53893b7fb69c5dd00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2410a8cf80d33fa53893b7fb69c5dd00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-2410a8cf80d33fa53893b7fb69c5dd00][^key-2410a8cf80d33fa53893b7fb69c5dd00]
+## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-2410a8cf80d33fa53893b7fb69c5dd00][^c-2410a8cf80d33fa53893b7fb69c5dd00]
 
-## Block grant: education[^key-2410a8cf80d33fa53893b7fb69c5dd00]
+## Block grant: education[^c-2410a8cf80d33fa53893b7fb69c5dd00]
 
-### 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-2410a8cf80d33fa53893b7fb69c5dd00][^key-2410a8cf80d33fa53893b7fb69c5dd00]
+### 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-2410a8cf80d33fa53893b7fb69c5dd00][^c-2410a8cf80d33fa53893b7fb69c5dd00]
 
-### 3. Adjustments for advanced further education.[^key-2410a8cf80d33fa53893b7fb69c5dd00][^key-2410a8cf80d33fa53893b7fb69c5dd00]
+### 3. Adjustments for advanced further education.[^c-2410a8cf80d33fa53893b7fb69c5dd00][^c-2410a8cf80d33fa53893b7fb69c5dd00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## General[^key-2410a8cf80d33fa53893b7fb69c5dd00]
+## General[^c-2410a8cf80d33fa53893b7fb69c5dd00]
 
-### 4. Citation and extent.[^key-2410a8cf80d33fa53893b7fb69c5dd00][^key-2410a8cf80d33fa53893b7fb69c5dd00]
+### 4. Citation and extent.[^c-2410a8cf80d33fa53893b7fb69c5dd00][^c-2410a8cf80d33fa53893b7fb69c5dd00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-2410a8cf80d33fa53893b7fb69c5dd00]
+## SCHEDULE[^c-2410a8cf80d33fa53893b7fb69c5dd00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2410a8cf80d33fa53893b7fb69c5dd00]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1987/44) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-2410a8cf80d33fa53893b7fb69c5dd00]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1987/44) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2

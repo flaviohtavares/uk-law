@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10 — Form of phytosanitary certificate and form of phytosanitary certificate for re-export[^key-beb16187072957edd1166bcde92be6a9]
+## SCHEDULE 10 — Form of phytosanitary certificate and form of phytosanitary certificate for re-export[^c-beb16187072957edd1166bcde92be6a9]
 
 *Extent: E+W*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Article 2(1)
 
-### PART A — Form of phytosanitary certificate[^key-beb16187072957edd1166bcde92be6a9]
+### PART A — Form of phytosanitary certificate[^c-beb16187072957edd1166bcde92be6a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Form of phytosanitary certificate for re-export[^key-beb16187072957edd1166bcde92be6a9]
+### PART B — Form of phytosanitary certificate for re-export[^c-beb16187072957edd1166bcde92be6a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-beb16187072957edd1166bcde92be6a9]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/wsi/2020/206/regulation/51))
+[^c-beb16187072957edd1166bcde92be6a9]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/wsi/2020/206/regulation/51))

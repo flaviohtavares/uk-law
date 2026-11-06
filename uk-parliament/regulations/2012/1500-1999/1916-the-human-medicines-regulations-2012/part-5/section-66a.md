@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66A. Application for renewal of a parallel import licence[^key-d337518fe4c03695666fb574d0558ee2]
+## 66A. Application for renewal of a parallel import licence[^c-d337518fe4c03695666fb574d0558ee2]
 
 *Extent: E+W+S+N.I.*
 
 (1) The licensing authority may renew a parallel import licence in response to an application made in accordance with this regulation.
 
-(2) The applicant must be established in the United Kingdom[^key-0b8f04c7d8c93e7cb092444732386d31].
+(2) The applicant must be established in the United Kingdom[^c-0b8f04c7d8c93e7cb092444732386d31].
 
 (3) The application must be—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d337518fe4c03695666fb574d0558ee2]: Textual amendment: Reg. 66A inserted (E.W.S.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1878)](https://www.legislation.gov.uk/uksi/2014/1878), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1878/regulation/1), [10](https://www.legislation.gov.uk/uksi/2014/1878/regulation/10) and reg. 66A inserted (N.I.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.R. 2014/324)](https://www.legislation.gov.uk/nisr/2014/324), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/324/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2014/324/regulation/10)
+[^c-d337518fe4c03695666fb574d0558ee2]: Textual amendment: Reg. 66A inserted (E.W.S.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1878)](https://www.legislation.gov.uk/uksi/2014/1878), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1878/regulation/1), [10](https://www.legislation.gov.uk/uksi/2014/1878/regulation/10) and reg. 66A inserted (N.I.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.R. 2014/324)](https://www.legislation.gov.uk/nisr/2014/324), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/324/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2014/324/regulation/10)
 
-[^key-0b8f04c7d8c93e7cb092444732386d31]: Textual amendment: Words in [reg. 66A(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/66A/2) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [75](https://www.legislation.gov.uk/uksi/2019/775/regulation/75); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b8f04c7d8c93e7cb092444732386d31]: Textual amendment: Words in [reg. 66A(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/66A/2) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [75](https://www.legislation.gov.uk/uksi/2019/775/regulation/75); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

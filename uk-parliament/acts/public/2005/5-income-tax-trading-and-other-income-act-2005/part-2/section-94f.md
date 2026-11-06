@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94F. The appropriate mileage amount[^key-69d7e1ea0086cad3ff3671c5bb07a6a8]
+## 94F. The appropriate mileage amount[^c-69d7e1ea0086cad3ff3671c5bb07a6a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,9 +43,9 @@ Table
 </tbody>
 </table>
 
-[^key-84c8c7428def84852eb9f6de54b8a8ea]
+[^c-84c8c7428def84852eb9f6de54b8a8ea]
 
-(3) In a case where the total number of miles of relevant business journeys made in the period is greater than 10,000, the rate of 55p[^key-ab56b794b5609302199e9efd75f0031d] per mile is available only in relation to 10,000 of those miles.
+(3) In a case where the total number of miles of relevant business journeys made in the period is greater than 10,000, the rate of 55p[^c-ab56b794b5609302199e9efd75f0031d] per mile is available only in relation to 10,000 of those miles.
 
 (4) “**Relevant business journey**” means any business journey made in the period by a car or goods vehicle—
 
@@ -63,8 +63,8 @@ Regulations under this subsection may also make consequential amendments to subs
 
 ## Annotations
 
-[^key-69d7e1ea0086cad3ff3671c5bb07a6a8]: Textual amendment: Pt. 2 Ch. 5A inserted (with effect in accordance with Sch. 5 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/5/paragraph/2)
+[^c-69d7e1ea0086cad3ff3671c5bb07a6a8]: Textual amendment: Pt. 2 Ch. 5A inserted (with effect in accordance with Sch. 5 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/5/paragraph/2)
 
-[^key-84c8c7428def84852eb9f6de54b8a8ea]: Textual amendment: Sum in s. 94F(2) substituted (for the tax year 2026-27 and subsequent tax years) by [Taxation (Energy and Vehicles) Act 2026 (c. 26)](https://www.legislation.gov.uk/ukpga/2026/26), [s. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2026/26/section/2/1/b)[(3)](https://www.legislation.gov.uk/ukpga/2026/26/section/2/3)
+[^c-84c8c7428def84852eb9f6de54b8a8ea]: Textual amendment: Sum in s. 94F(2) substituted (for the tax year 2026-27 and subsequent tax years) by [Taxation (Energy and Vehicles) Act 2026 (c. 26)](https://www.legislation.gov.uk/ukpga/2026/26), [s. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2026/26/section/2/1/b)[(3)](https://www.legislation.gov.uk/ukpga/2026/26/section/2/3)
 
-[^key-ab56b794b5609302199e9efd75f0031d]: Textual amendment: Sum in s. 94F(3) substituted (for the tax year 2026-27 and subsequent tax years) by [Taxation (Energy and Vehicles) Act 2026 (c. 26)](https://www.legislation.gov.uk/ukpga/2026/26), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2026/26/section/2/2)[(3)](https://www.legislation.gov.uk/ukpga/2026/26/section/2/3)
+[^c-ab56b794b5609302199e9efd75f0031d]: Textual amendment: Sum in s. 94F(3) substituted (for the tax year 2026-27 and subsequent tax years) by [Taxation (Energy and Vehicles) Act 2026 (c. 26)](https://www.legislation.gov.uk/ukpga/2026/26), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2026/26/section/2/2)[(3)](https://www.legislation.gov.uk/ukpga/2026/26/section/2/3)

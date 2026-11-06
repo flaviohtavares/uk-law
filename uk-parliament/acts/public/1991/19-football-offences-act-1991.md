@@ -46,7 +46,7 @@ Any such order shall be made by statutory instrument which shall be subject to a
 - (a) within the period beginning two hours before the start of the match or (if earlier) two hours before the time at which it is advertised to start and ending one hour after the end of the match; or
 - (b) where the match is advertised to start at a particular time on a particular day but does not take place on that day, within the period beginning two hours before and ending one hour after the advertised starting time.
 
-## 1A. Unauthorised entry[^key-515e0a426f2ef05ccef7ec5ea6c9c3db]
+## 1A. Unauthorised entry[^c-515e0a426f2ef05ccef7ec5ea6c9c3db]
 
 (1) A person (“**P**”) commits an offence if—
 
@@ -92,7 +92,7 @@ It is an offence for a person at a designated football match to go onto the play
 
 ## 5. Supplementary provisions.[^c931246]
 
-(1)[^key-08ca798cb56e438616bedd6aa6cbd651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-08ca798cb56e438616bedd6aa6cbd651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A person guilty of an offence under this Act is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
@@ -110,7 +110,7 @@ It is an offence for a person at a designated football match to go onto the play
 
 [^c931237]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/1991/19/section/1) wholly in force at 10.8.1991 see [s. 6(2)](https://www.legislation.gov.uk/ukpga/1991/19/section/6/2) and [S.I. 1991/1564](https://www.legislation.gov.uk/uksi/1991/1564) art. 2.
 
-[^key-515e0a426f2ef05ccef7ec5ea6c9c3db]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/1991/19/section/1A) inserted (22.3.2026) by [Unauthorised Entry to Football Matches Act 2026 (c. 1)](https://www.legislation.gov.uk/ukpga/2026/1), [ss. 1](https://www.legislation.gov.uk/ukpga/2026/1/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2026/1/section/2/2); [S.I. 2026/288](https://www.legislation.gov.uk/uksi/2026/288), [reg. 2](https://www.legislation.gov.uk/uksi/2026/288/regulation/2)
+[^c-515e0a426f2ef05ccef7ec5ea6c9c3db]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/1991/19/section/1A) inserted (22.3.2026) by [Unauthorised Entry to Football Matches Act 2026 (c. 1)](https://www.legislation.gov.uk/ukpga/2026/1), [ss. 1](https://www.legislation.gov.uk/ukpga/2026/1/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2026/1/section/2/2); [S.I. 2026/288](https://www.legislation.gov.uk/uksi/2026/288), [reg. 2](https://www.legislation.gov.uk/uksi/2026/288/regulation/2)
 
 [^c931238]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/1991/19/section/2) wholly in force at 10.8.1991 see [s. 6(2)](https://www.legislation.gov.uk/ukpga/1991/19/section/6/2) and [S.I. 1991/1564](https://www.legislation.gov.uk/uksi/1991/1564) art. 2.
 
@@ -122,7 +122,7 @@ It is an offence for a person at a designated football match to go onto the play
 
 [^c931246]: Commencement: S. 5 wholly in force at 10.8.1991 see s. 6(2) and [S.I. 1991/1564](https://www.legislation.gov.uk/uksi/1991/1564) art. 2.
 
-[^key-08ca798cb56e438616bedd6aa6cbd651]: Textual amendment: [S. 5(1)](https://www.legislation.gov.uk/ukpga/1991/19/section/5/1) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-08ca798cb56e438616bedd6aa6cbd651]: Textual amendment: [S. 5(1)](https://www.legislation.gov.uk/ukpga/1991/19/section/5/1) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
 
 [^c931248]: Textual amendment: S. 5(3) repealed (28.8.2000) by [2000 c. 25](https://www.legislation.gov.uk/ukpga/2000/25), [s. 1](https://www.legislation.gov.uk/ukpga/2000/25/section/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2000/25/schedule/3); [S.I. 2000/2125](https://www.legislation.gov.uk/uksi/2000/2125), [art. 2](https://www.legislation.gov.uk/uksi/2000/2125/article/2)
 

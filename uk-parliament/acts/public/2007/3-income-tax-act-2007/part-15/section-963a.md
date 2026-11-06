@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 963A. Power to make regulations modifying section 963[^key-9866edff37c02f0da475c9dfec50e7c9]
+## 963A. Power to make regulations modifying section 963[^c-9866edff37c02f0da475c9dfec50e7c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9866edff37c02f0da475c9dfec50e7c9]: Textual amendment: S. 963A inserted (16.12.2010) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 8](https://www.legislation.gov.uk/ukpga/2010/33/section/8)
+[^c-9866edff37c02f0da475c9dfec50e7c9]: Textual amendment: S. 963A inserted (16.12.2010) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 8](https://www.legislation.gov.uk/ukpga/2010/33/section/8)

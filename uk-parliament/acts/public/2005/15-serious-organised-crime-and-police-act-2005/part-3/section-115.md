@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Power to stop and search for prohibited fireworks[^key-2401d0310340c00cff1ff01bfbf13fac]
+## 115. Power to stop and search for prohibited fireworks[^c-2401d0310340c00cff1ff01bfbf13fac]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2401d0310340c00cff1ff01bfbf13fac]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2005/15/section/115) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(f)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/f)
+[^c-2401d0310340c00cff1ff01bfbf13fac]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2005/15/section/115) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(f)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/f)

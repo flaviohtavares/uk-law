@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Provision of administrative support to Redress Scotland[^key-d162c967f9886652c7dc18d42d0a737e]
+## 10. Provision of administrative support to Redress Scotland[^c-d162c967f9886652c7dc18d42d0a737e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers must provide such administrative support to Redress Scotl
 
 ## Annotations
 
-[^key-d162c967f9886652c7dc18d42d0a737e]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2021/15/section/10) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-d162c967f9886652c7dc18d42d0a737e]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2021/15/section/10) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

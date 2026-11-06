@@ -34,10 +34,10 @@ summary: ''
 
 (3) If the Commission thinks it appropriate as a result of a review, the Commission shall revise the plan.
 
-(4) The Commission shall send the plan and each revision to the Secretary of State[^key-4da90a8e63ccf67c0c318775afd3f1e1], who shall lay a copy before Parliament.
+(4) The Commission shall send the plan and each revision to the Secretary of State[^c-4da90a8e63ccf67c0c318775afd3f1e1], who shall lay a copy before Parliament.
 
 (5) The Commission shall publish the plan and each revision.
 
 ## Annotations
 
-[^key-4da90a8e63ccf67c0c318775afd3f1e1]: Textual amendment: Words in s. 4(4) substituted (18.8.2010) by [Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839)](https://www.legislation.gov.uk/uksi/2010/1839), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1839/article/1/2), [Sch. para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2010/1839/schedule/paragraph/7/2/a)
+[^c-4da90a8e63ccf67c0c318775afd3f1e1]: Textual amendment: Words in s. 4(4) substituted (18.8.2010) by [Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839)](https://www.legislation.gov.uk/uksi/2010/1839), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1839/article/1/2), [Sch. para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2010/1839/schedule/paragraph/7/2/a)

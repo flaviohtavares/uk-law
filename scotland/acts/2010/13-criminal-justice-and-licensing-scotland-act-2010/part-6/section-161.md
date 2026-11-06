@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 161. Redaction of non-disclosable information by prosecutor[^key-96d7f431995738b1c42b4929d789907d]
+## 161. Redaction of non-disclosable information by prosecutor[^c-96d7f431995738b1c42b4929d789907d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96d7f431995738b1c42b4929d789907d]: Commencement: S. 161 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-96d7f431995738b1c42b4929d789907d]: Commencement: S. 161 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

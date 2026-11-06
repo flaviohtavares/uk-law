@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Property[^key-1ed4ad71b66cfe956de1c95d2e8a6733]
+## 48. Property[^c-1ed4ad71b66cfe956de1c95d2e8a6733]
 
 *Extent: E+W+S*
 
@@ -62,7 +62,7 @@ and the order may in particular provide that transactions may not be entered int
 
 the court is satisfied that the offender failed without reasonable excuse to comply with the order, it may deal with him as if he had been guilty of contempt of the court.
 
-(10) A person who contravenes an order under subsection (2) or (3) commits an offence, but a prosecution may be instituted—[^key-b561c3fd0adea150147cbeb39b650404]
+(10) A person who contravenes an order under subsection (2) or (3) commits an offence, but a prosecution may be instituted—[^c-b561c3fd0adea150147cbeb39b650404]
 
 - (a) in England and Wales, only with the consent of the Regulator or the Director of Public Prosecutions;
 - (b) in Northern Ireland, only with the consent of the Regulator or the Director of Public Prosecutions for Northern Ireland.
@@ -77,6 +77,6 @@ the court is satisfied that the offender failed without reasonable excuse to com
 
 ## Annotations
 
-[^key-1ed4ad71b66cfe956de1c95d2e8a6733]: Commencement: S. 48 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-1ed4ad71b66cfe956de1c95d2e8a6733]: Commencement: S. 48 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
 
-[^key-b561c3fd0adea150147cbeb39b650404]: Textual amendment: Words in s. 48(10) substituted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/16) (with [art. 11(1)](https://www.legislation.gov.uk/uksi/2007/1093/article/11/1))
+[^c-b561c3fd0adea150147cbeb39b650404]: Textual amendment: Words in s. 48(10) substituted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/16) (with [art. 11(1)](https://www.legislation.gov.uk/uksi/2007/1093/article/11/1))

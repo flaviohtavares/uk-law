@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Asylum etc[^key-27ae8fcb64438366bfbe6e36f3a5d3cf]
+## 162. Asylum etc[^c-27ae8fcb64438366bfbe6e36f3a5d3cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27ae8fcb64438366bfbe6e36f3a5d3cf]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2014/12/section/162) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(h)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/h)
+[^c-27ae8fcb64438366bfbe6e36f3a5d3cf]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2014/12/section/162) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(h)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/h)

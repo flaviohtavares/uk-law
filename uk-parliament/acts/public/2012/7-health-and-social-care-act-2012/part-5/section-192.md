@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Joint strategic needs assessments[^key-55b91453bfeb76a29b9f6583ad9fafca]
+## 192. Joint strategic needs assessments[^c-55b91453bfeb76a29b9f6583ad9fafca]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55b91453bfeb76a29b9f6583ad9fafca]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2012/7/section/192) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-55b91453bfeb76a29b9f6583ad9fafca]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2012/7/section/192) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

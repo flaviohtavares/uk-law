@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 113a. Provision of particulars of the entry summary declaration by other persons (Article 127 (6) of the Code)[^key-66c870ef6fbe886e305e8b585898ef61]
+## Article 113a. Provision of particulars of the entry summary declaration by other persons (Article 127 (6) of the Code)[^c-66c870ef6fbe886e305e8b585898ef61]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66c870ef6fbe886e305e8b585898ef61]: Textual amendment: [Art. 113](https://www.legislation.gov.uk/eur/2015/2446/article/113)a revoked (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/3/2) (as substituted by [S.I. 2020/1379](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [4(1)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/4/1)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-66c870ef6fbe886e305e8b585898ef61]: Textual amendment: [Art. 113](https://www.legislation.gov.uk/eur/2015/2446/article/113)a revoked (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/3/2) (as substituted by [S.I. 2020/1379](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [4(1)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/4/1)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

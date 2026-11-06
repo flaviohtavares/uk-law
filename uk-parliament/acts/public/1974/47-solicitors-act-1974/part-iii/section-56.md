@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Orders as to remuneration for non–contentious business.[^c13351031][^c13351041][^key-b4a429be1a147bce7f00b41bc6832f99]
+## 56. Orders as to remuneration for non–contentious business.[^c13351031][^c13351041][^c-b4a429be1a147bce7f00b41bc6832f99]
 
 *Extent: E+W*
 
@@ -68,7 +68,7 @@ summary: ''
 
 [^c13351041]: Subordinate legislation: [S. 56](https://www.legislation.gov.uk/ukpga/1974/47/section/56): power previously exercised by [S.I. 1983/370](https://www.legislation.gov.uk/uksi/1983/370)
 
-[^key-b4a429be1a147bce7f00b41bc6832f99]: Modification: [S. 56](https://www.legislation.gov.uk/ukpga/1974/47/section/56) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 1 paras. 1-3](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/1), [4](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/4)
+[^c-b4a429be1a147bce7f00b41bc6832f99]: Modification: [S. 56](https://www.legislation.gov.uk/ukpga/1974/47/section/56) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 1 paras. 1-3](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/1), [4](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/4)
 
 [^c20573801]: Modification: [S. 56(1)(a)-(e)](https://www.legislation.gov.uk/ukpga/1974/47/section/56/1/a) modified (1.7.2009) by [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), [Sch. 4 para. 7(2A)](https://www.legislation.gov.uk/uksi/2000/1119/schedule/4/paragraph/7/2A) (as inserted by [The Legal Services Act 2007 (Registered European Lawyers) Order 2009 (S.I. 2009/1587)](https://www.legislation.gov.uk/uksi/2009/1587), [art. 3(7)(d)](https://www.legislation.gov.uk/uksi/2009/1587/article/3/7/d))
 

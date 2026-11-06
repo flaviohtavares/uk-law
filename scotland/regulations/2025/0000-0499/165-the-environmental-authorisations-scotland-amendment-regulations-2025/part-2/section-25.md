@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Amendment of regulation 54 (notices – general provisions)[^key-bbfd556ed76b8b83e87bd350a545043e]
+## 25. Amendment of regulation 54 (notices – general provisions)[^c-bbfd556ed76b8b83e87bd350a545043e]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ In regulation 54 (notices – general provisions)—
 
 ## Annotations
 
-[^key-bbfd556ed76b8b83e87bd350a545043e]: Commencement: Reg. 25 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-bbfd556ed76b8b83e87bd350a545043e]: Commencement: Reg. 25 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

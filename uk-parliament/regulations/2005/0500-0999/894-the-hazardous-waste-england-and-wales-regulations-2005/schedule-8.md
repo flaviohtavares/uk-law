@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8 — Form of consignee’s return to producer or holder[^key-bcd19fafb4f4d7145075cc38e5745e19]
+## SCHEDULE 8 — Form of consignee’s return to producer or holder[^c-bcd19fafb4f4d7145075cc38e5745e19]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Regulation 54
 
 ## Annotations
 
-[^key-bcd19fafb4f4d7145075cc38e5745e19]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/uksi/2005/894/schedule/8) substituted (12.8.2019) by [The Persistent Organic Pollutants (Various Amendments) Regulations 2019 (S.I. 2019/1099)](https://www.legislation.gov.uk/uksi/2019/1099), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/1099/schedule)
+[^c-bcd19fafb4f4d7145075cc38e5745e19]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/uksi/2005/894/schedule/8) substituted (12.8.2019) by [The Persistent Organic Pollutants (Various Amendments) Regulations 2019 (S.I. 2019/1099)](https://www.legislation.gov.uk/uksi/2019/1099), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/1099/schedule)

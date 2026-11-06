@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 86A. Processing and national security and defence[^key-b191a35125a5da3c5194a3fe7da5029d]
+## Article 86A. Processing and national security and defence[^c-b191a35125a5da3c5194a3fe7da5029d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Chapter 3 of Part 2 of the 2018 Act makes provision about the application of thi
 
 ## Annotations
 
-[^key-b191a35125a5da3c5194a3fe7da5029d]: Textual amendment: Art. 86A inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 66](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/66) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b191a35125a5da3c5194a3fe7da5029d]: Textual amendment: Art. 86A inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 66](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/66) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

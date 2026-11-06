@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Private rights[^key-50ebf67cd7c16d8e54c330722c757f10]
+## 23. Private rights[^c-50ebf67cd7c16d8e54c330722c757f10]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ whichever is the earlier.
 
 ## Annotations
 
-[^key-50ebf67cd7c16d8e54c330722c757f10]: Commencement: Art. 23 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-50ebf67cd7c16d8e54c330722c757f10]: Commencement: Art. 23 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
 [^f00036]: Footnote: Section 11(1) was amended by section 186 of the Housing and Planning Act 2016, paragraph 14 of Schedule 4 to the Acquisition of Land Act 1981 and [S.I. 2006/2](https://www.legislation.gov.uk/uksi/2006/2).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. Power of Scottish Ministers to make consequential provision[^key-57c324e52589ca8409339ec3f43918fc]
+## 142. Power of Scottish Ministers to make consequential provision[^c-57c324e52589ca8409339ec3f43918fc]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57c324e52589ca8409339ec3f43918fc]: Commencement: S. 142 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-57c324e52589ca8409339ec3f43918fc]: Commencement: S. 142 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)

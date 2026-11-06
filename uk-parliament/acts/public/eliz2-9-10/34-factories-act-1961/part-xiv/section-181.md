@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Substitution of corresponding provisions for certain provisions of Factory and Workshop Act 1901.[^key-921d94809b22f4480695a118c98d6fcd]
+## 181. Substitution of corresponding provisions for certain provisions of Factory and Workshop Act 1901.[^c-921d94809b22f4480695a118c98d6fcd]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-921d94809b22f4480695a118c98d6fcd]: Textual amendment: S. 181 repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-921d94809b22f4480695a118c98d6fcd]: Textual amendment: S. 181 repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1

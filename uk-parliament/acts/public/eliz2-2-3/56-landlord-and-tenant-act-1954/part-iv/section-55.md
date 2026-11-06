@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Compensation for possession obtained by misrepresentation.[^key-14abf32a1abe0e25832c9b0d2a71af1d]
+## 55. Compensation for possession obtained by misrepresentation.[^c-14abf32a1abe0e25832c9b0d2a71af1d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14abf32a1abe0e25832c9b0d2a71af1d]: Textual amendment: S. 55 repealed (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3096/schedule/6)
+[^c-14abf32a1abe0e25832c9b0d2a71af1d]: Textual amendment: S. 55 repealed (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3096/schedule/6)

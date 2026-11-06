@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-The Welsh Ministers may certify the quality of any seed intended for export [^key-2b28dcb6f237c66cd0c689b02e69fcc6]....
+The Welsh Ministers may certify the quality of any seed intended for export [^c-2b28dcb6f237c66cd0c689b02e69fcc6]....
 
 ## Annotations
 
-[^key-2b28dcb6f237c66cd0c689b02e69fcc6]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/wsi/2012/245/regulation/26) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/368)](https://www.legislation.gov.uk/wsi/2019/368), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2019/368/regulation/1/2/b), [4(8)](https://www.legislation.gov.uk/wsi/2019/368/regulation/4/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b28dcb6f237c66cd0c689b02e69fcc6]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/wsi/2012/245/regulation/26) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/368)](https://www.legislation.gov.uk/wsi/2019/368), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2019/368/regulation/1/2/b), [4(8)](https://www.legislation.gov.uk/wsi/2019/368/regulation/4/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

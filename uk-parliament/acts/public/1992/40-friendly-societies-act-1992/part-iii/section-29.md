@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Notification of officers to FCA.[^c15378071][^key-2d1915b83c4bb91116841b222b283b5e]
+## 29. Notification of officers to FCA.[^c15378071][^c-2d1915b83c4bb91116841b222b283b5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c15378071]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/1992/40/section/29) wholly in force; [s. 29](https://www.legislation.gov.uk/ukpga/1992/40/section/29) not in force at Royal Assent see [s. 126(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/126/2); [s. 29](https://www.legislation.gov.uk/ukpga/1992/40/section/29) in force for certain purposes at 13.1.1993 by [S.I. 1993/16](https://www.legislation.gov.uk/uksi/1993/16), [art. 2](https://www.legislation.gov.uk/uksi/1993/16/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/16/schedule/1); [s. 29](https://www.legislation.gov.uk/ukpga/1992/40/section/29) in force to the extent not already in force at 1.1.1994 by [S.I. 1993/2213](https://www.legislation.gov.uk/uksi/1993/2213), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/2213/article/2/1), [Sch. 5](https://www.legislation.gov.uk/uksi/1993/2213/schedule/5)
 
-[^key-2d1915b83c4bb91116841b222b283b5e]: Textual amendment: Word in [s. 29](https://www.legislation.gov.uk/ukpga/1992/40/section/29) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 14](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/14) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-2d1915b83c4bb91116841b222b283b5e]: Textual amendment: Word in [s. 29](https://www.legislation.gov.uk/ukpga/1992/40/section/29) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 14](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/14) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

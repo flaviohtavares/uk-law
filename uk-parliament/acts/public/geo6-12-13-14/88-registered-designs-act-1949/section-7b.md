@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7B. Right of prior use[^key-e57a7b318fa266333906b5cddd4e4d25]
+## 7B. Right of prior use[^c-e57a7b318fa266333906b5cddd4e4d25]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e57a7b318fa266333906b5cddd4e4d25]: Textual amendment: S. 7B inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/7/1), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1) (with [s. 7(2)](https://www.legislation.gov.uk/ukpga/2014/18/section/7/2)); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-e57a7b318fa266333906b5cddd4e4d25]: Textual amendment: S. 7B inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/7/1), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1) (with [s. 7(2)](https://www.legislation.gov.uk/ukpga/2014/18/section/7/2)); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)

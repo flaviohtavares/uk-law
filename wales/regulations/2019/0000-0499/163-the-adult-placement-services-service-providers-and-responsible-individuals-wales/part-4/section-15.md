@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Records of personal plan[^key-1931e8751162098b4bc15e680d0d70c3]
+## 15. Records of personal plan[^c-1931e8751162098b4bc15e680d0d70c3]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ The service provider must—
 
 ## Annotations
 
-[^key-1931e8751162098b4bc15e680d0d70c3]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2019/163/regulation/15) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-1931e8751162098b4bc15e680d0d70c3]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2019/163/regulation/15) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

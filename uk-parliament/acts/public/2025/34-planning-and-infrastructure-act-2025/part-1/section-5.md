@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Applications for development consent: removal of certain pre-application requirements[^key-57485c220caf30d37a04c515f167d452][^key-2013ba415e0cbb2fb3de1b685ef44f2e]
+## 5. Applications for development consent: removal of certain pre-application requirements[^c-57485c220caf30d37a04c515f167d452][^c-2013ba415e0cbb2fb3de1b685ef44f2e]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ Omit the following sections of the Planning Act 2008—
 
 ## Annotations
 
-[^key-57485c220caf30d37a04c515f167d452]: Commencement: S. 5 not in force at Royal Assent, see [s. 118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c)
+[^c-57485c220caf30d37a04c515f167d452]: Commencement: S. 5 not in force at Royal Assent, see [s. 118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c)
 
-[^key-2013ba415e0cbb2fb3de1b685ef44f2e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/34/section/5) in force at 24.7.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))
+[^c-2013ba415e0cbb2fb3de1b685ef44f2e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/34/section/5) in force at 24.7.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))

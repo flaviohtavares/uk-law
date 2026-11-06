@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Nature conservation orders[^key-c8793a6160bf3a19e932dd3200c1ba4e]
+## 23. Nature conservation orders[^c-c8793a6160bf3a19e932dd3200c1ba4e]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8793a6160bf3a19e932dd3200c1ba4e]: Commencement: S. 23 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-c8793a6160bf3a19e932dd3200c1ba4e]: Commencement: S. 23 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

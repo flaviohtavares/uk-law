@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124J. Contents of code about obligations to limit internet access[^key-62031a33a168f7d43519709d62e341b9]
+## 124J. Contents of code about obligations to limit internet access[^c-62031a33a168f7d43519709d62e341b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62031a33a168f7d43519709d62e341b9]: Textual amendment: S. 124J inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 12](https://www.legislation.gov.uk/ukpga/2010/24/section/12), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-62031a33a168f7d43519709d62e341b9]: Textual amendment: S. 124J inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 12](https://www.legislation.gov.uk/ukpga/2010/24/section/12), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

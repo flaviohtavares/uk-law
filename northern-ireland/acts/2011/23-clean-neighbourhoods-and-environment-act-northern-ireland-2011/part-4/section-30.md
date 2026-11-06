@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Guidance[^key-0008aef5bc69e86e772c45e25b5cf27a][^key-a7e8a6474151b14f38573b9a09a6c1b2]
+## 30. Guidance[^c-0008aef5bc69e86e772c45e25b5cf27a][^c-a7e8a6474151b14f38573b9a09a6c1b2]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0008aef5bc69e86e772c45e25b5cf27a]: Commencement: S. 30 in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-0008aef5bc69e86e772c45e25b5cf27a]: Commencement: S. 30 in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-a7e8a6474151b14f38573b9a09a6c1b2]: Commencement: S. 30 in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-a7e8a6474151b14f38573b9a09a6c1b2]: Commencement: S. 30 in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

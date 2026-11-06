@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Application to Crown.[^c7813111][^c7813121][^c20459671][^key-0fe72d9a6077d9cfd7b83aac041509d3][^key-e7294dca4d75cba999cd802287726b57]
+## 48. Application to Crown.[^c7813111][^c7813121][^c20459671][^c-0fe72d9a6077d9cfd7b83aac041509d3][^c-e7294dca4d75cba999cd802287726b57]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c18597101][^key-f399fd9ffa2210f7f2f09dfcc3ae21d9] Subject to the provisions of this section, the provisions of this Part, except sections 21 to 25 and 33 to 42, and of regulations made under this Part shall bind the Crown.
+(1)[^c18597101][^c-f399fd9ffa2210f7f2f09dfcc3ae21d9] Subject to the provisions of this section, the provisions of this Part, except sections 21 to 25 and 33 to 42, and of regulations made under this Part shall bind the Crown.
 
-(2)[^c18895731][^key-f399fd9ffa2210f7f2f09dfcc3ae21d9] Although they do not bind the Crown, sections 33 to 42 shall apply to persons in the public service of the Crown as they apply to other persons.
+(2)[^c18895731][^c-f399fd9ffa2210f7f2f09dfcc3ae21d9] Although they do not bind the Crown, sections 33 to 42 shall apply to persons in the public service of the Crown as they apply to other persons.
 
-(3)[^c18895741][^key-f399fd9ffa2210f7f2f09dfcc3ae21d9] For the purposes of this Part and regulations made thereunder persons in the service of the Crown shall be treated as employees of the Crown whether or not they would be so treated apart from this subsection.
+(3)[^c18895741][^c-f399fd9ffa2210f7f2f09dfcc3ae21d9] For the purposes of this Part and regulations made thereunder persons in the service of the Crown shall be treated as employees of the Crown whether or not they would be so treated apart from this subsection.
 
 (4)[^c7813131] Without prejudice to section 15(5), the Secretary of State may, to the extent that it appears to him requisite or expedient to do so in the interests of the safety of the State or the safe custody of persons lawfully detained, by order exempt the Crown either generally or in particular respects from all or any of the provisions of this Part which would, by virtue of subsection (1) above, bind the Crown.
 
@@ -44,13 +44,13 @@ summary: ''
 
 [^c20459671]: Modification: Ss. 1-59, 80-82 applied (temp.) (5.8.2009) by The Health and Safety at [Work etc. Act 1974 (Application outside Great Britain) Order 2001 (S.I. 2001/2127)](https://www.legislation.gov.uk/uksi/2001/2127), [arts. 8A](https://www.legislation.gov.uk/uksi/2001/2127/article/8A), [8B](https://www.legislation.gov.uk/uksi/2001/2127/article/8B) (as inserted by [S.I. 2009/1750](https://www.legislation.gov.uk/uksi/2009/1750), [art. 2(3)](https://www.legislation.gov.uk/uksi/2009/1750/article/2/3))
 
-[^key-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
+[^c-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
 
-[^key-e7294dca4d75cba999cd802287726b57]: Modification: Pt. 1 modified (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/3) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-e7294dca4d75cba999cd802287726b57]: Modification: Pt. 1 modified (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/3) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
 [^c18597101]: Modification: S. 48(1) applied (with modifications) (E.W.S.) (3.5.2004) by [S.I. 2004/129](https://www.legislation.gov.uk/uksi/2004/129), [reg. 23(3)(f)](https://www.legislation.gov.uk/uksi/2004/129/regulation/23/3/f)
 
-[^key-f399fd9ffa2210f7f2f09dfcc3ae21d9]: Modification: [S. 48(1)-(3)](https://www.legislation.gov.uk/ukpga/1974/37/section/48/1) applied (with modifications) (30.7.2018) by [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [21(1)-(3)](https://www.legislation.gov.uk/uksi/2018/816/regulation/21/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/816/regulation/4))
+[^c-f399fd9ffa2210f7f2f09dfcc3ae21d9]: Modification: [S. 48(1)-(3)](https://www.legislation.gov.uk/ukpga/1974/37/section/48/1) applied (with modifications) (30.7.2018) by [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [21(1)-(3)](https://www.legislation.gov.uk/uksi/2018/816/regulation/21/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/816/regulation/4))
 
 [^c18895731]: Modification: S. 48(2) applied (with modifications) (E.W.S.) (3.5.2004) by [S.I. 2004/129](https://www.legislation.gov.uk/uksi/2004/129), [reg. 23(3)(f)](https://www.legislation.gov.uk/uksi/2004/129/regulation/23/3/f)
 

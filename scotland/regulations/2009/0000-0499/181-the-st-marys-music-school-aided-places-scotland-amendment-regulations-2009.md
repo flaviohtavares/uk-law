@@ -32,7 +32,7 @@ summary: ''
 
 EDUCATION
 
-The St Mary’s Music School (Aided Places) (Scotland) Amendment Regulations 2009 (revoked)[^key-dbe23e305c15c9c11dbb021e8a9a019b]
+The St Mary’s Music School (Aided Places) (Scotland) Amendment Regulations 2009 (revoked)[^c-dbe23e305c15c9c11dbb021e8a9a019b]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st August 2009
 
-[^key-dbe23e305c15c9c11dbb021e8a9a019b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbe23e305c15c9c11dbb021e8a9a019b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dbe23e305c15c9c11dbb021e8a9a019b]
+## 1. Citation and commencement[^c-dbe23e305c15c9c11dbb021e8a9a019b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of St Mary’s Music School (Aided Places) (Scotland) Regulations 2001[^key-dbe23e305c15c9c11dbb021e8a9a019b]
+## 2. Amendment of St Mary’s Music School (Aided Places) (Scotland) Regulations 2001[^c-dbe23e305c15c9c11dbb021e8a9a019b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dbe23e305c15c9c11dbb021e8a9a019b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbe23e305c15c9c11dbb021e8a9a019b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dbe23e305c15c9c11dbb021e8a9a019b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbe23e305c15c9c11dbb021e8a9a019b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dbe23e305c15c9c11dbb021e8a9a019b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/181) revoked (1.8.2015) by [The St Mary’s Music School (Aided Places) (Scotland) Regulations 2015 (S.S.I. 2015/248)](https://www.legislation.gov.uk/ssi/2015/248), [reg. 1](https://www.legislation.gov.uk/ssi/2015/248/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2015/248/schedule/3)
+[^c-dbe23e305c15c9c11dbb021e8a9a019b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/181) revoked (1.8.2015) by [The St Mary’s Music School (Aided Places) (Scotland) Regulations 2015 (S.S.I. 2015/248)](https://www.legislation.gov.uk/ssi/2015/248), [reg. 1](https://www.legislation.gov.uk/ssi/2015/248/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2015/248/schedule/3)

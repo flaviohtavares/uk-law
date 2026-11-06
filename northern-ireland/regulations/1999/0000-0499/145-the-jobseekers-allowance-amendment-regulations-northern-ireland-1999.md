@@ -40,15 +40,15 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 10(2) of the Jobseekers (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-e6812108ef5707de795af24334876b82]
+## 1. Citation and commencement[^c-e6812108ef5707de795af24334876b82]
 
 These Regulations may be cited as the Jobseeker’s Allowance (Amendment) Regulations (Northern Ireland) 1999 and shall come into operation on 25th March 1999.
 
-## 2. Amendment of regulation 25 of the Jobseeker’s Allowance Regulations[^key-e8b96e37a15b9219acc0bec70c372bc1]
+## 2. Amendment of regulation 25 of the Jobseeker’s Allowance Regulations[^c-e8b96e37a15b9219acc0bec70c372bc1]
 
 In regulation 25 of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00002] (entitlement ceasing on failure to comply)—
 
-- (a)[^key-f9757ce9a3ba497053a10f7c304f7ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f9757ce9a3ba497053a10f7c304f7ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (1)(b) for head (i) there shall be substituted the following head—
 
   > - (i) the claimant attends on the day specified in a notice under regulation 23 but fails to attend at the time specified in that notice (other than a notice requiring attendance under an employment programme or a training scheme), and the Department has informed the claimant in writing that a failure to attend, on the next occasion on which he is required to attend, at the time specified in such a notice may result in his entitlement to a jobseeker’s allowance ceasing, and
@@ -82,10 +82,10 @@ These Regulations make provision corresponding to provision contained in Regulat
 
 [^f00001]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
-[^key-e6812108ef5707de795af24334876b82]: Commencement: Reg. 1 in operation at 25.3.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/145/regulation/1)
+[^c-e6812108ef5707de795af24334876b82]: Commencement: Reg. 1 in operation at 25.3.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/145/regulation/1)
 
-[^key-e8b96e37a15b9219acc0bec70c372bc1]: Commencement: Reg. 2 in operation at 25.3.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/145/regulation/1)
+[^c-e8b96e37a15b9219acc0bec70c372bc1]: Commencement: Reg. 2 in operation at 25.3.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/145/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); to which there are amendments not relevant to these Regulations
 
-[^key-f9757ce9a3ba497053a10f7c304f7ade]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/1999/145/regulation/2) repealed (6.3.2012) by [The Jobseeker’s Allowance (Sanctions for Failure to Attend) Regulations (Northern Ireland) 2012 (S.R. 2012/44)](https://www.legislation.gov.uk/nisr/2012/44), [regs. 1](https://www.legislation.gov.uk/nisr/2012/44/regulation/1), [4](https://www.legislation.gov.uk/nisr/2012/44/regulation/4)
+[^c-f9757ce9a3ba497053a10f7c304f7ade]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/1999/145/regulation/2) repealed (6.3.2012) by [The Jobseeker’s Allowance (Sanctions for Failure to Attend) Regulations (Northern Ireland) 2012 (S.R. 2012/44)](https://www.legislation.gov.uk/nisr/2012/44), [regs. 1](https://www.legislation.gov.uk/nisr/2012/44/regulation/1), [4](https://www.legislation.gov.uk/nisr/2012/44/regulation/4)

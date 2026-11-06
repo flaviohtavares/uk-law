@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68A. Unconnected multiple employer schemes: ability to pursue continuity option 3[^key-7115be281a5c169d0ac9e1f776855891]
+## 68A. Unconnected multiple employer schemes: ability to pursue continuity option 3[^c-7115be281a5c169d0ac9e1f776855891]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7115be281a5c169d0ac9e1f776855891]: Textual amendment: [S. 68A](https://www.legislation.gov.uk/ukpga/2021/1/section/68A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2026/151/regulation/12)
+[^c-7115be281a5c169d0ac9e1f776855891]: Textual amendment: [S. 68A](https://www.legislation.gov.uk/ukpga/2021/1/section/68A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2026/151/regulation/12)

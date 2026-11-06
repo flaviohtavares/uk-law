@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-316575232db47371612648f408c34f3b]
+## 1. Citation and commencement[^c-316575232db47371612648f408c34f3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-316575232db47371612648f408c34f3b]: Commencement: Reg. 1 in force at 6.4.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/792/regulation/1/2/a)
+[^c-316575232db47371612648f408c34f3b]: Commencement: Reg. 1 in force at 6.4.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/792/regulation/1/2/a)
 
 [^c23697911]: Marginal citation: Schedule 1 to the [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) provides that “**exit day**” has the same meaning as in the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) (see [section 20(1) to (5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1) of that Act).

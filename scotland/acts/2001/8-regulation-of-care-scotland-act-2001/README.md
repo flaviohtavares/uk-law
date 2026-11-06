@@ -36,19 +36,19 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Contents
 
-### PART 1 — THE COMMISSION AND CARE SERVICES[^key-f5234e58af193f9040ac36de53a20bda]
+### PART 1 — THE COMMISSION AND CARE SERVICES[^c-f5234e58af193f9040ac36de53a20bda]
 
 *Extent: S*
 
 **No longer in force.**
 
-#### Constitution of Commission[^key-f5234e58af193f9040ac36de53a20bda]
+#### Constitution of Commission[^c-f5234e58af193f9040ac36de53a20bda]
 
 **No longer in force.**
 
 - [Section 1 — Constitution of Scottish Commission for the Regulation of Care](part-1/section-1.md)
 
-#### Care services[^key-f5234e58af193f9040ac36de53a20bda]
+#### Care services[^c-f5234e58af193f9040ac36de53a20bda]
 
 *Extent: S*
 
@@ -58,19 +58,19 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 3 — Power to amend the definition of “care service"](part-1/section-3.md)
 - [Section 4 — Information and advice](part-1/section-4.md)
 
-#### National care standards[^key-f5234e58af193f9040ac36de53a20bda]
+#### National care standards[^c-f5234e58af193f9040ac36de53a20bda]
 
 **No longer in force.**
 
 - [Section 5 — National care standards](part-1/section-5.md)
 
-#### Complaints[^key-f5234e58af193f9040ac36de53a20bda]
+#### Complaints[^c-f5234e58af193f9040ac36de53a20bda]
 
 **No longer in force.**
 
 - [Section 6 — Complaints about care services](part-1/section-6.md)
 
-#### Registration[^key-f5234e58af193f9040ac36de53a20bda]
+#### Registration[^c-f5234e58af193f9040ac36de53a20bda]
 
 **No longer in force.**
 
@@ -78,14 +78,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 8 — Limited registration](part-1/section-8.md)
 - [Section 9 — Grant or refusal of registration under Part 1](part-1/section-9.md)
 
-#### Improvement notices[^key-f5234e58af193f9040ac36de53a20bda]
+#### Improvement notices[^c-f5234e58af193f9040ac36de53a20bda]
 
 **No longer in force.**
 
 - [Section 10 — Improvement notices](part-1/section-10.md)
 - [Section 11 — Special provision for certain care services provided by local authorities](part-1/section-11.md)
 
-#### Proposals and applications in relation to registered care services[^key-f5234e58af193f9040ac36de53a20bda]
+#### Proposals and applications in relation to registered care services[^c-f5234e58af193f9040ac36de53a20bda]
 
 **No longer in force.**
 
@@ -99,7 +99,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 19 — Conditions as to numbers](part-1/section-19.md)
 - [Section 20 — Appeal against decision to implement proposal](part-1/section-20.md)
 
-#### Offences[^key-f5234e58af193f9040ac36de53a20bda]
+#### Offences[^c-f5234e58af193f9040ac36de53a20bda]
 
 **No longer in force.**
 
@@ -107,13 +107,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 22 — False statements in applications under Part 1](part-1/section-22.md)
 - [Section 23 — Offences by bodies corporate etc.](part-1/section-23.md)
 
-#### Fees[^key-f5234e58af193f9040ac36de53a20bda]
+#### Fees[^c-f5234e58af193f9040ac36de53a20bda]
 
 **No longer in force.**
 
 - [Section 24 — Registration fees](part-1/section-24.md)
 
-#### Inspections[^key-f5234e58af193f9040ac36de53a20bda]
+#### Inspections[^c-f5234e58af193f9040ac36de53a20bda]
 
 **No longer in force.**
 
@@ -121,7 +121,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 26 — Integrated inspections](part-1/section-26.md)
 - [Section 27 — Further provision as regards inspections](part-1/section-27.md)
 
-#### Regulations[^key-f5234e58af193f9040ac36de53a20bda]
+#### Regulations[^c-f5234e58af193f9040ac36de53a20bda]
 
 *Extent: S*
 
@@ -130,20 +130,20 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 28 — Regulations relating to the Commission, to registration and to registers](part-1/section-28.md)
 - [Section 29 — Regulations relating to care services](part-1/section-29.md)
 
-#### Transfer of staff[^key-f5234e58af193f9040ac36de53a20bda]
+#### Transfer of staff[^c-f5234e58af193f9040ac36de53a20bda]
 
 **No longer in force.**
 
 - [Section 30 — Transfer of staff](part-1/section-30.md)
 
-#### Miscellaneous[^key-f5234e58af193f9040ac36de53a20bda]
+#### Miscellaneous[^c-f5234e58af193f9040ac36de53a20bda]
 
 **No longer in force.**
 
 - [Section 31 — Arrangements entered into by local authority or health body: services to be registered](part-1/section-31.md)
 - [Section 32 — Giving of notice](part-1/section-32.md)
 
-### PART 2 — LOCAL AUTHORITY ADOPTION AND FOSTERING SERVICES ETC.[^key-d8935bce9133eb59c009f65590e9ee05]
+### PART 2 — LOCAL AUTHORITY ADOPTION AND FOSTERING SERVICES ETC.[^c-d8935bce9133eb59c009f65590e9ee05]
 
 *Extent: S*
 
@@ -182,7 +182,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 49 — Removal etc. from the Council’s register](part-3/section-49.md)
 - [Section 50 — Notice of Council’s decision under rules under section 49](part-3/section-50.md)
 
-#### Information from third parties[^key-7a866f227b087fc2c71e3993385c1132]
+#### Information from third parties[^c-7a866f227b087fc2c71e3993385c1132]
 
 - [Section 50A — Council’s power to require information](part-3/section-50a.md)
 
@@ -208,7 +208,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 56 — Regulations relating to the Council](part-3/section-56.md)
 - [Section 57 — Power of Council to make rules](part-3/section-57.md)
 
-#### Notification of dismissal etc. for misconduct[^key-8c02cd5f200be1b33a8d854c8314973d][^key-b19c7f281f875957df37dd4058cbf154]
+#### Notification of dismissal etc. for misconduct[^c-8c02cd5f200be1b33a8d854c8314973d][^c-b19c7f281f875957df37dd4058cbf154]
 
 - [Section 57A — Notification of dismissal etc. to Council](part-3/section-57a.md)
 - [Section 57B — Provision of other information to Council by employer](part-3/section-57b.md)
@@ -296,12 +296,12 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 [^c1229976]: Modification: Act modified (27.3.2002) by [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 7(1)](https://www.legislation.gov.uk/ssi/2002/162/article/7/1)
 
-[^key-f5234e58af193f9040ac36de53a20bda]: Textual amendment: Pt. 1 repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 37](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/37); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule) (with savings and transitional provisions in [S.S.I. 2011/121](https://www.legislation.gov.uk/ssi/2011/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/121/article/1/1), [15-21](https://www.legislation.gov.uk/ssi/2011/121/article/15) and [S.S.I. 2011/169](https://www.legislation.gov.uk/ssi/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/169/article/1/1), [2](https://www.legislation.gov.uk/ssi/2011/169/article/2), [3](https://www.legislation.gov.uk/ssi/2011/169/article/3))
+[^c-f5234e58af193f9040ac36de53a20bda]: Textual amendment: Pt. 1 repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 37](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/37); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule) (with savings and transitional provisions in [S.S.I. 2011/121](https://www.legislation.gov.uk/ssi/2011/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/121/article/1/1), [15-21](https://www.legislation.gov.uk/ssi/2011/121/article/15) and [S.S.I. 2011/169](https://www.legislation.gov.uk/ssi/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/169/article/1/1), [2](https://www.legislation.gov.uk/ssi/2011/169/article/2), [3](https://www.legislation.gov.uk/ssi/2011/169/article/3))
 
-[^key-d8935bce9133eb59c009f65590e9ee05]: Textual amendment: Pt. 2 repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 37](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/37); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule) (with savings and transitional provisions in [S.S.I. 2011/121](https://www.legislation.gov.uk/ssi/2011/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/121/article/1/1), [15-21](https://www.legislation.gov.uk/ssi/2011/121/article/15))
+[^c-d8935bce9133eb59c009f65590e9ee05]: Textual amendment: Pt. 2 repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 37](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/37); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule) (with savings and transitional provisions in [S.S.I. 2011/121](https://www.legislation.gov.uk/ssi/2011/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/121/article/1/1), [15-21](https://www.legislation.gov.uk/ssi/2011/121/article/15))
 
-[^key-7a866f227b087fc2c71e3993385c1132]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/asp/2001/8/section/50A) and cross-heading inserted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 20(2)](https://www.legislation.gov.uk/asp/2025/9/section/20/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)
+[^c-7a866f227b087fc2c71e3993385c1132]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/asp/2001/8/section/50A) and cross-heading inserted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 20(2)](https://www.legislation.gov.uk/asp/2025/9/section/20/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)
 
-[^key-8c02cd5f200be1b33a8d854c8314973d]: Textual amendment: [S. 57A cross-heading](https://www.legislation.gov.uk/asp/2001/8/part/3/crossheading/notification-of-dismissal-etc-for-misconduct-and-provision-of-other-information-to-council) substituted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 20(3)](https://www.legislation.gov.uk/asp/2025/9/section/20/3), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)
+[^c-8c02cd5f200be1b33a8d854c8314973d]: Textual amendment: [S. 57A cross-heading](https://www.legislation.gov.uk/asp/2001/8/part/3/crossheading/notification-of-dismissal-etc-for-misconduct-and-provision-of-other-information-to-council) substituted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 20(3)](https://www.legislation.gov.uk/asp/2025/9/section/20/3), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)
 
-[^key-b19c7f281f875957df37dd4058cbf154]: Textual amendment: Ss. 57A, 57B and cross-heading inserted (17.10.2005) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [ss. 32](https://www.legislation.gov.uk/asp/2005/13/section/32), [43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3); [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-b19c7f281f875957df37dd4058cbf154]: Textual amendment: Ss. 57A, 57B and cross-heading inserted (17.10.2005) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [ss. 32](https://www.legislation.gov.uk/asp/2005/13/section/32), [43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3); [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)

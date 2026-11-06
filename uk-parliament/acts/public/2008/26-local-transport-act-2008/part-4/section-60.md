@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Power to limit permits under section 19 or 22 of TA 1985 to 5 years[^c1952756][^key-cdfebec84df5141339c43fb41695eb93]
+## 60. Power to limit permits under section 19 or 22 of TA 1985 to 5 years[^c1952756][^c-cdfebec84df5141339c43fb41695eb93]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^c1952756]: Commencement: S. 60 partly in force; s. 60 in force at Royal Assent for certain purposes see s. 134
 
-[^key-cdfebec84df5141339c43fb41695eb93]: Commencement: S. 60 in force at 6.4.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)
+[^c-cdfebec84df5141339c43fb41695eb93]: Commencement: S. 60 in force at 6.4.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)

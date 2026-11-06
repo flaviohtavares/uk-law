@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242. Quorum[^key-5c729f1a4f10f334e019b10b344dd951]
+## 242. Quorum[^c-5c729f1a4f10f334e019b10b344dd951]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c729f1a4f10f334e019b10b344dd951]: Commencement: S. 242 in force at 1.6.2009 by [S.I. 2009/1296](https://www.legislation.gov.uk/uksi/2009/1296), [art. 2](https://www.legislation.gov.uk/uksi/2009/1296/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/1296/schedule/paragraph/5)
+[^c-5c729f1a4f10f334e019b10b344dd951]: Commencement: S. 242 in force at 1.6.2009 by [S.I. 2009/1296](https://www.legislation.gov.uk/uksi/2009/1296), [art. 2](https://www.legislation.gov.uk/uksi/2009/1296/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/1296/schedule/paragraph/5)

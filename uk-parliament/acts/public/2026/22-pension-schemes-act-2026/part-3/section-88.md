@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Responding to events of concern[^key-be19ce98a9048318aee672e1936f8783]
+## 88. Responding to events of concern[^c-be19ce98a9048318aee672e1936f8783]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ it must give a notice to that effect to the person that proposed the plan.
 
 ## Annotations
 
-[^key-be19ce98a9048318aee672e1936f8783]: Commencement: S. 88 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-be19ce98a9048318aee672e1936f8783]: Commencement: S. 88 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

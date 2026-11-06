@@ -41,51 +41,51 @@ renewing the authorisation for the placing on the market of products containing,
 
 (Text with EEA relevance) (revoked)
 
-[^key-b8e525d5b971a15eca3a4b10ad93a9fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8e525d5b971a15eca3a4b10ad93a9fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Genetically modified organism and unique identifier[^key-b8e525d5b971a15eca3a4b10ad93a9fe]
+## Article 1. Genetically modified organism and unique identifier[^c-b8e525d5b971a15eca3a4b10ad93a9fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Renewal of authorisation[^key-b8e525d5b971a15eca3a4b10ad93a9fe]
+## Article 2. Renewal of authorisation[^c-b8e525d5b971a15eca3a4b10ad93a9fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Labelling[^key-b8e525d5b971a15eca3a4b10ad93a9fe]
+## Article 3. Labelling[^c-b8e525d5b971a15eca3a4b10ad93a9fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Method for detection[^key-b8e525d5b971a15eca3a4b10ad93a9fe]
+## Article 4. Method for detection[^c-b8e525d5b971a15eca3a4b10ad93a9fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Monitoring plan for environmental effects[^key-b8e525d5b971a15eca3a4b10ad93a9fe]
+## Article 5. Monitoring plan for environmental effects[^c-b8e525d5b971a15eca3a4b10ad93a9fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Register[^key-b8e525d5b971a15eca3a4b10ad93a9fe]
+## Article 6. Register[^c-b8e525d5b971a15eca3a4b10ad93a9fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Authorisation holder[^key-b8e525d5b971a15eca3a4b10ad93a9fe]
+## Article 7. Authorisation holder[^c-b8e525d5b971a15eca3a4b10ad93a9fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Validity[^key-b8e525d5b971a15eca3a4b10ad93a9fe]
+## Article 8. Validity[^c-b8e525d5b971a15eca3a4b10ad93a9fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Addressee[^key-b8e525d5b971a15eca3a4b10ad93a9fe]
+## Article 9. Addressee[^c-b8e525d5b971a15eca3a4b10ad93a9fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-b8e525d5b971a15eca3a4b10ad93a9fe]
+## ANNEX[^c-b8e525d5b971a15eca3a4b10ad93a9fe]
 
-[^key-b8e525d5b971a15eca3a4b10ad93a9fe]
+[^c-b8e525d5b971a15eca3a4b10ad93a9fe]
 
 - ((a)) **Authorisation holder:**
   - ((1)) The authorisation holder is Corteva Agriscience LLC, 9330 Zionsville Road, Indianapolis, Indiana, 46268-1054, United States of America.
@@ -123,4 +123,4 @@ renewing the authorisation for the placing on the market of products containing,
 
 ## Annotations
 
-[^key-b8e525d5b971a15eca3a4b10ad93a9fe]: Textual amendment: Decision revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 55](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/55) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-b8e525d5b971a15eca3a4b10ad93a9fe]: Textual amendment: Decision revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 55](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/55) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

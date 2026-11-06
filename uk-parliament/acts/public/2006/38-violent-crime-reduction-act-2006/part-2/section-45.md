@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Power of members of staff to search school pupils for weapons[^key-de6aef357990bd9836f19f8efb920df8][^key-f03b2e675abdb8aebc6a4830460e7de9]
+## 45. Power of members of staff to search school pupils for weapons[^c-de6aef357990bd9836f19f8efb920df8][^c-f03b2e675abdb8aebc6a4830460e7de9]
 
 *Extent: E+W*
 
@@ -81,6 +81,6 @@ After section 550A of the Education Act 1996 (c. 56) insert—
 
 ## Annotations
 
-[^key-de6aef357990bd9836f19f8efb920df8]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/38/section/45) in force for E. at 31.5.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/858/article/3/a)
+[^c-de6aef357990bd9836f19f8efb920df8]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/38/section/45) in force for E. at 31.5.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/858/article/3/a)
 
-[^key-f03b2e675abdb8aebc6a4830460e7de9]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/38/section/45) in force at 31.10.2010 for W. by [S.I. 2010/2426](https://www.legislation.gov.uk/wsi/2010/2426), [art. 2](https://www.legislation.gov.uk/wsi/2010/2426/article/2)
+[^c-f03b2e675abdb8aebc6a4830460e7de9]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/38/section/45) in force at 31.10.2010 for W. by [S.I. 2010/2426](https://www.legislation.gov.uk/wsi/2010/2426), [art. 2](https://www.legislation.gov.uk/wsi/2010/2426/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70. Revision of local development plan[^key-447a5b0e182c91b36b75a816b2000a49]
+## 70. Revision of local development plan[^c-447a5b0e182c91b36b75a816b2000a49]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-447a5b0e182c91b36b75a816b2000a49]: Commencement: S. 70 in force at 5.10.2005 for specified purposes and 15.10.2005 in so far as not already in force by [S.I. 2005/2722](https://www.legislation.gov.uk/uksi/2005/2722), [art. 2(h)](https://www.legislation.gov.uk/uksi/2005/2722/article/2/h)
+[^c-447a5b0e182c91b36b75a816b2000a49]: Commencement: S. 70 in force at 5.10.2005 for specified purposes and 15.10.2005 in so far as not already in force by [S.I. 2005/2722](https://www.legislation.gov.uk/uksi/2005/2722), [art. 2(h)](https://www.legislation.gov.uk/uksi/2005/2722/article/2/h)

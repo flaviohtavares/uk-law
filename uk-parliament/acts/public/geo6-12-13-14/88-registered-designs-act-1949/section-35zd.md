@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35ZD. Section 35ZA: forfeiture in Scotland[^key-c8480483b68d5cf2ff06a2709180a5f5]
+## 35ZD. Section 35ZA: forfeiture in Scotland[^c-c8480483b68d5cf2ff06a2709180a5f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,9 +29,9 @@ summary: ''
 
 (3) On an application under subsection (2)(a), the court may make an order for the forfeiture of relevant products or articles only if it is satisfied that an offence under section 35ZA has been committed in relation to the relevant products or articles.
 
-(4) The court may infer for the purposes of this section that such an offence has been committed in relation to any relevant products or articles if it is satisfied that such an offence has been committed in relation to products or articles[^key-5e7c845e6525f7bf10c812e3188f36b3] which are representative of them (whether by reason of being of the same design or part of the same consignment or batch or otherwise).
+(4) The court may infer for the purposes of this section that such an offence has been committed in relation to any relevant products or articles if it is satisfied that such an offence has been committed in relation to products or articles[^c-5e7c845e6525f7bf10c812e3188f36b3] which are representative of them (whether by reason of being of the same design or part of the same consignment or batch or otherwise).
 
-(5) The procurator fiscal making the application under subsection (2)(a) must serve on any person appearing to the procurator fiscal to be the owner of, or otherwise have an interest in, the products or articles to which the application relates a copy of the application, together with a notice giving the person the opportunity[^key-e481c5cb17ddd89b8f96385bd66dc2db] to appear at the hearing of the application to show cause why the products or articles should not be forfeited.
+(5) The procurator fiscal making the application under subsection (2)(a) must serve on any person appearing to the procurator fiscal to be the owner of, or otherwise have an interest in, the products or articles to which the application relates a copy of the application, together with a notice giving the person the opportunity[^c-e481c5cb17ddd89b8f96385bd66dc2db] to appear at the hearing of the application to show cause why the products or articles should not be forfeited.
 
 (6) Service under subsection (5) must be carried out, and such service may be proved, in the manner specified for citation of an accused in summary proceedings under the Criminal Procedure (Scotland) Act 1995.
 
@@ -67,8 +67,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c8480483b68d5cf2ff06a2709180a5f5]: Textual amendment: Ss. 35ZA-35ZD inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 13](https://www.legislation.gov.uk/ukpga/2014/18/section/13), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (as amended by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3)) (as amended (1.10.2014) by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3))
+[^c-c8480483b68d5cf2ff06a2709180a5f5]: Textual amendment: Ss. 35ZA-35ZD inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 13](https://www.legislation.gov.uk/ukpga/2014/18/section/13), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (as amended by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3)) (as amended (1.10.2014) by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3))
 
-[^key-5e7c845e6525f7bf10c812e3188f36b3]: Annotation text not found in the source document.
+[^c-5e7c845e6525f7bf10c812e3188f36b3]: Annotation text not found in the source document.
 
-[^key-e481c5cb17ddd89b8f96385bd66dc2db]: Annotation text not found in the source document.
+[^c-e481c5cb17ddd89b8f96385bd66dc2db]: Annotation text not found in the source document.

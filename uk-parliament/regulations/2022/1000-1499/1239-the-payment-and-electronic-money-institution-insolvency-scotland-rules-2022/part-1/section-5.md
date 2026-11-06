@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Application of Rules[^key-a04f3085ed4730d8983a5d454085c5b4]
+## 5. Application of Rules[^c-a04f3085ed4730d8983a5d454085c5b4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ These Rules apply in respect of a special administration.
 
 ## Annotations
 
-[^key-a04f3085ed4730d8983a5d454085c5b4]: Commencement: Rule 5 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-a04f3085ed4730d8983a5d454085c5b4]: Commencement: Rule 5 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

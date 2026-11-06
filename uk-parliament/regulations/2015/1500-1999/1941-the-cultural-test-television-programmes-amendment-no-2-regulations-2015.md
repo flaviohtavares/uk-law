@@ -32,7 +32,7 @@ summary: ''
 
 Corporation Tax
 
-The Cultural Test (Television Programmes) (Amendment) (No. 2) Regulations 2015 (revoked)[^key-413a016476eadef1cf9097dbeed934f7]
+The Cultural Test (Television Programmes) (Amendment) (No. 2) Regulations 2015 (revoked)[^c-413a016476eadef1cf9097dbeed934f7]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 21st December 2015
 
-[^key-413a016476eadef1cf9097dbeed934f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-413a016476eadef1cf9097dbeed934f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-413a016476eadef1cf9097dbeed934f7]
+## 1. Citation and commencement[^c-413a016476eadef1cf9097dbeed934f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Cultural Test (Television Programmes) Regulations 2013[^key-413a016476eadef1cf9097dbeed934f7]
+## 2. Amendment to the Cultural Test (Television Programmes) Regulations 2013[^c-413a016476eadef1cf9097dbeed934f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-413a016476eadef1cf9097dbeed934f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-413a016476eadef1cf9097dbeed934f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-413a016476eadef1cf9097dbeed934f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-413a016476eadef1cf9097dbeed934f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-413a016476eadef1cf9097dbeed934f7]: Textual amendment: Regulations revoked (15.12.2017) by [The Cultural Test (Television Programmes) (Amendment) Regulations 2017 (S.I. 2017/1138)](https://www.legislation.gov.uk/uksi/2017/1138), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1138/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1138/regulation/3)
+[^c-413a016476eadef1cf9097dbeed934f7]: Textual amendment: Regulations revoked (15.12.2017) by [The Cultural Test (Television Programmes) (Amendment) Regulations 2017 (S.I. 2017/1138)](https://www.legislation.gov.uk/uksi/2017/1138), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1138/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1138/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Application to pension payers and pensioners[^key-4f939d971baef20874025f47aba314ab]
+## 11. Application to pension payers and pensioners[^c-4f939d971baef20874025f47aba314ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,14 +31,14 @@ summary: ''
 |  |  |
 | --- | --- |
 | regulation 25 | cumulative basis: subsidiary PAYE income of employee paid weekly or at greater intervals |
-| [^key-c0aab57f3c79ba3a514dda4639fc4ed9]. . . | [^key-c0aab57f3c79ba3a514dda4639fc4ed9]. . . |
-| [^key-c0aab57f3c79ba3a514dda4639fc4ed9]. . . | [^key-c0aab57f3c79ba3a514dda4639fc4ed9]. . . |
+| [^c-c0aab57f3c79ba3a514dda4639fc4ed9]. . . | [^c-c0aab57f3c79ba3a514dda4639fc4ed9]. . . |
+| [^c-c0aab57f3c79ba3a514dda4639fc4ed9]. . . | [^c-c0aab57f3c79ba3a514dda4639fc4ed9]. . . |
 | regulation 38 | death of employee (other than pensioner) |
 | Chapter 2 of Part 3 | new employees (other than pensioners): Forms P45 and P46 |
 | regulation 63 | repayment during unpaid leave |
 | regulation 64 | trade disputes |
 | regulation 65 | repayment if no longer employed |
-| regulation 71 | modification of regulations 67G and 68[^key-40433a451eab4450e507f22f3d643e4f] in case of trade dispute |
+| regulation 71 | modification of regulations 67G and 68[^c-40433a451eab4450e507f22f3d643e4f] in case of trade dispute |
 | regulation 75 | additional return in case of trade dispute |
 | regulations 85 to 89 | employers: annual return of other earnings |
 | regulation 90 | quarterly return if car becomes available or unavailable |
@@ -59,8 +59,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4f939d971baef20874025f47aba314ab]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2003/2682/regulation/11) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-4f939d971baef20874025f47aba314ab]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2003/2682/regulation/11) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
 
-[^key-c0aab57f3c79ba3a514dda4639fc4ed9]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/11/2) omitted (6.4.2014) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/4), [7](https://www.legislation.gov.uk/uksi/2013/521/regulation/7)
+[^c-c0aab57f3c79ba3a514dda4639fc4ed9]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/11/2) omitted (6.4.2014) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/4), [7](https://www.legislation.gov.uk/uksi/2013/521/regulation/7)
 
-[^key-40433a451eab4450e507f22f3d643e4f]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/11/2) substituted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2012/822/regulation/5)
+[^c-40433a451eab4450e507f22f3d643e4f]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/11/2) substituted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2012/822/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Gratuity in lieu of child’s special allowance[^key-efb2239a9c3e4ff246e9a6bd1ea0e29e]
+## 24. Gratuity in lieu of child’s special allowance[^c-efb2239a9c3e4ff246e9a6bd1ea0e29e]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ Provided that the Board shall not exercise its discretion under this paragraph u
 
 ## Annotations
 
-[^key-efb2239a9c3e4ff246e9a6bd1ea0e29e]: Commencement: Reg. 24 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-efb2239a9c3e4ff246e9a6bd1ea0e29e]: Commencement: Reg. 24 in operation at 25.7.2006 with effect in accordance with reg. 1

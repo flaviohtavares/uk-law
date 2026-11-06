@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 285A. Required life sentence for manslaughter of emergency worker[^key-f84100a30cc3e35d94d76968ff298c55]
+## 285A. Required life sentence for manslaughter of emergency worker[^c-f84100a30cc3e35d94d76968ff298c55]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f84100a30cc3e35d94d76968ff298c55]: Textual amendment: [S. 285A](https://www.legislation.gov.uk/ukpga/2020/17/section/285A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 3(11)](https://www.legislation.gov.uk/ukpga/2022/32/section/3/11), [208(5)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/b)
+[^c-f84100a30cc3e35d94d76968ff298c55]: Textual amendment: [S. 285A](https://www.legislation.gov.uk/ukpga/2020/17/section/285A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 3(11)](https://www.legislation.gov.uk/ukpga/2022/32/section/3/11), [208(5)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/b)

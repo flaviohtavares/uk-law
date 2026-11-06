@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 21A — RELIEF FOR SPECIAL TAX SITES[^key-b075d1615d927c9037531bd0c86a36a5]
+## SCHEDULE 21A — RELIEF FOR SPECIAL TAX SITES[^c-b075d1615d927c9037531bd0c86a36a5]
 
 *Extent: E+W*
 
@@ -28,12 +28,12 @@ summary: ''
 
 #### Meaning of special tax site
 
-**2.**[^key-0834b8bef4700bd76311f49656a5478b] In this Schedule, “**special tax site**” means the areas designated as special areas by—
+**2.**[^c-0834b8bef4700bd76311f49656a5478b] In this Schedule, “**special tax site**” means the areas designated as special areas by—
 
 - (a) the Designation of Special Tax Sites (Celtic Freeport) Regulations 2024 ([S.I. 2024/1035](https://www.legislation.gov.uk/uksi/2024/1035)) as made on 16 October 2024;
 - (b) the Designation of Special Tax Sites (Anglesey Freeport) Regulations 2024 ([S.I. 2024/1286](https://www.legislation.gov.uk/uksi/2024/1286)) as made on 4 December 2024.
-- (c)[^key-00c58864a35279054a2a6d8953d35779] the Designation of Special Tax Sites (Anglesey Freeport) Regulations 2025 ([S.I. 2025/1079](https://www.legislation.gov.uk/uksi/2025/1079)) as made on 14 October 2025.
-- (d)[^key-500568eab78e0d494bcf5c9f65dc0cc2] the Designation of Special Tax Sites (Flintshire and Wrexham Investment Zone) Regulations 2025 ([S.I. 2025/1080](https://www.legislation.gov.uk/uksi/2025/1080)) as made on 14 October 2025.
+- (c)[^c-00c58864a35279054a2a6d8953d35779] the Designation of Special Tax Sites (Anglesey Freeport) Regulations 2025 ([S.I. 2025/1079](https://www.legislation.gov.uk/uksi/2025/1079)) as made on 14 October 2025.
+- (d)[^c-500568eab78e0d494bcf5c9f65dc0cc2] the Designation of Special Tax Sites (Flintshire and Wrexham Investment Zone) Regulations 2025 ([S.I. 2025/1080](https://www.legislation.gov.uk/uksi/2025/1080)) as made on 14 October 2025.
 
 #### Meaning of qualifying land
 
@@ -80,10 +80,10 @@ summary: ''
 
 **5.** In this Part, the “**relief period**” means
 
-- (a)[^key-57b942923c958678b54bd4f1fbf9b75b] in so far as the reference relates to the special tax site mentioned in paragraph 2(a),[^key-dabb498709dd0c0d77cf99e0af2b632e] the period beginning with 26 November 2024 and ending with 30 September 2029;
-- (b)[^key-449cf84165590fb83fb2727379a92169] in so far as the reference relates to the special tax site mentioned in paragraph 2(b), the period beginning with 23 January 2025 and ending with 30 September 2029;
-- (c)[^key-6c6351eae1ef91f5bbc96bd3a5a8c5d0] in so far as the reference relates to the special tax site mentioned in paragraph 2(c), the period beginning with 21 November 2025 and ending with 30 September 2029.
-- (d)[^key-e0ff57a882014743e5f4078cec4ee783] in so far as the reference relates to the special tax site mentioned in paragraph 2(d), the period beginning with 21 November 2025 and ending with 30 September 2034.
+- (a)[^c-57b942923c958678b54bd4f1fbf9b75b] in so far as the reference relates to the special tax site mentioned in paragraph 2(a),[^c-dabb498709dd0c0d77cf99e0af2b632e] the period beginning with 26 November 2024 and ending with 30 September 2029;
+- (b)[^c-449cf84165590fb83fb2727379a92169] in so far as the reference relates to the special tax site mentioned in paragraph 2(b), the period beginning with 23 January 2025 and ending with 30 September 2029;
+- (c)[^c-6c6351eae1ef91f5bbc96bd3a5a8c5d0] in so far as the reference relates to the special tax site mentioned in paragraph 2(c), the period beginning with 21 November 2025 and ending with 30 September 2029.
+- (d)[^c-e0ff57a882014743e5f4078cec4ee783] in so far as the reference relates to the special tax site mentioned in paragraph 2(d), the period beginning with 21 November 2025 and ending with 30 September 2034.
 
 #### Full relief
 
@@ -192,20 +192,20 @@ summary: ''
 
 ## Annotations
 
-[^key-b075d1615d927c9037531bd0c86a36a5]: Textual amendment: [Sch. 21A](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A) inserted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/5)
+[^c-b075d1615d927c9037531bd0c86a36a5]: Textual amendment: [Sch. 21A](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A) inserted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/5)
 
-[^key-0834b8bef4700bd76311f49656a5478b]: Textual amendment: [Sch. 21A para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/2) substituted (23.1.2025) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (Wales) Regulations 2025 (S.I. 2025/54)](https://www.legislation.gov.uk/wsi/2025/54), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/54/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/54/regulation/2/2)
+[^c-0834b8bef4700bd76311f49656a5478b]: Textual amendment: [Sch. 21A para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/2) substituted (23.1.2025) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (Wales) Regulations 2025 (S.I. 2025/54)](https://www.legislation.gov.uk/wsi/2025/54), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/54/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/54/regulation/2/2)
 
-[^key-00c58864a35279054a2a6d8953d35779]: Textual amendment: [Sch. 21A para. 2(c)](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/2/c) inserted (21.11.2025 at 12.00 a.m.) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1209)](https://www.legislation.gov.uk/uksi/2025/1209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1209/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1209/regulation/2/2)
+[^c-00c58864a35279054a2a6d8953d35779]: Textual amendment: [Sch. 21A para. 2(c)](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/2/c) inserted (21.11.2025 at 12.00 a.m.) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1209)](https://www.legislation.gov.uk/uksi/2025/1209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1209/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1209/regulation/2/2)
 
-[^key-500568eab78e0d494bcf5c9f65dc0cc2]: Textual amendment: [Sch. 21A para. 2(d)](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/2/d) inserted (21.11.2025 at 12.01 a.m.) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (No. 3) (Wales) Regulations 2025 (S.I. 2025/1210)](https://www.legislation.gov.uk/wsi/2025/1210), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1210/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/1210/regulation/2/2)
+[^c-500568eab78e0d494bcf5c9f65dc0cc2]: Textual amendment: [Sch. 21A para. 2(d)](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/2/d) inserted (21.11.2025 at 12.01 a.m.) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (No. 3) (Wales) Regulations 2025 (S.I. 2025/1210)](https://www.legislation.gov.uk/wsi/2025/1210), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1210/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/1210/regulation/2/2)
 
-[^key-57b942923c958678b54bd4f1fbf9b75b]: Textual amendment: [Sch. 21A para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/5) renumbered as Sch. 21A para. 5(a) (23.1.2025) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (Wales) Regulations 2025 (S.I. 2025/54)](https://www.legislation.gov.uk/uksi/2025/54), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/54/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/54/regulation/2/3/a)
+[^c-57b942923c958678b54bd4f1fbf9b75b]: Textual amendment: [Sch. 21A para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/5) renumbered as Sch. 21A para. 5(a) (23.1.2025) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (Wales) Regulations 2025 (S.I. 2025/54)](https://www.legislation.gov.uk/uksi/2025/54), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/54/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/54/regulation/2/3/a)
 
-[^key-dabb498709dd0c0d77cf99e0af2b632e]: Textual amendment: Words in [Sch. 21A para. 5(a)](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/5/a) inserted (23.1.2025) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (Wales) Regulations 2025 (S.I. 2025/54)](https://www.legislation.gov.uk/wsi/2025/54), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/54/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2025/54/regulation/2/3/b)
+[^c-dabb498709dd0c0d77cf99e0af2b632e]: Textual amendment: Words in [Sch. 21A para. 5(a)](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/5/a) inserted (23.1.2025) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (Wales) Regulations 2025 (S.I. 2025/54)](https://www.legislation.gov.uk/wsi/2025/54), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/54/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2025/54/regulation/2/3/b)
 
-[^key-449cf84165590fb83fb2727379a92169]: Textual amendment: [Sch. 21A para. 5(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/5/b) inserted (23.1.2025) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (Wales) Regulations 2025 (S.I. 2025/54)](https://www.legislation.gov.uk/wsi/2025/54), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/54/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2025/54/regulation/2/3/c)
+[^c-449cf84165590fb83fb2727379a92169]: Textual amendment: [Sch. 21A para. 5(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/5/b) inserted (23.1.2025) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (Wales) Regulations 2025 (S.I. 2025/54)](https://www.legislation.gov.uk/wsi/2025/54), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/54/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2025/54/regulation/2/3/c)
 
-[^key-6c6351eae1ef91f5bbc96bd3a5a8c5d0]: Textual amendment: [Sch. 21A para. 5(c)](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/5/c) inserted (21.11.2025 at 12.00 a.m.) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1209)](https://www.legislation.gov.uk/uksi/2025/1209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1209/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/1209/regulation/2/3)
+[^c-6c6351eae1ef91f5bbc96bd3a5a8c5d0]: Textual amendment: [Sch. 21A para. 5(c)](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/5/c) inserted (21.11.2025 at 12.00 a.m.) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1209)](https://www.legislation.gov.uk/uksi/2025/1209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1209/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/1209/regulation/2/3)
 
-[^key-e0ff57a882014743e5f4078cec4ee783]: Textual amendment: [Sch. 21A para. 5(d)](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/5/d) inserted (21.11.2025 at 12.01 a.m.) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (No. 3) (Wales) Regulations 2025 (S.I. 2025/1210)](https://www.legislation.gov.uk/wsi/2025/1210), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1210/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2025/1210/regulation/2/3)
+[^c-e0ff57a882014743e5f4078cec4ee783]: Textual amendment: [Sch. 21A para. 5(d)](https://www.legislation.gov.uk/anaw/2017/1/schedule/21A/paragraph/5/d) inserted (21.11.2025 at 12.01 a.m.) by [The Land Transaction Tax (Modification of Special Tax Sites Relief) (No. 3) (Wales) Regulations 2025 (S.I. 2025/1210)](https://www.legislation.gov.uk/wsi/2025/1210), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1210/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2025/1210/regulation/2/3)

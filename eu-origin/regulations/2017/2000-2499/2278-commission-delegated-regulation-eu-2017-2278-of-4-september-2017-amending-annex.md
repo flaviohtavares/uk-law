@@ -33,18 +33,18 @@ of 4 September 2017
 
 amending Annex I to Council Regulation (EC) No 1217/2009 setting up a network for the collection of accountancy data on the incomes and business operation of agricultural holdings in the European Union (revoked)
 
-[^key-9f1684d97b2c94b247e6e23952ec6482]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f1684d97b2c94b247e6e23952ec6482]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-9f1684d97b2c94b247e6e23952ec6482] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9f1684d97b2c94b247e6e23952ec6482] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9f1684d97b2c94b247e6e23952ec6482] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9f1684d97b2c94b247e6e23952ec6482] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f1684d97b2c94b247e6e23952ec6482]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f1684d97b2c94b247e6e23952ec6482]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-9f1684d97b2c94b247e6e23952ec6482]
+## ANNEX[^c-9f1684d97b2c94b247e6e23952ec6482]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f1684d97b2c94b247e6e23952ec6482]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 282](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/282); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f1684d97b2c94b247e6e23952ec6482]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 282](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/282); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

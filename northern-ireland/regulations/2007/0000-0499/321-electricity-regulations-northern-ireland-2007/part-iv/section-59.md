@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Relevant changes in law[^key-570beea144056e0de9c27506f1361591]
+## 59. Relevant changes in law[^c-570beea144056e0de9c27506f1361591]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ shall be a relevant change in law.
 
 ## Annotations
 
-[^key-570beea144056e0de9c27506f1361591]: Commencement: Reg. 59 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-570beea144056e0de9c27506f1361591]: Commencement: Reg. 59 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)

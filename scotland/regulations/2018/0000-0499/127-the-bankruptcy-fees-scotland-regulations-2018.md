@@ -65,7 +65,7 @@ In these Regulations, unless the context otherwise requires—
 - “**bankruptcy restrictions order**” has the meaning given by section 155(1) of the Act;
 - “**debtor's contribution**” has the meaning given by section 89(1) of the Act;
 - “**expenses of realisation**” means any outlays incurred by the trustee in realising the debtor's estate which in the course of normal business practice are deducted from the price payable to the trustee;
-- [^key-7cb6386d1eb52365773f0e1d67d13a75]...
+- [^c-7cb6386d1eb52365773f0e1d67d13a75]...
 - “**table of fees**” means the Table of Fees in the schedule;
 - “**statutory fee**” means any fee payable under an enactment;
 - “**the statutory meeting**” has the meaning given by section 43 of the Act;
@@ -111,7 +111,7 @@ The fees payable to AiB in respect of the exercise of that office's functions, o
 
 A fee payable under regulation 6 is payable even although it is payable by or on behalf of AiB in the exercise of that office's functions as interim trustee or trustee in a sequestration.
 
-## 7A. Exemption from bankruptcy application fees for debtors in receipt of certain benefits[^key-06c8e3d665d2206a9f2333bd660a195f]
+## 7A. Exemption from bankruptcy application fees for debtors in receipt of certain benefits[^c-06c8e3d665d2206a9f2333bd660a195f]
 
 Despite item 22 in Part 2 of the table of fees, no fee is payable to AiB under that item for the determination of a debtor application—
 
@@ -129,7 +129,7 @@ Despite item 22 in Part 2 of the table of fees, no fee is payable to AiB under t
   and that the gross annual income taken into account for the calculation of the working tax credit is £18,000 or less, or
 - (c) in relation to a debtor who, within the period of 3 months prior to the date of making the application, received financial or other assistance under the Welfare Funds (Scotland) Act 2015.
 
-## 7B. Exemption from bankruptcy application fees for debtors assessed as having no surplus income[^key-03d54506f41b11eef53392c3046e959c]
+## 7B. Exemption from bankruptcy application fees for debtors assessed as having no surplus income[^c-03d54506f41b11eef53392c3046e959c]
 
 Despite item 22 in Part 2 of the table of fees, no fee is payable to AiB under that item for the determination of a debtor application in relation to a debtor who, at the date of making the application, is assessed by the common financial tool as having no surplus income.
 
@@ -170,7 +170,7 @@ A fee payable to AiB in respect of a function specified in Part 2 of the table o
 - (a) regulation 8(b)(ii) (protected trust deed final supervision period) if the debtor who granted the protected trust deed failed to meet the debtor's obligations for the purposes of section 184(2)(a) of the Act;
 - (b) regulation 8(e)(ii) (minimal asset process ceasing to apply), unless the debtor provided false or misleading information in the debtor application.
 
-**10A.**[^key-d56833bb55f14defaea68d4fe5aaeeea] No fee is payable to AiB under these Regulations where AiB becomes the trustee in a protected trust deed by virtue of section 186A of the Act.
+**10A.**[^c-d56833bb55f14defaea68d4fe5aaeeea] No fee is payable to AiB under these Regulations where AiB becomes the trustee in a protected trust deed by virtue of section 186A of the Act.
 
 ## 11. Repayment of fees - refusal of bankruptcy restrictions order
 
@@ -279,7 +279,7 @@ Regulations 3 and 6
 </tbody>
 </table>
 
-[^key-67784d688b2562a6e490d6413ef0ba34][^key-079ae30cfae8bde3228f84210917f8d1][^key-4527d2d12e617153c9d6af1c690255ff][^key-44404807ec071ee904b7271cbff95987][^key-44404807ec071ee904b7271cbff95987][^key-44404807ec071ee904b7271cbff95987][^key-a0045dd08645fa33a99e7d5f924d57e3][^c22963531][^key-0d2bf1fea7653e7a52cfcdecfa04a125][^key-9362581289208139e81433f8f732c756]
+[^c-67784d688b2562a6e490d6413ef0ba34][^c-079ae30cfae8bde3228f84210917f8d1][^c-4527d2d12e617153c9d6af1c690255ff][^c-44404807ec071ee904b7271cbff95987][^c-44404807ec071ee904b7271cbff95987][^c-44404807ec071ee904b7271cbff95987][^c-a0045dd08645fa33a99e7d5f924d57e3][^c22963531][^c-0d2bf1fea7653e7a52cfcdecfa04a125][^c-9362581289208139e81433f8f732c756]
 
 *(This note is not part of the Regulations)*
 
@@ -303,30 +303,30 @@ A Business and Regulatory Impact Assessment has been prepared for these Regulati
 
 [^c22963491]: Marginal citation: [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21) (“**the 2016 Act**”). Section 228(2) of the 2016 Act contains a definition of “prescribed” relevant to the exercise of the powers under which these Regulations are made.
 
-[^key-7cb6386d1eb52365773f0e1d67d13a75]: Textual amendment: Words in reg. 2 omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2019/94/regulation/5/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7cb6386d1eb52365773f0e1d67d13a75]: Textual amendment: Words in reg. 2 omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2019/94/regulation/5/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-06c8e3d665d2206a9f2333bd660a195f]: Textual amendment: Reg. 7A inserted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2021/148/regulation/9/2) (with [reg. 3(d)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/d))
+[^c-06c8e3d665d2206a9f2333bd660a195f]: Textual amendment: Reg. 7A inserted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2021/148/regulation/9/2) (with [reg. 3(d)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/d))
 
-[^key-03d54506f41b11eef53392c3046e959c]: Textual amendment: Reg. 7B inserted (6.2.2023) by [The Bankruptcy and Debt Arrangement Scheme (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/9)](https://www.legislation.gov.uk/ssi/2023/9), [regs. 1](https://www.legislation.gov.uk/ssi/2023/9/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/2) (with [reg. 4(4)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/4))
+[^c-03d54506f41b11eef53392c3046e959c]: Textual amendment: Reg. 7B inserted (6.2.2023) by [The Bankruptcy and Debt Arrangement Scheme (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/9)](https://www.legislation.gov.uk/ssi/2023/9), [regs. 1](https://www.legislation.gov.uk/ssi/2023/9/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/2) (with [reg. 4(4)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/4))
 
-[^key-d56833bb55f14defaea68d4fe5aaeeea]: Textual amendment: Reg. 10A inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2024/198/regulation/8/2)
+[^c-d56833bb55f14defaea68d4fe5aaeeea]: Textual amendment: Reg. 10A inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2024/198/regulation/8/2)
 
 [^c22963511]: Marginal citation: [S.S.I. 2014/227](https://www.legislation.gov.uk/ssi/2014/227), as amended by [S.S.I. 2015/80](https://www.legislation.gov.uk/ssi/2015/80). [S.S.I. 2014/227](https://www.legislation.gov.uk/ssi/2014/227) was prospectively revoked by [S.S.I. 2017/37](https://www.legislation.gov.uk/ssi/2017/37), but that revocation did not take effect by virtue of [S.S.I. 2017/97](https://www.legislation.gov.uk/ssi/2017/97).
 
 [^c22963521]: Marginal citation: [S.S.I. 2015/80](https://www.legislation.gov.uk/ssi/2015/80).
 
-[^key-67784d688b2562a6e490d6413ef0ba34]: Textual amendment: Sum in sch. Pt. 2 substituted (6.2.2023) by [The Bankruptcy and Debt Arrangement Scheme (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/9)](https://www.legislation.gov.uk/ssi/2023/9), [regs. 1](https://www.legislation.gov.uk/ssi/2023/9/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/3/a) (with [reg. 4(4)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/4))
+[^c-67784d688b2562a6e490d6413ef0ba34]: Textual amendment: Sum in sch. Pt. 2 substituted (6.2.2023) by [The Bankruptcy and Debt Arrangement Scheme (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/9)](https://www.legislation.gov.uk/ssi/2023/9), [regs. 1](https://www.legislation.gov.uk/ssi/2023/9/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/3/a) (with [reg. 4(4)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/4))
 
-[^key-079ae30cfae8bde3228f84210917f8d1]: Textual amendment: Sum in sch. Pt. 2 substituted (6.2.2023) by [The Bankruptcy and Debt Arrangement Scheme (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/9)](https://www.legislation.gov.uk/ssi/2023/9), [regs. 1](https://www.legislation.gov.uk/ssi/2023/9/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/3/b) (with [reg. 4(4)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/4))
+[^c-079ae30cfae8bde3228f84210917f8d1]: Textual amendment: Sum in sch. Pt. 2 substituted (6.2.2023) by [The Bankruptcy and Debt Arrangement Scheme (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/9)](https://www.legislation.gov.uk/ssi/2023/9), [regs. 1](https://www.legislation.gov.uk/ssi/2023/9/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/3/b) (with [reg. 4(4)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/4))
 
-[^key-4527d2d12e617153c9d6af1c690255ff]: Textual amendment: Sum in sch. Pt. 2 substituted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [8(3)](https://www.legislation.gov.uk/ssi/2024/198/regulation/8/3) (with [reg. 8(4)](https://www.legislation.gov.uk/ssi/2024/198/regulation/8/4))
+[^c-4527d2d12e617153c9d6af1c690255ff]: Textual amendment: Sum in sch. Pt. 2 substituted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [8(3)](https://www.legislation.gov.uk/ssi/2024/198/regulation/8/3) (with [reg. 8(4)](https://www.legislation.gov.uk/ssi/2024/198/regulation/8/4))
 
-[^key-44404807ec071ee904b7271cbff95987]: Textual amendment: Sch. Pt. 2 item 21 omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2019/94/regulation/5/3) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-44404807ec071ee904b7271cbff95987]: Textual amendment: Sch. Pt. 2 item 21 omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2019/94/regulation/5/3) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a0045dd08645fa33a99e7d5f924d57e3]: Textual amendment: Words in sch. Pt. 2 substituted (6.2.2023) by [The Bankruptcy and Debt Arrangement Scheme (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/9)](https://www.legislation.gov.uk/ssi/2023/9), [regs. 1](https://www.legislation.gov.uk/ssi/2023/9/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/3/c) (with [reg. 4(4)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/4))
+[^c-a0045dd08645fa33a99e7d5f924d57e3]: Textual amendment: Words in sch. Pt. 2 substituted (6.2.2023) by [The Bankruptcy and Debt Arrangement Scheme (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/9)](https://www.legislation.gov.uk/ssi/2023/9), [regs. 1](https://www.legislation.gov.uk/ssi/2023/9/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/3/c) (with [reg. 4(4)](https://www.legislation.gov.uk/ssi/2023/9/regulation/4/4))
 
 [^c22963531]: Marginal citation: Known as “minimal asset process” (or MAP) cases.
 
-[^key-0d2bf1fea7653e7a52cfcdecfa04a125]: Textual amendment: Sum in sch. Pt. 2 substituted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [9(3)(a)](https://www.legislation.gov.uk/ssi/2021/148/regulation/9/3/a) (with [reg. 3(d)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/d))
+[^c-0d2bf1fea7653e7a52cfcdecfa04a125]: Textual amendment: Sum in sch. Pt. 2 substituted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [9(3)(a)](https://www.legislation.gov.uk/ssi/2021/148/regulation/9/3/a) (with [reg. 3(d)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/d))
 
-[^key-9362581289208139e81433f8f732c756]: Textual amendment: Sum in sch. Pt. 2 substituted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [9(3)(b)](https://www.legislation.gov.uk/ssi/2021/148/regulation/9/3/b) (with [reg. 3(d)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/d))
+[^c-9362581289208139e81433f8f732c756]: Textual amendment: Sum in sch. Pt. 2 substituted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [9(3)(b)](https://www.legislation.gov.uk/ssi/2021/148/regulation/9/3/b) (with [reg. 3(d)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/d))

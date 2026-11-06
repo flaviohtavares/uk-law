@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Disturbances at Scottish parliamentary election meetings[^key-fa22dade3194065b4e6ff76f3cd0aeae]
+## 68. Disturbances at Scottish parliamentary election meetings[^c-fa22dade3194065b4e6ff76f3cd0aeae]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ during the period beginning with the last day on which notice of election may be
 
 ## Annotations
 
-[^key-fa22dade3194065b4e6ff76f3cd0aeae]: Commencement: Art. 68 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-fa22dade3194065b4e6ff76f3cd0aeae]: Commencement: Art. 68 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

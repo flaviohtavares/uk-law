@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Amendment of regulation 119[^key-1c32318d4913d3e3c0d49809434e7941]
+## 59. Amendment of regulation 119[^c-1c32318d4913d3e3c0d49809434e7941]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 119(2)(b), after “reckonable service” insert “in any office 
 
 ## Annotations
 
-[^key-1c32318d4913d3e3c0d49809434e7941]: Commencement: Reg. 59 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-1c32318d4913d3e3c0d49809434e7941]: Commencement: Reg. 59 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

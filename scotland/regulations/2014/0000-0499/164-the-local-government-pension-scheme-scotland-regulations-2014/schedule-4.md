@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4 — Appropriate Funds[^key-356a63b3cc973a2309320da4a1d80054]
+## SCHEDULE 4 — Appropriate Funds[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Regulation 51(3)
 
-### PART 1[^key-356a63b3cc973a2309320da4a1d80054]
+### PART 1[^c-356a63b3cc973a2309320da4a1d80054]
 
-**1.**[^key-356a63b3cc973a2309320da4a1d80054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-356a63b3cc973a2309320da4a1d80054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-356a63b3cc973a2309320da4a1d80054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-356a63b3cc973a2309320da4a1d80054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-356a63b3cc973a2309320da4a1d80054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-356a63b3cc973a2309320da4a1d80054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-356a63b3cc973a2309320da4a1d80054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-356a63b3cc973a2309320da4a1d80054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-356a63b3cc973a2309320da4a1d80054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-356a63b3cc973a2309320da4a1d80054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-356a63b3cc973a2309320da4a1d80054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-356a63b3cc973a2309320da4a1d80054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### TABLE[^key-356a63b3cc973a2309320da4a1d80054]
+#### TABLE[^c-356a63b3cc973a2309320da4a1d80054]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Miscellaneous Authorities[^key-356a63b3cc973a2309320da4a1d80054]
+### PART 2 — Miscellaneous Authorities[^c-356a63b3cc973a2309320da4a1d80054]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-356a63b3cc973a2309320da4a1d80054]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/164) revoked (1.6.2018) by [The Local Government Pension Scheme (Scotland) Regulations 2018 (S.S.I. 2018/141)](https://www.legislation.gov.uk/ssi/2018/141), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/141/regulation/1/1), [sch. 6 para. 1(a)](https://www.legislation.gov.uk/ssi/2018/141/schedule/6/paragraph/1/a)
+[^c-356a63b3cc973a2309320da4a1d80054]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/164) revoked (1.6.2018) by [The Local Government Pension Scheme (Scotland) Regulations 2018 (S.S.I. 2018/141)](https://www.legislation.gov.uk/ssi/2018/141), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/141/regulation/1/1), [sch. 6 para. 1(a)](https://www.legislation.gov.uk/ssi/2018/141/schedule/6/paragraph/1/a)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

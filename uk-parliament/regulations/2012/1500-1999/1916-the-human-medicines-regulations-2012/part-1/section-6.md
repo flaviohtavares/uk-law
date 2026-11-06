@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The licensing authority is responsible for the grant, renewal, variation, suspension and revocation of licences, authorisations, certificates , designations, opinions[^key-e9922383a446d7280d6dd6124bdcf12b] and registrations under these Regulations.
+(1) The licensing authority is responsible for the grant, renewal, variation, suspension and revocation of licences, authorisations, certificates , designations, opinions[^c-e9922383a446d7280d6dd6124bdcf12b] and registrations under these Regulations.
 
 (2) In these Regulations “**the licensing authority**” means either or both of the Ministers.
 
@@ -49,4 +49,4 @@ may be exercised by either of the Ministers acting alone or by both of them acti
 
 ## Annotations
 
-[^key-e9922383a446d7280d6dd6124bdcf12b]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/6/1) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2022/352/regulation/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))
+[^c-e9922383a446d7280d6dd6124bdcf12b]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/6/1) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2022/352/regulation/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))

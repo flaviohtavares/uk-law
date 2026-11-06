@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92. Rounding of fractions[^key-17421bb96644c7cb75224d51badbff85]
+## 92. Rounding of fractions[^c-17421bb96644c7cb75224d51badbff85]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Where any calculation under this Part results in a fraction of a penny that frac
 
 ## Annotations
 
-[^key-17421bb96644c7cb75224d51badbff85]: Commencement: Reg. 92 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-17421bb96644c7cb75224d51badbff85]: Commencement: Reg. 92 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

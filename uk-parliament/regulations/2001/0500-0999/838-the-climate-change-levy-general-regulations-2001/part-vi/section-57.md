@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Representatives: death, incapacity or insolvency[^key-ed2913ce05947b95261a541ffdb66bd7]
+## 57. Representatives: death, incapacity or insolvency[^c-ed2913ce05947b95261a541ffdb66bd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed2913ce05947b95261a541ffdb66bd7]: Commencement: Reg. 57 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-ed2913ce05947b95261a541ffdb66bd7]: Commencement: Reg. 57 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

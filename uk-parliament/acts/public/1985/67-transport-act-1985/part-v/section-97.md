@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Compulsory participation in travel concession schemes.[^c19482951][^c19472441][^c10881531][^key-7a9e5cde7b253da2b646069be3b2092e][^key-eba55380aaf2978907d4dc59f5bdd55a][^key-eba55380aaf2978907d4dc59f5bdd55a]
+## 97. Compulsory participation in travel concession schemes.[^c19482951][^c19472441][^c10881531][^c-7a9e5cde7b253da2b646069be3b2092e][^c-eba55380aaf2978907d4dc59f5bdd55a][^c-eba55380aaf2978907d4dc59f5bdd55a]
 
 *Extent: E+W+S*
 
@@ -60,7 +60,7 @@ as if the latter date were the appropriate commencement date for the purposes of
 - (a) by a Passenger Transport Executive; or
 - (b) by authorities responsible for administration of a scheme under section 93 of this Act who include such an Executive;
 
-shall require the consent of the Integrated Transport Authority or, as the case may be, *(Extent: E+W)*[^key-34dd799205d13021ceb22eb1187c1c2d] the Passenger Transport Authority for the Executive’s area.
+shall require the consent of the Integrated Transport Authority or, as the case may be, *(Extent: E+W)*[^c-34dd799205d13021ceb22eb1187c1c2d] the Passenger Transport Authority for the Executive’s area.
 
 ## Annotations
 
@@ -80,8 +80,8 @@ shall require the consent of the Integrated Transport Authority or, as the case 
 
     Ss. 93-102 applied (24.7.2001) by [S.I. 2001/3627](https://www.legislation.gov.uk/uksi/2001/3627), [art. 51](https://www.legislation.gov.uk/uksi/2001/3627/article/51)
 
-[^key-7a9e5cde7b253da2b646069be3b2092e]: Modification: Ss. 93-101: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4) (with [reg. 14(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/5))
+[^c-7a9e5cde7b253da2b646069be3b2092e]: Modification: Ss. 93-101: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4) (with [reg. 14(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/5))
 
-[^key-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
+[^c-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
 
-[^key-34dd799205d13021ceb22eb1187c1c2d]: Textual amendment: Words in s. 97(10) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 35](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/35); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-34dd799205d13021ceb22eb1187c1c2d]: Textual amendment: Words in s. 97(10) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 35](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/35); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

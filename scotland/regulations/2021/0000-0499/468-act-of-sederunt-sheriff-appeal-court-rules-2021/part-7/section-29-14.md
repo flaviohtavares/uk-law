@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29.14. Application to enter jury verdict[^key-4287a99d51c6d041c7c0421c660c0fd6]
+## 29.14. Application to enter jury verdict[^c-4287a99d51c6d041c7c0421c660c0fd6]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4287a99d51c6d041c7c0421c660c0fd6]: Commencement: Para. 29.14 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-4287a99d51c6d041c7c0421c660c0fd6]: Commencement: Para. 29.14 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

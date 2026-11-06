@@ -34,7 +34,7 @@ Extradition Act 2003
 
 \[20th November 2003\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b5a9bf6a886f0ba72ee2373c015f6938][^key-6252c4753671ec32f7ad8d43313e5d17][^key-7222b255c39da4b013dce82f46bb4d12][^key-5ad46afa485458d5cab186f335458258]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b5a9bf6a886f0ba72ee2373c015f6938][^c-6252c4753671ec32f7ad8d43313e5d17][^c-7222b255c39da4b013dce82f46bb4d12][^c-5ad46afa485458d5cab186f335458258]
 
 ## Contents
 
@@ -201,7 +201,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 73 — Provisional warrant](part-2/section-73.md)
 - [Section 74 — Person arrested under provisional warrant](part-2/section-74.md)
 
-#### Provisional arrest without warrant[^key-3e3433371f175fd0e21c66bf0eca6ec5]
+#### Provisional arrest without warrant[^c-3e3433371f175fd0e21c66bf0eca6ec5]
 
 - [Section 74A — Provisional arrest where certificate issued under section 74B](part-2/section-74a.md)
 - [Section 74B — Certificates enabling provisional arrest under section 74A](part-2/section-74b.md)
@@ -446,7 +446,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 188 — Re-extradition to category 1 territories](part-5/section-188.md)
 - [Section 189 — Re-extradition to category 2 territories](part-5/section-189.md)
 
-#### Non-UK extradition: transit through the United Kingdom[^key-7ddb265a619d075689e9deae39301a48]
+#### Non-UK extradition: transit through the United Kingdom[^c-7ddb265a619d075689e9deae39301a48]
 
 - [Section 189A — Facilitating transit through the United Kingdom](part-5/section-189a.md)
 - [Section 189B — Unscheduled arrival in the United Kingdom](part-5/section-189b.md)
@@ -543,13 +543,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 [^c2086619]: Modification: Act modified (1.1.2004) by [The Extradition Act 2003 (Multiple Offences) Order 2003 (S.I. 2003/3150)](https://www.legislation.gov.uk/uksi/2003/3150), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/3150/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3150/schedule)
 
-[^key-b5a9bf6a886f0ba72ee2373c015f6938]: Modification: Act extended (with modifications) (Overseas territories) (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/990/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2016/990/article/3/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2016/990/schedule/1), [3](https://www.legislation.gov.uk/uksi/2016/990/schedule/3)
+[^c-b5a9bf6a886f0ba72ee2373c015f6938]: Modification: Act extended (with modifications) (Overseas territories) (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/990/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2016/990/article/3/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2016/990/schedule/1), [3](https://www.legislation.gov.uk/uksi/2016/990/schedule/3)
 
-[^key-6252c4753671ec32f7ad8d43313e5d17]: Modification: Act extended (with modifications) (Overseas territories) (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/990/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/990/article/3/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2016/990/schedule/1), [4](https://www.legislation.gov.uk/uksi/2016/990/schedule/4)
+[^c-6252c4753671ec32f7ad8d43313e5d17]: Modification: Act extended (with modifications) (Overseas territories) (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/990/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/990/article/3/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2016/990/schedule/1), [4](https://www.legislation.gov.uk/uksi/2016/990/schedule/4)
 
-[^key-7222b255c39da4b013dce82f46bb4d12]: Modification: Act modified (16.3.2020) by [The Extradition Act 2003 (Amendments to Designations) Order 2020 (S.I. 2020/265)](https://www.legislation.gov.uk/uksi/2020/265), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/265/article/1/1), [3](https://www.legislation.gov.uk/uksi/2020/265/article/3)
+[^c-7222b255c39da4b013dce82f46bb4d12]: Modification: Act modified (16.3.2020) by [The Extradition Act 2003 (Amendments to Designations) Order 2020 (S.I. 2020/265)](https://www.legislation.gov.uk/uksi/2020/265), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/265/article/1/1), [3](https://www.legislation.gov.uk/uksi/2020/265/article/3)
 
-[^key-5ad46afa485458d5cab186f335458258]: Modification: Act applied (with modifications) (E.W.) (13.3.2024) by [The Crime and Courts Act 2013 (Application and Modification of the Extradition Act 2003) (England and Wales) Order 2024 (S.I. 2024/175)](https://www.legislation.gov.uk/uksi/2024/175), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/175/article/1/3), [3](https://www.legislation.gov.uk/uksi/2024/175/article/3)
+[^c-5ad46afa485458d5cab186f335458258]: Modification: Act applied (with modifications) (E.W.) (13.3.2024) by [The Crime and Courts Act 2013 (Application and Modification of the Extradition Act 2003) (England and Wales) Order 2024 (S.I. 2024/175)](https://www.legislation.gov.uk/uksi/2024/175), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/175/article/1/3), [3](https://www.legislation.gov.uk/uksi/2024/175/article/3)
 
 [^c2086998]: Commencement: Act wholly in force at 1.1.2004, see [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221) and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
@@ -585,7 +585,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 [^c2087117]: Commencement: Act wholly in force at 1.1.2004, see [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221) and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
-[^key-3e3433371f175fd0e21c66bf0eca6ec5]: Textual amendment: Ss. 74A-74E and cross-heading inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/2) (with [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/6)); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-3e3433371f175fd0e21c66bf0eca6ec5]: Textual amendment: Ss. 74A-74E and cross-heading inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/2) (with [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/6)); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
 [^c2087122]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
@@ -637,7 +637,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 [^c2087264]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
-[^key-7ddb265a619d075689e9deae39301a48]: Textual amendment: Ss. 189A-189E and cross-heading inserted (1.5.2021) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 168](https://www.legislation.gov.uk/ukpga/2014/12/section/168), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2021/532](https://www.legislation.gov.uk/uksi/2021/532), [art. 3](https://www.legislation.gov.uk/uksi/2021/532/article/3)
+[^c-7ddb265a619d075689e9deae39301a48]: Textual amendment: Ss. 189A-189E and cross-heading inserted (1.5.2021) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 168](https://www.legislation.gov.uk/ukpga/2014/12/section/168), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2021/532](https://www.legislation.gov.uk/uksi/2021/532), [art. 3](https://www.legislation.gov.uk/uksi/2021/532/article/3)
 
 [^c2087269]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Complaints, matters and persons to which this Part applies[^key-c7d54bfe939bfe13d0151efdf9dc3d2e]
+## 9. Complaints, matters and persons to which this Part applies[^c-c7d54bfe939bfe13d0151efdf9dc3d2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,4 +97,4 @@ but where any person is acting on another’s behalf for the purposes of any com
 
 ## Annotations
 
-[^key-c7d54bfe939bfe13d0151efdf9dc3d2e]: Commencement: Reg. 9 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-c7d54bfe939bfe13d0151efdf9dc3d2e]: Commencement: Reg. 9 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

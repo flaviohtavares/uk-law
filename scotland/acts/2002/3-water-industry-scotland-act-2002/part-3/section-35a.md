@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35A. Charges for services arranged by licensed providers[^key-60c002dcf5f609198b485d2115d26523]
+## 35A. Charges for services arranged by licensed providers[^c-60c002dcf5f609198b485d2115d26523]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60c002dcf5f609198b485d2115d26523]: Textual amendment: S. 35A inserted (7.9.2006) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 21(5)](https://www.legislation.gov.uk/asp/2005/3/section/21/5), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-60c002dcf5f609198b485d2115d26523]: Textual amendment: S. 35A inserted (7.9.2006) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 21(5)](https://www.legislation.gov.uk/asp/2005/3/section/21/5), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Duty of officers to disclose pecuniary interest.[^key-12be8b44cf4598f98d36eb6e5fa9411d][^key-7f547dd5bcc172ad0212ef9b0397016c]
+## 46. Duty of officers to disclose pecuniary interest.[^c-12be8b44cf4598f98d36eb6e5fa9411d][^c-7f547dd5bcc172ad0212ef9b0397016c]
 
 *Extent: N.I.*
 
@@ -49,9 +49,9 @@ summary: ''
 
 ## Annotations
 
-[^key-12be8b44cf4598f98d36eb6e5fa9411d]: Modification: S. 46 applied (with modifications) (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2011/24/schedule/1/paragraph/20) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-12be8b44cf4598f98d36eb6e5fa9411d]: Modification: S. 46 applied (with modifications) (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2011/24/schedule/1/paragraph/20) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-7f547dd5bcc172ad0212ef9b0397016c]: Modification: S. 46 applied (with modifications) (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 2 para. 20](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/20) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-7f547dd5bcc172ad0212ef9b0397016c]: Modification: S. 46 applied (with modifications) (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 2 para. 20](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/20) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
 [^c16963161]: Textual amendment: [1965 c.13 (NI)](https://www.legislation.gov.uk/apni/1965/13), [1970 c.9 (NI)](https://www.legislation.gov.uk/apni/1970/9), [1981 NI 3](https://www.legislation.gov.uk/nisi/1981)
 

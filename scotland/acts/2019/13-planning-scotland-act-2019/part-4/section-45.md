@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Power to impose training requirements: planning authorities[^key-aa44d58a00a8e64302e5cc1bf5fc742f]
+## 45. Power to impose training requirements: planning authorities[^c-aa44d58a00a8e64302e5cc1bf5fc742f]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa44d58a00a8e64302e5cc1bf5fc742f]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2019/13/section/45) in force at 2.11.2026 for specified purposes by [S.S.I. 2026/280](https://www.legislation.gov.uk/ssi/2026/280), [reg. 2](https://www.legislation.gov.uk/ssi/2026/280/regulation/2)
+[^c-aa44d58a00a8e64302e5cc1bf5fc742f]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2019/13/section/45) in force at 2.11.2026 for specified purposes by [S.S.I. 2026/280](https://www.legislation.gov.uk/ssi/2026/280), [reg. 2](https://www.legislation.gov.uk/ssi/2026/280/regulation/2)

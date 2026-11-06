@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Notice by planning authority of applications for listed building consent[^key-260165a1c9fb8442f548f2fcca236558]
+## 52. Notice by planning authority of applications for listed building consent[^c-260165a1c9fb8442f548f2fcca236558]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-260165a1c9fb8442f548f2fcca236558]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2019/13/section/52) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
+[^c-260165a1c9fb8442f548f2fcca236558]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2019/13/section/52) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)

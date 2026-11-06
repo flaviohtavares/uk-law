@@ -37,206 +37,206 @@ setting out detailed rules for the implementation of Council Directive 2000/29/E
 
 (2014/917/EU) (repealed) (revoked)
 
-[^key-a3a742006c873f053e8f6cb76de07e6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3a742006c873f053e8f6cb76de07e6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Content of notifications[^key-a3a742006c873f053e8f6cb76de07e6a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Deadlines for submission of notifications[^key-a3a742006c873f053e8f6cb76de07e6a]
+## Article 1. Content of notifications[^c-a3a742006c873f053e8f6cb76de07e6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Addressees[^key-a3a742006c873f053e8f6cb76de07e6a]
+## Article 2. Deadlines for submission of notifications[^c-a3a742006c873f053e8f6cb76de07e6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 3. Addressees[^c-a3a742006c873f053e8f6cb76de07e6a]
 
-## ANNEX — CONTENT OF THE NOTIFICATIONS REFERRED TO IN ARTICLE 1[^key-a3a742006c873f053e8f6cb76de07e6a]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 1.
+[^c-a3a742006c873f053e8f6cb76de07e6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX — CONTENT OF THE NOTIFICATIONS REFERRED TO IN ARTICLE 1[^c-a3a742006c873f053e8f6cb76de07e6a]
+
+[^c-a3a742006c873f053e8f6cb76de07e6a] 1.
 
 General information on the notification
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 1.1.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 1.1.
 
 Title. Indication of the scientific name of the harmful organism concerned, location and whether it is first presence or not. The scientific name shall be one of the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 1.2.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 1.3.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 2.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 2.
 
 Information concerning the single authority and responsible persons.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 2.1.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 2.2.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 3.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 3.
 
 Location of presence of harmful organism.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 3.1.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 3.2.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 4.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 4.
 
 Information related to the reason of the notification, and the pest status of the area and the Member State concerned.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 4.1.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 4.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 4.2.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 4.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 4.3.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 4.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 4.4.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 4.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 5.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 5.
 
 Information relating to the finding, sampling, testing and confirmation of the harmful organism.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 5.1.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 5.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 5.2.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 5.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 5.3.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 5.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 5.4.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 5.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 5.5.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 5.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 5.6.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 5.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 6.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 6.
 
 Information related to the infested area, and the severity and source of the outbreak in that area.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 6.1.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 6.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 6.2.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 6.2.
 
 Characteristics of the infested area and its vicinity. Indication of one or more of the following options:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 6.3.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 6.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 6.4.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 6.4.
 
 Infested plant(s), plant product(s) and other object(s). Indication of the scientific name of the infested host plant(s).
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 6.5.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 6.5.
 
 Vectors present in the area. Where applicable, indication of one of the following options:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 6.6.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 6.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 6.7.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 6.7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 7.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 7.
 
 Official phytosanitary measures.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 7.1.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 7.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 7.2.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 7.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 7.3.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 7.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 7.4.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 7.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 7.5.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 7.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 7.6.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 7.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 8.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 9.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3a742006c873f053e8f6cb76de07e6a] 10.
+[^c-a3a742006c873f053e8f6cb76de07e6a] 10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a3a742006c873f053e8f6cb76de07e6a]: Textual amendment: Decision revoked (31.12.2020) by [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [79](https://www.legislation.gov.uk/ssi/2019/130/regulation/79), [88](https://www.legislation.gov.uk/ssi/2019/130/regulation/88); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a3a742006c873f053e8f6cb76de07e6a]: Textual amendment: Decision revoked (31.12.2020) by [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [79](https://www.legislation.gov.uk/ssi/2019/130/regulation/79), [88](https://www.legislation.gov.uk/ssi/2019/130/regulation/88); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

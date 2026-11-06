@@ -42,11 +42,11 @@ summary: ''
 >
 > (5) For the purposes of any enactment relating to the functions of a district planning authority, the functions of a district council by virtue of subsection (4) above shall be deemed to be conferred on them as a district planning authority and as if the district were the area for which they are such an authority.
 
-(2)[^key-50043366e2fa256496f2a15b474c6041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-50043366e2fa256496f2a15b474c6041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-50043366e2fa256496f2a15b474c6041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-50043366e2fa256496f2a15b474c6041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-50043366e2fa256496f2a15b474c6041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-50043366e2fa256496f2a15b474c6041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Before section 148 of that Act of 1990 (interpretation of provisions relating to purchase notices) there shall be inserted—
 
@@ -65,4 +65,4 @@ summary: ''
 
 [^c14539151]: Marginal citation: [1991 c. 34](https://www.legislation.gov.uk/ukpga/1991/34).
 
-[^key-50043366e2fa256496f2a15b474c6041]: Textual amendment: S. 67(2)-(4) repealed (6.8.2004 for specified purposes, 28.9.2004 for E. so far as not already in force, 15.10.2005 for W. so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 19(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/19/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)(k)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i/k), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2004/2202/schedule/1/part/1); [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)
+[^c-50043366e2fa256496f2a15b474c6041]: Textual amendment: S. 67(2)-(4) repealed (6.8.2004 for specified purposes, 28.9.2004 for E. so far as not already in force, 15.10.2005 for W. so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 19(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/19/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)(k)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i/k), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2004/2202/schedule/1/part/1); [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)

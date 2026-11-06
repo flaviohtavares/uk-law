@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Community transfer bodies that may request transfer of ownership of land[^key-c574c98eea4fa0e23e4e2ce99d959c3e]
+## 80. Community transfer bodies that may request transfer of ownership of land[^c-c574c98eea4fa0e23e4e2ce99d959c3e]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c574c98eea4fa0e23e4e2ce99d959c3e]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2015/6/section/80) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)
+[^c-c574c98eea4fa0e23e4e2ce99d959c3e]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2015/6/section/80) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)

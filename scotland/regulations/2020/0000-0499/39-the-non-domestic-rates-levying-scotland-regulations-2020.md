@@ -32,7 +32,7 @@ summary: ''
 
 Rating And Valuation
 
-The Non-Domestic Rates (Levying) (Scotland) Regulations 2020 (revoked)[^key-88c6ad3915df84b9f8a59c876162428d]
+The Non-Domestic Rates (Levying) (Scotland) Regulations 2020 (revoked)[^c-88c6ad3915df84b9f8a59c876162428d]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 1st April 2020
 
-[^key-88c6ad3915df84b9f8a59c876162428d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88c6ad3915df84b9f8a59c876162428d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-88c6ad3915df84b9f8a59c876162428d]
+## 1. Citation and commencement[^c-88c6ad3915df84b9f8a59c876162428d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-88c6ad3915df84b9f8a59c876162428d]
+## 2. Interpretation[^c-88c6ad3915df84b9f8a59c876162428d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amount payable as rates – lands and heritages with rateable value of £18,000 or less[^key-88c6ad3915df84b9f8a59c876162428d]
+## 3. Amount payable as rates – lands and heritages with rateable value of £18,000 or less[^c-88c6ad3915df84b9f8a59c876162428d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amount payable as rates – lands and heritages with rateable value exceeding £51,000, but not exceeding £95,000[^key-88c6ad3915df84b9f8a59c876162428d]
+## 4. Amount payable as rates – lands and heritages with rateable value exceeding £51,000, but not exceeding £95,000[^c-88c6ad3915df84b9f8a59c876162428d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amount payable as rates – lands and heritages with rateable value exceeding £95,000[^key-88c6ad3915df84b9f8a59c876162428d]
+## 5. Amount payable as rates – lands and heritages with rateable value exceeding £95,000[^c-88c6ad3915df84b9f8a59c876162428d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exemptions and discretionary reductions and remissions[^key-88c6ad3915df84b9f8a59c876162428d]
+## 6. Exemptions and discretionary reductions and remissions[^c-88c6ad3915df84b9f8a59c876162428d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation and saving[^key-88c6ad3915df84b9f8a59c876162428d]
+## 7. Revocation and saving[^c-88c6ad3915df84b9f8a59c876162428d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88c6ad3915df84b9f8a59c876162428d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88c6ad3915df84b9f8a59c876162428d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-88c6ad3915df84b9f8a59c876162428d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88c6ad3915df84b9f8a59c876162428d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-88c6ad3915df84b9f8a59c876162428d]: Textual amendment: Regulations revoked (1.4.2021) by The Non-[Domestic Rates (Levying and Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/65)](https://www.legislation.gov.uk/ssi/2021/65), [regs. 1](https://www.legislation.gov.uk/ssi/2021/65/regulation/1), [7(1)](https://www.legislation.gov.uk/ssi/2021/65/regulation/7/1) (with [reg. 7(2)](https://www.legislation.gov.uk/ssi/2021/65/regulation/7/2))
+[^c-88c6ad3915df84b9f8a59c876162428d]: Textual amendment: Regulations revoked (1.4.2021) by The Non-[Domestic Rates (Levying and Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/65)](https://www.legislation.gov.uk/ssi/2021/65), [regs. 1](https://www.legislation.gov.uk/ssi/2021/65/regulation/1), [7(1)](https://www.legislation.gov.uk/ssi/2021/65/regulation/7/1) (with [reg. 7(2)](https://www.legislation.gov.uk/ssi/2021/65/regulation/7/2))

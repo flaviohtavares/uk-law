@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 160. Consequential amendments[^key-f71e4da6c326b0a6b7a8f4d6bdc2b3f3]
+## 160. Consequential amendments[^c-f71e4da6c326b0a6b7a8f4d6bdc2b3f3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 3 (payments and pensions: minor and consequential amendments) has effec
 
 ## Annotations
 
-[^key-f71e4da6c326b0a6b7a8f4d6bdc2b3f3]: Commencement: S. 160 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(o)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/o)
+[^c-f71e4da6c326b0a6b7a8f4d6bdc2b3f3]: Commencement: S. 160 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(o)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/o)

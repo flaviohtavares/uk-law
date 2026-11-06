@@ -864,7 +864,7 @@ Section 88.
 
 (3) In subsection (1)(b)(ii) omit “or any amendment of the return”.
 
-**21.**[^key-d730cffb56fe834b6b4141d98eac68d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-d730cffb56fe834b6b4141d98eac68d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **22.** In section 29(7)(a)(ii) of the Taxes Management Act 1970 (assessment where loss of tax discovered), for “any return with respect to the partnership under section 12AA of this Act” substitute “ any partnership return with respect to the partnership ”.
 
@@ -910,9 +910,9 @@ Section 88.
 
 **26.** In section 42(6)(a) of the Taxes Management Act 1970 (procedure for making claims, etc.), for “return under section 12AA of this Act” substitute “ partnership return ”.
 
-**27.**[^key-cdd3fbedf4fd6eb6591be5763ce9bf16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-cdd3fbedf4fd6eb6591be5763ce9bf16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-57576fc4d8a1a679afdfb12b2a1df60d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-57576fc4d8a1a679afdfb12b2a1df60d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **29.** (1) Section 46D(2) of the Taxes Management Act 1970 (c. 9) (questions to be determined by Lands Tribunal: appeals to which the section applies) is amended as follows.
 
@@ -997,7 +997,7 @@ Section 88.
 
 .
 
-**32.**[^key-9b7ff54f3ca6e9bc4fc52853a9ac5918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-9b7ff54f3ca6e9bc4fc52853a9ac5918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **33.** (1) Section 118(1) of the Taxes Management Act 1970 (interpretation) is amended as follows.
 
@@ -1025,11 +1025,11 @@ Section 88.
 
 (5) In paragraph 8(2) (giving effect to amendments of partnership claim) for “of a claim being amended under paragraph 7(2) or (3)” substitute “ after the date of issue of a closure notice amending a partnership claim under paragraph 7(2) ”.
 
-#### 35. Consequential amendments of other enactments[^key-000be619854f35249cb0a94c8f811747]
+#### 35. Consequential amendments of other enactments[^c-000be619854f35249cb0a94c8f811747]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-d5fd67b85ce9401b2121ae7491da4159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-d5fd67b85ce9401b2121ae7491da4159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **37.** (1) In Schedule 22 to the Finance Act 1995 (c. 4) (prevention of exploitation of self-assessment transitional provisions), Part 3 (procedural and other provisions) is amended as follows.
 
@@ -1060,13 +1060,13 @@ Section 88.
 
   .
 
-**38.** (1)[^key-5173cfab37caf8d9c8d73ffc807dca41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.** (1)[^c-5173cfab37caf8d9c8d73ffc807dca41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-5173cfab37caf8d9c8d73ffc807dca41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5173cfab37caf8d9c8d73ffc807dca41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-5173cfab37caf8d9c8d73ffc807dca41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5173cfab37caf8d9c8d73ffc807dca41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-971d09b26c16450181284fb4c5d3a177] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-971d09b26c16450181284fb4c5d3a177] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **39.** In section 12(5) of the Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2) (application of section 31(5A) to (5E) of the 1970 Act in relation to elections under section 12(4))—
 
@@ -1080,18 +1080,18 @@ Section 88.
 
 ## Annotations
 
-[^key-d730cffb56fe834b6b4141d98eac68d9]: Textual amendment: [Sch. 29 para. 21](https://www.legislation.gov.uk/ukpga/2001/9/schedule/29/paragraph/21) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 92(h)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/92/h) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2009/404/article/12))
+[^c-d730cffb56fe834b6b4141d98eac68d9]: Textual amendment: [Sch. 29 para. 21](https://www.legislation.gov.uk/ukpga/2001/9/schedule/29/paragraph/21) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 92(h)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/92/h) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2009/404/article/12))
 
-[^key-cdd3fbedf4fd6eb6591be5763ce9bf16]: Textual amendment: [Sch. 29 para. 27](https://www.legislation.gov.uk/ukpga/2001/9/schedule/29/paragraph/27) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 311](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/311)
+[^c-cdd3fbedf4fd6eb6591be5763ce9bf16]: Textual amendment: [Sch. 29 para. 27](https://www.legislation.gov.uk/ukpga/2001/9/schedule/29/paragraph/27) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 311](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/311)
 
-[^key-57576fc4d8a1a679afdfb12b2a1df60d]: Textual amendment: [Sch. 29 para. 28](https://www.legislation.gov.uk/ukpga/2001/9/schedule/29/paragraph/28) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 311](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/311)
+[^c-57576fc4d8a1a679afdfb12b2a1df60d]: Textual amendment: [Sch. 29 para. 28](https://www.legislation.gov.uk/ukpga/2001/9/schedule/29/paragraph/28) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 311](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/311)
 
-[^key-9b7ff54f3ca6e9bc4fc52853a9ac5918]: Textual amendment: [Sch. 29 para. 32](https://www.legislation.gov.uk/ukpga/2001/9/schedule/29/paragraph/32) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)
+[^c-9b7ff54f3ca6e9bc4fc52853a9ac5918]: Textual amendment: [Sch. 29 para. 32](https://www.legislation.gov.uk/ukpga/2001/9/schedule/29/paragraph/32) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)
 
-[^key-000be619854f35249cb0a94c8f811747]: Textual amendment: [Sch. 29 para. 35](https://www.legislation.gov.uk/ukpga/2001/9/schedule/29/paragraph/35) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-000be619854f35249cb0a94c8f811747]: Textual amendment: [Sch. 29 para. 35](https://www.legislation.gov.uk/ukpga/2001/9/schedule/29/paragraph/35) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-d5fd67b85ce9401b2121ae7491da4159]: Textual amendment: [Sch. 29 para. 36](https://www.legislation.gov.uk/ukpga/2001/9/schedule/29/paragraph/36) repealed (with effect in accordance with Sch. 11 Pt. 2(11) Note of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 2(11)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/2/11)
+[^c-d5fd67b85ce9401b2121ae7491da4159]: Textual amendment: [Sch. 29 para. 36](https://www.legislation.gov.uk/ukpga/2001/9/schedule/29/paragraph/36) repealed (with effect in accordance with Sch. 11 Pt. 2(11) Note of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 2(11)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/2/11)
 
-[^key-5173cfab37caf8d9c8d73ffc807dca41]: Textual amendment: Sch. 29 para. 38(1)-(3) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-5173cfab37caf8d9c8d73ffc807dca41]: Textual amendment: Sch. 29 para. 38(1)-(3) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-971d09b26c16450181284fb4c5d3a177]: Textual amendment: Sch. 29 para. 38(4) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 92(h)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/92/h) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2009/404/article/12))
+[^c-971d09b26c16450181284fb4c5d3a177]: Textual amendment: Sch. 29 para. 38(4) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 92(h)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/92/h) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2009/404/article/12))

@@ -42,10 +42,10 @@ and “employed” shall be construed accordingly.
 
 (6)[^c17620971] This Article has effect subject to Articles 67K and 70B(3); and for the purposes of Part XV so far as relating to Part VA or Article 70B, “worker”, “worker's contract” and, in relation to a worker, “employer”, “employment” and “employed” have the extended meaning given by Article 67K.
 
-(7)[^key-f66b69f32f8eb71707e817ee4fa61711] This Article has effect subject to Article 107M(3) and (5).
+(7)[^c-f66b69f32f8eb71707e817ee4fa61711] This Article has effect subject to Article 107M(3) and (5).
 
 ## Annotations
 
 [^c17620971]: Textual amendment: [1998 NI 17](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-f66b69f32f8eb71707e817ee4fa61711]: Textual amendment: [Art. 3(7)](https://www.legislation.gov.uk/nisi/1996/1919/article/3/7) added (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/3); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)
+[^c-f66b69f32f8eb71707e817ee4fa61711]: Textual amendment: [Art. 3(7)](https://www.legislation.gov.uk/nisi/1996/1919/article/3/7) added (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/3); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)

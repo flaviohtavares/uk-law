@@ -33,7 +33,7 @@ Scotland Act 1998
 
 \[19th November 1998\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-16d4666e9aa58a8e6a4aa83fc08a6297][^key-7ae90c8eaf8f572cf59cb1c3ff73fe85][^key-bba06185caf3261df9f9e0cb34e69488][^key-835abcb981977de1908529b07cfb8983][^key-907785e7c963ba1650c036d63a4595cc][^key-debf7427ef7dd80000c8e9ce09131217][^key-1d5522f715c13729e1ce968fd337d6cf][^key-d930018a93a12629b63bb62ac411f337][^key-605e1a0268d8c8b4657bd90667a276bd]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-16d4666e9aa58a8e6a4aa83fc08a6297][^c-7ae90c8eaf8f572cf59cb1c3ff73fe85][^c-bba06185caf3261df9f9e0cb34e69488][^c-835abcb981977de1908529b07cfb8983][^c-907785e7c963ba1650c036d63a4595cc][^c-debf7427ef7dd80000c8e9ce09131217][^c-1d5522f715c13729e1ce968fd337d6cf][^c-d930018a93a12629b63bb62ac411f337][^c-605e1a0268d8c8b4657bd90667a276bd]
 
 ## Contents
 
@@ -179,7 +179,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 63 — Power to transfer functions.](part-ii/section-63.md)
 
-### PART 2A — Permanence of the Scottish Parliament and Scottish Government[^key-fe59fc8c3c0229901f4e92a596a3a300]
+### PART 2A — Permanence of the Scottish Parliament and Scottish Government[^c-fe59fc8c3c0229901f4e92a596a3a300]
 
 - [Section 63A — Permanence of the Scottish Parliament and Scottish Government](part-2a/section-63a.md)
 
@@ -200,7 +200,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 71 — Existing debt.](part-iii/section-71.md)
 - [Section 72 — Accounts of loans to the Scottish Ministers.](part-iii/section-72.md)
 
-### Part IV — The tax-varying power[^key-bf2244ff44e549698edab8d73a640e2f]
+### Part IV — The tax-varying power[^c-bf2244ff44e549698edab8d73a640e2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -213,16 +213,16 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 79 — Supplemental powers to modify enactments.](part-iv/section-79.md)
 - [Section 80 — Reimbursement of expenses.](part-iv/section-80.md)
 
-### Part 4A — Taxation[^key-af17c17310905c28ed55bf5db3825706]
+### Part 4A — Taxation[^c-af17c17310905c28ed55bf5db3825706]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Introductory[^key-af17c17310905c28ed55bf5db3825706]
+#### CHAPTER 1 — Introductory[^c-af17c17310905c28ed55bf5db3825706]
 
 - [Section 80A — Overview of Part 4A](part-4a/section-80a.md)
 - [Section 80B — Power to add new devolved taxes](part-4a/section-80b.md)
 
-#### CHAPTER 2 — Income Tax[^key-fb9440768736e26e8b19301ef62c2a7f]
+#### CHAPTER 2 — Income Tax[^c-fb9440768736e26e8b19301ef62c2a7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -235,32 +235,32 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 80H — Reimbursement of expenses](part-4a/section-80h.md)
 - [Section 80HA — Report by the Comptroller and Auditor General](part-4a/section-80ha.md)
 
-#### CHAPTER 3 — Tax on transactions involving interests in land[^key-98cf41752df8bd0499aa342b2ccf7ef3]
+#### CHAPTER 3 — Tax on transactions involving interests in land[^c-98cf41752df8bd0499aa342b2ccf7ef3]
 
 - [Section 80I — Tax on transactions involving interests in land](part-4a/section-80i.md)
 - [Section 80J — Certain transactions not taxable](part-4a/section-80j.md)
 
-#### CHAPTER 4 — Tax on disposals to landfill[^key-c742b7f034a4c4ae6f99bf4d493cd644]
+#### CHAPTER 4 — Tax on disposals to landfill[^c-c742b7f034a4c4ae6f99bf4d493cd644]
 
 - [Section 80K — Tax on disposals to landfill](part-4a/section-80k.md)
 
-#### CHAPTER 5 — Tax on carriage of passengers by air[^key-208b331801764bfe2ff13c8388fcce75]
+#### CHAPTER 5 — Tax on carriage of passengers by air[^c-208b331801764bfe2ff13c8388fcce75]
 
 - [Section 80L — Tax on carriage of passengers by air](part-4a/section-80l.md)
 
-#### CHAPTER 6 — Tax on commercial exploitation of aggregate[^key-330d0227f0b700786e4f2ac7f8fb9c16]
+#### CHAPTER 6 — Tax on commercial exploitation of aggregate[^c-330d0227f0b700786e4f2ac7f8fb9c16]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 80M — Tax on commercial exploitation of aggregate](part-4a/section-80m.md)
 
-#### CHAPTER 7 — Tax on Wild Fisheries[^key-2ced9b19dc8ce43fc1795fe3bf545b07]
+#### CHAPTER 7 — Tax on Wild Fisheries[^c-2ced9b19dc8ce43fc1795fe3bf545b07]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 80N — Tax on Wild Fisheries](part-4a/section-80n.md)
 
-#### CHAPTER 8 — TAX IN CONNECTION WITH BUILDING CONTROL APPROVAL ETC[^key-9aba30bb0f2165b944a7172a9413014f]
+#### CHAPTER 8 — TAX IN CONNECTION WITH BUILDING CONTROL APPROVAL ETC[^c-9aba30bb0f2165b944a7172a9413014f]
 
 - [Section 80O — Tax in connection with building control approval etc](part-4a/section-80o.md)
 
@@ -268,7 +268,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S+N.I.*
 
-#### Remuneration of members of the Parliament and Government[^key-b1c2d2ab0202c718c65006f0b714f001]
+#### Remuneration of members of the Parliament and Government[^c-b1c2d2ab0202c718c65006f0b714f001]
 
 - [Section 81 — Remuneration of members of the Parliament and Government.](part-v/section-81.md)
 - [Section 82 — Limits on salaries of members of the Parliament.](part-v/section-82.md)
@@ -294,15 +294,15 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 89 — Power to adapt etc. cross-border public authorities.](part-v/section-89.md)
 - [Section 90 — Power to transfer property of cross-border public authorities.](part-v/section-90.md)
 
-#### The BBC[^key-874a139bb9e27967e80975ca6fc4fba2]
+#### The BBC[^c-874a139bb9e27967e80975ca6fc4fba2]
 
 - [Section 90A — BBC Trust member for Scotland](part-v/section-90a.md)
 
-#### The Crown Estate[^key-314835923e358777c3fab0117beb94cf]
+#### The Crown Estate[^c-314835923e358777c3fab0117beb94cf]
 
 - [Section 90B — The Crown Estate](part-v/section-90b.md)
 
-#### Renewable electricity incentive schemes[^key-c447f463952ebd6e81e90585c6f05d5c]
+#### Renewable electricity incentive schemes[^c-c447f463952ebd6e81e90585c6f05d5c]
 
 - [Section 90C — Renewable electricity incentive schemes: consultation](part-v/section-90c.md)
 
@@ -442,48 +442,48 @@ SCHEDULES
 
 [^c20283831]: Modification: Act modified (1.10.2009) by [The Judiciary and Courts (Scotland) Act 2008 (Consequential Provisions and Modifications) Order 2009 (S.I. 2009/2231)](https://www.legislation.gov.uk/uksi/2009/2231), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/2231/article/1/2), [3](https://www.legislation.gov.uk/uksi/2009/2231/article/3); [S.S.I. 2009/318](https://www.legislation.gov.uk/ssi/2009/318), [art. 2](https://www.legislation.gov.uk/ssi/2009/318/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/318/schedule)
 
-[^key-16d4666e9aa58a8e6a4aa83fc08a6297]: Modification: Act modified (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/700/article/3/1)
+[^c-16d4666e9aa58a8e6a4aa83fc08a6297]: Modification: Act modified (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/700/article/3/1)
 
-[^key-7ae90c8eaf8f572cf59cb1c3ff73fe85]: Modification: Act modified (1.1.2015) by [The Revenue Scotland and Tax Powers Act 2014 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3294)](https://www.legislation.gov.uk/uksi/2014/3294), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/3294/article/3/1)
+[^c-7ae90c8eaf8f572cf59cb1c3ff73fe85]: Modification: Act modified (1.1.2015) by [The Revenue Scotland and Tax Powers Act 2014 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3294)](https://www.legislation.gov.uk/uksi/2014/3294), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/3294/article/3/1)
 
-[^key-bba06185caf3261df9f9e0cb34e69488]: Modification: Act modified (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential Provisions) Order 2015 (S.I. 2015/444)](https://www.legislation.gov.uk/uksi/2015/444), [art. 3(1)](https://www.legislation.gov.uk/uksi/2015/444/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/444/article/3/2))
+[^c-bba06185caf3261df9f9e0cb34e69488]: Modification: Act modified (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential Provisions) Order 2015 (S.I. 2015/444)](https://www.legislation.gov.uk/uksi/2015/444), [art. 3(1)](https://www.legislation.gov.uk/uksi/2015/444/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/444/article/3/2))
 
-[^key-835abcb981977de1908529b07cfb8983]: Modification: Act modified (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 46(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/46/1)[(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/46/3), 51(1)
+[^c-835abcb981977de1908529b07cfb8983]: Modification: Act modified (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 46(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/46/1)[(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/46/3), 51(1)
 
-[^key-907785e7c963ba1650c036d63a4595cc]: Modification: Act modified (5.9.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/32/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/32/2), [72(4)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/b); [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/i)
+[^c-907785e7c963ba1650c036d63a4595cc]: Modification: Act modified (5.9.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/32/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/32/2), [72(4)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/b); [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/i)
 
-[^key-debf7427ef7dd80000c8e9ce09131217]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/46) modified (1.4.2017) by [The Scottish Fiscal Commission Act 2016 (Consequential Provisions and Modifications) Order 2017 (S.I. 2017/241)](https://www.legislation.gov.uk/uksi/2017/241), [art. 3](https://www.legislation.gov.uk/uksi/2017/241/article/3)
+[^c-debf7427ef7dd80000c8e9ce09131217]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/46) modified (1.4.2017) by [The Scottish Fiscal Commission Act 2016 (Consequential Provisions and Modifications) Order 2017 (S.I. 2017/241)](https://www.legislation.gov.uk/uksi/2017/241), [art. 3](https://www.legislation.gov.uk/uksi/2017/241/article/3)
 
-[^key-1d5522f715c13729e1ce968fd337d6cf]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/46) modified (18.5.2017 immediately after 2016 c. 11, ss. 3-8, 10-12 come into force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/9/1), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/g)[(2)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/2)
+[^c-1d5522f715c13729e1ce968fd337d6cf]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/46) modified (18.5.2017 immediately after 2016 c. 11, ss. 3-8, 10-12 come into force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/9/1), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/g)[(2)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/2)
 
-[^key-d930018a93a12629b63bb62ac411f337]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/46) modified (1.10.2021) by [The UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 (Consequential Provisions and Modifications) Order 2021 (S.I. 2021/760)](https://www.legislation.gov.uk/uksi/2021/760), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/760/article/1/2), [3](https://www.legislation.gov.uk/uksi/2021/760/article/3); [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [art. 2](https://www.legislation.gov.uk/ssi/2021/304/article/2)
+[^c-d930018a93a12629b63bb62ac411f337]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/46) modified (1.10.2021) by [The UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 (Consequential Provisions and Modifications) Order 2021 (S.I. 2021/760)](https://www.legislation.gov.uk/uksi/2021/760), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/760/article/1/2), [3](https://www.legislation.gov.uk/uksi/2021/760/article/3); [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [art. 2](https://www.legislation.gov.uk/ssi/2021/304/article/2)
 
-[^key-605e1a0268d8c8b4657bd90667a276bd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/46) modified (13.1.2022) by [The Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 (S.I. 2022/34)](https://www.legislation.gov.uk/uksi/2022/34), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/34/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/34/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/34/article/5))
+[^c-605e1a0268d8c8b4657bd90667a276bd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/46) modified (13.1.2022) by [The Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 (S.I. 2022/34)](https://www.legislation.gov.uk/uksi/2022/34), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/34/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/34/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/34/article/5))
 
-[^key-fe59fc8c3c0229901f4e92a596a3a300]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/ukpga/1998/46/part/2A) inserted (23.3.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 1](https://www.legislation.gov.uk/ukpga/2016/11/section/1), [72(1)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/1/a)
+[^c-fe59fc8c3c0229901f4e92a596a3a300]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/ukpga/1998/46/part/2A) inserted (23.3.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 1](https://www.legislation.gov.uk/ukpga/2016/11/section/1), [72(1)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/1/a)
 
-[^key-bf2244ff44e549698edab8d73a640e2f]: Textual amendment: Pt. IV omitted (1.7.2012 with effect in accordance with s. 44(3)(a) of the amending Act) ) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/25/2), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), [(3)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/a); [S.I. 2015/2000](https://www.legislation.gov.uk/uksi/2015/2000), [art. 2](https://www.legislation.gov.uk/uksi/2015/2000/article/2)
+[^c-bf2244ff44e549698edab8d73a640e2f]: Textual amendment: Pt. IV omitted (1.7.2012 with effect in accordance with s. 44(3)(a) of the amending Act) ) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/25/2), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), [(3)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/a); [S.I. 2015/2000](https://www.legislation.gov.uk/uksi/2015/2000), [art. 2](https://www.legislation.gov.uk/uksi/2015/2000/article/2)
 
-[^key-af17c17310905c28ed55bf5db3825706]: Textual amendment: Pt. 4A inserted (1.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/23/2), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)
+[^c-af17c17310905c28ed55bf5db3825706]: Textual amendment: Pt. 4A inserted (1.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/23/2), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)
 
-[^key-fb9440768736e26e8b19301ef62c2a7f]: Textual amendment: Pt. 4A Ch. 2 inserted (1.7.2012 with effect in accordance with s. 44(3)(a) of the amending Act) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/25/3), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), [(3)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/a); [S.I. 2015/2000](https://www.legislation.gov.uk/uksi/2015/2000), [art. 3](https://www.legislation.gov.uk/uksi/2015/2000/article/3)
+[^c-fb9440768736e26e8b19301ef62c2a7f]: Textual amendment: Pt. 4A Ch. 2 inserted (1.7.2012 with effect in accordance with s. 44(3)(a) of the amending Act) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/25/3), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), [(3)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/a); [S.I. 2015/2000](https://www.legislation.gov.uk/uksi/2015/2000), [art. 3](https://www.legislation.gov.uk/uksi/2015/2000/article/3)
 
-[^key-98cf41752df8bd0499aa342b2ccf7ef3]: Textual amendment: Pt. 4A Ch. 3 inserted (1.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 28](https://www.legislation.gov.uk/ukpga/2012/11/section/28), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), [44(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b) (with [s. 28(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/28/2))
+[^c-98cf41752df8bd0499aa342b2ccf7ef3]: Textual amendment: Pt. 4A Ch. 3 inserted (1.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 28](https://www.legislation.gov.uk/ukpga/2012/11/section/28), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), [44(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b) (with [s. 28(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/28/2))
 
-[^key-c742b7f034a4c4ae6f99bf4d493cd644]: Textual amendment: Pt. 4A Ch. 4 inserted (1.7.2012 with effect in accordance with [s. 44(3)(c)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/c) of the amending Act) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2012/11/section/30/1), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), (3)(c); [S.I. 2015/638](https://www.legislation.gov.uk/uksi/2015/638), [art 2](https://www.legislation.gov.uk/uksi/2015/638/article/2).
+[^c-c742b7f034a4c4ae6f99bf4d493cd644]: Textual amendment: Pt. 4A Ch. 4 inserted (1.7.2012 with effect in accordance with [s. 44(3)(c)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/c) of the amending Act) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2012/11/section/30/1), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), (3)(c); [S.I. 2015/638](https://www.legislation.gov.uk/uksi/2015/638), [art 2](https://www.legislation.gov.uk/uksi/2015/638/article/2).
 
-[^key-208b331801764bfe2ff13c8388fcce75]: Textual amendment: Pt. 4A Ch. 5 inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/17/1), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)
+[^c-208b331801764bfe2ff13c8388fcce75]: Textual amendment: Pt. 4A Ch. 5 inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/17/1), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)
 
-[^key-330d0227f0b700786e4f2ac7f8fb9c16]: Textual amendment: Pt. 4A Ch. 6 inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/18/1), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)
+[^c-330d0227f0b700786e4f2ac7f8fb9c16]: Textual amendment: Pt. 4A Ch. 6 inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/18/1), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)
 
-[^key-2ced9b19dc8ce43fc1795fe3bf545b07]: Textual amendment: Pt. 4A Ch. 7 inserted (9.2.2018) by [The Scotland Act 1998 (Specification of Devolved Tax) (Wild Fisheries) Order 2018 (S.I. 2018/177)](https://www.legislation.gov.uk/uksi/2018/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/177/article/1/2), [2](https://www.legislation.gov.uk/uksi/2018/177/article/2)
+[^c-2ced9b19dc8ce43fc1795fe3bf545b07]: Textual amendment: Pt. 4A Ch. 7 inserted (9.2.2018) by [The Scotland Act 1998 (Specification of Devolved Tax) (Wild Fisheries) Order 2018 (S.I. 2018/177)](https://www.legislation.gov.uk/uksi/2018/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/177/article/1/2), [2](https://www.legislation.gov.uk/uksi/2018/177/article/2)
 
-[^key-9aba30bb0f2165b944a7172a9413014f]: Textual amendment: [Pt. 4A Ch. 8](https://www.legislation.gov.uk/ukpga/1998/46/part/4A/chapter/8) inserted (19.12.2024) by [The Scotland Act 1998 (Specification of Devolved Tax) (Building Safety) Order 2024 (S.I. 2024/1362)](https://www.legislation.gov.uk/uksi/2024/1362), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1362/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/1362/article/2)
+[^c-9aba30bb0f2165b944a7172a9413014f]: Textual amendment: [Pt. 4A Ch. 8](https://www.legislation.gov.uk/ukpga/1998/46/part/4A/chapter/8) inserted (19.12.2024) by [The Scotland Act 1998 (Specification of Devolved Tax) (Building Safety) Order 2024 (S.I. 2024/1362)](https://www.legislation.gov.uk/uksi/2024/1362), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1362/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/1362/article/2)
 
-[^key-b1c2d2ab0202c718c65006f0b714f001]: Textual amendment: Pt. V: word in crossheading substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/b), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
+[^c-b1c2d2ab0202c718c65006f0b714f001]: Textual amendment: Pt. V: word in crossheading substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/b), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
 
-[^key-874a139bb9e27967e80975ca6fc4fba2]: Textual amendment: S. 90A and cross-heading inserted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 16](https://www.legislation.gov.uk/ukpga/2012/11/section/16), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/i)
+[^c-874a139bb9e27967e80975ca6fc4fba2]: Textual amendment: S. 90A and cross-heading inserted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 16](https://www.legislation.gov.uk/ukpga/2012/11/section/16), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/i)
 
-[^key-314835923e358777c3fab0117beb94cf]: Textual amendment: S. 90B and cross-heading inserted (23.3.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/36/1), [72(1)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/1/b)
+[^c-314835923e358777c3fab0117beb94cf]: Textual amendment: S. 90B and cross-heading inserted (23.3.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/36/1), [72(1)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/1/b)
 
-[^key-c447f463952ebd6e81e90585c6f05d5c]: Textual amendment: S. 90C and cross-heading inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 61](https://www.legislation.gov.uk/ukpga/2016/11/section/61), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
+[^c-c447f463952ebd6e81e90585c6f05d5c]: Textual amendment: S. 90C and cross-heading inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 61](https://www.legislation.gov.uk/ukpga/2016/11/section/61), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)

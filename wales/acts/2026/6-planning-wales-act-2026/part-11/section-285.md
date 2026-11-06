@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 285. Compensation where private means of access is stopped up[^key-b33f8ecf0be3845436b4674eea8bbfe7]
+## 285. Compensation where private means of access is stopped up[^c-b33f8ecf0be3845436b4674eea8bbfe7]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b33f8ecf0be3845436b4674eea8bbfe7]: Commencement: S. 285 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-b33f8ecf0be3845436b4674eea8bbfe7]: Commencement: S. 285 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

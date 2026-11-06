@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Remit to Land Court by sheriff or Court of Session[^key-5924de31515983b7c9c9d68024896616]
+## 86. Remit to Land Court by sheriff or Court of Session[^c-5924de31515983b7c9c9d68024896616]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5924de31515983b7c9c9d68024896616]: Commencement: S. 86 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-5924de31515983b7c9c9d68024896616]: Commencement: S. 86 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

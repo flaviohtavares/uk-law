@@ -42,17 +42,17 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 126(8)(b) of that Act, a draft of these Regulations was laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and interpretation[^key-23d95c3254a9d9ffb26cee9f63569e17]
+## 1. Citation, commencement and interpretation[^c-23d95c3254a9d9ffb26cee9f63569e17]
 
 (1) These Regulations may be cited as the Immigration (Provision of Physical Data) (Amendment) Regulations 2015 and come into force at the end of the period of 21 days beginning with the day on which they are made.
 
 (2) In these Regulations, “the 2006 Regulations” means the Immigration (Provision of Physical Data) Regulations 2006[^f00002].
 
-## 2. Amendments to the 2006 Regulations[^key-f7040c2866700b500216d6abccedc210]
+## 2. Amendments to the 2006 Regulations[^c-f7040c2866700b500216d6abccedc210]
 
 The 2006 Regulations are amended as follows.
 
-**3.**[^key-48ab1c95039cda0ee29e54be3d3744f2] In regulation 2—
+**3.**[^c-48ab1c95039cda0ee29e54be3d3744f2] In regulation 2—
 
 - (a) in the definition of “application”—
   - (i) in paragraph (a) after “clearance” insert “save for when the applicant is required to apply simultaneously for a biometric immigration document”;
@@ -74,9 +74,9 @@ The 2006 Regulations are amended as follows.
 
   .
 
-**4.**[^key-105cb8cef22641cfff1bf7f36faf38ab] In regulation 4(2)(c) for “regulation 6(2)” substitute “regulation 6”.
+**4.**[^c-105cb8cef22641cfff1bf7f36faf38ab] In regulation 4(2)(c) for “regulation 6(2)” substitute “regulation 6”.
 
-**5.**[^key-5abc7d896c4bde855e40003de1a80ac1] For regulation 6 (process by which the applicant’s fingerprints and photograph may be obtained and recorded) substitute—
+**5.**[^c-5abc7d896c4bde855e40003de1a80ac1] For regulation 6 (process by which the applicant’s fingerprints and photograph may be obtained and recorded) substitute—
 
 > **6. Process by which an individual’s fingerprints and photograph may be obtained and recorded**
 >
@@ -91,7 +91,7 @@ The 2006 Regulations are amended as follows.
 
 .
 
-**6.**[^key-be7ccf326696e3354ad3b6a044299863] After regulation 6 insert—
+**6.**[^c-be7ccf326696e3354ad3b6a044299863] After regulation 6 insert—
 
 > **6A. Documents recording biometric information**
 >
@@ -99,7 +99,7 @@ The 2006 Regulations are amended as follows.
 
 .
 
-**7.**[^key-25f4ffdb10e6455f34222c1c8ad1cd29] For regulations 8 to 10 (destruction of information) substitute—
+**7.**[^c-25f4ffdb10e6455f34222c1c8ad1cd29] For regulations 8 to 10 (destruction of information) substitute—
 
 > **8. Use and retention of biometric information**
 >
@@ -193,25 +193,25 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41); section 126 was amended by sections 8(3) and 14(3) of, paragraph 3 of Schedule 2 to, and paragraph 19 of Schedule 9 to, the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22). In particular, section 126(8A) was inserted by section 14(3) of the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22); this has the effect of section 8 of the UK Borders Act [2007 (c.30)](https://www.legislation.gov.uk/ukpga/2007/30) applying to biometric information provided in accordance with these Regulations.
 
-[^key-23d95c3254a9d9ffb26cee9f63569e17]: Commencement: Reg. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
+[^c-23d95c3254a9d9ffb26cee9f63569e17]: Commencement: Reg. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2006/1743](https://www.legislation.gov.uk/uksi/2006/1743). This was amended by [S.I. 2011/1779](https://www.legislation.gov.uk/uksi/2011/1779) but that instrument has expired.
 
-[^key-f7040c2866700b500216d6abccedc210]: Commencement: Reg. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
+[^c-f7040c2866700b500216d6abccedc210]: Commencement: Reg. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
 
-[^key-48ab1c95039cda0ee29e54be3d3744f2]: Commencement: Reg. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
+[^c-48ab1c95039cda0ee29e54be3d3744f2]: Commencement: Reg. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
 
 [^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), and by section 3(3) of, and Part 1 of Schedule 1 to, the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
 [^f00004]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-105cb8cef22641cfff1bf7f36faf38ab]: Commencement: Reg. 4 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
+[^c-105cb8cef22641cfff1bf7f36faf38ab]: Commencement: Reg. 4 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
 
-[^key-5abc7d896c4bde855e40003de1a80ac1]: Commencement: Reg. 5 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
+[^c-5abc7d896c4bde855e40003de1a80ac1]: Commencement: Reg. 5 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
 
-[^key-be7ccf326696e3354ad3b6a044299863]: Commencement: Reg. 6 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
+[^c-be7ccf326696e3354ad3b6a044299863]: Commencement: Reg. 6 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
 
-[^key-25f4ffdb10e6455f34222c1c8ad1cd29]: Commencement: Reg. 7 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
+[^c-25f4ffdb10e6455f34222c1c8ad1cd29]: Commencement: Reg. 7 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
 
 [^f00005]: Footnote: OJ No L 158, 30.04.2004, p77.
 

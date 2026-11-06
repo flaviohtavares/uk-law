@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.46. Notice to creditors[^key-3cd429780944af0d9d340d0898769129]
+## 2.46. Notice to creditors[^c-3cd429780944af0d9d340d0898769129]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ As soon as reasonably practicable after the conclusion of a meeting of creditors
 
 ## Annotations
 
-[^key-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
+[^c-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
 
 [^m00023]: Marginal citation: \[FORM 2.17\]

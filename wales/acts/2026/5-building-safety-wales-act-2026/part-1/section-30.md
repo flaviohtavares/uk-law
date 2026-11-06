@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Requirement for fire risk assessment to be made by competent person[^key-66f9a52a8a3273b2eacbddd1608c8cbd]
+## 30. Requirement for fire risk assessment to be made by competent person[^c-66f9a52a8a3273b2eacbddd1608c8cbd]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66f9a52a8a3273b2eacbddd1608c8cbd]: Commencement: S. 30 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-66f9a52a8a3273b2eacbddd1608c8cbd]: Commencement: S. 30 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Removal of community governors[^key-85df709aa1324543fe4a2e0e65f92aed]
+## 28. Removal of community governors[^c-85df709aa1324543fe4a2e0e65f92aed]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The governing body may remove any community governor (except an additional commu
 
 ## Annotations
 
-[^key-85df709aa1324543fe4a2e0e65f92aed]: Commencement: Reg. 28 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-85df709aa1324543fe4a2e0e65f92aed]: Commencement: Reg. 28 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)

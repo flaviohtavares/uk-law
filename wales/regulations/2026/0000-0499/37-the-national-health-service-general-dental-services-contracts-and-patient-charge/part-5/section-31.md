@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Payments, charges and financial interests of the contractor[^key-17ef08cd5d4e63bc02f03fe71bde171e]
+## 31. Payments, charges and financial interests of the contractor[^c-17ef08cd5d4e63bc02f03fe71bde171e]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17ef08cd5d4e63bc02f03fe71bde171e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2026/37/regulation/31) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-17ef08cd5d4e63bc02f03fe71bde171e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2026/37/regulation/31) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, interpretation and commencement[^key-99eaad9ccb5cd9c0c501a1e15a2b9e8d]
+## 1. Citation, interpretation and commencement[^c-99eaad9ccb5cd9c0c501a1e15a2b9e8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99eaad9ccb5cd9c0c501a1e15a2b9e8d]: Commencement: Art. 1 in force at made date, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3/a)
+[^c-99eaad9ccb5cd9c0c501a1e15a2b9e8d]: Commencement: Art. 1 in force at made date, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3/a)
 
 [^f00002]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24); this Act is amended by the Dentists Act 1984 (Amendment) Order 2001 (S.I. [2001/3926](https://www.legislation.gov.uk/uksi/2001/3926)).

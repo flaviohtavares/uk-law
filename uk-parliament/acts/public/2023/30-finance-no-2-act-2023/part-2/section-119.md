@@ -32,9 +32,9 @@ summary: ''
 - (a) during which Parliament is dissolved or prorogued, or
 - (b) during which the House of Commons is adjourned for more than 4 days.
 
-(4)[^key-16e236f61d69af99c1b240922ad3a4dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-16e236f61d69af99c1b240922ad3a4dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) A statutory instrument containing regulations made under this Part, other than regulations in respect of which subsection (1) [^key-73822d15d7c52e1802159a47097b8c8d]... applies, is subject to annulment in pursuance of a resolution of the House of Commons.
+(5) A statutory instrument containing regulations made under this Part, other than regulations in respect of which subsection (1) [^c-73822d15d7c52e1802159a47097b8c8d]... applies, is subject to annulment in pursuance of a resolution of the House of Commons.
 
 (6) A statutory instrument containing regulations to which subsection (1) applies may also include regulations relating to alcohol duty under any other provision of the customs and excise Acts (including any provision of this Part) if the Parliamentary procedure applicable to a statutory instrument containing regulations under the other provision does not require House of Commons approval.
 
@@ -42,7 +42,7 @@ summary: ''
 
 (8) If—
 
-- (a) a statutory instrument contains regulations under any provision of this Part (other than regulations in respect of which subsection (1) [^key-394a1906f2535d9aa04afc6d9e3aac67]... applies) and regulations relating to alcohol duty under any other provision of the customs and excise Acts, and
+- (a) a statutory instrument contains regulations under any provision of this Part (other than regulations in respect of which subsection (1) [^c-394a1906f2535d9aa04afc6d9e3aac67]... applies) and regulations relating to alcohol duty under any other provision of the customs and excise Acts, and
 - (b) the Parliamentary procedure applicable to a statutory instrument containing provision under the other provision does not require House of Commons approval,
 
 the only Parliamentary procedure applicable to a statutory instrument mentioned in paragraph (a) is that given by this section.
@@ -55,8 +55,8 @@ the only Parliamentary procedure applicable to a statutory instrument mentioned 
 
 [^M_I_fdd3ffef-3509-4b10-aa9e-350f7f241f70]: Commencement: S. 119 in force at Royal Assent, see [s. 120(1)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/a)
 
-[^key-16e236f61d69af99c1b240922ad3a4dd]: Textual amendment: S. 119(4) omitted (1.5.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/2/d/i)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
+[^c-16e236f61d69af99c1b240922ad3a4dd]: Textual amendment: S. 119(4) omitted (1.5.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/2/d/i)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
 
-[^key-73822d15d7c52e1802159a47097b8c8d]: Textual amendment: Words in s. 119(5) omitted (1.5.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/2/d/ii)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
+[^c-73822d15d7c52e1802159a47097b8c8d]: Textual amendment: Words in s. 119(5) omitted (1.5.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/2/d/ii)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
 
-[^key-394a1906f2535d9aa04afc6d9e3aac67]: Textual amendment: Words in s. 119(8)(a) omitted (1.5.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/2/d/ii)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
+[^c-394a1906f2535d9aa04afc6d9e3aac67]: Textual amendment: Words in s. 119(8)(a) omitted (1.5.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/2/d/ii)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))

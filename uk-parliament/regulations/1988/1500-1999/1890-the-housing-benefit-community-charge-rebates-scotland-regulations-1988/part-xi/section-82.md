@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82. Meaning of overpayment[^key-b3bb389911752932c23c968fe6407796]
+## 82. Meaning of overpayment[^c-b3bb389911752932c23c968fe6407796]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In this Part “overpayment” means any amount which has been paid by way of ho
 
 ## Annotations
 
-[^key-b3bb389911752932c23c968fe6407796]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/1988/1890/regulation/82) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-b3bb389911752932c23c968fe6407796]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/1988/1890/regulation/82) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

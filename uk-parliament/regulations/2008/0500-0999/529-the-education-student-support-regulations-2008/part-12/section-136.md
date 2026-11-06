@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Assistance for part-time courses[^key-bdfc838f3386954c2da352386aa2422b]
+## 136. Assistance for part-time courses[^c-bdfc838f3386954c2da352386aa2422b]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdfc838f3386954c2da352386aa2422b]: Commencement: Reg. 136 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-bdfc838f3386954c2da352386aa2422b]: Commencement: Reg. 136 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

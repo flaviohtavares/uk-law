@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-d8e2fccfb97e2ae1d0d6a45330ef532f][^key-8d99e45ba2e95362d10f98755399a821] For the purposes of the law of England and Wales, “**charity**” means an institution which—
+(1)[^c-d8e2fccfb97e2ae1d0d6a45330ef532f][^c-8d99e45ba2e95362d10f98755399a821] For the purposes of the law of England and Wales, “**charity**” means an institution which—
 
 - (a) is established for charitable purposes only, and
 - (b) falls to be subject to the control of the High Court in the exercise of its jurisdiction with respect to charities.
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8e2fccfb97e2ae1d0d6a45330ef532f]: Modification: S. 1(1) restricted (1.4.2012) by [The Finance Act 2010, Schedule 6, Part 1 (Further Consequential and Incidental Provision etc) Order 2012 (S.I. 2012/735)](https://www.legislation.gov.uk/uksi/2012/735), [arts. 1](https://www.legislation.gov.uk/uksi/2012/735/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2012/735/article/5/1) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/735/article/2))
+[^c-d8e2fccfb97e2ae1d0d6a45330ef532f]: Modification: S. 1(1) restricted (1.4.2012) by [The Finance Act 2010, Schedule 6, Part 1 (Further Consequential and Incidental Provision etc) Order 2012 (S.I. 2012/735)](https://www.legislation.gov.uk/uksi/2012/735), [arts. 1](https://www.legislation.gov.uk/uksi/2012/735/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2012/735/article/5/1) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/735/article/2))
 
-[^key-8d99e45ba2e95362d10f98755399a821]: Modification: S. 1(1) restricted (1.4.2012) by [The Finance Act 2010, Schedule 6, Part 1 (Further Consequential and Incidental Provision etc) Order 2012 (S.I. 2012/735)](https://www.legislation.gov.uk/uksi/2012/735), [arts. 1](https://www.legislation.gov.uk/uksi/2012/735/article/1), [6(1)](https://www.legislation.gov.uk/uksi/2012/735/article/6/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/735/article/3))
+[^c-8d99e45ba2e95362d10f98755399a821]: Modification: S. 1(1) restricted (1.4.2012) by [The Finance Act 2010, Schedule 6, Part 1 (Further Consequential and Incidental Provision etc) Order 2012 (S.I. 2012/735)](https://www.legislation.gov.uk/uksi/2012/735), [arts. 1](https://www.legislation.gov.uk/uksi/2012/735/article/1), [6(1)](https://www.legislation.gov.uk/uksi/2012/735/article/6/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/735/article/3))

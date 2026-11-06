@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75A. Crown application[^key-303014d7ba2260019a71c5e136c6d2fb]
+## 75A. Crown application[^c-303014d7ba2260019a71c5e136c6d2fb]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-303014d7ba2260019a71c5e136c6d2fb]: Textual amendment: S. 75A inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 50(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/50/3), [145(4)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/4) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.S.I. 2026/125](https://www.legislation.gov.uk/ssi/2026/125), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2026/125/regulation/2/a)
+[^c-303014d7ba2260019a71c5e136c6d2fb]: Textual amendment: S. 75A inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 50(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/50/3), [145(4)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/4) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.S.I. 2026/125](https://www.legislation.gov.uk/ssi/2026/125), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2026/125/regulation/2/a)

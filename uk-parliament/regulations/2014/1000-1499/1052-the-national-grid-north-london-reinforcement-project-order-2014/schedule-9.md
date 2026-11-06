@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — LAND TO BE ACQUIRED COMPULSORILY[^key-71937d72ce50c8e8a19365a2b8e6359a]
+## SCHEDULE 9 — LAND TO BE ACQUIRED COMPULSORILY[^c-71937d72ce50c8e8a19365a2b8e6359a]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ Article 22
 
 ## Annotations
 
-[^key-71937d72ce50c8e8a19365a2b8e6359a]: Commencement: Sch. 9 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-71937d72ce50c8e8a19365a2b8e6359a]: Commencement: Sch. 9 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)

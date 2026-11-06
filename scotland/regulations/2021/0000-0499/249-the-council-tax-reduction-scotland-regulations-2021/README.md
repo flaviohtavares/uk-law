@@ -263,7 +263,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 *Extent: S*
 
-#### Review and appeal[^key-862f6d1864cacff0a2c978f135d42706]
+#### Review and appeal[^c-862f6d1864cacff0a2c978f135d42706]
 
 *Extent: S*
 
@@ -337,4 +337,4 @@ Part 10 makes consequential, transitional and savings provision, in particular t
 
 [^f00001]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 80 was amended by paragraph 176 of schedule 13 of the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39) and paragraph 7(3) of the schedule of [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-862f6d1864cacff0a2c978f135d42706]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/ssi/2021/249/part/9) heading substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Council Tax Reduction Review Panel) Regulations 2023 (S.S.I. 2023/46)](https://www.legislation.gov.uk/ssi/2023/46), [reg. 1](https://www.legislation.gov.uk/ssi/2023/46/regulation/1), [sch. 2 para. 2(3)](https://www.legislation.gov.uk/ssi/2023/46/schedule/2/paragraph/2/3) (with [sch. 1](https://www.legislation.gov.uk/ssi/2023/46/schedule/1))
+[^c-862f6d1864cacff0a2c978f135d42706]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/ssi/2021/249/part/9) heading substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Council Tax Reduction Review Panel) Regulations 2023 (S.S.I. 2023/46)](https://www.legislation.gov.uk/ssi/2023/46), [reg. 1](https://www.legislation.gov.uk/ssi/2023/46/regulation/1), [sch. 2 para. 2(3)](https://www.legislation.gov.uk/ssi/2023/46/schedule/2/paragraph/2/3) (with [sch. 1](https://www.legislation.gov.uk/ssi/2023/46/schedule/1))

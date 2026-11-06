@@ -53,7 +53,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 - (a) a package travel contract, or
 - (b) a linked travel arrangement,
 
-concluded before IP completion day[^key-57c44bf1da048b0047530d502aacac0e] .
+concluded before IP completion day[^c-57c44bf1da048b0047530d502aacac0e] .
 
 (3) In paragraph (2)—
 
@@ -70,7 +70,7 @@ In regulation 2 (interpretation)—
 
 - (a) in paragraph (1)—
   - (i) omit the definition of “the Directive”;
-  - (ii)[^key-a7cc92aea15efec8d495348a39074e14] in the definition of “travel service”, in paragraph (c)(iii), for “point (c) of Article 4(3) of Directive [2006/126/EC](https://www.legislation.gov.uk/eudr/2006/126) of the European Parliament and of the Council on driving licences”, substitute “ Part 1 of Schedule 2 (categories and sub-categories of vehicle for licensing purposes) to the Motor Vehicles (Driving Licences) Regulations 1999”;
+  - (ii)[^c-a7cc92aea15efec8d495348a39074e14] in the definition of “travel service”, in paragraph (c)(iii), for “point (c) of Article 4(3) of Directive [2006/126/EC](https://www.legislation.gov.uk/eudr/2006/126) of the European Parliament and of the Council on driving licences”, substitute “ Part 1 of Schedule 2 (categories and sub-categories of vehicle for licensing purposes) to the Motor Vehicles (Driving Licences) Regulations 1999”;
   - (iii) in the entry relating to “Union passenger rights legislation”, omit “Union” and reposition the definition so amended at the appropriate place;
 - (b) in paragraph (2), for the words from “point 5” to the end substitute “ regulation 4 of the Provision of Services Regulations 2009 [^c23491641] ”.
 
@@ -143,7 +143,7 @@ An impact assessment has not been prepared for this instrument as it has minimal
 
 [^c23501671]: Commencement: Reg. 1 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-57c44bf1da048b0047530d502aacac0e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2) substituted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/5/2)
+[^c-57c44bf1da048b0047530d502aacac0e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2) substituted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/5/2)
 
 [^c23491611]: Marginal citation: [S.I. 2018/634](https://www.legislation.gov.uk/uksi/2018/634).
 
@@ -151,7 +151,7 @@ An impact assessment has not been prepared for this instrument as it has minimal
 
 [^c23501691]: Commencement: Reg. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-a7cc92aea15efec8d495348a39074e14]: Textual amendment: Reg. 3(a)(ii) substituted (31.12.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 35(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/35/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-a7cc92aea15efec8d495348a39074e14]: Textual amendment: Reg. 3(a)(ii) substituted (31.12.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 35(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/35/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
 [^c23491641]: Marginal citation: [S.I. 2009/2999](https://www.legislation.gov.uk/uksi/2009/2999). In regulation 4, the definition of “establishment” was amended by [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).
 

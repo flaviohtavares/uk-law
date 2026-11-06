@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Licences for temporary experiments[^key-db6aa39a717f00c8d555f7292c7cd01e]
+## 22. Licences for temporary experiments[^c-db6aa39a717f00c8d555f7292c7cd01e]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db6aa39a717f00c8d555f7292c7cd01e]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2016/244/regulation/22) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(d)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/d)
+[^c-db6aa39a717f00c8d555f7292c7cd01e]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2016/244/regulation/22) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [3(d)](https://www.legislation.gov.uk/nisr/2020/319/regulation/3/d)

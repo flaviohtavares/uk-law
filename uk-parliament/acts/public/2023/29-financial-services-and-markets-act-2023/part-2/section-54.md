@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Cash access services[^key-d7f88ae4006bd823280827f71d7003d9]
+## 54. Cash access services[^c-d7f88ae4006bd823280827f71d7003d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 8 makes provision about the provision of cash deposit and withdrawal se
 
 ## Annotations
 
-[^key-d7f88ae4006bd823280827f71d7003d9]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2023/29/section/54) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
+[^c-d7f88ae4006bd823280827f71d7003d9]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2023/29/section/54) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)

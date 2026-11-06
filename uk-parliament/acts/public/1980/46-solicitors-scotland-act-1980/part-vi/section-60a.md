@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60A. Registered foreign lawyers[^key-545042bbc81363cf03ba66b3b6a475cf]
+## 60A. Registered foreign lawyers[^c-545042bbc81363cf03ba66b3b6a475cf]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (3) Section 34(2) and (3) apply to rules made under subsection (2) as they apply to rules made under that section.
 
-(4)[^key-d1673df465ee85e68c2014bba75f5eda] A foreign lawyer may apply to the Council to be registered as such for the purposes of—
+(4)[^c-d1673df465ee85e68c2014bba75f5eda] A foreign lawyer may apply to the Council to be registered as such for the purposes of—
 
 - (a) subsection (1); or
 - (b) having an interest in a licensed legal services provider as a solicitor investor within the meaning given by section 67(6) of the 2010 Act.
@@ -76,11 +76,11 @@ shall have effect with respect to registered foreign lawyers as it has effect wi
 
 ## Annotations
 
-[^key-545042bbc81363cf03ba66b3b6a475cf]: Textual amendment: [Ss. 60A](https://www.legislation.gov.uk/ukpga/1980/46/section/60A) heading substituted (2.7.2012) by [The Legal Services (Scotland) Act 2010 (Ancillary Provision) Regulations 2012 (S.S.I. 2012/212)](https://www.legislation.gov.uk/ssi/2012/212), [regs. 1](https://www.legislation.gov.uk/ssi/2012/212/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/212/regulation/2/3)
+[^c-545042bbc81363cf03ba66b3b6a475cf]: Textual amendment: [Ss. 60A](https://www.legislation.gov.uk/ukpga/1980/46/section/60A) heading substituted (2.7.2012) by [The Legal Services (Scotland) Act 2010 (Ancillary Provision) Regulations 2012 (S.S.I. 2012/212)](https://www.legislation.gov.uk/ssi/2012/212), [regs. 1](https://www.legislation.gov.uk/ssi/2012/212/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/212/regulation/2/3)
 
 [^c20646721]: Textual amendment: [S. 60A(2)(aa)](https://www.legislation.gov.uk/ukpga/1980/46/section/60A/2/aa) inserted (1.10.2004) by [The Solicitors (Scotland) Act 1980 (Foreign Lawyers and Multi-national Practices) Regulations 2004 (S.S.I. 2004/383)](https://www.legislation.gov.uk/ssi/2004/383), [reg. 11(a)](https://www.legislation.gov.uk/ssi/2004/383/regulation/11/a)
 
-[^key-d1673df465ee85e68c2014bba75f5eda]: Textual amendment: S. 60A(4)(4ZA) substituted for s. 60(4) (2.7.2012) by [The Legal Services (Scotland) Act 2010 (Ancillary Provision) Regulations 2012 (S.S.I. 2012/212)](https://www.legislation.gov.uk/ssi/2012/212), [regs. 1](https://www.legislation.gov.uk/ssi/2012/212/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/212/regulation/2/2)
+[^c-d1673df465ee85e68c2014bba75f5eda]: Textual amendment: S. 60A(4)(4ZA) substituted for s. 60(4) (2.7.2012) by [The Legal Services (Scotland) Act 2010 (Ancillary Provision) Regulations 2012 (S.S.I. 2012/212)](https://www.legislation.gov.uk/ssi/2012/212), [regs. 1](https://www.legislation.gov.uk/ssi/2012/212/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/212/regulation/2/2)
 
 [^c20646751]: Textual amendment: [S. 60A(4A)-(4G)](https://www.legislation.gov.uk/ukpga/1980/46/section/60A/4A) inserted (1.10.2004) by [The Solicitors (Scotland) Act 1980 (Foreign Lawyers and Multi-national Practices) Regulations 2004 (S.S.I. 2004/383)](https://www.legislation.gov.uk/ssi/2004/383), [reg. 11(b)](https://www.legislation.gov.uk/ssi/2004/383/regulation/11/b)
 

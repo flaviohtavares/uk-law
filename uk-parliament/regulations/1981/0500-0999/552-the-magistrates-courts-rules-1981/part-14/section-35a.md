@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35A. Application for sums under affiliation order to be paid to person having custody of child[^key-096c0741c08e2dd0ec313e27bd0ce20f]
+## 35A. Application for sums under affiliation order to be paid to person having custody of child[^c-096c0741c08e2dd0ec313e27bd0ce20f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-096c0741c08e2dd0ec313e27bd0ce20f]: Textual amendment: [Rule 35A](https://www.legislation.gov.uk/uksi/1981/552/rule/35A) omitted (1.4.1989) by virtue of [The Magistrates' Courts (Family Law Reform Act 1987) (Miscellaneous Amendments) Rules 1989 (S.I. 1989/384)](https://www.legislation.gov.uk/uksi/1989/384), [rule 1](https://www.legislation.gov.uk/uksi/1989/384/rule/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/1989/384/schedule/paragraph/15)
+[^c-096c0741c08e2dd0ec313e27bd0ce20f]: Textual amendment: [Rule 35A](https://www.legislation.gov.uk/uksi/1981/552/rule/35A) omitted (1.4.1989) by virtue of [The Magistrates' Courts (Family Law Reform Act 1987) (Miscellaneous Amendments) Rules 1989 (S.I. 1989/384)](https://www.legislation.gov.uk/uksi/1989/384), [rule 1](https://www.legislation.gov.uk/uksi/1989/384/rule/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/1989/384/schedule/paragraph/15)

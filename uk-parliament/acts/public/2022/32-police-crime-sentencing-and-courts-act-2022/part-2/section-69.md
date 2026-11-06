@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Section 67: supplementary[^key-fe9507502faa85499d74fc5d97bd6882][^key-2fc356b0e26d68502cc1bb098dcb2ae4]
+## 69. Section 67: supplementary[^c-fe9507502faa85499d74fc5d97bd6882][^c-2fc356b0e26d68502cc1bb098dcb2ae4]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe9507502faa85499d74fc5d97bd6882]: Commencement: S. 69 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-fe9507502faa85499d74fc5d97bd6882]: Commencement: S. 69 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-2fc356b0e26d68502cc1bb098dcb2ae4]: Commencement: S. 69 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)
+[^c-2fc356b0e26d68502cc1bb098dcb2ae4]: Commencement: S. 69 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)

@@ -44,9 +44,9 @@ An Act to protect the names, uniforms, and badges of associations incorporated b
 
   Provided that nothing in any such Order or in this Act shall deprive any bona fide national organisation of the right to use any designation, uniform or badge which at the time of the passing of this Act is in regular use by that organisation.
 
-(2)[^c587664][^key-4c97422046165db41ce59191962d53bb]
+(2)[^c587664][^c-4c97422046165db41ce59191962d53bb]
 
-- (i) An Order in Council under this section shall not be made unless notice of the application for an Order has been given in such manner and accompanied by such particulars as the Lord President of the Council[^key-d2c461387e5e241c16d2c914bfc47b99] may direct.
+- (i) An Order in Council under this section shall not be made unless notice of the application for an Order has been given in such manner and accompanied by such particulars as the Lord President of the Council[^c-d2c461387e5e241c16d2c914bfc47b99] may direct.
 - (ii) The Lord President of the Council shall consider any objections to an Order which are made by or on behalf of any persons or societies affected or likely to be affected by the Order.
 - (iii) An Order in Council under this section shall be laid as soon as may be before both Houses of Parliament, and if an address is presented to His Majesty by either House of Parliament within the next subsequent twenty-one days on which that House has sat next after any such Order is laid before it, praying that the Order may be annulled, His Majesty in Council may annul the Order, and it shall thenceforth be void, but without prejudice to the validity of anything previously done thereunder.
 - (iv) Any Order in Council under this Act may be amended or revoked by a subsequent Order in Council.
@@ -79,9 +79,9 @@ Nothing in this Act shall prevent the continued use of any mark or device which 
 
 [^c587664]: Modification: S. 1(2): functions of the Secretary of State for the Home Department transferred to the Lord Chancellor (26.11.2001) by [S.I. 2001/3500](https://www.legislation.gov.uk/uksi/2001/3500), [arts. 2](https://www.legislation.gov.uk/uksi/2001/3500/article/2), [3](https://www.legislation.gov.uk/uksi/2001/3500/article/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2001/3500/schedule/1/paragraph/6)
 
-[^key-4c97422046165db41ce59191962d53bb]: Modification: S. 1(2) transfer of functions (18.8.2010) by [Lord President of the Council Order 2010 (S.I. 2010/1837)](https://www.legislation.gov.uk/uksi/2010/1837), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/1837/article/4)
+[^c-4c97422046165db41ce59191962d53bb]: Modification: S. 1(2) transfer of functions (18.8.2010) by [Lord President of the Council Order 2010 (S.I. 2010/1837)](https://www.legislation.gov.uk/uksi/2010/1837), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/1837/article/4)
 
-[^key-d2c461387e5e241c16d2c914bfc47b99]: Textual amendment: Words in s. 1(2) substituted (18.8.2010) by [Lord President of the Council Order 2010 (S.I. 2010/1837)](https://www.legislation.gov.uk/uksi/2010/1837), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/1837/schedule/paragraph/1)
+[^c-d2c461387e5e241c16d2c914bfc47b99]: Textual amendment: Words in s. 1(2) substituted (18.8.2010) by [Lord President of the Council Order 2010 (S.I. 2010/1837)](https://www.legislation.gov.uk/uksi/2010/1837), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/1837/schedule/paragraph/1)
 
 [^c587667]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 

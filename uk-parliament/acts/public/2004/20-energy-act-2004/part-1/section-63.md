@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Supervision by Secretary of State[^key-297d71231cdb6ffd37fa3729f4e08922]
+## 63. Supervision by Secretary of State[^c-297d71231cdb6ffd37fa3729f4e08922]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-297d71231cdb6ffd37fa3729f4e08922]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2004/20/section/63) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-297d71231cdb6ffd37fa3729f4e08922]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2004/20/section/63) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)

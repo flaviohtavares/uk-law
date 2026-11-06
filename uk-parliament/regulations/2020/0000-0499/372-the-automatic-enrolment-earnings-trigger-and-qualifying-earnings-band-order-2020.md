@@ -46,7 +46,7 @@ A draft of this Order was laid before Parliament in accordance with section 143(
 
 The Secretary of State for Work and Pensions makes the following Order in exercise of the powers conferred by sections 14(2), 15A(1) and 144(4) of that Act [^c24047991].
 
-## 1. Citation, commencement and interpretation[^key-97b4232d99669458257863c2d7f1afab]
+## 1. Citation, commencement and interpretation[^c-97b4232d99669458257863c2d7f1afab]
 
 (1) This Order may be cited as the Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2020.
 
@@ -54,15 +54,15 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 (3) In this Order, “**the Act**” means the Pensions Act 2008.
 
-## 2. Increase of amount[^key-e587ef2176dcb2dc85494809d979390e]
+## 2. Increase of amount[^c-e587ef2176dcb2dc85494809d979390e]
 
 In section 13(1) of the Act, (which deals with qualifying earnings and the amounts constituting the lower and upper thresholds of the qualifying earnings band), in paragraph (a), for “£6,136” substitute “ £6,240 ”.
 
-## 3. Rounded figures[^key-af37d45602e35be70467e86db3cf507a][^key-0fd4945f155eac3a981a2555823ca2bf]
+## 3. Rounded figures[^c-af37d45602e35be70467e86db3cf507a][^c-0fd4945f155eac3a981a2555823ca2bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-38b9a0d1b111d136a3def95cdf236746]
+## 4. Revocation[^c-38b9a0d1b111d136a3def95cdf236746]
 
 Articles 2(a) and 3 of the Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2019 [^c24048031] are revoked.
 
@@ -98,14 +98,14 @@ A full impact assessment has not been produced for this instrument. The Secretar
 
 [^c24047991]: Marginal citation: [Section 15A](https://www.legislation.gov.uk/uksi/2020/372/section/15A) was inserted by section 9 of the 2011 Act.
 
-[^key-97b4232d99669458257863c2d7f1afab]: Commencement: Art. 1 in force at 6.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/372/article/1/2)
+[^c-97b4232d99669458257863c2d7f1afab]: Commencement: Art. 1 in force at 6.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/372/article/1/2)
 
-[^key-e587ef2176dcb2dc85494809d979390e]: Commencement: Art. 2 in force at 6.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/372/article/1/2)
+[^c-e587ef2176dcb2dc85494809d979390e]: Commencement: Art. 2 in force at 6.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/372/article/1/2)
 
-[^key-af37d45602e35be70467e86db3cf507a]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2020/372/article/3) revoked (6.4.2021) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2021 (S.I. 2021/314)](https://www.legislation.gov.uk/uksi/2021/314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/314/article/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2021/314/article/4/b)
+[^c-af37d45602e35be70467e86db3cf507a]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2020/372/article/3) revoked (6.4.2021) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2021 (S.I. 2021/314)](https://www.legislation.gov.uk/uksi/2021/314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/314/article/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2021/314/article/4/b)
 
-[^key-0fd4945f155eac3a981a2555823ca2bf]: Commencement: Art. 3 in force at 6.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/372/article/1/2)
+[^c-0fd4945f155eac3a981a2555823ca2bf]: Commencement: Art. 3 in force at 6.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/372/article/1/2)
 
-[^key-38b9a0d1b111d136a3def95cdf236746]: Commencement: Art. 4 in force at 6.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/372/article/1/2)
+[^c-38b9a0d1b111d136a3def95cdf236746]: Commencement: Art. 4 in force at 6.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/372/article/1/2)
 
 [^c24048031]: Marginal citation: [S.I. 2019/374](https://www.legislation.gov.uk/uksi/2019/374).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Special jurisdiction relating to tax on chargeable gains.[^key-b7c179d64b77f7dc716703fc232c6d0d]
+## 47. Special jurisdiction relating to tax on chargeable gains.[^c-b7c179d64b77f7dc716703fc232c6d0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7c179d64b77f7dc716703fc232c6d0d]: Textual amendment: Ss. 46B, 46C, 46D substituted for s. 47 (with effect in accordance with Sch. 22 para. 12 of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/1996/8/schedule/22/paragraph/7)
+[^c-b7c179d64b77f7dc716703fc232c6d0d]: Textual amendment: Ss. 46B, 46C, 46D substituted for s. 47 (with effect in accordance with Sch. 22 para. 12 of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/1996/8/schedule/22/paragraph/7)

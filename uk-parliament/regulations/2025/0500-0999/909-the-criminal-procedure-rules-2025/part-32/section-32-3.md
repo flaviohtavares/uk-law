@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.3. Application by defendant or person affected[^key-1f20043a1f57b71a82211e1d341322b3]
+## 32.3. Application by defendant or person affected[^c-1f20043a1f57b71a82211e1d341322b3]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f20043a1f57b71a82211e1d341322b3]: Commencement: [Rule 32.3](https://www.legislation.gov.uk/uksi/2025/909/rule/32.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1f20043a1f57b71a82211e1d341322b3]: Commencement: [Rule 32.3](https://www.legislation.gov.uk/uksi/2025/909/rule/32.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

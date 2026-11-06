@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. National security proceedings[^key-ad915e7f89a928cc704a2c810452d253]
+## 84. National security proceedings[^c-ad915e7f89a928cc704a2c810452d253]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad915e7f89a928cc704a2c810452d253]: Commencement: S. 84 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-ad915e7f89a928cc704a2c810452d253]: Commencement: S. 84 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)

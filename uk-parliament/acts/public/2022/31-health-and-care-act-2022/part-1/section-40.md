@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Duties in respect of research[^key-4af4f3b9dea07c31bc20d7b3750e31bc][^key-f8eca96db74937f343c5ce9ff7378ed0]
+## 40. Duties in respect of research[^c-4af4f3b9dea07c31bc20d7b3750e31bc][^c-f8eca96db74937f343c5ce9ff7378ed0]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In section 1E of the National Health Service Act 2006 (duty as to research), aft
 
 ## Annotations
 
-[^key-4af4f3b9dea07c31bc20d7b3750e31bc]: Commencement: S. 40 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-4af4f3b9dea07c31bc20d7b3750e31bc]: Commencement: S. 40 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-f8eca96db74937f343c5ce9ff7378ed0]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/31/section/40) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-f8eca96db74937f343c5ce9ff7378ed0]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/31/section/40) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

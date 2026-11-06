@@ -178,7 +178,7 @@ Sows and gilts shall be kept in groups except during the period between seven da
 
 **31.** For gilts after service and pregnant sows a part of the area required in paragraph 30 equal to at least 0.95 m<sup>2</sup> per gilt and at least 1.3 m<sup>2</sup> per sow shall be of continuous solid floor of which a maximum of 15% is reserved for drainage openings.
 
-**32.** Sows and gilts kept on holdings of fewer than 10 sows may be kept individually provided that their accommodation complies with the requirements of paragraphs 5 and 6[^key-87323fd616c3c720cb830a01b31ee913] .
+**32.** Sows and gilts kept on holdings of fewer than 10 sows may be kept individually provided that their accommodation complies with the requirements of paragraphs 5 and 6[^c-87323fd616c3c720cb830a01b31ee913] .
 
 **33.** In addition to the requirements of paragraph 13, sows and gilts shall be fed using a system which ensures that each individual can obtain sufficient food even when competitors for the food are present.
 
@@ -224,4 +224,4 @@ Sows and gilts shall be kept in groups except during the period between seven da
 
 ## Annotations
 
-[^key-87323fd616c3c720cb830a01b31ee913]: Textual amendment: Words in [Sch. 8 para. 32](https://www.legislation.gov.uk/nisr/2012/156/schedule/8/paragraph/32) substituted (1.1.2013) by [The Welfare of Animals (Docking of Working Dogs' Tails and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/387)](https://www.legislation.gov.uk/nisr/2012/387), [regs. 1](https://www.legislation.gov.uk/nisr/2012/387/regulation/1), [7(2)](https://www.legislation.gov.uk/nisr/2012/387/regulation/7/2)
+[^c-87323fd616c3c720cb830a01b31ee913]: Textual amendment: Words in [Sch. 8 para. 32](https://www.legislation.gov.uk/nisr/2012/156/schedule/8/paragraph/32) substituted (1.1.2013) by [The Welfare of Animals (Docking of Working Dogs' Tails and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/387)](https://www.legislation.gov.uk/nisr/2012/387), [regs. 1](https://www.legislation.gov.uk/nisr/2012/387/regulation/1), [7(2)](https://www.legislation.gov.uk/nisr/2012/387/regulation/7/2)

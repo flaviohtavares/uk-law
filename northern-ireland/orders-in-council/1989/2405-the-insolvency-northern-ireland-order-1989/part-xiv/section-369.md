@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 369. Provision which may be made by order under Article 367[^key-e649e54d2706742b91990c4f9cac6c0a]
+## 369. Provision which may be made by order under Article 367[^c-e649e54d2706742b91990c4f9cac6c0a]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e649e54d2706742b91990c4f9cac6c0a]: Modification: [Art. 369](https://www.legislation.gov.uk/nisi/1989/2405/article/369) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-e649e54d2706742b91990c4f9cac6c0a]: Modification: [Art. 369](https://www.legislation.gov.uk/nisi/1989/2405/article/369) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))

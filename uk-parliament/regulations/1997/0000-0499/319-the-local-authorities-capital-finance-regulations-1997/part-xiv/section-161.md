@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 161. Approved investments[^key-d6f13431fba80a4e1b31d48ed4a15ef1]
+## 161. Approved investments[^c-d6f13431fba80a4e1b31d48ed4a15ef1]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ Regulation 1(2) of the Local Authorities (Capital Finance) (Approved Investments
 
 ## Annotations
 
-[^key-d6f13431fba80a4e1b31d48ed4a15ef1]: Commencement: Reg. 161 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-d6f13431fba80a4e1b31d48ed4a15ef1]: Commencement: Reg. 161 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00134]: Footnote: [S.I. 1990/426](https://www.legislation.gov.uk/uksi/1990/426); amended by [S.I. 1991/501](https://www.legislation.gov.uk/uksi/1991/501), [S.I. 1992/1353](https://www.legislation.gov.uk/uksi/1992/1353), [S.I. 1995/850](https://www.legislation.gov.uk/uksi/1995/850), [S.I. 1995/1982](https://www.legislation.gov.uk/uksi/1995/1982) and [S.I. 1996/568](https://www.legislation.gov.uk/uksi/1996/568).

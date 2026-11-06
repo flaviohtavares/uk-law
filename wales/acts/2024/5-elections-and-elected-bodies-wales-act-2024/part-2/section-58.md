@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Transfer of property, rights and liabilities[^key-c1aaa1f985c697d6f1aef943d4e9f5a9][^key-97ef44c63284565a0134f2cf1486645e]
+## 58. Transfer of property, rights and liabilities[^c-c1aaa1f985c697d6f1aef943d4e9f5a9][^c-97ef44c63284565a0134f2cf1486645e]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ All property, rights and liabilities vested in the Independent Remuneration Pane
 
 ## Annotations
 
-[^key-c1aaa1f985c697d6f1aef943d4e9f5a9]: Commencement: S. 58 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-c1aaa1f985c697d6f1aef943d4e9f5a9]: Commencement: S. 58 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-97ef44c63284565a0134f2cf1486645e]: Commencement: [S. 58](https://www.legislation.gov.uk/asc/2024/5/section/58) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/d)
+[^c-97ef44c63284565a0134f2cf1486645e]: Commencement: [S. 58](https://www.legislation.gov.uk/asc/2024/5/section/58) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/d)

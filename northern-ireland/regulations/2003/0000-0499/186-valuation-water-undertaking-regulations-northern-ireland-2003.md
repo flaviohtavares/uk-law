@@ -31,7 +31,7 @@ summary: ''
 
 RATES
 
-Valuation (Water Undertaking) Regulations (Northern Ireland) 2003 (revoked)[^key-e40757ce5a504f1b1274534d215fbf40]
+Valuation (Water Undertaking) Regulations (Northern Ireland) 2003 (revoked)[^c-e40757ce5a504f1b1274534d215fbf40]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 1st April 2003
 
-[^key-e40757ce5a504f1b1274534d215fbf40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e40757ce5a504f1b1274534d215fbf40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e40757ce5a504f1b1274534d215fbf40]
+## 1. Citation and commencement[^c-e40757ce5a504f1b1274534d215fbf40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e40757ce5a504f1b1274534d215fbf40]
+## 2. Interpretation[^c-e40757ce5a504f1b1274534d215fbf40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Water Service[^key-e40757ce5a504f1b1274534d215fbf40]
+## 3. Water Service[^c-e40757ce5a504f1b1274534d215fbf40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e40757ce5a504f1b1274534d215fbf40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e40757ce5a504f1b1274534d215fbf40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e40757ce5a504f1b1274534d215fbf40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e40757ce5a504f1b1274534d215fbf40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e40757ce5a504f1b1274534d215fbf40]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/186) revoked (7.7.2008) by [The Valuation (Water Undertaking) Regulations (Northern Ireland) 2008 (S.R. 2008/226)](https://www.legislation.gov.uk/nisr/2008/226), [regs. 1](https://www.legislation.gov.uk/nisr/2008/226/regulation/1), [4](https://www.legislation.gov.uk/nisr/2008/226/regulation/4)
+[^c-e40757ce5a504f1b1274534d215fbf40]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/186) revoked (7.7.2008) by [The Valuation (Water Undertaking) Regulations (Northern Ireland) 2008 (S.R. 2008/226)](https://www.legislation.gov.uk/nisr/2008/226), [regs. 1](https://www.legislation.gov.uk/nisr/2008/226/regulation/1), [4](https://www.legislation.gov.uk/nisr/2008/226/regulation/4)

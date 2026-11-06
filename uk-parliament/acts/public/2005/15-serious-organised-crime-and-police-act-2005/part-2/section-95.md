@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Enforcement of overseas forfeiture orders[^key-4eda3473a182c29257b5e28afe4850db]
+## 95. Enforcement of overseas forfeiture orders[^c-4eda3473a182c29257b5e28afe4850db]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In section 9 of the Criminal Justice (International Co-operation) Act 1990 (c. 5
 
 ## Annotations
 
-[^key-4eda3473a182c29257b5e28afe4850db]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2005/15/section/95) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2005/1521/article/2/1/a)
+[^c-4eda3473a182c29257b5e28afe4850db]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2005/15/section/95) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2005/1521/article/2/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.3. Duty of the parties[^key-af8a9f44ee705ea8e4225997ae7e6caf]
+## 1.3. Duty of the parties[^c-af8a9f44ee705ea8e4225997ae7e6caf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The parties are required to help the court to further the overriding objective.
 
 ## Annotations
 
-[^key-af8a9f44ee705ea8e4225997ae7e6caf]: Commencement: [Rule 1.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/1.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-af8a9f44ee705ea8e4225997ae7e6caf]: Commencement: [Rule 1.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/1.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

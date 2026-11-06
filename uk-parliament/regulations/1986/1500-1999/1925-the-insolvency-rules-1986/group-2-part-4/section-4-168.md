@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.168. Liquidator's reports[^key-24169fbd5064499257bb6d58974aa697]
+## 4.168. Liquidator's reports[^c-24169fbd5064499257bb6d58974aa697]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24169fbd5064499257bb6d58974aa697]: Commencement: [Rule 4.168](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.168) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-24169fbd5064499257bb6d58974aa697]: Commencement: [Rule 4.168](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.168) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

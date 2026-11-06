@@ -38,38 +38,38 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Establishment of Board etc.
 
-#### 1. Electoral Management Board for Scotland[^key-1d0aaa8089bd56decc50543b192790a4]
+#### 1. Electoral Management Board for Scotland[^c-1d0aaa8089bd56decc50543b192790a4]
 
-(1)[^key-7667b5a2cbae7f31cecfbe55443ec5af] The committee established and known as the Electoral Management Board for Scotland continues to exist and becomes a body corporate to be known under the same name.
+(1)[^c-7667b5a2cbae7f31cecfbe55443ec5af] The committee established and known as the Electoral Management Board for Scotland continues to exist and becomes a body corporate to be known under the same name.
 
-(2)[^key-149e5fb1ccb341c419f6197cabe3b989] The Board has the general functions of co-ordinating the administration of—
+(2)[^c-149e5fb1ccb341c419f6197cabe3b989] The Board has the general functions of co-ordinating the administration of—
 
 - (a) Scottish parliamentary elections, and
 - (b) local government elections in Scotland.
 
-(3)[^key-2f1e2bd783402fefdc2d8b5103a60c94] Those functions include—
+(3)[^c-2f1e2bd783402fefdc2d8b5103a60c94] Those functions include—
 
 - (a) assisting regional returning officers, constituency returning officers, local authorities and other persons in carrying out their functions in relation to Scottish parliamentary elections,
 - (b) assisting returning officers, local authorities and other persons in carrying out their functions in relation to local government elections, and
 - (c) promoting best practice in Scottish parliamentary elections and local government elections by providing information, advice or training (or otherwise).
 
-(4)[^key-d10498c59af04449a14981022827f6a7] The schedule makes further provision about the status, membership, etc. of the Board and about other administrative matters in connection with the Board.
+(4)[^c-d10498c59af04449a14981022827f6a7] The schedule makes further provision about the status, membership, etc. of the Board and about other administrative matters in connection with the Board.
 
-#### 2. Membership[^key-5320a81174c945aaae228ba7cfabe028]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 3. Duration of appointment[^key-5320a81174c945aaae228ba7cfabe028]
+#### 2. Membership[^c-5320a81174c945aaae228ba7cfabe028]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Procedure etc.[^key-5320a81174c945aaae228ba7cfabe028]
+#### 3. Duration of appointment[^c-5320a81174c945aaae228ba7cfabe028]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Procedure etc.[^c-5320a81174c945aaae228ba7cfabe028]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Directions
 
-#### 4A. Directions to returning officers: Scottish parliamentary elections[^key-74717679a43842fea1ee94a87c3d4f02]
+#### 4A. Directions to returning officers: Scottish parliamentary elections[^c-74717679a43842fea1ee94a87c3d4f02]
 
 (1) The convener may give directions in writing to regional returning officers and constituency returning officers about the exercise of their functions in relation to—
 
@@ -80,7 +80,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) A returning officer to whom a direction is given must comply with the direction.
 
-#### 5. Directions to returning officers: local government elections[^key-220556bbe07ff650d42dfcd975240a84][^key-1c9fc15bd8cdc38e3691c70504397b15]
+#### 5. Directions to returning officers: local government elections[^c-220556bbe07ff650d42dfcd975240a84][^c-1c9fc15bd8cdc38e3691c70504397b15]
 
 (1) The convener may give directions in writing to returning officers about the exercise of their functions in relation to—
 
@@ -91,7 +91,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) A returning officer to whom a direction is given must comply with the direction.
 
-#### 5A. Directions to electoral registration officers: Scottish parliamentary elections[^key-fc2b6b95fda3a1c1cc05326b76212490]
+#### 5A. Directions to electoral registration officers: Scottish parliamentary elections[^c-fc2b6b95fda3a1c1cc05326b76212490]
 
 (1) The convener may give directions in writing to electoral registration officers about the exercise of their functions in relation to a particular Scottish parliamentary election.
 
@@ -99,7 +99,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) An electoral registration officer to whom a direction is given must comply with the direction.
 
-#### 6. Directions to electoral registration officers: local government elections[^key-ad1ae9dc21f0d526fec56d62b2ec3b67][^key-8a18c2e5e6de4edca888ecc6b7ebcf6d]
+#### 6. Directions to electoral registration officers: local government elections[^c-ad1ae9dc21f0d526fec56d62b2ec3b67][^c-8a18c2e5e6de4edca888ecc6b7ebcf6d]
 
 (1) The convener may give directions in writing to electoral registration officers about the exercise of their functions in relation to a particular local government election.
 
@@ -107,14 +107,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) An electoral registration officer to whom a direction is given must comply with the direction.
 
-#### 7. Consultation before giving direction[^key-288c6e2b6846a1f934c8b7b4bede31f6]
+#### 7. Consultation before giving direction[^c-288c6e2b6846a1f934c8b7b4bede31f6]
 
-Before giving a direction under section 4A, 5, 5A[^key-484265203771c7565a02e6b0152a7693] or 6, the convener must consult—
+Before giving a direction under section 4A, 5, 5A[^c-484265203771c7565a02e6b0152a7693] or 6, the convener must consult—
 
 - (a) the other members of the Board,
 - (b) the Electoral Commission.
 
-### Planning and reporting on the Board’s functions[^key-41da2efe6f65ac7b4789ba7e00893d06]
+### Planning and reporting on the Board’s functions[^c-41da2efe6f65ac7b4789ba7e00893d06]
 
 #### 7A. Strategic plans
 
@@ -165,24 +165,24 @@ any matter relating to the Board’s functions mentioned in section 1(3).
 
 (4) The Board may, after submitting a report under this section, publish the report in such manner as it considers appropriate.
 
-### ...[^key-273143b5723e8b9424911a69dc065838]
+### ...[^c-273143b5723e8b9424911a69dc065838]
 
-#### 8. Annual report[^key-273143b5723e8b9424911a69dc065838]
+#### 8. Annual report[^c-273143b5723e8b9424911a69dc065838]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interpretation
 
-#### 9. Interpretation of Part 1 and the schedule[^key-f9cb2ec5cc7f467844f3edd80938fde8][^key-a49e5d5ff4597645d94b9f985d672f45]
+#### 9. Interpretation of Part 1 and the schedule[^c-f9cb2ec5cc7f467844f3edd80938fde8][^c-a49e5d5ff4597645d94b9f985d672f45]
 
-In this Part and in the schedule[^key-c8086a47f267a397bfeed061a707f328]—
+In this Part and in the schedule[^c-c8086a47f267a397bfeed061a707f328]—
 
 - “**the 1983 Act**” means the Representation of the People Act 1983,
-- “[^key-1908a6bdbe052d428e80fd4c215da38c]**constituency returning officer**” means an officer appointed by order in accordance with section 12(1) of the Scotland Act 1998,
+- “[^c-1908a6bdbe052d428e80fd4c215da38c]**constituency returning officer**” means an officer appointed by order in accordance with section 12(1) of the Scotland Act 1998,
 - “**convener**” means the convener of the Board,
 - “**depute returning officer**” means a person appointed under section 41(2) of the 1983 Act,
 - “**electoral registration officer**” means an officer appointed under section 8(3) of the 1983 Act,
-- “[^key-16b668a8d30af58a78aa623da483b523]**former depute returning officer**” means an individual who no longer holds the office but who was previously—
+- “[^c-16b668a8d30af58a78aa623da483b523]**former depute returning officer**” means an individual who no longer holds the office but who was previously—
   - (a) a depute returning officer, or
   - (b) a RUK depute returning officer,
 - “**former electoral registration officer**” means an individual who no longer holds the office but who was previously—
@@ -192,22 +192,22 @@ In this Part and in the schedule[^key-c8086a47f267a397bfeed061a707f328]—
   - (a) a returning officer, or
   - (b) a RUK returning officer,
 - “**local government election**” has the meaning given in section 204(1) of the 1983 Act,
-- “[^key-93911dbecbbf752885554a2d28a5ccc4]**Parliamentary corporation**” means the Scottish Parliamentary Corporate Body,
-- “[^key-79aa17e119ba632843c79a0106eac3ff]**regional returning officer**” means an officer appointed by order under section 12(6) of the Scotland Act 1998,
-- “[^key-adb3ec04758e6ac51b9f2a285bc0df07]**returning officer**” means an officer who is—
+- “[^c-93911dbecbbf752885554a2d28a5ccc4]**Parliamentary corporation**” means the Scottish Parliamentary Corporate Body,
+- “[^c-79aa17e119ba632843c79a0106eac3ff]**regional returning officer**” means an officer appointed by order under section 12(6) of the Scotland Act 1998,
+- “[^c-adb3ec04758e6ac51b9f2a285bc0df07]**returning officer**” means an officer who is—
   - (a) appointed under section 41(1) of the 1983 Act,
   - (b) a constituency returning officer, or
   - (c) a regional returning officer,
-- “[^key-6526103618414354919fdd7837bf9c4d]**RUK depute returning officer**” means a person appointed as a depute section 35(4) of the 1983 Act,
+- “[^c-6526103618414354919fdd7837bf9c4d]**RUK depute returning officer**” means a person appointed as a depute section 35(4) of the 1983 Act,
 - “**RUK electoral registration officer**” means an officer appointed under, or holding office in accordance with, section 8(2), (2A) or (4) of the 1983 Act,
 - “**RUK returning officer**” means an officer holding office in accordance with section 24, 26 or 35 of the 1983 Act and includes a person discharging the duties of such an officer in accordance with section 28 of that Act,
-- “[^key-8b546c8226a6ba49e45cd29eb2785fd9]**Scottish parliamentary election**” means an election for membership of the Scottish Parliament.
+- “[^c-8b546c8226a6ba49e45cd29eb2785fd9]**Scottish parliamentary election**” means an election for membership of the Scottish Parliament.
 
 ## Part 2 — Electoral Commission: local government elections
 
 ### Functions of Commission
 
-#### 10. Reports on elections[^key-a5faa4a0e11fcce16d798a291a718365]
+#### 10. Reports on elections[^c-a5faa4a0e11fcce16d798a291a718365]
 
 In section 5 of the 2000 Act (reports on elections and referendums), after subsection (2A) insert—
 
@@ -215,7 +215,7 @@ In section 5 of the 2000 Act (reports on elections and referendums), after subse
 
 .
 
-#### 11. Electoral Commission representatives and observers[^key-38920f95f4a5a05a7bc93ffdd4e1215d]
+#### 11. Electoral Commission representatives and observers[^c-38920f95f4a5a05a7bc93ffdd4e1215d]
 
 (1) In section 6A(5) of the 2000 Act (elections which may be attended by Commission representative), after paragraph (e) insert—
 
@@ -277,7 +277,7 @@ In section 5 of the 2000 Act (reports on elections and referendums), after subse
 
 (7) Sections 8 to 11 of the Local Electoral Administration and Registration Services (Scotland) Act 2006 are repealed.
 
-#### 12. Consultation on changes to electoral law[^key-2b4e1872b92afb04264b59375dc6d6d4]
+#### 12. Consultation on changes to electoral law[^c-2b4e1872b92afb04264b59375dc6d6d4]
 
 In section 7(2) of the 2000 Act (instruments to be consulted upon), after paragraph (i) insert—
 
@@ -285,7 +285,7 @@ In section 7(2) of the 2000 Act (instruments to be consulted upon), after paragr
 
 .
 
-#### 13. Performance standards[^key-7e0d4af9e9eda0e2401a6d181cecc14e]
+#### 13. Performance standards[^c-7e0d4af9e9eda0e2401a6d181cecc14e]
 
 (1) In section 9A(6) of the 2000 Act (setting of performance standards), after paragraph (e) insert—
 
@@ -295,7 +295,7 @@ In section 7(2) of the 2000 Act (instruments to be consulted upon), after paragr
 
 (2) Sections 1 to 3 of the Local Electoral Administration and Registration Services (Scotland) Act 2006 are repealed.
 
-#### 14. Advice and guidance[^key-0f411673e5d66f5d39e4a316b9bb7981]
+#### 14. Advice and guidance[^c-0f411673e5d66f5d39e4a316b9bb7981]
 
 (1) Section 10 of the 2000 Act (giving of advice and assistance) is amended as follows.
 
@@ -303,7 +303,7 @@ In section 7(2) of the 2000 Act (instruments to be consulted upon), after paragr
 
 (3) Subsections (8) to (10) are repealed.
 
-#### 15. Education about electoral systems[^key-07c143abcd662dd4607110a2ce9ec130]
+#### 15. Education about electoral systems[^c-07c143abcd662dd4607110a2ce9ec130]
 
 (1) Section 13 of the 2000 Act (promotion of public awareness of electoral and government systems) is amended as follows.
 
@@ -313,7 +313,7 @@ In section 7(2) of the 2000 Act (instruments to be consulted upon), after paragr
 
 ### Financing and reports etc.
 
-#### 16. Financing of Commission[^key-0dde276505ce58c195e6c5cd0cf09c90]
+#### 16. Financing of Commission[^c-0dde276505ce58c195e6c5cd0cf09c90]
 
 (1) The 2000 Act is amended as follows.
 
@@ -338,7 +338,7 @@ In section 7(2) of the 2000 Act (instruments to be consulted upon), after paragr
 
 (4) In paragraph 14(1)(a) of Schedule 1, for “13(9)” substitute “ 13A ”.
 
-#### 17. Reports on Commission's functions[^key-86f5f448ffe7e05f8ea8f2046148903a]
+#### 17. Reports on Commission's functions[^c-86f5f448ffe7e05f8ea8f2046148903a]
 
 (1) Schedule 1 to the 2000 Act is amended as follows.
 
@@ -360,7 +360,7 @@ In section 7(2) of the 2000 Act (instruments to be consulted upon), after paragr
 
 .
 
-#### 18. Consequential amendments[^key-0fbc225c9a375504fbccd0e78b8df8f4]
+#### 18. Consequential amendments[^c-0fbc225c9a375504fbccd0e78b8df8f4]
 
 The Scottish Public Services Ombudsman Act 2002 is amended as follows—
 
@@ -379,7 +379,7 @@ The Scottish Public Services Ombudsman Act 2002 is amended as follows—
 
 ### Interpretation
 
-#### 19. Interpretation of Part 2[^key-73a5297fb4fee9ed76bce84ff7dbd747]
+#### 19. Interpretation of Part 2[^c-73a5297fb4fee9ed76bce84ff7dbd747]
 
 In this Part, “**the 2000 Act**” means the Political Parties, Elections and Referendums Act 2000.
 
@@ -403,7 +403,7 @@ In this Part, “**the 2000 Act**” means the Political Parties, Elections and 
 
 The short title of this Act is the Local Electoral Administration (Scotland) Act 2011.
 
-## Schedule — Electoral Management Board for Scotland[^key-2a45acf9d1109999afc9d5779431fb76]
+## Schedule — Electoral Management Board for Scotland[^c-2a45acf9d1109999afc9d5779431fb76]
 
 (introduced by section 1(4))
 
@@ -652,76 +652,76 @@ and the accountable officer is answerable to the Parliament for the exercise of 
 
 ## Annotations
 
-[^key-1d0aaa8089bd56decc50543b192790a4]: Commencement: S. 1 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/277/article/2/a)
+[^c-1d0aaa8089bd56decc50543b192790a4]: Commencement: S. 1 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/277/article/2/a)
 
-[^key-7667b5a2cbae7f31cecfbe55443ec5af]: Textual amendment: [S. 1(1)](https://www.legislation.gov.uk/asp/2011/10/section/1/1) substituted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(2)(a)](https://www.legislation.gov.uk/asp/2025/4/section/69/2/a), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
+[^c-7667b5a2cbae7f31cecfbe55443ec5af]: Textual amendment: [S. 1(1)](https://www.legislation.gov.uk/asp/2011/10/section/1/1) substituted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(2)(a)](https://www.legislation.gov.uk/asp/2025/4/section/69/2/a), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
 
-[^key-149e5fb1ccb341c419f6197cabe3b989]: Textual amendment: S. 1(2) substituted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 24(a)](https://www.legislation.gov.uk/asp/2020/12/section/24/a), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-149e5fb1ccb341c419f6197cabe3b989]: Textual amendment: S. 1(2) substituted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 24(a)](https://www.legislation.gov.uk/asp/2020/12/section/24/a), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-2f1e2bd783402fefdc2d8b5103a60c94]: Textual amendment: S. 1(3) substituted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 24(b)](https://www.legislation.gov.uk/asp/2020/12/section/24/b), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-2f1e2bd783402fefdc2d8b5103a60c94]: Textual amendment: S. 1(3) substituted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 24(b)](https://www.legislation.gov.uk/asp/2020/12/section/24/b), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-d10498c59af04449a14981022827f6a7]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/asp/2011/10/section/1/4) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(2)(b)](https://www.legislation.gov.uk/asp/2025/4/section/69/2/b), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
+[^c-d10498c59af04449a14981022827f6a7]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/asp/2011/10/section/1/4) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(2)(b)](https://www.legislation.gov.uk/asp/2025/4/section/69/2/b), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
 
-[^key-5320a81174c945aaae228ba7cfabe028]: Textual amendment: [Ss. 2-4](https://www.legislation.gov.uk/asp/2011/10/section/2) repealed (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(3)](https://www.legislation.gov.uk/asp/2025/4/section/69/3), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
+[^c-5320a81174c945aaae228ba7cfabe028]: Textual amendment: [Ss. 2-4](https://www.legislation.gov.uk/asp/2011/10/section/2) repealed (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(3)](https://www.legislation.gov.uk/asp/2025/4/section/69/3), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
 
-[^key-74717679a43842fea1ee94a87c3d4f02]: Textual amendment: S. 4A inserted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 25](https://www.legislation.gov.uk/asp/2020/12/section/25), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-74717679a43842fea1ee94a87c3d4f02]: Textual amendment: S. 4A inserted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 25](https://www.legislation.gov.uk/asp/2020/12/section/25), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-220556bbe07ff650d42dfcd975240a84]: Commencement: S. 5 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/277/article/2/a)
+[^c-220556bbe07ff650d42dfcd975240a84]: Commencement: S. 5 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/277/article/2/a)
 
-[^key-1c9fc15bd8cdc38e3691c70504397b15]: Textual amendment: S. 5 title substituted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 27(3)](https://www.legislation.gov.uk/asp/2020/12/section/27/3), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-1c9fc15bd8cdc38e3691c70504397b15]: Textual amendment: S. 5 title substituted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 27(3)](https://www.legislation.gov.uk/asp/2020/12/section/27/3), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-fc2b6b95fda3a1c1cc05326b76212490]: Textual amendment: S. 5A inserted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 26](https://www.legislation.gov.uk/asp/2020/12/section/26), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-fc2b6b95fda3a1c1cc05326b76212490]: Textual amendment: S. 5A inserted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 26](https://www.legislation.gov.uk/asp/2020/12/section/26), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-ad1ae9dc21f0d526fec56d62b2ec3b67]: Commencement: S. 6 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/277/article/2/a)
+[^c-ad1ae9dc21f0d526fec56d62b2ec3b67]: Commencement: S. 6 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/277/article/2/a)
 
-[^key-8a18c2e5e6de4edca888ecc6b7ebcf6d]: Textual amendment: S. 6 title substituted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 27(4)](https://www.legislation.gov.uk/asp/2020/12/section/27/4), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-8a18c2e5e6de4edca888ecc6b7ebcf6d]: Textual amendment: S. 6 title substituted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 27(4)](https://www.legislation.gov.uk/asp/2020/12/section/27/4), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-288c6e2b6846a1f934c8b7b4bede31f6]: Commencement: S. 7 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/277/article/2/a)
+[^c-288c6e2b6846a1f934c8b7b4bede31f6]: Commencement: S. 7 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/277/article/2/a)
 
-[^key-484265203771c7565a02e6b0152a7693]: Textual amendment: Words in s. 7 substituted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 27(5)](https://www.legislation.gov.uk/asp/2020/12/section/27/5), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-484265203771c7565a02e6b0152a7693]: Textual amendment: Words in s. 7 substituted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 27(5)](https://www.legislation.gov.uk/asp/2020/12/section/27/5), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-41da2efe6f65ac7b4789ba7e00893d06]: Textual amendment: [Ss. 7A](https://www.legislation.gov.uk/asp/2011/10/section/7A), [7B](https://www.legislation.gov.uk/asp/2011/10/section/7B) and cross-heading inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(4)](https://www.legislation.gov.uk/asp/2025/4/section/69/4), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
+[^c-41da2efe6f65ac7b4789ba7e00893d06]: Textual amendment: [Ss. 7A](https://www.legislation.gov.uk/asp/2011/10/section/7A), [7B](https://www.legislation.gov.uk/asp/2011/10/section/7B) and cross-heading inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(4)](https://www.legislation.gov.uk/asp/2025/4/section/69/4), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
 
-[^key-273143b5723e8b9424911a69dc065838]: Textual amendment: [S. 8 and cross-heading](https://www.legislation.gov.uk/asp/2011/10/part/1/crossheading/annual-report) repealed (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(5)](https://www.legislation.gov.uk/asp/2025/4/section/69/5), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
+[^c-273143b5723e8b9424911a69dc065838]: Textual amendment: [S. 8 and cross-heading](https://www.legislation.gov.uk/asp/2011/10/part/1/crossheading/annual-report) repealed (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(5)](https://www.legislation.gov.uk/asp/2025/4/section/69/5), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
 
-[^key-f9cb2ec5cc7f467844f3edd80938fde8]: Commencement: S. 9 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/277/article/2/a)
+[^c-f9cb2ec5cc7f467844f3edd80938fde8]: Commencement: S. 9 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/277/article/2/a)
 
-[^key-a49e5d5ff4597645d94b9f985d672f45]: Textual amendment: Words in [s. 9 heading](https://www.legislation.gov.uk/asp/2011/10/part/1/crossheading/interpretation) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(6)(e)](https://www.legislation.gov.uk/asp/2025/4/section/69/6/e), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
+[^c-a49e5d5ff4597645d94b9f985d672f45]: Textual amendment: Words in [s. 9 heading](https://www.legislation.gov.uk/asp/2011/10/part/1/crossheading/interpretation) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(6)(e)](https://www.legislation.gov.uk/asp/2025/4/section/69/6/e), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
 
-[^key-c8086a47f267a397bfeed061a707f328]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/asp/2011/10/section/9) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(6)(a)](https://www.legislation.gov.uk/asp/2025/4/section/69/6/a), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
+[^c-c8086a47f267a397bfeed061a707f328]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/asp/2011/10/section/9) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(6)(a)](https://www.legislation.gov.uk/asp/2025/4/section/69/6/a), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
 
-[^key-1908a6bdbe052d428e80fd4c215da38c]: Textual amendment: Words in s. 9 inserted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 27(6)(a)](https://www.legislation.gov.uk/asp/2020/12/section/27/6/a), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-1908a6bdbe052d428e80fd4c215da38c]: Textual amendment: Words in s. 9 inserted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 27(6)(a)](https://www.legislation.gov.uk/asp/2020/12/section/27/6/a), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-16b668a8d30af58a78aa623da483b523]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/asp/2011/10/section/9) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(6)(b)](https://www.legislation.gov.uk/asp/2025/4/section/69/6/b), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
+[^c-16b668a8d30af58a78aa623da483b523]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/asp/2011/10/section/9) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(6)(b)](https://www.legislation.gov.uk/asp/2025/4/section/69/6/b), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
 
-[^key-93911dbecbbf752885554a2d28a5ccc4]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/asp/2011/10/section/9) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(6)(c)](https://www.legislation.gov.uk/asp/2025/4/section/69/6/c), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
+[^c-93911dbecbbf752885554a2d28a5ccc4]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/asp/2011/10/section/9) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(6)(c)](https://www.legislation.gov.uk/asp/2025/4/section/69/6/c), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
 
-[^key-79aa17e119ba632843c79a0106eac3ff]: Textual amendment: Words in s. 9 inserted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 27(6)(b)](https://www.legislation.gov.uk/asp/2020/12/section/27/6/b), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-79aa17e119ba632843c79a0106eac3ff]: Textual amendment: Words in s. 9 inserted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 27(6)(b)](https://www.legislation.gov.uk/asp/2020/12/section/27/6/b), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-adb3ec04758e6ac51b9f2a285bc0df07]: Textual amendment: Words in s. 9 substituted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 27(6)(c)](https://www.legislation.gov.uk/asp/2020/12/section/27/6/c), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-adb3ec04758e6ac51b9f2a285bc0df07]: Textual amendment: Words in s. 9 substituted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 27(6)(c)](https://www.legislation.gov.uk/asp/2020/12/section/27/6/c), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-6526103618414354919fdd7837bf9c4d]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/asp/2011/10/section/9) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(6)(d)](https://www.legislation.gov.uk/asp/2025/4/section/69/6/d), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
+[^c-6526103618414354919fdd7837bf9c4d]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/asp/2011/10/section/9) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(6)(d)](https://www.legislation.gov.uk/asp/2025/4/section/69/6/d), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
 
-[^key-8b546c8226a6ba49e45cd29eb2785fd9]: Textual amendment: Words in s. 9 inserted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 27(6)(d)](https://www.legislation.gov.uk/asp/2020/12/section/27/6/d), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-8b546c8226a6ba49e45cd29eb2785fd9]: Textual amendment: Words in s. 9 inserted (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 27(6)(d)](https://www.legislation.gov.uk/asp/2020/12/section/27/6/d), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-a5faa4a0e11fcce16d798a291a718365]: Commencement: S. 10 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
+[^c-a5faa4a0e11fcce16d798a291a718365]: Commencement: S. 10 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
 
-[^key-38920f95f4a5a05a7bc93ffdd4e1215d]: Commencement: S. 11 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
+[^c-38920f95f4a5a05a7bc93ffdd4e1215d]: Commencement: S. 11 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
 
-[^key-2b4e1872b92afb04264b59375dc6d6d4]: Commencement: S. 12 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
+[^c-2b4e1872b92afb04264b59375dc6d6d4]: Commencement: S. 12 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
 
-[^key-7e0d4af9e9eda0e2401a6d181cecc14e]: Commencement: S. 13 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
+[^c-7e0d4af9e9eda0e2401a6d181cecc14e]: Commencement: S. 13 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
 
-[^key-0f411673e5d66f5d39e4a316b9bb7981]: Commencement: S. 14 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
+[^c-0f411673e5d66f5d39e4a316b9bb7981]: Commencement: S. 14 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
 
-[^key-07c143abcd662dd4607110a2ce9ec130]: Commencement: S. 15 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
+[^c-07c143abcd662dd4607110a2ce9ec130]: Commencement: S. 15 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
 
-[^key-0dde276505ce58c195e6c5cd0cf09c90]: Commencement: S. 16 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
+[^c-0dde276505ce58c195e6c5cd0cf09c90]: Commencement: S. 16 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
 
-[^key-86f5f448ffe7e05f8ea8f2046148903a]: Commencement: S. 17 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
+[^c-86f5f448ffe7e05f8ea8f2046148903a]: Commencement: S. 17 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
 
-[^key-0fbc225c9a375504fbccd0e78b8df8f4]: Commencement: S. 18 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
+[^c-0fbc225c9a375504fbccd0e78b8df8f4]: Commencement: S. 18 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
 
-[^key-73a5297fb4fee9ed76bce84ff7dbd747]: Commencement: S. 19 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
+[^c-73a5297fb4fee9ed76bce84ff7dbd747]: Commencement: S. 19 in force at 29.6.2011 by [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
 
-[^key-2a45acf9d1109999afc9d5779431fb76]: Textual amendment: [Sch.](https://www.legislation.gov.uk/asp/2011/10/schedule) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(7)](https://www.legislation.gov.uk/asp/2025/4/section/69/7), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
+[^c-2a45acf9d1109999afc9d5779431fb76]: Textual amendment: [Sch.](https://www.legislation.gov.uk/asp/2011/10/schedule) inserted (1.4.2026) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 69(7)](https://www.legislation.gov.uk/asp/2025/4/section/69/7), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2) (with [s. 71](https://www.legislation.gov.uk/asp/2025/4/section/71)); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)

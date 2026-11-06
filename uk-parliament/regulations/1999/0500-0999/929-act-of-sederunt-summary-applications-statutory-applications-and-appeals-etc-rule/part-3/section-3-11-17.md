@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.17. Application to be admitted as respondent[^key-d207a91d3c5e1029d3ca52f0375bd27c]
+## 3.11.17. Application to be admitted as respondent[^c-d207a91d3c5e1029d3ca52f0375bd27c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Application to be admitted as a respondent to oppose a petition on the occurrenc
 
 ## Annotations
 
-[^key-d207a91d3c5e1029d3ca52f0375bd27c]: Commencement: Rule 3.11.17 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-d207a91d3c5e1029d3ca52f0375bd27c]: Commencement: Rule 3.11.17 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

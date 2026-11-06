@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Power of safety representatives to report imminent risk[^key-8230a2b8a7ada86c08b0ba40a03c8922]
+## 18. Power of safety representatives to report imminent risk[^c-8230a2b8a7ada86c08b0ba40a03c8922]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ Where two or more safety representatives (within the meaning of regulation 2(1) 
 
 ## Annotations
 
-[^key-8230a2b8a7ada86c08b0ba40a03c8922]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2016/427/regulation/18) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-8230a2b8a7ada86c08b0ba40a03c8922]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2016/427/regulation/18) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00016]: Footnote: [S.R. 1979 No.437](https://www.legislation.gov.uk/nisr/1979/437)

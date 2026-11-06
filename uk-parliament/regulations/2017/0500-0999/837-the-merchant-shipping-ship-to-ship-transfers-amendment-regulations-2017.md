@@ -34,7 +34,7 @@ This Statutory Instrument has been made in consequence of a defect in [SI 2012/7
 
 Marine Pollution
 
-The Merchant Shipping (Ship-to-Ship Transfers) (Amendment) Regulations 2017 (revoked)[^key-cd49fa20629322f943422cc71d8ad8b2]
+The Merchant Shipping (Ship-to-Ship Transfers) (Amendment) Regulations 2017 (revoked)[^c-cd49fa20629322f943422cc71d8ad8b2]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 11th September 2017
 
-[^key-cd49fa20629322f943422cc71d8ad8b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd49fa20629322f943422cc71d8ad8b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cd49fa20629322f943422cc71d8ad8b2]
+## 1. Citation and commencement[^c-cd49fa20629322f943422cc71d8ad8b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Merchant Shipping (Ship-to-Ship Transfers) Regulations 2010[^key-cd49fa20629322f943422cc71d8ad8b2]
+## 2. Amendment of the Merchant Shipping (Ship-to-Ship Transfers) Regulations 2010[^c-cd49fa20629322f943422cc71d8ad8b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd49fa20629322f943422cc71d8ad8b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd49fa20629322f943422cc71d8ad8b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cd49fa20629322f943422cc71d8ad8b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd49fa20629322f943422cc71d8ad8b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cd49fa20629322f943422cc71d8ad8b2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/837) revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)
+[^c-cd49fa20629322f943422cc71d8ad8b2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/837) revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)

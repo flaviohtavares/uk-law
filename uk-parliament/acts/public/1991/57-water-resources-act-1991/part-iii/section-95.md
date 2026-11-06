@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 95. Agreements in nitrate sensitive areas.[^key-2d1bfb9d2f0c0873cca00a65f878565d]
+## 95. Agreements in nitrate sensitive areas.[^c-2d1bfb9d2f0c0873cca00a65f878565d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d1bfb9d2f0c0873cca00a65f878565d]: Textual amendment: S. 95 repealed (22.12.2009) by [Water Resources Act 1991 (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/3104)](https://www.legislation.gov.uk/uksi/2009/3104), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c), [4](https://www.legislation.gov.uk/uksi/2009/3104/regulation/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2009/3104/regulation/7))
+[^c-2d1bfb9d2f0c0873cca00a65f878565d]: Textual amendment: S. 95 repealed (22.12.2009) by [Water Resources Act 1991 (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/3104)](https://www.legislation.gov.uk/uksi/2009/3104), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c), [4](https://www.legislation.gov.uk/uksi/2009/3104/regulation/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2009/3104/regulation/7))

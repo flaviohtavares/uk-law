@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Punishment of offences[^key-8f0b1e548fd427c4ab09d4abfe1ce300]
+## 94. Punishment of offences[^c-8f0b1e548fd427c4ab09d4abfe1ce300]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Section 431 (summary proceedings) of the 1986 Act[^f00024], as it applies to Sco
 
 ## Annotations
 
-[^key-8f0b1e548fd427c4ab09d4abfe1ce300]: Commencement: Rule 94 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-8f0b1e548fd427c4ab09d4abfe1ce300]: Commencement: Rule 94 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
 [^f00024]: Footnote: Section 431 was amended by the Criminal Procedure (Consequential Provisions) (Scotland) Act [1995 (c.40)](https://www.legislation.gov.uk/ukpga/1995/40), Schedule 4, paragraph 61.

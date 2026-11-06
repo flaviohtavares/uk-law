@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Extension to older children[^key-7738e7c5062678d4b7f2819607d6cd4d]
+## 48. Extension to older children[^c-7738e7c5062678d4b7f2819607d6cd4d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7738e7c5062678d4b7f2819607d6cd4d]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/2001/16/section/48) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
+[^c-7738e7c5062678d4b7f2819607d6cd4d]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/2001/16/section/48) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)

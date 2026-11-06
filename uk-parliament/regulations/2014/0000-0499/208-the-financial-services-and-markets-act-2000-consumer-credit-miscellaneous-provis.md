@@ -44,9 +44,9 @@ Coming into force in accordance with article 1
 
 The Treasury are a government department designated for the purpose of section 2(2) of the European Communities Act 1972[^f00001] in relation to financial services[^f00002].
 
-The Treasury make the following Order in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and section 426(1) of the Financial Services and Markets Act 2000[^f00003].[^key-e5fdf6eff9ad8ba16aedc8776e17a8ef]
+The Treasury make the following Order in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and section 426(1) of the Financial Services and Markets Act 2000[^f00003].[^c-e5fdf6eff9ad8ba16aedc8776e17a8ef]
 
-## 1. Citation and commencement[^key-52672198839971a363f25a77d22fd617]
+## 1. Citation and commencement[^c-52672198839971a363f25a77d22fd617]
 
 (1) This Order may be cited as the Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014.
 
@@ -63,13 +63,13 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 - (a) the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013[^f00005] comes into force, to the extent that it is not already in force, in accordance with article 1(6) (citation, commencement and interpretation) of that Order, and
 - (b) the Financial Services Act 2012 (Consumer Credit) Order 2013[^f00006] comes into force, to the extent that it is not already in force, in accordance with article 1(1)(b) (citation, commencement and interpretation) of that Order.
 
-## 2. Applications under section 28A of the Financial Services and Markets Act 2000[^key-fc4433b405137dbe13d15f9d3629be50][^key-8a081ca8726b1532826a027becbbc265]
+## 2. Applications under section 28A of the Financial Services and Markets Act 2000[^c-fc4433b405137dbe13d15f9d3629be50][^c-8a081ca8726b1532826a027becbbc265]
 
 (1) Section 55U(4), (5), (7) and (8) of the Financial Services and Markets Act 2000 (applications under this Part)[^f00007] apply to an application made under section 28A of that Act (credit-related agreements made unenforceable by section 26, 26A or 27)[^f00008] as if the application were an application made to the FCA under Part 4A of that Act (permission to carry on regulated activities)[^f00009].
 
 (2) Where a person (“A”) has the right to exercise rights under an agreement entered into by another person (“B”), section 28A of the Financial Services and Markets Act 2000 applies as if the references to the relevant firm in subsections (3) and (7) of that section include a reference to A.
 
-## 3. The Financial Services (Distance Marketing) Regulations 2004[^key-b91a3c0f51304006b70f19ffb7711865][^key-0b5488cff7bdf994b790b278836751da]
+## 3. The Financial Services (Distance Marketing) Regulations 2004[^c-b91a3c0f51304006b70f19ffb7711865][^c-0b5488cff7bdf994b790b278836751da]
 
 (1) The Financial Services (Distance Marketing) Regulations 2004[^f00010] are amended as follows.
 
@@ -160,7 +160,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
   ;
 - (b) in sub-paragraph (b), for “OFT” substitute “CMA”.
 
-## 4. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^key-4b89f67264d71c1c790cf232f095a626][^key-e586ab5d438bcffb9bd59400deafdb70]
+## 4. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^c-4b89f67264d71c1c790cf232f095a626][^c-e586ab5d438bcffb9bd59400deafdb70]
 
 After article 72E (staff mortgage offers communicated to employees by third parties) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^f00012], insert—
 
@@ -175,7 +175,7 @@ After article 72E (staff mortgage offers communicated to employees by third part
 
 .
 
-## 5. The Consumer Credit (Disclosure of Information) Regulations 2010[^key-5aeda72fb1581ce48b935bd41ae94e88][^key-d065c12a7b7080bf3d18e46a860f1c30]
+## 5. The Consumer Credit (Disclosure of Information) Regulations 2010[^c-5aeda72fb1581ce48b935bd41ae94e88][^c-d065c12a7b7080bf3d18e46a860f1c30]
 
 In the Consumer Credit (Disclosure of Information) Regulations 2010[^f00013], in—
 
@@ -184,7 +184,7 @@ In the Consumer Credit (Disclosure of Information) Regulations 2010[^f00013], in
 
 for “\[Consumer credit licence number and any other relevant registration number of the creditor.\]” substitute “\[The Firm Reference Number (FRN) (if any) or Interim Permission Number (if any), and any other relevant registration number of the creditor.\]”.
 
-## 6. Transitional provision relating to the Consumer Credit (Disclosure of Information) Regulations 2010[^key-4b8a10a1264d92b1a601c2c54065a382]
+## 6. Transitional provision relating to the Consumer Credit (Disclosure of Information) Regulations 2010[^c-4b8a10a1264d92b1a601c2c54065a382]
 
 (1) Pre-contract credit information (within the meaning given by regulation 1(2) of the Consumer Credit (Disclosure of Information) Regulations 2010[^f00014]) disclosed to a debtor in the period specified in paragraph (2) which contains the information specified in paragraph (3) is to be treated as if it contained the information required by—
 
@@ -199,7 +199,7 @@ for “\[Consumer credit licence number and any other relevant registration numb
 - (b) the Firm Reference Number (FRN) (if any) or Interim Permission Number (if any) of the creditor, which is valid on or after 1st April 2014, and
 - (c) any other relevant registration number of the creditor.
 
-## 7. The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013[^key-2ce960e53af007fd9ca16749073dcc23][^key-cad4d9d4b08aa88ddcabd95d8b1adc8f]
+## 7. The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013[^c-2ce960e53af007fd9ca16749073dcc23][^c-cad4d9d4b08aa88ddcabd95d8b1adc8f]
 
 (1) The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013[^f00015] is amended as follows.
 
@@ -317,7 +317,7 @@ for “\[Consumer credit licence number and any other relevant registration numb
 
 .
 
-## 8. Legal professional privilege[^key-fab7f2d2a1714f970dbbecfdc677d4dd]
+## 8. Legal professional privilege[^c-fab7f2d2a1714f970dbbecfdc677d4dd]
 
 (1) The FCA is entitled to claim legal professional privilege or, in Scotland, confidentiality of communications in respect of legally privileged information disclosed to the FCA by the Office of Fair Trading (“the OFT”).
 
@@ -362,9 +362,9 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00003]: Footnote: Section 22 and paragraph 25 of Schedule 2 amended by the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), sections 7 and 8.
 
-[^key-e5fdf6eff9ad8ba16aedc8776e17a8ef]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-e5fdf6eff9ad8ba16aedc8776e17a8ef]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-52672198839971a363f25a77d22fd617]: Commencement: Art. 1 in force at 26.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/208/article/1/2)
+[^c-52672198839971a363f25a77d22fd617]: Commencement: Art. 1 in force at 26.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/208/article/1/2)
 
 [^f00004]: Footnote: Section 417 of the Financial Services and Markets Act 2000, as amended by the Financial Services Act 2012, section 48, defines the “FCA” as meaning the Financial Conduct Authority.
 
@@ -372,9 +372,9 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00006]: Footnote: [S.I. 2013/1882](https://www.legislation.gov.uk/uksi/2013/1882). Article 1(1)(b) of that Order brings that Order into force on 1st April 2014 to the extent that it is not already in force.
 
-[^key-fc4433b405137dbe13d15f9d3629be50]: Commencement: Art. 2 in force at 26.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)
+[^c-fc4433b405137dbe13d15f9d3629be50]: Commencement: Art. 2 in force at 26.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)
 
-[^key-8a081ca8726b1532826a027becbbc265]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/208/article/2) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4)
+[^c-8a081ca8726b1532826a027becbbc265]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/208/article/2) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4)
 
 [^f00007]: Footnote: Section 55U substituted by the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), section 11.
 
@@ -382,33 +382,33 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00009]: Footnote: Part 4A substituted by the Financial Services Act 2012, section 11.
 
-[^key-b91a3c0f51304006b70f19ffb7711865]: Commencement: Art. 3 in force at 26.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)
+[^c-b91a3c0f51304006b70f19ffb7711865]: Commencement: Art. 3 in force at 26.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)
 
-[^key-0b5488cff7bdf994b790b278836751da]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/208/article/3) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4)
+[^c-0b5488cff7bdf994b790b278836751da]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/208/article/3) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4)
 
 [^f00010]: Footnote: [S.I. 2004/2095](https://www.legislation.gov.uk/uksi/2004/2095); amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99) and [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881). There are other amending instruments but none is relevant
 
 [^f00011]: Footnote: Regulation 2 of [S.I. 2004/2095](https://www.legislation.gov.uk/uksi/2004/2095) defines “the Regulated Activities Order” as meaning the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001, [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544); articles 60C to 60H of that Order inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881); article 9C inserted by [S.I. 2002/682](https://www.legislation.gov.uk/uksi/2002/682) and amended by [S.I. 2006/3221](https://www.legislation.gov.uk/uksi/2006/3221) and [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472).
 
-[^key-4b89f67264d71c1c790cf232f095a626]: Commencement: Art. 4 in force at 26.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)
+[^c-4b89f67264d71c1c790cf232f095a626]: Commencement: Art. 4 in force at 26.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)
 
-[^key-e586ab5d438bcffb9bd59400deafdb70]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/208/article/4) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4)
+[^c-e586ab5d438bcffb9bd59400deafdb70]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/208/article/4) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4)
 
 [^f00012]: Footnote: [S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529); article 72E inserted by [S.I. 2010/905](https://www.legislation.gov.uk/uksi/2010/905).
 
-[^key-5aeda72fb1581ce48b935bd41ae94e88]: Commencement: Art. 5 in force at 26.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)
+[^c-5aeda72fb1581ce48b935bd41ae94e88]: Commencement: Art. 5 in force at 26.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)
 
-[^key-d065c12a7b7080bf3d18e46a860f1c30]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2014/208/article/5) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4)
+[^c-d065c12a7b7080bf3d18e46a860f1c30]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2014/208/article/5) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4)
 
 [^f00013]: Footnote: [S.I. 2010/1013](https://www.legislation.gov.uk/uksi/2010/1013); table 5 of Schedule 1 and table 5 of Schedule 3 amended by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
-[^key-4b8a10a1264d92b1a601c2c54065a382]: Commencement: Art. 6 in force at 26.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/208/article/1/2)
+[^c-4b8a10a1264d92b1a601c2c54065a382]: Commencement: Art. 6 in force at 26.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/208/article/1/2)
 
 [^f00014]: Footnote: [S.I. 2010/1013](https://www.legislation.gov.uk/uksi/2010/1013). Table 5 of Schedule 1 and table 5 of Schedule 3 amended by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
-[^key-2ce960e53af007fd9ca16749073dcc23]: Commencement: Art. 7 in force at 26.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)
+[^c-2ce960e53af007fd9ca16749073dcc23]: Commencement: Art. 7 in force at 26.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)
 
-[^key-cad4d9d4b08aa88ddcabd95d8b1adc8f]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2014/208/article/7) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4)
+[^c-cad4d9d4b08aa88ddcabd95d8b1adc8f]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2014/208/article/7) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4)
 
 [^f00015]: Footnote: [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
@@ -424,7 +424,7 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00021]: Footnote: Inserted by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476); amended by [S.I. 2007/3510](https://www.legislation.gov.uk/uksi/2007/3510), [S.I. 2011/1265](https://www.legislation.gov.uk/uksi/2011/1265) and [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
-[^key-fab7f2d2a1714f970dbbecfdc677d4dd]: Commencement: Art. 8 in force at 26.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/208/article/1/2)
+[^c-fab7f2d2a1714f970dbbecfdc677d4dd]: Commencement: Art. 8 in force at 26.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/208/article/1/2)
 
 [^f00022]: Footnote: [2012 c.21](https://www.legislation.gov.uk/ukpga/2012/21).
 

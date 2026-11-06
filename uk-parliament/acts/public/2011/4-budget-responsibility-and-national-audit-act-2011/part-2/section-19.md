@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Auditing of companies[^key-a717391c932dddaf7817fde91426e4ce]
+## 19. Auditing of companies[^c-a717391c932dddaf7817fde91426e4ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In section 25 of the Government Resources and Accounts Act 2000 (examinations by
 
 ## Annotations
 
-[^key-a717391c932dddaf7817fde91426e4ce]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2011/4/section/19) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/a)
+[^c-a717391c932dddaf7817fde91426e4ce]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2011/4/section/19) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/a)

@@ -37,8 +37,8 @@ summary: ''
 - (a) the reference to an employment includes employment as a director of a company, and
 - (b) “**earnings**” means earnings as defined in Chapter 1 of this Part.
 
-(5)[^key-28bfc64c2abcc1981322145f93c4bc8d] In the benefits code “**lower-paid employment as a minister of religion**” has the same meaning as in Part 4 (see section 290D).
+(5)[^c-28bfc64c2abcc1981322145f93c4bc8d] In the benefits code “**lower-paid employment as a minister of religion**” has the same meaning as in Part 4 (see section 290D).
 
 ## Annotations
 
-[^key-28bfc64c2abcc1981322145f93c4bc8d]: Textual amendment: S. 66(5) inserted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/6)
+[^c-28bfc64c2abcc1981322145f93c4bc8d]: Textual amendment: S. 66(5) inserted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/6)

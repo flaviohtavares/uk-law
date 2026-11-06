@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Duty to prepare list of priority qualifications[^key-1ca7740b1d340380fa3d6ef35c560d59]
+## 13. Duty to prepare list of priority qualifications[^c-1ca7740b1d340380fa3d6ef35c560d59]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ca7740b1d340380fa3d6ef35c560d59]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2015/5/section/13) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-1ca7740b1d340380fa3d6ef35c560d59]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2015/5/section/13) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

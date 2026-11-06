@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Service of purchase notice where planning permission is refused, revoked or made conditional[^key-e073b5e279205a88cc89d73705f93cc8]
+## 110. Service of purchase notice where planning permission is refused, revoked or made conditional[^c-e073b5e279205a88cc89d73705f93cc8]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e073b5e279205a88cc89d73705f93cc8]: Commencement: S. 110 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e073b5e279205a88cc89d73705f93cc8]: Commencement: S. 110 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

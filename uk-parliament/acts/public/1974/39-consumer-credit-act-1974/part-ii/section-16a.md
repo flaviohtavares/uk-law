@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Exemption relating to high net worth debtors and hirers[^key-d87faf6ae2e627cb1457e14019b2f424]
+## 16A. Exemption relating to high net worth debtors and hirers[^c-d87faf6ae2e627cb1457e14019b2f424]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d87faf6ae2e627cb1457e14019b2f424]: Textual amendment: S. 16A omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/6)
+[^c-d87faf6ae2e627cb1457e14019b2f424]: Textual amendment: S. 16A omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/6)

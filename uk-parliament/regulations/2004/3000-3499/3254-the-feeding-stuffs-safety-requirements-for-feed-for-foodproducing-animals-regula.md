@@ -44,7 +44,7 @@ Coming into force
 
 1st January 2005
 
-[^key-b403617398a1dda60c095ca5c03c818a][^key-e317a895f777f1fa40173741a5beb337]The Secretary of State, being a Minister designated [^c5290171] for the purposes of section 2(2) of the European Communities Act 1972 [^c5290181] in relation to measures relating to feed produced for or fed to food-producing animals, in exercise of the powers conferred by the said section 2(2), after consultation as required by Article 9 of Regulation (EC) No.178/2002 of the European Parliament and of the Council [^c5290191] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety, makes the following Regulations:
+[^c-b403617398a1dda60c095ca5c03c818a][^c-e317a895f777f1fa40173741a5beb337]The Secretary of State, being a Minister designated [^c5290171] for the purposes of section 2(2) of the European Communities Act 1972 [^c5290181] in relation to measures relating to feed produced for or fed to food-producing animals, in exercise of the powers conferred by the said section 2(2), after consultation as required by Article 9 of Regulation (EC) No.178/2002 of the European Parliament and of the Council [^c5290191] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety, makes the following Regulations:
 
 ## 1. Title, extent and commencement
 
@@ -255,11 +255,11 @@ Department of Health
 
 ## Annotations
 
-[^key-b403617398a1dda60c095ca5c03c818a]: Textual amendment: Regulations revoked in part (S.) (1.1.2006) by [The Feed (Hygiene and Enforcement) (Scotland) Regulations 2005 (S.S.I. 2005/608)](https://www.legislation.gov.uk/ssi/2005/608), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/1/1), [37](https://www.legislation.gov.uk/ssi/2005/608/regulation/37), [sch. 3](https://www.legislation.gov.uk/ssi/2005/608/schedule/3)
+[^c-b403617398a1dda60c095ca5c03c818a]: Textual amendment: Regulations revoked in part (S.) (1.1.2006) by [The Feed (Hygiene and Enforcement) (Scotland) Regulations 2005 (S.S.I. 2005/608)](https://www.legislation.gov.uk/ssi/2005/608), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/1/1), [37](https://www.legislation.gov.uk/ssi/2005/608/regulation/37), [sch. 3](https://www.legislation.gov.uk/ssi/2005/608/schedule/3)
 
     Regulations revoked in part (S.) (3.1.2006) by [The Feeding Stuffs (Application to Zootechnical Additives etc.) (Scotland) Regulations 2005 (S.I. 2005/3362)](https://www.legislation.gov.uk/uksi/2005/3362), [reg. 8](https://www.legislation.gov.uk/uksi/2005/3362/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/2005/3362/schedule)
 
-[^key-e317a895f777f1fa40173741a5beb337]: Textual amendment: Regulations revoked (W.) (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/uksi/2005/3368), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3368/schedule/2)
+[^c-e317a895f777f1fa40173741a5beb337]: Textual amendment: Regulations revoked (W.) (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/uksi/2005/3368), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3368/schedule/2)
 
 [^c5290171]: Marginal citation: [S.I. 2003/2901](https://www.legislation.gov.uk/uksi/2003/2901). These Regulations extend to Scotland pursuant to section 57(1) of the [Scotland Act 1998 (1998 c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), and apply in relation to Wales pursuant to paragraph 5 in Part II of Schedule 3 to the [Government of Wales Act 1998 (1998 c. 38)](https://www.legislation.gov.uk/ukpga/1998/38).
 

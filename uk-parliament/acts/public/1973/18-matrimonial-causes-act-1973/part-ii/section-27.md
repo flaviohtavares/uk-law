@@ -25,7 +25,7 @@ summary: ''
 - (a) has failed to provide reasonable maintenance for the applicant, or
 - (b) has failed to provide, or to make a proper contribution towards, reasonable maintenance for any child of the family.
 
-(2)[^key-9da88db4f8023863465520a287f349f6] The court may not entertain an application under this section unless—
+(2)[^c-9da88db4f8023863465520a287f349f6] The court may not entertain an application under this section unless—
 
 - (a) the applicant or the respondent is domiciled in England and Wales on the date of the application;
 - (b) the applicant has been habitually resident there throughout the period of one year ending with that date; or
@@ -84,7 +84,7 @@ the court shall have power by order to revive the first mentioned order from suc
 
 [^c8897071]: Textual amendment: S. 27(1) substituted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 63(1)](https://www.legislation.gov.uk/ukpga/1978/22/section/63/1), [89(2)](https://www.legislation.gov.uk/ukpga/1978/22/section/89/2)
 
-[^key-9da88db4f8023863465520a287f349f6]: Textual amendment: S. 27(2)-(2B) substituted for s. 27(2) (31.12.2020) by [S.I. 2019/519](https://www.legislation.gov.uk/uksi/2019/519), [Sch. para. 6(2)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/6/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)(3)(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9da88db4f8023863465520a287f349f6]: Textual amendment: S. 27(2)-(2B) substituted for s. 27(2) (31.12.2020) by [S.I. 2019/519](https://www.legislation.gov.uk/uksi/2019/519), [Sch. para. 6(2)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/6/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)(3)(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c8897101]: Textual amendment: S. 27(3) substituted by [Matrimonial and Family Proceedings Act 1984 (c. 42, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1984/42), [ss. 4](https://www.legislation.gov.uk/ukpga/1984/42/section/4), [48(2)](https://www.legislation.gov.uk/ukpga/1984/42/section/48/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Notice of trust not receivable by Director of Savings[^key-c43083103556e58b8d10392f0fd918b1]
+## 71. Notice of trust not receivable by Director of Savings[^c-c43083103556e58b8d10392f0fd918b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ by reason that the certificate is held in the name of a person as trustee, wheth
 
 ## Annotations
 
-[^key-c43083103556e58b8d10392f0fd918b1]: Commencement: Reg. 71 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-c43083103556e58b8d10392f0fd918b1]: Commencement: Reg. 71 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

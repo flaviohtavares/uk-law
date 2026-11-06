@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Multiple employments including at least one irregular employment[^key-02ff7d3621e30a41d5ec1e414a86f535]
+## 39. Multiple employments including at least one irregular employment[^c-02ff7d3621e30a41d5ec1e414a86f535]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02ff7d3621e30a41d5ec1e414a86f535]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2014/292/regulation/39) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-02ff7d3621e30a41d5ec1e414a86f535]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2014/292/regulation/39) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

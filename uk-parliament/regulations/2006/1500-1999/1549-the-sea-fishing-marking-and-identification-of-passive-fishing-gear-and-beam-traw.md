@@ -32,7 +32,7 @@ summary: ''
 
 SEA FISHERIES, ENGLAND
 
-The Sea Fishing (Marking and Identification of Passive Fishing Gear and Beam Trawls) (England) Order 2006 (revoked)[^key-e1cca96ea8e51505202602efc4595c00]
+The Sea Fishing (Marking and Identification of Passive Fishing Gear and Beam Trawls) (England) Order 2006 (revoked)[^c-e1cca96ea8e51505202602efc4595c00]
 
 Made
 
@@ -46,63 +46,63 @@ Coming into force
 
 10th July 2006
 
-[^key-e1cca96ea8e51505202602efc4595c00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1cca96ea8e51505202602efc4595c00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e1cca96ea8e51505202602efc4595c00]
+## 1. Citation and commencement[^c-e1cca96ea8e51505202602efc4595c00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extent and application[^key-e1cca96ea8e51505202602efc4595c00]
+## 2. Extent and application[^c-e1cca96ea8e51505202602efc4595c00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-e1cca96ea8e51505202602efc4595c00]
+## 3. Interpretation[^c-e1cca96ea8e51505202602efc4595c00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Offences[^key-e1cca96ea8e51505202602efc4595c00]
+## 4. Offences[^c-e1cca96ea8e51505202602efc4595c00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Penalties[^key-e1cca96ea8e51505202602efc4595c00]
+## 5. Penalties[^c-e1cca96ea8e51505202602efc4595c00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Recovery of fines[^key-e1cca96ea8e51505202602efc4595c00]
+## 6. Recovery of fines[^c-e1cca96ea8e51505202602efc4595c00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Powers of British sea-fishery officers in relation to fishing boats[^key-e1cca96ea8e51505202602efc4595c00]
+## 7. Powers of British sea-fishery officers in relation to fishing boats[^c-e1cca96ea8e51505202602efc4595c00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Powers of British sea-fishery officers to seize fish and fishing gear[^key-e1cca96ea8e51505202602efc4595c00]
+## 8. Powers of British sea-fishery officers to seize fish and fishing gear[^c-e1cca96ea8e51505202602efc4595c00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Protection of officers[^key-e1cca96ea8e51505202602efc4595c00]
+## 9. Protection of officers[^c-e1cca96ea8e51505202602efc4595c00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Obstruction of officers[^key-e1cca96ea8e51505202602efc4595c00]
+## 10. Obstruction of officers[^c-e1cca96ea8e51505202602efc4595c00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Provisions as to offences[^key-e1cca96ea8e51505202602efc4595c00]
+## 11. Provisions as to offences[^c-e1cca96ea8e51505202602efc4595c00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Admissibility in evidence of logbooks and other documents[^key-e1cca96ea8e51505202602efc4595c00]
+## 12. Admissibility in evidence of logbooks and other documents[^c-e1cca96ea8e51505202602efc4595c00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1cca96ea8e51505202602efc4595c00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1cca96ea8e51505202602efc4595c00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REQUIREMENTS AS TO DEPLOYMENT, MARKING AND IDENTIFICATION OF PASSIVE FISHING GEAR, BUOYS AND BEAM TRAWLS, CONTRAVENTION OF WHICH CONSTITUTES AN OFFENCE[^key-e1cca96ea8e51505202602efc4595c00]
+## SCHEDULE — REQUIREMENTS AS TO DEPLOYMENT, MARKING AND IDENTIFICATION OF PASSIVE FISHING GEAR, BUOYS AND BEAM TRAWLS, CONTRAVENTION OF WHICH CONSTITUTES AN OFFENCE[^c-e1cca96ea8e51505202602efc4595c00]
 
 Article 4
 
@@ -110,8 +110,8 @@ Article 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-e1cca96ea8e51505202602efc4595c00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1cca96ea8e51505202602efc4595c00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e1cca96ea8e51505202602efc4595c00]: Textual amendment: Order revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-e1cca96ea8e51505202602efc4595c00]: Textual amendment: Order revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)

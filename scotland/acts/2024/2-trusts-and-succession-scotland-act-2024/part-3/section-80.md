@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Amendment of Confirmation of Executors (Scotland) Act 1858[^key-9a48963a3bddb5042c6746a41e6dd107][^key-a52947f667e92a28eb70c56f43d49b8d]
+## 80. Amendment of Confirmation of Executors (Scotland) Act 1858[^c-9a48963a3bddb5042c6746a41e6dd107][^c-a52947f667e92a28eb70c56f43d49b8d]
 
 *Extent: S*
 
@@ -56,6 +56,6 @@ After section 6 of the Confirmation of Executors (Scotland) Act 1858, insert—
 
 ## Annotations
 
-[^key-9a48963a3bddb5042c6746a41e6dd107]: Commencement: S. 80 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-9a48963a3bddb5042c6746a41e6dd107]: Commencement: S. 80 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
 
-[^key-a52947f667e92a28eb70c56f43d49b8d]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2024/2/section/80) in force at 26.6.2024 by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)
+[^c-a52947f667e92a28eb70c56f43d49b8d]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2024/2/section/80) in force at 26.6.2024 by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)

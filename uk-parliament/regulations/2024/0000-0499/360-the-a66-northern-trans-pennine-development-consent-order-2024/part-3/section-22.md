@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Compulsory acquisition of rights and restrictive covenants[^key-4f15a093265a635c28e49a438707c6a0]
+## 22. Compulsory acquisition of rights and restrictive covenants[^c-4f15a093265a635c28e49a438707c6a0]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4f15a093265a635c28e49a438707c6a0]: Commencement: Art. 22 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-4f15a093265a635c28e49a438707c6a0]: Commencement: Art. 22 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
 [^f00078]: Footnote: Section 8 was amended by paragraphs 1 and 2 of Schedule 17 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96A. Explanatory statements in relation to certain regulations[^key-59d777a504fa8cdaaadcf59bef81f3b3]
+## 96A. Explanatory statements in relation to certain regulations[^c-59d777a504fa8cdaaadcf59bef81f3b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59d777a504fa8cdaaadcf59bef81f3b3]: Textual amendment: [S. 96A](https://www.legislation.gov.uk/ukpga/1998/47/section/96A) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2022/357/regulation/3/6)
+[^c-59d777a504fa8cdaaadcf59bef81f3b3]: Textual amendment: [S. 96A](https://www.legislation.gov.uk/ukpga/1998/47/section/96A) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2022/357/regulation/3/6)

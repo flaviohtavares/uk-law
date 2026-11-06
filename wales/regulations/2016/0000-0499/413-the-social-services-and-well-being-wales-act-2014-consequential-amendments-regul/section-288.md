@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**288.**[^key-22aadad3f97eda5fe2bac824e28ac4e6] The Legal Aid, Sentencing and Punishment of Offenders Act 2012 is amended as follows.
+**288.**[^c-22aadad3f97eda5fe2bac824e28ac4e6] The Legal Aid, Sentencing and Punishment of Offenders Act 2012 is amended as follows.
 
 ## Annotations
 
-[^key-22aadad3f97eda5fe2bac824e28ac4e6]: Commencement: Reg. 288 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-22aadad3f97eda5fe2bac824e28ac4e6]: Commencement: Reg. 288 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

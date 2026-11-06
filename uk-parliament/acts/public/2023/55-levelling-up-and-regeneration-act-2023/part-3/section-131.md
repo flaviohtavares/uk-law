@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Power for appointees to vary determinations as to procedure[^key-942f3108e5d9ba1fa52175aa33739d82]
+## 131. Power for appointees to vary determinations as to procedure[^c-942f3108e5d9ba1fa52175aa33739d82]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In paragraph 2 of Schedule 6 to TCPA 1990 (powers and duties of appointed person
 
 ## Annotations
 
-[^key-942f3108e5d9ba1fa52175aa33739d82]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2023/55/section/131) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)
+[^c-942f3108e5d9ba1fa52175aa33739d82]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2023/55/section/131) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)

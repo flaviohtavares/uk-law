@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Requirement for courts and certain persons to have regard to the list of countries[^key-4de791cc19bc5b8a26144c0a6be4dd53][^key-8bbe4b59b49e73591a3508c0f20c6e04]
+## 173. Requirement for courts and certain persons to have regard to the list of countries[^c-4de791cc19bc5b8a26144c0a6be4dd53][^c-8bbe4b59b49e73591a3508c0f20c6e04]
 
 *Extent: E+W*
 
@@ -167,6 +167,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4de791cc19bc5b8a26144c0a6be4dd53]: Commencement: S. 173 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-4de791cc19bc5b8a26144c0a6be4dd53]: Commencement: S. 173 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-8bbe4b59b49e73591a3508c0f20c6e04]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2022/32/section/173) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/f)
+[^c-8bbe4b59b49e73591a3508c0f20c6e04]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2022/32/section/173) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Suspending service provision for contraventions of s. 120 conditions[^M_C_29d93038-1a56-44e2-c5c0-e93d706f35ce][^key-724b6eda2ab02c05bb497f630d937119]
+## 124. Suspending service provision for contraventions of s. 120 conditions[^M_C_29d93038-1a56-44e2-c5c0-e93d706f35ce][^c-724b6eda2ab02c05bb497f630d937119]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 [^M_C_29d93038-1a56-44e2-c5c0-e93d706f35ce]: Modification: Ss. 120-124 modified (31.12.2020) by [The Communications Act (e-Commerce) (EU Exit) Regulations 2020 (S.I. 2020/1420)](https://www.legislation.gov.uk/uksi/2020/1420), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1420/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1420/regulation/2)
 
-[^key-724b6eda2ab02c05bb497f630d937119]: Commencement: S. 124 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-724b6eda2ab02c05bb497f630d937119]: Commencement: S. 124 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

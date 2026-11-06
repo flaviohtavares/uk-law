@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Dairy Produce Quotas (Amendment) Regulations 2004 (revoked)[^key-17be392d0d0a101c818905f5016c26ed]
+The Dairy Produce Quotas (Amendment) Regulations 2004 (revoked)[^c-17be392d0d0a101c818905f5016c26ed]
 
 Made
 
@@ -45,81 +45,81 @@ Coming into force
 
 1st April 2004
 
-[^key-17be392d0d0a101c818905f5016c26ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17be392d0d0a101c818905f5016c26ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-17be392d0d0a101c818905f5016c26ed]
+## 1. Title and commencement[^c-17be392d0d0a101c818905f5016c26ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-17be392d0d0a101c818905f5016c26ed]
+## 2. Application[^c-17be392d0d0a101c818905f5016c26ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-17be392d0d0a101c818905f5016c26ed]
+## 3. Interpretation[^c-17be392d0d0a101c818905f5016c26ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the principal Regulations[^key-17be392d0d0a101c818905f5016c26ed]
+## 4. Amendment of the principal Regulations[^c-17be392d0d0a101c818905f5016c26ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-17be392d0d0a101c818905f5016c26ed]
+## 5.[^c-17be392d0d0a101c818905f5016c26ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-17be392d0d0a101c818905f5016c26ed]
+## 6.[^c-17be392d0d0a101c818905f5016c26ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-17be392d0d0a101c818905f5016c26ed]
+## 7.[^c-17be392d0d0a101c818905f5016c26ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-17be392d0d0a101c818905f5016c26ed]
+## 8.[^c-17be392d0d0a101c818905f5016c26ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-17be392d0d0a101c818905f5016c26ed]
+## 9.[^c-17be392d0d0a101c818905f5016c26ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-17be392d0d0a101c818905f5016c26ed]
+## 10.[^c-17be392d0d0a101c818905f5016c26ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-17be392d0d0a101c818905f5016c26ed]
+## 11.[^c-17be392d0d0a101c818905f5016c26ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-17be392d0d0a101c818905f5016c26ed]
+## 12.[^c-17be392d0d0a101c818905f5016c26ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-17be392d0d0a101c818905f5016c26ed]
+## 13.[^c-17be392d0d0a101c818905f5016c26ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-17be392d0d0a101c818905f5016c26ed]
+## 14.[^c-17be392d0d0a101c818905f5016c26ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-17be392d0d0a101c818905f5016c26ed]
+## 15.[^c-17be392d0d0a101c818905f5016c26ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17be392d0d0a101c818905f5016c26ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17be392d0d0a101c818905f5016c26ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — AMENDMENT OF REFERENCES TO THE COUNCIL REGULATION[^key-17be392d0d0a101c818905f5016c26ed]
+## SCHEDULE — AMENDMENT OF REFERENCES TO THE COUNCIL REGULATION[^c-17be392d0d0a101c818905f5016c26ed]
 
 Regulation 14
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — MINOR AMENDMENTS[^key-17be392d0d0a101c818905f5016c26ed]
+## SCHEDULE 2 — MINOR AMENDMENTS[^c-17be392d0d0a101c818905f5016c26ed]
 
 Regulation 15
 
@@ -127,8 +127,8 @@ Regulation 15
 
 **May not be in force at this date. Check the source.**
 
-[^key-17be392d0d0a101c818905f5016c26ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17be392d0d0a101c818905f5016c26ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-17be392d0d0a101c818905f5016c26ed]: Textual amendment: Regulations revoked (31.3.2005) by [The Dairy Produce Quotas Regulations 2005 (S.I. 2005/465)](https://www.legislation.gov.uk/uksi/2005/465), [regs. 1](https://www.legislation.gov.uk/uksi/2005/465/regulation/1), [41(1)](https://www.legislation.gov.uk/uksi/2005/465/regulation/41/1)
+[^c-17be392d0d0a101c818905f5016c26ed]: Textual amendment: Regulations revoked (31.3.2005) by [The Dairy Produce Quotas Regulations 2005 (S.I. 2005/465)](https://www.legislation.gov.uk/uksi/2005/465), [regs. 1](https://www.legislation.gov.uk/uksi/2005/465/regulation/1), [41(1)](https://www.legislation.gov.uk/uksi/2005/465/regulation/41/1)

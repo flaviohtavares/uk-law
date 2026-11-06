@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41ZA. Local rating lists: Wales[^key-6537cb645f943983b08c5c97647edda2]
+## 41ZA. Local rating lists: Wales[^c-6537cb645f943983b08c5c97647edda2]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6537cb645f943983b08c5c97647edda2]: Textual amendment: [S. 41ZA](https://www.legislation.gov.uk/ukpga/1988/41/section/41ZA) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 2(3)](https://www.legislation.gov.uk/asc/2024/6/section/2/3), [23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
+[^c-6537cb645f943983b08c5c97647edda2]: Textual amendment: [S. 41ZA](https://www.legislation.gov.uk/ukpga/1988/41/section/41ZA) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 2(3)](https://www.legislation.gov.uk/asc/2024/6/section/2/3), [23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)

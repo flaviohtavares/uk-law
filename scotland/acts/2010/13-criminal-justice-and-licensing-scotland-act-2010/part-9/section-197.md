@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 197. Powers of Licensing Standards Officers[^key-5c76e3318a68ea7e3e7d891c8b581d90]
+## 197. Powers of Licensing Standards Officers[^c-5c76e3318a68ea7e3e7d891c8b581d90]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c76e3318a68ea7e3e7d891c8b581d90]: Commencement: [S. 197](https://www.legislation.gov.uk/asp/2010/13/section/197) in force at 29.6.2018 by [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 2(b)](https://www.legislation.gov.uk/ssi/2018/102/article/2/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2018/102/article/4))
+[^c-5c76e3318a68ea7e3e7d891c8b581d90]: Commencement: [S. 197](https://www.legislation.gov.uk/asp/2010/13/section/197) in force at 29.6.2018 by [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 2(b)](https://www.legislation.gov.uk/ssi/2018/102/article/2/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2018/102/article/4))

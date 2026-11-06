@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Local Commissioners’ investigation of complaints by persons who are not tenants[^key-7aa457e8a19dfc51074a44436ccd1160][^key-4274398572b858cebe8ba56c0df361b4]
+## 74. Local Commissioners’ investigation of complaints by persons who are not tenants[^c-7aa457e8a19dfc51074a44436ccd1160][^c-4274398572b858cebe8ba56c0df361b4]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In section 26 of the [Local Government Act 1974](https://www.legislation.gov.uk/
 
 ## Annotations
 
-[^key-7aa457e8a19dfc51074a44436ccd1160]: Commencement: S. 74 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-7aa457e8a19dfc51074a44436ccd1160]: Commencement: S. 74 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-4274398572b858cebe8ba56c0df361b4]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2025/26/section/74) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/f)
+[^c-4274398572b858cebe8ba56c0df361b4]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2025/26/section/74) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/f)

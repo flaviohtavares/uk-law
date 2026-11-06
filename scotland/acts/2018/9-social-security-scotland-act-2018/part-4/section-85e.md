@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85E. Guidance for appointees[^key-6182811e42cf7855de9310cc5412bc1b]
+## 85E. Guidance for appointees[^c-6182811e42cf7855de9310cc5412bc1b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6182811e42cf7855de9310cc5412bc1b]: Textual amendment: [S. 85E](https://www.legislation.gov.uk/asp/2018/9/section/85E) inserted (24.1.2022) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 2(7)](https://www.legislation.gov.uk/asp/2020/18/section/2/7), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/442](https://www.legislation.gov.uk/ssi/2021/442), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/442/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/442/regulation/3))
+[^c-6182811e42cf7855de9310cc5412bc1b]: Textual amendment: [S. 85E](https://www.legislation.gov.uk/asp/2018/9/section/85E) inserted (24.1.2022) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 2(7)](https://www.legislation.gov.uk/asp/2020/18/section/2/7), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/442](https://www.legislation.gov.uk/ssi/2021/442), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/442/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/442/regulation/3))

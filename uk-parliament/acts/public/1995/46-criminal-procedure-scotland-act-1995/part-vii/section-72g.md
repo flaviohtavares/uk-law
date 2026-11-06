@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72G. Service etc. on accused through a solicitor[^key-d69831872f553cc5cf6d968f8a87b157]
+## 72G. Service etc. on accused through a solicitor[^c-d69831872f553cc5cf6d968f8a87b157]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d69831872f553cc5cf6d968f8a87b157]: Textual amendment: S. 72G repealed (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 1(3)(b)](https://www.legislation.gov.uk/asp/2025/14/section/1/3/b), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(a)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/a)
+[^c-d69831872f553cc5cf6d968f8a87b157]: Textual amendment: S. 72G repealed (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 1(3)(b)](https://www.legislation.gov.uk/asp/2025/14/section/1/3/b), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(a)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/a)

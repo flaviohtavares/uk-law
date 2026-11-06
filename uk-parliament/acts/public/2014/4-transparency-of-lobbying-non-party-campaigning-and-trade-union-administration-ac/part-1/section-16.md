@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Imposition of penalty[^c2201946][^key-5223ad9ea7ed97c04a38ee6e0bed953e]
+## 16. Imposition of penalty[^c2201946][^c-5223ad9ea7ed97c04a38ee6e0bed953e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c2201946]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2014/4/section/16) partly in force; [s. 16(4)](https://www.legislation.gov.uk/ukpga/2014/4/section/16/4) in force for certain purposes at Royal Assent, see [s. 45(3)(a)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/a)
 
-[^key-5223ad9ea7ed97c04a38ee6e0bed953e]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2014/4/section/16) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)
+[^c-5223ad9ea7ed97c04a38ee6e0bed953e]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2014/4/section/16) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)

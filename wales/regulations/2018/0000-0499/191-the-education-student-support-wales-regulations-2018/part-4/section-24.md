@@ -39,7 +39,7 @@ An honours graduate may qualify for support under these Regulations if the prese
 An honours graduate may qualify for a maintenance loan if any of the following applies—
 
 - (a) the present course leads to a qualification as a social worker, medical doctor, dentist, veterinary surgeon or architect;
-- (b)[^key-0b79ef0e16dc50234a3ccd683fca308a] the graduate is to receive any payment under a healthcare bursary, the amount of which is calculated by reference to the graduate’s income;
+- (b)[^c-0b79ef0e16dc50234a3ccd683fca308a] the graduate is to receive any payment under a healthcare bursary, the amount of which is calculated by reference to the graduate’s income;
 - (c) the present course is a course for the initial training of teachers.
 
 *Case 3*
@@ -57,4 +57,4 @@ Regulation 26 applies.
 
 ## Annotations
 
-[^key-0b79ef0e16dc50234a3ccd683fca308a]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/24/2) substituted (4.1.2024) by [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [43](https://www.legislation.gov.uk/wsi/2023/1349/regulation/43)
+[^c-0b79ef0e16dc50234a3ccd683fca308a]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/24/2) substituted (4.1.2024) by [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [43](https://www.legislation.gov.uk/wsi/2023/1349/regulation/43)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Grant of licences[^key-1620c22f8ed43a59efe8bceca5a27997]
+## 118. Grant of licences[^c-1620c22f8ed43a59efe8bceca5a27997]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ a 700 MHz licence which authorises the use of the frequencies determined in acco
 
 ## Annotations
 
-[^key-1620c22f8ed43a59efe8bceca5a27997]: Commencement: Reg. 118 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-1620c22f8ed43a59efe8bceca5a27997]: Commencement: Reg. 118 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

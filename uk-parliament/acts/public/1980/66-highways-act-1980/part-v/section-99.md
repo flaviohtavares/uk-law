@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Metalling of highways.[^key-c8aca5870d37ca1c65bdc6a40cfef919]
+## 99. Metalling of highways.[^c-c8aca5870d37ca1c65bdc6a40cfef919]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A highway authority may, in relation to a highway maintainable at the public exp
 
 ## Annotations
 
-[^key-c8aca5870d37ca1c65bdc6a40cfef919]: Modification: S. 99 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(y)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/y)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
+[^c-c8aca5870d37ca1c65bdc6a40cfef919]: Modification: S. 99 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(y)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/y)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)

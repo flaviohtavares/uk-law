@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Grants from the Secretary of State[^key-12d85e868eff920e215d6461a9687745]
+## 74. Grants from the Secretary of State[^c-12d85e868eff920e215d6461a9687745]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The terms and conditions under subsection (1) may, in particular, be framed by reference to particular courses of study.
 
-(3) But in determining the terms and conditions under subsection (1), the Secretary of State must have regard to the need to protect the institutional autonomy of English higher education providers and the academic freedom of academic staff at such providers[^key-f24fb2bc53d2ca306d026a115a6c21d1].
+(3) But in determining the terms and conditions under subsection (1), the Secretary of State must have regard to the need to protect the institutional autonomy of English higher education providers and the academic freedom of academic staff at such providers[^c-f24fb2bc53d2ca306d026a115a6c21d1].
 
 (4) The terms and conditions under subsection (1) must not relate to—
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-12d85e868eff920e215d6461a9687745]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2017/29/section/74) in force at 1.1.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/2/e)
+[^c-12d85e868eff920e215d6461a9687745]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2017/29/section/74) in force at 1.1.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/2/e)
 
-[^key-f24fb2bc53d2ca306d026a115a6c21d1]: Textual amendment: Words in [s. 74(3)](https://www.legislation.gov.uk/ukpga/2017/29/section/74/3) inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/8); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(f)(vii)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/f/vii)
+[^c-f24fb2bc53d2ca306d026a115a6c21d1]: Textual amendment: Words in [s. 74(3)](https://www.legislation.gov.uk/ukpga/2017/29/section/74/3) inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/8); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(f)(vii)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/f/vii)

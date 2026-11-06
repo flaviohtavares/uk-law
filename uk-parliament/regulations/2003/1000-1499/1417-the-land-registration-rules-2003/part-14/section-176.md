@@ -24,7 +24,7 @@ summary: ''
 
 (2) Any of the following applications must, if they relate to a registered or unregistered estate held by or in trust for a non-exempt charity, be accompanied by an application for entry of the appropriate restriction unless, in the case of a registered estate, that restriction is already in the register—
 
-- (a) an application for first registration of an unregistered estate unless the disposition which triggers the requirement of registration is effected by an instrument containing the statement set out in rule 179(b) or rule 180(2)(b) , (c) or (d)[^key-ed1c95a06a6630234518f5c963ef1799],
+- (a) an application for first registration of an unregistered estate unless the disposition which triggers the requirement of registration is effected by an instrument containing the statement set out in rule 179(b) or rule 180(2)(b) , (c) or (d)[^c-ed1c95a06a6630234518f5c963ef1799],
 - (b) an application to register a transfer of a registered estate unless the disposition is effected by an instrument containing the statement set out in rule 179(b),
 - (c) an application under rule 161 to register the vesting of a registered estate in a person other than the proprietor of that estate.
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c10312471]: Marginal citation: [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10).
 
-[^key-ed1c95a06a6630234518f5c963ef1799]: Textual amendment: Words in [rule 176(2)(a)](https://www.legislation.gov.uk/uksi/2003/1417/rule/176/2/a) substituted (7.3.2024) by [The Charities Act 2022 (Commencement No. 3, Consequential, Saving and Transitional Provisions) Regulations 2024 (S.I. 2024/265)](https://www.legislation.gov.uk/uksi/2024/265), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2024/265/schedule/3/paragraph/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2024/265/regulation/10), [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2024/265/schedule/3/paragraph/2))
+[^c-ed1c95a06a6630234518f5c963ef1799]: Textual amendment: Words in [rule 176(2)(a)](https://www.legislation.gov.uk/uksi/2003/1417/rule/176/2/a) substituted (7.3.2024) by [The Charities Act 2022 (Commencement No. 3, Consequential, Saving and Transitional Provisions) Regulations 2024 (S.I. 2024/265)](https://www.legislation.gov.uk/uksi/2024/265), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2024/265/schedule/3/paragraph/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2024/265/regulation/10), [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2024/265/schedule/3/paragraph/2))

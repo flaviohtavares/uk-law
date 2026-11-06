@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Chargeable gains[^key-b6c2bce4deb6fdf863657d25bc7123e7]
+## 187. Chargeable gains[^c-b6c2bce4deb6fdf863657d25bc7123e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ and the second sentence.
 
 ## Annotations
 
-[^key-b6c2bce4deb6fdf863657d25bc7123e7]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-b6c2bce4deb6fdf863657d25bc7123e7]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284

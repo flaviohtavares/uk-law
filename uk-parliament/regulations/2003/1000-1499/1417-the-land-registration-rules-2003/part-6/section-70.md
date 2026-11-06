@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Description of land where mines or minerals situated[^key-eba33292097d1148a937b0b425bf7427]
+## 70. Description of land where mines or minerals situated[^c-eba33292097d1148a937b0b425bf7427]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the registrar is describing a registered estate in land in the property re
 
 ## Annotations
 
-[^key-eba33292097d1148a937b0b425bf7427]: Textual amendment: Rule 70 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/20) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-eba33292097d1148a937b0b425bf7427]: Textual amendment: Rule 70 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/20) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

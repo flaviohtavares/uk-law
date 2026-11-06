@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**31.**[^key-be9431fa87021251f23651413df5b659] In Part 71—
+**31.**[^c-be9431fa87021251f23651413df5b659] In Part 71—
 
 - (a) in rule 71.2, in paragraph (2), in subparagraph (b)—
   - (i) after “in the court” insert “or County Court hearing centre”;
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be9431fa87021251f23651413df5b659]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2014/407/rule/31) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
+[^c-be9431fa87021251f23651413df5b659]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2014/407/rule/31) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)

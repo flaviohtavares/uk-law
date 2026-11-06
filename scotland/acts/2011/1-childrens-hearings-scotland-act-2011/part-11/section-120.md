@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Powers of children's hearing on deferral under section 119[^key-00a06e313d8e1274f41d9c1e10dbe837]
+## 120. Powers of children's hearing on deferral under section 119[^c-00a06e313d8e1274f41d9c1e10dbe837]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00a06e313d8e1274f41d9c1e10dbe837]: Commencement: S. 120 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-00a06e313d8e1274f41d9c1e10dbe837]: Commencement: S. 120 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

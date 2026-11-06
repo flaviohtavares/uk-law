@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62ZA. Special provision with respect to hazardous waste in England and Wales[^key-a06c796556e18b76c5b3d5d4ce64eed6]
+## 62ZA. Special provision with respect to hazardous waste in England and Wales[^c-a06c796556e18b76c5b3d5d4ce64eed6]
 
 *Extent: E+W*
 
@@ -90,4 +90,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a06c796556e18b76c5b3d5d4ce64eed6]: Textual amendment: [S. 62ZA](https://www.legislation.gov.uk/ukpga/1990/43/section/62ZA) inserted (24.1.2022 for E., 7.3.2022 for W.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/60/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/j); [S.I. 2022/223](https://www.legislation.gov.uk/wsi/2022/223), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/223/regulation/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2022/223/regulation/2/b)
+[^c-a06c796556e18b76c5b3d5d4ce64eed6]: Textual amendment: [S. 62ZA](https://www.legislation.gov.uk/ukpga/1990/43/section/62ZA) inserted (24.1.2022 for E., 7.3.2022 for W.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/60/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/j); [S.I. 2022/223](https://www.legislation.gov.uk/wsi/2022/223), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/223/regulation/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2022/223/regulation/2/b)

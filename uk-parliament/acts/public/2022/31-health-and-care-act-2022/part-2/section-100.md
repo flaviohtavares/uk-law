@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Enforcement of duties against private providers[^key-a7b76bf55e934dc04ef77dd5d7bdd7e4][^key-76e7fb32c44b5ea45c03ec5f41b46406]
+## 100. Enforcement of duties against private providers[^c-a7b76bf55e934dc04ef77dd5d7bdd7e4][^c-76e7fb32c44b5ea45c03ec5f41b46406]
 
 *Extent: E+W*
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a7b76bf55e934dc04ef77dd5d7bdd7e4]: Commencement: S. 100 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-a7b76bf55e934dc04ef77dd5d7bdd7e4]: Commencement: S. 100 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-76e7fb32c44b5ea45c03ec5f41b46406]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2022/31/section/100) in force at 1.10.2022 by [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/c)
+[^c-76e7fb32c44b5ea45c03ec5f41b46406]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2022/31/section/100) in force at 1.10.2022 by [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/c)

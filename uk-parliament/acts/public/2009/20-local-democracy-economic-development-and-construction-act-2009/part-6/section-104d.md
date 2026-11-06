@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104D. Review of combined authority’s constitutional arrangements[^key-6adb131443f1330b5436da3ff31ec3ec]
+## 104D. Review of combined authority’s constitutional arrangements[^c-6adb131443f1330b5436da3ff31ec3ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6adb131443f1330b5436da3ff31ec3ec]: Textual amendment: [S. 104D](https://www.legislation.gov.uk/ukpga/2009/20/section/104D) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 58](https://www.legislation.gov.uk/ukpga/2023/55/section/58), [255(2)(d)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/d) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-6adb131443f1330b5436da3ff31ec3ec]: Textual amendment: [S. 104D](https://www.legislation.gov.uk/ukpga/2009/20/section/104D) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 58](https://www.legislation.gov.uk/ukpga/2023/55/section/58), [255(2)(d)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/d) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

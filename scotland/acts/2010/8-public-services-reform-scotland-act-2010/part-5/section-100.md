@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Local authorities and health bodies: awareness of SCSWIS reports etc.[^key-a112efca7c4c5a2bddddf2dc185d05c8][^key-7a40cb6e3a7ad536d4845cd149a5a76c]
+## 100. Local authorities and health bodies: awareness of SCSWIS reports etc.[^c-a112efca7c4c5a2bddddf2dc185d05c8][^c-7a40cb6e3a7ad536d4845cd149a5a76c]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ prepared, disseminated, given or otherwise produced by SCSWIS as are relevant to
 
 ## Annotations
 
-[^key-a112efca7c4c5a2bddddf2dc185d05c8]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2010/8/section/100) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-a112efca7c4c5a2bddddf2dc185d05c8]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2010/8/section/100) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-7a40cb6e3a7ad536d4845cd149a5a76c]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2010/8/section/100) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-7a40cb6e3a7ad536d4845cd149a5a76c]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2010/8/section/100) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

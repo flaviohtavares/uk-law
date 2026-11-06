@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 285. Notice to joint bank liquidators[^key-4a520ebfa49f83410eb9db759da0a84a]
+## 285. Notice to joint bank liquidators[^c-4a520ebfa49f83410eb9db759da0a84a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where two or more persons are acting jointly as the bank liquidator, delivery of
 
 ## Annotations
 
-[^key-4a520ebfa49f83410eb9db759da0a84a]: Commencement: Rule 285 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-4a520ebfa49f83410eb9db759da0a84a]: Commencement: Rule 285 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

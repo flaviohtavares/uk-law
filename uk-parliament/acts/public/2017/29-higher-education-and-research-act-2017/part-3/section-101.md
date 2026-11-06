@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Grants to UKRI from the Secretary of State[^key-efdc3a8f201997037c0532aa697909b0]
+## 101. Grants to UKRI from the Secretary of State[^c-efdc3a8f201997037c0532aa697909b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efdc3a8f201997037c0532aa697909b0]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2017/29/section/101) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)
+[^c-efdc3a8f201997037c0532aa697909b0]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2017/29/section/101) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Meaning of authority[^key-238c519e3620ae729bd3b1daf5ef0c34]
+## 79. Meaning of authority[^c-238c519e3620ae729bd3b1daf5ef0c34]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In this Part, “authority”, in relation to a capital receipt or a disposal of
 
 ## Annotations
 
-[^key-238c519e3620ae729bd3b1daf5ef0c34]: Commencement: Reg. 79 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-238c519e3620ae729bd3b1daf5ef0c34]: Commencement: Reg. 79 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Change of use relief: installations[^key-df836c52fd8e3fabea8332b00616dc2a]
+## 96. Change of use relief: installations[^c-df836c52fd8e3fabea8332b00616dc2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df836c52fd8e3fabea8332b00616dc2a]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2023/52/section/96) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-df836c52fd8e3fabea8332b00616dc2a]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2023/52/section/96) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

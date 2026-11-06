@@ -22,7 +22,7 @@ summary: ''
 
 Article 34
 
-### PART 1 — Land of which only temporary possession may be taken[^key-b5d800e8fbe6f23cbbf202a51e32ee91]
+### PART 1 — Land of which only temporary possession may be taken[^c-b5d800e8fbe6f23cbbf202a51e32ee91]
 
 | (1) Area | (2) Number of plot shown on land plans | (3) Purpose for which temporary possession may be taken | (4) Relevant part of authorised development |
 | --- | --- | --- | --- |
@@ -96,7 +96,7 @@ Article 34
 | Flintshire | 29-02 | Temporary use as a working area (as part of Work No. 55B) | Work Nos. 55, 55A and 56 |
 | Flintshire | 29-06 | Temporary use as a working area (as part of Work Nos. 55A and 55B) | Work Nos. 55, 55A and 56 |
 
-### PART 2 — Land of which only temporary possession for access may be taken[^key-c6566e9543e578ed41884e60b7b214c4]
+### PART 2 — Land of which only temporary possession for access may be taken[^c-c6566e9543e578ed41884e60b7b214c4]
 
 | (1) Area | (2) Number of plot shown on land plans | (3) Purpose for which temporary possession may be taken | (4) Relevant part of authorised development |
 | --- | --- | --- | --- |
@@ -108,6 +108,6 @@ Article 34
 
 ## Annotations
 
-[^key-b5d800e8fbe6f23cbbf202a51e32ee91]: Commencement: Sch. 7 Pt. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-b5d800e8fbe6f23cbbf202a51e32ee91]: Commencement: Sch. 7 Pt. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
-[^key-c6566e9543e578ed41884e60b7b214c4]: Commencement: Sch. 7 Pt. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-c6566e9543e578ed41884e60b7b214c4]: Commencement: Sch. 7 Pt. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

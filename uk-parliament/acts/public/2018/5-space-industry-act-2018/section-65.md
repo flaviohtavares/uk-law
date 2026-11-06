@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Agreements with other countries: compliance with requirements etc[^key-1b90ae102ff31d33c78360823c207424]
+## 65. Agreements with other countries: compliance with requirements etc[^c-1b90ae102ff31d33c78360823c207424]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b90ae102ff31d33c78360823c207424]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2018/5/section/65) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(yy)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/yy)
+[^c-1b90ae102ff31d33c78360823c207424]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2018/5/section/65) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(yy)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/yy)

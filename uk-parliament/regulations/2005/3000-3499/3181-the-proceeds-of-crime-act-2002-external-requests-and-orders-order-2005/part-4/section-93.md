@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Action on receipt of external request in connection with criminal investigations or proceedings[^key-a43027854d3d2bbd6458a098e73f4ec8]
+## 93. Action on receipt of external request in connection with criminal investigations or proceedings[^c-a43027854d3d2bbd6458a098e73f4ec8]
 
 *Extent: E+W+S+N.I.*
 
 (1) Except where paragraph (2) applies, the Secretary of State may refer an external request in connection with criminal investigations or proceedings in the country from which the request was made and concerning relevant property in Northern Ireland to—
 
-- (a)[^key-30d0f6fecc463d4d93e60a79bda49da0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-30d0f6fecc463d4d93e60a79bda49da0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the Director of Public Prosecutions for Northern Ireland;
 
 to process it.
@@ -44,6 +44,6 @@ to process it.
 
 ## Annotations
 
-[^key-a43027854d3d2bbd6458a098e73f4ec8]: Commencement: [Art. 93](https://www.legislation.gov.uk/uksi/2005/3181/article/93) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-a43027854d3d2bbd6458a098e73f4ec8]: Commencement: [Art. 93](https://www.legislation.gov.uk/uksi/2005/3181/article/93) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-30d0f6fecc463d4d93e60a79bda49da0]: Textual amendment: [Art. 93(1)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/93/1/a) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(20)](https://www.legislation.gov.uk/uksi/2008/302/article/2/20)
+[^c-30d0f6fecc463d4d93e60a79bda49da0]: Textual amendment: [Art. 93(1)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/93/1/a) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(20)](https://www.legislation.gov.uk/uksi/2008/302/article/2/20)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 18 — The Health and Social Care Information Centre[^key-d922f707d5ebd45cddbc1e058011bae3]
+## SCHEDULE 18 — The Health and Social Care Information Centre[^c-d922f707d5ebd45cddbc1e058011bae3]
 
 *Extent: E+W*
 
@@ -88,4 +88,4 @@ Section 252
 
 ## Annotations
 
-[^key-d922f707d5ebd45cddbc1e058011bae3]: Textual amendment: [Sch. 18](https://www.legislation.gov.uk/ukpga/2012/7/schedule/18) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 17(31)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/17/31) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-d922f707d5ebd45cddbc1e058011bae3]: Textual amendment: [Sch. 18](https://www.legislation.gov.uk/ukpga/2012/7/schedule/18) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 17(31)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/17/31) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))

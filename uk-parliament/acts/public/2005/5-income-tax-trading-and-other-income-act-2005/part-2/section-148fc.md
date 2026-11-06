@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148FC. Cases where ss. 148A to 148F do not apply: other avoidance[^key-75e4e055881848dea2a3dcf3f37ff688][^c19154671]
+## 148FC. Cases where ss. 148A to 148F do not apply: other avoidance[^c-75e4e055881848dea2a3dcf3f37ff688][^c19154671]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ those amounts, and any other amounts which (as a result of this section) are to 
 
 ## Annotations
 
-[^key-75e4e055881848dea2a3dcf3f37ff688]: Textual amendment: S. 148FC inserted (with effect in accordance with Sch. 20 para. 10(7) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 10(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/10/4)
+[^c-75e4e055881848dea2a3dcf3f37ff688]: Textual amendment: S. 148FC inserted (with effect in accordance with Sch. 20 para. 10(7) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 10(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/10/4)
 
 [^c19154671]: Textual amendment: Pt. 2 Ch. 10A, (ss 148A-148J) inserted (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 81](https://www.legislation.gov.uk/ukpga/2006/25/section/81), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/13)

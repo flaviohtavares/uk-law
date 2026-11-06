@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. NHS foundation trusts: wider effect of decisions[^key-4a35346dd24e37a583704ebbaa071176][^key-9cd57eb5df338e99aa6d705e4db433aa]
+## 67. NHS foundation trusts: wider effect of decisions[^c-4a35346dd24e37a583704ebbaa071176][^c-9cd57eb5df338e99aa6d705e4db433aa]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ In the National Health Service Act 2006, after section 63 insert—
 
 ## Annotations
 
-[^key-4a35346dd24e37a583704ebbaa071176]: Commencement: S. 67 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-4a35346dd24e37a583704ebbaa071176]: Commencement: S. 67 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-9cd57eb5df338e99aa6d705e4db433aa]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2022/31/section/67) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-9cd57eb5df338e99aa6d705e4db433aa]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2022/31/section/67) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

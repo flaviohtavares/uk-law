@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Regulation (EU) 2019/877[^key-48bff17143351e7c6a59741078de110b]
+## 76. Regulation (EU) 2019/877[^c-48bff17143351e7c6a59741078de110b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation (EU) 2019/877 of the European Parliament and of the Council of 20 May
 
 ## Annotations
 
-[^key-48bff17143351e7c6a59741078de110b]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2020/1385/regulation/76) in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3)
+[^c-48bff17143351e7c6a59741078de110b]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2020/1385/regulation/76) in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3)

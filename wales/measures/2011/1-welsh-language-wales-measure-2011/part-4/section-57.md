@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Determining an application[^key-3ccc4f63c687e81e890e1c508cb92267]
+## 57. Determining an application[^c-3ccc4f63c687e81e890e1c508cb92267]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ccc4f63c687e81e890e1c508cb92267]: Commencement: [S. 57](https://www.legislation.gov.uk/mwa/2011/1/section/57) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-3ccc4f63c687e81e890e1c508cb92267]: Commencement: [S. 57](https://www.legislation.gov.uk/mwa/2011/1/section/57) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

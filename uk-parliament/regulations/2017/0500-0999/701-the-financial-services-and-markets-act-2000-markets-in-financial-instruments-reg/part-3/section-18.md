@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Content of position limits[^key-cb58cab18fc5d6052a04bc553f0dd4e8]
+## 18. Content of position limits[^c-cb58cab18fc5d6052a04bc553f0dd4e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb58cab18fc5d6052a04bc553f0dd4e8]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2017/701/regulation/18) revoked (6.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 50(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/50/b/ii) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(v)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/v)
+[^c-cb58cab18fc5d6052a04bc553f0dd4e8]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2017/701/regulation/18) revoked (6.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 50(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/50/b/ii) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(v)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/v)

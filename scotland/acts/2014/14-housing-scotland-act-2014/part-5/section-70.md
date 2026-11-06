@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Power to make provision in relation to procedure and appeals[^key-6b026a14bd4f412299370ae9a6d763fb]
+## 70. Power to make provision in relation to procedure and appeals[^c-6b026a14bd4f412299370ae9a6d763fb]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ After section 32M of the 1960 Act (inserted by section 69), insert—
 
 ## Annotations
 
-[^key-6b026a14bd4f412299370ae9a6d763fb]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2014/14/section/70) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-6b026a14bd4f412299370ae9a6d763fb]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2014/14/section/70) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

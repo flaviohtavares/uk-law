@@ -33,16 +33,16 @@ of 17 October 1978
 
 on the statistical threshold in the external trade statistics of the Community and statistics of trade between Member States (revoked)
 
-[^key-92ff4bd0d23311f590fc52e99d247f37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92ff4bd0d23311f590fc52e99d247f37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-92ff4bd0d23311f590fc52e99d247f37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-92ff4bd0d23311f590fc52e99d247f37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-92ff4bd0d23311f590fc52e99d247f37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-92ff4bd0d23311f590fc52e99d247f37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-92ff4bd0d23311f590fc52e99d247f37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92ff4bd0d23311f590fc52e99d247f37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-92ff4bd0d23311f590fc52e99d247f37]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/3)
+[^c-92ff4bd0d23311f590fc52e99d247f37]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/3)

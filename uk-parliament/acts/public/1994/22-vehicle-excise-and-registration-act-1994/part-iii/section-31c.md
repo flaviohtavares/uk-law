@@ -52,11 +52,11 @@ summary: ''
 
 (7) In this section, references to the expiry of a vehicle licence include a reference to—
 
-- (a) its [^key-1ef6dc85fef91e4c1688fe0d44cc6448]... ceasing to be in force under section 19(7)[^key-d4c9aca1a6f06e3e08424c9f319b8af0], and
+- (a) its [^c-1ef6dc85fef91e4c1688fe0d44cc6448]... ceasing to be in force under section 19(7)[^c-d4c9aca1a6f06e3e08424c9f319b8af0], and
 - (b) its being treated as no longer in force for the purposes of subsection (2) of section 31A by subsection (4) of that section.
 
 ## Annotations
 
-[^key-1ef6dc85fef91e4c1688fe0d44cc6448]: Textual amendment: Words in s. 31C(7)(a) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 12](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/12), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-1ef6dc85fef91e4c1688fe0d44cc6448]: Textual amendment: Words in s. 31C(7)(a) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 12](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/12), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
 
-[^key-d4c9aca1a6f06e3e08424c9f319b8af0]: Textual amendment: Words in s. 31C(7)(a) inserted (1.1.2009) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 144(5)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/5/c)[(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/7)
+[^c-d4c9aca1a6f06e3e08424c9f319b8af0]: Textual amendment: Words in s. 31C(7)(a) inserted (1.1.2009) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 144(5)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/5/c)[(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Publication of summary of charges scheme[^key-507655a3f8181344a39aba3ad3fc8f00]
+## 34. Publication of summary of charges scheme[^c-507655a3f8181344a39aba3ad3fc8f00]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-507655a3f8181344a39aba3ad3fc8f00]: Textual amendment: Ss. 31-34 repealed (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 21(3)](https://www.legislation.gov.uk/asp/2005/3/section/21/3), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2005/351/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
+[^c-507655a3f8181344a39aba3ad3fc8f00]: Textual amendment: Ss. 31-34 repealed (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 21(3)](https://www.legislation.gov.uk/asp/2005/3/section/21/3), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2005/351/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))

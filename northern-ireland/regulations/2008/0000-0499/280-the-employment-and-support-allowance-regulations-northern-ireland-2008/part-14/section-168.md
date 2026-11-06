@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 168. Reduction in certain cases[^key-510fc042d0b1e4a77143b20a1bfaeda8]
+## 168. Reduction in certain cases[^c-510fc042d0b1e4a77143b20a1bfaeda8]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-510fc042d0b1e4a77143b20a1bfaeda8]: Textual amendment: [Reg. 168](https://www.legislation.gov.uk/nisr/2008/280/regulation/168) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(28)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/28)
+[^c-510fc042d0b1e4a77143b20a1bfaeda8]: Textual amendment: [Reg. 168](https://www.legislation.gov.uk/nisr/2008/280/regulation/168) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(28)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/28)

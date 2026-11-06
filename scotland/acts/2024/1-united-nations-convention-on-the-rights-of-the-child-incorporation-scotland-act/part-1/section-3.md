@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Power to modify the schedule[^key-80f9c3441ff3f04092c9675ecb9eff3e]
+## 3. Power to modify the schedule[^c-80f9c3441ff3f04092c9675ecb9eff3e]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80f9c3441ff3f04092c9675ecb9eff3e]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2024/1/section/3) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-80f9c3441ff3f04092c9675ecb9eff3e]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2024/1/section/3) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

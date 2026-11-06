@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies where—
 
-- (a) a bankruptcy order is made in respect of an individual to whom another individual was an apprentice or articled clerk at the time when the application for the order was made or (as the case may be) the petition for the order[^key-a95631cc31cf5d6c128d5b67fb75f184] was presented, and
+- (a) a bankruptcy order is made in respect of an individual to whom another individual was an apprentice or articled clerk at the time when the application for the order was made or (as the case may be) the petition for the order[^c-a95631cc31cf5d6c128d5b67fb75f184] was presented, and
 - (b) the bankrupt or the apprentice or clerk gives notice to the trustee terminating the apprenticeship or articles.
 
 (2) Subject to subsection (6) below, the indenture of apprenticeship or, as the case may be, the articles of agreement shall be discharged with effect from the commencement of the bankruptcy.
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a95631cc31cf5d6c128d5b67fb75f184]: Textual amendment: Words in s. 348(1)(a) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 41](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/41); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-a95631cc31cf5d6c128d5b67fb75f184]: Textual amendment: Words in s. 348(1)(a) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 41](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/41); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))

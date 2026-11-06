@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15.7. Defendant’s application to use disclosed material[^key-d84413fda252f024f7300853fba4eafc]
+## 15.7. Defendant’s application to use disclosed material[^c-d84413fda252f024f7300853fba4eafc]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d84413fda252f024f7300853fba4eafc]: Commencement: [Rule 15.7](https://www.legislation.gov.uk/uksi/2025/909/rule/15.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d84413fda252f024f7300853fba4eafc]: Commencement: [Rule 15.7](https://www.legislation.gov.uk/uksi/2025/909/rule/15.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00417]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); section 17 was amended by section 331 of, and paragraphs 20 and 33 of Schedule 36 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).

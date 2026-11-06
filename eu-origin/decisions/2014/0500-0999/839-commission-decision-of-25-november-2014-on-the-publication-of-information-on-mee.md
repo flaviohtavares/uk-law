@@ -35,24 +35,24 @@ on the publication of information on meetings held between Members of the Commis
 
 (2014/839/EU, Euratom) (revoked)
 
-[^key-cb65de452a58d032ee931f733ece6789]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb65de452a58d032ee931f733ece6789]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-cb65de452a58d032ee931f733ece6789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-cb65de452a58d032ee931f733ece6789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-cb65de452a58d032ee931f733ece6789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-cb65de452a58d032ee931f733ece6789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-cb65de452a58d032ee931f733ece6789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-cb65de452a58d032ee931f733ece6789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-cb65de452a58d032ee931f733ece6789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-cb65de452a58d032ee931f733ece6789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-cb65de452a58d032ee931f733ece6789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-cb65de452a58d032ee931f733ece6789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-cb65de452a58d032ee931f733ece6789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-cb65de452a58d032ee931f733ece6789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-cb65de452a58d032ee931f733ece6789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-cb65de452a58d032ee931f733ece6789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb65de452a58d032ee931f733ece6789]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb65de452a58d032ee931f733ece6789]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cb65de452a58d032ee931f733ece6789]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb65de452a58d032ee931f733ece6789]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

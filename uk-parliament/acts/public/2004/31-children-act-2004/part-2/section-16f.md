@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16F. Local child safeguarding practice reviews[^key-3eeab60259ee2c2fefbfe879a7a7272d]
+## 16F. Local child safeguarding practice reviews[^c-3eeab60259ee2c2fefbfe879a7a7272d]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3eeab60259ee2c2fefbfe879a7a7272d]: Textual amendment: S. 16F inserted (19.3.2018 for specified purposes, 29.6.2018 in so far as not already in force) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 17](https://www.legislation.gov.uk/ukpga/2017/16/section/17), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/c); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/f)
+[^c-3eeab60259ee2c2fefbfe879a7a7272d]: Textual amendment: S. 16F inserted (19.3.2018 for specified purposes, 29.6.2018 in so far as not already in force) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 17](https://www.legislation.gov.uk/ukpga/2017/16/section/17), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/c); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/f)

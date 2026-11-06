@@ -24,9 +24,9 @@ Section 75
 
 ### Part 1 — Amendments of Nuclear Material (Offences) Act 1983
 
-**1.**[^key-1be5e306ac0794d0ecaa336c01a6533c] The Nuclear Material (Offences) Act 1983 (c. 18) has effect subject to the following amendments.
+**1.**[^c-1be5e306ac0794d0ecaa336c01a6533c] The Nuclear Material (Offences) Act 1983 (c. 18) has effect subject to the following amendments.
 
-**2.**[^key-2b84d9053db21ee7d0686caab1c0bd9a] (1) Section 1 (extended scope of certain offences) is amended as follows.
+**2.**[^c-2b84d9053db21ee7d0686caab1c0bd9a] (1) Section 1 (extended scope of certain offences) is amended as follows.
 
 (2) In subsection (1)(b) (offences under certain enactments) for “section 78 of the Criminal Justice (Scotland) Act 1980” substitute “ section 52 of the Criminal Law (Consolidation) (Scotland) Act 1995 ”.
 
@@ -42,7 +42,7 @@ Section 75
 
 (4) Omit subsection (2) (definition of “act”).
 
-**3.**[^key-2d2e95ef4171b227abf93196457de07a] After section 1 insert—
+**3.**[^c-2d2e95ef4171b227abf93196457de07a] After section 1 insert—
 
 > **1A. Increase in penalties for offences committed in relation to nuclear material etc.**
 >
@@ -129,7 +129,7 @@ Section 75
 > - “**CEMA 1979**” means the Customs and Excise Management Act 1979;
 > - “**the customs and excise Acts**”, “**shipment**” and “**stores**” have the same meanings as in CEMA 1979 (see section 1(1) of that Act).
 
-**4.**[^key-6e62489fced24846e1c5b442a0610824] For section 2 substitute—
+**4.**[^c-6e62489fced24846e1c5b442a0610824] For section 2 substitute—
 
 > **2. Offences involving preparatory acts and threats**
 >
@@ -210,7 +210,7 @@ Section 75
 > - (a) a reference to incitement under the law of Scotland, or
 > - (b) in relation to any time before the coming into force of Part 2 of the Serious Crime Act 2007 (encouraging or assisting crime) in relation to England and Wales or Northern Ireland, a reference to incitement under the common law of England and Wales or (as the case may be) of Northern Ireland.
 
-**5.**[^key-7d6bdc507e75ce8d006a08d5dfdaea27] After section 3 (supplemental) insert—
+**5.**[^c-7d6bdc507e75ce8d006a08d5dfdaea27] After section 3 (supplemental) insert—
 
 > **3A. Application to activities of armed forces**
 >
@@ -223,7 +223,7 @@ Section 75
 >
 > (3) In any proceedings a document purporting to be such a certificate as is mentioned in subsection (2) shall be taken to be such a certificate unless the contrary is proved.
 
-**6.**[^key-6b1e8ec16f36c35445a2b0addfd68182] (1) Section 6 (material to which the Act applies) is amended as follows.
+**6.**[^c-6b1e8ec16f36c35445a2b0addfd68182] (1) Section 6 (material to which the Act applies) is amended as follows.
 
 (2) Before subsection (1) insert—
 
@@ -261,11 +261,11 @@ Section 75
 
 (7) For the sidenote, substitute “ Interpretation ”.
 
-**7.**[^key-a1483054e78223a5367518356970cb43] In section 7 (application to the Channel Islands, Isle of Man etc.) in subsection (2), for “any colony” substitute “ any British overseas territory ”.
+**7.**[^c-a1483054e78223a5367518356970cb43] In section 7 (application to the Channel Islands, Isle of Man etc.) in subsection (2), for “any colony” substitute “ any British overseas territory ”.
 
 ### Part 2 — Amendments of Customs and Excise Management Act 1979
 
-**8.**[^key-15d40a0d52cb2e6cabf1b9fc5c0c17b9] (1) The Customs and Excise Management Act 1979 (c. 2) is amended as follows.
+**8.**[^c-15d40a0d52cb2e6cabf1b9fc5c0c17b9] (1) The Customs and Excise Management Act 1979 (c. 2) is amended as follows.
 
 (2) In section 1 (interpretation) in subsection (1) insert at the appropriate place—
 
@@ -294,26 +294,26 @@ Section 75
 
   > (4C) In the case of an offence under subsection (1) or (2) above in connection with a prohibition or restriction relating to the importation, exportation or shipment as stores of nuclear material, subsection (3)(b) above shall have effect as if for the words “7 years” there were substituted the words “ 14 years ”.
 
-**9.**[^key-7a159f7881da556f7b0574f0e2d546b0] (1) Her Majesty may by Order in Council provide for any provisions of section 1, 50, 68 or 170 of the Customs and Excise Management Act 1979 (c. 2) as amended by paragraph 8 to extend, with or without modifications, to any of the Channel Islands or any British overseas territory.
+**9.**[^c-7a159f7881da556f7b0574f0e2d546b0] (1) Her Majesty may by Order in Council provide for any provisions of section 1, 50, 68 or 170 of the Customs and Excise Management Act 1979 (c. 2) as amended by paragraph 8 to extend, with or without modifications, to any of the Channel Islands or any British overseas territory.
 
 (2) Section 147(2) applies in relation to an Order in Council under sub-paragraph (1) as it applies in relation to an order made by the Secretary of State.
 
 ## Annotations
 
-[^key-1be5e306ac0794d0ecaa336c01a6533c]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/1) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-1be5e306ac0794d0ecaa336c01a6533c]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/1) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
-[^key-2b84d9053db21ee7d0686caab1c0bd9a]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/2) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-2b84d9053db21ee7d0686caab1c0bd9a]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/2) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
-[^key-2d2e95ef4171b227abf93196457de07a]: Commencement: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/3) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-2d2e95ef4171b227abf93196457de07a]: Commencement: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/3) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
-[^key-6e62489fced24846e1c5b442a0610824]: Commencement: [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/4) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-6e62489fced24846e1c5b442a0610824]: Commencement: [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/4) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
-[^key-7d6bdc507e75ce8d006a08d5dfdaea27]: Commencement: [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/5) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-7d6bdc507e75ce8d006a08d5dfdaea27]: Commencement: [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/5) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
-[^key-6b1e8ec16f36c35445a2b0addfd68182]: Commencement: [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/6) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-6b1e8ec16f36c35445a2b0addfd68182]: Commencement: [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/6) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
-[^key-a1483054e78223a5367518356970cb43]: Commencement: [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/7) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-a1483054e78223a5367518356970cb43]: Commencement: [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/7) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
-[^key-15d40a0d52cb2e6cabf1b9fc5c0c17b9]: Commencement: [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/8) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-15d40a0d52cb2e6cabf1b9fc5c0c17b9]: Commencement: [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/8) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
-[^key-7a159f7881da556f7b0574f0e2d546b0]: Commencement: [Sch. 17 para. 9](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/9) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-7a159f7881da556f7b0574f0e2d546b0]: Commencement: [Sch. 17 para. 9](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/9) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)

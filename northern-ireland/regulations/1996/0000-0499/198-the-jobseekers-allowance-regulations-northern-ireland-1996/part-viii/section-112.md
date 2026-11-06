@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 112. Calculation of capital outside the United Kingdom[^key-d54111d86c800dacfb29acbb5c487e30]
+## 112. Calculation of capital outside the United Kingdom[^c-d54111d86c800dacfb29acbb5c487e30]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ less, where there would be expenses attributable to sale, 10 per cent. and the a
 
 ## Annotations
 
-[^key-d54111d86c800dacfb29acbb5c487e30]: Commencement: Reg. 112 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-d54111d86c800dacfb29acbb5c487e30]: Commencement: Reg. 112 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

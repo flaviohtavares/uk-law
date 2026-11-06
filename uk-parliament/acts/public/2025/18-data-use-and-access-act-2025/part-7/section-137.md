@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Progress statement[^key-bdefd775c6b688fbeb9c080bf88591fb][^key-703bae07e66305e71a0beffee0f43f08]
+## 137. Progress statement[^c-bdefd775c6b688fbeb9c080bf88591fb][^c-703bae07e66305e71a0beffee0f43f08]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdefd775c6b688fbeb9c080bf88591fb]: Commencement: S. 137 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-bdefd775c6b688fbeb9c080bf88591fb]: Commencement: S. 137 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-703bae07e66305e71a0beffee0f43f08]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2025/18/section/137) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/x)
+[^c-703bae07e66305e71a0beffee0f43f08]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2025/18/section/137) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/x)

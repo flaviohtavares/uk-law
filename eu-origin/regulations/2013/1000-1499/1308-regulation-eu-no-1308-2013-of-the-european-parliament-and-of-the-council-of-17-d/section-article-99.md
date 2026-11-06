@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 99. Decision on protection[^key-065191af70980d1e5228e24a6ecc8025][^key-c95b10b6284a77b8e94e6b994afa150e]
+## Article 99. Decision on protection[^c-065191af70980d1e5228e24a6ecc8025][^c-c95b10b6284a77b8e94e6b994afa150e]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-065191af70980d1e5228e24a6ecc8025]: Modification: [Arts. 97-99](https://www.legislation.gov.uk/eur/2013/1308/article/97) excluded (31.12.2020) by Regulation (EU) No. 33/2019, Art. 18(1b) (as substituted by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [26(15)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/26/15/a), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/2))
+[^c-065191af70980d1e5228e24a6ecc8025]: Modification: [Arts. 97-99](https://www.legislation.gov.uk/eur/2013/1308/article/97) excluded (31.12.2020) by Regulation (EU) No. 33/2019, Art. 18(1b) (as substituted by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [26(15)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/26/15/a), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/2))
 
-[^key-c95b10b6284a77b8e94e6b994afa150e]: Textual amendment: [Art. 99](https://www.legislation.gov.uk/eur/2013/1308/article/99) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/3/6)
+[^c-c95b10b6284a77b8e94e6b994afa150e]: Textual amendment: [Art. 99](https://www.legislation.gov.uk/eur/2013/1308/article/99) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/3/6)

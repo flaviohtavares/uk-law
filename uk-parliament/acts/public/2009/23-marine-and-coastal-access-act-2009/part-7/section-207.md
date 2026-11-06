@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 207. Restrictions imposed by grantees, etc[^c2008196][^key-8f45e44519683a73e10a7212a332c1b6]
+## 207. Restrictions imposed by grantees, etc[^c2008196][^c-8f45e44519683a73e10a7212a332c1b6]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ In section 3 of the Sea Fisheries (Shellfish) Act 1967 (effect of grant of right
 
 [^c2008196]: Commencement: [S. 207](https://www.legislation.gov.uk/ukpga/2009/23/section/207) partly in force; [s. 207](https://www.legislation.gov.uk/ukpga/2009/23/section/207) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-8f45e44519683a73e10a7212a332c1b6]: Commencement: [S. 207](https://www.legislation.gov.uk/ukpga/2009/23/section/207) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)
+[^c-8f45e44519683a73e10a7212a332c1b6]: Commencement: [S. 207](https://www.legislation.gov.uk/ukpga/2009/23/section/207) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)

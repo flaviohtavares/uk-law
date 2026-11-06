@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Management agreements[^key-93bdb432040fffcd7f880b9f28daebc5]
+## 7. Management agreements[^c-93bdb432040fffcd7f880b9f28daebc5]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93bdb432040fffcd7f880b9f28daebc5]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2006/16/section/7) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-93bdb432040fffcd7f880b9f28daebc5]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2006/16/section/7) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

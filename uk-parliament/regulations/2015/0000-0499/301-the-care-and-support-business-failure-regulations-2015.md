@@ -44,7 +44,7 @@ In accordance with section 125(4)(f) of the Care Act 2014, a draft of these Regu
 
 In accordance with section 125(9) of the Care Act 2014, the Secretary of State has consulted the Welsh Ministers and the Department for Health, Social Services and Public Safety in Northern Ireland before making these Regulations.
 
-## 1. Citation, commencement and interpretation[^key-895cdc47026f1d33c87f29877e787667]
+## 1. Citation, commencement and interpretation[^c-895cdc47026f1d33c87f29877e787667]
 
 (1) These Regulations may be cited as the Care and Support (Business Failure) Regulations 2015.
 
@@ -65,17 +65,17 @@ they come into force for those purposes on the day on which section 50 of the Ac
 - “a members’ voluntary winding up” means a winding up where a statutory declaration has been made under section 89 of the 1986 Act or article 75 of the 1989 Order[^f00006];
 - “a provider” means—
   - (a) a registered care provider[^f00007],
-  - (b) a person registered under Part 2 of the Care Standards Act 2000[^f00008] in respect of an establishment or agency, [^key-7133aa5ac71e11f0f0d859bb42ec97ff]...
-  - (c) a person registered under Part 3 of the Health and Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00009] in respect of an establishment or agency , or[^key-40b14062c3bfdbde737ef8a4479e9558]
+  - (b) a person registered under Part 2 of the Care Standards Act 2000[^f00008] in respect of an establishment or agency, [^c-7133aa5ac71e11f0f0d859bb42ec97ff]...
+  - (c) a person registered under Part 3 of the Health and Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00009] in respect of an establishment or agency , or[^c-40b14062c3bfdbde737ef8a4479e9558]
   - (d) a person registered under Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016;
 - “the relevant amount” means the amount specified in section 123(1)(a) of the 1986 Act (definition of inability to pay debts) or article 103(1)(a) of the 1989 Order (definition of inability to pay debts; the statutory demand) as the case may be.
 
-## 2. Business failure[^key-0f140e99f4dede661acc6c733f870f13]
+## 2. Business failure[^c-0f140e99f4dede661acc6c733f870f13]
 
 (1) For the purposes of sections 48 and 50 to 52 of the Act—
 
 - (a) business failure has the meaning given in paragraphs (2) to (5); and
-- (b) a provider is to be treated as unable to carry on a regulated activity[^f00010] or to carry on or manage an establishment or agency or a regulated service, within the meaning of section 2 of the Regulation and Inspection of Social Care (Wales) Act 2016,[^key-5fcc025f07484310a21511a4a6f9e5a8] because of business failure if the provider’s inability to do so follows business failure.
+- (b) a provider is to be treated as unable to carry on a regulated activity[^f00010] or to carry on or manage an establishment or agency or a regulated service, within the meaning of section 2 of the Regulation and Inspection of Social Care (Wales) Act 2016,[^c-5fcc025f07484310a21511a4a6f9e5a8] because of business failure if the provider’s inability to do so follows business failure.
 
 (2) Where a provider is not an individual, business failure means that, in respect of that provider—
 
@@ -92,7 +92,7 @@ they come into force for those purposes on the day on which section 50 of the Ac
 
 (3) In relation to a provider who is an individual, business failure means that—
 
-- (a) the individual is made[^key-6f657c19f1ea375bf41325cdf4642905] bankrupt; or
+- (a) the individual is made[^c-6f657c19f1ea375bf41325cdf4642905] bankrupt; or
 - (b) a voluntary arrangement pursuant to Part 8 of the 1986 Act or Part 8 of the 1989 Order is proposed by or entered into by the individual.
 
 (4) For the purposes of paragraph (2)(h), a person is a charity trustee of a provider if—
@@ -149,7 +149,7 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00001]: Footnote: [2014 c.23](https://www.legislation.gov.uk/ukpga/2014/23) (“the Act”). The powers to make regulations are exercisable by the Secretary of State, *see* section 125(1).
 
-[^key-895cdc47026f1d33c87f29877e787667]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/301/regulation/1) in force at 6.4.2016 in accordance with reg. 1(2)(3)
+[^c-895cdc47026f1d33c87f29877e787667]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/301/regulation/1) in force at 6.4.2016 in accordance with reg. 1(2)(3)
 
 [^f00002]: Footnote: Section 52(12) was commenced on 1 October 2014 for the purposes of making regulations by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473).
 
@@ -165,17 +165,17 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00008]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14).
 
-[^key-7133aa5ac71e11f0f0d859bb42ec97ff]: Textual amendment: Word in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/301/regulation/1/4) omitted (1.4.2018) by virtue of [The Blood Safety and Quality Regulations and the Care and Support (Business Failure) Regulations (Consequential Amendments) Order 2018 (S.I. 2018/231)](https://www.legislation.gov.uk/uksi/2018/231), [arts. 1](https://www.legislation.gov.uk/uksi/2018/231/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/231/article/3/2/a)
+[^c-7133aa5ac71e11f0f0d859bb42ec97ff]: Textual amendment: Word in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/301/regulation/1/4) omitted (1.4.2018) by virtue of [The Blood Safety and Quality Regulations and the Care and Support (Business Failure) Regulations (Consequential Amendments) Order 2018 (S.I. 2018/231)](https://www.legislation.gov.uk/uksi/2018/231), [arts. 1](https://www.legislation.gov.uk/uksi/2018/231/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/231/article/3/2/a)
 
 [^f00009]: Footnote: [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431).
 
-[^key-40b14062c3bfdbde737ef8a4479e9558]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/301/regulation/1/4) inserted (1.4.2018) by [The Blood Safety and Quality Regulations and the Care and Support (Business Failure) Regulations (Consequential Amendments) Order 2018 (S.I. 2018/231)](https://www.legislation.gov.uk/uksi/2018/231), [arts. 1](https://www.legislation.gov.uk/uksi/2018/231/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/231/article/3/2/b)
+[^c-40b14062c3bfdbde737ef8a4479e9558]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/301/regulation/1/4) inserted (1.4.2018) by [The Blood Safety and Quality Regulations and the Care and Support (Business Failure) Regulations (Consequential Amendments) Order 2018 (S.I. 2018/231)](https://www.legislation.gov.uk/uksi/2018/231), [arts. 1](https://www.legislation.gov.uk/uksi/2018/231/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/231/article/3/2/b)
 
-[^key-0f140e99f4dede661acc6c733f870f13]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/301/regulation/2) in force at 6.4.2016 in accordance with reg. 1(2)(3)
+[^c-0f140e99f4dede661acc6c733f870f13]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/301/regulation/2) in force at 6.4.2016 in accordance with reg. 1(2)(3)
 
 [^f00010]: Footnote: *See* section 8 of the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) for the meaning of “regulated activity”.
 
-[^key-5fcc025f07484310a21511a4a6f9e5a8]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/301/regulation/2/1/b) inserted (1.4.2018) by [The Blood Safety and Quality Regulations and the Care and Support (Business Failure) Regulations (Consequential Amendments) Order 2018 (S.I. 2018/231)](https://www.legislation.gov.uk/uksi/2018/231), [arts. 1](https://www.legislation.gov.uk/uksi/2018/231/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/231/article/3/3)
+[^c-5fcc025f07484310a21511a4a6f9e5a8]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/301/regulation/2/1/b) inserted (1.4.2018) by [The Blood Safety and Quality Regulations and the Care and Support (Business Failure) Regulations (Consequential Amendments) Order 2018 (S.I. 2018/231)](https://www.legislation.gov.uk/uksi/2018/231), [arts. 1](https://www.legislation.gov.uk/uksi/2018/231/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/231/article/3/3)
 
 [^f00011]: Footnote: Schedule B1 was inserted by section 248(2) of, and Schedule 16 to, the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40). As to the application of Part 2 of the 1986 Act to co-operative and community benefit societies, *see* [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229) as amended by [S.I. 2014/1822](https://www.legislation.gov.uk/uksi/2014/1822).
 
@@ -189,4 +189,4 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00016]: Footnote: As to the application of Part 1 of the 1986 Act to co-operative and community benefit societies, *see* [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229) as amended by [S.I. 2014/1822](https://www.legislation.gov.uk/uksi/2014/1822).
 
-[^key-6f657c19f1ea375bf41325cdf4642905]: Textual amendment: Word in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2015/301/regulation/2/3/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-6f657c19f1ea375bf41325cdf4642905]: Textual amendment: Word in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2015/301/regulation/2/3/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)

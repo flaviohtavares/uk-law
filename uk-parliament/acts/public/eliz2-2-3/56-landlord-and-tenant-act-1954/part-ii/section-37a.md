@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37A. Compensation for possession obtained by misrepresentation[^key-703ab9e5f5153b43fa73217de6577e80]
+## 37A. Compensation for possession obtained by misrepresentation[^c-703ab9e5f5153b43fa73217de6577e80]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ the court may order the landlord to pay to the tenant such sum as appears suffic
 
 ## Annotations
 
-[^key-703ab9e5f5153b43fa73217de6577e80]: Textual amendment: S. 37A inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [20](https://www.legislation.gov.uk/uksi/2003/3096/article/20)
+[^c-703ab9e5f5153b43fa73217de6577e80]: Textual amendment: S. 37A inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [20](https://www.legislation.gov.uk/uksi/2003/3096/article/20)

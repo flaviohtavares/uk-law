@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Early payment of retirement pension to deferred member[^key-15cec788f7051a59998774a713a377af]
+## 76. Early payment of retirement pension to deferred member[^c-15cec788f7051a59998774a713a377af]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ A deferred member who has not reached deferred pension age is entitled to immedi
 
 ## Annotations
 
-[^key-15cec788f7051a59998774a713a377af]: Commencement: Reg. 76 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-15cec788f7051a59998774a713a377af]: Commencement: Reg. 76 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

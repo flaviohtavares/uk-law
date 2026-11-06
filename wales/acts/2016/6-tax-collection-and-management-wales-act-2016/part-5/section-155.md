@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 155. Double jeopardy[^key-b0f5ecf2b63739b9af810d777928bc01]
+## 155. Double jeopardy[^c-b0f5ecf2b63739b9af810d777928bc01]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A person is not liable to a penalty under this Act in respect of anything if the
 
 ## Annotations
 
-[^key-b0f5ecf2b63739b9af810d777928bc01]: Commencement: S. 155 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(f)](https://www.legislation.gov.uk/wsi/2018/33/article/2/f)
+[^c-b0f5ecf2b63739b9af810d777928bc01]: Commencement: S. 155 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(f)](https://www.legislation.gov.uk/wsi/2018/33/article/2/f)

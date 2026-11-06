@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Guarantees: repayment by further education body etc[^key-502a4fda35eaa85c09b3a20b8d2caf43]
+## 31. Guarantees: repayment by further education body etc[^c-502a4fda35eaa85c09b3a20b8d2caf43]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-502a4fda35eaa85c09b3a20b8d2caf43]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/19/section/31) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-502a4fda35eaa85c09b3a20b8d2caf43]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/19/section/31) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

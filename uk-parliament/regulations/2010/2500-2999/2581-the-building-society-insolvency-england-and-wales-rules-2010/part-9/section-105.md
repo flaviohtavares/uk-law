@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Creditors’ claim that remuneration is excessive[^key-b0e454cb21403610a657171c71e84a93]
+## 105. Creditors’ claim that remuneration is excessive[^c-b0e454cb21403610a657171c71e84a93]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0e454cb21403610a657171c71e84a93]: Commencement: Rule 105 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-b0e454cb21403610a657171c71e84a93]: Commencement: Rule 105 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

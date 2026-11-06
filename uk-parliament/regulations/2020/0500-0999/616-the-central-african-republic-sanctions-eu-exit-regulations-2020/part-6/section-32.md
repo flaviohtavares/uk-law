@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Exception for acts done for purposes of national security or prevention of serious crime[^key-af3ae51329cf57ff6e3d5080bc35ed09]
+## 32. Exception for acts done for purposes of national security or prevention of serious crime[^c-af3ae51329cf57ff6e3d5080bc35ed09]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af3ae51329cf57ff6e3d5080bc35ed09]: Commencement: Reg. 32 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-af3ae51329cf57ff6e3d5080bc35ed09]: Commencement: Reg. 32 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)

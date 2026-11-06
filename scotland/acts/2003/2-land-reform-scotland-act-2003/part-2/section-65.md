@@ -32,7 +32,7 @@ summary: ''
 - (a) Part 3 of this Act;
 - (b) section 12 of the Crofters (Scotland) Act 1993 (c. 44);
 - (c) any order under that Act of the Land Court in favour of the crofter;
-- (d)[^key-31c5c3d317b9aa63a4586c2343e946a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-31c5c3d317b9aa63a4586c2343e946a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 are suspended as provided in paragraph (a) of subsection (1) above but revived in the circumstances set out in paragraph (b) of that subsection.
 
@@ -44,4 +44,4 @@ are suspended as provided in paragraph (a) of subsection (1) above but revived i
 
 ## Annotations
 
-[^key-31c5c3d317b9aa63a4586c2343e946a0]: Textual amendment: S. 65(2)(d) repealed (1.8.2016) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 2 para. 14(3)](https://www.legislation.gov.uk/asp/2014/14/schedule/2/paragraph/14/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/264/article/4))
+[^c-31c5c3d317b9aa63a4586c2343e946a0]: Textual amendment: S. 65(2)(d) repealed (1.8.2016) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 2 para. 14(3)](https://www.legislation.gov.uk/asp/2014/14/schedule/2/paragraph/14/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/264/article/4))

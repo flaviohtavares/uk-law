@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. The starting rate limit and the basic rate limit[^key-63b176bbed3c25c8966f94386f9932ee]
+## 20. The starting rate limit and the basic rate limit[^c-63b176bbed3c25c8966f94386f9932ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63b176bbed3c25c8966f94386f9932ee]: Textual amendment: S. 20 omitted (21.7.2008 with effect in accordance with Sch. 1 para. 65 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/10)
+[^c-63b176bbed3c25c8966f94386f9932ee]: Textual amendment: S. 20 omitted (21.7.2008 with effect in accordance with Sch. 1 para. 65 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/10)

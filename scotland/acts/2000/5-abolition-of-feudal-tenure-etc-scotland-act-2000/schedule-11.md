@@ -28,8 +28,8 @@ summary: ''
 
 .
 
-(*Execute in accordance with [^key-69f9cf4de798f94bbb3fc363370b43b3]...the Requirements of Writing (Scotland) Act 1995*.)
+(*Execute in accordance with [^c-69f9cf4de798f94bbb3fc363370b43b3]...the Requirements of Writing (Scotland) Act 1995*.)
 
 ## Annotations
 
-[^key-69f9cf4de798f94bbb3fc363370b43b3]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/asp/2000/5/schedule/11) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 39(9)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/39/9) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-69f9cf4de798f94bbb3fc363370b43b3]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/asp/2000/5/schedule/11) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 39(9)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/39/9) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The appropriate agency[^key-71d5b396987579b35fd123aa3a0030cb] shall keep a register of persons and premises for the purposes of section 164 above.
+(1) The appropriate agency[^c-71d5b396987579b35fd123aa3a0030cb] shall keep a register of persons and premises for the purposes of section 164 above.
 
 (2) The appropriate agency shall enter the name and address of a person in that register in respect of any premises which abut on any watercourse if that person has requested to be so registered and is either—
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71d5b396987579b35fd123aa3a0030cb]: Textual amendment: Words in ss. 189-197 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 299](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/299) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-71d5b396987579b35fd123aa3a0030cb]: Textual amendment: Words in ss. 189-197 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 299](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/299) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

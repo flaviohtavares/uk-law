@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Declaration relating to exceptional market conditions[^c24383011][^key-61abb30036af0b3e5ef5925396557ad3]
+## 20. Declaration relating to exceptional market conditions[^c24383011][^c-61abb30036af0b3e5ef5925396557ad3]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ the Secretary of State may make and publish a further declaration extending the 
 
 [^c24383011]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2020/21/section/20) in force at Royal Assent for specified purposes, see [s. 57(1)(b)(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
 
-[^key-61abb30036af0b3e5ef5925396557ad3]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2020/21/section/20) in force at 1.1.2021 in so far as not already in force by [S.I. 2020/1650](https://www.legislation.gov.uk/uksi/2020/1650), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1650/regulation/2/a)
+[^c-61abb30036af0b3e5ef5925396557ad3]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2020/21/section/20) in force at 1.1.2021 in so far as not already in force by [S.I. 2020/1650](https://www.legislation.gov.uk/uksi/2020/1650), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1650/regulation/2/a)

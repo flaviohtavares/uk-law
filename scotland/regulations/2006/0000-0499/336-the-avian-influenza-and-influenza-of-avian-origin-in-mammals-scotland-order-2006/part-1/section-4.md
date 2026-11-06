@@ -22,7 +22,7 @@ summary: ''
 
 (1) Declarations under this Order–
 
-- (za)[^key-edc144b3538749f7a9d37919e56b5183] may be made by a member of staff of the Scottish Ministers,
+- (za)[^c-edc144b3538749f7a9d37919e56b5183] may be made by a member of staff of the Scottish Ministers,
 - (a) must be in writing;
 - (b) may be amended or revoked, by further declaration in writing, at any time;
 - (c) must designate the extent of any controlled zone being declared;
@@ -33,7 +33,7 @@ summary: ''
 
 - (a) must be in writing;
 - (b) may be general or specific;
-- (c) may, in addition to any conditions required by this Order, be made subject to such conditions as the Scottish Ministers consider necessary to control avian influenza or influenza virus of avian origin[^key-76a3444c75f87e03ec6d9ad1218fbc42]; and
+- (c) may, in addition to any conditions required by this Order, be made subject to such conditions as the Scottish Ministers consider necessary to control avian influenza or influenza virus of avian origin[^c-76a3444c75f87e03ec6d9ad1218fbc42]; and
 - (d) may be amended, suspended or revoked, in writing, at any time.
 
 (3) Notices under this Order–
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-edc144b3538749f7a9d37919e56b5183]: Textual amendment: [Art. 4(1)(za)](https://www.legislation.gov.uk/ssi/2006/336/article/4/1/za) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/361/article/2/3)
+[^c-edc144b3538749f7a9d37919e56b5183]: Textual amendment: [Art. 4(1)(za)](https://www.legislation.gov.uk/ssi/2006/336/article/4/1/za) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/361/article/2/3)
 
-[^key-76a3444c75f87e03ec6d9ad1218fbc42]: Textual amendment: Words in [art. 4(2)(c)](https://www.legislation.gov.uk/ssi/2006/336/article/4/2/c) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/108/article/2/3)
+[^c-76a3444c75f87e03ec6d9ad1218fbc42]: Textual amendment: Words in [art. 4(2)(c)](https://www.legislation.gov.uk/ssi/2006/336/article/4/2/c) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/108/article/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Timeliness of investigation[^key-a96ddb82cda027400255039db6451c49]
+## 19. Timeliness of investigation[^c-a96ddb82cda027400255039db6451c49]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a96ddb82cda027400255039db6451c49]: Commencement: Reg. 19 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-a96ddb82cda027400255039db6451c49]: Commencement: Reg. 19 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

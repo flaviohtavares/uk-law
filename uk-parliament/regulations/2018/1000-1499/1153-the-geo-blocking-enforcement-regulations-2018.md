@@ -32,7 +32,7 @@ summary: ''
 
 Enforcement
 
-The Geo-Blocking (Enforcement) Regulations 2018 (revoked)[^key-1aa2aa67dfc002f3ff31bc2ed5173c52]
+The Geo-Blocking (Enforcement) Regulations 2018 (revoked)[^c-1aa2aa67dfc002f3ff31bc2ed5173c52]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 3rd December 2018
 
-[^key-1aa2aa67dfc002f3ff31bc2ed5173c52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1aa2aa67dfc002f3ff31bc2ed5173c52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1aa2aa67dfc002f3ff31bc2ed5173c52]
+## 1. Citation and commencement[^c-1aa2aa67dfc002f3ff31bc2ed5173c52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to Schedule 13 to the Enterprise Act 2002[^key-1aa2aa67dfc002f3ff31bc2ed5173c52]
+## 2. Amendment to Schedule 13 to the Enterprise Act 2002[^c-1aa2aa67dfc002f3ff31bc2ed5173c52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Actionable breach[^key-1aa2aa67dfc002f3ff31bc2ed5173c52]
+## 3. Actionable breach[^c-1aa2aa67dfc002f3ff31bc2ed5173c52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1aa2aa67dfc002f3ff31bc2ed5173c52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1aa2aa67dfc002f3ff31bc2ed5173c52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1aa2aa67dfc002f3ff31bc2ed5173c52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1aa2aa67dfc002f3ff31bc2ed5173c52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1aa2aa67dfc002f3ff31bc2ed5173c52]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1153) revoked (31.12.2020) by [The Geo-Blocking Regulation (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/880)](https://www.legislation.gov.uk/uksi/2019/880), [reg. 3](https://www.legislation.gov.uk/uksi/2019/880/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1aa2aa67dfc002f3ff31bc2ed5173c52]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1153) revoked (31.12.2020) by [The Geo-Blocking Regulation (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/880)](https://www.legislation.gov.uk/uksi/2019/880), [reg. 3](https://www.legislation.gov.uk/uksi/2019/880/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

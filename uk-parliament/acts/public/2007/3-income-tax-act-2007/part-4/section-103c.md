@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103C. Limit on reliefs in any tax year not to exceed cap for tax year[^key-f3ed9f77eafffaf95719f0a7c015cbdd]
+## 103C. Limit on reliefs in any tax year not to exceed cap for tax year[^c-f3ed9f77eafffaf95719f0a7c015cbdd]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ and the individual makes a loss in any of those trades (an “affected loss”) 
 
 ## Annotations
 
-[^key-f3ed9f77eafffaf95719f0a7c015cbdd]: Textual amendment: S. 103C and cross-heading inserted (with effect in accordance with Sch. 4 para. 1(2)-(13) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/1/1)
+[^c-f3ed9f77eafffaf95719f0a7c015cbdd]: Textual amendment: S. 103C and cross-heading inserted (with effect in accordance with Sch. 4 para. 1(2)-(13) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/1/1)

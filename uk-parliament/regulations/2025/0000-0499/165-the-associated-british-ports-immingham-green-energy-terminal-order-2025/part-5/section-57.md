@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Defence to proceedings in respect of statutory nuisance[^key-f93d9f3406f9de9902f9ca5983caedc0]
+## 57. Defence to proceedings in respect of statutory nuisance[^c-f93d9f3406f9de9902f9ca5983caedc0]
 
 *Extent: E+W+S*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f93d9f3406f9de9902f9ca5983caedc0]: Commencement: Art. 57 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-f93d9f3406f9de9902f9ca5983caedc0]: Commencement: Art. 57 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
 [^f00097]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 82 was amended by section 103 of the Clean Neighbourhoods and Environment Act [2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16).
 

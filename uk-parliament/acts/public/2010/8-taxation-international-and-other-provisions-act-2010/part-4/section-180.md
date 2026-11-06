@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Application of section 174(2)(a) in relation to transfers of trading stock etc[^key-f0cbe920629573b3bd8911d51ce0ae3a]
+## 180. Application of section 174(2)(a) in relation to transfers of trading stock etc[^c-f0cbe920629573b3bd8911d51ce0ae3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ for accounting periods ending on or after the day given by subsection (2).
 
 ## Annotations
 
-[^key-f0cbe920629573b3bd8911d51ce0ae3a]: Modification: Pt. 4 excluded (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 129(11)](https://www.legislation.gov.uk/ukpga/2012/14/section/129/11) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-f0cbe920629573b3bd8911d51ce0ae3a]: Modification: Pt. 4 excluded (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 129(11)](https://www.legislation.gov.uk/ukpga/2012/14/section/129/11) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))

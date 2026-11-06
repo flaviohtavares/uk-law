@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Distribution of assets on dissolution or winding up[^M_I_3a3f5548-600f-4087-e8ff-f3f4d27e7150][^key-16b23244be39b329a4e7c77aad00b396]
+## 86. Distribution of assets on dissolution or winding up[^M_I_3a3f5548-600f-4087-e8ff-f3f4d27e7150][^c-16b23244be39b329a4e7c77aad00b396]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^M_I_3a3f5548-600f-4087-e8ff-f3f4d27e7150]: Commencement: S. 86 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-16b23244be39b329a4e7c77aad00b396]: Commencement: S. 86 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-16b23244be39b329a4e7c77aad00b396]: Commencement: S. 86 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)

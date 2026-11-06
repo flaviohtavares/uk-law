@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Information about related undertakings (non-IAS or IAS individual accounts)[^key-ecd30896b98f08b5ed0c9f14de6ee7ee]
+## 4. Information about related undertakings (non-IAS or IAS individual accounts)[^c-ecd30896b98f08b5ed0c9f14de6ee7ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecd30896b98f08b5ed0c9f14de6ee7ee]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/1912/regulation/4) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/2016/575/regulation/30)
+[^c-ecd30896b98f08b5ed0c9f14de6ee7ee]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/1912/regulation/4) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/2016/575/regulation/30)

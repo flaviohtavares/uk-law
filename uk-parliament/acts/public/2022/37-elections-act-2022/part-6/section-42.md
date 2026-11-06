@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Electronic material to which section 41 applies: paid-for material[^key-0a665f178412bbeb2d354b4af767f289][^key-8107411c5b864d1985efe3e053bbeafd]
+## 42. Electronic material to which section 41 applies: paid-for material[^c-0a665f178412bbeb2d354b4af767f289][^c-8107411c5b864d1985efe3e053bbeafd]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a665f178412bbeb2d354b4af767f289]: Commencement: S. 42 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-0a665f178412bbeb2d354b4af767f289]: Commencement: S. 42 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-8107411c5b864d1985efe3e053bbeafd]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/37/section/42) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-8107411c5b864d1985efe3e053bbeafd]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/37/section/42) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

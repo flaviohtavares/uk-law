@@ -22,7 +22,7 @@ summary: ''
 
 Article 39
 
-### PART 1 — TEMPORARY PROHIBITION OF VEHICULAR ACCESS AND NO WAITING AND SPEED RESTRICTION[^key-2ce8464bf45599e65fed671e8784555c]
+### PART 1 — TEMPORARY PROHIBITION OF VEHICULAR ACCESS AND NO WAITING AND SPEED RESTRICTION[^c-2ce8464bf45599e65fed671e8784555c]
 
 Canterbury City Council
 
@@ -64,7 +64,7 @@ Thanet District Council
 </tbody>
 </table>
 
-### PART 2 — TEMPORARY PROHIBITION OF VEHICULAR ACCESS AND NO WAITING RESTRICTION[^key-4da738086c58530a76c9412dde317898]
+### PART 2 — TEMPORARY PROHIBITION OF VEHICULAR ACCESS AND NO WAITING RESTRICTION[^c-4da738086c58530a76c9412dde317898]
 
 Canterbury City Council
 
@@ -92,7 +92,7 @@ Thanet District Council
 </tbody>
 </table>
 
-### PART 3 — TEMPORARY PROHIBITION OF VEHICULAR ACCESS[^key-dff5a939090f6a55f74bffac0cbe1e82]
+### PART 3 — TEMPORARY PROHIBITION OF VEHICULAR ACCESS[^c-dff5a939090f6a55f74bffac0cbe1e82]
 
 Canterbury City Council
 
@@ -109,8 +109,8 @@ Canterbury City Council
 
 ## Annotations
 
-[^key-2ce8464bf45599e65fed671e8784555c]: Commencement: Sch. 12 Pt. 1 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-2ce8464bf45599e65fed671e8784555c]: Commencement: Sch. 12 Pt. 1 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
-[^key-4da738086c58530a76c9412dde317898]: Commencement: Sch. 12 Pt. 2 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-4da738086c58530a76c9412dde317898]: Commencement: Sch. 12 Pt. 2 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
-[^key-dff5a939090f6a55f74bffac0cbe1e82]: Commencement: Sch. 12 Pt. 3 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-dff5a939090f6a55f74bffac0cbe1e82]: Commencement: Sch. 12 Pt. 3 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

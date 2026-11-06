@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 130. Consequential amendments[^key-cabb7cd279a4e46ac0b0e91fc3d8689c]
+## 130. Consequential amendments[^c-cabb7cd279a4e46ac0b0e91fc3d8689c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Part 3 of Schedule 3 makes consequential amendments relating to this Part.
 
 ## Annotations
 
-[^key-cabb7cd279a4e46ac0b0e91fc3d8689c]: Commencement: [S. 130](https://www.legislation.gov.uk/anaw/2014/7/section/130) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-cabb7cd279a4e46ac0b0e91fc3d8689c]: Commencement: [S. 130](https://www.legislation.gov.uk/anaw/2014/7/section/130) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

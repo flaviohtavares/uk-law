@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c23241211], section 40 of the Town and Country Planning (Scotland) Act 1997 [^c23241221] and all other powers enabling them to do so.
 
-They have taken into account the selection criteria in Annex III to Directive 2011/92/EU of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment [^c23241231].[^key-67fa043e3590d9760d6517a4737e33c6]
+They have taken into account the selection criteria in Annex III to Directive 2011/92/EU of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment [^c23241231].[^c-67fa043e3590d9760d6517a4737e33c6]
 
 ## Contents
 
@@ -203,4 +203,4 @@ Regulations 43 to 45 allow the use of electronic communication. Regulation 46 pr
 
 [^c23241231]: Marginal citation: OJ L 26, 28.1.2012, p.1 as amended by Directive 2014/52/EU.
 
-[^key-67fa043e3590d9760d6517a4737e33c6]: Modification: Regulations power to amend or revoke conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-67fa043e3590d9760d6517a4737e33c6]: Modification: Regulations power to amend or revoke conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

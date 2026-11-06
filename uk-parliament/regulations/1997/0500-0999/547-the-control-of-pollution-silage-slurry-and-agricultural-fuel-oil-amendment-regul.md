@@ -44,11 +44,11 @@ Coming into force
 
 The Secretary of State for the Environment as respects England and the Secretary of State for Wales as respects Wales, in exercise of the powers conferred on them by sections 92 and 219(2)(d) to (f) of the Water Resources Act 1991[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-b7085dd4f9b97560225046aa19538edd]
+## 1. Citation and commencement[^c-b7085dd4f9b97560225046aa19538edd]
 
 These Regulations may be cited as the Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 and shall come into force on 1st April 1997.
 
-## 2. Amendment of the Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) Regulations 1991[^key-ff1e8a7ce9378a12b07a2852edb68866]
+## 2. Amendment of the Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) Regulations 1991[^c-ff1e8a7ce9378a12b07a2852edb68866]
 
 (1) The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) Regulations 1991[^f00002] shall be amended as follows.
 
@@ -175,9 +175,9 @@ A regulatory appraisal and a compliance cost assessment of the effect that these
 
 [^f00001]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57); relevant amendments were made by paragraph 128 of Schedule 22 to the Environment Act [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-b7085dd4f9b97560225046aa19538edd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1) in force at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1)
+[^c-b7085dd4f9b97560225046aa19538edd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1) in force at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1)
 
-[^key-ff1e8a7ce9378a12b07a2852edb68866]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1997/547/regulation/2) in force at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1)
+[^c-ff1e8a7ce9378a12b07a2852edb68866]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1997/547/regulation/2) in force at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1)
 
 [^f00002]: Footnote: S.I. [1991/324](https://www.legislation.gov.uk/uksi/1991/324); continued in force by paragraph 1(1) of Schedule 2 to the Water Consolidation (Consequential Provisions) Act [1996 c. 60](https://www.legislation.gov.uk/ukpga/1996/60); relevant amendments were made by paragraph 233(1) of Schedule 22 to the Environment Act 1995 and by S.I. [1996/2044](https://www.legislation.gov.uk/uksi/1996/2044).
 

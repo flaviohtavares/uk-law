@@ -41,15 +41,15 @@ Coming into operation
 
 5th September 2003
 
-[^M_C_e57cf066-bcc4-4695-f509-c2dda5dc1444][^M_C_b8c44621-6add-4c14-f2fc-7d43ea84a1f2]The Lord Chancellor, in exercise of the powers conferred on him by Article 359 of the Insolvency (Northern Ireland) Order 1989[^f00001] and Article 24(1) of the Company Directors Disqualification (Northern Ireland) Order 2002[^f00002], and of all other powers enabling him in that behalf, with the concurrence of the Department of Enterprise, Trade and Investment[^f00003], and after consulting the committee existing for that purpose under Article 360 of the Insolvency (Northern Ireland) Order 1989, hereby makes the following Rules:[^key-9115657aff5539e17d81d3203a31c650][^key-8b6d32907c92f896524ea6e49e4303fa]
+[^M_C_e57cf066-bcc4-4695-f509-c2dda5dc1444][^M_C_b8c44621-6add-4c14-f2fc-7d43ea84a1f2]The Lord Chancellor, in exercise of the powers conferred on him by Article 359 of the Insolvency (Northern Ireland) Order 1989[^f00001] and Article 24(1) of the Company Directors Disqualification (Northern Ireland) Order 2002[^f00002], and of all other powers enabling him in that behalf, with the concurrence of the Department of Enterprise, Trade and Investment[^f00003], and after consulting the committee existing for that purpose under Article 360 of the Insolvency (Northern Ireland) Order 1989, hereby makes the following Rules:[^c-9115657aff5539e17d81d3203a31c650][^c-8b6d32907c92f896524ea6e49e4303fa]
 
-## 1. Citation and commencement[^key-61d0a105661588bc2d18e4a9df227736]
+## 1. Citation and commencement[^c-61d0a105661588bc2d18e4a9df227736]
 
 (1) These Rules may be cited as the Insolvent Companies (Reports on Conduct of Directors) Rules (Northern Ireland) 2003.
 
 (2) These Rules shall come into operation on 5th September 2003.
 
-## 2. Interpretation[^key-9c0faace2380bbe252269278e363adc1]
+## 2. Interpretation[^c-9c0faace2380bbe252269278e363adc1]
 
 In these Rules –
 
@@ -58,15 +58,15 @@ In these Rules –
 - “the former Rules” means the Insolvent Companies (Reports on Conduct of Directors) Rules (Northern Ireland) 1997[^f00004]; and
 - “the Order” means the Company Directors Disqualification (Northern Ireland) Order 2002.
 
-## 3. Revocation[^key-27c1a23e76de8304021302b80f900ac7]
+## 3. Revocation[^c-27c1a23e76de8304021302b80f900ac7]
 
 Subject to rule 8, the former Rules are hereby revoked.
 
-## 4. Conduct reports required under Article 10A(4) of the Order[^key-fb940d03e875b6115652f2bdf96c0121]
+## 4. Conduct reports required under Article 10A(4) of the Order[^c-fb940d03e875b6115652f2bdf96c0121]
 
 An office-holder must prepare a conduct report required under Article 10A(1) of the Order in the Form DCR set out in the Schedule.
 
-## 5. Enforcement of Article 10A(4) and (5) of the Order[^key-4de063bcf3f0a094e3c1a2c20cf8dda1]
+## 5. Enforcement of Article 10A(4) and (5) of the Order[^c-4de063bcf3f0a094e3c1a2c20cf8dda1]
 
 (1) An office-holder who without reasonable excuse fails to comply with any of the obligations imposed by Articles 10A(4) or 10A(5) of the Order is guilty of an offence and—
 
@@ -75,11 +75,11 @@ An office-holder must prepare a conduct report required under Article 10A(1) of 
 
 (2) Article 374 of the Insolvency (Northern Ireland) Order 1989 (summary proceedings) has effect in relation to an offence under this rule as to offences under Parts II to VII of that Order.
 
-## 6. Forms[^key-1d2ec286aadb843f7f87ac828ca5e35f]
+## 6. Forms[^c-1d2ec286aadb843f7f87ac828ca5e35f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Enforcement of Article 10(5)[^key-fe172cfdb009f5cf08e72697e354b08c]
+## 7. Enforcement of Article 10(5)[^c-fe172cfdb009f5cf08e72697e354b08c]
 
 (1) This rule applies where under Article 10(5) (power to call on liquidators, former liquidators and others to provide information) the Department or the official receiver requires or has required a person –
 
@@ -92,7 +92,7 @@ An office-holder must prepare a conduct report required under Article 10A(1) of 
 
 (4) The High Court’s order may provide that all costs of and incidental to the application shall be borne by the person to whom the order is directed.
 
-## 8. Transitional and saving provisions[^key-084ebdad724e60a22a3ea58c8dbd17b5]
+## 8. Transitional and saving provisions[^c-084ebdad724e60a22a3ea58c8dbd17b5]
 
 (1) Subject to paragraph (2), rules 4 and 5 of the former Rules shall continue to apply as if the former Rules had not been revoked when any of the events mentioned in sub-paragraphs (a), (b) or (c) of rule 4(1) of the former Rules (passing of resolution for voluntary winding up, appointment of administrative receiver, making of administration order) occurred on or after 1st January 1998 but before the commencement date.
 
@@ -105,7 +105,7 @@ may be used for the purpose of complying with rules 4 and 5 of the former Rules 
 
 (3) When a period referred to in rule 7(2) of the former Rules is current immediately before the commencement date, these Rules have effect as if rule 7(2) of these Rules had been in operation when the period began and the period is deemed to expire whenever it would have expired if these Rules had not been made and any right, obligation or power dependent on the beginning, duration or end of such period shall be under rule 7(2) of these Rules as it was or would have been under the said rule 7(2) of the former Rules.
 
-## 9.[^key-18f078be7f7e06fa4c2c8febf0618da1]
+## 9.[^c-18f078be7f7e06fa4c2c8febf0618da1]
 
 (1) A Minister of the Crown must from time to time—
 
@@ -139,7 +139,7 @@ Senior Officer of the
 
 Department of Enterprise, Trade and Investment
 
-## SCHEDULE[^key-d8f7cbd6c2046d4a796e3fcdb6886037][^key-760ddf1316c72b88d5c1317151fb8f20]
+## SCHEDULE[^c-d8f7cbd6c2046d4a796e3fcdb6886037][^c-760ddf1316c72b88d5c1317151fb8f20]
 
 Rules 4(2) and 5(3)
 
@@ -177,32 +177,32 @@ By virtue of the definition of “company” given in Article 2 of the Order, th
 
 [^f00003]: Footnote: Formerly the Department of Economic Development; *see* [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283)
 
-[^key-9115657aff5539e17d81d3203a31c650]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2003/357) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1A para. 5 (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-9115657aff5539e17d81d3203a31c650]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2003/357) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1A para. 5 (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
-[^key-8b6d32907c92f896524ea6e49e4303fa]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2003/357) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(g)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/g)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
+[^c-8b6d32907c92f896524ea6e49e4303fa]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2003/357) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(g)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/g)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
 
-[^key-61d0a105661588bc2d18e4a9df227736]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2003/357/article/1) in operation at 5.9.2003, see [rule 1(2)](https://www.legislation.gov.uk/nisr/2003/357/article/1/2)
+[^c-61d0a105661588bc2d18e4a9df227736]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2003/357/article/1) in operation at 5.9.2003, see [rule 1(2)](https://www.legislation.gov.uk/nisr/2003/357/article/1/2)
 
-[^key-9c0faace2380bbe252269278e363adc1]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2003/357/article/2) in operation at 5.9.2003, see [rule 1(2)](https://www.legislation.gov.uk/nisr/2003/357/article/1/2)
+[^c-9c0faace2380bbe252269278e363adc1]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2003/357/article/2) in operation at 5.9.2003, see [rule 1(2)](https://www.legislation.gov.uk/nisr/2003/357/article/1/2)
 
 [^f00004]: Footnote: [S.R. 1997 No. 516](https://www.legislation.gov.uk/nisr/1997/516)
 
-[^key-27c1a23e76de8304021302b80f900ac7]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/2003/357/article/3) in operation at 5.9.2003, see [rule 1(2)](https://www.legislation.gov.uk/nisr/2003/357/article/1/2)
+[^c-27c1a23e76de8304021302b80f900ac7]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/2003/357/article/3) in operation at 5.9.2003, see [rule 1(2)](https://www.legislation.gov.uk/nisr/2003/357/article/1/2)
 
-[^key-fb940d03e875b6115652f2bdf96c0121]: Textual amendment: [Rule 4](https://www.legislation.gov.uk/nisr/2003/357/rule/4) substituted (6.4.2016) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Reports on Conduct of Directors) (Northern Ireland) Regulations 2016 (S.I. 2016/356)](https://www.legislation.gov.uk/uksi/2016/356), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/356/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/356/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/356/regulation/4))
+[^c-fb940d03e875b6115652f2bdf96c0121]: Textual amendment: [Rule 4](https://www.legislation.gov.uk/nisr/2003/357/rule/4) substituted (6.4.2016) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Reports on Conduct of Directors) (Northern Ireland) Regulations 2016 (S.I. 2016/356)](https://www.legislation.gov.uk/uksi/2016/356), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/356/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/356/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/356/regulation/4))
 
-[^key-4de063bcf3f0a094e3c1a2c20cf8dda1]: Textual amendment: [Rule 5](https://www.legislation.gov.uk/nisr/2003/357/rule/5) substituted (6.4.2016) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Reports on Conduct of Directors) (Northern Ireland) Regulations 2016 (S.I. 2016/356)](https://www.legislation.gov.uk/uksi/2016/356), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/356/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/356/regulation/2/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/356/regulation/4))
+[^c-4de063bcf3f0a094e3c1a2c20cf8dda1]: Textual amendment: [Rule 5](https://www.legislation.gov.uk/nisr/2003/357/rule/5) substituted (6.4.2016) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Reports on Conduct of Directors) (Northern Ireland) Regulations 2016 (S.I. 2016/356)](https://www.legislation.gov.uk/uksi/2016/356), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/356/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/356/regulation/2/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/356/regulation/4))
 
-[^key-1d2ec286aadb843f7f87ac828ca5e35f]: Textual amendment: [Rule 6](https://www.legislation.gov.uk/nisr/2003/357/rule/6) omitted (6.4.2016) by virtue of [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Reports on Conduct of Directors) (Northern Ireland) Regulations 2016 (S.I. 2016/356)](https://www.legislation.gov.uk/uksi/2016/356), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/356/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2016/356/regulation/2/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/356/regulation/4))
+[^c-1d2ec286aadb843f7f87ac828ca5e35f]: Textual amendment: [Rule 6](https://www.legislation.gov.uk/nisr/2003/357/rule/6) omitted (6.4.2016) by virtue of [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Reports on Conduct of Directors) (Northern Ireland) Regulations 2016 (S.I. 2016/356)](https://www.legislation.gov.uk/uksi/2016/356), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/356/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2016/356/regulation/2/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/356/regulation/4))
 
-[^key-fe172cfdb009f5cf08e72697e354b08c]: Commencement: [Rule 7](https://www.legislation.gov.uk/nisr/2003/357/article/7) in operation at 5.9.2003, see [rule 1(2)](https://www.legislation.gov.uk/nisr/2003/357/article/1/2)
+[^c-fe172cfdb009f5cf08e72697e354b08c]: Commencement: [Rule 7](https://www.legislation.gov.uk/nisr/2003/357/article/7) in operation at 5.9.2003, see [rule 1(2)](https://www.legislation.gov.uk/nisr/2003/357/article/1/2)
 
 [^f00005]: Footnote: [S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346); the relevant amending instruments are [S.R. 1981 No. 224](https://www.legislation.gov.uk/nisr/1981/224); [S.R. 1983 No. 5](https://www.legislation.gov.uk/nisr/1983/5); [S.R. 1983 No. 114](https://www.legislation.gov.uk/nisr/1983/114); [S.R. 1984 No. 110](https://www.legislation.gov.uk/nisr/1984/110); [S.R. 1986 No. 203](https://www.legislation.gov.uk/nisr/1986/203); [S.R. 1991 No. 232](https://www.legislation.gov.uk/nisr/1991/232); [S.R. 1993 No. 143](https://www.legislation.gov.uk/nisr/1993/143); and [S.R. 2001 No. 254](https://www.legislation.gov.uk/nisr/2001/254)
 
-[^key-084ebdad724e60a22a3ea58c8dbd17b5]: Commencement: [Rule 8](https://www.legislation.gov.uk/nisr/2003/357/article/8) in operation at 5.9.2003, see [rule 1(2)](https://www.legislation.gov.uk/nisr/2003/357/article/1/2)
+[^c-084ebdad724e60a22a3ea58c8dbd17b5]: Commencement: [Rule 8](https://www.legislation.gov.uk/nisr/2003/357/article/8) in operation at 5.9.2003, see [rule 1(2)](https://www.legislation.gov.uk/nisr/2003/357/article/1/2)
 
-[^key-18f078be7f7e06fa4c2c8febf0618da1]: Textual amendment: [Rule 9](https://www.legislation.gov.uk/nisr/2003/357/rule/9) inserted (6.4.2016) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Reports on Conduct of Directors) (Northern Ireland) Regulations 2016 (S.I. 2016/356)](https://www.legislation.gov.uk/uksi/2016/356), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/356/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/356/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/356/regulation/4))
+[^c-18f078be7f7e06fa4c2c8febf0618da1]: Textual amendment: [Rule 9](https://www.legislation.gov.uk/nisr/2003/357/rule/9) inserted (6.4.2016) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Reports on Conduct of Directors) (Northern Ireland) Regulations 2016 (S.I. 2016/356)](https://www.legislation.gov.uk/uksi/2016/356), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/356/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/356/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/356/regulation/4))
 
-[^key-d8f7cbd6c2046d4a796e3fcdb6886037]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2003/357/schedule) in operation at 5.9.2003, see [rule 1(2)](https://www.legislation.gov.uk/nisr/2003/357/article/1/2)
+[^c-d8f7cbd6c2046d4a796e3fcdb6886037]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2003/357/schedule) in operation at 5.9.2003, see [rule 1(2)](https://www.legislation.gov.uk/nisr/2003/357/article/1/2)
 
-[^key-760ddf1316c72b88d5c1317151fb8f20]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2003/357/schedule): Form substituted for Forms (6.4.2016) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Reports on Conduct of Directors) (Northern Ireland) Regulations 2016 (S.I. 2016/356)](https://www.legislation.gov.uk/uksi/2016/356), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/356/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2016/356/regulation/2/5), [Sch.](https://www.legislation.gov.uk/uksi/2016/356/schedule) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/356/regulation/4))
+[^c-760ddf1316c72b88d5c1317151fb8f20]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2003/357/schedule): Form substituted for Forms (6.4.2016) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Reports on Conduct of Directors) (Northern Ireland) Regulations 2016 (S.I. 2016/356)](https://www.legislation.gov.uk/uksi/2016/356), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/356/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2016/356/regulation/2/5), [Sch.](https://www.legislation.gov.uk/uksi/2016/356/schedule) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/356/regulation/4))

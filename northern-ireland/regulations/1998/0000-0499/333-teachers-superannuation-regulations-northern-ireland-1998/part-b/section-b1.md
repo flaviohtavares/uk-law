@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## B1. Employment — general[^key-b59a02541867ecbfe328e0de6d0175a5]
+## B1. Employment — general[^c-b59a02541867ecbfe328e0de6d0175a5]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b59a02541867ecbfe328e0de6d0175a5]: Commencement: Reg. B1 in operation at 2.11.1998, see reg. A1
+[^c-b59a02541867ecbfe328e0de6d0175a5]: Commencement: Reg. B1 in operation at 2.11.1998, see reg. A1

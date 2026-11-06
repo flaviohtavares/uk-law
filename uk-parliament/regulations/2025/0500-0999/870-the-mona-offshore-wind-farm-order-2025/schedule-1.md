@@ -24,7 +24,7 @@ Article 2
 
 ### PART 1 — Authorised Development
 
-**1.**[^key-96cfc76327cf807513c10da79548b0a3] A nationally significant infrastructure project as defined in sections 14 (nationally significant infrastructure projects: general) and 15 (generating stations) of the 2008 Act located in the Irish Sea approximately 28 kilometres from the coast of North Wales being an offshore wind generating station with an electrical output capacity of over 350 megawatts comprising—
+**1.**[^c-96cfc76327cf807513c10da79548b0a3] A nationally significant infrastructure project as defined in sections 14 (nationally significant infrastructure projects: general) and 15 (generating stations) of the 2008 Act located in the Irish Sea approximately 28 kilometres from the coast of North Wales being an offshore wind generating station with an electrical output capacity of over 350 megawatts comprising—
 
 *Work No. 1:*
 
@@ -806,7 +806,7 @@ and in connection with Work Nos. 3 to 38 and to the extent that they do not othe
 
 ### PART 2 — Ancillary Works
 
-**2.**[^key-902a883591e96a44cfef1821d43eff2f] Works within the Order limits which fall within the scope of the work assessed by the environmental statement comprising –
+**2.**[^c-902a883591e96a44cfef1821d43eff2f] Works within the Order limits which fall within the scope of the work assessed by the environmental statement comprising –
 
 - (a) intrusive ground investigations including the making of boreholes and trial pits;
 - (b) temporary landing places, moorings or other means of accommodating vessels in the construction and/or maintenance of the authorised development;
@@ -815,6 +815,6 @@ and in connection with Work Nos. 3 to 38 and to the extent that they do not othe
 
 ## Annotations
 
-[^key-96cfc76327cf807513c10da79548b0a3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/870/schedule/1/paragraph/1) in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-96cfc76327cf807513c10da79548b0a3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/870/schedule/1/paragraph/1) in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
-[^key-902a883591e96a44cfef1821d43eff2f]: Commencement: Sch. 1 para. 2 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-902a883591e96a44cfef1821d43eff2f]: Commencement: Sch. 1 para. 2 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)

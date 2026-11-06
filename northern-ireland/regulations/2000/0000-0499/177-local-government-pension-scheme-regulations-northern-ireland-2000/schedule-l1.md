@@ -16,80 +16,80 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE L1 (affected by repeal, see note) — The Committee (affected by repeal, see note)[^key-a6e1c31b50cf23fd6f18bfdb065cfd74][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+## SCHEDULE L1 (affected by repeal, see note) — The Committee (affected by repeal, see note)[^c-a6e1c31b50cf23fd6f18bfdb065cfd74][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-Regulation L13 *(affected by repeal, see note)*[^key-24f17523d80f91b5e2c8c7c012137111]
+Regulation L13 *(affected by repeal, see note)*[^c-24f17523d80f91b5e2c8c7c012137111]
 
-### Part I (affected by repeal, see note) — Constitution of the Committee (affected by repeal, see note)[^key-a6e1c31b50cf23fd6f18bfdb065cfd74][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+### Part I (affected by repeal, see note) — Constitution of the Committee (affected by repeal, see note)[^c-a6e1c31b50cf23fd6f18bfdb065cfd74][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
-**1.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II (affected by repeal, see note) — Powers of the Committee (affected by repeal, see note)[^key-a6e1c31b50cf23fd6f18bfdb065cfd74][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+### Part II (affected by repeal, see note) — Powers of the Committee (affected by repeal, see note)[^c-a6e1c31b50cf23fd6f18bfdb065cfd74][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
-**10.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part III (affected by repeal, see note) — Expenses And Allowances Payable By The Committee (affected by repeal, see note)[^key-a6e1c31b50cf23fd6f18bfdb065cfd74][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+### Part III (affected by repeal, see note) — Expenses And Allowances Payable By The Committee (affected by repeal, see note)[^c-a6e1c31b50cf23fd6f18bfdb065cfd74][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
-**24.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-a6e1c31b50cf23fd6f18bfdb065cfd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a6e1c31b50cf23fd6f18bfdb065cfd74]: Textual amendment: [Sch. L1](https://www.legislation.gov.uk/nisr/2000/177/schedule/L1) revoked (1.2.2003) by [Local Government Pension Scheme (Amendment No. 2 and Transitional Provisions) Regulations (Northern Ireland) 2002 (S.R. 2002/353)](https://www.legislation.gov.uk/nisr/2002/353), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2002/353/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2002/353/regulation/23) (with [Sch. 5](https://www.legislation.gov.uk/nisr/2002/353/schedule/5))
+[^c-a6e1c31b50cf23fd6f18bfdb065cfd74]: Textual amendment: [Sch. L1](https://www.legislation.gov.uk/nisr/2000/177/schedule/L1) revoked (1.2.2003) by [Local Government Pension Scheme (Amendment No. 2 and Transitional Provisions) Regulations (Northern Ireland) 2002 (S.R. 2002/353)](https://www.legislation.gov.uk/nisr/2002/353), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2002/353/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2002/353/regulation/23) (with [Sch. 5](https://www.legislation.gov.uk/nisr/2002/353/schedule/5))
 
-[^key-24f17523d80f91b5e2c8c7c012137111]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2014/189/regulation/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with savings and transitional provisions in [reg. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3), [Sch. 5](https://www.legislation.gov.uk/nisr/2014/189/schedule/5))
+[^c-24f17523d80f91b5e2c8c7c012137111]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2014/189/regulation/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with savings and transitional provisions in [reg. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3), [Sch. 5](https://www.legislation.gov.uk/nisr/2014/189/schedule/5))

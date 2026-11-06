@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Crown application[^key-21b129f759fa61f58878ebea8f0a19b9]
+## 76. Crown application[^c-21b129f759fa61f58878ebea8f0a19b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21b129f759fa61f58878ebea8f0a19b9]: Commencement: Art. 76 in force at 12.11.2020, see art. 2(1)
+[^c-21b129f759fa61f58878ebea8f0a19b9]: Commencement: Art. 76 in force at 12.11.2020, see art. 2(1)

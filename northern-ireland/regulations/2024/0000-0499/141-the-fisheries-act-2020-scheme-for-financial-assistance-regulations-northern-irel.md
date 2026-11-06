@@ -48,7 +48,7 @@ The Department of Agriculture, Environment and Rural Affairs, in exercise of the
 
 ## PART 1 — General
 
-### 1. Citation, commencement, and application[^key-1d0dca812b91e2c6572efda3e832d6bc]
+### 1. Citation, commencement, and application[^c-1d0dca812b91e2c6572efda3e832d6bc]
 
 (1) These Regulations may be cited as the Fisheries Act 2020 (Scheme for Financial Assistance) Regulations (Northern Ireland) 2024 and come into operation on 30th June 2024.
 
@@ -62,7 +62,7 @@ The Department of Agriculture, Environment and Rural Affairs, in exercise of the
 
 ## PART 2 — Establishment of scheme
 
-### 2. Establishment of scheme[^key-fbccd8308acea724cb7396b8948e9657][^key-382d5e323f9472ba0743bd63a5780c85]
+### 2. Establishment of scheme[^c-fbccd8308acea724cb7396b8948e9657][^c-382d5e323f9472ba0743bd63a5780c85]
 
 (1) These Regulations establish a scheme for the giving of financial assistance under paragraph 3(1) of Schedule 6 to the Fisheries Act 2020.
 
@@ -70,7 +70,7 @@ The Department of Agriculture, Environment and Rural Affairs, in exercise of the
 
 ## PART 3 — Payments of grants by the Department
 
-### 3. Interpretation[^key-49635d7ff930aeb78a15354c2a91ac29]
+### 3. Interpretation[^c-49635d7ff930aeb78a15354c2a91ac29]
 
 (1) In this Part—
 
@@ -79,7 +79,7 @@ The Department of Agriculture, Environment and Rural Affairs, in exercise of the
 - “**notify**” means notify in writing, and any reference to a “notice” or “notification” is to a notice or notification given in writing; and
 - “**writing**” includes electronic communications within the meaning of section 4 (interpretation) of the Electronic Communications Act (Northern Ireland) 2001[^f00003].
 
-### 4. Payments by the Department[^key-6a3f9686f564cc6f36496033116ea183]
+### 4. Payments by the Department[^c-6a3f9686f564cc6f36496033116ea183]
 
 (1) The Department may, in accordance with this scheme, pay grants for any of the purposes specified in paragraph 3(1) of Schedule 6 to the Fisheries Act 2020.
 
@@ -91,7 +91,7 @@ The Department of Agriculture, Environment and Rural Affairs, in exercise of the
 
 (3) The Department must not pay a grant under paragraph (1) for an excluded activity or cost.
 
-### 5. Excluded activities and costs[^key-341fb0e9f9147da6d67c3291fb16cad0]
+### 5. Excluded activities and costs[^c-341fb0e9f9147da6d67c3291fb16cad0]
 
 (1) The following activities and costs are excluded from this scheme—
 
@@ -108,14 +108,14 @@ The Department of Agriculture, Environment and Rural Affairs, in exercise of the
 - “**project**” means a project to which an application for a grant under this scheme relates; and
 - “**fishing capacity**” has the same meaning as in Article 4 of [Regulation (EU) No 1380/2013](https://www.legislation.gov.uk/european/regulation/2013/1380) of the European Parliament and of the Council on the Common Fisheries Policy[^f00004].
 
-### 6. Advertisement of grants and guidance[^key-9ca1744cf1356e72d27a12ab5e2964d4]
+### 6. Advertisement of grants and guidance[^c-9ca1744cf1356e72d27a12ab5e2964d4]
 
 The Department must—
 
 - (a) advertise the grants available under this scheme; and
 - (b) provide guidance notes for completing applications.
 
-### 7. Application for a grant[^key-7739970ef3f96ae935ec4e10db6a5457]
+### 7. Application for a grant[^c-7739970ef3f96ae935ec4e10db6a5457]
 
 (1) An application for a grant under this scheme must be made in a form approved, and submitted in a manner specified, by the Department.
 
@@ -125,14 +125,14 @@ The Department must—
 
 (4) In this regulation, “**specified**” means specified in such form or on any documentation provided by the Department with or in connection with this Scheme.
 
-### 8. Decision and notification[^key-7a53b6e82ecc198f9f8659bb36542f9f]
+### 8. Decision and notification[^c-7a53b6e82ecc198f9f8659bb36542f9f]
 
 (1) The Department must—
 
 - (a) decide whether to approve an application unconditionally, to refuse or reject it or to approve it subject to such conditions it may determine; and
 - (b) notify the applicant of the decision made under sub-paragraph (a).
 
-### 9. Review of Decision[^key-52269da0c0dcd983c22b67c21298f391]
+### 9. Review of Decision[^c-52269da0c0dcd983c22b67c21298f391]
 
 (1) A person may apply to the Department for a review of a decision in relation to this Scheme in accordance with this Regulation.
 
@@ -159,17 +159,17 @@ The Department must—
 
 (7) As soon as reasonably practicable after reviewing the decision, the Department must notify the person in writing of its decision and the reasons for it.
 
-### 10. Evidence of expenditure etc.[^key-6a92ce08d5d3c6b0d8166e36385e184a]
+### 10. Evidence of expenditure etc.[^c-6a92ce08d5d3c6b0d8166e36385e184a]
 
 (1) The Department must not make a payment to a person under this scheme unless it is satisfied that the person has properly incurred, or will properly incur, expenditure of a kind in respect of which the grant is payable and has complied, or will comply, with any conditions of the approval of the grant.
 
 (2) For the purposes of paragraph (1), the Department may require the person to provide information evidencing expenditure or any necessary actions relating to the grant.
 
-### 11. Method of payment[^key-f0024ac970ad07db838b13e68472ca52]
+### 11. Method of payment[^c-f0024ac970ad07db838b13e68472ca52]
 
 The Department may decide to pay a grant under this scheme in a single instalment or in a number of instalments.
 
-### 12. Records, inspection and notification of changes[^key-e9d3501c652fc5ea31969a33caf4a59c]
+### 12. Records, inspection and notification of changes[^c-e9d3501c652fc5ea31969a33caf4a59c]
 
 It is a condition of the payment of any grant that the person to whom the payment is made must—
 
@@ -178,13 +178,13 @@ It is a condition of the payment of any grant that the person to whom the paymen
 - (c) upon reasonable notice by the Department, make any record referred to in sub-paragraph (a) available for inspection; and
 - (d) notify the Department as soon as reasonably practicable of any material change in circumstances that is relevant to the payment of the grant.
 
-### 13. Variation, suspension and revocation of approval[^key-49c5bf0b97c99e3d315f0cf1de34979a]
+### 13. Variation, suspension and revocation of approval[^c-49c5bf0b97c99e3d315f0cf1de34979a]
 
 (1) The Department may, at any time before the grant has been paid in full, suspend or revoke the approval, or vary a condition of the approval.
 
 (2) Where the Department has decided to suspend or revoke the approval or vary a condition of the approval, it must notify the person to whom the approval relates of the decision.
 
-### 14. Notice of recovery of payment[^key-e2126628370c2a53f145b38bea30f12f]
+### 14. Notice of recovery of payment[^c-e2126628370c2a53f145b38bea30f12f]
 
 (1) The Department may give notice to require the repayment of any part of a grant paid to a person under this scheme.
 
@@ -198,11 +198,11 @@ It is a condition of the payment of any grant that the person to whom the paymen
 
 (4) Where any part of the sum specified in a notice under paragraph (1) is not repaid within the period specified in the notice, the Department may recover such amount as remains outstanding summarily as a civil debt.
 
-### 15. Enforcement[^key-75bd7964cb8f8a30ed15daa5ea7bbdff]
+### 15. Enforcement[^c-75bd7964cb8f8a30ed15daa5ea7bbdff]
 
 An officer of the Department has an enforcement function in relation to any offence or suspected offence by any person in relation to an application for a grant made under this scheme.
 
-### 16. Data processing and publishing[^key-9d8a9ec8013608ec27930ffc042290bb]
+### 16. Data processing and publishing[^c-9d8a9ec8013608ec27930ffc042290bb]
 
 (1) The Department may publish the following information about each grant given under this scheme—
 
@@ -260,42 +260,42 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2020 c. 22](https://www.legislation.gov.uk/ukpga/2020/22).
 
-[^key-1d0dca812b91e2c6572efda3e832d6bc]: Commencement: Reg. 1 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-1d0dca812b91e2c6572efda3e832d6bc]: Commencement: Reg. 1 in operation at 30.6.2024 with application in accordance with reg. 1(2)
 
 [^f00002]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-fbccd8308acea724cb7396b8948e9657]: Commencement: Reg. 2 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-fbccd8308acea724cb7396b8948e9657]: Commencement: Reg. 2 in operation at 30.6.2024 with application in accordance with reg. 1(2)
 
-[^key-382d5e323f9472ba0743bd63a5780c85]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/141/regulation/2) in operation at 30.6.2024 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/141/regulation/1/2)
+[^c-382d5e323f9472ba0743bd63a5780c85]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/141/regulation/2) in operation at 30.6.2024 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/141/regulation/1/2)
 
-[^key-49635d7ff930aeb78a15354c2a91ac29]: Commencement: Reg. 3 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-49635d7ff930aeb78a15354c2a91ac29]: Commencement: Reg. 3 in operation at 30.6.2024 with application in accordance with reg. 1(2)
 
 [^f00003]: Footnote: c.9 (N.I.); Article 4 was amended by [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-6a3f9686f564cc6f36496033116ea183]: Commencement: Reg. 4 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-6a3f9686f564cc6f36496033116ea183]: Commencement: Reg. 4 in operation at 30.6.2024 with application in accordance with reg. 1(2)
 
-[^key-341fb0e9f9147da6d67c3291fb16cad0]: Commencement: Reg. 5 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-341fb0e9f9147da6d67c3291fb16cad0]: Commencement: Reg. 5 in operation at 30.6.2024 with application in accordance with reg. 1(2)
 
 [^f00004]: Footnote: EUR 2013/1380, Article 4 was amended by [S.I. 2019/739](https://www.legislation.gov.uk/uksi/2019/739).
 
-[^key-9ca1744cf1356e72d27a12ab5e2964d4]: Commencement: Reg. 6 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-9ca1744cf1356e72d27a12ab5e2964d4]: Commencement: Reg. 6 in operation at 30.6.2024 with application in accordance with reg. 1(2)
 
-[^key-7739970ef3f96ae935ec4e10db6a5457]: Commencement: Reg. 7 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-7739970ef3f96ae935ec4e10db6a5457]: Commencement: Reg. 7 in operation at 30.6.2024 with application in accordance with reg. 1(2)
 
-[^key-7a53b6e82ecc198f9f8659bb36542f9f]: Commencement: Reg. 8 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-7a53b6e82ecc198f9f8659bb36542f9f]: Commencement: Reg. 8 in operation at 30.6.2024 with application in accordance with reg. 1(2)
 
-[^key-52269da0c0dcd983c22b67c21298f391]: Commencement: Reg. 9 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-52269da0c0dcd983c22b67c21298f391]: Commencement: Reg. 9 in operation at 30.6.2024 with application in accordance with reg. 1(2)
 
-[^key-6a92ce08d5d3c6b0d8166e36385e184a]: Commencement: Reg. 10 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-6a92ce08d5d3c6b0d8166e36385e184a]: Commencement: Reg. 10 in operation at 30.6.2024 with application in accordance with reg. 1(2)
 
-[^key-f0024ac970ad07db838b13e68472ca52]: Commencement: Reg. 11 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-f0024ac970ad07db838b13e68472ca52]: Commencement: Reg. 11 in operation at 30.6.2024 with application in accordance with reg. 1(2)
 
-[^key-e9d3501c652fc5ea31969a33caf4a59c]: Commencement: Reg. 12 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-e9d3501c652fc5ea31969a33caf4a59c]: Commencement: Reg. 12 in operation at 30.6.2024 with application in accordance with reg. 1(2)
 
-[^key-49c5bf0b97c99e3d315f0cf1de34979a]: Commencement: Reg. 13 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-49c5bf0b97c99e3d315f0cf1de34979a]: Commencement: Reg. 13 in operation at 30.6.2024 with application in accordance with reg. 1(2)
 
-[^key-e2126628370c2a53f145b38bea30f12f]: Commencement: Reg. 14 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-e2126628370c2a53f145b38bea30f12f]: Commencement: Reg. 14 in operation at 30.6.2024 with application in accordance with reg. 1(2)
 
-[^key-75bd7964cb8f8a30ed15daa5ea7bbdff]: Commencement: Reg. 15 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-75bd7964cb8f8a30ed15daa5ea7bbdff]: Commencement: Reg. 15 in operation at 30.6.2024 with application in accordance with reg. 1(2)
 
-[^key-9d8a9ec8013608ec27930ffc042290bb]: Commencement: Reg. 16 in operation at 30.6.2024 with application in accordance with reg. 1(2)
+[^c-9d8a9ec8013608ec27930ffc042290bb]: Commencement: Reg. 16 in operation at 30.6.2024 with application in accordance with reg. 1(2)

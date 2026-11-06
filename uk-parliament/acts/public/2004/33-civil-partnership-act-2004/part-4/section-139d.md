@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139D. Rejection of false information or evidence[^key-b3dc9bb2ae4d63efabba32ec86a466e4]
+## 139D. Rejection of false information or evidence[^c-b3dc9bb2ae4d63efabba32ec86a466e4]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ if (in particular) the registrar has reasonable grounds for suspecting that the 
 
 ## Annotations
 
-[^key-b3dc9bb2ae4d63efabba32ec86a466e4]: Textual amendment: Ss. 139A-139E inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-b3dc9bb2ae4d63efabba32ec86a466e4]: Textual amendment: Ss. 139A-139E inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))

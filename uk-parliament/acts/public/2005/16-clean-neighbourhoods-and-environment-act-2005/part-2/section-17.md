@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Guidance[^key-4e197e8f8aac5244f30cad19fed01f27][^key-6a77e4255059d426bdd63e6a56a11828][^key-fa005c5e962099880ac34ea7eb33ee4e]
+## 17. Guidance[^c-4e197e8f8aac5244f30cad19fed01f27][^c-6a77e4255059d426bdd63e6a56a11828][^c-fa005c5e962099880ac34ea7eb33ee4e]
 
 *Extent: E+W*
 
@@ -31,8 +31,8 @@ In section 103 of the Road Traffic Regulation Act 1984 (supplementary provision 
 
 ## Annotations
 
-[^key-4e197e8f8aac5244f30cad19fed01f27]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2005/16/section/17) in force at 18.10.2005 for E. by [S.I. 2005/2896](https://www.legislation.gov.uk/uksi/2005/2896), [art. 3(f)](https://www.legislation.gov.uk/uksi/2005/2896/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2896/article/5/1))
+[^c-4e197e8f8aac5244f30cad19fed01f27]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2005/16/section/17) in force at 18.10.2005 for E. by [S.I. 2005/2896](https://www.legislation.gov.uk/uksi/2005/2896), [art. 3(f)](https://www.legislation.gov.uk/uksi/2005/2896/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2896/article/5/1))
 
-[^key-6a77e4255059d426bdd63e6a56a11828]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2005/16/section/17) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
+[^c-6a77e4255059d426bdd63e6a56a11828]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2005/16/section/17) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
 
-[^key-fa005c5e962099880ac34ea7eb33ee4e]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2005/16/section/17) in force at 27.10.2006 for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(f)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/f) (with [art. 9(1)(c)](https://www.legislation.gov.uk/wsi/2006/2797/article/9/1/c)[(2)](https://www.legislation.gov.uk/wsi/2006/2797/article/9/2))
+[^c-fa005c5e962099880ac34ea7eb33ee4e]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2005/16/section/17) in force at 27.10.2006 for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(f)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/f) (with [art. 9(1)(c)](https://www.legislation.gov.uk/wsi/2006/2797/article/9/1/c)[(2)](https://www.legislation.gov.uk/wsi/2006/2797/article/9/2))

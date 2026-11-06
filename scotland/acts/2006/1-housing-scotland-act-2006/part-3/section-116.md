@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Application of Part to sub-divided buildings[^key-e1cf04427fe2d399df80a64d16130e55]
+## 116. Application of Part to sub-divided buildings[^c-e1cf04427fe2d399df80a64d16130e55]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1cf04427fe2d399df80a64d16130e55]: Commencement: S. 116 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))
+[^c-e1cf04427fe2d399df80a64d16130e55]: Commencement: S. 116 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))

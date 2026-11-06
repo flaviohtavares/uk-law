@@ -31,7 +31,7 @@ summary: ''
 
 (3) Subsection (4) applies where—
 
-- (a) the appropriate tribunal[^key-e79bb21ea64108c96f90bfeb8680749f] is hearing an appeal under section 269 in relation to a demolition order made under section 265; and
+- (a) the appropriate tribunal[^c-e79bb21ea64108c96f90bfeb8680749f] is hearing an appeal under section 269 in relation to a demolition order made under section 265; and
 - (b) the grounds on which the appeal is brought are or include the ground that a course of action mentioned in subsection (2) is the best course of action in relation to each hazard concerned.
 
 (4) The tribunal shall have regard to any guidance given to the local housing authority under section 9 of the Housing Act 2004.
@@ -49,4 +49,4 @@ summary: ''
 
 [^c19104581]: Textual amendment: S. 269A inserted (6.4.2006 for E. and 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 265(1)](https://www.legislation.gov.uk/ukpga/2004/34/section/265/1), [270(4)(5)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4/5), [Sch. 15 para. 15](https://www.legislation.gov.uk/ukpga/2004/34/schedule/15/paragraph/15); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-e79bb21ea64108c96f90bfeb8680749f]: Textual amendment: Words in s. 269A(3)(a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/42) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-e79bb21ea64108c96f90bfeb8680749f]: Textual amendment: Words in s. 269A(3)(a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/42) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

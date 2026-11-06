@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Duty to consider whether to review plan[^key-64881730d218f733b030ec46aad39742]
+## 31. Duty to consider whether to review plan[^c-64881730d218f733b030ec46aad39742]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64881730d218f733b030ec46aad39742]: Commencement: S. 31 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-64881730d218f733b030ec46aad39742]: Commencement: S. 31 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

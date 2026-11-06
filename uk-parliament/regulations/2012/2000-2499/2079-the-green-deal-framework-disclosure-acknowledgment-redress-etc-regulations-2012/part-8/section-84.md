@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 84. Discharge of a compliance notice or enforcement undertaking[^key-8b968f4e00a31dffbe878b61e292232c]
+## 84. Discharge of a compliance notice or enforcement undertaking[^c-8b968f4e00a31dffbe878b61e292232c]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ may at any time apply for a certificate.
 
 ## Annotations
 
-[^key-8b968f4e00a31dffbe878b61e292232c]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/2012/2079/regulation/84) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-8b968f4e00a31dffbe878b61e292232c]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/2012/2079/regulation/84) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)

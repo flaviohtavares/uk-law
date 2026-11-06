@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Delegation of functions relating to marine licensing[^key-2ef5b09c6f51548a6b0088dd20efc338]
+## 51. Delegation of functions relating to marine licensing[^c-2ef5b09c6f51548a6b0088dd20efc338]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ef5b09c6f51548a6b0088dd20efc338]: Commencement: S. 51 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-2ef5b09c6f51548a6b0088dd20efc338]: Commencement: S. 51 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

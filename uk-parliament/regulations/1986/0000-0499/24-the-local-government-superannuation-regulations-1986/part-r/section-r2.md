@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## R2. Records to be kept by authorities[^key-9c2ceb12d8bd4ac4528d0a061d940244]
+## R2. Records to be kept by authorities[^c-9c2ceb12d8bd4ac4528d0a061d940244]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ every pensionable employee in relation to whom they are the appropriate administ
 
 ## Annotations
 
-[^key-9c2ceb12d8bd4ac4528d0a061d940244]: Commencement: [Reg. R2](https://www.legislation.gov.uk/uksi/1986/24/regulation/R2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-9c2ceb12d8bd4ac4528d0a061d940244]: Commencement: [Reg. R2](https://www.legislation.gov.uk/uksi/1986/24/regulation/R2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

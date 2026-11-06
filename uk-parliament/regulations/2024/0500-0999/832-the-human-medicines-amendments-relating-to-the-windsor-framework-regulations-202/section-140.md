@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Amendment to Schedule 12A[^key-30a51846ed3be19aae6d1f36381e0891]
+## 140. Amendment to Schedule 12A[^c-30a51846ed3be19aae6d1f36381e0891]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ In Schedule 12A (further provision as to the performance of pharmacovigilance ac
 
 ## Annotations
 
-[^key-30a51846ed3be19aae6d1f36381e0891]: Commencement: [Reg. 140](https://www.legislation.gov.uk/uksi/2024/832/regulation/140) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-30a51846ed3be19aae6d1f36381e0891]: Commencement: [Reg. 140](https://www.legislation.gov.uk/uksi/2024/832/regulation/140) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00147]: Footnote: Schedule 12A was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

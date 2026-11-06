@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Inspectors[^key-a068562b43cae404a9312210516404ff]
+## 34. Inspectors[^c-a068562b43cae404a9312210516404ff]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The competent authority or a local authority may appoint inspectors for the purp
 
 ## Annotations
 
-[^key-a068562b43cae404a9312210516404ff]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2014/951/regulation/34) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-a068562b43cae404a9312210516404ff]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2014/951/regulation/34) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236LA. Trustee independence requirement[^key-86ee57b5640b2c2cbc1beaadd98c83d0]
+## 236LA. Trustee independence requirement[^c-86ee57b5640b2c2cbc1beaadd98c83d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86ee57b5640b2c2cbc1beaadd98c83d0]: Textual amendment: [S. 236LA](https://www.legislation.gov.uk/ukpga/1992/12/section/236LA) inserted (with effect in accordance with Sch. 6 para. 3(5) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 3(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/3/2)[(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/3/5)
+[^c-86ee57b5640b2c2cbc1beaadd98c83d0]: Textual amendment: [S. 236LA](https://www.legislation.gov.uk/ukpga/1992/12/section/236LA) inserted (with effect in accordance with Sch. 6 para. 3(5) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 3(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/3/2)[(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/3/5)

@@ -45,7 +45,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 201(1) and (2) and 206(1) of the Criminal Justice and Licensing (Scotland) Act 2010[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-3f50667623d5855536f0e069d5e2b607]
+## 1. Citation, commencement and interpretation[^c-3f50667623d5855536f0e069d5e2b607]
 
 (1) This Order may be cited as the Criminal Justice and Licensing (Scotland) Act 2010 (Commencement No. 9, Transitional and Savings Provisions) Order 2011 and comes into force on 1st November 2011.
 
@@ -57,13 +57,13 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “occasional licence application” has the meaning given in section 56(4) of the 2005 Act; and
 - “premises licence” has the meaning given in section 17 of the 2005 Act.
 
-## 2. Commencement of provisions[^key-e2e573fe9a0f74c88f3cc6c1da5056b7]
+## 2. Commencement of provisions[^c-e2e573fe9a0f74c88f3cc6c1da5056b7]
 
 (1) The provisions of the Act specified in column 1 of the Schedule (the subject matter of which is specified in column 2 of the Schedule) come into force on the corresponding date specified in column 3 of the Schedule.
 
 (2) Where a purpose is specified in column 4 of the Schedule, the corresponding provision specified in column 1 of the Schedule comes into force only for that purpose.
 
-## 3. Savings provision and transitional provision - section 174 (licensing of taxis and private hire cars)[^key-94040f31817a708aac0bf0f939e6b2f8]
+## 3. Savings provision and transitional provision - section 174 (licensing of taxis and private hire cars)[^c-94040f31817a708aac0bf0f939e6b2f8]
 
 (1) The commencement of section 174 of the Act has no effect as regards—
 
@@ -72,11 +72,11 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (2) The duty specified in section 17(2) of the 1982 Act (as substituted by section 174(3)(a) of the Act) does not apply in relation to scales which are in effect on 1st November 2011 and are the subject of a review commenced before that date.
 
-## 4. Transitional provision - section 184 (premises licences: connected persons and interested parties)[^key-f003de564bbcab2f3e051cabd2e88f83]
+## 4. Transitional provision - section 184 (premises licences: connected persons and interested parties)[^c-f003de564bbcab2f3e051cabd2e88f83]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Savings provision – schedule 6 (further modifications of the 2005 Act)[^key-2e737e2685cc4132213c1a5ff237e3b3]
+## 5. Savings provision – schedule 6 (further modifications of the 2005 Act)[^c-2e737e2685cc4132213c1a5ff237e3b3]
 
 The commencement of paragraphs 2 and 17 of schedule 6 to the Act is of no effect in relation to—
 
@@ -95,7 +95,7 @@ Edinburgh
 
 6th October 2011
 
-## SCHEDULE[^key-ad34d8ad0b3944f5cea419d0e6e9f3dc]
+## SCHEDULE[^c-ad34d8ad0b3944f5cea419d0e6e9f3dc]
 
 Article 2
 
@@ -110,7 +110,7 @@ Article 2
 | Section 110(2) | Medical services in prisons | 1st November 2011 | For all purposes in respect of offences committed under section 41D of the Prisons (Scotland) Act 1989[^f00004] on or after the date specified in column 3. |
 | Section 110(3), (4) and (5) | Medical services in prisons | 1st November 2011 |  |
 | Section 174 | Licensing of taxis and private hire cars | 1st November 2011 |  |
-| [^key-f4533004ffee425fa15146182caddd5f]. . . | [^key-f4533004ffee425fa15146182caddd5f]. . . | [^key-f4533004ffee425fa15146182caddd5f]. . . | [^key-f4533004ffee425fa15146182caddd5f]. . . |
+| [^c-f4533004ffee425fa15146182caddd5f]. . . | [^c-f4533004ffee425fa15146182caddd5f]. . . | [^c-f4533004ffee425fa15146182caddd5f]. . . | [^c-f4533004ffee425fa15146182caddd5f]. . . |
 | Section 195 | Liability for offences | 1st November 2011 | For all purposes insofar as not already in force in respect of offences committed on or after the date specified in column 3. |
 | Paragraph 2 of schedule 6 | Further modifications of the 2005 Act | 1st November 2011 |  |
 | Paragraphs 9 and 10 of schedule 6 | Further modifications of the 2005 Act | 1st November 2011 | For the purposes of occasional licence applications received by a Licensing Board on or after the date specified in column 3. |
@@ -255,22 +255,22 @@ The following provisions of the Act have been brought into force by commencement
 
 [^f00001]: Footnote: [2010 asp 13](https://www.legislation.gov.uk/asp/2010/13).
 
-[^key-3f50667623d5855536f0e069d5e2b607]: Commencement: Art. 1 in force at 1.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/354/article/1/1)
+[^c-3f50667623d5855536f0e069d5e2b607]: Commencement: Art. 1 in force at 1.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/354/article/1/1)
 
 [^f00002]: Footnote: [1982 c.45](https://www.legislation.gov.uk/ukpga/1982/45).
 
 [^f00003]: Footnote: [2005 asp 16](https://www.legislation.gov.uk/asp/2005/16).
 
-[^key-e2e573fe9a0f74c88f3cc6c1da5056b7]: Commencement: Art. 2 in force at 1.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/354/article/1/1)
+[^c-e2e573fe9a0f74c88f3cc6c1da5056b7]: Commencement: Art. 2 in force at 1.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/354/article/1/1)
 
-[^key-94040f31817a708aac0bf0f939e6b2f8]: Commencement: Art. 3 in force at 1.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/354/article/1/1)
+[^c-94040f31817a708aac0bf0f939e6b2f8]: Commencement: Art. 3 in force at 1.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/354/article/1/1)
 
-[^key-f003de564bbcab2f3e051cabd2e88f83]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2011/354/article/4) revoked (31.10.2011) by [The Criminal Justice and Licensing (Scotland) Act 2010 (Commencement No. 9, Transitional and Savings Provisions) Amendment Order 2011 (S.S.I. 2011/366)](https://www.legislation.gov.uk/ssi/2011/366), [arts. 1](https://www.legislation.gov.uk/ssi/2011/366/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/366/article/2/2)
+[^c-f003de564bbcab2f3e051cabd2e88f83]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2011/354/article/4) revoked (31.10.2011) by [The Criminal Justice and Licensing (Scotland) Act 2010 (Commencement No. 9, Transitional and Savings Provisions) Amendment Order 2011 (S.S.I. 2011/366)](https://www.legislation.gov.uk/ssi/2011/366), [arts. 1](https://www.legislation.gov.uk/ssi/2011/366/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/366/article/2/2)
 
-[^key-2e737e2685cc4132213c1a5ff237e3b3]: Commencement: Art. 5 in force at 1.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/354/article/1/1)
+[^c-2e737e2685cc4132213c1a5ff237e3b3]: Commencement: Art. 5 in force at 1.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/354/article/1/1)
 
-[^key-ad34d8ad0b3944f5cea419d0e6e9f3dc]: Commencement: Sch. in force at 1.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/354/article/1/1)
+[^c-ad34d8ad0b3944f5cea419d0e6e9f3dc]: Commencement: Sch. in force at 1.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/354/article/1/1)
 
 [^f00004]: Footnote: [1989 c.45](https://www.legislation.gov.uk/ukpga/1989/45).
 
-[^key-f4533004ffee425fa15146182caddd5f]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule) entry revoked (31.10.2011) by [The Criminal Justice and Licensing (Scotland) Act 2010 (Commencement No. 9, Transitional and Savings Provisions) Amendment Order 2011 (S.S.I. 2011/366)](https://www.legislation.gov.uk/ssi/2011/366), [arts. 1](https://www.legislation.gov.uk/ssi/2011/366/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2011/366/article/2/3)
+[^c-f4533004ffee425fa15146182caddd5f]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule) entry revoked (31.10.2011) by [The Criminal Justice and Licensing (Scotland) Act 2010 (Commencement No. 9, Transitional and Savings Provisions) Amendment Order 2011 (S.S.I. 2011/366)](https://www.legislation.gov.uk/ssi/2011/366), [arts. 1](https://www.legislation.gov.uk/ssi/2011/366/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2011/366/article/2/3)

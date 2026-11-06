@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69.8. Accounts[^key-76e09c6173a9121b7a071a713ba7dc87]
+## 69.8. Accounts[^c-76e09c6173a9121b7a071a713ba7dc87]
 
 *Extent: E+W*
 
 (1) The court may order a receiver to prepare and serve accounts.
 
-- (Practice Direction 69[^key-c334d380260be6e3eeb2c85a1ffcac81] contains provisions about directions for the preparation and service of accounts.)
+- (Practice Direction 69[^c-c334d380260be6e3eeb2c85a1ffcac81] contains provisions about directions for the preparation and service of accounts.)
 
 (2) A party served with such accounts may apply for an order permitting him to inspect any document in the possession of the receiver relevant to those accounts.
 
@@ -43,12 +43,12 @@ summary: ''
 
 (6) At the conclusion of its examination of the accounts the court will certify the result.
 
-- (Practice Direction 40A[^key-014b8e71bcaffaf3c51dd6bb6e6f509d] provides for inquiries into accounts.)
+- (Practice Direction 40A[^c-014b8e71bcaffaf3c51dd6bb6e6f509d] provides for inquiries into accounts.)
 
 ## Annotations
 
-[^key-76e09c6173a9121b7a071a713ba7dc87]: Textual amendment: [Pt. 69](https://www.legislation.gov.uk/uksi/1998/3132/part/69) inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2002/2058/schedule/7)
+[^c-76e09c6173a9121b7a071a713ba7dc87]: Textual amendment: [Pt. 69](https://www.legislation.gov.uk/uksi/1998/3132/part/69) inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2002/2058/schedule/7)
 
-[^key-c334d380260be6e3eeb2c85a1ffcac81]: Textual amendment: Words in [rule 69.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/69.8) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [43(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/43/a)
+[^c-c334d380260be6e3eeb2c85a1ffcac81]: Textual amendment: Words in [rule 69.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/69.8) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [43(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/43/a)
 
-[^key-014b8e71bcaffaf3c51dd6bb6e6f509d]: Textual amendment: Words in [rule 69.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/69.8) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [43(b)](https://www.legislation.gov.uk/uksi/2009/3390/rule/43/b)
+[^c-014b8e71bcaffaf3c51dd6bb6e6f509d]: Textual amendment: Words in [rule 69.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/69.8) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [43(b)](https://www.legislation.gov.uk/uksi/2009/3390/rule/43/b)

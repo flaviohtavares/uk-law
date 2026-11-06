@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Smoke and carbon monoxide alarms[^key-9ff3a5eeff50649818cf9ef33ffe769c]
+## 150. Smoke and carbon monoxide alarms[^c-9ff3a5eeff50649818cf9ef33ffe769c]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ that meets the appropriate standard.
 
 ## Annotations
 
-[^key-9ff3a5eeff50649818cf9ef33ffe769c]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2013/32/section/150) in force at 11.3.2015 by [S.I. 2015/614](https://www.legislation.gov.uk/uksi/2015/614), [art. 2](https://www.legislation.gov.uk/uksi/2015/614/article/2)
+[^c-9ff3a5eeff50649818cf9ef33ffe769c]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2013/32/section/150) in force at 11.3.2015 by [S.I. 2015/614](https://www.legislation.gov.uk/uksi/2015/614), [art. 2](https://www.legislation.gov.uk/uksi/2015/614/article/2)

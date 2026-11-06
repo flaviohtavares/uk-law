@@ -22,7 +22,7 @@ summary: ''
 
 (*introduced by section 71*)
 
-### 1. Fire Services Act 1947 (c.41)[^key-45e167d228d168d88035d97b5fe1d309]
+### 1. Fire Services Act 1947 (c.41)[^c-45e167d228d168d88035d97b5fe1d309]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -33,7 +33,7 @@ In section 35(1) (interpretation) of the Rivers (Prevention of Pollution) (Scotl
 - (a) the definition of “sewerage authority” is repealed, and
 - (b) in the definition of “stream”, in paragraph (b), for “a sewerage authority” substitute “ Scottish Water ”.
 
-### 3. Flood Prevention (Scotland) Act 1961 (c.41)[^key-13c6943bd4a7cbd0456ac88ddd2f29b1]
+### 3. Flood Prevention (Scotland) Act 1961 (c.41)[^c-13c6943bd4a7cbd0456ac88ddd2f29b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -104,7 +104,7 @@ In section 46(1) (general interpretation) of the Local Government (Scotland) Act
 - (b) for “a water authority” substitute “ Scottish Water ”.
 - (c) in paragraph (a), for “paragraph (a)” substitute “ paragraphs (aa) to (ac) ”.
 
-### 7. Reservoirs Act 1975 (c.23)[^key-c8339bde5bca1d5ebb9b2ee7b8cf066e]
+### 7. Reservoirs Act 1975 (c.23)[^c-c8339bde5bca1d5ebb9b2ee7b8cf066e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -126,7 +126,7 @@ Section 11(3)(cc)(reference of public bodies and certain other persons to the Co
 
 (2) In section 27(1) (interpretation of Part I), the definition of “water authority” is repealed.
 
-(3)[^key-6fc02674f19980d069f4880cb8398d40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6fc02674f19980d069f4880cb8398d40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 12. Local Government and Planning (Scotland) Act 1982 (c.43)
 
@@ -146,9 +146,9 @@ In section 54 (playing of instruments, singing, playing radios etc.) of the Civi
 
 (1) The Roads (Scotland) Act 1984 is amended as follows.
 
-(2)[^key-9b32ba4e7ddd09904c90ee9c236fd051][^key-4e4536fae59e2c48d1c38382b43b3c92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9b32ba4e7ddd09904c90ee9c236fd051][^c-4e4536fae59e2c48d1c38382b43b3c92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-9b32ba4e7ddd09904c90ee9c236fd051][^key-4e4536fae59e2c48d1c38382b43b3c92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9b32ba4e7ddd09904c90ee9c236fd051][^c-4e4536fae59e2c48d1c38382b43b3c92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 135 (restriction of powers of sewerage authorities)—
 
@@ -178,7 +178,7 @@ In section 5(1) (interpretation) of the Water (Fluoridation) Act 1985—
 - (a) in the definition of “statutory water undertaker”, for “a water authority” substitute “ Scottish Water ”, and
 - (b) the definition of “water authority” is repealed.
 
-### 16. Bankruptcy (Scotland) Act 1985 (c.66)[^key-f2459273600defd0628fe028967f8679]
+### 16. Bankruptcy (Scotland) Act 1985 (c.66)[^c-f2459273600defd0628fe028967f8679]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -374,7 +374,7 @@ In the Local Government etc. (Scotland) Act 1994, the following provisions are r
 
 (1) The Environment Act 1995 is amended as follows.
 
-(2)[^key-7073074760163dc7f90d602f3510b6d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7073074760163dc7f90d602f3510b6d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Part II of Schedule 21 (application of certain enactments to the Crown), paragraph 6 is repealed.
 
@@ -415,20 +415,20 @@ In schedule 3(devolved public bodies) to the Ethical Standards in Public Life et
 
 ## Annotations
 
-[^key-45e167d228d168d88035d97b5fe1d309]: Textual amendment: [Sch. 7 para. 1](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/1) repealed (2.8.2005) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [s. 90](https://www.legislation.gov.uk/asp/2005/5/section/90), [sch. 4](https://www.legislation.gov.uk/asp/2005/5/schedule/4) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(k)](https://www.legislation.gov.uk/ssi/2005/392/article/2/k)
+[^c-45e167d228d168d88035d97b5fe1d309]: Textual amendment: [Sch. 7 para. 1](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/1) repealed (2.8.2005) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [s. 90](https://www.legislation.gov.uk/asp/2005/5/section/90), [sch. 4](https://www.legislation.gov.uk/asp/2005/5/schedule/4) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(k)](https://www.legislation.gov.uk/ssi/2005/392/article/2/k)
 
-[^key-13c6943bd4a7cbd0456ac88ddd2f29b1]: Textual amendment: [Sch. 7 para. 3](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/3) repealed (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [sch. 3 para. 13](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/13) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)
+[^c-13c6943bd4a7cbd0456ac88ddd2f29b1]: Textual amendment: [Sch. 7 para. 3](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/3) repealed (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [sch. 3 para. 13](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/13) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)
 
-[^key-c8339bde5bca1d5ebb9b2ee7b8cf066e]: Textual amendment: [Sch. 7 para. 7](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/7) repealed (1.4.2016) by [Reservoirs (Scotland) Act 2011 (asp 9)](https://www.legislation.gov.uk/asp/2011/9), [ss. 112(3)](https://www.legislation.gov.uk/asp/2011/9/section/112/3), [116(1)](https://www.legislation.gov.uk/asp/2011/9/section/116/1) (with [s. 110](https://www.legislation.gov.uk/asp/2011/9/section/110)); [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-c8339bde5bca1d5ebb9b2ee7b8cf066e]: Textual amendment: [Sch. 7 para. 7](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/7) repealed (1.4.2016) by [Reservoirs (Scotland) Act 2011 (asp 9)](https://www.legislation.gov.uk/asp/2011/9), [ss. 112(3)](https://www.legislation.gov.uk/asp/2011/9/section/112/3), [116(1)](https://www.legislation.gov.uk/asp/2011/9/section/116/1) (with [s. 110](https://www.legislation.gov.uk/asp/2011/9/section/110)); [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
 
-[^key-6fc02674f19980d069f4880cb8398d40]: Textual amendment: [Sch. 7 para. 11(3)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/11/3) repealed (1.7.2010) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [s. 168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1), [sch. 4 para. 9](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/9) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(h)](https://www.legislation.gov.uk/ssi/2010/230/article/2/h)
+[^c-6fc02674f19980d069f4880cb8398d40]: Textual amendment: [Sch. 7 para. 11(3)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/11/3) repealed (1.7.2010) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [s. 168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1), [sch. 4 para. 9](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/9) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(h)](https://www.legislation.gov.uk/ssi/2010/230/article/2/h)
 
-[^key-9b32ba4e7ddd09904c90ee9c236fd051]: Textual amendment: [Sch. 7 para. 14(2)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/14/2)[(3)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/14/3) repealed (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-9b32ba4e7ddd09904c90ee9c236fd051]: Textual amendment: [Sch. 7 para. 14(2)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/14/2)[(3)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/14/3) repealed (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-4e4536fae59e2c48d1c38382b43b3c92]: Modification: Sch. 7 para. 14(2)(3) savings for effects of 2007 asp 8 sch. 3 (28.12.2007) by [The Transport and Works (Scotland) Act 2007 (Consequential and Transitional Provisions) Order 2007 (S.S.I. 2007/517)](https://www.legislation.gov.uk/ssi/2007/517), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/517/article/1/1), [4(2)-(4)](https://www.legislation.gov.uk/ssi/2007/517/article/4/2)
+[^c-4e4536fae59e2c48d1c38382b43b3c92]: Modification: Sch. 7 para. 14(2)(3) savings for effects of 2007 asp 8 sch. 3 (28.12.2007) by [The Transport and Works (Scotland) Act 2007 (Consequential and Transitional Provisions) Order 2007 (S.S.I. 2007/517)](https://www.legislation.gov.uk/ssi/2007/517), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/517/article/1/1), [4(2)-(4)](https://www.legislation.gov.uk/ssi/2007/517/article/4/2)
 
-[^key-f2459273600defd0628fe028967f8679]: Textual amendment: [Sch. 7 para. 16](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/16) repealed (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 9 Pt. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/9/part/1) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-f2459273600defd0628fe028967f8679]: Textual amendment: [Sch. 7 para. 16](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/16) repealed (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 9 Pt. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/9/part/1) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
 [^c1593273]: Commencement: Sch. 7 para. 23 wholly in force at 1.4.2002; Sch. 7 para. 23 not in force at Royal Assent, see s. 72(1) and wholly in force (1.4.2002) by [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2](https://www.legislation.gov.uk/ssi/2002/118/article/2) (subject to [art. 3](https://www.legislation.gov.uk/ssi/2002/118/article/3))
 
-[^key-7073074760163dc7f90d602f3510b6d1]: Textual amendment: [Sch. 7 para. 24(2)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/24/2) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 15](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/15); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-7073074760163dc7f90d602f3510b6d1]: Textual amendment: [Sch. 7 para. 24(2)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/24/2) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 15](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/15); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

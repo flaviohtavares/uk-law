@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Community support officers[^key-3171ae791e1a10995554fc1e7e5a30d5]
+## 21. Community support officers[^c-3171ae791e1a10995554fc1e7e5a30d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3171ae791e1a10995554fc1e7e5a30d5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2013/6/section/21) in force at 6.4.2014 by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/414/article/3/e) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/414/article/4))
+[^c-3171ae791e1a10995554fc1e7e5a30d5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2013/6/section/21) in force at 6.4.2014 by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/414/article/3/e) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/414/article/4))

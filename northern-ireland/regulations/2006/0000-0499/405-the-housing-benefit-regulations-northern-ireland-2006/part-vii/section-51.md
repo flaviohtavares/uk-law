@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Treatment of students[^key-1b579b3117dda39a81f6bc4d29628afa]
+## 51. Treatment of students[^c-1b579b3117dda39a81f6bc4d29628afa]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The provisions of Parts II, III and IV shall have effect in relation to students
 
 ## Annotations
 
-[^key-1b579b3117dda39a81f6bc4d29628afa]: Commencement: [Reg. 51](https://www.legislation.gov.uk/nisr/2006/405/regulation/51) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-1b579b3117dda39a81f6bc4d29628afa]: Commencement: [Reg. 51](https://www.legislation.gov.uk/nisr/2006/405/regulation/51) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

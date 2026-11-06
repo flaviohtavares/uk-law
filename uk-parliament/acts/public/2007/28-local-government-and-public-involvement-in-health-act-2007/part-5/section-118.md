@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Transitional provision[^key-dc25d817d4c24987f70ec2ff8c5976a9]
+## 118. Transitional provision[^c-dc25d817d4c24987f70ec2ff8c5976a9]
 
 *Extent: E+W*
 
-(1)[^key-3fb8157763afe346ff21e2e01afd043f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3fb8157763afe346ff21e2e01afd043f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-bc6b4fc63e6cb5b1414d86fdf5838cca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bc6b4fc63e6cb5b1414d86fdf5838cca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Offender Management Act 2007 (c. 21) is amended as follows.
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-dc25d817d4c24987f70ec2ff8c5976a9]: Commencement: S. 118 in force at 30.12.2007, see [s. 245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2)
+[^c-dc25d817d4c24987f70ec2ff8c5976a9]: Commencement: S. 118 in force at 30.12.2007, see [s. 245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2)
 
-[^key-3fb8157763afe346ff21e2e01afd043f]: Textual amendment: S. 118(1) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 101(1)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/101/1/c), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)
+[^c-3fb8157763afe346ff21e2e01afd043f]: Textual amendment: S. 118(1) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 101(1)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/101/1/c), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)
 
-[^key-bc6b4fc63e6cb5b1414d86fdf5838cca]: Textual amendment: S. 118(2) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 101(1)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/101/1/c), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)
+[^c-bc6b4fc63e6cb5b1414d86fdf5838cca]: Textual amendment: S. 118(2) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 101(1)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/101/1/c), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)

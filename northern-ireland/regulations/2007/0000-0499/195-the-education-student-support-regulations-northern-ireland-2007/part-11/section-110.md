@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 110. Designated part-time courses[^key-2e65566c6cefa16b3b470c23c8ea057b]
+## 110. Designated part-time courses[^c-2e65566c6cefa16b3b470c23c8ea057b]
 
 *Extent: N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e65566c6cefa16b3b470c23c8ea057b]: Commencement: [Reg. 110](https://www.legislation.gov.uk/nisr/2007/195/regulation/110) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-2e65566c6cefa16b3b470c23c8ea057b]: Commencement: [Reg. 110](https://www.legislation.gov.uk/nisr/2007/195/regulation/110) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00058]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); section 65(3A) was inserted by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 27.

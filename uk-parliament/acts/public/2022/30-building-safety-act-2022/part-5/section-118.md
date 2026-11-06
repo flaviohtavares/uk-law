@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Section 117: height of buildings and number of storeys[^key-edec32be0cfbce565f4800f6c441c5f5]
+## 118. Section 117: height of buildings and number of storeys[^c-edec32be0cfbce565f4800f6c441c5f5]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edec32be0cfbce565f4800f6c441c5f5]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2022/30/section/118) in force at 28.6.2022, see [s. 170(3)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/a)
+[^c-edec32be0cfbce565f4800f6c441c5f5]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2022/30/section/118) in force at 28.6.2022, see [s. 170(3)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/a)

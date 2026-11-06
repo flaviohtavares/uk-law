@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Provision of benefit information statements to members[^key-a02adeb6e54b828198a0a5a1ea194037]
+## 130. Provision of benefit information statements to members[^c-a02adeb6e54b828198a0a5a1ea194037]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a02adeb6e54b828198a0a5a1ea194037]: Commencement: Reg. 130 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-a02adeb6e54b828198a0a5a1ea194037]: Commencement: Reg. 130 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

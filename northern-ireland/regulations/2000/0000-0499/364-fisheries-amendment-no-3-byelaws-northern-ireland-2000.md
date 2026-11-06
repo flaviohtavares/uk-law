@@ -31,7 +31,7 @@ summary: ''
 
 FISHERIES
 
-Fisheries (Amendment No. 3) Byelaws (Northern Ireland) 2000 (revoked)[^key-48c0899689550066a2454dce5e74ad39]
+Fisheries (Amendment No. 3) Byelaws (Northern Ireland) 2000 (revoked)[^c-48c0899689550066a2454dce5e74ad39]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 1st January 2001
 
-[^key-48c0899689550066a2454dce5e74ad39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48c0899689550066a2454dce5e74ad39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-48c0899689550066a2454dce5e74ad39]
+## 1. Citation and commencement[^c-48c0899689550066a2454dce5e74ad39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fisheries Byelaws (Northern Ireland) 1997[^key-48c0899689550066a2454dce5e74ad39]
+## 2. Amendment of the Fisheries Byelaws (Northern Ireland) 1997[^c-48c0899689550066a2454dce5e74ad39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. List of waters where there is no Close Season for Rainbow Trout[^key-48c0899689550066a2454dce5e74ad39]
+## 3. List of waters where there is no Close Season for Rainbow Trout[^c-48c0899689550066a2454dce5e74ad39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-48c0899689550066a2454dce5e74ad39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-48c0899689550066a2454dce5e74ad39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-48c0899689550066a2454dce5e74ad39]
+## 5. Revocation[^c-48c0899689550066a2454dce5e74ad39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-48c0899689550066a2454dce5e74ad39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48c0899689550066a2454dce5e74ad39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-48c0899689550066a2454dce5e74ad39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48c0899689550066a2454dce5e74ad39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-48c0899689550066a2454dce5e74ad39]: Textual amendment: Byelaws revoked (1.1.2004) by [Fisheries Byelaws (Northern Ireland) 2003 (S.R. 2003/525)](https://www.legislation.gov.uk/nisr/2003/525), Byelaw 3, Sch. 7
+[^c-48c0899689550066a2454dce5e74ad39]: Textual amendment: Byelaws revoked (1.1.2004) by [Fisheries Byelaws (Northern Ireland) 2003 (S.R. 2003/525)](https://www.legislation.gov.uk/nisr/2003/525), Byelaw 3, Sch. 7

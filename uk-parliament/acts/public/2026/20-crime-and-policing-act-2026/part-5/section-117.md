@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Pardons for convictions and cautions for loitering or soliciting when under 18[^key-2c98937291a0096312d285c91d231dc1]
+## 117. Pardons for convictions and cautions for loitering or soliciting when under 18[^c-2c98937291a0096312d285c91d231dc1]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c98937291a0096312d285c91d231dc1]: Commencement: S. 117 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-2c98937291a0096312d285c91d231dc1]: Commencement: S. 117 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

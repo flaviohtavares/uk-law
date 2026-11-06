@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1089. SMEs: amount of deduction[^key-4da2ae89eff9eff678907724e70c1b52]
+## 1089. SMEs: amount of deduction[^c-4da2ae89eff9eff678907724e70c1b52]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4da2ae89eff9eff678907724e70c1b52]: Textual amendment: S. 1089 omitted (with effect in accordance with Sch. 3 para. 38 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/24)
+[^c-4da2ae89eff9eff678907724e70c1b52]: Textual amendment: S. 1089 omitted (with effect in accordance with Sch. 3 para. 38 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/24)

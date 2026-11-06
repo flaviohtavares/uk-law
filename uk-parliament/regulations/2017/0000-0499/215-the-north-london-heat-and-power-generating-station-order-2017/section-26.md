@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Temporary use of land for construction of authorised development[^key-87494d1dda5439457b1a136ed2c9c0f6]
+## 26. Temporary use of land for construction of authorised development[^c-87494d1dda5439457b1a136ed2c9c0f6]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ but the undertaker is not required to replace a building removed under this arti
 
 ## Annotations
 
-[^key-87494d1dda5439457b1a136ed2c9c0f6]: Commencement: Art. 26 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-87494d1dda5439457b1a136ed2c9c0f6]: Commencement: Art. 26 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)

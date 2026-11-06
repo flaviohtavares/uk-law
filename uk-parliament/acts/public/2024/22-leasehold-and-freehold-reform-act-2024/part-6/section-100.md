@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Leasehold and estate management: redress schemes[^key-fd7fe7083f1d7a1cc2964df31596cc1f]
+## 100. Leasehold and estate management: redress schemes[^c-fd7fe7083f1d7a1cc2964df31596cc1f]
 
 *Extent: E+W*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd7fe7083f1d7a1cc2964df31596cc1f]: Commencement: S. 100 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-fd7fe7083f1d7a1cc2964df31596cc1f]: Commencement: S. 100 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

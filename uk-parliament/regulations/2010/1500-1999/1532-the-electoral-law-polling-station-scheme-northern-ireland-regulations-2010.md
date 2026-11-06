@@ -46,7 +46,7 @@ Coming into force
 
 5th July 2010
 
-The Secretary of State, in exercise of the powers conferred by section 65(4) and section 127(2) of the Electoral Law Act (Northern Ireland) 1962 [^c20333501] and now vested in the Secretary of State, makes the following Regulations:[^key-55e9316b56ee6279fe1f75b39dae83c7]
+The Secretary of State, in exercise of the powers conferred by section 65(4) and section 127(2) of the Electoral Law Act (Northern Ireland) 1962 [^c20333501] and now vested in the Secretary of State, makes the following Regulations:[^c-55e9316b56ee6279fe1f75b39dae83c7]
 
 ## 1. Citation and commencement
 
@@ -124,9 +124,9 @@ When preparing a polling station scheme under sections 15 and 65 of the 1962 Act
 (4) If, during any consultation period—
 
 - (a) notice of a local general election is published in accordance with paragraph (2) of rule 1 of the local elections rules [^c20333521];
-- (b) notice of an election to the Assembly is published in accordance with rule 1 of the parliamentary elections rules as applied to the Assembly by the Northern Ireland Assembly (Elections) Order 2001 [^c20333531]; or[^key-c778c67182dceb47db92507ebab4a567]
-- (c) notice of a parliamentary election (within the meaning of the Representation of the People Act 1983 [^c20333541]) is published in accordance with rule 1 of the parliamentary elections rules [^c20333551]; [^key-960215ffcadd8cacd8b4b8d5cbdcac10]...
-- (d)[^key-960215ffcadd8cacd8b4b8d5cbdcac10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) notice of an election to the Assembly is published in accordance with rule 1 of the parliamentary elections rules as applied to the Assembly by the Northern Ireland Assembly (Elections) Order 2001 [^c20333531]; or[^c-c778c67182dceb47db92507ebab4a567]
+- (c) notice of a parliamentary election (within the meaning of the Representation of the People Act 1983 [^c20333541]) is published in accordance with rule 1 of the parliamentary elections rules [^c20333551]; [^c-960215ffcadd8cacd8b4b8d5cbdcac10]...
+- (d)[^c-960215ffcadd8cacd8b4b8d5cbdcac10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 the consultation period ceases to run and resumes again the day after the day on which the declaration of the result has, or results have, been given in accordance with such of those rules as apply.
 
@@ -200,7 +200,7 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^c20333501]: Marginal citation: [1962 c. 14 (N.I.)](https://www.legislation.gov.uk/apni/1962/14); the functions of the Minister or Ministry of Home Affairs for Northern Ireland conferred by this Act were transferred to the Secretary of State by article 2 of [S.I. 1973/2163](https://www.legislation.gov.uk/uksi/1973/2163). Section 65 has been amended by [S.I. 1972/1264 (N.I. 13)](https://www.legislation.gov.uk/nisi/1972/1264); [S.I. 1972/1998 (N.I. 21)](https://www.legislation.gov.uk/nisi/1972/1998) and [S.I. 2009/3014](https://www.legislation.gov.uk/uksi/2009/3014).
 
-[^key-55e9316b56ee6279fe1f75b39dae83c7]: Modification: Regulations applied (with modifications) (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [art. 6](https://www.legislation.gov.uk/uksi/2013/3156/article/6)
+[^c-55e9316b56ee6279fe1f75b39dae83c7]: Modification: Regulations applied (with modifications) (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [art. 6](https://www.legislation.gov.uk/uksi/2013/3156/article/6)
 
 [^c20333511]: Marginal citation: [Section 65(1A)](https://www.legislation.gov.uk/uksi/2010/1532/section/65/1A) was inserted by [S.I. 1972/1264 (N.I. 13)](https://www.legislation.gov.uk/nisi/1972/1264) and amended by [S.I. 1972/1998 (N.I. 21)](https://www.legislation.gov.uk/nisi/1972/1998) and [S.I. 2009/3014](https://www.legislation.gov.uk/uksi/2009/3014).
 
@@ -208,13 +208,13 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^c20333531]: Marginal citation: [S.I. 2001/2599](https://www.legislation.gov.uk/uksi/2001/2599); [Article 3](https://www.legislation.gov.uk/uksi/2010/1532/article/3) of, and Schedule 1 to, this Order applies the parliamentary elections rules modified as appropriate to elections to the Northern Ireland Assembly. They were substituted in their entirety by Article 3 of, and Schedule 1 to, [S.I. 2009/256](https://www.legislation.gov.uk/uksi/2009/256).
 
-[^key-c778c67182dceb47db92507ebab4a567]: Textual amendment: Word in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2010/1532/regulation/7/4) inserted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/9/a) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-c778c67182dceb47db92507ebab4a567]: Textual amendment: Word in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2010/1532/regulation/7/4) inserted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/9/a) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c20333541]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2) (“**the 1983 Act**”).
 
 [^c20333551]: Marginal citation: The parliamentary elections rules are contained in Schedule 1 to the 1983 Act. Rule 1 has been amended by section 24 of, and paragraph 73 of Schedule 4 to, the [Representation of the People Act 1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50) and section 19 of the [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-960215ffcadd8cacd8b4b8d5cbdcac10]: Textual amendment: [Reg. 7(4)(d)](https://www.legislation.gov.uk/uksi/2010/1532/regulation/7/4/d) and word omitted (31.12.2020) by virtue of [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/9/b) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-960215ffcadd8cacd8b4b8d5cbdcac10]: Textual amendment: [Reg. 7(4)(d)](https://www.legislation.gov.uk/uksi/2010/1532/regulation/7/4/d) and word omitted (31.12.2020) by virtue of [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/9/b) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c20333571]: Marginal citation: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41).
 

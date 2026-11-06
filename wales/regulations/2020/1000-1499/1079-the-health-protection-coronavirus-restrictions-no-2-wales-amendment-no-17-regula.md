@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus Restrictions) (No. 2) (Wales) (Amendment) (No. 17) Regulations 2020 (revoked)[^key-c29cd9e4bf6c26954e7aaa2cfa37365c]
+The Health Protection (Coronavirus Restrictions) (No. 2) (Wales) (Amendment) (No. 17) Regulations 2020 (revoked)[^c-c29cd9e4bf6c26954e7aaa2cfa37365c]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 3 October 2020
 
-[^key-c29cd9e4bf6c26954e7aaa2cfa37365c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c29cd9e4bf6c26954e7aaa2cfa37365c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and coming into force[^key-c29cd9e4bf6c26954e7aaa2cfa37365c]
+## 1. Title and coming into force[^c-c29cd9e4bf6c26954e7aaa2cfa37365c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus Restrictions) (No. 2) (Wales) Regulations 2020[^key-c29cd9e4bf6c26954e7aaa2cfa37365c]
+## 2. Amendment of the Health Protection (Coronavirus Restrictions) (No. 2) (Wales) Regulations 2020[^c-c29cd9e4bf6c26954e7aaa2cfa37365c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c29cd9e4bf6c26954e7aaa2cfa37365c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c29cd9e4bf6c26954e7aaa2cfa37365c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c29cd9e4bf6c26954e7aaa2cfa37365c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c29cd9e4bf6c26954e7aaa2cfa37365c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c29cd9e4bf6c26954e7aaa2cfa37365c]: Textual amendment: Regulations revoked (23.10.2020 at 6.00 p.m.) by [The Health Protection (Coronavirus Restrictions) (No. 3) (Wales) Regulations 2020 (S.I. 2020/1149)](https://www.legislation.gov.uk/wsi/2020/1149), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/1), [34(1)(r)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/34/1/r) (with [regs. 2](https://www.legislation.gov.uk/wsi/2020/1149/regulation/2), [34(2)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/34/2))
+[^c-c29cd9e4bf6c26954e7aaa2cfa37365c]: Textual amendment: Regulations revoked (23.10.2020 at 6.00 p.m.) by [The Health Protection (Coronavirus Restrictions) (No. 3) (Wales) Regulations 2020 (S.I. 2020/1149)](https://www.legislation.gov.uk/wsi/2020/1149), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/1), [34(1)(r)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/34/1/r) (with [regs. 2](https://www.legislation.gov.uk/wsi/2020/1149/regulation/2), [34(2)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/34/2))

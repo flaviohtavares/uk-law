@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — Institutions to whom regulations 23(4A) and 145(2)(c) of the Education (Student Support) Regulations 2011 apply[^key-e817ebc1fd5dda1507f8e0cefac2bad9]
+## SCHEDULE 5 — Institutions to whom regulations 23(4A) and 145(2)(c) of the Education (Student Support) Regulations 2011 apply[^c-e817ebc1fd5dda1507f8e0cefac2bad9]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Regulations 23 and 145
 
 ## Annotations
 
-[^key-e817ebc1fd5dda1507f8e0cefac2bad9]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2011/1986/schedule/5) omitted (with application in accordance with reg. 1(2)(5) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) Regulations 2019 (S.I. 2019/142)](https://www.legislation.gov.uk/uksi/2019/142), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/142/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2019/142/regulation/34)
+[^c-e817ebc1fd5dda1507f8e0cefac2bad9]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2011/1986/schedule/5) omitted (with application in accordance with reg. 1(2)(5) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) Regulations 2019 (S.I. 2019/142)](https://www.legislation.gov.uk/uksi/2019/142), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/142/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2019/142/regulation/34)

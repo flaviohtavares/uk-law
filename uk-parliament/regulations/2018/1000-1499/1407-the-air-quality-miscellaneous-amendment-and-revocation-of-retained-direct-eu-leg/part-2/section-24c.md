@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24C. Decision (EU) 2019/1713 establishing the format of information to be made available by the Member States for the purposes of reporting on the implementation of Directive (EU) 2015/2193 of the European Parliament and of the Council[^M_I_f8c56c10-f808-447d-eab4-3da4d3448f7b][^key-fad4a0f1f934fd08ca70ebcde83f280e]
+## 24C. Decision (EU) 2019/1713 establishing the format of information to be made available by the Member States for the purposes of reporting on the implementation of Directive (EU) 2015/2193 of the European Parliament and of the Council[^M_I_f8c56c10-f808-447d-eab4-3da4d3448f7b][^c-fad4a0f1f934fd08ca70ebcde83f280e]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 [^M_I_f8c56c10-f808-447d-eab4-3da4d3448f7b]: Commencement: Reg. 24C in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-fad4a0f1f934fd08ca70ebcde83f280e]: Textual amendment: Regs. 24B-24E inserted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3)
+[^c-fad4a0f1f934fd08ca70ebcde83f280e]: Textual amendment: Regs. 24B-24E inserted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3)

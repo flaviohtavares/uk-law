@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Reference to the appropriate agency of agreements relating to special category effluent.[^c13219891][^key-5290b26517cf828f5da340c9ee6aee69]
+## 130. Reference to the appropriate agency of agreements relating to special category effluent.[^c13219891][^c-5290b26517cf828f5da340c9ee6aee69]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) It shall be the duty of a sewerage undertaker, on making a reference under this section, to serve a copy of the reference on the owner or the occupier of the trade premises in question, according to whether it is the owner or occupier who is proposing to be a party to the agreement.
 
-(7)[^c13219921] If a sewerage undertaker fails, before giving any consent or entering into any agreement with respect to any such operations as are mentioned in paragraph (a) of subsection (1) above, to refer to the appropriate agency any question which he is required by that subsection to refer to the appropriate agency[^key-881b617ec2cdb03c76497c84cc91a42c], the undertaker shall be guilty of an offence and liable—
+(7)[^c13219921] If a sewerage undertaker fails, before giving any consent or entering into any agreement with respect to any such operations as are mentioned in paragraph (a) of subsection (1) above, to refer to the appropriate agency any question which he is required by that subsection to refer to the appropriate agency[^c-881b617ec2cdb03c76497c84cc91a42c], the undertaker shall be guilty of an offence and liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
@@ -49,8 +49,8 @@ the appropriate agency may proceed as if the reference required by that subsecti
 
 [^c13219891]: Textual amendment: Words in s. 130(1)(2) and sidenote substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 108(1)(2)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/108/1/2) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-5290b26517cf828f5da340c9ee6aee69]: Textual amendment: Words in s. 130 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 242(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/242/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5290b26517cf828f5da340c9ee6aee69]: Textual amendment: Words in s. 130 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 242(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/242/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c13219921]: Textual amendment: S. 130(7)-(9) substituted (1.4.1996) for s. 130(5)(6) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 108(1)(3)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/108/1/3) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-881b617ec2cdb03c76497c84cc91a42c]: Textual amendment: Words in s. 130 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 242(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/242/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-881b617ec2cdb03c76497c84cc91a42c]: Textual amendment: Words in s. 130 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 242(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/242/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

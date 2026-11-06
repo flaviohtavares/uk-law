@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164A. Complaints by data subjects to controllers[^key-6e07ab4cb80ed81cfca1cbdc5f2f54bb]
+## 164A. Complaints by data subjects to controllers[^c-6e07ab4cb80ed81cfca1cbdc5f2f54bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e07ab4cb80ed81cfca1cbdc5f2f54bb]: Textual amendment: Ss. 164A, 164B inserted (19.6.2025 for specified purposes, 19.6.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 103(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/103/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/82/regulation/3/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/82/regulation/7))
+[^c-6e07ab4cb80ed81cfca1cbdc5f2f54bb]: Textual amendment: Ss. 164A, 164B inserted (19.6.2025 for specified purposes, 19.6.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 103(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/103/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/82/regulation/3/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/82/regulation/7))

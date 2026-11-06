@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Removal of restrictions on membership of urban development corporations and new town development corporations[^key-63db404f73ff187cf80e358abc8bd67f][^key-b5b00068966084fe7c541caf936a3ded]
+## 178. Removal of restrictions on membership of urban development corporations and new town development corporations[^c-63db404f73ff187cf80e358abc8bd67f][^c-b5b00068966084fe7c541caf936a3ded]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-63db404f73ff187cf80e358abc8bd67f]: Commencement: S. 178 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-63db404f73ff187cf80e358abc8bd67f]: Commencement: S. 178 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-b5b00068966084fe7c541caf936a3ded]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2023/55/section/178) in force at 14.4.2026 by [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/e)
+[^c-b5b00068966084fe7c541caf936a3ded]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2023/55/section/178) in force at 14.4.2026 by [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/e)

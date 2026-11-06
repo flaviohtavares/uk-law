@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Modification of section 6C PPERA 2000[^key-e517a18ac62878eab157e54c2bf89b27]
+## 150. Modification of section 6C PPERA 2000[^c-e517a18ac62878eab157e54c2bf89b27]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 6C of PPERA 2000 (accredited observers: individuals) is to apply for the
 
 ## Annotations
 
-[^key-e517a18ac62878eab157e54c2bf89b27]: Commencement: Reg. 150 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-e517a18ac62878eab157e54c2bf89b27]: Commencement: Reg. 150 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

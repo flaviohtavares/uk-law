@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Notice and consultation requirements[^key-1eb1a29b769ec3c2679d652d72b6a3ce]
+## 20. Notice and consultation requirements[^c-1eb1a29b769ec3c2679d652d72b6a3ce]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1eb1a29b769ec3c2679d652d72b6a3ce]: Commencement: S. 20 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/3242/article/3))
+[^c-1eb1a29b769ec3c2679d652d72b6a3ce]: Commencement: S. 20 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/3242/article/3))

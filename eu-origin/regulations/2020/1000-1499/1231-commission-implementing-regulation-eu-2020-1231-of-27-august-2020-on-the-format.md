@@ -71,7 +71,7 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. Format and instructions for the annual report on the results of surveys
 
-1. The format and instructions for the annual reports submitted by the competent authority to the UK National Plant Protection Organisation[^key-c55360741094338b6c139a5245c3efab] concerning the results of the surveys of pests provided for in Articles 22 and 24 of Regulation (EU) 2016/2031, are set out in Annex I to this Regulation.
+1. The format and instructions for the annual reports submitted by the competent authority to the UK National Plant Protection Organisation[^c-c55360741094338b6c139a5245c3efab] concerning the results of the surveys of pests provided for in Articles 22 and 24 of Regulation (EU) 2016/2031, are set out in Annex I to this Regulation.
 
 2. In accordance with the format and instructions referred to in paragraph 1, the annual reports on the results of the surveys shall contain the following parts:
 
@@ -92,7 +92,7 @@ HAS ADOPTED THIS REGULATION:
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-1914c376aff891fd5c19e045869bfab3]...
+[^c-1914c376aff891fd5c19e045869bfab3]...
 
 Done at Brussels, 27 August 2020.
 
@@ -110,7 +110,7 @@ The template on general information on the results of the surveys as provided fo
 
 > General information on the results of the surveys of \[year\]
 >
-> - [^key-dda17ad8d632640fce8b2fb9459f834c]...
+> - [^c-dda17ad8d632640fce8b2fb9459f834c]...
 > - Competent Authority:
 > - Contact person (name, job held within the competent authority, organisation name, telephone number and functional email account):
 > - Organisations taking part in the survey programme, including laboratories:
@@ -128,13 +128,13 @@ The templates and instructions on the presentation of the results of the surveys
 
 1\.
 
-**Elements of the annual report concerning GB[^key-d22e402dc7d6ee7803773f76e299b3fa] quarantine pests and pests subject to the measures of Articles 29 and 30 of Regulation (EU)2016/2031, in areas where those pests are not known to be present**
+**Elements of the annual report concerning GB[^c-d22e402dc7d6ee7803773f76e299b3fa] quarantine pests and pests subject to the measures of Articles 29 and 30 of Regulation (EU)2016/2031, in areas where those pests are not known to be present**
 
 1.1.
 
 Template
 
-> “Report of annual results of the surveys of \[year\] for GB[^key-080f6bc5899fc4986dcdbda1ad2f4c6e] quarantine pests and pests subject to the measures of Articles 29 and 30 of Regulation (EU) 2016/2031, in areas where those pests are not known to be present
+> “Report of annual results of the surveys of \[year\] for GB[^c-080f6bc5899fc4986dcdbda1ad2f4c6e] quarantine pests and pests subject to the measures of Articles 29 and 30 of Regulation (EU) 2016/2031, in areas where those pests are not known to be present
 >
 > <table>
 > <tbody>
@@ -156,11 +156,11 @@ Template
 > </tbody>
 > </table>
 >
-> [^key-1b5e492277d135be9991d77f8937c987]
+> [^c-1b5e492277d135be9991d77f8937c987]
 >
 > ”
 
-[^key-90a31dbb965b0cc6acfa00d91ade2b6a]1.2.
+[^c-90a31dbb965b0cc6acfa00d91ade2b6a]1.2.
 
 Instructions on how to fill in the template
 
@@ -210,13 +210,13 @@ For column 14: Include any other information you consider relevant and, when app
 
 2\.
 
-**Elements of the annual report concerning statistically based annual results of the surveys for GB[^key-30f970af09cb9d8be5c0bd84ba414711] quarantine pests, in areas where the pests are not known to be present, applicable when statistically based surveys were carried out**
+**Elements of the annual report concerning statistically based annual results of the surveys for GB[^c-30f970af09cb9d8be5c0bd84ba414711] quarantine pests, in areas where the pests are not known to be present, applicable when statistically based surveys were carried out**
 
 2.1.
 
 Template
 
-Report of statistically based annual results of the surveys for certain GB[^key-06dd91bd7648d4d65d97b1de144a40d5] quarantine pests and certain pests subject to the measures of Articles 29 and 30 of Regulation (EU) 2016/2031 of \[year\] (optional, unless specifically required by the legislation, and its use replaces the use of Template 1.1)
+Report of statistically based annual results of the surveys for certain GB[^c-06dd91bd7648d4d65d97b1de144a40d5] quarantine pests and certain pests subject to the measures of Articles 29 and 30 of Regulation (EU) 2016/2031 of \[year\] (optional, unless specifically required by the legislation, and its use replaces the use of Template 1.1)
 
 <table>
 <tbody>
@@ -323,11 +323,11 @@ Template
 
 > General information for \[years\]
 >
-> - [^key-6998b79d2ce99a550e56e48b261ca6d5]...
+> - [^c-6998b79d2ce99a550e56e48b261ca6d5]...
 > - Competent Authority:
 > - Contact person (name, job held within the competent authority, organisation name, telephone number and functional email account):
 > - Specific objective of each year of the multiannual survey programme (for more details, see point (a) in the section below, ‘Practical arrangements’):
-> - Justification in accordance with Articles 22(1) and 24(1) of Regulation (EU) 2016/2031 in case of non-inclusion of certain GB[^key-78699b6bd2453f9dc2cc4cd589aa30d8] quarantine pests, pests provisionally qualifying as GB quarantine pests or priority pests (on annual basis) in the multiannual survey programme (for more details, see point (b) in the section below, ‘Practical arrangements’):
+> - Justification in accordance with Articles 22(1) and 24(1) of Regulation (EU) 2016/2031 in case of non-inclusion of certain GB[^c-78699b6bd2453f9dc2cc4cd589aa30d8] quarantine pests, pests provisionally qualifying as GB quarantine pests or priority pests (on annual basis) in the multiannual survey programme (for more details, see point (b) in the section below, ‘Practical arrangements’):
 >
 >   | **Pest** | **Justification for non-inclusion in the multiannual survey programme** |
 >   | --- | --- |
@@ -337,7 +337,7 @@ Template
 >   |  |  |
 >   |  |  |
 > - Methods of recording and reporting the information collected (for more details, see point (c) in the section below, ‘Practical arrangements’):
-> - Summary provided by the Competent Authority[^key-d300a6a248d0f4d8edd77aa4224092f5] available for the general public (for publication on the gov.uk website[^key-4c3e14aceee4017597d03da15500d047], between 350- 2000 words) (for more details, see point (d) in the section below, ‘Practical arrangements’):
+> - Summary provided by the Competent Authority[^c-d300a6a248d0f4d8edd77aa4224092f5] available for the general public (for publication on the gov.uk website[^c-4c3e14aceee4017597d03da15500d047], between 350- 2000 words) (for more details, see point (d) in the section below, ‘Practical arrangements’):
 
 2\.
 
@@ -345,7 +345,7 @@ Practical arrangements
 
 - ((a)) Describe briefly and present reasoning for the distribution of the pests during the 5-7 years of the multiannual programme.
 - ((b)) In accordance with Articles 22(1) and 24(1) of Regulation (EU) 2016/2031, provide justifications per pest not included in the multiannual survey programme.
-- ((c)) In the information concerning the methods of recording and reporting the information collected include a brief description of the main methods used to carry out and report the surveys in the [^key-9f3bd124b88e76e6da94b59c410f226e]... territory of GB[^key-217dbec19871c824f2fb6d43e6bd1e24].
+- ((c)) In the information concerning the methods of recording and reporting the information collected include a brief description of the main methods used to carry out and report the surveys in the [^c-9f3bd124b88e76e6da94b59c410f226e]... territory of GB[^c-217dbec19871c824f2fb6d43e6bd1e24].
 - ((d)) In the summary provided for the general public include the following:
   - *a short description and scope of the multiannual survey programme;*
   - *a short description of the methodology to be used for surveys, including any new or innovative technology (if relevant);*
@@ -362,7 +362,7 @@ Practical arrangements
 
 Template
 
-> Multiannual survey programme for \[years\] concerning GB[^key-a9fef05ab60b493cb9ba7978d5f0009d] quarantine pests and pests subject to measures pursuant to Articles 29 and 30 of Regulation (EU) 2016/2031 in areas where the pests are not known to be present
+> Multiannual survey programme for \[years\] concerning GB[^c-a9fef05ab60b493cb9ba7978d5f0009d] quarantine pests and pests subject to measures pursuant to Articles 29 and 30 of Regulation (EU) 2016/2031 in areas where the pests are not known to be present
 >
 > <table>
 > <tbody>
@@ -390,7 +390,7 @@ Template
 > </tbody>
 > </table>
 >
-> [^key-eb86110e281c55a3cef2c9f319fb25a6]
+> [^c-eb86110e281c55a3cef2c9f319fb25a6]
 
 1.2.
 
@@ -438,7 +438,7 @@ The multiannual survey programme shall summarise and justify the survey, includi
 
 Template
 
-> Statistically based survey programme of \[years\] for GB[^key-6aa2654c0a436996aff9cc60c0ff88fa] quarantine pests and pests subject to measures pursuant to Articles 29 and 30 of Regulation (EU) 2016/2031, in areas where the pests are not known to be present
+> Statistically based survey programme of \[years\] for GB[^c-6aa2654c0a436996aff9cc60c0ff88fa] quarantine pests and pests subject to measures pursuant to Articles 29 and 30 of Regulation (EU) 2016/2031, in areas where the pests are not known to be present
 >
 > <table>
 > <tbody>
@@ -511,42 +511,42 @@ For column 21: Indicate the design prevalence based on a pre-survey estimate of 
 
 [^f00001]: Footnote: [OJ L 317, 23.11.2016, p. 4](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.317.01.0004.01.ENG).
 
-[^key-c55360741094338b6c139a5245c3efab]: Textual amendment: Words in Art. 1(1) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/2)
+[^c-c55360741094338b6c139a5245c3efab]: Textual amendment: Words in Art. 1(1) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/2)
 
-[^key-1914c376aff891fd5c19e045869bfab3]: Textual amendment: Words in Signature omitted (E.W.S.) (20.4.2021) by virtue of [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/3)
+[^c-1914c376aff891fd5c19e045869bfab3]: Textual amendment: Words in Signature omitted (E.W.S.) (20.4.2021) by virtue of [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/3)
 
-[^key-dda17ad8d632640fce8b2fb9459f834c]: Textual amendment: Words in Annex 1 Pt. 1 omitted (E.W.S.) (20.4.2021) by virtue of [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/4/a)
+[^c-dda17ad8d632640fce8b2fb9459f834c]: Textual amendment: Words in Annex 1 Pt. 1 omitted (E.W.S.) (20.4.2021) by virtue of [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/4/a)
 
-[^key-d22e402dc7d6ee7803773f76e299b3fa]: Textual amendment: Word in Annex 1 Pt. 2 para. 1 heading substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(4)(b)(i)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/4/b/i)
+[^c-d22e402dc7d6ee7803773f76e299b3fa]: Textual amendment: Word in Annex 1 Pt. 2 para. 1 heading substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(4)(b)(i)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/4/b/i)
 
-[^key-080f6bc5899fc4986dcdbda1ad2f4c6e]: Textual amendment: Word in Annex 1 Pt. 2 para. 1.1 substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(4)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/4/b/ii/aa)
+[^c-080f6bc5899fc4986dcdbda1ad2f4c6e]: Textual amendment: Word in Annex 1 Pt. 2 para. 1.1 substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(4)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/4/b/ii/aa)
 
-[^key-1b5e492277d135be9991d77f8937c987]: Textual amendment: Words in Annex 1 Pt. 2 para. 1.1 inserted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(4)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/4/b/ii/bb)
+[^c-1b5e492277d135be9991d77f8937c987]: Textual amendment: Words in Annex 1 Pt. 2 para. 1.1 inserted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(4)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/4/b/ii/bb)
 
-[^key-90a31dbb965b0cc6acfa00d91ade2b6a]: Textual amendment: Words in Annex 1 Pt. 2 para. 1.2 substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/4/b/iii)
+[^c-90a31dbb965b0cc6acfa00d91ade2b6a]: Textual amendment: Words in Annex 1 Pt. 2 para. 1.2 substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/4/b/iii)
 
-[^key-30f970af09cb9d8be5c0bd84ba414711]: Textual amendment: Word in Annex 1 Pt. 2 para. 2 heading substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(4)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/4/b/iv)
+[^c-30f970af09cb9d8be5c0bd84ba414711]: Textual amendment: Word in Annex 1 Pt. 2 para. 2 heading substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(4)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/4/b/iv)
 
-[^key-06dd91bd7648d4d65d97b1de144a40d5]: Textual amendment: Word in Annex 1 Pt. 2 para. 2.1 substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(4)(b)(v)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/4/b/v)
+[^c-06dd91bd7648d4d65d97b1de144a40d5]: Textual amendment: Word in Annex 1 Pt. 2 para. 2.1 substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(4)(b)(v)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/4/b/v)
 
-[^key-6998b79d2ce99a550e56e48b261ca6d5]: Textual amendment: Words in Annex 2 Pt. 1 para. 1 omitted (E.W.S.) (20.4.2021) by virtue of [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/a/i/aa)
+[^c-6998b79d2ce99a550e56e48b261ca6d5]: Textual amendment: Words in Annex 2 Pt. 1 para. 1 omitted (E.W.S.) (20.4.2021) by virtue of [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/a/i/aa)
 
-[^key-78699b6bd2453f9dc2cc4cd589aa30d8]: Textual amendment: Word in Annex 2 Pt. 1 para. 1 substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/a/i/bb)
+[^c-78699b6bd2453f9dc2cc4cd589aa30d8]: Textual amendment: Word in Annex 2 Pt. 1 para. 1 substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/a/i/bb)
 
-[^key-d300a6a248d0f4d8edd77aa4224092f5]: Textual amendment: Words in Annex 2 Pt. 1 para. 1 substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(a)(i)(cc)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/a/i/cc)
+[^c-d300a6a248d0f4d8edd77aa4224092f5]: Textual amendment: Words in Annex 2 Pt. 1 para. 1 substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(a)(i)(cc)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/a/i/cc)
 
-[^key-4c3e14aceee4017597d03da15500d047]: Textual amendment: Words in Annex 2 Pt. 1 para. 1 substituted (E.W.S.) (26.11.2021) by [The Animal Health, Plant Health, Seeds and Seed Potatoes (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1229)](https://www.legislation.gov.uk/uksi/2021/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1229/regulation/1), [11](https://www.legislation.gov.uk/uksi/2021/1229/regulation/11)
+[^c-4c3e14aceee4017597d03da15500d047]: Textual amendment: Words in Annex 2 Pt. 1 para. 1 substituted (E.W.S.) (26.11.2021) by [The Animal Health, Plant Health, Seeds and Seed Potatoes (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1229)](https://www.legislation.gov.uk/uksi/2021/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1229/regulation/1), [11](https://www.legislation.gov.uk/uksi/2021/1229/regulation/11)
 
-[^key-9f3bd124b88e76e6da94b59c410f226e]: Textual amendment: Words in Annex 2 Pt. 1 para. 2(c) omitted (E.W.S.) (20.4.2021) by virtue of [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/a/ii)
+[^c-9f3bd124b88e76e6da94b59c410f226e]: Textual amendment: Words in Annex 2 Pt. 1 para. 2(c) omitted (E.W.S.) (20.4.2021) by virtue of [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/a/ii)
 
-[^key-217dbec19871c824f2fb6d43e6bd1e24]: Textual amendment: Words in Annex 2 Pt. 1 para. 2(c) inserted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/a/ii)
+[^c-217dbec19871c824f2fb6d43e6bd1e24]: Textual amendment: Words in Annex 2 Pt. 1 para. 2(c) inserted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/a/ii)
 
 [^M_F_6edfe860-1c23-4187-a543-4104c339a0d1]: Textual amendment: Word in Annex 2 Pt. 2 para. 1 heading substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(b)(i)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/b/i)
 
-[^key-a9fef05ab60b493cb9ba7978d5f0009d]: Textual amendment: Word in Annex 2 Pt. 2 para. 1.1 substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/b/ii/aa)
+[^c-a9fef05ab60b493cb9ba7978d5f0009d]: Textual amendment: Word in Annex 2 Pt. 2 para. 1.1 substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/b/ii/aa)
 
-[^key-eb86110e281c55a3cef2c9f319fb25a6]: Textual amendment: Words in Annex 2 Pt. 2 para. 1.1 inserted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/b/ii/bb)
+[^c-eb86110e281c55a3cef2c9f319fb25a6]: Textual amendment: Words in Annex 2 Pt. 2 para. 1.1 inserted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/b/ii/bb)
 
 [^M_F_31fc00db-6ec9-467f-8947-4f49252eed7b]: Textual amendment: Word in Annex 2 Pt. 2 para. 2 heading substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/b/iv)
 
-[^key-6aa2654c0a436996aff9cc60c0ff88fa]: Textual amendment: Word in Annex 2 Pt. 2 para. 2.1 substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/b/iv)
+[^c-6aa2654c0a436996aff9cc60c0ff88fa]: Textual amendment: Word in Annex 2 Pt. 2 para. 2.1 substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [5(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/426/regulation/5/5/b/iv)

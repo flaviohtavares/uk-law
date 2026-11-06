@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — ACQUISITION OF NEW RIGHTS AND IMPOSITION OF RESTRICTIVE COVENANTS ONLY[^key-f130f2f09e18e11a7a8d0dee4d5fcf96]
+## SCHEDULE 7 — ACQUISITION OF NEW RIGHTS AND IMPOSITION OF RESTRICTIVE COVENANTS ONLY[^c-f130f2f09e18e11a7a8d0dee4d5fcf96]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ Article 24
 
 ## Annotations
 
-[^key-f130f2f09e18e11a7a8d0dee4d5fcf96]: Commencement: Sch. 7 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-f130f2f09e18e11a7a8d0dee4d5fcf96]: Commencement: Sch. 7 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

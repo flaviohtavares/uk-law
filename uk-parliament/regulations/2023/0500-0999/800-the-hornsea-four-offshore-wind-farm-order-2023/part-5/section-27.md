@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Rights under or over streets[^key-01cea3a351944120c7cc0d1dc325d35b]
+## 27. Rights under or over streets[^c-01cea3a351944120c7cc0d1dc325d35b]
 
 *Extent: E+W+S*
 
@@ -31,10 +31,10 @@ summary: ''
 
 (4) Subject to paragraph (5), any person who is an owner or occupier of land appropriated under paragraph (1) without the undertaker acquiring any part of that person’s interest in the land, and who suffers loss as a result, is entitled to compensation to be determined, in case of dispute, under Part 1 (determination of questions of disputed compensation) of the 1961 Act.
 
-(5) Compensation is not payable under paragraph (4)[^key-7476717581ee402d6f0c26c81ca89acf] to any person who is an undertaker to whom section 85 (sharing cost of necessary measures) of the 1991 Act applies in respect of measures of which the allowable costs are to be borne in accordance with that section.
+(5) Compensation is not payable under paragraph (4)[^c-7476717581ee402d6f0c26c81ca89acf] to any person who is an undertaker to whom section 85 (sharing cost of necessary measures) of the 1991 Act applies in respect of measures of which the allowable costs are to be borne in accordance with that section.
 
 ## Annotations
 
-[^key-01cea3a351944120c7cc0d1dc325d35b]: Commencement: Art. 27 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-01cea3a351944120c7cc0d1dc325d35b]: Commencement: Art. 27 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-7476717581ee402d6f0c26c81ca89acf]: Textual amendment: Word in art. 27(5) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-7476717581ee402d6f0c26c81ca89acf]: Textual amendment: Word in art. 27(5) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)

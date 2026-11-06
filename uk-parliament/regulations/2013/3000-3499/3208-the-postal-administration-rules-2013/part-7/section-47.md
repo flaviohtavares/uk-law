@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Admission and rejection of proofs for dividend[^key-cc2ac35d2da86af697afa4964c53c798]
+## 47. Admission and rejection of proofs for dividend[^c-cc2ac35d2da86af697afa4964c53c798]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc2ac35d2da86af697afa4964c53c798]: Commencement: [Rule 47](https://www.legislation.gov.uk/uksi/2013/3208/rule/47) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-cc2ac35d2da86af697afa4964c53c798]: Commencement: [Rule 47](https://www.legislation.gov.uk/uksi/2013/3208/rule/47) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

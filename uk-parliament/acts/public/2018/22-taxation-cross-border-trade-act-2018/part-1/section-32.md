@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Regulations etc[^c23439551][^key-e0a919449d3883d734fb3ec68af83194]
+## 32. Regulations etc[^c23439551][^c-e0a919449d3883d734fb3ec68af83194]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,7 +56,7 @@ summary: ''
 
 (9) Any power to make regulations under any provision of this Part does not restrict the width of any power to make subordinate legislation under—
 
-- (a) any other provision of this Part or under section 40A or 40B[^key-1b1bcc42f33db24c9d8e002fadc9adcd], or
+- (a) any other provision of this Part or under section 40A or 40B[^c-1b1bcc42f33db24c9d8e002fadc9adcd], or
 - (b) CEMA 1979 or any other enactment.
 
 (10) Subsections (7) to (9) apply in relation to any public notice under this Part; and any provision that may be made by a public notice under this Part may be made by regulations.
@@ -74,8 +74,8 @@ summary: ''
 
 [^c23439551]: Commencement: S. 32 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-e0a919449d3883d734fb3ec68af83194]: Commencement: S. 32 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-e0a919449d3883d734fb3ec68af83194]: Commencement: S. 32 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^M_C_5af1a020-befd-439a-f4d9-4110212e6f58]: Modification: S. 32(7)(8) applied (with effect from 3.11.2021 in accordance with s. 74(13) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 74(1)(9)](https://www.legislation.gov.uk/ukpga/2022/3/section/74/1)
 
-[^key-1b1bcc42f33db24c9d8e002fadc9adcd]: Textual amendment: Words in s. 32(9)(a) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/3) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-1b1bcc42f33db24c9d8e002fadc9adcd]: Textual amendment: Words in s. 32(9)(a) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/3) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

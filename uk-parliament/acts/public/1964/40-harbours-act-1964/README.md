@@ -31,7 +31,7 @@ Harbours Act 1964
 
 An Act to establish a National Ports Council; to provide for the control of harbour development and for giving financial assistance for the improvement of harbours; to make other provision respecting the construction, improvement, maintenance and management of harbours; to make provision with respect to charges of certain harbour authorities and lighthouse authorities; and for purposes connected with the matters aforesaid.
 
-\[10th June 1964\][^c7736701][^c7736711][^c7736721][^c7736731][^c7736741][^key-a7c3602c895c19e1895ddd53dddc03b9][^key-f2235434d09307df66276493bf2dc974]
+\[10th June 1964\][^c7736701][^c7736711][^c7736721][^c7736731][^c7736741][^c-a7c3602c895c19e1895ddd53dddc03b9][^c-f2235434d09307df66276493bf2dc974]
 
 ## Contents
 
@@ -58,7 +58,7 @@ An Act to establish a National Ports Council; to provide for the control of harb
 - [Section 16 — Ministers’ powers, on application of intending undertakers, or others, to make orders conferring powers for improvement, construction, &c., of harbours.](section-16.md)
 - [Section 17 — Procedure for making harbour revision and empowerment orders, and substitution thereof, in general, for provisional orders.](section-17.md)
 
-### Harbour closure orders[^key-69aae47cc88a5f40904ad0440f0f8383]
+### Harbour closure orders[^c-69aae47cc88a5f40904ad0440f0f8383]
 
 - [Section 17A — Power to make closure order](section-17a.md)
 - [Section 17B — Content of closure order](section-17b.md)
@@ -99,7 +99,7 @@ An Act to establish a National Ports Council; to provide for the control of harb
 
 - [Section 40 — Conditions as to use of harbour services and facilities provided by certain harbour authorities.](section-40.md)
 
-### Harbour directions[^key-cb925097fb01faa72d9ef816dca02629]
+### Harbour directions[^c-cb925097fb01faa72d9ef816dca02629]
 
 - [Section 40A — Directions](section-40a.md)
 - [Section 40B — Procedure](section-40b.md)
@@ -111,7 +111,7 @@ An Act to establish a National Ports Council; to provide for the control of harb
 - [Section 41 — Power of Council to obtain information and forecasts.](section-41.md)
 - [Section 42 — Accounts and reports relating to harbour activities and associated activities.](section-42.md)
 
-### Delegation of certain functions[^key-531a64df4552cc166c26882af66c73d6]
+### Delegation of certain functions[^c-531a64df4552cc166c26882af66c73d6]
 
 *Extent: E+W*
 
@@ -177,12 +177,12 @@ SCHEDULES
 
 [^c7736741]: Commencement: Act partly in force at Royal Assent see s. 63(4); Act wholly in force at 1.10.1964
 
-[^key-a7c3602c895c19e1895ddd53dddc03b9]: Modification: Act: transfer of functions (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1659/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-a7c3602c895c19e1895ddd53dddc03b9]: Modification: Act: transfer of functions (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1659/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-f2235434d09307df66276493bf2dc974]: Modification: Act modified (23.3.2023 for specified purposes; 1.12.2024 in so far as not already in force) by [Seafarers Wages Act 2023 (c. 8)](https://www.legislation.gov.uk/ukpga/2023/8), [ss. 9(7)](https://www.legislation.gov.uk/ukpga/2023/8/section/9/7), [20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3) (with [s. 1(2)](https://www.legislation.gov.uk/ukpga/2023/8/section/1/2)); [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+[^c-f2235434d09307df66276493bf2dc974]: Modification: Act modified (23.3.2023 for specified purposes; 1.12.2024 in so far as not already in force) by [Seafarers Wages Act 2023 (c. 8)](https://www.legislation.gov.uk/ukpga/2023/8), [ss. 9(7)](https://www.legislation.gov.uk/ukpga/2023/8/section/9/7), [20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3) (with [s. 1(2)](https://www.legislation.gov.uk/ukpga/2023/8/section/1/2)); [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
 
-[^key-69aae47cc88a5f40904ad0440f0f8383]: Textual amendment: Ss. 17A-17F and cross-heading inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2013/23/section/6/1), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3); [S.I. 2013/2006](https://www.legislation.gov.uk/wsi/2013/2006), [art. 2](https://www.legislation.gov.uk/wsi/2013/2006/article/2)
+[^c-69aae47cc88a5f40904ad0440f0f8383]: Textual amendment: Ss. 17A-17F and cross-heading inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2013/23/section/6/1), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3); [S.I. 2013/2006](https://www.legislation.gov.uk/wsi/2013/2006), [art. 2](https://www.legislation.gov.uk/wsi/2013/2006/article/2)
 
-[^key-cb925097fb01faa72d9ef816dca02629]: Textual amendment: Ss. 40A-40D and cross-heading inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2013/23/section/5/1), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3); [S.I. 2013/2006](https://www.legislation.gov.uk/wsi/2013/2006), [art. 2](https://www.legislation.gov.uk/wsi/2013/2006/article/2)
+[^c-cb925097fb01faa72d9ef816dca02629]: Textual amendment: Ss. 40A-40D and cross-heading inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2013/23/section/5/1), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3); [S.I. 2013/2006](https://www.legislation.gov.uk/wsi/2013/2006), [art. 2](https://www.legislation.gov.uk/wsi/2013/2006/article/2)
 
-[^key-531a64df4552cc166c26882af66c73d6]: Textual amendment: Ss. 42A, 42B and cross-heading inserted (E.W.) (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d), [Sch. 21 para. 3(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/3/1); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
+[^c-531a64df4552cc166c26882af66c73d6]: Textual amendment: Ss. 42A, 42B and cross-heading inserted (E.W.) (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d), [Sch. 21 para. 3(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/3/1); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)

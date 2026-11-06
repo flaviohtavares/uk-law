@@ -19,8 +19,8 @@ summary: ''
 (1) For the purposes of the Act, a claimant shall be treated as being in Great Britain during any period of temporary absence from Great Britain—
 
 - (a) not exceeding 4 weeks in the circumstances specified in paragraphs (2), (3) and (4);
-- (b) not exceeding 8 weeks in the circumstances specified in paragraph (5) ; and[^key-66ffc71c015b9a5782e6ed90043d2887]
-- (c)[^key-2ccdde33b393f0065c7c1359cf0fc09c] not exceeding 26 weeks in the circumstances specified in paragraph (5A).
+- (b) not exceeding 8 weeks in the circumstances specified in paragraph (5) ; and[^c-66ffc71c015b9a5782e6ed90043d2887]
+- (c)[^c-2ccdde33b393f0065c7c1359cf0fc09c] not exceeding 26 weeks in the circumstances specified in paragraph (5A).
 
 (2) The circumstances specified in this paragraph are that–
 
@@ -52,7 +52,7 @@ summary: ''
   - (ii) during the period whilst the claimant is, or the claimant and any member of his family are, temporarily absent from Great Britain; and
   - (iii) by, or under the supervision of, a person appropriately qualified to carry out that treatment.
 
-(5A)[^key-13d8f81d3fb5e24233aff3a21cef1266] The circumstances specified in this paragraph are that—
+(5A)[^c-13d8f81d3fb5e24233aff3a21cef1266] The circumstances specified in this paragraph are that—
 
 - (a) the claimant was present in a country or territory outside Great Britain immediately before His Majesty’s Government—
   - (i) provided public information to advise British nationals to leave that country or territory, or
@@ -68,15 +68,15 @@ summary: ''
 - (c) notice of the proposed absence is given to the employment officer before departure, and is given in writing if so required by the officer; and
 - (d) on his return to Great Britain the person satisfies the employment officer that he attended for the interview in accordance with his notice.
 
-(6AA)[^key-e3803de8e0e4fe48d2bfcea92b1d50ac] For the purposes of the Act a claimant shall be treated as being in Great Britain during any period of temporary absence from Great Britain if—
+(6AA)[^c-e3803de8e0e4fe48d2bfcea92b1d50ac] For the purposes of the Act a claimant shall be treated as being in Great Britain during any period of temporary absence from Great Britain if—
 
 - (a) he was entitled to a jobseeker’s allowance immediately before the beginning of that period of temporary absence; and
-- (b)[^key-fb3a039670b3b62e5a6190abd42a3e20] that period of temporary absence is for the purpose of the claimant receiving treatment at a hospital or other institution outside Great Britain where the treatment is being provided—
+- (b)[^c-fb3a039670b3b62e5a6190abd42a3e20] that period of temporary absence is for the purpose of the claimant receiving treatment at a hospital or other institution outside Great Britain where the treatment is being provided—
   - (i) under section 6(2) of the Health Service Act (performance of functions outside England) or section 6(2) of the Health Service (Wales) Act (performance of functions outside Wales);
   - (ii) pursuant to arrangements made under section 12(1) of the Health Service Act (Secretary of State’s arrangements with other bodies), section 10(1) of the Health Service (Wales) Act (Welsh Minister’s arrangements with other bodies), paragraph 18 of Schedule 4 to the Health Service Act (joint exercise of functions) or paragraph 18 of Schedule 3 to the Health Service (Wales) Act (joint exercise of functions); or
   - (iii) under any equivalent provision in Scotland or pursuant to arrangements made under such provision.
 
-(6A)[^key-84b9297c854d3bda37f9aedfe2365dd3] A member of a joint-claim couple shall be treated, for the purposes of the Act, as being in Great Britain where he is a member of a transitional case couple as defined for the purposes of paragraph 8A(2) of Schedule 1 to the Act and, as at the date on which Schedule 7 to the Welfare Reform and Pensions Act 1999 comes into force—
+(6A)[^c-84b9297c854d3bda37f9aedfe2365dd3] A member of a joint-claim couple shall be treated, for the purposes of the Act, as being in Great Britain where he is a member of a transitional case couple as defined for the purposes of paragraph 8A(2) of Schedule 1 to the Act and, as at the date on which Schedule 7 to the Welfare Reform and Pensions Act 1999 comes into force—
 
 - (a) he is temporarily absent from Great Britain; or
 - (b) he has made definite arrangements to be temporarily absent from Great Britain from some future date,
@@ -91,20 +91,20 @@ and that member shall be so treated during any such period of temporary absence 
 
 where that member is so temporarily absent as at the date of claim by the other member of that couple.
 
-(6C)[^key-ff500e3ce762793a62ca6847060d09c2] For the purposes of the Act a member of a joint-claim couple (“the first member”) shall be treated as being in Great Britain during any period of temporary absence if—
+(6C)[^c-ff500e3ce762793a62ca6847060d09c2] For the purposes of the Act a member of a joint-claim couple (“the first member”) shall be treated as being in Great Britain during any period of temporary absence if—
 
 - (a) he and the other member of that couple were entitled to a joint-claim jobseeker’s allowance immediately before the beginning of that period of temporary absence; and
-- (b)[^key-7ffb9dd8daafcba0050e1aa0d4d12c69] that period of temporary absence is for the purpose of the claimant receiving treatment at a hospital or other institution outside Great Britain where the treatment is being provided—
+- (b)[^c-7ffb9dd8daafcba0050e1aa0d4d12c69] that period of temporary absence is for the purpose of the claimant receiving treatment at a hospital or other institution outside Great Britain where the treatment is being provided—
   - (i) under section 6(2) of the Health Service Act (performance of functions outside England) or section 6(2) of the Health Service (Wales) Act (performance of functions outside Wales);
   - (ii) pursuant to arrangements made under section 12(1) of the Health Service Act (Secretary of State’s arrangements with other bodies), section 10(1) of the Health Service (Wales) Act (Welsh Minister’s arrangements with other bodies), paragraph 18 of Schedule 4 to the Health Service Act (joint exercise of functions) or paragraph 18 of Schedule 3 to the Health Service (Wales) Act (joint exercise of functions); or
   - (iii) under any equivalent provision in Scotland or pursuant to arrangements made under such provision.
 
-(6D)[^key-31c6758cf4a6d688af96defd31bbf6c1] For the purposes of the Act, a person (“P”) shall be treated as being in Great Britain during any period of temporary absence from Great Britain not exceeding 15 days where—
+(6D)[^c-31c6758cf4a6d688af96defd31bbf6c1] For the purposes of the Act, a person (“P”) shall be treated as being in Great Britain during any period of temporary absence from Great Britain not exceeding 15 days where—
 
-- (a) P’s absence is for the purpose of taking part in annual continuous training as a member of any [^key-84cb39cab66652f6cb6ed8b7a447ed33]... reserve force prescribed in Part 1 of Schedule 6 to the Contributions Regulations; and
+- (a) P’s absence is for the purpose of taking part in annual continuous training as a member of any [^c-84cb39cab66652f6cb6ed8b7a447ed33]... reserve force prescribed in Part 1 of Schedule 6 to the Contributions Regulations; and
 - (b) P or P’s partner was entitled to a jobseeker’s allowance immediately before the period of absence began.
 
-(6E)[^key-934bf8fee62c9e8e36c1a6bde3905936] Where a person is temporarily absent from Great Britain, except where the circumstances in paragraphs (6AA), (6A) or (6C) apply, the total period of absence where the person is treated as present in Great Britain will not exceed 26 weeks.
+(6E)[^c-934bf8fee62c9e8e36c1a6bde3905936] Where a person is temporarily absent from Great Britain, except where the circumstances in paragraphs (6AA), (6A) or (6C) apply, the total period of absence where the person is treated as present in Great Britain will not exceed 26 weeks.
 
 (7) In this regulation–
 
@@ -114,24 +114,24 @@ where that member is so temporarily absent as at the date of claim by the other 
 
 ## Annotations
 
-[^key-66ffc71c015b9a5782e6ed90043d2887]: Textual amendment: Word in [reg. 50(1)(b)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/1/b) substituted for full stop (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2025/884/regulation/5/2/a)
+[^c-66ffc71c015b9a5782e6ed90043d2887]: Textual amendment: Word in [reg. 50(1)(b)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/1/b) substituted for full stop (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2025/884/regulation/5/2/a)
 
-[^key-2ccdde33b393f0065c7c1359cf0fc09c]: Textual amendment: [Reg. 50(1)(c)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/1/c) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2025/884/regulation/5/2/b)
+[^c-2ccdde33b393f0065c7c1359cf0fc09c]: Textual amendment: [Reg. 50(1)(c)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/1/c) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2025/884/regulation/5/2/b)
 
-[^key-13d8f81d3fb5e24233aff3a21cef1266]: Textual amendment: [Reg. 50(5A)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/5A) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2025/884/regulation/5/2/c)
+[^c-13d8f81d3fb5e24233aff3a21cef1266]: Textual amendment: [Reg. 50(5A)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/5A) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2025/884/regulation/5/2/c)
 
-[^key-e3803de8e0e4fe48d2bfcea92b1d50ac]: Textual amendment: [Reg. 50(6AA)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/6AA) inserted (4.10.2004) by [The Social Security (Income Support and Jobseeker’s Allowance) Amendment Regulations 2004 (S.I. 2004/1869)](https://www.legislation.gov.uk/uksi/2004/1869), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1869/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2004/1869/regulation/3/4/a)
+[^c-e3803de8e0e4fe48d2bfcea92b1d50ac]: Textual amendment: [Reg. 50(6AA)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/6AA) inserted (4.10.2004) by [The Social Security (Income Support and Jobseeker’s Allowance) Amendment Regulations 2004 (S.I. 2004/1869)](https://www.legislation.gov.uk/uksi/2004/1869), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1869/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2004/1869/regulation/3/4/a)
 
-[^key-fb3a039670b3b62e5a6190abd42a3e20]: Textual amendment: [Reg. 50(6AA)(b)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/6AA/b) substituted (17.11.2008) by [The Social Security (Miscellaneous Amendments) (No.6) Regulations 2008 (S.I. 2008/2767)](https://www.legislation.gov.uk/uksi/2008/2767), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/4/3)
+[^c-fb3a039670b3b62e5a6190abd42a3e20]: Textual amendment: [Reg. 50(6AA)(b)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/6AA/b) substituted (17.11.2008) by [The Social Security (Miscellaneous Amendments) (No.6) Regulations 2008 (S.I. 2008/2767)](https://www.legislation.gov.uk/uksi/2008/2767), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/4/3)
 
-[^key-84b9297c854d3bda37f9aedfe2365dd3]: Textual amendment: Reg. 50(6A)(6B) inserted (19.3.2001) by The Jobseeker’s [Allowance (Joint Claims) Regulations 2000 (S.I. 2000/1978)](https://www.legislation.gov.uk/uksi/2000/1978), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/1978/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2000/1978/schedule/2/paragraph/13)
+[^c-84b9297c854d3bda37f9aedfe2365dd3]: Textual amendment: Reg. 50(6A)(6B) inserted (19.3.2001) by The Jobseeker’s [Allowance (Joint Claims) Regulations 2000 (S.I. 2000/1978)](https://www.legislation.gov.uk/uksi/2000/1978), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/1978/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2000/1978/schedule/2/paragraph/13)
 
-[^key-ff500e3ce762793a62ca6847060d09c2]: Textual amendment: [Reg. 50(6C)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/6C) inserted (4.10.2004) by [The Social Security (Income Support and Jobseeker’s Allowance) Amendment Regulations 2004 (S.I. 2004/1869)](https://www.legislation.gov.uk/uksi/2004/1869), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1869/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2004/1869/regulation/3/4/b)
+[^c-ff500e3ce762793a62ca6847060d09c2]: Textual amendment: [Reg. 50(6C)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/6C) inserted (4.10.2004) by [The Social Security (Income Support and Jobseeker’s Allowance) Amendment Regulations 2004 (S.I. 2004/1869)](https://www.legislation.gov.uk/uksi/2004/1869), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1869/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2004/1869/regulation/3/4/b)
 
-[^key-7ffb9dd8daafcba0050e1aa0d4d12c69]: Textual amendment: [Reg. 50(6C)(b)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/6C/b) substituted (17.11.2008) by [The Social Security (Miscellaneous Amendments) (No.6) Regulations 2008 (S.I. 2008/2767)](https://www.legislation.gov.uk/uksi/2008/2767), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/4/3)
+[^c-7ffb9dd8daafcba0050e1aa0d4d12c69]: Textual amendment: [Reg. 50(6C)(b)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/6C/b) substituted (17.11.2008) by [The Social Security (Miscellaneous Amendments) (No.6) Regulations 2008 (S.I. 2008/2767)](https://www.legislation.gov.uk/uksi/2008/2767), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/4/3)
 
-[^key-31c6758cf4a6d688af96defd31bbf6c1]: Textual amendment: [Reg. 50(6D)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/6D) inserted (5.11.2012) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/2575)](https://www.legislation.gov.uk/uksi/2012/2575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2575/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2012/2575/regulation/3/2)
+[^c-31c6758cf4a6d688af96defd31bbf6c1]: Textual amendment: [Reg. 50(6D)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/6D) inserted (5.11.2012) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/2575)](https://www.legislation.gov.uk/uksi/2012/2575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2575/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2012/2575/regulation/3/2)
 
-[^key-84cb39cab66652f6cb6ed8b7a447ed33]: Textual amendment: Words in [reg. 50(6D)(a)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/6D/a) omitted (6.4.2015) by virtue of [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2015/389/regulation/3/7/b)
+[^c-84cb39cab66652f6cb6ed8b7a447ed33]: Textual amendment: Words in [reg. 50(6D)(a)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/6D/a) omitted (6.4.2015) by virtue of [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2015/389/regulation/3/7/b)
 
-[^key-934bf8fee62c9e8e36c1a6bde3905936]: Textual amendment: [Reg. 50(6E)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/6E) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2025/884/regulation/5/2/d)
+[^c-934bf8fee62c9e8e36c1a6bde3905936]: Textual amendment: [Reg. 50(6E)](https://www.legislation.gov.uk/uksi/1996/207/regulation/50/6E) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2025/884/regulation/5/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Complaints[^key-4c97b28b3f070e428eeb27c5f47c9be7][^key-7e4cb14a15ad39937cc5f5640c5cacb1]
+## 32. Complaints[^c-4c97b28b3f070e428eeb27c5f47c9be7][^c-7e4cb14a15ad39937cc5f5640c5cacb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c97b28b3f070e428eeb27c5f47c9be7]: Commencement: S. 32 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-4c97b28b3f070e428eeb27c5f47c9be7]: Commencement: S. 32 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-7e4cb14a15ad39937cc5f5640c5cacb1]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2021/30/section/32) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)
+[^c-7e4cb14a15ad39937cc5f5640c5cacb1]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2021/30/section/32) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)

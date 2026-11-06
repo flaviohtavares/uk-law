@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 (Extent: E) (affected by repeal, see note) — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS (Extent: E) (affected by repeal, see note)[^key-5d3370130d2b801f48d6030c924229ab][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]
+## SCHEDULE 1 (Extent: E) (affected by repeal, see note) — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS (Extent: E) (affected by repeal, see note)[^c-5d3370130d2b801f48d6030c924229ab][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5d3370130d2b801f48d6030c924229ab]: Commencement: Sch. 1 in force at 1.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/664/regulation/1)
+[^c-5d3370130d2b801f48d6030c924229ab]: Commencement: Sch. 1 in force at 1.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/664/regulation/1)
 
 [^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]: Textual amendment: Regulations revoked (E.) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/1/1/a)
 

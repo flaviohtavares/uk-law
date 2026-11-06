@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Investigation of crimes and deaths[^key-3b05875ae83915b018a5c3f9319bcad2]
+## 4. Investigation of crimes and deaths[^c-3b05875ae83915b018a5c3f9319bcad2]
 
 *Extent: S*
 
@@ -30,10 +30,10 @@ For the purposes of section 33A(b) of the 2006 Act, a person serving with the po
 - (f) a general customs official and any other person exercising general customs functions under the authority of the Secretary of State or the Director of Border Revenue, but only when acting in the exercise of enforcement functions;
 - (g) a customs revenue official and any other person exercising customs revenue functions under the authority of the Director of Border Revenue, but only when acting in the exercise of enforcement functions;
 - (h) an immigration officer and an official of the Secretary of State exercising functions relating to asylum and immigration, but only when acting in the exercise of enforcement functions;
-- (i)[^key-3f2f0d568d607dda0613e57e3ef49f3e] an ICRIR officer (which has the same meaning as in the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023).
+- (i)[^c-3f2f0d568d607dda0613e57e3ef49f3e] an ICRIR officer (which has the same meaning as in the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023).
 
 ## Annotations
 
-[^key-3b05875ae83915b018a5c3f9319bcad2]: Commencement: Art. 4 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-3b05875ae83915b018a5c3f9319bcad2]: Commencement: Art. 4 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
-[^key-3f2f0d568d607dda0613e57e3ef49f3e]: Textual amendment: [Art. 4(i)](https://www.legislation.gov.uk/uksi/2013/602/article/4/i) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 13 para. 8(3)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/8/3) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/bb) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-3f2f0d568d607dda0613e57e3ef49f3e]: Textual amendment: [Art. 4(i)](https://www.legislation.gov.uk/uksi/2013/602/article/4/i) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 13 para. 8(3)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/8/3) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/bb) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

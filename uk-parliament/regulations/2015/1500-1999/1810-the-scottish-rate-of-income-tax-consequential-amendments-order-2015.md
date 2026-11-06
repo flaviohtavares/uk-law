@@ -42,17 +42,17 @@ A draft of this Order was laid before and approved by the House of Commons in ac
 
 The Treasury, in exercise of the powers conferred by section 80G(1A) and (2) of the Scotland Act 1998[^f00002], makes the following Order:
 
-## 1. Citation, commencement and effect[^key-ed9ed93bd49f8feae0fac897d1340176]
+## 1. Citation, commencement and effect[^c-ed9ed93bd49f8feae0fac897d1340176]
 
 (1) This Order may be cited as the Scottish Rate of Income Tax (Consequential Amendments) Order 2015 and comes into force on the day after the day on which it is made.
 
 (2) The amendments made by this Order have effect in relation to the tax year appointed by the Treasury under section 25(5) of the Scotland Act 2012 and subsequent tax years.
 
-## 2. Registered pension schemes: relief at source[^key-133c9eab24757876c42d7672c28fdab5]
+## 2. Registered pension schemes: relief at source[^c-133c9eab24757876c42d7672c28fdab5]
 
 The Finance Act 2004[^f00003] is amended as follows.
 
-## 3.[^key-de8de086adefbe35f0431f960900abf5]
+## 3.[^c-de8de086adefbe35f0431f960900abf5]
 
 (1) Section 192[^f00004] (relief at source) is amended as follows.
 
@@ -75,7 +75,7 @@ The Finance Act 2004[^f00003] is amended as follows.
 
 .
 
-## 4.[^key-dd0b58b849547d15fb407d3443b4deb2]
+## 4.[^c-dd0b58b849547d15fb407d3443b4deb2]
 
 After section 192 insert—
 
@@ -125,7 +125,7 @@ After section 192 insert—
 
 .
 
-## 5.[^key-3ec03a822b597e4adc5c3ffbe70f2760]
+## 5.[^c-3ec03a822b597e4adc5c3ffbe70f2760]
 
 (1) The Income Tax Act 2007[^f00006]is amended as follows.
 
@@ -133,11 +133,11 @@ After section 192 insert—
 
 (3) In section 30[^f00008] (additional tax), in subsection (1), after “Chapter 8 of Part 10 of ITEPA2003[^f00009] (high income child benefit charge),” insert “section 192B of FA 2004 (relief at source: excessive relief given),”.
 
-## 6.[^key-8c6e4a89d701b044376f4fa6e6017626]
+## 6.[^c-8c6e4a89d701b044376f4fa6e6017626]
 
 In the Registered Pension Schemes (Relief at Source) Regulations 2005[^f00010], in regulation 2 (interpretation), in paragraph (2), in the definition of “net contribution”, for “the basic rate” substitute “the relevant rate”.
 
-## 7. Amendments to the Finance Act 2004[^key-36507ce7d9ee540f467589186a25eed2]
+## 7. Amendments to the Finance Act 2004[^c-36507ce7d9ee540f467589186a25eed2]
 
 (1) The Finance Act 2004 is amended as follows.
 
@@ -168,11 +168,11 @@ In the Registered Pension Schemes (Relief at Source) Regulations 2005[^f00010], 
 
 .
 
-## 8. Amendments to the Income Tax (Trading and Other Income) Act 2005[^key-10c9bdc8a05337122ebff4b814da66f1]
+## 8. Amendments to the Income Tax (Trading and Other Income) Act 2005[^c-10c9bdc8a05337122ebff4b814da66f1]
 
 The Income Tax (Trading and Other Income) Act 2005[^f00013] is amended as follows.
 
-## 9.[^key-a0fc3b6331cf98706ab58bbfd97b88c9]
+## 9.[^c-a0fc3b6331cf98706ab58bbfd97b88c9]
 
 (1) Section 539[^f00014] (relief for deficiencies) is amended as follows.
 
@@ -204,18 +204,18 @@ The Income Tax (Trading and Other Income) Act 2005[^f00013] is amended as follow
 
     .
 
-## 10.[^key-c6268c48d0309e10b6ab04043a2e689f]
+## 10.[^c-c6268c48d0309e10b6ab04043a2e689f]
 
 In section 669[^f00015] (reduction in residuary income: inheritance tax on accrued income), in subsection (3)(a)—
 
 - (a) for “or the higher rate” substitute “, the Scottish additional rate, the higher rate or the Scottish higher rate”;
 - (b) in sub-paragraph (ii) after “the basic rate” insert “or, in the case of a Scottish taxpayer, at the Scottish basic rate”.
 
-## 11.[^key-6e248767e8310aa47dd0f1d9260f6599]
+## 11.[^c-6e248767e8310aa47dd0f1d9260f6599]
 
 In section 685A[^f00016] (settlor-interested settlements), in subsection (3), after “the additional rate” insert “or, in the case of a Scottish taxpayer, at the Scottish additional rate”.
 
-## 12.[^key-60faed7c3b4f4cd27f14846d32a14508]
+## 12.[^c-60faed7c3b4f4cd27f14846d32a14508]
 
 In Schedule 4[^f00017] (abbreviations and defined expressions), in the table in Part 2, after the entry relating to “sale proceeds of an animal” insert—
 
@@ -228,7 +228,7 @@ In Schedule 4[^f00017] (abbreviations and defined expressions), in the table in 
 
 .
 
-## 13. Amendments to the Finance (No. 2) Act 2005[^key-f225e2cd1e787247ede1dc34fe4093e1]
+## 13. Amendments to the Finance (No. 2) Act 2005[^c-f225e2cd1e787247ede1dc34fe4093e1]
 
 In the Finance (No. 2) Act 2005[^f00018], in section 7 (charge to income tax on social security pension lump sum), in subsection (5)—
 
@@ -236,7 +236,7 @@ In the Finance (No. 2) Act 2005[^f00018], in section 7 (charge to income tax on 
 - (b) in paragraph (d) after “the higher rate” in the second place it occurs, insert “or, if P is a Scottish taxpayer, the Scottish higher rate”; and
 - (c) in paragraph (e) after “the additional rate”, insert “or, if P is a Scottish taxpayer, the Scottish additional rate”.
 
-## 14. Amendments to the Income Tax Act 2007[^key-b29dab199687677f6ca34c2f9931e362]
+## 14. Amendments to the Income Tax Act 2007[^c-b29dab199687677f6ca34c2f9931e362]
 
 (1) The Income Tax Act 2007 is amended as follows.
 
@@ -249,11 +249,11 @@ In the Finance (No. 2) Act 2005[^f00018], in section 7 (charge to income tax on 
 
 (4) In section 55C (election to reduce personal allowance), in paragraph (c) of subsection (1), after “the basic rate,” insert “the Scottish basic rate,”.
 
-(5)[^key-95e2876172eddb3102c75a7eb2bd368c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-95e2876172eddb3102c75a7eb2bd368c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-95e2876172eddb3102c75a7eb2bd368c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-95e2876172eddb3102c75a7eb2bd368c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-95e2876172eddb3102c75a7eb2bd368c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-95e2876172eddb3102c75a7eb2bd368c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 George Hollingbery
 
@@ -295,21 +295,21 @@ A Tax Information and Impact Note covering this instrument was published on 14th
 
 [^f00002]: Footnote: Section 80G was inserted by section 25(3) of the Scotland Act [2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11) and amended by paragraph 16 of Schedule 38 to the Finance Act 2014.
 
-[^key-ed9ed93bd49f8feae0fac897d1340176]: Commencement: Art. 1 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
+[^c-ed9ed93bd49f8feae0fac897d1340176]: Commencement: Art. 1 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
 
-[^key-133c9eab24757876c42d7672c28fdab5]: Commencement: Art. 2 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
+[^c-133c9eab24757876c42d7672c28fdab5]: Commencement: Art. 2 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
 
 [^f00003]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12); section 192(4) was substituted by paragraph 11 of Schedule 2 to the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10).
 
-[^key-de8de086adefbe35f0431f960900abf5]: Commencement: Art. 3 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
+[^c-de8de086adefbe35f0431f960900abf5]: Commencement: Art. 3 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
 
 [^f00004]: Footnote: Section 192(4) was substituted by paragraph 11 of Schedule 2 to the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10) and section 192(5) was repealed by Part 1 of Schedule 3 to the Income Tax Act [2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3).
 
-[^key-dd0b58b849547d15fb407d3443b4deb2]: Commencement: Art. 4 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
+[^c-dd0b58b849547d15fb407d3443b4deb2]: Commencement: Art. 4 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
 
 [^f00005]: Footnote: Section 280(1) of the Finance Act 2004 provides that in Part 4 of that Act “ITA 2007” means the Income Tax Act 2007.
 
-[^key-3ec03a822b597e4adc5c3ffbe70f2760]: Commencement: Art. 5 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
+[^c-3ec03a822b597e4adc5c3ffbe70f2760]: Commencement: Art. 5 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
 
 [^f00006]: Footnote: [2007.c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
 
@@ -319,44 +319,44 @@ A Tax Information and Impact Note covering this instrument was published on 14th
 
 [^f00009]: Footnote: Section 1017 of the Income Tax Act 2007 provides that in that Act “ITEPA 2003” means the Income Tax (Earnings and Other Income) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1).
 
-[^key-8c6e4a89d701b044376f4fa6e6017626]: Commencement: Art. 6 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
+[^c-8c6e4a89d701b044376f4fa6e6017626]: Commencement: Art. 6 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
 
 [^f00010]: Footnote: [S.I. 2005/3448](https://www.legislation.gov.uk/uksi/2005/3448), amended by [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56). There are other amending instruments but none is relevant.
 
-[^key-36507ce7d9ee540f467589186a25eed2]: Commencement: Art. 7 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
+[^c-36507ce7d9ee540f467589186a25eed2]: Commencement: Art. 7 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
 
 [^f00011]: Footnote: Section 227(4A) was inserted by section 3(4) of the Finance Act 2011 and amended by paragraph 63(5) of Schedule 1 to the Taxation of Pensions Act [2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30).
 
 [^f00012]: Footnote: Section 237B was inserted by paragraph 15 of Schedule 17 to the Finance Act 2011.
 
-[^key-10c9bdc8a05337122ebff4b814da66f1]: Commencement: Art. 8 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
+[^c-10c9bdc8a05337122ebff4b814da66f1]: Commencement: Art. 8 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
 
 [^f00013]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
 
-[^key-a0fc3b6331cf98706ab58bbfd97b88c9]: Commencement: Art. 9 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
+[^c-a0fc3b6331cf98706ab58bbfd97b88c9]: Commencement: Art. 9 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
 
 [^f00014]: Footnote: Section 539 was substituted by paragraph 539 of Schedule 1 to the Income Tax Act 2007 and subsection (5) was amended by paragraph 58 of Schedule 1 to the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9).
 
-[^key-c6268c48d0309e10b6ab04043a2e689f]: Commencement: Art. 10 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
+[^c-c6268c48d0309e10b6ab04043a2e689f]: Commencement: Art. 10 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
 
 [^f00015]: Footnote: Section 669(3)(a) was amended by paragraph 561 of Schedule 1 to the Income Tax Act 2007, paragraph 59 of Schedule 1 to the Finance Act 2008 and paragraph 21 of Schedule 2 to the Finance Act 2009.
 
-[^key-6e248767e8310aa47dd0f1d9260f6599]: Commencement: Art. 11 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
+[^c-6e248767e8310aa47dd0f1d9260f6599]: Commencement: Art. 11 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
 
 [^f00016]: Footnote: Section 685A was inserted by paragraph 6(1) of Schedule 13 to the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and subsection (3) was amended by paragraph 22 of Schedule 22 to the Finance Act 2009.
 
-[^key-60faed7c3b4f4cd27f14846d32a14508]: Commencement: Art. 12 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
+[^c-60faed7c3b4f4cd27f14846d32a14508]: Commencement: Art. 12 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
 
 [^f00017]: Footnote: Part 2 of Schedule 4 was amended by paragraph 63 of Schedule 1 to the Finance Act 2008 and Part 1 of Schedule 3 to the Corporation Tax Act [2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4).
 
-[^key-f225e2cd1e787247ede1dc34fe4093e1]: Commencement: Art. 13 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
+[^c-f225e2cd1e787247ede1dc34fe4093e1]: Commencement: Art. 13 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
 
 [^f00018]: Footnote: [2005 c. 22](https://www.legislation.gov.uk/ukpga/2005/22); section 7(5) was amended by paragraph 24 of Schedule 2 to the Finance Act 2009.
 
-[^key-b29dab199687677f6ca34c2f9931e362]: Commencement: Art. 14 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
+[^c-b29dab199687677f6ca34c2f9931e362]: Commencement: Art. 14 in force at 21.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1810/article/1/1)
 
 [^f00019]: Footnote: Section 31(2) was amended by paragraph 12 of Schedule 1 to the Finance Act 2008 and section 11(4) of the Finance Act 2014.
 
 [^f00020]: Footnote: Sections 55B and 55C were inserted by section 11(2) of the Finance Act 2014.
 
-[^key-95e2876172eddb3102c75a7eb2bd368c]: Textual amendment: [Art. 14(5)-(7)](https://www.legislation.gov.uk/uksi/2015/1810/article/14/5) omitted (6.4.2018 in relation to the tax year commencing on 6.4.2018 and subsequent tax years) by virtue of [The Scottish Rates of Income Tax (Consequential Amendments) Order 2018 (S.I. 2018/459)](https://www.legislation.gov.uk/uksi/2018/459), [arts. 1](https://www.legislation.gov.uk/uksi/2018/459/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2018/459/article/8/2)
+[^c-95e2876172eddb3102c75a7eb2bd368c]: Textual amendment: [Art. 14(5)-(7)](https://www.legislation.gov.uk/uksi/2015/1810/article/14/5) omitted (6.4.2018 in relation to the tax year commencing on 6.4.2018 and subsequent tax years) by virtue of [The Scottish Rates of Income Tax (Consequential Amendments) Order 2018 (S.I. 2018/459)](https://www.legislation.gov.uk/uksi/2018/459), [arts. 1](https://www.legislation.gov.uk/uksi/2018/459/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2018/459/article/8/2)

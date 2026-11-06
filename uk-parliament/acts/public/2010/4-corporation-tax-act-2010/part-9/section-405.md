@@ -29,7 +29,7 @@ summary: ''
 (2) The conditions are—
 
 - (a) that A becomes owned by a consortium of which B is a member, or
-- (b) that A becomes a qualifying 75%[^key-feaf9c0f71343a225ceed50c7ebbe86b] subsidiary of a company owned by a consortium of which B is a member.
+- (b) that A becomes a qualifying 75%[^c-feaf9c0f71343a225ceed50c7ebbe86b] subsidiary of a company owned by a consortium of which B is a member.
 
 (3) The basic amount is adjusted so that the amount of the income is limited to the appropriate percentage of the basic amount.
 
@@ -41,10 +41,10 @@ summary: ''
 - (b) the percentage to which B is beneficially entitled of any profits available for distribution to equity holders of A, and
 - (c) the percentage to which B would be beneficially entitled of any assets of A available for distribution to its equity holders on a winding up.
 
-(6) But if A becomes a qualifying 75%[^key-dc6efe49554e5c3e3ace83365b884282] subsidiary of a company, subsection (5) is to be read as if references to that company were substituted for references to A.
+(6) But if A becomes a qualifying 75%[^c-dc6efe49554e5c3e3ace83365b884282] subsidiary of a company, subsection (5) is to be read as if references to that company were substituted for references to A.
 
 ## Annotations
 
-[^key-feaf9c0f71343a225ceed50c7ebbe86b]: Textual amendment: Figure in s. 405(2)(b) substituted (with effect in accordance with s. 29(8) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 29(5)](https://www.legislation.gov.uk/ukpga/2010/13/section/29/5)
+[^c-feaf9c0f71343a225ceed50c7ebbe86b]: Textual amendment: Figure in s. 405(2)(b) substituted (with effect in accordance with s. 29(8) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 29(5)](https://www.legislation.gov.uk/ukpga/2010/13/section/29/5)
 
-[^key-dc6efe49554e5c3e3ace83365b884282]: Textual amendment: Figure in s. 405(6) substituted (with effect in accordance with s. 29(8) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 29(5)](https://www.legislation.gov.uk/ukpga/2010/13/section/29/5)
+[^c-dc6efe49554e5c3e3ace83365b884282]: Textual amendment: Figure in s. 405(6) substituted (with effect in accordance with s. 29(8) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 29(5)](https://www.legislation.gov.uk/ukpga/2010/13/section/29/5)

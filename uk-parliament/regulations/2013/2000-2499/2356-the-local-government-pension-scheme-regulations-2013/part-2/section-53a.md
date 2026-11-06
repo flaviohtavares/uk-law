@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53A. Appointments that must be made by administering authorities[^key-59927599ccd5314111a1f10c4e8d5247]
+## 53A. Appointments that must be made by administering authorities[^c-59927599ccd5314111a1f10c4e8d5247]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59927599ccd5314111a1f10c4e8d5247]: Textual amendment: [Reg. 53A](https://www.legislation.gov.uk/uksi/2013/2356/regulation/53A) inserted (30.6.2026) by [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2026 (S.I. 2026/545)](https://www.legislation.gov.uk/uksi/2026/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/545/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/545/regulation/3)
+[^c-59927599ccd5314111a1f10c4e8d5247]: Textual amendment: [Reg. 53A](https://www.legislation.gov.uk/uksi/2013/2356/regulation/53A) inserted (30.6.2026) by [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2026 (S.I. 2026/545)](https://www.legislation.gov.uk/uksi/2026/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/545/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/545/regulation/3)

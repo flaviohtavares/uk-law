@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Approval of warrants by Judicial Commissioners[^key-54df59f8e8b9cc39790f3570c9fec646]
+## 140. Approval of warrants by Judicial Commissioners[^c-54df59f8e8b9cc39790f3570c9fec646]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54df59f8e8b9cc39790f3570c9fec646]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2016/25/section/140) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(e)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/e)
+[^c-54df59f8e8b9cc39790f3570c9fec646]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2016/25/section/140) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(e)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/e)

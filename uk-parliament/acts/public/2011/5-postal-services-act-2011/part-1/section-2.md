@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Report on decision to dispose of shares in a Royal Mail company etc[^key-321a57f8ea4c9fe076f4eaadef79c141]
+## 2. Report on decision to dispose of shares in a Royal Mail company etc[^c-321a57f8ea4c9fe076f4eaadef79c141]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ In paragraph (b) “**employee share scheme**” has the meaning given by sectio
 
 ## Annotations
 
-[^key-321a57f8ea4c9fe076f4eaadef79c141]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2011/5/section/2) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-321a57f8ea4c9fe076f4eaadef79c141]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2011/5/section/2) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

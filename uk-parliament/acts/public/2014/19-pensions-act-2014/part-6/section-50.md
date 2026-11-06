@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Pension Protection Fund: increased compensation cap for long service[^key-f35a1ce50361e0d3015290c181029f86][^key-db7d59fe6bab50c14b0457c0a066b9c2]
+## 50. Pension Protection Fund: increased compensation cap for long service[^c-f35a1ce50361e0d3015290c181029f86][^c-db7d59fe6bab50c14b0457c0a066b9c2]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ See Schedule 20 for amendments increasing the Pension Protection Fund compensati
 
 ## Annotations
 
-[^key-f35a1ce50361e0d3015290c181029f86]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2014/19/section/50) in force at 7.3.2017 for specified purposes by [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/297/article/2/a)
+[^c-f35a1ce50361e0d3015290c181029f86]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2014/19/section/50) in force at 7.3.2017 for specified purposes by [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/297/article/2/a)
 
-[^key-db7d59fe6bab50c14b0457c0a066b9c2]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2014/19/section/50) in force at 6.4.2017 in so far as not already in force by [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/297/article/2/b)
+[^c-db7d59fe6bab50c14b0457c0a066b9c2]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2014/19/section/50) in force at 6.4.2017 in so far as not already in force by [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/297/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Commencement[^key-219fb1655bd46d8011a688f3497b1df3]
+## 73. Commencement[^c-219fb1655bd46d8011a688f3497b1df3]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-219fb1655bd46d8011a688f3497b1df3]: Commencement: S. 73 in force at 30.1.2025, see [s. 73(1)](https://www.legislation.gov.uk/asp/2025/4/section/73/1)
+[^c-219fb1655bd46d8011a688f3497b1df3]: Commencement: S. 73 in force at 30.1.2025, see [s. 73(1)](https://www.legislation.gov.uk/asp/2025/4/section/73/1)

@@ -49,7 +49,7 @@ Remainder
 
 21st August 2002
 
-The Secretary of State, being a Minister designated[^c9612701] for the purposes of section 2(2) of the European Communities Act 1972[^c9612711] in relation to information society services, in exercise of the powers conferred on her by that section, hereby makes the following Regulations:—[^key-a6207d0b7f29322209519b3056435366][^key-be0ba031a66eba1a0223547e0cfcbb01][^key-bd443e32461fcd22bbf60e0260a23863][^key-cccffb2d5f5421105f77e8ebc4b6b8f0][^M_C_f34d0436-a1da-4df7-8c0f-df2cf283a397][^key-cfcfbe5ee11024c34bcad3af91740b9c]
+The Secretary of State, being a Minister designated[^c9612701] for the purposes of section 2(2) of the European Communities Act 1972[^c9612711] in relation to information society services, in exercise of the powers conferred on her by that section, hereby makes the following Regulations:—[^c-a6207d0b7f29322209519b3056435366][^c-be0ba031a66eba1a0223547e0cfcbb01][^c-bd443e32461fcd22bbf60e0260a23863][^c-cccffb2d5f5421105f77e8ebc4b6b8f0][^M_C_f34d0436-a1da-4df7-8c0f-df2cf283a397][^c-cfcfbe5ee11024c34bcad3af91740b9c]
 
 ## 1. Citation and commencement
 
@@ -59,85 +59,85 @@ The Secretary of State, being a Minister designated[^c9612701] for the purposes 
 
 ## 2. Interpretation
 
-(1) In these Regulations [^key-ec16ff9fd1a27834bfb01a8b2c33c816]...—
+(1) In these Regulations [^c-ec16ff9fd1a27834bfb01a8b2c33c816]...—
 
 - “commercial communication” means a communication, in any form, designed to promote, directly or indirectly, the goods, services or image of any person pursuing a commercial, industrial or craft activity or exercising a regulated profession, other than a communication—
   - (a) consisting only of information allowing direct access to the activity of that person including a geographic address, a domain name or an electronic mail address; or
   - (b) relating to the goods, services or image of that person provided that the communication has been prepared independently of the person making it (and for this purpose, a communication prepared without financial consideration is to be taken to have been prepared independently unless the contrary is shown);
-- [^key-bb4bb3f9136a98db57a29a45d1a0a3de]...
+- [^c-bb4bb3f9136a98db57a29a45d1a0a3de]...
 - “consumer” means any natural person who is acting for purposes other than those of his trade, business or profession;
-- [^key-9c5fca0661cdc3776087da6c6e9dab72]...
+- [^c-9c5fca0661cdc3776087da6c6e9dab72]...
 - “the Directive” means Directive [2000/31/EC](https://www.legislation.gov.uk/eudr/2000/31) of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (Directive on electronic commerce) [^c9612721];
-- “EEA Agreement” has the meaning given by Schedule 1 to the Interpretation Act 1978;[^key-487349aa63ed0065eb4a3cf688753cbc]
+- “EEA Agreement” has the meaning given by Schedule 1 to the Interpretation Act 1978;[^c-487349aa63ed0065eb4a3cf688753cbc]
 - “enactment” includes an enactment comprised in Northern Ireland legislation and comprised in, or an instrument made under, an Act of the Scottish Parliament;
 - “enforcement action” means any form of enforcement action including, in particular—
   - (a) in relation to any legal requirement imposed by or under any enactment, any action taken with a view to or in connection with imposing any sanction (whether criminal or otherwise) for failure to observe or comply with it; and
   - (b) in relation to a permission or authorisation, anything done with a view to removing or restricting that permission or authorisation;
 - “enforcement authority” does not include courts but, subject to that, means any person who is authorised, whether by or under an enactment or otherwise, to take enforcement action;
-- “established service provider” means a service provider who is—[^key-51efbccb276f753bc60ed2dae1950ac0]
+- “established service provider” means a service provider who is—[^c-51efbccb276f753bc60ed2dae1950ac0]
   - (a) a national of the United Kingdom or a member State, or
   - (b) a company or firm as mentioned in Article 54 of the Treaty,
 
-  and who effectively pursues an economic activity; by virtue of which he is a service provider using a fixed establishment in the United Kingdom or[^key-57f2d5e7f261e7a97017c6729d15bdea] a member State for an indefinite period, but the presence and use of the technical means and technologies required to provide the information society service do not, in themselves, constitute an establishment of the provider; in cases where it cannot be determined from which of a number of places of establishment a given service is provided, that service is to be regarded as provided from the place of establishment where the provider has the centre of his activities relating to that service; references to a service provider being established or to the establishment of a service provider shall be construed accordingly;
+  and who effectively pursues an economic activity; by virtue of which he is a service provider using a fixed establishment in the United Kingdom or[^c-57f2d5e7f261e7a97017c6729d15bdea] a member State for an indefinite period, but the presence and use of the technical means and technologies required to provide the information society service do not, in themselves, constitute an establishment of the provider; in cases where it cannot be determined from which of a number of places of establishment a given service is provided, that service is to be regarded as provided from the place of establishment where the provider has the centre of his activities relating to that service; references to a service provider being established or to the establishment of a service provider shall be construed accordingly;
 - “information society services” (which is summarised in recital 17 of the Directive as covering “any service normally provided for remuneration, at a distance, by means of electronic equipment for the processing (including digital compression) and storage of data, and at the individual request of a recipient of a service”) has the meaning set out in Article 2(a) of the Directive, (which refers to Article 1(2) of Directive [98/34/EC](https://www.legislation.gov.uk/eudr/1998/34) of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations [^c9612741], as amended by Directive [98/48/EC](https://www.legislation.gov.uk/eudr/1998/48) of 20 July 1998 [^c9612751]);
 - “member State” includes a State which is a contracting party to the EEA Agreement;
-- “a national of the United Kingdom” means—[^key-dc02729ee934cdb8bfb308d829a9d434]
+- “a national of the United Kingdom” means—[^c-dc02729ee934cdb8bfb308d829a9d434]
   - (a) a British citizen;
   - (b) a person who is a British subject by virtue of Part 4 of the British Nationality Act 1981 and who has a right of abode in the United Kingdom; or
   - (c) a person who is a British overseas territories citizen by virtue of a connection with Gibraltar;
 - “recipient of the service” means any person who, for professional ends or otherwise, uses an information society service, in particular for the purposes of seeking information or making it accessible;
-- “regulated profession” has the meaning given in regulation 8(1) of the European Union (Recognition of Professional Qualifications) Regulations 2015;[^key-c94c4747004c72a3f23eb6116d1686f3]
+- “regulated profession” has the meaning given in regulation 8(1) of the European Union (Recognition of Professional Qualifications) Regulations 2015;[^c-c94c4747004c72a3f23eb6116d1686f3]
 - “service provider” means any person providing an information society service;
 
    
 
-  “the Treaty” means the Treaty on the Functioning of the European Union[^key-22874d9af99ff471bd2ffc0a9d4b39a9].
+  “the Treaty” means the Treaty on the Functioning of the European Union[^c-22874d9af99ff471bd2ffc0a9d4b39a9].
 
-(2)[^key-6563969036a32803f4405512e278e5be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6563969036a32803f4405512e278e5be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Terms used in the Directive other than those in paragraph (1) above shall have the same meaning as in the Directive.
 
-(4)[^key-ed1350b6369d0b6e6593ff802a6076c5] For the purposes of the definition of “established service provider” in paragraph (1), Article 54 of the Treaty is to be read as if the United Kingdom were a member State.
+(4)[^c-ed1350b6369d0b6e6593ff802a6076c5] For the purposes of the definition of “established service provider” in paragraph (1), Article 54 of the Treaty is to be read as if the United Kingdom were a member State.
 
 ## 3. Exclusions
 
 (1) Nothing in these Regulations shall apply in respect of—
 
 - (a) the field of taxation;
-- (b) questions relating to information society services covered by the UK GDPR[^key-053a67e31402276701688f90517aed87] and Directive [2002/58/EC](https://www.legislation.gov.uk/eudr/2002/58) of the European Parliament and of the Council of 12th July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) [^c9612801];
+- (b) questions relating to information society services covered by the UK GDPR[^c-053a67e31402276701688f90517aed87] and Directive [2002/58/EC](https://www.legislation.gov.uk/eudr/2002/58) of the European Parliament and of the Council of 12th July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) [^c9612801];
 - (c) questions relating to agreements or practices governed by cartel law; and
 - (d) the following activities of information society services—
   - (i) the activities of a public notary or equivalent professions to the extent that they involve a direct and specific connection with the exercise of public authority,
   - (ii) the representation of a client and defence of his interests before the courts, and
   - (iii) betting, gaming or lotteries which involve wagering a stake with monetary value.
 
-(2)[^key-ef785e93ae9f5dd9c185625f60f06c7f] These Regulations shall not apply in relation to any Act passed on or after the date these Regulations are made or in relation to the exercise of a power to legislate after that date.
+(2)[^c-ef785e93ae9f5dd9c185625f60f06c7f] These Regulations shall not apply in relation to any Act passed on or after the date these Regulations are made or in relation to the exercise of a power to legislate after that date.
 
 (3) In this regulation—
 
 - “cartel law” means so much of the law relating to agreements between undertakings, decisions by associations of undertakings or concerted practices as relates to agreements to divide the market or fix prices;
-- [^key-945f72b41b89ad7971a5754334b8d1f9]...
-- [^key-27e8b212bd96664bacb4589c362e41b1]...
-- [^key-27e8b212bd96664bacb4589c362e41b1]...
-- “[^key-2e5d02f29f6d1836fb275b17f2005f17]**the UK GDPR**” has the meaning given in section 3(10) of the Data Protection Act 2018;
+- [^c-945f72b41b89ad7971a5754334b8d1f9]...
+- [^c-27e8b212bd96664bacb4589c362e41b1]...
+- [^c-27e8b212bd96664bacb4589c362e41b1]...
+- “[^c-2e5d02f29f6d1836fb275b17f2005f17]**the UK GDPR**” has the meaning given in section 3(10) of the Data Protection Act 2018;
 
-## 4. Non-UK service providers – restriction on application of requirements[^key-86738c1083ef197910fe1ff4fbd8e221]
+## 4. Non-UK service providers – restriction on application of requirements[^c-86738c1083ef197910fe1ff4fbd8e221]
 
-(1)[^key-0027e663736bc379aca463d0c0921422] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-0027e663736bc379aca463d0c0921422] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-c6a84ef0ccbc092dba83c373a23d1b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c6a84ef0ccbc092dba83c373a23d1b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-1d9edafa3b612c8d79ad313566d6a817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1d9edafa3b612c8d79ad313566d6a817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-1d9edafa3b612c8d79ad313566d6a817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1d9edafa3b612c8d79ad313566d6a817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-1d9edafa3b612c8d79ad313566d6a817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1d9edafa3b612c8d79ad313566d6a817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) To the extent that anything in these Regulations creates any new criminal offence, it shall not be punishable with imprisonment for more than two years or punishable on summary conviction with imprisonment for more than three months or with a fine of more than level 5 on the standard scale (if not calculated on a daily basis) or with a fine of more than £100 a day [^c9612811].
 
-(7)[^key-0456cef3b1e5dad448f0f8b84d8d321b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-0456cef3b1e5dad448f0f8b84d8d321b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Derogations from Regulation 4[^key-2f6139f6d038ef8d9e1a251aedf01dd3]
+## 5. Derogations from Regulation 4[^c-2f6139f6d038ef8d9e1a251aedf01dd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -152,8 +152,8 @@ The Secretary of State, being a Minister designated[^c9612701] for the purposes 
 - (e) where the provision of the service is subject to an authorisation scheme, the particulars of the relevant supervisory authority;
 - (f) where the service provider exercises a regulated profession—
   - (i) the details of any professional body or similar institution with which the service provider is registered;
-  - (ii) his professional title and whether that title has been granted in the United Kingdom, or if not,[^key-5e6e1a00ec5bcb7cfd4b9c6233217469] the member State where that title has been granted;
-  - (iii) a reference to the professional rules applicable to the service provider in the United Kingdom or[^key-68e5072c275611fe50e96a34d39b7f88] member State of establishment and the means to access them; and
+  - (ii) his professional title and whether that title has been granted in the United Kingdom, or if not,[^c-5e6e1a00ec5bcb7cfd4b9c6233217469] the member State where that title has been granted;
+  - (iii) a reference to the professional rules applicable to the service provider in the United Kingdom or[^c-68e5072c275611fe50e96a34d39b7f88] member State of establishment and the means to access them; and
 - (g) where the service provider undertakes an activity that is subject to value added tax, the identification number referred to in Article 22(1) of the sixth Council Directive [77/388/EEC](https://www.legislation.gov.uk/european/directive/1977/0388) of 17 May 1977 on the harmonisation of the laws of the member States relating to turnover taxes—Common system of value added tax: uniform basis of assessment [^c9612821].
 
 (2) Where a person providing an information society service refers to prices, these shall be indicated clearly and unambiguously and, in particular, shall indicate whether they are inclusive of tax and delivery costs.
@@ -188,7 +188,7 @@ A service provider shall ensure that any unsolicited commercial communication se
 
 ## 10. Other information requirements
 
-Regulations 6, 7, 8 and 9(1) have effect in addition to any other information requirements in assimilated[^key-cf44716e9f34395413876c96f83bf3c4][^key-f5963cd6c34c553b8d6f87dac44de20b] law.
+Regulations 6, 7, 8 and 9(1) have effect in addition to any other information requirements in assimilated[^c-cf44716e9f34395413876c96f83bf3c4][^c-f5963cd6c34c553b8d6f87dac44de20b] law.
 
 ## 11. Placing of the order
 
@@ -243,7 +243,7 @@ he shall be entitled to rescind the contract unless any court having jurisdictio
 
 [^c9612841].
 
-## 17. Mere conduit[^key-d17699a08c9edfeb57b93cada673f712]
+## 17. Mere conduit[^c-d17699a08c9edfeb57b93cada673f712]
 
 (1) Where an information society service is provided which consists of the transmission in a communication network of information provided by a recipient of the service or the provision of access to a communication network, the service provider (if he otherwise would) shall not be liable for damages or for any other pecuniary remedy or for any criminal sanction as a result of that transmission where the service provider—
 
@@ -256,7 +256,7 @@ he shall be entitled to rescind the contract unless any court having jurisdictio
 - (a) this takes place for the sole purpose of carrying out the transmission in the communication network, and
 - (b) the information is not stored for any period longer than is reasonably necessary for the transmission.
 
-## 18. Caching[^key-d17699a08c9edfeb57b93cada673f712]
+## 18. Caching[^c-d17699a08c9edfeb57b93cada673f712]
 
 Where an information society service is provided which consists of the transmission in a communication network of information provided by a recipient of the service, the service provider (if he otherwise would) shall not be liable for damages or for any other pecuniary remedy or for any criminal sanction as a result of that transmission where—
 
@@ -268,7 +268,7 @@ Where an information society service is provided which consists of the transmiss
   - (iv) does not interfere with the lawful use of technology, widely recognised and used by industry, to obtain data on the use of the information; and
   - (v) acts expeditiously to remove or to disable access to the information he has stored upon obtaining actual knowledge of the fact that the information at the initial source of the transmission has been removed from the network, or access to it has been disabled, or that a court or an administrative authority has ordered such removal or disablement.
 
-## 19. Hosting[^key-d17699a08c9edfeb57b93cada673f712]
+## 19. Hosting[^c-d17699a08c9edfeb57b93cada673f712]
 
 Where an information society service is provided which consists of the storage of information provided by a recipient of the service, the service provider (if he otherwise would) shall not be liable for damages or for any other pecuniary remedy or for any criminal sanction as a result of that storage where—
 
@@ -277,7 +277,7 @@ Where an information society service is provided which consists of the storage o
   - (ii) upon obtaining such knowledge or awareness, acts expeditiously to remove or to disable access to the information, and
 - (b) the recipient of the service was not acting under the authority or the control of the service provider.
 
-## 20. Protection of rights[^key-d17699a08c9edfeb57b93cada673f712]
+## 20. Protection of rights[^c-d17699a08c9edfeb57b93cada673f712]
 
 (1) Nothing in regulations 17, 18 and 19 shall—
 
@@ -292,7 +292,7 @@ Where an information society service is provided which consists of the storage o
 
 (2) Where evidence is adduced which is sufficient to raise an issue with respect to that defence, the court or jury shall assume that the defence is satisfied unless the prosecution proves beyond reasonable doubt that it is not.
 
-## 22. Notice for the purposes of actual knowledge[^key-ea1a0bb282a59fa796d69ac0d0b325a4]
+## 22. Notice for the purposes of actual knowledge[^c-ea1a0bb282a59fa796d69ac0d0b325a4]
 
 In determining whether a service provider has actual knowledge for the purposes of regulations 18(b)(v) and 19(a)(i), a court shall take into account all matters which appear to it in the particular circumstances to be relevant and, among other things, shall have regard to—
 
@@ -308,21 +308,21 @@ Minister of State for Employment Relations Industry and the Regions,
 
 Department of Trade and Industry
 
-## SCHEDULE[^key-ae2279f8c42d41ed9c3a5f175f346aa4]
+## SCHEDULE[^c-ae2279f8c42d41ed9c3a5f175f346aa4]
 
 **No longer in force.**
 
 Regulation 4(4)
 
-**1.**[^key-ae2279f8c42d41ed9c3a5f175f346aa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ae2279f8c42d41ed9c3a5f175f346aa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ae2279f8c42d41ed9c3a5f175f346aa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ae2279f8c42d41ed9c3a5f175f346aa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ae2279f8c42d41ed9c3a5f175f346aa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ae2279f8c42d41ed9c3a5f175f346aa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ae2279f8c42d41ed9c3a5f175f346aa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ae2279f8c42d41ed9c3a5f175f346aa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ae2279f8c42d41ed9c3a5f175f346aa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ae2279f8c42d41ed9c3a5f175f346aa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the regulations)*
 
@@ -362,90 +362,90 @@ A transposition note setting out how the main elements of the Directive are tran
 
 [^c9612711]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-a6207d0b7f29322209519b3056435366]: Modification: Regulations applied (14.2.2003) by [The Electronic Commerce (EC Directive) (Extension) Regulations 2003 (S.I. 2003/115)](https://www.legislation.gov.uk/uksi/2003/115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/115/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2003/115/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/115/schedule)
+[^c-a6207d0b7f29322209519b3056435366]: Modification: Regulations applied (14.2.2003) by [The Electronic Commerce (EC Directive) (Extension) Regulations 2003 (S.I. 2003/115)](https://www.legislation.gov.uk/uksi/2003/115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/115/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2003/115/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/115/schedule)
 
-[^key-be0ba031a66eba1a0223547e0cfcbb01]: Modification: Regulations applied (31.10.2003) by [The Electronic Commerce (EC Directive) (Extension) (No. 2) Regulations 2003 (S.I. 2003/2500)](https://www.legislation.gov.uk/uksi/2003/2500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2500/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2003/2500/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/2500/schedule)
+[^c-be0ba031a66eba1a0223547e0cfcbb01]: Modification: Regulations applied (31.10.2003) by [The Electronic Commerce (EC Directive) (Extension) (No. 2) Regulations 2003 (S.I. 2003/2500)](https://www.legislation.gov.uk/uksi/2003/2500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2500/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2003/2500/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/2500/schedule)
 
-[^key-bd443e32461fcd22bbf60e0260a23863]: Modification: Regulations applied (14.5.2004) by [The Electronic Commerce (EC Directive) (Extension) Regulations 2004 (S.I. 2004/1178)](https://www.legislation.gov.uk/uksi/2004/1178), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1178/regulation/2), [2](https://www.legislation.gov.uk/uksi/2004/1178/regulation/2)
+[^c-bd443e32461fcd22bbf60e0260a23863]: Modification: Regulations applied (14.5.2004) by [The Electronic Commerce (EC Directive) (Extension) Regulations 2004 (S.I. 2004/1178)](https://www.legislation.gov.uk/uksi/2004/1178), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1178/regulation/2), [2](https://www.legislation.gov.uk/uksi/2004/1178/regulation/2)
 
-[^key-cccffb2d5f5421105f77e8ebc4b6b8f0]: Modification: Regulations applied (22.7.2004) by [The Price Marking Order 2004 (S.I. 2004/102)](https://www.legislation.gov.uk/uksi/2004/102), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/102/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/102/article/3/2)
+[^c-cccffb2d5f5421105f77e8ebc4b6b8f0]: Modification: Regulations applied (22.7.2004) by [The Price Marking Order 2004 (S.I. 2004/102)](https://www.legislation.gov.uk/uksi/2004/102), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/102/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/102/article/3/2)
 
 [^M_C_f34d0436-a1da-4df7-8c0f-df2cf283a397]: Modification: Regulations applied (N.I.) (1.3.2005) by [Price Marking Order (Northern Ireland) 2004 (S.R. 2004/368)](https://www.legislation.gov.uk/nisr/2004/368), [arts. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2004/368/article/4/2)
 
-[^key-cfcfbe5ee11024c34bcad3af91740b9c]: Modification: Regulations applied (E.W.S.) (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [5](https://www.legislation.gov.uk/uksi/2005/55/article/5)
+[^c-cfcfbe5ee11024c34bcad3af91740b9c]: Modification: Regulations applied (E.W.S.) (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [5](https://www.legislation.gov.uk/uksi/2005/55/article/5)
 
-[^key-ec16ff9fd1a27834bfb01a8b2c33c816]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/2/1) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/407/regulation/2/2/a)
+[^c-ec16ff9fd1a27834bfb01a8b2c33c816]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/2/1) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/407/regulation/2/2/a)
 
-[^key-bb4bb3f9136a98db57a29a45d1a0a3de]: Textual amendment: Words in reg. 2(1) omitted (31.12.2020) by virtue of [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb4bb3f9136a98db57a29a45d1a0a3de]: Textual amendment: Words in reg. 2(1) omitted (31.12.2020) by virtue of [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9c5fca0661cdc3776087da6c6e9dab72]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/2/1) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/407/regulation/2/2/b)
+[^c-9c5fca0661cdc3776087da6c6e9dab72]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/2/1) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/407/regulation/2/2/b)
 
 [^c9612721]: Marginal citation: O.J. L178, 17.7.2000, p.1.
 
-[^key-487349aa63ed0065eb4a3cf688753cbc]: Textual amendment: Reg. 2(1) substituted (1.10.2013) by [The Broadcasting and Communications (Amendment) Regulations 2013 (S.I. 2013/2217)](https://www.legislation.gov.uk/uksi/2013/2217), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/2217/regulation/8)
+[^c-487349aa63ed0065eb4a3cf688753cbc]: Textual amendment: Reg. 2(1) substituted (1.10.2013) by [The Broadcasting and Communications (Amendment) Regulations 2013 (S.I. 2013/2217)](https://www.legislation.gov.uk/uksi/2013/2217), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/2217/regulation/8)
 
-[^key-51efbccb276f753bc60ed2dae1950ac0]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51efbccb276f753bc60ed2dae1950ac0]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-57f2d5e7f261e7a97017c6729d15bdea]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57f2d5e7f261e7a97017c6729d15bdea]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c9612741]: Marginal citation: O.J. L204, 21.7.98, p.37.
 
 [^c9612751]: Marginal citation: O.J. L217, 5.8.98, p.18.
 
-[^key-dc02729ee934cdb8bfb308d829a9d434]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc02729ee934cdb8bfb308d829a9d434]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c94c4747004c72a3f23eb6116d1686f3]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c94c4747004c72a3f23eb6116d1686f3]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-22874d9af99ff471bd2ffc0a9d4b39a9]: Textual amendment: Words in reg. 2(1) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
+[^c-22874d9af99ff471bd2ffc0a9d4b39a9]: Textual amendment: Words in reg. 2(1) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
 
-[^key-6563969036a32803f4405512e278e5be]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/2/2) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/407/regulation/2/3)
+[^c-6563969036a32803f4405512e278e5be]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/2/2) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/407/regulation/2/3)
 
-[^key-ed1350b6369d0b6e6593ff802a6076c5]: Textual amendment: Reg. 2(4) inserted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ed1350b6369d0b6e6593ff802a6076c5]: Textual amendment: Reg. 2(4) inserted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-053a67e31402276701688f90517aed87]: Textual amendment: Words in reg. 3(1)(b) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 43(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/43/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-053a67e31402276701688f90517aed87]: Textual amendment: Words in reg. 3(1)(b) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 43(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/43/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c9612801]: Marginal citation: O.J. L201, 31.7.2002, p.37.
 
-[^key-ef785e93ae9f5dd9c185625f60f06c7f]: Textual amendment: Reg. 3(2) substituted (14.5.2004) by [The Electronic Commerce (EC Directive) (Extension) Regulations 2004 (S.I. 2004/1178)](https://www.legislation.gov.uk/uksi/2004/1178), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1178/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/1178/regulation/3/2)
+[^c-ef785e93ae9f5dd9c185625f60f06c7f]: Textual amendment: Reg. 3(2) substituted (14.5.2004) by [The Electronic Commerce (EC Directive) (Extension) Regulations 2004 (S.I. 2004/1178)](https://www.legislation.gov.uk/uksi/2004/1178), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1178/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/1178/regulation/3/2)
 
-[^key-945f72b41b89ad7971a5754334b8d1f9]: Textual amendment: Words in reg. 3(3) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 43(3)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/43/3/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-945f72b41b89ad7971a5754334b8d1f9]: Textual amendment: Words in reg. 3(3) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 43(3)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/43/3/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-27e8b212bd96664bacb4589c362e41b1]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/3/3) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 289(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/289/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-27e8b212bd96664bacb4589c362e41b1]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/3/3) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 289(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/289/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-2e5d02f29f6d1836fb275b17f2005f17]: Textual amendment: Words in reg. 3(3) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 43(3)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/43/3/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e5d02f29f6d1836fb275b17f2005f17]: Textual amendment: Words in reg. 3(3) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 43(3)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/43/3/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-86738c1083ef197910fe1ff4fbd8e221]: Textual amendment: Reg. 4 heading substituted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(4)(f)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/4/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-86738c1083ef197910fe1ff4fbd8e221]: Textual amendment: Reg. 4 heading substituted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(4)(f)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/4/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0027e663736bc379aca463d0c0921422]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/4/1) omitted (31.12.2020) by virtue of [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0027e663736bc379aca463d0c0921422]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/4/1) omitted (31.12.2020) by virtue of [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c6a84ef0ccbc092dba83c373a23d1b73]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/4/2) omitted (31.12.2020) by virtue of [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c6a84ef0ccbc092dba83c373a23d1b73]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/4/2) omitted (31.12.2020) by virtue of [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1d9edafa3b612c8d79ad313566d6a817]: Textual amendment: [Reg. 4(3)-(5)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/4/3) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2026/407/regulation/2/4)
+[^c-1d9edafa3b612c8d79ad313566d6a817]: Textual amendment: [Reg. 4(3)-(5)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/4/3) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2026/407/regulation/2/4)
 
 [^c9612811]: Marginal citation: The maximum penalty allowed under paragraph 1(1)(d) of Schedule 2 of the European Communities Act [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-0456cef3b1e5dad448f0f8b84d8d321b]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/4/7) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2026/407/regulation/2/4)
+[^c-0456cef3b1e5dad448f0f8b84d8d321b]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/4/7) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2026/407/regulation/2/4)
 
-[^key-2f6139f6d038ef8d9e1a251aedf01dd3]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2002/2013/regulation/5) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2026/407/regulation/2/5)
+[^c-2f6139f6d038ef8d9e1a251aedf01dd3]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2002/2013/regulation/5) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2026/407/regulation/2/5)
 
-[^key-5e6e1a00ec5bcb7cfd4b9c6233217469]: Textual amendment: Words in [reg. 6(1)(f)(ii)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/6/1/f/ii) inserted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e6e1a00ec5bcb7cfd4b9c6233217469]: Textual amendment: Words in [reg. 6(1)(f)(ii)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/6/1/f/ii) inserted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-68e5072c275611fe50e96a34d39b7f88]: Textual amendment: Words in [reg. 6(1)(f)(iii)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/6/1/f/iii) inserted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68e5072c275611fe50e96a34d39b7f88]: Textual amendment: Words in [reg. 6(1)(f)(iii)](https://www.legislation.gov.uk/uksi/2002/2013/regulation/6/1/f/iii) inserted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c9612821]: Marginal citation: O.J. L145, 13.6.77, p.1. Directive as last amended by Directive 2002/38/EC; O.J. L128, 15.5.2002, p.41.
 
-[^key-cf44716e9f34395413876c96f83bf3c4]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/uksi/2002/2013/regulation/10) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2025/82/schedule/7/paragraph/1)
+[^c-cf44716e9f34395413876c96f83bf3c4]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/uksi/2002/2013/regulation/10) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2025/82/schedule/7/paragraph/1)
 
-[^key-f5963cd6c34c553b8d6f87dac44de20b]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2002/2013/regulation/10) substituted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f5963cd6c34c553b8d6f87dac44de20b]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2002/2013/regulation/10) substituted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c9612831]: Marginal citation: [S.I. 2001/1422](https://www.legislation.gov.uk/uksi/2001/1422).
 
 [^c9612841]: Marginal citation: O.J. L178, 17.7.00, p.1.
 
-[^key-d17699a08c9edfeb57b93cada673f712]: Modification: Regs. 17-20 applied (31.7.2017 for specified purposes) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 14(5)](https://www.legislation.gov.uk/ukpga/2017/30/section/14/5), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 30(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/30/3)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/d)
+[^c-d17699a08c9edfeb57b93cada673f712]: Modification: Regs. 17-20 applied (31.7.2017 for specified purposes) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 14(5)](https://www.legislation.gov.uk/ukpga/2017/30/section/14/5), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 30(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/30/3)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/d)
 
-[^key-ea1a0bb282a59fa796d69ac0d0b325a4]: Modification: [Reg. 22](https://www.legislation.gov.uk/uksi/2002/2013/regulation/22) applied (31.7.2017 for specified purposes) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 14(5)](https://www.legislation.gov.uk/ukpga/2017/30/section/14/5), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 30(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/30/3)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/d)
+[^c-ea1a0bb282a59fa796d69ac0d0b325a4]: Modification: [Reg. 22](https://www.legislation.gov.uk/uksi/2002/2013/regulation/22) applied (31.7.2017 for specified purposes) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 14(5)](https://www.legislation.gov.uk/ukpga/2017/30/section/14/5), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 30(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/30/3)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/d)
 
-[^key-ae2279f8c42d41ed9c3a5f175f346aa4]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2002/2013/schedule) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2026/407/regulation/2/6)
+[^c-ae2279f8c42d41ed9c3a5f175f346aa4]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2002/2013/schedule) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2026/407/regulation/2/6)
 
 [^c9612871]: Marginal citation: O.J. L178, 17.7.2000, p.1.

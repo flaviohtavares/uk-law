@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-00e4f6a82ed90f838a9565031ed0a3a3] In section 6 of the State Pension Credit Act 2002 (duty to specify assessed income period), in subsection (1), after “subsection (3) or (4)” insert “ where the relevant decision takes effect before 6 April 2016 ”.
+(1)[^c-00e4f6a82ed90f838a9565031ed0a3a3] In section 6 of the State Pension Credit Act 2002 (duty to specify assessed income period), in subsection (1), after “subsection (3) or (4)” insert “ where the relevant decision takes effect before 6 April 2016 ”.
 
-(2)[^key-00e4f6a82ed90f838a9565031ed0a3a3] At the end of the heading to that section insert “ for pre-6 April 2016 awards ”.
+(2)[^c-00e4f6a82ed90f838a9565031ed0a3a3] At the end of the heading to that section insert “ for pre-6 April 2016 awards ”.
 
-(3)[^key-bf4dc5a3b8596908af7c9734398f59a7] Regulations under section 9(5) of the State Pension Credit Act 2002 may in particular be made for the purpose of phasing out, on or after 6 April 2016, any remaining assessed income period that is 5 years or shorter than 5 years.
+(3)[^c-bf4dc5a3b8596908af7c9734398f59a7] Regulations under section 9(5) of the State Pension Credit Act 2002 may in particular be made for the purpose of phasing out, on or after 6 April 2016, any remaining assessed income period that is 5 years or shorter than 5 years.
 
 ## Annotations
 
-[^key-00e4f6a82ed90f838a9565031ed0a3a3]: Commencement: [S. 28(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/28/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/19/section/28/2) in force at 6.4.2016 by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 4](https://www.legislation.gov.uk/uksi/2015/1475/article/4)
+[^c-00e4f6a82ed90f838a9565031ed0a3a3]: Commencement: [S. 28(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/28/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/19/section/28/2) in force at 6.4.2016 by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 4](https://www.legislation.gov.uk/uksi/2015/1475/article/4)
 
-[^key-bf4dc5a3b8596908af7c9734398f59a7]: Commencement: [S. 28(3)](https://www.legislation.gov.uk/ukpga/2014/19/section/28/3) in force at 7.7.2015 by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/2/b)
+[^c-bf4dc5a3b8596908af7c9734398f59a7]: Commencement: [S. 28(3)](https://www.legislation.gov.uk/ukpga/2014/19/section/28/3) in force at 7.7.2015 by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/2/b)

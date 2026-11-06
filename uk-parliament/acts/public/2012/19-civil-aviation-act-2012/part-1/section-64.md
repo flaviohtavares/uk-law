@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Review etc of airport operation services[^key-b3c7e07d93122b2468dd8e882d702460]
+## 64. Review etc of airport operation services[^c-b3c7e07d93122b2468dd8e882d702460]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,10 +27,10 @@ summary: ''
 
 with a view to facilitating the carrying out of its functions under this Chapter.
 
-(2) The CAA must provide information, advice and assistance to the Secretary of State and the Competition and Markets Authority (“the[^key-8d3fb4f364433d0d61e4bd933dc748ac] CMA”) regarding any matter in respect of which the CAA has a function under this Chapter if—
+(2) The CAA must provide information, advice and assistance to the Secretary of State and the Competition and Markets Authority (“the[^c-8d3fb4f364433d0d61e4bd933dc748ac] CMA”) regarding any matter in respect of which the CAA has a function under this Chapter if—
 
 - (a) it thinks it expedient to do so, or
-- (b) it is asked by the Secretary of State or the CMA[^key-1228b6c1facbd4e3bc19fcdd7183b910] to do so.
+- (b) it is asked by the Secretary of State or the CMA[^c-1228b6c1facbd4e3bc19fcdd7183b910] to do so.
 
 (3) Subsection (2)(b) applies only so far as it appears to the CAA practicable for the CAA to provide the information, advice or assistance requested.
 
@@ -48,8 +48,8 @@ with a view to facilitating the carrying out of its functions under this Chapter
 
 ## Annotations
 
-[^key-b3c7e07d93122b2468dd8e882d702460]: Commencement: S. 64 in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-b3c7e07d93122b2468dd8e882d702460]: Commencement: S. 64 in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-8d3fb4f364433d0d61e4bd933dc748ac]: Textual amendment: Words in [s. 64(2)](https://www.legislation.gov.uk/ukpga/2012/19/section/64/2) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 201(a)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/201/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-8d3fb4f364433d0d61e4bd933dc748ac]: Textual amendment: Words in [s. 64(2)](https://www.legislation.gov.uk/ukpga/2012/19/section/64/2) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 201(a)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/201/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
-[^key-1228b6c1facbd4e3bc19fcdd7183b910]: Textual amendment: Word in [s. 64(2)(b)](https://www.legislation.gov.uk/ukpga/2012/19/section/64/2/b) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 201(b)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/201/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-1228b6c1facbd4e3bc19fcdd7183b910]: Textual amendment: Word in [s. 64(2)(b)](https://www.legislation.gov.uk/ukpga/2012/19/section/64/2/b) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 201(b)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/201/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))

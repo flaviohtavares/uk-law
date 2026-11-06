@@ -92,15 +92,15 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** (1)[^key-fd4f6a09e7234cc1457cbb9bd9d99af3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.** (1)[^c-fd4f6a09e7234cc1457cbb9bd9d99af3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-46c28e2a0b88ebe68d7d0f754d5e053f] The[^key-763c47352b525a49ee0aab6ac6e3810a] official United Kingdom BSE status for England, Northern Ireland, Scotland and Wales is categorised by reference to the website of the OIE, as amended from time to time.
+(2)[^c-46c28e2a0b88ebe68d7d0f754d5e053f] The[^c-763c47352b525a49ee0aab6ac6e3810a] official United Kingdom BSE status for England, Northern Ireland, Scotland and Wales is categorised by reference to the website of the OIE, as amended from time to time.
 
 **Article 2.** This Decision shall apply from 1 July 2007.
 
-**Article 3.**[^key-105ce4a55b084d52124d189a055da9b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-105ce4a55b084d52124d189a055da9b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-56eaf49150606ff72cf217dcf6a6a312]
+## ANNEX[^c-56eaf49150606ff72cf217dcf6a6a312]
 
 **No longer in force.**
 
@@ -110,12 +110,12 @@ HAS ADOPTED THIS DECISION:
 
 [^f00001]: Footnote: [OJ L 147, 31.5.2001, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.147.01.0001.01.ENG). Regulation as last amended by Regulation (EC) No 1923/2006 ([OJ L 404, 30.12.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.404.01.0001.01.ENG)).
 
-[^key-fd4f6a09e7234cc1457cbb9bd9d99af3]: Textual amendment: [Art. 1(1)](https://www.legislation.gov.uk/eudn/2007/453/article/1/1) omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2022/735/regulation/9/2/a)
+[^c-fd4f6a09e7234cc1457cbb9bd9d99af3]: Textual amendment: [Art. 1(1)](https://www.legislation.gov.uk/eudn/2007/453/article/1/1) omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2022/735/regulation/9/2/a)
 
-[^key-46c28e2a0b88ebe68d7d0f754d5e053f]: Textual amendment: Art. 1(2) inserted (31.12.2020) by [The Transmissible Spongiform Encephalopathies and Animal By-Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/170)](https://www.legislation.gov.uk/uksi/2019/170), [regs. 1](https://www.legislation.gov.uk/uksi/2019/170/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/170/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46c28e2a0b88ebe68d7d0f754d5e053f]: Textual amendment: Art. 1(2) inserted (31.12.2020) by [The Transmissible Spongiform Encephalopathies and Animal By-Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/170)](https://www.legislation.gov.uk/uksi/2019/170), [regs. 1](https://www.legislation.gov.uk/uksi/2019/170/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/170/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-763c47352b525a49ee0aab6ac6e3810a]: Textual amendment: Word in [Art. 1(2)](https://www.legislation.gov.uk/eudn/2007/453/article/1/2) substituted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2022/735/regulation/9/2/b)
+[^c-763c47352b525a49ee0aab6ac6e3810a]: Textual amendment: Word in [Art. 1(2)](https://www.legislation.gov.uk/eudn/2007/453/article/1/2) substituted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2022/735/regulation/9/2/b)
 
-[^key-105ce4a55b084d52124d189a055da9b5]: Textual amendment: Art. 3 omitted (31.12.2020) by virtue of [The Transmissible Spongiform Encephalopathies and Animal By-Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/170)](https://www.legislation.gov.uk/uksi/2019/170), [regs. 1](https://www.legislation.gov.uk/uksi/2019/170/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/170/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-105ce4a55b084d52124d189a055da9b5]: Textual amendment: Art. 3 omitted (31.12.2020) by virtue of [The Transmissible Spongiform Encephalopathies and Animal By-Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/170)](https://www.legislation.gov.uk/uksi/2019/170), [regs. 1](https://www.legislation.gov.uk/uksi/2019/170/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/170/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-56eaf49150606ff72cf217dcf6a6a312]: Textual amendment: [Annex](https://www.legislation.gov.uk/eudn/2007/453/annex) omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2022/735/regulation/9/3)
+[^c-56eaf49150606ff72cf217dcf6a6a312]: Textual amendment: [Annex](https://www.legislation.gov.uk/eudn/2007/453/annex) omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2022/735/regulation/9/3)

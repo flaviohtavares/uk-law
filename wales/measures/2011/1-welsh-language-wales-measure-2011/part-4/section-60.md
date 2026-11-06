@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Postponement of imposition of duty[^key-f9105ba08e952a9647d978c27600e984]
+## 60. Postponement of imposition of duty[^c-f9105ba08e952a9647d978c27600e984]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9105ba08e952a9647d978c27600e984]: Commencement: [S. 60](https://www.legislation.gov.uk/mwa/2011/1/section/60) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-f9105ba08e952a9647d978c27600e984]: Commencement: [S. 60](https://www.legislation.gov.uk/mwa/2011/1/section/60) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Schedule 6 amended (permits)[^key-f723264972a69e2d63a64f4ae3b10914]
+## 38. Schedule 6 amended (permits)[^c-f723264972a69e2d63a64f4ae3b10914]
 
 *Extent: E+W+S+N.I.*
 
@@ -127,4 +127,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f723264972a69e2d63a64f4ae3b10914]: Commencement: Art. 38 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-f723264972a69e2d63a64f4ae3b10914]: Commencement: Art. 38 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

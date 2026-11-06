@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Fees for burials[^key-d97bbb8071821931fef302c17da74f3d]
+## 20. Fees for burials[^c-d97bbb8071821931fef302c17da74f3d]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d97bbb8071821931fef302c17da74f3d]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/20/section/20) in force at 28.12.2016 by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4), [5](https://www.legislation.gov.uk/ssi/2016/417/regulation/5))
+[^c-d97bbb8071821931fef302c17da74f3d]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/20/section/20) in force at 28.12.2016 by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4), [5](https://www.legislation.gov.uk/ssi/2016/417/regulation/5))

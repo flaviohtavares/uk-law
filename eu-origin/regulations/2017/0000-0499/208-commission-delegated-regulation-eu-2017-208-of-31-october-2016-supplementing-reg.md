@@ -35,24 +35,24 @@ supplementing Regulation (EU) No 575/2013 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-c85bc4e6caba8e2381c74aaf992de5ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c85bc4e6caba8e2381c74aaf992de5ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Materiality of an institution's derivatives transactions[^key-c85bc4e6caba8e2381c74aaf992de5ff]
+## Article 1. Materiality of an institution's derivatives transactions[^c-c85bc4e6caba8e2381c74aaf992de5ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Calculation of an additional outflow corresponding to collateral needs resulting from the impact of an adverse market scenario on an institution's derivative transactions[^key-c85bc4e6caba8e2381c74aaf992de5ff]
+## Article 2. Calculation of an additional outflow corresponding to collateral needs resulting from the impact of an adverse market scenario on an institution's derivative transactions[^c-c85bc4e6caba8e2381c74aaf992de5ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-c85bc4e6caba8e2381c74aaf992de5ff]
+## Article 3. Entry into force[^c-c85bc4e6caba8e2381c74aaf992de5ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c85bc4e6caba8e2381c74aaf992de5ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c85bc4e6caba8e2381c74aaf992de5ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c85bc4e6caba8e2381c74aaf992de5ff]: Textual amendment: Regulation revoked (1.1.2022) by [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [13(1)(e)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/1/e)
+[^c-c85bc4e6caba8e2381c74aaf992de5ff]: Textual amendment: Regulation revoked (1.1.2022) by [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [13(1)(e)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/1/e)

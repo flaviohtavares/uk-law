@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Definitions relating to electronic material and publication[^key-737640c5c5b0816bc9065538ca1fa21c][^key-8bb604ffce651d978016c6eb193e39b7]
+## 39. Definitions relating to electronic material and publication[^c-737640c5c5b0816bc9065538ca1fa21c][^c-8bb604ffce651d978016c6eb193e39b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-737640c5c5b0816bc9065538ca1fa21c]: Commencement: S. 39 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-737640c5c5b0816bc9065538ca1fa21c]: Commencement: S. 39 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-8bb604ffce651d978016c6eb193e39b7]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/37/section/39) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-8bb604ffce651d978016c6eb193e39b7]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/37/section/39) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

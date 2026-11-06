@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Amendment Regulations 2021 (revoked)[^key-8a4aad7f7a6582caf9cc946977127248]
+The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Amendment Regulations 2021 (revoked)[^c-8a4aad7f7a6582caf9cc946977127248]
 
 Approved by the Scottish Parliament
 
@@ -48,31 +48,31 @@ Coming into force
 
 at 4.00 a.m. on 22nd September 2021
 
-[^key-8a4aad7f7a6582caf9cc946977127248]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a4aad7f7a6582caf9cc946977127248]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8a4aad7f7a6582caf9cc946977127248]
+## 1. Citation and commencement[^c-8a4aad7f7a6582caf9cc946977127248]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021[^key-8a4aad7f7a6582caf9cc946977127248]
+## 2. Amendment of the Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021[^c-8a4aad7f7a6582caf9cc946977127248]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to schedule 1 (red list countries)[^key-8a4aad7f7a6582caf9cc946977127248]
+## 3. Amendments to schedule 1 (red list countries)[^c-8a4aad7f7a6582caf9cc946977127248]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Saving[^key-8a4aad7f7a6582caf9cc946977127248]
+## 4. Saving[^c-8a4aad7f7a6582caf9cc946977127248]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8a4aad7f7a6582caf9cc946977127248]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a4aad7f7a6582caf9cc946977127248]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-8a4aad7f7a6582caf9cc946977127248]EXPLANATORY NOTE
+[^c-8a4aad7f7a6582caf9cc946977127248]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -86,4 +86,4 @@ An impact assessment has not been produced for this instrument.
 
 ## Annotations
 
-[^key-8a4aad7f7a6582caf9cc946977127248]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/99)](https://www.legislation.gov.uk/ssi/2022/99), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/99/regulation/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/99/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/99/regulation/3))
+[^c-8a4aad7f7a6582caf9cc946977127248]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/99)](https://www.legislation.gov.uk/ssi/2022/99), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/99/regulation/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/99/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/99/regulation/3))

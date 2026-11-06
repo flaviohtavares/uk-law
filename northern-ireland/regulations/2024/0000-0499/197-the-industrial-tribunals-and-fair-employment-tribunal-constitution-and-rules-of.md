@@ -48,11 +48,11 @@ Coming into operation
 
 The Department for the Economy[^f00001], in exercise of the powers conferred by Articles 6(6), 6(6A), 9(1), (3), (3ZA), (3A) and (3AA), 9(A), 11(4), 15(1), 15(A) and 25(5) of the Industrial Tribunals (Northern Ireland) Order 1996[^f00002] and Articles 84(1), (2), (2A) and (2B), 84A, 84B(5), 85B and 104(3) of the Fair Employment and Treatment (Northern Ireland) Order 1998[^f00003], and now vested in it[^f00004], makes the following Regulations.
 
-## 1. Citation and commencement[^key-546fb83260f8d15952061e367c827735]
+## 1. Citation and commencement[^c-546fb83260f8d15952061e367c827735]
 
 These Regulations may be cited as the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) (Amendment) Regulations (Northern Ireland) 2024 and come into operation on 12th December 2024.
 
-## 2. Amendments to Schedule 1 to the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020[^key-3aaa8496024a6680de7ed6b890380ba7]
+## 2. Amendments to Schedule 1 to the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020[^c-3aaa8496024a6680de7ed6b890380ba7]
 
 (1) Schedule 1 to the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020[^f00005] is amended as follows.
 
@@ -200,8 +200,8 @@ An impact assessment has not been produced for these Regulations as no significa
 
 [^f00004]: Footnote: Functions relevant to these regulations were transferred from the Department for Employment and Learning by [S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76), Article 6(1)(c).
 
-[^key-546fb83260f8d15952061e367c827735]: Commencement: Reg. 1 in operation at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/197/regulation/1)
+[^c-546fb83260f8d15952061e367c827735]: Commencement: Reg. 1 in operation at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/197/regulation/1)
 
-[^key-3aaa8496024a6680de7ed6b890380ba7]: Commencement: Reg. 2 in operation at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/197/regulation/1)
+[^c-3aaa8496024a6680de7ed6b890380ba7]: Commencement: Reg. 2 in operation at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/197/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2020 No. 3](https://www.legislation.gov.uk/nisr/2020/3)

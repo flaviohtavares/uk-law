@@ -29,7 +29,7 @@ In relating this Schedule to the corresponding street plans, the provisions desc
 - (c) private means of access to be stopped up, described in column (2) of Parts 3 and 4 of this Schedule, are shown by grey shading over the extent of stopping up described in column (3) of each of those Parts, and are given a reference (“Ref”) number, preceded by ‘B’, commencing with ‘1’; and
 - (d) new private means of access to be substituted for a private means of access to be stopped up, or which are otherwise to be provided, as described in column (4) of Part 3 of this Schedule, are shown by thin diagonal black hatching and are given a reference (“Ref”) number commencing with ‘1’.
 
-### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND OTHER NEW STREETS TO BE PROVIDED[^key-3c7945392c43d85673ceeadddffb1d48]
+### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND OTHER NEW STREETS TO BE PROVIDED[^c-3c7945392c43d85673ceeadddffb1d48]
 
 | *(1)* *Street plans* *sheet number* | *(2)* *Street within the Borough of Great Yarmouth to be* *stopped up* | *(3)* *Extent of* *stopping up* | *(4)* *New street within the Borough of Great Yarmouth to be substituted,* *and other new* *streets to be* *provided* |
 | --- | --- | --- | --- |
@@ -40,13 +40,13 @@ In relating this Schedule to the corresponding street plans, the provisions desc
 | Sheet 1 | \- | \- | Ref D2<br>Provision of a new turning head on U61067 Queen Anne's Road at a distance 105 metres westwards from the junction of U61067 Queen Anne's Road and C630 Southtown Road |
 | Sheet 1 | \- | \- | Ref D3<br>Provision of turning facilities and parking on land at Cromwell Court situated at the western end of the existing U61057 Cromwell Road |
 
-### PART 2 — STREET TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-e42945b4ec3b11b2309e223a61b19361]
+### PART 2 — STREET TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-e42945b4ec3b11b2309e223a61b19361]
 
 | *(1)* *Street plans* *sheet number* | *(2)* *Street within the Borough of Great Yarmouth* *to be stopped up* | *(3)* *Extent of stopping up* |
 | --- | --- | --- |
 | Sheet 2 | Ref A5<br>U60769 Fish Wharf | To be stopped up over a distance of 145 metres in a westward and then southward direction from its existing junction with the existing A1243 South Denes Road |
 
-### PART 3 — PRIVATE MEANS OF ACCESS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND OTHER NEW PRIVATE MEANS OF ACCESS TO BE PROVIDED[^key-aa77170d8fa4f7591491b8a3e59a4914]
+### PART 3 — PRIVATE MEANS OF ACCESS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND OTHER NEW PRIVATE MEANS OF ACCESS TO BE PROVIDED[^c-aa77170d8fa4f7591491b8a3e59a4914]
 
 | *(1)* *Street plans* *sheet number* | *(2)* *Private means of access within the Borough of Great Yarmouth to* *be stopped up* | *(3)* *Extent of* *stopping up* | *(4)* *Private means of access within the Borough of Great Yarmouth to* *be substituted,* *and other new private* *means of access* *to be provided* |
 | --- | --- | --- | --- |
@@ -65,7 +65,7 @@ In relating this Schedule to the corresponding street plans, the provisions desc
 | Sheet 2 | Ref B31<br>Access to the Atlas Terminal, South Denes Road | A length from its junction with the existing A1243 South Denes Road, for a distance of 12 metres | Ref 13<br>A new private means of access from the improved A1243 South Denes Road for a distance of 9 metres westwards to serve the Atlas Terminal |
 | Sheet 2 | Ref B32<br>Access to the Atlas Terminal (Scroby Sands Offshore Wind Farm, Operations and Maintenance Facility), Southgates Road | A length from its junction with the existing A1243 Southgates Road for a distance of 10 metres | Ref 14<br>A new private means of access from the improved A1243 Southgates Road for a distance of 7 metres westwards to serve the Atlas Terminal (Scroby Sands Offshore Wind Farm, Operations and Maintenance Facility) |
 
-### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-22703e5f6433845f3d3cf1414c5f7b46]
+### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-22703e5f6433845f3d3cf1414c5f7b46]
 
 | *(1)* *Street plans sheet number* | *(2)* *Private means of access within the Borough of Great Yarmouth to be* *stopped up* | *(3)* *Extent of stopping up* |
 | --- | --- | --- |
@@ -101,10 +101,10 @@ In relating this Schedule to the corresponding street plans, the provisions desc
 
 ## Annotations
 
-[^key-3c7945392c43d85673ceeadddffb1d48]: Commencement: Sch. 4 Pt. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-3c7945392c43d85673ceeadddffb1d48]: Commencement: Sch. 4 Pt. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-e42945b4ec3b11b2309e223a61b19361]: Commencement: Sch. 4 Pt. 2 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-e42945b4ec3b11b2309e223a61b19361]: Commencement: Sch. 4 Pt. 2 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-aa77170d8fa4f7591491b8a3e59a4914]: Commencement: Sch. 4 Pt. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-aa77170d8fa4f7591491b8a3e59a4914]: Commencement: Sch. 4 Pt. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-22703e5f6433845f3d3cf1414c5f7b46]: Commencement: Sch. 4 Pt. 4 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-22703e5f6433845f3d3cf1414c5f7b46]: Commencement: Sch. 4 Pt. 4 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

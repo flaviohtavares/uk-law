@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Calculations[^key-88e3b703d41442f00b1b2426c3a03af0]
+## 45. Calculations[^c-88e3b703d41442f00b1b2426c3a03af0]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88e3b703d41442f00b1b2426c3a03af0]: Commencement: Reg. 45 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-88e3b703d41442f00b1b2426c3a03af0]: Commencement: Reg. 45 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Constituencies, regions and regional members[^key-1c70198f6cca244cb1b25cc1140cb09d]
+## 8. Constituencies, regions and regional members[^c-1c70198f6cca244cb1b25cc1140cb09d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c70198f6cca244cb1b25cc1140cb09d]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2012/11/section/8) in force at 31.10.2012 by [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/a)
+[^c-1c70198f6cca244cb1b25cc1140cb09d]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2012/11/section/8) in force at 31.10.2012 by [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/a)

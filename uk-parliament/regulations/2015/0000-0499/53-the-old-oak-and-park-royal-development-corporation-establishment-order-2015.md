@@ -46,17 +46,17 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 198 of the Localism Act 2011[^f00001] (“the 2011 Act”), having been notified of the designation of a Mayoral development area and of the name to be given to the Mayoral development corporation for the area, by the Mayor of London under section 197(6)(b) and (c) of the 2011 Act, makes the following Order.
 
-## 1. Citation and commencement[^key-e4436cdd6bbe2820ad7c868d98678639]
+## 1. Citation and commencement[^c-e4436cdd6bbe2820ad7c868d98678639]
 
 This Order may be cited as the Old Oak and Park Royal Development Corporation (Establishment) Order 2015 and comes into force on 1st April 2015.
 
-## 2. Mayoral development area[^key-d731b3f8f071ead258a713726c2396b5]
+## 2. Mayoral development area[^c-d731b3f8f071ead258a713726c2396b5]
 
 (1) The Mayoral development area is the area of land in Greater London, shown bounded externally by the inside edge of the black line on the map.
 
-(2) In paragraph (1), “the map” means the map marked “Map referred to in the Old Oak and Park Royal Development Corporation (Establishment) Order 2015” of which prints signed by a Director in the Department for Communities and Local Government have been deposited, and are available for inspection, at the offices of the Secretary of State for Housing, Communities and Local Government[^key-cec433f09aabe7554f0ad77028f4209b] and at the offices of the Greater London Authority.
+(2) In paragraph (1), “the map” means the map marked “Map referred to in the Old Oak and Park Royal Development Corporation (Establishment) Order 2015” of which prints signed by a Director in the Department for Communities and Local Government have been deposited, and are available for inspection, at the offices of the Secretary of State for Housing, Communities and Local Government[^c-cec433f09aabe7554f0ad77028f4209b] and at the offices of the Greater London Authority.
 
-## 3. Establishment and naming of the Old Oak and Park Royal Development Corporation[^key-841a11a7302a95b3cbe43e144347c375]
+## 3. Establishment and naming of the Old Oak and Park Royal Development Corporation[^c-841a11a7302a95b3cbe43e144347c375]
 
 There is established a corporation for the Mayoral development area named the “Old Oak and Park Royal Development Corporation”.
 
@@ -82,10 +82,10 @@ A full impact assessment has not been prepared for this Order as no impact on th
 
 [^f00001]: Footnote: [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20). “Mayoral development corporation” has the meaning given in section 196 of the 2011 Act.
 
-[^key-e4436cdd6bbe2820ad7c868d98678639]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/53/article/1) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/53/article/1)
+[^c-e4436cdd6bbe2820ad7c868d98678639]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/53/article/1) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/53/article/1)
 
-[^key-d731b3f8f071ead258a713726c2396b5]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/53/article/2) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/53/article/1)
+[^c-d731b3f8f071ead258a713726c2396b5]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/53/article/2) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/53/article/1)
 
-[^key-cec433f09aabe7554f0ad77028f4209b]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/53/article/2/2) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/19) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-cec433f09aabe7554f0ad77028f4209b]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/53/article/2/2) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/19) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
-[^key-841a11a7302a95b3cbe43e144347c375]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/53/article/3) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/53/article/1)
+[^c-841a11a7302a95b3cbe43e144347c375]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/53/article/3) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/53/article/1)

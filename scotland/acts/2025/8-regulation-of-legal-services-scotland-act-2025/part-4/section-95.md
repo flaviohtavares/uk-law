@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Lord President’s functions under Parts 1 and 2: rule-making making power[^key-da6b8660fe604d7004790d8d0f916c23][^key-80eab17e3c0aec446d5276d8a0af9795]
+## 95. Lord President’s functions under Parts 1 and 2: rule-making making power[^c-da6b8660fe604d7004790d8d0f916c23][^c-80eab17e3c0aec446d5276d8a0af9795]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da6b8660fe604d7004790d8d0f916c23]: Commencement: S. 95 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-da6b8660fe604d7004790d8d0f916c23]: Commencement: S. 95 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-80eab17e3c0aec446d5276d8a0af9795]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2025/8/section/95) in force at 5.3.2026 by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-80eab17e3c0aec446d5276d8a0af9795]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2025/8/section/95) in force at 5.3.2026 by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

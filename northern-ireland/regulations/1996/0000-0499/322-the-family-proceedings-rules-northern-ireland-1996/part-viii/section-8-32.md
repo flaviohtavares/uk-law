@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8.32. Removal of \[ ... county court order\] into High Court[^f00384][^key-b3a943b47d9785b5f6ccda63dafca3bf]
+## 8.32. Removal of \[ ... county court order\] into High Court[^f00384][^c-b3a943b47d9785b5f6ccda63dafca3bf]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ Any order made by a county court in matrimonial proceedings \[[^f00385] or civil
 
 [^f00384]: Footnote: Words substituted by [S.R. 2005 No. 497](https://www.legislation.gov.uk/nisr/2005/497) with effect from 05.12.05
 
-[^key-b3a943b47d9785b5f6ccda63dafca3bf]: Textual amendment: Word in [rule 8.32](https://www.legislation.gov.uk/nisr/1996/322/article/8.32) heading omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(31)](https://www.legislation.gov.uk/nisr/2016/301/article/2/31); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b3a943b47d9785b5f6ccda63dafca3bf]: Textual amendment: Word in [rule 8.32](https://www.legislation.gov.uk/nisr/1996/322/article/8.32) heading omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(31)](https://www.legislation.gov.uk/nisr/2016/301/article/2/31); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00385]: Footnote: Words inserted by [S.R. 2005 No. 497](https://www.legislation.gov.uk/nisr/2005/497) with effect from 05.12.05

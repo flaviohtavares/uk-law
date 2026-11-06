@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Provision of information or advice[^key-8bf4e157df065cd158ea0a30bda622b9]
+## 51. Provision of information or advice[^c-8bf4e157df065cd158ea0a30bda622b9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If requested to do so by the Welsh Ministers, Qualifications Wales must provide 
 
 ## Annotations
 
-[^key-8bf4e157df065cd158ea0a30bda622b9]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2015/5/section/51) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-8bf4e157df065cd158ea0a30bda622b9]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2015/5/section/51) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

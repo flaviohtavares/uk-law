@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Application for re-tests following first examinations or periodical tests[^key-d6c7623f1fed01cfeceec165913624d7][^M_F_b8b552ba-46ab-42ba-f542-424cb1ac3845]
+## 15. Application for re-tests following first examinations or periodical tests[^c-d6c7623f1fed01cfeceec165913624d7][^M_F_b8b552ba-46ab-42ba-f542-424cb1ac3845]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d6c7623f1fed01cfeceec165913624d7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1988/1478/regulation/15) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-d6c7623f1fed01cfeceec165913624d7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1988/1478/regulation/15) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
 
 [^M_F_b8b552ba-46ab-42ba-f542-424cb1ac3845]: Textual amendment: Reg. 15 substituted (1.10.1993) by [The Goods Vehicles (Plating and Testing) (Amendment) Regulations 1993 (S.I. 1993/2048)](https://www.legislation.gov.uk/uksi/1993/2048), [regs. 1](https://www.legislation.gov.uk/uksi/1993/2048/regulation/1), [5](https://www.legislation.gov.uk/uksi/1993/2048/regulation/5)

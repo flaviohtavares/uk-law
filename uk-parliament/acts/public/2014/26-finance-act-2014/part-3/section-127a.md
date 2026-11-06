@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127A. General betting duty charge on remote bets[^key-e5d2354802f2c262439d70a168bd32c9]
+## 127A. General betting duty charge on remote bets[^c-e5d2354802f2c262439d70a168bd32c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5d2354802f2c262439d70a168bd32c9]: Textual amendment: [S. 127A](https://www.legislation.gov.uk/ukpga/2014/26/section/127A) inserted (for accounting periods beginning on or after 1.4.2027) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 87(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/4)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/7) (with [s. 87(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/8)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/9))
+[^c-e5d2354802f2c262439d70a168bd32c9]: Textual amendment: [S. 127A](https://www.legislation.gov.uk/ukpga/2014/26/section/127A) inserted (for accounting periods beginning on or after 1.4.2027) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 87(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/4)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/7) (with [s. 87(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/8)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/9))

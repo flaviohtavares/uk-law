@@ -35,28 +35,28 @@ on the adjustments to Member States’ annual emission allocations for the perio
 
 (2013/634/EU) (revoked)
 
-[^key-f4b232ff3f6b7d3a50b0ca70d824f403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f4b232ff3f6b7d3a50b0ca70d824f403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-f4b232ff3f6b7d3a50b0ca70d824f403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f4b232ff3f6b7d3a50b0ca70d824f403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f4b232ff3f6b7d3a50b0ca70d824f403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f4b232ff3f6b7d3a50b0ca70d824f403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-f4b232ff3f6b7d3a50b0ca70d824f403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-f4b232ff3f6b7d3a50b0ca70d824f403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4b232ff3f6b7d3a50b0ca70d824f403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f4b232ff3f6b7d3a50b0ca70d824f403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-f4b232ff3f6b7d3a50b0ca70d824f403]
+## ANNEX I[^c-f4b232ff3f6b7d3a50b0ca70d824f403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-f4b232ff3f6b7d3a50b0ca70d824f403]
+## ANNEX II[^c-f4b232ff3f6b7d3a50b0ca70d824f403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f4b232ff3f6b7d3a50b0ca70d824f403]: Textual amendment: Decision revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)
+[^c-f4b232ff3f6b7d3a50b0ca70d824f403]: Textual amendment: Decision revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)

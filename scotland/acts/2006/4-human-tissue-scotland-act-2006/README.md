@@ -45,7 +45,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 1 — Duties of the Scottish Ministers as respects transplantation, donation of body parts etc.](part-1/section-1.md)
 - [Section 2 — Assistance and support](part-1/section-2.md)
 
-#### Establishment and maintenance of register[^key-133b54b5d8e022d6794c3b5a2a86aa99]
+#### Establishment and maintenance of register[^c-133b54b5d8e022d6794c3b5a2a86aa99]
 
 - [Section 2A — Establishment and maintenance of register](part-1/section-2a.md)
 - [Section 2B — Delegation of function of establishing and maintaining Register](part-1/section-2b.md)
@@ -88,7 +88,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 15 — Existing request by adult not acted on before commencement of sections 3 and 6](part-1/section-15.md)
 - [Section 16 — Offences: removal or use of part of body of deceased person for transplantation, research etc.](part-1/section-16.md)
 
-#### Pre-death procedures relating to transplantation[^key-e230affd49b4870a120a0a26ef441258]
+#### Pre-death procedures relating to transplantation[^c-e230affd49b4870a120a0a26ef441258]
 
 - [Section 16A — Meaning of “pre-death procedure”, “Type A procedure” and “Type B procedure”](part-1/section-16a.md)
 - [Section 16B — Type A procedures](part-1/section-16b.md)
@@ -186,6 +186,6 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-133b54b5d8e022d6794c3b5a2a86aa99]: Textual amendment: Ss. 2A-2D and cross-heading inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 3(2)](https://www.legislation.gov.uk/asp/2019/11/section/3/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-133b54b5d8e022d6794c3b5a2a86aa99]: Textual amendment: Ss. 2A-2D and cross-heading inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 3(2)](https://www.legislation.gov.uk/asp/2019/11/section/3/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-e230affd49b4870a120a0a26ef441258]: Textual amendment: S. 16A-16G and cross-heading inserted (11.10.2019 for specified purposes, 26.3.2021 in so far as not already in force) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 23(1)](https://www.legislation.gov.uk/asp/2019/11/section/23/1), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2019/305](https://www.legislation.gov.uk/ssi/2019/305), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2019/305/regulation/2/c); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-e230affd49b4870a120a0a26ef441258]: Textual amendment: S. 16A-16G and cross-heading inserted (11.10.2019 for specified purposes, 26.3.2021 in so far as not already in force) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 23(1)](https://www.legislation.gov.uk/asp/2019/11/section/23/1), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2019/305](https://www.legislation.gov.uk/ssi/2019/305), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2019/305/regulation/2/c); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

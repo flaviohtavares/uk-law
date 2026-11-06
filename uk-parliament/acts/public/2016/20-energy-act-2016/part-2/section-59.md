@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Procedure for enforcement decisions[^key-ba9572848414c6b107cb2c9b28d3055d]
+## 59. Procedure for enforcement decisions[^c-ba9572848414c6b107cb2c9b28d3055d]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba9572848414c6b107cb2c9b28d3055d]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2016/20/section/59) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-ba9572848414c6b107cb2c9b28d3055d]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2016/20/section/59) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

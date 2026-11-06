@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27B. Power to make determinations in relation to persons transferred to Scotland[^key-1dc18b0f3249cbde8dfa0c71cf069842]
+## 27B. Power to make determinations in relation to persons transferred to Scotland[^c-1dc18b0f3249cbde8dfa0c71cf069842]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dc18b0f3249cbde8dfa0c71cf069842]: Textual amendment: S. 27B inserted (11.2.2025) by [Prisoners (Early Release) (Scotland) Act 2025 (asp 1)](https://www.legislation.gov.uk/asp/2025/1), [ss. 4(2)](https://www.legislation.gov.uk/asp/2025/1/section/4/2), [8(2)](https://www.legislation.gov.uk/asp/2025/1/section/8/2) (with [sch. paras. 3](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/3), [4](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/4)); [S.S.I. 2025/17](https://www.legislation.gov.uk/ssi/2025/17), [reg. 2](https://www.legislation.gov.uk/ssi/2025/17/regulation/2)
+[^c-1dc18b0f3249cbde8dfa0c71cf069842]: Textual amendment: S. 27B inserted (11.2.2025) by [Prisoners (Early Release) (Scotland) Act 2025 (asp 1)](https://www.legislation.gov.uk/asp/2025/1), [ss. 4(2)](https://www.legislation.gov.uk/asp/2025/1/section/4/2), [8(2)](https://www.legislation.gov.uk/asp/2025/1/section/8/2) (with [sch. paras. 3](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/3), [4](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/4)); [S.S.I. 2025/17](https://www.legislation.gov.uk/ssi/2025/17), [reg. 2](https://www.legislation.gov.uk/ssi/2025/17/regulation/2)

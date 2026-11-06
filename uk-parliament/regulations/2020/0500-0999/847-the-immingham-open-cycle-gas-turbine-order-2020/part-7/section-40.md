@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Service of notices[^key-d2a7a331a579e9994f7c654b603d103d]
+## 40. Service of notices[^c-d2a7a331a579e9994f7c654b603d103d]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) For the purposes of section 7 (references to service by post) of the Interpretation Act 1978 [^c24261601] as it applies for the purposes of this article, the proper address of any person in relation to the service on that person of a notice or document under paragraph (1) is, if that person has given an address for service, that address and otherwise—
 
-- (a) in the case of the secretary or clerk[^key-d2ae97f6bb49e1b045633c45fe207cdf] of that body corporate, the registered or principal office of that body; and
+- (a) in the case of the secretary or clerk[^c-d2ae97f6bb49e1b045633c45fe207cdf] of that body corporate, the registered or principal office of that body; and
 - (b) in any other case, the last known address of that person at that time of service.
 
 (4) Where for the purposes of this Order a notice or other document is required or authorised to be served on a person as having an interest in, or as the occupier of, land and the name or address of that person cannot be ascertained after reasonable enquiry, the notice may be served by—
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d2a7a331a579e9994f7c654b603d103d]: Commencement: Art. 40 in force at 1.9.2020, see art. 1
+[^c-d2a7a331a579e9994f7c654b603d103d]: Commencement: Art. 40 in force at 1.9.2020, see art. 1
 
 [^c24261601]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30). Section 7 was amended by section 144 and paragraph 19 of Schedule 10 to the [Road Traffic Regulation Act 1984 (c.27)](https://www.legislation.gov.uk/ukpga/1984/27). There are other amendments not relevant to this Order.
 
-[^key-d2ae97f6bb49e1b045633c45fe207cdf]: Textual amendment: Words in [art. 40(3)(a)](https://www.legislation.gov.uk/uksi/2020/847/article/40/3/a) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-d2ae97f6bb49e1b045633c45fe207cdf]: Textual amendment: Words in [art. 40(3)(a)](https://www.legislation.gov.uk/uksi/2020/847/article/40/3/a) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)

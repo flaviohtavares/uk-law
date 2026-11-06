@@ -46,26 +46,26 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 17(4) of the Limited Liability Partnerships Act 2000, a draft of these Regulations has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-0305fae95ec09cf7af9bddc11877d678]
+## 1. Citation and commencement[^c-0305fae95ec09cf7af9bddc11877d678]
 
 (1) These Regulations may be cited as the Limited Liability Partnerships (Reporting on Payment Practices and Performance) Regulations 2017.
 
 (2) These Regulations come into force on 6th April 2017.
 
-(3) These Regulations cease to have effect on 6th April 2031[^key-bcd0153eefbd7e62c77e20a3f0cc20ba].
+(3) These Regulations cease to have effect on 6th April 2031[^c-bcd0153eefbd7e62c77e20a3f0cc20ba].
 
-## 2. Interpretation[^key-3cb4e046b7101786a4519c6f66aff6b2]
+## 2. Interpretation[^c-3cb4e046b7101786a4519c6f66aff6b2]
 
 In these Regulations—
 
 - “limited liability partnership” means a limited liability partnership registered under the Limited Liability Partnerships Act 2000;
 - “the Principal Regulations” means the Reporting on Payment Practices and Performance Regulations 2017[^f00002].
 
-## 3. Application of the Principal Regulations to limited liability partnerships[^key-e63010c7ff6db5d704fc37a2dfc1f8e0]
+## 3. Application of the Principal Regulations to limited liability partnerships[^c-e63010c7ff6db5d704fc37a2dfc1f8e0]
 
 The provisions of the Principal Regulations apply to limited liability partnerships with the modifications set out for this purpose in regulations 4 to 10.
 
-**4.**[^key-782342c0ee1c0ec6b65ddc19ce246ecf] Regulation 2 of the Principal Regulations (interpretation) shall read as if—
+**4.**[^c-782342c0ee1c0ec6b65ddc19ce246ecf] Regulation 2 of the Principal Regulations (interpretation) shall read as if—
 
 - (a) the definition of “director” were omitted;
 - (b) the definition of “financial year” were—
@@ -92,15 +92,15 @@ The provisions of the Principal Regulations apply to limited liability partnersh
 
   .
 
-**5.**[^key-52c9e0bd0486af7be6d47dcc91fc090d] Regulation 3 of the Principal Regulations (duty to publish information on payment practices, policies and performance) shall read as if references to “company” were to “LLP”.
+**5.**[^c-52c9e0bd0486af7be6d47dcc91fc090d] Regulation 3 of the Principal Regulations (duty to publish information on payment practices, policies and performance) shall read as if references to “company” were to “LLP”.
 
-**6.**[^key-75604e7ea99b8793cb3e606136fa6e15] Regulation 4 of the Principal Regulations (approval of the information) shall read as if the words of that regulation were—
+**6.**[^c-75604e7ea99b8793cb3e606136fa6e15] Regulation 4 of the Principal Regulations (approval of the information) shall read as if the words of that regulation were—
 
 > **4. Approval of the information**
 >
 > A qualifying LLP’s information for a reporting period must be approved by a designated member of that LLP before it is published.
 
-**7.**[^key-1df264be9b06973550e390f6689b4643] Regulation 5 of the Principal Regulations (companies to which the duty applies) shall read as if the words of that regulation were—
+**7.**[^c-1df264be9b06973550e390f6689b4643] Regulation 5 of the Principal Regulations (companies to which the duty applies) shall read as if the words of that regulation were—
 
 > **5. LLPs to which the duty applies**
 >
@@ -141,12 +141,12 @@ The provisions of the Principal Regulations apply to limited liability partnersh
 >
 > (7) For the purposes of determining whether an LLP is a qualifying LLP in financial year X, the LLP is to be treated as if the general thresholds or group thresholds which apply to financial year X had also applied to the two preceding financial years.
 
-**8.**[^key-4868463b8c61093bffc42c02c137524f] Regulation 7 of the Principal Regulations (periods in relation to which information must be published) shall read as if—
+**8.**[^c-4868463b8c61093bffc42c02c137524f] Regulation 7 of the Principal Regulations (periods in relation to which information must be published) shall read as if—
 
 - (a) the words “company” and “company’s”, wherever they appear, were “LLP” and “LLP’s”;
 - (b) the references to sections 391 and 392 of the 2006 Act were to those sections as applied and modified by regulation 7 of the 2008 Regulations.
 
-**9.**[^key-8a902a5e579de860db2bbb83515dfb8a] Regulation 8 of the Principal Regulations (failure to publish a report) shall read as if—
+**9.**[^c-8a902a5e579de860db2bbb83515dfb8a] Regulation 8 of the Principal Regulations (failure to publish a report) shall read as if—
 
 - (a) the words of paragraph (1) were—
 
@@ -155,21 +155,21 @@ The provisions of the Principal Regulations apply to limited liability partnersh
   ;
 - (b) in paragraph (2), the references to “director” were to “designated member”.
 
-**10.**[^key-85e29affbac0a0ad07b4a21f6a70f2aa] Schedule 1[^M_F_d5f6bd51-0e73-42a5-9b99-096b863c656a] to the Principal Regulations (information) shall read as if—
+**10.**[^c-85e29affbac0a0ad07b4a21f6a70f2aa] Schedule 1[^M_F_d5f6bd51-0e73-42a5-9b99-096b863c656a] to the Principal Regulations (information) shall read as if—
 
 - (a) the words “a company”, “company” and “company’s” wherever they appear were “an LLP”, “LLP” and “LLP’s”;
 - (b) in paragraph 12, the reference to the “director” were to the “designated member”.
 
-## 10A. Application of the Principal Regulations to limited liability partnerships (qualifying construction contracts)[^key-868ffa2737c968b0a6a77cd068bcd1fe]
+## 10A. Application of the Principal Regulations to limited liability partnerships (qualifying construction contracts)[^c-868ffa2737c968b0a6a77cd068bcd1fe]
 
 Schedule 2 to the Principal Regulations (information in relation to qualifying construction contracts) shall be read as if—
 
 - (a) the word “company” and “company’s” wherever they appear were “LLP” and “LLP’s”;
 - (b) in paragraph 12, the reference to the “**director**” were to the “designated member”.
 
-## 11. Review[^key-8e9665a02e55b34f5232cb73bc72a2e9]
+## 11. Review[^c-8e9665a02e55b34f5232cb73bc72a2e9]
 
-(1) Before 6th April 2029[^key-b4fd1021ca62bf83a10692556a2ccb31] the Secretary of State must—
+(1) Before 6th April 2029[^c-b4fd1021ca62bf83a10692556a2ccb31] the Secretary of State must—
 
 - (a) carry out a review of these Regulations,
 - (b) set out the conclusions of the review in a report, and
@@ -205,27 +205,27 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12).
 
-[^key-0305fae95ec09cf7af9bddc11877d678]: Commencement: Reg. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
+[^c-0305fae95ec09cf7af9bddc11877d678]: Commencement: Reg. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
 
-[^key-bcd0153eefbd7e62c77e20a3f0cc20ba]: Textual amendment: Words in reg. 1(3) substituted (5.4.2024) by [The Reporting on Payment Practices and Performance (Amendment) Regulations 2024 (S.I. 2024/444)](https://www.legislation.gov.uk/uksi/2024/444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/444/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/444/regulation/3/2)
+[^c-bcd0153eefbd7e62c77e20a3f0cc20ba]: Textual amendment: Words in reg. 1(3) substituted (5.4.2024) by [The Reporting on Payment Practices and Performance (Amendment) Regulations 2024 (S.I. 2024/444)](https://www.legislation.gov.uk/uksi/2024/444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/444/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/444/regulation/3/2)
 
-[^key-3cb4e046b7101786a4519c6f66aff6b2]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
+[^c-3cb4e046b7101786a4519c6f66aff6b2]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2017/395](https://www.legislation.gov.uk/uksi/2017/395)
 
-[^key-e63010c7ff6db5d704fc37a2dfc1f8e0]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
+[^c-e63010c7ff6db5d704fc37a2dfc1f8e0]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
 
-[^key-782342c0ee1c0ec6b65ddc19ce246ecf]: Commencement: Reg. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
+[^c-782342c0ee1c0ec6b65ddc19ce246ecf]: Commencement: Reg. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911).
 
 [^f00004]: Footnote: [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12); section 8 was amended by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804).
 
-[^key-52c9e0bd0486af7be6d47dcc91fc090d]: Commencement: Reg. 5 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
+[^c-52c9e0bd0486af7be6d47dcc91fc090d]: Commencement: Reg. 5 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
 
-[^key-75604e7ea99b8793cb3e606136fa6e15]: Commencement: Reg. 6 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
+[^c-75604e7ea99b8793cb3e606136fa6e15]: Commencement: Reg. 6 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
 
-[^key-1df264be9b06973550e390f6689b4643]: Commencement: Reg. 7 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
+[^c-1df264be9b06973550e390f6689b4643]: Commencement: Reg. 7 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
 
 [^f00005]: Footnote: Section 465(3) was amended by [S.I. 2015/980](https://www.legislation.gov.uk/uksi/2015/980).
 
@@ -237,16 +237,16 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00009]: Footnote: There are amendments to regulation 55 but none is relevant to these Regulations.
 
-[^key-4868463b8c61093bffc42c02c137524f]: Commencement: Reg. 8 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
+[^c-4868463b8c61093bffc42c02c137524f]: Commencement: Reg. 8 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
 
-[^key-8a902a5e579de860db2bbb83515dfb8a]: Commencement: Reg. 9 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
+[^c-8a902a5e579de860db2bbb83515dfb8a]: Commencement: Reg. 9 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
 
-[^key-85e29affbac0a0ad07b4a21f6a70f2aa]: Commencement: Reg. 10 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
+[^c-85e29affbac0a0ad07b4a21f6a70f2aa]: Commencement: Reg. 10 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
 
 [^M_F_d5f6bd51-0e73-42a5-9b99-096b863c656a]: Textual amendment: Words in reg.10 substituted (1.3.2025 in relation to each financial year of a limited liability partnership beginning on or after 1.4.2025) by [The Reporting on Payment Practices and Performance (Amendment) Regulations 2025 (S.I. 2025/75)](https://www.legislation.gov.uk/uksi/2025/75), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/75/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/75/regulation/1/5), [8(2)](https://www.legislation.gov.uk/uksi/2025/75/regulation/8/3)
 
-[^key-868ffa2737c968b0a6a77cd068bcd1fe]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2017/425/regulation/10A) inserted (1.3.2025 in relation to each financial year of a limited liability partnership beginning on or after 1.4.2025) by [The Reporting on Payment Practices and Performance (Amendment) Regulations 2025 (S.I. 2025/75)](https://www.legislation.gov.uk/uksi/2025/75), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/75/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/75/regulation/1/5), [8(3)](https://www.legislation.gov.uk/uksi/2025/75/regulation/8/3)
+[^c-868ffa2737c968b0a6a77cd068bcd1fe]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2017/425/regulation/10A) inserted (1.3.2025 in relation to each financial year of a limited liability partnership beginning on or after 1.4.2025) by [The Reporting on Payment Practices and Performance (Amendment) Regulations 2025 (S.I. 2025/75)](https://www.legislation.gov.uk/uksi/2025/75), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/75/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/75/regulation/1/5), [8(3)](https://www.legislation.gov.uk/uksi/2025/75/regulation/8/3)
 
-[^key-8e9665a02e55b34f5232cb73bc72a2e9]: Commencement: Reg. 11 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
+[^c-8e9665a02e55b34f5232cb73bc72a2e9]: Commencement: Reg. 11 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/425/regulation/1/2)
 
-[^key-b4fd1021ca62bf83a10692556a2ccb31]: Textual amendment: Words in reg. 11(1) substituted (5.4.2024) by [The Reporting on Payment Practices and Performance (Amendment) Regulations 2024 (S.I. 2024/444)](https://www.legislation.gov.uk/uksi/2024/444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/444/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/444/regulation/3/3)
+[^c-b4fd1021ca62bf83a10692556a2ccb31]: Textual amendment: Words in reg. 11(1) substituted (5.4.2024) by [The Reporting on Payment Practices and Performance (Amendment) Regulations 2024 (S.I. 2024/444)](https://www.legislation.gov.uk/uksi/2024/444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/444/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/444/regulation/3/3)

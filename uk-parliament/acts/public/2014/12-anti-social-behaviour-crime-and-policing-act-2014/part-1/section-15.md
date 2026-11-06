@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Appeals against decisions of youth courts[^key-09b11549c20499c013dbafd1752c7fdf]
+## 15. Appeals against decisions of youth courts[^c-09b11549c20499c013dbafd1752c7fdf]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09b11549c20499c013dbafd1752c7fdf]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/12/section/15) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)
+[^c-09b11549c20499c013dbafd1752c7fdf]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/12/section/15) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)

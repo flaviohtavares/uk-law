@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3B — Model clauses for landward petroleum exploration licences granted by the Welsh Minsters[^key-193127bf8c0b0aadfd749cb0d3fec4db]
+## SCHEDULE 3B — Model clauses for landward petroleum exploration licences granted by the Welsh Minsters[^c-193127bf8c0b0aadfd749cb0d3fec4db]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ The Licensee must at all times keep the Secretary of State and the OGA effectual
 
 ## Annotations
 
-[^key-193127bf8c0b0aadfd749cb0d3fec4db]: Textual amendment: [Sch. 3B](https://www.legislation.gov.uk/uksi/2014/1686/schedule/3B) inserted (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/980/schedule/2) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
+[^c-193127bf8c0b0aadfd749cb0d3fec4db]: Textual amendment: [Sch. 3B](https://www.legislation.gov.uk/uksi/2014/1686/schedule/3B) inserted (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/980/schedule/2) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))

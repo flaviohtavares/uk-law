@@ -30,7 +30,7 @@ Sections 1139 to 1142 apply to LLPs, modified so that they read as follows—
 >
 > **1140. Service of documents on members and others**
 >
-> (1)[^key-2b9916357b3727a6f8d44eb700862be7] A document may be served on a person to whom this section applies by leaving it at, or sending it by post to, the person’s registered address.
+> (1)[^c-2b9916357b3727a6f8d44eb700862be7] A document may be served on a person to whom this section applies by leaving it at, or sending it by post to, the person’s registered address.
 >
 > (1A) A document may be served on—
 >
@@ -65,4 +65,4 @@ Sections 1139 to 1142 apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-2b9916357b3727a6f8d44eb700862be7]: Textual amendment: Words in [reg. 75](https://www.legislation.gov.uk/uksi/2009/1804/regulation/75) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [44(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/44/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-2b9916357b3727a6f8d44eb700862be7]: Textual amendment: Words in [reg. 75](https://www.legislation.gov.uk/uksi/2009/1804/regulation/75) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [44(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/44/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

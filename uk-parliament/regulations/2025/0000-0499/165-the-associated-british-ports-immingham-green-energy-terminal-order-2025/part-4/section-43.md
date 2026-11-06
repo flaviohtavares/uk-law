@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Area of jurisdiction to form part of the undertaking and application of byelaws[^key-d43c486b980f8803306233426bf448c1]
+## 43. Area of jurisdiction to form part of the undertaking and application of byelaws[^c-d43c486b980f8803306233426bf448c1]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d43c486b980f8803306233426bf448c1]: Commencement: Art. 43 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-d43c486b980f8803306233426bf448c1]: Commencement: Art. 43 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

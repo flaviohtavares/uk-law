@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Powers to reduce, waive or suspend penalties[^key-b45aef62f41c572cddf42e2b3973b2c0]
+## 18. Powers to reduce, waive or suspend penalties[^c-b45aef62f41c572cddf42e2b3973b2c0]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b45aef62f41c572cddf42e2b3973b2c0]: Commencement: S. 18 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-b45aef62f41c572cddf42e2b3973b2c0]: Commencement: S. 18 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)

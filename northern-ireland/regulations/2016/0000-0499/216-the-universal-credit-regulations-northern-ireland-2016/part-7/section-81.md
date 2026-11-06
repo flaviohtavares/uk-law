@@ -27,8 +27,8 @@ summary: ''
 
 (2) No reduction is to be applied where the amount of the childcare costs element is greater than the excess.
 
-(3) The excess is the total amount of welfare benefits that the single person or the couple are entitled to in the reference period, minus the relevant amount determined under regulation 80A (relevant amount)[^key-53b30cb0a1a94019d50d5c25450c1237].
+(3) The excess is the total amount of welfare benefits that the single person or the couple are entitled to in the reference period, minus the relevant amount determined under regulation 80A (relevant amount)[^c-53b30cb0a1a94019d50d5c25450c1237].
 
 ## Annotations
 
-[^key-53b30cb0a1a94019d50d5c25450c1237]: Textual amendment: Words in reg. 81(3) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/375)](https://www.legislation.gov.uk/nisr/2016/375), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/375/regulation/1/3), [3(5)](https://www.legislation.gov.uk/nisr/2016/375/regulation/3/5)
+[^c-53b30cb0a1a94019d50d5c25450c1237]: Textual amendment: Words in reg. 81(3) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/375)](https://www.legislation.gov.uk/nisr/2016/375), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/375/regulation/1/3), [3(5)](https://www.legislation.gov.uk/nisr/2016/375/regulation/3/5)

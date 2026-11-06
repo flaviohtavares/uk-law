@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Extent[^key-e2f0ec8e5d97a453fa3cbf308f25174b]
+## 50. Extent[^c-e2f0ec8e5d97a453fa3cbf308f25174b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
 ## Annotations
 
-[^key-e2f0ec8e5d97a453fa3cbf308f25174b]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-e2f0ec8e5d97a453fa3cbf308f25174b]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Guarantees in respect of payment of compensation[^key-8d583f0fd18d5329a728ecf66221da66]
+## 24. Guarantees in respect of payment of compensation[^c-8d583f0fd18d5329a728ecf66221da66]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d583f0fd18d5329a728ecf66221da66]: Commencement: Art. 24 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-8d583f0fd18d5329a728ecf66221da66]: Commencement: Art. 24 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

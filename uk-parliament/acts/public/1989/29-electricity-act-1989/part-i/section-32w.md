@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32W. Section 32V: transitional provision and savings[^key-bf1ca1fcb0fef0dc601e59e0241ca51a]
+## 32W. Section 32V: transitional provision and savings[^c-bf1ca1fcb0fef0dc601e59e0241ca51a]
 
 *Extent: E+W+S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf1ca1fcb0fef0dc601e59e0241ca51a]: Textual amendment: Ss. 32N-32Z2 inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/56/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
+[^c-bf1ca1fcb0fef0dc601e59e0241ca51a]: Textual amendment: Ss. 32N-32Z2 inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/56/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)

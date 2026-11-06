@@ -36,7 +36,7 @@ supplementing Regulation (EU) No 648/2012 of the European Parliament and of the 
 
 (Text with EEA relevance)
 
-[^key-3c14fb2c4b1ff5896facab3ad275edbb][^key-1586ebfed202930cdc68c51393c21bd8]
+[^c-3c14fb2c4b1ff5896facab3ad275edbb][^c-1586ebfed202930cdc68c51393c21bd8]
 
 THE EUROPEAN COMMISSION,
 
@@ -386,7 +386,7 @@ The first subparagraph shall apply to any underlying UCITS of a UCITS that has u
 
 5. Counterparties shall not use assets classes referred to in Article 4(1) as collateral where they have no access to the market for those assets or where they are unable to liquidate those assets in a timely manner in case of default of the posting counterparty.
 
-#### Article 8. Concentration limits for initial margin[^key-7ab5559dd6cd04705407dcebc4c96f3c]
+#### Article 8. Concentration limits for initial margin[^c-7ab5559dd6cd04705407dcebc4c96f3c]
 
 1. Where collateral is collected as initial margin in accordance with Article 13, the following limits shall apply for each collecting counterparty:
 
@@ -1135,9 +1135,9 @@ The following treatment shall be applied to contracts which fall within more tha
 
 ## Annotations
 
-[^key-3c14fb2c4b1ff5896facab3ad275edbb]: Modification: The “appropriate regulator” has power to make such provision as they consider appropriate by means of an instrument in writing to prevent, remedy or mitigate any failure of the provisions of this Regulation to operate effectively or any other deficiency arising from the withdrawal of the United Kingdom from the EU, see The Financial Regulators' Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1115/regulation/2), [3](https://www.legislation.gov.uk/uksi/2018/1115/regulation/3), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/4) (with saving on [I](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/I)P completion day by S.I. 2019/680, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-3c14fb2c4b1ff5896facab3ad275edbb]: Modification: The “appropriate regulator” has power to make such provision as they consider appropriate by means of an instrument in writing to prevent, remedy or mitigate any failure of the provisions of this Regulation to operate effectively or any other deficiency arising from the withdrawal of the United Kingdom from the EU, see The Financial Regulators' Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1115/regulation/2), [3](https://www.legislation.gov.uk/uksi/2018/1115/regulation/3), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/4) (with saving on [I](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/I)P completion day by S.I. 2019/680, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-1586ebfed202930cdc68c51393c21bd8]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-1586ebfed202930cdc68c51393c21bd8]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 201, 27.7.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.201.01.0001.01.ENG).
 
@@ -1157,7 +1157,7 @@ The following treatment shall be applied to contracts which fall within more tha
 
 [^f00009]: Footnote: Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) ([OJ L 302, 17.11.2009, p. 32](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.302.01.0032.01.ENG)).
 
-[^key-7ab5559dd6cd04705407dcebc4c96f3c]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/eur/2016/2251/article/8/3/a) (as previously modified by the Technical Standards (European Market Infrastructure) (EU Exit) (No. 3) Instrument 2019 ("EMIR No.3") made by the PRA on 9.4.2019) amended (30.11.2025) by [The Financial Services and Markets Act 2023 (Capital Buffers and Macro-prudential Measures) (Consequential Amendments) Regulations 2025 (S.I. 2025/1023)](https://www.legislation.gov.uk/uksi/2025/1023), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/1023/regulation/10)
+[^c-7ab5559dd6cd04705407dcebc4c96f3c]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/eur/2016/2251/article/8/3/a) (as previously modified by the Technical Standards (European Market Infrastructure) (EU Exit) (No. 3) Instrument 2019 ("EMIR No.3") made by the PRA on 9.4.2019) amended (30.11.2025) by [The Financial Services and Markets Act 2023 (Capital Buffers and Macro-prudential Measures) (Consequential Amendments) Regulations 2025 (S.I. 2025/1023)](https://www.legislation.gov.uk/uksi/2025/1023), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/1023/regulation/10)
 
 [^f00010]: Footnote: Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 ([OJ L 174, 1.7.2011, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.174.01.0001.01.ENG)).
 

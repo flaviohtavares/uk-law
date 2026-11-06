@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Duty to promote community planning[^key-1dbbabc83778b1a2b8ae16cec870ab16]
+## 16. Duty to promote community planning[^c-1dbbabc83778b1a2b8ae16cec870ab16]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The Scottish Ministers must promote community planning when carrying out any of 
 
 ## Annotations
 
-[^key-1dbbabc83778b1a2b8ae16cec870ab16]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2015/6/section/16) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)
+[^c-1dbbabc83778b1a2b8ae16cec870ab16]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2015/6/section/16) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)

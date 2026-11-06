@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Restriction on applying for replacement identity documents in new name[^key-e4732abb5be3b3b02729c33b030745ce]
+## 125. Restriction on applying for replacement identity documents in new name[^c-e4732abb5be3b3b02729c33b030745ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -281,4 +281,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4732abb5be3b3b02729c33b030745ce]: Commencement: S. 125 not in force at Royal Assent, see [s. 255(1)(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/7)(8)(i)
+[^c-e4732abb5be3b3b02729c33b030745ce]: Commencement: S. 125 not in force at Royal Assent, see [s. 255(1)(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/7)(8)(i)

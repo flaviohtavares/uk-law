@@ -47,7 +47,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 - (a) “the Act" means the Social Security Act 1998;
 - (b) “the Regulations" means the Social Security and Child Support (Decisions and Appeals) Regulations 1999 [^c1644927];
 - (c) “relevant benefit" means any of the benefits to which article 2(c) of this Order refers,
-- (d)[^key-0502ba7820f55c8d004e1787c9e9b95d] “relevant benefit” also means the following benefits under the Social Security Act 1975—
+- (d)[^c-0502ba7820f55c8d004e1787c9e9b95d] “relevant benefit” also means the following benefits under the Social Security Act 1975—
   - (i) sickness benefit under section 14;
   - (ii) unemployment benefit under section 14;
   - (iii) invalidity pension under section 15; and
@@ -70,9 +70,9 @@ and references to sections and Schedules are references to sections of, and Sche
 
 ## 3. Consequential amendments and modifications
 
-(1) Subject to paragraph (15)[^key-1f38f196c80d974b5eb32a47dc053083] the amendments and modifications made by the following paragraphs of this article shall take effect as from 6th September 1999.
+(1) Subject to paragraph (15)[^c-1f38f196c80d974b5eb32a47dc053083] the amendments and modifications made by the following paragraphs of this article shall take effect as from 6th September 1999.
 
-(2) The Social Security Benefit (Dependency) Regulations 1977 *(affected by repeal, see note)*[^key-80d0cbde5c55de8c01bfccb4a90e5561] [^c1644930] shall as they relate to any of the relevant benefits be modified in accordance with Schedule 2 to this Order. *(affected by repeal, see note)*[^key-80d0cbde5c55de8c01bfccb4a90e5561]
+(2) The Social Security Benefit (Dependency) Regulations 1977 *(affected by repeal, see note)*[^c-80d0cbde5c55de8c01bfccb4a90e5561] [^c1644930] shall as they relate to any of the relevant benefits be modified in accordance with Schedule 2 to this Order. *(affected by repeal, see note)*[^c-80d0cbde5c55de8c01bfccb4a90e5561]
 
 (3) Section 36(10) of the National Insurance Act 1965 as continued in force by virtue of the Social Security (Graduated Retirement Benefit) (No. 2) Regulations 1978 shall be omitted.
 
@@ -84,9 +84,9 @@ and references to sections and Schedules are references to sections of, and Sche
 
 (7) The Income Support (General) Regulations 1987 [^c1644934] shall be amended in accordance with Schedule 6 to this Order.
 
-(8)[^key-23d5aa1121269f72a74fd33e6efbc2fc] The Social Security (Claims and Payments) Regulations 1987 *(affected by repeal, see note)*[^key-80d0cbde5c55de8c01bfccb4a90e5561] [^c1644935] shall as they relate to any of the relevant benefits be modified in accordance with Schedule 7 to this Order. *(affected by repeal, see note)*[^key-80d0cbde5c55de8c01bfccb4a90e5561]
+(8)[^c-23d5aa1121269f72a74fd33e6efbc2fc] The Social Security (Claims and Payments) Regulations 1987 *(affected by repeal, see note)*[^c-80d0cbde5c55de8c01bfccb4a90e5561] [^c1644935] shall as they relate to any of the relevant benefits be modified in accordance with Schedule 7 to this Order. *(affected by repeal, see note)*[^c-80d0cbde5c55de8c01bfccb4a90e5561]
 
-(9)[^key-23d5aa1121269f72a74fd33e6efbc2fc] The Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988 *(affected by repeal, see note)*[^key-80d0cbde5c55de8c01bfccb4a90e5561] [^c1644936] shall as they relate to any of the relevant benefits be modified in accordance with Schedule 8 to this Order. *(affected by repeal, see note)*[^key-80d0cbde5c55de8c01bfccb4a90e5561]
+(9)[^c-23d5aa1121269f72a74fd33e6efbc2fc] The Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988 *(affected by repeal, see note)*[^c-80d0cbde5c55de8c01bfccb4a90e5561] [^c1644936] shall as they relate to any of the relevant benefits be modified in accordance with Schedule 8 to this Order. *(affected by repeal, see note)*[^c-80d0cbde5c55de8c01bfccb4a90e5561]
 
 (10) The Social Security (Incapacity Benefit-Increases for Dependants) Regulations 1994 [^c1644937] shall be amended in accordance with Schedule 9 to this Order.
 
@@ -96,9 +96,9 @@ and references to sections and Schedules are references to sections of, and Sche
 
 (13) The Social Security (Persons From Abroad) Miscellaneous Amendments Regulations 1996 [^c1644940] shall be amended in accordance with Schedule 12 to this Order.
 
-(14) The Social Security Benefit (Computation of Earnings) Regulations 1996 *(affected by repeal, see note)*[^key-80d0cbde5c55de8c01bfccb4a90e5561] [^c1644941] shall as they relate to any of the relevant benefits be modified in accordance with Schedule 13 to this Order. *(affected by repeal, see note)*[^key-80d0cbde5c55de8c01bfccb4a90e5561]
+(14) The Social Security Benefit (Computation of Earnings) Regulations 1996 *(affected by repeal, see note)*[^c-80d0cbde5c55de8c01bfccb4a90e5561] [^c1644941] shall as they relate to any of the relevant benefits be modified in accordance with Schedule 13 to this Order. *(affected by repeal, see note)*[^c-80d0cbde5c55de8c01bfccb4a90e5561]
 
-(15)[^key-b1779a1848e617deeeb044f515effa16] The amendments in paragraph (16) shall take effect as from 16th October 2006.
+(15)[^c-b1779a1848e617deeeb044f515effa16] The amendments in paragraph (16) shall take effect as from 16th October 2006.
 
 (16) In the Social Security (Incapacity Benefit) (Transitional) Regulations 1995—
 
@@ -241,7 +241,7 @@ Article 3(7)
 - (b) in paragraphs 26 and 27, after the word “decisions" there shall be inserted the words “ which embody a determination ”; and
 - (c) in the heading to paragraphs 24 to 28, after the word “decision" there shall be inserted the words “ which embodies a determination ”.
 
-## SCHEDULE 7 — MODIFICATION OF THE SOCIAL SECURITY (CLAIMS AND PAYMENTS) REGULATIONS 1987[^key-8fdc9b4375affd1f64bbfe5c7fb8f460]
+## SCHEDULE 7 — MODIFICATION OF THE SOCIAL SECURITY (CLAIMS AND PAYMENTS) REGULATIONS 1987[^c-8fdc9b4375affd1f64bbfe5c7fb8f460]
 
 Article 3(8)
 
@@ -269,7 +269,7 @@ Article 3(8)
   - (ii (affected by repeal, see note))[^M_F_92d9979d-5fbb-4bc9-ba15-6ca7223a3fbc] the word “that" in each place in which it occurs were omitted; *(affected by repeal, see note)*[^M_F_92d9979d-5fbb-4bc9-ba15-6ca7223a3fbc]
   - (iii (affected by repeal, see note))[^M_F_92d9979d-5fbb-4bc9-ba15-6ca7223a3fbc] in head (ii), for the word “him" there were substituted the words *(affected by repeal, see note)*[^M_F_92d9979d-5fbb-4bc9-ba15-6ca7223a3fbc] “ the Secretary of State ” *(affected by repeal, see note)*[^M_F_92d9979d-5fbb-4bc9-ba15-6ca7223a3fbc].
 
-## SCHEDULE 8 — MODIFICATION OF THE SOCIAL SECURITY (PAYMENTS ON ACCOUNT, OVERPAYMENTS AND RECOVERY) REGULATIONS 1988[^key-8fdc9b4375affd1f64bbfe5c7fb8f460]
+## SCHEDULE 8 — MODIFICATION OF THE SOCIAL SECURITY (PAYMENTS ON ACCOUNT, OVERPAYMENTS AND RECOVERY) REGULATIONS 1988[^c-8fdc9b4375affd1f64bbfe5c7fb8f460]
 
 Article 3(9)
 
@@ -411,8 +411,8 @@ that decision shall take effect from the date on which it would have taken effec
 
 **4.** (1) A decision (other than a decision of a social security appeal tribunal, a medical appeal tribunal or a Commissioner), made before 6th September 1999—
 
-- (a) on a claim for; [^key-489168cbb01beb03fa7b212fe6782b55]...
-- (aa)[^key-fa25ba981a34aaec394036c9fc07713e] under or by virtue of Part III of the Social Security Act 1975; or
+- (a) on a claim for; [^c-489168cbb01beb03fa7b212fe6782b55]...
+- (aa)[^c-fa25ba981a34aaec394036c9fc07713e] under or by virtue of Part III of the Social Security Act 1975; or
 - (b) under or by virtue of Part II of the Administration Act in relation to,
 
 a relevant benefit, shall be treated on or after that date as a decision of the Secretary of State under paragraph (a) or, as the case may be, paragraph (c) of section 8(1).
@@ -692,15 +692,15 @@ The following provisions have been brought into force by the Social Security Act
 
 [^c1644927]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991), to which there are amendments not relevant to this Order.
 
-[^key-0502ba7820f55c8d004e1787c9e9b95d]: Textual amendment: [Art. 1(2)(d)](https://www.legislation.gov.uk/uksi/1999/2422/article/1/2/d) added (16.10.2006) by [Social Security Act 1998 (Commencement Nos.9 and 11) (Amendment) Order 2006 (S.I. 2006/2540)](https://www.legislation.gov.uk/uksi/2006/2540), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/2/2)
+[^c-0502ba7820f55c8d004e1787c9e9b95d]: Textual amendment: [Art. 1(2)(d)](https://www.legislation.gov.uk/uksi/1999/2422/article/1/2/d) added (16.10.2006) by [Social Security Act 1998 (Commencement Nos.9 and 11) (Amendment) Order 2006 (S.I. 2006/2540)](https://www.legislation.gov.uk/uksi/2006/2540), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/2/2)
 
 [^c1644928]: Marginal citation: Section 61A was inserted by the [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [section 6(2)](https://www.legislation.gov.uk/ukpga/1994/18/section/6/2).
 
 [^c1644929]: Marginal citation: [1965 c. 51](https://www.legislation.gov.uk/ukpga/1965/51); sections 36 and 37 remain in force by virtue of the [Social Security (Graduated Retirement Benefit) (No. 2) Regulations 1978 (S.I. 1978/393)](https://www.legislation.gov.uk/uksi/1978/393).
 
-[^key-1f38f196c80d974b5eb32a47dc053083]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/1999/2422/article/3/1) inserted (16.10.2006) by [Social Security Act 1998 (Commencement Nos.9 and 11) (Amendment) Order 2006 (S.I. 2006/2540)](https://www.legislation.gov.uk/uksi/2006/2540), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2006/2540/article/2/3/a)
+[^c-1f38f196c80d974b5eb32a47dc053083]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/1999/2422/article/3/1) inserted (16.10.2006) by [Social Security Act 1998 (Commencement Nos.9 and 11) (Amendment) Order 2006 (S.I. 2006/2540)](https://www.legislation.gov.uk/uksi/2006/2540), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2006/2540/article/2/3/a)
 
-[^key-80d0cbde5c55de8c01bfccb4a90e5561]: Textual amendment: Art. 3(2), (8), (9), (14) revoked (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 1](https://www.legislation.gov.uk/uksi/1999/3178/regulation/1), [Sch. 20 para. 1(b)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/1/b)
+[^c-80d0cbde5c55de8c01bfccb4a90e5561]: Textual amendment: Art. 3(2), (8), (9), (14) revoked (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 1](https://www.legislation.gov.uk/uksi/1999/3178/regulation/1), [Sch. 20 para. 1(b)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/1/b)
 
 [^c1644930]: Marginal citation: [S.I. 1977/343](https://www.legislation.gov.uk/uksi/1977/343); amendment was made by the [Health and Social Services and Social Security Adjudications Act 1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41), [Schedule 8](https://www.legislation.gov.uk/ukpga/1983/41/schedule/8), [paragraph 1(3)(a)](https://www.legislation.gov.uk/ukpga/1983/41/paragraph/1/3/a).
 
@@ -712,7 +712,7 @@ The following provisions have been brought into force by the Social Security Act
 
 [^c1644934]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); the relevant amending instrument is [S.I. 1996/206](https://www.legislation.gov.uk/uksi/1996/206).
 
-[^key-23d5aa1121269f72a74fd33e6efbc2fc]: Modification: Art. 3(8)(9) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-23d5aa1121269f72a74fd33e6efbc2fc]: Modification: Art. 3(8)(9) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1644935]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968); relevant amending instruments are [S.I. 1992/247](https://www.legislation.gov.uk/uksi/1992/247), 1993/2113, 1994/2319, 1996/1460, 1996/2306 and 1998/1381.
 
@@ -728,7 +728,7 @@ The following provisions have been brought into force by the Social Security Act
 
 [^c1644941]: Marginal citation: [S.I. 1996/2745](https://www.legislation.gov.uk/uksi/1996/2745).
 
-[^key-b1779a1848e617deeeb044f515effa16]: Textual amendment: [Art. 3(15)](https://www.legislation.gov.uk/uksi/1999/2422/article/3/15)[(16)](https://www.legislation.gov.uk/uksi/1999/2422/article/3/16) added (16.10.2006) by [Social Security Act 1998 (Commencement Nos.9 and 11) (Amendment) Order 2006 (S.I. 2006/2540)](https://www.legislation.gov.uk/uksi/2006/2540), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2006/2540/article/2/3/b)
+[^c-b1779a1848e617deeeb044f515effa16]: Textual amendment: [Art. 3(15)](https://www.legislation.gov.uk/uksi/1999/2422/article/3/15)[(16)](https://www.legislation.gov.uk/uksi/1999/2422/article/3/16) added (16.10.2006) by [Social Security Act 1998 (Commencement Nos.9 and 11) (Amendment) Order 2006 (S.I. 2006/2540)](https://www.legislation.gov.uk/uksi/2006/2540), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2006/2540/article/2/3/b)
 
 [^M_F_cf2da80d-351b-4030-c589-c0bb0c03c1d1]: Textual amendment: Words in art. 5 inserted (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 1](https://www.legislation.gov.uk/uksi/1999/3178/regulation/1), [Sch. 20 para. 2(b)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/2/b)
 
@@ -768,7 +768,7 @@ The following provisions have been brought into force by the Social Security Act
 
 [^c1644962]: Marginal citation: Regulation 22A and Schedule 1B were inserted by and regulations 71(1) and 76(a) were amended in the relevant respects by [S.I. 1996/206](https://www.legislation.gov.uk/uksi/1996/206).
 
-[^key-8fdc9b4375affd1f64bbfe5c7fb8f460]: Modification: [Sch. 7](https://www.legislation.gov.uk/uksi/1999/2422/schedule/7) [8](https://www.legislation.gov.uk/uksi/1999/2422/schedule/8) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-8fdc9b4375affd1f64bbfe5c7fb8f460]: Modification: [Sch. 7](https://www.legislation.gov.uk/uksi/1999/2422/schedule/7) [8](https://www.legislation.gov.uk/uksi/1999/2422/schedule/8) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^M_F_92d9979d-5fbb-4bc9-ba15-6ca7223a3fbc]: Textual amendment: Sch. 7 revoked (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 1](https://www.legislation.gov.uk/uksi/1999/3178/regulation/1), [Sch. 20 para. 1(b)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/1/b)
 
@@ -794,9 +794,9 @@ The following provisions have been brought into force by the Social Security Act
 
 [^c1644971]: Marginal citation: [S.I. 1995/311](https://www.legislation.gov.uk/uksi/1995/311).
 
-[^key-489168cbb01beb03fa7b212fe6782b55]: Textual amendment: Word in [Sch. 14 para. 4(1)(a)](https://www.legislation.gov.uk/uksi/1999/2422/schedule/14/paragraph/4/1/a) omitted (16.10.2006) by virtue of [Social Security Act 1998 (Commencement Nos.9 and 11) (Amendment) Order 2006 (S.I. 2006/2540)](https://www.legislation.gov.uk/uksi/2006/2540), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2006/2540/article/2/4/a)
+[^c-489168cbb01beb03fa7b212fe6782b55]: Textual amendment: Word in [Sch. 14 para. 4(1)(a)](https://www.legislation.gov.uk/uksi/1999/2422/schedule/14/paragraph/4/1/a) omitted (16.10.2006) by virtue of [Social Security Act 1998 (Commencement Nos.9 and 11) (Amendment) Order 2006 (S.I. 2006/2540)](https://www.legislation.gov.uk/uksi/2006/2540), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2006/2540/article/2/4/a)
 
-[^key-fa25ba981a34aaec394036c9fc07713e]: Textual amendment: [Sch. 14 para. 4(1)(aa)](https://www.legislation.gov.uk/uksi/1999/2422/schedule/14/paragraph/4/1/aa) inserted (16.10.2006) by [Social Security Act 1998 (Commencement Nos.9 and 11) (Amendment) Order 2006 (S.I. 2006/2540)](https://www.legislation.gov.uk/uksi/2006/2540), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2006/2540/article/2/4/b)
+[^c-fa25ba981a34aaec394036c9fc07713e]: Textual amendment: [Sch. 14 para. 4(1)(aa)](https://www.legislation.gov.uk/uksi/1999/2422/schedule/14/paragraph/4/1/aa) inserted (16.10.2006) by [Social Security Act 1998 (Commencement Nos.9 and 11) (Amendment) Order 2006 (S.I. 2006/2540)](https://www.legislation.gov.uk/uksi/2006/2540), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2006/2540/article/2/4/b)
 
 [^c1644972]: Marginal citation: Paragraph (3E) was inserted by [S.I. 1996/182](https://www.legislation.gov.uk/uksi/1996/182).
 

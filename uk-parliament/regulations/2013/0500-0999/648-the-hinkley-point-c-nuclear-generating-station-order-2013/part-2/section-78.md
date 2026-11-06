@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 78. Use of temporary jetty[^key-d88a6794995bc157b94899c96811d441]
+## 78. Use of temporary jetty[^c-d88a6794995bc157b94899c96811d441]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker shall only use the temporary jetty for the purposes of, or in con
 
 ## Annotations
 
-[^key-d88a6794995bc157b94899c96811d441]: Commencement: Art. 78 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-d88a6794995bc157b94899c96811d441]: Commencement: Art. 78 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

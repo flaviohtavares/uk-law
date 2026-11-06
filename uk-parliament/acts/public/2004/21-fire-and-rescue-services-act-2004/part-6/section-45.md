@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Obtaining information and investigating fires[^key-ecddf089ab7b1624510853938cfc5efc][^key-7169edc6e5c5d6042710fe8257296000][^key-ccc0044537dc79e7532506532e820288]
+## 45. Obtaining information and investigating fires[^c-ecddf089ab7b1624510853938cfc5efc][^c-7169edc6e5c5d6042710fe8257296000][^c-ccc0044537dc79e7532506532e820288]
 
 *Extent: E+W*
 
@@ -62,8 +62,8 @@ he may issue a warrant authorising the officer to enter the premises by force at
 
 ## Annotations
 
-[^key-ecddf089ab7b1624510853938cfc5efc]: Commencement: S. 45 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-ecddf089ab7b1624510853938cfc5efc]: Commencement: S. 45 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-7169edc6e5c5d6042710fe8257296000]: Commencement: S. 45 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-7169edc6e5c5d6042710fe8257296000]: Commencement: S. 45 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
 
-[^key-ccc0044537dc79e7532506532e820288]: Modification: S. 45 applied (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2013/602/article/17/3)
+[^c-ccc0044537dc79e7532506532e820288]: Modification: S. 45 applied (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2013/602/article/17/3)

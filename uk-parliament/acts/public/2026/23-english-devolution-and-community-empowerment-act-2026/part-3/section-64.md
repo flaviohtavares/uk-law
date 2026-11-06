@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Limit on delay of election in connection with local government reorganisation[^key-9467ac0e816af3d992ab5d6d43f2d00d]
+## 64. Limit on delay of election in connection with local government reorganisation[^c-9467ac0e816af3d992ab5d6d43f2d00d]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9467ac0e816af3d992ab5d6d43f2d00d]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2026/23/section/64) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-9467ac0e816af3d992ab5d6d43f2d00d]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2026/23/section/64) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

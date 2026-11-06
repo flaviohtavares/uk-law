@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — QUAY LIMITS[^key-b75de25690ac0deee85bc819659cb84e]
+## SCHEDULE 6 — QUAY LIMITS[^c-b75de25690ac0deee85bc819659cb84e]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ Articles 2 and 4
 
 ## Annotations
 
-[^key-b75de25690ac0deee85bc819659cb84e]: Commencement: Sch. 6 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-b75de25690ac0deee85bc819659cb84e]: Commencement: Sch. 6 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

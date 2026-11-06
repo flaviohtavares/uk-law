@@ -30,7 +30,7 @@ References to “derivatives” include commodity-based contracts that give eith
 - (b) were designated for such purpose at their inception, and
 - (c) are expected to be settled by delivery of the commodity.
 
-**2.** (1)[^key-e65176b57f446ad7b1c4a5361bb7d0e9] The expressions listed in sub-paragraph (2) have the same meaning as they have in [Directive 2013/34/EU](https://www.legislation.gov.uk/eudr/2013/0034) of 26 June 2013 on the annual financial statements etc. of certain types of undertakings.
+**2.** (1)[^c-e65176b57f446ad7b1c4a5361bb7d0e9] The expressions listed in sub-paragraph (2) have the same meaning as they have in [Directive 2013/34/EU](https://www.legislation.gov.uk/eudr/2013/0034) of 26 June 2013 on the annual financial statements etc. of certain types of undertakings.
 
 (2) Those expressions are “available for sale financial asset”, “business combination”, “commodity-based contracts”, “derivative”, “equity instrument”, “exchange difference”, “fair value hedge accounting system”, “financial fixed asset”, “financial instrument”, “foreign entity”, “hedge accounting”, “hedge accounting system”, “hedged items”, “hedging instrument”, “held for trading purposes”, “held to maturity”, “monetary item”, “receivables”, “reliable market” and “trading portfolio”.
 
@@ -74,7 +74,7 @@ and an interest or option falls within paragraph (a) or (b) notwithstanding that
 
 (4) For the purposes of this paragraph an interest held on behalf of an undertaking is to be treated as held by it.
 
-(5) In the balance sheet and profit and loss formats set out in Section B of[^key-8f42c8ddef645ab3d1ce7b7bfa734b68] Part 1 of Schedule 1 [^key-aaf1b848bba71e019f25a6dcb1cd2ba5]... to these Regulations, “**participating interest**” does not include an interest in a group undertaking.
+(5) In the balance sheet and profit and loss formats set out in Section B of[^c-8f42c8ddef645ab3d1ce7b7bfa734b68] Part 1 of Schedule 1 [^c-aaf1b848bba71e019f25a6dcb1cd2ba5]... to these Regulations, “**participating interest**” does not include an interest in a group undertaking.
 
 (6) For the purpose of this paragraph as it applies in relation to the expression “participating interest”—
 
@@ -105,16 +105,16 @@ the references in sub-paragraphs (1) to (4) to the interest held by, and the pur
 - (b) any sums set aside for the future payment of pensions directly by the LLP to current or former employees, and
 - (c) any pensions paid directly to such persons without having first been set aside.
 
-(3) Any amount stated in respect of the item “social security costs” or in respect of the item “wages and salaries” in the profit and loss account Format 2 in Section B of Part 1 of Schedule 1[^key-d1dbbfb98c870699711dd49ae9abc662] must be determined by reference to payments made or costs incurred in respect of all persons employed by the LLP during the financial year under contracts of service.
+(3) Any amount stated in respect of the item “social security costs” or in respect of the item “wages and salaries” in the profit and loss account Format 2 in Section B of Part 1 of Schedule 1[^c-d1dbbfb98c870699711dd49ae9abc662] must be determined by reference to payments made or costs incurred in respect of all persons employed by the LLP during the financial year under contracts of service.
 
 ## Annotations
 
-[^key-e65176b57f446ad7b1c4a5361bb7d0e9]: Textual amendment: [Sch. 5 para. 2(1)](https://www.legislation.gov.uk/uksi/2008/1912/schedule/5/paragraph/2/1) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [45(a)](https://www.legislation.gov.uk/uksi/2016/575/regulation/45/a)
+[^c-e65176b57f446ad7b1c4a5361bb7d0e9]: Textual amendment: [Sch. 5 para. 2(1)](https://www.legislation.gov.uk/uksi/2008/1912/schedule/5/paragraph/2/1) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [45(a)](https://www.legislation.gov.uk/uksi/2016/575/regulation/45/a)
 
 [^c19349001]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-8f42c8ddef645ab3d1ce7b7bfa734b68]: Textual amendment: Words in [Sch. 5 para. 8(5)](https://www.legislation.gov.uk/uksi/2008/1912/schedule/5/paragraph/8/5) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [45(b)(i)](https://www.legislation.gov.uk/uksi/2016/575/regulation/45/b/i)
+[^c-8f42c8ddef645ab3d1ce7b7bfa734b68]: Textual amendment: Words in [Sch. 5 para. 8(5)](https://www.legislation.gov.uk/uksi/2008/1912/schedule/5/paragraph/8/5) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [45(b)(i)](https://www.legislation.gov.uk/uksi/2016/575/regulation/45/b/i)
 
-[^key-aaf1b848bba71e019f25a6dcb1cd2ba5]: Textual amendment: Words in [Sch. 5 para. 8(5)](https://www.legislation.gov.uk/uksi/2008/1912/schedule/5/paragraph/8/5) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [45(b)(ii)](https://www.legislation.gov.uk/uksi/2016/575/regulation/45/b/ii)
+[^c-aaf1b848bba71e019f25a6dcb1cd2ba5]: Textual amendment: Words in [Sch. 5 para. 8(5)](https://www.legislation.gov.uk/uksi/2008/1912/schedule/5/paragraph/8/5) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [45(b)(ii)](https://www.legislation.gov.uk/uksi/2016/575/regulation/45/b/ii)
 
-[^key-d1dbbfb98c870699711dd49ae9abc662]: Textual amendment: Words in [Sch. 5 para. 12(3)](https://www.legislation.gov.uk/uksi/2008/1912/schedule/5/paragraph/12/3) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [45(c)](https://www.legislation.gov.uk/uksi/2016/575/regulation/45/c)
+[^c-d1dbbfb98c870699711dd49ae9abc662]: Textual amendment: Words in [Sch. 5 para. 12(3)](https://www.legislation.gov.uk/uksi/2008/1912/schedule/5/paragraph/12/3) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [45(c)](https://www.legislation.gov.uk/uksi/2016/575/regulation/45/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Future interaction with the law and agencies of the EU[^key-6f2804bc9c5826e781e04906a77c97fd]
+## 19. Future interaction with the law and agencies of the EU[^c-6f2804bc9c5826e781e04906a77c97fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f2804bc9c5826e781e04906a77c97fd]: Textual amendment: S. 19 repealed (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 36(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/36/c), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))
+[^c-6f2804bc9c5826e781e04906a77c97fd]: Textual amendment: S. 19 repealed (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 36(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/36/c), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))

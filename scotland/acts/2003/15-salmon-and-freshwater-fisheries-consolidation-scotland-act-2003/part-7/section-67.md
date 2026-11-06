@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Application of this Act to the Crown[^key-9eee01eaac23695e183db9df80347fa2]
+## 67. Application of this Act to the Crown[^c-9eee01eaac23695e183db9df80347fa2]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9eee01eaac23695e183db9df80347fa2]: Textual amendment: [S. 67](https://www.legislation.gov.uk/asp/2003/15/section/67) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 34](https://www.legislation.gov.uk/asp/2013/7/section/34), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-9eee01eaac23695e183db9df80347fa2]: Textual amendment: [S. 67](https://www.legislation.gov.uk/asp/2003/15/section/67) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 34](https://www.legislation.gov.uk/asp/2013/7/section/34), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

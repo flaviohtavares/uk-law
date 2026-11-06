@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Interpretation[^key-0466d0c2c74788031d0e052015448cf1][^key-b68fb9ce8fefe5520c3b4ba9a338f67d]
+## 59. Interpretation[^c-0466d0c2c74788031d0e052015448cf1][^c-b68fb9ce8fefe5520c3b4ba9a338f67d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,15 +37,15 @@ summary: ''
   - (d) an enactment contained in, or in an instrument made under, Northern Ireland legislation;
 - “**producer**”, in relation to goods or digital content, means—
   - (a) the manufacturer,
-  - (b) the importer into the United Kingdom[^key-a69705436d0c305d4e435171e26ec043], or
+  - (b) the importer into the United Kingdom[^c-a69705436d0c305d4e435171e26ec043], or
   - (c) any person who purports to be a producer by placing the person's name, trade mark or other distinctive sign on the goods or using it in connection with the digital content.
 
 (2) References in this Part to treating a contract as at an end are to be read in accordance with section 19(13).
 
 ## Annotations
 
-[^key-0466d0c2c74788031d0e052015448cf1]: Commencement: S. 59 in force at 1.10.2015 for specified purposes by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-0466d0c2c74788031d0e052015448cf1]: Commencement: S. 59 in force at 1.10.2015 for specified purposes by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-b68fb9ce8fefe5520c3b4ba9a338f67d]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2015/15/section/59) in force at 1.10.2016 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/1630/article/4/b) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/2)) (as amended by [S.I. 2016/484](https://www.legislation.gov.uk/uksi/2016/484), [art. 2](https://www.legislation.gov.uk/uksi/2016/484/article/2))
+[^c-b68fb9ce8fefe5520c3b4ba9a338f67d]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2015/15/section/59) in force at 1.10.2016 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/1630/article/4/b) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/2)) (as amended by [S.I. 2016/484](https://www.legislation.gov.uk/uksi/2016/484), [art. 2](https://www.legislation.gov.uk/uksi/2016/484/article/2))
 
-[^key-a69705436d0c305d4e435171e26ec043]: Textual amendment: Words in s. 59(1) substituted (31.12.2020) by [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/3/3) (with [reg. 11](https://www.legislation.gov.uk/uksi/2018/1326/regulation/11)) (as amended by [S.I. 2020/1347](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(8)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a69705436d0c305d4e435171e26ec043]: Textual amendment: Words in s. 59(1) substituted (31.12.2020) by [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/3/3) (with [reg. 11](https://www.legislation.gov.uk/uksi/2018/1326/regulation/11)) (as amended by [S.I. 2020/1347](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(8)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

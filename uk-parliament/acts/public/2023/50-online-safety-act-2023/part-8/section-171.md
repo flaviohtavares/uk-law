@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. OFCOM’s guidance about super-complaints[^key-9e9fd10834f3fda37956b515cc53ceff][^key-0e4cf39605f01499323ba2f683b64e03]
+## 171. OFCOM’s guidance about super-complaints[^c-9e9fd10834f3fda37956b515cc53ceff][^c-0e4cf39605f01499323ba2f683b64e03]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e9fd10834f3fda37956b515cc53ceff]: Commencement: S. 171 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240)
+[^c-9e9fd10834f3fda37956b515cc53ceff]: Commencement: S. 171 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240)
 
-[^key-0e4cf39605f01499323ba2f683b64e03]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2023/50/section/171) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z21)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z21)
+[^c-0e4cf39605f01499323ba2f683b64e03]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2023/50/section/171) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z21)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z21)

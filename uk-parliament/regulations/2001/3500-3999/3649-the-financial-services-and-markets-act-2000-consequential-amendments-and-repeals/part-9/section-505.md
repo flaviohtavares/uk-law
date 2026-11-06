@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 505. Specified kinds of investments[^key-fe537c4d68a29581cb49651f4d485904]
+## 505. Specified kinds of investments[^c-fe537c4d68a29581cb49651f4d485904]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe537c4d68a29581cb49651f4d485904]: Commencement: Art. 505 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-fe537c4d68a29581cb49651f4d485904]: Commencement: Art. 505 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

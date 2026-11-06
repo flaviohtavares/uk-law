@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Classification of roads, etc.[^key-049072a266b4223fdb379fb8fe87eb5c]
+## 15. Classification of roads, etc.[^c-049072a266b4223fdb379fb8fe87eb5c]
 
 *Extent: E+W*
 
@@ -44,14 +44,14 @@ summary: ''
 
 (9) On such day as the undertaker may determine, the orders specified in column (3) of Part 7 (revocations and variations of existing traffic regulation orders) of Schedule 3 are to be varied or revoked as specified in the corresponding row of column (4) of that Part in respect of the lengths of roads specified in the corresponding row of column (2) of that Part.
 
-(10) The application of paragraphs (1) to (9)[^key-e2061fac8d44d378d6cb5afc3790a2fc] may be varied or revoked by any instrument made under any enactment which provides for the variation or revocation of such matters, including by an instrument made under the 1984 Act where the matter in question could have been included in an order made under that Act.
+(10) The application of paragraphs (1) to (9)[^c-e2061fac8d44d378d6cb5afc3790a2fc] may be varied or revoked by any instrument made under any enactment which provides for the variation or revocation of such matters, including by an instrument made under the 1984 Act where the matter in question could have been included in an order made under that Act.
 
 ## Annotations
 
-[^key-049072a266b4223fdb379fb8fe87eb5c]: Commencement: Art. 15 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-049072a266b4223fdb379fb8fe87eb5c]: Commencement: Art. 15 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
 [^f00054]: Footnote: Schedule 4 was amended by section 4 of, and paragraph 21(3) of Schedule 3 to, the Road Traffic (Consequential Provisions) Act [1988 (c. 54)](https://www.legislation.gov.uk/ukpga/1988/54).
 
 [^f00055]: Footnote: Section 10(2) was amended by section 22(2)(a) of the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), and by section 57(1) of, and paragraph 10(2) of Schedule 1 to, the Infrastructure Act 2015.
 
-[^key-e2061fac8d44d378d6cb5afc3790a2fc]: Textual amendment: Word in [art. 15(10)](https://www.legislation.gov.uk/uksi/2024/752/article/15/10) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-e2061fac8d44d378d6cb5afc3790a2fc]: Textual amendment: Word in [art. 15(10)](https://www.legislation.gov.uk/uksi/2024/752/article/15/10) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)

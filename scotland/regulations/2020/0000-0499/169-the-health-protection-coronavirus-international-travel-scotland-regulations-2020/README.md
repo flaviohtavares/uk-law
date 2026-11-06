@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (International Travel) (Scotland) Regulations 2020 (revoked)[^key-d1b92e41c66a36b517ecc12810a9d275]
+The Health Protection (Coronavirus) (International Travel) (Scotland) Regulations 2020 (revoked)[^c-d1b92e41c66a36b517ecc12810a9d275]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 8th June 2020
 
-[^key-d1b92e41c66a36b517ecc12810a9d275]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b92e41c66a36b517ecc12810a9d275]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-d1b92e41c66a36b517ecc12810a9d275]
+### PART 1 — General[^c-d1b92e41c66a36b517ecc12810a9d275]
 
 *Extent: S*
 
@@ -60,7 +60,7 @@ Coming into force
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 2A — Eligible vaccinated arrivals](part-1/section-2a.md)
 
-### PART 2 — Requirement to provide information[^key-d1b92e41c66a36b517ecc12810a9d275]
+### PART 2 — Requirement to provide information[^c-d1b92e41c66a36b517ecc12810a9d275]
 
 *Extent: S*
 
@@ -70,7 +70,7 @@ Coming into force
 - [Section 4 — Requirement to update passenger information](part-2/section-4.md)
 - [Section 5 — Passenger information: offences and penalties](part-2/section-5.md)
 
-### PART 2A — Pre-Departure Testing and testing following arrival in Scotland[^key-d1b92e41c66a36b517ecc12810a9d275]
+### PART 2A — Pre-Departure Testing and testing following arrival in Scotland[^c-d1b92e41c66a36b517ecc12810a9d275]
 
 *Extent: S*
 
@@ -88,7 +88,7 @@ Coming into force
 - [Section 5J — Testing following arrival in Scotland: offences and penalties](part-2a/section-5j.md)
 - [Section 5K — Exclusion of certain diplomatic etc. personnel](part-2a/section-5k.md)
 
-### PART 3[^key-d1b92e41c66a36b517ecc12810a9d275]
+### PART 3[^c-d1b92e41c66a36b517ecc12810a9d275]
 
 *Extent: S*
 
@@ -102,7 +102,7 @@ Coming into force
 - [Section 7 — Persons not required to comply with regulation 6](part-3/section-7.md)
 - [Section 7A — Persons not required to comply with regulation 6A or 6B](part-3/section-7a.md)
 
-### PART 4 — Enforcement of Part 3[^key-d1b92e41c66a36b517ecc12810a9d275]
+### PART 4 — Enforcement of Part 3[^c-d1b92e41c66a36b517ecc12810a9d275]
 
 *Extent: S*
 
@@ -112,14 +112,14 @@ Coming into force
 - [Section 9 — Offences and penalties - Parts 3 and 4](part-4/section-9.md)
 - [Section 10 — Penalties for offences under regulation 9](part-4/section-10.md)
 
-### PART 4A — Fixed Penalty Notices[^key-d1b92e41c66a36b517ecc12810a9d275]
+### PART 4A — Fixed Penalty Notices[^c-d1b92e41c66a36b517ecc12810a9d275]
 
 **No longer in force.**
 
 - [Section 11 — Fixed penalty notices](part-4a/section-11.md)
 - [Section 12 — Fixed penalty notices – penalty amounts](part-4a/section-12.md)
 
-### PART 5 — Information sharing[^key-d1b92e41c66a36b517ecc12810a9d275]
+### PART 5 — Information sharing[^c-d1b92e41c66a36b517ecc12810a9d275]
 
 *Extent: S*
 
@@ -127,7 +127,7 @@ Coming into force
 
 - [Section 13 — Power to use and disclose information](part-5/section-13.md)
 
-### PART 6 — Review and expiry of Regulations[^key-d1b92e41c66a36b517ecc12810a9d275]
+### PART 6 — Review and expiry of Regulations[^c-d1b92e41c66a36b517ecc12810a9d275]
 
 *Extent: S*
 
@@ -149,14 +149,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-d1b92e41c66a36b517ecc12810a9d275]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b92e41c66a36b517ecc12810a9d275]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-d1b92e41c66a36b517ecc12810a9d275]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b92e41c66a36b517ecc12810a9d275]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1b92e41c66a36b517ecc12810a9d275]: Textual amendment: Regulations revoked (20.9.2021) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021 (S.S.I. 2021/322)](https://www.legislation.gov.uk/ssi/2021/322), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2021/322/schedule/9) (with [regs. 50](https://www.legislation.gov.uk/ssi/2021/322/regulation/50), [52](https://www.legislation.gov.uk/ssi/2021/322/regulation/52), [sch. 10](https://www.legislation.gov.uk/ssi/2021/322/schedule/10))
+[^c-d1b92e41c66a36b517ecc12810a9d275]: Textual amendment: Regulations revoked (20.9.2021) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021 (S.S.I. 2021/322)](https://www.legislation.gov.uk/ssi/2021/322), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2021/322/schedule/9) (with [regs. 50](https://www.legislation.gov.uk/ssi/2021/322/regulation/50), [52](https://www.legislation.gov.uk/ssi/2021/322/regulation/52), [sch. 10](https://www.legislation.gov.uk/ssi/2021/322/schedule/10))

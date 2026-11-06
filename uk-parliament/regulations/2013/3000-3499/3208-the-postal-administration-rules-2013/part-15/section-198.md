@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 198. Right to have list of creditors[^key-887f8d639bc6ba40638f59666e4110d7]
+## 198. Right to have list of creditors[^c-887f8d639bc6ba40638f59666e4110d7]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-887f8d639bc6ba40638f59666e4110d7]: Commencement: [Rule 198](https://www.legislation.gov.uk/uksi/2013/3208/rule/198) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-887f8d639bc6ba40638f59666e4110d7]: Commencement: [Rule 198](https://www.legislation.gov.uk/uksi/2013/3208/rule/198) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

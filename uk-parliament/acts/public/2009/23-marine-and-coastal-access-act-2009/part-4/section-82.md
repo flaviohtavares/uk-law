@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Structures in, over or under a main river[^key-5e1d6b3711c45569b263bfcd8dd1af12]
+## 82. Structures in, over or under a main river[^c-5e1d6b3711c45569b263bfcd8dd1af12]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e1d6b3711c45569b263bfcd8dd1af12]: Commencement: S. 82 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-5e1d6b3711c45569b263bfcd8dd1af12]: Commencement: S. 82 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

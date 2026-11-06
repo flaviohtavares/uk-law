@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Powers to borrow[^key-7de41084bb7c53d1b583952cd1fb1656]
+## 20. Powers to borrow[^c-7de41084bb7c53d1b583952cd1fb1656]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7de41084bb7c53d1b583952cd1fb1656]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2008/17/section/20) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/k) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-7de41084bb7c53d1b583952cd1fb1656]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2008/17/section/20) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/k) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

@@ -31,7 +31,7 @@ summary: ''
 
 ANIMAL HEALTH
 
-The TSE (Scotland) Amendment Regulations 2005 (revoked)[^key-3c2e3f7afb808c803fda43350449667a]
+The TSE (Scotland) Amendment Regulations 2005 (revoked)[^c-3c2e3f7afb808c803fda43350449667a]
 
 Made
 
@@ -45,22 +45,22 @@ Coming into force
 
 1st May 2005
 
-[^key-3c2e3f7afb808c803fda43350449667a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c2e3f7afb808c803fda43350449667a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-3c2e3f7afb808c803fda43350449667a]
+## 1. Citation, commencement and extent[^c-3c2e3f7afb808c803fda43350449667a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the TSE (Scotland) Regulations 2002[^key-3c2e3f7afb808c803fda43350449667a]
+## 2. Amendment of the TSE (Scotland) Regulations 2002[^c-3c2e3f7afb808c803fda43350449667a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c2e3f7afb808c803fda43350449667a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c2e3f7afb808c803fda43350449667a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c2e3f7afb808c803fda43350449667a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c2e3f7afb808c803fda43350449667a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3c2e3f7afb808c803fda43350449667a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2005/173) revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)
+[^c-3c2e3f7afb808c803fda43350449667a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2005/173) revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)

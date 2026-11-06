@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Insertion of new regulation 143A (establishment of herbal monographs)[^key-10ac4b8c715a007298ad53e75d319628]
+## 126. Insertion of new regulation 143A (establishment of herbal monographs)[^c-10ac4b8c715a007298ad53e75d319628]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ After regulation 143 (obligation to take account of scientific or technical prog
 
 > **143A. Establishment of herbal monographs**
 >
-> (1) The licensing authority may establish herbal monographs for herbal medicinal products and traditional herbal medicinal products to be placed on the market in Great Britain[^key-949856b9f58ddf269abb21a3faaa232f].
+> (1) The licensing authority may establish herbal monographs for herbal medicinal products and traditional herbal medicinal products to be placed on the market in Great Britain[^c-949856b9f58ddf269abb21a3faaa232f].
 >
 > (2) Subject to paragraph (3), the licensing authority must—
 >
@@ -41,6 +41,6 @@ After regulation 143 (obligation to take account of scientific or technical prog
 
 ## Annotations
 
-[^key-10ac4b8c715a007298ad53e75d319628]: Commencement: Reg. 126 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-10ac4b8c715a007298ad53e75d319628]: Commencement: Reg. 126 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-949856b9f58ddf269abb21a3faaa232f]: Textual amendment: Words in reg. 126 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 95](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/95)
+[^c-949856b9f58ddf269abb21a3faaa232f]: Textual amendment: Words in reg. 126 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 95](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/95)

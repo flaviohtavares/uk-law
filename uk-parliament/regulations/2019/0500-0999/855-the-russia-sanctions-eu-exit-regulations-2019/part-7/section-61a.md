@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61A. Ships: exceptions from prohibition on port entry[^key-d3cb56fd54444dafa4ff9dfa72d7c69b]
+## 61A. Ships: exceptions from prohibition on port entry[^c-d3cb56fd54444dafa4ff9dfa72d7c69b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3cb56fd54444dafa4ff9dfa72d7c69b]: Textual amendment: [Reg. 61A](https://www.legislation.gov.uk/uksi/2019/855/regulation/61A) inserted (1.3.2022 at 3.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/203)](https://www.legislation.gov.uk/uksi/2022/203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/203/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/203/regulation/7)
+[^c-d3cb56fd54444dafa4ff9dfa72d7c69b]: Textual amendment: [Reg. 61A](https://www.legislation.gov.uk/uksi/2019/855/regulation/61A) inserted (1.3.2022 at 3.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/203)](https://www.legislation.gov.uk/uksi/2022/203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/203/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/203/regulation/7)

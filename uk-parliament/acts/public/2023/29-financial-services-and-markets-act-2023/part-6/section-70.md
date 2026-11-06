@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Bank of England levy[^key-95a329f86592d9b611bc404a017a5395]
+## 70. Bank of England levy[^c-95a329f86592d9b611bc404a017a5395]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-62bad707589875b5be11b78e71fa332d][^key-8eead490b7f5b390a23cee2e355567a5] The Bank of England Act 1998 is amended as follows.
+(1)[^c-62bad707589875b5be11b78e71fa332d][^c-8eead490b7f5b390a23cee2e355567a5] The Bank of England Act 1998 is amended as follows.
 
-(2)[^key-254f911dc087fb17975426abc1399a48] Omit section 6 and Schedule 2 (cash ratio deposits).
+(2)[^c-254f911dc087fb17975426abc1399a48] Omit section 6 and Schedule 2 (cash ratio deposits).
 
-(3)[^key-62bad707589875b5be11b78e71fa332d][^key-8eead490b7f5b390a23cee2e355567a5] Before section 7 insert—
+(3)[^c-62bad707589875b5be11b78e71fa332d][^c-8eead490b7f5b390a23cee2e355567a5] Before section 7 insert—
 
 > **6A. Bank of England levy**
 >
 > Schedule 2ZA makes provision for the Bank to impose a charge on financial institutions in connection with the pursuit of its financial stability and monetary policy objectives.
 
-(4)[^key-62bad707589875b5be11b78e71fa332d][^key-8eead490b7f5b390a23cee2e355567a5] Before Schedule 2A (financial policy committee) insert—
+(4)[^c-62bad707589875b5be11b78e71fa332d][^c-8eead490b7f5b390a23cee2e355567a5] Before Schedule 2A (financial policy committee) insert—
 
 > **SCHEDULE 2ZA — Bank of England levy**
 >
@@ -194,10 +194,10 @@ summary: ''
 
 ## Annotations
 
-[^key-95a329f86592d9b611bc404a017a5395]: Commencement: S. 70 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-95a329f86592d9b611bc404a017a5395]: Commencement: S. 70 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-62bad707589875b5be11b78e71fa332d]: Commencement: [S. 70(1)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/1)[(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/4) in force at 1.1.2024 for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/c)
+[^c-62bad707589875b5be11b78e71fa332d]: Commencement: [S. 70(1)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/1)[(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/4) in force at 1.1.2024 for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/c)
 
-[^key-8eead490b7f5b390a23cee2e355567a5]: Commencement: [S. 70(1)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/1)[(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/4) in force at 1.3.2024 in so far as not already in force by [S.I. 2024/250](https://www.legislation.gov.uk/uksi/2024/250), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/250/regulation/2/b)
+[^c-8eead490b7f5b390a23cee2e355567a5]: Commencement: [S. 70(1)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/1)[(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/4) in force at 1.3.2024 in so far as not already in force by [S.I. 2024/250](https://www.legislation.gov.uk/uksi/2024/250), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/250/regulation/2/b)
 
-[^key-254f911dc087fb17975426abc1399a48]: Commencement: [S. 70(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/2) in force at 1.3.2024 by [S.I. 2024/250](https://www.legislation.gov.uk/uksi/2024/250), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/250/regulation/2/b)
+[^c-254f911dc087fb17975426abc1399a48]: Commencement: [S. 70(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/2) in force at 1.3.2024 by [S.I. 2024/250](https://www.legislation.gov.uk/uksi/2024/250), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/250/regulation/2/b)

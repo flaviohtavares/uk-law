@@ -33,7 +33,7 @@ An Act to establish the Postal Services Commission and the Consumer Council for 
 
 \[28th July 2000\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-a32cafc7bb0965f83b4983c5a01bb98f][^key-6687d0ba60f58d3684c5e63f66b682d2]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-a32cafc7bb0965f83b4983c5a01bb98f][^c-6687d0ba60f58d3684c5e63f66b682d2]
 
 ## Contents
 
@@ -160,7 +160,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 60 — Memorandum of understanding.](part-iii/section-60.md)
 - [Section 61 — Forward work programmes.](part-iii/section-61.md)
 
-#### Information[^key-ff096bcc10098929be6a228aeaba0088]
+#### Information[^c-ff096bcc10098929be6a228aeaba0088]
 
 - [Section 61A — Information relating to complaints handling standards](part-iii/section-61a.md)
 
@@ -224,7 +224,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 87 — Prohibition on misleading descriptions.](part-v/section-87.md)
 - [Section 88 — Obstruction of business of universal service providers.](part-v/section-88.md)
 
-### Part VI — Postal services: supplementary[^key-c5644cee3377c605b8e535c31ba6db54]
+### Part VI — Postal services: supplementary[^c-c5644cee3377c605b8e535c31ba6db54]
 
 *Extent: E+W+S+N.I.*
 
@@ -340,10 +340,10 @@ SCHEDULES
 
 ## Annotations
 
-[^key-a32cafc7bb0965f83b4983c5a01bb98f]: Modification: Act: transfer of functions (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [ss. 30(3)(b)](https://www.legislation.gov.uk/ukpga/2007/17/section/30/3/b), [66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2) (with [s. 6(9)](https://www.legislation.gov.uk/ukpga/2007/17/section/6/9), [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/17/schedule/3)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-a32cafc7bb0965f83b4983c5a01bb98f]: Modification: Act: transfer of functions (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [ss. 30(3)(b)](https://www.legislation.gov.uk/ukpga/2007/17/section/30/3/b), [66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2) (with [s. 6(9)](https://www.legislation.gov.uk/ukpga/2007/17/section/6/9), [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/17/schedule/3)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
-[^key-6687d0ba60f58d3684c5e63f66b682d2]: Modification: Act: transfer of functions (1.9.2009) by [Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/2/1)
+[^c-6687d0ba60f58d3684c5e63f66b682d2]: Modification: Act: transfer of functions (1.9.2009) by [Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/2/1)
 
-[^key-ff096bcc10098929be6a228aeaba0088]: Textual amendment: S. 61A and cross-heading inserted (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 5 para. 3(3)](https://www.legislation.gov.uk/ukpga/2007/17/schedule/5/paragraph/3/3) (with [s. 48(3)](https://www.legislation.gov.uk/ukpga/2007/17/section/48/3)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-ff096bcc10098929be6a228aeaba0088]: Textual amendment: S. 61A and cross-heading inserted (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 5 para. 3(3)](https://www.legislation.gov.uk/ukpga/2007/17/schedule/5/paragraph/3/3) (with [s. 48(3)](https://www.legislation.gov.uk/ukpga/2007/17/section/48/3)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
-[^key-c5644cee3377c605b8e535c31ba6db54]: Textual amendment: Pt. VI heading substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 22](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/22); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-c5644cee3377c605b8e535c31ba6db54]: Textual amendment: Pt. VI heading substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 22](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/22); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

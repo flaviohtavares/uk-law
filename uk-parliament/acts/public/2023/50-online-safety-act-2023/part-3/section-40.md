@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Fraud etc offences[^key-45ed82fccf643cf3adbc6f958c98ff99][^key-bdbe05914338ab10de2cd5b88d5a0c92]
+## 40. Fraud etc offences[^c-45ed82fccf643cf3adbc6f958c98ff99][^c-bdbe05914338ab10de2cd5b88d5a0c92]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-45ed82fccf643cf3adbc6f958c98ff99]: Commencement: S. 40 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-45ed82fccf643cf3adbc6f958c98ff99]: Commencement: S. 40 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-bdbe05914338ab10de2cd5b88d5a0c92]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/50/section/40) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/l)
+[^c-bdbe05914338ab10de2cd5b88d5a0c92]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/50/section/40) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/l)

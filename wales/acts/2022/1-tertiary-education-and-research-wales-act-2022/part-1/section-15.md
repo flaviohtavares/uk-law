@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Approval, publication and implementation of strategic plan[^key-b12dc1149f08bb0ab10871d285154bbd][^key-5945140ed22811f1287ba7398fd8803c]
+## 15. Approval, publication and implementation of strategic plan[^c-b12dc1149f08bb0ab10871d285154bbd][^c-5945140ed22811f1287ba7398fd8803c]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b12dc1149f08bb0ab10871d285154bbd]: Commencement: S. 15 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-b12dc1149f08bb0ab10871d285154bbd]: Commencement: S. 15 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-5945140ed22811f1287ba7398fd8803c]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2022/1/section/15) in force at 1.4.2024 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 6(1)](https://www.legislation.gov.uk/wsi/2023/919/article/6/1) (with [art. 6(2)](https://www.legislation.gov.uk/wsi/2023/919/article/6/2))
+[^c-5945140ed22811f1287ba7398fd8803c]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2022/1/section/15) in force at 1.4.2024 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 6(1)](https://www.legislation.gov.uk/wsi/2023/919/article/6/1) (with [art. 6(2)](https://www.legislation.gov.uk/wsi/2023/919/article/6/2))

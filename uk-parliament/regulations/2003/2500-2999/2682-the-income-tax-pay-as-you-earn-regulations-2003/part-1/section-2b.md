@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2B. Real Time Information pension payers[^key-17a09648f1a69a5a8d6a38be91d82be0]
+## 2B. Real Time Information pension payers[^c-17a09648f1a69a5a8d6a38be91d82be0]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17a09648f1a69a5a8d6a38be91d82be0]: Textual amendment: Regs. 2A, 2B inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2012/822/regulation/4)
+[^c-17a09648f1a69a5a8d6a38be91d82be0]: Textual amendment: Regs. 2A, 2B inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2012/822/regulation/4)
 
 [^M_F_c629c848-0670-4fec-b59f-46784359d486]: Textual amendment: [Reg 2B(1)(c)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/2B/1/c) omitted (6.4.2013) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2013/521/regulation/15)

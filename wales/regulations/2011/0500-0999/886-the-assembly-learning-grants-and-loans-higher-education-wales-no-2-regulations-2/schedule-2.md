@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — DESIGNATED COURSES[^key-6ad839f5ae7d11b3b7a344b19c372438]
+## SCHEDULE 2 — DESIGNATED COURSES[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulations 5, 74 and 91
 
-**1.**[^key-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6ad839f5ae7d11b3b7a344b19c372438]: Textual amendment: Regulations revoked (with savings) (1.9.2013) by [The Education (Student Support) (Wales) Regulations 2012 (S.I. 2012/3097)](https://www.legislation.gov.uk/uksi/2012/3097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3097/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3))
+[^c-6ad839f5ae7d11b3b7a344b19c372438]: Textual amendment: Regulations revoked (with savings) (1.9.2013) by [The Education (Student Support) (Wales) Regulations 2012 (S.I. 2012/3097)](https://www.legislation.gov.uk/uksi/2012/3097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3097/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3))

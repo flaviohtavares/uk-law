@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Committee of management’s annual report[^key-ef49123b3a87484dfe800ad2e8809857]
+## 12. Committee of management’s annual report[^c-ef49123b3a87484dfe800ad2e8809857]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef49123b3a87484dfe800ad2e8809857]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1994/1983/regulation/12) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-ef49123b3a87484dfe800ad2e8809857]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1994/1983/regulation/12) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)

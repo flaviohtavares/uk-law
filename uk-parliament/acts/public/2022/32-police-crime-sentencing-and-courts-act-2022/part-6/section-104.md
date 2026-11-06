@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Variation of conditions[^key-f0b70df83785507b39c124219574f458]
+## 104. Variation of conditions[^c-f0b70df83785507b39c124219574f458]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ An authorised person or prosecution authority may, with the consent of the offen
 
 ## Annotations
 
-[^key-f0b70df83785507b39c124219574f458]: Commencement: S. 104 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-f0b70df83785507b39c124219574f458]: Commencement: S. 104 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

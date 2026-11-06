@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37A. Exemptions[^key-7c38728ebb8615148ecfc7c94a4411ac]
+## 37A. Exemptions[^c-7c38728ebb8615148ecfc7c94a4411ac]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c38728ebb8615148ecfc7c94a4411ac]: Textual amendment: S. 37A inserted (1.12.2015) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 73](https://www.legislation.gov.uk/asp/2015/10/section/73), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
+[^c-7c38728ebb8615148ecfc7c94a4411ac]: Textual amendment: S. 37A inserted (1.12.2015) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 73](https://www.legislation.gov.uk/asp/2015/10/section/73), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)

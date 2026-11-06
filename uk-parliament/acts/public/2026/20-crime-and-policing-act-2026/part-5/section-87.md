@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Section 85: reasons to suspect child sex offence may have been committed[^key-6673d3e3f3fd36224d5f363373a95de7]
+## 87. Section 85: reasons to suspect child sex offence may have been committed[^c-6673d3e3f3fd36224d5f363373a95de7]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6673d3e3f3fd36224d5f363373a95de7]: Commencement: S. 87 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-6673d3e3f3fd36224d5f363373a95de7]: Commencement: S. 87 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

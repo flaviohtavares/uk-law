@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Interception with the consent of the sender or recipient[^key-ef364e9ce8b6e293813e8015de10d934]
+## 44. Interception with the consent of the sender or recipient[^c-ef364e9ce8b6e293813e8015de10d934]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef364e9ce8b6e293813e8015de10d934]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2016/25/section/44) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/p)
+[^c-ef364e9ce8b6e293813e8015de10d934]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2016/25/section/44) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/p)

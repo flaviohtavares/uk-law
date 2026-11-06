@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Exercise of Commissioners' functions by officers[^key-27be4867cfd0fb9587e66f1f2edbd35f]
+## 13. Exercise of Commissioners' functions by officers[^c-27be4867cfd0fb9587e66f1f2edbd35f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,8 +30,8 @@ summary: ''
 (3) The non-delegable functions mentioned in subsection (2)(a) are—
 
 - (a) making, by statutory instrument, regulations, rules or an order,
-- (b)[^key-ecc91249dc0a442751993848e2cf18f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-ecc91249dc0a442751993848e2cf18f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ecc91249dc0a442751993848e2cf18f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ecc91249dc0a442751993848e2cf18f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) giving instructions for the disclosure of information under section 20(1)(a), except that an officer of Revenue and Customs may give an instruction under section 20(1)(a) authorising disclosure of specified information relating to—
   - (i) one or more specified persons,
   - (ii) one or more specified transactions, or
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27be4867cfd0fb9587e66f1f2edbd35f]: Commencement: S. 13 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-27be4867cfd0fb9587e66f1f2edbd35f]: Commencement: S. 13 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
 
-[^key-ecc91249dc0a442751993848e2cf18f2]: Textual amendment: S. 13(3)(b)(c) repealed (1.12.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 17(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/17/a), [27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/a)
+[^c-ecc91249dc0a442751993848e2cf18f2]: Textual amendment: S. 13(3)(b)(c) repealed (1.12.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 17(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/17/a), [27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/a)

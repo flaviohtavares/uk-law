@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 186. Immigration advisers and immigration service providers[^key-3255ea08ed71d3483b1e73377ac18928]
+## 186. Immigration advisers and immigration service providers[^c-3255ea08ed71d3483b1e73377ac18928]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3255ea08ed71d3483b1e73377ac18928]: Commencement: S. 186 in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/720/article/2/a)
+[^c-3255ea08ed71d3483b1e73377ac18928]: Commencement: S. 186 in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/720/article/2/a)

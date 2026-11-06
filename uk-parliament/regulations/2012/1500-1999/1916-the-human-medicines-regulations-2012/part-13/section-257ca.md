@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257CA. Packaging requirements: POC medicinal products[^key-7c014024b65fbd8e25dd65f46cf47e14]
+## 257CA. Packaging requirements: POC medicinal products[^c-7c014024b65fbd8e25dd65f46cf47e14]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c014024b65fbd8e25dd65f46cf47e14]: Textual amendment: [Reg. 257CA](https://www.legislation.gov.uk/uksi/2012/1916/regulation/257CA) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2025/87/regulation/31)
+[^c-7c014024b65fbd8e25dd65f46cf47e14]: Textual amendment: [Reg. 257CA](https://www.legislation.gov.uk/uksi/2012/1916/regulation/257CA) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2025/87/regulation/31)

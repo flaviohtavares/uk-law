@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56FBA. New licensable activities: load control of energy smart appliances[^key-f2f1a29cf96cdd48b09791316e754b6e]
+## 56FBA. New licensable activities: load control of energy smart appliances[^c-f2f1a29cf96cdd48b09791316e754b6e]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ but not the activities mentioned in subsection (3).
 
 ## Annotations
 
-[^key-f2f1a29cf96cdd48b09791316e754b6e]: Textual amendment: [Ss. 56FBA](https://www.legislation.gov.uk/ukpga/1989/29/section/56FBA), [56FBB](https://www.legislation.gov.uk/ukpga/1989/29/section/56FBB) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/19/paragraph/2); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)
+[^c-f2f1a29cf96cdd48b09791316e754b6e]: Textual amendment: [Ss. 56FBA](https://www.legislation.gov.uk/ukpga/1989/29/section/56FBA), [56FBB](https://www.legislation.gov.uk/ukpga/1989/29/section/56FBB) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/19/paragraph/2); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)

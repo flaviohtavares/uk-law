@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Regulation (EU) 2016/1627 of the European Parliament and of the Council on a multiannual recovery plan for bluefin tuna in the eastern Atlantic and the Mediterranean[^key-a7e723120559ed0c3f79c02a3fd537c8]
+## 8. Regulation (EU) 2016/1627 of the European Parliament and of the Council on a multiannual recovery plan for bluefin tuna in the eastern Atlantic and the Mediterranean[^c-a7e723120559ed0c3f79c02a3fd537c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -103,6 +103,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a7e723120559ed0c3f79c02a3fd537c8]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-a7e723120559ed0c3f79c02a3fd537c8]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c24327991]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

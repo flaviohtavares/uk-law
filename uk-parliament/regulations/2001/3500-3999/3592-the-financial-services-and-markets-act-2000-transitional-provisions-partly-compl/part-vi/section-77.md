@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Incomplete appeals against disciplinary measure[^key-458debe949d3b695b2f40fec788d9bc0]
+## 77. Incomplete appeals against disciplinary measure[^c-458debe949d3b695b2f40fec788d9bc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-458debe949d3b695b2f40fec788d9bc0]: Commencement: Art. 77 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-458debe949d3b695b2f40fec788d9bc0]: Commencement: Art. 77 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

@@ -22,10 +22,10 @@ summary: ''
 
 (1) This Act shall apply to land belonging to Her Majesty in right of the Crown, with such modifications as may be prescribed; and for the purposes of this Act the Crown Estate Commissioners or other proper officer or body having charge of the land for the time being, or if there is no such officer or body, such person as Her Majesty may appoint in writing under the Royal Sign Manual, shall represent Her Majesty and shall be deemed to be the landlord.
 
-(1A)[^key-d502cacd7932fd81e6e2a680172a5758] In subsection (1), “proper officer of body” includes a person who manages any land to which section 90B(5) of the Scotland Act 1998 applies.
+(1A)[^c-d502cacd7932fd81e6e2a680172a5758] In subsection (1), “proper officer of body” includes a person who manages any land to which section 90B(5) of the Scotland Act 1998 applies.
 
 (2) This Act shall apply to land notwithstanding that the interest of the landlord or the tenant thereof belongs to a government department or is held on behalf of Her Majesty for the purposes of any government department with such modifications as may be prescribed.
 
 ## Annotations
 
-[^key-d502cacd7932fd81e6e2a680172a5758]: Textual amendment: [S. 79(1A)](https://www.legislation.gov.uk/ukpga/1991/55/section/79/1A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 24](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/24)
+[^c-d502cacd7932fd81e6e2a680172a5758]: Textual amendment: [S. 79(1A)](https://www.legislation.gov.uk/ukpga/1991/55/section/79/1A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 24](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/24)

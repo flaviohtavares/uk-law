@@ -34,7 +34,7 @@ summary: ''
 
 (5) The previous appointment of a person as Chief Inspector does not affect his eligibility for appointment.
 
-(6) If the Assembly considers that any of the powers conferred by subsection (1), (2) and (4)(c) ought to be exercised, the Assembly must advise the Secretary of State on any recommendation to be made to Her Majesty as to the exercise of the power. *(Extent: W)* *(affected by repeal, see note)*[^key-79d0d8ef80df896dd180981375fbabd0]
+(6) If the Assembly considers that any of the powers conferred by subsection (1), (2) and (4)(c) ought to be exercised, the Assembly must advise the Secretary of State on any recommendation to be made to Her Majesty as to the exercise of the power. *(Extent: W)* *(affected by repeal, see note)*[^c-79d0d8ef80df896dd180981375fbabd0]
 
 (7) The terms of a person's appointment under subsection (2) are to be determined by the Chief Inspector with the approval of the Assembly.
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79d0d8ef80df896dd180981375fbabd0]: Textual amendment: [S. 19(6)](https://www.legislation.gov.uk/ukpga/2005/18/section/19/6) omitted (W.) (1.9.2014) by virtue of [Education (Wales) Act 2014 (anaw 5)](https://www.legislation.gov.uk/anaw/2014/5), [ss. 43](https://www.legislation.gov.uk/anaw/2014/5/section/43), [50(4)](https://www.legislation.gov.uk/anaw/2014/5/section/50/4); [S.I. 2014/1605](https://www.legislation.gov.uk/wsi/2014/1605), [art. 3](https://www.legislation.gov.uk/wsi/2014/1605/article/3)
+[^c-79d0d8ef80df896dd180981375fbabd0]: Textual amendment: [S. 19(6)](https://www.legislation.gov.uk/ukpga/2005/18/section/19/6) omitted (W.) (1.9.2014) by virtue of [Education (Wales) Act 2014 (anaw 5)](https://www.legislation.gov.uk/anaw/2014/5), [ss. 43](https://www.legislation.gov.uk/anaw/2014/5/section/43), [50(4)](https://www.legislation.gov.uk/anaw/2014/5/section/50/4); [S.I. 2014/1605](https://www.legislation.gov.uk/wsi/2014/1605), [art. 3](https://www.legislation.gov.uk/wsi/2014/1605/article/3)

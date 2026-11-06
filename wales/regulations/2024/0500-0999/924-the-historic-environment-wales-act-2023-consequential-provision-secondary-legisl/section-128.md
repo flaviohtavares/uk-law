@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**128.**[^key-2612d10f15f2b5a172fabeac1261e311] Omit regulations 3 and 4.
+**128.**[^c-2612d10f15f2b5a172fabeac1261e311] Omit regulations 3 and 4.
 
 ## Annotations
 
-[^key-2612d10f15f2b5a172fabeac1261e311]: Commencement: [Reg. 128](https://www.legislation.gov.uk/wsi/2024/924/regulation/128) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-2612d10f15f2b5a172fabeac1261e311]: Commencement: [Reg. 128](https://www.legislation.gov.uk/wsi/2024/924/regulation/128) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

@@ -33,7 +33,7 @@ supplementing Regulation (EU) 2016/429 of the European Parliament and of the Cou
 
 (Text with EEA relevance)
 
-[^key-4a09be9c0e19bcdb2e1bedf806378d5d]
+[^c-4a09be9c0e19bcdb2e1bedf806378d5d]
 
 THE EUROPEAN COMMISSION,
 
@@ -979,7 +979,7 @@ Ursula von der Leyen
 
 ## Annotations
 
-[^key-4a09be9c0e19bcdb2e1bedf806378d5d]: Modification: Regulation incorporated (E.W.S.) (with modifications) (2.9.2024) by [The Windsor Framework (Retail Movement Scheme: Plant and Animal Health) (Amendment etc.) Regulations 2024 (S.I. 2024/853)](https://www.legislation.gov.uk/uksi/2024/853), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/853/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2024/853/regulation/5), [6](https://www.legislation.gov.uk/uksi/2024/853/regulation/6), [9](https://www.legislation.gov.uk/uksi/2024/853/regulation/9) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/853/regulation/12))
+[^c-4a09be9c0e19bcdb2e1bedf806378d5d]: Modification: Regulation incorporated (E.W.S.) (with modifications) (2.9.2024) by [The Windsor Framework (Retail Movement Scheme: Plant and Animal Health) (Amendment etc.) Regulations 2024 (S.I. 2024/853)](https://www.legislation.gov.uk/uksi/2024/853), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/853/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2024/853/regulation/5), [6](https://www.legislation.gov.uk/uksi/2024/853/regulation/6), [9](https://www.legislation.gov.uk/uksi/2024/853/regulation/9) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/853/regulation/12))
 
 [^f00001]: Footnote: [OJ L 84, 31.3.2016, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.084.01.0001.01.ENG).
 

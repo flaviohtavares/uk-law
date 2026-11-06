@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-[^key-3da51a7ccee498b45f10d3dca8d46bed]
+[^c-3da51a7ccee498b45f10d3dca8d46bed]
 
 (1) An appeal against any decision of a magistrates’ court under this Part (other than a decision made in criminal proceedings) shall lie to the Crown Court at the instance of any party to the proceedings in which the decision was given if such an appeal does not lie to the Crown Court by virtue of any other enactment.
 
@@ -56,7 +56,7 @@ and for the purposes of any action of damages in Scotland arising out of the dea
 
 *Extent: S*
 
-(10)[^key-df2affade460e13ced56c2aae3f046e2] In subsection (2) above, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
+(10)[^c-df2affade460e13ced56c2aae3f046e2] In subsection (2) above, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
 
 ## Annotations
 
@@ -64,7 +64,7 @@ and for the purposes of any action of damages in Scotland arising out of the dea
 
 [^c13739301]: Extent: For extent see s. 164(4)(5).
 
-[^key-3da51a7ccee498b45f10d3dca8d46bed]: Modification: Pt. 2 modified (S.) (27.3.2011) by [The Waste Management Licensing (Scotland) Regulations 2011 (S.S.I. 2011/228)](https://www.legislation.gov.uk/ssi/2011/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/228/regulation/1/1), [sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2011/228/schedule/4/paragraph/11) (with [regs. 31-33](https://www.legislation.gov.uk/ssi/2011/228/regulation/31))
+[^c-3da51a7ccee498b45f10d3dca8d46bed]: Modification: Pt. 2 modified (S.) (27.3.2011) by [The Waste Management Licensing (Scotland) Regulations 2011 (S.S.I. 2011/228)](https://www.legislation.gov.uk/ssi/2011/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/228/regulation/1/1), [sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2011/228/schedule/4/paragraph/11) (with [regs. 31-33](https://www.legislation.gov.uk/ssi/2011/228/regulation/31))
 
 [^c13739311]: Marginal citation: [1945 c. 28](https://www.legislation.gov.uk/ukpga/1945/28).
 
@@ -72,4 +72,4 @@ and for the purposes of any action of damages in Scotland arising out of the dea
 
 [^c13739331]: Marginal citation: [1980 c. 58](https://www.legislation.gov.uk/ukpga/1980/58).
 
-[^key-df2affade460e13ced56c2aae3f046e2]: Textual amendment: S. 73(10) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 40(5)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/40/5); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-df2affade460e13ced56c2aae3f046e2]: Textual amendment: S. 73(10) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 40(5)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/40/5); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

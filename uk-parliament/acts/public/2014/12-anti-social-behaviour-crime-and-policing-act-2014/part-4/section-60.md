@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Duration of public spaces protection orders[^key-3ec92cd8b188e0a514cc3bbf8f691b5a][^key-af478f558e07b47ea28bab171c7b1d2a]
+## 60. Duration of public spaces protection orders[^c-3ec92cd8b188e0a514cc3bbf8f691b5a][^c-af478f558e07b47ea28bab171c7b1d2a]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ec92cd8b188e0a514cc3bbf8f691b5a]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2014/12/section/60) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-3ec92cd8b188e0a514cc3bbf8f691b5a]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2014/12/section/60) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
 
-[^key-af478f558e07b47ea28bab171c7b1d2a]: Textual amendment: Words in [s. 60 heading](https://www.legislation.gov.uk/ukpga/2014/12/part/4/chapter/2/crossheading/public-spaces-protection-orders) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/7/paragraph/5); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-af478f558e07b47ea28bab171c7b1d2a]: Textual amendment: Words in [s. 60 heading](https://www.legislation.gov.uk/ukpga/2014/12/part/4/chapter/2/crossheading/public-spaces-protection-orders) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/7/paragraph/5); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)

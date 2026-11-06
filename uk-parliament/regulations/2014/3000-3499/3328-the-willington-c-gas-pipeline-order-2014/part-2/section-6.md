@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Operation and use of authorised development[^key-9db958afa091050d3c86a21008039375]
+## 6. Operation and use of authorised development[^c-9db958afa091050d3c86a21008039375]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker may at any time operate and use the authorised development, excep
 
 ## Annotations
 
-[^key-9db958afa091050d3c86a21008039375]: Commencement: Art. 6 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-9db958afa091050d3c86a21008039375]: Commencement: Art. 6 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)

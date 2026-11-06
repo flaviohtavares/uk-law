@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Returns as to referendum expenses.[^c10574951][^c20061221][^key-d819b5cfe0ff1852739eea0a3d431ffc][^key-071da3acb6592a652d60aaad9e125afe][^key-111c3b24b3baa17782386f5fb969b364][^key-a653abfd6b9f819ba7dfd4dfc4f02f34]
+## 120. Returns as to referendum expenses.[^c10574951][^c20061221][^c-d819b5cfe0ff1852739eea0a3d431ffc][^c-071da3acb6592a652d60aaad9e125afe][^c-111c3b24b3baa17782386f5fb969b364][^c-a653abfd6b9f819ba7dfd4dfc4f02f34]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,10 +51,10 @@ the responsible person shall make a return under this section in respect of the 
 
 [^c20061221]: Modification: S. 120 applied (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [art. 7(2)](https://www.legislation.gov.uk/uksi/2004/1962/article/7/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2004/1962/schedule/3/part/2)
 
-[^key-d819b5cfe0ff1852739eea0a3d431ffc]: Modification: Ss. 120-123 modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 1 para. 17(3)(c)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/1/paragraph/17/3/c)
+[^c-d819b5cfe0ff1852739eea0a3d431ffc]: Modification: Ss. 120-123 modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 1 para. 17(3)(c)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/1/paragraph/17/3/c)
 
-[^key-071da3acb6592a652d60aaad9e125afe]: Modification: S. 120 modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/6/2), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1)
+[^c-071da3acb6592a652d60aaad9e125afe]: Modification: S. 120 modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/6/2), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1)
 
-[^key-111c3b24b3baa17782386f5fb969b364]: Modification: S. 120 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/23); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-111c3b24b3baa17782386f5fb969b364]: Modification: S. 120 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/23); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-a653abfd6b9f819ba7dfd4dfc4f02f34]: Modification: S. 120 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/1); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-a653abfd6b9f819ba7dfd4dfc4f02f34]: Modification: S. 120 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/1); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

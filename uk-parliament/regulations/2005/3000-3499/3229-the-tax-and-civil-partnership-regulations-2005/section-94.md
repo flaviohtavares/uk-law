@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94.[^key-9fd8774605ae3a4f0f96e05fd10a60b2]
+## 94.[^c-9fd8774605ae3a4f0f96e05fd10a60b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 687 (payments under discretionary trusts), in subsection (1)(b)[^f000
 
 ## Annotations
 
-[^key-9fd8774605ae3a4f0f96e05fd10a60b2]: Commencement: Reg. 94 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-9fd8774605ae3a4f0f96e05fd10a60b2]: Commencement: Reg. 94 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
 
 [^f00023]: Footnote: Subsection (1)(b) was amended by section 882 of, and paragraph 278 of Schedule 1 to, the Income Tax (Trading and Other Income) Act 2005.

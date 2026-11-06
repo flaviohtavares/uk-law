@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Not exhibiting licence: period of grace[^key-ff33d5ed6b9d20c0a5dd4d70b3c64696]
+## 33A. Not exhibiting licence: period of grace[^c-ff33d5ed6b9d20c0a5dd4d70b3c64696]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff33d5ed6b9d20c0a5dd4d70b3c64696]: Textual amendment: S. 33A omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 14](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/14), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-ff33d5ed6b9d20c0a5dd4d70b3c64696]: Textual amendment: S. 33A omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 14](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/14), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)

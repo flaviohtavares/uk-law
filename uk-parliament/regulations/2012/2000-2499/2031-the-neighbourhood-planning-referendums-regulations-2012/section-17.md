@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Business referendums[^key-e36109647d3d3f81db70727ae839d1d0]
+## 17. Business referendums[^c-e36109647d3d3f81db70727ae839d1d0]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e36109647d3d3f81db70727ae839d1d0]: Textual amendment: Reg. 17 inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2013/798/regulation/7/1)
+[^c-e36109647d3d3f81db70727ae839d1d0]: Textual amendment: Reg. 17 inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2013/798/regulation/7/1)

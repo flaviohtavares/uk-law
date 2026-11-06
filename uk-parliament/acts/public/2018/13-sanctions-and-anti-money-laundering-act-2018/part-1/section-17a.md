@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. Enforcement: monetary penalties[^key-e49644bc7fd6858797636620ac53d8fb]
+## 17A. Enforcement: monetary penalties[^c-e49644bc7fd6858797636620ac53d8fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e49644bc7fd6858797636620ac53d8fb]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/ukpga/2018/13/section/17A) inserted (26.10.2023 for specified purposes, 15.11.2023 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 214(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/214/4), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1206/regulation/2)
+[^c-e49644bc7fd6858797636620ac53d8fb]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/ukpga/2018/13/section/17A) inserted (26.10.2023 for specified purposes, 15.11.2023 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 214(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/214/4), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1206/regulation/2)

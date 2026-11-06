@@ -51,11 +51,11 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the conferment of preferential treatment in insolvency for debts arising from the application of levies on the production of coal and steel, in exercise of the powers conferred on him by that section and of all his other enabling powers, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-e4dfaac210a01c3dae0835f6d2df5edd]
+## 1. Citation and commencement[^c-e4dfaac210a01c3dae0835f6d2df5edd]
 
 These Regulations, which extend to Great Britain, may be cited as the Insolvency (ECSC Levy Debts) Regulations 1987 and shall come into force on 1st January 1988.
 
-## 2. Amendment of Insolvency Act 1986[^key-39e87225aabcb93bfb824444a609ed55]
+## 2. Amendment of Insolvency Act 1986[^c-39e87225aabcb93bfb824444a609ed55]
 
 (1) Schedule 6 to the Insolvency Act 1986[^f00003] is hereby amended by the insertion after paragraph 15 of the following paragraph—
 
@@ -72,11 +72,11 @@ These Regulations, which extend to Great Britain, may be cited as the Insolvency
 
 (3) The amendment made by paragraph (1) above shall have effect in relation to a debtor whether the relevant date referred to in that amendment is a date falling before or after the commencement of these Regulations, but shall not affect any declaration or payment of a dividend made before that commencement.
 
-## 3. Amendment of Bankruptcy (Scotland) Act 1985[^key-2c86068f4aab617c8176e8b27c726ed6]
+## 3. Amendment of Bankruptcy (Scotland) Act 1985[^c-2c86068f4aab617c8176e8b27c726ed6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Preferential treatment under former law[^key-d6895f90839c3237d4ab6e55ef6370ae]
+## 4. Preferential treatment under former law[^c-d6895f90839c3237d4ab6e55ef6370ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -98,14 +98,14 @@ These Regulations implement Commission Recommendation 86/198/ECSC (OJ No. L144, 
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-e4dfaac210a01c3dae0835f6d2df5edd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1987/2093/regulation/1) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2093/regulation/1)
+[^c-e4dfaac210a01c3dae0835f6d2df5edd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1987/2093/regulation/1) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2093/regulation/1)
 
-[^key-39e87225aabcb93bfb824444a609ed55]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1987/2093/regulation/2) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2093/regulation/1)
+[^c-39e87225aabcb93bfb824444a609ed55]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1987/2093/regulation/2) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2093/regulation/1)
 
 [^f00003]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
 [^f00004]: Footnote: OJ No. 1, 30.12.52, p.4 (OJ/SE 1952—1958 p.4).
 
-[^key-2c86068f4aab617c8176e8b27c726ed6]: Textual amendment: Reg. 3 revoked (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/2)
+[^c-2c86068f4aab617c8176e8b27c726ed6]: Textual amendment: Reg. 3 revoked (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/2)
 
-[^key-d6895f90839c3237d4ab6e55ef6370ae]: Textual amendment: Reg. 4 revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-d6895f90839c3237d4ab6e55ef6370ae]: Textual amendment: Reg. 4 revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

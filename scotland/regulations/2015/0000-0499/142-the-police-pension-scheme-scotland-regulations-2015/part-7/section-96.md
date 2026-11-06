@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Referral of medical question for purpose of reduction of benefits[^key-0a2da273db3649cdb5957f2ac2d42045]
+## 96. Referral of medical question for purpose of reduction of benefits[^c-0a2da273db3649cdb5957f2ac2d42045]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a2da273db3649cdb5957f2ac2d42045]: Commencement: Reg. 96 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-0a2da273db3649cdb5957f2ac2d42045]: Commencement: Reg. 96 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

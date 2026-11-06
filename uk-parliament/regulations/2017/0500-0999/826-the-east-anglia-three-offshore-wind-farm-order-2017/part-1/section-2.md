@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-0e798e1a5c9f87ad73e4b87707570eda]
+## 2. Interpretation[^c-0e798e1a5c9f87ad73e4b87707570eda]
 
 *Extent: E+W+S*
 
@@ -57,7 +57,7 @@ summary: ''
 - “gravity base foundation” means a structure principally of steel, concrete, or steel and concrete which rests on the seabed either due to its own weight with or without added ballast or additional skirts and associated equipment including scour protection, J-tubes, corrosion protection systems and access platform(s) and equipment;
 - “highway” and “highway authority” have the same meaning as in the 1980 Act[^f00016];
 - “in principle monitoring plan” means the document certified as the in principle monitoring plan by the Secretary of State for the purposes of this Order under article 32 (certification of plans etc.);
-- “jacket foundation” means a steel jacket/ lattice-type structure constructed of steel which is fixed to the seabed at two or more points with steel pin piles or steel suction caissons and associated equipment including scour protection, J-tubes, corrosion protection systems and access platform(s) and equipment [^key-a1e860fbca9384c619e3387f540e3e62]...;
+- “jacket foundation” means a steel jacket/ lattice-type structure constructed of steel which is fixed to the seabed at two or more points with steel pin piles or steel suction caissons and associated equipment including scour protection, J-tubes, corrosion protection systems and access platform(s) and equipment [^c-a1e860fbca9384c619e3387f540e3e62]...;
 - “jointing bay” means an excavation formed to enable the jointing of high voltage power cables;
 - “jointing works” means a process by which two or more cables are connected to each other by means of cable joints within a jointing bay;
 - “land plan” means the plan certified as the land plan by the Secretary of State for the purposes of this Order under article 32 (certification of plans etc.);
@@ -80,7 +80,7 @@ summary: ''
 - “outline code of construction practice” means the document certified as the outline code of construction practice by the Secretary of State for the purposes of this Order under article 32 (certification of plans etc.);
 - “outline landscape and ecological management strategy” means the document certified as the outline landscape and ecological management strategy by the Secretary of State for the purposes of this Order under article 32 (certification of plans etc.);
 - “outline navigation monitoring strategy” means the document certified as the outline navigation monitoring strategy by the Secretary of State for the purposes of this Order under article 32 (certification of plans etc.);
-- “outline offshore operations and maintenance plan” means the document certified as the outline offshore operations and maintenance plan by the Secretary of State for the purposes of this Order[^key-20ea8820283d3d8ccc33ba4ede62c6e1] under article 32 (certification of plans etc.);
+- “outline offshore operations and maintenance plan” means the document certified as the outline offshore operations and maintenance plan by the Secretary of State for the purposes of this Order[^c-20ea8820283d3d8ccc33ba4ede62c6e1] under article 32 (certification of plans etc.);
 - “outline traffic management plan” means the document certified as the outline traffic management plan by the Secretary of State for the purposes of this Order under article 32 (certification of plans etc.);
 - “outline written scheme of investigation (offshore)” means the document certified as the outline written scheme of investigation (offshore) by the Secretary of State for the purposes of this Order under article 32 (certification of plans etc.);
 - “outline travel plan” means the document certified as the outline travel plan by the Secretary of State for the purposes of this Order under article 32 (certification of plans etc.);
@@ -89,7 +89,7 @@ summary: ''
 - “pin piles” means steel cylindrical piles driven and/or drilled into the seabed to secure steel jacket foundations;
 - “platform exclusion zone” means the area shown as such on the offshore works plan
 - “primary construction consolidation site” means a construction consolidation site whose footprint does not exceed the dimensions specified in requirement 12 (detailed design parameters onshore);
-- [^key-a6407ac2e4fa0350d408aeee485aec0f]...
+- [^c-a6407ac2e4fa0350d408aeee485aec0f]...
 - “relevant planning authority” means the district planning authority for the area in which the land to which the relevant provision of this Order applies is situated;
 - “requirements” means those matters set out in Part 3 of Schedule 1 (requirements) to this Order;
 - “secondary construction consolidation site” means a construction consolidation site whose footprint does not exceed the dimensions specified in requirement 12 (detailed design parameters onshore);
@@ -123,7 +123,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0e798e1a5c9f87ad73e4b87707570eda]: Commencement: Art. 2 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-0e798e1a5c9f87ad73e4b87707570eda]: Commencement: Art. 2 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
 [^f00003]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -153,13 +153,13 @@ summary: ''
 
 [^f00016]: Footnote: “Highway” is defined in section 328(1). For “highway authority”, see section 1.
 
-[^key-a1e860fbca9384c619e3387f540e3e62]: Textual amendment: Words in art. 2(1) omitted (16.4.2021) by virtue of [The East Anglia THREE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/471)](https://www.legislation.gov.uk/uksi/2021/471), [arts. 1](https://www.legislation.gov.uk/uksi/2021/471/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2021/471/article/3/a)
+[^c-a1e860fbca9384c619e3387f540e3e62]: Textual amendment: Words in art. 2(1) omitted (16.4.2021) by virtue of [The East Anglia THREE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/471)](https://www.legislation.gov.uk/uksi/2021/471), [arts. 1](https://www.legislation.gov.uk/uksi/2021/471/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2021/471/article/3/a)
 
-[^key-20ea8820283d3d8ccc33ba4ede62c6e1]: Textual amendment: Words in art. 2(1) substituted (13.7.2018) by [The East Anglia THREE Offshore Wind Farm (Correction) Order 2018 (S.I. 2018/843)](https://www.legislation.gov.uk/uksi/2018/843), [art. 1](https://www.legislation.gov.uk/uksi/2018/843/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/843/schedule)
+[^c-20ea8820283d3d8ccc33ba4ede62c6e1]: Textual amendment: Words in art. 2(1) substituted (13.7.2018) by [The East Anglia THREE Offshore Wind Farm (Correction) Order 2018 (S.I. 2018/843)](https://www.legislation.gov.uk/uksi/2018/843), [art. 1](https://www.legislation.gov.uk/uksi/2018/843/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/843/schedule)
 
 [^f00017]: Footnote: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67). Section 7 was amended by section 70 of, and paragraph 9 of Schedule 15 to, the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the Act which are not relevant to this Order.
 
-[^key-a6407ac2e4fa0350d408aeee485aec0f]: Textual amendment: Words in art. 2(1) omitted (16.4.2021) by virtue of [The East Anglia THREE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/471)](https://www.legislation.gov.uk/uksi/2021/471), [arts. 1](https://www.legislation.gov.uk/uksi/2021/471/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2021/471/article/3/b)
+[^c-a6407ac2e4fa0350d408aeee485aec0f]: Textual amendment: Words in art. 2(1) omitted (16.4.2021) by virtue of [The East Anglia THREE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/471)](https://www.legislation.gov.uk/uksi/2021/471), [arts. 1](https://www.legislation.gov.uk/uksi/2021/471/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2021/471/article/3/b)
 
 [^f00018]: Footnote: Section 48 was amended by section 124(2) of the Local Transport Act [2008 (c.26)](https://www.legislation.gov.uk/ukpga/2008/26).
 

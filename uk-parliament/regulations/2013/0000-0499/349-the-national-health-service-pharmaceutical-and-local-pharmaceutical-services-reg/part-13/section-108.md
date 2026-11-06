@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Before NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] becomes a party to an LPS scheme with any person, it must determine whether that person is to be given a right of return to a pharmaceutical list if that person makes an application under regulation 28 and satisfies the conditions for a grant of an application under that regulation.
+(1) Before NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] becomes a party to an LPS scheme with any person, it must determine whether that person is to be given a right of return to a pharmaceutical list if that person makes an application under regulation 28 and satisfies the conditions for a grant of an application under that regulation.
 
 (2) If an LPS scheme is varied so as to—
 
@@ -61,4 +61,4 @@ NHS England must review any right of return granted under this regulation or reg
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

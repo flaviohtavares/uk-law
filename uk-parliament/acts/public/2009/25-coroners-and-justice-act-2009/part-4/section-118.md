@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-fd5fecd344a65de4244c1823d44a37a8] There is to be a Sentencing Council for England and Wales.
+(1)[^c-fd5fecd344a65de4244c1823d44a37a8] There is to be a Sentencing Council for England and Wales.
 
-(2)[^key-aae0ad3c7121a8727b7b273ec7dadd74][^key-19d17c003c3e96152980d1699e5264e7] Schedule 15 makes provision about the Council.
+(2)[^c-aae0ad3c7121a8727b7b273ec7dadd74][^c-19d17c003c3e96152980d1699e5264e7] Schedule 15 makes provision about the Council.
 
 ## Annotations
 
-[^key-fd5fecd344a65de4244c1823d44a37a8]: Commencement: [S. 118(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/118/1) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/7)
+[^c-fd5fecd344a65de4244c1823d44a37a8]: Commencement: [S. 118(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/118/1) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/7)
 
-[^key-aae0ad3c7121a8727b7b273ec7dadd74]: Commencement: [S. 118(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/118/2) in force at 1.2.2010 for specified purposes by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/9)
+[^c-aae0ad3c7121a8727b7b273ec7dadd74]: Commencement: [S. 118(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/118/2) in force at 1.2.2010 for specified purposes by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/9)
 
-[^key-19d17c003c3e96152980d1699e5264e7]: Commencement: [S. 118(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/118/2) in force at 6.4.2010 in so far as not already in force by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/7)
+[^c-19d17c003c3e96152980d1699e5264e7]: Commencement: [S. 118(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/118/2) in force at 6.4.2010 in so far as not already in force by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/7)

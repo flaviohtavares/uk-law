@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Liability for assistance given in error[^key-d705f7167c8b39918c3396baf85f4ae7]
+## 11. Liability for assistance given in error[^c-d705f7167c8b39918c3396baf85f4ae7]
 
 *Extent: S*
 
@@ -110,4 +110,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d705f7167c8b39918c3396baf85f4ae7]: Commencement: S. 11 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-d705f7167c8b39918c3396baf85f4ae7]: Commencement: S. 11 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)

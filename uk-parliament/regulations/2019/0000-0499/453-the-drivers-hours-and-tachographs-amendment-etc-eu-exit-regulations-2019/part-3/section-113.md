@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Annex XIII to the EEA agreement[^key-99701b16064f551a816ffcad72bd4ed7]
+## 113. Annex XIII to the EEA agreement[^c-99701b16064f551a816ffcad72bd4ed7]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Annex XIII to the EEA agreement, omit the following (which refer to Regulatio
 
 ## Annotations
 
-[^key-99701b16064f551a816ffcad72bd4ed7]: Commencement: Reg. 113 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-99701b16064f551a816ffcad72bd4ed7]: Commencement: Reg. 113 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

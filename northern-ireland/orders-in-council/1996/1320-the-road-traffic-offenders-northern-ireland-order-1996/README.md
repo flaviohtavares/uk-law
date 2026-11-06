@@ -26,7 +26,7 @@ summary: ''
 
 1996 No. 1320 (N.I. 10)
 
-The Road Traffic Offenders (Northern Ireland) Order 1996[^key-89c8f3f178651efcd19cafa415770742]
+The Road Traffic Offenders (Northern Ireland) Order 1996[^c-89c8f3f178651efcd19cafa415770742]
 
 15th May 1996 [^c2177776]
 
@@ -220,7 +220,7 @@ The Road Traffic Offenders (Northern Ireland) Order 1996[^key-89c8f3f178651efcd1
 - [Section 91E — Prohibition on driving on failure to make payment](part-iva/section-91e.md)
 - [Section 91F — Orders about financial penalty deposits](part-iva/section-91f.md)
 
-### PART 4B — Courses offered as alternative to prosecution[^key-66f2771f046bc4806a817a74ef9aff2b]
+### PART 4B — Courses offered as alternative to prosecution[^c-66f2771f046bc4806a817a74ef9aff2b]
 
 - [Section 91G — Power to charge fees](part-4b/section-91g.md)
 - [Section 91H — Power to prevent courses being offered for repeat offences](part-4b/section-91h.md)
@@ -251,10 +251,10 @@ SCHEDULES
 
 ## Annotations
 
-[^key-89c8f3f178651efcd19cafa415770742]: Modification: [Order](https://www.legislation.gov.uk/nisi/1996/1320): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-89c8f3f178651efcd19cafa415770742]: Modification: [Order](https://www.legislation.gov.uk/nisi/1996/1320): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c2177776]: Modification: Order: functions of Lord Chancellor are transferred to the Department of Justice (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(1)(6)](https://www.legislation.gov.uk/uksi/2010/976/article/15/1/6), [Sch. 17 para. 46](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/46) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
 [^c2103094]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/nisi/1996/1320/part/IV)A (arts. 91A-91F) inserted (23.4.2012) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3), [12(1)](https://www.legislation.gov.uk/nisi/2007/916/article/12/1); [S.R. 2012/16](https://www.legislation.gov.uk/nisr/2012/16), [art. 2](https://www.legislation.gov.uk/nisr/2012/16/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/16/schedule)
 
-[^key-66f2771f046bc4806a817a74ef9aff2b]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/nisi/1996/1320/part/4B) inserted (26.10.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 89(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/89/2), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/f)
+[^c-66f2771f046bc4806a817a74ef9aff2b]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/nisi/1996/1320/part/4B) inserted (26.10.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 89(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/89/2), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/f)

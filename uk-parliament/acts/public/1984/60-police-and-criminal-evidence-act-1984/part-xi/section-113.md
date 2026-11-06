@@ -41,7 +41,7 @@ which is equivalent to that made by any provision of Part 5 of this Act (or this
 
 (4) [^c18901541]Without prejudice to the generality of subsection (3) above, a code . . . may contain provisions, in connection with the powers mentioned in subsection (3)(a) above or the[^c11331971] investigations[^c19016072] mentioned in subsection (3)(b) above, as to the following matters—
 
-- (a) the audio recording[^key-5c8a87d86f586dd81a0736647db29239] of interviews;
+- (a) the audio recording[^c-5c8a87d86f586dd81a0736647db29239] of interviews;
 - (b) searches of persons and premises; and
 - (c) the seizure of things found on searches.
 
@@ -98,7 +98,7 @@ and section 376(1) and (2) of that Act (meaning of “**convicted**” in relati
 
 [^c19016072]: Textual amendment: Word in s. 113(4) substituted (28.3.2009 for certain purposes and otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 16 para. 105(5)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/105/5); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-5c8a87d86f586dd81a0736647db29239]: Textual amendment: Words in s. 113(4)(a) substituted (31.1.2017 for specified purposes, 31.3.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 76(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/76/3), [183(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e)[(6)(a)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/6/a)
+[^c-5c8a87d86f586dd81a0736647db29239]: Textual amendment: Words in s. 113(4)(a) substituted (31.1.2017 for specified purposes, 31.3.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 76(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/76/3), [183(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e)[(6)(a)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/6/a)
 
 [^c18901381]: Textual amendment: S. 113(5)-(7) substituted (20.1.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/11/4), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336); [S.I. 2004/81](https://www.legislation.gov.uk/uksi/2004/81), [art. 2(1)(2)(a)](https://www.legislation.gov.uk/uksi/2004/81/article/2/1/2/a)
 

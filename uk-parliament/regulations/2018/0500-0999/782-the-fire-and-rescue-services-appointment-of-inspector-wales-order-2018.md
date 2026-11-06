@@ -31,7 +31,7 @@ summary: ''
 
 Fire And Rescue Services, Wales
 
-The Fire and Rescue Services (Appointment of Inspector) (Wales) Order 2018 (revoked)[^key-b4e842c42c37c1d15960d9aae93641a9]
+The Fire and Rescue Services (Appointment of Inspector) (Wales) Order 2018 (revoked)[^c-b4e842c42c37c1d15960d9aae93641a9]
 
 Made
 
@@ -47,28 +47,28 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-b4e842c42c37c1d15960d9aae93641a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4e842c42c37c1d15960d9aae93641a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-b4e842c42c37c1d15960d9aae93641a9]
+## 1. Citation and Commencement[^c-b4e842c42c37c1d15960d9aae93641a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointment of Inspector[^key-b4e842c42c37c1d15960d9aae93641a9]
+## 2. Appointment of Inspector[^c-b4e842c42c37c1d15960d9aae93641a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of appointment[^key-b4e842c42c37c1d15960d9aae93641a9]
+## 3. Revocation of appointment[^c-b4e842c42c37c1d15960d9aae93641a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b4e842c42c37c1d15960d9aae93641a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4e842c42c37c1d15960d9aae93641a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b4e842c42c37c1d15960d9aae93641a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4e842c42c37c1d15960d9aae93641a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b4e842c42c37c1d15960d9aae93641a9]: Textual amendment: Order revoked (9.10.2019) by [The Fire and Rescue Services (Appointment of Inspector) (Wales) (Revocation) Order 2019 (S.I. 2019/1326)](https://www.legislation.gov.uk/uksi/2019/1326), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1326/article/1), [2](https://www.legislation.gov.uk/uksi/2019/1326/article/2)
+[^c-b4e842c42c37c1d15960d9aae93641a9]: Textual amendment: Order revoked (9.10.2019) by [The Fire and Rescue Services (Appointment of Inspector) (Wales) (Revocation) Order 2019 (S.I. 2019/1326)](https://www.legislation.gov.uk/uksi/2019/1326), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1326/article/1), [2](https://www.legislation.gov.uk/uksi/2019/1326/article/2)

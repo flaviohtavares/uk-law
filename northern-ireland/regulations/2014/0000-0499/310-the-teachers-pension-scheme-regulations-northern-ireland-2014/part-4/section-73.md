@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Meaning of “standard reduction”[^key-6b0ca8bfc501bfe86415385e9a9e69a4]
+## 73. Meaning of “standard reduction”[^c-6b0ca8bfc501bfe86415385e9a9e69a4]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b0ca8bfc501bfe86415385e9a9e69a4]: Modification: [Reg. 73](https://www.legislation.gov.uk/nisr/2014/310/regulation/73) excluded (1.4.2015) by [The Teachers’ Pension Scheme (Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/170)](https://www.legislation.gov.uk/nisr/2015/170), [regs. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1), [15(1)(b)](https://www.legislation.gov.uk/nisr/2015/170/regulation/15/1/b)
+[^c-6b0ca8bfc501bfe86415385e9a9e69a4]: Modification: [Reg. 73](https://www.legislation.gov.uk/nisr/2014/310/regulation/73) excluded (1.4.2015) by [The Teachers’ Pension Scheme (Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/170)](https://www.legislation.gov.uk/nisr/2015/170), [regs. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1), [15(1)(b)](https://www.legislation.gov.uk/nisr/2015/170/regulation/15/1/b)

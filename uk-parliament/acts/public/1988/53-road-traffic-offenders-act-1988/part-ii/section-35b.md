@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35B. Effect of custodial sentence in other cases[^key-912ffc50b9463b16ca8426ec4152f916]
+## 35B. Effect of custodial sentence in other cases[^c-912ffc50b9463b16ca8426ec4152f916]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-912ffc50b9463b16ca8426ec4152f916]: Textual amendment: Ss. 35A, 35B inserted (13.4.2015) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 16 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/2/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 29](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/29)); [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/819/article/2/b)
+[^c-912ffc50b9463b16ca8426ec4152f916]: Textual amendment: Ss. 35A, 35B inserted (13.4.2015) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 16 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/2/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 29](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/29)); [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/819/article/2/b)

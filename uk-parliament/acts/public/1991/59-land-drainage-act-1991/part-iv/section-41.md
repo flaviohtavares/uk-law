@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to section 38 above and section 47 below, a rate made by the drainage board for an internal drainage district shall be assessed at a uniform amount per pound throughout the district on the annual value of the agricultural land or agricultural buildings in respect of which it is made.
 
-(2) For the purposes of this Chapter the annual value of any chargeable property shall (subject to sections 43 and 44 below) be the amount, determined in accordance with section 42 below, which is equal to the yearly rent, in respect of a holding comprising the chargeable property, at which the holding might reasonably be expected to have been let, by a prudent and willing landlord to a prudent and willing tenant, on a tenancy from year to year commencing on 1st April 1988 and on the relevant terms. This is subject to section 41A below.[^key-3079e63493b41914a845b792341253a2]
+(2) For the purposes of this Chapter the annual value of any chargeable property shall (subject to sections 43 and 44 below) be the amount, determined in accordance with section 42 below, which is equal to the yearly rent, in respect of a holding comprising the chargeable property, at which the holding might reasonably be expected to have been let, by a prudent and willing landlord to a prudent and willing tenant, on a tenancy from year to year commencing on 1st April 1988 and on the relevant terms. This is subject to section 41A below.[^c-3079e63493b41914a845b792341253a2]
 
 (3) For the purposes of subsection (2) above chargeable property is let on the relevant terms if—
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3079e63493b41914a845b792341253a2]: Textual amendment: Words in [s. 41(2)](https://www.legislation.gov.uk/ukpga/1991/59/section/41/2) inserted (29.9.2022 for specified purposes) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/96/2), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/988](https://www.legislation.gov.uk/uksi/2022/988), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/988/regulation/2/b)
+[^c-3079e63493b41914a845b792341253a2]: Textual amendment: Words in [s. 41(2)](https://www.legislation.gov.uk/ukpga/1991/59/section/41/2) inserted (29.9.2022 for specified purposes) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/96/2), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/988](https://www.legislation.gov.uk/uksi/2022/988), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/988/regulation/2/b)
 
 [^c1415479]: Marginal citation: [S.I. 1973/1473](https://www.legislation.gov.uk/uksi/1973/1473).

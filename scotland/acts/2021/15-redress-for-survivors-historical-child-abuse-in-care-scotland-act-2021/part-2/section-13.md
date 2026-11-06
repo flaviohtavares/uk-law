@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Principle of dignity, respect and compassion[^key-98ce4a2107717ddf2350843c7648a52a]
+## 13. Principle of dignity, respect and compassion[^c-98ce4a2107717ddf2350843c7648a52a]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98ce4a2107717ddf2350843c7648a52a]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2021/15/section/13) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-98ce4a2107717ddf2350843c7648a52a]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2021/15/section/13) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

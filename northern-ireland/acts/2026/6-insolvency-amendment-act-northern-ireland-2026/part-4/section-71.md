@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Prosecution of delinquent debtors[^key-f370afae15e9980d1aa3380af182e755]
+## 71. Prosecution of delinquent debtors[^c-f370afae15e9980d1aa3380af182e755]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 236B(1) (prosecution of delinquent debtors), for “creditors’ meet
 
 ## Annotations
 
-[^key-f370afae15e9980d1aa3380af182e755]: Commencement: S. 71 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-f370afae15e9980d1aa3380af182e755]: Commencement: S. 71 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

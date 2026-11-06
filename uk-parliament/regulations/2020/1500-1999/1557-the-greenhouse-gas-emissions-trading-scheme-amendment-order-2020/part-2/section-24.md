@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Article 44 amended (enforcement notices)[^key-d8236115f55095a6d4821d45af8eabeb][^key-e97b056bf64a20296e03e5612934deed]
+## 24. Article 44 amended (enforcement notices)[^c-d8236115f55095a6d4821d45af8eabeb][^c-e97b056bf64a20296e03e5612934deed]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8236115f55095a6d4821d45af8eabeb]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/uksi/2020/1557/article/24) omitted (14.4.2022) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2022 (S.I. 2022/454)](https://www.legislation.gov.uk/uksi/2022/454), [arts. 2](https://www.legislation.gov.uk/uksi/2022/454/article/2), [14(2)](https://www.legislation.gov.uk/uksi/2022/454/article/14/2)
+[^c-d8236115f55095a6d4821d45af8eabeb]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/uksi/2020/1557/article/24) omitted (14.4.2022) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2022 (S.I. 2022/454)](https://www.legislation.gov.uk/uksi/2022/454), [arts. 2](https://www.legislation.gov.uk/uksi/2022/454/article/2), [14(2)](https://www.legislation.gov.uk/uksi/2022/454/article/14/2)
 
-[^key-e97b056bf64a20296e03e5612934deed]: Commencement: Art. 24 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-e97b056bf64a20296e03e5612934deed]: Commencement: Art. 24 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

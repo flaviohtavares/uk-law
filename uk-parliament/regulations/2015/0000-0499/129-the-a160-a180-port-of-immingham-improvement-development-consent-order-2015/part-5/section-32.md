@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Recovery of costs of new connections[^key-9e7d0d926bbdf6b342ceb6a8eefbcee8]
+## 32. Recovery of costs of new connections[^c-9e7d0d926bbdf6b342ceb6a8eefbcee8]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ is entitled to recover from the Secretary of State compensation in respect of ex
 
 ## Annotations
 
-[^key-9e7d0d926bbdf6b342ceb6a8eefbcee8]: Commencement: Art. 32 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-9e7d0d926bbdf6b342ceb6a8eefbcee8]: Commencement: Art. 32 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)

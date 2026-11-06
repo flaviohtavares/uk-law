@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Power of police to require review of premises licence[^key-8bb5a06b5b4134fb828e2fdc3d3d9378]
+## 21. Power of police to require review of premises licence[^c-8bb5a06b5b4134fb828e2fdc3d3d9378]
 
 *Extent: E+W*
 
@@ -146,4 +146,4 @@ After section 53 of the Licensing Act 2003 (c. 17), insert—
 
 ## Annotations
 
-[^key-8bb5a06b5b4134fb828e2fdc3d3d9378]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2006/38/section/21) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/a)
+[^c-8bb5a06b5b4134fb828e2fdc3d3d9378]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2006/38/section/21) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/a)

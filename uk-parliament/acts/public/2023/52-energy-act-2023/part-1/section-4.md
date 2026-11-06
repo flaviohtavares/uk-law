@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Territorial scope of prohibition[^key-440adc411335a83ad50b160c047966b0]
+## 4. Territorial scope of prohibition[^c-440adc411335a83ad50b160c047966b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ as it applies to activities in the United Kingdom.
 
 ## Annotations
 
-[^key-440adc411335a83ad50b160c047966b0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/52/section/4) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-440adc411335a83ad50b160c047966b0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/52/section/4) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

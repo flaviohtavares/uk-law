@@ -25,7 +25,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-6385b746127251b50259be200531c962]Commission Regulation (EC) No 2049/2005
+[^c-6385b746127251b50259be200531c962]Commission Regulation (EC) No 2049/2005
 
 of 15 December 2005
 
@@ -210,7 +210,7 @@ Günter Verheugen
 
 ## Annotations
 
-[^key-6385b746127251b50259be200531c962]: Textual amendment: Regulation revoked in part (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(j)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/j) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6385b746127251b50259be200531c962]: Textual amendment: Regulation revoked in part (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(j)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/j) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00001]: Footnote: [OJ L 136, 30.4.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.136.01.0001.01.ENG).
 

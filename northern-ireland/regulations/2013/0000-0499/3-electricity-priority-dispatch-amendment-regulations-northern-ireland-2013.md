@@ -31,7 +31,7 @@ summary: ''
 
 Electricity
 
-Electricity (Priority Dispatch) (Amendment) Regulations (Northern Ireland) 2013 (revoked)[^key-72384b907a7d4530d8c8a19e2b65ebdf]
+Electricity (Priority Dispatch) (Amendment) Regulations (Northern Ireland) 2013 (revoked)[^c-72384b907a7d4530d8c8a19e2b65ebdf]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 1st February 2013
 
-[^key-72384b907a7d4530d8c8a19e2b65ebdf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72384b907a7d4530d8c8a19e2b65ebdf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-72384b907a7d4530d8c8a19e2b65ebdf]
+## 1. Citation, commencement and interpretation[^c-72384b907a7d4530d8c8a19e2b65ebdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Existing Transmission Licences[^key-72384b907a7d4530d8c8a19e2b65ebdf]
+## 2. Existing Transmission Licences[^c-72384b907a7d4530d8c8a19e2b65ebdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72384b907a7d4530d8c8a19e2b65ebdf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72384b907a7d4530d8c8a19e2b65ebdf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-72384b907a7d4530d8c8a19e2b65ebdf]...
+[^c-72384b907a7d4530d8c8a19e2b65ebdf]...
 
 ## Annotations
 
-[^key-72384b907a7d4530d8c8a19e2b65ebdf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2013/3) revoked (1.4.2021) by [The Electricity (Priority Dispatch) Regulations (Northern Ireland) 2020 (S.R. 2020/306)](https://www.legislation.gov.uk/nisr/2020/306), [reg. 5(b)](https://www.legislation.gov.uk/nisr/2020/306/regulation/5/b)
+[^c-72384b907a7d4530d8c8a19e2b65ebdf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2013/3) revoked (1.4.2021) by [The Electricity (Priority Dispatch) Regulations (Northern Ireland) 2020 (S.R. 2020/306)](https://www.legislation.gov.uk/nisr/2020/306), [reg. 5(b)](https://www.legislation.gov.uk/nisr/2020/306/regulation/5/b)

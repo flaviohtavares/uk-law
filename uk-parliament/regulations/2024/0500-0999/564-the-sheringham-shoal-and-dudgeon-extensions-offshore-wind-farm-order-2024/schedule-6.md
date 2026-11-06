@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Access to works[^key-55ec3d456c489f841420bcad745764de]
+## SCHEDULE 6 — Access to works[^c-55ec3d456c489f841420bcad745764de]
 
 *Extent: E+W*
 
@@ -244,4 +244,4 @@ Article 12
 
 ## Annotations
 
-[^key-55ec3d456c489f841420bcad745764de]: Commencement: Sch. 6 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-55ec3d456c489f841420bcad745764de]: Commencement: Sch. 6 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)

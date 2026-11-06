@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Criminal damage to memorials: mode of trial[^key-6e0ed36c83a9eb2813e2983c5d75b070]
+## 50. Criminal damage to memorials: mode of trial[^c-6e0ed36c83a9eb2813e2983c5d75b070]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e0ed36c83a9eb2813e2983c5d75b070]: Commencement: S. 50 in force at 28.6.2022, see [s. 208(5)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/c)
+[^c-6e0ed36c83a9eb2813e2983c5d75b070]: Commencement: S. 50 in force at 28.6.2022, see [s. 208(5)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/c)

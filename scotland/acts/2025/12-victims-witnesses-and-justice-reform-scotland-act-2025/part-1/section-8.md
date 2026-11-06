@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Restriction on exercise of functions[^key-06ca95c7e2742cc8f562044787bbb83c]
+## 8. Restriction on exercise of functions[^c-06ca95c7e2742cc8f562044787bbb83c]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06ca95c7e2742cc8f562044787bbb83c]: Commencement: S. 8 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-06ca95c7e2742cc8f562044787bbb83c]: Commencement: S. 8 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

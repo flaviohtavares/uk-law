@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Transfers etc from Ministers of the Crown to the Board[^key-63d2b447f9bfc2805e6534de0725ca2f]
+## 58. Transfers etc from Ministers of the Crown to the Board[^c-63d2b447f9bfc2805e6534de0725ca2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63d2b447f9bfc2805e6534de0725ca2f]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2007/18/section/58) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-63d2b447f9bfc2805e6534de0725ca2f]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2007/18/section/58) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

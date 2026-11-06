@@ -50,11 +50,11 @@ In accordance with section 63(3)(a) of the Police Act 1996[^f00003], the Secreta
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-205eb4a4569d3d5f710917714c225708]
+### 1. Citation and commencement[^c-205eb4a4569d3d5f710917714c225708]
 
 These Regulations may be cited as the Police (Performance) Regulations 2020 and come into force on 1st February 2020.
 
-### 2. Application[^key-7581852ccf284e96118ccca7996406ae]
+### 2. Application[^c-7581852ccf284e96118ccca7996406ae]
 
 (1) Subject to paragraph (2), these Regulations apply where unsatisfactory performance or attendance by a police officer comes to the attention of the line manager of the officer, or a chief officer of police, on or after 1st February 2020.
 
@@ -63,7 +63,7 @@ These Regulations may be cited as the Police (Performance) Regulations 2020 and 
 - (a) a member of a police force above the rank of chief superintendent;
 - (b) an officer of the rank of constable who has not completed the period of probation applicable to the officer.
 
-### 3. Revocations and transitional provisions[^key-b2fc8a7c0f8264e8b192a91d30e7e418]
+### 3. Revocations and transitional provisions[^c-b2fc8a7c0f8264e8b192a91d30e7e418]
 
 (1) Subject to paragraph (2), the following Regulations are revoked—
 
@@ -75,14 +75,14 @@ These Regulations may be cited as the Police (Performance) Regulations 2020 and 
 - (a) unsatisfactory performance or attendance or gross incompetence which came to the attention of the line manager of an officer or a chief officer of police before 1st February 2020;
 - (b) unsatisfactory performance or attendance or gross incompetence which came to the attention of the line manager of an officer or a chief officer of police on or after 1st February 2020 but which relates to a matter being handled under the Regulations mentioned in paragraph (1).
 
-### 4. Interpretation and delegation[^key-d8c61bf1919a3251705234333fac474d]
+### 4. Interpretation and delegation[^c-d8c61bf1919a3251705234333fac474d]
 
 (1) In these Regulations—
 
 - “the 1996 Act” means the Police Act 1996;
 - “the 2002 Act” means the Police Reform Act 2002;
 - “the Conduct Regulations” means the Police (Conduct) Regulations 2020[^f00007];
-- “[^key-aa1b8016cbb14c2a8fa32b5892a9a08a]**the Vetting Regulations**” means the Police (Vetting) Regulations 2025;
+- “[^c-aa1b8016cbb14c2a8fa32b5892a9a08a]**the Vetting Regulations**” means the Police (Vetting) Regulations 2025;
 - “**appeal manager**”, in relation to the officer concerned, means the person appointed by the appropriate authority to that role for the purposes of these Regulations, being of a rank or level of seniority which is above that of the line manager of the officer;
 - “appropriate authority” means the chief officer of police of the police force concerned;
 - “complainant” is to be construed in accordance with section 29(2) of the 2002 Act (interpretation of Part 2)[^f00008];
@@ -109,18 +109,18 @@ These Regulations may be cited as the Police (Performance) Regulations 2020 and 
 - “police staff member” means—
   - (a) a member of the civilian staff of a police force, within the meaning of section 102(4) and (6) of the Police Reform and Social Responsibility Act 2011 (interpretation of Part 1)[^f00016], or
   - (b) an employee of the Common Council of the City of London who is under the direction and control of a chief officer;
-- “proposed witness” means a witness whose attendance at a second stage meeting[^key-95ae068d0b9ab178dc5f8cd6c6c256f6] the officer concerned or the appropriate authority (as the case may be) wishes to request of the panel chair;
+- “proposed witness” means a witness whose attendance at a second stage meeting[^c-95ae068d0b9ab178dc5f8cd6c6c256f6] the officer concerned or the appropriate authority (as the case may be) wishes to request of the panel chair;
 - “relevant lawyer” has the same meaning as in section 84(4) of the 1996 Act (representation at disciplinary and other proceedings)[^f00017];
-- [^key-6648718d9df6783910602466630dcd6f]...
+- [^c-6648718d9df6783910602466630dcd6f]...
 - “relevant terms of the written improvement notice” has the meaning given to it by regulation 19;
-- [^key-03c6b4efd164e05bc979c4b37fd0d578]...
-- [^key-a0414768eec6470015d1e0319ce70d99]...
-- “second stage meeting” has the meaning given to it by regulation 30(2) or 32(3)[^key-628066bb0669151025149b13a06ac732], as the context requires;
-- “[^key-de41a0ff6737856455cfc1c3e6d8bc44]**senior manager**”, in relation to the officer concerned, means the police officer or police staff member appointed by the appropriate authority to that role for the purposes of these Regulations, being of at least the same rank or level of seniority as the person who is the appeal manager of the officer;
+- [^c-03c6b4efd164e05bc979c4b37fd0d578]...
+- [^c-a0414768eec6470015d1e0319ce70d99]...
+- “second stage meeting” has the meaning given to it by regulation 30(2) or 32(3)[^c-628066bb0669151025149b13a06ac732], as the context requires;
+- “[^c-de41a0ff6737856455cfc1c3e6d8bc44]**senior manager**”, in relation to the officer concerned, means the police officer or police staff member appointed by the appropriate authority to that role for the purposes of these Regulations, being of at least the same rank or level of seniority as the person who is the appeal manager of the officer;
 - “staff association” means—
-  - (a) in relation to a member of a police force of the rank of chief inspector or below or to a special constable[^key-d67199a2c953f3e50516dfb3b08f59da], the Police Federation of England and Wales, and
+  - (a) in relation to a member of a police force of the rank of chief inspector or below or to a special constable[^c-d67199a2c953f3e50516dfb3b08f59da], the Police Federation of England and Wales, and
   - (b) in relation to a member of a police force of the rank of superintendent or chief superintendent, the Police Superintendents’ Association;
-- [^key-c1ad35039aac861909207327091e71fd]...
+- [^c-c1ad35039aac861909207327091e71fd]...
 - “working day” means any day other than—
   - (a) a Saturday or Sunday;
   - (b) Christmas Day or Good Friday, or
@@ -177,13 +177,13 @@ These Regulations may be cited as the Police (Performance) Regulations 2020 and 
 
 ## PART 2 — General
 
-### 5. Police friend[^key-85c27da401b7e06d9dbd9a2a845898a2]
+### 5. Police friend[^c-85c27da401b7e06d9dbd9a2a845898a2]
 
 (1) The officer concerned may choose—
 
 - (a) a police officer;
 - (b) a police staff member, or
-- (c) [^key-c5d8099a4de93e70fa57d9ffbbb227ea]... a person nominated by the officer’s staff association,
+- (c) [^c-c5d8099a4de93e70fa57d9ffbbb227ea]... a person nominated by the officer’s staff association,
 
 who is not otherwise involved in the matter, to act as a police friend.
 
@@ -198,9 +198,9 @@ who is not otherwise involved in the matter, to act as a police friend.
 
 (4) The reference in paragraph (3) to the force of which the police friend is a member includes a reference to the force maintained for the police area for which a special constable is appointed and the force in which a police staff member is serving.
 
-### 6. Legal and other representation[^key-c154e0f462a0524c5391fbc610525db5]
+### 6. Legal and other representation[^c-c154e0f462a0524c5391fbc610525db5]
 
-(1) Where the officer concerned is required to attend a second stage meeting[^key-77345a92051b5918c751792526c4d7c8] under regulation 32, the officer has the right to be legally represented at the meeting by a relevant lawyer of the officer’s choice.
+(1) Where the officer concerned is required to attend a second stage meeting[^c-77345a92051b5918c751792526c4d7c8] under regulation 32, the officer has the right to be legally represented at the meeting by a relevant lawyer of the officer’s choice.
 
 (2) If the officer chooses not to be legally represented—
 
@@ -209,18 +209,18 @@ who is not otherwise involved in the matter, to act as a police friend.
 
 (3) Except in a case where the officer concerned has the right to be legally represented and chooses to be so represented, the officer may be represented at a meeting under these Regulations only by a police friend.
 
-(4) A second stage meeting[^key-e051a7fe7bad4f8dd9e55b8c5970a783] under regulation 32 must not take place unless the officer concerned has been notified in writing of the effect of this regulation.
+(4) A second stage meeting[^c-e051a7fe7bad4f8dd9e55b8c5970a783] under regulation 32 must not take place unless the officer concerned has been notified in writing of the effect of this regulation.
 
-### 7. Provision of notices or documents[^key-fd96cf585e69d0ced467686b870039fc]
+### 7. Provision of notices or documents[^c-fd96cf585e69d0ced467686b870039fc]
 
-(1)[^key-246f047f9461617f711f1812f8fbbb15] Subject to paragraph (2), where[^key-3db9649591265a9b5cc5ed891c400bff] any written notice or document is to be given to the officer concerned under these Regulations, it must be—
+(1)[^c-246f047f9461617f711f1812f8fbbb15] Subject to paragraph (2), where[^c-3db9649591265a9b5cc5ed891c400bff] any written notice or document is to be given to the officer concerned under these Regulations, it must be—
 
 - (a) given to the officer in person;
-- (b)[^key-e3e4eee23469d27beb79914f06b85a4f] sent to the officer by e-mail or other means of electronic communication;
+- (b)[^c-e3e4eee23469d27beb79914f06b85a4f] sent to the officer by e-mail or other means of electronic communication;
 - (c) given to the officer in person by the officer’s police friend where the police friend has agreed with the appropriate authority to deliver the notice or document, or
 - (d) given to the officer in any other manner agreed between the person who is required to give the notice or document and the officer.
 
-(2)[^key-72d2fe6d9c7dbfec12bf3f0a37e66c86] Where it is not reasonably practicable to give or supply a written notice or document to the officer concerned under paragraph (1)(a) or (b) and there is no agreement under paragraph (1)(c) or (d), the written notice or document must be—
+(2)[^c-72d2fe6d9c7dbfec12bf3f0a37e66c86] Where it is not reasonably practicable to give or supply a written notice or document to the officer concerned under paragraph (1)(a) or (b) and there is no agreement under paragraph (1)(c) or (d), the written notice or document must be—
 
 - (a) left with a person at the officer’s last known address, or
 - (b) sent to the officer’s last known address by first class post by recorded delivery or other service which provides for delivery on the next working day (“by post”).
@@ -233,16 +233,16 @@ who is not otherwise involved in the matter, to act as a police friend.
 (4) Where a written notice or document is sent by post, it is to be taken to have been given or supplied to the officer concerned—
 
 - (a) on the second day after it was posted, left with, delivered to or collected by the relevant service provider, provided that day is a working day, or
-- (b)[^key-08ee46ad28404631a15ee08d6d3a832e] in any other case, on the next working day after the day referred to in sub-paragraph (a).
+- (b)[^c-08ee46ad28404631a15ee08d6d3a832e] in any other case, on the next working day after the day referred to in sub-paragraph (a).
 
-### 8. Procedure at meetings under these Regulations[^key-dc973732fbc08b7412906bc785a4a002]
+### 8. Procedure at meetings under these Regulations[^c-dc973732fbc08b7412906bc785a4a002]
 
-(1) Where the officer concerned participates in a second stage meeting[^key-8f3bb06dd674511a532bc5c93d07396f] by video link or other means under regulation 38(9) or otherwise does not attend a meeting under these Regulations, the officer may nevertheless be represented at that meeting by–
+(1) Where the officer concerned participates in a second stage meeting[^c-8f3bb06dd674511a532bc5c93d07396f] by video link or other means under regulation 38(9) or otherwise does not attend a meeting under these Regulations, the officer may nevertheless be represented at that meeting by–
 
 - (a) a police friend, or
-- (b) where the officer was required to attend the second stage meeting[^key-9a6c9994f498fd6db3b3cb273ae0de06] under regulation 32, the officer’s relevant lawyer.
+- (b) where the officer was required to attend the second stage meeting[^c-9a6c9994f498fd6db3b3cb273ae0de06] under regulation 32, the officer’s relevant lawyer.
 
-(2) Where the officer concerned does not participate in a second stage meeting[^key-6df68e8673b4fb17d294dc3198682c4c] by video link or other means under regulation 38(9) or otherwise does not attend a meeting under these Regulations, the meeting may be proceeded with and concluded in the absence of the officer whether or not the officer is so represented.
+(2) Where the officer concerned does not participate in a second stage meeting[^c-6df68e8673b4fb17d294dc3198682c4c] by video link or other means under regulation 38(9) or otherwise does not attend a meeting under these Regulations, the meeting may be proceeded with and concluded in the absence of the officer whether or not the officer is so represented.
 
 (3) During any meeting under these Regulations, the person representing the officer concerned may—
 
@@ -251,16 +251,16 @@ who is not otherwise involved in the matter, to act as a police friend.
   - (ii) sum up that case;
   - (iii) respond on behalf of the officer to any view expressed at the meeting;
   - (iv) make representations concerning any aspect of proceedings under these Regulations, and
-  - (v) in the case of a second stage meeting[^key-af97bb1f6cd1fb209e102fff81023c75] only, subject to paragraph (7), ask questions of any witnesses;
+  - (v) in the case of a second stage meeting[^c-af97bb1f6cd1fb209e102fff81023c75] only, subject to paragraph (7), ask questions of any witnesses;
 - (b) confer with the officer.
 
 (4) Where the person representing the officer concerned is a relevant lawyer, the police friend may also confer with the officer.
 
-(5) Where the officer concerned is participating in a second stage meeting[^key-3e0778fc8212738d27fe9ac30ae8ad1a] by video link or other means in accordance with regulation 38(9), the person representing the officer or (if different) the police friend (or both) may also participate in the second stage meeting by such means together with the officer.
+(5) Where the officer concerned is participating in a second stage meeting[^c-3e0778fc8212738d27fe9ac30ae8ad1a] by video link or other means in accordance with regulation 38(9), the person representing the officer or (if different) the police friend (or both) may also participate in the second stage meeting by such means together with the officer.
 
 (6) The police friend or relevant lawyer of the officer concerned may not answer any questions asked of the officer during a meeting.
 
-(7) The panel chair must determine whether any question should be put to a witness at a second stage meeting[^key-b23f75d0f7fe85d5c7011cb4093aa96b].
+(7) The panel chair must determine whether any question should be put to a witness at a second stage meeting[^c-b23f75d0f7fe85d5c7011cb4093aa96b].
 
 (8) At any meeting under these Regulations, the person or panel conducting the meeting may not make a finding of unsatisfactory performance or attendance or gross incompetence unless—
 
@@ -269,51 +269,51 @@ who is not otherwise involved in the matter, to act as a police friend.
 
 (9) The person conducting or chairing a meeting under these Regulations may allow any document to be considered at that meeting notwithstanding that a copy of it has not been—
 
-- (a) given to the person by the officer concerned in accordance with regulation 16(9), 19(6)(b) [^key-2552e8f4cde982b20f8719e5ca43b360]... or 36(3);
-- (b) given to the officer concerned in accordance with regulation 16(2) or (3), [^key-1f2f556f3b5a95d73499b1ce7ef94b83]... 31(2) or 33(2), or
+- (a) given to the person by the officer concerned in accordance with regulation 16(9), 19(6)(b) [^c-2552e8f4cde982b20f8719e5ca43b360]... or 36(3);
+- (b) given to the officer concerned in accordance with regulation 16(2) or (3), [^c-1f2f556f3b5a95d73499b1ce7ef94b83]... 31(2) or 33(2), or
 - (c) made available to each panel member or given to the officer concerned under regulation 34(9).
 
-### 9. Nominated persons[^key-ea13268ad5e7711537548c9c4f2a79f0]
+### 9. Nominated persons[^c-ea13268ad5e7711537548c9c4f2a79f0]
 
-(1) A senior manager may appoint another person (a “nominated person”) to carry out any of the functions of the line manager or the appeal manager[^key-385a32662160a6098ec8c359123a824c] in these Regulations.
+(1) A senior manager may appoint another person (a “nominated person”) to carry out any of the functions of the line manager or the appeal manager[^c-385a32662160a6098ec8c359123a824c] in these Regulations.
 
-(2) A person appointed to carry out any of the functions of the line manager under paragraph (1) may not also be appointed under that paragraph to carry out any of the functions of the appeal manager[^key-b42216c577af37c566686dd1745de9ad] .
+(2) A person appointed to carry out any of the functions of the line manager under paragraph (1) may not also be appointed under that paragraph to carry out any of the functions of the appeal manager[^c-b42216c577af37c566686dd1745de9ad] .
 
-(3) A person appointed to carry out any of the functions of the appeal manager[^key-cb97babbc45699071ec37b0e470a5fad] under paragraph (1) may not also be appointed under that paragraph to carry out any of the functions of the line manager.
+(3) A person appointed to carry out any of the functions of the appeal manager[^c-cb97babbc45699071ec37b0e470a5fad] under paragraph (1) may not also be appointed under that paragraph to carry out any of the functions of the line manager.
 
-(4) A nominated person must be a member of the police force concerned or a police staff member in the police force concerned and must be, in the opinion of the appropriate authority, of at least the same rank or level of seniority[^key-119394507394ca4275eb6ed3eef7421c] as the person whose functions the nominated person is carrying out.
+(4) A nominated person must be a member of the police force concerned or a police staff member in the police force concerned and must be, in the opinion of the appropriate authority, of at least the same rank or level of seniority[^c-119394507394ca4275eb6ed3eef7421c] as the person whose functions the nominated person is carrying out.
 
-(5) Where a nominated person is appointed, references in these Regulations to a line manager or an appeal manager[^key-67db57104ce2603a4336daca7d3ac1ce], as the case may be, must be construed as references to the nominated person, in relation to the functions which the nominated person has been appointed to carry out.
+(5) Where a nominated person is appointed, references in these Regulations to a line manager or an appeal manager[^c-67db57104ce2603a4336daca7d3ac1ce], as the case may be, must be construed as references to the nominated person, in relation to the functions which the nominated person has been appointed to carry out.
 
-### 10. Reference to certain periods[^key-d8beec0ee4ff8e6fb85348983b520571]
+### 10. Reference to certain periods[^c-d8beec0ee4ff8e6fb85348983b520571]
 
 (1) The appropriate authority may, on the application of the officer concerned or otherwise, extend the period specified in accordance with any of the regulations mentioned in paragraph (2) if it is satisfied that it is appropriate to do so.
 
-(2)[^key-c410e15cdbaf347c29444661dd69b29f] The regulations are—
+(2)[^c-c410e15cdbaf347c29444661dd69b29f] The regulations are—
 
 - (a) regulation 17(6A), and
 - (b) regulation 46(7A) and (8)(a)(i).
 
 (3) Unless the appropriate authority is satisfied that there are exceptional circumstances making it appropriate, any such period may not be extended if the extension would result in the total length of that period exceeding 12 months.
 
-(4) Where an extension is granted under paragraph (1) of a period specified in accordance with[^key-2237258c06060b271fc433b00073bcb4] a regulation mentioned in paragraph (2), any reference in these Regulations to such period is to be construed as a reference to that period as so extended.
+(4) Where an extension is granted under paragraph (1) of a period specified in accordance with[^c-2237258c06060b271fc433b00073bcb4] a regulation mentioned in paragraph (2), any reference in these Regulations to such period is to be construed as a reference to that period as so extended.
 
-### 11. Suspension of certain periods[^key-e094d31a2135819dfe35be3897fe6767]
+### 11. Suspension of certain periods[^c-e094d31a2135819dfe35be3897fe6767]
 
 (1) Any reference in these Regulations to a period mentioned in paragraph (2) does not include any time when the officer concerned is taking a career break determined under regulation 33(12) of the Police Regulations 2003 (leave)[^f00031].
 
 (2) A period is—
 
-- (a) a period specified in accordance with regulation 17(6A)[^key-6e60a107fb9778cb67c3f4ce642a9c72];
-- (b) the validity period of a written improvement notice specified in regulation 18(4) or 46(7)(d)[^key-bf4facef411394622e5d946c39a523bb];
-- (c)[^key-965298cfb7f1102cacc5a510dcc1004e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-4bd38de16b50aeedb3e708bdd0aff444] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e) a period specified in accordance with regulation 46(7A) or (8)(a)(i)[^key-371bc887b3e0d4044b7d107c9f8a44ac];
-- (f) the validity period of a written improvement notice[^key-9e5b29295afdb27d685e674020840613] extended under regulation 46(8)(c).
+- (a) a period specified in accordance with regulation 17(6A)[^c-6e60a107fb9778cb67c3f4ce642a9c72];
+- (b) the validity period of a written improvement notice specified in regulation 18(4) or 46(7)(d)[^c-bf4facef411394622e5d946c39a523bb];
+- (c)[^c-965298cfb7f1102cacc5a510dcc1004e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-4bd38de16b50aeedb3e708bdd0aff444] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) a period specified in accordance with regulation 46(7A) or (8)(a)(i)[^c-371bc887b3e0d4044b7d107c9f8a44ac];
+- (f) the validity period of a written improvement notice[^c-9e5b29295afdb27d685e674020840613] extended under regulation 46(8)(c).
 
-### 12. Meeting following investigation under Schedule 3 to the 2002 Act[^key-d7599a3ffa6028639b7ba69314a61391]
+### 12. Meeting following investigation under Schedule 3 to the 2002 Act[^c-d7599a3ffa6028639b7ba69314a61391]
 
-(1) The appropriate authority must direct the line manager of the officer concerned to take the action specified in paragraph (2) [^key-25aa210ccf0bdde30fdabf2e1d098dc8]... or (4), as the case may be, where—
+(1) The appropriate authority must direct the line manager of the officer concerned to take the action specified in paragraph (2) [^c-25aa210ccf0bdde30fdabf2e1d098dc8]... or (4), as the case may be, where—
 
 - (a) regulation 32 does not apply, and
 - (b) the appropriate authority—
@@ -327,11 +327,11 @@ who is not otherwise involved in the matter, to act as a police friend.
 (2) In a case where—
 
 - (a) the officer concerned has received a written improvement notice under regulation 18 or 46 in relation to unsatisfactory performance which is similar to or connected with the unsatisfactory performance to which the determination mentioned in paragraph (1)(b)(i) or (ii) or the recommendation mentioned in paragraph (1)(b)(iii), (iv) or (v) relates, and
-- (b) the validity period of the written improvement notice, within the meaning of regulation 18(4) or 46(7)(d), or, where the period of the written improvement notice has been extended under regulation 46(3)(d), within the meaning of regulation 46(8)(c),[^key-03c3f4eed36e10d4b5d842a8d0df9ec2] has not expired,
+- (b) the validity period of the written improvement notice, within the meaning of regulation 18(4) or 46(7)(d), or, where the period of the written improvement notice has been extended under regulation 46(3)(d), within the meaning of regulation 46(8)(c),[^c-03c3f4eed36e10d4b5d842a8d0df9ec2] has not expired,
 
 the line manager must require the officer to attend a second stage meeting.
 
-(3)[^key-bd98bfa0cae12d9824b228d541daeaf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-bd98bfa0cae12d9824b228d541daeaf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In any other case, the line manager must require the officer concerned to attend a first stage meeting.
 
@@ -339,13 +339,13 @@ the line manager must require the officer to attend a second stage meeting.
 
 (6) Where a police officer is required to attend a meeting under this regulation—
 
-- (a) regulations 16 to 21 apply, if the meeting is a first stage meeting; and[^key-36d1354ed71d9599c952fbb6830ee59f]
-- (b)[^key-fb3c80884fb97e351b0d3a43e02a99c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) regulations 31, 34 to 39 and 42 to 49 apply, if the meeting is a second stage meeting[^key-e7beb7dc9b5cbf3b0abb39020c77cec5],
+- (a) regulations 16 to 21 apply, if the meeting is a first stage meeting; and[^c-36d1354ed71d9599c952fbb6830ee59f]
+- (b)[^c-fb3c80884fb97e351b0d3a43e02a99c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) regulations 31, 34 to 39 and 42 to 49 apply, if the meeting is a second stage meeting[^c-e7beb7dc9b5cbf3b0abb39020c77cec5],
 
 but this is subject to paragraphs (7) and (8).
 
-(7) Subject to the harm test under these Regulations (see regulation 4(3)), the duty to provide documents in each of regulations 16(2) [^key-2deeeda53483b9c941016e7e7be4a989]... and 31(2) has effect as a duty to provide the officer concerned with a copy of—
+(7) Subject to the harm test under these Regulations (see regulation 4(3)), the duty to provide documents in each of regulations 16(2) [^c-2deeeda53483b9c941016e7e7be4a989]... and 31(2) has effect as a duty to provide the officer concerned with a copy of—
 
 - (a) the investigator’s report submitted under paragraph 22 or 24A of Schedule 3 to the 2002 Act;
 - (b) any determination of the Director General under paragraph 23(5A)(b) of that Schedule;
@@ -353,15 +353,15 @@ but this is subject to paragraphs (7) and (8).
 - (d) any recommendation of a local policing body made under paragraph 25(4E)(c) of that Schedule, and
 - (e) any recommendation of the Director General made under paragraph 27(3A) of that Schedule.
 
-(8) Where a police officer is required to attend a second stage meeting[^key-8559f586a8f765ad5aaa33224b7b7ef0] under paragraph (2)[^key-0cfeead6581a3f697708a3e0d81f776b] by reason of the fact that the officer is subject to a written improvement notice[^key-7a496f9af1f2e4803cd6e48358648689] issued under regulation 46—
+(8) Where a police officer is required to attend a second stage meeting[^c-8559f586a8f765ad5aaa33224b7b7ef0] under paragraph (2)[^c-0cfeead6581a3f697708a3e0d81f776b] by reason of the fact that the officer is subject to a written improvement notice[^c-7a496f9af1f2e4803cd6e48358648689] issued under regulation 46—
 
-- (a) the meeting must be conducted by the same panel as conducted the initial second stage meeting[^key-b54600b06a9348a116c8cf382167fba0];
+- (a) the meeting must be conducted by the same panel as conducted the initial second stage meeting[^c-b54600b06a9348a116c8cf382167fba0];
 - (b) regulation 48(11) to (15) apply in relation to that panel, and
 - (c) the officer concerned does not have the right to object to panel members under regulation 35, except in accordance with regulation 48(15).
 
 (9) Where the appropriate authority fails to make the determination referred to in paragraph (1)(b)(i) (in so far as it involves consideration of the performance of a police officer) before the end of 15 working days beginning with the first working day after receipt of the investigator’s report, it must notify the officer concerned of the reason for this.
 
-### 13. Provision of information to the Director General[^key-4044d01dd8717988de331eb70503b09e]
+### 13. Provision of information to the Director General[^c-4044d01dd8717988de331eb70503b09e]
 
 (1) This regulation applies in a case where—
 
@@ -378,54 +378,54 @@ but this is subject to paragraphs (7) and (8).
 - (a) send the Director General a copy of—
   - (i) any written record and written improvement notice given to the officer concerned under regulation 18(5);
   - (ii) any written notice and written summary given to the officer concerned under regulation 21(9);
-  - (iii)[^key-d456abed3506f691f91d2d9b9f05c9af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iv)[^key-d456abed3506f691f91d2d9b9f05c9af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (v)[^key-d456abed3506f691f91d2d9b9f05c9af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-d456abed3506f691f91d2d9b9f05c9af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-d456abed3506f691f91d2d9b9f05c9af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v)[^c-d456abed3506f691f91d2d9b9f05c9af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (vi) any written notice as to improvement in performance or attendance under regulation 30(1)(b);
   - (vii) any written decision given to the officer concerned under regulation 45(3);
-  - (viii) any written improvement notice[^key-6386a59ab2c4845b7b663e1a0ea607b1] issued or extended under regulation 46(3);
+  - (viii) any written improvement notice[^c-6386a59ab2c4845b7b663e1a0ea607b1] issued or extended under regulation 46(3);
   - (ix) any written improvement notice issued under regulation 46(6);
   - (x) any written notice as to improvement in performance or attendance under regulation 48(1)(b), and
-- (b) notify the Director General if it extends, under regulation 10(1), any period specified in accordance with regulation 17(6)(c), 46(7A) or (8)(a)(i)[^key-88997eb9884ca5788664153dd281c111].
+- (b) notify the Director General if it extends, under regulation 10(1), any period specified in accordance with regulation 17(6)(c), 46(7A) or (8)(a)(i)[^c-88997eb9884ca5788664153dd281c111].
 
-### 14. Meeting following referral under the Conduct Regulations or the Vetting Regulations[^key-3e423424e40ea823067d2edeaed50930][^key-1b9427c7924f30846eecccfa16e962ec]
+### 14. Meeting following referral under the Conduct Regulations or the Vetting Regulations[^c-3e423424e40ea823067d2edeaed50930][^c-1b9427c7924f30846eecccfa16e962ec]
 
-(A1)[^key-ca8fd2ca55925a38a196d61132581011] This regulation applies where regulation 32 does not apply and—
+(A1)[^c-ca8fd2ca55925a38a196d61132581011] This regulation applies where regulation 32 does not apply and—
 
 - (a) the appropriate authority assesses under regulation 14(2)(b), 23(5)(b) or 27(2)(a)(iii) of the Conduct Regulations that a matter should be referred to be dealt with under these Regulations, or
 - (b) the vetting authority assesses under regulation 15(2)(a), 22(5)(a) or 24(1)(b) of the Vetting Regulations that a matter should be referred to be dealt with under these Regulations.
 
-(1) Where this regulation applies—[^key-c2a784bc137e0bd0df47a1e934bb08ec]
+(1) Where this regulation applies—[^c-c2a784bc137e0bd0df47a1e934bb08ec]
 
-- (a) the appropriate authority must direct the line manager of the officer concerned to take the action specified in regulation 12(2) [^key-404d6c4e9e7333abe963bf89269147b4]... or (4), as the case may be, and
+- (a) the appropriate authority must direct the line manager of the officer concerned to take the action specified in regulation 12(2) [^c-404d6c4e9e7333abe963bf89269147b4]... or (4), as the case may be, and
 - (b) paragraphs (2) to (8) of regulation 12 apply, with the following modifications—
-  - (i) in paragraph (2)(a)[^key-b8899246f40a4299441f03bedd9034e3], for the words from “the determination” to “(1)(b)(iii), (iv) or (v)[^key-6488e942f17c31c7d0ced2f92b131308]” substitute “the assessment mentioned in regulation 14(A1)[^key-70d9dea0413a316f99f411aa86200243]”;
-  - (ii) in paragraph (5), for “paragraph (1)” substitute “regulation 14(1)(a)[^key-fdacd5c35f9e17aca74b5fe3090b4303]”;
+  - (i) in paragraph (2)(a)[^c-b8899246f40a4299441f03bedd9034e3], for the words from “the determination” to “(1)(b)(iii), (iv) or (v)[^c-6488e942f17c31c7d0ced2f92b131308]” substitute “the assessment mentioned in regulation 14(A1)[^c-70d9dea0413a316f99f411aa86200243]”;
+  - (ii) in paragraph (5), for “paragraph (1)” substitute “regulation 14(1)(a)[^c-fdacd5c35f9e17aca74b5fe3090b4303]”;
   - (iii) in paragraph (6), for “this regulation” substitute “regulation 14”;
-  - (iv) in paragraph (7), for sub-paragraphs (a) to (e)[^key-ef9dad777555e67f36a7dd5d1a19403e] substitute “, where relevant, the investigator’s report submitted under regulation 21 of the Conduct Regulations or the assessor’s report submitted under regulation 23 of the Vetting Regulations[^key-39488f6f7cff82e93350e91d78f93cb4]”.
+  - (iv) in paragraph (7), for sub-paragraphs (a) to (e)[^c-ef9dad777555e67f36a7dd5d1a19403e] substitute “, where relevant, the investigator’s report submitted under regulation 21 of the Conduct Regulations or the assessor’s report submitted under regulation 23 of the Vetting Regulations[^c-39488f6f7cff82e93350e91d78f93cb4]”.
 
-(2)[^key-b894a438943c707268b8151f83c569ff] In this regulation—
+(2)[^c-b894a438943c707268b8151f83c569ff] In this regulation—
 
 - (a) “**investigator**” is to be construed in accordance with the definition of that word in regulation 2(1) of the Conduct Regulations, and
 - (b) “assessor” and “vetting authority” are to be construed in accordance with the definitions of those words in regulation 2(1) of the Vetting Regulations.
 
 ## PART 3 — First stage
 
-### 15. Circumstances in which a first stage meeting may be required[^key-de0ae003943df626d617354c6a900e22]
+### 15. Circumstances in which a first stage meeting may be required[^c-de0ae003943df626d617354c6a900e22]
 
 Where the line manager of a police officer considers that the performance or attendance of that officer is unsatisfactory, the line manager may require the officer concerned to attend a meeting (in these Regulations referred to as a first stage meeting) to discuss the performance or attendance of the officer.
 
-### 16. Arrangement of first stage meeting[^key-9e43ce0af0f0e24cb845b6c55f6c53f7]
+### 16. Arrangement of first stage meeting[^c-9e43ce0af0f0e24cb845b6c55f6c53f7]
 
 (1) Where the line manager requires a police officer to attend a first stage meeting, the line manager must give a written notice to the officer concerned—
 
 - (a) requiring the officer to attend a first stage meeting with the line manager;
 - (b) informing the officer of the procedures for determining the date and time of the meeting under paragraphs (4) to (7);
 - (c) summarising the reasons why the officer’s performance or attendance is considered unsatisfactory;
-- (d) informing the officer of the possible outcomes of a first stage meeting and a second stage meeting[^key-ac3b9897bb31d627eae8062d8225799d];
+- (d) informing the officer of the possible outcomes of a first stage meeting and a second stage meeting[^c-ac3b9897bb31d627eae8062d8225799d];
 - (e) informing the officer that a human resources professional or a police officer may attend the meeting to advise the line manager on the proceedings;
 - (f) informing the officer that, if the officer consents, any other person specified in the notice may attend the meeting;
-- (g) [^key-cf107ca7c24769480297d0ce0152618d]... informing the officer that the officer may seek advice from a representative of a staff association;
+- (g) [^c-cf107ca7c24769480297d0ce0152618d]... informing the officer that the officer may seek advice from a representative of a staff association;
 - (h) informing the officer that the officer may be accompanied and represented at the meeting by a police friend, and
 - (i) informing the officer that the officer must provide to the line manager in advance of the meeting a copy of any document the officer intends to rely on at the meeting.
 
@@ -453,7 +453,7 @@ the meeting must be postponed to the time proposed by the officer.
 
 (9) In advance of the first stage meeting, the officer concerned must provide the line manager with a copy of any document the officer intends to rely on at the meeting.
 
-### 17. Procedure at first stage meeting[^key-e03e168bce654f6c49ccd821a6799c12]
+### 17. Procedure at first stage meeting[^c-e03e168bce654f6c49ccd821a6799c12]
 
 (1) This regulation applies to the procedure to be followed at the first stage meeting.
 
@@ -473,17 +473,17 @@ the meeting must be postponed to the time proposed by the officer.
 
 - (a) inform the officer in what respect the officer’s performance or attendance is considered unsatisfactory;
 - (b) inform the officer of the improvement that is required in performance or attendance;
-- (c) inform the officer that, if a sufficient improvement is not made within such period as the line manager specifies in accordance with paragraph (6A)[^key-84368efbddfa908a2f8b643e7ff32ae5], the officer may be required to attend a second stage meeting in accordance with regulation 30[^key-59cbc6d91617c44b04c8d727b4451f67];
+- (c) inform the officer that, if a sufficient improvement is not made within such period as the line manager specifies in accordance with paragraph (6A)[^c-84368efbddfa908a2f8b643e7ff32ae5], the officer may be required to attend a second stage meeting in accordance with regulation 30[^c-59cbc6d91617c44b04c8d727b4451f67];
 - (d) inform the officer that the officer will receive a written improvement notice, and
-- (e) inform the officer that if sufficient improvement is not maintained during any part of the validity period of the notice remaining after the expiry of the period specified in accordance with sub-paragraph (c), the officer may be required to attend a second stage meeting in accordance with regulation 30[^key-450ce01d860adaf824a8c58ba23febdb].
+- (e) inform the officer that if sufficient improvement is not maintained during any part of the validity period of the notice remaining after the expiry of the period specified in accordance with sub-paragraph (c), the officer may be required to attend a second stage meeting in accordance with regulation 30[^c-450ce01d860adaf824a8c58ba23febdb].
 
-(6A)[^key-727854e41e24dfdb83c3ea3575aa8e69] The period specified must be three months, except where the line manager considers that there are circumstances which justify a longer period, in which case the period specified must be a reasonable period not exceeding 12 months.
+(6A)[^c-727854e41e24dfdb83c3ea3575aa8e69] The period specified must be three months, except where the line manager considers that there are circumstances which justify a longer period, in which case the period specified must be a reasonable period not exceeding 12 months.
 
 (7) The line manager may, if the line manager considers it appropriate, recommend that the officer concerned seek assistance in relation to any matter affecting the officer’s health or welfare.
 
 (8) The line manager may postpone or adjourn the meeting to a specified time, or date and time, if it appears to the line manager necessary or expedient to do so.
 
-### 18. Procedure following first stage meeting[^key-afd569400449ba6a24c3e6ab699bab58]
+### 18. Procedure following first stage meeting[^c-afd569400449ba6a24c3e6ab699bab58]
 
 (1) The line manager must, as soon as reasonably practicable after the conclusion of the first stage meeting—
 
@@ -508,7 +508,7 @@ the meeting must be postponed to the time proposed by the officer.
 (6) Where the line manager found that the performance or attendance of the officer concerned has been unsatisfactory and has caused to be prepared a written improvement notice, the line manager must, at the same time as giving the documents mentioned in paragraph (5), give a written notice to the officer of—
 
 - (a) the matters set out in regulation 19;
-- (b) the name of the appeal manager[^key-4bdf8de1278cb9399f32f0ec224f7195] to whom a written notice of appeal must be given under regulation 19(5);
+- (b) the name of the appeal manager[^c-4bdf8de1278cb9399f32f0ec224f7195] to whom a written notice of appeal must be given under regulation 19(5);
 - (c) the officer’s rights under paragraph (7), and
 - (d) the effect of paragraphs (8) and (9).
 
@@ -520,7 +520,7 @@ the meeting must be postponed to the time proposed by the officer.
 
 (10) The line manager must ensure that any written record, any written improvement notice and any written comments of the officer concerned on the written record are retained together and filed.
 
-### 19. Appeal against the finding and outcome of a first stage meeting[^key-e6328d6ac74e02cf90ab24bc852c777a]
+### 19. Appeal against the finding and outcome of a first stage meeting[^c-e6328d6ac74e02cf90ab24bc852c777a]
 
 (1) This regulation applies where, at the first stage meeting, the line manager found that the performance or attendance of the officer concerned has been unsatisfactory.
 
@@ -535,7 +535,7 @@ or both.
 
 - (a) the respect in which the performance or attendance of the officer concerned is considered unsatisfactory;
 - (b) the improvement that is required in performance or attendance;
-- (c) the length of the period specified by the line manager in accordance with regulation 17(6A)[^key-1d4ad9c232aee9e37d621b3e30bffab4].
+- (c) the length of the period specified by the line manager in accordance with regulation 17(6A)[^c-1d4ad9c232aee9e37d621b3e30bffab4].
 
 (4) The only grounds of appeal under this regulation are—
 
@@ -544,32 +544,32 @@ or both.
 - (c) that there is evidence that could not reasonably have been considered at the first stage meeting which could have materially affected the finding of unsatisfactory performance or attendance or any of the relevant terms of the written improvement notice;
 - (d) that there was a breach of the procedures set out in these Regulations or other unfairness which could have materially affected the finding of unsatisfactory performance or attendance or any of the relevant terms of the written improvement notice.
 
-(5) The officer concerned may commence an appeal by giving a written notice of appeal to the appeal manager[^key-697fd998e952d4e01730aa9c37ec5fb3] before the end of 7 working days beginning with the first working day after receipt of the documents referred to in regulation 18(5).
+(5) The officer concerned may commence an appeal by giving a written notice of appeal to the appeal manager[^c-697fd998e952d4e01730aa9c37ec5fb3] before the end of 7 working days beginning with the first working day after receipt of the documents referred to in regulation 18(5).
 
 (6) The notice must–
 
 - (a) set out the grounds of appeal, and
 - (b) be accompanied by any evidence on which the officer relies.
 
-(7) The appeal manager[^key-f9ffa2f3de4cfb63ff6799f0ab2bb50f] may, on the application of the officer concerned, extend the period specified in paragraph (5) if satisfied that it is appropriate to do so.
+(7) The appeal manager[^c-f9ffa2f3de4cfb63ff6799f0ab2bb50f] may, on the application of the officer concerned, extend the period specified in paragraph (5) if satisfied that it is appropriate to do so.
 
-(8) Subject to paragraph (9), the meeting at which the appeal is to be heard (referred to in these Regulations as the first stage appeal meeting) must take place before the end of 7 working days beginning with the first working day after the day on which the appeal manager[^key-24e2d402d280b5d6b1267cbf8e5f0999] receives the notice under paragraph (5).
+(8) Subject to paragraph (9), the meeting at which the appeal is to be heard (referred to in these Regulations as the first stage appeal meeting) must take place before the end of 7 working days beginning with the first working day after the day on which the appeal manager[^c-24e2d402d280b5d6b1267cbf8e5f0999] receives the notice under paragraph (5).
 
-(9) A first stage appeal meeting may take place after the period of 7 working days referred to in paragraph (8) if the appeal manager[^key-d38d285498b8a626a2efea49d03be9c1] considers it necessary or expedient, in which case the appeal manager must give the officer a written notice of the reasons.
+(9) A first stage appeal meeting may take place after the period of 7 working days referred to in paragraph (8) if the appeal manager[^c-d38d285498b8a626a2efea49d03be9c1] considers it necessary or expedient, in which case the appeal manager must give the officer a written notice of the reasons.
 
-### 20. Arrangement of first stage appeal meeting[^key-689313f43dd1973af8bf230919304b3d]
+### 20. Arrangement of first stage appeal meeting[^c-689313f43dd1973af8bf230919304b3d]
 
-(1) As soon as reasonably practicable after receiving the notice of appeal referred to in regulation 19(5), the appeal manager[^key-b124a15e9e8424e42672d9966a6288cd] must give the officer concerned a written notice—
+(1) As soon as reasonably practicable after receiving the notice of appeal referred to in regulation 19(5), the appeal manager[^c-b124a15e9e8424e42672d9966a6288cd] must give the officer concerned a written notice—
 
 - (a) informing the officer of the procedures for determining the date and time of the meeting under paragraphs (2) to (5);
-- (b) informing the officer that a human resources professional or a police officer may attend the meeting to advise the appeal manager[^key-40c6525e0abf1a5cb3e017e502d51780] on the proceedings;
+- (b) informing the officer that a human resources professional or a police officer may attend the meeting to advise the appeal manager[^c-40c6525e0abf1a5cb3e017e502d51780] on the proceedings;
 - (c) informing the officer that, if the officer consents, any other person specified in the notice may attend the meeting;
-- (d) [^key-17ee6be581d0c14cc2885bdc4457574a]... informing the officer that the officer may seek advice from a representative of a staff association, and
+- (d) [^c-17ee6be581d0c14cc2885bdc4457574a]... informing the officer that the officer may seek advice from a representative of a staff association, and
 - (e) informing the officer that the officer may be accompanied and represented at the meeting by a police friend.
 
-(2) The appeal manager[^key-a1d00835eeb1ed4560efde999bc828fc] must, if reasonably practicable, agree a date and time for the meeting with the officer concerned.
+(2) The appeal manager[^c-a1d00835eeb1ed4560efde999bc828fc] must, if reasonably practicable, agree a date and time for the meeting with the officer concerned.
 
-(3) Where no date and time is agreed, the appeal manager[^key-043b1d9dbac2c78520dbc6631e2aa732] must specify a date and time for the meeting.
+(3) Where no date and time is agreed, the appeal manager[^c-043b1d9dbac2c78520dbc6631e2aa732] must specify a date and time for the meeting.
 
 (4) Where a date and time is specified and—
 
@@ -581,109 +581,109 @@ the meeting must be postponed to the time proposed by the officer.
 (5) An alternative time must—
 
 - (a) be reasonable, and
-- (b) fall before the end of 5 working days beginning with the first working day after the day specified by the appeal manager[^key-0098a308b001535856d7ed9401ca5343] under paragraph (3).
+- (b) fall before the end of 5 working days beginning with the first working day after the day specified by the appeal manager[^c-0098a308b001535856d7ed9401ca5343] under paragraph (3).
 
-(6) The appeal manager[^key-6e47870a38412cb8ed2a7cb906525ed1] must give the officer concerned a written notice of the date and time of the first stage appeal meeting determined in accordance with paragraphs (2) to (5) and of the place of the meeting.
+(6) The appeal manager[^c-6e47870a38412cb8ed2a7cb906525ed1] must give the officer concerned a written notice of the date and time of the first stage appeal meeting determined in accordance with paragraphs (2) to (5) and of the place of the meeting.
 
-### 21. Procedure at first stage appeal meeting[^key-1f4f256c32bfe64eb69b212b3d061a74]
+### 21. Procedure at first stage appeal meeting[^c-1f4f256c32bfe64eb69b212b3d061a74]
 
 (1) This regulation applies to the procedure to be followed at a first stage appeal meeting.
 
-(2) The meeting must be conducted by the appeal manager[^key-d28b163c17130eeb5d9fa15c66af4e83].
+(2) The meeting must be conducted by the appeal manager[^c-d28b163c17130eeb5d9fa15c66af4e83].
 
-(3) A human resources professional or a police officer may attend the meeting to advise the appeal manager[^key-367ac589d385b4b7ee115067885ce63c] on the proceedings.
+(3) A human resources professional or a police officer may attend the meeting to advise the appeal manager[^c-367ac589d385b4b7ee115067885ce63c] on the proceedings.
 
 (4) Any other person specified in the notice referred to in regulation 20(1) may attend the meeting if the officer concerned consents.
 
-(5) The appeal manager[^key-93910faf158d8c04c4cfde8e815db7dd] must—
+(5) The appeal manager[^c-93910faf158d8c04c4cfde8e815db7dd] must—
 
 - (a) provide the officer concerned with an opportunity to make representations, and
 - (b) provide the police friend (if the officer has one) with an opportunity to address the meeting in accordance with regulation 8(3)(a).
 
-(6) After considering such representations (if any) and address (if any), the appeal manager[^key-403f69fcda4f57634bb6bd45b1f4dd91] may—
+(6) After considering such representations (if any) and address (if any), the appeal manager[^c-403f69fcda4f57634bb6bd45b1f4dd91] may—
 
 - (a) confirm or reverse the finding of unsatisfactory performance or attendance;
 - (b) confirm or vary the relevant terms of the written improvement notice appealed against.
 
-(7) Where the appeal manager[^key-c87706f1fdb29dd10371fcd68b822631] reverses the finding of unsatisfactory performance or attendance, the appeal manager must also revoke the written improvement notice.
+(7) Where the appeal manager[^c-c87706f1fdb29dd10371fcd68b822631] reverses the finding of unsatisfactory performance or attendance, the appeal manager must also revoke the written improvement notice.
 
-(8) The appeal manager[^key-c5018b5b07d89b6c5d2816f06b5f3423] may postpone or adjourn the meeting to a specified time, or date and time, if it appears to the appeal manager necessary or expedient to do so.
+(8) The appeal manager[^c-c5018b5b07d89b6c5d2816f06b5f3423] may postpone or adjourn the meeting to a specified time, or date and time, if it appears to the appeal manager necessary or expedient to do so.
 
-(9) As soon as reasonably practicable after the conclusion of the meeting and in any event before the end of 3 working days beginning with the first working day after the conclusion of the meeting, the officer concerned must be given a written notice of the appeal manager’s[^key-61ca7109cdb0328b3e81699db3df0fa7] decision and a written summary of the reasons for that decision.
+(9) As soon as reasonably practicable after the conclusion of the meeting and in any event before the end of 3 working days beginning with the first working day after the conclusion of the meeting, the officer concerned must be given a written notice of the appeal manager’s[^c-61ca7109cdb0328b3e81699db3df0fa7] decision and a written summary of the reasons for that decision.
 
-(10) Where the appeal manager[^key-ed4b827f30154892732787e83bab5455] has—
+(10) Where the appeal manager[^c-ed4b827f30154892732787e83bab5455] has—
 
 - (a) reversed the finding of unsatisfactory performance or attendance and revoked the written improvement notice, or
 - (b) varied any of the relevant terms of the written improvement notice,
 
-the decision of the appeal manager[^key-79d0f31a4326ea52aae93c70a6bdd3a7] takes effect by way of substitution for the finding, the written improvement notice issued or the relevant terms of the written improvement notice appealed against immediately after the first stage meeting.
+the decision of the appeal manager[^c-79d0f31a4326ea52aae93c70a6bdd3a7] takes effect by way of substitution for the finding, the written improvement notice issued or the relevant terms of the written improvement notice appealed against immediately after the first stage meeting.
 
-## PART 4 — Second stage[^key-954d186a05e1bb0082ceefe6b09f2dce]
+## PART 4 — Second stage[^c-954d186a05e1bb0082ceefe6b09f2dce]
 
 **No longer in force.**
 
-### 22. Circumstances in which a second stage meeting may be required[^key-954d186a05e1bb0082ceefe6b09f2dce]
+### 22. Circumstances in which a second stage meeting may be required[^c-954d186a05e1bb0082ceefe6b09f2dce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Arrangement of second stage meeting[^key-954d186a05e1bb0082ceefe6b09f2dce]
+### 23. Arrangement of second stage meeting[^c-954d186a05e1bb0082ceefe6b09f2dce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Circumstances in which a second stage meeting may be required without a first stage meeting[^key-954d186a05e1bb0082ceefe6b09f2dce]
+### 24. Circumstances in which a second stage meeting may be required without a first stage meeting[^c-954d186a05e1bb0082ceefe6b09f2dce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Procedure at second stage meeting[^key-954d186a05e1bb0082ceefe6b09f2dce]
+### 25. Procedure at second stage meeting[^c-954d186a05e1bb0082ceefe6b09f2dce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Procedure following second stage meeting[^key-954d186a05e1bb0082ceefe6b09f2dce]
+### 26. Procedure following second stage meeting[^c-954d186a05e1bb0082ceefe6b09f2dce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Appeal against the finding and outcome of a second stage meeting[^key-954d186a05e1bb0082ceefe6b09f2dce]
+### 27. Appeal against the finding and outcome of a second stage meeting[^c-954d186a05e1bb0082ceefe6b09f2dce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Arrangement of second stage appeal meeting[^key-954d186a05e1bb0082ceefe6b09f2dce]
+### 28. Arrangement of second stage appeal meeting[^c-954d186a05e1bb0082ceefe6b09f2dce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Procedure at second stage appeal meeting[^key-954d186a05e1bb0082ceefe6b09f2dce]
+### 29. Procedure at second stage appeal meeting[^c-954d186a05e1bb0082ceefe6b09f2dce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Second Stage[^key-9ca90b6f5cf5dab2298557306bcbb869]
+## PART 5 — Second Stage[^c-9ca90b6f5cf5dab2298557306bcbb869]
 
-### 30. Assessment following first stage meeting[^key-bd68a7ea679dd4eb77bf2fb6fa149bbb][^key-d2a836d85cc02e689059a7ed866bc201]
+### 30. Assessment following first stage meeting[^c-bd68a7ea679dd4eb77bf2fb6fa149bbb][^c-d2a836d85cc02e689059a7ed866bc201]
 
-(1) Where a police officer has received a written improvement notice[^key-80c2509d2b3a949396f3732b3644b94b], as soon as reasonably practicable after the date with which the period specified in accordance with regulation 17(6A)[^key-dd084d7eff882848b0814c08773dc82e] ends—
+(1) Where a police officer has received a written improvement notice[^c-80c2509d2b3a949396f3732b3644b94b], as soon as reasonably practicable after the date with which the period specified in accordance with regulation 17(6A)[^c-dd084d7eff882848b0814c08773dc82e] ends—
 
-- (a) the line manager must assess the performance or attendance of the officer concerned during that period, in consultation with the appeal manager[^key-a9186659fd36cf7625bd13d7cb7064a0] or a human resources professional (or both), and
+- (a) the line manager must assess the performance or attendance of the officer concerned during that period, in consultation with the appeal manager[^c-a9186659fd36cf7625bd13d7cb7064a0] or a human resources professional (or both), and
 - (b) the line manager must give the officer a written notice as to whether the line manager considers that there has been a sufficient improvement in performance or attendance during that period.
 
-(2) If the line manager considers that there has not been a sufficient improvement, the line manager must, at the same time as the line manager gives a notice under paragraph (1)(b), also give the officer concerned a written notice that the officer is required to attend a meeting (in these Regulations referred to as a second stage meeting[^key-65a5e36c5d0bf8847e32ce0b3f0913fd]) to consider performance or attendance.
+(2) If the line manager considers that there has not been a sufficient improvement, the line manager must, at the same time as the line manager gives a notice under paragraph (1)(b), also give the officer concerned a written notice that the officer is required to attend a meeting (in these Regulations referred to as a second stage meeting[^c-65a5e36c5d0bf8847e32ce0b3f0913fd]) to consider performance or attendance.
 
-(3) The officer concerned may be required to attend a second stage meeting[^key-4d186c0ecd27d882db2aac7c7eb639aa] under paragraph (4) where—
+(3) The officer concerned may be required to attend a second stage meeting[^c-4d186c0ecd27d882db2aac7c7eb639aa] under paragraph (4) where—
 
-- (a) the officer has not been required to attend a second stage meeting[^key-2d843eb3a92292a2a6164edaf8b31d98] under paragraph (2), or
-- (b) the officer has been required to attend a second stage meeting[^key-f9467ec1247ee5042827cfc9a57104e5] under paragraph (2) but the panel did not make a finding of unsatisfactory performance or attendance at that meeting.
+- (a) the officer has not been required to attend a second stage meeting[^c-2d843eb3a92292a2a6164edaf8b31d98] under paragraph (2), or
+- (b) the officer has been required to attend a second stage meeting[^c-f9467ec1247ee5042827cfc9a57104e5] under paragraph (2) but the panel did not make a finding of unsatisfactory performance or attendance at that meeting.
 
-(4) If the line manager considers that the officer concerned has failed to maintain a sufficient improvement in performance or attendance during any part of the validity period of the written improvement notice[^key-a485219967a984831e262abb74917de8] remaining after the expiry of the period specified in accordance with regulation 17(6A)[^key-7e6f7d9381f89bfcb6c8ef9efb3334d1], the line manager must give the officer a written notice of the matters set out in paragraph (5).
+(4) If the line manager considers that the officer concerned has failed to maintain a sufficient improvement in performance or attendance during any part of the validity period of the written improvement notice[^c-a485219967a984831e262abb74917de8] remaining after the expiry of the period specified in accordance with regulation 17(6A)[^c-7e6f7d9381f89bfcb6c8ef9efb3334d1], the line manager must give the officer a written notice of the matters set out in paragraph (5).
 
 (5) Those matters are—
 
 - (a) that the line manager is of the view mentioned in paragraph (4), and
-- (b) that the officer concerned is required to attend a meeting (in these Regulations referred to as a second stage meeting[^key-abb92c1c3402b26effc27a386a16c6cc]) to consider performance or attendance.
+- (b) that the officer concerned is required to attend a meeting (in these Regulations referred to as a second stage meeting[^c-abb92c1c3402b26effc27a386a16c6cc]) to consider performance or attendance.
 
-(6) Unless regulation 32 applies, any second stage meeting[^key-dd5c4aa5f5c472a8064d2f58532ded13] which a police officer is required to attend must concern unsatisfactory performance or attendance which is similar to or connected with the unsatisfactory performance or attendance referred to in the written improvement notice[^key-2f1fecab4a8a6346d32c2492a778e9f2].
+(6) Unless regulation 32 applies, any second stage meeting[^c-dd5c4aa5f5c472a8064d2f58532ded13] which a police officer is required to attend must concern unsatisfactory performance or attendance which is similar to or connected with the unsatisfactory performance or attendance referred to in the written improvement notice[^c-2f1fecab4a8a6346d32c2492a778e9f2].
 
-### 31. Arrangement of a second stage meeting[^key-f6af73d50809e3e68f89d96739266719][^key-8833d03eda2643020e69a37a29b03194]
+### 31. Arrangement of a second stage meeting[^c-f6af73d50809e3e68f89d96739266719][^c-8833d03eda2643020e69a37a29b03194]
 
-(1) Where the line manager requires the officer concerned to attend a second stage meeting[^key-2cc140e292572416f332b370fa9e4753], the senior manager must as soon as reasonably practicable give the officer a written notice—
+(1) Where the line manager requires the officer concerned to attend a second stage meeting[^c-2cc140e292572416f332b370fa9e4753], the senior manager must as soon as reasonably practicable give the officer a written notice—
 
-- (a) referring to the requirement that the officer attend a second stage meeting[^key-2a89533d8d14849703225179335cc075] with a panel appointed by the appropriate authority;
+- (a) referring to the requirement that the officer attend a second stage meeting[^c-2a89533d8d14849703225179335cc075] with a panel appointed by the appropriate authority;
 - (b) informing the officer of the procedures for determining the date and time of the meeting under regulation 38;
 - (c) summarising the reasons why performance or attendance is considered unsatisfactory;
 - (d) informing the officer of the possible outcomes of the meeting;
@@ -692,14 +692,14 @@ the decision of the appeal manager[^key-79d0f31a4326ea52aae93c70a6bdd3a7] takes 
 - (g) informing the officer that a relevant lawyer may attend the meeting to advise the panel on the proceedings and on any question of law that may arise at the meeting;
 - (h) where the officer concerned is a special constable, informing the officer that a special constable will attend the meeting to advise the panel;
 - (i) informing the officer that, if the officer consents, any other person specified in the notice may attend the meeting;
-- (j) [^key-ab493c830bf4f9e76cac6a9abd760a7d]... informing the officer that the officer may seek advice from a representative of a staff association; and
+- (j) [^c-ab493c830bf4f9e76cac6a9abd760a7d]... informing the officer that the officer may seek advice from a representative of a staff association; and
 - (k) informing the officer that the officer may be accompanied and represented at the meeting by a police friend.
 
 (2) The notice must be accompanied by a copy of any document relied on by the line manager when the line manager formed the view referred to in regulation 30(2) or (4), as the case may be.
 
-(3) A second stage meeting[^key-620fcd362e3cae1a1053d9c34f67a4f8] under this regulation must not take place unless the officer concerned has been notified of the right to representation under paragraph (1)(k).
+(3) A second stage meeting[^c-620fcd362e3cae1a1053d9c34f67a4f8] under this regulation must not take place unless the officer concerned has been notified of the right to representation under paragraph (1)(k).
 
-### 32. Circumstances in which a second stage meeting may be required without a prior first stage meeting[^key-4aee14b84a9559fcf6a4a5f09933ecd9][^key-3caf57164e008f818a866b37fe171142][^key-b315d2198da5b78d9e7bf1f384599256]
+### 32. Circumstances in which a second stage meeting may be required without a prior first stage meeting[^c-4aee14b84a9559fcf6a4a5f09933ecd9][^c-3caf57164e008f818a866b37fe171142][^c-b315d2198da5b78d9e7bf1f384599256]
 
 (1) This regulation applies where the appropriate authority—
 
@@ -712,17 +712,17 @@ the decision of the appeal manager[^key-79d0f31a4326ea52aae93c70a6bdd3a7] takes 
 
 (2) The appropriate authority must inform the officer concerned in writing that the officer is required to attend a meeting to consider performance where this regulation applies.
 
-(3) Such meeting is referred to in these Regulations as a second stage meeting[^key-428550e797ef799179d4c0957bd43091], notwithstanding that the officer concerned has not attended a first stage meeting [^key-0b3fa95649fc99d0b4be8f6401ebbd0a]... in respect of such performance.
+(3) Such meeting is referred to in these Regulations as a second stage meeting[^c-428550e797ef799179d4c0957bd43091], notwithstanding that the officer concerned has not attended a first stage meeting [^c-0b3fa95649fc99d0b4be8f6401ebbd0a]... in respect of such performance.
 
-### 33. Arrangement of a second stage meeting without a prior first stage meeting[^key-a752c4f78d3bc603b3df8f433ab9d78c][^key-9583790febef840d11b60fc0bd99d839][^key-ba062d212a6c4147db734c515888c855]
+### 33. Arrangement of a second stage meeting without a prior first stage meeting[^c-a752c4f78d3bc603b3df8f433ab9d78c][^c-9583790febef840d11b60fc0bd99d839][^c-ba062d212a6c4147db734c515888c855]
 
-(1) Where the appropriate authority has informed the officer concerned under regulation 32(2) that the officer is required to attend a second stage meeting[^key-1f2c51968d972eb6276d7208037eb8b0], the appropriate authority must as soon as reasonably practicable give the officer a written notice—
+(1) Where the appropriate authority has informed the officer concerned under regulation 32(2) that the officer is required to attend a second stage meeting[^c-1f2c51968d972eb6276d7208037eb8b0], the appropriate authority must as soon as reasonably practicable give the officer a written notice—
 
-- (a) referring to the requirement that the officer attend a second stage meeting[^key-6bdbaaf80ed7cac38dea4dea53ac7d86] with a panel appointed by the appropriate authority;
+- (a) referring to the requirement that the officer attend a second stage meeting[^c-6bdbaaf80ed7cac38dea4dea53ac7d86] with a panel appointed by the appropriate authority;
 - (b) informing the officer of the procedures for determining the date and time of the meeting under regulation 38;
 - (c) summarising the reasons why the officer’s performance is considered to constitute gross incompetence;
 - (d) informing the officer of the possible outcomes of the meeting;
-- (e) informing the officer that if the outcome is dismissal [^key-01a295cf6d434cd18178d14c460170ba]..., the officer’s full name and a description of the conduct which led to dismissal will be added to the police barred list;
+- (e) informing the officer that if the outcome is dismissal [^c-01a295cf6d434cd18178d14c460170ba]..., the officer’s full name and a description of the conduct which led to dismissal will be added to the police barred list;
 - (f) informing the officer that a human resources professional and a police officer may attend the meeting to advise the panel on the proceedings;
 - (g) informing the officer that a relevant lawyer may attend the meeting to advise the panel on the proceedings and on any question of law that may arise at the meeting;
 - (h) where the officer is a special constable, informing the officer that a special constable must attend the meeting to act as an advisor to the panel;
@@ -731,7 +731,7 @@ the decision of the appeal manager[^key-79d0f31a4326ea52aae93c70a6bdd3a7] takes 
 - (k) in a case to which regulation 42(5) applies, informing the officer that a person nominated by the Director General may attend the meeting as an observer;
 - (l) informing the officer that, if the officer consents, any other person specified in the notice may attend the meeting;
 - (m) in a case to which regulation 42(10) applies, informing the officer that the Director General may direct that the whole or part of the meeting be in public;
-- (n) [^key-54a0ae1cbcbcaed128adba7b0b6ea61b]... informing the officer that the officer may seek advice from a representative of a staff association;
+- (n) [^c-54a0ae1cbcbcaed128adba7b0b6ea61b]... informing the officer that the officer may seek advice from a representative of a staff association;
 - (o) informing the officer of the effect of regulation 6; and
 - (p) informing the officer that the officer may be accompanied at the meeting by a police friend.
 
@@ -742,9 +742,9 @@ the decision of the appeal manager[^key-79d0f31a4326ea52aae93c70a6bdd3a7] takes 
   - (i) the investigator’s report under paragraph 22 or 24A of Schedule 3 to the 2002 Act (reports of final investigations) and the determination of the Director General under paragraph 23(5A)(b) (duties of Director General on receipt or completion of report on investigation), or
   - (ii) in a case where regulation 32 applies by virtue of paragraph (1)(b), (c) or (d), the recommendation of the Director General made under paragraph 25(4C)(c) (reviews with respect to an investigation) or paragraph 27(3A) (recommendation of Director General to appropriate authority), or the recommendation of a local policing body made under paragraph 25(4E)(c), of that Schedule.
 
-### 34. Appointment of panel members[^key-da2b4f32567fd93305439e9376a6339c]
+### 34. Appointment of panel members[^c-da2b4f32567fd93305439e9376a6339c]
 
-(1) The second stage meeting[^key-eb4d32024f2c2aee8a799066f912e2fd] must be conducted by a panel comprising a panel chair and two other members.
+(1) The second stage meeting[^c-eb4d32024f2c2aee8a799066f912e2fd] must be conducted by a panel comprising a panel chair and two other members.
 
 (2) The panel must be appointed by the appropriate authority and consist of at least one police officer and one human resources professional.
 
@@ -762,9 +762,9 @@ the decision of the appeal manager[^key-79d0f31a4326ea52aae93c70a6bdd3a7] takes 
 
 (9) As soon as the appropriate authority has appointed the panel members, the appropriate authority must arrange for a copy of any document—
 
-- (a) which was available to the line manager in relation to any first stage meeting or[^key-515f450c235905131f1696766ded5a93];
-- (b)[^key-10467bbc6e7895d42cf906eecdeb4195] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) which was prepared or submitted under regulation 18, 21, [^key-c9b7b5a52f1b0d22a03b4034f5154c6d]... 30, 31, 32 or 33 as the case may be,
+- (a) which was available to the line manager in relation to any first stage meeting or[^c-515f450c235905131f1696766ded5a93];
+- (b)[^c-10467bbc6e7895d42cf906eecdeb4195] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) which was prepared or submitted under regulation 18, 21, [^c-c9b7b5a52f1b0d22a03b4034f5154c6d]... 30, 31, 32 or 33 as the case may be,
 
 to be made available to each panel member, and a copy of any such document must be given to the officer concerned.
 
@@ -773,9 +773,9 @@ to be made available to each panel member, and a copy of any such document must 
 - “interested party” means a person whose appointment could reasonably give rise to a concern as to whether the person could act impartially under these Regulations;
 - “senior human resources professional” means a human resources professional who, in the opinion of the appropriate authority, has sufficient seniority, skills and experience to be a panel chair.
 
-(11)[^key-bac8af7197541d1bb50d0afd1a07d3c3] For the purposes of paragraph (3), a member of a police force is to be treated as if they hold a rank above that of chief superintendent if they are required to perform the duties normally performed by a member of a police force holding a rank above that of chief superintendent.
+(11)[^c-bac8af7197541d1bb50d0afd1a07d3c3] For the purposes of paragraph (3), a member of a police force is to be treated as if they hold a rank above that of chief superintendent if they are required to perform the duties normally performed by a member of a police force holding a rank above that of chief superintendent.
 
-### 35. Right of officer concerned to object to panel members[^key-2c2ef74d3db22984e1c780b973d90f6e]
+### 35. Right of officer concerned to object to panel members[^c-2c2ef74d3db22984e1c780b973d90f6e]
 
 (1) The officer concerned may object to the appointment of any of the panel members.
 
@@ -795,7 +795,7 @@ to be made available to each panel member, and a copy of any such document must 
 
 (9) The appropriate authority must comply with paragraphs (3) to (6) in relation to the objection referred to in paragraph (7).
 
-### 36. Procedure on receipt of notice of second stage meeting[^key-c214c6ffc9b7811b37fba118a2e714e6][^key-f6150d86083439da3284d2b4ec539a78]
+### 36. Procedure on receipt of notice of second stage meeting[^c-c214c6ffc9b7811b37fba118a2e714e6][^c-f6150d86083439da3284d2b4ec539a78]
 
 (1) Before the end of—
 
@@ -812,7 +812,7 @@ the officer concerned must comply with paragraphs (2) and (3).
   - (i) the matters the officer disputes and the officer’s account of the relevant events, and
   - (ii) any arguments on points of law the officer wishes to be considered by the panel.
 
-(3) The officer concerned must provide the appropriate authority and the panel with a copy of any document the officer intends to rely on at the second stage meeting[^key-9c6049482df4ede85d1030477d65d610].
+(3) The officer concerned must provide the appropriate authority and the panel with a copy of any document the officer intends to rely on at the second stage meeting[^c-9c6049482df4ede85d1030477d65d610].
 
 (4) Before the end of 3 working days beginning with the first working day after the date on which the officer concerned has complied with paragraph (2), the senior manager and the officer must each give to the other a list of proposed witnesses or give notice to the other that they do not have any proposed witnesses, and any list of proposed witnesses must include brief details of the evidence that each witness is able to adduce.
 
@@ -820,7 +820,7 @@ the officer concerned must comply with paragraphs (2) and (3).
 
 (6) Where no list of proposed witnesses is agreed under paragraph (5), the officer concerned must give the appropriate authority the officer’s list of proposed witnesses.
 
-### 37. Witnesses[^key-ad7c683d49e88dc020f50ea523097605]
+### 37. Witnesses[^c-ad7c683d49e88dc020f50ea523097605]
 
 (1) As soon as reasonably practicable after any list of proposed witnesses has been—
 
@@ -832,48 +832,48 @@ the appropriate authority must give that list to the panel chair, together with,
 (2) The panel chair must—
 
 - (a) consider the list or lists of proposed witnesses, and
-- (b) subject to paragraph (3), determine which, if any, witnesses should attend the second stage meeting[^key-7a581cafbe713ed5f83b82e7e058522a].
+- (b) subject to paragraph (3), determine which, if any, witnesses should attend the second stage meeting[^c-7a581cafbe713ed5f83b82e7e058522a].
 
-(3) The panel chair may determine that witnesses not named in any list of proposed witnesses should attend the second stage meeting[^key-4707ab2730cfa2f8303a48b6b857e8f0].
+(3) The panel chair may determine that witnesses not named in any list of proposed witnesses should attend the second stage meeting[^c-4707ab2730cfa2f8303a48b6b857e8f0].
 
-(4) No witness may give evidence at a second stage meeting[^key-72d51cd72c325b9f1b4de4698e4c8380] unless the panel chair reasonably believes that it is necessary in the interests of fairness for the witness to do so, in which case the chair must—
+(4) No witness may give evidence at a second stage meeting[^c-72d51cd72c325b9f1b4de4698e4c8380] unless the panel chair reasonably believes that it is necessary in the interests of fairness for the witness to do so, in which case the chair must—
 
-- (a) where the witness is a police officer, cause that person to be ordered to attend the second stage meeting[^key-25d78e4fe1bbe2fe0370c69a8ffb8bea], and
+- (a) where the witness is a police officer, cause that person to be ordered to attend the second stage meeting[^c-25d78e4fe1bbe2fe0370c69a8ffb8bea], and
 - (b) in any other case, cause the witness to be given notice that the witness’s attendance is necessary and of the date, time and place of the meeting.
 
-### 38. Timing and notice of second stage meeting[^key-f1330094bf49e164782552673a28439f][^key-1386c22adc493ab443ce9f4cfba5ec20]
+### 38. Timing and notice of second stage meeting[^c-f1330094bf49e164782552673a28439f][^c-1386c22adc493ab443ce9f4cfba5ec20]
 
-(1) Subject to paragraphs (2) and (6) and regulation 39, the second stage meeting[^key-95e644d3bf74a3560a14f3963922b3a2] must take place before the end of 30 working days beginning with the first working day after the day on which a notice has been given to the officer concerned under regulation 31 or 33.
+(1) Subject to paragraphs (2) and (6) and regulation 39, the second stage meeting[^c-95e644d3bf74a3560a14f3963922b3a2] must take place before the end of 30 working days beginning with the first working day after the day on which a notice has been given to the officer concerned under regulation 31 or 33.
 
 (2) The panel chair may extend the time period specified in paragraph (1) where the panel chair considers that it would be in the interests of fairness to do so.
 
 (3) Where the panel chair extends the time period under paragraph (2), the panel chair must give a written notice of the reasons for so doing to the appropriate authority and the officer concerned.
 
-(4) The panel chair must, if reasonably practicable, agree a date and time for the second stage meeting[^key-d8eb85630b851d7f57178fed8b21718f] with the officer concerned.
+(4) The panel chair must, if reasonably practicable, agree a date and time for the second stage meeting[^c-d8eb85630b851d7f57178fed8b21718f] with the officer concerned.
 
-(5) Where no date and time is agreed, the panel chair must specify a date and time for the second stage meeting[^key-c6777e9e2e8fd7983187eea555e08916].
+(5) Where no date and time is agreed, the panel chair must specify a date and time for the second stage meeting[^c-c6777e9e2e8fd7983187eea555e08916].
 
 (6) Where a date and time is specified and—
 
 - (a) the officer concerned or a police friend will not be available at that time, and
 - (b) the officer proposes an alternative time which satisfies paragraph (7),
 
-the second stage meeting[^key-205f03f388fdc565ec51d817352cade1] must be postponed to the time proposed by the officer.
+the second stage meeting[^c-205f03f388fdc565ec51d817352cade1] must be postponed to the time proposed by the officer.
 
 (7) An alternative time must—
 
 - (a) be reasonable, and
 - (b) fall before the end of 5 working days beginning with the first working day after the day specified by the panel chair.
 
-(8) The panel chair must give the officer concerned a written notice of the date and time of the second stage meeting[^key-7db2f477e7f84b36cf98f84f9af4d8ad] determined in accordance with this regulation and of the place of the meeting.
+(8) The panel chair must give the officer concerned a written notice of the date and time of the second stage meeting[^c-7db2f477e7f84b36cf98f84f9af4d8ad] determined in accordance with this regulation and of the place of the meeting.
 
-(9) Where the officer concerned informs the panel chair in advance that the officer is unable to attend the second stage meeting[^key-33d7f8737c6a4cc40741b53f32b934a4] on grounds which the panel chair considers reasonable, the panel chair may allow the officer to participate in the meeting by video link or other means.
+(9) Where the officer concerned informs the panel chair in advance that the officer is unable to attend the second stage meeting[^c-33d7f8737c6a4cc40741b53f32b934a4] on grounds which the panel chair considers reasonable, the panel chair may allow the officer to participate in the meeting by video link or other means.
 
-(10) Where the Director General is entitled to attend the second stage meeting[^key-d7efd3981fcaabe0cbfbadb619a27568] to make representations under regulation 40(2), or to nominate a person to attend the proceedings as an observer under regulation 42(5), the Director General must be given a written notice of the date, time and place of the proceedings.
+(10) Where the Director General is entitled to attend the second stage meeting[^c-d7efd3981fcaabe0cbfbadb619a27568] to make representations under regulation 40(2), or to nominate a person to attend the proceedings as an observer under regulation 42(5), the Director General must be given a written notice of the date, time and place of the proceedings.
 
-### 39. Postponement and adjournment of a second stage meeting[^key-68ac4d0e73b23d3268aa561c3c539bc0][^key-06e933d29d8d6113a4388a6db025db39]
+### 39. Postponement and adjournment of a second stage meeting[^c-68ac4d0e73b23d3268aa561c3c539bc0][^c-06e933d29d8d6113a4388a6db025db39]
 
-(1) If the panel chair considers it necessary or expedient, the panel chair may direct that the second stage meeting[^key-20bff14410b18465ca117d416b2602d5] take place at a date and time that is later than that specified in the notice given under regulation 38.
+(1) If the panel chair considers it necessary or expedient, the panel chair may direct that the second stage meeting[^c-20bff14410b18465ca117d416b2602d5] take place at a date and time that is later than that specified in the notice given under regulation 38.
 
 (2) Such direction may specify a date and time which falls after the period of 30 working days referred to in regulation 38(1).
 
@@ -883,7 +883,7 @@ the second stage meeting[^key-205f03f388fdc565ec51d817352cade1] must be postpone
 - (ii) the other panel members;, and
 - (iii) the appropriate authority.
 
-### 40. Participation of Director General and investigator at second stage meeting[^key-eaa1d13b121ef5bc268268c20a6af5cc][^key-293c4317172448cd93f4f25dce608dd5]
+### 40. Participation of Director General and investigator at second stage meeting[^c-eaa1d13b121ef5bc268268c20a6af5cc][^c-293c4317172448cd93f4f25dce608dd5]
 
 (1) This regulation applies in a case falling within regulation 32 where—
 
@@ -895,13 +895,13 @@ the second stage meeting[^key-205f03f388fdc565ec51d817352cade1] must be postpone
     - (cc) gave a direction under paragraph 27(4)(a) of that Schedule (direction by Director General where appropriate authority does not take steps to secure that full effect is given to Director General’s recommendation), or
   - (ii) a local policing body made a recommendation under paragraph 25(4E)(c) of that Schedule (reviews with respect to an investigation) which the appropriate authority accepted.
 
-(2) The Director General may attend the second stage meeting[^key-3a2bb028ed25d8fad4c02a104dc6ff12] to make representations, and where the Director General does so—
+(2) The Director General may attend the second stage meeting[^c-3a2bb028ed25d8fad4c02a104dc6ff12] to make representations, and where the Director General does so—
 
 - (a) the Director General may instruct a relevant lawyer to represent the Director General;
 - (b) the Director General must notify the complainant or any interested person before the meeting, and
 - (c) the panel chair must notify the officer concerned before the meeting.
 
-(3) The investigator or a nominated person must attend the second stage meeting[^key-9e3312bc62b62eea9c2bb8b8012e34bd] on the request of the panel chair to answer questions.
+(3) The investigator or a nominated person must attend the second stage meeting[^c-9e3312bc62b62eea9c2bb8b8012e34bd] on the request of the panel chair to answer questions.
 
 (4) For the purpose of this regulation, a “nominated person” is a person who, in the opinion of—
 
@@ -910,31 +910,31 @@ the second stage meeting[^key-205f03f388fdc565ec51d817352cade1] must be postpone
 
 has sufficient knowledge of the investigation of the case to be able to assist the panel.
 
-### 41. Attendance of complainant or interested person at second stage meeting[^key-0654db80e88dd6b841af3b8ffd347269][^key-17461cbbcf328c6bc4fdb559f5dac7df]
+### 41. Attendance of complainant or interested person at second stage meeting[^c-0654db80e88dd6b841af3b8ffd347269][^c-17461cbbcf328c6bc4fdb559f5dac7df]
 
-(1) This regulation applies in a case falling within regulation 32 where the second stage meeting[^key-2ce5c00937a04920e1bf41fd94a8ca7d] arises from—
+(1) This regulation applies in a case falling within regulation 32 where the second stage meeting[^c-2ce5c00937a04920e1bf41fd94a8ca7d] arises from—
 
 - (a) a conduct matter or DSI matter under Schedule 3 to the 2002 Act (handling of complaints and conduct matters etc.), or
 - (b) the investigation of a complaint to which paragraph 19A of that Schedule (special procedure where investigation relates to police officer or special constable)[^f00044] applied.
 
-(2) The appropriate authority must give the complainant or any interested person a written notice of the date, time and place of the second stage meeting[^key-eded06fbc6c19c82efbc221688c0c97c].
+(2) The appropriate authority must give the complainant or any interested person a written notice of the date, time and place of the second stage meeting[^c-eded06fbc6c19c82efbc221688c0c97c].
 
 (3) Subject to this regulation and any conditions imposed under regulation 42(13)—
 
-- (a) the complainant may attend as an observer any part of the second stage meeting[^key-38796351d8f38d777c8562b120fc1019] relating to the subject matter of the complaint, and
-- (b) an interested person may attend as an observer any part of the second stage meeting[^key-24963878d211a4f1b2e36946ac1cc7cd] relating to the subject matter of the complaint or conduct matter in respect of which the person is an interested person.
+- (a) the complainant may attend as an observer any part of the second stage meeting[^c-38796351d8f38d777c8562b120fc1019] relating to the subject matter of the complaint, and
+- (b) an interested person may attend as an observer any part of the second stage meeting[^c-24963878d211a4f1b2e36946ac1cc7cd] relating to the subject matter of the complaint or conduct matter in respect of which the person is an interested person.
 
 (4) Subject to paragraph (5) and any conditions imposed under regulation 42(13), a complainant or interested person may be accompanied by one other person, and if the complainant or interested person has a special need, by one further person to accommodate that need.
 
-(5) Where a complainant or interested person, or any accompanying person, is to give evidence as a witness at the second stage meeting[^key-5f17e30b8a68c4c329232ca7160549c2], the complainant or interested person and any accompanying person may not be allowed to attend the meeting before giving evidence.
+(5) Where a complainant or interested person, or any accompanying person, is to give evidence as a witness at the second stage meeting[^c-5f17e30b8a68c4c329232ca7160549c2], the complainant or interested person and any accompanying person may not be allowed to attend the meeting before giving evidence.
 
 (6) Where the officer concerned objects to the complainant or interested person, or any accompanying person, being present while a submission is made in mitigation on the officer’s behalf, the panel chair may require the complainant or interested person, or any accompanying person, to withdraw while the submission is made.
 
 (7) The panel chair may, at the panel chair’s discretion, put any questions to the officer concerned that the complainant or interested person may request be put to the officer.
 
-### 42. Attendance of others at a second stage meeting[^key-74cb4925ec80a673403fc8453c6ac78b][^key-adaaaee0f475f9243327b55779d254ee]
+### 42. Attendance of others at a second stage meeting[^c-74cb4925ec80a673403fc8453c6ac78b][^c-adaaaee0f475f9243327b55779d254ee]
 
-(1) Subject to regulations 40 and 41 and paragraph (10) of this regulation, the second stage meeting[^key-92a7acb029c3c87d9b79481bb46577a0] must be in private.
+(1) Subject to regulations 40 and 41 and paragraph (10) of this regulation, the second stage meeting[^c-92a7acb029c3c87d9b79481bb46577a0] must be in private.
 
 (2) A human resources professional and a police officer may attend the meeting to advise the panel on the proceedings.
 
@@ -942,7 +942,7 @@ has sufficient knowledge of the investigation of the case to be able to assist t
 
 (4) Where the officer concerned is a special constable, the appropriate authority must appoint a special constable with sufficient seniority and experience to act as an adviser to the panel, who must attend the meeting.
 
-(5) A person nominated by the Director General may, as an observer, attend a second stage meeting[^key-9f27f2ef024c69e14b2449925fab7eb2] held under regulation 32 and arising from a case to which—
+(5) A person nominated by the Director General may, as an observer, attend a second stage meeting[^c-9f27f2ef024c69e14b2449925fab7eb2] held under regulation 32 and arising from a case to which—
 
 - (a) paragraph 18 or 19 of Schedule 3 to the 2002 Act (investigations directed by or by the Director General) applied, or
 - (b) paragraph 16 of that Schedule (investigations by the appropriate authority on its own behalf) applied and in relation to which—
@@ -952,32 +952,32 @@ has sufficient knowledge of the investigation of the case to be able to assist t
     - (cc) gave a direction under paragraph 27(4)(a) of that Schedule (direction by Director General where appropriate authority does not take steps to secure that full effect is given to Director General’s recommendation), or
   - (ii) a local policing body made a recommendation under paragraph 25(4E)(c) of that Schedule (reviews with respect to an investigation) which the appropriate authority accepted.
 
-(6) In a case where a person nominated by the Director General is entitled to attend the second stage meeting[^key-84360f4353f04e714d2d6139e18b1c3d], the appropriate authority must notify the Director General of the date, time and place of the meeting.
+(6) In a case where a person nominated by the Director General is entitled to attend the second stage meeting[^c-84360f4353f04e714d2d6139e18b1c3d], the appropriate authority must notify the Director General of the date, time and place of the meeting.
 
 (7) Any other person specified in the notice to the officer concerned in accordance with regulation 31(1)(i) or 33(1)(l) may attend the meeting if the officer consents.
 
-(8) Subject to any contrary decision by the panel chair, a witness other than a complainant, interested person or the officer concerned may only attend the second stage meeting[^key-3a76927866ec9a9de42aa5d9b31f275c] for the purposes of giving their evidence.
+(8) Subject to any contrary decision by the panel chair, a witness other than a complainant, interested person or the officer concerned may only attend the second stage meeting[^c-3a76927866ec9a9de42aa5d9b31f275c] for the purposes of giving their evidence.
 
-(9) The panel chair may, at the panel chair’s discretion, permit a witness in the second stage meeting[^key-7f37fb3622ce370ee06b5ead10823d58] to be accompanied at that meeting by one other person.
+(9) The panel chair may, at the panel chair’s discretion, permit a witness in the second stage meeting[^c-7f37fb3622ce370ee06b5ead10823d58] to be accompanied at that meeting by one other person.
 
-(10) Where a second stage meeting[^key-5115dd32098034de9fcb7c84080a4bf1] held under regulation 32 arises from a case to which paragraph 19 of Schedule 3 to the 2002 Act (investigations by the Director General) applied, and the Director General considers that, because of the gravity of the case or other exceptional circumstances, it would be in the public interest to do so, the Director General may, having consulted with—
+(10) Where a second stage meeting[^c-5115dd32098034de9fcb7c84080a4bf1] held under regulation 32 arises from a case to which paragraph 19 of Schedule 3 to the 2002 Act (investigations by the Director General) applied, and the Director General considers that, because of the gravity of the case or other exceptional circumstances, it would be in the public interest to do so, the Director General may, having consulted with—
 
 - (a) the appropriate authority;
 - (b) the officer concerned;
 - (c) the complainant or interested person;
 - (d) any witnesses,
 
-direct that the whole or part of the second stage meeting[^key-1dea1fae3774944591e37a36330b83e8] be in public.
+direct that the whole or part of the second stage meeting[^c-1dea1fae3774944591e37a36330b83e8] be in public.
 
 (11) The panel is under a duty to comply with a direction given under paragraph (10).
 
 (12) A direction under paragraph (10), together with the reasons for it, must be notified as soon as practicable, and in any event before the end of 5 working days beginning with the first working day after the decision was taken, to the persons consulted under that paragraph.
 
-(13) The panel chair may impose such conditions as the panel chair sees fit relating to the attendance under regulation 41 or this regulation of persons at the second stage meeting[^key-a57ede377e334e3f9fbbf2e2510084f2] (including circumstances in which they may be excluded) in order to facilitate the proper conduct of the meeting.
+(13) The panel chair may impose such conditions as the panel chair sees fit relating to the attendance under regulation 41 or this regulation of persons at the second stage meeting[^c-a57ede377e334e3f9fbbf2e2510084f2] (including circumstances in which they may be excluded) in order to facilitate the proper conduct of the meeting.
 
-### 43. Exclusion from a second stage meeting[^key-9889319f0155882974fc04e19ac8c288][^key-088778fe19d8d71e25d6240911740a6b]
+### 43. Exclusion from a second stage meeting[^c-9889319f0155882974fc04e19ac8c288][^c-088778fe19d8d71e25d6240911740a6b]
 
-(1) Where it appears to the panel chair that any person may, in giving evidence, disclose information which ought not to be disclosed to any person attending the second stage meeting[^key-3c03c9304a76662702b2c98dc5b8611c], other than the officer concerned, because it is information to which paragraph (2) applies, the panel chair must require such attendees to withdraw while the evidence is given.
+(1) Where it appears to the panel chair that any person may, in giving evidence, disclose information which ought not to be disclosed to any person attending the second stage meeting[^c-3c03c9304a76662702b2c98dc5b8611c], other than the officer concerned, because it is information to which paragraph (2) applies, the panel chair must require such attendees to withdraw while the evidence is given.
 
 (2) This paragraph applies to information in so far as the panel chair considers that preventing disclosure of it is—
 
@@ -988,16 +988,16 @@ direct that the whole or part of the second stage meeting[^key-1dea1fae377494459
 - (e) necessary and proportionate for the protection of the welfare and safety of any informant or witness, or
 - (f) otherwise in the public interest.
 
-### 44. Procedure at a second stage meeting[^key-98ce036e6888489424f9e4b459413248][^key-72be3cd70d13d6a4de4766e81380d914]
+### 44. Procedure at a second stage meeting[^c-98ce036e6888489424f9e4b459413248][^c-72be3cd70d13d6a4de4766e81380d914]
 
-(1) The panel chair must determine the procedure at the second stage meeting[^key-979c9f31f616a156c565a1b019cca3ec] and, in so far as it is set out in these Regulations, must determine it in accordance with these Regulations.
+(1) The panel chair must determine the procedure at the second stage meeting[^c-979c9f31f616a156c565a1b019cca3ec] and, in so far as it is set out in these Regulations, must determine it in accordance with these Regulations.
 
-(2) Where the officer concerned is required to attend a second stage meeting[^key-6fcc24ff6023c5986f42762cfb94850b] under regulation 30, the panel chair must—
+(2) Where the officer concerned is required to attend a second stage meeting[^c-6fcc24ff6023c5986f42762cfb94850b] under regulation 30, the panel chair must—
 
 - (a) provide the officer with an opportunity to make representations in relation to the matters referred to in the notice given under regulation 31, and
 - (b) provide the police friend (if the officer has one) with an opportunity to address the meeting in relation to such matters in accordance with regulation 8(3)(a).
 
-(3) Where the officer concerned is required to attend a second stage meeting[^key-64777dd366dddefcfc4ae7dff9710273] under regulation 32, the panel chair must—
+(3) Where the officer concerned is required to attend a second stage meeting[^c-64777dd366dddefcfc4ae7dff9710273] under regulation 32, the panel chair must—
 
 - (a) provide the officer concerned with an opportunity to make representations in relation to the matters referred to in the notice given under regulation 33;
 - (b) provide the person representing the officer with an opportunity to address the meeting in relation to such matters in accordance with regulation 8(3)(a).
@@ -1006,12 +1006,12 @@ direct that the whole or part of the second stage meeting[^key-1dea1fae377494459
 
 (5) A verbatim record of the meeting must be taken and the officer concerned must, on request, be given a copy.
 
-### 45. Finding[^key-7776095371bd580863e25072c0fcc3a3]
+### 45. Finding[^c-7776095371bd580863e25072c0fcc3a3]
 
-(1) Following the second stage meeting[^key-3f8381342107465b18b451e72038f512], the panel must make a finding as to whether—
+(1) Following the second stage meeting[^c-3f8381342107465b18b451e72038f512], the panel must make a finding as to whether—
 
-- (a) in a case falling within regulation 30(2), the performance or attendance of the officer concerned during the period specified in accordance with regulation 17(6A)[^key-fe13517fc6ccd6c2580b7bab2193b4ea] has been satisfactory;
-- (b) in a case falling within regulation 30(4), the performance or attendance of the officer concerned during any part of the validity period of the written improvement notice[^key-83241e80eb617e6d56a660d6e25237a4] remaining after the expiry of the period specified in accordance with regulation 17(6A)[^key-4b67ce2fc7bcc67a4b81111f611ce6f7] has been satisfactory; or
+- (a) in a case falling within regulation 30(2), the performance or attendance of the officer concerned during the period specified in accordance with regulation 17(6A)[^c-fe13517fc6ccd6c2580b7bab2193b4ea] has been satisfactory;
+- (b) in a case falling within regulation 30(4), the performance or attendance of the officer concerned during any part of the validity period of the written improvement notice[^c-83241e80eb617e6d56a660d6e25237a4] remaining after the expiry of the period specified in accordance with regulation 17(6A)[^c-4b67ce2fc7bcc67a4b81111f611ce6f7] has been satisfactory; or
 - (c) in a case falling within regulation 32, the performance of the officer concerned constitutes gross incompetence, unsatisfactory performance or neither.
 
 (2) The panel must prepare (or must cause to be prepared) their decision in writing which must state the finding and their reasons, as well as any outcome which they order under regulation 46.
@@ -1025,7 +1025,7 @@ direct that the whole or part of the second stage meeting[^key-1dea1fae377494459
 
 (5) Any finding or decision of the panel under this regulation or regulation 46 must be based on a simple majority but must not indicate whether it was taken unanimously or by a majority.
 
-### 46. Outcomes[^key-3df0adb0b7a368b5599f35797197d582]
+### 46. Outcomes[^c-3df0adb0b7a368b5599f35797197d582]
 
 (1) If the panel make a finding that, in a case falling within regulation 30(2) or (4), the performance or attendance of the officer concerned has been unsatisfactory they may, subject to paragraph (4), order—
 
@@ -1039,14 +1039,14 @@ direct that the whole or part of the second stage meeting[^key-1dea1fae377494459
 - (a) dismissal of the officer concerned with notice, the period of the notice to be decided by the panel, subject to a minimum period of 28 days;
 - (b) dismissal of the officer concerned with immediate effect;
 - (c) reduction in rank of the officer concerned with immediate effect;
-- (d) an extension of the period of the written improvement notice[^key-70e30ea6bb59d9a3126e9212dfd85600] issued to the officer concerned;
-- (e) the issue to the officer concerned of a written improvement notice[^key-3a5fb94b8cda1182cad6b42b4d299757];
+- (d) an extension of the period of the written improvement notice[^c-70e30ea6bb59d9a3126e9212dfd85600] issued to the officer concerned;
+- (e) the issue to the officer concerned of a written improvement notice[^c-3a5fb94b8cda1182cad6b42b4d299757];
 - (f) redeployment of the officer concerned to alternative duties (which may involve a reduction of rank) within the police force concerned.
 
 (4) The panel may not order a reduction in rank with immediate effect where–
 
 - (a) the officer is a special constable, or
-- (b) the second stage meeting[^key-03237906ffdf2b75d0ab1ce888ba599e] relates to the attendance of the officer.
+- (b) the second stage meeting[^c-03237906ffdf2b75d0ab1ce888ba599e] relates to the attendance of the officer.
 
 (5) In considering whether to order any of the outcomes mentioned in paragraph (3), the panel—
 
@@ -1060,67 +1060,67 @@ an opportunity to make oral or written representations before making a decision.
 
 (6) If the panel make a finding, in a case falling within regulation 32, of unsatisfactory performance, they must order the issue to the officer concerned of a written improvement notice.
 
-(7) A written improvement notice [^key-e29605d9960152210c84b7d7971061dd]... issued under this regulation must—
+(7) A written improvement notice [^c-e29605d9960152210c84b7d7971061dd]... issued under this regulation must—
 
 - (a) state in what respect the performance or attendance of the officer concerned (as the case may be) is considered unsatisfactory or the performance, grossly incompetent;
 - (b) state the improvement that is required in performance or attendance;
-- (c)[^key-3e512dc690f0c8e0f43fb342561cc8ab] state that, if a sufficient improvement is not made within such period as the panel specifies in accordance with paragraph (7A), the officer may be required to attend another second stage meeting, and state the date with which this period ends;
+- (c)[^c-3e512dc690f0c8e0f43fb342561cc8ab] state that, if a sufficient improvement is not made within such period as the panel specifies in accordance with paragraph (7A), the officer may be required to attend another second stage meeting, and state the date with which this period ends;
 - (d) state that it is valid for a period of 12 months beginning with the date of the notice;
-- (e) state that, if the sufficient improvement referred to in sub-paragraph (c) is not maintained during any part of the validity period remaining after the expiry of the period specified in accordance with sub-paragraph (c), the officer may be required to attend another[^key-9aca443ff15d2455498d177804c51d74] second stage meeting [^key-6994b747472cef0958711d10662179ea]...; and
+- (e) state that, if the sufficient improvement referred to in sub-paragraph (c) is not maintained during any part of the validity period remaining after the expiry of the period specified in accordance with sub-paragraph (c), the officer may be required to attend another[^c-9aca443ff15d2455498d177804c51d74] second stage meeting [^c-6994b747472cef0958711d10662179ea]...; and
 - (f) be signed and dated by the panel chair.
 
-(7A)[^key-0ae3a4099a5e593dfc51dbe59a808b95] The period specified must be three months, except where the panel considers that there are circumstances which justify a longer period, in which case the period specified must be a reasonable period not exceeding 12 months.
+(7A)[^c-0ae3a4099a5e593dfc51dbe59a808b95] The period specified must be three months, except where the panel considers that there are circumstances which justify a longer period, in which case the period specified must be a reasonable period not exceeding 12 months.
 
-(8) Where the panel orders an extension of the period relating to a written improvement notice[^key-ce995d060bca824d5dbbaa614ccc1195] —
+(8) Where the panel orders an extension of the period relating to a written improvement notice[^c-ce995d060bca824d5dbbaa614ccc1195] —
 
 - (a) the notice must be amended—
-  - (i) to state that if the officer concerned does not make a sufficient improvement within such reasonable period as the panel specifies (being a period not exceeding 12 months) the officer may be required to attend another second stage meeting[^key-fc1c43758d863a304e0ac4d363a4af48], and
+  - (i) to state that if the officer concerned does not make a sufficient improvement within such reasonable period as the panel specifies (being a period not exceeding 12 months) the officer may be required to attend another second stage meeting[^c-fc1c43758d863a304e0ac4d363a4af48], and
   - (ii) to state the date with which this period ends;
 - (b) the panel may vary any of the other matters recorded in the notice;
 - (c) the notice is valid for a further period of 12 months.
 
-### 47. Assessment of performance or attendance following third stage meeting where a written improvement notice has been issued[^key-7944ea0cc53b79f0697c075db28e338b]
+### 47. Assessment of performance or attendance following third stage meeting where a written improvement notice has been issued[^c-7944ea0cc53b79f0697c075db28e338b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 48. Assessment of performance or attendance following second stage meeting where a written improvement notice has been issued or extended[^key-d4f1f8b8b0ec2e8792994d5ed8383e21][^key-f046f5067f72754c33442739f65eb59b][^key-d82006f33e5566436cffe84a1ed84a45]
+### 48. Assessment of performance or attendance following second stage meeting where a written improvement notice has been issued or extended[^c-d4f1f8b8b0ec2e8792994d5ed8383e21][^c-f046f5067f72754c33442739f65eb59b][^c-d82006f33e5566436cffe84a1ed84a45]
 
-(A1)[^key-a8b0cfa939434f26b63e635c0af99a78] This regulation applies where—
+(A1)[^c-a8b0cfa939434f26b63e635c0af99a78] This regulation applies where—
 
 - (a) the period of a written improvement notice has been extended under regulation 46(3)(d), or
 - (b) a written improvement notice has been issued under regulation 46(3)(e) or (6).
 
-(1) As soon as reasonably practicable after the end of the period specified in accordance with regulation 46(7A) (issue of written improvement notice) or 46(8)(a)(i) (extension of written improvement notice)—[^key-017ace35c24c8822c32452dd908f2457]
+(1) As soon as reasonably practicable after the end of the period specified in accordance with regulation 46(7A) (issue of written improvement notice) or 46(8)(a)(i) (extension of written improvement notice)—[^c-017ace35c24c8822c32452dd908f2457]
 
 - (a) the panel must assess the performance or attendance of the officer concerned (as the case may be) during that period, and
 - (b) the panel chair must give the officer a written notice as to whether the panel considers that there has been a sufficient improvement in performance or attendance during that period.
 
-(2) If the panel considers that there has not been a sufficient improvement, the panel chair must, at the same time as the panel chair gives a written notice under paragraph (1)(b), also give the officer concerned a written notice that the officer is required to attend another second stage meeting[^key-569a18e9687e0fcce9867412e9f8fdc8] to consider the officer’s performance or attendance.
+(2) If the panel considers that there has not been a sufficient improvement, the panel chair must, at the same time as the panel chair gives a written notice under paragraph (1)(b), also give the officer concerned a written notice that the officer is required to attend another second stage meeting[^c-569a18e9687e0fcce9867412e9f8fdc8] to consider the officer’s performance or attendance.
 
-(3) The officer concerned may be required to attend a second stage meeting[^key-f84f2a58ff5d90fe9e982e55520b3197] under paragraph (4) where—
+(3) The officer concerned may be required to attend a second stage meeting[^c-f84f2a58ff5d90fe9e982e55520b3197] under paragraph (4) where—
 
-- (a) the officer has not been required to attend a second stage meeting[^key-d854024a9835d7165d574c2776a6047d] under paragraph (2), or
-- (b) the officer has been required to attend a second stage meeting[^key-95f303662cc00e5dca0d9a5b4e4e4a06] under paragraph (2) but the panel did not make a finding of unsatisfactory performance or attendance at that meeting.
+- (a) the officer has not been required to attend a second stage meeting[^c-d854024a9835d7165d574c2776a6047d] under paragraph (2), or
+- (b) the officer has been required to attend a second stage meeting[^c-95f303662cc00e5dca0d9a5b4e4e4a06] under paragraph (2) but the panel did not make a finding of unsatisfactory performance or attendance at that meeting.
 
-(4) If the panel considers that the officer concerned has failed to maintain a sufficient improvement in performance or attendance during any part of the validity period of the written improvement notice[^key-9c6212fcfaede67199dda8d3a958bf67] remaining after the expiry of the period specified in accordance with regulation 46(7A)[^key-4d550ac60c85e622d2e0903bc6f8ce28] or, where the panel orders an[^key-40e07acecb571a764de7b41015664a1d] extension of the period, regulation 46(8)(a)(i)[^key-e4effb931421f87f0d6c5d85407adbba], the panel chair must give the officer a written notice of the matters set out in paragraph (5).
+(4) If the panel considers that the officer concerned has failed to maintain a sufficient improvement in performance or attendance during any part of the validity period of the written improvement notice[^c-9c6212fcfaede67199dda8d3a958bf67] remaining after the expiry of the period specified in accordance with regulation 46(7A)[^c-4d550ac60c85e622d2e0903bc6f8ce28] or, where the panel orders an[^c-40e07acecb571a764de7b41015664a1d] extension of the period, regulation 46(8)(a)(i)[^c-e4effb931421f87f0d6c5d85407adbba], the panel chair must give the officer a written notice of the matters set out in paragraph (5).
 
 (5) Those matters are—
 
 - (a) that the panel is of the view mentioned in paragraph (4), and
-- (b) that the officer concerned is required to attend another second stage meeting[^key-318708a55785e79eb48c1e280b500e9a] to consider the officer’s performance or attendance.
+- (b) that the officer concerned is required to attend another second stage meeting[^c-318708a55785e79eb48c1e280b500e9a] to consider the officer’s performance or attendance.
 
 (6) In a case falling within paragraph (2) or (4), the appropriate authority must give the officer concerned the notice referred to in regulation 31.
 
-(7) Where the officer concerned is required to attend a second stage meeting[^key-becdacaafddb3ed93251b38f42785eec] under this regulation, these Regulations have effect as if the case fell within regulation 30(2) or (4), as the case may be.
+(7) Where the officer concerned is required to attend a second stage meeting[^c-becdacaafddb3ed93251b38f42785eec] under this regulation, these Regulations have effect as if the case fell within regulation 30(2) or (4), as the case may be.
 
 (8) Where these Regulations have effect in the manner described in paragraph (7)—
 
-- (a) references to the period specified in accordance with regulation 17(6A)[^key-87e6321335112a22187ba082333693ff] are to be construed as references to the period specified in accordance with regulation 46(7A) or (8)(a)(i)[^key-0dbc16ec6e1df883b00d728d8b57ba85], as the case may be, and
-- (b) references to the validity period of the written improvement notice[^key-daf74896c4d3db93c6cf6a08215d7dce] are to be construed as references to the validity period mentioned in regulation 46(7)(d) or (8)(c), as the case may be.
+- (a) references to the period specified in accordance with regulation 17(6A)[^c-87e6321335112a22187ba082333693ff] are to be construed as references to the period specified in accordance with regulation 46(7A) or (8)(a)(i)[^c-0dbc16ec6e1df883b00d728d8b57ba85], as the case may be, and
+- (b) references to the validity period of the written improvement notice[^c-daf74896c4d3db93c6cf6a08215d7dce] are to be construed as references to the validity period mentioned in regulation 46(7)(d) or (8)(c), as the case may be.
 
-(9) Any second stage meeting[^key-14d28df5039827cc45fa91b5872807fa] which a police officer is required to attend under this regulation must concern unsatisfactory performance or attendance which is similar to or connected with the unsatisfactory performance or attendance referred to in the written improvement notice issued under regulation 46(3)(e) or (6)[^key-a1c9d334a2090dd88c1e15e25f66c7af] or, if amended under regulation 46(8)(a)(i)[^key-c694e641bf46ed07ce74e9052f20777d], as so amended.
+(9) Any second stage meeting[^c-14d28df5039827cc45fa91b5872807fa] which a police officer is required to attend under this regulation must concern unsatisfactory performance or attendance which is similar to or connected with the unsatisfactory performance or attendance referred to in the written improvement notice issued under regulation 46(3)(e) or (6)[^c-a1c9d334a2090dd88c1e15e25f66c7af] or, if amended under regulation 46(8)(a)(i)[^c-c694e641bf46ed07ce74e9052f20777d], as so amended.
 
-(10) References in this regulation to the panel are references to the panel that conducted the initial second stage meeting[^key-5b59b16a37ce83aad72cf8d92f142af2], subject to paragraph (11).
+(10) References in this regulation to the panel are references to the panel that conducted the initial second stage meeting[^c-5b59b16a37ce83aad72cf8d92f142af2], subject to paragraph (11).
 
 (11) Where any of the panel members are not able to continue to act as such, the appropriate authority must remove that member from the panel and must appoint a new member to the panel.
 
@@ -1132,19 +1132,19 @@ an opportunity to make oral or written representations before making a decision.
 
 (15) Any such objection must be made in accordance with regulation 35(2), provided that it must be made before the end of 3 working days beginning with the first working day after receipt of the notice referred to in paragraph (13); and the appropriate authority must comply with regulation 35(3) to (6) in relation to the objection but paragraph (7) of that regulation does not apply.
 
-### 49. Second stage meeting under regulation 48[^key-56a592c3b3a00664c4444d0bc2df07c3][^key-a917bf33a4acb74dab798f813039f491]
+### 49. Second stage meeting under regulation 48[^c-56a592c3b3a00664c4444d0bc2df07c3][^c-a917bf33a4acb74dab798f813039f491]
 
-(1) Where an officer is required to attend another second stage meeting[^key-127db455a6c7ff027f302ff6f951d79a] under regulation 48—
+(1) Where an officer is required to attend another second stage meeting[^c-127db455a6c7ff027f302ff6f951d79a] under regulation 48—
 
-- (a) that meeting must be conducted by the same panel as conducted the initial second stage meeting[^key-bbec8bb3f5b0c61425c1ffe480ab2c38] (subject to any change in that panel under regulation 48);
+- (a) that meeting must be conducted by the same panel as conducted the initial second stage meeting[^c-bbec8bb3f5b0c61425c1ffe480ab2c38] (subject to any change in that panel under regulation 48);
 - (b) the officer concerned may not object to panel members under regulation 35, except in accordance with regulation 48;
 - (c) subject to paragraph (2), regulations 36 to 46 apply to, or in relation to, that meeting.
 
-(2) Following that second stage meeting[^key-0b78f436fa08f338ea27eeb2dbf4ee9c], the panel may not order an extension of the period of the written improvement notice[^key-f6ccd2f121aae4634f1687557b3f99e7] issued to the officer concerned.
+(2) Following that second stage meeting[^c-0b78f436fa08f338ea27eeb2dbf4ee9c], the panel may not order an extension of the period of the written improvement notice[^c-f6ccd2f121aae4634f1687557b3f99e7] issued to the officer concerned.
 
 ## PART 6 — Police barred list
 
-### 50. Amendment of the Police Barred List and Police Advisory List Regulations 2017[^key-fcba34dc431fcbb04171bc0e5893da52]
+### 50. Amendment of the Police Barred List and Police Advisory List Regulations 2017[^c-fcba34dc431fcbb04171bc0e5893da52]
 
 In regulation 7(11)(a) of the Police Barred List and Police Advisory List Regulations 2017[^f00046] (removal from barred list on application of barred person: meaning of “gross incompetence” for the purposes of determining the minimum period of a person’s inclusion in the police barred list), for “2012” substitute “2020”.
 
@@ -1182,11 +1182,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: Section 63(3)(a) was substituted by paragraph 6(2) of Schedule 22 to the 2008 Act. There are further amendments of section 63 but none is relevant.
 
-[^key-205eb4a4569d3d5f710917714c225708]: Commencement: Reg. 1 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-205eb4a4569d3d5f710917714c225708]: Commencement: Reg. 1 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-7581852ccf284e96118ccca7996406ae]: Commencement: Reg. 2 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-7581852ccf284e96118ccca7996406ae]: Commencement: Reg. 2 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-b2fc8a7c0f8264e8b192a91d30e7e418]: Commencement: Reg. 3 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-b2fc8a7c0f8264e8b192a91d30e7e418]: Commencement: Reg. 3 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2012/2631](https://www.legislation.gov.uk/uksi/2012/2631).
 
@@ -1194,11 +1194,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00006]: Footnote: [S.I. 2017/1135](https://www.legislation.gov.uk/uksi/2017/1135).
 
-[^key-d8c61bf1919a3251705234333fac474d]: Commencement: Reg. 4 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-d8c61bf1919a3251705234333fac474d]: Commencement: Reg. 4 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
 [^f00007]: Footnote: [S.I. 2020/4](https://www.legislation.gov.uk/uksi/2020/4).
 
-[^key-aa1b8016cbb14c2a8fa32b5892a9a08a]: Textual amendment: Words in reg. 4(1) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-aa1b8016cbb14c2a8fa32b5892a9a08a]: Textual amendment: Words in reg. 4(1) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
 [^f00008]: Footnote: Section 29(2) was amended by paragraph 6 of Schedule 4 to the 2017 Act.
 
@@ -1218,23 +1218,23 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00016]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
 
-[^key-95ae068d0b9ab178dc5f8cd6c6c256f6]: Textual amendment: Words in reg. 4(1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-95ae068d0b9ab178dc5f8cd6c6c256f6]: Textual amendment: Words in reg. 4(1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
 [^f00017]: Footnote: Section 84 was substituted by paragraphs 1 and 7 of Schedule 22 to the 2008 Act and amended by paragraphs 1 and 40 of Schedule 16 to the 2011 Act and section 29(1) and (4) of the 2017 Act.
 
-[^key-6648718d9df6783910602466630dcd6f]: Textual amendment: Words in reg. 4(1) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-6648718d9df6783910602466630dcd6f]: Textual amendment: Words in reg. 4(1) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-03c6b4efd164e05bc979c4b37fd0d578]: Textual amendment: Words in reg. 4(1) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(d)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/d) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-03c6b4efd164e05bc979c4b37fd0d578]: Textual amendment: Words in reg. 4(1) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(d)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/d) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-a0414768eec6470015d1e0319ce70d99]: Textual amendment: Words in reg. 4(1) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(e)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/e) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-a0414768eec6470015d1e0319ce70d99]: Textual amendment: Words in reg. 4(1) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(e)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/e) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-628066bb0669151025149b13a06ac732]: Textual amendment: Words in reg. 4(1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(f)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/f) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-628066bb0669151025149b13a06ac732]: Textual amendment: Words in reg. 4(1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(f)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/f) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-de41a0ff6737856455cfc1c3e6d8bc44]: Textual amendment: Words in reg. 4(1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(g)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/g) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-de41a0ff6737856455cfc1c3e6d8bc44]: Textual amendment: Words in reg. 4(1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(g)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/g) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-d67199a2c953f3e50516dfb3b08f59da]: Textual amendment: Words in reg. 4(1) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/6/2)
+[^c-d67199a2c953f3e50516dfb3b08f59da]: Textual amendment: Words in reg. 4(1) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/6/2)
 
-[^key-c1ad35039aac861909207327091e71fd]: Textual amendment: Words in reg. 4(1) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(h)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/h) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-c1ad35039aac861909207327091e71fd]: Textual amendment: Words in reg. 4(1) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [19(h)](https://www.legislation.gov.uk/uksi/2025/558/regulation/19/h) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
 [^f00018]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
@@ -1262,83 +1262,83 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00030]: Footnote: Paragraph 27(2) was amended by section 15(1) and (10)(b) of the 2017 Act..
 
-[^key-85c27da401b7e06d9dbd9a2a845898a2]: Commencement: Reg. 5 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-85c27da401b7e06d9dbd9a2a845898a2]: Commencement: Reg. 5 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-c5d8099a4de93e70fa57d9ffbbb227ea]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2020/3/regulation/5/1/c) omitted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2022/505/regulation/6/3/a)
+[^c-c5d8099a4de93e70fa57d9ffbbb227ea]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2020/3/regulation/5/1/c) omitted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2022/505/regulation/6/3/a)
 
-[^key-c154e0f462a0524c5391fbc610525db5]: Commencement: Reg. 6 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-c154e0f462a0524c5391fbc610525db5]: Commencement: Reg. 6 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-77345a92051b5918c751792526c4d7c8]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/6/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/20/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-77345a92051b5918c751792526c4d7c8]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/6/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/20/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-e051a7fe7bad4f8dd9e55b8c5970a783]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/6/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/20/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-e051a7fe7bad4f8dd9e55b8c5970a783]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/6/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/20/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-fd96cf585e69d0ced467686b870039fc]: Commencement: Reg. 7 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-fd96cf585e69d0ced467686b870039fc]: Commencement: Reg. 7 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-246f047f9461617f711f1812f8fbbb15]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/7/1): reg. 7 renumbered as reg. 7(1) (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/21/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-246f047f9461617f711f1812f8fbbb15]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/7/1): reg. 7 renumbered as reg. 7(1) (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/21/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-3db9649591265a9b5cc5ed891c400bff]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/7/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [21(3)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/21/3/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-3db9649591265a9b5cc5ed891c400bff]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/7/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [21(3)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/21/3/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-e3e4eee23469d27beb79914f06b85a4f]: Textual amendment: [Reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/7/1/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [21(3)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/21/3/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-e3e4eee23469d27beb79914f06b85a4f]: Textual amendment: [Reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/7/1/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [21(3)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/21/3/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-72d2fe6d9c7dbfec12bf3f0a37e66c86]: Textual amendment: [Reg. 7(2)-(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/7/2) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [21(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/21/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-72d2fe6d9c7dbfec12bf3f0a37e66c86]: Textual amendment: [Reg. 7(2)-(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/7/2) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [21(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/21/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-08ee46ad28404631a15ee08d6d3a832e]: Textual amendment: [Reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/7/4/b) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [26(2)](https://www.legislation.gov.uk/uksi/2026/653/regulation/26/2)
+[^c-08ee46ad28404631a15ee08d6d3a832e]: Textual amendment: [Reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/7/4/b) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [26(2)](https://www.legislation.gov.uk/uksi/2026/653/regulation/26/2)
 
-[^key-dc973732fbc08b7412906bc785a4a002]: Commencement: Reg. 8 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-dc973732fbc08b7412906bc785a4a002]: Commencement: Reg. 8 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-8f3bb06dd674511a532bc5c93d07396f]: Textual amendment: Words in reg. 8(1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(2)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/2/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-8f3bb06dd674511a532bc5c93d07396f]: Textual amendment: Words in reg. 8(1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(2)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/2/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-9a6c9994f498fd6db3b3cb273ae0de06]: Textual amendment: Words in reg. 8(1)(b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(2)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/2/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-9a6c9994f498fd6db3b3cb273ae0de06]: Textual amendment: Words in reg. 8(1)(b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(2)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/2/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-6df68e8673b4fb17d294dc3198682c4c]: Textual amendment: Words in reg. 8(2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-6df68e8673b4fb17d294dc3198682c4c]: Textual amendment: Words in reg. 8(2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-af97bb1f6cd1fb209e102fff81023c75]: Textual amendment: Words in reg. 8(3)(a)(v) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-af97bb1f6cd1fb209e102fff81023c75]: Textual amendment: Words in reg. 8(3)(a)(v) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-3e0778fc8212738d27fe9ac30ae8ad1a]: Textual amendment: Words in reg. 8(5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-3e0778fc8212738d27fe9ac30ae8ad1a]: Textual amendment: Words in reg. 8(5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-b23f75d0f7fe85d5c7011cb4093aa96b]: Textual amendment: Words in reg. 8(7) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-b23f75d0f7fe85d5c7011cb4093aa96b]: Textual amendment: Words in reg. 8(7) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-2552e8f4cde982b20f8719e5ca43b360]: Textual amendment: Words in reg. 8(9)(a) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(7)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/7/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-2552e8f4cde982b20f8719e5ca43b360]: Textual amendment: Words in reg. 8(9)(a) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(7)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/7/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-1f2f556f3b5a95d73499b1ce7ef94b83]: Textual amendment: Word in reg. 8(9)(b) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(7)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/7/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-1f2f556f3b5a95d73499b1ce7ef94b83]: Textual amendment: Word in reg. 8(9)(b) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [22(7)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/22/7/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-ea13268ad5e7711537548c9c4f2a79f0]: Commencement: Reg. 9 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-ea13268ad5e7711537548c9c4f2a79f0]: Commencement: Reg. 9 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-385a32662160a6098ec8c359123a824c]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/9/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/23/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-385a32662160a6098ec8c359123a824c]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/9/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/23/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-b42216c577af37c566686dd1745de9ad]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/9/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [23(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/23/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-b42216c577af37c566686dd1745de9ad]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/9/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [23(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/23/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-cb97babbc45699071ec37b0e470a5fad]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/9/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [23(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/23/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-cb97babbc45699071ec37b0e470a5fad]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/9/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [23(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/23/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-119394507394ca4275eb6ed3eef7421c]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/9/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [23(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/23/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-119394507394ca4275eb6ed3eef7421c]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/9/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [23(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/23/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-67db57104ce2603a4336daca7d3ac1ce]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2020/3/regulation/9/5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [23(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/23/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-67db57104ce2603a4336daca7d3ac1ce]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2020/3/regulation/9/5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [23(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/23/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-d8beec0ee4ff8e6fb85348983b520571]: Commencement: Reg. 10 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-d8beec0ee4ff8e6fb85348983b520571]: Commencement: Reg. 10 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-c410e15cdbaf347c29444661dd69b29f]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/10/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [24(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/24/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-c410e15cdbaf347c29444661dd69b29f]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/10/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [24(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/24/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-2237258c06060b271fc433b00073bcb4]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/10/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [24(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/24/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-2237258c06060b271fc433b00073bcb4]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/10/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [24(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/24/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-e094d31a2135819dfe35be3897fe6767]: Commencement: Reg. 11 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-e094d31a2135819dfe35be3897fe6767]: Commencement: Reg. 11 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
 [^f00031]: Footnote: [S.I. 2003/527](https://www.legislation.gov.uk/uksi/2003/527).
 
-[^key-6e60a107fb9778cb67c3f4ce642a9c72]: Textual amendment: Words in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/11/2/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [25(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/25/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-6e60a107fb9778cb67c3f4ce642a9c72]: Textual amendment: Words in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/11/2/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [25(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/25/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-bf4facef411394622e5d946c39a523bb]: Textual amendment: Words in [reg. 11(2)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/11/2/b) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [25(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/25/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-bf4facef411394622e5d946c39a523bb]: Textual amendment: Words in [reg. 11(2)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/11/2/b) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [25(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/25/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-965298cfb7f1102cacc5a510dcc1004e]: Textual amendment: [Reg. 11(2)(c)](https://www.legislation.gov.uk/uksi/2020/3/regulation/11/2/c) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [25(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/25/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-965298cfb7f1102cacc5a510dcc1004e]: Textual amendment: [Reg. 11(2)(c)](https://www.legislation.gov.uk/uksi/2020/3/regulation/11/2/c) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [25(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/25/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-4bd38de16b50aeedb3e708bdd0aff444]: Textual amendment: [Reg. 11(2)(d)](https://www.legislation.gov.uk/uksi/2020/3/regulation/11/2/d) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [25(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/25/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-4bd38de16b50aeedb3e708bdd0aff444]: Textual amendment: [Reg. 11(2)(d)](https://www.legislation.gov.uk/uksi/2020/3/regulation/11/2/d) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [25(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/25/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-371bc887b3e0d4044b7d107c9f8a44ac]: Textual amendment: Words in [reg. 11(2)(e)](https://www.legislation.gov.uk/uksi/2020/3/regulation/11/2/e) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [25(d)](https://www.legislation.gov.uk/uksi/2025/558/regulation/25/d) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-371bc887b3e0d4044b7d107c9f8a44ac]: Textual amendment: Words in [reg. 11(2)(e)](https://www.legislation.gov.uk/uksi/2020/3/regulation/11/2/e) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [25(d)](https://www.legislation.gov.uk/uksi/2025/558/regulation/25/d) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-9e5b29295afdb27d685e674020840613]: Textual amendment: Words in [reg. 11(2)(f)](https://www.legislation.gov.uk/uksi/2020/3/regulation/11/2/f) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [25(e)](https://www.legislation.gov.uk/uksi/2025/558/regulation/25/e) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-9e5b29295afdb27d685e674020840613]: Textual amendment: Words in [reg. 11(2)(f)](https://www.legislation.gov.uk/uksi/2020/3/regulation/11/2/f) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [25(e)](https://www.legislation.gov.uk/uksi/2025/558/regulation/25/e) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-d7599a3ffa6028639b7ba69314a61391]: Commencement: Reg. 12 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-d7599a3ffa6028639b7ba69314a61391]: Commencement: Reg. 12 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-25aa210ccf0bdde30fdabf2e1d098dc8]: Textual amendment: Word in reg. 12(1) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-25aa210ccf0bdde30fdabf2e1d098dc8]: Textual amendment: Word in reg. 12(1) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
 [^f00032]: Footnote: Paragraph 22 was substituted by paragraphs 1, 11 and 21 of Schedule 12 to the Serious Organised Crime and Police Act 2005 (“the 2005 Act”) and amended by paragraphs 1, 3 and 12 of Schedule 23 to the Criminal Justice and Immigration Act 2008 (“the 2008 Act”) and section 19 of, and paragraph 47 of Schedule 5, and paragraphs 15 and 56 of Schedule 9, to the Policing and Crime Act 2017 (“the 2017 Act”). Paragraph 24A was inserted by paragraphs 1, 11 and 24 of Schedule 12 to the 2005 Act and amended by paragraphs 1, 3 and 15 of Schedule 23 to the 2008 Act and section 18 of, and paragraphs 9, 28 and 47 of Schedule 5, and paragraphs 15 and 56 of Schedule 9, to the 2017 Act.
 
@@ -1356,177 +1356,177 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00039]: Footnote: Paragraph 27(4) was amended by paragraphs 15 and 56 of Schedule 9 to the 2017 Act.
 
-[^key-03c3f4eed36e10d4b5d842a8d0df9ec2]: Textual amendment: Words in reg. 12(2)(b) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-03c3f4eed36e10d4b5d842a8d0df9ec2]: Textual amendment: Words in reg. 12(2)(b) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-bd98bfa0cae12d9824b228d541daeaf2]: Textual amendment: Reg. 12(3) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-bd98bfa0cae12d9824b228d541daeaf2]: Textual amendment: Reg. 12(3) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-36d1354ed71d9599c952fbb6830ee59f]: Textual amendment: Word in reg. 12(6)(a) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(5)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/5/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-36d1354ed71d9599c952fbb6830ee59f]: Textual amendment: Word in reg. 12(6)(a) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(5)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/5/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-fb3c80884fb97e351b0d3a43e02a99c2]: Textual amendment: Reg. 12(6)(b) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(5)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/5/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-fb3c80884fb97e351b0d3a43e02a99c2]: Textual amendment: Reg. 12(6)(b) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(5)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/5/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-e7beb7dc9b5cbf3b0abb39020c77cec5]: Textual amendment: Words in reg. 12(6)(c) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(5)(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/5/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-e7beb7dc9b5cbf3b0abb39020c77cec5]: Textual amendment: Words in reg. 12(6)(c) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(5)(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/5/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-2deeeda53483b9c941016e7e7be4a989]: Textual amendment: Word in reg. 12(7) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-2deeeda53483b9c941016e7e7be4a989]: Textual amendment: Word in reg. 12(7) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-8559f586a8f765ad5aaa33224b7b7ef0]: Textual amendment: Words in reg. 12(8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(7)(a)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/7/a/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-8559f586a8f765ad5aaa33224b7b7ef0]: Textual amendment: Words in reg. 12(8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(7)(a)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/7/a/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-0cfeead6581a3f697708a3e0d81f776b]: Textual amendment: Words in reg. 12(8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/7/a/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-0cfeead6581a3f697708a3e0d81f776b]: Textual amendment: Words in reg. 12(8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/7/a/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-7a496f9af1f2e4803cd6e48358648689]: Textual amendment: Words in reg. 12(8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/7/a/iii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-7a496f9af1f2e4803cd6e48358648689]: Textual amendment: Words in reg. 12(8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/7/a/iii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-b54600b06a9348a116c8cf382167fba0]: Textual amendment: Words in reg. 12(8)(a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(7)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/7/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-b54600b06a9348a116c8cf382167fba0]: Textual amendment: Words in reg. 12(8)(a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [26(7)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/26/7/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-4044d01dd8717988de331eb70503b09e]: Commencement: Reg. 13 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-4044d01dd8717988de331eb70503b09e]: Commencement: Reg. 13 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-d456abed3506f691f91d2d9b9f05c9af]: Textual amendment: Reg. 13(2)(a)(iii)-(v) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [27(a)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/27/a/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-d456abed3506f691f91d2d9b9f05c9af]: Textual amendment: Reg. 13(2)(a)(iii)-(v) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [27(a)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/27/a/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-6386a59ab2c4845b7b663e1a0ea607b1]: Textual amendment: Words in reg. 13(2)(a)(viii) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [27(a)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/27/a/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-6386a59ab2c4845b7b663e1a0ea607b1]: Textual amendment: Words in reg. 13(2)(a)(viii) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [27(a)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/27/a/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-88997eb9884ca5788664153dd281c111]: Textual amendment: Words in reg. 13(2)(b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/27/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-88997eb9884ca5788664153dd281c111]: Textual amendment: Words in reg. 13(2)(b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/27/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-3e423424e40ea823067d2edeaed50930]: Commencement: Reg. 14 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-3e423424e40ea823067d2edeaed50930]: Commencement: Reg. 14 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-1b9427c7924f30846eecccfa16e962ec]: Textual amendment: Words in reg. 14 heading inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-1b9427c7924f30846eecccfa16e962ec]: Textual amendment: Words in reg. 14 heading inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-ca8fd2ca55925a38a196d61132581011]: Textual amendment: Reg. 14(A1) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-ca8fd2ca55925a38a196d61132581011]: Textual amendment: Reg. 14(A1) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-c2a784bc137e0bd0df47a1e934bb08ec]: Textual amendment: Words in reg. 14(1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-c2a784bc137e0bd0df47a1e934bb08ec]: Textual amendment: Words in reg. 14(1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-404d6c4e9e7333abe963bf89269147b4]: Textual amendment: Words in reg. 14(1)(a) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-404d6c4e9e7333abe963bf89269147b4]: Textual amendment: Words in reg. 14(1)(a) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-b8899246f40a4299441f03bedd9034e3]: Textual amendment: Words in reg. 14(1)(b)(i) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(c)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/c/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-b8899246f40a4299441f03bedd9034e3]: Textual amendment: Words in reg. 14(1)(b)(i) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(c)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/c/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-6488e942f17c31c7d0ced2f92b131308]: Textual amendment: Words in reg. 14(1)(b)(i) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/c/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-6488e942f17c31c7d0ced2f92b131308]: Textual amendment: Words in reg. 14(1)(b)(i) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/c/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-70d9dea0413a316f99f411aa86200243]: Textual amendment: Word in reg. 14(1)(b)(i) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/c/iii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-70d9dea0413a316f99f411aa86200243]: Textual amendment: Word in reg. 14(1)(b)(i) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/c/iii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-fdacd5c35f9e17aca74b5fe3090b4303]: Textual amendment: Word in reg. 14(1)(b)(ii) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(d)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/d) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-fdacd5c35f9e17aca74b5fe3090b4303]: Textual amendment: Word in reg. 14(1)(b)(ii) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(d)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/d) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-ef9dad777555e67f36a7dd5d1a19403e]: Textual amendment: Word in reg. 14(1)(b)(iv) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(e)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/e/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-ef9dad777555e67f36a7dd5d1a19403e]: Textual amendment: Word in reg. 14(1)(b)(iv) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(e)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/e/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-39488f6f7cff82e93350e91d78f93cb4]: Textual amendment: Words in reg. 14(1)(b)(iv) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/e/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-39488f6f7cff82e93350e91d78f93cb4]: Textual amendment: Words in reg. 14(1)(b)(iv) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/4/e/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-b894a438943c707268b8151f83c569ff]: Textual amendment: Reg. 14(2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-b894a438943c707268b8151f83c569ff]: Textual amendment: Reg. 14(2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [28(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/28/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-de0ae003943df626d617354c6a900e22]: Commencement: Reg. 15 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-de0ae003943df626d617354c6a900e22]: Commencement: Reg. 15 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-9e43ce0af0f0e24cb845b6c55f6c53f7]: Commencement: Reg. 16 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-9e43ce0af0f0e24cb845b6c55f6c53f7]: Commencement: Reg. 16 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-ac3b9897bb31d627eae8062d8225799d]: Textual amendment: Words in [reg. 16(1)(d)](https://www.legislation.gov.uk/uksi/2020/3/regulation/16/1/d) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2025/558/regulation/29) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-ac3b9897bb31d627eae8062d8225799d]: Textual amendment: Words in [reg. 16(1)(d)](https://www.legislation.gov.uk/uksi/2020/3/regulation/16/1/d) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2025/558/regulation/29) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-cf107ca7c24769480297d0ce0152618d]: Textual amendment: Words in [reg. 16(1)(g)](https://www.legislation.gov.uk/uksi/2020/3/regulation/16/1/g) omitted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2022/505/regulation/6/4/a)
+[^c-cf107ca7c24769480297d0ce0152618d]: Textual amendment: Words in [reg. 16(1)(g)](https://www.legislation.gov.uk/uksi/2020/3/regulation/16/1/g) omitted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2022/505/regulation/6/4/a)
 
-[^key-e03e168bce654f6c49ccd821a6799c12]: Commencement: Reg. 17 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-e03e168bce654f6c49ccd821a6799c12]: Commencement: Reg. 17 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-84368efbddfa908a2f8b643e7ff32ae5]: Textual amendment: Words in [reg. 17(6)(c)](https://www.legislation.gov.uk/uksi/2020/3/regulation/17/6/c) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [30(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/30/2/a/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-84368efbddfa908a2f8b643e7ff32ae5]: Textual amendment: Words in [reg. 17(6)(c)](https://www.legislation.gov.uk/uksi/2020/3/regulation/17/6/c) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [30(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/30/2/a/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-59cbc6d91617c44b04c8d727b4451f67]: Textual amendment: Words in [reg. 17(6)(c)](https://www.legislation.gov.uk/uksi/2020/3/regulation/17/6/c) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [30(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/30/2/a/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-59cbc6d91617c44b04c8d727b4451f67]: Textual amendment: Words in [reg. 17(6)(c)](https://www.legislation.gov.uk/uksi/2020/3/regulation/17/6/c) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [30(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/30/2/a/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-450ce01d860adaf824a8c58ba23febdb]: Textual amendment: Words in [reg. 17(6)(e)](https://www.legislation.gov.uk/uksi/2020/3/regulation/17/6/e) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [30(2)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/30/2/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-450ce01d860adaf824a8c58ba23febdb]: Textual amendment: Words in [reg. 17(6)(e)](https://www.legislation.gov.uk/uksi/2020/3/regulation/17/6/e) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [30(2)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/30/2/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-727854e41e24dfdb83c3ea3575aa8e69]: Textual amendment: [Reg. 17(6A)](https://www.legislation.gov.uk/uksi/2020/3/regulation/17/6A) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [30(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/30/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-727854e41e24dfdb83c3ea3575aa8e69]: Textual amendment: [Reg. 17(6A)](https://www.legislation.gov.uk/uksi/2020/3/regulation/17/6A) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [30(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/30/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-afd569400449ba6a24c3e6ab699bab58]: Commencement: Reg. 18 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-afd569400449ba6a24c3e6ab699bab58]: Commencement: Reg. 18 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-4bdf8de1278cb9399f32f0ec224f7195]: Textual amendment: Words in [reg. 18(6)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/18/6/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2025/558/regulation/31) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-4bdf8de1278cb9399f32f0ec224f7195]: Textual amendment: Words in [reg. 18(6)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/18/6/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2025/558/regulation/31) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-e6328d6ac74e02cf90ab24bc852c777a]: Commencement: Reg. 19 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-e6328d6ac74e02cf90ab24bc852c777a]: Commencement: Reg. 19 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-1d4ad9c232aee9e37d621b3e30bffab4]: Textual amendment: Words in reg. 19(3)(c) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/32/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-1d4ad9c232aee9e37d621b3e30bffab4]: Textual amendment: Words in reg. 19(3)(c) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/32/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-697fd998e952d4e01730aa9c37ec5fb3]: Textual amendment: Words in reg. 19(5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [32(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/32/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-697fd998e952d4e01730aa9c37ec5fb3]: Textual amendment: Words in reg. 19(5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [32(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/32/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-f9ffa2f3de4cfb63ff6799f0ab2bb50f]: Textual amendment: Words in reg. 19(7) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/32/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-f9ffa2f3de4cfb63ff6799f0ab2bb50f]: Textual amendment: Words in reg. 19(7) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/32/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-24e2d402d280b5d6b1267cbf8e5f0999]: Textual amendment: Words in reg. 19(8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [32(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/32/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-24e2d402d280b5d6b1267cbf8e5f0999]: Textual amendment: Words in reg. 19(8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [32(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/32/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-d38d285498b8a626a2efea49d03be9c1]: Textual amendment: Words in reg. 19(9) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [32(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/32/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-d38d285498b8a626a2efea49d03be9c1]: Textual amendment: Words in reg. 19(9) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [32(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/32/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-689313f43dd1973af8bf230919304b3d]: Commencement: Reg. 20 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-689313f43dd1973af8bf230919304b3d]: Commencement: Reg. 20 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-b124a15e9e8424e42672d9966a6288cd]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/20/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [33(2)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/33/2/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-b124a15e9e8424e42672d9966a6288cd]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/20/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [33(2)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/33/2/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-40c6525e0abf1a5cb3e017e502d51780]: Textual amendment: Words in [reg. 20(1)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/20/1/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [33(2)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/33/2/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-40c6525e0abf1a5cb3e017e502d51780]: Textual amendment: Words in [reg. 20(1)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/20/1/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [33(2)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/33/2/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-17ee6be581d0c14cc2885bdc4457574a]: Textual amendment: Words in [reg. 20(1)(d)](https://www.legislation.gov.uk/uksi/2020/3/regulation/20/1/d) omitted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2022/505/regulation/6/3/b)
+[^c-17ee6be581d0c14cc2885bdc4457574a]: Textual amendment: Words in [reg. 20(1)(d)](https://www.legislation.gov.uk/uksi/2020/3/regulation/20/1/d) omitted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2022/505/regulation/6/3/b)
 
-[^key-a1d00835eeb1ed4560efde999bc828fc]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/20/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [33(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/33/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-a1d00835eeb1ed4560efde999bc828fc]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/20/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [33(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/33/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-043b1d9dbac2c78520dbc6631e2aa732]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/20/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [33(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/33/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-043b1d9dbac2c78520dbc6631e2aa732]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/20/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [33(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/33/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-0098a308b001535856d7ed9401ca5343]: Textual amendment: Words in [reg. 20(5)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/20/5/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [33(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/33/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-0098a308b001535856d7ed9401ca5343]: Textual amendment: Words in [reg. 20(5)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/20/5/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [33(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/33/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-6e47870a38412cb8ed2a7cb906525ed1]: Textual amendment: Words in [reg. 20(6)](https://www.legislation.gov.uk/uksi/2020/3/regulation/20/6) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [33(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/33/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-6e47870a38412cb8ed2a7cb906525ed1]: Textual amendment: Words in [reg. 20(6)](https://www.legislation.gov.uk/uksi/2020/3/regulation/20/6) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [33(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/33/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-1f4f256c32bfe64eb69b212b3d061a74]: Commencement: Reg. 21 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-1f4f256c32bfe64eb69b212b3d061a74]: Commencement: Reg. 21 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-d28b163c17130eeb5d9fa15c66af4e83]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-d28b163c17130eeb5d9fa15c66af4e83]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-367ac589d385b4b7ee115067885ce63c]: Textual amendment: Words in [reg. 21(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-367ac589d385b4b7ee115067885ce63c]: Textual amendment: Words in [reg. 21(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-93910faf158d8c04c4cfde8e815db7dd]: Textual amendment: Words in [reg. 21(5)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-93910faf158d8c04c4cfde8e815db7dd]: Textual amendment: Words in [reg. 21(5)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-403f69fcda4f57634bb6bd45b1f4dd91]: Textual amendment: Words in [reg. 21(6)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/6) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-403f69fcda4f57634bb6bd45b1f4dd91]: Textual amendment: Words in [reg. 21(6)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/6) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-c87706f1fdb29dd10371fcd68b822631]: Textual amendment: Words in [reg. 21(7)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/7) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-c87706f1fdb29dd10371fcd68b822631]: Textual amendment: Words in [reg. 21(7)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/7) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-c5018b5b07d89b6c5d2816f06b5f3423]: Textual amendment: Words in [reg. 21(8)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(7)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/7) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-c5018b5b07d89b6c5d2816f06b5f3423]: Textual amendment: Words in [reg. 21(8)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(7)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/7) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-61ca7109cdb0328b3e81699db3df0fa7]: Textual amendment: Words in [reg. 21(9)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/9) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(8)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/8) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-61ca7109cdb0328b3e81699db3df0fa7]: Textual amendment: Words in [reg. 21(9)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/9) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(8)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/8) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-ed4b827f30154892732787e83bab5455]: Textual amendment: Words in [reg. 21(10)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/10) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(9)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/9/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-ed4b827f30154892732787e83bab5455]: Textual amendment: Words in [reg. 21(10)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/10) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(9)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/9/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-79d0f31a4326ea52aae93c70a6bdd3a7]: Textual amendment: Words in [reg. 21(10)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/10) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(9)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/9/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-79d0f31a4326ea52aae93c70a6bdd3a7]: Textual amendment: Words in [reg. 21(10)](https://www.legislation.gov.uk/uksi/2020/3/regulation/21/10) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [34(9)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/34/9/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-954d186a05e1bb0082ceefe6b09f2dce]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2020/3/part/4) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2025/558/regulation/35) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-954d186a05e1bb0082ceefe6b09f2dce]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2020/3/part/4) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2025/558/regulation/35) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-9ca90b6f5cf5dab2298557306bcbb869]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/uksi/2020/3/part/5) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2025/558/regulation/36) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-9ca90b6f5cf5dab2298557306bcbb869]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/uksi/2020/3/part/5) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2025/558/regulation/36) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-bd68a7ea679dd4eb77bf2fb6fa149bbb]: Commencement: Reg. 30 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-bd68a7ea679dd4eb77bf2fb6fa149bbb]: Commencement: Reg. 30 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-d2a836d85cc02e689059a7ed866bc201]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/uksi/2020/3/regulation/30) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-d2a836d85cc02e689059a7ed866bc201]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/uksi/2020/3/regulation/30) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-80c2509d2b3a949396f3732b3644b94b]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/3/a/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-80c2509d2b3a949396f3732b3644b94b]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/3/a/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-dd084d7eff882848b0814c08773dc82e]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/3/a/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-dd084d7eff882848b0814c08773dc82e]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/3/a/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-a9186659fd36cf7625bd13d7cb7064a0]: Textual amendment: Words in [reg. 30(1)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/1/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(3)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/3/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-a9186659fd36cf7625bd13d7cb7064a0]: Textual amendment: Words in [reg. 30(1)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/1/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(3)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/3/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-65a5e36c5d0bf8847e32ce0b3f0913fd]: Textual amendment: Words in [reg. 30(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-65a5e36c5d0bf8847e32ce0b3f0913fd]: Textual amendment: Words in [reg. 30(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-4d186c0ecd27d882db2aac7c7eb639aa]: Textual amendment: Words in [reg. 30(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(5)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/5/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-4d186c0ecd27d882db2aac7c7eb639aa]: Textual amendment: Words in [reg. 30(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(5)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/5/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-2d843eb3a92292a2a6164edaf8b31d98]: Textual amendment: Words in [reg. 30(3)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/3/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(5)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/5/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-2d843eb3a92292a2a6164edaf8b31d98]: Textual amendment: Words in [reg. 30(3)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/3/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(5)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/5/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-f9467ec1247ee5042827cfc9a57104e5]: Textual amendment: Words in [reg. 30(3)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/3/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(5)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/5/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-f9467ec1247ee5042827cfc9a57104e5]: Textual amendment: Words in [reg. 30(3)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/3/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(5)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/5/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-a485219967a984831e262abb74917de8]: Textual amendment: Words in [reg. 30(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(6)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/6/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-a485219967a984831e262abb74917de8]: Textual amendment: Words in [reg. 30(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(6)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/6/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-7e6f7d9381f89bfcb6c8ef9efb3334d1]: Textual amendment: Words in [reg. 30(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(6)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/6/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-7e6f7d9381f89bfcb6c8ef9efb3334d1]: Textual amendment: Words in [reg. 30(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(6)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/6/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-abb92c1c3402b26effc27a386a16c6cc]: Textual amendment: Words in [reg. 30(5)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/5/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(7)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/7) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-abb92c1c3402b26effc27a386a16c6cc]: Textual amendment: Words in [reg. 30(5)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/5/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(7)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/7) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-dd5c4aa5f5c472a8064d2f58532ded13]: Textual amendment: Words in [reg. 30(6)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/6) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(8)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/8/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-dd5c4aa5f5c472a8064d2f58532ded13]: Textual amendment: Words in [reg. 30(6)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/6) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(8)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/8/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-2f1fecab4a8a6346d32c2492a778e9f2]: Textual amendment: Words in [reg. 30(6)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/6) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(8)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/8/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-2f1fecab4a8a6346d32c2492a778e9f2]: Textual amendment: Words in [reg. 30(6)](https://www.legislation.gov.uk/uksi/2020/3/regulation/30/6) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [37(8)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/37/8/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-f6af73d50809e3e68f89d96739266719]: Commencement: Reg. 31 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-f6af73d50809e3e68f89d96739266719]: Commencement: Reg. 31 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-8833d03eda2643020e69a37a29b03194]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/uksi/2020/3/regulation/31) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [38(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/38/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-8833d03eda2643020e69a37a29b03194]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/uksi/2020/3/regulation/31) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [38(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/38/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-2cc140e292572416f332b370fa9e4753]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/31/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [38(3)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/38/3/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-2cc140e292572416f332b370fa9e4753]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/31/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [38(3)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/38/3/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-2a89533d8d14849703225179335cc075]: Textual amendment: Words in [reg. 31(1)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/31/1/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [38(3)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/38/3/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-2a89533d8d14849703225179335cc075]: Textual amendment: Words in [reg. 31(1)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/31/1/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [38(3)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/38/3/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-ab493c830bf4f9e76cac6a9abd760a7d]: Textual amendment: Words in [reg. 31(1)(j)](https://www.legislation.gov.uk/uksi/2020/3/regulation/31/1/j) omitted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [6(4)(d)](https://www.legislation.gov.uk/uksi/2022/505/regulation/6/4/d)
+[^c-ab493c830bf4f9e76cac6a9abd760a7d]: Textual amendment: Words in [reg. 31(1)(j)](https://www.legislation.gov.uk/uksi/2020/3/regulation/31/1/j) omitted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [6(4)(d)](https://www.legislation.gov.uk/uksi/2022/505/regulation/6/4/d)
 
-[^key-620fcd362e3cae1a1053d9c34f67a4f8]: Textual amendment: Words in [reg. 31(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/31/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [38(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/38/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-620fcd362e3cae1a1053d9c34f67a4f8]: Textual amendment: Words in [reg. 31(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/31/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [38(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/38/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-4aee14b84a9559fcf6a4a5f09933ecd9]: Commencement: Reg. 32 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-4aee14b84a9559fcf6a4a5f09933ecd9]: Commencement: Reg. 32 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-3caf57164e008f818a866b37fe171142]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/2020/3/regulation/32) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [39(2)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/39/2/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-3caf57164e008f818a866b37fe171142]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/2020/3/regulation/32) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [39(2)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/39/2/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-b315d2198da5b78d9e7bf1f384599256]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/2020/3/regulation/32) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [39(2)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/39/2/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-b315d2198da5b78d9e7bf1f384599256]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/2020/3/regulation/32) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [39(2)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/39/2/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
 [^f00040]: Footnote: Paragraph 23(5A) and (5B) was inserted by paragraphs 9 and 26 of Schedule 5 to the Policing and Crime Act 2017 (“the 2017 Act”) and paragraph 23(5A) was amended by paragraphs 15 and 56 of Schedule 9 to that Act.
 
@@ -1536,230 +1536,230 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00043]: Footnote: Paragraph 27(4) was amended by paragraphs 15 and 56 of Schedule 9 to the 2017 Act.
 
-[^key-428550e797ef799179d4c0957bd43091]: Textual amendment: Words in [reg. 32(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/32/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [39(3)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/39/3/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-428550e797ef799179d4c0957bd43091]: Textual amendment: Words in [reg. 32(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/32/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [39(3)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/39/3/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-0b3fa95649fc99d0b4be8f6401ebbd0a]: Textual amendment: Words in [reg. 32(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/32/3) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [39(3)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/39/3/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-0b3fa95649fc99d0b4be8f6401ebbd0a]: Textual amendment: Words in [reg. 32(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/32/3) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [39(3)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/39/3/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-a752c4f78d3bc603b3df8f433ab9d78c]: Commencement: Reg. 33 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-a752c4f78d3bc603b3df8f433ab9d78c]: Commencement: Reg. 33 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-9583790febef840d11b60fc0bd99d839]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2020/3/regulation/33) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [40(2)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/40/2/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-9583790febef840d11b60fc0bd99d839]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2020/3/regulation/33) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [40(2)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/40/2/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-ba062d212a6c4147db734c515888c855]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2020/3/regulation/33) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [40(2)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/40/2/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-ba062d212a6c4147db734c515888c855]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2020/3/regulation/33) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [40(2)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/40/2/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-1f2c51968d972eb6276d7208037eb8b0]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/33/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [40(3)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/40/3/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-1f2c51968d972eb6276d7208037eb8b0]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/33/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [40(3)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/40/3/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-6bdbaaf80ed7cac38dea4dea53ac7d86]: Textual amendment: Words in [reg. 33(1)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/33/1/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [40(3)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/40/3/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-6bdbaaf80ed7cac38dea4dea53ac7d86]: Textual amendment: Words in [reg. 33(1)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/33/1/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [40(3)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/40/3/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-01a295cf6d434cd18178d14c460170ba]: Textual amendment: Words in [reg. 33(1)(e)](https://www.legislation.gov.uk/uksi/2020/3/regulation/33/1/e) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [40(3)(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/40/3/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-01a295cf6d434cd18178d14c460170ba]: Textual amendment: Words in [reg. 33(1)(e)](https://www.legislation.gov.uk/uksi/2020/3/regulation/33/1/e) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [40(3)(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/40/3/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-54a0ae1cbcbcaed128adba7b0b6ea61b]: Textual amendment: Words in [reg. 33(1)(n)](https://www.legislation.gov.uk/uksi/2020/3/regulation/33/1/n) omitted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [6(4)(e)](https://www.legislation.gov.uk/uksi/2022/505/regulation/6/4/e)
+[^c-54a0ae1cbcbcaed128adba7b0b6ea61b]: Textual amendment: Words in [reg. 33(1)(n)](https://www.legislation.gov.uk/uksi/2020/3/regulation/33/1/n) omitted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [6(4)(e)](https://www.legislation.gov.uk/uksi/2022/505/regulation/6/4/e)
 
-[^key-da2b4f32567fd93305439e9376a6339c]: Commencement: Reg. 34 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-da2b4f32567fd93305439e9376a6339c]: Commencement: Reg. 34 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-eb4d32024f2c2aee8a799066f912e2fd]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/34/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [41(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/41/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-eb4d32024f2c2aee8a799066f912e2fd]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/34/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [41(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/41/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-515f450c235905131f1696766ded5a93]: Textual amendment: Word in [reg. 34(9)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/34/9/a) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [41(3)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/41/3/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-515f450c235905131f1696766ded5a93]: Textual amendment: Word in [reg. 34(9)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/34/9/a) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [41(3)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/41/3/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-10467bbc6e7895d42cf906eecdeb4195]: Textual amendment: [Reg. 34(9)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/34/9/b) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [41(3)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/41/3/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-10467bbc6e7895d42cf906eecdeb4195]: Textual amendment: [Reg. 34(9)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/34/9/b) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [41(3)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/41/3/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-c9b7b5a52f1b0d22a03b4034f5154c6d]: Textual amendment: Words in [reg. 34(9)(c)](https://www.legislation.gov.uk/uksi/2020/3/regulation/34/9/c) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [41(3)(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/41/3/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-c9b7b5a52f1b0d22a03b4034f5154c6d]: Textual amendment: Words in [reg. 34(9)(c)](https://www.legislation.gov.uk/uksi/2020/3/regulation/34/9/c) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [41(3)(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/41/3/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-bac8af7197541d1bb50d0afd1a07d3c3]: Textual amendment: [Reg. 34(11)](https://www.legislation.gov.uk/uksi/2020/3/regulation/34/11) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [41(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/41/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-bac8af7197541d1bb50d0afd1a07d3c3]: Textual amendment: [Reg. 34(11)](https://www.legislation.gov.uk/uksi/2020/3/regulation/34/11) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [41(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/41/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-2c2ef74d3db22984e1c780b973d90f6e]: Commencement: Reg. 35 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-2c2ef74d3db22984e1c780b973d90f6e]: Commencement: Reg. 35 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-c214c6ffc9b7811b37fba118a2e714e6]: Commencement: Reg. 36 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-c214c6ffc9b7811b37fba118a2e714e6]: Commencement: Reg. 36 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-f6150d86083439da3284d2b4ec539a78]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2020/3/regulation/36) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [42(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/42/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-f6150d86083439da3284d2b4ec539a78]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2020/3/regulation/36) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [42(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/42/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-9c6049482df4ede85d1030477d65d610]: Textual amendment: Words in [reg. 36(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/36/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [42(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/42/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-9c6049482df4ede85d1030477d65d610]: Textual amendment: Words in [reg. 36(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/36/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [42(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/42/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-ad7c683d49e88dc020f50ea523097605]: Commencement: Reg. 37 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-ad7c683d49e88dc020f50ea523097605]: Commencement: Reg. 37 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-7a581cafbe713ed5f83b82e7e058522a]: Textual amendment: Words in [reg. 37(2)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/37/2/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [43(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/43/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-7a581cafbe713ed5f83b82e7e058522a]: Textual amendment: Words in [reg. 37(2)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/37/2/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [43(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/43/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-4707ab2730cfa2f8303a48b6b857e8f0]: Textual amendment: Words in [reg. 37(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/37/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [43(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/43/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-4707ab2730cfa2f8303a48b6b857e8f0]: Textual amendment: Words in [reg. 37(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/37/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [43(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/43/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-72d51cd72c325b9f1b4de4698e4c8380]: Textual amendment: Words in [reg. 37(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/37/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [43(4)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/43/4/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-72d51cd72c325b9f1b4de4698e4c8380]: Textual amendment: Words in [reg. 37(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/37/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [43(4)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/43/4/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-25d78e4fe1bbe2fe0370c69a8ffb8bea]: Textual amendment: Words in [reg. 37(4)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/37/4/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [43(4)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/43/4/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-25d78e4fe1bbe2fe0370c69a8ffb8bea]: Textual amendment: Words in [reg. 37(4)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/37/4/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [43(4)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/43/4/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-f1330094bf49e164782552673a28439f]: Commencement: Reg. 38 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-f1330094bf49e164782552673a28439f]: Commencement: Reg. 38 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-1386c22adc493ab443ce9f4cfba5ec20]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/uksi/2020/3/regulation/38) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-1386c22adc493ab443ce9f4cfba5ec20]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/uksi/2020/3/regulation/38) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-95e644d3bf74a3560a14f3963922b3a2]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/38/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-95e644d3bf74a3560a14f3963922b3a2]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/38/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-d8eb85630b851d7f57178fed8b21718f]: Textual amendment: Words in [reg. 38(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/38/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-d8eb85630b851d7f57178fed8b21718f]: Textual amendment: Words in [reg. 38(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/38/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-c6777e9e2e8fd7983187eea555e08916]: Textual amendment: Words in [reg. 38(5)](https://www.legislation.gov.uk/uksi/2020/3/regulation/38/5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-c6777e9e2e8fd7983187eea555e08916]: Textual amendment: Words in [reg. 38(5)](https://www.legislation.gov.uk/uksi/2020/3/regulation/38/5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-205f03f388fdc565ec51d817352cade1]: Textual amendment: Words in [reg. 38(6)](https://www.legislation.gov.uk/uksi/2020/3/regulation/38/6) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-205f03f388fdc565ec51d817352cade1]: Textual amendment: Words in [reg. 38(6)](https://www.legislation.gov.uk/uksi/2020/3/regulation/38/6) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-7db2f477e7f84b36cf98f84f9af4d8ad]: Textual amendment: Words in [reg. 38(8)](https://www.legislation.gov.uk/uksi/2020/3/regulation/38/8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(7)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/7) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-7db2f477e7f84b36cf98f84f9af4d8ad]: Textual amendment: Words in [reg. 38(8)](https://www.legislation.gov.uk/uksi/2020/3/regulation/38/8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(7)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/7) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-33d7f8737c6a4cc40741b53f32b934a4]: Textual amendment: Words in [reg. 38(9)](https://www.legislation.gov.uk/uksi/2020/3/regulation/38/9) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(8)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/8) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-33d7f8737c6a4cc40741b53f32b934a4]: Textual amendment: Words in [reg. 38(9)](https://www.legislation.gov.uk/uksi/2020/3/regulation/38/9) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(8)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/8) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-d7efd3981fcaabe0cbfbadb619a27568]: Textual amendment: Words in [reg. 38(10)](https://www.legislation.gov.uk/uksi/2020/3/regulation/38/10) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(9)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/9) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-d7efd3981fcaabe0cbfbadb619a27568]: Textual amendment: Words in [reg. 38(10)](https://www.legislation.gov.uk/uksi/2020/3/regulation/38/10) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [44(9)](https://www.legislation.gov.uk/uksi/2025/558/regulation/44/9) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-68ac4d0e73b23d3268aa561c3c539bc0]: Commencement: Reg. 39 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-68ac4d0e73b23d3268aa561c3c539bc0]: Commencement: Reg. 39 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-06e933d29d8d6113a4388a6db025db39]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/uksi/2020/3/regulation/39) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [45(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/45/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-06e933d29d8d6113a4388a6db025db39]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/uksi/2020/3/regulation/39) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [45(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/45/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-20bff14410b18465ca117d416b2602d5]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/39/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [45(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/45/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-20bff14410b18465ca117d416b2602d5]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/39/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [45(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/45/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-eaa1d13b121ef5bc268268c20a6af5cc]: Commencement: Reg. 40 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-eaa1d13b121ef5bc268268c20a6af5cc]: Commencement: Reg. 40 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-293c4317172448cd93f4f25dce608dd5]: Textual amendment: Words in [reg. 40](https://www.legislation.gov.uk/uksi/2020/3/regulation/40) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [46(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/46/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-293c4317172448cd93f4f25dce608dd5]: Textual amendment: Words in [reg. 40](https://www.legislation.gov.uk/uksi/2020/3/regulation/40) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [46(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/46/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-3a2bb028ed25d8fad4c02a104dc6ff12]: Textual amendment: Words in [reg. 40(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/40/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [46(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/46/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-3a2bb028ed25d8fad4c02a104dc6ff12]: Textual amendment: Words in [reg. 40(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/40/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [46(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/46/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-9e3312bc62b62eea9c2bb8b8012e34bd]: Textual amendment: Words in [reg. 40(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/40/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [46(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/46/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-9e3312bc62b62eea9c2bb8b8012e34bd]: Textual amendment: Words in [reg. 40(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/40/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [46(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/46/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-0654db80e88dd6b841af3b8ffd347269]: Commencement: Reg. 41 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-0654db80e88dd6b841af3b8ffd347269]: Commencement: Reg. 41 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-17461cbbcf328c6bc4fdb559f5dac7df]: Textual amendment: Words in reg. 41 heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [47(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/47/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-17461cbbcf328c6bc4fdb559f5dac7df]: Textual amendment: Words in reg. 41 heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [47(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/47/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-2ce5c00937a04920e1bf41fd94a8ca7d]: Textual amendment: Words in reg. 41(1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [47(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/47/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-2ce5c00937a04920e1bf41fd94a8ca7d]: Textual amendment: Words in reg. 41(1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [47(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/47/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
 [^f00044]: Footnote: Paragraph 19A was substituted for paragraphs 19A to 19E by paragraphs 9 and 21 of Schedule 5 to the 2017 Act.
 
-[^key-eded06fbc6c19c82efbc221688c0c97c]: Textual amendment: Words in reg. 41(2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [47(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/47/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-eded06fbc6c19c82efbc221688c0c97c]: Textual amendment: Words in reg. 41(2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [47(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/47/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-38796351d8f38d777c8562b120fc1019]: Textual amendment: Words in reg. 41(3)(a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [47(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/47/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-38796351d8f38d777c8562b120fc1019]: Textual amendment: Words in reg. 41(3)(a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [47(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/47/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-24963878d211a4f1b2e36946ac1cc7cd]: Textual amendment: Words in reg. 41(3)(b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [47(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/47/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-24963878d211a4f1b2e36946ac1cc7cd]: Textual amendment: Words in reg. 41(3)(b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [47(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/47/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-5f17e30b8a68c4c329232ca7160549c2]: Textual amendment: Words in reg. 41(5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [47(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/47/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-5f17e30b8a68c4c329232ca7160549c2]: Textual amendment: Words in reg. 41(5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [47(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/47/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-74cb4925ec80a673403fc8453c6ac78b]: Commencement: Reg. 42 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-74cb4925ec80a673403fc8453c6ac78b]: Commencement: Reg. 42 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-adaaaee0f475f9243327b55779d254ee]: Textual amendment: Words in [reg. 42](https://www.legislation.gov.uk/uksi/2020/3/regulation/42) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-adaaaee0f475f9243327b55779d254ee]: Textual amendment: Words in [reg. 42](https://www.legislation.gov.uk/uksi/2020/3/regulation/42) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-92a7acb029c3c87d9b79481bb46577a0]: Textual amendment: Words in [reg. 42(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-92a7acb029c3c87d9b79481bb46577a0]: Textual amendment: Words in [reg. 42(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-9f27f2ef024c69e14b2449925fab7eb2]: Textual amendment: Words in [reg. 42(5)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-9f27f2ef024c69e14b2449925fab7eb2]: Textual amendment: Words in [reg. 42(5)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-84360f4353f04e714d2d6139e18b1c3d]: Textual amendment: Words in [reg. 42(6)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/6) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-84360f4353f04e714d2d6139e18b1c3d]: Textual amendment: Words in [reg. 42(6)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/6) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-3a76927866ec9a9de42aa5d9b31f275c]: Textual amendment: Words in [reg. 42(8)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-3a76927866ec9a9de42aa5d9b31f275c]: Textual amendment: Words in [reg. 42(8)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/6) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-7f37fb3622ce370ee06b5ead10823d58]: Textual amendment: Words in [reg. 42(9)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/9) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(7)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/7) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-7f37fb3622ce370ee06b5ead10823d58]: Textual amendment: Words in [reg. 42(9)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/9) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(7)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/7) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-5115dd32098034de9fcb7c84080a4bf1]: Textual amendment: Words in [reg. 42(10)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/10) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(8)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/8/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-5115dd32098034de9fcb7c84080a4bf1]: Textual amendment: Words in [reg. 42(10)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/10) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(8)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/8/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-1dea1fae3774944591e37a36330b83e8]: Textual amendment: Words in [reg. 42(10)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/10) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(8)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/8/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-1dea1fae3774944591e37a36330b83e8]: Textual amendment: Words in [reg. 42(10)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/10) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(8)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/8/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-a57ede377e334e3f9fbbf2e2510084f2]: Textual amendment: Words in [reg. 42(13)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/13) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(9)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/9) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-a57ede377e334e3f9fbbf2e2510084f2]: Textual amendment: Words in [reg. 42(13)](https://www.legislation.gov.uk/uksi/2020/3/regulation/42/13) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [48(9)](https://www.legislation.gov.uk/uksi/2025/558/regulation/48/9) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-9889319f0155882974fc04e19ac8c288]: Commencement: Reg. 43 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-9889319f0155882974fc04e19ac8c288]: Commencement: Reg. 43 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-088778fe19d8d71e25d6240911740a6b]: Textual amendment: Words in [reg. 43](https://www.legislation.gov.uk/uksi/2020/3/regulation/43) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [49(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/49/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-088778fe19d8d71e25d6240911740a6b]: Textual amendment: Words in [reg. 43](https://www.legislation.gov.uk/uksi/2020/3/regulation/43) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [49(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/49/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-3c03c9304a76662702b2c98dc5b8611c]: Textual amendment: Words in [reg. 43(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/43/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [49(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/49/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-3c03c9304a76662702b2c98dc5b8611c]: Textual amendment: Words in [reg. 43(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/43/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [49(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/49/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-98ce036e6888489424f9e4b459413248]: Commencement: Reg. 44 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-98ce036e6888489424f9e4b459413248]: Commencement: Reg. 44 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-72be3cd70d13d6a4de4766e81380d914]: Textual amendment: Words in [reg. 44](https://www.legislation.gov.uk/uksi/2020/3/regulation/44) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [50(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/50/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-72be3cd70d13d6a4de4766e81380d914]: Textual amendment: Words in [reg. 44](https://www.legislation.gov.uk/uksi/2020/3/regulation/44) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [50(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/50/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-979c9f31f616a156c565a1b019cca3ec]: Textual amendment: Words in [reg. 44(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/44/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [50(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/50/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-979c9f31f616a156c565a1b019cca3ec]: Textual amendment: Words in [reg. 44(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/44/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [50(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/50/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-6fcc24ff6023c5986f42762cfb94850b]: Textual amendment: Words in [reg. 44(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/44/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [50(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/50/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-6fcc24ff6023c5986f42762cfb94850b]: Textual amendment: Words in [reg. 44(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/44/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [50(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/50/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-64777dd366dddefcfc4ae7dff9710273]: Textual amendment: Words in [reg. 44(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/44/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [50(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/50/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-64777dd366dddefcfc4ae7dff9710273]: Textual amendment: Words in [reg. 44(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/44/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [50(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/50/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-7776095371bd580863e25072c0fcc3a3]: Commencement: Reg. 45 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-7776095371bd580863e25072c0fcc3a3]: Commencement: Reg. 45 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-3f8381342107465b18b451e72038f512]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/45/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [51(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/51/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-3f8381342107465b18b451e72038f512]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/45/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [51(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/51/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-fe13517fc6ccd6c2580b7bab2193b4ea]: Textual amendment: Words in [reg. 45(1)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/45/1/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [51(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/51/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-fe13517fc6ccd6c2580b7bab2193b4ea]: Textual amendment: Words in [reg. 45(1)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/45/1/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [51(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/51/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-83241e80eb617e6d56a660d6e25237a4]: Textual amendment: Words in [reg. 45(1)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/45/1/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [51(c)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/51/c/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-83241e80eb617e6d56a660d6e25237a4]: Textual amendment: Words in [reg. 45(1)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/45/1/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [51(c)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/51/c/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-4b67ce2fc7bcc67a4b81111f611ce6f7]: Textual amendment: Words in [reg. 45(1)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/45/1/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [51(c)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/51/c/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-4b67ce2fc7bcc67a4b81111f611ce6f7]: Textual amendment: Words in [reg. 45(1)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/45/1/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [51(c)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/51/c/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
 [^f00045]: Footnote: [S.I. 2020/1](https://www.legislation.gov.uk/uksi/2020/1).
 
-[^key-3df0adb0b7a368b5599f35797197d582]: Commencement: Reg. 46 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-3df0adb0b7a368b5599f35797197d582]: Commencement: Reg. 46 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-70e30ea6bb59d9a3126e9212dfd85600]: Textual amendment: Words in [reg. 46(3)(d)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/3/d) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-70e30ea6bb59d9a3126e9212dfd85600]: Textual amendment: Words in [reg. 46(3)(d)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/3/d) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-3a5fb94b8cda1182cad6b42b4d299757]: Textual amendment: Words in [reg. 46(3)(e)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/3/e) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-3a5fb94b8cda1182cad6b42b4d299757]: Textual amendment: Words in [reg. 46(3)(e)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/3/e) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-03237906ffdf2b75d0ab1ce888ba599e]: Textual amendment: Words in [reg. 46(4)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/4/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-03237906ffdf2b75d0ab1ce888ba599e]: Textual amendment: Words in [reg. 46(4)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/4/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-e29605d9960152210c84b7d7971061dd]: Textual amendment: Words in [reg. 46(7)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/7) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(4)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/4/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-e29605d9960152210c84b7d7971061dd]: Textual amendment: Words in [reg. 46(7)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/7) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(4)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/4/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-3e512dc690f0c8e0f43fb342561cc8ab]: Textual amendment: [Reg. 46(7)(c)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/7/c) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(4)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/4/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-3e512dc690f0c8e0f43fb342561cc8ab]: Textual amendment: [Reg. 46(7)(c)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/7/c) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(4)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/4/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-9aca443ff15d2455498d177804c51d74]: Textual amendment: Word in [reg. 46(7)(e)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/7/e) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(4)(c)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/4/c/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-9aca443ff15d2455498d177804c51d74]: Textual amendment: Word in [reg. 46(7)(e)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/7/e) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(4)(c)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/4/c/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-6994b747472cef0958711d10662179ea]: Textual amendment: Words in [reg. 46(7)(e)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/7/e) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/4/c/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-6994b747472cef0958711d10662179ea]: Textual amendment: Words in [reg. 46(7)(e)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/7/e) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/4/c/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-0ae3a4099a5e593dfc51dbe59a808b95]: Textual amendment: [Reg. 46(7A)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/7A) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-0ae3a4099a5e593dfc51dbe59a808b95]: Textual amendment: [Reg. 46(7A)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/7A) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-ce995d060bca824d5dbbaa614ccc1195]: Textual amendment: Words in [reg. 46(8)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(6)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/6/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-ce995d060bca824d5dbbaa614ccc1195]: Textual amendment: Words in [reg. 46(8)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/8) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(6)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/6/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-fc1c43758d863a304e0ac4d363a4af48]: Textual amendment: Words in [reg. 46(8)(a)(i)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/8/a/i) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(6)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/6/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-fc1c43758d863a304e0ac4d363a4af48]: Textual amendment: Words in [reg. 46(8)(a)(i)](https://www.legislation.gov.uk/uksi/2020/3/regulation/46/8/a/i) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [52(6)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/52/6/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-7944ea0cc53b79f0697c075db28e338b]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/2020/3/regulation/47) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [53](https://www.legislation.gov.uk/uksi/2025/558/regulation/53) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-7944ea0cc53b79f0697c075db28e338b]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/2020/3/regulation/47) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [53](https://www.legislation.gov.uk/uksi/2025/558/regulation/53) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-d4f1f8b8b0ec2e8792994d5ed8383e21]: Commencement: Reg. 48 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-d4f1f8b8b0ec2e8792994d5ed8383e21]: Commencement: Reg. 48 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-f046f5067f72754c33442739f65eb59b]: Textual amendment: Words in [reg. 48](https://www.legislation.gov.uk/uksi/2020/3/regulation/48) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(2)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/2/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-f046f5067f72754c33442739f65eb59b]: Textual amendment: Words in [reg. 48](https://www.legislation.gov.uk/uksi/2020/3/regulation/48) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(2)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/2/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-d82006f33e5566436cffe84a1ed84a45]: Textual amendment: Words in [reg. 48](https://www.legislation.gov.uk/uksi/2020/3/regulation/48) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(2)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/2/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-d82006f33e5566436cffe84a1ed84a45]: Textual amendment: Words in [reg. 48](https://www.legislation.gov.uk/uksi/2020/3/regulation/48) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(2)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/2/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-a8b0cfa939434f26b63e635c0af99a78]: Textual amendment: [Reg. 48(A1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/A1) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-a8b0cfa939434f26b63e635c0af99a78]: Textual amendment: [Reg. 48(A1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/A1) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-017ace35c24c8822c32452dd908f2457]: Textual amendment: Words in [reg. 48(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-017ace35c24c8822c32452dd908f2457]: Textual amendment: Words in [reg. 48(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-569a18e9687e0fcce9867412e9f8fdc8]: Textual amendment: Words in [reg. 48(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-569a18e9687e0fcce9867412e9f8fdc8]: Textual amendment: Words in [reg. 48(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-f84f2a58ff5d90fe9e982e55520b3197]: Textual amendment: Words in [reg. 48(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(6)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/6/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-f84f2a58ff5d90fe9e982e55520b3197]: Textual amendment: Words in [reg. 48(3)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(6)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/6/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-d854024a9835d7165d574c2776a6047d]: Textual amendment: Words in [reg. 48(3)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/3/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(6)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/6/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-d854024a9835d7165d574c2776a6047d]: Textual amendment: Words in [reg. 48(3)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/3/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(6)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/6/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-95f303662cc00e5dca0d9a5b4e4e4a06]: Textual amendment: Words in [reg. 48(3)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/3/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(6)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/6/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-95f303662cc00e5dca0d9a5b4e4e4a06]: Textual amendment: Words in [reg. 48(3)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/3/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(6)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/6/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-9c6212fcfaede67199dda8d3a958bf67]: Textual amendment: Words in [reg. 48(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(7)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/7/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-9c6212fcfaede67199dda8d3a958bf67]: Textual amendment: Words in [reg. 48(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(7)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/7/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-4d550ac60c85e622d2e0903bc6f8ce28]: Textual amendment: Words in [reg. 48(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(7)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/7/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-4d550ac60c85e622d2e0903bc6f8ce28]: Textual amendment: Words in [reg. 48(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(7)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/7/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-40e07acecb571a764de7b41015664a1d]: Textual amendment: Word in [reg. 48(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(7)(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/7/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-40e07acecb571a764de7b41015664a1d]: Textual amendment: Word in [reg. 48(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(7)(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/7/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-e4effb931421f87f0d6c5d85407adbba]: Textual amendment: Words in [reg. 48(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(7)(d)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/7/d) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-e4effb931421f87f0d6c5d85407adbba]: Textual amendment: Words in [reg. 48(4)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(7)(d)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/7/d) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-318708a55785e79eb48c1e280b500e9a]: Textual amendment: Words in [reg. 48(5)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/5/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(8)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/8) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-318708a55785e79eb48c1e280b500e9a]: Textual amendment: Words in [reg. 48(5)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/5/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(8)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/8) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-becdacaafddb3ed93251b38f42785eec]: Textual amendment: Words in [reg. 48(7)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/7) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(9)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/9) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-becdacaafddb3ed93251b38f42785eec]: Textual amendment: Words in [reg. 48(7)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/7) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(9)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/9) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-87e6321335112a22187ba082333693ff]: Textual amendment: Words in [reg. 48(8)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/8/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(10)(a)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/10/a/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-87e6321335112a22187ba082333693ff]: Textual amendment: Words in [reg. 48(8)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/8/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(10)(a)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/10/a/i) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-0dbc16ec6e1df883b00d728d8b57ba85]: Textual amendment: Words in [reg. 48(8)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/8/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/10/a/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-0dbc16ec6e1df883b00d728d8b57ba85]: Textual amendment: Words in [reg. 48(8)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/8/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/10/a/ii) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-daf74896c4d3db93c6cf6a08215d7dce]: Textual amendment: Words in [reg. 48(8)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/8/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(10)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/10/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-daf74896c4d3db93c6cf6a08215d7dce]: Textual amendment: Words in [reg. 48(8)(b)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/8/b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(10)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/10/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-14d28df5039827cc45fa91b5872807fa]: Textual amendment: Words in [reg. 48(9)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/9) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(11)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/11/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-14d28df5039827cc45fa91b5872807fa]: Textual amendment: Words in [reg. 48(9)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/9) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(11)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/11/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-a1c9d334a2090dd88c1e15e25f66c7af]: Textual amendment: Words in [reg. 48(9)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/9) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(11)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/11/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-a1c9d334a2090dd88c1e15e25f66c7af]: Textual amendment: Words in [reg. 48(9)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/9) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(11)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/11/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-c694e641bf46ed07ce74e9052f20777d]: Textual amendment: Words in [reg. 48(9)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/9) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(11)(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/11/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-c694e641bf46ed07ce74e9052f20777d]: Textual amendment: Words in [reg. 48(9)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/9) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(11)(c)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/11/c) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-5b59b16a37ce83aad72cf8d92f142af2]: Textual amendment: Words in [reg. 48(10)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/10) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(12)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/12) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-5b59b16a37ce83aad72cf8d92f142af2]: Textual amendment: Words in [reg. 48(10)](https://www.legislation.gov.uk/uksi/2020/3/regulation/48/10) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [54(12)](https://www.legislation.gov.uk/uksi/2025/558/regulation/54/12) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-56a592c3b3a00664c4444d0bc2df07c3]: Commencement: Reg. 49 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-56a592c3b3a00664c4444d0bc2df07c3]: Commencement: Reg. 49 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
-[^key-a917bf33a4acb74dab798f813039f491]: Textual amendment: Words in [reg. 49](https://www.legislation.gov.uk/uksi/2020/3/regulation/49) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [55(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/55/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-a917bf33a4acb74dab798f813039f491]: Textual amendment: Words in [reg. 49](https://www.legislation.gov.uk/uksi/2020/3/regulation/49) heading substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [55(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/55/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-127db455a6c7ff027f302ff6f951d79a]: Textual amendment: Words in [reg. 49(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/49/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [55(3)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/55/3/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-127db455a6c7ff027f302ff6f951d79a]: Textual amendment: Words in [reg. 49(1)](https://www.legislation.gov.uk/uksi/2020/3/regulation/49/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [55(3)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/55/3/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-bbec8bb3f5b0c61425c1ffe480ab2c38]: Textual amendment: Words in [reg. 49(1)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/49/1/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [55(3)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/55/3/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-bbec8bb3f5b0c61425c1ffe480ab2c38]: Textual amendment: Words in [reg. 49(1)(a)](https://www.legislation.gov.uk/uksi/2020/3/regulation/49/1/a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [55(3)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/55/3/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-0b78f436fa08f338ea27eeb2dbf4ee9c]: Textual amendment: Words in [reg. 49(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/49/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [55(4)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/55/4/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-0b78f436fa08f338ea27eeb2dbf4ee9c]: Textual amendment: Words in [reg. 49(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/49/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [55(4)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/55/4/a) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-f6ccd2f121aae4634f1687557b3f99e7]: Textual amendment: Words in [reg. 49(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/49/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [55(4)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/55/4/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-f6ccd2f121aae4634f1687557b3f99e7]: Textual amendment: Words in [reg. 49(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/49/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [55(4)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/55/4/b) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-fcba34dc431fcbb04171bc0e5893da52]: Commencement: Reg. 50 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
+[^c-fcba34dc431fcbb04171bc0e5893da52]: Commencement: Reg. 50 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1)
 
 [^f00046]: Footnote: [S.I. 2017/1135](https://www.legislation.gov.uk/uksi/2017/1135).

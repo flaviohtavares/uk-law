@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 207. Assessment of council's performance[^key-9fb8ed8cd2b57401b5bdceb5bd7af44a][^key-e5e4267810beb8eedd4b3e2b3493b00a]
+## 207. Assessment of council's performance[^c-9fb8ed8cd2b57401b5bdceb5bd7af44a][^c-e5e4267810beb8eedd4b3e2b3493b00a]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ The Department may conduct, or appoint a person (referred to in sections 209 and
 
 ## Annotations
 
-[^key-9fb8ed8cd2b57401b5bdceb5bd7af44a]: Commencement: S. 207 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-9fb8ed8cd2b57401b5bdceb5bd7af44a]: Commencement: S. 207 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-e5e4267810beb8eedd4b3e2b3493b00a]: Commencement: S. 207 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-e5e4267810beb8eedd4b3e2b3493b00a]: Commencement: S. 207 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

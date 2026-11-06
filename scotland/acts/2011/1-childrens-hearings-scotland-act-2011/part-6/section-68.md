@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Determination under section 66: no referral to children's hearing[^key-2129fe5f50ef9b2b0ce109807a55361f]
+## 68. Determination under section 66: no referral to children's hearing[^c-2129fe5f50ef9b2b0ce109807a55361f]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
 - (a) must inform the persons mentioned in subsection (4) of the determination and the fact that the question of whether a compulsory supervision order should be made in respect of the child will not be referred to a children's hearing, and
 - (b) may, if the Principal Reporter considers it appropriate, inform any other person of the determination and that fact.
 
-(3A)[^key-000d75d86101913390846f697074df33] The Principal Reporter may not, under subsection (3)(b), provide information to a person who is entitled to request that information under section 179A(3).
+(3A)[^c-000d75d86101913390846f697074df33] The Principal Reporter may not, under subsection (3)(b), provide information to a person who is entitled to request that information under section 179A(3).
 
 (4) Those persons are—
 
@@ -46,7 +46,7 @@ summary: ''
   - (iii) a report under section 61 or 66,
   - (iv) a section 62 statement,
   - (v) evidence under section 63, or
-  - (vi) information under section 53 of the Criminal Justice (Scotland) Act 2016[^key-34f6b62a0d7eedfea58294eb67b393f6] .
+  - (vi) information under section 53 of the Criminal Justice (Scotland) Act 2016[^c-34f6b62a0d7eedfea58294eb67b393f6] .
 
 (5) The Principal Reporter may refer the child to—
 
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2129fe5f50ef9b2b0ce109807a55361f]: Commencement: S. 68 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-2129fe5f50ef9b2b0ce109807a55361f]: Commencement: S. 68 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-000d75d86101913390846f697074df33]: Textual amendment: S. 68(3A) inserted (29.11.2019) by [Age of Criminal Responsibility (Scotland) Act 2019 (asp 7)](https://www.legislation.gov.uk/asp/2019/7), [ss. 27(2)](https://www.legislation.gov.uk/asp/2019/7/section/27/2), [84(2)](https://www.legislation.gov.uk/asp/2019/7/section/84/2); [S.S.I. 2019/349](https://www.legislation.gov.uk/ssi/2019/349), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/349/regulation/2/b)
+[^c-000d75d86101913390846f697074df33]: Textual amendment: S. 68(3A) inserted (29.11.2019) by [Age of Criminal Responsibility (Scotland) Act 2019 (asp 7)](https://www.legislation.gov.uk/asp/2019/7), [ss. 27(2)](https://www.legislation.gov.uk/asp/2019/7/section/27/2), [84(2)](https://www.legislation.gov.uk/asp/2019/7/section/84/2); [S.S.I. 2019/349](https://www.legislation.gov.uk/ssi/2019/349), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/349/regulation/2/b)
 
-[^key-34f6b62a0d7eedfea58294eb67b393f6]: Textual amendment: Words in s. 68(4)(e)(vi) substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 40(c)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/40/c); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-34f6b62a0d7eedfea58294eb67b393f6]: Textual amendment: Words in s. 68(4)(e)(vi) substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 40(c)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/40/c); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))

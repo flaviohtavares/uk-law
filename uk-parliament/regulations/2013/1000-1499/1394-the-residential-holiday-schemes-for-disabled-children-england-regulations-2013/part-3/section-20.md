@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Complaints and representations[^key-4c75165982d392f323c43833be196880]
+## 20. Complaints and representations[^c-4c75165982d392f323c43833be196880]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c75165982d392f323c43833be196880]: Commencement: Reg. 20 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-4c75165982d392f323c43833be196880]: Commencement: Reg. 20 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
 [^f00012]: Footnote: [S.I. 2006/1738](https://www.legislation.gov.uk/uksi/2006/1738).

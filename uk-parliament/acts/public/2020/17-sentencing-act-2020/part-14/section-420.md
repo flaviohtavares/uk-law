@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 420. Short title[^key-462590905ccdf8206902d84925e6728e]
+## 420. Short title[^c-462590905ccdf8206902d84925e6728e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Sentencing Act 2020.
 
 ## Annotations
 
-[^key-462590905ccdf8206902d84925e6728e]: Commencement: [S. 420](https://www.legislation.gov.uk/ukpga/2020/17/section/420) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-462590905ccdf8206902d84925e6728e]: Commencement: [S. 420](https://www.legislation.gov.uk/ukpga/2020/17/section/420) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

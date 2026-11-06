@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019[^key-c44322979203981ef673ea1fb2ab00b0]
+## 52. The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019[^c-c44322979203981ef673ea1fb2ab00b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -162,7 +162,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c44322979203981ef673ea1fb2ab00b0]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-c44322979203981ef673ea1fb2ab00b0]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00032]: Footnote: [S.I. 2019/335](https://www.legislation.gov.uk/uksi/2019/335), as amended by [S.I 2019/1416](https://www.legislation.gov.uk/uksi/2019/1416) and [2020/646](https://www.legislation.gov.uk/uksi/2020/646).
 

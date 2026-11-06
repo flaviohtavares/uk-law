@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Power of planning authority to issue enforcement warning notice[^key-39d44648a6df79fba82de6567f2c0c0f]
+## 119. Power of planning authority to issue enforcement warning notice[^c-39d44648a6df79fba82de6567f2c0c0f]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39d44648a6df79fba82de6567f2c0c0f]: Commencement: S. 119 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-39d44648a6df79fba82de6567f2c0c0f]: Commencement: S. 119 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

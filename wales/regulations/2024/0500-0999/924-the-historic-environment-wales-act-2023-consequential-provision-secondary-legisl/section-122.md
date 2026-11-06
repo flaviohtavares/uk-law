@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**122.**[^key-63b8f3b9edd53c2a8c7922c6be796351] In regulation 14, for “paragraph 4(1)(a) of Schedule A2 to the 1979 Act” substitute “paragraph 3(a) of Schedule 2 to the 2023 Act”.
+**122.**[^c-63b8f3b9edd53c2a8c7922c6be796351] In regulation 14, for “paragraph 4(1)(a) of Schedule A2 to the 1979 Act” substitute “paragraph 3(a) of Schedule 2 to the 2023 Act”.
 
 ## Annotations
 
-[^key-63b8f3b9edd53c2a8c7922c6be796351]: Commencement: [Reg. 122](https://www.legislation.gov.uk/wsi/2024/924/regulation/122) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-63b8f3b9edd53c2a8c7922c6be796351]: Commencement: [Reg. 122](https://www.legislation.gov.uk/wsi/2024/924/regulation/122) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

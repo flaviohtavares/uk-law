@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Amendment of Schedule 3[^key-a3fe0601fa858b57395d46856356ef08]
+## 70. Amendment of Schedule 3[^c-a3fe0601fa858b57395d46856356ef08]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3fe0601fa858b57395d46856356ef08]: Commencement: Reg. 70 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-a3fe0601fa858b57395d46856356ef08]: Commencement: Reg. 70 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00051]: Footnote: Schedule 3 was substituted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101) and amended by [2015/806](https://www.legislation.gov.uk/uksi/2015/806).

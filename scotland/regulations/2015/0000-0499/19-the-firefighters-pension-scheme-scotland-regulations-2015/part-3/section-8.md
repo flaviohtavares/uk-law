@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Service in two or more scheme employments[^key-6980bd9225356ca9c58408b6deb2499d]
+## 8. Service in two or more scheme employments[^c-6980bd9225356ca9c58408b6deb2499d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ If a person is in service in two or more scheme employments, regulation 7 (eligi
 
 ## Annotations
 
-[^key-6980bd9225356ca9c58408b6deb2499d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/19/regulation/8) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-6980bd9225356ca9c58408b6deb2499d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/19/regulation/8) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

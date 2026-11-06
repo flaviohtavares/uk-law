@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Onshore petroleum: existing licences[^key-4087e6ba853a98a459a25dfc2f0f03fc]
+## 24. Onshore petroleum: existing licences[^c-4087e6ba853a98a459a25dfc2f0f03fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4087e6ba853a98a459a25dfc2f0f03fc]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/4/section/24) in force at 7.3.2018 by [S.I. 2017/1069](https://www.legislation.gov.uk/uksi/2017/1069), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1069/regulation/2)
+[^c-4087e6ba853a98a459a25dfc2f0f03fc]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/4/section/24) in force at 7.3.2018 by [S.I. 2017/1069](https://www.legislation.gov.uk/uksi/2017/1069), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1069/regulation/2)

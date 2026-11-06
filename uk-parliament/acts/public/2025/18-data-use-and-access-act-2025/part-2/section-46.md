@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Information disclosed by the Revenue and Customs[^key-258a25aed8cd16ad086c84606dacc2a1]
+## 46. Information disclosed by the Revenue and Customs[^c-258a25aed8cd16ad086c84606dacc2a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-258a25aed8cd16ad086c84606dacc2a1]: Commencement: S. 46 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-258a25aed8cd16ad086c84606dacc2a1]: Commencement: S. 46 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)

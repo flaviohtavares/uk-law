@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Determination of capital outside the United Kingdom[^key-6f0a9ac38fd79dfc3de0fd340745f77d]
+## 38. Determination of capital outside the United Kingdom[^c-6f0a9ac38fd79dfc3de0fd340745f77d]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ less, where there would be expenses attributable to sale, 10 per cent and the am
 
 ## Annotations
 
-[^key-6f0a9ac38fd79dfc3de0fd340745f77d]: Commencement: Reg. 38 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-6f0a9ac38fd79dfc3de0fd340745f77d]: Commencement: Reg. 38 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Power to make provision about access to excluded material etc[^key-f892df54296e9054ec84e67d487986f1]
+## 8. Power to make provision about access to excluded material etc[^c-f892df54296e9054ec84e67d487986f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f892df54296e9054ec84e67d487986f1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2011/18/section/8) in force at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)
+[^c-f892df54296e9054ec84e67d487986f1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2011/18/section/8) in force at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)

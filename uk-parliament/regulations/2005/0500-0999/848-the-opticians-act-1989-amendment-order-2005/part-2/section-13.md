@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Publication of register[^key-4e4f9913d052d1692247c4f774f1b080]
+## 13. Publication of register[^c-4e4f9913d052d1692247c4f774f1b080]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ For section 11 (publication of registers and lists) substitute—
 
 ## Annotations
 
-[^key-4e4f9913d052d1692247c4f774f1b080]: Commencement: Art. 13 comes into force in accordance with art. 1(3)-(6)
+[^c-4e4f9913d052d1692247c4f774f1b080]: Commencement: Art. 13 comes into force in accordance with art. 1(3)-(6)

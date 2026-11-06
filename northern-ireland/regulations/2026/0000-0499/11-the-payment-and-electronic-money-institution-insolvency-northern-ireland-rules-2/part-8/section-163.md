@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 163. Recourse to meeting of creditors and customers[^key-558d9b1a350cd72a3483c40d33e6f43e]
+## 163. Recourse to meeting of creditors and customers[^c-558d9b1a350cd72a3483c40d33e6f43e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ If the basis of the administrator’s remuneration for either case in rule 162(1
 
 ## Annotations
 
-[^key-558d9b1a350cd72a3483c40d33e6f43e]: Commencement: [Rule 163](https://www.legislation.gov.uk/nisr/2026/11/rule/163) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-558d9b1a350cd72a3483c40d33e6f43e]: Commencement: [Rule 163](https://www.legislation.gov.uk/nisr/2026/11/rule/163) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

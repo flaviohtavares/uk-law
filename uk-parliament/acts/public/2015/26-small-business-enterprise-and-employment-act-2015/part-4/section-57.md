@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Requirements to publish information[^key-7f02a1a2f69b347967f739956e530a30]
+## 57. Requirements to publish information[^c-7f02a1a2f69b347967f739956e530a30]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f02a1a2f69b347967f739956e530a30]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2015/26/section/57) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-7f02a1a2f69b347967f739956e530a30]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2015/26/section/57) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

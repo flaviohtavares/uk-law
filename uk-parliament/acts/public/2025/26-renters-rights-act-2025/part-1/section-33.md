@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Discrimination relating to children[^key-d623892bdf19795851d713ddc599a550][^key-a07775681584a24ab45942402fbf3b6e]
+## 33. Discrimination relating to children[^c-d623892bdf19795851d713ddc599a550][^c-a07775681584a24ab45942402fbf3b6e]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d623892bdf19795851d713ddc599a550]: Commencement: S. 33 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-d623892bdf19795851d713ddc599a550]: Commencement: S. 33 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
 
-[^key-a07775681584a24ab45942402fbf3b6e]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2025/26/section/33) in force at 1.5.2026 in so far as not already in force by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/b)
+[^c-a07775681584a24ab45942402fbf3b6e]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2025/26/section/33) in force at 1.5.2026 in so far as not already in force by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32LJ. The approved development condition[^key-e447f8383a67e9cfb4f726bee82f1fb9]
+## 32LJ. The approved development condition[^c-e447f8383a67e9cfb4f726bee82f1fb9]
 
 *Extent: E+W+S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e447f8383a67e9cfb4f726bee82f1fb9]: Textual amendment: [Ss. 32LD-32LL](https://www.legislation.gov.uk/ukpga/1989/29/section/32LD) inserted (12.5.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2016/20/section/80/2), [84(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/1)
+[^c-e447f8383a67e9cfb4f726bee82f1fb9]: Textual amendment: [Ss. 32LD-32LL](https://www.legislation.gov.uk/ukpga/1989/29/section/32LD) inserted (12.5.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2016/20/section/80/2), [84(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/1)

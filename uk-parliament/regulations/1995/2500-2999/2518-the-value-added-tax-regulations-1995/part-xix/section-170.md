@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Attribution of payments[^key-27d52db0c8f295e68e74ad690d04ef78]
+## 170. Attribution of payments[^c-27d52db0c8f295e68e74ad690d04ef78]
 
 *Extent: E+W+S+N.I.*
 
 —
 
-(1) Subject to regulation 170A below, where[^key-a857b0d011469a3c3be256749071f409]—
+(1) Subject to regulation 170A below, where[^c-a857b0d011469a3c3be256749071f409]—
 
 - (a) the claimant made more than one supply (whether taxable or otherwise) to the purchaser, and
 - (b) a payment is received in relation to those supplies,
@@ -40,6 +40,6 @@ the payment shall be attributed to those supplies by multiplying, for each such 
 
 ## Annotations
 
-[^key-27d52db0c8f295e68e74ad690d04ef78]: Commencement: Reg. 170 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-27d52db0c8f295e68e74ad690d04ef78]: Commencement: Reg. 170 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
 
-[^key-a857b0d011469a3c3be256749071f409]: Textual amendment: Words in [reg. 170(1)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/170/1) substituted (1.1.2003) by [The Value Added Tax (Amendment) (No. 4) Regulations 2002 (S.I. 2002/3027)](https://www.legislation.gov.uk/uksi/2002/3027), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3027/regulation/1), [4](https://www.legislation.gov.uk/uksi/2002/3027/regulation/4)
+[^c-a857b0d011469a3c3be256749071f409]: Textual amendment: Words in [reg. 170(1)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/170/1) substituted (1.1.2003) by [The Value Added Tax (Amendment) (No. 4) Regulations 2002 (S.I. 2002/3027)](https://www.legislation.gov.uk/uksi/2002/3027), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3027/regulation/1), [4](https://www.legislation.gov.uk/uksi/2002/3027/regulation/4)

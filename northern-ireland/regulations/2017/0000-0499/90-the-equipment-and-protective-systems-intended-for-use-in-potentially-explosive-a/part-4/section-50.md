@@ -25,7 +25,7 @@ summary: ''
 (2) The notified body shall—
 
 - (a) ensure that the subcontractor or subsidiary meets the notified body requirements; and
-- (b) inform the Secretary of State[^key-e2f0a41f5b5a3f9e23664c4a91f0bb35] accordingly.
+- (b) inform the Secretary of State[^c-e2f0a41f5b5a3f9e23664c4a91f0bb35] accordingly.
 
 (3) The notified body shall have obtained the agreement of the client to the use of a subcontractor or subsidiary.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2f0a41f5b5a3f9e23664c4a91f0bb35]: Textual amendment: Words in [reg. 50](https://www.legislation.gov.uk/nisr/2017/90/regulation/50) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [6(3)](https://www.legislation.gov.uk/uksi/2023/861/regulation/6/3)
+[^c-e2f0a41f5b5a3f9e23664c4a91f0bb35]: Textual amendment: Words in [reg. 50](https://www.legislation.gov.uk/nisr/2017/90/regulation/50) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [6(3)](https://www.legislation.gov.uk/uksi/2023/861/regulation/6/3)

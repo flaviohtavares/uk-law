@@ -22,7 +22,7 @@ summary: ''
 
 1. A registrant may start or continue the manufacture or import of a substance or production or import of an article, if there is no indication to the contrary from the Agency in accordance with Article 20(2) within the three weeks after the submission date, without prejudice to Article 27(8).
 
-[^key-3265b686f7b6248b71c90aca15d23da7]...
+[^c-3265b686f7b6248b71c90aca15d23da7]...
 
 In the case of an update of a registration according to Article 22 a registrant may continue the manufacture or import of the substance, or the production or import of the article, if there is no indication to the contrary from the Agency in accordance with Article 20(2) within the three weeks after the update date, without prejudice to Article 27(8).
 
@@ -34,4 +34,4 @@ In the case of an update of a registration according to Article 22 a registrant 
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (Official Journal of the European Union L 396 of 30 December 2006)](https://www.legislation.gov.uk/eur/2006/1907/pdfs/eurcs_20061907_en_001.pdf).
 
-[^key-3265b686f7b6248b71c90aca15d23da7]: Textual amendment: Words in [Art. 21(1)](https://www.legislation.gov.uk/eur/2006/1907/article/21/1) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3265b686f7b6248b71c90aca15d23da7]: Textual amendment: Words in [Art. 21(1)](https://www.legislation.gov.uk/eur/2006/1907/article/21/1) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

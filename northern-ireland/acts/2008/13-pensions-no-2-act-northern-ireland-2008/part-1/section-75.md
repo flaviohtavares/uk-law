@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Police[^c19558351][^key-36d01ee2709cd2e127823159a565831c]
+## 75. Police[^c19558351][^c-36d01ee2709cd2e127823159a565831c]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ as if the person were employed by the Chief Constable under a worker's contract.
 
 [^c19558351]: Commencement: S. 75 partly in force; s. 75 in force for certain purposes at Royal Assent see s. 118(2)
 
-[^key-36d01ee2709cd2e127823159a565831c]: Commencement: S. 75 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-36d01ee2709cd2e127823159a565831c]: Commencement: S. 75 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)

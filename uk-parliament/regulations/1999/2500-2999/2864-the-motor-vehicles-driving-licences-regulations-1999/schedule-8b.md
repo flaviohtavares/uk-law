@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8B — SPECIFIED REQUIREMENTS FOR LARGE VEHICLE OFF ROAD MANOEUVRES TEST[^key-cb4f1b4355f3b9f3d2b98e191a0fc3f8]
+## SCHEDULE 8B — SPECIFIED REQUIREMENTS FOR LARGE VEHICLE OFF ROAD MANOEUVRES TEST[^c-cb4f1b4355f3b9f3d2b98e191a0fc3f8]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ prescribed in paragraph (2) (3), (4) or (5), as the case may be, in all respects
 
 ## Annotations
 
-[^key-cb4f1b4355f3b9f3d2b98e191a0fc3f8]: Textual amendment: Sch. 8B inserted (15.11.2021 at 1.00 a.m.) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1154/schedule/1)
+[^c-cb4f1b4355f3b9f3d2b98e191a0fc3f8]: Textual amendment: Sch. 8B inserted (15.11.2021 at 1.00 a.m.) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1154/schedule/1)

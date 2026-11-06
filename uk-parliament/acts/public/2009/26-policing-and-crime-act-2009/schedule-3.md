@@ -24,11 +24,11 @@ Section 27
 
 ### Effect of section 27: cases where no existing resolutions passed
 
-**1.**[^key-7982b1a79dd6d0a22d0ce46fd976766a][^key-71b19b1ff78f727fb1e88a0c437aeb58] A resolution made on or after the coming into force of section 27 by a local authority under section 2 of the 1982 Act that Schedule 3 to that Act is to apply to the area of the local authority applies to that Schedule as amended by section 27.
+**1.**[^c-7982b1a79dd6d0a22d0ce46fd976766a][^c-71b19b1ff78f727fb1e88a0c437aeb58] A resolution made on or after the coming into force of section 27 by a local authority under section 2 of the 1982 Act that Schedule 3 to that Act is to apply to the area of the local authority applies to that Schedule as amended by section 27.
 
 ### Effect of section 27: cases where existing resolutions in force
 
-**2.**[^key-cb27ce22ff0a6ffd6b22f8f663e919fb][^key-737de3d764d38aae253874eb73e74b11] (1) Sub-paragraph (2) applies if a local authority has, before the coming into force of section 27, resolved under section 2 of the 1982 Act that Schedule 3 to that Act is to apply to the area of the local authority.
+**2.**[^c-cb27ce22ff0a6ffd6b22f8f663e919fb][^c-737de3d764d38aae253874eb73e74b11] (1) Sub-paragraph (2) applies if a local authority has, before the coming into force of section 27, resolved under section 2 of the 1982 Act that Schedule 3 to that Act is to apply to the area of the local authority.
 
 (2) The amendments made by section 27 do not apply to the area of the local authority concerned and the resolution concerned does not apply to the Schedule as amended by section 27 but the local authority may resolve that the Schedule as amended by section 27 is to apply to their area.
 
@@ -38,7 +38,7 @@ Section 27
 
 ### Power to make transitional provision on adoption of Schedule 3 to the 1982 Act as amended
 
-**3.**[^key-5b69524c6b52bd2f821064d3e9c28024][^key-3580112ff0cf40f026b054a0d81ab099][^key-f88288401ee88b69b8a4bc71f3b1e1a6] (1) The relevant national authority may by order make such transitional, transitory or saving provision as the relevant national authority considers appropriate in connection with the coming into force, in consequence of a resolution of a local authority under section 2 of the 1982 Act or paragraph 2(2) above, of Schedule 3 to that Act as amended by section 27.
+**3.**[^c-5b69524c6b52bd2f821064d3e9c28024][^c-3580112ff0cf40f026b054a0d81ab099][^c-f88288401ee88b69b8a4bc71f3b1e1a6] (1) The relevant national authority may by order make such transitional, transitory or saving provision as the relevant national authority considers appropriate in connection with the coming into force, in consequence of a resolution of a local authority under section 2 of the 1982 Act or paragraph 2(2) above, of Schedule 3 to that Act as amended by section 27.
 
 (2) An order under this paragraph may, in particular, make different provision from that made by paragraphs 28 and 29 of Schedule 3 to that Act (and may accordingly provide for those paragraphs not to apply).
 
@@ -50,7 +50,7 @@ Section 27
 
 ### Duty to consult about adopting Schedule 3 to the 1982 Act as amended
 
-**4.**[^key-c133d453b8b85fbf5ccfb324b4a272ba][^key-48db2d1edc0d85ba12e9bd46f67dd31f] (1) Sub-paragraph (2) applies if a local authority has not made a resolution under section 2 of the 1982 Act or (as the case may be) paragraph 2(2) above within the period of one year beginning with the coming into force of section 27.
+**4.**[^c-c133d453b8b85fbf5ccfb324b4a272ba][^c-48db2d1edc0d85ba12e9bd46f67dd31f] (1) Sub-paragraph (2) applies if a local authority has not made a resolution under section 2 of the 1982 Act or (as the case may be) paragraph 2(2) above within the period of one year beginning with the coming into force of section 27.
 
 (2) The local authority must, as soon as reasonably practicable, consult local people about whether the local authority should make such a resolution.
 
@@ -58,7 +58,7 @@ Section 27
 
 ### Interpretation
 
-**5.**[^key-63cf181b1dba2c118f225381e1cd13b6][^key-3b8f05a97377926ae661918b28b02123][^key-bbf95ba49ac2aa9a87a488f39891040a][^key-c5ccfcd9f85aeca6d03d4c793e91abda] In this Schedule—
+**5.**[^c-63cf181b1dba2c118f225381e1cd13b6][^c-3b8f05a97377926ae661918b28b02123][^c-bbf95ba49ac2aa9a87a488f39891040a][^c-c5ccfcd9f85aeca6d03d4c793e91abda] In this Schedule—
 
 - “**the 1982 Act**” means the Local Government (Miscellaneous Provisions) Act 1982 (c. 30),
 - “**relevant national authority**” means—
@@ -70,28 +70,28 @@ and references in this Schedule to the coming into force of section 27 are refer
 
 ## Annotations
 
-[^key-7982b1a79dd6d0a22d0ce46fd976766a]: Commencement: Sch. 3 para. 1 in force at 6.4.2010 for E. by [S.I. 2010/722](https://www.legislation.gov.uk/uksi/2010/722), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/722/article/3/b) (with [arts. 4-12](https://www.legislation.gov.uk/uksi/2010/722/article/4))
+[^c-7982b1a79dd6d0a22d0ce46fd976766a]: Commencement: Sch. 3 para. 1 in force at 6.4.2010 for E. by [S.I. 2010/722](https://www.legislation.gov.uk/uksi/2010/722), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/722/article/3/b) (with [arts. 4-12](https://www.legislation.gov.uk/uksi/2010/722/article/4))
 
-[^key-71b19b1ff78f727fb1e88a0c437aeb58]: Commencement: Sch. 3 para. 1 in force at 8.5.2010 for W. by [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/3/b)
+[^c-71b19b1ff78f727fb1e88a0c437aeb58]: Commencement: Sch. 3 para. 1 in force at 8.5.2010 for W. by [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/3/b)
 
-[^key-cb27ce22ff0a6ffd6b22f8f663e919fb]: Commencement: Sch. 3 para. 2 in force at 6.4.2010 for E. by [S.I. 2010/722](https://www.legislation.gov.uk/uksi/2010/722), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/722/article/3/b) (with [arts. 4-12](https://www.legislation.gov.uk/uksi/2010/722/article/4))
+[^c-cb27ce22ff0a6ffd6b22f8f663e919fb]: Commencement: Sch. 3 para. 2 in force at 6.4.2010 for E. by [S.I. 2010/722](https://www.legislation.gov.uk/uksi/2010/722), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/722/article/3/b) (with [arts. 4-12](https://www.legislation.gov.uk/uksi/2010/722/article/4))
 
-[^key-737de3d764d38aae253874eb73e74b11]: Commencement: Sch. 3 para. 2 in force at 8.5.2010 for W. by [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/3/b)
+[^c-737de3d764d38aae253874eb73e74b11]: Commencement: Sch. 3 para. 2 in force at 8.5.2010 for W. by [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/3/b)
 
-[^key-5b69524c6b52bd2f821064d3e9c28024]: Commencement: Sch. 3 para. 3 in force at 2.3.2010 for specified purposes for E. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2010/507/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2010/507/article/2/2)
+[^c-5b69524c6b52bd2f821064d3e9c28024]: Commencement: Sch. 3 para. 3 in force at 2.3.2010 for specified purposes for E. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2010/507/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2010/507/article/2/2)
 
-[^key-3580112ff0cf40f026b054a0d81ab099]: Commencement: Sch. 3 para. 3 in force at 1.5.2010 for specified purposes for W. by [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/2/b)
+[^c-3580112ff0cf40f026b054a0d81ab099]: Commencement: Sch. 3 para. 3 in force at 1.5.2010 for specified purposes for W. by [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/2/b)
 
-[^key-f88288401ee88b69b8a4bc71f3b1e1a6]: Commencement: Sch. 3 para. 3 in force at 8.5.2010 in force for W. in so far as not already in force by [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/3/b)
+[^c-f88288401ee88b69b8a4bc71f3b1e1a6]: Commencement: Sch. 3 para. 3 in force at 8.5.2010 in force for W. in so far as not already in force by [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/3/b)
 
-[^key-c133d453b8b85fbf5ccfb324b4a272ba]: Commencement: Sch. 3 para. 4 in force at 6.4.2010 for E. by [S.I. 2010/722](https://www.legislation.gov.uk/uksi/2010/722), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/722/article/3/b) (with [arts. 4-12](https://www.legislation.gov.uk/uksi/2010/722/article/4))
+[^c-c133d453b8b85fbf5ccfb324b4a272ba]: Commencement: Sch. 3 para. 4 in force at 6.4.2010 for E. by [S.I. 2010/722](https://www.legislation.gov.uk/uksi/2010/722), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/722/article/3/b) (with [arts. 4-12](https://www.legislation.gov.uk/uksi/2010/722/article/4))
 
-[^key-48db2d1edc0d85ba12e9bd46f67dd31f]: Commencement: Sch. 3 para. 4 in force at 8.5.2010 for W. by [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/3/b)
+[^c-48db2d1edc0d85ba12e9bd46f67dd31f]: Commencement: Sch. 3 para. 4 in force at 8.5.2010 for W. by [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/3/b)
 
-[^key-63cf181b1dba2c118f225381e1cd13b6]: Commencement: Sch. 3 para. 5 in force at 2.3.2010 for specified purposes for E. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2010/507/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2010/507/article/2/2)
+[^c-63cf181b1dba2c118f225381e1cd13b6]: Commencement: Sch. 3 para. 5 in force at 2.3.2010 for specified purposes for E. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2010/507/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2010/507/article/2/2)
 
-[^key-3b8f05a97377926ae661918b28b02123]: Commencement: Sch. 3 para. 5 in force at 6.4.2010 in force for E. in so far as not already in force by [S.I. 2010/722](https://www.legislation.gov.uk/uksi/2010/722), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/722/article/3/b) (with [arts. 4-12](https://www.legislation.gov.uk/uksi/2010/722/article/4))
+[^c-3b8f05a97377926ae661918b28b02123]: Commencement: Sch. 3 para. 5 in force at 6.4.2010 in force for E. in so far as not already in force by [S.I. 2010/722](https://www.legislation.gov.uk/uksi/2010/722), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/722/article/3/b) (with [arts. 4-12](https://www.legislation.gov.uk/uksi/2010/722/article/4))
 
-[^key-bbf95ba49ac2aa9a87a488f39891040a]: Commencement: Sch. 3 para. 5 in force at 1.5.2010 for specified purposes for W. by [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/2/b)
+[^c-bbf95ba49ac2aa9a87a488f39891040a]: Commencement: Sch. 3 para. 5 in force at 1.5.2010 for specified purposes for W. by [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/2/b)
 
-[^key-c5ccfcd9f85aeca6d03d4c793e91abda]: Commencement: Sch. 3 para. 5 in force at 8.5.2010 in force for W. in so far as not already in force by [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/3/b)
+[^c-c5ccfcd9f85aeca6d03d4c793e91abda]: Commencement: Sch. 3 para. 5 in force at 8.5.2010 in force for W. in so far as not already in force by [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/3/b)

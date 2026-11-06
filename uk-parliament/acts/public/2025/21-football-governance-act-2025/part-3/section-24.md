@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Commitments in lieu of financial discretionary licence conditions[^key-34dae2a7db0b2eae71e0a4377fe239d7][^key-1ffe213006217624b33ab0c42a74863f]
+## 24. Commitments in lieu of financial discretionary licence conditions[^c-34dae2a7db0b2eae71e0a4377fe239d7][^c-1ffe213006217624b33ab0c42a74863f]
 
 *Extent: E+W*
 
@@ -77,6 +77,6 @@ and must have regard to any representations which are duly made.
 
 ## Annotations
 
-[^key-34dae2a7db0b2eae71e0a4377fe239d7]: Commencement: S. 24 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-34dae2a7db0b2eae71e0a4377fe239d7]: Commencement: S. 24 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-1ffe213006217624b33ab0c42a74863f]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2025/21/section/24) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(x)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/x)
+[^c-1ffe213006217624b33ab0c42a74863f]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2025/21/section/24) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(x)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/x)

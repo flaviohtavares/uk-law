@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Application and transitional provision[^key-8b860a546b0929c22b4897ed04a0e82b]
+## 125. Application and transitional provision[^c-8b860a546b0929c22b4897ed04a0e82b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b860a546b0929c22b4897ed04a0e82b]: Commencement: [Rule 125](https://www.legislation.gov.uk/uksi/2007/3141/rule/125) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-8b860a546b0929c22b4897ed04a0e82b]: Commencement: [Rule 125](https://www.legislation.gov.uk/uksi/2007/3141/rule/125) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

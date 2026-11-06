@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Notice of registration[^key-2a896873ad0f11f245ce2be6b306023a][^key-a9da84c3bc44c05515b6f800d5d5b09a][^key-9dae73e0bd45f89575a13e2090bbd104]
+## 6. Notice of registration[^c-2a896873ad0f11f245ce2be6b306023a][^c-a9da84c3bc44c05515b6f800d5d5b09a][^c-9dae73e0bd45f89575a13e2090bbd104]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2a896873ad0f11f245ce2be6b306023a]: Commencement: S. 6 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-2a896873ad0f11f245ce2be6b306023a]: Commencement: S. 6 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-a9da84c3bc44c05515b6f800d5d5b09a]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/10/section/6) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/b)
+[^c-a9da84c3bc44c05515b6f800d5d5b09a]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/10/section/6) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/b)
 
-[^key-9dae73e0bd45f89575a13e2090bbd104]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/10/section/6) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-9dae73e0bd45f89575a13e2090bbd104]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/10/section/6) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)

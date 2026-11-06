@@ -46,16 +46,16 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 2C(3) and (8) of, paragraphs 7A(5) and (7), 7B(5), (7), (8) and (10), 7C(1), 8A(3) and (6), 8B(5), (7) and (9) and 8C(1) of Chapter 2 of Part 1 of Schedule 1 to, and paragraph A1(2), (4) and (7) of Part 3 of Schedule 1 to, the Mobile Homes Act 1983 [^f00001], makes the following Regulations:
 
-## 1. Application, citation and commencement[^key-0c18aeaf030aaa81a5b59e3605cac91d]
+## 1. Application, citation and commencement[^c-0c18aeaf030aaa81a5b59e3605cac91d]
 
 These Regulations, which apply in relation to England only, may be cited as the Mobile Homes (Selling and Gifting) (England) Regulations 2013 and come into force on 26th May 2013.
 
-## 2. Interpretation[^key-81aeb5287372d92b5f0f29e492c111c0]
+## 2. Interpretation[^c-81aeb5287372d92b5f0f29e492c111c0]
 
 In these Regulations—
 
 - “agreement” means an agreement to which the 1983 Act applies;
-- “gypsies and travellers” has the meaning given in paragraph 1(4) of Chapter 1 of Part 1 of Schedule 1 to the[^key-19d05a8d411e55594ca2b51dbed165af] 1983 Act;
+- “gypsies and travellers” has the meaning given in paragraph 1(4) of Chapter 1 of Part 1 of Schedule 1 to the[^c-19d05a8d411e55594ca2b51dbed165af] 1983 Act;
 - “pitch” has the meaning given to it in paragraph 1(4) of Chapter 1 of Part 1 of Schedule 1 to the 1983 Act;
 - “pitch fee” has the meaning given in paragraph 29 of Chapter 2 of Part 1 of Schedule 1 to the 1983 Act;
 - “pre-commencement rules”, in relation to a site, means rules made by the owner before commencement of section 9 of the Mobile Homes Act 2013 which relate to a matter mentioned in section 2C(2) of the 1983 Act;
@@ -64,7 +64,7 @@ In these Regulations—
 - “the 1983 Act” means the Mobile Homes Act 1983; and
 - “written statement” means the written statement required under section 1(2) of the 1983 Act.
 
-## 3. Sale of mobile home: provision of information and documents to proposed occupier[^key-1d76ea1e1d5963b95fee241ee6e0ac3b]
+## 3. Sale of mobile home: provision of information and documents to proposed occupier[^c-1d76ea1e1d5963b95fee241ee6e0ac3b]
 
 (1) The documents prescribed for the purposes of paragraph A1(2)(a) of Part 3 of Schedule 1 to the 1983 Act are —
 
@@ -96,7 +96,7 @@ In these Regulations—
 
 (4) The information must be provided in the form prescribed in Schedule 1, or in a form substantially to the like effect.
 
-## 4. Existing agreements: Notice of proposed sale[^key-04725190addedd962ebf1c018f10f097]
+## 4. Existing agreements: Notice of proposed sale[^c-04725190addedd962ebf1c018f10f097]
 
 (1) The information prescribed for the purposes of paragraph 7B(5) of Chapter 2 of Part 1 of Schedule 1 to the 1983 Act is the information specified in paragraphs (2) to (6).
 
@@ -119,7 +119,7 @@ In these Regulations—
 
 (7) The information must be provided in the form prescribed in Schedule 2, or in a form substantially to the like effect.
 
-## 5. Existing agreements: Notice of proposed gift[^key-90c4a68dd164ec4e342d4e59bc03e01a]
+## 5. Existing agreements: Notice of proposed gift[^c-90c4a68dd164ec4e342d4e59bc03e01a]
 
 (1) The information prescribed for the purposes of paragraph 8B(5) of Chapter 2 of Part 1 of Schedule 1 to the 1983 Act is the information specified in paragraphs (2) to (6) of this regulation.
 
@@ -145,7 +145,7 @@ In these Regulations—
 - (a) provided in the form prescribed in Schedule 3 or in a form substantially to the like effect; and
 - (b) accompanied by the relevant evidence (as defined by paragraph 8A(3) of Chapter 2 of Part 1 of Schedule 1 to the 1983 Act).
 
-## 6. Gift of mobile home: evidence the proposed occupier is a member of the occupier’s family[^key-bf5d10005fe675cb5dab4fea84fea94f]
+## 6. Gift of mobile home: evidence the proposed occupier is a member of the occupier’s family[^c-bf5d10005fe675cb5dab4fea84fea94f]
 
 The evidence prescribed for the purposes of paragraph 8A(3)(a) of Chapter 2 of Part 1 of Schedule 1 to the 1983 Act, is the evidence provided by one or more of the following—
 
@@ -153,7 +153,7 @@ The evidence prescribed for the purposes of paragraph 8A(3)(a) of Chapter 2 of P
 - (b) a birth certificate or certificate of adoption;
 - (c) a certificate of marriage or civil partnership.
 
-## 7. Existing agreements: grounds on which site owner may apply for a refusal order[^key-9e1d9b70120dbb92b0db87e869d9f01c]
+## 7. Existing agreements: grounds on which site owner may apply for a refusal order[^c-9e1d9b70120dbb92b0db87e869d9f01c]
 
 (1) The grounds prescribed for the purposes of paragraph 7B(7) of Chapter 2 of Part 1 of Schedule 1 to the 1983 Act (sale of mobile home: existing agreements) are that, if the proposed occupier were to become the occupier, the proposed occupier or a person intending to reside with the proposed occupier would breach a pre-commencement rule or site rule—
 
@@ -167,15 +167,15 @@ The evidence prescribed for the purposes of paragraph 8A(3)(a) of Chapter 2 of P
 - (a) the grounds mentioned in paragraph (1); or
 - (b) that the proposed occupier has failed to provide the owner with the relevant evidence (as defined by paragraph 8A(3) of Chapter 2 of Part 1 of Schedule 1 to the 1983 Act).
 
-(3)[^key-809947c6b228fc66d91478a13949114e] In addition to the grounds prescribed in paragraphs (1) and (2), the grounds prescribed for the purposes of paragraphs 7B(7) and 8B(7) of Chapter 2 of Part 1 of Schedule 1 to the 1983 Act (sale or gift of mobile home: existing agreements) are that a relevant owner has a policy in place for the allocation of pitches on the site to gypsies and travellers, which a sale or gift to the proposed occupier would contravene.
+(3)[^c-809947c6b228fc66d91478a13949114e] In addition to the grounds prescribed in paragraphs (1) and (2), the grounds prescribed for the purposes of paragraphs 7B(7) and 8B(7) of Chapter 2 of Part 1 of Schedule 1 to the 1983 Act (sale or gift of mobile home: existing agreements) are that a relevant owner has a policy in place for the allocation of pitches on the site to gypsies and travellers, which a sale or gift to the proposed occupier would contravene.
 
 (4) In paragraph (3) “relevant owner” means a private registered provider of social housing as defined by section 80 of the Housing and Regeneration Act 2008.
 
-## 8. Maximum rate of commission payable on the sale of a mobile home[^key-dbbc5a5bd87dcb2a343fa6f5740aea2e]
+## 8. Maximum rate of commission payable on the sale of a mobile home[^c-dbbc5a5bd87dcb2a343fa6f5740aea2e]
 
 The rate prescribed for the purposes of paragraphs 7A(5) and 7B(8) of Chapter 2 of Part 1 of Schedule 1 to the 1983 Act is ten per cent of the purchase price of the mobile home.
 
-## 9. Form of assignment and notice of assignment[^key-7be293869bbc7e6c23e406d02b8c5c63]
+## 9. Form of assignment and notice of assignment[^c-7be293869bbc7e6c23e406d02b8c5c63]
 
 (1) An assignment of an agreement pursuant to paragraph 7A(2), 7B(1), 8A(2) or 8B(1) of Chapter 2 of Part 1 of Schedule 1 to the 1983 Act (as the case may be) must be made—
 
@@ -215,17 +215,17 @@ The rate prescribed for the purposes of paragraphs 7A(5) and 7B(8) of Chapter 2 
 
 (9) The notice of assignment and other documents required to be provided to the owner under this regulation may be either delivered to the owner personally or sent by post.
 
-## 10. Payment of commission[^key-2a0872acd871899025d443a3556212da]
+## 10. Payment of commission[^c-2a0872acd871899025d443a3556212da]
 
 (1) As soon as practicable after receipt of the notice of assignment, the owner must provide details of the bank account into which the owner wishes the assignee to pay the commission which the assignee is required to pay to the owner under paragraph 7A(5) or 7B(8) of Chapter 2 of Part 1 of Schedule 1 to the 1983 Act (as the case may be).
 
 (2) Within seven days of receipt of those details, the assignee must pay the commission into the bank account.
 
-## 11. Period prescribed for the purposes of section 2C(3) of the 1983 Act[^key-e8329d6992dedf20a74a79a1c39cfeab]
+## 11. Period prescribed for the purposes of section 2C(3) of the 1983 Act[^c-e8329d6992dedf20a74a79a1c39cfeab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Pre-commencement rules relating to sales, gifts and assignments: prescribed matters[^key-909f8efbbe2f4b38e1dc2aa2009f181c]
+## 12. Pre-commencement rules relating to sales, gifts and assignments: prescribed matters[^c-909f8efbbe2f4b38e1dc2aa2009f181c]
 
 (1) A pre-commencement rule which relates to the sale of a mobile home is of no effect in so far as it makes provision in relation to any of the matters mentioned in paragraph (2) of this regulation.
 
@@ -265,31 +265,31 @@ Department for Communities and Local Government
 
 24th April 2013
 
-## SCHEDULE 1 — Notice to proposed occupier[^key-4245aa98e30a3c305811d3dc48edc34f]
+## SCHEDULE 1 — Notice to proposed occupier[^c-4245aa98e30a3c305811d3dc48edc34f]
 
 Regulation 3
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/981/images/uksi_20130981_en_001) [image: see source](https://www.legislation.gov.uk/uksi/2013/981/images/uksi_20130981_en_002) [image: see source](https://www.legislation.gov.uk/uksi/2013/981/images/uksi_20130981_en_003) [image: see source](https://www.legislation.gov.uk/uksi/2013/981/images/uksi_20130981_en_004)
 
-## SCHEDULE 2 — Notice of proposed sale[^key-0a090f8c2e2376c26c16422b7788f6dd]
+## SCHEDULE 2 — Notice of proposed sale[^c-0a090f8c2e2376c26c16422b7788f6dd]
 
 Regulation 4
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/981/images/uksi_20130981_en_005) [image: see source](https://www.legislation.gov.uk/uksi/2013/981/images/uksi_20130981_en_006)
 
-## SCHEDULE 3 — Notice of proposed gift[^key-5f37dffcd24b6bf0e4faaf3f3f9aa516]
+## SCHEDULE 3 — Notice of proposed gift[^c-5f37dffcd24b6bf0e4faaf3f3f9aa516]
 
 Regulation 5
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/981/images/uksi_20130981_en_007) [image: see source](https://www.legislation.gov.uk/uksi/2013/981/images/uksi_20130981_en_008) [image: see source](https://www.legislation.gov.uk/uksi/2013/981/images/uksi_20130981_en_009)
 
-## SCHEDULE 4 — Assignment form[^key-5d2b89eee12e9ba47d31f724e3a6f44f]
+## SCHEDULE 4 — Assignment form[^c-5d2b89eee12e9ba47d31f724e3a6f44f]
 
 Regulation 9(1)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/981/images/uksi_20130981_en_010) [image: see source](https://www.legislation.gov.uk/uksi/2013/981/images/uksi_20130981_en_011)
 
-## SCHEDULE 5 — Notice of assignment[^key-8fa771d78393443956ac680c794ec1a3]
+## SCHEDULE 5 — Notice of assignment[^c-8fa771d78393443956ac680c794ec1a3]
 
 Regulation 9(7)
 
@@ -323,40 +323,40 @@ No separate impact assessment has been prepared for these Regulations, but the i
 
 [^f00001]: Footnote: [1983 c.34](https://www.legislation.gov.uk/ukpga/1983/34). These provisions were inserted into the 1983 Act by sections 9 and 10 of the Mobile Homes Act [2013 (c.14)](https://www.legislation.gov.uk/ukpga/2013/14).
 
-[^key-0c18aeaf030aaa81a5b59e3605cac91d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-0c18aeaf030aaa81a5b59e3605cac91d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
 
-[^key-81aeb5287372d92b5f0f29e492c111c0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/981/regulation/2) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-81aeb5287372d92b5f0f29e492c111c0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/981/regulation/2) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
 
-[^key-19d05a8d411e55594ca2b51dbed165af]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/981/regulation/2) inserted (4.2.2014) by [The Mobile Homes (Site Rules) (England) Regulations 2014 (S.I. 2014/5)](https://www.legislation.gov.uk/uksi/2014/5), [regs. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1), [19(1)](https://www.legislation.gov.uk/uksi/2014/5/regulation/19/1)
+[^c-19d05a8d411e55594ca2b51dbed165af]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/981/regulation/2) inserted (4.2.2014) by [The Mobile Homes (Site Rules) (England) Regulations 2014 (S.I. 2014/5)](https://www.legislation.gov.uk/uksi/2014/5), [regs. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1), [19(1)](https://www.legislation.gov.uk/uksi/2014/5/regulation/19/1)
 
-[^key-1d76ea1e1d5963b95fee241ee6e0ac3b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/981/regulation/3) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-1d76ea1e1d5963b95fee241ee6e0ac3b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/981/regulation/3) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
 
-[^key-04725190addedd962ebf1c018f10f097]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/981/regulation/4) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-04725190addedd962ebf1c018f10f097]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/981/regulation/4) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
 
-[^key-90c4a68dd164ec4e342d4e59bc03e01a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/981/regulation/5) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-90c4a68dd164ec4e342d4e59bc03e01a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/981/regulation/5) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
 
-[^key-bf5d10005fe675cb5dab4fea84fea94f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/981/regulation/6) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-bf5d10005fe675cb5dab4fea84fea94f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/981/regulation/6) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
 
-[^key-9e1d9b70120dbb92b0db87e869d9f01c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/981/regulation/7) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-9e1d9b70120dbb92b0db87e869d9f01c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/981/regulation/7) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
 
-[^key-809947c6b228fc66d91478a13949114e]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2013/981/regulation/7/3)[(4)](https://www.legislation.gov.uk/uksi/2013/981/regulation/7/4) substituted for [reg. 7(3)](https://www.legislation.gov.uk/uksi/2013/981/regulation/7/3) (1.4.2014) by [The Mobile Homes (Site Licensing) (England) Regulations 2014 (S.I. 2014/442)](https://www.legislation.gov.uk/uksi/2014/442), [regs. 1](https://www.legislation.gov.uk/uksi/2014/442/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/442/regulation/7)
+[^c-809947c6b228fc66d91478a13949114e]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2013/981/regulation/7/3)[(4)](https://www.legislation.gov.uk/uksi/2013/981/regulation/7/4) substituted for [reg. 7(3)](https://www.legislation.gov.uk/uksi/2013/981/regulation/7/3) (1.4.2014) by [The Mobile Homes (Site Licensing) (England) Regulations 2014 (S.I. 2014/442)](https://www.legislation.gov.uk/uksi/2014/442), [regs. 1](https://www.legislation.gov.uk/uksi/2014/442/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/442/regulation/7)
 
-[^key-dbbc5a5bd87dcb2a343fa6f5740aea2e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/981/regulation/8) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-dbbc5a5bd87dcb2a343fa6f5740aea2e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/981/regulation/8) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
 
-[^key-7be293869bbc7e6c23e406d02b8c5c63]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/981/regulation/9) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-7be293869bbc7e6c23e406d02b8c5c63]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/981/regulation/9) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
 
-[^key-2a0872acd871899025d443a3556212da]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/981/regulation/10) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-2a0872acd871899025d443a3556212da]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/981/regulation/10) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
 
-[^key-e8329d6992dedf20a74a79a1c39cfeab]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/981/regulation/11) revoked (4.2.2014) by [The Mobile Homes (Site Rules) (England) Regulations 2014 (S.I. 2014/5)](https://www.legislation.gov.uk/uksi/2014/5), [regs. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1), [19(3)](https://www.legislation.gov.uk/uksi/2014/5/regulation/19/3)
+[^c-e8329d6992dedf20a74a79a1c39cfeab]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/981/regulation/11) revoked (4.2.2014) by [The Mobile Homes (Site Rules) (England) Regulations 2014 (S.I. 2014/5)](https://www.legislation.gov.uk/uksi/2014/5), [regs. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1), [19(3)](https://www.legislation.gov.uk/uksi/2014/5/regulation/19/3)
 
-[^key-909f8efbbe2f4b38e1dc2aa2009f181c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/981/regulation/12) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-909f8efbbe2f4b38e1dc2aa2009f181c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/981/regulation/12) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
 
-[^key-4245aa98e30a3c305811d3dc48edc34f]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/981/schedule/1) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-4245aa98e30a3c305811d3dc48edc34f]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/981/schedule/1) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
 
-[^key-0a090f8c2e2376c26c16422b7788f6dd]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2013/981/schedule/2) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-0a090f8c2e2376c26c16422b7788f6dd]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2013/981/schedule/2) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
 
-[^key-5f37dffcd24b6bf0e4faaf3f3f9aa516]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2013/981/schedule/3) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-5f37dffcd24b6bf0e4faaf3f3f9aa516]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2013/981/schedule/3) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
 
-[^key-5d2b89eee12e9ba47d31f724e3a6f44f]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2013/981/schedule/4) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-5d2b89eee12e9ba47d31f724e3a6f44f]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2013/981/schedule/4) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
 
-[^key-8fa771d78393443956ac680c794ec1a3]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2013/981/schedule/5) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)
+[^c-8fa771d78393443956ac680c794ec1a3]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2013/981/schedule/5) in force at 26.5.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/981/regulation/1)

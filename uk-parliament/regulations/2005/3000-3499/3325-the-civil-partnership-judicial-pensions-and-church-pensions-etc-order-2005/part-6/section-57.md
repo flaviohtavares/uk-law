@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**57.**[^key-50ce0200af20efc10c80383b3ddc394d] (1) In section 20 (children’s pension: beneficiaries), subsection (5) is amended as follows.
+**57.**[^c-50ce0200af20efc10c80383b3ddc394d] (1) In section 20 (children’s pension: beneficiaries), subsection (5) is amended as follows.
 
 (2) After “married” insert “or a person who at the time of the death of the deceased was a civil partner”.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50ce0200af20efc10c80383b3ddc394d]: Commencement: Art. 57 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-50ce0200af20efc10c80383b3ddc394d]: Commencement: Art. 57 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

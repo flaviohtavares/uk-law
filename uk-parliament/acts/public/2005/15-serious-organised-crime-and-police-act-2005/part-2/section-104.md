@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Money laundering: disclosures to identify persons and property[^key-36d81c36e0c7bbdf12ed0e53d887d849]
+## 104. Money laundering: disclosures to identify persons and property[^c-36d81c36e0c7bbdf12ed0e53d887d849]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,4 +109,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36d81c36e0c7bbdf12ed0e53d887d849]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2005/15/section/104) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/c) (with [art. 3(4)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/4))
+[^c-36d81c36e0c7bbdf12ed0e53d887d849]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2005/15/section/104) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/c) (with [art. 3(4)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/4))

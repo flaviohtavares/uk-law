@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Declarations as to election expenses: constituency and individual regional candidates[^key-b744939eb41de85b58c1ea548d4126a7]
+## 48. Declarations as to election expenses: constituency and individual regional candidates[^c-b744939eb41de85b58c1ea548d4126a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ the declaration by the election agent as to the election expenses need not be ma
 
 ## Annotations
 
-[^key-b744939eb41de85b58c1ea548d4126a7]: Commencement: Art. 48 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-b744939eb41de85b58c1ea548d4126a7]: Commencement: Art. 48 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

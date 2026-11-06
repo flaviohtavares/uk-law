@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74.16. Registration of non-money judgments in the High Court[^key-3bdde8a4ae2efc3f1bdb3d288be72b56]
+## 74.16. Registration of non-money judgments in the High Court[^c-3bdde8a4ae2efc3f1bdb3d288be72b56]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bdde8a4ae2efc3f1bdb3d288be72b56]: Textual amendment: Pt. 74 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 8](https://www.legislation.gov.uk/uksi/2002/2058/schedule/8)
+[^c-3bdde8a4ae2efc3f1bdb3d288be72b56]: Textual amendment: Pt. 74 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 8](https://www.legislation.gov.uk/uksi/2002/2058/schedule/8)

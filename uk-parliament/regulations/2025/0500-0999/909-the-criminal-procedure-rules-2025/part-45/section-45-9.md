@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.9. Costs against a legal representative[^key-e686306299d08c3fc9bff7f5f8d37b43]
+## 45.9. Costs against a legal representative[^c-e686306299d08c3fc9bff7f5f8d37b43]
 
 *Extent: E+W*
 
@@ -106,7 +106,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e686306299d08c3fc9bff7f5f8d37b43]: Commencement: [Rule 45.9](https://www.legislation.gov.uk/uksi/2025/909/rule/45.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e686306299d08c3fc9bff7f5f8d37b43]: Commencement: [Rule 45.9](https://www.legislation.gov.uk/uksi/2025/909/rule/45.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01091]: Footnote: [1985 c. 23](https://www.legislation.gov.uk/ukpga/1985/23); section 19A was inserted by section 111 of the Courts and Legal Services Act [1990 (c. 41)](https://www.legislation.gov.uk/ukpga/1990/41).
 

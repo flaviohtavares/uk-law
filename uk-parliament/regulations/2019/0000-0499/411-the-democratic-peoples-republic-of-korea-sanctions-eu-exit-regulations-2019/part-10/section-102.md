@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Finance: powers to request information[^key-99d470019152935ecfe198d63505e4e2][^key-d0ec3fc2bf474b161abe6102014b6d6a]
+## 102. Finance: powers to request information[^c-99d470019152935ecfe198d63505e4e2][^c-d0ec3fc2bf474b161abe6102014b6d6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99d470019152935ecfe198d63505e4e2]: Commencement: Reg. 102 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-99d470019152935ecfe198d63505e4e2]: Commencement: Reg. 102 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-d0ec3fc2bf474b161abe6102014b6d6a]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/2019/411/regulation/102) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d0ec3fc2bf474b161abe6102014b6d6a]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/2019/411/regulation/102) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

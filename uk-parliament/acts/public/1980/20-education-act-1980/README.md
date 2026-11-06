@@ -31,7 +31,7 @@ Education Act 1980
 
 An Act to amend the law relating to education.
 
-\[3rd April 1980\][^c990304][^c990305][^c990306][^c990307][^c990308][^c990309][^c990310][^c990311][^key-72aeff06ad8838633d1cf4e87e82ac5d][^key-d64d20f47555c912ea753ce844bfa7e3][^key-045252a2fe5df7a5e1f88b2374100211]
+\[3rd April 1980\][^c990304][^c990305][^c990306][^c990307][^c990308][^c990309][^c990310][^c990311][^c-72aeff06ad8838633d1cf4e87e82ac5d][^c-d64d20f47555c912ea753ce844bfa7e3][^c-045252a2fe5df7a5e1f88b2374100211]
 
 ## Contents
 
@@ -146,8 +146,8 @@ SCHEDULES
 
 [^c990311]: Modification: Act applied (1.6.2001) by [S.I. 2001/1507](https://www.legislation.gov.uk/uksi/2001/1507), [reg. 2](https://www.legislation.gov.uk/uksi/2001/1507/regulation/2), [Sch. 2 art. 2](https://www.legislation.gov.uk/uksi/2001/1507/schedule/2/article/2)
 
-[^key-72aeff06ad8838633d1cf4e87e82ac5d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1980/20) applied (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [reg. 1](https://www.legislation.gov.uk/uksi/2005/397/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
+[^c-72aeff06ad8838633d1cf4e87e82ac5d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1980/20) applied (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [reg. 1](https://www.legislation.gov.uk/uksi/2005/397/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
 
-[^key-d64d20f47555c912ea753ce844bfa7e3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1980/20) modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2), [125(1)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/1/b)
+[^c-d64d20f47555c912ea753ce844bfa7e3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1980/20) modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2), [125(1)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/1/b)
 
-[^key-045252a2fe5df7a5e1f88b2374100211]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1980/20) Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
+[^c-045252a2fe5df7a5e1f88b2374100211]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1980/20) Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)

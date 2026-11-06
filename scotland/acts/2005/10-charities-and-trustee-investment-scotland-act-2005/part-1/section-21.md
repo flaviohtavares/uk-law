@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Public access to Register[^key-6485cb0925e3b02491474091c42c85c0]
+## 21. Public access to Register[^c-6485cb0925e3b02491474091c42c85c0]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6485cb0925e3b02491474091c42c85c0]: Commencement: S. 21 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
+[^c-6485cb0925e3b02491474091c42c85c0]: Commencement: S. 21 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 9A — Procurement by devolved Scottish authorities[^key-e93839fecb9e180504e6ee6fcc7722f5]
+## Schedule 9A — Procurement by devolved Scottish authorities[^c-e93839fecb9e180504e6ee6fcc7722f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -108,10 +108,10 @@ Section 115A
 </tbody>
 </table>
 
-[^key-154cdac2f528f4f6eb0fadd3730d0319]
+[^c-154cdac2f528f4f6eb0fadd3730d0319]
 
 ## Annotations
 
-[^key-e93839fecb9e180504e6ee6fcc7722f5]: Textual amendment: Sch. 9A inserted (24.2.2025) by [The Procurement Regulations 2024 (S.I. 2024/692)](https://www.legislation.gov.uk/uksi/2024/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/692/regulation/1/2), [47(4)](https://www.legislation.gov.uk/uksi/2024/692/regulation/47/4); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-e93839fecb9e180504e6ee6fcc7722f5]: Textual amendment: Sch. 9A inserted (24.2.2025) by [The Procurement Regulations 2024 (S.I. 2024/692)](https://www.legislation.gov.uk/uksi/2024/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/692/regulation/1/2), [47(4)](https://www.legislation.gov.uk/uksi/2024/692/regulation/47/4); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-154cdac2f528f4f6eb0fadd3730d0319]: Textual amendment: Words in [Sch. 9A](https://www.legislation.gov.uk/ukpga/2023/54/schedule/9A) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/7), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/b)
+[^c-154cdac2f528f4f6eb0fadd3730d0319]: Textual amendment: Words in [Sch. 9A](https://www.legislation.gov.uk/ukpga/2023/54/schedule/9A) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/7), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/b)

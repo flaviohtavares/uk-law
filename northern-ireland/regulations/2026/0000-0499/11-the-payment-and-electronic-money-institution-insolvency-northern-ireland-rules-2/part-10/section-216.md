@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 216. Costs of proceedings under Article 200 of the I (N.I.) O 1989[^key-70573ebd94a30b992b89f27064da1eff]
+## 216. Costs of proceedings under Article 200 of the I (N.I.) O 1989[^c-70573ebd94a30b992b89f27064da1eff]
 
 *Extent: N.I.*
 
@@ -35,6 +35,6 @@ the costs of the application for the order may be ordered by the court to be pai
 
 ## Annotations
 
-[^key-70573ebd94a30b992b89f27064da1eff]: Commencement: [Rule 216](https://www.legislation.gov.uk/nisr/2026/11/rule/216) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-70573ebd94a30b992b89f27064da1eff]: Commencement: [Rule 216](https://www.legislation.gov.uk/nisr/2026/11/rule/216) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
 
 [^f00018]: Footnote: Article 201 was amended by Banking Act [2009 (c.1)](https://www.legislation.gov.uk/ukpga/2009/1), [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245), [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388) and the Financial Services (Banking Reform) Act [2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33).

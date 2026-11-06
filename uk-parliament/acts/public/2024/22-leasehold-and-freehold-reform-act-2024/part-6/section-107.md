@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Decision under a redress scheme may be made enforceable as if it were a court order[^key-67e6321942d40e0b21adb10cd40e7ade]
+## 107. Decision under a redress scheme may be made enforceable as if it were a court order[^c-67e6321942d40e0b21adb10cd40e7ade]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67e6321942d40e0b21adb10cd40e7ade]: Commencement: S. 107 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-67e6321942d40e0b21adb10cd40e7ade]: Commencement: S. 107 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

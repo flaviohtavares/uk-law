@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 96. Meaning of overpayment[^key-3f1ac8c9443b37028679410f5013460b]
+## 96. Meaning of overpayment[^c-3f1ac8c9443b37028679410f5013460b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In this Part, “**overpayment**” means any amount which has been paid by way 
 
 ## Annotations
 
-[^key-3f1ac8c9443b37028679410f5013460b]: Commencement: [Reg. 96](https://www.legislation.gov.uk/nisr/2006/405/regulation/96) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-3f1ac8c9443b37028679410f5013460b]: Commencement: [Reg. 96](https://www.legislation.gov.uk/nisr/2006/405/regulation/96) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

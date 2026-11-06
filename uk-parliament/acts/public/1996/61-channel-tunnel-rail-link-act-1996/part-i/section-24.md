@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Monopoly situations.[^key-32d5dacee5a0894aff15d66431aad6af]
+## 24. Monopoly situations.[^c-32d5dacee5a0894aff15d66431aad6af]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32d5dacee5a0894aff15d66431aad6af]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/1996/61/section/24) repealed (20.6.2003) by [The Enterprise Act 2002 (Consequential and Supplemental Provisions) Order 2003 (S.I. 2003/1398)](https://www.legislation.gov.uk/uksi/2003/1398), [art. 1](https://www.legislation.gov.uk/uksi/2003/1398/article/1), [Sch. para. 24(3)](https://www.legislation.gov.uk/uksi/2003/1398/schedule/paragraph/24/3)
+[^c-32d5dacee5a0894aff15d66431aad6af]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/1996/61/section/24) repealed (20.6.2003) by [The Enterprise Act 2002 (Consequential and Supplemental Provisions) Order 2003 (S.I. 2003/1398)](https://www.legislation.gov.uk/uksi/2003/1398), [art. 1](https://www.legislation.gov.uk/uksi/2003/1398/article/1), [Sch. para. 24(3)](https://www.legislation.gov.uk/uksi/2003/1398/schedule/paragraph/24/3)

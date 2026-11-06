@@ -42,11 +42,11 @@ Section 50
 
 **3.** In section 8 of the Ecclesiastical Houses of Residence Act 1842 (application of trust property), omit “dean, and”.
 
-#### ...[^key-6d879cdf8fa26570f7642698e7d50e0b]
+#### ...[^c-6d879cdf8fa26570f7642698e7d50e0b]
 
 **Not yet in force.**
 
-[^key-6d879cdf8fa26570f7642698e7d50e0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d879cdf8fa26570f7642698e7d50e0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Ecclesiastical Commissioners (Powers) Measure 1936
 
@@ -277,6 +277,6 @@ Section 50
 
 ## Annotations
 
-[^key-6d879cdf8fa26570f7642698e7d50e0b]: Textual amendment: [Sch. 4 para. 4 and cross-heading](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/part/1/crossheading/universities-and-college-estates-act-1925) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/24); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-6d879cdf8fa26570f7642698e7d50e0b]: Textual amendment: [Sch. 4 para. 4 and cross-heading](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/part/1/crossheading/universities-and-college-estates-act-1925) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/24); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
 [^c24569171]: Commencement: [Sch. 4 para. 9(1)(2)(4)](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/9/1/2/4) in force at Royal Assent see [s. 53(1)(h)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/1/h)

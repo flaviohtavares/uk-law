@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26.3. Transfer of money claims within the County Court[^key-62406252147bc7fc9cba2c32481e196d]
+## 26.3. Transfer of money claims within the County Court[^c-62406252147bc7fc9cba2c32481e196d]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ the claim must be sent to that other hearing centre.
 
 (6) At the relevant time, the claim must be sent to the County Court at Central London if—
 
-- (a) the claim is started at the Civil National Business Centre[^key-1ec7cdb43d6bcf2b6202bab68f581979];
+- (a) the claim is started at the Civil National Business Centre[^c-1ec7cdb43d6bcf2b6202bab68f581979];
 - (b) a court officer provisionally decides, pursuant to rule 26.4, that the track which appears to be most suitable for the claim is the multi-track; and
 - (c) either—
   - (i) in respect of a defendant under paragraphs (3) and (5)(a), the home court (or the home court of the defendant who first files their defence) or the hearing centre specified on the directions questionnaire; or
@@ -57,6 +57,6 @@ the claim must be sent to that other hearing centre.
 
 ## Annotations
 
-[^key-62406252147bc7fc9cba2c32481e196d]: Textual amendment: Pt. 26 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/572/schedule/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-62406252147bc7fc9cba2c32481e196d]: Textual amendment: Pt. 26 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/572/schedule/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-1ec7cdb43d6bcf2b6202bab68f581979]: Textual amendment: Words in rule 26.3(6)(a) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2023/788/rule/16/3)
+[^c-1ec7cdb43d6bcf2b6202bab68f581979]: Textual amendment: Words in rule 26.3(6)(a) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2023/788/rule/16/3)

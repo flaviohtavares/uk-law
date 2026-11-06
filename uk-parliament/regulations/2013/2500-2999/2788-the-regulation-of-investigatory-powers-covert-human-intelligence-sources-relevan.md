@@ -48,11 +48,11 @@ The Secretary of State, in exercise of the powers conferred by sections 29(2)(c)
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-12ddaa7a277f3bc395d4f0c1133646fe]
+### 1. Citation and commencement[^c-12ddaa7a277f3bc395d4f0c1133646fe]
 
 This Order may be cited as the Regulation of Investigatory Powers (Covert Human Intelligence Sources: Relevant Sources) Order 2013 and shall come into force on 1st January 2014.
 
-### 2. Interpretation[^key-e271e9542d159b4a2e76eb8903f2c5f6]
+### 2. Interpretation[^c-e271e9542d159b4a2e76eb8903f2c5f6]
 
 In this Order—
 
@@ -67,16 +67,16 @@ In this Order—
   - (g) the Royal Navy Police,
   - (h) the Royal Military Police,
   - (i) the Royal Air Force Police,
-  - (ia) the tri-service serious crime unit,[^key-8e6c396a08478284744d102e5631216c]
+  - (ia) the tri-service serious crime unit,[^c-8e6c396a08478284744d102e5631216c]
   - (j) the British Transport Police,
   - (k) the National Crime Agency,
   - (l) Her Majesty’s Revenue and Customs, or
   - (m) the Home Office;
 - “section 29 authorisation” means an authorisation for the conduct or the use of a source under section 29 of the Act;
 - “source” means covert human intelligence source;
-- “[^key-2df40fc0b6277244b6016334f9daaaba]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006.
+- “[^c-2df40fc0b6277244b6016334f9daaaba]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006.
 
-### 3. Long Term Authorisation[^key-a22ba23336b639bb3dc8239154b50075]
+### 3. Long Term Authorisation[^c-a22ba23336b639bb3dc8239154b50075]
 
 (1) In this Order a section 29 authorisation for the conduct or use of a relevant source is a long term authorisation if the periods mentioned in paragraph (2)(a) and (b), when taken together, exceed 12 months.
 
@@ -93,11 +93,11 @@ In this Order—
 
 (6) In respect of an authorisation to which article 8(1)(b) of the Regulation of Investigatory Powers (Covert Human Intelligence Sources: Matters Subject to Legal Privilege) Order 2010[^f00003] applies references in paragraphs (1) and (4) of this article to 12 months should be read as references to 3 months.
 
-## PART 2 — Notification to and Approval by Judicial Commissioner[^key-673953f951c3d6bc48b3373157fe35a9]
+## PART 2 — Notification to and Approval by Judicial Commissioner[^c-673953f951c3d6bc48b3373157fe35a9]
 
-### 4. Notification[^key-91edca3e143b0bd0057d945715484b70]
+### 4. Notification[^c-91edca3e143b0bd0057d945715484b70]
 
-(1) Where a person grants a section 29 authorisation for the conduct or use of a relevant source he must give notice of that authorisation to a Judicial Commissioner[^key-c5c16efe9af9dbc97b559cc4a896a582] save where he is granting or renewing a long term authorisation.
+(1) Where a person grants a section 29 authorisation for the conduct or use of a relevant source he must give notice of that authorisation to a Judicial Commissioner[^c-c5c16efe9af9dbc97b559cc4a896a582] save where he is granting or renewing a long term authorisation.
 
 (2) A notice under this article must—
 
@@ -112,7 +112,7 @@ In this Order—
 
 (4) Any notice that is required by this article to be given in writing may be given, instead, by being transmitted by electronic means.
 
-### 5. Approval required for long term authorisation[^key-17815a1f99ec6e94368468f71ed2e604]
+### 5. Approval required for long term authorisation[^c-17815a1f99ec6e94368468f71ed2e604]
 
 (1) A long term authorisation shall not be granted or renewed until—
 
@@ -151,23 +151,23 @@ In this Order—
 
 (7) Anything required by this article to be made or given in writing may be made or given, instead, by being transmitted by electronic means.
 
-(8) For the purpose of this article “Commissioner” means Judicial Commissioner[^key-6b1a96a293cba9bdd3c3264c1b9df42a].
+(8) For the purpose of this article “Commissioner” means Judicial Commissioner[^c-6b1a96a293cba9bdd3c3264c1b9df42a].
 
-### 6. Appeals against decisions by Judicial Commissioners[^key-dff1c473cb286bbf63c2402949051088][^key-377769df847ad787bfc6c427e165a684]
+### 6. Appeals against decisions by Judicial Commissioners[^c-dff1c473cb286bbf63c2402949051088][^c-377769df847ad787bfc6c427e165a684]
 
-(1) Any person seeking approval for the grant or renewal of a long term authorisation may appeal to the Investigatory Powers Commissioner[^key-d4edfb3376b01e2080c7f1c0db06f3ed] against any refusal of a Judicial Commissioner (other than the Investigatory Powers Commissioner)[^key-2e653aef45f8938f2cf382b78fde5edf] to approve any such authorisation.
+(1) Any person seeking approval for the grant or renewal of a long term authorisation may appeal to the Investigatory Powers Commissioner[^c-d4edfb3376b01e2080c7f1c0db06f3ed] against any refusal of a Judicial Commissioner (other than the Investigatory Powers Commissioner)[^c-2e653aef45f8938f2cf382b78fde5edf] to approve any such authorisation.
 
 (2) An appeal under this article must be brought within the period of seven days beginning with the day on which notice of the refusal is given under article 5(5)(b).
 
-(3) The Investigatory Powers Commissioner[^key-9526607cd215c9864bed37e4e3f16aac], on an appeal under this article, shall allow the appeal if satisfied that there are reasonable grounds for believing the matters set out in article 5(5)(a).
+(3) The Investigatory Powers Commissioner[^c-9526607cd215c9864bed37e4e3f16aac], on an appeal under this article, shall allow the appeal if satisfied that there are reasonable grounds for believing the matters set out in article 5(5)(a).
 
 ## PART 3 — Prescribed Offices, Ranks and Positions in relation to Relevant Sources
 
-### 7. Amendment of the Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2010[^key-baeee9fc0058cd2f6b56d51fd3a2e1a3]
+### 7. Amendment of the Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2010[^c-baeee9fc0058cd2f6b56d51fd3a2e1a3]
 
 The Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2010[^f00004] is amended as set out in this Part.
 
-### 8. Interpretation[^key-52ae5187cc8d7133fad52b7b18a5def4]
+### 8. Interpretation[^c-52ae5187cc8d7133fad52b7b18a5def4]
 
 After article 1(2) insert—
 
@@ -192,7 +192,7 @@ After article 1(2) insert—
 
 .
 
-**9.**[^key-9713d1ce7529507fa6d6457b80ac3c96] (1) After article 1 insert—
+**9.**[^c-9713d1ce7529507fa6d6457b80ac3c96] (1) After article 1 insert—
 
 > **1A. Long Term Authorisation**
 >
@@ -215,7 +215,7 @@ After article 1(2) insert—
 
 .
 
-### 10. Prescribed Offices, ranks and position with relevant public authorities[^key-774465337a579c4a0607521cd76be37f]
+### 10. Prescribed Offices, ranks and position with relevant public authorities[^c-774465337a579c4a0607521cd76be37f]
 
 After article 3(1) insert—
 
@@ -223,17 +223,17 @@ After article 3(1) insert—
 
 .
 
-**11.**[^key-c6acfdbf7a3487e121e956f9c3931622] At the end of article 3(2)(a) omit “and” and insert—
+**11.**[^c-c6acfdbf7a3487e121e956f9c3931622] At the end of article 3(2)(a) omit “and” and insert—
 
 > - (aa) column (2) of Part 1A of the Schedule (being offices, ranks and positions with the relevant public authorities which are listed in relation to such entries in column (1) of that Part and which are relevant public authorities for the purposes of section 29 of the Act in relation to the authorisation of relevant sources), and
 
 .
 
-### 12. Additional offices, ranks and positions prescribed for urgent cases[^key-f0adaf8fa2baa146ea5ab72abd419038]
+### 12. Additional offices, ranks and positions prescribed for urgent cases[^c-f0adaf8fa2baa146ea5ab72abd419038]
 
 In article 4(2) after “(for the purposes of section 28 or 29 of the Act in the case of an entry in Part 1 of the Schedule” insert “or for the purposes of section 29 only in the case of an entry in Part 1A”.
 
-### 13. Restrictions on the granting of authorisations[^key-91a7bce30f95744cd20e90bd26067273]
+### 13. Restrictions on the granting of authorisations[^c-91a7bce30f95744cd20e90bd26067273]
 
 After article 5(1)(a) insert—
 
@@ -241,19 +241,19 @@ After article 5(1)(a) insert—
 
 .
 
-**14.**[^key-6159a82e77b9944d2383481bc93cfaff] After article 5(2)(a) insert—
+**14.**[^c-6159a82e77b9944d2383481bc93cfaff] After article 5(2)(a) insert—
 
 > - (aa) section 29(3) of the Act in the case of an entry in Part 1A, or
 
 .
 
-**15.**[^key-e1866de120b0d685fc0d1103d70656da] After article 6 insert—
+**15.**[^c-e1866de120b0d685fc0d1103d70656da] After article 6 insert—
 
 > **6A.** Where an entry in column (2) of Part 1A of the Schedule is headed by reference to an authorisation of a relevant source or to an authorisation for a long term authorisation, an authorisation may only be granted by the individual holding the office, rank or position listed in an entry under the relevant heading.
 
 .
 
-### 16. Schedule[^key-c4dd1cab8809e82c370cbaa4ee6f4b71]
+### 16. Schedule[^c-c4dd1cab8809e82c370cbaa4ee6f4b71]
 
 (1) In Part 1 of the Schedule for the entry for Home Office substitute—
 
@@ -288,7 +288,7 @@ After article 5(1)(a) insert—
 
 ## PART 4 — Transitional Arrangements
 
-**17.**[^key-31f747c1ad0158261fca0db97b5cd1e7] (1) This Order does not affect the continued operation of authorisations granted or renewed under section 29 of the Act before this Order comes into force.
+**17.**[^c-31f747c1ad0158261fca0db97b5cd1e7] (1) This Order does not affect the continued operation of authorisations granted or renewed under section 29 of the Act before this Order comes into force.
 
 (2) For the purposes of article 3 any period for which the relevant source has previously been authorised as a source in relation to the same investigation or operation prior to the coming into force of this Order shall be disregarded save for any period in relation to an authorisation that is extant on the date that this Order comes into force.
 
@@ -344,64 +344,64 @@ Part 4 of the Order contains transitional provisions. With respect to the calcul
 
 [^f00001]: Footnote: [2000 c.23](https://www.legislation.gov.uk/ukpga/2000/23).
 
-[^key-12ddaa7a277f3bc395d4f0c1133646fe]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-12ddaa7a277f3bc395d4f0c1133646fe]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
-[^key-e271e9542d159b4a2e76eb8903f2c5f6]: Commencement: Art. 2 in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-e271e9542d159b4a2e76eb8903f2c5f6]: Commencement: Art. 2 in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
 [^f00002]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-8e6c396a08478284744d102e5631216c]: Textual amendment: Words in art. 2 inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/17/2/a)
+[^c-8e6c396a08478284744d102e5631216c]: Textual amendment: Words in art. 2 inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/17/2/a)
 
-[^key-2df40fc0b6277244b6016334f9daaaba]: Textual amendment: Words in art. 2 inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [17(2)(b)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/17/2/b)
+[^c-2df40fc0b6277244b6016334f9daaaba]: Textual amendment: Words in art. 2 inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [17(2)(b)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/17/2/b)
 
-[^key-a22ba23336b639bb3dc8239154b50075]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2788/article/3) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-a22ba23336b639bb3dc8239154b50075]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2788/article/3) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
 [^f00003]: Footnote: [S.I. 2010/123](https://www.legislation.gov.uk/uksi/2010/123).
 
-[^key-673953f951c3d6bc48b3373157fe35a9]: Textual amendment: Words in Pt. 2 heading substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(6)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/6/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+[^c-673953f951c3d6bc48b3373157fe35a9]: Textual amendment: Words in Pt. 2 heading substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(6)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/6/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
 
-[^key-91edca3e143b0bd0057d945715484b70]: Commencement: Art. 4 in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-91edca3e143b0bd0057d945715484b70]: Commencement: Art. 4 in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
-[^key-c5c16efe9af9dbc97b559cc4a896a582]: Textual amendment: Words in art. 4(1) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(6)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/6/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+[^c-c5c16efe9af9dbc97b559cc4a896a582]: Textual amendment: Words in art. 4(1) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(6)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/6/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
 
-[^key-17815a1f99ec6e94368468f71ed2e604]: Commencement: Art. 5 in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-17815a1f99ec6e94368468f71ed2e604]: Commencement: Art. 5 in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
-[^key-6b1a96a293cba9bdd3c3264c1b9df42a]: Textual amendment: Words in art. 5(8) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(6)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/6/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+[^c-6b1a96a293cba9bdd3c3264c1b9df42a]: Textual amendment: Words in art. 5(8) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(6)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/6/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
 
-[^key-dff1c473cb286bbf63c2402949051088]: Commencement: Art. 6 in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-dff1c473cb286bbf63c2402949051088]: Commencement: Art. 6 in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
-[^key-377769df847ad787bfc6c427e165a684]: Textual amendment: Words in art. 6 heading substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(6)(e)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/6/e), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+[^c-377769df847ad787bfc6c427e165a684]: Textual amendment: Words in art. 6 heading substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(6)(e)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/6/e), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
 
-[^key-d4edfb3376b01e2080c7f1c0db06f3ed]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2013/2788/article/6/1) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(6)(c)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/6/c), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+[^c-d4edfb3376b01e2080c7f1c0db06f3ed]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2013/2788/article/6/1) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(6)(c)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/6/c), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
 
-[^key-2e653aef45f8938f2cf382b78fde5edf]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2013/2788/article/6/1) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(6)(d)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/6/d), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+[^c-2e653aef45f8938f2cf382b78fde5edf]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2013/2788/article/6/1) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(6)(d)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/6/d), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
 
-[^key-9526607cd215c9864bed37e4e3f16aac]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/uksi/2013/2788/article/6/3) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(6)(c)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/6/c), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+[^c-9526607cd215c9864bed37e4e3f16aac]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/uksi/2013/2788/article/6/3) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(6)(c)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/6/c), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
 
-[^key-baeee9fc0058cd2f6b56d51fd3a2e1a3]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2013/2788/article/7) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-baeee9fc0058cd2f6b56d51fd3a2e1a3]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2013/2788/article/7) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
 [^f00004]: Footnote: [S.I. 2010/521](https://www.legislation.gov.uk/uksi/2010/521).
 
-[^key-52ae5187cc8d7133fad52b7b18a5def4]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2013/2788/article/8) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-52ae5187cc8d7133fad52b7b18a5def4]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2013/2788/article/8) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
 [^f00005]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-9713d1ce7529507fa6d6457b80ac3c96]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2013/2788/article/9) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-9713d1ce7529507fa6d6457b80ac3c96]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2013/2788/article/9) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
 [^f00006]: Footnote: [S.I. 2010/123](https://www.legislation.gov.uk/uksi/2010/123).
 
-[^key-774465337a579c4a0607521cd76be37f]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2013/2788/article/10) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-774465337a579c4a0607521cd76be37f]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2013/2788/article/10) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
-[^key-c6acfdbf7a3487e121e956f9c3931622]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2013/2788/article/11) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-c6acfdbf7a3487e121e956f9c3931622]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2013/2788/article/11) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
-[^key-f0adaf8fa2baa146ea5ab72abd419038]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2013/2788/article/12) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-f0adaf8fa2baa146ea5ab72abd419038]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2013/2788/article/12) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
-[^key-91a7bce30f95744cd20e90bd26067273]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2013/2788/article/13) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-91a7bce30f95744cd20e90bd26067273]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2013/2788/article/13) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
-[^key-6159a82e77b9944d2383481bc93cfaff]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2013/2788/article/14) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-6159a82e77b9944d2383481bc93cfaff]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2013/2788/article/14) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
-[^key-e1866de120b0d685fc0d1103d70656da]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2013/2788/article/15) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-e1866de120b0d685fc0d1103d70656da]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2013/2788/article/15) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
-[^key-c4dd1cab8809e82c370cbaa4ee6f4b71]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2013/2788/article/16) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-c4dd1cab8809e82c370cbaa4ee6f4b71]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2013/2788/article/16) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
 
-[^key-31f747c1ad0158261fca0db97b5cd1e7]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2013/2788/article/17) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)
+[^c-31f747c1ad0158261fca0db97b5cd1e7]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2013/2788/article/17) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2788/article/1)

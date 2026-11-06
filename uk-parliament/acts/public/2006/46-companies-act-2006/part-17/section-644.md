@@ -31,12 +31,12 @@ This is in addition to the copy of the resolution itself that is required to be 
 
 - (a) the total number of shares of the company,
 - (b) the aggregate nominal value of those shares,
-- (ba)[^key-47b5b1db650efdafdb43f40e39423b60] the aggregate amount (if any) unpaid on those shares (whether on account of their nominal value or by way of premium), and
+- (ba)[^c-47b5b1db650efdafdb43f40e39423b60] the aggregate amount (if any) unpaid on those shares (whether on account of their nominal value or by way of premium), and
 - (c) for each class of shares—
   - (i) prescribed particulars of the rights attached to the shares,
   - (ii) the total number of shares of that class, and
-  - (iii) the aggregate nominal value of shares of that class, [^key-514f9c3bc31906ee8dfc2612d148dc2f]...
-- (d)[^key-514f9c3bc31906ee8dfc2612d148dc2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) the aggregate nominal value of shares of that class, [^c-514f9c3bc31906ee8dfc2612d148dc2f]...
+- (d)[^c-514f9c3bc31906ee8dfc2612d148dc2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The registrar must register the documents delivered to him under subsection (1) on receipt.
 
@@ -70,6 +70,6 @@ This is in addition to the copy of the resolution itself that is required to be 
 
 [^c18945611]: Commencement: S. 644 wholly in force at 1.10.2008; s. 644 not in force at Royal Assent, see s. 1300; s. 644 in force for specified purposes at 20.1.2007 by [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/3) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) and with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5)); s. 644 in force at 1.10.2008 in so far as not already in force by [S.I. 2008/1886](https://www.legislation.gov.uk/uksi/2008/1886), [art. 2](https://www.legislation.gov.uk/uksi/2008/1886/article/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/1886/article/6), [7](https://www.legislation.gov.uk/uksi/2008/1886/article/7))
 
-[^key-47b5b1db650efdafdb43f40e39423b60]: Textual amendment: [S. 644(2)(ba)](https://www.legislation.gov.uk/ukpga/2006/46/section/644/2/ba) inserted (30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 10(a)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/10/a); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)
+[^c-47b5b1db650efdafdb43f40e39423b60]: Textual amendment: [S. 644(2)(ba)](https://www.legislation.gov.uk/ukpga/2006/46/section/644/2/ba) inserted (30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 10(a)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/10/a); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)
 
-[^key-514f9c3bc31906ee8dfc2612d148dc2f]: Textual amendment: [S. 644(2)(d)](https://www.legislation.gov.uk/ukpga/2006/46/section/644/2/d) and word omitted (30.6.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 10(b)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/10/b); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)
+[^c-514f9c3bc31906ee8dfc2612d148dc2f]: Textual amendment: [S. 644(2)(d)](https://www.legislation.gov.uk/ukpga/2006/46/section/644/2/d) and word omitted (30.6.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 10(b)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/10/b); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)

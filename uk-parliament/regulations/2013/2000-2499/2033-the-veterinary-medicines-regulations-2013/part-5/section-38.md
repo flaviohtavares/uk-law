@@ -27,7 +27,7 @@ summary: ''
 - (c) specifies the measures that, in the inspector’s opinion, the person must take in order to secure compliance; and
 - (d) requires the person to take those measures, or measures at least equivalent to them, within the period (being not less than 14 days) specified in the notice.
 
-(1A (Extent: E+W+S))[^key-2def252665d3c193685abaa2ba0d6ff0] If the inspector considers that the matters constituting a person’s perceived failure to comply involve risks to animal or human health or of damage to the environment which are so serious that, until steps have been taken to reduce or remove that failure, one or more activity carried on by the person ought to be prohibited or restricted, the improvement notice must state— *(Extent: E+W+S)*
+(1A (Extent: E+W+S))[^c-2def252665d3c193685abaa2ba0d6ff0] If the inspector considers that the matters constituting a person’s perceived failure to comply involve risks to animal or human health or of damage to the environment which are so serious that, until steps have been taken to reduce or remove that failure, one or more activity carried on by the person ought to be prohibited or restricted, the improvement notice must state— *(Extent: E+W+S)*
 
 - (a (Extent: E+W+S)) the activity which is to be prohibited or restricted; *(Extent: E+W+S)*
 - (b (Extent: E+W+S)) the reasons why such prohibition or restriction is considered appropriate; *(Extent: E+W+S)*
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2def252665d3c193685abaa2ba0d6ff0]: Textual amendment: [Reg. 38(1A)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/38/1A)[(1B)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/38/1B) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2024/567/regulation/22)
+[^c-2def252665d3c193685abaa2ba0d6ff0]: Textual amendment: [Reg. 38(1A)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/38/1A)[(1B)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/38/1B) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2024/567/regulation/22)

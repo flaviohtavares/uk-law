@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Interim measures pending a direction taking effect[^key-ec6c2a30a70c137581771658ba480c37][^key-73fd58a0c8c477d5fc1ce5a954e10b28]
+## 60. Interim measures pending a direction taking effect[^c-ec6c2a30a70c137581771658ba480c37][^c-73fd58a0c8c477d5fc1ce5a954e10b28]
 
 *Extent: E+W+S*
 
@@ -50,6 +50,6 @@ and the decision of the relevant court on any application under this paragraph i
 
 ## Annotations
 
-[^key-ec6c2a30a70c137581771658ba480c37]: Commencement: Art. 60 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-ec6c2a30a70c137581771658ba480c37]: Commencement: Art. 60 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-73fd58a0c8c477d5fc1ce5a954e10b28]: Commencement: [Art. 60](https://www.legislation.gov.uk/uksi/2010/231/article/60) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-73fd58a0c8c477d5fc1ce5a954e10b28]: Commencement: [Art. 60](https://www.legislation.gov.uk/uksi/2010/231/article/60) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

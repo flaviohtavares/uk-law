@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**2.**[^key-dfd03febb80337def33a5695ecea127e] In this Order—
+**2.**[^c-dfd03febb80337def33a5695ecea127e] In this Order—
 
 - “the 1949 Act” means the Wireless Telegraphy Act 1949;
 - “the 1990 Act” means the Broadcasting Act 1990;
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfd03febb80337def33a5695ecea127e]: Commencement: Art. 2 in force at 29.12.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2)
+[^c-dfd03febb80337def33a5695ecea127e]: Commencement: Art. 2 in force at 29.12.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Removal of vessels[^key-3ef1c9531973896f96bbff4719b9a15f]
+## 21. Removal of vessels[^c-3ef1c9531973896f96bbff4719b9a15f]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ and relocate it to such place outside the Order limits (and if that is elsewhere
 
 ## Annotations
 
-[^key-3ef1c9531973896f96bbff4719b9a15f]: Commencement: Art. 21 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-3ef1c9531973896f96bbff4719b9a15f]: Commencement: Art. 21 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

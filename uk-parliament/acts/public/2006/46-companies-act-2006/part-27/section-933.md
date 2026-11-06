@@ -36,15 +36,15 @@ summary: ''
 - (a) the members, or holders of other securities, of a company, and
 - (b) whether shares or other securities carry a right to vote in general meetings of the company,
 
-are determined as at the date of the relevant application[^key-7b242edfdbbad1eedcfb688cc97c82c0].
+are determined as at the date of the relevant application[^c-7b242edfdbbad1eedcfb688cc97c82c0].
 
-(4)[^key-525d24383dee7519764f7ca03fbd703f] In subsection (3) “the relevant application” means—
+(4)[^c-525d24383dee7519764f7ca03fbd703f] In subsection (3) “the relevant application” means—
 
 - (a) in the case of a compromise or arrangement to be sanctioned under Part 26, the application to the court under section 896;
 - (b) in the case of a compromise or arrangement to be sanctioned under Part 26A, the application to the court under section 901C(1).
 
 ## Annotations
 
-[^key-7b242edfdbbad1eedcfb688cc97c82c0]: Textual amendment: Words in s. 933(3) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 36(15)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/36/15/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-7b242edfdbbad1eedcfb688cc97c82c0]: Textual amendment: Words in s. 933(3) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 36(15)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/36/15/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-525d24383dee7519764f7ca03fbd703f]: Textual amendment: S. 933(4) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 36(15)(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/36/15/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-525d24383dee7519764f7ca03fbd703f]: Textual amendment: S. 933(4) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 36(15)(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/36/15/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

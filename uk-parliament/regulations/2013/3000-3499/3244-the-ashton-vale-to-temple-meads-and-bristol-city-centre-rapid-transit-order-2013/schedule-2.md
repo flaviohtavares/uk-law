@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — ADDITIONAL LAND WHICH MAY BE ACQUIRED OR USED[^key-ef77ca0f5fba4f252cc306670245ff7a]
+## SCHEDULE 2 — ADDITIONAL LAND WHICH MAY BE ACQUIRED OR USED[^c-ef77ca0f5fba4f252cc306670245ff7a]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ Articles 2(1), 5 and 23
 
 ## Annotations
 
-[^key-ef77ca0f5fba4f252cc306670245ff7a]: Commencement: Sch. 2 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-ef77ca0f5fba4f252cc306670245ff7a]: Commencement: Sch. 2 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

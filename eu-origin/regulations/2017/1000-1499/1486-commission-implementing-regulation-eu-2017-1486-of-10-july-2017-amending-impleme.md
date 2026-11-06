@@ -33,7 +33,7 @@ amending Implementing Regulation (EU) 2016/2070 as regards benchmarking portfoli
 
 (Text with EEA relevance)
 
-[^key-da3e898629f60c84b5ddeb5d6ccf9aa9]
+[^c-da3e898629f60c84b5ddeb5d6ccf9aa9]
 
 THE EUROPEAN COMMISSION,
 
@@ -28770,7 +28770,7 @@ Jean-Claude Juncker
 
 ## Annotations
 
-[^key-da3e898629f60c84b5ddeb5d6ccf9aa9]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-da3e898629f60c84b5ddeb5d6ccf9aa9]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 176, 27.6.2013, p. 338](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.176.01.0338.01.ENG).
 

@@ -24,19 +24,19 @@ summary: ''
 
 ### Interpretation
 
-**1.**[^key-ee18290acf5dfc6007cb0b23a93e6cf5] In this schedule, “**the premises**” means, in relation to any premises licence, the premises specified in the licence.
+**1.**[^c-ee18290acf5dfc6007cb0b23a93e6cf5] In this schedule, “**the premises**” means, in relation to any premises licence, the premises specified in the licence.
 
 ### Compliance with the operating plan
 
-**2.**[^key-fb2c44534155c16f95e47cf86063275c] (1) Alcohol is to be sold on the premises only in accordance with the operating plan contained in the licence.
+**2.**[^c-fb2c44534155c16f95e47cf86063275c] (1) Alcohol is to be sold on the premises only in accordance with the operating plan contained in the licence.
 
 (2) Nothing in sub-paragraph (1) is to be read as preventing or restricting the doing of anything referred to in section 63(2).
 
-**3.**[^key-11abf8bd11ef44bfcd10d1ba56586686] Any other activity to be carried on in the premises is to be carried on only in accordance with the operating plan contained in the licence.
+**3.**[^c-11abf8bd11ef44bfcd10d1ba56586686] Any other activity to be carried on in the premises is to be carried on only in accordance with the operating plan contained in the licence.
 
 ### The premises manager
 
-**4.**[^key-4b8f4f2a8c42ccf2865eecde8ebe9854] (1) Alcohol is not to be sold on the premises at any time when—
+**4.**[^c-4b8f4f2a8c42ccf2865eecde8ebe9854] (1) Alcohol is not to be sold on the premises at any time when—
 
 - (a) there is no premises manager in respect of the premises,
 - (b) the premises manager does not hold a personal licence,
@@ -49,21 +49,21 @@ summary: ''
 
 ### Authorisation of sales of alcohol
 
-**5.**[^key-520b2818fc8a2676a236b55907dc2e1f] Every sale of alcohol made on the premises must be authorised (whether generally or specifically) by—
+**5.**[^c-520b2818fc8a2676a236b55907dc2e1f] Every sale of alcohol made on the premises must be authorised (whether generally or specifically) by—
 
 - (a) the premises manager, or
 - (b) another person who holds a personal licence.
 
 ### Training of staff
 
-**6.**[^key-c2ee02df1bdf8f3361e768049cef4404] (1) No person (other than a person who holds a personal licence) is to work in the premises in the capacity mentioned in sub-paragraph (2) unless that person has complied with such requirements as to the training of staff as may be prescribed for the purposes of this paragraph.
+**6.**[^c-c2ee02df1bdf8f3361e768049cef4404] (1) No person (other than a person who holds a personal licence) is to work in the premises in the capacity mentioned in sub-paragraph (2) unless that person has complied with such requirements as to the training of staff as may be prescribed for the purposes of this paragraph.
 
 (2) That is a capacity (whether paid or unpaid) which involves the person—
 
 - (a) making sales of alcohol, or
 - (b) where alcohol is sold on the premises for consumption on the premises, serving such alcohol to any person.
 
-(2A)[^key-095262ef0f7cd70916af72772e91ac6b] At any time when a person (other than a person who holds a personal licence) is working in the premises in a capacity mentioned in sub paragraph (2), there must be kept on the premises a training record which relates to that person and is in the form set out in the Schedule to the Licensing (Mandatory Conditions No. 2) (Scotland) Regulations 2007.
+(2A)[^c-095262ef0f7cd70916af72772e91ac6b] At any time when a person (other than a person who holds a personal licence) is working in the premises in a capacity mentioned in sub paragraph (2), there must be kept on the premises a training record which relates to that person and is in the form set out in the Schedule to the Licensing (Mandatory Conditions No. 2) (Scotland) Regulations 2007.
 
 (2B) A record kept on the premises under sub paragraph (2A) must be produced to a Licensing Standards Officer on request.
 
@@ -78,7 +78,7 @@ summary: ''
 - (c) require that any person providing training or any particular description of training in accordance with the regulations hold a personal licence or such other qualification as may be prescribed in the regulations, and
 - (d) require training to be undergone again at such intervals as may be prescribed in the regulations.
 
-**6A.**[^key-3e8bb542105c0a5c0ec13ffa15c84abe] (1) Alcohol must not be sold on the premises at a price below its minimum price.
+**6A.**[^c-3e8bb542105c0a5c0ec13ffa15c84abe] (1) Alcohol must not be sold on the premises at a price below its minimum price.
 
 (2) Where alcohol is supplied together with other products or services for a single price, sub-paragraph (1) applies as if the alcohol were supplied on its own for that price.
 
@@ -105,7 +105,7 @@ the strength is taken to be the alcoholic strength by volume as indicated by the
 
 (6) The Scottish Ministers are to specify by order the enactments which are relevant labelling provisions for the purposes of sub-paragraph (5).
 
-**6B.**[^key-3c3a7741a36088766e74aa14c8bfb1fc] (1) A package containing two or more alcoholic products (whether of the same or different kinds) may only be sold on the premises at a price equal to or greater than the sum of the prices at which each alcoholic product is for sale on the premises.
+**6B.**[^c-3c3a7741a36088766e74aa14c8bfb1fc] (1) A package containing two or more alcoholic products (whether of the same or different kinds) may only be sold on the premises at a price equal to or greater than the sum of the prices at which each alcoholic product is for sale on the premises.
 
 (2) Sub-paragraph (1) applies—
 
@@ -116,19 +116,19 @@ the strength is taken to be the alcoholic strength by volume as indicated by the
 
 ### Pricing of alcohol
 
-**7.**[^key-be34c63bc7c6e6b516a5c787a5bde177] Where the price at which any alcohol sold on the premises for consumption on the premises[^key-429d0c39f950339499a347e651a7b9c4] is varied—
+**7.**[^c-be34c63bc7c6e6b516a5c787a5bde177] Where the price at which any alcohol sold on the premises for consumption on the premises[^c-429d0c39f950339499a347e651a7b9c4] is varied—
 
 - (a) the variation (referred to in this paragraph as “**the earlier price variation**”) may be brought into effect only at the beginning of a period of licensed hours, and
 - (b) no further variation of the price at which that or any other alcohol is sold on the premises for consumption on the premises may be brought into effect before the expiry of the period of 72 hours beginning with the coming into effect of the earlier price variation.
 
-**7A.**[^key-39ae005f5dd2b565ac0c0667abf128fb] Where the price at which any alcohol sold on the premises for consumption off the premises is varied—
+**7A.**[^c-39ae005f5dd2b565ac0c0667abf128fb] Where the price at which any alcohol sold on the premises for consumption off the premises is varied—
 
 - (a) the variation (referred to in this paragraph as “ **the earlier price variation** ”) may be brought into effect only at the beginning of a period of licensed hours, and
 - (b) no further variation in the price at which that alcohol is sold on the premises may be brought into effect before the expiry of the period of 72 hours beginning with the coming into effect of the earlier price variation.
 
 ### Irresponsible drinks promotions
 
-**8.**[^key-0b5759001731ab0b6877915d5e330ca0] (1) An irresponsible drinks promotion must not be carried on in or in connection with the premises.
+**8.**[^c-0b5759001731ab0b6877915d5e330ca0] (1) An irresponsible drinks promotion must not be carried on in or in connection with the premises.
 
 (2) Subject to sub-paragraph (3), a drinks promotion is irresponsible if it—
 
@@ -141,7 +141,7 @@ the strength is taken to be the alcoholic strength by volume as indicated by the
 - (g) rewards or encourages, or seeks to reward or encourage, drinking alcohol quickly, or
 - (h) offers alcohol as a reward or prize, unless the alcohol is in a sealed container and consumed off the premises.
 
-(3) Paragraphs (c) to (e)[^key-90a9122751ceb9604eedff5ff513e08f] of sub-paragraph (2) apply only to a drinks promotion carried on in relation to alcohol sold for consumption on the premises.
+(3) Paragraphs (c) to (e)[^c-90a9122751ceb9604eedff5ff513e08f] of sub-paragraph (2) apply only to a drinks promotion carried on in relation to alcohol sold for consumption on the premises.
 
 (4) The Scottish Ministers may by regulations modify sub-paragraph (2) or (3) so as to—
 
@@ -153,13 +153,13 @@ the strength is taken to be the alcoholic strength by volume as indicated by the
 
 ### Provision of non-alcoholic drinks
 
-**9.**[^key-7ffb5fe7b29e40c4d8b7ab2c433d0928] (1) The conditions specified in this paragraph apply only to the extent that the premises licence authorises the sale of alcohol for consumption on the premises.
+**9.**[^c-7ffb5fe7b29e40c4d8b7ab2c433d0928] (1) The conditions specified in this paragraph apply only to the extent that the premises licence authorises the sale of alcohol for consumption on the premises.
 
 (2) Tap water fit for drinking must be provided free of charge on request.
 
 (3) Other non-alcoholic drinks must be available for purchase at a reasonable price.
 
-### Age verification policy[^key-fc8eb661301d58dc34860ee54dd581ca]
+### Age verification policy[^c-fc8eb661301d58dc34860ee54dd581ca]
 
 **9A.** (1) There must be an age verification policy in relation to the sale of alcohol on the premises.
 
@@ -169,11 +169,11 @@ the strength is taken to be the alcoholic strength by volume as indicated by the
 
 ### Payment of annual or recurring fees
 
-**10.**[^key-8f386ef3eec34fe68c9fa382a89077ed] (1) The condition specified in sub-paragraph (2) applies only in relation to a premises licence in respect of which an annual or other recurring fee is to be paid by virtue of regulations under section 136(1).
+**10.**[^c-8f386ef3eec34fe68c9fa382a89077ed] (1) The condition specified in sub-paragraph (2) applies only in relation to a premises licence in respect of which an annual or other recurring fee is to be paid by virtue of regulations under section 136(1).
 
 (2) The fee must be paid as required by the regulations.
 
-### Notices – admission of persons under 18[^key-21e344032bcca00f81d15b516791870d]
+### Notices – admission of persons under 18[^c-21e344032bcca00f81d15b516791870d]
 
 **11.** (1) The condition specified in this paragraph applies only in the case of premises on which alcohol is sold for consumption on the premises.
 
@@ -196,14 +196,14 @@ the strength is taken to be the alcoholic strength by volume as indicated by the
 
 (2) There are to be on the premises facilities for baby changing which are to be accessible to persons of either gender.
 
-### Display , or promotion of the sale, of alcohol for consumption off the premises[^key-2b599ee3c73c03607f3501efa0d6e4eb][^M_F_1e67c6c6-c06c-472d-abe1-449aff97fcd5]
+### Display , or promotion of the sale, of alcohol for consumption off the premises[^c-2b599ee3c73c03607f3501efa0d6e4eb][^M_F_1e67c6c6-c06c-472d-abe1-449aff97fcd5]
 
-**13.** (1) Subject to sub-paragraph (3), alcohol[^key-183b63f5006e5b957b7007b73e64b57f] which is for sale only for consumption off the premises may be displayed only in one or both of the following–
+**13.** (1) Subject to sub-paragraph (3), alcohol[^c-183b63f5006e5b957b7007b73e64b57f] which is for sale only for consumption off the premises may be displayed only in one or both of the following–
 
 - (a) a single area of the premises agreed between the Licensing Board and the holder of the licence; or
 - (b) a single area of the premises which is inaccessible to the public.
 
-(1A)[^key-8a1628f8172cfda5705b0226042534b8] Sub-paragraphs (1B) to (1D) apply where the premises, in so far as they are used for the sale of alcohol, are so used only or primarily for the sale of alcohol for consumption off the premises.
+(1A)[^c-8a1628f8172cfda5705b0226042534b8] Sub-paragraphs (1B) to (1D) apply where the premises, in so far as they are used for the sale of alcohol, are so used only or primarily for the sale of alcohol for consumption off the premises.
 
 (1B) Any drinks promotion on the premises may take place only in any one or more of the following—
 
@@ -216,21 +216,21 @@ the strength is taken to be the alcoholic strength by volume as indicated by the
 
 (2) In an area agreed in terms of sub-paragraph (1)(a), a product other than alcohol may be displayed only if it is–
 
-- (a) a non-alcoholic drink; [^key-a1640c035a451b83f0d49a2a73782446] ...
+- (a) a non-alcoholic drink; [^c-a1640c035a451b83f0d49a2a73782446] ...
 - (b) packaged with, and may be purchased only along with, alcohol
-- (c)[^key-db7f2d1aceca0f9e46370eb34873388b] a branded non-alcoholic product, or
+- (c)[^c-db7f2d1aceca0f9e46370eb34873388b] a branded non-alcoholic product, or
 - (d) a newspaper, magazine or other publication.
 
-(2A)[^key-aecd88cd129aa4119ba34f3d5ace309c] Sub-paragraph (2) is without prejudice to sub-paragraph (1B).
+(2A)[^c-aecd88cd129aa4119ba34f3d5ace309c] Sub-paragraph (2) is without prejudice to sub-paragraph (1B).
 
-(3)[^key-7fbdb6a4cbbe1b26a098488c83d71762] This paragraph does not apply in respect of premises—
+(3)[^c-7fbdb6a4cbbe1b26a098488c83d71762] This paragraph does not apply in respect of premises—
 
 - (a) whose main function is to provide a visitor attraction, and
 - (b) where—
   - (i) the premises form part of a larger site which is used principally for the production of alcoholic drinks, or
   - (ii) the visitor attraction is used principally to provide information about and promote the history and attributes of a particular alcoholic drink or a particular category of alcoholic drink.
 
-(4)[^key-1ba7f44be8bcc40ca1f3683844cd129f] In this paragraph—
+(4)[^c-1ba7f44be8bcc40ca1f3683844cd129f] In this paragraph—
 
 - “**branded non-alcoholic product**” means a product which does not consist of or contain alcohol and which—
   - (a) bears a name or image of, or
@@ -245,56 +245,56 @@ the strength is taken to be the alcoholic strength by volume as indicated by the
 
 ## Annotations
 
-[^key-ee18290acf5dfc6007cb0b23a93e6cf5]: Commencement: Sch. 3 para. 1 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-ee18290acf5dfc6007cb0b23a93e6cf5]: Commencement: Sch. 3 para. 1 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-fb2c44534155c16f95e47cf86063275c]: Commencement: Sch. 3 para. 2 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-fb2c44534155c16f95e47cf86063275c]: Commencement: Sch. 3 para. 2 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-11abf8bd11ef44bfcd10d1ba56586686]: Commencement: Sch. 3 para. 3 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-11abf8bd11ef44bfcd10d1ba56586686]: Commencement: Sch. 3 para. 3 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-4b8f4f2a8c42ccf2865eecde8ebe9854]: Commencement: Sch. 3 para. 4 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-4b8f4f2a8c42ccf2865eecde8ebe9854]: Commencement: Sch. 3 para. 4 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-520b2818fc8a2676a236b55907dc2e1f]: Commencement: Sch. 3 para. 5 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-520b2818fc8a2676a236b55907dc2e1f]: Commencement: Sch. 3 para. 5 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-c2ee02df1bdf8f3361e768049cef4404]: Commencement: Sch. 3 para. 6 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-c2ee02df1bdf8f3361e768049cef4404]: Commencement: Sch. 3 para. 6 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-095262ef0f7cd70916af72772e91ac6b]: Textual amendment: Sch. 3 paras. 6(2A)(2B) inserted (1.2.2008) by [Licensing (Mandatory Conditions No.2) (Scotland) Regulations 2007 (S.S.I. 2007/546)](https://www.legislation.gov.uk/ssi/2007/546), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/546/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2007/546/regulation/2)
+[^c-095262ef0f7cd70916af72772e91ac6b]: Textual amendment: Sch. 3 paras. 6(2A)(2B) inserted (1.2.2008) by [Licensing (Mandatory Conditions No.2) (Scotland) Regulations 2007 (S.S.I. 2007/546)](https://www.legislation.gov.uk/ssi/2007/546), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/546/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2007/546/regulation/2)
 
-[^key-3e8bb542105c0a5c0ec13ffa15c84abe]: Textual amendment: Sch. 3 para. 6A inserted (6.12.2017 for specified purposes, 1.5.2018 in so far as not already in force) by [Alcohol (Minimum Pricing) (Scotland) Act 2012 (asp 4)](https://www.legislation.gov.uk/asp/2012/4), [ss. 1(2)](https://www.legislation.gov.uk/asp/2012/4/section/1/2), [5(2)](https://www.legislation.gov.uk/asp/2012/4/section/5/2) (with [s. 2](https://www.legislation.gov.uk/asp/2012/4/section/2)); [S.S.I. 2017/402](https://www.legislation.gov.uk/ssi/2017/402), [art. 2](https://www.legislation.gov.uk/ssi/2017/402/article/2); [S.S.I. 2018/88](https://www.legislation.gov.uk/ssi/2018/88), [art. 2](https://www.legislation.gov.uk/ssi/2018/88/article/2) (which amendment is continued in effect after the end of the 6 year period (30.4.2024) by virtue of [The Alcohol (Minimum Pricing) (Scotland) Act 2012 (Continuation) Order 2024 (S.S.I. 2024/127)](https://www.legislation.gov.uk/ssi/2024/127), [arts. 1](https://www.legislation.gov.uk/ssi/2024/127/article/1), [2](https://www.legislation.gov.uk/ssi/2024/127/article/2))
+[^c-3e8bb542105c0a5c0ec13ffa15c84abe]: Textual amendment: Sch. 3 para. 6A inserted (6.12.2017 for specified purposes, 1.5.2018 in so far as not already in force) by [Alcohol (Minimum Pricing) (Scotland) Act 2012 (asp 4)](https://www.legislation.gov.uk/asp/2012/4), [ss. 1(2)](https://www.legislation.gov.uk/asp/2012/4/section/1/2), [5(2)](https://www.legislation.gov.uk/asp/2012/4/section/5/2) (with [s. 2](https://www.legislation.gov.uk/asp/2012/4/section/2)); [S.S.I. 2017/402](https://www.legislation.gov.uk/ssi/2017/402), [art. 2](https://www.legislation.gov.uk/ssi/2017/402/article/2); [S.S.I. 2018/88](https://www.legislation.gov.uk/ssi/2018/88), [art. 2](https://www.legislation.gov.uk/ssi/2018/88/article/2) (which amendment is continued in effect after the end of the 6 year period (30.4.2024) by virtue of [The Alcohol (Minimum Pricing) (Scotland) Act 2012 (Continuation) Order 2024 (S.S.I. 2024/127)](https://www.legislation.gov.uk/ssi/2024/127), [arts. 1](https://www.legislation.gov.uk/ssi/2024/127/article/1), [2](https://www.legislation.gov.uk/ssi/2024/127/article/2))
 
-[^key-3c3a7741a36088766e74aa14c8bfb1fc]: Textual amendment: Sch. 3 para. 6B inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 2(2)](https://www.legislation.gov.uk/asp/2010/18/section/2/2), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-3c3a7741a36088766e74aa14c8bfb1fc]: Textual amendment: Sch. 3 para. 6B inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 2(2)](https://www.legislation.gov.uk/asp/2010/18/section/2/2), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-be34c63bc7c6e6b516a5c787a5bde177]: Commencement: Sch. 3 para. 7 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-be34c63bc7c6e6b516a5c787a5bde177]: Commencement: Sch. 3 para. 7 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-429d0c39f950339499a347e651a7b9c4]: Textual amendment: Words in Sch. 3 para. 7 inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 3(2)](https://www.legislation.gov.uk/asp/2010/18/section/3/2), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-429d0c39f950339499a347e651a7b9c4]: Textual amendment: Words in Sch. 3 para. 7 inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 3(2)](https://www.legislation.gov.uk/asp/2010/18/section/3/2), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-39ae005f5dd2b565ac0c0667abf128fb]: Textual amendment: Sch. 3 para. 7A inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 3(3)](https://www.legislation.gov.uk/asp/2010/18/section/3/3), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-39ae005f5dd2b565ac0c0667abf128fb]: Textual amendment: Sch. 3 para. 7A inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 3(3)](https://www.legislation.gov.uk/asp/2010/18/section/3/3), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-0b5759001731ab0b6877915d5e330ca0]: Commencement: Sch. 3 para. 8 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-0b5759001731ab0b6877915d5e330ca0]: Commencement: Sch. 3 para. 8 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-90a9122751ceb9604eedff5ff513e08f]: Textual amendment: Words in Sch. 3 para. 8(3) substituted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 4(2)](https://www.legislation.gov.uk/asp/2010/18/section/4/2), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-90a9122751ceb9604eedff5ff513e08f]: Textual amendment: Words in Sch. 3 para. 8(3) substituted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 4(2)](https://www.legislation.gov.uk/asp/2010/18/section/4/2), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-7ffb5fe7b29e40c4d8b7ab2c433d0928]: Commencement: Sch. 3 para. 9 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-7ffb5fe7b29e40c4d8b7ab2c433d0928]: Commencement: Sch. 3 para. 9 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-fc8eb661301d58dc34860ee54dd581ca]: Textual amendment: Sch. 3 para. 9A and cross-heading inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 6(2)](https://www.legislation.gov.uk/asp/2010/18/section/6/2), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-fc8eb661301d58dc34860ee54dd581ca]: Textual amendment: Sch. 3 para. 9A and cross-heading inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 6(2)](https://www.legislation.gov.uk/asp/2010/18/section/6/2), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-8f386ef3eec34fe68c9fa382a89077ed]: Commencement: Sch. 3 para. 10 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-8f386ef3eec34fe68c9fa382a89077ed]: Commencement: Sch. 3 para. 10 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-21e344032bcca00f81d15b516791870d]: Textual amendment: Sch. 3 paras. 11, 12 and cross-headings inserted (1.2.2008) by [Licensing (Mandatory Conditions) (Scotland) Regulations 2007 (S.S.I. 2007/457)](https://www.legislation.gov.uk/ssi/2007/457), [regs. 1](https://www.legislation.gov.uk/ssi/2007/457/regulation/1), [2](https://www.legislation.gov.uk/ssi/2007/457/regulation/2)
+[^c-21e344032bcca00f81d15b516791870d]: Textual amendment: Sch. 3 paras. 11, 12 and cross-headings inserted (1.2.2008) by [Licensing (Mandatory Conditions) (Scotland) Regulations 2007 (S.S.I. 2007/457)](https://www.legislation.gov.uk/ssi/2007/457), [regs. 1](https://www.legislation.gov.uk/ssi/2007/457/regulation/1), [2](https://www.legislation.gov.uk/ssi/2007/457/regulation/2)
 
-[^key-2b599ee3c73c03607f3501efa0d6e4eb]: Textual amendment: Sch. 3 para. 13 and cross-heading inserted (1.2.2008) by [Licensing (Mandatory Conditions No.2) (Scotland) Regulations 2007 (S.S.I. 2007/546)](https://www.legislation.gov.uk/ssi/2007/546), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/546/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2007/546/regulation/3)
+[^c-2b599ee3c73c03607f3501efa0d6e4eb]: Textual amendment: Sch. 3 para. 13 and cross-heading inserted (1.2.2008) by [Licensing (Mandatory Conditions No.2) (Scotland) Regulations 2007 (S.S.I. 2007/546)](https://www.legislation.gov.uk/ssi/2007/546), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/546/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2007/546/regulation/3)
 
 [^M_F_1e67c6c6-c06c-472d-abe1-449aff97fcd5]: Textual amendment: Words in Sch. 3 para. 13 crossheading added (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), ss. 5(2), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-183b63f5006e5b957b7007b73e64b57f]: Textual amendment: Words in Sch. 3 para. 13(1) substituted (24.6.2009) by [The Licensing (Mandatory Conditions) (Scotland) Regulations 2009 (S.S.I. 2009/270)](https://www.legislation.gov.uk/ssi/2009/270), [regs. 1](https://www.legislation.gov.uk/ssi/2009/270/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/270/regulation/2/2)
+[^c-183b63f5006e5b957b7007b73e64b57f]: Textual amendment: Words in Sch. 3 para. 13(1) substituted (24.6.2009) by [The Licensing (Mandatory Conditions) (Scotland) Regulations 2009 (S.S.I. 2009/270)](https://www.legislation.gov.uk/ssi/2009/270), [regs. 1](https://www.legislation.gov.uk/ssi/2009/270/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/270/regulation/2/2)
 
-[^key-8a1628f8172cfda5705b0226042534b8]: Textual amendment: Sch. 3 para. 13(1A)-(1D) inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 5(3)](https://www.legislation.gov.uk/asp/2010/18/section/5/3), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-8a1628f8172cfda5705b0226042534b8]: Textual amendment: Sch. 3 para. 13(1A)-(1D) inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 5(3)](https://www.legislation.gov.uk/asp/2010/18/section/5/3), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-a1640c035a451b83f0d49a2a73782446]: Textual amendment: Word in Sch. 3 para. 13(2) omitted (1.10.2011) by virtue of [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 5(4)(a)](https://www.legislation.gov.uk/asp/2010/18/section/5/4/a), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-a1640c035a451b83f0d49a2a73782446]: Textual amendment: Word in Sch. 3 para. 13(2) omitted (1.10.2011) by virtue of [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 5(4)(a)](https://www.legislation.gov.uk/asp/2010/18/section/5/4/a), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-db7f2d1aceca0f9e46370eb34873388b]: Textual amendment: Sch. 3 para. 13(2)(c)(d) added (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 5(4)(b)](https://www.legislation.gov.uk/asp/2010/18/section/5/4/b), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-db7f2d1aceca0f9e46370eb34873388b]: Textual amendment: Sch. 3 para. 13(2)(c)(d) added (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 5(4)(b)](https://www.legislation.gov.uk/asp/2010/18/section/5/4/b), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-aecd88cd129aa4119ba34f3d5ace309c]: Textual amendment: Sch. 3 para. 13(2A) inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 5(4)(c)](https://www.legislation.gov.uk/asp/2010/18/section/5/4/c), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-aecd88cd129aa4119ba34f3d5ace309c]: Textual amendment: Sch. 3 para. 13(2A) inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 5(4)(c)](https://www.legislation.gov.uk/asp/2010/18/section/5/4/c), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-7fbdb6a4cbbe1b26a098488c83d71762]: Textual amendment: Sch. 3 para. 13(3) inserted (24.6.2009) by [The Licensing (Mandatory Conditions) (Scotland) Regulations 2009 (S.S.I. 2009/270)](https://www.legislation.gov.uk/ssi/2009/270), [regs. 1](https://www.legislation.gov.uk/ssi/2009/270/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2009/270/regulation/2/3)
+[^c-7fbdb6a4cbbe1b26a098488c83d71762]: Textual amendment: Sch. 3 para. 13(3) inserted (24.6.2009) by [The Licensing (Mandatory Conditions) (Scotland) Regulations 2009 (S.S.I. 2009/270)](https://www.legislation.gov.uk/ssi/2009/270), [regs. 1](https://www.legislation.gov.uk/ssi/2009/270/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2009/270/regulation/2/3)
 
-[^key-1ba7f44be8bcc40ca1f3683844cd129f]: Textual amendment: Sch. 3 para. 13(4) added (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 5(5)](https://www.legislation.gov.uk/asp/2010/18/section/5/5), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-1ba7f44be8bcc40ca1f3683844cd129f]: Textual amendment: Sch. 3 para. 13(4) added (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 5(5)](https://www.legislation.gov.uk/asp/2010/18/section/5/5), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)

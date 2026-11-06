@@ -58,7 +58,7 @@ summary: ''
 
 (6B) The provisions referred to in subsection (6A) above are—
 
-- (a)[^key-6bdf65aec7f56e6ebb1436625906b48a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6bdf65aec7f56e6ebb1436625906b48a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) Part 2 of the Public Audit (Wales) Act 2004, except sections 25, 26, 46 to 49 and 56.
 
 (7) This section shall have effect subject to sections 5 to 9 of this Act [^c14015731]. . ..
@@ -83,6 +83,6 @@ summary: ''
 
 [^c14015691]: Textual amendment: S. 2(6A) inserted (28.7.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 42](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/42) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 2](https://www.legislation.gov.uk/uksi/1995/1983/article/2)
 
-[^key-6bdf65aec7f56e6ebb1436625906b48a]: Textual amendment: [S. 2(6B)(a)](https://www.legislation.gov.uk/ukpga/1990/8/section/2/6B/a) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/25); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-6bdf65aec7f56e6ebb1436625906b48a]: Textual amendment: [S. 2(6B)(a)](https://www.legislation.gov.uk/ukpga/1990/8/section/2/6B/a) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/25); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
 [^c14015731]: Textual amendment: Words in s. 2(7) repealed (1.4.1997) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/2560](https://www.legislation.gov.uk/uksi/1996/2560), [art. 2](https://www.legislation.gov.uk/uksi/1996/2560/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2560/schedule)

@@ -51,7 +51,7 @@ Section 6.
 
 (4) A scheme may not identify for exclusion from transfer under section 6(4) above any property, rights or liabilities of a branch of the registered society which are referable only to an activity of the branch which a branch of the incorporated society would (by virtue of section 7(5) above) be unable to carry on on its own behalf.
 
-(5) On making a scheme the registered society shall send to the FCA[^key-1bd6dabd2b6d584792baf597e593a330]—
+(5) On making a scheme the registered society shall send to the FCA[^c-1bd6dabd2b6d584792baf597e593a330]—
 
 - (a) 4 copies of the scheme, each signed by the secretary;
 - (b) a statutory declaration by the secretary that the scheme was duly approved by the society;
@@ -162,12 +162,12 @@ but paragraphs (a) and (b) above are without prejudice to anything done after in
 
 (4) The Public Trustee shall, if he held property on trust for the registered society immediately before its incorporation, deliver to the incorporated society any property so held by him and any documents relating to it.
 
-(4A)[^key-11324a3dcbd46ac82d743945522cc5fa] A person required by this paragraph to deliver a document does not satisfy the requirement by sending the document in an electronic form except in so far as the document is held by that person in that electronic form.
+(4A)[^c-11324a3dcbd46ac82d743945522cc5fa] A person required by this paragraph to deliver a document does not satisfy the requirement by sending the document in an electronic form except in so far as the document is held by that person in that electronic form.
 
 (5) Nothing in this Act shall have effect to relieve the former trustees or treasurer of a registered friendly society or branch or the Public Trustee from any liability arising from acts or omissions before the incorporation of the society.
 
 ## Annotations
 
-[^key-1bd6dabd2b6d584792baf597e593a330]: Textual amendment: Word in [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/1992/40/schedule/4/paragraph/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 52](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/52) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-1bd6dabd2b6d584792baf597e593a330]: Textual amendment: Word in [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/1992/40/schedule/4/paragraph/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 52](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/52) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-11324a3dcbd46ac82d743945522cc5fa]: Textual amendment: [Sch. 4 para. 12(4A)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/4/paragraph/12/4A) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [12](https://www.legislation.gov.uk/uksi/2011/593/article/12)
+[^c-11324a3dcbd46ac82d743945522cc5fa]: Textual amendment: [Sch. 4 para. 12(4A)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/4/paragraph/12/4A) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [12](https://www.legislation.gov.uk/uksi/2011/593/article/12)

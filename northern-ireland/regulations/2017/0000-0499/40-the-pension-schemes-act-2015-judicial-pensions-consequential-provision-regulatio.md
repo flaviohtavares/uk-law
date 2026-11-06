@@ -32,7 +32,7 @@ summary: ''
 
 Public Service Pensions
 
-The Pension Schemes Act 2015 (Judicial Pensions) (Consequential Provision) Regulations (Northern Ireland) 2017 (revoked)[^key-fa6706dc4584ce9c719337b0cc8df029]
+The Pension Schemes Act 2015 (Judicial Pensions) (Consequential Provision) Regulations (Northern Ireland) 2017 (revoked)[^c-fa6706dc4584ce9c719337b0cc8df029]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 23rd February 2017
 
-[^key-fa6706dc4584ce9c719337b0cc8df029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa6706dc4584ce9c719337b0cc8df029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fa6706dc4584ce9c719337b0cc8df029]
+## 1. Citation and commencement[^c-fa6706dc4584ce9c719337b0cc8df029]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Provision consequential on section 78 of the Pension Schemes Act 2015[^key-fa6706dc4584ce9c719337b0cc8df029]
+## 2. Provision consequential on section 78 of the Pension Schemes Act 2015[^c-fa6706dc4584ce9c719337b0cc8df029]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa6706dc4584ce9c719337b0cc8df029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa6706dc4584ce9c719337b0cc8df029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fa6706dc4584ce9c719337b0cc8df029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa6706dc4584ce9c719337b0cc8df029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fa6706dc4584ce9c719337b0cc8df029]: Textual amendment: Regulations revoked (21.8.2017) by [The Pension Schemes Act 2015 (Judicial Pensions) (Consequential Provision No. 2) Regulations (NorthernIreland)2017 (S.R. 2017/158)](https://www.legislation.gov.uk/nisr/2017/158), [regs. 1](https://www.legislation.gov.uk/nisr/2017/158/regulation/1), [3](https://www.legislation.gov.uk/nisr/2017/158/regulation/3)
+[^c-fa6706dc4584ce9c719337b0cc8df029]: Textual amendment: Regulations revoked (21.8.2017) by [The Pension Schemes Act 2015 (Judicial Pensions) (Consequential Provision No. 2) Regulations (NorthernIreland)2017 (S.R. 2017/158)](https://www.legislation.gov.uk/nisr/2017/158), [regs. 1](https://www.legislation.gov.uk/nisr/2017/158/regulation/1), [3](https://www.legislation.gov.uk/nisr/2017/158/regulation/3)

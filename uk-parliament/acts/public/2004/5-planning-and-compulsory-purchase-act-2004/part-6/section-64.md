@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Independent examination[^key-6e04de0acea0fb85a890311f0641fefb]
+## 64. Independent examination[^c-6e04de0acea0fb85a890311f0641fefb]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e04de0acea0fb85a890311f0641fefb]: Commencement: S. 64 in force at 5.10.2005 for specified purposes and 15.10.2005 in so far as not already in force by [S.I. 2005/2722](https://www.legislation.gov.uk/uksi/2005/2722), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2722/article/2/b)
+[^c-6e04de0acea0fb85a890311f0641fefb]: Commencement: S. 64 in force at 5.10.2005 for specified purposes and 15.10.2005 in so far as not already in force by [S.I. 2005/2722](https://www.legislation.gov.uk/uksi/2005/2722), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2722/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Variation of measures[^key-c34936cf06a2639a537b8486425c2c47][^key-d912c57f71926efb50dece45c950a786]
+## 48. Variation of measures[^c-c34936cf06a2639a537b8486425c2c47][^c-d912c57f71926efb50dece45c950a786]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ the power under subsection (1) or (2) may (in particular) be exercised in relati
 
 ## Annotations
 
-[^key-c34936cf06a2639a537b8486425c2c47]: Commencement: S. 48 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-c34936cf06a2639a537b8486425c2c47]: Commencement: S. 48 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-d912c57f71926efb50dece45c950a786]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/32/section/48) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-d912c57f71926efb50dece45c950a786]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/32/section/48) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

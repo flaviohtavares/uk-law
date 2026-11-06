@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Power to alter operating hours[^key-faa66a518f3a7b29ffc340ed2ec0584b]
+## 18. Power to alter operating hours[^c-faa66a518f3a7b29ffc340ed2ec0584b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-faa66a518f3a7b29ffc340ed2ec0584b]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2019/17/section/18) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-faa66a518f3a7b29ffc340ed2ec0584b]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2019/17/section/18) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

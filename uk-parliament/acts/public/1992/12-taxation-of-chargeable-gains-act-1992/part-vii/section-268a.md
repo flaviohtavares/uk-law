@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 268A. Victims of National-Socialist persecution[^key-fb4304e926d8668f252408ddab18ff11]
+## 268A. Victims of National-Socialist persecution[^c-fb4304e926d8668f252408ddab18ff11]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb4304e926d8668f252408ddab18ff11]: Textual amendment: S. 268A inserted (with effect in accordance with s. 64(8) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 64(4)](https://www.legislation.gov.uk/ukpga/2006/25/section/64/4) (with [s. 64(10)-(12)](https://www.legislation.gov.uk/ukpga/2006/25/section/64/10))
+[^c-fb4304e926d8668f252408ddab18ff11]: Textual amendment: S. 268A inserted (with effect in accordance with s. 64(8) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 64(4)](https://www.legislation.gov.uk/ukpga/2006/25/section/64/4) (with [s. 64(10)-(12)](https://www.legislation.gov.uk/ukpga/2006/25/section/64/10))

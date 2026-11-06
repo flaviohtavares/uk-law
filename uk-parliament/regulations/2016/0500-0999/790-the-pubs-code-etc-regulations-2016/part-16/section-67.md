@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Market rent only option: the MRO notice[^key-68a35043ea5a88fe0e939b65ed99baef]
+## 67. Market rent only option: the MRO notice[^c-68a35043ea5a88fe0e939b65ed99baef]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68a35043ea5a88fe0e939b65ed99baef]: Commencement: Reg. 67 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-68a35043ea5a88fe0e939b65ed99baef]: Commencement: Reg. 67 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

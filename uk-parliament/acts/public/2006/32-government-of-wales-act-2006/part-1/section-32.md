@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Participation by UK Ministers etc.[^key-16488265ac80f83c151340e6417fad80]
+## 32. Participation by UK Ministers etc.[^c-16488265ac80f83c151340e6417fad80]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16488265ac80f83c151340e6417fad80]: Textual amendment: S. 32 omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 15(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/15/a), [71(2)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/b) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
+[^c-16488265ac80f83c151340e6417fad80]: Textual amendment: S. 32 omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 15(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/15/a), [71(2)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/b) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))

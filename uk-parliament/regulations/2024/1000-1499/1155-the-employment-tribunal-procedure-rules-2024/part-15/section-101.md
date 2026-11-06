@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 101. Information to the Commission for Equality and Human Rights[^key-c1b23ae2a38f703fbd718881bae7e398]
+## 101. Information to the Commission for Equality and Human Rights[^c-c1b23ae2a38f703fbd718881bae7e398]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1b23ae2a38f703fbd718881bae7e398]: Commencement: [Rule 101](https://www.legislation.gov.uk/uksi/2024/1155/rule/101) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-c1b23ae2a38f703fbd718881bae7e398]: Commencement: [Rule 101](https://www.legislation.gov.uk/uksi/2024/1155/rule/101) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00043]: Footnote: Sections 120 and 127 were amended by the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), Schedule 9, Part 3, paragraph 52. Section 120 was also amended by the Worker Protection (Amendment of Equality Act 2010) Act [2023 (c. 51)](https://www.legislation.gov.uk/ukpga/2023/51), section 2 and [S.I. 2023/1425](https://www.legislation.gov.uk/uksi/2023/1425). Section 127 was also amended by the Armed Forces (Service Complaints and Financial Assistance) Act [2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), paragraph 14 of the Schedule.

@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-Milk and Milk Products (Pupils in Educational Establishments) Regulations (Northern Ireland) 2001 (revoked)[^key-6408c0ad556fc61b2db14dd8a8f713b6]
+Milk and Milk Products (Pupils in Educational Establishments) Regulations (Northern Ireland) 2001 (revoked)[^c-6408c0ad556fc61b2db14dd8a8f713b6]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 24th April 2001
 
-[^key-6408c0ad556fc61b2db14dd8a8f713b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6408c0ad556fc61b2db14dd8a8f713b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6408c0ad556fc61b2db14dd8a8f713b6]
+## 1. Citation and commencement[^c-6408c0ad556fc61b2db14dd8a8f713b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6408c0ad556fc61b2db14dd8a8f713b6]
+## 2. Interpretation[^c-6408c0ad556fc61b2db14dd8a8f713b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Additional payments under Article 14(2) of Regulation 1255/1999[^key-6408c0ad556fc61b2db14dd8a8f713b6]
+## 3. Additional payments under Article 14(2) of Regulation 1255/1999[^c-6408c0ad556fc61b2db14dd8a8f713b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Withholding or recovery[^key-6408c0ad556fc61b2db14dd8a8f713b6]
+## 4. Withholding or recovery[^c-6408c0ad556fc61b2db14dd8a8f713b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6408c0ad556fc61b2db14dd8a8f713b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6408c0ad556fc61b2db14dd8a8f713b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6408c0ad556fc61b2db14dd8a8f713b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6408c0ad556fc61b2db14dd8a8f713b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6408c0ad556fc61b2db14dd8a8f713b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6408c0ad556fc61b2db14dd8a8f713b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6408c0ad556fc61b2db14dd8a8f713b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/129) revoked (25.8.2008) by [Milk and Milk Products (Pupils in Educational Establishments) Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/323)](https://www.legislation.gov.uk/nisr/2008/323), [regs. 1](https://www.legislation.gov.uk/nisr/2008/323/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/323/regulation/5)
+[^c-6408c0ad556fc61b2db14dd8a8f713b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/129) revoked (25.8.2008) by [Milk and Milk Products (Pupils in Educational Establishments) Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/323)](https://www.legislation.gov.uk/nisr/2008/323), [regs. 1](https://www.legislation.gov.uk/nisr/2008/323/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/323/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 181. Preliminary[^key-86c9b8df861e640742802fac9723b3fd]
+## 181. Preliminary[^c-86c9b8df861e640742802fac9723b3fd]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.226 of the 1986 Rules. In paragraph (c), leave out the words from â
 
 ## Annotations
 
-[^key-86c9b8df861e640742802fac9723b3fd]: Commencement: Rule 181 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-86c9b8df861e640742802fac9723b3fd]: Commencement: Rule 181 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00063]: Footnote: The words left out were inserted by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

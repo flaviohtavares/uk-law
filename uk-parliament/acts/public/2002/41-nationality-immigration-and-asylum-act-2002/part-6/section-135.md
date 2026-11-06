@@ -28,9 +28,9 @@ summary: ''
 
 (2) In this section “**financial institution**” means—
 
-- (a) a person who has permission under Part 4A[^key-f41b9792cdb1c6b6c89d7af7af2e85fa] of the Financial Services and Markets Act 2000 (c. 8) to accept deposits, and
+- (a) a person who has permission under Part 4A[^c-f41b9792cdb1c6b6c89d7af7af2e85fa] of the Financial Services and Markets Act 2000 (c. 8) to accept deposits, and
 - (b) a building society (within the meaning given by the Building Societies Act 1986 (c. 53)).
 
 ## Annotations
 
-[^key-f41b9792cdb1c6b6c89d7af7af2e85fa]: Textual amendment: Words in s. 135(2)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 96](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/96) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-f41b9792cdb1c6b6c89d7af7af2e85fa]: Textual amendment: Words in s. 135(2)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 96](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/96) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

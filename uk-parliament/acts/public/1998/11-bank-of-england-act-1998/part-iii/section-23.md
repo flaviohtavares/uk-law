@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^c1119794] Schedule 5 (amendments of primary, and other principal, legislation consequential on the transfer of functions by section 21) shall have effect.
 
-(2)[^key-c7daa33d8661b9e13c41e10311ff4c44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c7daa33d8661b9e13c41e10311ff4c44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) If a reference in a relevant provision to the Bank is predicated on the continuing exercise by the Bank of any of the transferred functions, it shall, in relation to any time after the coming into force of this Act, have effect as a reference to the Authority.
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c1119794]: Textual amendment: S. 23(1) repealed (for specified purposes) (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [162(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/162/b)
 
-[^key-c7daa33d8661b9e13c41e10311ff4c44]: Textual amendment: S. 23(2) omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 85(3)(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/85/3/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-c7daa33d8661b9e13c41e10311ff4c44]: Textual amendment: S. 23(2) omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 85(3)(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/85/3/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

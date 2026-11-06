@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Proceedings for questioning certain decisions on consents[^key-a7d45f114f17fbafa4c070e49d4d533c]
+## 21. Proceedings for questioning certain decisions on consents[^c-a7d45f114f17fbafa4c070e49d4d533c]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7d45f114f17fbafa4c070e49d4d533c]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2025/34/section/21) in force at 18.2.2026, see [s. 118(1)(i)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/i)
+[^c-a7d45f114f17fbafa4c070e49d4d533c]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2025/34/section/21) in force at 18.2.2026, see [s. 118(1)(i)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/i)

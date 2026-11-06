@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Meaning of “permanent breakdown in health”[^key-9b58443f3485dd98cd832e7e49b30e41]
+## 70. Meaning of “permanent breakdown in health”[^c-9b58443f3485dd98cd832e7e49b30e41]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purpose of these Regulations, a member’s breakdown in health is “per
 
 ## Annotations
 
-[^key-9b58443f3485dd98cd832e7e49b30e41]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2014/1964/regulation/70) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-9b58443f3485dd98cd832e7e49b30e41]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2014/1964/regulation/70) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

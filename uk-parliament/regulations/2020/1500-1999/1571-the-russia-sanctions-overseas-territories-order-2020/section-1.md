@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, commencement and extent[^key-958dbbba6a8a445abdb584f37fa32fda]
+## 1. Citation, commencement and extent[^c-958dbbba6a8a445abdb584f37fa32fda]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-958dbbba6a8a445abdb584f37fa32fda]: Commencement: Art. 1 comes into force in accordance with art. 1(1)
+[^c-958dbbba6a8a445abdb584f37fa32fda]: Commencement: Art. 1 comes into force in accordance with art. 1(1)
 
 [^c24388461]: Marginal citation: [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Temporary borrowing powers[^key-c5f642e1f9a22abc986848d6bff409ca]
+## 41. Temporary borrowing powers[^c-c5f642e1f9a22abc986848d6bff409ca]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Commissioners may borrow temporarily, by way of overdraft or otherwise, such
 
 ## Annotations
 
-[^key-c5f642e1f9a22abc986848d6bff409ca]: Commencement: Art. 41 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-c5f642e1f9a22abc986848d6bff409ca]: Commencement: Art. 41 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

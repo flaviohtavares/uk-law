@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Financial penalties[^key-de5bedfd67fdf10b0e80ac65c674641f]
+## 66. Financial penalties[^c-de5bedfd67fdf10b0e80ac65c674641f]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de5bedfd67fdf10b0e80ac65c674641f]: Commencement: S. 66 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-de5bedfd67fdf10b0e80ac65c674641f]: Commencement: S. 66 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 165. Entitlement for less than a week – amount of an employment and support allowance payable[^key-147aaa718b71b40d5d675294bae857ba]
+## 165. Entitlement for less than a week – amount of an employment and support allowance payable[^c-147aaa718b71b40d5d675294bae857ba]
 
 *Extent: N.I.*
 
@@ -63,7 +63,7 @@ the amount calculated in accordance with section 2(1) of the Act;
 
 Y
 
-the amount of any widow’s benefit, widowed parent’s allowance, bereavement support payment under section 29 of the Pensions Act (Northern Ireland) 2015 (bereavement support payment)[^key-230c5c818f3ff8964e7a5e76e0c0a931] , training allowance, carer’s allowance , carer support payment[^key-dec2c57a3f78321732372043dabe91ca] and any increase in disablement pension payable in accordance with Part 1 of Schedule 7 to the Contributions and Benefits Act (unemployability supplement) payable in respect of any day in the part-week;
+the amount of any widow’s benefit, widowed parent’s allowance, bereavement support payment under section 29 of the Pensions Act (Northern Ireland) 2015 (bereavement support payment)[^c-230c5c818f3ff8964e7a5e76e0c0a931] , training allowance, carer’s allowance , carer support payment[^c-dec2c57a3f78321732372043dabe91ca] and any increase in disablement pension payable in accordance with Part 1 of Schedule 7 to the Contributions and Benefits Act (unemployability supplement) payable in respect of any day in the part-week;
 
 N
 
@@ -76,8 +76,8 @@ the number of days in the part-week.
 
 ## Annotations
 
-[^key-147aaa718b71b40d5d675294bae857ba]: Commencement: [Reg. 165](https://www.legislation.gov.uk/nisr/2008/280/regulation/165) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-147aaa718b71b40d5d675294bae857ba]: Commencement: [Reg. 165](https://www.legislation.gov.uk/nisr/2008/280/regulation/165) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-230c5c818f3ff8964e7a5e76e0c0a931]: Textual amendment: Words in [reg. 165(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/165/3) substituted (6.4.2017) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2017 (S.R. 2017/66)](https://www.legislation.gov.uk/nisr/2017/66), [arts. 1(2)(c)](https://www.legislation.gov.uk/nisr/2017/66/article/1/2/c), [25(2)](https://www.legislation.gov.uk/nisr/2017/66/article/25/2) (with [arts. 2](https://www.legislation.gov.uk/nisr/2017/66/article/2), [3](https://www.legislation.gov.uk/nisr/2017/66/article/3))
+[^c-230c5c818f3ff8964e7a5e76e0c0a931]: Textual amendment: Words in [reg. 165(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/165/3) substituted (6.4.2017) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2017 (S.R. 2017/66)](https://www.legislation.gov.uk/nisr/2017/66), [arts. 1(2)(c)](https://www.legislation.gov.uk/nisr/2017/66/article/1/2/c), [25(2)](https://www.legislation.gov.uk/nisr/2017/66/article/25/2) (with [arts. 2](https://www.legislation.gov.uk/nisr/2017/66/article/2), [3](https://www.legislation.gov.uk/nisr/2017/66/article/3))
 
-[^key-dec2c57a3f78321732372043dabe91ca]: Textual amendment: Words in [reg. 165(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/165/3) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [44(5)](https://www.legislation.gov.uk/uksi/2023/1218/article/44/5)
+[^c-dec2c57a3f78321732372043dabe91ca]: Textual amendment: Words in [reg. 165(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/165/3) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [44(5)](https://www.legislation.gov.uk/uksi/2023/1218/article/44/5)

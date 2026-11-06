@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — FREQUENCY BANDS FOR EXISTING SPECTRUM HOLDINGS AND SPECTRUM CAP RULE[^key-9d220c85ebb90bf55324c48d5c2dd8b0]
+## SCHEDULE 3 — FREQUENCY BANDS FOR EXISTING SPECTRUM HOLDINGS AND SPECTRUM CAP RULE[^c-9d220c85ebb90bf55324c48d5c2dd8b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ List B
 
 ## Annotations
 
-[^key-9d220c85ebb90bf55324c48d5c2dd8b0]: Commencement: Sch. 3 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-9d220c85ebb90bf55324c48d5c2dd8b0]: Commencement: Sch. 3 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

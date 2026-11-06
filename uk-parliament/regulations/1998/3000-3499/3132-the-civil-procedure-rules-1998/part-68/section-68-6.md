@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68.6. References on assimilated case law by law officers under section 6B of the Act[^key-d395b6a9399799065b99ecd5c10f97e4]
+## 68.6. References on assimilated case law by law officers under section 6B of the Act[^c-d395b6a9399799065b99ecd5c10f97e4]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d395b6a9399799065b99ecd5c10f97e4]: Textual amendment: Pt. 68 inserted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/839/schedule)
+[^c-d395b6a9399799065b99ecd5c10f97e4]: Textual amendment: Pt. 68 inserted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/839/schedule)

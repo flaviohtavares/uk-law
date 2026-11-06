@@ -41,7 +41,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on them by sections 5 and 47(1) and (2) of the Education (Wales) Act 2014[^f00001], having consulted such persons as they consider appropriate make the following Order:
 
-## 1. Title, commencement, application and revocation[^key-c06febcbd115b2d60b1979e211195088]
+## 1. Title, commencement, application and revocation[^c-c06febcbd115b2d60b1979e211195088]
 
 (1) The title of this Order is the Education Workforce Council (Additional Functions and Revocation) (Wales) Order 2015 and it comes into force on 1 April 2015.
 
@@ -49,17 +49,17 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 5 a
 
 (3) The Orders set out in the Schedule are revoked.
 
-## 2. Interpretation[^key-ea1451cbb8191755e47d3d566f502a1a]
+## 2. Interpretation[^c-ea1451cbb8191755e47d3d566f502a1a]
 
 In this Order—
 
-- [^key-6512456cd3cb5a1990527cd3be6ec875]...
-- the Regulations means “the European Union (Recognition of Professional Qualifications) Regulations 2015”;[^key-280d57790ba39f2fa2c628af87c8c78a] and
+- [^c-6512456cd3cb5a1990527cd3be6ec875]...
+- the Regulations means “the European Union (Recognition of Professional Qualifications) Regulations 2015”;[^c-280d57790ba39f2fa2c628af87c8c78a] and
 - “relevant state” (“*gwladwriaeth berthnasol*”) means an EEA state or Switzerland.
 
-## 3. Additional Functions[^key-8e9b363346d04b68e1048a758d3c11fc]
+## 3. Additional Functions[^c-8e9b363346d04b68e1048a758d3c11fc]
 
-(1) The Education Workforce Council, having been specified as a competent authority in accordance with the Regulations, is to have the function of considering applications and granting authorisations to practice the profession of school teacher in Wales [^key-f54f80ad2532e6f59519668e46bbb5c1]....
+(1) The Education Workforce Council, having been specified as a competent authority in accordance with the Regulations, is to have the function of considering applications and granting authorisations to practice the profession of school teacher in Wales [^c-f54f80ad2532e6f59519668e46bbb5c1]....
 
 (2) The Council is to give advice and information to the public about the requirements for recognition in Wales of teaching qualifications obtained in a relevant state.
 
@@ -67,7 +67,7 @@ Huw Lewis
 
 Minister for Education and Skills, one of the Welsh Ministers
 
-## SCHEDULE — ORDERS REVOKED[^key-c21e11a0ff50b862e7723646230091d5]
+## SCHEDULE — ORDERS REVOKED[^c-c21e11a0ff50b862e7723646230091d5]
 
 Article 1
 
@@ -98,16 +98,16 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2014 anaw 5](https://www.legislation.gov.uk/anaw/2014/5).
 
-[^key-c06febcbd115b2d60b1979e211195088]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2015/194/article/1) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/194/article/1/1)
+[^c-c06febcbd115b2d60b1979e211195088]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2015/194/article/1) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/194/article/1/1)
 
-[^key-ea1451cbb8191755e47d3d566f502a1a]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2015/194/article/2) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/194/article/1/1)
+[^c-ea1451cbb8191755e47d3d566f502a1a]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2015/194/article/2) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/194/article/1/1)
 
-[^key-6512456cd3cb5a1990527cd3be6ec875]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2015/194/article/2) omitted (31.12.2020) by virtue of [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/wsi/2019/444/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6512456cd3cb5a1990527cd3be6ec875]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2015/194/article/2) omitted (31.12.2020) by virtue of [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/wsi/2019/444/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-280d57790ba39f2fa2c628af87c8c78a]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2015/194/article/2) substituted (31.12.2020) by [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/wsi/2019/444/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-280d57790ba39f2fa2c628af87c8c78a]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2015/194/article/2) substituted (31.12.2020) by [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/wsi/2019/444/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e9b363346d04b68e1048a758d3c11fc]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2015/194/article/3) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/194/article/1/1)
+[^c-8e9b363346d04b68e1048a758d3c11fc]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2015/194/article/3) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/194/article/1/1)
 
-[^key-f54f80ad2532e6f59519668e46bbb5c1]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/wsi/2015/194/article/3/1) omitted (31.12.2020) by virtue of [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [5(3)](https://www.legislation.gov.uk/wsi/2019/444/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f54f80ad2532e6f59519668e46bbb5c1]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/wsi/2015/194/article/3/1) omitted (31.12.2020) by virtue of [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [5(3)](https://www.legislation.gov.uk/wsi/2019/444/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c21e11a0ff50b862e7723646230091d5]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2015/194/schedule) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/194/article/1/1)
+[^c-c21e11a0ff50b862e7723646230091d5]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2015/194/schedule) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/194/article/1/1)

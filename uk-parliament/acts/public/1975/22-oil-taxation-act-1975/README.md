@@ -35,7 +35,7 @@ An Act to impose a new tax in respect of profits from substances won or capable 
 
 ## Contents
 
-### PART I — PETROLEUM REVENUE TAX[^M_C_b6b8f5d0-b530-4bf9-a9d9-0a8debdbf345][^M_C_91e8e708-6b21-4c62-8a08-dbe46b0c390a][^key-e7a7dd17d318f903d47b3cc1a2565715]
+### PART I — PETROLEUM REVENUE TAX[^M_C_b6b8f5d0-b530-4bf9-a9d9-0a8debdbf345][^M_C_91e8e708-6b21-4c62-8a08-dbe46b0c390a][^c-e7a7dd17d318f903d47b3cc1a2565715]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ An Act to impose a new tax in respect of profits from substances won or capable 
 
 - [Section 13–19 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-13-19.md)
 
-### Part III — Miscellaneous and General[^c10744651][^key-e7a7dd17d318f903d47b3cc1a2565715]
+### Part III — Miscellaneous and General[^c10744651][^c-e7a7dd17d318f903d47b3cc1a2565715]
 
 - [Section 20 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-20.md)
 - [Section 21 — Citation, interpretation and construction.](part-iii/section-21.md)
@@ -95,7 +95,7 @@ SCHEDULES
 
 [^M_C_91e8e708-6b21-4c62-8a08-dbe46b0c390a]: Modification: Pt I applied (6.3.1992 with effect as mentioned in [s. 289(1)(2)](https://www.legislation.gov.uk/ukpga/1992/12/section/289/1/2) of the amending Act) by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [ss. 199(7)(c)](https://www.legislation.gov.uk/ukpga/1992/12/section/199/7/c), 276(5), [289](https://www.legislation.gov.uk/ukpga/1992/12/section/289) (with [ss. 60](https://www.legislation.gov.uk/ukpga/1992/12/section/60), [101(1)](https://www.legislation.gov.uk/ukpga/1992/12/section/101/1), [171](https://www.legislation.gov.uk/ukpga/1992/12/section/171), [201(3)](https://www.legislation.gov.uk/ukpga/1992/12/section/201/3)).
 
-[^key-e7a7dd17d318f903d47b3cc1a2565715]: Modification: Pts. I III modified by [Oil Taxation Act 1983 (c. 56)](https://www.legislation.gov.uk/ukpga/1983/56), [s. 6A](https://www.legislation.gov.uk/ukpga/1983/56/section/6A) (as inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 285(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/285/3))
+[^c-e7a7dd17d318f903d47b3cc1a2565715]: Modification: Pts. I III modified by [Oil Taxation Act 1983 (c. 56)](https://www.legislation.gov.uk/ukpga/1983/56), [s. 6A](https://www.legislation.gov.uk/ukpga/1983/56/section/6A) (as inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 285(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/285/3))
 
 [^c10744651]: Modification: Part III (s. 21) modified (27.7.1993) by Finance Act [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), [ss. 191(1)(2)](https://www.legislation.gov.uk/ukpga/1993/34/section/191/1/2), [195(1)](https://www.legislation.gov.uk/ukpga/1993/34/section/195/1)
 

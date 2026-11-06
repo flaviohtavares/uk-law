@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Payable age in salary-related contracted-out schemes.[^key-7373901ae7c3a36226d0aa31b3fc14d6]
+## 21. Payable age in salary-related contracted-out schemes.[^c-7373901ae7c3a36226d0aa31b3fc14d6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7373901ae7c3a36226d0aa31b3fc14d6]: Textual amendment: Regs. 16-21 revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/b), [31(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/31/b)
+[^c-7373901ae7c3a36226d0aa31b3fc14d6]: Textual amendment: Regs. 16-21 revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/b), [31(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/31/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Proceedings for breach of an extended interdict[^key-5b097607489ae8b4c33ec0129d43330b]
+## 85. Proceedings for breach of an extended interdict[^c-5b097607489ae8b4c33ec0129d43330b]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b097607489ae8b4c33ec0129d43330b]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2014/18/section/85) in force at 28.11.2016 by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)
+[^c-5b097607489ae8b4c33ec0129d43330b]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2014/18/section/85) in force at 28.11.2016 by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)

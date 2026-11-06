@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 163. Forfeiture of lump sum death benefit: offences committed by other persons[^key-7a09c68888506c12547602ca31ed5be8]
+## 163. Forfeiture of lump sum death benefit: offences committed by other persons[^c-7a09c68888506c12547602ca31ed5be8]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a09c68888506c12547602ca31ed5be8]: Commencement: [Reg. 163](https://www.legislation.gov.uk/ssi/2015/19/regulation/163) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-7a09c68888506c12547602ca31ed5be8]: Commencement: [Reg. 163](https://www.legislation.gov.uk/ssi/2015/19/regulation/163) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

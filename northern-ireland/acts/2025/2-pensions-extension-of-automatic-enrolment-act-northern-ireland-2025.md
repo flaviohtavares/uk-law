@@ -35,7 +35,7 @@ An Act to make provision about the extension of pensions automatic enrolment to 
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by His Majesty as follows:
 
-## 1. Automatic enrolment: persons and earnings affected[^key-c78d228a8137ed673c0916b503114703]
+## 1. Automatic enrolment: persons and earnings affected[^c-c78d228a8137ed673c0916b503114703]
 
 **Not yet in force.**
 
@@ -70,7 +70,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (5) In section 112(4) (orders or regulations subject to the confirmatory procedure), in paragraph (a), after “section” insert “3(1A), 5(1C), 13A,”.
 
-## 2. Report on the operation of powers affecting age and qualifying earnings[^key-520a0d5dba552d396aae90db9743c387]
+## 2. Report on the operation of powers affecting age and qualifying earnings[^c-520a0d5dba552d396aae90db9743c387]
 
 **Not yet in force.**
 
@@ -78,7 +78,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (2) The report must be laid at least 36 months, and no more than 42 months, after the coming into operation of the first regulations made under any of section 3(1A), 5(1C) or 13A of that Act.
 
-## 3. Commencement and short title[^key-be5f15a49da6f5933707286c9dd10fee]
+## 3. Commencement and short title[^c-be5f15a49da6f5933707286c9dd10fee]
 
 (1) Sections 1 and 2 come into operation on such day or days as the Department for Communities may by order appoint.
 
@@ -88,8 +88,8 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Annotations
 
-[^key-c78d228a8137ed673c0916b503114703]: Commencement: S. 1 not in operation at Royal Assent, see [s. 3(1)](https://www.legislation.gov.uk/nia/2025/2/section/3/1)
+[^c-c78d228a8137ed673c0916b503114703]: Commencement: S. 1 not in operation at Royal Assent, see [s. 3(1)](https://www.legislation.gov.uk/nia/2025/2/section/3/1)
 
-[^key-520a0d5dba552d396aae90db9743c387]: Commencement: S. 2 not in operation at Royal Assent, see [s. 3(1)](https://www.legislation.gov.uk/nia/2025/2/section/3/1)
+[^c-520a0d5dba552d396aae90db9743c387]: Commencement: S. 2 not in operation at Royal Assent, see [s. 3(1)](https://www.legislation.gov.uk/nia/2025/2/section/3/1)
 
-[^key-be5f15a49da6f5933707286c9dd10fee]: Commencement: S. 3 in operation at 19.6.2025, see [s. 3(2)](https://www.legislation.gov.uk/nia/2025/2/section/3/2)
+[^c-be5f15a49da6f5933707286c9dd10fee]: Commencement: S. 3 in operation at 19.6.2025, see [s. 3(2)](https://www.legislation.gov.uk/nia/2025/2/section/3/2)

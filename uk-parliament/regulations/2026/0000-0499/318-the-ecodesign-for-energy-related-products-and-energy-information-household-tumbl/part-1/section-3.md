@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Key definitions[^key-06cdcf7816eeca51625bd915271f5e3b]
+## 3. Key definitions[^c-06cdcf7816eeca51625bd915271f5e3b]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
   - (c) to be equipped with an integral factory-finished face or to be fitted with a custom front panel;
 - “**condenser tumble dryer**” means a household tumble dryer that includes a system, using condensation or any other means, for removing moisture from the air used for the drying process;
 - “**ecodesign requirements**” means the requirements set out in regulation 5(1);
-- “[^key-95fc2c395a56b7ef82b89e6f317698ca]**the Framework Regulation**” means Regulation (EU) 2017/1369 of the European Parliament and of the Council setting a framework for Energy Labelling;
+- “[^c-95fc2c395a56b7ef82b89e6f317698ca]**the Framework Regulation**” means Regulation (EU) 2017/1369 of the European Parliament and of the Council setting a framework for Energy Labelling;
 - “**gas-fired household tumble dryer**” means a household tumble dryer which uses gas to heat the inside air;
 - “**household tumble dryer**” means a product—
   - (a) in which laundry is dried by tumbling in a rotating drum through which heated air is passed, and
@@ -41,11 +41,11 @@ summary: ''
 
 ## Annotations
 
-[^key-06cdcf7816eeca51625bd915271f5e3b]: Commencement: Reg. 3 in force at 10.4.2026, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/a)
+[^c-06cdcf7816eeca51625bd915271f5e3b]: Commencement: Reg. 3 in force at 10.4.2026, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/a)
 
 [^f00003]: Footnote: [S.I. 2010/2617](https://www.legislation.gov.uk/uksi/2010/2617/contents).
 
-[^key-95fc2c395a56b7ef82b89e6f317698ca]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/318/regulation/3/1) inserted (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2026/750/regulation/7)
+[^c-95fc2c395a56b7ef82b89e6f317698ca]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/318/regulation/3/1) inserted (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2026/750/regulation/7)
 
 [^f00004]: Footnote: [S.I. 2016/1101](https://www.legislation.gov.uk/uksi/2016/1101/contents).
 

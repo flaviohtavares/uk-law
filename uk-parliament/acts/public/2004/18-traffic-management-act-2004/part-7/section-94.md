@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Power to inspect blue badges[^key-5ac09dd9bccc58fd645d26500cfe2d15][^key-73caacb1b3848efce8bf7b44ee6aeac6]
+## 94. Power to inspect blue badges[^c-5ac09dd9bccc58fd645d26500cfe2d15][^c-73caacb1b3848efce8bf7b44ee6aeac6]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ac09dd9bccc58fd645d26500cfe2d15]: Commencement: S. 94 in force at 29.9.2006 for E. by [S.I. 2006/1736](https://www.legislation.gov.uk/uksi/2006/1736), [art. 2](https://www.legislation.gov.uk/uksi/2006/1736/article/2)
+[^c-5ac09dd9bccc58fd645d26500cfe2d15]: Commencement: S. 94 in force at 29.9.2006 for E. by [S.I. 2006/1736](https://www.legislation.gov.uk/uksi/2006/1736), [art. 2](https://www.legislation.gov.uk/uksi/2006/1736/article/2)
 
-[^key-73caacb1b3848efce8bf7b44ee6aeac6]: Commencement: S. 94 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/d)
+[^c-73caacb1b3848efce8bf7b44ee6aeac6]: Commencement: S. 94 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/d)

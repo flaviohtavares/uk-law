@@ -37,8 +37,8 @@ summary: ''
 - (a) find the total amount of the disposal values in the case of all such events (amount D), and
 - (b) taking later periods before earlier periods, reduce (but not below nil) amount E for any pre-commencement period by setting against it so much of amount D as does not fall to be set against amount E for a later pre-commencement period.
 
-(4)[^key-78b4d6cbc7ea220f32774c8d8cd38c8f] This section is subject to section 318A(5) (exclusion of deductible amounts in respect of pre-2013 expenditure when determining pre-commencement supplement for additional 4 periods).
+(4)[^c-78b4d6cbc7ea220f32774c8d8cd38c8f] This section is subject to section 318A(5) (exclusion of deductible amounts in respect of pre-2013 expenditure when determining pre-commencement supplement for additional 4 periods).
 
 ## Annotations
 
-[^key-78b4d6cbc7ea220f32774c8d8cd38c8f]: Textual amendment: S. 317(4) inserted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/6)
+[^c-78b4d6cbc7ea220f32774c8d8cd38c8f]: Textual amendment: S. 317(4) inserted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/6)

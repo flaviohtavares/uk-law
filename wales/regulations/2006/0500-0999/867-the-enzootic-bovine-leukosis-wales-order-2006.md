@@ -58,7 +58,7 @@ The National Assembly, in exercise of the powers conferred by sections 1, 6, 7(1
 - “**approved slaughterhouse**” (“***lladd-dy a gymeradwywyd***”) means a slaughterhouse approved by an officer for the slaughter of reactors;
 - “**bovine animal**” (“***anifail buchol***”) means a bull, cow, steer, heifer or calf;
 - “**carcase**” (“***carcas***”) means the carcase of a bovine animal and includes part of a carcase and the meat, bones, hide/skin, hooves, offal or other part of a bovine animal, separately or otherwise, or any portion thereof;
-- [^key-22f624e5a5b16ee4babbc7fbbea87efe]...
+- [^c-22f624e5a5b16ee4babbc7fbbea87efe]...
 - “**the National Assembly**” (“***y Cynulliad Cenedlaethol***”) means the National Assembly for Wales;
 - “**officer**” (“***swyddog***”) means a veterinary inspector or other officer of the National Assembly;
 - “**premises**” (“***mangre***”) includes land, with or without buildings;
@@ -78,21 +78,21 @@ The National Assembly, in exercise of the powers conferred by sections 1, 6, 7(1
 (1) A person who is in possession of or has control of an affected or suspected animal, or a veterinary surgeon who examines any such animal must with all practicable speed give notice of that fact to—
 
 - (a) an inspector of the local authority; or
-- (b) the Welsh Ministers[^key-8670a0b96c5183bb1a1e974dd94a876b].
+- (b) the Welsh Ministers[^c-8670a0b96c5183bb1a1e974dd94a876b].
 
-(2) Where notice under paragraph (1) of this article is given to an inspector of the local authority, the inspector must immediately inform the Welsh Ministers[^key-bc1b09023fcdd8209b629cec56f77cc6] responsible for that area.
+(2) Where notice under paragraph (1) of this article is given to an inspector of the local authority, the inspector must immediately inform the Welsh Ministers[^c-bc1b09023fcdd8209b629cec56f77cc6] responsible for that area.
 
 (3) A person who is in possession or in charge of an affected animal or a suspected animal must detain it on the premises where it is kept until it has been examined by a veterinary inspector.
 
 ## 4. Notification of disease in carcases
 
-(1) Any person who is in possession or in charge of the carcase of a bovine animal, showing signs of tumorous changes (other than haemangiomas, papillomas or warts) in the lymph nodes or any part thereof, must with all practicable speed, give notice of that fact to the Welsh Ministers[^key-11da6dbcbe8b100cb612708164a802db].
+(1) Any person who is in possession or in charge of the carcase of a bovine animal, showing signs of tumorous changes (other than haemangiomas, papillomas or warts) in the lymph nodes or any part thereof, must with all practicable speed, give notice of that fact to the Welsh Ministers[^c-11da6dbcbe8b100cb612708164a802db].
 
 (2) A person who is in possession or in charge of a carcase to which paragraph (1) of this article applies, must detain it on the premises where it is kept until it has been examined by a veterinary inspector or until a veterinary inspector has determined that an inspection is not required.
 
 ## 5. Notification of disease in laboratory samples
 
-(1) Subject to paragraph (2) below, where by reason of a laboratory examination of a sample taken from a bovine animal, evidence of the existence of enzootic bovine leukosis is identified, the person in charge of the laboratory must, within 24 hours, notify the Welsh Ministers[^key-ca6e62471a4656fd8a396767d9e41f1c], of that fact.
+(1) Subject to paragraph (2) below, where by reason of a laboratory examination of a sample taken from a bovine animal, evidence of the existence of enzootic bovine leukosis is identified, the person in charge of the laboratory must, within 24 hours, notify the Welsh Ministers[^c-ca6e62471a4656fd8a396767d9e41f1c], of that fact.
 
 (2) The obligation to give notification in paragraph (1) does not apply where enzootic bovine leukosis has been deliberately introduced into a laboratory sample.
 
@@ -257,17 +257,17 @@ A Regulatory Appraisal has been prepared and placed in the library of the Nation
 
 [^c15486101]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). As amended by the Animal Health Act 2002, c. 42. Functions under the 1981 Act now vested in the National Assembly by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) and [S.I. 2004/3044](https://www.legislation.gov.uk/uksi/2004/3044).
 
-[^key-22f624e5a5b16ee4babbc7fbbea87efe]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/wsi/2006/867/article/2/1) revoked (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2010/618/article/2/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/618/schedule/2)
+[^c-22f624e5a5b16ee4babbc7fbbea87efe]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/wsi/2006/867/article/2/1) revoked (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2010/618/article/2/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/618/schedule/2)
 
 [^c15486111]: Marginal citation: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36).
 
-[^key-8670a0b96c5183bb1a1e974dd94a876b]: Textual amendment: Words in [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2006/867/article/3/1/b) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
+[^c-8670a0b96c5183bb1a1e974dd94a876b]: Textual amendment: Words in [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2006/867/article/3/1/b) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
 
-[^key-bc1b09023fcdd8209b629cec56f77cc6]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/wsi/2006/867/article/3/2) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
+[^c-bc1b09023fcdd8209b629cec56f77cc6]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/wsi/2006/867/article/3/2) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
 
-[^key-11da6dbcbe8b100cb612708164a802db]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/wsi/2006/867/article/4/1) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [6(2)](https://www.legislation.gov.uk/wsi/2010/618/article/6/2)
+[^c-11da6dbcbe8b100cb612708164a802db]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/wsi/2006/867/article/4/1) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [6(2)](https://www.legislation.gov.uk/wsi/2010/618/article/6/2)
 
-[^key-ca6e62471a4656fd8a396767d9e41f1c]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/wsi/2006/867/article/5/1) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [6(3)](https://www.legislation.gov.uk/wsi/2010/618/article/6/3)
+[^c-ca6e62471a4656fd8a396767d9e41f1c]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/wsi/2006/867/article/5/1) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [6(3)](https://www.legislation.gov.uk/wsi/2010/618/article/6/3)
 
 [^c15486121]: Marginal citation: 1977/944.
 

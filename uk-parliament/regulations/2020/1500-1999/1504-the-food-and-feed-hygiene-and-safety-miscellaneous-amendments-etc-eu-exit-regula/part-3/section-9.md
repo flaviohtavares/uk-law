@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Amendment of the Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019[^key-9102dbba90b5bff69f219be78100d50f]
+## 9. Amendment of the Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019[^c-9102dbba90b5bff69f219be78100d50f]
 
 *Extent: E+W+S*
 
@@ -168,7 +168,7 @@ summary: ''
 >
 > In Article 1(3), omit “in a Member States,”.
 >
-> **51C.[^key-4a10dfc80f98d502860c29d01ea82d05]**
+> **51C.[^c-4a10dfc80f98d502860c29d01ea82d05]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -187,7 +187,7 @@ summary: ''
 >   > When carcasses and meat of domestic swine are exempt from Trichinella examination pursuant to a derogation under Article 3(3), the competent authority must collect the information referred to in Chapter 2 of Annex 4 and must maintain a list of holdings and compartments to which the derogation applies.
 >
 >   .
-> - (c)[^key-f5217d25ae5b012c572d542ad7c5c027] in paragraph 5(a)(iii), for “the territory of the Member State” substitute “Great Britain”.
+> - (c)[^c-f5217d25ae5b012c572d542ad7c5c027] in paragraph 5(a)(iii), for “the territory of the Member State” substitute “Great Britain”.
 >
 > **51E.**
 >
@@ -310,7 +310,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9102dbba90b5bff69f219be78100d50f]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
+[^c-9102dbba90b5bff69f219be78100d50f]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
 
 [^c24375431]: Marginal citation: [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640).
 
@@ -318,6 +318,6 @@ summary: ''
 
 [^c24375451]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-4a10dfc80f98d502860c29d01ea82d05]: Textual amendment: Words in [reg. 9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/7/2/a)
+[^c-4a10dfc80f98d502860c29d01ea82d05]: Textual amendment: Words in [reg. 9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/7/2/a)
 
-[^key-f5217d25ae5b012c572d542ad7c5c027]: Textual amendment: Words in [reg. 9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14) inserted (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/7/2/b)
+[^c-f5217d25ae5b012c572d542ad7c5c027]: Textual amendment: Words in [reg. 9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14) inserted (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/7/2/b)

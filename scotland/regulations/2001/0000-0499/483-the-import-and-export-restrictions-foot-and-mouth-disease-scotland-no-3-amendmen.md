@@ -33,7 +33,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Amendment (No. 2) Regulations 2001 (revoked)[^key-86421ee5768b1ab5cd36d98d10844f02]
+The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Amendment (No. 2) Regulations 2001 (revoked)[^c-86421ee5768b1ab5cd36d98d10844f02]
 
 Made
 
@@ -47,52 +47,52 @@ Coming into force at 2.00 p.m. on
 
 24th December 2001
 
-[^key-86421ee5768b1ab5cd36d98d10844f02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86421ee5768b1ab5cd36d98d10844f02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and cessation[^key-86421ee5768b1ab5cd36d98d10844f02]
+## 1. Citation, commencement and cessation[^c-86421ee5768b1ab5cd36d98d10844f02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Regulations 2001[^key-86421ee5768b1ab5cd36d98d10844f02]
+## 2. Amendment to the Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Regulations 2001[^c-86421ee5768b1ab5cd36d98d10844f02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential Amendments to the Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Amendment Regulations 2001[^key-86421ee5768b1ab5cd36d98d10844f02]
+## 3. Consequential Amendments to the Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Amendment Regulations 2001[^c-86421ee5768b1ab5cd36d98d10844f02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-86421ee5768b1ab5cd36d98d10844f02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86421ee5768b1ab5cd36d98d10844f02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SCHEDULE 1 AS INSERTED BY THESE REGULATIONS[^key-86421ee5768b1ab5cd36d98d10844f02]
+## SCHEDULE — SCHEDULE 1 AS INSERTED BY THESE REGULATIONS[^c-86421ee5768b1ab5cd36d98d10844f02]
 
 Regulation 2(9)
 
-> **SCHEDULE 1 — PERMITTED AREAS[^key-86421ee5768b1ab5cd36d98d10844f02]**
+> **SCHEDULE 1 — PERMITTED AREAS[^c-86421ee5768b1ab5cd36d98d10844f02]**
 >
 > Regulations 4, 5, 6 and 10
 >
-> **Areas in Scotland[^key-86421ee5768b1ab5cd36d98d10844f02]**
+> **Areas in Scotland[^c-86421ee5768b1ab5cd36d98d10844f02]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Areas in England[^key-86421ee5768b1ab5cd36d98d10844f02]**
+> **Areas in England[^c-86421ee5768b1ab5cd36d98d10844f02]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Areas in Wales[^key-86421ee5768b1ab5cd36d98d10844f02]**
+> **Areas in Wales[^c-86421ee5768b1ab5cd36d98d10844f02]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-86421ee5768b1ab5cd36d98d10844f02].
+[^c-86421ee5768b1ab5cd36d98d10844f02].
 
 **May not be in force at this date. Check the source.**
 
-[^key-86421ee5768b1ab5cd36d98d10844f02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86421ee5768b1ab5cd36d98d10844f02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-86421ee5768b1ab5cd36d98d10844f02]: Textual amendment: Regulations revoked (7.3.2002) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Revocation Regulations 2002 (S.S.I. 2002/109)](https://www.legislation.gov.uk/ssi/2002/109), [reg. 1](https://www.legislation.gov.uk/ssi/2002/109/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2002/109/schedule)
+[^c-86421ee5768b1ab5cd36d98d10844f02]: Textual amendment: Regulations revoked (7.3.2002) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Revocation Regulations 2002 (S.S.I. 2002/109)](https://www.legislation.gov.uk/ssi/2002/109), [reg. 1](https://www.legislation.gov.uk/ssi/2002/109/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2002/109/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. Consultation on improvement duties[^key-4e48ff17e6a0985c715105a01940702e][^key-b22f778c9e4ae28f4f3572b475eac4c6]
+## 87. Consultation on improvement duties[^c-4e48ff17e6a0985c715105a01940702e][^c-b22f778c9e4ae28f4f3572b475eac4c6]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ In deciding how to discharge its duty under sections 84 and 85, a council must c
 
 ## Annotations
 
-[^key-4e48ff17e6a0985c715105a01940702e]: Commencement: S. 87 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-4e48ff17e6a0985c715105a01940702e]: Commencement: S. 87 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-b22f778c9e4ae28f4f3572b475eac4c6]: Modification: S. 87 excluded (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 3(1)](https://www.legislation.gov.uk/nia/2021/8/section/3/1)[(2)(b)](https://www.legislation.gov.uk/nia/2021/8/section/3/2/b), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
+[^c-b22f778c9e4ae28f4f3572b475eac4c6]: Modification: S. 87 excluded (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 3(1)](https://www.legislation.gov.uk/nia/2021/8/section/3/1)[(2)(b)](https://www.legislation.gov.uk/nia/2021/8/section/3/2/b), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)

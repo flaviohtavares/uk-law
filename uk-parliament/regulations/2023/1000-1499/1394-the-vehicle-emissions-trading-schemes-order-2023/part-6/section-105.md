@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Provision of false or misleading information: participants in the Trading Schemes[^key-177a0e32aa6ca365e0c3101292460e33]
+## 105. Provision of false or misleading information: participants in the Trading Schemes[^c-177a0e32aa6ca365e0c3101292460e33]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,7 +75,7 @@ summary: ''
 - (a) the financial penalty of £75,000; and
 - (b) publication.
 
-(11)[^key-5e668e75934d7b7c4c085c09072ae8b0] The administrator may impose the penalties in paragraph (12) on a participant in the Trading Schemes where an officer of a company who is made available by that participant in accordance with article 87 (power to question officers of a company) provides false or misleading information when questioned under that article.
+(11)[^c-5e668e75934d7b7c4c085c09072ae8b0] The administrator may impose the penalties in paragraph (12) on a participant in the Trading Schemes where an officer of a company who is made available by that participant in accordance with article 87 (power to question officers of a company) provides false or misleading information when questioned under that article.
 
 (12) The penalties are—
 
@@ -85,6 +85,6 @@ summary: ''
 
 ## Annotations
 
-[^key-177a0e32aa6ca365e0c3101292460e33]: Commencement: Art. 105 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-177a0e32aa6ca365e0c3101292460e33]: Commencement: Art. 105 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-5e668e75934d7b7c4c085c09072ae8b0]: Textual amendment: [Art. 105(11)(12)](https://www.legislation.gov.uk/uksi/2023/1394/article/105/11/12) inserted (27.11.2024) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/2), [11](https://www.legislation.gov.uk/uksi/2024/1130/article/11)
+[^c-5e668e75934d7b7c4c085c09072ae8b0]: Textual amendment: [Art. 105(11)(12)](https://www.legislation.gov.uk/uksi/2023/1394/article/105/11/12) inserted (27.11.2024) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/2), [11](https://www.legislation.gov.uk/uksi/2024/1130/article/11)

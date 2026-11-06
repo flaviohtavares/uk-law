@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Disclosure for facilitating exercise of functions by the Regulator[^key-f119aa9ae03ad3d2e049b1ad3736e978]
+## 84. Disclosure for facilitating exercise of functions by the Regulator[^c-f119aa9ae03ad3d2e049b1ad3736e978]
 
 *Extent: E+W+S*
 
@@ -26,10 +26,10 @@ summary: ''
 
 (3) Section 82 does not preclude the disclosure by the Regulator to a person qualified to provide that advice of such information as appears to the Regulator to be necessary to ensure that he is properly informed with respect to the matters on which his advice is sought.
 
-(4)[^key-bf28ca2274f571f81efb24e46a9bf91d] Section 82 does not preclude the disclosure by the Regulator to the Personal Accounts Delivery Authority of such information as appears to the Regulator to be necessary to enable the Authority to provide assistance or advice to the Regulator under section 79(2) of the Pensions Act 2008.
+(4)[^c-bf28ca2274f571f81efb24e46a9bf91d] Section 82 does not preclude the disclosure by the Regulator to the Personal Accounts Delivery Authority of such information as appears to the Regulator to be necessary to enable the Authority to provide assistance or advice to the Regulator under section 79(2) of the Pensions Act 2008.
 
 ## Annotations
 
-[^key-f119aa9ae03ad3d2e049b1ad3736e978]: Commencement: S. 84 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-f119aa9ae03ad3d2e049b1ad3736e978]: Commencement: S. 84 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-bf28ca2274f571f81efb24e46a9bf91d]: Textual amendment: S. 84(4) inserted (26.11.2008) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 83](https://www.legislation.gov.uk/ukpga/2008/30/section/83), [149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2)
+[^c-bf28ca2274f571f81efb24e46a9bf91d]: Textual amendment: S. 84(4) inserted (26.11.2008) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 83](https://www.legislation.gov.uk/ukpga/2008/30/section/83), [149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2)

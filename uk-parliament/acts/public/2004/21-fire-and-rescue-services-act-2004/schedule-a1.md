@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule A1 — Procedure for orders under section 4A[^key-8fb83c3af522a500866e77be45f263b0][^key-a330d1286d6035ed421e32d7bb7b3c9a][^key-5d31bf966cb0f9c2744e89291c34c2e4]
+## Schedule A1 — Procedure for orders under section 4A[^c-8fb83c3af522a500866e77be45f263b0][^c-a330d1286d6035ed421e32d7bb7b3c9a][^c-5d31bf966cb0f9c2744e89291c34c2e4]
 
 *Extent: E+W*
 
@@ -144,8 +144,8 @@ Sections 4A(7) and 4H(7)
 
 ## Annotations
 
-[^key-8fb83c3af522a500866e77be45f263b0]: Modification: Sch. A1 excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 20(c)](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/20/c)
+[^c-8fb83c3af522a500866e77be45f263b0]: Modification: Sch. A1 excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 20(c)](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/20/c)
 
-[^key-a330d1286d6035ed421e32d7bb7b3c9a]: Modification: Sch. A1 excluded (29.6.2026) by [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 10A para. 60](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A/paragraph/60) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
+[^c-a330d1286d6035ed421e32d7bb7b3c9a]: Modification: Sch. A1 excluded (29.6.2026) by [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 10A para. 60](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A/paragraph/60) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
 
-[^key-5d31bf966cb0f9c2744e89291c34c2e4]: Textual amendment: Sch. A1, Sch. A2 inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/13); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-5d31bf966cb0f9c2744e89291c34c2e4]: Textual amendment: Sch. A1, Sch. A2 inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/13); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)

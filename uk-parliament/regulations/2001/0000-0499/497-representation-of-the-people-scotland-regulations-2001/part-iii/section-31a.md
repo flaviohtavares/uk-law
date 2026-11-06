@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31A. Objections relating to applications that have been allowed, but before alterations to register have taken effect[^key-591e3885ec12a76dfa9346dc09a4ac02]
+## 31A. Objections relating to applications that have been allowed, but before alterations to register have taken effect[^c-591e3885ec12a76dfa9346dc09a4ac02]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) either–
   - (i) an objection is later made to that application, or
   - (ii) an objector whose objection in respect of that application has been disallowed in pursuance of regulation 29(5A) notifies the registration officer, in accordance with regulation 29(5C), that he requires the objection to be heard, and
-- (c) no alteration to the register has yet taken effect in respect of that application by virtue of section 13(5), 13A(2) 13AB(2),[^key-8f13d671fac6e4013a9fa5149dd7196d] or 13B(3) of the 1983 Act.
+- (c) no alteration to the register has yet taken effect in respect of that application by virtue of section 13(5), 13A(2) 13AB(2),[^c-8f13d671fac6e4013a9fa5149dd7196d] or 13B(3) of the 1983 Act.
 
 (2) Where the registration officer–
 
@@ -41,6 +41,6 @@ the application is to be treated as if it had been disallowed.
 
 ## Annotations
 
-[^key-591e3885ec12a76dfa9346dc09a4ac02]: Textual amendment: [Reg. 31A](https://www.legislation.gov.uk/uksi/2001/497/regulation/31A) inserted (1.4.2007) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2007/925/regulation/10)
+[^c-591e3885ec12a76dfa9346dc09a4ac02]: Textual amendment: [Reg. 31A](https://www.legislation.gov.uk/uksi/2001/497/regulation/31A) inserted (1.4.2007) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2007/925/regulation/10)
 
-[^key-8f13d671fac6e4013a9fa5149dd7196d]: Textual amendment: Word in [reg. 31A(1)(c)](https://www.legislation.gov.uk/uksi/2001/497/regulation/31A/1/c) inserted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/4), [44](https://www.legislation.gov.uk/uksi/2013/3206/regulation/44)
+[^c-8f13d671fac6e4013a9fa5149dd7196d]: Textual amendment: Word in [reg. 31A(1)(c)](https://www.legislation.gov.uk/uksi/2001/497/regulation/31A/1/c) inserted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/4), [44](https://www.legislation.gov.uk/uksi/2013/3206/regulation/44)

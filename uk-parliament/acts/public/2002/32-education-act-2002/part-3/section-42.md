@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Power of Secretary of State to set minimum schools budget[^key-483b3a08ca0037e92870f85f0ac7cad7]
+## 42. Power of Secretary of State to set minimum schools budget[^c-483b3a08ca0037e92870f85f0ac7cad7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-483b3a08ca0037e92870f85f0ac7cad7]: Textual amendment: S. 42 repealed (1.11.2005 for E., 1.4.2010 for W.) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 4](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/4); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8); [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/735/article/2/f)
+[^c-483b3a08ca0037e92870f85f0ac7cad7]: Textual amendment: S. 42 repealed (1.11.2005 for E., 1.4.2010 for W.) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 4](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/4); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8); [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/735/article/2/f)

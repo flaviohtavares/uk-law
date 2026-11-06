@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.10. Appeals[^key-21c46ecefbbe112723605f07c787fba8]
+## 3.11.10. Appeals[^c-21c46ecefbbe112723605f07c787fba8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The application to state a special case referred to in section 146(1) of the Act
 
 ## Annotations
 
-[^key-21c46ecefbbe112723605f07c787fba8]: Commencement: Rule 3.11.10 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-21c46ecefbbe112723605f07c787fba8]: Commencement: Rule 3.11.10 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

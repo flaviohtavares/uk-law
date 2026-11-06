@@ -31,7 +31,7 @@ summary: ''
   - (i) any scheme or scale specified in the direction, or
   - (ii) a determination made by any person in accordance with factors specified in the direction,
 - (c) provide for the making of payments in respect of individual practitioners,
-- (d) provide that the whole or any part of a payment is subject to conditions (and may provide that payments are payable by the Board[^key-3f4f15ddb913b12d0a1c5b33b301e82a] only if it is satisfied as to certain conditions),
+- (d) provide that the whole or any part of a payment is subject to conditions (and may provide that payments are payable by the Board[^c-3f4f15ddb913b12d0a1c5b33b301e82a] only if it is satisfied as to certain conditions),
 - (e) make provision having effect from a date before the date of the direction, provided that, having regard to the direction as a whole, the provision is not detrimental to the persons to whose remuneration it relates.
 
 (4) Before giving a direction under subsection (1), the Secretary of State—
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f4f15ddb913b12d0a1c5b33b301e82a]: Textual amendment: Words in [s. 120(3)(d)](https://www.legislation.gov.uk/ukpga/2006/41/section/120/3/d) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 58](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/58); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-3f4f15ddb913b12d0a1c5b33b301e82a]: Textual amendment: Words in [s. 120(3)(d)](https://www.legislation.gov.uk/ukpga/2006/41/section/120/3/d) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 58](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/58); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

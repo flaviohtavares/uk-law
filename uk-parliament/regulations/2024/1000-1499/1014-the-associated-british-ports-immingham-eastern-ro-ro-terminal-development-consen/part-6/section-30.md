@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Deemed marine licence[^key-48a22977dbbd88ed04032e14cac695bd]
+## 30. Deemed marine licence[^c-48a22977dbbd88ed04032e14cac695bd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker is granted a deemed marine licence under Part 4 of the 2009 Act (
 
 ## Annotations
 
-[^key-48a22977dbbd88ed04032e14cac695bd]: Commencement: Art. 30 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-48a22977dbbd88ed04032e14cac695bd]: Commencement: Art. 30 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

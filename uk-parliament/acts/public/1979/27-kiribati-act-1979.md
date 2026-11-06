@@ -89,7 +89,7 @@ Section 3.
 
 ### The Services
 
-**2.**[^key-ff6e5803fc2136774b146eb53e68dc33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ff6e5803fc2136774b146eb53e68dc33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Visiting forces
 
@@ -132,7 +132,7 @@ and, until express provision with respect to Kiribati is made by an Order in Cou
 
 [^c9841191]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/1979/27/schedule/paragraph/1) repealed by [International Organisations Act 1981 (c. 9, SIF 68:1)](https://www.legislation.gov.uk/ukpga/1981/9), [Sch.](https://www.legislation.gov.uk/ukpga/1981/9/schedule)
 
-[^key-ff6e5803fc2136774b146eb53e68dc33]: Textual amendment: Sch. para. 2 repealed (28.3.2009 for specified purposes, 31.10.2009 otherwise) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); S.I. 2009/1167, art. 4
+[^c-ff6e5803fc2136774b146eb53e68dc33]: Textual amendment: Sch. para. 2 repealed (28.3.2009 for specified purposes, 31.10.2009 otherwise) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); S.I. 2009/1167, art. 4
 
 [^c9841241]: Marginal citation: [1933 c. 6](https://www.legislation.gov.uk/ukpga/1933/6).
 

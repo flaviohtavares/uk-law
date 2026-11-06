@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Modification by order under other enactments[^key-a1dc1257ad54be4829bc9266404faf86]
+## 15. Modification by order under other enactments[^c-a1dc1257ad54be4829bc9266404faf86]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ to such extent as may appear to the relevant authority to be necessary or expedi
 
 ## Annotations
 
-[^key-a1dc1257ad54be4829bc9266404faf86]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/52/section/15) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-a1dc1257ad54be4829bc9266404faf86]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/52/section/15) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Aviation functions[^key-cb38b53f80e241e970e71af717f6e569]
+## 94. Aviation functions[^c-cb38b53f80e241e970e71af717f6e569]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb38b53f80e241e970e71af717f6e569]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2003/20/section/94) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(q)](https://www.legislation.gov.uk/uksi/2004/827/article/3/q)
+[^c-cb38b53f80e241e970e71af717f6e569]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2003/20/section/94) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(q)](https://www.legislation.gov.uk/uksi/2004/827/article/3/q)

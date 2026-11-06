@@ -62,7 +62,7 @@ Section 123
 | Education Act 2002 (c. 32) | In Schedule 21, paragraph 25. |
 | Higher Education Act 2004 (c. 8) | In section 48, the definition of “the 1994 Act”. |
 
-### Part 4 — Repeals relating to Part 4[^key-9b47fa7149e39f607f0d2f1837564ac2][^c19639951]
+### Part 4 — Repeals relating to Part 4[^c-9b47fa7149e39f607f0d2f1837564ac2][^c19639951]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -77,6 +77,6 @@ Section 123
 
 [^c19266041]: Commencement: Sch. 19 Pt.2 partly in force; Sch. 19 Pt. 2 not in force at Royal Assent see s. 125; Sch. 19 Pt. 2 in force for certain purposes at 1.9.2006 by [S.I. 2006/2129](https://www.legislation.gov.uk/uksi/2006/2129), [art. 4](https://www.legislation.gov.uk/uksi/2006/2129/article/4)
 
-[^key-9b47fa7149e39f607f0d2f1837564ac2]: Commencement: Sch. 19 Pt. 4 in force at 1.4.2010 for specified purposes for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/735/article/2/f)
+[^c-9b47fa7149e39f607f0d2f1837564ac2]: Commencement: Sch. 19 Pt. 4 in force at 1.4.2010 for specified purposes for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/735/article/2/f)
 
 [^c19639951]: Commencement: Sch. 19 Pt. 4 partly in force; Sch. 19 Pt. 4 not in force at Royal Assent see s. 125; Sch. 19 Pt. 4 in force for E. W. for certain purposes at 1.9.2005 and in force for E. for certain purposes at 3.10.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), arts. {5}, {8} (with Sch. Pt. 2 para. 2)

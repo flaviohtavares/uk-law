@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — REVOCATIONS[^key-5d20ec368f2ad9bab9c6c625d593fa30]
+## SCHEDULE 2 — REVOCATIONS[^c-5d20ec368f2ad9bab9c6c625d593fa30]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ Regulation 220
 
 ## Annotations
 
-[^key-5d20ec368f2ad9bab9c6c625d593fa30]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2682/schedule/2) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-5d20ec368f2ad9bab9c6c625d593fa30]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2682/schedule/2) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)

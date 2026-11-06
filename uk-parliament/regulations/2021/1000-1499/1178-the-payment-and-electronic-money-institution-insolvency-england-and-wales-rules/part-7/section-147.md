@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 147. Payments of dividend and related matters[^key-3536c5266dfd0e111b2784ff48c86eb7]
+## 147. Payments of dividend and related matters[^c-3536c5266dfd0e111b2784ff48c86eb7]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3536c5266dfd0e111b2784ff48c86eb7]: Commencement: Rule 147 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-3536c5266dfd0e111b2784ff48c86eb7]: Commencement: Rule 147 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

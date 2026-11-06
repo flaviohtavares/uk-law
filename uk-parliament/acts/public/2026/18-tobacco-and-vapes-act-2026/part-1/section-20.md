@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Offences in connection with licences: Wales[^key-de0fc913a3e096fd86166d42fbe6b8fd]
+## 20. Offences in connection with licences: Wales[^c-de0fc913a3e096fd86166d42fbe6b8fd]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de0fc913a3e096fd86166d42fbe6b8fd]: Commencement: S. 20 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-de0fc913a3e096fd86166d42fbe6b8fd]: Commencement: S. 20 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)

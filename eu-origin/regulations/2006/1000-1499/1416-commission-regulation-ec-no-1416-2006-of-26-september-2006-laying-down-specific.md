@@ -62,16 +62,16 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** 1. The US names of origin listed in the Annex may be used as names of origin for wine only to designate wines of the origin indicated by such name. The competent authorities of the United Kingdom[^key-4575458103666706c816fc5e8fe1c3f7] shall take measures to ensure that any wine not labelled in conformity with this Article is not placed on or is withdrawn from the market until it is labelled in conformity with this Article.
+**Article 1.** 1. The US names of origin listed in the Annex may be used as names of origin for wine only to designate wines of the origin indicated by such name. The competent authorities of the United Kingdom[^c-4575458103666706c816fc5e8fe1c3f7] shall take measures to ensure that any wine not labelled in conformity with this Article is not placed on or is withdrawn from the market until it is labelled in conformity with this Article.
 
 2. Paragraph 1 shall not:
 
-- (a) affect intellectual property rights existing in the United Kingdom[^key-57abb0349e9f3b51c23ccdb55c6af01e] or the use of the sign protected as an intellectual property right in the course of trade in the United Kingdom before the date of entry into force of this Regulation;
+- (a) affect intellectual property rights existing in the United Kingdom[^c-57abb0349e9f3b51c23ccdb55c6af01e] or the use of the sign protected as an intellectual property right in the course of trade in the United Kingdom before the date of entry into force of this Regulation;
 - (b) prevent measures, as appropriate, to allow the use of homonymous names of origin where consumers will not be misled or to allow a person to use, in the course of trade, that person’s name or the name of that person’s predecessor in business in a manner that does not mislead the consumer.
 
-**Article 2.**[^key-49d3f9ab6a94aa46e822ca238fe795d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-49d3f9ab6a94aa46e822ca238fe795d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ae6b8221f41489f815261158882325a8]...
+[^c-ae6b8221f41489f815261158882325a8]...
 
 ## ANNEX[^c000001]
 
@@ -967,12 +967,12 @@ Shelby County (Mississippi Delta)
 
 [^f00003]: Footnote: [OJ L 87, 24.3.2006, p. 75](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.087.01.0075.01.ENG).
 
-[^key-4575458103666706c816fc5e8fe1c3f7]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2006/1416/article/1/1) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/2/2/a)
+[^c-4575458103666706c816fc5e8fe1c3f7]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2006/1416/article/1/1) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/2/2/a)
 
-[^key-57abb0349e9f3b51c23ccdb55c6af01e]: Textual amendment: Words in [Art. 1(2)(a)](https://www.legislation.gov.uk/eur/2006/1416/article/1/2/a) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/2/2/b)
+[^c-57abb0349e9f3b51c23ccdb55c6af01e]: Textual amendment: Words in [Art. 1(2)(a)](https://www.legislation.gov.uk/eur/2006/1416/article/1/2/a) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/2/2/b)
 
-[^key-49d3f9ab6a94aa46e822ca238fe795d3]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2006/1416/article/2) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/2/3)
+[^c-49d3f9ab6a94aa46e822ca238fe795d3]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2006/1416/article/2) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/2/3)
 
-[^key-ae6b8221f41489f815261158882325a8]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2006/1416/signature) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/2/4)
+[^c-ae6b8221f41489f815261158882325a8]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2006/1416/signature) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/2/4)
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) No 1212/2011 of 23 November 2011 amending Regulation (EC) No 1416/2006 laying down specific rules on the implementation of Article 7(2) of the Agreement between the European Community and the United States of America on trade in wine concerning the protection of US names of origin in the Community](https://www.legislation.gov.uk/eur/2011/1212).

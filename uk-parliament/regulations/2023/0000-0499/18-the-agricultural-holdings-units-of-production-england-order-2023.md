@@ -32,7 +32,7 @@ summary: ''
 
 Landlord And Tenant, England
 
-The Agricultural Holdings (Units of Production) (England) Order 2023 (revoked)[^key-bdf0b882d982859f7ab189c7a70ffe9f]
+The Agricultural Holdings (Units of Production) (England) Order 2023 (revoked)[^c-bdf0b882d982859f7ab189c7a70ffe9f]
 
 Made
 
@@ -46,38 +46,38 @@ Coming into force
 
 23rd February 2023
 
-[^key-bdf0b882d982859f7ab189c7a70ffe9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdf0b882d982859f7ab189c7a70ffe9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-bdf0b882d982859f7ab189c7a70ffe9f]
+## 1. Citation, commencement and extent[^c-bdf0b882d982859f7ab189c7a70ffe9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-bdf0b882d982859f7ab189c7a70ffe9f]
+## 2. Interpretation[^c-bdf0b882d982859f7ab189c7a70ffe9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Assessment of productive capacity of land[^key-bdf0b882d982859f7ab189c7a70ffe9f]
+## 3. Assessment of productive capacity of land[^c-bdf0b882d982859f7ab189c7a70ffe9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of the Agricultural Holdings (Units of Production) England (No. 2) Order 2021[^key-bdf0b882d982859f7ab189c7a70ffe9f]
+## 4. Revocation of the Agricultural Holdings (Units of Production) England (No. 2) Order 2021[^c-bdf0b882d982859f7ab189c7a70ffe9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bdf0b882d982859f7ab189c7a70ffe9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdf0b882d982859f7ab189c7a70ffe9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Prescribed units of production and determination of net annual income[^key-bdf0b882d982859f7ab189c7a70ffe9f]
+## SCHEDULE — Prescribed units of production and determination of net annual income[^c-bdf0b882d982859f7ab189c7a70ffe9f]
 
 Article 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bdf0b882d982859f7ab189c7a70ffe9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdf0b882d982859f7ab189c7a70ffe9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bdf0b882d982859f7ab189c7a70ffe9f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/18) revoked (23.2.2024) by [The Agricultural Holdings (Units of Production) (England) Order 2024 (S.I. 2024/30)](https://www.legislation.gov.uk/uksi/2024/30), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/30/article/1/1), [4](https://www.legislation.gov.uk/uksi/2024/30/article/4)
+[^c-bdf0b882d982859f7ab189c7a70ffe9f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/18) revoked (23.2.2024) by [The Agricultural Holdings (Units of Production) (England) Order 2024 (S.I. 2024/30)](https://www.legislation.gov.uk/uksi/2024/30), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/30/article/1/1), [4](https://www.legislation.gov.uk/uksi/2024/30/article/4)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) In this Part a “qualifying disclosure” means any disclosure of information which, in the reasonable belief of the worker making the disclosure, is made in the public interest and[^key-999bdd3be588adc971c809851831a50a] tends to show one or more of the following—
+(1) In this Part a “qualifying disclosure” means any disclosure of information which, in the reasonable belief of the worker making the disclosure, is made in the public interest and[^c-999bdd3be588adc971c809851831a50a] tends to show one or more of the following—
 
 - (a) that a criminal offence has been committed, is being committed or is likely to be committed,
 - (b) that a person has failed, is failing or is likely to fail to comply with any legal obligation to which he is subject,
@@ -41,4 +41,4 @@ summary: ''
 
 [^c22339971]: Textual amendment: [1998 NI 17](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-999bdd3be588adc971c809851831a50a]: Textual amendment: Words in [art. 67B(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/67B/1) inserted (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 13](https://www.legislation.gov.uk/nia/2016/15/section/13), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)
+[^c-999bdd3be588adc971c809851831a50a]: Textual amendment: Words in [art. 67B(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/67B/1) inserted (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 13](https://www.legislation.gov.uk/nia/2016/15/section/13), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)

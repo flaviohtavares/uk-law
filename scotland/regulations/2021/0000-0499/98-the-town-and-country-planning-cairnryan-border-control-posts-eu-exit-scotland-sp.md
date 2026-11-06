@@ -48,24 +48,24 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 30(2)(b) of the Town and Country Planning (Scotland) Act 1997 [^c24451221] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and application[^key-c148b94d5f2b4691c5977d7141e23e78]
+## 1. Citation, commencement and application[^c-c148b94d5f2b4691c5977d7141e23e78]
 
 (1) This Order may be cited as the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Order 2021 and comes into force on 25 March 2021.
 
 (2) This Order applies only to land specified in schedule 1.
 
-## 2. Interpretation[^key-51369dfbd31d43e6db9821c52e7a3612]
+## 2. Interpretation[^c-51369dfbd31d43e6db9821c52e7a3612]
 
 (1) In this Order—
 
-- “border department” means any of—[^key-ae7ae571af30d8e0c1f700307a02e550]
+- “border department” means any of—[^c-ae7ae571af30d8e0c1f700307a02e550]
   - (a) the Commissioners for Her Majesty’s Revenue and Customs,
-  - (b) the Secretary of State for Business and Trade[^key-19bbca43b4cb32c3d3beff805560d1e8],
+  - (b) the Secretary of State for Business and Trade[^c-19bbca43b4cb32c3d3beff805560d1e8],
   - (c) the Secretary of State for the Environment, Food and Rural Affairs, or
   - (d) the Secretary of State for Transport,
 
 - “**building**” includes any structure or erection, and any part of a building, as so defined, but does not include plant or machinery comprised in a building,
-- “[^key-7b391f89f6971b6dca4b15e10b7ababf] **developer** ” means the Scottish Ministers, a border department, or a person carrying out the development on behalf of the Scottish Ministers or a border department,
+- “[^c-7b391f89f6971b6dca4b15e10b7ababf] **developer** ” means the Scottish Ministers, a border department, or a person carrying out the development on behalf of the Scottish Ministers or a border department,
 - “**development**” means development carried out, or proposed to be carried out, as the case may be, pursuant to the planning permission granted by article 3(1),
 - “**engagement parties**” means the persons and bodies specified in schedule 3,
 - “**European site**” has the meaning given in regulation 10(1) of the Conservation (Natural Habitats, &c.) Regulations 1994 [^c24451231],
@@ -78,7 +78,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “**relevant owners and occupiers**” means, in respect of a development—
   - (a) those owners of the land adjacent to the site, and
   - (b) those occupiers of the land adjacent to the site, or to roads that will be used by vehicles travelling to and from the site that are likely to be affected by the development,
-- “**safety hazard area**” means an area notified to the [^key-e8b1e556fbf0265d5c714ec013d38b42]... planning authority—
+- “**safety hazard area**” means an area notified to the [^c-e8b1e556fbf0265d5c714ec013d38b42]... planning authority—
   - (a) by the Health and Safety Executive for the purposes of paragraph 3 of schedule 5 to the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013 [^c24451241], or
   - (b) by the Office for Nuclear Regulation for the purposes of paragraph 3A of that schedule,
 - “**site**” means the land on which a developer proposes to implement, or implements, as the case may be, the planning permission granted by article 3(1),
@@ -96,18 +96,18 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 includes such use of hard copy, electronic means (including social media), or other forms of communication as the site operator or developer considers appropriate.
 
-## 3. Grant of planning permission for a limited period[^key-379a59667647958fa2f9a2dfecab83d6]
+## 3. Grant of planning permission for a limited period[^c-379a59667647958fa2f9a2dfecab83d6]
 
 (1) Subject to the provisions of this article and regulation 64 of the Conservation (Natural Habitats, &c.) Regulations 1994, planning permission is granted for—
 
 - (a) the making of a material change in the use of any buildings or other land for the purpose of or in connection with—
-  - (i) any activity that forms part of, or is incidental to, functions required to be carried out by or on behalf of the Scottish Ministers or a border department[^key-bf747a8565fceff0b9348a83e7f34262] in connection with vehicles (in particular goods vehicles) and goods entering or exiting, or that are about to enter or exit, Great Britain, including—
+  - (i) any activity that forms part of, or is incidental to, functions required to be carried out by or on behalf of the Scottish Ministers or a border department[^c-bf747a8565fceff0b9348a83e7f34262] in connection with vehicles (in particular goods vehicles) and goods entering or exiting, or that are about to enter or exit, Great Britain, including—
     - (aa) recording vehicles entering or exiting the site,
     - (bb) providing, reviewing, checking, endorsing and approving customs declarations, permits and other documents relating to vehicles and goods,
     - (cc) examining, seizing and detaining goods,
     - (dd) inspecting vehicles and goods for any other lawful purpose,
     - (ee) storing or holding goods carried in vehicles,
-    - (ff) checking vehicles to ensure compliance with the conditions imposed by this Order [^key-98b7c8be34fed39d36940d9930849dc9]...,
+    - (ff) checking vehicles to ensure compliance with the conditions imposed by this Order [^c-98b7c8be34fed39d36940d9930849dc9]...,
   - (ii) the associated stationing of vehicles,
   - (iii) carrying out repairs to vehicles, where an examiner appointed pursuant to section 66A of the Road Traffic Act 1988 [^c24451261] has—
     - (aa) examined the vehicle on the site,
@@ -115,7 +115,7 @@ includes such use of hard copy, electronic means (including social media), or ot
     - (cc) prohibited the driving of the vehicle on a road,
 - (b) the construction, installation, provision, operation, maintenance, improvement or alteration, decommissioning or removal of any buildings, and the carrying out of any works and earth modelling, required or provided in connection with the use of the site pursuant to sub-paragraph (a), including but not limited to the provision of—
   - (i) facilities for drivers of vehicles,
-  - (ii) facilities for persons engaged in those activities described in sub-paragraph (a)(i)[^key-fde2e1a1bdab548cbddec6b35cadd1b9],
+  - (ii) facilities for persons engaged in those activities described in sub-paragraph (a)(i)[^c-fde2e1a1bdab548cbddec6b35cadd1b9],
   - (iii) roads and other means of access,
   - (iv) any main, pipe, cable or other apparatus for the provision of water, gas, electricity or other services,
   - (v) any foul water and surface water drainage systems,
@@ -144,7 +144,7 @@ includes such use of hard copy, electronic means (including social media), or ot
 - (a) on the date falling 5 years after the date which is notified in terms of paragraph 25(b) of schedule 2 (the “notified date”), any use of the land so authorised is discontinued, and
 - (b) the developer shall carry out the reinstatement works specified in the reinstatement plan approved by the Scottish Ministers under Part 5 of schedule 2 before the date falling 6 years after the notified date.
 
-## 4. Relevant approvals[^key-db8c21723ebe041a9bbe422a96c0f60c]
+## 4. Relevant approvals[^c-db8c21723ebe041a9bbe422a96c0f60c]
 
 (1) No development on any site may commence unless—
 
@@ -204,12 +204,12 @@ Edinburgh
 
 Article 1(2)
 
-**1.**[^key-94c64b91ef966ad053f35856e646a37c] Subject to paragraphs 2 and 3, the land to which this Order applies is land situated within the local authority area of Dumfries and Galloway and the whole of the area of which is within 15 miles of either—
+**1.**[^c-94c64b91ef966ad053f35856e646a37c] Subject to paragraphs 2 and 3, the land to which this Order applies is land situated within the local authority area of Dumfries and Galloway and the whole of the area of which is within 15 miles of either—
 
 - (a) the Port of Cairnryan, or
 - (b) Loch Ryan Port.
 
-**2.**[^key-af32444a83228179c0e8846b09649044] This Order does not apply to any land which is, or forms part of—
+**2.**[^c-af32444a83228179c0e8846b09649044] This Order does not apply to any land which is, or forms part of—
 
 - (a) a National Park as designated by an order made under section 6 of the National Parks (Scotland) Act 2000 [^c24451311],
 - (b) a National Scenic Area as designated by a direction made by the Scottish Ministers under section 263A of the Town and Country Planning (Scotland) Act 1997 [^c24451321],
@@ -220,7 +220,7 @@ Article 1(2)
 - (g) a European site,
 - (h) a World Heritage Site included in the list kept under article 11(2) of the 1972 UNESCO Convention for the Protection of the World Cultural and Natural Heritage [^c24451361].
 
-**3.**[^key-524af316c632431174b4a33c1348b8d7] This Order does not apply to any land which contains—
+**3.**[^c-524af316c632431174b4a33c1348b8d7] This Order does not apply to any land which contains—
 
 - (a) a listed building or the curtilage of a listed building listed under section 1 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997,
 - (b) a scheduled monument within the meaning of the 1979 Act,
@@ -232,54 +232,54 @@ Article 3(2)
 
 ### PART 1 — General
 
-#### 1. Operator and exclusions[^key-2d2ac7ac95d0fb210f19988025d84d93]
+#### 1. Operator and exclusions[^c-2d2ac7ac95d0fb210f19988025d84d93]
 
-Development may only be carried out by or on behalf of the Scottish Ministers or a border department[^key-db1b076eb1355c4a9524063d5ccf0943].
+Development may only be carried out by or on behalf of the Scottish Ministers or a border department[^c-db1b076eb1355c4a9524063d5ccf0943].
 
-**2.**[^key-1718862b759a1b2edad93cbf926ffcfa] A building on the site may only be removed if the Scottish Ministers have agreed to its removal in writing.
+**2.**[^c-1718862b759a1b2edad93cbf926ffcfa] A building on the site may only be removed if the Scottish Ministers have agreed to its removal in writing.
 
-**3.**[^key-572cf73b05f08bd37486f38709735f99] The site must not be used for the storage of fuel or for refuelling, other than as ancillary to the use of the site pursuant to article 3(1).
+**3.**[^c-572cf73b05f08bd37486f38709735f99] The site must not be used for the storage of fuel or for refuelling, other than as ancillary to the use of the site pursuant to article 3(1).
 
-**4.**[^key-e4d51ea4da8002729aab52b7da577583] The site must not be used for the stationing of vehicles carrying—
+**4.**[^c-e4d51ea4da8002729aab52b7da577583] The site must not be used for the stationing of vehicles carrying—
 
 - (a) Category I/II nuclear material as defined in regulation 3 of the Nuclear Industries Security Regulations 2003 [^c24451381], or
 - (b) High Consequence Dangerous Goods as defined in section 1.10.3.1 of Annex A to the edition of the European Agreement concerning the International Carriage of Dangerous Goods by Road published in 2019 [^c24451391].
 
-#### 5. Development (construction, operation and reinstatement phases)[^key-801604206f60b794693d3e7f6e0ecd84]
+#### 5. Development (construction, operation and reinstatement phases)[^c-801604206f60b794693d3e7f6e0ecd84]
 
 Any artificial lighting must be arranged so the main beam angle of each installation is directed downward and away from the closest boundary so as to minimise light spill.
 
-**6.**[^key-bd29e570f98c8d3703fb80dff51fd822] Any fire hydrants and emergency water supplies must be kept in good repair and any defects must be repaired as soon as practicable.
+**6.**[^c-bd29e570f98c8d3703fb80dff51fd822] Any fire hydrants and emergency water supplies must be kept in good repair and any defects must be repaired as soon as practicable.
 
-**7.**[^key-9580e980a15a6f2cde42729161968eae] Any surface water and foul water drainage system must be kept in good repair.
+**7.**[^c-9580e980a15a6f2cde42729161968eae] Any surface water and foul water drainage system must be kept in good repair.
 
-**8.**[^key-8b18507923248089b8f1a98e9f08ffe1] Temporary structures collecting sewage that are not attached to mains sewers must be emptied regularly.
+**8.**[^c-8b18507923248089b8f1a98e9f08ffe1] Temporary structures collecting sewage that are not attached to mains sewers must be emptied regularly.
 
-**9.**[^key-51eb6d887f3b1b118e5122e4b8c9884f] Development must not adversely affect any ancient woodland contained in the Ancient Woodland Inventory.
+**9.**[^c-51eb6d887f3b1b118e5122e4b8c9884f] Development must not adversely affect any ancient woodland contained in the Ancient Woodland Inventory.
 
-**10.**[^key-f4a8d05b22f074aa74bdc30da5285b8b] There must be no net increase in the rate or volume of surface water discharge from the site.
+**10.**[^c-f4a8d05b22f074aa74bdc30da5285b8b] There must be no net increase in the rate or volume of surface water discharge from the site.
 
-**11.**[^key-70e44561bfc1b05a723c8199e0da0b3d] Surface water discharged from the site must not adversely affect the quality of receiving water bodies.
+**11.**[^c-70e44561bfc1b05a723c8199e0da0b3d] Surface water discharged from the site must not adversely affect the quality of receiving water bodies.
 
-**12.**[^key-c469e5f99339ad59fbc2209b98ce9a95] Subject to condition 13, the height of any building (other than an existing building) must not exceed 15 metres.
+**12.**[^c-c469e5f99339ad59fbc2209b98ce9a95] Subject to condition 13, the height of any building (other than an existing building) must not exceed 15 metres.
 
-**13.**[^key-22cd30a251abf0783a350b1577e6bde1] The height of any gate, fence, wall or other means of enclosure erected or constructed, other than noise attenuation measures, must not exceed 4.5 metres.
+**13.**[^c-22cd30a251abf0783a350b1577e6bde1] The height of any gate, fence, wall or other means of enclosure erected or constructed, other than noise attenuation measures, must not exceed 4.5 metres.
 
-**14.**[^key-7a8a6f17135207ae11507b70f94bd288] No building other than plant, machinery, gates, fences, walls or other means of enclosure, or noise attenuation measures, may be erected or extended within 25 metres of the boundary of the curtilage of any residential dwelling.
+**14.**[^c-7a8a6f17135207ae11507b70f94bd288] No building other than plant, machinery, gates, fences, walls or other means of enclosure, or noise attenuation measures, may be erected or extended within 25 metres of the boundary of the curtilage of any residential dwelling.
 
-**15.**[^key-360a5f12355810210d9440f92fc9cc65] Where there is a risk of groundwater contamination, hard surfacing must not be made of porous materials.
+**15.**[^c-360a5f12355810210d9440f92fc9cc65] Where there is a risk of groundwater contamination, hard surfacing must not be made of porous materials.
 
-**16.**[^key-9ed61d366af9ad6475c7d99f6c075bdc] Where a condition in Parts 2 to 5 of this schedule requires the publication of any document, reasonable steps must be taken to ensure the document is available to persons likely to have an interest in the matters to which the document relates.
+**16.**[^c-9ed61d366af9ad6475c7d99f6c075bdc] Where a condition in Parts 2 to 5 of this schedule requires the publication of any document, reasonable steps must be taken to ensure the document is available to persons likely to have an interest in the matters to which the document relates.
 
-#### 17. Stationing of vehicles[^key-4b4d3b966700e21d75ab9cdcc05f870f]
+#### 17. Stationing of vehicles[^c-4b4d3b966700e21d75ab9cdcc05f870f]
 
 The stationing of vehicles is only permitted on hard surfacing.
 
-**18.**[^key-45b670f8e8596f24fae126b22bef0db9] When stationed, a vehicle must not have its engine idling without the express authority of the site operator.
+**18.**[^c-45b670f8e8596f24fae126b22bef0db9] When stationed, a vehicle must not have its engine idling without the express authority of the site operator.
 
 ### PART 2 — Construction
 
-**19.**[^key-93d9a89c40d34003495e7aca17c5da50] No works of construction may commence until a construction management plan for the development has been submitted to and approved by the Scottish Ministers. The plan must comprise details of policies and procedures to be complied with in connection with the construction of the development in relation to—
+**19.**[^c-93d9a89c40d34003495e7aca17c5da50] No works of construction may commence until a construction management plan for the development has been submitted to and approved by the Scottish Ministers. The plan must comprise details of policies and procedures to be complied with in connection with the construction of the development in relation to—
 
 - (a) engagement with relevant owners and occupiers, including complaints handling,
 - (b) application of best practicable means to minimise noise, vibration and emissions to air,
@@ -294,15 +294,15 @@ The stationing of vehicles is only permitted on hard surfacing.
 
 and references to “the CMP” in the following paragraphs of this Part are to that plan as approved by the Scottish Ministers from time to time.
 
-**20.**[^key-4792de41b1b72dba8b47b3392474f2dc] A copy of the CMP must be kept on the site at all times.
+**20.**[^c-4792de41b1b72dba8b47b3392474f2dc] A copy of the CMP must be kept on the site at all times.
 
-**21.**[^key-302c46525d8eb4dd87e238f74c654619] A non-technical summary of the CMP must be published.
+**21.**[^c-302c46525d8eb4dd87e238f74c654619] A non-technical summary of the CMP must be published.
 
-**22.**[^key-533e712f89480b26209bed6b4c710219] Construction works must be undertaken in compliance with the CMP.
+**22.**[^c-533e712f89480b26209bed6b4c710219] Construction works must be undertaken in compliance with the CMP.
 
-**23.**[^key-20b1827f3953c8469c615f1ed54858d5] The CMP and the published non-technical summary of the CMP must be kept under review and updated as necessary throughout all construction works.
+**23.**[^c-20b1827f3953c8469c615f1ed54858d5] The CMP and the published non-technical summary of the CMP must be kept under review and updated as necessary throughout all construction works.
 
-**24.**[^key-b3dbf649c61ba9c23c550d350865aeb8] Prior notification of the intended commencement of development must be given to the Scottish Ministers and the planning authority, and such notification must include—
+**24.**[^c-b3dbf649c61ba9c23c550d350865aeb8] Prior notification of the intended commencement of development must be given to the Scottish Ministers and the planning authority, and such notification must include—
 
 - (a) the address and location of the development (including a site plan in the form prescribed by article 4(2)(b)),
 - (b) the name and address of the owner of the site,
@@ -311,14 +311,14 @@ and references to “the CMP” in the following paragraphs of this Part are to 
 
 ### PART 3 — Commencement of operational use
 
-**25.**[^key-e5dc0bec3b923cdb21310b931d37f09e] The developer must—
+**25.**[^c-e5dc0bec3b923cdb21310b931d37f09e] The developer must—
 
-- (a) as soon as practicable after doing so, give notice of the completion of the development to the Scottish Ministers and the [^key-35def4b1247a3b92c2b996eb74fc0468]... planning authority, and
-- (b) give notice of the date on which the development is to become operational to the Scottish Ministers and the [^key-35def4b1247a3b92c2b996eb74fc0468]... planning authority.
+- (a) as soon as practicable after doing so, give notice of the completion of the development to the Scottish Ministers and the [^c-35def4b1247a3b92c2b996eb74fc0468]... planning authority, and
+- (b) give notice of the date on which the development is to become operational to the Scottish Ministers and the [^c-35def4b1247a3b92c2b996eb74fc0468]... planning authority.
 
 ### PART 4 — Operation
 
-**26.**[^key-3ccafc3162cd72bca7676a9c7491d49f] No use other than works of construction and tests of the operation of the development may commence until an operational management plan for the development has been submitted to and approved by the Scottish Ministers. The plan must comprise details of policies and procedures to be complied with in connection with the use and operation of the development in relation to—
+**26.**[^c-3ccafc3162cd72bca7676a9c7491d49f] No use other than works of construction and tests of the operation of the development may commence until an operational management plan for the development has been submitted to and approved by the Scottish Ministers. The plan must comprise details of policies and procedures to be complied with in connection with the use and operation of the development in relation to—
 
 - (a) engagement with relevant owners and occupiers, including complaints handling,
 - (b) dealing with adverse weather, incidents and protestors,
@@ -334,49 +334,49 @@ and references to “the CMP” in the following paragraphs of this Part are to 
 
 and reference to “the OMP” in the following paragraphs of this Part are to that plan as approved by the Scottish Ministers from time to time.
 
-**27.**[^key-13486fc86224dafe5d959efefc769acc] A copy of the OMP must be kept on the site at all times and the use and operation of the development must be carried out in compliance with the OMP.
+**27.**[^c-13486fc86224dafe5d959efefc769acc] A copy of the OMP must be kept on the site at all times and the use and operation of the development must be carried out in compliance with the OMP.
 
-**28.**[^key-683175a115e0b37c64d6897aae074ebf] A non-technical summary of the OMP must be published.
+**28.**[^c-683175a115e0b37c64d6897aae074ebf] A non-technical summary of the OMP must be published.
 
-**29.**[^key-bc5101e7c505fe4231554b5a465e7709] The development must be operated in compliance with the OMP.
+**29.**[^c-bc5101e7c505fe4231554b5a465e7709] The development must be operated in compliance with the OMP.
 
-**30.**[^key-d6e11f3579a092664834201c9bda7898] The OMP and the published non-technical summary of the OMP must be kept under review and updated as necessary during the use and operation of the development.
+**30.**[^c-d6e11f3579a092664834201c9bda7898] The OMP and the published non-technical summary of the OMP must be kept under review and updated as necessary during the use and operation of the development.
 
 ### PART 5 — Reinstatement
 
-**31.**[^key-1f15e96aa6e670db447827881aa43d65] A reinstatement plan must be submitted to the Scottish Ministers no later than 6 months before use of the land is to discontinue in terms of article 3(4)(a).
+**31.**[^c-1f15e96aa6e670db447827881aa43d65] A reinstatement plan must be submitted to the Scottish Ministers no later than 6 months before use of the land is to discontinue in terms of article 3(4)(a).
 
-**32.**[^key-be977b3238070e79c9288695f6c0b578] Reinstatement works must not be commenced until the Scottish Minsters have approved the reinstatement plan.
+**32.**[^c-be977b3238070e79c9288695f6c0b578] Reinstatement works must not be commenced until the Scottish Minsters have approved the reinstatement plan.
 
-**33.**[^key-38d4e82cecf385f0e019aa3d8f1c917b] The reinstatement works must be carried out and completed in accordance with the approved reinstatement plan.
+**33.**[^c-38d4e82cecf385f0e019aa3d8f1c917b] The reinstatement works must be carried out and completed in accordance with the approved reinstatement plan.
 
-**34.**[^key-1a6cca93c0f2db6950238d0a4ece616c] A non-technical summary of the approved reinstatement plan must be published.
+**34.**[^c-1a6cca93c0f2db6950238d0a4ece616c] A non-technical summary of the approved reinstatement plan must be published.
 
 ## SCHEDULE 3 — Engagement Parties
 
 Article 2(1)
 
-**1.**[^key-8a0b37c2c41ba6fea6e501c2afc2dd5f] Scottish Fire and Rescue Service.
+**1.**[^c-8a0b37c2c41ba6fea6e501c2afc2dd5f] Scottish Fire and Rescue Service.
 
-**2.**[^key-47c4dca746221e7723cd611e438a0e69] Dumfries and Galloway Council.
+**2.**[^c-47c4dca746221e7723cd611e438a0e69] Dumfries and Galloway Council.
 
-**3.**[^key-65cc14acf097340dcd8b282d3e9ef0ea] Scottish Environment[^key-99f47406c222fc1c21fcefca4a8c2b8c] Protection Agency.
+**3.**[^c-65cc14acf097340dcd8b282d3e9ef0ea] Scottish Environment[^c-99f47406c222fc1c21fcefca4a8c2b8c] Protection Agency.
 
-**4.**[^key-dedb74624473165555072aab57bdf4cc] The Police Service of Scotland.
+**4.**[^c-dedb74624473165555072aab57bdf4cc] The Police Service of Scotland.
 
-**5.**[^key-a7099e6e0b5460483dfa948c221e43e2] The COMAH competent authority being the competent authority within the meaning of regulation 4 of the Control of Major Accident Hazards Regulations 2015 [^c24451401] (if the site or any part of it is in, or includes, a safety hazard area).
+**5.**[^c-a7099e6e0b5460483dfa948c221e43e2] The COMAH competent authority being the competent authority within the meaning of regulation 4 of the Control of Major Accident Hazards Regulations 2015 [^c24451401] (if the site or any part of it is in, or includes, a safety hazard area).
 
-**6.**[^key-fa518c26930983122674516e73c25ee3] Scottish Natural Heritage.
+**6.**[^c-fa518c26930983122674516e73c25ee3] Scottish Natural Heritage.
 
-**7.**[^key-4ae827864fa3179891a6b1a4d304e7be] Historic Environment Scotland.
+**7.**[^c-4ae827864fa3179891a6b1a4d304e7be] Historic Environment Scotland.
 
-**8.**[^key-1bdfef76ab1ac3a9a9d1e25e2c5927fc] Owners of any part of the site.
+**8.**[^c-1bdfef76ab1ac3a9a9d1e25e2c5927fc] Owners of any part of the site.
 
-**9.**[^key-7883bf4eae30b2fa5c89f00e3268a94b] Relevant owners and occupiers.
+**9.**[^c-7883bf4eae30b2fa5c89f00e3268a94b] Relevant owners and occupiers.
 
-**10.**[^key-c868cf99716e249f5ff31d2577cf6187] Community Councils—
+**10.**[^c-c868cf99716e249f5ff31d2577cf6187] Community Councils—
 
-- (a) which have been established [^key-8990f98627e14182bf54359b36b869a0]... under Part 4 of the Local Government (Scotland) Act 1973 [^c24451411], and
+- (a) which have been established [^c-8990f98627e14182bf54359b36b869a0]... under Part 4 of the Local Government (Scotland) Act 1973 [^c24451411], and
 - (b) whose—
   - (i) area includes the whole or part of the site, or
   - (ii) boundary at any point adjoins any part of the boundary of the site.
@@ -395,47 +395,47 @@ A Business and Regulatory Impact Assessment has been prepared. Copies may be obt
 
 [^c24451221]: Marginal citation: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). Section 30(2)(b) was amended by section 54(3)(b) of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-c148b94d5f2b4691c5977d7141e23e78]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2021/98/article/1) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-c148b94d5f2b4691c5977d7141e23e78]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2021/98/article/1) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-51369dfbd31d43e6db9821c52e7a3612]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2021/98/article/2) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-51369dfbd31d43e6db9821c52e7a3612]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2021/98/article/2) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-ae7ae571af30d8e0c1f700307a02e550]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2021/98/article/2/1) inserted (1.10.2021) by [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [3(a)](https://www.legislation.gov.uk/ssi/2021/293/article/3/a)
+[^c-ae7ae571af30d8e0c1f700307a02e550]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2021/98/article/2/1) inserted (1.10.2021) by [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [3(a)](https://www.legislation.gov.uk/ssi/2021/293/article/3/a)
 
-[^key-19bbca43b4cb32c3d3beff805560d1e8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2021/98/regulation/2/1) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 68](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/68) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-19bbca43b4cb32c3d3beff805560d1e8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2021/98/regulation/2/1) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 68](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/68) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-7b391f89f6971b6dca4b15e10b7ababf]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2021/98/article/2/1) substituted (1.10.2021) by [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [3(b)](https://www.legislation.gov.uk/ssi/2021/293/article/3/b)
+[^c-7b391f89f6971b6dca4b15e10b7ababf]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2021/98/article/2/1) substituted (1.10.2021) by [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [3(b)](https://www.legislation.gov.uk/ssi/2021/293/article/3/b)
 
 [^c24451231]: Marginal citation: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716).
 
-[^key-e8b1e556fbf0265d5c714ec013d38b42]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/ssi/2021/98/article/2/1) omitted (1.10.2021) by virtue of [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [3(c)](https://www.legislation.gov.uk/ssi/2021/293/article/3/c)
+[^c-e8b1e556fbf0265d5c714ec013d38b42]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/ssi/2021/98/article/2/1) omitted (1.10.2021) by virtue of [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [3(c)](https://www.legislation.gov.uk/ssi/2021/293/article/3/c)
 
 [^c24451241]: Marginal citation: [S.S.I. 2013/155](https://www.legislation.gov.uk/ssi/2013/155), as relevantly amended by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469).
 
 [^c24451251]: Marginal citation: OJ L No. 312, 22.11.2008, p.3.
 
-[^key-379a59667647958fa2f9a2dfecab83d6]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2021/98/article/3) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-379a59667647958fa2f9a2dfecab83d6]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2021/98/article/3) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-bf747a8565fceff0b9348a83e7f34262]: Textual amendment: Words in [art. 3(1)(a)(i)](https://www.legislation.gov.uk/ssi/2021/98/article/3/1/a/i) inserted (1.10.2021) by [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [4(a)(i)](https://www.legislation.gov.uk/ssi/2021/293/article/4/a/i)
+[^c-bf747a8565fceff0b9348a83e7f34262]: Textual amendment: Words in [art. 3(1)(a)(i)](https://www.legislation.gov.uk/ssi/2021/98/article/3/1/a/i) inserted (1.10.2021) by [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [4(a)(i)](https://www.legislation.gov.uk/ssi/2021/293/article/4/a/i)
 
-[^key-98b7c8be34fed39d36940d9930849dc9]: Textual amendment: Words in [art. 3(1)(a)(i)](https://www.legislation.gov.uk/ssi/2021/98/article/3/1/a/i) omitted (1.10.2021) by virtue of [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2021/293/article/4/a/ii)
+[^c-98b7c8be34fed39d36940d9930849dc9]: Textual amendment: Words in [art. 3(1)(a)(i)](https://www.legislation.gov.uk/ssi/2021/98/article/3/1/a/i) omitted (1.10.2021) by virtue of [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2021/293/article/4/a/ii)
 
 [^c24451261]: Marginal citation: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52). Section 66A was inserted by section 9(1) of the [Road Traffic Act 1991 (c.4)](https://www.legislation.gov.uk/ukpga/1991/4) and amended by [Good Vehicles (Licensing of Operators) Act 1995 (c.23)](https://www.legislation.gov.uk/ukpga/1995/23).
 
 [^c24451271]: Marginal citation: [Section 69](https://www.legislation.gov.uk/ssi/2021/98/section/69) was amended by section 12 of the [Road Traffic Act 1991 (c.4)](https://www.legislation.gov.uk/ukpga/1991/4).
 
-[^key-fde2e1a1bdab548cbddec6b35cadd1b9]: Textual amendment: Words in [art. 3(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2021/98/article/3/1/b/ii) substituted (1.10.2021) by [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [4(b)](https://www.legislation.gov.uk/ssi/2021/293/article/4/b)
+[^c-fde2e1a1bdab548cbddec6b35cadd1b9]: Textual amendment: Words in [art. 3(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2021/98/article/3/1/b/ii) substituted (1.10.2021) by [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [4(b)](https://www.legislation.gov.uk/ssi/2021/293/article/4/b)
 
 [^c24451281]: Marginal citation: [S.S.I. 2017/102](https://www.legislation.gov.uk/ssi/2017/102).
 
-[^key-db8c21723ebe041a9bbe422a96c0f60c]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2021/98/article/4) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-db8c21723ebe041a9bbe422a96c0f60c]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2021/98/article/4) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
 [^c24451291]: Marginal citation: Contained in Planning Circular 2/2003 “Safeguarding of aerodromes, technical sites, meteorological technical sites, and military explosives storage areas”, available at www.gov.scot/publications/ or by contacting Scottish Government Planning and Architecture Division, Area 2H, Victoria Quay, Edinburgh, EH6 6QQ.
 
 [^c24451301]: Marginal citation: [S.I. 2017/1013](https://www.legislation.gov.uk/uksi/2017/1013).
 
-[^key-94c64b91ef966ad053f35856e646a37c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2021/98/schedule/1/paragraph/1) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-94c64b91ef966ad053f35856e646a37c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2021/98/schedule/1/paragraph/1) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-af32444a83228179c0e8846b09649044]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2021/98/schedule/1/paragraph/2) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-af32444a83228179c0e8846b09649044]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2021/98/schedule/1/paragraph/2) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
 [^c24451311]: Marginal citation: [2000 asp 10](https://www.legislation.gov.uk/asp/2000/10).
 
@@ -449,110 +449,110 @@ A Business and Regulatory Impact Assessment has been prepared. Copies may be obt
 
 [^c24451361]: Marginal citation: See command paper 9424.
 
-[^key-524af316c632431174b4a33c1348b8d7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2021/98/schedule/1/paragraph/3) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-524af316c632431174b4a33c1348b8d7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2021/98/schedule/1/paragraph/3) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
 [^c24451371]: Marginal citation: Available at https://map.environment.gov.scot/sewebmap/ or by contacting Scottish Natural Heritage, Great Glen House, Leachkin Road, Inverness, IV3 8NW.
 
-[^key-2d2ac7ac95d0fb210f19988025d84d93]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/1) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-2d2ac7ac95d0fb210f19988025d84d93]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/1) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-db1b076eb1355c4a9524063d5ccf0943]: Textual amendment: Words in [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/1) inserted (1.10.2021) by [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [5(a)](https://www.legislation.gov.uk/ssi/2021/293/article/5/a)
+[^c-db1b076eb1355c4a9524063d5ccf0943]: Textual amendment: Words in [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/1) inserted (1.10.2021) by [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [5(a)](https://www.legislation.gov.uk/ssi/2021/293/article/5/a)
 
-[^key-1718862b759a1b2edad93cbf926ffcfa]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/2) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-1718862b759a1b2edad93cbf926ffcfa]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/2) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-572cf73b05f08bd37486f38709735f99]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/3) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-572cf73b05f08bd37486f38709735f99]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/3) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-e4d51ea4da8002729aab52b7da577583]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/4) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-e4d51ea4da8002729aab52b7da577583]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/4) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
 [^c24451381]: Marginal citation: [S.I. 2003/403](https://www.legislation.gov.uk/uksi/2003/403) as relevantly amended by [S.I. 2016/795](https://www.legislation.gov.uk/uksi/2016/795).
 
 [^c24451391]: Marginal citation: Copies can be obtained at http://www.unece.org/trans/danger/publi/adr/adr2019/19contentse.html
 
-[^key-801604206f60b794693d3e7f6e0ecd84]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/5) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-801604206f60b794693d3e7f6e0ecd84]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/5) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-bd29e570f98c8d3703fb80dff51fd822]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/6) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-bd29e570f98c8d3703fb80dff51fd822]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/6) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-9580e980a15a6f2cde42729161968eae]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/7) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-9580e980a15a6f2cde42729161968eae]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/7) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-8b18507923248089b8f1a98e9f08ffe1]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/8) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-8b18507923248089b8f1a98e9f08ffe1]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/8) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-51eb6d887f3b1b118e5122e4b8c9884f]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/9) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-51eb6d887f3b1b118e5122e4b8c9884f]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/9) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-f4a8d05b22f074aa74bdc30da5285b8b]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/10) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-f4a8d05b22f074aa74bdc30da5285b8b]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/10) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-70e44561bfc1b05a723c8199e0da0b3d]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/11) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-70e44561bfc1b05a723c8199e0da0b3d]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/11) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-c469e5f99339ad59fbc2209b98ce9a95]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/12) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-c469e5f99339ad59fbc2209b98ce9a95]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/12) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-22cd30a251abf0783a350b1577e6bde1]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/13) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-22cd30a251abf0783a350b1577e6bde1]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/13) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-7a8a6f17135207ae11507b70f94bd288]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/14) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-7a8a6f17135207ae11507b70f94bd288]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/14) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-360a5f12355810210d9440f92fc9cc65]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/15) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-360a5f12355810210d9440f92fc9cc65]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/15) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-9ed61d366af9ad6475c7d99f6c075bdc]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/16) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-9ed61d366af9ad6475c7d99f6c075bdc]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/16) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-4b4d3b966700e21d75ab9cdcc05f870f]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/17) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-4b4d3b966700e21d75ab9cdcc05f870f]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/17) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-45b670f8e8596f24fae126b22bef0db9]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/18) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-45b670f8e8596f24fae126b22bef0db9]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/18) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-93d9a89c40d34003495e7aca17c5da50]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/19) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-93d9a89c40d34003495e7aca17c5da50]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/19) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-4792de41b1b72dba8b47b3392474f2dc]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/20) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-4792de41b1b72dba8b47b3392474f2dc]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/20) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-302c46525d8eb4dd87e238f74c654619]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/21) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-302c46525d8eb4dd87e238f74c654619]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/21) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-533e712f89480b26209bed6b4c710219]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/22) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-533e712f89480b26209bed6b4c710219]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/22) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-20b1827f3953c8469c615f1ed54858d5]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/23) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-20b1827f3953c8469c615f1ed54858d5]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/23) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-b3dbf649c61ba9c23c550d350865aeb8]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/24) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-b3dbf649c61ba9c23c550d350865aeb8]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/24) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-e5dc0bec3b923cdb21310b931d37f09e]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/25) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-e5dc0bec3b923cdb21310b931d37f09e]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/25) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-35def4b1247a3b92c2b996eb74fc0468]: Textual amendment: Word in [sch. 2 para. 25](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/25) omitted (1.10.2021) by virtue of [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [5(b)](https://www.legislation.gov.uk/ssi/2021/293/article/5/b)
+[^c-35def4b1247a3b92c2b996eb74fc0468]: Textual amendment: Word in [sch. 2 para. 25](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/25) omitted (1.10.2021) by virtue of [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [5(b)](https://www.legislation.gov.uk/ssi/2021/293/article/5/b)
 
-[^key-3ccafc3162cd72bca7676a9c7491d49f]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/26) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-3ccafc3162cd72bca7676a9c7491d49f]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/26) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-13486fc86224dafe5d959efefc769acc]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/27) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-13486fc86224dafe5d959efefc769acc]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/27) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-683175a115e0b37c64d6897aae074ebf]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/28) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-683175a115e0b37c64d6897aae074ebf]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/28) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-bc5101e7c505fe4231554b5a465e7709]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/29) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-bc5101e7c505fe4231554b5a465e7709]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/29) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-d6e11f3579a092664834201c9bda7898]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/30) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-d6e11f3579a092664834201c9bda7898]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/30) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-1f15e96aa6e670db447827881aa43d65]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/31) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-1f15e96aa6e670db447827881aa43d65]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/31) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-be977b3238070e79c9288695f6c0b578]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/32) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-be977b3238070e79c9288695f6c0b578]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/32) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-38d4e82cecf385f0e019aa3d8f1c917b]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/33) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-38d4e82cecf385f0e019aa3d8f1c917b]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/33) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-1a6cca93c0f2db6950238d0a4ece616c]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/34) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-1a6cca93c0f2db6950238d0a4ece616c]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/ssi/2021/98/schedule/2/paragraph/34) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-8a0b37c2c41ba6fea6e501c2afc2dd5f]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/1) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-8a0b37c2c41ba6fea6e501c2afc2dd5f]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/1) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-47c4dca746221e7723cd611e438a0e69]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/2) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-47c4dca746221e7723cd611e438a0e69]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/2) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-65cc14acf097340dcd8b282d3e9ef0ea]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/3) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-65cc14acf097340dcd8b282d3e9ef0ea]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/3) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-99f47406c222fc1c21fcefca4a8c2b8c]: Textual amendment: Word in [sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/3) substituted (1.10.2021) by [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [6(a)](https://www.legislation.gov.uk/ssi/2021/293/article/6/a)
+[^c-99f47406c222fc1c21fcefca4a8c2b8c]: Textual amendment: Word in [sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/3) substituted (1.10.2021) by [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [6(a)](https://www.legislation.gov.uk/ssi/2021/293/article/6/a)
 
-[^key-dedb74624473165555072aab57bdf4cc]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/4) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-dedb74624473165555072aab57bdf4cc]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/4) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-a7099e6e0b5460483dfa948c221e43e2]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/5) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-a7099e6e0b5460483dfa948c221e43e2]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/5) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
 [^c24451401]: Marginal citation: [S.I. 2015/483](https://www.legislation.gov.uk/uksi/2015/483).
 
-[^key-fa518c26930983122674516e73c25ee3]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/6) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-fa518c26930983122674516e73c25ee3]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/6) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-4ae827864fa3179891a6b1a4d304e7be]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/7) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-4ae827864fa3179891a6b1a4d304e7be]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/7) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-1bdfef76ab1ac3a9a9d1e25e2c5927fc]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/8) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-1bdfef76ab1ac3a9a9d1e25e2c5927fc]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/8) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-7883bf4eae30b2fa5c89f00e3268a94b]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/9) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-7883bf4eae30b2fa5c89f00e3268a94b]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/9) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-c868cf99716e249f5ff31d2577cf6187]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/10) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
+[^c-c868cf99716e249f5ff31d2577cf6187]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/10) in force at 25.3.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/98/article/1/1)
 
-[^key-8990f98627e14182bf54359b36b869a0]: Textual amendment: Word in [sch. 3 para. 10(a)](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/10/a) omitted (1.10.2021) by virtue of [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [6(b)](https://www.legislation.gov.uk/ssi/2021/293/article/6/b)
+[^c-8990f98627e14182bf54359b36b869a0]: Textual amendment: Word in [sch. 3 para. 10(a)](https://www.legislation.gov.uk/ssi/2021/98/schedule/3/paragraph/10/a) omitted (1.10.2021) by virtue of [The the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Amendment Order 2021 (S.S.I. 2021/293)](https://www.legislation.gov.uk/ssi/2021/293), [arts. 1](https://www.legislation.gov.uk/ssi/2021/293/article/1), [6(b)](https://www.legislation.gov.uk/ssi/2021/293/article/6/b)
 
 [^c24451411]: Marginal citation: [1973 c.65](https://www.legislation.gov.uk/ukpga/1973/65).

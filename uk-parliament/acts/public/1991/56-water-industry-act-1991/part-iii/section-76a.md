@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76A. Temporary bans: supplemental[^key-5e9e0f3aa74e8cc34bf64fe94793df76]
+## 76A. Temporary bans: supplemental[^c-5e9e0f3aa74e8cc34bf64fe94793df76]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e9e0f3aa74e8cc34bf64fe94793df76]: Textual amendment: Ss. 76-76C substituted for s. 76 (1.9.2010 for specified purposes, 1.10.2010 in so far as not already in force) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 36](https://www.legislation.gov.uk/ukpga/2010/29/section/36), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [arts. 3(3)](https://www.legislation.gov.uk/uksi/2010/2169/article/3/3), [4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2169/article/5))
+[^c-5e9e0f3aa74e8cc34bf64fe94793df76]: Textual amendment: Ss. 76-76C substituted for s. 76 (1.9.2010 for specified purposes, 1.10.2010 in so far as not already in force) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 36](https://www.legislation.gov.uk/ukpga/2010/29/section/36), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [arts. 3(3)](https://www.legislation.gov.uk/uksi/2010/2169/article/3/3), [4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2169/article/5))

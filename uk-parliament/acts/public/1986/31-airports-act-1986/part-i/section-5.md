@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Government investment in securities of the successor company.[^key-a322ab972b4553e569a6563842327ae8]
+## 5. Government investment in securities of the successor company.[^c-a322ab972b4553e569a6563842327ae8]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a322ab972b4553e569a6563842327ae8]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1986/31/section/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-a322ab972b4553e569a6563842327ae8]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1986/31/section/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)

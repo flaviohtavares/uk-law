@@ -36,7 +36,7 @@ An Act to make provision about the disclosure of certain information for purpose
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Disclosure of information[^key-3e0d1ad7661722d716a4e1ce1e8fce3f]
+## 1. Disclosure of information[^c-3e0d1ad7661722d716a4e1ce1e8fce3f]
 
 (1) The Secretary of State and the Northern Ireland department may, at the request of a relevant person, supply a relevant person with social security information for use (by the person to whom it is supplied or by another relevant person) in connection with switchover help functions.
 
@@ -61,7 +61,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (b) making contact with such persons with a view to the provision of such help; and
 - (c) the establishment of any person's entitlement to such help.
 
-## 2. Kinds of information referred to in section 1[^key-3e0d1ad7661722d716a4e1ce1e8fce3f]
+## 2. Kinds of information referred to in section 1[^c-3e0d1ad7661722d716a4e1ce1e8fce3f]
 
 (1) This section applies for the purposes of section 1.
 
@@ -84,7 +84,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (7) An order under this section may make different provision in relation to different cases.
 
-## 3. Offences[^key-3e0d1ad7661722d716a4e1ce1e8fce3f]
+## 3. Offences[^c-3e0d1ad7661722d716a4e1ce1e8fce3f]
 
 (1) A relevant person must not disclose without lawful authority any information supplied to him or another relevant person under section 1.
 
@@ -126,17 +126,17 @@ and that he had no reasonable cause to believe otherwise.
 
 *Extent: E+W*
 
-(7A)[^key-d1f314f1fabdd404445acb8270759713] In the application of this section in England and Wales, the reference in subsection (7)(b) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
+(7A)[^c-d1f314f1fabdd404445acb8270759713] In the application of this section in England and Wales, the reference in subsection (7)(b) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
 
 (8) In the application of this section—
 
-- (a)[^key-fe3ca120decd9dde3b2ee254f12cf1ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-fe3ca120decd9dde3b2ee254f12cf1ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in Scotland, until the commencement of section 45(1) of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6), or
 - (c) in Northern Ireland,
 
 the reference in subsection (7)(b) to 12 months is to be read as a reference to 6 months.
 
-## 4. Liability of directors etc[^key-3e0d1ad7661722d716a4e1ce1e8fce3f]
+## 4. Liability of directors etc[^c-3e0d1ad7661722d716a4e1ce1e8fce3f]
 
 (1) If an offence under section 3 committed by a body corporate is shown—
 
@@ -149,7 +149,7 @@ the officer as well as the body corporate is guilty of the offence and liable to
 
 (3) “**Officer**”, in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
 
-## 5. Interpretation[^key-3e0d1ad7661722d716a4e1ce1e8fce3f]
+## 5. Interpretation[^c-3e0d1ad7661722d716a4e1ce1e8fce3f]
 
 (1) In this Act—
 
@@ -187,8 +187,8 @@ the officer as well as the body corporate is guilty of the offence and liable to
 
 ## Annotations
 
-[^key-3e0d1ad7661722d716a4e1ce1e8fce3f]: Modification: [Ss. 1-5](https://www.legislation.gov.uk/ukpga/2007/8/section/1) extended (Isle of Man) (with modifications) (1.1.2008) by [Digital Switchover (Disclosure of Information) (Isle of Man) Order 2007 (S.I. 2007/3472)](https://www.legislation.gov.uk/uksi/2007/3472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3472/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2007/3472/schedule)
+[^c-3e0d1ad7661722d716a4e1ce1e8fce3f]: Modification: [Ss. 1-5](https://www.legislation.gov.uk/ukpga/2007/8/section/1) extended (Isle of Man) (with modifications) (1.1.2008) by [Digital Switchover (Disclosure of Information) (Isle of Man) Order 2007 (S.I. 2007/3472)](https://www.legislation.gov.uk/uksi/2007/3472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3472/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2007/3472/schedule)
 
-[^key-d1f314f1fabdd404445acb8270759713]: Textual amendment: [S. 3(7A)](https://www.legislation.gov.uk/ukpga/2007/8/section/3/7A) inserted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/13/2) (as amended (18.10.2023) by [S.I. 2023/1108](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/3/1))
+[^c-d1f314f1fabdd404445acb8270759713]: Textual amendment: [S. 3(7A)](https://www.legislation.gov.uk/ukpga/2007/8/section/3/7A) inserted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/13/2) (as amended (18.10.2023) by [S.I. 2023/1108](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/3/1))
 
-[^key-fe3ca120decd9dde3b2ee254f12cf1ef]: Textual amendment: [S. 3(8)(a)](https://www.legislation.gov.uk/ukpga/2007/8/section/3/8/a) omitted (E.W.) (7.2.2023 at 12.00 p.m.) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/13/3)
+[^c-fe3ca120decd9dde3b2ee254f12cf1ef]: Textual amendment: [S. 3(8)(a)](https://www.legislation.gov.uk/ukpga/2007/8/section/3/8/a) omitted (E.W.) (7.2.2023 at 12.00 p.m.) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/13/3)

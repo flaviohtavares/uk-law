@@ -31,22 +31,22 @@ Regional Development Grants (Termination) Act 1988 (repealed)
 
 1988 c. 11
 
-[^key-035b40a21ce08aa02f5d063f8eb25edc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-035b40a21ce08aa02f5d063f8eb25edc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Termination of regional development grants.[^key-035b40a21ce08aa02f5d063f8eb25edc][^key-035b40a21ce08aa02f5d063f8eb25edc]
+## 1. Termination of regional development grants.[^c-035b40a21ce08aa02f5d063f8eb25edc][^c-035b40a21ce08aa02f5d063f8eb25edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Restriction of payments of grant.[^key-035b40a21ce08aa02f5d063f8eb25edc][^key-035b40a21ce08aa02f5d063f8eb25edc]
+## 2. Restriction of payments of grant.[^c-035b40a21ce08aa02f5d063f8eb25edc][^c-035b40a21ce08aa02f5d063f8eb25edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title.[^key-035b40a21ce08aa02f5d063f8eb25edc][^key-035b40a21ce08aa02f5d063f8eb25edc]
+## 3. Short title.[^c-035b40a21ce08aa02f5d063f8eb25edc][^c-035b40a21ce08aa02f5d063f8eb25edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-035b40a21ce08aa02f5d063f8eb25edc]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1988/11) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-035b40a21ce08aa02f5d063f8eb25edc]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1988/11) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2

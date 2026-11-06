@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. WEEE from private households which presents a health and safety risk[^key-6362bf7a0264b008f33d2ca18f2a323b]
+## 49. WEEE from private households which presents a health and safety risk[^c-6362bf7a0264b008f33d2ca18f2a323b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in these Regulations will prevent any person from refusing to handle WEE
 
 ## Annotations
 
-[^key-6362bf7a0264b008f33d2ca18f2a323b]: Commencement: Reg. 49 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-6362bf7a0264b008f33d2ca18f2a323b]: Commencement: Reg. 49 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

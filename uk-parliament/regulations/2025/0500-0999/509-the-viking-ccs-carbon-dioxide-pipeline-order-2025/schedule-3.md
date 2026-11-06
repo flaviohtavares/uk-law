@@ -22,7 +22,7 @@ summary: ''
 
 Articles 9 and 10
 
-### PART 1 — Streets subject to permanent street works[^key-29623bc57ecd4e1f82f6bdd91ef5c5de]
+### PART 1 — Streets subject to permanent street works[^c-29623bc57ecd4e1f82f6bdd91ef5c5de]
 
 | (1) Area | (2) Streets subject to street works | (3) Description of the street works |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ Articles 9 and 10
 | In the borough of North East Lincolnshire | Thoroughfare | Construction of a permanent access to Work No. 21, point 16-AB as shown on sheet 16 of the access and rights of way plans. |
 | In the district of East Lindsey | Louth Road | Construction of a permanent access to Work No. 31, point 25-AA as shown on sheet 26 of the access and rights of way plans, and Work No. 31a. Installation and use of cables and fibre optic cables at a designated location along Louth Road<br>to Work No. 31 (between point 25-SA and 26-SA) as shown on sheets 25 and 26 of the access and rights of way plans. |
 
-### PART 2 — Streets subject to temporary street works[^key-26db7fb52f1d5f36f3b38212c30ee139]
+### PART 2 — Streets subject to temporary street works[^c-26db7fb52f1d5f36f3b38212c30ee139]
 
 | (1) Area | (2) Streets subject to street works | (3) Description of the street works |
 | --- | --- | --- |
@@ -90,6 +90,6 @@ Articles 9 and 10
 
 ## Annotations
 
-[^key-29623bc57ecd4e1f82f6bdd91ef5c5de]: Commencement: Sch. 3 Pt. 1 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-29623bc57ecd4e1f82f6bdd91ef5c5de]: Commencement: Sch. 3 Pt. 1 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
-[^key-26db7fb52f1d5f36f3b38212c30ee139]: Commencement: Sch. 3 Pt. 2 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-26db7fb52f1d5f36f3b38212c30ee139]: Commencement: Sch. 3 Pt. 2 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)

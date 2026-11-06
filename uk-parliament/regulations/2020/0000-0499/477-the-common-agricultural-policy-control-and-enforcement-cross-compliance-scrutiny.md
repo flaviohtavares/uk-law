@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) (Coronavirus) (Amendment) (England) Regulations 2020 (revoked)[^key-bf6301b1f7bbd74e8c4f4f8c00eb1d64]
+The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) (Coronavirus) (Amendment) (England) Regulations 2020 (revoked)[^c-bf6301b1f7bbd74e8c4f4f8c00eb1d64]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 15th May 2020
 
-[^key-bf6301b1f7bbd74e8c4f4f8c00eb1d64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf6301b1f7bbd74e8c4f4f8c00eb1d64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bf6301b1f7bbd74e8c4f4f8c00eb1d64]
+## 1. Citation and commencement[^c-bf6301b1f7bbd74e8c4f4f8c00eb1d64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^key-bf6301b1f7bbd74e8c4f4f8c00eb1d64]
+## 2. Amendment of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^c-bf6301b1f7bbd74e8c4f4f8c00eb1d64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf6301b1f7bbd74e8c4f4f8c00eb1d64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf6301b1f7bbd74e8c4f4f8c00eb1d64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf6301b1f7bbd74e8c4f4f8c00eb1d64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf6301b1f7bbd74e8c4f4f8c00eb1d64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bf6301b1f7bbd74e8c4f4f8c00eb1d64]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/477) revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))
+[^c-bf6301b1f7bbd74e8c4f4f8c00eb1d64]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/477) revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))

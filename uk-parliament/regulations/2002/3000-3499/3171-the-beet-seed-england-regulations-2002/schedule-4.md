@@ -16,44 +16,44 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 4 — CONDITIONS TO BE SATISFIED BY THE SEED[^key-c50edc14b7ccb21781759ba29dc7ab94]
+## SCHEDULE 4 — CONDITIONS TO BE SATISFIED BY THE SEED[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
 *Extent: E+W+S+NI*
 
 **No longer in force.**
 
-### PART I — Conditions to be examined mainly by field inspections[^key-c50edc14b7ccb21781759ba29dc7ab94]
+### PART I — Conditions to be examined mainly by field inspections[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
-**1.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — Conditions to be examined by seed testing[^key-c50edc14b7ccb21781759ba29dc7ab94]
+### PART II — Conditions to be examined by seed testing[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
-**2.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — Other conditions[^key-c50edc14b7ccb21781759ba29dc7ab94]
+### PART III — Other conditions[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
-**11.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — General provisions[^key-c50edc14b7ccb21781759ba29dc7ab94]
+### PART IV — General provisions[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
-**12.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c50edc14b7ccb21781759ba29dc7ab94]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3171) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(a)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/a)
+[^c-c50edc14b7ccb21781759ba29dc7ab94]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3171) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(a)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/a)

@@ -37,7 +37,7 @@ Made
 
 The Welsh Ministers, in exercise of the powers conferred by section 100(3) and (4) of the Additional Learning Needs and Education Tribunal (Wales) Act 2018[^f00001], make the following Order:
 
-## 1. Title and interpretation[^key-c35314d18f69658962d551bf0d2537ee]
+## 1. Title and interpretation[^c-c35314d18f69658962d551bf0d2537ee]
 
 (1) The title of this Order is the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 7) Order 2021.
 
@@ -79,11 +79,11 @@ The Welsh Ministers, in exercise of the powers conferred by section 100(3) and (
 
 (4) This Order does not apply to a person in relation to whom provisions of the Act were commenced by the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 2) Order 2021[^f00009].
 
-## 2. Meaning of identified special educational needs[^key-365fd944c4c098b42ac6941640dac5df]
+## 2. Meaning of identified special educational needs[^c-365fd944c4c098b42ac6941640dac5df]
 
 A child “C” has “identified special educational needs” for the purposes of this Order if C has a learning difficulty identified by a proprietor or a local authority which calls for special educational provision to be made for C.
 
-## 3. Provisions coming into force on 1 January 2022[^key-026d89aadeeeda381c4c4d4d7a597d29]
+## 3. Provisions coming into force on 1 January 2022[^c-026d89aadeeeda381c4c4d4d7a597d29]
 
 The following provisions of the Act come into force on 1 January 2022 except in relation to a person who falls into any of the paragraphs in article 4 on 1 January 2022—
 
@@ -128,7 +128,7 @@ The following provisions of the Act come into force on 1 January 2022 except in 
   - (xxiv) paragraph 24(1) for the purposes of the provisions in sub-paragraph (xxv);
   - (xxv) paragraph 24(3) and (6)(a).
 
-**4.**[^key-da6a0d9c832611155a8cca33b9a06425] A person—
+**4.**[^c-da6a0d9c832611155a8cca33b9a06425] A person—
 
 - (a) who is in year 11;
 - (b) who is not at a school and will attain the age of 16 during the 2021-2022 school year;
@@ -320,7 +320,7 @@ The following provisions of the Act have been brought into force by Commencement
 
 [^f00001]: Footnote: [2018 anaw 2](https://www.legislation.gov.uk/anaw/2018/2).
 
-[^key-c35314d18f69658962d551bf0d2537ee]: Commencement: Art. 1 in force at made date
+[^c-c35314d18f69658962d551bf0d2537ee]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
@@ -338,11 +338,11 @@ The following provisions of the Act have been brought into force by Commencement
 
 [^f00009]: Footnote: [S.I. 2021/373 (W. 116) (C. 12)](https://www.legislation.gov.uk/wsi/2021/373) amended by [S.I. 2021/735 (W. 184) (C. 34)](https://www.legislation.gov.uk/wsi/2021/735) and [S.I. 2021/938 (W. 214) (C. 49)](https://www.legislation.gov.uk/wsi/2021/938).
 
-[^key-365fd944c4c098b42ac6941640dac5df]: Commencement: Art. 2 in force at made date
+[^c-365fd944c4c098b42ac6941640dac5df]: Commencement: Art. 2 in force at made date
 
-[^key-026d89aadeeeda381c4c4d4d7a597d29]: Commencement: Art. 3 in force at made date
+[^c-026d89aadeeeda381c4c4d4d7a597d29]: Commencement: Art. 3 in force at made date
 
-[^key-da6a0d9c832611155a8cca33b9a06425]: Commencement: Art. 4 in force at made date
+[^c-da6a0d9c832611155a8cca33b9a06425]: Commencement: Art. 4 in force at made date
 
 [^f00010]: Footnote: [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21).
 

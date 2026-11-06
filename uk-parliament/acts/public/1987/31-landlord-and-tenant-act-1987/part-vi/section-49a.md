@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49A. Notification by landlord of building safety information: England[^key-c0552f2ab51634ad1ec028538a362b33]
+## 49A. Notification by landlord of building safety information: England[^c-c0552f2ab51634ad1ec028538a362b33]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0552f2ab51634ad1ec028538a362b33]: Textual amendment: [S. 49A](https://www.legislation.gov.uk/ukpga/1987/31/section/49A) inserted (28.4.2022 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 113(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/113/3), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164))
+[^c-c0552f2ab51634ad1ec028538a362b33]: Textual amendment: [S. 49A](https://www.legislation.gov.uk/ukpga/1987/31/section/49A) inserted (28.4.2022 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 113(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/113/3), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164))

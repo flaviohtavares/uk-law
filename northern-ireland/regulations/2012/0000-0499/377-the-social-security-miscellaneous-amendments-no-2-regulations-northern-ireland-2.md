@@ -92,7 +92,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 .
 
-(3)[^key-a0427a9921ff04f4a95b2891a76fc3e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a0427a9921ff04f4a95b2891a76fc3e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Amendment of the Employment and Support Allowance Regulations
 
@@ -181,7 +181,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^c21410571]: Marginal citation: Paragraph (6C) was inserted by regulation 3(4)(b) of S.R. [2004 No. 308](https://www.legislation.gov.uk/ukcm/2004/308)
 
-[^key-a0427a9921ff04f4a95b2891a76fc3e7]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2012/377/regulation/3/3) revoked (6.4.2015) by [The Social Security (Members of the Reserve Forces) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/184)](https://www.legislation.gov.uk/nisr/2015/184), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/184/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2015/184/regulation/5)
+[^c-a0427a9921ff04f4a95b2891a76fc3e7]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2012/377/regulation/3/3) revoked (6.4.2015) by [The Social Security (Members of the Reserve Forces) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/184)](https://www.legislation.gov.uk/nisr/2015/184), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/184/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2015/184/regulation/5)
 
 [^c21410591]: Marginal citation: S.R. [2008 No. 280](https://www.legislation.gov.uk/ukcm/2008/280); relevant amending Regulation is S.R. [2009 No. 92](https://www.legislation.gov.uk/ukcm/2009/92)
 

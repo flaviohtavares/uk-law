@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Access to premises[^key-7f870b746704dc870fe3cf1babe60190][^key-339c6c9fc2412e52c6e43ef77178ce7a]
+## 97. Access to premises[^c-7f870b746704dc870fe3cf1babe60190][^c-339c6c9fc2412e52c6e43ef77178ce7a]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7f870b746704dc870fe3cf1babe60190]: Commencement: S. 97 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-7f870b746704dc870fe3cf1babe60190]: Commencement: S. 97 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-339c6c9fc2412e52c6e43ef77178ce7a]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2022/30/section/97) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/r)
+[^c-339c6c9fc2412e52c6e43ef77178ce7a]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2022/30/section/97) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/r)

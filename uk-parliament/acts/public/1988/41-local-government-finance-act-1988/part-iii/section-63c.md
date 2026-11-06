@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63C. Freedom of information[^key-d9f9504c10109fc49086e396f6d06c79]
+## 63C. Freedom of information[^c-d9f9504c10109fc49086e396f6d06c79]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9f9504c10109fc49086e396f6d06c79]: Textual amendment: Ss. 63A-63C inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2016/12/section/31/2), [44(2)(d)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/d)
+[^c-d9f9504c10109fc49086e396f6d06c79]: Textual amendment: Ss. 63A-63C inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2016/12/section/31/2), [44(2)(d)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Access to works[^key-14b846e261afed7aa4575febcbbf8e4f]
+## 13. Access to works[^c-14b846e261afed7aa4575febcbbf8e4f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Authority may, for the purposes of the construction, operation or maintenanc
 
 ## Annotations
 
-[^key-14b846e261afed7aa4575febcbbf8e4f]: Commencement: Art. 13 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-14b846e261afed7aa4575febcbbf8e4f]: Commencement: Art. 13 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

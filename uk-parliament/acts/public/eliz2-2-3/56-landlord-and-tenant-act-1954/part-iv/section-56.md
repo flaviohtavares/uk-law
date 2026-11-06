@@ -37,7 +37,7 @@ the said conditions shall be deemed to be satisfied respectively, in relation to
 
 (6) Sections fifty-three and fifty-four of this Act shall apply where the interest of the landlord, or any other interest in the land in question, belongs to Her Majesty in right of the Crown or the Duchy of Lancaster or to the Duchy of Cornwall, or belongs to a Government department or is held on behalf of Her Majesty for the purposes of a Government department, in like manner as if that interest were an interest not so belonging or held.
 
-(6A)[^key-adab4b90be3f07dcb1192cebd306e244] Section 54A and Schedules 7A and 7B apply where the interest of the landlord, or any other interest in the land in question, belongs to His Majesty in right of the Crown or the Duchy of Lancaster or to the Duchy of Cornwall, or belongs to a Government department or is held on behalf of His Majesty for the purposes of a Government department, in like manner as if that interest were an interest not so belonging or held.
+(6A)[^c-adab4b90be3f07dcb1192cebd306e244] Section 54A and Schedules 7A and 7B apply where the interest of the landlord, or any other interest in the land in question, belongs to His Majesty in right of the Crown or the Duchy of Lancaster or to the Duchy of Cornwall, or belongs to a Government department or is held on behalf of His Majesty for the purposes of a Government department, in like manner as if that interest were an interest not so belonging or held.
 
 (7)[^c318958] Part I of this Act shall apply where—
 
@@ -50,6 +50,6 @@ as if it were an interest not so belonging.
 
 [^c318957]: Modification: S. 56(3) extended by [S.I. 1965/1536](https://www.legislation.gov.uk/uksi/1965/1536), [art. 12(2)](https://www.legislation.gov.uk/uksi/1965/1536/article/12/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1965/1536/schedule/3)
 
-[^key-adab4b90be3f07dcb1192cebd306e244]: Textual amendment: S. 56(6A) inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 37 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/37/paragraph/3)
+[^c-adab4b90be3f07dcb1192cebd306e244]: Textual amendment: S. 56(6A) inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 37 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/37/paragraph/3)
 
 [^c318958]: Textual amendment: S. 56(7) inserted by [Housing Act 1980 (c. 51)](https://www.legislation.gov.uk/ukpga/1980/51), [s. 73(4)(a)](https://www.legislation.gov.uk/ukpga/1980/51/section/73/4/a)

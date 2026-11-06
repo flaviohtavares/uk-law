@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Schools and other institutions named in EHC plan: duty to admit[^key-4f9aac2385477c5e33c9743644b49aed]
+## 43. Schools and other institutions named in EHC plan: duty to admit[^c-4f9aac2385477c5e33c9743644b49aed]
 
 *Extent: E+W*
 
 (1) Subsection (2) applies if one of the following is named in an EHC plan—
 
-- (a) a maintained school in England[^key-dc003542cfdca9c75d941c3bba1564c4];
-- (b) a maintained nursery school in England[^key-4b5cc8ee83a6638cd522323d703f3f72];
+- (a) a maintained school in England[^c-dc003542cfdca9c75d941c3bba1564c4];
+- (b) a maintained nursery school in England[^c-4b5cc8ee83a6638cd522323d703f3f72];
 - (c) an Academy;
 - (d) an institution within the further education sector in England;
-- (e) a non-maintained special school in England[^key-a3e880a556d1ebd6885879dc30844a36];
+- (e) a non-maintained special school in England[^c-a3e880a556d1ebd6885879dc30844a36];
 - (f) an institution approved by the Secretary of State under section 41.
 
 (2) The governing body, proprietor or principal of the school or other institution must admit the child or young person for whom the plan is maintained.
@@ -37,10 +37,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4f9aac2385477c5e33c9743644b49aed]: Commencement: S. 43 in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505) and (1.9.2015) by [S.I. 2015/1619](https://www.legislation.gov.uk/uksi/2015/1619))
+[^c-4f9aac2385477c5e33c9743644b49aed]: Commencement: S. 43 in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505) and (1.9.2015) by [S.I. 2015/1619](https://www.legislation.gov.uk/uksi/2015/1619))
 
-[^key-dc003542cfdca9c75d941c3bba1564c4]: Textual amendment: Words in [s. 43(1)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/43/1/a) inserted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 23(3)(a)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/23/3/a); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxviii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxviii)
+[^c-dc003542cfdca9c75d941c3bba1564c4]: Textual amendment: Words in [s. 43(1)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/43/1/a) inserted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 23(3)(a)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/23/3/a); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxviii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxviii)
 
-[^key-4b5cc8ee83a6638cd522323d703f3f72]: Textual amendment: Words in [s. 43(1)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/43/1/b) inserted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 23(3)(b)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/23/3/b); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxviii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxviii)
+[^c-4b5cc8ee83a6638cd522323d703f3f72]: Textual amendment: Words in [s. 43(1)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/43/1/b) inserted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 23(3)(b)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/23/3/b); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxviii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxviii)
 
-[^key-a3e880a556d1ebd6885879dc30844a36]: Textual amendment: Words in [s. 43(1)(e)](https://www.legislation.gov.uk/ukpga/2014/6/section/43/1/e) inserted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 23(3)(c)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/23/3/c); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxviii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxviii)
+[^c-a3e880a556d1ebd6885879dc30844a36]: Textual amendment: Words in [s. 43(1)(e)](https://www.legislation.gov.uk/ukpga/2014/6/section/43/1/e) inserted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 23(3)(c)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/23/3/c); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxviii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxviii)

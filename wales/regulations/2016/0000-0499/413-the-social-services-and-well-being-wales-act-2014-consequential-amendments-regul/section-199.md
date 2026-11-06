@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**199.**[^key-a8dca250c476302b2a70b13cba4d61c3] (1) Paragraph 1(1) of Schedule 3 of the Nationality, Immigration and Asylum Act 2002 (withholding and withdrawal of support) is amended as follows.
+**199.**[^c-a8dca250c476302b2a70b13cba4d61c3] (1) Paragraph 1(1) of Schedule 3 of the Nationality, Immigration and Asylum Act 2002 (withholding and withdrawal of support) is amended as follows.
 
 (2) Omit paragraphs (a), (b) and (e).
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8dca250c476302b2a70b13cba4d61c3]: Commencement: Reg. 199 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-a8dca250c476302b2a70b13cba4d61c3]: Commencement: Reg. 199 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

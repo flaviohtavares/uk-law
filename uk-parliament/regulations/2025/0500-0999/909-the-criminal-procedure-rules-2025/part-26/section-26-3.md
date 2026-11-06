@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26.3. Provision of information for jurors[^key-ccdda233cf0ae9e58782b950ee9b7f38]
+## 26.3. Provision of information for jurors[^c-ccdda233cf0ae9e58782b950ee9b7f38]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ The court officer must arrange for each juror to receive—
 
 ## Annotations
 
-[^key-ccdda233cf0ae9e58782b950ee9b7f38]: Commencement: [Rule 26.3](https://www.legislation.gov.uk/uksi/2025/909/rule/26.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ccdda233cf0ae9e58782b950ee9b7f38]: Commencement: [Rule 26.3](https://www.legislation.gov.uk/uksi/2025/909/rule/26.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00626]: Footnote: [1974 c. 23](https://www.legislation.gov.uk/ukpga/1974/23); sections 20A, 20B, 20C and 20D were inserted by sections 71, 72, 73 and 74 respectively of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).

@@ -44,47 +44,47 @@ Coming into force
 
 22nd December 2023
 
-[^key-5114b8d0815225310877efc79403f71e]The Secretary of State makes these Regulations in exercise of the powers conferred by Articles 9(1) and 18A(3) of Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council on additives for use in animal nutrition[^f00001].
+[^c-5114b8d0815225310877efc79403f71e]The Secretary of State makes these Regulations in exercise of the powers conferred by Articles 9(1) and 18A(3) of Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council on additives for use in animal nutrition[^f00001].
 
 As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00002] there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## 1. Citation, commencement, extent, and application[^key-d14a939d5352df7cbaed17ec05d83eff]
+## 1. Citation, commencement, extent, and application[^c-d14a939d5352df7cbaed17ec05d83eff]
 
-(1) These Regulations may be cited as the Feed Additives (Authorisations) (England) Regulations 2023 and come into force on 22nd December 2023. *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e]
+(1) These Regulations may be cited as the Feed Additives (Authorisations) (England) Regulations 2023 and come into force on 22nd December 2023. *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e]
 
-(2) These Regulations extend to England and Wales but apply in relation to England only. *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e]
+(2) These Regulations extend to England and Wales but apply in relation to England only. *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e]
 
-## 2. Interpretation[^key-f42c76346929c611e63000f516c33bc3]
+## 2. Interpretation[^c-f42c76346929c611e63000f516c33bc3]
 
-(1) In these Regulations— *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e]
+(1) In these Regulations— *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e]
 
-- (a) “**Regulation *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e] [(EC) 1831/2003 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2003/1831)[^key-5114b8d0815225310877efc79403f71e]**” means Regulation *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e] [(EC) No. 1831/2003 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2003/1831)[^key-5114b8d0815225310877efc79403f71e] of the European Parliament and of the Council on additives for use in animal nutrition; *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e]
-- (b) “**Regulation *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e] [(EC) 429/2008 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2008/0429)[^key-5114b8d0815225310877efc79403f71e]**” means *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e] [Commission Regulation (EC) No. 429/2008 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2008/0429)[^key-5114b8d0815225310877efc79403f71e] on detailed rules for the implementation of Regulation *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e] [(EC) 1831/2003 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2003/1831)[^key-5114b8d0815225310877efc79403f71e] of the European Parliament and of the Council as regards the preparation and the presentation of applications and the assessment and the authorisation of feed additives *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e][^f00003];
-- (c) “**Regulation *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e] [(EC) 152/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0152)[^key-5114b8d0815225310877efc79403f71e]**” means *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e] [Commission Regulation (EC) No. 152/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0152)[^key-5114b8d0815225310877efc79403f71e] laying down the methods of sampling and analysis for the official control of feed *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e][^f00004].
+- (a) “**Regulation *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e] [(EC) 1831/2003 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2003/1831)[^c-5114b8d0815225310877efc79403f71e]**” means Regulation *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e] [(EC) No. 1831/2003 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2003/1831)[^c-5114b8d0815225310877efc79403f71e] of the European Parliament and of the Council on additives for use in animal nutrition; *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e]
+- (b) “**Regulation *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e] [(EC) 429/2008 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2008/0429)[^c-5114b8d0815225310877efc79403f71e]**” means *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e] [Commission Regulation (EC) No. 429/2008 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2008/0429)[^c-5114b8d0815225310877efc79403f71e] on detailed rules for the implementation of Regulation *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e] [(EC) 1831/2003 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2003/1831)[^c-5114b8d0815225310877efc79403f71e] of the European Parliament and of the Council as regards the preparation and the presentation of applications and the assessment and the authorisation of feed additives *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e][^f00003];
+- (c) “**Regulation *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e] [(EC) 152/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0152)[^c-5114b8d0815225310877efc79403f71e]**” means *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e] [Commission Regulation (EC) No. 152/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0152)[^c-5114b8d0815225310877efc79403f71e] laying down the methods of sampling and analysis for the official control of feed *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e][^f00004].
 
-(2) Any expression used both in these Regulations and in Regulation *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e] [(EC) 1831/2003 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2003/1831)[^key-5114b8d0815225310877efc79403f71e] or Regulation *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e] [(EC) No. 767/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0767)[^key-5114b8d0815225310877efc79403f71e] of the European Parliament and of the Council on the placing on the market and use of feed, etc *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e][^f00005] has the same meaning as it has in those Regulations. *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e]
+(2) Any expression used both in these Regulations and in Regulation *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e] [(EC) 1831/2003 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2003/1831)[^c-5114b8d0815225310877efc79403f71e] or Regulation *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e] [(EC) No. 767/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0767)[^c-5114b8d0815225310877efc79403f71e] of the European Parliament and of the Council on the placing on the market and use of feed, etc *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e][^f00005] has the same meaning as it has in those Regulations. *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e]
 
-(3) In Schedules 1 to 13, in the tables, in the row relating to “ *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e]*Species or category of animal *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e]*”, expressions used that are also used in Annex 4 of Regulation *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e] [(EC) 429/2008 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2008/0429)[^key-5114b8d0815225310877efc79403f71e] (categories and definitions of target animals etc.) have the same meaning as in that Annex. *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e]
+(3) In Schedules 1 to 13, in the tables, in the row relating to “ *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e]*Species or category of animal *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e]*”, expressions used that are also used in Annex 4 of Regulation *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e] [(EC) 429/2008 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2008/0429)[^c-5114b8d0815225310877efc79403f71e] (categories and definitions of target animals etc.) have the same meaning as in that Annex. *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e]
 
-## 3. Authorisation of various feed additives[^key-5114b8d0815225310877efc79403f71e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Amendment of Commission Implementing [Regulation (EU) No.601/2013](https://www.legislation.gov.uk/european/regulation/2013/0601)[^key-5114b8d0815225310877efc79403f71e]
+## 3. Authorisation of various feed additives[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Commission Implementing [Regulation (EU) 2019/221](https://www.legislation.gov.uk/european/regulation/2019/0221)[^key-5114b8d0815225310877efc79403f71e]
+## 4. Amendment of Commission Implementing [Regulation (EU) No.601/2013](https://www.legislation.gov.uk/european/regulation/2013/0601)[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional provision: endo-1,4-beta-xylanase (EC 3.2.1.8) (identification number 4a8)[^key-d99fa262eac83807a7160644a8d54007]
+## 5. Amendment of Commission Implementing [Regulation (EU) 2019/221](https://www.legislation.gov.uk/european/regulation/2019/0221)[^c-5114b8d0815225310877efc79403f71e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Transitional provision: endo-1,4-beta-xylanase (EC 3.2.1.8) (identification number 4a8)[^c-d99fa262eac83807a7160644a8d54007]
 
 (1) Stocks of the relevant feed additive, and premixtures containing it, which are produced and labelled before the end of 21st June 2024 in accordance with the conditions of the prior authorisation and the labelling requirements applicable before 22nd December 2023, may continue to be placed on the market and used until they are exhausted.
 
@@ -95,11 +95,11 @@ As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislati
 - “**relevant feed additive**” means the feed additive endo-1,4-beta-xylanase (EC 3.2.1.8), with the identification number 4a8 authorised under the prior authorisation;
 - “**prior authorisation**” means the authorisation contained in [Commission Regulation (EC) No 902/2009](https://www.legislation.gov.uk/european/regulation/2009/0902) concerning the authorisation of an enzyme preparation of endo-1,4-beta-xylanase produced by *Trichoderma reesei* (CBS 114044) as a feed additive for weaned piglets, chickens for fattening, chickens reared for laying, turkeys for fattening and turkeys reared for breeding (holder of authorisation Roal Oy)[^f00008].
 
-## 7. Revocation of retained direct EU legislation[^key-7d8bc0786b21d351b3cd1b83fb350c6a]
+## 7. Revocation of retained direct EU legislation[^c-7d8bc0786b21d351b3cd1b83fb350c6a]
 
-(1)[^key-5114b8d0815225310877efc79403f71e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-5114b8d0815225310877efc79403f71e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The instrument in Part 2 of Schedule 14 is revoked subject to regulation 6. *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e]
+(2) The instrument in Part 2 of Schedule 14 is revoked subject to regulation 6. *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e]
 
 Neil O’Brien
 
@@ -109,7 +109,7 @@ Department of Health and Social Care
 
 8th November 2023
 
-## SCHEDULE 1 — Renewal of authorisation of a preparation of endo-1,4-beta-xylanase (EC 3.2.1.8) produced from Trichoderma reesei (CBS 143953, formerly ATCC PTA 5588) (identification number 4a11) as a feed additive for chickens for fattening, laying hens, turkeys for fattening, ducks, minor poultry species, weaned piglets and piglets for fattening, and its authorisation extending to the use for all poultry species, piglets (suckling and weaned), pigs for fattening and minor porcine species[^key-5114b8d0815225310877efc79403f71e]
+## SCHEDULE 1 — Renewal of authorisation of a preparation of endo-1,4-beta-xylanase (EC 3.2.1.8) produced from Trichoderma reesei (CBS 143953, formerly ATCC PTA 5588) (identification number 4a11) as a feed additive for chickens for fattening, laying hens, turkeys for fattening, ducks, minor poultry species, weaned piglets and piglets for fattening, and its authorisation extending to the use for all poultry species, piglets (suckling and weaned), pigs for fattening and minor porcine species[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
@@ -117,7 +117,7 @@ Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Authorisation of a preparation of Lacticaseibacillus rhamnosus (formerly Lactobacillus rhamnosus) (IMI 507023) (identification number 1k21701) as a feed additive for all animal species[^key-5114b8d0815225310877efc79403f71e]
+## SCHEDULE 2 — Authorisation of a preparation of Lacticaseibacillus rhamnosus (formerly Lactobacillus rhamnosus) (IMI 507023) (identification number 1k21701) as a feed additive for all animal species[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
@@ -125,7 +125,7 @@ Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Authorisation of a preparation of Pediococcus pentosaceus (IMI 507024) (identification number 1k21016) as a feed additive for all animal species[^key-5114b8d0815225310877efc79403f71e]
+## SCHEDULE 3 — Authorisation of a preparation of Pediococcus pentosaceus (IMI 507024) (identification number 1k21016) as a feed additive for all animal species[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
@@ -133,7 +133,7 @@ Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Authorisation of a preparation of Pediococcus pentosaceus (IMI 507025) (identification number 1k21017) as a feed additive for all animal species[^key-5114b8d0815225310877efc79403f71e]
+## SCHEDULE 4 — Authorisation of a preparation of Pediococcus pentosaceus (IMI 507025) (identification number 1k21017) as a feed additive for all animal species[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
@@ -141,7 +141,7 @@ Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (IMI 507026) (identification number 1k21601) as a feed additive for all animal species[^key-5114b8d0815225310877efc79403f71e]
+## SCHEDULE 5 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (IMI 507026) (identification number 1k21601) as a feed additive for all animal species[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
@@ -149,7 +149,7 @@ Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (IMI 507027) (identification number 1k21602) as a feed additive for all animal species[^key-5114b8d0815225310877efc79403f71e]
+## SCHEDULE 6 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (IMI 507027) (identification number 1k21602) as a feed additive for all animal species[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
@@ -157,7 +157,7 @@ Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 7 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (IMI 507028) (identification number 1k21603) as a feed additive for all animal species[^key-5114b8d0815225310877efc79403f71e]
+## SCHEDULE 7 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (IMI 507028) (identification number 1k21603) as a feed additive for all animal species[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
@@ -165,7 +165,7 @@ Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 8 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (DSM 26571) (identification number 1k1604) as a feed additive for all animal species[^key-5114b8d0815225310877efc79403f71e]
+## SCHEDULE 8 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (DSM 26571) (identification number 1k1604) as a feed additive for all animal species[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
@@ -173,7 +173,7 @@ Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 9 — Renewal of authorisation of a preparation of endo-1,4-beta-xylanase (EC 3.2.1.8) produced from Trichoderma reesei (CBS 114044) (identification number 4a8i) as a feed additive for piglets (weaned), chickens for fattening, chickens reared for laying, turkeys for fattening and turkeys reared for breeding[^key-5114b8d0815225310877efc79403f71e]
+## SCHEDULE 9 — Renewal of authorisation of a preparation of endo-1,4-beta-xylanase (EC 3.2.1.8) produced from Trichoderma reesei (CBS 114044) (identification number 4a8i) as a feed additive for piglets (weaned), chickens for fattening, chickens reared for laying, turkeys for fattening and turkeys reared for breeding[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
@@ -181,7 +181,7 @@ Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 10 — Renewal of authorisation of a preparation of 6-phytase (EC 3.1.3.26) produced from Trichoderma reesei (CBS 122001) (identification number 4a12) as a feed additive for pigs, poultry for breeding, poultry for fattening and poultry for laying[^key-5114b8d0815225310877efc79403f71e]
+## SCHEDULE 10 — Renewal of authorisation of a preparation of 6-phytase (EC 3.1.3.26) produced from Trichoderma reesei (CBS 122001) (identification number 4a12) as a feed additive for pigs, poultry for breeding, poultry for fattening and poultry for laying[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
@@ -189,7 +189,7 @@ Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 11 — Authorisation of L‐lysine base (liquid) produced from Corynebacterium glutamicum (KCCM 80216 or KCTC 12307BP) (identification number 3c326) as a feed additive for all for all animal species[^key-5114b8d0815225310877efc79403f71e]
+## SCHEDULE 11 — Authorisation of L‐lysine base (liquid) produced from Corynebacterium glutamicum (KCCM 80216 or KCTC 12307BP) (identification number 3c326) as a feed additive for all for all animal species[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
@@ -197,7 +197,7 @@ Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 12 — Authorisation of L‐lysine monohydrochloride (technically pure) produced from Corynebacterium glutamicum (KCCM 80216 or KCTC 12307BP) (identification number 3c327) as a feed additive for all animal species[^key-5114b8d0815225310877efc79403f71e]
+## SCHEDULE 12 — Authorisation of L‐lysine monohydrochloride (technically pure) produced from Corynebacterium glutamicum (KCCM 80216 or KCTC 12307BP) (identification number 3c327) as a feed additive for all animal species[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
@@ -205,7 +205,7 @@ Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 13 — Authorisation of a preparation of 3-nitrooxypropanol (identification number 4c1) as a feed additive for ruminants for milk production and for reproduction[^key-5114b8d0815225310877efc79403f71e]
+## SCHEDULE 13 — Authorisation of a preparation of 3-nitrooxypropanol (identification number 4c1) as a feed additive for ruminants for milk production and for reproduction[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
@@ -217,15 +217,15 @@ Regulation 3
 
 Regulation 7
 
-### PART 1 — Revocation of retained direct EU legislation in accordance with regulation 7(1)[^key-5114b8d0815225310877efc79403f71e]
+### PART 1 — Revocation of retained direct EU legislation in accordance with regulation 7(1)[^c-5114b8d0815225310877efc79403f71e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 (affected by repeal, see note) — Revocation of retained direct EU legislation in accordance with regulation 7(2) (affected by repeal, see note)[^key-ee62107ea5fc691a2ad83c2fbf55852e][^key-5114b8d0815225310877efc79403f71e][^key-5114b8d0815225310877efc79403f71e]
+### PART 2 (affected by repeal, see note) — Revocation of retained direct EU legislation in accordance with regulation 7(2) (affected by repeal, see note)[^c-ee62107ea5fc691a2ad83c2fbf55852e][^c-5114b8d0815225310877efc79403f71e][^c-5114b8d0815225310877efc79403f71e]
 
-[Commission Regulation (EC) No 902/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0902)[^key-5114b8d0815225310877efc79403f71e] concerning the authorisation of an enzyme preparation of endo-1,4-beta-xylanase produced by *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e] *Trichoderma reesei *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e]* (CBS 114044) as a feed additive for weaned piglets, chickens for fattening, chickens reared for laying, turkeys for fattening and turkeys reared for breeding (holder of authorisation Roal Oy) *(affected by repeal, see note)*[^key-5114b8d0815225310877efc79403f71e][^f00021].
+[Commission Regulation (EC) No 902/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0902)[^c-5114b8d0815225310877efc79403f71e] concerning the authorisation of an enzyme preparation of endo-1,4-beta-xylanase produced by *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e] *Trichoderma reesei *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e]* (CBS 114044) as a feed additive for weaned piglets, chickens for fattening, chickens reared for laying, turkeys for fattening and turkeys reared for breeding (holder of authorisation Roal Oy) *(affected by repeal, see note)*[^c-5114b8d0815225310877efc79403f71e][^f00021].
 
 EXPLANATORY NOTE
 
@@ -265,15 +265,15 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 ## Annotations
 
-[^key-5114b8d0815225310877efc79403f71e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/1196) revoked (except for reg. 6 and regs. 1, 2, 7(2), Sch. 14 Pt. 2 so far as they relate to reg. 6) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 3 para. (h)](https://www.legislation.gov.uk/uksi/2025/361/schedule/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-5114b8d0815225310877efc79403f71e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/1196) revoked (except for reg. 6 and regs. 1, 2, 7(2), Sch. 14 Pt. 2 so far as they relate to reg. 6) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 3 para. (h)](https://www.legislation.gov.uk/uksi/2025/361/schedule/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
 [^f00001]: Footnote: EUR 2003/1831, amended by [S.I. 2019/654](https://www.legislation.gov.uk/uksi/2019/654), [2022/377](https://www.legislation.gov.uk/uksi/2022/377) and [1351](https://www.legislation.gov.uk/uksi/2022/1351). See Article 2 for the definitions of “appropriate authority” and “prescribe”.
 
 [^f00002]: Footnote: EUR 2002/178, amended by [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641).
 
-[^key-d14a939d5352df7cbaed17ec05d83eff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1/1)
+[^c-d14a939d5352df7cbaed17ec05d83eff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1/1)
 
-[^key-f42c76346929c611e63000f516c33bc3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1196/regulation/2) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1/1)
+[^c-f42c76346929c611e63000f516c33bc3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1196/regulation/2) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1/1)
 
 [^f00003]: Footnote: EUR 2008/429, amended by [S.I. 2019/654](https://www.legislation.gov.uk/uksi/2019/654) and [2022/1351](https://www.legislation.gov.uk/uksi/2022/1351). [S.I. 2019/654](https://www.legislation.gov.uk/uksi/2019/654) was itself amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504).
 
@@ -281,12 +281,12 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00005]: Footnote: EUR 2009/767, amended by [S.I. 2019/654](https://www.legislation.gov.uk/uksi/2019/654) and [2022/1351](https://www.legislation.gov.uk/uksi/2022/1351).
 
-[^key-d99fa262eac83807a7160644a8d54007]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/1196/regulation/6) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1/1)
+[^c-d99fa262eac83807a7160644a8d54007]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/1196/regulation/6) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1/1)
 
 [^f00008]: Footnote: EUR 2009/902.
 
-[^key-7d8bc0786b21d351b3cd1b83fb350c6a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/1196/regulation/7) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1/1)
+[^c-7d8bc0786b21d351b3cd1b83fb350c6a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/1196/regulation/7) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1/1)
 
-[^key-ee62107ea5fc691a2ad83c2fbf55852e]: Commencement: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1196/schedule/14/part/2) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1/1)
+[^c-ee62107ea5fc691a2ad83c2fbf55852e]: Commencement: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1196/schedule/14/part/2) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1/1)
 
 [^f00021]: Footnote: EUR 2009/902.

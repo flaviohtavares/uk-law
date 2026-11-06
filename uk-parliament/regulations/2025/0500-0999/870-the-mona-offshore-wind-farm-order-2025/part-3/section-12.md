@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Temporary restriction of use of streets[^key-0123581582ae36a033832aadf95633ec]
+## 12. Temporary restriction of use of streets[^c-0123581582ae36a033832aadf95633ec]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0123581582ae36a033832aadf95633ec]: Commencement: Art. 12 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-0123581582ae36a033832aadf95633ec]: Commencement: Art. 12 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)

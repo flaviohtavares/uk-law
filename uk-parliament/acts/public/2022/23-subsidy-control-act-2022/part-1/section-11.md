@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Subsidies and schemes of interest or particular interest[^key-177957c94df69681b6546c08f95fa2a2]
+## 11. Subsidies and schemes of interest or particular interest[^c-177957c94df69681b6546c08f95fa2a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ have the meanings given in regulations made by the Secretary of State.
 
 ## Annotations
 
-[^key-177957c94df69681b6546c08f95fa2a2]: Commencement: S. 11 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)
+[^c-177957c94df69681b6546c08f95fa2a2]: Commencement: S. 11 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)

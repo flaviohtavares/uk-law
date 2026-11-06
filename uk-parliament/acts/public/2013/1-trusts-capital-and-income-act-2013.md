@@ -36,7 +36,7 @@ An Act to amend the law relating to capital and income in trusts.
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Disapplication of apportionment etc. rules[^key-0afae0079ee9ff79ac26c3b96dea209b]
+## 1. Disapplication of apportionment etc. rules[^c-0afae0079ee9ff79ac26c3b96dea209b]
 
 (1) Any entitlement to income under a new trust is to income as it arises (and accordingly section 2 of the Apportionment Act 1870, which provides for income to accrue from day to day, does not apply in relation to the trust).
 
@@ -56,7 +56,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (5) In this section “**new trust**” means a trust created or arising on or after the day on which this section comes into force (and includes a trust created or arising on or after that day under a power conferred before that day).
 
-## 2. Classification of certain corporate distributions as capital[^key-565da7b8606929ebcfbb9109446a2e3a]
+## 2. Classification of certain corporate distributions as capital[^c-565da7b8606929ebcfbb9109446a2e3a]
 
 (1) A receipt consisting of a tax-exempt corporate distribution is to be treated for the purposes of any trust to which this section applies as a receipt of capital (even if it would otherwise be treated for those purposes as a receipt of income).
 
@@ -76,7 +76,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) This section applies to any trust, whether created or arising before or after this section comes into force.
 
-## 3. Power to compensate income beneficiary[^key-059fe1e224f6fedc4d2664ed3c05599e]
+## 3. Power to compensate income beneficiary[^c-059fe1e224f6fedc4d2664ed3c05599e]
 
 (1) This section applies in any case where—
 
@@ -89,7 +89,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) In this section “**income beneficiary**”, in relation to a trust, means a person entitled to income arising under the trust, or for whose benefit such income may be applied.
 
-## 4. Total return investment by charities[^key-61de547531fdcb4337e183ba7a86c594][^key-36294c9dc663424a5490226d8ddf07eb]
+## 4. Total return investment by charities[^c-61de547531fdcb4337e183ba7a86c594][^c-36294c9dc663424a5490226d8ddf07eb]
 
 After section 104 of the Charities Act 2011 insert—
 
@@ -161,12 +161,12 @@ This Act may be cited as the Trusts (Capital and Income) Act 2013.
 
 ## Annotations
 
-[^key-0afae0079ee9ff79ac26c3b96dea209b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/1/section/1) in force at 1.10.2013 by [S.I. 2013/676](https://www.legislation.gov.uk/uksi/2013/676), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/676/article/4/a)
+[^c-0afae0079ee9ff79ac26c3b96dea209b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/1/section/1) in force at 1.10.2013 by [S.I. 2013/676](https://www.legislation.gov.uk/uksi/2013/676), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/676/article/4/a)
 
-[^key-565da7b8606929ebcfbb9109446a2e3a]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/1/section/2) in force at 1.10.2013 by [S.I. 2013/676](https://www.legislation.gov.uk/uksi/2013/676), [art. 4(b)](https://www.legislation.gov.uk/uksi/2013/676/article/4/b)
+[^c-565da7b8606929ebcfbb9109446a2e3a]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/1/section/2) in force at 1.10.2013 by [S.I. 2013/676](https://www.legislation.gov.uk/uksi/2013/676), [art. 4(b)](https://www.legislation.gov.uk/uksi/2013/676/article/4/b)
 
-[^key-059fe1e224f6fedc4d2664ed3c05599e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/1/section/3) in force at 1.10.2013 by [S.I. 2013/676](https://www.legislation.gov.uk/uksi/2013/676), [art. 4(c)](https://www.legislation.gov.uk/uksi/2013/676/article/4/c)
+[^c-059fe1e224f6fedc4d2664ed3c05599e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/1/section/3) in force at 1.10.2013 by [S.I. 2013/676](https://www.legislation.gov.uk/uksi/2013/676), [art. 4(c)](https://www.legislation.gov.uk/uksi/2013/676/article/4/c)
 
-[^key-61de547531fdcb4337e183ba7a86c594]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/1/section/4) in force at 6.4.2013 for specified purposes by [S.I. 2013/676](https://www.legislation.gov.uk/uksi/2013/676), [art. 3](https://www.legislation.gov.uk/uksi/2013/676/article/3)
+[^c-61de547531fdcb4337e183ba7a86c594]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/1/section/4) in force at 6.4.2013 for specified purposes by [S.I. 2013/676](https://www.legislation.gov.uk/uksi/2013/676), [art. 3](https://www.legislation.gov.uk/uksi/2013/676/article/3)
 
-[^key-36294c9dc663424a5490226d8ddf07eb]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/1/section/4) in force at 1.1.2014 in so far as not already in force by [S.I. 2013/2461](https://www.legislation.gov.uk/uksi/2013/2461), [art. 2](https://www.legislation.gov.uk/uksi/2013/2461/article/2)
+[^c-36294c9dc663424a5490226d8ddf07eb]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/1/section/4) in force at 1.1.2014 in so far as not already in force by [S.I. 2013/2461](https://www.legislation.gov.uk/uksi/2013/2461), [art. 2](https://www.legislation.gov.uk/uksi/2013/2461/article/2)

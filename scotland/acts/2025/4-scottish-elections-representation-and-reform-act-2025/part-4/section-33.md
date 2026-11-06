@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Power of returning officers to postpone election for their area[^key-482d552d9017056371bbacc299e8466a][^key-f02dcd5e20af8d3e0a960977eaa2e154]
+## 33. Power of returning officers to postpone election for their area[^c-482d552d9017056371bbacc299e8466a][^c-f02dcd5e20af8d3e0a960977eaa2e154]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-482d552d9017056371bbacc299e8466a]: Commencement: S. 33 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-482d552d9017056371bbacc299e8466a]: Commencement: S. 33 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-f02dcd5e20af8d3e0a960977eaa2e154]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2025/4/section/33) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-f02dcd5e20af8d3e0a960977eaa2e154]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2025/4/section/33) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)

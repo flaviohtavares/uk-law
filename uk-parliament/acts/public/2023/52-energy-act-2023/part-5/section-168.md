@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Licensing of gas system planning activity[^key-abaa09e1e10132637d904c6838526258]
+## 168. Licensing of gas system planning activity[^c-abaa09e1e10132637d904c6838526258]
 
 *Extent: E+W+S*
 
-(1)[^key-79867dd71f3a3dade8d239f42f0d34d2] The Gas Act 1986 is amended as follows.
+(1)[^c-79867dd71f3a3dade8d239f42f0d34d2] The Gas Act 1986 is amended as follows.
 
-(2)[^key-2e06c2feff0d66b4c34a30022bd77f92] In section 5 (prohibition on unlicensed activities), in subsection (1)—
+(2)[^c-2e06c2feff0d66b4c34a30022bd77f92] In section 5 (prohibition on unlicensed activities), in subsection (1)—
 
 - (a) omit the “or” at the end of paragraph (c);
 - (b) after that paragraph insert—
@@ -37,7 +37,7 @@ summary: ''
   > - (a) are conferred by or by virtue of an enactment on a person who is designated under section 162(1) of the Energy Act 2023, and
   > - (b) relate to strategic planning and forecasting in connection with the development of pipe-line systems operated by gas transporters for the conveyance of gas.
 
-(3)[^key-79867dd71f3a3dade8d239f42f0d34d2] After section 7A insert—
+(3)[^c-79867dd71f3a3dade8d239f42f0d34d2] After section 7A insert—
 
 > **7AA. Licensing of a person carrying out gas system planner functions**
 >
@@ -59,21 +59,21 @@ summary: ''
 > - “**electricity system operator licence**” means a licence under section 6(1)(da) of the Electricity Act 1989;
 > - “**planning and forecasting functions of the Independent System Operator and Planner**” has the meaning given by section 5(10A).
 
-(4)[^key-79867dd71f3a3dade8d239f42f0d34d2] In section 7B (licences: general)—
+(4)[^c-79867dd71f3a3dade8d239f42f0d34d2] In section 7B (licences: general)—
 
 - (a) in subsection (3), after “contained in it” insert “and subject to subsection (3A)”;
 - (b) after subsection (3) insert—
 
   > (3A) If a person who holds a gas system planner licence ceases at any time to hold a licence under section 6(1)(da) of the Electricity Act 1989, the person is to be treated as ceasing to hold the gas system planner licence at the same time.
 
-(5)[^key-79867dd71f3a3dade8d239f42f0d34d2] In section 8AA (transfer of licences), after subsection (11) insert—
+(5)[^c-79867dd71f3a3dade8d239f42f0d34d2] In section 8AA (transfer of licences), after subsection (11) insert—
 
 > (11ZA) A gas system planner licence may not be transferred to a person unless a licence granted under section 6(1)(da) of the Electricity Act 1989 is also transferred to the same person at the same time.
 
 ## Annotations
 
-[^key-abaa09e1e10132637d904c6838526258]: Commencement: S. 168 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-abaa09e1e10132637d904c6838526258]: Commencement: S. 168 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-79867dd71f3a3dade8d239f42f0d34d2]: Commencement: [S. 168(1)(3)-(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/168/1/3) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(v)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/v)
+[^c-79867dd71f3a3dade8d239f42f0d34d2]: Commencement: [S. 168(1)(3)-(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/168/1/3) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(v)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/v)
 
-[^key-2e06c2feff0d66b4c34a30022bd77f92]: Commencement: [S. 168(2)](https://www.legislation.gov.uk/ukpga/2023/52/section/168/2) in force at 1.10.2024 by [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/b)
+[^c-2e06c2feff0d66b4c34a30022bd77f92]: Commencement: [S. 168(2)](https://www.legislation.gov.uk/ukpga/2023/52/section/168/2) in force at 1.10.2024 by [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/b)

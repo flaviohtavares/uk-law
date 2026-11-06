@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Consequential amendment to the Regulatory Reform (Fire Safety) Order 2005[^key-e6323561db78ca5ff8868618d65c0e30]
+## 38. Consequential amendment to the Regulatory Reform (Fire Safety) Order 2005[^c-e6323561db78ca5ff8868618d65c0e30]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In article 30(5)(c) of the Regulatory Reform (Fire Safety) Order 2005 omit “ap
 
 ## Annotations
 
-[^key-e6323561db78ca5ff8868618d65c0e30]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2024/1268/regulation/38) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-e6323561db78ca5ff8868618d65c0e30]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2024/1268/regulation/38) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

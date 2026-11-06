@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C1. Appropriate superannuation fund[^key-b767cce72885ab2e800932601b340fda]
+## C1. Appropriate superannuation fund[^c-b767cce72885ab2e800932601b340fda]
 
 *Extent: E+W+S*
 
@@ -65,7 +65,7 @@ the appropriate superannuation fund is the fund maintained by the Greater London
 
 ## Annotations
 
-[^key-b767cce72885ab2e800932601b340fda]: Commencement: [Reg. C1](https://www.legislation.gov.uk/uksi/1986/24/regulation/C1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-b767cce72885ab2e800932601b340fda]: Commencement: [Reg. C1](https://www.legislation.gov.uk/uksi/1986/24/regulation/C1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00026]: Footnote: [S.I. 1965/621](https://www.legislation.gov.uk/uksi/1965/621).
 

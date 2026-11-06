@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Temporary stopping up of streets and public rights of way[^key-a1f19fd49c6446d0bedc6e04b0cd2c25]
+## 15. Temporary stopping up of streets and public rights of way[^c-a1f19fd49c6446d0bedc6e04b0cd2c25]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1f19fd49c6446d0bedc6e04b0cd2c25]: Commencement: Art. 15 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-a1f19fd49c6446d0bedc6e04b0cd2c25]: Commencement: Art. 15 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

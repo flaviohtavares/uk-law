@@ -33,14 +33,14 @@ of 25 August 2017
 
 laying down the date of application of Regulation (EU) 2017/1538 amending Regulation (EU) 2015/534 on reporting of supervisory financial information (ECB/2017/25) to less significant supervised entities which are subject to national accounting frameworks ***(ECB/2017/26)*** (revoked)
 
-[^key-f96646f8ed2e2ed1c74276797e82196e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f96646f8ed2e2ed1c74276797e82196e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f96646f8ed2e2ed1c74276797e82196e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f96646f8ed2e2ed1c74276797e82196e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f96646f8ed2e2ed1c74276797e82196e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f96646f8ed2e2ed1c74276797e82196e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f96646f8ed2e2ed1c74276797e82196e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f96646f8ed2e2ed1c74276797e82196e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f96646f8ed2e2ed1c74276797e82196e]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [33(m)](https://www.legislation.gov.uk/uksi/2019/710/regulation/33/m); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f96646f8ed2e2ed1c74276797e82196e]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [33(m)](https://www.legislation.gov.uk/uksi/2019/710/regulation/33/m); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -39,10 +39,10 @@ summary: ''
 (5) In subsection (4) “**the relevant amount**” means—
 
 - (a) if the company was a party to the debtor relationship at the time it was created, the amount of the proceeds of issue of the security representing that relationship, or
-- (b) if the company became a party to the debtor relationship after that time, the amount of the tax-adjusted carrying value[^key-4771d1fe3095ba1e722a33f18448da96] of the host contract at that time.
+- (b) if the company became a party to the debtor relationship after that time, the amount of the tax-adjusted carrying value[^c-4771d1fe3095ba1e722a33f18448da96] of the host contract at that time.
 
 (6) In this section “**the host contract**” means the loan relationship to which the company is treated as a party under section 415(2) (loan relationships with embedded derivatives) because of the debtor relationship.
 
 ## Annotations
 
-[^key-4771d1fe3095ba1e722a33f18448da96]: Textual amendment: Words in s. 658(5)(b) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 83](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/83)
+[^c-4771d1fe3095ba1e722a33f18448da96]: Textual amendment: Words in s. 658(5)(b) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 83](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/83)

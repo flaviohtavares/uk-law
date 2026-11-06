@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 158. Transfer of amounts set aside[^key-b6152bcccfa6dbb11c0654833cf9f4a8]
+## 158. Transfer of amounts set aside[^c-b6152bcccfa6dbb11c0654833cf9f4a8]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ Subject to the condition specified in regulation 159, an amount set aside may be
 
 ## Annotations
 
-[^key-b6152bcccfa6dbb11c0654833cf9f4a8]: Commencement: Reg. 158 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-b6152bcccfa6dbb11c0654833cf9f4a8]: Commencement: Reg. 158 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00123]: Footnote: Section 39 was amended by paragraph 88 of Schedule 16 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19). There are other amendments not relevant to this regulation.
 

@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 34(1) of the Licensing (Northern Ireland) Order 1996[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-2b1af9cbe6a15a8bd251d998a4f2d7a2]
+## 1. Citation and commencement[^c-2b1af9cbe6a15a8bd251d998a4f2d7a2]
 
 These Regulations may be cited as the Licensing (Register of Licences) Regulations (Northern Ireland) 1997 and shall come into operation on 25th March 1997.
 
-## 2. Form of register[^key-fcfdfd5f0490ca07777fdc6d1b278710]
+## 2. Form of register[^c-fcfdfd5f0490ca07777fdc6d1b278710]
 
 (1) For the purposes of Article 34(1) of the Licensing (Northern Ireland) Order 1996, the register of licences shall be in the form set out in the Schedule.
 
@@ -54,11 +54,11 @@ These Regulations may be cited as the Licensing (Register of Licences) Regulatio
 
 (3) Every interlineation or other alteration, other than that of a clerical nature in the register, shall be signed and dated by a resident magistrate.
 
-## 3. Particulars to be entered and numbered in register in order in which licence granted on or after 25th March 1997[^key-88aa084e05c2f60679e923c04b3b84cb]
+## 3. Particulars to be entered and numbered in register in order in which licence granted on or after 25th March 1997[^c-88aa084e05c2f60679e923c04b3b84cb]
 
 Where a licence is granted by a county court on of after 25th March 1997, the clerk of petty sessions shall enter in the register particulars of the licence under the appropriate headings of the register as specified in the Schedule, in chronological sequence according to the time at which the copy of the licence is received from the chief clerk and he shall number the entry accordingly.
 
-## 4. Revocation[^key-c40ea9a5b710f445dee2b692a86eea0d]
+## 4. Revocation[^c-c40ea9a5b710f445dee2b692a86eea0d]
 
 The Licensing (Register of Licences) Regulations (Northern Ireland) 1990[^f00002] are hereby revoked.
 
@@ -98,12 +98,12 @@ These regulations revoke the Licensing (Register of Licences) Regulations (North
 
 [^f00001]: Footnote: [S.I. 1996/3158 (N.I. 22)](https://www.legislation.gov.uk/nisi/1996/3158)
 
-[^key-2b1af9cbe6a15a8bd251d998a4f2d7a2]: Commencement: Reg. 1 in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/75/regulation/1)
+[^c-2b1af9cbe6a15a8bd251d998a4f2d7a2]: Commencement: Reg. 1 in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/75/regulation/1)
 
-[^key-fcfdfd5f0490ca07777fdc6d1b278710]: Commencement: Reg. 2 in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/75/regulation/1)
+[^c-fcfdfd5f0490ca07777fdc6d1b278710]: Commencement: Reg. 2 in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/75/regulation/1)
 
-[^key-88aa084e05c2f60679e923c04b3b84cb]: Commencement: Reg. 3 in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/75/regulation/1)
+[^c-88aa084e05c2f60679e923c04b3b84cb]: Commencement: Reg. 3 in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/75/regulation/1)
 
-[^key-c40ea9a5b710f445dee2b692a86eea0d]: Commencement: Reg. 4 in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/75/regulation/1)
+[^c-c40ea9a5b710f445dee2b692a86eea0d]: Commencement: Reg. 4 in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/75/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1990 No. 448](https://www.legislation.gov.uk/nisr/1990/448)

@@ -55,15 +55,15 @@ and for this purpose any question whether an interest is less than the donor’s
 - (c) the purposes of the governing body of an eligible sport for the purposes of which the club in question exists; or
 - (d) charitable purposes.
 
-(5B)[^key-ac5c75c7715ac8d2220f4b197d0764f1] To the extent that the value transferred by a transfer of value made on the death of a member of a pension scheme is attributable to the member’s notional pension property—
+(5B)[^c-ac5c75c7715ac8d2220f4b197d0764f1] To the extent that the value transferred by a transfer of value made on the death of a member of a pension scheme is attributable to the member’s notional pension property—
 
 - (a) the value transferred is treated for the purposes of this section as also attributable to any property that on the death of the member is given under the scheme to charities or registered clubs, and
 - (b) subsection (2) does not apply in relation to the transfer of value.
 
 (6)[^c21414391] For the purposes of this section—
 
-- (a) property is given to charities if it becomes the property of charities [^key-cf1bf158c6f3e5fe001e3db6f022d964]...; and
-- (b) property is given to registered clubs if it becomes the property of registered clubs [^key-cd9125915486ade48d9197f94242d7b5]...;
+- (a) property is given to charities if it becomes the property of charities [^c-cf1bf158c6f3e5fe001e3db6f022d964]...; and
+- (b) property is given to registered clubs if it becomes the property of registered clubs [^c-cd9125915486ade48d9197f94242d7b5]...;
 
 and “**donor**” shall be construed accordingly.
 
@@ -89,10 +89,10 @@ and “**donor**” shall be construed accordingly.
 
 [^c21414331]: Textual amendment: S. 23(5A) inserted (1.4.2010 with effect as mentioned in [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 1177](https://www.legislation.gov.uk/ukpga/2010/4/section/1177), [1184](https://www.legislation.gov.uk/ukpga/2010/4/section/1184), [Sch. 1 para. 189(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/189/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-ac5c75c7715ac8d2220f4b197d0764f1]: Textual amendment: [S. 23(5B)](https://www.legislation.gov.uk/ukpga/1984/51/section/23/5B) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 69(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/69/4), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-ac5c75c7715ac8d2220f4b197d0764f1]: Textual amendment: [S. 23(5B)](https://www.legislation.gov.uk/ukpga/1984/51/section/23/5B) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 69(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/69/4), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
 
 [^c21414391]: Textual amendment: S. 23(6)(7) substituted (1.4.2010 with effect as mentioned in [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) of the amending Act) for s. 23(6) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 1177](https://www.legislation.gov.uk/ukpga/2010/4/section/1177), [1184](https://www.legislation.gov.uk/ukpga/2010/4/section/1184), [Sch. 1 para. 189(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/189/5) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-cf1bf158c6f3e5fe001e3db6f022d964]: Textual amendment: Words in [s. 23(6)(a)](https://www.legislation.gov.uk/ukpga/1984/51/section/23/6/a) omitted (with effect in accordance with s. 78(5) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 78(2)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/78/2/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/78/5) (with [s. 79](https://www.legislation.gov.uk/ukpga/2026/11/section/79))
+[^c-cf1bf158c6f3e5fe001e3db6f022d964]: Textual amendment: Words in [s. 23(6)(a)](https://www.legislation.gov.uk/ukpga/1984/51/section/23/6/a) omitted (with effect in accordance with s. 78(5) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 78(2)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/78/2/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/78/5) (with [s. 79](https://www.legislation.gov.uk/ukpga/2026/11/section/79))
 
-[^key-cd9125915486ade48d9197f94242d7b5]: Textual amendment: Words in [s. 23(6)(b)](https://www.legislation.gov.uk/ukpga/1984/51/section/23/6/b) omitted (with effect in accordance with s. 78(5) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 78(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/78/2/b)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/78/5) (with [s. 79](https://www.legislation.gov.uk/ukpga/2026/11/section/79))
+[^c-cd9125915486ade48d9197f94242d7b5]: Textual amendment: Words in [s. 23(6)(b)](https://www.legislation.gov.uk/ukpga/1984/51/section/23/6/b) omitted (with effect in accordance with s. 78(5) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 78(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/78/2/b)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/78/5) (with [s. 79](https://www.legislation.gov.uk/ukpga/2026/11/section/79))

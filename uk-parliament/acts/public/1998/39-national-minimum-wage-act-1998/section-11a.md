@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-3bd07ad94ad3d7f83a06e188fdf20390]
+## 11A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-3bd07ad94ad3d7f83a06e188fdf20390]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bd07ad94ad3d7f83a06e188fdf20390]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/1998/39/section/11A) inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2013/24/schedule/2/paragraph/38); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/253/article/3/g)
+[^c-3bd07ad94ad3d7f83a06e188fdf20390]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/1998/39/section/11A) inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2013/24/schedule/2/paragraph/38); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/253/article/3/g)

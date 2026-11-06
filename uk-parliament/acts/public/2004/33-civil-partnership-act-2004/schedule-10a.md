@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10A — Modifications if proposed civil partnership referred under section 88F[^key-3dc301eff2f9858994bd25de10c70fb6]
+## SCHEDULE 10A — Modifications if proposed civil partnership referred under section 88F[^c-3dc301eff2f9858994bd25de10c70fb6]
 
 *Extent: E+W*
 
@@ -115,4 +115,4 @@ the duty under section 94 to complete the civil partnership schedule arises on t
 
 ## Annotations
 
-[^key-3dc301eff2f9858994bd25de10c70fb6]: Textual amendment: Sch. 10A inserted for specified purposes (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396)](https://www.legislation.gov.uk/uksi/2015/396), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2015/396/schedule/3/paragraph/3) (with [art. 1(3)(5)](https://www.legislation.gov.uk/uksi/2015/396/article/1/3/5))
+[^c-3dc301eff2f9858994bd25de10c70fb6]: Textual amendment: Sch. 10A inserted for specified purposes (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396)](https://www.legislation.gov.uk/uksi/2015/396), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2015/396/schedule/3/paragraph/3) (with [art. 1(3)(5)](https://www.legislation.gov.uk/uksi/2015/396/article/1/3/5))

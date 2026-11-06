@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Attribution of international flights to an aeroplane operator[^key-4a2148f6d43881b66b1cb268f2cf606e]
+## 9. Attribution of international flights to an aeroplane operator[^c-4a2148f6d43881b66b1cb268f2cf606e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) An international flight is attributable to an aeroplane operator as follows—
 
 - (a) when Item 7 (aircraft identification)[^f00018] of the flight plan contains the ICAO Designator, that flight must be attributed to the aeroplane operator that has been assigned this Designator,
-- (b) when Item 7 (aircraft identification) of the flight plan contains the nationality or common mark, and registration mark of an aeroplane that is explicitly listed in a valid AOC, or equivalent, that flight must be attributed to the aeroplane operator that holds the Air Operator Certificate[^key-d64a868adf1a3bd111bd6947d5f6c3dd], and
+- (b) when Item 7 (aircraft identification) of the flight plan contains the nationality or common mark, and registration mark of an aeroplane that is explicitly listed in a valid AOC, or equivalent, that flight must be attributed to the aeroplane operator that holds the Air Operator Certificate[^c-d64a868adf1a3bd111bd6947d5f6c3dd], and
 - (c) when the aeroplane operator of a flight has not been identified under sub-paragraphs (a) or (b), that flight must be attributed to the aeroplane owner who must then be considered to be the aeroplane operator of that flight.
 
 (4) If requested by the Regulator, aeroplane owners identified under paragraph (3)(c) must provide all information necessary to identify the actual aeroplane operator of a flight.
@@ -38,10 +38,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4a2148f6d43881b66b1cb268f2cf606e]: Commencement: Art. 9 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-4a2148f6d43881b66b1cb268f2cf606e]: Commencement: Art. 9 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00018]: Footnote: The reference to Item 7 is based on the ICAO model flight plan form contained in Appendix 2 of ICAO Procedures for Air Navigation Services - Air Traffic Management (Doc 4444) which is available from the ICAO website at www.icao.int. For a hard copy contact the ICAO E-Commerce and Publications Sales Unit at International Civil Aviation Organisation (ICAO), 999 Robert-Bourassa Boulevard, Montreal, Quebec H3C 5H7, Canada (telephone +1 514-954-8219 and e-mail sales@icao.int).
 
-[^key-d64a868adf1a3bd111bd6947d5f6c3dd]: Textual amendment: Words in [art. 9(3)(b)](https://www.legislation.gov.uk/uksi/2021/534/article/9/3/b) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [7](https://www.legislation.gov.uk/uksi/2022/1050/article/7)
+[^c-d64a868adf1a3bd111bd6947d5f6c3dd]: Textual amendment: Words in [art. 9(3)(b)](https://www.legislation.gov.uk/uksi/2021/534/article/9/3/b) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [7](https://www.legislation.gov.uk/uksi/2022/1050/article/7)
 
 [^f00019]: Footnote: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765), to which there are amendments not relevant to this Order.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Customer information[^key-31c39a2f3c3c8fd4408f532a6844e80c]
+## 32. Customer information[^c-31c39a2f3c3c8fd4408f532a6844e80c]
 
 *Extent: E+W+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (5) A financial institution which is required to provide information under a customer information order must provide the information to the applicant for the order in such manner, and at or by such time, as the applicant requires.
 
-(6)[^key-ca7652df8ce03c1cd43cacc5d36d8f5e] Section 364 of the Proceeds of Crime Act 2002 (meaning of customer information) has effect for the purposes of this section as if—
+(6)[^c-ca7652df8ce03c1cd43cacc5d36d8f5e] Section 364 of the Proceeds of Crime Act 2002 (meaning of customer information) has effect for the purposes of this section as if—
 
 - (a) this section were included in Chapter 2 of Part 8 of that Act,
 - (b) subsections (2)(f) and (3)(i) of that section were omitted, and
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31c39a2f3c3c8fd4408f532a6844e80c]: Commencement: S. 32 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 2](https://www.legislation.gov.uk/uksi/2006/2811/article/2)
+[^c-31c39a2f3c3c8fd4408f532a6844e80c]: Commencement: S. 32 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 2](https://www.legislation.gov.uk/uksi/2006/2811/article/2)
 
-[^key-ca7652df8ce03c1cd43cacc5d36d8f5e]: Textual amendment: [S. 32(6)](https://www.legislation.gov.uk/ukpga/2003/32/section/32/6) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/3/2) (with [Sch. 3 para. 3(4)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/3/4)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-ca7652df8ce03c1cd43cacc5d36d8f5e]: Textual amendment: [S. 32(6)](https://www.legislation.gov.uk/ukpga/2003/32/section/32/6) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/3/2) (with [Sch. 3 para. 3(4)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/3/4)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)

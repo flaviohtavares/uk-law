@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Expenses of statement of affairs[^key-03999eae5c8aef2cbc3385708610e12a]
+## 19. Expenses of statement of affairs[^c-03999eae5c8aef2cbc3385708610e12a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03999eae5c8aef2cbc3385708610e12a]: Commencement: Rule 19 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-03999eae5c8aef2cbc3385708610e12a]: Commencement: Rule 19 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

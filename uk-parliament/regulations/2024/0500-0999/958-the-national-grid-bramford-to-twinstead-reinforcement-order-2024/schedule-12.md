@@ -22,7 +22,7 @@ summary: ''
 
 Article 46
 
-### PART 1 — TEMPORARY RESTRICTION OF WAITING AND RESTRICTION OF SPEED[^key-cf40b47cf005e444eac1fc4ea0030559]
+### PART 1 — TEMPORARY RESTRICTION OF WAITING AND RESTRICTION OF SPEED[^c-cf40b47cf005e444eac1fc4ea0030559]
 
 | (1)<br>Area | (2)<br>Road | (3)<br>Extent as shown on the Traffic Regulation Order Plans | (4)<br>Note |
 | --- | --- | --- | --- |
@@ -75,7 +75,7 @@ Article 46
 | Essex County Council | Old Road | Between points TRO-H-19 and TRO-H-20 as shown on Sheets 23 and 26 | No waiting restriction between 07.00 and 19.00 Monday to Sunday. Speed limit to be restricted to 30mph. |
 | Essex County Council | Park Road | Between points TRO-H-21 and TRO-H-22 as shown on Sheet 26 | No waiting restriction between 07.00 and 19.00 Monday to Sunday. Speed limit to be restricted to 30mph. |
 
-### PART 2 — TEMPORARY RESTRICTION OF ACCESS[^key-14f34ca2f2e79eeaa02d53fe905a405e]
+### PART 2 — TEMPORARY RESTRICTION OF ACCESS[^c-14f34ca2f2e79eeaa02d53fe905a405e]
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -119,7 +119,7 @@ Article 46
 | Essex County Council | Old Road | Between points TRO-H-19 and TRO-H-20 as shown on Sheets 23 and 26 | Prohibition of vehicular access. |
 | Essex County Council | Park Road | Between points TRO-H-21 and TRO-H-22 as shown on Sheet 26 | Prohibition of vehicular access. |
 
-### PART 3 — TEMPORARY RESTRICTION OF MOVEMENT[^key-5b65c1e43b742d3ea7ca49d67aaff75c]
+### PART 3 — TEMPORARY RESTRICTION OF MOVEMENT[^c-5b65c1e43b742d3ea7ca49d67aaff75c]
 
 | (1)<br>Area | (2)<br>Road | (3)<br>Extent as shown on the Traffic Regulation Order Plans | (4)<br>Note |
 | --- | --- | --- | --- |
@@ -136,7 +136,7 @@ Article 46
 | Essex County Council | A131 (Sudbury Road) | Between points TRO-H-11 and TRO-H-12 as shown on Sheet 30 | One way movement restriction, to be either northbound or southbound dependant on preferred Traffic Management arrangements at the time of implementation. To be implemented as required. |
 | Essex County Council | A131 (Sudbury Road) | Between points TRO-H-15 and TRO-H-16 as shown on Sheet 23 | One way movement restriction, to be either northbound or southbound dependant on preferred Traffic Management arrangements at the time of implementation. To be implemented as required. |
 
-### PART 4 — TEMPORARY NO OVERTAKING ORDER[^key-c5c9652c308345b4bb3df798fe73ad24]
+### PART 4 — TEMPORARY NO OVERTAKING ORDER[^c-c5c9652c308345b4bb3df798fe73ad24]
 
 | (1)<br>Area | (2)<br>Road | (3)<br>Extent as shown on the Traffic Regulation Order Plans | (4)<br>Note |
 | --- | --- | --- | --- |
@@ -155,10 +155,10 @@ Article 46
 
 ## Annotations
 
-[^key-cf40b47cf005e444eac1fc4ea0030559]: Commencement: Sch. 12 Pt. 1 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-cf40b47cf005e444eac1fc4ea0030559]: Commencement: Sch. 12 Pt. 1 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-14f34ca2f2e79eeaa02d53fe905a405e]: Commencement: Sch. 12 Pt. 2 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-14f34ca2f2e79eeaa02d53fe905a405e]: Commencement: Sch. 12 Pt. 2 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-5b65c1e43b742d3ea7ca49d67aaff75c]: Commencement: Sch. 12 Pt. 3 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-5b65c1e43b742d3ea7ca49d67aaff75c]: Commencement: Sch. 12 Pt. 3 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-c5c9652c308345b4bb3df798fe73ad24]: Commencement: Sch. 12 Pt. 4 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-c5c9652c308345b4bb3df798fe73ad24]: Commencement: Sch. 12 Pt. 4 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

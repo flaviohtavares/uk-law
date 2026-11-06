@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 129. Resolutions by post[^key-d12a5e4d75a9a1fee5d2d10b7565528c]
+## 129. Resolutions by post[^c-d12a5e4d75a9a1fee5d2d10b7565528c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.175 of the 1991 Rules.
 
 ## Annotations
 
-[^key-d12a5e4d75a9a1fee5d2d10b7565528c]: Commencement: Rule 129 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-d12a5e4d75a9a1fee5d2d10b7565528c]: Commencement: Rule 129 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

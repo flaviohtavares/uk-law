@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Appeals against summary determination of penalties.[^key-89cf1113ae8562d03464fe2aec8f184f]
+## 53. Appeals against summary determination of penalties.[^c-89cf1113ae8562d03464fe2aec8f184f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89cf1113ae8562d03464fe2aec8f184f]: Textual amendment: S. 53 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/32)
+[^c-89cf1113ae8562d03464fe2aec8f184f]: Textual amendment: S. 53 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/32)

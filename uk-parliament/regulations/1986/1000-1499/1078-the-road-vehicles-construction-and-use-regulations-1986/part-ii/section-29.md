@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Maintenance of steering gear[^key-69ba2211269ac1f5fdc99ff139939ff9]
+## 29. Maintenance of steering gear[^c-69ba2211269ac1f5fdc99ff139939ff9]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ All steering gear fitted to a motor vehicle shall at all times while the vehicle
 
 ## Annotations
 
-[^key-69ba2211269ac1f5fdc99ff139939ff9]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1986/1078/regulation/29) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-69ba2211269ac1f5fdc99ff139939ff9]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1986/1078/regulation/29) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

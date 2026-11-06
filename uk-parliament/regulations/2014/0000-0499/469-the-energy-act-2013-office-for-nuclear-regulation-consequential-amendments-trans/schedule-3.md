@@ -610,104 +610,104 @@ For regulation 8 of the Dangerous Substances (Notification and Marking of Sites)
 
 #### 46. Control of Explosives Regulations 1991
 
-The Control of Explosives Regulations 1991 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3] [^c22036701] are amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+The Control of Explosives Regulations 1991 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3] [^c22036701] are amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 
-**47 (Extent: E+W+S) (affected by repeal, see note).**[^key-43b73ced3d9a0b166adfaf390fc1f8b3] In regulation 2(1) (interpretation) after the definition of “occupier” insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+**47 (Extent: E+W+S) (affected by repeal, see note).**[^c-43b73ced3d9a0b166adfaf390fc1f8b3] In regulation 2(1) (interpretation) after the definition of “occupier” insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 
-> “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]**the ONR *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]**” means the Office for Nuclear Regulation; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+> “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]**the ONR *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]**” means the Office for Nuclear Regulation; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 
-**48 (Extent: E+W+S) (affected by repeal, see note).**[^key-43b73ced3d9a0b166adfaf390fc1f8b3] After regulation 3(4)(d) (application) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+**48 (Extent: E+W+S) (affected by repeal, see note).**[^c-43b73ced3d9a0b166adfaf390fc1f8b3] After regulation 3(4)(d) (application) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 
-> - (e (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] the ONR. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+> - (e (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] the ONR. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 
-**49 (Extent: E+W+S) (affected by repeal, see note).**[^key-43b73ced3d9a0b166adfaf390fc1f8b3] In regulation 11(1)(a) (licensed occupier to appoint person responsible for the security of explosives) after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+**49 (Extent: E+W+S) (affected by repeal, see note).**[^c-43b73ced3d9a0b166adfaf390fc1f8b3] In regulation 11(1)(a) (licensed occupier to appoint person responsible for the security of explosives) after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 
-**50 (Extent: E+W+S) (affected by repeal, see note).**[^key-43b73ced3d9a0b166adfaf390fc1f8b3] After regulation 13(8) (reporting loss) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+**50 (Extent: E+W+S) (affected by repeal, see note).**[^c-43b73ced3d9a0b166adfaf390fc1f8b3] After regulation 13(8) (reporting loss) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 
-> (9 (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] Where any loss of explosive occurs at a site in relation to which the ONR is the licensing authority by virtue of paragraph 4 of Schedule 1 to the 2005 Regulations, then any requirement in this regulation to report or supply information to a chief officer of police shall also include a like requirement to report or supply the same information to the ONR. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+> (9 (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] Where any loss of explosive occurs at a site in relation to which the ONR is the licensing authority by virtue of paragraph 4 of Schedule 1 to the 2005 Regulations, then any requirement in this regulation to report or supply information to a chief officer of police shall also include a like requirement to report or supply the same information to the ONR. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 
-**51 (Extent: E+W+S) (affected by repeal, see note).**[^key-43b73ced3d9a0b166adfaf390fc1f8b3] For regulation 15 (enforcement) substitute— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+**51 (Extent: E+W+S) (affected by repeal, see note).**[^c-43b73ced3d9a0b166adfaf390fc1f8b3] For regulation 15 (enforcement) substitute— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 
-> **15 (Extent: E+W+S) (affected by repeal, see note).**[^key-43b73ced3d9a0b166adfaf390fc1f8b3] (1 (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] This regulation applies subject to section 18(1A) of the Health and Safety at Work etc. Act 1974. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+> **15 (Extent: E+W+S) (affected by repeal, see note).**[^c-43b73ced3d9a0b166adfaf390fc1f8b3] (1 (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] This regulation applies subject to section 18(1A) of the Health and Safety at Work etc. Act 1974. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 >
-> (2 (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] Subject to the following paragraphs of this regulation, the enforcing authority for these Regulations in any area of Great Britain is the chief officer of police for that area. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+> (2 (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] Subject to the following paragraphs of this regulation, the enforcing authority for these Regulations in any area of Great Britain is the chief officer of police for that area. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 >
-> (3 (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] Subject to paragraph (3), the Executive is the enforcing authority— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+> (3 (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] Subject to paragraph (3), the Executive is the enforcing authority— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] in relation to regulation 11; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] in relation to regulation 12— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
->   - (i (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] in respect of any place within a site in relation to which the Executive is the licensing authority by virtue of paragraph 1(c) of Schedule 1 to the 2005 Regulations; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
->   - (ii (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] in respect of any place in premises occupied on behalf of the Crown for naval, military or air force purposes or for the purposes of the department of the Secretary of State having responsibility for defence; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
->   - (iii (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] under regulation 12(1) in respect of any place below ground in any mine; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
-> - (c (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] for these Regulations for any area outside Great Britain. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] in relation to regulation 11; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] in relation to regulation 12— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
+>   - (i (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] in respect of any place within a site in relation to which the Executive is the licensing authority by virtue of paragraph 1(c) of Schedule 1 to the 2005 Regulations; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
+>   - (ii (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] in respect of any place in premises occupied on behalf of the Crown for naval, military or air force purposes or for the purposes of the department of the Secretary of State having responsibility for defence; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
+>   - (iii (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] under regulation 12(1) in respect of any place below ground in any mine; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
+> - (c (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] for these Regulations for any area outside Great Britain. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 >
-> (4 (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] The ONR is the enforcing authority in relation to regulations 11 and 12 in respect of any place— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+> (4 (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] The ONR is the enforcing authority in relation to regulations 11 and 12 in respect of any place— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] within a site in relation to which the ONR is the licensing authority by virtue of paragraph 4 of Schedule 1 to the 2005 Regulations; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] within— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
->   - (i (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998); or *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
->   - (ii (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] a new nuclear build site (within the meaning given in regulation 2A of those Regulations). *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] within a site in relation to which the ONR is the licensing authority by virtue of paragraph 4 of Schedule 1 to the 2005 Regulations; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] within— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
+>   - (i (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998); or *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
+>   - (ii (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] a new nuclear build site (within the meaning given in regulation 2A of those Regulations). *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 >
-> (5 (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] The enforcing authority for these Regulations against a police force or any member of a police force is— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+> (5 (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] The enforcing authority for these Regulations against a police force or any member of a police force is— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] in so far as these Regulations apply in relation to activities carried out on, or in relation to, an authorised defence site or new nuclear build site, the ONR; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-43b73ced3d9a0b166adfaf390fc1f8b3] otherwise, the Executive. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] in so far as these Regulations apply in relation to activities carried out on, or in relation to, an authorised defence site or new nuclear build site, the ONR; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-43b73ced3d9a0b166adfaf390fc1f8b3] otherwise, the Executive. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-43b73ced3d9a0b166adfaf390fc1f8b3]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-43b73ced3d9a0b166adfaf390fc1f8b3]
 
-#### 52. Simple Pressure Vessels (Safety) Regulations 1991[^key-611babd087c59a298c68dd7c564abb07]
+#### 52. Simple Pressure Vessels (Safety) Regulations 1991[^c-611babd087c59a298c68dd7c564abb07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 53. Placing on the Market and Supervision of Transfers of Explosives Regulations 1993
 
-The Placing on the Market and Supervision of Transfers of Explosives Regulations 1993 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474] [^c22036721] are amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
+The Placing on the Market and Supervision of Transfers of Explosives Regulations 1993 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474] [^c22036721] are amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
 
-**54 (Extent: E+W+S) (affected by repeal, see note).**[^key-c641ee9092fc066e680c14ae621b8474] In regulation 3 (application)— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
+**54 (Extent: E+W+S) (affected by repeal, see note).**[^c-c641ee9092fc066e680c14ae621b8474] In regulation 3 (application)— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-c641ee9092fc066e680c14ae621b8474] at the end of paragraph (3)(b) omit “or”; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-c641ee9092fc066e680c14ae621b8474] at the end of paragraph (c) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-c641ee9092fc066e680c14ae621b8474] at the end of paragraph (3)(b) omit “or”; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-c641ee9092fc066e680c14ae621b8474] at the end of paragraph (c) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
 
-  > ; or *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
+  > ; or *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
   >
-  > - (d (Extent: E+W+S) (affected by repeal, see note))[^key-c641ee9092fc066e680c14ae621b8474] the Office for Nuclear Regulation. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
+  > - (d (Extent: E+W+S) (affected by repeal, see note))[^c-c641ee9092fc066e680c14ae621b8474] the Office for Nuclear Regulation. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
 
-  . *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
+  . *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
 
-**55 (Extent: E+W+S) (affected by repeal, see note).**[^key-c641ee9092fc066e680c14ae621b8474] (1 (Extent: E+W+S) (affected by repeal, see note))[^key-c641ee9092fc066e680c14ae621b8474] Regulation 9 (enforcement) is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
+**55 (Extent: E+W+S) (affected by repeal, see note).**[^c-c641ee9092fc066e680c14ae621b8474] (1 (Extent: E+W+S) (affected by repeal, see note))[^c-c641ee9092fc066e680c14ae621b8474] Regulation 9 (enforcement) is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-c641ee9092fc066e680c14ae621b8474] For paragraph (1) substitute— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-c641ee9092fc066e680c14ae621b8474] For paragraph (1) substitute— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
 
-> (1 (Extent: E+W+S) (affected by repeal, see note))[^key-c641ee9092fc066e680c14ae621b8474] Notwithstanding the provisions of the Health and Safety (Enforcing Authority) Regulations 1998 and subject to section 18(1A) of the 1974 Act, the enforcing authority for these Regulations is— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
+> (1 (Extent: E+W+S) (affected by repeal, see note))[^c-c641ee9092fc066e680c14ae621b8474] Notwithstanding the provisions of the Health and Safety (Enforcing Authority) Regulations 1998 and subject to section 18(1A) of the 1974 Act, the enforcing authority for these Regulations is— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-c641ee9092fc066e680c14ae621b8474] in so far as these Regulations apply on, or in relation to, any activity carried out wholly or mainly on nuclear premises, the Office for Nuclear Regulation; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-c641ee9092fc066e680c14ae621b8474] otherwise, the Executive. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-c641ee9092fc066e680c14ae621b8474] in so far as these Regulations apply on, or in relation to, any activity carried out wholly or mainly on nuclear premises, the Office for Nuclear Regulation; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-c641ee9092fc066e680c14ae621b8474] otherwise, the Executive. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
 
-(3 (Extent: E+W+S) (affected by repeal, see note))[^key-c641ee9092fc066e680c14ae621b8474] After paragraph (4) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
+(3 (Extent: E+W+S) (affected by repeal, see note))[^c-c641ee9092fc066e680c14ae621b8474] After paragraph (4) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
 
-> (5 (Extent: E+W+S) (affected by repeal, see note))[^key-c641ee9092fc066e680c14ae621b8474] For the purposes of this regulation “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]**nuclear premises *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]**” means premises which are, or are on— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
+> (5 (Extent: E+W+S) (affected by repeal, see note))[^c-c641ee9092fc066e680c14ae621b8474] For the purposes of this regulation “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]**nuclear premises *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]**” means premises which are, or are on— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-c641ee9092fc066e680c14ae621b8474] a GB nuclear site (within the meaning given in section 68 of the Energy Act 2013); *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-c641ee9092fc066e680c14ae621b8474] an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 2008); or *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
-> - (c (Extent: E+W+S) (affected by repeal, see note))[^key-c641ee9092fc066e680c14ae621b8474] a new nuclear build site (within the meaning given in regulation 2A of those Regulations). *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-c641ee9092fc066e680c14ae621b8474] a GB nuclear site (within the meaning given in section 68 of the Energy Act 2013); *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-c641ee9092fc066e680c14ae621b8474] an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 2008); or *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
+> - (c (Extent: E+W+S) (affected by repeal, see note))[^c-c641ee9092fc066e680c14ae621b8474] a new nuclear build site (within the meaning given in regulation 2A of those Regulations). *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c641ee9092fc066e680c14ae621b8474]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c641ee9092fc066e680c14ae621b8474]
 
-#### 56. Electrical Equipment (Safety) Regulations 1994[^key-1e932d996f3088221644142c415303b3]
+#### 56. Electrical Equipment (Safety) Regulations 1994[^c-1e932d996f3088221644142c415303b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**57.**[^key-1e932d996f3088221644142c415303b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**57.**[^c-1e932d996f3088221644142c415303b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**58.**[^key-1e932d996f3088221644142c415303b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**58.**[^c-1e932d996f3088221644142c415303b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 59. Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations 1996
 
@@ -1502,175 +1502,175 @@ The Ionising Radiations Regulations 1999 [^c22036841] are amended as follows.
 
 #### 110. Manufacture and Storage of Explosives Regulations 2005
 
-The Manufacture and Storage of Explosives Regulations 2005 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] [^c22036901] are amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+The Manufacture and Storage of Explosives Regulations 2005 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] [^c22036901] are amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-**111 (Extent: E+W+S) (affected by repeal, see note).**[^key-8432ca5f45f78e2847a799be92ef9e0c] In regulation 2 (interpretation)— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+**111 (Extent: E+W+S) (affected by repeal, see note).**[^c-8432ca5f45f78e2847a799be92ef9e0c] In regulation 2 (interpretation)— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] in paragraph (1) after the definition of “non-sensitised” insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] in paragraph (1) after the definition of “non-sensitised” insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-  > - “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**the ONR *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**” means the Office for Nuclear Regulation; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-  > - “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**ONR regulated site *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**” has the meaning given in paragraph (1A); *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+  > - “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**the ONR *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**” means the Office for Nuclear Regulation; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+  > - “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**ONR regulated site *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**” has the meaning given in paragraph (1A); *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-  ; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] after paragraph (1) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+  ; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] after paragraph (1) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-  > (1A (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] A site is an ONR regulated site if it, or any part of it, is— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+  > (1A (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] A site is an ONR regulated site if it, or any part of it, is— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
   >
-  > - (a (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] a GB nuclear site (within the meaning given in section 68 of the Energy Act 2013), *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-  > - (b (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998, or *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-  > - (c (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] a new nuclear build site (within the meaning given in regulation 2A of those Regulations). *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+  > - (a (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] a GB nuclear site (within the meaning given in section 68 of the Energy Act 2013), *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+  > - (b (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998, or *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+  > - (c (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] a new nuclear build site (within the meaning given in regulation 2A of those Regulations). *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-  . *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+  . *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-**112 (Extent: E+W+S) (affected by repeal, see note).**[^key-8432ca5f45f78e2847a799be92ef9e0c] After regulation 3(4)(a) (application) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+**112 (Extent: E+W+S) (affected by repeal, see note).**[^c-8432ca5f45f78e2847a799be92ef9e0c] After regulation 3(4)(a) (application) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-> - (aa (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] the ONR; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> - (aa (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] the ONR; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-**113 (Extent: E+W+S) (affected by repeal, see note).**[^key-8432ca5f45f78e2847a799be92ef9e0c] In regulation 5(2)(b) (separation distances) after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+**113 (Extent: E+W+S) (affected by repeal, see note).**[^c-8432ca5f45f78e2847a799be92ef9e0c] In regulation 5(2)(b) (separation distances) after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-**114 (Extent: E+W+S) (affected by repeal, see note).**[^key-8432ca5f45f78e2847a799be92ef9e0c] (1 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] Regulation 11 (registration in relation to storage) is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+**114 (Extent: E+W+S) (affected by repeal, see note).**[^c-8432ca5f45f78e2847a799be92ef9e0c] (1 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] Regulation 11 (registration in relation to storage) is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (4A) for “or the Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ , the Executive or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (4A) for “or the Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ , the Executive or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(3 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (9A) for “or the Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ , the Executive or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(3 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (9A) for “or the Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ , the Executive or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-**115 (Extent: E+W+S) (affected by repeal, see note).**[^key-8432ca5f45f78e2847a799be92ef9e0c] After regulation 11 insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+**115 (Extent: E+W+S) (affected by repeal, see note).**[^c-8432ca5f45f78e2847a799be92ef9e0c] After regulation 11 insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-> **11A (Extent: E+W+S) (affected by repeal, see note). Sites which cease to be an ONR regulated site – effect on registration (Extent: E+W+S) (affected by repeal, see note)[^key-8432ca5f45f78e2847a799be92ef9e0c][^key-8432ca5f45f78e2847a799be92ef9e0c]**
+> **11A (Extent: E+W+S) (affected by repeal, see note). Sites which cease to be an ONR regulated site – effect on registration (Extent: E+W+S) (affected by repeal, see note)[^c-8432ca5f45f78e2847a799be92ef9e0c][^c-8432ca5f45f78e2847a799be92ef9e0c]**
 >
-> (1 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] Where this regulation applies a registration granted by, or treated as granted by, the ONR is to be treated on and after the relevant date as a registration granted by the relevant licensing authority. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> (1 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] Where this regulation applies a registration granted by, or treated as granted by, the ONR is to be treated on and after the relevant date as a registration granted by the relevant licensing authority. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> (2 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] This regulation applies where— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> (2 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] This regulation applies where— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] the site in respect of which the registration was granted ceases to be an ONR regulated site; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] the registration mentioned in sub-paragraph (a) remained in force immediately before the date on which the site ceased to be an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] the site in respect of which the registration was granted ceases to be an ONR regulated site; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] the registration mentioned in sub-paragraph (a) remained in force immediately before the date on which the site ceased to be an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> (3 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In this regulation— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> (3 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In this regulation— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**relevant date *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**” means, in relation to a site, the date on which the site ceased to be an ONR regulated site; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**relevant licensing authority *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**” means the licensing authority for that site determined in accordance with Schedule 1. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**relevant date *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**” means, in relation to a site, the date on which the site ceased to be an ONR regulated site; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**relevant licensing authority *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**” means the licensing authority for that site determined in accordance with Schedule 1. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> **11B (Extent: E+W+S) (affected by repeal, see note). Sites which become an ONR regulated site – effect on registration (Extent: E+W+S) (affected by repeal, see note)[^key-8432ca5f45f78e2847a799be92ef9e0c][^key-8432ca5f45f78e2847a799be92ef9e0c]**
+> **11B (Extent: E+W+S) (affected by repeal, see note). Sites which become an ONR regulated site – effect on registration (Extent: E+W+S) (affected by repeal, see note)[^c-8432ca5f45f78e2847a799be92ef9e0c][^c-8432ca5f45f78e2847a799be92ef9e0c]**
 >
-> (1 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] Where this regulation applies a registration granted by, or treated as granted by, a licensing authority (other than the ONR) is to be treated on and after the relevant date as a registration granted by the ONR. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> (1 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] Where this regulation applies a registration granted by, or treated as granted by, a licensing authority (other than the ONR) is to be treated on and after the relevant date as a registration granted by the ONR. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> (2 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] This regulation applies where— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> (2 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] This regulation applies where— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] the site in respect of which the registration was granted becomes an ONR regulated site; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] the registration mentioned in sub-paragraph (a) remained in force immediately before the date on which the site became an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] the site in respect of which the registration was granted becomes an ONR regulated site; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] the registration mentioned in sub-paragraph (a) remained in force immediately before the date on which the site became an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> (3 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In this regulation “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**relevant date *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**” means, in relation to a site, the date on which the site became an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> (3 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In this regulation “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**relevant date *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**” means, in relation to a site, the date on which the site became an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-**116 (Extent: E+W+S) (affected by repeal, see note).**[^key-8432ca5f45f78e2847a799be92ef9e0c] (1 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] Regulation 13 (grant of licences) is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+**116 (Extent: E+W+S) (affected by repeal, see note).**[^c-8432ca5f45f78e2847a799be92ef9e0c] (1 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] Regulation 13 (grant of licences) is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (1)(b) for “or the Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ , the Executive or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (1)(b) for “or the Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ , the Executive or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(3 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (3)— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(3 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (3)— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] in the opening words after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] after “and the Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ or, as the case may be, the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] in the opening words after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] after “and the Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ or, as the case may be, the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(4 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (4)(a) after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(4 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (4)(a) after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(5 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] After paragraph (4) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(5 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] After paragraph (4) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-> (4A (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (4)(d)(ii) the reference to the Executive is to be read, in relation to an application relating to manufacture or storage of explosives on, or within any part of, a site which is an ONR regulated site, as a reference to the ONR. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> (4A (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (4)(d)(ii) the reference to the Executive is to be read, in relation to an application relating to manufacture or storage of explosives on, or within any part of, a site which is an ONR regulated site, as a reference to the ONR. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(6 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (6)— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(6 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (6)— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] in the opening words after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] in each of sub-paragraphs (a) and (b) after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ or, as the case may be, the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] in the opening words after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] in each of sub-paragraphs (a) and (b) after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ or, as the case may be, the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(7 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (9)(b) for “or the Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ , the Executive or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(7 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (9)(b) for “or the Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ , the Executive or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-**117 (Extent: E+W+S) (affected by repeal, see note).**[^key-8432ca5f45f78e2847a799be92ef9e0c] After regulation 13 insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+**117 (Extent: E+W+S) (affected by repeal, see note).**[^c-8432ca5f45f78e2847a799be92ef9e0c] After regulation 13 insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-> **13A (Extent: E+W+S) (affected by repeal, see note). Licences for sites which cease to be ONR regulated sites (Extent: E+W+S) (affected by repeal, see note)[^key-8432ca5f45f78e2847a799be92ef9e0c][^key-8432ca5f45f78e2847a799be92ef9e0c]**
+> **13A (Extent: E+W+S) (affected by repeal, see note). Licences for sites which cease to be ONR regulated sites (Extent: E+W+S) (affected by repeal, see note)[^c-8432ca5f45f78e2847a799be92ef9e0c][^c-8432ca5f45f78e2847a799be92ef9e0c]**
 >
-> (1 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] Where this regulation applies a licence granted by, or treated as granted by, the ONR is to be treated on and after the relevant date as a licence granted by the relevant licensing authority. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> (1 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] Where this regulation applies a licence granted by, or treated as granted by, the ONR is to be treated on and after the relevant date as a licence granted by the relevant licensing authority. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> (2 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] This regulation applies where— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> (2 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] This regulation applies where— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] the site in respect of which the licence was granted ceases to be an ONR regulated site; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] the licence mentioned in sub-paragraph (a) remained in force immediately before the date on which the site ceased to be an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] the site in respect of which the licence was granted ceases to be an ONR regulated site; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] the licence mentioned in sub-paragraph (a) remained in force immediately before the date on which the site ceased to be an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> (3 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In this regulation— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> (3 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In this regulation— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**relevant date *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**” means, in relation to a site, the date on which the site ceased to be an ONR regulated site; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**relevant licensing authority *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**” means the licensing authority for the site determined in accordance with Schedule 1. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**relevant date *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**” means, in relation to a site, the date on which the site ceased to be an ONR regulated site; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**relevant licensing authority *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**” means the licensing authority for the site determined in accordance with Schedule 1. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> **13B (Extent: E+W+S) (affected by repeal, see note). Licences for sites which become ONR regulated sites (Extent: E+W+S) (affected by repeal, see note)[^key-8432ca5f45f78e2847a799be92ef9e0c][^key-8432ca5f45f78e2847a799be92ef9e0c]**
+> **13B (Extent: E+W+S) (affected by repeal, see note). Licences for sites which become ONR regulated sites (Extent: E+W+S) (affected by repeal, see note)[^c-8432ca5f45f78e2847a799be92ef9e0c][^c-8432ca5f45f78e2847a799be92ef9e0c]**
 >
-> (1 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] Where this regulation applies a licence granted by, or treated as granted by, a licensing authority (other than the ONR) is to be treated on and after the relevant date as a licence granted by the ONR. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> (1 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] Where this regulation applies a licence granted by, or treated as granted by, a licensing authority (other than the ONR) is to be treated on and after the relevant date as a licence granted by the ONR. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> (2 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] This regulation applies where— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> (2 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] This regulation applies where— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] the site in respect of which the licence was granted becomes an ONR regulated site; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] the licence mentioned in sub-paragraph (a) remained in force immediately before the date on which the site became an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] the site in respect of which the licence was granted becomes an ONR regulated site; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] the licence mentioned in sub-paragraph (a) remained in force immediately before the date on which the site became an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> (3 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In this regulation “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**relevant date *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**” means, in relation to a site, the date on which the site became an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> (3 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In this regulation “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**relevant date *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**” means, in relation to a site, the date on which the site became an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-**118 (Extent: E+W+S) (affected by repeal, see note).**[^key-8432ca5f45f78e2847a799be92ef9e0c] (1 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] Regulation 14 (local authority assent) is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+**118 (Extent: E+W+S) (affected by repeal, see note).**[^c-8432ca5f45f78e2847a799be92ef9e0c] (1 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] Regulation 14 (local authority assent) is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (1) for “Executive”, in both places it appears, substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ appropriate authority ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (1) for “Executive”, in both places it appears, substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ appropriate authority ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(3 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (8)(c) for “Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ appropriate authority ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(3 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (8)(c) for “Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ appropriate authority ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(4 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (9) for “Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ appropriate authority ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(4 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (9) for “Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ appropriate authority ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(5 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (10)— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(5 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (10)— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] in each of sub-paragraphs (a) and (b) for “Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ appropriate authority ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] in the full-out words for “Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ appropriate authority ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] in each of sub-paragraphs (a) and (b) for “Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ appropriate authority ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] in the full-out words for “Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ appropriate authority ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(6 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] After paragraph (13) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(6 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] After paragraph (13) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-> (14 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In this regulation “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**appropriate authority *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**” means— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> (14 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In this regulation “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**appropriate authority *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**” means— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] where the application is made to the Executive, the Executive; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] where the application is made to the ONR, the ONR. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] where the application is made to the Executive, the Executive; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] where the application is made to the ONR, the ONR. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-**119 (Extent: E+W+S) (affected by repeal, see note).**[^key-8432ca5f45f78e2847a799be92ef9e0c] (1 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] Regulation 16 (variation of licences) is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+**119 (Extent: E+W+S) (affected by repeal, see note).**[^c-8432ca5f45f78e2847a799be92ef9e0c] (1 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] Regulation 16 (variation of licences) is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (1)(b) after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (1)(b) after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(3 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (3) after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(3 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (3) after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(4 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (4) after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ or (as the case may be) the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(4 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (4) after “Executive” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ or (as the case may be) the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-**120 (Extent: E+W+S) (affected by repeal, see note).**[^key-8432ca5f45f78e2847a799be92ef9e0c] (1 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] Regulation 23 (defences) is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+**120 (Extent: E+W+S) (affected by repeal, see note).**[^c-8432ca5f45f78e2847a799be92ef9e0c] (1 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] Regulation 23 (defences) is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (1)(d) for “Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ appropriate authority ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (1)(d) for “Executive” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ appropriate authority ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-(3 (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] After paragraph (1) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+(3 (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] After paragraph (1) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-> (1A (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (1) “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**appropriate authority *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]**” means— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> (1A (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] In paragraph (1) “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**appropriate authority *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]**” means— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] in the case of a licence granted by the ONR, the ONR; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] otherwise, the Executive. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] in the case of a licence granted by the ONR, the ONR; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] otherwise, the Executive. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-**121 (Extent: E+W+S) (affected by repeal, see note).**[^key-8432ca5f45f78e2847a799be92ef9e0c] In Schedule 1 (licensing authority)— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+**121 (Extent: E+W+S) (affected by repeal, see note).**[^c-8432ca5f45f78e2847a799be92ef9e0c] In Schedule 1 (licensing authority)— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] in paragraph 1 for “paragraphs 2 and 3” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ paragraphs 2 to 4 ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-8432ca5f45f78e2847a799be92ef9e0c] after paragraph 3 insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] in paragraph 1 for “paragraphs 2 and 3” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ paragraphs 2 to 4 ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-8432ca5f45f78e2847a799be92ef9e0c] after paragraph 3 insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-  > **4 (Extent: E+W+S) (affected by repeal, see note).**[^key-8432ca5f45f78e2847a799be92ef9e0c] The ONR shall be the licensing authority in relation to any application for registration in relation to storage, or for a licence for the manufacture or storage of, explosives on an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+  > **4 (Extent: E+W+S) (affected by repeal, see note).**[^c-8432ca5f45f78e2847a799be92ef9e0c] The ONR shall be the licensing authority in relation to any application for registration in relation to storage, or for a licence for the manufacture or storage of, explosives on an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-  . *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+  . *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
-**122 (Extent: E+W+S) (affected by repeal, see note).**[^key-8432ca5f45f78e2847a799be92ef9e0c] In Schedule 4 (registers) in paragraph 8 after “local authority” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-8432ca5f45f78e2847a799be92ef9e0c]
+**122 (Extent: E+W+S) (affected by repeal, see note).**[^c-8432ca5f45f78e2847a799be92ef9e0c] In Schedule 4 (registers) in paragraph 8 after “local authority” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c] “ or the ONR ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-8432ca5f45f78e2847a799be92ef9e0c]
 
 #### 123. Control of Vibration at Work Regulations 2005
 
@@ -1955,7 +1955,7 @@ The REACH Enforcement Regulations 2008 [^c22036971] are amended as follows.
 
 .
 
-#### 143. Transfrontier Shipment of Radioactive Waste and Spent Fuel Regulations 2008[^key-73ef45638f64094991c63b99ef21e440]
+#### 143. Transfrontier Shipment of Radioactive Waste and Spent Fuel Regulations 2008[^c-73ef45638f64094991c63b99ef21e440]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2031,33 +2031,33 @@ In regulation 1 of the Control of Artificial Optical Radiation at Work Regulatio
 
 #### 146. Identification and Traceability of Explosives Regulations 2013
 
-(1 (Extent: E+W+S) (affected by repeal, see note))[^key-4e9fd0f8378731942600f96720bb218d] Regulation 8 of the Identification and Traceability of Explosives Regulations 2013 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d] [^c22037011] is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
+(1 (Extent: E+W+S) (affected by repeal, see note))[^c-4e9fd0f8378731942600f96720bb218d] Regulation 8 of the Identification and Traceability of Explosives Regulations 2013 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d] [^c22037011] is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-4e9fd0f8378731942600f96720bb218d] After paragraph (2) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-4e9fd0f8378731942600f96720bb218d] After paragraph (2) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
 
-> (2A (Extent: E+W+S) (affected by repeal, see note))[^key-4e9fd0f8378731942600f96720bb218d] Despite paragraphs (1) and (2), the Office for Nuclear Regulation is the enforcing authority for— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
+> (2A (Extent: E+W+S) (affected by repeal, see note))[^c-4e9fd0f8378731942600f96720bb218d] Despite paragraphs (1) and (2), the Office for Nuclear Regulation is the enforcing authority for— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-4e9fd0f8378731942600f96720bb218d] regulation 5 to the extent that it imposes requirements on manufacturers who— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
->   - (i (Extent: E+W+S) (affected by repeal, see note))[^key-4e9fd0f8378731942600f96720bb218d] are established in Great Britain; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
->   - (ii (Extent: E+W+S) (affected by repeal, see note))[^key-4e9fd0f8378731942600f96720bb218d] manufacture explosives on an ONR regulated site; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-4e9fd0f8378731942600f96720bb218d] the remainder of these Regulations as they apply on, or in relation to, a site which is an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-4e9fd0f8378731942600f96720bb218d] regulation 5 to the extent that it imposes requirements on manufacturers who— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
+>   - (i (Extent: E+W+S) (affected by repeal, see note))[^c-4e9fd0f8378731942600f96720bb218d] are established in Great Britain; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
+>   - (ii (Extent: E+W+S) (affected by repeal, see note))[^c-4e9fd0f8378731942600f96720bb218d] manufacture explosives on an ONR regulated site; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-4e9fd0f8378731942600f96720bb218d] the remainder of these Regulations as they apply on, or in relation to, a site which is an ONR regulated site. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
 
-(3 (Extent: E+W+S) (affected by repeal, see note))[^key-4e9fd0f8378731942600f96720bb218d] In paragraph (3), after the definition of “chief officer of police” insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
+(3 (Extent: E+W+S) (affected by repeal, see note))[^c-4e9fd0f8378731942600f96720bb218d] In paragraph (3), after the definition of “chief officer of police” insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
 
-> “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]**ONR regulated site *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]**” means a site in Great Britain which is or forms part of— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
+> “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]**ONR regulated site *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]**” means a site in Great Britain which is or forms part of— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
 >
-> - (a) an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998); or *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
-> - (b) a nuclear new build site (within the meaning given in regulation 2A of those Regulations). *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
+> - (a) an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998); or *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
+> - (b) a nuclear new build site (within the meaning given in regulation 2A of those Regulations). *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
 
-(4 (Extent: E+W+S) (affected by repeal, see note))[^key-4e9fd0f8378731942600f96720bb218d] After paragraph (3) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
+(4 (Extent: E+W+S) (affected by repeal, see note))[^c-4e9fd0f8378731942600f96720bb218d] After paragraph (3) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
 
-> (4 (Extent: E+W+S) (affected by repeal, see note))[^key-4e9fd0f8378731942600f96720bb218d] This regulation is subject to section 18(1A) of the Health and Safety at Work etc. Act 1974. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
+> (4 (Extent: E+W+S) (affected by repeal, see note))[^c-4e9fd0f8378731942600f96720bb218d] This regulation is subject to section 18(1A) of the Health and Safety at Work etc. Act 1974. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-4e9fd0f8378731942600f96720bb218d]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-4e9fd0f8378731942600f96720bb218d]
 
 #### 147. Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013
 
@@ -2416,15 +2416,15 @@ The Planning (Hazardous Substances) Regulations 1992 [^c22037091] are amended as
 - (b) for “HSE is” substitute “ either of them is ”;
 - (c) for “1(c)” substitute “ 1(c) or 4 ”.
 
-#### 183. Town and Country Planning (Hazardous Substances) (Scotland) Regulations 1993[^key-a40d57a768e2780a4240233758200841]
+#### 183. Town and Country Planning (Hazardous Substances) (Scotland) Regulations 1993[^c-a40d57a768e2780a4240233758200841]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**184.**[^key-a40d57a768e2780a4240233758200841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**184.**[^c-a40d57a768e2780a4240233758200841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**185.**[^key-a40d57a768e2780a4240233758200841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**185.**[^c-a40d57a768e2780a4240233758200841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**186.**[^key-a40d57a768e2780a4240233758200841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**186.**[^c-a40d57a768e2780a4240233758200841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 187. Town and Country Planning (General Permitted Development) Order 1995
 
@@ -2563,13 +2563,13 @@ In the Schedule to the Company, Limited Liability Partnership and Business Names
 
 #### 199. Infrastructure Planning (Interested Parties) Regulations 2010
 
-In the Table in the Schedule to the Infrastructure Planning (Interested Parties) Regulations 2010 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-78a150d1ee666756b1d14714857da670] [^c22037211] (persons who are statutory parties for the purposes of section 102 of the Planning Act 2008) after the entry applicable to “The Health and Safety Executive” insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-78a150d1ee666756b1d14714857da670]
+In the Table in the Schedule to the Infrastructure Planning (Interested Parties) Regulations 2010 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-78a150d1ee666756b1d14714857da670] [^c22037211] (persons who are statutory parties for the purposes of section 102 of the Planning Act 2008) after the entry applicable to “The Health and Safety Executive” insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-78a150d1ee666756b1d14714857da670]
 
 > |  |  |
 > | --- | --- |
-> | The Office for Nuclear Regulation *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-78a150d1ee666756b1d14714857da670] | All proposed provisions likely to affect matters relevant to the ONR's purposes within the meaning of Part 3 of the Energy Act 2013 (see section 67 of that Act). *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-78a150d1ee666756b1d14714857da670] |
+> | The Office for Nuclear Regulation *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-78a150d1ee666756b1d14714857da670] | All proposed provisions likely to affect matters relevant to the ONR's purposes within the meaning of Part 3 of the Energy Act 2013 (see section 67 of that Act). *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-78a150d1ee666756b1d14714857da670] |
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-78a150d1ee666756b1d14714857da670]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-78a150d1ee666756b1d14714857da670]
 
 #### 200. Infrastructure Planning (Compulsory Acquisition) Regulations 2010
 
@@ -2583,32 +2583,32 @@ In the table in Schedule 2 to the Infrastructure Planning (Compulsory Acquisitio
 
 #### 201. Town and Country Planning (Development Management Procedure) (England) Order 2010
 
-(1 (Extent: E) (affected by repeal, see note))[^key-4954fcdb3793c10c2cc4776a02445c07] Schedule 5 to the Town and Country Planning (Development Management Procedure) (England) Order 2010 *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07] [^c22037231] is amended as follows. *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]
+(1 (Extent: E) (affected by repeal, see note))[^c-4954fcdb3793c10c2cc4776a02445c07] Schedule 5 to the Town and Country Planning (Development Management Procedure) (England) Order 2010 *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07] [^c22037231] is amended as follows. *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]
 
-(2 (Extent: E) (affected by repeal, see note))[^key-4954fcdb3793c10c2cc4776a02445c07] In the Table— *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]
+(2 (Extent: E) (affected by repeal, see note))[^c-4954fcdb3793c10c2cc4776a02445c07] In the Table— *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-4954fcdb3793c10c2cc4776a02445c07] in paragraph (e) after “substances” insert *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07] “ (otherwise than on a relevant nuclear site) ” *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]; *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]
-- (b (Extent: E) (affected by repeal, see note))[^key-4954fcdb3793c10c2cc4776a02445c07] after paragraph (e) insert— *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]
+- (a (Extent: E) (affected by repeal, see note))[^c-4954fcdb3793c10c2cc4776a02445c07] in paragraph (e) after “substances” insert *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07] “ (otherwise than on a relevant nuclear site) ” *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]; *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]
+- (b (Extent: E) (affected by repeal, see note))[^c-4954fcdb3793c10c2cc4776a02445c07] after paragraph (e) insert— *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]
 
   > |  |  |  |
   > | --- | --- | --- |
-  > | (ea) *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07] | Development within an area which has been notified to the local planning authority by the Office for Nuclear Regulation for the purpose of this provision because of the presence within the vicinity of toxic, highly reactive, explosive or inflammable substances on a relevant nuclear site and which involves the provision of— *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]<br>(i) residential accommodation; *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]<br>(ii) more than 250 square metres of retail floor space; *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]<br>(iii) more than 500 square metres of office floor space; or *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]<br>(iv) more than 750 square metres of floor space to be used for an industrial process, *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]<br>or which is otherwise likely to result in a material increase in the number of persons working within or visiting the notified area. *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07] | The Office for Nuclear Regulation *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07] |
+  > | (ea) *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07] | Development within an area which has been notified to the local planning authority by the Office for Nuclear Regulation for the purpose of this provision because of the presence within the vicinity of toxic, highly reactive, explosive or inflammable substances on a relevant nuclear site and which involves the provision of— *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]<br>(i) residential accommodation; *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]<br>(ii) more than 250 square metres of retail floor space; *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]<br>(iii) more than 500 square metres of office floor space; or *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]<br>(iv) more than 750 square metres of floor space to be used for an industrial process, *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]<br>or which is otherwise likely to result in a material increase in the number of persons working within or visiting the notified area. *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07] | The Office for Nuclear Regulation *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07] |
 
-  . *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]
+  . *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]
 
-(3 (Extent: E) (affected by repeal, see note))[^key-4954fcdb3793c10c2cc4776a02445c07] In paragraph 1 (interpretation of the table)— *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]
+(3 (Extent: E) (affected by repeal, see note))[^c-4954fcdb3793c10c2cc4776a02445c07] In paragraph 1 (interpretation of the table)— *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-4954fcdb3793c10c2cc4776a02445c07] in sub-paragraph (a) for “paragraph (e)(iv)” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07] “ paragraphs (e)(iv) and (ea)(iv) ” *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]; *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]
-- (b (Extent: E) (affected by repeal, see note))[^key-4954fcdb3793c10c2cc4776a02445c07] after sub-paragraph (a) insert— *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]
+- (a (Extent: E) (affected by repeal, see note))[^c-4954fcdb3793c10c2cc4776a02445c07] in sub-paragraph (a) for “paragraph (e)(iv)” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07] “ paragraphs (e)(iv) and (ea)(iv) ” *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]; *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]
+- (b (Extent: E) (affected by repeal, see note))[^c-4954fcdb3793c10c2cc4776a02445c07] after sub-paragraph (a) insert— *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]
 
-  > - (aa (Extent: E) (affected by repeal, see note))[^key-4954fcdb3793c10c2cc4776a02445c07] in paragraphs (e) and (ea) “ *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]**relevant nuclear site *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]**” means a site which is— *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]
-  >   - (i (Extent: E) (affected by repeal, see note))[^key-4954fcdb3793c10c2cc4776a02445c07] a nuclear site (within the meaning given in section 112(1) of the Energy Act 2013); *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]
-  >   - (ii (Extent: E) (affected by repeal, see note))[^key-4954fcdb3793c10c2cc4776a02445c07] an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998); or *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]
-  >   - (iii (Extent: E) (affected by repeal, see note))[^key-4954fcdb3793c10c2cc4776a02445c07] a new nuclear build site (within the meaning given in regulation 2A those Regulations). *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]
+  > - (aa (Extent: E) (affected by repeal, see note))[^c-4954fcdb3793c10c2cc4776a02445c07] in paragraphs (e) and (ea) “ *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]**relevant nuclear site *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]**” means a site which is— *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]
+  >   - (i (Extent: E) (affected by repeal, see note))[^c-4954fcdb3793c10c2cc4776a02445c07] a nuclear site (within the meaning given in section 112(1) of the Energy Act 2013); *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]
+  >   - (ii (Extent: E) (affected by repeal, see note))[^c-4954fcdb3793c10c2cc4776a02445c07] an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998); or *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]
+  >   - (iii (Extent: E) (affected by repeal, see note))[^c-4954fcdb3793c10c2cc4776a02445c07] a new nuclear build site (within the meaning given in regulation 2A those Regulations). *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]
 
-  . *(Extent: E)* *(affected by repeal, see note)*[^key-4954fcdb3793c10c2cc4776a02445c07]
+  . *(Extent: E)* *(affected by repeal, see note)*[^c-4954fcdb3793c10c2cc4776a02445c07]
 
-#### 202. Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011[^key-6a8f32616bb055c6572e1ff8c173a187]
+#### 202. Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011[^c-6a8f32616bb055c6572e1ff8c173a187]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2777,17 +2777,17 @@ In Schedule 1 to the Equality Act 2010 (Specific Duties) Regulations 2011 [^c220
 
 [^c22036691]: Marginal citation: [S.I. 1990/304](https://www.legislation.gov.uk/uksi/1990/304) to which there are amendments not relevant to this Order.
 
-[^key-43b73ced3d9a0b166adfaf390fc1f8b3]: Textual amendment: Sch. 3 paras. 46-51 revoked (E.W.S.) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+[^c-43b73ced3d9a0b166adfaf390fc1f8b3]: Textual amendment: Sch. 3 paras. 46-51 revoked (E.W.S.) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
 
 [^c22036701]: Marginal citation: [S.I. 1991/1531](https://www.legislation.gov.uk/uksi/1991/1531), amended by [S.I. 2005/1082](https://www.legislation.gov.uk/uksi/2005/1082). There are other amending instruments but none is relevant to this Order.
 
-[^key-611babd087c59a298c68dd7c564abb07]: Textual amendment: Sch. 3 para. 52 omitted (8.12.2016) by virtue of [The Simple Pressure Vessels (Safety) Regulations 2016 (S.I. 2016/1092)](https://www.legislation.gov.uk/uksi/2016/1092), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1092/regulation/1), [78(6)](https://www.legislation.gov.uk/uksi/2016/1092/regulation/78/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1092/regulation/3))
+[^c-611babd087c59a298c68dd7c564abb07]: Textual amendment: Sch. 3 para. 52 omitted (8.12.2016) by virtue of [The Simple Pressure Vessels (Safety) Regulations 2016 (S.I. 2016/1092)](https://www.legislation.gov.uk/uksi/2016/1092), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1092/regulation/1), [78(6)](https://www.legislation.gov.uk/uksi/2016/1092/regulation/78/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1092/regulation/3))
 
-[^key-c641ee9092fc066e680c14ae621b8474]: Textual amendment: Sch. 3 paras. 53-55 revoked (E.W.S.) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+[^c-c641ee9092fc066e680c14ae621b8474]: Textual amendment: Sch. 3 paras. 53-55 revoked (E.W.S.) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
 
 [^c22036721]: Marginal citation: [S.I. 1993/2714](https://www.legislation.gov.uk/uksi/1993/2714); to which there are amendments not relevant to this Order.
 
-[^key-1e932d996f3088221644142c415303b3]: Textual amendment: Sch. 3 paras. 56-58 omitted (8.12.2016) by virtue of [The Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101)](https://www.legislation.gov.uk/uksi/2016/1101), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1101/regulation/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2016/1101/schedule/7/paragraph/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1101/regulation/3))
+[^c-1e932d996f3088221644142c415303b3]: Textual amendment: Sch. 3 paras. 56-58 omitted (8.12.2016) by virtue of [The Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101)](https://www.legislation.gov.uk/uksi/2016/1101), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1101/regulation/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2016/1101/schedule/7/paragraph/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1101/regulation/3))
 
 [^c22036741]: Marginal citation: [S.I. 1996/192](https://www.legislation.gov.uk/uksi/1996/192), to which there are amendments not relevant to this Order.
 
@@ -2821,7 +2821,7 @@ In Schedule 1 to the Equality Act 2010 (Specific Duties) Regulations 2011 [^c220
 
 [^c22036891]: Marginal citation: [S.I. 2004/1769](https://www.legislation.gov.uk/uksi/2004/1769). amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235) and [S.I. 2013/1821](https://www.legislation.gov.uk/uksi/2013/1821): there are other amending instruments but none is relevant to this Order.
 
-[^key-8432ca5f45f78e2847a799be92ef9e0c]: Textual amendment: Sch. 3 paras. 110-122 revoked (E.W.S.) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+[^c-8432ca5f45f78e2847a799be92ef9e0c]: Textual amendment: Sch. 3 paras. 110-122 revoked (E.W.S.) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
 
 [^c22036901]: Marginal citation: [S.I. 2005/1082](https://www.legislation.gov.uk/uksi/2005/1082), amended by [S.I. 2009/693](https://www.legislation.gov.uk/uksi/2009/693): there are other amending instruments but none is relevant to this Order.
 
@@ -2839,13 +2839,13 @@ In Schedule 1 to the Equality Act 2010 (Specific Duties) Regulations 2011 [^c220
 
 [^c22036971]: Marginal citation: [S.I. 2008/2852](https://www.legislation.gov.uk/uksi/2008/2852), amended by [S.I. 2012/1513](https://www.legislation.gov.uk/uksi/2012/1513) and [S.I. 2013/2919](https://www.legislation.gov.uk/uksi/2013/2919): there are other amending instruments but none is relevant to this Order.
 
-[^key-73ef45638f64094991c63b99ef21e440]: Textual amendment: [Sch. 3 para. 143](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/143) revoked (31.12.2020) by [The Transfrontier Shipment of Radioactive Waste and Spent Fuel (EU Exit) Regulations 2019 (S.I. 2019/156)](https://www.legislation.gov.uk/uksi/2019/156), [regs. 1](https://www.legislation.gov.uk/uksi/2019/156/regulation/1), [17(1)(c)](https://www.legislation.gov.uk/uksi/2019/156/regulation/17/1/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-73ef45638f64094991c63b99ef21e440]: Textual amendment: [Sch. 3 para. 143](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/143) revoked (31.12.2020) by [The Transfrontier Shipment of Radioactive Waste and Spent Fuel (EU Exit) Regulations 2019 (S.I. 2019/156)](https://www.legislation.gov.uk/uksi/2019/156), [regs. 1](https://www.legislation.gov.uk/uksi/2019/156/regulation/1), [17(1)(c)](https://www.legislation.gov.uk/uksi/2019/156/regulation/17/1/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22036991]: Marginal citation: [S.I. 2010/1140](https://www.legislation.gov.uk/uksi/2010/1140).
 
 [^c22037001]: Marginal citation: [S.I. 2012/632](https://www.legislation.gov.uk/uksi/2012/632).
 
-[^key-4e9fd0f8378731942600f96720bb218d]: Textual amendment: Sch. 3 para. 146 revoked (E.W.S.) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+[^c-4e9fd0f8378731942600f96720bb218d]: Textual amendment: Sch. 3 para. 146 revoked (E.W.S.) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
 
 [^c22037011]: Marginal citation: [S.I. 2013/449](https://www.legislation.gov.uk/uksi/2013/449)
 
@@ -2865,7 +2865,7 @@ In Schedule 1 to the Equality Act 2010 (Specific Duties) Regulations 2011 [^c220
 
 [^c22037091]: Marginal citation: [S.I. 1992/656](https://www.legislation.gov.uk/uksi/1992/656). Part A of Schedule 1 to the Planning (Hazardous Substances) Regulations 1992 (“**the 1992 Regulations**”) was substituted, in relation to England, by [S.I. 2009/1901](https://www.legislation.gov.uk/uksi/2009/1901) and has been amended by [S.I. 2010/1050](https://www.legislation.gov.uk/uksi/2010/1050) and [S.I. 2014/162](https://www.legislation.gov.uk/uksi/2014/162). Part A of Schedule 1 to the 1992 Regulations was substituted, in relation to Wales, by [S.I. 2010/450](https://www.legislation.gov.uk/uksi/2010/450). Part B of Schedule 1 to the 1992 Regulations was substituted, in relation to England, by [S.I. 1999/1901](https://www.legislation.gov.uk/uksi/1999/1901) and has been amended by [S.I. 2010/1050](https://www.legislation.gov.uk/uksi/2010/1050). Part B of Schedule 1 to the 1992 Regulations was substituted, in relation to Wales, by [S.I. 2010/450](https://www.legislation.gov.uk/uksi/2010/450). There are other amending instruments but none is relevant to this Order.
 
-[^key-a40d57a768e2780a4240233758200841]: Textual amendment: Sch. 3 paras. 183-186 revoked (S.) (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)
+[^c-a40d57a768e2780a4240233758200841]: Textual amendment: Sch. 3 paras. 183-186 revoked (S.) (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)
 
 [^c22037111]: Marginal citation: [S.I. 1995/418](https://www.legislation.gov.uk/uksi/1995/418). Paragraph O of Part 3 of Schedule 2, as it applies in relation to England only, was substituted by [S.I. 2013/1101](https://www.legislation.gov.uk/uksi/2013/1101). Paragraph E of Part 4 of that Schedule, as it applies in relation to England, was substituted by [S.I. 2013/2011](https://www.legislation.gov.uk/uksi/2013/2011). There are other amending instruments but none is relevant to this Order.
 
@@ -2887,17 +2887,17 @@ In Schedule 1 to the Equality Act 2010 (Specific Duties) Regulations 2011 [^c220
 
 [^c22037201]: Marginal citation: [S.I. 2009/2982](https://www.legislation.gov.uk/uksi/2009/2982), amended by [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007), [S.I](https://www.legislation.gov.uk/uksi/2012/2007/section/I). 2013/472 and [S.I. 2013/1466](https://www.legislation.gov.uk/uksi/2013/1466).
 
-[^key-78a150d1ee666756b1d14714857da670]: Textual amendment: Sch. 3 para. 199 revoked (E.W.S.) (6.4.2015) by [The Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015 (S.I. 2015/462)](https://www.legislation.gov.uk/uksi/2015/462), [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/462/schedule/3) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/462/regulation/10/2))
+[^c-78a150d1ee666756b1d14714857da670]: Textual amendment: Sch. 3 para. 199 revoked (E.W.S.) (6.4.2015) by [The Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015 (S.I. 2015/462)](https://www.legislation.gov.uk/uksi/2015/462), [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/462/schedule/3) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/462/regulation/10/2))
 
 [^c22037211]: Marginal citation: [S.I. 2010/102](https://www.legislation.gov.uk/uksi/2010/102), amended by [S.I. 2012/1659](https://www.legislation.gov.uk/uksi/2012/1659), [S.I](https://www.legislation.gov.uk/uksi/2012/1659/section/I). 2012/2654, 2012/2732, [S.I. 2013/522](https://www.legislation.gov.uk/uksi/2013/522) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). There are other amending instruments but none is relevant to this Order.
 
 [^c22037221]: Marginal citation: [S.I. 2010/104](https://www.legislation.gov.uk/uksi/2010/104), amended by [S.I. 2012/1659](https://www.legislation.gov.uk/uksi/2012/1659), [S.I](https://www.legislation.gov.uk/uksi/2012/1659/section/I). 2012/2654, [S.I. 2012/2732](https://www.legislation.gov.uk/uksi/2012/2732), [S.I](https://www.legislation.gov.uk/uksi/2012/2732/section/I). 2013/522 and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). There are other amending instruments but none is relevant to this Order.
 
-[^key-4954fcdb3793c10c2cc4776a02445c07]: Textual amendment: Sch. 3 para. 201 revoked (E.) (15.4.2015) by [The Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595)](https://www.legislation.gov.uk/uksi/2015/595), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/595/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2015/595/schedule/9) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/595/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2015/595/article/1/4), [47](https://www.legislation.gov.uk/uksi/2015/595/article/47))
+[^c-4954fcdb3793c10c2cc4776a02445c07]: Textual amendment: Sch. 3 para. 201 revoked (E.) (15.4.2015) by [The Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595)](https://www.legislation.gov.uk/uksi/2015/595), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/595/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2015/595/schedule/9) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/595/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2015/595/article/1/4), [47](https://www.legislation.gov.uk/uksi/2015/595/article/47))
 
 [^c22037231]: Marginal citation: [S.I. 2010/2184](https://www.legislation.gov.uk/uksi/2010/2184), amended by [S.I. 2012/636](https://www.legislation.gov.uk/uksi/2012/636) and [S.I. 2012/1659](https://www.legislation.gov.uk/uksi/2012/1659). There are other amending instruments but none is relevant to this Order.
 
-[^key-6a8f32616bb055c6572e1ff8c173a187]: Textual amendment: Sch. 3 para. 202 revoked (S.) (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [60(9)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/9), [sch. 6](https://www.legislation.gov.uk/ssi/2017/102/schedule/6) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-6a8f32616bb055c6572e1ff8c173a187]: Textual amendment: Sch. 3 para. 202 revoked (S.) (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [60(9)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/9), [sch. 6](https://www.legislation.gov.uk/ssi/2017/102/schedule/6) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
 [^c22037251]: Marginal citation: [S.S.I. 2011/146](https://www.legislation.gov.uk/ssi/2011/146), to which there are amendments not relevant to this Order.
 

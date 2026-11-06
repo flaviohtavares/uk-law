@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Restriction of relief on certain interest and dividends.[^key-a819a284342d261f70c6f032161c932e]
+## 103. Restriction of relief on certain interest and dividends.[^c-a819a284342d261f70c6f032161c932e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a819a284342d261f70c6f032161c932e]: Textual amendment: [Ss. 103-105](https://www.legislation.gov.uk/ukpga/1998/36/section/103) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-a819a284342d261f70c6f032161c932e]: Textual amendment: [Ss. 103-105](https://www.legislation.gov.uk/ukpga/1998/36/section/103) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

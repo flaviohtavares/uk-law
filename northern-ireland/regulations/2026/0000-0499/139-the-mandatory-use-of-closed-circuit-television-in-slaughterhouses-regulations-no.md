@@ -46,7 +46,7 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001] makes the 
 
 In accordance with section 11(5) of that Act, the Department has consulted such persons appearing to it to represent any relevant interests as it considers appropriate.
 
-## 1. Citation and commencement[^key-9671bd38aa15eb8ae5a8006301fe18fc]
+## 1. Citation and commencement[^c-9671bd38aa15eb8ae5a8006301fe18fc]
 
 (1) These Regulations may be cited as the Mandatory Use of Closed Circuit Television in Slaughterhouses Regulations (Northern Ireland) 2026.
 
@@ -55,7 +55,7 @@ In accordance with section 11(5) of that Act, the Department has consulted such 
 - (a) Regulations 1 to 4 come into operation on 1st August 2026.
 - (b) Regulations 5 to 11 come into operation on 1st February 2027.
 
-## 2. Interpretation[^key-3aca30da261036e1b6b0759abb932661]
+## 2. Interpretation[^c-3aca30da261036e1b6b0759abb932661]
 
 In these Regulations—
 
@@ -71,7 +71,7 @@ In these Regulations—
   - (b) disclosure by transmission, dissemination or otherwise making available;
 - “**slaughterhouse**” has the meaning given in Article 2(k) of the EU Regulation.
 
-## 3. Duty to install and operate a CCTV system[^key-393f53d3030a0f72cbe6462b94f35df8]
+## 3. Duty to install and operate a CCTV system[^c-393f53d3030a0f72cbe6462b94f35df8]
 
 (1) A business operator of a slaughterhouse must ensure that a CCTV system is installed that provides a complete and clear image of killing and related operations in all areas of the slaughterhouse where live animals are present.
 
@@ -84,13 +84,13 @@ In these Regulations—
 
 (4) In this regulation “**related operations**” has the meaning given in Article 2(b) of the EU Regulation.
 
-## 4. Duty to retain CCTV images or information[^key-527bcd0a45c4cb254e5b5ad81bf981fb]
+## 4. Duty to retain CCTV images or information[^c-527bcd0a45c4cb254e5b5ad81bf981fb]
 
 (1) The business operator must make arrangements for the retention and storage of any images or information obtained by a CCTV system referred to in regulation 3 for 90 days beginning with the date the images or information are obtained.
 
 (2) The business operator must ensure that the arrangements under paragraph (1) are appropriate to maintain the integrity and quality of the images or information retained.
 
-## 5. Power to inspect and seize images or information[^key-4d9cddef6073ffaaabe855d946f7a428]
+## 5. Power to inspect and seize images or information[^c-4d9cddef6073ffaaabe855d946f7a428]
 
 **Not yet in force.**
 
@@ -119,7 +119,7 @@ In these Regulations—
 
 an inspector must return the items to the person appearing to be responsible for them as soon as is reasonably practicable.
 
-## 6. Enforcement notices[^key-417911281c65aff38039295ec75caeaa]
+## 6. Enforcement notices[^c-417911281c65aff38039295ec75caeaa]
 
 **Not yet in force.**
 
@@ -158,7 +158,7 @@ an inspector must return the items to the person appearing to be responsible for
 
 (10) An inspector may at any time withdraw or vary an enforcement notice in writing.
 
-## 7. Appeals against enforcement notices[^key-2674fc4185d815fa9a6134af272a9e45]
+## 7. Appeals against enforcement notices[^c-2674fc4185d815fa9a6134af272a9e45]
 
 (1) A person who is aggrieved by—
 
@@ -171,7 +171,7 @@ may appeal to a court of summary jurisdiction in accordance with Part 7 of the M
 
 (3) On appeal the court may make such order as it thinks fit and the order shall (without prejudice to any right of appeal) be binding on the Department.
 
-## 8. Notices[^key-18e81db5f85cd58b83db0a095be21a77]
+## 8. Notices[^c-18e81db5f85cd58b83db0a095be21a77]
 
 (1) Any notice required or authorised to be served under these Regulations on any person may be served by—
 
@@ -197,7 +197,7 @@ may appeal to a court of summary jurisdiction in accordance with Part 7 of the M
 
 (6) In this regulation “**body corporate**” does not include a limited liability partnership.
 
-## 9. Offences: general[^key-4e7687f43527be7534fec0e19d8f0df5]
+## 9. Offences: general[^c-4e7687f43527be7534fec0e19d8f0df5]
 
 (1) It is an offence to contravene, or to cause or permit a person to contravene—
 
@@ -206,7 +206,7 @@ may appeal to a court of summary jurisdiction in accordance with Part 7 of the M
 
 (2) It is an offence for a person to fail to comply with an enforcement notice issued under regulation 6.
 
-## 10. Obstruction offences[^key-84a7e4b2afb88176da06d6ff1b31549e]
+## 10. Obstruction offences[^c-84a7e4b2afb88176da06d6ff1b31549e]
 
 It is an offence—
 
@@ -217,7 +217,7 @@ It is an offence—
 - (c) to furnish to any such person any such information knowing it to be false or misleading; or
 - (d) to fail to produce a document or record, or any images or information retained and stored as required by regulation 4, without delay to such person when required to do so.
 
-## 11. Penalties[^key-401243d7d21d69c5e2dc12c81ca1f2a2]
+## 11. Penalties[^c-401243d7d21d69c5e2dc12c81ca1f2a2]
 
 A person guilty of an offence under regulation 9 or 10 is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
@@ -251,32 +251,32 @@ A full regulatory impact assessment has been produced for this Statutory Rule. C
 
 [^f00002]: Footnote: [2011 c. 16 (N.I)](https://www.legislation.gov.uk/nia/2011/16)
 
-[^key-9671bd38aa15eb8ae5a8006301fe18fc]: Commencement: Reg. 1 in operation at 1.8.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/a)
+[^c-9671bd38aa15eb8ae5a8006301fe18fc]: Commencement: Reg. 1 in operation at 1.8.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/a)
 
-[^key-3aca30da261036e1b6b0759abb932661]: Commencement: Reg. 2 in operation at 1.8.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/a)
+[^c-3aca30da261036e1b6b0759abb932661]: Commencement: Reg. 2 in operation at 1.8.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/a)
 
 [^f00003]: Footnote: OJ L 303, 18.11.2009, pp. 1-30, as last amended by Commission Implementing [Regulation (EU) 2018/723](https://www.legislation.gov.uk/european/regulation/2018/0723) pp.11-13 (OJ L 122 17.05.2018)
 
 [^f00004]: Footnote: [S.R. 2014 No.107](https://www.legislation.gov.uk/nisr/2014/107)
 
-[^key-393f53d3030a0f72cbe6462b94f35df8]: Commencement: Reg. 3 in operation at 1.8.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/a)
+[^c-393f53d3030a0f72cbe6462b94f35df8]: Commencement: Reg. 3 in operation at 1.8.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/a)
 
-[^key-527bcd0a45c4cb254e5b5ad81bf981fb]: Commencement: Reg. 4 in operation at 1.8.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/a)
+[^c-527bcd0a45c4cb254e5b5ad81bf981fb]: Commencement: Reg. 4 in operation at 1.8.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/a)
 
-[^key-4d9cddef6073ffaaabe855d946f7a428]: Commencement: Reg. 5 in operation at 1.2.2027, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/b)
+[^c-4d9cddef6073ffaaabe855d946f7a428]: Commencement: Reg. 5 in operation at 1.2.2027, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/b)
 
 [^f00005]: Footnote: [S.R. 2006 No.538](https://www.legislation.gov.uk/nisr/2006/538)
 
-[^key-417911281c65aff38039295ec75caeaa]: Commencement: Reg. 6 in operation at 1.2.2027, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/b)
+[^c-417911281c65aff38039295ec75caeaa]: Commencement: Reg. 6 in operation at 1.2.2027, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/b)
 
-[^key-2674fc4185d815fa9a6134af272a9e45]: Commencement: Reg. 7 in operation at 1.8.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/b)
+[^c-2674fc4185d815fa9a6134af272a9e45]: Commencement: Reg. 7 in operation at 1.8.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/b)
 
 [^f00006]: Footnote: [1981 No.1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
-[^key-18e81db5f85cd58b83db0a095be21a77]: Commencement: Reg. 8 in operation at 1.8.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/b)
+[^c-18e81db5f85cd58b83db0a095be21a77]: Commencement: Reg. 8 in operation at 1.8.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/b)
 
-[^key-4e7687f43527be7534fec0e19d8f0df5]: Commencement: Reg. 9 in operation at 1.8.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/b)
+[^c-4e7687f43527be7534fec0e19d8f0df5]: Commencement: Reg. 9 in operation at 1.8.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/b)
 
-[^key-84a7e4b2afb88176da06d6ff1b31549e]: Commencement: Reg. 10 in operation at 1.8.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/b)
+[^c-84a7e4b2afb88176da06d6ff1b31549e]: Commencement: Reg. 10 in operation at 1.8.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/b)
 
-[^key-401243d7d21d69c5e2dc12c81ca1f2a2]: Commencement: Reg. 11 in operation at 1.8.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/b)
+[^c-401243d7d21d69c5e2dc12c81ca1f2a2]: Commencement: Reg. 11 in operation at 1.8.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/139/regulation/1/2/b)

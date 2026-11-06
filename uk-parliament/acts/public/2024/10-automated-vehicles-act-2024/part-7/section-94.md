@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. General definitions[^key-015ecfb27257e1502660016eeb6077b2]
+## 94. General definitions[^c-015ecfb27257e1502660016eeb6077b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In this Act—
 
 ## Annotations
 
-[^key-015ecfb27257e1502660016eeb6077b2]: Commencement: S. 94 in force at Royal Assent, see [s. 99(3)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/3)
+[^c-015ecfb27257e1502660016eeb6077b2]: Commencement: S. 94 in force at Royal Assent, see [s. 99(3)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/3)

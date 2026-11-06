@@ -24,16 +24,16 @@ Section 90
 
 ### Acting through subsidiaries
 
-**1.**[^key-cc23ec075a0bb69b7480a64fca519396] (1) A section 87 order may include provision—
+**1.**[^c-cc23ec075a0bb69b7480a64fca519396] (1) A section 87 order may include provision—
 
 - (a) enabling the board to establish subsidiaries, and
 - (b) enabling or requiring the board to carry out specified functions through subsidiaries.
 
-(2) “**Subsidiary**” means a subsidiary as defined by section 1159 of the Companies Act 2006[^key-61b7333425a0d17b37e25432d52cd3af].
+(2) “**Subsidiary**” means a subsidiary as defined by section 1159 of the Companies Act 2006[^c-61b7333425a0d17b37e25432d52cd3af].
 
 ### Registers, returns and other information
 
-**2.**[^key-b713261f2abc8bb6aa03cade4a650ef4] (1) A section 87 order may include provision—
+**2.**[^c-b713261f2abc8bb6aa03cade4a650ef4] (1) A section 87 order may include provision—
 
 - (a) with respect to registration in a register kept by the board of persons carrying on business in a specified industry;
 - (b) requiring the register to be made available (in accordance with the order) for inspection by the public;
@@ -43,7 +43,7 @@ Section 90
 
 ### Investigative powers
 
-**3.**[^key-b8bd5b5c37fbeccf6caf9dc7e455d4fd] (1) A section 87 order may include provision conferring a power of entry on authorised officers for the purpose of enabling them to carry out functions of the board.
+**3.**[^c-b8bd5b5c37fbeccf6caf9dc7e455d4fd] (1) A section 87 order may include provision conferring a power of entry on authorised officers for the purpose of enabling them to carry out functions of the board.
 
 (2) But a section 87 order may not include provision by virtue of sub-paragraph (1) conferring power to enter a dwelling.
 
@@ -62,7 +62,7 @@ Section 90
 
 ### Reserve funds etc.
 
-**4.**[^key-8e3aac2273ab4d734f6aa14088097c2d] (1) A section 87 order may include provision for enabling the board to establish and maintain a reserve fund for the purposes of its functions.
+**4.**[^c-8e3aac2273ab4d734f6aa14088097c2d] (1) A section 87 order may include provision for enabling the board to establish and maintain a reserve fund for the purposes of its functions.
 
 (2) A section 87 order may also make provision with respect to powers of investment over a reserve fund or any other money of the board which is not immediately required for any other purpose.
 
@@ -73,7 +73,7 @@ Section 90
 
 ### Levies
 
-**5.**[^key-2fb19c65cc44e2c9049447c3e8ecc44b] (1) A section 87 order may include provision—
+**5.**[^c-2fb19c65cc44e2c9049447c3e8ecc44b] (1) A section 87 order may include provision—
 
 - (a) for the imposition by the board of charges (“levies”) on such persons as may be specified in the order;
 - (b) as to limits on the amounts of levies;
@@ -90,11 +90,11 @@ Section 90
 
 ### Power to charge for services
 
-**6.**[^key-fe5f8f99258c5f124e0060babe3a3958] A section 87 order may provide that the board (or a subsidiary of the board) may make such charges for any services as appear to the board (or subsidiary) to be reasonable.
+**6.**[^c-fe5f8f99258c5f124e0060babe3a3958] A section 87 order may provide that the board (or a subsidiary of the board) may make such charges for any services as appear to the board (or subsidiary) to be reasonable.
 
 ### Incidental powers
 
-**7.**[^key-603eda399070fc901cc4a33d0a411256] (1) A section 87 order may include provision enabling the board to do anything that appears to it to be conducive or incidental to the discharge of its functions.
+**7.**[^c-603eda399070fc901cc4a33d0a411256] (1) A section 87 order may include provision enabling the board to do anything that appears to it to be conducive or incidental to the discharge of its functions.
 
 (2) The order may, in particular, provide that the board may—
 
@@ -107,7 +107,7 @@ Section 90
 
 ### Approval of appropriate authority, consultation etc.
 
-**8.**[^key-4504811a5e8b17a4d8965dc031b0f317] (1) A section 87 order may include provision making the exercise of a specified function or description of functions conferred on the board—
+**8.**[^c-4504811a5e8b17a4d8965dc031b0f317] (1) A section 87 order may include provision making the exercise of a specified function or description of functions conferred on the board—
 
 - (a) subject to the approval of the appropriate authority, or
 - (b) subject to any other conditions.
@@ -126,7 +126,7 @@ Section 90
 
 ### Offences
 
-**9.**[^key-e89f06f44a7612c1b51785e67c532caf] (1) A section 87 order may create offences in relation to—
+**9.**[^c-e89f06f44a7612c1b51785e67c532caf] (1) A section 87 order may create offences in relation to—
 
 - (a) failing to comply with a requirement relating to registration;
 - (b) obstructing an authorised officer exercising a power of entry;
@@ -146,22 +146,22 @@ Section 90
 
 ## Annotations
 
-[^key-cc23ec075a0bb69b7480a64fca519396]: Commencement: Sch. 10 para. 1 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-cc23ec075a0bb69b7480a64fca519396]: Commencement: Sch. 10 para. 1 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-61b7333425a0d17b37e25432d52cd3af]: Textual amendment: Words in Sch. 10 para. 1(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 255](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/255) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-61b7333425a0d17b37e25432d52cd3af]: Textual amendment: Words in Sch. 10 para. 1(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 255](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/255) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-b713261f2abc8bb6aa03cade4a650ef4]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/2) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-b713261f2abc8bb6aa03cade4a650ef4]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/2) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-b8bd5b5c37fbeccf6caf9dc7e455d4fd]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/3) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-b8bd5b5c37fbeccf6caf9dc7e455d4fd]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/3) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-8e3aac2273ab4d734f6aa14088097c2d]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/4) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-8e3aac2273ab4d734f6aa14088097c2d]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/4) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-2fb19c65cc44e2c9049447c3e8ecc44b]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/5) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-2fb19c65cc44e2c9049447c3e8ecc44b]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/5) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-fe5f8f99258c5f124e0060babe3a3958]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/6) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-fe5f8f99258c5f124e0060babe3a3958]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/6) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-603eda399070fc901cc4a33d0a411256]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/7) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-603eda399070fc901cc4a33d0a411256]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/7) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-4504811a5e8b17a4d8965dc031b0f317]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/8) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-4504811a5e8b17a4d8965dc031b0f317]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/8) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-e89f06f44a7612c1b51785e67c532caf]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/9) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-e89f06f44a7612c1b51785e67c532caf]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2006/16/schedule/10/paragraph/9) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

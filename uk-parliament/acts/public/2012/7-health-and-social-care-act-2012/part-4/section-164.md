@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-f5bb9d3fa3858148aae8dab07755c111] In section 43 of the National Health Service Act 2006 (authorised services), for subsections (1) and (2) substitute—
+(1)[^c-f5bb9d3fa3858148aae8dab07755c111] In section 43 of the National Health Service Act 2006 (authorised services), for subsections (1) and (2) substitute—
 
 > (1) The principal purpose of an NHS foundation trust is the provision of goods and services for the purposes of the health service in England.
 >
@@ -31,13 +31,13 @@ summary: ''
 >
 > (2A) An NHS foundation trust does not fulfil its principal purpose unless, in each financial year, its total income from the provision of goods and services for the purposes of the health service in England is greater than its total income from the provision of goods and services for any other purposes.
 
-(2)[^key-f5bb9d3fa3858148aae8dab07755c111] In subsection (3) of that section (power to carry on other activities in order to generate additional income)—
+(2)[^c-f5bb9d3fa3858148aae8dab07755c111] In subsection (3) of that section (power to carry on other activities in order to generate additional income)—
 
 - (a) for “The” substitute “An”,
 - (b) for “subsection (1)” substitute “subsection (2)”, and
 - (c) omit “, subject to any restrictions in the authorisation,”.
 
-(3)[^key-f5bb9d3fa3858148aae8dab07755c111] After that subsection insert—
+(3)[^c-f5bb9d3fa3858148aae8dab07755c111] After that subsection insert—
 
 > (3A) Each annual report prepared by an NHS foundation trust must give information on the impact that income received by the trust otherwise than from the provision of goods and services for the purposes of the health service in England has had on the provision by the trust of goods and services for those purposes.
 >
@@ -53,16 +53,16 @@ summary: ''
 >
 > (3D) An NHS foundation trust which proposes to increase by 5% or more the proportion of its total income in any financial year attributable to activities other than the provision of goods and services for the purposes of the health service in England may implement the proposal only if more than half of the members of the council of governors of the trust voting approve its implementation.
 
-(4)[^key-298b01ab77ade2c98881cc6eb4c493fc] Omit subsections (4) to (7) of that section (goods and services that may be authorised, etc.).
+(4)[^c-298b01ab77ade2c98881cc6eb4c493fc] Omit subsections (4) to (7) of that section (goods and services that may be authorised, etc.).
 
-(5)[^key-298b01ab77ade2c98881cc6eb4c493fc] For the title to that section substitute “Provision of goods and services”.
+(5)[^c-298b01ab77ade2c98881cc6eb4c493fc] For the title to that section substitute “Provision of goods and services”.
 
-(6)[^key-f5bb9d3fa3858148aae8dab07755c111] In paragraph 2 of Schedule 7 to that Act (constitution), the existing text of which becomes sub-paragraph (1), after that sub-paragraph insert—
+(6)[^c-f5bb9d3fa3858148aae8dab07755c111] In paragraph 2 of Schedule 7 to that Act (constitution), the existing text of which becomes sub-paragraph (1), after that sub-paragraph insert—
 
 > (2) If the corporation is an NHS foundation trust, the constitution must specify its principal purpose (as to which, see section 43(1)).
 
 ## Annotations
 
-[^key-f5bb9d3fa3858148aae8dab07755c111]: Commencement: S. 164(1)-(3)(6) in force at 1.10.2012 by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-f5bb9d3fa3858148aae8dab07755c111]: Commencement: S. 164(1)-(3)(6) in force at 1.10.2012 by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-298b01ab77ade2c98881cc6eb4c493fc]: Commencement: S. 164(4)(5) in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-298b01ab77ade2c98881cc6eb4c493fc]: Commencement: S. 164(4)(5) in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)

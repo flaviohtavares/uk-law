@@ -29,7 +29,7 @@ Section 1
 - (a) at any time between the hours of 11.00 p.m. and 5.00 a.m., he supplies hot food or hot drink to members of the public, or a section of the public, on or from any premises, whether for consumption on or off the premises, or
 - (b) at any time between those hours when members of the public, or a section of the public, are admitted to any premises, he supplies, or holds himself out as willing to supply, hot food or hot drink to any persons, or to persons of a particular description, on or from those premises, whether for consumption on or off the premises,
 
-unless the supply is an exempt supply by virtue of paragraph 2A,[^key-2b5208a83d47d7a3b0e0ba9fda1b5785] 3, 4 or 5.
+unless the supply is an exempt supply by virtue of paragraph 2A,[^c-2b5208a83d47d7a3b0e0ba9fda1b5785] 3, 4 or 5.
 
 (2) References in this Act to the “provision of late night refreshment” are to be construed in accordance with sub-paragraph (1).
 
@@ -42,7 +42,7 @@ unless the supply is an exempt supply by virtue of paragraph 2A,[^key-2b5208a83d
 - (a) before it is supplied, is heated on the premises or elsewhere for the purpose of enabling it to be consumed at a temperature above the ambient air temperature and, at the time of supply, is above that temperature, or
 - (b) after it is supplied, may be heated on the premises for the purpose of enabling it to be consumed at a temperature above the ambient air temperature.
 
-### Exempt supplies: designated areas, descriptions of premises and times[^key-8410333e0278af78c9eaff1490163783]
+### Exempt supplies: designated areas, descriptions of premises and times[^c-8410333e0278af78c9eaff1490163783]
 
 **2A.** (1) The supply of hot food or hot drink is an exempt supply for the purposes of paragraph 1(1) if it takes place—
 
@@ -111,7 +111,7 @@ except by virtue of being a person of a description falling within sub-paragraph
 - (a) for admission to any premises, or
 - (b) for some other item.
 
-(4)[^key-c067747952ab71d5b6b4af50fd020261] In sub-paragraph (1)(d) “**registered charity**” means--
+(4)[^c-c067747952ab71d5b6b4af50fd020261] In sub-paragraph (1)(d) “**registered charity**” means--
 
 - (a) a charity which is registered in accordance with section 30 of the Charities Act 2011, or
 - (b) a charity which by virtue of subsection (2) of that section is not required to be so registered.
@@ -125,8 +125,8 @@ except by virtue of being a person of a description falling within sub-paragraph
 
 ## Annotations
 
-[^key-2b5208a83d47d7a3b0e0ba9fda1b5785]: Textual amendment: Word in Sch. 2 para. 1(1) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/71/2), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(h)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/h)
+[^c-2b5208a83d47d7a3b0e0ba9fda1b5785]: Textual amendment: Word in Sch. 2 para. 1(1) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/71/2), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(h)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/h)
 
-[^key-8410333e0278af78c9eaff1490163783]: Textual amendment: Sch. 2 para. 2A and cross-heading inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 71(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/71/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(h)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/h)
+[^c-8410333e0278af78c9eaff1490163783]: Textual amendment: Sch. 2 para. 2A and cross-heading inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 71(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/71/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(h)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/h)
 
-[^key-c067747952ab71d5b6b4af50fd020261]: Textual amendment: Sch. 2 para. 5(4) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 96](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/96) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-c067747952ab71d5b6b4af50fd020261]: Textual amendment: Sch. 2 para. 5(4) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 96](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/96) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

@@ -50,11 +50,11 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (1) These Regulations may be cited as the Child Support (Consequential and Miscellaneous Amendments) Regulations 2014.
 
-(2)[^key-9d388442539e974593a0484248421b01] These Regulations come into force on 30th June 2014.
+(2)[^c-9d388442539e974593a0484248421b01] These Regulations come into force on 30th June 2014.
 
 ## 2. Amendments to the Child Support (Collection and Enforcement) Regulations 1992
 
-(1) The Child Support (Collection and Enforcement) Regulations 1992 [^c2211524] are modified, in relation to a case in which liability to pay child support maintenance is calculated in accordance with Part 1 of Schedule 1 to the Child Support Act 1991 as amended by paragraph 2 of Schedule 4 to the Child Maintenance and Other Payments Act 2008, as if they had been amended[^key-093af67c8f32f61f2319cdc6bb6b65a6] as follows.
+(1) The Child Support (Collection and Enforcement) Regulations 1992 [^c2211524] are modified, in relation to a case in which liability to pay child support maintenance is calculated in accordance with Part 1 of Schedule 1 to the Child Support Act 1991 as amended by paragraph 2 of Schedule 4 to the Child Maintenance and Other Payments Act 2008, as if they had been amended[^c-093af67c8f32f61f2319cdc6bb6b65a6] as follows.
 
 (2) In regulation 1 (citation, commencement and interpretation)—
 
@@ -147,7 +147,7 @@ Regulation 13 (child who is allowed to live with his parent under section 23(5) 
 
 ## 6. Amendments to the Child Support (Management of Payments and Arrears) Regulations 2009
 
-(1) The Child Support (Management of Payments and Arrears) Regulations 2009 [^c2211539] are modified, in relation to a case in which liability to pay child support maintenance is calculated in accordance with Part 1 of Schedule 1 to the Child Support Act 1991 as amended by paragraph 2 of Schedule 4 to the Child Maintenance and Other Payments Act 2008, as if they had been amended[^key-5efef2f3110cd9f7ee62773d28542b2b] as follows.
+(1) The Child Support (Management of Payments and Arrears) Regulations 2009 [^c2211539] are modified, in relation to a case in which liability to pay child support maintenance is calculated in accordance with Part 1 of Schedule 1 to the Child Support Act 1991 as amended by paragraph 2 of Schedule 4 to the Child Maintenance and Other Payments Act 2008, as if they had been amended[^c-5efef2f3110cd9f7ee62773d28542b2b] as follows.
 
 (2) In regulation 2 (interpretation), after paragraph (2) insert—
 
@@ -181,7 +181,7 @@ Regulation 13 (child who is allowed to live with his parent under section 23(5) 
 
 .
 
-(5)[^key-b8f6d2e20960681ddc7ef05e4bba6f1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b8f6d2e20960681ddc7ef05e4bba6f1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 7. Amendments to the Child Support Maintenance Calculation Regulations 2012
 
@@ -310,11 +310,11 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c2211522]: Marginal citation: [2008 c. 6](https://www.legislation.gov.uk/ukpga/2008/6). Schedule 5 was amended by section 136 of the [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) and by [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007).
 
-[^key-9d388442539e974593a0484248421b01]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2) substituted for (24.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) (No 2) Regulations 2014 (S.I. 2014/1621)](https://www.legislation.gov.uk/uksi/2014/1621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/3/3)
+[^c-9d388442539e974593a0484248421b01]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2) substituted for (24.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) (No 2) Regulations 2014 (S.I. 2014/1621)](https://www.legislation.gov.uk/uksi/2014/1621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/3/3)
 
 [^c2211524]: Marginal citation: [S.I. 1992/1989](https://www.legislation.gov.uk/uksi/1992/1989); relevant amending instruments are [S.I. 1995/1045](https://www.legislation.gov.uk/uksi/1995/1045), 2001/162, 2008/2544, 2009/1815, 2012/2007, 2012/2785.
 
-[^key-093af67c8f32f61f2319cdc6bb6b65a6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/2/1) substituted (24.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) (No 2) Regulations 2014 (S.I. 2014/1621)](https://www.legislation.gov.uk/uksi/2014/1621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/3/4)
+[^c-093af67c8f32f61f2319cdc6bb6b65a6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/2/1) substituted (24.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) (No 2) Regulations 2014 (S.I. 2014/1621)](https://www.legislation.gov.uk/uksi/2014/1621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/3/4)
 
 [^c2211525]: Marginal citation: Paragraph (2) was substituted by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162).
 
@@ -346,13 +346,13 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c2211539]: Marginal citation: [S.I. 2009/3151](https://www.legislation.gov.uk/uksi/2009/3151), which was amended by [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007); there are other amending instruments but none is relevant.
 
-[^key-5efef2f3110cd9f7ee62773d28542b2b]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/6/1) substituted (24.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) (No 2) Regulations 2014 (S.I. 2014/1621)](https://www.legislation.gov.uk/uksi/2014/1621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/3/5)
+[^c-5efef2f3110cd9f7ee62773d28542b2b]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/6/1) substituted (24.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) (No 2) Regulations 2014 (S.I. 2014/1621)](https://www.legislation.gov.uk/uksi/2014/1621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/3/5)
 
 [^c2211540]: Marginal citation: The Secretary of State may so specify under regulation 2(1)(a) of the [Child Support (Collection and Enforcement) Regulations 1992 (S.I. 1992/1989)](https://www.legislation.gov.uk/uksi/1992/1989).
 
 [^c2211541]: Marginal citation: Regulation 3(1) was amended by [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007).
 
-[^key-b8f6d2e20960681ddc7ef05e4bba6f1e]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/6/5) revoked (24.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) (No 2) Regulations 2014 (S.I. 2014/1621)](https://www.legislation.gov.uk/uksi/2014/1621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/3/2), [(6)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/3/6)
+[^c-b8f6d2e20960681ddc7ef05e4bba6f1e]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/6/5) revoked (24.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) (No 2) Regulations 2014 (S.I. 2014/1621)](https://www.legislation.gov.uk/uksi/2014/1621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/3/2), [(6)](https://www.legislation.gov.uk/uksi/2014/1621/regulation/3/6)
 
 [^c2211543]: Marginal citation: [S.I. 2012/2677](https://www.legislation.gov.uk/uksi/2012/2677), to which there are amendments not relevant to these Regulations.
 

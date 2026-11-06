@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Voluntary removal from a childcare register: early years and later years providers[^key-fe8b35452909e284ebe1ddb4c80d7594][^key-edb7a08d7832b74c93955ad78a4af3b7]
+## 70. Voluntary removal from a childcare register: early years and later years providers[^c-fe8b35452909e284ebe1ddb4c80d7594][^c-edb7a08d7832b74c93955ad78a4af3b7]
 
 *Extent: E+W*
 
-(1) A person registered under Chapter 2, 3 or 4[^key-1effdee8968bcdc4e05b42bff9865524] may give notice to the Chief Inspector that he wishes to be removed from the early years register or (as the case may be) from Part A or B of the general childcare register.
+(1) A person registered under Chapter 2, 3 or 4[^c-1effdee8968bcdc4e05b42bff9865524] may give notice to the Chief Inspector that he wishes to be removed from the early years register or (as the case may be) from Part A or B of the general childcare register.
 
 (2) If a person gives notice under subsection (1) the Chief Inspector must remove him from the early years register or (as the case may be) from the relevant Part of the general childcare register.
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-fe8b35452909e284ebe1ddb4c80d7594]: Commencement: S. 70 in force at 6.4.2007 by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)
+[^c-fe8b35452909e284ebe1ddb4c80d7594]: Commencement: S. 70 in force at 6.4.2007 by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)
 
-[^key-edb7a08d7832b74c93955ad78a4af3b7]: Textual amendment: Words in s. 70 substituted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 37(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/37/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-edb7a08d7832b74c93955ad78a4af3b7]: Textual amendment: Words in s. 70 substituted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 37(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/37/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
 
-[^key-1effdee8968bcdc4e05b42bff9865524]: Textual amendment: Words in s. 70(1) substituted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 37(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/37/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-1effdee8968bcdc4e05b42bff9865524]: Textual amendment: Words in s. 70(1) substituted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 37(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/37/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)

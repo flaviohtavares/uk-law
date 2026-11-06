@@ -38,7 +38,7 @@ that question shall be referred to the Secretary of State, whose decision shall 
 
 (4) In relation to land falling within paragraph 5, 6 or 7 of Schedule 14, until such time as a development corporation is established for the new town or, as the case may be, an urban development corporation is established for the urban development area, this Chapter shall have effect as if “the appropriate authority” were the Secretary of State.
 
-(5)[^key-4083a473fff3e035b4463f2fab5a48ab] In relation to land falling within paragraph 18 of Schedule 14, “the appropriate authority” is—
+(5)[^c-4083a473fff3e035b4463f2fab5a48ab] In relation to land falling within paragraph 18 of Schedule 14, “the appropriate authority” is—
 
 - (a) if the national policy statement identifies a statutory undertaker as an appropriate person to carry out the specified description of development in the location, the statutory undertaker;
 - (b) in any other case, the Secretary of State.
@@ -54,4 +54,4 @@ that question shall be referred to the Secretary of State, whose decision shall 
 
 ## Annotations
 
-[^key-4083a473fff3e035b4463f2fab5a48ab]: Textual amendment: S. 120(5)-(7) inserted (6.4.2009 for specified purposes, 1.3.2010 in so far as not already in force) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 176(7)](https://www.legislation.gov.uk/ukpga/2008/29/section/176/7), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a), S.I. 2010/101, art. 5 (with art. 6)
+[^c-4083a473fff3e035b4463f2fab5a48ab]: Textual amendment: S. 120(5)-(7) inserted (6.4.2009 for specified purposes, 1.3.2010 in so far as not already in force) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 176(7)](https://www.legislation.gov.uk/ukpga/2008/29/section/176/7), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a), S.I. 2010/101, art. 5 (with art. 6)

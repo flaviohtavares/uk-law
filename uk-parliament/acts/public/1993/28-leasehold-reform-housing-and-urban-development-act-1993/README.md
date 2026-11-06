@@ -41,7 +41,7 @@ An Act to confer rights to collective enfranchisement and lease renewal on tenan
 
 *Extent: E+W*
 
-#### Chapter I — COLLECTIVE ENFRANCHISEMENT IN CASE OF TENANTS OF FLATS[^key-3fde366eb84da971adf81b96dafdeff2]
+#### Chapter I — COLLECTIVE ENFRANCHISEMENT IN CASE OF TENANTS OF FLATS[^c-3fde366eb84da971adf81b96dafdeff2]
 
 *Extent: E+W*
 
@@ -87,7 +87,7 @@ An Act to confer rights to collective enfranchisement and lease renewal on tenan
 - [Section 20 — Right of reversioner to require evidence of tenant’s right to participate.](part-i/section-20.md)
 - [Section 21 — Reversioner’s counter-notice.](part-i/section-21.md)
 
-##### Applications to court or ... tribunal[^key-aa78f7cd884966b84671954a87946295]
+##### Applications to court or ... tribunal[^c-aa78f7cd884966b84671954a87946295]
 
 *Extent: E+W*
 
@@ -149,7 +149,7 @@ An Act to confer rights to collective enfranchisement and lease renewal on tenan
 - [Section 44 — Access by landlords for valuation purposes.](part-i/section-44.md)
 - [Section 45 — Landlord’s counter-notice.](part-i/section-45.md)
 
-##### Applications to court or ... tribunal[^key-cfc6e6c3d6948e3f6f0bb01713b4ac79]
+##### Applications to court or ... tribunal[^c-cfc6e6c3d6948e3f6f0bb01713b4ac79]
 
 *Extent: E+W*
 
@@ -220,7 +220,7 @@ An Act to confer rights to collective enfranchisement and lease renewal on tenan
 - [Section 74 — Effect of application for approval on claim to acquire freehold.](part-i/section-74.md)
 - [Section 75 — Variation of existing schemes.](part-i/section-75.md)
 
-#### Chapter V — TENANTS’ RIGHT TO MANAGEMENT AUDIT[^key-0ef8e4ce0884fc5a71a068a9028ccf5a][^key-ae5609504339c149c7931cf16c85cc80]
+#### Chapter V — TENANTS’ RIGHT TO MANAGEMENT AUDIT[^c-0ef8e4ce0884fc5a71a068a9028ccf5a][^c-ae5609504339c149c7931cf16c85cc80]
 
 *Extent: E+W*
 
@@ -250,7 +250,7 @@ An Act to confer rights to collective enfranchisement and lease renewal on tenan
 
 - [Section 87 — Approval by Secretary of State of codes of management practice.](part-i/section-87.md)
 
-##### Jurisdiction of ... tribunals in relation to enfranchisement etc. of Crown land[^key-a770a90a4163237bdc0aef55f1ce1db3]
+##### Jurisdiction of ... tribunals in relation to enfranchisement etc. of Crown land[^c-a770a90a4163237bdc0aef55f1ce1db3]
 
 *Extent: E+W*
 
@@ -509,18 +509,18 @@ SCHEDULES
 
 [^c17022951]: Modification: Act: powers transferred (1.7.1999) by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch.1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-3fde366eb84da971adf81b96dafdeff2]: Modification: Pt. 1 Ch. 1: power to amend conferred (20.1.2007) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1181(1)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1181/1/a), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8(2)](https://www.legislation.gov.uk/uksi/2006/3428/article/8/2))
+[^c-3fde366eb84da971adf81b96dafdeff2]: Modification: Pt. 1 Ch. 1: power to amend conferred (20.1.2007) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1181(1)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1181/1/a), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8(2)](https://www.legislation.gov.uk/uksi/2006/3428/article/8/2))
 
-[^key-aa78f7cd884966b84671954a87946295]: Textual amendment: Words in [s. 22 cross-heading](https://www.legislation.gov.uk/ukpga/1993/28/part/I/chapter/I/crossheading/applications-to-court-or-leasehold-valuation-tribunal) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 100](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/100) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-aa78f7cd884966b84671954a87946295]: Textual amendment: Words in [s. 22 cross-heading](https://www.legislation.gov.uk/ukpga/1993/28/part/I/chapter/I/crossheading/applications-to-court-or-leasehold-valuation-tribunal) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 100](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/100) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c17024401]: Textual amendment: [Ss. 37A](https://www.legislation.gov.uk/ukpga/1993/28/section/37A), [37B](https://www.legislation.gov.uk/ukpga/1993/28/section/37B) and crossheading inserted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 116](https://www.legislation.gov.uk/ukpga/1996/52/section/116), [Sch. 11 para. 2(1)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/11/paragraph/2/1); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2](https://www.legislation.gov.uk/uksi/1996/2212/article/2)
 
-[^key-cfc6e6c3d6948e3f6f0bb01713b4ac79]: Textual amendment: Words in [s. 46 cross-heading](https://www.legislation.gov.uk/ukpga/1993/28/part/I/chapter/II/crossheading/applications-to-court-or-leasehold-valuation-tribunal) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 106](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/106) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-cfc6e6c3d6948e3f6f0bb01713b4ac79]: Textual amendment: Words in [s. 46 cross-heading](https://www.legislation.gov.uk/ukpga/1993/28/part/I/chapter/II/crossheading/applications-to-court-or-leasehold-valuation-tribunal) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 106](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/106) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c17024761]: Textual amendment: [Ss. 61A](https://www.legislation.gov.uk/ukpga/1993/28/section/61A), [61B](https://www.legislation.gov.uk/ukpga/1993/28/section/61B) and cross heading inserted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 116](https://www.legislation.gov.uk/ukpga/1996/52/section/116), [Sch. 11 para. 3(1)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/11/paragraph/3/1); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2)
 
-[^key-0ef8e4ce0884fc5a71a068a9028ccf5a]: Modification: Pt. 1 Ch. 5 modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
+[^c-0ef8e4ce0884fc5a71a068a9028ccf5a]: Modification: Pt. 1 Ch. 5 modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
-[^key-ae5609504339c149c7931cf16c85cc80]: Modification: Pt. 1 Ch. 5 extended to Crown Land (30.9.2003 for E. for specified purposes, 30.3.2004 for W. for specified purposes, 28.2.2005 for E. for specified purposes, 31.5.2005 for W. for specified purposes) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 172](https://www.legislation.gov.uk/ukpga/2002/15/section/172), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2)); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(h)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/3056/article/4)); [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(h)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/j)
+[^c-ae5609504339c149c7931cf16c85cc80]: Modification: Pt. 1 Ch. 5 extended to Crown Land (30.9.2003 for E. for specified purposes, 30.3.2004 for W. for specified purposes, 28.2.2005 for E. for specified purposes, 31.5.2005 for W. for specified purposes) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 172](https://www.legislation.gov.uk/ukpga/2002/15/section/172), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2)); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(h)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/3056/article/4)); [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(h)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/j)
 
-[^key-a770a90a4163237bdc0aef55f1ce1db3]: Textual amendment: Words in [s. 88 cross-heading](https://www.legislation.gov.uk/ukpga/1993/28/part/I/chapter/VI/crossheading/jurisdiction-of-leasehold-valuation-tribunals-in-relation-to-enfranchisement-etc-of-crown-land) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 116](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/116) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-a770a90a4163237bdc0aef55f1ce1db3]: Textual amendment: Words in [s. 88 cross-heading](https://www.legislation.gov.uk/ukpga/1993/28/part/I/chapter/VI/crossheading/jurisdiction-of-leasehold-valuation-tribunals-in-relation-to-enfranchisement-etc-of-crown-land) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 116](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/116) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

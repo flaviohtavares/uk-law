@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. MPs' code of conduct relating to financial interests[^key-82d0bbcb86da272a28b45e3abfa4918c]
+## 32. MPs' code of conduct relating to financial interests[^c-82d0bbcb86da272a28b45e3abfa4918c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit section 8 of the Parliamentary Standards Act 2009 (MPs' code of conduct rel
 
 ## Annotations
 
-[^key-82d0bbcb86da272a28b45e3abfa4918c]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2010/25/section/32) in force at 7.5.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/e)
+[^c-82d0bbcb86da272a28b45e3abfa4918c]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2010/25/section/32) in force at 7.5.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 292. Other definitions[^key-3e098f96baa0c57f19db0b6c9c150080][^key-ff7fec353aff5c02ed553bb9385967c4]
+## 292. Other definitions[^c-3e098f96baa0c57f19db0b6c9c150080][^c-ff7fec353aff5c02ed553bb9385967c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,6 +85,6 @@ But in interpreting the term “consumer” section 2(4) to (6) of that Act is t
 
 ## Annotations
 
-[^key-3e098f96baa0c57f19db0b6c9c150080]: Commencement: S. 292 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-3e098f96baa0c57f19db0b6c9c150080]: Commencement: S. 292 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-ff7fec353aff5c02ed553bb9385967c4]: Commencement: [S. 292](https://www.legislation.gov.uk/ukpga/2024/13/section/292) in force at 6.4.2026 in so far as not already in force by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)
+[^c-ff7fec353aff5c02ed553bb9385967c4]: Commencement: [S. 292](https://www.legislation.gov.uk/ukpga/2024/13/section/292) in force at 6.4.2026 in so far as not already in force by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)

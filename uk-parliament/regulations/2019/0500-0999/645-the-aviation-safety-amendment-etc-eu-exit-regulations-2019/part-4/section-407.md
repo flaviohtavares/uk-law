@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 407. Amendment of Article 1 of [Commission Regulation (EU) No 139/2014](https://www.legislation.gov.uk/eur/2014/0139)[^key-4154aea721bbc31342a0d5c5c2e7302d]
+## 407. Amendment of Article 1 of [Commission Regulation (EU) No 139/2014](https://www.legislation.gov.uk/eur/2014/0139)[^c-4154aea721bbc31342a0d5c5c2e7302d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4154aea721bbc31342a0d5c5c2e7302d]: Commencement: Reg. 407 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4154aea721bbc31342a0d5c5c2e7302d]: Commencement: Reg. 407 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+N.I.*
 
-(1) A case to which this Part of this Act applies may be referred to the Court of Appeal under section 36 below (for requests for referrals by victims of crime in England and Wales, see section 2(3A) of the Victims and Prisoners Act 2024)[^key-e251af4098e601239034f3b4017898bb].
+(1) A case to which this Part of this Act applies may be referred to the Court of Appeal under section 36 below (for requests for referrals by victims of crime in England and Wales, see section 2(3A) of the Victims and Prisoners Act 2024)[^c-e251af4098e601239034f3b4017898bb].
 
 (2) Subject to Rules of Court, the jurisdiction of the Court of Appeal under section 36 below shall be exercised by the criminal division of the Court, and references to the Court of Appeal in this Part of this Act shall be construed as references to that division.
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e251af4098e601239034f3b4017898bb]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/ukpga/1988/33/section/35/1) inserted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 14(4)](https://www.legislation.gov.uk/ukpga/2026/19/section/14/4), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+[^c-e251af4098e601239034f3b4017898bb]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/ukpga/1988/33/section/35/1) inserted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 14(4)](https://www.legislation.gov.uk/ukpga/2026/19/section/14/4), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
 
 [^c12786611]: Textual amendment: [S. 35(3)(a)(b)(i)(ii)](https://www.legislation.gov.uk/ukpga/1988/33/section/35/3/a/b/i/ii) substituted (9.1.1995) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 168(1)](https://www.legislation.gov.uk/ukpga/1994/33/section/168/1), [Sch. 9 para. 34(a)](https://www.legislation.gov.uk/ukpga/1994/33/schedule/9/paragraph/34/a); [S.I. 1994/3192](https://www.legislation.gov.uk/uksi/1994/3192), [art. 2](https://www.legislation.gov.uk/uksi/1994/3192/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1994/3192/schedule)
 

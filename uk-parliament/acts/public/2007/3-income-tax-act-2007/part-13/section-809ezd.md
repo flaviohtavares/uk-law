@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809EZD. Sums treated as “carried interest” for purposes of section 809EZB[^key-3674041aafbaab2334feb92964c49573]
+## 809EZD. Sums treated as “carried interest” for purposes of section 809EZB[^c-3674041aafbaab2334feb92964c49573]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3674041aafbaab2334feb92964c49573]: Textual amendment: S. 809EZD omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/4)
+[^c-3674041aafbaab2334feb92964c49573]: Textual amendment: S. 809EZD omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Variation, renewal or discharge of violent offences prevention orders[^key-c9ba64f91fde1999e938b026e7034916]
+## 60. Variation, renewal or discharge of violent offences prevention orders[^c-c9ba64f91fde1999e938b026e7034916]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ if the court considers that it is necessary to do so for the purpose of protecti
 
 ## Annotations
 
-[^key-c9ba64f91fde1999e938b026e7034916]: Commencement: [S. 60](https://www.legislation.gov.uk/nia/2015/9/section/60) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(f)](https://www.legislation.gov.uk/nisr/2016/417/article/2/f)
+[^c-c9ba64f91fde1999e938b026e7034916]: Commencement: [S. 60](https://www.legislation.gov.uk/nia/2015/9/section/60) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(f)](https://www.legislation.gov.uk/nisr/2016/417/article/2/f)

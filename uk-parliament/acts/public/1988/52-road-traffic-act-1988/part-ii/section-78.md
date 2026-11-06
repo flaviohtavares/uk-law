@@ -57,7 +57,7 @@ An order under this subsection shall be made by statutory instrument subject to 
 (8) In this section—
 
 - (a) “**road**” includes any land which forms part of a harbour or which is adjacent to a harbour and is occupied wholly or partly for the purposes of harbour operations,
-- (b) “**authorised person**” means a person authorised by a highway authority (in Scotland, a roads authority) or a constable authorised on behalf of such an authority by a local policing body or a[^key-84fb43ec2af8569c0b09edee61544e8a] police authority or a chief officer of police,
+- (b) “**authorised person**” means a person authorised by a highway authority (in Scotland, a roads authority) or a constable authorised on behalf of such an authority by a local policing body or a[^c-84fb43ec2af8569c0b09edee61544e8a] police authority or a chief officer of police,
 
 and in this subsection “**harbour**” and “**harbour operations**” have the meanings given to them by section 57(1) of the [^c13977291]Harbours Act 1964.
 
@@ -65,6 +65,6 @@ and in this subsection “**harbour**” and “**harbour operations**” have t
 
 [^c13977281]: Modification: S. 78 restricted (1.7.1992) by [S.I. 1992/1217](https://www.legislation.gov.uk/uksi/1992/1217), [regs.7](https://www.legislation.gov.uk/uksi/1992/1217/regulation/7),9 (with reg. 11).
 
-[^key-84fb43ec2af8569c0b09edee61544e8a]: Textual amendment: Words in [s. 78(8)(b)](https://www.legislation.gov.uk/ukpga/1988/52/section/78/8/b) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 195](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/195); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-84fb43ec2af8569c0b09edee61544e8a]: Textual amendment: Words in [s. 78(8)(b)](https://www.legislation.gov.uk/ukpga/1988/52/section/78/8/b) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 195](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/195); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
 [^c13977291]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).

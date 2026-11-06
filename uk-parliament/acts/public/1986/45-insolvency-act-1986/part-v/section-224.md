@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Inability to pay debts: other cases.[^c15574721][^key-16f786882f102a1a3b6faae4ae8e436c]
+## 224. Inability to pay debts: other cases.[^c15574721][^c-16f786882f102a1a3b6faae4ae8e436c]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^c15574721]: Modification: S. 224 applied (with modifications) by [S.I. 1994/2759](https://www.legislation.gov.uk/uksi/1994/2759), [reg. 3](https://www.legislation.gov.uk/uksi/1994/2759/regulation/3), [Sch. 3 para. 91A(6)](https://www.legislation.gov.uk/uksi/1994/2759/schedule/3/paragraph/91A/6)
 
-[^key-16f786882f102a1a3b6faae4ae8e436c]: Modification: S. 224 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-16f786882f102a1a3b6faae4ae8e436c]: Modification: S. 224 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))

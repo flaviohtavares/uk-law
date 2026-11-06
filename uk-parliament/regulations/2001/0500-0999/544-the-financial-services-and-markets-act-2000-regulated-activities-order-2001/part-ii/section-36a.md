@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Credit broking[^key-b52642df0c809f1aa295b3f79f2dbaea]
+## 36A. Credit broking[^c-b52642df0c809f1aa295b3f79f2dbaea]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,12 +37,12 @@ summary: ''
 
 - (a) article 60C (exempt agreements: exemptions relating to the nature of the agreement);
 - (b) article 60D (exempt agreements: exemptions relating to the purchase of land for non-residential purposes);
-- (c) article 60E (exempt agreements: exemptions relating to the nature of the lender), except for paragraph (5) of that article[^key-e4296627f53efee673c627d24ef99cd3];
+- (c) article 60E (exempt agreements: exemptions relating to the nature of the lender), except for paragraph (5) of that article[^c-e4296627f53efee673c627d24ef99cd3];
 - (d) article 60G (exempt agreements: exemptions relating to the total charge for credit);
 - (e) article 60H (exempt agreements: exemptions relating to the nature of the borrower).
 
 ## Annotations
 
-[^key-b52642df0c809f1aa295b3f79f2dbaea]: Textual amendment: Pt. II Ch. 6A, 6B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [4](https://www.legislation.gov.uk/uksi/2013/1881/article/4)
+[^c-b52642df0c809f1aa295b3f79f2dbaea]: Textual amendment: Pt. II Ch. 6A, 6B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [4](https://www.legislation.gov.uk/uksi/2013/1881/article/4)
 
-[^key-e4296627f53efee673c627d24ef99cd3]: Textual amendment: Words in art. 36A(4)(c) inserted (27.6.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2014 (S.I. 2014/1448)](https://www.legislation.gov.uk/uksi/2014/1448), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1448/article/1/2), [2](https://www.legislation.gov.uk/uksi/2014/1448/article/2)
+[^c-e4296627f53efee673c627d24ef99cd3]: Textual amendment: Words in art. 36A(4)(c) inserted (27.6.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2014 (S.I. 2014/1448)](https://www.legislation.gov.uk/uksi/2014/1448), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1448/article/1/2), [2](https://www.legislation.gov.uk/uksi/2014/1448/article/2)

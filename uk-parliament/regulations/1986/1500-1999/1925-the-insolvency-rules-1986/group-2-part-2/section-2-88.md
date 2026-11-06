@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.88. Interest[^key-3cd429780944af0d9d340d0898769129]
+## 2.88. Interest[^c-3cd429780944af0d9d340d0898769129]
 
 *Extent: E+W*
 
-(1) Where a debt proved in the administration bears interest, that interest is provable as part of the debt except in so far as it is payable in respect of any period after the company entered administration or, if the administration was immediately preceded by a winding up, any period after the date that the company went into liquidation[^key-3e2c6f93c824c660b0fbe5a70a6a0aee].
+(1) Where a debt proved in the administration bears interest, that interest is provable as part of the debt except in so far as it is payable in respect of any period after the company entered administration or, if the administration was immediately preceded by a winding up, any period after the date that the company went into liquidation[^c-3e2c6f93c824c660b0fbe5a70a6a0aee].
 
 (2) In the following circumstances the creditor’s claim may include interest on the debt for periods before the company entered administration, although not previously reserved or agreed.
 
@@ -32,7 +32,7 @@ summary: ''
 
 (6) The rate of interest to be claimed under paragraphs (3) and (4) is the rate specified in section 17 of the Judgments Act 1838 on the date when the company entered administration.
 
-(7) [^key-f8ea66289d26cf8c7d41356350bff3ef]... Any surplus remaining after payment of the debts proved shall, before being applied for any purpose, be applied in paying interest on those debts in respect of the periods during which they have been outstanding since the company entered administration.
+(7) [^c-f8ea66289d26cf8c7d41356350bff3ef]... Any surplus remaining after payment of the debts proved shall, before being applied for any purpose, be applied in paying interest on those debts in respect of the periods during which they have been outstanding since the company entered administration.
 
 (8) All interest payable under paragraph (7) ranks equally whether or not the debts on which it is payable rank equally.
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
+[^c-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
 
-[^key-3e2c6f93c824c660b0fbe5a70a6a0aee]: Textual amendment: Words in rule 2.88(1) inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2005/527/rule/12/a) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))
+[^c-3e2c6f93c824c660b0fbe5a70a6a0aee]: Textual amendment: Words in rule 2.88(1) inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2005/527/rule/12/a) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))
 
-[^key-f8ea66289d26cf8c7d41356350bff3ef]: Textual amendment: Words in [rule 2.88(7)](https://www.legislation.gov.uk/uksi/1986/1925/rule/2.88/7) omitted (1.4.2005) by virtue of [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2005/527/rule/12/b) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))
+[^c-f8ea66289d26cf8c7d41356350bff3ef]: Textual amendment: Words in [rule 2.88(7)](https://www.legislation.gov.uk/uksi/1986/1925/rule/2.88/7) omitted (1.4.2005) by virtue of [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2005/527/rule/12/b) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))

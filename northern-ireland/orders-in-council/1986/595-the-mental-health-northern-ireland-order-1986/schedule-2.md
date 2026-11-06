@@ -68,7 +68,7 @@ Articles 46(6), 47(2) and (4) and 61(6).
 
 **9.** In Article 28—
 
-- (a) in paragraph (2) for the words from “as if” to the end there shall be substituted the words “ as if the trust[^key-3fb0c25b63602e744a48187025d75f19] had designated under Article 46(2)(a) the hospital to which he is transferred ”;
+- (a) in paragraph (2) for the words from “as if” to the end there shall be substituted the words “ as if the trust[^c-3fb0c25b63602e744a48187025d75f19] had designated under Article 46(2)(a) the hospital to which he is transferred ”;
 - (b) paragraphs (3) and (4) shall be omitted;
 - (c) in paragraph (6) for the words from “guardianship application” to the end there shall be substituted the words “ guardianship order under Part III by virtue of which he was subject to guardianship before being transferred were an order placing him under the guardianship of the person into whose guardianship he is transferred ”;
 - (d) in paragraph (7) for the words from “application for assessment” to the end there shall be substituted the words “ order or direction under Part III by virtue of which he was liable to be detained in hospital before being transferred were an order placing him under the guardianship of the person into whose guardianship he is transferred ”.
@@ -109,4 +109,4 @@ Articles 46(6), 47(2) and (4) and 61(6).
 
 ## Annotations
 
-[^key-3fb0c25b63602e744a48187025d75f19]: Textual amendment: Words in [Sch. 2 Pt. I para. 9(a)](https://www.legislation.gov.uk/nisi/1986/595/schedule/2/part/I/paragraph/9/a) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 100(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/100/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-3fb0c25b63602e744a48187025d75f19]: Textual amendment: Words in [Sch. 2 Pt. I para. 9(a)](https://www.legislation.gov.uk/nisi/1986/595/schedule/2/part/I/paragraph/9/a) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 100(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/100/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

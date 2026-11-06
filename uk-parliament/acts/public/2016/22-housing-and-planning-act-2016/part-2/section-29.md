@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Duty to include person with banning order[^key-01d91be27fde963d265d93afd730ecc1]
+## 29. Duty to include person with banning order[^c-01d91be27fde963d265d93afd730ecc1]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01d91be27fde963d265d93afd730ecc1]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2016/22/section/29) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-01d91be27fde963d265d93afd730ecc1]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2016/22/section/29) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Meaning of “collecting authority”[^key-2110b6d900ce385ac0368d88e759d20e]
+## 10. Meaning of “collecting authority”[^c-2110b6d900ce385ac0368d88e759d20e]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Paragraph (1) is subject to the following provisions of this regulation.
 
-(3)[^key-b278962e092ffc55ef522c306d0482d5] In relation to CIL charged by the Mayor—
+(3)[^c-b278962e092ffc55ef522c306d0482d5] In relation to CIL charged by the Mayor—
 
 - (a) where the development subject to the levy, or any part of it, is situated in the area of a MDC, the MDC must collect that CIL and accordingly is the collecting authority for that CIL;
 - (b) where the development subject to the levy is in the area of more than one MDC, the MDC with the greatest proportion of the gross internal area of the development in its area must collect the that CIL and accordingly is the collecting authority for that CIL;
@@ -37,20 +37,20 @@ summary: ''
 (6) In paragraph (5) “relevant consenting authority” means—
 
 - (a) the Homes and Communities Agency[^f00017];
-- (b) an urban development corporation established by order of the Secretary of State under section 135(1) of the Local Government, Planning and Land Act 1980; [^key-0cd3e4407262b9514a1ee731674ff4d2]...
-- (c) an enterprise zone authority designated under Schedule 32 to the Local Government, Planning and Land Act 1980; or[^key-54e974f1f0b4d4c7546fd5234d92c841]
-- (d)[^key-b787d6958a48e857f0504edd1e6ddd66] a Mayoral development corporation that is not a local planning authority for the purposes of section 206(5)(a) of PA 2008.
+- (b) an urban development corporation established by order of the Secretary of State under section 135(1) of the Local Government, Planning and Land Act 1980; [^c-0cd3e4407262b9514a1ee731674ff4d2]...
+- (c) an enterprise zone authority designated under Schedule 32 to the Local Government, Planning and Land Act 1980; or[^c-54e974f1f0b4d4c7546fd5234d92c841]
+- (d)[^c-b787d6958a48e857f0504edd1e6ddd66] a Mayoral development corporation that is not a local planning authority for the purposes of section 206(5)(a) of PA 2008.
 
 ## Annotations
 
-[^key-2110b6d900ce385ac0368d88e759d20e]: Commencement: Reg. 10 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-2110b6d900ce385ac0368d88e759d20e]: Commencement: Reg. 10 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-b278962e092ffc55ef522c306d0482d5]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2010/948/regulation/10/3) substituted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2013/982/regulation/5/a)
+[^c-b278962e092ffc55ef522c306d0482d5]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2010/948/regulation/10/3) substituted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2013/982/regulation/5/a)
 
 [^f00017]: Footnote: The Homes and Communities Agency was established by section 1 of the [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17).
 
-[^key-0cd3e4407262b9514a1ee731674ff4d2]: Textual amendment: Word in [reg. 10(6)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/10/6/b) omitted (25.4.2013) by virtue of [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2013/982/regulation/5/b/i)
+[^c-0cd3e4407262b9514a1ee731674ff4d2]: Textual amendment: Word in [reg. 10(6)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/10/6/b) omitted (25.4.2013) by virtue of [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2013/982/regulation/5/b/i)
 
-[^key-54e974f1f0b4d4c7546fd5234d92c841]: Textual amendment: Words in [reg. 10(6)(c)](https://www.legislation.gov.uk/uksi/2010/948/regulation/10/6/c) substituted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2013/982/regulation/5/b/ii)
+[^c-54e974f1f0b4d4c7546fd5234d92c841]: Textual amendment: Words in [reg. 10(6)(c)](https://www.legislation.gov.uk/uksi/2010/948/regulation/10/6/c) substituted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2013/982/regulation/5/b/ii)
 
-[^key-b787d6958a48e857f0504edd1e6ddd66]: Textual amendment: [Reg. 10(6)(d)](https://www.legislation.gov.uk/uksi/2010/948/regulation/10/6/d) inserted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [5(b)(iii)](https://www.legislation.gov.uk/uksi/2013/982/regulation/5/b/iii)
+[^c-b787d6958a48e857f0504edd1e6ddd66]: Textual amendment: [Reg. 10(6)(d)](https://www.legislation.gov.uk/uksi/2010/948/regulation/10/6/d) inserted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [5(b)(iii)](https://www.legislation.gov.uk/uksi/2013/982/regulation/5/b/iii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — MINIMUM PERIODS OF IMPRISONMENT IN DEFAULT OF PAYMENT OF SUM OR PART OF SUM ADJUDGED TO BE PAID BY A CONVICTION[^key-4f4bdc7ebd200f1dec815267c98adfd7]
+## SCHEDULE 3 — MINIMUM PERIODS OF IMPRISONMENT IN DEFAULT OF PAYMENT OF SUM OR PART OF SUM ADJUDGED TO BE PAID BY A CONVICTION[^c-4f4bdc7ebd200f1dec815267c98adfd7]
 
 *Extent: N.I.*
 
@@ -42,6 +42,6 @@ TABLE[^c16971811]
 
 ## Annotations
 
-[^key-4f4bdc7ebd200f1dec815267c98adfd7]: Modification: [Sch. 3](https://www.legislation.gov.uk/nisi/1981/1675/schedule/3) applied (31.12.2020) by [The Cyber (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/597)](https://www.legislation.gov.uk/uksi/2020/597), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/597/regulation/1/2), [33(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/597/regulation/33/3/b/ii); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/6/2)
+[^c-4f4bdc7ebd200f1dec815267c98adfd7]: Modification: [Sch. 3](https://www.legislation.gov.uk/nisi/1981/1675/schedule/3) applied (31.12.2020) by [The Cyber (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/597)](https://www.legislation.gov.uk/uksi/2020/597), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/597/regulation/1/2), [33(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/597/regulation/33/3/b/ii); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/6/2)
 
 [^c16971811]: Textual amendment: [1994 NI 15](https://www.legislation.gov.uk/1994/ni15)

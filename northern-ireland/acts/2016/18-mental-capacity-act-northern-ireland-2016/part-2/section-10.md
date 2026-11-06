@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-bc734ec08d5ef0820a55c529c52a41c7] Section 9 does not exclude—
+(1)[^c-bc734ec08d5ef0820a55c529c52a41c7] Section 9 does not exclude—
 
 - (a) civil liability for loss or damage resulting from a person's negligence in doing an act; or
 - (b) criminal liability resulting from such negligence.
@@ -43,4 +43,4 @@ while a decision as respects any relevant issue is sought from the court.
 
 ## Annotations
 
-[^key-bc734ec08d5ef0820a55c529c52a41c7]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/nia/2016/18/section/10/1) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-bc734ec08d5ef0820a55c529c52a41c7]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/nia/2016/18/section/10/1) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

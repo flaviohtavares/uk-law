@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Power to suspend, restrict or prohibit offer to the public[^key-05616439b9777fc31cb98cb1db0f68c7]
+## 35. Power to suspend, restrict or prohibit offer to the public[^c-05616439b9777fc31cb98cb1db0f68c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-05616439b9777fc31cb98cb1db0f68c7]: Commencement: Reg. 35 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-05616439b9777fc31cb98cb1db0f68c7]: Commencement: Reg. 35 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
 [^f00036]: Footnote: Section 137D was inserted by section 24(1) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).

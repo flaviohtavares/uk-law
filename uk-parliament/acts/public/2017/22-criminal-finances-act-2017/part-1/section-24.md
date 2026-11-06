@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. External requests, orders and investigations[^key-4aa914e7bd7b38ded39fc27121db4cf4][^key-d013b5a8cca20955e7431d97be9960a8][^c22725271]
+## 24. External requests, orders and investigations[^c-4aa914e7bd7b38ded39fc27121db4cf4][^c-d013b5a8cca20955e7431d97be9960a8][^c22725271]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4aa914e7bd7b38ded39fc27121db4cf4]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/22/section/24) in force at 31.1.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/i)
+[^c-4aa914e7bd7b38ded39fc27121db4cf4]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/22/section/24) in force at 31.1.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/i)
 
-[^key-d013b5a8cca20955e7431d97be9960a8]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/22/section/24) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/l)
+[^c-d013b5a8cca20955e7431d97be9960a8]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/22/section/24) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/l)
 
 [^c22725271]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/22/section/24) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

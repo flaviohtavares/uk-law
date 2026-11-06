@@ -26,7 +26,7 @@ summary: ''
 
 - (a) the police pension authority acting in exercise of its functions as employer requires the member to retire on a date determined by the police pension authority (or the Chief Constable as the case may be) under Part 6 (compulsory ill-health retirement);
 - (b) the member has at least 2 years' qualifying service or is permanently medically unfit as the result of an injury received without the member's default in the execution of duty; and
-- (c) the member is eligible under this scheme for payment of ill-health benefits for the period for which the member has paid contributions at the full member contributions rate under regulation 169[^key-bdd7b6729151ffb8b0dccafd35ad71fe] .
+- (c) the member is eligible under this scheme for payment of ill-health benefits for the period for which the member has paid contributions at the full member contributions rate under regulation 169[^c-bdd7b6729151ffb8b0dccafd35ad71fe] .
 
 (3) An ill-health pension under this Chapter is payable as follows—
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdd7b6729151ffb8b0dccafd35ad71fe]: Textual amendment: Words in [reg. 100(2)(c)](https://www.legislation.gov.uk/nisr/2015/113/regulation/100/2/c) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [23](https://www.legislation.gov.uk/nisr/2024/38/regulation/23)
+[^c-bdd7b6729151ffb8b0dccafd35ad71fe]: Textual amendment: Words in [reg. 100(2)(c)](https://www.legislation.gov.uk/nisr/2015/113/regulation/100/2/c) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [23](https://www.legislation.gov.uk/nisr/2024/38/regulation/23)

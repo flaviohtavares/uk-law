@@ -35,7 +35,7 @@ This Schedule applies in relation to every mining waste operation.
 - “**mining waste operation**” means the management of extractive waste, whether or not involving a mining waste facility, but does not include the activities in Article 2(2)(c) of the Mining Waste Directive;
 - “**waste management plan**” means a plan of the type described in Article 5(1) of the Mining Waste Directive which has the objectives in Article 5(2) and contains the elements and information set out in Article 5(3) of that Directive.
 
-(2)[^key-f29f4e3d778ffd4b09919c3de3796895] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f29f4e3d778ffd4b09919c3de3796895] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3. Applications for grant or variation of an environmental permit
 
@@ -60,7 +60,7 @@ The regulator must exercise its functions so as to ensure compliance with Articl
 
 ### 6. Inspections
 
-The regulator must inspect every mining waste facility to which Article 7 of the Mining Waste Directive applies so as to comply with the requirements of Article 17(1) of that Directive and Commission Implementing Decision (EU) 2020/248 laying down technical guidelines for inspections in accordance with Article 17 of[^key-cd18e26be482d765d66c7ab62def25ba] [Directive 2006/21/EC](https://www.legislation.gov.uk/eudr/2006/0021).
+The regulator must inspect every mining waste facility to which Article 7 of the Mining Waste Directive applies so as to comply with the requirements of Article 17(1) of that Directive and Commission Implementing Decision (EU) 2020/248 laying down technical guidelines for inspections in accordance with Article 17 of[^c-cd18e26be482d765d66c7ab62def25ba] [Directive 2006/21/EC](https://www.legislation.gov.uk/eudr/2006/0021).
 
 ### 7. Exercise of relevant functions
 
@@ -143,9 +143,9 @@ the environmental permit conditions prevail.
 
 [^c23193641]: Marginal citation: 2004\. c. 21; section 1 was amended by paragraph 10(1) and (2) of Part 1 of Schedule 2 to the [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36).
 
-[^key-f29f4e3d778ffd4b09919c3de3796895]: Textual amendment: [Sch. 20 para. 2(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/20/paragraph/2/2) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(23)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f29f4e3d778ffd4b09919c3de3796895]: Textual amendment: [Sch. 20 para. 2(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/20/paragraph/2/2) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(23)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cd18e26be482d765d66c7ab62def25ba]: Textual amendment: Words in Sch. 20 para. 6 inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(7)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/7)
+[^c-cd18e26be482d765d66c7ab62def25ba]: Textual amendment: Words in Sch. 20 para. 6 inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(7)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/7)
 
 [^c23193651]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 

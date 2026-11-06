@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Remuneration of Children’s Panel members[^key-998a96bf6221fecb6d831faa2ad2326d]
+## 42. Remuneration of Children’s Panel members[^c-998a96bf6221fecb6d831faa2ad2326d]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-998a96bf6221fecb6d831faa2ad2326d]: Commencement: S. 42 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-998a96bf6221fecb6d831faa2ad2326d]: Commencement: S. 42 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

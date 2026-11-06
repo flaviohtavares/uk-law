@@ -35,18 +35,18 @@ amending Regulation (EU) No 99/2013 on the European statistical programme 2013
 
 (Text with relevance for the EEA and for Switzerland) (revoked)
 
-[^key-a32be91d9c4ccd82e72f8292095a2e7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a32be91d9c4ccd82e72f8292095a2e7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a32be91d9c4ccd82e72f8292095a2e7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a32be91d9c4ccd82e72f8292095a2e7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a32be91d9c4ccd82e72f8292095a2e7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a32be91d9c4ccd82e72f8292095a2e7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a32be91d9c4ccd82e72f8292095a2e7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a32be91d9c4ccd82e72f8292095a2e7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-a32be91d9c4ccd82e72f8292095a2e7e]
+## ANNEX[^c-a32be91d9c4ccd82e72f8292095a2e7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a32be91d9c4ccd82e72f8292095a2e7e]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 279](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/279); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a32be91d9c4ccd82e72f8292095a2e7e]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 279](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/279); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

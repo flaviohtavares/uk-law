@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The items referred to in section 45(1) above are any expenses of the major precepting authority which are its special expenses and were taken into account by it in making the calculation in relation to the year under section 42A(2) above or[^key-5744aca491f0ad98cb8d36eef5263297] section 43(2) above.
+(1) The items referred to in section 45(1) above are any expenses of the major precepting authority which are its special expenses and were taken into account by it in making the calculation in relation to the year under section 42A(2) above or[^c-5744aca491f0ad98cb8d36eef5263297] section 43(2) above.
 
 (2) For the purposes of subsection (1) above—
 
@@ -42,7 +42,7 @@ summary: ''
 
 [^c12078581]: Modification: Pt. I Chs. III-IV (ss. 30-52) modified (E.) (1.2.1993) by [S.I. 1993/22](https://www.legislation.gov.uk/uksi/1993/22), [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/22/article/4/2)
 
-[^key-5744aca491f0ad98cb8d36eef5263297]: Textual amendment: Words in s. 46(1) inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/23); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-5744aca491f0ad98cb8d36eef5263297]: Textual amendment: Words in s. 46(1) inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/23); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
 [^c12078591]: Textual amendment: S. 46(2)(a) repealed (1.4.1995) by [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29), [s. 93](https://www.legislation.gov.uk/ukpga/1994/29/section/93), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1994/29/schedule/9/part/I); [S.I. 1994/3262](https://www.legislation.gov.uk/uksi/1994/3262), [art. 4(1)](https://www.legislation.gov.uk/uksi/1994/3262/article/4/1), [Sch.](https://www.legislation.gov.uk/uksi/1994/3262/schedule)
 

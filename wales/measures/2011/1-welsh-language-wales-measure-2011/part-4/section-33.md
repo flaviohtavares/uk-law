@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Persons liable to be required to comply with standards[^key-72b7b66750ec916a0a1f1124811ac88d]
+## 33. Persons liable to be required to comply with standards[^c-72b7b66750ec916a0a1f1124811ac88d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72b7b66750ec916a0a1f1124811ac88d]: Commencement: [S. 33](https://www.legislation.gov.uk/mwa/2011/1/section/33) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-72b7b66750ec916a0a1f1124811ac88d]: Commencement: [S. 33](https://www.legislation.gov.uk/mwa/2011/1/section/33) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

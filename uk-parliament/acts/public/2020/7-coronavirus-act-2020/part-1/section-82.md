@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Business tenancies in England and Wales: protection from forfeiture etc[^key-107d5a95ef05f19c4e574588d04b9ead]
+## 82. Business tenancies in England and Wales: protection from forfeiture etc[^c-107d5a95ef05f19c4e574588d04b9ead]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-107d5a95ef05f19c4e574588d04b9ead]: Textual amendment: [S. 82](https://www.legislation.gov.uk/ukpga/2020/7/section/82) expires (25.9.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-107d5a95ef05f19c4e574588d04b9ead]: Textual amendment: [S. 82](https://www.legislation.gov.uk/ukpga/2020/7/section/82) expires (25.9.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

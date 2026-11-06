@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Disclosure of information to credit reference agencies[^key-b5f46e812065b8c63c1ffd5a2425e99f]
+## 31. Disclosure of information to credit reference agencies[^c-b5f46e812065b8c63c1ffd5a2425e99f]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ After Article 45C of the Child Support Order (inserted by section 30) insert—
 
 ## Annotations
 
-[^key-b5f46e812065b8c63c1ffd5a2425e99f]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2008/10/section/31) in operation at 14.2.2015 for specified purposes and 23.3.2015 in so far as not already in operation by [S.R. 2015/57](https://www.legislation.gov.uk/nisr/2015/57), [art. 2](https://www.legislation.gov.uk/nisr/2015/57/article/2)
+[^c-b5f46e812065b8c63c1ffd5a2425e99f]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2008/10/section/31) in operation at 14.2.2015 for specified purposes and 23.3.2015 in so far as not already in operation by [S.R. 2015/57](https://www.legislation.gov.uk/nisr/2015/57), [art. 2](https://www.legislation.gov.uk/nisr/2015/57/article/2)

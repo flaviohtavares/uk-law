@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This Chapter applies to all receivers to whom Part 3 [^c23175681] of the Act applies (other than those appointed under section 51 (Scottish Receiverships))[^key-6eaebf92bed9e82d766a1ca428864d1b].
+(1) This Chapter applies to all receivers to whom Part 3 [^c23175681] of the Act applies (other than those appointed under section 51 (Scottish Receiverships))[^c-6eaebf92bed9e82d766a1ca428864d1b].
 
 (2) Where two or more persons are appointed as joint receivers or managers of a company's property under powers contained in an instrument—
 
@@ -414,7 +414,7 @@ This Chapter applies where a receiver (other than an administrative receiver) is
 
 [^c23175681]: Marginal citation: Part 3 is amended by paragraphs 12, 13, 14 and 15 of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-6eaebf92bed9e82d766a1ca428864d1b]: Textual amendment: Words in [rule 4.1(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/4.1/1) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [17](https://www.legislation.gov.uk/uksi/2017/366/rule/17)
+[^c-6eaebf92bed9e82d766a1ca428864d1b]: Textual amendment: Words in [rule 4.1(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/4.1/1) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [17](https://www.legislation.gov.uk/uksi/2017/366/rule/17)
 
 [^c23175691]: Marginal citation: Section 48(1) is amended by paragraph 12(2) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 

@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by section 14(1) and (2) and 198(1) of the Social Services and Well-being (Wales) Act 2014 [^f00001], make the following Regulations:
 
-## 1. Title, commencement, application and interpretation[^key-5303199cda0133fd222375962737490f]
+## 1. Title, commencement, application and interpretation[^c-5303199cda0133fd222375962737490f]
 
 (1) The title of these Regulations is the Care and Support (Population Assessments) (Wales) Regulations 2015.
 
@@ -59,11 +59,11 @@ The Welsh Ministers, in exercise of the powers conferred by section 14(1) and (2
 - “the Act” (“*y Ddeddf*”) means the Social Services and Well-being (Wales) Act 2014;
 - “the responsible bodies” (“*y cyrff cyfrifol*”) means the bodies responsible for carrying out a population assessment.
 
-## 2. Achievement of well-being outcomes[^key-8dd511e77b064f8fe6c3d62b3bcef7b0]
+## 2. Achievement of well-being outcomes[^c-8dd511e77b064f8fe6c3d62b3bcef7b0]
 
 In carrying out a population assessment, the responsible bodies must have regard to the outcomes and measures specified in the statement issued by the Welsh Ministers under section 8 of the Act (duty to issue a statement of the outcomes to be achieved).
 
-## 3. Citizen engagement[^key-34a0e560a4b454bc19059b22bb6c033f]
+## 3. Citizen engagement[^c-34a0e560a4b454bc19059b22bb6c033f]
 
 (1) In carrying out a population assessment, the responsible bodies must take reasonable steps to engage with—
 
@@ -73,20 +73,20 @@ In carrying out a population assessment, the responsible bodies must have regard
 
 (2) The responsible bodies must establish a procedure for the engagement required by paragraph (1).
 
-## 4. Engagement with the private sector, third sector and public bodies[^key-9d386a3ae6bcef38151240b80e6f86f4][^key-13e7b3cebe6f323219285d453c169b66]
+## 4. Engagement with the private sector, third sector and public bodies[^c-9d386a3ae6bcef38151240b80e6f86f4][^c-13e7b3cebe6f323219285d453c169b66]
 
-(1) In carrying out a population assessment, the responsible bodies must engage with any private sector organisation , third sector organisation or public body which they believe[^key-b1c59433d31cb62e6f7fc25a23496502] is concerned with or has an interest in the provision of care and support or preventative services[^f00003] to the local population.
+(1) In carrying out a population assessment, the responsible bodies must engage with any private sector organisation , third sector organisation or public body which they believe[^c-b1c59433d31cb62e6f7fc25a23496502] is concerned with or has an interest in the provision of care and support or preventative services[^f00003] to the local population.
 
-(2)[^key-ea76f7fa03b69f76c926b79643203dc3] For the purposes of this regulation—
+(2)[^c-ea76f7fa03b69f76c926b79643203dc3] For the purposes of this regulation—
 
 - “**public body**” (“***corff cyhoeddus***”) means a body (whether corporate or unincorporated) exercising public functions. For the purpose of this definition, a public function is a function that is a function of a public nature for the purposes of the Human Rights Act 1998;
 - “**third sector organisation**” (“***sefydliad trydydd sector***”) has the same meaning as in section 16(2) of the Act.
 
-## 5. Population assessment report[^key-12e9757485085b11f1cd256354f89416]
+## 5. Population assessment report[^c-12e9757485085b11f1cd256354f89416]
 
 (1) The responsible bodies must jointly produce a report of the outcome of the population assessment which has been carried out by them.
 
-## 6. Publication of population assessment report[^key-a962e976d513e51904fb9d2d48545304]
+## 6. Publication of population assessment report[^c-a962e976d513e51904fb9d2d48545304]
 
 (1) The first population assessment report must be produced by 1 April 2017.
 
@@ -96,7 +96,7 @@ In carrying out a population assessment, the responsible bodies must have regard
 
 (4) Each local authority must submit to the Welsh Ministers a copy of the population assessment report which has been produced for its area.
 
-## 7. Review of population assessment reports[^key-0475a149a924810c3bc414dac337b3cc]
+## 7. Review of population assessment reports[^c-0475a149a924810c3bc414dac337b3cc]
 
 The responsible bodies must jointly keep the population assessment report under review and may issue an addendum to the report whenever they consider it appropriate to do so.
 
@@ -126,26 +126,26 @@ Regulation 7 provides for the review of population assessment reports.
 
 [^f00001]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4).
 
-[^key-5303199cda0133fd222375962737490f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1/2)
+[^c-5303199cda0133fd222375962737490f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1/2)
 
-[^key-8dd511e77b064f8fe6c3d62b3bcef7b0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1367/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1/2)
+[^c-8dd511e77b064f8fe6c3d62b3bcef7b0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1367/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1/2)
 
-[^key-34a0e560a4b454bc19059b22bb6c033f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1367/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1/2)
+[^c-34a0e560a4b454bc19059b22bb6c033f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1367/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1/2)
 
 [^f00002]: Footnote: See section 4 of the Act for the meaning of “care and support”
 
-[^key-9d386a3ae6bcef38151240b80e6f86f4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1367/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1/2)
+[^c-9d386a3ae6bcef38151240b80e6f86f4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1367/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1/2)
 
-[^key-13e7b3cebe6f323219285d453c169b66]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1367/regulation/4) heading substituted (1.4.2023) by [The Care and Support (Population Assessments) (Wales) (Amendment) Regulations 2023 (S.I. 2023/292)](https://www.legislation.gov.uk/wsi/2023/292), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/292/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2023/292/regulation/2/2/a)
+[^c-13e7b3cebe6f323219285d453c169b66]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1367/regulation/4) heading substituted (1.4.2023) by [The Care and Support (Population Assessments) (Wales) (Amendment) Regulations 2023 (S.I. 2023/292)](https://www.legislation.gov.uk/wsi/2023/292), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/292/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2023/292/regulation/2/2/a)
 
-[^key-b1c59433d31cb62e6f7fc25a23496502]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/4/1) substituted (1.4.2023) by [The Care and Support (Population Assessments) (Wales) (Amendment) Regulations 2023 (S.I. 2023/292)](https://www.legislation.gov.uk/wsi/2023/292), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/292/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2023/292/regulation/2/2/b)
+[^c-b1c59433d31cb62e6f7fc25a23496502]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/4/1) substituted (1.4.2023) by [The Care and Support (Population Assessments) (Wales) (Amendment) Regulations 2023 (S.I. 2023/292)](https://www.legislation.gov.uk/wsi/2023/292), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/292/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2023/292/regulation/2/2/b)
 
 [^f00003]: Footnote: “preventative services” means services provided for any of the purposes described in section 15(2) of the Act.
 
-[^key-ea76f7fa03b69f76c926b79643203dc3]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/4/2) substituted (1.4.2023) by [The Care and Support (Population Assessments) (Wales) (Amendment) Regulations 2023 (S.I. 2023/292)](https://www.legislation.gov.uk/wsi/2023/292), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/292/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/wsi/2023/292/regulation/2/2/c)
+[^c-ea76f7fa03b69f76c926b79643203dc3]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/4/2) substituted (1.4.2023) by [The Care and Support (Population Assessments) (Wales) (Amendment) Regulations 2023 (S.I. 2023/292)](https://www.legislation.gov.uk/wsi/2023/292), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/292/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/wsi/2023/292/regulation/2/2/c)
 
-[^key-12e9757485085b11f1cd256354f89416]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1367/regulation/5) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1/2)
+[^c-12e9757485085b11f1cd256354f89416]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1367/regulation/5) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1/2)
 
-[^key-a962e976d513e51904fb9d2d48545304]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1367/regulation/6) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1/2)
+[^c-a962e976d513e51904fb9d2d48545304]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1367/regulation/6) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1/2)
 
-[^key-0475a149a924810c3bc414dac337b3cc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1367/regulation/7) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1/2)
+[^c-0475a149a924810c3bc414dac337b3cc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1367/regulation/7) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1367/regulation/1/2)

@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Marine licensing: oil and gas and other reserved matters[^key-4a956b027344411f1dc4a36f116bcf5b]
+## 240. Marine licensing: oil and gas and other reserved matters[^c-4a956b027344411f1dc4a36f116bcf5b]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Secretary of State may appoint persons for the purposes of enforcing Part 4 of this Act, so far as relating to—
 
 - (a) any activity in the Scottish offshore region falling within section 113(3) (activities relating to certain reserved matters);
-- (b) any activity in Wales, the Welsh inshore region or the Welsh offshore region[^key-2eda9a0f498e54d07656dfdc6cdb0ef9] concerning or arising from the exploration for, or production of, petroleum;
-- (ba)[^key-7d56c7e104323fe5986f7512366b30ca] any activity in the Welsh offshore region falling within the subject-matter of Part 6 of the Merchant Shipping Act 1995 (pollution etc);
+- (b) any activity in Wales, the Welsh inshore region or the Welsh offshore region[^c-2eda9a0f498e54d07656dfdc6cdb0ef9] concerning or arising from the exploration for, or production of, petroleum;
+- (ba)[^c-7d56c7e104323fe5986f7512366b30ca] any activity in the Welsh offshore region falling within the subject-matter of Part 6 of the Merchant Shipping Act 1995 (pollution etc);
 - (c) anything done in the course of taking installation abandonment measures in any other part of the relevant enforcement area.
 
 (2) For the purposes referred to in subsection (1), a person appointed under this section has—
@@ -63,8 +63,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4a956b027344411f1dc4a36f116bcf5b]: Commencement: S. 240 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/b)
+[^c-4a956b027344411f1dc4a36f116bcf5b]: Commencement: S. 240 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/b)
 
-[^key-2eda9a0f498e54d07656dfdc6cdb0ef9]: Textual amendment: Words in s. 240(1)(b) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(4)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/4/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+[^c-2eda9a0f498e54d07656dfdc6cdb0ef9]: Textual amendment: Words in s. 240(1)(b) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(4)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/4/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
 
-[^key-7d56c7e104323fe5986f7512366b30ca]: Textual amendment: S. 240(1)(ba) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(4)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/4/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+[^c-7d56c7e104323fe5986f7512366b30ca]: Textual amendment: S. 240(1)(ba) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(4)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/4/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)

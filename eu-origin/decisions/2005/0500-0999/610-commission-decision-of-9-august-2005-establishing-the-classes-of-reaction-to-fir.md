@@ -88,7 +88,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 2.** The specific classes to be applied to different construction products and/or materials, within the reaction-to-fire classification adopted in Decision 2000/147/EC, are set out in the Annex to this Decision.
 
-**Article 3.**[^key-ac9156601bc4ce3928d4bf9cfe5296dd] This Decision is addressed to the Member States.
+**Article 3.**[^c-ac9156601bc4ce3928d4bf9cfe5296dd] This Decision is addressed to the Member States.
 
 ## ANNEX
 
@@ -169,7 +169,7 @@ CLASSES OF REACTION TO FIRE PERFORMANCE OF TEXTILE FLOOR COVERINGS
 
 [^f00003]: Footnote: [OJ L 50, 23.2.2000, p. 14](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.050.01.0014.01.ENG). Decision as last amended by Decision 2003/632/EC ([OJ L 220, 3.9.2003, p. 5](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.220.01.0005.01.ENG)).
 
-[^key-ac9156601bc4ce3928d4bf9cfe5296dd]: Modification: [Art. 3](https://www.legislation.gov.uk/eudn/2005/610/article/3) excluded (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/4) (as amended by S.I. 2020/1359, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(g)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/g)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ac9156601bc4ce3928d4bf9cfe5296dd]: Modification: [Art. 3](https://www.legislation.gov.uk/eudn/2005/610/article/3) excluded (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/4) (as amended by S.I. 2020/1359, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(g)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/g)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Deleted by [Commission Delegated Regulation (EU) 2017/1227 of 20 March 2017 on the conditions for classification, without testing, of glued laminated timber products covered by the harmonised standard EN 14080 and structural finger jointed solid timber products covered by the harmonised standard EN 15497 with regard to their reaction to fire and amending Decision 2005/610/EC (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/1227).
 

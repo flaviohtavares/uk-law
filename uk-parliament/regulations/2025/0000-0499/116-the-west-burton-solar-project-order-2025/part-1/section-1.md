@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-c0609adb1f9b7920aa6c8834b57ac92c]
+## 1. Citation and commencement[^c-c0609adb1f9b7920aa6c8834b57ac92c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the West Burton Solar Project Order 2025 and comes in
 
 ## Annotations
 
-[^key-c0609adb1f9b7920aa6c8834b57ac92c]: Commencement: Art. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-c0609adb1f9b7920aa6c8834b57ac92c]: Commencement: Art. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)

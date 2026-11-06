@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Work-focused health-related assessment[^key-5a5030e6b411747165c8d2cc7fa29a7e]
+## 48. Work-focused health-related assessment[^c-5a5030e6b411747165c8d2cc7fa29a7e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a5030e6b411747165c8d2cc7fa29a7e]: Textual amendment: Reg. 48 revoked (1.6.2011) by [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/11/b)
+[^c-5a5030e6b411747165c8d2cc7fa29a7e]: Textual amendment: Reg. 48 revoked (1.6.2011) by [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/11/b)

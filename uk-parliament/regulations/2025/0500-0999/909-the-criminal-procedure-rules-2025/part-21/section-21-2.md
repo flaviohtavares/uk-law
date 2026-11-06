@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21.2. Content of application or notice[^key-be83879f7c9f14b846f185b952b96029]
+## 21.2. Content of application or notice[^c-be83879f7c9f14b846f185b952b96029]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-be83879f7c9f14b846f185b952b96029]: Commencement: [Rule 21.2](https://www.legislation.gov.uk/uksi/2025/909/rule/21.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-be83879f7c9f14b846f185b952b96029]: Commencement: [Rule 21.2](https://www.legislation.gov.uk/uksi/2025/909/rule/21.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00483]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); section 73 was amended by section 90(1) of, and paragraphs 125 and 128 of Schedule 13 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22) and paragraph 285 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 

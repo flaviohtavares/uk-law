@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Information to be given in notes to accounts[^key-9fb1eac583e2a4389edd34eeec5c3347]
+## 10. Information to be given in notes to accounts[^c-9fb1eac583e2a4389edd34eeec5c3347]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9fb1eac583e2a4389edd34eeec5c3347]: Commencement: Reg. 10 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-9fb1eac583e2a4389edd34eeec5c3347]: Commencement: Reg. 10 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00029]: Footnote: Section 410 of the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46) was repealed by [S.I. 2015/980](https://www.legislation.gov.uk/uksi/2015/980), regulation 5(1) and (13).

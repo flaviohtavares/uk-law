@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Extinction or suspension of private rights of way[^key-cd8b13ba6c3c2c9dd67781b87ca98498]
+## 28. Extinction or suspension of private rights of way[^c-cd8b13ba6c3c2c9dd67781b87ca98498]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ whichever is the sooner.
 
 ## Annotations
 
-[^key-cd8b13ba6c3c2c9dd67781b87ca98498]: Commencement: Art. 28 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-cd8b13ba6c3c2c9dd67781b87ca98498]: Commencement: Art. 28 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

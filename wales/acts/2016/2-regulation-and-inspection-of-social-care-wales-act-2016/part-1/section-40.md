@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Charging fees[^key-ad7ea66227340727d6689806b4b08760]
+## 40. Charging fees[^c-ad7ea66227340727d6689806b4b08760]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad7ea66227340727d6689806b4b08760]: Commencement: S. 40 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)
+[^c-ad7ea66227340727d6689806b4b08760]: Commencement: S. 40 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)

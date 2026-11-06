@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Reporting of infringements[^key-b3fac122bec8aec5468b495298dd53de]
+## 97A. Reporting of infringements[^c-b3fac122bec8aec5468b495298dd53de]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3fac122bec8aec5468b495298dd53de]: Textual amendment: [S. 97A](https://www.legislation.gov.uk/ukpga/2000/8/section/97A) omitted (30.1.2024 for specified purposes, 19.1.2026 in so far as not already in force) by virtue of [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/3), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2024/105/schedule/3/paragraph/11) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2025/1078/regulation/12))
+[^c-b3fac122bec8aec5468b495298dd53de]: Textual amendment: [S. 97A](https://www.legislation.gov.uk/ukpga/2000/8/section/97A) omitted (30.1.2024 for specified purposes, 19.1.2026 in so far as not already in force) by virtue of [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/3), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2024/105/schedule/3/paragraph/11) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2025/1078/regulation/12))

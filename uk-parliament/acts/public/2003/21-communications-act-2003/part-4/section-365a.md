@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 365A. TV licence fee concessions by reference to age[^key-e74f52bafc5f5c86131bc64ef8555205][^key-f43a393dd0f70089b01a5efe92bdc4da]
+## 365A. TV licence fee concessions by reference to age[^c-e74f52bafc5f5c86131bc64ef8555205][^c-f43a393dd0f70089b01a5efe92bdc4da]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,12 +46,12 @@ summary: ''
 - (a) may vary a determination by a further determination under this section;
 - (b) may determine that a concession is to cease to apply (and accordingly revoke a determination under this section).
 
-(8)[^key-14064c3cdb37eb9ef276f4b9f8bb4b37] Before making, varying or revoking a determination the BBC must consult any persons it considers appropriate.
+(8)[^c-14064c3cdb37eb9ef276f4b9f8bb4b37] Before making, varying or revoking a determination the BBC must consult any persons it considers appropriate.
 
 ## Annotations
 
-[^key-e74f52bafc5f5c86131bc64ef8555205]: Modification: S. 365A amendment by 2017 c. 30, s. 89 extended to Isle of Man (1.6.2020) by [The Communications (Isle of Man) Order 2020 (S.I. 2020/149)](https://www.legislation.gov.uk/uksi/2020/149), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/149/article/1/3), [3](https://www.legislation.gov.uk/uksi/2020/149/article/3)
+[^c-e74f52bafc5f5c86131bc64ef8555205]: Modification: S. 365A amendment by 2017 c. 30, s. 89 extended to Isle of Man (1.6.2020) by [The Communications (Isle of Man) Order 2020 (S.I. 2020/149)](https://www.legislation.gov.uk/uksi/2020/149), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/149/article/1/3), [3](https://www.legislation.gov.uk/uksi/2020/149/article/3)
 
-[^key-f43a393dd0f70089b01a5efe92bdc4da]: Textual amendment: S. 365A inserted (1.6.2020) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 89(7)](https://www.legislation.gov.uk/ukpga/2017/30/section/89/7), [118(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/3) (as amended by [S.I. 2020/530](https://www.legislation.gov.uk/uksi/2020/530), art. 2)
+[^c-f43a393dd0f70089b01a5efe92bdc4da]: Textual amendment: S. 365A inserted (1.6.2020) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 89(7)](https://www.legislation.gov.uk/ukpga/2017/30/section/89/7), [118(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/3) (as amended by [S.I. 2020/530](https://www.legislation.gov.uk/uksi/2020/530), art. 2)
 
-[^key-14064c3cdb37eb9ef276f4b9f8bb4b37]: Modification: S. 365A(8) amendment by 2017 c. 30, s. 89(7) extended to Guernsey (with modifications) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Communications (Bailiwick of Guernsey) Order 2020 (S.I. 2020/274)](https://www.legislation.gov.uk/uksi/2020/274), [art. 3](https://www.legislation.gov.uk/uksi/2020/274/article/3)
+[^c-14064c3cdb37eb9ef276f4b9f8bb4b37]: Modification: S. 365A(8) amendment by 2017 c. 30, s. 89(7) extended to Guernsey (with modifications) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Communications (Bailiwick of Guernsey) Order 2020 (S.I. 2020/274)](https://www.legislation.gov.uk/uksi/2020/274), [art. 3](https://www.legislation.gov.uk/uksi/2020/274/article/3)

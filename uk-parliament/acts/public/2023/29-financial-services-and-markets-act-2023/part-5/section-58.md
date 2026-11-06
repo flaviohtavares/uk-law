@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Insurers in financial difficulties[^key-ab806b46fd6d59a89b47c71fc24bc793]
+## 58. Insurers in financial difficulties[^c-ab806b46fd6d59a89b47c71fc24bc793]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab806b46fd6d59a89b47c71fc24bc793]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2023/29/section/58) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
+[^c-ab806b46fd6d59a89b47c71fc24bc793]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2023/29/section/58) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)

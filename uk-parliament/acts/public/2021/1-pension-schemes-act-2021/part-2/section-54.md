@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Qualifying schemes[^c24459331][^key-12a022343349e9e9e77e7b90c680c251]
+## 54. Qualifying schemes[^c24459331][^c-12a022343349e9e9e77e7b90c680c251]
 
 *Extent: N.I.*
 
 (1) A pension scheme is a “qualifying scheme” if it meets the requirements in this section.
 
-(2) The scheme must be an occupational pension scheme established under an irrevocable trust [^key-6e9ddfdcb4d0f406103b1f59ef0490b1]....
+(2) The scheme must be an occupational pension scheme established under an irrevocable trust [^c-6e9ddfdcb4d0f406103b1f59ef0490b1]....
 
-(3)[^key-7de2e7da267cd57fb661a5d7cc2c7f58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7de2e7da267cd57fb661a5d7cc2c7f58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The scheme must not be a relevant public service pension scheme (see section 55).
 
@@ -54,8 +54,8 @@ summary: ''
 
 [^c24459331]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2021/1/section/54) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-12a022343349e9e9e77e7b90c680c251]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2021/1/section/54) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a) (with [art. 4](https://www.legislation.gov.uk/nisr/2022/197/article/4))
+[^c-12a022343349e9e9e77e7b90c680c251]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2021/1/section/54) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a) (with [art. 4](https://www.legislation.gov.uk/nisr/2022/197/article/4))
 
-[^key-6e9ddfdcb4d0f406103b1f59ef0490b1]: Textual amendment: Words in [s. 54(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/54/2) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2026/151/regulation/3/2/a)
+[^c-6e9ddfdcb4d0f406103b1f59ef0490b1]: Textual amendment: Words in [s. 54(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/54/2) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2026/151/regulation/3/2/a)
 
-[^key-7de2e7da267cd57fb661a5d7cc2c7f58]: Textual amendment: [S. 54(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/54/3) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2026/151/regulation/3/2/b)
+[^c-7de2e7da267cd57fb661a5d7cc2c7f58]: Textual amendment: [S. 54(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/54/3) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2026/151/regulation/3/2/b)

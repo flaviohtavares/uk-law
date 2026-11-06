@@ -98,11 +98,11 @@ In schedule 3, the amounts set out in column 2 are the amounts specified for fin
 
 (6) Where the Scottish Ministers authorise a payment under this section they must, as soon as possible, lay before the Scottish Parliament a report setting out the circumstances of the authorisation and why they considered it to be necessary.
 
-## PART 2 — Financial year 2021/22[^key-1d2e1d591946d3f4f6cde3746c0a5257]
+## PART 2 — Financial year 2021/22[^c-1d2e1d591946d3f4f6cde3746c0a5257]
 
 **No longer in force.**
 
-### 6. Emergency arrangements[^key-1d2e1d591946d3f4f6cde3746c0a5257]
+### 6. Emergency arrangements[^c-1d2e1d591946d3f4f6cde3746c0a5257]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -176,7 +176,7 @@ The short title of this Act is the Budget (Scotland) Act 2020.
 </tbody>
 </table>
 
-[^key-3acd14af3084aeadeee2bcbfd23f9944][^key-62cd5bf529e473ad8ed0471e6d9eedcf][^M_F_5b2f0474-4b83-4b00-bcff-c67ec27bdca6][^M_F_a93cf9e8-ebf8-4658-86ea-d1b0374f5b9c][^M_F_eafd07c5-e335-4a60-b988-ce0ec180828d][^M_F_969e44bd-c6f2-410b-e4e3-90473539fa7a][^M_F_8c5b2946-f263-43ab-c9f6-5658ebbffe56][^M_F_0379c849-aa41-4df8-b2c7-119d6619a9dd][^M_F_1a1a02f5-ccb0-4075-eb16-14a95e031848][^M_F_a3c14557-6da1-4f94-9972-3a5092871286][^M_F_4881bac2-aaf3-4913-cce3-5f75d3440551][^key-38326f5f780531f63fc53ea16c054eb0][^M_F_cad99602-97fa-4459-a9b9-e7d5450afde9][^M_F_ab7b0d41-1daa-47ef-bd2b-14b9c2d382d8][^M_F_679b9b22-e0ce-4384-8894-c874d0a26dc7][^M_F_21c16b7c-9c40-48d0-c2b2-fc947bff699b][^M_F_8f03c6ec-f9eb-4216-a252-7b25848540b5][^M_F_f6291e4d-3f1e-4e0d-ad8d-f8e595424404][^M_F_82adfb6e-26b8-417c-c93b-0111875a3343][^key-7086e0dd90ae078071d5ee6b50f5d5ac][^M_F_366f1b68-bc2a-4e4d-b4f0-78e32231c461][^M_F_126745da-8d89-4621-e9a4-84297b92a73a][^M_F_03ba98bb-3d73-4271-bb80-15e2e85f352a][^key-912a2ac1d54dcf848c59489158f891d8][^M_F_c75a74b5-b860-4bd1-cd71-25ce97911813][^key-c3cd53c684c06f23e05edff70e7f1f2b][^key-f6b15605ab82666087830c14b66f1769][^M_F_905dbf20-fa91-4546-f62b-78bb97ac3861][^M_F_c7d7c348-40b8-4ee8-c2ee-3d446f03f7db][^M_F_71206be2-47b7-45ac-ecaa-929581c20aad][^M_F_c1c4a09d-f4b6-4330-dbbc-fc6c4b68085f][^M_F_edfb305d-578d-4df0-93b6-b1f463117d33][^M_F_2dbdaff5-a9bd-4a9c-d95b-aaa92a41c257][^M_F_7657b1f5-2e55-444d-e634-18a99ccc5a3c][^M_F_29c11785-6d75-4cef-aede-2bd62f1a8ae6][^M_F_d7fa5048-d77b-4a73-833e-04e5dd7657be][^M_F_8546a023-2840-41cf-a57b-bd02e47b80c1][^M_F_ae731fed-26eb-4ca5-9310-f9509fb9d20b][^M_F_d7c7435f-380e-45bb-c9e1-ce218dd9bfb8][^key-3c90615797fad589f261e62d9a9fab6e][^M_F_31d73532-11a6-4596-9135-03c3f7516acc][^M_F_db0a15ed-1931-4f4d-fb50-546d09bf3725][^M_F_9073e67e-24b1-4f63-8fd7-a3cddcd7aa96][^M_F_84e1aacf-ee53-4512-9e99-86d42f205862][^key-540890a1b628325d44f91edcc02191aa][^M_F_f120dd7e-3468-4aff-cdcb-3f4e12fea6f7]
+[^c-3acd14af3084aeadeee2bcbfd23f9944][^c-62cd5bf529e473ad8ed0471e6d9eedcf][^M_F_5b2f0474-4b83-4b00-bcff-c67ec27bdca6][^M_F_a93cf9e8-ebf8-4658-86ea-d1b0374f5b9c][^M_F_eafd07c5-e335-4a60-b988-ce0ec180828d][^M_F_969e44bd-c6f2-410b-e4e3-90473539fa7a][^M_F_8c5b2946-f263-43ab-c9f6-5658ebbffe56][^M_F_0379c849-aa41-4df8-b2c7-119d6619a9dd][^M_F_1a1a02f5-ccb0-4075-eb16-14a95e031848][^M_F_a3c14557-6da1-4f94-9972-3a5092871286][^M_F_4881bac2-aaf3-4913-cce3-5f75d3440551][^c-38326f5f780531f63fc53ea16c054eb0][^M_F_cad99602-97fa-4459-a9b9-e7d5450afde9][^M_F_ab7b0d41-1daa-47ef-bd2b-14b9c2d382d8][^M_F_679b9b22-e0ce-4384-8894-c874d0a26dc7][^M_F_21c16b7c-9c40-48d0-c2b2-fc947bff699b][^M_F_8f03c6ec-f9eb-4216-a252-7b25848540b5][^M_F_f6291e4d-3f1e-4e0d-ad8d-f8e595424404][^M_F_82adfb6e-26b8-417c-c93b-0111875a3343][^c-7086e0dd90ae078071d5ee6b50f5d5ac][^M_F_366f1b68-bc2a-4e4d-b4f0-78e32231c461][^M_F_126745da-8d89-4621-e9a4-84297b92a73a][^M_F_03ba98bb-3d73-4271-bb80-15e2e85f352a][^c-912a2ac1d54dcf848c59489158f891d8][^M_F_c75a74b5-b860-4bd1-cd71-25ce97911813][^c-c3cd53c684c06f23e05edff70e7f1f2b][^c-f6b15605ab82666087830c14b66f1769][^M_F_905dbf20-fa91-4546-f62b-78bb97ac3861][^M_F_c7d7c348-40b8-4ee8-c2ee-3d446f03f7db][^M_F_71206be2-47b7-45ac-ecaa-929581c20aad][^M_F_c1c4a09d-f4b6-4330-dbbc-fc6c4b68085f][^M_F_edfb305d-578d-4df0-93b6-b1f463117d33][^M_F_2dbdaff5-a9bd-4a9c-d95b-aaa92a41c257][^M_F_7657b1f5-2e55-444d-e634-18a99ccc5a3c][^M_F_29c11785-6d75-4cef-aede-2bd62f1a8ae6][^M_F_d7fa5048-d77b-4a73-833e-04e5dd7657be][^M_F_8546a023-2840-41cf-a57b-bd02e47b80c1][^M_F_ae731fed-26eb-4ca5-9310-f9509fb9d20b][^M_F_d7c7435f-380e-45bb-c9e1-ce218dd9bfb8][^c-3c90615797fad589f261e62d9a9fab6e][^M_F_31d73532-11a6-4596-9135-03c3f7516acc][^M_F_db0a15ed-1931-4f4d-fb50-546d09bf3725][^M_F_9073e67e-24b1-4f63-8fd7-a3cddcd7aa96][^M_F_84e1aacf-ee53-4512-9e99-86d42f205862][^c-540890a1b628325d44f91edcc02191aa][^M_F_f120dd7e-3468-4aff-cdcb-3f4e12fea6f7]
 
 ## SCHEDULE 2 — Direct-funded bodies
 
@@ -209,7 +209,7 @@ The short title of this Act is the Budget (Scotland) Act 2020.
 </tbody>
 </table>
 
-[^key-33f8f6d5e551b0fba273451f61d82a8d][^key-6afec5a1865e77ffc68eaa083e2a25fc]
+[^c-33f8f6d5e551b0fba273451f61d82a8d][^c-6afec5a1865e77ffc68eaa083e2a25fc]
 
 ## Annotations
 
@@ -219,11 +219,11 @@ The short title of this Act is the Budget (Scotland) Act 2020.
 
 [^M_F_c964e575-17b8-4ef8-b849-99618ff60a97]: Textual amendment: Sum in s. 4(3)(b) substituted (24.3.2021) by [The Budget (Scotland) Act 2020 Amendment Regulations 2021 (S.S.I. 2021/163)](https://www.legislation.gov.uk/ssi/2021/163), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/163/regulation/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2021/163/regulation/2/c)
 
-[^key-1d2e1d591946d3f4f6cde3746c0a5257]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/asp/2020/5/part/2) repealed (30.3.2021) by [Budget (Scotland) (No.5) Act 2021 (asp 8)](https://www.legislation.gov.uk/asp/2021/8), [ss. 8](https://www.legislation.gov.uk/asp/2021/8/section/8), [10](https://www.legislation.gov.uk/asp/2021/8/section/10)
+[^c-1d2e1d591946d3f4f6cde3746c0a5257]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/asp/2020/5/part/2) repealed (30.3.2021) by [Budget (Scotland) (No.5) Act 2021 (asp 8)](https://www.legislation.gov.uk/asp/2021/8), [ss. 8](https://www.legislation.gov.uk/asp/2021/8/section/8), [10](https://www.legislation.gov.uk/asp/2021/8/section/10)
 
-[^key-3acd14af3084aeadeee2bcbfd23f9944]: Textual amendment: Word in sch. 1 deleted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/2/a)
+[^c-3acd14af3084aeadeee2bcbfd23f9944]: Textual amendment: Word in sch. 1 deleted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/2/a)
 
-[^key-62cd5bf529e473ad8ed0471e6d9eedcf]: Textual amendment: Words in sch. 1 inserted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/2/a)
+[^c-62cd5bf529e473ad8ed0471e6d9eedcf]: Textual amendment: Words in sch. 1 inserted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/2/a)
 
 [^M_F_5b2f0474-4b83-4b00-bcff-c67ec27bdca6]: Textual amendment: Words in sch. 1 table substituted (24.3.2021) by [The Budget (Scotland) Act 2020 Amendment Regulations 2021 (S.S.I. 2021/163)](https://www.legislation.gov.uk/ssi/2021/163), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/163/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2021/163/regulation/3/2/a)
 
@@ -243,7 +243,7 @@ The short title of this Act is the Budget (Scotland) Act 2020.
 
 [^M_F_4881bac2-aaf3-4913-cce3-5f75d3440551]: Textual amendment: Words in sch. 1 table inserted (24.3.2021) by [The Budget (Scotland) Act 2020 Amendment Regulations 2021 (S.S.I. 2021/163)](https://www.legislation.gov.uk/ssi/2021/163), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/163/regulation/1/1), [3(2)(d)(ii)](https://www.legislation.gov.uk/ssi/2021/163/regulation/3/2/d/ii)
 
-[^key-38326f5f780531f63fc53ea16c054eb0]: Textual amendment: Words in sch. 1 substituted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/2/b)
+[^c-38326f5f780531f63fc53ea16c054eb0]: Textual amendment: Words in sch. 1 substituted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/2/b)
 
 [^M_F_cad99602-97fa-4459-a9b9-e7d5450afde9]: Textual amendment: Words in sch. 1 table inserted (24.3.2021) by [The Budget (Scotland) Act 2020 Amendment Regulations 2021 (S.S.I. 2021/163)](https://www.legislation.gov.uk/ssi/2021/163), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/163/regulation/1/1), [3(2)(d)(iii)](https://www.legislation.gov.uk/ssi/2021/163/regulation/3/2/d/iii)
 
@@ -259,7 +259,7 @@ The short title of this Act is the Budget (Scotland) Act 2020.
 
 [^M_F_82adfb6e-26b8-417c-c93b-0111875a3343]: Textual amendment: Words in sch. 1 table inserted (24.3.2021) by [The Budget (Scotland) Act 2020 Amendment Regulations 2021 (S.S.I. 2021/163)](https://www.legislation.gov.uk/ssi/2021/163), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/163/regulation/1/1), [3(2)(f)](https://www.legislation.gov.uk/ssi/2021/163/regulation/3/2/f)
 
-[^key-7086e0dd90ae078071d5ee6b50f5d5ac]: Textual amendment: Words in sch. 1 inserted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/2/c)
+[^c-7086e0dd90ae078071d5ee6b50f5d5ac]: Textual amendment: Words in sch. 1 inserted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/2/c)
 
 [^M_F_366f1b68-bc2a-4e4d-b4f0-78e32231c461]: Textual amendment: Sum in sch. 1 table substituted (24.3.2021) by [The Budget (Scotland) Act 2020 Amendment Regulations 2021 (S.S.I. 2021/163)](https://www.legislation.gov.uk/ssi/2021/163), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/163/regulation/1/1), [3(3)(f)](https://www.legislation.gov.uk/ssi/2021/163/regulation/3/3/f)
 
@@ -267,13 +267,13 @@ The short title of this Act is the Budget (Scotland) Act 2020.
 
 [^M_F_03ba98bb-3d73-4271-bb80-15e2e85f352a]: Textual amendment: Sum in sch. 1 table substituted (24.3.2021) by [The Budget (Scotland) Act 2020 Amendment Regulations 2021 (S.S.I. 2021/163)](https://www.legislation.gov.uk/ssi/2021/163), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/163/regulation/1/1), [3(3)(g)](https://www.legislation.gov.uk/ssi/2021/163/regulation/3/3/g)
 
-[^key-912a2ac1d54dcf848c59489158f891d8]: Textual amendment: Words in sch. 1 inserted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(2)(d)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/2/d)
+[^c-912a2ac1d54dcf848c59489158f891d8]: Textual amendment: Words in sch. 1 inserted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(2)(d)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/2/d)
 
 [^M_F_c75a74b5-b860-4bd1-cd71-25ce97911813]: Textual amendment: Sum in sch. 1 table substituted (24.3.2021) by [The Budget (Scotland) Act 2020 Amendment Regulations 2021 (S.S.I. 2021/163)](https://www.legislation.gov.uk/ssi/2021/163), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/163/regulation/1/1), [3(3)(h)](https://www.legislation.gov.uk/ssi/2021/163/regulation/3/3/h)
 
-[^key-c3cd53c684c06f23e05edff70e7f1f2b]: Textual amendment: Words in sch. 1 inserted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(2)(e)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/2/e)
+[^c-c3cd53c684c06f23e05edff70e7f1f2b]: Textual amendment: Words in sch. 1 inserted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(2)(e)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/2/e)
 
-[^key-f6b15605ab82666087830c14b66f1769]: Textual amendment: Words in sch. 1 substituted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(2)(e)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/2/e)
+[^c-f6b15605ab82666087830c14b66f1769]: Textual amendment: Words in sch. 1 substituted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(2)(e)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/2/e)
 
 [^M_F_905dbf20-fa91-4546-f62b-78bb97ac3861]: Textual amendment: Words in sch. 1 table omitted (24.3.2021) by virtue of [The Budget (Scotland) Act 2020 Amendment Regulations 2021 (S.S.I. 2021/163)](https://www.legislation.gov.uk/ssi/2021/163), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/163/regulation/1/1), [3(2)(h)](https://www.legislation.gov.uk/ssi/2021/163/regulation/3/2/h)
 
@@ -299,7 +299,7 @@ The short title of this Act is the Budget (Scotland) Act 2020.
 
 [^M_F_d7c7435f-380e-45bb-c9e1-ce218dd9bfb8]: Textual amendment: Sum in sch. 1 table substituted (24.3.2021) by [The Budget (Scotland) Act 2020 Amendment Regulations 2021 (S.S.I. 2021/163)](https://www.legislation.gov.uk/ssi/2021/163), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/163/regulation/1/1), [3(3)(p)](https://www.legislation.gov.uk/ssi/2021/163/regulation/3/3/p)
 
-[^key-3c90615797fad589f261e62d9a9fab6e]: Textual amendment: Sum in sch. 1 substituted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(3)(p)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/3/p)
+[^c-3c90615797fad589f261e62d9a9fab6e]: Textual amendment: Sum in sch. 1 substituted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(3)(p)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/3/p)
 
 [^M_F_31d73532-11a6-4596-9135-03c3f7516acc]: Textual amendment: Sum in sch. 1 table substituted (24.3.2021) by [The Budget (Scotland) Act 2020 Amendment Regulations 2021 (S.S.I. 2021/163)](https://www.legislation.gov.uk/ssi/2021/163), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/163/regulation/1/1), [3(3)(q)](https://www.legislation.gov.uk/ssi/2021/163/regulation/3/3/q)
 
@@ -309,7 +309,7 @@ The short title of this Act is the Budget (Scotland) Act 2020.
 
 [^M_F_84e1aacf-ee53-4512-9e99-86d42f205862]: Textual amendment: Sum in sch. 1 table substituted (24.3.2021) by [The Budget (Scotland) Act 2020 Amendment Regulations 2021 (S.S.I. 2021/163)](https://www.legislation.gov.uk/ssi/2021/163), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/163/regulation/1/1), [3(3)(t)](https://www.legislation.gov.uk/ssi/2021/163/regulation/3/3/t)
 
-[^key-540890a1b628325d44f91edcc02191aa]: Textual amendment: Sum in sch. 1 substituted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(3)(r)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/3/r)
+[^c-540890a1b628325d44f91edcc02191aa]: Textual amendment: Sum in sch. 1 substituted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [3(3)(r)](https://www.legislation.gov.uk/ssi/2020/348/regulation/3/3/r)
 
 [^M_F_f120dd7e-3468-4aff-cdcb-3f4e12fea6f7]: Textual amendment: Sum in sch. 1 table substituted (24.3.2021) by [The Budget (Scotland) Act 2020 Amendment Regulations 2021 (S.S.I. 2021/163)](https://www.legislation.gov.uk/ssi/2021/163), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/163/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/ssi/2021/163/regulation/3/4/b)
 
@@ -317,6 +317,6 @@ The short title of this Act is the Budget (Scotland) Act 2020.
 
 [^M_F_be4a1bad-0064-41bb-a398-4530f972d639]: Textual amendment: Sum in sch. 2 table substituted (24.3.2021) by [The Budget (Scotland) Act 2020 Amendment Regulations 2021 (S.S.I. 2021/163)](https://www.legislation.gov.uk/ssi/2021/163), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/163/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2021/163/regulation/4/2/b)
 
-[^key-33f8f6d5e551b0fba273451f61d82a8d]: Textual amendment: Words in sch. 3 substituted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2020/348/regulation/4/2)
+[^c-33f8f6d5e551b0fba273451f61d82a8d]: Textual amendment: Words in sch. 3 substituted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2020/348/regulation/4/2)
 
-[^key-6afec5a1865e77ffc68eaa083e2a25fc]: Textual amendment: Sum in sch. 3 substituted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2020/348/regulation/4/3)
+[^c-6afec5a1865e77ffc68eaa083e2a25fc]: Textual amendment: Sum in sch. 3 substituted (4.11.2020) by [The Budget (Scotland) Act 2020 Amendment (No. 2) Regulations 2020 (S.S.I. 2020/348)](https://www.legislation.gov.uk/ssi/2020/348), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/348/regulation/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2020/348/regulation/4/3)

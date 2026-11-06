@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223. Delegation of functions by Ministers to the Mayor[^key-4ac9a8e0ff5c1a8ec6cc13043a3104da]
+## 223. Delegation of functions by Ministers to the Mayor[^c-4ac9a8e0ff5c1a8ec6cc13043a3104da]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ac9a8e0ff5c1a8ec6cc13043a3104da]: Commencement: [S. 223](https://www.legislation.gov.uk/ukpga/2011/20/section/223) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(cc)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/cc) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-4ac9a8e0ff5c1a8ec6cc13043a3104da]: Commencement: [S. 223](https://www.legislation.gov.uk/ukpga/2011/20/section/223) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(cc)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/cc) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

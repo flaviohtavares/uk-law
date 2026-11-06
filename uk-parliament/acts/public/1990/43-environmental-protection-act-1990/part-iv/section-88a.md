@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88A. Littering from vehicles: civil penalty regime[^key-65537dfba7e77a54d329836e8cff4010]
+## 88A. Littering from vehicles: civil penalty regime[^c-65537dfba7e77a54d329836e8cff4010]
 
 *Extent: E+W*
 
@@ -76,4 +76,4 @@ but may not include provision conferring power on a person to make orders or reg
 
 ## Annotations
 
-[^key-65537dfba7e77a54d329836e8cff4010]: Textual amendment: S. 88A inserted (E.W.) (25.10.2017) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 154(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/154/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2017/1018](https://www.legislation.gov.uk/uksi/2017/1018), [art. 2](https://www.legislation.gov.uk/uksi/2017/1018/article/2)
+[^c-65537dfba7e77a54d329836e8cff4010]: Textual amendment: S. 88A inserted (E.W.) (25.10.2017) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 154(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/154/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2017/1018](https://www.legislation.gov.uk/uksi/2017/1018), [art. 2](https://www.legislation.gov.uk/uksi/2017/1018/article/2)

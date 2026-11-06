@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Repeal of certain responsibilities of Scottish Ministers[^key-b8acc3100f22ef4ecc89fa156663ccb4]
+## 48. Repeal of certain responsibilities of Scottish Ministers[^c-b8acc3100f22ef4ecc89fa156663ccb4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8acc3100f22ef4ecc89fa156663ccb4]: Textual amendment: [Ss. 47-56](https://www.legislation.gov.uk/asp/2008/6/section/47) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 9(2)(c)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/9/2/c); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-b8acc3100f22ef4ecc89fa156663ccb4]: Textual amendment: [Ss. 47-56](https://www.legislation.gov.uk/asp/2008/6/section/47) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 9(2)(c)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/9/2/c); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

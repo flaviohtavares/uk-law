@@ -68,7 +68,7 @@ this section.
 
 (8) The following provisions extend to Northern Ireland—
 
-section 22 so far as relating to the making of any provision authorised by subsection (2)(a), (c), (j) or (k), (3)(e), (f), (g) or (h)[^key-3fd09151fb2969afabb882644bddeb76] or (5) of that section,
+section 22 so far as relating to the making of any provision authorised by subsection (2)(a), (c), (j) or (k), (3)(e), (f), (g) or (h)[^c-3fd09151fb2969afabb882644bddeb76] or (5) of that section,
 
 section 23 so far as relating to any function exercisable by virtue of any provision so authorised,
 
@@ -102,4 +102,4 @@ this section.
 
 [^c13266441]: Marginal citation: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
 
-[^key-3fd09151fb2969afabb882644bddeb76]: Textual amendment: Words in s. 46(8) substituted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 257(3)(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/257/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-3fd09151fb2969afabb882644bddeb76]: Textual amendment: Words in s. 46(8) substituted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 257(3)(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/257/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)

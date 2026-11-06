@@ -22,15 +22,15 @@ summary: ''
 
 (1) The National Assembly must endeavour to trace the following from infected premises—
 
-- (a) hatching eggs from poultry or other captive birds[^key-256181ae31cf22329202e1534858348c] laid during the unregulated period of infection; and
-- (b) poultry or other captive birds[^key-6004328c29f20ed53df6674257bb9e6c] hatched from eggs laid during that period.
+- (a) hatching eggs from poultry or other captive birds[^c-256181ae31cf22329202e1534858348c] laid during the unregulated period of infection; and
+- (b) poultry or other captive birds[^c-6004328c29f20ed53df6674257bb9e6c] hatched from eggs laid during that period.
 
-(2) The National Assembly must ensure that such veterinary inquiries as it considers necessary to monitor for avian influenza are carried out at premises to which eggs , poultry or other captive birds[^key-ecbcd21fbbeffe0b4ce5fc4d3e330d5a] are so traced.
+(2) The National Assembly must ensure that such veterinary inquiries as it considers necessary to monitor for avian influenza are carried out at premises to which eggs , poultry or other captive birds[^c-ecbcd21fbbeffe0b4ce5fc4d3e330d5a] are so traced.
 
 ## Annotations
 
-[^key-256181ae31cf22329202e1534858348c]: Textual amendment: Words in [art. 52(1)(a)](https://www.legislation.gov.uk/wsi/2006/2927/article/52/1/a) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [32(a)(i)](https://www.legislation.gov.uk/wsi/2025/1357/article/32/a/i)
+[^c-256181ae31cf22329202e1534858348c]: Textual amendment: Words in [art. 52(1)(a)](https://www.legislation.gov.uk/wsi/2006/2927/article/52/1/a) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [32(a)(i)](https://www.legislation.gov.uk/wsi/2025/1357/article/32/a/i)
 
-[^key-6004328c29f20ed53df6674257bb9e6c]: Textual amendment: Words in [art. 52(1)(b)](https://www.legislation.gov.uk/wsi/2006/2927/article/52/1/b) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [32(a)(ii)](https://www.legislation.gov.uk/wsi/2025/1357/article/32/a/ii)
+[^c-6004328c29f20ed53df6674257bb9e6c]: Textual amendment: Words in [art. 52(1)(b)](https://www.legislation.gov.uk/wsi/2006/2927/article/52/1/b) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [32(a)(ii)](https://www.legislation.gov.uk/wsi/2025/1357/article/32/a/ii)
 
-[^key-ecbcd21fbbeffe0b4ce5fc4d3e330d5a]: Textual amendment: Words in [art. 52(2)](https://www.legislation.gov.uk/wsi/2006/2927/article/52/2) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [32(b)](https://www.legislation.gov.uk/wsi/2025/1357/article/32/b)
+[^c-ecbcd21fbbeffe0b4ce5fc4d3e330d5a]: Textual amendment: Words in [art. 52(2)](https://www.legislation.gov.uk/wsi/2006/2927/article/52/2) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [32(b)](https://www.legislation.gov.uk/wsi/2025/1357/article/32/b)

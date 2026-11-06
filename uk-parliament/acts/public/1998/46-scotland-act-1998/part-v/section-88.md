@@ -27,7 +27,7 @@ summary: ''
 - (a)[^c12394841] which relates to any appointment or removal of the cross-border public authority concerned or of any members or office-holders of the cross-border public authority concerned, or
 - (b) whose exercise might affect Scotland otherwise than wholly in relation to reserved matters.
 
-(3)[^c12394851][^key-4789e0a1fef846047f4e2aadc3eb02f9] Any cross-border public authority or other person which is required by a pre-commencement enactment or a prerogative instrument to lay any report relating to a cross-border public authority before Parliament or either House of Parliament shall also lay the report before the Scottish Parliament.
+(3)[^c12394851][^c-4789e0a1fef846047f4e2aadc3eb02f9] Any cross-border public authority or other person which is required by a pre-commencement enactment or a prerogative instrument to lay any report relating to a cross-border public authority before Parliament or either House of Parliament shall also lay the report before the Scottish Parliament.
 
 (4) Subsections (1) to (3) are subject to any Order in Council made under section 89.
 
@@ -72,4 +72,4 @@ summary: ''
 
 [^c12394851]: Modification: S. 88(3) restricted (1.7.1999) by [S.I. 1999/1747](https://www.legislation.gov.uk/uksi/1999/1747), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1), [3](https://www.legislation.gov.uk/uksi/1999/1747/article/3), [Sch. 23 Pt. II para. 2(4)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/23/part/II/paragraph/2/4); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-4789e0a1fef846047f4e2aadc3eb02f9]: Modification: S. 88(3) modified (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/46/2), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
+[^c-4789e0a1fef846047f4e2aadc3eb02f9]: Modification: S. 88(3) modified (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/46/2), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)

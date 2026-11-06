@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 259. Powers to enter land without warrant[^key-f11d1e8baeccc5c8d40a07d3f639ad0e]
+## 259. Powers to enter land without warrant[^c-f11d1e8baeccc5c8d40a07d3f639ad0e]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ unless 24 hours’ notice of the intended entry has been given to every occupier
 
 ## Annotations
 
-[^key-f11d1e8baeccc5c8d40a07d3f639ad0e]: Commencement: S. 259 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f11d1e8baeccc5c8d40a07d3f639ad0e]: Commencement: S. 259 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

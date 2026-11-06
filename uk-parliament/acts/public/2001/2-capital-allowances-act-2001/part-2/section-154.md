@@ -37,9 +37,9 @@ the ship is not a qualifying ship after that time.
 (3) In determining the qualifying period for the old ship, a qualifying activity carried on at any time by a person (“**B**”) is taken to be carried on at that time by a person connected with A if—
 
 - (a) it is subsequently carried on by A or a person connected with A, and
-- (b)[^key-ed6a63c84dc4d83f74349b581eb64320] the only changes in the persons carrying it on between the time that B does so and the time that A or a person connected with A does so are changes—
+- (b)[^c-ed6a63c84dc4d83f74349b581eb64320] the only changes in the persons carrying it on between the time that B does so and the time that A or a person connected with A does so are changes—
   - (i) which do not involve all of the persons carrying it on before the changes permanently ceasing to carry it on, or
-  - (ii) in respect of which the qualifying activity is treated as continuing under section 948 of CTA 2010[^key-f18ef7a81406473f285d800969f3442c].
+  - (ii) in respect of which the qualifying activity is treated as continuing under section 948 of CTA 2010[^c-f18ef7a81406473f285d800969f3442c].
 
 (4) In this section “**relevant register**” means a register of shipping established and maintained—
 
@@ -50,6 +50,6 @@ the ship is not a qualifying ship after that time.
 
 ## Annotations
 
-[^key-ed6a63c84dc4d83f74349b581eb64320]: Textual amendment: S. 154(3)(b) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5) , [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1) , [Sch. 1 para. 542](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/542) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2) )
+[^c-ed6a63c84dc4d83f74349b581eb64320]: Textual amendment: S. 154(3)(b) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5) , [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1) , [Sch. 1 para. 542](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/542) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2) )
 
-[^key-f18ef7a81406473f285d800969f3442c]: Textual amendment: Words in s. 154(3)(b)(ii) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 339](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/339) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f18ef7a81406473f285d800969f3442c]: Textual amendment: Words in s. 154(3)(b)(ii) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 339](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/339) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

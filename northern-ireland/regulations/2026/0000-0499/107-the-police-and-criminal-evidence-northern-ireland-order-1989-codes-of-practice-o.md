@@ -60,11 +60,11 @@ In pursuance of Article 66(3) of that Order the Department of Justice has laid a
 
 The Department of Justice, in exercise of the powers conferred by Article 66(4) of that Order, makes the following Order –
 
-## 1. Citation and commencement[^key-19e0d2b5d5e2060e4e32073a040dcec0]
+## 1. Citation and commencement[^c-19e0d2b5d5e2060e4e32073a040dcec0]
 
 This Order may be cited as the Police and Criminal Evidence (Northern Ireland) Order 1989 (Codes of Practice) Order 2026 and shall come into operation on 1<sup>st</sup> July 2026.
 
-## 2. Codes of Practice[^key-aa956d4015215a4480266d0d8db8a658]
+## 2. Codes of Practice[^c-aa956d4015215a4480266d0d8db8a658]
 
 The codes of practice under Articles 60, 60A and 65 of the Order laid in draft before the Assembly on 8<sup>th</sup> June 2026 shall come into operation on 1<sup>st</sup> July 2026.
 
@@ -104,6 +104,6 @@ The revised codes of practice will be available on the Department of Justice web
 
 [^f00001]: Footnote: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341). The functions of the Secretary of State under Articles 60, 60A, 65 and 66 were transferred to the Department of Justice by paragraph 14 of schedule 1 to the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)).
 
-[^key-19e0d2b5d5e2060e4e32073a040dcec0]: Commencement: Art. 1 in operation at 1.7.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/107/article/1)
+[^c-19e0d2b5d5e2060e4e32073a040dcec0]: Commencement: Art. 1 in operation at 1.7.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/107/article/1)
 
-[^key-aa956d4015215a4480266d0d8db8a658]: Commencement: Art. 2 in operation at 1.7.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/107/article/1)
+[^c-aa956d4015215a4480266d0d8db8a658]: Commencement: Art. 2 in operation at 1.7.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/107/article/1)

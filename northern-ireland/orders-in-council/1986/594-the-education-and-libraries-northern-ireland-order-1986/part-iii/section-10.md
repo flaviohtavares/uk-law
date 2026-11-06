@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^c17005731] Subject to paragraph (2), the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] shall make provision by means of a Board of Governors to be appointed by the Authority for the management of each controlled school [^key-63c61fd5e44d7977dadbb143cc0ce605]...[^c17005741]. . . .
+(1)[^c17005731] Subject to paragraph (2), the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] shall make provision by means of a Board of Governors to be appointed by the Authority for the management of each controlled school [^c-63c61fd5e44d7977dadbb143cc0ce605]...[^c17005741]. . . .
 
 (2) Two or more controlled primary schools, other than controlled integrated primary schools or nursery schools, under the management of the Authority may, if the Authority so determines and the Department approves, be grouped under one Board of Governors.
 
@@ -37,9 +37,9 @@ summary: ''
 
 [^c17005731]: Textual amendment: [1989 NI 20](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-63c61fd5e44d7977dadbb143cc0ce605]: Textual amendment: Words in art. 10(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-63c61fd5e44d7977dadbb143cc0ce605]: Textual amendment: Words in art. 10(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17005741]: Textual amendment: [1997 NI 15](https://www.legislation.gov.uk/nisi/1997)
 

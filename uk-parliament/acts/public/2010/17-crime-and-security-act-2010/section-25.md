@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Contents and service of a domestic violence protection notice[^M_I_9f905133-e8e3-4a97-8786-73573c8d4f07][^M_I_67b9dc09-4953-42eb-c1b9-ff093d4865b7][^key-196d923327b28a8d2404d8c113f6635c][^key-8ef9403c9e41845db856a4d1d0917fb7]
+## 25. Contents and service of a domestic violence protection notice[^M_I_9f905133-e8e3-4a97-8786-73573c8d4f07][^M_I_67b9dc09-4953-42eb-c1b9-ff093d4865b7][^c-196d923327b28a8d2404d8c113f6635c][^c-8ef9403c9e41845db856a4d1d0917fb7]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^M_I_67b9dc09-4953-42eb-c1b9-ff093d4865b7]: Commencement: S. 25 coming into force (temp.) (7.10.2011 for specified police areas and policing divisions for a period ending on 29.6.2012 so that the Secretary of State may assess the effectiveness of this provision) by [The Crime and Security Act 2010 (Domestic Violence: Pilot Schemes) Order (No. 2) 2011 (S.I. 2011/2279)](https://www.legislation.gov.uk/uksi/2011/2279), [arts. 2](https://www.legislation.gov.uk/uksi/2011/2279/article/2), [3](https://www.legislation.gov.uk/uksi/2011/2279/article/3)
 
-[^key-196d923327b28a8d2404d8c113f6635c]: Commencement: S. 25 in force at 30.6.2012 for specified purposes by [S.I. 2012/1615](https://www.legislation.gov.uk/uksi/2012/1615), [arts. 2](https://www.legislation.gov.uk/uksi/2012/1615/article/2), [3](https://www.legislation.gov.uk/uksi/2012/1615/article/3)
+[^c-196d923327b28a8d2404d8c113f6635c]: Commencement: S. 25 in force at 30.6.2012 for specified purposes by [S.I. 2012/1615](https://www.legislation.gov.uk/uksi/2012/1615), [arts. 2](https://www.legislation.gov.uk/uksi/2012/1615/article/2), [3](https://www.legislation.gov.uk/uksi/2012/1615/article/3)
 
-[^key-8ef9403c9e41845db856a4d1d0917fb7]: Commencement: S. 25 in force at 8.3.2014 in so far as not already in force by [S.I. 2014/478](https://www.legislation.gov.uk/uksi/2014/478), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/478/article/2/a)
+[^c-8ef9403c9e41845db856a4d1d0917fb7]: Commencement: S. 25 in force at 8.3.2014 in so far as not already in force by [S.I. 2014/478](https://www.legislation.gov.uk/uksi/2014/478), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/478/article/2/a)

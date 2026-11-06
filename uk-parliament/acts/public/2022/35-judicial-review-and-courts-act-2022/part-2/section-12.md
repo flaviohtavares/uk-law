@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Powers of youth court to transfer cases if accused turns 18[^key-0785adcc5b078f1bbce8b501a7758876]
+## 12. Powers of youth court to transfer cases if accused turns 18[^c-0785adcc5b078f1bbce8b501a7758876]
 
 *Extent: E+W+S+N.I.*
 
@@ -90,4 +90,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0785adcc5b078f1bbce8b501a7758876]: Commencement: S. 12 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-0785adcc5b078f1bbce8b501a7758876]: Commencement: S. 12 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241A. “Gross human rights abuse or violation”[^key-30d18bbfdb658755b3cc72d472184fd3]
+## 241A. “Gross human rights abuse or violation”[^c-30d18bbfdb658755b3cc72d472184fd3]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30d18bbfdb658755b3cc72d472184fd3]: Textual amendment: S. 241A inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2017/22/section/13/3), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6) (with [s. 13(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/13/4)); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/c); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/d)
+[^c-30d18bbfdb658755b3cc72d472184fd3]: Textual amendment: S. 241A inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2017/22/section/13/3), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6) (with [s. 13(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/13/4)); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/c); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/d)

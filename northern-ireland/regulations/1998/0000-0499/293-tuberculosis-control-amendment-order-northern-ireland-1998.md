@@ -30,7 +30,7 @@ summary: ''
 
 ANIMALS
 
-Tuberculosis Control (Amendment) Order (Northern Ireland) 1998 (revoked)[^key-13356d24eb4ff0506f40aafe5efa1dc5]
+Tuberculosis Control (Amendment) Order (Northern Ireland) 1998 (revoked)[^c-13356d24eb4ff0506f40aafe5efa1dc5]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 19th August 1998
 
-[^key-13356d24eb4ff0506f40aafe5efa1dc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13356d24eb4ff0506f40aafe5efa1dc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-13356d24eb4ff0506f40aafe5efa1dc5]
+## 1. Citation and commencement[^c-13356d24eb4ff0506f40aafe5efa1dc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Tuberculosis Control Order (Northern Ireland) 1964[^key-13356d24eb4ff0506f40aafe5efa1dc5]
+## 2. Amendment of the Tuberculosis Control Order (Northern Ireland) 1964[^c-13356d24eb4ff0506f40aafe5efa1dc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving[^key-13356d24eb4ff0506f40aafe5efa1dc5]
+## 3. Saving[^c-13356d24eb4ff0506f40aafe5efa1dc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-13356d24eb4ff0506f40aafe5efa1dc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13356d24eb4ff0506f40aafe5efa1dc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-13356d24eb4ff0506f40aafe5efa1dc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13356d24eb4ff0506f40aafe5efa1dc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-13356d24eb4ff0506f40aafe5efa1dc5]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/293) revoked (26.7.1999) by [Tuberculosis Control Order (Northern Ireland) 1999 (S.R. 1999/263)](https://www.legislation.gov.uk/nisr/1999/263), [arts. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1), [18](https://www.legislation.gov.uk/nisr/1999/263/article/18), [Sch.](https://www.legislation.gov.uk/nisr/1999/263/schedule)
+[^c-13356d24eb4ff0506f40aafe5efa1dc5]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/293) revoked (26.7.1999) by [Tuberculosis Control Order (Northern Ireland) 1999 (S.R. 1999/263)](https://www.legislation.gov.uk/nisr/1999/263), [arts. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1), [18](https://www.legislation.gov.uk/nisr/1999/263/article/18), [Sch.](https://www.legislation.gov.uk/nisr/1999/263/schedule)

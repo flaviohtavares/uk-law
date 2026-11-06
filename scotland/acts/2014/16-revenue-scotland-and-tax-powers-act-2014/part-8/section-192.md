@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 192. Reduction in penalty under this Chapter for disclosure[^key-33146c53d65e3e1e7d49820d485e201c]
+## 192. Reduction in penalty under this Chapter for disclosure[^c-33146c53d65e3e1e7d49820d485e201c]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33146c53d65e3e1e7d49820d485e201c]: Commencement: [S. 192](https://www.legislation.gov.uk/asp/2014/16/section/192) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-33146c53d65e3e1e7d49820d485e201c]: Commencement: [S. 192](https://www.legislation.gov.uk/asp/2014/16/section/192) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

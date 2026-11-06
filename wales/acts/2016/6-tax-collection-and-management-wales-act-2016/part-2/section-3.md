@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Membership[^key-3a6786a6085e747d17d9d75e322ca8aa]
+## 3. Membership[^c-3a6786a6085e747d17d9d75e322ca8aa]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a6786a6085e747d17d9d75e322ca8aa]: Commencement: S. 3 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-3a6786a6085e747d17d9d75e322ca8aa]: Commencement: S. 3 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

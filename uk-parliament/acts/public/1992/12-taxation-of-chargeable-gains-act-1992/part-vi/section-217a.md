@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217A. Transfer of assets on incorporation of registered friendly society.[^key-eb3800f995fc0be9c5e2449480baf077][^c2138389]
+## 217A. Transfer of assets on incorporation of registered friendly society.[^c-eb3800f995fc0be9c5e2449480baf077][^c2138389]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ shall be taken to be disposed of by the registered society or branch and acquire
 
 ## Annotations
 
-[^key-eb3800f995fc0be9c5e2449480baf077]: Modification: S. 217A restricted (with effect in accordance with s. 131(4) of the amending Act) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [s. 131(1)](https://www.legislation.gov.uk/ukpga/1995/4/section/131/1)[(2)(a)](https://www.legislation.gov.uk/ukpga/1995/4/section/131/2/a)
+[^c-eb3800f995fc0be9c5e2449480baf077]: Modification: S. 217A restricted (with effect in accordance with s. 131(4) of the amending Act) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [s. 131(1)](https://www.legislation.gov.uk/ukpga/1995/4/section/131/1)[(2)(a)](https://www.legislation.gov.uk/ukpga/1995/4/section/131/2/a)
 
 [^c2138389]: Textual amendment: S. 217A inserted (19.2.1993) by [1992 c. 48](https://www.legislation.gov.uk/ukpga/1992/48), [s. 56](https://www.legislation.gov.uk/ukpga/1992/48/section/56), [Sch. 9 para. 21(3)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/21/3); [S.I. 1993/236](https://www.legislation.gov.uk/uksi/1993/236), [art.2](https://www.legislation.gov.uk/uksi/1993/236/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Interpretation[^key-f9d1e9f12b6178cef6cae3f9d3d0aa4c]
+## 51. Interpretation[^c-f9d1e9f12b6178cef6cae3f9d3d0aa4c]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ In this Act—
 
 ## Annotations
 
-[^key-f9d1e9f12b6178cef6cae3f9d3d0aa4c]: Commencement: S. 51 in force at 11.8.2022, see [s. 56(1)](https://www.legislation.gov.uk/asp/2022/9/section/56/1)
+[^c-f9d1e9f12b6178cef6cae3f9d3d0aa4c]: Commencement: S. 51 in force at 11.8.2022, see [s. 56(1)](https://www.legislation.gov.uk/asp/2022/9/section/56/1)

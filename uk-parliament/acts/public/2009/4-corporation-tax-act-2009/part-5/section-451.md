@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 451. Exception to section 449 where loan exceeds arm's length amount[^key-2784fb6f896385c7eef526b9c7e14bca]
+## 451. Exception to section 449 where loan exceeds arm's length amount[^c-2784fb6f896385c7eef526b9c7e14bca]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2784fb6f896385c7eef526b9c7e14bca]: Textual amendment: [Ss. 449-451](https://www.legislation.gov.uk/ukpga/2009/4/section/449) repealed (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 30(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/30/1), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1) (with [Sch. 6 para. 32(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/3))
+[^c-2784fb6f896385c7eef526b9c7e14bca]: Textual amendment: [Ss. 449-451](https://www.legislation.gov.uk/ukpga/2009/4/section/449) repealed (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 30(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/30/1), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1) (with [Sch. 6 para. 32(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/3))

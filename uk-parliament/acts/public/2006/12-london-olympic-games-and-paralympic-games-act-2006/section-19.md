@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Advertising regulations[^key-1c615878df46f968ee58f7bda5166b1f][^key-e4fd806d581727af4f85b97999a4fdfc]
+## 19. Advertising regulations[^c-1c615878df46f968ee58f7bda5166b1f][^c-e4fd806d581727af4f85b97999a4fdfc]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State [^key-4e93e9b39d1b76a8020aab078006e3e3]... shall make regulations about advertising in the vicinity of London Olympic events.
+(1) The Secretary of State [^c-4e93e9b39d1b76a8020aab078006e3e3]... shall make regulations about advertising in the vicinity of London Olympic events.
 
-(2) In making the regulations the Secretary of State [^key-4e93e9b39d1b76a8020aab078006e3e3]... —
+(2) In making the regulations the Secretary of State [^c-4e93e9b39d1b76a8020aab078006e3e3]... —
 
 - (a) shall aim to secure compliance with obligations imposed on any person by the Host City Contract,
 - (b) shall have regard to any requests or guidance from the International Olympic Committee, and
@@ -47,12 +47,12 @@ summary: ''
 
 (6) The regulations shall specify, or provide criteria for determining, the period of time during which they apply; and—
 
-- (a) the regulations shall apply only for such time as the Secretary of State [^key-4e93e9b39d1b76a8020aab078006e3e3]... considers necessary for the purpose of securing compliance with obligations imposed on any person by the Host City Contract, and
+- (a) the regulations shall apply only for such time as the Secretary of State [^c-4e93e9b39d1b76a8020aab078006e3e3]... considers necessary for the purpose of securing compliance with obligations imposed on any person by the Host City Contract, and
 - (b) the regulations may apply during different periods in respect of different places.
 
 (7) The regulations shall permit, subject to any specified conditions, advertising undertaken or controlled by—
 
-- (a) any person specified in the regulations as appearing to the Secretary of State [^key-4e93e9b39d1b76a8020aab078006e3e3]... to have responsibility in accordance with the Host City Contract for the control of advertising in relation to the London Olympics (“a responsible body”), or
+- (a) any person specified in the regulations as appearing to the Secretary of State [^c-4e93e9b39d1b76a8020aab078006e3e3]... to have responsibility in accordance with the Host City Contract for the control of advertising in relation to the London Olympics (“a responsible body”), or
 - (b) any person authorised by a responsible body (whether or not subject to terms and conditions and whether or not in accordance with a sponsorship or other commercial agreement).
 
 (8) The regulations—
@@ -69,8 +69,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1c615878df46f968ee58f7bda5166b1f]: Commencement: S. 19 in force at 30.5.2006 for E.W.N.I. by [S.I. 2006/1118](https://www.legislation.gov.uk/uksi/2006/1118), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1118/article/3/1)
+[^c-1c615878df46f968ee58f7bda5166b1f]: Commencement: S. 19 in force at 30.5.2006 for E.W.N.I. by [S.I. 2006/1118](https://www.legislation.gov.uk/uksi/2006/1118), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1118/article/3/1)
 
-[^key-e4fd806d581727af4f85b97999a4fdfc]: Commencement: S. 19 in force at 31.12.2006 for S. by [S.S.I. 2006/611](https://www.legislation.gov.uk/ssi/2006/611), [art. 2](https://www.legislation.gov.uk/ssi/2006/611/article/2)
+[^c-e4fd806d581727af4f85b97999a4fdfc]: Commencement: S. 19 in force at 31.12.2006 for S. by [S.S.I. 2006/611](https://www.legislation.gov.uk/ssi/2006/611), [art. 2](https://www.legislation.gov.uk/ssi/2006/611/article/2)
 
-[^key-4e93e9b39d1b76a8020aab078006e3e3]: Textual amendment: Words in s. 19 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 8(1)(e)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/8/1/e)
+[^c-4e93e9b39d1b76a8020aab078006e3e3]: Textual amendment: Words in s. 19 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 8(1)(e)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/8/1/e)

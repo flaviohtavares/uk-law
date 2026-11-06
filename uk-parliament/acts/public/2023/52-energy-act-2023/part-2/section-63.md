@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Designation of hydrogen storage counterparty[^key-752c355f865d612ac5cf0d5ea7c6f663]
+## 63. Designation of hydrogen storage counterparty[^c-752c355f865d612ac5cf0d5ea7c6f663]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-752c355f865d612ac5cf0d5ea7c6f663]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2023/52/section/63) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-752c355f865d612ac5cf0d5ea7c6f663]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2023/52/section/63) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10A. Powers to charge fees: supplementary[^key-a1374312b4f4ba5bb5cc176d54246b8d]
+## 10A. Powers to charge fees: supplementary[^c-a1374312b4f4ba5bb5cc176d54246b8d]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1374312b4f4ba5bb5cc176d54246b8d]: Textual amendment: S. 10A inserted (E.W.) (1.4.2014) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2013/14/section/1/6), [15(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/1)
+[^c-a1374312b4f4ba5bb5cc176d54246b8d]: Textual amendment: S. 10A inserted (E.W.) (1.4.2014) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2013/14/section/1/6), [15(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/1)

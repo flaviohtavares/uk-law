@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. ASB case reviews: interpretation[^key-1f041834b6f9610e41417679cadaf73c]
+## 105. ASB case reviews: interpretation[^c-1f041834b6f9610e41417679cadaf73c]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ and, in relation to a local government area in England—
 - “**relevant bodies**” means—
   - (a) the relevant district council or the unitary authority,
   - (b) the chief officer of police for the police area which that local government area is within,
-  - (c) each integrated care board established under section 14Z25 of the National Health Service Act 2006 whose area is wholly or partly within that local government area,[^key-343471dbc73bc17ae87e1dfb8ac187e9] and
+  - (c) each integrated care board established under section 14Z25 of the National Health Service Act 2006 whose area is wholly or partly within that local government area,[^c-343471dbc73bc17ae87e1dfb8ac187e9] and
   - (d) any local providers of social housing who are among the relevant bodies by virtue of the co-option arrangements made in relation to that local government area.
 
 (3) In relation to Wales—
@@ -74,6 +74,6 @@ and, in relation to a local government area in Wales—
 
 ## Annotations
 
-[^key-1f041834b6f9610e41417679cadaf73c]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2014/12/section/105) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/5)
+[^c-1f041834b6f9610e41417679cadaf73c]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2014/12/section/105) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/5)
 
-[^key-343471dbc73bc17ae87e1dfb8ac187e9]: Textual amendment: Words in s. 105(2) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 191](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/191); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-343471dbc73bc17ae87e1dfb8ac187e9]: Textual amendment: Words in s. 105(2) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 191](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/191); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

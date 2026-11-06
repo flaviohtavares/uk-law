@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38.11. Right to attend hearing[^key-1bb5670be1e9c5e1543d6e489dd02992]
+## 38.11. Right to attend hearing[^c-1bb5670be1e9c5e1543d6e489dd02992]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bb5670be1e9c5e1543d6e489dd02992]: Commencement: [Rule 38.11](https://www.legislation.gov.uk/uksi/2025/909/rule/38.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1bb5670be1e9c5e1543d6e489dd02992]: Commencement: [Rule 38.11](https://www.legislation.gov.uk/uksi/2025/909/rule/38.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

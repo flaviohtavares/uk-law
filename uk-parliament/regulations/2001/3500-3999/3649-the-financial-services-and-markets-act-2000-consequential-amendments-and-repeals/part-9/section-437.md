@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 437. Revocation of unnecessary provision[^key-ac21b909f2d1bf69ede7b8beba1cc8be]
+## 437. Revocation of unnecessary provision[^c-ac21b909f2d1bf69ede7b8beba1cc8be]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In article 2 of the Financial Services (Disclosure of Information) (Designated A
 
 ## Annotations
 
-[^key-ac21b909f2d1bf69ede7b8beba1cc8be]: Commencement: Art. 437 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ac21b909f2d1bf69ede7b8beba1cc8be]: Commencement: Art. 437 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

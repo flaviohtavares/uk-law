@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Assessment where loss of tax[^key-bfd40692297ce44224bf9952e700952b]
+## 54. Assessment where loss of tax[^c-bfd40692297ce44224bf9952e700952b]
 
 *Extent: E+W*
 
 If WRA comes to the view that—
 
-- (a) an amount of WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] tax that ought to have been assessed as WRA-collected tax chargeable on a person has not been assessed,
+- (a) an amount of WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] tax that ought to have been assessed as WRA-collected tax chargeable on a person has not been assessed,
 - (b) an assessment of the WRA-collected tax chargeable on a person is or has become insufficient, or
 - (c) relief in respect of a WRA-collected tax has been claimed or given that is or has become excessive,
 
@@ -30,6 +30,6 @@ WRA may make an assessment of the amount or further amount that ought in its opi
 
 ## Annotations
 
-[^key-bfd40692297ce44224bf9952e700952b]: Commencement: S. 54 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-bfd40692297ce44224bf9952e700952b]: Commencement: S. 54 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)

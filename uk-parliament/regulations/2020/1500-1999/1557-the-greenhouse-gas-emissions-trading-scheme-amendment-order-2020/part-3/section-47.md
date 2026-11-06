@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Activity Level Changes Regulation amended[^key-f2c117318fe5813767ce008fedcc371c]
+## 47. Activity Level Changes Regulation amended[^c-f2c117318fe5813767ce008fedcc371c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 (which amends Commission Implementing Regulation (EU) 2019/1842 for t
 
 ## Annotations
 
-[^key-f2c117318fe5813767ce008fedcc371c]: Commencement: Art. 47 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
+[^c-f2c117318fe5813767ce008fedcc371c]: Commencement: Art. 47 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)

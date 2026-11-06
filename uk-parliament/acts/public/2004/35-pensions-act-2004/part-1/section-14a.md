@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14A. Appointment of skilled person to assist public service pension scheme[^key-b790248300f4575b0d3870c8a2839bc4]
+## 14A. Appointment of skilled person to assist public service pension scheme[^c-b790248300f4575b0d3870c8a2839bc4]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b790248300f4575b0d3870c8a2839bc4]: Textual amendment: S. 14A inserted (1.4.2015) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/4) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-b790248300f4575b0d3870c8a2839bc4]: Textual amendment: S. 14A inserted (1.4.2015) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/4) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)

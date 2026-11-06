@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Further provision about enforcement powers[^key-20e3858fc0b0fc5cfa46997066c95e58][^key-326aab187167dc92465237c7a41ccc50]
+## 107. Further provision about enforcement powers[^c-20e3858fc0b0fc5cfa46997066c95e58][^c-326aab187167dc92465237c7a41ccc50]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 11 (Part 1 of which makes further provision about discretionary require
 
 ## Annotations
 
-[^key-20e3858fc0b0fc5cfa46997066c95e58]: Commencement: S. 107 in force at 1.7.2013 for specified purposes by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-20e3858fc0b0fc5cfa46997066c95e58]: Commencement: S. 107 in force at 1.7.2013 for specified purposes by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
 
-[^key-326aab187167dc92465237c7a41ccc50]: Commencement: S. 107 in force at 1.7.2013 in so far as not already in force by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(4)](https://www.legislation.gov.uk/uksi/2013/671/article/2/4)
+[^c-326aab187167dc92465237c7a41ccc50]: Commencement: S. 107 in force at 1.7.2013 in so far as not already in force by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(4)](https://www.legislation.gov.uk/uksi/2013/671/article/2/4)

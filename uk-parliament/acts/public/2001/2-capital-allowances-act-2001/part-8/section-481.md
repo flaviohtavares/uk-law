@@ -36,7 +36,7 @@ was obtaining an allowance under this Part.
 (5) If subsection (4) does not apply but the seller—
 
 - (a) receives a capital sum on the sale, and
-- (b) is chargeable to tax in respect of that sum in accordance with section 587 of[^key-9f6dbb660c56aad9a1a86f031c41cd2b] ITTOIA 2005 or section 912 of CTA 2009[^key-4fe714c880b344f5db2ee19d5f62cac8],
+- (b) is chargeable to tax in respect of that sum in accordance with section 587 of[^c-9f6dbb660c56aad9a1a86f031c41cd2b] ITTOIA 2005 or section 912 of CTA 2009[^c-4fe714c880b344f5db2ee19d5f62cac8],
 
 the relevant limit is that sum.
 
@@ -48,6 +48,6 @@ the relevant limit is that sum.
 
 ## Annotations
 
-[^key-9f6dbb660c56aad9a1a86f031c41cd2b]: Textual amendment: Words in s. 481(5)(b) inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5) , [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1) , [Sch. 1 para. 566](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/566) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2) )
+[^c-9f6dbb660c56aad9a1a86f031c41cd2b]: Textual amendment: Words in s. 481(5)(b) inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5) , [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1) , [Sch. 1 para. 566](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/566) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2) )
 
-[^key-4fe714c880b344f5db2ee19d5f62cac8]: Textual amendment: Words in s. 481(5)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 512](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/512) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-4fe714c880b344f5db2ee19d5f62cac8]: Textual amendment: Words in s. 481(5)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 512](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/512) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

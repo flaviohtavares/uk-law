@@ -22,10 +22,10 @@ summary: ''
 
 (1) The Secretary of State may by regulations make such provision as is authorised by one or more of subsections (2) to (4).
 
-(2) The regulations may provide for any prescribed provision of Part II of the Contributions and Benefits Act (contributory benefits) which relates to additional pension for widows, widowers or surviving civil partners[^key-5cc333f7ffc40db6dfe76119fa7fa3c9] to have effect, in relation to persons of any prescribed description, with such modifications as may be prescribed for securing—
+(2) The regulations may provide for any prescribed provision of Part II of the Contributions and Benefits Act (contributory benefits) which relates to additional pension for widows, widowers or surviving civil partners[^c-5cc333f7ffc40db6dfe76119fa7fa3c9] to have effect, in relation to persons of any prescribed description, with such modifications as may be prescribed for securing—
 
 - (a) that any such additional pension, or
-- (b) in the case of any provision of Schedule 5 to that Act (increase of pension or payment of lump sum[^key-c8bdf18878d90bfce737963023c33bac] where entitlement is deferred), that any constituent element of an increase or of a lump sum[^key-c644edb81b24719aa231945cbd168505] provided for by that Schedule,
+- (b) in the case of any provision of Schedule 5 to that Act (increase of pension or payment of lump sum[^c-c8bdf18878d90bfce737963023c33bac] where entitlement is deferred), that any constituent element of an increase or of a lump sum[^c-c644edb81b24719aa231945cbd168505] provided for by that Schedule,
 
 is increased by such percentage as may be prescribed (which may be 100 per cent.).
 
@@ -96,11 +96,11 @@ to be treated as a case in which his failure to take the step, or his taking of 
 
 ## Annotations
 
-[^key-5cc333f7ffc40db6dfe76119fa7fa3c9]: Textual amendment: Words in s. 52(2) substituted (26.7.2005 for specified purposes) by [Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2053)](https://www.legislation.gov.uk/uksi/2005/2053), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/2053/article/1/2/c), [(3)](https://www.legislation.gov.uk/uksi/2005/2053/article/1/3), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2005/2053/schedule/paragraph/26)
+[^c-5cc333f7ffc40db6dfe76119fa7fa3c9]: Textual amendment: Words in s. 52(2) substituted (26.7.2005 for specified purposes) by [Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2053)](https://www.legislation.gov.uk/uksi/2005/2053), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/2053/article/1/2/c), [(3)](https://www.legislation.gov.uk/uksi/2005/2053/article/1/3), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2005/2053/schedule/paragraph/26)
 
-[^key-c8bdf18878d90bfce737963023c33bac]: Textual amendment: Words in s. 52(2)(b) inserted (18.11.2004 for specified purposes, 6.4.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(3)(a)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/3/a), [Sch. 11 para. 25(a)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/11/paragraph/25/a)
+[^c-c8bdf18878d90bfce737963023c33bac]: Textual amendment: Words in s. 52(2)(b) inserted (18.11.2004 for specified purposes, 6.4.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(3)(a)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/3/a), [Sch. 11 para. 25(a)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/11/paragraph/25/a)
 
-[^key-c644edb81b24719aa231945cbd168505]: Textual amendment: Words in s. 52(2)(b) inserted (18.11.2004 for specified purposes, 6.4.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(3)(a)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/3/a), [Sch. 11 para. 25(b)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/11/paragraph/25/b)
+[^c-c644edb81b24719aa231945cbd168505]: Textual amendment: Words in s. 52(2)(b) inserted (18.11.2004 for specified purposes, 6.4.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(3)(a)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/3/a), [Sch. 11 para. 25(b)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/11/paragraph/25/b)
 
 [^c1314339]: Textual amendment: S. 52(3) substituted (28.7.2000) by [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 39(3)](https://www.legislation.gov.uk/ukpga/2000/19/section/39/3), [86(1)(b)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6))
 

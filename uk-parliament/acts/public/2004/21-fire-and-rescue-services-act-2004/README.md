@@ -34,7 +34,7 @@ An Act to make provision about fire and rescue authorities and their functions; 
 
 \[22nd July 2004\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ccbad63cb7f29679490e7cdda0a84e55][^key-f0def87a92a32ab90b89c4609555f0f6]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ccbad63cb7f29679490e7cdda0a84e55][^c-f0def87a92a32ab90b89c4609555f0f6]
 
 ## Contents
 
@@ -42,14 +42,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W*
 
-#### Fire and rescue authorities[^key-95027c5c93d1f4302dbd1ab7e539ea64]
+#### Fire and rescue authorities[^c-95027c5c93d1f4302dbd1ab7e539ea64]
 
 *Extent: E+W*
 
 - [Section 1 — Fire and rescue authorities](part-1/section-1.md)
 - [Section 1A — Designation of mayoral combined authorities and mayoral CCAs](part-1/section-1a.md)
 
-#### Combined fire and rescue authorities[^key-1e3ae07aa0af7cede7894b014621b50f]
+#### Combined fire and rescue authorities[^c-1e3ae07aa0af7cede7894b014621b50f]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 3 — Creation of combined fire and rescue authorities: supplementary](part-1/section-3.md)
 - [Section 4 — Combined authorities under the Fire Services Act 1947](part-1/section-4.md)
 
-#### Fire and rescue authority involving police and crime commissioner[^key-f455a5ec8458ad32a969552ec2e67dd3]
+#### Fire and rescue authority involving police and crime commissioner[^c-f455a5ec8458ad32a969552ec2e67dd3]
 
 *Extent: E+W*
 
@@ -76,7 +76,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 4M — Application of local policing provisions](part-1/section-4m.md)
 - [Section 5 — Powers of combined fire and rescue authorities](part-1/section-5.md)
 
-#### Powers of certain fire and rescue authorities[^key-54456e061f9a45ee36adb07f17a4b6d3]
+#### Powers of certain fire and rescue authorities[^c-54456e061f9a45ee36adb07f17a4b6d3]
 
 *Extent: E+W*
 
@@ -92,7 +92,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 5K — Super-affirmative resolution procedure for draft laid under section 5F(2)](part-1/section-5k.md)
 - [Section 5L — Calculation of time periods](part-1/section-5l.md)
 
-#### Interpretation of Part 1[^key-db28f1556b3340c07a0df8754bb2c5c6]
+#### Interpretation of Part 1[^c-db28f1556b3340c07a0df8754bb2c5c6]
 
 *Extent: E+W*
 
@@ -150,7 +150,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 24 — Best value](part-3/section-24.md)
 - [Section 25 — Report](part-3/section-25.md)
 
-#### Police and crime plan[^key-86731ad2495eedd36767fe02f034c74c]
+#### Police and crime plan[^c-86731ad2495eedd36767fe02f034c74c]
 
 - [Section 25A — Police and crime plan](part-3/section-25a.md)
 
@@ -267,18 +267,18 @@ SCHEDULES
 
 ## Annotations
 
-[^key-ccbad63cb7f29679490e7cdda0a84e55]: Modification: Act applied (with modifications) (30.12.2004) by [S.I. 1990/2227](https://www.legislation.gov.uk/uksi/1990/2227), [art. 2](https://www.legislation.gov.uk/uksi/1990/2227/article/2) (as amended (E.) by [Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [art. 23](https://www.legislation.gov.uk/uksi/2004/3168/article/23))
+[^c-ccbad63cb7f29679490e7cdda0a84e55]: Modification: Act applied (with modifications) (30.12.2004) by [S.I. 1990/2227](https://www.legislation.gov.uk/uksi/1990/2227), [art. 2](https://www.legislation.gov.uk/uksi/1990/2227/article/2) (as amended (E.) by [Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [art. 23](https://www.legislation.gov.uk/uksi/2004/3168/article/23))
 
-[^key-f0def87a92a32ab90b89c4609555f0f6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/21) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [41(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/41/2) (with [arts. 50-53](https://www.legislation.gov.uk/uksi/2023/1432/article/50))
+[^c-f0def87a92a32ab90b89c4609555f0f6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/21) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [41(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/41/2) (with [arts. 50-53](https://www.legislation.gov.uk/uksi/2023/1432/article/50))
 
-[^key-95027c5c93d1f4302dbd1ab7e539ea64]: Textual amendment: S. 1 cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/2); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-95027c5c93d1f4302dbd1ab7e539ea64]: Textual amendment: S. 1 cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/2); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-1e3ae07aa0af7cede7894b014621b50f]: Textual amendment: S. 2 crossheading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/4); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-1e3ae07aa0af7cede7894b014621b50f]: Textual amendment: S. 2 crossheading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/4); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-f455a5ec8458ad32a969552ec2e67dd3]: Textual amendment: [Ss. 4A-4M](https://www.legislation.gov.uk/ukpga/2004/21/section/4A) and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/5); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-f455a5ec8458ad32a969552ec2e67dd3]: Textual amendment: [Ss. 4A-4M](https://www.legislation.gov.uk/ukpga/2004/21/section/4A) and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/5); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-54456e061f9a45ee36adb07f17a4b6d3]: Textual amendment: S. 5A crossheading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/6); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-54456e061f9a45ee36adb07f17a4b6d3]: Textual amendment: S. 5A crossheading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/6); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-db28f1556b3340c07a0df8754bb2c5c6]: Textual amendment: S. 5M and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/8); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-db28f1556b3340c07a0df8754bb2c5c6]: Textual amendment: S. 5M and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/8); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-86731ad2495eedd36767fe02f034c74c]: Textual amendment: S. 25A and crossheading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/10); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-86731ad2495eedd36767fe02f034c74c]: Textual amendment: S. 25A and crossheading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/10); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)

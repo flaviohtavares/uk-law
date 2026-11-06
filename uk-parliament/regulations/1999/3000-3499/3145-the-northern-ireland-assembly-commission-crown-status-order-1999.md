@@ -53,11 +53,11 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred upon Her by paragraph 6(1) of Schedule 5 to the Northern Ireland Act 1998[^f00001] and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
 
-## 1. Citation and commencement[^key-1f76ac129fa176510944068aa754d0f7]
+## 1. Citation and commencement[^c-1f76ac129fa176510944068aa754d0f7]
 
 This Order may be cited as the Northern Ireland Assembly Commission (Crown Status) Order 1999 and shall come into force on the appointed day[^f00002].
 
-## 2. Planning[^key-00d4c83b0265e32c01bd24c1aa54f940]
+## 2. Planning[^c-00d4c83b0265e32c01bd24c1aa54f940]
 
 (1) The Commission shall be treated as a Crown body for the purposes of the Planning (Northern Ireland) Order 1991[^f00003] (“the Planning Order”) and accordingly—
 
@@ -73,7 +73,7 @@ This Order may be cited as the Northern Ireland Assembly Commission (Crown Statu
 
 (5) This Article shall be construed as if it were contained in Part XII of the Planning Order.
 
-## 3. Historic monuments[^key-45e27288984aa5073797f6cb7e356b86]
+## 3. Historic monuments[^c-45e27288984aa5073797f6cb7e356b86]
 
 (1) The Commission shall be treated as a Crown body for the purposes of the Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995[^f00004] (“the 1995 Order”) and accordingly—
 
@@ -87,7 +87,7 @@ This Order may be cited as the Northern Ireland Assembly Commission (Crown Statu
 
 (4) This Article shall be construed as if it were contained in the 1995 Order.
 
-## 4. Building regulations[^key-b9c518b9d2cb7da5ae27242bb1ff0628]
+## 4. Building regulations[^c-b9c518b9d2cb7da5ae27242bb1ff0628]
 
 (1) The Commission shall be treated as a Crown body for the purposes of the Building Regulations (Northern Ireland) Order 1979[^f00005] (“the Building Regulations Order”) and accordingly—
 
@@ -97,7 +97,7 @@ This Order may be cited as the Northern Ireland Assembly Commission (Crown Statu
 
 (2) This Article shall be construed as if it were contained in the Building Regulations Order.
 
-## 5. Fire precautions[^key-d8222b8aaf2a4b6351929b4adc33bbc1]
+## 5. Fire precautions[^c-d8222b8aaf2a4b6351929b4adc33bbc1]
 
 (1) The Commission shall be treated as a Crown body for the purposes of Part III of the Fire Services (Northern Ireland) Order 1984[^f00006] (“the Fire Services Order”) and accordingly for the purposes of Article 49 of that Order—
 
@@ -106,7 +106,7 @@ This Order may be cited as the Northern Ireland Assembly Commission (Crown Statu
 
 (2) This Article shall be construed as if it were contained in the Fire Services Order.
 
-## 6. Health and Safety at Work[^key-6a603ec0b7f66ada18fafc700d3d7379]
+## 6. Health and Safety at Work[^c-6a603ec0b7f66ada18fafc700d3d7379]
 
 (1) The Commission shall be treated as a Crown body for the purposes of Part II of the Health and Safety at Work (Northern Ireland) Order 1978[^f00007] (“the Health and Safety at Work Order”) and accordingly for the purposes of Article 44 of that Order—
 
@@ -115,25 +115,25 @@ This Order may be cited as the Northern Ireland Assembly Commission (Crown Statu
 
 (2) This Article shall be construed as if it were contained in the Health and Safety at Work Order.
 
-## 7. Licensing[^key-c8392c08dcc52ce987069b0fe7ea712a]
+## 7. Licensing[^c-c8392c08dcc52ce987069b0fe7ea712a]
 
 The Commission shall be treated as a Crown body for the purposes of the Licensing (Northern Ireland) Order 1996[^f00008].
 
-## 8. Value Added Tax[^key-54b973058c57d24367e710299f948adb]
+## 8. Value Added Tax[^c-54b973058c57d24367e710299f948adb]
 
 The Commission shall be treated as a Crown body for the purposes of the Value Added Tax Act 1994[^f00009] and accordingly for the purposes of section 41 of that Act (application to the Crown) it shall be treated as a government department.
 
-## 9. Data Protection Act 2018[^key-43d0c61d92f4d365896339e2e5abbfe5]
+## 9. Data Protection Act 2018[^c-43d0c61d92f4d365896339e2e5abbfe5]
 
 (1) The Commission is to be treated as a Crown body for the purposes of the Data Protection Act 2018 to the extent specified in this article.
 
 (2) The Commission is to be treated as a government department for the purposes of the following provisions—
 
-- (a) section 8(d) (lawfulness of processing under the UK GDPR[^key-10238bbbaf5873f7a65e1bd1cd315f42]: public interest etc),
+- (a) section 8(d) (lawfulness of processing under the UK GDPR[^c-10238bbbaf5873f7a65e1bd1cd315f42]: public interest etc),
 - (b) section 209 (application to the Crown),
 - (c) paragraph 6 of Schedule 1 (statutory etc and government purposes),
-- (d) paragraph 7 of Schedule 2 (exemptions from the UK GDPR[^key-5cf2fdd685e50b2e297b7bf4064a49e6]: functions designed to protect the public etc), and
-- (e) paragraph 8(1)(o) of Schedule 3 (exemptions from the UK GDPR[^key-04b5f0f31f92dd4bc32e067dad312ba8]: health data).
+- (d) paragraph 7 of Schedule 2 (exemptions from the UK GDPR[^c-5cf2fdd685e50b2e297b7bf4064a49e6]: functions designed to protect the public etc), and
+- (e) paragraph 8(1)(o) of Schedule 3 (exemptions from the UK GDPR[^c-04b5f0f31f92dd4bc32e067dad312ba8]: health data).
 
 (3) In the provisions mentioned in paragraph (4)—
 
@@ -145,7 +145,7 @@ The Commission shall be treated as a Crown body for the purposes of the Value Ad
 - (a) section 24(3) (exemption for certain data relating to employment under the Crown), and
 - (b) section 209(6) (application of certain provisions to a person in the service of the Crown).
 
-(5)[^key-bea84292e224f4607a9e5f3b67bcdbaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-bea84292e224f4607a9e5f3b67bcdbaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 A. K. Galloway
 
@@ -171,44 +171,44 @@ It also makes provision consequential upon and supplementary to the foregoing pr
 
 [^f00001]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-1f76ac129fa176510944068aa754d0f7]: Commencement: Art. 1 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
+[^c-1f76ac129fa176510944068aa754d0f7]: Commencement: Art. 1 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
 
 [^f00002]: Footnote: “the appointed day” is defined in section 3(1) of the Northern Ireland Act 1998.
 
-[^key-00d4c83b0265e32c01bd24c1aa54f940]: Commencement: Art. 2 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
+[^c-00d4c83b0265e32c01bd24c1aa54f940]: Commencement: Art. 2 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
 
 [^f00003]: Footnote: [S.I. 1991/1220 (NI 11)](https://www.legislation.gov.uk/nisi/1991/1220).
 
-[^key-45e27288984aa5073797f6cb7e356b86]: Commencement: Art. 3 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
+[^c-45e27288984aa5073797f6cb7e356b86]: Commencement: Art. 3 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
 
 [^f00004]: Footnote: [S.I. 1995/1625 (NI 9)](https://www.legislation.gov.uk/nisi/1995/1625).
 
-[^key-b9c518b9d2cb7da5ae27242bb1ff0628]: Commencement: Art. 4 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
+[^c-b9c518b9d2cb7da5ae27242bb1ff0628]: Commencement: Art. 4 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
 
 [^f00005]: Footnote: [S.I. 1979/1709 (NI 16)](https://www.legislation.gov.uk/nisi/1979/1709).
 
-[^key-d8222b8aaf2a4b6351929b4adc33bbc1]: Commencement: Art. 5 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
+[^c-d8222b8aaf2a4b6351929b4adc33bbc1]: Commencement: Art. 5 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
 
 [^f00006]: Footnote: [S.I. 1984/1821 (NI 11)](https://www.legislation.gov.uk/nisi/1984/1821).
 
-[^key-6a603ec0b7f66ada18fafc700d3d7379]: Commencement: Art. 6 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
+[^c-6a603ec0b7f66ada18fafc700d3d7379]: Commencement: Art. 6 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
 
 [^f00007]: Footnote: [S.I. 1978/1039 (NI 9)](https://www.legislation.gov.uk/nisi/1978/1039).
 
-[^key-c8392c08dcc52ce987069b0fe7ea712a]: Commencement: Art. 7 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
+[^c-c8392c08dcc52ce987069b0fe7ea712a]: Commencement: Art. 7 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
 
 [^f00008]: Footnote: [S.I. 1996/3158 (NI 22)](https://www.legislation.gov.uk/nisi/1996/3158).
 
-[^key-54b973058c57d24367e710299f948adb]: Commencement: Art. 8 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
+[^c-54b973058c57d24367e710299f948adb]: Commencement: Art. 8 in force at 2.12.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3145/article/1)
 
 [^f00009]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-43d0c61d92f4d365896339e2e5abbfe5]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/1999/3145/article/9) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 238](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/238) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-43d0c61d92f4d365896339e2e5abbfe5]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/1999/3145/article/9) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 238](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/238) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-10238bbbaf5873f7a65e1bd1cd315f42]: Textual amendment: Words in [art. 9(2)(a)](https://www.legislation.gov.uk/uksi/1999/3145/article/9/2/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 30(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/30/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-10238bbbaf5873f7a65e1bd1cd315f42]: Textual amendment: Words in [art. 9(2)(a)](https://www.legislation.gov.uk/uksi/1999/3145/article/9/2/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 30(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/30/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5cf2fdd685e50b2e297b7bf4064a49e6]: Textual amendment: Words in [art. 9(2)(d)](https://www.legislation.gov.uk/uksi/1999/3145/article/9/2/d) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 30(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/30/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5cf2fdd685e50b2e297b7bf4064a49e6]: Textual amendment: Words in [art. 9(2)(d)](https://www.legislation.gov.uk/uksi/1999/3145/article/9/2/d) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 30(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/30/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-04b5f0f31f92dd4bc32e067dad312ba8]: Textual amendment: Words in [art. 9(2)(e)](https://www.legislation.gov.uk/uksi/1999/3145/article/9/2/e) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 30(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/30/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-04b5f0f31f92dd4bc32e067dad312ba8]: Textual amendment: Words in [art. 9(2)(e)](https://www.legislation.gov.uk/uksi/1999/3145/article/9/2/e) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 30(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/30/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bea84292e224f4607a9e5f3b67bcdbaa]: Textual amendment: [Art. 9(5)](https://www.legislation.gov.uk/uksi/1999/3145/article/9/5) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 30(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/30/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bea84292e224f4607a9e5f3b67bcdbaa]: Textual amendment: [Art. 9(5)](https://www.legislation.gov.uk/uksi/1999/3145/article/9/5) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 30(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/30/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

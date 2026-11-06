@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Power to change the voting system[^key-3c021f20d97bb8b9768421baf3a20f46]
+## 8. Power to change the voting system[^c-3c021f20d97bb8b9768421baf3a20f46]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c021f20d97bb8b9768421baf3a20f46]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2021/1/section/8) in force at 6.5.2022, see [s. 175(6)(a)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/a)
+[^c-3c021f20d97bb8b9768421baf3a20f46]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2021/1/section/8) in force at 6.5.2022, see [s. 175(6)(a)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/a)

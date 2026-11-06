@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Challenging amount or increase of rent[^key-470ebfd51c3089d7eeea7e342b9086ce][^key-fd0ec749fe9c0d694c01a21a630fb55b]
+## 7. Challenging amount or increase of rent[^c-470ebfd51c3089d7eeea7e342b9086ce][^c-fd0ec749fe9c0d694c01a21a630fb55b]
 
 *Extent: E+W*
 
@@ -140,6 +140,6 @@ summary: ''
 
 ## Annotations
 
-[^key-470ebfd51c3089d7eeea7e342b9086ce]: Commencement: S. 7 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-470ebfd51c3089d7eeea7e342b9086ce]: Commencement: S. 7 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-fd0ec749fe9c0d694c01a21a630fb55b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/26/section/7) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2026/421/regulation/4), [8](https://www.legislation.gov.uk/uksi/2026/421/regulation/8))
+[^c-fd0ec749fe9c0d694c01a21a630fb55b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/26/section/7) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2026/421/regulation/4), [8](https://www.legislation.gov.uk/uksi/2026/421/regulation/8))

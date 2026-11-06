@@ -32,7 +32,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-The Cosmetic Products (Safety) (Amendment) Regulations 2007 (revoked)[^key-db1b9a7236bd7fae323b3ccc8447035d]
+The Cosmetic Products (Safety) (Amendment) Regulations 2007 (revoked)[^c-db1b9a7236bd7fae323b3ccc8447035d]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 3rd July 2007
 
-[^key-db1b9a7236bd7fae323b3ccc8447035d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db1b9a7236bd7fae323b3ccc8447035d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-db1b9a7236bd7fae323b3ccc8447035d]
+## 1. Citation, commencement and interpretation[^c-db1b9a7236bd7fae323b3ccc8447035d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Principal Regulations[^key-db1b9a7236bd7fae323b3ccc8447035d]
+## 2. Amendment to the Principal Regulations[^c-db1b9a7236bd7fae323b3ccc8447035d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-db1b9a7236bd7fae323b3ccc8447035d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db1b9a7236bd7fae323b3ccc8447035d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-db1b9a7236bd7fae323b3ccc8447035d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db1b9a7236bd7fae323b3ccc8447035d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-db1b9a7236bd7fae323b3ccc8447035d]: Textual amendment: Regulations revoked (18.6.2008) by [The Cosmetic Products (Safety) Regulations 2008 (S.I. 2008/1284)](https://www.legislation.gov.uk/uksi/2008/1284), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1284/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1284/schedule/1)
+[^c-db1b9a7236bd7fae323b3ccc8447035d]: Textual amendment: Regulations revoked (18.6.2008) by [The Cosmetic Products (Safety) Regulations 2008 (S.I. 2008/1284)](https://www.legislation.gov.uk/uksi/2008/1284), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1284/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1284/schedule/1)

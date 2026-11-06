@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Parole Board membership[^key-8a207034466bacc8354ceaa7928205cc][^key-a29a0a275ce9f0779029e4f1e55827a6]
+## 74. Parole Board membership[^c-8a207034466bacc8354ceaa7928205cc][^c-a29a0a275ce9f0779029e4f1e55827a6]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a207034466bacc8354ceaa7928205cc]: Commencement: S. 74 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-8a207034466bacc8354ceaa7928205cc]: Commencement: S. 74 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-a29a0a275ce9f0779029e4f1e55827a6]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2024/21/section/74) in force at 3.2.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/d)
+[^c-a29a0a275ce9f0779029e4f1e55827a6]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2024/21/section/74) in force at 3.2.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/d)

@@ -44,7 +44,7 @@ summary: ''
 
 insert “ (or another intermediate borrowing company) ”.
 
-(5)[^key-a69444b50d884aceeba62c00988f9674] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a69444b50d884aceeba62c00988f9674] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The amendments in this section shall be deemed always to have had effect, subject as follows.
 
@@ -61,4 +61,4 @@ may elect to be taxed as if the amendments in subsection (3) had not been made.
 
 ## Annotations
 
-[^key-a69444b50d884aceeba62c00988f9674]: Textual amendment: [S. 101(5)](https://www.legislation.gov.uk/ukpga/2006/25/section/101/5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-a69444b50d884aceeba62c00988f9674]: Textual amendment: [S. 101(5)](https://www.legislation.gov.uk/ukpga/2006/25/section/101/5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

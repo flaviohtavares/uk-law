@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Amendments to the Reciprocal Enforcement of Maintenance Orders (Republic of Ireland) Order 1993[^key-a859a9451cb88035657a0596768ac6f3]
+## 45. Amendments to the Reciprocal Enforcement of Maintenance Orders (Republic of Ireland) Order 1993[^c-a859a9451cb88035657a0596768ac6f3]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Insofar as it remains in force for the purposes specified in paragraph 28(1) and
 
 ## Annotations
 
-[^key-a859a9451cb88035657a0596768ac6f3]: Commencement: Art. 45 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-a859a9451cb88035657a0596768ac6f3]: Commencement: Art. 45 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00014]: Footnote: [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
 

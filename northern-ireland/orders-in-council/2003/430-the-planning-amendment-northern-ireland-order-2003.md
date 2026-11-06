@@ -56,67 +56,67 @@ The Planning (Amendment) (Northern Ireland) Order 2003
 
 ## New enforcement powers
 
-### 3. Planning contravention notices[^key-e8d9c74a818f15a145406715cccd7f97]
+### 3. Planning contravention notices[^c-e8d9c74a818f15a145406715cccd7f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Enforcement of conditions[^key-e8d9c74a818f15a145406715cccd7f97]
+### 4. Enforcement of conditions[^c-e8d9c74a818f15a145406715cccd7f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Injunctions[^key-e8d9c74a818f15a145406715cccd7f97]
+### 5. Injunctions[^c-e8d9c74a818f15a145406715cccd7f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Other changes relating to enforcement
 
-### 6. Time limits on enforcement action[^key-e8d9c74a818f15a145406715cccd7f97]
+### 6. Time limits on enforcement action[^c-e8d9c74a818f15a145406715cccd7f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Enforcement notices[^key-e8d9c74a818f15a145406715cccd7f97]
+### 7. Enforcement notices[^c-e8d9c74a818f15a145406715cccd7f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Appeal against enforcement notice[^key-e8d9c74a818f15a145406715cccd7f97]
+### 8. Appeal against enforcement notice[^c-e8d9c74a818f15a145406715cccd7f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Offence where enforcement notice not complied with[^key-e8d9c74a818f15a145406715cccd7f97]
+### 9. Offence where enforcement notice not complied with[^c-e8d9c74a818f15a145406715cccd7f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Execution of works required by enforcement notice[^key-e8d9c74a818f15a145406715cccd7f97]
+### 10. Execution of works required by enforcement notice[^c-e8d9c74a818f15a145406715cccd7f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Stop notices[^key-e8d9c74a818f15a145406715cccd7f97]
+### 11. Stop notices[^c-e8d9c74a818f15a145406715cccd7f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Certificate of lawful use or development[^key-e8d9c74a818f15a145406715cccd7f97]
+### 12. Certificate of lawful use or development[^c-e8d9c74a818f15a145406715cccd7f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Rights of entry for enforcement purposes[^key-e8d9c74a818f15a145406715cccd7f97]
+### 13. Rights of entry for enforcement purposes[^c-e8d9c74a818f15a145406715cccd7f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Listed buildings[^key-e8d9c74a818f15a145406715cccd7f97]
+### 14. Listed buildings[^c-e8d9c74a818f15a145406715cccd7f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Hazardous substances[^key-e8d9c74a818f15a145406715cccd7f97]
+### 15. Hazardous substances[^c-e8d9c74a818f15a145406715cccd7f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Replacement of trees[^key-e8d9c74a818f15a145406715cccd7f97]
+### 16. Replacement of trees[^c-e8d9c74a818f15a145406715cccd7f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 17. Alteration in penalties
 
-(1)[^key-82d31e316814d8ad58a78208693956fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-82d31e316814d8ad58a78208693956fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In paragraph (3) of Article 122 of the principal Order (powers of entry) for the words from “on summary conviction” to the end there is substituted
 
@@ -138,41 +138,41 @@ The Planning (Amendment) (Northern Ireland) Order 2003
 
 ## Control over development
 
-### 18. Demolition[^key-29a42ea97957b88468eaacb9e2ac5014]
+### 18. Demolition[^c-29a42ea97957b88468eaacb9e2ac5014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Reversion to previous lawful use[^key-29a42ea97957b88468eaacb9e2ac5014]
+### 19. Reversion to previous lawful use[^c-29a42ea97957b88468eaacb9e2ac5014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Power of Department to decline to determine applications[^key-29a42ea97957b88468eaacb9e2ac5014]
+### 20. Power of Department to decline to determine applications[^c-29a42ea97957b88468eaacb9e2ac5014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Assessment of environmental effects[^key-29a42ea97957b88468eaacb9e2ac5014]
+### 21. Assessment of environmental effects[^c-29a42ea97957b88468eaacb9e2ac5014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Dismissal of appeals in cases of undue delay[^key-29a42ea97957b88468eaacb9e2ac5014]
+### 22. Dismissal of appeals in cases of undue delay[^c-29a42ea97957b88468eaacb9e2ac5014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Planning agreements[^key-29a42ea97957b88468eaacb9e2ac5014]
+### 23. Planning agreements[^c-29a42ea97957b88468eaacb9e2ac5014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Control over particular matters
 
-### 24. Advertisements[^key-29a42ea97957b88468eaacb9e2ac5014]
+### 24. Advertisements[^c-29a42ea97957b88468eaacb9e2ac5014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Building preservation notices[^key-29a42ea97957b88468eaacb9e2ac5014]
+### 25. Building preservation notices[^c-29a42ea97957b88468eaacb9e2ac5014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Trees[^key-29a42ea97957b88468eaacb9e2ac5014]
+### 26. Trees[^c-29a42ea97957b88468eaacb9e2ac5014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -182,13 +182,13 @@ The Planning (Amendment) (Northern Ireland) Order 2003
 
 In each of the following provisions of the principal Order —
 
-- (a)[^key-29a42ea97957b88468eaacb9e2ac5014] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-29a42ea97957b88468eaacb9e2ac5014] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) Article 4(1A) (development plan for an area to be consistent with the regional development strategy); and
-- (c)[^key-29a42ea97957b88468eaacb9e2ac5014] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-29a42ea97957b88468eaacb9e2ac5014] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 for the words “consistent with” there is substituted “ in general conformity with ”.
 
-### 28. Development plans: statement as to general conformity with the regional development strategy[^key-6a5e061568db7e9195f4b24bea8d8e2c]
+### 28. Development plans: statement as to general conformity with the regional development strategy[^c-6a5e061568db7e9195f4b24bea8d8e2c]
 
 (1) The following provisions of this Article apply where the Department of the Environment proposes to make, alter or replace a development plan for an area under Part III of the principal Order; and references in those provisions to Articles are to Articles in that Part.
 
@@ -225,13 +225,13 @@ for the words “consistent with” there is substituted “ in general conformi
 - (b) where the Department proposes to alter a current development plan, the current plan as proposed to be altered;
 - (c) where the Department proposes to replace a current development plan, the plan proposed to replace the current plan.
 
-### 29. Regional development strategy: transitional arrangements for certain development plans[^key-29a42ea97957b88468eaacb9e2ac5014]
+### 29. Regional development strategy: transitional arrangements for certain development plans[^c-29a42ea97957b88468eaacb9e2ac5014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Miscellaneous
 
-### 30. Status of development plans[^key-29a42ea97957b88468eaacb9e2ac5014]
+### 30. Status of development plans[^c-29a42ea97957b88468eaacb9e2ac5014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -248,19 +248,19 @@ After Article 91 of the principal Order (development of land held for planning p
 
 .
 
-### 32. Planning Appeals Commission[^key-b07193c653f9289e3a35f936964a0920]
+### 32. Planning Appeals Commission[^c-b07193c653f9289e3a35f936964a0920]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Grants for research and bursaries[^key-b07193c653f9289e3a35f936964a0920]
+### 33. Grants for research and bursaries[^c-b07193c653f9289e3a35f936964a0920]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Grants to bodies providing assistance in relation to certain development proposals[^key-b07193c653f9289e3a35f936964a0920]
+### 34. Grants to bodies providing assistance in relation to certain development proposals[^c-b07193c653f9289e3a35f936964a0920]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Planning register[^key-b07193c653f9289e3a35f936964a0920]
+### 35. Planning register[^c-b07193c653f9289e3a35f936964a0920]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -285,12 +285,12 @@ In Article 30 of the Land Acquisition and Compensation (Northern Ireland) Order 
 
 [^c17102491]: Textual amendment: partly exercised by SR 2003/188, 443, SR 2004/489, SR 2005/352
 
-[^key-e8d9c74a818f15a145406715cccd7f97]: Textual amendment: [Arts. 3-16](https://www.legislation.gov.uk/nisi/2003/430/article/3) repealed (1.4.2015) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-e8d9c74a818f15a145406715cccd7f97]: Textual amendment: [Arts. 3-16](https://www.legislation.gov.uk/nisi/2003/430/article/3) repealed (1.4.2015) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
-[^key-82d31e316814d8ad58a78208693956fd]: Textual amendment: [Art. 17(1)](https://www.legislation.gov.uk/nisi/2003/430/article/17/1) repealed (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-82d31e316814d8ad58a78208693956fd]: Textual amendment: [Art. 17(1)](https://www.legislation.gov.uk/nisi/2003/430/article/17/1) repealed (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
-[^key-29a42ea97957b88468eaacb9e2ac5014]: Textual amendment: [Arts. 18-30](https://www.legislation.gov.uk/nisi/2003/430/article/18) repealed (1.4.2015 except for the repeal of arts. 27(b), 28) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-29a42ea97957b88468eaacb9e2ac5014]: Textual amendment: [Arts. 18-30](https://www.legislation.gov.uk/nisi/2003/430/article/18) repealed (1.4.2015 except for the repeal of arts. 27(b), 28) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
-[^key-6a5e061568db7e9195f4b24bea8d8e2c]: Modification: [Art. 28](https://www.legislation.gov.uk/nisi/2003/430/article/28): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-6a5e061568db7e9195f4b24bea8d8e2c]: Modification: [Art. 28](https://www.legislation.gov.uk/nisi/2003/430/article/28): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-b07193c653f9289e3a35f936964a0920]: Textual amendment: [Arts. 32-35](https://www.legislation.gov.uk/nisi/2003/430/article/32) repealed (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-b07193c653f9289e3a35f936964a0920]: Textual amendment: [Arts. 32-35](https://www.legislation.gov.uk/nisi/2003/430/article/32) repealed (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

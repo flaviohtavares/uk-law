@@ -43,7 +43,7 @@ summary: ''
 > - (b) to omit from such a list, or
 > - (c) to move from one category in such a list to the other.
 
-(2)[^key-5ecdc0e97e3cc4da6d9d99de59fcae23] In subsection (3)(b) of that section, the words “by the Commission” and “by them” shall be omitted.
+(2)[^c-5ecdc0e97e3cc4da6d9d99de59fcae23] In subsection (3)(b) of that section, the words “by the Commission” and “by them” shall be omitted.
 
 **No longer in force (ended 2004-06-30).**
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ecdc0e97e3cc4da6d9d99de59fcae23]: Commencement: S. 299(2) in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5ecdc0e97e3cc4da6d9d99de59fcae23]: Commencement: S. 299(2) in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

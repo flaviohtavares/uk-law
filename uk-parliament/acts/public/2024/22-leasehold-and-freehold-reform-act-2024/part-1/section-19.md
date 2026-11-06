@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Financial penalties: cross-border enforcement[^key-e25dbbe7348c5fed5e2ac059371402a6]
+## 19. Financial penalties: cross-border enforcement[^c-e25dbbe7348c5fed5e2ac059371402a6]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e25dbbe7348c5fed5e2ac059371402a6]: Commencement: S. 19 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-e25dbbe7348c5fed5e2ac059371402a6]: Commencement: S. 19 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

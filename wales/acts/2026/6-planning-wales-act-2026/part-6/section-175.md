@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 175. Assuming liability[^key-24527919f5f6c79fe14faba421527c39]
+## 175. Assuming liability[^c-24527919f5f6c79fe14faba421527c39]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24527919f5f6c79fe14faba421527c39]: Commencement: S. 175 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-24527919f5f6c79fe14faba421527c39]: Commencement: S. 175 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

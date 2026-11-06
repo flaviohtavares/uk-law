@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Extension to Wales, Scotland and Northern Ireland[^key-1869403f56bb29f5139cefdee7c563fc]
+## 73. Extension to Wales, Scotland and Northern Ireland[^c-1869403f56bb29f5139cefdee7c563fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1869403f56bb29f5139cefdee7c563fc]: Commencement: S. 73 in force at 1.1.2018 by [S.I. 2017/1210](https://www.legislation.gov.uk/uksi/2017/1210), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1210/regulation/2)
+[^c-1869403f56bb29f5139cefdee7c563fc]: Commencement: S. 73 in force at 1.1.2018 by [S.I. 2017/1210](https://www.legislation.gov.uk/uksi/2017/1210), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1210/regulation/2)

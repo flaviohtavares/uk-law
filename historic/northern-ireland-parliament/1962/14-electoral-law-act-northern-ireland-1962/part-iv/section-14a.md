@@ -22,11 +22,11 @@ summary: ''
 
 (1) [^c18656861]The Chief Electoral Officer, with the approval of the Ministry of Finance[^c18656871] as to numbers and conditions of service, may appoint such persons, in additon to the persons specified in Article 9(2) of the Electoral Law (Northern Ireland) Order 1972 [^m00003], to assist him as may be agreed between him and the Ministry.
 
-(2)[^key-c47baacfab01b61dc851189661d29f17] Without in any way diminishing his responsibility and without prejudice to Rule 30 of Schedule 4 and rule 23 of the local elections rules[^c18656881], the Chief Electoral Officer may delegate any of his functions to persons appointed under subsection (1) or specified in Article 9(2) of the Electoral Law (Northern Ireland) Order 1972 and such persons may, under the supervision of the Chief Electoral Officer, perform those functions on behalf of the Chief Electoral Officer.
+(2)[^c-c47baacfab01b61dc851189661d29f17] Without in any way diminishing his responsibility and without prejudice to Rule 30 of Schedule 4 and rule 23 of the local elections rules[^c18656881], the Chief Electoral Officer may delegate any of his functions to persons appointed under subsection (1) or specified in Article 9(2) of the Electoral Law (Northern Ireland) Order 1972 and such persons may, under the supervision of the Chief Electoral Officer, perform those functions on behalf of the Chief Electoral Officer.
 
 (2A)[^c21915601] The Chief Electoral Officer may give persons specified in Article 9(2) of the Electoral Law (Northern Ireland) Order 1972 directions about the discharge of functions under the Local Elections Rules which have been delegated to them pursuant to subsection (2).
 
-(3)[^key-c47baacfab01b61dc851189661d29f17] It shall be a duty of an officer of a district council to perform such functions as the Chief Electoral Officer may, with the approval of the Ministry of Development[^c18656901], appoint him to perform.
+(3)[^c-c47baacfab01b61dc851189661d29f17] It shall be a duty of an officer of a district council to perform such functions as the Chief Electoral Officer may, with the approval of the Ministry of Development[^c18656901], appoint him to perform.
 
 (4) There may be paid,[^c18656911]. . . , to persons appointed under subsection (1) such remuneration and to, or in respect of the service of, such persons such pensions, allowances and gratuities by way of superannuation and to or in respect of persons appointed under subsection (3) such sums as the Ministry, with the approval of the Ministry of Finance[^c18656871], may determine.\]
 
@@ -40,7 +40,7 @@ summary: ''
 
 [^m00003]: Marginal citation: 1972 NI 13
 
-[^key-c47baacfab01b61dc851189661d29f17]: Modification: [S. 14A(2)](https://www.legislation.gov.uk/apni/1962/14/section/14A/2)[(3)](https://www.legislation.gov.uk/apni/1962/14/section/14A/3) modified (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/1/paragraph/2/5); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-c47baacfab01b61dc851189661d29f17]: Modification: [S. 14A(2)](https://www.legislation.gov.uk/apni/1962/14/section/14A/2)[(3)](https://www.legislation.gov.uk/apni/1962/14/section/14A/3) modified (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/1/paragraph/2/5); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
 [^c18656881]: Textual amendment: SI 1985/454
 

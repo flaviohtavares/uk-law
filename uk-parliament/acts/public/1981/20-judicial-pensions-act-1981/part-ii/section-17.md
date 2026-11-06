@@ -29,7 +29,7 @@ summary: ''
 
 whichever is the greater.
 
-(2A)[^key-6da0a30eb34832b0123f97d55f3b91c9] Subsection (2) does not apply where, at the date of the person’s death—
+(2A)[^c-6da0a30eb34832b0123f97d55f3b91c9] Subsection (2) does not apply where, at the date of the person’s death—
 
 - (a) the person is a member of a scheme under section 1 of the Public Service Pensions Act 2013, and
 - (b) a lump sum is payable under that scheme on the person’s death.
@@ -42,6 +42,6 @@ whichever is the greater.
 
 [^c10348171]: Modification: S. 17 (except subsections (2)(*b*) and (3)) extended by [S.I. 1988/1418](https://www.legislation.gov.uk/uksi/1988/1418), [arts. 3](https://www.legislation.gov.uk/uksi/1988/1418/article/3), [6](https://www.legislation.gov.uk/uksi/1988/1418/article/6) and by S.R. (N.I.) 1988/293, art. 6 Table
 
-[^key-6da0a30eb34832b0123f97d55f3b91c9]: Textual amendment: S. 17(2A) inserted (1.4.2015) by [The Judicial Pensions Regulations 2015 (S.I. 2015/182)](https://www.legislation.gov.uk/uksi/2015/182), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4), [Sch. 3 para. 13(2)](https://www.legislation.gov.uk/uksi/2015/182/schedule/3/paragraph/13/2) (with [regs. 148](https://www.legislation.gov.uk/uksi/2015/182/regulation/148), [160](https://www.legislation.gov.uk/uksi/2015/182/regulation/160))
+[^c-6da0a30eb34832b0123f97d55f3b91c9]: Textual amendment: S. 17(2A) inserted (1.4.2015) by [The Judicial Pensions Regulations 2015 (S.I. 2015/182)](https://www.legislation.gov.uk/uksi/2015/182), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4), [Sch. 3 para. 13(2)](https://www.legislation.gov.uk/uksi/2015/182/schedule/3/paragraph/13/2) (with [regs. 148](https://www.legislation.gov.uk/uksi/2015/182/regulation/148), [160](https://www.legislation.gov.uk/uksi/2015/182/regulation/160))
 
 [^c10348181]: Textual amendment: Word in s. 17(4) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2), [15](https://www.legislation.gov.uk/ukpga/1998/8/section/15), [16(3)(b)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/3/b), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1998/8/schedule/1/paragraph/5); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)

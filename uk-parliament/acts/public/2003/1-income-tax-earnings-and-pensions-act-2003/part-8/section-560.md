@@ -29,7 +29,7 @@ summary: ''
 - (c) the payment of costs or expenses incurred—
   - (i) in connection with a claim that a person is subject to a liability to which the insurance relates, or
   - (ii) in connection with any proceedings relating to or arising out of a claim that a person is subject to a liability to which the insurance relates,
-- (ca)[^key-7760611dcd7e3b8f6658e66fa35f0831] the payment of costs or expenses incurred in connection with a former employee giving evidence about matters related to the former employment in, or for the purposes of—
+- (ca)[^c-7760611dcd7e3b8f6658e66fa35f0831] the payment of costs or expenses incurred in connection with a former employee giving evidence about matters related to the former employment in, or for the purposes of—
   - (i) a proceeding or other process (whether or not involving the former employee), or
   - (ii) an investigation (whether or not likely to lead to any proceeding or other process involving the former employee).
 - (cb) the payment of any costs or expenses incurred in connection with a proceeding or other process, or an investigation, in which—
@@ -39,7 +39,7 @@ summary: ''
   are being or are likely to be considered,
 - (d) the indemnification of an employer against loss from a payment made by the employer to a former employee in respect of—
   - (i) a liability related to the former employment, or
-  - (ii) any costs or expenses incurred as mentioned in paragraph (c) , (ca) or (cb)[^key-96da4ac24537b6c65117b91fa0b006d0] .
+  - (ii) any costs or expenses incurred as mentioned in paragraph (c) , (ca) or (cb)[^c-96da4ac24537b6c65117b91fa0b006d0] .
 
 (3) Condition B is that—
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7760611dcd7e3b8f6658e66fa35f0831]: Textual amendment: [S. 560(2)(ca)](https://www.legislation.gov.uk/ukpga/2003/1/section/560/2/ca)[(cb)](https://www.legislation.gov.uk/ukpga/2003/1/section/560/2/cb) inserted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(7)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/7/a)
+[^c-7760611dcd7e3b8f6658e66fa35f0831]: Textual amendment: [S. 560(2)(ca)](https://www.legislation.gov.uk/ukpga/2003/1/section/560/2/ca)[(cb)](https://www.legislation.gov.uk/ukpga/2003/1/section/560/2/cb) inserted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(7)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/7/a)
 
-[^key-96da4ac24537b6c65117b91fa0b006d0]: Textual amendment: Words in [s. 560(2)(d)](https://www.legislation.gov.uk/ukpga/2003/1/section/560/2/d) inserted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(7)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/7/b)
+[^c-96da4ac24537b6c65117b91fa0b006d0]: Textual amendment: Words in [s. 560(2)(d)](https://www.legislation.gov.uk/ukpga/2003/1/section/560/2/d) inserted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(7)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/7/b)

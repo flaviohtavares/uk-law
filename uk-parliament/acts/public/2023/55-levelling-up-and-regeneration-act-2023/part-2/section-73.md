@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Power to transfer etc public authority functions to certain local authorities[^key-58869858f0da81224c7dda9bfb490b84]
+## 73. Power to transfer etc public authority functions to certain local authorities[^c-58869858f0da81224c7dda9bfb490b84]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In section 17 of the Cities and Local Government Devolution Act 2016 (procedure 
 
 ## Annotations
 
-[^key-58869858f0da81224c7dda9bfb490b84]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2023/55/section/73) in force at 26.12.2023, see [s. 255(2)(l)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/l)
+[^c-58869858f0da81224c7dda9bfb490b84]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2023/55/section/73) in force at 26.12.2023, see [s. 255(2)(l)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/l)

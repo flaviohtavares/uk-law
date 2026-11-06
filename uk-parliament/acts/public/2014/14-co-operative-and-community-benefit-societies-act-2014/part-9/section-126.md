@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Dissolution etc to occur only after society's property dealt with[^key-6317d47887939f5ff5f6a54e31e05dbc]
+## 126. Dissolution etc to occur only after society's property dealt with[^c-6317d47887939f5ff5f6a54e31e05dbc]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6317d47887939f5ff5f6a54e31e05dbc]: Modification: S. 126 modified by S.I. 2014/229 art. 15 (as substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [4](https://www.legislation.gov.uk/uksi/2014/1822/article/4))
+[^c-6317d47887939f5ff5f6a54e31e05dbc]: Modification: S. 126 modified by S.I. 2014/229 art. 15 (as substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [4](https://www.legislation.gov.uk/uksi/2014/1822/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Exclusion of certain investment firms from the Capital Requirements Regulation[^key-b7f98356b3d59e652eb9736247904c5b]
+## 1. Exclusion of certain investment firms from the Capital Requirements Regulation[^c-b7f98356b3d59e652eb9736247904c5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7f98356b3d59e652eb9736247904c5b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/22/section/1) in force at 1.1.2022 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/1/a) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/2)) (as amended by S.I. 2021/1163, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1163/regulation/2))
+[^c-b7f98356b3d59e652eb9736247904c5b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/22/section/1) in force at 1.1.2022 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/1/a) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/2)) (as amended by S.I. 2021/1163, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1163/regulation/2))

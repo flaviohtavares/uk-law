@@ -43,11 +43,11 @@ Coming into operation
 
 The Fisheries Conservancy Board for Northern Ireland, in exercise of the powers conferred on it by sections 26(1) and 37(1) of the Fisheries Act (Northern Ireland) 1966[^f00001] and of every other power enabling it in that behalf, with the approval of the Department of Culture, Arts and Leisure[^f00002], hereby makes the following Byelaws:
 
-## 1. Citation and commencement[^key-bd3d805584d4121d835807e2535709d0]
+## 1. Citation and commencement[^c-bd3d805584d4121d835807e2535709d0]
 
 These Byelaws may be cited as the Fisheries (Tagging and Logbook) Byelaws (Northern Ireland) 2001 and shall come into operation on 3rd September 2001.
 
-## 2. Interpretation[^key-1328c2ec64e2213921ba68ec492e66cb]
+## 2. Interpretation[^c-1328c2ec64e2213921ba68ec492e66cb]
 
 In these Byelaws—
 
@@ -88,7 +88,7 @@ In these Byelaws—
 - “wild salmon” means an Atlantic salmon *salmo salar* which is not a farmed salmon; and
 - “wild sea trout” means a sea trout *salmo truta* over 50cms in length which is not a farmed sea trout.
 
-## 3. Tagging of wild salmon and sea trout[^key-6f5f958e3a47b6b487ae378f4181bf8d]
+## 3. Tagging of wild salmon and sea trout[^c-6f5f958e3a47b6b487ae378f4181bf8d]
 
 (1) Any person, who is licensed pursuant to byelaws made under the Act to use a fishing engine to fish for wild salmon or sea trout who captures and retains a wild salmon or sea trout, shall, in the manner set out in paragraphs (2) and (3), affix or cause to be affixed to it an appropriate gill tag.
 
@@ -116,7 +116,7 @@ and which, in each case, meets the requirements set out in paragraph (5).
 - (d) the gill tag shall not be damaged or altered in any respect; and
 - (e) the details marked on the gill tag shall be legible.
 
-## 4. Issue of gill tags to holders of fishing licences[^key-c465cbff4646d79c9f2b1642d264c2e6]
+## 4. Issue of gill tags to holders of fishing licences[^c-c465cbff4646d79c9f2b1642d264c2e6]
 
 (1) Any person holding a game fishing rod licence shall be issued by the distributor with a sufficient number of gill tags to enable him to comply with these Byelaws.
 
@@ -124,7 +124,7 @@ and which, in each case, meets the requirements set out in paragraph (5).
 
 (3) In this Byelaw “the distributor” means the Board or authorised agent through whom the fishing licence was issued.
 
-## 5. Prohibitions[^key-e53065fc93f146cf369ead2f1121cb25]
+## 5. Prohibitions[^c-e53065fc93f146cf369ead2f1121cb25]
 
 (1) Subject to the provisions of these Byelaws, a person shall not—
 
@@ -147,18 +147,18 @@ and which, in each case, meets the requirements set out in paragraph (5).
 
 (6) Paragraph (1)(*d*) shall not apply where a wild salmon or sea trout has been captured by a drift net until the wild salmon or sea trout has been removed from the boat on which it has been caught.
 
-## 6. Issue and return of logbooks[^key-ce28b51fbdbd27c2c4b01851d89bcf27]
+## 6. Issue and return of logbooks[^c-ce28b51fbdbd27c2c4b01851d89bcf27]
 
 (1) The Board shall issue a salmon and sea trout commercial fishing logbook to the holder of a fishing licence other than a game fishing rod licence.
 
 (2) A salmon and sea trout commercial fishing logbook shall relate to one fishing licence only.
 
-**7.**[^key-719fd181bf6c506c1c34daa9a21077bd] The Board or an authorised agent shall issue—
+**7.**[^c-719fd181bf6c506c1c34daa9a21077bd] The Board or an authorised agent shall issue—
 
 - (a) a salmon and sea trout angling logbook to the holder of a game fishing rod licence other than a one day game fishing rod licence;
 - (b) a one day angling logbook to the holder of a one day game fishing rod licence.
 
-**8.**[^key-a957927bca70c49a22cf21b8ca6cc36b] (1) The holder of a logbook shall have the logbook in his possession when fishing for salmon or sea trout under the authority of the fishing licence to which the logbook relates.
+**8.**[^c-a957927bca70c49a22cf21b8ca6cc36b] (1) The holder of a logbook shall have the logbook in his possession when fishing for salmon or sea trout under the authority of the fishing licence to which the logbook relates.
 
 (2) The holder of a logbook shall, upon the request of an authorised person, produce the logbook for examination by the authorised person.
 
@@ -170,7 +170,7 @@ and which, in each case, meets the requirements set out in paragraph (5).
 
 (6) Where the person who issued a logbook is satisfied that it has been lost or destroyed, he shall replace it.
 
-## 9. Authorised agents[^key-f4da671746170a55e3d50014c2e9ff6f]
+## 9. Authorised agents[^c-f4da671746170a55e3d50014c2e9ff6f]
 
 (1) An authorised agent shall—
 
@@ -187,7 +187,7 @@ and which, in each case, meets the requirements set out in paragraph (5).
 
 at such place and reasonable time as may be specified in the notice and the authorised agent shall comply with any such notice.
 
-## 10. Dealers[^key-347b600091e47056348aa956295b5920]
+## 10. Dealers[^c-347b600091e47056348aa956295b5920]
 
 (1) Subject to paragraph (2) where at any time during the period beginning with the date of the coming into operation of these Byelaws and ending 21 days thereafter a dealer has any wild salmon or sea trout in his possession to which a tag has not been affixed, he shall affix a tail tag to that salmon or sea trout by attaching it around the tail of the fish and fully securing it using the locking mechanism in such a manner as to ensure that the tag remains fixed to the fish.
 
@@ -197,7 +197,7 @@ at such place and reasonable time as may be specified in the notice and the auth
 
 (4) Any tag removed from a wild salmon or sea trout by or on behalf of a dealer during preparation of the fish for cooking, processing or smoking shall be retained by the dealer for a period of three months from the date of removal and shall be made available for inspection by an officer of the Board at any time during that period.
 
-## 11. Transitional provision[^key-ea16ccfd5182b984c57413d6a9c04039]
+## 11. Transitional provision[^c-ea16ccfd5182b984c57413d6a9c04039]
 
 Byelaw 5(1)(*c*) and (*d*) shall not apply to any person other than a dealer in respect of any wild salmon or sea trout which has been lawfully captured and retained before the coming into operation of these Byelaws.
 
@@ -221,25 +221,25 @@ A senior officer of the
 
 Department of Culture, Arts and Leisure
 
-## SCHEDULE 1 — One Day Angling Logbook[^key-8ba1febd33df6d9ab52e8514539ee5a1]
+## SCHEDULE 1 — One Day Angling Logbook[^c-8ba1febd33df6d9ab52e8514539ee5a1]
 
 Byelaws 2 and 9
 
 [image: see source](https://www.legislation.gov.uk/nisr/2001/291/images/nisr_20010291_en_001)
 
-## SCHEDULE 2 — Issues Register[^key-a96bbf637259fcdc090f99e15c7617ac]
+## SCHEDULE 2 — Issues Register[^c-a96bbf637259fcdc090f99e15c7617ac]
 
 Byelaws 2 and 9
 
 [image: see source](https://www.legislation.gov.uk/nisr/2001/291/images/nisr_20010291_en_002)
 
-## SCHEDULE 3 — Salmon and Sea Trout Angling Logbook[^key-af4473e16ea22ce3548dca2623da9c7f]
+## SCHEDULE 3 — Salmon and Sea Trout Angling Logbook[^c-af4473e16ea22ce3548dca2623da9c7f]
 
 Byelaws 2 and 9
 
 [image: see source](https://www.legislation.gov.uk/nisr/2001/291/images/nisr_20010291_en_003) [image: see source](https://www.legislation.gov.uk/nisr/2001/291/images/nisr_20010291_en_004)
 
-## SCHEDULE 4 — Salmon and Sea Trout Commercial Fishing Logbook[^key-99d5bc8dcf9999f503f636eeec180b34]
+## SCHEDULE 4 — Salmon and Sea Trout Commercial Fishing Logbook[^c-99d5bc8dcf9999f503f636eeec180b34]
 
 Byelaw 2
 
@@ -269,9 +269,9 @@ These Byelaws—
 
 [^f00002]: Footnote: Functions transferred by virtue of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Article 3 and Schedule 1
 
-[^key-bd3d805584d4121d835807e2535709d0]: Commencement: S. 1 in operation at 3.9.2001, see byelaw 1
+[^c-bd3d805584d4121d835807e2535709d0]: Commencement: S. 1 in operation at 3.9.2001, see byelaw 1
 
-[^key-1328c2ec64e2213921ba68ec492e66cb]: Commencement: S. 2 in operation at 3.9.2001, see byelaw 1
+[^c-1328c2ec64e2213921ba68ec492e66cb]: Commencement: S. 2 in operation at 3.9.2001, see byelaw 1
 
 [^f00003]: Footnote: [1968 c. 77](https://www.legislation.gov.uk/ukpga/1968/77)
 
@@ -281,28 +281,28 @@ These Byelaws—
 
 [^f00006]: Footnote: Section 166(1) was amended by the Fisheries (Amendment) (Northern Ireland) Order 1981 ([S.I. 1981/227 (N.I. 7)](https://www.legislation.gov.uk/nisi/1981/227)), Article 10(4) and Schedule 5 and by the Fisheries (Amendment) (Northern Ireland) Order 1991, Article 35(1) and Schedule 3, paragraph 8
 
-[^key-6f5f958e3a47b6b487ae378f4181bf8d]: Commencement: S. 3 in operation at 3.9.2001, see byelaw 1
+[^c-6f5f958e3a47b6b487ae378f4181bf8d]: Commencement: S. 3 in operation at 3.9.2001, see byelaw 1
 
-[^key-c465cbff4646d79c9f2b1642d264c2e6]: Commencement: S. 4 in operation at 3.9.2001, see byelaw 1
+[^c-c465cbff4646d79c9f2b1642d264c2e6]: Commencement: S. 4 in operation at 3.9.2001, see byelaw 1
 
-[^key-e53065fc93f146cf369ead2f1121cb25]: Commencement: S. 5 in operation at 3.9.2001, see byelaw 1
+[^c-e53065fc93f146cf369ead2f1121cb25]: Commencement: S. 5 in operation at 3.9.2001, see byelaw 1
 
-[^key-ce28b51fbdbd27c2c4b01851d89bcf27]: Commencement: S. 6 in operation at 3.9.2001, see byelaw 1
+[^c-ce28b51fbdbd27c2c4b01851d89bcf27]: Commencement: S. 6 in operation at 3.9.2001, see byelaw 1
 
-[^key-719fd181bf6c506c1c34daa9a21077bd]: Commencement: S. 7 in operation at 3.9.2001, see byelaw 1
+[^c-719fd181bf6c506c1c34daa9a21077bd]: Commencement: S. 7 in operation at 3.9.2001, see byelaw 1
 
-[^key-a957927bca70c49a22cf21b8ca6cc36b]: Commencement: S. 8 in operation at 3.9.2001, see byelaw 1
+[^c-a957927bca70c49a22cf21b8ca6cc36b]: Commencement: S. 8 in operation at 3.9.2001, see byelaw 1
 
-[^key-f4da671746170a55e3d50014c2e9ff6f]: Commencement: S. 9 in operation at 3.9.2001, see byelaw 1
+[^c-f4da671746170a55e3d50014c2e9ff6f]: Commencement: S. 9 in operation at 3.9.2001, see byelaw 1
 
-[^key-347b600091e47056348aa956295b5920]: Commencement: S. 10 in operation at 3.9.2001, see byelaw 1
+[^c-347b600091e47056348aa956295b5920]: Commencement: S. 10 in operation at 3.9.2001, see byelaw 1
 
-[^key-ea16ccfd5182b984c57413d6a9c04039]: Commencement: S. 11 in operation at 3.9.2001, see byelaw 1
+[^c-ea16ccfd5182b984c57413d6a9c04039]: Commencement: S. 11 in operation at 3.9.2001, see byelaw 1
 
-[^key-8ba1febd33df6d9ab52e8514539ee5a1]: Commencement: Sch. 1 in operation at 3.9.2001, see byelaw 1
+[^c-8ba1febd33df6d9ab52e8514539ee5a1]: Commencement: Sch. 1 in operation at 3.9.2001, see byelaw 1
 
-[^key-a96bbf637259fcdc090f99e15c7617ac]: Commencement: Sch. 2 in operation at 3.9.2001, see byelaw 1
+[^c-a96bbf637259fcdc090f99e15c7617ac]: Commencement: Sch. 2 in operation at 3.9.2001, see byelaw 1
 
-[^key-af4473e16ea22ce3548dca2623da9c7f]: Commencement: Sch. 3 in operation at 3.9.2001, see byelaw 1
+[^c-af4473e16ea22ce3548dca2623da9c7f]: Commencement: Sch. 3 in operation at 3.9.2001, see byelaw 1
 
-[^key-99d5bc8dcf9999f503f636eeec180b34]: Commencement: Sch. 4 in operation at 3.9.2001, see byelaw 1
+[^c-99d5bc8dcf9999f503f636eeec180b34]: Commencement: Sch. 4 in operation at 3.9.2001, see byelaw 1

@@ -36,7 +36,7 @@ summary: ''
 - (a) medical devices intended for use in a medical environment;
 - (b) equipment and protective systems where the explosion hazard results exclusively from the presence of explosive substances or unstable chemical substances;
 - (c) equipment intended for use in domestic and non-commercial environments where potentially explosive atmospheres may only rarely be created, solely as a result of the accidental leakage of fuel gas;
-- (d) personal protective equipment covered by Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive[^key-b03791a31e354949664a7ef3f71f7e81] [89/686/EEC](https://www.legislation.gov.uk/european/directive/1989/0686) ;
+- (d) personal protective equipment covered by Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive[^c-b03791a31e354949664a7ef3f71f7e81] [89/686/EEC](https://www.legislation.gov.uk/european/directive/1989/0686) ;
 - (e) seagoing vessels and mobile offshore units together with equipment on board such vessels or units;
 - (f) means of transport (other than vehicles intended for use in a potentially explosive atmosphere), including vehicles and their trailers intended solely for transporting passengers by air or by road, rail or water networks and means of transport in so far as such means are designed for transporting goods by air, by public road or rail networks or by water;
 - (g) the equipment covered by Article 346(1)(b) of the Treaty on the Functioning of the European Union; and
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b03791a31e354949664a7ef3f71f7e81]: Textual amendment: Words in [reg. 3(3)(d)](https://www.legislation.gov.uk/nisr/2017/90/regulation/3/3/d) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [3(5)](https://www.legislation.gov.uk/uksi/2023/861/regulation/3/5)
+[^c-b03791a31e354949664a7ef3f71f7e81]: Textual amendment: Words in [reg. 3(3)(d)](https://www.legislation.gov.uk/nisr/2017/90/regulation/3/3/d) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [3(5)](https://www.legislation.gov.uk/uksi/2023/861/regulation/3/5)

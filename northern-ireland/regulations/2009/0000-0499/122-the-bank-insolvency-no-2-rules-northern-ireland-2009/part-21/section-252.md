@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 252. Proof altered after payment of dividend[^key-4d64f23c7d4ebf0d1078e9a1d601a97b]
+## 252. Proof altered after payment of dividend[^c-4d64f23c7d4ebf0d1078e9a1d601a97b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 11.08 of the 1991 Rules.
 
 ## Annotations
 
-[^key-4d64f23c7d4ebf0d1078e9a1d601a97b]: Commencement: Rule 252 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-4d64f23c7d4ebf0d1078e9a1d601a97b]: Commencement: Rule 252 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Appointment of competent authority[^key-60b36a3434026b9e749cee6690851aa4]
+## 3. Appointment of competent authority[^c-60b36a3434026b9e749cee6690851aa4]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60b36a3434026b9e749cee6690851aa4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/508) revoked (31.12.2010) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/406)](https://www.legislation.gov.uk/nisr/2010/406), [regs. 1](https://www.legislation.gov.uk/nisr/2010/406/regulation/1), [22(a)](https://www.legislation.gov.uk/nisr/2010/406/regulation/22/a)
+[^c-60b36a3434026b9e749cee6690851aa4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/508) revoked (31.12.2010) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/406)](https://www.legislation.gov.uk/nisr/2010/406), [regs. 1](https://www.legislation.gov.uk/nisr/2010/406/regulation/1), [22(a)](https://www.legislation.gov.uk/nisr/2010/406/regulation/22/a)

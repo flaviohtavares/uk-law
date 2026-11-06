@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 443. Interest capacity for group with qualifying infrastructure company etc[^key-02eba6dfa8b994b0d1ad429b2f644a47]
+## 443. Interest capacity for group with qualifying infrastructure company etc[^c-02eba6dfa8b994b0d1ad429b2f644a47]
 
 *Extent: E+W+S+N.I.*
 
 (1) If a worldwide group for a period of account includes a qualifying infrastructure company at any time, the general rule is that the interest capacity of the group for the period is calculated as if section 392 did not contain the de minimis provisions.
 
-(2)[^key-fb41c013c637fa0ee9dd4dc9b94477b3] There is an exception to the general rule (see subsections (4) and (5)) which—
+(2)[^c-fb41c013c637fa0ee9dd4dc9b94477b3] There is an exception to the general rule (see subsections (4) and (5)) which—
 
 - (a) applies if no tax-interest income amounts of any qualifying infrastructure company (“Q”) which is a member of the group for the period are receivable from another qualifying infrastructure company which is not a member of the group for the period but is a related party of Q at any time in that period, and
 - (b) depends on the comparison set out in subsection (3),
@@ -46,6 +46,6 @@ and, for the purposes of paragraph (a), tax-interest income amounts are to be ig
 
 ## Annotations
 
-[^key-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
+[^c-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
 
-[^key-fb41c013c637fa0ee9dd4dc9b94477b3]: Textual amendment: S. 443(2) substituted (with effect in accordance with Sch. 8 para. 22 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/10)
+[^c-fb41c013c637fa0ee9dd4dc9b94477b3]: Textual amendment: S. 443(2) substituted (with effect in accordance with Sch. 8 para. 22 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/10)

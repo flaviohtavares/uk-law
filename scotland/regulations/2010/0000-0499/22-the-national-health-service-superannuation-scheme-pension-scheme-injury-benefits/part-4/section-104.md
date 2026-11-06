@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Amendment of the National Health Service (Scotland) (Injury Benefits) Regulations 1998[^key-3e1522bb6d67c66e16fcb9b3fe8c6733]
+## 104. Amendment of the National Health Service (Scotland) (Injury Benefits) Regulations 1998[^c-3e1522bb6d67c66e16fcb9b3fe8c6733]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e1522bb6d67c66e16fcb9b3fe8c6733]: Commencement: Reg. 104 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-3e1522bb6d67c66e16fcb9b3fe8c6733]: Commencement: Reg. 104 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 1998/1594](https://www.legislation.gov.uk/uksi/1998/1594) as amended by [S.I. 1999/195](https://www.legislation.gov.uk/uksi/1999/195) and [444](https://www.legislation.gov.uk/uksi/1999/444), [S.S.I. 2001/437](https://www.legislation.gov.uk/ssi/2001/437), [2004/212](https://www.legislation.gov.uk/ssi/2004/212), [2005/512](https://www.legislation.gov.uk/ssi/2005/512), [2008/92](https://www.legislation.gov.uk/ssi/2008/92) and [225](https://www.legislation.gov.uk/ssi/2008/225), [2009/19](https://www.legislation.gov.uk/ssi/2009/19) and [208](https://www.legislation.gov.uk/ssi/2009/208).

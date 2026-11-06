@@ -31,7 +31,7 @@ summary: ''
 
 PLANNING
 
-Planning (Conservation Areas) (Consultation) Regulations (Northern Ireland) 2006 (revoked)[^key-f46db1171b241f10e43c473ff15b06bc]
+Planning (Conservation Areas) (Consultation) Regulations (Northern Ireland) 2006 (revoked)[^c-f46db1171b241f10e43c473ff15b06bc]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 31st July 2006
 
-[^key-f46db1171b241f10e43c473ff15b06bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f46db1171b241f10e43c473ff15b06bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f46db1171b241f10e43c473ff15b06bc]
+## 1. Citation, commencement and interpretation[^c-f46db1171b241f10e43c473ff15b06bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Consultation[^key-f46db1171b241f10e43c473ff15b06bc]
+## 2. Consultation[^c-f46db1171b241f10e43c473ff15b06bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f46db1171b241f10e43c473ff15b06bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f46db1171b241f10e43c473ff15b06bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f46db1171b241f10e43c473ff15b06bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f46db1171b241f10e43c473ff15b06bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f46db1171b241f10e43c473ff15b06bc]: Textual amendment: Regulations revoked (15.4.2015) by [The Planning (Conservation Areas) (Consultation) Regulations (Northern Ireland) 2015 (S.R. 2015/177)](https://www.legislation.gov.uk/nisr/2015/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/177/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2015/177/regulation/4)
+[^c-f46db1171b241f10e43c473ff15b06bc]: Textual amendment: Regulations revoked (15.4.2015) by [The Planning (Conservation Areas) (Consultation) Regulations (Northern Ireland) 2015 (S.R. 2015/177)](https://www.legislation.gov.uk/nisr/2015/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/177/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2015/177/regulation/4)

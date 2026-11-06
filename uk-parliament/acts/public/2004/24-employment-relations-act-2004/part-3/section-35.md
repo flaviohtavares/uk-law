@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Disapplication of qualifying period and upper age limit for unfair dismissal[^key-9668c3722912e92c93c323f51b4590e7]
+## 35. Disapplication of qualifying period and upper age limit for unfair dismissal[^c-9668c3722912e92c93c323f51b4590e7]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ For section 154 of the 1992 Act substitute—
 
 ## Annotations
 
-[^key-9668c3722912e92c93c323f51b4590e7]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2004/24/section/35) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 12](https://www.legislation.gov.uk/uksi/2005/872/article/12))
+[^c-9668c3722912e92c93c323f51b4590e7]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2004/24/section/35) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 12](https://www.legislation.gov.uk/uksi/2005/872/article/12))

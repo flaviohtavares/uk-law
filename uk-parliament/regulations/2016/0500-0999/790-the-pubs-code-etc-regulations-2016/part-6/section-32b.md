@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32B. The updated full response[^key-0ccb51f56e10ae05c36cb6b59e9ad716]
+## 32B. The updated full response[^c-0ccb51f56e10ae05c36cb6b59e9ad716]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ccb51f56e10ae05c36cb6b59e9ad716]: Textual amendment: [Regs. 32A-32C](https://www.legislation.gov.uk/uksi/2016/790/regulation/32A) inserted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/9) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
+[^c-0ccb51f56e10ae05c36cb6b59e9ad716]: Textual amendment: [Regs. 32A-32C](https://www.legislation.gov.uk/uksi/2016/790/regulation/32A) inserted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/9) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))

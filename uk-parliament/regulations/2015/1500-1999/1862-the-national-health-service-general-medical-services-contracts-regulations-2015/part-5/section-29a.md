@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29A. Variation of contracts: integrated care provider contracts[^key-739be0436f4c94ca748593f16af312a3]
+## 29A. Variation of contracts: integrated care provider contracts[^c-739be0436f4c94ca748593f16af312a3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 3A has effect in relation to the variation of a contract in circumstanc
 
 ## Annotations
 
-[^key-739be0436f4c94ca748593f16af312a3]: Textual amendment: Reg. 29A inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2019/248/regulation/29)
+[^c-739be0436f4c94ca748593f16af312a3]: Textual amendment: Reg. 29A inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2019/248/regulation/29)

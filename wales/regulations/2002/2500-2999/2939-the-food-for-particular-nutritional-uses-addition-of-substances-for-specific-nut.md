@@ -57,7 +57,7 @@ In exercise of the powers conferred by sections 16(1)(f), 17(1), 26(3) and 48(1)
 - “the Act” (“*y Ddeddf*”) means the Food Safety Act 1990;
 - “designated PNU food” (“*bwyd DMN dynodedig*”) means any PNU food other than infant formulae, follow-on formulae, processed cereal-based foods and baby foods intended for infants and young children;
 - “Directive 89/398”(“*Cyfarwyddeb 89/398*”) means Council Directive [89/398/EEC](https://www.legislation.gov.uk/european/directive/1989/0398) [^c8716191] on the approximation of the laws of the Member States relating to foodstuffs intended for particular nutritional uses, as amended by Directive [1999/41/EC](https://www.legislation.gov.uk/european/directive/1999/0041) of the European Parliament and of the Council [^c8716201];
-- “Directive 2001/15” (“*Cyfarwyddeb 2001/15*”) means Commission Directive [2001/15/EC](https://www.legislation.gov.uk/european/directive/2001/0015) [^c8716211] (as corrected [^c8716221]) on substances that may be added for specific nutritional purposes in foods for particular nutritional uses , as amended by Commission Directive 2004/5/EC[^M_F_b824c420-5f66-4638-a77f-03c3e3086616] and Commission Directive 2006/34/EC[^key-694a488114cb259b65588c912950ef58] and as read with Commission Directive 2004/6/EC derogating from Directive 2001/15/EC to postpone the application of the prohibition of trade to certain products;
+- “Directive 2001/15” (“*Cyfarwyddeb 2001/15*”) means Commission Directive [2001/15/EC](https://www.legislation.gov.uk/european/directive/2001/0015) [^c8716211] (as corrected [^c8716221]) on substances that may be added for specific nutritional purposes in foods for particular nutritional uses , as amended by Commission Directive 2004/5/EC[^M_F_b824c420-5f66-4638-a77f-03c3e3086616] and Commission Directive 2006/34/EC[^c-694a488114cb259b65588c912950ef58] and as read with Commission Directive 2004/6/EC derogating from Directive 2001/15/EC to postpone the application of the prohibition of trade to certain products;
 - “L - tryptophan food” (“*bwyd L-tryptoffan*”) means any designated PNU food being a food to which L-tryptophan, or any of its sodium, potassium, calcium or magnesium salts or its hydrochloride, has been added for a specific nutritional purpose;
 - “PNU food” (“*bwyd DMN*”) means a food for a particular nutritional use which—
   - (a) owing to its special composition or process of manufacture, is clearly distinguishable from food intended for normal consumption, and
@@ -101,7 +101,7 @@ In exercise of the powers conferred by sections 16(1)(f), 17(1), 26(3) and 48(1)
 
 as established by generally accepted scientific data.
 
-(5)[^M_F_e9780d14-9db5-4012-fcfd-fc2c9f718f38] The restrictions in paragraph (1) shall not apply until 1st January 2010[^key-69e78b2dd2a42b6ed5fa04f12c1097d2] in the case of a substance falling within one of the categories mentioned in paragraph (2) and listed under that category in Schedule 3 if —
+(5)[^M_F_e9780d14-9db5-4012-fcfd-fc2c9f718f38] The restrictions in paragraph (1) shall not apply until 1st January 2010[^c-69e78b2dd2a42b6ed5fa04f12c1097d2] in the case of a substance falling within one of the categories mentioned in paragraph (2) and listed under that category in Schedule 3 if —
 
 - (a) the European Food Safety Authority has not given an unfavourable opinion in respect of the use of that substance in the manufacture of any designated PNU food; and
 - (b) that substance was used in the manufacture of a food for a particular nutritional use which was on sale in the European Community on 11th February 2004.
@@ -138,7 +138,7 @@ If any person—
 
 that person shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 8. Defence in relation to exports[^key-9b72cff9c4f399d4cce1655c6d7fbbfc]
+## 8. Defence in relation to exports[^c-9b72cff9c4f399d4cce1655c6d7fbbfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -159,7 +159,7 @@ The following provisions of the Act shall apply for the purposes of these Regula
 - (k) section 36 (offences by bodies corporate); and
 - (l) section 44 (protection of officers acting in good faith).
 
-## 10. Amendment of the Tryptophan in Food Regulations 1990[^key-f498e79df60c07c1466b8240ccb47733]
+## 10. Amendment of the Tryptophan in Food Regulations 1990[^c-f498e79df60c07c1466b8240ccb47733]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -208,7 +208,7 @@ Regulation 3(1)(a)
   -  — pyridoxine hydrochloride
   -  — pyridoxine 5'-phosphate
   -  — pyridoxine dipalmitate
-- FOLATE[^key-72891edcfe3d3336bfd158c034c90dc7] :
+- FOLATE[^c-72891edcfe3d3336bfd158c034c90dc7] :
   -  — pteroylmonoglutamic acid
   -  —  calcium-L-methylfolate
 - VITAMIN B12 :
@@ -260,7 +260,7 @@ Regulation 3(1)(a)
   -  — ferric diphosphate (ferric pyrophosphate)
   -  — ferric saccharate
   -  — elemental iron (carbonyl + electrolytic + hydrogen reduced)
-  -  —  ferrous bisglycinate[^key-31f838a2eed8b5efaa67b7e426dfec98]
+  -  —  ferrous bisglycinate[^c-31f838a2eed8b5efaa67b7e426dfec98]
 - COPPER :
   -  — cupric carbonate
   -  — cupric citrate
@@ -480,25 +480,25 @@ CHROMIUM:
 
 [^M_F_b824c420-5f66-4638-a77f-03c3e3086616]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2002/2939/regulation/2/1) inserted (1.4.2004) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) (Amendment) Regulations 2004 (S.I. 2002/1012)](https://www.legislation.gov.uk/uksi/2004/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/1012/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2004/1012/regulation/3)
 
-[^key-694a488114cb259b65588c912950ef58]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2002/2939/regulation/2/1) inserted (25.1.2007) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) (Amendment) Regulations 2007 (S.I. 2007/116)](https://www.legislation.gov.uk/uksi/2007/116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/116/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2007/116/regulation/3)
+[^c-694a488114cb259b65588c912950ef58]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2002/2939/regulation/2/1) inserted (25.1.2007) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) (Amendment) Regulations 2007 (S.I. 2007/116)](https://www.legislation.gov.uk/uksi/2007/116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/116/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2007/116/regulation/3)
 
 [^M_F_27231b77-7913-40a8-a5ce-c92dd52dc043]: Textual amendment: Words in reg. 3(1) substituted (1.4.2004) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) (Amendment) Regulations 2004 (S.I. 2002/1012)](https://www.legislation.gov.uk/uksi/2004/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/1012/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2004/1012/regulation/4/a)
 
 [^M_F_e9780d14-9db5-4012-fcfd-fc2c9f718f38]: Textual amendment: Words in reg. 3(5) inserted (1.4.2004) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) (Amendment) Regulations 2004 (S.I. 2002/1012)](https://www.legislation.gov.uk/uksi/2004/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/1012/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2004/1012/regulation/4/b)
 
-[^key-69e78b2dd2a42b6ed5fa04f12c1097d2]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/wsi/2002/2939/regulation/3/5) substituted (15.10.2007) by [The Food for Particular Nutritional Uses (Miscellaneous Amendments) (Wales) Regulations 2007 (S.I. 2007/2753)](https://www.legislation.gov.uk/wsi/2007/2753), [regs. 1](https://www.legislation.gov.uk/wsi/2007/2753/regulation/1), [5(2)](https://www.legislation.gov.uk/wsi/2007/2753/regulation/5/2)
+[^c-69e78b2dd2a42b6ed5fa04f12c1097d2]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/wsi/2002/2939/regulation/3/5) substituted (15.10.2007) by [The Food for Particular Nutritional Uses (Miscellaneous Amendments) (Wales) Regulations 2007 (S.I. 2007/2753)](https://www.legislation.gov.uk/wsi/2007/2753), [regs. 1](https://www.legislation.gov.uk/wsi/2007/2753/regulation/1), [5(2)](https://www.legislation.gov.uk/wsi/2007/2753/regulation/5/2)
 
-[^key-9b72cff9c4f399d4cce1655c6d7fbbfc]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2002/2939/regulation/8) revoked (1.1.2006) by [The Official Feed and Food Controls (Wales) Regulations 2005 (S.I. 2005/3254)](https://www.legislation.gov.uk/wsi/2005/3254), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/wsi/2005/3254/schedule/6/part/2)
+[^c-9b72cff9c4f399d4cce1655c6d7fbbfc]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2002/2939/regulation/8) revoked (1.1.2006) by [The Official Feed and Food Controls (Wales) Regulations 2005 (S.I. 2005/3254)](https://www.legislation.gov.uk/wsi/2005/3254), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/wsi/2005/3254/schedule/6/part/2)
 
-[^key-f498e79df60c07c1466b8240ccb47733]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/wsi/2002/2939/regulation/10) revoked (11.11.2005) by [The Tryptophan in Food (Wales) Regulations 2005 (S.I. 2005/3111)](https://www.legislation.gov.uk/wsi/2005/3111), [regs. 1](https://www.legislation.gov.uk/wsi/2005/3111/regulation/1), [10(2)](https://www.legislation.gov.uk/wsi/2005/3111/regulation/10/2)
+[^c-f498e79df60c07c1466b8240ccb47733]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/wsi/2002/2939/regulation/10) revoked (11.11.2005) by [The Tryptophan in Food (Wales) Regulations 2005 (S.I. 2005/3111)](https://www.legislation.gov.uk/wsi/2005/3111), [regs. 1](https://www.legislation.gov.uk/wsi/2005/3111/regulation/1), [10(2)](https://www.legislation.gov.uk/wsi/2005/3111/regulation/10/2)
 
 [^c8716281]: Marginal citation: [1998 c.38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-72891edcfe3d3336bfd158c034c90dc7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2002/2939/schedule/1) substituted (25.1.2007) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) (Amendment) Regulations 2007 (S.I. 2007/116)](https://www.legislation.gov.uk/uksi/2007/116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/116/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2007/116/regulation/4/a)
+[^c-72891edcfe3d3336bfd158c034c90dc7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2002/2939/schedule/1) substituted (25.1.2007) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) (Amendment) Regulations 2007 (S.I. 2007/116)](https://www.legislation.gov.uk/uksi/2007/116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/116/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2007/116/regulation/4/a)
 
 [^M_F_bc6e57e0-bc18-4cb1-8875-db89d57d3496]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2002/2939/schedule/1) inserted (1.4.2004) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) (Amendment) Regulations 2004 (S.I. 2002/1012)](https://www.legislation.gov.uk/uksi/2004/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/1012/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2004/1012/regulation/5/a)
 
-[^key-31f838a2eed8b5efaa67b7e426dfec98]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2002/2939/schedule/1) inserted (25.1.2007) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) (Amendment) Regulations 2007 (S.I. 2007/116)](https://www.legislation.gov.uk/uksi/2007/116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/116/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2007/116/regulation/4/b)
+[^c-31f838a2eed8b5efaa67b7e426dfec98]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2002/2939/schedule/1) inserted (25.1.2007) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) (Amendment) Regulations 2007 (S.I. 2007/116)](https://www.legislation.gov.uk/uksi/2007/116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/116/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2007/116/regulation/4/b)
 
 [^M_F_33256941-268f-4af2-a89d-134d7931e591]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2002/2939/schedule/1) inserted (1.4.2004) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) (Amendment) Regulations 2004 (S.I. 2002/1012)](https://www.legislation.gov.uk/uksi/2004/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/1012/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2004/1012/regulation/5/b)
 

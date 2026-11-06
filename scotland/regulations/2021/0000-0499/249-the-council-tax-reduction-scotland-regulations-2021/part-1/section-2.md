@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Years to which these Regulations apply[^key-62aa4f5be5cab01a55b25cbd1515b2eb]
+## 2. Years to which these Regulations apply[^c-62aa4f5be5cab01a55b25cbd1515b2eb]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Subject to regulation 97 (transitional provision) and regulation 101 (savings pr
 
 ## Annotations
 
-[^key-62aa4f5be5cab01a55b25cbd1515b2eb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-62aa4f5be5cab01a55b25cbd1515b2eb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

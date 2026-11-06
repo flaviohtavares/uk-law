@@ -110,7 +110,7 @@ In accordance with section 21(1) of that Act, the Scottish Ministers consulted t
 - [Section 24 — Pensionable earnings](part-4/section-24.md)
 - [Section 25 — Pensionable earnings during a period of assumed pay](part-4/section-25.md)
 
-#### Chapter 3A — Elections for those previously excluded from ill health benefits[^key-6bd2ffade7bbb56d3823f4fea43a2db9]
+#### Chapter 3A — Elections for those previously excluded from ill health benefits[^c-6bd2ffade7bbb56d3823f4fea43a2db9]
 
 - [Section 25A — Interpretation and application of this Chapter](part-4/section-25a.md)
 - [Section 25B — Provision of information](part-4/section-25b.md)
@@ -119,7 +119,7 @@ In accordance with section 21(1) of that Act, the Scottish Ministers consulted t
 - [Section 25E — Revised contributions](part-4/section-25e.md)
 - [Section 25F — Payment of ill-health benefits](part-4/section-25f.md)
 
-#### CHAPTER 4 — Eligibility for payment of ill-health benefits[^key-831ac58a80a6ada9fcc29aa7d18a91df]
+#### CHAPTER 4 — Eligibility for payment of ill-health benefits[^c-831ac58a80a6ada9fcc29aa7d18a91df]
 
 *Extent: S*
 
@@ -616,6 +616,6 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00001]: Footnote: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-6bd2ffade7bbb56d3823f4fea43a2db9]: Textual amendment: [Pt. 4 Ch. 3A](https://www.legislation.gov.uk/ssi/2015/142/part/4/chapter/3A) inserted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) (Amendment) Regulations 2026 (S.S.I. 2026/58)](https://www.legislation.gov.uk/ssi/2026/58), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/58/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2026/58/regulation/2/2)
+[^c-6bd2ffade7bbb56d3823f4fea43a2db9]: Textual amendment: [Pt. 4 Ch. 3A](https://www.legislation.gov.uk/ssi/2015/142/part/4/chapter/3A) inserted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) (Amendment) Regulations 2026 (S.S.I. 2026/58)](https://www.legislation.gov.uk/ssi/2026/58), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/58/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2026/58/regulation/2/2)
 
-[^key-831ac58a80a6ada9fcc29aa7d18a91df]: Textual amendment: [Pt. 4 Ch. 4](https://www.legislation.gov.uk/ssi/2015/142/part/4/chapter/4) ceases to have effect (with effect from 1.4.2025) by virtue of [The Police Pension Scheme (Scotland) Amendment Regulations 2025 (S.S.I. 2025/58)](https://www.legislation.gov.uk/ssi/2025/58), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/58/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2025/58/regulation/3)
+[^c-831ac58a80a6ada9fcc29aa7d18a91df]: Textual amendment: [Pt. 4 Ch. 4](https://www.legislation.gov.uk/ssi/2015/142/part/4/chapter/4) ceases to have effect (with effect from 1.4.2025) by virtue of [The Police Pension Scheme (Scotland) Amendment Regulations 2025 (S.S.I. 2025/58)](https://www.legislation.gov.uk/ssi/2025/58), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/58/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2025/58/regulation/3)

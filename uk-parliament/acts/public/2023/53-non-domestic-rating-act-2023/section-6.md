@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 6. Transitional relief[^key-bc83f2799b454239edf1f214165704e7]
+## 6. Transitional relief[^c-bc83f2799b454239edf1f214165704e7]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In section 57A of the Act (transitional provision for 2005 onwards: England)—
 
 ## Annotations
 
-[^key-bc83f2799b454239edf1f214165704e7]: Commencement: S. 6 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-bc83f2799b454239edf1f214165704e7]: Commencement: S. 6 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)

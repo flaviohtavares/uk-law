@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Power to compel attendance at sentencing hearing: armed forces[^key-b1225ffd73c0ca8c342e9cdb99518827]
+## 2. Power to compel attendance at sentencing hearing: armed forces[^c-b1225ffd73c0ca8c342e9cdb99518827]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1225ffd73c0ca8c342e9cdb99518827]: Commencement: S. 2 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-b1225ffd73c0ca8c342e9cdb99518827]: Commencement: S. 2 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)

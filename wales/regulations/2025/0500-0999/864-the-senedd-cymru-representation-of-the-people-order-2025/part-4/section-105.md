@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Costs of petition[^key-64ee9f07a7239d980c7db9d8eb1c40d9]
+## 105. Costs of petition[^c-64ee9f07a7239d980c7db9d8eb1c40d9]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64ee9f07a7239d980c7db9d8eb1c40d9]: Commencement: Art. 105 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-64ee9f07a7239d980c7db9d8eb1c40d9]: Commencement: Art. 105 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

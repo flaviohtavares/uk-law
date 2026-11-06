@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Advance notice of introduction or presentation[^key-270fbd33ccf65610bfd46219f1537d4c]
+## 17. Advance notice of introduction or presentation[^c-270fbd33ccf65610bfd46219f1537d4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-270fbd33ccf65610bfd46219f1537d4c]: Textual amendment: Regulations revoked (1.8.2004) by [The Products of Animal Origin (Third Country Imports) (England) (No. 2) Regulations 2004 (S.I. 2004/1740)](https://www.legislation.gov.uk/uksi/2004/1740), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1740/regulation/1), [68](https://www.legislation.gov.uk/uksi/2004/1740/regulation/68)
+[^c-270fbd33ccf65610bfd46219f1537d4c]: Textual amendment: Regulations revoked (1.8.2004) by [The Products of Animal Origin (Third Country Imports) (England) (No. 2) Regulations 2004 (S.I. 2004/1740)](https://www.legislation.gov.uk/uksi/2004/1740), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1740/regulation/1), [68](https://www.legislation.gov.uk/uksi/2004/1740/regulation/68)

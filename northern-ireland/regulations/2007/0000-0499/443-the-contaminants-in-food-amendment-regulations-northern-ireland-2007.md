@@ -31,7 +31,7 @@ summary: ''
 
 food
 
-The Contaminants in Food (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-3b73495bb617a019e93932873770446a]
+The Contaminants in Food (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-3b73495bb617a019e93932873770446a]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 23rd November 2007
 
-[^key-3b73495bb617a019e93932873770446a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b73495bb617a019e93932873770446a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3b73495bb617a019e93932873770446a]
+## 1. Citation and commencement[^c-3b73495bb617a019e93932873770446a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Contaminants in Food Regulations (Northern Ireland) 2007[^key-3b73495bb617a019e93932873770446a]
+## 2. Amendment of the Contaminants in Food Regulations (Northern Ireland) 2007[^c-3b73495bb617a019e93932873770446a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3b73495bb617a019e93932873770446a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b73495bb617a019e93932873770446a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3b73495bb617a019e93932873770446a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b73495bb617a019e93932873770446a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3b73495bb617a019e93932873770446a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/443) revoked (1.7.2009) by [The Contaminants in Food Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/220)](https://www.legislation.gov.uk/nisr/2009/220), [regs. 1](https://www.legislation.gov.uk/nisr/2009/220/regulation/1), [7](https://www.legislation.gov.uk/nisr/2009/220/regulation/7)
+[^c-3b73495bb617a019e93932873770446a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/443) revoked (1.7.2009) by [The Contaminants in Food Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/220)](https://www.legislation.gov.uk/nisr/2009/220), [regs. 1](https://www.legislation.gov.uk/nisr/2009/220/regulation/1), [7](https://www.legislation.gov.uk/nisr/2009/220/regulation/7)

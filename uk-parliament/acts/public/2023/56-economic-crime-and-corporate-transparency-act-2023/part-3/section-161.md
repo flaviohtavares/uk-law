@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Registrable beneficial owners: cases involving trusts[^key-098437f25bbb96f64cd117c323f8cc9c][^key-bc57fe98009d729dc0792aa7bd3900c6]
+## 161. Registrable beneficial owners: cases involving trusts[^c-098437f25bbb96f64cd117c323f8cc9c][^c-bc57fe98009d729dc0792aa7bd3900c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-098437f25bbb96f64cd117c323f8cc9c]: Commencement: S. 161 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-098437f25bbb96f64cd117c323f8cc9c]: Commencement: S. 161 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-bc57fe98009d729dc0792aa7bd3900c6]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2023/56/section/161) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z49)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z49) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/269/regulation/6))
+[^c-bc57fe98009d729dc0792aa7bd3900c6]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2023/56/section/161) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z49)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z49) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/269/regulation/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Low cost rental[^key-f92f6ca3d593fd6deb152d987c18b5f3][^key-6857b8766fd3dca3344102127d81ae19]
+## 69. Low cost rental[^c-f92f6ca3d593fd6deb152d987c18b5f3][^c-6857b8766fd3dca3344102127d81ae19]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ Accommodation is low cost rental accommodation if—
 
 ## Annotations
 
-[^key-f92f6ca3d593fd6deb152d987c18b5f3]: Commencement: S. 69 in force at 8.9.2008 for specified purposes by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
+[^c-f92f6ca3d593fd6deb152d987c18b5f3]: Commencement: S. 69 in force at 8.9.2008 for specified purposes by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
 
-[^key-6857b8766fd3dca3344102127d81ae19]: Commencement: S. 69 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-6857b8766fd3dca3344102127d81ae19]: Commencement: S. 69 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

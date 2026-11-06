@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-43d0936e7990c2744b3f2a34b166e6a0]
+## 2. Interpretation[^c-43d0936e7990c2744b3f2a34b166e6a0]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In these Regulations —
 
 ## Annotations
 
-[^key-43d0936e7990c2744b3f2a34b166e6a0]: Commencement: Reg. 2 in force at 16.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/399/regulation/1/1)
+[^c-43d0936e7990c2744b3f2a34b166e6a0]: Commencement: Reg. 2 in force at 16.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/399/regulation/1/1)
 
 [^f00002]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

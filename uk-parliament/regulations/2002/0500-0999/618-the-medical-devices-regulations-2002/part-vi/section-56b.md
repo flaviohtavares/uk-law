@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56B. Circumstances in which a fee is payable in relation to a consultation on the safety, quality and usefulness of a medicinal substance incorporated in a device[^key-e9ca138a55d697abebdcfc8cd93692eb]
+## 56B. Circumstances in which a fee is payable in relation to a consultation on the safety, quality and usefulness of a medicinal substance incorporated in a device[^c-e9ca138a55d697abebdcfc8cd93692eb]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9ca138a55d697abebdcfc8cd93692eb]: Textual amendment: [Reg. 56B](https://www.legislation.gov.uk/uksi/2002/618/regulation/56B) inserted (E.W.S.) (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2023/377/regulation/14)
+[^c-e9ca138a55d697abebdcfc8cd93692eb]: Textual amendment: [Reg. 56B](https://www.legislation.gov.uk/uksi/2002/618/regulation/56B) inserted (E.W.S.) (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2023/377/regulation/14)

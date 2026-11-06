@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218A. Regulations under section 218(6): further provision.[^key-23573a7641307b5a2cdf362b1670e88a]
+## 218A. Regulations under section 218(6): further provision.[^c-23573a7641307b5a2cdf362b1670e88a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23573a7641307b5a2cdf362b1670e88a]: Textual amendment: S. 218A repealed (31.3.2003 for W., 1.6.2003 for E.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [ss. 146](https://www.legislation.gov.uk/ukpga/2002/32/section/146), [216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II); [S.I. 2003/1115](https://www.legislation.gov.uk/uksi/2003/1115), [art. 3](https://www.legislation.gov.uk/uksi/2003/1115/article/3)
+[^c-23573a7641307b5a2cdf362b1670e88a]: Textual amendment: S. 218A repealed (31.3.2003 for W., 1.6.2003 for E.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [ss. 146](https://www.legislation.gov.uk/ukpga/2002/32/section/146), [216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II); [S.I. 2003/1115](https://www.legislation.gov.uk/uksi/2003/1115), [art. 3](https://www.legislation.gov.uk/uksi/2003/1115/article/3)

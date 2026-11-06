@@ -35,82 +35,82 @@ implementing Regulation (EC) No 1177/2003 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-4c8de1b00001ffa5ac54d91a68823314]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c8de1b00001ffa5ac54d91a68823314]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-4c8de1b00001ffa5ac54d91a68823314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4c8de1b00001ffa5ac54d91a68823314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4c8de1b00001ffa5ac54d91a68823314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4c8de1b00001ffa5ac54d91a68823314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c8de1b00001ffa5ac54d91a68823314]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c8de1b00001ffa5ac54d91a68823314]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-4c8de1b00001ffa5ac54d91a68823314]
+## ANNEX[^c-4c8de1b00001ffa5ac54d91a68823314]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c8de1b00001ffa5ac54d91a68823314]1.
+[^c-4c8de1b00001ffa5ac54d91a68823314]1.
 
 UNIT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c8de1b00001ffa5ac54d91a68823314]2.
+[^c-4c8de1b00001ffa5ac54d91a68823314]2.
 
 MODE OF DATA COLLECTION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c8de1b00001ffa5ac54d91a68823314]3.
+[^c-4c8de1b00001ffa5ac54d91a68823314]3.
 
 REFERENCE PERIOD
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c8de1b00001ffa5ac54d91a68823314]—
+[^c-4c8de1b00001ffa5ac54d91a68823314]—
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c8de1b00001ffa5ac54d91a68823314]—
+[^c-4c8de1b00001ffa5ac54d91a68823314]—
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c8de1b00001ffa5ac54d91a68823314]—
+[^c-4c8de1b00001ffa5ac54d91a68823314]—
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c8de1b00001ffa5ac54d91a68823314]4.
+[^c-4c8de1b00001ffa5ac54d91a68823314]4.
 
 DEFINITIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c8de1b00001ffa5ac54d91a68823314](a)
+[^c-4c8de1b00001ffa5ac54d91a68823314](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c8de1b00001ffa5ac54d91a68823314](b)
+[^c-4c8de1b00001ffa5ac54d91a68823314](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c8de1b00001ffa5ac54d91a68823314](c)
+[^c-4c8de1b00001ffa5ac54d91a68823314](c)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c8de1b00001ffa5ac54d91a68823314](d)
+[^c-4c8de1b00001ffa5ac54d91a68823314](d)
 
 Frequency of getting together/being in contact with friends and relatives: refers to the frequency with which the respondent gets together/is in contact with any relative/ friend. Not only the person that the respondent gets together/is in contact with most often, is to be considered.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c8de1b00001ffa5ac54d91a68823314](e)
+[^c-4c8de1b00001ffa5ac54d91a68823314](e)
 
 Informal voluntary activities: refers to activities that take place outside an organisational context and tend to be done on an individual basis.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c8de1b00001ffa5ac54d91a68823314](f)
+[^c-4c8de1b00001ffa5ac54d91a68823314](f)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4c8de1b00001ffa5ac54d91a68823314]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 57](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/57); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c8de1b00001ffa5ac54d91a68823314]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 57](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/57); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

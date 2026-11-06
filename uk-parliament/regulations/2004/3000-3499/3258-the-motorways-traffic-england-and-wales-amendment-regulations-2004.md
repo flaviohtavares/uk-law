@@ -46,15 +46,15 @@ Coming into force
 
 The Secretary of State for Transport, in exercise of the powers conferred by section 17(2) and (3) of the Road Traffic Regulation Act 1984[^f00001], and after consulting with representative organisations in accordance with section 134(2) of that Act, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-6cb36be64368e6dee575070cac4ee4d2]
+## 1. Citation and commencement[^c-6cb36be64368e6dee575070cac4ee4d2]
 
 These Regulations may be cited as the Motorways Traffic (England and Wales) (Amendment) Regulations 2004 and shall come into force on 1st January 2005.
 
-## 2. Preliminary[^key-c84022d8957777bcc893918b40463907]
+## 2. Preliminary[^c-c84022d8957777bcc893918b40463907]
 
 The Motorways Traffic (England and Wales) Regulations 1982[^f00002] shall be further amended in accordance with the following provisions of these Regulations.
 
-## 3. Interpretation[^key-ab0b80a2c997a29c61c7ec3008a79293]
+## 3. Interpretation[^c-ab0b80a2c997a29c61c7ec3008a79293]
 
 In regulation 3(1), after sub-paragraph (f) insert—
 
@@ -62,7 +62,7 @@ In regulation 3(1), after sub-paragraph (f) insert—
 
 .
 
-## 4. Amendments relating to use of right hand or off side lane[^key-b921466cd210532740d18c1932036864]
+## 4. Amendments relating to use of right hand or off side lane[^c-b921466cd210532740d18c1932036864]
 
 (1) Regulation 12 shall be amended as follows.
 
@@ -83,7 +83,7 @@ In regulation 3(1), after sub-paragraph (f) insert—
 
   .
 
-## 5. Amendments relating to exceptions and relaxations[^key-7caa19a286d4270f7ebe6cd733a0d884]
+## 5. Amendments relating to exceptions and relaxations[^c-7caa19a286d4270f7ebe6cd733a0d884]
 
 (1) Regulation 16 shall be amended as follows.
 
@@ -132,20 +132,20 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^f00001]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27). Section 17(2) was amended by the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), schedule 8, paragraph 28 and by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 4, paragraph 25. The functions of the Secretary of State under section 17(2) and (3), except with respect to special roads generally, so far as exercisable in relation to Wales, are transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), article 2 and Schedule 1.
 
-[^key-6cb36be64368e6dee575070cac4ee4d2]: Commencement: Reg. 1 in force at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1)
+[^c-6cb36be64368e6dee575070cac4ee4d2]: Commencement: Reg. 1 in force at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1)
 
-[^key-c84022d8957777bcc893918b40463907]: Commencement: Reg. 2 in force at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1)
+[^c-c84022d8957777bcc893918b40463907]: Commencement: Reg. 2 in force at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1982/1163](https://www.legislation.gov.uk/uksi/1982/1163); relevant amending instruments are [S.I. 1983/374](https://www.legislation.gov.uk/uksi/1983/374), [1984/1479](https://www.legislation.gov.uk/uksi/1984/1479), [1992/ 1364](https://www.legislation.gov.uk/uksi/1992/1364) and [1995/158](https://www.legislation.gov.uk/uksi/1995/158).
 
-[^key-ab0b80a2c997a29c61c7ec3008a79293]: Commencement: Reg. 3 in force at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1)
+[^c-ab0b80a2c997a29c61c7ec3008a79293]: Commencement: Reg. 3 in force at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1)
 
 [^f00003]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-b921466cd210532740d18c1932036864]: Commencement: Reg. 4 in force at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1)
+[^c-b921466cd210532740d18c1932036864]: Commencement: Reg. 4 in force at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1986/1078](https://www.legislation.gov.uk/uksi/1986/1078); relevant amending instruments are [S.I. 1988/271](https://www.legislation.gov.uk/uksi/1988/271), [1991/1527](https://www.legislation.gov.uk/uksi/1991/1527), [1993/3048](https://www.legislation.gov.uk/uksi/1993/3048), [1994/329](https://www.legislation.gov.uk/uksi/1994/329), [1995/1458](https://www.legislation.gov.uk/uksi/1995/1458), [1996/2064](https://www.legislation.gov.uk/uksi/1996/2064), [1997/1340](https://www.legislation.gov.uk/uksi/1997/1340), [2003/1946](https://www.legislation.gov.uk/uksi/2003/1946) and [2004/2102](https://www.legislation.gov.uk/uksi/2004/2102).
 
-[^key-7caa19a286d4270f7ebe6cd733a0d884]: Commencement: Reg. 5 in force at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1)
+[^c-7caa19a286d4270f7ebe6cd733a0d884]: Commencement: Reg. 5 in force at 1.1.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3258/regulation/1)
 
 [^f00005]: Footnote: Section 11 of the Traffic Management Act [2004(c. 18)](https://www.legislation.gov.uk/ukpga/2004/18) provides that the Secretary of State or, as the case may be, the National Assembly for Wales shall determine the uniform for traffic officers designated by, or under an authorisation given by, each of them.

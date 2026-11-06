@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43A. Power to modify the meaning of “relevant body”[^key-5a5f1bc704c4dfe1062d1c15ee351d02]
+## 43A. Power to modify the meaning of “relevant body”[^c-5a5f1bc704c4dfe1062d1c15ee351d02]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a5f1bc704c4dfe1062d1c15ee351d02]: Textual amendment: S. 43A inserted (1.4.2026 for the purpose of making regulations) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 52(13)](https://www.legislation.gov.uk/asp/2025/13/section/52/13), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-5a5f1bc704c4dfe1062d1c15ee351d02]: Textual amendment: S. 43A inserted (1.4.2026 for the purpose of making regulations) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 52(13)](https://www.legislation.gov.uk/asp/2025/13/section/52/13), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

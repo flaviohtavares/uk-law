@@ -22,7 +22,7 @@ summary: ''
 
 Article 13
 
-**1.**[^key-84ec874875491349a75f7ecae6b78c6c] In this Schedule—
+**1.**[^c-84ec874875491349a75f7ecae6b78c6c] In this Schedule—
 
 - (a) “Coordinates Reference” means the relevant coordinates reference shown on the deposited plans and deposited sections and set out in the table below—
 
@@ -34,7 +34,7 @@ Article 13
   | D4 | 574452 | 181391 |
 - (b) References to named channels and areas are references to such channels and areas as are shown from time to time on the relevant charts.
 
-**2.**[^key-dadf3ce3725e63fa6f6f88962294706d] The works referred to in article 13(1) are as follows—
+**2.**[^c-dadf3ce3725e63fa6f6f88962294706d] The works referred to in article 13(1) are as follows—
 
 - Dredging Work No. 1 — An area of the riverbed—
   - (a) for use as a manoeuvring area for vessels;
@@ -65,6 +65,6 @@ Article 13
 
 ## Annotations
 
-[^key-84ec874875491349a75f7ecae6b78c6c]: Commencement: Sch. 3 para. 1 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-84ec874875491349a75f7ecae6b78c6c]: Commencement: Sch. 3 para. 1 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-dadf3ce3725e63fa6f6f88962294706d]: Commencement: Sch. 3 para. 2 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-dadf3ce3725e63fa6f6f88962294706d]: Commencement: Sch. 3 para. 2 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

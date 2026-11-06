@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256C. Attributing gains to the non-exempt amount: charitable companies[^key-e61545d7c59985ad3e56e64a52e18d7c]
+## 256C. Attributing gains to the non-exempt amount: charitable companies[^c-e61545d7c59985ad3e56e64a52e18d7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,10 +37,10 @@ summary: ''
 
 (5) In this section and section 256D a charitable company's “attributable income” and “attributable gains” for an accounting period have the same meaning as in Part 11 of CTA 2010 (see section 493 of that Act).
 
-(6)[^key-fee25e131211b4c8697cbec93625c3a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-fee25e131211b4c8697cbec93625c3a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e61545d7c59985ad3e56e64a52e18d7c]: Textual amendment: Ss. 256C, 256D inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 257](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/257) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e61545d7c59985ad3e56e64a52e18d7c]: Textual amendment: Ss. 256C, 256D inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 257](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/257) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-fee25e131211b4c8697cbec93625c3a2]: Textual amendment: S. 256C(6) omitted (with effect in accordance with S.I. 2012/736, art. 9) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 13(4)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/13/4), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 9](https://www.legislation.gov.uk/uksi/2012/736/article/9)
+[^c-fee25e131211b4c8697cbec93625c3a2]: Textual amendment: S. 256C(6) omitted (with effect in accordance with S.I. 2012/736, art. 9) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 13(4)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/13/4), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 9](https://www.legislation.gov.uk/uksi/2012/736/article/9)

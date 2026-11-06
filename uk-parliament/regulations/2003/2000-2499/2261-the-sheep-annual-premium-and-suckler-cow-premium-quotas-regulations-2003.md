@@ -29,7 +29,7 @@ summary: ''
 
 AGRICULTURE
 
-[^key-ad489f4f2e3d62dcce7861a2622f4b9c][^key-72a36cc5c8328654cc7142503e775d20]The Sheep Annual Premium and Suckler Cow Premium Quotas Regulations 2003
+[^c-ad489f4f2e3d62dcce7861a2622f4b9c][^c-72a36cc5c8328654cc7142503e775d20]The Sheep Annual Premium and Suckler Cow Premium Quotas Regulations 2003
 
 Made
 
@@ -626,9 +626,9 @@ Regulation 12(16)
 
 ## Annotations
 
-[^key-ad489f4f2e3d62dcce7861a2622f4b9c]: Textual amendment: Regulations revoked (E.) (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2005 (S.I. 2005/219)](https://www.legislation.gov.uk/uksi/2005/219), [reg. 15(3)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/219/schedule/2) (with [reg. 15(8)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15/8))
+[^c-ad489f4f2e3d62dcce7861a2622f4b9c]: Textual amendment: Regulations revoked (E.) (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2005 (S.I. 2005/219)](https://www.legislation.gov.uk/uksi/2005/219), [reg. 15(3)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/219/schedule/2) (with [reg. 15(8)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15/8))
 
-[^key-72a36cc5c8328654cc7142503e775d20]: Textual amendment: Regulations revoked (W.) (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes (Wales) Regulations 2005 (S.I. 2005/360)](https://www.legislation.gov.uk/uksi/2005/360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/360/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2005/360/regulation/14/3) (with [reg. 14(4)](https://www.legislation.gov.uk/uksi/2005/360/regulation/14/4)[(5)](https://www.legislation.gov.uk/uksi/2005/360/regulation/14/5)[(8)](https://www.legislation.gov.uk/uksi/2005/360/regulation/14/8))
+[^c-72a36cc5c8328654cc7142503e775d20]: Textual amendment: Regulations revoked (W.) (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes (Wales) Regulations 2005 (S.I. 2005/360)](https://www.legislation.gov.uk/uksi/2005/360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/360/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2005/360/regulation/14/3) (with [reg. 14(4)](https://www.legislation.gov.uk/uksi/2005/360/regulation/14/4)[(5)](https://www.legislation.gov.uk/uksi/2005/360/regulation/14/5)[(8)](https://www.legislation.gov.uk/uksi/2005/360/regulation/14/8))
 
 [^f00001]: Footnote: S.I. [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811); the continued power of the Secretary of State to make regulations in relation to Scotland is confirmed by section 57(1) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), in relation to Wales by article 3(4) of S.I. [1999/2788](https://www.legislation.gov.uk/uksi/1999/2788) and in relation to Northern Ireland by article 3(2) of S.I. [2000/2812](https://www.legislation.gov.uk/uksi/2000/2812).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Temporary traffic regulation[^key-fcab3cd1faee7584906bacf9fd932e2a]
+## 40. Temporary traffic regulation[^c-fcab3cd1faee7584906bacf9fd932e2a]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ and the instrument by which it is effected may specify savings and exemptions (i
 
 ## Annotations
 
-[^key-fcab3cd1faee7584906bacf9fd932e2a]: Commencement: Art. 40 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-fcab3cd1faee7584906bacf9fd932e2a]: Commencement: Art. 40 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

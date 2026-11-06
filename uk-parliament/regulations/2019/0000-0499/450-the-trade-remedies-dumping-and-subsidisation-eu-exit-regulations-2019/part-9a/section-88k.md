@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88K. Power to request assistance etc. from TRA[^key-cf3bb66bb1cbd5b3ee00bf4756da2910]
+## 88K. Power to request assistance etc. from TRA[^c-cf3bb66bb1cbd5b3ee00bf4756da2910]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf3bb66bb1cbd5b3ee00bf4756da2910]: Textual amendment: [Regs. 88J](https://www.legislation.gov.uk/uksi/2019/450/regulation/88J), [88K](https://www.legislation.gov.uk/uksi/2019/450/regulation/88K) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2024/545/regulation/28) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-cf3bb66bb1cbd5b3ee00bf4756da2910]: Textual amendment: [Regs. 88J](https://www.legislation.gov.uk/uksi/2019/450/regulation/88J), [88K](https://www.legislation.gov.uk/uksi/2019/450/regulation/88K) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2024/545/regulation/28) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

@@ -45,13 +45,13 @@ There has been open and transparent public consultation during the preparation o
 
 The National Assembly for Wales makes the following Regulations under the powers conferred by section 2(2) of the European Communities Act 1972—
 
-## 1. Title, commencement, application and interpretation[^key-06ef25b0d6303210d46985dc19ac2653]
+## 1. Title, commencement, application and interpretation[^c-06ef25b0d6303210d46985dc19ac2653]
 
 (1) The title of these Regulations is the Common Agricultural Policy (Wine) (Wales) (Amendment) Regulations 2006. These Regulations come into force on 1 July 2006 and apply in relation to Wales.
 
 (2) In these Regulations “the 2001 Regulations” (“*y prif Reoliadau*”) mean the Common Agricultural Policy (Wine) (Wales) Regulations 2001[^f00005].
 
-## 2. Amendment of the 2001 Regulations[^key-83cb5966a639dc862d60cdd6bdb16cea]
+## 2. Amendment of the 2001 Regulations[^c-83cb5966a639dc862d60cdd6bdb16cea]
 
 (1) The 2001 Regulations are amended as follows.
 
@@ -148,7 +148,7 @@ The National Assembly for Wales makes the following Regulations under the powers
 > | Gamay | Black |
 > | Gewurztraminer | White |
 
-## 3. Transitional provisions[^key-0050a9142b061fc15c81dd34bdeeb367]
+## 3. Transitional provisions[^c-0050a9142b061fc15c81dd34bdeeb367]
 
 (1) Anything done by or in relation to the Wine Standards Board in the exercise of its functions under the 2001 Regulations before the coming into force of these Regulations has effect as if done by or in relation to the Food Standards Agency.
 
@@ -164,7 +164,7 @@ The Presiding Officer of the National Assembly
 
 28 June 2006
 
-## SCHEDULE 1 — THE SCHEDULE TO BE SUBSTITUTED FOR SCHEDULE 1[^key-53a610f844e3c0009407f031ad6b0d17]
+## SCHEDULE 1 — THE SCHEDULE TO BE SUBSTITUTED FOR SCHEDULE 1[^c-53a610f844e3c0009407f031ad6b0d17]
 
 Regulation 2(8)
 
@@ -212,14 +212,14 @@ Regulation 2(8)
 
 Regulation 2(9)
 
-### PART 1 — Items to be substituted in Part III of Schedule 2[^key-a06ee2466277062add8387d90a3d46d6]
+### PART 1 — Items to be substituted in Part III of Schedule 2[^c-a06ee2466277062add8387d90a3d46d6]
 
 > |  |  |  |
 > | --- | --- | --- |
 > | **1.** Council Regulation (EC) No.1493/1999: Articles 48 and 49 and Annex VII | Commission Regulation [(EC) No. 753/2002](https://www.legislation.gov.uk/european/regulation/2002/0753): all Articles except insofar as they relate to sparkling wines | General rules and particular requirements relating to the description, designation, presentation and protection of certain products other than sparkling wines |
 > | **2.** Council Regulation [(EC) No. 1493/1999](https://www.legislation.gov.uk/european/regulation/1999/1493): Articles 48 and 49 and Annex VIII | Commission Regulation [(EC) No. 753/2002](https://www.legislation.gov.uk/european/regulation/2002/0753): all Articles insofar as they relate to sparkling wines | General rules and particular requirements relating to the description, designation, presentation and protection of sparkling wines |
 
-### PART 2 — ITEM TO BE SUBSTITUTED IN PART V OF SCHEDULE 2[^key-731ad022bd0b868f6d0163b3496542ee]
+### PART 2 — ITEM TO BE SUBSTITUTED IN PART V OF SCHEDULE 2[^c-731ad022bd0b868f6d0163b3496542ee]
 
 > |  |  |  |
 > | --- | --- | --- |
@@ -250,11 +250,11 @@ These Regulations—
 
 [^f00004]: Footnote: OJ No. L245, 29.9.2003, p.4.
 
-[^key-06ef25b0d6303210d46985dc19ac2653]: Commencement: Reg. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1716/regulation/1/1)
+[^c-06ef25b0d6303210d46985dc19ac2653]: Commencement: Reg. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1716/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2001/2193](https://www.legislation.gov.uk/uksi/2001/2193), amended by [S.I. 2003/1776](https://www.legislation.gov.uk/uksi/2003/1776), [2004/2599](https://www.legislation.gov.uk/uksi/2004/2599).
 
-[^key-83cb5966a639dc862d60cdd6bdb16cea]: Commencement: Reg. 2 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1716/regulation/1/1)
+[^c-83cb5966a639dc862d60cdd6bdb16cea]: Commencement: Reg. 2 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1716/regulation/1/1)
 
 [^f00006]: Footnote: OJ No. L 179, 14.7.99, p.1.
 
@@ -286,12 +286,12 @@ These Regulations—
 
 [^f00020]: Footnote: OJ No. L 210, 28.7.98, p.14.
 
-[^key-0050a9142b061fc15c81dd34bdeeb367]: Commencement: Reg. 3 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1716/regulation/1/1)
+[^c-0050a9142b061fc15c81dd34bdeeb367]: Commencement: Reg. 3 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1716/regulation/1/1)
 
 [^f00021]: Footnote: [1998 c 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-53a610f844e3c0009407f031ad6b0d17]: Commencement: Sch. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1716/regulation/1/1)
+[^c-53a610f844e3c0009407f031ad6b0d17]: Commencement: Sch. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1716/regulation/1/1)
 
-[^key-a06ee2466277062add8387d90a3d46d6]: Commencement: Sch. 2 Pt. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1716/regulation/1/1)
+[^c-a06ee2466277062add8387d90a3d46d6]: Commencement: Sch. 2 Pt. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1716/regulation/1/1)
 
-[^key-731ad022bd0b868f6d0163b3496542ee]: Commencement: Sch. 2 Pt. 2 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1716/regulation/1/1)
+[^c-731ad022bd0b868f6d0163b3496542ee]: Commencement: Sch. 2 Pt. 2 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1716/regulation/1/1)

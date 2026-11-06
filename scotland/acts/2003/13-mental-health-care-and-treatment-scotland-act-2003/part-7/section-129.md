@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 129. Certificates under sections 127 and 128: revocation[^key-144eb14eab6f6a99805297a5c6dff245]
+## 129. Certificates under sections 127 and 128: revocation[^c-144eb14eab6f6a99805297a5c6dff245]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ that the certificate be revoked, the responsible medical officer may revoke the 
 
 ## Annotations
 
-[^key-144eb14eab6f6a99805297a5c6dff245]: Commencement: [S. 129](https://www.legislation.gov.uk/asp/2003/13/section/129) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-144eb14eab6f6a99805297a5c6dff245]: Commencement: [S. 129](https://www.legislation.gov.uk/asp/2003/13/section/129) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

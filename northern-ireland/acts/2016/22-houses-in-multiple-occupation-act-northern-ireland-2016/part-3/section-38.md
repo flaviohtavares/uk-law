@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Revocation orders and disqualification orders[^key-4298471e3a7424fb0113f2ca483e2497]
+## 38. Revocation orders and disqualification orders[^c-4298471e3a7424fb0113f2ca483e2497]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4298471e3a7424fb0113f2ca483e2497]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2016/22/section/38) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-4298471e3a7424fb0113f2ca483e2497]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2016/22/section/38) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

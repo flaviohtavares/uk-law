@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Supply of date of birth lists to police and pursuant to a court order[^key-3e01f5fdb3e73311b6b75788c0f22674]
+## SCHEDULE 2A — Supply of date of birth lists to police and pursuant to a court order[^c-3e01f5fdb3e73311b6b75788c0f22674]
 
 *Extent: E+W+S+N.I.*
 
@@ -126,4 +126,4 @@ as they apply to the third party to whom the list was first supplied.
 
 ## Annotations
 
-[^key-3e01f5fdb3e73311b6b75788c0f22674]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/2010/2977/schedule/2A) inserted (31.10.2023) by [The Local Elections (Northern Ireland) Order 2023 (S.I. 2023/1083)](https://www.legislation.gov.uk/uksi/2023/1083), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1083/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2023/1083/article/4/3)
+[^c-3e01f5fdb3e73311b6b75788c0f22674]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/2010/2977/schedule/2A) inserted (31.10.2023) by [The Local Elections (Northern Ireland) Order 2023 (S.I. 2023/1083)](https://www.legislation.gov.uk/uksi/2023/1083), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1083/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2023/1083/article/4/3)

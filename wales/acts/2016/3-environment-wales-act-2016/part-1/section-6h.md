@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6H. Revoking or lowering targets[^key-9d208f1228c7636e1f852fa036cdbfaa]
+## 6H. Revoking or lowering targets[^c-9d208f1228c7636e1f852fa036cdbfaa]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ they must, before making regulations under section 6B that revoke the target, co
 
 ## Annotations
 
-[^key-9d208f1228c7636e1f852fa036cdbfaa]: Textual amendment: [Ss. 6B-6I](https://www.legislation.gov.uk/anaw/2016/3/section/6B) and cross-heading inserted (27.6.2026) by [Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4)](https://www.legislation.gov.uk/asc/2026/4), [ss. 35(1)](https://www.legislation.gov.uk/asc/2026/4/section/35/1), [46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
+[^c-9d208f1228c7636e1f852fa036cdbfaa]: Textual amendment: [Ss. 6B-6I](https://www.legislation.gov.uk/anaw/2016/3/section/6B) and cross-heading inserted (27.6.2026) by [Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4)](https://www.legislation.gov.uk/asc/2026/4), [ss. 35(1)](https://www.legislation.gov.uk/asc/2026/4/section/35/1), [46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)

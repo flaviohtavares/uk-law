@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76B. Direction to change name wrongly registered[^key-1e2b98f8c1229d1c197d4eeb9e789bd8][^key-47df93587e650ff2a531e87ebb347cbd]
+## 76B. Direction to change name wrongly registered[^c-1e2b98f8c1229d1c197d4eeb9e789bd8][^c-47df93587e650ff2a531e87ebb347cbd]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ For this purpose a shadow director is treated as an officer of the company.
 
 ## Annotations
 
-[^key-1e2b98f8c1229d1c197d4eeb9e789bd8]: Modification: [S. 76B](https://www.legislation.gov.uk/ukpga/2006/46/section/76B) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 13B](https://www.legislation.gov.uk/uksi/2009/1804/regulation/13B) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2024/234/regulation/13); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
+[^c-1e2b98f8c1229d1c197d4eeb9e789bd8]: Modification: [S. 76B](https://www.legislation.gov.uk/ukpga/2006/46/section/76B) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 13B](https://www.legislation.gov.uk/uksi/2009/1804/regulation/13B) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2024/234/regulation/13); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
 
-[^key-47df93587e650ff2a531e87ebb347cbd]: Textual amendment: [S. 76B and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4/crossheading/direction-to-change-name-wrongly-registered) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/18/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/n)
+[^c-47df93587e650ff2a531e87ebb347cbd]: Textual amendment: [S. 76B and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4/crossheading/direction-to-change-name-wrongly-registered) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/18/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/n)

@@ -22,7 +22,7 @@ summary: ''
 
 ### Part I — Interpretation
 
-**1.**[^key-b69836b1e95e2da5da0c1617c49b169b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b69836b1e95e2da5da0c1617c49b169b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Patents for Inventions
 
@@ -72,7 +72,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b69836b1e95e2da5da0c1617c49b169b]: Textual amendment: Sch. 5 para. 1 repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b69836b1e95e2da5da0c1617c49b169b]: Textual amendment: Sch. 5 para. 1 repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c8107011]: Textual amendment: Sch. 5 para. 2 repealed by [Telecommunications Act 1984 (c. 12, SIF 96)](https://www.legislation.gov.uk/ukpga/1984/12), [s. 109](https://www.legislation.gov.uk/ukpga/1984/12/section/109), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1984/12/schedule/7/part/I)
 

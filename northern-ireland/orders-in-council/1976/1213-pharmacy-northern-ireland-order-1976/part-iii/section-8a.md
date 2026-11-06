@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8A. Relevant European qualifications[^key-33c5893daeab19a2aa5c46553bed7915]
+## 8A. Relevant European qualifications[^c-33c5893daeab19a2aa5c46553bed7915]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33c5893daeab19a2aa5c46553bed7915]: Textual amendment: [Arts. 8A](https://www.legislation.gov.uk/nisi/1976/1213/article/8A), 8ZA substituted for art. 8A (31.12.2020) by [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/8) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(5)(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-33c5893daeab19a2aa5c46553bed7915]: Textual amendment: [Arts. 8A](https://www.legislation.gov.uk/nisi/1976/1213/article/8A), 8ZA substituted for art. 8A (31.12.2020) by [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/8) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(5)(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Transitional and savings provisions[^key-70a8fddd731b782a9f657f44f63296b5]
+## 14. Transitional and savings provisions[^c-70a8fddd731b782a9f657f44f63296b5]
 
 *Extent: E+W+S*
 
@@ -52,7 +52,7 @@ summary: ''
 
 ## Annotations
 
-[^key-70a8fddd731b782a9f657f44f63296b5]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/14) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-70a8fddd731b782a9f657f44f63296b5]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/14) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00016]: Footnote: [S.I. 2002/3113](https://www.legislation.gov.uk/uksi/2002/3113), amended by [S.I. 2005/1670](https://www.legislation.gov.uk/uksi/2005/1670), [S.I. 2006/2083](https://www.legislation.gov.uk/uksi/2006/2083), [S.I. 2008/2177](https://www.legislation.gov.uk/uksi/2008/2177), [S.I. 2011/1040](https://www.legislation.gov.uk/uksi/2011/1040) and [S.I. 2011/3041](https://www.legislation.gov.uk/uksi/2011/3041).
 

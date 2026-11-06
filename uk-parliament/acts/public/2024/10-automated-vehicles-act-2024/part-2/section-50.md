@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Power to change or clarify existing traffic legislation[^key-2e973c11322371be6d1a6bc1847a526c]
+## 50. Power to change or clarify existing traffic legislation[^c-2e973c11322371be6d1a6bc1847a526c]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e973c11322371be6d1a6bc1847a526c]: Commencement: S. 50 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-2e973c11322371be6d1a6bc1847a526c]: Commencement: S. 50 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

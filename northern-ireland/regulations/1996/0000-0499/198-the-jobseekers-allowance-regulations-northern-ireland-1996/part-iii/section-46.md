@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Waiting days[^key-0fe43f84f49e79d3cf486c1d90d23f62]
+## 46. Waiting days[^c-0fe43f84f49e79d3cf486c1d90d23f62]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fe43f84f49e79d3cf486c1d90d23f62]: Commencement: Reg. 46 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-0fe43f84f49e79d3cf486c1d90d23f62]: Commencement: Reg. 46 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Elections of councillors.[^c15088341][^key-601eef09fd1bb8fb1cc53354f4e96ab1][^key-6bc8be4d29756dd02c1b198424c02a42]
+## 7. Elections of councillors.[^c15088341][^c-601eef09fd1bb8fb1cc53354f4e96ab1][^c-6bc8be4d29756dd02c1b198424c02a42]
 
 *Extent: E*
 
-(1)[^c19884771][^c19884831][^c19884661][^key-7fcd0213b5ebf58825ccf734e7a88595] The ordinary elections of county councillors shall take place in 1973 and every fourth year thereafter, their term of office shall be four years and they shall retire together in every such fourth year on the fourth day after the ordinary day of election of county councillors, and in and after 1977 the newly elected councillors shall come into office on the day on which their predecessors retire.
+(1)[^c19884771][^c19884831][^c19884661][^c-7fcd0213b5ebf58825ccf734e7a88595] The ordinary elections of county councillors shall take place in 1973 and every fourth year thereafter, their term of office shall be four years and they shall retire together in every such fourth year on the fourth day after the ordinary day of election of county councillors, and in and after 1977 the newly elected councillors shall come into office on the day on which their predecessors retire.
 
 (2) The ordinary elections of metropolitan district councillors shall take place in 1973, 1975 and every year thereafter other than 1977 and every fourth year thereafter[^c15088351].
 
@@ -39,12 +39,12 @@ summary: ''
 
 and the provisions of Part II of the Local Government Act 1992 shall apply accordingly[^c15088381] *(affected by repeal, see note)*[^c18587391].
 
-(8)[^c19886461][^c19886321][^c19886301][^c19886111][^c19886091][^c19884961][^c22561511][^key-1ea631380b66e452945889d8a89922c6][^key-9a9d7bcd52a7e5eaaed56ea2f2fe43d5][^key-b1f394b444692a97dc9fa5ab4eda321c][^key-c93801b0ddc2267cd226391e806867b9] The ordinary elections of non-metropolitan district councillors shall take place—
+(8)[^c19886461][^c19886321][^c19886301][^c19886111][^c19886091][^c19884961][^c22561511][^c-1ea631380b66e452945889d8a89922c6][^c-9a9d7bcd52a7e5eaaed56ea2f2fe43d5][^c-b1f394b444692a97dc9fa5ab4eda321c][^c-c93801b0ddc2267cd226391e806867b9] The ordinary elections of non-metropolitan district councillors shall take place—
 
 - (a) except where an order is in force providing for the election of district councillors by thirds, in 1973, 1976, 1979 and every fourth year thereafter; and
 - (b) where such an order is in force, in the year when the order comes into force and every year thereafter other than a year of election of county councillors.
 
-(9)[^c19886141][^c19886131][^c19884981][^c22561511][^key-1ea631380b66e452945889d8a89922c6][^key-9a9d7bcd52a7e5eaaed56ea2f2fe43d5][^key-b1f394b444692a97dc9fa5ab4eda321c][^key-c93801b0ddc2267cd226391e806867b9] The following provisions of this subsection shall, subject to the provisions of any order made under or by virtue of this section, have effect with respect to non-metropolitan district councillors:—
+(9)[^c19886141][^c19886131][^c19884981][^c22561511][^c-1ea631380b66e452945889d8a89922c6][^c-9a9d7bcd52a7e5eaaed56ea2f2fe43d5][^c-b1f394b444692a97dc9fa5ab4eda321c][^c-c93801b0ddc2267cd226391e806867b9] The following provisions of this subsection shall, subject to the provisions of any order made under or by virtue of this section, have effect with respect to non-metropolitan district councillors:—
 
 - (a) their term of office shall be three years in the case of the councillors elected at the ordinary elections in 1973 and 1976 and four years in the case of those elected at ordinary elections held thereafter;
 - (b) except where an order is in force providing for the election of councillors by thirds, the whole number of councillors shall retire together in every ordinary year of election of such councillors on the fourth day after the ordinary day of election of such councillors, and in and after 1976 the newly elected councillors shall come into office on the day on which their predecessors retire; and
@@ -54,9 +54,9 @@ and the provisions of Part II of the Local Government Act 1992 shall apply accor
 
 [^c15088341]: Modification: S. 7 excluded (12.4.1994) by [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867), [reg. 6(3)](https://www.legislation.gov.uk/uksi/1994/867/regulation/6/3)
 
-[^key-601eef09fd1bb8fb1cc53354f4e96ab1]: Modification: S. 7 excluded (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2020/7/section/60/3), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
+[^c-601eef09fd1bb8fb1cc53354f4e96ab1]: Modification: S. 7 excluded (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2020/7/section/60/3), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
 
-[^key-6bc8be4d29756dd02c1b198424c02a42]: Modification: S. 7 excluded (29.10.2021) by [The City of Liverpool (Scheme of Elections and Elections of Elected Mayor) Order 2021 (S.I. 2021/1089)](https://www.legislation.gov.uk/uksi/2021/1089), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1089/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/1089/article/3/2)
+[^c-6bc8be4d29756dd02c1b198424c02a42]: Modification: S. 7 excluded (29.10.2021) by [The City of Liverpool (Scheme of Elections and Elections of Elected Mayor) Order 2021 (S.I. 2021/1089)](https://www.legislation.gov.uk/uksi/2021/1089), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1089/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/1089/article/3/2)
 
 [^c19884771]: Modification: S. 7(1) excluded (26.2.2008) by [The Northumberland (Structural Change) Order 2008 (S.I. 2008/494)](https://www.legislation.gov.uk/uksi/2008/494), [art. 13(3)](https://www.legislation.gov.uk/uksi/2008/494/article/13/3)
 
@@ -64,7 +64,7 @@ and the provisions of Part II of the Local Government Act 1992 shall apply accor
 
 [^c19884661]: Modification: S. 7(1) excluded (26.2.2008) by [The County Durham (Structural Change) Order 2008 (S.I. 2008/493)](https://www.legislation.gov.uk/uksi/2008/493), [art. 13(3)](https://www.legislation.gov.uk/uksi/2008/493/article/13/3)
 
-[^key-7fcd0213b5ebf58825ccf734e7a88595]: Modification: [S. 7(1)](https://www.legislation.gov.uk/ukpga/1972/70/section/7/1) excluded (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [45(1)](https://www.legislation.gov.uk/uksi/2026/264/article/45/1)
+[^c-7fcd0213b5ebf58825ccf734e7a88595]: Modification: [S. 7(1)](https://www.legislation.gov.uk/ukpga/1972/70/section/7/1) excluded (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [45(1)](https://www.legislation.gov.uk/uksi/2026/264/article/45/1)
 
 [^c15088351]: Textual amendment: Words substituted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [ss. 1](https://www.legislation.gov.uk/ukpga/1985/51/section/1), [102](https://www.legislation.gov.uk/ukpga/1985/51/section/102), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/1985/51/schedule/16/paragraph/3)
 
@@ -92,13 +92,13 @@ and the provisions of Part II of the Local Government Act 1992 shall apply accor
 
     S. 7(8)(9) excluded (25.3.2010) by [The Exeter and Devon (Structural Changes) Order 2010 (S.I. 2010/998)](https://www.legislation.gov.uk/uksi/2010/998), [arts. 1](https://www.legislation.gov.uk/uksi/2010/998/article/1), [11(1)](https://www.legislation.gov.uk/uksi/2010/998/article/11/1)
 
-[^key-1ea631380b66e452945889d8a89922c6]: Modification: S. 7(8)(9) excluded (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [19(1)](https://www.legislation.gov.uk/uksi/2020/156/article/19/1)
+[^c-1ea631380b66e452945889d8a89922c6]: Modification: S. 7(8)(9) excluded (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [19(1)](https://www.legislation.gov.uk/uksi/2020/156/article/19/1)
 
-[^key-9a9d7bcd52a7e5eaaed56ea2f2fe43d5]: Modification: [S. 7(8)](https://www.legislation.gov.uk/ukpga/1972/70/section/7/8)[(9)](https://www.legislation.gov.uk/ukpga/1972/70/section/7/9) excluded (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [20(1)](https://www.legislation.gov.uk/uksi/2022/331/article/20/1)
+[^c-9a9d7bcd52a7e5eaaed56ea2f2fe43d5]: Modification: [S. 7(8)](https://www.legislation.gov.uk/ukpga/1972/70/section/7/8)[(9)](https://www.legislation.gov.uk/ukpga/1972/70/section/7/9) excluded (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [20(1)](https://www.legislation.gov.uk/uksi/2022/331/article/20/1)
 
-[^key-b1f394b444692a97dc9fa5ab4eda321c]: Modification: [S. 7(8)](https://www.legislation.gov.uk/ukpga/1972/70/section/7/8)[(9)](https://www.legislation.gov.uk/ukpga/1972/70/section/7/9) excluded (18.3.2022) by [The North Yorkshire (Structural Changes) Order 2022 (S.I. 2022/328)](https://www.legislation.gov.uk/uksi/2022/328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/328/article/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2022/328/article/14/1)
+[^c-b1f394b444692a97dc9fa5ab4eda321c]: Modification: [S. 7(8)](https://www.legislation.gov.uk/ukpga/1972/70/section/7/8)[(9)](https://www.legislation.gov.uk/ukpga/1972/70/section/7/9) excluded (18.3.2022) by [The North Yorkshire (Structural Changes) Order 2022 (S.I. 2022/328)](https://www.legislation.gov.uk/uksi/2022/328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/328/article/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2022/328/article/14/1)
 
-[^key-c93801b0ddc2267cd226391e806867b9]: Modification: [S. 7(8)](https://www.legislation.gov.uk/ukpga/1972/70/section/7/8)[(9)](https://www.legislation.gov.uk/ukpga/1972/70/section/7/9) excluded (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [46(1)](https://www.legislation.gov.uk/uksi/2026/264/article/46/1), [48(1)](https://www.legislation.gov.uk/uksi/2026/264/article/48/1)
+[^c-c93801b0ddc2267cd226391e806867b9]: Modification: [S. 7(8)](https://www.legislation.gov.uk/ukpga/1972/70/section/7/8)[(9)](https://www.legislation.gov.uk/ukpga/1972/70/section/7/9) excluded (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [46(1)](https://www.legislation.gov.uk/uksi/2026/264/article/46/1), [48(1)](https://www.legislation.gov.uk/uksi/2026/264/article/48/1)
 
 [^c19886141]: Modification: S. 7(8)(9) excluded (26.2.2008) by [The Shropshire (Structural Change) Order 2008 (S.I. 2008/492)](https://www.legislation.gov.uk/uksi/2008/492), [art. 12(1)](https://www.legislation.gov.uk/uksi/2008/492/article/12/1)
 

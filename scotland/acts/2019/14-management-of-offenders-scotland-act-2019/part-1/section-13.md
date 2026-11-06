@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Deemed breach of disposal or conditions[^key-cbe356b4534e97a775b055d5764fd120]
+## 13. Deemed breach of disposal or conditions[^c-cbe356b4534e97a775b055d5764fd120]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ are engaged by virtue of subsection (4) accordingly (so far as relevant in the c
 
 ## Annotations
 
-[^key-cbe356b4534e97a775b055d5764fd120]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2019/14/section/13) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(i)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/i) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2))
+[^c-cbe356b4534e97a775b055d5764fd120]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2019/14/section/13) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(i)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/i) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2))

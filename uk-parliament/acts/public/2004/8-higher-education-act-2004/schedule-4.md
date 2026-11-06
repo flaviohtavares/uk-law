@@ -26,17 +26,17 @@ Section 16
 
 #### Introduction
 
-**1.**[^key-5c5955d053ba3d65cf1c8584074b8f68][^key-a4e7df02d5adecc80b2fc9381e30416f] This Part of this Schedule sets out the circumstances in which the designation of a body corporate under section 13 is terminated.
+**1.**[^c-5c5955d053ba3d65cf1c8584074b8f68][^c-a4e7df02d5adecc80b2fc9381e30416f] This Part of this Schedule sets out the circumstances in which the designation of a body corporate under section 13 is terminated.
 
 #### Agreement
 
-**2.**[^key-bb882b3d51c14f74d6f23c11f3994ad1][^key-835e5db602998cb914e86991d4c6ed59] The designation is terminated if the designated operator and the Secretary of State or the Assembly (as the case may be) make an agreement which specifies a date when the designation is to terminate.
+**2.**[^c-bb882b3d51c14f74d6f23c11f3994ad1][^c-835e5db602998cb914e86991d4c6ed59] The designation is terminated if the designated operator and the Secretary of State or the Assembly (as the case may be) make an agreement which specifies a date when the designation is to terminate.
 
-**3.**[^key-009207c10fe5ad8e84a13f733d2febd9][^key-8ac2c8462456c8b5f39dad1b18322924] In this case the designation is terminated on the date specified in the agreement.
+**3.**[^c-009207c10fe5ad8e84a13f733d2febd9][^c-8ac2c8462456c8b5f39dad1b18322924] In this case the designation is terminated on the date specified in the agreement.
 
 #### Notice given by the designated operator
 
-**4.**[^key-cec1b37c48a38fef0b324ec26f03c92e][^key-a3a1fb746f57cabdc27f75e4029e9866] (1) The designation is terminated if the designated operator gives the Secretary of State or the Assembly (as the case may be) notice which specifies a date when the designation is to terminate.
+**4.**[^c-cec1b37c48a38fef0b324ec26f03c92e][^c-a3a1fb746f57cabdc27f75e4029e9866] (1) The designation is terminated if the designated operator gives the Secretary of State or the Assembly (as the case may be) notice which specifies a date when the designation is to terminate.
 
 (2) Notice under this paragraph is valid only if the period between—
 
@@ -45,11 +45,11 @@ Section 16
 
 is one year or longer.
 
-**5.**[^key-6dce719369c1c23434d32fbf71b3b684][^key-7657fcd8499e3d53cf9b68ec8780af36] In this case the designation is terminated on the date specified in the notice.
+**5.**[^c-6dce719369c1c23434d32fbf71b3b684][^c-7657fcd8499e3d53cf9b68ec8780af36] In this case the designation is terminated on the date specified in the notice.
 
 #### Notice given by Secretary of State or Assembly
 
-**6.**[^key-b133d816b8bd46eeb6c9ddf6556f043e][^key-0bb14cb742d764e069dd4f35955ae0f1] (1) The designation is terminated if the Secretary of State or the Assembly (as the case may be) gives the designated operator notice which specifies a date when the designation is to terminate.
+**6.**[^c-b133d816b8bd46eeb6c9ddf6556f043e][^c-0bb14cb742d764e069dd4f35955ae0f1] (1) The designation is terminated if the Secretary of State or the Assembly (as the case may be) gives the designated operator notice which specifies a date when the designation is to terminate.
 
 (2) Notice under this paragraph may not be given unless the Secretary of State or the Assembly—
 
@@ -63,19 +63,19 @@ is one year or longer.
 
 is such as the Secretary of State or the Assembly considers reasonable.
 
-**7.**[^key-c7a87343ed2021a3d053f7ffdce697a7][^key-7281eb6de019de4618f1dcd51fb42648] In this case the designation is terminated on the date specified in the notice.
+**7.**[^c-c7a87343ed2021a3d053f7ffdce697a7][^c-7281eb6de019de4618f1dcd51fb42648] In this case the designation is terminated on the date specified in the notice.
 
 #### Operator ceases to exist
 
-**8.**[^key-ac9c21dac3161691411868544b51d7b0][^key-8e21bd866eb1a2c200d5b5467501a5e1] The designation is terminated if the designated operator ceases to exist.
+**8.**[^c-ac9c21dac3161691411868544b51d7b0][^c-8e21bd866eb1a2c200d5b5467501a5e1] The designation is terminated if the designated operator ceases to exist.
 
-**9.**[^key-a1fff5582e6685bb8f11c6e9bc902348][^key-c16c10689ee93fdbac7829aea69a0661] In this case the designation is terminated on the date when the operator ceases to exist.
+**9.**[^c-a1fff5582e6685bb8f11c6e9bc902348][^c-c16c10689ee93fdbac7829aea69a0661] In this case the designation is terminated on the date when the operator ceases to exist.
 
 ### Part 2 — Agreement made or notice given under Part 1: supplementary provision
 
 #### Introduction
 
-**10.**[^key-a8c7ca08ec9d897fe5b7ac49c846cd40][^key-e460cc8e5b636e63644ba2c2c9feb8f3] (1) This Part of this Schedule applies where—
+**10.**[^c-a8c7ca08ec9d897fe5b7ac49c846cd40][^c-e460cc8e5b636e63644ba2c2c9feb8f3] (1) This Part of this Schedule applies where—
 
 - (a) the designated operator and the Secretary of State or the Assembly have made an agreement under paragraph 2,
 - (b) the designated operator has given notice under paragraph 4, or
@@ -88,7 +88,7 @@ is such as the Secretary of State or the Assembly considers reasonable.
 
 #### Effect of agreement or notice on provisions of Part 1 of Schedule
 
-**11.**[^key-2bc55a60bc2906414c92e8c1ad1d00e7][^key-2444cbb1d2f39ad37411bae2d13005f8] (1) Where this Part of this Schedule applies—
+**11.**[^c-2bc55a60bc2906414c92e8c1ad1d00e7][^c-2444cbb1d2f39ad37411bae2d13005f8] (1) Where this Part of this Schedule applies—
 
 - (a) the designated operator and the Secretary of State or the Assembly may not make an agreement, or a new agreement, under paragraph 2,
 - (b) the designated operator may not give a notice, or a new notice, under paragraph 4, and
@@ -105,21 +105,21 @@ is such as the Secretary of State or the Assembly considers reasonable.
 
 #### Circumstances in which agreement or notice superseded
 
-**12.**[^key-e516d6dac43c5d5d43107ed319c707e4][^key-60fbae01ff680a7414442b9f35ab719b] The original instrument of termination is superseded only if—
+**12.**[^c-e516d6dac43c5d5d43107ed319c707e4][^c-60fbae01ff680a7414442b9f35ab719b] The original instrument of termination is superseded only if—
 
 - (a) notice under paragraph 6 is given in accordance with paragraph 11(2), or
 - (b) the designation in question is terminated in accordance with paragraph 8 (operator ceases to exist).
 
 #### Agreement or notice not capable of variation or cancellation or revocation
 
-**13.**[^key-95f1fbaef48d29553207e8913b96d38f][^key-50b9ee2178bf8900769a3b5a13454bcc] (1) An agreement made under paragraph 2 may not be varied or cancelled.
+**13.**[^c-95f1fbaef48d29553207e8913b96d38f][^c-50b9ee2178bf8900769a3b5a13454bcc] (1) An agreement made under paragraph 2 may not be varied or cancelled.
 
 (2) Accordingly such an agreement continues in force until—
 
 - (a) the designation is terminated in accordance with the agreement, or
 - (b) the agreement is superseded in accordance with paragraph 12.
 
-**14.**[^key-11a5cd2e77c48a0b1399b4de1464c6de][^key-b8b91d5fa589d89f5e313178a9d71590] (1) Notice given under paragraph 4 or 6 may not be varied or revoked.
+**14.**[^c-11a5cd2e77c48a0b1399b4de1464c6de][^c-b8b91d5fa589d89f5e313178a9d71590] (1) Notice given under paragraph 4 or 6 may not be varied or revoked.
 
 (2) Accordingly such notice continues in force until—
 
@@ -128,58 +128,58 @@ is such as the Secretary of State or the Assembly considers reasonable.
 
 ## Annotations
 
-[^key-5c5955d053ba3d65cf1c8584074b8f68]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/1) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-5c5955d053ba3d65cf1c8584074b8f68]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/1) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-a4e7df02d5adecc80b2fc9381e30416f]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/1) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
+[^c-a4e7df02d5adecc80b2fc9381e30416f]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/1) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
 
-[^key-bb882b3d51c14f74d6f23c11f3994ad1]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/2) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-bb882b3d51c14f74d6f23c11f3994ad1]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/2) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-835e5db602998cb914e86991d4c6ed59]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/2) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
+[^c-835e5db602998cb914e86991d4c6ed59]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/2) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
 
-[^key-009207c10fe5ad8e84a13f733d2febd9]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/3) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-009207c10fe5ad8e84a13f733d2febd9]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/3) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-8ac2c8462456c8b5f39dad1b18322924]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/3) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
+[^c-8ac2c8462456c8b5f39dad1b18322924]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/3) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
 
-[^key-cec1b37c48a38fef0b324ec26f03c92e]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/4) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-cec1b37c48a38fef0b324ec26f03c92e]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/4) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-a3a1fb746f57cabdc27f75e4029e9866]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/4) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
+[^c-a3a1fb746f57cabdc27f75e4029e9866]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/4) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
 
-[^key-6dce719369c1c23434d32fbf71b3b684]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/5) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-6dce719369c1c23434d32fbf71b3b684]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/5) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-7657fcd8499e3d53cf9b68ec8780af36]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/5) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
+[^c-7657fcd8499e3d53cf9b68ec8780af36]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/5) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
 
-[^key-b133d816b8bd46eeb6c9ddf6556f043e]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/6) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-b133d816b8bd46eeb6c9ddf6556f043e]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/6) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-0bb14cb742d764e069dd4f35955ae0f1]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/6) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
+[^c-0bb14cb742d764e069dd4f35955ae0f1]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/6) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
 
-[^key-c7a87343ed2021a3d053f7ffdce697a7]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/7) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-c7a87343ed2021a3d053f7ffdce697a7]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/7) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-7281eb6de019de4618f1dcd51fb42648]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/7) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
+[^c-7281eb6de019de4618f1dcd51fb42648]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/7) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
 
-[^key-ac9c21dac3161691411868544b51d7b0]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/8) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-ac9c21dac3161691411868544b51d7b0]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/8) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-8e21bd866eb1a2c200d5b5467501a5e1]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/8) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
+[^c-8e21bd866eb1a2c200d5b5467501a5e1]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/8) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
 
-[^key-a1fff5582e6685bb8f11c6e9bc902348]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/9) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-a1fff5582e6685bb8f11c6e9bc902348]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/9) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-c16c10689ee93fdbac7829aea69a0661]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/9) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
+[^c-c16c10689ee93fdbac7829aea69a0661]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/9) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
 
-[^key-a8c7ca08ec9d897fe5b7ac49c846cd40]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/10) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-a8c7ca08ec9d897fe5b7ac49c846cd40]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/10) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-e460cc8e5b636e63644ba2c2c9feb8f3]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/10) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
+[^c-e460cc8e5b636e63644ba2c2c9feb8f3]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/10) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
 
-[^key-2bc55a60bc2906414c92e8c1ad1d00e7]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/11) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-2bc55a60bc2906414c92e8c1ad1d00e7]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/11) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-2444cbb1d2f39ad37411bae2d13005f8]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/11) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
+[^c-2444cbb1d2f39ad37411bae2d13005f8]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/11) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
 
-[^key-e516d6dac43c5d5d43107ed319c707e4]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/12) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-e516d6dac43c5d5d43107ed319c707e4]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/12) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-60fbae01ff680a7414442b9f35ab719b]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/12) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
+[^c-60fbae01ff680a7414442b9f35ab719b]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/12) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
 
-[^key-95f1fbaef48d29553207e8913b96d38f]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/13) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-95f1fbaef48d29553207e8913b96d38f]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/13) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-50b9ee2178bf8900769a3b5a13454bcc]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/13) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
+[^c-50b9ee2178bf8900769a3b5a13454bcc]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/13) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
 
-[^key-11a5cd2e77c48a0b1399b4de1464c6de]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/14) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-11a5cd2e77c48a0b1399b4de1464c6de]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/14) in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-b8b91d5fa589d89f5e313178a9d71590]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/14) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)
+[^c-b8b91d5fa589d89f5e313178a9d71590]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2004/8/schedule/4/paragraph/14) in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/1)

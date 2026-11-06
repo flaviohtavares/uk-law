@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Duty to prepare annual reports[^key-991c62ddb9b060d47ac26277b005c906][^key-8318106b6204a3594c720aa5fe479e81]
+## 4. Duty to prepare annual reports[^c-991c62ddb9b060d47ac26277b005c906][^c-8318106b6204a3594c720aa5fe479e81]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-991c62ddb9b060d47ac26277b005c906]: Commencement: S. 4 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-991c62ddb9b060d47ac26277b005c906]: Commencement: S. 4 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-8318106b6204a3594c720aa5fe479e81]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/31/section/4) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)
+[^c-8318106b6204a3594c720aa5fe479e81]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/31/section/4) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)

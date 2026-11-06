@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 11 — Suspension of assistance[^key-326e6070b0f029b4f5b2da7207379920]
+## SCHEDULE 11 — Suspension of assistance[^c-326e6070b0f029b4f5b2da7207379920]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 **1.** (1) The regulations may provide for an individual's assistance to be suspended in the following circumstances only—
 
-- (a) under section 54(1A) or 87B(7)[^key-5e3ec871ca1965d5b423b34b4a0dbeb0] the Scottish Ministers have issued a decision to suspend assistance to the individual due to a failure to provide information which the individual is yet to provide,
+- (a) under section 54(1A) or 87B(7)[^c-5e3ec871ca1965d5b423b34b4a0dbeb0] the Scottish Ministers have issued a decision to suspend assistance to the individual due to a failure to provide information which the individual is yet to provide,
 - (b) where the Scottish Ministers have made arrangements (whether under section 85A, 85B or otherwise) for a person to receive the assistance on the individual's behalf, and the Ministers consider that it is necessary to suspend the assistance—
   - (i) in order to protect the individual from the risk of financial abuse,
   - (ii) because the person with whom the Ministers have made arrangements is unable to continue to receive the assistance, or
@@ -81,6 +81,6 @@ the individual is immediately to be given under section 24 the assistance that t
 
 ## Annotations
 
-[^key-326e6070b0f029b4f5b2da7207379920]: Textual amendment: Sch. 11 inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 12(4)](https://www.legislation.gov.uk/asp/2020/18/section/12/4), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/f)
+[^c-326e6070b0f029b4f5b2da7207379920]: Textual amendment: Sch. 11 inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 12(4)](https://www.legislation.gov.uk/asp/2020/18/section/12/4), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/f)
 
-[^key-5e3ec871ca1965d5b423b34b4a0dbeb0]: Textual amendment: Words in Sch. 11 para. 1(1)(a) inserted (15.12.2025 for specified purposes) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 18(3)](https://www.legislation.gov.uk/asp/2025/2/section/18/3), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/377](https://www.legislation.gov.uk/ssi/2025/377), [reg. 2](https://www.legislation.gov.uk/ssi/2025/377/regulation/2)
+[^c-5e3ec871ca1965d5b423b34b4a0dbeb0]: Textual amendment: Words in Sch. 11 para. 1(1)(a) inserted (15.12.2025 for specified purposes) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 18(3)](https://www.legislation.gov.uk/asp/2025/2/section/18/3), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/377](https://www.legislation.gov.uk/ssi/2025/377), [reg. 2](https://www.legislation.gov.uk/ssi/2025/377/regulation/2)

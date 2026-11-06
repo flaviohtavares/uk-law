@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 142. Student’s income treated as capital[^key-40bc9c56e14f24cf649d2905d413d55a]
+## 142. Student’s income treated as capital[^c-40bc9c56e14f24cf649d2905d413d55a]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40bc9c56e14f24cf649d2905d413d55a]: Commencement: [Reg. 142](https://www.legislation.gov.uk/nisr/2008/280/regulation/142) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-40bc9c56e14f24cf649d2905d413d55a]: Commencement: [Reg. 142](https://www.legislation.gov.uk/nisr/2008/280/regulation/142) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

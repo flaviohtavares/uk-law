@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Duty of local authorities to protect public health[^key-986d024c4bc92c9debea46b20d9f6c4b]
+## 4. Duty of local authorities to protect public health[^c-986d024c4bc92c9debea46b20d9f6c4b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Each local authority is to continue to make provision, or secure that provision 
 
 ## Annotations
 
-[^key-986d024c4bc92c9debea46b20d9f6c4b]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2008/5/section/4) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-986d024c4bc92c9debea46b20d9f6c4b]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2008/5/section/4) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

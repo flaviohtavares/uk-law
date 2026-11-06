@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Power of Auditor General to carry out a special inspection[^key-cab471a634cc513a183fd84d19e261e2]
+## 95. Power of Auditor General to carry out a special inspection[^c-cab471a634cc513a183fd84d19e261e2]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cab471a634cc513a183fd84d19e261e2]: Commencement: S. 95 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)
+[^c-cab471a634cc513a183fd84d19e261e2]: Commencement: S. 95 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

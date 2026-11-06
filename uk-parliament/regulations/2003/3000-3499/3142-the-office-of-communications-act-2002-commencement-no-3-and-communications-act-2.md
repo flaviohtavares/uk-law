@@ -39,7 +39,7 @@ Made
 
 The Secretary of State, in exercise of the powers conferred upon her by section 7(2) of the Office of Communications Act 2002[^f00001] and sections 408(6)(b) and 411(2) and (4) of the Communications Act 2003[^f00002], hereby makes the following Order:
 
-## 1. Citation, interpretation and revocation[^key-1d8c9f53b46867cbf0a9c5e373c70674]
+## 1. Citation, interpretation and revocation[^c-1d8c9f53b46867cbf0a9c5e373c70674]
 
 (1) This Order may be cited as the Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) Order 2003.
 
@@ -57,11 +57,11 @@ The Secretary of State, in exercise of the powers conferred upon her by section 
 
 (3) Article 3(2) of the first commencement order is revoked.
 
-## 2. Commencement on 12th December 2003[^key-4d77d296282373e08b5d288c925d604b]
+## 2. Commencement on 12th December 2003[^c-4d77d296282373e08b5d288c925d604b]
 
 Section 282 of and paragraphs 10 and 17 of Schedule 14 to the principal Act shall come into force on 12th December 2003.
 
-## 3. Commencement on 29th December 2003[^key-85cadfa88315c38d0eab5e3ce1cb26d0]
+## 3. Commencement on 29th December 2003[^c-85cadfa88315c38d0eab5e3ce1cb26d0]
 
 (1) Paragraph 12 of the Schedule to the Office of Communications Act 2002 and the provisions of the principal Act set out in Schedule 1 hereto shall, subject to the exceptions set out therein and to paragraph (3) below, come into force on 29th December 2003.
 
@@ -74,27 +74,27 @@ Section 282 of and paragraphs 10 and 17 of Schedule 14 to the principal Act shal
 - (c) the reference to the enactments relating to the management of the radio spectrum in section 394(2)(c) of the principal Act shall be construed in respect of television licences and television receivers as a reference to those enactments as they apply immediately before 29th December 2003, and
 - (d) section 15 of the 1949 Act shall apply in respect of television licences and television receivers as if references therein to the Secretary of State included references to OFCOM, save that in respect of television licences and television receivers, OFCOM may do under the said section 15 only those things which they will be able to do under section 366 of the principal Act when it comes into force on 1st April 2004.
 
-## 4. Subsequent commencement[^key-4e29f0ca9c9aab2ea8a75f4b470ecb0d]
+## 4. Subsequent commencement[^c-4e29f0ca9c9aab2ea8a75f4b470ecb0d]
 
 (1) Section 253 of the principal Act shall come into force on 2nd January 2004.
 
-(1A)[^key-60b0fe0588d8756f4fd5377ea007e69c] Section 367 of the principal Act shall come into force on 9th March 2004 for the purposes of enabling regulations to be made under section 6(1) of the Wireless Telegraphy Act 1967 as amended by that section.
+(1A)[^c-60b0fe0588d8756f4fd5377ea007e69c] Section 367 of the principal Act shall come into force on 9th March 2004 for the purposes of enabling regulations to be made under section 6(1) of the Wireless Telegraphy Act 1967 as amended by that section.
 
 (2) The provisions of the principal Act set out in Schedule 2 hereto shall come into force on 1st April 2004.
 
-(3)[^key-a89bffa26eaaf51f6dfa1a811056c1cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a89bffa26eaaf51f6dfa1a811056c1cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-4e501d15d2d3d9d971e3a3e36420cdc7] The following provisions of the principal Act shall come into force on 1st July 2004—
+(4)[^c-4e501d15d2d3d9d971e3a3e36420cdc7] The following provisions of the principal Act shall come into force on 1st July 2004—
 
 - (a) section 278;
 - (b) sections 351 and 353 (so far as not already in force); and
 - (c) paragraph 8 of Schedule 12.
 
-## 5. Transitional provision: advisory bodies under Telecommunications Act 1984, section 54[^key-5f14b04dc2e60f8c6855b815d9e8203c]
+## 5. Transitional provision: advisory bodies under Telecommunications Act 1984, section 54[^c-5f14b04dc2e60f8c6855b815d9e8203c]
 
 If, upon the repeal of section 54 of the Telecommunications Act 1984[^f00008] on 29th December 2003, any of the advisory bodies established thereunder has not ceased to exist by virtue of an order under section 31(5) of the principal Act, subsections (7) and (8) of the said section 54 shall continue to have effect in respect of that body until it ceases to exist as if the reference to the Director[^f00009] in subsection (7) were a reference to OFCOM and the reference thereto in subsection (8) were omitted.
 
-## 6. Transitional provisions: Independent Television Commission, Radio Authority and Broadcasting Standards Commission[^key-3cb25002eeb80fcc2c1708c4122f8618]
+## 6. Transitional provisions: Independent Television Commission, Radio Authority and Broadcasting Standards Commission[^c-3cb25002eeb80fcc2c1708c4122f8618]
 
 (1) In any period between the repeal of section 1 of and Schedule 1 to the 1990 Act on 29th December 2003 and the day on which the ITC ceases to exist by virtue of an order under section 31(4) of the principal Act—
 
@@ -133,21 +133,21 @@ If, upon the repeal of section 54 of the Telecommunications Act 1984[^f00008] on
   - (i) any reference to the “financial year” or “year” were a reference to the period referred to in that subparagraph, and
   - (ii) any reference to a person providing a licensed service were a reference to a person providing such a service immediately before 29th December 2003.
 
-## 7. Transitional provision: section 199 of the principal Act[^key-06d74aa6ecb0138143c684c0d80271ff]
+## 7. Transitional provision: section 199 of the principal Act[^c-06d74aa6ecb0138143c684c0d80271ff]
 
 In relation to any period between the commencement of section 199 of the principal Act and the commencement of section 265 of that Act, the reference in subsection (2)(b) of section 199 to “the public service remit for that Channel under section 265” shall have effect, notwithstanding any repeal brought into force by this Order, as if the public service remit for Channel Four consisted of the requirements to be complied with by that Channel which are specified in subsection (1) and paragraphs (a) and (b) of subsection (2) of section 25 of the 1990 Act.
 
-## 8. Transitional provisions: section 221 of the principal Act[^key-05db4e7aa28b680d9fa2816a2919dd4a]
+## 8. Transitional provisions: section 221 of the principal Act[^c-05db4e7aa28b680d9fa2816a2919dd4a]
 
 (1) Sections 219, 220 and 298 of and Schedule 10 to the principal Act shall not apply in relation to the existing licence referred to in section 221(1) thereof.
 
 (2) Sections 276 and 308 of and paragraph 21(4) of Schedule 15 to the principal Act shall not apply in relation to the existing service as defined in section 221(11) thereof.
 
-## 9. Transitional provision: section 237 of the principal Act[^key-29bf90e15a9a338b8aa679342f3b2eb8]
+## 9. Transitional provision: section 237 of the principal Act[^c-29bf90e15a9a338b8aa679342f3b2eb8]
 
 Section 237 of the principal Act applies in relation to a contravention of a condition of a licence or a failure to comply with a direction only if it is one occurring after the commencement of that section.
 
-## 10. Transitional provisions: existing legislation[^key-dc772aa3496bee9b563b7b92e2dc9fd3]
+## 10. Transitional provisions: existing legislation[^c-dc772aa3496bee9b563b7b92e2dc9fd3]
 
 (1) The repeal of sections 45(5) to (6A) and 47(8) to (9A) of the 1990 Act shall not affect the operation of section 41 of that Act, as applied by those provisions, in relation to any matter arising before the coming into force of those repeals.
 
@@ -159,7 +159,7 @@ Section 237 of the principal Act applies in relation to a contravention of a con
 
 (4) In relation to any time between the commencement of the repeal of section 2 of the 1990 Act on 29th December 2003 and the coming into force of any revocation of regulation 3 of the Wireless Telegraphy (Television Licence Fees) Regulations 1997[^f00010], the reference in that regulation to “television programme services” as defined by section 2(4) of the 1990 Act shall be read as if it were a reference to such services as defined by section 362 of the principal Act.
 
-## 11. Transitional provision: complaints to Broadcasting Standards Commission[^key-7f1ddf81ef3874aa8342fe52f21dd3a1]
+## 11. Transitional provision: complaints to Broadcasting Standards Commission[^c-7f1ddf81ef3874aa8342fe52f21dd3a1]
 
 (1) This article shall apply to a standards complaint made to, but not disposed of by, the BSC before the transfer to OFCOM on 29th December 2003, in accordance with the provisions of the principal Act brought into force by this Order, of the functions of the BSC under Part 5 of the 1996 Act.
 
@@ -182,11 +182,11 @@ Department of Trade and Industry
 
 8th December 2003
 
-## SCHEDULE 1 — Provisions of the Communications Act 2003 coming into force on 29th December 2003[^key-622b3f7b905dbe096f1b01e9075e51c9]
+## SCHEDULE 1 — Provisions of the Communications Act 2003 coming into force on 29th December 2003[^c-622b3f7b905dbe096f1b01e9075e51c9]
 
 Article 3(1)
 
-[^key-622b3f7b905dbe096f1b01e9075e51c9]
+[^c-622b3f7b905dbe096f1b01e9075e51c9]
 
 The following sections so far as not already in force: 1, 26, 31, 56 to 63, 152, 350, 360, 369, 393 and 394.
 
@@ -250,18 +250,18 @@ The following sections so far as not already in force: 1, 26, 31, 56 to 63, 152,
   - note 3;
   - the entry for the Race Relations (Northern Ireland) Order 1997.
 
-## SCHEDULE 2 — Provisions of the Communications Act 2003 coming into force on 1st April 2004[^key-0d1683a26c5a4abb1c4ebb2c22f6477b]
+## SCHEDULE 2 — Provisions of the Communications Act 2003 coming into force on 1st April 2004[^c-0d1683a26c5a4abb1c4ebb2c22f6477b]
 
 Article 4(2)
 
-[^key-0d1683a26c5a4abb1c4ebb2c22f6477b]
+[^c-0d1683a26c5a4abb1c4ebb2c22f6477b]
 
-- Section 2[^key-0d7ef973bdb3b016e617bff575191a91] (so far as not already in force).
-- Sections 363 to 366, 367 (so far as not already in force) and 368.[^key-2623b789ecc6f3b60e4bc29eb094ad1c]
+- Section 2[^c-0d7ef973bdb3b016e617bff575191a91] (so far as not already in force).
+- Sections 363 to 366, 367 (so far as not already in force) and 368.[^c-2623b789ecc6f3b60e4bc29eb094ad1c]
 - Section 406(1) and (7) in respect of the provisions of Schedules 17 and 19 set out in this Schedule.
 - Section 406(6) (so far as not already in force).
 - Schedule 1 (so far as not already in force).
-- [^key-add7264f0436c3da5fbf4868f3555d56]....
+- [^c-add7264f0436c3da5fbf4868f3555d56]....
 - In Schedule 17—
   - the following paragraphs so far as not already in force: 6, 15 and 161;
   - paragraphs 133(1) and (3) and 159.
@@ -312,7 +312,7 @@ The following provisions of the Communications Act 2003 remain to be brought int
 
 [^f00002]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-1d8c9f53b46867cbf0a9c5e373c70674]: Commencement: Art. 1 in force at made date
+[^c-1d8c9f53b46867cbf0a9c5e373c70674]: Commencement: Art. 1 in force at made date
 
 [^f00003]: Footnote: [1949 c. 54](https://www.legislation.gov.uk/ukpga/1949/54): sections 1, 2, 15 and 19 were amended in respect of television licences and television receivers by [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42), section 180(1) and Schedule 18, Part 1.
 
@@ -322,48 +322,48 @@ The following provisions of the Communications Act 2003 remain to be brought int
 
 [^f00006]: Footnote: S.I. [2003/1900 (C. 77)](https://www.legislation.gov.uk/uksi/2003/1900).
 
-[^key-4d77d296282373e08b5d288c925d604b]: Commencement: Art. 2 in force at made date
+[^c-4d77d296282373e08b5d288c925d604b]: Commencement: Art. 2 in force at made date
 
-[^key-85cadfa88315c38d0eab5e3ce1cb26d0]: Commencement: Art. 3 in force at made date
+[^c-85cadfa88315c38d0eab5e3ce1cb26d0]: Commencement: Art. 3 in force at made date
 
 [^f00007]: Footnote: [1998 c. 6](https://www.legislation.gov.uk/ukpga/1998/6).
 
-[^key-4e29f0ca9c9aab2ea8a75f4b470ecb0d]: Commencement: Art. 4 in force at made date
+[^c-4e29f0ca9c9aab2ea8a75f4b470ecb0d]: Commencement: Art. 4 in force at made date
 
-[^key-60b0fe0588d8756f4fd5377ea007e69c]: Textual amendment: [Art. 4(1A)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/1A) inserted (8.3.2004) by [Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) (Amendment No. 2) Order 2004 (S.I. 2004/697)](https://www.legislation.gov.uk/uksi/2004/697), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/697/article/2/2)
+[^c-60b0fe0588d8756f4fd5377ea007e69c]: Textual amendment: [Art. 4(1A)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/1A) inserted (8.3.2004) by [Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) (Amendment No. 2) Order 2004 (S.I. 2004/697)](https://www.legislation.gov.uk/uksi/2004/697), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/697/article/2/2)
 
-[^key-a89bffa26eaaf51f6dfa1a811056c1cd]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/3) omitted (8.6.2004) by virtue of [Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) (Amendment No. 3) Order 2004 (S.I. 2004/1492)](https://www.legislation.gov.uk/uksi/2004/1492), [art. 2](https://www.legislation.gov.uk/uksi/2004/1492/article/2)
+[^c-a89bffa26eaaf51f6dfa1a811056c1cd]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/3) omitted (8.6.2004) by virtue of [Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) (Amendment No. 3) Order 2004 (S.I. 2004/1492)](https://www.legislation.gov.uk/uksi/2004/1492), [art. 2](https://www.legislation.gov.uk/uksi/2004/1492/article/2)
 
-[^key-4e501d15d2d3d9d971e3a3e36420cdc7]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/4) inserted (4.3.2004) by [Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) (Amendment) Order 2004 (S.I. 2004/545)](https://www.legislation.gov.uk/uksi/2004/545), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/545/article/2/2)
+[^c-4e501d15d2d3d9d971e3a3e36420cdc7]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/4) inserted (4.3.2004) by [Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) (Amendment) Order 2004 (S.I. 2004/545)](https://www.legislation.gov.uk/uksi/2004/545), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/545/article/2/2)
 
-[^key-5f14b04dc2e60f8c6855b815d9e8203c]: Commencement: Art. 5 in force at made date
+[^c-5f14b04dc2e60f8c6855b815d9e8203c]: Commencement: Art. 5 in force at made date
 
 [^f00008]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12).
 
 [^f00009]: Footnote: The Director General of Telecommunications, appointed under [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12), section 1.
 
-[^key-3cb25002eeb80fcc2c1708c4122f8618]: Commencement: Art. 6 in force at made date
+[^c-3cb25002eeb80fcc2c1708c4122f8618]: Commencement: Art. 6 in force at made date
 
-[^key-06d74aa6ecb0138143c684c0d80271ff]: Commencement: Art. 7 in force at made date
+[^c-06d74aa6ecb0138143c684c0d80271ff]: Commencement: Art. 7 in force at made date
 
-[^key-05db4e7aa28b680d9fa2816a2919dd4a]: Commencement: Art. 8 in force at made date
+[^c-05db4e7aa28b680d9fa2816a2919dd4a]: Commencement: Art. 8 in force at made date
 
-[^key-29bf90e15a9a338b8aa679342f3b2eb8]: Commencement: Art. 9 in force at made date
+[^c-29bf90e15a9a338b8aa679342f3b2eb8]: Commencement: Art. 9 in force at made date
 
-[^key-dc772aa3496bee9b563b7b92e2dc9fd3]: Commencement: Art. 10 in force at made date
+[^c-dc772aa3496bee9b563b7b92e2dc9fd3]: Commencement: Art. 10 in force at made date
 
 [^f00010]: Footnote: [SI 1997/290](https://www.legislation.gov.uk/uksi/1997/290), which set the level of the television licence fee. Regulation 3 provides the definition of “television receiver” for the purposes of [1949 c. 54](https://www.legislation.gov.uk/ukpga/1949/54).
 
-[^key-7f1ddf81ef3874aa8342fe52f21dd3a1]: Commencement: Art. 11 in force at made date
+[^c-7f1ddf81ef3874aa8342fe52f21dd3a1]: Commencement: Art. 11 in force at made date
 
-[^key-622b3f7b905dbe096f1b01e9075e51c9]: Commencement: Sch. 1 in force at made date
+[^c-622b3f7b905dbe096f1b01e9075e51c9]: Commencement: Sch. 1 in force at made date
 
 [^f00011]: Footnote: [1949 c. 54](https://www.legislation.gov.uk/ukpga/1949/54): section 1D was inserted by S.I. [1997/2930](https://www.legislation.gov.uk/uksi/1997/2930).
 
-[^key-0d1683a26c5a4abb1c4ebb2c22f6477b]: Commencement: Sch. 2 in force at made date
+[^c-0d1683a26c5a4abb1c4ebb2c22f6477b]: Commencement: Sch. 2 in force at made date
 
-[^key-0d7ef973bdb3b016e617bff575191a91]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) substituted (4.3.2004) by [Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) (Amendment) Order 2004 (S.I. 2004/545)](https://www.legislation.gov.uk/uksi/2004/545), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2004/545/article/2/3/a)
+[^c-0d7ef973bdb3b016e617bff575191a91]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) substituted (4.3.2004) by [Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) (Amendment) Order 2004 (S.I. 2004/545)](https://www.legislation.gov.uk/uksi/2004/545), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2004/545/article/2/3/a)
 
-[^key-2623b789ecc6f3b60e4bc29eb094ad1c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) substituted (8.3.2004) by [Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) (Amendment No. 2) Order 2004 (S.I. 2004/697)](https://www.legislation.gov.uk/uksi/2004/697), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/697/article/2/3)
+[^c-2623b789ecc6f3b60e4bc29eb094ad1c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) substituted (8.3.2004) by [Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) (Amendment No. 2) Order 2004 (S.I. 2004/697)](https://www.legislation.gov.uk/uksi/2004/697), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/697/article/2/3)
 
-[^key-add7264f0436c3da5fbf4868f3555d56]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) omitted (4.3.2004) by virtue of [Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) (Amendment) Order 2004 (S.I. 2004/545)](https://www.legislation.gov.uk/uksi/2004/545), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2004/545/article/2/3/c)
+[^c-add7264f0436c3da5fbf4868f3555d56]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) omitted (4.3.2004) by virtue of [Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) (Amendment) Order 2004 (S.I. 2004/545)](https://www.legislation.gov.uk/uksi/2004/545), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2004/545/article/2/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165.[^key-3e6088774a240a81442935ebf1a1cecd]
+## 165.[^c-3e6088774a240a81442935ebf1a1cecd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 673 (taxable maximum: income-based jobseeker’s allowance), in subse
 
 ## Annotations
 
-[^key-3e6088774a240a81442935ebf1a1cecd]: Commencement: Reg. 165 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-3e6088774a240a81442935ebf1a1cecd]: Commencement: Reg. 165 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

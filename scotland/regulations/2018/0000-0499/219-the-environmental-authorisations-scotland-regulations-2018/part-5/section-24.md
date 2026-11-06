@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-454bca6ffae57f6a09a920a6e6b6a221] SEPA may review the conditions of a permit at any time.
+(1)[^c-454bca6ffae57f6a09a920a6e6b6a221] SEPA may review the conditions of a permit at any time.
 
-(2)[^key-a8805f6c56a58d9a76a3719e0524384d] Where SEPA carries out a review under paragraph (1), any fee payable under a charging scheme for that review is payable by the authorised person.
+(2)[^c-a8805f6c56a58d9a76a3719e0524384d] Where SEPA carries out a review under paragraph (1), any fee payable under a charging scheme for that review is payable by the authorised person.
 
 ## Annotations
 
-[^key-454bca6ffae57f6a09a920a6e6b6a221]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/ssi/2018/219/regulation/24) renumbered as reg. 24(1) (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [14(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/14/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-454bca6ffae57f6a09a920a6e6b6a221]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/ssi/2018/219/regulation/24) renumbered as reg. 24(1) (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [14(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/14/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-a8805f6c56a58d9a76a3719e0524384d]: Textual amendment: [Reg. 24(2)](https://www.legislation.gov.uk/ssi/2018/219/regulation/24/2) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [14(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/14/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-a8805f6c56a58d9a76a3719e0524384d]: Textual amendment: [Reg. 24(2)](https://www.legislation.gov.uk/ssi/2018/219/regulation/24/2) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [14(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/14/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

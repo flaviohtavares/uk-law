@@ -70,15 +70,15 @@ Provided that the scheme may enable the consent of that person to be dispensed w
 
 (3) This Act binds the Crown.
 
-(4)[^key-13ada9f33a3712b558d602d2952d4c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-13ada9f33a3712b558d602d2952d4c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-13ada9f33a3712b558d602d2952d4c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-13ada9f33a3712b558d602d2952d4c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-13ada9f33a3712b558d602d2952d4c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-13ada9f33a3712b558d602d2952d4c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Nothing in this Act shall affect the operation of the [^c652733]Vicar’s Rate in Halifax Act 1877 or the [^c652734]Kendal Corn Rent Act 1932.
 
-## SCHEDULE — Enactments Repealed[^key-5fd5d4a69465ac5e0b60b8829cbc62e1]
+## SCHEDULE — Enactments Repealed[^c-5fd5d4a69465ac5e0b60b8829cbc62e1]
 
 **No longer in force.**
 
@@ -98,10 +98,10 @@ Provided that the scheme may enable the consent of that person to be dispensed w
 
 [^c652730]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1963/14/section/2) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch.1 Pt. II](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/II) Group 2.
 
-[^key-13ada9f33a3712b558d602d2952d4c1d]: Textual amendment: [S. 3(4)-(6)](https://www.legislation.gov.uk/ukpga/1963/14/section/3/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
+[^c-13ada9f33a3712b558d602d2952d4c1d]: Textual amendment: [S. 3(4)-(6)](https://www.legislation.gov.uk/ukpga/1963/14/section/3/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
 
 [^c652733]: Marginal citation: [1877 c. iii](https://www.legislation.gov.uk/ukla/1877/3).
 
 [^c652734]: Marginal citation: [1932 c. lxiv](https://www.legislation.gov.uk/ukla/1932/64).
 
-[^key-5fd5d4a69465ac5e0b60b8829cbc62e1]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ukpga/1963/14/schedule) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
+[^c-5fd5d4a69465ac5e0b60b8829cbc62e1]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ukpga/1963/14/schedule) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3

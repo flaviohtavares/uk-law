@@ -20,28 +20,28 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-e1ebfabd79a20d4ab4d89b3a155ccc31] Schedule 1 transfers certain functions of the Secretary of State to the OGA.
+(1)[^c-e1ebfabd79a20d4ab4d89b3a155ccc31] Schedule 1 transfers certain functions of the Secretary of State to the OGA.
 
-(2)[^key-f21339b90bf50c6d5a1a4a8ace589b48] The Secretary of State may by regulations provide—
+(2)[^c-f21339b90bf50c6d5a1a4a8ace589b48] The Secretary of State may by regulations provide—
 
 - (a) for the transfer to the OGA of any relevant functions exercisable by a Minister of the Crown, or
 - (b) for any such functions that are to be transferred to the Scottish Ministers or the Welsh Ministers to be exercisable by the OGA until the transfer to those Ministers takes effect.
 
-(3)[^key-f21339b90bf50c6d5a1a4a8ace589b48] The Secretary of State may by regulations make such provision as the Secretary of State considers appropriate in consequence of, or in connection with, any provision contained in—
+(3)[^c-f21339b90bf50c6d5a1a4a8ace589b48] The Secretary of State may by regulations make such provision as the Secretary of State considers appropriate in consequence of, or in connection with, any provision contained in—
 
 - (a) Schedule 1, or
 - (b) regulations under subsection (2).
 
-(4)[^key-f21339b90bf50c6d5a1a4a8ace589b48] The provision that may be made under subsection (3) includes provision—
+(4)[^c-f21339b90bf50c6d5a1a4a8ace589b48] The provision that may be made under subsection (3) includes provision—
 
 - (a) amending, repealing or revoking any enactment,
 - (b) amending any relevant authorisation (including any model clause incorporated, or having effect as if incorporated, in it) granted or given before the date when the regulations take effect,
 - (c) for anything done by or in relation to a Minister of the Crown in connection with any functions transferred to be treated as done, or to be continued, by or in relation to the OGA, and
 - (d) about the continuation of legal proceedings.
 
-(5)[^key-f21339b90bf50c6d5a1a4a8ace589b48] Regulations under this section may not provide for the transfer to, or exercise by, the OGA of any power to legislate by means of orders, rules, regulations or other subordinate instrument.
+(5)[^c-f21339b90bf50c6d5a1a4a8ace589b48] Regulations under this section may not provide for the transfer to, or exercise by, the OGA of any power to legislate by means of orders, rules, regulations or other subordinate instrument.
 
-(6)[^key-f21339b90bf50c6d5a1a4a8ace589b48] In this section and section 3—
+(6)[^c-f21339b90bf50c6d5a1a4a8ace589b48] In this section and section 3—
 
 - “**enactment**” includes an enactment comprised in subordinate legislation, within the meaning of the Interpretation Act 1978;
 - “**Minister of the Crown**” has the same meaning as in the Ministers of the Crown Act 1975, and includes such Ministers acting jointly;
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e1ebfabd79a20d4ab4d89b3a155ccc31]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/2/1) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-e1ebfabd79a20d4ab4d89b3a155ccc31]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/2/1) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
-[^key-f21339b90bf50c6d5a1a4a8ace589b48]: Commencement: [S. 2(2)-(6)](https://www.legislation.gov.uk/ukpga/2016/20/section/2/2) in force at 24.5.2016 by [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/602/regulation/2/b)
+[^c-f21339b90bf50c6d5a1a4a8ace589b48]: Commencement: [S. 2(2)-(6)](https://www.legislation.gov.uk/ukpga/2016/20/section/2/2) in force at 24.5.2016 by [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/602/regulation/2/b)

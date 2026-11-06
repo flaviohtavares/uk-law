@@ -46,15 +46,15 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 1 — Introductory provisions
 
-### 1. Citation, commencement and extent[^key-17e9d3bdbfbe18dafb8cd386637ea313]
+### 1. Citation, commencement and extent[^c-17e9d3bdbfbe18dafb8cd386637ea313]
 
 (1) These Regulations may be cited as the Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-(3) Subject to paragraphs (4) and (5), these Regulations come into force on 18th November 2025 (when section 167M of the Companies Act 2006 (prohibition on director acting unless ID verified) came into force)[^key-9d4f093dedef431efda1627d70d30bb6].
+(3) Subject to paragraphs (4) and (5), these Regulations come into force on 18th November 2025 (when section 167M of the Companies Act 2006 (prohibition on director acting unless ID verified) came into force)[^c-9d4f093dedef431efda1627d70d30bb6].
 
-(4) Paragraphs (5) and (6) of regulation 3 come into force on 18th November 2025 (immediately after section 790LA of the Companies Act 2006 (duty to notify registrar of confirmed persons with significant control) came into force)[^key-a1f11850ad9454124f534f5e05fbe7ba].
+(4) Paragraphs (5) and (6) of regulation 3 come into force on 18th November 2025 (immediately after section 790LA of the Companies Act 2006 (duty to notify registrar of confirmed persons with significant control) came into force)[^c-a1f11850ad9454124f534f5e05fbe7ba].
 
 (5) The following provisions come into force when section 167G of the Companies Act 2006 (duty to notify registrar of change in directors)[^f00005] comes fully into force—
 
@@ -66,14 +66,14 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 2 — Amendments to secondary legislation
 
-### 2. Amendments to the Companies (Companies Authorised to Register) Regulations 2009[^key-a8d97230639ae91620b08d478ca35b91][^key-04b64faf1d552ea1d96ffb6c5bac9fbb]
+### 2. Amendments to the Companies (Companies Authorised to Register) Regulations 2009[^c-a8d97230639ae91620b08d478ca35b91][^c-04b64faf1d552ea1d96ffb6c5bac9fbb]
 
-(1)[^key-a8d97230639ae91620b08d478ca35b91] The Companies (Companies Authorised to Register) Regulations 2009 are amended in accordance with this regulation.
+(1)[^c-a8d97230639ae91620b08d478ca35b91] The Companies (Companies Authorised to Register) Regulations 2009 are amended in accordance with this regulation.
 
 (2) In regulation 7 (statement of proposed officers)—
 
-- (a)[^key-a8d97230639ae91620b08d478ca35b91] in paragraph (1) for “particulars of” substitute “information about”;
-- (b)[^key-a8d97230639ae91620b08d478ca35b91] for paragraph (2) substitute—
+- (a)[^c-a8d97230639ae91620b08d478ca35b91] in paragraph (1) for “particulars of” substitute “information about”;
+- (b)[^c-a8d97230639ae91620b08d478ca35b91] for paragraph (2) substitute—
 
   > (2) For the required information—
   >
@@ -81,7 +81,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
   > - (b) in relation to proposed secretaries or joint secretaries, see sections 279J and 279K of that Act.
 
   ;
-- (c)[^key-04b64faf1d552ea1d96ffb6c5bac9fbb] after paragraph (2A) insert—
+- (c)[^c-04b64faf1d552ea1d96ffb6c5bac9fbb] after paragraph (2A) insert—
 
   > (2B) The statement under paragraph (1)(a) must, in the case of each individual named as a director—
   >
@@ -108,7 +108,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
   .
 
-(3)[^key-a8d97230639ae91620b08d478ca35b91] After Part 3 (effect of registration) insert—
+(3)[^c-a8d97230639ae91620b08d478ca35b91] After Part 3 (effect of registration) insert—
 
 > **Part 3A — ID verification: further provisions**
 >
@@ -127,14 +127,14 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 .
 
-### 3. Amendments to the Unregistered Companies Regulations 2009[^key-7228810278cb2336cd55d013a97de5de][^key-9a481eaf0ad8dec76a8ddf14c652b279][^key-5a52c45b92678c8bc3d82af73ab07640]
+### 3. Amendments to the Unregistered Companies Regulations 2009[^c-7228810278cb2336cd55d013a97de5de][^c-9a481eaf0ad8dec76a8ddf14c652b279][^c-5a52c45b92678c8bc3d82af73ab07640]
 
-(1)[^key-7228810278cb2336cd55d013a97de5de] The Unregistered Companies Regulations 2009 are amended in accordance with this regulation.
+(1)[^c-7228810278cb2336cd55d013a97de5de] The Unregistered Companies Regulations 2009 are amended in accordance with this regulation.
 
 (2) In paragraph 1 of Schedule 1, in section 26 of the Companies Act 2006 (registrar to be sent copy of company's constitution) as applied to unregistered companies by that paragraph—
 
-- (a)[^key-7228810278cb2336cd55d013a97de5de] for the heading of that section, substitute “Documents to be sent to the registrar on incorporation”;
-- (b)[^key-7228810278cb2336cd55d013a97de5de] for subsection (1) substitute—
+- (a)[^c-7228810278cb2336cd55d013a97de5de] for the heading of that section, substitute “Documents to be sent to the registrar on incorporation”;
+- (b)[^c-7228810278cb2336cd55d013a97de5de] for subsection (1) substitute—
 
   > (1) A company must, not later than 15 days after the date of its incorporation, send to the registrar—
   >
@@ -143,7 +143,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
   > - (c) a statement of initial significant control.
 
   ;
-- (c)[^key-9a481eaf0ad8dec76a8ddf14c652b279] after subsection (1), insert—
+- (c)[^c-9a481eaf0ad8dec76a8ddf14c652b279] after subsection (1), insert—
 
   > (1A) The following requirements apply in relation to the statement under subsection (1)(b)—
   >
@@ -199,7 +199,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
   > - (d) where a direction is given under paragraph (c), the registrar may by further direction extend the period specified in that paragraph by up to 14 days at a time.
 
   ;
-- (d)[^key-9a481eaf0ad8dec76a8ddf14c652b279] after subsection (4) insert—
+- (d)[^c-9a481eaf0ad8dec76a8ddf14c652b279] after subsection (4) insert—
 
   > (5) In this section—
   >
@@ -212,7 +212,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
   .
 
-(3)[^key-7228810278cb2336cd55d013a97de5de] For paragraph 6 of Schedule 1 substitute—
+(3)[^c-7228810278cb2336cd55d013a97de5de] For paragraph 6 of Schedule 1 substitute—
 
 > **6.** (1) Sections 167G, 167H and 167J to 167N of the Companies Act 2006 (directors: duties relating to ID verification and notification) apply to unregistered companies, with the following modifications.
 >
@@ -242,13 +242,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 .
 
-(4)[^key-7228810278cb2336cd55d013a97de5de] For paragraph 8 of Schedule 1 substitute—
+(4)[^c-7228810278cb2336cd55d013a97de5de] For paragraph 8 of Schedule 1 substitute—
 
 > **8.** Sections 279G to 279M of the Companies Act 2006 (notification of information about secretaries) apply to unregistered companies.
 
 .
 
-(5)[^key-5a52c45b92678c8bc3d82af73ab07640] In paragraph 12A of Schedule 1—
+(5)[^c-5a52c45b92678c8bc3d82af73ab07640] In paragraph 12A of Schedule 1—
 
 - (a) in sub-paragraph (1) before “790K” insert “790I and”;
 - (b) in sub-paragraph (3)―
@@ -271,7 +271,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
   ;
 
-(6)[^key-5a52c45b92678c8bc3d82af73ab07640] For paragraph 12B of Schedule 1 substitute—
+(6)[^c-5a52c45b92678c8bc3d82af73ab07640] For paragraph 12B of Schedule 1 substitute—
 
 > **12B.** (1) Sections 790LA to 790LD, 790LF, 790LH and 790LJ to 790LT of the Companies Act 2006 (duty to notify registrar of persons with significant control and ID verification) apply to unregistered companies, with the following modifications.
 >
@@ -358,7 +358,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 .
 
-(7)[^key-7228810278cb2336cd55d013a97de5de] In paragraph 13 of Schedule 1—
+(7)[^c-7228810278cb2336cd55d013a97de5de] In paragraph 13 of Schedule 1—
 
 - (a) in sub-paragraph (1) for “853A to 853H and sections 853K and 853L” substitute “853A to 853G and 853L”;
 - (b) after sub-paragraph (1) insert—
@@ -378,7 +378,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
   .
 
-(8)[^key-7228810278cb2336cd55d013a97de5de] After paragraph 20A of Schedule 1 insert—
+(8)[^c-7228810278cb2336cd55d013a97de5de] After paragraph 20A of Schedule 1 insert—
 
 > **20AA.** Section 1110C of the Companies Act 2006 (identity verification: exemption on national security grounds etc) applies to unregistered companies, but for subsection (2)(a) substitute—
 >
@@ -388,7 +388,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 .
 
-(9)[^key-7228810278cb2336cd55d013a97de5de] After section 1088(2) of the Companies Act 2006, as applied to unregistered companies by paragraph 20(3) of Schedule 1, insert—
+(9)[^c-7228810278cb2336cd55d013a97de5de] After section 1088(2) of the Companies Act 2006, as applied to unregistered companies by paragraph 20(3) of Schedule 1, insert—
 
 > (3) Any statement or other document delivered to the registrar under the following provisions must not be available by the registrar for public inspection—
 >
@@ -398,7 +398,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 .
 
-### 4. Amendments to the Overseas Companies Regulations 2009[^key-cfe7586789fb94d313dcec7207975662]
+### 4. Amendments to the Overseas Companies Regulations 2009[^c-cfe7586789fb94d313dcec7207975662]
 
 (1) The Overseas Companies Regulations 2009[^f00009] are amended in accordance with this regulation.
 
@@ -512,7 +512,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 3 — Transitional provisions
 
-### 5. Transitional provision for unregistered companies[^key-da075fed3f0957f4f30fb06a0af2ff92]
+### 5. Transitional provision for unregistered companies[^c-da075fed3f0957f4f30fb06a0af2ff92]
 
 (1) This regulation applies in relation to an individual who became a director of an unregistered company before the relevant day.
 
@@ -547,21 +547,21 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - “**delivery period**” means the period mentioned in section 853A(1) of the 2006 Act;
 - “**identity verification statement**” means a statement in respect of an individual confirming that their identity is verified within the meaning of section 1110A of the 2006 Act (meaning of “**identity is verified**”);
 - “**the registrar**” has the meaning given in section 1060(3) of the 2006 Act;
-- “**relevant day**” means 18th November 2025 (the date that section 43 of the 2023 Act (prohibition on director acting unless ID verified) came into force)[^key-5a5e882fc33c3324e6acebba934d117d];
+- “**relevant day**” means 18th November 2025 (the date that section 43 of the 2023 Act (prohibition on director acting unless ID verified) came into force)[^c-5a5e882fc33c3324e6acebba934d117d];
 - “**transitional period**” means the period beginning on the relevant day and ending on the date that is 12 months after the relevant day.
 
 (10) References to sections 167M and 853A of the 2006 Act are to those provisions as applied to unregistered companies by regulation 3 of, and Schedule 1 to, the Unregistered Companies Regulations 2009.
 
-### 6. Transitional provision for overseas companies[^key-c0c46d8cb5badbf805ce5d1e88f21306]
+### 6. Transitional provision for overseas companies[^c-c0c46d8cb5badbf805ce5d1e88f21306]
 
-(1) This regulation applies to overseas companies that opened a UK establishment before 18th November 2025 (the date that regulation 4 came into force)[^key-a13d3fdd5e00a8666f46de219846630f].
+(1) This regulation applies to overseas companies that opened a UK establishment before 18th November 2025 (the date that regulation 4 came into force)[^c-a13d3fdd5e00a8666f46de219846630f].
 
 (2) The company must, within the transition period, deliver to the registrar in respect of each notified individual a statement—
 
 - (a) confirming that the individual’s identity is verified within the meaning of section 1110A of the 2006 Act, and
 - (b) stating the individual’s unique identifier.
 
-(3) The offence in section 167M(3)[^key-fc6c0093e6b48c7042d9913e5de8b9ec] of the 2006 Act, as applied to overseas companies by regulation 17A of the Overseas Companies Regulations 2009[^f00010], does not apply to an individual, and the offence in section 167M(4)[^key-b0ef719ea2a948a50d743ed963533cd4] of the 2006 Act as so applied does not apply to a company in respect of that individual, until the earlier of—
+(3) The offence in section 167M(3)[^c-fc6c0093e6b48c7042d9913e5de8b9ec] of the 2006 Act, as applied to overseas companies by regulation 17A of the Overseas Companies Regulations 2009[^f00010], does not apply to an individual, and the offence in section 167M(4)[^c-b0ef719ea2a948a50d743ed963533cd4] of the 2006 Act as so applied does not apply to a company in respect of that individual, until the earlier of—
 
 - (a) the date that the company delivers the statement under paragraph (2), and
 - (b) the day after the last day of the transition period.
@@ -569,7 +569,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 (4) In this regulation—
 
 - “**notified individual**” means an individual specified in a notice given under regulation 6(1)(d)(i) or 13(1)(a) of the Overseas Companies Regulations 2009 as a director of the company;
-- “[^key-340229411f83975070697cdd3d916b2e]**transition period**” means the period—
+- “[^c-340229411f83975070697cdd3d916b2e]**transition period**” means the period—
   - (a) beginning on 18th November 2025 (the date that regulation 4 came into force), and
   - (b) ending on the date that is the first anniversary of the date the UK establishment of that company was opened that falls after 18th November 2025.
 
@@ -607,11 +607,11 @@ A full Impact Assessment has not been prepared for this instrument as no, or no 
 
 [^f00002]: Footnote: [2023 c. 56](https://www.legislation.gov.uk/ukpga/2023/56).
 
-[^key-17e9d3bdbfbe18dafb8cd386637ea313]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/761/regulation/1) in force at 18.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)
+[^c-17e9d3bdbfbe18dafb8cd386637ea313]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/761/regulation/1) in force at 18.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)
 
-[^key-9d4f093dedef431efda1627d70d30bb6]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/2/a/i)
+[^c-9d4f093dedef431efda1627d70d30bb6]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/2/a/i)
 
-[^key-a1f11850ad9454124f534f5e05fbe7ba]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/4) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/2/a/ii)
+[^c-a1f11850ad9454124f534f5e05fbe7ba]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/4) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/2/a/ii)
 
 [^f00005]: Footnote: Section 167G was inserted by section 51 of, and paragraph 18 of Schedule 2 to, the Economic Crime and Corporate Transparency Act 2023.
 
@@ -619,34 +619,34 @@ A full Impact Assessment has not been prepared for this instrument as no, or no 
 
 [^f00007]: Footnote: [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436).
 
-[^key-a8d97230639ae91620b08d478ca35b91]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/2/a)[(b)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/2/b)[(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/3) in force at 18.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)
+[^c-a8d97230639ae91620b08d478ca35b91]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/2/a)[(b)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/2/b)[(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/3) in force at 18.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)
 
-[^key-04b64faf1d552ea1d96ffb6c5bac9fbb]: Commencement: [Reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/2/c) in force at 18.11.2025 for specified purposes and otherwise in force in accordance with reg. 1(5)(a), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)[(5)(a)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/5/a)
+[^c-04b64faf1d552ea1d96ffb6c5bac9fbb]: Commencement: [Reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/2/c) in force at 18.11.2025 for specified purposes and otherwise in force in accordance with reg. 1(5)(a), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)[(5)(a)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/5/a)
 
 [^f00008]: Footnote: See section 1082(1) of the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) for the meaning of “unique identifier”.
 
-[^key-7228810278cb2336cd55d013a97de5de]: Commencement: [Reg. 3(1)(2)(a)(b)(3)(4)(7)-(9)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/1/2/a/b/3/4/7) in force at 18.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)
+[^c-7228810278cb2336cd55d013a97de5de]: Commencement: [Reg. 3(1)(2)(a)(b)(3)(4)(7)-(9)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/1/2/a/b/3/4/7) in force at 18.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)
 
-[^key-9a481eaf0ad8dec76a8ddf14c652b279]: Commencement: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/2/c)[(d)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/2/d) in force at 18.11.2025 for specified purposes and otherwise in force in accordance with reg. 1(5)(b), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)[(5)(b)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/5/b)
+[^c-9a481eaf0ad8dec76a8ddf14c652b279]: Commencement: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/2/c)[(d)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/2/d) in force at 18.11.2025 for specified purposes and otherwise in force in accordance with reg. 1(5)(b), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)[(5)(b)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/5/b)
 
-[^key-5a52c45b92678c8bc3d82af73ab07640]: Commencement: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/5)[(6)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/6) in force at 18.11.2025, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/4)
+[^c-5a52c45b92678c8bc3d82af73ab07640]: Commencement: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/5)[(6)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/6) in force at 18.11.2025, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/4)
 
-[^key-cfe7586789fb94d313dcec7207975662]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/761/regulation/4) in force at 18.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)
+[^c-cfe7586789fb94d313dcec7207975662]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/761/regulation/4) in force at 18.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)
 
 [^f00009]: Footnote: [S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801).
 
-[^key-da075fed3f0957f4f30fb06a0af2ff92]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/8/3); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+[^c-da075fed3f0957f4f30fb06a0af2ff92]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/8/3); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
 
-[^key-5a5e882fc33c3324e6acebba934d117d]: Textual amendment: Words in [reg. 5(9)](https://www.legislation.gov.uk/uksi/2025/761/regulation/5/9) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/2/b)
+[^c-5a5e882fc33c3324e6acebba934d117d]: Textual amendment: Words in [reg. 5(9)](https://www.legislation.gov.uk/uksi/2025/761/regulation/5/9) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/2/b)
 
-[^key-c0c46d8cb5badbf805ce5d1e88f21306]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6) in force at 18.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)
+[^c-c0c46d8cb5badbf805ce5d1e88f21306]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6) in force at 18.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)
 
-[^key-a13d3fdd5e00a8666f46de219846630f]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2025/761/regulation/6/1) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/2/c/i)
+[^c-a13d3fdd5e00a8666f46de219846630f]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2025/761/regulation/6/1) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/2/c/i)
 
-[^key-fc6c0093e6b48c7042d9913e5de8b9ec]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/6/3) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/8/2/a); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+[^c-fc6c0093e6b48c7042d9913e5de8b9ec]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/6/3) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/8/2/a); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
 
 [^f00010]: Footnote: See regulation 4(4) of these Regulations.
 
-[^key-b0ef719ea2a948a50d743ed963533cd4]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/6/3) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/8/2/b); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+[^c-b0ef719ea2a948a50d743ed963533cd4]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/6/3) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/8/2/b); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
 
-[^key-340229411f83975070697cdd3d916b2e]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/6/4) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/2/c/ii)
+[^c-340229411f83975070697cdd3d916b2e]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/6/4) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/2/c/ii)

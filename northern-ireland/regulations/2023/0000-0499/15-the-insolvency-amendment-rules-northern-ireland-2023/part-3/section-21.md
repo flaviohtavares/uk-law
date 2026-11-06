@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Amendment of Part 4[^key-ac30f68536ea329f59b49c451f132df8]
+## 21. Amendment of Part 4[^c-ac30f68536ea329f59b49c451f132df8]
 
 *Extent: N.I.*
 
 In Rule 4.002 (Winding up by the court: the various forms of petition) in paragraph (1) omit “paragraph (fa) – end of moratorium without approval of voluntary arrangement;”.
 
-**22.**[^key-afe0ec6b43edc8962c42f1a9be3ffe00] In Rule 4.013 (Persons entitled to copy of petition) after “company” insert, “and, (if a moratorium under Part 1A of the Order is in force for the company), the monitor”.
+**22.**[^c-afe0ec6b43edc8962c42f1a9be3ffe00] In Rule 4.013 (Persons entitled to copy of petition) after “company” insert, “and, (if a moratorium under Part 1A of the Order is in force for the company), the monitor”.
 
-**23.**[^key-918c92303546916c5d8f55e70aa8e6a6] In Rule 4.021 (Transmission and advertisement of order) for paragraph (4) substitute—
+**23.**[^c-918c92303546916c5d8f55e70aa8e6a6] In Rule 4.021 (Transmission and advertisement of order) for paragraph (4) substitute—
 
 > (4) The official receiver shall forward a copy of the order to—
 >
@@ -33,13 +33,13 @@ In Rule 4.002 (Winding up by the court: the various forms of petition) in paragr
 
 .
 
-**24.**[^key-5ecd93266eec72eecb3203fb4a6bed21] In Rule 4.027 (Appointment of provisional liquidator) before paragraph (2)(d)(i) insert—
+**24.**[^c-5ecd93266eec72eecb3203fb4a6bed21] In Rule 4.027 (Appointment of provisional liquidator) before paragraph (2)(d)(i) insert—
 
 > - (zi) a moratorium under Part 1A of the Order is in force for the company;
 
 .
 
-**25.**[^key-34168e2ca72c29a07feb9995ffac2144] In Rule 4.029 (Order of appointment) for paragraph (3) substitute—
+**25.**[^c-34168e2ca72c29a07feb9995ffac2144] In Rule 4.029 (Order of appointment) for paragraph (3) substitute—
 
 > (3) The official receiver or other person appointed as provisional liquidator must as soon as reasonably practicable deliver a sealed copy of the order to either—
 >
@@ -52,7 +52,7 @@ In Rule 4.002 (Winding up by the court: the various forms of petition) in paragr
 
 .
 
-**26.**[^key-c1135f71f1b922c1b1b6cd78eadee96d] In Rule 4.034 (Termination of appointment) at the end insert—
+**26.**[^c-c1135f71f1b922c1b1b6cd78eadee96d] In Rule 4.034 (Termination of appointment) at the end insert—
 
 > (3) Notice of termination of the appointment of a provisional liquidator must be given by the provisional liquidator, unless the termination is on the making of a winding-up order or the court otherwise directs.
 >
@@ -72,7 +72,7 @@ In Rule 4.002 (Winding up by the court: the various forms of petition) in paragr
 
 .
 
-**27.**[^key-d25399b08559686a8f4dbc5e6d2eac65] After Rule 4.113 (Appointment to be advertised and registered) insert—
+**27.**[^c-d25399b08559686a8f4dbc5e6d2eac65] After Rule 4.113 (Appointment to be advertised and registered) insert—
 
 > **4.113A. Additional requirements as to advertisement where moratorium under Part 1A of the Order in force**
 >
@@ -84,7 +84,7 @@ In Rule 4.002 (Winding up by the court: the various forms of petition) in paragr
 
 .
 
-**28.**[^key-74e1d2a0e7a91add6d5c8315e8c43677] In Rule 4.228 (General Rule as to priority)—
+**28.**[^c-74e1d2a0e7a91add6d5c8315e8c43677] In Rule 4.228 (General Rule as to priority)—
 
 (1) After paragraph (1) insert—
 
@@ -110,7 +110,7 @@ In Rule 4.002 (Winding up by the court: the various forms of petition) in paragr
 
 .
 
-**29.**[^key-7b198ad0f34834694909b6de595d392f] After Rule 4.228 (General Rule as to priority) insert—
+**29.**[^c-7b198ad0f34834694909b6de595d392f] After Rule 4.228 (General Rule as to priority) insert—
 
 > **4.228ZA. Priority of moratorium debts in subsequent winding up**
 >
@@ -123,13 +123,13 @@ In Rule 4.002 (Winding up by the court: the various forms of petition) in paragr
 
 .
 
-**30.**[^key-89721e04526b2affb676d7809f3af1ea] In Rule 4.228A (Litigation expenses and property subject to a floating charge - general provisions) in paragraph (1)(b), before (i) insert—
+**30.**[^c-89721e04526b2affb676d7809f3af1ea] In Rule 4.228A (Litigation expenses and property subject to a floating charge - general provisions) in paragraph (1)(b), before (i) insert—
 
 > - (ai) a creditor in respect of a debt which is a moratorium debt or a priority pre-moratorium debt within the meaning given by Article 148A;
 
 .
 
-**31.**[^key-2274dab1c2b7b684f3966b7c8b79e6cc] In Rule 4.228C (Litigation expenses and property subject to a floating charge - request for approval or authorisation) for paragraph (4)(c) substitute—
+**31.**[^c-2274dab1c2b7b684f3966b7c8b79e6cc] In Rule 4.228C (Litigation expenses and property subject to a floating charge - request for approval or authorisation) for paragraph (4)(c) substitute—
 
 > - (c) notice to—
 >   - (i) each preferential creditor; and
@@ -139,7 +139,7 @@ In Rule 4.002 (Winding up by the court: the various forms of petition) in paragr
 
 .
 
-**32.**[^key-fd9a3edb7fd3945b1127a401e1a46442] In Rule 4.228D (Litigation expenses and property subject to a floating charge - grant of approval or authorisation)—
+**32.**[^c-fd9a3edb7fd3945b1127a401e1a46442] In Rule 4.228D (Litigation expenses and property subject to a floating charge - grant of approval or authorisation)—
 
 (1) For paragraph (3), substitute—
 
@@ -176,26 +176,26 @@ In Rule 4.002 (Winding up by the court: the various forms of petition) in paragr
 
 ## Annotations
 
-[^key-ac30f68536ea329f59b49c451f132df8]: Commencement: Rule 21 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-ac30f68536ea329f59b49c451f132df8]: Commencement: Rule 21 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-afe0ec6b43edc8962c42f1a9be3ffe00]: Commencement: Rule 22 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-afe0ec6b43edc8962c42f1a9be3ffe00]: Commencement: Rule 22 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-918c92303546916c5d8f55e70aa8e6a6]: Commencement: Rule 23 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-918c92303546916c5d8f55e70aa8e6a6]: Commencement: Rule 23 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-5ecd93266eec72eecb3203fb4a6bed21]: Commencement: Rule 24 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-5ecd93266eec72eecb3203fb4a6bed21]: Commencement: Rule 24 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-34168e2ca72c29a07feb9995ffac2144]: Commencement: Rule 25 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-34168e2ca72c29a07feb9995ffac2144]: Commencement: Rule 25 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-c1135f71f1b922c1b1b6cd78eadee96d]: Commencement: Rule 26 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-c1135f71f1b922c1b1b6cd78eadee96d]: Commencement: Rule 26 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-d25399b08559686a8f4dbc5e6d2eac65]: Commencement: Rule 27 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-d25399b08559686a8f4dbc5e6d2eac65]: Commencement: Rule 27 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-74e1d2a0e7a91add6d5c8315e8c43677]: Commencement: Rule 28 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-74e1d2a0e7a91add6d5c8315e8c43677]: Commencement: Rule 28 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-7b198ad0f34834694909b6de595d392f]: Commencement: Rule 29 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-7b198ad0f34834694909b6de595d392f]: Commencement: Rule 29 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-89721e04526b2affb676d7809f3af1ea]: Commencement: Rule 30 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-89721e04526b2affb676d7809f3af1ea]: Commencement: Rule 30 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-2274dab1c2b7b684f3966b7c8b79e6cc]: Commencement: Rule 31 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-2274dab1c2b7b684f3966b7c8b79e6cc]: Commencement: Rule 31 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-fd9a3edb7fd3945b1127a401e1a46442]: Commencement: Rule 32 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-fd9a3edb7fd3945b1127a401e1a46442]: Commencement: Rule 32 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73A. Appointment of directors of public health[^key-49c04d49907d6f19d7a2a99a657e0366]
+## 73A. Appointment of directors of public health[^c-49c04d49907d6f19d7a2a99a657e0366]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the exercise by the authority of its functions under section 2B, 111 or 249 or Schedule 1,
 - (b) the exercise by the authority of its functions by virtue of section 6C(1) or (3),
 - (c) anything done by the authority in pursuance of arrangements under section 7A,
-- (ca)[^key-7e2fcc74301c7da8d4f04be8a3305b91] the exercise by the authority of any public health functions of the Secretary of State in pursuance of arrangements made with another body by virtue of section 65Z5 or 75,
+- (ca)[^c-7e2fcc74301c7da8d4f04be8a3305b91] the exercise by the authority of any public health functions of the Secretary of State in pursuance of arrangements made with another body by virtue of section 65Z5 or 75,
 - (d) the exercise by the authority of any of its functions that relate to planning for, or responding to, emergencies involving a risk to public health,
 - (e) the functions of the authority under section 325 of the Criminal Justice Act 2003, and
 - (f) such other functions relating to public health as may be prescribed.
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49c04d49907d6f19d7a2a99a657e0366]: Textual amendment: S. 73A inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 30](https://www.legislation.gov.uk/ukpga/2012/7/section/30), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-49c04d49907d6f19d7a2a99a657e0366]: Textual amendment: S. 73A inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 30](https://www.legislation.gov.uk/ukpga/2012/7/section/30), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-7e2fcc74301c7da8d4f04be8a3305b91]: Textual amendment: [S. 73A(1)(ca)](https://www.legislation.gov.uk/ukpga/2006/41/section/73A/1/ca) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2022/31/schedule/9/paragraph/8); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-7e2fcc74301c7da8d4f04be8a3305b91]: Textual amendment: [S. 73A(1)(ca)](https://www.legislation.gov.uk/ukpga/2006/41/section/73A/1/ca) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2022/31/schedule/9/paragraph/8); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

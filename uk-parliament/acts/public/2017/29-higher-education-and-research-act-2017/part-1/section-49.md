@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Appeals against variation or revocation of authorisation[^key-cdfc0df0d83f503bc7e3c110740f3d72]
+## 49. Appeals against variation or revocation of authorisation[^c-cdfc0df0d83f503bc7e3c110740f3d72]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdfc0df0d83f503bc7e3c110740f3d72]: Commencement: S. 49 in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/e)
+[^c-cdfc0df0d83f503bc7e3c110740f3d72]: Commencement: S. 49 in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/e)

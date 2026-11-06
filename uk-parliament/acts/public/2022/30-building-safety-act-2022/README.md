@@ -315,7 +315,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 124 — Remediation contribution orders](part-5/section-124.md)
 - [Section 125 — Meeting remediation costs of insolvent landlord](part-5/section-125.md)
 
-#### Insolvency of certain persons with an interest in higher-risk and relevant buildings[^key-5e5bd8935a59cec3dc3df36357b28701]
+#### Insolvency of certain persons with an interest in higher-risk and relevant buildings[^c-5e5bd8935a59cec3dc3df36357b28701]
 
 - [Section 125A — Notifications by insolvency practitioners](part-5/section-125a.md)
 
@@ -450,4 +450,4 @@ Schedules
 
 ## Annotations
 
-[^key-5e5bd8935a59cec3dc3df36357b28701]: Textual amendment: [S. 125A](https://www.legislation.gov.uk/ukpga/2022/30/section/125A) and cross-heading inserted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 119](https://www.legislation.gov.uk/ukpga/2024/22/section/119), [124(2)(d)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/d)
+[^c-5e5bd8935a59cec3dc3df36357b28701]: Textual amendment: [S. 125A](https://www.legislation.gov.uk/ukpga/2022/30/section/125A) and cross-heading inserted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 119](https://www.legislation.gov.uk/ukpga/2024/22/section/119), [124(2)(d)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/d)

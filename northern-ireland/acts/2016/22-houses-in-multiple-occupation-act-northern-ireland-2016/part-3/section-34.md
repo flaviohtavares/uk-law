@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Reasonable excuse[^key-f47df72a40c4e09c3e94725ef45a4401]
+## 34. Reasonable excuse[^c-f47df72a40c4e09c3e94725ef45a4401]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f47df72a40c4e09c3e94725ef45a4401]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2016/22/section/34) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-f47df72a40c4e09c3e94725ef45a4401]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2016/22/section/34) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

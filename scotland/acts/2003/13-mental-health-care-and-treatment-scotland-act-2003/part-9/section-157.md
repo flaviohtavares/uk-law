@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 157. Application for extension and variation of compulsion order: notification[^key-7c5048b2d9dae7d3be240f601c20b7f8]
+## 157. Application for extension and variation of compulsion order: notification[^c-7c5048b2d9dae7d3be240f601c20b7f8]
 
 *Extent: S*
 
@@ -26,11 +26,11 @@ Where, by virtue of section 156(1) of this Act, an application is to be made und
 - (b) the patient’s named person;
 - (c) any guardian of the patient;
 - (d) any welfare attorney of the patient;
-- (e) the mental health officer; [^key-fd5d5d42545f8092e3882b6dbb682125]...
-- (f)[^key-fd5d5d42545f8092e3882b6dbb682125] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the mental health officer; [^c-fd5d5d42545f8092e3882b6dbb682125]...
+- (f)[^c-fd5d5d42545f8092e3882b6dbb682125] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7c5048b2d9dae7d3be240f601c20b7f8]: Commencement: S. 157 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-7c5048b2d9dae7d3be240f601c20b7f8]: Commencement: S. 157 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-fd5d5d42545f8092e3882b6dbb682125]: Textual amendment: S. 157(f) and word repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 51(2)](https://www.legislation.gov.uk/asp/2015/9/section/51/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-fd5d5d42545f8092e3882b6dbb682125]: Textual amendment: S. 157(f) and word repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 51(2)](https://www.legislation.gov.uk/asp/2015/9/section/51/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

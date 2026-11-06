@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33ZA. Regulations about contributions for criminal legal assistance[^key-1639eb81fd0a4c8671a2f3cf002f165b]
+## 33ZA. Regulations about contributions for criminal legal assistance[^c-1639eb81fd0a4c8671a2f3cf002f165b]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1639eb81fd0a4c8671a2f3cf002f165b]: Textual amendment: S. 33ZA inserted (11.10.2013) by [Scottish Civil Justice Council and Criminal Legal Assistance Act 2013 (asp 3)](https://www.legislation.gov.uk/asp/2013/3), [ss. 22](https://www.legislation.gov.uk/asp/2013/3/section/22), [25(2)](https://www.legislation.gov.uk/asp/2013/3/section/25/2); [S.S.I. 2013/262](https://www.legislation.gov.uk/ssi/2013/262), [art. 2](https://www.legislation.gov.uk/ssi/2013/262/article/2)
+[^c-1639eb81fd0a4c8671a2f3cf002f165b]: Textual amendment: S. 33ZA inserted (11.10.2013) by [Scottish Civil Justice Council and Criminal Legal Assistance Act 2013 (asp 3)](https://www.legislation.gov.uk/asp/2013/3), [ss. 22](https://www.legislation.gov.uk/asp/2013/3/section/22), [25(2)](https://www.legislation.gov.uk/asp/2013/3/section/25/2); [S.S.I. 2013/262](https://www.legislation.gov.uk/ssi/2013/262), [art. 2](https://www.legislation.gov.uk/ssi/2013/262/article/2)

@@ -32,7 +32,7 @@ summary: ''
 
 SEEDS, ENGLAND
 
-The Beet Seed (England) (Amendment) Regulations 2004 (revoked)[^key-72b9b5d5f520841ea610c22340ba3c32]
+The Beet Seed (England) (Amendment) Regulations 2004 (revoked)[^c-72b9b5d5f520841ea610c22340ba3c32]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 8th October 2004
 
-[^key-72b9b5d5f520841ea610c22340ba3c32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72b9b5d5f520841ea610c22340ba3c32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-72b9b5d5f520841ea610c22340ba3c32]
+## 1. Title and commencement[^c-72b9b5d5f520841ea610c22340ba3c32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Beet Seed (England) Regulations 2002[^key-72b9b5d5f520841ea610c22340ba3c32]
+## 2. Amendment of the Beet Seed (England) Regulations 2002[^c-72b9b5d5f520841ea610c22340ba3c32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72b9b5d5f520841ea610c22340ba3c32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72b9b5d5f520841ea610c22340ba3c32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-72b9b5d5f520841ea610c22340ba3c32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72b9b5d5f520841ea610c22340ba3c32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-72b9b5d5f520841ea610c22340ba3c32]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(h)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/h)
+[^c-72b9b5d5f520841ea610c22340ba3c32]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(h)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. School attendance orders[^key-b057276510c211fa8a676641811491e9]
+## 39. School attendance orders[^c-b057276510c211fa8a676641811491e9]
 
 *Extent: E+W*
 
@@ -427,4 +427,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b057276510c211fa8a676641811491e9]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(3)(5)
+[^c-b057276510c211fa8a676641811491e9]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(3)(5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9D. Power to take action following conviction of occupier[^key-c5af52a0e544264edc329a4fc8af0af1]
+## 9D. Power to take action following conviction of occupier[^c-c5af52a0e544264edc329a4fc8af0af1]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5af52a0e544264edc329a4fc8af0af1]: Textual amendment: Ss. 9D-9F inserted (E.W.) (1.4.2014) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/5/1), [15(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/1)
+[^c-c5af52a0e544264edc329a4fc8af0af1]: Textual amendment: Ss. 9D-9F inserted (E.W.) (1.4.2014) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/5/1), [15(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/1)

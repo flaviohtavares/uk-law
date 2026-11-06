@@ -16,7 +16,7 @@ summary: ''
 
 ## 18. Steps to be taken by persons actively seeking employment
 
-(1)[^key-e14a62c61d7ec82db5c4e4ba271bcad0] For the purposes of section 7(1) (actively seeking employment) a person shall be expected to have to take more than two steps in any week unless taking one or two steps is all that is reasonable for that person to do in that week.
+(1)[^c-e14a62c61d7ec82db5c4e4ba271bcad0] For the purposes of section 7(1) (actively seeking employment) a person shall be expected to have to take more than two steps in any week unless taking one or two steps is all that is reasonable for that person to do in that week.
 
 (2) Steps which it is reasonable for a person to be expected to have to take in any week include—
 
@@ -49,12 +49,12 @@ summary: ''
   - (ii) attending an Outward Bound course,
   - (iii) in the case of a blind person, participating in a course of training in the use of guide dogs,
   - (iv) participating in training in the use of aids to overcome any physical or mental limitations of his in order to improve his prospects of securing employment,
-  - (v) engaged in duties as a member of any [^key-6a0483c2db3013112c897314e36adca3]... reserve force prescribed in Part I of Schedule 6 to the Social Security (Contributions) Regulations 2001[^key-cef2c00ee32fc1f29e091323fcea53df],
+  - (v) engaged in duties as a member of any [^c-6a0483c2db3013112c897314e36adca3]... reserve force prescribed in Part I of Schedule 6 to the Social Security (Contributions) Regulations 2001[^c-cef2c00ee32fc1f29e091323fcea53df],
   - (vi) participating as a part-time student in an employment-related course,
   - (vii) participating for less than 3 days in an employment or training programme for which a training allowance is not payable;
 - (g) any time during which he was engaged in voluntary work and the extent to which it may have improved his prospects of securing employment;
 - (h) whether he is treated as available for employment under regulation 14;
-- (i) whether he has applied for, or accepted, a place on, or participated in, a course or programme the cost of which is met in whole or in part out of central funds or by the European Union[^key-16f672923b7735f0ffed77786796562a] and the purpose of which is to assist persons to select, train for, obtain or retain employed earner’s employment or self-employed earner’s employment; and
+- (i) whether he has applied for, or accepted, a place on, or participated in, a course or programme the cost of which is met in whole or in part out of central funds or by the European Union[^c-16f672923b7735f0ffed77786796562a] and the purpose of which is to assist persons to select, train for, obtain or retain employed earner’s employment or self-employed earner’s employment; and
 - (j) where he had no living accommodation in that week the fact that he had no such accommodation and the steps which he needed to take and has in fact taken to seek such accommodation.
 
 (4) Any act of a person which would otherwise be relevant for purposes of section 7 shall be disregarded in the following circumstances—
@@ -73,13 +73,13 @@ unless those circumstances were due to reasons beyond his control.
 
 ## Annotations
 
-[^key-e14a62c61d7ec82db5c4e4ba271bcad0]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/uksi/1996/207/regulation/18/1) substituted (19.4.2004 for specified purposes, 18.10.2004 in so far as not already in force) by [The Jobseeker’s Allowance (Amendment) Regulations 2004 (S.I. 2004/1008)](https://www.legislation.gov.uk/uksi/2004/1008), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/1008/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2004/1008/regulation/2/2)
+[^c-e14a62c61d7ec82db5c4e4ba271bcad0]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/uksi/1996/207/regulation/18/1) substituted (19.4.2004 for specified purposes, 18.10.2004 in so far as not already in force) by [The Jobseeker’s Allowance (Amendment) Regulations 2004 (S.I. 2004/1008)](https://www.legislation.gov.uk/uksi/2004/1008), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/1008/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2004/1008/regulation/2/2)
 
-[^key-6a0483c2db3013112c897314e36adca3]: Textual amendment: Words in [reg. 18(3)(f)(v)](https://www.legislation.gov.uk/uksi/1996/207/regulation/18/3/f/v) omitted (6.4.2015) by virtue of [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2015/389/regulation/3/7/a)
+[^c-6a0483c2db3013112c897314e36adca3]: Textual amendment: Words in [reg. 18(3)(f)(v)](https://www.legislation.gov.uk/uksi/1996/207/regulation/18/3/f/v) omitted (6.4.2015) by virtue of [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2015/389/regulation/3/7/a)
 
-[^key-cef2c00ee32fc1f29e091323fcea53df]: Textual amendment: Words in [reg. 18(3)(f)(v)](https://www.legislation.gov.uk/uksi/1996/207/regulation/18/3/f/v) substituted (2.10.2006) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/3), [13(3)(a)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/13/3/a)
+[^c-cef2c00ee32fc1f29e091323fcea53df]: Textual amendment: Words in [reg. 18(3)(f)(v)](https://www.legislation.gov.uk/uksi/1996/207/regulation/18/3/f/v) substituted (2.10.2006) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/3), [13(3)(a)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/13/3/a)
 
-[^key-16f672923b7735f0ffed77786796562a]: Textual amendment: Words in Instrument substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+[^c-16f672923b7735f0ffed77786796562a]: Textual amendment: Words in Instrument substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
 [^c1774216]: Textual amendment: [1973 c.35](https://www.legislation.gov.uk/ukpga/1973/35).
 

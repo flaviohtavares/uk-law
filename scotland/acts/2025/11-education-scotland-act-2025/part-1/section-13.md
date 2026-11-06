@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Reviewing and revising the charters[^key-83f45a0bf89017be63bf27a0b638b07a][^key-0dfefcd14ea1959cd0d1be90e5b8a197]
+## 13. Reviewing and revising the charters[^c-83f45a0bf89017be63bf27a0b638b07a][^c-0dfefcd14ea1959cd0d1be90e5b8a197]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ in accordance with this section.
 
 ## Annotations
 
-[^key-83f45a0bf89017be63bf27a0b638b07a]: Commencement: S. 13 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-83f45a0bf89017be63bf27a0b638b07a]: Commencement: S. 13 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-0dfefcd14ea1959cd0d1be90e5b8a197]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2025/11/section/13) in force at 31.8.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(7)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/7), [sch. Pt. 4](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/4)
+[^c-0dfefcd14ea1959cd0d1be90e5b8a197]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2025/11/section/13) in force at 31.8.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(7)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/7), [sch. Pt. 4](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/4)

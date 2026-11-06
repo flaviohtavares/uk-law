@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Gross cash and gross cash equivalent amount of financial assistance[^key-9f349cb5e344bef9c7b31700d3e761b3][^key-4fc79908883b459cce2d7a83daf6d283]
+## 82. Gross cash and gross cash equivalent amount of financial assistance[^c-9f349cb5e344bef9c7b31700d3e761b3][^c-4fc79908883b459cce2d7a83daf6d283]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9f349cb5e344bef9c7b31700d3e761b3]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-9f349cb5e344bef9c7b31700d3e761b3]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-4fc79908883b459cce2d7a83daf6d283]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2022/23/section/82) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-4fc79908883b459cce2d7a83daf6d283]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2022/23/section/82) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

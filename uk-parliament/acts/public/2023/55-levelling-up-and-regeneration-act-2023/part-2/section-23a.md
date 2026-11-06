@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23A. Highways and traffic functions: directions by mayors[^key-e629a86411885336c6f53241d9ee05eb]
+## 23A. Highways and traffic functions: directions by mayors[^c-e629a86411885336c6f53241d9ee05eb]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ in respect of a particular key route network road or a description of roads whic
 
 ## Annotations
 
-[^key-e629a86411885336c6f53241d9ee05eb]: Textual amendment: Ss. 23A, 23B inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/11/paragraph/4) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-e629a86411885336c6f53241d9ee05eb]: Textual amendment: Ss. 23A, 23B inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/11/paragraph/4) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

@@ -22,16 +22,16 @@ summary: ''
 
 Regulation 14(3)
 
-**1.**[^key-541d073422c3a8450b136f8046cb2622] Schedule 8A to the 1985 Act (form and content of small company accounts delivered to registrar)[^f00056] is amended as follows.
+**1.**[^c-541d073422c3a8450b136f8046cb2622] Schedule 8A to the 1985 Act (form and content of small company accounts delivered to registrar)[^f00056] is amended as follows.
 
-**2.**[^key-12af7e030d9c0bba39a636cd68438115] (1) In the Balance Sheet Formats, for “provisions for liabilities and charges”, wherever occurring, substitute “provisions for liabilities”.
+**2.**[^c-12af7e030d9c0bba39a636cd68438115] (1) In the Balance Sheet Formats, for “provisions for liabilities and charges”, wherever occurring, substitute “provisions for liabilities”.
 
 (2) That expression occurs–
 
 - (a) in Balance Sheet Format 1, in Item I; and
 - (b) in Balance Sheet Format 2, under the heading “LIABILITIES”, in Item B.
 
-**3.**[^key-99bd0b7c32a3b7122e6e4110e115fa2b] After paragraph 7 (notes to be included in small company accounts delivered to registrar of companies) insert–
+**3.**[^c-99bd0b7c32a3b7122e6e4110e115fa2b] After paragraph 7 (notes to be included in small company accounts delivered to registrar of companies) insert–
 
 > **7A. Financial fixed assets**
 >
@@ -49,10 +49,10 @@ Regulation 14(3)
 
 ## Annotations
 
-[^key-541d073422c3a8450b136f8046cb2622]: Commencement: Sch. 4 para. 1 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-541d073422c3a8450b136f8046cb2622]: Commencement: Sch. 4 para. 1 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
 [^f00056]: Footnote: Schedule 8A was inserted by regulation 2(3) of, and Schedule 2 to, S.I. [1997/220](https://www.legislation.gov.uk/uksi/1997/220).
 
-[^key-12af7e030d9c0bba39a636cd68438115]: Commencement: Sch. 4 para. 2 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-12af7e030d9c0bba39a636cd68438115]: Commencement: Sch. 4 para. 2 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-99bd0b7c32a3b7122e6e4110e115fa2b]: Commencement: Sch. 4 para. 3 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-99bd0b7c32a3b7122e6e4110e115fa2b]: Commencement: Sch. 4 para. 3 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)

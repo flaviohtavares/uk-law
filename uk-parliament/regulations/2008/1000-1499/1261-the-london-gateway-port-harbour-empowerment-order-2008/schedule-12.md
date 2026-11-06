@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 12 — LAND WHICH MAY BE ACQUIRED COMPULSORILY[^key-838179d8d3eea06f63ebe2812007b5c2]
+## SCHEDULE 12 — LAND WHICH MAY BE ACQUIRED COMPULSORILY[^c-838179d8d3eea06f63ebe2812007b5c2]
 
 *Extent: E+W+S*
 
@@ -229,4 +229,4 @@ Article 28
 
 ## Annotations
 
-[^key-838179d8d3eea06f63ebe2812007b5c2]: Commencement: Sch. 12 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-838179d8d3eea06f63ebe2812007b5c2]: Commencement: Sch. 12 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

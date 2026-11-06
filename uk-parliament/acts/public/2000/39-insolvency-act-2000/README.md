@@ -33,7 +33,7 @@ An Act to amend the law about insolvency; to amend the Company Directors Disqual
 
 \[30th November 2000\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-564c6770c9f1955676bdb65eddbeb1d9]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-564c6770c9f1955676bdb65eddbeb1d9]
 
 ## Contents
 
@@ -87,4 +87,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-564c6770c9f1955676bdb65eddbeb1d9]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/39) applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [166(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/166/2), [167(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/167/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1212/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1212/schedule/3) (with [regs. 168](https://www.legislation.gov.uk/uksi/2017/1212/regulation/168), [189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-564c6770c9f1955676bdb65eddbeb1d9]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/39) applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [166(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/166/2), [167(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/167/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1212/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1212/schedule/3) (with [regs. 168](https://www.legislation.gov.uk/uksi/2017/1212/regulation/168), [189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))

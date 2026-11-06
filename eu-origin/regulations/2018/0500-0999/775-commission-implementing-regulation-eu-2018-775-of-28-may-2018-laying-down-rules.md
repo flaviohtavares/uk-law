@@ -112,26 +112,26 @@ HAS ADOPTED THIS REGULATION:
 
 1. This Regulation lays down the modalities for the application of Article 26(3) of Regulation (EU) No 1169/2011 where the country of origin or place of provenance of a food is given by any means such as statements, pictorial presentation, symbols or terms, referring to places or geographical areas, except for geographic terms included in customary and generic names where those terms literally indicate origin but whose common understanding is not an indication of country of origin or place of provenance.
 
-2. This Regulation shall not apply to geographical indications protected under Regulation (EU) No 1151/2012, Regulation (EU) No 1308/2013, [^key-af1f7f32b290c63c54abe9c7ad360287]... Regulation (EU) No 251/2014 or[^key-80ba677a13269f21f0528bbd701bf8a7] [Regulation (EU) No 2019/787](https://www.legislation.gov.uk/eur/2019/0787) of the European Parliament and of the Council on the definition, description, presentation and labelling of spirit drinks, the use of the names of spirit drinks in the presentation and labelling of other foodstuffs, the protection of geographical indications for spirit drinks, the use of ethyl alcohol and distillates of agricultural origin in alcoholic beverages or protected pursuant to international agreements, nor registered trade marks where the latter constitute an origin indication, pending the adoption of specific rules concerning the application of Article 26(3) to such indications.
+2. This Regulation shall not apply to geographical indications protected under Regulation (EU) No 1151/2012, Regulation (EU) No 1308/2013, [^c-af1f7f32b290c63c54abe9c7ad360287]... Regulation (EU) No 251/2014 or[^c-80ba677a13269f21f0528bbd701bf8a7] [Regulation (EU) No 2019/787](https://www.legislation.gov.uk/eur/2019/0787) of the European Parliament and of the Council on the definition, description, presentation and labelling of spirit drinks, the use of the names of spirit drinks in the presentation and labelling of other foodstuffs, the protection of geographical indications for spirit drinks, the use of ethyl alcohol and distillates of agricultural origin in alcoholic beverages or protected pursuant to international agreements, nor registered trade marks where the latter constitute an origin indication, pending the adoption of specific rules concerning the application of Article 26(3) to such indications.
 
-## Article 1A. Definitions[^key-6157ffa61c34292b07ca7f71f0939bb2]
+## Article 1A. Definitions[^c-6157ffa61c34292b07ca7f71f0939bb2]
 
 In this Regulation:
 
 - ‘country’, in relation to the United Kingdom, means the United Kingdom as a whole and does not mean any of the individual constituent nations forming part of the United Kingdom;
-- ‘assimilated[^key-431ff51ca05d5f56cd78bbdae26e6866] law’ has the meaning given in section 6(7) of the European Union (Withdrawal) Act 2018 but does not include any legislation so far as it extends to Northern Ireland.
+- ‘assimilated[^c-431ff51ca05d5f56cd78bbdae26e6866] law’ has the meaning given in section 6(7) of the European Union (Withdrawal) Act 2018 but does not include any legislation so far as it extends to Northern Ireland.
 
 ## Article 2. Indication of the country of origin or place of provenance of the primary ingredient
 
 The country of origin or the place of provenance of a primary ingredient which is not the same as the given country of origin or the given place of provenance of the food shall be given:
 
 - ((a)) with reference to one of the following geographical areas:
-  - ((i)) ‘UK’, ‘non-UK’ or ‘UK and non-UK;[^key-ceabd80db2ba92814a6097c72c4f0b74]
-  - ((ii)) Region, or any other geographical area in more than one country[^key-6643fecd2a52ec037bf0ff1134257cf8], if defined as such under public international law or well understood by normally informed average consumers; or
+  - ((i)) ‘UK’, ‘non-UK’ or ‘UK and non-UK;[^c-ceabd80db2ba92814a6097c72c4f0b74]
+  - ((ii)) Region, or any other geographical area in more than one country[^c-6643fecd2a52ec037bf0ff1134257cf8], if defined as such under public international law or well understood by normally informed average consumers; or
   - ((iii)) FAO Fishing area, or sea or freshwater body if defined as such under international law or well understood by normally informed average consumers; or
-  - ((iv)) the name of the relevant[^key-948aff8a77a4f39963821aa33d92e963] country(ies); or
-  - ((v)) Region, or any other geographical area within a [^key-13549d94f85e72394d7e72100ea2d1a4]... country, which is well understood by normally informed average consumers; or
-  - ((vi)) The country of origin or place of provenance in accordance with specific provisions in legislation which form part of[^key-44498059cb7613793c56825feffce9c6] assimilated[^key-c786a8edf18e3cee2ad8774c61b77b30] law applicable for the primary ingredient(s) as such;
+  - ((iv)) the name of the relevant[^c-948aff8a77a4f39963821aa33d92e963] country(ies); or
+  - ((v)) Region, or any other geographical area within a [^c-13549d94f85e72394d7e72100ea2d1a4]... country, which is well understood by normally informed average consumers; or
+  - ((vi)) The country of origin or place of provenance in accordance with specific provisions in legislation which form part of[^c-44498059cb7613793c56825feffce9c6] assimilated[^c-c786a8edf18e3cee2ad8774c61b77b30] law applicable for the primary ingredient(s) as such;
 - ((b)) or by means of a statement as follows:
 
   ‘(name of the primary ingredient) do/does not originate from (the country of origin or the place of provenance of the food)’ or any similar wording likely to have the same meaning for the consumer.
@@ -152,7 +152,7 @@ It shall apply from 1 April 2020.
 
 Foods placed on the market or labelled prior to the date of application of this Regulation may be marketed until the stocks are exhausted.
 
-[^key-db8a8fd4f1386947bd08519c652d5858]...
+[^c-db8a8fd4f1386947bd08519c652d5858]...
 
 Done at Brussels, 28 May 2018.
 
@@ -176,24 +176,24 @@ Jean-Claude Juncker
 
 [^f00006]: Footnote: Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for foods of animal origin ([OJ L 139, 30.4.2004, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.139.01.0055.01.ENG)).
 
-[^key-af1f7f32b290c63c54abe9c7ad360287]: Textual amendment: Words in Art. 1(2) omitted (31.12.2020) by virtue of [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/2/a)
+[^c-af1f7f32b290c63c54abe9c7ad360287]: Textual amendment: Words in Art. 1(2) omitted (31.12.2020) by virtue of [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/2/a)
 
-[^key-80ba677a13269f21f0528bbd701bf8a7]: Textual amendment: Words in Art. 1(2) inserted (31.12.2020) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/2/b)
+[^c-80ba677a13269f21f0528bbd701bf8a7]: Textual amendment: Words in Art. 1(2) inserted (31.12.2020) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/2/b)
 
-[^key-6157ffa61c34292b07ca7f71f0939bb2]: Textual amendment: Art. 1A inserted (31.12.2020) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(3)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/3)
+[^c-6157ffa61c34292b07ca7f71f0939bb2]: Textual amendment: Art. 1A inserted (31.12.2020) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(3)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/3)
 
-[^key-431ff51ca05d5f56cd78bbdae26e6866]: Textual amendment: Word in [Art. 1A](https://www.legislation.gov.uk/eur/2018/775/article/1A) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 124(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/124/2/a)
+[^c-431ff51ca05d5f56cd78bbdae26e6866]: Textual amendment: Word in [Art. 1A](https://www.legislation.gov.uk/eur/2018/775/article/1A) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 124(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/124/2/a)
 
-[^key-ceabd80db2ba92814a6097c72c4f0b74]: Textual amendment: Art. 2(a)(i) substituted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2021/632/regulation/8/1)
+[^c-ceabd80db2ba92814a6097c72c4f0b74]: Textual amendment: Art. 2(a)(i) substituted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2021/632/regulation/8/1)
 
-[^key-6643fecd2a52ec037bf0ff1134257cf8]: Textual amendment: Words in Art. 2(a)(ii) substituted (31.12.2020) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(4)(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/4/a)
+[^c-6643fecd2a52ec037bf0ff1134257cf8]: Textual amendment: Words in Art. 2(a)(ii) substituted (31.12.2020) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(4)(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/4/a)
 
-[^key-948aff8a77a4f39963821aa33d92e963]: Textual amendment: Words in Art. 2(a)(iv) substituted (31.12.2020) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(4)(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/4/b)
+[^c-948aff8a77a4f39963821aa33d92e963]: Textual amendment: Words in Art. 2(a)(iv) substituted (31.12.2020) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(4)(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/4/b)
 
-[^key-13549d94f85e72394d7e72100ea2d1a4]: Textual amendment: Words in Art. 2(a)(v) omitted (31.12.2020) by virtue of [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(4)(c)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/4/c)
+[^c-13549d94f85e72394d7e72100ea2d1a4]: Textual amendment: Words in Art. 2(a)(v) omitted (31.12.2020) by virtue of [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(4)(c)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/4/c)
 
-[^key-44498059cb7613793c56825feffce9c6]: Textual amendment: Words in Art. 2(a)(vi) substituted (31.12.2020) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(4)(d)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/4/d)
+[^c-44498059cb7613793c56825feffce9c6]: Textual amendment: Words in Art. 2(a)(vi) substituted (31.12.2020) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(4)(d)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/4/d)
 
-[^key-c786a8edf18e3cee2ad8774c61b77b30]: Textual amendment: Word in [Art. 2(a)(vi)](https://www.legislation.gov.uk/eur/2018/775/article/2/a/vi) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 124(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/124/2/b)
+[^c-c786a8edf18e3cee2ad8774c61b77b30]: Textual amendment: Word in [Art. 2(a)(vi)](https://www.legislation.gov.uk/eur/2018/775/article/2/a/vi) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 124(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/124/2/b)
 
-[^key-db8a8fd4f1386947bd08519c652d5858]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(5)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/5)
+[^c-db8a8fd4f1386947bd08519c652d5858]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [7(5)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/7/5)

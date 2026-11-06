@@ -47,7 +47,7 @@ An Act to consolidate certain enactments relating to injurious weeds.
 
 and to such additional injurious weeds as may be prescribed by the Minister by regulations.
 
-## 1A (Extent: E+W). Code of practice: ragwort (Extent: E+W)[^key-4d12ba54976164e6ea5dd32421f0acfa]
+## 1A (Extent: E+W). Code of practice: ragwort (Extent: E+W)[^c-4d12ba54976164e6ea5dd32421f0acfa]
 
 (1 (Extent: E+W)) The Minister may make a code of practice for the purpose of providing guidance on how to prevent the spread of ragwort ( *(Extent: E+W)**senecio jacobaea L. *(Extent: E+W)**). *(Extent: E+W)*
 
@@ -101,7 +101,7 @@ The Minister may authorise the council of any county , county borough[^c623782] 
 
 (5) Where any such notice is to be served on a tenant a copy thereof shall be served on the landlord.
 
-(6) Where any such notice is to be served on any person as being the owner of land and the land is vested in the incumbent of a benefice of the Church of England[^key-a8f6bbc81f3acbe925b0e291b3bb9813], a copy thereof shall be served on the Diocesan Board of Finance for the diocese in which the land is situated[^key-ea27ee642879e85395cb0c555e2eaca6].
+(6) Where any such notice is to be served on any person as being the owner of land and the land is vested in the incumbent of a benefice of the Church of England[^c-a8f6bbc81f3acbe925b0e291b3bb9813], a copy thereof shall be served on the Diocesan Board of Finance for the diocese in which the land is situated[^c-ea27ee642879e85395cb0c555e2eaca6].
 
 ## 7. Regulations under s. 1.
 
@@ -126,11 +126,11 @@ In the application of this Act to Scotland—
 
 (2) Any document referring to an enactment repealed by this Act shall be construed as referring to the corresponding enactment of this Act.
 
-(3)[^key-e5d2a5a9a24fe75ec0a64faba55156c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e5d2a5a9a24fe75ec0a64faba55156c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-e5d2a5a9a24fe75ec0a64faba55156c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e5d2a5a9a24fe75ec0a64faba55156c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e5d2a5a9a24fe75ec0a64faba55156c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e5d2a5a9a24fe75ec0a64faba55156c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 11. Short title, interpretation and extent.
 
@@ -156,7 +156,7 @@ In the application of this Act to Scotland—
 
     Act: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-4d12ba54976164e6ea5dd32421f0acfa]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/54/section/1A) inserted (E.W.) (20.2.2004) by [Ragwort Control Act 2003 (c. 40)](https://www.legislation.gov.uk/ukpga/2003/40), [ss. 1](https://www.legislation.gov.uk/ukpga/2003/40/section/1), [3(2)](https://www.legislation.gov.uk/ukpga/2003/40/section/3/2)
+[^c-4d12ba54976164e6ea5dd32421f0acfa]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/54/section/1A) inserted (E.W.) (20.2.2004) by [Ragwort Control Act 2003 (c. 40)](https://www.legislation.gov.uk/ukpga/2003/40), [ss. 1](https://www.legislation.gov.uk/ukpga/2003/40/section/1), [3(2)](https://www.legislation.gov.uk/ukpga/2003/40/section/3/2)
 
 [^c623771]: Modification: S. 2(1): [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 35](https://www.legislation.gov.uk/ukpga/1982/48/section/35) (in relation to liability on first and subsequent convictions), 38 (increase of fines) and 46 (substitution of references to levels on the standard scale) apply (E.W.)
 
@@ -178,13 +178,13 @@ In the application of this Act to Scotland—
 
 [^c623788]: Marginal citation: [1889 c. 63](https://www.legislation.gov.uk/ukpga/1889/63).
 
-[^key-a8f6bbc81f3acbe925b0e291b3bb9813]: Textual amendment: Words in s. 6(6) substituted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/7); [Instrument made by Archbishops 2006/2](https://www.legislation.gov.uk/ukci/2006/2)
+[^c-a8f6bbc81f3acbe925b0e291b3bb9813]: Textual amendment: Words in s. 6(6) substituted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/7); [Instrument made by Archbishops 2006/2](https://www.legislation.gov.uk/ukci/2006/2)
 
-[^key-ea27ee642879e85395cb0c555e2eaca6]: Textual amendment: Words in s. 6(6) subsituted (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/7); [Instrument made by Archbishops 2006/2](https://www.legislation.gov.uk/ukci/2006/2)
+[^c-ea27ee642879e85395cb0c555e2eaca6]: Textual amendment: Words in s. 6(6) subsituted (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/7); [Instrument made by Archbishops 2006/2](https://www.legislation.gov.uk/ukci/2006/2)
 
 [^c623789]: Textual amendment: S. 10(1) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [s. 1](https://www.legislation.gov.uk/ukpga/1974/22/section/1), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
 
-[^key-e5d2a5a9a24fe75ec0a64faba55156c9]: Textual amendment: [S. 10(3)-(5)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/54/section/10/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-e5d2a5a9a24fe75ec0a64faba55156c9]: Textual amendment: [S. 10(3)-(5)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/54/section/10/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c623793]: Textual amendment: Words beginning “the roads ...” substituted (S.) for words beginning “the authority ...” by [Roads (Scotland) Act 1984 (c. 54, SIF 108)](https://www.legislation.gov.uk/ukpga/1984/54), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/1984/54/section/128/1), [156(1)](https://www.legislation.gov.uk/ukpga/1984/54/section/156/1), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/1984/54/schedule/9/paragraph/52)
 

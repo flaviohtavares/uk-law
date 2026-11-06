@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 192. Personal licences[^key-a3e6ca4cc5f9eec26534e39216218ecb]
+## 192. Personal licences[^c-a3e6ca4cc5f9eec26534e39216218ecb]
 
 *Extent: S*
 
@@ -89,4 +89,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3e6ca4cc5f9eec26534e39216218ecb]: Commencement: [S. 192](https://www.legislation.gov.uk/asp/2010/13/section/192) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-a3e6ca4cc5f9eec26534e39216218ecb]: Commencement: [S. 192](https://www.legislation.gov.uk/asp/2010/13/section/192) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Court’s powers on appeal[^key-03dc2d8935634ff71aa2cb319dbc059a][^key-e3634034bab4be7cd4cb838ceea63874][^key-e3634034bab4be7cd4cb838ceea63874]
+## 182. Court’s powers on appeal[^c-03dc2d8935634ff71aa2cb319dbc059a][^c-e3634034bab4be7cd4cb838ceea63874][^c-e3634034bab4be7cd4cb838ceea63874]
 
 *Extent: N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 (7) If an order has been made against the defendant in respect of the offence (or any of the offences) concerned under Article 14 of the Criminal Justice (Northern Ireland) Order 1994 (S.I. 1994/2795 (N.I. 15)) (compensation orders)—
 
 - (a) the court must have regard to it, and
-- (b) section 163(5) and (6) above do not apply so far as they relate to such orders[^key-93bfe077dedd3318f362270ec0f9108d] .
+- (b) section 163(5) and (6) above do not apply so far as they relate to such orders[^c-93bfe077dedd3318f362270ec0f9108d] .
 
 (8) Section 158(2) does not apply, and the rules applying instead are that the court must—
 
@@ -66,10 +66,10 @@ summary: ''
 
 ## Annotations
 
-[^key-03dc2d8935634ff71aa2cb319dbc059a]: Commencement: S. 182 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
+[^c-03dc2d8935634ff71aa2cb319dbc059a]: Commencement: S. 182 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
 
-[^key-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
+[^c-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
 
 [^M_F_2545d069-e274-480f-8076-ae35b607b419]: Textual amendment: S. 182(2A) inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/26/2), [88(3)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/3/a); [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/a)
 
-[^key-93bfe077dedd3318f362270ec0f9108d]: Textual amendment: Words in s. 182(7)(b) inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 14](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/14)
+[^c-93bfe077dedd3318f362270ec0f9108d]: Textual amendment: Words in s. 182(7)(b) inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 14](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/14)

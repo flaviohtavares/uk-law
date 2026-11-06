@@ -104,7 +104,7 @@ Section 44
   - (a) section 6(1)(d) of EA 1989, or
   - (b) Article 10(1)(c) of the Electricity (Northern Ireland) Order 1992 (S.I. 1992/231 (N.I. 1));
 - “**investment contract counterparty**” is to be construed in accordance with paragraph 5;
-- “**national system operator**” means the person designated as the Independent System Operator and Planner under section 162 of the Energy Act 2023;[^key-cd4e3fd27b6d0162130ead4edf980067]
+- “**national system operator**” means the person designated as the Independent System Operator and Planner under section 162 of the Energy Act 2023;[^c-cd4e3fd27b6d0162130ead4edf980067]
 - “**regulations**” means regulations made under paragraph 6.
 
 (2) References in this Schedule to a CFD counterparty (apart from the references in paragraphs 9(1)(c) and (d) and 16) are to a CFD counterparty acting as a counterparty in relation to an investment contract (where any property, rights or liabilities under the contract have been transferred to the CFD counterparty by a scheme under paragraph 16).
@@ -429,4 +429,4 @@ does not apply to a disclosure required by virtue of this paragraph.
 
 ## Annotations
 
-[^key-cd4e3fd27b6d0162130ead4edf980067]: Textual amendment: Words in Sch. 2 para. 4(1) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(10)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/10); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-cd4e3fd27b6d0162130ead4edf980067]: Textual amendment: Words in Sch. 2 para. 4(1) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(10)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/10); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)

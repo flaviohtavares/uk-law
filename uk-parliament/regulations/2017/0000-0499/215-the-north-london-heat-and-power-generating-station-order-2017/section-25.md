@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Rights over land[^key-95cb909433d74d45695c7ce268c94922]
+## 25. Rights over land[^c-95cb909433d74d45695c7ce268c94922]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95cb909433d74d45695c7ce268c94922]: Commencement: Art. 25 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-95cb909433d74d45695c7ce268c94922]: Commencement: Art. 25 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)

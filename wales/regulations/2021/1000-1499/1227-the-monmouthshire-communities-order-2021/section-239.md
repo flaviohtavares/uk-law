@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**239.**[^key-b5efffed05767e1a8ecb03334ee286bc][^key-26e47a36fdb51df3a55e96ac5090c320] The parts of the community of Llangattock Vibon Avel shown hatched and shaded on Map 160—
+**239.**[^c-b5efffed05767e1a8ecb03334ee286bc][^c-26e47a36fdb51df3a55e96ac5090c320] The parts of the community of Llangattock Vibon Avel shown hatched and shaded on Map 160—
 
 - (a) are transferred to the community of Whitecastle;
 - (b) the shaded part is transferred to the new community ward of Newcastle;
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5efffed05767e1a8ecb03334ee286bc]: Commencement: Art. 239 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-b5efffed05767e1a8ecb03334ee286bc]: Commencement: Art. 239 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-26e47a36fdb51df3a55e96ac5090c320]: Commencement: [Art. 239](https://www.legislation.gov.uk/wsi/2021/1227/article/239) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-26e47a36fdb51df3a55e96ac5090c320]: Commencement: [Art. 239](https://www.legislation.gov.uk/wsi/2021/1227/article/239) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

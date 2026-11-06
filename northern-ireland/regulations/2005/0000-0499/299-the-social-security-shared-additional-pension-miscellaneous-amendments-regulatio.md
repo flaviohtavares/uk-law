@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred by sections 54(1), 113(1), and 171(3) of, and paragraphs 1, 3 and 5 of Schedule 5A to the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and sections 1(1), 5(1)(a) to (c) and (g), 69(6), 71(1) and 165(1), (4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-4e2767449e2e54c6f5054cdd5139245c]
+## 1. Citation, commencement and interpretation[^c-4e2767449e2e54c6f5054cdd5139245c]
 
 (1) These Regulations may be cited as the Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 and shall come into operation on 6th July 2005 except for regulation 2(8) and (10) which shall come into operation on 6th April 2006.
 
@@ -49,11 +49,11 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^key-5a305ee2dca35a3965987472a60b64f9][^key-145d2961cb85c507c22d36da390ae977]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^c-5a305ee2dca35a3965987472a60b64f9][^c-145d2961cb85c507c22d36da390ae977]
 
-(1)[^key-5a305ee2dca35a3965987472a60b64f9] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00006] shall be amended in accordance with paragraphs (2) to (11).
+(1)[^c-5a305ee2dca35a3965987472a60b64f9] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00006] shall be amended in accordance with paragraphs (2) to (11).
 
-(2)[^key-5a305ee2dca35a3965987472a60b64f9] In regulation 2(1) (interpretation) –
+(2)[^c-5a305ee2dca35a3965987472a60b64f9] In regulation 2(1) (interpretation) –
 
 - (a)[^M_F_85cbd8da-60a9-4b0c-8851-5ae59ff0b337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the definition of “long term benefits”[^f00008] after “retirement pension,” there shall be inserted “a shared additional pension,”; and
@@ -63,24 +63,24 @@ The Department for Social Development, in exercise of the powers conferred by se
 
   .
 
-(3)[^key-5a305ee2dca35a3965987472a60b64f9] In regulation 3 (claims not required for entitlement to benefit in certain cases) after paragraph (h)[^f00010] there shall be added the following paragraph –
+(3)[^c-5a305ee2dca35a3965987472a60b64f9] In regulation 3 (claims not required for entitlement to benefit in certain cases) after paragraph (h)[^f00010] there shall be added the following paragraph –
 
 > - (i) in the case of a shared additional pension where the beneficiary is in receipt of a retirement pension of any category.
 
 .
 
-(4)[^key-5a305ee2dca35a3965987472a60b64f9] In regulation 4 (making a claim for benefit) –
+(4)[^c-5a305ee2dca35a3965987472a60b64f9] In regulation 4 (making a claim for benefit) –
 
 - (a) in paragraph (6A)[^f00011] –
   - (i) in sub-paragraph (a)(ii) after “category” there shall be inserted “or a shared additional pension”, and
   - (ii) in sub-paragraph (b) after “retirement pension” there shall be inserted “or a shared additional pension”; and
 - (b) in paragraph (11)[^f00012] after “graduated retirement benefit” there shall be inserted “, a shared additional pension”.
 
-(5)[^key-5a305ee2dca35a3965987472a60b64f9] In regulation 13(3)[^f00013] (advance claims and awards) after “increase of retirement pension,” there shall be inserted “a shared additional pension,”.
+(5)[^c-5a305ee2dca35a3965987472a60b64f9] In regulation 13(3)[^f00013] (advance claims and awards) after “increase of retirement pension,” there shall be inserted “a shared additional pension,”.
 
-(6)[^key-5a305ee2dca35a3965987472a60b64f9] In regulation 15(1) (advance notice of retirement and claim for and award of pension) after “increase in any such pension,” there shall be inserted “or a shared additional pension,”.
+(6)[^c-5a305ee2dca35a3965987472a60b64f9] In regulation 15(1) (advance notice of retirement and claim for and award of pension) after “increase in any such pension,” there shall be inserted “or a shared additional pension,”.
 
-(7)[^key-5a305ee2dca35a3965987472a60b64f9] For regulation 15B[^f00014] (advance claim for pension following deferment) there shall be substituted –
+(7)[^c-5a305ee2dca35a3965987472a60b64f9] For regulation 15B[^f00014] (advance claim for pension following deferment) there shall be substituted –
 
 > **15B. Advance claim for pension following deferment**
 >
@@ -94,11 +94,11 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 .
 
-(8)[^key-95199f2bacc46f9a8272d20856e0b7e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-95199f2bacc46f9a8272d20856e0b7e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-5a305ee2dca35a3965987472a60b64f9] In Schedule 1, in the Table in Part I[^f00017] (benefit claimed and other benefit which may be treated as if claimed in addition or in the alternative) where “A retirement pension of any category” appears in column (1) (benefit claimed), in the corresponding paragraph in column (2) (alternative benefit), after “any other category” there shall be inserted “, a shared additional pension”.
+(9)[^c-5a305ee2dca35a3965987472a60b64f9] In Schedule 1, in the Table in Part I[^f00017] (benefit claimed and other benefit which may be treated as if claimed in addition or in the alternative) where “A retirement pension of any category” appears in column (1) (benefit claimed), in the corresponding paragraph in column (2) (alternative benefit), after “any other category” there shall be inserted “, a shared additional pension”.
 
-(10)[^key-145d2961cb85c507c22d36da390ae977] In Schedule 4 (prescribed times for claiming benefit), after paragraph 14[^f00018] there shall be added the following paragraph –
+(10)[^c-145d2961cb85c507c22d36da390ae977] In Schedule 4 (prescribed times for claiming benefit), after paragraph 14[^f00018] there shall be added the following paragraph –
 
 > |  |  |
 > | --- | --- |
@@ -117,7 +117,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 .
 
-## 3. Amendment of the Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978[^key-75ad9fc11e1efbee46541929d7beb083]
+## 3. Amendment of the Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978[^c-75ad9fc11e1efbee46541929d7beb083]
 
 (1) The Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978[^f00019] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -134,7 +134,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 - (a) after “retirement pension of any category” there shall be inserted “, any additional shared additional pension”; and
 - (b) after “entitled to a retirement pension” there shall be inserted “, a shared additional pension”.
 
-## 4. Amendment of the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^key-b677c573e28e249e305890b6cf911f6b]
+## 4. Amendment of the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^c-b677c573e28e249e305890b6cf911f6b]
 
 In regulation 2(1) of the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00023] (interpretation) –
 
@@ -145,7 +145,7 @@ In regulation 2(1) of the Social Security (Overlapping Benefits) Regulations (No
 
   .
 
-## 5. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^key-43c7314b54723463bca3d517adba31f1]
+## 5. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^c-43c7314b54723463bca3d517adba31f1]
 
 (1) The Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00025] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -165,7 +165,7 @@ In regulation 2(1) of the Social Security (Overlapping Benefits) Regulations (No
 
 .
 
-## 6. Amendment of the Social Security (General Benefit) Regulations (Northern Ireland) 1984[^key-553495c1717d3d63556718025c6333bb]
+## 6. Amendment of the Social Security (General Benefit) Regulations (Northern Ireland) 1984[^c-553495c1717d3d63556718025c6333bb]
 
 (1) The Social Security (General Benefit) Regulations (Northern Ireland) 1984[^f00028] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -177,11 +177,11 @@ In regulation 2(1) of the Social Security (Overlapping Benefits) Regulations (No
 
 (3) In regulation 2(2)[^f00029] (exceptions from disqualification for imprisonment etc.) after “maternity allowance,” there shall be inserted “a shared additional pension,”.
 
-## 7. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^key-58a2af6e855bd89ad37eaff3f07fe9e1]
+## 7. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^c-58a2af6e855bd89ad37eaff3f07fe9e1]
 
 In regulation 5(2) of the Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00030] (offsetting prior payments against subsequent award), in Case 1 (payment pursuant to a decision which is revised, superseded or overturned on appeal) after “benefit” there shall be inserted “or by way of a shared additional pension under section 55A of the Contributions and Benefits Act”.
 
-## 8. Amendment of the Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2005[^key-16f38571ea70549fae3007771b16a045]
+## 8. Amendment of the Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2005[^c-16f38571ea70549fae3007771b16a045]
 
 (1) The Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2005[^f00031] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -191,7 +191,7 @@ In regulation 5(2) of the Social Security (Payments on account, Overpayments and
 
 .
 
-(3)[^key-615801fbd756c79105ed967cc25b75c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-615801fbd756c79105ed967cc25b75c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 3 (amount of retirement pension not included in the calculation of the lump sum) –
 
@@ -206,7 +206,7 @@ In regulation 5(2) of the Social Security (Payments on account, Overpayments and
   - (ii) after “paragraph (1)” there shall be inserted “or a shared additional pension not included by paragraph (1A)”, and
 - (d) in paragraph (8) after “retirement pension” insert “or a shared additional pension”.
 
-## 9. Transitional provisions[^key-d5664994a6b812018a4c8129a0932716]
+## 9. Transitional provisions[^c-d5664994a6b812018a4c8129a0932716]
 
 (1) Subject to paragraph (2) a claim for a shared additional pension made during the period from 6th April 2005 to 5th April 2006 in respect of any day in the period from 6th April 2005 to 5th April 2006 shall be treated as made on that day if on that day, apart from satisfying the condition of making a claim, the claimant satisfies the other conditions of entitlement for that pension.
 
@@ -242,15 +242,15 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-4e2767449e2e54c6f5054cdd5139245c]: Commencement: Reg. 1 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+[^c-4e2767449e2e54c6f5054cdd5139245c]: Commencement: Reg. 1 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
 
 [^f00004]: Footnote: Section 55A was inserted by paragraph 3 of Schedule 6 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-5a305ee2dca35a3965987472a60b64f9]: Commencement: Reg. 2(1)-(7) (9) in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+[^c-5a305ee2dca35a3965987472a60b64f9]: Commencement: Reg. 2(1)-(7) (9) in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
 
-[^key-145d2961cb85c507c22d36da390ae977]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/299/regulation/2/8)[(10)](https://www.legislation.gov.uk/nisr/2005/299/regulation/2/10) in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+[^c-145d2961cb85c507c22d36da390ae977]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/299/regulation/2/8)[(10)](https://www.legislation.gov.uk/nisr/2005/299/regulation/2/10) in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1988 No. 369](https://www.legislation.gov.uk/nisr/1988/369), [S.R. 1992 Nos. 7](https://www.legislation.gov.uk/nisr/1992/7) and [83](https://www.legislation.gov.uk/nisr/1992/83), [S.R. 1994 Nos. 345](https://www.legislation.gov.uk/nisr/1994/345) and [456](https://www.legislation.gov.uk/nisr/1994/456), [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), [S.R. 1999 Nos. 365](https://www.legislation.gov.uk/nisr/1999/365) and [381](https://www.legislation.gov.uk/nisr/1999/381), [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323), [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191) and [317](https://www.legislation.gov.uk/nisr/2003/317) and [S.R. 2005 Nos. 14](https://www.legislation.gov.uk/nisr/2005/14) and [122](https://www.legislation.gov.uk/nisr/2005/122)
 
@@ -272,13 +272,13 @@ These Regulations do not impose a charge on business.
 
 [^f00015]: Footnote: Sections 55 and 55C were substituted by Article 273(1) and (2) of the Pensions (Northern Ireland) Order 2005
 
-[^key-95199f2bacc46f9a8272d20856e0b7e9]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/nisr/2005/299/regulation/2/8) revoked (6.4.2006) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/a), [5](https://www.legislation.gov.uk/nisr/2005/541/regulation/5)
+[^c-95199f2bacc46f9a8272d20856e0b7e9]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/nisr/2005/299/regulation/2/8) revoked (6.4.2006) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/a), [5](https://www.legislation.gov.uk/nisr/2005/541/regulation/5)
 
 [^f00017]: Footnote: The Table in Part I was substituted by Schedule 1 to [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456)
 
 [^f00018]: Footnote: Paragraphs 13 and 14 were added by regulation 2(5) of [S.R. 2005 No. 122](https://www.legislation.gov.uk/nisr/2005/122)
 
-[^key-75ad9fc11e1efbee46541929d7beb083]: Commencement: Reg. 3 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+[^c-75ad9fc11e1efbee46541929d7beb083]: Commencement: Reg. 3 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
 
 [^f00019]: Footnote: [S.R. 1978 No. 114](https://www.legislation.gov.uk/nisr/1978/114); relevant amending regulations are [S.R. 1979 No. 392](https://www.legislation.gov.uk/nisr/1979/392), [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373), [S.R. 1992 No. 330](https://www.legislation.gov.uk/nisr/1992/330) and [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108)
 
@@ -288,13 +288,13 @@ These Regulations do not impose a charge on business.
 
 [^f00022]: Footnote: Regulation 5(3)(c) was amended by regulation 6(3)(a)(ii) of [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373) and regulation 3 of [S.R. 1992 No. 330](https://www.legislation.gov.uk/nisr/1992/330)
 
-[^key-b677c573e28e249e305890b6cf911f6b]: Commencement: Reg. 4 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+[^c-b677c573e28e249e305890b6cf911f6b]: Commencement: Reg. 4 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
 
 [^f00023]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); relevant amending regulations are [S.R. 1980 No. 451](https://www.legislation.gov.uk/nisr/1980/451) and [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
 
 [^f00024]: Footnote: The definition of “personal benefit” was amended by regulation 2(a) of [S.R. 1980 No. 451](https://www.legislation.gov.uk/nisr/1980/451) and regulation 11(2)(c) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
 
-[^key-43c7314b54723463bca3d517adba31f1]: Commencement: Reg. 5 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+[^c-43c7314b54723463bca3d517adba31f1]: Commencement: Reg. 5 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
 
 [^f00025]: Footnote: [S.R. 1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243); relevant amending regulations are [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373) and [S.R. 2005 No. 120](https://www.legislation.gov.uk/nisr/2005/120)
 
@@ -302,22 +302,22 @@ These Regulations do not impose a charge on business.
 
 [^f00027]: Footnote: Regulation 3(a) was amended by regulation 8(4)(a) of [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373)
 
-[^key-553495c1717d3d63556718025c6333bb]: Commencement: Reg. 6 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+[^c-553495c1717d3d63556718025c6333bb]: Commencement: Reg. 6 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
 
 [^f00028]: Footnote: [S.R. 1984 No. 92](https://www.legislation.gov.uk/nisr/1984/92); relevant amending regulations are [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317), [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150), [S.R. 1996 No. 57](https://www.legislation.gov.uk/nisr/1996/57) and [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108)
 
 [^f00029]: Footnote: Paragraph (2) was amended by Schedule 2 to [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317), regulation 7(3) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), regulation 16 of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150), regulation 2(a) of [S.R. 1996 No. 57](https://www.legislation.gov.uk/nisr/1996/57) and regulation 9(3) of [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108)
 
-[^key-58a2af6e855bd89ad37eaff3f07fe9e1]: Commencement: Reg. 7 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+[^c-58a2af6e855bd89ad37eaff3f07fe9e1]: Commencement: Reg. 7 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
 
 [^f00030]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); regulation 5(2) was amended by article 11(4) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472)
 
-[^key-16f38571ea70549fae3007771b16a045]: Commencement: Reg. 8 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+[^c-16f38571ea70549fae3007771b16a045]: Commencement: Reg. 8 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
 
 [^f00031]: Footnote: [S.R. 2005 No. 120](https://www.legislation.gov.uk/nisr/2005/120)
 
-[^key-615801fbd756c79105ed967cc25b75c6]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/nisr/2005/299/regulation/8/3) revoked (5.4.2011) by [Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2011 (S.R. 2011/109)](https://www.legislation.gov.uk/nisr/2011/109), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2011/109/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2011/109/regulation/4)
+[^c-615801fbd756c79105ed967cc25b75c6]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/nisr/2005/299/regulation/8/3) revoked (5.4.2011) by [Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2011 (S.R. 2011/109)](https://www.legislation.gov.uk/nisr/2011/109), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2011/109/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2011/109/regulation/4)
 
-[^key-d5664994a6b812018a4c8129a0932716]: Commencement: Reg. 9 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+[^c-d5664994a6b812018a4c8129a0932716]: Commencement: Reg. 9 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
 
 [^f00033]: Footnote: Regulation 30(5) was amended by regulation 2(4)(a) of [S.R. 2005 No. 122](https://www.legislation.gov.uk/nisr/2005/122)

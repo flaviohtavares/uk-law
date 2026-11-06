@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health
 
-The Plant Health Order (Northern Ireland) 2018 (revoked)[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+The Plant Health Order (Northern Ireland) 2018 (revoked)[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 Made
 
@@ -42,18 +42,18 @@ Coming into operation
 
 1st December 2018
 
-[^key-b37e9440ba8259021a4d4c6e6755fd2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b37e9440ba8259021a4d4c6e6755fd2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART 1 — General[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 **No longer in force.**
 
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — General interpretation](part-1/section-2.md)
 
-### PART 2 — Imports from third countries[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART 2 — Imports from third countries[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 **No longer in force.**
 
@@ -74,7 +74,7 @@ Coming into operation
 - [Section 17 — Approved places of inspection](part-2/section-17.md)
 - [Section 18 — Requirements for plant health movement documents](part-2/section-18.md)
 
-### PART 3 — Internal EU controls on movement[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART 3 — Internal EU controls on movement[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 **No longer in force.**
 
@@ -86,7 +86,7 @@ Coming into operation
 - [Section 24 — Validity of plant passports for Northern Ireland](part-3/section-24.md)
 - [Section 25 — General provisions relating to plant passports](part-3/section-25.md)
 
-### PART 4 — Registration of plant traders and authority to issue plant passports[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART 4 — Registration of plant traders and authority to issue plant passports[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 **No longer in force.**
 
@@ -96,13 +96,13 @@ Coming into operation
 - [Section 29 — Conditions for maintaining registration as a plant trader and other trade-related conditions](part-4/section-29.md)
 - [Section 30 — Authority to issue plant passports](part-4/section-30.md)
 
-### PART 5 — Swiss trade and Swiss plant passports[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART 5 — Swiss trade and Swiss plant passports[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 **No longer in force.**
 
 - [Section 31 — Exceptions to the requirements in articles 6, 7 and 10](part-5/section-31.md)
 
-### PART 6 — Measures to control the landing of relevant material and prevent the spread of plant pests[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART 6 — Measures to control the landing of relevant material and prevent the spread of plant pests[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 **No longer in force.**
 
@@ -115,21 +115,21 @@ Coming into operation
 - [Section 38 — Failure to comply with a notice](part-6/section-38.md)
 - [Section 39 — Right of entry conferred by a warrant issued by a lay magistrate](part-6/section-39.md)
 
-### PART 7 — Certain solanaceous species: planting and control of relevant plant pests[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART 7 — Certain solanaceous species: planting and control of relevant plant pests[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 **No longer in force.**
 
 - [Section 40 — Miscellaneous provisions for certain solanaceous species](part-7/section-40.md)
 - [Section 41 — Inspection and control of potato plant health Dickeya spp.](part-7/section-41.md)
 
-### PART 8 — Licences[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART 8 — Licences[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 **No longer in force.**
 
 - [Section 42 — Licences to carry out activities prohibited by this Order](part-8/section-42.md)
 - [Section 43 — Licences for trial or scientific purposes or for work on varietal selections permitted by Directive 2008/61/EC](part-8/section-43.md)
 
-### PART 9 — Notifications, provision and exchange of information[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART 9 — Notifications, provision and exchange of information[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 **No longer in force.**
 
@@ -138,14 +138,14 @@ Coming into operation
 - [Section 46 — Information to be given](part-9/section-46.md)
 - [Section 47 — Power to share information for the purposes of the Order](part-9/section-47.md)
 
-### PART 10 — Offences[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART 10 — Offences[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 **No longer in force.**
 
 - [Section 48 — Offences](part-10/section-48.md)
 - [Section 49 — Penalties](part-10/section-49.md)
 
-### PART 11 — Miscellaneous[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART 11 — Miscellaneous[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 **No longer in force.**
 
@@ -176,14 +176,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-b37e9440ba8259021a4d4c6e6755fd2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b37e9440ba8259021a4d4c6e6755fd2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-b37e9440ba8259021a4d4c6e6755fd2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b37e9440ba8259021a4d4c6e6755fd2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b37e9440ba8259021a4d4c6e6755fd2e]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))
+[^c-b37e9440ba8259021a4d4c6e6755fd2e]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))

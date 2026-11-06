@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Support for accommodated children[^key-4df9455ad74f5256d6babc678796bc39][^key-2f7fc42624947f341feeb8e21f77a3c9]
+## 19. Support for accommodated children[^c-4df9455ad74f5256d6babc678796bc39][^c-2f7fc42624947f341feeb8e21f77a3c9]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ After paragraph 8 of Schedule 2 to the 1989 Act insert—
 
 ## Annotations
 
-[^key-4df9455ad74f5256d6babc678796bc39]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2008/23/section/19) in force at 28.3.2011 for W. by [S.I. 2011/949](https://www.legislation.gov.uk/wsi/2011/949), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2011/949/article/3/1/b)
+[^c-4df9455ad74f5256d6babc678796bc39]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2008/23/section/19) in force at 28.3.2011 for W. by [S.I. 2011/949](https://www.legislation.gov.uk/wsi/2011/949), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2011/949/article/3/1/b)
 
-[^key-2f7fc42624947f341feeb8e21f77a3c9]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2008/23/section/19) in force at 1.4.2011 for E. by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(f)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/f)
+[^c-2f7fc42624947f341feeb8e21f77a3c9]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2008/23/section/19) in force at 1.4.2011 for E. by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(f)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/f)

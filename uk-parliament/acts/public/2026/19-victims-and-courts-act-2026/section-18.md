@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Commencement and transitional provision[^key-5d9582762a8bc742e100adb56f0c6ca4]
+## 18. Commencement and transitional provision[^c-5d9582762a8bc742e100adb56f0c6ca4]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d9582762a8bc742e100adb56f0c6ca4]: Commencement: S. 18 in force at Royal Assent, see [s. 18(3)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/3)
+[^c-5d9582762a8bc742e100adb56f0c6ca4]: Commencement: S. 18 in force at Royal Assent, see [s. 18(3)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/3)

@@ -22,13 +22,13 @@ summary: ''
 
 Article 38
 
-### 1. Primary objective[^key-1a908c9d6282cbfaeb24e0837390e87d]
+### 1. Primary objective[^c-1a908c9d6282cbfaeb24e0837390e87d]
 
 (1) The primary objective of these arbitration rules is to achieve a fair, impartial, final and binding award on the substantive difference between the parties (save as to costs) within 4 months from the date the arbitrator is appointed pursuant to article 38 (arbitration) of this Order.
 
 (2) The arbitration will be deemed to have commenced when a party (“the Claimant”) serves a written notice of arbitration on the other party (“the Respondent”).
 
-### 2. Time periods[^key-1acb4003b4fb53a25bca57c9a1061e49]
+### 2. Time periods[^c-1acb4003b4fb53a25bca57c9a1061e49]
 
 (1) All time periods in these arbitration rules are measured in days and include weekends, but not bank or public holidays.
 
@@ -37,7 +37,7 @@ Article 38
 - (a) the date the arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-d3186190e41e5a900647d930959f2793]
+### 3. Timetable[^c-d3186190e41e5a900647d930959f2793]
 
 (1) The timetable for the arbitration is that which is set out in sub-paragraphs (2) to (4) below unless amended in accordance with paragraph 5(3).
 
@@ -60,7 +60,7 @@ Article 38
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the Respondent; and
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-fcdf4a80269cd6629ee886ba216a4f65]
+### 4. Procedure[^c-fcdf4a80269cd6629ee886ba216a4f65]
 
 (1) The parties’ pleadings, witness statements and expert reports (if any) must be concise. A single pleading must not exceed 30 single-sided A4 pages using 10pt Arial font.
 
@@ -88,7 +88,7 @@ Article 38
 
 (11) The arbitrator’s award must include reasons. The parties must accept that the extent to which reasons are given must be proportionate to the issues in dispute and the time available to the arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-eadcbf3abe01c9cd1b872795ff862075]
+### 5. Arbitrator’s powers[^c-eadcbf3abe01c9cd1b872795ff862075]
 
 (1) The arbitrator has all the powers of the Arbitration Act 1996, save where modified by these Rules in this Schedule.
 
@@ -98,7 +98,7 @@ Article 38
 
 (4) On the date the award is made, the arbitrator will notify the parties that the award is completed, signed and dated, and that it will be issued to the parties on receipt of cleared funds for the arbitrator’s fees and expenses.
 
-### 6. Costs[^key-d545c5f69f7c1f0cb205d085f26a730d]
+### 6. Costs[^c-d545c5f69f7c1f0cb205d085f26a730d]
 
 (1) The costs of the arbitration must include the fees and expenses of the arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the arbitration.
 
@@ -108,7 +108,7 @@ Article 38
 
 (4) The arbitrator must award recoverable costs on the general principle that each party should bear its own costs, having regard to all material circumstances, including such matters as exaggerated claims and/or defences, the degree of success for different elements of the claims, claims that have incurred substantial costs, the conduct of the parties and the degree of success of a party.
 
-### 7. Confidentiality[^key-db3cea8ec5138c675614304f2fd5ef00]
+### 7. Confidentiality[^c-db3cea8ec5138c675614304f2fd5ef00]
 
 (1) Hearings in any arbitration are to take place in public, unless agreed otherwise by the arbitrator on application from one or both of the parties.
 
@@ -116,16 +116,16 @@ Article 38
 
 ## Annotations
 
-[^key-1a908c9d6282cbfaeb24e0837390e87d]: Commencement: Sch. 11 para. 1 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-1a908c9d6282cbfaeb24e0837390e87d]: Commencement: Sch. 11 para. 1 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-1acb4003b4fb53a25bca57c9a1061e49]: Commencement: Sch. 11 para. 2 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-1acb4003b4fb53a25bca57c9a1061e49]: Commencement: Sch. 11 para. 2 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-d3186190e41e5a900647d930959f2793]: Commencement: Sch. 11 para. 3 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-d3186190e41e5a900647d930959f2793]: Commencement: Sch. 11 para. 3 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-fcdf4a80269cd6629ee886ba216a4f65]: Commencement: Sch. 11 para. 4 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-fcdf4a80269cd6629ee886ba216a4f65]: Commencement: Sch. 11 para. 4 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-eadcbf3abe01c9cd1b872795ff862075]: Commencement: Sch. 11 para. 5 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-eadcbf3abe01c9cd1b872795ff862075]: Commencement: Sch. 11 para. 5 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-d545c5f69f7c1f0cb205d085f26a730d]: Commencement: Sch. 11 para. 6 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-d545c5f69f7c1f0cb205d085f26a730d]: Commencement: Sch. 11 para. 6 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-db3cea8ec5138c675614304f2fd5ef00]: Commencement: Sch. 11 para. 7 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-db3cea8ec5138c675614304f2fd5ef00]: Commencement: Sch. 11 para. 7 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)

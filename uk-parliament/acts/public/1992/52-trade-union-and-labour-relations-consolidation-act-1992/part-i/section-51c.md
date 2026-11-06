@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51C. Hybrid voting[^key-e0e8f4ab4b79ffa4b9566a86ae8ff6f2]
+## 51C. Hybrid voting[^c-e0e8f4ab4b79ffa4b9566a86ae8ff6f2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where hybrid voting is a selected means of voting for an election, Parts 1 and 3
 
 ## Annotations
 
-[^key-e0e8f4ab4b79ffa4b9566a86ae8ff6f2]: Textual amendment: Ss. 51B, 51C and cross-headings inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(9)](https://www.legislation.gov.uk/uksi/2026/881/article/3/9) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-e0e8f4ab4b79ffa4b9566a86ae8ff6f2]: Textual amendment: Ss. 51B, 51C and cross-headings inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(9)](https://www.legislation.gov.uk/uksi/2026/881/article/3/9) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

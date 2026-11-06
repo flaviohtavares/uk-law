@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Lights on tidal works during construction[^key-186b0a1185903b959a2b065f95b2a948]
+## 50. Lights on tidal works during construction[^c-186b0a1185903b959a2b065f95b2a948]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ during the whole time of their construction, alteration, replacement or extensio
 
 ## Annotations
 
-[^key-186b0a1185903b959a2b065f95b2a948]: Commencement: Art. 50 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-186b0a1185903b959a2b065f95b2a948]: Commencement: Art. 50 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

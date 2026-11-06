@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67D. Proceeds of realisation[^key-69486128bcd298081e6f1707dab9157d]
+## 67D. Proceeds of realisation[^c-69486128bcd298081e6f1707dab9157d]
 
 *Extent: E+W*
 
 (1) This section applies to sums which—
 
 - (a) are in the hands of an appropriate officer, and
-- (b) are the proceeds of the realisation of property under section 67ZA or[^key-ef4fbceaefc533ab4a9b91f4f008e47f] 67A.
+- (b) are the proceeds of the realisation of property under section 67ZA or[^c-ef4fbceaefc533ab4a9b91f4f008e47f] 67A.
 
 (2) The sums must be applied as follows—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-69486128bcd298081e6f1707dab9157d]: Textual amendment: Ss. 67A-67D inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/58/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-69486128bcd298081e6f1707dab9157d]: Textual amendment: Ss. 67A-67D inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/58/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
 
-[^key-ef4fbceaefc533ab4a9b91f4f008e47f]: Textual amendment: Words in s. 67D(1)(b) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/15); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/a)
+[^c-ef4fbceaefc533ab4a9b91f4f008e47f]: Textual amendment: Words in s. 67D(1)(b) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/15); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/a)

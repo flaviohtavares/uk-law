@@ -33,7 +33,7 @@ An Act to make provision about immigration and asylum; to make provision about p
 
 \[11th November 1999\]
 
-[^c11432361][^c17546481]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-44466a04ec8a4c02903838ad377c6fa6][^key-3d3b1b92b36ba064a3fb20d7f54267f1][^key-1625e773a34ebc0e255f61953969abd8][^key-05403b6c11553aa4b7eea1bfbd74d6cb][^key-04c8a339377f1b9496f03d0ab70d7193][^key-458cb38f7194addfd22f682e2dac6f19][^key-5cbb64070fdc3157eb1a35b55e4aab90][^key-18651cc6de994f89731592718de3ea92][^key-8ab2ccf562a6fbc1698f95d0de6f4206][^key-9afb87acd8ef1cd6dd6171fdb6fc780f][^key-0d2d948a7f1eeda6eadf30e67a3d53fc][^key-6bca2f9e27b657414eb7e74c67fc1b5c][^key-c09614fd24db18d108321527133baec6]
+[^c11432361][^c17546481]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-44466a04ec8a4c02903838ad377c6fa6][^c-3d3b1b92b36ba064a3fb20d7f54267f1][^c-1625e773a34ebc0e255f61953969abd8][^c-05403b6c11553aa4b7eea1bfbd74d6cb][^c-04c8a339377f1b9496f03d0ab70d7193][^c-458cb38f7194addfd22f682e2dac6f19][^c-5cbb64070fdc3157eb1a35b55e4aab90][^c-18651cc6de994f89731592718de3ea92][^c-8ab2ccf562a6fbc1698f95d0de6f4206][^c-9afb87acd8ef1cd6dd6171fdb6fc780f][^c-0d2d948a7f1eeda6eadf30e67a3d53fc][^c-6bca2f9e27b657414eb7e74c67fc1b5c][^c-c09614fd24db18d108321527133baec6]
 
 ## Contents
 
@@ -128,7 +128,7 @@ An Act to make provision about immigration and asylum; to make provision about p
 
 *Extent: E+W+S+N.I.*
 
-#### Penalties for failure to secure goods vehicle and for carrying clandestine entrants[^key-f94b04e31563b2a520987038e719d66e]
+#### Penalties for failure to secure goods vehicle and for carrying clandestine entrants[^c-f94b04e31563b2a520987038e719d66e]
 
 *Extent: E+W+S+N.I.*
 
@@ -145,7 +145,7 @@ An Act to make provision about immigration and asylum; to make provision about p
 - [Section 38 — Assisting illegal entry and harbouring.](part-ii/section-38.md)
 - [Section 39 — Rail freight.](part-ii/section-39.md)
 
-#### Individuals without proper documents or authorisation[^key-0e0f01b56c7f7c25d99ce2bc55190481]
+#### Individuals without proper documents or authorisation[^c-0e0f01b56c7f7c25d99ce2bc55190481]
 
 *Extent: E+W+S+N.I.*
 
@@ -197,24 +197,24 @@ An Act to make provision about immigration and asylum; to make provision about p
 
 - [Section 55 — Grants to voluntary organisations.](part-iii/section-55.md)
 
-### Part IV — Appeals[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+### Part IV — Appeals[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 *Extent: E+W+S+N.I.*
 
-#### The appellate authorities[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+#### The appellate authorities[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 **No longer in force.**
 
 - [Section 56 — The Immigration Appeal Tribunal.](part-iv/section-56.md)
 - [Section 57 — Adjudicators.](part-iv/section-57.md)
 
-#### Appeals[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+#### Appeals[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 **No longer in force.**
 
 - [Section 58 — General.](part-iv/section-58.md)
 
-#### Leave to enter[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+#### Leave to enter[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -223,53 +223,53 @@ An Act to make provision about immigration and asylum; to make provision about p
 - [Section 59 — Leave to enter the United Kingdom.](part-iv/section-59.md)
 - [Section 60 — Limitations on rights of appeal under section 59.](part-iv/section-60.md)
 
-#### Variation of limited leave to enter or remain[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+#### Variation of limited leave to enter or remain[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 **No longer in force.**
 
 - [Section 61 — Variation of limited leave to enter or remain.](part-iv/section-61.md)
 - [Section 62 — Limitations on rights of appeal under section 61.](part-iv/section-62.md)
 
-#### Deportation[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+#### Deportation[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 **No longer in force.**
 
 - [Section 63 — Deportation orders.](part-iv/section-63.md)
 - [Section 64 — Limitations on rights of appeal under section 63.](part-iv/section-64.md)
 
-#### Human rights[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+#### Human rights[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 **No longer in force.**
 
 - [Section 65 — Racial discrimination and breach of human rights.](part-iv/section-65.md)
 
-#### Directions for removal[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+#### Directions for removal[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 **No longer in force.**
 
 - [Section 66 — Validity of directions for removal.](part-iv/section-66.md)
 
-#### Objection to destination[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+#### Objection to destination[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 **No longer in force.**
 
 - [Section 67 — Removal on objection to destination.](part-iv/section-67.md)
 - [Section 68 — Limitations on rights of appeal under section 67.](part-iv/section-68.md)
 
-#### Asylum[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+#### Asylum[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 **No longer in force.**
 
 - [Section 69 — Claims for asylum.](part-iv/section-69.md)
 - [Section 70 — Limitations on rights of appeal under section 69.](part-iv/section-70.md)
 
-#### Removal to safe countries[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+#### Removal to safe countries[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 **No longer in force.**
 
 - [Section 71 — Removal of asylum claimants to safe third countries.](part-iv/section-71.md)
 
-#### Miscellaneous[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+#### Miscellaneous[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -278,7 +278,7 @@ An Act to make provision about immigration and asylum; to make provision about p
 - [Section 72 — Miscellaneous limitations on rights of appeal.](part-iv/section-72.md)
 - [Section 73 — Limitation on further appeals.](part-iv/section-73.md)
 
-#### “One-stop procedure”[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+#### “One-stop procedure”[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -290,19 +290,19 @@ An Act to make provision about immigration and asylum; to make provision about p
 - [Section 77 — “One-stop” appeals.](part-iv/section-77.md)
 - [Section 78 — Transfer of appellate proceedings.](part-iv/section-78.md)
 
-#### Appeals without merit[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+#### Appeals without merit[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 **Not yet in force.**
 
 - [Section 79 — Penalty on continuing an appeal without merit.](part-iv/section-79.md)
 
-#### European Economic AreaEEA nationals[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+#### European Economic AreaEEA nationals[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 **No longer in force.**
 
 - [Section 80 — EEA nationals.](part-iv/section-80.md)
 
-#### Grants[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+#### Grants[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 **No longer in force.**
 
@@ -331,7 +331,7 @@ An Act to make provision about immigration and asylum; to make provision about p
 - [Section 86 — Designated professional bodies.](part-v/section-86.md)
 - [Section 86A — Designated qualifying regulators](part-v/section-86a.md)
 
-#### Appeals to the First-tier Tribunal[^key-dfc3ced3d0508c839884961047693e97]
+#### Appeals to the First-tier Tribunal[^c-dfc3ced3d0508c839884961047693e97]
 
 *Extent: E+W+S+N.I.*
 
@@ -494,7 +494,7 @@ An Act to make provision about immigration and asylum; to make provision about p
 
 - [Section 146 — Use of force.](part-vii/section-146.md)
 
-### Part VIII — Detention Centres and Detained Persons[^key-e0e24610e6a2c141580bd26d3e9381c6]
+### Part VIII — Detention Centres and Detained Persons[^c-e0e24610e6a2c141580bd26d3e9381c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -578,40 +578,40 @@ SCHEDULES
 
 [^c17546481]: Modification: Act restricted (8.1.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 54](https://www.legislation.gov.uk/ukpga/2002/41/section/54), [Sch. 3](https://www.legislation.gov.uk/ukpga/2002/41/schedule/3) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-44466a04ec8a4c02903838ad377c6fa6]: Modification: Act: a reference to a detention centre within the meaning of Pt. 8 of the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33) to be construed as a reference to a removal centre within the meaning of that part (10.2.2003) by virtue of [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41), ss. 66(4), 162(1)
+[^c-44466a04ec8a4c02903838ad377c6fa6]: Modification: Act: a reference to a detention centre within the meaning of Pt. 8 of the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33) to be construed as a reference to a removal centre within the meaning of that part (10.2.2003) by virtue of [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41), ss. 66(4), 162(1)
 
-[^key-3d3b1b92b36ba064a3fb20d7f54267f1]: Modification: Act: specified provisions extended (Jersey) (with modifications) (5.6.2003) by [The Immigration and Asylum Act 1999 (Jersey) Order 2003 (S.I. 2003/1252)](https://www.legislation.gov.uk/uksi/2003/1252), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1252/article/1/1), [2](https://www.legislation.gov.uk/uksi/2003/1252/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1252/schedule) (as amended (17.10.2012) by [The Immigration and Asylum (Jersey) Order 2012 (S.I. 2012/2593)](https://www.legislation.gov.uk/uksi/2012/2593), [art. 4(2)](https://www.legislation.gov.uk/uksi/2012/2593/article/4/2)) and (coming into force in accordance with art. 1 of the amending S.I.) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
+[^c-3d3b1b92b36ba064a3fb20d7f54267f1]: Modification: Act: specified provisions extended (Jersey) (with modifications) (5.6.2003) by [The Immigration and Asylum Act 1999 (Jersey) Order 2003 (S.I. 2003/1252)](https://www.legislation.gov.uk/uksi/2003/1252), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1252/article/1/1), [2](https://www.legislation.gov.uk/uksi/2003/1252/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1252/schedule) (as amended (17.10.2012) by [The Immigration and Asylum (Jersey) Order 2012 (S.I. 2012/2593)](https://www.legislation.gov.uk/uksi/2012/2593), [art. 4(2)](https://www.legislation.gov.uk/uksi/2012/2593/article/4/2)) and (coming into force in accordance with art. 1 of the amending S.I.) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
 
-[^key-1625e773a34ebc0e255f61953969abd8]: Modification: Act applied (with modifications) (1.4.2006) by [Serious Organised Crime and Police Act 2005 (Application and Modification of Certain Enactments to Designated Staff of SOCA) Order 2006 (S.I. 2006/987)](https://www.legislation.gov.uk/uksi/2006/987), [art. 7](https://www.legislation.gov.uk/uksi/2006/987/article/7)
+[^c-1625e773a34ebc0e255f61953969abd8]: Modification: Act applied (with modifications) (1.4.2006) by [Serious Organised Crime and Police Act 2005 (Application and Modification of Certain Enactments to Designated Staff of SOCA) Order 2006 (S.I. 2006/987)](https://www.legislation.gov.uk/uksi/2006/987), [art. 7](https://www.legislation.gov.uk/uksi/2006/987/article/7)
 
-[^key-05403b6c11553aa4b7eea1bfbd74d6cb]: Modification: Act modified by [S.I. 1994/1405](https://www.legislation.gov.uk/uksi/1994/1405), [art. 7](https://www.legislation.gov.uk/uksi/1994/1405/article/7) (as amended: (26.10.2006) by [Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2006 (S.I. 2006/2627)](https://www.legislation.gov.uk/uksi/2006/2627), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2627/article/1), [2](https://www.legislation.gov.uk/uksi/2006/2627/article/2); (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2007/3579/article/3/c); and (16.4.2015) by [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [6](https://www.legislation.gov.uk/uksi/2015/856/article/6))
+[^c-05403b6c11553aa4b7eea1bfbd74d6cb]: Modification: Act modified by [S.I. 1994/1405](https://www.legislation.gov.uk/uksi/1994/1405), [art. 7](https://www.legislation.gov.uk/uksi/1994/1405/article/7) (as amended: (26.10.2006) by [Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2006 (S.I. 2006/2627)](https://www.legislation.gov.uk/uksi/2006/2627), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2627/article/1), [2](https://www.legislation.gov.uk/uksi/2006/2627/article/2); (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2007/3579/article/3/c); and (16.4.2015) by [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [6](https://www.legislation.gov.uk/uksi/2015/856/article/6))
 
-[^key-04c8a339377f1b9496f03d0ab70d7193]: Modification: Act applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
+[^c-04c8a339377f1b9496f03d0ab70d7193]: Modification: Act applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
 
-[^key-458cb38f7194addfd22f682e2dac6f19]: Modification: Act applied (with modifications) (E.W.S.) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) Regulations 2010 (S.I. 2010/875)](https://www.legislation.gov.uk/uksi/2010/875), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/875/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2010/875/regulation/16), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/875/schedule/2) (amending S.I. was revoked (27.8.2010) by S.I. 2010/1906, reg. 2)
+[^c-458cb38f7194addfd22f682e2dac6f19]: Modification: Act applied (with modifications) (E.W.S.) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) Regulations 2010 (S.I. 2010/875)](https://www.legislation.gov.uk/uksi/2010/875), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/875/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2010/875/regulation/16), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/875/schedule/2) (amending S.I. was revoked (27.8.2010) by S.I. 2010/1906, reg. 2)
 
-[^key-5cbb64070fdc3157eb1a35b55e4aab90]: Modification: Act applied (with modifications) (4.8.2014) by [The Crime and Courts Act 2013 (Application and Modification of Certain Enactments) Order 2014 (S.I. 2014/1704)](https://www.legislation.gov.uk/uksi/2014/1704), [art. 8](https://www.legislation.gov.uk/uksi/2014/1704/article/8)
+[^c-5cbb64070fdc3157eb1a35b55e4aab90]: Modification: Act applied (with modifications) (4.8.2014) by [The Crime and Courts Act 2013 (Application and Modification of Certain Enactments) Order 2014 (S.I. 2014/1704)](https://www.legislation.gov.uk/uksi/2014/1704), [art. 8](https://www.legislation.gov.uk/uksi/2014/1704/article/8)
 
-[^key-18651cc6de994f89731592718de3ea92]: Modification: Act: specified provisions extended (Guernsey) (with modifications) (11.12.2003) by [The Immigration and Asylum Act 1999 (Guernsey) Order 2003 (S.I. 2003/2900)](https://www.legislation.gov.uk/uksi/2003/2900), [art. 2](https://www.legislation.gov.uk/uksi/2003/2900/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/2900/schedule) (as amended (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [art. 8](https://www.legislation.gov.uk/uksi/2020/1560/article/8))
+[^c-18651cc6de994f89731592718de3ea92]: Modification: Act: specified provisions extended (Guernsey) (with modifications) (11.12.2003) by [The Immigration and Asylum Act 1999 (Guernsey) Order 2003 (S.I. 2003/2900)](https://www.legislation.gov.uk/uksi/2003/2900), [art. 2](https://www.legislation.gov.uk/uksi/2003/2900/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/2900/schedule) (as amended (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [art. 8](https://www.legislation.gov.uk/uksi/2020/1560/article/8))
 
-[^key-8ab2ccf562a6fbc1698f95d0de6f4206]: Modification: Act extended (Isle of Man) in part (with modifications) (13.3.2008 for specified purposes, 1.5.2008 in so far as not already in force) by [Immigration (Isle of Man) Order 2008 (S.I. 2008/680)](https://www.legislation.gov.uk/uksi/2008/680), [art. 14](https://www.legislation.gov.uk/uksi/1994/1405/article/14), [Sch. 6](https://www.legislation.gov.uk/uksi/1994/1405/schedule/6) (with [art. 5](https://www.legislation.gov.uk/uksi/1994/1405/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/1405/schedule/2)) (as amended (29.6.2011) by [Immigration (Isle of Man) (Amendment) Order 2011 (S.I. 2011/1408)](https://www.legislation.gov.uk/uksi/2011/1408), [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2007/3579/schedule/paragraph/4), [5](https://www.legislation.gov.uk/uksi/2007/3579/schedule/paragraph/5); (14.3.2019) by [The Immigration (Isle of Man) (Amendment) Order 2019 (S.I. 2019/562)](https://www.legislation.gov.uk/uksi/2019/562), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [5](https://www.legislation.gov.uk/uksi/2015/856/article/5), [7](https://www.legislation.gov.uk/uksi/2015/856/article/7), [13](https://www.legislation.gov.uk/uksi/2015/856/article/13); and (31.12.2020) by [The Immigration (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1214)](https://www.legislation.gov.uk/uksi/2020/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1214/article/1), [8](https://www.legislation.gov.uk/uksi/2020/1214/article/8))
+[^c-8ab2ccf562a6fbc1698f95d0de6f4206]: Modification: Act extended (Isle of Man) in part (with modifications) (13.3.2008 for specified purposes, 1.5.2008 in so far as not already in force) by [Immigration (Isle of Man) Order 2008 (S.I. 2008/680)](https://www.legislation.gov.uk/uksi/2008/680), [art. 14](https://www.legislation.gov.uk/uksi/1994/1405/article/14), [Sch. 6](https://www.legislation.gov.uk/uksi/1994/1405/schedule/6) (with [art. 5](https://www.legislation.gov.uk/uksi/1994/1405/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/1405/schedule/2)) (as amended (29.6.2011) by [Immigration (Isle of Man) (Amendment) Order 2011 (S.I. 2011/1408)](https://www.legislation.gov.uk/uksi/2011/1408), [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2007/3579/schedule/paragraph/4), [5](https://www.legislation.gov.uk/uksi/2007/3579/schedule/paragraph/5); (14.3.2019) by [The Immigration (Isle of Man) (Amendment) Order 2019 (S.I. 2019/562)](https://www.legislation.gov.uk/uksi/2019/562), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [5](https://www.legislation.gov.uk/uksi/2015/856/article/5), [7](https://www.legislation.gov.uk/uksi/2015/856/article/7), [13](https://www.legislation.gov.uk/uksi/2015/856/article/13); and (31.12.2020) by [The Immigration (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1214)](https://www.legislation.gov.uk/uksi/2020/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1214/article/1), [8](https://www.legislation.gov.uk/uksi/2020/1214/article/8))
 
-[^key-9afb87acd8ef1cd6dd6171fdb6fc780f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/33) extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1), [6](https://www.legislation.gov.uk/uksi/2021/1281/article/6), [Schs. 4](https://www.legislation.gov.uk/uksi/2021/1281/schedule/4), [4A](https://www.legislation.gov.uk/uksi/2021/1281/schedule/4A) (with [art. 16](https://www.legislation.gov.uk/uksi/2021/1281/article/16))
+[^c-9afb87acd8ef1cd6dd6171fdb6fc780f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/33) extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1), [6](https://www.legislation.gov.uk/uksi/2021/1281/article/6), [Schs. 4](https://www.legislation.gov.uk/uksi/2021/1281/schedule/4), [4A](https://www.legislation.gov.uk/uksi/2021/1281/schedule/4A) (with [art. 16](https://www.legislation.gov.uk/uksi/2021/1281/article/16))
 
-[^key-0d2d948a7f1eeda6eadf30e67a3d53fc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/33): power to amend conferred (28.4.2022 for specified purposes) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/f), [(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/i)
+[^c-0d2d948a7f1eeda6eadf30e67a3d53fc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/33): power to amend conferred (28.4.2022 for specified purposes) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/f), [(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/i)
 
-[^key-6bca2f9e27b657414eb7e74c67fc1b5c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/33): power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82(1)(2)(f)(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/f), [87(1)(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
+[^c-6bca2f9e27b657414eb7e74c67fc1b5c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/33): power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82(1)(2)(f)(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/f), [87(1)(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
 
-[^key-c09614fd24db18d108321527133baec6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/33) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/a), [5](https://www.legislation.gov.uk/ukpga/2024/8/section/5), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
+[^c-c09614fd24db18d108321527133baec6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/33) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/a), [5](https://www.legislation.gov.uk/ukpga/2024/8/section/5), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
 
 [^c11432601]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/1999/33/part/II) (ss. 32-43) modified (7.2.2001 for certain purposes and otherwise 1.3.2001) by [S.I. 2001/280](https://www.legislation.gov.uk/uksi/2001/280), [arts. 1](https://www.legislation.gov.uk/uksi/2001/280/article/1), [2](https://www.legislation.gov.uk/uksi/2001/280/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2001/280/article/5))
 
-[^key-f94b04e31563b2a520987038e719d66e]: Textual amendment: [S. 32 cross-heading](https://www.legislation.gov.uk/ukpga/1999/33/part/II/crossheading/clandestine-entrants) substituted (28.4.2022 for specified purposes, 13.2.2023 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/c), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/2); [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-f94b04e31563b2a520987038e719d66e]: Textual amendment: [S. 32 cross-heading](https://www.legislation.gov.uk/ukpga/1999/33/part/II/crossheading/clandestine-entrants) substituted (28.4.2022 for specified purposes, 13.2.2023 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/c), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/2); [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
 
-[^key-0e0f01b56c7f7c25d99ce2bc55190481]: Textual amendment: [S. 40 cross-heading](https://www.legislation.gov.uk/ukpga/1999/33/part/II/crossheading/passengers-without-proper-documents) substituted (20.3.2026) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 76(9)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/76/9/b), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1) (which amendment is extended (with modifications) (Guernsey) (coming into force in accordance with art. 1(1) of the amending S.I.) by [S.I. 2025/1138](https://www.legislation.gov.uk/uksi/2025/1138), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1138/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2025/1138/schedule/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/schedule/2)); [S.I. 2026/165](https://www.legislation.gov.uk/uksi/2026/165), [reg. 2](https://www.legislation.gov.uk/uksi/2026/165/regulation/2)
+[^c-0e0f01b56c7f7c25d99ce2bc55190481]: Textual amendment: [S. 40 cross-heading](https://www.legislation.gov.uk/ukpga/1999/33/part/II/crossheading/passengers-without-proper-documents) substituted (20.3.2026) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 76(9)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/76/9/b), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1) (which amendment is extended (with modifications) (Guernsey) (coming into force in accordance with art. 1(1) of the amending S.I.) by [S.I. 2025/1138](https://www.legislation.gov.uk/uksi/2025/1138), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1138/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2025/1138/schedule/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/schedule/2)); [S.I. 2026/165](https://www.legislation.gov.uk/uksi/2026/165), [reg. 2](https://www.legislation.gov.uk/uksi/2026/165/regulation/2)
 
-[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]: Textual amendment: Pt. IV repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 114(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/114/1), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/41/schedule/6) and (7.3.2005) S.I. 2005/565, arts. 1(2), 9 (with arts. 3-9)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/6))
+[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]: Textual amendment: Pt. IV repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 114(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/114/1), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/41/schedule/6) and (7.3.2005) S.I. 2005/565, arts. 1(2), 9 (with arts. 3-9)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/6))
 
-[^key-dfc3ced3d0508c839884961047693e97]: Textual amendment: [S. 87 crossheading](https://www.legislation.gov.uk/ukpga/1999/33/part/V/crossheading/the-immigration-services-tribunal) substituted (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/34) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-dfc3ced3d0508c839884961047693e97]: Textual amendment: [S. 87 crossheading](https://www.legislation.gov.uk/ukpga/1999/33/part/V/crossheading/the-immigration-services-tribunal) substituted (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/34) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
 
-[^key-e0e24610e6a2c141580bd26d3e9381c6]: Modification: Pt. VIII modified (E.W.N.I.) (31.1.2008) by [UK Borders Act 2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30), [ss. 2(6)](https://www.legislation.gov.uk/ukpga/2007/30/section/2/6), [59(2)](https://www.legislation.gov.uk/ukpga/2007/30/section/59/2); [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/99/article/2/a)
+[^c-e0e24610e6a2c141580bd26d3e9381c6]: Modification: Pt. VIII modified (E.W.N.I.) (31.1.2008) by [UK Borders Act 2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30), [ss. 2(6)](https://www.legislation.gov.uk/ukpga/2007/30/section/2/6), [59(2)](https://www.legislation.gov.uk/ukpga/2007/30/section/59/2); [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/99/article/2/a)

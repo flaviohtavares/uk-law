@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. The hearing[^key-41494e433beaefdf0a6b10a15f99e9f1]
+## 12. The hearing[^c-41494e433beaefdf0a6b10a15f99e9f1]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ At the hearing of the application, any of the following may appear or be represe
 
 ## Annotations
 
-[^key-41494e433beaefdf0a6b10a15f99e9f1]: Commencement: [Rule 12](https://www.legislation.gov.uk/nisr/2026/11/rule/12) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-41494e433beaefdf0a6b10a15f99e9f1]: Commencement: [Rule 12](https://www.legislation.gov.uk/nisr/2026/11/rule/12) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

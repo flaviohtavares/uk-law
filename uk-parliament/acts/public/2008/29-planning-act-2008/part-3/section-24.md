@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Harbour facilities[^key-b65d51b4502ccffdbd3d8a0b1e6d3300]
+## 24. Harbour facilities[^c-b65d51b4502ccffdbd3d8a0b1e6d3300]
 
 *Extent: E+W*
 
 (1) The construction of harbour facilities is within section 14(1)(j) only if (when constructed) the harbour facilities—
 
-- (a)[^key-583f051dcfe66082b6ba03cbda2034c3] will be—
+- (a)[^c-583f051dcfe66082b6ba03cbda2034c3] will be—
   - (i) wholly or partly in England or in waters adjacent to England up to the seaward limits of the territorial sea, or
   - (ii) wholly in Wales or in waters adjacent to Wales up to the seaward limits of the territorial sea and will be, or will form part of, a reserved trust port, and
 - (b) are expected to be capable of handling the embarkation or disembarkation of at least the relevant quantity of material per year.
 
 (2) The alteration of harbour facilities is within section 14(1)(j) only if—
 
-- (a)[^key-bcdad670533bc1c7d1bf01247f3cdcff] the harbour facilities are—
+- (a)[^c-bcdad670533bc1c7d1bf01247f3cdcff] the harbour facilities are—
   - (i) wholly or partly in England or in waters adjacent to England up to the seaward limits of the territorial sea, or
   - (ii) wholly in Wales or in waters adjacent to Wales up to the seaward limits of the territorial sea and are, or form part of, a reserved trust port, and
 - (b) the effect of the alteration is expected to be to increase by at least the relevant quantity per year the quantity of material the embarkation or disembarkation of which the facilities are capable of handling.
@@ -65,17 +65,17 @@ summary: ''
 
 - “**cargo ship**” means a ship which is used for carrying cargo;
 - “**container ship**” means a cargo ship which carries all or most of its cargo in containers;
-- “[^key-fe9c623cf715dec56e7e8130feb0fd4b]**reserved trust port**” has the meaning given in section 32 of the Wales Act 2017;
+- “[^c-fe9c623cf715dec56e7e8130feb0fd4b]**reserved trust port**” has the meaning given in section 32 of the Wales Act 2017;
 - “**ro-ro ship**” means a ship which is used for carrying wheeled cargo;
 - “**TEU**” means a twenty-foot equivalent unit;
 - “**unit**” in relation to a ro-ro ship means any item of wheeled cargo (whether or not self-propelled).
 
 ## Annotations
 
-[^key-b65d51b4502ccffdbd3d8a0b1e6d3300]: Commencement: S. 24 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(b)](https://www.legislation.gov.uk/uksi/2010/101/article/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-b65d51b4502ccffdbd3d8a0b1e6d3300]: Commencement: S. 24 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(b)](https://www.legislation.gov.uk/uksi/2010/101/article/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-583f051dcfe66082b6ba03cbda2034c3]: Textual amendment: [S. 24(1)(a)](https://www.legislation.gov.uk/ukpga/2008/29/section/24/1/a) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2017/4/section/33/2), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)
+[^c-583f051dcfe66082b6ba03cbda2034c3]: Textual amendment: [S. 24(1)(a)](https://www.legislation.gov.uk/ukpga/2008/29/section/24/1/a) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2017/4/section/33/2), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)
 
-[^key-bcdad670533bc1c7d1bf01247f3cdcff]: Textual amendment: [S. 24(2)(a)](https://www.legislation.gov.uk/ukpga/2008/29/section/24/2/a) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 33(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/33/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)
+[^c-bcdad670533bc1c7d1bf01247f3cdcff]: Textual amendment: [S. 24(2)(a)](https://www.legislation.gov.uk/ukpga/2008/29/section/24/2/a) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 33(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/33/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)
 
-[^key-fe9c623cf715dec56e7e8130feb0fd4b]: Textual amendment: Words in [s. 24(6)](https://www.legislation.gov.uk/ukpga/2008/29/section/24/6) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 33(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/33/4), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)
+[^c-fe9c623cf715dec56e7e8130feb0fd4b]: Textual amendment: Words in [s. 24(6)](https://www.legislation.gov.uk/ukpga/2008/29/section/24/6) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 33(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/33/4), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)

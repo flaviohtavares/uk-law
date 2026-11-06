@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.2. Application for registration of Scottish or Northern Ireland order[^key-14852661abcd8ff7e00ea5e376faddc4]
+## 33.2. Application for registration of Scottish or Northern Ireland order[^c-14852661abcd8ff7e00ea5e376faddc4]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-14852661abcd8ff7e00ea5e376faddc4]: Commencement: [Rule 33.2](https://www.legislation.gov.uk/uksi/2025/909/rule/33.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-14852661abcd8ff7e00ea5e376faddc4]: Commencement: [Rule 33.2](https://www.legislation.gov.uk/uksi/2025/909/rule/33.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00788]: Footnote: [S.I. 2002/3133](https://www.legislation.gov.uk/uksi/2002/3133).

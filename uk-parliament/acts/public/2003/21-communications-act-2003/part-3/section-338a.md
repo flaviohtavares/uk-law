@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 338A. Power to require information[^key-c0085586d99f8b970a2c070795430004]
+## 338A. Power to require information[^c-c0085586d99f8b970a2c070795430004]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0085586d99f8b970a2c070795430004]: Textual amendment: [Ss. 338A](https://www.legislation.gov.uk/ukpga/2003/21/section/338A), [338B](https://www.legislation.gov.uk/ukpga/2003/21/section/338B) and cross-heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 18](https://www.legislation.gov.uk/ukpga/2024/15/section/18), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/b)
+[^c-c0085586d99f8b970a2c070795430004]: Textual amendment: [Ss. 338A](https://www.legislation.gov.uk/ukpga/2003/21/section/338A), [338B](https://www.legislation.gov.uk/ukpga/2003/21/section/338B) and cross-heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 18](https://www.legislation.gov.uk/ukpga/2024/15/section/18), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/b)

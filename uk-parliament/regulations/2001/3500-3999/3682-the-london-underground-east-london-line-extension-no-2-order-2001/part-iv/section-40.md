@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Disapplication of land designated as a strategic freight site[^key-7632745d0c704f4c89060dd49f993ced]
+## 40. Disapplication of land designated as a strategic freight site[^c-7632745d0c704f4c89060dd49f993ced]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7632745d0c704f4c89060dd49f993ced]: Commencement: Art. 40 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-7632745d0c704f4c89060dd49f993ced]: Commencement: Art. 40 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
 [^f00028]: Footnote: [1993 c. 92](https://www.legislation.gov.uk/ukpga/1993/92).

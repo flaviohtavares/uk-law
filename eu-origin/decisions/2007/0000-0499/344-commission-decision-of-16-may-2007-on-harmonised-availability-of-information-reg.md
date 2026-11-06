@@ -39,30 +39,30 @@ on harmonised availability of information regarding spectrum use within the Comm
 
 (2007/344/EC) (revoked)
 
-[^key-d040b49f41602fefa81e39f3b33584ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d040b49f41602fefa81e39f3b33584ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-d040b49f41602fefa81e39f3b33584ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d040b49f41602fefa81e39f3b33584ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d040b49f41602fefa81e39f3b33584ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d040b49f41602fefa81e39f3b33584ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-d040b49f41602fefa81e39f3b33584ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-d040b49f41602fefa81e39f3b33584ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-d040b49f41602fefa81e39f3b33584ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-d040b49f41602fefa81e39f3b33584ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-d040b49f41602fefa81e39f3b33584ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-d040b49f41602fefa81e39f3b33584ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-d040b49f41602fefa81e39f3b33584ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-d040b49f41602fefa81e39f3b33584ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d040b49f41602fefa81e39f3b33584ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d040b49f41602fefa81e39f3b33584ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — Format for Radio Interface Specifications[^key-d040b49f41602fefa81e39f3b33584ca]
+## ANNEX I — Format for Radio Interface Specifications[^c-d040b49f41602fefa81e39f3b33584ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Format for Information on Rights of Use[^key-d040b49f41602fefa81e39f3b33584ca]
+## ANNEX II — Format for Information on Rights of Use[^c-d040b49f41602fefa81e39f3b33584ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d040b49f41602fefa81e39f3b33584ca]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d040b49f41602fefa81e39f3b33584ca]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Large organisations: parent undertakings[^key-0e425d3b96a00830c2a44da89c9bf651][^key-9979b3ce4d6b13697b3716d01d8d88c3]
+## 202. Large organisations: parent undertakings[^c-0e425d3b96a00830c2a44da89c9bf651][^c-9979b3ce4d6b13697b3716d01d8d88c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0e425d3b96a00830c2a44da89c9bf651]: Commencement: S. 202 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-0e425d3b96a00830c2a44da89c9bf651]: Commencement: S. 202 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-9979b3ce4d6b13697b3716d01d8d88c3]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2023/56/section/202) in force at 1.9.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 3](https://www.legislation.gov.uk/uksi/2025/349/regulation/3)
+[^c-9979b3ce4d6b13697b3716d01d8d88c3]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2023/56/section/202) in force at 1.9.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 3](https://www.legislation.gov.uk/uksi/2025/349/regulation/3)

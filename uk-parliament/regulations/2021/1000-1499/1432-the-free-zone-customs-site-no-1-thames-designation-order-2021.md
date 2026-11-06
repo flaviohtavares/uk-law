@@ -39,7 +39,7 @@ Made
 
 The Treasury, in exercise of the powers conferred by section 100A of the Customs and Excise Management Act 1979[^f00001], make the following Order.
 
-## 1. Citation and interpretation[^key-9d810e27d38b55d3a01971b5fd15dba1]
+## 1. Citation and interpretation[^c-9d810e27d38b55d3a01971b5fd15dba1]
 
 (1) This Order may be cited as the Free Zone (Customs Site No.1 Thames) Designation Order 2021.
 
@@ -50,21 +50,21 @@ The Treasury, in exercise of the powers conferred by section 100A of the Customs
 - (c) “**HMRC**” means Her Majesty’s Revenue and Customs;
 - (d) “**HMRC officer**” means an officer of Revenue and Customs;
 - (e) “**the Special Procedures Regulations**” means the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^f00003].
-- (f)[^key-35afe06543e6a69f36d3139290c8d3f5] “**unauthorised activity**” means an activity specified in regulation 3(2)(b)(v) or 3(2)(c) (authorisation requirement) of the Special Procedures Regulations[^f00003] that is not carried out in accordance with an authorisation or approval under those Regulations
+- (f)[^c-35afe06543e6a69f36d3139290c8d3f5] “**unauthorised activity**” means an activity specified in regulation 3(2)(b)(v) or 3(2)(c) (authorisation requirement) of the Special Procedures Regulations[^f00003] that is not carried out in accordance with an authorisation or approval under those Regulations
 
-## 2. Period of effect of Order[^key-6ee96afc3f91179b90ad771dd320bd76]
+## 2. Period of effect of Order[^c-6ee96afc3f91179b90ad771dd320bd76]
 
 This Order has effect for a period of 10 years beginning with the day after the date on which it is made.
 
-## 3. Designation of area as free zone[^key-744249fac8d3a9f620957cc46eea00b4]
+## 3. Designation of area as free zone[^c-744249fac8d3a9f620957cc46eea00b4]
 
 The area shown edged and hatched in red on the map entitled “London Gateway Customs Site Area” dated 12th November 2021[^f00004] is designated as a free zone.
 
-## 4. Appointment of responsible authority[^key-e19f1a0e9a658fb01eee95d26aebdbf7]
+## 4. Appointment of responsible authority[^c-e19f1a0e9a658fb01eee95d26aebdbf7]
 
 The responsible authority for the free zone is DP World Logistics UK Ltd incorporated on 14th October 1983 with the company number 01761717, whose registered office is Unit 5 Logix Road, R D Park, Watling Street, Hinckley, Leicester shire, LW10 3BQ.
 
-## 5. Conditions imposed on responsible authority[^key-defbf7f0e52d32cd6ed9eba032073eae]
+## 5. Conditions imposed on responsible authority[^c-defbf7f0e52d32cd6ed9eba032073eae]
 
 The responsible authority must—
 
@@ -87,7 +87,7 @@ The responsible authority must—
   - (iii) if there is a change in circumstances that is relevant to its appointment as a responsible authority;
 - (o) notify HMRC of any planned construction in the free zone.
 
-## 6. Conditions relating to health and safety[^key-6a42164d77108e0b1b0acca1bdd95182]
+## 6. Conditions relating to health and safety[^c-6a42164d77108e0b1b0acca1bdd95182]
 
 Without prejudice to the responsibilities of persons occupying premises within the free zone, the responsible authority must take reasonable steps to ensure that the accommodation, facilities and working conditions within the free zone are safe and without risk to the health and safety of any persons in the free zone.
 
@@ -111,26 +111,26 @@ A Tax Information and Impact Note covering the Free Zones (Customs, Excise and V
 
 [^f00001]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Section 100A was inserted by section 8 of, and Schedule 4 to, the Finance Act [1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43).
 
-[^key-9d810e27d38b55d3a01971b5fd15dba1]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/1432/article/1) in force at made date
+[^c-9d810e27d38b55d3a01971b5fd15dba1]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/1432/article/1) in force at made date
 
 [^f00002]: Footnote: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248), as amended by [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449). There are other amending instruments, but none are relevant.
 
 [^f00003]: Footnote: [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249), as amended by [S.I. 2021/1156](https://www.legislation.gov.uk/uksi/2021/1156) which inserts regulations 18A-18L. There are other amending instruments, but none are relevant.
 
-[^key-35afe06543e6a69f36d3139290c8d3f5]: Textual amendment: [Art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2021/1432/article/1/2/f) inserted (10.11.2024) by [The Free Zone (Customs Site No. 1 Thames) Designation (Amendment) Order 2024 (S.I. 2024/1106)](https://www.legislation.gov.uk/uksi/2024/1106), [arts. 1](https://www.legislation.gov.uk/uksi/2024/1106/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1106/article/2/2)
+[^c-35afe06543e6a69f36d3139290c8d3f5]: Textual amendment: [Art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2021/1432/article/1/2/f) inserted (10.11.2024) by [The Free Zone (Customs Site No. 1 Thames) Designation (Amendment) Order 2024 (S.I. 2024/1106)](https://www.legislation.gov.uk/uksi/2024/1106), [arts. 1](https://www.legislation.gov.uk/uksi/2024/1106/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1106/article/2/2)
 
-[^key-6ee96afc3f91179b90ad771dd320bd76]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/1432/article/2) in force at made date
+[^c-6ee96afc3f91179b90ad771dd320bd76]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/1432/article/2) in force at made date
 
-[^key-744249fac8d3a9f620957cc46eea00b4]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/1432/article/3) in force at made date
+[^c-744249fac8d3a9f620957cc46eea00b4]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/1432/article/3) in force at made date
 
 [^f00004]: Footnote: The map marked “London Gateway Customs Site Area” and dated 12th November 2021 is available electronically at https://www.gov.uk/government/publications/map-of-thames-freeport-customs-site. This site is contained within the area designated as a freeport tax site (known as the London Gateway Tax site) by regulation 2(1)(a) of [S.I. 2021/1195](https://www.legislation.gov.uk/uksi/2021/1195). A person unable to access the document electronically can arrange access to a hard copy by inspection free of charge at 1 Horse Guards Road, London, SW1A 2HQ.
 
-[^key-e19f1a0e9a658fb01eee95d26aebdbf7]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2021/1432/article/4) substituted (10.11.2024) by [The Free Zone (Customs Site No. 1 Thames) Designation (Amendment) Order 2024 (S.I. 2024/1106)](https://www.legislation.gov.uk/uksi/2024/1106), [arts. 1](https://www.legislation.gov.uk/uksi/2024/1106/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/1106/article/2/3)
+[^c-e19f1a0e9a658fb01eee95d26aebdbf7]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2021/1432/article/4) substituted (10.11.2024) by [The Free Zone (Customs Site No. 1 Thames) Designation (Amendment) Order 2024 (S.I. 2024/1106)](https://www.legislation.gov.uk/uksi/2024/1106), [arts. 1](https://www.legislation.gov.uk/uksi/2024/1106/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/1106/article/2/3)
 
-[^key-defbf7f0e52d32cd6ed9eba032073eae]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2021/1432/article/5) in force at made date
+[^c-defbf7f0e52d32cd6ed9eba032073eae]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2021/1432/article/5) in force at made date
 
 [^f00005]: Footnote: The “Commissioners” are defined in section 1 of the Customs and Excise Management Act 1979.
 
 [^f00006]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-6a42164d77108e0b1b0acca1bdd95182]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2021/1432/article/6) in force at made date
+[^c-6a42164d77108e0b1b0acca1bdd95182]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2021/1432/article/6) in force at made date

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.141. Authentication of liquidator's appointment[^key-5df2b7a13f3d73cfcb6dd79314912a99]
+## 4.141. Authentication of liquidator's appointment[^c-5df2b7a13f3d73cfcb6dd79314912a99]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A copy of the certificate of the liquidator's appointment or (as the case may be
 
 ## Annotations
 
-[^key-5df2b7a13f3d73cfcb6dd79314912a99]: Commencement: [Rule 4.141](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.141) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-5df2b7a13f3d73cfcb6dd79314912a99]: Commencement: [Rule 4.141](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.141) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

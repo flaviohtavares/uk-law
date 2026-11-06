@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Encouraging or assisting suicide (England and Wales)[^key-f6a9d44e9f0030e494905fcb79a27265]
+## 59. Encouraging or assisting suicide (England and Wales)[^c-f6a9d44e9f0030e494905fcb79a27265]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6a9d44e9f0030e494905fcb79a27265]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2009/25/section/59) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/2)
+[^c-f6a9d44e9f0030e494905fcb79a27265]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2009/25/section/59) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/2)

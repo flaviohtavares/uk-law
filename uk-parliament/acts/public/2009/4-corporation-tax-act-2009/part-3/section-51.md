@@ -24,12 +24,12 @@ summary: ''
 
 - (a) has priority over any relevant prohibitive rule, but
 - (b) is subject to—
-  - (i) section 56 (car [^key-f9676d1c4cfe41ad347fead59ec15965]... hire),
+  - (i) section 56 (car [^c-f9676d1c4cfe41ad347fead59ec15965]... hire),
   - (ii) section 1288 (unpaid remuneration),
   - (iii) section 1290 (employee benefit contributions),
   - (iv) section 1304 (crime-related payments).
 
-(1A)[^key-5f6fb3e21001fa8306e0840ab3a548a2] But, if the relevant permissive rule would allow a deduction in calculating the profits of a trade in respect of an amount which arises directly or indirectly in consequence of, or otherwise in connection with, relevant tax avoidance arrangements, that rule—
+(1A)[^c-5f6fb3e21001fa8306e0840ab3a548a2] But, if the relevant permissive rule would allow a deduction in calculating the profits of a trade in respect of an amount which arises directly or indirectly in consequence of, or otherwise in connection with, relevant tax avoidance arrangements, that rule—
 
 - (a) does not have priority under subsection (1)(a), and
 - (b) is subject to any relevant prohibitive rule (and to the provisions mentioned in subsection (1)(b)).
@@ -48,7 +48,7 @@ which allows a deduction in calculating the profits of a trade.
 - (a) prohibiting or deferring the deduction, or
 - (b) restricting the amount of the deduction.
 
-(4)[^key-334a7db1ed29eb38652b8d31def3efce] In this section “**relevant tax avoidance arrangements**” means arrangements—
+(4)[^c-334a7db1ed29eb38652b8d31def3efce] In this section “**relevant tax avoidance arrangements**” means arrangements—
 
 - (a) to which the company carrying on the trade is a party, and
 - (b) the main purpose, or one of the main purposes, of which is the obtaining of a tax advantage (within the meaning of section 1139 of CTA 2010).
@@ -57,8 +57,8 @@ which allows a deduction in calculating the profits of a trade.
 
 ## Annotations
 
-[^key-f9676d1c4cfe41ad347fead59ec15965]: Textual amendment: Words in s. 51(1)(b)(i) omitted (with effect in accordance with Sch. 11 paras. 65-67 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 46](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/46)
+[^c-f9676d1c4cfe41ad347fead59ec15965]: Textual amendment: Words in s. 51(1)(b)(i) omitted (with effect in accordance with Sch. 11 paras. 65-67 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 46](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/46)
 
-[^key-5f6fb3e21001fa8306e0840ab3a548a2]: Textual amendment: S. 51(1A) inserted (with effect in accordance with s. 78(5)-(7) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 78(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/78/3/a)
+[^c-5f6fb3e21001fa8306e0840ab3a548a2]: Textual amendment: S. 51(1A) inserted (with effect in accordance with s. 78(5)-(7) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 78(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/78/3/a)
 
-[^key-334a7db1ed29eb38652b8d31def3efce]: Textual amendment: S. 51(4) inserted (with effect in accordance with s. 78(5)-(7) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 78(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/78/3/b)
+[^c-334a7db1ed29eb38652b8d31def3efce]: Textual amendment: S. 51(4) inserted (with effect in accordance with s. 78(5)-(7) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 78(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/78/3/b)

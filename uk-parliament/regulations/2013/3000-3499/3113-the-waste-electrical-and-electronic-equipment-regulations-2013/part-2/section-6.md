@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Application from 1st January 2019[^key-29413673801f8577d5a315a37fb95a5b][^key-44e07183ad7f57f48a0e6194600744bc]
+## 6. Application from 1st January 2019[^c-29413673801f8577d5a315a37fb95a5b][^c-44e07183ad7f57f48a0e6194600744bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29413673801f8577d5a315a37fb95a5b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/3113/regulation/6) in force at 1.1.2019, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/4)
+[^c-29413673801f8577d5a315a37fb95a5b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/3113/regulation/6) in force at 1.1.2019, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/4)
 
-[^key-44e07183ad7f57f48a0e6194600744bc]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/3113/regulation/6) substituted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [5](https://www.legislation.gov.uk/uksi/2018/1214/regulation/5)
+[^c-44e07183ad7f57f48a0e6194600744bc]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/3113/regulation/6) substituted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [5](https://www.legislation.gov.uk/uksi/2018/1214/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 104. Pluralities not be authorised except under this Measure[^key-5c1c2b765df2fb09b28c74d4cd76226a]
+## 104. Pluralities not be authorised except under this Measure[^c-5c1c2b765df2fb09b28c74d4cd76226a]
 
 *Extent: E*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c1c2b765df2fb09b28c74d4cd76226a]: Commencement: S. 104 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-5c1c2b765df2fb09b28c74d4cd76226a]: Commencement: S. 104 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

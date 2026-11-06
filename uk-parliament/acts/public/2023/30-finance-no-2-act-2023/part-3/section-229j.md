@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 229J. References to responsible members[^key-9fb6e69a9d1806374c1e561501413569]
+## 229J. References to responsible members[^c-9fb6e69a9d1806374c1e561501413569]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ is to be regarded for all purposes of this Chapter as not being a responsible me
 
 ## Annotations
 
-[^key-9fb6e69a9d1806374c1e561501413569]: Textual amendment: Pt. 3 Ch. 9A inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 5](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/5), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
+[^c-9fb6e69a9d1806374c1e561501413569]: Textual amendment: Pt. 3 Ch. 9A inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 5](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/5), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)

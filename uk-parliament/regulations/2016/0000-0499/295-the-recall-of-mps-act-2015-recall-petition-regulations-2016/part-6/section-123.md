@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Requirement of secrecy[^key-caa708fb6263d6807ada3375a8d3d772]
+## 123. Requirement of secrecy[^c-caa708fb6263d6807ada3375a8d3d772]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 - (a) interfere with or attempt to interfere with a person signing a petition; or
 - (b) communicate to any person the number or other unique identifying mark on the back of the signing sheet issued to a person at a petition signing place.
 
-(4A)[^key-cd5d754508355abe72dbc60b2944a3d1] No person may—
+(4A)[^c-cd5d754508355abe72dbc60b2944a3d1] No person may—
 
 - (a) except for some purpose authorised by law, obtain or attempt to obtain information, or communicate at any time to any other person any information, as to the number or other unique identifying mark on the back of a postal signing sheet issued to a person for signing a petition by post;
 - (b) except for some purpose authorised by law, obtain or attempt to obtain information, or communicate at any time to any other person any information, as to the official mark on a postal signing sheet issued to a person for signing a petition by post;
@@ -76,14 +76,14 @@ summary: ''
 - (b) communicate to any person at any time any information obtained at those proceedings as to the number or other unique identifying mark on the back of the signing sheet sent to any person; or
 - (c) attempt to ascertain at proceedings on the receipt of signing sheets the number or other unique identifying mark on the back of any such sheet.
 
-(6) A person who acts in contravention of this regulation is[^key-0c563261c7f749ee74c8097af18b0566] guilty of an offence and[^key-0fe599693a1eced6518cd18014dd73b2] is liable on summary conviction to a fine or to imprisonment for a term not exceeding 6 months.
+(6) A person who acts in contravention of this regulation is[^c-0c563261c7f749ee74c8097af18b0566] guilty of an offence and[^c-0fe599693a1eced6518cd18014dd73b2] is liable on summary conviction to a fine or to imprisonment for a term not exceeding 6 months.
 
 ## Annotations
 
-[^key-caa708fb6263d6807ada3375a8d3d772]: Commencement: Reg. 123 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-caa708fb6263d6807ada3375a8d3d772]: Commencement: Reg. 123 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-cd5d754508355abe72dbc60b2944a3d1]: Textual amendment: Reg. 123(4A)-(4F) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(20)(a)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/20/a)
+[^c-cd5d754508355abe72dbc60b2944a3d1]: Textual amendment: Reg. 123(4A)-(4F) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(20)(a)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/20/a)
 
-[^key-0c563261c7f749ee74c8097af18b0566]: Textual amendment: Words in reg. 123(6) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(20)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/20/b/i)
+[^c-0c563261c7f749ee74c8097af18b0566]: Textual amendment: Words in reg. 123(6) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(20)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/20/b/i)
 
-[^key-0fe599693a1eced6518cd18014dd73b2]: Textual amendment: Word in reg. 123(6) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(20)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/20/b/ii)
+[^c-0fe599693a1eced6518cd18014dd73b2]: Textual amendment: Word in reg. 123(6) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(20)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/20/b/ii)

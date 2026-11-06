@@ -234,7 +234,7 @@ Section 76
 >
 > (2) This paragraph applies to the provision of restaurant services and the provision of catering services, other than the provision of services to which paragraph 6 applies.
 >
-> **the European Union on-board restaurant and catering services[^key-bd98aa0dec6c1e9ce4811eabaa99ec58]**
+> **the European Union on-board restaurant and catering services[^c-bd98aa0dec6c1e9ce4811eabaa99ec58]**
 >
 > **6.** (1) A supply of services consisting of
 >
@@ -471,4 +471,4 @@ and treat that article as made under section 7A(6)(c) of VATA 1994 (inserted by 
 
 ## Annotations
 
-[^key-bd98aa0dec6c1e9ce4811eabaa99ec58]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-bd98aa0dec6c1e9ce4811eabaa99ec58]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

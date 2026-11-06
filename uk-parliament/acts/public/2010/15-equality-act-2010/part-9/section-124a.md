@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124A. Remedies: compensation uplift in sexual harassment cases[^key-8e4ad07b98e010b64f72e4507887a515]
+## 124A. Remedies: compensation uplift in sexual harassment cases[^c-8e4ad07b98e010b64f72e4507887a515]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e4ad07b98e010b64f72e4507887a515]: Textual amendment: S. 124A inserted (26.10.2024) by [Worker Protection (Amendment of Equality Act 2010) Act 2023 (c. 51)](https://www.legislation.gov.uk/ukpga/2023/51), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/51/section/3), [5(3)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/3)
+[^c-8e4ad07b98e010b64f72e4507887a515]: Textual amendment: S. 124A inserted (26.10.2024) by [Worker Protection (Amendment of Equality Act 2010) Act 2023 (c. 51)](https://www.legislation.gov.uk/ukpga/2023/51), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/51/section/3), [5(3)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/3)

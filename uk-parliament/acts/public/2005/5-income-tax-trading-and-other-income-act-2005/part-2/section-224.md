@@ -29,7 +29,7 @@ summary: ''
 
 (3) If the relevant profits of one of the tax years are nil, this Chapter does not prevent the taxpayer from obtaining relief under the Income Tax Acts for a loss made by the taxpayer in the tax year in question or any other tax year.
 
-(4) A claim by the taxpayer for relief under any other provision of the Income Tax Acts for any[^key-b529a9ec78fb7f8b46ab4466dc973c62] of the tax years to which an averaging claim relates (“**the other claim**”)—
+(4) A claim by the taxpayer for relief under any other provision of the Income Tax Acts for any[^c-b529a9ec78fb7f8b46ab4466dc973c62] of the tax years to which an averaging claim relates (“**the other claim**”)—
 
 - (a) is not out of time if made on or before the last date on which the averaging claim could have been made, and
 - (b) if already made, may be amended or revoked on or before that date.
@@ -39,10 +39,10 @@ summary: ''
 - (a) references to a claim include an election or notice, and
 - (b) if the other claim is made in a return, the reference to amending or revoking the other claim is to amending the return by amending or omitting the other claim.
 
-(6) For provision determining in which tax year a claim, amendment or revocation made as a result of subsection (4) has effect, see paragraph 4 of Schedule 1B to TMA 1970 (claim, amendment or revocation given effect in the last of the two or five tax years[^key-45cdf6d666faad1c3406630c395b85be]).
+(6) For provision determining in which tax year a claim, amendment or revocation made as a result of subsection (4) has effect, see paragraph 4 of Schedule 1B to TMA 1970 (claim, amendment or revocation given effect in the last of the two or five tax years[^c-45cdf6d666faad1c3406630c395b85be]).
 
 ## Annotations
 
-[^key-b529a9ec78fb7f8b46ab4466dc973c62]: Textual amendment: Word in s. 224(4) substituted (with effect in accordance with s. 25(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 25(6)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/25/6/a)
+[^c-b529a9ec78fb7f8b46ab4466dc973c62]: Textual amendment: Word in s. 224(4) substituted (with effect in accordance with s. 25(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 25(6)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/25/6/a)
 
-[^key-45cdf6d666faad1c3406630c395b85be]: Textual amendment: Words in s. 224(6) substituted (with effect in accordance with s. 25(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 25(6)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/25/6/b)
+[^c-45cdf6d666faad1c3406630c395b85be]: Textual amendment: Words in s. 224(6) substituted (with effect in accordance with s. 25(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 25(6)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/25/6/b)

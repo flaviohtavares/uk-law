@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Transfer of monuments of special historic interest between local authorities and the Welsh Ministers[^key-e16bf381694bc80b45c6e74ed99dba9e][^key-b55fffd817ea9255f72db5dc7de25993]
+## 53. Transfer of monuments of special historic interest between local authorities and the Welsh Ministers[^c-e16bf381694bc80b45c6e74ed99dba9e][^c-b55fffd817ea9255f72db5dc7de25993]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e16bf381694bc80b45c6e74ed99dba9e]: Commencement: S. 53 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-e16bf381694bc80b45c6e74ed99dba9e]: Commencement: S. 53 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-b55fffd817ea9255f72db5dc7de25993]: Commencement: [S. 53](https://www.legislation.gov.uk/asc/2023/3/section/53) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-b55fffd817ea9255f72db5dc7de25993]: Commencement: [S. 53](https://www.legislation.gov.uk/asc/2023/3/section/53) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

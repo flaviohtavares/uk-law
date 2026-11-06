@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This Chapter is about deductions relating to Schedule 2[^key-21068563d6e796ce7851a3852ee061fa] share incentive plans.
+(1) This Chapter is about deductions relating to Schedule 2[^c-21068563d6e796ce7851a3852ee061fa] share incentive plans.
 
 (2) Section 984 relates to the interpretation of this Chapter.
 
@@ -35,10 +35,10 @@ summary: ''
 
 (6) Sections 994 to 997 deal with other deductions relating to free shares, matching shares, partnership shares and dividend shares.
 
-(7) Section 998 deals with the withdrawal of deductions if a plan ceases to be a Schedule 2 share incentive plan[^key-65d22055883b9481c8b560db37e0062b].
+(7) Section 998 deals with the withdrawal of deductions if a plan ceases to be a Schedule 2 share incentive plan[^c-65d22055883b9481c8b560db37e0062b].
 
 ## Annotations
 
-[^key-21068563d6e796ce7851a3852ee061fa]: Textual amendment: Words in s. 983(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 75(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/75/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-21068563d6e796ce7851a3852ee061fa]: Textual amendment: Words in s. 983(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 75(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/75/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-65d22055883b9481c8b560db37e0062b]: Textual amendment: Words in s. 983(7) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 75(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/75/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-65d22055883b9481c8b560db37e0062b]: Textual amendment: Words in s. 983(7) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 75(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/75/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))

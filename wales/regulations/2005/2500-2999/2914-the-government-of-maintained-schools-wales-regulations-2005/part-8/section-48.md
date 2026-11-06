@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Publication of minutes and papers[^key-e80caaddd230c8d1fcb19dfa1f699c32][^key-8cfac9661aad4a73365ca5b43620390d]
+## 48. Publication of minutes and papers[^c-e80caaddd230c8d1fcb19dfa1f699c32][^c-8cfac9661aad4a73365ca5b43620390d]
 
 *Extent: E+W*
 
-[^key-8cfac9661aad4a73365ca5b43620390d]
+[^c-8cfac9661aad4a73365ca5b43620390d]
 
 (1) Subject to paragraph (2), the governing body must, as soon as reasonably practicable, make available for inspection at the school by any interested person, a copy of—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e80caaddd230c8d1fcb19dfa1f699c32]: Commencement: Reg. 48 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-e80caaddd230c8d1fcb19dfa1f699c32]: Commencement: Reg. 48 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-8cfac9661aad4a73365ca5b43620390d]: Modification: [Pt. 8](https://www.legislation.gov.uk/wsi/2005/2914/part/8) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [40(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/1) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [40(2)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/2))
+[^c-8cfac9661aad4a73365ca5b43620390d]: Modification: [Pt. 8](https://www.legislation.gov.uk/wsi/2005/2914/part/8) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [40(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/1) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [40(2)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/2))

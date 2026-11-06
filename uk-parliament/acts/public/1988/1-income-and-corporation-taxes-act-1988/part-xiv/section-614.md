@@ -28,9 +28,9 @@ summary: ''
 
 (3) [^c21616531]Income derived from investments or deposits of any fund referred to in section 648, 649, 650 or 651 of ITEPA 2003[^c23482251] shall not be charged to income tax, and any income tax deducted from any such income shall be repaid by the Board to the persons entitled to receive the income.
 
-(4) [^c21616541]In respect of income derived from investments or deposits of the Overseas Service Pensions Fund established pursuant to section 7(1) of the [^c21616551]Overseas Aid Act 1966, the Board shall give by way of repayment such relief from income tax as is necessary to secure that the income is exempt to the like extent (if any) as if it were income of a person [^key-389a62c6d27fbbe15cc5dd38370c36b6]...[^c23486651] and not resident in the United Kingdom.
+(4) [^c21616541]In respect of income derived from investments or deposits of the Overseas Service Pensions Fund established pursuant to section 7(1) of the [^c21616551]Overseas Aid Act 1966, the Board shall give by way of repayment such relief from income tax as is necessary to secure that the income is exempt to the like extent (if any) as if it were income of a person [^c-389a62c6d27fbbe15cc5dd38370c36b6]...[^c23486651] and not resident in the United Kingdom.
 
-(5) [^c21616561]In respect of dividends and other income derived from investments, deposits or other property of a superannuation fund to which section 615(3) applies the Board shall give by way of repayment such relief from income tax as is necessary to secure that the income is exempt to the like extent (if any) as if it were income of a person [^key-49b6a27b6492c5b7de260a9fa2d0b78e]...[^c23486671] not resident in the United Kingdom.
+(5) [^c21616561]In respect of dividends and other income derived from investments, deposits or other property of a superannuation fund to which section 615(3) applies the Board shall give by way of repayment such relief from income tax as is necessary to secure that the income is exempt to the like extent (if any) as if it were income of a person [^c-49b6a27b6492c5b7de260a9fa2d0b78e]...[^c23486671] not resident in the United Kingdom.
 
 (6) [^c21616571]A claim under this section shall be made to the Board.
 
@@ -56,13 +56,13 @@ summary: ''
 
 [^c21616551]: Marginal citation: [1966 c. 21](https://www.legislation.gov.uk/ukpga/1966/21).
 
-[^key-389a62c6d27fbbe15cc5dd38370c36b6]: Textual amendment: Words in s. 614(4) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 25](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/25)
+[^c-389a62c6d27fbbe15cc5dd38370c36b6]: Textual amendment: Words in s. 614(4) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 25](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/25)
 
 [^c23486651]: Textual amendment: Words in s. 614(4) substituted (with effect in accordance with [Sch. 46 para. 72](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/72) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 28(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/28/a)
 
 [^c21616561]: Marginal citation: Source-1970 s.218(1)
 
-[^key-49b6a27b6492c5b7de260a9fa2d0b78e]: Textual amendment: Words in [. 614(5)](https://www.legislation.gov.uk/ukpga/1988/1/section/614/5) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 25](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/25)
+[^c-49b6a27b6492c5b7de260a9fa2d0b78e]: Textual amendment: Words in [. 614(5)](https://www.legislation.gov.uk/ukpga/1988/1/section/614/5) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 25](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/25)
 
 [^c23486671]: Textual amendment: Words in s. 614(5) substituted (with effect in accordance with [Sch. 46 para. 72](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/72) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 28(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/28/b)
 

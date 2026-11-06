@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57C. Modifications applying by virtue of sections 57A and 57B[^key-9ebc8cd512e024117e573e59c49c9e1e][^key-ba1165ab7f8e63d39f427b4f88d418f6]
+## 57C. Modifications applying by virtue of sections 57A and 57B[^c-9ebc8cd512e024117e573e59c49c9e1e][^c-ba1165ab7f8e63d39f427b4f88d418f6]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ebc8cd512e024117e573e59c49c9e1e]: Modification: [S. 57C](https://www.legislation.gov.uk/asp/2016/1/section/57C) applied (with modifications) (25.1.2018) by [The Police Investigations and Review Commissioner (Application and Modification of the Criminal Justice (Scotland) Act 2016) Order 2017 (S.S.I. 2017/465)](https://www.legislation.gov.uk/ssi/2017/465), [arts. 1](https://www.legislation.gov.uk/ssi/2017/465/article/1)-[4](https://www.legislation.gov.uk/ssi/2017/465/article/2)
+[^c-9ebc8cd512e024117e573e59c49c9e1e]: Modification: [S. 57C](https://www.legislation.gov.uk/asp/2016/1/section/57C) applied (with modifications) (25.1.2018) by [The Police Investigations and Review Commissioner (Application and Modification of the Criminal Justice (Scotland) Act 2016) Order 2017 (S.S.I. 2017/465)](https://www.legislation.gov.uk/ssi/2017/465), [arts. 1](https://www.legislation.gov.uk/ssi/2017/465/article/1)-[4](https://www.legislation.gov.uk/ssi/2017/465/article/2)
 
-[^key-ba1165ab7f8e63d39f427b4f88d418f6]: Textual amendment: Ss. 57A-57C and cross-heading inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [regs. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2017/453/regulation/2/7)
+[^c-ba1165ab7f8e63d39f427b4f88d418f6]: Textual amendment: Ss. 57A-57C and cross-heading inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [regs. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2017/453/regulation/2/7)

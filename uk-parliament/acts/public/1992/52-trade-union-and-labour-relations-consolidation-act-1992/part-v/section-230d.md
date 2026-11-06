@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230D. Workplace voting: notice of ballot[^key-c1e967a51e9c0eba4b2863e25dd559b8]
+## 230D. Workplace voting: notice of ballot[^c-c1e967a51e9c0eba4b2863e25dd559b8]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ Every person eligible to vote by workplace voting must be sent a notice statingâ
 
 ## Annotations
 
-[^key-c1e967a51e9c0eba4b2863e25dd559b8]: Textual amendment: Ss. 230A-230H and cross-headings inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(11)](https://www.legislation.gov.uk/uksi/2026/881/article/7/11) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-c1e967a51e9c0eba4b2863e25dd559b8]: Textual amendment: Ss. 230A-230H and cross-headings inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(11)](https://www.legislation.gov.uk/uksi/2026/881/article/7/11) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

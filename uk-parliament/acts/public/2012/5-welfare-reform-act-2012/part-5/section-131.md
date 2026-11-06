@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Information-sharing in relation to welfare services etc[^key-d484940bd74cdb5e44a4a0570f542c24][^key-cbec30a49b7c398b7f8e73beafbb0a93]
+## 131. Information-sharing in relation to welfare services etc[^c-d484940bd74cdb5e44a4a0570f542c24][^c-cbec30a49b7c398b7f8e73beafbb0a93]
 
 *Extent: E+W+S*
 
@@ -85,7 +85,7 @@ contributes or will contribute to the expenditure incurred in their provision.
 - “**relevant information**” means information relating to—
   - (a) any relevant social security benefit, or
   - (b) welfare services;
-- “**relevant social security benefit**” means—[^key-42c6996cd1edf085ea4cac7a7bc20672]
+- “**relevant social security benefit**” means—[^c-42c6996cd1edf085ea4cac7a7bc20672]
   - (a) a relevant social security benefit as defined in section 121DA(7) of the Social Security Administration Act 1992, or
   - (b) a loan under section 18 of the Welfare Reform and Work Act 2016 (loans for mortgage interest etc);
 - “**Scottish body**” means—
@@ -102,8 +102,8 @@ contributes or will contribute to the expenditure incurred in their provision.
 
 ## Annotations
 
-[^key-d484940bd74cdb5e44a4a0570f542c24]: Commencement: S. 131 in force at 20.3.2012 for specified purposes by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2012/863/article/2/1/g)
+[^c-d484940bd74cdb5e44a4a0570f542c24]: Commencement: S. 131 in force at 20.3.2012 for specified purposes by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2012/863/article/2/1/g)
 
-[^key-cbec30a49b7c398b7f8e73beafbb0a93]: Commencement: S. 131 in force at 8.5.2012 in so far as not already in force by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(3)(e)](https://www.legislation.gov.uk/uksi/2012/863/article/2/3/e)
+[^c-cbec30a49b7c398b7f8e73beafbb0a93]: Commencement: S. 131 in force at 8.5.2012 in so far as not already in force by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(3)(e)](https://www.legislation.gov.uk/uksi/2012/863/article/2/3/e)
 
-[^key-42c6996cd1edf085ea4cac7a7bc20672]: Textual amendment: Words in s. 131(12) substituted (27.7.2017) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 20(10)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/10), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2017/802](https://www.legislation.gov.uk/uksi/2017/802), [reg. 2](https://www.legislation.gov.uk/uksi/2017/802/regulation/2)
+[^c-42c6996cd1edf085ea4cac7a7bc20672]: Textual amendment: Words in s. 131(12) substituted (27.7.2017) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 20(10)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/10), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2017/802](https://www.legislation.gov.uk/uksi/2017/802), [reg. 2](https://www.legislation.gov.uk/uksi/2017/802/regulation/2)

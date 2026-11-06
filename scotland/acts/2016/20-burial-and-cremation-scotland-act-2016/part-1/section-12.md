@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Right of burial[^key-208a25c0edddac326b04a09bfb41fa6e]
+## 12. Right of burial[^c-208a25c0edddac326b04a09bfb41fa6e]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-208a25c0edddac326b04a09bfb41fa6e]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2016/20/section/12) in force at 1.3.2025 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2024/335/schedule)
+[^c-208a25c0edddac326b04a09bfb41fa6e]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2016/20/section/12) in force at 1.3.2025 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2024/335/schedule)

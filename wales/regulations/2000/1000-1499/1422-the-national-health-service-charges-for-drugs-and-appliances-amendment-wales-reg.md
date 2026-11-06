@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, WALES
 
-The National Health Service (Charges for Drugs and Appliances) Amendment (Wales) Regulations 2000 (revoked)[^key-c9834e5d36fd905213422867862bd09d]
+The National Health Service (Charges for Drugs and Appliances) Amendment (Wales) Regulations 2000 (revoked)[^c-c9834e5d36fd905213422867862bd09d]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into force
 
 1st April 2000
 
-[^key-c9834e5d36fd905213422867862bd09d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9834e5d36fd905213422867862bd09d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-c9834e5d36fd905213422867862bd09d]
+## 1. Citation, commencement, interpretation and application[^c-c9834e5d36fd905213422867862bd09d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of amounts specified in the principal Regulations[^key-c9834e5d36fd905213422867862bd09d]
+## 2. Amendment of amounts specified in the principal Regulations[^c-c9834e5d36fd905213422867862bd09d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provisions[^key-c9834e5d36fd905213422867862bd09d]
+## 3. Transitional provisions[^c-c9834e5d36fd905213422867862bd09d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c9834e5d36fd905213422867862bd09d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9834e5d36fd905213422867862bd09d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — AMOUNTS SUBSTITUTED IN THE PRINCIPAL REGULATIONS[^key-c9834e5d36fd905213422867862bd09d]
+## SCHEDULE — AMOUNTS SUBSTITUTED IN THE PRINCIPAL REGULATIONS[^c-c9834e5d36fd905213422867862bd09d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c9834e5d36fd905213422867862bd09d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9834e5d36fd905213422867862bd09d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c9834e5d36fd905213422867862bd09d]: Textual amendment: Regulations revoked (1.4.2001) by [National Health Service (Charges for Drugs and Appliances) (Wales) Regulations 2001 (S.I. 2001/1358)](https://www.legislation.gov.uk/uksi/2001/1358), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1358/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1358/schedule/2)
+[^c-c9834e5d36fd905213422867862bd09d]: Textual amendment: Regulations revoked (1.4.2001) by [National Health Service (Charges for Drugs and Appliances) (Wales) Regulations 2001 (S.I. 2001/1358)](https://www.legislation.gov.uk/uksi/2001/1358), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1358/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1358/schedule/2)

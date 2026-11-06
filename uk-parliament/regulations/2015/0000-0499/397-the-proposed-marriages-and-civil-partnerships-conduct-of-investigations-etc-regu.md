@@ -67,7 +67,7 @@ In accordance with section 74(2) of the Act a draft of these Regulations has bee
   - (b) in a prison or other place to which the Prison Act 1952 [^c22387111], the Prisons (Scotland) Act 1989 [^c22387121] or the Prisons Act (Northern Ireland) 1953 [^c22387131] applies;
 - “**Home Office premises**” means—
   - (a) in relation to premises in the United Kingdom, premises used by Home Office staff for the purposes of Home Office business, and
-  - (b) in relation to premises outside the United Kingdom, premises used by Home Office staff or Foreign, Commonwealth and Development Office[^key-20a1184e215b3767c186b7f3c3015735] staff for the purposes of Home Office business,
+  - (b) in relation to premises outside the United Kingdom, premises used by Home Office staff or Foreign, Commonwealth and Development Office[^c-20a1184e215b3767c186b7f3c3015735] staff for the purposes of Home Office business,
 
   whether or not those premises are also used for other purposes;
 - “**normal office hours**”, in relation to when an interview may take place means—
@@ -156,7 +156,7 @@ In accordance with section 74(2) of the Act a draft of these Regulations has bee
 
 - (a) telephoning the telephone number;
 - (b) sending a text message to the telephone number;
-- (c) sending an email to the Home Office or Foreign, Commonwealth and Development Office[^key-7da8afa30d4f17ec3250c291a6c20e43] email address; or
+- (c) sending an email to the Home Office or Foreign, Commonwealth and Development Office[^c-7da8afa30d4f17ec3250c291a6c20e43] email address; or
 - (d) writing to the address,
 
 specified in the section 48 notice or in any subsequent notification as mentioned in section 50(3) of the 2014 Act (“the notification”).
@@ -329,7 +329,7 @@ specified in the section 48 notice or in any subsequent notification as mentione
   - (i) make a note of its contents in the record mentioned in regulation 4;
   - (ii) photograph it;
   - (iii) request a “screenshot” of the document; or
-- (b) where it is an email (or included in an email), forwarding it to a Home Office or Foreign, Commonwealth and Development Office[^key-0ef392c614052a9d24943bf55492fd95] email account.
+- (b) where it is an email (or included in an email), forwarding it to a Home Office or Foreign, Commonwealth and Development Office[^c-0ef392c614052a9d24943bf55492fd95] email account.
 
 ## PART 3 — Specified requirements
 
@@ -395,17 +395,17 @@ after he or she has been given a section 48 notice but before the compliance que
 - (b) that, where the Secretary of State decides that a relevant party has, or (as the case may be) both relevant parties have, failed to comply with the investigation and gives notice of that decision within the 70 day period in accordance with section 50(7) of the 2014 Act, the proposed marriage or, as the case may be, civil partnership may not proceed (and the relevant parties must give fresh notice of their intention to marry or register their civil partnership if they wish it to do so);
 - (c) that, in a case where the Secretary of State determines that a proposed marriage or civil partnership is a sham, the Secretary of State or an immigration officer may take immigration enforcement action in relation to a relevant party or, as the case may be, both relevant parties;
 - (d) that, in a case where a proposed marriage or civil partnership which is or was the subject of an investigation proceeds and the Secretary of State subsequently determines that it is a sham, the Secretary of State or an immigration officer may take immigration enforcement action in relation to a relevant party or, as the case may be, both relevant parties;
-- (e) that, without prejudice to the refusal of an application for entry clearance, limited leave or indefinite leave[^key-2620d5b9ea0734b242b6ca180db436a4] made on any other basis, in a case where the Secretary of State determines that a proposed marriage or civil partnership is a sham, the Secretary of State may refuse an application which is based upon a relevant party's relationship with the other relevant party;
-- (f) that, without prejudice to the refusal of an application for entry clearance, limited leave or indefinite leave[^key-c3e8de1adefe1406822433124605dc46] made on any other basis, in a case where a proposed marriage or civil partnership which is or was the subject of an investigation proceeds and the Secretary of State subsequently determines that it is a sham, the Secretary of State may refuse an application which is based upon a relevant party's relationship with the other relevant party.
+- (e) that, without prejudice to the refusal of an application for entry clearance, limited leave or indefinite leave[^c-2620d5b9ea0734b242b6ca180db436a4] made on any other basis, in a case where the Secretary of State determines that a proposed marriage or civil partnership is a sham, the Secretary of State may refuse an application which is based upon a relevant party's relationship with the other relevant party;
+- (f) that, without prejudice to the refusal of an application for entry clearance, limited leave or indefinite leave[^c-c3e8de1adefe1406822433124605dc46] made on any other basis, in a case where a proposed marriage or civil partnership which is or was the subject of an investigation proceeds and the Secretary of State subsequently determines that it is a sham, the Secretary of State may refuse an application which is based upon a relevant party's relationship with the other relevant party.
 
 (2) In the case of information prescribed in sub-paragraphs (d) to (f) of paragraph (1), the following additional information is prescribed for section 51(1)(d) purposes—
 
 - (a) as respects information prescribed in sub-paragraphs (d) and (f), the additional information that a reference to a marriage or civil partnership being a sham is a reference to it being a sham within the meaning of section 24 or 24A of the Immigration and Asylum Act 1999 [^c22387201];
 - (b) as respects information prescribed in sub-paragraphs (e) and (f), the additional information that—
-  - (i) “**entry clearance**”, “**limited leave**” and “**indefinite leave**” have the same meanings as in section 33 of the Immigration Act 1971 [^c22387211]; [^key-e2ad24db854c5ecd47dab08f41cd94c7]...
-  - (ii)[^key-e2ad24db854c5ecd47dab08f41cd94c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) “**entry clearance**”, “**limited leave**” and “**indefinite leave**” have the same meanings as in section 33 of the Immigration Act 1971 [^c22387211]; [^c-e2ad24db854c5ecd47dab08f41cd94c7]...
+  - (ii)[^c-e2ad24db854c5ecd47dab08f41cd94c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-9f87b234f5b4b30e3b22b647c68aed0d] For the purposes of paragraph (2)(b)(ii) “**retained enforceable EU right**” means a right that—
+(3)[^c-9f87b234f5b4b30e3b22b647c68aed0d] For the purposes of paragraph (2)(b)(ii) “**retained enforceable EU right**” means a right that—
 
 - (a) was created or arose by or under the EU Treaties before the time when this paragraph comes into force; and
 - (b) forms part of retained EU law by virtue of section 3 or 4 of the European Union (Withdrawal) Act 2018,
@@ -456,15 +456,15 @@ An impact assessment has not been prepared for these Regulations as no impact on
 
 [^c22387131]: Marginal citation: [1953 c. 18 (NI)](https://www.legislation.gov.uk/apni/1953/18)
 
-[^key-20a1184e215b3767c186b7f3c3015735]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/397/regulation/2/1) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 22(a)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/22/a)
+[^c-20a1184e215b3767c186b7f3c3015735]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/397/regulation/2/1) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 22(a)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/22/a)
 
 [^c22387141]: Marginal citation: “investigation” is defined by section 50(11) of the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
 
 [^c22387151]: Marginal citation: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33): section 82 defines a qualified person by reference to section 84. Relevant changes to section 82 have been made by section 186 of, and paragraphs 9 and 10 of Schedule 18 to, the Legal Services Act 2007 (“**2007 Act**”) (c. 29). Relevant changes to section 84 have been made by section 37 of the [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19) and section 186 of, and paragraphs 9 and 12 of Schedule 18 to, the 2007 Act.
 
-[^key-7da8afa30d4f17ec3250c291a6c20e43]: Textual amendment: Words in [reg. 5(2)(c)](https://www.legislation.gov.uk/uksi/2015/397/regulation/5/2/c) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 22(b)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/22/b)
+[^c-7da8afa30d4f17ec3250c291a6c20e43]: Textual amendment: Words in [reg. 5(2)(c)](https://www.legislation.gov.uk/uksi/2015/397/regulation/5/2/c) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 22(b)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/22/b)
 
-[^key-0ef392c614052a9d24943bf55492fd95]: Textual amendment: Words in [reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/2015/397/regulation/13/1/b) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 22(c)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/22/c)
+[^c-0ef392c614052a9d24943bf55492fd95]: Textual amendment: Words in [reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/2015/397/regulation/13/1/b) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 22(c)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/22/c)
 
 [^c22387161]: Marginal citation: “Relevant requirement” is defined in section 50(11) of the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22). That definition is amended by paragraph 3 of Schedule 4 to [S.I. 2015/395](https://www.legislation.gov.uk/uksi/2015/395) and paragraph 3 of Schedule 4 to [S.I. 2015/396](https://www.legislation.gov.uk/uksi/2015/396).
 
@@ -474,14 +474,14 @@ An impact assessment has not been prepared for these Regulations as no impact on
 
 [^c22387191]: Marginal citation: “Immigration Acts” is defined in Schedule 1 to the [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-2620d5b9ea0734b242b6ca180db436a4]: Textual amendment: Words in [reg. 18(1)(e)](https://www.legislation.gov.uk/uksi/2015/397/regulation/18/1/e) substituted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [43(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/43/2/a)
+[^c-2620d5b9ea0734b242b6ca180db436a4]: Textual amendment: Words in [reg. 18(1)(e)](https://www.legislation.gov.uk/uksi/2015/397/regulation/18/1/e) substituted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [43(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/43/2/a)
 
-[^key-c3e8de1adefe1406822433124605dc46]: Textual amendment: Words in [reg. 18(1)(f)](https://www.legislation.gov.uk/uksi/2015/397/regulation/18/1/f) substituted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [43(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/43/2/b)
+[^c-c3e8de1adefe1406822433124605dc46]: Textual amendment: Words in [reg. 18(1)(f)](https://www.legislation.gov.uk/uksi/2015/397/regulation/18/1/f) substituted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [43(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/43/2/b)
 
 [^c22387201]: Marginal citation: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33); [section 24(5)](https://www.legislation.gov.uk/uksi/2015/397/section/24/5) defines sham marriage and section 24A defines sham civil partnership. Those definitions have been amended by section 55 of the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22). Specifically section 24(5) was substituted, and subsection (6) inserted, by section 55(1), and section 24A(5) substituted, and subsection (5A) inserted, by section 55(3).
 
 [^c22387211]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); the definition of “entry clearance” was amended by section 39 of, and paragraph 2 of Schedule 4 to, the [British Nationality Act 1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61) and section 10 of, and paragraph 5 of the Schedule to, the [Immigration Act 1988 (c. 14)](https://www.legislation.gov.uk/ukpga/1988/14).
 
-[^key-e2ad24db854c5ecd47dab08f41cd94c7]: Textual amendment: [Reg. 18(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/397/regulation/18/2/b/ii) and word omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [43(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/43/2/c)
+[^c-e2ad24db854c5ecd47dab08f41cd94c7]: Textual amendment: [Reg. 18(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/397/regulation/18/2/b/ii) and word omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [43(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/43/2/c)
 
-[^key-9f87b234f5b4b30e3b22b647c68aed0d]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/uksi/2015/397/regulation/18/3) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [39(b)](https://www.legislation.gov.uk/uksi/2019/745/regulation/39/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f87b234f5b4b30e3b22b647c68aed0d]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/uksi/2015/397/regulation/18/3) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [39(b)](https://www.legislation.gov.uk/uksi/2019/745/regulation/39/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

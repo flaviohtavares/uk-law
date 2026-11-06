@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.237CA. Vesting of bankrupt’s estate—substituted period.[^key-26ecec39eb2607533d78107253f21f2a][^key-78c7b777330ac8bace13f129695e3ff7]
+## 6.237CA. Vesting of bankrupt’s estate—substituted period.[^c-26ecec39eb2607533d78107253f21f2a][^c-78c7b777330ac8bace13f129695e3ff7]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ the period of one month from the date of that notice.
 
 ## Annotations
 
-[^key-26ecec39eb2607533d78107253f21f2a]: Textual amendment: [Rule 6.237CA](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.237CA) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [42](https://www.legislation.gov.uk/uksi/2004/584/article/42)
+[^c-26ecec39eb2607533d78107253f21f2a]: Textual amendment: [Rule 6.237CA](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.237CA) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [42](https://www.legislation.gov.uk/uksi/2004/584/article/42)
 
-[^key-78c7b777330ac8bace13f129695e3ff7]: Textual amendment: Rules 6.237-6.237E substituted for rule 6.327 (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/51)
+[^c-78c7b777330ac8bace13f129695e3ff7]: Textual amendment: Rules 6.237-6.237E substituted for rule 6.327 (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/51)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Finance: powers to request information[^key-200baa5cf44165a7a2ad8bd5b098cdb5]
+## 70. Finance: powers to request information[^c-200baa5cf44165a7a2ad8bd5b098cdb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-200baa5cf44165a7a2ad8bd5b098cdb5]: Commencement: Reg. 70 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-200baa5cf44165a7a2ad8bd5b098cdb5]: Commencement: Reg. 70 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

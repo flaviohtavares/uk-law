@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 948. Modified application of CAA 2001[^key-223011ed219b7ce0ca17d4e425d21096]
+## 948. Modified application of CAA 2001[^c-223011ed219b7ce0ca17d4e425d21096]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,12 +38,12 @@ summary: ''
 
 (6) For other cases in which this section does not apply in relation to a transfer, see—
 
-- (za)[^key-a39f81f7274b354ce0b4ccfc772cc1fa] section 398G of this Act (sale of lessors: transfers into and out of A after election under section 398A),
+- (za)[^c-a39f81f7274b354ce0b4ccfc772cc1fa] section 398G of this Act (sale of lessors: transfers into and out of A after election under section 398A),
 - (a) section 561 of CAA 2001 (transfer to company in another member State), and
 - (b) section 561A of that Act (transfer during formation of SE by merger).
 
 ## Annotations
 
-[^key-223011ed219b7ce0ca17d4e425d21096]: Modification: S. 948 excluded by Capital Allowances 2001 (c. 2), s. 561A(2)(c) (as substituted (with effect in accordance with s. 1184(1) of the amending Act) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 361](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/361) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)))
+[^c-223011ed219b7ce0ca17d4e425d21096]: Modification: S. 948 excluded by Capital Allowances 2001 (c. 2), s. 561A(2)(c) (as substituted (with effect in accordance with s. 1184(1) of the amending Act) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 361](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/361) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)))
 
-[^key-a39f81f7274b354ce0b4ccfc772cc1fa]: Textual amendment: S. 948(6)(za) inserted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/24)
+[^c-a39f81f7274b354ce0b4ccfc772cc1fa]: Textual amendment: S. 948(6)(za) inserted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/24)

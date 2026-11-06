@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 143. Application for a statement of entitlement[^key-cf685cec739fe686bf30babe248f9df6]
+## 143. Application for a statement of entitlement[^c-cf685cec739fe686bf30babe248f9df6]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf685cec739fe686bf30babe248f9df6]: Commencement: Reg. 143 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-cf685cec739fe686bf30babe248f9df6]: Commencement: Reg. 143 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

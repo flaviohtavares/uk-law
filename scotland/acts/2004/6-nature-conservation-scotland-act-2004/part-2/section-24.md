@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Amendment or revocation of nature conservation orders[^key-062b844bc78681eca92d9444ec946b99]
+## 24. Amendment or revocation of nature conservation orders[^c-062b844bc78681eca92d9444ec946b99]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-062b844bc78681eca92d9444ec946b99]: Commencement: S. 24 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-062b844bc78681eca92d9444ec946b99]: Commencement: S. 24 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

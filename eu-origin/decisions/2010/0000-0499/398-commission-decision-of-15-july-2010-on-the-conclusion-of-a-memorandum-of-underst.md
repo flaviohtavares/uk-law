@@ -35,66 +35,66 @@ on the conclusion of a Memorandum of Understanding between the European Commissi
 
 (2010/398/Euratom) (revoked)
 
-[^key-64f3a1936299ae0fe755535cd9618883]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64f3a1936299ae0fe755535cd9618883]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-64f3a1936299ae0fe755535cd9618883] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-64f3a1936299ae0fe755535cd9618883] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-64f3a1936299ae0fe755535cd9618883] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-64f3a1936299ae0fe755535cd9618883] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-64f3a1936299ae0fe755535cd9618883]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64f3a1936299ae0fe755535cd9618883]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-64f3a1936299ae0fe755535cd9618883]
+## ANNEX[^c-64f3a1936299ae0fe755535cd9618883]
 
-[^key-64f3a1936299ae0fe755535cd9618883]Memorandum of Understanding between the European Commission and the International Atomic Energy Agency concerning the EURDEP (European Radiological Data Exchange Platform)
+[^c-64f3a1936299ae0fe755535cd9618883]Memorandum of Understanding between the European Commission and the International Atomic Energy Agency concerning the EURDEP (European Radiological Data Exchange Platform)
 
-### Article 1. Purpose of this Memorandum of Understanding[^key-64f3a1936299ae0fe755535cd9618883]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Institutional arrangements[^key-64f3a1936299ae0fe755535cd9618883]
+### Article 1. Purpose of this Memorandum of Understanding[^c-64f3a1936299ae0fe755535cd9618883]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Specific areas of cooperation[^key-64f3a1936299ae0fe755535cd9618883]
+### Article 2. Institutional arrangements[^c-64f3a1936299ae0fe755535cd9618883]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Financial arrangements[^key-64f3a1936299ae0fe755535cd9618883]
+### Article 3. Specific areas of cooperation[^c-64f3a1936299ae0fe755535cd9618883]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Personnel[^key-64f3a1936299ae0fe755535cd9618883]
+### Article 4. Financial arrangements[^c-64f3a1936299ae0fe755535cd9618883]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Dissemination of information[^key-64f3a1936299ae0fe755535cd9618883]
+### Article 5. Personnel[^c-64f3a1936299ae0fe755535cd9618883]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Intellectual property[^key-64f3a1936299ae0fe755535cd9618883]
+### Article 6. Dissemination of information[^c-64f3a1936299ae0fe755535cd9618883]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Use of name, emblem or official seal[^key-64f3a1936299ae0fe755535cd9618883]
+### Article 7. Intellectual property[^c-64f3a1936299ae0fe755535cd9618883]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Privileges and immunities[^key-64f3a1936299ae0fe755535cd9618883]
+### Article 8. Use of name, emblem or official seal[^c-64f3a1936299ae0fe755535cd9618883]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Disputes[^key-64f3a1936299ae0fe755535cd9618883]
+### Article 9. Privileges and immunities[^c-64f3a1936299ae0fe755535cd9618883]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Commencement and end of cooperation and status[^key-64f3a1936299ae0fe755535cd9618883]
+### Article 10. Disputes[^c-64f3a1936299ae0fe755535cd9618883]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 11. Commencement and end of cooperation and status[^c-64f3a1936299ae0fe755535cd9618883]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-64f3a1936299ae0fe755535cd9618883]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-64f3a1936299ae0fe755535cd9618883]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

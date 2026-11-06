@@ -30,7 +30,7 @@ Local Government Act (Northern Ireland) 1966
 
 An Act to make further provision respecting local government areas and functions, including provision with regard to rating, water supplies and sewerage, the purchase and appropriation of land for local government purposes, and provision regarding local government contracts and superannuation; to amend the law with respect to the payment of certain grants by and to local authorities and with respect to certain matters of local government administration; to amend section 34 of and Schedule 4 to the New Towns Act (Northern Ireland) 1965; and for purposes connected with the matters aforesaid.
 
-\[22nd November 1966\][^key-262f42916b71bd36a90dfb65a872f9ce]
+\[22nd November 1966\][^c-262f42916b71bd36a90dfb65a872f9ce]
 
 ### Local government areas
 
@@ -172,7 +172,7 @@ An Act to make further provision respecting local government areas and functions
 
 ## Annotations
 
-[^key-262f42916b71bd36a90dfb65a872f9ce]: Modification: [Act](https://www.legislation.gov.uk/apni/1966/38): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-262f42916b71bd36a90dfb65a872f9ce]: Modification: [Act](https://www.legislation.gov.uk/apni/1966/38): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5446091]: Textual amendment: [1972 c.9 (NI)](https://www.legislation.gov.uk/apni/1972/9)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Amendment and saving of the Appeals (Excluded Decisions) Order 2009[^key-8aac4898653e20caab5e8fd38ab1a740][^M_I_341161e3-e805-4349-c084-88bc7121828c]
+## 35. Amendment and saving of the Appeals (Excluded Decisions) Order 2009[^c-8aac4898653e20caab5e8fd38ab1a740][^M_I_341161e3-e805-4349-c084-88bc7121828c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8aac4898653e20caab5e8fd38ab1a740]: Commencement: Reg. 35 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-8aac4898653e20caab5e8fd38ab1a740]: Commencement: Reg. 35 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_341161e3-e805-4349-c084-88bc7121828c]: Commencement: Reg. 35 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

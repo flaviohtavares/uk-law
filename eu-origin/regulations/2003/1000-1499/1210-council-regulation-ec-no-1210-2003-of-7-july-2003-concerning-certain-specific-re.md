@@ -77,701 +77,701 @@ of 7 July 2003
 
 concerning certain specific restrictions on economic and financial relations with Iraq and repealing Regulation (EC) No 2465/96 (revoked)
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4a.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4a.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 15.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15a.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 15a.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 16.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 16.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 17.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 17.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 18.**[^key-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 18.**[^c-ad59be4b5b2171a2f9e61561ddabf4d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-ad59be4b5b2171a2f9e61561ddabf4d4]
+## ANNEX I[^c-ad59be4b5b2171a2f9e61561ddabf4d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-ad59be4b5b2171a2f9e61561ddabf4d4]
+## ANNEX II[^c-ad59be4b5b2171a2f9e61561ddabf4d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — List of public bodies, corporations and agencies and natural and legal persons, bodies and entities of the previous government of Iraq referred to in Article 4[^key-ad59be4b5b2171a2f9e61561ddabf4d4]
+## ANNEX III — List of public bodies, corporations and agencies and natural and legal persons, bodies and entities of the previous government of Iraq referred to in Article 4[^c-ad59be4b5b2171a2f9e61561ddabf4d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — List of natural and legal persons, bodies or entities associated with the regime of former President Saddam Hussein referred to in Article 4(2), (3) and (4)[^key-ad59be4b5b2171a2f9e61561ddabf4d4]
+## ANNEX IV — List of natural and legal persons, bodies or entities associated with the regime of former President Saddam Hussein referred to in Article 4(2), (3) and (4)[^c-ad59be4b5b2171a2f9e61561ddabf4d4]
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]1.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]1.
 
 NAME: **Saddam Hussein Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]2.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]2.
 
 NAME: **Qusay Saddam Hussein Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]3.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]3.
 
 NAME: **Uday Saddam Hussein Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]4.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]4.
 
 NAME: **Abid Hamid Mahmud Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]5.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]5.
 
 NAME: **Ali Hassan Al-Majid Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]6.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]6.
 
 NAME: **Izzat Ibrahim al-Duri**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]7.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]7.
 
 NAME: **Hani Abd-Al-Latif Tilfah Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]8.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]8.
 
 NAME: **Aziz Salih al-Numan**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]9.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]9.
 
 NAME: **Muhammad Hamza Zubaidi**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]10.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]10.
 
 NAME: **Kamal Mustafa Abdallah**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]11.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]11.
 
 NAME: **Barzan Abd al-Ghafur Sulaiman Majid Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]12.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]12.
 
 NAME: **Muzahim Sa'b Hassan Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]13.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]13.
 
 NAME: **Ibrahim Ahmad Abd al-Sattar Muhammed Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]14.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]14.
 
 NAME: **Saif-al-Din Fulayyih Hassan Taha Al-Rawi**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]15.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]15.
 
 NAME: **Rafi Abd-al-Latif Tilfah Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]16.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]16.
 
 NAME: **Tahir Jalil Habbush Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]17.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]17.
 
 NAME: **Hamid Raja Shalah Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]18.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]18.
 
 NAME: **Latif Nusayyif Jasim Al-Dulaymi**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]19.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]19.
 
 NAME: **Abd-al-Tawwab Mullah Huwaysh**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]20.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]20.
 
 NAME: **Taha Yassin Ramadan Al-Jizrawi**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]21.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]21.
 
 NAME: **Rukan Razuki Abd-al-Ghafur Sulaiman Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]22.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]22.
 
 NAME: **Jamal Mustafa Abdallah Sultan Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]23.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]23.
 
 NAME: **Mizban Khadr Hadi**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]24.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]24.
 
 NAME: **Taha Muhyi-al-Din Ma'ruf**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]25.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]25.
 
 NAME: **Tariq Aziz**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]26.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]26.
 
 NAME: **Walid Hamid Tawfiq Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]27.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]27.
 
 NAME: **Sultan Hashim Ahmad Al-Ta'i**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]28.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]28.
 
 NAME: **Hikmat Mizban Ibrahim al-Azzawi**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]29.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]29.
 
 NAME: **Mahmud Dhiyab Al-Ahmed**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]30.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]30.
 
 NAME: **Ayad Futayyih Khalifa Al-Rawi**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]31.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]31.
 
 NAME: **Zuhair Talib Abd-al-Sattar Al-Naqib**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]32.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]32.
 
 NAME: **Amir Hamudi Hassan Al-Sa'di**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]33.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]33.
 
 NAME: **Amir Rashid Muhammad Al-Ubaidi**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]34.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]34.
 
 NAME: **Husam Muhammad Amin Al-Yassin**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]35.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]35.
 
 NAME: **Muhammad Mahdi Al-Salih**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]36.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]36.
 
 NAME: **Sab'awi Ibrahim Hassan Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]37.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]37.
 
 NAME: **Watban Ibrahim Hassan Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]38.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]38.
 
 NAME: **Barzan Ibrahim Hassan Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]39.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]39.
 
 NAME: **Huda Salih Mahdi Ammash**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]40.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]40.
 
 NAME: **Abd-al-Baqi Abd-al-Karim Abdallah Al-Sa'dun**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]41.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]41.
 
 NAME: **Muhammad Zimam Abd-al-Razzaq Al-Sa'dun**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]42.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]42.
 
 NAME: **Samir Abd al-Aziz Al-Najim**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]43.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]43.
 
 NAME: **Humam Abd-al-Khaliq Abd-al-Ghafur**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]44.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]44.
 
 NAME: **Yahia Abdallah Al-Ubaidi**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]45.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]45.
 
 NAME: **Nayif Shindakh Thamir Ghalib**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]46.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]46.
 
 NAME: **Saif-al-Din Al-Mashhadani**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]47.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]47.
 
 NAME: **Fadil Mahmud Gharib**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]48.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]48.
 
 NAME: **Muhsin Khadr Al-Khafaji**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]49.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]49.
 
 NAME: **Rashid Taan Kathim**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]50.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]50.
 
 NAME: **Ugla Abid Sakr Al-Zubaisi**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]51.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]51.
 
 NAME: **Ghazi Hammud Al-Ubaidi**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]52.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]52.
 
 NAME: **Adil Abdallah Mahdi**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]53.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]53.
 
 NAME: **Qaid Hussein Al-Awadi**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]54.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]54.
 
 NAME: **Khamis Sirhan Al-Muhammad**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]55.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]55.
 
 NAME: **Sa'd Abd-al-Majid Al-Faisal Al-Tikriti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]56.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]56.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]57.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]57.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]58.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]58.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]59.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]59.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]60.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]60.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]61.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]61.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]62.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]62.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]63.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]63.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]64.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]64.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]65.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]65.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]66.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]66.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]67.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]67.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]68.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]68.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]69.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]69.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]70.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]70.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]71.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]71.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]72.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]72.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]73.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]73.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]74.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]74.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]75.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]75.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]76.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]76.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]77.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]77.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]78.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]78.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]79.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]79.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]80.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]80.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]81.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]81.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]82.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]82.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]83.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]83.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]84.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]84.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]85.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]85.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]86.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]86.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]87.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]87.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]88.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]88.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]89.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]89.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]90.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]90.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]91.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]91.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]92.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]92.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]93.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]93.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]94.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]94.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]95.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]95.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]96.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]96.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]97.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]97.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]98.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]98.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]99.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]99.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]100.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]100.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]101.
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]101.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V — Websites for information on the competent authorities referred to in Articles 5, 6, 7 and 8 and address for notifications to the European Commission[^key-ad59be4b5b2171a2f9e61561ddabf4d4]
+## ANNEX V — Websites for information on the competent authorities referred to in Articles 5, 6, 7 and 8 and address for notifications to the European Commission[^c-ad59be4b5b2171a2f9e61561ddabf4d4]
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] BELGIUM
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] BELGIUM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] BULGARIA
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] BULGARIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] CZECH REPUBLIC
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] CZECH REPUBLIC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] DENMARK
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] DENMARK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] GERMANY
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] GERMANY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] ESTONIA
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] ESTONIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] IRELAND
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] IRELAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] GREECE
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] GREECE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] SPAIN
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] SPAIN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] FRANCE
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] FRANCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] CROATIA
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] CROATIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] ITALY
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] ITALY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] CYPRUS
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] CYPRUS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] LATVIA
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] LATVIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] LITHUANIA
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] LITHUANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] LUXEMBOURG
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] LUXEMBOURG
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] HUNGARY
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] HUNGARY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] MALTA
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] MALTA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] NETHERLANDS
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] NETHERLANDS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] AUSTRIA
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] AUSTRIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] POLAND
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] POLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] PORTUGAL
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] PORTUGAL
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] ROMANIA
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] ROMANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] SLOVENIA
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] SLOVENIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] SLOVAKIA
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] SLOVAKIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] FINLAND
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] FINLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] SWEDEN
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] SWEDEN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4] UNITED KINGDOM
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4] UNITED KINGDOM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]
 
 Address for notifications to the European Commission:
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]
 
 European Commission
 
@@ -785,4 +785,4 @@ E-mail: relex-sanctions@ec.europa.eu
 
 ## Annotations
 
-[^key-ad59be4b5b2171a2f9e61561ddabf4d4]: Textual amendment: Regulation revoked (31.12.2020) by [The Iraq (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/707)](https://www.legislation.gov.uk/uksi/2020/707), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/707/regulation/1/2), [68(1)](https://www.legislation.gov.uk/uksi/2020/707/regulation/68/1); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 14(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/14/2)
+[^c-ad59be4b5b2171a2f9e61561ddabf4d4]: Textual amendment: Regulation revoked (31.12.2020) by [The Iraq (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/707)](https://www.legislation.gov.uk/uksi/2020/707), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/707/regulation/1/2), [68(1)](https://www.legislation.gov.uk/uksi/2020/707/regulation/68/1); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 14(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/14/2)

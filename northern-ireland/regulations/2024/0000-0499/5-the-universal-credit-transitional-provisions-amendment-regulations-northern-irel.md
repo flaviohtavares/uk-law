@@ -44,11 +44,11 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 The powers are exercisable by the Department for Communities by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00003].
 
-## 1. Citation and commencement[^key-56db65c6f796ebb5aff272117a8ad1fb]
+## 1. Citation and commencement[^c-56db65c6f796ebb5aff272117a8ad1fb]
 
 These Regulations may be cited as the Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2024 and come into operation on 14th February 2024.
 
-## 2. Amendment of the Universal Credit (Transitional Provisions) Regulations[^key-54fad62ef2ae95a5c6fce3ef51b866a6]
+## 2. Amendment of the Universal Credit (Transitional Provisions) Regulations[^c-54fad62ef2ae95a5c6fce3ef51b866a6]
 
 (1) The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^f00004] are amended as follows.
 
@@ -126,9 +126,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: [S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927)
 
-[^key-56db65c6f796ebb5aff272117a8ad1fb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/5/regulation/1) in operation at 14.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/5/regulation/1)
+[^c-56db65c6f796ebb5aff272117a8ad1fb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/5/regulation/1) in operation at 14.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/5/regulation/1)
 
-[^key-54fad62ef2ae95a5c6fce3ef51b866a6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/5/regulation/2) in operation at 14.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/5/regulation/1)
+[^c-54fad62ef2ae95a5c6fce3ef51b866a6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/5/regulation/2) in operation at 14.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/5/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2016 No. 226](https://www.legislation.gov.uk/nisr/2016/226). Schedule 2 was substituted by [S.R. 2021 No. 2](https://www.legislation.gov.uk/nisr/2021/2) and amended by [S.R. 2023 No. 45](https://www.legislation.gov.uk/nisr/2023/45).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. The Councils of UKRI[^key-52bbf7d6f3f8c0bc40b3392da6f7fdc3]
+## 92. The Councils of UKRI[^c-52bbf7d6f3f8c0bc40b3392da6f7fdc3]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52bbf7d6f3f8c0bc40b3392da6f7fdc3]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2017/29/section/92) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)
+[^c-52bbf7d6f3f8c0bc40b3392da6f7fdc3]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2017/29/section/92) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)

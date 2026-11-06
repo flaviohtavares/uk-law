@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Statement of purpose[^key-cc1e5a34d716e87d1dfa1826605ca505]
+## 9. Statement of purpose[^c-cc1e5a34d716e87d1dfa1826605ca505]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc1e5a34d716e87d1dfa1826605ca505]: Commencement: Reg. 9 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-cc1e5a34d716e87d1dfa1826605ca505]: Commencement: Reg. 9 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
 [^f00015]: Footnote: Section 121 of the Care Standards Act 2000 defines “**parent**”, in relation to a child, as including any person who is not a parent of the child but who has parental responsibility for the child, and “**parental responsibility**” has the same meaning as in the Children Act 1989 (see section 3).

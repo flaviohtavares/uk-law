@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Withdrawal of local development plan[^c22542691][^key-3626f9b87888bdda86a104baf0023a38]
+## 13. Withdrawal of local development plan[^c22542691][^c-3626f9b87888bdda86a104baf0023a38]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ For section 66 of PCPA 2004 (withdrawal of local development plan) substitute—
 
 [^c22542691]: Commencement: S. 13 partly in force; s. 13 in force for specified purposes at 6.9.2015, see s. 58(2)(b)(4)(b)
 
-[^key-3626f9b87888bdda86a104baf0023a38]: Commencement: S. 13 in force at 4.1.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1987/article/3/c)
+[^c-3626f9b87888bdda86a104baf0023a38]: Commencement: S. 13 in force at 4.1.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1987/article/3/c)

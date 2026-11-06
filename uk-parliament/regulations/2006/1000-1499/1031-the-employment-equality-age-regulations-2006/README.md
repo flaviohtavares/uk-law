@@ -48,7 +48,7 @@ The Secretary of State, who is a Minister designated for the purposes of section
 
 ## Contents
 
-### PART 1 — GENERAL[^key-243510e0b548bcd9c64586078ce7656c]
+### PART 1 — GENERAL[^c-243510e0b548bcd9c64586078ce7656c]
 
 **No longer in force.**
 
@@ -59,7 +59,7 @@ The Secretary of State, who is a Minister designated for the purposes of section
 - [Section 5 — Instructions to discriminate](part-1/section-5.md)
 - [Section 6 — Harassment on grounds of age](part-1/section-6.md)
 
-### PART 2 — DISCRIMINATION IN EMPLOYMENT AND VOCATIONAL TRAINING[^key-243510e0b548bcd9c64586078ce7656c]
+### PART 2 — DISCRIMINATION IN EMPLOYMENT AND VOCATIONAL TRAINING[^c-243510e0b548bcd9c64586078ce7656c]
 
 **No longer in force.**
 
@@ -82,14 +82,14 @@ The Secretary of State, who is a Minister designated for the purposes of section
 - [Section 23 — Institutions of further and higher education](part-2/section-23.md)
 - [Section 24 — Relationships which have come to an end](part-2/section-24.md)
 
-### PART 3 — OTHER UNLAWFUL ACTS[^key-243510e0b548bcd9c64586078ce7656c]
+### PART 3 — OTHER UNLAWFUL ACTS[^c-243510e0b548bcd9c64586078ce7656c]
 
 **No longer in force.**
 
 - [Section 25 — Liability of employers and principals](part-3/section-25.md)
 - [Section 26 — Aiding unlawful acts](part-3/section-26.md)
 
-### PART 4 — GENERAL EXCEPTIONS FROM PARTS 2 AND 3[^key-243510e0b548bcd9c64586078ce7656c]
+### PART 4 — GENERAL EXCEPTIONS FROM PARTS 2 AND 3[^c-243510e0b548bcd9c64586078ce7656c]
 
 **No longer in force.**
 
@@ -102,7 +102,7 @@ The Secretary of State, who is a Minister designated for the purposes of section
 - [Section 33 — Exception for provision of enhanced redundancy payments to employees](part-4/section-33.md)
 - [Section 34 — Exception for provision of life assurance cover to retired workers](part-4/section-34.md)
 
-### PART 5 — ENFORCEMENT[^key-243510e0b548bcd9c64586078ce7656c]
+### PART 5 — ENFORCEMENT[^c-243510e0b548bcd9c64586078ce7656c]
 
 **No longer in force.**
 
@@ -115,7 +115,7 @@ The Secretary of State, who is a Minister designated for the purposes of section
 - [Section 41 — Help for persons in obtaining information etc](part-5/section-41.md)
 - [Section 42 — Period within which proceedings to be brought](part-5/section-42.md)
 
-### PART 6 — SUPPLEMENTAL[^key-243510e0b548bcd9c64586078ce7656c]
+### PART 6 — SUPPLEMENTAL[^c-243510e0b548bcd9c64586078ce7656c]
 
 **No longer in force.**
 
@@ -173,4 +173,4 @@ A full Regulatory Impact Assessment report of the effect that these Regulations 
 
 [^c15463701]: Marginal citation: [See the European Communities (Designation) (No. 3) Order 2002 (S.I. 2002/1819)](https://www.legislation.gov.uk/uksi/2002/1819).
 
-[^key-243510e0b548bcd9c64586078ce7656c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/1031) revoked (except Schs. 6, 8) (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 27 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/2) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(f)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/f) (with [arts. 11(1)](https://www.legislation.gov.uk/uksi/2010/2317/article/11/1), [15](https://www.legislation.gov.uk/uksi/2010/2317/article/15), [16](https://www.legislation.gov.uk/uksi/2010/2317/article/16), [20](https://www.legislation.gov.uk/uksi/2010/2317/article/20), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/2317/schedule/3))
+[^c-243510e0b548bcd9c64586078ce7656c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/1031) revoked (except Schs. 6, 8) (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 27 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/2) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(f)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/f) (with [arts. 11(1)](https://www.legislation.gov.uk/uksi/2010/2317/article/11/1), [15](https://www.legislation.gov.uk/uksi/2010/2317/article/15), [16](https://www.legislation.gov.uk/uksi/2010/2317/article/16), [20](https://www.legislation.gov.uk/uksi/2010/2317/article/20), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/2317/schedule/3))

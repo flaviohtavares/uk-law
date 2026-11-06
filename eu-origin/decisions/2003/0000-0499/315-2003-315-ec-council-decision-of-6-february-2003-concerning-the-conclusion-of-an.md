@@ -31,10 +31,10 @@ summary: ''
 
 of 6 February 2003 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and Malta adding a Protocol on mutual administrative assistance in customs matters to the Agreement establishing an association between the European Economic Community and Malta (revoked)
 
-[^key-de58563d98943b4b9161971f213c8910]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de58563d98943b4b9161971f213c8910]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-de58563d98943b4b9161971f213c8910] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-de58563d98943b4b9161971f213c8910] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de58563d98943b4b9161971f213c8910]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de58563d98943b4b9161971f213c8910]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

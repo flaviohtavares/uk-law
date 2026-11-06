@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE
 
-The Beef Carcase (Classification) (Scotland) Amendment Regulations 2006 (revoked)[^key-ecc976386e1c7ee0d90d1646ac4c23e7]
+The Beef Carcase (Classification) (Scotland) Amendment Regulations 2006 (revoked)[^c-ecc976386e1c7ee0d90d1646ac4c23e7]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 31st March 2006
 
-[^key-ecc976386e1c7ee0d90d1646ac4c23e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecc976386e1c7ee0d90d1646ac4c23e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ecc976386e1c7ee0d90d1646ac4c23e7]
+## 1. Citation and commencement[^c-ecc976386e1c7ee0d90d1646ac4c23e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Beef Carcase (Classification) (Scotland) Regulations 2004[^key-ecc976386e1c7ee0d90d1646ac4c23e7]
+## 2. Amendment of the Beef Carcase (Classification) (Scotland) Regulations 2004[^c-ecc976386e1c7ee0d90d1646ac4c23e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ecc976386e1c7ee0d90d1646ac4c23e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecc976386e1c7ee0d90d1646ac4c23e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ecc976386e1c7ee0d90d1646ac4c23e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecc976386e1c7ee0d90d1646ac4c23e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ecc976386e1c7ee0d90d1646ac4c23e7]: Textual amendment: Regulations revoked (9.10.2010) by [The Beef and Pig Carcase Classification (Scotland) Regulations 2010 (S.S.I. 2010/330)](https://www.legislation.gov.uk/ssi/2010/330), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/330/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2010/330/schedule/5)
+[^c-ecc976386e1c7ee0d90d1646ac4c23e7]: Textual amendment: Regulations revoked (9.10.2010) by [The Beef and Pig Carcase Classification (Scotland) Regulations 2010 (S.S.I. 2010/330)](https://www.legislation.gov.uk/ssi/2010/330), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/330/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2010/330/schedule/5)

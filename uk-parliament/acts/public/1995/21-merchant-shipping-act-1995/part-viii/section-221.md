@@ -30,13 +30,13 @@ which are used or applied for the purposes of any of the services for which thos
 
 (2) All instruments used by or under the direction of any general lighthouse authority in carrying on those services shall be exempt from stamp duty.
 
-(2A)[^key-bbdaa4125364de57c9b443c5c18be809] For the purposes of stamp duty land tax, any land transaction entered into by or under the direction of any general lighthouse authority for the purposes of carrying on those services is exempt from charge.
+(2A)[^c-bbdaa4125364de57c9b443c5c18be809] For the purposes of stamp duty land tax, any land transaction entered into by or under the direction of any general lighthouse authority for the purposes of carrying on those services is exempt from charge.
 
 (3) Stamp duty shall not be chargeable on any proposals under Schedule 9.
 
 (4) All instruments used by or under the direction of the Secretary of State in carrying this Part into effect shall be exempt from stamp duty.
 
-(4A)[^key-7257cc6171f84f6b3ba579f03d3a297e] For the purposes of stamp duty land tax, any land transaction entered into by or under the direction of the Secretary of State for the purposes of carrying this Part into effect is exempt from charge.
+(4A)[^c-7257cc6171f84f6b3ba579f03d3a297e] For the purposes of stamp duty land tax, any land transaction entered into by or under the direction of the Secretary of State for the purposes of carrying this Part into effect is exempt from charge.
 
 (4B) Relief under subsection (2A) or subsection (4A) must be claimed in a land transaction return or an amendment of such a return.
 
@@ -49,6 +49,6 @@ which are used or applied for the purposes of any of the services for which thos
 
 ## Annotations
 
-[^key-bbdaa4125364de57c9b443c5c18be809]: Textual amendment: S. 221(2A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 24(2)](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/24/2)
+[^c-bbdaa4125364de57c9b443c5c18be809]: Textual amendment: S. 221(2A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 24(2)](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/24/2)
 
-[^key-7257cc6171f84f6b3ba579f03d3a297e]: Textual amendment: S. 221(4A)-(4C) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 24(3)](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/24/3)
+[^c-7257cc6171f84f6b3ba579f03d3a297e]: Textual amendment: S. 221(4A)-(4C) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 24(3)](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/24/3)

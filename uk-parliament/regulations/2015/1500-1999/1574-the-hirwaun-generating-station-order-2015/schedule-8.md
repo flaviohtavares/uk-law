@@ -22,7 +22,7 @@ summary: ''
 
 Article 38
 
-### 1. Applications made under requirements[^key-72247e5df15f3f136333be7fb900708d]
+### 1. Applications made under requirements[^c-72247e5df15f3f136333be7fb900708d]
 
 (1) Where an application has been made to the relevant planning authority for any consent, agreement or approval required by an article or requirement (including agreement or approval in respect of part of an article or requirement) included in this Order the relevant planning authority must give notice to the undertaker of their decision on the application within a period of eight (8) weeks beginning with—
 
@@ -48,7 +48,7 @@ then the application is to be taken to have been refused by the relevant plannin
 
 (7) Where an application is made to the relevant planning authority for any consent, agreement or approval required by an article or requirement included in this Order and the relevant planning authority intends to consult Brecon Beacons National Park Authority or Natural Resources Wales in relation to that application the undertaker must as soon reasonable practicable comply with any direction from the relevant planning authority to provide a copy of the materials provided in support of the application to each body specified in the direction.
 
-### 2. Further information[^key-768431781e0488ddc068be35214cd292]
+### 2. Further information[^c-768431781e0488ddc068be35214cd292]
 
 (1) In relation to any part of the application to which this Schedule applies, the relevant planning authority has the right to request such further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -56,7 +56,7 @@ then the application is to be taken to have been refused by the relevant plannin
 
 (3) Where further information is requested under this paragraph 2 in relation to part only of an application, that part is to be treated as separate from the remainder of the application for the purposes of calculating time periods in paragraph 1(1)(b), paragraph 1(3) and paragraph 2.
 
-### 3. Appeals[^key-52982b483a1adc3e0572ddca1c6d7450]
+### 3. Appeals[^c-52982b483a1adc3e0572ddca1c6d7450]
 
 (1) The undertaker may appeal in the event that—
 
@@ -99,8 +99,8 @@ and may deal with the application as if it had been made to him in the first ins
 
 ## Annotations
 
-[^key-72247e5df15f3f136333be7fb900708d]: Commencement: Sch. 8 para. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-72247e5df15f3f136333be7fb900708d]: Commencement: Sch. 8 para. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-768431781e0488ddc068be35214cd292]: Commencement: Sch. 8 para. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-768431781e0488ddc068be35214cd292]: Commencement: Sch. 8 para. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-52982b483a1adc3e0572ddca1c6d7450]: Commencement: Sch. 8 para. 3 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-52982b483a1adc3e0572ddca1c6d7450]: Commencement: Sch. 8 para. 3 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)

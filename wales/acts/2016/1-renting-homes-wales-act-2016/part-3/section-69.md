@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Form of transfer[^key-1e5619de2fe371e11d09aa4fcf85e775]
+## 69. Form of transfer[^c-1e5619de2fe371e11d09aa4fcf85e775]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e5619de2fe371e11d09aa4fcf85e775]: Commencement: [S. 69](https://www.legislation.gov.uk/anaw/2016/1/section/69) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-1e5619de2fe371e11d09aa4fcf85e775]: Commencement: [S. 69](https://www.legislation.gov.uk/anaw/2016/1/section/69) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

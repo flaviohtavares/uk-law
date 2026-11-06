@@ -45,8 +45,8 @@ has a material interest in the company.
 - (b) possession of, or entitlement to acquire, rights entitling the holder to receive more than 5% of any distributions that may be made by the company; or
 - (c) where the company is a close company, possession of, or entitlement to acquire, rights that would in the event of the winding up of the company, or in any other circumstances, entitle the holder to receive more than 5% of the assets that would then be available for distribution among the participators.
 
-(5) In subsection (4)(c) “**participator**” has the meaning given by section 454 of CTA 2010[^key-d8bf020b92ce6c0cc9db695add5dd008].
+(5) In subsection (4)(c) “**participator**” has the meaning given by section 454 of CTA 2010[^c-d8bf020b92ce6c0cc9db695add5dd008].
 
 ## Annotations
 
-[^key-d8bf020b92ce6c0cc9db695add5dd008]: Textual amendment: Words in s. 51(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 380](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/380) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d8bf020b92ce6c0cc9db695add5dd008]: Textual amendment: Words in s. 51(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 380](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/380) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

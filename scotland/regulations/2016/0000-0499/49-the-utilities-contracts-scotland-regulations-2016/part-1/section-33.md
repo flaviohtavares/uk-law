@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Procedure for establishing whether regulation 32(2)(b) is applicable[^key-4f41fce9328d2db24a30611c309dab02]
+## 33. Procedure for establishing whether regulation 32(2)(b) is applicable[^c-4f41fce9328d2db24a30611c309dab02]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f41fce9328d2db24a30611c309dab02]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/ssi/2016/49/regulation/33) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(21)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/21) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-4f41fce9328d2db24a30611c309dab02]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/ssi/2016/49/regulation/33) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(21)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/21) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

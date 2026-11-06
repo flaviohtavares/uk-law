@@ -26,11 +26,11 @@ summary: ''
 >
 > (1) The designated members of an LLP that qualifies as a medium-sized LLP in relation to a financial year (see sections 465 to 467) must deliver a copy of the LLP's annual accounts to the registrar.
 >
-> (2) They must also deliver to the registrar a copy of the auditor's report on those accounts. This does not apply if the[^key-cc5ed5650697abac8640a262fb637386] LLP is exempt from audit and the members have taken advantage of that exemption.
+> (2) They must also deliver to the registrar a copy of the auditor's report on those accounts. This does not apply if the[^c-cc5ed5650697abac8640a262fb637386] LLP is exempt from audit and the members have taken advantage of that exemption.
 >
-> (3)[^key-5abc49a06d18fa7f106daa54c7e8ea6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (3)[^c-5abc49a06d18fa7f106daa54c7e8ea6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (4)[^key-5abc49a06d18fa7f106daa54c7e8ea6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (4)[^c-5abc49a06d18fa7f106daa54c7e8ea6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > (5) The copy of the balance sheet delivered to the registrar under this section must state the name of the person who signed it on behalf of the members.
 >
@@ -39,7 +39,7 @@ summary: ''
 > - (a) state the name of the auditor and (where the auditor is a firm) the name of the person who signed it as senior statutory auditor, or
 > - (b) if the conditions in section 506 (circumstances in which names may be omitted) are met, state that a determination has been made and notified to the Secretary of State in accordance with that section.
 >
-> (6A)[^key-edff256c25eaf55497df8af9037eb16e] If more than one person is appointed as auditor, the reference in subsection (6)(a) to the name of the auditor is to be read as a reference to the names of all the auditors.
+> (6A)[^c-edff256c25eaf55497df8af9037eb16e] If more than one person is appointed as auditor, the reference in subsection (6)(a) to the name of the auditor is to be read as a reference to the names of all the auditors.
 >
 > (7) This section does not apply to LLPs within section 444 (filing obligations of LLPs subject to the small LLPs regime).
 
@@ -61,8 +61,8 @@ summary: ''
 
 [^c19348761]: Marginal citation: Section 445 was amended by regulation 6(8) of [S.I. 2008/393](https://www.legislation.gov.uk/uksi/2008/393) in manner not relevant to these Regulations.
 
-[^key-cc5ed5650697abac8640a262fb637386]: Textual amendment: Words in reg. 18 inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2016/575/regulation/13/2/a)
+[^c-cc5ed5650697abac8640a262fb637386]: Textual amendment: Words in reg. 18 inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2016/575/regulation/13/2/a)
 
-[^key-5abc49a06d18fa7f106daa54c7e8ea6f]: Textual amendment: Words in reg. 18 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2016/575/regulation/13/2/b)
+[^c-5abc49a06d18fa7f106daa54c7e8ea6f]: Textual amendment: Words in reg. 18 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2016/575/regulation/13/2/b)
 
-[^key-edff256c25eaf55497df8af9037eb16e]: Textual amendment: Words in reg. 18 inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/6) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-edff256c25eaf55497df8af9037eb16e]: Textual amendment: Words in reg. 18 inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/6) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

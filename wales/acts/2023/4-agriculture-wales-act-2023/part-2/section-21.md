@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Declaration relating to exceptional market conditions[^key-caf62db35ccfeeb786df53d57efbaa3d][^key-cbe85501824d1f451b2784cadcd0f786]
+## 21. Declaration relating to exceptional market conditions[^c-caf62db35ccfeeb786df53d57efbaa3d][^c-cbe85501824d1f451b2784cadcd0f786]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-caf62db35ccfeeb786df53d57efbaa3d]: Commencement: S. 21 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
+[^c-caf62db35ccfeeb786df53d57efbaa3d]: Commencement: S. 21 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
 
-[^key-cbe85501824d1f451b2784cadcd0f786]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2023/4/section/21) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/a)
+[^c-cbe85501824d1f451b2784cadcd0f786]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2023/4/section/21) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/a)

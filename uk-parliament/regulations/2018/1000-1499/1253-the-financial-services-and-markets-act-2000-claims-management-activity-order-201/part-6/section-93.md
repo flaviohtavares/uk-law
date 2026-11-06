@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 93. Compensation Act 2006[^key-f07c3681fdde16377de5722ae0ee9c7f][^key-ce5ea9bb315e19036306256bc6717166]
+## 93. Compensation Act 2006[^c-f07c3681fdde16377de5722ae0ee9c7f][^c-ce5ea9bb315e19036306256bc6717166]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Omit Part 2 of the Compensation Act 2006.
 
 ## Annotations
 
-[^key-f07c3681fdde16377de5722ae0ee9c7f]: Commencement: Art. 93 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-f07c3681fdde16377de5722ae0ee9c7f]: Commencement: Art. 93 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-ce5ea9bb315e19036306256bc6717166]: Commencement: [Art. 93](https://www.legislation.gov.uk/uksi/2018/1253/article/93) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-ce5ea9bb315e19036306256bc6717166]: Commencement: [Art. 93](https://www.legislation.gov.uk/uksi/2018/1253/article/93) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

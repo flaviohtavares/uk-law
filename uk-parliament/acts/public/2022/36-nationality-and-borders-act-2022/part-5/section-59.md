@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Late compliance with slavery or trafficking information notice: damage to credibility[^key-fd0810cb8fe67e6340cc0a461e56b6ea]
+## 59. Late compliance with slavery or trafficking information notice: damage to credibility[^c-fd0810cb8fe67e6340cc0a461e56b6ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd0810cb8fe67e6340cc0a461e56b6ea]: Commencement: S. 59 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-fd0810cb8fe67e6340cc0a461e56b6ea]: Commencement: S. 59 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

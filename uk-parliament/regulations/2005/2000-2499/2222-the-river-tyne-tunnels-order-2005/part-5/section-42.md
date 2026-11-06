@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Power to charge tolls[^key-b1e86f15c466d09223a73040807bb235]
+## 42. Power to charge tolls[^c-b1e86f15c466d09223a73040807bb235]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 (8) The undertaker may enter into agreements under which persons make payments in advance, on such terms as may be agreed, with respect to tolls for use of the existing tunnels or the new tunnel by those or other persons or by any vehicles.
 
-(9) Agreements under paragraph (8) may relate to use on an agreed number of occasions or during an agreed period and may allow discounts for advance payment[^key-a809b0886f6f7bc951c7a762dd7d0eb7].
+(9) Agreements under paragraph (8) may relate to use on an agreed number of occasions or during an agreed period and may allow discounts for advance payment[^c-a809b0886f6f7bc951c7a762dd7d0eb7].
 
 (10) Tolls and charges may not be charged in respect of—
 
@@ -47,8 +47,8 @@ summary: ''
 - (b) a vehicle being used for police purposes;
 - (c) a vehicle exempt from duty under the Vehicles Excise and Registration Act 1994 by virtue of section 7(4) of that Act (civil defence vehicles);
 - (d) a vehicle exempt from duty under the Vehicles Excise and Registration Act 1994 under paragraphs 6 to 8 of Schedule 2 to that Act (ambulances);
-- (da)[^key-6acc96fc9590109430a7284d80ba762e] a vehicle being used for coastguard purposes;
-- (e)[^key-75e6aac6826064ba9cdf5835ed163e77] a vehicle which is registered as exempt in accordance with a scheme provided for in byelaws under article 41(3)(c) for the registration of vehicles by or on behalf of disabled persons;
+- (da)[^c-6acc96fc9590109430a7284d80ba762e] a vehicle being used for coastguard purposes;
+- (e)[^c-75e6aac6826064ba9cdf5835ed163e77] a vehicle which is registered as exempt in accordance with a scheme provided for in byelaws under article 41(3)(c) for the registration of vehicles by or on behalf of disabled persons;
 - (f) a vehicle being used in connection with—
   - (i) the collection of tolls; or
   - (ii) the maintenance, improvement or renewal of, or other dealing with, the tunnel crossing or or any structure, works or apparatus in, on, under or over any of the tunnel crossing;
@@ -73,17 +73,17 @@ summary: ''
 
 ## Annotations
 
-[^key-b1e86f15c466d09223a73040807bb235]: Commencement: Art. 42 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-b1e86f15c466d09223a73040807bb235]: Commencement: Art. 42 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
-[^key-a809b0886f6f7bc951c7a762dd7d0eb7]: Textual amendment: Words in [art. 42(9)](https://www.legislation.gov.uk/uksi/2005/2222/article/42/9) inserted (28.2.2023) by [The River Tyne (Tunnels) (Modification) Order 2023 (S.I. 2023/139)](https://www.legislation.gov.uk/uksi/2023/139), [arts. 1](https://www.legislation.gov.uk/uksi/2023/139/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/139/article/2/3/a)
+[^c-a809b0886f6f7bc951c7a762dd7d0eb7]: Textual amendment: Words in [art. 42(9)](https://www.legislation.gov.uk/uksi/2005/2222/article/42/9) inserted (28.2.2023) by [The River Tyne (Tunnels) (Modification) Order 2023 (S.I. 2023/139)](https://www.legislation.gov.uk/uksi/2023/139), [arts. 1](https://www.legislation.gov.uk/uksi/2023/139/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/139/article/2/3/a)
 
 [^f00028]: Footnote: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21).
 
 [^f00029]: Footnote: [1994 c. 42](https://www.legislation.gov.uk/ukpga/1994/42), as amended by the Fire and Rescue Services Act 2004.
 
-[^key-6acc96fc9590109430a7284d80ba762e]: Textual amendment: [Art. 42(10)(da)](https://www.legislation.gov.uk/uksi/2005/2222/article/42/10/da) inserted (28.2.2023) by [The River Tyne (Tunnels) (Modification) Order 2023 (S.I. 2023/139)](https://www.legislation.gov.uk/uksi/2023/139), [arts. 1](https://www.legislation.gov.uk/uksi/2023/139/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/139/article/2/3/b)
+[^c-6acc96fc9590109430a7284d80ba762e]: Textual amendment: [Art. 42(10)(da)](https://www.legislation.gov.uk/uksi/2005/2222/article/42/10/da) inserted (28.2.2023) by [The River Tyne (Tunnels) (Modification) Order 2023 (S.I. 2023/139)](https://www.legislation.gov.uk/uksi/2023/139), [arts. 1](https://www.legislation.gov.uk/uksi/2023/139/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/139/article/2/3/b)
 
-[^key-75e6aac6826064ba9cdf5835ed163e77]: Textual amendment: [Art. 42(10)(e)](https://www.legislation.gov.uk/uksi/2005/2222/article/42/10/e) substituted (28.2.2023) by [The River Tyne (Tunnels) (Modification) Order 2023 (S.I. 2023/139)](https://www.legislation.gov.uk/uksi/2023/139), [arts. 1](https://www.legislation.gov.uk/uksi/2023/139/article/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2023/139/article/2/3/c)
+[^c-75e6aac6826064ba9cdf5835ed163e77]: Textual amendment: [Art. 42(10)(e)](https://www.legislation.gov.uk/uksi/2005/2222/article/42/10/e) substituted (28.2.2023) by [The River Tyne (Tunnels) (Modification) Order 2023 (S.I. 2023/139)](https://www.legislation.gov.uk/uksi/2023/139), [arts. 1](https://www.legislation.gov.uk/uksi/2023/139/article/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2023/139/article/2/3/c)
 
 [^f00032]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
 

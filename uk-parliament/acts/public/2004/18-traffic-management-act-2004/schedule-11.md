@@ -24,7 +24,7 @@ Section 91
 
 ### Road Traffic Regulation Act 1984
 
-**1.**[^key-b9e4c71049f8ab99611207b662c60e76][^key-be73a57b3a91640b8b9b0e9d099db4ee] (1) Section 46 of the Road Traffic Regulation Act 1984 (c. 27) (charges at, and regulation of, designated parking places) is amended as follows.
+**1.**[^c-b9e4c71049f8ab99611207b662c60e76][^c-be73a57b3a91640b8b9b0e9d099db4ee] (1) Section 46 of the Road Traffic Regulation Act 1984 (c. 27) (charges at, and regulation of, designated parking places) is amended as follows.
 
 (2) In subsection (1) after “outside Greater London” insert “ , and not in a civil enforcement area for parking contraventions, ”.
 
@@ -36,7 +36,7 @@ Section 91
 
 .
 
-**2.**[^key-a01c12e08be06a9fc6a592b639e2ed1a][^key-0a384e1a71db596aadf48e9c5102027d] In section 63A of the Road Traffic Regulation Act 1984 (parking attendants), for subsection (4) (requirement to wear uniform) substitute—
+**2.**[^c-a01c12e08be06a9fc6a592b639e2ed1a][^c-0a384e1a71db596aadf48e9c5102027d] In section 63A of the Road Traffic Regulation Act 1984 (parking attendants), for subsection (4) (requirement to wear uniform) substitute—
 
 > (4) Parking attendants in an area that is a civil enforcement area for parking contraventions—
 >
@@ -47,7 +47,7 @@ Section 91
 
 .
 
-**3.**[^key-fae70d7181077ed10734bfb609d5daec][^key-8d6ce4c5d30c6014d42a9d3b9cb977bf][^key-7f0cbe53f985a4beff8bf4c3a6558095] (1) In section 101 of the Road Traffic Regulation Act 1984 (disposal of vehicles removed under that Act)—
+**3.**[^c-fae70d7181077ed10734bfb609d5daec][^c-8d6ce4c5d30c6014d42a9d3b9cb977bf][^c-7f0cbe53f985a4beff8bf4c3a6558095] (1) In section 101 of the Road Traffic Regulation Act 1984 (disposal of vehicles removed under that Act)—
 
 - (a) in subsection (1) (power of competent authority to dispose of vehicle) for “Subject to subsections (3) to (5A) below” substitute “ Subject to subsection (3) and section 101A below ”;
 - (b) omit subsections (4) to (6) (right of owner to recover vehicle or proceeds of sale).
@@ -114,7 +114,7 @@ Section 91
 
 .
 
-**4.**[^key-786d0f95d92eed0098f78c65bd654c10][^key-b1acb2f603e6a1743b6edf4b6a76ae6b] (1) Section 102 of the Road Traffic Regulation Act 1984 (c. 27) (charges for removal, storage and disposal of vehicles) is amended as follows.
+**4.**[^c-786d0f95d92eed0098f78c65bd654c10][^c-b1acb2f603e6a1743b6edf4b6a76ae6b] (1) Section 102 of the Road Traffic Regulation Act 1984 (c. 27) (charges for removal, storage and disposal of vehicles) is amended as follows.
 
 (2) For subsection (2) (recovery of charges) substitute—
 
@@ -138,7 +138,7 @@ Section 91
 
 ### Tribunals and Inquiries Act 1992
 
-**5.**[^key-f35111f2cceb287f62d879c71648fa3d][^key-7d20de5b27656f0f8c935564f69ea01c] In Part 1 of Schedule 1 to the Tribunals and Inquiries Act 1992 (c. 53) (tribunals under direct supervision of Council on Tribunals), in paragraph 40 (road traffic) for sub-paragraph (b) substitute—
+**5.**[^c-f35111f2cceb287f62d879c71648fa3d][^c-7d20de5b27656f0f8c935564f69ea01c] In Part 1 of Schedule 1 to the Tribunals and Inquiries Act 1992 (c. 53) (tribunals under direct supervision of Council on Tribunals), in paragraph 40 (road traffic) for sub-paragraph (b) substitute—
 
 > - (b) an adjudicator appointed for the purposes of Part 6 of the Traffic Management Act 2004 (civil enforcement of road traffic contraventions).
 
@@ -146,7 +146,7 @@ Section 91
 
 ### London Local Authorities Act 1995
 
-**6.**[^key-07cb790e8cdc8b71926d0744f7ac4c19] In the London Local Authorities Act 1995 (c. x)—
+**6.**[^c-07cb790e8cdc8b71926d0744f7ac4c19] In the London Local Authorities Act 1995 (c. x)—
 
 - (a) in section 2 (interpretation), for the definition of “special parking area” substitute—
 
@@ -157,7 +157,7 @@ Section 91
 
 ### London Local Authorities and Transport for London Act 2003
 
-**7.**[^key-c82576e533a9fba57873474ef228f24d] In section 20 of the London Local Authorities and Transport for London Act 2003 (c. iii) (disclosure of information about identity of owner of vehicle), in subsection (2) (enactments for purposes of which disclosure may be made) for paragraphs (b) to (d) substitute—
+**7.**[^c-c82576e533a9fba57873474ef228f24d] In section 20 of the London Local Authorities and Transport for London Act 2003 (c. iii) (disclosure of information about identity of owner of vehicle), in subsection (2) (enactments for purposes of which disclosure may be made) for paragraphs (b) to (d) substitute—
 
 > - (b) Part 6 of the Traffic Management Act 2004 (civil enforcement of road traffic contraventions).
 
@@ -165,28 +165,28 @@ Section 91
 
 ## Annotations
 
-[^key-b9e4c71049f8ab99611207b662c60e76]: Commencement: Sch. 11 para. 1 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-b9e4c71049f8ab99611207b662c60e76]: Commencement: Sch. 11 para. 1 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
 
-[^key-be73a57b3a91640b8b9b0e9d099db4ee]: Commencement: Sch. 11 para. 1 in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
+[^c-be73a57b3a91640b8b9b0e9d099db4ee]: Commencement: Sch. 11 para. 1 in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
 
-[^key-a01c12e08be06a9fc6a592b639e2ed1a]: Commencement: Sch. 11 para. 2 in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
+[^c-a01c12e08be06a9fc6a592b639e2ed1a]: Commencement: Sch. 11 para. 2 in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
 
-[^key-0a384e1a71db596aadf48e9c5102027d]: Commencement: Sch. 11 para. 2 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1), (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-0a384e1a71db596aadf48e9c5102027d]: Commencement: Sch. 11 para. 2 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1), (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
 
-[^key-fae70d7181077ed10734bfb609d5daec]: Commencement: Sch. 11 para. 3 in force at 23.7.2007 for specified purposes for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1), [2(2)(i)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/2/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-fae70d7181077ed10734bfb609d5daec]: Commencement: Sch. 11 para. 3 in force at 23.7.2007 for specified purposes for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1), [2(2)(i)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/2/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
 
-[^key-8d6ce4c5d30c6014d42a9d3b9cb977bf]: Commencement: Sch. 11 para. 3 in force at 31.3.2008 for E. in so far as not already in force by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-8d6ce4c5d30c6014d42a9d3b9cb977bf]: Commencement: Sch. 11 para. 3 in force at 31.3.2008 for E. in so far as not already in force by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
 
-[^key-7f0cbe53f985a4beff8bf4c3a6558095]: Commencement: Sch. 11 para. 3 in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
+[^c-7f0cbe53f985a4beff8bf4c3a6558095]: Commencement: Sch. 11 para. 3 in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
 
-[^key-786d0f95d92eed0098f78c65bd654c10]: Commencement: Sch. 11 para. 4 in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
+[^c-786d0f95d92eed0098f78c65bd654c10]: Commencement: Sch. 11 para. 4 in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
 
-[^key-b1acb2f603e6a1743b6edf4b6a76ae6b]: Commencement: Sch. 11 para. 4 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-b1acb2f603e6a1743b6edf4b6a76ae6b]: Commencement: Sch. 11 para. 4 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
 
-[^key-f35111f2cceb287f62d879c71648fa3d]: Commencement: Sch. 11 para. 5 in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
+[^c-f35111f2cceb287f62d879c71648fa3d]: Commencement: Sch. 11 para. 5 in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
 
-[^key-7d20de5b27656f0f8c935564f69ea01c]: Commencement: Sch. 11 para. 5 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-7d20de5b27656f0f8c935564f69ea01c]: Commencement: Sch. 11 para. 5 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
 
-[^key-07cb790e8cdc8b71926d0744f7ac4c19]: Commencement: Sch. 11 para. 6 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-07cb790e8cdc8b71926d0744f7ac4c19]: Commencement: Sch. 11 para. 6 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
 
-[^key-c82576e533a9fba57873474ef228f24d]: Commencement: Sch. 11 para. 7 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-c82576e533a9fba57873474ef228f24d]: Commencement: Sch. 11 para. 7 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)

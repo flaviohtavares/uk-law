@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Trade: overlapping offences[^key-f2f626cad5557685326ca9270e3fd744][^key-b314b1f824fe3ca290846d920b0647c9]
+## 66. Trade: overlapping offences[^c-f2f626cad5557685326ca9270e3fd744][^c-b314b1f824fe3ca290846d920b0647c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ A person is not to be taken to commit an offence under the Export Control Order 
 
 ## Annotations
 
-[^key-f2f626cad5557685326ca9270e3fd744]: Commencement: Reg. 66 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-f2f626cad5557685326ca9270e3fd744]: Commencement: Reg. 66 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-b314b1f824fe3ca290846d920b0647c9]: Commencement: Reg. 66 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b314b1f824fe3ca290846d920b0647c9]: Commencement: Reg. 66 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

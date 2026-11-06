@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Application of surplus income from parking places[^key-ad41a3b3a669146aa5c378749293afb4][^key-fd9ee97d1fa12a7dc68992d5a0425fc6]
+## 95. Application of surplus income from parking places[^c-ad41a3b3a669146aa5c378749293afb4][^c-fd9ee97d1fa12a7dc68992d5a0425fc6]
 
 *Extent: E+W*
 
@@ -49,12 +49,12 @@ summary: ''
 
 .
 
-(4)[^key-5e6d21710c52a2c8d847c83a4ea34911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5e6d21710c52a2c8d847c83a4ea34911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad41a3b3a669146aa5c378749293afb4]: Commencement: S. 95 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/f)
+[^c-ad41a3b3a669146aa5c378749293afb4]: Commencement: S. 95 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/f)
 
-[^key-fd9ee97d1fa12a7dc68992d5a0425fc6]: Commencement: S. 95 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/d)
+[^c-fd9ee97d1fa12a7dc68992d5a0425fc6]: Commencement: S. 95 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/d)
 
-[^key-5e6d21710c52a2c8d847c83a4ea34911]: Textual amendment: [S. 95(4)](https://www.legislation.gov.uk/ukpga/2004/18/section/95/4) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 123(a)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/123/a); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-5e6d21710c52a2c8d847c83a4ea34911]: Textual amendment: [S. 95(4)](https://www.legislation.gov.uk/ukpga/2004/18/section/95/4) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 123(a)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/123/a); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)

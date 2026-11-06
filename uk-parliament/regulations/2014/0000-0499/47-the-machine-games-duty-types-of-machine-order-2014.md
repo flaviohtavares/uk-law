@@ -32,7 +32,7 @@ summary: ''
 
 Excise
 
-The Machine Games Duty (Types of Machine) Order 2014 (revoked)[^key-22983f0c47815641e0386ed36621f453]
+The Machine Games Duty (Types of Machine) Order 2014 (revoked)[^c-22983f0c47815641e0386ed36621f453]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 6th February 2014
 
-[^key-22983f0c47815641e0386ed36621f453]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-22983f0c47815641e0386ed36621f453]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-22983f0c47815641e0386ed36621f453]
+## 1. Citation and commencement[^c-22983f0c47815641e0386ed36621f453]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of paragraph 5 of Schedule 24 to the Finance Act 2012[^key-22983f0c47815641e0386ed36621f453]
+## 2. Amendment of paragraph 5 of Schedule 24 to the Finance Act 2012[^c-22983f0c47815641e0386ed36621f453]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-22983f0c47815641e0386ed36621f453] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-22983f0c47815641e0386ed36621f453] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-22983f0c47815641e0386ed36621f453]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-22983f0c47815641e0386ed36621f453]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-22983f0c47815641e0386ed36621f453]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-22983f0c47815641e0386ed36621f453]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-22983f0c47815641e0386ed36621f453]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/47) revoked (with effect in accordance with s. 124(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/124/5)
+[^c-22983f0c47815641e0386ed36621f453]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/47) revoked (with effect in accordance with s. 124(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/124/5)

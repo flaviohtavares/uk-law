@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Cancellation of proxy appointment[^key-9acb4d923a408baca38729eaac62e90e][^key-41d6930ca8705018dd5c9d0b3fcdec36]
+## 59. Cancellation of proxy appointment[^c-9acb4d923a408baca38729eaac62e90e][^c-41d6930ca8705018dd5c9d0b3fcdec36]
 
 *Extent: S*
 
@@ -27,6 +27,6 @@ Where the appointment of a proxy is cancelled by notice given to the registratio
 
 ## Annotations
 
-[^key-9acb4d923a408baca38729eaac62e90e]: Commencement: Reg. 59 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-9acb4d923a408baca38729eaac62e90e]: Commencement: Reg. 59 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
-[^key-41d6930ca8705018dd5c9d0b3fcdec36]: Modification: [Reg. 59](https://www.legislation.gov.uk/uksi/2001/497/regulation/59) modified (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/14)
+[^c-41d6930ca8705018dd5c9d0b3fcdec36]: Modification: [Reg. 59](https://www.legislation.gov.uk/uksi/2001/497/regulation/59) modified (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/14)

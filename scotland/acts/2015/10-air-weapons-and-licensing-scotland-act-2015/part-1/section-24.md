@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Restrictions on transactions involving air weapons[^key-4f9448fdde451de134dd9222ef3f84cc]
+## 24. Restrictions on transactions involving air weapons[^c-4f9448fdde451de134dd9222ef3f84cc]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f9448fdde451de134dd9222ef3f84cc]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2015/10/section/24) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-4f9448fdde451de134dd9222ef3f84cc]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2015/10/section/24) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))

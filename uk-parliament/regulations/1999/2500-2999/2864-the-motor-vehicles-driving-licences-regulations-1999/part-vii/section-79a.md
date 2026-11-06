@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 79A. Saving in respect of former category and sub-category[^key-3901deb6cd9b346d0cfb587049d05505]
+## 79A. Saving in respect of former category and sub-category[^c-3901deb6cd9b346d0cfb587049d05505]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Where a person holds a full licence granted before 19th January 2013 authorising
 
 ## Annotations
 
-[^key-3901deb6cd9b346d0cfb587049d05505]: Textual amendment: Reg. 79A inserted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 45](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/45)
+[^c-3901deb6cd9b346d0cfb587049d05505]: Textual amendment: Reg. 79A inserted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 45](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/45)

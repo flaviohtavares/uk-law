@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## D6. Increase of reckonable service on completion or cessation of payments under previous regulations[^key-23991795831827e873d810b0b76dfb1a]
+## D6. Increase of reckonable service on completion or cessation of payments under previous regulations[^c-23991795831827e873d810b0b76dfb1a]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23991795831827e873d810b0b76dfb1a]: Commencement: [Reg. D6](https://www.legislation.gov.uk/uksi/1986/24/regulation/D6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-23991795831827e873d810b0b76dfb1a]: Commencement: [Reg. D6](https://www.legislation.gov.uk/uksi/1986/24/regulation/D6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

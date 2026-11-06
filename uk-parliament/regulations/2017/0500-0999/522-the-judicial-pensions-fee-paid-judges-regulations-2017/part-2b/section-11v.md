@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11V. Annual rate of eligible child’s pension[^key-dcd5561111f11f4a3b5252377ca63e9c]
+## 11V. Annual rate of eligible child’s pension[^c-dcd5561111f11f4a3b5252377ca63e9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcd5561111f11f4a3b5252377ca63e9c]: Textual amendment: [Pts. 2A](https://www.legislation.gov.uk/uksi/2017/522/part/2A), [2B](https://www.legislation.gov.uk/uksi/2017/522/part/2B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2023/403/regulation/12)
+[^c-dcd5561111f11f4a3b5252377ca63e9c]: Textual amendment: [Pts. 2A](https://www.legislation.gov.uk/uksi/2017/522/part/2A), [2B](https://www.legislation.gov.uk/uksi/2017/522/part/2B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2023/403/regulation/12)

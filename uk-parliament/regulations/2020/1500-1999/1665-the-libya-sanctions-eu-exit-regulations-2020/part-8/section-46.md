@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Exception for authorised conduct in a relevant country[^key-0257b1d52276ece887d6a6d19c057685]
+## 46. Exception for authorised conduct in a relevant country[^c-0257b1d52276ece887d6a6d19c057685]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0257b1d52276ece887d6a6d19c057685]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-0257b1d52276ece887d6a6d19c057685]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

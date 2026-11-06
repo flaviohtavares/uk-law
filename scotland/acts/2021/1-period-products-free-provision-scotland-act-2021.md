@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Duties to ensure period products obtainable free of charge
 
-### 1. Local authorities to ensure period products generally obtainable free of charge[^key-58ffb24e2f0de78600c32723784553c0]
+### 1. Local authorities to ensure period products generally obtainable free of charge[^c-58ffb24e2f0de78600c32723784553c0]
 
 (1) Each local authority must ensure that, within its area, period products are obtainable free of charge (in accordance with arrangements established and maintained by the local authority) by all persons who need to use them.
 
@@ -49,7 +49,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) For the purposes of subsection (2), the needs of a person who lives in Scotland are to be regarded as all arising while in Scotland.
 
-### 2. Education providers to ensure period products obtainable free of charge by pupils and students[^key-df412cf67248ef1585c55d43a64c60d7]
+### 2. Education providers to ensure period products obtainable free of charge by pupils and students[^c-df412cf67248ef1585c55d43a64c60d7]
 
 (1) Each education provider must ensure that period products are obtainable free of charge (in accordance with arrangements established and maintained by the education provider) by the persons mentioned in subsection (5).
 
@@ -79,7 +79,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (8) The Period Products in Schools (Scotland) Regulations 2020 (S.S.I. 2020/183) are revoked.
 
-### 3. Specified public service bodies to ensure period products obtainable free of charge by persons in their premises[^key-b895a8a44e28e9a056275fd43af5bf04]
+### 3. Specified public service bodies to ensure period products obtainable free of charge by persons in their premises[^c-b895a8a44e28e9a056275fd43af5bf04]
 
 (1) Each public service body specified in regulations made by the Scottish Ministers (a “specified public service body”) must ensure that period products are obtainable free of charge (in accordance with arrangements established and maintained by the body) by persons in its premises who need to use them.
 
@@ -112,7 +112,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) constituted by or under an enactment, and
 - (b) having functions that consist of or include providing public services or otherwise serving the public interest.
 
-### 4. Arrangements under sections 1, 2 and 3: particular requirements[^key-800eee2bbdc66d54afae463e15b61b72]
+### 4. Arrangements under sections 1, 2 and 3: particular requirements[^c-800eee2bbdc66d54afae463e15b61b72]
 
 Arrangements established and maintained under section 1(1), 2(1) or, as the case may be, 3(1) must provide for—
 
@@ -123,7 +123,7 @@ Arrangements established and maintained under section 1(1), 2(1) or, as the case
 
 ## Guidance
 
-### 5. Guidance[^key-bf7c3f2b0b4098e6c5da3c386e25047e]
+### 5. Guidance[^c-bf7c3f2b0b4098e6c5da3c386e25047e]
 
 (1) The Scottish Ministers must issue guidance to—
 
@@ -164,7 +164,7 @@ Arrangements established and maintained under section 1(1), 2(1) or, as the case
 
 ## Additional duties on responsible bodies
 
-### 6. Statement on exercise of functions[^key-1eabaa0be46f029be10da5e0d3b1a0d9]
+### 6. Statement on exercise of functions[^c-1eabaa0be46f029be10da5e0d3b1a0d9]
 
 (1) Each responsible body—
 
@@ -191,7 +191,7 @@ prepare a written statement describing the plans mentioned in subsection (2).
 
 (7) The responsible body must publish each statement prepared under subsection (1) in such ways as the body thinks appropriate.
 
-### 7. Consultation[^key-61d5fa4be8db0450f4adb0e9c638d9aa]
+### 7. Consultation[^c-61d5fa4be8db0450f4adb0e9c638d9aa]
 
 (1) Before preparing a statement under section 6, each responsible body—
 
@@ -233,7 +233,7 @@ about the responsible body's exercise of the functions conferred on it by sectio
 - (a) persons who need to use period products, and
 - (b) except in subsections (2)(a)(ii) and (3)(a), persons who may need to use period products in the future.
 
-### 8. Information to be provided to public[^key-dbf940420cd5fca6c883e8c11f94d948]
+### 8. Information to be provided to public[^c-dbf940420cd5fca6c883e8c11f94d948]
 
 (1) In addition to complying with section 6, each responsible body must take such steps as it thinks appropriate to inform the persons mentioned in subsection (2) of the matters mentioned in subsection (3).
 
@@ -302,18 +302,18 @@ The short title of this Act is the Period Products (Free Provision) (Scotland) A
 
 ## Annotations
 
-[^key-58ffb24e2f0de78600c32723784553c0]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2021/1/section/1) in force at 15.8.2022 by [S.S.I. 2022/208](https://www.legislation.gov.uk/ssi/2022/208), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2022/208/regulation/2/a)
+[^c-58ffb24e2f0de78600c32723784553c0]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2021/1/section/1) in force at 15.8.2022 by [S.S.I. 2022/208](https://www.legislation.gov.uk/ssi/2022/208), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2022/208/regulation/2/a)
 
-[^key-df412cf67248ef1585c55d43a64c60d7]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/1/section/2) in force at 15.8.2022 by [S.S.I. 2022/208](https://www.legislation.gov.uk/ssi/2022/208), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2022/208/regulation/2/b)
+[^c-df412cf67248ef1585c55d43a64c60d7]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/1/section/2) in force at 15.8.2022 by [S.S.I. 2022/208](https://www.legislation.gov.uk/ssi/2022/208), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2022/208/regulation/2/b)
 
-[^key-b895a8a44e28e9a056275fd43af5bf04]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2021/1/section/3) in force at 15.8.2022 by [S.S.I. 2022/208](https://www.legislation.gov.uk/ssi/2022/208), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2022/208/regulation/2/c)
+[^c-b895a8a44e28e9a056275fd43af5bf04]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2021/1/section/3) in force at 15.8.2022 by [S.S.I. 2022/208](https://www.legislation.gov.uk/ssi/2022/208), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2022/208/regulation/2/c)
 
-[^key-800eee2bbdc66d54afae463e15b61b72]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2021/1/section/4) in force at 15.8.2022 by [S.S.I. 2022/208](https://www.legislation.gov.uk/ssi/2022/208), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2022/208/regulation/2/d)
+[^c-800eee2bbdc66d54afae463e15b61b72]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2021/1/section/4) in force at 15.8.2022 by [S.S.I. 2022/208](https://www.legislation.gov.uk/ssi/2022/208), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2022/208/regulation/2/d)
 
-[^key-bf7c3f2b0b4098e6c5da3c386e25047e]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2021/1/section/5) in force at 18.3.2021 by [S.S.I. 2021/104](https://www.legislation.gov.uk/ssi/2021/104), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/104/regulation/2/a)
+[^c-bf7c3f2b0b4098e6c5da3c386e25047e]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2021/1/section/5) in force at 18.3.2021 by [S.S.I. 2021/104](https://www.legislation.gov.uk/ssi/2021/104), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/104/regulation/2/a)
 
-[^key-1eabaa0be46f029be10da5e0d3b1a0d9]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2021/1/section/6) in force at 18.3.2021 by [S.S.I. 2021/104](https://www.legislation.gov.uk/ssi/2021/104), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/104/regulation/2/b)
+[^c-1eabaa0be46f029be10da5e0d3b1a0d9]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2021/1/section/6) in force at 18.3.2021 by [S.S.I. 2021/104](https://www.legislation.gov.uk/ssi/2021/104), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/104/regulation/2/b)
 
-[^key-61d5fa4be8db0450f4adb0e9c638d9aa]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2021/1/section/7) in force at 18.3.2021 by [S.S.I. 2021/104](https://www.legislation.gov.uk/ssi/2021/104), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/104/regulation/2/c)
+[^c-61d5fa4be8db0450f4adb0e9c638d9aa]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2021/1/section/7) in force at 18.3.2021 by [S.S.I. 2021/104](https://www.legislation.gov.uk/ssi/2021/104), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/104/regulation/2/c)
 
-[^key-dbf940420cd5fca6c883e8c11f94d948]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2021/1/section/8) in force at 15.8.2022 by [S.S.I. 2022/208](https://www.legislation.gov.uk/ssi/2022/208), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2022/208/regulation/2/e)
+[^c-dbf940420cd5fca6c883e8c11f94d948]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2021/1/section/8) in force at 15.8.2022 by [S.S.I. 2022/208](https://www.legislation.gov.uk/ssi/2022/208), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2022/208/regulation/2/e)

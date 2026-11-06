@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Compulsory retirement void if appeal successful[^key-da2954a01bab596664d3f59303a87da4]
+## 74. Compulsory retirement void if appeal successful[^c-da2954a01bab596664d3f59303a87da4]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The compulsory retirement of a member under this Part is void if—
 
 ## Annotations
 
-[^key-da2954a01bab596664d3f59303a87da4]: Commencement: Reg. 74 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-da2954a01bab596664d3f59303a87da4]: Commencement: Reg. 74 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

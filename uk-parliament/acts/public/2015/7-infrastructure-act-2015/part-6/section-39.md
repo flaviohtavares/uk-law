@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Supplementary provision[^key-878e2a70d233606296a6019c27af3dc1]
+## 39. Supplementary provision[^c-878e2a70d233606296a6019c27af3dc1]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-878e2a70d233606296a6019c27af3dc1]: Commencement: S. 39 in force at 1.6.2016, see s. 57(7)(a)
+[^c-878e2a70d233606296a6019c27af3dc1]: Commencement: S. 39 in force at 1.6.2016, see s. 57(7)(a)

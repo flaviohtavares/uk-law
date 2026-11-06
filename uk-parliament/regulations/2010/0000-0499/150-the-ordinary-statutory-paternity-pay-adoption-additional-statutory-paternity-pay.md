@@ -46,21 +46,21 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 The Secretary of State makes these Regulations with the concurrence of the Treasury[^f00002] and after agreement by the Social Security Advisory Committee that the proposals in respect of these Regulations shall not be referred to it[^f00003].
 
-## 1. Citation and commencement[^key-34ccbf0fbf0c9b907708f41da3e33059]
+## 1. Citation and commencement[^c-34ccbf0fbf0c9b907708f41da3e33059]
 
 (1) These Regulations may be cited as the Ordinary Statutory Paternity Pay (Adoption), Additional Statutory Paternity Pay (Adoption) and Statutory Adoption Pay (Adoptions from Overseas) (Persons Abroad and Mariners) Regulations 2010.
 
 (2) These Regulations come into force immediately after the coming into force of the Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010[^f00004].
 
-## 2. Interpretation[^key-961634705f92ae58eb6205d392bcaa60]
+## 2. Interpretation[^c-961634705f92ae58eb6205d392bcaa60]
 
 In these Regulations, “adoption from overseas” means the adoption of a child who enters Great Britain from outside the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of the child for adoption under the law of any part of the United Kingdom.
 
-## 3. Revocation[^key-9665e4bf1ab43d9fad33b3ac049d0b50]
+## 3. Revocation[^c-9665e4bf1ab43d9fad33b3ac049d0b50]
 
 The Statutory Paternity Pay (Adoption) and Statutory Adoption Pay (Adoptions from Overseas) (Persons Abroad and Mariners) Regulations 2003[^f00005] are revoked.
 
-## 4. Application of the Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 to adoptions from overseas[^key-0b97cc97f6b7c25c42f7f37b3b5dc82c]
+## 4. Application of the Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 to adoptions from overseas[^c-0b97cc97f6b7c25c42f7f37b3b5dc82c]
 
 (1) The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002[^f00006] shall have effect in relation to adoptions from overseas with the modifications set out in the following paragraphs of this regulation.
 
@@ -82,8 +82,8 @@ The Statutory Paternity Pay (Adoption) and Statutory Adoption Pay (Adoptions fro
 - (d) after the definition of “ordinary statutory paternity pay (adoption)”, insert—
 
   > - relevant central authority” means—
-  >   - (a) in the case of an adopter to whom [^key-b64a1f8059864c1db5cf4807786dafcb]... the Adoptions with a Foreign Element Regulations 2005 apply and who is habitually resident in Wales, the Welsh Ministers;
-  >   - (b) in the case of an adopter to whom [^key-16a3d690ac3437fd2d43006e61151039]... the Adoptions with a Foreign Element (Scotland) Regulations 2009 apply and who is habitually resident in Scotland, the Scottish Ministers; and
+  >   - (a) in the case of an adopter to whom [^c-b64a1f8059864c1db5cf4807786dafcb]... the Adoptions with a Foreign Element Regulations 2005 apply and who is habitually resident in Wales, the Welsh Ministers;
+  >   - (b) in the case of an adopter to whom [^c-16a3d690ac3437fd2d43006e61151039]... the Adoptions with a Foreign Element (Scotland) Regulations 2009 apply and who is habitually resident in Scotland, the Scottish Ministers; and
   >   - (c) in any other case, the Secretary of State;
 
   .
@@ -146,20 +146,20 @@ A full impact assessment has not been produced for this instrument as a negligib
 
 [^f00003]: Footnote: Section 173(1)(b) of the Social Security Administration Act [1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5) provides that proposals in respect of regulations which would otherwise be referable to the Social Security Advisory Committee may not be so referred with the agreement of that Committee. These Regulations would otherwise be referable to that Committee by virtue of section 172(1) of that Act.
 
-[^key-34ccbf0fbf0c9b907708f41da3e33059]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/150/regulation/1) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/150/regulation/1/2)
+[^c-34ccbf0fbf0c9b907708f41da3e33059]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/150/regulation/1) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/150/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2010/151](https://www.legislation.gov.uk/uksi/2010/151).
 
-[^key-961634705f92ae58eb6205d392bcaa60]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/150/regulation/2) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/150/regulation/1/2)
+[^c-961634705f92ae58eb6205d392bcaa60]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/150/regulation/2) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/150/regulation/1/2)
 
-[^key-9665e4bf1ab43d9fad33b3ac049d0b50]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/150/regulation/3) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/150/regulation/1/2)
+[^c-9665e4bf1ab43d9fad33b3ac049d0b50]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/150/regulation/3) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/150/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2003/1193](https://www.legislation.gov.uk/uksi/2003/1193).
 
-[^key-0b97cc97f6b7c25c42f7f37b3b5dc82c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/150/regulation/4) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/150/regulation/1/2)
+[^c-0b97cc97f6b7c25c42f7f37b3b5dc82c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/150/regulation/4) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/150/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2002/2821](https://www.legislation.gov.uk/uksi/2002/2821), amended by [S.I. 2010/151](https://www.legislation.gov.uk/uksi/2010/151).
 
-[^key-b64a1f8059864c1db5cf4807786dafcb]: Textual amendment: Words in [reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/2010/150/regulation/4/2/d) revoked (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
+[^c-b64a1f8059864c1db5cf4807786dafcb]: Textual amendment: Words in [reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/2010/150/regulation/4/2/d) revoked (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
 
-[^key-16a3d690ac3437fd2d43006e61151039]: Textual amendment: Words in [reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/2010/150/regulation/4/2/d) omitted (21.3.2011) by virtue of [The Adoptions with a Foreign Element (Scotland) Amendment Regulations 2011 (S.S.I. 2011/159)](https://www.legislation.gov.uk/ssi/2011/159), [regs. 1](https://www.legislation.gov.uk/ssi/2011/159/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2011/159/regulation/5/2)
+[^c-16a3d690ac3437fd2d43006e61151039]: Textual amendment: Words in [reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/2010/150/regulation/4/2/d) omitted (21.3.2011) by virtue of [The Adoptions with a Foreign Element (Scotland) Amendment Regulations 2011 (S.S.I. 2011/159)](https://www.legislation.gov.uk/ssi/2011/159), [regs. 1](https://www.legislation.gov.uk/ssi/2011/159/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2011/159/regulation/5/2)

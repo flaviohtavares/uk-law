@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.40. Notice and advertisement of beginning of a moratorium[^key-a24294a6c677ad37333268cfc6787cfd]
+## 1.40. Notice and advertisement of beginning of a moratorium[^c-a24294a6c677ad37333268cfc6787cfd]
 
 *Extent: E+W*
 
@@ -28,15 +28,15 @@ summary: ''
 
 (4) The nominee shall give notice of the coming into force of the moratorium specifying the date on which it came into force to—
 
-- (a) any enforcement officer[^key-f76d99121d2f0ed33388cc6ef1985151] or other officer who, to his knowledge, is charged with an execution or other legal process against the company or its property; and
+- (a) any enforcement officer[^c-f76d99121d2f0ed33388cc6ef1985151] or other officer who, to his knowledge, is charged with an execution or other legal process against the company or its property; and
 - (b) any person who, to his knowledge, has distrained against the company or its property.
 
 ## Annotations
 
-[^key-a24294a6c677ad37333268cfc6787cfd]: Textual amendment: Pt. 1 Ch. 9 inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2002/2712/schedule/1/paragraph/21) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/rule/3/2))
+[^c-a24294a6c677ad37333268cfc6787cfd]: Textual amendment: Pt. 1 Ch. 9 inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2002/2712/schedule/1/paragraph/21) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/rule/3/2))
 
 [^m00008]: Marginal citation: \[FORM 2.3\]
 
 [^m00009]: Marginal citation: \[FORM 2.4\]
 
-[^key-f76d99121d2f0ed33388cc6ef1985151]: Textual amendment: Words in [rule 1.40(4)(a)](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.40/4/a) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [4](https://www.legislation.gov.uk/uksi/2005/527/rule/4)
+[^c-f76d99121d2f0ed33388cc6ef1985151]: Textual amendment: Words in [rule 1.40(4)(a)](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.40/4/a) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [4](https://www.legislation.gov.uk/uksi/2005/527/rule/4)

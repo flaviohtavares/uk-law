@@ -50,23 +50,23 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 In accordance with section 51(1) of that Act, the Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU, to make the following provision in relation to value added tax. In accordance with section 52(2) of that Act, the Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU, for these Regulations to come into force on such day or days as the Treasury may by regulations under section 52 of that Act appoint.
 
-## 1. Citation and commencement[^key-e7ca337e739b6c1d7862b0c8e4f87243]
+## 1. Citation and commencement[^c-e7ca337e739b6c1d7862b0c8e4f87243]
 
 These Regulations may be cited as the Value Added Tax (Miscellaneous Amendments to Acts of Parliament) (EU Exit) Regulations 2020 and come into force on such day or days as the Treasury may by regulations under section 52 of the Taxation (Cross-border Trade) Act 2018 appoint.
 
-## 2. Amendment of the Taxation (Cross-border Trade) Act 2018[^key-1847c747fa969c2a36afede981fc9207]
+## 2. Amendment of the Taxation (Cross-border Trade) Act 2018[^c-1847c747fa969c2a36afede981fc9207]
 
 In Schedule 8 to the Taxation (Cross-border Trade) Act 2018 (VAT amendments), in paragraph 94(4), omit paragraph (c).
 
-## 3. Amendment of Group 8 of Schedule 8 to the Value Added Tax Act 1994[^key-df0bb337d712663f6505a783d51e1352]
+## 3. Amendment of Group 8 of Schedule 8 to the Value Added Tax Act 1994[^c-df0bb337d712663f6505a783d51e1352]
 
 Group 8 of Schedule 8 to the Value Added Tax Act 1994 [^c24444151] (zero rating: transport) is amended as follows.
 
-## 4.[^key-30d88afaee32a57aec14540fad29283f]
+## 4.[^c-30d88afaee32a57aec14540fad29283f]
 
 In Item 4, in paragraph (a), omit “, ship or aircraft”.
 
-## 5.[^key-83ed8b0dba148f287c9d28a47534ab4e]
+## 5.[^c-83ed8b0dba148f287c9d28a47534ab4e]
 
 For Item 6 substitute—
 
@@ -88,7 +88,7 @@ For Item 6 substitute—
 
 .
 
-## 6.[^key-798d2a7607a910e833cffad9538ff178]
+## 6.[^c-798d2a7607a910e833cffad9538ff178]
 
 After that Item insert—
 
@@ -103,7 +103,7 @@ After that Item insert—
 
 .
 
-## 7.[^key-dcb6b1bd9e13c6435e326041ae8770cd]
+## 7.[^c-dcb6b1bd9e13c6435e326041ae8770cd]
 
 After Note (4) insert—
 
@@ -111,7 +111,7 @@ After Note (4) insert—
 
 .
 
-## 8.[^key-b6d6e1473e872e1f93556696febc26bf]
+## 8.[^c-b6d6e1473e872e1f93556696febc26bf]
 
 For Note (6) substitute—
 
@@ -125,7 +125,7 @@ For Note (6) substitute—
 
 .
 
-## 9.[^key-a9aa4bc099e22afb42eb2f485eaaa141]
+## 9.[^c-a9aa4bc099e22afb42eb2f485eaaa141]
 
 After that Note insert—
 
@@ -133,7 +133,7 @@ After that Note insert—
 
 .
 
-## 10. Amendment of Group 5 of Schedule 9 to the Value Added Tax Act 1994[^key-b554fa26bfe8c75e2366c7f58cb83b08]
+## 10. Amendment of Group 5 of Schedule 9 to the Value Added Tax Act 1994[^c-b554fa26bfe8c75e2366c7f58cb83b08]
 
 In Group 5 of Schedule 9 to the Value Added Tax Act 1994 [^c24444191] (exemptions: finance), in Note (6), in the definition of “qualifying pension fund”, in paragraph (e), omit “or in a member State”.
 
@@ -159,32 +159,32 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24444141]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22); [section 51(1)(a)](https://www.legislation.gov.uk/uksi/2020/1312/section/51/1/a) permits “the appropriate Minister” to make provision relating to value added tax and under section 51(4)(b) “**the appropriate Minister**” means the Treasury.
 
-[^key-e7ca337e739b6c1d7862b0c8e4f87243]: Commencement: Reg. 1 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-e7ca337e739b6c1d7862b0c8e4f87243]: Commencement: Reg. 1 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-1847c747fa969c2a36afede981fc9207]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-1847c747fa969c2a36afede981fc9207]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-df0bb337d712663f6505a783d51e1352]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-df0bb337d712663f6505a783d51e1352]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24444151]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23). Item 4 of Group 8, Schedule 8 was amended by [S.I. 2001/753](https://www.legislation.gov.uk/uksi/2001/753) and section 22(1) of the [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33). Item 6 of and Note (6) to Group 8, Schedule 8 were amended by [S.I. 2002/1173](https://www.legislation.gov.uk/uksi/2002/1173).
 
-[^key-30d88afaee32a57aec14540fad29283f]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-30d88afaee32a57aec14540fad29283f]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-83ed8b0dba148f287c9d28a47534ab4e]: Commencement: Reg. 5 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-83ed8b0dba148f287c9d28a47534ab4e]: Commencement: Reg. 5 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-798d2a7607a910e833cffad9538ff178]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-798d2a7607a910e833cffad9538ff178]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-dcb6b1bd9e13c6435e326041ae8770cd]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-dcb6b1bd9e13c6435e326041ae8770cd]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24444161]: Marginal citation: “The Management Act” is defined in section 96(1) of the Value Added Tax Act 1994 as meaning the [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2). The definition of “vehicle” in section 1 of that Act was replaced by a new definition substituted by paragraph 4(2)(l) of Schedule 7 to the Taxation (Cross-border Trade) Act 2018 with effect from a day to be appointed.
 
-[^key-b6d6e1473e872e1f93556696febc26bf]: Commencement: Reg. 8 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-b6d6e1473e872e1f93556696febc26bf]: Commencement: Reg. 8 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24444171]: Marginal citation: Section 26(1ZB) of the Customs and Excise Management Act 1979 was inserted by paragraph 18(3) of Schedule 7 to the Taxation (Cross-border Trade) Act 2018 with effect from a day to be appointed.
 
 [^c24444181]: Marginal citation: “Railway vehicle” is defined in section 83 of the [Railways Act 1993 (c. 43)](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-a9aa4bc099e22afb42eb2f485eaaa141]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-a9aa4bc099e22afb42eb2f485eaaa141]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-b554fa26bfe8c75e2366c7f58cb83b08]: Commencement: Reg. 10 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-b554fa26bfe8c75e2366c7f58cb83b08]: Commencement: Reg. 10 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24444191]: Marginal citation: The definition of “qualifying pension fund” in Note (6) to Group 5, Schedule 9 of the Value Added Tax Act 1994 was inserted by [S.I. 2020/209](https://www.legislation.gov.uk/uksi/2020/209).

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-fb10659d5f86d46c68b927e031136f08] In the railway administration order provisions of this Act—
+(1)[^c-fb10659d5f86d46c68b927e031136f08] In the railway administration order provisions of this Act—
 
 - “company” means—
   - (a) a company registered under the Companies Act 2006, or
@@ -57,6 +57,6 @@ summary: ''
 
 [^c14106041]: Modification: S. 65 restricted (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [s. 19(7)](https://www.legislation.gov.uk/ukpga/1996/61/section/19/7)
 
-[^key-fb10659d5f86d46c68b927e031136f08]: Textual amendment: S. 65(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-fb10659d5f86d46c68b927e031136f08]: Textual amendment: S. 65(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c14106061]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).

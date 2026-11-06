@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Income charged at the dividend nil rate[^key-420320b139f2032ea1be90a53bfd9246]
+## 13A. Income charged at the dividend nil rate[^c-420320b139f2032ea1be90a53bfd9246]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Income tax is charged at the dividend nil rate (rather than the dividend ordinary rate, dividend upper rate or dividend additional rate) on one or more amounts of the individual's income as follows—
 
-- *Step 1* Identify the amount (“D”) of the individual's income which would, ignoring this section, be charged at the dividend ordinary rate.*Rule 1A:* If D is more than £500[^key-a9ae6668ea01e06766f9f15798559e79], the first £500 of D is charged at the dividend nil rate (rather than the dividend ordinary rate), and is the only amount charged at the dividend nil rate.*Rule 1B:* If D is equal to £500, D is charged at the dividend nil rate (rather than the dividend ordinary rate), and is the only amount charged at the dividend nil rate.*Rule 1C:* If D is less than £500 but more than nil, D is charged at the dividend nil rate (rather than the dividend ordinary rate).
+- *Step 1* Identify the amount (“D”) of the individual's income which would, ignoring this section, be charged at the dividend ordinary rate.*Rule 1A:* If D is more than £500[^c-a9ae6668ea01e06766f9f15798559e79], the first £500 of D is charged at the dividend nil rate (rather than the dividend ordinary rate), and is the only amount charged at the dividend nil rate.*Rule 1B:* If D is equal to £500, D is charged at the dividend nil rate (rather than the dividend ordinary rate), and is the only amount charged at the dividend nil rate.*Rule 1C:* If D is less than £500 but more than nil, D is charged at the dividend nil rate (rather than the dividend ordinary rate).
 - *Step 2* If D is less than £500, identify the amount (“U”) of the individual's income which would, ignoring this section, be charged at the dividend upper rate.*Rule 2A:* If the total of D and U is more than £500—
   - (a) the first £M of U is charged at the dividend nil rate (rather than the dividend upper rate), where £M is the difference between £500 and D, and
   - (b) the amounts charged under this Rule and Rule 1C are the only amounts charged at the dividend nil rate.
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-420320b139f2032ea1be90a53bfd9246]: Textual amendment: S. 13A inserted (with effect for the tax year 2016-17 and subsequent years) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 5(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/5/5)[(10)](https://www.legislation.gov.uk/ukpga/2016/24/section/5/10)
+[^c-420320b139f2032ea1be90a53bfd9246]: Textual amendment: S. 13A inserted (with effect for the tax year 2016-17 and subsequent years) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 5(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/5/5)[(10)](https://www.legislation.gov.uk/ukpga/2016/24/section/5/10)
 
-[^key-a9ae6668ea01e06766f9f15798559e79]: Textual amendment: Sum in s. 13A(2) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2023 (c. 1)](https://www.legislation.gov.uk/ukpga/2023/1), [s. 7(3)(4)](https://www.legislation.gov.uk/ukpga/2023/1/section/7/3)
+[^c-a9ae6668ea01e06766f9f15798559e79]: Textual amendment: Sum in s. 13A(2) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2023 (c. 1)](https://www.legislation.gov.uk/ukpga/2023/1), [s. 7(3)(4)](https://www.legislation.gov.uk/ukpga/2023/1/section/7/3)

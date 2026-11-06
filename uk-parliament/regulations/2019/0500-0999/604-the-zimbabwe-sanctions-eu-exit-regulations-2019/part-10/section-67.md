@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Revocation of the Zimbabwe Council Regulation[^key-3929cc3bc0f04884243282f1b0704630][^key-ebf6ce26228119d4cbc69d4a07c22b63]
+## 67. Revocation of the Zimbabwe Council Regulation[^c-3929cc3bc0f04884243282f1b0704630][^c-ebf6ce26228119d4cbc69d4a07c22b63]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Council Regulation [(EC) No 314/2004](https://www.legislation.gov.uk/european/re
 
 ## Annotations
 
-[^key-3929cc3bc0f04884243282f1b0704630]: Commencement: Reg. 67 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-3929cc3bc0f04884243282f1b0704630]: Commencement: Reg. 67 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-ebf6ce26228119d4cbc69d4a07c22b63]: Commencement: Reg. 67 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ebf6ce26228119d4cbc69d4a07c22b63]: Commencement: Reg. 67 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

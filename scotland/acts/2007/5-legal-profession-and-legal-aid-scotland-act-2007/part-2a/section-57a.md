@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57A. Complaints about licensed providers[^key-06b4f1e319c925bfc798c748c2e1a556]
+## 57A. Complaints about licensed providers[^c-06b4f1e319c925bfc798c748c2e1a556]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06b4f1e319c925bfc798c748c2e1a556]: Textual amendment: Pt. 2A inserted (1.4.2011 for specified purposes, 2.7.2012 in so far as not already in force) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 81](https://www.legislation.gov.uk/asp/2010/16/section/81), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2) (with [ss. 30(3)](https://www.legislation.gov.uk/asp/2010/16/section/30/3), [60(3)](https://www.legislation.gov.uk/asp/2010/16/section/60/3), [89](https://www.legislation.gov.uk/asp/2010/16/section/89), [121(5)](https://www.legislation.gov.uk/asp/2010/16/section/121/5), [124(3)](https://www.legislation.gov.uk/asp/2010/16/section/124/3)); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/152/article/3))
+[^c-06b4f1e319c925bfc798c748c2e1a556]: Textual amendment: Pt. 2A inserted (1.4.2011 for specified purposes, 2.7.2012 in so far as not already in force) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 81](https://www.legislation.gov.uk/asp/2010/16/section/81), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2) (with [ss. 30(3)](https://www.legislation.gov.uk/asp/2010/16/section/30/3), [60(3)](https://www.legislation.gov.uk/asp/2010/16/section/60/3), [89](https://www.legislation.gov.uk/asp/2010/16/section/89), [121(5)](https://www.legislation.gov.uk/asp/2010/16/section/121/5), [124(3)](https://www.legislation.gov.uk/asp/2010/16/section/124/3)); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/152/article/3))

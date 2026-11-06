@@ -35,124 +35,124 @@ establishing the Body of European Regulators for Electronic Communications (BERE
 
 (Text with EEA relevance) (repealed) (revoked)
 
-[^key-e5cc80aa803849f2e46beb0c54be0f5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5cc80aa803849f2e46beb0c54be0f5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER I — ESTABLISHMENT[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+## CHAPTER I — ESTABLISHMENT[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
-### Article 1. Establishment[^key-e5cc80aa803849f2e46beb0c54be0f5c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## CHAPTER II — ORGANISATION OF BEREC[^key-e5cc80aa803849f2e46beb0c54be0f5c]
-
-### Article 2. Role of BEREC[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 1. Establishment[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Tasks of BEREC[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+## CHAPTER II — ORGANISATION OF BEREC[^c-e5cc80aa803849f2e46beb0c54be0f5c]
+
+### Article 2. Role of BEREC[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Composition and organisation of BEREC[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 3. Tasks of BEREC[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Tasks of the Board of Regulators[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 4. Composition and organisation of BEREC[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. The Office[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 5. Tasks of the Board of Regulators[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Management Committee[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 6. The Office[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. The Administrative Manager[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 7. Management Committee[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Tasks of the Administrative Manager[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 8. The Administrative Manager[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Staff[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 9. Tasks of the Administrative Manager[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — FINANCIAL PROVISIONS[^key-e5cc80aa803849f2e46beb0c54be0f5c]
-
-### Article 11. Budget of the Office[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 10. Staff[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Establishment of the budget[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+## CHAPTER III — FINANCIAL PROVISIONS[^c-e5cc80aa803849f2e46beb0c54be0f5c]
+
+### Article 11. Budget of the Office[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Implementation and control of the budget[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 12. Establishment of the budget[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Internal control systems[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 13. Implementation and control of the budget[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Financial rules[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 14. Internal control systems[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Anti-fraud measures[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 15. Financial rules[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — GENERAL PROVISIONS[^key-e5cc80aa803849f2e46beb0c54be0f5c]
-
-### Article 17. Consultation[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 16. Anti-fraud measures[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Transparency and accountability[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+## CHAPTER IV — GENERAL PROVISIONS[^c-e5cc80aa803849f2e46beb0c54be0f5c]
+
+### Article 17. Consultation[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Provision of information to BEREC and the Office[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 18. Transparency and accountability[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 20. Confidentiality[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 19. Provision of information to BEREC and the Office[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 21. Declaration of interests[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 20. Confidentiality[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 22. Access to documents[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 21. Declaration of interests[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 23. Privileges and immunities[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 22. Access to documents[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 24. Liability of the Office[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 23. Privileges and immunities[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER V — FINAL PROVISIONS[^key-e5cc80aa803849f2e46beb0c54be0f5c]
-
-### Article 25. Evaluation and review[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+### Article 24. Liability of the Office[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 26. Entry into force[^key-e5cc80aa803849f2e46beb0c54be0f5c]
+## CHAPTER V — FINAL PROVISIONS[^c-e5cc80aa803849f2e46beb0c54be0f5c]
+
+### Article 25. Evaluation and review[^c-e5cc80aa803849f2e46beb0c54be0f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5cc80aa803849f2e46beb0c54be0f5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 26. Entry into force[^c-e5cc80aa803849f2e46beb0c54be0f5c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-e5cc80aa803849f2e46beb0c54be0f5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e5cc80aa803849f2e46beb0c54be0f5c]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2019/246/schedule/3/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5cc80aa803849f2e46beb0c54be0f5c]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2019/246/schedule/3/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

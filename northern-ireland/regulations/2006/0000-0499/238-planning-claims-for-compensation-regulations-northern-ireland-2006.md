@@ -31,7 +31,7 @@ summary: ''
 
 PLANNING
 
-Planning (Claims for Compensation) Regulations (Northern Ireland) 2006 (revoked)[^key-34cce3bb99b7c52fd054f429d6887619]
+Planning (Claims for Compensation) Regulations (Northern Ireland) 2006 (revoked)[^c-34cce3bb99b7c52fd054f429d6887619]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 3rd July 2006
 
-[^key-34cce3bb99b7c52fd054f429d6887619]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34cce3bb99b7c52fd054f429d6887619]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-34cce3bb99b7c52fd054f429d6887619]
+## 1. Citation, commencement and interpretation[^c-34cce3bb99b7c52fd054f429d6887619]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Claims for compensation[^key-34cce3bb99b7c52fd054f429d6887619]
+## 2. Claims for compensation[^c-34cce3bb99b7c52fd054f429d6887619]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34cce3bb99b7c52fd054f429d6887619]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34cce3bb99b7c52fd054f429d6887619]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34cce3bb99b7c52fd054f429d6887619]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34cce3bb99b7c52fd054f429d6887619]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-34cce3bb99b7c52fd054f429d6887619]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/238) revoked (1.4.2015) by [The Planning (Claims for Compensation) Regulations (Northern Ireland) 2015 (S.R. 2015/58)](https://www.legislation.gov.uk/nisr/2015/58), [reg. 4](https://www.legislation.gov.uk/nisr/2015/58/regulation/4)
+[^c-34cce3bb99b7c52fd054f429d6887619]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/238) revoked (1.4.2015) by [The Planning (Claims for Compensation) Regulations (Northern Ireland) 2015 (S.R. 2015/58)](https://www.legislation.gov.uk/nisr/2015/58), [reg. 4](https://www.legislation.gov.uk/nisr/2015/58/regulation/4)

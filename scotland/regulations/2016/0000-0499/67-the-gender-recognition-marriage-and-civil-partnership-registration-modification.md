@@ -52,11 +52,11 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 23(5) of that Act, the Scottish Ministers have undertaken appropriate consultation with persons likely to be affected by it.
 
-## 1. Citation and commencement[^key-74d7b82d2e29bf6f0e7c85046414342b]
+## 1. Citation and commencement[^c-74d7b82d2e29bf6f0e7c85046414342b]
 
 This Order may be cited as the Gender Recognition (Marriage and Civil Partnership Registration) (Modification) (Scotland) Order 2016 and comes into force on 24th March 2016.
 
-## 2. Interpretation[^key-ebe7e390bc837f9b213b34acfbc1dedd]
+## 2. Interpretation[^c-ebe7e390bc837f9b213b34acfbc1dedd]
 
 In this Order—
 
@@ -64,7 +64,7 @@ In this Order—
 - “the 2004 Act” means the Gender Recognition Act 2004; and
 - “the 2016 Regulations” mean the Gender Recognition (Marriage and Civil Partnership Registration) (Scotland) Regulations 2016[^f00003].
 
-## 3. Modification of the operation of Registration of Births, Deaths and Marriages (Scotland) Act 1965[^key-2e29cd31f92773c64d2abad2ace39572]
+## 3. Modification of the operation of Registration of Births, Deaths and Marriages (Scotland) Act 1965[^c-2e29cd31f92773c64d2abad2ace39572]
 
 (1) The operation of the 1965 Act[^f00004], in relation to qualifying Scottish marriages registered under regulation 7 of the 2016 Regulations, is modified as follows.
 
@@ -93,7 +93,7 @@ In this Order—
 - “qualifying Scottish marriage” has the same meaning as in paragraph 20A(4) of Schedule 3 to the 2004 Act[^f00006]; and
 - “register of marriages” means the register of marriages provided by the Registrar General under section 32(1) of the 1965 Act[^f00007].
 
-## 4. Modification of the operation of section 98 of the Civil Partnership Act 2004[^key-edcd495c857aee8b51a8198cf4d053e7]
+## 4. Modification of the operation of section 98 of the Civil Partnership Act 2004[^c-edcd495c857aee8b51a8198cf4d053e7]
 
 (1) The operation of section 98 of the Civil Partnership Act 2004[^f00008], in relation to qualifying Scottish civil partnerships registered under regulation 10 of the 2016 Regulations, is modified as follows.
 
@@ -115,14 +115,14 @@ apply in relation to the civil partnership register as they apply in relation to
 - (a) under an order of the Court of Session or a sheriff; or
 - (b) to a party to the qualifying Scottish civil partnership.
 
-(7) In this article and article 5[^key-e90b7c50895358f80d6d73104481509f]—
+(7) In this article and article 5[^c-e90b7c50895358f80d6d73104481509f]—
 
 - “civil partnership register” means the register established under section 95 of the Civil Partnership Act 2004[^f00009];
 - “existing civil partnership register entry” and “ new civil partnership register entry” have the same meaning as in regulation 2 of the 2016 Regulations;
 - “qualifying Scottish civil partnership” has the same meaning as in paragraph 20A(4) of Schedule 3 to the 2004 Act; and
 - “register of marriages” means the register of marriages provided by the Registrar General under section 32(1) of the 1965 Act.
 
-## 5. Modification of the operation of section 41A of the Registration of Births, Deaths and Marriages (Scotland) Act 1965 – civil partnerships[^key-9bef8da4825e8d1c854603908d06223d]
+## 5. Modification of the operation of section 41A of the Registration of Births, Deaths and Marriages (Scotland) Act 1965 – civil partnerships[^c-9bef8da4825e8d1c854603908d06223d]
 
 (1) The operation of section 41A(1) of the 1965 Act (admissibility of registration information as evidence) in relation to qualifying Scottish civil partnerships registered under regulation 10 of the 2016 Regulations is modified as follows.
 
@@ -158,15 +158,15 @@ Article 4 makes equivalent modifications are made to the operation of the Civil 
 
 [^f00001]: Footnote: [2004 c.7](https://www.legislation.gov.uk/ukpga/2004/7) (“the 2004 Act”). The power conferred by section 23(1) of the 2004 Act is exercisable by the Scottish Ministers rather than the Secretary of State where the provision to be made is within the legislative competence of the Scottish Parliament, by virtue of section 23(2) of the 2004 Act.
 
-[^key-74d7b82d2e29bf6f0e7c85046414342b]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2016/67/article/1) in force at 24.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/67/article/1)
+[^c-74d7b82d2e29bf6f0e7c85046414342b]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2016/67/article/1) in force at 24.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/67/article/1)
 
-[^key-ebe7e390bc837f9b213b34acfbc1dedd]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2016/67/article/2) in force at 24.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/67/article/1)
+[^c-ebe7e390bc837f9b213b34acfbc1dedd]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2016/67/article/2) in force at 24.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/67/article/1)
 
 [^f00002]: Footnote: [1965 c.49](https://www.legislation.gov.uk/ukpga/1965/49).
 
 [^f00003]: Footnote: [S.S.I. 2016/66](https://www.legislation.gov.uk/ssi/2016/66).
 
-[^key-2e29cd31f92773c64d2abad2ace39572]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2016/67/article/3) in force at 24.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/67/article/1)
+[^c-2e29cd31f92773c64d2abad2ace39572]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2016/67/article/3) in force at 24.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/67/article/1)
 
 [^f00004]: Footnote: [1965 c.49](https://www.legislation.gov.uk/ukpga/1965/49).
 
@@ -176,12 +176,12 @@ Article 4 makes equivalent modifications are made to the operation of the Civil 
 
 [^f00007]: Footnote: Section 32(1) was amended by the Marriage (Scotland) Act 1977, Schedule 2, paragraph 8.
 
-[^key-edcd495c857aee8b51a8198cf4d053e7]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2016/67/article/4) in force at 24.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/67/article/1)
+[^c-edcd495c857aee8b51a8198cf4d053e7]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2016/67/article/4) in force at 24.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/67/article/1)
 
 [^f00008]: Footnote: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33); section 98 was amended by the 2006 Act, section 52(6).
 
-[^key-e90b7c50895358f80d6d73104481509f]: Textual amendment: Words in [art. 4(7)](https://www.legislation.gov.uk/ssi/2016/67/article/4/7) inserted (23.9.2022) by [The Gender Recognition (Marriage and Civil Partnership Registration) (Modification) (Scotland) Amendment Order 2022 (S.S.I. 2022/202)](https://www.legislation.gov.uk/ssi/2022/202), [arts. 1](https://www.legislation.gov.uk/ssi/2022/202/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/202/article/2/2)
+[^c-e90b7c50895358f80d6d73104481509f]: Textual amendment: Words in [art. 4(7)](https://www.legislation.gov.uk/ssi/2016/67/article/4/7) inserted (23.9.2022) by [The Gender Recognition (Marriage and Civil Partnership Registration) (Modification) (Scotland) Amendment Order 2022 (S.S.I. 2022/202)](https://www.legislation.gov.uk/ssi/2022/202), [arts. 1](https://www.legislation.gov.uk/ssi/2022/202/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/202/article/2/2)
 
 [^f00009]: Footnote: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-9bef8da4825e8d1c854603908d06223d]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/ssi/2016/67/article/5) inserted (23.9.2022) by [The Gender Recognition (Marriage and Civil Partnership Registration) (Modification) (Scotland) Amendment Order 2022 (S.S.I. 2022/202)](https://www.legislation.gov.uk/ssi/2022/202), [arts. 1](https://www.legislation.gov.uk/ssi/2022/202/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/202/article/2/3)
+[^c-9bef8da4825e8d1c854603908d06223d]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/ssi/2016/67/article/5) inserted (23.9.2022) by [The Gender Recognition (Marriage and Civil Partnership Registration) (Modification) (Scotland) Amendment Order 2022 (S.S.I. 2022/202)](https://www.legislation.gov.uk/ssi/2022/202), [arts. 1](https://www.legislation.gov.uk/ssi/2022/202/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/202/article/2/3)

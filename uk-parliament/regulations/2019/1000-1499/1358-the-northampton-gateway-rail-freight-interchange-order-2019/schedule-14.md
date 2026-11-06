@@ -24,11 +24,11 @@ Article 45
 
 ### Public general legislation
 
-#### 1. Introduction[^key-4245863278687c7fd545237b3cd54a8b]
+#### 1. Introduction[^c-4245863278687c7fd545237b3cd54a8b]
 
 This Schedule applies, modifies and excludes statutory provisions which relate to matters for which provision may be made in this Order.
 
-#### 2. Highways Act 1980[^key-7b2d68a8096168946cc8c03c83f88f5f]
+#### 2. Highways Act 1980[^c-7b2d68a8096168946cc8c03c83f88f5f]
 
 (1) Section 141 (restriction on planting trees etc. in or near carriageway) of the 1980 Act[^f00105]does not apply to any tree or shrub planted in the course of the authorised development before completion of construction.
 
@@ -37,7 +37,7 @@ This Schedule applies, modifies and excludes statutory provisions which relate t
 - (a) the erection of a wall in the course of the authorised development before completion of construction; or
 - (b) a wall on land on which works are being carried out, or are to be carried out, in pursuance of the authorised development before completion of construction.
 
-#### 3. New Roads and Street Works Act 1991[^key-d0f2ba3a02b184a173dd2e1d7485e985]
+#### 3. New Roads and Street Works Act 1991[^c-d0f2ba3a02b184a173dd2e1d7485e985]
 
 (1) The powers conferred by section 56(1) and (1A) (powers to give directions as to the timing of proposed and subsisting street works) of the 1991 Act[^f00107] do not apply in relation to the authorised development.
 
@@ -67,21 +67,21 @@ This Schedule applies, modifies and excludes statutory provisions which relate t
 
 (14) Paragraph 5(1) (effect of direction under paragraph 4 restricting further works) of Schedule 3A to the 1991 Act does not apply in relation to the execution of works in the course of the authorised development.
 
-#### 4. Local Government (Miscellaneous Provisions) Act 1976[^key-1533689f2d2da23d73b4f3542f59ca0a]
+#### 4. Local Government (Miscellaneous Provisions) Act 1976[^c-1533689f2d2da23d73b4f3542f59ca0a]
 
 Section 42 (certain future local Acts, etc., to be subject to the planning enactments, etc., except as otherwise provided) of the Local Government (Miscellaneous Provisions) Act 1976[^f00117] does not apply to the extent that it would make provisions of this Order authorising the authorised development subject to other provisions.
 
 ## Annotations
 
-[^key-4245863278687c7fd545237b3cd54a8b]: Commencement: Sch. 14 para. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-4245863278687c7fd545237b3cd54a8b]: Commencement: Sch. 14 para. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-7b2d68a8096168946cc8c03c83f88f5f]: Commencement: Sch. 14 para. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-7b2d68a8096168946cc8c03c83f88f5f]: Commencement: Sch. 14 para. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00105]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66). Section 141 was amended by sections 37 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48).
 
 [^f00106]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66). Section 167 was amended by sections 37, 38 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48).
 
-[^key-d0f2ba3a02b184a173dd2e1d7485e985]: Commencement: Sch. 14 para. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-d0f2ba3a02b184a173dd2e1d7485e985]: Commencement: Sch. 14 para. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00107]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22). Section 56(1) and (1A) were amended by section 43 of the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).
 
@@ -103,6 +103,6 @@ Section 42 (certain future local Acts, etc., to be subject to the planning enact
 
 [^f00116]: Footnote: Section 55 was amended by section 40(1) and (2), section 49(2) and section 51(1) and (9) of, and Schedule 1 to, the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-1533689f2d2da23d73b4f3542f59ca0a]: Commencement: Sch. 14 para. 4 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-1533689f2d2da23d73b4f3542f59ca0a]: Commencement: Sch. 14 para. 4 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00117]: Footnote: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57). Section 42 was amended by section 6(2) of, and the Schedule to, the Ports (Finance) Act [1985 (c. 30)](https://www.legislation.gov.uk/ukpga/1985/30), and section 15 of the Food and Environment Protection Act [1985 (c. 48)](https://www.legislation.gov.uk/ukpga/1985/48).

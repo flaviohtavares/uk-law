@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1
 
-### 1. Citation, commencement and extent[^key-42d2c3351fcb32ae135947939576b0a9]
+### 1. Citation, commencement and extent[^c-42d2c3351fcb32ae135947939576b0a9]
 
 (1) These Regulations may be cited as the Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 and come into force on 4 December 2020.
 
@@ -56,7 +56,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 2 — Amendments to primary legislation
 
-### 2. The Environmental Protection Act 1990[^key-aafcc6cd23ff78baab731469ffd18760]
+### 2. The Environmental Protection Act 1990[^c-aafcc6cd23ff78baab731469ffd18760]
 
 (1) The Environmental Protection Act 1990[^f00002] is amended as follows.
 
@@ -84,19 +84,19 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 3 — Amendments to secondary legislation
 
-### 3. The Special Waste Regulations 1996[^key-be5029a0c09ac817e86d5d1d87e2dcd4]
+### 3. The Special Waste Regulations 1996[^c-be5029a0c09ac817e86d5d1d87e2dcd4]
 
 (1) The Special Waste Regulations 1996[^f00004] are amended as follows.
 
 (2) In regulation 1(4) (interpretation), in the definition of “the Waste Directive” for “Council Regulation (EU) 2017/997” substitute “Directive (EU) 2018/851[^f00005]”.
 
-(3)[^key-5e6f7344124bfabf8f1f128fb7351b87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5e6f7344124bfabf8f1f128fb7351b87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. The Landfill (Scotland) Regulations 2003[^key-c5074e991069845317dc112e132bd111]
+### 4. The Landfill (Scotland) Regulations 2003[^c-c5074e991069845317dc112e132bd111]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. The National Waste Management Plan for Scotland Regulations 2007[^key-22b1524fdcaa73235cc7a93b435f5b05]
+### 5. The National Waste Management Plan for Scotland Regulations 2007[^c-22b1524fdcaa73235cc7a93b435f5b05]
 
 (1) The National Waste Management Plan for Scotland Regulations 2007[^f00010] are amended as follows.
 
@@ -180,17 +180,17 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 .
 
-### 6. The Waste Batteries (Scotland) Regulations 2009[^key-365e698891a97fe78dafe57dfe5c7ba8]
+### 6. The Waste Batteries (Scotland) Regulations 2009[^c-365e698891a97fe78dafe57dfe5c7ba8]
 
 (1) The Waste Batteries (Scotland) Regulations 2009[^f00016] are amended as follows.
 
 (2) In regulation 2 (interpretation) in the definition of “Batteries Directive” for “[Directive 2013/56/EU](https://www.legislation.gov.uk/european/directive/2013/0056)” substitute “Directive (EU) 2018/849[^f00017]”.
 
-### 7. The Waste Management Licensing (Scotland) Regulations 2011[^key-e27e08d47ae12ef8cb04967c37efa733]
+### 7. The Waste Management Licensing (Scotland) Regulations 2011[^c-e27e08d47ae12ef8cb04967c37efa733]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. The Pollution Prevention and Control (Scotland) Regulations 2012[^key-0f4f930cef0d3454a584f37e8aee5f55]
+### 8. The Pollution Prevention and Control (Scotland) Regulations 2012[^c-0f4f930cef0d3454a584f37e8aee5f55]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -228,25 +228,25 @@ Regulation 8 amends the Pollution Prevention and Control (Scotland) Regulations 
 
 [^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68) (“the 1972 Act”). The 1972 Act was repealed by section 1 of the European Union (Withdrawal) Act [2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16) (“the 2018 Act”) with effect from exit day (see section 20 of the 2018 Act), but saved, subject to modifications, until IP completion day by section 1A of the 2018 Act. Section 1A of the 2018 Act was inserted by the European Union (Withdrawal Agreement) Act [2020 (c.1)](https://www.legislation.gov.uk/ukpga/2020/1) (“the 2020 Act”), and defines “IP completion day” by reference to section 39(1) to (5) of the 2020 Act. Section 2(2) was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”), schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“the 2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), section 3(3) and schedule 1, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
 
-[^key-42d2c3351fcb32ae135947939576b0a9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/314/regulation/1) in force at 4.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1)
+[^c-42d2c3351fcb32ae135947939576b0a9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/314/regulation/1) in force at 4.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1)
 
-[^key-aafcc6cd23ff78baab731469ffd18760]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/314/regulation/2) in force at 4.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1)
+[^c-aafcc6cd23ff78baab731469ffd18760]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/314/regulation/2) in force at 4.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1)
 
 [^f00002]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43); relevant amending instruments are [S.S.I. 2009/247](https://www.legislation.gov.uk/ssi/2009/247), [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226) and [S.S.I. 2012/148](https://www.legislation.gov.uk/ssi/2012/148).
 
 [^f00003]: Footnote: OJ L 150, 14.6.2018, p.93.
 
-[^key-be5029a0c09ac817e86d5d1d87e2dcd4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2020/314/regulation/3) in force at 4.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1)
+[^c-be5029a0c09ac817e86d5d1d87e2dcd4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2020/314/regulation/3) in force at 4.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972); relevant amending instruments are [S.S.I. 2004/112](https://www.legislation.gov.uk/ssi/2004/112), [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), [S.S.I. 2015/438](https://www.legislation.gov.uk/ssi/2015/438) and [S.S.I 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
 
 [^f00005]: Footnote: OJ L 150, 14.6.2018, p.109.
 
-[^key-5e6f7344124bfabf8f1f128fb7351b87]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2020/314/regulation/3/3) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-5e6f7344124bfabf8f1f128fb7351b87]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2020/314/regulation/3/3) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-c5074e991069845317dc112e132bd111]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2020/314/regulation/4) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-c5074e991069845317dc112e132bd111]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2020/314/regulation/4) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-22b1524fdcaa73235cc7a93b435f5b05]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2020/314/regulation/5) in force at 4.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1)
+[^c-22b1524fdcaa73235cc7a93b435f5b05]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2020/314/regulation/5) in force at 4.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1)
 
 [^f00010]: Footnote: [S.S.I. 2007/251](https://www.legislation.gov.uk/ssi/2007/251); relevant amending instruments are [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), [2015/438](https://www.legislation.gov.uk/ssi/2015/438) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
 
@@ -260,12 +260,12 @@ Regulation 8 amends the Pollution Prevention and Control (Scotland) Regulations 
 
 [^f00015]: Footnote: [2003 asp c.3](https://www.legislation.gov.uk/asp/2003/3).
 
-[^key-365e698891a97fe78dafe57dfe5c7ba8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2020/314/regulation/6) in force at 4.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1)
+[^c-365e698891a97fe78dafe57dfe5c7ba8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2020/314/regulation/6) in force at 4.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1)
 
 [^f00016]: Footnote: [S.S.I. 2009/247](https://www.legislation.gov.uk/ssi/2009/247); the relevant amending instrument is [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
 
 [^f00017]: Footnote: OJ L 150, 14.6.2018, p.93.
 
-[^key-e27e08d47ae12ef8cb04967c37efa733]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2020/314/regulation/7) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-e27e08d47ae12ef8cb04967c37efa733]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2020/314/regulation/7) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-0f4f930cef0d3454a584f37e8aee5f55]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2020/314/regulation/8) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-0f4f930cef0d3454a584f37e8aee5f55]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2020/314/regulation/8) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

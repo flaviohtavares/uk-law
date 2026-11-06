@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 149. Duty to keep court informed[^key-a649d4e830d86623a12f87de636fbbeb]
+## 149. Duty to keep court informed[^c-a649d4e830d86623a12f87de636fbbeb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.190 of the 1986 Rules.
 
 ## Annotations
 
-[^key-a649d4e830d86623a12f87de636fbbeb]: Commencement: Rule 149 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-a649d4e830d86623a12f87de636fbbeb]: Commencement: Rule 149 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

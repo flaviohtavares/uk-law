@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Enabling or facilitating the conduct of armed hostilities[^key-5ddc70a6b2f2bac3a3967e0531235671]
+## 28. Enabling or facilitating the conduct of armed hostilities[^c-5ddc70a6b2f2bac3a3967e0531235671]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ where such provision enables or facilitates the conduct of armed hostilities in 
 
 ## Annotations
 
-[^key-5ddc70a6b2f2bac3a3967e0531235671]: Commencement: Reg. 28 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-5ddc70a6b2f2bac3a3967e0531235671]: Commencement: Reg. 28 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)

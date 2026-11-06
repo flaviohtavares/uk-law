@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 314A. The PRA's objectives in relation to Lloyd's etc[^key-aab0636617478aceaf240d3a9a35d309]
+## 314A. The PRA's objectives in relation to Lloyd's etc[^c-aab0636617478aceaf240d3a9a35d309]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ in relation to anything done, or proposed to be done, by the PRA under or for th
 
 ## Annotations
 
-[^key-aab0636617478aceaf240d3a9a35d309]: Textual amendment: S. 314A inserted (24.1.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/40/3), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-aab0636617478aceaf240d3a9a35d309]: Textual amendment: S. 314A inserted (24.1.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/40/3), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)

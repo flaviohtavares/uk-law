@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Eligibility for onward referral[^key-4a43f7ff37960966378f872890ecbf30]
+## 120. Eligibility for onward referral[^c-4a43f7ff37960966378f872890ecbf30]
 
 *Extent: E+W*
 
@@ -48,10 +48,10 @@ summary: ''
 - (a) in the case of a conviction by a court in the United Kingdom, an offence in respect of which a custodial sentence was, or could have been, imposed, or
 - (b) in the case of a conviction by a court elsewhere, an offence in respect of which, had the offence been committed in England and Wales a custodial sentence could have been imposed.
 
-(6) In subsection (5) “**custodial sentence**” has the meaning given by section 76 of the Powers of Criminal Courts (Sentencing) Act 2000 (c.6) or section 222 of the Sentencing Code[^key-fafd7b024645703e397d6fe332759ee5].
+(6) In subsection (5) “**custodial sentence**” has the meaning given by section 76 of the Powers of Criminal Courts (Sentencing) Act 2000 (c.6) or section 222 of the Sentencing Code[^c-fafd7b024645703e397d6fe332759ee5].
 
 ## Annotations
 
-[^key-4a43f7ff37960966378f872890ecbf30]: Commencement: S. 120 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-4a43f7ff37960966378f872890ecbf30]: Commencement: S. 120 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
 
-[^key-fafd7b024645703e397d6fe332759ee5]: Textual amendment: Words in s. 120(6) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 309(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/309/1) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fafd7b024645703e397d6fe332759ee5]: Textual amendment: Words in s. 120(6) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 309(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/309/1) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

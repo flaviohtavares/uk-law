@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**58.**[^key-f9882f8682066f897c34107013937ab9] In section 17 (provision of services for children in need, their families and others)—
+**58.**[^c-f9882f8682066f897c34107013937ab9] In section 17 (provision of services for children in need, their families and others)—
 
 - (a) in subsection (4)[^f00069] for “appropriate national authority” substitute “Secretary of State”;
 - (b) at the end of the section insert—
@@ -27,6 +27,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f9882f8682066f897c34107013937ab9]: Commencement: Reg. 58 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-f9882f8682066f897c34107013937ab9]: Commencement: Reg. 58 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00069]: Footnote: Section 17(4) was inserted by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), section 39, Schedule 3, paragraphs 1 and 2..

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Duty to notify court of premises licence[^key-4fd422d26897a7fecd8c6dd009f52b90]
+## 41. Duty to notify court of premises licence[^c-4fd422d26897a7fecd8c6dd009f52b90]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fd422d26897a7fecd8c6dd009f52b90]: Commencement: S. 41 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-4fd422d26897a7fecd8c6dd009f52b90]: Commencement: S. 41 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

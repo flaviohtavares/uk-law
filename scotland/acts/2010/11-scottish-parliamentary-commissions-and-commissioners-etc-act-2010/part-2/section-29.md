@@ -36,7 +36,7 @@ summary: ''
 
 (6) Sections 13(8) (payment of witnesses' allowances and expenses) and 18 (annual report) are repealed.
 
-(7)[^key-87783e22fe22fb500f379f5b2864388a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-87783e22fe22fb500f379f5b2864388a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) The Public Appointments Act is amended in accordance with subsection (9).
 
@@ -48,10 +48,10 @@ summary: ''
 
 (11) The Scottish Commission for Human Rights Act 2006 (asp 16) is amended in accordance with schedule 6.
 
-(12)[^key-aa2b5751d03d52229cd1b12164fd01d2] In this section, “the Ethical Standards Act”, “the Parliamentary Standards Act” and “the Public Appointments Act” have the same meanings given by section 28.
+(12)[^c-aa2b5751d03d52229cd1b12164fd01d2] In this section, “the Ethical Standards Act”, “the Parliamentary Standards Act” and “the Public Appointments Act” have the same meanings given by section 28.
 
 ## Annotations
 
-[^key-87783e22fe22fb500f379f5b2864388a]: Textual amendment: [S. 29(7)](https://www.legislation.gov.uk/asp/2010/11/section/29/7) omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 32(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/32/a)
+[^c-87783e22fe22fb500f379f5b2864388a]: Textual amendment: [S. 29(7)](https://www.legislation.gov.uk/asp/2010/11/section/29/7) omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 32(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/32/a)
 
-[^key-aa2b5751d03d52229cd1b12164fd01d2]: Textual amendment: [S. 29(12)](https://www.legislation.gov.uk/asp/2010/11/section/29/12) inserted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 32(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/32/b)
+[^c-aa2b5751d03d52229cd1b12164fd01d2]: Textual amendment: [S. 29(12)](https://www.legislation.gov.uk/asp/2010/11/section/29/12) inserted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 32(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/32/b)

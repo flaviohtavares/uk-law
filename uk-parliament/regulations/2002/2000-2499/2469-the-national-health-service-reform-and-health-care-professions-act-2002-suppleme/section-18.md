@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Continuing validity of forms[^key-fc369f0c43fa28afd08270000792d78b]
+## 18. Continuing validity of forms[^c-fc369f0c43fa28afd08270000792d78b]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Notwithstanding the amendment made by Schedule 5 to the form of certificate set 
 
 ## Annotations
 
-[^key-fc369f0c43fa28afd08270000792d78b]: Commencement: Reg. 18 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-fc369f0c43fa28afd08270000792d78b]: Commencement: Reg. 18 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00010]: Footnote: [S.I. 1976/615](https://www.legislation.gov.uk/uksi/1976/615) as amended by [S.I. 1991/2284](https://www.legislation.gov.uk/uksi/1991/2284) and [2001/2931](https://www.legislation.gov.uk/uksi/2001/2931).

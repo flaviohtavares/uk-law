@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Contravention of sections 30 to 36 of 2002 Act[^key-2716871eaa140b33daa9f1909509f06f][^key-1aa9b1ca6bb367ab31400e0712afec2e][^key-1aa9b1ca6bb367ab31400e0712afec2e]
+## 27. Contravention of sections 30 to 36 of 2002 Act[^c-2716871eaa140b33daa9f1909509f06f][^c-1aa9b1ca6bb367ab31400e0712afec2e][^c-1aa9b1ca6bb367ab31400e0712afec2e]
 
 *Extent: S*
 
-(1)[^key-77d79b2d753e2268f00f34fc112aa7d6] A person who contravenes any of the provisions of the 2002 Act mentioned in subsection (2) commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding level 5 on the standard scale or both.
+(1)[^c-77d79b2d753e2268f00f34fc112aa7d6] A person who contravenes any of the provisions of the 2002 Act mentioned in subsection (2) commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding level 5 on the standard scale or both.
 
 (2) Those provisions are—
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2716871eaa140b33daa9f1909509f06f]: Commencement: S. 27 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-2716871eaa140b33daa9f1909509f06f]: Commencement: S. 27 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
+[^c-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
 
-[^key-77d79b2d753e2268f00f34fc112aa7d6]: Modification: S. 27(1) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/985/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/985/schedule/3)
+[^c-77d79b2d753e2268f00f34fc112aa7d6]: Modification: S. 27(1) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/985/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/985/schedule/3)

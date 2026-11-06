@@ -41,18 +41,18 @@ An Act to provide for the registration of hairdressers; and for purposes connect
 
 ## 2. Register of hairdressers.
 
-The Hairdressing Council shall [^key-6b4c5256fa3ce5632ea70cd6399d6c89]... maintain a register to be called “the register of hairdressers” containing the names, addresses, qualifications and such other particulars as may be prescribed of all persons who are entitled under the provisions of this Act to be registered therein and who apply in the prescribed manner to be so registered, and the form of hairdressing which such persons are qualified to practise.
+The Hairdressing Council shall [^c-6b4c5256fa3ce5632ea70cd6399d6c89]... maintain a register to be called “the register of hairdressers” containing the names, addresses, qualifications and such other particulars as may be prescribed of all persons who are entitled under the provisions of this Act to be registered therein and who apply in the prescribed manner to be so registered, and the form of hairdressing which such persons are qualified to practise.
 
 ## 3. Qualifications for registration.
 
-(1) Subject to the provisions of this Act and to rules under section 6 of this Act, a person shall be entitled to be registered by the Hairdressing Council in the register if he applies for registration [^key-dc2662f1c5065a10191cd4f799b2d911]... and satisfies the Council that—
+(1) Subject to the provisions of this Act and to rules under section 6 of this Act, a person shall be entitled to be registered by the Hairdressing Council in the register if he applies for registration [^c-dc2662f1c5065a10191cd4f799b2d911]... and satisfies the Council that—
 
 - (a) he has—
   - (i) served a period of apprenticeship; or
   - (ii) attended a course of training approved by the Council under section 4 of this Act conducted at an institution so approved or partly at one such institution and partly at another or others; and
 - (b) he has attained a reasonable and sufficient standard to qualify him to practise the form of hairdressing in respect of which he makes the application
 
-(2)[^key-3346ff61b147b5502b3875fdc61dfe02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3346ff61b147b5502b3875fdc61dfe02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) On registering any person under this section the Council shall issue to him a certificate of registration.
 
@@ -96,7 +96,7 @@ It shall be the duty of the Hairdressing Council to keep themselves informed of 
 
 ## 7. Publication of register.
 
-(1) The Hairdressing Council shall cause the register to be published [^key-06baf0343d7be6fd842836427a91e048]... as often [^key-06baf0343d7be6fd842836427a91e048]... as they think fit.
+(1) The Hairdressing Council shall cause the register to be published [^c-06baf0343d7be6fd842836427a91e048]... as often [^c-06baf0343d7be6fd842836427a91e048]... as they think fit.
 
 (2) Where the register is not published in any year after the first publication thereof, the Council shall cause any alterations in the entries in the register which have been made since the last publication thereof to be published within that year.
 
@@ -143,7 +143,7 @@ Where the name of any person is removed from the register in pursuance of this A
 
 (1) The Council shall keep accounts of all sums received or paid by them and the accounts shall be audited by auditors appointed by the Council.
 
-(2) No person shall be appointed under the last foregoing subsection unless he is eligible for appointment as a[^c656161] statutory auditor under Part 42 of the Companies Act 2006[^key-97739a5f79a319abd9a494369d09aa5d].
+(2) No person shall be appointed under the last foregoing subsection unless he is eligible for appointment as a[^c656161] statutory auditor under Part 42 of the Companies Act 2006[^c-97739a5f79a319abd9a494369d09aa5d].
 
 (3) Copies of the accounts of the Council shall be furnished to any person on application and on payment of such reasonable sum as the Council may determine.
 
@@ -155,7 +155,7 @@ The Hairdressing Council shall have no powers as regards negotiating questions o
 
 In this Act, unless the context otherwise requires, the following expressions shall have the meanings hereby respectively assigned to them, that is to say:—
 
-- [^key-53778d2ba0e2f93e281a67493c97bd61]...
+- [^c-53778d2ba0e2f93e281a67493c97bd61]...
 - “**functions**” includes powers and duties;
 - “**hairdressing**” means the following:—
 
@@ -180,17 +180,17 @@ Section 1.
 
 **1.** The Council shall consist of:—
 
-(1) four persons, who [^key-5446c37aa9b333904e4d22dc13b4f72c]... shall be registered persons and who shall be employers of persons engaged in hairdressing, or self-employed persons engaged in hairdressing, of whom two shall be appointed by the National Hairdressers Federation and two shall be appointed by the Incorporated Guild of Hairdressers, Wigmakers and Perfumers;
+(1) four persons, who [^c-5446c37aa9b333904e4d22dc13b4f72c]... shall be registered persons and who shall be employers of persons engaged in hairdressing, or self-employed persons engaged in hairdressing, of whom two shall be appointed by the National Hairdressers Federation and two shall be appointed by the Incorporated Guild of Hairdressers, Wigmakers and Perfumers;
 
-(2) four persons, who [^key-292981c27f04129f642583ff08b91b40]... shall be registered persons and who shall be employees engaged in hairdressing, to be appointed by the Union of Shop, Distributive and Allied Workers;
+(2) four persons, who [^c-292981c27f04129f642583ff08b91b40]... shall be registered persons and who shall be employees engaged in hairdressing, to be appointed by the Union of Shop, Distributive and Allied Workers;
 
 (3) one person appointed by the President of the British Medical Association;
 
 (4) one person appointed by the President of the Royal College of Physicians of London;
 
-(5) five persons appointed [^key-e88a87edc2e0886002772217f017f8df]... by the members of the Council appointed under sub-paragraphs (1) and (2) of this paragraph from among persons appearing to them to have had wide experience of, and shown capacity in, industry, commerce, administration, finance, or the practice of the law, or to have, in some other respect, special knowledge or experience that would be of value to the Council in the exercise and performance of its functions.
+(5) five persons appointed [^c-e88a87edc2e0886002772217f017f8df]... by the members of the Council appointed under sub-paragraphs (1) and (2) of this paragraph from among persons appearing to them to have had wide experience of, and shown capacity in, industry, commerce, administration, finance, or the practice of the law, or to have, in some other respect, special knowledge or experience that would be of value to the Council in the exercise and performance of its functions.
 
-**2.**[^key-5f2f92ebdddcdc459998747d1d1e2d14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5f2f92ebdddcdc459998747d1d1e2d14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** (1) Before the National Hairdressers Federation and the Incorporated Guild of Hairdressers, Wigmakers and Perfumers proceed to appoint the Members of the Hairdressing Council under sub-paragraph (1) of paragraph 1 of this Schedule they shall consult together and shall ensure that not less than two of the persons to be appointed under the said sub-paragraph (1) shall be persons engaged in ladies’ hairdressing.
 
@@ -200,13 +200,13 @@ Section 1.
 
 **4.** The Hairdressing Council shall be a body corporate with perpetual succession and a common seal.
 
-**5.**[^key-95c7a15130e9b61e40b56c0affeb1f9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-95c7a15130e9b61e40b56c0affeb1f9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** (1) Of the members first appointed under sub-paragraphs (1) and (2) of paragraph 1 of this Schedule one-fourth shall retire on the thirty-first day of December in each of the years 1965, 1966, 1967 and 1968.
 
 (2) The term of office of the members subsequently appointed under those sub-paragraphs shall be four years.
 
-(3)[^key-161dabf788cce6bdb8fa701894c29edc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-161dabf788cce6bdb8fa701894c29edc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** The term of office of the members appointed under sub-paragraphs (3) to (5) of paragraph 1 of this Schedule shall be three years.
 
@@ -266,13 +266,13 @@ Section 8.
 
 [^c656155]: Commencement: Act wholly in force at Royal Assent.
 
-[^key-6b4c5256fa3ce5632ea70cd6399d6c89]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukpga/1964/89/section/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-6b4c5256fa3ce5632ea70cd6399d6c89]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukpga/1964/89/section/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-dc2662f1c5065a10191cd4f799b2d911]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1964/89/section/3/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-dc2662f1c5065a10191cd4f799b2d911]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1964/89/section/3/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-3346ff61b147b5502b3875fdc61dfe02]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1964/89/section/3/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-3346ff61b147b5502b3875fdc61dfe02]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1964/89/section/3/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-06baf0343d7be6fd842836427a91e048]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/1964/89/section/7/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-06baf0343d7be6fd842836427a91e048]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/1964/89/section/7/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
 [^c656156]: Textual amendment: Words substituted by virtue of [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1978/30/section/25/2)
 
@@ -282,20 +282,20 @@ Section 8.
 
 [^c656161]: Textual amendment: Words in s. 13(2) substituted by virtue of [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997), [reg. 2](https://www.legislation.gov.uk/uksi/1991/1997/regulation/2), [Sch. para.12](https://www.legislation.gov.uk/uksi/1991/1997/schedule/paragraph/12).
 
-[^key-97739a5f79a319abd9a494369d09aa5d]: Textual amendment: Words in [s. 13(2)](https://www.legislation.gov.uk/ukpga/1964/89/section/13/2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-97739a5f79a319abd9a494369d09aa5d]: Textual amendment: Words in [s. 13(2)](https://www.legislation.gov.uk/ukpga/1964/89/section/13/2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-53778d2ba0e2f93e281a67493c97bd61]: Textual amendment: Words in s. 15 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-53778d2ba0e2f93e281a67493c97bd61]: Textual amendment: Words in s. 15 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-5446c37aa9b333904e4d22dc13b4f72c]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/1964/89/schedule/1/paragraph/1/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-5446c37aa9b333904e4d22dc13b4f72c]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/1964/89/schedule/1/paragraph/1/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-292981c27f04129f642583ff08b91b40]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ukpga/1964/89/schedule/1/paragraph/1/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-292981c27f04129f642583ff08b91b40]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ukpga/1964/89/schedule/1/paragraph/1/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-e88a87edc2e0886002772217f017f8df]: Textual amendment: Words in [Sch. 1 para. 1(5)](https://www.legislation.gov.uk/ukpga/1964/89/schedule/1/paragraph/1/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-e88a87edc2e0886002772217f017f8df]: Textual amendment: Words in [Sch. 1 para. 1(5)](https://www.legislation.gov.uk/ukpga/1964/89/schedule/1/paragraph/1/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-5f2f92ebdddcdc459998747d1d1e2d14]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1964/89/schedule/1/paragraph/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-5f2f92ebdddcdc459998747d1d1e2d14]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1964/89/schedule/1/paragraph/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-95c7a15130e9b61e40b56c0affeb1f9e]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1964/89/schedule/1/paragraph/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-95c7a15130e9b61e40b56c0affeb1f9e]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1964/89/schedule/1/paragraph/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-161dabf788cce6bdb8fa701894c29edc]: Textual amendment: [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/ukpga/1964/89/schedule/1/paragraph/6/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-161dabf788cce6bdb8fa701894c29edc]: Textual amendment: [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/ukpga/1964/89/schedule/1/paragraph/6/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
 [^c656163]: Textual amendment: [Sch. 2 para. 3(1)(a)(b)](https://www.legislation.gov.uk/ukpga/1964/89/schedule/2/paragraph/3/1/a/b) substituted by [Courts and Legal Services Act 1990 (c. 41, SIF 37)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 71(2)](https://www.legislation.gov.uk/ukpga/1990/41/section/71/2), [Sch. 10 para. 23](https://www.legislation.gov.uk/ukpga/1990/41/schedule/10/paragraph/23)

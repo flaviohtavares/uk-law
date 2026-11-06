@@ -30,7 +30,7 @@ summary: ''
 - (a) a lay member dies or is otherwise unable to continue to attend the proceedings, or
 - (b) the number of lay members discharged under rule 35(4) (objections to lay members) exceeds the number of waiting members,
 
-and the number of lay members is in consequence reduced below the minimum number required for the Court Martial to remain validly constituted[^key-09f576c389fb17af30223c831e271964].
+and the number of lay members is in consequence reduced below the minimum number required for the Court Martial to remain validly constituted[^c-09f576c389fb17af30223c831e271964].
 
 (3) The judge advocate may terminate any proceedings if he considers it in the interests of justice to do so.
 
@@ -46,4 +46,4 @@ and the number of lay members is in consequence reduced below the minimum number
 
 ## Annotations
 
-[^key-09f576c389fb17af30223c831e271964]: Textual amendment: Words in [rule 25(2)](https://www.legislation.gov.uk/uksi/2009/2041/rule/25/2) inserted (1.1.2023) by [The Armed Forces (Court Martial) (Amendment) Rules 2022 (S.I. 2022/1264)](https://www.legislation.gov.uk/uksi/2022/1264), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1264/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2022/1264/rule/5)
+[^c-09f576c389fb17af30223c831e271964]: Textual amendment: Words in [rule 25(2)](https://www.legislation.gov.uk/uksi/2009/2041/rule/25/2) inserted (1.1.2023) by [The Armed Forces (Court Martial) (Amendment) Rules 2022 (S.I. 2022/1264)](https://www.legislation.gov.uk/uksi/2022/1264), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1264/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2022/1264/rule/5)

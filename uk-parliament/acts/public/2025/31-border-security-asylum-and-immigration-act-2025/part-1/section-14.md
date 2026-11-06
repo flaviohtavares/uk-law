@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Handling articles for use in immigration crime[^key-ef6597e22bcea48aedd8ac1243d18fba][^key-6a7268d11904305b432606d8354ee833]
+## 14. Handling articles for use in immigration crime[^c-ef6597e22bcea48aedd8ac1243d18fba][^c-6a7268d11904305b432606d8354ee833]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef6597e22bcea48aedd8ac1243d18fba]: Commencement: S. 14 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-ef6597e22bcea48aedd8ac1243d18fba]: Commencement: S. 14 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-6a7268d11904305b432606d8354ee833]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2025/31/section/14) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/b)
+[^c-6a7268d11904305b432606d8354ee833]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2025/31/section/14) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/b)

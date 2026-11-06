@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Price control conditions[^key-5d3d53f9302bbf994a943970231da98f]
+## 19. Price control conditions[^c-5d3d53f9302bbf994a943970231da98f]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d3d53f9302bbf994a943970231da98f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2012/19/section/19) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-5d3d53f9302bbf994a943970231da98f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2012/19/section/19) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

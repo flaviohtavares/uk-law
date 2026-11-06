@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Monetary penalties[^key-b5d93e6c1ce2023a2bd6c510fc119959]
+## 36. Monetary penalties[^c-b5d93e6c1ce2023a2bd6c510fc119959]
 
 *Extent: E+W+S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5d93e6c1ce2023a2bd6c510fc119959]: Commencement: S. 36 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-b5d93e6c1ce2023a2bd6c510fc119959]: Commencement: S. 36 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
